@@ -396,9 +396,9 @@ def create_origins(entries):
       ("mythos-enheduanna-disque-penn-museum-mefman00.jpg","Disque d’Enheduanna","Mésopotamie — poésie et fonction cultuelle."),
       ("mythos-yazilikaya-chambre-b-douze-dieux-ywpark.jpg","Reliefs du sanctuaire de Yazılıkaya","Anatolie — espace et iconographie sacrés.")
     ],"Sources et objets de l’histoire religieuse")
-    body+='<nav class="origins-toc" aria-label="Parcours des Origines du sacré"><h2>Parcours en six ensembles</h2><ol>'+''.join('<li><a href="#ods-partie-'+str(i)+'">'+esc(title)+'</a></li>' for i,(title,_,_) in enumerate(sections,1))+'</ol></nav>'
-    for i,(title,chapters,desc) in enumerate(sections,1):
-        body+='<section class="portal-section origins-group" id="ods-partie-'+str(i)+'"><h2>'+esc(title)+'</h2><p class="section-intro">'+esc(desc)+'</p><ol class="chapter-list origins-index">'+''.join(row(n) for n in chapters)+'</ol></section>'
+    # Le parcours en six étapes est retiré du portail public.
+    # Les 48 dossiers historiques restent accessibles dans une liste documentaire unique.
+    body+='<section class="portal-section" id="dossiers-historiques"><h2>Dossiers thématiques historiques</h2><p class="section-intro">48 dossiers conservés, sans parcours imposé ni suppression de contenu.</p><ol class="chapter-list origins-index">'+''.join(row(n) for n in range(443,491))+'</ol></section>'
     # Manuscrit historique récupéré depuis la bibliothèque MYTHOS, conservé intégralement en neuf parties.
     integral_parts=[e for e in corpus if re.fullmatch(r"/chapitres/origines-du-sacre/manuscrit-integral-partie-0[1-9]/",e["url"])]
     if len(integral_parts)!=9:
