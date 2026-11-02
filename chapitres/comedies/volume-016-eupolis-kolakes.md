@@ -343,3 +343,6 @@ Ce qui demeure des *Kolakes* n'est pas une comédie entière, mais un faisceau d
 **Prochain volume : XVII**, à définir seulement après vérification des fichiers effectivement enregistrés. La création de cette étude ne doit entraîner ni suppression de notices anciennes ni modification WordPress.
 
 *MYTHOS — étude publique originale. L'œuvre antique est perdue ; les lacunes sont conservées comme des faits documentaires.*
+
+
+**Suite du cycle :** [Volume XVII — Eupolis, *Noumêniai*](/chapitres/comedies/volume-017-eupolis-noumeniai/) — dossier sur les *Nouvelles Lunes* (425 av. J.-C.), témoignage didascalique unique, absence de fragments et trois scènes contemporaines explicitement fictives.
