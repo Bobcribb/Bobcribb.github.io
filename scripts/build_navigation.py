@@ -122,7 +122,16 @@ def create_home(entries,groups):
       ("/heros-et-heroines/","Héros et héroïnes","Exploits, voyages, fondations et destins.","GRANDES ENTRÉES"),
       ("/recits-mythologiques/","Grands récits","Créations, guerres, déluges, épopées et Enfers.","GRANDES ENTRÉES")
     ],"portal-grid-compact")
-    body=introductory+section("Dieux, héros et récits — les trois grandes entrées","Accédez directement aux personnages et aux histoires des mythologies grecque et mondiale.",essentials)
+    museum='''<section class="portal-section museum-gallery-section" aria-labelledby="museum-gallery-title">
+<div class="museum-gallery-heading"><span class="eyebrow">GALERIE ANTIQUE · MYTHOS</span>
+<h2 id="museum-gallery-title">Les œuvres et leurs mondes</h2>
+<p class="section-intro">Trois sculptures pour entrer dans les récits, les cultes et les sanctuaires. Des images conservées dans la médiathèque GitHub, sans dépendance à WordPress.</p></div>
+<div class="museum-gallery">
+<figure><img loading="lazy" src="/media/2026/10/mythos-bronze-artemision-zeus-ou-poseidon.jpg" alt="Statue de bronze du cap Artémision, représentant Zeus ou Poséidon, attribution discutée."><figcaption><strong>Zeus ou Poséidon</strong><span>Bronze du cap Artémision · identification discutée</span></figcaption></figure>
+<figure><img loading="lazy" src="/media/2026/10/mythos-olympie-nike-paionios-jarvis-2005.jpg" alt="Niké sculptée par Paionios, au musée archéologique d’Olympie."><figcaption><strong>Niké de Paionios</strong><span>Olympie · offrande et célébration de la victoire</span></figcaption></figure>
+<figure><img loading="lazy" src="/media/2026/10/mythos-artemis-ephesienne-statue-musee-selcuk-furkan-akkurt.jpg" alt="Statue cultuelle dite Artémis Éphésienne, conservée à Selçuk."><figcaption><strong>Artémis Éphésienne</strong><span>Asie Mineure · iconographie cultuelle</span></figcaption></figure>
+</div></section>'''
+    body=introductory+museum+section("Dieux, héros et récits — les trois grandes entrées","Accédez directement aux personnages et aux histoires des mythologies grecque et mondiale.",essentials)
     body+=section("Les grands parcours de recherche","Choisissez un monde, un genre littéraire ou une méthode d’étude.",major)
     body+=section("Civilisations du monde, par continent","Une géographie de consultation moderne : les échanges et les appartenances historiques débordent les frontières continentales.",continent_cards)
     body+=section("Bibliothèques et traditions à découvrir","Des portes d’entrée vers les principaux corpus.",world)
