@@ -135,3 +135,13 @@
 .theatre-catalog .work-links a:hover{border-color:#f2d193;color:#fff0c3}
 .museum-gallery figure img{object-position:50% 33%}
 @media(max-width:900px){.theatre-catalog .linked-works{grid-template-columns:1fr}}
+
+/* MYTHOS — numérotation ODS autonome et commentaires vers par vers */
+.origins-index{counter-reset:none}
+.origins-index li:before{content:none!important}
+.origins-index .origin-id{display:block;color:#d8b66f;font:700 12px/1.4 Inter,system-ui,sans-serif;letter-spacing:.12em;margin-bottom:7px}
+.origins-index a{font-weight:600}
+#commentaires-vers{scroll-margin-top:100px}
+#commentaires-vers .work-list li{padding-bottom:16px}
+#commentaires-vers .work-list small{line-height:1.5}
+@media(max-width:600px){#commentaires-vers{scroll-margin-top:140px}}
