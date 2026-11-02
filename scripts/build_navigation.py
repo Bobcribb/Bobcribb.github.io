@@ -406,7 +406,20 @@ def create_origins(entries):
     body+='<section class="portal-section" id="manuscrit-integral"><h2>Manuscrit historique intégral — tomes I à XX</h2><p class="section-intro">Texte original conservé en neuf parties continues, sans abrègement. Édition de recherche, non évaluée par les pairs. Le manuscrit est distinct des chapitres 443 à 490 publiés ci-dessous.</p><ol class="chapter-list">'+''.join('<li><a href="'+esc(e["url"])+'">'+esc("Lire le manuscrit — partie "+str(i)+" sur 9")+'</a></li>' for i,e in enumerate(integral_parts,1))+'</ol></section>'
     body+=section("Intégralité et méthode","48 chapitres : 8 dans le tome XXXVIII et 40 pages individuelles ; aucun texte recopié ou remplacé.",
       '<p>Les numéros ODS servent uniquement à naviguer sur le site. Les liens ODS-001 à ODS-008 conduisent aux sections précises du tome XXXVIII, avec des ancres individuelles. Les chapitres suivants conservent leur adresse. Les références archéologiques, les traditions littéraires et les hypothèses comparatives doivent rester distinguées.</p>')
-    write("origines-du-sacre",shell("Origines du sacré — manuscrit historique et 48 chapitres MYTHOS",body))
+    # Bibliothèque intégrale : 27 tomes de la sauvegarde, sans supprimer les 48 dossiers historiques.
+    roman_volumes = ["i","ii","iii","iv","v","vi","vii","viii","ix","x","xi","xii","xiii","xiv","xv","xvi","xvii","xviii","xix","xx","xxi","xxii","xxiii","xxiv","xxv","xxvi","xxvii"]
+    roman_labels = [x.upper() for x in roman_volumes]
+    special_slugs = {"i":"tome-i-hohle-fels","ii":"tome-ii-prehistoire-du-sacre","iii":"tome-iii-corps-caverne-mondes-invisibles"}
+    integral_volumes = []
+    for roman, label in zip(roman_volumes, roman_labels):
+        slug = special_slugs.get(roman, "tome-"+roman)
+        url = "/chapitres/origines-du-sacre/archives-integrales/"+slug+"/"
+        page = OUT / url.lstrip("/") / "index.html"
+        if not page.is_file():
+            raise RuntimeError("Origines du sacré : tome manquant : "+label)
+        integral_volumes.append((url, "Tome "+label, "Texte intégral de recherche", "MANUSCRIT"))
+    body = '<h1>Origines du sacré</h1><p class="section-intro">Bibliothèque intégrale de recherche : 27 tomes, 1 052 chapitres et sections répertoriés. Les références, attributions et hypothèses restent soumises à vérification scientifique.</p>'+section("Les 27 tomes — édition intégrale","Lire chaque volume sans abrègement ; les 48 dossiers thématiques historiques sont conservés plus bas.",cards(integral_volumes))+body
+    write("origines-du-sacre",shell("Origines du sacré — 27 tomes intégraux et dossiers thématiques MYTHOS",body))
 
 def create_theatre(entries):
     """Théâtre grec : corpus méthodique vérifié dans search.json, sans renuméroter les volumes."""
