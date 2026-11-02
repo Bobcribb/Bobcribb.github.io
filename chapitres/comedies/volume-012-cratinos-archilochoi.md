@@ -234,4 +234,6 @@ L'absence de texte intégral est ici une exigence de méthode : il faut interpr�
 **Portail Théâtre grec :** [MYTHOS — Théâtre](https://bobmythos.fr/theatre/).  
 **Bibliothèque historique :** [Comédies perdues](https://bobmythos.fr/comedie-grecque-aristophane-menandre-etudes/comedies-perdues-cratinos-eupolis-philemon-fragments/).
 
-*Fin du volume XII. Le volume XIII devra être attribué seulement après contrôle de la progression effective du dépôt et de la navigation. Aucun contenu WordPress n'est modifié.*
+**Volume suivant :** [XIII — Eupolis, *Dēmoi* : peut-on faire revenir la justice avec les morts ?](/chapitres/comedies/volume-013-eupolis-demoi/).  
+
+*Fin du volume XII. Le volume XIII est désormais enregistré sur GitHub ; aucun contenu WordPress n'a été modifié.*
