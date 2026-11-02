@@ -21,13 +21,15 @@ L'hébergement WordPress.com **Personal** à 9 €/mois n'est plus nécessaire p
 
 Pour ne plus payer le forfait Personal : annuler **l'abonnement d'hébergement**, pas le domaine. WordPress.com conserve normalement les pages, les articles et les médias d'un site rétrogradé à l'offre gratuite.
 
-## Édition et synchronisation
+## Publication entièrement indépendante de WordPress
 
-Le workflow [Synchroniser MYTHOS vers GitHub Pages](.github/workflows/publish.yml) construit le site depuis les **pages WordPress publiées**, puis préserve localement les médias, les publie sous la racine GitHub Pages et déploie le site. Il est programmé environ une fois par heure, sous réserve de la disponibilité de l'API publique WordPress.com et des délais GitHub Actions. La publication ultérieure de nouveaux chapitres nécessite qu'ils apparaissent dans WordPress, ou soient ajoutés directement à GitHub. Les tâches de rédaction ChatGPT ne publient pas automatiquement des pages.
+Depuis le 2 novembre 2026, la publication MYTHOS repose sur le contenu **déjà versionné dans GitHub**, sans appel réseau à WordPress. Le workflow `.github/workflows/publish.yml` exécute `scripts/build_native.py`, contrôle les 110 médias et les 500+ dossiers, puis publie avec GitHub Pages.
 
-Le générateur impose au moins **400 pages publiques** avant de remplacer le site : si le site WordPress devient inaccessible ou privé après rétrogradation, le workflow échouera, **mais les 502 dossiers déjà copiés et les 110 médias resteront publiés sur GitHub**. Il faudra alors passer à une gestion éditoriale GitHub-native.
+Les nouvelles études peuvent être ajoutées à `chapitres/` comme fichiers Markdown, directement dans GitHub ou depuis ChatGPT avec le connecteur GitHub. Lire `chapitres/README.md` : les fichiers sont publiés automatiquement après push sur main, référencés dans le catalogue et indexés pour la recherche.
 
-Les six PDF externes figurant dans les bibliographies ne sont pas revendiqués comme médias MYTHOS et conservent leurs URL d'origine.
+Une vérification horaire republie le site existant si nécessaire, mais **n'invente pas de nouveaux chapitres**. Les automations éditoriales de ChatGPT restent distinctes ; leurs nouvelles productions doivent être enregistrées dans le dépôt GitHub pour apparaître sur le site.
+
+L'ancienne API WordPress n'est conservée que dans `scripts/build.py` à des fins d'archive et d'import manuel. Elle ne fait plus partie du workflow de publication. Le site conserve ses dossiers HTML et ses 110 médias originaux dans GitHub, ainsi que des sauvegardes privées sur Drive. La rétrogradation du site WordPress vers le forfait gratuit ne fait pas disparaître la bibliothèque GitHub.
 
 ## Fichiers et restauration
 
