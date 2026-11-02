@@ -547,16 +547,16 @@ def create_encyclopedia(entries):
     groups={code:[] for code,_,_ in collections}
     for e in canonical.values():
         groups[classify_encyclopedia(e)].append(e)
-    # La numérotation publique est stable sur le contenu actuellement indexé.
+    # Les cotes de registre sont recalculées lors des ajouts ; les URL restent pérennes.
     # L'identifiant canonique est l'URL : les numéros sont des cotes de catalogue,
     # jamais des remplacements des références scientifiques d'une édition.
     assigned={}
     for code,_,_ in collections:
         for i,e in enumerate(sorted(groups[code],key=lambda x:x["url"]),1):
-            assigned[e["url"]]=code+"-"+str(i).zfill(4)
+            assigned[e["url"]]="RG-"+code+"-"+str(i).zfill(4)
     if len(assigned)!=len(canonical) or len(set(assigned.values()))!=len(assigned):
         raise RuntimeError("MYTHOS : registre incomplet ou cotes en double")
-    body='<h1>Grande encyclopédie MYTHOS</h1><p class="portal-lead">Catalogue général de tous les dossiers publics, organisé en collections distinctes. Chaque entrée a une cote propre au site, sans effacement des textes, des sources ni des anciennes références scientifiques. Les manuscrits non encore importés ne sont pas présentés comme publiés.</p>'
+    body='<h1>Grande encyclopédie MYTHOS</h1><p class="portal-lead">Catalogue général de tous les dossiers publics, organisé en collections distinctes. Chaque entrée a une cote de registre RG distincte des numéros éditoriaux ODS et AR-CO, sans effacement des textes, des sources ni des anciennes références scientifiques. Les manuscrits non encore importés ne sont pas présentés comme publiés.</p>'
     body+='<nav class="origins-toc" aria-label="Collections encyclopédiques"><h2>Collections</h2><ol>'+''.join(
         '<li><a href="#collection-'+code.lower()+'">'+esc(code+" · "+name)+" ("+str(len(groups[code]))+')</a></li>'
         for code,name,_ in collections)+'</ol></nav>'
