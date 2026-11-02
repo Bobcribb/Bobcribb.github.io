@@ -163,6 +163,63 @@ def reindex(chapters):
     write("robots.txt","User-agent: *\nAllow: /\nSitemap: "+SITE_URL+"/sitemap.xml\n")
     return len(entries)
 
+
+def decorate_editorial_pages():
+    """Add contextual illustrated sidebars to existing public pages without changing articles."""
+    media_root = OUT / "media" / "2026" / "10"
+    groups = {
+        "theatre": [("mythos-masques-theatre-rondelles-hellenistiques-met-2001-767.jpg", "Masques de théâtre hellénistiques"), ("antigone-libation-rinehart-1870.jpg", "Antigone, interprétation artistique moderne")],
+        "philosophie": [("jacques-louis-david-mort-de-socrate-1787.jpg", "La Mort de Socrate, Jacques-Louis David"), ("mythos-derveni-papyrus-fragments-thessalonique-gts-tg.jpg", "Papyrus de Derveni")],
+        "origines": [("mythos-derveni-papyrus-fragments-thessalonique-gts-tg.jpg", "Papyrus de Derveni"), ("mythos-derveni-cratere-dionysos-menade-carole-raddato.jpg", "Cratère de Derveni")],
+        "grece": [("mythos-bronze-artemision-zeus-ou-poseidon.jpg", "Bronze du cap Artémision, attribution discutée"), ("delphes-temple-apollon-bernard-gagnon.jpg", "Temple d’Apollon à Delphes")],
+        "monde": [("mythos-papyrus-ani-pesee-coeur-british-museum.jpg", "Égypte, papyrus d’Ani"), ("mythos-enuma-elish-tablette-k3473-ninive-zunkir.jpg", "Mésopotamie, Enūma eliš")],
+    }
+    updated = 0
+    for page in OUT.rglob("index.html"):
+        if page.relative_to(OUT).parts[0] in ("rubriques", "recherche"):
+            continue
+        doc = BeautifulSoup(page.read_text(encoding="utf-8"), "html.parser")
+        main = doc.select_one("main.layout")
+        article = main.select_one("article.content") if main else None
+        if not article:
+            continue
+        if not doc.select_one('link[href="/assets/mythos-refonte.css"]') and doc.head:
+            doc.head.append(doc.new_tag("link", rel="stylesheet", href="/assets/mythos-refonte.css"))
+        if main.select_one(".mythos-home-illustrations"):
+            page.write_text(str(doc), encoding="utf-8")
+            continue
+        url = "/" + "/".join(page.relative_to(OUT).parts[:-1]) + "/"
+        if "traged" in url or "comed" in url or "/theatre/" in url:
+            group = "theatre"
+        elif "philosoph" in url or "/comparatif/" in url:
+            group = "philosophie"
+        elif "origines-du-sacre" in url:
+            group = "origines"
+        elif any(x in url for x in ("grece", "dieu-", "heros-", "delphes", "athen", "olymp", "chapitres/encyclopedie")):
+            group = "grece"
+        else:
+            group = "monde"
+        aside = doc.new_tag("aside", attrs={"class": "mythos-home-illustrations", "aria-label": "Documents iconographiques"})
+        heading = doc.new_tag("h2")
+        heading.string = "Regards sur les œuvres"
+        aside.append(heading)
+        for filename, caption in groups[group]:
+            if not (media_root / filename).is_file():
+                continue
+            figure = doc.new_tag("figure")
+            figure.append(doc.new_tag("img", src="/media/2026/10/" + filename, alt=caption, loading="lazy"))
+            figcaption = doc.new_tag("figcaption")
+            figcaption.string = caption
+            figure.append(figcaption)
+            aside.append(figure)
+        if not aside.find("figure"):
+            continue
+        main["class"] = list(dict.fromkeys(main.get("class", []) + ["portal-layout"]))
+        article.insert_after(aside)
+        page.write_text(str(doc), encoding="utf-8")
+        updated += 1
+    return updated
+
 def main():
     if OUT.exists():
         shutil.rmtree(OUT)
@@ -175,6 +232,8 @@ def main():
     build_portals()
     n_indexed=reindex(chapters)
     finalize_navigation(n_indexed)
+    n_illustrated = decorate_editorial_pages()
+    print(f"Galeries latérales ajoutées sur {n_illustrated} pages.")
     write(".nojekyll","")
     write("CNAME","bobmythos.fr\n")
     print(f"MYTHOS SANS WORDPRESS : {n_pages} HTML de GitHub, {n_media} médias locaux, {len(chapters)} nouveaux chapitres Markdown, {n_indexed} dossiers indexés.")

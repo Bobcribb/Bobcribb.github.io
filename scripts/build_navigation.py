@@ -310,7 +310,7 @@ def numbered_works(items, kind):
     )+'</ol>'
 
 def create_origins(entries):
-    """Catalogue exhaustif des 40 chapitres présents (443 à 482), sans doubler les textes."""
+    """Catalogue exhaustif des 48 chapitres présents (443 à 490), sans doubler les textes."""
     corpus=[e for e in entries if e["url"].startswith("/chapitres/origines-du-sacre/")]
     by_number={}
     omnibus="/chapitres/origines-du-sacre/tome-xxxviii-chapitres-443-450/"
@@ -321,7 +321,7 @@ def create_origins(entries):
             if number in by_number:
                 raise RuntimeError("Origines du sacré : doublon du chapitre "+str(number))
             by_number[number]=e
-    expected=set(range(451,483))
+    expected=set(range(451,491))
     if set(by_number)!=expected:
         raise RuntimeError("Origines du sacré : chapitres manquants ou en double : "+str(sorted(expected-set(by_number)))+" ; autres : "+str(sorted(set(by_number)-expected)))
     if not any(e["url"]==omnibus for e in corpus):
@@ -366,7 +366,15 @@ def create_origins(entries):
       479:"Iran et Inde : feu, mandala et temple",
       480:"Chine : autels, montagnes et espaces sacrés",
       481:"Afrique et Amériques : paysages sacrés",
-      482:"Philosophie de la géographie sacrée"
+      482:"Philosophie de la géographie sacrée",
+      483:"Grèce : serment et Horkos",
+      484:"Grèce : malédictions et katadesmoi",
+      485:"Traités hittites et assyriens : obligations sacrées",
+      486:"Égypte : parole rituelle et exécration",
+      487:"Iran et Inde : Mithra, ṛta et satya",
+      488:"Chine : serments et alliances",
+      489:"Afrique et Amériques : parole rituelle",
+      490:"Philosophie du serment et performativité"
     }
     def row(n):
         url=(omnibus+"#chapitre-"+str(n)) if n<=450 else by_number[n]["url"]
@@ -377,21 +385,22 @@ def create_origins(entries):
       ("II · Oracles, inspiration et médiations",range(451,459),"Tome XXXIX — huit dossiers individuels."),
       ("III · Musique, chants et rythmes sacrés",range(459,467),"Huit dossiers individuels."),
       ("IV · Calendriers et temps sacré",range(467,475),"Huit dossiers individuels."),
-      ("V · Sanctuaires et géographies sacrées",range(475,483),"Huit dossiers individuels.")
+      ("V · Sanctuaires et géographies sacrées",range(475,483),"Huit dossiers individuels."),
+      ("VI · Serments, malédictions et puissance de la parole",range(483,491),"Huit dossiers individuels.")
     ]
-    body='<h1>Origines du sacré</h1><p class="portal-lead">Quarante chapitres accessibles dans leur intégralité : des Mystères grecs aux rites, musiques, calendriers et sanctuaires des sociétés anciennes. La collection possède ses propres numéros ODS-001 à ODS-040 ; les anciennes références techniques sont conservées dans les adresses des sources, mais ne figurent plus dans le sommaire public.</p>'
+    body='<h1>Origines du sacré</h1><p class="portal-lead">Quarante-huit chapitres accessibles dans leur intégralité : des Mystères grecs aux rites, musiques, calendriers et sanctuaires des sociétés anciennes. La collection possède ses propres numéros ODS-001 à ODS-048 ; les anciennes références techniques sont conservées dans les adresses des sources, mais ne figurent plus dans le sommaire public.</p>'
     body+=museum_figures([
       ("mythos-ounas-chambre-funeraire-vincent-brown.jpg","Textes funéraires dans la pyramide d’Ounas","Égypte — écriture et pratiques funéraires."),
       ("mythos-derveni-papyrus-fragments-thessalonique-gts-tg.jpg","Fragments du papyrus de Derveni","Grèce — interprétation d’une tradition poétique religieuse."),
       ("mythos-enheduanna-disque-penn-museum-mefman00.jpg","Disque d’Enheduanna","Mésopotamie — poésie et fonction cultuelle."),
       ("mythos-yazilikaya-chambre-b-douze-dieux-ywpark.jpg","Reliefs du sanctuaire de Yazılıkaya","Anatolie — espace et iconographie sacrés.")
     ],"Sources et objets de l’histoire religieuse")
-    body+='<nav class="origins-toc" aria-label="Parcours des Origines du sacré"><h2>Parcours en cinq ensembles</h2><ol>'+''.join('<li><a href="#ods-partie-'+str(i)+'">'+esc(title)+'</a></li>' for i,(title,_,_) in enumerate(sections,1))+'</ol></nav>'
+    body+='<nav class="origins-toc" aria-label="Parcours des Origines du sacré"><h2>Parcours en six ensembles</h2><ol>'+''.join('<li><a href="#ods-partie-'+str(i)+'">'+esc(title)+'</a></li>' for i,(title,_,_) in enumerate(sections,1))+'</ol></nav>'
     for i,(title,chapters,desc) in enumerate(sections,1):
         body+='<section class="portal-section origins-group" id="ods-partie-'+str(i)+'"><h2>'+esc(title)+'</h2><p class="section-intro">'+esc(desc)+'</p><ol class="chapter-list origins-index">'+''.join(row(n) for n in chapters)+'</ol></section>'
-    body+=section("Intégralité et méthode","40 chapitres : 8 dans le tome XXXVIII et 32 pages individuelles ; aucun texte recopié ou remplacé.",
+    body+=section("Intégralité et méthode","48 chapitres : 8 dans le tome XXXVIII et 40 pages individuelles ; aucun texte recopié ou remplacé.",
       '<p>Les numéros ODS servent uniquement à naviguer sur le site. Les liens ODS-001 à ODS-008 conduisent aux sections précises du tome XXXVIII, avec des ancres individuelles. Les chapitres suivants conservent leur adresse. Les références archéologiques, les traditions littéraires et les hypothèses comparatives doivent rester distinguées.</p>')
-    write("origines-du-sacre",shell("Origines du sacré — 40 chapitres MYTHOS",body))
+    write("origines-du-sacre",shell("Origines du sacré — 48 chapitres MYTHOS",body))
 
 def create_theatre(entries):
     """Théâtre grec : corpus méthodique vérifié dans search.json, sans renuméroter les volumes."""

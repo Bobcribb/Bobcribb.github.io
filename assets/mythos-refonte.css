@@ -1,0 +1,30 @@
+/* MYTHOS — proposition de refonte éditoriale, non déployée */
+:root{--mythos-ink:#111318;--mythos-panel:#1b1d23;--mythos-gold:#c9a86b;--mythos-paper:#f0e8d8}
+.mythos-edition{color:var(--mythos-paper);background:var(--mythos-ink);font-family:Georgia,'Times New Roman',serif;line-height:1.75}
+.mythos-edition a{color:var(--mythos-gold)}
+.mythos-edition h1,.mythos-edition h2,.mythos-edition h3{color:var(--mythos-gold);line-height:1.25}
+.mythos-edition-layout{display:grid;grid-template-columns:minmax(0,1fr) minmax(220px,290px);gap:clamp(1.5rem,4vw,4rem);max-width:1320px;margin:auto;padding:clamp(1rem,3vw,3rem)}
+.mythos-edition-main{min-width:0;max-width:78ch}
+.mythos-edition-aside{border-left:1px solid #69563c;padding-left:1.25rem;align-self:start}
+.mythos-edition-aside figure{margin:0 0 2rem}
+.mythos-edition-aside img{display:block;width:100%;height:auto;object-fit:contain;border:1px solid #69563c}
+.mythos-edition-aside figcaption{font-size:.85rem;line-height:1.45;color:#d4c4a8;margin-top:.5rem}
+.mythos-tome-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:1rem}
+.mythos-tome-card{display:block;padding:1.25rem;border:1px solid #69563c;background:var(--mythos-panel);text-decoration:none}
+.mythos-tome-card:hover,.mythos-tome-card:focus-visible{outline:2px solid var(--mythos-gold);outline-offset:2px}
+@media(max-width:850px){.mythos-edition-layout{grid-template-columns:1fr}.mythos-edition-aside{border-left:0;border-top:1px solid #69563c;padding:1.5rem 0 0;display:grid;grid-template-columns:repeat(auto-fit,minmax(145px,1fr));gap:1rem}}
+
+/* Home page: visual editorial rail, without replacing existing content */
+.portal-layout:has(.mythos-home-illustrations){grid-template-columns:minmax(0,1fr) minmax(190px,245px);gap:clamp(1.5rem,4vw,4rem)}
+.mythos-home-illustrations{min-width:0;border-left:1px solid var(--line);padding-left:1.25rem;position:sticky;top:105px}
+.mythos-home-illustrations h2{font:500 1.65rem/1.2 'Cormorant Garamond',Georgia,serif;color:var(--gold);margin:0 0 .75rem}
+.mythos-home-illustrations p,.mythos-home-illustrations figcaption{font-size:.78rem;line-height:1.55;color:var(--muted)}
+.mythos-home-illustrations figure{margin:1.2rem 0 1.8rem}
+.mythos-home-illustrations img{display:block;width:100%;height:auto;border:1px solid var(--line);border-radius:3px}
+@media(max-width:850px){.portal-layout:has(.mythos-home-illustrations){grid-template-columns:1fr}.mythos-home-illustrations{position:static;border-left:0;border-top:1px solid var(--line);padding:1.5rem 0 0;display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:1rem}.mythos-home-illustrations h2,.mythos-home-illustrations>p{grid-column:1/-1}.mythos-home-illustrations figure{margin:0}}
+
+/* Existing stylesheet ends with .layout{display:block}: restore two-column editorial grid. */
+.layout.portal-layout:has(.mythos-home-illustrations){display:grid!important;grid-template-columns:minmax(0,1fr) minmax(190px,245px);max-width:1320px;align-items:start}
+.layout.portal-layout:has(.mythos-home-illustrations)>.content{min-width:0;max-width:none}
+@media(max-width:850px){.layout.portal-layout:has(.mythos-home-illustrations){grid-template-columns:minmax(0,1fr);padding:24px 16px 56px}.mythos-home-illustrations{max-width:100%}}
+@media(prefers-reduced-motion:reduce){.mythos-edition *{scroll-behavior:auto}}

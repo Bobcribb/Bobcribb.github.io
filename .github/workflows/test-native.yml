@@ -7,6 +7,11 @@ on:
       - '.github/workflows/test-native.yml'
       - 'scripts/build_native.py'
   workflow_dispatch:
+  pull_request:
+    paths:
+      - 'scripts/build_native.py'
+      - 'assets/mythos-refonte.css'
+      - '.github/workflows/test-native.yml'
 
 permissions:
   contents: read
@@ -31,6 +36,20 @@ jobs:
           test -f _site/media/2026/10/antigone-libation-rinehart-1870.jpg
           test -f _site/CNAME
           python -c "import json; m=json.load(open('_site/media/manifest.json')); idx=json.load(open('_site/search.json')); assert m['count']==110; assert len(idx)>=500; print('OK:',len(idx),'dossiers,',m['count'],'médias')"
+      - name: Vérifier les galeries latérales sans perte de contenu
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          from bs4 import BeautifulSoup
+          pages = [Path('_site/index.html'), Path('_site/grande-encyclopedie/index.html'), Path('_site/theatre/index.html'), Path('_site/philosophie/index.html')]
+          for page in pages:
+              doc = BeautifulSoup(page.read_text(encoding='utf-8'), 'html.parser')
+              assert doc.select_one('article.content'), page
+              assert doc.select_one('aside.mythos-home-illustrations figure img'), page
+              assert doc.select_one('link[href="/assets/mythos-refonte.css"]'), page
+          assert Path('_site/assets/mythos-refonte.css').is_file()
+          print('OK : pages, textes et galeries conservés')
+          PY
       - name: Tester la publication automatique d'un futur chapitre sans le mettre en ligne
         run: |
           cat > chapitres/test-chapitre-technique.md <<'EOF'
