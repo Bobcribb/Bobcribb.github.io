@@ -1163,7 +1163,8 @@ def create_comparative_mythology(entries):
       ("/bibliotheque-perse-iran-ancien/","Perse et Iran","Textes et traditions iraniennes."),
       ("/bibliotheque-mythologies-du-monde/mythologie-inde-vedas-puranas-vishnu-shiva-devi/","Inde","Veda et Purāṇa."),
       ("/mythologies/","Autres traditions","Chine, Japon et Amériques.")]))
-    body+='<nav class="comparison-toc" aria-label="Axes de comparaison">'+''.join('<a href="#comparaison-'+str(i)+'">'+esc(title)+'</a>' for i,(title,_) in enumerate(topics,1))+'</nav>'
+    body+='<nav class="comparison-toc" aria-label="Axes de comparaison">'+''.join('<a href="#comparaison-'+str(i)+'">'+esc('MC-'+str(i).zfill(2)+' · '+title)+'</a>' for i,(title,_) in enumerate(topics,1))+'</nav>'
+    body+=section('Dossier approfondi', 'Georges Dumézil : trifonctionnalité, textes, comparaisons et critiques.', cards([('/mythologie-comparee/dumezil/','MC-07.01 · Georges Dumézil','Étude universitaire en neuf chapitres.')]))
     assigned=set()
     for i,(title,pattern) in enumerate(topics,1):
         found=[]
@@ -1178,6 +1179,23 @@ def create_comparative_mythology(entries):
     write("mythologie-comparee",shell("Mythologie comparée — études et méthodes",body))
 
 
+def create_dumezil():
+    chapters=[
+      ('La méthode comparatiste','Dumézil étudie des structures idéologiques dans certaines traditions de langues indo-européennes. Une ressemblance entre mythes ne prouve pas une origine commune. Les datations, les textes et les emprunts doivent être contrôlés.'),
+      ('Les trois fonctions','La souveraineté juridico-rituelle, la puissance guerrière et la prospérité féconde forment un modèle analytique. Il ne décrit pas nécessairement trois classes sociales réelles, ni toutes les religions du monde.'),
+      ('Mitra et Varuna','Dans les textes védiques, Mitra et Varuna illustrent selon Dumézil deux pôles de la souveraineté. Cette lecture reste une interprétation des hymnes et non une définition exhaustive des deux divinités.'),
+      ('Indra et les Asvin','Indra fournit un point de comparaison pour la fonction guerrière et les Asvin pour la vitalité et la prospérité. Leurs domaines cultuels réels débordent pourtant ce classement.'),
+      ('Jupiter Mars Quirinus','La triade romaine constitue un dossier central : Jupiter et la souveraineté, Mars et la guerre, Quirinus et la communauté productive. Les récits des premiers rois de Rome ne sont pas des chroniques historiques fiables.'),
+      ('Odin Thor Freyr','Les traditions nordiques offrent des parallèles, mais Odin et Thor remplissent plusieurs rôles. La transmission tardive des Eddas impose une grande prudence.'),
+      ('La difficulté grecque','Zeus, Athéna, Arès, Déméter et Dionysos ne se répartissent pas simplement entre trois fonctions. Les sources homériques, hésiodiques et cultuelles doivent être distinguées.'),
+      ('Critiques et limites','La sélection des seuls exemples favorables rendrait la méthode circulaire. Les contre-exemples, les changements historiques et les différences entre sociétés sont indispensables à toute comparaison.'),
+      ('Bibliographie et sources','Georges Dumézil : Jupiter Mars Quirinus (1941-1948), L’Idéologie tripartie des Indo-Européens (1958), Mythe et épopée (1968-1973), Les Dieux souverains des Indo-Européens (1977). Sources à confronter : Rigveda, Tite-Live I, Hésiode, Homère, Edda poétique et Edda de Snorri.')
+    ]
+    body='<h1>MC-07.01 · Georges Dumézil et la trifonctionnalité</h1><p class="portal-lead">Étude critique des hypothèses indo-européennes : sources, comparaisons, limites et réception.</p><p><a href="/mythologie-comparee/">Retour à la mythologie comparée</a></p>'
+    for i,(title,paragraph) in enumerate(chapters,1):
+        body+='<section class="comparison-section"><h2>MC-07.01.'+str(i).zfill(2)+' · '+esc(title)+'</h2><p>'+esc(paragraph)+'</p></section>'
+    write('mythologie-comparee/dumezil',shell('Dumézil — étude critique',body))
+
 def build_portals():
     entries=json.loads((OUT/"search.json").read_text(encoding="utf-8"))
     groups=get_civilisations(entries)
@@ -1188,6 +1206,7 @@ def build_portals():
     create_reconstructions(entries)
     create_mythologies(entries)
     create_comparative_mythology(entries)
+    create_dumezil()
     create_figures_and_stories(entries)
     create_theatre(entries)
     reorganize_preserved_plays_analyses(entries)
