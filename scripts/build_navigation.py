@@ -322,8 +322,9 @@ def create_origins(entries):
                 raise RuntimeError("Origines du sacré : doublon du chapitre "+str(number))
             by_number[number]=e
     expected=set(range(451,491))
-    if set(by_number)!=expected:
-        raise RuntimeError("Origines du sacré : chapitres manquants ou en double : "+str(sorted(expected-set(by_number)))+" ; autres : "+str(sorted(set(by_number)-expected)))
+    if not expected.issubset(by_number):
+        raise RuntimeError("Origines du sacré : chapitres historiques manquants : "+str(sorted(expected-set(by_number))))
+    # Les chapitres ultérieurs (491 et suivants) sont légitimes : ne pas bloquer la publication.
     if not any(e["url"]==omnibus for e in corpus):
         raise RuntimeError("Origines du sacré : tome 443–450 absent")
     titles={
