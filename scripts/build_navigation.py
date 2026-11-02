@@ -315,6 +315,9 @@ def create_origins(entries):
         if match:
             numbered.append((int(match.group(1)),e))
     numbered.sort(key=lambda x:x[0])
+    # ODS = Origines du sacré. La série publique commence à ODS-001,
+    # indépendamment des identifiants techniques 452, 460, etc.
+    public_ids={e["url"]:"ODS-"+str(i).zfill(3) for i,(_,e) in enumerate(numbered,1)}
     body='<h1>Origines du sacré</h1><p class="portal-lead">Une enquête historique et comparée sur les premières manifestations matérielles des rites, la formation des sanctuaires, les images, la parole religieuse et les grandes traditions anciennes. Ni origine unique, ni continuité universelle présumée.</p>'
     body+=museum_figures([
       ("mythos-ounas-chambre-funeraire-vincent-brown.jpg","Textes funéraires dans la pyramide d’Ounas","Égypte ancienne — textes funéraires de la pyramide d’Ounas."),
@@ -328,8 +331,8 @@ def create_origins(entries):
       ("/chapitres/origines-du-sacre/468-mesopotamie-akitu-annee/","Temps sacré","Le calendrier rituel et l’Akītu mésopotamien.","MÉSOPOTAMIE"),
       ("/chapitres/origines-du-sacre/462-egypte-sistre-hathor/","Gestes et objets cultuels","Le sistre, Hathor et la musique rituelle.","ÉGYPTE")
     ]))
-    body+=section("Chapitres de la collection","Numérotation d'origine conservée : elle désigne les chapitres de la série, et non les œuvres du théâtre grec.",
-      '<ol class="chapter-list">'+''.join('<li value="'+str(n)+'"><a href="'+esc(e["url"])+'">'+esc(e["title"])+'</a><span class="chapter-topic">'+esc(e["url"].split("/")[-2].split("-",1)[-1].replace("-"," "))+'</span></li>' for n,e in numbered)+'</ol>'
+    body+=section("Chapitres de la collection","Numérotation MYTHOS propre à cette collection : ODS-001, ODS-002, etc. Les anciens numéros de fichiers sont des identifiants techniques conservés dans les URL.",
+      '<ol class="chapter-list origins-index">'+''.join('<li value="'+str(i)+'" data-public-id="'+esc(public_ids[e["url"]])+'"><span class="origin-id">'+esc(public_ids[e["url"]])+'</span><a href="'+esc(e["url"])+'">'+esc(e["title"].replace("MYTHOS — Les origines du sacré","Étude des origines du sacré"))+'</a></li>' for i,(_,e) in enumerate(numbered,1))+'</ol>'
       +details([e for e in corpus if not re.search(r"/\d+-",e["url"])],"Tomes et dossiers complémentaires"))
     body+=section("Méthode et limites","Une image ou une sépulture ne suffit pas à démontrer une croyance déterminée.",
       '<p>Les datations, les contextes archéologiques, les textes anciens et les interprétations modernes sont présentés comme des niveaux de preuve distincts. Les analogies entre civilisations sont discutées, et non posées comme des filiations certaines.</p>')
@@ -369,7 +372,8 @@ def create_theatre(entries):
     body+=section("Choisir sa lecture","Trois parcours indépendants, reliés œuvre par œuvre.",cards([
       ("#pieces-conservees","01 · Pièces conservées","33 dossiers tragiques, 11 pièces d’Aristophane et 7 dossiers de Ménandre.","ŒUVRES"),
       ("#pieces-perdues","02 · Pièces perdues","Fragments, catalogues critiques et reconstitutions modernes.","FRAGMENTS"),
-      ("#analyses","03 · Analyses philosophiques","Interprétations distinctes des intrigues et des textes de théâtre.","PHILOSOPHIE")
+      ("#analyses","03 · Analyses philosophiques","Interprétations distinctes des intrigues et des textes de théâtre.","PHILOSOPHIE"),
+      ("#commentaires-vers","04 · Commentaires par vers","Lectures suivies des pièces, avec passages et vers numérotés.","COMMENTAIRE")
     ]))
     body+='<section class="portal-section theatre-catalog" id="pieces-conservees"><h2>01 · Pièces conservées et dossiers de lecture</h2>'
     body+='<p class="section-intro">Numéros 01, 02, 03… propres à chaque auteur. Ordre éditorial des pièces : ni chronologie certaine ni volumes universitaires.</p>'
@@ -404,6 +408,22 @@ def create_theatre(entries):
       ("/theatre-grec-conserve-etudes-philosophiques/","Analyse des pièces conservées","Tragique, politique, justice, langage et religion.","INTERPRÉTATIONS"),
       ("/comedie-grecque-aristophane-menandre-etudes/aristophane-bibliotheque-etudes-philosophiques/","33 études d’Aristophane","Une analyse associée à chaque œuvre du catalogue.","INTERPRÉTATIONS")
     ])+'</section>'
+    body+='<section class="portal-section theatre-catalog" id="commentaires-vers"><h2>04 · Commentaires suivis et analyses par vers</h2>'
+    body+='<p class="section-intro">Les commentaires déjà rédigés sont consultables ici : passages numérotés, scènes et ensembles de vers. Une étude par plages de vers n’est pas une édition philologique mot à mot. Les analyses sont conservées dans leurs dossiers d’origine, sans mélange avec les reconstitutions.</p>'
+    close_readings=[
+      ("Eschyle","Agamemnon","eschyle-agamemnon-analyse","Lecture suivie par plages de vers"),
+      ("Sophocle","Antigone","sophocle-antigone-lecture-critique-loi-sepulture","Commentaires de passages et confrontation des lectures"),
+      ("Euripide","Les Bacchantes","euripide-bacchantes-dionysos-tragedie","Séquences de vers commentées"),
+      ("Aristophane","Les Nuées","aristophane-nuees-etude","Lecture suivie et confrontation des discours"),
+      ("Aristophane","Les Oiseaux","aristophane-oiseaux-etude","Commentaire continu en 27 séquences"),
+      ("Aristophane","Lysistrata","aristophane-lysistrata-etude","Lecture suivie par plages de vers"),
+      ("Aristophane","Les Grenouilles","aristophane-grenouilles-etude","Commentaire continu et critique poétique"),
+    ]
+    body+='<ol class="work-list linked-works">'+''.join(
+      '<li><a href="'+esc(resolve(slug)["url"])+'">'+esc(author+' — '+title)+'</a><small>'+esc(label)+'</small></li>'
+      for author,title,slug,label in close_readings
+    )+'</ol>'
+    body+='<p class="small-note">Ces liens pointent vers des pages déjà publiques. Les commentaires encore absents du dépôt ne sont pas annoncés comme publiés. Le repérage par vers et les éditions de référence devront être vérifiés œuvre par œuvre.</p></section>'
     body+=section("Archives intégrales","Aucun ancien dossier n’est supprimé ; les archives restent accessibles depuis l’index général.",
       details(tragedies,f"Tous les {len(tragedies)} dossiers de tragédie")+details(comedies,f"Tous les {len(comedies)} dossiers de comédie"))
     write("theatre",shell("Théâtre grec — catalogue par auteur et par œuvre",body))
