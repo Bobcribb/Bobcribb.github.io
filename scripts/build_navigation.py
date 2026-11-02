@@ -19,7 +19,7 @@ NAV = '''<nav class="site-nav" aria-label="Navigation principale">
 <a href="/heros-et-heroines/">Héros</a>
 <a href="/recits-mythologiques/">Récits</a>
 <a href="/mythologies/">Mythologies</a>
-<a href="/theatre/">Théâtre</a>
+<a href="/theatre/">Théâtre</a>\n<a href="/reconstitutions-antiquite/">Reconstitutions</a>
 <a href="/origines-du-sacre/">Origines du sacré</a>
 <a href="/philosophie/">Philosophie</a>
 <a href="/civilisations/">Civilisations</a>
@@ -1054,7 +1054,7 @@ def reorganize_aristophanes_33(entries):
                 raise RuntimeError("Aristophane : étude absente, ambiguë ou doublonnée : "+prefix)
             all_urls.add(found[0]["url"])
             html.append('<li><a href="'+esc(found[0]["url"])+'">'+esc(title)+'</a></li>')
-        html.append('</ul></section>')
+        html.append('</ol></section>')
     html.append('<p class="small-note">Classement thématique de consultation ; les numéros de la collection historique restent inchangés dans les manuscrits.</p><a href="#archives-aristophane-33">Lire les cycles universitaires et les analyses historiques conservés ↓</a></section><div id="archives-aristophane-33"></div>')
     fragment=BeautifulSoup(''.join(html),"html.parser")
     h1=article.find("h1")
@@ -1065,6 +1065,62 @@ def reorganize_aristophanes_33(entries):
     path.write_text(str(page),encoding="utf-8")
 
 
+
+def create_reconstructions(entries):
+    """Musée visuel par cité : documents réels et recherches 3D clairement distingués."""
+    cities=[
+      ("Athènes",[
+        ("Parthénon et Acropole","mythos-e28094-banniere-noire-et-or-statue-grecque-et-acropole.png","Illustration artistique","Parthenon Acropolis reconstruction"),
+        ("Agora antique","mythos-athenes-metron-agora-jacob-freeland-2023.jpg","Photographie","Ancient Agora Athens reconstruction"),
+        ("Zeus Olympien — Olympiéion","mythos-bronze-artemision-zeus-ou-poseidon.jpg","Statue antique (non issue du temple)","Temple Olympian Zeus Athens reconstruction"),
+        ("École d’Athènes","raphael-ecole-athenes-1511.jpg","Peinture de Raphaël","Classical Athens reconstruction")]),
+      ("Olympie",[
+        ("Temple de Zeus","olympie-temple-zeus-anna-tziaki.jpg","Vestiges photographiés","Temple Zeus Olympia reconstruction"),
+        ("Sanctuaire d’Olympie","olympie-plan-sanctuaire-francais.png","Plan archéologique","Ancient Olympia sanctuary reconstruction"),
+        ("Statue chryséléphantine de Zeus","mythos-olympie-nike-paionios-jarvis-2005.jpg","Nikè de Paionios (autre statue d’Olympie)","Statue Zeus Olympia Phidias reconstruction")]),
+      ("Delphes",[
+        ("Temple d’Apollon","delphes-temple-apollon-bernard-gagnon.jpg","Photographie","Temple Apollo Delphi reconstruction"),
+        ("Sanctuaire de Delphes","mythos-e28094-illustration-du-sanctuaire-de-delphes.png","Illustration","Delphi sanctuary reconstruction"),
+        ("Plan du sanctuaire","delphes-plan-sanctuaire-apollon-tomisti.png","Plan","Delphi ancient sanctuary 3D")]),
+      ("Épidaure",[
+        ("Tholos d’Asclépios","mythos-epidaure-tholos-reconstitution-defrasse-lechat-1895.jpg","Restitution architecturale historique","Epidaurus tholos reconstruction"),
+        ("Théâtre antique","epidaure-theatre-antique-zde.jpg","Photographie","Epidaurus ancient theatre reconstruction"),
+        ("Tholos restaurée","mythos-epidaure-tholos-restauration-2020-zde.jpg","Photographie","Epidaurus Asclepius sanctuary 3D")]),
+      ("Mycènes",[
+        ("Porte des Lionnes","mythos-mycene-porte-lionnes-zde-2020.jpg","Photographie","Mycenae lion gate reconstruction"),
+        ("Palais et enceinte mycéniens","mythos-plan-mycene-deuxieme-enceinte-martin-leveneur.png","Plan","Mycenae palace reconstruction")]),
+      ("Corinthe et Isthmie",[
+        ("Temple de Poséidon à Isthmie","mythos-isthmia-temple-poseidon-zde-2020.jpg","Photographie","Isthmia Poseidon temple reconstruction"),
+        ("Sanctuaire et cité de Corinthe","mythos-carte-sanctuaires-grecs-francais.png","Carte générale (non plan de Corinthe)","Ancient Corinth city reconstruction")]),
+      ("Némée",[
+        ("Temple de Zeus","mythos-nemee-temple-zeus-ophelia2-2010.jpg","Photographie","Nemea temple Zeus reconstruction")]),
+      ("Délos",[
+        ("Terrasse des Lions","delos-terrasse-lions-ggia.jpg","Photographie","Delos terrace lions reconstruction"),
+        ("Aire sacrée","mythos-plan-delos-aire-sacree-tomisti-2016.png","Plan archéologique","Delos sanctuary reconstruction")]),
+      ("Dodone",[
+        ("Théâtre et oracle de Zeus","mythos-dodone-theatre-koen-2006.jpg","Photographie","Dodona theatre oracle Zeus reconstruction")]),
+      ("Samothrace",[
+        ("Sanctuaire des Grands Dieux","mythos-samothrace-sanctuaire-grands-dieux-ggia-2002.jpg","Photographie","Samothrace sanctuary reconstruction"),
+        ("Victoire de Samothrace","mythos-samothrace-nike-louvre-dada-photo.jpg","Sculpture antique","Nike of Samothrace reconstruction")]),
+      ("Éphèse",[
+        ("Artémision","mythos-artemision-ephese-vestiges-w-lemay.jpg","Vestiges photographiés","Temple Artemis Ephesus reconstruction"),
+        ("Artémis éphésienne","mythos-artemis-ephesienne-statue-musee-selcuk-furkan-akkurt.jpg","Statue antique","Artemis Ephesus statue 3D")]),
+      ("Troie et Thèbes",[
+        ("Remparts de Troie","mythos-troie-vi-porte-est-hisarlik-cherryx-2012.jpg","Photographie","Troy citadel reconstruction"),
+        ("Cadmée de Thèbes","mythos-thebes-cadmee-fouilles-mirjanamimi-2016.jpg","Photographie","Thebes Cadmea palace reconstruction")])
+    ]
+    from urllib.parse import quote
+    body='<h1>Reconstitutions des cités et sanctuaires antiques</h1><p class="portal-lead">Atlas iconographique par cité : temples, palais, théâtres, agoras, statues et espaces sacrés. Les documents déjà conservés dans MYTHOS sont présentés avec leur nature exacte ; les liens « Rechercher un modèle 3D » ouvrent une recherche externe, et ne prétendent pas qu’un modèle particulier a été vérifié.</p>'
+    body+='<nav class="reconstruction-city-nav" aria-label="Accès aux cités">'+''.join('<a href="#cite-'+str(i)+'">'+esc(name)+'</a>' for i,(name,_) in enumerate(cities,1))+'</nav>'
+    for i,(city,works) in enumerate(cities,1):
+        body+='<section class="reconstruction-city" id="cite-'+str(i)+'"><h2>'+esc(city)+'</h2><div class="reconstruction-grid">'
+        for title,filename,kind,search in works:
+            body+='<figure class="reconstruction-card"><img loading="lazy" decoding="async" src="/media/2026/10/'+esc(filename)+'" alt="'+esc(title)+' — '+esc(kind)+'"><figcaption><strong>'+esc(title)+'</strong><span>'+esc(kind)+'</span><a href="https://sketchfab.com/search?q='+quote(search)+'&type=models" target="_blank" rel="noopener noreferrer">Rechercher un modèle 3D ↗</a></figcaption></figure>'
+        body+='</div></section>'
+    body+='<p class="small-note">Une restitution historique, une illustration ou une photographie ne constituent pas à elles seules une reconstitution 3D. Les attributions, datations et états de reconstruction doivent être vérifiés œuvre par œuvre.</p>'
+    write("reconstitutions-antiquite",shell("Reconstitutions — cités, palais, temples et statues",body))
+
+
 def build_portals():
     entries=json.loads((OUT/"search.json").read_text(encoding="utf-8"))
     groups=get_civilisations(entries)
@@ -1072,6 +1128,7 @@ def build_portals():
         raise RuntimeError("Nombre de dossiers sur les civilisations anormalement faible")
     create_home(entries,groups)
     create_greece(entries)
+    create_reconstructions(entries)
     create_mythologies(entries)
     create_figures_and_stories(entries)
     create_theatre(entries)
