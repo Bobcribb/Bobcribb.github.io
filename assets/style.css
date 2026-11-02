@@ -299,3 +299,21 @@ main.visual-rails-active>.content,main.visual-rails-active>article{min-width:0}
 .reconstruction-card a{font-size:13px;color:#f0cb8b;text-decoration:underline;text-underline-offset:3px}
 @media(max-width:1000px){.reconstruction-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:600px){.reconstruction-grid{grid-template-columns:1fr}.reconstruction-card img{height:240px}}
+
+/* MYTHOS musée virtuel : modèles 3D et programme documentaire */
+.museum-interactive,.museum-research-catalog{margin:25px 0 38px;border-top:1px solid #826d48;padding-top:24px}
+.museum-viewer-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}
+.mythos-3d-viewer{min-width:0;background:#101820;border:1px solid #796446;padding:12px}
+.mythos-3d-viewer h3{font:24px/1.2 Georgia,serif;color:#ead0a3;margin:6px 0 13px}
+.mythos-3d-viewer canvas{display:block;width:100%;height:310px;touch-action:none;cursor:grab}
+.mythos-3d-viewer canvas:active{cursor:grabbing}
+.viewer-controls{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center;gap:9px;padding-top:11px}
+.viewer-controls span{font-size:12px;color:#c8bda9}
+.viewer-controls button{border:1px solid #b29461;background:transparent;color:#f4dfb9;padding:7px 12px;cursor:pointer}
+.museum-research-catalog>h3{margin-top:24px;color:#e9cc99}
+.museum-subjects{border:1px solid #554a37;margin:9px 0;padding:11px 14px}
+.museum-subjects summary{cursor:pointer;color:#f1d8aa}
+.museum-subjects ul{columns:3;column-gap:25px;margin:15px 0 3px;padding-left:24px}
+.museum-subjects li{break-inside:avoid;margin:0 0 8px}
+@media(max-width:800px){.museum-viewer-grid{grid-template-columns:1fr}.museum-subjects ul{columns:2}}
+@media(max-width:500px){.museum-subjects ul{columns:1}.mythos-3d-viewer canvas{height:260px}}
