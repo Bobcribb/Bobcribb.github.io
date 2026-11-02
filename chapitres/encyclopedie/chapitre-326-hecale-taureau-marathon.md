@@ -1,5 +1,5 @@
 # MYTHOS — Grande encyclopédie universitaire — Volume CVIII — Chapitre 326
-## HÉCALÉ ET LE TAUREAU DE MARATHON — L'HOSPITALITÉ PAUVRE, LE HÉROS ATTlQUE ET LA MÉMOIRE RITUELLE
+## HÉCALÉ ET LE TAUREAU DE MARATHON — L'HOSPITALITÉ PAUVRE, LE HÉROS ATTIQUE ET LA MÉMOIRE RITUELLE
 
 **Collection :** MYTHOS / Grèce antique / cycles attiques / Thésée et les héros locaux.  
 **Continuité vérifiée :** chapitre 325, « Hippolyte : Artémis, Aphrodite, Phèdre et les cultes de Trézène » (volume CVII), présent dans le dépôt public.  
