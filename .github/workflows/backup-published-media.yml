@@ -1,0 +1,40 @@
+name: Archiver les médias publics MYTHOS dans un fichier privé
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/backup-published-media.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - name: Récupérer MYTHOS
+        uses: actions/checkout@v4
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Installer les bibliothèques
+        run: python -m pip install -r requirements.txt
+      - name: Reconstruire les pages publiques
+        env:
+          SITE_URL: https://bobmythos.fr
+          MIN_PAGES: '400'
+        run: python scripts/build.py
+      - name: Télécharger et contrôler les médias des pages publiques
+        run: python scripts/backup_published_media.py
+      - name: Préparer l'archive privée temporaire pour Google Drive
+        uses: actions/upload-artifact@v4
+        with:
+          name: mythos-medias-publics
+          path: _published_media/
+          retention-days: 1
+          compression-level: 0
+          if-no-files-found: error
