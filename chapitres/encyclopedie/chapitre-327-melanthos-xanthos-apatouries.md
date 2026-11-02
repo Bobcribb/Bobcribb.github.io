@@ -90,13 +90,13 @@ La frontière est aussi une structure narrative : un étranger, Mélanthos, y ac
 
 **Hérodote I, 147** fait des Apatouries un marqueur d'appartenance ionienne. Il relève l'exception d'Éphèse et de Colophon et mentionne un motif lié à un homicide pour expliquer leur absence. Cette observation du Ve siècle avant notre ère est fondamentale : la fête dépasse Athènes et ne se réduit pas au récit de Mélanthos.
 
-À Athènes, les Apatouries se déroulent pendant le mois de Pyanepsion et sont généralement décrites comme une fête de trois jours. Les phratries, associations de parenté civique, se réunissent pour manger, sacrifier, reconnaître leurs membres et procéder à des admissions. La phratri(e) ne doit pas être assimilée sans précaution à la famille nucléaire, au dème clisthénien ou à une « tribu » ethnique au sens moderne.
+À Athènes, les Apatouries se déroulent pendant le mois de Pyanepsion et sont généralement décrites comme une fête de trois jours. Les phratries, associations de parenté civique, se réunissent pour manger, sacrifier, reconnaître leurs membres et procéder à des admissions. La phratrie ne doit pas être assimilée sans précaution à la famille nucléaire, au dème clisthénien ou à une « tribu » ethnique au sens moderne.
 
 L'étymologie antique par **ἀπάτη**, « tromperie », est séduisante parce qu'elle explique immédiatement le duel. La recherche philologique rattache plutôt le nom à une idée de rassemblement de personnes liées par la paternité ou l'appartenance commune (*homopatores*, interprétation traditionnelle). L'étymologie exacte a suscité des discussions, mais la dérivation naïve de la fête à partir d'un mensonge de Mélanthos n'est pas une preuve linguistique.
 
 ### XI. Le rythme de la fête : repas, sacrifices, admissions
 
-Les sources lexicographiques et les témoignages antiques permettent de distinguer conventionnellement trois moments : **Dorpia** (repas), **Anarrhysis** (sacrifices) et **Koureotis** (présentation des jeunes). Les détails et leur distribution ne sont pas absolument uniformes selon les sources ; il ne faut pas transformer un schéma savant en règlement intangible valable pour chaque phratri(e).
+Les sources lexicographiques et les témoignages antiques permettent de distinguer conventionnellement trois moments : **Dorpia** (repas), **Anarrhysis** (sacrifices) et **Koureotis** (présentation des jeunes). Les détails et leur distribution ne sont pas absolument uniformes selon les sources ; il ne faut pas transformer un schéma savant en règlement intangible valable pour chaque phratrie.
 
 Le repas crée une communauté visible et matérielle : manger ensemble signifie participer à un même corps. Le sacrifice établit une relation entre le groupe et les dieux protecteurs. La présentation d'un enfant ou d'un jeune devant les membres de la phratrie donne un caractère public à une prétention familiale. La reconnaissance n'est pas une pure déclaration privée : elle implique témoins, serments, victimes et parfois contestations.
 
@@ -114,7 +114,7 @@ Le troisième jour, *Koureotis*, est particulièrement important pour comprendre
 
 Après les réformes de Clisthène, le dème joue un rôle central dans l'inscription civique masculine et dans l'organisation de la démocratie. Les phratries continuent pourtant d'exister, avec leurs règles propres et leurs pratiques religieuses. Les deux systèmes se recoupent sans être identiques.
 
-L'étude de S. D. Lambert a renouvelé l'analyse de ces associations, de leur ancrage local, de leurs procédures d'admission et de leurs relations avec la démocratie. Une phratri(e) n'est pas nécessairement une survivance aristocratique figée : elle peut fonctionner dans une cité démocratique, même si l'accès, les statuts et les prérogatives y restent inégaux.
+L'étude de S. D. Lambert a renouvelé l'analyse de ces associations, de leur ancrage local, de leurs procédures d'admission et de leurs relations avec la démocratie. Une phratrie n'est pas nécessairement une survivance aristocratique figée : elle peut fonctionner dans une cité démocratique, même si l'accès, les statuts et les prérogatives y restent inégaux.
 
 Cette nuance empêche une lecture téléologique selon laquelle le duel de Mélanthos serait la « naissance » des phratries ou leur transformation automatique en institutions démocratiques. L'histoire des groupes civiques se reconstitue à partir des décrets, des discours judiciaires et des pratiques, non à partir d'un récit d'éponymie isolé.
 
@@ -237,5 +237,5 @@ Mélanthos se situe à la frontière entre deux façons d'être Athénien : l'ap
 **Classement :** Grèce antique → Mythologie attique → Rois d'Athènes ; Dieux et déesses → Dionysos → Mélanaigis ; Cultes et fêtes → Apatouries ; Histoire civique → Phratries ; Philosophie → Ruse et légitimité.  
 **Mots-clés :** Mélanthos, Xanthos, Andropompos, Thymoétès, Codros, Nélides, Périclyménos, Dionysos Mélanaigis, Mélainai, Kélainai, Oinoé, Béotie, Attique, Apatouries, phratries, Koureotis, Zeus Phratrios, Athéna Phratria, mètis, chasseur noir, Vidal-Naquet, IG II² 1237.  
 **Renvois :** 305–315 (origines et généalogies attiques ; attention aux **collisions de numéros 314 et 315**, conservées sans écrasement) ; 316–326 (Thésée et sa postérité) ; 327 (présent chapitre).  
-**Prochaine étude proposée :** chapitre **328**, volume **CX** — « Codros, Médon et les derniers rois d'Athènes : sacrifice souverain, archontat et mémoire de l'autocht(h)onie », sous réserve du contrôle de continuité du dépôt à la prochaine livraison.  
+**Prochaine étude proposée :** chapitre **328**, volume **CX** — « Codros, Médon et les derniers rois d'Athènes : sacrifice souverain, archontat et mémoire de l'autochtonie », sous réserve du contrôle de continuité du dépôt à la prochaine livraison.  
 **Protection :** le texte de cette étude est public ; aucun brouillon privé n'est reproduit. L'enregistrement Markdown n'est confirmé qu'après obtention d'un SHA de commit GitHub ; l'accessibilité sur le domaine public demande une vérification distincte.
