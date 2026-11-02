@@ -1,5 +1,3 @@
-# MYTHOS — Origines du sacré · série archivistique indépendante (ODS-LIB)
-
 # TOME III — LE CORPS, LA CAVERNE ET LES PREMIERS MONDES INVISIBLES
 
 # MYTHOS — AUX ORIGINES DU SACRÉ
@@ -298,3 +296,103 @@ Les religions historiques documentées confirment que rite et émotion peuvent e
 ## 72. Durkheim, Cassirer et Lévi-Strauss : les outils et les limites de l'interprétation
 
 Durkheim a placé la distinction du sacré et du profane au centre d'une théorie sociale des religions. Son intérêt pour MYTHOS tient à l'idée qu'une valeur collective peut investir un objet matériel : ce qui compte n'est pas seulement la pierre, mais la relation qu'un groupe entretient avec elle. Il serait toutefois circulaire de qualifier une pierre préhistorique de sacrée parce qu'elle fut déposée dans un lieu inhabituel, puis d'en déduire que ce lieu était religieux.
+
+Ernst Cassirer a montré la richesse de l'activité symbolique humaine : langage, mythe, image et connaissance organisent des expériences différentes du monde. Cette philosophie permet de ne pas réduire l'art figuratif à une copie de la nature. Elle ne fournit cependant ni datations archéologiques ni croyances identifiables à Hohle Fels.
+
+Claude Lévi-Strauss a mis en évidence les transformations de relations et d'oppositions dans les récits mythiques. Comparer un humain-animal de la préhistoire aux formes hybrides de mythologies historiques peut éclairer une opération intellectuelle générale de combinaison et de transformation. Cela ne signifie pas que les populations de périodes très éloignées partageaient les mêmes oppositions ou les mêmes histoires.
+
+La démarche de MYTHOS doit donc être à double entrée : **les sciences de terrain établissent les objets et leurs contextes ; la philosophie examine les problèmes de signification qu'ils rendent possibles**. Confondre les deux revient soit à abaisser la philosophie au rang de commentaire arbitraire, soit à imposer aux vestiges un système extérieur.
+
+## 73. Nietzsche, Hegel et la tragédie : un regard rétrospectif à manier avec rigueur
+
+Nietzsche, dans *La Naissance de la tragédie*, réfléchit à la puissance de la musique, à l'expérience collective et à la tension entre forme apollinienne et élan dionysiaque. Une galerie de figures paléolithiques, une œuvre hybride et des instruments de musique peuvent susciter des comparaisons intellectuelles avec ces thèmes. Mais Nietzsche analyse, dans son propre langage philosophique, la culture grecque et la tragédie ; son schéma n'est pas une méthode d'interprétation des niveaux aurignaciens.
+
+Hegel aborde les rapports entre religion, art et figures historiques de la conscience. Sa pensée invite à examiner la manière dont une société se représente elle-même à travers des objets. En revanche, ses typologies historiques doivent être confrontées aux données nouvelles plutôt qu'appliquées comme des stades nécessaires conduisant des « primitifs » vers les Grecs ou les monothéismes. Cette téléologie ne constitue pas un résultat archéologique.
+
+Une lecture comparée rigoureuse peut poser trois questions : que fait une image à l'expérience d'un groupe ? Comment une performance collective transforme-t-elle les participants ? Comment une figure animale devient-elle un personnage stable dans une tradition littéraire ? Les deux premières ont une pertinence anthropologique générale ; la troisième exige une documentation historique lorsqu'on veut nommer un personnage.
+
+La tragédie grecque sera donc un **horizon comparatif**, non l'aboutissement nécessaire de la préhistoire. Le chœur d'Eschyle et la flûte de Hohle Fels n'appartiennent pas à la même tradition attestée : leur mise en regard éclaire des questions humaines, elle ne révèle pas une filiation cachée.
+
+## 74. De la préhistoire à l'Égypte et à la Mésopotamie : pourquoi les ressemblances ne suffisent pas
+
+Les premiers textes religieux du Proche-Orient et de l'Égypte permettent enfin d'accéder à des noms de divinités, des listes d'offrandes, des hymnes, des récits, des institutions et des conflits d'interprétation. Cette documentation transforme la méthode : l'archéologue peut confronter des textes, des bâtiments, des représentations et des contextes économiques. Les plus anciennes traditions écrites connues ne sont pas pour autant l'origine de toutes les croyances.
+
+Une statue aux grands yeux d'‘Ain Ghazal peut rappeler des représentations mésopotamiennes plus tardives ; un animal composite peut évoquer une divinité égyptienne ; un relief racontant une confrontation peut sembler proche d'un mythe héroïque. Aucune de ces ressemblances ne suffit à construire une ligne historique continue. Les intermédiaires chronologiques, les voies de transmission, les contextes linguistiques et les transformations formelles devraient être démontrés.
+
+Le projet MYTHOS peut créer des fiches comparatives à trois niveaux : **ressemblance de forme**, **ressemblance de fonction**, **transmission historique documentée**. Les deux premières sont utiles à la comparaison ; seule la troisième autorise une filiation. L'absence de filiation démontrée n'interdit pas la pensée comparative : elle en rend le vocabulaire plus précis.
+
+L'histoire des religions n'a pas une seule source d'où tous les fleuves seraient sortis. Elle ressemble plutôt à un ensemble de trajectoires distinctes, parfois en contact, ayant mobilisé des ressources humaines communes pour produire des mondes de significations différents.
+
+## 75. Atlas critique : dix gestes, dix niveaux de preuve
+
+| Geste ou objet | Exemple | Ce que la preuve établit | Ce qu'elle ne démontre pas |
+|---|---|---|---|
+| Entrer profondément sous terre | Bruniquel | Aménagements et activités humaines | Cérémonie définie ou sanctuaire |
+| Déposer un corps | Qafzeh, La Ferrassie | Traitement intentionnel possible ou établi selon le contexte | Immortalité de l'âme |
+| Préparer des pigments | Blombos | Technique de transformation de matières | Peinture corporelle religieuse précise |
+| Laisser une main négative | Gargas, Maltravieso | Marque humaine intentionnelle | Signature, rite initiatique ou mutilation systématique |
+| Façonner des animaux | Hohle Fels, Tuc d'Audoubert | Savoir-faire figuratif et choix d'un contexte | Divinité ou totem identifié |
+| Fabriquer un instrument | Hohle Fels | Technique musicale | Chant religieux ou cérémonie déterminée |
+| Combiner humain et animal | Hohlenstein-Stadel | Image composite | Existence d'une mythologie connue |
+| Réunir des figures narratives | Leang Karampuang, Sayburç | Composition figurative évoquant une action | Récit oral reconstituable mot pour mot |
+| Transformer un crâne | Jéricho | Traitement postmortem et construction d'un visage | Ancêtre puissant nécessairement invoqué |
+| Ériger un monument | Göbekli Tepe | Organisation collective et architecture | Clergé, dieu ou dogme assuré |
+
+Ce tableau doit être conservé dans toute version publique du dossier : il empêche de faire glisser une description matérielle vers une conclusion confessionnelle ou une mythologie de fiction.
+
+## 76. Méthode éditoriale pour MYTHOS : décrire, argumenter, comparer, suspendre
+
+Chaque fiche scientifique du cycle « Aux origines du sacré » devrait contenir six rubriques permanentes : **site et contexte**, **objets**, **datations et incertitudes**, **interprétations concurrentes**, **comparaisons contrôlées**, **bibliographie primaire et institutionnelle**. Les découvertes récentes devront être datées avec précision : il faut distinguer date des fouilles, date de présentation publique, date de publication et époque de l'objet.
+
+Les illustrations doivent comporter une légende d'objet, le lieu de conservation, un crédit et une licence vérifiée. Une photographie de réplique doit être explicitement distinguée de l'original. Les documents contemporains sans licence libre ne doivent pas être intégrés automatiquement au site : la présence publique d'une image n'autorise pas nécessairement sa réutilisation.
+
+Les titres de chapitres peuvent être évocateurs, mais le corps du texte doit privilégier la vérification. Les expressions « premier temple », « premier dieu », « première chamane » ou « premier calendrier » exigent chacune des définitions et un contrôle de l'état de la recherche. Lorsque plusieurs découvertes prétendent à une antériorité, MYTHOS doit expliquer **de quoi** elles sont les premières attestations : pochoir daté, sculpture figurative, image narrative, sépulture documentée, architecture monumentale.
+
+Enfin, une page publiée doit être différenciée du manuscrit de travail. Les volumes pourront être reliés par des renvois sur le site, mais aucune annonce de publication ne devra être faite sans confirmation d'une écriture réussie sur WordPress.
+
+## 77. Conclusion du tome III : le sacré comme possibilité historique, non comme essence retrouvée
+
+Ce troisième tome ne cherche pas une date à laquelle « l'homme aurait inventé Dieu ». Une telle formule rassemble abusivement des phénomènes qui n'ont ni une chronologie unique ni une même signification. Les comportements symboliques, la fabrication d'images, l'attention portée aux morts et les activités collectives présentent des histoires longues et en partie indépendantes.
+
+Ce qui se précise, c'est la manière dont des sociétés peuvent donner une épaisseur particulière à des relations : un corps survit sous la forme d'une empreinte, un défunt reparaît dans un visage de plâtre, un animal devient figure modelée, une réunion se fixe autour de reliefs, une maison conserve des générations, un monument organise la présence de nombreux participants. Ces faits ne décrivent pas une religion unique. Ils montrent plusieurs façons de produire de la mémoire et des significations partagées.
+
+L'archéologie du sacré exige donc une rigueur double. Refuser d'attribuer des dieux à des peuples dont nous ignorons les récits ne revient pas à nier leur imaginaire. Mais respecter cet imaginaire impose de ne pas le remplacer par le nôtre. La connaissance avance lorsqu'elle reconnaît ce que les vestiges autorisent, ce qu'ils rendent plausible et ce qu'ils laissent ouvert.
+
+La suite naturelle de MYTHOS serait un **tome IV sur la formation des premières mythologies historiquement documentées**, des textes sumériens et égyptiens aux traditions sémitiques et anatoliennes, avec une attention nouvelle à la relation entre sanctuaire, écriture, pouvoir et récit.
+
+---
+
+## Bibliographie critique du tome III
+
+1. **Bégouën, R., Pastoors, A., et collègues.** Documentation des cavernes du Volp ; [Base Jean Clottes, CNRS, Tuc d'Audoubert](https://animal-representation.cnrs.fr/s/bjc/item/6187). Contexte des sols et sculptures.
+2. **Association Louis Bégouën.** [Site officiel des Cavernes du Volp, Tuc d'Audoubert](https://www.cavernesduvolp.com/grottedutucdaudoubert). Présentation et conservation du site.
+3. **Standish, C. D. et al. (2025).** « The age of hand stencils in Maltravieso cave… », *Journal of Archaeological Science: Reports*, 61, 104891. [DOI](https://doi.org/10.1016/j.jasrep.2024.104891). Chronologie des mains.
+4. **Hoffmann, D. L. et al. (2018).** « U-Th dating of carbonate crusts reveals Neandertal origin of Iberian cave art », *Science*. [DOI](https://doi.org/10.1126/science.aap7778). Art ibérique et datations minimales.
+5. **Gresky, J. et Clare, L. (2026).** « First burials give insights into mortuary rites at Göbeklitepe, Early Neolithic Türkiye », *PLOS ONE*, 21(9), e0358979. [DOI](https://doi.org/10.1371/journal.pone.0358979). Découverte majeure de 2026 et débat taphonomique.
+6. **Deutsches Archäologisches Institut (2026).** [« New publication: Human remains and burial practices at Göbeklitepe »](https://www.dainst.org/en/newsroom/neue-veroeffentlichung-menschliche-ueberreste-und-bestattungsbraeuche-in-goebeklitepe/924). Synthèse institutionnelle.
+7. **Da Rosa, N. S. et al. (2025).** « On the relationship between sound, acoustics, and San rock art… », *Journal of Archaeological Science: Reports*, 61, 104900. [DOI](https://doi.org/10.1016/j.jasrep.2024.104900). Limites de l'inférence archéoacoustique.
+8. **Borić, D. (2005).** « Body Metamorphosis and Animality: Volatile Bodies and Boulder Artworks from Lepenski Vir », *Cambridge Archaeological Journal*, 15(1), 35–69. [DOI](https://doi.org/10.1017/S095977430500003X). Interprétation de la métamorphose.
+9. **Musée national de Serbie.** [Lepenski Vir Collection](https://www.narodnimuzej.rs/prehistory/lepenski-vir-collection/?lang=en). Collections et contexte.
+10. **Özdoğan, E. (2022).** « The Sayburç reliefs: a narrative scene from the Neolithic », *Antiquity*, 96(390), 1599–1605. [DOI](https://doi.org/10.15184/aqy.2022.125). Reliefs narratifs.
+11. **Ashmolean Museum.** [« Jericho Skull »](https://ashmolean.org/jericho-skull). Objet, matériau et interprétations.
+12. **Hirst, C. (2017).** « The Jericho Skull, Creating an Ancestor », *Papers from the Institute of Archaeology*, 27(1). [DOI](https://doi.org/10.5334/pia-521). Présentation muséale et débat.
+13. **Smithsonian Museum Conservation Institute.** [« ‘Ain Ghazal Statues »](https://mci.si.edu/ain-ghazal-statues). Statues en plâtre et restauration.
+14. **Oktaviana, A. A. et al. (2024).** « Narrative cave art in Indonesia by 51,200 years ago », *Nature*, 631, 814–818. [DOI](https://doi.org/10.1038/s41586-024-07541-7). Comparaison de scènes figuratives.
+15. **Sweatman, M. B. (2024).** « Representations of calendars and time at Göbekli Tepe and Karahan Tepe… », *Time and Mind*, 17, 191–247. [DOI](https://doi.org/10.1080/1751696X.2024.2373876). Hypothèse astronomique débattue : ne pas la confondre avec un consensus.
+16. **Durkheim, É. (1912).** *Les Formes élémentaires de la vie religieuse*. Cadre théorique du sacré et du profane, non preuve archéologique.
+17. **Cassirer, E. (1923–1929).** *Philosophie der symbolischen Formen*. Théorie philosophique de l'activité symbolique.
+18. **Lévi-Strauss, C. (1964).** *Le Cru et le Cuit*. Approche structurale du mythe, à utiliser comme modèle comparatif.
+19. **Nietzsche, F. (1872).** *Die Geburt der Tragödie*. Réflexion sur musique, art et expérience collective dans la Grèce historique.
+20. **Hegel, G. W. F.** *Vorlesungen über die Ästhetik*. Philosophie de l'art et de l'histoire : ne pas y chercher une chronologie paléolithique.
+
+## Renvois proposés pour le site MYTHOS
+
+- **Tome I :** Hohle Fels, premiers instruments et figurines aurignaciennes.
+- **Tome II :** Bruniquel, sépultures anciennes, Blombos, Chauvet, Lascaux, Hilazon Tachtit.
+- **Tome III :** mains, animaux, mémoire des morts, Göbekli Tepe 2026, Sayburç, Jéricho, ‘Ain Ghazal.
+- **Dossiers d'approfondissement futurs :** anatomie de l'Homme-lion ; archéoacoustique ; débat autour du « chamanisme paléolithique » ; tafonomie des sépultures ; préhistoire des calendriers ; archives textuelles de Sumer et de l'Égypte.
+
+*Note de transparence : ce texte est une synthèse originale des recherches citées. Les hypothèses historiques sont signalées comme telles. Aucun article MYTHOS n'a été créé ou mis en ligne par la seule création de ce manuscrit.*
+
+
+---
