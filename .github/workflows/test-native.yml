@@ -31,3 +31,29 @@ jobs:
           test -f _site/media/2026/10/antigone-libation-rinehart-1870.jpg
           test -f _site/CNAME
           python -c "import json; m=json.load(open('_site/media/manifest.json')); idx=json.load(open('_site/search.json')); assert m['count']==110; assert len(idx)>=500; print('OK:',len(idx),'dossiers,',m['count'],'médias')"
+      - name: Tester la publication automatique d'un futur chapitre sans le mettre en ligne
+        run: |
+          cat > chapitres/test-chapitre-technique.md <<'EOF'
+          ---
+          title: Essai technique non publié
+          description: Essai du flux de publication MYTHOS sans WordPress.
+          ---
+
+          # Essai technique non publié
+
+          Ce contenu n'est produit que dans le conteneur temporaire de test GitHub Actions.
+          Il permet de vérifier que les prochains chapitres Markdown seront automatiquement
+          transformés en pages HTML, ajoutés au catalogue, indexés pour la recherche
+          et inscrits au sitemap sans accéder à l'API WordPress.com ni à sa médiathèque.
+          Il ne doit jamais être commité ni mis en ligne dans l'encyclopédie MYTHOS.
+          EOF
+          python scripts/build_native.py
+          test -f _site/chapitres/test-chapitre-technique/index.html
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          items=json.loads(Path('_site/search.json').read_text())
+          assert any(x['url']=='/chapitres/test-chapitre-technique/' for x in items)
+          assert 'https://bobmythos.fr/chapitres/test-chapitre-technique/' in Path('_site/sitemap.xml').read_text()
+          print('OK : nouveau chapitre indexé, test éphémère non publié')
+          PY
