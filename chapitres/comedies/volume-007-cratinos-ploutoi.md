@@ -257,6 +257,6 @@ Le meilleur hommage à une œuvre perdue n'est pas d'inventer sa totalité, mais
 | Elle proposait l'abolition de l'esclavage | **Non établi** | Le contexte d'Athénée ne suffit pas |
 | Cratinos a écrit les scènes du Greffier et du Juge | **Faux : [C]** | Inventions littéraires contemporaines MYTHOS |
 
-**Navigation de la série :** [Volume VI — Cratinos, *Némésis*](/chapitres/comedies/volume-006-cratinos-nemesis/) · [Volume V — Eupolis, *Poleis*](/chapitres/comedies/volume-005-eupolis-poleis/) · [Portail Théâtre grec](/theatre/) · [Bibliothèque historique des comédies perdues](/comedie-grecque-aristophane-menandre-etudes/comedies-perdues-cratinos-eupolis-philemon-fragments/).
+**Suite de la série :** [Volume VIII — Cratinos, *Odysseis*](/chapitres/comedies/volume-008-cratinos-odysseis/) · **Navigation de la série :** [Volume VI — Cratinos, *Némésis*](/chapitres/comedies/volume-006-cratinos-nemesis/) · [Volume V — Eupolis, *Poleis*](/chapitres/comedies/volume-005-eupolis-poleis/) · [Portail Théâtre grec](/theatre/) · [Bibliothèque historique des comédies perdues](/comedie-grecque-aristophane-menandre-etudes/comedies-perdues-cratinos-eupolis-philemon-fragments/).
 
 *Fin du volume VII. Les volumes I à VI, les dossiers historiques et les autres séries MYTHOS restent intacts.*
