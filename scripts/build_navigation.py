@@ -19,7 +19,8 @@ NAV = '''<nav class="site-nav" aria-label="Navigation principale">
 <a href="/heros-et-heroines/">Héros</a>
 <a href="/recits-mythologiques/">Récits</a>
 <a href="/mythologies/">Mythologies</a>
-<a href="/theatre/">Théâtre</a>\n<a href="/reconstitutions-antiquite/">Reconstitutions</a>
+<a href="/theatre/">Théâtre</a>
+<a href="/reconstitutions-antiquite/">Reconstitutions</a>
 <a href="/origines-du-sacre/">Origines du sacré</a>
 <a href="/philosophie/">Philosophie</a>
 <a href="/civilisations/">Civilisations</a>
@@ -1111,6 +1112,25 @@ def create_reconstructions(entries):
     ]
     from urllib.parse import quote
     body='<h1>Reconstitutions des cités et sanctuaires antiques</h1><p class="portal-lead">Atlas iconographique par cité : temples, palais, théâtres, agoras, statues et espaces sacrés. Les documents déjà conservés dans MYTHOS sont présentés avec leur nature exacte ; les liens « Rechercher un modèle 3D » ouvrent une recherche externe, et ne prétendent pas qu’un modèle particulier a été vérifié.</p>'
+    body+='<section class="museum-interactive"><h2>Explorer les monuments en trois dimensions</h2><p class="section-intro">Deux maquettes schématiques manipulables, et non des relevés archéologiques exacts. Glisser pour tourner, zoomer avec la molette.</p><div class="museum-viewer-grid">'
+    for name,kind in (("Athènes — Parthénon","athenes"),("Olympie — temple de Zeus","olympie")):
+        body+='<div class="mythos-3d-viewer" data-monument="'+kind+'"><h3>'+esc(name)+'</h3><canvas role="img" aria-label="Maquette 3D interactive de '+esc(name)+'"></canvas><div class="viewer-controls"><span class="viewer-status">Maquette pédagogique schématique</span><button type="button" data-reset>Réinitialiser</button></div></div>'
+    body+='</div></section>'
+    subjects={
+      'Athènes':{
+        'Acropole':['Parthénon façade est','Parthénon façade ouest','Parthénon cella','Parthénon frise','Parthénon frontons','Athéna Parthénos','Propylées','Temple Athéna Nikè','Érechthéion','Caryatides','Vieux temple Athéna','Autel Athéna','Sanctuaire Brauron','Versant sud Acropole','Mur pélasgique'],
+        'Agora':['Agora classique','Stoa Attale','Stoa Poikilè','Tholos Prytanée','Bouleutérion ancien','Bouleutérion nouveau','Héros éponymes','Héphaïsteion','Autel Douze Dieux','Fontaine sud-est','Monnaie Agora','Pnyx','Bêma Pnyx','Aréopage','Bibliothèque Hadrien'],
+        'Temples et théâtres':['Olympiéion','Zeus Olympien statue','Porte Hadrien','Théâtre Dionysos','Odéon Périclès','Odéon Hérode Atticus','Asclépieion','Stade panathénaïque','Temple Ilissos','Kerameikos','Dipylon','Académie Platon','Lycée Aristote','Portique royal','Monument Lysicrate']},
+      'Olympie':{
+        'Temples':['Temple Zeus façade','Temple Zeus cella','Temple Zeus fronton est','Temple Zeus fronton ouest','Temple Zeus métopes','Zeus de Phidias','Trône de Zeus','Temple Héra','Héraion intérieur','Pélopion','Autel Zeus','Métoôn','Terrasse trésors','Trésor Sicyone','Trésor Mégare'],
+        'Jeux et bâtiments':['Stade entrée','Stade piste','Stade départ','Hippodrome hypothétique','Palestre','Gymnase','Léonidaion','Philippéion','Bouleutérion','Prytaneion','Atelier Phidias','Thermes','Fontaine Hérode Atticus','Maison Néron','Portique Écho'],
+        'Statues':['Hermès Praxitèle','Nikè Paionios','Zeus visage hypothétique','Zeus trône hypothétique','Athlète victorieux','Quadrige votif','Zanes','Pélops et Oinomaos','Lapithes et Centaures','Apollon fronton ouest','Héraclès métope','Atlas et pommes','Sculptures Héraion','Trésors votifs','Bases statues']}}
+    body+='<section class="museum-research-catalog"><h2>90 sujets de restitution à produire</h2><p class="section-intro">Programme éditorial pour Athènes et Olympie : ces 90 sujets ne sont pas 90 modèles 3D déjà réalisés.</p>'
+    for city,categories in subjects.items():
+        body+='<h3>'+esc(city)+'</h3>'
+        for category,items in categories.items():
+            body+='<details class="museum-subjects"><summary>'+esc(category)+' — '+str(len(items))+' sujets</summary><ul>'+''.join('<li>'+esc(item)+'</li>' for item in items)+'</ul></details>'
+    body+='</section>'
     body+='<nav class="reconstruction-city-nav" aria-label="Accès aux cités">'+''.join('<a href="#cite-'+str(i)+'">'+esc(name)+'</a>' for i,(name,_) in enumerate(cities,1))+'</nav>'
     for i,(city,works) in enumerate(cities,1):
         body+='<section class="reconstruction-city" id="cite-'+str(i)+'"><h2>'+esc(city)+'</h2><div class="reconstruction-grid">'
@@ -1118,6 +1138,7 @@ def create_reconstructions(entries):
             body+='<figure class="reconstruction-card"><img loading="lazy" decoding="async" src="/media/2026/10/'+esc(filename)+'" alt="'+esc(title)+' — '+esc(kind)+'"><figcaption><strong>'+esc(title)+'</strong><span>'+esc(kind)+'</span><a href="https://sketchfab.com/search?q='+quote(search)+'&type=models" target="_blank" rel="noopener noreferrer">Rechercher un modèle 3D ↗</a></figcaption></figure>'
         body+='</div></section>'
     body+='<p class="small-note">Une restitution historique, une illustration ou une photographie ne constituent pas à elles seules une reconstitution 3D. Les attributions, datations et états de reconstruction doivent être vérifiés œuvre par œuvre.</p>'
+    body+='<script type="module" src="/assets/mythos-museum-3d.js"></script>'
     write("reconstitutions-antiquite",shell("Reconstitutions — cités, palais, temples et statues",body))
 
 
