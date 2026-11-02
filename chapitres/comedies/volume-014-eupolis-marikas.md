@@ -103,6 +103,6 @@ Les travaux de **Jean-Pierre Vernant** sur les formes grecques de pensée et l'a
 
 ---
 
-**Navigation :** [Volume XIII — *Dēmoi*](volume-013-eupolis-demoi.md) · [Théâtre grec](/theatre/) · [Index intégral](/index/).
+**Navigation :** [Volume XIII — *Dēmoi*](volume-013-eupolis-demoi.md) · [Volume XV — *Baptai*](volume-015-eupolis-baptai.md) · [Théâtre grec](/theatre/) · [Index intégral](/rubriques/).
 
 *MYTHOS — dossier public de recherche ; les lacunes du texte antique sont maintenues visibles.*
