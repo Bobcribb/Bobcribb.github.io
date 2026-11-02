@@ -19,7 +19,6 @@ NAV = '''<nav class="site-nav" aria-label="Navigation principale">
 <a href="/heros-et-heroines/">Héros</a>
 <a href="/recits-mythologiques/">Récits</a>
 <a href="/mythologies/">Mythologies</a>
-<a href="/grande-encyclopedie/">Grande encyclopédie</a>
 <a href="/theatre/">Théâtre</a>
 <a href="/origines-du-sacre/">Origines du sacré</a>
 <a href="/philosophie/">Philosophie</a>
