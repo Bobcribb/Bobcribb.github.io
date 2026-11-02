@@ -217,7 +217,7 @@ Les *Lemniennes* d'Eschyle offrent un exemple limite de la philologie du théât
 
 **Thèse interprétative :** le récit lemnien met en tension la vengeance, la souveraineté, la rupture des liens de parenté et la nécessité de reconstruire une communauté. Il révèle combien une violence collective peut prétendre réparer une injustice tout en détruisant les conditions mêmes de la vie commune. Cette analyse appartient à l'interprétation du mythe, et non à une prétendue lecture intégrale de la pièce.
 
-**Continuité éditoriale :** CXVII *Les Cabires* → CXVIII *Hypsipyle* → CXIX *Les Lemniennes*. Pour CX X (120), le titre *Argo* pourra prolonger le cycle argonautique, après vérification du catalogue et de la numérotation de ses fragments.
+**Continuité éditoriale :** CXVII *Les Cabires* → CXVIII *Hypsipyle* → CXIX *Les Lemniennes*. Pour CXX (120), le titre *Argo* pourra prolonger le cycle argonautique, après vérification du catalogue et de la numérotation de ses fragments.
 
 ---
 
