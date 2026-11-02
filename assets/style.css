@@ -245,3 +245,18 @@
 #archives-analyses-conservees{scroll-margin-top:120px}
 @media(max-width:900px){.analysis-work-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:600px){.preserved-analysis-index{padding:14px}.analysis-work-grid{grid-template-columns:1fr}.analysis-author-group{scroll-margin-top:160px}}
+
+/* Bibliothèque des 33 monographies d'Aristophane */
+.aristophanes-index{margin:28px 0 48px;padding:25px;border:1px solid #78623f;background:#11171a}
+.aristophanes-index h2{margin:0 0 12px;color:#f2d9ac}
+.aristophanes-index>p{max-width:850px}
+.aristophanes-theme-nav{display:flex;justify-content:center;flex-wrap:wrap;gap:8px;margin:22px 0 28px}
+.aristophanes-theme-nav a{padding:9px 13px;border:1px solid #8a7048;color:#f0d9ad;font-size:12px;text-align:center}
+.aristophanes-theme{padding:18px 0 25px;border-top:1px solid #514636;scroll-margin-top:130px}
+.aristophanes-theme h3{font-size:29px;margin:5px 0 17px;color:#f1dfbb}
+.aristophanes-study-list{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px 20px;padding-left:25px}
+.aristophanes-study-list li{padding:7px 3px;break-inside:avoid}
+.aristophanes-study-list a{font:18px/1.35 'Cormorant Garamond',Georgia,serif;color:#f3e6d1}
+#archives-aristophane-33{scroll-margin-top:130px}
+@media(max-width:900px){.aristophanes-study-list{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:600px){.aristophanes-index{padding:15px}.aristophanes-study-list{grid-template-columns:1fr}.aristophanes-theme{scroll-margin-top:170px}}
