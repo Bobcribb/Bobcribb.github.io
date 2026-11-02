@@ -393,6 +393,8 @@ def apply_navigation():
         if n!=1:
             raise RuntimeError("Aucun menu de navigation dans "+str(path))
         result=result.replace("MYTHOS — Encyclopédie universitaire comparative","MYTHOS — Encyclopédie des mythologies du monde")
+        # SUPPRIMER « EXPLORER MYTHOS » À DROITE SUR TOUTES LES PAGES, Y COMPRIS ARCHIVES.
+        result=re.sub(r'<aside class="sidebar">[\s\S]*?</aside>', "", result, flags=re.IGNORECASE)
         if result!=raw:
             path.write_text(result,encoding="utf-8")
             changed+=1
