@@ -119,8 +119,9 @@ def publish_chapters():
             raise ValueError("Chapitre trop court : "+str(source))
         desc=meta.get("description") or text(markdown(body))[:190]
         page=OUT / url.lstrip("/") / "index.html"
-        if page.exists():
-            raise RuntimeError("Doublon d'adresse de chapitre : "+url)
+        # Les pages HTML générées lors du précédent déploiement sont
+        # conservées dans main : les reconstruire depuis leur Markdown,
+        # sans les traiter comme des doublons éditoriaux.
         write(url.lstrip("/")+"index.html",render(title,markdown(body),desc))
         published.append({"title":text(title),"url":url,"excerpt":text(desc)[:190]})
     return published
