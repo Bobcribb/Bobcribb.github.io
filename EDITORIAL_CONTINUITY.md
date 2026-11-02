@@ -63,3 +63,17 @@ L'accueil doit présenter ces parcours, jamais une sélection arbitraire des pre
 **Mise en œuvre durable :** \`scripts/build_navigation.py\` génère l'accueil et les portails \`/mythologies/\`, \`/grece/\`, \`/theatre/\`, \`/philosophie/\`, \`/civilisations/\` et les cinq portails continentaux. \`scripts/build_native.py\` l'appelle lors de chaque publication, puis réindexe l'ensemble. Les mises à jour éditoriales ne doivent pas remplacer ce système par l'ancienne page d'accueil à 24 liens ni par la simple liste alphabétique.
 
 Vérifier après chaque modification le fonctionnement des menus, l'accessibilité mobile, les liens internes, le nombre de dossiers et les 110 médias locaux. Conserver l'indépendance de WordPress et ne pas modifier les DNS ou le domaine pour une simple réorganisation de la navigation.
+
+## Trois portes d'entrée fondamentales : Dieux, Héros, Récits — 2 novembre 2026
+
+Le public doit pouvoir accéder directement, depuis **toutes les pages** et dès le début de l'accueil, aux trois grands corpus de l'encyclopédie :
+
+- **Dieux et déesses** — \`/dieux-et-deesses/\` : monographies grecques d'abord, puis divinités de l'Égypte, de la Mésopotamie, des mondes nordiques, de l'Inde, du Japon et d'autres traditions. Conserver la grande étude grecque originale \`/dieux/\` et le dictionnaire mondial des dieux.
+- **Héros et héroïnes** — \`/heros-et-heroines/\` : les notices grecques d'abord, puis Gilgameš, Sunjata, Māui, Cú Chulainn, Rāma et Sītā, Rostam, les héros mayas, etc. Conserver l'étude grecque originale \`/heros/\` et les cycles épiques du monde.
+- **Grands récits** — \`/recits-mythologiques/\` : théogonie, cycles thébain et troyen, Argonautiques et Odyssée, puis les corpus égyptiens, mésopotamiens, indiens, chinois et japonais, ainsi que les récits héroïques du monde. Conserver l'étude grecque originale \`/recits/\`.
+
+**Navigation commune attendue** : Grèce (mise en valeur), Dieux, Héros, Récits, Mythologies, Théâtre, Philosophie, Civilisations, Recherche. L'index complet reste accessible dans l'accueil, les pages de recherche, le catalogue et le pied de page.
+
+Les trois portails sont générés à chaque publication par \`scripts/build_navigation.py\` et sont recensés dans \`search.json\` et \`sitemap.xml\`. Les nouvelles notices de ces ensembles doivent apparaître automatiquement par extraction des chemins existants du catalogue ; ne pas laisser une liste de six dieux ou six héros comme unique index. Ne jamais inventer de notices non publiées ni supprimer les monographies originales.
+
+Conserver le style noir/or, l'accessibilité du menu sur mobile et l'indépendance de WordPress.
