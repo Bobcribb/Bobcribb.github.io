@@ -95,3 +95,28 @@
 .museum-gallery figcaption strong { color:#e9d19e; font:600 24px/1.12 'Cormorant Garamond',Georgia,serif; }
 .museum-gallery figcaption span { color:#b9ad98; font:13px/1.4 Inter,system-ui,sans-serif; }
 @media(max-width:680px) { .museum-gallery { grid-template-columns:1fr; } .museum-gallery figure img { height:260px; object-position:center 32%; } }
+
+
+/* MYTHOS — Origines du sacré et classement du théâtre, novembre 2026 */
+.museum-feature{margin-block:36px 52px}
+.museum-objects{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:15px;margin-top:22px}
+.museum-object{margin:0!important;background:linear-gradient(145deg,#1b1d24,#101116);border:1px solid #51442e;border-radius:9px;overflow:hidden}
+.museum-object img{display:block;width:100%;height:205px;object-fit:cover;border:0!important;border-radius:0!important}
+.museum-object figcaption{padding:12px 14px 16px;color:#d4c5aa;font:13px/1.5 Inter,system-ui,sans-serif}
+.theatre-catalog{scroll-margin-top:105px}
+.theatre-author{background:#171a21;border:1px solid #42392c;border-left:3px solid #d8b66f;border-radius:7px;padding:19px clamp(15px,2.4vw,28px);margin:20px 0}
+.theatre-author h3{font:600 clamp(24px,3vw,34px)/1.2 'Cormorant Garamond',Georgia,serif;color:#e8d19d;margin:0 0 14px}
+.work-list{list-style:none;counter-reset:mythos-work;padding:0;margin:0;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:0 24px}
+.work-list li{counter-increment:mythos-work;display:flex;flex-direction:column;position:relative;padding:12px 6px 12px 43px;border-bottom:1px solid #39352e;min-width:0;break-inside:avoid}
+.work-list li:before{content:counter(mythos-work,decimal-leading-zero);position:absolute;top:12px;left:0;color:#d8b66f;font:600 14px/1.5 Inter,sans-serif}
+.work-list a{color:#f0e5cf;line-height:1.5;overflow-wrap:anywhere}
+.work-list a:hover{color:#f5d48c}
+.work-list small{color:#a99c86;font-size:11px;letter-spacing:.05em;margin-top:3px}
+.chapter-list{padding:0;list-style:none;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:11px 18px}
+.chapter-list li{position:relative;background:#171a21;border:1px solid #3d362b;padding:13px 15px;border-radius:6px}
+.chapter-list li:before{content:"Chapitre " attr(value);display:block;color:#d8b66f;font-size:11px;letter-spacing:.1em;text-transform:uppercase;margin-bottom:5px}
+.chapter-list a{display:block;font-weight:600;line-height:1.5}
+.chapter-topic{display:block;color:#a99c86;font-size:12px;margin-top:6px}
+.museum-gallery-section,.museum-feature{scroll-margin-top:90px}
+@media(max-width:900px){.museum-objects{grid-template-columns:repeat(2,minmax(0,1fr))}.work-list{grid-template-columns:1fr}}
+@media(max-width:600px){.museum-objects{gap:12px}.museum-object img{height:160px}.museum-object figcaption{padding:10px;font-size:12px}.chapter-list{grid-template-columns:1fr}.theatre-author{padding:16px}.theatre-catalog{scroll-margin-top:145px}}
