@@ -1,0 +1,556 @@
+{
+  "count": 110,
+  "total_bytes": 200453104,
+  "files": [
+    {
+      "path": "media/2026/10/amarna-akhenaton-nefertiti-filles-relief.jpg",
+      "size": 341586,
+      "sha256": "c25bb347b0f6b665478a68fa4b79561e84b9792536cd455e43171b1a5fd9a898"
+    },
+    {
+      "path": "media/2026/10/antigone-libation-rinehart-1870.jpg",
+      "size": 221495,
+      "sha256": "8f5a1fa6d41d1332f68fb3f52e85efe94343991feceabc6676efd52851d50874"
+    },
+    {
+      "path": "media/2026/10/delos-plan-aire-sacree-tomisti.png",
+      "size": 161135,
+      "sha256": "9c09d99ab889da6e1aff9c7e688fadaf93b340715cd3e5967b9d2e79b4133885"
+    },
+    {
+      "path": "media/2026/10/delos-terrasse-lions-ggia.jpg",
+      "size": 180254,
+      "sha256": "fbd94ba8f000b218848fdb5c139a28bc12a42752d35365b1e6185338958f776e"
+    },
+    {
+      "path": "media/2026/10/delphes-plan-sanctuaire-apollon-tomisti.png",
+      "size": 239107,
+      "sha256": "295e70adb3c87cbf18fca46d3a42a46acc1be52a2856fb7fb7cc8d9fa2755025"
+    },
+    {
+      "path": "media/2026/10/delphes-temple-apollon-bernard-gagnon.jpg",
+      "size": 264614,
+      "sha256": "5d0689ec642a0237a9b6f7885c51b24e77a27afddd1cace582e7d9fddedbf19a"
+    },
+    {
+      "path": "media/2026/10/demeter-triptolemos-peintre-niobides-met-41-162-98.jpg",
+      "size": 1551070,
+      "sha256": "02d74e9611bfd6df86a6a7f474d475fdf30076e5ce655cf7df827c5cf44578d7"
+    },
+    {
+      "path": "media/2026/10/eleusis-grand-relief-demeter-trip-toleme-persephone-zde.jpg",
+      "size": 450283,
+      "sha256": "607b1bd1a1065b80a57a8d933d03657b3db2fabcf76e4daaa9de45f44edbe21a"
+    },
+    {
+      "path": "media/2026/10/epidaure-theatre-antique-zde.jpg",
+      "size": 242196,
+      "sha256": "010fd7638f7fa9a59708d29b0bf0c9549e446d0e8f2ca3c3a66a4a9bbcd66f54"
+    },
+    {
+      "path": "media/2026/10/gilgamesh-tablette-deluge-british-museum-babelstone.jpg",
+      "size": 338227,
+      "sha256": "d617e784ed85ba5d328e6c9af67d94d175fed1dbd1e7ad2fdf8dcc909190daa8"
+    },
+    {
+      "path": "media/2026/10/hephaiestos-retour-olympe-coupe-oakeshott-17-230-5.png",
+      "size": 393287,
+      "sha256": "3cef2358a774c8aa1b106f97c410cd7b9a5d5145494f255a5c38de7ca9488dfc"
+    },
+    {
+      "path": "media/2026/10/jacques-louis-david-mort-de-socrate-1787.jpg",
+      "size": 116475,
+      "sha256": "62acc917f184cce37f88245b71f826c91bb9240bfb8c3d50c5085fd159c2a2af"
+    },
+    {
+      "path": "media/2026/10/met-hades-persephone-apulian-hydria-07-128-1.jpg",
+      "size": 1441516,
+      "sha256": "ec20038dbf6478ec751eb1de8813e9719b32932bffcdbcbda08c7a8c3a99ad01"
+    },
+    {
+      "path": "media/2026/10/met-heracles-serpents-hera-nausicaa-25-28.jpg",
+      "size": 1797372,
+      "sha256": "7e691ffecb6e2938386e01dd8b6b6e7766c3f41f1343c48bb5923d54bc369f1c"
+    },
+    {
+      "path": "media/2026/10/met-persee-meduse-polygnotos-45-11-1.jpg",
+      "size": 1229874,
+      "sha256": "1fd9dedf86cfb46426505bae49a9804a12a228a5b3591f33591f82087cd4be0b"
+    },
+    {
+      "path": "media/2026/10/met-poseidon-berlin-painter-41-162-17.jpg",
+      "size": 1752332,
+      "sha256": "195c886cd4baa7dcfa55cb7e004d58688bb6e320f116918b4431f3d4f3f31d5c"
+    },
+    {
+      "path": "media/2026/10/moreau-oedipe-sphinx-1864-met.jpg",
+      "size": 8417963,
+      "sha256": "aa42fd3671d15f7bc2887a91d3417688dbf3eeecb60e86d40abaa107c2545b06"
+    },
+    {
+      "path": "media/2026/10/mythos-amphiareion-oropos-plan-visiteurs-2022.jpg",
+      "size": 663057,
+      "sha256": "1ca3e17fe7b461e1bd994121e7829f41e4b9ff8a0f2a207ee662793150bfbced"
+    },
+    {
+      "path": "media/2026/10/mythos-amphiareion-oropos-theatre-veza-2020.jpg",
+      "size": 9043001,
+      "sha256": "0f2aad02835faebbc536047f51a5f658a6ac51731dfd4d1bdf2edf2a0d5f6c17"
+    },
+    {
+      "path": "media/2026/10/mythos-aphrodite-cygne-kylix-british-museum.jpg",
+      "size": 352929,
+      "sha256": "f7d69a776340b3e014fe6a189d17430578b18754315afa7bd60be661ce47de56"
+    },
+    {
+      "path": "media/2026/10/mythos-apollon-heracles-tripode-andokides-met-63-11-6.jpg",
+      "size": 1141760,
+      "sha256": "f12a4e8fe91f8789d6a0252f1c747c27ab6f48405688dcaa005eaa2ddd2531a4"
+    },
+    {
+      "path": "media/2026/10/mythos-ares-frise-orientale-parthenon-bloc-iv-twospoonfuls.jpg",
+      "size": 6594541,
+      "sha256": "83d5eb578545cf83055016df7187ef3e3efd71b5ff2e0a9f4f2db268f9c338ec"
+    },
+    {
+      "path": "media/2026/10/mythos-argonautes-jason-toison-or-cratere-verger-met-34-11-7.jpg",
+      "size": 1637351,
+      "sha256": "2b488d91703ed7f3e5d8f22b32c42a6e399e1cd3e37bb0d88ad85fead6dc2747"
+    },
+    {
+      "path": "media/2026/10/mythos-artemis-ephesienne-statue-musee-selcuk-furkan-akkurt.jpg",
+      "size": 424756,
+      "sha256": "7356c82942a234730812cf14507285bf85c483b040a5c48db576f46b6baed66c"
+    },
+    {
+      "path": "media/2026/10/mythos-artemis-faon-lecythe-peintre-providence-met-41-162-18.jpg",
+      "size": 1832738,
+      "sha256": "0e1efb0d3932db8d70ba35f7f296205ddc73d0e112b9681c7f3013dbfc60f224"
+    },
+    {
+      "path": "media/2026/10/mythos-artemision-ephese-vestiges-w-lemay.jpg",
+      "size": 6499552,
+      "sha256": "5973d1f6f03045516a8a907ed62a28923d1c26cf44b54c3a58bf2e292915c4c7"
+    },
+    {
+      "path": "media/2026/10/mythos-asclepios-hygie-relief-therme-istanbul-109t-sandstein.jpg",
+      "size": 3239467,
+      "sha256": "098ae36584ebacbbe1ae8348c883792e77c6a8c9cb719ba40a8b504ed5b3323e"
+    },
+    {
+      "path": "media/2026/10/mythos-atalante-chasse-calydon-laconian-louvre-e670.jpg",
+      "size": 1966352,
+      "sha256": "0e36ee6bbcd6c60a3f45af2723513cdd1358dd9ba02171e3b7f205482160ee68"
+    },
+    {
+      "path": "media/2026/10/mythos-athena-lecythe-brygos-aplaste-met-25-189-1.jpg",
+      "size": 1153100,
+      "sha256": "9886048d7605cf274e247e70e8a4c5e3b25ca05747e7ff16e4af94ed8cdfc439"
+    },
+    {
+      "path": "media/2026/10/mythos-athenes-metron-agora-jacob-freeland-2023.jpg",
+      "size": 651831,
+      "sha256": "04cbc03db8805781b30fac3e74c3ea603f5241595e13babbe87010347e21c348"
+    },
+    {
+      "path": "media/2026/10/mythos-bastien-lepage-priam-achille-1876.jpg",
+      "size": 75584,
+      "sha256": "dbf05778ebff2296e2a2aa2ebe6b93d4fd3cfc6255a97a3da4e89fd76405368c"
+    },
+    {
+      "path": "media/2026/10/mythos-behistun-inscription-darius-mahdimanavimvi-2018.jpg",
+      "size": 270818,
+      "sha256": "d466625a4842053e351e1593359a339e952c90581969ec633f7b2b8bd8406a6a"
+    },
+    {
+      "path": "media/2026/10/mythos-brauron-fillette-au-lapin-musee.jpg",
+      "size": 397617,
+      "sha256": "372b2325d37774f806ba8db135492384b6b3a2c094e2d58fdad0d2915bf02aa9"
+    },
+    {
+      "path": "media/2026/10/mythos-bronze-artemision-zeus-ou-poseidon.jpg",
+      "size": 105623,
+      "sha256": "6732edd7d06bbc6b2f04ffde5a597a687fe12402a1ca8263de370e7dc8876a60"
+    },
+    {
+      "path": "media/2026/10/mythos-carte-sanctuaires-grecs-francais.png",
+      "size": 459355,
+      "sha256": "081f0077953b63a05ea581ff4124054065e513086a41f9bb97d2add19a7ec99b"
+    },
+    {
+      "path": "media/2026/10/mythos-cybele-statue-athenes-3726-george-koronaios-2018.jpg",
+      "size": 9900802,
+      "sha256": "31c49d7e8519c57256b5c86d64058ae653bd36596dc44dc5d7d102cfa12b0cc3"
+    },
+    {
+      "path": "media/2026/10/mythos-delphes-mur-polygonal-inscriptions-zde-2020.jpg",
+      "size": 10442143,
+      "sha256": "e70a04d85624b70f766990c8fc7c08d0d6c09214f9640b481f77840cc24e9132"
+    },
+    {
+      "path": "media/2026/10/mythos-demeter-porcelet-terre-cuite-athenes-cma-1926-521.jpg",
+      "size": 1342479,
+      "sha256": "088ecd62e18a8c4df07d6a71e6758e762b9df0a28dc9edd15053080cf693bfd8"
+    },
+    {
+      "path": "media/2026/10/mythos-derveni-cratere-dionysos-menade-carole-raddato.jpg",
+      "size": 9014916,
+      "sha256": "3605c731249a4946d88c3247302e4ab99ee4157ffa1f4fd82f147b696e46dd2e"
+    },
+    {
+      "path": "media/2026/10/mythos-derveni-papyrus-fragments-thessalonique-gts-tg.jpg",
+      "size": 944299,
+      "sha256": "56d9bf3802a6a837192d72913b0a47e74bee1b757fa70fedcbf3fd408231fcbd"
+    },
+    {
+      "path": "media/2026/10/mythos-dionysos-kylix-brygos-bnf-576.jpg",
+      "size": 153531,
+      "sha256": "ac4e053c32d4a3c3c3cc10c1dcd6396f5bd4e258b5e964afef95acb91f94d8f3"
+    },
+    {
+      "path": "media/2026/10/mythos-dodone-theatre-koen-2006.jpg",
+      "size": 315275,
+      "sha256": "04bb80011b964035d0205dc045c582085474a6c05302e6bd28af9f59823d4220"
+    },
+    {
+      "path": "media/2026/10/mythos-e28094-athena-buste-antique.png",
+      "size": 796841,
+      "sha256": "fd3b27d3118669e75e37defc6422003a5916da891ae8832fbbceb98a68902ff5"
+    },
+    {
+      "path": "media/2026/10/mythos-e28094-banniere-noire-et-or-statue-grecque-et-acropole.png",
+      "size": 1291021,
+      "sha256": "3c67fd230d0a9552b3fd212f88881c7aef4d616339eadfc4873453977564e4fd"
+    },
+    {
+      "path": "media/2026/10/mythos-e28094-ceramique-grecque-a-figures-rouges.png",
+      "size": 1387183,
+      "sha256": "ef3309ab439ab5cc7f3d21bf80c8592a58ef2f6eae97b0d286c2427c075a8f3e"
+    },
+    {
+      "path": "media/2026/10/mythos-e28094-gilgamesh-devant-uruk-evocation-artistique-generee-par-ia.png",
+      "size": 1482396,
+      "sha256": "35e5507e2755f028adff5d470874f0c6379277bbb5bcad77fa1f4d85bf30da7b"
+    },
+    {
+      "path": "media/2026/10/mythos-e28094-hestia-et-le-foyer-civique-evocation-artistique-contemporaine-generee-par-ia.png",
+      "size": 983268,
+      "sha256": "9144cc92821e3a32204b0620b1db2c627f144ae658b7139d8ccddbeae9083076"
+    },
+    {
+      "path": "media/2026/10/mythos-e28094-illustration-du-sanctuaire-de-delphes.png",
+      "size": 1893280,
+      "sha256": "24299b46bd8040a3e5b5a2f40d45eb104b3ec8f86a4cb89ab74f522fc01214c8"
+    },
+    {
+      "path": "media/2026/10/mythos-enheduanna-disque-penn-museum-mefman00.jpg",
+      "size": 114386,
+      "sha256": "e35371950681ead554eb9ab50b1641a66e1773b7b0eb48e9fd673ccc7790679e"
+    },
+    {
+      "path": "media/2026/10/mythos-enuma-elish-tablette-k3473-ninive-zunkir.jpg",
+      "size": 2787642,
+      "sha256": "5db43f9d9f7f176796893eba95c847641fc9e75f4b83c0bdcea02888b7c22c06"
+    },
+    {
+      "path": "media/2026/10/mythos-epidaure-tholos-reconstitution-defrasse-lechat-1895.jpg",
+      "size": 586889,
+      "sha256": "0ce8b1fc259203b73db1e9a83f50fe04ef59123885d16fc3a6c098a3fd2d2afe"
+    },
+    {
+      "path": "media/2026/10/mythos-epidaure-tholos-restauration-2020-zde.jpg",
+      "size": 241783,
+      "sha256": "8aa15e5724cf4feb974e8c85c9b3dcc35fed283f37b8927097bb96c3233cb139"
+    },
+    {
+      "path": "media/2026/10/mythos-gathas-bodleian-j2-fol175-yasna28.jpg",
+      "size": 96338,
+      "sha256": "d39739f2d14b4835f9db27e3fd5b7c2159892c4006d1ad13667d8cb74174d599"
+    },
+    {
+      "path": "media/2026/10/mythos-hecate-lagina-temple-raicem-2020.jpg",
+      "size": 3822695,
+      "sha256": "41c5515fb98963e004eb5dd0f4f0506f03ead3b9e93b3fa86b5df2c443b4cc0a"
+    },
+    {
+      "path": "media/2026/10/mythos-hecate-triple-graces-met-1987-11-2.jpg",
+      "size": 1262472,
+      "sha256": "e83ad096db864f76791292f1be0cbcf520a55d30ead5745d1c6549e768fe152d"
+    },
+    {
+      "path": "media/2026/10/mythos-hector-priam-rancon-briseis-peintre-british-museum-e75.jpg",
+      "size": 3480051,
+      "sha256": "11b58bb5e04323393949148c2406cac60791459f45e8559ad13cd08462c5f2f2"
+    },
+    {
+      "path": "media/2026/10/mythos-helene-menelas-stamnos-deepdene-met-41-162-20.jpg",
+      "size": 1518454,
+      "sha256": "60281b8f495b660f1c2b7591a9bd88c4104d431f1311ad09f3011fb10c7e7663"
+    },
+    {
+      "path": "media/2026/10/mythos-heracles-lion-nemee-oinochoe-met-06-1021-66.jpg",
+      "size": 111291,
+      "sha256": "ef46ac952e4d029ddcf7530d79d1d00a4ef6a506cfac93c9aab2c2295c061e91"
+    },
+    {
+      "path": "media/2026/10/mythos-iliade-achille-ajax-athena-hydrie-met-56-171-29.jpg",
+      "size": 1686497,
+      "sha256": "4ee642eff787d0337b876edc38ea3e07ea2ef02284a27205335c83c2095ac636"
+    },
+    {
+      "path": "media/2026/10/mythos-isthmia-temple-poseidon-zde-2020.jpg",
+      "size": 9181206,
+      "sha256": "d175c19afe9a70a8056cd1192610149ffc0c6f6651efd3ccae7ba45fd716d077"
+    },
+    {
+      "path": "media/2026/10/mythos-kumarbi-contexte-hattusa-yazilikaya-sharruma-tudhaliya.jpg",
+      "size": 10166868,
+      "sha256": "720fb818fc65a2ef68ef7d70655b91fad9c34a8513a3c49329452f9671382d7f"
+    },
+    {
+      "path": "media/2026/10/mythos-lararium-maison-vettii-pompei-lorente-waterborough.jpg",
+      "size": 878992,
+      "sha256": "8249c9ba25fdbbf9505edc16ba1dcacf6a9f81d359312fb5167734821064399d"
+    },
+    {
+      "path": "media/2026/10/mythos-masques-theatre-rondelles-hellenistiques-met-2001-767.jpg",
+      "size": 2216910,
+      "sha256": "1719e97d463b3b9fc16868855ceb2d25bc8eba09dde95d8876ef85d300f3f3df"
+    },
+    {
+      "path": "media/2026/10/mythos-medee-fuite-char-serpents-hydrie-policoro-35296.jpg",
+      "size": 3272363,
+      "sha256": "be5dc08a396c27a86d997b6c8ebbe109ee7f24e48b26149c2b17877bda4bf527"
+    },
+    {
+      "path": "media/2026/10/mythos-melqart-cippe-louvre-ao4818-shonagon.jpg",
+      "size": 3110422,
+      "sha256": "77b0e721c14e64f468709c2ae9ef90fefc0e329bd4edb45878dd2eff5aaf5e37"
+    },
+    {
+      "path": "media/2026/10/mythos-mithras-mosaique-grade-perses-ostie.jpg",
+      "size": 3415727,
+      "sha256": "fb547dc64d088599114aee9187deafda597dc283990cff1062a1e6817ed2b0c0"
+    },
+    {
+      "path": "media/2026/10/mythos-mithras-tauroctonie-apronianus-172.jpg",
+      "size": 3222054,
+      "sha256": "8e4d75b4a82f946198317850956061c5359b494aa83739c938e574df203e21f9"
+    },
+    {
+      "path": "media/2026/10/mythos-monogramme-or-noir-512.png",
+      "size": 1658,
+      "sha256": "2005b52c7576ead9f162fcb48eb9b575c1a1d91da3be5bd55855d30255a5e056"
+    },
+    {
+      "path": "media/2026/10/mythos-mycene-porte-lionnes-zde-2020.jpg",
+      "size": 238729,
+      "sha256": "d05d91ee3a89b989745ab1cf83941108ef1c9e5e1018c3d3ac20f259fa542707"
+    },
+    {
+      "path": "media/2026/10/mythos-nemee-temple-zeus-ophelia2-2010.jpg",
+      "size": 208895,
+      "sha256": "003de54bb528c9921897d32f285207fe68e0d2f7a414a6539f8ed725db48e0f0"
+    },
+    {
+      "path": "media/2026/10/mythos-olympie-nike-paionios-jarvis-2005.jpg",
+      "size": 140483,
+      "sha256": "60ead60d1a9a40ca8be1a64f5a430125eed01d15d4ea6b89f694d8317e5dbc22"
+    },
+    {
+      "path": "media/2026/10/mythos-orphee-thraces-cratere-londres-e497-met-24-97-30-nguyen.jpg",
+      "size": 7415153,
+      "sha256": "1af0a5b66459c7c890a34901d52485a3d7e6aa535adfe44bd66693a39d78b010"
+    },
+    {
+      "path": "media/2026/10/mythos-ougarit-cycle-baal-louvre-ao16640-rama.jpg",
+      "size": 982332,
+      "sha256": "afdd0cacd073ed6f29e502833ab595b74f11d502a07e3a87f6cf5c943b7fca3c"
+    },
+    {
+      "path": "media/2026/10/mythos-ounas-chambre-funeraire-vincent-brown.jpg",
+      "size": 811243,
+      "sha256": "d8c0ffe6fc47455dd6c42fba6de7b0c6b8343fefa664949a51dc2cd5d4a653a2"
+    },
+    {
+      "path": "media/2026/10/mythos-ounas-plan-complexe-funeraire-monnier-gdk.png",
+      "size": 81856,
+      "sha256": "e97a0fcdcd6e1f18612db17099159a40a9c68bf37d7c38040a831331da2d4000"
+    },
+    {
+      "path": "media/2026/10/mythos-papyrus-ani-pesee-coeur-british-museum.jpg",
+      "size": 3462788,
+      "sha256": "d239b2ee5aafdbd1c9b8546fdcf0d786a6d5faccd53aaf76fb77e8128102a214"
+    },
+    {
+      "path": "media/2026/10/mythos-papyrus-odyssee-ptolemaique-met-09-182-50.jpg",
+      "size": 1512701,
+      "sha256": "474e46894b7822e7f163e0b966b0b4f28078be5e2ef0890ff7a40fc264733d08"
+    },
+    {
+      "path": "media/2026/10/mythos-papyrus-oxyrhynchus-20-iliade-ii.jpg",
+      "size": 151427,
+      "sha256": "52cc70b18ff8f7e0a9d820d66d1a7795917c2bd6908016526310ad01e5673c56"
+    },
+    {
+      "path": "media/2026/10/mythos-persephone-enlevement-hydrie-apulie-met-07-128-1.jpg",
+      "size": 1444926,
+      "sha256": "084ca98dd792c8b169715404deccce533a245a5f410db682f3e8b946a215a02b"
+    },
+    {
+      "path": "media/2026/10/mythos-persepolis-apadana-delegations-pentocelo-2006.jpg",
+      "size": 159307,
+      "sha256": "d3b25288b55d6330e0b6aa78ece3f0f9b8abb7792f9ace3133ec4fb4f7a3c094"
+    },
+    {
+      "path": "media/2026/10/mythos-persepolis-plan-historique-britannica-1911.png",
+      "size": 117555,
+      "sha256": "45b2f13605ac3c35ee8a171014821bab28b450cf4246bd80c33d761f12de4fff"
+    },
+    {
+      "path": "media/2026/10/mythos-petelia-lamelle-or-et-etui-british-museum.jpg",
+      "size": 3098723,
+      "sha256": "5364bb0e31e1e29cf62ac73bd80a699ff3020cd50d2e311e99b57b02ac5c7742"
+    },
+    {
+      "path": "media/2026/10/mythos-phrygie-monument-midas-yazilikaya-zeynel-cebeci.jpg",
+      "size": 2538210,
+      "sha256": "1edc84da20214154ad0ec63603e5438ed269b46a4d628cbc0a8082657d131355"
+    },
+    {
+      "path": "media/2026/10/mythos-plan-artemision-brauron-emma-burkhardt-2009.jpg",
+      "size": 469728,
+      "sha256": "361c5fc2f819ae239b79e9a5c2b80d771461bf9813284aeb9fff2af2b9ac5c39"
+    },
+    {
+      "path": "media/2026/10/mythos-plan-delos-aire-sacree-tomisti-2016.png",
+      "size": 223506,
+      "sha256": "e365d2576a8582e6b4d1e2527377df16a3db8d421c5b6d5a71115e248c1c3ec4"
+    },
+    {
+      "path": "media/2026/10/mythos-plan-mycene-deuxieme-enceinte-martin-leveneur.png",
+      "size": 49516,
+      "sha256": "66c90f08f43548670b348a53e421c90ff5467b4243d0df66af7d0db2a3d4d491"
+    },
+    {
+      "path": "media/2026/10/mythos-relief-hero-banquet-attique-met-57-42.jpg",
+      "size": 2875222,
+      "sha256": "b4575db688f3a5a186adede17cf43b053d10270d9ddd83b97e4ebec526320a47"
+    },
+    {
+      "path": "media/2026/10/mythos-relief-orphee-eurydice-hermes-naples-6727.jpg",
+      "size": 2252817,
+      "sha256": "da9bd267d9ea87840cfa82088a977757f043c35d222e4d3b1bade3a071cd14c7"
+    },
+    {
+      "path": "media/2026/10/mythos-samothrace-nike-louvre-dada-photo.jpg",
+      "size": 176305,
+      "sha256": "7a216dfb1822f0f664871c3c2ea088cca4a6406d99f4131a733be1ee1bd71f4d"
+    },
+    {
+      "path": "media/2026/10/mythos-samothrace-sanctuaire-grands-dieux-ggia-2002.jpg",
+      "size": 270267,
+      "sha256": "a886a97db6ac1d5ec525c79718a0e35d62b6d6e19b1f69bddc1be3e5a1d0641b"
+    },
+    {
+      "path": "media/2026/10/mythos-sappho-alcee-kalathos-peintre-brygos.jpg",
+      "size": 1342060,
+      "sha256": "c5bce7fc03e0426e170c4f0d41aa66aa5266a323d84a61b7260972951753fce8"
+    },
+    {
+      "path": "media/2026/10/mythos-sappho-papyrus-oxyrhynchus-1231-bodleian.jpg",
+      "size": 231190,
+      "sha256": "56d6e2e7aa1a876011766539f1f8555fea4edbe48a76a897f722113e8b2afe49"
+    },
+    {
+      "path": "media/2026/10/mythos-thebes-cadmee-fouilles-mirjanamimi-2016.jpg",
+      "size": 636208,
+      "sha256": "5d7098be586c6374a96a140e1ce9d213d5dac34bf492670dc3b2567e9f5feaff"
+    },
+    {
+      "path": "media/2026/10/mythos-thesee-minotaure-amphore-taleides-met-47-11-5.jpg",
+      "size": 7127443,
+      "sha256": "7ed8af93d9d23ccdcdbbabb490e00a38f8d1269eb3f2fae7a0b5be2e846314a5"
+    },
+    {
+      "path": "media/2026/10/mythos-troie-vi-porte-est-hisarlik-cherryx-2012.jpg",
+      "size": 1417042,
+      "sha256": "a7f4f2f46523a6da9cfe6a1bc89b2f63dbb2c7f789fdd97c111a631736e83304"
+    },
+    {
+      "path": "media/2026/10/mythos-ulysse-polypheme-crivellari-gravure-1756.jpg",
+      "size": 298200,
+      "sha256": "a1ba7d9ca8800373ac2768e7b718bf39156a4213642808b7e5b9d2c782e1d293"
+    },
+    {
+      "path": "media/2026/10/mythos-van-loo-medee-jason.jpg",
+      "size": 4594633,
+      "sha256": "7c2cc969276360781961c262265ff8803e11295d47395006d153e61a316a7baa"
+    },
+    {
+      "path": "media/2026/10/mythos-yazilikaya-chambre-b-douze-dieux-ywpark.jpg",
+      "size": 3056237,
+      "sha256": "5bcd65eebe8a08c87fad9494897d9e89e8bbad626671da05458f16134e5beb70"
+    },
+    {
+      "path": "media/2026/10/mythos-yazilikaya-teshub-hebat-rita1234.jpg",
+      "size": 1320975,
+      "sha256": "1e78c864a00d34d6b8d634bcab0ffc81fc6034cf438b7d73438d189538737823"
+    },
+    {
+      "path": "media/2026/10/mythos_tragedies_perdues_edition_vii_integrale.pdf",
+      "size": 1719829,
+      "sha256": "ecd936b5397fd36974d9fc419cb4677a375bd68ee650f16918cc53ab76c47703"
+    },
+    {
+      "path": "media/2026/10/mythos_volume_i_eschyle_edition_vii.pdf",
+      "size": 515124,
+      "sha256": "7a3ba3e5e46be27064052d23d69ecec11427bc2900716097c45ad5bbc907c2a7"
+    },
+    {
+      "path": "media/2026/10/mythos_volume_ii_sophocle_edition_vii.pdf",
+      "size": 470976,
+      "sha256": "883e7cac8a708b78a5d957d4dd4f9a1d9ab109fcfd9e49cc8995a29767d16c6e"
+    },
+    {
+      "path": "media/2026/10/mythos_volume_iii_euripide_edition_vii.pdf",
+      "size": 651345,
+      "sha256": "cc44b3da840fb44fb97fea3d61c2e81a120e1e0dfce3bee113ea368bf6d2a0db"
+    },
+    {
+      "path": "media/2026/10/olympie-plan-sanctuaire-francais.png",
+      "size": 211771,
+      "sha256": "27072653a0645626155f6912a3db9e8d0e7b8893886da44a103dbb8b4ea531bb"
+    },
+    {
+      "path": "media/2026/10/olympie-temple-zeus-anna-tziaki.jpg",
+      "size": 187062,
+      "sha256": "d1af8c01110ac7e38701f66c7db785109e800d486d75c6a679ea49450c433e42"
+    },
+    {
+      "path": "media/2026/10/oreste-apollon-cratere-eumenides-louvre-cp-710.jpg",
+      "size": 260908,
+      "sha256": "aa8738578fabe0b0024d006d31d00ff7df7c50cafb01bf4433677a111ffceed7"
+    },
+    {
+      "path": "media/2026/10/penelope-telemaque-metier-coupe-chiusi-1831.jpg",
+      "size": 241331,
+      "sha256": "9299934c89580ccca6ad5c1c725defa94dc8cfd99ed814af0d856249d1697fb0"
+    },
+    {
+      "path": "media/2026/10/persepolis-apadana-delegation-lydienne.jpg",
+      "size": 314686,
+      "sha256": "33729f85ca6caf20b2493924dc473b115afb5ff6f1e9d914ca40177817a0eb36"
+    },
+    {
+      "path": "media/2026/10/raphael-ecole-athenes-1511.jpg",
+      "size": 244666,
+      "sha256": "ffc5f11dad5331a1968e4548c437b08abe9757ae2cb070a754d44cfb3f5b40b7"
+    },
+    {
+      "path": "media/2026/10/shiva-nataraja-chola-met-1987-80-1.jpg",
+      "size": 159379,
+      "sha256": "233c63bd4f0c2996d105668cae6051e638bbb870ff2987729c71dae971d336f9"
+    }
+  ]
+}
