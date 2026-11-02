@@ -20,6 +20,7 @@ NAV = '''<nav class="site-nav" aria-label="Navigation principale">
 <a href="/recits-mythologiques/">Récits</a>
 <a href="/mythologies/">Mythologies</a>
 <a href="/theatre/">Théâtre</a>
+<a href="/origines-du-sacre/">Origines du sacré</a>
 <a href="/philosophie/">Philosophie</a>
 <a href="/civilisations/">Civilisations</a>
 <a href="/recherche/">Recherche</a>
@@ -108,6 +109,7 @@ def create_home(entries,groups):
       ("/grece/","Grèce antique","Dieux, héros, Homère, Hésiode, cultes, sanctuaires et récits.","DOSSIER À LA UNE"),
       ("/mythologies/","Mythologies du monde","Cosmogonies, panthéons, récits fondateurs et traditions comparées.","LE CŒUR DE MYTHOS"),
       ("/theatre/","Théâtre grec","Eschyle, Sophocle, Euripide, Aristophane, Ménandre, œuvres perdues.","ŒUVRES ET FRAGMENTS"),
+      ("/origines-du-sacre/","Origines du sacré","Préhistoire, rituels, chants, temps sacré et religions comparées.","GRAND DOSSIER"),
       ("/philosophie/","Études philosophiques","Hegel, Nietzsche, philosophie antique et interprétation des mythes.","ANALYSE CRITIQUE"),
     ])
     continent_cards=cards([(f"/civilisations/{k}/",label,f"{len(groups[k])} dossiers — {subtitle}","PAR CONTINENT") for k,(label,subtitle) in CONTINENTS.items()])
@@ -133,6 +135,7 @@ def create_home(entries,groups):
 </div></section>'''
     body=introductory+museum+section("Dieux, héros et récits — les trois grandes entrées","Accédez directement aux personnages et aux histoires des mythologies grecque et mondiale.",essentials)
     body+=section("Les grands parcours de recherche","Choisissez un monde, un genre littéraire ou une méthode d’étude.",major)
+    body+=section("Aux origines des religions","Des témoignages matériels aux traditions écrites, sans confondre indices et certitudes.",cards([("/origines-du-sacre/","Origines du sacré","Un parcours critique sur les rites, les sanctuaires, les images et la mémoire.","NOUVELLE ENTRÉE"),("/chapitres/origines-du-sacre/459-musique-grecque-mousike/","Musique et rites grecs","Mousikē, voix et performance rituelle.","GRÈCE"),("/chapitres/origines-du-sacre/452-delphes-pythie-parole-oraculaire/","La parole oraculaire","Delphes, Pythie et médiation religieuse.","SOURCES")))
     body+=section("Civilisations du monde, par continent","Une géographie de consultation moderne : les échanges et les appartenances historiques débordent les frontières continentales.",continent_cards)
     body+=section("Bibliothèques et traditions à découvrir","Des portes d’entrée vers les principaux corpus.",world)
     body+='''<section class="portal-section search-zone"><h2>Rechercher dans l’encyclopédie</h2>
@@ -284,24 +287,100 @@ def create_figures_and_stories(entries):
     write("recits-mythologiques",shell("Grands récits mythologiques du monde",body))
     print("MYTHOS FIGURES :",len(greek_deities),"dieux grecs,",len(global_deities),"divinités du monde,",len(greek_heroes),"héros grecs,",len(global_heroes),"cycles du monde,",len(greek_cycles),"récits grecs.",flush=True)
 
+
+def museum_figures(figures, heading="Images et objets à observer"):
+    """Images déjà conservées dans le dépôt, avec légendes explicites."""
+    figs=[]
+    for file,alt,caption in figures:
+        figs.append('<figure class="museum-object"><img loading="lazy" decoding="async" src="/media/2026/10/'+esc(file)+'" alt="'+esc(alt)+'"><figcaption>'+esc(caption)+'</figcaption></figure>')
+    return '<section class="portal-section museum-feature"><h2>'+esc(heading)+'</h2><div class="museum-objects">'+''.join(figs)+'</div></section>'
+
+def numbered_works(items, kind):
+    """Numéros locaux à l'auteur : ne pas les confondre avec les volumes universitaires."""
+    if not items:
+        return '<p class="small-note">Aucun dossier vérifié dans cette catégorie.</p>'
+    return '<ol class="work-list">'+''.join(
+        '<li><a href="'+esc(e["url"])+'">'+esc(e["title"].split(" — ",1)[-1].split(" : ",1)[0].split(" | ",1)[0])+'</a><small>'+esc(kind)+'</small></li>'
+        for e in sorted(items,key=lambda x:x["title"].casefold())
+    )+'</ol>'
+
+def create_origins(entries):
+    corpus=[e for e in entries if e["url"].startswith("/chapitres/origines-du-sacre/")]
+    numbered=[]
+    for e in corpus:
+        match=re.search(r"/(\d+)-",e["url"])
+        if match:
+            numbered.append((int(match.group(1)),e))
+    numbered.sort(key=lambda x:x[0])
+    body='<h1>Origines du sacré</h1><p class="portal-lead">Une enquête historique et comparée sur les premières manifestations matérielles des rites, la formation des sanctuaires, les images, la parole religieuse et les grandes traditions anciennes. Ni origine unique, ni continuité universelle présumée.</p>'
+    body+=museum_figures([
+      ("mythos-ounas-chambre-funeraire-vincent-brown.jpg","Textes funéraires dans la pyramide d’Ounas","Égypte ancienne — textes funéraires de la pyramide d’Ounas."),
+      ("mythos-derveni-papyrus-fragments-thessalonique-gts-tg.jpg","Fragments du papyrus de Derveni","Grèce ancienne — papyrus de Derveni, interprétation des traditions orphiques."),
+      ("mythos-enheduanna-disque-penn-museum-mefman00.jpg","Disque d’Enheduanna","Mésopotamie — disque associé à Enheduanna et à l’univers cultuel mésopotamien."),
+      ("mythos-yazilikaya-chambre-b-douze-dieux-ywpark.jpg","Reliefs de divinités à Yazılıkaya","Anatolie hittite — cortège de divinités du sanctuaire de Yazılıkaya.")
+    ],"Documents et sanctuaires : regarder les sources")
+    body+=section("Les grandes questions","Un classement thématique avant la succession des volumes.",cards([
+      ("/chapitres/origines-du-sacre/452-delphes-pythie-parole-oraculaire/","Oracles et médiations","La parole divine dans les cités grecques.","RITES"),
+      ("/chapitres/origines-du-sacre/459-musique-grecque-mousike/","Musique et performance","La mousikē grecque, les chœurs et la fête.","GRÈCE"),
+      ("/chapitres/origines-du-sacre/468-mesopotamie-akitu-annee/","Temps sacré","Le calendrier rituel et l’Akītu mésopotamien.","MÉSOPOTAMIE"),
+      ("/chapitres/origines-du-sacre/462-egypte-sistre-hathor/","Gestes et objets cultuels","Le sistre, Hathor et la musique rituelle.","ÉGYPTE")
+    ]))
+    body+=section("Chapitres de la collection","Numérotation d'origine conservée : elle désigne les chapitres de la série, et non les œuvres du théâtre grec.",
+      '<ol class="chapter-list">'+''.join('<li value="'+str(n)+'"><a href="'+esc(e["url"])+'">'+esc(e["title"])+'</a><span class="chapter-topic">'+esc(e["url"].split("/")[-2].split("-",1)[-1].replace("-"," "))+'</span></li>' for n,e in numbered)+'</ol>'
+      +details([e for e in corpus if not re.search(r"/\d+-",e["url"])],"Tomes et dossiers complémentaires"))
+    body+=section("Méthode et limites","Une image ou une sépulture ne suffit pas à démontrer une croyance déterminée.",
+      '<p>Les datations, les contextes archéologiques, les textes anciens et les interprétations modernes sont présentés comme des niveaux de preuve distincts. Les analogies entre civilisations sont discutées, et non posées comme des filiations certaines.</p>')
+    write("origines-du-sacre",shell("Origines du sacré — MYTHOS",body))
+
 def create_theatre(entries):
-    tragedies=[e for e in entries if starts(e,"/tragedies/","/chapitres/tragedies/") or e["url"] in ("/euripide-bacchantes-dionysos-tragedie/","/aristophane-grenouilles-theatre-cite/") and False]
+    tragedies=[e for e in entries if starts(e,"/tragedies/","/chapitres/tragedies/")]
     comedies=[e for e in entries if starts(e,"/comedie-grecque-aristophane-menandre-etudes/","/chapitres/comedies/")]
-    body='<h1>Théâtre grec</h1><p class="portal-lead">Le théâtre ancien comme archive des mythes et laboratoire de la cité. Œuvres conservées, fragments de pièces perdues, reconstitutions explicitement modernes et interprétations critiques.</p>'
-    body+=section("Les trois grands tragiques","Éditions critiques, tragédies conservées et œuvres perdues.",cards([
-      ("/tragedies/","Tragédie grecque","Panorama d’Eschyle, Sophocle et Euripide."),
-      ("/tragedies/bibliotheque-tragedies-etudes-individuelles/","Pièces conservées","Analyses individuelles et références."),
-      ("/tragedies/mythos-bibliotheque-89-tragedies-perdues-edition-vii/","Tragédies perdues","Fragments, attributions et hypothèses."),
-      ("/theatre-grec-conserve-etudes-philosophiques/","51 études philosophiques","Étudier les pièces à travers leurs problèmes.")
+    def first(title,word): return title.casefold().startswith(word.casefold()+" —")
+    def original(e):
+        return "/mythos-theatre-perdu-" not in e["url"] and "/aristophane-comedies-perdues-volume-" not in e["url"] and "/comedies-perdues-" not in e["url"]
+    preserved_t=[e for e in tragedies if original(e) and re.search(r"/(eschyle|sophocle|euripide)-[^/]+-analyse/$",e["url"])]
+    preserved_c=[e for e in comedies if original(e) and re.search(r"/(aristophane|menandre)-[^/]+-(etude|analyse)/$",e["url"])]
+    lost_t=[e for e in tragedies if "/mythos-theatre-perdu-volume-" in e["url"] and re.search(r"mythos-(eschyle|sophocle|euripide)-",e["url"])]
+    lost_c=[e for e in comedies if "/aristophane-comedies-perdues-volume-" in e["url"] and "reconstitution" in e["url"]]
+    philosophical_c=[e for e in comedies if re.search(r"analyse-philosophique|bibliotheque-etudes-philosophiques",e["url"])]
+    body='<h1>Théâtre grec</h1><p class="portal-lead">Un classement méthodique : choisissez un genre, puis un auteur et une œuvre. Les fiches de pièces, les fragments et reconstitutions modernes sont séparés des analyses philosophiques. Les numéros recommencent pour chaque auteur ; les numéros de volumes restent inchangés.</p>'
+    body+=museum_figures([
+      ("epidaure-theatre-antique-zde.jpg","Théâtre antique d’Épidaure","Épidaure — architecture théâtrale grecque."),
+      ("mythos-masques-theatre-rondelles-hellenistiques-met-2001-767.jpg","Représentations hellénistiques de masques de théâtre","Masques de théâtre — témoignage iconographique hellénistique."),
+      ("antigone-libation-rinehart-1870.jpg","Représentation artistique d’Antigone","Antigone — représentation moderne, non image antique."),
+      ("mythos-dionysos-kylix-brygos-bnf-576.jpg","Dionysos sur une céramique grecque","Dionysos — iconographie antique et contexte cultuel.")
+    ],"Le théâtre : lieux, masques et représentations")
+    body+=section("Choisir son parcours","Les trois types de contenu ne sont plus confondus.",cards([
+      ("/theatre/#pieces-conservees","01 · Pièces conservées","Auteurs et œuvres, notices de lecture et dramaturgie.","ŒUVRES"),
+      ("/theatre/#pieces-perdues","02 · Pièces perdues","Fragments attestés, attributions discutées, reconstitutions modernes.","FRAGMENTS"),
+      ("/theatre/#analyses","03 · Analyses philosophiques","Interprétations distinctes des résumés et des reconstructions.","PHILOSOPHIE")
     ]))
-    body+=section("Comédie ancienne et nouvelle","D’Aristophane à Ménandre : satire, politique et représentations sociales.",cards([
-      ("/comedie-grecque-aristophane-menandre-etudes/","Bibliothèque de la comédie","Dossiers et analyses."),
-      ("/comedies-grecques-aristophane-menandre/","Aristophane et Ménandre","Œuvres et philosophie du rire."),
-      ("/comedie-grecque-aristophane-menandre-etudes/aristophane-catalogue-critiques-33-comedies-perdues/","33 comédies perdues","Catalogue raisonné et variantes."),
-      ("/comedie-grecque-aristophane-menandre-etudes/aristophane-bibliotheque-etudes-philosophiques/","Monographies critiques","Analyses historiques et philosophiques.")
-    ]))
-    body+=section("Parcourir tous les dossiers de théâtre","Toutes les études théâtrales restent accessibles, y compris les pièces perdues.",details(tragedies,f"Voir les {len(tragedies)} dossiers de tragédie")+details(comedies,f"Voir les {len(comedies)} dossiers de comédie"))
-    write("theatre",shell("Théâtre grec — tragédies et comédies",body))
+    body+='<section class="portal-section theatre-catalog" id="pieces-conservees"><h2>01 · Pièces conservées et dossiers de lecture</h2><p class="section-intro">Les listes suivantes renvoient aux dossiers effectivement présents dans le dépôt. La numérotation reprend à 1 pour chaque auteur et n’indique ni la date de création ni le numéro d’un volume.</p>'
+    for author in ("Eschyle","Sophocle","Euripide"):
+        works=[e for e in preserved_t if first(e["title"],author)]
+        body+='<div class="theatre-author"><h3>'+author+'</h3>'+numbered_works(works,"Dossier de lecture")+'</div>'
+    for author in ("Aristophane","Ménandre"):
+        works=[e for e in preserved_c if first(e["title"],author)]
+        body+='<div class="theatre-author"><h3>'+author+'</h3>'+numbered_works(works,"Dossier de lecture")+'</div>'
+    body+='</section>'
+    body+='<section class="portal-section theatre-catalog" id="pieces-perdues"><h2>02 · Pièces perdues, fragments et reconstitutions</h2><p class="section-intro">Une reconstitution moderne n’est jamais présentée comme un texte antique retrouvé. Les titres et attributions incertains doivent rester signalés dans les dossiers.</p>'
+    for author in ("Eschyle","Sophocle","Euripide"):
+        works=[e for e in lost_t if first(e["title"],author)]
+        body+='<div class="theatre-author"><h3>'+author+' — tragédies perdues</h3>'+numbered_works(works,"Fragments / reconstitution")+'</div>'
+    body+='<div class="theatre-author"><h3>Aristophane — comédies perdues</h3>'+numbered_works(lost_c,"Reconstitution moderne")+'</div>'
+    body+=cards([
+      ("/tragedies/mythos-bibliotheque-89-tragedies-perdues-edition-vii/","Catalogue des tragédies perdues","Répertoire général et dossiers universitaires.","SOURCES"),
+      ("/comedie-grecque-aristophane-menandre-etudes/aristophane-catalogue-critiques-33-comedies-perdues/","Catalogue des 33 comédies perdues","Répertoire critique, versions et attributions.","SOURCES")
+    ])+'</section>'
+    body+='<section class="portal-section theatre-catalog" id="analyses"><h2>03 · Analyses philosophiques — bibliothèque distincte</h2><p class="section-intro">L’interprétation des œuvres relève de sa propre collection : tragique, politique, justice, violence, langage et religion. Les textes anciens et les hypothèses modernes sont distingués.</p>'
+    body+=cards([
+      ("/philosophie/","Bibliothèque philosophique","Études critiques classées par concepts et auteurs.","INTERPRÉTATION"),
+      ("/theatre-grec-conserve-etudes-philosophiques/","Philosophie des pièces conservées","Monographies et lectures du tragique et du comique.","INTERPRÉTATION"),
+      ("/comedie-grecque-aristophane-menandre-etudes/aristophane-bibliotheque-etudes-philosophiques/","Aristophane : monographies philosophiques","Études séparées des reconstitutions théâtrales.","INTERPRÉTATION")
+    ])+details(philosophical_c,f"Afficher {len(philosophical_c)} analyses de comédies référencées")+'</section>'
+    body+=section("Archives et catalogue intégral","Tous les autres dossiers restent accessibles sans supprimer les textes existants.",
+      details(tragedies,f"Tous les {len(tragedies)} dossiers de tragédie")+details(comedies,f"Tous les {len(comedies)} dossiers de comédie"))
+    write("theatre",shell("Théâtre grec — catalogue des pièces et des analyses",body))
 
 def create_philosophy(entries):
     studies=[e for e in entries if
@@ -354,6 +433,7 @@ def renovate_catalog(total):
   ("/recits-mythologiques/","Grands récits","Cosmogonies, voyages et épopées"),
   ("/grece/","Grèce antique","Dieux, héros, cultes et épopées"),
   ("/theatre/","Théâtre","Tragédies, comédies et fragments"),
+  ("/origines-du-sacre/","Origines du sacré","Rites, images, textes et traditions religieuses"),
   ("/philosophie/","Philosophie","Études critiques et interprétations"),
   ("/civilisations/","Civilisations","Cinq continents et leurs traditions"),
  ])+'''</div><h2>Index alphabétique intégral</h2>
@@ -378,6 +458,7 @@ def renovate_search():
   ("/recits-mythologiques/","Grands récits","Cosmogonies et cycles narratifs."),
   ("/grece/","Grèce","Dieux, héros et sanctuaires grecs."),
   ("/theatre/","Théâtre","Œuvres et analyses."),
+  ("/origines-du-sacre/","Origines du sacré","Sources et histoire comparée des religions."),
   ("/philosophie/","Philosophie","Les grands problèmes et les penseurs."),
   ("/civilisations/","Civilisations","Les cultures par continent.")
  ],"portal-grid-compact")+'</article>'
@@ -410,6 +491,7 @@ def build_portals():
     create_mythologies(entries)
     create_figures_and_stories(entries)
     create_theatre(entries)
+    create_origins(entries)
     create_philosophy(entries)
     create_civilisations(entries,groups)
     print("MYTHOS NAVIGATION :",sum(len(v) for v in groups.values()),"dossiers de civilisation répartis en",len(groups),"continents", {k:len(v) for k,v in groups.items()},flush=True)
