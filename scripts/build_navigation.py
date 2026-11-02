@@ -14,7 +14,7 @@ import re
 OUT = Path("_site")
 GOLD="BIBLIOTHÈQUE UNIVERSITAIRE · MYTHOS"
 NAV = '''<nav class="site-nav" aria-label="Navigation principale">
-<a href="/grece/" class="nav-greece">Grèce</a>
+<a href="/mythologie-grecque/" class="nav-greece">Mythologie grecque</a>
 <a href="/dieux-et-deesses/">Dieux</a>
 <a href="/heros-et-heroines/">Héros</a>
 <a href="/recits-mythologiques/">Récits</a>
