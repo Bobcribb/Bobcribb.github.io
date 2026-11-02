@@ -345,10 +345,10 @@ def numbered_works(items, kind):
     """Numéros locaux à l'auteur : ne pas les confondre avec les volumes universitaires."""
     if not items:
         return '<p class="small-note">Aucun dossier vérifié dans cette catégorie.</p>'
-    return '<ol class="work-list">'+''.join(
+    return '<ul class="work-list">'+''.join(
         '<li><a href="'+esc(e["url"])+'">'+esc(e["title"].split(" — ",1)[-1].split(" : ",1)[0].split(" | ",1)[0])+'</a><small>'+esc(kind)+'</small></li>'
         for e in items
-    )+'</ol>'
+    )+'</ul>'
 
 def create_origins(entries):
     """Catalogue exhaustif des 48 chapitres présents (443 à 490), sans doubler les textes."""
@@ -496,7 +496,7 @@ def create_theatre(entries):
         pairs.append((title,reconstruction,analysis))
     if sum(len(v) for v in tragic_specs.values())!=33 or sum(len(v) for v in comedy_specs.values())!=18 or len(pairs)!=33:
         raise RuntimeError("Nombre de pièces du catalogue théâtral incorrect")
-    body='<h1>Théâtre grec</h1><p class="portal-lead">Une bibliothèque organisée par genre, auteur et œuvre. Les résumés et les reconstitutions sont consultables séparément des analyses philosophiques. Chaque auteur dispose de sa propre numérotation de lecture ; les volumes universitaires conservent leurs numéros historiques.</p>'
+    body='<h1>Théâtre grec</h1><p class="portal-lead">Une bibliothèque organisée par genre, auteur et œuvre. Les résumés et les reconstitutions sont consultables séparément des analyses philosophiques. La présentation des œuvres ne reprend pas les anciennes numérotations.</p>'
     body+=museum_figures([
       ("epidaure-theatre-antique-zde.jpg","Théâtre antique d’Épidaure","Épidaure — espace de représentation du théâtre grec."),
       ("mythos-masques-theatre-rondelles-hellenistiques-met-2001-767.jpg","Représentations hellénistiques de masques de théâtre","Masques — iconographie antique."),
@@ -504,13 +504,13 @@ def create_theatre(entries):
       ("mythos-dionysos-kylix-brygos-bnf-576.jpg","Dionysos sur une céramique grecque","Dionysos — contexte cultuel et iconographie.")
     ],"Le théâtre : lieux, masques et figures")
     body+=section("Choisir sa lecture","Trois parcours indépendants, reliés œuvre par œuvre.",cards([
-      ("#pieces-conservees","01 · Pièces conservées","33 dossiers tragiques, 11 pièces d’Aristophane et 7 dossiers de Ménandre.","ŒUVRES"),
-      ("#pieces-perdues","02 · Pièces perdues","Fragments, catalogues critiques et reconstitutions modernes.","FRAGMENTS"),
-      ("#analyses","03 · Analyses philosophiques","Interprétations distinctes des intrigues et des textes de théâtre.","PHILOSOPHIE"),
-      ("#commentaires-vers","04 · Commentaires par vers","Lectures suivies des pièces, avec passages et vers numérotés.","COMMENTAIRE")
+      ("#pieces-conservees","Pièces conservées","33 dossiers tragiques, 11 pièces d’Aristophane et 7 dossiers de Ménandre.","ŒUVRES"),
+      ("#pieces-perdues","Pièces perdues","Fragments, catalogues critiques et reconstitutions modernes.","FRAGMENTS"),
+      ("#analyses","Analyses philosophiques","Interprétations distinctes des intrigues et des textes de théâtre.","PHILOSOPHIE"),
+      ("#commentaires-vers","Commentaires par vers","Lectures suivies des pièces, avec passages et vers numérotés.","COMMENTAIRE")
     ]))
-    body+='<section class="portal-section theatre-catalog" id="pieces-conservees"><h2>01 · Pièces conservées et dossiers de lecture</h2>'
-    body+='<p class="section-intro">Numéros 01, 02, 03… propres à chaque auteur. Ordre éditorial des pièces : ni chronologie certaine ni volumes universitaires.</p>'
+    body+='<section class="portal-section theatre-catalog" id="pieces-conservees"><h2>Pièces conservées et dossiers de lecture</h2>'
+    body+='<p class="section-intro">Classement par auteur et par œuvre, sans ancienne numérotation éditoriale.</p>'
     body+='<h3>Tragédies</h3>'
     for author,spec in tragic_specs.items():
         body+='<div class="theatre-author"><h3>'+esc(author)+' — '+str(len(spec))+' œuvres</h3>'+numbered_works(works(author,spec),"Œuvre et dossier de lecture")+'</div>'
@@ -519,30 +519,30 @@ def create_theatre(entries):
     for author,spec in comedy_specs.items():
         body+='<div class="theatre-author"><h3>'+esc(author)+' — '+str(len(spec))+' dossiers</h3>'+numbered_works(works(author,spec),"Œuvre et dossier de lecture")+'</div>'
     body+='</section>'
-    body+='<section class="portal-section theatre-catalog" id="pieces-perdues"><h2>02 · Pièces perdues, fragments et reconstitutions modernes</h2>'
-    body+='<p class="section-intro">La reconstitution est une création moderne : la page distingue les témoignages transmis, les hypothèses et les scènes imaginées. Les numéros ci-dessous servent uniquement au repérage des dossiers.</p>'
+    body+='<section class="portal-section theatre-catalog" id="pieces-perdues"><h2>Pièces perdues, fragments et reconstitutions modernes</h2>'
+    body+='<p class="section-intro">La reconstitution est une création moderne : la page distingue les témoignages transmis, les hypothèses et les scènes imaginées. Les œuvres sont classées par auteur et par titre.</p>'
     body+='<h3>Tragédies perdues — dossiers individuels disponibles</h3>'
     for author in ("Eschyle","Sophocle","Euripide"):
         selected=[e for e in lost_t if e["title"].startswith(author+" —")]
         body+='<div class="theatre-author"><h3>'+esc(author)+'</h3>'+numbered_works(selected,"Fragments et restitution")+'</div>'
     body+=cards([("/tragedies/mythos-bibliotheque-89-tragedies-perdues-edition-vii/","Répertoire général des 89 tragédies perdues","Volumes et sources, même lorsque toutes les œuvres ne disposent pas d’une page individuelle.","CATALOGUE")])
-    body+='<h3>Aristophane — 33 comédies perdues et versions</h3><p class="section-intro">Une œuvre porte un numéro constant dans cette liste. Sous chaque titre, deux accès : reconstitution et analyse philosophique. Pour les attributions contestées, la mention est conservée.</p>'
-    body+='<ol class="work-list linked-works">'+''.join(
+    body+='<h3>Aristophane — 33 comédies perdues et versions</h3><p class="section-intro">Les œuvres sont regroupées sans ancienne numérotation. Sous chaque titre, deux accès : reconstitution et analyse philosophique. Pour les attributions contestées, la mention est conservée.</p>'
+    body+='<ul class="work-list linked-works">'+''.join(
       '<li><strong>'+esc(title)+'</strong><div class="work-links"><a href="'+esc(recon["url"])+'">Fragments et reconstitution</a><a href="'+esc(analysis["url"])+'">Analyse philosophique</a></div></li>'
       for title,recon,analysis in pairs
-    )+'</ol>'
+    )+'</ul>'
     body+=cards([
      ("/comedie-grecque-aristophane-menandre-etudes/aristophane-catalogue-critiques-33-comedies-perdues/","Catalogue critique des 33 œuvres et versions","Répertoire, attribution et bibliographies.","SOURCES"),
      ("/comedie-grecque-aristophane-menandre-etudes/comedies-perdues-cratinos-eupolis-philemon-fragments/","Autres auteurs comiques","Cratinos, Eupolis, Ménandre et les œuvres fragmentaires.","SOURCES")
     ])+'</section>'
-    body+='<section class="portal-section theatre-catalog" id="analyses"><h2>03 · Analyses philosophiques : une bibliothèque distincte</h2>'
+    body+='<section class="portal-section theatre-catalog" id="analyses"><h2>Analyses philosophiques : une bibliothèque distincte</h2>'
     body+='<p class="section-intro">L’interprétation philosophique et historique ne se substitue pas au résumé ou au témoignage antique. Les analyses de chaque comédie perdue sont accessibles à partir du même numéro ci-dessus.</p>'
     body+=cards([
       ("/philosophie/","Études philosophiques","Interprétations par thème, auteur et œuvre.","INTERPRÉTATIONS"),
       ("/theatre-grec-conserve-etudes-philosophiques/","Analyse des pièces conservées","Tragique, politique, justice, langage et religion.","INTERPRÉTATIONS"),
       ("/comedie-grecque-aristophane-menandre-etudes/aristophane-bibliotheque-etudes-philosophiques/","33 études d’Aristophane","Une analyse associée à chaque œuvre du catalogue.","INTERPRÉTATIONS")
     ])+'</section>'
-    body+='<section class="portal-section theatre-catalog" id="commentaires-vers"><h2>04 · Commentaires suivis et analyses par vers</h2>'
+    body+='<section class="portal-section theatre-catalog" id="commentaires-vers"><h2>Commentaires suivis et analyses par vers</h2>'
     body+='<p class="section-intro">Les commentaires déjà rédigés sont consultables ici : passages numérotés, scènes et ensembles de vers. Une étude par plages de vers n’est pas une édition philologique mot à mot. Les analyses sont conservées dans leurs dossiers d’origine, sans mélange avec les reconstitutions.</p>'
     # Répertorier toutes les études des œuvres identifiées, sans créer de doublons.
     # Contrôle automatisé de la présence de références de vers : syntaxe seulement,
@@ -585,8 +585,8 @@ def create_theatre(entries):
                 audit_missing.append((author,title))
             code=({"Eschyle":"ES-TR","Sophocle":"SO-TR","Euripide":"EU-TR","Aristophane":"AR-CO","Ménandre":"ME-CO"}[author]
                   +"-"+str(local_num).zfill(3))
-            author_rows.append('<li><a href="'+esc(entry["url"])+'">'+esc(code+" · "+title)+'</a><small>'+esc(status)+'</small></li>')
-        catalog_rows.append('<div class="theatre-author"><h3>'+esc(author)+' — '+str(len(author_rows))+' dossiers</h3><ol class="work-list linked-works">'+''.join(author_rows)+'</ol></div>')
+            author_rows.append('<li><a href="'+esc(entry["url"])+'">'+esc(title)+'</a><small>'+esc(status)+'</small></li>')
+        catalog_rows.append('<div class="theatre-author"><h3>'+esc(author)+' — '+str(len(author_rows))+' dossiers</h3><ul class="work-list linked-works">'+''.join(author_rows)+'</ul></div>')
     if len(used)!=51:
         raise RuntimeError("Le catalogue de commentaires doit couvrir exactement 51 dossiers distincts")
     body+='<p class="small-note">Inventaire intégral : '+str(len(used))+' dossiers de pièces conservées ou partiellement conservées, dont '+str(len(audit_ranges))+' avec au moins un repère de vers détecté et '+str(len(audit_missing))+' sans repère exploitable automatiquement. La présence d’un repère ne certifie pas son exactitude philologique ; les commentaires par scènes ne sont pas présentés comme du mot à mot.</p>'
@@ -638,13 +638,13 @@ def create_encyclopedia(entries):
     body='<h1>Grande encyclopédie MYTHOS</h1><p class="portal-lead">Catalogue général de tous les dossiers publics, organisé en collections distinctes. Chaque entrée a une cote de registre RG distincte des numéros éditoriaux ODS et AR-CO, sans effacement des textes, des sources ni des anciennes références scientifiques. Les manuscrits non encore importés ne sont pas présentés comme publiés.</p>'
     body+='<nav class="origins-toc" aria-label="Collections encyclopédiques"><h2>Collections</h2><ol>'+''.join(
         '<li><a href="#collection-'+code.lower()+'">'+esc(code+" · "+name)+" ("+str(len(groups[code]))+')</a></li>'
-        for code,name,_ in collections)+'</ol></nav>'
+        for code,name,_ in collections)+'</ul></nav>'
     for code,name,description in collections:
         rows=sorted(groups[code],key=lambda e:e["url"])
         body+='<section class="portal-section" id="collection-'+code.lower()+'"><h2>'+esc(name)+'</h2><p class="section-intro">'+esc(description)+'</p>'
         body+='<details class="library-details"><summary>Consulter les '+str(len(rows))+' entrées <span aria-hidden="true">＋</span></summary><ol class="chapter-list origins-index">'+''.join(
           '<li data-public-id="'+esc(assigned[e["url"]])+'"><span class="origin-id">'+esc(assigned[e["url"]])+'</span><a href="'+esc(e["url"])+'">'+esc(e["title"])+'</a></li>'
-          for e in rows)+'</ol></details></section>'
+          for e in rows)+'</ul></details></section>'
     body+=section("Règles de classement","Une URL ne figure qu'une fois dans le registre. Les cotes des collections sont indépendantes ; la numérotation scientifique historique est conservée dans les documents sources.",
       '<p>Le registre présente les pages effectivement indexées. La grande édition manuscrite des Origines du sacré, distincte des chapitres déjà publiés, sera intégrée seulement après comparaison de ses versions pour éviter les doublons.</p>')
     write("grande-encyclopedie",shell("Grande encyclopédie — catalogue général MYTHOS",body))
@@ -673,7 +673,7 @@ def create_theatre(entries):
         pairs.append((title,reconstruction,analysis))
     if sum(len(v) for v in tragic_specs.values())!=33 or sum(len(v) for v in comedy_specs.values())!=18 or len(pairs)!=33:
         raise RuntimeError("Nombre de pièces du catalogue théâtral incorrect")
-    body='<h1>Théâtre grec</h1><p class="portal-lead">Une bibliothèque organisée par genre, auteur et œuvre. Les résumés et les reconstitutions sont consultables séparément des analyses philosophiques. Chaque auteur dispose de sa propre numérotation de lecture ; les volumes universitaires conservent leurs numéros historiques.</p>'
+    body='<h1>Théâtre grec</h1><p class="portal-lead">Une bibliothèque organisée par genre, auteur et œuvre. Les résumés et les reconstitutions sont consultables séparément des analyses philosophiques. La présentation des œuvres ne reprend pas les anciennes numérotations.</p>'
     body+=museum_figures([
       ("epidaure-theatre-antique-zde.jpg","Théâtre antique d’Épidaure","Épidaure — espace de représentation du théâtre grec."),
       ("mythos-masques-theatre-rondelles-hellenistiques-met-2001-767.jpg","Représentations hellénistiques de masques de théâtre","Masques — iconographie antique."),
@@ -681,13 +681,13 @@ def create_theatre(entries):
       ("mythos-dionysos-kylix-brygos-bnf-576.jpg","Dionysos sur une céramique grecque","Dionysos — contexte cultuel et iconographie.")
     ],"Le théâtre : lieux, masques et figures")
     body+=section("Choisir sa lecture","Trois parcours indépendants, reliés œuvre par œuvre.",cards([
-      ("#pieces-conservees","01 · Pièces conservées","33 dossiers tragiques, 11 pièces d’Aristophane et 7 dossiers de Ménandre.","ŒUVRES"),
-      ("#pieces-perdues","02 · Pièces perdues","Fragments, catalogues critiques et reconstitutions modernes.","FRAGMENTS"),
-      ("#analyses","03 · Analyses philosophiques","Interprétations distinctes des intrigues et des textes de théâtre.","PHILOSOPHIE"),
-      ("#commentaires-vers","04 · Commentaires par vers","Lectures suivies des pièces, avec passages et vers numérotés.","COMMENTAIRE")
+      ("#pieces-conservees","Pièces conservées","33 dossiers tragiques, 11 pièces d’Aristophane et 7 dossiers de Ménandre.","ŒUVRES"),
+      ("#pieces-perdues","Pièces perdues","Fragments, catalogues critiques et reconstitutions modernes.","FRAGMENTS"),
+      ("#analyses","Analyses philosophiques","Interprétations distinctes des intrigues et des textes de théâtre.","PHILOSOPHIE"),
+      ("#commentaires-vers","Commentaires par vers","Lectures suivies des pièces, avec passages et vers numérotés.","COMMENTAIRE")
     ]))
-    body+='<section class="portal-section theatre-catalog" id="pieces-conservees"><h2>01 · Pièces conservées et dossiers de lecture</h2>'
-    body+='<p class="section-intro">Numéros 01, 02, 03… propres à chaque auteur. Ordre éditorial des pièces : ni chronologie certaine ni volumes universitaires.</p>'
+    body+='<section class="portal-section theatre-catalog" id="pieces-conservees"><h2>Pièces conservées et dossiers de lecture</h2>'
+    body+='<p class="section-intro">Classement par auteur et par œuvre, sans ancienne numérotation éditoriale.</p>'
     body+='<h3>Tragédies</h3>'
     for author,spec in tragic_specs.items():
         body+='<div class="theatre-author"><h3>'+esc(author)+' — '+str(len(spec))+' œuvres</h3>'+numbered_works(works(author,spec),"Œuvre et dossier de lecture")+'</div>'
@@ -696,30 +696,30 @@ def create_theatre(entries):
     for author,spec in comedy_specs.items():
         body+='<div class="theatre-author"><h3>'+esc(author)+' — '+str(len(spec))+' dossiers</h3>'+numbered_works(works(author,spec),"Œuvre et dossier de lecture")+'</div>'
     body+='</section>'
-    body+='<section class="portal-section theatre-catalog" id="pieces-perdues"><h2>02 · Pièces perdues, fragments et reconstitutions modernes</h2>'
-    body+='<p class="section-intro">La reconstitution est une création moderne : la page distingue les témoignages transmis, les hypothèses et les scènes imaginées. Les numéros ci-dessous servent uniquement au repérage des dossiers.</p>'
+    body+='<section class="portal-section theatre-catalog" id="pieces-perdues"><h2>Pièces perdues, fragments et reconstitutions modernes</h2>'
+    body+='<p class="section-intro">La reconstitution est une création moderne : la page distingue les témoignages transmis, les hypothèses et les scènes imaginées. Les œuvres sont classées par auteur et par titre.</p>'
     body+='<h3>Tragédies perdues — dossiers individuels disponibles</h3>'
     for author in ("Eschyle","Sophocle","Euripide"):
         selected=[e for e in lost_t if e["title"].startswith(author+" —")]
         body+='<div class="theatre-author"><h3>'+esc(author)+'</h3>'+numbered_works(selected,"Fragments et restitution")+'</div>'
     body+=cards([("/tragedies/mythos-bibliotheque-89-tragedies-perdues-edition-vii/","Répertoire général des 89 tragédies perdues","Volumes et sources, même lorsque toutes les œuvres ne disposent pas d’une page individuelle.","CATALOGUE")])
-    body+='<h3>Aristophane — 33 comédies perdues et versions</h3><p class="section-intro">Une œuvre porte un numéro constant dans cette liste. Sous chaque titre, deux accès : reconstitution et analyse philosophique. Pour les attributions contestées, la mention est conservée.</p>'
-    body+='<ol class="work-list linked-works">'+''.join(
+    body+='<h3>Aristophane — 33 comédies perdues et versions</h3><p class="section-intro">Les œuvres sont regroupées sans ancienne numérotation. Sous chaque titre, deux accès : reconstitution et analyse philosophique. Pour les attributions contestées, la mention est conservée.</p>'
+    body+='<ul class="work-list linked-works">'+''.join(
       '<li><strong>'+esc(title)+'</strong><div class="work-links"><a href="'+esc(recon["url"])+'">Fragments et reconstitution</a><a href="'+esc(analysis["url"])+'">Analyse philosophique</a></div></li>'
       for title,recon,analysis in pairs
-    )+'</ol>'
+    )+'</ul>'
     body+=cards([
      ("/comedie-grecque-aristophane-menandre-etudes/aristophane-catalogue-critiques-33-comedies-perdues/","Catalogue critique des 33 œuvres et versions","Répertoire, attribution et bibliographies.","SOURCES"),
      ("/comedie-grecque-aristophane-menandre-etudes/comedies-perdues-cratinos-eupolis-philemon-fragments/","Autres auteurs comiques","Cratinos, Eupolis, Ménandre et les œuvres fragmentaires.","SOURCES")
     ])+'</section>'
-    body+='<section class="portal-section theatre-catalog" id="analyses"><h2>03 · Analyses philosophiques : une bibliothèque distincte</h2>'
+    body+='<section class="portal-section theatre-catalog" id="analyses"><h2>Analyses philosophiques : une bibliothèque distincte</h2>'
     body+='<p class="section-intro">L’interprétation philosophique et historique ne se substitue pas au résumé ou au témoignage antique. Les analyses de chaque comédie perdue sont accessibles à partir du même numéro ci-dessus.</p>'
     body+=cards([
       ("/philosophie/","Études philosophiques","Interprétations par thème, auteur et œuvre.","INTERPRÉTATIONS"),
       ("/theatre-grec-conserve-etudes-philosophiques/","Analyse des pièces conservées","Tragique, politique, justice, langage et religion.","INTERPRÉTATIONS"),
       ("/comedie-grecque-aristophane-menandre-etudes/aristophane-bibliotheque-etudes-philosophiques/","33 études d’Aristophane","Une analyse associée à chaque œuvre du catalogue.","INTERPRÉTATIONS")
     ])+'</section>'
-    body+='<section class="portal-section theatre-catalog" id="commentaires-vers"><h2>04 · Commentaires suivis et analyses par vers</h2>'
+    body+='<section class="portal-section theatre-catalog" id="commentaires-vers"><h2>Commentaires suivis et analyses par vers</h2>'
     body+='<p class="section-intro">Les commentaires déjà rédigés sont consultables ici : passages numérotés, scènes et ensembles de vers. Une étude par plages de vers n’est pas une édition philologique mot à mot. Les analyses sont conservées dans leurs dossiers d’origine, sans mélange avec les reconstitutions.</p>'
     # Répertorier toutes les études des œuvres identifiées, sans créer de doublons.
     # Contrôle automatisé de la présence de références de vers : syntaxe seulement,
@@ -762,8 +762,8 @@ def create_theatre(entries):
                 audit_missing.append((author,title))
             code=({"Eschyle":"ES-TR","Sophocle":"SO-TR","Euripide":"EU-TR","Aristophane":"AR-CO","Ménandre":"ME-CO"}[author]
                   +"-"+str(local_num).zfill(3))
-            author_rows.append('<li><a href="'+esc(entry["url"])+'">'+esc(code+" · "+title)+'</a><small>'+esc(status)+'</small></li>')
-        catalog_rows.append('<div class="theatre-author"><h3>'+esc(author)+' — '+str(len(author_rows))+' dossiers</h3><ol class="work-list linked-works">'+''.join(author_rows)+'</ol></div>')
+            author_rows.append('<li><a href="'+esc(entry["url"])+'">'+esc(title)+'</a><small>'+esc(status)+'</small></li>')
+        catalog_rows.append('<div class="theatre-author"><h3>'+esc(author)+' — '+str(len(author_rows))+' dossiers</h3><ul class="work-list linked-works">'+''.join(author_rows)+'</ul></div>')
     if len(used)!=51:
         raise RuntimeError("Le catalogue de commentaires doit couvrir exactement 51 dossiers distincts")
     body+='<p class="small-note">Inventaire intégral : '+str(len(used))+' dossiers de pièces conservées ou partiellement conservées, dont '+str(len(audit_ranges))+' avec au moins un repère de vers détecté et '+str(len(audit_missing))+' sans repère exploitable automatiquement. La présence d’un repère ne certifie pas son exactitude philologique ; les commentaires par scènes ne sont pas présentés comme du mot à mot.</p>'
@@ -1007,7 +1007,7 @@ def reorganize_preserved_plays_analyses(entries):
                 raise RuntimeError("Analyse absente, ambiguë ou doublonnée : "+prefix)
             seen.add(matches[0]["url"])
             blocks.append('<li><a href="'+esc(matches[0]["url"])+'">'+esc(title)+'</a></li>')
-        blocks.append('</ol></section>')
+        blocks.append('</ul></section>')
     blocks.append('<p><a href="#archives-analyses-conservees">Consulter les cycles universitaires et les analyses historiques conservés ↓</a></p></section><div id="archives-analyses-conservees"></div>')
     fragment=BeautifulSoup(''.join(blocks),"html.parser")
     first_h1=article.find("h1")
@@ -1054,7 +1054,7 @@ def reorganize_aristophanes_33(entries):
                 raise RuntimeError("Aristophane : étude absente, ambiguë ou doublonnée : "+prefix)
             all_urls.add(found[0]["url"])
             html.append('<li><a href="'+esc(found[0]["url"])+'">'+esc(title)+'</a></li>')
-        html.append('</ol></section>')
+        html.append('</ul></section>')
     html.append('<p class="small-note">Classement thématique de consultation ; les numéros de la collection historique restent inchangés dans les manuscrits.</p><a href="#archives-aristophane-33">Lire les cycles universitaires et les analyses historiques conservés ↓</a></section><div id="archives-aristophane-33"></div>')
     fragment=BeautifulSoup(''.join(html),"html.parser")
     h1=article.find("h1")
