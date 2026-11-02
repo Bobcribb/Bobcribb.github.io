@@ -14,12 +14,14 @@ import re
 OUT = Path("_site")
 GOLD="BIBLIOTHÈQUE UNIVERSITAIRE · MYTHOS"
 NAV = '''<nav class="site-nav" aria-label="Navigation principale">
+<a href="/grece/" class="nav-greece">Grèce</a>
+<a href="/dieux-et-deesses/">Dieux</a>
+<a href="/heros-et-heroines/">Héros</a>
+<a href="/recits-mythologiques/">Récits</a>
 <a href="/mythologies/">Mythologies</a>
-<a href="/grece/" class="nav-greece">Grèce antique</a>
 <a href="/theatre/">Théâtre</a>
 <a href="/philosophie/">Philosophie</a>
 <a href="/civilisations/">Civilisations</a>
-<a href="/rubriques/">Index</a>
 <a href="/recherche/">Recherche</a>
 </nav>'''
 
@@ -115,7 +117,13 @@ def create_home(entries,groups):
         ("/bibliotheque-perse-iran-ancien/","Perse et Iran ancien","Ahura Mazdā, royauté et traditions iraniennes.","ASIE"),
         ("/bibliotheque-mythologies-du-monde/","Traditions du monde","Dictionnaire des dieux, héros et récits comparés.","COLLECTION"),
     ])
-    body=introductory+section("Quatre parcours pour entrer dans l’encyclopédie","Choisissez un univers, un genre littéraire ou une méthode d’étude.",major)
+    essentials=cards([
+      ("/dieux-et-deesses/","Dieux et déesses","Panthéons, cultes et puissances de toutes les traditions.","GRANDES ENTRÉES"),
+      ("/heros-et-heroines/","Héros et héroïnes","Exploits, voyages, fondations et destins.","GRANDES ENTRÉES"),
+      ("/recits-mythologiques/","Grands récits","Créations, guerres, déluges, épopées et Enfers.","GRANDES ENTRÉES")
+    ],"portal-grid-compact")
+    body=introductory+section("Dieux, héros et récits — les trois grandes entrées","Accédez directement aux personnages et aux histoires des mythologies grecque et mondiale.",essentials)
+    body+=section("Les grands parcours de recherche","Choisissez un monde, un genre littéraire ou une méthode d’étude.",major)
     body+=section("Civilisations du monde, par continent","Une géographie de consultation moderne : les échanges et les appartenances historiques débordent les frontières continentales.",continent_cards)
     body+=section("Bibliothèques et traditions à découvrir","Des portes d’entrée vers les principaux corpus.",world)
     body+='''<section class="portal-section search-zone"><h2>Rechercher dans l’encyclopédie</h2>
@@ -129,6 +137,11 @@ def create_greece(entries):
     gods=[("/dieu-zeus/","Zeus"),("/dieu-athena/","Athéna"),("/dieu-apollon/","Apollon"),("/dieu-artemis/","Artémis"),("/dieu-dionysos/","Dionysos"),("/dieu-demeter/","Déméter")]
     heroes=[("/heros-achille/","Achille"),("/heros-ulysse/","Ulysse"),("/heros-heracles/","Héraclès"),("/heros-antigone/","Antigone"),("/heros-thesee/","Thésée"),("/heros-medee/","Médée")]
     body='<h1>Grèce antique</h1><p class="portal-lead">Le grand corpus grec est mis au premier plan : des généalogies divines aux héros, des épopées homériques aux pratiques cultuelles des cités.</p>'
+    body+=section("Parcourir les dieux, les héros et les mythes","Trois bibliothèques dédiées, la Grèce en premier et une ouverture sur le monde.",cards([
+      ("/dieux-et-deesses/","Dieux et déesses","15 monographies grecques et divinités des autres traditions."),
+      ("/heros-et-heroines/","Héros et héroïnes","Achille, Médée, Ulysse et les cycles héroïques du monde."),
+      ("/recits-mythologiques/","Grands récits","Théogonie, guerre de Troie, épopées et cosmologies comparées.")
+    ],"portal-grid-compact"))
     body+=section("Dieux et puissances divines","Entrer par les grandes figures du panthéon.",'<div class="tag-links">'+''.join(link(u,n) for u,n in gods)+'</div>')
     body+=section("Héros, héroïnes et cycles","Une encyclopédie des récits, des variantes et des destins.",'<div class="tag-links">'+''.join(link(u,n) for u,n in heroes)+'</div>')
     body+=section("Épopées, auteurs et sanctuaires","Sources antiques et lieux du culte.",cards([
@@ -143,6 +156,11 @@ def create_greece(entries):
 
 def create_mythologies(entries):
     body='<h1>Mythologies du monde</h1><p class="portal-lead">Une encyclopédie comparée des dieux, des cosmogonies, des héros et des pratiques religieuses, fondée sur les textes et sur les témoignages matériels. La Grèce demeure notre point d’entrée privilégié, mais non notre seule perspective.</p>'
+    body+=section("Commencer par les figures et les histoires","Trois entrées fondamentales pour parcourir les traditions.",cards([
+      ("/dieux-et-deesses/","Dieux et déesses","Panthéons grecs et divinités du monde."),
+      ("/heros-et-heroines/","Héros et héroïnes","Destins, lignées et cycles épiques."),
+      ("/recits-mythologiques/","Grands récits","Cosmogonies, voyages, déluges et épopées.")
+    ],"portal-grid-compact"))
     body+=section("Les grandes traditions","Panthéons, cosmologies et traditions documentées.",cards([
      ("/grece/","Grèce antique","Olympiens, Titans, héros et sanctuaires.","À LA UNE"),
      ("/bibliotheque-egypte-ancienne/mythologie-egypte-cosmogonies-osiris-maat-au-dela/","Égypte","Cosmogonies, Osiris, Maât et textes funéraires."),
@@ -160,6 +178,102 @@ def create_mythologies(entries):
       ("/philosophie/","Interpréter les mythes","Lectures philosophiques et comparaisons.")
     ]))
     write("mythologies",shell("Mythologies du monde",body))
+
+
+# Trois entrées centrales distinctes et indexées : dieux, héros et récits.
+# Les études grecques /dieux/, /heros/, /recits/ ne sont ni supprimées
+# ni remplacées ; elles restent accessibles dans chaque nouveau portail.
+def create_figures_and_stories(entries):
+    known={e["url"]:e for e in entries}
+
+    def references(urls):
+        # Ne pas fabriquer des titres ou des adresses : n'afficher que
+        # les dossiers dont le chemin figure effectivement dans l'index.
+        return [known[url] for url in urls if url in known]
+
+    def curated_section(title,description,urls):
+        items=references(urls)
+        return section(title,description,list_entries(items)) if items else ""
+
+    greek_deities=[e for e in entries if re.fullmatch(r"/dieu-[a-z0-9-]+/",e["url"])]
+    global_deities=[e for e in entries if e["url"].startswith("/bibliotheque-mythologies-du-monde/dictionnaire-dieux-monde/")
+                    and e["url"]!="/bibliotheque-mythologies-du-monde/dictionnaire-dieux-monde/"]
+    greek_heroes=[e for e in entries if re.fullmatch(r"/heros-[a-z0-9-]+/",e["url"])]
+    global_heroes=[e for e in entries if e["url"].startswith("/bibliotheque-mythologies-du-monde/heros-mythologies-monde-cycles-epiques/")
+                   and e["url"]!="/bibliotheque-mythologies-du-monde/heros-mythologies-monde-cycles-epiques/"]
+
+    body='<h1>Dieux et déesses</h1><p class="portal-lead">Un atlas des puissances divines, de la Grèce antique aux autres traditions du monde : domaines, généalogies, mythes, cultes, épiclèses et interprétations. Chaque religion est étudiée dans son contexte, sans supposer que tous les dieux ont les mêmes fonctions.</p>'
+    body+=section("Entrer dans les panthéons","La Grèce antique est notre première collection ; les autres mythologies ont leurs propres sources.",cards([
+        ("/dieux/","Panthéon grec — étude intégrale","Olympiens, puissances divines et transformations des cultes.","GRÈCE À LA UNE"),
+        ("/bibliotheque-mythologies-du-monde/dictionnaire-dieux-monde/","Dictionnaire mondial des dieux","Monographies documentées des divinités et puissances."),
+        ("/bibliotheque-egypte-ancienne/","Dieux d’Égypte","Rê, Isis, Osiris, Horus, Seth, Thot et les traditions du Nil."),
+        ("/bibliotheque-mesopotamie/","Dieux de Mésopotamie","Enki, Enlil, Inanna, Marduk et les cités-temples."),
+        ("/bibliotheque-perse-iran-ancien/","Iran et Perse","Traditions religieuses de l’Iran ancien."),
+        ("/mythologies/","Tous les mondes mythologiques","Inde, Chine, Japon, traditions nordiques et autres corpus.")
+    ]))
+    body+=section("Tous les dieux grecs documentés",f"{len(greek_deities)} notices individuelles accessibles par nom.",list_entries(greek_deities))
+    body+=section("Divinités et puissances des autres traditions",f"{len(global_deities)} monographies actuellement indexées, avec leurs propres cadres historiques.",list_entries(global_deities))
+    body+=section("Comparer les mythes sans confondre les cultes","Croiser figures, épopées et cosmologies.",cards([
+        ("/heros-et-heroines/","Héros et héroïnes","Les humains, demi-dieux et personnages des traditions épiques."),
+        ("/recits-mythologiques/","Grands récits","Les mythes dans leur enchaînement narratif et leurs variantes."),
+        ("/civilisations/","Civilisations","Les sociétés et lieux de transmission des traditions.")
+    ]))
+    write("dieux-et-deesses",shell("Dieux et déesses du monde",body))
+
+    body='<h1>Héros et héroïnes</h1><p class="portal-lead">Les parcours héroïques ne sont pas interchangeables : exploits, épreuves, fondations, exils, transgressions, destins tragiques et mémoire des communautés. MYTHOS relie chaque personnage à ses sources et à ses traditions.</p>'
+    body+=section("Les grands univers héroïques","Un accès direct aux études grecques et aux cycles épiques du monde.",cards([
+        ("/heros/","Héros de la Grèce antique","Étude intégrale des héros, héroïnes et destins.","GRÈCE À LA UNE"),
+        ("/bibliotheque-mythologies-du-monde/heros-mythologies-monde-cycles-epiques/","Héros des mythologies du monde","Épopées et cycles de différentes traditions."),
+        ("/livre-troie/","Guerre de Troie","Achille, Hector, Hélène et les mémoires troyennes."),
+        ("/livre-argonautiques/","Argonautes","Jason, Médée et les récits de la Toison d’or."),
+        ("/livre-thebes/","Cycle thébain","Cadmos, Œdipe, Antigone et les Labdacides."),
+        ("/recits-mythologiques/","Voyages et récits","Replacer les aventures dans leurs grandes histoires.")
+    ]))
+    body+=section("Héros et héroïnes grecs",f"{len(greek_heroes)} monographies individuelles disponibles.",list_entries(greek_heroes))
+    body+=section("Figures héroïques d’autres traditions",f"{len(global_heroes)} dossiers et cycles épiques, de Gilgameš à Sunjata et Māui.",list_entries(global_heroes))
+    body+=section("Lire et interpréter les parcours","Le héros comme figure sociale, religieuse et littéraire.",cards([
+        ("/theatre/","Tragédie et comédie","Mises en scène des héros et leurs conflits."),
+        ("/philosophie/","Interprétations philosophiques","Justice, destin, liberté, violence et reconnaissance."),
+        ("/dieux-et-deesses/","Dieux et déesses","Les puissances auxquelles les héros sont confrontés.")
+    ]))
+    write("heros-et-heroines",shell("Héros et héroïnes des mythologies du monde",body))
+
+    greek_cycles=references([
+        "/livre-hesiode/","/livre-heracles/","/livre-argonautiques/","/livre-thebes/",
+        "/livre-atrides/","/livre-troie/","/livre-iliade-scenes/","/livre-odyssee/",
+        "/iliade/","/odyssee/"
+    ])
+    ancient_world=references([
+        "/enuma-elish-marduk-tiamat-creation-babylone/",
+        "/atrahasis-creation-humanite-deluge-mesopotamie/",
+        "/gilgamesh-epopee-mort-deluge/",
+        "/inanna-ishtar-descente-enfers-sumer-akkad/",
+        "/bibliotheque-egypte-ancienne/mythologie-egypte-cosmogonies-osiris-maat-au-dela/",
+        "/livre-des-morts-papyrus-ani-pesee-coeur-osiris/",
+        "/bibliotheque-mythologies-du-monde/mythologie-inde-vedas-puranas-vishnu-shiva-devi/",
+        "/bibliotheque-mythologies-du-monde/mythologie-chinoise-nuwa-pangu-shanhaijing/",
+        "/bibliotheque-mythologies-du-monde/mythologie-japonaise-kojiki-nihon-shoki-kami/"
+    ])
+    body='<h1>Grands récits mythologiques</h1><p class="portal-lead">Cosmogonies, origines des dieux et des humains, fondations, aventures héroïques, guerres, descentes aux Enfers, déluges et fins du monde. Les récits sont présentés comme des traditions multiples, et non comme une chronologie universelle unique.</p>'
+    body+=section("La grande bibliothèque des récits","Les cycles grecs d’abord, puis les traditions textuelles et orales d’autres régions.",cards([
+        ("/recits/","Récits grecs — étude intégrale","Des origines cosmiques aux retours après Troie.","GRÈCE À LA UNE"),
+        ("/livre-hesiode/","Théogonie et premiers âges","Les générations divines et l’établissement de l’ordre cosmique."),
+        ("/livre-troie/","La guerre de Troie","Généalogies, guerre et mémoire des héros."),
+        ("/livre-odyssee/","Le retour d’Ulysse","Épreuves, reconnaissance et hospitalité."),
+        ("/bibliotheque-mesopotamie/mythologie-mesopotamie-enuma-elish-gilgamesh-inanna/","Récits mésopotamiens","Création, déluge, royauté et immortalité."),
+        ("/bibliotheque-mythologies-du-monde/heros-mythologies-monde-cycles-epiques/","Épopées du monde","Des récits d’Inde aux Amériques et à l’Océanie.")
+    ]))
+    body+=section("Les cycles grecs",f"{len(greek_cycles)} dossiers narratifs et guides de lecture.",list_entries(greek_cycles))
+    body+=section("Cosmogonies et récits du monde","Des corpus et des textes à aborder dans leur langue et leur contexte.",list_entries(ancient_world))
+    body+=section("Épopées des autres cultures","Les épisodes héroïques dans les traditions celtiques, iraniennes, indiennes, africaines, américaines et océaniennes.",list_entries(global_heroes))
+    body+=section("Approfondir les sources","Relier chaque récit aux personnages et aux problèmes interprétatifs.",cards([
+        ("/dieux-et-deesses/","Dieux et déesses","Les puissances actives dans les mythes."),
+        ("/heros-et-heroines/","Héros et héroïnes","Les figures et les lignées des récits."),
+        ("/philosophie/","Études philosophiques","Analyser les fonctions et lectures des mythes."),
+        ("/civilisations/","Civilisations du monde","Situer les récits dans le temps et l’espace.")
+    ]))
+    write("recits-mythologiques",shell("Grands récits mythologiques du monde",body))
+    print("MYTHOS FIGURES :",len(greek_deities),"dieux grecs,",len(global_deities),"divinités du monde,",len(greek_heroes),"héros grecs,",len(global_heroes),"cycles du monde,",len(greek_cycles),"récits grecs.",flush=True)
 
 def create_theatre(entries):
     tragedies=[e for e in entries if starts(e,"/tragedies/","/chapitres/tragedies/") or e["url"] in ("/euripide-bacchantes-dionysos-tragedie/","/aristophane-grenouilles-theatre-cite/") and False]
@@ -226,6 +340,9 @@ def renovate_catalog(total):
  card(url,title,desc,"PARCOURS")
  for url,title,desc in [
   ("/mythologies/","Mythologies","Panthéons et récits du monde"),
+  ("/dieux-et-deesses/","Dieux et déesses","Panthéons et divinités"),
+  ("/heros-et-heroines/","Héros et héroïnes","Personnages et cycles épiques"),
+  ("/recits-mythologiques/","Grands récits","Cosmogonies, voyages et épopées"),
   ("/grece/","Grèce antique","Dieux, héros, cultes et épopées"),
   ("/theatre/","Théâtre","Tragédies, comédies et fragments"),
   ("/philosophie/","Philosophie","Études critiques et interprétations"),
@@ -247,6 +364,9 @@ def renovate_search():
 <input class="search" data-search placeholder="Ex. Chiron, Osiris, Aristophane, Chine, Nietzsche…" aria-label="Rechercher dans l'encyclopédie">
 <div class="results" data-results></div><h2>Parcourir plutôt que rechercher</h2>'''+cards([
   ("/mythologies/","Mythologies","Les dieux et les récits du monde."),
+  ("/dieux-et-deesses/","Dieux et déesses","Panthéons et monographies."),
+  ("/heros-et-heroines/","Héros et héroïnes","Personnages des épopées."),
+  ("/recits-mythologiques/","Grands récits","Cosmogonies et cycles narratifs."),
   ("/grece/","Grèce","Dieux, héros et sanctuaires grecs."),
   ("/theatre/","Théâtre","Œuvres et analyses."),
   ("/philosophie/","Philosophie","Les grands problèmes et les penseurs."),
@@ -277,6 +397,7 @@ def build_portals():
     create_home(entries,groups)
     create_greece(entries)
     create_mythologies(entries)
+    create_figures_and_stories(entries)
     create_theatre(entries)
     create_philosophy(entries)
     create_civilisations(entries,groups)
