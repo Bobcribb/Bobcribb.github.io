@@ -260,3 +260,15 @@
 #archives-aristophane-33{scroll-margin-top:130px}
 @media(max-width:900px){.aristophanes-study-list{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:600px){.aristophanes-index{padding:15px}.aristophanes-study-list{grid-template-columns:1fr}.aristophanes-theme{scroll-margin-top:170px}}
+
+/* Portail Grèce : index transversal des contenus publiés */
+.greek-complete-index{border-top:1px solid #a0824f;padding-top:30px}
+.greek-index-toc{display:flex;justify-content:center;flex-wrap:wrap;gap:8px;margin:18px 0 30px}
+.greek-index-toc a{border:1px solid #77613f;padding:9px 13px;text-align:center;font-size:13px}
+.greek-index-group{border-top:1px solid #554936;padding:15px 0 25px;scroll-margin-top:125px}
+.greek-index-group h3{font-size:29px;color:#f0d8a9}
+.greek-index-list{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px 20px;padding-left:23px}
+.greek-index-list li{min-width:0;overflow-wrap:anywhere;padding:3px 4px}
+.greek-index-list a{font:17px/1.35 'Cormorant Garamond',Georgia,serif;color:#f1e3ca}
+@media(max-width:900px){.greek-index-list{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:600px){.greek-index-list{grid-template-columns:1fr}.greek-index-group{scroll-margin-top:160px}}
