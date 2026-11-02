@@ -87,7 +87,7 @@ def frontmatter(raw):
         head, sep, rest=raw[4:].partition("\n---\n")
         # Ne reconnaître un front matter que si le bloc initial contient
         # de véritables clés YAML ; les séparateurs éditoriaux ne sont pas du YAML.
-        if sep and head.strip() and all(re.match(r"^[A-Za-z_][A-Za-z0-9_-]*\\s*:", line) for line in head.splitlines() if line.strip()):
+        if sep and head.strip() and all(re.match(r"^[A-Za-z_][A-Za-z0-9_-]*\s*:", line) for line in head.splitlines() if line.strip()):
             for line in head.splitlines():
                 if ":" in line:
                     k, v=line.split(":",1)
