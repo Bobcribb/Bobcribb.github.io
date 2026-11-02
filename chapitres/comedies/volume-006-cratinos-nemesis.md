@@ -213,6 +213,6 @@ La singularité de *Némésis* est de rendre le mythe à la fois plus concret et
 
 La tâche de l'éditeur n'est donc pas de combler les lacunes en dissimulant ses inventions, mais de rendre ces lacunes intelligibles : **ce qui est transmis doit demeurer distinct de ce qui est reconstruit, et de ce qui est écrit aujourd'hui**.
 
-**Navigation de la série :** [Volume V — *Poleis*](../volume-005-eupolis-poleis/) · [Volume IV — *Aiges*](../volume-004-eupolis-aiges/) · [Portail Théâtre grec](https://bobmythos.fr/theatre/) · [Bibliothèque historique des comédies perdues](https://bobmythos.fr/comedie-grecque-aristophane-menandre-etudes/comedies-perdues-cratinos-eupolis-philemon-fragments/).
+**Navigation de la série :** [Volume VII — Cratinos, *Ploutoi*](/chapitres/comedies/volume-007-cratinos-ploutoi/) · [Volume V — *Poleis*](../volume-005-eupolis-poleis/) · [Volume IV — *Aiges*](../volume-004-eupolis-aiges/) · [Portail Théâtre grec](https://bobmythos.fr/theatre/) · [Bibliothèque historique des comédies perdues](https://bobmythos.fr/comedie-grecque-aristophane-menandre-etudes/comedies-perdues-cratinos-eupolis-philemon-fragments/).
 
 *Fin du volume VI. Les volumes I à V et les dossiers historiques sont conservés sans altération.*
