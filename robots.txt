@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bobmythos.fr/sitemap.xml
