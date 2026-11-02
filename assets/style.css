@@ -284,3 +284,18 @@ main.visual-rails-active>.content,main.visual-rails-active>article{min-width:0}
 .mythos-visual-rail figcaption span{color:#d9b879}
 @media(max-width:1050px){main.visual-rails-active{grid-template-columns:minmax(0,1fr) 160px;gap:12px}.mythos-visual-rail img{height:118px}}
 @media(max-width:760px){main.visual-rails-active{display:block}.mythos-visual-rail{position:static;max-height:none;overflow:visible;border-left:0;border-top:1px solid #806842;margin:24px 12px;padding:16px 0;background:transparent;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}.mythos-visual-rail h2{grid-column:1/-1}.mythos-visual-rail figure{margin:0}.mythos-visual-rail img{height:145px}}
+
+/* Atlas des restitutions architecturales par cité */
+.reconstruction-city-nav{display:flex;flex-wrap:wrap;justify-content:center;gap:9px;margin:22px 0 32px}
+.reconstruction-city-nav a{border:1px solid #8e734b;color:#ecd6b0;padding:9px 14px;font-size:13px}
+.reconstruction-city{padding:20px 0 26px;border-top:1px solid #6f5c3e;scroll-margin-top:125px}
+.reconstruction-city h2{color:#e7ca94}
+.reconstruction-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:19px}
+.reconstruction-card{min-width:0;margin:0;border:1px solid #665438;background:#101518}
+.reconstruction-card img{width:100%;height:220px;object-fit:cover;display:block}
+.reconstruction-card figcaption{padding:13px;display:flex;flex-direction:column;gap:9px}
+.reconstruction-card strong{font:23px/1.2 'Cormorant Garamond',Georgia,serif;color:#f2dcb8}
+.reconstruction-card span{font-size:12px;color:#bfb4a2}
+.reconstruction-card a{font-size:13px;color:#f0cb8b;text-decoration:underline;text-underline-offset:3px}
+@media(max-width:1000px){.reconstruction-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:600px){.reconstruction-grid{grid-template-columns:1fr}.reconstruction-card img{height:240px}}
