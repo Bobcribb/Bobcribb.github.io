@@ -1,9 +1,9 @@
 ---
-title: "MYTHOS — Comédies grecques, volume IIII : Eupolis ?, Heilôtes (Les Hilotes)"
+title: "MYTHOS — Comédies grecques, volume III : Eupolis ?, Heilôtes (Les Hilotes)"
 description: "Monographie philologique sur les Hilotes : attribution incertaine, fragments 147–155, dialecte dorien, banquet, musique, dépendance et mémoire de Sparte."
 ---
 
-# MYTHOS — Encyclopédie des comédies grecques, volume IIII
+# MYTHOS — Encyclopédie des comédies grecques, volume III
 ## *Heilôtes* (Εἵλωτες, « Les Hilotes ») : la voix des dominés, le banquet et les limites de la reconstruction
 
 *Dossier critique inédit, 2 novembre 2026. Suite du [volume II — *Chrysoun genos*](../volume-002-eupolis-chrysoun-genos/), après le [volume I — *Astrateutoi*](../volume-001-eupolis-astrateutoi/). Le titre traditionnel est attribué à Eupolis, mais cette attribution doit rester ouverte à discussion. Le présent volume ne modifie pas la numérotation des autres séries MYTHOS.*
