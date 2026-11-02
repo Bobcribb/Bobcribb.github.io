@@ -420,8 +420,10 @@ def create_origins(entries):
         if not page.is_file():
             raise RuntimeError("Origines du sacré : tome manquant : "+label)
         integral_volumes.append((url, "Tome "+label, "Texte intégral de recherche", "MANUSCRIT"))
-    body = '<h1>Origines du sacré</h1><p class="section-intro">Bibliothèque intégrale de recherche : 27 tomes, 1 052 chapitres et sections répertoriés. Les références, attributions et hypothèses restent soumises à vérification scientifique.</p>'+section("Les 27 tomes — édition intégrale","Lire chaque volume sans abrègement ; les 48 dossiers thématiques historiques sont conservés plus bas.",cards(integral_volumes))+body
-    write("origines-du-sacre",shell("Origines du sacré — 27 tomes intégraux et dossiers thématiques MYTHOS",body))
+    hero = '<section class="origins-hero"><div class="origins-hero-inner"><div class="eyebrow">MYTHOS · ENCYCLOPÉDIE DES MYTHOLOGIES</div><h1>ORIGINES DU SACRÉ</h1><p class="origins-hero-subtitle">Bibliothèque intégrale de recherche</p><p>Des premiers témoignages du sacré aux religions et aux sociétés anciennes : 27 tomes, 1 052 chapitres et sections répertoriés.</p></div></section>'
+    volumes_html = '<section class="origins-volumes"><h2>Les 27 tomes — édition intégrale</h2><p>Chaque tome est accessible intégralement. Les hypothèses et attributions restent soumises à vérification scientifique.</p><div class="origins-volume-grid">'+''.join('<a class="origins-volume" href="'+esc(url)+'"><span class="origins-volume-icon" aria-hidden="true">✦</span><strong>'+esc(title)+'</strong><span>Lire le tome <span aria-hidden="true">→</span></span></a>' for url,title,_,_ in integral_volumes)+'</div></section>'
+    body = hero+volumes_html+'<div class="origins-archives">'+body+'</div>'
+    write("origines-du-sacre",shell("Origines du sacré — 27 tomes intégraux et dossiers thématiques MYTHOS",body).replace("<body>", '<body class="origins-landing">'))
 
 def create_theatre(entries):
     """Théâtre grec : corpus méthodique vérifié dans search.json, sans renuméroter les volumes."""
