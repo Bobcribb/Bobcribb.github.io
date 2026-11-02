@@ -83,3 +83,15 @@
  .library-details{padding:0 13px}
 }
 @media(prefers-reduced-motion:reduce){.masthead .site-nav a{transition:none}}
+
+
+/* MYTHOS — Galerie muséale des sculptures (GitHub, sans WordPress) */
+.museum-gallery-section { border-top: 1px solid var(--line); padding-top: 34px; }
+.museum-gallery-heading .eyebrow { color: var(--gold); font-size: 11px; letter-spacing: .18em; margin-bottom: 8px; }
+.museum-gallery { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:18px; margin-top:27px; }
+.museum-gallery figure { margin:0; overflow:hidden; border:1px solid #4d412f; background:linear-gradient(145deg,#1d2027,#111318); border-radius:9px; }
+.museum-gallery figure img { display:block; width:100%; height:clamp(220px,27vw,350px); object-fit:cover; border:0; border-radius:0; }
+.museum-gallery figcaption { padding:14px 16px 19px; line-height:1.4; display:grid; gap:4px; }
+.museum-gallery figcaption strong { color:#e9d19e; font:600 24px/1.12 'Cormorant Garamond',Georgia,serif; }
+.museum-gallery figcaption span { color:#b9ad98; font:13px/1.4 Inter,system-ui,sans-serif; }
+@media(max-width:680px) { .museum-gallery { grid-template-columns:1fr; } .museum-gallery figure img { height:260px; object-position:center 32%; } }
