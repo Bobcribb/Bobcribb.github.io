@@ -398,9 +398,15 @@ def create_origins(entries):
     body+='<nav class="origins-toc" aria-label="Parcours des Origines du sacré"><h2>Parcours en six ensembles</h2><ol>'+''.join('<li><a href="#ods-partie-'+str(i)+'">'+esc(title)+'</a></li>' for i,(title,_,_) in enumerate(sections,1))+'</ol></nav>'
     for i,(title,chapters,desc) in enumerate(sections,1):
         body+='<section class="portal-section origins-group" id="ods-partie-'+str(i)+'"><h2>'+esc(title)+'</h2><p class="section-intro">'+esc(desc)+'</p><ol class="chapter-list origins-index">'+''.join(row(n) for n in chapters)+'</ol></section>'
+    # Manuscrit historique récupéré depuis la bibliothèque MYTHOS, conservé intégralement en neuf parties.
+    integral_parts=[e for e in corpus if re.fullmatch(r"/chapitres/origines-du-sacre/manuscrit-integral-partie-0[1-9]/",e["url"])]
+    if len(integral_parts)!=9:
+        raise RuntimeError("Manuscrit historique des Origines du sacré incomplet : "+str(len(integral_parts))+"/9")
+    integral_parts.sort(key=lambda e:e["url"])
+    body+='<section class="portal-section" id="manuscrit-integral"><h2>Manuscrit historique intégral — tomes I à XX</h2><p class="section-intro">Texte original conservé en neuf parties continues, sans abrègement. Édition de recherche, non évaluée par les pairs. Le manuscrit est distinct des chapitres 443 à 490 publiés ci-dessous.</p><ol class="chapter-list">'+''.join('<li><a href="'+esc(e["url"])+'">'+esc("Lire le manuscrit — partie "+str(i)+" sur 9")+'</a></li>' for i,e in enumerate(integral_parts,1))+'</ol></section>'
     body+=section("Intégralité et méthode","48 chapitres : 8 dans le tome XXXVIII et 40 pages individuelles ; aucun texte recopié ou remplacé.",
       '<p>Les numéros ODS servent uniquement à naviguer sur le site. Les liens ODS-001 à ODS-008 conduisent aux sections précises du tome XXXVIII, avec des ancres individuelles. Les chapitres suivants conservent leur adresse. Les références archéologiques, les traditions littéraires et les hypothèses comparatives doivent rester distinguées.</p>')
-    write("origines-du-sacre",shell("Origines du sacré — 48 chapitres MYTHOS",body))
+    write("origines-du-sacre",shell("Origines du sacré — manuscrit historique et 48 chapitres MYTHOS",body))
 
 def create_theatre(entries):
     """Théâtre grec : corpus méthodique vérifié dans search.json, sans renuméroter les volumes."""
