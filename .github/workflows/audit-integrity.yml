@@ -7,6 +7,7 @@ on:
       - '.github/workflows/audit-integrity.yml'
       - 'scripts/audit_integrity.py'
       - 'scripts/build_native.py'
+      - 'scripts/build_navigation.py'
       - 'chapitres/**'
       - '**/index.html'
       - 'index.html'
