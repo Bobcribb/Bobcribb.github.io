@@ -31,10 +31,11 @@ jobs:
             --exclude='./.venv' --exclude='./__pycache__' -C "$GITHUB_WORKSPACE" .
           cd "$RUNNER_TEMP/mythos-archive"
           test -s MYTHOS-source-integrale.tar.gz
-          tar -tzf MYTHOS-source-integrale.tar.gz | grep -q '^./CNAME$'
-          tar -tzf MYTHOS-source-integrale.tar.gz | grep -q '^./scripts/build_native.py$'
-          tar -tzf MYTHOS-source-integrale.tar.gz | grep -q '^./media/manifest.json$'
-          tar -tzf MYTHOS-source-integrale.tar.gz | grep -q '^./search.json$'
+          tar -tzf MYTHOS-source-integrale.tar.gz > fichiers_archives.txt
+          grep -Fxq './CNAME' fichiers_archives.txt
+          grep -Fxq './scripts/build_native.py' fichiers_archives.txt
+          grep -Fxq './media/manifest.json' fichiers_archives.txt
+          grep -Fxq './search.json' fichiers_archives.txt
           printf 'repository=Bobcribb/Bobcribb.github.io\ncommit=%s\ndate_utc=%s\nrestoration=cat MYTHOS-source-integrale.tar.gz.part-* > MYTHOS-source-integrale.tar.gz; tar -xzf MYTHOS-source-integrale.tar.gz\n' \
             "$GITHUB_SHA" "$(date -u +%Y-%m-%dT%H:%M:%SZ)" > RESTAURATION.txt
           sha256sum MYTHOS-source-integrale.tar.gz > ARCHIVE_SHA256.txt
