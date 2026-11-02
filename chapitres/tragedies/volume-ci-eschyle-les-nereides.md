@@ -217,7 +217,7 @@ L'étude d'Ioanna Hadjicosti confronte précisément ces images aux fragments 15
 2. Alan H. Sommerstein (éd. et trad.), *Aeschylus: Fragments*, Cambridge (Mass.), Harvard University Press, Loeb Classical Library, 2008.
 3. Pantelis Michelakis, *Achilles in Greek Tragedy*, Cambridge University Press, 2002.
 4. Ioanna Hadjicosti, *Aischylos and the Trojan Cycle: The Lost Tragedies*, thèse de doctorat, University College London, 2007, particulièrement p. 136–140 sur les *Néréides*, p. 155–159 sur l'iconographie et p. 57–59 sur le fr. 350. [Texte intégral UCL](https://discovery.ucl.ac.uk/1443963/1/U591220.pdf).
-5. M. L. West, « The Invention of Homer », *The Classical Quarterly* 49 (1999), et ses travaux sur la reconstruction de l'Achilléide ; les propositions de réorganisation doivent être contrôlées dans les études spécialisées.
+5. M. L. West, « Iliad and Aethiopis on the Stage: Aeschylus and Son », *The Classical Quarterly* 50 (2000), p. 338–352, spécialement p. 340–343, sur la réorganisation possible de l'Achilléide.
 6. Timothy Gantz, *Early Greek Myth: A Guide to Literary and Artistic Sources*, Johns Hopkins University Press, 1993.
 7. British Museum, [notice de la péliké E363](https://www.britishmuseum.org/collection/object/G_1864-1007-126) ; Metropolitan Museum, [stamnos 41.162.20](https://www.metmuseum.org/art/collection/search/254187).
 
