@@ -77,3 +77,13 @@ Le public doit pouvoir accéder directement, depuis **toutes les pages** et dès
 Les trois portails sont générés à chaque publication par \`scripts/build_navigation.py\` et sont recensés dans \`search.json\` et \`sitemap.xml\`. Les nouvelles notices de ces ensembles doivent apparaître automatiquement par extraction des chemins existants du catalogue ; ne pas laisser une liste de six dieux ou six héros comme unique index. Ne jamais inventer de notices non publiées ni supprimer les monographies originales.
 
 Conserver le style noir/or, l'accessibilité du menu sur mobile et l'indépendance de WordPress.
+
+
+## Série des comédies grecques — numérotation canonique (2 novembre 2026)
+
+- Volume I : `chapitres/comedies/volume-001-eupolis-astrateutoi.md`.
+- Volume II : `chapitres/comedies/volume-002-eupolis-chrysoun-genos.md`.
+- Volume III : `chapitres/comedies/volume-003-eupolis-heilotes.md` (texte intégral migré depuis l'ancien doublon `volume-002-eupolis-heilotes.md`, devenu une notice d'orientation conservant les anciens liens).
+- Volume IV : `chapitres/comedies/volume-004-eupolis-aiges.md`.
+
+**Pour la suite :** rechercher le prochain numéro libre en inspectant les fichiers de `chapitres/comedies/` et les dossiers historiques ; ne pas réutiliser II ou III et ne pas traiter la notice de redirection `volume-002-eupolis-heilotes.md` comme un nouveau volume. Aucun texte privé ni contenu WordPress ne doit être créé ici. Chaque nouveau volume doit être vérifié après commit et après reconstruction du catalogue.
