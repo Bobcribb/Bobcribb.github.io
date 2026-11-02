@@ -19,6 +19,7 @@ NAV = '''<nav class="site-nav" aria-label="Navigation principale">
 <a href="/heros-et-heroines/">Héros</a>
 <a href="/recits-mythologiques/">Récits</a>
 <a href="/mythologies/">Mythologies</a>
+<a href="/mythologie-comparee/">Mythologie comparée</a>
 <a href="/theatre/">Théâtre</a>
 <a href="/reconstitutions-antiquite/">Reconstitutions</a>
 <a href="/origines-du-sacre/">Origines du sacré</a>
@@ -1142,6 +1143,41 @@ def create_reconstructions(entries):
     write("reconstitutions-antiquite",shell("Reconstitutions — cités, palais, temples et statues",body))
 
 
+
+def create_comparative_mythology(entries):
+    topics=[
+      ("Cosmogonies et théogonies","cosmogon|theogon|enuma|creation|pangu|primordial"),
+      ("Dieux et souveraineté","zeus|marduk|indra|enlil|pantheon|souverainete"),
+      ("Héros et épopées","heracl|gilgames|achille|odysse|iliade|epopee|argonaut"),
+      ("Déluges et catastrophes","deluge|deucalion|utnapisht|cataclysm"),
+      ("Mort et au-delà","persephone|hades|osiris|inanna|funeraire|resurrect"),
+      ("Rites et sanctuaires","rituel|sacrific|eleus|sanctuaire|oracle|temple|culte"),
+      ("Dumézil et comparatisme indo-européen","dumezil|trifonction|indo.europe|mythologie.comparee"),
+      ("Méthodes et débats","vernant|detienne|eliade|structural|historiograph|comparatis|philolog")
+    ]
+    body='<h1>Mythologie comparée</h1><p class="portal-lead">Études comparatives des mythologies grecques, égyptiennes, mésopotamiennes, iraniennes et des autres traditions. Distinguer les ressemblances formelles, les contacts historiques et les parentés linguistiques.</p>'
+    body+=section("Les traditions à confronter","La Grèce en premier, puis les autres civilisations.",cards([
+      ("/grece/","Grèce","Homère, Hésiode, dieux et héros."),
+      ("/bibliotheque-egypte-ancienne/mythologie-egypte-cosmogonies-osiris-maat-au-dela/","Égypte","Cosmogonies et Osiris."),
+      ("/bibliotheque-mesopotamie/mythologie-mesopotamie-enuma-elish-gilgamesh-inanna/","Mésopotamie","Gilgameš, Inanna, Marduk."),
+      ("/bibliotheque-perse-iran-ancien/","Perse et Iran","Textes et traditions iraniennes."),
+      ("/bibliotheque-mythologies-du-monde/mythologie-inde-vedas-puranas-vishnu-shiva-devi/","Inde","Veda et Purāṇa."),
+      ("/mythologies/","Autres traditions","Chine, Japon et Amériques.")]))
+    body+='<nav class="comparison-toc" aria-label="Axes de comparaison">'+''.join('<a href="#comparaison-'+str(i)+'">'+esc(title)+'</a>' for i,(title,_) in enumerate(topics,1))+'</nav>'
+    assigned=set()
+    for i,(title,pattern) in enumerate(topics,1):
+        found=[]
+        for e in entries:
+            url=e.get("url","")
+            if url not in assigned and re.search(pattern,(e.get("title","")+" "+url).casefold()):
+                found.append(e)
+                assigned.add(url)
+        found.sort(key=lambda e:e.get("title","").casefold())
+        body+='<section class="comparison-section" id="comparaison-'+str(i)+'"><h2>'+esc(title)+'</h2><p class="small-note">'+str(len(found))+' études répertoriées.</p><ul class="comparison-documents">'+''.join('<li><a href="'+esc(e["url"])+'">'+esc(e.get("title") or e["url"])+'</a></li>' for e in found)+'</ul></section>'
+    body+='<p class="small-note">Index thématique automatique : les textes originaux restent intacts. La comparaison ne prouve pas à elle seule une filiation historique.</p>'
+    write("mythologie-comparee",shell("Mythologie comparée — études et méthodes",body))
+
+
 def build_portals():
     entries=json.loads((OUT/"search.json").read_text(encoding="utf-8"))
     groups=get_civilisations(entries)
@@ -1151,6 +1187,7 @@ def build_portals():
     create_greece(entries)
     create_reconstructions(entries)
     create_mythologies(entries)
+    create_comparative_mythology(entries)
     create_figures_and_stories(entries)
     create_theatre(entries)
     reorganize_preserved_plays_analyses(entries)
