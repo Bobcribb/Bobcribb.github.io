@@ -243,3 +243,8 @@ Le rire d'Eupolis — tel que nous pouvons seulement l'entrevoir — rend visibl
 - [Catalogue général MYTHOS](https://bobmythos.fr/catalogue-bibliotheque-mythos/)
 
 **Notice de conservation :** ce chapitre est un texte public autonome, préparé pour l'archivage GitHub dans la série *comédies*. Il ne contient ni brouillon privé ni information personnelle. Les œuvres historiques WordPress et les autres séries MYTHOS ne sont pas modifiées.
+
+
+### Suite de la série — navigation vérifiée
+
+- [Volume II — Eupolis, *Chrysoun genos*](../volume-002-eupolis-chrysoun-genos/).
