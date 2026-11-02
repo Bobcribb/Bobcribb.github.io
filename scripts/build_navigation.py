@@ -518,6 +518,183 @@ def create_theatre(entries):
       details(tragedies,f"Tous les {len(tragedies)} dossiers de tragédie")+details(comedies,f"Tous les {len(comedies)} dossiers de comédie"))
     write("theatre",shell("Théâtre grec — catalogue par auteur et par œuvre",body))
 
+def classify_encyclopedia(entry):
+    """Une seule collection primaire par URL ; catégories éditoriales, non mots-clés flous."""
+    url=entry["url"]
+    if url.startswith("/chapitres/origines-du-sacre/"): return "ODS"
+    if url.startswith(("/tragedies/","/comedie-grecque-aristophane-menandre-etudes/","/chapitres/tragedies/","/chapitres/comedies/")): return "TH"
+    if url.startswith(("/philosophie-et-interpretations/","/chapitres/comparatif/","/historiographie-")): return "PH"
+    if url.startswith(("/chapitres/encyclopedie/","/livre-dieux/","/dieux-et-deesses/","/heros-et-heroines/","/recits-mythologiques/")): return "GE"
+    if url.startswith(("/bibliotheque-mythologies-du-monde/","/bibliotheque-egypte-ancienne/","/bibliotheque-mesopotamie/","/bibliotheque-perse-iran-ancien/")): return "CM"
+    return "REF"
+
+def create_encyclopedia(entries):
+    """Registre public stable par collection, sans toucher aux archives ni réécrire les études."""
+    canonical={}
+    for e in entries:
+        url=e["url"]
+        if url in canonical:
+            raise RuntimeError("MYTHOS : URL dupliquée dans l'index : "+url)
+        canonical[url]=e
+    collections=[
+      ("GE","Grande encyclopédie","Dieux, héros, récits et chapitres universitaires"),
+      ("ODS","Origines du sacré","Préhistoire, cultes, rites et anthropologie religieuse"),
+      ("TH","Théâtre grec","Pièces conservées, fragments, reconstitutions et commentaires"),
+      ("PH","Philosophie et interprétations","Études générales indépendantes des pièces"),
+      ("CM","Civilisations et mythologies comparées","Bibliothèques et traditions du monde"),
+      ("REF","Autres ressources","Documents transversaux, index et ressources complémentaires")
+    ]
+    groups={code:[] for code,_,_ in collections}
+    for e in canonical.values():
+        groups[classify_encyclopedia(e)].append(e)
+    # La numérotation publique est stable sur le contenu actuellement indexé.
+    # L'identifiant canonique est l'URL : les numéros sont des cotes de catalogue,
+    # jamais des remplacements des références scientifiques d'une édition.
+    assigned={}
+    for code,_,_ in collections:
+        for i,e in enumerate(sorted(groups[code],key=lambda x:x["url"]),1):
+            assigned[e["url"]]=code+"-"+str(i).zfill(4)
+    if len(assigned)!=len(canonical) or len(set(assigned.values()))!=len(assigned):
+        raise RuntimeError("MYTHOS : registre incomplet ou cotes en double")
+    body='<h1>Grande encyclopédie MYTHOS</h1><p class="portal-lead">Catalogue général de tous les dossiers publics, organisé en collections distinctes. Chaque entrée a une cote propre au site, sans effacement des textes, des sources ni des anciennes références scientifiques. Les manuscrits non encore importés ne sont pas présentés comme publiés.</p>'
+    body+='<nav class="origins-toc" aria-label="Collections encyclopédiques"><h2>Collections</h2><ol>'+''.join(
+        '<li><a href="#collection-'+code.lower()+'">'+esc(code+" · "+name)+" ("+str(len(groups[code]))+')</a></li>'
+        for code,name,_ in collections)+'</ol></nav>'
+    for code,name,description in collections:
+        rows=sorted(groups[code],key=lambda e:e["url"])
+        body+='<section class="portal-section" id="collection-'+code.lower()+'"><h2>'+esc(name)+'</h2><p class="section-intro">'+esc(description)+'</p>'
+        body+='<details class="library-details"><summary>Consulter les '+str(len(rows))+' entrées <span aria-hidden="true">＋</span></summary><ol class="chapter-list origins-index">'+''.join(
+          '<li data-public-id="'+esc(assigned[e["url"]])+'"><span class="origin-id">'+esc(assigned[e["url"]])+'</span><a href="'+esc(e["url"])+'">'+esc(e["title"])+'</a></li>'
+          for e in rows)+'</ol></details></section>'
+    body+=section("Règles de classement","Une URL ne figure qu'une fois dans le registre. Les cotes des collections sont indépendantes ; la numérotation scientifique historique est conservée dans les documents sources.",
+      '<p>Le registre présente les pages effectivement indexées. La grande édition manuscrite des Origines du sacré, distincte des chapitres déjà publiés, sera intégrée seulement après comparaison de ses versions pour éviter les doublons.</p>')
+    write("grande-encyclopedie",shell("Grande encyclopédie — catalogue général MYTHOS",body))
+
+def create_theatre(entries):
+    """Théâtre grec : corpus méthodique vérifié dans search.json, sans renuméroter les volumes."""
+    catalog={e["url"]:e for e in entries}
+    tragic_specs={"Eschyle":[["Les Perses","eschyle-perses-analyse"],["Les Sept contre Thèbes","eschyle-sept-contre-thebes-analyse"],["Les Suppliantes","eschyle-suppliantes-danaides-analyse"],["Agamemnon","eschyle-agamemnon-analyse"],["Les Choéphores","eschyle-choephores-analyse"],["Les Euménides","eschyle-eumenides-analyse"],["Prométhée enchaîné (attribution discutée)","eschyle-promethee-enchaine-analyse"]],"Sophocle":[["Ajax","sophocle-ajax-analyse"],["Antigone","sophocle-antigone-lecture-critique"],["Les Trachiniennes","sophocle-trachiniennes-analyse"],["Œdipe roi","sophocle-oedipe-roi-analyse"],["Électre","sophocle-electre-analyse"],["Philoctète","sophocle-philoctete-analyse"],["Œdipe à Colone","sophocle-oedipe-a-colone-analyse"]],"Euripide":[["Alceste","euripide-alceste-analyse"],["Médée","euripide-medee-analyse"],["Les Héraclides","euripide-heraclides-analyse"],["Hippolyte","euripide-hippolyte-analyse"],["Andromaque","euripide-andromaque-analyse"],["Hécube","euripide-hecube-analyse"],["Les Suppliantes","euripide-suppliantes-analyse"],["Héraclès","euripide-heracles-analyse"],["Ion","euripide-ion-analyse"],["Les Troyennes","euripide-troyennes-analyse"],["Électre","euripide-electre-analyse"],["Iphigénie en Tauride","euripide-iphigenie-en-tauride-analyse"],["Hélène","euripide-helene-analyse"],["Les Phéniciennes","euripide-pheniciennes-analyse"],["Oreste","euripide-oreste-analyse"],["Iphigénie à Aulis","euripide-iphigenie-a-aulis-analyse"],["Les Bacchantes","euripide-bacchantes-dionysos-tragedie"],["Rhésos (attribution discutée)","euripide-rhesos-analyse"],["Le Cyclope (drame satyrique)","euripide-cyclope-analyse"]]}
+    comedy_specs={"Aristophane":[["Les Acharniens","aristophane-acharniens-etude"],["Les Cavaliers","aristophane-cavaliers-etude"],["Les Nuées","aristophane-nuees-etude"],["Les Guêpes","aristophane-guepes-etude"],["La Paix","aristophane-paix-etude"],["Les Oiseaux","aristophane-oiseaux-etude"],["Lysistrata","aristophane-lysistrata-etude"],["Les Thesmophories","aristophane-thesmophories-etude"],["Les Grenouilles","aristophane-grenouilles-etude"],["L’Assemblée des femmes","aristophane-assemblee-des-femmes-etude"],["Ploutos","aristophane-ploutos-etude"]],"Ménandre":[["Le Dyscolos","menandre-dyscolos-analyse"],["La Samienne","menandre-samia-analyse"],["L’Arbitrage","menandre-epitrepontes-analyse"],["La Femme tondue","menandre-perikeiromene-analyse"],["Le Bouclier","menandre-aspis-analyse"],["Le Sicyonien","menandre-sikyonios-analyse"],["L’Homme haï","menandre-misoumenos-analyse"]]}
+    lost_specs=[["Les Banqueteurs","aristophane-banqueteurs-reconstitution","banqueteurs-analyse-philosophique"],["Les Babyloniens","aristophane-babyloniens-reconstitution","babyloniens-analyse-philosophique"],["Les Paysans","aristophane-paysans-reconstitution","paysans-analyse-philosophique"],["Amphiaraos","aristophane-amphiaraos-reconstitution","amphiaraos-analyse-philosophique"],["Polyidos","aristophane-polyidos-reconstitution","polyidos-analyse-philosophique"],["Cocalos","aristophane-cocalos-reconstitution","cocalos-analyse-philosophique"],["Les Danaïdes","aristophane-danaides-reconstitution","danaides-analyse-philosophique"],["Les Lemniennes","aristophane-lemniennes-reconstitution","lemniennes-analyse-philosophique"],["Dédale","aristophane-dedale-reconstitution","dedale-analyse-philosophique"],["Les Héros","aristophane-heros-reconstitution","heros-analyse-philosophique"],["La Vieillesse","aristophane-vieillesse-reconstitution","vieillesse-analyse-philosophique"],["Gérytadès","aristophane-gerytades-reconstitution","gerytades-analyse-philosophique"],["Anagyros","aristophane-anagyros-reconstitution","anagyros-analyse-philosophique"],["Les Saisons","aristophane-saisons-reconstitution","saisons-analyse-philosophique"],["Les Cigognes","aristophane-cigognes-reconstitution","cigognes-analyse-philosophique"],["Les Navires marchands","aristophane-navires-marchands-reconstitution","navires-marchands-analyse-philosophique"],["Les Nuées (première version)","aristophane-nuees-premiere-version-reconstitution","nuees-premiere-version-analyse-philosophique"],["Le Proagôn","aristophane-proagon-reconstitution","proagon-analyse-philosophique"],["Ploutos (première version)","aristophane-ploutos-premiere-version-reconstitution","ploutos-premiere-version-analyse-philosophique"],["Les Hommes à la poêle","aristophane-hommes-poele-reconstitution","hommes-poele-analyse-philosophique"],["Le Centaure (attribution discutée)","aristophane-centaure-reconstitution","centaure-analyse-philosophique"],["La Paix (deuxième version)","aristophane-paix-deuxieme-version-reconstitution","paix-deuxieme-version-analyse-philosophique"],["Les Phéniciennes","aristophane-pheniciennes-reconstitution","pheniciennes-analyse-philosophique"],["Les Telmessiens","aristophane-telmessiens-reconstitution","telmessiens-analyse-philosophique"],["Triphâlès","aristophane-triphales-reconstitution","triphales-analyse-philosophique"],["Les Thesmophories (deuxième version)","aristophane-thesmophories-deuxieme-version-reconstitution","thesmophories-deuxieme-version-analyse-philosophique"],["Aiolosicon (première version)","aristophane-aiolosicon-reconstitution","aiolosicon-premiere-version-analyse-philosophique"],["Les Femmes occupant les tentes","aristophane-femmes-occupant-tentes-reconstitution","femmes-occupant-tentes-analyse-philosophique"],["Aiolosicon (deuxième version)","aristophane-aiolosicon-deuxieme-version-reconstitution","aiolosicon-deuxieme-version-analyse-philosophique"],["Dionysos naufragé (attribution discutée)","dionysos-naufrage-reconstitution","dionysos-naufrage-analyse-philosophique"],["Les Îles (attribution discutée)","les-iles-reconstitution","iles-analyse-philosophique"],["Niobos (attribution discutée)","niobos-reconstitution","niobos-analyse-philosophique"],["La Poésie (attribution discutée)","la-poesie-reconstitution","poesie-analyse-philosophique"]]
+    def resolve(prefix):
+        matched=[e for e in entries if e["url"].rstrip("/").split("/")[-1].startswith(prefix)]
+        if len(matched)!=1:
+            raise RuntimeError("Catalogue du théâtre : titre absent ou ambigu : "+prefix+" ("+str(len(matched))+")")
+        return matched[0]
+    def works(author, specs):
+        return [{"url":resolve(key)["url"],"title":author+" — "+title} for title,key in specs]
+    tragedies=[e for e in entries if starts(e,"/tragedies/","/chapitres/tragedies/")]
+    comedies=[e for e in entries if starts(e,"/comedie-grecque-aristophane-menandre-etudes/","/chapitres/comedies/")]
+    lost_t=[e for e in tragedies if "/mythos-theatre-perdu-volume-" in e["url"] and re.search(r"mythos-(eschyle|sophocle|euripide)-",e["url"])]
+    lost_t=sorted(lost_t,key=lambda e:e["title"].casefold())
+    pairs=[]
+    for title,recon_prefix,analysis_prefix in lost_specs:
+        reconstruction=resolve(recon_prefix)
+        analysis=resolve(analysis_prefix)
+        pairs.append((title,reconstruction,analysis))
+    if sum(len(v) for v in tragic_specs.values())!=33 or sum(len(v) for v in comedy_specs.values())!=18 or len(pairs)!=33:
+        raise RuntimeError("Nombre de pièces du catalogue théâtral incorrect")
+    body='<h1>Théâtre grec</h1><p class="portal-lead">Une bibliothèque organisée par genre, auteur et œuvre. Les résumés et les reconstitutions sont consultables séparément des analyses philosophiques. Chaque auteur dispose de sa propre numérotation de lecture ; les volumes universitaires conservent leurs numéros historiques.</p>'
+    body+=museum_figures([
+      ("epidaure-theatre-antique-zde.jpg","Théâtre antique d’Épidaure","Épidaure — espace de représentation du théâtre grec."),
+      ("mythos-masques-theatre-rondelles-hellenistiques-met-2001-767.jpg","Représentations hellénistiques de masques de théâtre","Masques — iconographie antique."),
+      ("antigone-libation-rinehart-1870.jpg","Représentation artistique d’Antigone","Antigone — représentation artistique du XIXe siècle."),
+      ("mythos-dionysos-kylix-brygos-bnf-576.jpg","Dionysos sur une céramique grecque","Dionysos — contexte cultuel et iconographie.")
+    ],"Le théâtre : lieux, masques et figures")
+    body+=section("Choisir sa lecture","Trois parcours indépendants, reliés œuvre par œuvre.",cards([
+      ("#pieces-conservees","01 · Pièces conservées","33 dossiers tragiques, 11 pièces d’Aristophane et 7 dossiers de Ménandre.","ŒUVRES"),
+      ("#pieces-perdues","02 · Pièces perdues","Fragments, catalogues critiques et reconstitutions modernes.","FRAGMENTS"),
+      ("#analyses","03 · Analyses philosophiques","Interprétations distinctes des intrigues et des textes de théâtre.","PHILOSOPHIE"),
+      ("#commentaires-vers","04 · Commentaires par vers","Lectures suivies des pièces, avec passages et vers numérotés.","COMMENTAIRE")
+    ]))
+    body+='<section class="portal-section theatre-catalog" id="pieces-conservees"><h2>01 · Pièces conservées et dossiers de lecture</h2>'
+    body+='<p class="section-intro">Numéros 01, 02, 03… propres à chaque auteur. Ordre éditorial des pièces : ni chronologie certaine ni volumes universitaires.</p>'
+    body+='<h3>Tragédies</h3>'
+    for author,spec in tragic_specs.items():
+        body+='<div class="theatre-author"><h3>'+esc(author)+' — '+str(len(spec))+' œuvres</h3>'+numbered_works(works(author,spec),"Œuvre et dossier de lecture")+'</div>'
+    body+='<p class="small-note">Prométhée enchaîné et Rhésos sont accompagnés de mentions d’attribution discutée ; Le Cyclope est un drame satyrique. Les différentes pièces de Ménandre ne sont pas toutes intégralement conservées.</p>'
+    body+='<h3>Comédies</h3>'
+    for author,spec in comedy_specs.items():
+        body+='<div class="theatre-author"><h3>'+esc(author)+' — '+str(len(spec))+' dossiers</h3>'+numbered_works(works(author,spec),"Œuvre et dossier de lecture")+'</div>'
+    body+='</section>'
+    body+='<section class="portal-section theatre-catalog" id="pieces-perdues"><h2>02 · Pièces perdues, fragments et reconstitutions modernes</h2>'
+    body+='<p class="section-intro">La reconstitution est une création moderne : la page distingue les témoignages transmis, les hypothèses et les scènes imaginées. Les numéros ci-dessous servent uniquement au repérage des dossiers.</p>'
+    body+='<h3>Tragédies perdues — dossiers individuels disponibles</h3>'
+    for author in ("Eschyle","Sophocle","Euripide"):
+        selected=[e for e in lost_t if e["title"].startswith(author+" —")]
+        body+='<div class="theatre-author"><h3>'+esc(author)+'</h3>'+numbered_works(selected,"Fragments et restitution")+'</div>'
+    body+=cards([("/tragedies/mythos-bibliotheque-89-tragedies-perdues-edition-vii/","Répertoire général des 89 tragédies perdues","Volumes et sources, même lorsque toutes les œuvres ne disposent pas d’une page individuelle.","CATALOGUE")])
+    body+='<h3>Aristophane — 33 comédies perdues et versions</h3><p class="section-intro">Une œuvre porte un numéro constant dans cette liste. Sous chaque titre, deux accès : reconstitution et analyse philosophique. Pour les attributions contestées, la mention est conservée.</p>'
+    body+='<ol class="work-list linked-works">'+''.join(
+      '<li><strong>'+esc(title)+'</strong><div class="work-links"><a href="'+esc(recon["url"])+'">Fragments et reconstitution</a><a href="'+esc(analysis["url"])+'">Analyse philosophique</a></div></li>'
+      for title,recon,analysis in pairs
+    )+'</ol>'
+    body+=cards([
+     ("/comedie-grecque-aristophane-menandre-etudes/aristophane-catalogue-critiques-33-comedies-perdues/","Catalogue critique des 33 œuvres et versions","Répertoire, attribution et bibliographies.","SOURCES"),
+     ("/comedie-grecque-aristophane-menandre-etudes/comedies-perdues-cratinos-eupolis-philemon-fragments/","Autres auteurs comiques","Cratinos, Eupolis, Ménandre et les œuvres fragmentaires.","SOURCES")
+    ])+'</section>'
+    body+='<section class="portal-section theatre-catalog" id="analyses"><h2>03 · Analyses philosophiques : une bibliothèque distincte</h2>'
+    body+='<p class="section-intro">L’interprétation philosophique et historique ne se substitue pas au résumé ou au témoignage antique. Les analyses de chaque comédie perdue sont accessibles à partir du même numéro ci-dessus.</p>'
+    body+=cards([
+      ("/philosophie/","Études philosophiques","Interprétations par thème, auteur et œuvre.","INTERPRÉTATIONS"),
+      ("/theatre-grec-conserve-etudes-philosophiques/","Analyse des pièces conservées","Tragique, politique, justice, langage et religion.","INTERPRÉTATIONS"),
+      ("/comedie-grecque-aristophane-menandre-etudes/aristophane-bibliotheque-etudes-philosophiques/","33 études d’Aristophane","Une analyse associée à chaque œuvre du catalogue.","INTERPRÉTATIONS")
+    ])+'</section>'
+    body+='<section class="portal-section theatre-catalog" id="commentaires-vers"><h2>04 · Commentaires suivis et analyses par vers</h2>'
+    body+='<p class="section-intro">Les commentaires déjà rédigés sont consultables ici : passages numérotés, scènes et ensembles de vers. Une étude par plages de vers n’est pas une édition philologique mot à mot. Les analyses sont conservées dans leurs dossiers d’origine, sans mélange avec les reconstitutions.</p>'
+    # Répertorier toutes les études des œuvres identifiées, sans créer de doublons.
+    # Contrôle automatisé de la présence de références de vers : syntaxe seulement,
+    # sans prétendre vérifier une édition grecque critique.
+    all_specs=list(tragic_specs.items())+list(comedy_specs.items())
+    used=set()
+    catalog_rows=[]
+    audit_missing=[]
+    audit_ranges=[]
+    for author,spec in all_specs:
+        author_rows=[]
+        for local_num,(title,prefix) in enumerate(spec,1):
+            entry=resolve(prefix)
+            if entry["url"] in used:
+                raise RuntimeError("Doublon dans les commentaires : "+entry["url"])
+            used.add(entry["url"])
+            file=OUT/entry["url"].lstrip("/")/"index.html"
+            if not file.is_file():
+                raise RuntimeError("Commentaire absent du site généré : "+str(file))
+            source=BeautifulSoup(file.read_text(encoding="utf-8"),"html.parser")
+            main=source.find("article") or source
+            text_content=main.get_text(" ",strip=True)
+            references=[]
+            for m in re.finditer(r"\bvers\s+(\d{1,4})(?:\s*[–—-]\s*(\d{1,4}))?",text_content,re.I):
+                first=int(m.group(1))
+                last=int(m.group(2)) if m.group(2) else first
+                if first<=last:
+                    references.append((first,last))
+            unique_refs=sorted(set(references))
+            explicit=len(unique_refs)
+            has_commentary=bool(re.search(r"commentaire (?:suivi|intégral|des |de |philologique)|étude suivie des scènes|grand commentaire|lecture suivie",text_content,re.I))
+            if explicit:
+                status=str(explicit)+" repère(s) de vers dans le texte — à confronter à l’édition critique"
+                audit_ranges.append((author,title,explicit))
+            elif has_commentary:
+                status="Commentaire de scènes : plages de vers non repérées automatiquement"
+                audit_missing.append((author,title))
+            else:
+                status="Étude critique : repérage vers par vers à compléter"
+                audit_missing.append((author,title))
+            code=({"Eschyle":"ES-TR","Sophocle":"SO-TR","Euripide":"EU-TR","Aristophane":"AR-CO","Ménandre":"ME-CO"}[author]
+                  +"-"+str(local_num).zfill(3))
+            author_rows.append('<li><a href="'+esc(entry["url"])+'">'+esc(code+" · "+title)+'</a><small>'+esc(status)+'</small></li>')
+        catalog_rows.append('<div class="theatre-author"><h3>'+esc(author)+' — '+str(len(author_rows))+' dossiers</h3><ol class="work-list linked-works">'+''.join(author_rows)+'</ol></div>')
+    if len(used)!=51:
+        raise RuntimeError("Le catalogue de commentaires doit couvrir exactement 51 dossiers distincts")
+    body+='<p class="small-note">Inventaire intégral : '+str(len(used))+' dossiers de pièces conservées ou partiellement conservées, dont '+str(len(audit_ranges))+' avec au moins un repère de vers détecté et '+str(len(audit_missing))+' sans repère exploitable automatiquement. La présence d’un repère ne certifie pas son exactitude philologique ; les commentaires par scènes ne sont pas présentés comme du mot à mot.</p>'
+    body+=''.join(catalog_rows)
+    body+='<details class="library-details"><summary>Contrôle éditorial : lacunes de référencement ('+str(len(audit_missing))+') <span aria-hidden="true">＋</span></summary><p>Ces études existent, mais les références de vers demandent une vérification ou une indexation supplémentaire :</p><ul class="portal-list">'+''.join('<li>'+esc(author+" — "+title)+'</li>' for author,title in audit_missing)+'</ul></details>'
+    body+='<p class="small-note">Audit effectué sur les 51 pages HTML du dépôt pendant la génération. Les variantes textuelles, les interpolations, les numérotations divergentes et les traductions doivent être vérifiées sur des éditions critiques. Les 33 reconstitutions et analyses des comédies perdues restent accessibles séparément dans la rubrique 02.</p></section>'
+    body+=section("Archives intégrales","Aucun ancien dossier n’est supprimé ; les archives restent accessibles depuis l’index général.",
+      details(tragedies,f"Tous les {len(tragedies)} dossiers de tragédie")+details(comedies,f"Tous les {len(comedies)} dossiers de comédie"))
+    write("theatre",shell("Théâtre grec — catalogue par auteur et par œuvre",body))
+
 def create_encyclopedia(entries):
     """Portail indépendant de la grande encyclopédie : aucun article source supprimé."""
     corpus=[e for e in entries if e["url"].startswith("/chapitres/encyclopedie/")]
