@@ -12,6 +12,11 @@ on:
 permissions:
   contents: read
 
+# Ne pas produire deux archives concurrentes du même état GitHub.
+concurrency:
+  group: mythos-snapshot-archive
+  cancel-in-progress: false
+
 jobs:
   snapshot:
     runs-on: ubuntu-latest
