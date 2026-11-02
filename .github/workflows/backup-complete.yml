@@ -1,0 +1,116 @@
+name: MYTHOS — archive intégrale indépendante à copier hors GitHub
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/backup-complete.yml'
+  schedule:
+    - cron: '17 3 * * 0'
+
+permissions:
+  contents: read
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Extraire le dépôt GitHub MYTHOS
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Créer une archive restaurable du dépôt et de ses médias
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p "$RUNNER_TEMP/mythos-archive"
+          tar -czf "$RUNNER_TEMP/mythos-archive/MYTHOS-source-integrale.tar.gz" \
+            --exclude='./.git' --exclude='./_site' --exclude='./node_modules' \
+            --exclude='./.venv' --exclude='./__pycache__' -C "$GITHUB_WORKSPACE" .
+          cd "$RUNNER_TEMP/mythos-archive"
+          test -s MYTHOS-source-integrale.tar.gz
+          tar -tzf MYTHOS-source-integrale.tar.gz | grep -q '^./CNAME$'
+          tar -tzf MYTHOS-source-integrale.tar.gz | grep -q '^./scripts/build_native.py$'
+          tar -tzf MYTHOS-source-integrale.tar.gz | grep -q '^./media/manifest.json$'
+          tar -tzf MYTHOS-source-integrale.tar.gz | grep -q '^./search.json$'
+          printf 'repository=Bobcribb/Bobcribb.github.io\ncommit=%s\ndate_utc=%s\nrestoration=cat MYTHOS-source-integrale.tar.gz.part-* > MYTHOS-source-integrale.tar.gz; tar -xzf MYTHOS-source-integrale.tar.gz\n' \
+            "$GITHUB_SHA" "$(date -u +%Y-%m-%dT%H:%M:%SZ)" > RESTAURATION.txt
+          sha256sum MYTHOS-source-integrale.tar.gz > ARCHIVE_SHA256.txt
+          split -b 55M -d -a 2 MYTHOS-source-integrale.tar.gz MYTHOS-source-integrale.tar.gz.part-
+          sha256sum MYTHOS-source-integrale.tar.gz.part-* > VOLUMES_SHA256.txt
+          ls -lh MYTHOS-source-integrale.tar.gz.part-*
+      - name: Copier les preuves SHA-256
+        uses: actions/upload-artifact@v4
+        with:
+          name: MYTHOS-manifeste-sauvegarde
+          path: |
+            ${{ runner.temp }}/mythos-archive/RESTAURATION.txt
+            ${{ runner.temp }}/mythos-archive/ARCHIVE_SHA256.txt
+            ${{ runner.temp }}/mythos-archive/VOLUMES_SHA256.txt
+          retention-days: 7
+          if-no-files-found: error
+      - name: Lot 00
+        uses: actions/upload-artifact@v4
+        with:
+          name: MYTHOS-source-complete-00
+          path: ${{ runner.temp }}/mythos-archive/MYTHOS-source-integrale.tar.gz.part-00
+          retention-days: 7
+          if-no-files-found: error
+      - name: Lot 01
+        uses: actions/upload-artifact@v4
+        with:
+          name: MYTHOS-source-complete-01
+          path: ${{ runner.temp }}/mythos-archive/MYTHOS-source-integrale.tar.gz.part-01
+          retention-days: 7
+          if-no-files-found: ignore
+      - name: Lot 02
+        uses: actions/upload-artifact@v4
+        with:
+          name: MYTHOS-source-complete-02
+          path: ${{ runner.temp }}/mythos-archive/MYTHOS-source-integrale.tar.gz.part-02
+          retention-days: 7
+          if-no-files-found: ignore
+      - name: Lot 03
+        uses: actions/upload-artifact@v4
+        with:
+          name: MYTHOS-source-complete-03
+          path: ${{ runner.temp }}/mythos-archive/MYTHOS-source-integrale.tar.gz.part-03
+          retention-days: 7
+          if-no-files-found: ignore
+      - name: Lot 04
+        uses: actions/upload-artifact@v4
+        with:
+          name: MYTHOS-source-complete-04
+          path: ${{ runner.temp }}/mythos-archive/MYTHOS-source-integrale.tar.gz.part-04
+          retention-days: 7
+          if-no-files-found: ignore
+      - name: Lot 05
+        uses: actions/upload-artifact@v4
+        with:
+          name: MYTHOS-source-complete-05
+          path: ${{ runner.temp }}/mythos-archive/MYTHOS-source-integrale.tar.gz.part-05
+          retention-days: 7
+          if-no-files-found: ignore
+      - name: Lot 06
+        uses: actions/upload-artifact@v4
+        with:
+          name: MYTHOS-source-complete-06
+          path: ${{ runner.temp }}/mythos-archive/MYTHOS-source-integrale.tar.gz.part-06
+          retention-days: 7
+          if-no-files-found: ignore
+      - name: Lot 07
+        uses: actions/upload-artifact@v4
+        with:
+          name: MYTHOS-source-complete-07
+          path: ${{ runner.temp }}/mythos-archive/MYTHOS-source-integrale.tar.gz.part-07
+          retention-days: 7
+          if-no-files-found: ignore
+      - name: Lot 08
+        uses: actions/upload-artifact@v4
+        with:
+          name: MYTHOS-source-complete-08
+          path: ${{ runner.temp }}/mythos-archive/MYTHOS-source-integrale.tar.gz.part-08
+          retention-days: 7
+          if-no-files-found: ignore
