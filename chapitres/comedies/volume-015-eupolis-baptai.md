@@ -7,7 +7,7 @@ description: "Les Baptai d'Eupolis : Cotyto, masque rituel, Alcibiade, tradition
 
 ## Eupolis, *Baptai* (Βάπται) : rites, masques et pouvoir de la rumeur
 
-**Étude universitaire complémentaire** de la [notice historique des *Baptai*](/comedie-grecque-aristophane-menandre-etudes/comedies-perdues-cratinos-eupolis-philemon-fragments/eupolis-baptai-cotyto-rites-alcibiade-fragments/). Le présent volume approfondit les problèmes de transmission, de religion et de politique sans remplacer cette notice. Il succède au [volume XIV, *Marikas*](volume-014-eupolis-marikas.md).
+**Étude universitaire complémentaire** de la [notice historique des *Baptai*](/comedie-grecque-aristophane-menandre-etudes/comedies-perdues-cratinos-eupolis-philemon-fragments/eupolis-baptai-cotyto-rites-alcibiade-fragments/). Le présent volume approfondit les problèmes de transmission, de religion et de politique sans remplacer cette notice. Il succède au [volume XIV, *Marikas*](/chapitres/comedies/volume-014-eupolis-marikas/).
 
 **Protocole :** **[A]** témoignage ou fragment antique dont la provenance est identifiée ; **[B]** hypothèse, comparaison ou interprétation moderne ; **[C]** création dramatique originale de MYTHOS. Les scènes [C] ne sont ni des fragments d'Eupolis, ni une traduction, ni une reconstitution garantie de l'intrigue.
 
@@ -254,6 +254,6 @@ La comédie antique se trouvait à la frontière du rite, de la performance et d
 
 ---
 
-**Parcours de lecture :** [Volume XIV — Eupolis, *Marikas*](volume-014-eupolis-marikas.md) · [Notice historique des *Baptai*](/comedie-grecque-aristophane-menandre-etudes/comedies-perdues-cratinos-eupolis-philemon-fragments/eupolis-baptai-cotyto-rites-alcibiade-fragments/) · [Portail du théâtre grec](/theatre/) · [Index intégral](/rubriques/).
+**Parcours de lecture :** [Volume XIV — Eupolis, *Marikas*](/chapitres/comedies/volume-014-eupolis-marikas/) · [Notice historique des *Baptai*](/comedie-grecque-aristophane-menandre-etudes/comedies-perdues-cratinos-eupolis-philemon-fragments/eupolis-baptai-cotyto-rites-alcibiade-fragments/) · [Portail du théâtre grec](/theatre/) · [Index intégral](/rubriques/).
 
 *MYTHOS — texte public original, avec lacunes documentaires explicitement signalées. Aucune pièce perdue n'est présentée comme retrouvée.*
