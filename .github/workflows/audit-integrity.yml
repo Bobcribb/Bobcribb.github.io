@@ -6,6 +6,12 @@ on:
     paths:
       - '.github/workflows/audit-integrity.yml'
       - 'scripts/audit_integrity.py'
+      - 'scripts/build_native.py'
+      - 'chapitres/**'
+      - '**/index.html'
+      - 'index.html'
+      - 'media/**'
+      - 'search.json'
   workflow_dispatch:
 
 permissions:
