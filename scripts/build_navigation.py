@@ -19,6 +19,7 @@ NAV = '''<nav class="site-nav" aria-label="Navigation principale">
 <a href="/heros-et-heroines/">Héros</a>
 <a href="/recits-mythologiques/">Récits</a>
 <a href="/mythologies/">Mythologies</a>
+<a href="/grande-encyclopedie/">Grande encyclopédie</a>
 <a href="/theatre/">Théâtre</a>
 <a href="/origines-du-sacre/">Origines du sacré</a>
 <a href="/philosophie/">Philosophie</a>
@@ -108,6 +109,7 @@ def create_home(entries,groups):
     major=cards([
       ("/grece/","Grèce antique","Dieux, héros, Homère, Hésiode, cultes, sanctuaires et récits.","DOSSIER À LA UNE"),
       ("/mythologies/","Mythologies du monde","Cosmogonies, panthéons, récits fondateurs et traditions comparées.","LE CŒUR DE MYTHOS"),
+      ("/grande-encyclopedie/","Grande encyclopédie","Volumes universitaires, études et chapitres classés.","COLLECTION AUTONOME"),
       ("/theatre/","Théâtre grec","Eschyle, Sophocle, Euripide, Aristophane, Ménandre, œuvres perdues.","ŒUVRES ET FRAGMENTS"),
       ("/origines-du-sacre/","Origines du sacré","Préhistoire, rituels, chants, temps sacré et religions comparées.","GRAND DOSSIER"),
       ("/philosophie/","Études philosophiques","Hegel, Nietzsche, philosophie antique et interprétation des mythes.","ANALYSE CRITIQUE"),
@@ -369,7 +371,7 @@ def create_origins(entries):
     def row(n):
         url=(omnibus+"#chapitre-"+str(n)) if n<=450 else by_number[n]["url"]
         code="ODS-"+str(n-442).zfill(3)
-        return '<li data-public-id="'+esc(code)+'"><span class="origin-id">'+esc(code)+'</span><a href="'+esc(url)+'">'+esc(titles[n])+'</a><small class="origin-source">Chapitre source '+str(n)+'</small></li>'
+        return '<li data-public-id="'+esc(code)+'"><span class="origin-id">'+esc(code)+'</span><a href="'+esc(url)+'">'+esc(titles[n])+'</a></li>'
     sections=[
       ("I · Initiation, secret et transmission",range(443,451),"Tome XXXVIII — huit chapitres réunis dans un document intégral."),
       ("II · Oracles, inspiration et médiations",range(451,459),"Tome XXXIX — huit dossiers individuels."),
@@ -377,7 +379,7 @@ def create_origins(entries):
       ("IV · Calendriers et temps sacré",range(467,475),"Huit dossiers individuels."),
       ("V · Sanctuaires et géographies sacrées",range(475,483),"Huit dossiers individuels.")
     ]
-    body='<h1>Origines du sacré</h1><p class="portal-lead">Quarante chapitres accessibles dans leur intégralité : des Mystères grecs aux rites, musiques, calendriers et sanctuaires des sociétés anciennes. La collection possède ses propres numéros ODS-001 à ODS-040 ; les chapitres 443–482 sont les références de la série de recherche, conservées sans modification.</p>'
+    body='<h1>Origines du sacré</h1><p class="portal-lead">Quarante chapitres accessibles dans leur intégralité : des Mystères grecs aux rites, musiques, calendriers et sanctuaires des sociétés anciennes. La collection possède ses propres numéros ODS-001 à ODS-040 ; les anciennes références techniques sont conservées dans les adresses des sources, mais ne figurent plus dans le sommaire public.</p>'
     body+=museum_figures([
       ("mythos-ounas-chambre-funeraire-vincent-brown.jpg","Textes funéraires dans la pyramide d’Ounas","Égypte — écriture et pratiques funéraires."),
       ("mythos-derveni-papyrus-fragments-thessalonique-gts-tg.jpg","Fragments du papyrus de Derveni","Grèce — interprétation d’une tradition poétique religieuse."),
@@ -516,6 +518,26 @@ def create_theatre(entries):
       details(tragedies,f"Tous les {len(tragedies)} dossiers de tragédie")+details(comedies,f"Tous les {len(comedies)} dossiers de comédie"))
     write("theatre",shell("Théâtre grec — catalogue par auteur et par œuvre",body))
 
+def create_encyclopedia(entries):
+    """Portail indépendant de la grande encyclopédie : aucun article source supprimé."""
+    corpus=[e for e in entries if e["url"].startswith("/chapitres/encyclopedie/")]
+    # La grande encyclopédie couvre aussi les volumes conservés hors du dossier /chapitres/.
+    roots=[
+      ("/bibliotheque-mythologies-du-monde/mythos-grande-encyclopedie-dieux-heros-recits/","Grande encyclopédie — sommaire historique","Accès au cycle complet de volumes, dieux, héros et récits.","SOMMAIRE"),
+      ("/bibliotheque-mythologies-du-monde/","Bibliothèque des mythologies du monde","Volumes, traditions et études comparées.","BIBLIOTHÈQUE"),
+      ("/bibliotheque-mythologies-du-monde/dictionnaire-dieux-monde/","Dictionnaire des dieux du monde","Entrées thématiques et noms divins.","DICTIONNAIRE")
+    ]
+    available={e["url"] for e in entries}
+    body='<h1>Grande encyclopédie MYTHOS</h1><p class="portal-lead">La grande encyclopédie dispose de sa propre entrée, distincte des pièces de théâtre, des études philosophiques générales et des Origines du sacré. Les anciens volumes restent intacts et consultables par leur sommaire.</p>'
+    body+=section("Accès aux collections","Les numéros de volumes appartiennent aux séries universitaires ; les références de navigation ne les remplacent pas.",cards([x for x in roots if x[0] in available]))
+    body+=section("Chapitres individuels repérés","Chapitres déjà présents dans le dépôt, sans reproduire ni renuméroter leurs textes.",list_entries(sorted(corpus,key=lambda e:e["url"])))
+    body+=section("Autres collections de MYTHOS","Des bibliothèques distinctes, sans confusion de numéros.",cards([
+      ("/origines-du-sacre/","Origines du sacré","Collection ODS et parcours thématiques.","ODS"),
+      ("/theatre/","Théâtre grec","Pièces, fragments et commentaires.","THÉÂTRE"),
+      ("/philosophie/","Études philosophiques","Philosophie générale et comparée.","PHILOSOPHIE")
+    ]))
+    write("grande-encyclopedie",shell("Grande encyclopédie — MYTHOS",body))
+
 def create_philosophy(entries):
     studies=[e for e in entries if
         re.search(r"philosoph|nietzsche|hegel|socrate|platon|aristote|epicure|feuerbach|marx|auguste-comte|dumezil|vernant|detienne|historiograph|exegese", (e["title"]+" "+e["url"]).casefold())]
@@ -528,7 +550,10 @@ def create_philosophy(entries):
      ("/theatre-grec-conserve-etudes-philosophiques/","Philosophie des pièces","Études philosophiques des œuvres conservées."),
      ("/chapitres/comparatif/volume-lv-feuerbach-marx/","Feuerbach et Marx","Critique de la religion et société.")
     ]))
-    body+=section("Dossiers philosophiques indexés","Une sélection par titres, auteurs et thèmes explicitement philosophiques.",details(studies,f"Afficher les {len(studies)} études et parcours apparentés"))
+    independent=[e for e in studies if not re.search(r"/(tragedies|comedie-grecque-aristophane-menandre-etudes|theatre-grec|chapitres/tragedies|chapitres/comedies)/",e["url"]) and not re.search(r"(aristophane|eschyle|sophocle|euripide|menandre).*(analyse|étude|etude)",e["title"].casefold())]
+    theatre_philosophy=[e for e in studies if e not in independent]
+    body+=section("Philosophie générale et comparée","Études indépendantes des pièces de théâtre : auteurs, concepts, mythes, religion et historiographie.",details(independent,f"Afficher les {len(independent)} études philosophiques générales"))
+    body+=section("Philosophie appliquée aux pièces de théâtre","Collection distincte : ces analyses interprètent une œuvre dramatique et ne doivent pas être confondues avec les études générales.",cards([("/theatre/#analyses","Revenir au théâtre","Études philosophiques liées à une pièce déterminée.","THÉÂTRE")])+details(theatre_philosophy,f"Afficher les {len(theatre_philosophy)} dossiers philosophiques théâtraux"))
     write("philosophie",shell("Études philosophiques et mythologie comparée",body))
 
 def create_civilisations(entries, groups):
@@ -562,6 +587,7 @@ def renovate_catalog(total):
  card(url,title,desc,"PARCOURS")
  for url,title,desc in [
   ("/mythologies/","Mythologies","Panthéons et récits du monde"),
+  ("/grande-encyclopedie/","Grande encyclopédie","Volumes et dossiers universitaires"),
   ("/dieux-et-deesses/","Dieux et déesses","Panthéons et divinités"),
   ("/heros-et-heroines/","Héros et héroïnes","Personnages et cycles épiques"),
   ("/recits-mythologiques/","Grands récits","Cosmogonies, voyages et épopées"),
@@ -626,6 +652,7 @@ def build_portals():
     create_figures_and_stories(entries)
     create_theatre(entries)
     create_origins(entries)
+    create_encyclopedia(entries)
     create_philosophy(entries)
     create_civilisations(entries,groups)
     print("MYTHOS NAVIGATION :",sum(len(v) for v in groups.values()),"dossiers de civilisation répartis en",len(groups),"continents", {k:len(v) for k,v in groups.items()},flush=True)
