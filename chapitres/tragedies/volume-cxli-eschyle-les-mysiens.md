@@ -356,7 +356,7 @@ La source textuelle principale pour la géographie du mythe est **Strabon XIII, 
 
 **[S7]** Timothy Gantz, *Early Greek Myth*, dossier « Auge and Telephos », p. 429 ; notice d'iconographie du vase Harvard 1960.302 : https://open.online.uga.edu/gantzmythsources/chapter/p-429/ .
 
-**[S8]** Homère, *Iliade* II, 858–861 : mention d'Eurypyle, fils de Télèphe, et des Cétéens ; passage cité et discuté par Strabon XIII, 1, 69. L'épopée n'offre pas une version complète de l'arrivée de Télèphe en Mysie.
+**[S8]** Homère, *Odyssée* **XI, 519–521** : mention d'Eurypyle, fils de Télèphe, tué par Néoptolème, et des Cétéens ; passage cité et discuté par Strabon XIII, 1, 69. L'épopée n'offre pas une version complète de l'arrivée de Télèphe en Mysie. Texte et traduction : https://www.theoi.com/Text/HomerOdyssey11.html .
 
 ## 40. Bibliographie critique vérifiée
 
