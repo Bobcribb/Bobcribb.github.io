@@ -1,0 +1,39 @@
+# MYTHOS — Les origines du sacré
+
+## Tome XLIV — Chapitre 496 : Chine : noms célestes, tabous de dénomination et écritures rituelles
+
+*Étude universitaire comparée. Texte public; sources primaires, faits attestés, débats et hypothèses distingués. Aucun passage ancien n'est présenté comme une citation littérale sans vérification.*
+
+### 496.1. Une question de chronologie
+Les pratiques chinoises de nomination s'étendent sur des millénaires et plusieurs traditions : cultes royaux Shang, rituels Zhou, doctrines confucéennes, mouvements taoïstes et bouddhisme chinois. Il serait abusif de les fondre en un système unique de « noms secrets ». Les catégories doivent être définies par leurs sources et leurs dates. Les inscriptions oraculaires, les textes classiques et les manuscrits taoïstes n'appartiennent ni aux mêmes milieux ni aux mêmes institutions.
+
+### 496.2. *Shangdi* et *Tian*
+Le nom *Shangdi* (上帝) apparaît dans des traditions religieuses et politiques chinoises anciennes; *Tian* (天), « Ciel », acquiert une importance particulière dans les représentations de la souveraineté et de l'ordre moral. Il faut résister à une assimilation immédiate de ces termes à un dieu personnel unique au sens de théologies ultérieures. Leurs valeurs changent selon les époques et les corpus. Les traductions « Dieu suprême » ou « Ciel » sont des approximations contextuelles, non des identités conceptuelles absolues.
+
+### 496.3. Les inscriptions oraculaires
+Les os oraculaires Shang attestent des invocations, des désignations d'ancêtres et des formulations adressées à des puissances. Les noms ancestraux peuvent intégrer des signes calendaires. Ces inscriptions permettent d'étudier la relation entre mémoire dynastique et rituel. Mais leur lecture requiert une paléographie spécialisée : les signes et les noms ne doivent pas être interprétés par simple ressemblance graphique avec des caractères chinois modernes.
+
+### 496.4. Le tabou des noms (*bìhuì*)
+La tradition du *bìhuì* (避諱) impose, selon les contextes historiques, d'éviter certains caractères ou noms associés notamment à des souverains ou à des ancêtres. Ce système peut entraîner des substitutions graphiques et lexicales dans les textes. Il ne signifie pas nécessairement que le nom possédait une force magique intrinsèque. L'évitement peut relever du respect hiérarchique, de la discipline politique et des conventions de l'écriture. Les règles varient selon les dynasties et les institutions.
+
+### 496.5. Noms et titres dans les traditions taoïstes
+Les corpus taoïstes présentent des figures célestes aux noms et titres élaborés, ainsi que des listes de puissances et des procédures d'invocation. Certains rituels emploient des registres, des talismans ou des documents écrits. Mais le terme « taoïsme » recouvre une pluralité de mouvements historiques. Les textes du mouvement des Maîtres célestes ne doivent pas être confondus sans précaution avec des compilations tardives du *Daozang*. Le nom peut identifier une autorité dans une bureaucratie céleste imaginée, mais chaque document exige une contextualisation.
+
+### 496.6. Les talismans et leur matérialité
+Les *fú* (符) peuvent être des talismans ou des signes d'autorisation selon les contextes. Certains dispositifs rituels associent caractères, tracés graphiques et noms. Leurs formes et fonctions ne se réduisent pas à de simples inscriptions lisibles comme un texte ordinaire. L'analyse doit prendre en compte le support, le geste, la séquence rituelle et le destinataire. Une interprétation des signes isolée de leur usage serait insuffisante.
+
+### 496.7. Noms et traduction religieuse
+L'arrivée du bouddhisme a transformé le vocabulaire religieux chinois. Les noms et titres des bouddhas et bodhisattvas furent transcrits, traduits et adaptés. Il faut distinguer la translittération phonétique de la traduction sémantique. Cette histoire montre que les noms sacrés ne sont pas toujours tenus pour intraduisibles. Leur circulation produit de nouvelles identités textuelles et iconographiques, mais ne supprime pas les différences doctrinales.
+
+### 496.8. Comparaison
+Le tabou impérial des noms, les invocations taoïstes et les dénominations d'ancêtres Shang sont trois phénomènes distincts. Leur point commun est que la dénomination s'inscrit dans des relations de pouvoir et des cadres de pratique. Cette convergence ne prouve pas une théorie chinoise universelle du « nom magique ». La comparaison avec les épiclèses grecques doit porter sur des documents et des fonctions déterminés.
+
+**Faits attestés :** inscriptions oraculaires, pratiques de tabou des noms, corpus de talismans et registres taoïstes. **Débats :** identification de certaines puissances anciennes, évolution des titres et datation des traditions rituelles. **Hypothèse refusée :** tous les noms religieux chinois fonctionneraient comme des mots de passe secrets.
+
+**Sources primaires :** inscriptions oraculaires Shang; *Shujing* et *Liji* (avec critique des strates); manuscrits et collections taoïstes identifiés par éditions; traductions bouddhiques chinoises.
+
+**Bibliographie :** David N. Keightley, *Sources of Shang History* (1978); Anna Seidel, *La Divinisation de Lao tseu dans le taoïsme des Han* (1969); Stephen R. Bokenkamp, *Early Daoist Scriptures* (1997); Livia Kohn, *Daoism and Chinese Culture* (2001); John Lagerwey, *China: A Religious State* (2010).
+
+**Méthode :** les appellations sont translittérées en pinyin moderne, sans prétendre restituer leur prononciation à l'époque Shang.
+
+**Transition :** la comparaison avec les *oríkì* yoruba et les inscriptions mayas permet de montrer d'autres usages sociaux et religieux du nom.
