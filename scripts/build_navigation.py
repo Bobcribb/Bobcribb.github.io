@@ -405,8 +405,6 @@ def create_origins(entries):
         raise RuntimeError("Manuscrit historique des Origines du sacré incomplet : "+str(len(integral_parts))+"/9")
     integral_parts.sort(key=lambda e:e["url"])
     body+='<section class="portal-section" id="manuscrit-integral"><h2>Manuscrit historique intégral — tomes I à XX</h2><p class="section-intro">Texte original conservé en neuf parties continues, sans abrègement. Édition de recherche, non évaluée par les pairs. Le manuscrit est distinct des chapitres 443 à 490 publiés ci-dessous.</p><ol class="chapter-list">'+''.join('<li><a href="'+esc(e["url"])+'">'+esc("Lire le manuscrit — partie "+str(i)+" sur 9")+'</a></li>' for i,e in enumerate(integral_parts,1))+'</ol></section>'
-    body+=section("Intégralité et méthode","48 chapitres : 8 dans le tome XXXVIII et 40 pages individuelles ; aucun texte recopié ou remplacé.",
-      '<p>Les numéros ODS servent uniquement à naviguer sur le site. Les liens ODS-001 à ODS-008 conduisent aux sections précises du tome XXXVIII, avec des ancres individuelles. Les chapitres suivants conservent leur adresse. Les références archéologiques, les traditions littéraires et les hypothèses comparatives doivent rester distinguées.</p>')
     # Publication complète des 27 tomes : les dossiers historiques restent accessibles.
     # Bibliothèque intégrale : 27 tomes de la sauvegarde, sans supprimer les 48 dossiers historiques.
     roman_volumes = ["i","ii","iii","iv","v","vi","vii","viii","ix","x","xi","xii","xiii","xiv","xv","xvi","xvii","xviii","xix","xx","xxi","xxii","xxiii","xxiv","xxv","xxvi","xxvii"]
