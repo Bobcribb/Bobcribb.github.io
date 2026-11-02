@@ -168,6 +168,48 @@ def create_greece(entries):
      ("/delphes-oracle-apollon-etude/","Delphes","Oracle d’Apollon et pratiques religieuses."),
      ("/theatre/","Théâtre grec","Tragédies, comédies et analyses des pièces.")
     ]))
+    # Index documentaire transversal : toutes les entrées grecques déjà publiées,
+    # sans copier ni modifier leurs manuscrits et sans doublonner les liens.
+    greek_groups=[
+      ("Dieux, héros et mythes",("/dieu-","/heros-","/dieux-et-deesses/","/heros-et-heroines/","/recits-mythologiques/","/mythologies/grece")),
+      ("Épopées et auteurs",("/iliade/","/odyssee/","/livre-hesiode/","/chapitres/iliade/","/chapitres/odyssee/","/chapitres/hesiode/","/chapitres/homere/","/chapitres/theogonie/")),
+      ("Tragédies et comédies",("/tragedies/","/chapitres/tragedies/","/chapitres/comedies/","/comedie-grecque-aristophane-menandre-etudes/","/theatre-grec-conserve-etudes-philosophiques/")),
+      ("Histoire, sanctuaires et civilisation",("/grece/","/grece-antique/","/delphes","/atlas-mythologique/","/civilisations/grece")),
+    ]
+    # Certains dossiers grecs sont classés dans des collections transversales.
+    greek_terms=("grec","athen","spart","delphes","eleus","olympie","mycene","corinthe","epidaure","pnyx","agora","socrate","platon","aristote","zeus","apollon","athena","artemis","dionysos","demeter","persephone","heracles","achille","ulysse","odysse","iliade","hesiode","homere","theogon","aristophane","eschyle","sophocle","euripide","menandre","promethee","troie","mythologie-hellen")
+    assigned=set()
+    collections=[]
+    for group_name,prefixes in greek_groups:
+        selected=[]
+        for e in entries:
+            url=e["url"]
+            if url in assigned or url=="/grece/" or not url.startswith("/"):
+                continue
+            if any(url.startswith(p) for p in prefixes):
+                selected.append(e)
+                assigned.add(url)
+        collections.append((group_name,selected))
+    additional=[]
+    for e in entries:
+        url=e["url"]
+        if url in assigned or url=="/grece/" or not url.startswith("/"):
+            continue
+        key=(url+" "+e.get("title","")).casefold()
+        if any(term in key for term in greek_terms):
+            additional.append(e)
+            assigned.add(url)
+    collections.append(("Autres études grecques et dossiers comparatifs",additional))
+    total=sum(len(items) for _,items in collections)
+    if total<60:
+        raise RuntimeError("Corpus grec : index anormalement restreint ("+str(total)+")")
+    body+='<section class="portal-section greek-complete-index" id="corpus-grec-complet"><h2>Catalogue des contenus grecs publiés</h2><p class="section-intro">'+str(total)+' pages et dossiers repérés dans la bibliothèque MYTHOS, classés par domaine. Les études restent à leur emplacement d’origine, sans suppression ni duplication des textes.</p><nav class="greek-index-toc" aria-label="Collections du corpus grec">'+''.join('<a href="#grec-corpus-'+str(i)+'">'+esc(name)+' ('+str(len(items))+')</a>' for i,(name,items) in enumerate(collections,1) if items)+'</nav>'
+    for i,(name,items) in enumerate(collections,1):
+        if not items:
+            continue
+        ordered=sorted(items,key=lambda e:(e.get("title") or e["url"]).casefold())
+        body+='<section class="greek-index-group" id="grec-corpus-'+str(i)+'"><h3>'+esc(name)+' — '+str(len(items))+' dossiers</h3><ol class="greek-index-list">'+''.join('<li><a href="'+esc(e["url"])+'">'+esc(e.get("title") or e["url"])+'</a></li>' for e in ordered)+'</ol></section>'
+    body+='</section>'
     write("grece",shell("Mythologie grecque et Grèce antique",body))
 
 def create_mythologies(entries):
