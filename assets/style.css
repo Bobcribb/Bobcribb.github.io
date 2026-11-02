@@ -317,3 +317,16 @@ main.visual-rails-active>.content,main.visual-rails-active>article{min-width:0}
 .museum-subjects li{break-inside:avoid;margin:0 0 8px}
 @media(max-width:800px){.museum-viewer-grid{grid-template-columns:1fr}.museum-subjects ul{columns:2}}
 @media(max-width:500px){.museum-subjects ul{columns:1}.mythos-3d-viewer canvas{height:260px}}
+
+/* MYTHOS — portail de mythologie comparée */
+.comparison-toc{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px;margin:28px 0}
+.comparison-toc a{display:flex;align-items:center;justify-content:center;min-height:65px;padding:10px;border:1px solid #876b40;background:#14181c;color:#ecd2a4;text-align:center;text-decoration:none;font:15px/1.3 Georgia,serif}
+.comparison-toc a:hover{background:#29251c}
+.comparison-section{border-top:1px solid #75603e;margin:26px 0;padding-top:22px;scroll-margin-top:120px}
+.comparison-section h2{color:#e8c990}
+.comparison-documents{columns:2;column-gap:28px;list-style:none;padding:0}
+.comparison-documents li{break-inside:avoid;padding:9px 0;border-bottom:1px solid #413b32}
+.comparison-documents a{color:#e9d6b9;text-decoration:none}
+.comparison-documents a:hover{text-decoration:underline}
+@media(max-width:950px){.comparison-toc{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:620px){.comparison-toc{grid-template-columns:1fr 1fr}.comparison-documents{columns:1}}
