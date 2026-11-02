@@ -270,3 +270,8 @@ La pièce ne prouve pas qu'Eupolis fut un critique de l'hilotisme. Elle ne prouv
 
 
 **Note de continuité éditoriale (2 novembre 2026).** Cette étude a été conservée intégralement et renumérotée III afin de résoudre la collision de deux anciens volumes II ; le volume II canonique traite de *Chrysoun genos*. Le texte de l'ancienne adresse a été transféré sans retranchement dans cette version, hors corrections des mentions de numérotation et de navigation.
+
+
+### Suite de la série — navigation vérifiée
+
+- [Volume IV — Eupolis, *Aiges*](../volume-004-eupolis-aiges/).
