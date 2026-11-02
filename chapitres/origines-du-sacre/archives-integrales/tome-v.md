@@ -1,0 +1,531 @@
+# MYTHOS — AUX ORIGINES DU SACRÉ
+## Tome V — La naissance du cosmos et la souveraineté des dieux
+
+*Édition documentaire du 30 octobre 2026 · Suite du tome IV, chapitres 125 à 166 · Manuscrit pour MYTHOS, non publié sur WordPress. Les dates des œuvres désignent des hypothèses de composition ou la date des témoins conservés, et ne sont pas nécessairement les dates d'apparition des récits. Les sources égyptiennes sont souvent composites et les grandes reconstructions « systématiques » constituent des instruments modernes d'étude plutôt que des catéchismes antiques.*
+
+> **Problématique générale.** Comment les anciennes sociétés ont-elles expliqué non seulement l'origine des choses, mais la distribution du pouvoir entre les dieux, les hommes, les morts, les eaux, les territoires et les souverains ? Une cosmogonie peut être à la fois récit d'émergence, théorie de l'ordre, mémoire d'institutions et discours de légitimation. Ces fonctions varient selon les documents et les contextes.
+
+## PREMIÈRE PARTIE — SUMER : LA MATIÈRE, LE TRAVAIL ET LA RÉPARTITION DES DESTINS
+
+### 125. Namma : la maternité cosmique n'est pas une création ex nihilo
+
+Namma, également transcrite Nammu, figure dans des compositions sumériennes comme une grande puissance maternelle associée aux eaux premières et à la naissance des dieux. Dans *Enki et Ninmah*, elle intervient auprès d'Enki lorsque les divinités astreintes au travail se plaignent. Il faut immédiatement distinguer le statut de cette déesse dans ce récit de la reconstruction d'une prétendue théologie sumérienne unique. Plusieurs villes, époques et traditions coexistent ; leurs récits ne forment pas un livre de doctrine unifié.
+
+La création de l'être humain est située dans un monde déjà peuplé de puissances. Les divinités ont des tâches, des besoins et des relations d'autorité. Namma propose une réponse à une crise sociale divine ; Enki explique comment utiliser l'argile de l'Abzu, le domaine des eaux douces souterraines. Il ne s'agit pas de produire la matière à partir du néant, mais de transformer une matière présente et d'assigner au nouvel être une fonction. L'argile est aussi la matière du briquetier et du potier : elle permet au récit de rapprocher le geste divin de techniques humaines connues.
+
+L'hypothèse selon laquelle une « Grande Déesse mère » aurait universellement précédé tous les dieux historiques demeure indémontrée. Namma constitue un personnage singulier de sources singulières. Le rapprochement de son rôle avec celui de Noun en Égypte souligne la valeur cosmologique des eaux premières, mais non une identité de doctrine.
+
+**Source primaire :** [*Enki et Ninmah*, ETCSL, Oxford](https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=t.1.1.2).
+
+### 126. Enki et Ninmah : pourquoi créer les hommes ?
+
+Le poème s'ouvre sur la souffrance des divinités inférieures occupées à creuser les canaux et à accumuler le limon. Une telle scène témoigne de l'importance de l'aménagement hydraulique en Basse Mésopotamie. Le récit imagine un monde divin où le travail nécessaire à l'ordre économique produit des tensions. Namma avertit Enki, dont la sagesse technique fait de lui un médiateur ; la solution consiste à former l'humanité pour reprendre certaines corvées.
+
+Le poème ne se limite toutefois pas à une justification du travail. Dans la partie suivante, Ninmah modèle des individus aux caractéristiques physiques et fonctionnelles variées. Enki leur attribue une place sociale. La composition réfléchit ainsi aux différences corporelles, à la capacité d'agir, à la dépendance, au destin et à la décision souveraine. Il ne faut ni édulcorer les représentations antiques de la déficience, ni attribuer à ce texte une pensée moderne du handicap. L'analyse doit porter sur la manière dont la condition humaine est construite et évaluée par des dieux.
+
+La scène de création ne signifie pas que tous les auteurs sumériens auraient considéré le travail comme une punition imposée à des esclaves. Les représentations des rapports entre humains et dieux sont nombreuses et incluent réciprocité cultuelle, protection, prospérité et justice. Une théologie de la corvée ne saurait résumer toute la religion mésopotamienne.
+
+**Source primaire :** [*Enki et Ninmah*, ETCSL](https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=t.1.1.2).
+
+### 127. La séparation du ciel et de la terre : l'ordre par la différenciation
+
+L'ouverture de *Gilgamesh, Enkidu et les Enfers* évoque un temps où ciel et terre ont été séparés, tandis que les domaines cosmiques sont attribués : le ciel à An, la terre à Enlil et les profondeurs à Ereshkigal. Ce prologue survit dans des copies écrites bien après les premiers établissements urbains de Sumer. Il ne doit pas être confondu avec un témoignage direct sur le IVe millénaire.
+
+Ce partage vaut comme une opération d'intelligibilité. Le cosmos possède des régions, des limites, des puissances dominantes. L'espace n'est plus indifférencié ; on peut dire à qui appartient chaque domaine. La répartition est à la fois géographique, familiale et politique. Elle prépare les affrontements et déplacements qui feront l'objet d'autres récits.
+
+Dans la *Théogonie* d'Hésiode, Gaia, Ouranos et les générations divines produisent également un monde de relations et de frontières, mais la succession grecque suit une logique narrative différente. Parler de « même mythe » effacerait les écarts. Il est historiquement plus solide de comparer les problèmes que les récits cherchent à rendre intelligibles : succession, délimitation, justice, transmission et ordre.
+
+**Source primaire :** [*Gilgamesh, Enkidu et les Enfers*, ETCSL](https://etcsl.orinst.ox.ac.uk/section1/tr1814.htm).
+
+### 128. An et Enlil : le ciel n'épuise pas la souveraineté
+
+An, dont le nom est associé au ciel, apparaît dans des listes et traditions comme une autorité divine majeure. Enlil, lié notamment au grand centre cultuel de Nippur, occupe dans nombre de compositions une position dominante sur les affaires du monde. Les textes ne proposent pas une constitution divine fixe. Le rang, le domaine et les attributions d'une divinité varient selon les cités, les scribes et les périodes.
+
+Cela permet de poser la question essentielle de la pensée politique mésopotamienne : un pouvoir suprême se définit-il par son ancienneté, sa force, sa capacité d'ordonner les destinées ou par la reconnaissance des autres dieux ? Ces critères peuvent diverger. La prééminence d'Enlil n'est pas identique à celle de Marduk, dont le *Enūma eliš* beaucoup plus tardif justifiera la montée en puissance.
+
+Il faut également distinguer les noms des dieux de leurs temples et de leurs images. Une inscription de dédicace, un récit littéraire, un hymne ou une liste divine ne répondent pas à la même fonction. Le panthéon est le résultat mobile de pratiques locales et de mises en ordre savantes. Il n'a pas été arrêté une fois pour toutes.
+
+**Sources :** [*Gilgamesh, Enkidu et les Enfers*, ETCSL](https://etcsl.orinst.ox.ac.uk/section1/tr1814.htm) ; Black et al., *The Literature of Ancient Sumer* (Oxford, 2004).
+
+### 129. Enki, Abzu et les « me » : créer, c'est instituer des capacités
+
+Enki est lié à l'eau douce profonde, à la sagesse, aux techniques et à des formes de ruse constructive. Le mot sumérien *me*, célèbre dans les récits d'Enki et d'Inanna, désigne des puissances ou éléments constitutifs de l'organisation du monde civilisé. Il est périlleux de le traduire uniformément par « lois », « essences », « principes » ou « décrets » : chacun de ces termes capte seulement une partie de son champ de signification.
+
+La liste des *me* peut réunir des dignités, des activités culturelles, des fonctions et des compétences. Elle montre que la civilisation ne réside pas seulement dans les murailles d'une ville. Elle comprend des pratiques, des rôles, des institutions et parfois des contradictions. Le mythe les représente comme des réalités ayant un statut divin et pouvant être transmises.
+
+L'intérêt comparatif est puissant : l'Égypte pense certains aspects de l'ordre à travers Maât, et la Grèce hésiodique raconte la répartition des *timai*, les honneurs ou prérogatives des dieux. Mais *me*, Maât et *timē* ne sont ni des traductions directes, ni des équivalents interchangeables. La prudence philologique interdit de fabriquer une « loi sacrée universelle » à partir de ces rapprochements.
+
+**Sources :** [Corpus ETCSL, Oxford](https://etcsl.orinst.ox.ac.uk/) ; J. Bottéro et S. N. Kramer, *Lorsque les dieux faisaient l'homme* (Gallimard).
+
+### 130. Dilmun : un monde intact n'est pas automatiquement un paradis
+
+*Enki et Ninhursag* décrit Dilmun comme une terre pure, où les animaux et les maladies ne se comportent pas encore comme dans l'expérience ordinaire. Le texte développe un paysage remarquable de l'origine, puis introduit l'eau, les relations sexuelles divines, la croissance végétale, l'interdit et les effets de sa transgression. L'espace présenté comme « pur » n'est pas un lieu immobile : il se transforme.
+
+La comparaison avec l'Éden biblique a suscité une abondante littérature. Les deux ensembles mettent en jeu fertilité, végétation, sexualité, limite et conséquences d'un geste. Toutefois les intrigues et les structures théologiques diffèrent. Dilmun est également un nom géographique connu des échanges du golfe Persique ; le mot ne se réduit pas à une contrée mythique. Un lieu réel peut servir de support à une topographie idéalisée.
+
+Il faut renoncer à l'équation simpliste « Dilmun = Éden ». Pour démontrer un emprunt, il faudrait préciser quels motifs sont transmis, par quels milieux, à quelles époques, sous quelles modifications. L'analyse peut proposer un voisinage culturel de motifs sans prétendre avoir retrouvé le texte originel de la Genèse.
+
+**Source primaire :** [*Enki et Ninhursag*, ETCSL](https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=t.1.1.1).
+
+### 131. Ninhursag, Ninmah et la puissance de mettre au monde
+
+Les grandes figures féminines de création en Mésopotamie sont difficiles à ordonner en une généalogie universelle. Ninhursag, Ninmah et d'autres noms ou titres peuvent se rapprocher selon les corpus, mais leurs histoires cultuelles ne sont pas identiques. Les pratiques d'identification des dieux chez les scribes ont parfois superposé des figures auparavant distinctes. Une concordance de fonctions maternelles ne prouve pas une identité permanente.
+
+L'accouchement, l'argile, le façonnage et la définition des destinées constituent un champ symbolique où se rencontrent biologie, artisanat et souveraineté. Le corps humain n'est pas seulement engendré ; il est formé, désigné, affecté. Cela autorise une réflexion comparative sur la fabrication de personnes par des dieux, dans laquelle le modèle du potier apparaît aussi en Égypte avec Khnoum.
+
+L'expression « déesse mère » doit rester une catégorie descriptive prudente, non une clef prétendant expliquer tous les récits féminins de la Préhistoire à la période historique. Les déesses mésopotamiennes ont des profils divers : naissance, guerre, sexualité, justice, savoir, royauté, frontières. Les fusionner en un principe unique serait perdre leur histoire.
+
+**Sources :** Black et al., *The Literature of Ancient Sumer* ; [*Enki et Ninmah*, ETCSL](https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=t.1.1.2).
+
+### 132. Atrahasis : le travail, la révolte et la condition mortelle
+
+Dans l'épopée akkadienne d'*Atrahasis*, dont nous conservons des témoins paléo-babyloniens, la rébellion des dieux chargés de la corvée conduit à la création humaine. Le récit décrit une fabrication à partir d'argile mêlée à la substance d'une divinité sacrifiée. Les hommes héritent d'une condition paradoxale : constitués de matière terrestre, ils participent aussi à une opération divine.
+
+Le texte se prolonge avec une augmentation de la population humaine, les nuisances qu'elle produit aux yeux des dieux, puis les tentatives de destruction et le déluge. La création de l'homme n'est donc pas séparée d'une réflexion sur les limites démographiques, la vulnérabilité et les décisions des puissances supérieures. Le mythe ne livre pas une anthropologie harmonieuse : les dieux sont divisés, les décisions sont discutables, la survie nécessite des médiations.
+
+La proximité avec le déluge de Gilgamesh et certaines traditions bibliques est un terrain historique important, mais les récits n'ont pas les mêmes finalités. L'usage du déluge pour penser l'ordre et la mortalité n'autorise pas à réduire leurs différences morales à un schéma unique.
+
+**Sources :** W. G. Lambert et A. R. Millard, *Atra-ḫasīs: The Babylonian Story of the Flood* ; S. Dalley, *Myths from Mesopotamia* ; [Oxford Research Encyclopedia, religion et humanité](https://academic.oup.com/edited-volume/62249/chapter-abstract/551362764).
+
+### 133. Les Enfers : l'organisation du monde se prolonge après la mort
+
+La présence d'Ereshkigal dans les premières répartitions cosmiques montre que les morts appartiennent à un domaine structuré. Les traditions mésopotamiennes présentent des portes, des gardiens, des règles d'accès et des rites de mémoire. L'au-delà n'est pas nécessairement un tribunal moral analogue aux représentations tardives de certaines religions. La conduite du mort et l'attention de ses proches comptent, mais ces thèmes varient selon les textes.
+
+Dans le récit de la descente d'Inanna, la souveraineté infernale d'Ereshkigal rencontre la volonté d'une autre déesse de traverser les limites. Retrait des ornements et réduction de la puissance scandent le parcours. Le franchissement de la frontière ne ressemble pas simplement à un voyage géographique : il défait progressivement les marques de statut.
+
+L'historien doit distinguer le genre littéraire de la pratique funéraire. Un mythe de descente n'atteste pas directement que les habitants de Sumer réalisaient une imitation rituelle précise de chacune de ses étapes. Les rites funéraires sont éclairés par d'autres sources, notamment les offrandes et les données de tombes.
+
+**Sources :** [ETCSL, récits d'Inanna](https://etcsl.orinst.ox.ac.uk/) ; [Oxford Classical Dictionary, les morts en Mésopotamie](https://academic.oup.com/edited-volume/61673/chapter-abstract/550533662).
+
+### 134. La première leçon sumérienne : il n'existe pas une « Bible de Sumer »
+
+Les traditions sumériennes nous sont connues par des inscriptions, des compositions littéraires conservées sur tablettes, des hymnes, des listes, des archives administratives et des reconstructions philologiques. Beaucoup de copies littéraires proviennent de l'époque paléo-babylonienne, c'est-à-dire longtemps après les premiers sanctuaires urbains. Le résultat est une documentation stratifiée, lacunaire et souvent localisée.
+
+Raconter « le mythe sumérien de la création » au singulier constitue donc un raccourci. Certains récits s'intéressent à la séparation des domaines, d'autres à la naissance de l'homme, d'autres à l'organisation des institutions ou à la fertilité. Une encyclopédie critique doit présenter chaque document avec sa langue, sa datation, son état de conservation et ses variantes.
+
+Il ne s'agit pas d'interdire la synthèse : elle est indispensable à la compréhension. Mais la synthèse doit annoncer qu'elle réunit des témoins différents. Pour MYTHOS, cette précaution protège contre deux erreurs opposées : présenter une civilisation comme radicalement incompréhensible, ou la transformer en un système monolithique qui n'a jamais existé.
+
+**Source de travail :** [Electronic Text Corpus of Sumerian Literature, université d'Oxford](https://etcsl.orinst.ox.ac.uk/).
+
+## DEUXIÈME PARTIE — BABYLONE : MARDUK ET LA LÉGITIMITÉ COSMIQUE
+
+### 135. L'Enūma eliš : une épopée conservée en sept tablettes
+
+Le poème babylonien connu par ses premiers mots, *Enūma eliš* (« Lorsqu'en haut… »), est transmis par plusieurs manuscrits, notamment du premier millénaire avant notre ère. L'œuvre en sept tablettes totalise un peu plus d'un millier de vers. Une hypothèse influente place sa composition dans le contexte de la montée politique et religieuse de Babylone, vraisemblablement vers la fin du XIIe siècle avant notre ère, sous Nabuchodonosor Ier ou peu après. Les manuscrits connus ne sont pas tous contemporains de sa composition.
+
+Il ne faut pas traduire le genre en « explication scientifique de l'Univers ». Le poème présente une généalogie divine, une crise de souveraineté, une guerre, une création du monde ordonné, la production humaine, puis l'exaltation du nom et des prérogatives de Marduk. Il raconte pourquoi la royauté suprême de ce dieu est légitime, et par conséquent pourquoi Babylone occupe une place centrale dans le paysage cultuel.
+
+L'œuvre constitue ainsi un document privilégié de théologie politique. La formation du cosmos et la définition d'une hiérarchie souveraine sont deux aspects d'un même récit. La création est le résultat d'une victoire reconnue et consacrée par une assemblée divine.
+
+**Sources :** [Metropolitan Museum, *Mesopotamian Creation Myths*](https://www.metmuseum.org/fr/essays/epic-of-creation-mesopotamia) ; [Ministère français de la Culture, *Enūma eliš*](https://archeologie.culture.gouv.fr/proche-orient/fr/glossary/epopee-de-la-creation-enuma-elis).
+
+### 136. Apsû et Tiamat : l'origine liquide et les générations troublées
+
+Au commencement du poème, les eaux douces d'Apsû et les eaux salées de Tiamat sont mêlées avant l'apparition des générations divines. Cette situation initiale n'est pas un vide absolu. Des principes existent déjà, dotés de noms et de capacités d'engendrer. Les nouveaux dieux perturbent le repos des anciens. Apsû envisage de les éliminer, mais son projet est contrarié par Ea, qui parvient à le vaincre.
+
+Cette première crise est souvent écrasée par le récit du combat de Marduk et de Tiamat. Elle est pourtant essentielle : la violence ne naît pas de la seule hostilité d'un monstre primordial. Elle surgit aussi de la difficulté des générations anciennes à supporter l'existence et l'activité des nouvelles. Les divinités ne sont pas les représentants simplistes de deux camps, l'ordre d'un côté et le chaos de l'autre.
+
+Tiamat est fréquemment appelée « déesse du chaos » dans les présentations modernes ; cette formule risque de réduire une entité généalogique complexe à une abstraction morale. Dans le poème, elle entre en guerre à un moment précis de la crise, après des événements qui ont déjà bouleversé le monde divin.
+
+**Sources :** [Metropolitan Museum](https://www.metmuseum.org/fr/essays/epic-of-creation-mesopotamia) ; Lambert, *Babylonian Creation Myths* (2013).
+
+### 137. Ea : intelligence, anticipation et victoire sans bataille rangée
+
+Ea, correspondant à l'Enki sumérien dans le monde akkadophone, intervient avec intelligence contre le projet d'Apsû. Les transformations des noms et des fonctions sont historiquement importantes : il ne s'agit pas d'un simple remplacement mécanique de tous les dieux sumériens par de nouveaux équivalents babyloniens. Les processus de traduction, d'identification et de réinterprétation s'étendent sur des siècles.
+
+L'opposition entre Ea et Apsû permet de comparer plusieurs formes de puissance. Apsû possède une priorité générationnelle, mais Ea remporte la victoire grâce à son savoir et à sa capacité de neutraliser l'adversaire. Le récit prépare indirectement la figure de Marduk, fils d'Ea, dont la puissance exceptionnelle sera plus tard reconnue par l'assemblée des dieux.
+
+Cette continuité généalogique fonde une légitimité, mais ne l'épuise pas. Marduk doit démontrer sa capacité à protéger les dieux et à réorganiser le monde. La souveraineté divine n'est pas ici une simple possession héréditaire : elle réclame un événement qui la rend visible et acceptable.
+
+**Source :** W. G. Lambert, *Babylonian Creation Myths* ; [Ministère français de la Culture](https://archeologie.culture.gouv.fr/proche-orient/fr/glossary/epopee-de-la-creation-enuma-elis).
+
+### 138. Kingu et la coalition de Tiamat : le pouvoir peut produire son propre rival
+
+Dans le conflit qui suit la disparition d'Apsû, Tiamat rassemble des alliés et confère à Kingu une autorité particulière. Les traditions de traduction présentent parfois une pluralité de créatures terrifiantes. Leur description souligne la gravité d'une confrontation cosmique où l'ordre antérieur semble menacé par une coalition nouvelle.
+
+Kingu reçoit notamment un pouvoir associé aux tablettes des destinées. L'expression ne doit pas être comprise à partir des catégories modernes du fatalisme. Les décisions divines, leur connaissance et leur mise en œuvre sont au cœur des représentations mésopotamiennes de la royauté. Celui qui détient les signes du pouvoir sur les destinées peut prétendre à une prééminence qui dépasse sa force physique.
+
+La coalition rend le problème politique particulièrement aigu : Marduk ne combat pas une simple absence d'ordre. Il affronte un ordre rival, doté de ses propres attributions. Le récit devient ainsi une mise à l'épreuve de la légitimité et non seulement un affrontement entre forme et informe.
+
+**Sources :** Lambert, *Babylonian Creation Myths* ; [Metropolitan Museum](https://www.metmuseum.org/fr/essays/epic-of-creation-mesopotamia).
+
+### 139. Le contrat de Marduk : protéger les dieux en échange de la souveraineté
+
+Avant d'affronter Tiamat, Marduk exige que l'assemblée divine reconnaisse son autorité suprême. Le récit contient ainsi une scène que l'on peut analyser comme une négociation de souveraineté, en gardant à l'esprit que le vocabulaire juridique moderne reste une analogie. Les dieux attribuent à Marduk la capacité de prononcer et de faire advenir un ordre que les autres ne peuvent garantir.
+
+Cet épisode rend visible une dimension institutionnelle de la puissance. La victoire militaire à venir ne suffit pas à expliquer à elle seule la primauté de Marduk : les autres dieux doivent la reconnaître. L'assemblée reconnaît celui qui peut résoudre une crise menaçant tous ses membres. Le pouvoir suprême naît de la conjonction entre capacité d'action et assentiment collectif.
+
+Cette logique rappelle certains récits grecs, mais elle ne se confond pas avec les pratiques humaines de la démocratie. Une assemblée de dieux n'est pas l'ecclésia athénienne. La comparaison éclaire seulement une représentation ancienne selon laquelle la reconnaissance publique peut compléter la puissance d'un souverain.
+
+**Source :** [Metropolitan Museum, *Mesopotamian Creation Myths*](https://www.metmuseum.org/fr/essays/epic-of-creation-mesopotamia).
+
+### 140. Le combat contre Tiamat : vaincre pour instituer un monde
+
+Marduk affronte Tiamat au moyen d'armes et de forces météorologiques. Le vent joue un rôle important dans la défaite de l'adversaire. La scène porte les caractères d'un combat héroïque, mais son enjeu déborde l'élimination d'une menace : la victoire rend possible l'organisation d'un nouvel univers.
+
+L'expression moderne *Chaoskampf*, « combat contre le chaos », sert parfois à comparer cette scène avec les affrontements de Baal contre Yamm, de Zeus contre Typhon ou de certains dieux égyptiens contre des ennemis de la course solaire. La catégorie est utile pour saisir un motif de combat fondateur, mais elle peut aussi homogénéiser des récits différents. Dans *Enūma eliš*, Tiamat est une puissance nommée, ancestrale et génitrice, non le simple concept philosophique de désordre.
+
+La violence cosmique trouve une justification narrative dans la capacité du vainqueur à construire des limites et des rythmes. Mais elle demeure une violence : le texte ne présente pas une création pacifique. Cette contradiction ouvre une interrogation essentielle sur le rapport entre ordre et domination.
+
+**Sources :** Lambert, *Babylonian Creation Myths* ; [Ministère français de la Culture](https://archeologie.culture.gouv.fr/proche-orient/fr/glossary/epopee-de-la-creation-enuma-elis).
+
+### 141. Le corps de Tiamat : la matière vaincue devient architecture cosmique
+
+Marduk utilise le corps de Tiamat pour organiser le cosmos. L'image du partage du corps vaincu est l'un des motifs les plus frappants de l'épopée. Le monde résulte d'une opération sur une matière auparavant vivante et divine. Le créateur est un architecte souverain qui dispose de ce qu'il a conquis.
+
+Une interprétation trop rapide y verrait la simple affirmation que toute création implique un sacrifice. La comparaison avec d'autres récits de corps primordial, par exemple celui de Purusha dans un hymne védique, peut faire émerger une analogie de structure, mais n'établit aucune filiation historique directe. Les dimensions rituelles, les cadres temporels et les effets sociaux de chaque tradition doivent rester distincts.
+
+Dans le cas babylonien, cette transformation matérielle légitime précisément Marduk. Son pouvoir consiste à convertir le conflit en stabilité et à faire du corps de l'adversaire une structure habitable. Une question critique demeure : l'ordre obtenu par la violence doit-il être pensé comme la réparation d'une catastrophe ou comme le signe que la souveraineté a besoin d'un ennemi vaincu ?
+
+**Source :** [Ministère français de la Culture, *Enūma eliš*](https://archeologie.culture.gouv.fr/proche-orient/fr/glossary/epopee-de-la-creation-enuma-elis).
+
+### 142. Astres et calendrier : le cosmos devient mesurable
+
+Après la victoire, Marduk organise des espaces, des points de repère et des rythmes célestes. Dans un environnement savant où l'observation des astres joue un rôle considérable, le poème rapproche l'ordre religieux et la mesure du temps. Les étoiles et les divisions temporelles permettent de comprendre la régularité de phénomènes qui dépassent l'existence individuelle.
+
+Il serait erroné de considérer ces passages comme de l'astronomie moderne sous une forme déguisée. Les méthodes de l'observation mésopotamienne, les savoirs calendaires, les procédures divinatoires et les représentations poétiques appartiennent à des genres qu'il faut analyser distinctement. Le poème crée un horizon d'intelligibilité dans lequel l'organisation des astres fait partie de la puissance de Marduk.
+
+L'idée forte est que le pouvoir cosmique ne se manifeste pas seulement dans l'instant spectaculaire de la bataille. Il se prouve dans la répétition du monde : alternance des jours, reconnaissance des périodes, maintien des repères et possibilité pour les communautés d'ordonner leurs activités.
+
+**Sources :** Lambert, *Babylonian Creation Myths* ; [Metropolitan Museum](https://www.metmuseum.org/fr/essays/epic-of-creation-mesopotamia).
+
+### 143. La naissance de l'humanité : la continuité et le déplacement des traditions
+
+Dans *Enūma eliš*, la création des humains est associée à la fin du conflit divin et à la nécessité d'assurer le service des dieux. Ea joue un rôle déterminant et le sang de Kingu intervient dans le récit. Les formulations et responsabilités diffèrent des versions sumériennes associées à Namma et à Ninmah.
+
+Ce déplacement est historiquement instructif : le motif de l'homme façonné pour le travail demeure, mais sa place narrative et sa matière changent. La création humaine devient un moment de la consécration du nouvel ordre mardukien. L'être humain est introduit dans une organisation cosmique déjà hiérarchisée.
+
+La conséquence ne doit pas être simplifiée. Les textes mésopotamiens connaissent aussi les humains comme suppliants, justes, souffrants, aimés ou protégés. Le service rendu aux dieux est une dimension importante, non l'unique résumé possible de l'anthropologie religieuse. Une encyclopédie comparative doit juxtaposer les œuvres sans annuler les tensions qui les traversent.
+
+**Sources :** [Ministère français de la Culture](https://archeologie.culture.gouv.fr/proche-orient/fr/glossary/epopee-de-la-creation-enuma-elis) ; [Oxford Research Encyclopedia of Religion](https://academic.oup.com/edited-volume/62249/chapter-abstract/551362764).
+
+### 144. Les cinquante noms : nommer, c'est distribuer les prérogatives
+
+La dernière partie du poème glorifie Marduk par une série de noms et de titres. Leur accumulation ne relève pas seulement de la poésie ornementale. La nomination rassemble et réorganise des attributs divins autour d'une figure prééminente. Le texte produit ainsi une forme de synthèse théologique où l'exaltation d'un dieu renforce la cohérence de l'ensemble du panthéon.
+
+Cet exemple interdit une opposition trop rigide entre polythéisme et concentration du divin. Des panthéons multiples peuvent reconnaître un dieu dominant et lui attribuer les qualités de nombreuses autres puissances, sans effacer toutes les identités des autres dieux. Il ne s'agit pas, pour autant, de monothéisme au sens strict : la pluralité divine reste constitutive du récit.
+
+Les noms constituent un instrument conceptuel. Ils disent ce que le dieu accomplit, d'où il tient son autorité et comment il doit être loué. Le savoir théologique devient aussi une pratique de classement et de mémoire, inscrite dans le travail des spécialistes de l'écriture.
+
+**Source :** Lambert, *Babylonian Creation Myths* ; [Metropolitan Museum](https://www.metmuseum.org/fr/essays/epic-of-creation-mesopotamia).
+
+### 145. L'Akītu : réciter le monde et renouveler le pouvoir
+
+L'épopée a été associée au festival babylonien de l'Akītu, célébration dont les formes ont varié selon les époques et les cités. Il faut éviter de présenter comme directement attestée pour toutes les périodes une cérémonie immuable dans laquelle chaque vers de l'*Enūma eliš* aurait obligatoirement été récité. Les données rituelles et les reconstructions modernes ne coïncident pas toujours.
+
+Le rapprochement reste significatif : le récit qui explique la souveraineté de Marduk peut être activé dans un cadre cérémoniel où la royauté humaine et la vie de la cité sont également en jeu. La répétition rituelle ne se contente pas de commémorer un passé ; elle peut contribuer à rendre présent et légitime un ordre institutionnel.
+
+Pour MYTHOS, ce chapitre relie deux processus que les tomes précédents étudiaient séparément : la stabilité du calendrier collectif et l'interprétation mythique des origines. Lorsque la parole rituelle possède une forme transmissible, le temps du récit et celui de la cité peuvent se répondre sans être confondus.
+
+**Sources :** Lambert, *Babylonian Creation Myths* ; [Cuneiform Commentaries Project, Yale](https://ccp.yale.edu/P365300).
+
+### 146. Marduk et Babylone : la théologie comme discours de centralité
+
+Une ville dominante ne possède pas seulement des remparts et des institutions. Elle peut chercher à se représenter comme un centre reconnu du monde, en rapport avec un ordre cosmique. Dans l'*Enūma eliš*, l'ascension de Marduk accompagne la prétention de Babylone à la primauté religieuse, en particulier par rapport aux traditions liées à Nippur et à Enlil.
+
+L'hypothèse d'une composition vers la fin du XIIe siècle avant notre ère inscrit l'œuvre dans une histoire politique, mais ne signifie pas que l'on puisse attribuer chaque vers à un événement précis. Les textes antiques ne fonctionnent pas comme des communiqués gouvernementaux. Ils peuvent être copiés, recontextualisés, adaptés et interprétés pendant des siècles.
+
+Le poème montre néanmoins comment un récit cosmique peut naturaliser la prééminence d'un centre urbain. Ce qui est raconté comme une nécessité de l'univers peut soutenir la légitimité d'un ordre humain particulier. La question politique se prolonge alors dans la question herméneutique : qui a intérêt à raconter ce commencement, et dans quel cadre est-il entendu ?
+
+**Sources :** [Metropolitan Museum, étude de l'*Enūma eliš*](https://www.metmuseum.org/fr/essays/epic-of-creation-mesopotamia) ; Lambert, *Babylonian Creation Myths*.
+
+## TROISIÈME PARTIE — ÉGYPTE : LES MULTIPLES MANIÈRES DE FAIRE SURGIR LE MONDE
+
+### 147. Noun : l'immensité liquide, sans être un simple « rien »
+
+Les mythes égyptiens décrivent souvent un état antérieur à la différenciation du cosmos. Noun désigne les eaux premières, un milieu sans les limites qui structurent le monde habité. On aurait tort de l'assimiler directement au néant philosophique : la possibilité de l'émergence est déjà contenue dans cette immensité. Le motif égyptien emprunte une force particulière à l'expérience du Nil, dont la crue recouvrait les terres puis laissait réapparaître des surfaces fertiles.
+
+L'eau primordiale ne disparaît pas complètement après la création. Elle demeure, dans diverses conceptions, sous ou autour du monde. Cette permanence distingue une cosmogonie d'émergence d'une histoire dans laquelle une matière ancienne serait purement supprimée.
+
+La comparaison avec Apsû et Tiamat est éclairante à condition de ne pas rechercher une même généalogie ou une même intrigue. En Égypte, la personnification des eaux premières n'exige pas un combat identique à celui de Marduk. Les ressemblances portent d'abord sur une image de potentialité cosmique et sur l'association entre eau et naissance de l'ordre.
+
+**Sources :** [University College London, *Gods and goddesses: creation*](https://www.ucl.ac.uk/museums-static/digitalegypt/religion/deitiescreation.html) ; [Global Egyptian Museum, Noun](https://www.globalegyptianmuseum.org/glossary.aspx?id=274).
+
+### 148. L'Ogdoade : quatre couples pour penser l'avant-monde
+
+Les traditions associées à l'Ogdoade décrivent huit puissances groupées en quatre couples. La documentation présente des formes variables : Noun et Naunet, Heh et Hehet, Kek et Keket, ainsi que, selon les versions, Tenem et Tenemet ou Amon et Amonet. Il s'agit de figurer des caractères de la situation primordiale : étendue des eaux, infinité, obscurité, indétermination ou invisibilité.
+
+L'attribution conventionnelle de l'Ogdoade à Hermopolis, la ville égyptienne de Khéménou (« les Huit »), est utile, mais son origine historique et les modalités de sa diffusion demeurent discutées. La présence de ces couples ne prouve pas l'existence d'un texte unique intitulé « Cosmogonie hermopolitaine » au sens d'une composition canonique.
+
+L'intérêt théologique réside dans cette pluralité : avant que le monde ne soit formé, des puissances distinctes permettent déjà de penser ses conditions d'émergence. La multiplicité ne décrit pas des individus psychologiques ; elle peut rendre visibles des propriétés ou aspects de l'état primordial.
+
+**Source :** [UCL, notice critique sur les cosmogonies égyptiennes](https://www.ucl.ac.uk/museums-static/digitalegypt/religion/deitiescreation.html).
+
+### 149. Atoum : créer par soi-même et susciter la première génération
+
+Dans les traditions dites héliopolitaines, Atoum émerge des eaux premières et inaugure la génération des dieux. Ses gestes créateurs peuvent être décrits à travers différents procédés corporels, dont l'expulsion ou l'émission de substances. Ces images ne doivent pas être censurées au nom de la convenance moderne : elles appartiennent à un monde de pensée où le corps divin est un moyen d'expliquer la naissance de formes nouvelles.
+
+Atoum est associé à la totalité et à l'accomplissement. Sa proximité avec Rê, le soleil, prend des formes variables selon les périodes ; les noms d'Atoum et de Rê ne sont pas systématiquement interchangeables, même lorsqu'une synthèse les rapproche. La cosmogonie est aussi une théologie solaire : la lumière qui surgit rend le monde visible, manifeste son rythme et inaugure la distinction entre apparition et disparition.
+
+Les représentations de la création par Atoum sont attestées dans les traditions textuelles, notamment celles des Textes des Pyramides. Une présentation rigoureuse doit les situer dans leurs supports et périodes plutôt que de les reconstruire comme un traité rédigé à Héliopolis puis recopié partout sans changement.
+
+**Sources :** [Global Egyptian Museum, Atoum](https://www.globalegyptianmuseum.org/glossary.aspx?id=79) ; [UCL](https://www.ucl.ac.uk/museums-static/digitalegypt/religion/deitiescreation.html).
+
+### 150. Shou et Tefnout : naissance de l'air et principe de différenciation
+
+À la première génération d'Atoum appartiennent Shou et Tefnout. Shou est généralement associé à l'air, à l'espace séparant ciel et terre ; les fonctions de Tefnout sont plus difficiles à réduire à un seul mot moderne, même si l'humidité fait partie de ses associations courantes. Leurs descendants Geb et Nout permettent d'articuler terre et ciel.
+
+Dans plusieurs représentations, Shou maintient Nout au-dessus de Geb. L'image offre un exemple saisissant de la manière dont un corps divin peut être simultanément personnage et principe spatial. L'ordre n'existe pas par effacement des puissances : il dépend des relations qui les tiennent à distance et les unissent.
+
+La représentation peut être rapprochée des récits de séparation du ciel et de la terre connus de Sumer. Mais le mode d'énonciation diffère : la relation entre les figures égyptiennes est souvent comprise à travers des généalogies, des scènes iconographiques et des allusions rituelles plutôt que par une épopée continue. Le mythe se donne parfois à voir sous la forme d'une configuration de dieux.
+
+**Source :** [UCL, création divine en Égypte](https://www.ucl.ac.uk/museums-static/digitalegypt/religion/deitiescreation.html).
+
+### 151. Geb et Nout : le cosmos comme généalogie et comme espace
+
+Geb, la terre, et Nout, le ciel, forment une autre génération dans les représentations héliopolitaines. Leur union et leur séparation ouvrent à la naissance d'Osiris, Isis, Seth et Nephthys dans les reconstructions usuelles de l'Ennéade. Les formes exactes des groupes divins sont diverses, et leur compilation en liste rigoureusement ordonnée est en partie une opération moderne.
+
+L'historien doit être attentif à deux lectures possibles. La généalogie explique l'apparition successive de puissances ; la représentation du ciel courbé au-dessus de la terre fournit une image de l'espace cosmique. Il n'est pas nécessaire de choisir : la force du langage mythique réside précisément dans la capacité d'un même récit à relier parenté, architecture du monde et opérations divines.
+
+La souveraineté égyptienne se déploie ensuite à travers les conflits d'Horus et de Seth, la mort d'Osiris et la transmission d'un pouvoir légitime. Le mythe des origines n'est pas coupé de la royauté : il peut offrir un cadre dans lequel l'histoire politique se représente comme maintien d'un ordre plus ancien.
+
+**Sources :** [UCL, création égyptienne](https://www.ucl.ac.uk/museums-static/digitalegypt/religion/deitiescreation.html) ; Erik Hornung, *Conceptions of God in Ancient Egypt*.
+
+### 152. Le Benben, le lotus et le premier soleil : plusieurs images du commencement
+
+La première terre sortie des eaux peut être représentée sous la forme d'une butte primordiale. Dans d'autres formulations, un lotus surgit, ou un oiseau est associé à l'émergence de la lumière. Les motifs ne constituent pas des « versions concurrentes » devant lesquelles un théologien aurait dû choisir exclusivement. Les temples et les textes égyptiens mobilisent des images multiples, souvent compatibles selon leur fonction.
+
+Le modèle de la butte rappelle l'apparition saisonnière de la terre après les crues. Celui du lotus souligne l'épanouissement et l'ouverture au soleil. L'oiseau renvoie à d'autres associations de mouvement, de présence et de manifestation. La création est représentée comme une transition du caché vers le visible.
+
+La notion de « première fois » (*zep tepy*) exprime la valeur du commencement primordial dans des contextes égyptiens. Les rites peuvent entretenir une relation symbolique avec ce commencement, sans que l'on puisse attribuer à chaque scène religieuse une reconstitution directe d'un événement cosmogonique.
+
+**Source :** [UCL, cosmogonie et images de la création](https://www.ucl.ac.uk/museums-static/digitalegypt/religion/deitiescreation.html).
+
+### 153. Ptah : fabriquer le monde par la pensée et la parole
+
+La théologie memphite confère à Ptah un rôle créateur fondamental. Dans le texte transmis par la pierre de Chabaka, des passages associent le cœur, siège de la pensée dans les conceptions égyptiennes, et la langue qui exprime ou accomplit. La création n'est plus seulement figurée comme naissance corporelle ou émergence d'une butte : elle peut être pensée comme une opération de conception et de formulation.
+
+La pierre conservée au British Museum a été inscrite sous la XXVe dynastie, vers le début du VIIe siècle avant notre ère. Son introduction prétend recopier un document ancien endommagé. La datation de la composition et la portée de ce récit de découverte font débat. On ne peut donc pas présenter sans précaution la théologie memphite telle qu'elle nous est transmise comme une doctrine du début du IIIe millénaire.
+
+Le rapprochement avec le *logos* grec et les théologies de la parole créatrice est intellectuellement stimulant, mais doit être signalé comme analogie comparative, et non comme preuve de transmission directe. La pensée de Ptah appartient d'abord à la langue et au contexte égyptiens.
+
+**Sources :** [British Museum, pierre de Chabaka EA498](https://www.britishmuseum.org/collection/object/Y_EA498) ; [UCL, création égyptienne](https://www.ucl.ac.uk/museums-static/digitalegypt/religion/deitiescreation.html).
+
+### 154. Le palimpseste de la pierre de Chabaka : l'ancienneté proclamée et l'ancienneté démontrée
+
+La pierre de Chabaka mérite une étude méthodologique autonome. Sa partie supérieure rapporte la volonté du souverain de sauver un ancien texte qui se dégradait. L'objet a, plus tard, été utilisé comme meule, ce qui a gravement altéré une partie des inscriptions. Nous possédons donc un document politiquement situé, matériellement endommagé et théologiquement élaboré.
+
+Une inscription qui se présente comme copie d'une sagesse des ancêtres ne garantit pas que la formulation conservée remonte intégralement à cette époque. La référence à l'ancien peut légitimer un texte, comme elle peut correspondre à une véritable opération de restauration. Les chercheurs évaluent le vocabulaire, les formes grammaticales, les parallèles et les contextes au lieu de choisir mécaniquement entre « vérité » et « invention ».
+
+La leçon générale dépasse l'égyptologie : une source est toujours un témoignage sur le moment où elle est écrite, même lorsqu'elle raconte un passé très ancien. Pour l'historien de la religion, l'autorité que le texte attribue aux origines fait elle-même partie du phénomène étudié.
+
+**Sources :** [British Museum, EA498](https://www.britishmuseum.org/collection/object/Y_EA498) ; recherches historiographiques sur la théologie memphite.
+
+### 155. Khnoum : l'atelier du potier et la formation de la personne
+
+Khnoum, figuré avec une tête de bélier, possède plusieurs lieux de culte majeurs, notamment Éléphantine et Esna. Il est associé à la fabrication des êtres à la manière d'un potier travaillant l'argile. Des textes et représentations le montrent en train de façonner l'humain et son *ka*, ou de participer au développement de l'enfant à naître.
+
+L'image du tour de potier fait immédiatement penser à la formation de l'homme dans la Mésopotamie ancienne. La similitude ne peut suffire à désigner un emprunt. La manipulation de l'argile est une expérience technique répandue dans de nombreuses sociétés et fournit naturellement des métaphores de formation. Pour soutenir une transmission, il faudrait disposer d'indices historiques plus précis.
+
+L'intérêt du cas égyptien réside dans le caractère pluriel de la création : Atoum engendre, Ptah conçoit et formule, Khnoum modèle. Ces opérations ne sont pas nécessairement les étapes d'une chaîne unique ; elles représentent des manières différentes de penser la puissance créatrice dans des cadres cultuels distincts.
+
+**Sources :** [Rijksmuseum van Oudheden, relief de Khnoum](https://www.rmo.nl/en/collectie/aanwinsten/khnum-egyptian-creator-god/) ; [Global Egyptian Museum, Khnoum](https://globalegyptianmuseum.org/glossary.aspx?id=211).
+
+### 156. Maât : le monde créé doit être continuellement maintenu
+
+Maât renvoie à un ensemble de valeurs et de pratiques que les traductions « vérité », « justice », « rectitude » et « ordre » ne recouvrent qu'imparfaitement. L'association entre ordre cosmique et conduite humaine est capitale, particulièrement dans les discours de royauté. Un cosmos n'est pas seulement créé une fois ; il doit rester habitable, équilibré et légitime.
+
+La représentation de Pharaon offrant Maât aux dieux exprime cette responsabilité. Ce n'est pas la simple image d'un roi inventant la justice selon son caprice. L'ordre qu'il prétend maintenir le dépasse et sert aussi de norme à laquelle son action est rapportée. Il importe de distinguer les idéaux officiels des pratiques politiques réelles, qui pouvaient être conflictuelles ou violentes.
+
+On peut comparer Maât à l'organisation des destinées dans la littérature mésopotamienne et aux *timai* réparties entre les dieux grecs, mais sans conclure à un principe identique partagé par tout le Proche-Orient. Chaque terme appartient à des textes, à une langue et à une institution.
+
+**Sources :** Jan Assmann, *The Search for God in Ancient Egypt* ; [UCL, systèmes religieux égyptiens](https://www.ucl.ac.uk/museums-static/digitalegypt/religion/deitiescreation.html).
+
+### 157. Apophis et la traversée nocturne : le désordre n'est jamais définitivement aboli
+
+Dans les représentations du parcours nocturne solaire, le serpent Apophis incarne une menace contre la continuité de la marche du soleil. Les combats et gestes protecteurs liés à cette opposition doivent être étudiés dans leurs contextes textuels et rituels, notamment les livres funéraires et les compositions du Nouvel Empire et d'époques ultérieures.
+
+La comparaison avec Tiamat montre une différence structurante. Dans *Enūma eliš*, l'élimination de Tiamat permet l'architecture du monde et légitime un nouveau roi des dieux. Dans les cycles égyptiens, la menace contre la course solaire peut se manifester de nouveau : l'ordre exige des efforts récurrents. Les deux phénomènes sont souvent rapprochés sous la catégorie « combat contre le chaos », mais leurs temporalités narratives ne coïncident pas.
+
+Cette distinction conduit à une thèse philosophique : la stabilité peut être racontée soit comme l'effet d'une victoire originaire, soit comme le résultat d'un entretien quotidien. Beaucoup de traditions combinent, à des degrés variables, fondation et préservation.
+
+**Sources :** Erik Hornung, *The Ancient Egyptian Books of the Afterlife* ; Jan Assmann, *Egyptian Solar Religion in the New Kingdom*.
+
+## QUATRIÈME PARTIE — OUGARIT, HOURRITES ET HITTITES : LE POUVOIR SE CONQUIERT
+
+### 158. Ougarit : une bibliothèque de dieux au carrefour du Levant
+
+Les tablettes de Ras Shamra, l'ancienne Ougarit sur la côte syrienne, ont profondément renouvelé l'histoire des religions du Proche-Orient. Elles présentent une littérature religieuse en langue ougaritique, écrite au moyen d'un alphabet cunéiforme. Le corpus date pour l'essentiel de l'âge du Bronze récent, notamment des XIVe–XIIIe siècles avant notre ère et jusqu'à la destruction de la cité au début du XIIe.
+
+Le *Cycle de Baal* montre des dieux qui négocient, combattent, construisent un palais et traversent des crises. Les tablettes ne sont pas un traité de philosophie ; ce sont des textes littéraires dont le contexte de performance est encore discuté. Leur présence dans les milieux palatiaux et lettrés ne signifie pas que chaque habitant d'Ougarit récitait ou interprétait leurs épisodes de la même manière.
+
+Leur importance comparative est immense. Elles rendent possible l'étude des traditions ouest-sémitiques avant les grandes compilations bibliques. Il faut cependant distinguer parentés de langues, circulations de motifs, analogies et emprunts directs, qui ne présentent pas le même degré de preuve.
+
+**Source :** [Ministère français de la Culture, Ougarit et le Cycle de Baal](https://archeologie.culture.gouv.fr/ougarit/fr/le-cycle-de-baal).
+
+### 159. El, Athirat et l'assemblée divine : le père ne règne pas toujours par la force
+
+El apparaît dans les traditions ougaritiques comme une figure senior du panthéon, liée à l'autorité et à la délibération. Athirat joue un rôle important dans les relations entre dieux et dans certaines négociations. La souveraineté divine ne s'exerce pas uniquement par le duel d'un dieu de l'orage. Elle peut passer par des décisions, des requêtes et une reconnaissance de rang.
+
+Cette pluralité des formes de pouvoir permet de comprendre l'ascension de Baal. Le dieu de l'orage possède une puissance guerrière et météorologique ; elle ne lui donne pas automatiquement toutes les prérogatives que le récit lui attribuera. Le palais qu'il souhaite construire représente une forme de consécration publique de son statut.
+
+Il faut éviter d'identifier trop rapidement El au Dieu de tous les passages bibliques, ou Athirat à toutes les figures désignées sous le nom d'Ashéra à d'autres époques. Les continuités linguistiques et religieuses existent, mais sont travaillées par des évolutions et des contestations historiques.
+
+**Sources :** Mark S. Smith, *The Ugaritic Baal Cycle* ; [Ministère de la Culture, Ougarit](https://archeologie.culture.gouv.fr/ougarit/fr/le-cycle-de-baal).
+
+### 160. Baal contre Yamm : la souveraineté et le pouvoir de l'orage
+
+Baal, appelé « Chevaucheur des Nuées » dans la documentation ougaritique, affronte Yamm, la Mer, également désigné comme Nahar, le Fleuve, dans des passages du cycle. Kothar-wa-Hasis, artisan divin, fabrique les armes qui rendent possible la victoire. Le combat oppose des puissances personnelles, mais concerne aussi des domaines naturels et des prétentions concurrentes à la royauté.
+
+La scène manifeste un rapport entre temps météorologique, survie des communautés et organisation politique du panthéon. Sur une côte dont l'économie dépend de rythmes climatiques, le dieu de l'orage reçoit une force symbolique particulière. Il serait toutefois excessif de réduire tout le cycle à une simple « allégorie de la pluie » : le palais, les diplomaties entre dieux et la mort de Baal dépassent un mécanisme saisonnier unique.
+
+Comparé à Marduk contre Tiamat, Baal contre Yamm révèle la récurrence du conflit entre dieu souverain et puissance maritime. Mais Tiamat et Yamm n'ont pas la même généalogie, le même rôle narratif ni la même destinée. Il existe des traditions voisines, non des doubles parfaitement superposables.
+
+**Source primaire et traduction :** [Le Cycle de Baal, Ministère de la Culture](https://archeologie.culture.gouv.fr/ougarit/fr/le-cycle-de-baal).
+
+### 161. Le palais de Baal : l'architecture garantit une dignité divine
+
+La construction d'un palais pour Baal constitue une séquence majeure du cycle. Une divinité victorieuse doit encore obtenir la reconnaissance institutionnelle et architecturale de son rang. Ce déplacement du champ de bataille vers la construction est essentiel : le pouvoir doit disposer d'un lieu, d'un seuil et d'une visibilité. L'artisan Kothar-wa-Hasis intervient dans une création qui est aussi technique.
+
+Le palais est une métaphore politique, mais il ne faut pas oublier la réalité des architectures palatiales et des maisons divines de l'âge du Bronze. La divinité est pensée à travers des analogies de souveraineté et de résidence connues des sociétés humaines. L'ordre des dieux se laisse représenter par des espaces.
+
+La comparaison avec les temples mésopotamiens et égyptiens peut mettre en évidence un processus commun d'institutionnalisation : un sanctuaire donne une durée matérielle à des relations cultuelles. Elle ne démontre pas pour autant qu'un modèle architectural unique aurait été diffusé d'une source commune à toutes les régions.
+
+**Source :** [Ougarit, *Le cycle de Baal*](https://archeologie.culture.gouv.fr/ougarit/fr/le-cycle-de-baal).
+
+### 162. Baal et Mot : le dieu puissant rencontre sa limite
+
+Après la victoire sur la Mer et l'épisode du palais, Baal entre en conflit avec Mot, puissance liée à la Mort. Le récit dramatise une limite que la victoire militaire sur Yamm n'avait pas supprimée. La puissance de l'orage ne suffit pas à garantir une souveraineté sans interruption. Anat tient un rôle déterminant dans cette partie complexe du cycle.
+
+Il est devenu courant de décrire le récit comme une « mythologie de la végétation » fondée sur la disparition saisonnière et le retour de Baal. Une telle lecture éclaire certains rapports possibles entre pluie, sécheresse et croissance, mais risque de produire un système plus cohérent que les tablettes fragmentaires elles-mêmes. Le sens du cycle ne se laisse pas réduire à un calendrier agricole.
+
+Le point philosophique est plus large : la souveraineté possède un adversaire qui ne se résume pas à un ennemi politique. Mot confronte le dieu à l'extinction, à la perte et à l'incertitude du retour. Les mythes se mettent ainsi à penser les limites de la domination.
+
+**Sources :** [Ministère de la Culture](https://archeologie.culture.gouv.fr/ougarit/fr/le-cycle-de-baal) ; Mark S. Smith, *The Ugaritic Baal Cycle*.
+
+### 163. Kumarbi : une succession de rois célestes par le renversement
+
+Dans la tradition hourro-hittite appelée aujourd'hui *Chant de l'Émergence* (*Song of Emergence*), autrefois souvent désignée « Chant de Kumarbi », la souveraineté se transmet à travers une série de renversements violents. Alalu est supplanté par Anu, puis Kumarbi attaque Anu ; cette agression, impliquant les organes génitaux d'Anu, conduit à la gestation et à l'apparition de nouveaux dieux, dont Teššub, puissance de l'orage.
+
+Le texte nous parvient en langue hittite et renvoie à des traditions hourrites. Il est fragmentaire. Les reconstructions du détail des naissances doivent donc être présentées avec réserve. Les éléments de structure sont néanmoins suffisamment clairs pour permettre une comparaison précise avec Hésiode : suite de rois divins, acte violent contre le prédécesseur, reproduction irrégulière et accession finale d'un dieu de l'orage.
+
+Les travaux contemporains discutent les lieux et les milieux de performance du cycle, notamment sur la côte nord du Levant et autour du mont Hazzi/Kasios. Le passage vers les traditions grecques a pu emprunter plusieurs voies ; en identifier une seule comme certaine serait aller trop loin.
+
+**Sources :** [Amir Gilan, « Song of Emergence », Cambridge (2021)](https://www.cambridge.org/core/books/abs/gods-and-mortals-in-early-greek-and-near-eastern-mythology/let-those-important-primeval-deities-listen/FA8170F4513E55A7439243E58C28B23A) ; [Cambridge, introduction à la *Théogonie*](https://assets.cambridge.org/97811070/97384/excerpt/9781107097384_excerpt.pdf).
+
+### 164. Ullikummi : la menace de pierre contre le dieu de l'orage
+
+Le récit d'Ullikummi, associé au cycle de Kumarbi, met en scène un adversaire extraordinaire, une créature de pierre dont la croissance constitue une menace pour la souveraineté de Teššub. Le récit souligne les limites de la force guerrière et la nécessité d'interventions ou de savoirs plus anciens pour vaincre une menace qui dépasse les moyens ordinaires du souverain.
+
+La place de la pierre est un détail qu'il ne faut pas effacer par les traductions vagues du mot « monstre ». L'adversaire possède une matérialité spécifique ; il rappelle que l'ordre divin peut être mis en question par des puissances extérieures à l'univers ordinaire des combats. Dans ces traditions, la souveraineté du dieu de l'orage reste contestable.
+
+On compare parfois Ullikummi à Typhon dans le monde grec. Les ressemblances de structure et de fonction sont indéniables, sans constituer une preuve que toutes les scènes de Typhon dérivent de cet épisode. Une étude comparée sérieuse doit analyser les correspondances précises et les discordances, pas seulement employer l'étiquette du « géant primordial ».
+
+**Sources :** [Cambridge, *Hesiod: Theogony*, introduction](https://assets.cambridge.org/97811070/97384/excerpt/9781107097384_excerpt.pdf) ; H. A. Hoffner, *Hittite Myths*.
+
+## CINQUIÈME PARTIE — HÉSIODE : UN ORDRE NOUVEAU À PARTIR DES ANCIENS RÉCITS
+
+### 165. Chaos, Gaia, Tartare et Éros : les premiers termes ne sont pas des éléments modernes
+
+Vers la fin du VIIIe ou au début du VIIe siècle avant notre ère, la *Théogonie* d'Hésiode raconte la naissance et la succession des dieux. Les premiers êtres ou principes présentés sont Chaos, Gaia, Tartare et Éros. Traduire *Chaos* comme le « désordre » moderne est trompeur : le terme peut évoquer une béance ou une ouverture. Gaia ne représente pas seulement une matière inerte ; elle est une puissance engendrante. Éros joue un rôle d'impulsion et de liaison, bien antérieur à la seule figure tardive de l'enfant ailé.
+
+Le poète ne livre pas un traité abstrait de physique. Son récit donne des généalogies à des réalités spatiales, temporelles et divines. La création n'est pas nécessairement une décision unique : elle procède de générations, d'unions et de conflits, parmi lesquels les honneurs et pouvoirs des êtres immortels doivent trouver leur répartition.
+
+L'originalité de l'œuvre tient aussi à son prologue : les Muses donnent au poète l'autorité de chanter les origines. La question « comment l'ordre du monde existe-t-il ? » est donc inséparable de « qui peut en dire la vérité ? ».
+
+**Sources primaires :** [Hésiode, *Théogonie*, traduction et texte, Center for Hellenic Studies](https://chs.harvard.edu/primary-source/hesiod-theogony-sb/) ; [Theoi, *Theogony*](https://www.theoi.com/Text/HesiodTheogony.html).
+
+### 166. De Cronos à Zeus : la succession violente devient un ordre durable
+
+La suite hésiodique met en scène Ouranos retenant ses enfants, l'action de Gaia, puis Cronos mutilant son père. Cronos, qui redoute à son tour d'être dépossédé, avale ses enfants ; Rhéa préserve Zeus en lui substituant une pierre. Parvenu à l'âge de combattre, Zeus impose sa puissance, affronte les Titans, puis Typhon, et distribue les honneurs divins. L'ordre olympien doit être conquis et ensuite stabilisé.
+
+La parenté du scénario avec le cycle hourro-hittite de Kumarbi figure parmi les comparaisons les plus solides entre mythologies du Proche-Orient et de Grèce ancienne : renversement du souverain céleste, violence générationnelle, naissances extraordinaires et prééminence du dieu de l'orage. Les voies et les modalités exactes de transmission restent néanmoins débattues. Hésiode n'a pas simplement traduit un texte hittite ; il a élaboré une construction poétique grecque dont les enjeux sont propres.
+
+Ce récit peut être lu comme une réflexion sur le problème de toute souveraineté : comment un pouvoir né de la victoire peut-il éviter d'être renversé selon la même logique ? La réponse hésiodique associe force, intelligence, alliances et répartition des fonctions. Avec Métis, Thémis et les autres figures entourant le souverain, Zeus consolide un ordre qui ne repose pas exclusivement sur sa supériorité guerrière.
+
+Le tome V aboutit à une proposition : **les cosmogonies sont aussi des histoires de légitimité**. Elles montrent comment un monde peut être décrit comme juste, habitable et transmissible, même lorsqu'il a surgi de conflits violents. Cette proposition relève de l'analyse comparée ; elle ne doit pas abolir l'irréductible diversité de chaque tradition.
+
+**Sources :** [Hésiode, *Théogonie*, Center for Hellenic Studies](https://chs.harvard.edu/primary-source/hesiod-theogony-sb/) ; [A. Gilan, Cambridge, 2021](https://www.cambridge.org/core/books/abs/gods-and-mortals-in-early-greek-and-near-eastern-mythology/let-those-important-primeval-deities-listen/FA8170F4513E55A7439243E58C28B23A) ; Stephen Scully, *Hesiod's Theogony* (Oxford, 2015).
+
+# ANNEXE I — TABLEAU COMPARATIF CRITIQUE
+
+| Tradition et principaux témoins | Situation première | Modalité d'ordonnancement | Acteur(s) | Rapport avec le pouvoir | Point de vigilance |
+|---|---|---|---|---|---|
+| Sumer, *Enki et Ninmah* (copies surtout paléo-babyloniennes) | Monde divin déjà constitué, travail pénible | Modelage de l'être humain et assignation des tâches | Namma, Enki, Ninmah | Hiérarchies du travail et destinées | Ce texte ne décrit pas toute l'origine de l'univers |
+| Sumer, *Gilgamesh, Enkidu et les Enfers* | Monde primordial décrit rétrospectivement | Séparation et attribution des domaines | An, Enlil, Ereshkigal | Distribution cosmique | Prologue d'une œuvre composite, non « bible » sumérienne |
+| Babylone, *Enūma eliš* | Eaux primordiales, généalogies et crises | Guerre, fabrication du monde, reconnaissance de Marduk | Apsû, Tiamat, Ea, Marduk, Kingu | Primauté cultuelle de Babylone | Ne pas appeler Tiamat simple « chaos impersonnel » |
+| Égypte, traditions héliopolitaines | Noun, eaux premières | Émergence et générations divines | Atoum, Shou, Tefnout, Geb, Nout | Ordre royal et cosmique | Reconstruction à partir de témoins variés |
+| Égypte, Ogdoade | Quatre couples primordiaux variables | Conditions de la manifestation cosmique | Noun/Naunet, Heh/Hehet, etc. | Savoir cultuel local | Ni date d'origine, ni composition canonique garanties |
+| Égypte, pierre de Chabaka | Ensembles théologiques antérieurs | Pensée et formulation créatrice | Ptah | Savoir et centralité memphite | Stèle tardive ; ancienneté de la composition discutée |
+| Ougarit, *Cycle de Baal* | Panthéon et royautés contestées | Combat, palais, crise face à Mot | El, Athirat, Baal, Yamm, Mot, Anat | Royauté divine négociée | Corpus fragmentaire, pas simple allégorie de saison |
+| Hourro-Hittite, *Chant de l'Émergence* | Succession de rois célestes | Renversements, naissances anormales | Alalu, Anu, Kumarbi, Teššub | Souveraineté du dieu de l'orage | Texte fragmentaire ; transmission vers la Grèce probable, route discutée |
+| Grèce, Hésiode, *Théogonie* | Chaos, Gaia, Tartare, Éros | Engendrements, guerre, répartition des *timai* | Ouranos, Cronos, Zeus et autres | Stabilisation de l'ordre olympien | Ne pas réduire Hésiode à une traduction orientale |
+
+# ANNEXE II — CHRONOLOGIE ET NIVEAUX DE CERTITUDE
+
+- **IIIe millénaire av. J.-C.** : attestations égyptiennes des Textes des Pyramides à partir de la fin de la Ve dynastie. Les traditions antérieures ne sont pas datables uniquement par ces attestations.
+- **Début du IIe millénaire av. J.-C.** : très nombreux manuscrits sumériens littéraires conservés dans les milieux scribaux paléo-babyloniens ; certaines traditions sont plus anciennes mais leur antiquité exacte varie.
+- **IIe millénaire av. J.-C.** : textes akkadophones d'*Atrahasis* et développement de diverses traditions babyloniennes.
+- **XIVe–XIIIe siècles av. J.-C.** : attestations du cycle mythologique hourro-hittite dans la documentation de Hattusa, et grande littérature ougaritique de l'âge du Bronze récent.
+- **Fin du XIIe siècle av. J.-C. environ** : datation de composition souvent proposée pour *Enūma eliš* ; des manuscrits conservés sont plus tardifs.
+- **VIIIe–VIIe siècles av. J.-C.** : composition usuellement située de la *Théogonie* d'Hésiode ; coexistence d'oralité poétique et de culture écrite grecque.
+- **Vers 710 av. J.-C.** : inscription de la pierre de Chabaka selon le British Museum ; la composition sous-jacente pourrait être antérieure, mais sa date exacte est contestée.
+
+# ANNEXE III — GLOSSAIRE PHILOLOGIQUE
+
+**Cosmogonie.** Récit ou configuration des origines et de l'organisation du monde ; ne signifie pas toujours création à partir du néant.
+
+**Théogonie.** Récit de naissance, de parenté et de succession des dieux ; peut comporter une cosmogonie.
+
+**Abzu / Apsû.** Terme sumérien et forme akkadienne renvoyant aux eaux profondes ; les fonctions exactes changent selon les compositions.
+
+**Namma / Nammu.** Déesse maternelle et primordiale dans certaines traditions sumériennes.
+
+**Me.** Terme sumérien désignant des puissances et éléments de l'organisation divine et culturelle ; équivalents modernes approximatifs.
+
+**Enūma eliš.** Début du poème babylonien, utilisé comme titre conventionnel.
+
+**Ogd(o)ade.** Groupe de huit puissances premières, souvent représentées en quatre couples dans les traditions égyptiennes.
+
+**Maât.** Terme et figure égyptienne associés à vérité, justice, ordre et rectitude, sans traduction univoque.
+
+**Chaos (grec Χάος).** Dans le contexte hésiodique, terme que l'on ne doit pas réduire au « désordre » moderne.
+
+**Timē (pluriel timai).** Honneur, part, privilège, domaine de reconnaissance ; central dans la répartition des prérogatives divines chez Hésiode.
+
+**Motif / emprunt / filiation.** Une ressemblance de récit est un motif commun ; l'emprunt exige une démonstration historique ; une filiation complète implique des étapes et transformations documentables.
+
+# ANNEXE IV — BIBLIOGRAPHIE SCIENTIFIQUE COMMENTÉE
+
+## Textes primaires et grands corpus
+
+1. **Black, Jeremy ; Cunningham, Graham ; Robson, Eleanor ; Zólyomi, Gábor**, *The Literature of Ancient Sumer*, Oxford University Press, 2004. Traductions fondamentales des compositions sumériennes. [ETCSL, édition en ligne](https://etcsl.orinst.ox.ac.uk/).
+2. **Lambert, W. G.**, *Babylonian Creation Myths*, Eisenbrauns, 2013. Édition philologique et étude critique majeure de l'*Enūma eliš*.
+3. **Dalley, Stephanie**, *Myths from Mesopotamia*, Oxford University Press, édition révisée, 2000. Traductions commentées de récits mésopotamiens importants.
+4. **Lambert, W. G. ; Millard, A. R.**, *Atra-ḫasīs: The Babylonian Story of the Flood*, Oxford, 1969. Édition de référence pour l'origine de l'homme et le déluge.
+5. **Pardee, Dennis**, *Ritual and Cult at Ugarit*, Society of Biblical Literature, 2002. Sources rituelles ougaritiques à distinguer des récits mythologiques.
+6. **Smith, Mark S.**, *The Ugaritic Baal Cycle*, vol. I, Brill, 1994 ; **Smith et Wayne T. Pitard**, vol. II, 2009. Édition et analyse de référence des textes.
+7. **Hoffner, Harry A. Jr.**, *Hittite Myths*, 2e éd., Society of Biblical Literature, 1998. Traductions de récits hittites et hourro-hittites.
+8. **Hésiode**, *Théogonie*, texte grec et traduction, [Center for Hellenic Studies, Harvard](https://chs.harvard.edu/primary-source/hesiod-theogony-sb/).
+
+## Égypte ancienne et histoire comparée
+
+9. **Allen, James P.**, *Genesis in Egypt: The Philosophy of Ancient Egyptian Creation Accounts*, Yale Egyptological Seminar, 1988. Étude des cosmogonies égyptiennes.
+10. **Hornung, Erik**, *Conceptions of God in Ancient Egypt: The One and the Many*, Cornell University Press, 1982. Pluralité des puissances divines et pensée religieuse.
+11. **Assmann, Jan**, *The Search for God in Ancient Egypt*, Cornell University Press, 2001. Théologie, institutions, interprétation.
+12. **Assmann, Jan**, *Egyptian Solar Religion in the New Kingdom*, Kegan Paul International, 1995. Religion solaire et organisation de la durée.
+13. **Scully, Stephen**, *Hesiod's Theogony: From Near Eastern Creation Myths to Paradise Lost*, Oxford University Press, 2015. Comparaison philosophique et littéraire.
+14. **West, M. L.**, *The East Face of Helicon: West Asiatic Elements in Greek Poetry and Myth*, Oxford University Press, 1997. Recherches comparatives majeures ; conclusions à discuter source par source.
+15. **López-Ruiz, Carolina**, *When the Gods Were Born: Greek Cosmogonies and the Near East*, Harvard University Press, 2010. Transmissions et transformations méditerranéennes.
+16. **Kelly, Adrian ; Metcalf, Christopher** (dir.), *Gods and Mortals in Early Greek and Near Eastern Mythology*, Cambridge University Press, 2021. Comparaisons récentes de haute valeur, notamment sur le *Chant de l'Émergence*.
+
+## Ressources institutionnelles consultables directement
+
+17. [University College London, *Gods and goddesses in ancient Egypt: creation*](https://www.ucl.ac.uk/museums-static/digitalegypt/religion/deitiescreation.html) : distinction méthodologique entre traditions égyptiennes et reconstructions modernes.
+18. [British Museum, pierre de Chabaka EA498](https://www.britishmuseum.org/collection/object/Y_EA498) : objet, inscription et datation.
+19. [Rijksmuseum van Oudheden, Khnoum créateur](https://www.rmo.nl/en/collectie/aanwinsten/khnum-egyptian-creator-god/) : iconographie du dieu potier.
+20. [Metropolitan Museum of Art, *Mesopotamian Creation Myths*](https://www.metmuseum.org/fr/essays/epic-of-creation-mesopotamia) : datation, structure et portée politique de l'*Enūma eliš*.
+21. [Ministère de la Culture, Ougarit : le Cycle de Baal](https://archeologie.culture.gouv.fr/ougarit/fr/le-cycle-de-baal) : textes et contexte archéologique.
+22. [Cambridge, Amir Gilan : *Song of Emergence*](https://www.cambridge.org/core/books/abs/gods-and-mortals-in-early-greek-and-near-eastern-mythology/let-those-important-primeval-deities-listen/FA8170F4513E55A7439243E58C28B23A) : débats sur les contacts gréco-orientaux.
+
+# CONCLUSION GÉNÉRALE — LE MONDE, LA PAROLE ET LE DROIT DE GOUVERNER
+
+La création, dans les documents étudiés, n'est pas un phénomène uniforme. Parfois elle relève d'un engendrement ; ailleurs d'une transformation de matière, d'une parole, d'une guerre, d'une séparation spatiale ou d'une distribution de responsabilités. Les traditions peuvent juxtaposer ces modalités sans les subsumer sous une doctrine unique. Le désir moderne de trouver « le premier mythe » tend à effacer leur diversité.
+
+L'étude comparée établit néanmoins un problème récurrent : un cosmos doit être à la fois composé et rendu habitable. Il ne suffit pas qu'il existe. Il faut que des limites différencient ses régions, que des puissances y possèdent une place, et que le temps comme les activités humaines y acquièrent une forme de stabilité. C'est pourquoi les récits de création sont si souvent des récits de souveraineté, de rivalité et de droit à gouverner.
+
+Cette conclusion ne peut être projetée sans précaution sur les grottes du Paléolithique. Aucun texte ne nous dit ce que racontaient les artisans de Hohle Fels, les peintres de Chauvet ou les constructeurs néolithiques. Le passage des tomes I–IV au présent volume ne démontre donc pas une généalogie religieuse continue. Il montre une transformation décisive de nos sources : dès que les cultures ont produit et conservé des traditions écrites, nous pouvons comparer les récits eux-mêmes, et non uniquement les traces de gestes potentiellement ritualisés.
+
+La tâche de MYTHOS est de maintenir cette double exigence : **faire comprendre les mythes dans leur puissance narrative et analyser, sans confondre les deux, les niveaux de preuve qui autorisent leur interprétation historique.**
+
+---
