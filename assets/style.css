@@ -179,3 +179,15 @@
 .origins-volume-read{font:12px/1.3 Inter,system-ui,sans-serif;color:#d6b780;margin-top:auto}
 @media(max-width:950px){.origins-landing .origins-volume-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:540px){.origins-landing .origins-volume-grid{grid-template-columns:1fr}.origins-landing .origins-volume{min-height:132px}.origins-volume-image{min-height:112px;width:34%}.origins-landing .origins-hero{min-height:240px}}
+
+/* Navigation MYTHOS : chapitres centrés, aucun débordement horizontal */
+.masthead-inner{max-width:100%;min-width:0;flex-wrap:wrap;justify-content:center;column-gap:24px;row-gap:10px}
+.masthead .brand{flex:0 0 auto}
+.masthead .site-nav{min-width:0;max-width:100%;flex:1 1 700px;display:flex;justify-content:center;align-items:center;flex-wrap:wrap;gap:4px 7px;overflow:visible;white-space:normal;padding:4px 0}
+.masthead .site-nav a{max-width:100%;white-space:normal;overflow-wrap:break-word;text-align:center;padding:8px 9px}
+@media(max-width:740px){
+ .masthead-inner{display:flex;flex-direction:column;align-items:center;padding:12px 10px}
+ .masthead .brand{padding:0;text-align:center}
+ .masthead .site-nav{flex:0 1 auto;width:100%;justify-content:center;flex-wrap:wrap;overflow:visible;white-space:normal;gap:4px}
+ .masthead .site-nav a{flex:0 1 auto;font-size:10px;line-height:1.3;padding:7px 8px;white-space:normal}
+}
