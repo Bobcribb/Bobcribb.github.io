@@ -120,3 +120,18 @@
 .museum-gallery-section,.museum-feature{scroll-margin-top:90px}
 @media(max-width:900px){.museum-objects{grid-template-columns:repeat(2,minmax(0,1fr))}.work-list{grid-template-columns:1fr}}
 @media(max-width:600px){.museum-objects{gap:12px}.museum-object img{height:160px}.museum-object figcaption{padding:10px;font-size:12px}.chapter-list{grid-template-columns:1fr}.theatre-author{padding:16px}.theatre-catalog{scroll-margin-top:145px}}
+
+
+/* MYTHOS — Lecture plein écran sans barre latérale et renvois croisés théâtre */
+.sidebar{display:none!important}
+.layout{display:block;max-width:1130px}
+.layout .content{width:100%;max-width:100%;min-width:0}
+.theatre-catalog .linked-works{grid-template-columns:repeat(2,minmax(0,1fr));gap:0 26px}
+.theatre-catalog .linked-works li{padding-bottom:17px}
+.theatre-catalog .linked-works li strong{font:600 22px/1.25 'Cormorant Garamond',Georgia,serif;color:#f1e6d0;overflow-wrap:anywhere}
+.theatre-catalog .work-links{display:flex;align-items:flex-start;gap:8px;flex-wrap:wrap;margin-top:12px}
+.theatre-catalog .work-links a{display:inline-block;padding:7px 10px;border:1px solid #75613d;background:#25221d;border-radius:4px;font:12px/1.4 Inter,system-ui,sans-serif;color:#e7c67e;text-decoration:none}
+.theatre-catalog .work-links a:last-child{border-color:#514c47;background:#1f2128;color:#e3dcd2}
+.theatre-catalog .work-links a:hover{border-color:#f2d193;color:#fff0c3}
+.museum-gallery figure img{object-position:50% 33%}
+@media(max-width:900px){.theatre-catalog .linked-works{grid-template-columns:1fr}}
