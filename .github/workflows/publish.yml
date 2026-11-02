@@ -48,6 +48,21 @@ jobs:
         run: python -m pip install -r requirements.txt
       - name: Reconstruire MYTHOS uniquement depuis GitHub
         run: python scripts/build_native.py
+      - name: Vérifier les 27 tomes des Origines du sacré avant publication
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          romans = ['i','ii','iii','iv','v','vi','vii','viii','ix','x','xi','xii','xiii','xiv','xv','xvi','xvii','xviii','xix','xx','xxi','xxii','xxiii','xxiv','xxv','xxvi','xxvii']
+          for i, roman in enumerate(romans, 1):
+              source = Path(f'chapitres/origines-du-sacre/archives-integrales/tome-{roman}.md')
+              rendered = Path(f'_site/chapitres/origines-du-sacre/archives-integrales/tome-{roman}/index.html')
+              assert source.is_file() and source.stat().st_size > 10000, f'Tome {i} : source manquante ou incomplète'
+              assert rendered.is_file() and rendered.stat().st_size > 10000, f'Tome {i} : page non générée'
+          portal = Path('_site/origines-du-sacre/index.html').read_text(encoding='utf-8')
+          for roman in romans:
+              assert f'/chapitres/origines-du-sacre/archives-integrales/tome-{roman}/' in portal, f'Lien absent : {roman}'
+          print('OK : 27 tomes complets, 27 pages générées, 27 liens dans le sommaire')
+          PY
       - name: Contrôler l'autonomie de MYTHOS
         run: |
           python - <<'PY'
