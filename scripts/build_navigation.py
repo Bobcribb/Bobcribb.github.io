@@ -463,20 +463,55 @@ def create_theatre(entries):
     ])+'</section>'
     body+='<section class="portal-section theatre-catalog" id="commentaires-vers"><h2>04 · Commentaires suivis et analyses par vers</h2>'
     body+='<p class="section-intro">Les commentaires déjà rédigés sont consultables ici : passages numérotés, scènes et ensembles de vers. Une étude par plages de vers n’est pas une édition philologique mot à mot. Les analyses sont conservées dans leurs dossiers d’origine, sans mélange avec les reconstitutions.</p>'
-    close_readings=[
-      ("Eschyle","Agamemnon","eschyle-agamemnon-analyse","Lecture suivie par plages de vers"),
-      ("Sophocle","Antigone","sophocle-antigone-lecture-critique-loi-sepulture","Commentaires de passages et confrontation des lectures"),
-      ("Euripide","Les Bacchantes","euripide-bacchantes-dionysos-tragedie","Séquences de vers commentées"),
-      ("Aristophane","Les Nuées","aristophane-nuees-etude","Lecture suivie et confrontation des discours"),
-      ("Aristophane","Les Oiseaux","aristophane-oiseaux-etude","Commentaire continu en 27 séquences"),
-      ("Aristophane","Lysistrata","aristophane-lysistrata-etude","Lecture suivie par plages de vers"),
-      ("Aristophane","Les Grenouilles","aristophane-grenouilles-etude","Commentaire continu et critique poétique"),
-    ]
-    body+='<ol class="work-list linked-works">'+''.join(
-      '<li><a href="'+esc(resolve(slug)["url"])+'">'+esc(author+' — '+title)+'</a><small>'+esc(label)+'</small></li>'
-      for author,title,slug,label in close_readings
-    )+'</ol>'
-    body+='<p class="small-note">Ces liens pointent vers des pages déjà publiques. Les commentaires encore absents du dépôt ne sont pas annoncés comme publiés. Le repérage par vers et les éditions de référence devront être vérifiés œuvre par œuvre.</p></section>'
+    # Répertorier toutes les études des œuvres identifiées, sans créer de doublons.
+    # Contrôle automatisé de la présence de références de vers : syntaxe seulement,
+    # sans prétendre vérifier une édition grecque critique.
+    all_specs=list(tragic_specs.items())+list(comedy_specs.items())
+    used=set()
+    catalog_rows=[]
+    audit_missing=[]
+    audit_ranges=[]
+    for author,spec in all_specs:
+        author_rows=[]
+        for local_num,(title,prefix) in enumerate(spec,1):
+            entry=resolve(prefix)
+            if entry["url"] in used:
+                raise RuntimeError("Doublon dans les commentaires : "+entry["url"])
+            used.add(entry["url"])
+            file=OUT/entry["url"].lstrip("/")/"index.html"
+            if not file.is_file():
+                raise RuntimeError("Commentaire absent du site généré : "+str(file))
+            source=BeautifulSoup(file.read_text(encoding="utf-8"),"html.parser")
+            main=source.find("article") or source
+            text_content=main.get_text(" ",strip=True)
+            references=[]
+            for m in re.finditer(r"\bvers\s+(\d{1,4})(?:\s*[–—-]\s*(\d{1,4}))?",text_content,re.I):
+                first=int(m.group(1))
+                last=int(m.group(2)) if m.group(2) else first
+                if first<=last:
+                    references.append((first,last))
+            unique_refs=sorted(set(references))
+            explicit=len(unique_refs)
+            has_commentary=bool(re.search(r"commentaire (?:suivi|intégral|des |de |philologique)|étude suivie des scènes|grand commentaire|lecture suivie",text_content,re.I))
+            if explicit:
+                status=str(explicit)+" repère(s) de vers dans le texte — à confronter à l’édition critique"
+                audit_ranges.append((author,title,explicit))
+            elif has_commentary:
+                status="Commentaire de scènes : plages de vers non repérées automatiquement"
+                audit_missing.append((author,title))
+            else:
+                status="Étude critique : repérage vers par vers à compléter"
+                audit_missing.append((author,title))
+            code=({"Eschyle":"ES-TR","Sophocle":"SO-TR","Euripide":"EU-TR","Aristophane":"AR-CO","Ménandre":"ME-CO"}[author]
+                  +"-"+str(local_num).zfill(3))
+            author_rows.append('<li><a href="'+esc(entry["url"])+'">'+esc(code+" · "+title)+'</a><small>'+esc(status)+'</small></li>')
+        catalog_rows.append('<div class="theatre-author"><h3>'+esc(author)+' — '+str(len(author_rows))+' dossiers</h3><ol class="work-list linked-works">'+''.join(author_rows)+'</ol></div>')
+    if len(used)!=51:
+        raise RuntimeError("Le catalogue de commentaires doit couvrir exactement 51 dossiers distincts")
+    body+='<p class="small-note">Inventaire intégral : '+str(len(used))+' dossiers de pièces conservées ou partiellement conservées, dont '+str(len(audit_ranges))+' avec au moins un repère de vers détecté et '+str(len(audit_missing))+' sans repère exploitable automatiquement. La présence d’un repère ne certifie pas son exactitude philologique ; les commentaires par scènes ne sont pas présentés comme du mot à mot.</p>'
+    body+=''.join(catalog_rows)
+    body+='<details class="library-details"><summary>Contrôle éditorial : lacunes de référencement ('+str(len(audit_missing))+') <span aria-hidden="true">＋</span></summary><p>Ces études existent, mais les références de vers demandent une vérification ou une indexation supplémentaire :</p><ul class="portal-list">'+''.join('<li>'+esc(author+" — "+title)+'</li>' for author,title in audit_missing)+'</ul></details>'
+    body+='<p class="small-note">Audit effectué sur les 51 pages HTML du dépôt pendant la génération. Les variantes textuelles, les interpolations, les numérotations divergentes et les traductions doivent être vérifiées sur des éditions critiques. Les 33 reconstitutions et analyses des comédies perdues restent accessibles séparément dans la rubrique 02.</p></section>'
     body+=section("Archives intégrales","Aucun ancien dossier n’est supprimé ; les archives restent accessibles depuis l’index général.",
       details(tragedies,f"Tous les {len(tragedies)} dossiers de tragédie")+details(comedies,f"Tous les {len(comedies)} dossiers de comédie"))
     write("theatre",shell("Théâtre grec — catalogue par auteur et par œuvre",body))
