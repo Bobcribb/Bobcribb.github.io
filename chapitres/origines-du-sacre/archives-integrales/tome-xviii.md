@@ -1,0 +1,305 @@
+## TOME XVIII — RÊVES, VISIONS, PROPHÉTIES ET EXPÉRIENCES DU DIVIN
+
+*Édition de recherche du 31 octobre 2026 · Chapitres 653 à 692 · Suite du tome XVII · Non publiée sur WordPress.*
+
+> **Problématique générale.** Comment une expérience nocturne, individuelle et souvent difficile à raconter, devient-elle une parole faisant autorité dans une famille, un temple, une cour royale ou une tradition philosophique ?
+
+> **Précautions.** L'existence historique d'un récit de rêve n'établit ni que l'expérience se soit produite exactement comme racontée, ni que le contenu ait été surnaturel. Les documents permettent de connaître les interprétations des anciens, non de vérifier l'existence objective des êtres décrits. Les références [R#] se rapportent à la bibliographie en fin de tome.
+
+## PARTIE I — DÉFINIR, TRANSMETTRE ET INTERPRÉTER LE RÊVE
+
+### 653. Le rêve : une expérience privée devenue fait religieux
+Le rêve constitue une expérience singulière : le dormeur rencontre des morts, entend des voix, traverse des lieux imaginaires et vit des situations qui lui paraissent parfois réelles jusqu'au réveil. Plusieurs peuples ont vu dans ces images des avertissements, des rencontres avec des puissances ou des indices sur la destinée. Mais le fait que les rêves aient été investis religieusement ne démontre pas que les religions en seraient toutes nées. Les théories anthropologiques faisant du songe l'origine universelle de la notion d'âme dépassent les preuves disponibles.
+
+Quatre situations doivent être distinguées : le rêve spontané interprété après coup ; le rêve rituellement sollicité ; le rêve mis en scène par une œuvre littéraire ; et la vision vécue à l'état de veille. Il faut ajouter la différence entre expérience rapportée à la première personne et discours produit par une institution. C'est souvent le passage d'une expérience privée à un récit publiquement reconnu qui crée une autorité particulière. [R1] [R2]
+
+### 654. Gudea : une apparition divine fonde un programme architectural
+Les cylindres de Gudea, souverain de Lagash vers la fin du IIIe millénaire avant notre ère, racontent que Ningirsu lui apparaît et lui demande de construire le sanctuaire E-ninnu. Une immense figure au caractère composite occupe le rêve ; Gudea ne comprend pas immédiatement toutes ses images. Il demande à Nanshe de les interpréter, accomplit des rites et cherche des confirmations supplémentaires. Le projet architectural est ainsi présenté comme la traduction matérielle d'un message surnaturel.
+
+Il importe de ne pas confondre ce récit et un journal intime. L'inscription royale célèbre la capacité du souverain à reconnaître la volonté du dieu et à mobiliser les ressources de la cité pour bâtir son temple. Le rêve intervient dans une chaîne de légitimation associant apparition, médiation, divination et décision politique. L'expérience nocturne est devenue un argument public de bon gouvernement. [R3] [R4]
+
+### 655. Femmes et interprétation : Nanshe, Ninsun et Geštinanna
+La littérature mésopotamienne attribue régulièrement l'interprétation des rêves à des figures féminines savantes ou divines. Nanshe déchiffre les images de Gudea ; Ninsun interprète des présages touchant Gilgamesh ; Geštinanna explique à son frère Dumuzi les images annonçant sa catastrophe. La connaissance de l'invisible y prend la forme d'une compétence intellectuelle et herméneutique.
+
+Cette récurrence ne signifie pas que l'interprétation des rêves était partout et toujours réservée aux femmes. Les documents techniques attestent différentes catégories de spécialistes. Une étude de 2022 souligne néanmoins que les interprètes féminines sont particulièrement visibles dans certains récits et dans une partie des attestations professionnelles. Pour MYTHOS, cette documentation permet de compléter le dossier sur les femmes détentrices d'autorité rituelle sans projeter sur l'Antiquité une organisation religieuse uniforme. [R5] [R6]
+
+### 656. Le papyrus Chester Beatty III : écrire un répertoire des rêves
+Le papyrus Chester Beatty III, daté d'environ 1220 av. notre ère et provenant de Deir el-Médineh, conserve un manuel égyptien de lecture des rêves. Il associe une situation vue pendant le sommeil, une appréciation favorable ou défavorable et la signification attendue. Les colonnes en écriture hiératique montrent qu'une expérience apparemment irrégulière pouvait devenir matière à classement et à transmission scribale.
+
+La date du support n'est pas nécessairement celle de la première rédaction des interprétations qu'il rassemble. Le manuscrit a circulé dans un milieu lettré dont les archives comprennent d'autres documents littéraires et administratifs. Il prouve l'existence d'un savoir onirocritique, non l'efficacité prédictive des correspondances consignées. L'historien peut étudier le classement, le milieu social de production et la circulation du document ; il ne saurait vérifier rétrospectivement la réalisation de ses présages. [R7]
+
+### 657. Un rêve favorable peut-il avoir plusieurs sens ?
+La plupart des répertoires de rêves ne cherchent pas à reproduire la logique du récit vécu. Ils traduisent des images en résultats attendus : réussite, danger, richesse, maladie, perte ou promotion. Le lien entre symbole et résultat peut relever d'analogies, de jeux de langage ou de conventions héritées. La même image ne possède donc pas partout la même valeur.
+
+Cela complique une lecture psychologique universelle : un serpent, une eau débordante ou un oiseau ne reçoivent pas nécessairement un sens constant de l'Égypte à la Grèce. Le sens peut dépendre du rêveur, de son statut, de son métier et des préoccupations du moment. Une histoire rigoureuse de l'onirocritique doit commencer par les catégories propres à chaque texte plutôt que par une prétendue « clé des songes » valable pour l'humanité entière. [R7] [R8]
+
+## PARTIE II — MÉSOPOTAMIE, ÉGYPTE ET SYRIE : RÊVES DE SOUVERAINS ET DE DIEUX
+
+### 658. La stèle du Songe de Thoutmôsis IV : une royauté promise
+Entre les pattes du Grand Sphinx de Gizeh, la stèle de Thoutmôsis IV raconte que le prince s'est endormi près du monument. La puissance divine associée au Sphinx lui aurait demandé de le dégager du sable et lui aurait promis la royauté en retour. Cette scène transforme un entretien du sanctuaire en événement fondateur du règne.
+
+Il serait trop affirmatif de prétendre que le récit démontre à lui seul une usurpation du trône : l'absence de succession assurée n'est pas automatiquement prouvée par une stèle idéologique. Le document montre surtout comment la monarchie cherche à présenter son accession au pouvoir comme autorisée par le divin. Le sommeil devient un espace où se négocient, dans le récit officiel, le service rendu à une divinité et la légitimité politique. [R9]
+
+### 659. Kirta à Ougarit : un dieu conseille un roi endeuillé
+Dans l'épopée ougaritique de Kirta (ou Kéret), le roi, privé de sa famille et de ses héritiers, s'endort en pleurant. Le dieu El lui apparaît et lui indique comment obtenir une épouse afin de rétablir l'avenir de sa maison. Le songe réunit douleur personnelle, désir de descendance et ordre dynastique. La parole divine agit sur la continuité d'une lignée royale, non sur un problème exclusivement intérieur au rêveur.
+
+Le texte relève de la poésie épique, et non du procès-verbal d'une apparition. Il permet cependant de comparer les mécanismes de légitimation des décisions royales dans le Proche-Orient ancien. À la différence de Gudea, le centre du récit est ici la réparation d'une rupture familiale ; l'apparition oriente une action qui engage la succession et la stabilité du royaume. [R10]
+
+### 660. Mari : lorsque les messages inspirés circulent à la cour
+Les archives de Mari, sur l'Euphrate, conservent des lettres concernant prophéties, messages divins et diverses procédures d'information religieuse. Il faut éviter de réunir automatiquement sous le terme « rêve » toutes les communications inspirées : certains témoignages sont des paroles prophétiques prononcées à l'état de veille ou rapportées par des tiers. Leur transmission à la cour suppose des messagers, des contrôles et des décisions.
+
+Le souverain ne reçoit donc pas uniquement l'invisible dans sa chambre. Il reçoit des rapports dont les porteurs revendiquent parfois une origine divine. Cette bureaucratisation de l'expérience religieuse montre que l'autorité d'un message dépend de sa formulation, de son origine supposée et de sa crédibilité institutionnelle. La question « qui a vu ? » doit être complétée par « qui rapporte ? », « à qui ? » et « pour faire quoi ? ». [R1] [R11]
+
+### 661. Gilgamesh : anticiper l'avenir par images nocturnes
+Dans l'Épopée de Gilgamesh, les songes annoncent ou accompagnent des rencontres et des épreuves. Gilgamesh consulte notamment Ninsun pour comprendre certains signes concernant Enkidu ; plus tard, les visions nocturnes rythment l'expédition contre Humbaba. Le héros ne déduit pas toujours lui-même le sens de ce qu'il voit. L'interprétation est un acte distinct de l'expérience.
+
+La structure narrative produit une tension : le lecteur comprend souvent qu'un événement sera décisif, alors que le personnage hésite encore. Le songe est un procédé de préparation dramatique, en même temps qu'un témoignage de catégories religieuses anciennes. Il serait méthodologiquement fautif de lire chaque image épique comme le relevé d'un rêve réellement vécu par un roi historique d'Uruk. [R1] [R5]
+
+### 662. Dumuzi : un songe qui annonce la disparition
+Le poème sumérien *Le Rêve de Dumuzi* met en scène le berger divin effrayé par un rêve menaçant. Il fait appeler sa sœur Geštinanna, présentée comme capable de comprendre les signes nocturnes. Celle-ci interprète une succession d'images pastorales — végétaux, animaux, ustensiles, enclos — comme les signes d'une arrestation et d'un deuil imminents.
+
+Le récit montre la proximité entre la symbolique du rêve et l'univers matériel du protagoniste. Les images n'ont pas un sens indépendant de la vie qu'elles menacent : la fin de Dumuzi se manifeste par la ruine de son activité et de ses relations. L'importance de Geštinanna réside dans sa capacité à traduire l'obscurité du rêve en un scénario intelligible, même si cette compréhension ne suffit pas à abolir le destin annoncé. [R6] [R12]
+
+### 663. L'*Iškar Zaqīqu* : les rêves comme série de présages
+En Mésopotamie, la tradition savante a rassemblé des présages oniriques dans une série appelée *Iškar Zaqīqu*, associée à Zaqīqu. Les fragments connus, particulièrement ceux issus du milieu néo-assyrien, témoignent d'une écriture technique du rêve : une protase décrit ce qui est vu ; une apodose en indique une conséquence possible.
+
+Le classement est fondamental : il transforme des images spontanées en éléments d'un système que l'on peut copier, enseigner et consulter. Le spécialiste ne se contente pas de posséder une inspiration ; il revendique aussi une maîtrise de séries écrites. Cette production scribale ne garantit pas l'exactitude des prédictions, mais elle révèle une rationalité pratique du classement des indices, comparable dans sa forme — non dans sa valeur scientifique — à d'autres grandes séries de présages. [R1] [R2]
+
+### 664. Mauvais rêves, incantations et rituels de protection
+Les cauchemars mésopotamiens pouvaient être reliés, selon les textes, à des influences démoniques, à des troubles corporels ou à des conflits avec les puissances divines. Ils appelaient parfois des rites destinés à détourner un dommage présumé. Il existait donc un rapport pratique au rêve : l'événement nocturne ne devait pas seulement être compris ; il pouvait exiger une action.
+
+Les catégories de message divin, de symptôme et d'omen ne doivent pourtant pas être fusionnées. Une étude systématique des sources distingue rêves porteurs de messages, rêves symboliques, présages et rêves symptomatiques. Cette typologie protège contre l'idée simpliste selon laquelle tous les peuples anciens croyaient que chaque rêve était une prophétie. Elle permet aussi de reconnaître une expérience banale et pénible — le cauchemar — derrière ses diverses interprétations rituelles. [R1] [R2]
+
+### 665. La même image, des usages différents
+Un roi peut faire graver son rêve afin de justifier un temple, un scribe peut consulter un manuel et une famille peut accomplir un rite pour neutraliser un cauchemar. Les sources n'appartiennent pas au même genre : propagande royale, littérature, manuel divinatoire et prière ont des objectifs et des publics distincts. Les rapprocher est utile, mais les traiter comme des observations équivalentes fausserait toute histoire du rêve.
+
+La méthode MYTHOS adopte donc une règle stricte : pour chaque document, préciser son époque, son support, sa langue, son contexte de production, les agents qui parlent et le type d'interprétation autorisé. Une ressemblance iconographique ou narrative ne démontre pas, à elle seule, une transmission entre les cultures. La comparaison relève d'abord de l'analyse des fonctions sociales du récit. [R1] [R4]
+
+## PARTIE III — LA GRÈCE : SONGES, HÉROS ET PRÉDICTIONS
+
+### 666. L'*Iliade* : un rêve envoyé pour tromper
+Au chant II de l'*Iliade*, Zeus envoie un songe à Agamemnon pour le pousser vers une décision qu'il croit favorable. Le contenu du rêve se présente comme un message digne de confiance, mais sa fonction véritable est de l'égarer. Il faut donc renoncer à l'idée qu'un rêve d'origine divine, dans l'univers épique, dirait toujours la vérité.
+
+La scène révèle une vulnérabilité politique : l'autorité d'un message repose sur la confiance accordée à son expéditeur présumé. Un chef qui se croit inspiré peut se tromper précisément parce qu'il est convaincu de son inspiration. Cette possibilité fait des songes homériques des instruments de narration complexes, capables de mettre en cause le jugement et non seulement d'annoncer la destinée. [R13]
+
+### 667. Pénélope : la porte de corne et la porte d'ivoire
+Au chant XIX de l'*Odyssée*, Pénélope rapporte un rêve dans lequel un aigle tue ses oies, puis hésite sur son sens. Elle distingue les rêves qui passent par une porte de corne et accomplissent la vérité de ceux qui passent par une porte d'ivoire et trompent les mortels. Le rêve est remarquable par l'incertitude qui l'accompagne : une interprétation séduisante ne suffit pas à rendre le songe crédible à celle qui l'a vécu.
+
+La distinction homérique souligne un problème de connaissance : si des rêves sont véridiques et d'autres mensongers, par quel critère les séparer avant les événements ? Le poème n'offre pas un manuel de méthode permettant de répondre définitivement. Il transforme l'ambiguïté du rêve en élément de la prudence de Pénélope. [R14]
+
+### 668. Cassandre : une prophétie n'est pas nécessairement un rêve
+Dans l'*Agamemnon* d'Eschyle, Cassandre annonce des violences et des crimes au moyen d'une parole prophétique liée à Apollon. Ce n'est pas pour autant un épisode d'incubation ou une scène de rêve nocturne. Le personnage illustre une autre structure : la possibilité de parler vrai sans être cru, et de reconnaître l'avenir sans pouvoir le changer.
+
+La comparaison avec Pénélope est éclairante. Chez Pénélope, la difficulté consiste à savoir si une image nocturne mérite confiance ; chez Cassandre, elle réside dans l'incapacité du groupe à recevoir la vérité revendiquée par une voyante. La confusion de ces deux situations effacerait l'originalité dramatique et religieuse des textes. Le tome distingue donc systématiquement onirocritique, oracles et inspiration en état de veille. [R13]
+
+### 669. Hérodote : les rêves de rois comme réflexion sur la décision
+Dans les *Histoires*, Hérodote insère plusieurs songes dans des récits de monarchies et de catastrophes. Ils ne relèvent pas d'une simple décoration narrative. Ils servent à interroger la capacité des dirigeants à lire des avertissements, leur résistance à des interprétations contradictoires et les limites de la prudence politique.
+
+Le genre historiographique exige une précaution supplémentaire. Un rêve raconté dans l'œuvre d'Hérodote est d'abord un élément d'une tradition recueillie et réorganisée par l'auteur. Il ne doit pas être utilisé comme preuve autonome d'une intervention surnaturelle ou comme témoignage direct d'un événement intérieur dont personne ne pourrait vérifier le contenu. Les rêves sont des sources pour l'histoire des représentations, de la mémoire et de la causalité narrative. [R15]
+
+### 670. Xerxès : lorsque le songe contredit la délibération
+Au livre VII des *Histoires* (7.12–19), Xerxès revient sur son projet de campagne contre la Grèce après les objections d'Artabane. Des rêves successifs interviennent alors dans la narration, comme si une puissance voulait empêcher le roi d'abandonner l'expédition. Hérodote met en tension conseil politique, expérience nocturne et prétention à une nécessité supérieure.
+
+Ce passage soulève une question d'une grande portée : lorsqu'un souverain présente une décision contestée comme exigée par une vision, qui conserve le pouvoir d'en discuter la rationalité ? La comparaison avec Gudea ne révèle pas une doctrine religieuse commune. Elle fait apparaître une forme récurrente de légitimation : le message attribué à une puissance supérieure peut déplacer la responsabilité d'une décision humaine. [R15] [R16]
+
+### 671. L'incubation : dormir pour rencontrer une puissance
+L'incubation désigne, dans les sanctuaires grecs, le fait de dormir rituellement dans un lieu consacré afin d'obtenir un songe, souvent une guérison ou une orientation. La pratique est connue dans les Asclépieia et dans d'autres sanctuaires oraculaires, notamment celui d'Amphiaraos à Oropos. Elle peut être accompagnée de préparatifs et de prescriptions locales.
+
+L'incubation diffère du rêve spontané par l'encadrement spatial, temporel et rituel. Le dormeur se place dans une situation où l'apparition attendue possède déjà une signification reconnue par le culte. Il ne faut pourtant pas postuler une procédure universelle pratiquée de la même manière dans tous les sanctuaires. Les inscriptions et les témoignages révèlent des pratiques changeantes selon les lieux et les siècles. [R17]
+
+### 672. Épidaure : les *iamata* et la guérison racontée
+Les inscriptions de guérison d'Épidaure, appelées *iamata*, rassemblent des récits de fidèles attribuant leur guérison à Asclépios. Certaines scènes décrivent le dieu apparaissant pendant le sommeil, touchant un malade ou accomplissant une intervention extraordinaire. Ces documents sont précieux pour étudier ce que le sanctuaire voulait rendre visible de son efficacité et de son prestige.
+
+Les inscriptions ne sont pas des dossiers médicaux contrôlés selon les méthodes contemporaines. Il faut éviter de les utiliser comme preuves expérimentales de guérisons miraculeuses. Elles témoignent en revanche de la place donnée à l'expérience du rêve, au récit de reconnaissance et à la publicité des faveurs divines. Le texte inscrit permet à d'autres visiteurs de lire ce qu'un patient affirme avoir vécu, transformant l'événement personnel en mémoire religieuse collective. [R17] [R18]
+
+### 673. Gorgias et la pointe de flèche : comment lire un miracle inscrit ?
+Un des récits épidauriens décrit Gorgias d'Héraclée, blessé par une flèche et atteint de complications prolongées. Pendant son sommeil rituel, il voit le dieu retirer la pointe de son corps ; au réveil, il aurait quitté le sanctuaire guéri en tenant l'objet. Ce récit fonctionne comme une démonstration imagée de la capacité d'Asclépios à accomplir ce qui échappe aux possibilités ordinaires de la médecine.
+
+L'intérêt du témoignage réside dans sa structure. Le récit nomme un patient, désigne un mal, rapporte une apparition et conclut par une issue favorable. Le lecteur doit distinguer cette mise en scène cultuelle d'un dossier clinique. Le caractère extraordinaire de l'épisode n'autorise ni à nier que des personnes aient réellement cherché des soins dans les sanctuaires, ni à certifier l'intervention divine. [R18]
+
+### 674. Le sanctuaire comme espace de soin et de signification
+L'Asclépieion réunit plusieurs dimensions : des espaces consacrés, des règles de conduite, l'attente d'une expérience, des récits de guérison et des relations durables avec la divinité. Sa fonction ne se réduit pas à une consultation médicale ni à une cérémonie abstraite. Les malades recherchent un secours dans un lieu où les gestes corporels et les interprétations religieuses sont étroitement liés.
+
+Il faut éviter d'opposer systématiquement « médecine rationnelle » et « médecine sacrée ». Une même personne pouvait fréquenter médecins et sanctuaires. L'histoire montre des chevauchements, des tensions et des choix pragmatiques. La fonction du rêve de guérison tient aussi à sa capacité de produire un récit d'espoir et de rétablir une relation entre souffrance individuelle et communauté rituelle. Ces dimensions sociales sont historiques, même si la réalité surnaturelle revendiquée ne peut être constatée par l'archéologue. [R17] [R18]
+
+### 675. Amphiaraos à Oropos : consulter un héros guérisseur
+Le sanctuaire d'Amphiaraos, situé à Oropos en Attique, associait la figure d'un héros devin à des pratiques oraculaires et thérapeutiques. Les visiteurs pouvaient y rechercher une réponse en dormant selon les prescriptions du culte. Le mythe du héros disparu dans la terre et honoré après sa mort donne au lieu une tonalité différente de celle d'un sanctuaire voué à un dieu olympien.
+
+L'intérêt du dossier réside dans cette diversité des destinataires : les pratiques d'incubation ne s'adressaient pas toutes à Asclépios. Une puissance héroïque, dont l'existence mythique est liée à la mort et à une transformation du statut, pouvait servir de médiateur du monde invisible. Il serait pourtant imprudent d'inférer du seul rite une doctrine uniforme sur les âmes ou une technique de guérison identique partout. [R17]
+
+### 676. Trophonios à Lébadée : éprouver le sanctuaire avant de parler
+Pausanias décrit au livre IX de sa *Description de la Grèce* un rituel exigeant lié à l'oracle de Trophonios à Lébadée, en Béotie. Le consultant se prépare, accomplit des prescriptions particulières et pénètre dans un dispositif souterrain d'où il ressort bouleversé. Le récit évoque ensuite le retour à la parole et à la mémoire de l'expérience.
+
+Il faut souligner que cette procédure n'est pas nécessairement un rêve obtenu dans un sommeil ordinaire. Elle relève d'une expérience oraculaire encadrée, associée à un passage rituel et à un espace souterrain. L'historien peut analyser la dramaturgie de l'accès, l'autorité du lieu et les étapes de retour du consultant, sans réduire le rite à une technique psychologique vérifiable. [R19]
+
+### 677. Aelius Aristide : l'écriture quotidienne d'une relation avec Asclépios
+Au IIe siècle de notre ère, l'orateur Aelius Aristide, confronté à de longues périodes de maladie, entretient une relation particulièrement intense avec Asclépios. Ses *Discours sacrés* conservent des récits de rêves dans lesquels il reçoit consignes, encouragements et prescriptions. La fréquence des songes et leur notation contribuent à produire une autobiographie religieuse exceptionnelle.
+
+L'originalité du dossier tient au fait qu'un individu met en récit la durée de son rapport au dieu. Le rêve n'est plus uniquement une annonce isolée : il devient un système de correspondances qui accompagne décisions, déplacements et soins. L'historien peut analyser cette écriture de soi sans diagnostiquer rétrospectivement son auteur à partir de sources littéraires et sans considérer chaque épisode comme un compte rendu clinique indépendant. [R20] [R21]
+
+## PARTIE IV — LE RÊVE COMME OBJET DE SAVOIR : ARTÉMIDORE ET LES PHILOSOPHES
+
+### 678. Artémidore : distinguer le rêve ordinaire du rêve annonciateur
+L'*Oneirocritica* d'Artémidore de Daldis, rédigée à l'époque impériale romaine, conserve l'un des ensembles les plus riches d'interprétation des rêves provenant du monde gréco-romain. Son auteur distingue les images qui renvoient à l'état présent du rêveur et celles auxquelles il attribue une valeur prémonitoire. L'interprétation dépend de classifications et d'une connaissance de la condition sociale.
+
+La datation précise de l'œuvre a fait l'objet de réexamens ; l'étude de Peter Thonemann attire notamment l'attention sur la possibilité d'un contexte sévérien, plutôt que strictement antonin. Il faut donc éviter de présenter l'ensemble comme un manuel intemporel de la Grèce classique. C'est un traité savant de l'Empire romain, profondément marqué par les réalités de son temps. [R8] [R22]
+
+### 679. Chez Artémidore, le métier et le rang changent le sens du rêve
+Un même symbole peut annoncer des choses différentes selon que l'on est esclave, notable, artisan, marin, malade ou voyageur. Artémidore ne pratique donc pas une simple lecture par images fixes. Il mobilise une enquête sur la vie sociale, les occupations et les attentes des consultants. Cette méthode explique l'intérêt de son œuvre pour l'historien des métiers, du pouvoir et des représentations corporelles.
+
+Il ne faut pas en conclure que l'auteur aurait découvert une science du rêve au sens contemporain. Ses interprétations reposent sur des conventions, des analogies et des exemples dont la vérification n'obéit pas à un protocole expérimental. Le point le plus instructif est historique : les rêves sont socialement construits dans leur lecture, parce que les destinées possibles ne sont pas les mêmes pour tous. [R8] [R23]
+
+### 680. Le *Phèdre* : l'inspiration divine peut-elle dépasser la raison ordinaire ?
+Dans le *Phèdre*, Platon distingue plusieurs formes de *mania*, ou inspiration, auxquelles il attribue une origine divine dans certains contextes. Parmi elles figurent la divination associée à Apollon, l'inspiration rituelle, la poésie et l'amour. Il serait trompeur de traduire toutes ces formes par une « folie » au sens psychiatrique moderne. Platon discute au contraire la possibilité qu'une expérience qui rompt avec le calcul ordinaire possède une valeur particulière.
+
+La difficulté philosophique est nette : comment reconnaître une vérité lorsqu'elle survient sous une forme qui ne correspond pas au raisonnement discursif ? Le dialogue ne fournit pas une licence générale pour tenir toute vision inhabituelle pour divine. Il ouvre un problème sur les relations entre inspiration, jugement et connaissance. [R24]
+
+### 681. Le *Timée* : le foie comme miroir des images
+Dans le *Timée* (71a–72b), Platon décrit une fonction divinatoire liée aux images et attribuée à la partie non rationnelle de l'âme, en relation avec le foie. Celui-ci est pensé comme une surface capable de recevoir et de refléter des représentations. Le texte associe sommeil, visions et interprétation dans une physiologie spéculative du cosmos et de l'être humain.
+
+Il ne s'agit pas d'une découverte anatomique moderne. La fonction décrite est inscrite dans un mythe philosophique visant à rendre intelligible la diversité des facultés. Le plus intéressant est la répartition des rôles : l'expérience inspirée survient lorsque le contrôle rationnel est diminué, puis le jugement éveillé cherche à comprendre ce qu'elle signifie. La relation entre inspiration et raison devient complémentaire mais hiérarchisée. [R25]
+
+### 682. Aristote : pourquoi voyons-nous des images en dormant ?
+Dans ses petits traités sur le sommeil et les rêves, Aristote tente de rendre compte des expériences nocturnes à partir des facultés du vivant. Il examine la persistance des mouvements issus de la sensation et le rôle de l'imagination. Le rêve devient un phénomène qui peut être analysé par des causes corporelles et psychologiques, et non uniquement par l'intervention des dieux.
+
+Cette démarche n'élimine pas tout mystère, ni ne constitue une théorie neuroscientifique avant la lettre. Elle marque néanmoins un changement du type de question posé : au lieu de demander seulement « qui nous envoie le rêve ? », Aristote examine comment une image peut apparaître lorsqu'un individu ne perçoit plus normalement le monde extérieur. La méthode explicative distingue les mécanismes du rêve de la vérité supposée de son contenu. [R26]
+
+### 683. Aristote contre la divination systématique par les songes
+Dans *De la divination dans le sommeil*, Aristote évalue l'idée que les rêves prédisent des événements futurs. Il remarque que certains peuvent refléter des états corporels et qu'une coïncidence peut être prise pour une anticipation surnaturelle. Un rêve peut aussi influencer la conduite du dormeur et contribuer ainsi à produire un résultat qui, après coup, ressemble à une prédiction.
+
+La critique n'impose pas de nier la totalité des expériences rapportées. Elle exige de distinguer signes physiologiques, causes, conséquences d'une action et rapprochements fortuits. Cette exigence est particulièrement utile au projet MYTHOS : expliquer une croyance ne signifie pas ridiculiser ceux qui l'ont portée, mais préciser quelles raisons permettent — ou non — de lui accorder une validité prédictive. [R26] [R27]
+
+### 684. Cicéron : la difficulté de reconnaître un rêve véridique
+Le livre II du *De divinatione* de Cicéron soumet à une critique systématique l'idée que les dieux choisissent les rêves pour avertir les humains. Si la communication divine est destinée à être utile, pourquoi serait-elle si confuse, si souvent oubliée et si dépendante d'interprètes contradictoires ? Cicéron demande aussi quels critères permettent de distinguer les véritables prédictions des innombrables coïncidences.
+
+Le dialogue fait entendre plusieurs positions philosophiques : l'argumentation sceptique de l'un des interlocuteurs n'autorise pas à effacer toutes les nuances de la pensée religieuse romaine. Sa force est méthodologique : les succès isolés ne suffisent pas à établir la fiabilité d'une technique. Il faut étudier également les échecs, la sélection des exemples et les explications concurrentes. [R28]
+
+### 685. Le rêve à l'épreuve de la connaissance
+Platon, Aristote et Cicéron ne discutent pas le même objet de la même manière. Le *Phèdre* considère des états inspirés, le *Timée* propose une interprétation cosmologique et physiologique, Aristote examine les causes des images nocturnes, et Cicéron la valeur des prétentions divinatoires. Les regrouper sous l'étiquette « les Grecs croyaient aux rêves » ferait disparaître les débats les plus féconds.
+
+Une étude universitaire doit différencier l'origine du phénomène, le sens que l'on lui attribue, ses usages institutionnels et la validité des prédictions. Cette grille permet de mettre en dialogue textes religieux et philosophie sans prétendre que les questions antiques ont déjà reçu toutes les réponses des sciences actuelles. [R24] [R25] [R26] [R28]
+
+## PARTIE V — AUTRES TRADITIONS ET HISTOIRE COMPARÉE
+
+### 686. Joseph : le rêve comme épreuve de gouvernement
+Dans la Genèse, Joseph interprète les rêves du pharaon, notamment ceux des vaches et des épis, comme l'annonce de périodes d'abondance puis de famine. Le récit transforme la connaissance supposée de l'avenir en organisation économique : stocker des réserves devient un moyen de faire face à une catastrophe attendue.
+
+Cette histoire est pertinente pour comparer les usages politiques des rêves, mais son statut documentaire doit être explicité : elle appartient à un récit biblique dont la datation de la composition et la reconstruction historique sont complexes. On ne saurait l'utiliser comme procès-verbal d'une consultation à la cour pharaonique. Le rêve y sert à représenter une sagesse administrative inspirée et une capacité d'agir face à l'incertitude. [R29]
+
+### 687. Daniel : images nocturnes et succession des empires
+Le livre de Daniel contient des visions et des rêves portant sur des règnes, des animaux symboliques et des transformations historiques. Le texte prend forme dans un contexte de crises politiques et religieuses ; une large part de la recherche situe sa composition finale au IIe siècle avant notre ère. Les visions interprètent l'histoire à partir d'un horizon religieux et d'un espoir de renversement des puissances dominantes.
+
+Leur usage diffère de celui du manuel Chester Beatty III ou des *iamata* d'Épidaure. Le rêve y devient une forme de discours apocalyptique portant sur les empires. La comparaison avec les traditions royales du Proche-Orient est éclairante, mais la présence d'animaux symboliques dans plusieurs cultures ne suffit pas à établir une dépendance littéraire précise. [R30]
+
+### 688. Zhuangzi et le papillon : qui est celui qui rêve ?
+Dans le chapitre II du *Zhuangzi*, une courte parabole met en scène un homme rêvant qu'il est un papillon, puis se réveillant sans pouvoir résoudre définitivement la question de la perspective vraie. L'enjeu n'est pas principalement de prévoir un événement futur. Il concerne la stabilité de l'identité et le statut des points de vue à partir desquels nous qualifions une expérience de réelle.
+
+L'histoire invite à réfléchir au fait que l'on juge le rêve depuis l'éveil, mais que l'éveil lui-même pourrait ne pas constituer le dernier point de vue possible. Le rapprochement avec les arguments grecs du rêve est conceptuellement intéressant ; il ne constitue ni une preuve de transmission depuis la Grèce ni l'affirmation d'une doctrine chinoise uniforme sur l'illusion. [R31]
+
+### 689. Les limites des comparaisons universelles
+Certaines images reviennent dans des cultures éloignées : eaux profondes, animaux inquiétants, rencontre avec un mort, ascension, chute ou voyage. Cette récurrence n'autorise pas à postuler une seule religion préhistorique du rêve ni un catalogue de symboles possédant partout le même sens. Des expériences corporelles communes peuvent coexister avec des traditions historiques très différentes.
+
+La comparaison doit mobiliser au minimum quatre niveaux : expérience individuelle, milieu social, genre de texte et circulation historique attestée. Un récit d'initiation ne se lit pas comme un manuel divinatoire ; un rêve royal transmis par une inscription monumentale ne se lit pas comme une histoire familiale. La force de MYTHOS doit être de préserver ces différences tout en rendant visibles des problèmes communs : autorité, vérité, mémoire, guérison et décision. [R1] [R8] [R31]
+
+## PARTIE VI — SCIENCES HUMAINES ET PHILOSOPHIE DE L'EXPÉRIENCE RELIGIEUSE
+
+### 690. William James : décrire l'expérience avant de juger son origine
+Dans *Les Variétés de l'expérience religieuse* (1902), William James propose d'étudier des expériences religieuses telles que les personnes les racontent, en prenant au sérieux leur intensité et leurs conséquences existentielles. Il distingue notamment quatre caractères souvent associés à l'expérience mystique : ineffabilité, qualité de connaissance ressentie, brièveté et passivité.
+
+Cette classification ne démontre pas qu'une expérience mystique est causée par une puissance surnaturelle. Elle décrit certaines propriétés du témoignage et les transformations que l'individu lui attribue. Une démarche analogue peut être utile pour comprendre Aelius Aristide, sans effacer les différences de contexte ni diagnostiquer rétrospectivement sa vie intérieure. L'historien doit garder la distance entre expérience vécue, récit reconstruit et vérité métaphysique revendiquée. [R20] [R32]
+
+### 691. De l'animisme de Tylor à Freud : deux explications à ne pas absolutiser
+Edward B. Tylor a accordé aux rêves et aux visions un rôle important dans son explication de l'animisme. Sa théorie a joué un rôle historique majeur dans l'anthropologie, mais ses reconstructions évolutionnistes générales ne peuvent pas être tenues pour l'origine démontrée de toutes les religions. De son côté, Freud a élaboré une théorie psychique du rêve liée aux désirs et à leur transformation. Cette approche a profondément marqué la culture moderne, mais elle ne fournit pas une clé universelle validée pour interpréter les rêves anciens.
+
+L'histoire des théories du rêve ne doit donc pas être confondue avec une succession de solutions définitives. Nous pouvons étudier pourquoi ces explications ont été proposées, ce qu'elles rendent intelligible, et les limites de leur pouvoir de vérification. La recherche contemporaine sur le sommeil et la mémoire doit être distinguée des affirmations de clairvoyance, qui ne disposent pas de validation scientifique robuste. [R1] [R32] [R33]
+
+### 692. Conclusion générale : du songe privé à l'autorité collective
+Les documents étudiés montrent que le rêve pouvait légitimer un temple, orienter une politique royale, annoncer une catastrophe dans un récit, servir de matériau à un manuel savant, accompagner une démarche de guérison ou susciter une critique philosophique. Il serait erroné de chercher un seul sens du rêve dans toutes les civilisations. Ce qui varie, ce sont les institutions autorisées à le comprendre et les conséquences que la communauté accepte de lui attribuer.
+
+La grande transformation historique n'est donc pas la découverte d'un monde invisible prouvée par les rêves. Elle est la construction de moyens culturels pour faire d'une expérience intérieure un message partageable, interprétable et parfois contraignant. Le rêve révèle la tension entre l'incertitude vécue et le désir humain de produire du sens. L'étude des visions et des songes rejoint ici les questions fondamentales des tomes précédents : naissance du sacré, légitimité de la parole, pouvoir des rites, conscience de soi et limites de la connaissance. [R1] [R17] [R28]
+
+## BIBLIOGRAPHIE CRITIQUE ET SOURCES CONTRÔLABLES
+
+- **[R1]** Sally A. L. Butler, *Mesopotamian Conceptions of Dreams and Dream Rituals*, thèse de doctorat, University College London, 1992. <https://discovery.ucl.ac.uk/id/eprint/10121519/>
+- **[R2]** Alice Mouton, « Les mauvais rêves en Mésopotamie ancienne », dans *Le cauchemar dans les sociétés antiques*, actes de colloque, 2007 (publication collective). <https://doi.org/10.2307/j.ctv327fw8f.7>
+- **[R3]** *The Building of Ninĝirsu's Temple* (Gudea, cylindres A et B), *Electronic Text Corpus of Sumerian Literature*, University of Oxford, texte c.2.1.7. <https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?charenc=gcirc&simplesearch=translation&simplesearchword=gudea>
+- **[R4]** *Perchance to Dream: Dream Divination in the Bible and the Ancient Near East*, Society of Biblical Literature, 2018, chapitre sur Gudea et les rêves mésopotamiens. <https://www.sbl-site.org/assets/pdfs/pubs/9780884142874_OA.pdf>
+- **[R5]** « Women and the Interpretation of Dreams in Sumerian and Akkadian Literature », *Journal of Cuneiform Studies* 74, 2022, p. 89–108. <https://doi.org/10.1086/719863>
+- **[R6]** ORACC, « Geštinanna/Belet-ṣeri », *Ancient Mesopotamian Gods and Goddesses*. <https://oracc2.museum.upenn.edu/amgg/Listofdeities/Geshtinanna/index.html>
+- **[R7]** British Museum, *Papyrus Chester Beatty III*, EA10683,2, notice de collection. <https://www.britishmuseum.org/collection/object/Y_EA10683-2> ; A. H. Gardiner, *Hieratic Papyri in the British Museum*, 1935.
+- **[R8]** Peter Thonemann, *An Ancient Dream Manual: Artemidorus' The Interpretation of Dreams*, Oxford University Press, 2020. <https://doi.org/10.1093/oso/9780198843825.001.0001>
+- **[R9]** National Museum of Egyptian Civilization, « Thutmose IV », notice sur la stèle du Songe de Gizeh. <https://nmec.gov.eg/mummies-hall/Thutmose-iv/>
+- **[R10]** Shirly Natan-Yulzary, « Reading Ugaritic Narrative-Poetry: The Epic Description of Kirta's Expedition to Udum », étude du texte KTU 1.14. <https://janes.scholasticahq.com/article/32971.pdf>
+- **[R11]** Jonathan Stökl et autres études sur Mari : compléter dans une édition universitaire par une édition critique des lettres prophétiques (*Archives royales de Mari*). Pour la fonction politique des pratiques divinatoires : <https://academic.oup.com/book/32442/chapter/268784621>.
+- **[R12]** *Dumuzid's Dream*, *Electronic Text Corpus of Sumerian Literature*, Oxford, texte 1.4.3. <https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?charenc=j&text=t.1.4.3>
+- **[R13]** Homère, *Iliade*, II ; Eschyle, *Agamemnon*, scène de Cassandre ; consulter les éditions critiques grecques et traductions annotées.
+- **[R14]** Homère, *Odyssée*, XIX, vers 535–569 ; texte et traduction accessible dans Perseus. <https://beta.perseus.tufts.edu/urn:cts:greekLit:tlg0012.tlg002.perseus-eng3:19.1/>
+- **[R15]** Hérodote, *Histoires*, VII, 12–19, et autres épisodes de rêves. Comparer avec les commentaires modernes plutôt qu'isoler les récits de leur narration.
+- **[R16]** Étude sur la délibération de Xerxès dans Hérodote VII, *Journal of Classics Teaching*. <https://www.cambridge.org/core/journals/journal-of-classics-teaching/article/xerxes-deliberate-expedition/4A4485D369C250258DD94EB87443AE23>
+- **[R17]** Fritz Graf, « Incubation », *Oxford Classical Dictionary*, 2016. <https://doi.org/10.1093/acrefore/9780199381135.013.3275>
+- **[R18]** Étude sur les *iamata* épidauriens et le culte guérisseur d'Asclépios, *The Invention of Infertility in the Classical Greek World*, 2014. <https://pmc.ncbi.nlm.nih.gov/articles/PMC3904772/>
+- **[R19]** Pausanias, *Description de la Grèce*, IX, 39 : sanctuaire de Trophonios. <https://periegesis.abm.uu.se/en/sx_PrintPage.php?reportid=317>
+- **[R20]** Kelly Bulkeley, *The Scribes of Sleep*, Oxford University Press, 2023, chapitre sur Aelius Aristide. <https://doi.org/10.1093/oso/9780197609606.003.0002>
+- **[R21]** Aelius Aristide, *Discours sacrés* (*Hieroi Logoi*), œuvres 47–52 ; Simon Swain, étude dans *Hellenism and Empire*, Oxford University Press, 1996. <https://doi.org/10.1093/oso/9780198147725.003.0009>
+- **[R22]** Peter Thonemann, « Artemidorus and the Oneirocritica », 2020. <https://doi.org/10.1093/oso/9780198843825.003.0002>
+- **[R23]** Calloway B. Scott, « The Body, Experience, and the History of Dream-Science in Artemidorus' Oneirocritica », *Apeiron* 56, 2023, p. 131–161. <https://doi.org/10.1515/apeiron-2021-0024>
+- **[R24]** Platon, *Phèdre*, 244a–245a, édition critique grecque et traduction annotée.
+- **[R25]** Platon, *Timée*, 71a–72b, texte grec et traduction de R. G. Bury. <https://mouseia.org/read/timaeus/trn_timaeus_historical>
+- **[R26]** Aristote, *Des rêves* (*De insomniis*) et *De la divination dans le sommeil* (*De divinatione per somnum*). <https://aristotle.johnhboyer.com/DivSomn/>
+- **[R27]** Aristote, *De la divination dans le sommeil*, traduction française de Barthélemy-Saint-Hilaire (1891). <https://fr.wikisource.org/wiki/De_la_divination_dans_le_sommeil>
+- **[R28]** Cicéron, *De divinatione*, II, spécialement §119–150, texte et traduction dans Perseus. <https://beta.perseus.tufts.edu/urn:cts:latinLit:phi0474.phi053.perseus-eng1:2/>
+- **[R29]** *Genèse*, 37 et 40–41, rêves de Joseph, de l'échanson, du panetier et du pharaon ; utiliser une édition critique commentée du texte hébreu.
+- **[R30]** *Daniel*, 2 et 7–12 ; comparer une édition critique et les recherches sur la composition du livre durant la période hellénistique.
+- **[R31]** *Zhuangzi*, chapitre 2, parabole du papillon ; *Stanford Encyclopedia of Philosophy*, « Zhuangzi ». <https://plato.stanford.edu/entries/zhuangzi/>
+- **[R32]** William James, *The Varieties of Religious Experience*, 1902, conférences sur le mysticisme. <https://www.ccel.org/ccel/j/james/varieties/cache/varieties.pdf>
+- **[R33]** Edward B. Tylor, *Primitive Culture*, 1871 ; Sigmund Freud, *Die Traumdeutung*, 1900. À lire comme jalons historiques de théories de l'interprétation, et non comme preuves de signification universelle des rêves.
+
+## ANNEXE I — TYPOLOGIE COMPARATIVE
+
+| Milieu documentaire | Exemple | Fonction attestée du récit | Erreur méthodologique à éviter |
+|---|---|---|---|
+| Inscription royale sumérienne | Gudea et Ningirsu | Légitimer la construction d'un temple | Reconstituer directement le rêve privé du roi |
+| Manuel scribal égyptien | Chester Beatty III | Classer des présages favorables ou défavorables | Déclarer ses prédictions vérifiées |
+| Poème mésopotamien | *Rêve de Dumuzi* | Annoncer poétiquement une catastrophe | Lire la fiction comme une chronique factuelle |
+| Poésie homérique | Pénélope et les portes | Dramatiser l'incertitude de l'interprétation | Croire que tous les rêves sont divins |
+| Sanctuaire guérisseur | *Iamata* d'Épidaure | Attester publiquement des guérisons attribuées au dieu | Les traiter comme essais cliniques |
+| Autobiographie religieuse | Aelius Aristide | Donner sens à une relation cultuelle dans la durée | Diagnostiquer l'auteur à distance |
+| Philosophie naturelle | Aristote | Chercher des mécanismes et distinguer les causes | Confondre sa théorie avec la neurologie actuelle |
+| Philosophie sceptique | Cicéron | Tester la cohérence des prétentions divinatoires | Lui attribuer uniformément toutes les positions du dialogue |
+| Parabole chinoise | Zhuangzi et le papillon | Interroger les perspectives et l'identité | Supposer une transmission grecque |
+
+## ANNEXE II — CHRONOLOGIE INDICATIVE
+
+- Fin du IIIe millénaire av. n. è. : Gudea et le récit royal du rêve de Ningirsu.
+- IIe millénaire av. n. è. : traditions littéraires sumériennes et akkadiennes, récits de rêves, poésie d'Ougarit.
+- Environ 1220 av. n. è. : manuscrit conservé du papyrus Chester Beatty III.
+- VIIIe–VIIe siècles av. n. è. (datations discutées) : formes monumentales des épopées homériques.
+- Ve siècle av. n. è. : Hérodote et tragiques athéniens ; interprétations littéraires des visions.
+- IVe siècle av. n. è. : philosophie de Platon et d'Aristote ; essor documenté du culte guérisseur d'Épidaure.
+- IIe–IIIe siècles de n. è. : Aelius Aristide et Artémidore, dans des contextes distincts.
+- 1902 : William James, *Les Variétés de l'expérience religieuse*.
+
+## ANNEXE III — DOSSIERS ICONOGRAPHIQUES À INSÉRER SUR MYTHOS
+
+1. Papyrus Chester Beatty III, British Museum, EA10683,2 : <https://www.britishmuseum.org/collection/object/Y_EA10683-2>. **Crédit : © Trustees of the British Museum ; vérifier les conditions de réutilisation avant toute intégration d'image.**
+2. Cylindres de Gudea, musée du Louvre : sélectionner une photographie à licence autorisant explicitement la republication avec sa légende.
+3. Sanctuaire d'Asclépios à Épidaure et vestiges des espaces d'incubation : photographies de monument sous licence adaptée.
+4. Stèle du Songe de Thoutmôsis IV au pied du Sphinx : photographie patrimoniale à sourcer et créditer.
+5. Schéma comparatif original « du rêve au pouvoir » : image éditoriale à créer pour MYTHOS.
+
+## ANNEXE IV — QUESTIONS ET PROTOCOLE SCIENTIFIQUE
+
+1. Une expérience peut-elle faire autorité sans être vérifiable par autrui ?
+2. Comment distinguer témoignage, littérature et propagande lorsqu'un rêve est raconté ?
+3. La fonction politique d'un songe exclut-elle la sincérité d'un croyant ?
+4. Quelles différences séparent un rêve de guérison et une consultation médicale ?
+5. Pourquoi des rêves jugés faux restent-ils culturellement significatifs ?
+6. Comment tester les annonces d'un rêve sans sélectionner seulement leurs réussites ?
+7. Le rêve du papillon interroge-t-il la perception ou la continuité du moi ?
+8. Le vocabulaire actuel de « psyché », « hallucination » ou « inconscient » est-il applicable sans anachronisme ?
+
+**État éditorial.** Manuscrit de recherche ; non publié sur WordPress. Vérifier les traductions et les éditions critiques avant publication académique. Distinguer systématiquement sources anciennes, reconstitutions historiographiques et lectures philosophiques. Ne pas publier les photographies dont les droits n'ont pas été vérifiés.
+
+---
+
+# MYTHOS — AUX ORIGINES DU SACRÉ
