@@ -1,0 +1,398 @@
+# TOME III — LE CORPS, LA CAVERNE ET LES PREMIERS MONDES INVISIBLES
+
+# MYTHOS — AUX ORIGINES DU SACRÉ
+## Tome III — Le corps, la caverne et les premiers mondes invisibles
+
+*Édition critique augmentée, 30 octobre 2026. Continuation des tomes I (Hohle Fels) et II (des premières traces symboliques aux paysages rituels). Manuscrit scientifique pour MYTHOS : ce document n'est pas publié sur WordPress. Les lieux, objets et datations doivent être attribués à des contextes archéologiques précis ; aucune transmission directe vers les religions historiques n'est présumée.*
+
+> **Question centrale.** Comment un groupe humain peut-il faire exister, par des gestes, des lieux et des objets, une réalité collective qui demeure significative en l'absence de ses participants ? Le sacré n'est ici ni une époque universelle ni une propriété que l'on lit automatiquement dans une image. On l'approche en comparant des comportements observables avec plusieurs interprétations possibles.
+
+## 45. Le Tuc d'Audoubert : faire apparaître un animal dans les profondeurs
+
+Les cavernes du Volp, en Ariège, permettent de dépasser l'alternative trop simple entre « galerie d'art » et « temple ». Dans la grotte du Tuc d'Audoubert, un réseau inférieur accompagne le cours souterrain du Volp, un réseau médian renferme des traces de fréquentation magdalénienne, et un réseau supérieur conduit jusqu'à la salle des Bisons. Le parcours n'est pas un accès banal à une galerie lumineuse : passages étroits, pentes, obscurité et contraintes d'éclairage conditionnaient l'expérience. La base documentaire de Jean Clottes, diffusée par le CNRS, indique un niveau d'occupation daté d'environ 16 500 ans et décrit au fond de la cavité deux bisons modelés dans l'argile, sur un relief naturel.
+
+Le matériau est décisif. L'argile est malléable, conserve la pression des doigts et autorise le façonnage progressif d'un corps animal. Le bison n'est donc pas seulement « dessiné » : une forme se constitue par intervention directe des mains. Les empreintes humaines conservées sur les sols renseignent sur une chorégraphie matérielle réelle, sans révéler la raison de cette présence. Une foule y assistait-elle ? Le lieu était-il réservé à quelques praticiens ? Les deux sculptures étaient-elles destinées à durer, à être vues ponctuellement ou à intervenir dans une action précise ? Nous l'ignorons.
+
+Une lecture cérémonielle est raisonnable à examiner, en raison de la profondeur du dispositif et de l'investissement artistique. Elle reste une **interprétation**, non une observation. C'est une règle de MYTHOS : ne jamais transformer une circonstance émouvante en « preuve » d'un culte du bison. Les deux sculptures attestent un travail figuratif, une sélection d'espace et une mémoire matérielle ; leur destinataire, s'il y en avait un, demeure inconnu.
+
+**Sources :** [Base Jean Clottes, fiche du Tuc d'Audoubert](https://animal-representation.cnrs.fr/s/bjc/item/6187) ; [Association Louis Bégouën, site officiel des Cavernes du Volp](https://www.cavernesduvolp.com/grottedutucdaudoubert).
+
+## 46. Gargas et Maltravieso : quand la main devient image de l'absence
+
+La main négative est une œuvre paradoxale : elle représente un membre par une zone laissée vide. De la poudre ou du pigment diffusé autour de la main maintenue contre une paroi fixe son contour. Ce résultat peut avoir été visible longtemps après le départ de la personne qui l'a créé. Dans la grotte de Gargas, au pied des Pyrénées, certaines silhouettes présentent moins de doigts que ne le suggérerait une main étendue. Les interprétations anciennes ont fait intervenir des amputations, des maladies et des blessures ; d'autres chercheurs ont envisagé le repli volontaire des doigts, voire un vocabulaire gestuel. Il faut distinguer les marques observables sur la paroi des anatomies reconstruites.
+
+L'importance de ces empreintes n'est pas seulement anatomique. Elles montrent le corps humain transformé en matrice de représentation. Contrairement à une figure animale dessinée de mémoire, la main projette une correspondance directe entre un geste et sa trace. On ne peut pourtant pas dire si chaque empreinte constituait une signature personnelle, une marque d'appartenance, un jeu, un signal ou une action rituelle.
+
+À Maltravieso, en Estrémadure, une étude parue en 2025 a analysé vingt-deux prélèvements de croûtes carbonatées recouvrant des pochoirs. Les âges minimaux obtenus s'étendent sur une longue durée, y compris jusqu'au Paléolithique moyen. Ces résultats participent au débat sur la production d'art par les Néandertaliens. Une croûte datée donne un **âge minimum** à la peinture sous-jacente, non l'instant exact où une main a été posée.
+
+Cette différence est capitale pour l'histoire des religions : une image du corps peut transmettre une présence, mais elle ne permet pas de conclure à la survie de l'âme. Le problème de l'absence est philosophiquement fécond ; l'interprétation religieuse doit demeurer explicitement hypothétique.
+
+**Sources :** [Standish et al., *Journal of Archaeological Science: Reports* 61, 2025, 104891](https://doi.org/10.1016/j.jasrep.2024.104891) ; [Hoffmann et al., *Science*, 2018](https://doi.org/10.1126/science.aap7778).
+
+## 47. Göbekli Tepe : la révision majeure des pratiques funéraires en 2026
+
+Longtemps présenté dans les médias comme « le premier temple du monde », Göbekli Tepe apparaît aujourd'hui sous un jour plus complexe. Les fouilles ont mis au jour des enceintes monumentales et des piliers à reliefs animaux, mais aussi des éléments liés à des usages domestiques. Le site s'est constitué pendant environ seize siècles, principalement au cours du Néolithique précéramique A et B. Le présenter comme un sanctuaire dépourvu d'habitants isolerait artificiellement le rituel d'une société dont les activités résidentielles, architecturales et mémorielles se recoupaient.
+
+L'étude de Julia Gresky et Lee Clare publiée le **22 septembre 2026** décrit les premières sépultures intactes identifiées à Göbekli Tepe, dans des contextes du Néolithique précéramique B (environ 8700-8000 av. notre ère). Les chercheurs comparent ces dépôts aux ossements fragmentaires dispersés dans les remplissages des bâtiments spéciaux. Les processus de déplacement sédimentaire depuis les parties hautes du tell pourraient expliquer une partie de cette dispersion. Ainsi, certains os auraient appartenu à des sépultures ordinaires déstabilisées par l'érosion, plutôt qu'à des dépôts sacrificiels intentionnels. Les auteurs ne prétendent pas exclure l'existence d'autres rites funéraires.
+
+La leçon méthodologique est particulièrement forte. Un os retrouvé dans le remplissage d'un édifice monumental ne prouve pas qu'il a été déposé à l'intérieur lors d'un rituel. Il faut reconstituer la formation des couches et les mouvements de sédiments. La taphonomie empêche de confondre le lieu de découverte avec le lieu d'usage initial.
+
+Pour MYTHOS, cette étude exige une correction de l'image populaire du site : **la monumentalité n'implique pas une séparation absolue entre le sacré et le domestique**. Les bâtiments, les morts et les activités quotidiennes pouvaient cohabiter dans un environnement social dont les frontières ne ressemblaient pas aux nôtres.
+
+**Sources :** [Gresky et Clare, *PLOS ONE* 21(9), 2026, e0358979](https://doi.org/10.1371/journal.pone.0358979) ; [Institut archéologique allemand, communiqué du 21 septembre 2026](https://www.dainst.org/en/newsroom/neue-veroeffentlichung-menschliche-ueberreste-und-bestattungsbraeuche-in-goebeklitepe/924).
+
+## 48. Descendre sous terre : une expérience du monde qui n'est pas encore un « enfer »
+
+Une grotte profonde modifie les conditions ordinaires de la perception. La lumière naturelle disparaît ; l'humidité et la température se stabilisent différemment ; la direction du son et la perception des distances peuvent être perturbées. Il faut mobiliser une technique d'éclairage, accepter la dépendance au feu et mémoriser le chemin du retour. Cette expérience était peut-être saisissante pour des populations paléolithiques comme elle l'est pour nous, mais nous ne devons pas supposer qu'elles formulaient le sentiment d'étrangeté dans les mêmes termes.
+
+Le vocabulaire d'« entrée dans le monde des morts », de « ventre de la terre » ou d'« initiation souterraine » provient souvent de parallèles historiques ou ethnographiques. Ces analogies peuvent inspirer des questions de terrain : certains passages ont-ils été aménagés ? Les traces humaines se concentrent-elles près de seuils ? Les images sont-elles réparties selon des zones ? L'accès était-il récurrent ? Mais elles ne permettent pas de traduire un paysage paléolithique en cosmologie connue.
+
+La grotte n'était pas forcément exclusivement rituelle. Elle pouvait être un abri, un lieu de prélèvement, un passage, un espace d'expérimentation, une réserve naturelle ou un endroit où laisser des images. Son usage dépend des phases chronologiques. Une même cavité pouvait avoir des fonctions différentes selon les périodes : Chauvet, Lascaux, Gargas et le Tuc d'Audoubert ne constituent pas les pièces interchangeables d'un temple universel.
+
+On peut néanmoins formuler une hypothèse philosophique : en s'aventurant vers des espaces non quotidiens, les humains expérimentaient une distinction entre lieux ordinaires et lieux singuliers. **Singulier**, ici, ne veut pas dire **sacré** au sens démontré. L'enquête commence précisément lorsque cette distinction devient une question.
+
+## 49. L'acoustique des grottes : une hypothèse testable, pas une liturgie retrouvée
+
+La sensation de réverbération constitue un phénomène mesurable : certaines salles renvoient des impulsions sonores, prolongent des chants ou amplifient des fréquences. Ces propriétés ont pu influencer le choix des lieux peints ou fréquentés. L'archéoacoustique mesure la réponse des espaces et tente de comparer les surfaces ornées à des surfaces non ornées. La difficulté tient au faible nombre de contextes contrôlés, aux transformations des grottes et au risque de chercher seulement les exemples favorables à une théorie.
+
+Une étude parue en 2025 sur vingt-sept lieux d'art rupestre des montagnes du Maloti-Drakensberg, en Afrique australe, montre précisément l'intérêt et les limites de cette démarche. Ses auteurs concluent à une relation circonstancielle entre acoustique et peintures, plutôt qu'à une règle générale simple. Ce terrain n'est pas paléolithique européen ; il démontre cependant comment construire une enquête comparative sans transformer immédiatement une résonance en rite de transe.
+
+L'acoustique peut aider à concevoir des expériences : enregistrer la réverbération selon les emplacements, comparer les seuils de visibilité, simuler une source lumineuse mobile, mesurer l'effort de déplacement. Elle ne permet jamais de restituer à elle seule une prière, un répertoire musical ou une croyance. La découverte d'une flûte à Hohle Fels renseigne sur les moyens de faire de la musique ; elle ne prouve pas que les mêmes personnes jouaient devant des peintures et dans un espace particulier.
+
+**Source :** [Da Rosa et al., 2025, *Journal of Archaeological Science: Reports* 61, 104900](https://doi.org/10.1016/j.jasrep.2024.104900).
+
+## 50. Le corps peint : la part invisible des archives préhistoriques
+
+Peindre une peau, nouer des fibres dans les cheveux ou porter un objet sur le corps constitue une opération hautement signifiante : le corps devient une surface sociale. Mais ces pratiques sont généralement moins bien conservées que les gravures sur roche ou les sculptures en ivoire. L'absence de costume ne prouve pas l'absence de costume ; l'absence de masque ne prouve pas l'absence de mascarade. Cette dissymétrie documentaire est l'un des obstacles fondamentaux de la recherche.
+
+Les pigments retrouvés dans un site peuvent répondre à des fonctions variées : colorer, lier une matière, protéger une surface, apprêter une peau, décorer un objet, signaler une appartenance ou participer à une cérémonie. Même lorsqu'une poudre d'ocre accompagne un dépôt humain, il faut rechercher si le pigment provient d'un geste intentionnel ou d'une contamination sédimentaire. Une concentration est un indice, pas une traduction directe.
+
+Pour penser le sacré, le corps peint offre un modèle conceptuel : l'individu biologique devient porteur de signes collectivement lisibles. Un motif peut marquer une personne à une étape de sa vie, un rôle social, une rencontre, une fête ou une relation avec un animal. De telles pratiques sont ethnographiquement documentées dans des sociétés très diverses, mais **les exemples ethnographiques ne suffisent pas à déterminer le sens d'un objet paléolithique précis**.
+
+Dans le dossier, cette absence de preuves directes doit figurer sous une rubrique « archéologie du périssable » : voix, gestes, bois, textiles, fibres, pigments corporels. Écrire l'histoire des religions à partir des seuls objets qui survivent sans signaler ce filtre reviendrait à confondre le hasard de la conservation avec la totalité d'une culture.
+
+## 51. La musique : coordonner des présences, produire une mémoire commune
+
+Une musique peut réunir plusieurs corps dans un même temps : danse, souffle, frappes répétées, alternance entre soliste et groupe, apprentissage d'un motif. Les flûtes aurignaciennes étudiées dans le Jura souabe montrent que des traditions techniques permettant la production de sons mélodiques existaient il y a environ 40 000 ans. L'existence d'un instrument n'indique toutefois ni le contenu de la musique ni ses circonstances exactes.
+
+L'expérience musicale offre un terrain pour une anthropologie du rituel. Une performance collective peut faire éprouver une synchronie, renforcer des liens et stabiliser la mémoire d'une histoire. Ces processus sont observables chez les humains contemporains et dans des sociétés historiquement documentées. Leur projection sur la préhistoire demeure hypothétique ; la base matérielle, elle, est indépendante : perçage des tubes osseux, usure, acoustique des instruments, contextes stratigraphiques.
+
+Il convient de distinguer trois questions : **pouvait-on jouer ?** — oui, lorsque l'instrument est correctement identifié ; **jouait-on en groupe ?** — possibilité ouverte, rarement directement vérifiable ; **jouait-on pour des puissances invisibles ?** — aucune certitude. Une musique d'agrément, de rassemblement et de rite n'a d'ailleurs pas besoin d'être classée dans des catégories mutuellement exclusives.
+
+Le passage philosophique est celui de la mémoire partagée : une mélodie n'existe qu'à travers des actes répétés et des auditeurs, tout en pouvant survivre à celui qui l'a inventée. Cette capacité d'existence collective peut aider à penser des traditions transmissibles sans présupposer une doctrine religieuse.
+
+## 52. Les parures et le réseau : être reconnu au-delà de son groupe immédiat
+
+Perles, dents percées, coquillages et matières rares témoignent d'investissements qui ne se réduisent pas toujours à l'alimentation ou à l'outillage. Une parure exige souvent une chaîne de fabrication : sélection du matériau, perforation, polissage, enfilage et entretien. Certains objets ont circulé au-delà des lieux où leurs matières premières étaient disponibles. Ils peuvent donc renseigner sur les relations sociales et les échanges.
+
+Un bijou ne constitue pas automatiquement une amulette. Ses usages possibles incluent la distinction de personnes, la mémoire d'événements, la transmission de biens, l'expression d'une identité collective ou l'attachement affectif. Le statut de talisman exigerait une preuve supplémentaire, difficile à obtenir avant l'écriture. Les serres de rapaces travaillées par les Néandertaliens à Krapina, les coquillages perforés d'autres sites et les perles du Paléolithique supérieur permettent de penser la valeur sociale des objets sans reconstruire une religion uniforme.
+
+Le problème historique décisif est celui de l'accord collectif : comment plusieurs personnes reconnaissaient-elles que ce matériau, cette forme ou cette manière de le porter signifiait quelque chose ? L'objet ne révèle pas la réponse, mais il montre que la forme visible et l'usage répété pouvaient constituer des supports d'une communication au-delà de la présence immédiate de celui qui l'avait fabriqué.
+
+Cette communication symbolique appartient aux conditions possibles de transmission des traditions et des récits, sans être une preuve directe de mythologie.
+
+## 53. Les animaux, partenaires de monde et non simples objets de chasse
+
+Les figures du Paléolithique mettent au premier plan des êtres non humains : chevaux, bisons, aurochs, lions, rhinocéros, cervidés, mammouths et oiseaux. L'animal était source de nourriture, concurrent, menace, compagnon écologique, ressource technique et objet d'attention. Le réduire à une proie, même dans une société de chasseurs-cueilleurs, écrase la multiplicité de ces relations.
+
+Les études ethnographiques invitent à envisager des sociétés où les animaux sont traités comme des partenaires dotés de perspectives, de capacités d'action ou d'une intériorité. Une telle attitude est parfois décrite à travers le terme d'animisme, mais ce dernier recouvre des traditions fort différentes. La comparaison ouvre des possibilités d'interprétation ; elle ne permet pas d'affirmer qu'un lion dessiné à Chauvet avait le même statut qu'un être spirituel documenté plusieurs millénaires plus tard.
+
+Une question mérite d'être posée à chaque site : pourquoi telle espèce est-elle représentée à cet endroit et non telle autre ? Il faut comparer espèces figurées, espèces réellement consommées, saisonnalité, faune environnante et techniques de représentation. Lorsque la sélection figurative ne correspond pas à la composition du régime alimentaire, cela invite à rechercher d'autres fonctions de l'image, mais n'établit pas un culte.
+
+La notion de « rapport au vivant » est parfois plus féconde que celle de « religion animale ». Elle permet de décrire la relation à l'altérité non humaine sans imposer des catégories issues des panthéons historiques.
+
+## 54. Figures hybrides : représenter ce qu'aucun œil ne voit
+
+L'Homme-lion de Hohlenstein-Stadel combine des traits humains et félins. D'autres figures composites et personnages aux contours discutés apparaissent dans les corpus préhistoriques. Cette association de catégories distinctes démontre une capacité de recombinaison figurative : un être peut être représenté autrement que n'importe quel animal observable. Ce constat n'indique pas s'il s'agit d'une divinité, d'un déguisement, d'un personnage raconté ou d'un exercice de l'imagination.
+
+Il est tentant de voir dans l'hybridité la naissance directe de la mythologie. Un humain à tête animale rappelle aux lecteurs de MYTHOS des figures de l'Égypte ancienne, de la Mésopotamie ou de la Grèce. Mais un motif ressemblant ne fournit pas une généalogie. Entre Hohlenstein-Stadel et les images d'Anubis ou de Sekhmet s'interposent des dizaines de millénaires, des langues et des contextes sans chaîne documentaire continue.
+
+La véritable question intellectuelle est celle des frontières : la représentation permet de séparer puis de combiner les qualités d'un corps. Un récit peut ensuite stabiliser cette combinaison sous la forme d'une transformation, d'une rencontre ou d'un personnage. **L'existence d'une image composite ne garantit pas la présence d'un récit identifié**. Elle rend toutefois perceptible un monde de possibilités qui dépasse l'identification naturaliste.
+
+Ce chapitre peut former dans MYTHOS un lien entre la préhistoire de l'image et une histoire comparée de la métamorphose, à condition de séparer parallèles morphologiques et héritages attestés.
+
+## 55. Masques, métamorphoses et identités provisoires
+
+Un masque transforme la présentation publique du visage. Il peut intervenir au théâtre, dans le jeu, dans la cérémonie, dans une fête ou dans un changement de rôle social. Les traditions historiques montrent qu'il permet de faire apparaître une présence autre que celle de son porteur ordinaire. Mais les masques en fibres, cuir ou bois se conservent très mal : il serait abusif de déduire leur usage préhistorique d'une figure gravée qui semble montrer un visage animal.
+
+La métamorphose présente pourtant un problème anthropologique majeur. Une personne peut se représenter sous une autre forme ou être reconnue collectivement dans un rôle distinct de son identité habituelle. Les images hybrides rendent ce problème visible, mais ne nous disent pas si leurs créateurs se déguisaient réellement.
+
+Pour les analyses philosophiques de MYTHOS, il faut distinguer trois opérations : **figurer** une combinaison de traits, **jouer** un rôle en utilisant des accessoires et **raconter** une transformation. Elles peuvent se rejoindre dans un rite, mais elles ne se déduisent pas mécaniquement l'une de l'autre. Le personnage de Dionysos, qui transforme les apparences et fait vaciller les catégories, peut ensuite servir de contrepoint historique et littéraire ; il ne constitue pas l'explication des artistes aurignaciens.
+
+La prudence évite un anachronisme fréquent : reconstruire un théâtre paléolithique complet parce qu'une statuette ressemble à un acteur masqué. Nous disposons de productions figuratives, non d'un livret de représentation.
+
+## 56. Rêve, vision et états de conscience : les pièges du chamanisme universel
+
+Le sommeil, les rêves et les expériences de conscience modifiée sont des possibilités humaines générales. Cela explique l'intérêt de plusieurs anthropologues pour les rapports possibles entre images, récits et visions. Certains auteurs ont attribué des grottes ornées à des spécialistes rituels qui auraient représenté des expériences de transe. Ces lectures sont stimulantes mais ont rencontré des critiques : diversité des figures, absence d'indices indépendants de pratiques précises, sélection de parallèles ethnographiques et caractère parfois invérifiable des scénarios.
+
+Le mot « chamane » désigne historiquement des configurations particulières, et son usage généralisé à la préhistoire peut transformer une question en réponse présupposée. Une peinture géométrique peut résulter de nombreuses activités et styles ; une image hybride peut ne rien devoir à une vision. L'archéologue doit donc chercher des traces convergentes plutôt que des ressemblances séduisantes.
+
+Pour MYTHOS, la voie rigoureuse consiste à présenter plusieurs hypothèses : scène racontée, jeu figuratif, mémoire de rencontre, expérience onirique, représentation de rôle ou motif rituel. Chacune appelle des preuves distinctes. Aucune ne doit devenir le nom universel de l'art préhistorique.
+
+La réflexion philosophique reste féconde : rêves et visions peuvent conduire les humains à penser des personnes absentes, des situations impossibles ou des transformations de la réalité. Il s'agit d'une **hypothèse sur les ressources de l'imagination**, non d'une reconstitution de l'expérience vécue à Chauvet ou Hohle Fels.
+
+## 57. L'archéologie cognitive : expliquer sans réduire le religieux à un mécanisme mental
+
+Les sciences cognitives des religions s'intéressent notamment à la détection d'agents, à l'attribution d'intentions, à la mémorisation des récits extraordinaires et aux mécanismes de confiance sociale. Elles aident à comprendre pourquoi certaines représentations peuvent être plus faciles à retenir, partager ou transmettre. Les explications proposées par Pascal Boyer et d'autres chercheurs ne sont toutefois ni une preuve directe de l'ancienneté des dieux ni une méthode pour traduire une sculpture particulière.
+
+Une représentation peut être cognitivement possible sans avoir existé dans un groupe déterminé. De même, un comportement culturel ne s'explique pas seulement par une tendance mentale : il prend forme dans un environnement, une langue, un apprentissage et des relations historiques. Le passage des capacités aux traditions exige des médiations sociales.
+
+Il est donc utile de distinguer **capacités** (imaginer un agent absent), **pratiques** (raconter ou modeler cet agent), **institutions** (règles et participants qui en stabilisent l'usage) et **doctrines** (énoncés relativement explicites sur sa nature). L'archéologie peut renseigner certaines pratiques et institutions matérielles sans pouvoir vérifier les doctrines.
+
+Ce modèle évite le piège d'une explication unique de la naissance du sacré. Ni la peur de la mort, ni l'excès d'imagination, ni le besoin de contrôler la nature ne suffisent à expliquer la diversité des religions historiques.
+
+## 58. Enfants, transmission et apprentissage des gestes
+
+Un geste devient socialement durable lorsqu'il peut être reproduit. Fabriquer une perle, utiliser un pigment, modeler l'argile ou produire une note sur un instrument implique un apprentissage, parfois une division du travail et des savoir-faire transmis entre générations. Les traces de mains, les empreintes de pieds et les objets de taille variée ont parfois été mobilisés pour discuter de la présence de jeunes personnes ; les estimations d'âge à partir des dimensions de traces restent soumises à des incertitudes.
+
+La transmission n'est pas automatiquement initiatique. Un enfant qui apprend à dessiner n'entre pas nécessairement dans un culte. Néanmoins, l'apprentissage est un élément nécessaire pour comprendre la persistance de styles, de techniques et de gestes. Une tradition symbolique suppose que des personnes sachent refaire des formes reconnaissables et que d'autres apprennent à y répondre.
+
+Pour une étude des origines du sacré, la question devient : comment passe-t-on d'un événement singulier à une conduite que l'on attend des autres ? Le contrôle collectif d'un geste, sa répétition et son enseignement peuvent transformer une pratique en norme. Cette transformation n'implique pas toujours des dieux, mais elle crée les conditions matérielles de rituels plus organisés.
+
+La préhistoire ne donne pas les paroles d'un maître ou d'un parent. Elle permet de reconstruire des chaînes opératoires et des régularités, ce qui constitue une histoire de la transmission sans prétendre reconstituer des cérémonies d'initiation.
+
+## 59. Festins, hospitalité et mémoire : manger ensemble, honorer les morts
+
+Les activités collectives autour des aliments sont archéologiquement accessibles à travers les ossements, les foyers, les outils et les espaces de préparation. Un repas plus important que la consommation ordinaire peut correspondre à une réunion de groupe, à un échange, à une commémoration ou à un événement rituel. Les quantités déposées et leur association avec certains espaces permettent parfois d'argumenter un festin ; elles ne donnent pas accès à un calendrier religieux.
+
+La tombe de Hilazon Tachtit, déjà étudiée dans le tome II, offre un exemple de la complexité de ces interprétations. Les assemblages d'animaux, de tortues et les aménagements ont conduit à discuter de pratiques funéraires et de repas collectifs. Une spécialiste rituelle, souvent décrite comme « chamane », a été proposée, mais cette qualification demeure une hypothèse scientifique. Les données témoignent plus directement d'un traitement mortuaire singulier et d'activités collectives.
+
+Le repas partagé pose une question centrale : il peut créer un « nous » sans référence explicite à un être invisible. Les assemblées festives deviennent ensuite, dans les religions documentées, des moyens de redistribuer, de remercier, de commémorer ou de consacrer. Le rapprochement est structurel, non généalogique.
+
+L'important est de ne pas écraser la dimension politique du rassemblement sous l'étiquette du religieux. Un festin peut stabiliser des alliances, des hiérarchies ou des droits d'accès, et être simultanément chargé de significations symboliques.
+
+## 60. Le Danube de Lepenski Vir : les poissons, les maisons et la transformation des êtres
+
+À Lepenski Vir, sur les rives du Danube dans l'actuelle Serbie, les fouilles ont révélé des architectures, des sépultures et de remarquables blocs sculptés. Le Musée national de Serbie situe l'occupation de l'ensemble entre le Xe et le VIe millénaire avant notre ère, du Mésolithique au Néolithique, et met en avant la relation des communautés avec la pêche. Certaines sculptures présentent des traits qui évoquent des poissons et des visages humains.
+
+Les blocs n'étaient pas simplement des œuvres isolées dans un musée : ils occupaient des positions précises dans les bâtiments, parfois près des foyers. Dušan Borić a développé en 2005 une interprétation de ces objets comme des « corps » engagés dans des processus de métamorphose, articulant les cycles saisonniers des poissons, les relations avec les défunts et les transformations de la communauté. Cette lecture est argumentée et influente, mais elle demeure une interprétation de la relation entre objets et pratiques.
+
+Ce cas permet d'aller plus loin que l'étiquette « dieu-poisson ». Il invite à considérer que les catégories humaines et animales pouvaient être représentées comme poreuses. La régularité du fleuve et les migrations des espèces pouvaient fournir des repères temporels puissants, sans que nous puissions reconstituer une mythologie complète des habitants.
+
+Le point comparatif est majeur : la pensée du sacré peut organiser des relations avec un environnement particulier — ici le fleuve — plutôt que partir d'un panthéon abstrait.
+
+**Sources :** [Musée national de Serbie, collection Lepenski Vir](https://www.narodnimuzej.rs/prehistory/lepenski-vir-collection/?lang=en) ; [Borić, 2005, *Cambridge Archaeological Journal*](https://doi.org/10.1017/S095977430500003X).
+
+## 61. Sayburç : des personnages racontés sur les bancs d'une maison commune
+
+À Sayburç, en Anatolie du Sud-Est, un bas-relief découvert dans un bâtiment communal a été présenté par Eylem Özdoğan dans *Antiquity* en 2022. Il date du IXe millénaire avant notre ère. Une scène montre un personnage masculin entre deux léopards, aux mâchoires ouvertes ; une autre associe un personnage et un taureau. Le dispositif sculpté appartient au mobilier architectural d'un lieu de réunion, et non à un support mobile anonyme.
+
+La particularité de l'ensemble tient aux relations entre les figures. Les personnages ne sont pas simplement alignés comme dans un inventaire d'animaux. Ils paraissent engagés dans une action ou une confrontation. Les chercheurs ont donc parlé de composition narrative. L'hypothèse d'un récit partagé devient plus forte que pour une figure isolée, sans que l'on puisse retrouver les noms des acteurs ou la fin de l'histoire.
+
+L'existence d'un décor narratif dans un lieu communautaire permet de réfléchir à la manière dont une assemblée construit sa mémoire. Des personnes réunies devant ce relief pouvaient reconnaître des relations ou des événements, mais la scène pourrait également rappeler une situation exemplaire ou un jeu d'oppositions. L'archéologie ne permet pas de décider si l'illustration représentait un mythe au sens strict.
+
+Sayburç constitue ainsi une étape remarquable dans l'histoire des images sociales : les personnages, l'architecture et la possibilité d'un récit collectif sont réunis. Les récits mythiques écrits qui apparaissent bien plus tard en Mésopotamie ne peuvent cependant pas être considérés comme ses descendants démontrés.
+
+**Source :** [Özdoğan, 2022, « The Sayburç reliefs: a narrative scene from the Neolithic », *Antiquity* 96, 1599–1605](https://doi.org/10.15184/aqy.2022.125).
+
+## 62. Jéricho : reconstruire un visage à partir des restes d'un mort
+
+Au Néolithique précéramique B, plusieurs communautés du Levant ont prélevé certains crânes après la mort et les ont parfois recouverts de plâtre, leur donnant des traits faciaux. Des coquillages pouvaient figurer les yeux. Les crânes de Jéricho constituent des exemples célèbres de cette transformation. Un spécimen présenté par l'Ashmolean Museum est situé autour de 7000 avant notre ère, avec des datations plus larges selon les objets et les contextes.
+
+Ce geste est matériellement plus spécifique qu'une inhumation simple. Il suppose une intervention secondaire sur des restes humains, la sélection d'un visage, sa fabrication et éventuellement son exposition ou son enfouissement. Il peut correspondre à une mémoire des défunts, au maintien de certains membres au sein de l'espace communautaire ou à des pratiques de légitimation sociale.
+
+L'expression « culte des ancêtres » est souvent employée, mais elle risque de supposer ce qui demeure à établir : que les individus représentés étaient considérés comme des ancêtres investis d'un pouvoir particulier et faisaient l'objet de conduites répétées d'hommage ou de supplication. Les études ont montré que les personnes concernées ne se limitent pas à une catégorie unique d'hommes âgés. Une image des morts ne démontre pas la doctrine d'un pouvoir surnaturel des morts.
+
+Cette pratique révèle néanmoins une transformation puissante : un corps disparu devient un visage reconstruit, capable d'occuper de nouveau une place parmi les vivants. L'analogie avec les portraits funéraires égyptiens ou les cultes ancestraux historiques doit rester comparative ; une continuité à travers les millénaires n'est pas donnée.
+
+**Sources :** [Ashmolean Museum, « Jericho Skull »](https://ashmolean.org/jericho-skull) ; [British Museum, notice de collection](https://www.britishmuseum.org/collection/search?title=Jericho+skull) ; [Hirst, 2017](https://doi.org/10.5334/pia-521).
+
+## 63. ‘Ain Ghazal : des statues humaines aux grands yeux
+
+À ‘Ain Ghazal, près d'Amman en Jordanie, des statues de plâtre de chaux furent découvertes en 1985 dans une fosse. L'Institut de conservation de la Smithsonian Institution présente un ensemble comprenant des figures debout approchant un mètre de hauteur et d'étranges bustes à deux têtes. Les pièces sont datées approximativement de 6500 avant notre ère et ont nécessité une longue restauration.
+
+Ces objets témoignent d'une échelle de représentation différente de celle d'une petite figurine manipulable. Fabriquer de grands corps artificiels, leur donner des traits et les déposer en groupe suppose un investissement important. Mais les mots « idoles », « dieux » ou « ancêtres » dépendent d'une interprétation qui ne saurait être confondue avec la description matérielle.
+
+Que signifient les yeux insistants ? Une convention figurative, une attention au regard, la représentation d'une personne, un art du visible ou une puissance surnaturelle ? Il n'existe pas de texte néolithique permettant de le dire. Les statues ont été retrouvées déposées, ce qui ne prouve pas qu'elles aient été adorées avant leur enfouissement. Il faudrait mieux connaître leurs contextes d'usage, leurs éventuelles réparations et les trajectoires de leurs matières.
+
+Pour MYTHOS, ‘Ain Ghazal permet de relier les statues néolithiques aux interrogations sur les images de dieux dans les premiers temples historiques : **à quel moment une image reçoit-elle le statut de personne, d'ancêtre ou de présence divine ?** Le parallèle relève de la théorie de la représentation, non d'une filiation établie.
+
+**Source :** [Smithsonian Museum Conservation Institute, « ‘Ain Ghazal Statues »](https://mci.si.edu/ain-ghazal-statues).
+
+## 64. Sefertepe, Çayönü et Karahantepe : la pluralité des pratiques relatives aux crânes
+
+Les fouilles de plusieurs sites néolithiques du sud-est anatolien révèlent des traitements très différents des restes humains. L'étude de Gresky et Clare (2026) signale, dans la région des Taş Tepeler, des aménagements et dépôts comprenant des crânes, ainsi que des incisions et d'autres modifications observées sur certains os. Elle évoque notamment une petite « chambre aux crânes » à Sefertepe et les parallèles avec le « bâtiment aux crânes » de Çayönü.
+
+L'interprétation ne peut être uniforme. Une sélection de crânes peut correspondre à des pratiques funéraires secondaires, des déplacements de sépultures, des manipulations mémorielles ou des actions cérémonielles. Des traces de découpe peuvent résulter de traitements différents ; il faut observer leur emplacement, leur répétition et la succession des actes. Une disposition spectaculaire n'établit pas automatiquement une pratique de sacrifice ou de violence.
+
+Le dossier doit distinguer trois registres : **la conservation intentionnelle d'un élément du défunt**, **la réorganisation secondaire des corps** et **l'altération postdépositionnelle naturelle**. Les mêmes os peuvent être déplacés par des activités humaines puis remaniés par l'eau ou l'érosion. La lecture stratigraphique et taphonomique reste indispensable.
+
+Ces découvertes rendent insuffisante l'idée d'un seul « culte des crânes » au Proche-Orient néolithique. Il existait une pluralité de pratiques et de façons de faire coexister vivants et morts ; leur éventuel sens religieux ne peut être déduit d'une catégorie archéologique unique.
+
+**Source :** [Gresky et Clare, 2026, *PLOS ONE*](https://doi.org/10.1371/journal.pone.0358979).
+
+## 65. La maison et les morts : l'espace quotidien peut porter la mémoire collective
+
+Les sépultures placées sous les sols des habitations brouillent une opposition qui semble évidente dans certaines sociétés contemporaines : séparer les lieux des morts et les lieux des vivants. Dans une partie du Néolithique proche-oriental, la proximité matérielle des défunts et des activités domestiques suggère que certains bâtiments participaient à une histoire familiale ou communautaire durable.
+
+Cette pratique peut avoir de nombreuses fonctions. La maison devient un lieu où les générations se succèdent, où les droits et les attachements se stabilisent, où la mémoire se fixe dans un sol habité. Un corps placé sous un plancher ne constitue pas pour autant une preuve que son esprit restait présent ou qu'il recevait un culte. Les gestes de respect, de commémoration, de possession ou de transformation de l'espace sont distincts d'une théologie formalisée.
+
+L'architecture elle-même peut être biographique : on répare, on rebâtit, on recouvre une pièce, on conserve certaines formes et on incorpore des défunts à une histoire de bâtiment. Cette perspective, discutée dans les études de Çatalhöyük, est fondamentale pour les religions anciennes, où le temple et la maison sont parfois moins séparés qu'on ne l'imagine.
+
+Le sacré devient ici une question de **continuité sociale matérialisée**. Ce n'est pas seulement le lieu d'une image ou d'une cérémonie, mais la répétition de gestes à travers les générations qui peut transformer un espace en repère collectif.
+
+## 66. Les premiers monuments n'étaient pas nécessairement des temples séparés de la société
+
+L'existence de grandes constructions ne prouve pas l'existence d'un clergé professionnel. Une communauté peut bâtir un lieu impressionnant pour réunir plusieurs groupes, rendre visibles des alliances, afficher une compétence technique, organiser des événements ou célébrer des morts. Les exemples du Proche-Orient néolithique montrent que la monumentalité se développe dans des contextes où la sédentarité, les réseaux de parenté, l'alimentation et la circulation des objets évoluent.
+
+L'interprétation exclusivement religieuse de Göbekli Tepe a été révisée avec la multiplication des données domestiques. Il ne faut pas inverser l'excès : la présence de maisons n'annule pas la singularité des enceintes monumentales, de leurs sculptures et de leurs possibles pratiques collectives. Elle oblige à étudier **l'articulation** entre activités, non à choisir arbitrairement entre « village » et « sanctuaire ».
+
+L'enquête doit porter sur les ressources mobilisées pour bâtir : provenance des blocs, traces d'outils, séquences de reconstruction, répartition des déchets et niveaux de fréquentation. Les choix architecturaux attestent une capacité d'organisation ; leur signification sociale doit être reconstruite à partir d'indices convergents.
+
+Ce changement d'échelle prépare l'histoire ultérieure des cultes, où des spécialistes et institutions deviennent mieux identifiables. Il ne permet pas de déclarer que prêtres, dogmes et dieux de l'État naquirent simultanément au IXe millénaire.
+
+## 67. Ciel, saisons et calendriers : ce qu'on peut réellement déduire des images
+
+Les populations préhistoriques observaient nécessairement les changements de saisons, la lumière, les cycles de la lune et les rythmes des plantes et des animaux. Des régularités temporelles peuvent contribuer à organiser migrations, récoltes et événements sociaux. L'archéologie examine parfois l'orientation d'architectures ou des séquences de marques comme des indices possibles de comptage et d'observation astronomique.
+
+Mais associer une figure animale à une constellation moderne est une opération particulièrement fragile. Un nombre de traits gravés ne représente pas nécessairement les jours d'un mois ; un ensemble d'animaux n'est pas automatiquement un zodiaque. Les interprétations astronomiques des piliers de Göbekli Tepe ont été défendues dans des publications, notamment un article de 2024 proposant la lecture d'un calendrier luni-solaire. Elles sont contestées, en particulier lorsque l'argument dépend d'identifications subjectives de constellations et de rapprochements avec un impact cosmique discuté.
+
+Un bon protocole demanderait une définition préalable des correspondances, des tests statistiques sur l'ensemble des symboles et la possibilité de rejeter l'hypothèse. Il faudrait aussi distinguer orientation de bâtiment, iconographie, connaissance du ciel et récit cosmologique : ces éléments ne sont pas identiques.
+
+Dans MYTHOS, le chapitre « astronomie des origines » doit donc présenter **les observations certaines** (orientation, gravures, cycles naturels) et, séparément, les interprétations proposées. Il faut résister au mythe moderne selon lequel un peuple sans écriture aurait déjà transmis secrètement le zodiaque grec ou égyptien.
+
+**Référence d'une hypothèse controversée :** [Sweatman, 2024, *Time and Mind*](https://doi.org/10.1080/1751696X.2024.2373876). Ce texte n'est pas adopté comme conclusion de MYTHOS.
+
+## 68. De la figure au récit : pourquoi l'image n'est jamais une traduction complète
+
+Une scène figurative peut donner le sentiment d'une histoire : des personnages apparaissent en relation, des corps se tournent, des actions semblent se dérouler. Mais les images ne disent pas toujours qui sont leurs protagonistes, ce qui précède ou suit la scène, ni si l'événement représenté est réel, exemplaire ou imaginaire.
+
+La notion de récit suppose habituellement une articulation d'événements dans le temps. Une seule image peut suggérer cette temporalité, sans permettre de reconstruire une narration entière. La scène de Leang Karampuang à Sulawesi, présentée dans une publication de 2024, est interprétée comme une composition narrative datant d'au moins 51 200 ans ; celle de Sayburç, bien plus récente, offre des relations figurées dans un espace communautaire. Ces exemples ne désignent pas une origine unique du récit mais diverses attestations matérielles de compositions susceptibles de fonctionner narrativement.
+
+Pour démontrer un mythe, il faudrait idéalement disposer d'un récit reconnaissable transmis, de personnages identifiés, de répétitions comparables et d'un contexte social permettant de comprendre ses usages. La préhistoire ne satisfait que rarement ces conditions. La catégorie « proto-mythe » peut être commode mais ne résout pas le manque d'informations ; employée sans précaution, elle peut suggérer un stade historique universel fictif.
+
+Une histoire des mythes doit donc assumer deux temps : la préhistoire des capacités à représenter et raconter, puis l'histoire documentée de traditions dont les noms, les épisodes et les variantes deviennent accessibles par l'écriture.
+
+## 69. Ritualiser n'est pas forcément croire : la forme des gestes
+
+Le rituel peut être abordé comme une manière d'organiser les gestes. Une action est répétée, codifiée, placée dans un cadre, distinguée d'autres conduites. Certains rites requièrent un spécialiste ; d'autres sont accessibles à l'ensemble d'une communauté. Leur sens peut varier, y compris pour les personnes qui les pratiquent.
+
+L'archéologie peut parfois observer la répétition : dépôts de même nature, réfections de bâtiments, actions particulières autour des morts, agencements récurrents d'objets. Ces régularités peuvent soutenir une hypothèse de conduite ritualisée. Elles ne livrent pas une croyance déterminée. Même dans des sociétés documentées, tous les participants à un rite ne partagent pas nécessairement la même interprétation.
+
+Le défi est méthodologique. Si toute action inhabituelle devient un rite, le terme ne signifie plus rien. À l'inverse, exiger un texte explicitant une prière pour reconnaître une ritualisation interdirait toute approche préhistorique. La solution est graduée : répétition matérielle, spécificité du contexte, investissement distinctif, exclusion d'explications ordinaires et comparaison contrôlée.
+
+Pour MYTHOS, une fiche de site devra séparer **indices de ritualisation**, **indices de croyance**, **hypothèses sur les agents invisibles** et **institution cultuelle**. La même photographie ne saurait valoir preuve des quatre.
+
+## 70. Comment un rite peut produire de l'autorité
+
+Une pratique répétée peut progressivement acquérir une valeur d'obligation : certaines personnes apprennent à l'accomplir, d'autres en surveillent le déroulement, des lieux deviennent attendus pour sa réalisation. Cette dynamique pourrait favoriser la transmission de rôles spécialisés, mais l'archéologie ne permet pas d'identifier un « prêtre » chaque fois qu'un monument est construit.
+
+La spécialisation peut être ponctuelle. Une personne connaissant un trajet souterrain, un procédé de fabrication ou un répertoire de signes peut devenir importante dans certaines circonstances sans détenir une autorité religieuse permanente. De même, une tombe exceptionnelle ne prouve pas que le défunt était chamane ou chef. Les rangs sociaux et les fonctions cérémonielles doivent être distingués.
+
+Sur le plan philosophique, le rite établit un rapport entre la durée d'une tradition et la fragilité des individus : des personnes meurent, des bâtiments sont refaits, des gestes sont enseignés. Une autorité peut se construire par référence à un passé que personne ne peut connaître intégralement. À ce stade, il s'agit d'un modèle comparatif utile pour comprendre certaines institutions ultérieures, non d'une description directe d'une société particulière du Paléolithique.
+
+Cette approche rapproche l'histoire religieuse de l'histoire politique : organiser les cérémonies, redistribuer les ressources et conserver la mémoire collective peuvent être liés, sans être identiques.
+
+## 71. La peur, l'attachement et la joie : éviter la théorie unique de l'origine religieuse
+
+Expliquer les religions uniquement par la peur de l'orage ou de la mort est une simplification. Les sociétés peuvent construire des rites autour de la naissance, du passage à l'âge adulte, du mariage, du deuil, du succès collectif ou de la saison nouvelle. Il faut aussi prendre en compte la curiosité, la beauté, l'appartenance, la mémoire, l'humour et l'émotion esthétique. Aucune émotion ne produit automatiquement une théologie.
+
+Les corps humains réagissent à des circonstances de vulnérabilité, de surprise et de rassemblement. Les sciences contemporaines peuvent étudier ces réactions ; elles ne peuvent pas reconstruire l'intériorité d'individus morts il y a trente ou cent mille ans. Un objet élaboré en ivoire ne révèle pas s'il a été fait dans la tristesse, le jeu ou l'exaltation.
+
+L'histoire du sacré ne doit donc pas devenir une histoire pathologique des illusions. Elle ne doit pas davantage transformer tout geste artistique en preuve de spiritualité. La position la plus féconde consiste à reconnaître la pluralité des motivations et la capacité d'un même objet à fonctionner dans plusieurs registres.
+
+Les religions historiques documentées confirment que rite et émotion peuvent entretenir des rapports très variés : gratitude, effroi, transe, discipline, commémoration, jubilation. Cette variété rend peu plausible l'invention d'une seule « émotion religieuse » originaire que l'on pourrait lire sur toutes les parois.
+
+## 72. Durkheim, Cassirer et Lévi-Strauss : les outils et les limites de l'interprétation
+
+Durkheim a placé la distinction du sacré et du profane au centre d'une théorie sociale des religions. Son intérêt pour MYTHOS tient à l'idée qu'une valeur collective peut investir un objet matériel : ce qui compte n'est pas seulement la pierre, mais la relation qu'un groupe entretient avec elle. Il serait toutefois circulaire de qualifier une pierre préhistorique de sacrée parce qu'elle fut déposée dans un lieu inhabituel, puis d'en déduire que ce lieu était religieux.
+
+Ernst Cassirer a montré la richesse de l'activité symbolique humaine : langage, mythe, image et connaissance organisent des expériences différentes du monde. Cette philosophie permet de ne pas réduire l'art figuratif à une copie de la nature. Elle ne fournit cependant ni datations archéologiques ni croyances identifiables à Hohle Fels.
+
+Claude Lévi-Strauss a mis en évidence les transformations de relations et d'oppositions dans les récits mythiques. Comparer un humain-animal de la préhistoire aux formes hybrides de mythologies historiques peut éclairer une opération intellectuelle générale de combinaison et de transformation. Cela ne signifie pas que les populations de périodes très éloignées partageaient les mêmes oppositions ou les mêmes histoires.
+
+La démarche de MYTHOS doit donc être à double entrée : **les sciences de terrain établissent les objets et leurs contextes ; la philosophie examine les problèmes de signification qu'ils rendent possibles**. Confondre les deux revient soit à abaisser la philosophie au rang de commentaire arbitraire, soit à imposer aux vestiges un système extérieur.
+
+## 73. Nietzsche, Hegel et la tragédie : un regard rétrospectif à manier avec rigueur
+
+Nietzsche, dans *La Naissance de la tragédie*, réfléchit à la puissance de la musique, à l'expérience collective et à la tension entre forme apollinienne et élan dionysiaque. Une galerie de figures paléolithiques, une œuvre hybride et des instruments de musique peuvent susciter des comparaisons intellectuelles avec ces thèmes. Mais Nietzsche analyse, dans son propre langage philosophique, la culture grecque et la tragédie ; son schéma n'est pas une méthode d'interprétation des niveaux aurignaciens.
+
+Hegel aborde les rapports entre religion, art et figures historiques de la conscience. Sa pensée invite à examiner la manière dont une société se représente elle-même à travers des objets. En revanche, ses typologies historiques doivent être confrontées aux données nouvelles plutôt qu'appliquées comme des stades nécessaires conduisant des « primitifs » vers les Grecs ou les monothéismes. Cette téléologie ne constitue pas un résultat archéologique.
+
+Une lecture comparée rigoureuse peut poser trois questions : que fait une image à l'expérience d'un groupe ? Comment une performance collective transforme-t-elle les participants ? Comment une figure animale devient-elle un personnage stable dans une tradition littéraire ? Les deux premières ont une pertinence anthropologique générale ; la troisième exige une documentation historique lorsqu'on veut nommer un personnage.
+
+La tragédie grecque sera donc un **horizon comparatif**, non l'aboutissement nécessaire de la préhistoire. Le chœur d'Eschyle et la flûte de Hohle Fels n'appartiennent pas à la même tradition attestée : leur mise en regard éclaire des questions humaines, elle ne révèle pas une filiation cachée.
+
+## 74. De la préhistoire à l'Égypte et à la Mésopotamie : pourquoi les ressemblances ne suffisent pas
+
+Les premiers textes religieux du Proche-Orient et de l'Égypte permettent enfin d'accéder à des noms de divinités, des listes d'offrandes, des hymnes, des récits, des institutions et des conflits d'interprétation. Cette documentation transforme la méthode : l'archéologue peut confronter des textes, des bâtiments, des représentations et des contextes économiques. Les plus anciennes traditions écrites connues ne sont pas pour autant l'origine de toutes les croyances.
+
+Une statue aux grands yeux d'‘Ain Ghazal peut rappeler des représentations mésopotamiennes plus tardives ; un animal composite peut évoquer une divinité égyptienne ; un relief racontant une confrontation peut sembler proche d'un mythe héroïque. Aucune de ces ressemblances ne suffit à construire une ligne historique continue. Les intermédiaires chronologiques, les voies de transmission, les contextes linguistiques et les transformations formelles devraient être démontrés.
+
+Le projet MYTHOS peut créer des fiches comparatives à trois niveaux : **ressemblance de forme**, **ressemblance de fonction**, **transmission historique documentée**. Les deux premières sont utiles à la comparaison ; seule la troisième autorise une filiation. L'absence de filiation démontrée n'interdit pas la pensée comparative : elle en rend le vocabulaire plus précis.
+
+L'histoire des religions n'a pas une seule source d'où tous les fleuves seraient sortis. Elle ressemble plutôt à un ensemble de trajectoires distinctes, parfois en contact, ayant mobilisé des ressources humaines communes pour produire des mondes de significations différents.
+
+## 75. Atlas critique : dix gestes, dix niveaux de preuve
+
+| Geste ou objet | Exemple | Ce que la preuve établit | Ce qu'elle ne démontre pas |
+|---|---|---|---|
+| Entrer profondément sous terre | Bruniquel | Aménagements et activités humaines | Cérémonie définie ou sanctuaire |
+| Déposer un corps | Qafzeh, La Ferrassie | Traitement intentionnel possible ou établi selon le contexte | Immortalité de l'âme |
+| Préparer des pigments | Blombos | Technique de transformation de matières | Peinture corporelle religieuse précise |
+| Laisser une main négative | Gargas, Maltravieso | Marque humaine intentionnelle | Signature, rite initiatique ou mutilation systématique |
+| Façonner des animaux | Hohle Fels, Tuc d'Audoubert | Savoir-faire figuratif et choix d'un contexte | Divinité ou totem identifié |
+| Fabriquer un instrument | Hohle Fels | Technique musicale | Chant religieux ou cérémonie déterminée |
+| Combiner humain et animal | Hohlenstein-Stadel | Image composite | Existence d'une mythologie connue |
+| Réunir des figures narratives | Leang Karampuang, Sayburç | Composition figurative évoquant une action | Récit oral reconstituable mot pour mot |
+| Transformer un crâne | Jéricho | Traitement postmortem et construction d'un visage | Ancêtre puissant nécessairement invoqué |
+| Ériger un monument | Göbekli Tepe | Organisation collective et architecture | Clergé, dieu ou dogme assuré |
+
+Ce tableau doit être conservé dans toute version publique du dossier : il empêche de faire glisser une description matérielle vers une conclusion confessionnelle ou une mythologie de fiction.
+
+## 76. Méthode éditoriale pour MYTHOS : décrire, argumenter, comparer, suspendre
+
+Chaque fiche scientifique du cycle « Aux origines du sacré » devrait contenir six rubriques permanentes : **site et contexte**, **objets**, **datations et incertitudes**, **interprétations concurrentes**, **comparaisons contrôlées**, **bibliographie primaire et institutionnelle**. Les découvertes récentes devront être datées avec précision : il faut distinguer date des fouilles, date de présentation publique, date de publication et époque de l'objet.
+
+Les illustrations doivent comporter une légende d'objet, le lieu de conservation, un crédit et une licence vérifiée. Une photographie de réplique doit être explicitement distinguée de l'original. Les documents contemporains sans licence libre ne doivent pas être intégrés automatiquement au site : la présence publique d'une image n'autorise pas nécessairement sa réutilisation.
+
+Les titres de chapitres peuvent être évocateurs, mais le corps du texte doit privilégier la vérification. Les expressions « premier temple », « premier dieu », « première chamane » ou « premier calendrier » exigent chacune des définitions et un contrôle de l'état de la recherche. Lorsque plusieurs découvertes prétendent à une antériorité, MYTHOS doit expliquer **de quoi** elles sont les premières attestations : pochoir daté, sculpture figurative, image narrative, sépulture documentée, architecture monumentale.
+
+Enfin, une page publiée doit être différenciée du manuscrit de travail. Les volumes pourront être reliés par des renvois sur le site, mais aucune annonce de publication ne devra être faite sans confirmation d'une écriture réussie sur WordPress.
+
+## 77. Conclusion du tome III : le sacré comme possibilité historique, non comme essence retrouvée
+
+Ce troisième tome ne cherche pas une date à laquelle « l'homme aurait inventé Dieu ». Une telle formule rassemble abusivement des phénomènes qui n'ont ni une chronologie unique ni une même signification. Les comportements symboliques, la fabrication d'images, l'attention portée aux morts et les activités collectives présentent des histoires longues et en partie indépendantes.
+
+Ce qui se précise, c'est la manière dont des sociétés peuvent donner une épaisseur particulière à des relations : un corps survit sous la forme d'une empreinte, un défunt reparaît dans un visage de plâtre, un animal devient figure modelée, une réunion se fixe autour de reliefs, une maison conserve des générations, un monument organise la présence de nombreux participants. Ces faits ne décrivent pas une religion unique. Ils montrent plusieurs façons de produire de la mémoire et des significations partagées.
+
+L'archéologie du sacré exige donc une rigueur double. Refuser d'attribuer des dieux à des peuples dont nous ignorons les récits ne revient pas à nier leur imaginaire. Mais respecter cet imaginaire impose de ne pas le remplacer par le nôtre. La connaissance avance lorsqu'elle reconnaît ce que les vestiges autorisent, ce qu'ils rendent plausible et ce qu'ils laissent ouvert.
+
+La suite naturelle de MYTHOS serait un **tome IV sur la formation des premières mythologies historiquement documentées**, des textes sumériens et égyptiens aux traditions sémitiques et anatoliennes, avec une attention nouvelle à la relation entre sanctuaire, écriture, pouvoir et récit.
+
+---
+
+## Bibliographie critique du tome III
+
+1. **Bégouën, R., Pastoors, A., et collègues.** Documentation des cavernes du Volp ; [Base Jean Clottes, CNRS, Tuc d'Audoubert](https://animal-representation.cnrs.fr/s/bjc/item/6187). Contexte des sols et sculptures.
+2. **Association Louis Bégouën.** [Site officiel des Cavernes du Volp, Tuc d'Audoubert](https://www.cavernesduvolp.com/grottedutucdaudoubert). Présentation et conservation du site.
+3. **Standish, C. D. et al. (2025).** « The age of hand stencils in Maltravieso cave… », *Journal of Archaeological Science: Reports*, 61, 104891. [DOI](https://doi.org/10.1016/j.jasrep.2024.104891). Chronologie des mains.
+4. **Hoffmann, D. L. et al. (2018).** « U-Th dating of carbonate crusts reveals Neandertal origin of Iberian cave art », *Science*. [DOI](https://doi.org/10.1126/science.aap7778). Art ibérique et datations minimales.
+5. **Gresky, J. et Clare, L. (2026).** « First burials give insights into mortuary rites at Göbeklitepe, Early Neolithic Türkiye », *PLOS ONE*, 21(9), e0358979. [DOI](https://doi.org/10.1371/journal.pone.0358979). Découverte majeure de 2026 et débat taphonomique.
+6. **Deutsches Archäologisches Institut (2026).** [« New publication: Human remains and burial practices at Göbeklitepe »](https://www.dainst.org/en/newsroom/neue-veroeffentlichung-menschliche-ueberreste-und-bestattungsbraeuche-in-goebeklitepe/924). Synthèse institutionnelle.
+7. **Da Rosa, N. S. et al. (2025).** « On the relationship between sound, acoustics, and San rock art… », *Journal of Archaeological Science: Reports*, 61, 104900. [DOI](https://doi.org/10.1016/j.jasrep.2024.104900). Limites de l'inférence archéoacoustique.
+8. **Borić, D. (2005).** « Body Metamorphosis and Animality: Volatile Bodies and Boulder Artworks from Lepenski Vir », *Cambridge Archaeological Journal*, 15(1), 35–69. [DOI](https://doi.org/10.1017/S095977430500003X). Interprétation de la métamorphose.
+9. **Musée national de Serbie.** [Lepenski Vir Collection](https://www.narodnimuzej.rs/prehistory/lepenski-vir-collection/?lang=en). Collections et contexte.
+10. **Özdoğan, E. (2022).** « The Sayburç reliefs: a narrative scene from the Neolithic », *Antiquity*, 96(390), 1599–1605. [DOI](https://doi.org/10.15184/aqy.2022.125). Reliefs narratifs.
+11. **Ashmolean Museum.** [« Jericho Skull »](https://ashmolean.org/jericho-skull). Objet, matériau et interprétations.
+12. **Hirst, C. (2017).** « The Jericho Skull, Creating an Ancestor », *Papers from the Institute of Archaeology*, 27(1). [DOI](https://doi.org/10.5334/pia-521). Présentation muséale et débat.
+13. **Smithsonian Museum Conservation Institute.** [« ‘Ain Ghazal Statues »](https://mci.si.edu/ain-ghazal-statues). Statues en plâtre et restauration.
+14. **Oktaviana, A. A. et al. (2024).** « Narrative cave art in Indonesia by 51,200 years ago », *Nature*, 631, 814–818. [DOI](https://doi.org/10.1038/s41586-024-07541-7). Comparaison de scènes figuratives.
+15. **Sweatman, M. B. (2024).** « Representations of calendars and time at Göbekli Tepe and Karahan Tepe… », *Time and Mind*, 17, 191–247. [DOI](https://doi.org/10.1080/1751696X.2024.2373876). Hypothèse astronomique débattue : ne pas la confondre avec un consensus.
+16. **Durkheim, É. (1912).** *Les Formes élémentaires de la vie religieuse*. Cadre théorique du sacré et du profane, non preuve archéologique.
+17. **Cassirer, E. (1923–1929).** *Philosophie der symbolischen Formen*. Théorie philosophique de l'activité symbolique.
+18. **Lévi-Strauss, C. (1964).** *Le Cru et le Cuit*. Approche structurale du mythe, à utiliser comme modèle comparatif.
+19. **Nietzsche, F. (1872).** *Die Geburt der Tragödie*. Réflexion sur musique, art et expérience collective dans la Grèce historique.
+20. **Hegel, G. W. F.** *Vorlesungen über die Ästhetik*. Philosophie de l'art et de l'histoire : ne pas y chercher une chronologie paléolithique.
+
+## Renvois proposés pour le site MYTHOS
+
+- **Tome I :** Hohle Fels, premiers instruments et figurines aurignaciennes.
+- **Tome II :** Bruniquel, sépultures anciennes, Blombos, Chauvet, Lascaux, Hilazon Tachtit.
+- **Tome III :** mains, animaux, mémoire des morts, Göbekli Tepe 2026, Sayburç, Jéricho, ‘Ain Ghazal.
+- **Dossiers d'approfondissement futurs :** anatomie de l'Homme-lion ; archéoacoustique ; débat autour du « chamanisme paléolithique » ; tafonomie des sépultures ; préhistoire des calendriers ; archives textuelles de Sumer et de l'Égypte.
+
+*Note de transparence : ce texte est une synthèse originale des recherches citées. Les hypothèses historiques sont signalées comme telles. Aucun article MYTHOS n'a été créé ou mis en ligne par la seule création de ce manuscrit.*
+
+
+---
