@@ -223,3 +223,10 @@
 @media(max-width:1350px){.origins-landing .origins-volume-grid{grid-template-columns:repeat(4,minmax(0,1fr))}}
 @media(max-width:900px){.origins-landing .origins-volume-grid{grid-template-columns:repeat(3,minmax(0,1fr))}.origins-dossier-preview{grid-template-columns:1fr}.origins-dossier-gallery img{height:120px}}
 @media(max-width:620px){.origins-landing .origins-hero{min-height:250px;padding:32px 16px}.origins-landing .origins-volumes{padding:24px 14px}.origins-landing .origins-volume-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}.origins-landing .origins-volume{min-height:110px;gap:7px;padding:5px}.origins-landing .origins-volume-image{width:36%;min-height:100px}.origins-landing .origins-volume-copy strong{font-size:16px}.origins-landing .origins-volume-title{font-size:12px}.origins-dossier-preview{padding:24px 14px}.origins-dossier-gallery{grid-template-columns:repeat(3,minmax(0,1fr))}.origins-dossier-gallery img{height:105px}}
+
+/* Référence Zeus : composition statue à gauche, titre central, temples à droite */
+.origins-landing .origins-hero{position:relative;isolation:isolate;min-height:330px;background-position:center 42%;background-size:cover;overflow:hidden}
+.origins-landing .origins-hero::before{content:"";position:absolute;inset:0;z-index:-1;background:linear-gradient(90deg,rgba(4,7,10,.04) 0%,rgba(4,7,10,.42) 29%,rgba(4,7,10,.70) 50%,rgba(4,7,10,.23) 75%,rgba(4,7,10,.03) 100%)}
+.origins-landing .origins-hero-inner{position:relative;z-index:1;max-width:780px;margin:auto;text-shadow:0 2px 12px #050607}
+.origins-landing .origins-hero h1{font-size:clamp(38px,5.5vw,76px);white-space:normal}
+@media(max-width:620px){.origins-landing .origins-hero{min-height:275px;background-position:38% center}.origins-landing .origins-hero::before{background:rgba(4,7,10,.55)}}
