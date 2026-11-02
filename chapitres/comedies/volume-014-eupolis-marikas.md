@@ -7,7 +7,7 @@ description: "Marikas d'Eupolis : démagogie, esclavage, langage politique et li
 
 ## Eupolis, *Marikas* (Μαρικᾶς) — La parole du peuple et ses propriétaires
 
-*Étude critique sur une comédie perdue. Suite du [volume XIII — Les Dèmes](volume-013-eupolis-demoi.md).*
+*Étude critique sur une comédie perdue. Suite du [volume XIII — Les Dèmes](/chapitres/comedies/volume-013-eupolis-demoi/).*
 
 **Convention documentaire :** **[A]** témoignage antique attesté ; **[B]** inférence historique ou hypothèse scénique ; **[C]** invention dramatique contemporaine. Les scènes [C] ne traduisent aucun fragment antique.
 
@@ -103,6 +103,6 @@ Les travaux de **Jean-Pierre Vernant** sur les formes grecques de pensée et l'a
 
 ---
 
-**Navigation :** [Volume XIII — *Dēmoi*](volume-013-eupolis-demoi.md) · [Volume XV — *Baptai*](volume-015-eupolis-baptai.md) · [Théâtre grec](/theatre/) · [Index intégral](/rubriques/).
+**Navigation :** [Volume XIII — *Dēmoi*](/chapitres/comedies/volume-013-eupolis-demoi/) · [Volume XV — *Baptai*](/chapitres/comedies/volume-015-eupolis-baptai/) · [Théâtre grec](/theatre/) · [Index intégral](/rubriques/).
 
 *MYTHOS — dossier public de recherche ; les lacunes du texte antique sont maintenues visibles.*
