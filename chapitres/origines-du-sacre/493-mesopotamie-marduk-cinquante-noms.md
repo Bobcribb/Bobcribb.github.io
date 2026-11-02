@@ -29,7 +29,7 @@ Les épiclèses grecques peuvent identifier un dieu en fonction d'un lieu ou d'u
 
 **Sources primaires :** *Enūma eliš* VI, 120 sqq. et VII; listes de dieux et documents cultuels mésopotamiens.
 
-**Bibliographie :** W. G. Lambert, *Babylonian Creation Myths* (2013); Eiko Matsushima, « On the Significance of the 'Fifty Names' of Marduk in Enūma eliš », *Orient* 51/1 (2008), p. 165-180; Benjamin R. Foster, *Before the Muses: An Anthology of Akkadian Literature* (3e éd., 2005); Francesca Rochberg, *The Heavenly Writing* (2004), pour le contexte savant.
+**Bibliographie :** W. G. Lambert, *Babylonian Creation Myths* (2013); Eiko Matsushima, « マルドゥクの「50の名前」の意味について » [« Sur la signification des cinquante noms de Marduk »], *Orient* (オリエント) 51/1 (2008), p. 165-180; Benjamin R. Foster, *Before the Muses: An Anthology of Akkadian Literature* (3e éd., 2005); Francesca Rochberg, *The Heavenly Writing* (2004), pour le contexte savant.
 
 **Références :**
 - https://www.jstage.jst.go.jp/article/jorient/51/1/51_165/_article/-char/ja
