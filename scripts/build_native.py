@@ -170,6 +170,11 @@ def main():
     n_pages,n_media=copy_repository()
     chapters=publish_chapters()
     n_indexed=reindex(chapters)
+    # Construire les portails géographiques et thématiques avant la seconde indexation.
+    from build_navigation import build_portals, finalize_navigation
+    build_portals()
+    n_indexed=reindex(chapters)
+    finalize_navigation(n_indexed)
     write(".nojekyll","")
     write("CNAME","bobmythos.fr\n")
     print(f"MYTHOS SANS WORDPRESS : {n_pages} HTML de GitHub, {n_media} médias locaux, {len(chapters)} nouveaux chapitres Markdown, {n_indexed} dossiers indexés.")

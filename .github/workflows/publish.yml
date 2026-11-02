@@ -6,6 +6,7 @@ on:
     paths:
       - '.github/workflows/publish.yml'
       - 'scripts/build_native.py'
+      - 'scripts/build_navigation.py'
       - 'chapitres/**'
       - '**/index.html'
       - 'index.html'

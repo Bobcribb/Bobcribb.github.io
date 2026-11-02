@@ -6,3 +6,80 @@
 .sidebar{position:sticky;top:115px;border-left:1px solid var(--line);padding-left:23px;font-size:13px}.sidebar b{display:block;text-transform:uppercase;letter-spacing:.12em;color:var(--gold);margin-bottom:18px}.sidebar a{display:block;margin-bottom:14px}.footer{border-top:1px solid var(--line);max-width:var(--max);margin:auto;padding:30px 24px 45px;color:var(--muted);font-size:12px;display:flex;gap:25px;justify-content:space-between}.hero{border-bottom:1px solid var(--line);padding:43px 0 35px;margin-bottom:40px}.hero small{font-size:11px;letter-spacing:.2em;color:var(--gold)}.hero h1{font-size:clamp(75px,12vw,150px);margin:10px 0;letter-spacing:.035em}.hero p{font:25px/1.45 'Cormorant Garamond',serif;max-width:650px;color:#dcd2c3}.gold-line{width:165px;height:1px;background:var(--gold);margin:25px 0}.cards{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}.card{border:1px solid var(--line);background:var(--panel);padding:24px;min-height:120px}.card small{color:var(--gold);letter-spacing:.15em;font-size:10px}.card a{display:block;color:var(--fg);font:27px/1.15 'Cormorant Garamond',serif;margin:11px 0}.card a:hover{color:var(--gold)}
 .search{display:block;width:100%;padding:15px 18px;background:#191a1f;color:var(--fg);font:16px/1.3 Inter,sans-serif;border:1px solid #71613e;border-radius:3px}.search:focus{outline:2px solid var(--gold)}.results{margin-top:17px}.results a{display:block;border-bottom:1px solid var(--line);padding:12px 0}.results p{color:var(--muted);font-size:13px}.listing{columns:2;column-gap:35px;padding-left:24px}.listing li{break-inside:avoid;margin:10px 0}
 @media(max-width:850px){.layout{display:block;padding:30px 20px 60px}.sidebar{position:static;border:0;border-top:1px solid var(--line);padding:25px 0;margin-top:50px}.masthead-inner{min-height:65px;padding:12px 18px}.brand{font-size:28px}.masthead nav{gap:12px}.masthead nav a{font-size:11px}.cards{grid-template-columns:1fr}.listing{columns:1}.footer{display:block}.hero{padding:15px 0 30px}}
+
+/* MYTHOS — Système éditorial encyclopédique (mythes du monde, Grèce, théâtre, philosophie, continents) */
+.masthead-inner{max-width:1400px;gap:22px}
+.masthead .site-nav{display:flex;align-items:center;gap:7px;flex-wrap:wrap;justify-content:flex-end}
+.masthead .site-nav a{color:#e5d9c2;font:500 11px/1.4 Inter,system-ui,sans-serif;letter-spacing:.09em;text-transform:uppercase;border:1px solid transparent;border-radius:3px;padding:11px 9px;white-space:nowrap;transition:color .15s ease,background .15s ease}
+.masthead .site-nav a:hover,.masthead .site-nav a:focus-visible{color:var(--gold);background:#211e18;text-decoration:none;outline-color:var(--gold)}
+.masthead .site-nav .nav-greece{color:#f5d490;border-color:#665030;background:#241e16}
+.masthead .site-nav .nav-greece:hover{background:#332716;color:#ffe3a4}
+.layout:not(:has(.sidebar)){display:block;max-width:1130px}
+.portal-layout{display:block;max-width:1180px;padding-top:36px}
+.portal-layout .content{max-width:none}
+.portal-layout .eyebrow{margin-bottom:22px}
+.portal-layout .content h1{font-size:clamp(46px,7vw,86px);margin:4px 0 23px}
+.portal-layout .portal-section h2,.portal-section h2{font-size:clamp(30px,3.5vw,46px);margin:0 0 13px}
+.portal-lead{font:clamp(20px,2.25vw,28px)/1.5 'Cormorant Garamond',Georgia,serif;color:#dbccb3;max-width:920px;margin-bottom:50px!important}
+.hero-editorial{padding:46px 0 52px;border-top:1px solid var(--line);border-bottom:1px solid var(--line);margin:6px 0 55px}
+.hero-editorial .eyebrow{letter-spacing:.15em;font-size:11px;margin:0}
+.hero-editorial h1{font-size:clamp(96px,17vw,190px)!important;line-height:.9;letter-spacing:.02em;margin:21px 0 22px!important}
+.hero-dot{color:var(--gold)}
+.hero-editorial .gold-line{width:100px;margin:28px 0}
+.hero-deck{font:clamp(30px,4vw,54px)/1.1 'Cormorant Garamond',Georgia,serif;color:#f2e7d2;max-width:950px;margin:15px 0!important}
+.hero-secondary{font-size:16px;color:var(--muted);max-width:760px;line-height:1.85}
+.hero-links{display:flex;align-items:center;flex-wrap:wrap;gap:15px;margin-top:30px}
+.hero-links a{padding:12px 18px;border:1px solid var(--gold);font-size:12px;letter-spacing:.055em;border-radius:3px}
+.hero-links a.primary-link{background:var(--gold);color:#141211;font-weight:600}
+.hero-links a.secondary-link{color:var(--gold)}
+.hero-links a:hover{text-decoration:none;opacity:.88}
+.portal-section{margin:50px 0 70px}
+.portal-section .section-intro{color:var(--muted);font-size:14px;max-width:870px;margin:5px 0 24px}
+.portal-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;margin:23px 0 32px}
+.portal-grid-compact{grid-template-columns:repeat(3,minmax(0,1fr))}
+.portal-card{display:flex;position:relative;flex-direction:column;gap:11px;border:1px solid #574833;background:linear-gradient(155deg,#1c1d22,#14161a);padding:23px 24px 24px;min-height:170px;color:var(--fg);border-radius:2px}
+.portal-card:hover{border-color:#d0ae68;background:linear-gradient(155deg,#292725,#1b1b1e);text-decoration:none}
+.portal-card-kicker{display:block;color:#d8b66f;letter-spacing:.17em;font:600 10px/1.3 Inter,sans-serif}
+.portal-card strong{font:500 clamp(22px,2.3vw,31px)/1.14 'Cormorant Garamond',Georgia,serif;color:#f7eddb}
+.portal-card span:nth-child(3){font:13px/1.7 Inter,system-ui,sans-serif;color:#c2b6a3;max-width:440px}
+.portal-card .card-indicator{font:20px/1 Georgia,serif;color:var(--gold);position:absolute;right:17px;top:15px}
+.portal-list{list-style:none;padding:0;margin:20px 0 30px;columns:2;column-gap:30px}
+.portal-list li{break-inside:avoid;border-bottom:1px solid #383228;margin:0;padding:12px 0;line-height:1.5;font-size:14px}
+.portal-list a{color:var(--fg)}
+.portal-list a:hover{color:var(--gold)}
+.tag-links{display:flex;flex-wrap:wrap;gap:12px;margin:25px 0 30px}
+.tag-links a{display:inline-block;padding:9px 16px;border:1px solid #695334;background:#1b1b1f;color:#f1dfbc;border-radius:2px;font-size:14px}
+.tag-links a:hover{background:#2b2418;text-decoration:none}
+.library-details{border:1px solid var(--line);background:#16171b;margin:18px 0;border-radius:2px;padding:0 19px}
+.library-details summary{cursor:pointer;color:#f0d6a0;list-style:none;padding:19px 0;font:600 14px/1.5 Inter,system-ui,sans-serif}
+.library-details summary::-webkit-details-marker{display:none}
+.library-details summary span{float:right;color:var(--gold);font-size:18px}
+.library-details[open] summary{border-bottom:1px solid var(--line)}
+.library-details .portal-list{margin:15px 0 25px}
+.library-details .listing{padding:15px 0 30px}
+.small-note{font-size:13px;color:var(--muted)}
+.search-zone{padding:28px 0 0;border-top:1px solid var(--line)}
+.portal-layout .content .portal-grid a strong{color:#f7eddb}
+@media(max-width:1100px){
+ .masthead-inner{padding:12px 19px}
+ .masthead .site-nav{gap:1px}
+ .masthead .site-nav a{font-size:10px;letter-spacing:.04em;padding:10px 7px}
+ .portal-grid-compact{grid-template-columns:repeat(2,minmax(0,1fr))}
+}
+@media(max-width:740px){
+ .masthead-inner{display:block;padding:14px 14px 0;min-height:0}
+ .masthead .brand{display:block;font-size:26px;line-height:1.2;padding:0 6px 10px}
+ .masthead .site-nav{display:flex;flex-wrap:nowrap;justify-content:flex-start;overflow-x:auto;overflow-y:hidden;white-space:nowrap;gap:6px;padding:0 0 8px;-webkit-overflow-scrolling:touch;scrollbar-width:thin}
+ .masthead .site-nav a{flex:0 0 auto;font-size:11px;padding:8px 11px}
+ .portal-layout{padding:25px 18px 50px}
+ .portal-grid,.portal-grid-compact{grid-template-columns:1fr;gap:12px}
+ .portal-card{min-height:134px;padding:18px 20px}
+ .portal-list{columns:1}
+ .hero-editorial{padding:28px 0 38px;margin:6px 0 35px}
+ .hero-editorial h1{font-size:clamp(74px,18vw,120px)!important}
+ .hero-secondary{font-size:14px}
+ .portal-section{margin:36px 0 50px}
+ .portal-lead{font-size:23px}
+ .library-details{padding:0 13px}
+}
+@media(prefers-reduced-motion:reduce){.masthead .site-nav a{transition:none}}
