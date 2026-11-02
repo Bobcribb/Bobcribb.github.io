@@ -160,3 +160,8 @@ La leçon méthodologique est elle-même philosophique : **la force d'une interp
 - [Volume I — Eupolis, *Astrateutoi*](../volume-001-eupolis-astrateutoi/)
 - [Théâtre grec — portail MYTHOS](/theatre/)
 - [Catalogue intégral](/)
+
+
+### Suite de la série — navigation vérifiée
+
+- [Volume III — Eupolis ?, *Heilôtes*](../volume-003-eupolis-heilotes/).
