@@ -99,4 +99,9 @@ Conserver le style noir/or, l'accessibilité du menu sur mobile et l'indépendan
 
 - Volume XII : `chapitres/comedies/volume-012-cratinos-archilochoi.md` (Cratinos, *Archilochoi* ; frr. 1, 2, 6, 7, 12, Métrobios et Cimon, agôn poétique hypothétique, datation disputée, deux scènes originales ; commit initial `9b20112fd994a377c1dba57eac7861d41549d356`).
 
+
+- Volume XIII : `chapitres/comedies/volume-013-eupolis-demoi.md` (Eupolis, *Dēmoi* ; P. Cair. 43227, fragments 99–146 K–A, retour de Solon, Miltiade, Aristide et Périclès, Pyronidès/Myronidès, datations 417–416/412/410, mémoire politique et justice, deux scènes originales distinctes de la notice historique ; commit initial `2adf0e9f88d7efe9802a344493463378f8b89e6b`).
+
+**Prochain volume de la série : XIV**, après vérification du dépôt, de la reconstruction publique et des notices existantes. Les pages historiques ne sont pas remplacées ; aucune publication WordPress n'est autorisée.
+
 **Pour la suite :** rechercher le prochain numéro libre en inspectant les fichiers de `chapitres/comedies/` et les dossiers historiques ; ne pas réutiliser les numéros I à XII et ne pas traiter la notice de redirection `volume-002-eupolis-heilotes.md` comme un nouveau volume. Aucun texte privé ni contenu WordPress ne doit être créé ici. Chaque nouveau volume doit être vérifié après commit et après reconstruction du catalogue.
