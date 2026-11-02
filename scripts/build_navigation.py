@@ -882,6 +882,81 @@ def renovate_search():
     body=re.sub(r'<aside class="sidebar">[\s\S]*?</aside>','',body,count=1)
     path.write_text(body,encoding="utf-8")
 
+
+# Collections iconographiques documentées : photographies, plans, peintures et
+# restitutions historiques. Ne jamais qualifier une photographie de modèle 3D.
+VISUAL_COLLECTIONS = {
+ "grece": [
+  ("mythos-epidaure-tholos-reconstitution-defrasse-lechat-1895.jpg","Tholos d’Épidaure — restitution historique de 1895","Restitution historique"),
+  ("mythos-nemee-temple-zeus-ophelia2-2010.jpg","Temple de Zeus à Némée — photographie","Photographie"),
+  ("mythos-bronze-artemision-zeus-ou-poseidon.jpg","Bronze de l’Artémision — Zeus ou Poséidon, attribution discutée","Statue"),
+  ("mythos-samothrace-nike-louvre-dada-photo.jpg","Victoire de Samothrace — sculpture antique","Statue"),
+  ("mythos-e28094-illustration-du-sanctuaire-de-delphes.png","Sanctuaire de Delphes — illustration","Illustration"),
+  ("mythos-mycene-porte-lionnes-zde-2020.jpg","Porte des Lionnes à Mycènes — photographie","Site antique"),
+  ("raphael-ecole-athenes-1511.jpg","Raphaël, L’École d’Athènes — peinture","Peinture"),
+  ("mythos-olympie-nike-paionios-jarvis-2005.jpg","Nikè de Paionios à Olympie — sculpture","Statue")],
+ "theatre": [
+  ("epidaure-theatre-antique-zde.jpg","Théâtre antique d’Épidaure","Architecture"),
+  ("mythos-masques-theatre-rondelles-hellenistiques-met-2001-767.jpg","Masques théâtraux hellénistiques","Objet antique"),
+  ("antigone-libation-rinehart-1870.jpg","Antigone — représentation artistique du XIXe siècle","Peinture"),
+  ("moreau-oedipe-sphinx-1864-met.jpg","Gustave Moreau, Œdipe et le Sphinx","Peinture"),
+  ("mythos-dionysos-kylix-brygos-bnf-576.jpg","Dionysos sur une coupe grecque","Céramique"),
+  ("oreste-apollon-cratere-eumenides-louvre-cp-710.jpg","Oreste et Apollon — cratère antique","Céramique")],
+ "sacre": [
+  ("mythos-epidaure-tholos-reconstitution-defrasse-lechat-1895.jpg","Épidaure — restitution historique","Restitution historique"),
+  ("mythos-ounas-chambre-funeraire-vincent-brown.jpg","Chambre funéraire d’Ounas","Site antique"),
+  ("mythos-papyrus-ani-pesee-coeur-british-museum.jpg","Pesée du cœur — papyrus d’Ani","Papyrus"),
+  ("eleusis-grand-relief-demeter-trip-toleme-persephone-zde.jpg","Grand relief d’Éleusis","Relief"),
+  ("mythos-derveni-cratere-dionysos-menade-carole-raddato.jpg","Cratère de Dervéni","Objet antique")],
+ "mesopotamie": [
+  ("gilgamesh-tablette-deluge-british-museum-babelstone.jpg","Tablette du Déluge de Gilgamesh","Tablette"),
+  ("mythos-enuma-elish-tablette-k3473-ninive-zunkir.jpg","Tablette de l’Enūma eliš","Tablette"),
+  ("mythos-e28094-gilgamesh-devant-uruk-evocation-artistique-generee-par-ia.png","Gilgamesh devant Uruk — évocation générée par IA","Évocation artistique")],
+ "egypte": [
+  ("amarna-akhenaton-nefertiti-filles-relief.jpg","Akhenaton, Néfertiti et leurs filles — relief","Relief"),
+  ("mythos-ounas-plan-complexe-funeraire-monnier-gdk.png","Complexe funéraire d’Ounas — plan","Plan"),
+  ("mythos-ounas-chambre-funeraire-vincent-brown.jpg","Chambre funéraire d’Ounas","Photographie")],
+ "perse": [
+  ("mythos-persepolis-apadana-delegations-pentocelo-2006.jpg","Persépolis — relief des délégations","Relief"),
+  ("mythos-persepolis-plan-historique-britannica-1911.png","Persépolis — plan historique","Plan"),
+  ("mythos-behistun-inscription-darius-mahdimanavimvi-2018.jpg","Behistun — inscription de Darius","Inscription")]
+}
+
+def add_visual_rails(path):
+    """Illustrations latérales sur pages de lecture, sans altérer les manuscrits."""
+    source=path.read_text(encoding="utf-8")
+    if 'class="mythos-visual-rail"' in source or 'class="visual-rails-active"' in source:
+        return source
+    slug=str(path.parent).casefold()
+    if slug in ("_site", "_site/recherche"):
+        return source
+    if any(t in slug for t in ("traged","theatre","comedie","aristophane","eschyle","sophocle","euripide","menandre")):
+        collection=VISUAL_COLLECTIONS["theatre"]
+    elif any(t in slug for t in ("origine","sacre","religion","culte","rituel","prehistoire")):
+        collection=VISUAL_COLLECTIONS["sacre"]
+    elif any(t in slug for t in ("egypte","amarna","akhenaton","pharaon")):
+        collection=VISUAL_COLLECTIONS["egypte"]
+    elif any(t in slug for t in ("mesopotam","sumer","babylon","gilgamesh","assyr")):
+        collection=VISUAL_COLLECTIONS["mesopotamie"]
+    elif any(t in slug for t in ("perse","iran","zoroastr","achemen")):
+        collection=VISUAL_COLLECTIONS["perse"]
+    else:
+        collection=VISUAL_COLLECTIONS["grece"]
+    # Rotation stable par chemin, pour varier les œuvres sans répétition uniforme.
+    offset=sum(ord(c) for c in slug)%len(collection)
+    chosen=[collection[(offset+i)%len(collection)] for i in range(min(4,len(collection)))]
+    figures=''.join('<figure><img loading="lazy" decoding="async" src="/media/2026/10/'+esc(filename)+'" alt="'+esc(alt)+'"><figcaption><span>'+esc(kind)+'</span> — '+esc(alt)+'</figcaption></figure>' for filename,alt,kind in chosen)
+    rail='<aside class="mythos-visual-rail" aria-label="Galerie iconographique"><h2>Galerie iconographique</h2>'+figures+'</aside>'
+    soup=BeautifulSoup(source,"html.parser")
+    main=soup.find("main")
+    article=main.find("article") if main else None
+    if article is None:
+        return source
+    article.insert_after(BeautifulSoup(rail,"html.parser"))
+    main["class"]=list(dict.fromkeys(main.get("class",[])+["visual-rails-active"]))
+    return str(soup)
+
+
 def apply_navigation():
     changed=0
     for path in OUT.rglob("index.html"):
@@ -889,9 +964,11 @@ def apply_navigation():
         result,n=re.subn(r'<nav(?:\s[^>]*)?>[\s\S]*?</nav>',NAV,raw,count=1,flags=re.IGNORECASE)
         if n!=1:
             raise RuntimeError("Aucun menu de navigation dans "+str(path))
+        result=add_visual_rails(path) if result==raw else result
         result=result.replace("MYTHOS — Encyclopédie universitaire comparative","MYTHOS — Encyclopédie des mythologies du monde")
         # SUPPRIMER « EXPLORER MYTHOS » À DROITE SUR TOUTES LES PAGES, Y COMPRIS ARCHIVES.
         result=re.sub(r'<aside class="sidebar">[\s\S]*?</aside>', "", result, flags=re.IGNORECASE)
+        result=add_visual_rails(path) if "mythos-visual-rail" not in result else result
         if result!=raw:
             path.write_text(result,encoding="utf-8")
             changed+=1
