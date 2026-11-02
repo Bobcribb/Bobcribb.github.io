@@ -7,7 +7,7 @@ MYTHOS est une encyclopédie comparative en français publiée **gratuitement su
 
 ## État validé le 2 novembre 2026
 
-- 502 dossiers publics indexés lors de la dernière synchronisation vérifiée. Le catalogue peut évoluer.
+- Plus de 500 dossiers publics indexés. Le compteur évolue avec les publications GitHub ; consulter `search.json` pour le total réel.
 - **110 médias originaux, images et PDF**, hébergés dans `media/2026/10/` sur GitHub Pages (environ 200 Mo), avec hashes SHA-256 dans `media/manifest.json`.
 - Les pages utilisent des liens locaux `/media/...` et n'ont plus besoin de WordPress pour afficher les images importées.
 - Les **134 brouillons de pages et 1 brouillon d'article** sont stockés **en privé sur Google Drive**, dans 15 volumes d'archive. Ne pas les ajouter au dépôt public.
@@ -20,6 +20,16 @@ MYTHOS est une encyclopédie comparative en français publiée **gratuitement su
 L'hébergement WordPress.com **Personal** à 9 €/mois n'est plus nécessaire pour servir les pages et les 110 médias déjà copiés sur GitHub. **Ne jamais résilier ni supprimer l'enregistrement du domaine `bobmythos.fr`**, facturé séparément environ 8 €/an, si l'on veut garder cette adresse. Ne pas supprimer le compte WordPress.com ou le site source en cas d'utilisation future de son éditeur.
 
 Pour ne plus payer le forfait Personal : annuler **l'abonnement d'hébergement**, pas le domaine. WordPress.com conserve normalement les pages, les articles et les médias d'un site rétrogradé à l'offre gratuite.
+
+## Nouveau circuit éditorial : Drive → GitHub
+
+Depuis le 2 novembre 2026, **Google Drive est le fonds de travail et de sauvegarde** des documents MYTHOS, tandis que **GitHub est la source technique de publication** de l'encyclopédie. La copie sauvegardée sur Drive comporte notamment un ensemble annoncé de 520 dossiers ; elle ne doit pas être utilisée pour écraser le dépôt GitHub, qui contenait 552 entrées lors de la vérification du 2 novembre.
+
+Pour tout nouveau texte, on lit d'abord le document Drive, on vérifie s'il est déjà publié sur GitHub, puis on intègre la version éditoriale dans `chapitres/` sans doublon. **Les brouillons archivés en privé dans Drive ne sont pas automatiquement rendus publics.**
+
+Le premier dossier transféré dans ce circuit est `chapitres/grece/mycenes-citadelle-palais-et-atrides.md`, issu d'un texte Drive sur Mycènes et adapté à la présentation encyclopédique.
+
+**Procédure détaillée :** [Protocole Google Drive → GitHub](docs/PROTOCOLE_DRIVE_VERS_GITHUB.md).
 
 ## Publication entièrement indépendante de WordPress
 
