@@ -6,6 +6,7 @@ on:
     paths:
       - '.github/workflows/publish.yml'
       - 'scripts/build.py'
+      - 'scripts/pin_media.py'
       - 'assets/**'
       - 'requirements.txt'
   workflow_dispatch:
@@ -43,6 +44,8 @@ jobs:
           SITE_URL: https://bobmythos.fr
           MIN_PAGES: '400'
         run: python scripts/build.py
+      - name: Rapatrier et contrôler les 110 médias pour un hébergement autonome
+        run: python scripts/pin_media.py
       - name: Conserver le nom de domaine personnalisé
         run: printf 'bobmythos.fr\n' > _site/CNAME
       - name: Synchroniser les fichiers statiques dans main
