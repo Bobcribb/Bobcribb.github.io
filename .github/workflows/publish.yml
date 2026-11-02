@@ -71,6 +71,9 @@ jobs:
           git add -A
           if ! git diff --cached --quiet; then
             git commit -m "Actualiser le catalogue GitHub autonome MYTHOS [skip ci]"
+            # Intégrer les modifications faites pendant la génération
+            # avant d'envoyer le catalogue (évite les push non-fast-forward).
+            git pull --rebase origin main
             git push origin HEAD:main
           else
             echo "MYTHOS inchangé"
