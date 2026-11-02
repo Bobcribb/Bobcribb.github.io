@@ -900,6 +900,53 @@ def reorganize_preserved_plays_analyses(entries):
     path.write_text(str(page),encoding="utf-8")
 
 
+
+def reorganize_aristophanes_33(entries):
+    """Index canonique des 33 monographies, avec les archives originales intactes."""
+    path=OUT/"comedie-grecque-aristophane-menandre-etudes"/"aristophane-bibliotheque-etudes-philosophiques"/"index.html"
+    if not path.is_file():
+        raise RuntimeError("Bibliothèque des 33 études d'Aristophane absente")
+    page=BeautifulSoup(path.read_text(encoding="utf-8"),"html.parser")
+    article=page.find("article",class_="content")
+    if article is None:
+        raise RuntimeError("Article des 33 études d'Aristophane absent")
+    for old in article.select("#index-aristophane-33, #archives-aristophane-33"):
+        old.decompose()
+    groups=[
+      ("Cité, démocratie, guerre et économie",[
+        ("Les Babyloniens","babyloniens-analyse-philosophique"),("Les Paysans","paysans-analyse-philosophique"),("Les Navires marchands","navires-marchands-analyse-philosophique"),("La Paix — deuxième version","paix-deuxieme-version-analyse-philosophique"),("Les Îles — attribution discutée","iles-analyse-philosophique"),("Ploutos — première version","ploutos-premiere-version-analyse-philosophique")]),
+      ("Éducation, savoirs, poésie et théâtre",[
+        ("Les Banqueteurs","banqueteurs-analyse-philosophique"),("Polyidos","polyidos-analyse-philosophique"),("Les Nuées — première version","nuees-premiere-version-analyse-philosophique"),("Le Proagôn","proagon-analyse-philosophique"),("Gérytadès","gerytades-analyse-philosophique"),("La Poésie — attribution discutée","poesie-analyse-philosophique"),("Aiolosicon — première version","aiolosicon-premiere-version-analyse-philosophique"),("Aiolosicon — deuxième version","aiolosicon-deuxieme-version-analyse-philosophique")]),
+      ("Famille, femmes, corps et générations",[
+        ("Les Danaïdes","danaides-analyse-philosophique"),("Les Lemniennes","lemniennes-analyse-philosophique"),("La Vieillesse","vieillesse-analyse-philosophique"),("Les Cigognes","cigognes-analyse-philosophique"),("Triphâlès","triphales-analyse-philosophique"),("Les Thesmophories — deuxième version","thesmophories-deuxieme-version-analyse-philosophique"),("Les Femmes occupant les tentes","femmes-occupant-tentes-analyse-philosophique")]),
+      ("Religion, divination, justice et mort",[
+        ("Amphiaraos","amphiaraos-analyse-philosophique"),("Cocalos","cocalos-analyse-philosophique"),("Les Héros","heros-analyse-philosophique"),("Anagyros","anagyros-analyse-philosophique"),("Les Saisons","saisons-analyse-philosophique"),("Les Hommes à la poêle","hommes-poele-analyse-philosophique"),("Les Telmessiens","telmessiens-analyse-philosophique"),("Dionysos naufragé — attribution discutée","dionysos-naufrage-analyse-philosophique"),("Niobos — attribution discutée","niobos-analyse-philosophique")]),
+      ("Mythe, technique et parodie tragique",[
+        ("Dédale","dedale-analyse-philosophique"),("Le Centaure — attribution discutée","centaure-analyse-philosophique"),("Les Phéniciennes","pheniciennes-analyse-philosophique")])
+    ]
+    if sum(len(works) for _,works in groups)!=33:
+        raise RuntimeError("Aristophane : 33 études attendues")
+    all_urls=set()
+    html=['<section id="index-aristophane-33" class="aristophanes-index"><h2>Les 33 études d’Aristophane — catalogue réorganisé</h2><p>Accès par grands thèmes aux 33 analyses philosophiques des œuvres perdues, versions anciennes ou attributions discutées. Les fragments attestés doivent être distingués des reconstructions modernes. Les onze comédies conservées disposent de leur propre catalogue.</p><nav class="aristophanes-theme-nav" aria-label="Thèmes des 33 études">'+''.join('<a href="#aristophane-theme-'+str(i)+'">'+esc(name)+'</a>' for i,(name,_) in enumerate(groups,1))+'</nav>']
+    for i,(name,works) in enumerate(groups,1):
+        html.append('<section id="aristophane-theme-'+str(i)+'" class="aristophanes-theme"><h3>'+esc(name)+'</h3><ol class="aristophanes-study-list">')
+        for title,prefix in works:
+            found=[e for e in entries if e["url"].rstrip("/").split("/")[-1].startswith(prefix)]
+            if len(found)!=1 or found[0]["url"] in all_urls:
+                raise RuntimeError("Aristophane : étude absente, ambiguë ou doublonnée : "+prefix)
+            all_urls.add(found[0]["url"])
+            html.append('<li><a href="'+esc(found[0]["url"])+'">'+esc(title)+'</a></li>')
+        html.append('</ol></section>')
+    html.append('<p class="small-note">Classement thématique de consultation ; les numéros de la collection historique restent inchangés dans les manuscrits.</p><a href="#archives-aristophane-33">Lire les cycles universitaires et les analyses historiques conservés ↓</a></section><div id="archives-aristophane-33"></div>')
+    fragment=BeautifulSoup(''.join(html),"html.parser")
+    h1=article.find("h1")
+    if h1:
+        h1.insert_after(fragment)
+    else:
+        article.insert(0,fragment)
+    path.write_text(str(page),encoding="utf-8")
+
+
 def build_portals():
     entries=json.loads((OUT/"search.json").read_text(encoding="utf-8"))
     groups=get_civilisations(entries)
@@ -911,6 +958,7 @@ def build_portals():
     create_figures_and_stories(entries)
     create_theatre(entries)
     reorganize_preserved_plays_analyses(entries)
+    reorganize_aristophanes_33(entries)
     create_origins(entries)
     create_encyclopedia(entries)
     create_philosophy(entries)
