@@ -1,0 +1,48 @@
+name: Diagnostic HTTPS www MYTHOS
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/diagnostic-www.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: read
+
+jobs:
+  diagnose:
+    runs-on: ubuntu-latest
+    timeout-minutes: 6
+    steps:
+      - name: État TLS et redirections, sans modifier la configuration
+        shell: bash
+        run: |
+          echo "=== Apex HTTPS ==="
+          curl -sSI --max-time 12 https://bobmythos.fr/ | head -n 12 || true
+          echo "=== WWW HTTPS (TLS cert + HTTP) ==="
+          curl -sSIL --max-time 15 https://www.bobmythos.fr/ 2>&1 | head -n 32 || true
+          echo "=== WWW HTTPS sans validation TLS pour diagnostiquer ==="
+          curl -ksSIL --max-time 15 https://www.bobmythos.fr/ 2>&1 | head -n 32 || true
+          echo "=== Certificat www ==="
+          timeout 15 openssl s_client -connect www.bobmythos.fr:443 -servername www.bobmythos.fr -brief < /dev/null 2>&1 | tail -n 22 || true
+          echo "=== Résolution A ==="
+          getent ahostsv4 www.bobmythos.fr | head -n 8 || true
+      - name: Santé DNS et certificat selon API GitHub
+        shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          echo "=== GitHub Pages configuration ==="
+          curl -sS --max-time 15 -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer $GH_TOKEN" \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            https://api.github.com/repos/Bobcribb/Bobcribb.github.io/pages \
+          | jq '{cname, status, build_type, https_enforced, https_certificate, source, public}'
+          echo "=== GitHub Pages DNS health ==="
+          curl -sS --max-time 15 -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer $GH_TOKEN" \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            https://api.github.com/repos/Bobcribb/Bobcribb.github.io/pages/health \
+          | jq '{domain: (.domain|{host,is_valid,is_served_by_pages,responds_to_https,enforces_https,https_error,caa_error,reason}), alt_domain: (.alt_domain|{host,is_valid,is_served_by_pages,responds_to_https,enforces_https,https_error,caa_error,reason})}'
