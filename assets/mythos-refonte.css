@@ -22,3 +22,9 @@
 .mythos-home-illustrations figure{margin:1.2rem 0 1.8rem}
 .mythos-home-illustrations img{display:block;width:100%;height:auto;border:1px solid var(--line);border-radius:3px}
 @media(max-width:850px){.portal-layout:has(.mythos-home-illustrations){grid-template-columns:1fr}.mythos-home-illustrations{position:static;border-left:0;border-top:1px solid var(--line);padding:1.5rem 0 0;display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:1rem}.mythos-home-illustrations h2,.mythos-home-illustrations>p{grid-column:1/-1}.mythos-home-illustrations figure{margin:0}}
+
+/* Existing stylesheet ends with .layout{display:block}: restore two-column editorial grid. */
+.layout.portal-layout:has(.mythos-home-illustrations){display:grid!important;grid-template-columns:minmax(0,1fr) minmax(190px,245px);max-width:1320px;align-items:start}
+.layout.portal-layout:has(.mythos-home-illustrations)>.content{min-width:0;max-width:none}
+@media(max-width:850px){.layout.portal-layout:has(.mythos-home-illustrations){grid-template-columns:minmax(0,1fr);padding:24px 16px 56px}.mythos-home-illustrations{max-width:100%}}
+@media(prefers-reduced-motion:reduce){.mythos-edition *{scroll-behavior:auto}}
