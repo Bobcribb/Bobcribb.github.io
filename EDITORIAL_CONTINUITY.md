@@ -95,4 +95,6 @@ Conserver le style noir/or, l'accessibilité du menu sur mobile et l'indépendan
 
 - Volume X : `chapitres/comedies/volume-010-cratinos-dionysalexandros.md` (Cratinos, *Dionysalexandros* ; P.Oxy. IV 663, satire de Périclès, parodie troyenne, costume et drame satyrique ; complément de la notice historique, commit initial `92258dfc341c8845d429badb212dae592650787b`).
 
-**Pour la suite :** rechercher le prochain numéro libre en inspectant les fichiers de `chapitres/comedies/` et les dossiers historiques ; ne pas réutiliser les numéros I à X et ne pas traiter la notice de redirection `volume-002-eupolis-heilotes.md` comme un nouveau volume. Aucun texte privé ni contenu WordPress ne doit être créé ici. Chaque nouveau volume doit être vérifié après commit et après reconstruction du catalogue.
+- Volume XI : `chapitres/comedies/volume-011-cratinos-pytine.md` (Cratinos, *Pytine* ; concours de 423, Comédie personnifiée, vin, rivalité avec Aristophane et deux scènes originales ; commit initial `12625d84cce456304f5a31800f9f7052992b9fac`).
+
+**Pour la suite :** rechercher le prochain numéro libre en inspectant les fichiers de `chapitres/comedies/` et les dossiers historiques ; ne pas réutiliser les numéros I à XI et ne pas traiter la notice de redirection `volume-002-eupolis-heilotes.md` comme un nouveau volume. Aucun texte privé ni contenu WordPress ne doit être créé ici. Chaque nouveau volume doit être vérifié après commit et après reconstruction du catalogue.
