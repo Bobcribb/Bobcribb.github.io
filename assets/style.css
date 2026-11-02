@@ -145,3 +145,25 @@
 #commentaires-vers .work-list li{padding-bottom:16px}
 #commentaires-vers .work-list small{line-height:1.5}
 @media(max-width:600px){#commentaires-vers{scroll-margin-top:140px}}
+
+/* Origines du sacré — maquette gauche, noir et or */
+.origins-landing{background:#0c1012;color:#eae1d2}
+.origins-landing .layout{max-width:1400px}
+.origins-landing .content{padding-top:0}
+.origins-hero{margin:0 -20px 28px;min-height:270px;display:flex;align-items:center;justify-content:center;text-align:center;border-bottom:1px solid #a48248;background:radial-gradient(ellipse at 80% 30%,#51412d 0%,transparent 48%),linear-gradient(120deg,#101517,#22252a 52%,#101213);padding:42px 24px}
+.origins-hero-inner{max-width:850px}
+.origins-hero h1{font:normal clamp(38px,6vw,74px)/1.05 'Cormorant Garamond',Georgia,serif;letter-spacing:.065em;color:#f2e6cf;margin:12px 0}
+.origins-hero-subtitle{font:italic clamp(20px,3vw,30px)/1.2 Georgia,serif;color:#e7c991;margin:8px 0 20px}
+.origins-hero p:last-child{max-width:690px;margin:0 auto;color:#e4dacc}
+.origins-volumes{padding:12px 8px 34px;border-bottom:1px solid #8c744b}
+.origins-volumes h2,.origins-archives h2{font:normal clamp(30px,4vw,46px)/1.15 'Cormorant Garamond',Georgia,serif;color:#f2e6d2}
+.origins-volume-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;margin-top:22px}
+.origins-volume{min-height:116px;display:flex;flex-direction:column;gap:8px;padding:16px;border:1px solid #625744;background:#15191b;color:#eee4d4;text-decoration:none;transition:border-color .2s,background .2s}
+.origins-volume:hover{border-color:#dfb971;background:#232322}
+.origins-volume-icon{color:#c9a76d;font-size:20px}
+.origins-volume strong{font:normal 25px/1.1 'Cormorant Garamond',Georgia,serif;color:#f3e4c8}
+.origins-volume>span:last-child{font-size:12px;color:#d6b780}
+.origins-archives{padding:24px 8px}
+.origins-archives>.portal-section{border-top:1px solid #493f31;padding-top:24px}
+@media(max-width:900px){.origins-volume-grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
+@media(max-width:600px){.origins-volume-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.origins-volume{min-height:98px;padding:12px}.origins-hero{margin:0 -12px 18px;padding:35px 15px}}
