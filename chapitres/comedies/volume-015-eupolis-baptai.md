@@ -257,3 +257,6 @@ La comédie antique se trouvait à la frontière du rite, de la performance et d
 **Parcours de lecture :** [Volume XIV — Eupolis, *Marikas*](/chapitres/comedies/volume-014-eupolis-marikas/) · [Notice historique des *Baptai*](/comedie-grecque-aristophane-menandre-etudes/comedies-perdues-cratinos-eupolis-philemon-fragments/eupolis-baptai-cotyto-rites-alcibiade-fragments/) · [Portail du théâtre grec](/theatre/) · [Index intégral](/rubriques/).
 
 *MYTHOS — texte public original, avec lacunes documentaires explicitement signalées. Aucune pièce perdue n'est présentée comme retrouvée.*
+
+
+**Suite du cycle :** [Volume XVI — Eupolis, *Kolakes* (*Les Flatteurs*)](/chapitres/comedies/volume-016-eupolis-kolakes/), étude du banquet de Callias, de Protagoras et de la dépendance produite par l'éloge. Ce lien complète les parcours existants sans modifier le texte antérieur.
