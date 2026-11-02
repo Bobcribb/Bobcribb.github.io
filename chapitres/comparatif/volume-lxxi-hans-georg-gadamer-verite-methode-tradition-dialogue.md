@@ -1,0 +1,483 @@
+# MYTHOS — VOLUME LXXI
+## Hans-Georg Gadamer : vérité, méthode, tradition, dialogue et conscience historique
+### Herméneutique philosophique, philologie grecque, tragédie, Égypte et Mésopotamie
+
+**Série :** MYTHOS — cycle comparatif universitaire, volume LXXI.  
+**Continuité :** après le volume LXX sur Paul Ricœur ; sans renuméroter les autres séries.  
+**Statut :** chapitre original public, analyses critiques et références bibliographiques vérifiées ; les comparaisons modernes sont distinguées des attestations antiques.  
+**Méthode éditoriale :** ne pas attribuer aux auteurs antiques les catégories de Gadamer ; ne pas transformer des analogies en preuves de diffusion historique.
+
+**Résumé.** Cette étude examine les concepts de précompréhension, tradition, histoire des effets (*Wirkungsgeschichte*), conscience historiquement effectuée, fusion des horizons (*Horizontverschmelzung*), dialogue et application (*Anwendung*). Elle les confronte à la dialectique platonicienne, à la prudence aristotélicienne, aux tragédies de Sophocle et d'Eschyle, aux épopées homériques, puis aux problèmes de traduction et de transmission des textes égyptiens et mésopotamiens. Elle discute les critiques de Habermas et de Derrida, ainsi que les rapports à Ricœur, Hegel, Nietzsche, Vernant et Detienne.
+
+## I. Problème directeur : comprendre n'est pas reproduire
+
+L'herméneutique philosophique de Hans-Georg Gadamer (1900–2002) ne cherche pas une technique infaillible de déchiffrement. Elle examine les conditions sous lesquelles une œuvre, une loi, un événement ou une tradition peuvent être compris par un interprète situé dans l'histoire. La compréhension ne consiste ni à effacer le présent ni à imposer arbitrairement au passé les préférences contemporaines. Elle se produit dans une confrontation où les questions de l'interprète rencontrent les résistances d'un objet transmis. L'enjeu pour MYTHOS est décisif : comment lire Homère, Sophocle, un papyrus funéraire ou une tablette cunéiforme sans prétendre retrouver immédiatement l'esprit de leurs premiers auditeurs, mais sans renoncer à l'exactitude philologique ?
+
+Le volume LXX consacré à Paul Ricœur examinait l'interprétation, le récit et la mémoire. Le présent volume se concentre sur la structure dialogique de la compréhension, la transmission historique et le jugement pratique. Il n'est ni une nouvelle présentation générale de Ricœur ni une réécriture des études consacrées à Cassirer, Lévi-Strauss ou Eliade. Sa question propre est celle de la rencontre entre la tradition et le lecteur.
+
+## II. Une trajectoire intellectuelle entre philologie et philosophie
+
+Né à Marbourg en 1900, Gadamer étudie notamment auprès de Paul Natorp et de Nicolai Hartmann ; sa formation rencontre ensuite la pensée de Martin Heidegger. Son intérêt pour Platon, Aristote et les textes grecs n'est pas un simple ornement érudit : il constitue l'une des sources principales de sa conception de la conversation et du jugement. Il enseigne dans plusieurs universités allemandes et succède à Karl Jaspers à Heidelberg en 1949. Son ouvrage majeur, *Wahrheit und Methode* (*Vérité et méthode*), paraît en 1960, alors qu'il a soixante ans.
+
+La bibliographie doit être maniée avec soin : les éditions allemandes successives, les traductions françaises et anglaises et les *Gesammelte Werke* n'ont pas nécessairement une pagination identique. C'est pourquoi les références ci-dessous renvoient autant que possible aux parties et aux sous-sections de l'ouvrage, et aux divisions traditionnelles des textes antiques, plutôt qu'à des pages présumées universelles.
+
+## III. Les ambiguïtés du contexte politique allemand
+
+La vie universitaire de Gadamer traverse le national-socialisme, la guerre et l'après-guerre. Les études biographiques soulignent qu'il ne fut pas membre du NSDAP, tout en relevant son appartenance à une organisation enseignante liée au régime et sa capacité à poursuivre une carrière académique sous la dictature. L'interprétation de ses comportements et de certains écrits demeure discutée. L'historien doit distinguer documents, témoignages rétrospectifs et évaluations normatives.
+
+Cette question touche directement la philosophie de la tradition : reconnaître la puissance de l'héritage ne doit jamais conduire à légitimer un ordre politique simplement parce qu'il est reçu. L'argument d'autorité doit rester susceptible de critique. Les débats autour de Gadamer et Habermas prennent ainsi une portée éthique qui dépasse la méthodologie des sciences humaines.
+
+## IV. Le titre *Wahrheit und Methode*
+
+Le titre *Vérité et méthode* ne signifie pas que la vérité serait ennemie de toute méthode. Gadamer critique plutôt l'idée selon laquelle les procédures empruntées aux sciences expérimentales fourniraient le modèle exclusif de toute connaissance valable. Les sciences historiques et l'expérience esthétique comportent des dimensions de jugement, de dialogue et de compréhension qui ne se laissent pas entièrement formaliser.
+
+Le terme allemand *Wahrheit* renvoie à la vérité ; *Methode*, à la méthode. Le rapport de coordination du titre n'énonce pas un choix simple entre deux pôles. Gadamer demande quelles expériences de vérité peuvent être occultées lorsque la méthode devient le seul critère de légitimité. Une encyclopédie savante peut tirer parti de cette question sans renoncer aux contrôles documentaires : critique des sources, chronologie, épigraphie et analyse des variantes restent indispensables.
+
+## V. L'héritage de Schleiermacher
+
+Friedrich Schleiermacher avait contribué à généraliser l'herméneutique au-delà de l'exégèse biblique en réfléchissant aux conditions de la compréhension des discours. La tradition romantique accorde une importance particulière à la langue, au contexte et à l'individualité de l'auteur. Gadamer reconnaît la portée de cette histoire, mais il conteste l'idéal d'une restitution exhaustive de l'intention psychologique originelle.
+
+Dans une œuvre transmise pendant des siècles, l'intention de l'auteur n'est pas la seule réalité pertinente : les usages, les traductions, les commentaires et les nouvelles situations de lecture font également partie de l'histoire du sens. Cela n'autorise pas à inventer les intentions d'Hésiode ou d'Eschyle ; cela oblige à différencier l'étude de leur composition de l'histoire de leur réception.
+
+## VI. Dilthey et les sciences de l'esprit
+
+Wilhelm Dilthey avait cherché à donner aux sciences historiques une assise méthodologique distincte de l'explication naturaliste. Gadamer estime que la réflexion sur les *Geisteswissenschaften*, les sciences de l'esprit ou sciences humaines, ne peut se limiter à une théorie des règles d'enquête. L'interprète est déjà engagé dans des traditions linguistiques et institutionnelles qui orientent ses questions.
+
+Il ne faut pas conclure que les méthodes historiques sont superflues. L'enquête sur la date d'une inscription, l'authenticité d'un fragment ou l'ordre des témoins manuscrits ne relève pas d'une simple préférence herméneutique. La thèse gadamérienne concerne la compréhension de ce que les méthodes permettent de découvrir et les présupposés qui orientent leur mise en œuvre.
+
+## VII. Heidegger et la précompréhension
+
+Dans *Sein und Zeit* (*Être et temps*, 1927), Heidegger analyse la compréhension comme une dimension fondamentale de l'existence humaine. Gadamer reprend cette idée de situation préalable : nous ne commençons jamais à interpréter depuis un point de vue absolument vide. Nous possédons déjà une langue, des attentes, des habitudes et des questions.
+
+La dépendance intellectuelle ne doit pas effacer les différences. Gadamer réoriente l'analyse vers le dialogue, la tradition, l'art et les textes classiques. Une comparaison précise doit éviter d'attribuer automatiquement à Gadamer toutes les thèses ontologiques de Heidegger. Le rôle de la conversation et de l'ouverture à l'autre est particulièrement marqué dans son œuvre.
+
+## VIII. *Bildung* : formation et transformation du jugement
+
+Le terme allemand *Bildung* désigne une formation intellectuelle et culturelle qui ne se réduit ni à l'acquisition de données ni à une certification scolaire. Dans la première partie de *Vérité et méthode*, Gadamer reprend des thèmes humanistes comme la formation, le sens commun, le jugement et le goût. Comprendre suppose de développer une aptitude à considérer des objets qui ne se conforment pas immédiatement à nos attentes.
+
+La formation n'est pas nécessairement un progrès linéaire ni l'adhésion à un canon immuable. Une histoire des religions véritablement comparative doit reconnaître la valeur de traditions non européennes et examiner les conditions sociales qui ont déterminé les canons universitaires. Lire un hymne égyptien exige d'apprendre des catégories qui ne sont pas déjà celles de la philosophie allemande.
+
+## IX. *Sensus communis*, jugement et goût
+
+Le *sensus communis* humaniste ne correspond pas simplement à l'opinion majoritaire. Il peut désigner une faculté de discernement façonnée dans des pratiques partagées. Le jugement esthétique, juridique ou historique ne procède pas toujours de l'application mécanique d'une règle. La capacité à reconnaître une situation pertinente se forme par l'exercice et par la confrontation à des exemples.
+
+Cette conception ne légitime pas l'intuition incontrôlée. Une décision philologique peut être argumentée et discutée ; le fait qu'elle ne soit pas entièrement algorithmique ne la soustrait pas aux exigences de preuve. La différence entre jugement et arbitraire doit être explicitement maintenue.
+
+## X. L'expérience de l'art : *Spiel*
+
+Gadamer accorde au *Spiel*, le jeu, une place fondamentale dans l'ontologie de l'art. L'œuvre ne serait pas simplement un objet devant un spectateur souverain : la représentation engage les participants dans un mouvement doté de règles et de possibilités propres. Le théâtre est un terrain privilégié, puisque l'œuvre prend forme dans des performances renouvelées.
+
+Une représentation contemporaine d'*Antigone* n'est pas identique à une représentation athénienne du Ve siècle avant notre ère. Pourtant, la pièce demeure reconnaissable à travers des mises en scène qui la transforment. La continuité ne réside ni dans l'immobilité matérielle ni dans la liberté illimitée de l'adaptation. La relation entre texte, scène et public constitue précisément le problème herméneutique.
+
+## XI. *Darstellung* : présentation plutôt que copie
+
+Le mot *Darstellung* peut désigner une présentation ou une mise en présence. Chez Gadamer, l'œuvre d'art existe dans des actes de présentation qui ne sont pas de simples reproductions secondaires d'un original intact. La représentation théâtrale fait apparaître l'œuvre sous une forme concrète, située et historiquement variable.
+
+La philologie garde ici sa fonction : la version jouée, les coupures, la traduction et les choix de mise en scène doivent être identifiés. Présenter un chœur grec sous une forme musicale moderne peut produire une interprétation légitime, mais ne permet pas d'affirmer que les Athéniens entendaient la même musique ou partageaient les mêmes émotions.
+
+## XII. La temporalité des fêtes et des représentations
+
+Gadamer examine la fête comme une expérience du temps dans laquelle la répétition ne se réduit pas à la copie d'un événement antérieur. Une célébration peut être chaque fois présente tout en appartenant à une tradition. Ce modèle peut éclairer la récurrence des concours dramatiques, des processions et des célébrations religieuses.
+
+Il ne faut pas confondre cette analyse avec la théorie de l'éternel retour étudiée au volume LXIV consacré à Eliade. Gadamer s'intéresse à l'événement de présentation et à l'expérience partagée ; Eliade cherchait des structures du temps sacré. L'histoire des Grandes Dionysies exige en outre des données institutionnelles et épigraphiques propres à Athènes.
+
+## XIII. La critique de la conscience esthétique
+
+Gadamer critique l'attitude qui isolerait l'œuvre dans une sphère purement esthétique, séparée de ses prétentions à la vérité. Une tragédie n'est pas seulement une occasion d'admirer un style ; elle peut faire apparaître des conflits éthiques et des questions concernant l'existence humaine.
+
+Cela ne signifie pas que toute œuvre dispense une leçon morale déterminée. Le sens d'*Œdipe roi* ne se résume pas à une maxime. La pluralité de ses interprétations s'explique notamment par la tension entre savoir, ignorance, responsabilité, pouvoir et parole oraculaire. La force de l'œuvre peut résider dans la difficulté qu'elle oppose aux conclusions trop simples.
+
+## XIV. *Vorurteil* : le préjugé comme condition et comme danger
+
+Le terme allemand *Vorurteil* signifie littéralement un jugement préalable. Gadamer conteste l'idée que tous les préjugés seraient nécessairement des erreurs à éliminer avant toute compréhension. Une anticipation de sens permet de commencer à lire. Elle doit néanmoins être révisée lorsque les données la contredisent.
+
+Il serait absurde de convertir cette thèse en défense des préjugés racistes, politiques ou sociaux. La question est de distinguer les anticipations qui rendent l'enquête possible des présupposés qui empêchent d'entendre le texte. Dans MYTHOS, croire que tout récit de descente aux Enfers représente une initiation est un préjugé méthodologique à tester, non une vérité à présupposer.
+
+## XV. Autorité et reconnaissance
+
+Gadamer réexamine la notion d'autorité : une autorité peut être reconnue en raison d'une compétence plutôt que simplement imposée par la force. L'exemple du spécialiste qui maîtrise une langue morte montre qu'il existe des asymétries légitimes de savoir. Mais une reconnaissance intellectuelle demeure révisable ; l'érudition n'est pas une immunité contre l'erreur.
+
+La distinction est particulièrement importante dans les débats sur l'Antiquité. Un commentaire ancien peut préserver une information précieuse tout en reflétant des choix idéologiques. Les scholies, les lexiques et les traditions mythographiques sont des témoins à examiner, non des arbitres infaillibles.
+
+## XVI. Tradition : transmission et transformation
+
+Le terme *Überlieferung* renvoie à ce qui est transmis. Une tradition n'est pas une substance immobile ; elle se maintient par des reprises, des déplacements et parfois des conflits. Le texte antique arrive au lecteur par des manuscrits, des éditions, des traductions et des institutions qui ont sélectionné ce qui méritait d'être conservé.
+
+La transmission est également une histoire des pertes. La majorité des tragédies grecques a disparu ; certains textes mésopotamiens ne survivent que sous forme de fragments ; les contextes rituels de nombreux objets égyptiens sont partiellement inconnus. Une herméneutique de la tradition doit donc comporter une théorie des lacunes et des silences, pas seulement une célébration de la continuité.
+
+## XVII. *Wirkungsgeschichte* : histoire des effets
+
+La *Wirkungsgeschichte* désigne l'histoire des effets ou l'histoire de l'efficience d'une œuvre et de sa réception. Nous ne rencontrons pas simplement un texte du passé : nous le rencontrons après des siècles d'interprétations qui influencent déjà notre regard. Œdipe est lu après Aristote, Freud, Nietzsche, Lévi-Strauss et d'innombrables adaptations.
+
+L'histoire des effets ne remplace pas l'histoire de la production. Pour Sophocle, la question de la représentation athénienne demeure distincte de celle de l'usage psychanalytique moderne. Une édition MYTHOS doit disposer de rubriques séparées : données antiques, transmission, réception, interprétations philosophiques et reconstitutions contemporaines.
+
+## XVIII. La conscience historiquement effectuée
+
+Le *wirkungsgeschichtliches Bewusstsein* désigne une conscience qui reconnaît être elle-même formée par l'histoire. L'interprète ne peut rendre parfaitement transparentes toutes les conditions de sa propre compréhension. Cette limite n'est pas une invitation au relativisme ; elle appelle une vigilance méthodique et la disposition à apprendre d'un objet qui résiste.
+
+Le spécialiste contemporain des religions grecques dispose d'outils linguistiques et archéologiques que n'avaient pas certains interprètes du XIXe siècle. Il reste cependant tributaire de ses catégories, de ses institutions et de la sélection des vestiges. La réflexivité ne consiste pas à renoncer aux connaissances acquises, mais à en expliciter les conditions.
+
+## XIX. L'horizon : situation et possibilité
+
+L'*Horizont* est une métaphore de la portée de ce qu'un sujet peut comprendre depuis sa situation. Un horizon n'est pas un mur infranchissable : il se déplace avec l'expérience. Le lecteur d'Homère possède un horizon linguistique et culturel différent de celui d'un aède archaïque, mais cette différence n'interdit pas toute compréhension.
+
+Elle exige au contraire un travail de traduction, de contextualisation et de confrontation des catégories. Le mot grec *timē* ne peut être assimilé sans examen au prestige moderne, et *kleos* ne désigne pas simplement une célébrité médiatique. L'élargissement de l'horizon passe par la précision des différences.
+
+## XX. *Horizontverschmelzung* : la fusion des horizons
+
+La « fusion des horizons » ne signifie pas qu'un lecteur absorbe le passé dans son propre monde ni qu'il fusionne deux univers auparavant totalement clos. Elle désigne une transformation de la compréhension au contact d'une tradition qui nous oblige à déplacer nos attentes. La métaphore souligne l'événement de rencontre plutôt que la conquête d'une identité définitive.
+
+Le danger d'une lecture superficielle serait d'invoquer la fusion pour justifier des rapprochements non documentés entre mythologies. Une ressemblance entre un récit grec et un récit mésopotamien ne constitue pas en elle-même une fusion réussie. L'interprétation doit d'abord établir les sources, les variantes, les langues et les possibles circulations historiques.
+
+## XXI. Le cercle herméneutique
+
+Comprendre une partie suppose une idée provisoire du tout ; comprendre le tout exige de revenir aux parties. Le cercle herméneutique ne constitue pas une preuve circulaire autorisant n'importe quelle conclusion. Il décrit un mouvement de révision : une lecture initiale de la tragédie est corrigée par un vers difficile, puis par la structure dramatique, puis par de nouveaux témoins.
+
+Dans l'*Iliade*, la colère initiale d'Achille oriente la lecture des épisodes ; la rencontre avec Priam au livre XXIV modifie rétrospectivement ce que nous comprenons de cette colère. La lecture doit néanmoins distinguer le mouvement interprétatif des données vérifiables : le texte ne change pas de contenu à chaque hypothèse.
+
+## XXII. La structure question-réponse
+
+Pour Gadamer, comprendre un énoncé implique souvent de retrouver la question à laquelle il répond. Un texte ne parle pas dans le vide : il intervient dans un champ de problèmes. La question n'est pas nécessairement formulée explicitement par son auteur, et sa reconstruction peut rester hypothétique.
+
+Devant une loi funéraire, il faut se demander quel conflit ou quelle pratique elle cherche à régler. Devant un hymne royal, il faut distinguer la célébration du pouvoir de la description factuelle d'un événement. La méthode question-réponse est féconde lorsqu'elle évite d'attribuer à un document ancien les problèmes propres à notre époque.
+
+## XXIII. La priorité de la question
+
+Une question véritable ouvre la possibilité de réponses qui pourraient nous surprendre. Une pseudo-question, au contraire, contient déjà sa réponse et ne sert qu'à confirmer une thèse. Dans la lecture comparée, demander « comment ce récit illustre-t-il l'archétype du héros ? » est moins ouvert que demander « quelles fonctions remplit ce récit dans les sources disponibles ? ».
+
+Cette discipline du questionnement permet de relier Gadamer à la dialectique socratique. Le dialogue philosophique ne consiste pas seulement à échanger des opinions : il éprouve les définitions, expose des contradictions et rend possible une transformation des interlocuteurs.
+
+## XXIV. Le dialogue platonicien
+
+La pensée de Gadamer s'appuie sur Platon, en particulier sur le caractère dialogique de la recherche. Dans les dialogues, Socrate interroge des définitions dont l'évidence se défait à mesure que les interlocuteurs examinent leurs conséquences. La vérité n'est pas le résultat mécanique d'un protocole ; elle se découvre, parfois partiellement, dans l'épreuve de la discussion.
+
+Il faut toutefois éviter d'idéaliser le dialogue : les dialogues platoniciens sont des œuvres écrites, composées et orientées par un auteur. Les voix des personnages ne sont pas des transcriptions neutres de conversations historiques. La lecture gadamérienne est une interprétation philosophique de ces textes, non une preuve sur les pratiques orales exactes de Socrate.
+
+## XXV. Le *Phèdre* et le paradoxe de l'écriture
+
+Dans *Phèdre* 274c–277a, Platon fait raconter à Socrate un mythe égyptien mettant en scène Theuth et le roi Thamous. Le passage 275d–e compare l'écriture à une image qui ne peut répondre lorsqu'on l'interroge ; vers 276a, le discours vivant est valorisé. Le contraste porte sur la mémoire, l'enseignement et la capacité à défendre un propos.
+
+**Précaution essentielle :** ce récit est un dispositif littéraire grec ; il ne constitue pas une source directe sur les pratiques scribales égyptiennes. Le dialogue écrit de Platon met en scène une critique de l'écriture, ce qui crée un paradoxe philosophique fécond. Gadamer peut y reconnaître l'exigence du dialogue sans conclure que les textes seraient incapables de susciter des questions nouvelles.
+
+## XXVI. *Logos*, *dialegesthai* et l'écoute
+
+Le grec *logos* (λόγος) possède selon les contextes des valeurs de parole, discours, raison ou argument ; *dialegesthai* (διαλέγεσθαι) renvoie à l'échange et à la discussion. Les traduire par un seul terme moderne peut effacer leurs nuances. La tradition platonicienne du dialogue suppose une attention au propos d'autrui et la possibilité de se laisser corriger.
+
+L'écoute ne signifie pas l'accord automatique. Dans un débat sur la justice, il faut pouvoir reconnaître la force d'un argument et montrer précisément pourquoi il échoue. L'herméneutique n'est pas une politesse vide ; elle comporte une exigence de vérité qui peut conduire à la contradiction.
+
+## XXVII. Aristote : *phronēsis* et jugement situé
+
+Dans l'*Éthique à Nicomaque* VI, 5, 1140a24–1140b30, Aristote distingue la *phronēsis* (φρόνησις), prudence ou sagesse pratique, de la science démonstrative et de la production technique. Elle concerne la délibération sur ce qui peut être autrement et sur ce qu'il convient de faire dans des situations concrètes. Gadamer trouve ici un modèle pour penser l'interprétation comme exercice de jugement.
+
+L'analogie doit être mesurée : lire un texte n'est pas identique à choisir une action politique. Toutefois, dans les deux cas, la règle générale ne décide pas seule du particulier. Une traduction correcte d'un terme juridique grec exige de tenir compte du contexte, des usages et des conséquences de la formulation retenue.
+
+## XXVIII. *Epistēmē*, *technē* et *phronēsis*
+
+La distinction aristotélicienne entre *epistēmē* (ἐπιστήμη), savoir démonstratif, *technē* (τέχνη), compétence de production, et *phronēsis* (φρόνησις), discernement pratique, permet d'éviter plusieurs confusions. Une procédure technique peut être correctement appliquée à une fin injuste ; la sagesse pratique engage l'évaluation de ce qui mérite d'être poursuivi.
+
+Gadamer ne propose pas d'abandonner la science pour la prudence. Il montre plutôt que l'interprétation historique et juridique comporte une dimension de décision contextualisée. La compétence philologique fournit des contraintes, mais elle ne produit pas automatiquement une réponse à toute question de sens.
+
+## XXIX. *Anwendung* : comprendre, c'est aussi appliquer
+
+L'*Anwendung*, l'application, n'est pas une opération purement secondaire ajoutée après la compréhension. Dans la réflexion gadamérienne, comprendre une loi ou un texte implique déjà de le rapporter à une situation d'interprétation. L'exemple juridique est central : un juge ne répète pas simplement une formule abstraite, il doit en déterminer la portée dans un cas concret.
+
+Pour MYTHOS, appliquer une interprétation contemporaine ne doit pas signifier attribuer une valeur antique à une idée moderne. La distinction entre ce que la source atteste et ce que nous pouvons en tirer philosophiquement doit rester explicite. L'actualité d'un texte n'autorise aucune falsification de son histoire.
+
+## XXX. Le droit comme expérience herméneutique
+
+La jurisprudence illustre le fait que la signification d'une norme dépend de son interprétation dans des cas particuliers. La norme ne devient pas pour autant arbitraire : son texte, ses usages et les précédents imposent des contraintes. Gadamer utilise cette situation pour montrer qu'il n'existe pas de compréhension totalement extérieure à l'application.
+
+Les normes grecques doivent être examinées dans leurs institutions propres. Les décrets de la cité, les lois sacrées, les pratiques coutumières et les prescriptions religieuses ne forment pas un code unique. Les traductions modernes de *nomos*, *thesmos* ou *dike* doivent tenir compte de ces différences.
+
+## XXXI. Sophocle, *Antigone* : l'énoncé des lois non écrites
+
+Dans *Antigone* 450–460, l'héroïne oppose aux proclamations de Créon les prescriptions divines qu'elle présente comme non écrites et stables. Le grec du passage contient la formule *ἄγραπτα κἀσφαλῆ θεῶν νόμιμα* : les règles divines non écrites et assurées. L'opposition n'est pas une simple distinction entre un code positif et une déclaration moderne des droits humains.
+
+Une lecture herméneutique doit reconstituer la situation dramatique : le corps de Polynice, la souveraineté de Créon, la parenté et la relation aux dieux d'en bas. La revendication d'Antigone est une parole de personnage au sein d'une tragédie, non un article de droit historique athénien. Le conflit est d'autant plus puissant qu'il ne se laisse pas résoudre par la seule définition d'une règle.
+
+## XXXII. *Nomos*, *nomima* et *kērygma*
+
+Le grec *nomos* (νόμος) peut renvoyer à la loi, à l'usage ou à la coutume selon les contextes. *Nomima* (νόμιμα) peut désigner des prescriptions ou pratiques reconnues ; *kērygma* (κήρυγμα) renvoie à une proclamation. Dans le passage d'*Antigone*, la confrontation entre les proclamations du souverain et les prescriptions divines doit être étudiée dans le vocabulaire du texte.
+
+Traduire uniformément tous ces termes par « loi » effacerait la tension que la tragédie construit. La philologie n'est pas un supplément décoratif à la philosophie : elle détermine la précision même de la question que nous pouvons poser.
+
+## XXXIII. Antigone et Hegel : collision des puissances éthiques
+
+Dans la *Phénoménologie de l'esprit*, notamment la section sur l'esprit éthique, Hegel interprète la tragédie d'Antigone comme une confrontation entre des puissances normatives liées à la famille et à la cité. Il ne suffit pas d'identifier Antigone au bien et Créon au mal pour restituer cette lecture. La catastrophe révèle un conflit au sein de l'ordre éthique lui-même.
+
+Gadamer permet de comprendre pourquoi cette interprétation hégélienne fait partie de l'histoire des effets de Sophocle. Mais Hegel ne devient pas pour autant le commentateur définitif de la pièce. Les différences entre les institutions athéniennes, les catégories hégéliennes et les débats juridiques modernes doivent être préservées.
+
+## XXXIV. Antigone et Ricœur : continuité sans répétition
+
+Ricœur, étudié au volume LXX, examine dans *Soi-même comme un autre* la sagesse pratique et la dimension tragique de l'action. Gadamer permet ici de déplacer l'accent : l'enjeu n'est pas seulement de juger une situation éthique, mais de comprendre comment la tradition tragique continue de nous adresser une question.
+
+Les deux démarches sont complémentaires, non identiques. Ricœur insiste notamment sur les médiations du texte et la responsabilité ; Gadamer sur le dialogue et l'histoire des effets. Une lecture universitaire doit citer les ouvrages concernés plutôt que fondre leurs concepts dans une « herméneutique » indifférenciée.
+
+## XXXV. Eschyle, *Euménides* : instituer un jugement
+
+Dans les *Euménides* 681–710, Athéna établit un tribunal pour juger le meurtre d'Oreste. La pièce met en scène une transformation du conflit entre vengeance, parenté et justice civique. Le procès et le vote sont dramatiquement construits ; ils ne doivent pas être lus comme un procès-verbal historique de la fondation réelle de l'Aréopage.
+
+L'analyse gadamérienne souligne que le spectateur contemporain rencontre un problème de jugement transmis par une œuvre. Mais l'histoire des institutions athéniennes demeure indispensable, notamment pour replacer la trilogie de 458 avant notre ère dans les tensions politiques de son époque.
+
+## XXXVI. *Euménides* 734–753 : vote et dénouement
+
+Dans les vers 734–753, la scène du vote conduit à l'acquittement d'Oreste, selon les modalités présentées par la pièce. La réconciliation avec les Érinyes s'élabore ensuite dans la fin de la tragédie. Il serait réducteur d'y voir le remplacement mécanique d'une religion archaïque par une raison moderne.
+
+La déesse Athéna ne supprime pas simplement les puissances anciennes ; elle négocie leur place dans la cité. Le dialogue dramatique peut être lu comme une transformation institutionnelle, sans que l'interprète puisse en déduire un schéma universel du progrès religieux.
+
+## XXXVII. *Œdipe roi* : enquête, vérité et limite
+
+*Œdipe roi* déploie une enquête où le souverain cherche l'origine de la souillure frappant Thèbes. Les témoignages, les souvenirs et les paroles oraculaires conduisent à une reconnaissance qui transforme l'identité du protagoniste. La pièce montre que l'accès à la vérité peut défaire les certitudes du sujet qui enquête.
+
+Une lecture inspirée de Gadamer peut souligner la révision progressive des anticipations d'Œdipe. Mais il ne faut pas transformer le héros en simple allégorie du cercle herméneutique. Les catégories de souillure, de parenté et de souveraineté appartiennent à une tradition tragique déterminée.
+
+## XXXVIII. Homère : entendre un monde étranger
+
+L'*Iliade* et l'*Odyssée* exigent un apprentissage des institutions héroïques : dons, hospitalité, honneur, gloire, partage du butin et intervention divine. Un lecteur moderne peut comprendre les émotions des personnages sans assimiler leurs valeurs aux siennes. La traduction fait apparaître autant qu'elle transforme.
+
+Le livre VI de l'*Iliade*, avec l'échange entre Diomède et Glaucos (v. 119–236), fournit un exemple de relation d'hospitalité transmise. Il ne faut pas le réduire à une morale générale de l'amitié. La généalogie, la reconnaissance d'une obligation et l'inégalité matérielle de l'échange appartiennent à la configuration propre du passage.
+
+## XXXIX. Hésiode : le conflit des catégories
+
+Dans les *Travaux et les Jours*, notamment les vers 213–285, Hésiode oppose la justice et la démesure dans une exhortation adressée à des acteurs sociaux situés. Les mots *dikē* (δίκη) et *hybris* (ὕβρις) ne sont pas de simples équivalents de la justice constitutionnelle et de l'abus de pouvoir contemporains.
+
+Le lecteur doit restituer les pratiques de règlement des différends, la dimension didactique du poème et ses images religieuses. Une comparaison philosophique avec le droit moderne peut ensuite être proposée, à condition de distinguer le texte archaïque de la question contemporaine.
+
+## XL. Platon, *Ion* : poésie et compétence
+
+Dans l'*Ion*, Socrate interroge un rhapsode sur la nature de son savoir. Le dialogue confronte la compétence technique, l'inspiration et l'autorité interprétative. Une lecture gadamérienne peut y trouver une interrogation sur l'expérience de l'œuvre et sur le statut de l'interprète.
+
+Il ne serait pas exact d'en déduire que Platon partage la théorie de Gadamer. Le dialogue appartient à une stratégie philosophique propre, et sa tonalité ironique rend délicate toute extraction de doctrine. La discussion doit être menée à partir des sections du texte et de ses ambiguïtés.
+
+## XLI. Aristote, *Poétique* : l'œuvre et sa structure
+
+La *Poétique* d'Aristote analyse notamment la *mimēsis* et la composition de l'action tragique ; le chapitre 6 (1449b24–1450b) constitue un point de départ central. Le mot *mimēsis* ne signifie pas uniquement copie passive. La tragédie organise une action dont la cohérence produit des effets sur le spectateur.
+
+Gadamer déplace la question vers l'événement de présentation et la vérité de l'expérience esthétique. Une confrontation rigoureuse distingue la théorie aristotélicienne de la composition dramatique de la philosophie moderne de la compréhension. Le vocabulaire grec doit être cité dans une édition déterminée.
+
+## XLII. La philologie comme résistance de l'autre
+
+Une édition critique conserve parfois des leçons concurrentes, des lacunes et des passages dont le sens demeure incertain. Ces résistances ne sont pas des défauts à dissimuler pour produire un récit fluide. Elles constituent des limites réelles de ce que nous pouvons affirmer.
+
+La fusion des horizons ne dispense donc jamais de la discipline philologique. Si un fragment tragique est attribué de manière discutée, MYTHOS doit signaler cette incertitude. Si une traduction repose sur une restitution, celle-ci doit être distinguée des lettres conservées. L'ouverture herméneutique exige la reconnaissance de ce qui reste inconnu.
+
+## XLIII. Traduire : ni transparence ni impossibilité
+
+La traduction met en relation deux langues qui ne découpent pas toujours le monde de la même manière. Elle n'est ni un simple remplacement de mots ni une création sans contraintes. Une bonne traduction explicite les difficultés de polysémie, de registre et de contexte. La distance entre *logos*, *muthos*, *nomos* et leurs équivalents modernes ne doit pas être effacée.
+
+La traduction peut elle-même être interprétée : pourquoi rendre *muthos* par « mythe » plutôt que par « récit » dans tel passage ? La réponse dépend de la date, du genre et de l'usage. Le lecteur universitaire gagne à voir le terme grec, une translittération, une traduction motivée et une note sur les alternatives.
+
+## XLIV. Égypte : un dialogue qui commence par les écritures
+
+Les textes égyptiens nous parviennent dans des systèmes graphiques différents, notamment hiéroglyphique, hiératique et démotique, avec des évolutions linguistiques de longue durée. Une herméneutique sérieuse commence par reconnaître que le déchiffrement et la lecture philologique précèdent la discussion philosophique.
+
+La pierre de Rosette porte un décret de 196 avant notre ère en versions hiéroglyphique, démotique et grecque. Son intérêt herméneutique est concret : des versions linguistiques apparentées par leur fonction institutionnelle ne sont pas nécessairement identiques mot à mot. L'étude doit comparer les formulations, les contextes de publication et la politique de l'époque ptolémaïque.
+
+## XLV. La pierre de Rosette : une leçon de médiation
+
+Le décret de Memphis de 196 avant notre ère fut produit dans un contexte où autorités royales et sacerdotales intervenaient dans la formulation publique d'un acte. Le monument montre qu'une tradition peut être adressée à des publics linguistiques différents. L'historien doit distinguer les registres, les langues et les usages institutionnels.
+
+Il serait faux de dire que la pierre représente une « fusion des horizons » au sens propre de Gadamer : cette expression appartient à une philosophie moderne. On peut cependant s'en servir pour poser une question comparative sur les conditions de la traduction et de la réception. L'analogie doit rester déclarée comme telle.
+
+## XLVI. Le *Livre des morts* : textes, images et variantes
+
+Le corpus moderne appelé *Livre des morts* rassemble des compositions funéraires égyptiennes dont les sélections et les ordres varient selon les manuscrits. Un papyrus conservé au Metropolitan Museum présente, par exemple, des chapitres accompagnés de vignettes ; d'autres manuscrits offrent des agencements différents.
+
+Il faut résister à la tentation de lire l'ensemble comme un roman continu doté d'un auteur unique. L'objet matériel, l'emplacement des scènes, la sélection des formules et les pratiques funéraires orientent la compréhension. Une herméneutique attentive au support rejoint ici la codicologie et l'histoire des pratiques religieuses.
+
+## XLVII. Maât : traduction et prudence conceptuelle
+
+Le terme égyptien conventionnellement transcrit *mꜣꜥt* peut concerner, selon les contextes, vérité, justesse, ordre ou justice. Aucun équivalent français unique ne couvre toutes ses valeurs. La philosophie peut s'intéresser à l'articulation entre ordre cosmique et conduite humaine, mais elle ne doit pas transformer Maât en équivalent direct de la *dikē* grecque.
+
+La comparaison exige d'identifier les inscriptions, les textes sapientiaux et les compositions funéraires concernés. Une analogie générale entre « ordre » et « justice » ne démontre ni influence historique ni identité de doctrine. La précision philologique conditionne la valeur du rapprochement.
+
+## XLVIII. Akhetaton : comprendre un bouleversement religieux
+
+Les textes et monuments du règne d'Akhenaton documentent une réorganisation des cultes et une représentation particulière d'Aton. Leur interprétation dépend de leur date, de leur fonction, de leur emplacement et des transformations postérieures. Le fait que nous lisions ces documents après des siècles de débats sur le monothéisme oriente inévitablement nos questions.
+
+L'herméneutique invite à rendre cette orientation explicite, non à substituer une théorie de la réception aux preuves égyptologiques. La qualification de « monothéisme » demeure débattue selon les définitions employées ; l'analyse doit distinguer exclusivisme cultuel, théologie royale et pratiques attestées.
+
+## XLIX. Mésopotamie : la tablette comme objet transmis
+
+Les traditions mésopotamiennes nous parviennent sur des supports matériels, souvent fragmentaires, copiés par des scribes dans des contextes scolaires, cultuels ou administratifs. L'histoire des copies est une partie de l'histoire du sens. Une lacune dans une tablette n'est pas une invitation à inventer la phrase qui manque.
+
+Les catalogues, photographies, translittérations et éditions critiques doivent être distingués des traductions littéraires. Une reconstruction du récit de Gilgamesh peut être utile au lecteur, mais elle doit signaler les restitutions éditoriales et les divergences entre versions sumériennes et akkadiennes.
+
+## L. Gilgamesh : réception et reconnaissance de la finitude
+
+La tablette XI de la version babylonienne standard de l'*Épopée de Gilgamesh* contient le récit du Déluge raconté par Uta-napišti. Un témoin néo-assyrien conservé au British Museum atteste matériellement cette tradition. Le rapprochement avec les récits bibliques du Déluge a joué un rôle majeur dans la réception moderne du texte.
+
+Cette réception ne doit pas absorber la spécificité du récit akkadien. Gilgamesh interroge la mort et les limites humaines dans un monde de relations entre rois, dieux et cités. L'histoire des effets explique pourquoi nous lui posons certaines questions ; l'assyriologie précise ce que les tablettes permettent réellement de répondre.
+
+## LI. *Enūma eliš* : la traduction du pouvoir
+
+L'*Enūma eliš* articule la souveraineté de Marduk et l'établissement d'un ordre cosmique. Les textes connus sont des témoins de traditions babyloniennes situées ; leur fonction politique et cultuelle doit être examinée historiquement. Une lecture herméneutique peut demander quelles questions de légitimité et d'ordre le récit met en jeu.
+
+Mais il serait trompeur de le lire uniquement comme une théorie politique ou comme une version primitive d'Hegel. Les noms divins, la langue akkadienne et les conditions de transmission imposent leurs propres contraintes. Le sens philosophique possible ne supprime pas le contexte religieux.
+
+## LII. Perse : textes avestiques et temporalités
+
+Les traditions avestiques posent des problèmes particuliers de transmission orale, de fixation écrite et de datation. Le vocabulaire de l'ordre ou de la vérité, notamment *aša*, ne doit pas être assimilé automatiquement à *dikē* ou à Maât. Les contextes doctrinaux et linguistiques diffèrent.
+
+Une comparaison avec Gadamer peut porter sur le rôle de la transmission dans l'intelligibilité d'un corpus, non sur une prétendue herméneutique zoroastrienne identique à celle du XXe siècle. Les versions des textes, leur stratification et les commentaires ultérieurs doivent être documentés avant toute généralisation.
+
+## LIII. La comparaison entre civilisations : trois niveaux
+
+Le premier niveau est documentaire : que disent exactement les textes et les objets ? Le deuxième est historique : quelles circulations, emprunts ou transformations peuvent être établis ? Le troisième est philosophique : quelles questions communes pouvons-nous construire sans confondre les traditions ? Ces niveaux sont complémentaires mais ne se remplacent pas.
+
+La « fusion des horizons » appartient au troisième niveau comme catégorie d'interprétation ; elle ne constitue pas une preuve au deuxième. La similitude d'une figure de jugement funéraire en Égypte et d'une scène de justice grecque ne suffit pas à établir un emprunt. MYTHOS doit rendre visibles les degrés de certitude.
+
+## LIV. Gadamer et Nietzsche : généalogie et soupçon
+
+Nietzsche invite à interroger la formation des valeurs, les intérêts dissimulés et les interprétations qui prétendent à l'évidence. Gadamer insiste sur l'appartenance à une tradition et la possibilité d'une vérité qui se dévoile dans la conversation. Les deux perspectives se croisent dans la critique d'un sujet entièrement transparent à lui-même.
+
+Elles divergent toutefois dans leurs orientations. Une généalogie peut mettre au jour la violence et les rapports de force que la tradition rend invisibles ; une herméneutique dialogique demande si le passé peut encore nous apprendre quelque chose. Pour une encyclopédie critique, ces deux exigences doivent rester actives.
+
+## LV. Gadamer et Hegel : expérience et historicité
+
+Hegel comprend la formation de la conscience dans un mouvement de médiations et de contradictions. Gadamer reconnaît l'importance de l'histoire et de la dialectique, mais il refuse l'idée d'un point de vue final qui totaliserait toutes les expériences historiques. La compréhension demeure ouverte à de nouvelles questions.
+
+La différence apparaît dans la lecture des tragédies : l'interprétation hégélienne d'Antigone appartient à l'histoire des effets, mais elle ne peut clore définitivement la signification de la pièce. Le dialogue avec Hegel exige une confrontation conceptuelle, non la simple répétition du mot « dialectique ».
+
+## LVI. Gadamer et Vernant : la cité et la différence historique
+
+Jean-Pierre Vernant a montré l'importance des institutions, des pratiques et des catégories propres à la Grèce ancienne. Son travail oblige à situer la pensée mythique et tragique dans des configurations historiques déterminées. Gadamer apporte une réflexion sur la possibilité même de comprendre ces configurations depuis un autre temps.
+
+La complémentarité est exigeante : Vernant ne doit pas devenir un fournisseur d'exemples pour une philosophie déjà achevée, et Gadamer ne dispense pas d'étudier la cité, les rites et les transformations sociales. Le sens antique et l'histoire moderne des interprétations doivent être distingués.
+
+## LVII. Gadamer et Detienne : comparer sans uniformiser
+
+Marcel Detienne invite à construire des comparables plutôt qu'à présupposer des catégories universelles. Cette orientation corrige le risque d'une fusion des horizons comprise comme effacement des différences. Une comparaison fructueuse peut aboutir à reconnaître l'incommensurabilité partielle de deux institutions.
+
+Les mots « sacrifice », « justice » ou « mythe » ne désignent pas nécessairement des ensembles identiques dans toutes les civilisations. La confrontation gadamérienne n'est réussie que si l'interprète accepte de modifier ses propres catégories, au lieu de traduire immédiatement l'autre dans son vocabulaire.
+
+## LVIII. Gadamer et Habermas : tradition ou critique des idéologies ?
+
+Jürgen Habermas reproche à certaines formulations de l'herméneutique de sous-estimer les rapports de domination qui traversent la communication et les traditions. Un accord apparent peut être produit par la contrainte ou par des intérêts socialement organisés. La discussion ouverte ne peut donc être supposée là où les participants ne disposent pas d'une liberté comparable.
+
+Gadamer répond en soulignant que la critique elle-même se déploie dans une langue et dans une histoire. Le débat n'oppose pas simplement la vérité à l'erreur : il porte sur la possibilité d'une critique de l'idéologie qui ne serait pas elle-même totalement extérieure aux traditions qu'elle examine. Les contributions majeures sont réunies notamment dans *Hermeneutik und Ideologiekritik* (1971).
+
+## LIX. Ricœur entre appartenance et distanciation
+
+Ricœur cherche une articulation entre l'appartenance à une tradition et la distanciation critique rendue possible par le texte. Le volume précédent a étudié cette démarche à partir du symbole, du récit et de la mémoire. Ici, elle sert de point de comparaison : comprendre n'exige pas seulement l'écoute, mais aussi la capacité à objectiver des structures et à examiner les soupçons.
+
+Le débat Gadamer–Habermas–Ricœur reste important pour MYTHOS : la transmission de récits sacrés peut porter une expérience de sens, mais aussi reproduire des hiérarchies sociales. Le lecteur doit pouvoir étudier les deux dimensions sans réduire le mythe à une illusion ni le soustraire à la critique.
+
+## LX. Gadamer et Derrida : les limites de l'accord
+
+La rencontre intellectuelle entre Gadamer et Jacques Derrida, notamment lors d'échanges en 1981, met en évidence une difficulté : le dialogue suppose-t-il une orientation vers l'accord qui pourrait atténuer la radicalité de l'altérité ? La déconstruction interroge les tensions internes du texte et les limites d'une présence pleine du sens.
+
+La confrontation ne se résume pas à une opposition entre compréhension et incompréhension. Elle oblige à examiner les présupposés du langage commun, les discontinuités et les malentendus irréductibles. La bibliographie du débat doit distinguer les interventions originales des reconstructions ultérieures.
+
+## LXI. Gadamer et Cassirer : le symbole et la médiation
+
+Cassirer, étudié au volume LXIX, décrit les formes symboliques par lesquelles l'expérience humaine s'organise. Gadamer privilégie l'événement de compréhension dans le langage et la tradition. Tous deux contestent l'idée d'un accès purement immédiat au monde, mais ils ne proposent pas la même architecture philosophique.
+
+Dans une étude du mythe, Cassirer aide à interroger la forme symbolique ; Gadamer, la situation du lecteur et l'histoire de la réception. Les combiner peut être fécond à condition de ne pas transformer les différences entre leurs projets en simples variantes terminologiques.
+
+## LXII. La question de l'universalité du langage
+
+Gadamer attribue au langage une portée fondamentale dans l'expérience herméneutique. Cette thèse ne signifie pas que toutes les expériences seraient immédiatement traduisibles ni que les objets matériels n'auraient aucun rôle. Elle invite à considérer la manière dont le monde devient intelligible dans des pratiques de désignation et de conversation.
+
+L'archéologie rappelle néanmoins que de nombreux vestiges ne sont accompagnés d'aucun texte conservé. Une interprétation des images, des bâtiments et des gestes ne peut être ramenée à une conversation verbale documentée. La portée de l'herméneutique doit donc être discutée avec les sciences matérielles.
+
+## LXIII. Histoire des interprétations et pouvoir
+
+Les textes anciens ont été conservés par des institutions qui sélectionnaient, copiaient et commentaient. La transmission peut être inégale selon les langues, les groupes sociaux et les rapports de domination. L'histoire des effets doit inclure les exclusions et les silences qui ont conditionné la survie des œuvres.
+
+Une histoire de la tragédie grecque qui ignore les œuvres perdues, les rôles des femmes dans les rituels ou les conditions sociales des représentations risque de naturaliser le canon transmis. La réflexion gadamérienne devient plus robuste lorsqu'elle dialogue avec l'histoire sociale et les critiques féministes et postcoloniales.
+
+## LXIV. Objections : relativisme et critères de correction
+
+Si toute compréhension est située, comment départager une interprétation juste d'une lecture fantaisiste ? Gadamer ne défend pas simplement l'idée que toutes les interprétations se valent. L'objet peut résister à nos anticipations ; la discussion, la cohérence et la confrontation aux sources rendent certaines lectures meilleures que d'autres.
+
+La difficulté demeure de formuler des critères suffisamment précis pour éviter que l'ouverture herméneutique devienne une justification rétrospective. MYTHOS doit donc maintenir des règles explicites de citation, de contrôle des variantes et de séparation entre attestations et hypothèses. L'herméneutique philosophique complète ces règles ; elle ne les remplace pas.
+
+## LXV. Objections : tradition et domination
+
+Une tradition peut transmettre une compétence, une mémoire et une langue, mais également des préjugés discriminatoires et des structures d'oppression. La reconnaissance d'une autorité ne garantit pas sa légitimité. Le dialogue suppose des conditions matérielles et politiques qui ne sont pas toujours réunies.
+
+La critique des idéologies doit être intégrée à l'interprétation des récits de souveraineté, de genre et de hiérarchie. Une hymne royal peut exprimer une conception religieuse sincère tout en participant à une stratégie de légitimation politique. Refuser de choisir arbitrairement entre ces dimensions constitue une exigence de rigueur.
+
+## LXVI. Objections : la pluralité des langues et des supports
+
+La théorie de la compréhension développée à partir de textes classiques européens rencontre des défis lorsqu'elle s'applique à des traditions orales, des inscriptions mutilées ou des objets sans texte. Les procédures de traduction, de collecte et de conservation peuvent être asymétriques. Le chercheur doit reconnaître les compétences des communautés concernées et la provenance des documents.
+
+Les corpus amérindiens, africains ou océaniens ne doivent pas être traités comme des illustrations interchangeables d'une théorie européenne. L'ouverture à l'autre exige une attention aux langues et aux détenteurs des traditions, ainsi qu'aux effets de la colonisation sur la transmission.
+
+## LXVII. Protocole de lecture MYTHOS : cinq opérations
+
+Une étude doit d'abord **établir le document** : support, date, provenance, édition et état de conservation. Elle doit ensuite **décrire le vocabulaire** dans la langue originale, avec ses ambiguïtés. Troisièmement, elle doit **reconstituer les questions historiques** que le document permet de poser, sans attribuer aux acteurs des intentions non attestées. Quatrièmement, elle peut **examiner la réception** et les interprétations modernes. Cinquièmement, elle doit **formuler une comparaison critique** qui indique les ressemblances, les différences et les limites de la preuve.
+
+Ces opérations ne constituent pas une « méthode de Gadamer » au sens strict : elles sont une proposition éditoriale MYTHOS, inspirée de l'ouverture herméneutique et articulée aux exigences de la philologie et de l'histoire. Cette attribution doit rester claire pour ne pas faire dire au philosophe ce qu'il n'a pas écrit.
+
+## LXVIII. Protocole de lecture des tragédies
+
+Pour chaque tragédie conservée, MYTHOS doit séparer le résumé de l'intrigue, la structure dramatique, les notes philologiques et les analyses philosophiques. Les numéros de vers doivent renvoyer à une édition identifiable. Les commentaires sur Hegel, Nietzsche, Ricœur ou Gadamer doivent figurer dans des sections autonomes avec des renvois internes.
+
+Pour les œuvres perdues, la prudence doit être renforcée : un fragment attesté ne prouve pas l'existence d'une scène complète ; une reconstitution moderne doit être présentée comme telle. La continuité du catalogue ne justifie aucune invention de paroles anciennes.
+
+## LXIX. Protocole de lecture des sources religieuses
+
+Un texte cultuel ne décrit pas nécessairement une pratique effectivement accomplie dans toutes les régions et à toutes les époques. Les prescriptions, hymnes, mythes et inscriptions votives ont des fonctions distinctes. Il faut déterminer si un document est normatif, narratif, performatif ou commémoratif, tout en reconnaissant que plusieurs fonctions peuvent coexister.
+
+Les comparaisons entre la *thysia* grecque, les offrandes égyptiennes et les pratiques sacrificielles mésopotamiennes doivent commencer par les termes locaux et les sources. Le mot français « sacrifice » est un outil de traduction, non la preuve d'une institution universellement identique.
+
+## LXX. Échelle des preuves et des hypothèses
+
+**Attesté :** publication de *Vérité et méthode* en 1960 ; présence des notions de tradition, histoire des effets, fusion des horizons et application dans la philosophie de Gadamer ; passages grecs cités selon leur numérotation. **Interprétation philosophique :** comprendre *Antigone* comme événement de dialogue entre horizons. **Hypothèse historique :** attribuer à un rite ou à un récit une fonction précise lorsque la documentation est incomplète. **Non démontré :** existence d'un sens unique et intemporel des mythes, identité de toutes les traditions sacrées ou possibilité de reconstruire intégralement la conscience des auteurs antiques.
+
+Cette grille empêche de confondre l'ouverture de l'interprétation avec une licence d'invention. Les conclusions doivent être révisables lorsqu'un nouveau manuscrit, une inscription ou une meilleure édition modifie l'état des sources.
+
+## LXXI. Conclusion : comprendre, c'est accepter d'être corrigé
+
+L'apport majeur de Gadamer est de rappeler que la compréhension ne se réduit ni à la possession d'informations ni à l'application d'une technique. Lire un texte ancien exige une formation, une disponibilité au dialogue et la reconnaissance de notre propre situation historique. La tradition n'est pas un ordre à répéter, mais un interlocuteur à interroger. Cette idée éclaire la lecture des tragédies grecques et des textes religieux anciens sans supprimer la distance qui nous en sépare.
+
+Pour MYTHOS, la leçon est double. La philologie et l'histoire doivent contrôler les affirmations ; la philosophie doit maintenir ouvertes les questions auxquelles les sources donnent accès. Le lecteur ne doit ni dissoudre l'Antiquité dans les catégories contemporaines ni transformer le passé en objet muet. **La rigueur documentaire est la condition d'un dialogue véritable avec les traditions.**
+
+
+## LXXII. Sources primaires philosophiques et éditions
+1. Hans-Georg Gadamer, *Wahrheit und Methode. Grundzüge einer philosophischen Hermeneutik*, Tübingen, J. C. B. Mohr, 1960 ; éditions révisées ; *Gesammelte Werke*, t. 1, Tübingen, Mohr Siebeck. Renvois privilégiés : partie I (art et humanisme), partie II (compréhension, tradition, histoire des effets, application), partie III (langage). La pagination varie selon les éditions.
+2. Hans-Georg Gadamer, *Platos dialektische Ethik* (1931) ; traduction anglaise *Plato's Dialectical Ethics* (1991).
+3. Hans-Georg Gadamer, *Hegels Dialektik* (1971).
+4. Hans-Georg Gadamer, *Die Aktualität des Schönen* ; en anglais, *The Relevance of the Beautiful and Other Essays* (1986).
+5. Platon, *Phèdre*, 274c–277a (Theuth, écriture et parole vivante) ; *Ion*, 530a–542b (rhapsodie et inspiration).
+6. Aristote, *Éthique à Nicomaque*, VI, 5, 1140a24–1140b30 (sagesse pratique) ; VI, 12–13, 1144a–1145a (rapport de la prudence et des vertus) ; *Poétique*, 6, 1449b24–1450b.
+7. Sophocle, *Antigone*, 441–470, particulièrement 450–460 ; *Œdipe roi*, ensemble de l'enquête et de la reconnaissance.
+8. Eschyle, *Euménides*, 681–710 (institution du tribunal), 734–753 (vote et acquittement), 778–1047 (négociation et intégration des Érinyes).
+9. Homère, *Iliade*, VI, 119–236 et XXIV ; Hésiode, *Travaux et les Jours*, 213–285.
+10. *Épopée de Gilgamesh*, version babylonienne standard, tablette XI ; témoins cunéiformes à identifier par catalogue et édition.
+11. Décret de Memphis de 196 av. n. è., connu notamment par la pierre de Rosette (British Museum, EA 24) ; papyrus funéraires égyptiens, chapitres à identifier individuellement.
+
+## LXXIII. Bibliographie critique et comparatiste
+1. Jean Grondin, *Introduction à Hans-Georg Gadamer*, Paris, Cerf, 1999 ; *Hans-Georg Gadamer: A Biography*, New Haven, Yale University Press, 2003.
+2. Jeff Malpas, « Hans-Georg Gadamer », *Stanford Encyclopedia of Philosophy*, révision substantielle du 22 août 2022.
+3. « Hermeneutics », *Stanford Encyclopedia of Philosophy*, sections sur Gadamer et la compréhension.
+4. Jürgen Habermas et Hans-Georg Gadamer (et autres contributions), *Hermeneutik und Ideologiekritik*, Francfort, Suhrkamp, 1971.
+5. Paul Ricœur, « Herméneutique et critique des idéologies » (1973) ; *Du texte à l'action*, Paris, Seuil, 1986 ; *Soi-même comme un autre*, Paris, Seuil, 1990.
+6. Diane P. Michelfelder et Richard E. Palmer (dir.), *Dialogue and Deconstruction: The Gadamer-Derrida Encounter*, Albany, SUNY Press, 1989.
+7. Richard J. Bernstein, « The Conversation That Never Happened (Gadamer/Derrida) », *The Review of Metaphysics*, 61/3 (2008), p. 577–603.
+8. Robert S. Gall, « Between Tradition and Critique: The Gadamer–Habermas Debate », *Auslegung*, 8/1 (1981), p. 5–18.
+9. Jean-Pierre Vernant et Pierre Vidal-Naquet, *Mythe et tragédie en Grèce ancienne*, Paris, Maspero, 1972.
+10. Marcel Detienne, *Comparer l'incomparable*, Paris, Seuil, 2000.
+11. Friedrich Nietzsche, *Zur Genealogie der Moral* (1887) ; G. W. F. Hegel, *Phänomenologie des Geistes* (1807), section sur l'esprit éthique.
+12. A. R. George, *The Babylonian Gilgamesh Epic: Introduction, Critical Edition and Cuneiform Texts*, Oxford University Press, 2003.
+
+## LXXIV. Vérification des sources et références numériques
+Les références ci-dessous ont été contrôlées pour les faits bibliographiques, les passages grecs ou les objets matériels cités. Elles ne dispensent pas d'une édition critique pour toute citation de détail.
+
+- Stanford Encyclopedia of Philosophy, « Hans-Georg Gadamer » : https://plato.stanford.edu/entries/gadamer/
+- Stanford Encyclopedia of Philosophy, « Hermeneutics » : https://plato.stanford.edu/entries/hermeneutics/
+- Internet Encyclopedia of Philosophy, « Gadamer » : https://iep.utm.edu/gadamer/
+- Platon, *Phèdre* 274c–277a, grec et traduction : https://adfonteslibrary.org/work-plato-phaedrus
+- Sophocle, *Antigone* 441–470, texte grec, Perseus : https://beta.perseus.tufts.edu/urn:cts:greekLit:tlg0011.tlg002.colonna1978-grc1/card:441/
+- Aristote, *Éthique à Nicomaque*, texte et traduction : https://adfonteslibrary.org/work-aristotle-nicomachean-ethics
+- Robert S. Gall, débat Gadamer–Habermas, revue universitaire : https://journals.ku.edu/auslegung/article/view/12826
+- British Museum, documentation sur la pierre de Rosette et le décret de Memphis : https://www.britishmuseum.org/sites/default/files/2022-10/Hieroglyphs_unlocking_ancient_Egypt_large_print_guide_The_British_Museum_2.pdf
+- British Museum, tablette XI de Gilgamesh, témoin matériel : https://www.britishmuseum.org/collection/image/107404001
+- Metropolitan Museum of Art, papyrus du *Livre des morts*, chapitres 100 et 129 : https://www.metmuseum.org/art/collection/search/553673
+- Metropolitan Museum of Art, étude d'un papyrus funéraire et de son organisation : https://www.metmuseum.org/fr/perspectives/book-of-the-dead
+
+**Notes de méthode.** Les termes grecs et allemands ont été vérifiés dans les passages ou synthèses savantes indiqués ; les paraphrases sont originales. Les liens numériques servent à vérifier les références, non à reproduire des textes protégés. Les comparaisons avec l'Égypte, la Mésopotamie et la Perse sont explicitement des applications modernes de questions herméneutiques, pas des doctrines attribuées à Gadamer ou aux anciens.
+
+**Continuité de la série :** prochain volume à envisager après vérification du dépôt : **LXXII — Michel Foucault : archéologie du savoir, généalogie du pouvoir et régimes de vérité**, avec une attention particulière aux institutions, à l'Antiquité et aux limites des comparaisons.
