@@ -84,11 +84,19 @@ def rewrite_html(raw):
     raw = raw.replace(
         "https://i0.wp.com/bobmythos.wordpress.com/wp-content/uploads/",
         "https://bobmythos.wordpress.com/wp-content/uploads/")
+    # Convertir uniquement les médias de MYTHOS. Beaucoup de documents
+    # universitaires externes utilisent aussi /wp-content/uploads/ :
+    # leur domaine et leur URL doivent absolument être préservés.
     media_re = re.compile(
-        r"(?:(?:https?:)?//(?:bobmythos\.wordpress\.com|(?:www\.)?bobmythos\.fr))?"
+        r"(?:https?:)?//(?:bobmythos\.wordpress\.com|(?:www\.)?bobmythos\.fr)"
         r"/wp-content/uploads/((?:20\d{2})/(?:0[1-9]|1[0-2])/[A-Za-z0-9._~%+\-]+)",
         re.IGNORECASE)
     raw = media_re.sub(lambda m: "/media/" + m.group(1), raw)
+    relative_media_re = re.compile(
+        r"(?<![A-Za-z0-9._-])/wp-content/uploads/"
+        r"((?:20\d{2})/(?:0[1-9]|1[0-2])/[A-Za-z0-9._~%+\-]+)",
+        re.IGNORECASE)
+    raw = relative_media_re.sub(lambda m: "/media/" + m.group(1), raw)
     soup = BeautifulSoup(raw, "html.parser")
     for tag in soup.find_all(["script", "iframe", "form"]):
         tag.decompose()
