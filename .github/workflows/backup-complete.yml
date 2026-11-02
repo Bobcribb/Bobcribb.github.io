@@ -120,3 +120,4 @@ jobs:
           path: ${{ runner.temp }}/mythos-archive/MYTHOS-source-integrale.tar.gz.part-08
           retention-days: 7
           if-no-files-found: ignore
+# Sauvegarde de migration après contrôle : ensemble autonome de MYTHOS, 2 novembre 2026.
