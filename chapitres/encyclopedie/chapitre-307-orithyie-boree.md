@@ -1,5 +1,5 @@
 # MYTHOS — Volume LXXXIX — Chapitre 307
-# ORITHYIE ET BORÉE — LE VENT DU NORD, L’ENLÈVEMENT ATTique ET LA DIPLOMATIE DES DIEUX
+# ORITHYIE ET BORÉE — LE VENT DU NORD, L’ENLÈVEMENT ATTIQUE ET LA DIPLOMATIE DES DIEUX
 
 **Collection :** Grande encyclopédie universitaire MYTHOS — Mythologie grecque, cycles attiques.  
 **Continuité :** chapitre 305 « Pandion, Procné et Philomèle » ; chapitre 306 « Érechthée et Boutès » ; présent chapitre 307.  
