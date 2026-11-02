@@ -1,0 +1,179 @@
+#!/usr/bin/env python3
+"""Publie MYTHOS depuis le dépôt GitHub, sans accès à WordPress.
+
+Source de vérité : fichiers HTML existants dans main, médias dans media/,
+et nouvelles études Markdown dans chapitres/. Ne publie aucun brouillon.
+"""
+from pathlib import Path
+from xml.sax.saxutils import escape as xml_escape
+import html
+import json
+import os
+import re
+import shutil
+import sys
+
+import mistune
+from bs4 import BeautifulSoup
+
+ROOT = Path(".").resolve()
+OUT = Path("_site").resolve()
+SITE_URL = "https://bobmythos.fr"
+MIN_HTML_PAGES = 450
+MIN_MEDIA_FILES = 110
+markdown = mistune.create_markdown(escape=True, plugins=["table", "strikethrough", "url"])
+EXCLUDED = {".git", ".github", "scripts", "chapitres", "_site", ".venv", "node_modules", "__pycache__", ".pytest_cache"}
+
+def text(s):
+    return re.sub(r"\s+", " ", BeautifulSoup(s or "", "html.parser").get_text(" ", strip=True)).strip()
+
+def render(title, body, description=""):
+    label = html.escape(title, quote=True)
+    desc = html.escape(description[:230] or "Encyclopédie MYTHOS — Mythes, civilisations et philosophie", quote=True)
+    return f'''<!DOCTYPE html><html lang="fr"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="{desc}"><title>{label} | MYTHOS</title>
+<link rel="stylesheet" href="/assets/style.css"></head><body>
+<header class="masthead"><div class="masthead-inner"><a href="/" class="brand">MYTHOS <span>✦</span></a>
+<nav><a href="/">Accueil</a><a href="/rubriques/">Dossiers</a><a href="/recherche/">Recherche</a></nav></div></header>
+<main class="layout"><article class="content"><div class="eyebrow">BIBLIOTHÈQUE · MYTHOS</div>
+{body}</article></main>
+<footer class="footer"><span>MYTHOS — Encyclopédie universitaire comparative</span><a href="/rubriques/">Tous les dossiers</a></footer>
+<script defer src="/assets/search.js"></script></body></html>'''
+
+def write(path, content):
+    p = OUT / path
+    p.parent.mkdir(parents=True, exist_ok=True)
+    if not p.resolve().is_relative_to(OUT):
+        raise ValueError("Chemin interdit " + str(path))
+    p.write_text(content, encoding="utf-8")
+
+def copy_repository():
+    # Prendre uniquement les fichiers utiles au site ; ne pas rendre publics
+    # les scripts, workflows, brouillons ou futures sources Markdown.
+    count=0
+    for current, directories, files in os.walk(ROOT):
+        base = Path(current)
+        directories[:] = [d for d in directories if d not in EXCLUDED and not d.startswith(".")]
+        rel = base.relative_to(ROOT)
+        for file in files:
+            source = base / file
+            if not source.is_file():
+                continue
+            if rel.parts and rel.parts[0] in ("media", "assets"):
+                if file.startswith(".") and file != ".nojekyll":
+                    continue
+                target=OUT / rel / file
+            elif file == "index.html" and (not rel.parts or (rel.parts[0] not in EXCLUDED)):
+                target=OUT / rel / file
+                count += 1
+            elif not rel.parts and file in ("404.html", "CNAME", ".nojekyll", "robots.txt", "sitemap.xml", "search.json"):
+                target=OUT / file
+            else:
+                continue
+            target.parent.mkdir(parents=True, exist_ok=True)
+            shutil.copy2(source,target)
+    if count < MIN_HTML_PAGES:
+        raise RuntimeError(f"Protection : seulement {count} pages HTML dans GitHub, minimum {MIN_HTML_PAGES}")
+    medias = [p for p in (OUT/"media").rglob("*") if p.is_file() and p.name != "manifest.json"]
+    if len(medias) < MIN_MEDIA_FILES:
+        raise RuntimeError(f"Protection : {len(medias)} médias, minimum {MIN_MEDIA_FILES}")
+    return count, len(medias)
+
+def frontmatter(raw):
+    # Optionnel : title: et description: dans un front matter YAML simple.
+    meta={}
+    if raw.startswith("---\n"):
+        head, sep, rest=raw[4:].partition("\n---\n")
+        if sep:
+            for line in head.splitlines():
+                if ":" in line:
+                    k, v=line.split(":",1)
+                    k=k.strip()
+                    if k in ("title","description"):
+                        meta[k]=v.strip().strip("'\"")
+            raw=rest
+    return meta,raw
+
+def publish_chapters():
+    chapters=Path("chapitres")
+    published=[]
+    if not chapters.is_dir():
+        return published
+    for source in sorted(chapters.rglob("*.md")):
+        if source.name.lower()=="readme.md":
+            continue
+        rel=source.relative_to(chapters)
+        if any(part.startswith(".") or part in (".","..") for part in rel.parts):
+            continue
+        slugpath=rel.with_suffix("")
+        if any(not re.fullmatch(r"[a-z0-9][a-z0-9-]*",part) for part in slugpath.parts):
+            raise ValueError("Nom de chapitre invalide : "+str(rel))
+        url="/chapitres/"+"/".join(slugpath.parts)+"/"
+        meta,body=frontmatter(source.read_text(encoding="utf-8"))
+        title=meta.get("title","")
+        if not title:
+            heading=re.search(r"(?m)^#\s+(.+)$",body)
+            title=heading.group(1).strip() if heading else slugpath.name.replace("-"," ").title()
+        if not body.strip() or len(text(markdown(body)))<60:
+            raise ValueError("Chapitre trop court : "+str(source))
+        desc=meta.get("description") or text(markdown(body))[:190]
+        page=OUT / url.lstrip("/") / "index.html"
+        if page.exists():
+            raise RuntimeError("Doublon d'adresse de chapitre : "+url)
+        write(url.lstrip("/")+"index.html",render(title,markdown(body),desc))
+        published.append({"title":text(title),"url":url,"excerpt":text(desc)[:190]})
+    return published
+
+def reindex(chapters):
+    index_path=OUT/"search.json"
+    if not index_path.exists():
+        raise RuntimeError("L'index source MYTHOS est absent")
+    existing=json.loads(index_path.read_text(encoding="utf-8"))
+    by_url={}
+    for entry in existing:
+        path=entry.get("url","")
+        if path.startswith("/") and not path.startswith("//") and (OUT/path.lstrip("/")/"index.html").is_file():
+            by_url[path]={"title":str(entry.get("title","")).strip(),
+                          "url":path,"excerpt":str(entry.get("excerpt",""))[:190]}
+    for entry in chapters:
+        by_url[entry["url"]]=entry
+    # Inclure également les pages HTML ajoutées directement dans GitHub.
+    for p in OUT.rglob("index.html"):
+        rel=p.relative_to(OUT).parent
+        if not rel.parts or rel.parts[0] in ("rubriques","recherche"):
+            continue
+        url="/"+"/".join(rel.parts)+"/"
+        if url in by_url:
+            continue
+        doc=BeautifulSoup(p.read_text(encoding="utf-8"),"html.parser")
+        title=text(str(doc.h1 or doc.title or url))
+        para=doc.select_one(".content p") or doc.select_one("p")
+        excerpt=text(str(para))[:190] if para else ""
+        by_url[url]={"title":title,"url":url,"excerpt":excerpt}
+    if len(by_url)<450:
+        raise RuntimeError("Protection : moins de 450 pages indexées")
+    entries=sorted(by_url.values(),key=lambda e:e["title"].casefold())
+    write("search.json",json.dumps(entries,ensure_ascii=False,separators=(",",":")))
+    listing='<ul class="listing">'+''.join('<li><a href="'+html.escape(e["url"],quote=True)+'">'+html.escape(e["title"])+'</a></li>' for e in entries)+'</ul>'
+    write("rubriques/index.html",render("Tous les dossiers","<h1>Tous les dossiers</h1><p>"+str(len(entries))+" dossiers publics indexés.</p>"+listing))
+    urls=["/"]+[e["url"] for e in entries]+["/recherche/","/rubriques/"]
+    write("sitemap.xml",'<?xml version="1.0" encoding="utf-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'+
+          "\n".join("<url><loc>"+xml_escape(SITE_URL+u)+"</loc></url>" for u in sorted(set(urls)))+"\n</urlset>\n")
+    write("robots.txt","User-agent: *\nAllow: /\nSitemap: "+SITE_URL+"/sitemap.xml\n")
+    return len(entries)
+
+def main():
+    if OUT.exists():
+        shutil.rmtree(OUT)
+    OUT.mkdir(parents=True)
+    n_pages,n_media=copy_repository()
+    chapters=publish_chapters()
+    n_indexed=reindex(chapters)
+    write(".nojekyll","")
+    write("CNAME","bobmythos.fr\n")
+    print(f"MYTHOS SANS WORDPRESS : {n_pages} HTML de GitHub, {n_media} médias locaux, {len(chapters)} nouveaux chapitres Markdown, {n_indexed} dossiers indexés.")
+    print("Pas de réseau, pas d'API WordPress, pas de publication de brouillons.")
+
+if __name__=="__main__":
+    main()
