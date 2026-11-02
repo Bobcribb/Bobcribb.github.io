@@ -102,8 +102,9 @@ Conserver le style noir/or, l'accessibilité du menu sur mobile et l'indépendan
 
 - Volume XIII : `chapitres/comedies/volume-013-eupolis-demoi.md` (Eupolis, *Dēmoi* ; P. Cair. 43227, fragments 99–146 K–A, retour de Solon, Miltiade, Aristide et Périclès, Pyronidès/Myronidès, datations 417–416/412/410, mémoire politique et justice, deux scènes originales distinctes de la notice historique ; commit initial `2adf0e9f88d7efe9802a344493463378f8b89e6b`).
 
-**Prochain volume de la série : XV**, après vérification du dépôt, de la reconstruction publique et des notices existantes. Les pages historiques ne sont pas remplacées ; aucune publication WordPress n'est autorisée.
+**Prochain volume de la série : XVI**, après vérification du dépôt, de la reconstruction publique et des notices existantes. Les pages historiques ne sont pas remplacées ; aucune publication WordPress n'est autorisée.
 
-**Pour la suite :** rechercher le prochain numéro libre en inspectant les fichiers de `chapitres/comedies/` et les dossiers historiques ; ne pas réutiliser les numéros I à XII et ne pas traiter la notice de redirection `volume-002-eupolis-heilotes.md` comme un nouveau volume. Aucun texte privé ni contenu WordPress ne doit être créé ici. Chaque nouveau volume doit être vérifié après commit et après reconstruction du catalogue.
+**Pour la suite :** rechercher le prochain numéro libre en inspectant les fichiers de `chapitres/comedies/` et les dossiers historiques ; ne pas réutiliser les numéros I à XV et ne pas traiter la notice de redirection `volume-002-eupolis-heilotes.md` comme un nouveau volume. Aucun texte privé ni contenu WordPress ne doit être créé ici. Chaque nouveau volume doit être vérifié après commit et après reconstruction du catalogue.
 
 - Volume XIV : `chapitres/comedies/volume-014-eupolis-marikas.md` (Eupolis, *Marikas* ; Hyperbolos, parole populaire, polémique avec Aristophane, deux scènes originales ; commit initial `3a26366de26581b0919f365e702a02d40fa26628`).
+- Volume XV : `chapitres/comedies/volume-015-eupolis-baptai.md` (Eupolis, *Baptai* ; frr. 76–98 K.-A., Cotyto, Alcibiade, critique de la noyade légendaire, trois scènes originales, 23 sections ; commit initial `4f33e0e5d4a8743bcae346c3caa2237f8f3f1db2`).
