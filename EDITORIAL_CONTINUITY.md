@@ -85,5 +85,6 @@ Conserver le style noir/or, l'accessibilité du menu sur mobile et l'indépendan
 - Volume II : `chapitres/comedies/volume-002-eupolis-chrysoun-genos.md`.
 - Volume III : `chapitres/comedies/volume-003-eupolis-heilotes.md` (texte intégral migré depuis l'ancien doublon `volume-002-eupolis-heilotes.md`, devenu une notice d'orientation conservant les anciens liens).
 - Volume IV : `chapitres/comedies/volume-004-eupolis-aiges.md`.
+- Volume V : `chapitres/comedies/volume-005-eupolis-poleis.md` (Eupolis, *Poleis* ; analyse critique du tribut, des cités personnifiées et de la relation impériale ; commit initial `ef534f949500c2f5ca821629415bda295e9133fe`).
 
-**Pour la suite :** rechercher le prochain numéro libre en inspectant les fichiers de `chapitres/comedies/` et les dossiers historiques ; ne pas réutiliser II ou III et ne pas traiter la notice de redirection `volume-002-eupolis-heilotes.md` comme un nouveau volume. Aucun texte privé ni contenu WordPress ne doit être créé ici. Chaque nouveau volume doit être vérifié après commit et après reconstruction du catalogue.
+**Pour la suite :** rechercher le prochain numéro libre en inspectant les fichiers de `chapitres/comedies/` et les dossiers historiques ; ne pas réutiliser les numéros I à V et ne pas traiter la notice de redirection `volume-002-eupolis-heilotes.md` comme un nouveau volume. Aucun texte privé ni contenu WordPress ne doit être créé ici. Chaque nouveau volume doit être vérifié après commit et après reconstruction du catalogue.
