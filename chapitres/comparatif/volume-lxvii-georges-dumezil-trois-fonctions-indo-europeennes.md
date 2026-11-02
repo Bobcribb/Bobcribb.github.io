@@ -421,7 +421,7 @@ John Brough, « The Tripartite Ideology of the Indo-Europeans: An Experiment in 
 **[S7]** Albert Cuny, témoignage de Mitanni (1908) : https://www.persee.fr/doc/rea_0035-2004_1908_num_10_3_1552  
 **[S8]** *Ṛgveda* X, 90, texte et traduction : https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc839610.html  
 **[S9]** *Mahābhārata*, *Ādiparvan*, traduction Ganguli : https://en.wikisource.org/wiki/The_Mahabharata/Book_1:_Adi_Parva/Section_CXXIII  
-**[S10]** Tite-Live I, 20, édition/texte : https://beta.perseus.tufts.edu/urn:cts:latinLit:phi0914.phi001.perseus-eng1:1.20/  
+**[S10]** Tite-Live I, 20, édition/texte : https://cts.perseids.org/read/latinLit/phi0914/phi001/perseus-eng3/1.20.2-1.20.7  
 **[S11]** Adam de Brême IV, 26, texte latin : https://www.germanicmythology.com/works/uppsalatemple.html  
 **[S12]** Bernard Sergent, bilan critique grec : https://doi.org/10.3406/ahess.1979.294117  
 **[S13]** Gregory Nagy, jugement de Pâris (2020) : https://classical-inquiries.chs.harvard.edu/comments-on-comparative-mythology-3-about-trifunctionalism-and-the-judgment-of-paris/  
