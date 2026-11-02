@@ -1,28 +1,45 @@
-# MYTHOS — copie statique de test
+# MYTHOS — Encyclopédie sur GitHub Pages
 
-Ce dépôt prépare une publication gratuite de l’encyclopédie MYTHOS sur GitHub Pages, sans modifier le site WordPress original.
+**Site public : https://bobmythos.fr/**  
+**Domaine alternatif : https://bobcribb.github.io/** (redirige vers le domaine principal).
 
-- **Site WordPress d’origine :** https://bobmythos.fr
-- **Adresse de test prévue :** https://bobcribb.github.io
-- **Import public :** pages et articles publiés via l’API WordPress.com
-- **Brouillons privés :** non importés ; ils restent sur WordPress
-- **Images :** chargées depuis la médiathèque WordPress (elles ne sont pas sauvegardées ici)
-- **Hébergement :** GitHub Pages, sous réserve des limites et conditions de GitHub
+MYTHOS est une encyclopédie comparative en français publiée **gratuitement sur GitHub Pages**. Le dépôt et les fichiers HTML sont une copie fonctionnelle des publications WordPress et servent le site depuis novembre 2026.
 
-## Activer le site test
+## État validé le 2 novembre 2026
 
-Dans le dépôt, aller à **Settings → Pages → Build and deployment** et choisir la source **GitHub Actions**. Le workflow de publication fonctionne sur la branche main, à la demande et environ une fois par heure (horaire non garanti).
+- 502 dossiers publics indexés lors de la dernière synchronisation vérifiée. Le catalogue peut évoluer.
+- **110 médias originaux, images et PDF**, hébergés dans `media/2026/10/` sur GitHub Pages (environ 200 Mo), avec hashes SHA-256 dans `media/manifest.json`.
+- Les pages utilisent des liens locaux `/media/...` et n'ont plus besoin de WordPress pour afficher les images importées.
+- Les **134 brouillons de pages et 1 brouillon d'article** sont stockés **en privé sur Google Drive**, dans 15 volumes d'archive. Ne pas les ajouter au dépôt public.
+- Une sauvegarde séparée des **110 médias** existe aussi en privé sur Google Drive (8 archives ZIP).
+- DNS du domaine enregistré chez WordPress.com : 4 adresses A GitHub et un CNAME www vers `bobcribb.github.io`.
+- HTTPS du domaine **sans `www`** vérifié ; le certificat/accès de `www.bobmythos.fr` peut encore être en attente.
 
-La synchronisation exige **au moins 400 pages publiques** afin de ne pas remplacer le site par une publication vide en cas d’erreur de l’API WordPress.
+## Forfait WordPress et nom de domaine : abonnements distincts
 
-## Ne pas changer le domaine pour le moment
+L'hébergement WordPress.com **Personal** à 9 €/mois n'est plus nécessaire pour servir les pages et les 110 médias déjà copiés sur GitHub. **Ne jamais résilier ni supprimer l'enregistrement du domaine `bobmythos.fr`**, facturé séparément environ 8 €/an, si l'on veut garder cette adresse. Ne pas supprimer le compte WordPress.com ou le site source en cas d'utilisation future de son éditeur.
 
-Ne pas modifier les DNS de `bobmythos.fr`, ne pas ajouter de `CNAME` à ce dépôt, et ne pas résilier le forfait WordPress avant vérification de l’adresse de test.
+Pour ne plus payer le forfait Personal : annuler **l'abonnement d'hébergement**, pas le domaine. WordPress.com conserve normalement les pages, les articles et les médias d'un site rétrogradé à l'offre gratuite.
 
-L’export HTML ne reproduit pas les fonctions dynamiques de WordPress. Il ne conserve pas non plus les brouillons, commentaires privés, médias originaux ni les mises en page de tous les blocs. Faire une sauvegarde XML WordPress et une sauvegarde indépendante de la médiathèque.
+## Édition et synchronisation
 
-## Technique
+Le workflow [Synchroniser MYTHOS vers GitHub Pages](.github/workflows/publish.yml) construit le site depuis les **pages WordPress publiées**, puis préserve localement les médias, les publie sous la racine GitHub Pages et déploie le site. Il est programmé environ une fois par heure, sous réserve de la disponibilité de l'API publique WordPress.com et des délais GitHub Actions. La publication ultérieure de nouveaux chapitres nécessite qu'ils apparaissent dans WordPress, ou soient ajoutés directement à GitHub. Les tâches de rédaction ChatGPT ne publient pas automatiquement des pages.
 
-Le script de génération `scripts/build.py` récupère les contenus publics WordPress, reproduit leur hiérarchie d’URL, construit l’index, la recherche, le sitemap et les pages HTML dans `_site/`.
+Le générateur impose au moins **400 pages publiques** avant de remplacer le site : si le site WordPress devient inaccessible ou privé après rétrogradation, le workflow échouera, **mais les 502 dossiers déjà copiés et les 110 médias resteront publiés sur GitHub**. Il faudra alors passer à une gestion éditoriale GitHub-native.
 
-La mise à jour des nouvelles pages WordPress est automatique après exécution du workflow GitHub Actions.
+Les six PDF externes figurant dans les bibliographies ne sont pas revendiqués comme médias MYTHOS et conservent leurs URL d'origine.
+
+## Fichiers et restauration
+
+- `scripts/build.py` : conversion WordPress public vers HTML et index.
+- `scripts/pin_media.py` : copie/cache des médias WordPress vers GitHub.
+- `media/manifest.json` : inventaire des 110 fichiers locaux et checksums.
+- `search.json`, `recherche/`, `rubriques/` : catalogue et recherche.
+- `sitemap.xml`, `robots.txt`, `CNAME` : indexation et domaine.
+- Sauvegardes privées Drive distinctes : brouillons, médias originaux et procédures de restauration.
+
+GitHub Pages est une plate-forme statique : les commentaires, formulaires et plugins WordPress dynamiques ne sont pas reproduits.
+
+## Précautions
+
+Ne pas supprimer le dépôt `Bobcribb/Bobcribb.github.io`, le domaine `bobmythos.fr`, ni les archives Drive. Après toute modification DNS ou renouvellement du domaine, vérifier https://bobmythos.fr/, une page intérieure, une image dans /media/ et le cadenas HTTPS.
