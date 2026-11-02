@@ -91,4 +91,6 @@ Conserver le style noir/or, l'accessibilité du menu sur mobile et l'indépendan
 
 - Volume VIII : `chapitres/comedies/volume-008-cratinos-odysseis.md` (Cratinos, *Odysseis* ; Cyclope gastronome, Homère IX, chœur d'équipage discuté, Platônios, deux scènes originales ; commit initial `ad1f1816ccc90a1cf5a4a741eff95a84e9ecf2bc`).
 
-**Pour la suite :** rechercher le prochain numéro libre en inspectant les fichiers de `chapitres/comedies/` et les dossiers historiques ; ne pas réutiliser les numéros I à VIII et ne pas traiter la notice de redirection `volume-002-eupolis-heilotes.md` comme un nouveau volume. Aucun texte privé ni contenu WordPress ne doit être créé ici. Chaque nouveau volume doit être vérifié après commit et après reconstruction du catalogue.
+- Volume IX : `chapitres/comedies/volume-009-cratinos-cheirones.md` (Cratinos, *Cheirones* ; fragment 258, théogonie politique de Périclès, Chiron, éducation et satire, deux scènes originales ; commit initial `e06660ead350185cf026628f0e4aaeaa1816e86c`).
+
+**Pour la suite :** rechercher le prochain numéro libre en inspectant les fichiers de `chapitres/comedies/` et les dossiers historiques ; ne pas réutiliser les numéros I à IX et ne pas traiter la notice de redirection `volume-002-eupolis-heilotes.md` comme un nouveau volume. Aucun texte privé ni contenu WordPress ne doit être créé ici. Chaque nouveau volume doit être vérifié après commit et après reconstruction du catalogue.
