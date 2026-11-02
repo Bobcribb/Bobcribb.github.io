@@ -856,6 +856,50 @@ def apply_navigation():
             changed+=1
     return changed
 
+
+def reorganize_preserved_plays_analyses(entries):
+    """Créer un index ordonné des 51 œuvres sans effacer les études anciennes."""
+    path=OUT/"theatre-grec-conserve-etudes-philosophiques"/"index.html"
+    if not path.is_file():
+        raise RuntimeError("Catalogue des pièces conservées absent")
+    page=BeautifulSoup(path.read_text(encoding="utf-8"),"html.parser")
+    article=page.find("article",class_="content")
+    if article is None:
+        raise RuntimeError("Contenu des études conservées introuvable")
+    old=article.find(id="index-analyses-conservees")
+    if old:
+        old.decompose()
+    catalog={e["url"].rstrip("/").split("/")[-1]:e for e in entries}
+    groups=[
+      ("Tragédies d’Eschyle",[("Les Perses","eschyle-perses-analyse"),("Les Sept contre Thèbes","eschyle-sept-contre-thebes-analyse"),("Les Suppliantes","eschyle-suppliantes-danaides-analyse"),("Agamemnon","eschyle-agamemnon-analyse"),("Les Choéphores","eschyle-choephores-analyse"),("Les Euménides","eschyle-eumenides-analyse"),("Prométhée enchaîné — attribution discutée","eschyle-promethee-enchaine-analyse")]),
+      ("Tragédies de Sophocle",[("Ajax","sophocle-ajax-analyse"),("Antigone","sophocle-antigone-lecture-critique"),("Les Trachiniennes","sophocle-trachiniennes-analyse"),("Œdipe roi","sophocle-oedipe-roi-analyse"),("Électre","sophocle-electre-analyse"),("Philoctète","sophocle-philoctete-analyse"),("Œdipe à Colone","sophocle-oedipe-a-colone-analyse")]),
+      ("Tragédies et drame satyrique d’Euripide",[("Alceste","euripide-alceste-analyse"),("Médée","euripide-medee-analyse"),("Les Héraclides","euripide-heraclides-analyse"),("Hippolyte","euripide-hippolyte-analyse"),("Andromaque","euripide-andromaque-analyse"),("Hécube","euripide-hecube-analyse"),("Les Suppliantes","euripide-suppliantes-analyse"),("Héraclès","euripide-heracles-analyse"),("Ion","euripide-ion-analyse"),("Les Troyennes","euripide-troyennes-analyse"),("Électre","euripide-electre-analyse"),("Iphigénie en Tauride","euripide-iphigenie-en-tauride-analyse"),("Hélène","euripide-helene-analyse"),("Les Phéniciennes","euripide-pheniciennes-analyse"),("Oreste","euripide-oreste-analyse"),("Iphigénie à Aulis","euripide-iphigenie-a-aulis-analyse"),("Les Bacchantes","euripide-bacchantes-dionysos-tragedie"),("Rhésos — attribution discutée","euripide-rhesos-analyse"),("Le Cyclope — drame satyrique","euripide-cyclope-analyse")]),
+      ("Comédies d’Aristophane",[("Les Acharniens","aristophane-acharniens-etude"),("Les Cavaliers","aristophane-cavaliers-etude"),("Les Nuées","aristophane-nuees-etude"),("Les Guêpes","aristophane-guepes-etude"),("La Paix","aristophane-paix-etude"),("Les Oiseaux","aristophane-oiseaux-etude"),("Lysistrata","aristophane-lysistrata-etude"),("Les Thesmophories","aristophane-thesmophories-etude"),("Les Grenouilles","aristophane-grenouilles-etude"),("L’Assemblée des femmes","aristophane-assemblee-des-femmes-etude"),("Ploutos","aristophane-ploutos-etude")]),
+      ("Comédies de Ménandre — conservation partielle pour plusieurs pièces",[("Le Dyscolos","menandre-dyscolos-analyse"),("La Samienne","menandre-samia-analyse"),("L’Arbitrage","menandre-epitrepontes-analyse"),("La Femme tondue","menandre-perikeiromene-analyse"),("Le Bouclier","menandre-aspis-analyse"),("Le Sicyonien","menandre-sikyonios-analyse"),("L’Homme haï","menandre-misoumenos-analyse")])
+    ]
+    if sum(len(items) for _,items in groups)!=51:
+        raise RuntimeError("Index des analyses : 51 œuvres attendues")
+    blocks=['<section id="index-analyses-conservees" class="preserved-analysis-index"><h2>Explorer les analyses des pièces conservées</h2><p>51 dossiers classés par genre, auteur et œuvre. Les études critiques sont distinctes des résumés et des reconstitutions. Les textes antérieurs restent intégralement disponibles plus bas.</p><nav class="analysis-index-nav" aria-label="Auteurs et genres">'+''.join('<a href="#analyse-auteur-'+str(i)+'">'+esc(name.split(" — ")[0])+'</a>' for i,(name,_) in enumerate(groups,1))+'</nav>']
+    seen=set()
+    for i,(name,items) in enumerate(groups,1):
+        blocks.append('<section id="analyse-auteur-'+str(i)+'" class="analysis-author-group"><h3>'+esc(name)+'</h3><ol class="analysis-work-grid">')
+        for title,prefix in items:
+            matches=[e for e in entries if e["url"].rstrip("/").split("/")[-1].startswith(prefix)]
+            if len(matches)!=1 or matches[0]["url"] in seen:
+                raise RuntimeError("Analyse absente, ambiguë ou doublonnée : "+prefix)
+            seen.add(matches[0]["url"])
+            blocks.append('<li><a href="'+esc(matches[0]["url"])+'">'+esc(title)+'</a></li>')
+        blocks.append('</ol></section>')
+    blocks.append('<p><a href="#archives-analyses-conservees">Consulter les cycles universitaires et les analyses historiques conservés ↓</a></p></section><div id="archives-analyses-conservees"></div>')
+    fragment=BeautifulSoup(''.join(blocks),"html.parser")
+    first_h1=article.find("h1")
+    if first_h1:
+        first_h1.insert_after(fragment)
+    else:
+        article.insert(0,fragment)
+    path.write_text(str(page),encoding="utf-8")
+
+
 def build_portals():
     entries=json.loads((OUT/"search.json").read_text(encoding="utf-8"))
     groups=get_civilisations(entries)
@@ -866,6 +910,7 @@ def build_portals():
     create_mythologies(entries)
     create_figures_and_stories(entries)
     create_theatre(entries)
+    reorganize_preserved_plays_analyses(entries)
     create_origins(entries)
     create_encyclopedia(entries)
     create_philosophy(entries)
