@@ -230,3 +230,18 @@
 .origins-landing .origins-hero-inner{position:relative;z-index:1;max-width:780px;margin:auto;text-shadow:0 2px 12px #050607}
 .origins-landing .origins-hero h1{font-size:clamp(38px,5.5vw,76px);white-space:normal}
 @media(max-width:620px){.origins-landing .origins-hero{min-height:275px;background-position:38% center}.origins-landing .origins-hero::before{background:rgba(4,7,10,.55)}}
+
+/* Théâtre : catalogue méthodique des 51 analyses de pièces transmises */
+.preserved-analysis-index{margin:30px 0 48px;padding:25px;border:1px solid #78623f;background:#12171a}
+.preserved-analysis-index h2{margin:0 0 10px;color:#f0d6a8}
+.preserved-analysis-index>p{max-width:850px}
+.analysis-index-nav{display:flex;justify-content:center;flex-wrap:wrap;gap:9px;margin:20px 0 30px}
+.analysis-index-nav a{border:1px solid #78623f;padding:8px 12px;color:#ead4ac;font-size:13px;text-align:center}
+.analysis-author-group{padding:18px 0 25px;border-top:1px solid #494238;scroll-margin-top:125px}
+.analysis-author-group h3{font-size:29px;margin:6px 0 17px;color:#f0dfbd}
+.analysis-work-grid{list-style:decimal;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px 20px;padding-left:24px}
+.analysis-work-grid li{padding:8px 5px 8px 2px;break-inside:avoid}
+.analysis-work-grid a{font:17px/1.35 'Cormorant Garamond',Georgia,serif;color:#f3e5ce}
+#archives-analyses-conservees{scroll-margin-top:120px}
+@media(max-width:900px){.analysis-work-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:600px){.preserved-analysis-index{padding:14px}.analysis-work-grid{grid-template-columns:1fr}.analysis-author-group{scroll-margin-top:160px}}
