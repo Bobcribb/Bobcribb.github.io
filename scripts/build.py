@@ -74,6 +74,11 @@ def rewrite_html(raw):
     raw = raw or ""
     if re.search(r"(?m)^\s{0,3}#{1,6}\s+", raw) and raw.count("<p") < 3:
         raw = markdown(raw)
+    # Les assets restent sur WordPress.com : le domaine personnalisé va changer de serveur.
+    for source in ("https://bobmythos.fr", "https://www.bobmythos.fr",
+                   "http://bobmythos.fr", "http://www.bobmythos.fr"):
+        raw = raw.replace(source + "/wp-content/uploads/",
+                          "https://bobmythos.wordpress.com/wp-content/uploads/")
     soup = BeautifulSoup(raw, "html.parser")
     for tag in soup.find_all(["script", "iframe", "form"]):
         tag.decompose()
@@ -81,11 +86,28 @@ def rewrite_html(raw):
         for attr in list(tag.attrs):
             if attr.lower().startswith("on"):
                 del tag[attr]
-        if tag.has_attr("href"):
-            url = str(tag["href"])
+        for attr in ("href", "src", "poster", "data-src"):
+            if not tag.has_attr(attr):
+                continue
+            url = str(tag[attr])
             u = urllib.parse.urlparse(url)
-            if u.hostname and u.hostname.lower() in SOURCE_HOSTS:
-                tag["href"] = (u.path or "/") + ("?" + u.query if u.query else "") + ("#" + u.fragment if u.fragment else "")
+            if u.path.startswith("/wp-content/uploads/") and (
+                    not u.hostname or u.hostname.lower() in SOURCE_HOSTS):
+                tag[attr] = "https://bobmythos.wordpress.com" + u.path + (
+                    "?" + u.query if u.query else "") + (
+                    "#" + u.fragment if u.fragment else "")
+            elif attr == "href" and u.hostname and u.hostname.lower() in SOURCE_HOSTS:
+                tag[attr] = (u.path or "/") + (
+                    "?" + u.query if u.query else "") + (
+                    "#" + u.fragment if u.fragment else "")
+        if tag.has_attr("srcset"):
+            # Une liste srcset peut contenir des variantes ?w=... ;
+            # on ne modifie que le domaine, pas les tailles.
+            tag["srcset"] = str(tag["srcset"]).replace(
+                "https://bobmythos.fr/wp-content/uploads/",
+                "https://bobmythos.wordpress.com/wp-content/uploads/").replace(
+                "https://www.bobmythos.fr/wp-content/uploads/",
+                "https://bobmythos.wordpress.com/wp-content/uploads/")
     return str(soup)
 
 def layout(title, body, summary="", sidebar="", home=False):
