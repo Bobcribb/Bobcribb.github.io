@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """MYTHOS : copie publique statique de WordPress.com pour GitHub Pages.
-Les brouillons, commentaires et médias originaux ne sont PAS sauvegardés ici.
+Les brouillons restent dans l'archive privée. Les médias publics sont auto-hébergés par pin_media.py.
 """
 import html
 import json
@@ -79,6 +79,16 @@ def rewrite_html(raw):
                    "http://bobmythos.fr", "http://www.bobmythos.fr"):
         raw = raw.replace(source + "/wp-content/uploads/",
                           "https://bobmythos.wordpress.com/wp-content/uploads/")
+    # Localiser toutes les images et tous les PDF sur GitHub Pages.
+    # Les variantes WordPress ?w=... deviennent la même image originale locale.
+    raw = raw.replace(
+        "https://i0.wp.com/bobmythos.wordpress.com/wp-content/uploads/",
+        "https://bobmythos.wordpress.com/wp-content/uploads/")
+    media_re = re.compile(
+        r"(?:(?:https?:)?//(?:bobmythos\.wordpress\.com|(?:www\.)?bobmythos\.fr))?"
+        r"/wp-content/uploads/((?:20\d{2})/(?:0[1-9]|1[0-2])/[A-Za-z0-9._~%+\-]+)",
+        re.IGNORECASE)
+    raw = media_re.sub(lambda m: "/media/" + m.group(1), raw)
     soup = BeautifulSoup(raw, "html.parser")
     for tag in soup.find_all(["script", "iframe", "form"]):
         tag.decompose()
@@ -205,7 +215,7 @@ def main():
     write("/sitemap.xml", "\n".join(sm))
     write("/robots.txt", "User-agent: *\nAllow: /\nSitemap: " + SITE_URL + "/sitemap.xml\n")
     print("MYTHOS généré :", len(pages), "pages,", len(posts), "articles,", len(manifest), "URL.")
-    print("Images externes sur WordPress. Brouillons non exportés. Domaine bobmythos.fr NON modifié.")
+    print("Médias réécrits vers /media (pin_media.py). Brouillons non publiés.")
 
 if __name__ == "__main__":
     main()
