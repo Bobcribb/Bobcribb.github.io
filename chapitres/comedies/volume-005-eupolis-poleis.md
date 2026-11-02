@@ -273,6 +273,6 @@ La force historique de *Poleis* réside moins dans un programme impérial que no
 
 Le dossier invite donc à distinguer trois plans : la réalité historique des relations entre Athènes et ses alliés ; la représentation comique qui peut la renforcer ou la tourner en dérision ; et la réflexion philosophique contemporaine sur la reconnaissance et la domination. Confondre ces plans serait trahir le texte perdu. Les maintenir distincts permet au contraire de faire des fragments un objet d'histoire intellectuelle exigeant.
 
-**Navigation MYTHOS :** [Volume IV — *Aiges*](../volume-004-eupolis-aiges/) · [Volume III — *Heilôtes*](../volume-003-eupolis-heilotes/) · [Portail Théâtre grec](/theatre/) · [Bibliothèque historique des comédies grecques perdues](/comedie-grecque-aristophane-menandre-etudes/comedies-perdues-cratinos-eupolis-philemon-fragments/).
+**Navigation MYTHOS :** [Volume VI — *Némésis* de Cratinos](../volume-006-cratinos-nemesis/) · [Volume IV — *Aiges*](../volume-004-eupolis-aiges/) · [Volume III — *Heilôtes*](../volume-003-eupolis-heilotes/) · [Portail Théâtre grec](/theatre/) · [Bibliothèque historique des comédies grecques perdues](/comedie-grecque-aristophane-menandre-etudes/comedies-perdues-cratinos-eupolis-philemon-fragments/).
 
-*Fin du volume V. Prochain volume : à déterminer seulement après consultation du catalogue GitHub, sans doublon ni renumérotation rétroactive.*
+*Fin du volume V. Suite canonique : volume VI, Cratinos, Némésis ; les dossiers antérieurs sont préservés.*
