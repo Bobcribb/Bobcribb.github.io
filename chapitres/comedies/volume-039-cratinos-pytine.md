@@ -152,3 +152,6 @@ Les citations de comédies perdues proviennent souvent de lexicographes, de scho
 ---
 
 **Suite éditoriale :** volume XL, après vérification du dépôt et du catalogue.
+
+
+**Suite du cycle :** [Volume XL — *Les Satyres* de Cratinos](volume-040-cratinos-satyroi.md).
