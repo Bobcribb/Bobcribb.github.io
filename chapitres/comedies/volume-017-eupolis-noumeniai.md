@@ -290,3 +290,6 @@ Cette limite n'appauvrit pas le projet MYTHOS. Elle permet au contraire de juxta
 **Précédent :** [Volume XVI — Eupolis, *Kolakes*](/chapitres/comedies/volume-016-eupolis-kolakes/) · **Présent :** Volume XVII — Eupolis, *Noumêniai* · **À consulter :** [Volume XIII — *Dēmoi*](/chapitres/comedies/volume-013-eupolis-demoi/) · [Bibliothèque des comédies grecques perdues](/comedie-grecque-aristophane-menandre-etudes/comedies-perdues-cratinos-eupolis-philemon-fragments/) · [Théâtre grec](/theatre/) · [Recherche](/recherche/).
 
 *MYTHOS — étude publique. Les trois scènes [C] sont des créations contemporaines. Aucun fragment antique de* Noumêniai *n'est fabriqué ou attribué.*
+
+
+**Suite canonique publiée en Markdown :** [Volume XVIII — Eupolis, *Philoi* (*Les Amis*)](/chapitres/comedies/volume-018-eupolis-philoi/) — 30 sections, fragments 286–295 K.-A., enjeux de la *philia*, trois scènes originales [C] et appareil critique. Ce lien est ajouté sans modifier le texte du volume XVII.
