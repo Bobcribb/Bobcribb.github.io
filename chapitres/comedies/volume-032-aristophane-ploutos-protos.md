@@ -148,3 +148,6 @@ Une comparaison philologique exige d'établir séparément (1) les témoignages 
 ---
 
 **Suite :** volume XXXIII après vérification du dépôt, du catalogue et des notices historiques.
+
+
+**Suite du cycle :** [Volume XXXIII — *Triphâlès*](volume-033-aristophane-triphales.md).
