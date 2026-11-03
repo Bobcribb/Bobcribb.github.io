@@ -75,6 +75,29 @@ def copy_repository():
                 continue
             target.parent.mkdir(parents=True, exist_ok=True)
             shutil.copy2(source,target)
+    # Les manuscrits universitaires déjà liés depuis une page publique doivent
+    # être consultables, sans rendre publics les autres brouillons Markdown.
+    # Seules les sources existantes dans corpus/ et déjà référencées sont copiées.
+    linked_sources = set()
+    for page in OUT.rglob("*.html"):
+        for link in re.findall(r'href\\s*=\\s*["\\\']([^"\\\']+)["\\\']', page.read_text(encoding="utf-8"), flags=re.I):
+            href = link.split("#", 1)[0].split("?", 1)[0]
+            if not href.endswith(".md") or href.startswith(("http:", "https:", "//")):
+                continue
+            try:
+                rel_source = (Path(href.lstrip("/")) if href.startswith("/")
+                              else (page.parent / href).resolve().relative_to(OUT))
+            except ValueError:
+                continue
+            if not rel_source.parts or rel_source.parts[0] != "corpus":
+                continue
+            source = ROOT / rel_source
+            if source.is_file():
+                target = OUT / rel_source
+                target.parent.mkdir(parents=True, exist_ok=True)
+                shutil.copy2(source, target)
+                linked_sources.add(rel_source.as_posix())
+    print(f"Sources Markdown du corpus liées et publiées : {len(linked_sources)}")
     if count < MIN_HTML_PAGES:
         raise RuntimeError(f"Protection : seulement {count} pages HTML dans GitHub, minimum {MIN_HTML_PAGES}")
     medias = [p for p in (OUT/"media").rglob("*") if p.is_file() and p.name != "manifest.json"]
@@ -156,6 +179,19 @@ def reindex(chapters):
         para=doc.select_one(".content p") or doc.select_one("p")
         excerpt=text(str(para))[:190] if para else ""
         by_url[url]={"title":title,"url":url,"excerpt":excerpt}
+    # Les lecteurs universitaires HTML du corpus ne s'appellent pas toujours
+    # index.html : les rendre trouvables dans la recherche et le sitemap.
+    for p in (OUT / "corpus").rglob("*.html"):
+        if p.name == "index.html":
+            continue
+        url = "/" + p.relative_to(OUT).as_posix()
+        if url in by_url:
+            continue
+        doc = BeautifulSoup(p.read_text(encoding="utf-8"), "html.parser")
+        title = text(str(doc.h1 or doc.title or url))
+        para = doc.select_one("main p") or doc.select_one("p")
+        excerpt = text(str(para))[:190] if para else ""
+        by_url[url] = {"title": title, "url": url, "excerpt": excerpt}
     if len(by_url)<450:
         raise RuntimeError("Protection : moins de 450 pages indexées")
     entries=sorted(by_url.values(),key=lambda e:e["title"].casefold())
