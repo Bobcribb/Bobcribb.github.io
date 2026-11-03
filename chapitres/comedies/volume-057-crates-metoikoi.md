@@ -9,6 +9,8 @@ description: "Les Métèques de Cratès : fragment 26 K.-A., Etymologicum Genuin
 
 **Parcours :** [← Volume LVI — Cratès, *Samioi*](/chapitres/comedies/volume-056-crates-samioi/) · [Théâtre grec](/theatre/) · [Analyses philosophiques](/philosophie/) · [Catalogue](/catalogue/).
 
+**Suite du cycle :** [Volume LVIII → Cratès, *Tolmai* (Les Audaces)](/chapitres/comedies/volume-058-crates-tolmai/).
+
 *Dossier universitaire de philologie, histoire sociale, philosophie politique et dramaturgie comparée — MYTHOS, 3 novembre 2026.*
 
 > **Protocole des preuves.** **[A]** : fragments ou témoignages antiques identifiés et faits historiques attestés par d'autres sources, toujours signalées comme **extérieures** à la pièce. **[B]** : hypothèses de datation, interprétations, analogies et lectures philosophiques. **[C]** : scènes écrites aujourd'hui pour MYTHOS, sans prétention de restituer les paroles de Cratès. Le titre ne donne pas une intrigue. Une source postérieure ne prouve pas qu'une institution fonctionnait à l'identique vers 450 av. J.-C.
