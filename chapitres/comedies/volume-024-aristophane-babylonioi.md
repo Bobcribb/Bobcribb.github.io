@@ -153,6 +153,6 @@ La méthode impose donc trois archives séparées : sources grecques sur la piè
 
 ---
 
-**Navigation :** [Volume XXIII — *Anagyros*](volume-023-aristophane-anagyros.md) · [Théâtre grec](/theatre/) · [Recherche](/recherche/).
+**Navigation :** [← Volume XXIII — *Anagyros*](volume-023-aristophane-anagyros.md) · [Volume XXV — *Polyidos* →](volume-025-aristophane-polyidos.md) · [Théâtre grec](/theatre/) · [Recherche](/recherche/).
 
 *MYTHOS — étude publique ; les lacunes documentaires demeurent explicites.*
