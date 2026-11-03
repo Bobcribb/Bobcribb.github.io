@@ -220,4 +220,4 @@ La disparition presque complète de *La Naissance d'Athéna* n'efface pas son in
 
 ---
 
-**Suite éditoriale :** volume XLVI, à déterminer seulement après une nouvelle inspection des titres, des fragments et du dépôt GitHub.
+**Suite éditoriale :** [volume XLVI — Hermippos, *Kerkōpes* / *Les Cercopes*](volume-046-hermippos-kerkopes.md), après vérification du dépôt et du titre.
