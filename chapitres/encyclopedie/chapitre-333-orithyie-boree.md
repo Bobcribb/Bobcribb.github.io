@@ -1,0 +1,110 @@
+# MYTHOS — Grande Encyclopédie universitaire — Volume CXV — Chapitre 333
+## Orithyie et Borée : enlèvement, alliance divine et culte du vent dans l’Attique
+
+**Collection :** Mythologie grecque → cycles attiques → descendance d’Érechthée.  
+**Précédent :** chapitre 332, volume CXIV, Érechthée, Praxithéa et les Hyacinthides.  
+**Nature :** synthèse critique fondée sur les sources antiques ; interprétations signalées comme telles.  
+**Mots-clés :** Ὠρείθυια, Βορέας, Érechthée, Ilissos, Zétès, Calaïs, Cléopâtre, Chioné, Khios, Argonautes, guerres médiques, vent, culte civique, Platon, Hérodote.
+
+### 1. Problématique : un rapt devenu parenté protectrice
+Le récit d'Orithyie, fille du roi athénien Érechthée, et de Borée, personnification divine du vent du nord, réunit trois registres que l'historien doit soigneusement séparer : la violence d'un enlèvement, la généalogie qui relie Athènes à la Thrace et la mise en œuvre civique d'une alliance religieuse au moment des guerres médiques. Loin de constituer un conte météorologique transparent, le récit permet de voir comment une communauté grecque attribue à un phénomène naturel une personnalité, une parenté et une capacité d'action. Il montre également comment une tradition susceptible d'être éprouvée comme un acte de contrainte est réinterprétée comme une alliance utile à la cité.
+
+### 2. Place dans la généalogie d'Érechthée
+Dans la tradition mythographique synthétisée par le Pseudo-Apollodore (*Bibliothèque* III, 15, 1–2), Orithyie appartient à la descendance d'Érechthée et de Praxithéa. Ses sœurs comprennent notamment Procris et Créuse, dont les histoires ouvrent d'autres branches du cycle attique. Cette parenté rattache l'épisode à la royauté autochtone d'Athènes, sans fournir de chronologie historique. Le mariage de Borée avec une princesse attique explique, dans le récit, que le vent puisse être qualifié de « gendre » des Athéniens. Le terme de parenté devient un argument rituel et diplomatique, particulièrement explicite chez Hérodote.
+
+### 3. Le nom d'Orithyie et les précautions philologiques
+La forme grecque Ὠρείθυια (*Ōreíthyia*) est souvent rapprochée de ὄρος, « montagne », et d'un élément verbal lié au mouvement impétueux. La traduction traditionnelle « celle qui s'élance sur les montagnes » demeure une interprétation étymologique, non un fait philologique absolument établi. L'orthographe française varie entre Orithyie et Oréithyie ; les translittérations anglophones utilisent *Oreithyia* ou *Orithyia*. La racine du nom de Borée, Βορέας (*Boréas*), désigne déjà le vent du nord dans le vocabulaire grec. L'étymologie profonde du théonyme ne se déduit pas de son emploi météorologique.
+
+### 4. Borée dans le système des vents
+Chez Hésiode, *Théogonie* 378–380, les vents bénéfiques Zéphyr, Borée et Notos naissent d'Éos et d'Astraios. Ce cadre cosmologique situe Borée parmi les puissances issues de l'Aurore et du ciel étoilé. Il ne faut pas confondre cette généalogie avec l'histoire attique d'Orithyie, qui décrit une union particulière et ses conséquences. Les Grecs pouvaient représenter un même dieu comme puissance cosmique, partenaire d'une union et destinataire d'un culte local : ces niveaux ne s'excluent pas.
+
+### 5. Le rapt et les lieux concurrents
+Dans le *Phèdre* de Platon (229b–d), Phèdre interroge Socrate sur le lieu où Borée aurait enlevé Orithyie. Socrate évoque le cours de l'Ilissos, un passage proche d'un sanctuaire d'Artémis et un autel de Borée ; une tradition concurrente situait l'événement à l'Aréopage. Il ne s'agit donc pas d'un emplacement unanimement fixé. Le dialogue donne à voir la façon dont une géographie familière devient un paysage saturé de mémoire mythique. Les rives, rochers, passages et sanctuaires ne sont pas seulement des décors : ils permettent aux Athéniens de raconter leur propre espace.
+
+### 6. Socrate et la rationalisation des mythes
+Platon (*Phèdre* 229c–230a) fait envisager à Socrate une explication naturaliste : une bourrasque aurait précipité la jeune fille d'un rocher, et la mort accidentelle aurait ensuite été reformulée en enlèvement divin. Mais Socrate se détourne d'une entreprise systématique de réduction des mythes, qui exigerait de rendre compte de toutes les figures fabuleuses, pour privilégier l'examen de lui-même. Il serait erroné d'affirmer que Platon valide simplement l'existence physique du dieu Borée ou qu'il adopte sans réserve la rationalisation. Le passage est d'abord une réflexion sur les priorités de l'enquête philosophique et les limites d'une interprétation purement allégorique.
+
+### 7. L'enlèvement : violence et asymétrie
+La tradition du rapt appartient à un ensemble grec de récits où des divinités s'emparent de mortelles. Dans les images, Borée peut saisir Orithyie au milieu de compagnes ; la jeune fille est emportée sans que sa volonté soit au centre de la narration. L'interprétation critique doit maintenir la distinction entre les normes des récits anciens et l'analyse contemporaine de la contrainte. Le fait qu'un enlèvement aboutisse à une généalogie prestigieuse ne supprime pas la violence qui le structure. La transformation de la victime en épouse divine peut être lue comme une opération narrative de légitimation, mais cette lecture est une hypothèse interprétative, non un commentaire explicite des sources.
+
+### 8. La Thrace comme horizon du vent
+Borée est associé à la direction septentrionale et à un imaginaire thrace. Le transfert d'Orithyie vers le Nord construit un passage symbolique de l'Attique à un espace perçu comme extérieur. Cette topographie n'autorise aucune reconstitution d'un itinéraire historique. La Thrace joue dans les représentations grecques des rôles multiples : région de contacts, territoire d'altérité et origine supposée de certaines puissances. Ici, la géographie du vent offre une justification à l'éloignement de la princesse.
+
+### 9. Les enfants : Zétès, Calaïs, Cléopâtre et Chioné
+Le Pseudo-Apollodore (*Bibliothèque* III, 15, 2) attribue au couple Zétès, Calaïs, Cléopâtre et Chioné. Les deux fils sont fréquemment nommés les Boréades. Leurs ailes et leur vitesse les rapprochent des propriétés de leur père ; il ne s'ensuit pas qu'ils soient de simples « symboles » sans autonomie narrative. Cléopâtre, épouse de Phinée dans des traditions argonautiques, rattache la famille aux récits du Bosphore et des Harpyes. Chioné, dont le nom renvoie à la neige (χιών), étend l'imaginaire familial au froid septentrional. Les variantes généalogiques doivent être conservées, notamment lorsqu'elles divergent sur la descendance ou le sort des personnages.
+
+### 10. Les Boréades et l'expédition des Argonautes
+Dans Apollonios de Rhodes, *Argonautiques* II, 178–300 environ, Zétès et Calaïs interviennent dans l'épisode de Phinée : les Harpyes tourmentent le devin en souillant ou en dérobant sa nourriture ; les deux frères ailés les poursuivent. Le récit met en scène une capacité de déplacement exceptionnelle, héritée de Borée. Leur rôle ne peut être réduit à une « victoire du bon vent sur les mauvais » : l'épisode possède ses propres tensions narratives, interventions divines et limites imposées à la poursuite. Une étude ultérieure des Argonautes devra renvoyer à ce chapitre plutôt que répéter sa généalogie.
+
+### 11. Cléopâtre et les conflits de filiation
+La fille de Borée et d'Orithyie, Cléopâtre, entre dans le cycle de Phinée. Selon les versions, ses enfants sont persécutés après un remariage paternel. Ce thème associe la descendance des vents à des rivalités domestiques, tout comme d'autres lignées attiques articulent filiation prestigieuse et violence familiale. L'identité des protagonistes et les circonstances diffèrent selon les auteurs ; on évitera de produire un récit composite sans attribution.
+
+### 12. Chioné : la neige comme figure généalogique
+La tradition attribue à Chioné une relation avec Poséidon et la naissance d'Eumolpos dans certaines versions, notamment chez le Pseudo-Apollodore (*Bibliothèque* III, 15, 4). Ce point crée un lien inattendu avec les traditions éleusiniennes traitées aux chapitres 331–332. Mais les généalogies d'Eumolpos sont multiples : il serait fautif de faire de Chioné une mère unanimement reconnue. L'intérêt de cette variante réside dans la circulation des lignées entre Attique, Thrace et Éleusis. Le motif de l'exposition de l'enfant, lorsqu'il apparaît, ne doit pas être importé automatiquement dans toutes les versions.
+
+### 13. Hérodote : la tempête et la parenté du dieu
+Le témoignage le plus décisif pour l'histoire religieuse est Hérodote, *Histoires* VII, 189. Pendant l'expédition de Xerxès en 480 av. n.è., les Athéniens auraient reçu un oracle leur recommandant d'invoquer leur « gendre ». Identifiant celui-ci à Borée, époux d'Orithyie, ils lui adressent, avec Orithyie, prières et sacrifices contre la flotte perse. Hérodote rapporte qu'après leur retour, les Athéniens établirent un sanctuaire de Borée près de l'Ilissos. Le passage témoigne de l'existence d'un récit cultuel et de sa signification pour les Athéniens du Ve siècle ; il ne prouve pas que la tempête ait eu une cause surnaturelle.
+
+### 14. Le doute explicite de l'historien
+Hérodote ajoute qu'il ne peut dire si les prières athéniennes ont causé l'action du vent. Cette réserve est essentielle : il transmet une tradition sans se présenter comme témoin de l'efficacité miraculeuse. Les chiffres de pertes navales qu'il rapporte ailleurs dans le même récit (VII, 190) doivent être étudiés comme des estimations littéraires antiques, non comme des données quantitatives contrôlées par l'archéologie. L'historien peut restituer une croyance collective tout en suspendant le jugement causal. Le texte offre ainsi un excellent contrepoint au *Phèdre*.
+
+### 15. Le sanctuaire de Borée au bord de l'Ilissos
+Le lieu de culte signalé par Hérodote et l'autel évoqué par Platon attestent l'association du vent avec la topographie sacrée d'Athènes. La localisation précise des structures et leur identification archéologique ne sont pas assurées au même degré que les témoignages textuels. On ne doit donc pas affirmer qu'un bâtiment conservé aujourd'hui serait avec certitude le temple de Borée d'Hérodote. L'étude de la rive de l'Ilissos exige de distinguer topographie antique, transformations modernes du cours d'eau et hypothèses de localisation.
+
+### 16. Le vent comme allié militaire : une théologie civique
+Dans l'interprétation athénienne, Borée agit moins comme une force naturelle indifférente que comme un parent mobilisable. La généalogie devient une diplomatie adressée aux dieux. Cette relation n'implique pas que tous les Athéniens aient pensé identiquement, ni que la cité ait possédé une doctrine officielle unique des vents. Elle suggère en revanche que le culte public permettait de donner une forme institutionnelle à la gratitude après un danger collectif. L'événement militaire est intégré à une mémoire religieuse.
+
+### 17. Borée, les autres vents et la navigation
+Les vents étaient des réalités décisives pour la navigation ancienne. Un vent du nord pouvait, selon la saison, la côte et le dispositif naval, constituer une ressource ou une menace. Le caractère protecteur de Borée dans le récit de 480 ne signifie pas que le dieu soit universellement bienveillant. La personnification permet de négocier rituellement avec une puissance ambivalente. Les comparaisons avec Zéphyr, Notos et Euros doivent tenir compte des différences de traditions et ne pas postuler un système météorologique stable et uniforme.
+
+### 18. Images attiques : Borée ailé et Orithyie en fuite
+La céramique attique à figures rouges du Ve siècle représente le rapt de manière récurrente : Borée, souvent barbu et ailé, poursuit ou emporte une jeune femme identifiée par le contexte ou des inscriptions. Ces scènes sont importantes pour l'histoire des représentations, mais chaque attribution exige un contrôle du catalogue, des restaurations et de la présence éventuelle d'inscriptions. Le chapitre propose comme pistes de recherche les catalogues du Beazley Archive Pottery Database et du Corpus Vasorum Antiquorum. Aucun numéro d'inventaire précis n'est avancé sans vérification d'objet.
+
+### 19. Chronologie de l'iconographie et guerres médiques
+L'intérêt attique pour le rapt de Borée au Ve siècle peut être rapproché de la mémoire des guerres médiques. Toutefois, une corrélation chronologique n'est pas une preuve que toutes les images aient été produites pour commémorer une tempête. Les usages du mythe sur les vases peuvent aussi relever de conventions narratives, d'intérêts esthétiques et de contextes domestiques. La lecture politique est plausible pour certaines images, mais doit rester argumentée au cas par cas.
+
+### 20. La question du consentement dans la mémoire civique
+Le même événement narratif peut être raconté comme violence faite à Orithyie et comme bénéfice pour Athènes. La seconde lecture tend à déplacer l'attention de la femme enlevée vers la puissance de son époux. Cette dissymétrie permet d'interroger la production de la mémoire collective : la cité retient le « gendre » protecteur et rend moins visible la contrainte initiale. Il ne faut pas transformer cette analyse en jugement attribué à Hérodote ou à Platon ; elle relève d'une problématique contemporaine d'histoire du genre et des récits.
+
+### 21. Philosophie du mythe : expliquer ou comprendre ?
+Le *Phèdre* et les *Histoires* ne proposent pas la même opération intellectuelle. Chez Platon, l'explication rationalisante du rapt sert de détour vers une question de méthode et de connaissance de soi. Chez Hérodote, l'attention porte sur une croyance située, son contexte militaire et l'incertitude de la causalité. On peut donc distinguer trois niveaux : ce qui est arrivé météorologiquement ; ce que les Athéniens ont dit de l'événement ; ce que les auteurs font de cette parole. Confondre ces niveaux conduit à lire les sources comme des comptes rendus de miracles ou comme de simples erreurs scientifiques.
+
+### 22. Parenté divine et identité politique
+Le vocabulaire de la parenté transforme la cité en membre d'un réseau incluant dieux, héros et ancêtres. L'alliance avec Borée n'est pas une généalogie biologique des Athéniens mais une fiction religieuse socialement opératoire. Les relations avec les divinités peuvent être pensées par analogie avec des rapports humains de réciprocité, d'hospitalité et de protection. Ce constat s'inscrit dans l'étude générale des cultes civiques grecs, sans réduire ceux-ci à une pure propagande politique.
+
+### 23. Comparaison limitée : les dieux des vents ailleurs
+Les puissances du vent sont personnifiées dans d'autres cultures méditerranéennes et proche-orientales. Une comparaison peut éclairer la manière dont une communauté adresse des demandes à des phénomènes dangereux ; elle ne permet pas de conclure à un emprunt direct dans le cas de Borée. La priorité reste ici la documentation grecque. Toute hypothèse de transmission exige une chronologie, des contacts et des ressemblances spécifiques, non une simple analogie fonctionnelle.
+
+### 24. Ce que les sources attestent et ce qu'elles ne prouvent pas
+**Attesté textuellement :** la parenté de Borée et d'Orithyie chez les auteurs anciens ; le récit de l'invocation de Borée en 480 chez Hérodote ; les discussions topographiques et philosophiques de Platon ; la généalogie des Boréades dans les traditions mythographiques. **Attesté matériellement à un autre niveau :** l'existence de représentations anciennes du rapt dans l'art grec. **Non démontré :** l'historicité d'Orithyie, l'efficacité surnaturelle des sacrifices, la localisation archéologique certaine du sanctuaire et l'interprétation politique de chaque vase. **Hypothèses critiques :** le rapt comme récit de légitimation, la parenté comme diplomatie religieuse, la transformation de la violence en mémoire civique.
+
+### 25. Sources antiques commentées
+1. Hésiode, *Théogonie* 378–380 : généalogie cosmologique de Borée et des vents.
+2. Hérodote, *Histoires* VII, 188–191, particulièrement VII, 189 : invocation du « gendre », sacrifices, sanctuaire près de l'Ilissos, réserve sur la causalité.
+3. Platon, *Phèdre* 229b–230a : lieu du rapt, autel de Borée, rationalisation possible et déplacement philosophique.
+4. Pseudo-Apollodore, *Bibliothèque* III, 15, 1–4 : descendance d'Érechthée, union d'Orithyie et de Borée, ramifications vers Chioné et Eumolpos.
+5. Apollonios de Rhodes, *Argonautiques* II, épisode de Phinée et poursuite des Harpyes : intervention des Boréades.
+6. Ovide, *Métamorphoses* VI, 675–721 : reprise latine tardive de l'enlèvement, précieuse pour la réception, non pour reconstituer automatiquement le récit grec archaïque.
+
+### 26. Bibliographie critique et vérifiable
+- Robert Parker, *Athenian Religion: A History*, Oxford, Clarendon Press, 1996 : cultes, institutions et religion civique.
+- Robert Parker, *Polytheism and Society at Athens*, Oxford University Press, 2005 : articulation entre communautés et dieux.
+- Walter Burkert, *Greek Religion*, trad. John Raffan, Harvard University Press, 1985 : synthèse des cultes grecs.
+- Vinciane Pirenne-Delforge, *Le Polythéisme grec comme objet d'histoire*, Collège de France, 2018 ; réédition 2024 : méthode d'histoire des religions.
+- Jennifer Neils (dir.), *The Parthenon: From Antiquity to the Present*, Cambridge University Press, 2005 : contexte iconographique et mémoire civique athénienne, non monographie sur Borée.
+- François Lissarrague, *The Aesthetics of the Greek Banquet: Images of Wine and Ritual*, Princeton University Press, 1990 : méthode de lecture des images sur les vases, référence de contexte.
+- Pierre Brulé, *La Fille d'Athènes : la religion des filles à Athènes à l'époque classique*, Les Belles Lettres, 1987 : genre, cultes et statut des jeunes filles.
+- Nicole Loraux, *Les Enfants d'Athéna : idées athéniennes sur la citoyenneté et la division des sexes*, Maspero, 1981 : autochtonie et représentations politiques, référence comparative.
+
+### 27. Pour écouter et voir — ressources francophones vérifiées
+**Audio universitaire (contexte méthodologique, non conférence consacrée à Borée) :** Vinciane Pirenne-Delforge, « Le paradoxe grec : religion “primaire” vs. exercice de la raison », Collège de France, 4 février 2021. La page propose « Écouter l'audio » : https://www.college-de-france.fr/fr/agenda/cours/norme-religieuse-et-questions-autorite-dans-le-monde-grec-1/le-paradoxe-grec-religion-primaire-vs-exercice-de-la-raison . Éclairage direct sur la section 21 : ne pas opposer mécaniquement mythologie et rationalité grecque.
+**Vidéo documentaire (contexte athénien, non épisode consacré à Orithyie) :** *Les Grands Mythes — Athéna, la sagesse armée*, série ARTE, 26 minutes, https://campus.arte.tv/program/les-grands-mythes-athena-la-sagesse-armee . Le documentaire éclaire la protection divine de la cité et son identité religieuse, utiles pour les sections 16 et 22. La page de programme a été vérifiée ; l'accès au visionnage peut dépendre des droits de la plateforme.
+**Textes antiques en accès direct :** Hérodote VII, 189, https://lexundria.com/hdt/7.189/mcly ; Platon, *Phèdre* 229, https://bookstacks.org/en/authors/plato/phaedrus/section-229 . Ces liens servent à contrôler les passages discutés et ne sont pas des ressources audiovisuelles.
+
+### 28. Index éditorial et renvois
+**Index des personnes et puissances :** Orithyie (sections 2–7), Borée (4–5, 13–17), Érechthée (2), Praxithéa (2), Zétès et Calaïs (9–10), Cléopâtre (9, 11), Chioné (9, 12), Eumolpos (12), Phinée (10–11), Athéna (22, 27).  
+**Lieux :** Attique, Athènes, Ilissos, Aréopage, Thrace, Eubée, cap Sépias, Éleusis.  
+**Thèmes :** enlèvement et genre (7, 20), vents et navigation (4, 17), rituel et guerre (13–16), méthode philosophique (6, 21), iconographie (18–19), variantes (5, 9, 12).  
+**Renvois internes :** chapitre 331 (Eumolpos), chapitre 332 (Érechthée), chapitre 329 (identités attiques).  
+**Suite proposée :** chapitre 334, volume CXVI — Procris, Céphale et l'épreuve de la fidélité : chasse, métamorphoses et tragédie de la reconnaissance. Vérifier auparavant les fichiers réels de cette série.
+**Fichier de publication :** `chapitres/encyclopedie/chapitre-333-orithyie-boree.md`.
