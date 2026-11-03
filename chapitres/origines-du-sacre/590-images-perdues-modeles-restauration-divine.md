@@ -1,0 +1,154 @@
+# MYTHOS — Les origines du sacré — Tome XLVI, chapitre 590
+## Retrouver le dieu : images perdues, modèles retrouvés et légitimité des restaurations
+
+*Étude universitaire d'archéologie des objets, de philologie, d'histoire des religions et de philosophie de la représentation. Suite du chapitre 589 sur le recommencement des sanctuaires. L'enquête porte sur le remplacement d'une image après sa disparition, non sur une histoire générale des statues cultuelles. Les références [P] désignent les documents ; [R], les études et instruments scientifiques.*
+
+### 590.1. Une disparition matérielle, plusieurs problèmes religieux
+
+Que faut-il retrouver lorsqu'une image divine a disparu ? Le même objet, sa forme, son emplacement, les gestes qu'on lui adressait ou l'autorité qui permet d'en consacrer un autre ? Ces réponses définissent des programmes différents. Restituer un objet emporté n'est pas fabriquer une copie ; fabriquer une copie n'est pas nécessairement rétablir son statut cultuel ; reconnaître un nouveau support n'efface pas obligatoirement la mémoire de la perte.
+
+Le présent chapitre confronte deux dossiers : la tablette dite du Dieu-Soleil de Sippar et le récit de Pausanias sur la Déméter noire de Phigalie. Leur valeur documentaire est asymétrique. Le premier comprend un monument inscrit effectivement conservé ; le second transmet une description d'images disparues, des traditions locales et le compte rendu d'une visite. Cette asymétrie n'interdit pas la comparaison, mais elle en fixe les conditions.
+
+Notre proposition est que la restauration d'une image engage une chaîne de reconnaissance. Il faut pouvoir expliquer pourquoi le nouvel objet mérite d'occuper une place déjà investie d'obligations. La ressemblance peut intervenir ; elle n'est pas nécessairement l'unique critère. Le lieu, le modèle invoqué, l'initiative du commanditaire et l'autorisation rituelle peuvent également compter.
+
+### 590.2. Sippar : identifier l'objet avant de raconter son contenu
+
+La tablette BM 91000, dite *Sun-God Tablet*, appartient au règne du Babylonien Nabû-apla-iddina, au IXe siècle avant notre ère. Elle associe un relief et une inscription en six colonnes. La notice universitaire de Mayence présente sa découverte à Sippar en 1881, dans un coffret de terre cuite plus tardif, avec deux empreintes d'argile du relief. [R1]
+
+Il faut dès l'abord distinguer la tablette, le coffret, les empreintes et les images dont le texte raconte la disparition ou la fabrication. Ces éléments ne sont ni du même âge ni nécessairement de la même fonction. Les empreintes conservées de la tablette ne doivent pas être identifiées au modèle ancien dont parle l'inscription.
+
+Cette séparation n'est pas un raffinement de catalogue. Sans elle, on pourrait faire de la découverte moderne d'un assemblage une confirmation directe de chaque épisode ancien raconté sur l'un de ses éléments. Le monument atteste matériellement qu'un récit et des dispositions ont été gravés. L'historicité détaillée des événements plus anciens qu'il évoque constitue une enquête supplémentaire.
+
+### 590.3. Un passé de perte et une réparation différée
+
+Le début de l'inscription expose les malheurs d'Ebabbar, le sanctuaire de Šamaš à Sippar, et les tentatives successives de rétablissement. L'édition de Leonard W. King distingue cette rétrospective du récit des initiatives de Nabû-apla-iddina. [P1, col. I–II]
+
+La succession des souverains donne une profondeur temporelle à l'action réparatrice. Elle permet de présenter le dernier intervenant non comme celui qui crée librement un culte, mais comme celui qui accomplit ce qui avait résisté aux prédécesseurs. Cette lecture concerne la construction de l'inscription ; elle ne garantit pas que toutes les tentatives antérieures y soient rapportées sans sélection.
+
+Une question critique s'impose : que signifie ici l'impossibilité de refaire l'image ? Manque d'un modèle, absence d'autorisation ou difficulté de reconnaissance ne sont pas identiques. La recherche ne doit pas transformer la perte de l'objet en une incapacité technique universelle des artisans. Un artisan peut savoir produire une figure sans être reconnu comme capable de produire cette image légitime.
+
+### 590.4. Un disque solaire n'est pas l'absence de tout support
+
+La présentation assyriologique de Mayence décrit une solution provisoire : avant la restauration de la statue, un disque solaire représente Šamaš. Le rétablissement de certains usages ne dépend donc pas nécessairement du retour immédiat d'une image anthropomorphe. [R1]
+
+Ce dispositif invite à préciser le vocabulaire d'« aniconisme ». L'absence de figure humaine ne signifie pas nécessairement absence d'image, de signe matériel ou de relation rituelle. Un emblème peut rendre le destinataire identifiable sans adopter le même mode de figuration qu'une statue.
+
+L'analyse ne doit pas convertir cette succession en évolution obligatoire du symbole abstrait vers la figure humaine. Dans notre dossier, le remplacement provisoire s'inscrit dans une histoire de perte et de réparation. La chronologie d'un épisode local n'est pas la chronologie universelle de la représentation divine. Il faut également distinguer le rôle du disque dans le récit et ses fonctions dans la composition figurée de la tablette : leur correspondance exacte demande une argumentation, pas une identité supposée.
+
+### 590.5. Le modèle retrouvé : une découverte qui autorise
+
+L'inscription raconte la découverte d'un modèle sur la rive occidentale de l'Euphrate, puis sa présentation au roi. La fabrication de la nouvelle image et l'installation du personnel concerné sont exposées dans la suite. L'édition de King permet de localiser ces séquences : col. III, 11–IV, 11 pour la découverte ; IV, 12–21 pour la fabrication ; IV, 22–34 pour l'installation. [P1]
+
+Le modèle ne fournit pas seulement une information visuelle. Dans la logique du récit, sa découverte permet d'affirmer que la nouvelle fabrication ne dépend pas du seul choix arbitraire du commanditaire. La nouveauté matérielle peut être présentée comme un retour à une forme autorisée.
+
+Il faut toutefois distinguer cette fonction de légitimation de la preuve de l'ancienneté effective du modèle. L'inscription atteste la revendication d'une découverte ; elle ne met pas entre nos mains un dossier indépendant de provenance. Étudier l'utilité d'une telle revendication ne revient pas à démontrer qu'elle était mensongère. La crédibilité revendiquée et l'authenticité archéologiquement contrôlable demeurent deux objets d'étude.
+
+### 590.6. Philologie : image, modèle et empreinte
+
+Le terme akkadien *ṣalmu* appartient au vocabulaire de l'image. Son emploi ne suffit pas, hors contexte, à déterminer un matériau, une dimension ou une fonction rituelle unique. Dans son commentaire du dossier, King distingue en outre le modèle de la statue et les empreintes du relief ; il avertit que la forme exacte du modèle ne doit pas être automatiquement conçue comme un moulage de bas-relief. [P1, p. 120 et note 4]
+
+Cette difficulté illustre un problème de traduction : « modèle » peut désigner un objet qui ressemble au résultat attendu, une source graphique ou une norme de fabrication. Les rendre par un seul mot français ne prouve pas leur identité matérielle. Pour avancer, il faut examiner la syntaxe, les qualificatifs et les autres emplois du terme, puis confronter ces données aux objets conservés.
+
+Le présent chapitre utilise une édition ancienne pour le repérage des colonnes et signale la réévaluation moderne de Christopher Woods. Il ne présente pas les lectures de 1912 comme l'état définitif de l'assyriologie. Une nouvelle traduction ligne à ligne demanderait la collation des signes et une discussion des propositions ultérieures ; elle n'est pas simulée ici. [R2]
+
+### 590.7. Le relief organise une relation, non une photographie
+
+La composition montre Šamaš assis dans un espace figuré comme un sanctuaire, un disque placé devant lui et un groupe conduit vers le dieu, comprenant le roi et un officiant. Des emblèmes célestes complètent la scène. [R1]
+
+Une telle image ne doit pas être traitée comme une vue prise à un instant précis dans le temple. Les rapports d'échelle, les placements et les emblèmes peuvent organiser des différences de statut et des relations d'accès. Le relief rend une relation intelligible ; il ne permet pas à lui seul de mesurer la hauteur de la statue restaurée ou le volume de la salle où elle se trouvait.
+
+La présence simultanée du dieu et de son emblème rappelle aussi qu'une même composition peut associer plusieurs modes de figuration. Il serait donc fragile de chercher un code binaire dans lequel toute image soit soit le dieu lui-même, soit un signe sans présence. Ce sont les usages, les discours et l'organisation particulière du support qui permettent de formuler la question.
+
+### 590.8. Rétablir une image, garantir des prestations
+
+La fin du texte règle notamment l'entretien des officiants, des prestations et des vêtements de fête ; elle comporte des témoins, une date et des clauses de protection. King les distingue du récit de la découverte. [P1, IV, 35–VI et clauses finales]
+
+L'ensemble permet une lecture institutionnelle : la mémoire de la réparation soutient des obligations durables. L'objet ne commémore pas seulement une scène exceptionnelle ; il contribue à fixer qui doit recevoir ou fournir certaines prestations. Il ne faut pas choisir artificiellement entre récit religieux et acte concernant des ressources. Le support peut articuler les deux.
+
+Cette articulation ne démontre pas que l'histoire aurait été fabriquée uniquement pour servir un bénéficiaire. Elle invite plutôt à rechercher ce qu'elle autorise concrètement. Une étude complète doit identifier les destinataires des droits, les agents chargés de les maintenir et les garanties invoquées contre leur modification. Le récit d'une image retrouvée devient alors aussi un dossier sur la reproduction matérielle du culte.
+
+### 590.9. Phigalie : une autre sorte de document
+
+Pausanias VIII, 42 décrit une tradition attachée à une grotte de Déméter noire : une ancienne image de bois avait brûlé, des honneurs avaient été négligés et une famine avait conduit à consulter la Pythie. Une nouvelle image fut commandée au sculpteur Onatas. [P2, 42, 1–7]
+
+Le statut de cette source diffère de celui de Sippar. Pausanias écrit à l'époque impériale sur des épisodes qu'il ne peut tous avoir observés. Son récit associe des traditions sur l'origine du lieu, des informations relatives à un artisan, des inscriptions utilisées pour la chronologie et ce qu'il rapporte de sa propre visite.
+
+Cette pluralité impose une lecture différenciée. Une précision topographique ne rend pas automatiquement contemporain de l'événement tout ce qui est raconté à propos du lieu. Inversement, le caractère traditionnel d'un épisode ne rend pas sans valeur l'ensemble des observations du voyageur. Il faut suivre les changements de voix et les modalités du témoignage plutôt que conférer une crédibilité uniforme au chapitre entier.
+
+### 590.10. Refaire d'après un modèle, refaire d'après un rêve
+
+Pour l'image d'Onatas, Pausanias évoque un recours partiel à une peinture ou copie de l'ancienne figure, et surtout, selon le récit transmis, une vision onirique. [P2, VIII, 42, 7] Il ne décrit donc pas simplement un artisan travaillant devant une statue ancienne intacte.
+
+La copie et le rêve remplissent ici deux fonctions d'autorisation possibles. La première rattache le résultat à une représentation antérieure ; la seconde permet de rapporter le travail à une manifestation qui dépasse le choix ordinaire de l'artisan. Elles peuvent être associées dans le récit sans être équivalentes comme preuves pour l'historien.
+
+La comparaison avec Sippar porte sur cette médiation : un nouvel objet est relié à une référence dont l'artisan ne serait pas l'inventeur souverain. Elle ne prouve ni emprunt direct ni identité des pratiques. Le modèle matériel trouvé et la vision racontée n'ont pas la même vérifiabilité. Les réunir sous l'étiquette vague d'« inspiration » ferait perdre cette différence essentielle.
+
+### 590.11. La seconde disparition : continuer sans la statue d'Onatas
+
+Pausanias indique que la statue d'Onatas n'existait plus lors de sa visite. Un habitant âgé expliquait sa destruction par une chute de pierres ; l'auteur affirme avoir constaté des traces correspondantes dans la voûte. Il décrit néanmoins des offrandes et des officiants au sanctuaire. [P2, VIII, 42, 11–13]
+
+Le contraste est décisif : la disparition d'une image ne suffit pas à démontrer celle de toute relation cultuelle. La pratique peut se recomposer autour d'autres éléments du lieu. Cette proposition reste locale ; elle ne devient pas une règle selon laquelle toutes les statues seraient remplaçables ou indifférentes.
+
+Il faut également conserver les limites de l'enquête de Pausanias. Une trace dans le rocher peut être compatible avec une chute sans prouver à elle seule tous les détails de la tradition. Son observation et le récit de son interlocuteur se soutiennent partiellement ; ils ne se confondent pas. Ce petit dossier constitue ainsi une leçon sur la manière dont vestige, témoignage oral et interprétation se combinent.
+
+### 590.12. La mémoire peut subsister sans une connaissance uniforme
+
+Le récit de visite invite à ne pas identifier une communauté à une seule mémoire parfaitement partagée. Des personnes peuvent continuer d'accomplir des gestes tout en donnant des informations inégales sur l'histoire des objets. Cette proposition est notre lecture du dossier, non une statistique de la population de Phigalie.
+
+Une telle distinction évite deux erreurs. La persistance d'une pratique ne démontre pas que chaque participant connaisse son récit d'origine. Le défaut d'information d'un interlocuteur ne démontre pas que la pratique soit dépourvue de signification pour tous les autres. L'histoire du sacré doit examiner les compétences, les intérêts et les positions des personnes qui transmettent la mémoire.
+
+La restauration s'inscrit précisément dans cette pluralité. Un artisan, un officiant, un donateur et un visiteur peuvent juger différemment ce qu'il faut préserver. La décision de remplacer un objet ne résulte donc pas nécessairement d'un consensus immédiat sur la définition de son identité. Là encore, il s'agit d'une question à poser aux sources, et non d'un conflit que nous inventerions dans le dossier.
+
+### 590.13. Présenter, représenter, rendre présent
+
+Les recherches d'Hélène Collard sur les vases attiques étudient les moyens de donner à voir la présence divine dans la représentation du rite. Le concept de « présentification » permet de ne pas réduire l'image à une copie descriptive d'un corps supposé visible ailleurs. Le corpus de ce livre reste celui de l'imagerie attique : il ne faut pas lui attribuer une démonstration particulière sur Sippar qu'il ne propose pas. [R3]
+
+Appliquée comme question, cette approche invite à demander ce qu'un objet permet de faire : orienter un geste, identifier un destinataire, organiser un accès ou rendre un récit perceptible. Ces possibilités ne prouvent pas que tous les objets accomplissent toutes ces fonctions. Elles élargissent l'enquête au-delà de la seule ressemblance.
+
+L'absence d'une image peut alors affecter plusieurs relations sans supprimer nécessairement le destinataire divin. Inversement, produire une figure ressemblante ne garantit pas que les acteurs lui reconnaissent la même autorité. La fabrication de l'objet et l'institution de sa place doivent être distinguées. C'est dans leur articulation, plutôt que dans une opposition générale entre matière et croyance, que se situe notre problème.
+
+### 590.14. Nietzsche : ne pas déduire l'origine de l'usage actuel
+
+Dans la deuxième dissertation de la *Généalogie de la morale*, § 12, Nietzsche distingue la production initiale d'une chose et les fonctions qui lui sont ensuite assignées. Il insiste sur les réinterprétations et les rapports de force susceptibles de modifier le sens d'un usage. [P3]
+
+La transposition aux restaurations est proposée ici ; elle ne fait pas de Nietzsche un témoin de Sippar ou de Phigalie. Elle aide à éviter une erreur logique : comprendre l'usage d'une image restaurée ne suffit pas à connaître celui de son prédécesseur. Une forme conservée peut être réinvestie ; un nouvel objet peut prétendre servir une obligation ancienne.
+
+Il faut aussi limiter la transposition. Une modification de fonction ne prouve pas toujours une usurpation violente, et la continuité ne doit pas être exclue par principe. Le philosophe fournit un avertissement contre les histoires qui prennent le résultat pour la cause. L'archéologue et l'historien doivent ensuite établir les transformations réellement attestées, leurs agents et leurs résistances éventuelles.
+
+### 590.15. Authenticité : distinguer les critères plutôt que distribuer les verdicts
+
+Le mot « authentique » peut désigner l'ancienneté de la matière, la fidélité d'une forme, la conformité d'une procédure ou la reconnaissance d'un usage. Un objet récent peut être tenu pour rituellement autorisé sans être matériellement ancien. Un vestige ancien peut ne plus être utilisé comme image cultuelle. Ces distinctions sont logiques ; leur application doit être documentée pour chaque société.
+
+Le récit d'un modèle retrouvé rapproche l'authenticité de la fabrication et celle de la provenance. Il affirme qu'une forme ne vient pas seulement du présent. Pourtant, l'historien doit encore examiner comment cette provenance est connue. La revendication d'ancienneté est elle-même un fait historique ; elle n'est pas automatiquement la preuve de l'ancienneté revendiquée.
+
+Cette méthode évite d'opposer une antiquité « naïve » à un présent supposé seul capable de distinguer original et copie. Les documents antiques peuvent eux-mêmes s'intéresser à la transmission d'un modèle, à la compétence d'un artisan et à la validation d'un remplacement. Les questions existent ; les critères mobilisés ne sont pas nécessairement ceux de l'expertise muséale contemporaine.
+
+### 590.16. Protocole archéologique et limites de la reconstitution
+
+Le travail commence par un inventaire des supports et de leurs relations : objet, empreinte, représentation, texte descriptif et récit de découverte. Il se poursuit par la datation indépendante de chaque élément. Enfin, il examine les liens démontrables entre eux. Deux objets de forme proche ne constituent pas sans autre preuve une série original-copie.
+
+La tablette de Sippar invite notamment à ne pas confondre les copies effectivement découvertes avec le modèle évoqué dans son inscription. Phigalie rappelle qu'une description détaillée peut concerner un objet disparu avant la visite du narrateur. Dans les deux cas, une reconstitution doit indiquer sur quelles données elle repose.
+
+Une représentation de la Déméter noire d'après Pausanias serait donc une visualisation de son témoignage, non une restitution archéologiquement vérifiée de la sculpture d'Onatas. Une vue du temple de Sippar déduite du seul relief serait également hypothétique. Le degré de détail d'une image moderne ne doit jamais être présenté comme un degré supplémentaire de certitude.
+
+### 590.17. Résultats et ouverture
+
+**Attesté :** un monument inscrit de Sippar articule mémoire d'une image perdue, fabrication et garanties de prestations ; le récit de Pausanias distingue plusieurs images de Déméter et une activité cultuelle qui se poursuit après leur disparition ; les supports conservés ne correspondent pas tous aux objets racontés. [P1–P2 ; R1]
+
+**Discuté ou incomplet :** statut matériel exact du modèle mentionné à Sippar, vérification indépendante des épisodes les plus anciens, chronologie et forme des sculptures perdues de Phigalie, réception sociale des récits de restauration.
+
+**Hypothèse comparative :** remplacer une image demande moins une identité absolue de matière qu'une démonstration de continuité pertinente pour les acteurs. Cette démonstration peut combiner modèle, lieu, artisan, autorisation et prestations. Elle ne constitue ni une règle universelle du polythéisme ni la preuve d'une filiation entre les deux dossiers.
+
+Le chapitre suivant déplacera la question de l'objet vers le lieu : lorsque plusieurs sanctuaires revendiquent une tradition ancienne, quels récits et quelles preuves permettent à chacun de se présenter comme le lieu légitime ?
+
+### Documents et bibliographie vérifiée
+
+- **[P1] Tablette du Dieu-Soleil de Sippar, BM 91000**, inscription de Nabû-apla-iddina. Leonard W. King, *Babylonian Boundary-Stones and Memorial-Tablets in the British Museum*, Londres, 1912, no XXXVI, p. 120–127 et planches XCVIII–CII, incluant les objets associés. [Édition numérisée consultée](https://fada.birzeit.edu/bitstream/20.500.11889/4938/1/babylonianbounda00brituoft.pdf). Les pages de l'édition et leur mise en colonnes ont été contrôlées visuellement ; les hypothèses de l'éditeur, notamment sur la forme du modèle, ne sont pas converties en faits certains.
+- **[P2] Pausanias**, *Description de la Grèce*, VIII, 42, 1–13, particulièrement 5–7 et 11–13. [Traduction W. H. S. Jones, Loeb Classical Library, reproduite dans Theoi](https://www.theoi.com/Text/Pausanias8C.html). Les épisodes rapportés, l'interlocuteur local et l'observation revendiquée par l'auteur sont distingués. Le chapitre ne fournit pas une nouvelle collation du grec.
+- **[P3] Friedrich Nietzsche**, *La Généalogie de la morale*, deuxième dissertation, § 12, 1887 ; [traduction Henri Albert, Mercure de France, édition de 1900](https://fr.wikisource.org/wiki/La_G%C3%A9n%C3%A9alogie_de_la_morale/Deuxi%C3%A8me_dissertation). Usage philosophique explicite, distinct de la documentation antique.
+- **[R1] Université Johannes-Gutenberg de Mayence, Altorientalische Philologie**, « Sun-God Tablet », [notice universitaire du dossier](https://www.ao.altertumswissenschaften.uni-mainz.de/bringing-the-past-to-light/sun-god-tablet/). Utilisée pour la présentation de l'assemblage, l'iconographie et la solution du disque solaire. La notice renvoie à la collection du British Museum et aux études assyriologiques.
+- **[R2] Christopher E. Woods**, « The Sun-God Tablet of Nabû-apla-iddina Revisited », *Journal of Cuneiform Studies* 56, 2004, p. 23–103, [DOI 10.2307/3515920](https://doi.org/10.2307/3515920). Référence de réévaluation scientifique dont les métadonnées ont été vérifiées ; aucune lecture intégrale ni nouvelle traduction fondée sur ses seules propositions n'est revendiquée.
+- **[R3] Hélène Collard**, *Montrer l'invisible. Rituel et présentification du divin dans l'imagerie attique*, Liège, Presses universitaires de Liège, *Kernos*, supplément 30, 2016. [Présentation scientifique par ANHIMA](https://www.anhima.fr/publications/montrer-l-invisible-helene-collard). Le programme et le corpus de l'ouvrage sont distingués de l'application comparative proposée ici.
+- **Karl Hecker**, « Der wiedergefundene Sonnengott », *Texte aus der Umwelt des Alten Testaments*, nouvelle série 6, 2011, p. 36–40 : référence d'approfondissement signalée par la notice universitaire de Mayence ; elle n'est pas présentée comme intégralement consultée.
+
+**Continuité :** [chapitre 589 — Réveiller un sanctuaire](/chapitres/origines-du-sacre/589-restaurer-oracles-didymes-recommencements/). **Sujet suivant : chapitre 591 — Reconnaître le vrai sanctuaire : concurrence des lieux, preuves d'ancienneté et authenticité des traditions.** Le numéro devra être contrôlé dans le dépôt avant la prochaine création.
