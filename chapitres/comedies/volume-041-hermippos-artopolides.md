@@ -7,7 +7,7 @@ description: "Étude universitaire des Marchandes de pain d'Hermippos : Hyperbol
 
 ## Hermippos, *Artopōlides* (Ἀρτοπώλιδες) — Les Marchandes de pain : métiers, invective et pouvoir dans l'Athènes classique
 
-**Navigation :** [Volume XL — Cratinos, *Les Satyres*](volume-040-cratinos-satyroi.md) · [Volume XIV — Eupolis, *Marikas*](volume-014-eupolis-marikas.md) · [Théâtre grec](/theatre/) · [Philosophie](/philosophie/).
+**Navigation :** [Volume XL — Cratinos, *Les Satyres*](/chapitres/comedies/volume-040-cratinos-satyroi/) · [Volume XIV — Eupolis, *Marikas*](/chapitres/comedies/volume-014-eupolis-marikas/) · [Théâtre grec](/theatre/) · [Philosophie](/philosophie/).
 
 > **Statut scientifique.** Comédie perdue ; l'intrigue intégrale, les noms des locuteurs et la composition exacte du chœur ne sont pas conservés. **[A]** désigne des textes et témoignages effectivement attestés ; **[B]** des hypothèses et interprétations modernes ; **[C]** des scènes dramatiques originales. Les textes grecs complets non collationnés ne sont pas inventés. Le cycle de numérotation reste propre aux comédies grecques MYTHOS.
 
