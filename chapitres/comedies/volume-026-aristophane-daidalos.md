@@ -9,7 +9,7 @@ description: "Étude critique de Dédale, comédie perdue d'Aristophane : techni
 
 **Statut :** monographie critique sur une comédie perdue. **[A]** = donnée textuelle ou témoignage antique attesté, dont la portée est spécifiée ; **[B]** = hypothèse ou interprétation moderne ; **[C]** = scène littéraire nouvelle, sans prétention de restitution. Cette convention s'applique à chaque section. Les traditions mythographiques sur Dédale ne sont **pas** des fragments de la pièce d'Aristophane.
 
-**Navigation :** [Volume XXV — *Polyidos*](volume-025-aristophane-polyidos.md). Le volume suivant ne sera lié qu'après création effective.
+**Navigation :** [Volume XXV — *Polyidos*](volume-025-aristophane-polyidos.md). [Volume XXVII — *Kôkalos*](volume-027-aristophane-kokalos.md).
 
 ### I. [A] Le dossier : un titre, non une pièce conservée
 
