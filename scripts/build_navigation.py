@@ -962,6 +962,9 @@ def add_visual_rails(path):
 def apply_navigation():
     changed=0
     for path in OUT.rglob("index.html"):
+        # La redirection historique /catalogue/ ne porte pas de menu éditorial.
+        if path.relative_to(OUT).as_posix() == "catalogue/index.html":
+            continue
         raw=path.read_text(encoding="utf-8")
         result,n=re.subn(r'<nav(?:\s[^>]*)?>[\s\S]*?</nav>',NAV,raw,count=1,flags=re.IGNORECASE)
         if n!=1:
