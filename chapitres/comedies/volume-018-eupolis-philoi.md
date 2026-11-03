@@ -283,3 +283,6 @@ La lecture la plus rigoureuse refuse deux excès : considérer les fragments com
 **Précédent :** [Volume XVII — Eupolis, *Noumêniai*](/chapitres/comedies/volume-017-eupolis-noumeniai/) · **Présent :** Volume XVIII — Eupolis, *Philoi* · **Comparaisons :** [Volume XVI — *Kolakes*](/chapitres/comedies/volume-016-eupolis-kolakes/) · [Volume XIV — *Marikas*](/chapitres/comedies/volume-014-eupolis-marikas/) · [Portail Théâtre grec](/theatre/) · [Index intégral](/rubriques/) · [Recherche](/recherche/).
 
 *MYTHOS — texte public original ; aucun fragment grec inventé ; scènes [C] intégralement contemporaines. Le prochain volume sera le XIX uniquement après vérification du dépôt et de la publication de ce volume XVIII.*
+
+
+**Suite de la série :** [Volume XIX — Eupolis, *Taxiarchoi*](/chapitres/comedies/volume-019-eupolis-taxiarchoi/).
