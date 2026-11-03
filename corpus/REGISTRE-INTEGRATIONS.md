@@ -151,3 +151,12 @@ Cette livraison appartient à la **série de suivi** des *Origines du sacré*. L
 **Navigation et graphisme :** deux nouvelles cartes illustrées responsives dans `origines-du-sacre.html` ; liens dans `sommaire-general.html`, `corpus/sommaire-general.md` et `index.html` ; retour XXVII → XXVI et enchaînement XXV → XXVI → XXVII. Lecteur noir et or partagé, bandeau `assets/mythos-hero.svg` (statue à gauche, temple à droite), cibles de navigation plus visibles et focus clavier renforcé dans `assets/mythos-volume-lecture.css`. Les illustrations des cartes sont **décoratives**, non des reconstitutions historiques.
 
 **Limites :** l'intégrité documentaire est contrôlée dans le dépôt, mais cela ne vaut ni audit philologique exhaustif ni garantie d'affichage sur le domaine public. Le tome XXIV ODS-CONV n'est pas déclaré intégré. Aucun changement aux autres archives ni aux automatisations MYTHOS.
+
+
+## 3 novembre 2026 — ODS-H-487 transféré vers le dépôt actif
+
+**Détection et correction du dépôt cible :** `Bobcribb/Mythos` est une archive historique ; la publication du domaine `bobmythos.fr` utilise `Bobcribb/Bobcribb.github.io` (branche `main`). Les commits réalisés uniquement dans l'archive ne valent pas publication.
+
+**Intégration documentaire :** `corpus/origines-du-sacre/chapitre-487-iran-inde-mithra-rta-satya.md` est la copie intégrale du manuscrit historique `chapitres/origines-du-sacre/487-iran-inde-mithra-rta-satya.md` (blob Git `70d6aef3fcdecb993f6c2d3bbd7d52969821d9a3`, 4 391 caractères). Lecteur associé `corpus/origines-du-sacre/chapitre-487-iran-inde-mithra-rta-satya.html`, six sections 487.1–487.6, appareil de sources et bibliographie, thème sombre et or, navigation vers source et sommaires. Liens ajoutés à `origines-du-sacre.html`, `sommaire-general.html`, `corpus/sommaire-general.md` sur le **dépôt actif**, sans suppression d'archives ni renumérotation ODS-CONV/ODS-LIB.
+
+**Statut :** fichiers et entrées de sommaire enregistrés dans GitHub. Une réussite du build GitHub Pages et un contrôle HTTP du domaine public sont nécessaires pour déclarer la page effectivement publiée. Les références scientifiques n'ont pas fait l'objet d'une collation indépendante.
