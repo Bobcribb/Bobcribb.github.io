@@ -7,7 +7,7 @@ description: "Étude critique des Satyres de Cratinos : Dionysos, corps, chœur,
 
 ## Cratinos, *Satyroi* (Σάτυροι) — Les Satyres : masque, désir et ordre civique
 
-**Navigation :** [Volume XXXIX — *La Bouteille*](volume-039-cratinos-pytine.md) · [Théâtre grec](/theatre/) · [Philosophie](/philosophie/).
+**Navigation :** [Volume XXXIX — *La Bouteille*](/chapitres/comedies/volume-039-cratinos-pytine/) · [Théâtre grec](/theatre/) · [Philosophie](/philosophie/).
 
 **Protocole scientifique :** [A] attestations et sources antiques distinguées ; [B] interprétations et hypothèses ; [C] scènes originales. Les volumes antérieurs de Cratinos, notamment le volume IX sur *Cheirones*, sont conservés sans doublon.
 
@@ -203,4 +203,4 @@ Avant de publier une citation grecque de *Satyroi*, relever le numéro de fragme
 
 ---
 
-**Suite éditoriale :** volume XLI après contrôle du dépôt et de l'indexation.
+**Suite éditoriale :** [Volume XLI — Hermippos, *Les Marchandes de pain*](/chapitres/comedies/volume-041-hermippos-artopolides/), consacré aux fragments 7–12 K–A et à la satire d'Hyperbolos.
