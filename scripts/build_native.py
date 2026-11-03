@@ -122,6 +122,29 @@ def frontmatter(raw):
             raw=rest
     return meta,raw
 
+def resolve_chapter_links(html_body, source, chapters):
+    """Raccorder les liens relatifs .md aux lecteurs HTML publiés."""
+    soup = BeautifulSoup(html_body, "html.parser")
+    root = chapters.resolve()
+    for anchor in soup.find_all("a", href=True):
+        href = anchor["href"]
+        if href == "/catalogue/":
+            anchor["href"] = "/rubriques/"
+            continue
+        plain, sep, fragment = href.partition("#")
+        if not plain.endswith(".md") or plain.startswith(("/", "http:", "https:", "//")):
+            continue
+        target = (source.parent / plain).resolve()
+        if not target.is_relative_to(root) or not target.is_file():
+            continue
+        rel = target.relative_to(root)
+        if rel.name.lower() == "readme.md":
+            anchor["href"] = ("https://github.com/Bobcribb/Bobcribb.github.io/blob/main/chapitres/"
+                              + rel.as_posix() + ("#" + fragment if sep else ""))
+        else:
+            anchor["href"] = "/chapitres/" + rel.with_suffix("").as_posix() + "/" + ("#" + fragment if sep else "")
+    return str(soup)
+
 def publish_chapters():
     chapters=Path("chapitres")
     published=[]
@@ -149,7 +172,7 @@ def publish_chapters():
         # Les pages HTML générées lors du précédent déploiement sont
         # conservées dans main : les reconstruire depuis leur Markdown,
         # sans les traiter comme des doublons éditoriaux.
-        write(url.lstrip("/")+"index.html",render(title,markdown(body),desc))
+        write(url.lstrip("/")+"index.html",render(title,resolve_chapter_links(markdown(body),source,chapters),desc))
         published.append({"title":text(title),"url":url,"excerpt":text(desc)[:190]})
     return published
 
@@ -276,6 +299,8 @@ def main():
     navigation.build_portals()
     n_indexed=reindex(chapters)
     navigation.finalize_navigation(n_indexed)
+    # Ancienne adresse de catalogue encore utilisée par des archives conservées.
+    write("catalogue/index.html", '<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta http-equiv="refresh" content="0;url=/rubriques/"><link rel="canonical" href="https://bobmythos.fr/rubriques/"><title>Catalogue MYTHOS</title></head><body><p><a href="/rubriques/">Accéder au catalogue MYTHOS</a></p></body></html>')
     n_illustrated = decorate_editorial_pages()
     verify_sources(protected_sources)
     print(f"Galeries latérales ajoutées sur {n_illustrated} pages.")
