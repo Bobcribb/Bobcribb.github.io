@@ -31,16 +31,26 @@ def validate():
     # Vérifier l'inclusion de chaque manuscrit, pas seulement un seuil global.
     indexed = {doc['url'] for doc in docs}
     sitemap = {node.text for node in ET.parse('_site/sitemap.xml').findall('.//{*}loc')}
+    from editorial_numbering import scan, redirects
+    scan(Path.cwd())
+    aliases = redirects(Path.cwd())
+    assert not (set(aliases) & indexed), "Adresses historiques dans la recherche"
+    for old, target in aliases.items():
+        assert target in indexed, f"Cible canonique non indexée : {target}"
+        assert 'https://bobmythos.fr' + old not in sitemap, f"Ancienne adresse dans le sitemap : {old}"
     chapters = 0
     for source in Path('chapitres').rglob('*.md'):
         if source.name.lower() == 'readme.md':
             continue
         url = '/' + source.with_suffix('').as_posix() + '/'
         assert (Path('_site') / url.lstrip('/') / 'index.html').is_file(), f'Chapitre non généré : {source}'
+        if url in aliases:
+            chapters += 1
+            continue
         assert url in indexed, f'Chapitre absent de la recherche : {source}'
         assert 'https://bobmythos.fr' + url in sitemap, f'Chapitre absent du sitemap : {source}'
         chapters += 1
-    print(f'OK : {chapters} manuscrits conservés dans les pages, la recherche et le sitemap')
+    print(f'OK : {chapters} manuscrits conservés ; références canoniques dans la recherche et le sitemap')
 
 
 if __name__ == '__main__':

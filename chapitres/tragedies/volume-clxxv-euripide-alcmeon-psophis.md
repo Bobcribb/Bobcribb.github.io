@@ -184,4 +184,4 @@ Des images de l'histoire d'Ériphyle, d'Amphiaraos et des Épigones peuvent écl
 
 ## Classement
 
-Théâtre grec > Tragédies perdues > Euripide > *Alcméon à Psophis*. Renvois : CLXXIV *Les Crétoises* ; CLXVII *Alcméon à Corinthe* ; Amphiaraos ; Ériphyle ; Phégée ; Psophis ; Achéloos ; matricide ; purification ; Épigones. Ne pas modifier les volumes précédents ni publier de brouillons privés.
+Théâtre grec > Tragédies perdues > Euripide > *Alcméon à Psophis*. Renvois : CLXXIV *Les Crétoises* ; CXCVIII *Alcméon à Corinthe* ; Amphiaraos ; Ériphyle ; Phégée ; Psophis ; Achéloos ; matricide ; purification ; Épigones. Ne pas modifier les volumes précédents ni publier de brouillons privés.

@@ -3,7 +3,7 @@
 # Euripide, *Hypsipyle* (Ὑψιπύλη)
 ## Captivité, maternité, mort d'Ophéltès et naissance mythique des Jeux néméens
 
-**Genre :** tragédie fragmentaire. **Datation :** vers 411–407 av. J.-C. **Source principale :** P. Oxy. VI 852. **Méthode :** distinguer texte attesté, raccords papyrologiques, reconstitution et interprétation. **Continuité :** après CLXVII *Érechthée* ; l'autre CLXVII *Alcméon à Corinthe* est conservé sans modification.
+**Genre :** tragédie fragmentaire. **Datation :** vers 411–407 av. J.-C. **Source principale :** P. Oxy. VI 852. **Méthode :** distinguer texte attesté, raccords papyrologiques, reconstitution et interprétation. **Continuité :** après CLXVII *Érechthée* ; l'autre CXCVIII *Alcméon à Corinthe* est conservé sans modification.
 
 ## 1. Statut documentaire
 

@@ -210,4 +210,4 @@ Euripide laisse ainsi une question ouverte : comment empêcher que la protection
 - Notice bibliographique de l'édition Kovacs : https://catalog.perseus.tufts.edu/catalog/urn:cts:greekLit:tlg0006.tlg004.perseus-eng1
 - Traduction annotée de Ian Johnston : https://www.viurrspace.ca/server/api/core/bitstreams/b67e9453-0930-4fa0-a79c-8631ab9c013f/content
 
-**Classement :** Théâtre grec > Tragédies > Euripide > *Les Héraclides*. **Renvois :** CLVIII *Les Suppliantes* ; Héraclès ; Iolaos ; supplication ; sacrifice humain dans le mythe ; philosophie politique. **Règle éditoriale :** ne pas confondre le présent volume CLIX avec un numéro propre à une autre série MYTHOS.
+**Classement :** Théâtre grec > Tragédies > Euripide > *Les Héraclides*. **Renvois :** CLXXXIX *Les Suppliantes* ; Héraclès ; Iolaos ; supplication ; sacrifice humain dans le mythe ; philosophie politique. **Règle éditoriale :** ne pas confondre le présent volume CLIX avec un numéro propre à une autre série MYTHOS.

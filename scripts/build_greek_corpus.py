@@ -111,13 +111,14 @@ def main(out, root):
                    ' <small>('+str(len(items))+')</small></h3><ol class="greek-corpus-links">'+
                    ''.join(link(u,t) for u,t in items)+'</ol></section>'
                    for label,key,items in dedup if items)
-    colliding=", ".join(str(k) for k,v in sorted(numbers.items()) if v>1) or "aucune"
+    if any(v > 1 for v in numbers.values()):
+        raise RuntimeError("Doublon dans le sommaire grec : " + str(dict(numbers)))
     html='''<section class="portal-section greek-corpus-full" id="greek-unified-corpus">
     <div class="greek-corpus-banner"><span class="greek-corpus-kicker">COLLECTION AUTONOME MG</span>
     <h2>Encyclopédie mythologique grecque : accès à tout le corpus disponible</h2>
     <p>Un sommaire unique vers les textes intégraux existants, les volumes historiques,
     les études universitaires, les dieux, les héros, les cycles, la philologie et les atlas.
-    Les manuscrits restent à leur emplacement d'origine, sans duplication ni résumé.</p></div>
+    Les études intégrales sont conservées ; les anciennes adresses suivent les références corrigées.</p></div>
     <p class="greek-corpus-status">''' + str(len(chapters)) + ''' chapitres universitaires numérotés ;
     '''+str(len(archives))+''' archives intégrales ; '''+str(len(gods))+''' notices de dieux ;
     '''+str(len(heroes))+''' notices de héros. Inventaire vérifié des fichiers disponibles,
@@ -128,8 +129,8 @@ def main(out, root):
     <h3>Chapitres dont le manuscrit complet reste à récupérer</h3>
     <p>Chiron et les chapitres 118–133 ainsi que la série historique 218–224
     figurent au registre de récupération ; ils ne sont pas déclarés publiés
-    sans contrôle de leurs textes complets. Les numéros historiques homonymes
-    ('''+escape(colliding)+''') restent distingués par leurs titres et leurs chemins.</p>
+    sans contrôle de leurs textes complets. La numérotation des études présentes est unique ;
+    les anciennes références sont conservées dans le registre de correspondance.</p>
     <p><a href="https://github.com/Bobcribb/Bobcribb.github.io/blob/main/corpus/mythologie-grecque/REGISTRE-RECUPERATION.md">Consulter le registre des manuscrits manquants</a></p>
     </section></section>'''
     intro=article.select_one("p.section-intro") or article.find("h1")

@@ -3,7 +3,7 @@
 
 **Cycle comparatif universitaire MYTHOS, 3 novembre 2026.**
 
-**Point de reprise vérifié :** CXXXIV, Bernard Lahire, est présent sur GitHub `Bobcribb/Bobcribb.github.io`, branche `main`, répertoire `chapitres/comparatif/`. Les volumes XCV Pierre Clastres et XCVI Marcel Mauss appartiennent au corpus antérieur ; aucun volume antérieur n'est supprimé ni renuméroté.
+**Point de reprise vérifié :** CXXXIV, Bernard Lahire, est présent sur GitHub `Bobcribb/Bobcribb.github.io`, branche `main`, répertoire `chapitres/comparatif/`. Les volumes CXLII Pierre Clastres et CXLIII Marcel Mauss appartiennent au corpus antérieur ; aucun volume antérieur n'est supprimé ni renuméroté.
 
 ### Résumé scientifique
 

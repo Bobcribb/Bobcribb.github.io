@@ -196,4 +196,4 @@ La méthode exige de tenir ensemble deux affirmations : Euripide a donné à la 
 
 ## Index et continuité
 
-**Théâtre grec > Tragédies perdues > Euripide > Mélanippe philosophe.** Volume CLXIV (164), suivant CLXIII *Mélanippe captive*. Les deux dossiers sont indépendants et ne doivent pas être fusionnés. Une éventuelle concordance avec les études anciennes du site devra préserver tous les contenus et les numérotations historiques.
+**Théâtre grec > Tragédies perdues > Euripide > Mélanippe philosophe.** Volume CLXIV (164), suivant CXCIV *Mélanippe captive*. Les deux dossiers sont indépendants et ne doivent pas être fusionnés. Une éventuelle concordance avec les études anciennes du site devra préserver tous les contenus et les numérotations historiques.

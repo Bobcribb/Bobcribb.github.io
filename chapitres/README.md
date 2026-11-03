@@ -26,3 +26,7 @@ La publication se lance automatiquement après chaque modification validée sur 
 Le workflow conserve également une exécution horaire pour vérifier le site, sans inventer automatiquement de nouveaux chapitres. La génération horaire de textes dans ChatGPT n'est pas, en soi, une publication sur GitHub. Pour un nouveau chapitre issu des travaux éditoriaux, demander explicitement : « Publie ce chapitre dans MYTHOS sur GitHub ».
 
 Les anciennes pages de WordPress restent figées dans le dépôt. Si WordPress devient privé ou inaccessible, cela n'a plus d'effet sur la publication du site public.
+
+## Numéros uniques et publications simultanées
+
+Avant de créer une étude, vérifier la branche `main` actuelle et lancer `python scripts/editorial_numbering.py`. Chaque collection a sa propre séquence ; ne pas déduire le prochain numéro d'une ancienne conversation ou d'une seule page. Consulter `EDITORIAL_NUMBERING.json` et `/collections-numerotees/`. Si `main` évolue avant l'écriture, revérifier le numéro sur le nouvel état. Le build et l'audit des pull requests refusent les collisions inconnues. Les anciennes adresses déclarées sont des redirections, pas de nouvelles études.

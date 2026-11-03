@@ -203,4 +203,4 @@ Williams fait apparaître une morale grecque plus complexe que l'opposition trad
 ## Niveaux de certitude
 **Attesté :** œuvres, dates et passages grecs identifiés. **Interprétation :** honte intériorisée, responsabilité et chance morale. **Hypothèse comparative :** rapprochements avec Nietzsche, Hegel, MacIntyre, Nussbaum, Vernant et Loraux. La comparaison ne prouve pas une influence.
 
-**Continuité :** CXIII MacIntyre ; CXIV Williams. Prochain thème proposé : CXV — Charles Taylor, sources du moi, reconnaissance et identité moderne.
+**Continuité :** CLIII MacIntyre ; CXIV Williams. Prochain thème proposé : CXV — Charles Taylor, sources du moi, reconnaissance et identité moderne.

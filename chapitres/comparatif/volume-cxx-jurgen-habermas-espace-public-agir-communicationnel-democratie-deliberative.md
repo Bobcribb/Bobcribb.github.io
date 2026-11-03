@@ -149,4 +149,4 @@ Habermas articule rationalité publique, droits et institutions. Son apport est 
 ## Certitude et continuité
 **Attesté :** éditions originales et passages antiques indiqués. **Interprétations :** agir communicationnel, colonisation du monde vécu, co-originarité des droits. **Hypothèses comparatives :** rapprochements avec Athènes, Nietzsche, Hegel, Vernant et Detienne. Les ressemblances ne prouvent pas une filiation.
 
-**Précédent :** CXIX Benhabib. **Suivant envisagé :** CXXI Hannah Arendt, action, pluralité et espace public.
+**Précédent :** CLVII Benhabib. **Suivant envisagé :** CXXI Hannah Arendt, action, pluralité et espace public.

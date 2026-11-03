@@ -465,7 +465,7 @@ Le gain théorique est considérable. On n'a plus à choisir entre une explicati
 
 ### 74 — Continuité de MYTHOS : les références croisées
 
-Le volume XCV, Pierre Clastres, interroge les formes de pouvoir et l'autonomie collective ; le volume XCVI, Marcel Mauss, les obligations du don ; le volume CXXXV, Victor Turner, la transition des statuts et la *communitas* ; le volume CXXXVI, Clifford Geertz, la description dense ; le volume CXXXVII, Mary Douglas, la classification et les frontières. Le présent CXXXVIII, Catherine Bell, examine comment des distinctions deviennent opérantes dans les gestes, les corps et les espaces.
+Le volume CXLII, Pierre Clastres, interroge les formes de pouvoir et l'autonomie collective ; le volume CXLIII, Marcel Mauss, les obligations du don ; le volume CXXXV, Victor Turner, la transition des statuts et la *communitas* ; le volume CXXXVI, Clifford Geertz, la description dense ; le volume CXXXVII, Mary Douglas, la classification et les frontières. Le présent CXXXVIII, Catherine Bell, examine comment des distinctions deviennent opérantes dans les gestes, les corps et les espaces.
 
 Ces renvois organisent une progression sans supprimer les différences théoriques. Les analyses de Mauss sur la médiation sacrificielle et celles de Bell sur la pratique ne sont pas interchangeables ; Douglas traite des classements ; Turner des transitions ; Geertz de la signification située. L'architecture comparative doit permettre au lecteur de suivre les controverses et de revenir aux textes plutôt que de fabriquer une doctrine MYTHOS unique attribuée à tous les auteurs.
 

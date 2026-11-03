@@ -233,4 +233,4 @@ La tragédie pose une limite radicale à la logique de la dette de sang : une ac
 - Loeb Classical Library : https://www.loebclassics.com/
 - Oxford Classical Texts : https://global.oup.com/academic/
 
-**Index :** Théâtre grec > Tragédies > Euripide > *Électre*. **Renvois :** CLXI *Hécube*, *Choéphores*, *Euménides*, *Électre* de Sophocle, Agamemnon, Clytemnestre, Oreste, Pylade, vengeance, matricide, reconnaissance. **Protection :** fichier autonome, sans écrasement des volumes précédents.
+**Index :** Théâtre grec > Tragédies > Euripide > *Électre*. **Renvois :** CXCII *Hécube*, *Choéphores*, *Euménides*, *Électre* de Sophocle, Agamemnon, Clytemnestre, Oreste, Pylade, vengeance, matricide, reconnaissance. **Protection :** fichier autonome, sans écrasement des volumes précédents.

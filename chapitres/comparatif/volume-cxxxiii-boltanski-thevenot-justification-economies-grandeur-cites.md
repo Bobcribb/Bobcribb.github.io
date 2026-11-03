@@ -3,7 +3,7 @@
 
 **Cycle comparatif universitaire MYTHOS — 3 novembre 2026**  
 **Statut : étude autonome publique ; inédit éditorial de la série**  
-**Continuité contrôlée avant création :** XCV Pierre Clastres et XCVI Marcel Mauss déjà présents ; dernier volume Markdown de la série au moment du contrôle : CXXXII, Pierre Bourdieu (habitus, champs, capitaux, domination symbolique). Les précédentes collisions de numérotation restent inchangées.  
+**Continuité contrôlée avant création :** CXLII Pierre Clastres et CXLIII Marcel Mauss déjà présents ; dernier volume Markdown de la série au moment du contrôle : CXXXII, Pierre Bourdieu (habitus, champs, capitaux, domination symbolique). Les précédentes collisions de numérotation restent inchangées.  
 **Disciplines :** sociologie pragmatique, philosophie politique, épistémologie, philologie grecque et latine, histoire comparée des justifications.
 
 ### Résumé

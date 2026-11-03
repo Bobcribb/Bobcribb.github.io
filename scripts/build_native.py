@@ -183,21 +183,24 @@ def reindex(chapters):
     if not index_path.exists():
         raise RuntimeError("L'index source MYTHOS est absent")
     existing=json.loads(index_path.read_text(encoding="utf-8"))
+    from editorial_numbering import redirects
+    historical_aliases = redirects(ROOT)
     by_url={}
     for entry in existing:
         path=entry.get("url","")
-        if path.startswith("/") and not path.startswith("//") and (OUT/path.lstrip("/")/"index.html").is_file():
+        if path not in historical_aliases and path.startswith("/") and not path.startswith("//") and (OUT/path.lstrip("/")/"index.html").is_file():
             by_url[path]={"title":str(entry.get("title","")).strip(),
                           "url":path,"excerpt":str(entry.get("excerpt",""))[:190]}
     for entry in chapters:
-        by_url[entry["url"]]=entry
+        if entry["url"] not in historical_aliases:
+            by_url[entry["url"]]=entry
     # Inclure également les pages HTML ajoutées directement dans GitHub.
     for p in OUT.rglob("index.html"):
         rel=p.relative_to(OUT).parent
         if not rel.parts or rel.parts[0] in ("rubriques","recherche"):
             continue
         url="/"+"/".join(rel.parts)+"/"
-        if url in by_url:
+        if url in by_url or url in historical_aliases:
             continue
         doc=BeautifulSoup(p.read_text(encoding="utf-8"),"html.parser")
         title=text(str(doc.h1 or doc.title or url))
@@ -210,7 +213,7 @@ def reindex(chapters):
         if p.name == "index.html":
             continue
         url = "/" + p.relative_to(OUT).as_posix()
-        if url in by_url:
+        if url in by_url or url in historical_aliases:
             continue
         doc = BeautifulSoup(p.read_text(encoding="utf-8"), "html.parser")
         title = text(str(doc.h1 or doc.title or url))
@@ -295,11 +298,17 @@ def decorate_editorial_pages():
     return updated
 
 def main():
+    from editorial_numbering import scan, finish
+    numbered_collections = scan(ROOT)
     if OUT.exists():
         shutil.rmtree(OUT)
     OUT.mkdir(parents=True)
     n_pages,n_media=copy_repository()
     chapters=publish_chapters()
+    numbered_titles = {e['url']: e['title'] for items in numbered_collections.values() for e in items}
+    for entry in chapters:
+        if entry['url'] in numbered_titles:
+            entry['title'] = numbered_titles[entry['url']]
     # Réconciliation explicite de deux collisions documentées, sans réécrire les sources.
     import build_navigation as navigation
     from origines_reconciliation import install, verify_sources
@@ -308,7 +317,6 @@ def main():
     # Construire les portails géographiques et thématiques avant la seconde indexation.
     navigation.build_portals()
     n_indexed=reindex(chapters)
-    navigation.finalize_navigation(n_indexed)
     # Sommaire unique MG : reconstruit à chaque publication depuis les manuscrits présents.
     from build_greek_corpus import main as build_greek_corpus
     greek_stats = build_greek_corpus(OUT, ROOT)
@@ -334,6 +342,10 @@ def main():
             atlas_page.write_text(str(atlas_doc), encoding="utf-8")
     # Ancienne adresse de catalogue encore utilisée par des archives conservées.
     write("catalogue/index.html", '<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta http-equiv="refresh" content="0;url=/rubriques/"><link rel="canonical" href="https://bobmythos.fr/rubriques/"><title>Catalogue MYTHOS</title></head><body><p><a href="/rubriques/">Accéder au catalogue MYTHOS</a></p></body></html>')
+    numbering = finish(OUT, ROOT, numbered_collections)
+    n_indexed = reindex(chapters)
+    navigation.finalize_navigation(n_indexed)
+    print("Numérotation vérifiée :", numbering["renumbered_studies"], "études réconciliées ;", numbering["corrected_links"], "liens harmonisés")
     n_illustrated = decorate_editorial_pages()
     from apply_museum_design import apply as apply_museum_design
     n_styled = apply_museum_design(OUT)

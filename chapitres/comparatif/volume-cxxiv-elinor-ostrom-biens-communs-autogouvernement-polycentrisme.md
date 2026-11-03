@@ -225,7 +225,7 @@ Dans de nombreuses activités de gestion, les réunions et les droits officiels 
 
 La proximité sociale ne suffit pas à assurer confiance et solidarité. Les habitants peuvent diverger par richesse, ancienneté, langue, propriété et capacité de sanction. Les élites locales peuvent contrôler l'information et la définition des règles. Il faut donc examiner la formation des groupes, les procédures d'adhésion et les mécanismes de recours pour les minoritaires. La gouvernance collective n'est pas automatiquement démocratique parce qu'elle est collective. Toute politique publique inspirée d'Ostrom qui supprimerait les protections légales au nom de l'autonomie locale trahirait l'exigence d'analyse institutionnelle contextualisée.
 
-## 40 — Retour à Pierre Clastres, volume XCV
+## 40 — Retour à Pierre Clastres, volume CXLII
 
 Clastres étudie des sociétés capables de prévenir la formation d'un pouvoir coercitif séparé. Ostrom examine la production de règles collectives dans des situations de gestion de ressources. Les deux perspectives contredisent l'idée que le monopole étatique soit la seule source possible d'ordre. Mais elles ne disent pas la même chose : chez Ostrom, des institutions locales peuvent coopérer avec des tribunaux et administrations ; chez Clastres, l'enjeu porte sur la transformation de l'autorité politique. Il ne faut pas réduire toute communauté d'usagers à une société contre l'État, ni lire l'ethnographie de Clastres comme preuve des principes de conception d'Ostrom.
 

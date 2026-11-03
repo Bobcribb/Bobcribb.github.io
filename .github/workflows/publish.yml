@@ -6,6 +6,9 @@ on:
     paths:
       - '.github/workflows/publish.yml'
       - 'scripts/build_native.py'
+      - 'scripts/editorial_numbering.py'
+      - 'EDITORIAL_NUMBERING.json'
+      - 'tests/test_editorial_numbering.py'
       - 'scripts/apply_museum_design.py'
       - 'scripts/verify_museum_design.py'
       - 'scripts/publish_site.py'
@@ -57,7 +60,7 @@ jobs:
       - name: Installer les dépendances
         run: python -m pip install -r requirements.txt
       - name: Tester la synchronisation face aux publications concurrentes
-        run: python -m unittest discover -s tests -p 'test_publish_site.py' -v
+        run: python -m unittest discover -s tests -v
       - name: Reconstruire, contrôler et synchroniser la dernière version de main
         id: synchronization
         run: python scripts/publish_site.py

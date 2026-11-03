@@ -2,7 +2,7 @@
 
 # Euripide, *Mélanippe la Sage* (Μελανίππη ἡ σοφή) — Savoir féminin, prodiges et défense des enfants
 
-**Édition :** dossier universitaire critique en français. **Statut :** tragédie perdue, transmise par fragments et témoignages indirects. **Continuité :** après CLXXII *Augé*. **Section :** Théâtre grec → Tragédies perdues → Euripide. **À distinguer :** volume CLXIII *Mélanippe captive*.
+**Édition :** dossier universitaire critique en français. **Statut :** tragédie perdue, transmise par fragments et témoignages indirects. **Continuité :** après CLXXII *Augé*. **Section :** Théâtre grec → Tragédies perdues → Euripide. **À distinguer :** volume CXCIV *Mélanippe captive*.
 
 **Thèse directrice :** l'héroïne transforme le savoir en défense des plus vulnérables. La parole rationnelle ne supprime pas la menace tragique : elle est la réponse fragile d'une femme dont le pouvoir d'agir est limité.
 

@@ -598,8 +598,8 @@ La portée critique de cette pensée tient à une double exigence : comprendre p
 
 ### Renvois internes de continuité
 
-- **XCV — Pierre Clastres** : pouvoir et autonomie ; une société peut posséder des frontières normatives sans État central.
-- **XCVI — Marcel Mauss** : don et réciprocité ; obligations d'échange et classifications ne se confondent pas.
+- **CXLII — Pierre Clastres** : pouvoir et autonomie ; une société peut posséder des frontières normatives sans État central.
+- **CXLIII — Marcel Mauss** : don et réciprocité ; obligations d'échange et classifications ne se confondent pas.
 - **CXXXIII — Boltanski et Thévenot** : justification publique des systèmes de valeur.
 - **CXXXV — Victor Turner** : rites de passage, liminalité et *communitas*.
 - **CXXXVI — Clifford Geertz** : description dense et interprétation située des symboles.

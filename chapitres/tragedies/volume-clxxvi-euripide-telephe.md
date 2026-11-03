@@ -283,7 +283,7 @@ La règle éditoriale pour MYTHOS demeure simple : **étudier intégralement ce 
 
 **Classement :** Théâtre grec → Tragédies perdues → Euripide → *Télèphe*.
 
-**Renvois internes :** CLXXII *Augé* (maternité et enfance) ; CLXXIV *Les Crétoises* ; CLXXV *Alcméon à Psophis* ; CLXVII *Alcméon à Corinthe* (autre tragédie) ; CXXXIII *Télèphe* d’Eschyle (œuvre et auteur différents) ; cycle troyen ; Achille ; Ulysse ; Mysie ; Oreste ; guérison ; rhétorique ; *Acharniens* ; *Thesmophories*.
+**Renvois internes :** CLXXII *Augé* (maternité et enfance) ; CLXXIV *Les Crétoises* ; CLXXV *Alcméon à Psophis* ; CXCVIII *Alcméon à Corinthe* (autre tragédie) ; CXXXIII *Télèphe* d’Eschyle (œuvre et auteur différents) ; cycle troyen ; Achille ; Ulysse ; Mysie ; Oreste ; guérison ; rhétorique ; *Acharniens* ; *Thesmophories*.
 
 **Notice historique complémentaire — à ne pas écraser :** `/tragedies/mythos-theatre-perdu-volume-iii-euripide-edition-vii/mythos-euripide-telephe-otage-oreste-lance-achille-guerison/`. Celle-ci comporte une création dramatique contemporaine clairement annoncée ; le présent volume est une étude critique séparée.
 

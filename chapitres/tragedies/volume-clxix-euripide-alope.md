@@ -2,7 +2,7 @@
 
 # Euripide, *Alopé* (Ἀλόπη) — Maternité clandestine, violence paternelle et mémoire d'Éleusis
 
-**Nature :** tragédie perdue ; dossier critique et comparatif. **Continuité :** après CLXVIII *Archélaos*. **Règle philologique :** distinguer fragments, mythographes et reconstitutions. Aucune scène ou citation grecque n'est inventée.
+**Nature :** tragédie perdue ; dossier critique et comparatif. **Continuité :** après CXCIX *Archélaos*. **Règle philologique :** distinguer fragments, mythographes et reconstitutions. Aucune scène ou citation grecque n'est inventée.
 
 ## 1. Statut de l'œuvre
 

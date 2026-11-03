@@ -1,5 +1,14 @@
 # MYTHOS — Continuité éditoriale, source de vérité et protection contre les pertes
 
+## Réconciliation de numérotation — 4 novembre 2026
+
+La correspondance courante est dans `EDITORIAL_NUMBERING.json` et le sommaire public `/collections-numerotees/`. Les anciennes mentions ci-dessous constituent un historique, pas une réservation de numéro. 36 études distinctes ont été renumérotées, sans suppression ou fusion des textes : chapitres 354–357 de la Grande Encyclopédie, volumes CLXXXVIII–CC (188–200) des tragédies et CXXXIX–CLVII (139–157) du cycle comparatif. Les premiers textes publiés gardent leur numéro. Toutes les anciennes URL sont redirigées.
+
+Avant toute nouvelle publication, relire le dernier `main`, consulter le catalogue courant et exécuter `python scripts/editorial_numbering.py`. À la date de cette correction, les prochains numéros libres sont 358 (encyclopédie), 201 (tragédies), 158 (comparatif), 58 (comédies), 599 (Origines du sacré, après intégration des ajouts concurrents 597–598). **Recalculer ces valeurs à chaque publication** ; un ancien message horaire ne réserve aucun numéro. Publier avec un contrôle du SHA parent pour éviter d'écraser un travail concurrent. Les planifications horaires ne sont pas modifiées.
+
+Voir `docs/numerotation-2026-11-04.md` pour la correspondance complète et les contrôles.
+
+
 Dernière consolidation : 2 novembre 2026.
 
 ## Architecture retenue
