@@ -24,7 +24,9 @@ expected=set(entry["url"] for entry in catalogue)
 if len(expected)!=len(catalogue): issues.append("Duplicate URLs in search catalogue")
 for entry in catalogue:
     url=entry["url"]
-    f=out / url.lstrip("/") / "index.html"
+    candidate=out / url.lstrip("/")
+    # Une URL peut viser un fichier .html autonome ou un dossier /index.html.
+    f=candidate if candidate.is_file() else candidate / "index.html"
     if not f.is_file(): issues.append("Indexed page missing: "+url)
 if len(catalogue)<500: issues.append("Fewer than 500 indexed dossiers")
 if manifest["count"]!=110 or len(manifest["files"])!=110: issues.append("Media manifest not 110")
