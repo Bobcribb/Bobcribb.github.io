@@ -390,7 +390,14 @@
         "chapitres/tragedies/volume-cxxxvii-eschyle-les-cardeuses-de-laine.md": 137,
         "chapitres/tragedies/volume-cxxxviii-eschyle-penthee.md": 138
       },
-      "allocations": {}
+      "allocations": {
+        "321fa35e-8ef0-407c-8f12-34632644411c": {
+          "number": 202,
+          "path": "chapitres/tragedies/volume-ccii-euripide-danae.md",
+          "request_sha256": "c9eb97e335f0767be6c85fc9f5c484b2466a45d7206decd72950579cb56e9731",
+          "initial_source_sha256": "a0ff8d147f91a1c716e7a6e1a05d4ff0c03b2204f133e1f43d53a412f727fa6e"
+        }
+      }
     },
     "comparatif": {
       "legacy": {
