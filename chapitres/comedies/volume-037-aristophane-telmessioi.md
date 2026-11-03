@@ -148,3 +148,6 @@ Les œuvres comiques perdues sont souvent connues par des citations de lexicogra
 ---
 
 **Suite éditoriale :** volume XXXVIII, après vérification du dépôt et des notices historiques.
+
+
+**Suite du cycle :** [Volume XXXVIII — *Dionysalexandros* de Cratinos](volume-038-cratinos-dionysalexandros.md).
