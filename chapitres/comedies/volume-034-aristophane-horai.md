@@ -169,3 +169,6 @@ Les calendriers rituels et agricoles de Mésopotamie et d'Égypte attestent eux 
 ---
 
 **Suite du cycle :** volume XXXV, après vérification du dépôt et du catalogue historique.
+
+
+**Suite du cycle :** [Volume XXXV — *Proagōn*](volume-035-aristophane-proagon.md).
