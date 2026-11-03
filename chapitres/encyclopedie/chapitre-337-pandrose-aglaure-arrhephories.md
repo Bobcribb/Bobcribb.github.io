@@ -1,0 +1,118 @@
+# MYTHOS — Grande Encyclopédie universitaire — Volume CXIX — Chapitre 337
+## Pandrose, Aglaure et les Arrhéphories : jeunes filles, rites de passage et topographie sacrée de l'Acropole
+
+**Collection :** Grèce antique → Mythologie grecque → Cycles attiques → Cultes de l'Acropole.  
+**Précédent :** chapitre 336, Les Cécropides et le coffre d'Érichthonios.  
+**Statut des propositions :** [S] témoignage antique ; [I] interprétation scientifique ; [H] hypothèse non démontrée.  
+**Objet :** approfondissement cultuel et institutionnel, sans répéter la narration du coffre du chapitre 336.
+
+### 1. Une question de méthode : du récit au rite
+La légende des filles de Cécrops et le rituel des Arrhéphories sont fréquemment rapprochés. Mais la proximité thématique du secret, du contenant et de jeunes filles chargées d'une mission ne constitue pas une identité démontrée. [S] Pausanias décrit un rite accompli par deux jeunes filles ; [S] les mythographes racontent le coffre confié aux Cécropides ; [I] les historiens comparent les deux ensembles ; [H] toute reconstitution d'un scénario initiatique originel unique reste conjecturale. La question n'est donc pas seulement « quel mythe explique la fête ? », mais comment les pratiques civiques et les récits produisent ensemble une mémoire de l'Acropole.
+
+### 2. Les Cécropides, une fratrie différenciée
+Aglaure (Ἄγλαυρος ou Ἄγραυλος selon les traditions), Hersé (Ἕρση) et Pandrose (Πάνδροσος) sont traditionnellement filles de Cécrops et d'Aglaure. Les noms évoquent parfois l'éclat et la rosée, mais la ressemblance lexicale ne livre pas une religion préhistorique reconstituable. [S] Pseudo-Apollodore, *Bibliothèque* III, 14, 2 et 6, distingue les trois sœurs et leur responsabilité dans le coffre. [I] Les différences de destin peuvent être lues comme des façons de distribuer des fonctions civiques et religieuses. Elles ne permettent pas d'assigner à chacune une « fonction indo-européenne » originelle.
+
+### 3. Pandrose : la figure de la fidélité
+Dans une version importante, Pandrose ne viole pas l'interdit d'Athéna. Son nom est attaché à un lieu de culte sur l'Acropole, le Pandroséion. [S] Pausanias I, 27, 2 mentionne le sanctuaire de Pandrose, contigu au temple d'Athéna. Le rapprochement de la sœur obéissante avec une présence cultuelle privilégiée est suggestif ; il ne faut pas inverser mécaniquement la causalité et prétendre que la version littéraire a nécessairement créé le sanctuaire, ou que le sanctuaire a créé le récit.
+
+### 4. Aglaure : la gardienne et la citoyenneté
+Aglaure possède une importance qui dépasse la désobéissance narrative. [S] Pausanias I, 18, 2 situe un sanctuaire d'Aglaure sur la pente de l'Acropole et associe son histoire au saut depuis le rocher. [S] Une inscription de la fin du IVe ou du début du IIIe siècle av. J.-C., découverte sur le versant oriental, a joué un rôle majeur dans les discussions modernes sur la localisation de l'Aglauréion : voir SEG 33, 115. Le sanctuaire s'inscrit dans la géographie de la cité ; il ne prouve pas la réalité historique de la mort d'Aglaure.
+
+### 5. Le serment éphébique : un lien à examiner avec précision
+Le serment des éphèbes athéniens engage les jeunes citoyens à défendre la patrie et ses sanctuaires. [S] La version épigraphique du serment, conservée sur une stèle d'Acharnes (IVe siècle av. J.-C., souvent publiée comme *RO* 88), invoque notamment Aglaure parmi les témoins divins et héroïques, aux côtés d'autres puissances locales. Il serait abusif de conclure qu'Aglaure présidait seule à l'ensemble de l'éphébie. [I] Sa présence dans le serment exprime néanmoins l'insertion d'une héroïne de la mémoire acropolitaine dans une formule d'engagement civique et militaire.
+
+### 6. Hersé : nom, filiation et circulation des traditions
+Hersé est associée au motif de la rosée par son nom et à des récits différents de ceux de Pandrose. [S] Ovide, *Métamorphoses* II, 708–832, développe l'amour de Mercure pour Hersé et la jalousie d'Aglauros ; il s'agit d'une recomposition latine, non d'une description des Arrhéphories athéniennes. [S] Pseudo-Apollodore III, 14, 3 donne à Hersé et Hermès un fils, Céphale, selon une généalogie qui ne doit pas être confondue sans avertissement avec d'autres Céphale du cycle attique. [I] L'instabilité généalogique invite à penser les mythes comme un réseau de récits, non comme un registre d'état civil.
+
+### 7. Les Arrhéphores : qui sont-elles ?
+[S] Pausanias I, 27, 3 décrit deux jeunes filles résidant près du sanctuaire d'Athéna Polias, accomplissant de nuit un transport d'objets scellés. Le grec ἀρρηφόροι / ἐρρηφόροι a suscité des discussions étymologiques et textuelles ; la relation à ἄρρητα, « choses qu'on ne dit pas », est séduisante mais ne règle pas toutes les difficultés. [S] Des inscriptions et des notices lexicographiques documentent plus largement des fonctions de jeunes filles dans le culte d'Athéna. Le nombre des candidates et les modalités de sélection ne doivent pas être déduits exclusivement de la scène de Pausanias.
+
+### 8. Le récit de Pausanias : ce qui est effectivement dit
+Pausanias, I, 27, 3, rapporte que les deux jeunes filles portent sur la tête, de nuit, des objets dont ni elles ni la prêtresse qui les remet ne connaissent le contenu. Elles empruntent une descente souterraine vers un espace situé dans la ville, déposent ce qu'elles transportent, reprennent autre chose et reviennent. Leur service s'achève ; deux autres les remplacent. [S] C'est le noyau documentaire. [H] Les objets étaient des serpents, des symboles de fertilité, des figurines sexuelles ou des reliques d'Érichthonios : aucune de ces identifications n'est assurée par le passage.
+
+### 9. L'invisibilité comme forme religieuse
+L'interdit n'est pas seulement une restriction de savoir. Il organise des positions : la prêtresse transmet sans connaître, les jeunes filles transportent sans voir, les autres citoyens demeurent extérieurs au geste. [I] Le rituel rend ainsi sensible une division des compétences religieuses. Mais le vocabulaire moderne de « secret initiatique » peut induire en erreur : Pausanias ne décrit pas une initiation complète avec révélation finale, et l'ignorance des officiantes est expressément soulignée.
+
+### 10. Les âges de la vie : initiation ou service civique ?
+Les Arrhéphores sont des filles avant le mariage ; le rite peut être replacé dans l'ensemble des charges confiées à des jeunes Athéniennes. [S] Aristophane, *Lysistrata* 641–647, fait énumérer par le chœur féminin plusieurs fonctions rituelles, dont celle d'arrhéphore, puis d'« ourse » à Brauron et de canéphore. Ce passage comique ne doit pas être transformé en curriculum universel suivi par toutes les citoyennes. [I] Il montre néanmoins que le service religieux féminin pouvait être mobilisé pour représenter l'appartenance à la cité. [H] L'existence d'un rite de passage complet, identique pour toutes, n'est pas établie.
+
+### 11. Tissage, péplos et travail féminin
+[S] Des témoignages associent des jeunes filles à la préparation de la laine ou au tissage du péplos destiné à Athéna ; les relations précises entre Arrhéphores, ergastines et autres officiantes sont discutées. [I] Le tissage constitue une activité à la fois domestique, religieuse et civique. Il serait toutefois inexact de réduire les Arrhéphories à une simple cérémonie textile, puisque Pausanias met au premier plan un transport nocturne d'objets cachés. Les activités rituelles doivent être distinguées avant d'être rapprochées.
+
+### 12. Athéna Polias et le paysage religieux
+L'Acropole n'est pas le sanctuaire d'une seule image monumentale. Le culte ancien d'Athéna Polias, les lieux associés à Érechthée, à Pandrose et aux serpents protecteurs forment un paysage stratifié. [S] Pausanias I, 26–27 est une source majeure, mais tardive, du IIe siècle de notre ère. Les bâtiments visibles aujourd'hui appartiennent à plusieurs phases, en particulier aux réaménagements classiques. [I] La topographie cultuelle conserve des mémoires multiples plutôt qu'un récit originel parfaitement cohérent.
+
+### 13. Le Pandroséion : monument et incertitudes
+Le Pandroséion est généralement situé à proximité immédiate de l'Érechthéion, dans l'espace du vieil olivier sacré. [S] Pausanias I, 27, 2 témoigne de sa présence cultuelle. Les restitutions architecturales de ses limites et de ses phases anciennes ne sont pas toutes unanimement acceptées. [I] La proximité d'Athéna et de Pandrose indique une association religieuse forte ; elle ne permet pas de reconstruire une liturgie complète ni d'attribuer à Pandrose un rôle sacerdotal précis non attesté.
+
+### 14. L'Aglauréion et la pente orientale
+La localisation de l'Aglauréion a été longtemps débattue. La découverte de l'inscription honorant une prêtresse d'Aglaure sur le versant oriental a considérablement renforcé la localisation dans ce secteur. [S] Le document atteste un personnel cultuel et une reconnaissance civique. [I] La présence du sanctuaire dans un espace de transition entre la citadelle et la ville éclaire son insertion dans les pratiques communautaires. La pente, les grottes et les murs ne doivent cependant pas être tous identifiés à des éléments précis du mythe.
+
+### 15. L'olivier, le serpent et les objets cachés
+L'olivier d'Athéna, le serpent de l'Acropole et les objets des Arrhéphores appartiennent à un ensemble symbolique souvent interprété comme une religion de la fécondité. [S] Hérodote VIII, 41 rapporte l'offrande au serpent ; VIII, 55 mentionne l'olivier sacré après l'incendie perse. [I] Ces traditions rendent visibles la permanence et la vulnérabilité du territoire civique. [H] Leur réunion en un système rituel préhellénique unique excède les preuves disponibles.
+
+### 16. Le geste nocturne : espace, mouvement et autorité
+Le déplacement nocturne décrit par Pausanias traverse une frontière entre le haut et le bas, l'espace consacré et le tissu urbain. [I] On peut y lire une dramaturgie du passage et du retour : les jeunes filles accomplissent une mission confiée par la communauté sans accéder à la connaissance des objets. Cette lecture topographique est féconde, mais elle ne permet pas de localiser avec certitude chaque étape de l'itinéraire. La mention d'un accès souterrain ne doit pas devenir un plan archéologique inventé.
+
+### 17. Les Cécropides et les rites : parallèles, non équivalences
+Dans le mythe, des filles reçoivent un contenant interdit à la vue ; dans le rite, des filles portent des objets cachés. Le rapprochement est indéniable. Pourtant le récit mythique comporte une transgression et une catastrophe, tandis que Pausanias décrit un service accompli et renouvelé. [I] On peut supposer que les deux traditions dialoguaient dans l'imaginaire athénien. [H] Affirmer que le rite « rejouait » exactement le mythe ou qu'il commémorait une mort sacrificielle serait une extrapolation.
+
+### 18. L'enfance féminine comme affaire publique
+Les jeunes filles participant aux cultes civiques ne sont pas simplement des personnes privées. Leur présence rend visible la continuité des familles citoyennes et leur relation aux divinités protectrices. [I] Le rite constitue une scène où la cité mobilise des corps et des âges qui ne disposent pas des droits politiques des citoyens adultes masculins. Cette participation ne doit être confondue ni avec une égalité politique moderne ni avec une absence totale d'action religieuse féminine.
+
+### 19. Genre, pouvoir et silence
+Les officiantes exécutent un ordre sans en connaître le contenu. [I] La situation met en tension compétence rituelle et accès au savoir. La comparaison avec les Cécropides permet d'interroger la valorisation de l'obéissance et la sanction de la curiosité féminine. Mais le modèle d'une « domination masculine » abstraite ne suffit pas à décrire la variété des sacerdoces, dont certains conféraient aux femmes prestige, ressources et visibilité. Les sources exigent une analyse institutionnelle précise.
+
+### 20. Le problème de l'initiation
+Le terme d'initiation est employé diversement dans la littérature moderne : changement de statut, transmission secrète, apprentissage d'un rôle, rite de seuil. Les Arrhéphories présentent certains de ces traits, mais pas tous de manière démontrable. [I] Il est prudent de parler de service religieux de jeunes filles, susceptible d'être interprété comme passage d'âge, plutôt que de postuler un rite initiatique panathénien complet. L'absence d'un manuel rituel antique interdit les reconstructions minutieuses.
+
+### 21. Philosophie du secret : connaissance et confiance
+L'autorité rituelle n'exige pas ici la transparence du contenu. La prêtresse et les jeunes filles accomplissent une opération qui les dépasse. [I] On peut rapprocher cette configuration d'une réflexion sur la confiance institutionnelle : un acte collectif peut être reconnu comme valide sans que chaque participant possède toutes les informations. Cette analogie est philosophique, non une doctrine explicitement formulée par Pausanias. Elle invite aussi à demander quand le secret protège une communauté et quand il soustrait une autorité à l'examen.
+
+### 22. Philosophie de la mémoire : le passé toujours reconstruit
+Le récit des Cécropides, les sanctuaires et les cérémonies ne sont pas trois copies d'un même événement primordial. Ils constituent des médias différents de la mémoire religieuse. [I] La cité peut conserver des pratiques tout en réinterprétant les généalogies qui leur donnent sens. Les contradictions entre versions ne sont pas des erreurs à éliminer, mais des indices de temporalités et de communautés de transmission différentes.
+
+### 23. Iconographie : comment lire les images ?
+Les représentations d'Athéna, de l'enfant Érichthonios et des figures féminines associées à sa garde constituent des documents pour la réception du mythe. Les peintures de vases et les reliefs doivent être examinés selon leur datation, leur provenance, leurs inscriptions et leur contexte de découverte. [H] Une scène de femme portant un panier ne représente pas automatiquement une Arrhéphore ; l'identification exige des attributs distinctifs ou une inscription. Pour l'intégration du site, privilégier des photographies de musées avec notices et droits de réutilisation explicites.
+
+### 24. Philologie et précautions terminologiques
+Πάνδροσος (*Pándrosos*) et Ἕρση (*Hérsē*) sont rapprochés de la rosée ; Ἄγλαυρος (*Áglauros*) présente des variations graphiques et des étymologies discutées. ἀρρηφόρος (*arrhēphóros*) a été interprété à partir de ἄρρητα, « choses indicibles », tandis que d'autres explications envisagent des liens avec des objets transportés. L'étymologie ne peut être employée seule comme preuve de l'origine d'un rite. Les formes et les interprétations doivent être replacées dans leur documentation et leur histoire.
+
+### 25. Tableau critique des niveaux de certitude
+**Attesté :** existence de cultes de Pandrose et d'Aglaure ; description du transport nocturne par Pausanias ; mention de l'arrhéphorie chez Aristophane ; participation de figures féminines aux rites civiques.  
+**Interprétable :** rapprochement entre coffre des Cécropides et objets cachés ; fonction de passage d'âge ; importance civique de l'obéissance et de la confiance.  
+**Non démontré :** contenu exact des objets ; trajet souterrain entièrement identifié ; reproduction littérale du mythe ; survivance intacte d'un rite minoen ou préhellénique.
+
+### 26. Sources primaires commentées
+- **Pausanias, *Description de la Grèce* I, 18, 2** : Aglaure et sa topographie cultuelle.
+- **Pausanias I, 27, 2–3** : Pandroséion et Arrhéphores ; témoignage essentiel, mais tardif.
+- **Pseudo-Apollodore, *Bibliothèque* III, 14, 2–6** : généalogies cécropides et coffre d'Érichthonios.
+- **Aristophane, *Lysistrata* 641–647** : énumération comique de fonctions cultuelles féminines ; ne pas la lire comme une réglementation.
+- **Hérodote, *Histoires* VIII, 41 et 55** : serpent et olivier sacrés de l'Acropole.
+- **Ovide, *Métamorphoses* II, 708–832** : réécriture latine de l'histoire d'Hersé et d'Aglauros.
+- **Inscription du serment éphébique d'Acharnes (IVe siècle av. J.-C., *RO* 88)** : invocation d'Aglaure et autres puissances ; contrôle épigraphique recommandé sur l'édition de référence.
+- **SEG 33, 115** : inscription relative au culte d'Aglaure, essentielle pour les discussions topographiques.
+
+### 27. Bibliographie scientifique sélective
+- Walter Burkert, *Greek Religion*, trad. J. Raffan, Harvard University Press, 1985 : institutions et rituels, avec prudence sur les reconstructions.
+- Robert Parker, *Athenian Religion: A History*, Oxford University Press, 1996 : cadre institutionnel et cultuel athénien.
+- Robert Parker, *Polytheism and Society at Athens*, Oxford University Press, 2005 : pratiques et intégration civique.
+- Nicole Loraux, *Les Enfants d'Athéna. Idées athéniennes sur la citoyenneté et la division des sexes*, Maspero, 1981 : autochtonie et différences de genre.
+- Christiane Sourvinou-Inwood, *Studies in Girls' Transitions: Aspects of the Arkteia and Age Representation in Attic Iconography*, Kardamitsa, 1988 : méthode comparative sur les transitions féminines ; ne porte pas exclusivement sur les Arrhéphories.
+- Joan Breton Connelly, *Portrait of a Priestess: Women and Ritual in Ancient Greece*, Princeton University Press, 2007 : charges féminines et visibilité religieuse.
+- John K. Davies, « The Athenian Ephebeia », à compléter selon édition retenue : ne pas utiliser cette mention non stabilisée comme référence probante ; privilégier l'inscription et les études de Parker.
+- Stephen D. Lambert, *The Phratries of Attica*, University of Michigan Press, 1993 : contexte des appartenances civiques, non monographie sur les Arrhéphories.
+
+### 28. Pour écouter et voir
+**Audio universitaire de contexte :** Vinciane Pirenne-Delforge, enseignements de la chaire « Religion, histoire et société dans le monde grec antique », Collège de France : https://www.college-de-france.fr/fr/chaire/vinciane-pirenne-delforge-religion-histoire-et-societe-dans-le-monde-grec-antique-chaire-statutaire . Cette page institutionnelle présente des cours et enregistrements utiles pour les sections 7–11 et 18–21 sur les pratiques civiques et le rituel ; il ne s'agit pas d'une conférence identifiée spécifiquement sur les Arrhéphories.
+**Vidéo documentaire de contexte :** *Les Grands Mythes*, ARTE : https://www.arte.tv/fr/videos/RC-014787/les-grands-mythes/ . La collection éclaire les récits d'Athéna et la transmission mythologique, en relation avec les sections 2–3 et 17. La disponibilité d'un épisode précis sur Pandrose ou Aglaure n'est pas établie ; ne pas le supposer.
+**Limite de vérification :** ces pages institutionnelles sont des points d'accès identifiés, mais aucun lien individuel vers un enregistrement sur le sujet exact n'a été validé pour cette livraison.
+
+### 29. Conclusion
+Les Arrhéphories donnent accès à une dimension essentielle de la religion grecque : la cité se perpétue aussi par des services confiés à de jeunes filles, par des gestes dont le sens n'est pas entièrement divulgué et par une topographie sacrée peuplée de figures héroïques. Pandrose et Aglaure ne sont pas de simples personnages d'un conte d'interdit ; leurs sanctuaires inscrivent la mémoire des Cécropides dans la vie collective. Le bon usage universitaire du dossier consiste à tenir ensemble les parallèles narratifs et la résistance des sources à toute reconstitution totale.
+
+### 30. Index éditorial et continuité
+**Identifiant :** MYTHOS-GE-337 ; **volume :** CXIX ; **mots-clés :** Pandrose, Aglaure, Hersé, Arrhéphories, arrhéphores, Athéna Polias, Acropole, Pandroséion, Aglauréion, éphébie, rites féminins, Pausanias.  
+**Liens internes suggérés :** GE-336 (Cécropides et coffre), GE-332 (Érechthée), GE-329 (tribus et identité civique), GE-335 (Créuse et Ion).  
+**Frontière éditoriale :** étude religieuse et institutionnelle, distincte des séries tragédies, comédies, origines du sacré et mythologie comparée.  
+**Chapitre suivant proposé :** 338, volume CXX — « Athéna Polias et les Panathénées : péplos, procession, concours et mémoire de la cité » ; vérifier le dépôt et les éventuelles livraisons non archivées avant de le produire.
