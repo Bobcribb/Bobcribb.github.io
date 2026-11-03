@@ -6,8 +6,6 @@ on:
     branches: [main]
     paths:
       - '.github/workflows/backup-complete.yml'
-  schedule:
-    - cron: '17 3 * * 0'
 
 permissions:
   contents: read
