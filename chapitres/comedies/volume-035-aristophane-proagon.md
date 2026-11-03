@@ -160,3 +160,6 @@ Ce qui précède le concours peut être aussi important que le concours lui-mêm
 ---
 
 **Suite éditoriale :** volume XXXVI, après nouvelle inspection du dépôt et des notices historiques.
+
+
+**Suite du cycle :** [Volume XXXVI — *Les Phéniciennes*](volume-036-aristophane-phenissai.md).
