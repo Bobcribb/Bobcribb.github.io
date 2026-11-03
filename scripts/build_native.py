@@ -80,7 +80,9 @@ def copy_repository():
     # Seules les sources existantes dans corpus/ et déjà référencées sont copiées.
     linked_sources = set()
     for page in OUT.rglob("*.html"):
-        for link in re.findall(r'href\\s*=\\s*["\\\']([^"\\\']+)["\\\']', page.read_text(encoding="utf-8"), flags=re.I):
+        page_html = BeautifulSoup(page.read_text(encoding="utf-8"), "html.parser")
+        for anchor in page_html.find_all("a", href=True):
+            link = str(anchor.get("href", ""))
             href = link.split("#", 1)[0].split("?", 1)[0]
             if not href.endswith(".md") or href.startswith(("http:", "https:", "//")):
                 continue
