@@ -506,7 +506,14 @@
         "chapitres/comparatif/volume-xcvii-claude-lefort-invention-democratique-division-sociale-lieu-vide-pouvoir.md": 97,
         "chapitres/comparatif/volume-xcviii-miguel-abensour-democratie-insurgente-utopie-emancipation.md": 98
       },
-      "allocations": {}
+      "allocations": {
+        "9c54e6b1-5c0e-4b44-af59-6c9c38f7de42": {
+          "number": 159,
+          "path": "chapitres/comparatif/volume-clix-roy-rappaport-rituel-ecologie-sacralite-communication.md",
+          "request_sha256": "b677a33b962df2a1da7ac8db2c232a0437b7205b87730444af402d508b5456d0",
+          "initial_source_sha256": "3f20c50e8c3d577b7c1784c73f59a80c67d608b985ebe5f62b4997dd5bc16c2c"
+        }
+      }
     }
   }
 }
