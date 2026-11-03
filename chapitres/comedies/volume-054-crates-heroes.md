@@ -7,7 +7,7 @@ description: "Étude universitaire sur Les Héros de Cratès (fragments 10–15 
 
 ## Cratès, *Hērōes* (Ἥρωες) — Les Héros : la cité, les morts puissants et les usages comiques du sacré
 
-**Navigation :** [← Volume LIII — Cratès, *Lamia*](/chapitres/comedies/volume-053-crates-lamia/) · [Théâtre grec](/theatre/) · [Études philosophiques](/philosophie/) · [Index intégral](/catalogue/).
+**Navigation :** [← Volume LIII — Cratès, *Lamia*](/chapitres/comedies/volume-053-crates-lamia/) · [→ Volume LV — Cratès, *Les Jeux*](/chapitres/comedies/volume-055-crates-paidiai/) · [Théâtre grec](/theatre/) · [Études philosophiques](/philosophie/) · [Index intégral](/catalogue/).
 
 > **Protocole scientifique :** **[A]** = attestation antique, fragment répertorié ou donnée documentaire vérifiable ; **[B]** = interprétation, hypothèse, comparaison ou proposition scénographique ; **[C]** = création dramatique contemporaine, sans aucune prétention à restituer les paroles du poète. Lorsqu'une information sur un fragment provient d'un commentaire moderne ou d'un compte rendu sans collation de l'édition critique complète, cette médiation est explicitée.
 
