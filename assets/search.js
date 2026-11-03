@@ -23,7 +23,8 @@ document.addEventListener('DOMContentLoaded', () => {
     }
   };
   input.addEventListener('input', draw);
-  fetch('/search.json')
+  // Revalidate after publication instead of keeping an older browser index.
+  fetch('/search.json', { cache: 'no-cache' })
     .then(r => { if (!r.ok) throw new Error('Index indisponible'); return r.json(); })
     .then(data => { documents = data; draw(); })
     .catch(() => { results.textContent = 'Index de recherche temporairement indisponible.'; });
