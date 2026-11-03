@@ -7,7 +7,7 @@ description: "Les Dieux d'Hermippos : fragments 24–35 K.-A., vin, procession, 
 
 ## Hermippos, *Theoi* (Θεοί) — Les Dieux : vin, objets, jeux et parole sacrée
 
-**Navigation :** [Volume XLVII — Hermippos, *Les Membres du dème*](/chapitres/comedies/volume-047-hermippos-demotai/) · [Théâtre grec](/theatre/) · [Études philosophiques](/philosophie/).
+**Navigation :** [Volume XLVII — Hermippos, *Les Membres du dème*](/chapitres/comedies/volume-047-hermippos-demotai/) · **[Volume XLIX — Hermippos, *Europe*](/chapitres/comedies/volume-049-hermippos-europe/)** · [Théâtre grec](/theatre/) · [Études philosophiques](/philosophie/).
 
 **Statut documentaire :** comédie ancienne perdue ; douze numéros de fragments, **24–35 K.-A.**, de longueur et de nature très différentes. Ni argument antique complet ni intrigue continue conservée. Étude publique rédigée pour MYTHOS le 3 novembre 2026.
 
@@ -312,4 +312,4 @@ L'expression « théologie du quotidien » vaut donc ici comme question de lectu
 
 ---
 
-**Continuité :** volume XLVIII de la série canonique des comédies. Le prochain numéro théorique est XLIX, à attribuer seulement après une nouvelle inspection du dépôt, du registre de continuité et des notices historiques. Les liens ci-dessus visent les chemins publics du site ; la disponibilité du rendu doit être vérifiée séparément de l'enregistrement de ce fichier Markdown.
+**Continuité :** volume XLVIII de la série canonique des comédies. Suite effectivement créée : **[volume XLIX, Hermippos, *Europe*](/chapitres/comedies/volume-049-hermippos-europe/)**. Le prochain numéro théorique est **L**, après contrôle du dépôt et des notices historiques. Les liens ci-dessus visent les chemins publics du site ; la disponibilité du rendu doit être vérifiée séparément de l'enregistrement de ce fichier Markdown.
