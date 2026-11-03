@@ -176,3 +176,6 @@ La reconstitution ne doit pas remplir toutes les lacunes. Elle peut établir un 
 ---
 
 **Parcours de lecture :** [Volume XVIII — *Philoi*](/chapitres/comedies/volume-018-eupolis-philoi/) · [Notice historique des *Taxiarchoi*](/comedie-grecque-aristophane-menandre-etudes/comedies-perdues-cratinos-eupolis-philemon-fragments/eupolis-taxiarchoi-taxiarques-dionysos-phormion-fragments/) · [Catalogue des comédies](/comedie-grecque-aristophane-menandre-etudes/).
+
+
+**Suite de la série :** [Volume XX — Aristophane, *Gerytades*](volume-020-aristophane-gerytades.md).
