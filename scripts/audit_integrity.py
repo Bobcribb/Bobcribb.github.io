@@ -14,7 +14,7 @@ import json, re, sys
 out=Path("_site")
 manifest=json.loads((out/"media/manifest.json").read_text(encoding="utf-8"))
 catalogue=json.loads((out/"search.json").read_text(encoding="utf-8"))
-pages=list(out.rglob("index.html"))
+pages=list(out.rglob("*.html"))
 styles=[out/"assets/style.css",out/"assets/search.js",out/"CNAME",out/"index.html",out/"rubriques/index.html",out/"recherche/index.html"]
 issues=[];warnings=[];stats=Counter()
 for f in styles:
@@ -45,9 +45,16 @@ for path in expected:
     if "https://bobmythos.fr"+path not in sitemap: issues.append("Sitemap missing: "+path)
 stats["indexed"]=len(catalogue)
 stats["html_files"]=len(pages)
+page_ids = {}
+fragment_links = []
 for file in pages:
     html=file.read_text(encoding="utf-8")
     soup=BeautifulSoup(html,"html.parser")
+    ids = [str(node["id"]) for node in soup.select("[id]")]
+    page_ids[file.resolve()] = set(ids) | {str(node["name"]) for node in soup.select("a[name]")}
+    duplicates = [key for key, count in Counter(ids).items() if count > 1]
+    if duplicates:
+        warnings.append("Duplicate HTML IDs: " + str(file) + " => " + ", ".join(duplicates))
     if not soup.find("title"):warnings.append("Missing title: "+str(file))
     stats["html_kb"]+=len(html)//1024
     attr_urls=[]
@@ -58,7 +65,7 @@ for file in pages:
             attr_urls.extend(("srcset", z.strip().split(" ")[0]) for z in str(e["srcset"]).split(","))
     stats["html_urls"]+=len(attr_urls)
     for attr,url in attr_urls:
-        if not url or url.startswith(("mailto:","tel:","data:","javascript:","#")): continue
+        if not url or url.startswith(("mailto:","tel:","data:","javascript:")): continue
         full=urlparse(url)
         if full.hostname and full.hostname not in ("bobmythos.fr","www.bobmythos.fr","bobmythos.wordpress.com"):
             stats["external_url"]+=1;continue
@@ -66,7 +73,9 @@ for file in pages:
             if "/wp-content/uploads/" in full.path:
                 warnings.append("WordPress-dependent media URL in "+str(file)+": "+url[:120])
             continue
-        if not full.path.startswith("/"):
+        if not full.path:
+            target=file
+        elif not full.path.startswith("/"):
             # relative URLs resolved relative to current page
             target=(file.parent / unquote(full.path))
         else:
@@ -83,7 +92,15 @@ for file in pages:
             warnings.append("Broken internal "+attr+" from "+str(file)+": "+url[:180])
         else:
             stats["local_links_checked"]+=1
+            if full.fragment and target.suffix.lower() == ".html":
+                fragment_links.append((file, target.resolve(), unquote(full.fragment), url))
     stats["pages_scanned"]+=1
+
+for source, target, fragment, url in fragment_links:
+    if fragment not in page_ids.get(target, set()):
+        warnings.append("Broken internal fragment: " + str(source) + " => " + url)
+    else:
+        stats["fragment_links_checked"] += 1
 
 print("=== MYTHOS AUTOMATED INTEGRITY AUDIT ===")
 print(json.dumps(dict(stats),ensure_ascii=False,indent=2))

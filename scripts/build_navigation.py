@@ -917,9 +917,14 @@ def reorganize_preserved_plays_analyses(entries):
     article=page.find("article",class_="content")
     if article is None:
         raise RuntimeError("Contenu des études conservées introuvable")
-    old=article.find(id="index-analyses-conservees")
-    if old:
+    for old in article.select("#index-analyses-conservees"):
         old.decompose()
+    # Le repère vide était ajouté à chaque publication et s'accumulait.
+    for old in article.select("#archives-analyses-conservees"):
+        if not old.get_text(strip=True) and not old.find(["img", "video", "audio"]):
+            old.decompose()
+        else:
+            del old["id"]
     catalog={e["url"].rstrip("/").split("/")[-1]:e for e in entries}
     groups=[
       ("Tragédies d’Eschyle",[("Les Perses","eschyle-perses-analyse"),("Les Sept contre Thèbes","eschyle-sept-contre-thebes-analyse"),("Les Suppliantes","eschyle-suppliantes-danaides-analyse"),("Agamemnon","eschyle-agamemnon-analyse"),("Les Choéphores","eschyle-choephores-analyse"),("Les Euménides","eschyle-eumenides-analyse"),("Prométhée enchaîné — attribution discutée","eschyle-promethee-enchaine-analyse")]),
@@ -940,7 +945,7 @@ def reorganize_preserved_plays_analyses(entries):
                 raise RuntimeError("Analyse absente, ambiguë ou doublonnée : "+prefix)
             seen.add(matches[0]["url"])
             blocks.append('<li><a href="'+esc(matches[0]["url"])+'">'+esc(title)+'</a></li>')
-        blocks.append('</ul></section>')
+        blocks.append('</ol></section>')
     blocks.append('<p><a href="#archives-analyses-conservees">Consulter les cycles universitaires et les analyses historiques conservés ↓</a></p></section><div id="archives-analyses-conservees"></div>')
     fragment=BeautifulSoup(''.join(blocks),"html.parser")
     first_h1=article.find("h1")

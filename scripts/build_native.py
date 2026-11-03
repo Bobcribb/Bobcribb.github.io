@@ -5,6 +5,7 @@ Source de vérité : fichiers HTML existants dans main, médias dans media/,
 et nouvelles études Markdown dans chapitres/. Ne publie aucun brouillon.
 """
 from pathlib import Path
+from urllib.parse import urlsplit, urlunsplit
 from xml.sax.saxutils import escape as xml_escape
 import html
 import json
@@ -75,16 +76,16 @@ def copy_repository():
                 continue
             target.parent.mkdir(parents=True, exist_ok=True)
             shutil.copy2(source,target)
-    # Les manuscrits universitaires déjà liés depuis une page publique doivent
-    # être consultables, sans rendre publics les autres brouillons Markdown.
-    # Seules les sources existantes dans corpus/ et déjà référencées sont copiées.
+    # Copier les sources et ressources du corpus déjà liées depuis les pages
+    # publiques (manuscrits, CSS, scripts, catalogues et médias existants).
+    # Les fichiers non référencés ne sont pas ajoutés à la publication.
     linked_sources = set()
     for page in OUT.rglob("*.html"):
         page_html = BeautifulSoup(page.read_text(encoding="utf-8"), "html.parser")
-        for anchor in page_html.find_all("a", href=True):
-            link = str(anchor.get("href", ""))
+        for anchor in page_html.select("[href], [src], [poster]"):
+            link = str(anchor.get("href") or anchor.get("src") or anchor.get("poster") or "")
             href = link.split("#", 1)[0].split("?", 1)[0]
-            if not href.endswith(".md") or href.startswith(("http:", "https:", "//")):
+            if Path(href).suffix.lower() not in {".md", ".css", ".js", ".json", ".svg", ".webp", ".jpg", ".png", ".pdf"} or href.startswith(("http:", "https:", "//")):
                 continue
             try:
                 rel_source = (Path(href.lstrip("/")) if href.startswith("/")
@@ -99,7 +100,25 @@ def copy_repository():
                 target.parent.mkdir(parents=True, exist_ok=True)
                 shutil.copy2(source, target)
                 linked_sources.add(rel_source.as_posix())
-    print(f"Sources Markdown du corpus liées et publiées : {len(linked_sources)}")
+    # Les livres archivés proviennent d'un ancien export à fichiers plats.
+    # Raccorder les liens absents à leur page migrée, seulement si elle existe.
+    archive = OUT / "corpus" / "mythologie-grecque" / "archives"
+    for page in archive.glob("*.html"):
+        doc = BeautifulSoup(page.read_text(encoding="utf-8"), "html.parser")
+        changed = False
+        for anchor in doc.find_all("a", href=True):
+            link = urlsplit(str(anchor["href"]))
+            if link.scheme or link.netloc or "/" in link.path or not link.path.endswith(".html"):
+                continue
+            if (page.parent / link.path).exists():
+                continue
+            migrated = OUT / Path(link.path).stem / "index.html"
+            if migrated.is_file():
+                anchor["href"] = urlunsplit(("", "", "/" + Path(link.path).stem + "/", link.query, link.fragment))
+                changed = True
+        if changed:
+            page.write_text(str(doc), encoding="utf-8")
+    print(f"Ressources du corpus liées et publiées : {len(linked_sources)}")
     if count < MIN_HTML_PAGES:
         raise RuntimeError(f"Protection : seulement {count} pages HTML dans GitHub, minimum {MIN_HTML_PAGES}")
     medias = [p for p in (OUT/"media").rglob("*") if p.is_file() and p.name != "manifest.json"]
@@ -126,7 +145,22 @@ def frontmatter(raw):
 
 def resolve_chapter_links(html_body, source, chapters):
     """Raccorder les liens relatifs .md aux lecteurs HTML publiés."""
+    # Mistune échappe le HTML des manuscrits. Rétablir uniquement les ancres
+    # vides documentaires, jamais du HTML arbitraire ou des attributs actifs.
+    html_body = re.sub(
+        r'&lt;a id=&quot;([A-Za-z][A-Za-z0-9_-]*)&quot;&gt;&lt;/a&gt;',
+        r'<span id="\1"></span>', html_body,
+    )
     soup = BeautifulSoup(html_body, "html.parser")
+    ids = {node["id"] for node in soup.select("[id]")}
+    requested = {a["href"][1:] for a in soup.select('a[href^="#"]')}
+    for heading in soup.find_all(re.compile(r"^h[1-6]$")):
+        match = re.match(r"(?:Chapitre\s+)?(\d+)(?:\b|\.)", heading.get_text(" ", strip=True), re.I)
+        if match and not heading.get("id"):
+            anchor = ("chap-" if "chap-" + match.group(1) in requested else "chapitre-") + match.group(1)
+            if anchor not in ids:
+                heading["id"] = anchor
+                ids.add(anchor)
     root = chapters.resolve()
     for anchor in soup.find_all("a", href=True):
         href = anchor["href"]
@@ -207,15 +241,18 @@ def reindex(chapters):
         para=doc.select_one(".content p") or doc.select_one("p")
         excerpt=text(str(para))[:190] if para else ""
         by_url[url]={"title":title,"url":url,"excerpt":excerpt}
-    # Les lecteurs universitaires HTML du corpus ne s'appellent pas toujours
-    # index.html : les rendre trouvables dans la recherche et le sitemap.
-    for p in (OUT / "corpus").rglob("*.html"):
-        if p.name == "index.html":
+    # Tous les lecteurs autonomes : corpus, études philosophiques et sites.
+    # Les redirections et la page d'erreur ne sont pas des résultats de recherche.
+    for p in OUT.rglob("*.html"):
+        if p.name in ("index.html", "404.html"):
             continue
         url = "/" + p.relative_to(OUT).as_posix()
         if url in by_url or url in historical_aliases:
             continue
         doc = BeautifulSoup(p.read_text(encoding="utf-8"), "html.parser")
+        if any(str(meta.get("http-equiv", "")).lower() == "refresh"
+               for meta in doc.find_all("meta")):
+            continue
         title = text(str(doc.h1 or doc.title or url))
         para = doc.select_one("main p") or doc.select_one("p")
         excerpt = text(str(para))[:190] if para else ""
