@@ -1,7 +1,7 @@
-"""Resolve the documented ODS 576/577 collision without changing manuscripts.
+"""Resolve documented ODS 576/577 aliases without changing manuscripts.
 
-Only the four named sources are classified here. Unknown duplicate numbers still
-fail the original navigation builder. See EDITORIAL_INCIDENT_ORIGINES_576_577_20261103.md.
+Only named historical URLs are excluded from canonical numbering. All original
+sources remain byte-identical; every unknown duplicate still fails the builder.
 """
 from pathlib import Path
 import hashlib
@@ -16,16 +16,18 @@ CANONICAL = {
 }
 COMPLEMENTS = {
     BASE + "576-payer-pour-passer-tarifs-bacs-offrandes/": {
-        "id": "ODS-C-576-A",
-        "title": "Complément documentaire au chapitre 576 — Tarifs, redevances et offrandes",
+        "id": "ODS-ALIAS-576",
+        "title": "Adresse historique — Annexe documentaire du chapitre 576",
         "canonical": CANONICAL[576],
-        "reason": "Version parallèle conservée intégralement ; le numéro 576 désigne la première version enregistrée sur main.",
+        "target": BASE + "annexe-576-payer-pour-passer-variante/",
+        "reason": "Version parallèle conservée intégralement en annexe, sans second chapitre 576.",
     },
     BASE + "577-naufrages-secours-divins-survivants/": {
-        "id": "ODS-C-577-A",
-        "title": "Complément au cycle des passages — Naufrages et secours divins",
+        "id": "ODS-ALIAS-577",
+        "title": "Adresse historique — Naufrages et secours divins, chapitre 580",
         "canonical": CANONICAL[577],
-        "reason": "Étude autonome conservée intégralement, sans nouveau numéro de chapitre ; l'identifiant historique 577 était déjà attribué à l'étude des monnaies funéraires.",
+        "target": BASE + "580-naufrages-secours-divins-survivants/",
+        "reason": "Étude autonome reprise intégralement au chapitre 580 ; le numéro 577 reste réservé aux monnaies funéraires.",
     },
 }
 
@@ -38,9 +40,25 @@ def source_hash(path):
     return hashlib.sha256(path.read_bytes()).hexdigest()
 
 
+def verified_redirects():
+    path = Path("EDITORIAL_REDIRECTS.json")
+    data = json.loads(path.read_text(encoding="utf-8"))
+    expected = {url: spec["target"] for url, spec in COMPLEMENTS.items()}
+    if data.get("version") != 1 or data.get("redirects") != expected:
+        raise RuntimeError("Le registre des redirections ne correspond pas à la réconciliation explicite.")
+    for source, target in expected.items():
+        if not re.fullmatch(r"/chapitres/origines-du-sacre/[a-z0-9][a-z0-9-]*/", target):
+            raise RuntimeError("Cible de redirection non locale ou invalide : " + target)
+        if source == target or target in expected:
+            raise RuntimeError("Boucle ou chaîne de redirection interdite : " + source)
+    return expected
+
+
 def preserve_sources():
     snapshots = {}
-    for url in [*CANONICAL.values(), *COMPLEMENTS]:
+    urls = [*CANONICAL.values(), *COMPLEMENTS,
+            *(spec["target"] for spec in COMPLEMENTS.values())]
+    for url in urls:
         path = source_path(url)
         if not path.is_file() or path.stat().st_size < 10000:
             raise RuntimeError("Source intégrale de réconciliation absente ou abrégée : " + str(path))
@@ -55,7 +73,7 @@ def verify_sources(snapshots):
             raise RuntimeError("Un manuscrit protégé a changé pendant la génération : " + name)
 
 
-def annotate_page(out, url, title, message, target, identifier):
+def annotate_page(out, url, title, message, target, identifier, redirect=False):
     path = out / url.lstrip("/") / "index.html"
     if not path.is_file():
         raise RuntimeError("Page de réconciliation non générée : " + str(path))
@@ -75,33 +93,43 @@ def annotate_page(out, url, title, message, target, identifier):
         previous.decompose()
     note = doc.new_tag("aside", attrs={"class": "editorial-note", "id": identifier})
     p = doc.new_tag("p")
-    p.string = message + " Les repères internes anciens sont conservés pour permettre les citations ; ils ne créent pas un second chapitre canonique. "
+    p.string = message + " Le manuscrit historique reste conservé sans modification. "
     a = doc.new_tag("a", href=target)
-    a.string = "Consulter le dossier associé et sa place dans la série."
+    a.string = "Lire la version intégrale à son adresse définitive."
     p.append(a)
     note.append(p)
     article.insert(1, note)
+    if redirect:
+        if doc.head is None:
+            raise RuntimeError("En-tête HTML absent : " + str(path))
+        for node in doc.head.select('meta[http-equiv="refresh"], meta[name="robots"], link[rel="canonical"]'):
+            node.decompose()
+        doc.head.append(doc.new_tag("meta", attrs={"http-equiv": "refresh", "content": "0;url=" + target}))
+        doc.head.append(doc.new_tag("meta", attrs={"name": "robots", "content": "noindex,follow"}))
+        doc.head.append(doc.new_tag("link", attrs={"rel": "canonical", "href": "https://bobmythos.fr" + target}))
     path.write_text(str(doc), encoding="utf-8")
 
 
 def install(navigation, chapters):
-    """Install one explicit catalogue reconciliation; leave all .md bytes intact."""
+    """Install explicit aliases while leaving all Markdown source bytes intact."""
+    redirects = verified_redirects()
     snapshots = preserve_sources()
     available = {entry["url"] for entry in chapters}
-    if not set([*CANONICAL.values(), *COMPLEMENTS]).issubset(available):
-        raise RuntimeError("Les quatre études de l'incident doivent toutes être publiées.")
+    required = set([*CANONICAL.values(), *COMPLEMENTS, *redirects.values()])
+    if not required.issubset(available):
+        raise RuntimeError("Sources historiques et cibles intégrales doivent toutes être publiées.")
     out = navigation.OUT
     for url, spec in COMPLEMENTS.items():
-        annotate_page(out, url, spec["title"], spec["reason"], spec["canonical"], spec["id"])
+        annotate_page(out, url, spec["title"], spec["reason"], spec["target"], spec["id"], redirect=True)
         for entry in chapters:
             if entry["url"] == url:
                 entry["title"] = spec["title"]
                 entry["excerpt"] = spec["reason"][:190]
     for number, url in CANONICAL.items():
-        other = next(u for u, spec in COMPLEMENTS.items() if spec["canonical"] == url)
+        spec = next(spec for spec in COMPLEMENTS.values() if spec["canonical"] == url)
         annotate_page(out, url, None,
-            "Chapitre canonique " + str(number) + ". Une étude supplémentaire issue de la rédaction parallèle reste accessible séparément.",
-            other, "ods-canonical-" + str(number))
+            "Chapitre canonique " + str(number) + ". Le texte issu de la rédaction parallèle possède désormais une adresse distincte.",
+            spec["target"], "ods-canonical-" + str(number))
     original = navigation.create_origins
 
     def reconciled_origins(entries):
@@ -123,19 +151,23 @@ def install(navigation, chapters):
         page = out / "origines-du-sacre/index.html"
         doc = BeautifulSoup(page.read_text(encoding="utf-8"), "html.parser")
         article = doc.select_one("article.content")
+        if article is None:
+            raise RuntimeError("Portail des origines sans article.")
+        previous = article.find(id="chapitres-recents")
+        if previous:
+            previous.decompose()
         section = doc.new_tag("section", attrs={"class": "portal-section", "id": "chapitres-recents"})
         h2 = doc.new_tag("h2")
         h2.string = "Suite des études — chapitres 491 et suivants"
         section.append(h2)
         intro = doc.new_tag("p")
-        intro.string = "Numéros éditoriaux conservés. Les compléments issus de la rédaction parallèle sont classés séparément, sans suppression de texte."
+        intro.string = "Numéros éditoriaux conservés. Les anciennes adresses en conflit renvoient aux textes intégraux réconciliés, sans suppression de manuscrit."
         section.append(intro)
         listing = doc.new_tag("ol", attrs={"class": "chapter-list origins-index"})
         for number, entry in sorted(numbered.items()):
             if number < 491:
                 continue
-            source = source_path(entry["url"])
-            raw = source.read_text(encoding="utf-8")
+            raw = source_path(entry["url"]).read_text(encoding="utf-8")
             subtitle = re.search(r"(?m)^##\s+(.+)$", raw)
             label = subtitle.group(1) if subtitle else entry["title"]
             li = doc.new_tag("li", attrs={"data-chapter": str(number)})
@@ -145,14 +177,13 @@ def install(navigation, chapters):
             listing.append(li)
         section.append(listing)
         h3 = doc.new_tag("h3")
-        h3.string = "Compléments documentaires — textes intégraux conservés"
+        h3.string = "Annexe documentaire — version parallèle conservée"
         section.append(h3)
-        for url, spec in COMPLEMENTS.items():
-            p = doc.new_tag("p")
-            a = doc.new_tag("a", href=url)
-            a.string = spec["id"] + " — " + spec["title"]
-            p.append(a)
-            section.append(p)
+        p = doc.new_tag("p")
+        a = doc.new_tag("a", href=COMPLEMENTS[BASE + "576-payer-pour-passer-tarifs-bacs-offrandes/"]["target"])
+        a.string = "Annexe au chapitre 576 — Tarifs, redevances et offrandes"
+        p.append(a)
+        section.append(p)
         archives = article.select_one(".origins-archives")
         if archives:
             archives.insert_before(section)
@@ -160,12 +191,13 @@ def install(navigation, chapters):
             article.append(section)
         for p in article.select("p.portal-lead"):
             if p.get_text().startswith("Quarante-huit chapitres"):
-                p.string = "Les 48 dossiers historiques restent intégraux. Les études suivantes sont accessibles dans la liste continue ci-dessus ; les tomes et manuscrits archivés conservent leur propre ordre."
+                p.string = "Les 48 dossiers historiques restent intégraux. Les études suivantes sont accessibles dans la liste continue ; les tomes et manuscrits archivés conservent leur propre ordre."
         page.write_text(str(doc), encoding="utf-8")
         report = {
-            "policy": "first_confirmed_commit_per_number; later_parallel_texts_are_preserved_complements",
+            "policy": "first_confirmed_commit_per_number; explicit_historical_aliases; recovered_shipwreck_study_580",
             "canonical": {str(n): e["url"] for n, e in sorted(numbered.items())},
-            "complements": COMPLEMENTS,
+            "historical_aliases": COMPLEMENTS,
+            "redirects": redirects,
             "last_numbered_chapter": max(numbered),
             "preserved_source_sha256": snapshots,
         }
@@ -173,7 +205,7 @@ def install(navigation, chapters):
         target.parent.mkdir(parents=True, exist_ok=True)
         target.write_text(json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
         verify_sources(snapshots)
-        print("ODS : collisions 576/577 résolues ; quatre sources inchangées ; dernier chapitre", max(numbered), flush=True)
+        print("ODS : aliases 576/577 résolus ; six sources intégrales inchangées ; dernier chapitre", max(numbered), flush=True)
 
     navigation.create_origins = reconciled_origins
     return snapshots
