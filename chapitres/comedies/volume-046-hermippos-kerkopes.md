@@ -208,3 +208,5 @@ Le gain proprement universitaire tient à la hiérarchie des preuves : **[A] ce 
 ---
 
 **Suite :** volume XLVII à établir après un nouveau contrôle de `EDITORIAL_CONTINUITY.md`, de `chapitres/comedies/` et des notices historiques ; pistes attestées chez Hermippos : *Dēmotai*, *Eurōpē*, *Theoi*, sans présumer de leur ordre futur.
+
+**Suite vérifiée de la série :** [Volume XLVII — Hermippos, *Dēmotai* / *Les Membres du dème*](volume-047-hermippos-demotai.md).
