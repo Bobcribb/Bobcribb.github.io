@@ -324,3 +324,5 @@ Les créations [C] ont, de leur côté, assumé ce que l'analyse ne pouvait fair
 **Navigation de série :** [Volume XLIX — Hermippos, *Europe*](/chapitres/comedies/volume-049-hermippos-europe/) · [Théâtre grec](/theatre/).
 
 **Suite éditoriale :** prochain numéro théorique **LI**, à déterminer après nouvelle inspection du registre de continuité, des fichiers de la série, des notices historiques et des livraisons non archivées. Aucun titre futur n'est réservé par cette mention.
+
+**Suite enregistrée le 3 novembre 2026 :** [Volume LI — Cratès, *Thēria* / *Les Bêtes* →](/chapitres/comedies/volume-051-crates-theria/). Ce renvoi actualise le jalon théorique ci-dessus, conservé comme trace éditoriale.
