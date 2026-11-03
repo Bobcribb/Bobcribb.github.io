@@ -115,3 +115,84 @@ body.mythos-design .origins-volumes{max-width:1344px!important;width:calc(100% -
 body.mythos-design.origins-landing main.layout.portal-layout.visual-rails-active{width:100%!important;max-width:none!important;padding:0 0 60px!important}
 
 @media(max-width:700px){body.mythos-design .mythos-banner{min-height:340px!important;padding:150px 18px 28px!important;background-size:auto 160px!important;background-position:center top!important;background-color:#090e10!important}.mythos-banner::before{background:linear-gradient(180deg,transparent 90px,#090e10 160px)!important}}
+
+/* MYTHOS responsive/accessibility pass — 2026-11-04: editorial navigation. */
+/* The heading of a long scholarly table of contents is centred without
+   centring every reference line: long entries remain easy to scan. */
+body.mythos-design :is(.toc,.article-toc){
+  width:min(100%,900px)!important;
+  margin-inline:auto!important;
+  padding:clamp(16px,2.7vw,28px)!important;
+  min-width:0;
+}
+body.mythos-design :is(.toc,.article-toc) :is(h2,h3,.toc-title){
+  text-align:center!important;
+}
+body.mythos-design :is(.toc,.article-toc) :is(a,li){
+  overflow-wrap:anywhere;
+}
+body.mythos-design :is(.toc,.article-toc) a{
+  text-underline-offset:.19em;
+}
+body.mythos-design :is(.toc,.article-toc) a:focus-visible{
+  outline-offset:2px!important;
+  background:#233033!important;
+}
+/* Prevent off-screen menus on short mobile viewports; preserve keyboard use. */
+body.mythos-design .mythos-menu nav{
+  box-sizing:border-box!important;
+  max-height:calc(100dvh - 78px);
+  overflow-y:auto!important;
+  overscroll-behavior:contain;
+}
+body.mythos-design :is(.mythos-collection-card,.portal-card,.origins-volume):focus-visible{
+  outline:3px solid #e9c791!important;
+  outline-offset:3px!important;
+}
+body.mythos-design .mythos-collection-card img,
+body.mythos-design .portal-card .mythos-card-image{
+  flex-shrink:0;
+}
+@media(max-width:420px){
+  body.mythos-design .mythos-collection-grid,
+  body.mythos-design .origins-volume-grid{
+    grid-template-columns:minmax(0,1fr)!important;
+  }
+  body.mythos-design .mythos-collection-card{
+    min-height:106px;
+    gap:14px;
+  }
+  body.mythos-design .mythos-collection-card>img{
+    width:100px;
+    height:92px;
+    object-fit:cover;
+  }
+  body.mythos-design .origins-volume-image{
+    width:100px!important;
+    height:92px!important;
+    min-height:92px!important;
+  }
+  body.mythos-design .mythos-menu nav{
+    right:-8px;
+    width:min(320px,calc(100vw - 24px))!important;
+    max-width:calc(100vw - 24px)!important;
+  }
+  body.mythos-design .portal-card{
+    grid-template-columns:74px minmax(0,1fr)!important;
+  }
+  body.mythos-design .portal-card .mythos-card-image{
+    width:74px!important;
+    height:100px!important;
+  }
+  body.mythos-design .mythos-brand{
+    font-size:26px;
+    letter-spacing:.04em;
+  }
+  body.mythos-design .mythos-brand small{
+    letter-spacing:.08em;
+  }
+  body.mythos-design .mythos-banner-long h1{
+    font-size:clamp(24px,7vw,27px)!important;
+    overflow-wrap:anywhere;
+  }
+}
