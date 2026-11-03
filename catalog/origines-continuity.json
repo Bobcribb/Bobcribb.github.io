@@ -1,5 +1,5 @@
 {
-  "policy": "first_confirmed_commit_per_number; explicit_historical_aliases; recovered_shipwreck_study_580; parallel_582_583_as_full_complements",
+  "policy": "first_confirmed_commit_per_number; explicit_historical_aliases; recovered_shipwreck_study_580; parallel_582_583_589_590_as_full_complements",
   "canonical": {
     "451": "/chapitres/origines-du-sacre/451-platon-mania-divine-inspiration/",
     "452": "/chapitres/origines-du-sacre/452-delphes-pythie-parole-oraculaire/",
@@ -138,7 +138,9 @@
     "585": "/chapitres/origines-du-sacre/585-parole-divine-erreur-transmission-predictions-dementies/",
     "586": "/chapitres/origines-du-sacre/586-recueils-oracles-interpolations-autorite/",
     "587": "/chapitres/origines-du-sacre/587-responsabilite-interprete-conseil-pouvoir/",
-    "588": "/chapitres/origines-du-sacre/588-silence-oracle-refus-reponses-sanctuaires/"
+    "588": "/chapitres/origines-du-sacre/588-silence-oracle-refus-reponses-sanctuaires/",
+    "589": "/chapitres/origines-du-sacre/589-restaurer-oracles-didymes-recommencements/",
+    "590": "/chapitres/origines-du-sacre/590-images-perdues-modeles-restauration-divine/"
   },
   "historical_aliases": {
     "/chapitres/origines-du-sacre/576-payer-pour-passer-tarifs-bacs-offrandes/": {
@@ -170,22 +172,42 @@
       "target": "/chapitres/origines-du-sacre/583-interpreter-oracles-expertise-controverse/",
       "inline": true,
       "reason": "Étude philosophique intégrale conservée en complément. Le premier 583 (14:23:22 UTC) garde son numéro ; cette étude a été enregistrée à 14:32:20 UTC. Les deux commits du 3 novembre 2026 ont été vérifiés."
+    },
+    "/chapitres/origines-du-sacre/589-questions-privees-dodone-famille-metiers-risque/": {
+      "id": "ODS-COMPLEMENT-589",
+      "title": "Complément du chapitre 589 — Famille, métiers et commerce dans les questions de Dodone",
+      "canonical": "/chapitres/origines-du-sacre/589-restaurer-oracles-didymes-recommencements/",
+      "target": "/chapitres/origines-du-sacre/589-restaurer-oracles-didymes-recommencements/",
+      "inline": true,
+      "reason": "Étude complète et distincte conservée en complément. Le premier 589 sur Didymes a été créé à 17:21:20 UTC ; ce dossier de Dodone à 17:22:22 UTC le 3 novembre 2026. Aucun manuscrit n'est supprimé."
+    },
+    "/chapitres/origines-du-sacre/590-reponse-en-voyage-messagers-ambassades-transmission/": {
+      "id": "ODS-COMPLEMENT-590",
+      "title": "Complément du chapitre 590 — Messagers, ambassades et transmission des réponses oraculaires",
+      "canonical": "/chapitres/origines-du-sacre/590-images-perdues-modeles-restauration-divine/",
+      "target": "/chapitres/origines-du-sacre/590-images-perdues-modeles-restauration-divine/",
+      "inline": true,
+      "reason": "Étude complète et distincte conservée en complément. Le premier 590 sur la restauration d'images a été créé à 17:24:17 UTC ; ce dossier sur les ambassades à 17:24:38 UTC le 3 novembre 2026."
     }
   },
   "redirects": {
     "/chapitres/origines-du-sacre/576-payer-pour-passer-tarifs-bacs-offrandes/": "/chapitres/origines-du-sacre/annexe-576-payer-pour-passer-variante/",
     "/chapitres/origines-du-sacre/577-naufrages-secours-divins-survivants/": "/chapitres/origines-du-sacre/580-naufrages-secours-divins-survivants/"
   },
-  "last_numbered_chapter": 588,
+  "last_numbered_chapter": 590,
   "preserved_source_sha256": {
     "chapitres/origines-du-sacre/576-bacs-peages-offrandes-passage.md": "b6704b3484d0c9e0c2e80ea9bdb7e0efa7c6b9723b9b9134f3b7e09c8357e3b1",
     "chapitres/origines-du-sacre/577-monnaies-funeraires-charon-preuves-archeologiques.md": "b4a8e672fb28c90811f531e385cde4bd03aa9f8809613ca6cc8da44e78adf55b",
     "chapitres/origines-du-sacre/582-attendre-signe-eclipse-sacrifices-decision.md": "2c5e6cd82626329b10e9d552865222ac4b13bbb4d185be48a3d75e4e4951b9e2",
     "chapitres/origines-du-sacre/583-interpreter-oracles-expertise-controverse.md": "fd7e90661dedf60ef58a98419ab15aa699cab8b634e97c2b7508a751774eebaa",
+    "chapitres/origines-du-sacre/589-restaurer-oracles-didymes-recommencements.md": "6d8ce0ed61a233a8aad25200d2ffbf4c79cc619f452568792299ba7dc287a790",
+    "chapitres/origines-du-sacre/590-images-perdues-modeles-restauration-divine.md": "d585a1bd7c1ae4ae9f59ef16e6096323bb9aa33b28630523a0769c955da84b81",
     "chapitres/origines-du-sacre/576-payer-pour-passer-tarifs-bacs-offrandes.md": "b35b3e2d52978e82a1b619e42c52b453efaa1d81e529034423a25a94f99eddc4",
     "chapitres/origines-du-sacre/577-naufrages-secours-divins-survivants.md": "48975f3c16928dffab96166435a0c04db000f1288bebbafe23968d4bb3fca0ed",
     "chapitres/origines-du-sacre/582-presages-depart-autorite-deliberation.md": "b850966b5b7af435898075d52c8de82add1197a2052722201ee928a5355a132c",
     "chapitres/origines-du-sacre/583-croire-prevoir-instituer-xunzi-ciceron-nietzsche.md": "59c8ab681e411633880f1292b49f0504b9ab096ece8c4669ddc9a4bd980faa81",
+    "chapitres/origines-du-sacre/589-questions-privees-dodone-famille-metiers-risque.md": "e6e98e6c645a74d36aef2e0703a440480c29f8e75ab71d76fde771831d8f622e",
+    "chapitres/origines-du-sacre/590-reponse-en-voyage-messagers-ambassades-transmission.md": "df9b70a3ea2a0e1821c22f61abd9c3516754057c7914fc171a832f57aa37c5e1",
     "chapitres/origines-du-sacre/annexe-576-payer-pour-passer-variante.md": "91507cab388ae767af004eb96a9162058d9314c554051db97262e532e904038e",
     "chapitres/origines-du-sacre/580-naufrages-secours-divins-survivants.md": "7bdf15b85439d398c4bae664ed1e3b751b6234581fc4486c9b3c011c8a8ead49"
   }
