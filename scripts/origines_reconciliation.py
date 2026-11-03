@@ -1,4 +1,4 @@
-"""Resolve documented ODS 576/577 aliases and parallel 582/583 without changing manuscripts.
+"""Resolve documented ODS 576/577 aliases and parallel 582/583/589/590 without changing manuscripts.
 
 Only named historical URLs are excluded from canonical numbering. All original
 sources remain byte-identical; every unknown duplicate still fails the builder.
@@ -15,6 +15,8 @@ CANONICAL = {
     577: BASE + "577-monnaies-funeraires-charon-preuves-archeologiques/",
     582: BASE + "582-attendre-signe-eclipse-sacrifices-decision/",
     583: BASE + "583-interpreter-oracles-expertise-controverse/",
+    589: BASE + "589-restaurer-oracles-didymes-recommencements/",
+    590: BASE + "590-images-perdues-modeles-restauration-divine/",
 }
 COMPLEMENTS = {
     BASE + "576-payer-pour-passer-tarifs-bacs-offrandes/": {
@@ -46,6 +48,22 @@ COMPLEMENTS = {
         "target": CANONICAL[583],
         "inline": True,
         "reason": "Étude philosophique intégrale conservée en complément. Le premier 583 (14:23:22 UTC) garde son numéro ; cette étude a été enregistrée à 14:32:20 UTC. Les deux commits du 3 novembre 2026 ont été vérifiés.",
+    },
+    BASE + "589-questions-privees-dodone-famille-metiers-risque/": {
+        "id": "ODS-COMPLEMENT-589",
+        "title": "Complément du chapitre 589 — Famille, métiers et commerce dans les questions de Dodone",
+        "canonical": CANONICAL[589],
+        "target": CANONICAL[589],
+        "inline": True,
+        "reason": "Étude complète et distincte conservée en complément. Le premier 589 sur Didymes a été créé à 17:21:20 UTC ; ce dossier de Dodone à 17:22:22 UTC le 3 novembre 2026. Aucun manuscrit n'est supprimé.",
+    },
+    BASE + "590-reponse-en-voyage-messagers-ambassades-transmission/": {
+        "id": "ODS-COMPLEMENT-590",
+        "title": "Complément du chapitre 590 — Messagers, ambassades et transmission des réponses oraculaires",
+        "canonical": CANONICAL[590],
+        "target": CANONICAL[590],
+        "inline": True,
+        "reason": "Étude complète et distincte conservée en complément. Le premier 590 sur la restauration d'images a été créé à 17:24:17 UTC ; ce dossier sur les ambassades à 17:24:38 UTC le 3 novembre 2026.",
     },
 }
 
@@ -220,7 +238,7 @@ def install(navigation, chapters):
                 p.string = "Les 48 dossiers historiques restent intégraux. Les études suivantes sont accessibles dans la liste continue ; les tomes et manuscrits archivés conservent leur propre ordre."
         page.write_text(str(doc), encoding="utf-8")
         report = {
-            "policy": "first_confirmed_commit_per_number; explicit_historical_aliases; recovered_shipwreck_study_580; parallel_582_583_as_full_complements",
+            "policy": "first_confirmed_commit_per_number; explicit_historical_aliases; recovered_shipwreck_study_580; parallel_582_583_589_590_as_full_complements",
             "canonical": {str(n): e["url"] for n, e in sorted(numbered.items())},
             "historical_aliases": COMPLEMENTS,
             "redirects": redirects,
@@ -231,7 +249,7 @@ def install(navigation, chapters):
         target.parent.mkdir(parents=True, exist_ok=True)
         target.write_text(json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
         verify_sources(snapshots)
-        print("ODS : collisions 576/577/582/583 résolues ; sources intégrales inchangées :", len(snapshots), "; dernier chapitre", max(numbered), flush=True)
+        print("ODS : collisions 576/577/582/583/589/590 résolues ; sources intégrales inchangées :", len(snapshots), "; dernier chapitre", max(numbered), flush=True)
 
     navigation.create_origins = reconciled_origins
     return snapshots
