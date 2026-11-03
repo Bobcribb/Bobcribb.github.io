@@ -118,3 +118,6 @@ L'identité du personnage éponyme, l'architecture chorale, les conditions du co
 [Volume XIX — *Taxiarchoi*](volume-019-eupolis-taxiarchoi.md) · [Théâtre grec](/theatre/) · [Recherche](/recherche/).
 
 *MYTHOS — conservation explicite des incertitudes documentaires.*
+
+
+**Suite de la série :** [Volume XXI — Aristophane, *Amphiaraos*](volume-021-aristophane-amphiaraos.md).
