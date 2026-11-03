@@ -152,3 +152,6 @@ La plupart des comédies perdues nous parviennent par des citations, des lexique
 ---
 
 **Suite éditoriale :** volume XXXIV, à définir après une nouvelle inspection du dépôt, du catalogue et des notices historiques.
+
+
+**Suite du cycle :** [Volume XXXIV — *Les Saisons*](volume-034-aristophane-horai.md).
