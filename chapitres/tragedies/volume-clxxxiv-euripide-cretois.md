@@ -220,7 +220,7 @@ Trois catégories règlent la lecture : **[A] attestation** signifie texte, tém
 
 ## 53. Iconographie I : Pasiphaé et l'enfant hybride
 
-[A] Une **coupe attique à figures rouges** attribuée au **Peintre de Settecamini**, conservée au **Département des monnaies, médailles et antiques de la BnF**, inventaire **De Ridder 1066**, figure Pasiphaé et le Minotaure ; la notice de **Dickinson College Commentaries** propose une datation au **IVe siècle av. J.-C.** et indique une image sous **CC BY**. Source : https://dcc.dickinson.edu/images/pasiphae-and-minotaur . [B] Cette iconographie témoigne de la réception du mythe, non de la scène d'Euripide ; son identification et sa datation doivent accompagner toute reproduction. Aucun fichier image n'est réhébergé ici.
+[A] Une **coupe étrusque à figures rouges** attribuée au **Peintre de Settecamini**, conservée au **Département des monnaies, médailles et antiques de la BnF**, inventaire **De Ridder 1066**, figure Pasiphaé et le Minotaure. Le **catalogue institutionnel de la BnF** la date de **375–350 av. J.-C.** et précise sa provenance de **Vulci** : https://medaillesetantiques.bnf.fr/ws/catalogue/app/collection/record/3998 . La notice de **Dickinson College Commentaries** décrit également l'image, mais la classe comme attique ; en cas de divergence d'attribution, le catalogue de l'institution conservatrice est privilégié. Notice secondaire : https://dcc.dickinson.edu/images/pasiphae-and-minotaur . [B] Cette iconographie témoigne de la réception du mythe, non de la scène d'Euripide ; son identification et sa datation doivent accompagner toute reproduction. Aucun fichier image n'est réhébergé ici.
 
 ## 54. Iconographie II : Thésée et le Minotaure
 
@@ -297,7 +297,7 @@ Pour constituer une édition critique complète, comparer : (1) **Kannicht, *TrG
 
 ### Iconographie contrôlée
 
-19. **BnF, De Ridder 1066**, coupe attique à figures rouges, Pasiphaé et le Minotaure, notice *Dickinson College Commentaries* (artiste, localisation, licence et datation) : https://dcc.dickinson.edu/images/pasiphae-and-minotaur .
+19. **BnF, De Ridder 1066**, **coupe étrusque à figures rouges**, Pasiphaé et le Minotaure, v. **375–350 av. J.-C.**, catalogue officiel : https://medaillesetantiques.bnf.fr/ws/catalogue/app/collection/record/3998 ; notice et photographie secondaires *Dickinson College Commentaries* : https://dcc.dickinson.edu/images/pasiphae-and-minotaur .
 20. **Metropolitan Museum of Art, 76.12.7**, skyphos du Peintre de Pan, Thésée et le Minotaure, v. 470–460 av. J.-C., notice institutionnelle : https://www.metmuseum.org/art/collection/search/244858 .
 21. **Berliner Papyrusdatenbank**, P. 13217, inventaire et indications de fac-similés : https://berlpap.smb.museum/00016/ .
 
