@@ -116,3 +116,6 @@ Rudolf Kassel et Colin Austin (éd.), *Poetae Comici Graeci*, V, Berlin/New York
 ---
 
 **Suite éditoriale :** volume XLIII, après contrôle du dépôt, des attestations et de l'indexation.
+
+
+**Suite du cycle :** [Volume XLIII — *Les Soldats*](volume-043-hermippos-stratiotai.md).
