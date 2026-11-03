@@ -311,3 +311,6 @@
 **Encyclopédie des tragédies grecques :** CLXXXV — *Thésée* → CLXXXVI — [*Égée*](/chapitres/tragedies/volume-clxxxvi-euripide-egee/) → **CLXXXVII — *Hippolyte voilé***. Renvoi distinct au **volume CLI — *Hippolyte porte-couronne*** : `/chapitres/tragedies/volume-cli-euripide-hippolyte/`. Renvois : Phèdre, Thésée, Artémis, Aphrodite, Trézène, pudeur, *aidôs*, accusation, preuve, reconnaissance, témoignages comiques.
 
 **Règle de conservation :** ne modifier ni volume ancien, ni manuscrit privé, ni source WordPress. Le prochain numéro envisageable est **CLXXXVIII (188)**, uniquement après une nouvelle inspection du dépôt pour éviter doublons et sauts. L'enregistrement de ce Markdown dans GitHub ne prouve pas à lui seul son affichage sur `https://bobmythos.fr/` : vérifier séparément workflow, HTML, catalogue, sitemap et HTTPS.
+
+
+<!-- publication-rebuild-trigger: 2026-11-03 -->
