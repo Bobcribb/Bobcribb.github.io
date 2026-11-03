@@ -265,3 +265,5 @@ Dans le cas d'*Eurōpē*, le risque majeur n'est pas l'ignorance du mythe : ce s
 ---
 
 **Suite de la série :** volume L théorique, à établir uniquement après vérification de `EDITORIAL_CONTINUITY.md`, du répertoire `chapitres/comedies/`, des notices historiques et de l'indexation. Aucune modification WordPress ni aucun brouillon privé.
+
+**Navigation actualisée — 3 novembre 2026 :** [Volume L — Hermippos, *Agamemnon* : origine, identité et vérité →](/chapitres/comedies/volume-050-hermippos-agamemnon/). Ce renvoi actualise le jalon théorique conservé ci-dessus.
