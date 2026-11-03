@@ -19,7 +19,7 @@ Le terme latin moderne d'« ex-voto », littéralement rattaché au vœu, est de
 
 L'épigraphiste identifie support, langue, alphabet, formule, date, dédicataire, nom et éventuellement ethnicon. Il vérifie si les lettres sont d'origine, ont été ajoutées, reprises ou effacées. La relation entre texte et objet est cruciale : une dédicace sur une base de statue dont la statue a disparu ne permet pas de restituer librement l'image perdue. Un ethnicon peut signaler l'origine civique d'un individu ; il ne dit pas forcément son itinéraire. Il faut également envisager les inscriptions mensongères, les réappropriations et les changements d'attribution.
 
-La mémoire religieuse s'écrit dans la pierre, mais l'écriture n'immunise pas contre la manipulation. Hérdotote fournit ici un exemple révélateur, qu'on ne doit pas traiter comme un simple détail anecdotique.
+La mémoire religieuse s'écrit dans la pierre, mais l'écriture n'immunise pas contre la manipulation. Hérodote fournit ici un exemple révélateur, qu'on ne doit pas traiter comme un simple détail anecdotique.
 
 ### 569.4. Hérodote I, 50–51 : Crésus et l'étiquette incertaine
 
