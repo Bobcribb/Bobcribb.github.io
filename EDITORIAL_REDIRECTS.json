@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "description": "Redirections éditoriales explicites. Les fichiers sources historiques restent intacts ; seules les cibles canoniques sont comptées dans le catalogue. Le contrôle des autres doublons demeure obligatoire.",
+  "redirects": {
+    "/chapitres/origines-du-sacre/576-payer-pour-passer-tarifs-bacs-offrandes/": "/chapitres/origines-du-sacre/annexe-576-payer-pour-passer-variante/",
+    "/chapitres/origines-du-sacre/577-naufrages-secours-divins-survivants/": "/chapitres/origines-du-sacre/580-naufrages-secours-divins-survivants/"
+  }
+}
