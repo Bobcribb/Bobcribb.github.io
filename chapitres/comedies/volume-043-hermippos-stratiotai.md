@@ -170,3 +170,6 @@ Une édition future devra contrôler directement les pages pertinentes de Coment
 ---
 
 **Suite éditoriale :** volume XLIV, après contrôle du dépôt et des sources.
+
+
+**Suite du cycle :** [Volume XLIV — *Les Porteurs*](volume-044-hermippos-phormophoroi.md).
