@@ -1,8 +1,8 @@
-# MYTHOS — Encyclopédie des tragédies grecques — Volume CLXXXVIII (188)
+# MYTHOS — Encyclopédie des tragédies grecques — Volume CCI (201)
 
 # Euripide, *Protésilas* (Πρωτεσίλαος) — Laodamie, le retour des morts et la puissance ambiguë des images
 
-**Série canonique :** Encyclopédie des tragédies grecques, **volume CLXXXVIII (188)**. **Volume immédiatement précédent :** [CLXXXVII — Euripide, *Hippolyte voilé*](/chapitres/tragedies/volume-clxxxvii-euripide-hippolyte-voile/). **Statut :** tragédie perdue, étude critique et philosophique, non adaptation théâtrale. **Références des fragments :** Richard Kannicht, *Tragicorum Graecorum Fragmenta* (*TrGF*), vol. 5, *Euripides*, 2004, **frr. 646a–657** (numéros éditoriaux, non vers continus). **Mise au point bibliographique :** 4 novembre 2026.
+**Série canonique :** Encyclopédie des tragédies grecques, **volume CCI (201)**. **Étude précédente du cycle euripidéen :** [CLXXXVII — Euripide, *Hippolyte voilé*](/chapitres/tragedies/volume-clxxxvii-euripide-hippolyte-voile/). **Statut :** tragédie perdue, étude critique et philosophique, non adaptation théâtrale. **Références des fragments :** Richard Kannicht, *Tragicorum Graecorum Fragmenta* (*TrGF*), vol. 5, *Euripides*, 2004, **frr. 646a–657** (numéros éditoriaux, non vers continus). **Mise au point bibliographique :** 4 novembre 2026.
 
 > **Avertissement scientifique et éditorial.** [A] désigne une donnée établie par un texte, un objet ou une édition identifiable ; [B] une reconstruction ou attribution débattue ; [I] une lecture intellectuelle contemporaine. Une tradition mythographique, une image romaine et le texte perdu d'Euripide ne constituent **jamais** trois versions identiques de la même scène. Aucun grec fictif, aucune scène antique inventée ni aucune traduction libre présentée comme littérale. Aucun contenu privé n'a été utilisé ou publié.
 
@@ -25,7 +25,7 @@
 
 ## I. Continuité éditoriale et identité du texte
 
-[A] Le volume CLXXXVII examinait la première version perdue de l'*Hippolyte*. Le présent volume ne reprend ni cette intrigue ni le *Bellérophon* étudié plus tôt dans la série. Il concerne exclusivement le **Protésilas d'Euripide**, œuvre indépendante. Sa place numérique CLXXXVIII correspond au premier numéro non occupé après CLXXXVII lors du contrôle du dépôt public. Un autre dossier historique sur le cycle troyen peut exister dans la bibliothèque MYTHOS ; il n'est pas remplacé.
+[A] Le volume CLXXXVII examinait la première version perdue de l'*Hippolyte*. Le présent volume ne reprend ni cette intrigue ni le *Bellérophon* étudié plus tôt dans la série. Il concerne exclusivement le **Protésilas d'Euripide**, œuvre indépendante. La référence canonique CCI (201) corrige une collision de publication avec le volume CLXXXVIII consacré au Lycurgue d’Eschyle ; l’ancienne adresse de Protésilas reste conservée par une redirection. Un autre dossier historique sur le cycle troyen peut exister dans la bibliothèque MYTHOS ; il n'est pas remplacé.
 
 [A] Les restes connus sont disposés sous les numéros **646a à 657 Kannicht**. Une série de numéros qui commence au milieu de l'alphabet des fragments ne permet ni de mesurer la longueur réelle de la tragédie ni de savoir si nous possédons son prologue complet. [B] Même si un fragment concerne Hermès, un autre l'image du mari et d'autres le langage de la fidélité, leur articulation en séquences successives doit être prouvée et non devinée.
 
@@ -302,6 +302,6 @@ Pour une édition diplomatique, il faudrait consulter à nouveau chaque témoin 
 
 **Œuvres et personnes :** Euripide ; *Protésilas* ; Laodamie ; Hermès psychopompe ; Acaste ; Podarcès ; Homère ; *Alceste* ; Orphée ; Pseudo-Apollodore ; Hygin ; Ovide ; Philostrate. **Concepts :** deuil ; image ; *eidôlon* ; *andrias* ; mort ; retour ; fidélité conjugale ; mimèsis ; reconnaissance ; héros ; sanctuaire ; art funéraire ; résistance de la mémoire.
 
-**Encyclopédie des tragédies grecques :** [CLXXXVII — *Hippolyte voilé*](/chapitres/tragedies/volume-clxxxvii-euripide-hippolyte-voile/) → **CLXXXVIII — *Protésilas***. Élargissements : *Iliade* ; *Alceste* ; monde grec et cultes héroïques ; études philosophiques (Platon, Hegel, Nietzsche). **Prochain volume envisageable : CLXXXIX (189)**, après vérification des nouveaux fichiers de la série.
+**Encyclopédie des tragédies grecques :** [CLXXXVII — *Hippolyte voilé*](/chapitres/tragedies/volume-clxxxvii-euripide-hippolyte-voile/) → **CCI — *Protésilas***. Élargissements : *Iliade* ; *Alceste* ; monde grec et cultes héroïques ; études philosophiques (Platon, Hegel, Nietzsche). **Prochain volume envisageable : CCII (202)**, après vérification des nouveaux fichiers de la série.
 
 **Statut de publication :** cette source Markdown est destinée au dépôt public MYTHOS. La présence du fichier dans GitHub doit être constatée par un commit ; l'affichage HTML, l'indexation et le site HTTPS demandent un contrôle séparé. WordPress et les archives privées ne doivent pas être modifiés.

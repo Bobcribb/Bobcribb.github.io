@@ -615,6 +615,23 @@
       "source_sha256": "22f4e3f85f0fafeeb49d104d3f690aa0eca5725335eb4c394739cebdc915a4cc",
       "corrected_source_sha256": "a41500848f484cb4e5472fd41a7df8e9d6b879ef53a56c1837332f1606c0b340",
       "title": "Seyla Benhabib : démocratie délibérative, cosmopolitisme et droits des étrangers"
+    },
+    {
+      "collection": "tragedies",
+      "old_number": 188,
+      "number": 201,
+      "old_roman": "CLXXXVIII",
+      "roman": "CCI",
+      "old_path": "chapitres/tragedies/volume-clxxxviii-euripide-protesilas.md",
+      "path": "chapitres/tragedies/volume-cci-euripide-protesilas.md",
+      "old_url": "/chapitres/tragedies/volume-clxxxviii-euripide-protesilas/",
+      "url": "/chapitres/tragedies/volume-cci-euripide-protesilas/",
+      "kept_path": "chapitres/tragedies/volume-clxxxviii-eschyle-lycurgue.md",
+      "first_commit": "501cbbc19396b423e2edb0e3884ca8b9391b6cb0",
+      "kept_first_commit": "a04323c0a97d27fec4a3d0a8c20ecd08052885bf",
+      "source_sha256": "4f4c674696f5d68a3e6c1cc279cc92b2d2d67d4e3c12592a25969450dd75cb75",
+      "corrected_source_sha256": "88fcaf64b38ab7e71ecd00a630d39a6f284489cf8de328f127a042803542a2dc",
+      "title": "Euripide, Protésilas — Laodamie, le retour des morts et la puissance ambiguë des images"
     }
   ]
 }
