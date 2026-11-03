@@ -121,3 +121,221 @@ Si les finalités humaines naissent dans des contextes historiques, doit-on conc
 
 Les valeurs démocratiques d'ouverture, de coopération et de développement des capacités prennent une place privilégiée parce qu'elles maintiennent la possibilité même de corriger les erreurs. Une objection demeure : la défense de ces valeurs ne peut être dérivée d'une procédure d'enquête neutre, car toute enquête présuppose déjà des choix concernant la vérité, le respect et le traitement des désaccords. Cette difficulté ouvre la discussion avec Habermas, Rawls et les critiques du pragmatisme, qui sera reprise en seconde partie du volume.
 
+# Deuxième partie — L'enquête en démocratie et les objections philosophiques
+
+### 19. Habermas et Dewey : deux manières de penser l'espace public
+
+Le volume CXX montrait que Habermas analyse les prétentions à la validité des actes de langage, l'agir communicationnel et les procédures de légitimation du droit. Dewey aborde la question par les conséquences indirectes des actions et par les enquêtes qui rendent ces conséquences visibles. Chez Habermas, la justification discursive est centrale ; chez Dewey, l'expérience collective qui découvre le problème et teste les réponses joue un rôle particulièrement marqué. Les deux perspectives attribuent une valeur démocratique à la communication sans confondre légitimité et simple popularité.
+
+Il faut résister à deux réductions. Habermas n'ignore pas les contextes sociaux et les institutions ; Dewey ne réduit pas la délibération à une technique de résolution d'incidents. Leur point de tension porte sur le statut des normes : une enquête peut-elle découvrir des critères de justice suffisants dans les conséquences vécues, ou faut-il distinguer des exigences de validité irréductibles aux résultats observés ? La réponse dépend aussi de ce qui compte comme expérience, comme preuve et comme personne concernée. Le présent volume complète donc le CXX plutôt qu'il ne reproduit l'histoire de l'espace public bourgeois déjà étudiée.
+
+### 20. Hegel : institutions, formation et expérience
+
+Dans les Principes de la philosophie du droit (1821), Hegel analyse les médiations de la famille, de la société civile et de l'État. L'individu ne se réalise pas dans l'isolement abstrait : il se forme dans des pratiques institutionnelles. Dewey conserve cette intuition relationnelle, tout en récusant l'idée que le développement historique doive s'achever dans une figure déterminée de l'État. La comparaison concerne donc les questions de formation et d'objectivation de la liberté, et non une équivalence entre système spéculatif et expérimentation.
+
+La Bildung (formation) hégélienne et la croissance deweyenne partagent l'idée que les capacités ne sont pas données indépendamment des relations sociales. Elles diffèrent cependant dans leur rapport aux finalités et au devenir. Chez Dewey, un dispositif pédagogique vaut à condition de pouvoir être corrigé et de renouveler les possibilités d'apprendre ; une institution n'est pas justifiée parce qu'elle occupe la place supposée nécessaire d'une architecture historique. Cette divergence fournit un critère de critique des bureaucraties qui se déclarent accomplies une fois pour toutes.
+
+### 21. Nietzsche : l'éducation, la vérité et le danger du conformisme
+
+Nietzsche, notamment dans ses textes sur l'éducation et dans la Généalogie de la morale (1887), invite à interroger les fonctions sociales des vérités proclamées et des idéaux égalitaires. Il serait erroné d'y lire une philosophie de l'enquête démocratique comparable à celle de Dewey. La confrontation est problématique : une école qui forme à l'accord collectif risque-t-elle de décourager l'exception, la création et le courage critique ? La réponse de Dewey consiste à valoriser la croissance des capacités et la diversité des expériences, mais la tension ne disparaît pas par définition.
+
+La généalogie nietzschéenne rappelle que les valeurs dites communes peuvent exprimer des hiérarchies invisibles. L'expérimentalisme invite, lui, à rendre leurs conséquences observables et à permettre leur contestation. Les deux démarches peuvent dialoguer sur la critique des habitudes, tout en divergeant sur l'évaluation morale de la démocratie. Cette comparaison est interprétative [H] ; aucune influence directe de Nietzsche sur les doctrines politiques de Dewey n'est postulée.
+
+### 22. Vernant, Détienne : comment construire un comparable ?
+
+Jean-Pierre Vernant examine la transformation des formes de pensée dans le monde grec en relation avec la cité, la publicité de la parole et les configurations sociales. Marcel Détienne demande de construire méthodiquement des comparables plutôt que d'affirmer que chaque civilisation serait incomparable ou que la Grèce posséderait seule les origines de la raison. Leur méthode est particulièrement utile pour ce volume : l'Athènes classique et la démocratie moderne ne partagent ni le même corps civique, ni les mêmes médias, ni les mêmes techniques administratives.
+
+On peut comparer des problèmes fonctionnels — apprentissage politique, statut de l'expertise, formation des jugements, conséquences des décisions — à condition de relever les différences de participants et de procédures. Ce que la Pnyx permettait à certains citoyens ne dit rien, à soi seul, de l'inclusion de l'ensemble des habitants de l'Attique. Ce que l'école de Dewey demande aux élèves ne décrit pas l'éducation réelle des Athéniens. La méthode comparative doit tenir ensemble les ressemblances conceptuelles et les discontinuités documentaires [H].
+
+### 23. Le Protagoras de Platon : distribuer la compétence politique
+
+Le Protagoras de Platon, 320c–322d, met dans la bouche du sophiste un récit où Prométhée fournit des techniques de survie tandis que Zeus fait distribuer aidôs et dikê aux humains afin de rendre possible la vie civique. La question de la répartition n'est pas identique à celle des savoir-faire spécialisés : les capacités nécessaires au lien politique sont pensées comme concernant tous les membres de la communauté. Le récit répond à l'objection initiale de Socrate, formulée à propos de la compétence politique et de la prise de parole dans l'Assemblée (319a–320b).
+
+Il faut distinguer trois niveaux : le récit attribué au personnage de Protagoras, les positions historiquement défendues par le Sophiste et l'usage dramatique que Platon fait du dialogue. Le premier est attesté [A] ; les deux autres demandent interprétation [I]. La comparaison avec Dewey porte sur une question commune : une compétence politique peut-elle être réservée à quelques experts lorsque ses conséquences concernent tous ? Le mythe ne constitue toutefois pas une doctrine de l'éducation expérimentale, et l'Athènes de Platon ne reconnaissait pas l'égalité politique de tous ses résidents.
+
+### 24. Aidôs et dikê : deux concepts mal traduits s'ils sont isolés
+
+Aidôs (αἰδώς) peut recouvrir retenue, pudeur, honte ou respect devant autrui, selon la situation ; dikê (δίκη) concerne justice, règle de droit ou décision judiciaire selon les corpus. Dans le mythe du Protagoras (322c–d), ces notions sont articulées à la possibilité de vivre ensemble et de régler les conflits. Les traduire respectivement par « empathie » et « démocratie » serait historiquement abusif : ces mots français portent des structures conceptuelles distinctes.
+
+Le rapprochement avec Dewey peut éclairer le rôle des dispositions non purement techniques dans la vie collective. Des individus maîtrisant des instruments puissants peuvent rester incapables de coordonner leurs activités si leurs relations ne comportent aucune possibilité de respect ou de jugement sur le juste. Cependant, le récit associe la participation à un ordre normatif garanti par Zeus, alors que l'expérimentalisme de Dewey se méfie d'une fondation transcendante. L'analogie met ainsi en relief une différence de justification, non une identité philosophique [H].
+
+### 25. Technê, epistêmê et savoir politique
+
+Technê (τέχνη) désigne selon les textes un art, une technique ou un savoir-faire transmissible ; epistêmê (ἐπιστήμη) peut désigner connaissance ou science, sans coïncider avec le sens moderne de laboratoire. Dans Protagoras 319a–322d, la répartition des savoirs spécialisés sert à problématiser la compétence politique. Chez Aristote, la différence entre savoir pratique et savoir de production sera réélaborée dans l'Éthique à Nicomaque VI. Ces termes ne doivent donc pas être uniformisés à travers plusieurs auteurs.
+
+Dewey n'abolit pas la spécialisation scientifique : il souhaite que les citoyens aient les ressources nécessaires pour contrôler les usages publics des expertises. L'exemple antique permet de formuler une objection toujours actuelle : la maîtrise d'une technique suffit-elle pour décider de ses effets collectifs ? La réponse deweyenne est négative. Les ingénieurs, économistes ou médecins peuvent décrire des possibilités et des risques ; ils ne sont pas, pour cette seule raison, seuls compétents pour déterminer quelle distribution des coûts et des bénéfices doit être imposée à tous [H].
+
+### 26. Aristote, Politique III, 11 : que sait une multitude ?
+
+Dans Politique III, 11, 1281a40–1281b21, Aristote discute l'idée que plusieurs personnes, même imparfaites prises individuellement, puissent porter ensemble un jugement supérieur à celui de quelques excellents citoyens. Les comparaisons avec le banquet collectif et les concours de spectacles invitent à penser une pluralité de contributions. Mais le texte appartient à un débat complexe sur les régimes et les conditions de la citoyenneté ; il ne constitue pas une défense simple et sans réserve de la démocratie moderne.
+
+Une question décisive demeure : la supériorité possible du grand nombre résulte-t-elle de la délibération ou de l'agrégation d'expériences individuelles ? Les chercheurs ne s'accordent pas entièrement. Antony Hatzistavrou, dans une étude publiée dans Apeiron 54/2 (2021), défend notamment une interprétation privilégiant l'agrégation des jugements fondés sur l'expérience plutôt qu'un mécanisme nécessaire de délibération collective. Cette controverse interdit d'attribuer sans précaution à Aristote une épistémologie de la démocratie identique à celle de Dewey. Leur rapport est une hypothèse comparative [H].
+
+### 27. Phronêsis : la prudence n'est pas une expertise mécanique
+
+Phronêsis (φρόνησις), dans Éthique à Nicomaque VI, 5 (autour de 1140a24–1140b30), renvoie à une capacité de délibération pratique sur ce qu'il convient de faire. Elle ne se réduit ni à une habileté calculatoire ni à une science portant sur des objets nécessaires. La distinction aristotélicienne entre connaissance théorique, production et action permet d'étudier le jugement politique comme activité dépendante des circonstances.
+
+Dewey partage l'attention aux situations concrètes, mais sa théorie d'enquête fait une place plus explicite à la recherche expérimentale, à la construction collective des problèmes et à la révision publique des hypothèses. Chez Aristote, la phronêsis est inséparable d'une conception de la vie bonne et d'une organisation hiérarchisée de la cité. Chez Dewey, elle devient comparable, à titre heuristique, à une intelligence des conséquences dans des sociétés pluralistes. Le transfert du mot « prudence » d'un auteur à l'autre ne doit pas masquer ces écarts [H].
+
+### 28. Dêmos, ekklêsia, boulê : un public limité et institué
+
+Dêmos (δῆμος) peut désigner le peuple, le corps civique ou une subdivision territoriale selon le contexte ; ekklêsia (ἐκκλησία) l'assemblée convoquée ; boulê (βουλή) le conseil ou, selon les usages, une délibération. La Boulè des Cinq-Cents préparait de nombreuses affaires traitées par l'Assemblée athénienne. Ces structures ne constituaient pas un système où toutes les personnes affectées par la politique pouvaient délibérer à égalité : femmes, esclaves et métèques étaient exclus des droits politiques ordinaires.
+
+L'enquête deweyenne permet de distinguer le corps qui décide du public qui subit les conséquences. Une mesure athénienne pouvait affecter les alliés tributaires de la cité ou des habitants exclus de la citoyenneté. Cette observation ne prouve pas que Dewey reprend une institution grecque ; elle met à l'épreuve l'idée que l'inclusion procédurale de quelques-uns suffit à produire la légitimité. L'égalité de parole interne à un corps civique peut coexister avec une exclusion structurelle [A pour les statuts ; H pour le rapprochement].
+
+### 29. Boulêusis et krisis : délibérer et juger
+
+Boulêusis (βούλευσις) est la délibération ; krisis (κρίσις), dans certains contextes, le jugement ou la décision. Les deux notions ne se substituent pas au mot français « démocratie ». Dans la philosophie pratique grecque, délibérer porte sur des actions qui peuvent être autrement, tandis que juger engage une décision ou une discrimination entre possibilités. La relation de ces opérations aux institutions varie selon les textes.
+
+Le modèle de Dewey oblige à compléter ce vocabulaire par une dimension empirique : comment les participants obtiennent-ils des données pertinentes et comment confrontent-ils leurs raisons aux effets de leur choix ? Les catégories grecques éclairent la structure de la décision, mais aucune correspondance terme à terme n'existe avec inquiry, public ou experimental intelligence. Le lexique a donc une fonction critique : il empêche qu'une traduction séduisante devienne une preuve de continuité historique.
+
+### 30. Doxa et expérience : l'opinion est-elle toujours inférieure au savoir ?
+
+Doxa (δόξα) peut signifier opinion, croyance ou réputation. Dans les dialogues platoniciens, sa place varie selon le problème considéré ; l'opposition avec epistêmê n'épuise pas les usages grecs. Dewey ne prétend pas que toute opinion spontanée du public vaut autant qu'une enquête scientifique. Il refuse plutôt que la compétence politique soit identifiée une fois pour toutes à une caste qui monopoliserait la définition des buts collectifs.
+
+La distinction utile se situe entre opinion non éprouvée, jugement construit par l'expérience et connaissance spécialisée exposée à la critique. Les citoyens possèdent parfois une connaissance située des conséquences des politiques que les experts n'observent pas. Mais cette expérience elle-même peut être partiale ou trompeuse et doit être soumise à confrontation. Ni l'autorité technique ni le vécu individuel ne suffisent isolément. L'enquête publique est le processus par lequel ces ressources hétérogènes peuvent corriger leurs insuffisances.
+
+### 31. Thucydide : le débat de Mytilène et les limites de l'argument
+
+Dans La Guerre du Péloponnèse III, 36–49, Thucydide présente les discours de Cléon et de Diodote sur la décision de punir Mytilène après la révolte. Diodote défend une analyse des conséquences de la décision qui ne se confond pas avec une justification fondée sur la clémence. L'épisode est particulièrement pertinent pour Dewey : une assemblée peut revenir sur un choix lorsqu'elle reconsidère ses effets probables. Mais les discours sont composés selon la méthode historiographique exposée en I, 22, et non transcrits sur le vif.
+
+Les enjeux de l'épisode sont impériaux et coercitifs. Les habitants de Mytilène ne participent pas comme pairs à la délibération athénienne qui déterminera leur sort. Il faut donc distinguer la qualité d'un débat interne de la justice de sa structure d'inclusion. Une décision peut s'améliorer sur le plan de l'analyse stratégique tout en demeurant gravement problématique par le traitement réservé à des tiers. C'est précisément le genre de divergence entre conséquences, droits et communauté concernée que les comparaisons Dewey–Benhabib rendent visibles [H].
+
+### 32. Aristophane : la critique du débat sans enquête
+
+Le volume XXIV du cycle présentait la critique politique d'Aristophane dans Les Cavaliers, Les Guêpes, Les Nuées, Les Oiseaux et L'Assemblée des femmes. Pour éviter la répétition, on retient ici un seul problème transversal : comment la parole collective peut-elle être exposée à la flatterie, aux routines et aux faux savoirs ? Dans Les Cavaliers, la rivalité des orateurs et leur rapport au personnage de Démos offrent une satire des effets de séduction. Dans Les Nuées, la caricature de l'enseignement intellectuel met en crise l'autorité de certains discours savants.
+
+Ces comédies ne fournissent ni statistiques de l'opinion athénienne ni théorie explicite de Dewey avant la lettre. Elles permettent de tester une objection contre l'optimisme pédagogique : produire davantage de discours ne produit pas nécessairement une meilleure enquête. Il faut aussi des pratiques de preuve, des possibilités de contradiction et des institutions qui ne récompensent pas uniquement la virtuosité oratoire. Les genres comique, philosophique et théorique doivent rester séparés [A pour les œuvres ; H pour l'application].
+
+### 33. Paideia : éducation, citoyenneté et exclusion
+
+Paideia (παιδεία) peut désigner l'éducation, la formation ou la culture d'une personne, selon l'époque et l'auteur. Dans la cité classique, les opportunités éducatives différaient fortement selon le statut, le genre et les ressources. Aristote, Politique VIII, 1 (1337a), défend une réflexion sur l'éducation liée au régime politique, mais son horizon n'est pas celui d'un accès universel à l'école publique contemporaine.
+
+Democracy and Education, chap. VII, critique notamment l'idée d'une formation qui répartirait définitivement les individus entre classes fonctionnelles fixes. La comparaison avec la République de Platon doit tenir compte de son projet philosophique de classification des fonctions, que Dewey discute expressément dans le chapitre concerné. Une politique scolaire démocratique ne peut être évaluée seulement par la cohérence de son programme ; elle doit examiner qui y a accès, qui peut se réorienter et quelles aptitudes sont négligées parce qu'elles ne servent pas immédiatement l'économie [H].
+
+### 34. La participation du grand nombre : force et limites
+
+Le mythe du Protagoras et la discussion aristotélicienne de la multitude permettent d'ouvrir deux hypothèses distinctes. La première affirme que la vie politique suppose des dispositions largement distribuées ; la seconde, que des expériences partielles peuvent produire collectivement une ressource cognitive. Dewey va plus loin dans une direction contemporaine : la formation d'un public exige une enquête organisée, une communication large et des institutions capables d'examiner les conséquences des décisions.
+
+Ces propositions ne doivent pas être fusionnées en une théorie unique de la sagesse populaire. La distribution d'une compétence morale n'assure pas une information suffisante ; la somme des jugements individuels ne remplace pas nécessairement leur confrontation ; la discussion libre ne garantit pas le caractère juste des frontières du groupe. Une démocratie qui veut apprendre doit travailler simultanément sur l'éducation, l'infrastructure de l'information et les droits des personnes affectées. Telle est la conclusion comparative, non une doctrine attestée d'un auteur antique [H].
+
+### 35. Les dangers d'une démocratie réduite à l'expertise
+
+La technocratie se justifie souvent par la complexité de problèmes que le public ne maîtriserait pas. Dewey admet que cette complexité est réelle ; il refuse d'en conclure que les choix sociaux peuvent être délégués sans contrôle. Le spécialiste peut évaluer les effets probables d'une politique dans son domaine, mais ne dispose pas automatiquement de la légitimité nécessaire pour imposer les risques qu'elle fait subir à d'autres. La transparence sur les hypothèses et sur l'incertitude est une exigence méthodologique, non un simple exercice de communication.
+
+La critique inverse doit également être prise au sérieux : la participation sans institutions d'expertise peut rendre les décisions plus vulnérables aux erreurs collectives. Une théorie démocratique robuste ne choisit donc pas entre peuple et compétence comme deux souverainetés exclusives. Elle conçoit des mécanismes de coopération contrôlable, où le savoir technique éclaire la discussion et où les acteurs concernés peuvent contester les finalités, les coûts et les critères d'évaluation.
+
+### 36. Inégalités matérielles et compétence civique
+
+Un public ne peut enquêter effectivement si ses membres manquent de temps, de sécurité matérielle, d'accès aux données ou de formation. Cette observation relie Dewey à Nancy Fraser, sans dissoudre sa philosophie dans la théorie de la parité de participation. La redistribution peut modifier les possibilités réelles d'accès à l'espace public ; la reconnaissance des savoirs situés peut corriger la dévalorisation d'expériences ; la représentation permet de convertir des griefs en décisions contestables.
+
+Il reste des tensions. Un programme d'éducation civique peut améliorer la compétence tout en renforçant le contrôle d'une élite sur les contenus. Des ateliers participatifs peuvent afficher une ouverture tout en ne touchant que les personnes déjà disponibles et instruites. Une politique expérimentale doit donc examiner non seulement ses conclusions, mais ses procédures de recrutement, de traduction, de rémunération éventuelle et de traitement des personnes absentes. L'égalité n'est pas seulement une condition d'entrée ; elle doit être suivie dans le cours de l'enquête.
+
+### 37. La critique du progressisme automatique
+
+Il serait tentant de faire de Dewey le philosophe d'un progrès moral garanti par la science et l'école. Or son expérimentation n'a de sens que dans un monde où les résultats peuvent décevoir, où des crises désorganisent les habitudes et où les institutions peuvent résister à la correction. La confiance dans l'intelligence collective est une orientation pratique, non une loi de l'histoire. Les défaites démocratiques du XXe siècle interdisent de déduire un avenir heureux du seul développement des technologies.
+
+Le sens de la croissance doit également être discuté : davantage de production, d'équipement ou de données ne signifie pas nécessairement une amélioration de la vie commune. Les critères de réussite doivent être examinés par les personnes affectées, avec attention aux dommages irréversibles et aux intérêts des générations futures. La fidélité philosophique à Dewey exige donc une capacité d'autocritique de ses propres héritiers plutôt qu'une célébration du progrès éducatif comme processus inévitable.
+
+### 38. Art, imagination et dimensions non techniques de l'enquête
+
+Art as Experience (1934) montre que l'expérience humaine ne s'épuise pas dans des mesures et des déductions. L'imagination permet de percevoir autrement une situation et d'en faire apparaître des possibles. Dans une démocratie, les récits, représentations et pratiques artistiques peuvent rendre sensibles des conséquences que les indicateurs seuls ne font pas comprendre. Cette dimension n'autorise pas à substituer l'émotion à la preuve ; elle rappelle que le choix des problèmes dépend aussi de ce qui devient perceptible et partageable.
+
+La tragédie grecque, les récits mythiques et la comédie peuvent jouer un rôle analogue pour la recherche historique contemporaine : ils rendent visibles des conflits de valeurs sans fournir des protocoles administratifs. Une lecture de l'Antigone de Sophocle peut aider à penser la tension entre obligation et décision publique, mais ne transforme pas la pièce en manifeste du pragmatisme. L'imagination démocratique doit être étudiée à la fois comme ressource critique et comme possibilité de manipulation [H].
+
+### 39. Le défi du pluralisme et du désaccord persistant
+
+L'enquête peut réduire les disputes causales en corrigeant des données, mais elle ne transforme pas tous les conflits de valeurs en problèmes techniques. Deux groupes peuvent partager un diagnostic empirique et rester en désaccord sur la justice de ses conséquences. Le pragmatisme doit alors fournir des mécanismes qui permettent de coexister sans présupposer l'unanimité. La pluralité de publics, les règles de décision et la protection des minorités deviennent des questions décisives.
+
+C'est sur ce point que le dialogue avec Habermas, Mouffe et Rancière est particulièrement instructif. Habermas insiste sur la justification, Mouffe sur la persistance de l'antagonisme transformé en conflit démocratique, Rancière sur les disputes quant aux sujets capables de parler politiquement. Dewey demande ce que les personnes peuvent apprendre en traitant ensemble les conséquences qui les affectent. Aucune de ces théories ne remplace à elle seule les garanties juridiques d'un pluralisme viable.
+
+### 40. L'échelle : des publics locaux aux conséquences mondiales
+
+Une difficulté majeure de The Public and Its Problems tient à l'écart entre l'expérience locale et les conséquences étendues. Cette question s'est intensifiée avec les chaînes de production mondiales, les systèmes financiers et les enjeux écologiques, mais ses structures conceptuelles sont déjà présentes en 1927. Un public ne devient pas mondial uniquement parce qu'un problème franchit les frontières : il doit encore construire des canaux d'information, de représentation et de responsabilité.
+
+Cette difficulté rejoint les interrogations du volume CXIX sur l'appartenance chez Benhabib. Ceux qui supportent les conséquences d'une décision n'ont pas toujours la nationalité leur permettant d'intervenir dans son élaboration. La théorie de Dewey suggère un critère fonctionnel d'identification des personnes concernées, mais laisse ouverte la question de leur représentation institutionnelle. Les deux perspectives se complètent sans fournir une constitution mondiale prête à l'emploi.
+
+### 41. Proposition d'un modèle de lecture historique
+
+Pour comparer deux processus politiques éloignés, on peut suivre cinq questions de recherche : quelles conséquences matérielles motivent la décision ; comment les personnes affectées sont-elles identifiées ; quelles sources permettent de comprendre le problème ; quelles procédures autorisent objections et révisions ; quelles traces permettent d'apprécier les résultats ? Ce modèle est une proposition de recherche contemporaine [I], et non une méthode attribuée littéralement à Dewey ou aux historiens de l'Antiquité.
+
+Appliqué au débat athénien sur Mytilène, il oblige à distinguer les discours composés par Thucydide, les décisions rapportées et les populations sans voix. Appliqué à l'école américaine du début du XXe siècle, il conduit à documenter les institutions réelles et les classes sociales concernées, plutôt qu'à prendre les manifestes pédagogiques pour des descriptions objectives de tous les établissements. Il rend ainsi la comparaison critique et falsifiable : les ressemblances ne sont retenues que lorsqu'elles survivent à l'examen des sources.
+
+### 42. Conclusion générale : la démocratie comme puissance de révision
+
+Le volume CXXI soutient que la démocratie est, chez Dewey, à la fois une exigence institutionnelle, une manière de vivre ensemble et une méthode de connaissance publique. L'élection n'en est pas la totalité ; l'école n'en est pas seulement l'antichambre ; l'expertise n'en possède pas le monopole. Les publics se forment autour de conséquences indirectes et découvrent, dans l'enquête, des possibilités de transformer les conditions communes. Cette conception fait des erreurs reconnues et des décisions corrigées des événements normaux de la vie politique.
+
+La confrontation avec les textes grecs a montré des correspondances limitées : distribution de compétences civiques dans le Protagoras, jugement collectif discuté par Aristote, retour sur une décision impériale chez Thucydide, satire des faux savoirs chez Aristophane. Aucune de ces sources ne contient une théorie de Dewey en germe. La comparaison montre au contraire que la qualité d'une délibération dépend des pratiques de preuve, des mécanismes de révision et des frontières de la communauté. Après l'espace public chez Habermas, MYTHOS fait ainsi porter l'analyse sur la fabrication collective de connaissances et les institutions qui rendent l'apprentissage démocratique possible.
+
+# Sources, bibliographie et contrôle philologique
+
+## A. Textes de John Dewey : éditions originales et renvois
+
+- John Dewey, *The School and Society*, Chicago, University of Chicago Press, 1899.
+- John Dewey, *Democracy and Education: An Introduction to the Philosophy of Education*, New York, Macmillan, 1916, notamment chapitres IV, VII, XI, XII, XIX et XXIII.
+- John Dewey, *Human Nature and Conduct*, New York, Henry Holt, 1922.
+- John Dewey, *Experience and Nature*, Chicago, Open Court, 1925.
+- John Dewey, *The Public and Its Problems*, New York, Henry Holt, 1927, chap. I « Search for the Public », II « Discovery of the State », III « The Democratic State », IV « The Eclipse of the Public », V « Search for the Great Community », VI « The Problem of Method ».
+- John Dewey, *The Quest for Certainty*, New York, Minton, Balch, 1929.
+- John Dewey, *Individualism, Old and New*, New York, Minton, Balch, 1930.
+- John Dewey, *Art as Experience*, New York, Minton, Balch, 1934.
+- John Dewey, *Liberalism and Social Action*, New York, G. P. Putnam's Sons, 1935.
+- John Dewey, *Logic: The Theory of Inquiry*, New York, Henry Holt, 1938, notamment chapitre VI « The Pattern of Inquiry ».
+- John Dewey, « Creative Democracy—The Task Before Us », 1939, repris dans *The Later Works*, vol. 14, et dans *America's Public Philosopher*, éd. Eric Thomas Weber, Columbia University Press, 2021.
+- **Contrôle des éditions :** les tomes *The Middle Works of John Dewey* et *The Later Works of John Dewey* édités par Jo Ann Boydston fournissent une pagination critique différente des premières éditions. Aucun numéro de page isolé n'est ici présenté comme valable pour toutes.
+
+## B. Sources primaires grecques
+
+- Platon, *Protagoras*, 319a–320b (problème de la compétence politique), 320c–322d (récit prométhéen et distribution de l'aidôs et de la dikê), 322d–328d (suite de l'argumentation).
+- Platon, *République*, II–IV (formation de la cité et des fonctions) ; *Gorgias* (rhétorique et justification) : textes comparés, non témoignages directs sur les institutions.
+- Aristote, *Politique*, III, 1, 1275a (citoyenneté) ; III, 11, 1281a40–1281b21 (jugement de la multitude) ; VIII, 1, 1337a (éducation et régime).
+- Aristote, *Éthique à Nicomaque*, VI, 5, 1140a24–1140b30 (phronêsis).
+- Thucydide, *La Guerre du Péloponnèse*, I, 22 (méthode des discours), III, 36–49 (débat de Mytilène).
+- Aristophane, *Les Cavaliers* (424 av. n. è.) et *Les Nuées* (version représentée en 423 puis remaniements dans le texte transmis) : satire de la parole et de l'enseignement, sans réduction à une chronique documentaire.
+- Les textes grecs sont cités par leurs repères canoniques ; la traduction peut déplacer les nuances. Les expressions grecques ne sont pas assimilées sans examen aux catégories modernes de démocratie ou d'enquête.
+
+## C. Bibliographie secondaire et comparaisons
+
+- Matthew Festenstein, « Dewey's Political Philosophy », *Stanford Encyclopedia of Philosophy*, dernière révision substantielle le 9 février 2023.
+- Steven Fesmire et collaborateurs, entrée « John Dewey », *Stanford Encyclopedia of Philosophy*, mise à jour du 31 mars 2024.
+- Robert B. Westbrook, *John Dewey and American Democracy*, Ithaca, Cornell University Press, 1991.
+- Walter Lippmann, *Public Opinion*, New York, Harcourt, Brace, 1922 ; *The Phantom Public*, New York, Harcourt, Brace, 1925.
+- Norbert Grube, « A 'New Republic'? The debate between John Dewey and Walter Lippmann », *Encounters in Theory and History of Education*, vol. 10, 2009, DOI 10.24908/eoe-ese-rse.v10i0.2137.
+- Robert B. Westbrook, « Creative Democracy—the Task Still before Us », *Hastings Center Report*, vol. 51, supplément 1, 2021, p. S29–S35, DOI 10.1002/hast.1226.
+- Antony Hatzistavrou, « Aristotle on the Authority of the Many: Politics III 11, 1281a40–b21 », *Apeiron*, vol. 54, no 2, 2021, p. 203–232, DOI 10.1515/apeiron-2018-0093.
+- G. W. F. Hegel, *Grundlinien der Philosophie des Rechts*, 1821 ; Friedrich Nietzsche, *Zur Genealogie der Moral*, 1887.
+- Jean-Pierre Vernant, *Les Origines de la pensée grecque*, 1962 ; Marcel Détienne, *Comparer l'incomparable*, 2000.
+- Jürgen Habermas, *Faktizität und Geltung*, 1992 ; Nancy Fraser, « Rethinking the Public Sphere », *Social Text*, 25/26, 1990 ; Seyla Benhabib, *The Rights of Others*, 2004.
+- Pour les approches de la démocratie grecque, consulter aussi Josiah Ober, *Mass and Elite in Democratic Athens*, 1989, et Nicole Loraux, *La Cité divisée*, 1997.
+
+## D. Liens de vérification documentaire (consultés le 3 novembre 2026)
+
+1. **Source primaire intégrale**, Dewey, *The Public and Its Problems* : https://www.gutenberg.org/files/71000/71000-h/71000-h.htm (table des matières et six chapitres).
+2. **Source primaire intégrale**, Dewey, *Democracy and Education* : https://www.gutenberg.org/files/852/852-h/852-h.htm (table des matières, chap. VII, XIX, XXIII).
+3. **Synthèse universitaire**, *Stanford Encyclopedia of Philosophy*, « Dewey's Political Philosophy » : https://plato.stanford.edu/entries/dewey-political/
+4. **Synthèse universitaire**, *Stanford Encyclopedia of Philosophy*, « John Dewey » : https://plato.stanford.edu/entries/dewey/
+5. **Source antique et commentaire**, *Stanford Encyclopedia of Philosophy*, « Protagoras », section 5.1 : https://plato.stanford.edu/archives/spr2024/entries/protagoras/
+6. **Texte antique**, Platon, *Protagoras* 322a–322e (texte et traduction à contrôler dans une édition critique pour toute citation future) : https://adfonteslibrary.org/work-plato-protagoras
+7. **Étude spécialisée**, Hatzistavrou sur *Politique* III, 11 : https://doi.org/10.1515/apeiron-2018-0093
+8. **Analyse du débat Lippmann–Dewey**, Grube : https://doi.org/10.24908/eoe-ese-rse.v10i0.2137
+9. **Discussion contemporaine de Dewey**, Westbrook : https://doi.org/10.1002/hast.1226
+
+## E. Matrice critique : faits, interprétations, hypothèses
+
+**[A] Faits attestés.** La chronologie des ouvrages de Dewey ; les intitulés des chapitres de 1916 et 1927 ; les passages antiques et leur contexte littéraire ; les statuts civiques athéniens attestés ; l'existence des débats interprétatifs contemporains sur Aristote.
+
+**[I] Interprétations argumentées.** La démocratie comme organisation de l'enquête publique ; la critique d'une expertise politiquement non responsable ; la fonction de l'éducation comme formation d'habitudes de coopération ; la relation non réductible entre conséquences empiriques et jugement de justice.
+
+**[H] Comparaisons hypothétiques.** Les rapprochements entre enquête deweyenne, sagesse collective chez Aristote, distribution des compétences dans le *Protagoras*, réexamen du cas de Mytilène et satire aristophanienne. Aucune ressemblance n'établit une influence directe de la Grèce sur la conception de Dewey de la « grande communauté ».
+
+**Précautions.** La supériorité cognitive de la multitude dans *Politique* III, 11 fait l'objet de lectures concurrentes : elle n'est pas partout interprétée comme fruit d'une discussion délibérative. Les discours de Thucydide sont des reconstructions historiographiques. Les positions prêtées à Protagoras à partir du dialogue de Platon requièrent des précautions d'attribution. Les œuvres comiques ne sont pas des comptes rendus verbatim de l'Assemblée.
+
+## F. Continuité éditoriale
+
+**Volume précédent :** CXX — Jürgen Habermas, espace public, agir communicationnel et démocratie délibérative.
+
+**Présent volume :** CXXI — John Dewey, démocratie comme enquête publique, éducation et expérimentation collective.
+
+**Prochain sujet possible, à vérifier dans le dépôt pour exclure les répétitions :** CXXII — Charles S. Peirce, communauté des enquêteurs, faillibilisme et vérité. Une telle suite approfondirait les conditions logiques de la recherche collective plutôt que de reproduire les études déjà consacrées à Arendt, Fraser, Honneth ou Habermas.
+
+**Aucun contenu privé n'a été inséré, aucun texte existant n'a été supprimé, et les collisions de numérotation des anciens volumes n'ont pas été corrigées sans audit.**
