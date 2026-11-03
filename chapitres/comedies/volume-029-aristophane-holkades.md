@@ -138,3 +138,6 @@ Le dossier doit être mis en relation avec *Babylōnioi*, dont les témoignages 
 ---
 
 **Suite éditoriale :** volume XXX, à déterminer par nouvelle inspection des chapitres, du catalogue et des notices historiques.
+
+
+**Suite du cycle :** [Volume XXX — *Les Lemniennes*](volume-030-aristophane-lemniai.md).
