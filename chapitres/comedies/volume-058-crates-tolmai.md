@@ -280,4 +280,50 @@ La prochaine révision philologique devrait : **(1)** photographier ou consulter
 
 Deux occurrences dans une compilation savante — l'une orientée vers le manger, l'autre vers le chanter — suffisent à ouvrir un champ historique, mais non à restaurer une comédie. Les *Tolmai* montrent à quel point une œuvre perdue demeure présente par **les usages que d'autres ont faits de ses mots**. L'audace critique ne consiste pas à combler les trous avec des répliques vraisemblables : elle consiste à penser ce qui est conservé, à dater les interprétations, à comparer sans assimiler, puis à donner ouvertement sa place à l'imagination contemporaine.
 
+
+## Complément critique — Du fragment à l'archive de la performance
+
+### XXXV. [A/B] Deux passages d'Athénée, deux intérêts de citation
+
+Les deux lieux de transmission signalés pour les *Tolmai* — Athénée VI, 247f–248a et XIV, 619a — doivent être étudiés séparément avant toute tentative de les rapprocher. Le livre VI du *Banquet des savants* développe notamment des discussions autour des conditions matérielles de la vie, de l'alimentation et des relations de dépendance ; le livre XIV réserve une place importante aux pratiques musicales et aux divertissements. **Ces contextes appartiennent au projet d'Athénée**, non nécessairement à l'architecture de la pièce de Cratès. Le choix des extraits peut refléter l'intérêt du compilateur plutôt que les proportions thématiques de la comédie originale.
+
+### XXXVI. [B] Une critique de l'effet de montage
+
+Lorsque deux fragments sont placés côte à côte dans une édition moderne, le lecteur peut être tenté de leur inventer une continuité : d'abord le repas, ensuite le chant, enfin une scène de fête. Rien ne garantit cette succession. La numérotation des fragments organise les témoignages pour la consultation ; elle ne restitue pas un ordre scénique. Une reconstitution qui enchaînerait les deux passages doit annoncer que cette transition est une invention. Cette précaution est particulièrement importante pour les œuvres dont les fragments sont transmis par une même compilation savante.
+
+### XXXVII. [B] L'audace n'est pas une valeur univoque
+
+Le titre *Tolmai* permet d'examiner la pluralité du terme grec *tolma* : audace, hardiesse, capacité d'oser, mais aussi témérité selon le contexte et le jugement porté sur l'acte. Une lecture morale qui ferait des « Audaces » une célébration du courage ou une condamnation de l'imprudence choisirait à l'avance ce que le texte perdu ne permet pas de décider. L'analyse doit donc considérer **qui qualifie l'acte d'audacieux**, au bénéfice de qui et avec quelles conséquences.
+
+### XXXVIII. [B] Travail, subsistance et voix absente
+
+Les allusions à la subsistance et au service peuvent éclairer les rapports entre les besoins matériels et la hiérarchie sociale. Mais les personnes dont le travail rend le repas possible ne sont pas nécessairement celles qui parlent dans le fragment transmis. L'historien doit distinguer la présence d'un objet alimentaire, la présence d'un travailleur et l'expression d'un point de vue sur le travail. La première ne prouve ni la deuxième ni la troisième. Une interprétation attentive aux dépendances sociales peut être féconde sans se présenter comme un programme politique certain de Cratès.
+
+### XXXIX. [B] La musique et l'échelle de l'interprétation
+
+Un chant de baigneurs, conservé dans une tradition érudite, peut renvoyer à une pratique sonore, à une plaisanterie ou à une formule reconnaissable par le public antique. Sans le contexte dramatique, on ignore si le chant était interprété sur scène, évoqué dans un dialogue ou seulement mentionné. Les analogies avec d'autres représentations musicales grecques doivent rester externes. Ni partition, ni chorégraphie, ni identité du chanteur ne peut être déduite de la seule citation.
+
+### XL. [C] Scène originale IV — Le conservateur des fragments
+
+*Création contemporaine entièrement distincte de l'œuvre de Cratès.*
+
+**LE CONSERVATEUR** — Voici deux morceaux d'une comédie. Je vais les réunir.
+
+**LA PHILOLOGUE** — Comment sais-tu qu'ils se suivaient ?
+
+**LE CONSERVATEUR** — L'un parle de nourriture et l'autre de chant. Après le repas, on chante.
+
+**LA PHILOLOGUE** — Et après une conjecture, que fait-on ?
+
+**LE CONSERVATEUR** — On écrit une belle scène.
+
+**LA PHILOLOGUE** — Alors écris-la, mais signe-la de ton nom.
+
+**LE CHŒUR IMAGINAIRE** — Il avait trouvé deux fragments et voulait déjà trois actes.
+
+### XLI. Règle de vérification pour une future édition bilingue
+
+Pour toute édition grec-français des *Tolmai*, consigner séparément : le passage exact d'Athénée, la leçon grecque, les variantes et restitutions, l'attribution à Cratès, le numéro de fragment dans PCG IV, les commentaires de Serena Perrone dans *Fragmenta Comica* 2, et la traduction adoptée. La consultation d'un index ou d'une traduction ancienne permet de repérer un passage, mais **ne vaut pas collation complète du grec**. Le présent complément n'ajoute aucune citation antique prétendument littérale ni aucun fragment nouveau.
+
+
 **Continuité :** [volume LVII — *Metoikoi*](/chapitres/comedies/volume-057-crates-metoikoi/) · [catalogue des comédies](/theatre/) · **prochain numéro théorique LIX**, soumis à nouvelle vérification de la branche `main`, des notices historiques et du registre. Aucun contenu privé ou WordPress ne fait partie de ce volume.
