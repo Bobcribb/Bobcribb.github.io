@@ -268,3 +268,6 @@ Le principe de cette encyclopédie consiste à faire une place aux créations en
 ---
 
 **Continuité :** le prochain volume sera déterminé uniquement après inspection du dépôt GitHub et du catalogue. Cette page ne remplace aucune notice historique et ne modifie pas WordPress.
+
+
+**Suite du cycle :** [Volume XLII — *Les Moires*](volume-042-hermippos-moirai.md).
