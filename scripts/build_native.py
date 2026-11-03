@@ -64,7 +64,9 @@ def copy_repository():
                 if file.startswith(".") and file != ".nojekyll":
                     continue
                 target=OUT / rel / file
-            elif file == "index.html" and (not rel.parts or (rel.parts[0] not in EXCLUDED)):
+            elif file.lower().endswith(".html") and (not rel.parts or (rel.parts[0] not in EXCLUDED)):
+                # Conserver aussi les pages HTML historiques dont le nom n'est
+                # pas index.html (anciens portails, corpus et dossiers migrés).
                 target=OUT / rel / file
                 count += 1
             elif not rel.parts and file in ("404.html", "CNAME", ".nojekyll", "robots.txt", "sitemap.xml", "search.json"):
