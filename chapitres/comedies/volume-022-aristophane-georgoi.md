@@ -114,3 +114,6 @@ Une comédie perdue est un objet à plusieurs couches : le texte ancien disparu,
 ---
 
 [Volume XXI — *Amphiaraos*](volume-021-aristophane-amphiaraos.md) · [Théâtre grec](/theatre/) · [Recherche](/recherche/)
+
+
+[Volume XXIII — *Anagyros*](volume-023-aristophane-anagyros.md)
