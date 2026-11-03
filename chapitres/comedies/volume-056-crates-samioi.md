@@ -7,7 +7,7 @@ description: "Les Samiens de Cratès : fragments 31–35 K.-A., Samos et l'empir
 
 ## Cratès, *Samioi* (Σάμιοι) — Les Samiens : cité, empire, identité et guerre des signes
 
-**Parcours :** [← Volume LV — Cratès, *Les Jeux*](/chapitres/comedies/volume-055-crates-paidiai/) · [Théâtre grec](/theatre/) · [Études philosophiques](/philosophie/) · [Index intégral](/catalogue/).
+**Parcours :** [← Volume LV — Cratès, *Les Jeux*](/chapitres/comedies/volume-055-crates-paidiai/) · [Volume LVII → Cratès, *Les Métèques*](/chapitres/comedies/volume-057-crates-metoikoi/) · [Théâtre grec](/theatre/) · [Études philosophiques](/philosophie/) · [Index intégral](/catalogue/).
 
 > **Discipline des preuves.** **[A]** : titre, témoin ou fragment transmis et identifié, ou source antique expressément extérieure à la pièce. **[B]** : contextualisation, hypothèse philologique, lecture philosophique ou reconstitution discutée. **[C]** : dialogue nouveau, composé pour MYTHOS. Le passage d'une catégorie à l'autre est toujours signalé. Aucun dialogue [C] n'est un vers de Cratès ; aucun témoignage extérieur à sa pièce ne reçoit abusivement le statut de fragment dramatique.
 
