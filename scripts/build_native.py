@@ -229,13 +229,17 @@ def main():
     OUT.mkdir(parents=True)
     n_pages,n_media=copy_repository()
     chapters=publish_chapters()
+    # Réconciliation explicite de deux collisions documentées, sans réécrire les sources.
+    import build_navigation as navigation
+    from origines_reconciliation import install, verify_sources
+    protected_sources=install(navigation, chapters)
     n_indexed=reindex(chapters)
     # Construire les portails géographiques et thématiques avant la seconde indexation.
-    from build_navigation import build_portals, finalize_navigation
-    build_portals()
+    navigation.build_portals()
     n_indexed=reindex(chapters)
-    finalize_navigation(n_indexed)
+    navigation.finalize_navigation(n_indexed)
     n_illustrated = decorate_editorial_pages()
+    verify_sources(protected_sources)
     print(f"Galeries latérales ajoutées sur {n_illustrated} pages.")
     write(".nojekyll","")
     write("CNAME","bobmythos.fr\n")
