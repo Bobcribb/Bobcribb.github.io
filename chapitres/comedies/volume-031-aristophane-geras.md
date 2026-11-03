@@ -157,3 +157,6 @@ La perte du texte ne nous autorise ni à reconstituer une morale ni à choisir a
 ---
 
 **Suite éditoriale :** volume XXXII, après inspection du dépôt et des notices historiques.
+
+
+**Suite du cycle :** [Volume XXXII — *Premier Ploutos*](volume-032-aristophane-ploutos-protos.md).
