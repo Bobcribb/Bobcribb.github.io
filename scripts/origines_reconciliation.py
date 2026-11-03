@@ -1,4 +1,4 @@
-"""Resolve documented ODS 576/577 aliases and parallel 582 without changing manuscripts.
+"""Resolve documented ODS 576/577 aliases and parallel 582/583 without changing manuscripts.
 
 Only named historical URLs are excluded from canonical numbering. All original
 sources remain byte-identical; every unknown duplicate still fails the builder.
@@ -14,6 +14,7 @@ CANONICAL = {
     576: BASE + "576-bacs-peages-offrandes-passage/",
     577: BASE + "577-monnaies-funeraires-charon-preuves-archeologiques/",
     582: BASE + "582-attendre-signe-eclipse-sacrifices-decision/",
+    583: BASE + "583-interpreter-oracles-expertise-controverse/",
 }
 COMPLEMENTS = {
     BASE + "576-payer-pour-passer-tarifs-bacs-offrandes/": {
@@ -37,6 +38,14 @@ COMPLEMENTS = {
         "target": CANONICAL[582],
         "inline": True,
         "reason": "Version parallèle intégrale, non comptée comme un second chapitre. Le premier 582 (14:16:21 UTC) conserve son numéro ; ce complément a été enregistré à 14:25:03 UTC.",
+    },
+    BASE + "583-croire-prevoir-instituer-xunzi-ciceron-nietzsche/": {
+        "id": "ODS-COMPLEMENT-583",
+        "title": "Complément du chapitre 583 — Xunzi, Cicéron et Nietzsche devant les rites et les signes",
+        "canonical": CANONICAL[583],
+        "target": CANONICAL[583],
+        "inline": True,
+        "reason": "Étude philosophique intégrale conservée en complément. Le premier 583 (14:23:22 UTC) garde son numéro ; cette étude a été enregistrée à 14:32:20 UTC. Les deux commits du 3 novembre 2026 ont été vérifiés.",
     },
 }
 
@@ -193,11 +202,14 @@ def install(navigation, chapters):
         a.string = "Annexe au chapitre 576 — Tarifs, redevances et offrandes"
         p.append(a)
         section.append(p)
-        p = doc.new_tag("p")
-        a = doc.new_tag("a", href=BASE + "582-presages-depart-autorite-deliberation/")
-        a.string = "Complément du chapitre 582 — Devins, commandement et délibération collective"
-        p.append(a)
-        section.append(p)
+        for alias, spec in COMPLEMENTS.items():
+            if not spec.get("inline"):
+                continue
+            p = doc.new_tag("p")
+            a = doc.new_tag("a", href=alias)
+            a.string = spec["title"]
+            p.append(a)
+            section.append(p)
         archives = article.select_one(".origins-archives")
         if archives:
             archives.insert_before(section)
@@ -208,7 +220,7 @@ def install(navigation, chapters):
                 p.string = "Les 48 dossiers historiques restent intégraux. Les études suivantes sont accessibles dans la liste continue ; les tomes et manuscrits archivés conservent leur propre ordre."
         page.write_text(str(doc), encoding="utf-8")
         report = {
-            "policy": "first_confirmed_commit_per_number; explicit_historical_aliases; recovered_shipwreck_study_580; parallel_582_as_full_complement",
+            "policy": "first_confirmed_commit_per_number; explicit_historical_aliases; recovered_shipwreck_study_580; parallel_582_583_as_full_complements",
             "canonical": {str(n): e["url"] for n, e in sorted(numbered.items())},
             "historical_aliases": COMPLEMENTS,
             "redirects": redirects,
@@ -219,7 +231,7 @@ def install(navigation, chapters):
         target.parent.mkdir(parents=True, exist_ok=True)
         target.write_text(json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
         verify_sources(snapshots)
-        print("ODS : collisions 576/577/582 résolues ; sources intégrales inchangées :", len(snapshots), "; dernier chapitre", max(numbered), flush=True)
+        print("ODS : collisions 576/577/582/583 résolues ; sources intégrales inchangées :", len(snapshots), "; dernier chapitre", max(numbered), flush=True)
 
     navigation.create_origins = reconciled_origins
     return snapshots
