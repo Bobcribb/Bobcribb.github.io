@@ -9,24 +9,22 @@ on:
 
 permissions:
   contents: read
-  pages: read
+  pages: write
 
 jobs:
   diagnose:
     runs-on: ubuntu-latest
     steps:
-      - name: Lire la configuration GitHub Pages
+      - name: Tester sans effet le droit de mise à jour Pages
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
           set -eu
           echo "=== GET /pages ==="
-          curl -sS -D /tmp/pages-headers.txt             -H "Accept: application/vnd.github+json"             -H "Authorization: Bearer ${GH_TOKEN}"             -H "X-GitHub-Api-Version: 2026-03-10"             "https://api.github.com/repos/${GITHUB_REPOSITORY}/pages"             -o /tmp/pages.json || true
-          cat /tmp/pages-headers.txt
-          cat /tmp/pages.json
+          curl -sS             -H "Accept: application/vnd.github+json"             -H "Authorization: Bearer ${GH_TOKEN}"             -H "X-GitHub-Api-Version: 2026-03-10"             "https://api.github.com/repos/${GITHUB_REPOSITORY}/pages"
           echo
-          echo "=== GET /pages/health ==="
-          curl -sS -D /tmp/health-headers.txt             -H "Accept: application/vnd.github+json"             -H "Authorization: Bearer ${GH_TOKEN}"             -H "X-GitHub-Api-Version: 2026-03-10"             "https://api.github.com/repos/${GITHUB_REPOSITORY}/pages/health"             -o /tmp/health.json || true
-          cat /tmp/health-headers.txt
-          cat /tmp/health.json
+          echo "=== PUT /pages build_type=workflow (aucun changement fonctionnel attendu) ==="
+          code=$(curl -sS -o /tmp/put.json -w "%{http_code}" -X PUT             -H "Accept: application/vnd.github+json"             -H "Authorization: Bearer ${GH_TOKEN}"             -H "X-GitHub-Api-Version: 2026-03-10"             "https://api.github.com/repos/${GITHUB_REPOSITORY}/pages"             -d '{"build_type":"workflow"}')
+          echo "HTTP $code"
+          cat /tmp/put.json
           echo
