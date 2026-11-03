@@ -163,3 +163,6 @@ Les œuvres perdues survivent par des citations lexicales, des scholies et des n
 ---
 
 **Suite éditoriale :** volume XXXVII, après contrôle du dépôt, des notices historiques et de l'indexation.
+
+
+**Suite du cycle :** [Volume XXXVII — *Les Telmessiens*](volume-037-aristophane-telmessioi.md).
