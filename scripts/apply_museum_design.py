@@ -15,33 +15,34 @@ NAV = [('/mythologie-grecque/','Grèce'),('/dieux-et-deesses/','Dieux'),('/heros
 MORE = [('/','Accueil'),*NAV,('/mythologie-comparee/','Mythologie comparée'),('/mythologies/','Mythologies du monde'),('/civilisations/','Civilisations'),('/reconstitutions-antiquite/','Reconstitutions'),('/rubriques/','Tous les dossiers'),('/recherche/','Recherche')]
 PILLAR = '<svg viewBox="0 0 36 48" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M4 5h28M5 10h26M8 14h20M9 40h18M5 44h26M12 16v22M18 16v22M24 16v22M7 10C0 10 1 1 7 2h22c6-1 7 8 0 8M7 5c-3 0-3 3 0 3m22-3c3 0 3 3 0 3"/></svg>'
 SEARCH = '<svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.7"><circle cx="10" cy="10" r="7"/><path d="m15 15 6 6"/></svg>'
+# Decorative collection covers are approved for these exact portals only.
+# A chapter linked from a card must never inherit a civilisation-wide cover.
 PICTURES = {
- 'grecque': 'delphes-temple-apollon-bernard-gagnon.jpg',
- 'grece': 'delphes-temple-apollon-bernard-gagnon.jpg',
- 'dieu': 'mythos-bronze-artemision-zeus-ou-poseidon.jpg',
- 'heros': 'antigone-libation-rinehart-1870.jpg',
- 'recit': 'mythos-hector-priam-rancon-briseis-peintre-british-museum-e75.jpg',
- 'encyclopedie': 'mythos-e28094-ceramique-grecque-a-figures-rouges.png',
- 'theatre': 'epidaure-theatre-antique-zde.jpg',
- 'traged': 'epidaure-theatre-antique-zde.jpg',
- 'comed': 'mythos-masques-theatre-rondelles-hellenistiques-met-2001-767.jpg',
- 'sacre': 'mythos-ounas-chambre-funeraire-vincent-brown.jpg',
- 'philosoph': 'raphael-ecole-athenes-1511.jpg',
- 'comparee': 'mythos-enuma-elish-tablette-k3473-ninive-zunkir.jpg',
- 'egypte': 'mythos-papyrus-ani-pesee-coeur-british-museum.jpg',
- 'mesopotam': 'gilgamesh-tablette-deluge-british-museum-babelstone.jpg',
- 'perse': 'mythos-persepolis-apadana-delegations-pentocelo-2006.jpg',
- 'reconstitution': 'mythos-e28094-illustration-du-sanctuaire-de-delphes.png',
- 'afrique': 'mythos-papyrus-ani-pesee-coeur-british-museum.jpg',
- 'europe': 'delphes-temple-apollon-bernard-gagnon.jpg',
- 'asie': 'mythos-enuma-elish-tablette-k3473-ninive-zunkir.jpg',
+ '/mythologie-grecque/': 'delphes-temple-apollon-bernard-gagnon.jpg',
+ '/grece/': 'delphes-temple-apollon-bernard-gagnon.jpg',
+ '/dieux-et-deesses/': 'mythos-bronze-artemision-zeus-ou-poseidon.jpg',
+ '/heros-et-heroines/': 'antigone-libation-rinehart-1870.jpg',
+ '/recits-mythologiques/': 'mythos-hector-priam-rancon-briseis-peintre-british-museum-e75.jpg',
+ '/grande-encyclopedie/': 'mythos-e28094-ceramique-grecque-a-figures-rouges.png',
+ '/theatre/': 'epidaure-theatre-antique-zde.jpg',
+ '/origines-du-sacre/': 'mythos-ounas-chambre-funeraire-vincent-brown.jpg',
+ '/philosophie/': 'raphael-ecole-athenes-1511.jpg',
+ '/mythologie-comparee/': 'mythos-enuma-elish-tablette-k3473-ninive-zunkir.jpg',
+ '/bibliotheque-egypte-ancienne/': 'mythos-papyrus-ani-pesee-coeur-british-museum.jpg',
+ '/bibliotheque-mesopotamie/': 'gilgamesh-tablette-deluge-british-museum-babelstone.jpg',
+ '/bibliotheque-perse-iran-ancien/': 'mythos-persepolis-apadana-delegations-pentocelo-2006.jpg',
+ '/reconstitutions-antiquite/': 'mythos-e28094-illustration-du-sanctuaire-de-delphes.png',
 }
 
 def picture(url, root):
-    for key, name in PICTURES.items():
-        if key in url and (root / 'media/2026/10' / name).is_file():
-            return MEDIA + name
-    return MEDIA + 'mythos-derveni-cratere-dionysos-menade-carole-raddato.jpg'
+    name = PICTURES.get(url)
+    if name and (root / 'media/2026/10' / name).is_file():
+        return MEDIA + name
+    return None
+
+def cover(url, root):
+    src = picture(url, root)
+    return '<img src="'+src+'" alt="" loading="lazy">' if src else ''
 
 def fragment(markup):
     return BeautifulSoup(markup, 'html.parser')
@@ -135,11 +136,15 @@ def apply(root):
         # Six-column illustrated directory reproduces the reference card rhythm.
         if url == '/' and not doc.select_one('.mythos-directory'):
             items = [*NAV,('/mythologie-comparee/','Mythologie comparée'),('/bibliotheque-egypte-ancienne/','Égypte ancienne'),('/bibliotheque-mesopotamie/','Mésopotamie'),('/reconstitutions-antiquite/','Reconstitutions')]
-            section = fragment('<section class="mythos-directory"><h2>Les collections de MYTHOS</h2><p>Une bibliothèque pour explorer les mythes, les rites, les œuvres et les sociétés.</p><div class="mythos-collection-grid">'+''.join('<a class="mythos-collection-card" href="'+u+'"><img src="'+picture(u,root)+'" alt="" loading="lazy"><span><strong>'+t+'</strong><span aria-hidden="true">→</span></span></a>' for u,t in items)+'</div></section>').section
+            section = fragment('<section class="mythos-directory"><h2>Les collections de MYTHOS</h2><p>Une bibliothèque pour explorer les mythes, les rites, les œuvres et les sociétés.</p><div class="mythos-collection-grid">'+''.join('<a class="mythos-collection-card" href="'+u+'">'+cover(u,root)+'<span><strong>'+t+'</strong><span aria-hidden="true">→</span></span></a>' for u,t in items)+'</div></section>').section
             banner.insert_after(section)
         for card in doc.select('.portal-card'):
-            if not card.find('img'):
-                card.insert(0, doc.new_tag('img', src=picture(card.get('href',''),root), alt='', loading='lazy', attrs={'class':'mythos-card-image'}))
+            # Refresh generated thumbnails, preserving authored card images.
+            for old in card.select('img.mythos-card-image'):
+                old.decompose()
+            src = picture(card.get('href', ''), root)
+            if src and not card.find('img'):
+                card.insert(0, doc.new_tag('img', src=src, alt='', loading='lazy', attrs={'class':'mythos-card-image'}))
         grid = doc.select_one('.origins-volume-grid')
         if grid and len(grid.select(':scope > .origins-volume')) > 12:
             more = fragment('<details class="mythos-more-volumes"><summary>… jusqu’au tome XXVII <span aria-hidden="true">→</span></summary><div class="origins-volume-grid"></div></details>').details

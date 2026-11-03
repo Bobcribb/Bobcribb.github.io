@@ -6,6 +6,8 @@ on:
     paths:
       - '.github/workflows/publish.yml'
       - 'scripts/build_native.py'
+      - 'scripts/editorial_illustrations.py'
+      - 'scripts/editorial_media.json'
       - 'scripts/editorial_numbering.py'
       - 'EDITORIAL_NUMBERING.json'
       - 'tests/test_editorial_numbering.py'

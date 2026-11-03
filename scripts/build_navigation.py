@@ -460,9 +460,8 @@ def create_origins(entries):
     roman_volumes = ["i","ii","iii","iv","v","vi","vii","viii","ix","x","xi","xii","xiii","xiv","xv","xvi","xvii","xviii","xix","xx","xxi","xxii","xxiii","xxiv","xxv","xxvi","xxvii"]
     roman_labels = [x.upper() for x in roman_volumes]
     special_slugs = {"i":"tome-i-hohle-fels","ii":"tome-ii-prehistoire-du-sacre","iii":"tome-iii-corps-caverne-mondes-invisibles"}
-    # Intitulés fidèles aux titres des manuscrits, illustrations issues des médias MYTHOS existants.
+    # Intitulés fidèles aux manuscrits. Aucune vignette de substitution pour un tome sans document précisément adapté.
     volume_titles = ["Hohle Fels et les premières images","Préhistoire du sacré","Le corps, la caverne et les mondes invisibles","Des maisons des ancêtres aux premiers dieux écrits","La naissance du cosmos et la souveraineté des dieux","Le Déluge, la mort et la renaissance","Les mystères de l’immortalité","La naissance du mal et de la justice divine","Le destin, les oracles et la liberté humaine","Le temps sacré et les cycles cosmiques","Le sacrifice, le sang et les dieux","Prêtres, sanctuaires et pouvoir religieux","La loi sacrée et la conscience morale","Violence politique, tyrannie et pouvoir sacré","Révolte, impiété, athéisme et critique de la religion","Nature, hasard et naissance des sciences","L’âme, la conscience et l’identité personnelle","Rêves, visions et prophéties","Magie, théurgie et puissances invisibles","La naissance de la sagesse","Justice universelle et cosmopolitisme","La naissance du beau","Monstres, dragons, chaos et altérité","Métamorphoses et transformations du vivant","Amour, désir et puissance divine","Familles divines, filiation et pouvoir","La mort, le deuil et la mémoire des ancêtres"]
-    volume_images = ["mythos-e28094-ceramique-grecque-a-figures-rouges.png","mythos-mycene-porte-lionnes-zde-2020.jpg","mythos-ounas-chambre-funeraire-vincent-brown.jpg","mythos-enheduanna-disque-penn-museum-mefman00.jpg","mythos-enuma-elish-tablette-k3473-ninive-zunkir.jpg","gilgamesh-tablette-deluge-british-museum-babelstone.jpg","eleusis-grand-relief-demeter-trip-toleme-persephone-zde.jpg","mythos-papyrus-ani-pesee-coeur-british-museum.jpg","delphes-temple-apollon-bernard-gagnon.jpg","mythos-gathas-bodleian-j2-fol175-yasna28.jpg","mythos-demeter-porcelet-terre-cuite-athenes-cma-1926-521.jpg","mythos-samothrace-sanctuaire-grands-dieux-ggia-2002.jpg","mythos-behistun-inscription-darius-mahdimanavimvi-2018.jpg","mythos-persepolis-apadana-delegations-pentocelo-2006.jpg","jacques-louis-david-mort-de-socrate-1787.jpg","raphael-ecole-athenes-1511.jpg","mythos-papyrus-ani-pesee-coeur-british-museum.jpg","mythos-dodone-theatre-koen-2006.jpg","mythos-hecate-triple-graces-met-1987-11-2.jpg","mythos-derveni-papyrus-fragments-thessalonique-gts-tg.jpg","mythos-relief-hero-banquet-attique-met-57-42.jpg","mythos-samothrace-nike-louvre-dada-photo.jpg","moreau-oedipe-sphinx-1864-met.jpg","mythos-medee-fuite-char-serpents-hydrie-policoro-35296.jpg","mythos-aphrodite-cygne-kylix-british-museum.jpg","amarna-akhenaton-nefertiti-filles-relief.jpg","mythos-ounas-chambre-funeraire-vincent-brown.jpg"]
     integral_volumes = []
     for index, (roman, label) in enumerate(zip(roman_volumes, roman_labels)):
         slug = special_slugs.get(roman, "tome-"+roman)
@@ -470,12 +469,9 @@ def create_origins(entries):
         page = OUT / url.lstrip("/") / "index.html"
         if not page.is_file():
             raise RuntimeError("Origines du sacré : tome manquant : "+label)
-        image_url = "/media/2026/10/"+volume_images[index]
-        if not (OUT / image_url.lstrip("/")).is_file():
-            raise RuntimeError("Origines du sacré : illustration manquante : "+image_url)
-        integral_volumes.append((url, "Tome "+label, volume_titles[index], image_url))
+        integral_volumes.append((url, "Tome "+label, volume_titles[index]))
     hero = '<section class="origins-hero"><div class="origins-hero-inner"><h1>ORIGINES DU SACRÉ</h1><span class="origins-hero-rule" aria-hidden="true">◇</span><p class="origins-hero-subtitle">Bibliothèque intégrale de recherche</p><p>Des premiers rituels aux grandes religions, une exploration approfondie des origines du sacré à travers les civilisations, les mythes et les cultures.</p></div></section>'
-    volumes_html = '<section class="origins-volumes"><h2>Les 27 tomes — édition intégrale</h2><p>Vingt-sept volumes pour explorer les origines du sacré, de la préhistoire aux grandes civilisations, à travers les mythes, les rites, les dieux et les sociétés.</p><div class="origins-volume-grid">'+''.join('<a class="origins-volume" href="'+esc(url)+'"><img class="origins-volume-image" src="'+esc(image_url)+'" alt="Illustration thématique du '+esc(label)+'" loading="lazy"><span class="origins-volume-copy"><strong>'+esc(label)+'</strong><span class="origins-volume-title">'+esc(title)+'</span><span class="origins-volume-read" aria-label="Lire '+esc(label)+'">→</span></span></a>' for url,label,title,image_url in integral_volumes)+'</div></section>'
+    volumes_html = '<section class="origins-volumes"><h2>Les 27 tomes — édition intégrale</h2><p>Vingt-sept volumes pour explorer les origines du sacré, de la préhistoire aux grandes civilisations, à travers les mythes, les rites, les dieux et les sociétés.</p><div class="origins-volume-grid">'+''.join('<a class="origins-volume" href="'+esc(url)+'"><span class="origins-volume-copy"><strong>'+esc(label)+'</strong><span class="origins-volume-title">'+esc(title)+'</span><span class="origins-volume-read" aria-label="Lire '+esc(label)+'">→</span></span></a>' for url,label,title in integral_volumes)+'</div></section>'
     dossier_images = [("mythos-demeter-porcelet-terre-cuite-athenes-cma-1926-521.jpg","Rites et sacrifices"),("mythos-bronze-artemision-zeus-ou-poseidon.jpg","Les grandes divinités"),("delphes-temple-apollon-bernard-gagnon.jpg","Lieux sacrés"),("mythos-dionysos-kylix-brygos-bnf-576.jpg","Sociétés et cultures"),("mythos-ounas-chambre-funeraire-vincent-brown.jpg","Pratiques funéraires")]
     dossier_preview = '<section class="origins-dossier-preview"><div class="origins-dossier-summary"><h2>Dossiers thématiques historiques</h2><p>48 dossiers conservés</p><p>Une sélection de dossiers pour approfondir les grandes thématiques : rites, divinités, sociétés, lieux sacrés, pratiques funéraires, et bien plus encore.</p><a class="origins-dossier-button" href="#dossiers-historiques">Accéder aux 48 dossiers →</a></div><div class="origins-dossier-gallery">'+''.join('<figure><img src="/media/2026/10/'+esc(img)+'" alt="'+esc(caption)+'" loading="lazy"><figcaption>'+esc(caption)+'</figcaption></figure>' for img,caption in dossier_images)+'</div></section>'
     body = hero+volumes_html+dossier_preview+'<div class="origins-archives">'+body+'</div>'
@@ -892,79 +888,6 @@ def renovate_search():
     path.write_text(body,encoding="utf-8")
 
 
-# Collections iconographiques documentées : photographies, plans, peintures et
-# restitutions historiques. Ne jamais qualifier une photographie de modèle 3D.
-VISUAL_COLLECTIONS = {
- "grece": [
-  ("mythos-epidaure-tholos-reconstitution-defrasse-lechat-1895.jpg","Tholos d’Épidaure — restitution historique de 1895","Restitution historique"),
-  ("mythos-nemee-temple-zeus-ophelia2-2010.jpg","Temple de Zeus à Némée — photographie","Photographie"),
-  ("mythos-bronze-artemision-zeus-ou-poseidon.jpg","Bronze de l’Artémision — Zeus ou Poséidon, attribution discutée","Statue"),
-  ("mythos-samothrace-nike-louvre-dada-photo.jpg","Victoire de Samothrace — sculpture antique","Statue"),
-  ("mythos-e28094-illustration-du-sanctuaire-de-delphes.png","Sanctuaire de Delphes — illustration","Illustration"),
-  ("mythos-mycene-porte-lionnes-zde-2020.jpg","Porte des Lionnes à Mycènes — photographie","Site antique"),
-  ("raphael-ecole-athenes-1511.jpg","Raphaël, L’École d’Athènes — peinture","Peinture"),
-  ("mythos-olympie-nike-paionios-jarvis-2005.jpg","Nikè de Paionios à Olympie — sculpture","Statue")],
- "theatre": [
-  ("epidaure-theatre-antique-zde.jpg","Théâtre antique d’Épidaure","Architecture"),
-  ("mythos-masques-theatre-rondelles-hellenistiques-met-2001-767.jpg","Masques théâtraux hellénistiques","Objet antique"),
-  ("antigone-libation-rinehart-1870.jpg","Antigone — représentation artistique du XIXe siècle","Peinture"),
-  ("moreau-oedipe-sphinx-1864-met.jpg","Gustave Moreau, Œdipe et le Sphinx","Peinture"),
-  ("mythos-dionysos-kylix-brygos-bnf-576.jpg","Dionysos sur une coupe grecque","Céramique"),
-  ("oreste-apollon-cratere-eumenides-louvre-cp-710.jpg","Oreste et Apollon — cratère antique","Céramique")],
- "sacre": [
-  ("mythos-epidaure-tholos-reconstitution-defrasse-lechat-1895.jpg","Épidaure — restitution historique","Restitution historique"),
-  ("mythos-ounas-chambre-funeraire-vincent-brown.jpg","Chambre funéraire d’Ounas","Site antique"),
-  ("mythos-papyrus-ani-pesee-coeur-british-museum.jpg","Pesée du cœur — papyrus d’Ani","Papyrus"),
-  ("eleusis-grand-relief-demeter-trip-toleme-persephone-zde.jpg","Grand relief d’Éleusis","Relief"),
-  ("mythos-derveni-cratere-dionysos-menade-carole-raddato.jpg","Cratère de Dervéni","Objet antique")],
- "mesopotamie": [
-  ("gilgamesh-tablette-deluge-british-museum-babelstone.jpg","Tablette du Déluge de Gilgamesh","Tablette"),
-  ("mythos-enuma-elish-tablette-k3473-ninive-zunkir.jpg","Tablette de l’Enūma eliš","Tablette"),
-  ("mythos-e28094-gilgamesh-devant-uruk-evocation-artistique-generee-par-ia.png","Gilgamesh devant Uruk — évocation générée par IA","Évocation artistique")],
- "egypte": [
-  ("amarna-akhenaton-nefertiti-filles-relief.jpg","Akhenaton, Néfertiti et leurs filles — relief","Relief"),
-  ("mythos-ounas-plan-complexe-funeraire-monnier-gdk.png","Complexe funéraire d’Ounas — plan","Plan"),
-  ("mythos-ounas-chambre-funeraire-vincent-brown.jpg","Chambre funéraire d’Ounas","Photographie")],
- "perse": [
-  ("mythos-persepolis-apadana-delegations-pentocelo-2006.jpg","Persépolis — relief des délégations","Relief"),
-  ("mythos-persepolis-plan-historique-britannica-1911.png","Persépolis — plan historique","Plan"),
-  ("mythos-behistun-inscription-darius-mahdimanavimvi-2018.jpg","Behistun — inscription de Darius","Inscription")]
-}
-
-def add_visual_rails(path):
-    """Illustrations latérales sur pages de lecture, sans altérer les manuscrits."""
-    source=path.read_text(encoding="utf-8")
-    if 'class="mythos-visual-rail"' in source or 'class="visual-rails-active"' in source:
-        return source
-    slug=str(path.parent).casefold()
-    if slug in ("_site", "_site/recherche"):
-        return source
-    if any(t in slug for t in ("traged","theatre","comedie","aristophane","eschyle","sophocle","euripide","menandre")):
-        collection=VISUAL_COLLECTIONS["theatre"]
-    elif any(t in slug for t in ("origine","sacre","religion","culte","rituel","prehistoire")):
-        collection=VISUAL_COLLECTIONS["sacre"]
-    elif any(t in slug for t in ("egypte","amarna","akhenaton","pharaon")):
-        collection=VISUAL_COLLECTIONS["egypte"]
-    elif any(t in slug for t in ("mesopotam","sumer","babylon","gilgamesh","assyr")):
-        collection=VISUAL_COLLECTIONS["mesopotamie"]
-    elif any(t in slug for t in ("perse","iran","zoroastr","achemen")):
-        collection=VISUAL_COLLECTIONS["perse"]
-    else:
-        collection=VISUAL_COLLECTIONS["grece"]
-    # Rotation stable par chemin, pour varier les œuvres sans répétition uniforme.
-    offset=sum(ord(c) for c in slug)%len(collection)
-    chosen=[collection[(offset+i)%len(collection)] for i in range(min(4,len(collection)))]
-    figures=''.join('<figure><img loading="lazy" decoding="async" src="/media/2026/10/'+esc(filename)+'" alt="'+esc(alt)+'"><figcaption><span>'+esc(kind)+'</span> — '+esc(alt)+'</figcaption></figure>' for filename,alt,kind in chosen)
-    rail='<aside class="mythos-visual-rail" aria-label="Galerie iconographique"><h2>Galerie iconographique</h2>'+figures+'</aside>'
-    soup=BeautifulSoup(source,"html.parser")
-    main=soup.find("main")
-    article=main.find("article") if main else None
-    if article is None:
-        return source
-    article.insert_after(BeautifulSoup(rail,"html.parser"))
-    main["class"]=list(dict.fromkeys(main.get("class",[])+["visual-rails-active"]))
-    return str(soup)
-
 
 def apply_navigation():
     changed=0
@@ -976,11 +899,9 @@ def apply_navigation():
         result,n=re.subn(r'<nav(?:\s[^>]*)?>[\s\S]*?</nav>',NAV,raw,count=1,flags=re.IGNORECASE)
         if n!=1:
             raise RuntimeError("Aucun menu de navigation dans "+str(path))
-        result=add_visual_rails(path) if result==raw else result
         result=result.replace("MYTHOS — Encyclopédie universitaire comparative","MYTHOS — Encyclopédie des mythologies du monde")
         # SUPPRIMER « EXPLORER MYTHOS » À DROITE SUR TOUTES LES PAGES, Y COMPRIS ARCHIVES.
         result=re.sub(r'<aside class="sidebar">[\s\S]*?</aside>', "", result, flags=re.IGNORECASE)
-        result=add_visual_rails(path) if "mythos-visual-rail" not in result else result
         if result!=raw:
             path.write_text(result,encoding="utf-8")
             changed+=1
