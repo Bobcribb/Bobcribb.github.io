@@ -1,4 +1,4 @@
-"""Resolve documented ODS 576/577 aliases without changing manuscripts.
+"""Resolve documented ODS 576/577 aliases and parallel 582 without changing manuscripts.
 
 Only named historical URLs are excluded from canonical numbering. All original
 sources remain byte-identical; every unknown duplicate still fails the builder.
@@ -13,6 +13,7 @@ BASE = "/chapitres/origines-du-sacre/"
 CANONICAL = {
     576: BASE + "576-bacs-peages-offrandes-passage/",
     577: BASE + "577-monnaies-funeraires-charon-preuves-archeologiques/",
+    582: BASE + "582-attendre-signe-eclipse-sacrifices-decision/",
 }
 COMPLEMENTS = {
     BASE + "576-payer-pour-passer-tarifs-bacs-offrandes/": {
@@ -29,6 +30,14 @@ COMPLEMENTS = {
         "target": BASE + "580-naufrages-secours-divins-survivants/",
         "reason": "Étude autonome reprise intégralement au chapitre 580 ; le numéro 577 reste réservé aux monnaies funéraires.",
     },
+    BASE + "582-presages-depart-autorite-deliberation/": {
+        "id": "ODS-COMPLEMENT-582",
+        "title": "Complément du chapitre 582 — Devins, commandement et délibération collective",
+        "canonical": CANONICAL[582],
+        "target": CANONICAL[582],
+        "inline": True,
+        "reason": "Version parallèle intégrale, non comptée comme un second chapitre. Le premier 582 (14:16:21 UTC) conserve son numéro ; ce complément a été enregistré à 14:25:03 UTC.",
+    },
 }
 
 
@@ -43,7 +52,7 @@ def source_hash(path):
 def verified_redirects():
     path = Path("EDITORIAL_REDIRECTS.json")
     data = json.loads(path.read_text(encoding="utf-8"))
-    expected = {url: spec["target"] for url, spec in COMPLEMENTS.items()}
+    expected = {url: spec["target"] for url, spec in COMPLEMENTS.items() if not spec.get("inline")}
     if data.get("version") != 1 or data.get("redirects") != expected:
         raise RuntimeError("Le registre des redirections ne correspond pas à la réconciliation explicite.")
     for source, target in expected.items():
@@ -120,16 +129,16 @@ def install(navigation, chapters):
         raise RuntimeError("Sources historiques et cibles intégrales doivent toutes être publiées.")
     out = navigation.OUT
     for url, spec in COMPLEMENTS.items():
-        annotate_page(out, url, spec["title"], spec["reason"], spec["target"], spec["id"], redirect=True)
+        annotate_page(out, url, spec["title"], spec["reason"], spec["target"], spec["id"], redirect=not spec.get("inline", False))
         for entry in chapters:
             if entry["url"] == url:
                 entry["title"] = spec["title"]
                 entry["excerpt"] = spec["reason"][:190]
     for number, url in CANONICAL.items():
-        spec = next(spec for spec in COMPLEMENTS.values() if spec["canonical"] == url)
+        alias, spec = next((alias, spec) for alias, spec in COMPLEMENTS.items() if spec["canonical"] == url)
         annotate_page(out, url, None,
             "Chapitre canonique " + str(number) + ". Le texte issu de la rédaction parallèle possède désormais une adresse distincte.",
-            spec["target"], "ods-canonical-" + str(number))
+            alias if spec.get("inline") else spec["target"], "ods-canonical-" + str(number))
     original = navigation.create_origins
 
     def reconciled_origins(entries):
@@ -184,6 +193,11 @@ def install(navigation, chapters):
         a.string = "Annexe au chapitre 576 — Tarifs, redevances et offrandes"
         p.append(a)
         section.append(p)
+        p = doc.new_tag("p")
+        a = doc.new_tag("a", href=BASE + "582-presages-depart-autorite-deliberation/")
+        a.string = "Complément du chapitre 582 — Devins, commandement et délibération collective"
+        p.append(a)
+        section.append(p)
         archives = article.select_one(".origins-archives")
         if archives:
             archives.insert_before(section)
@@ -194,7 +208,7 @@ def install(navigation, chapters):
                 p.string = "Les 48 dossiers historiques restent intégraux. Les études suivantes sont accessibles dans la liste continue ; les tomes et manuscrits archivés conservent leur propre ordre."
         page.write_text(str(doc), encoding="utf-8")
         report = {
-            "policy": "first_confirmed_commit_per_number; explicit_historical_aliases; recovered_shipwreck_study_580",
+            "policy": "first_confirmed_commit_per_number; explicit_historical_aliases; recovered_shipwreck_study_580; parallel_582_as_full_complement",
             "canonical": {str(n): e["url"] for n, e in sorted(numbered.items())},
             "historical_aliases": COMPLEMENTS,
             "redirects": redirects,
@@ -205,7 +219,7 @@ def install(navigation, chapters):
         target.parent.mkdir(parents=True, exist_ok=True)
         target.write_text(json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
         verify_sources(snapshots)
-        print("ODS : aliases 576/577 résolus ; six sources intégrales inchangées ; dernier chapitre", max(numbered), flush=True)
+        print("ODS : collisions 576/577/582 résolues ; sources intégrales inchangées :", len(snapshots), "; dernier chapitre", max(numbered), flush=True)
 
     navigation.create_origins = reconciled_origins
     return snapshots
