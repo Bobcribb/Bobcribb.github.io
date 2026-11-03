@@ -194,3 +194,6 @@ La **philologie** n'est pas seulement l'art de retrouver des mots : elle est l'a
 ---
 
 [Volume XXII — *Les Paysans*](volume-022-aristophane-georgoi.md) · [Théâtre grec](/theatre/) · [Recherche](/recherche/)
+
+
+**Volume suivant :** [XXIV — Aristophane, *Babylōnioi*](volume-024-aristophane-babylonioi.md).
