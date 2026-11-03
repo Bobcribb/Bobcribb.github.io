@@ -137,4 +137,4 @@ R. Kassel et C. Austin (éd.), *Poetae Comici Graeci*, V, Berlin/New York, de Gr
 
 ---
 
-**Suite éditoriale :** volume XLV, après inspection du dépôt et du catalogue.
+**Suite du cycle :** [Volume XLV — *La Naissance d'Athéna*](volume-045-hermippos-athenas-gonai.md).
