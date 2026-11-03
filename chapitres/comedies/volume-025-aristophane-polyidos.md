@@ -158,3 +158,8 @@ L'écriture comique transforme des récits en gestes, masques, rythmes, chœurs 
 **Navigation :** [← Volume XXIV — Aristophane, *Babylōnioi*](volume-024-aristophane-babylonioi.md) · [Catalogue du théâtre grec](/theatre/) · [Études philosophiques](/philosophie/).
 
 **Dossiers historiques MYTHOS conservés :** [reconstitution de *Polyidos*](/comedie-grecque-aristophane-menandre-etudes/aristophane-comedies-perdues-volume-3-reconstitutions/aristophane-polyidos-reconstitution-developpee/) · [analyse philosophique](/comedie-grecque-aristophane-menandre-etudes/polyidos-analyse-philosophique-pouvoir-savoir-hegel-nietzsche/). Ces notices ne sont ni supprimées ni présentées comme des témoins antiques.
+
+
+---
+
+**Suite de la série :** [Volume XXVI — Aristophane, *Daidalos*](volume-026-aristophane-daidalos.md).
