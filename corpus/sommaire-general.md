@@ -32,6 +32,7 @@ Les cotes éditoriales sont propres à chaque collection. La mythologie grecque 
 - **ODS-CONV-XXXI — Images divines, chapitres 387–394** : [Texte intégral](origines-du-sacre/conv-tome-XXXI-chapitres-387-394.html), [manuscrit Markdown](origines-du-sacre/conv-tome-XXXI-chapitres-387-394.md). Série distincte de MYTHOS-OS-LIB.
 - **ODS-CONV-XXXII — Corps, possession et masques, chapitres 395–402** : [Édition intégrale HTML](origines-du-sacre/conv-tome-XXXII-chapitres-395-402.html), [source Markdown](origines-du-sacre/conv-tome-XXXII-chapitres-395-402.md). Manuscrit du 1er novembre 2026 ; sources et bibliographie conservées.
 - **ODS-CONV-XXXIII — Voix, hymnes et musique sacrée, chapitres 403–410** : [Édition intégrale HTML](origines-du-sacre/conv-tome-XXXIII-chapitres-403-410.html), [source Markdown](origines-du-sacre/conv-tome-XXXIII-chapitres-403-410.md). Manuscrit du 1er novembre 2026 ; sources et bibliographie conservées.
+- **ODS-H-487 — Iran et Inde : Mithra, Varuṇa, ṛta et vérité de la parole** (tome historique XLIII, chapitre 487) : [étude intégrale, sources et bibliographie](origines-du-sacre/chapitre-487-iran-inde-mithra-rta-satya.html), [archive fidèle](origines-du-sacre/chapitre-487-iran-inde-mithra-rta-satya.md). Série historique distincte de ODS-LIB et ODS-CONV.
 - Les chapitres produits après cette édition devront être rapprochés de leurs sources avant intégration ; ne pas les déclarer présents sans vérification.
 
 ## TH — Théâtre grec
