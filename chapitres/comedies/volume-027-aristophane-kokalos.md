@@ -170,3 +170,6 @@ L'absence du texte impose de conserver la possibilité que la comédie ait dépl
 *Kôkalos* invite à examiner les relations entre l'invention, le refuge et le pouvoir. Ce sont des thèmes riches, mais la richesse d'une interprétation ne compense pas la pauvreté des attestations dramatiques. Le travail universitaire consiste ici à **protéger les frontières du savoir** : titre et tradition ancienne [A] ; comparaisons et scénarios interprétatifs [B] ; dialogues nouveaux [C].
 
 Cette méthode fait de la perte même de l'œuvre un objet de connaissance. Elle interdit de transformer un mythe complet en une pièce prétendument retrouvée et permet néanmoins une histoire critique du comique grec.
+
+
+**Suite du cycle :** [Volume XXVIII — *Aiolosikōn*](volume-028-aristophane-aiolosikon.md).
