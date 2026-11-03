@@ -325,3 +325,5 @@ Notre résultat est donc double. Le dossier de la comédie reste limité, avec u
 **Retour de série :** [Volume LII — Cratès, *Les Voisins*](/chapitres/comedies/volume-052-crates-geitones/) · [Théâtre grec](/theatre/) · [Études philosophiques](/philosophie/).
 
 **Point de reprise :** prochain numéro théorique **LIV**, uniquement après nouvelle lecture de `EDITORIAL_CONTINUITY.md`, inspection du dépôt et des notices historiques et vérification des éventuelles livraisons non archivées. Les trois scènes [C] sont des créations contemporaines, jamais des fragments antiques.
+
+**Suite réellement enregistrée :** [Volume LIV — Cratès, *Hērōes* / *Les Héros*](/chapitres/comedies/volume-054-crates-heroes/). Le point de reprise ci-dessus constitue un jalon historique antérieur à cette création.
