@@ -294,3 +294,6 @@ L'hypothèse philosophique reste néanmoins fertile : jouer signifie à la fois 
 ---
 
 **Suite éditoriale :** volume **LVI**, à choisir seulement après contrôle de la progression réellement enregistrée, des notices historiques, des textes non archivés et des homonymies. Titres de Cratès à contrôler : *Metoikoi*, *Pedētai*, *Rhētores*, *Samioi*, *Tolmai*. Aucune de ces notices n'est considérée ici comme déjà éditée ni réservée.
+
+**Suite de la série :** [Volume LVI — Cratès, *Les Samiens*](/chapitres/comedies/volume-056-crates-samioi/) · [Théâtre grec](/theatre/).
+
