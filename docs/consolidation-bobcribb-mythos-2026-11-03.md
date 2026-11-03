@@ -2,15 +2,53 @@
 
 Date : 3 novembre 2026.
 
-Principe : copie uniquement des fichiers absents ; aucun fichier deja present dans le depot principal n est remplace.
+## Résultat
 
-Exclusions : .git et .github de l ancien depot.
+- Fichiers historiques contrôlés hors workflows temporaires : **202**.
+- Fichiers identiques présents dans le dépôt principal : **201**.
+- Fichiers encore manquants : **0**.
+- Chemins présents dans les deux dépôts avec contenu volontairement différent : **1**.
 
-Le depot Bobcribb/Bobcribb.github.io reste la source unique de publication de bobmythos.fr.
+Principe de migration : copie uniquement des fichiers absents ; aucun fichier déjà présent dans `Bobcribb/Bobcribb.github.io` n'a été remplacé par une version de l'ancien dépôt. Les répertoires `.git` et `.github` de l'ancien dépôt ont été exclus.
 
-## Fichiers recuperes
+Le dépôt `Bobcribb/Bobcribb.github.io`, branche `main`, reste la source unique de publication de `https://bobmythos.fr/`.
 
-- `assets/iconographie/`
+## Différences conservées volontairement
+
+- `index.html` — la version du dépôt principal est conservée.
+
+## Fichiers historiques maintenant présents à l'identique
+
+- `.nojekyll`
+- `assets/iconographie/aphrodite-deux-genealogies.svg`
+- `assets/iconographie/argonautes-parcours-schematiques.svg`
+- `assets/iconographie/behistun-trois-langues-20261103.svg`
+- `assets/iconographie/behistun-trois-langues.svg`
+- `assets/iconographie/civilisations-preuves.svg`
+- `assets/iconographie/grande-encyclopedie-methode.svg`
+- `assets/iconographie/heracles-douze-travaux.svg`
+- `assets/iconographie/hesiode-cinq-generations.svg`
+- `assets/iconographie/kokalos-trois-niveaux-sources.svg`
+- `assets/iconographie/legende-provenance-mythos.svg`
+- `assets/iconographie/monographies-trois-familles-sources-20261103.svg`
+- `assets/iconographie/mythologie-comparee-preuve.svg`
+- `assets/iconographie/mythologie-comparee-trois-niveaux.svg`
+- `assets/iconographie/mythologie-grecque-sources.svg`
+- `assets/iconographie/ods-xxix-arbres-comparer.svg`
+- `assets/iconographie/ods-xxviii-montagne-grotte-caverne.svg`
+- `assets/iconographie/ods-xxx-pierres-sacre-contextes.svg`
+- `assets/iconographie/ods-xxxi-statue-rituel-image.svg`
+- `assets/iconographie/odyssee-architecture-chants.svg`
+- `assets/iconographie/origines-feu-contextes-grecs.svg`
+- `assets/iconographie/origines-sacre-indices-hypotheses.svg`
+- `assets/iconographie/origines-voix-rituelles.svg`
+- `assets/iconographie/origines-xxxii-mediation-sources.svg`
+- `assets/iconographie/philosophie-trois-epopees.svg`
+- `assets/iconographie/theatre-grec-deux-lectures.svg`
+- `assets/iconographie/theatre-grec-plan-typologique.svg`
+- `assets/iconographie/thebes-cycles-mythiques.svg`
+- `assets/iconographie/troie-trois-registres.svg`
+- `assets/iconographie/zeus-trois-epicleses-20261103.svg`
 - `assets/mythos-archaeology-tiles.svg`
 - `assets/mythos-articles.css`
 - `assets/mythos-hero.svg`
@@ -24,11 +62,135 @@ Le depot Bobcribb/Bobcribb.github.io reste la source unique de publication de bo
 - `assets/mythos-triphales.css`
 - `assets/mythos-unifie.css`
 - `assets/mythos-volume-lecture.css`
-- `assets/philosophie/`
-- `assets/reconstitutions/`
+- `assets/philosophie/iliade-achille-deux-destins.svg`
+- `assets/philosophie/iliade-assemblee-rang.svg`
+- `assets/philosophie/iliade-bouclier-monde.svg`
+- `assets/philosophie/iliade-deliberation-athena.svg`
+- `assets/philosophie/iliade-hector-andromaque.svg`
+- `assets/philosophie/iliade-menis-communaute.svg`
+- `assets/philosophie/iliade-parcours-ethique.svg`
+- `assets/philosophie/iliade-patrocle-deuil.svg`
+- `assets/philosophie/iliade-receptions-homere.svg`
+- `assets/philosophie/iliade-time-kleos.svg`
+- `assets/philosophie/odyssee-achille-hades.svg`
+- `assets/philosophie/odyssee-calypso-finitude.svg`
+- `assets/philosophie/odyssee-circe-humanite.svg`
+- `assets/philosophie/odyssee-deguisement-reconnaissance.svg`
+- `assets/philosophie/odyssee-identite-reconnaissance.svg`
+- `assets/philosophie/odyssee-pheaciens-recits.svg`
+- `assets/philosophie/odyssee-polytropos-identites.svg`
+- `assets/philosophie/odyssee-telemachie-memoire.svg`
+- `assets/philosophie/odyssee-xenia-ethique.svg`
+- `assets/philosophie/theogonie-aphrodite-traditions.svg`
+- `assets/philosophie/theogonie-gaia-ouranos.svg`
+- `assets/philosophie/theogonie-genealogie-divine.svg`
+- `assets/philosophie/theogonie-muses-verite.svg`
+- `assets/philosophie/theogonie-nyx-personnifications.svg`
+- `assets/philosophie/theogonie-promethee-sacrifice.svg`
+- `assets/philosophie/theogonie-puissances-primordiales.svg`
+- `assets/philosophie/theogonie-souverainete.svg`
+- `assets/philosophie/theogonie-succession-pouvoir.svg`
+- `assets/philosophie/theogonie-themis-horai.svg`
+- `assets/philosophie/theogonie-titanomachie-allies.svg`
+- `assets/philosophie/theogonie-zeus-metis.svg`
+- `assets/reconstitutions/bassae-apollon-exterieur-ve-siecle.svg`
+- `assets/reconstitutions/bassae-cella-ionique-corinthien.svg`
+- `assets/reconstitutions/brauron-stoa-425-av-jc.svg`
+- `assets/reconstitutions/brauron-temple-artemis-ve-siecle.svg`
+- `assets/reconstitutions/corinthe-apollon-540-av-jc.svg`
+- `assets/reconstitutions/corinthe-pirene-iie-siecle.svg`
+- `assets/reconstitutions/delphes-apollon-330-av-jc.svg`
+- `assets/reconstitutions/delphes-tholos-370-av-jc.svg`
+- `assets/reconstitutions/dodone-hiera-oikia-chene-pyrrhus.svg`
+- `assets/reconstitutions/dodone-theatre-pyrrhus-iiie-siecle.svg`
+- `assets/reconstitutions/egine-aphaia-fronton-sculpte.svg`
+- `assets/reconstitutions/egine-aphaia-temple-500-av-jc.svg`
+- `assets/reconstitutions/messene-asklepieion-210-av-jc.svg`
+- `assets/reconstitutions/messene-stade-gymnase-iiie-siecle.svg`
+- `assets/reconstitutions/nemee-stade-320-av-jc.svg`
+- `assets/reconstitutions/nemee-zeus-330-av-jc.svg`
+- `assets/reconstitutions/sounion-athena-ve-siecle.svg`
+- `assets/reconstitutions/sounion-poseidon-440-av-jc.svg`
 - `civilisations.html`
-- `contenus/`
-- `corpus/`
+- `contenus/philosophie/homere-hesiode-dossier-preparatoire.md`
+- `corpus/REGISTRE-INTEGRATIONS.md`
+- `corpus/civilisations/perse-iran-ancien-behistun.html`
+- `corpus/mythologie-grecque/01-cosmogonie-et-theogonie/README.md`
+- `corpus/mythologie-grecque/02-dieux-et-divinites/README.md`
+- `corpus/mythologie-grecque/02-dieux-et-divinites/aphrodite-etude-integrale.html`
+- `corpus/mythologie-grecque/03-heros/README.md`
+- `corpus/mythologie-grecque/04-cycles-mythologiques/README.md`
+- `corpus/mythologie-grecque/05-sources-et-variantes/README.md`
+- `corpus/mythologie-grecque/05-sources-et-variantes/index-historique-216-224.md`
+- `corpus/mythologie-grecque/06-analyses-philosophiques/README.md`
+- `corpus/mythologie-grecque/07-iconographie/README.md`
+- `corpus/mythologie-grecque/INDEX.md`
+- `corpus/mythologie-grecque/README.md`
+- `corpus/mythologie-grecque/REGISTRE-RECUPERATION.md`
+- `corpus/mythologie-grecque/archives/MYTHOS_bibliotheque_navigable.html`
+- `corpus/mythologie-grecque/archives/assets/style.css`
+- `corpus/mythologie-grecque/archives/atlas-mythologique.html`
+- `corpus/mythologie-grecque/archives/bibliotheque.html`
+- `corpus/mythologie-grecque/archives/cultes-cites.html`
+- `corpus/mythologie-grecque/archives/historiographie-v6.html`
+- `corpus/mythologie-grecque/archives/livre-argonautiques.html`
+- `corpus/mythologie-grecque/archives/livre-dieux.html`
+- `corpus/mythologie-grecque/archives/livre-heracles.html`
+- `corpus/mythologie-grecque/archives/livre-hesiode.html`
+- `corpus/mythologie-grecque/archives/livre-odyssee.html`
+- `corpus/mythologie-grecque/archives/livre-thebes.html`
+- `corpus/mythologie-grecque/archives/livre-troie.html`
+- `corpus/mythologie-grecque/archives/monographies.html`
+- `corpus/mythologie-grecque/archives/sources-methodes.html`
+- `corpus/origines-du-sacre/conv-tome-XXIX-chapitres-371-378.html`
+- `corpus/origines-du-sacre/conv-tome-XXIX-chapitres-371-378.md`
+- `corpus/origines-du-sacre/conv-tome-XXV-chapitres-339-346.html`
+- `corpus/origines-du-sacre/conv-tome-XXV-chapitres-339-346.md`
+- `corpus/origines-du-sacre/conv-tome-XXVI-chapitres-347-354.html`
+- `corpus/origines-du-sacre/conv-tome-XXVI-chapitres-347-354.md`
+- `corpus/origines-du-sacre/conv-tome-XXVII-chapitres-355-362.html`
+- `corpus/origines-du-sacre/conv-tome-XXVII-chapitres-355-362.md`
+- `corpus/origines-du-sacre/conv-tome-XXX-chapitres-379-386.html`
+- `corpus/origines-du-sacre/conv-tome-XXX-chapitres-379-386.md`
+- `corpus/origines-du-sacre/conv-tome-XXXI-chapitres-387-394.html`
+- `corpus/origines-du-sacre/conv-tome-XXXI-chapitres-387-394.md`
+- `corpus/origines-du-sacre/conv-tome-XXXII-chapitres-395-402.html`
+- `corpus/origines-du-sacre/conv-tome-XXXII-chapitres-395-402.md`
+- `corpus/origines-du-sacre/conv-tome-XXXIII-chapitres-403-410.html`
+- `corpus/origines-du-sacre/conv-tome-XXXIII-chapitres-403-410.md`
+- `corpus/origines-du-sacre/edition-integrale-tomes-I-XXVII.html`
+- `corpus/origines-du-sacre/tome-XXVIII-chapitres-363-370.html`
+- `corpus/origines-du-sacre/tome-XXVIII-chapitres-363-370.md`
+- `corpus/reconstitutions-3d/catalogue.json`
+- `corpus/sommaire-general.md`
+- `corpus/theatre-grec/REGISTRE-INTEGRATIONS.md`
+- `corpus/theatre-grec/comedies/aiolosikon-etude.html`
+- `corpus/theatre-grec/comedies/aiolosikon-scenes-modernes.html`
+- `corpus/theatre-grec/comedies/aiolosikon-source.md`
+- `corpus/theatre-grec/comedies/daidalos-source.md`
+- `corpus/theatre-grec/comedies/daidalos-tests-locaux.json`
+- `corpus/theatre-grec/comedies/geras-etude.html`
+- `corpus/theatre-grec/comedies/geras-scenes-modernes.html`
+- `corpus/theatre-grec/comedies/geras-source.md`
+- `corpus/theatre-grec/comedies/holkades-etude.html`
+- `corpus/theatre-grec/comedies/holkades-scenes-modernes.html`
+- `corpus/theatre-grec/comedies/holkades-source.md`
+- `corpus/theatre-grec/comedies/kokalos-etude.html`
+- `corpus/theatre-grec/comedies/kokalos-scenes-modernes.html`
+- `corpus/theatre-grec/comedies/kokalos-source.md`
+- `corpus/theatre-grec/comedies/lemniai-etude.html`
+- `corpus/theatre-grec/comedies/lemniai-scenes-modernes.html`
+- `corpus/theatre-grec/comedies/lemniai-source.md`
+- `corpus/theatre-grec/comedies/ploutos-protos-controle.json`
+- `corpus/theatre-grec/comedies/ploutos-protos-etude.html`
+- `corpus/theatre-grec/comedies/ploutos-protos-scenes-modernes.html`
+- `corpus/theatre-grec/comedies/ploutos-protos-source.md`
+- `corpus/theatre-grec/comedies/polyidos-source.md`
+- `corpus/theatre-grec/comedies/polyidos-verifications-locales.json`
+- `corpus/theatre-grec/comedies/triphales-controle.json`
+- `corpus/theatre-grec/comedies/triphales-etude.html`
+- `corpus/theatre-grec/comedies/triphales-scenes-modernes.html`
+- `corpus/theatre-grec/comedies/triphales-source.md`
 - `docs/iconographie-suivi-2026-11-03.md`
 - `grande-encyclopedie.html`
 - `mythologie-comparee.html`
@@ -47,6 +209,18 @@ Le depot Bobcribb/Bobcribb.github.io reste la source unique de publication de bo
 - `scripts/check-lemniai.py`
 - `scripts/check-origines-conv-xxv-xxvi.py`
 - `scripts/check-triphales.py`
-- `sites/`
+- `sites/bassae.html`
+- `sites/brauron.html`
+- `sites/corinthe.html`
+- `sites/delphes.html`
+- `sites/dodone.html`
+- `sites/egine-aphaia.html`
+- `sites/messene.html`
+- `sites/nemee.html`
+- `sites/sounion.html`
 - `sommaire-general.html`
 - `theatre-grec.html`
+
+## Fichiers encore manquants
+
+Aucun.
