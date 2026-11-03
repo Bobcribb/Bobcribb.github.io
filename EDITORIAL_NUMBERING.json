@@ -632,6 +632,23 @@
       "source_sha256": "4f4c674696f5d68a3e6c1cc279cc92b2d2d67d4e3c12592a25969450dd75cb75",
       "corrected_source_sha256": "88fcaf64b38ab7e71ecd00a630d39a6f284489cf8de328f127a042803542a2dc",
       "title": "Euripide, Protésilas — Laodamie, le retour des morts et la puissance ambiguë des images"
+    },
+    {
+      "collection": "comparatif",
+      "old_number": 139,
+      "number": 158,
+      "old_roman": "CXXXIX",
+      "roman": "CLVIII",
+      "old_path": "chapitres/comparatif/volume-cxxxix-talal-asad-genealogie-religion-tradition-secularite.md",
+      "path": "chapitres/comparatif/volume-clviii-talal-asad-genealogie-religion-tradition-secularite.md",
+      "old_url": "/chapitres/comparatif/volume-cxxxix-talal-asad-genealogie-religion-tradition-secularite/",
+      "url": "/chapitres/comparatif/volume-clviii-talal-asad-genealogie-religion-tradition-secularite/",
+      "kept_path": "chapitres/comparatif/volume-cxxxix-hannah-arendt-totalitarisme-condition-humaine-liberte-jugement.md",
+      "first_commit": "8622c909583e7745be355c96cd43927ea1656534",
+      "kept_first_commit": "2e8ec6fba2188c79047517b6dda47a0a2cfacfed",
+      "source_sha256": "450aeb75c5e9fe9e76c390ad70265e53a5bf441a63118ff9de6ac08a15e871ca",
+      "corrected_source_sha256": "d7141a3424724ee82a23e76ac178bae22b225489bcc5f9718e1e5389aef59d38",
+      "title": "Talal Asad : généalogie de la religion, tradition discursive, disciplines du corps et formation du séculier"
     }
   ]
 }

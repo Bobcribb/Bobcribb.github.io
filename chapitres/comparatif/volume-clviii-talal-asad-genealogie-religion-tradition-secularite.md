@@ -1,4 +1,4 @@
-# MYTHOS — Volume CXXXIX (139)
+# MYTHOS — Volume CLVIII (158)
 ## Talal Asad : généalogie de la religion, tradition discursive, disciplines du corps et formation du séculier
 
 *Cycle comparatif universitaire MYTHOS — étude autonome en français — 4 novembre 2026.*
@@ -358,7 +358,7 @@ Le refus d'un universalisme naïf ne doit pas mener à l'affirmation selon laque
 
 ### 77 — Continuité du cycle [B]
 
-Le volume CXXXVII traitait de la pureté et des frontières classificatoires ; CXXXVIII, des stratégies de ritualisation et de leur relation au corps ; CXXXIX reconstruit les histoires du concept de religion et les conditions de pouvoir d'une tradition. Le prochain volume pourra examiner un autre problème sans répéter ce triptyque. **Proposition pour CXL : Saba Mahmood — piété, subjectivation, agence et politique du corps**, sous réserve de la vérification effective de l'existence d'un tel sujet dans le dépôt. La progression numérique est conservée sans intervention sur les autres séries.
+Le volume CXXXVII traitait de la pureté et des frontières classificatoires ; CXXXVIII, des stratégies de ritualisation et de leur relation au corps ; CLVIII reconstruit les histoires du concept de religion et les conditions de pouvoir d'une tradition. Le prochain volume pourra examiner un autre problème sans répéter ce triptyque. **Proposition pour CXL : Saba Mahmood — piété, subjectivation, agence et politique du corps**, sous réserve de la vérification effective de l'existence d'un tel sujet dans le dépôt. La progression numérique est conservée sans intervention sur les autres séries.
 
 ---
 
@@ -418,4 +418,4 @@ Le volume CXXXVII traitait de la pureté et des frontières classificatoires ; C
 4. Les titres de sections d'Asad sont contrôlés, mais les interprétations [B] restent ouvertes à discussion et ne sauraient être attribuées à l'auteur sous la forme de citations exactes.
 5. Aucune documentation privée ou confidentielle n'est utilisée ; cette livraison est destinée à un fichier Markdown public de la série comparative dans le dépôt GitHub.
 
-**Fin du volume CXXXIX.**
+**Fin du volume CLVIII.**

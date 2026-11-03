@@ -1,5 +1,8 @@
 # MYTHOS — Continuité éditoriale, source de vérité et protection contre les pertes
 
+**État consolidé du 4 novembre 2026, après les écritures concurrentes :** 38 études renumérotées, 513 manuscrits conservés et 467 références actives sans collision. Protésilas = tragédies CCI (201) ; Talal Asad = cycle comparatif CLVIII (158). Les prochains numéros à contrôler sur le dernier main sont 358 (encyclopédie), 202 (tragédies), 159 (comparatif), 59 (comédies), 599 (Origines du sacré). Les anciens états ci-dessous restent historiques. Aucune planification modifiée.
+
+
 ## Réconciliation de numérotation — 4 novembre 2026
 
 La correspondance courante est dans `EDITORIAL_NUMBERING.json` et le sommaire public `/collections-numerotees/`. Les anciennes mentions ci-dessous constituent un historique, pas une réservation de numéro. 36 études distinctes ont été renumérotées, sans suppression ou fusion des textes : chapitres 354–357 de la Grande Encyclopédie, volumes CLXXXVIII–CC (188–200) des tragédies et CXXXIX–CLVII (139–157) du cycle comparatif. Les premiers textes publiés gardent leur numéro. Toutes les anciennes URL sont redirigées.

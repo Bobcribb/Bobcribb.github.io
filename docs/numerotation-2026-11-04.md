@@ -71,3 +71,7 @@ python scripts/audit_integrity.py
 ## Intégration du travail concurrent
 
 Les chapitres 597 et 598 des Origines du sacré ainsi que le nouveau mécanisme de synchronisation ajoutés pendant cette correction ont été conservés. Le contrôle final porte donc sur 510 manuscrits et 464 études numérotées. Le validateur de publication reconnaît les alias explicites et exige leur cible canonique dans la recherche. La garde de synchronisation autorise uniquement les deux catalogues JSON générés et nommés, en plus des rendus déjà admis.
+
+## Contrôle final des publications concurrentes
+
+Les nouvelles études Protésilas et Talal Asad ont réutilisé, pendant cette intervention, les numéros 188 et 139 déjà attribués. Les contrôles les ont arrêtées avant publication. Leurs textes intégraux sont conservés aux références **CCI (201), tragédies**, et **CLVIII (158), cycle comparatif**, avec redirections explicites. Bilan final : **36 groupes de collisions, 38 études renumérotées, 513 manuscrits et 467 études numérotées**. Le nouveau volume LVIII des comédies reste intact ; aucune planification horaire n'est modifiée.
