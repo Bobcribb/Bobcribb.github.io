@@ -1,0 +1,980 @@
+{
+  "date": "2026-11-04",
+  "initial_commit": "ba3e617730a6ec27129dab0560e817d3fbd13972",
+  "integration_base": "864dca672e13e1b58f91128b8f451cafc5c5c801",
+  "initial_http": {
+    "tested": 1104,
+    "ok": 1104,
+    "failures": []
+  },
+  "initial_asset_head": {
+    "tested": 224,
+    "results": [
+      {
+        "url": "https://bobmythos.fr/corpus/theatre-grec/comedies/ploutos-protos-controle.json",
+        "status": 404
+      },
+      {
+        "url": "https://bobmythos.fr/corpus/theatre-grec/comedies/triphales-controle.json",
+        "status": 404
+      },
+      {
+        "url": "https://bobmythos.fr/corpus/reconstitutions-3d/catalogue.json",
+        "status": 404
+      },
+      {
+        "url": "https://bobmythos.fr/corpus/mythologie-grecque/archives/assets/style.css",
+        "status": 404
+      }
+    ]
+  },
+  "domains": [
+    {
+      "url": "http://bobmythos.fr",
+      "status": 200,
+      "final": "https://bobmythos.fr/",
+      "length": "14035"
+    },
+    {
+      "url": "https://www.bobmythos.fr",
+      "status": 200,
+      "final": "https://bobmythos.fr/",
+      "length": "14035"
+    },
+    {
+      "url": "http://www.bobmythos.fr",
+      "status": 200,
+      "final": "https://bobmythos.fr/",
+      "length": "14035"
+    },
+    {
+      "url": "https://bobcribb.github.io",
+      "status": 200,
+      "final": "https://bobmythos.fr/",
+      "length": "14035"
+    },
+    {
+      "url": "https://bobmythos.fr/__audit_missing_page_20261104__/",
+      "status": 404
+    }
+  ],
+  "after_build_stats": {
+    "html_files": 1147,
+    "content_pages": 1103,
+    "no_canonical": 632,
+    "image_references": 514,
+    "internal_references": 54361,
+    "redirect_pages": 43,
+    "search_entries": 1101,
+    "external_unique_urls": 4073,
+    "unique_local_assets": 225,
+    "generated_sidebar_pages": 134
+  },
+  "broken_resources": [
+    {
+      "url": "/corpus/mythologie-grecque/archives/bibliotheque.html",
+      "tag": "img",
+      "attr": "src",
+      "target": "assets/img/olympiens.webp"
+    },
+    {
+      "url": "/corpus/mythologie-grecque/archives/bibliotheque.html",
+      "tag": "img",
+      "attr": "src",
+      "target": "assets/img/cycles.webp"
+    },
+    {
+      "url": "/corpus/mythologie-grecque/archives/bibliotheque.html",
+      "tag": "img",
+      "attr": "src",
+      "target": "assets/img/carte.webp"
+    },
+    {
+      "url": "/corpus/mythologie-grecque/archives/bibliotheque.html",
+      "tag": "img",
+      "attr": "src",
+      "target": "assets/img/heros.webp"
+    },
+    {
+      "url": "/corpus/mythologie-grecque/archives/bibliotheque.html",
+      "tag": "img",
+      "attr": "src",
+      "target": "assets/img/cycles.webp"
+    },
+    {
+      "url": "/corpus/mythologie-grecque/archives/bibliotheque.html",
+      "tag": "img",
+      "attr": "src",
+      "target": "assets/img/cycles.webp"
+    },
+    {
+      "url": "/corpus/mythologie-grecque/archives/bibliotheque.html",
+      "tag": "img",
+      "attr": "src",
+      "target": "assets/img/cycles.webp"
+    },
+    {
+      "url": "/corpus/mythologie-grecque/archives/bibliotheque.html",
+      "tag": "img",
+      "attr": "src",
+      "target": "assets/img/cycles.webp"
+    },
+    {
+      "url": "/corpus/mythologie-grecque/archives/bibliotheque.html",
+      "tag": "img",
+      "attr": "src",
+      "target": "assets/img/genealogie.webp"
+    },
+    {
+      "url": "/corpus/mythologie-grecque/archives/bibliotheque.html",
+      "tag": "img",
+      "attr": "src",
+      "target": "assets/img/carte.webp"
+    },
+    {
+      "url": "/corpus/mythologie-grecque/archives/bibliotheque.html",
+      "tag": "img",
+      "attr": "src",
+      "target": "assets/img/cycles.webp"
+    },
+    {
+      "url": "/corpus/mythologie-grecque/archives/bibliotheque.html",
+      "tag": "img",
+      "attr": "src",
+      "target": "assets/img/carte.webp"
+    },
+    {
+      "url": "/corpus/mythologie-grecque/archives/bibliotheque.html",
+      "tag": "script",
+      "attr": "src",
+      "target": "assets/app.js"
+    },
+    {
+      "url": "/corpus/mythologie-grecque/archives/livre-dieux.html",
+      "tag": "img",
+      "attr": "src",
+      "target": "assets/img/olympiens.webp"
+    },
+    {
+      "url": "/corpus/mythologie-grecque/archives/livre-dieux.html",
+      "tag": "img",
+      "attr": "src",
+      "target": "assets/img/genealogie.webp"
+    },
+    {
+      "url": "/corpus/mythologie-grecque/archives/livre-dieux.html",
+      "tag": "script",
+      "attr": "src",
+      "target": "assets/app.js"
+    },
+    {
+      "url": "/corpus/mythologie-grecque/archives/monographies.html",
+      "tag": "img",
+      "attr": "src",
+      "target": "assets/img/genealogie.webp"
+    },
+    {
+      "url": "/corpus/mythologie-grecque/archives/monographies.html",
+      "tag": "script",
+      "attr": "src",
+      "target": "assets/app.js"
+    },
+    {
+      "url": "/corpus/mythologie-grecque/archives/livre-hesiode.html",
+      "tag": "img",
+      "attr": "src",
+      "target": "assets/img/genealogie.webp"
+    },
+    {
+      "url": "/corpus/mythologie-grecque/archives/livre-hesiode.html",
+      "tag": "script",
+      "attr": "src",
+      "target": "assets/app.js"
+    },
+    {
+      "url": "/corpus/mythologie-grecque/archives/sources-methodes.html",
+      "tag": "img",
+      "attr": "src",
+      "target": "assets/img/hero.webp"
+    },
+    {
+      "url": "/corpus/mythologie-grecque/archives/sources-methodes.html",
+      "tag": "script",
+      "attr": "src",
+      "target": "assets/app.js"
+    },
+    {
+      "url": "/corpus/mythologie-grecque/archives/atlas-mythologique.html",
+      "tag": "img",
+      "attr": "src",
+      "target": "assets/img/carte.webp"
+    },
+    {
+      "url": "/corpus/mythologie-grecque/archives/atlas-mythologique.html",
+      "tag": "script",
+      "attr": "src",
+      "target": "assets/app.js"
+    },
+    {
+      "url": "/corpus/mythologie-grecque/archives/livre-heracles.html",
+      "tag": "img",
+      "attr": "src",
+      "target": "assets/img/heros.webp"
+    },
+    {
+      "url": "/corpus/mythologie-grecque/archives/livre-heracles.html",
+      "tag": "script",
+      "attr": "src",
+      "target": "assets/app.js"
+    },
+    {
+      "url": "/corpus/mythologie-grecque/archives/livre-argonautiques.html",
+      "tag": "img",
+      "attr": "src",
+      "target": "assets/img/carte.webp"
+    },
+    {
+      "url": "/corpus/mythologie-grecque/archives/livre-argonautiques.html",
+      "tag": "script",
+      "attr": "src",
+      "target": "assets/app.js"
+    },
+    {
+      "url": "/corpus/mythologie-grecque/archives/livre-thebes.html",
+      "tag": "img",
+      "attr": "src",
+      "target": "assets/img/cycles.webp"
+    },
+    {
+      "url": "/corpus/mythologie-grecque/archives/livre-thebes.html",
+      "tag": "script",
+      "attr": "src",
+      "target": "assets/app.js"
+    },
+    {
+      "url": "/corpus/mythologie-grecque/archives/historiographie-v6.html",
+      "tag": "img",
+      "attr": "src",
+      "target": "assets/img/tableau-dieux.webp"
+    },
+    {
+      "url": "/corpus/mythologie-grecque/archives/historiographie-v6.html",
+      "tag": "script",
+      "attr": "src",
+      "target": "assets/app.js"
+    },
+    {
+      "url": "/corpus/mythologie-grecque/archives/livre-odyssee.html",
+      "tag": "img",
+      "attr": "src",
+      "target": "assets/img/cycles.webp"
+    },
+    {
+      "url": "/corpus/mythologie-grecque/archives/livre-odyssee.html",
+      "tag": "script",
+      "attr": "src",
+      "target": "assets/app.js"
+    },
+    {
+      "url": "/corpus/mythologie-grecque/archives/livre-troie.html",
+      "tag": "img",
+      "attr": "src",
+      "target": "assets/img/cycles.webp"
+    },
+    {
+      "url": "/corpus/mythologie-grecque/archives/livre-troie.html",
+      "tag": "script",
+      "attr": "src",
+      "target": "assets/app.js"
+    },
+    {
+      "url": "/corpus/mythologie-grecque/archives/cultes-cites.html",
+      "tag": "img",
+      "attr": "src",
+      "target": "assets/img/carte.webp"
+    },
+    {
+      "url": "/corpus/mythologie-grecque/archives/cultes-cites.html",
+      "tag": "script",
+      "attr": "src",
+      "target": "assets/app.js"
+    }
+  ],
+  "broken_fragments": [
+    {
+      "url": "/iliade/",
+      "target": "/glossaire/#kleos"
+    },
+    {
+      "url": "/sites/dodone.html",
+      "target": "/reconstitutions-3d.html#dod-001"
+    },
+    {
+      "url": "/sites/dodone.html",
+      "target": "/reconstitutions-3d.html#dod-002"
+    },
+    {
+      "url": "/sites/dodone.html",
+      "target": "/reconstitutions-3d.html#dodone"
+    },
+    {
+      "url": "/sites/nemee.html",
+      "target": "/reconstitutions-3d.html#nem-001"
+    },
+    {
+      "url": "/sites/nemee.html",
+      "target": "/reconstitutions-3d.html#nem-002"
+    },
+    {
+      "url": "/sites/nemee.html",
+      "target": "/reconstitutions-3d.html#nemee"
+    },
+    {
+      "url": "/sites/corinthe.html",
+      "target": "/reconstitutions-3d.html#cor-001"
+    },
+    {
+      "url": "/sites/corinthe.html",
+      "target": "/reconstitutions-3d.html#cor-002"
+    },
+    {
+      "url": "/sites/corinthe.html",
+      "target": "/reconstitutions-3d.html#corinthe"
+    },
+    {
+      "url": "/sites/bassae.html",
+      "target": "/reconstitutions-3d.html#bas-001"
+    },
+    {
+      "url": "/sites/bassae.html",
+      "target": "/reconstitutions-3d.html#bas-002"
+    },
+    {
+      "url": "/sites/bassae.html",
+      "target": "/reconstitutions-3d.html#bassae"
+    },
+    {
+      "url": "/sites/bassae.html",
+      "target": "/reconstitutions-3d.html#bassae"
+    },
+    {
+      "url": "/sites/egine-aphaia.html",
+      "target": "/reconstitutions-3d.html#aeg-001"
+    },
+    {
+      "url": "/sites/egine-aphaia.html",
+      "target": "/reconstitutions-3d.html#aeg-002"
+    },
+    {
+      "url": "/sites/brauron.html",
+      "target": "/reconstitutions-3d.html#brauron"
+    },
+    {
+      "url": "/sites/brauron.html",
+      "target": "/reconstitutions-3d.html#bra-001"
+    },
+    {
+      "url": "/sites/brauron.html",
+      "target": "/reconstitutions-3d.html#bra-002"
+    },
+    {
+      "url": "/sites/brauron.html",
+      "target": "/reconstitutions-3d.html#brauron"
+    },
+    {
+      "url": "/sites/sounion.html",
+      "target": "/reconstitutions-3d.html#sou-001"
+    },
+    {
+      "url": "/sites/sounion.html",
+      "target": "/reconstitutions-3d.html#sou-002"
+    },
+    {
+      "url": "/sites/messene.html",
+      "target": "/reconstitutions-3d.html#mes-001"
+    },
+    {
+      "url": "/sites/messene.html",
+      "target": "/reconstitutions-3d.html#mes-002"
+    },
+    {
+      "url": "/sites/messene.html",
+      "target": "/reconstitutions-3d.html#messene"
+    },
+    {
+      "url": "/sites/messene.html",
+      "target": "/reconstitutions-3d.html#messene"
+    },
+    {
+      "url": "/sites/delphes.html",
+      "target": "/reconstitutions-3d.html#del-001"
+    },
+    {
+      "url": "/sites/delphes.html",
+      "target": "/reconstitutions-3d.html#del-002"
+    },
+    {
+      "url": "/heracles/",
+      "target": "/bestiaire/#nemean"
+    },
+    {
+      "url": "/heracles/",
+      "target": "/bestiaire/#hydre"
+    },
+    {
+      "url": "/heracles/",
+      "target": "/bestiaire/#cerbere"
+    },
+    {
+      "url": "/corpus/mythologie-grecque/archives/MYTHOS_bibliotheque_navigable.html",
+      "target": "#/accueil"
+    }
+  ],
+  "duplicate_html_ids": [
+    {
+      "url": "/corpus/origines-du-sacre/edition-integrale-tomes-I-XXVII.html",
+      "ids": {
+        "ref-1": 4,
+        "ref-2": 4,
+        "ref-3": 4,
+        "ref-4": 4,
+        "ref-5": 4,
+        "ref-6": 4,
+        "ref-7": 4,
+        "ref-8": 4,
+        "ref-9": 4,
+        "ref-10": 4,
+        "ref-11": 4,
+        "ref-12": 4,
+        "ref-13": 4,
+        "ref-14": 4,
+        "ref-15": 4,
+        "ref-16": 4,
+        "ref-17": 4,
+        "ref-18": 4,
+        "ref-19": 4,
+        "ref-20": 4,
+        "ref-21": 4,
+        "ref-22": 3,
+        "ref-23": 3,
+        "ref-24": 2,
+        "ref-25": 2,
+        "ref-26": 2,
+        "ref-27": 2,
+        "ref-28": 2,
+        "ref-29": 2,
+        "ref-30": 2,
+        "ref-31": 2,
+        "ref-32": 2,
+        "ref-33": 2,
+        "ref-34": 2,
+        "chap-1013": 2,
+        "chap-1014": 2,
+        "chap-1015": 2,
+        "chap-1016": 2,
+        "chap-1017": 2,
+        "chap-1018": 2,
+        "chap-1019": 2,
+        "chap-1020": 2,
+        "chap-1021": 2,
+        "chap-1022": 2,
+        "chap-1023": 2,
+        "chap-1024": 2,
+        "chap-1025": 2,
+        "chap-1026": 2,
+        "chap-1027": 2,
+        "chap-1028": 2,
+        "chap-1029": 2,
+        "chap-1030": 2,
+        "chap-1031": 2,
+        "chap-1032": 2,
+        "chap-1033": 2,
+        "chap-1034": 2,
+        "chap-1035": 2,
+        "chap-1036": 2,
+        "chap-1037": 2,
+        "chap-1038": 2,
+        "chap-1039": 2,
+        "chap-1040": 2,
+        "chap-1041": 2,
+        "chap-1042": 2,
+        "chap-1043": 2,
+        "chap-1044": 2,
+        "chap-1045": 2,
+        "chap-1046": 2,
+        "chap-1047": 2,
+        "chap-1048": 2,
+        "chap-1049": 2,
+        "chap-1050": 2,
+        "chap-1051": 2,
+        "chap-1052": 2
+      }
+    }
+  ],
+  "short_manuscripts": [
+    {
+      "source": "chapitres/comedies/volume-002-eupolis-heilotes.md",
+      "words": 159
+    },
+    {
+      "source": "chapitres/encyclopedie/chapitre-318-egee-voiles-noires.md",
+      "words": 292
+    },
+    {
+      "source": "chapitres/origines-du-sacre/459-musique-grecque-mousike.md",
+      "words": 172
+    },
+    {
+      "source": "chapitres/origines-du-sacre/460-choeurs-grecs-choreia.md",
+      "words": 220
+    },
+    {
+      "source": "chapitres/origines-du-sacre/461-mesopotamie-lamentations-emesal.md",
+      "words": 154
+    },
+    {
+      "source": "chapitres/origines-du-sacre/462-egypte-sistre-hathor.md",
+      "words": 238
+    },
+    {
+      "source": "chapitres/origines-du-sacre/463-iran-inde-chant-liturgique.md",
+      "words": 235
+    },
+    {
+      "source": "chapitres/origines-du-sacre/464-chine-rites-musique.md",
+      "words": 212
+    },
+    {
+      "source": "chapitres/origines-du-sacre/465-afrique-ameriques-rythmes.md",
+      "words": 268
+    },
+    {
+      "source": "chapitres/origines-du-sacre/466-philosophie-musique-sacree.md",
+      "words": 299
+    },
+    {
+      "source": "chapitres/origines-du-sacre/467-temps-sacre-grece-calendriers.md",
+      "words": 140
+    },
+    {
+      "source": "chapitres/origines-du-sacre/468-mesopotamie-akitu-annee.md",
+      "words": 170
+    },
+    {
+      "source": "chapitres/origines-du-sacre/469-egypte-calendrier-sothis.md",
+      "words": 207
+    },
+    {
+      "source": "chapitres/origines-du-sacre/470-iran-zoroastrisme-temps.md",
+      "words": 181
+    },
+    {
+      "source": "chapitres/origines-du-sacre/471-inde-yuga-calendriers.md",
+      "words": 180
+    },
+    {
+      "source": "chapitres/origines-du-sacre/472-chine-calendrier-mandat.md",
+      "words": 194
+    },
+    {
+      "source": "chapitres/origines-du-sacre/473-ameriques-afrique-calendriers.md",
+      "words": 260
+    },
+    {
+      "source": "chapitres/origines-du-sacre/474-philosophie-temps-sacre.md",
+      "words": 261
+    }
+  ],
+  "numbered_collections": {
+    "encyclopedie": {
+      "studies": 55,
+      "last": 357
+    },
+    "tragedies": {
+      "studies": 102,
+      "last": 201
+    },
+    "comparatif": {
+      "studies": 104,
+      "last": 158
+    },
+    "comedies": {
+      "studies": 58,
+      "last": 58
+    },
+    "origines-du-sacre": {
+      "studies": 148,
+      "last": 598
+    }
+  },
+  "active_number_collisions": 0,
+  "tests": {
+    "publication": 31,
+    "iconography": 13
+  },
+  "limits": [
+    "Les 1104 contrôles GET concernent le site public initial ; la version corrigée est contrôlée intégralement comme artefact et par des vérifications publiques ciblées après déploiement.",
+    "Les sources universitaires externes ne sont pas relues exhaustivement.",
+    "La pagination A4 et le rendu sur un appareil mobile réel ne sont pas certifiés.",
+    "Les occurrences de titres historiques répétées ne sont pas assimilées à des collisions de références canoniques."
+  ],
+  "post_deployment": {
+    "checked_at_utc": "2026-11-03T23:51:16.098361+00:00",
+    "checks": [
+      {
+        "name": "HTTP /search.json",
+        "passed": true,
+        "detail": null
+      },
+      {
+        "name": "HTTP /assets/search.js",
+        "passed": true,
+        "detail": null
+      },
+      {
+        "name": "HTTP /chapitres/tragedies/volume-ccii-euripide-danae/",
+        "passed": true,
+        "detail": null
+      },
+      {
+        "name": "HTTP /catalog/publication-verification.json",
+        "passed": true,
+        "detail": null
+      },
+      {
+        "name": "HTTP /catalog/numbering.json",
+        "passed": true,
+        "detail": null
+      },
+      {
+        "name": "HTTP /corpus/theatre-grec/comedies/ploutos-protos-controle.json",
+        "passed": true,
+        "detail": null
+      },
+      {
+        "name": "HTTP /corpus/theatre-grec/comedies/triphales-controle.json",
+        "passed": true,
+        "detail": null
+      },
+      {
+        "name": "HTTP /corpus/reconstitutions-3d/catalogue.json",
+        "passed": true,
+        "detail": null
+      },
+      {
+        "name": "HTTP /corpus/mythologie-grecque/archives/assets/style.css",
+        "passed": true,
+        "detail": null
+      },
+      {
+        "name": "HTTP /chapitres/origines-du-sacre/archives-integrales/tome-xxiii/",
+        "passed": true,
+        "detail": null
+      },
+      {
+        "name": "HTTP /chapitres/origines-du-sacre/tome-xxxviii-chapitres-443-450/",
+        "passed": true,
+        "detail": null
+      },
+      {
+        "name": "HTTP /chapitres/origines-du-sacre/471-inde-yuga-calendriers/",
+        "passed": true,
+        "detail": null
+      },
+      {
+        "name": "HTTP /chapitres/origines-du-sacre/462-egypte-sistre-hathor/",
+        "passed": true,
+        "detail": null
+      },
+      {
+        "name": "HTTP /theatre-grec-conserve-etudes-philosophiques/",
+        "passed": true,
+        "detail": null
+      },
+      {
+        "name": "HTTP /philosophie-theogonie.html",
+        "passed": true,
+        "detail": null
+      },
+      {
+        "name": "HTTP /chapitres/tragedies/volume-cci-euripide-protesilas/",
+        "passed": true,
+        "detail": null
+      },
+      {
+        "name": "HTTP /chapitres/tragedies/volume-clxxxviii-euripide-protesilas/",
+        "passed": true,
+        "detail": null
+      },
+      {
+        "name": "HTTP /corpus/mythologie-grecque/archives/bibliotheque.html",
+        "passed": true,
+        "detail": null
+      },
+      {
+        "name": "HTTP /",
+        "passed": true,
+        "detail": null
+      },
+      {
+        "name": "Index HTTP revalidé à chaque ouverture",
+        "passed": true,
+        "detail": null
+      },
+      {
+        "name": "Recherche /philosophie-iliade.html",
+        "passed": true,
+        "detail": null
+      },
+      {
+        "name": "Recherche /philosophie-odyssee.html",
+        "passed": true,
+        "detail": null
+      },
+      {
+        "name": "Recherche /philosophie-theogonie.html",
+        "passed": true,
+        "detail": null
+      },
+      {
+        "name": "Dossiers archéologiques recherchables",
+        "passed": true,
+        "detail": 9
+      },
+      {
+        "name": "/chapitres/origines-du-sacre/archives-integrales/tome-xxiii/#ref-1",
+        "passed": true,
+        "detail": null
+      },
+      {
+        "name": "/chapitres/origines-du-sacre/archives-integrales/tome-xxiii/#chap-853",
+        "passed": true,
+        "detail": null
+      },
+      {
+        "name": "/chapitres/origines-du-sacre/tome-xxxviii-chapitres-443-450/#chapitre-443",
+        "passed": true,
+        "detail": null
+      },
+      {
+        "name": "Repère des archives théâtrales unique",
+        "passed": true,
+        "detail": null
+      },
+      {
+        "name": "Pas de Derveni hors sujet /chapitres/origines-du-sacre/471-inde-yuga-calendriers/",
+        "passed": true,
+        "detail": []
+      },
+      {
+        "name": "Pas de Derveni hors sujet /chapitres/origines-du-sacre/462-egypte-sistre-hathor/",
+        "passed": true,
+        "detail": []
+      },
+      {
+        "name": "Ancienne adresse Protésilas redirigée",
+        "passed": true,
+        "detail": null
+      },
+      {
+        "name": "Lien archive vers école de Paris migré",
+        "passed": true,
+        "detail": null
+      },
+      {
+        "name": "Habillage commun /",
+        "passed": true,
+        "detail": null
+      },
+      {
+        "name": "Habillage commun /philosophie-theogonie.html",
+        "passed": true,
+        "detail": null
+      },
+      {
+        "name": "Habillage commun /corpus/mythologie-grecque/archives/bibliotheque.html",
+        "passed": true,
+        "detail": null
+      }
+    ],
+    "publication_proof": {
+      "source_commit": "a0d5b72a6e790cc1fdb7419d0b1ede732717b204",
+      "github_run_id": "41742087357",
+      "indexed_documents": 1102,
+      "verified_archives": 27,
+      "verified_media": 110,
+      "preserved_source_sha256": {
+        "chapitres/origines-du-sacre/576-bacs-peages-offrandes-passage.md": "b6704b3484d0c9e0c2e80ea9bdb7e0efa7c6b9723b9b9134f3b7e09c8357e3b1",
+        "chapitres/origines-du-sacre/577-monnaies-funeraires-charon-preuves-archeologiques.md": "b4a8e672fb28c90811f531e385cde4bd03aa9f8809613ca6cc8da44e78adf55b",
+        "chapitres/origines-du-sacre/582-attendre-signe-eclipse-sacrifices-decision.md": "2c5e6cd82626329b10e9d552865222ac4b13bbb4d185be48a3d75e4e4951b9e2",
+        "chapitres/origines-du-sacre/583-interpreter-oracles-expertise-controverse.md": "fd7e90661dedf60ef58a98419ab15aa699cab8b634e97c2b7508a751774eebaa",
+        "chapitres/origines-du-sacre/589-restaurer-oracles-didymes-recommencements.md": "6d8ce0ed61a233a8aad25200d2ffbf4c79cc619f452568792299ba7dc287a790",
+        "chapitres/origines-du-sacre/590-images-perdues-modeles-restauration-divine.md": "d585a1bd7c1ae4ae9f59ef16e6096323bb9aa33b28630523a0769c955da84b81",
+        "chapitres/origines-du-sacre/576-payer-pour-passer-tarifs-bacs-offrandes.md": "b35b3e2d52978e82a1b619e42c52b453efaa1d81e529034423a25a94f99eddc4",
+        "chapitres/origines-du-sacre/577-naufrages-secours-divins-survivants.md": "48975f3c16928dffab96166435a0c04db000f1288bebbafe23968d4bb3fca0ed",
+        "chapitres/origines-du-sacre/582-presages-depart-autorite-deliberation.md": "b850966b5b7af435898075d52c8de82add1197a2052722201ee928a5355a132c",
+        "chapitres/origines-du-sacre/583-croire-prevoir-instituer-xunzi-ciceron-nietzsche.md": "59c8ab681e411633880f1292b49f0504b9ab096ece8c4669ddc9a4bd980faa81",
+        "chapitres/origines-du-sacre/589-questions-privees-dodone-famille-metiers-risque.md": "e6e98e6c645a74d36aef2e0703a440480c29f8e75ab71d76fde771831d8f622e",
+        "chapitres/origines-du-sacre/590-reponse-en-voyage-messagers-ambassades-transmission.md": "df9b70a3ea2a0e1821c22f61abd9c3516754057c7914fc171a832f57aa37c5e1",
+        "chapitres/origines-du-sacre/annexe-576-payer-pour-passer-variante.md": "91507cab388ae767af004eb96a9162058d9314c554051db97262e532e904038e",
+        "chapitres/origines-du-sacre/580-naufrages-secours-divins-survivants.md": "7bdf15b85439d398c4bae664ed1e3b751b6234581fc4486c9b3c011c8a8ead49"
+      },
+      "last_numbered_chapter": 598,
+      "numbering_registry_sha256": "23ff79f6ecf44f6e0817317fc04f971c5d54f47c89242d88c3aec77d2905fc62"
+    },
+    "live_numbering": {
+      "collections": {
+        "encyclopedie": {
+          "studies": 55,
+          "last": 357
+        },
+        "tragedies": {
+          "studies": 103,
+          "last": 202
+        },
+        "comparatif": {
+          "studies": 104,
+          "last": 158
+        },
+        "comedies": {
+          "studies": 58,
+          "last": 58
+        },
+        "origines-du-sacre": {
+          "studies": 148,
+          "last": 598
+        }
+      },
+      "unresolved_collisions": 0
+    },
+    "http": [
+      {
+        "path": "/search.json",
+        "status": 200,
+        "final_url": "https://bobmythos.fr/search.json",
+        "bytes": 410117
+      },
+      {
+        "path": "/assets/search.js",
+        "status": 200,
+        "final_url": "https://bobmythos.fr/assets/search.js",
+        "bytes": 1360
+      },
+      {
+        "path": "/chapitres/tragedies/volume-ccii-euripide-danae/",
+        "status": 200,
+        "final_url": "https://bobmythos.fr/chapitres/tragedies/volume-ccii-euripide-danae/",
+        "bytes": 37713
+      },
+      {
+        "path": "/catalog/publication-verification.json",
+        "status": 200,
+        "final_url": "https://bobmythos.fr/catalog/publication-verification.json",
+        "bytes": 2470
+      },
+      {
+        "path": "/catalog/numbering.json",
+        "status": 200,
+        "final_url": "https://bobmythos.fr/catalog/numbering.json",
+        "bytes": 168656
+      },
+      {
+        "path": "/corpus/theatre-grec/comedies/ploutos-protos-controle.json",
+        "status": 200,
+        "final_url": "https://bobmythos.fr/corpus/theatre-grec/comedies/ploutos-protos-controle.json",
+        "bytes": 591
+      },
+      {
+        "path": "/corpus/theatre-grec/comedies/triphales-controle.json",
+        "status": 200,
+        "final_url": "https://bobmythos.fr/corpus/theatre-grec/comedies/triphales-controle.json",
+        "bytes": 612
+      },
+      {
+        "path": "/corpus/reconstitutions-3d/catalogue.json",
+        "status": 200,
+        "final_url": "https://bobmythos.fr/corpus/reconstitutions-3d/catalogue.json",
+        "bytes": 31386
+      },
+      {
+        "path": "/corpus/mythologie-grecque/archives/assets/style.css",
+        "status": 200,
+        "final_url": "https://bobmythos.fr/corpus/mythologie-grecque/archives/assets/style.css",
+        "bytes": 33478
+      },
+      {
+        "path": "/chapitres/origines-du-sacre/archives-integrales/tome-xxiii/",
+        "status": 200,
+        "final_url": "https://bobmythos.fr/chapitres/origines-du-sacre/archives-integrales/tome-xxiii/",
+        "bytes": 73576
+      },
+      {
+        "path": "/chapitres/origines-du-sacre/tome-xxxviii-chapitres-443-450/",
+        "status": 200,
+        "final_url": "https://bobmythos.fr/chapitres/origines-du-sacre/tome-xxxviii-chapitres-443-450/",
+        "bytes": 29037
+      },
+      {
+        "path": "/chapitres/origines-du-sacre/471-inde-yuga-calendriers/",
+        "status": 200,
+        "final_url": "https://bobmythos.fr/chapitres/origines-du-sacre/471-inde-yuga-calendriers/",
+        "bytes": 5619
+      },
+      {
+        "path": "/chapitres/origines-du-sacre/462-egypte-sistre-hathor/",
+        "status": 200,
+        "final_url": "https://bobmythos.fr/chapitres/origines-du-sacre/462-egypte-sistre-hathor/",
+        "bytes": 5907
+      },
+      {
+        "path": "/theatre-grec-conserve-etudes-philosophiques/",
+        "status": 200,
+        "final_url": "https://bobmythos.fr/theatre-grec-conserve-etudes-philosophiques/",
+        "bytes": 122535
+      },
+      {
+        "path": "/philosophie-theogonie.html",
+        "status": 200,
+        "final_url": "https://bobmythos.fr/philosophie-theogonie.html",
+        "bytes": 46742
+      },
+      {
+        "path": "/chapitres/tragedies/volume-cci-euripide-protesilas/",
+        "status": 200,
+        "final_url": "https://bobmythos.fr/chapitres/tragedies/volume-cci-euripide-protesilas/",
+        "bytes": 55749
+      },
+      {
+        "path": "/chapitres/tragedies/volume-clxxxviii-euripide-protesilas/",
+        "status": 200,
+        "final_url": "https://bobmythos.fr/chapitres/tragedies/volume-clxxxviii-euripide-protesilas/",
+        "bytes": 2031
+      },
+      {
+        "path": "/corpus/mythologie-grecque/archives/bibliotheque.html",
+        "status": 200,
+        "final_url": "https://bobmythos.fr/corpus/mythologie-grecque/archives/bibliotheque.html",
+        "bytes": 12212
+      },
+      {
+        "path": "/",
+        "status": 200,
+        "final_url": "https://bobmythos.fr/",
+        "bytes": 20031
+      }
+    ],
+    "browser_verification": {
+      "page": "https://bobmythos.fr/recherche/",
+      "query": "Théogonie",
+      "result_count": 6,
+      "expected_result": "PHILOSOPHIE DE LA THÉOGONIE",
+      "opened_url": "https://bobmythos.fr/philosophie-theogonie.html",
+      "visible_heading": "PHILOSOPHIE DE LA THÉOGONIE",
+      "museum_banner_visible": true
+    }
+  },
+  "fix_commits": [
+    "fe49503aa0171fc7086c9306776648d130ba55dc",
+    "a0d5b72a6e790cc1fdb7419d0b1ede732717b204"
+  ]
+}
