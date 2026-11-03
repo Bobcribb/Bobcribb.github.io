@@ -1,0 +1,203 @@
+# MYTHOS — Encyclopédie des tragédies grecques — Volume CLI (151)
+
+# Euripide, *Hippolyte* (Ἱππόλυτος) : le désir, la parole et la justice divine
+
+**Auteur :** Euripide. **Première représentation :** 428 av. J.-C. **Œuvre :** *Hippolyte porte-couronne* (*Hippolytos Stephanēphoros*), tragédie conservée, 1 466 vers selon la numérotation usuelle. **Continuité :** après le volume CL, *Médée*. **Statut critique :** texte conservé ; l'autre *Hippolyte* d'Euripide, généralement appelé *Hippolyte voilé*, est perdu. **Note éditoriale :** cette étude numérotée approfondit le dossier documentaire déjà présent sur le site, sans le remplacer.
+
+## 1. Méthode et sources
+
+Il faut distinguer quatre niveaux : (1) ce que dit la tragédie conservée ; (2) les informations des hypothèses antiques et de la tradition mythographique ; (3) les hypothèses concernant le premier *Hippolyte*, disparu ; (4) les interprétations philosophiques modernes. Une scène reconstruite du drame perdu ne saurait être présentée comme une citation d'Euripide. Les références de vers ci-dessous concernent exclusivement la tragédie conservée, sauf mention contraire.
+
+Sources principales : Euripide, *Hippolyte*, texte grec dans James Diggle, *Euripidis Fabulae*, I, Oxford, 1984 ; David Kovacs, *Euripides*, vol. II, Loeb Classical Library 484, Harvard University Press, 1995 ; W. S. Barrett, *Euripides: Hippolytos*, Oxford, 1964 ; Pausanias, *Description de la Grèce*, II, 32 ; Platon, *Phèdre* et *République* ; Aristote, *Poétique*. Les découpages indiqués sont des repères de lecture, non des divisions en « actes » antiques.
+
+## 2. Le problème tragique : innocence locale et faute globale
+
+Hippolyte n'a pas commis le viol ni la tentative de séduction dont son père Thésée le croit coupable. Pourtant Aphrodite lui reproche de dédaigner sa puissance et de lui refuser les honneurs qu'il accorde à Artémis. La tragédie met donc en présence deux ordres d'évaluation qui ne coïncident pas : l'innocence dans l'affaire familiale et le déséquilibre religieux. Cette différence n'autorise pas à conclure que sa mort serait juste. Le spectateur voit au contraire l'extrême disproportion entre le mépris d'une déesse et l'anéantissement d'un jeune homme.
+
+## 3. Le cadre : Trézène et la maison de Thésée
+
+L'action se déroule à Trézène, ville liée à la généalogie de Thésée. Hippolyte est fils de Thésée et d'une Amazone ; les traditions divergent sur l'identité de sa mère. Phèdre est l'épouse de Thésée et la belle-mère d'Hippolyte. Ces relations importent : la passion que suscite Aphrodite menace à la fois la maison royale, la filiation et la réputation des femmes. Les personnages ne disposent pas de la même liberté d'expression : le jeune homme peut proclamer sa pureté ; Phèdre doit négocier avec l'honneur conjugal et la surveillance domestique.
+
+## 4. Prologue, vers 1–57 : Aphrodite expose son dessein
+
+Aphrodite annonce qu'elle châtiera Hippolyte pour son refus de la reconnaître. Le spectateur connaît donc dès l'ouverture la causalité divine que Thésée ignorera longtemps. L'information est dramatiquement asymétrique : le public comprend que Phèdre est à la fois sujet souffrant et instrument de vengeance. L'intervention d'Aphrodite ne retire pas toute responsabilité aux humains ; elle rend leur liberté plus difficile à évaluer.
+
+La divinité précise que la mort de Phèdre s'inscrit dans le prix de son entreprise. La destruction n'est donc pas un accident imprévu : l'innocente relative, celle qui ne choisit pas d'aimer, peut être sacrifiée à une rivalité entre puissances divines.
+
+## 5. Vers 58–120 : Hippolyte couronne Artémis
+
+Le héros arrive avec ses compagnons de chasse et honore Artémis. La couronne offerte à la déesse est l'emblème d'une relation exclusive. Dans son dialogue avec un serviteur, Hippolyte refuse de saluer Aphrodite. Le serviteur lui conseille une attitude plus mesurée envers les dieux. Ce bref échange constitue une mise en garde éthique : la pureté d'une dévotion peut devenir orgueil lorsqu'elle se transforme en négation des autres puissances.
+
+Il serait réducteur de dire que la pièce condamne la chasteté. Elle examine plutôt la transformation d'un idéal personnel en hiérarchie absolue des valeurs.
+
+## 6. Parodos et maladie de Phèdre, vers 121–250
+
+Le chœur de femmes de Trézène évoque l'état inquiétant de la reine. Phèdre paraît malade, refuse la nourriture et peine à parler. Le vocabulaire du corps masque une crise où le désir, la honte et la réputation sont inséparables. La maladie n'est pas un diagnostic médical moderne : elle est le langage dramatique d'une passion imposée et d'une identité menacée.
+
+La parole hésitante de Phèdre révèle des images de chasse et de vie sauvage associées à Hippolyte. L'objet du désir apparaît indirectement avant d'être nommé. La tragédie montre comment une vérité peut être exprimée avant d'être publiquement reconnue.
+
+## 7. L'aveu à la Nourrice, vers 251–361
+
+La Nourrice tente d'obtenir le secret de Phèdre. Celle-ci reconnaît finalement sa passion pour Hippolyte. L'aveu ne constitue pas une proposition adressée au jeune homme : c'est une confidence arrachée dans un espace de soin et de dépendance. La distinction est décisive pour apprécier les responsabilités ultérieures.
+
+Phèdre réfléchit à la différence entre savoir ce qui est juste et le faire. Son analyse de la honte, de la réputation et des conduites humaines interdit d'en faire un personnage uniquement dominé par l'impulsion. Sa lucidité accroît le caractère tragique de son impasse.
+
+## 8. La Nourrice : sollicitude et violation du secret
+
+La Nourrice veut sauver Phèdre. Elle croit pouvoir rendre le désir moins destructeur en intervenant auprès d'Hippolyte. Sa bienveillance subjective ne garantit pourtant pas la justesse de son acte. Elle traite la confidence comme une information dont elle peut disposer. La catastrophe commence lorsqu'une relation de confiance est convertie en opération de persuasion.
+
+La Nourrice n'est pas simplement une « mauvaise conseillère ». Elle incarne le problème éthique de l'aide imposée : que devient le soin lorsqu'il retire à l'autre la maîtrise de sa propre parole ?
+
+## 9. Le secret révélé et la colère d'Hippolyte, vers 565–668
+
+Hippolyte réagit avec indignation aux propos de la Nourrice. Sa tirade contre les femmes manifeste une violence généralisatrice : une proposition qui le scandalise devient l'occasion d'accuser un sexe entier. Le public peut reconnaître son innocence sans approuver sa misogynie. C'est précisément l'un des ressorts de la complexité euripidienne.
+
+Le serment de silence qu'il a prêté à la Nourrice crée un conflit entre la vérité factuelle et la fidélité à la parole donnée. Plus tard, il ne pourra se défendre sans mettre en cause ce serment. La tragédie ne propose pas de solution juridique simple à cette collision d'obligations.
+
+## 10. Phèdre décide de mourir : honneur et dommage infligé
+
+Après la révélation, Phèdre se juge déshonorée. Elle choisit le suicide, mais laisse aussi une tablette accusant Hippolyte. Ce dernier geste doit être évalué distinctement de sa souffrance initiale. La passion lui a été imposée par Aphrodite ; l'accusation mensongère a des conséquences que la pièce met au premier plan.
+
+La réputation devient une ressource posthume : la morte peut imposer un récit au vivant. L'écrit semble offrir une preuve matérielle alors qu'il transmet une accusation fausse. Euripide expose ainsi une dissociation entre autorité documentaire et vérité.
+
+## 11. Vers 776–886 : découverte du corps et de la tablette
+
+Thésée revient, trouve Phèdre morte et lit sa lettre. Son jugement naît d'un document qu'il croit irréfutable et de l'impossibilité d'interroger l'accusatrice. La tablette n'est pas un témoignage contradictoire. Elle possède pourtant une puissance d'action supérieure à celle des paroles que prononcera ensuite Hippolyte.
+
+Ce mécanisme peut être rapproché, avec prudence, des récits de preuves fabriquées dans les tragédies perdues sur Palamède : dans les deux cas, un support écrit oriente la condamnation. Il ne s'agit pas de prétendre qu'Euripide reprend une scène identique.
+
+## 12. Thésée et la malédiction de Poséidon, vers 887–980
+
+Thésée invoque l'un des vœux accordés par Poséidon pour demander la mort de son fils. Sa position de père et de roi concentre deux pouvoirs : la sanction domestique et la parole efficace adressée au dieu. Il agit avant d'avoir instruit le conflit. La tragédie ne présente pas la colère paternelle comme une preuve.
+
+L'invocation est irréversible dans ses effets. Le problème n'est pas seulement celui d'une erreur individuelle, mais celui d'une autorité qui peut transformer une conviction non vérifiée en condamnation mortelle.
+
+## 13. L'agôn entre Thésée et Hippolyte, vers 983–1101
+
+Hippolyte répond à l'accusation en invoquant sa conduite et sa chasteté. Son innocence est réelle, mais son langage ne peut convaincre un père qui a déjà choisi son interprétation. Le dialogue n'est donc pas un débat équitable où deux arguments auraient la même chance d'être entendus. Il représente un échec de la reconnaissance.
+
+Le serment de silence est central : Hippolyte ne peut expliquer l'origine de l'accusation sans manquer à sa promesse. La pièce met en crise une morale fondée sur l'application isolée de principes pourtant honorables.
+
+## 14. L'exil, le chœur et l'attente
+
+Thésée chasse Hippolyte. Le chœur, qui connaît une part de la vérité, demeure incapable de défaire l'enchaînement. Cette impuissance doit être lue à partir des conventions de la tragédie, et non comme l'illustration mécanique d'une faute de spectateurs passifs. Le chœur n'est ni omniscient ni politiquement souverain.
+
+L'exil constitue une mort sociale avant la mort physique. Le fils privé de confiance perd son lieu, son nom reconnu et la protection du foyer.
+
+## 15. Le récit du messager, vers 1153–1267
+
+Un messager rapporte la catastrophe : un monstre marin surgit, les chevaux s'emballent et le char d'Hippolyte se brise. La scène meurtrière n'est pas montrée directement ; elle est rendue sensible par un récit détaillé. Cette médiation verbale permet au spectateur de relier l'accident au vœu de Thésée et à la puissance de Poséidon.
+
+La mort survient dans l'univers même où Hippolyte semblait exceller, celui des chevaux et de la maîtrise corporelle. Le talent ne protège pas contre l'intervention divine.
+
+## 16. Artémis et la révélation finale, vers 1282–1341
+
+Artémis révèle à Thésée la vérité. Son intervention rétablit la connaissance trop tard pour sauver Hippolyte. Les dieux apparaissent soumis à une logique de rivalité et de réciprocité : Artémis ne neutralise pas la vengeance d'Aphrodite. Le public peut donc distinguer la révélation véridique de l'existence d'une justice divine pleinement satisfaisante.
+
+La déesse annonce qu'elle honorera la mémoire d'Hippolyte. Le culte compense symboliquement une destruction qu'il n'annule pas.
+
+## 17. Père et fils : la reconnaissance au bord de la mort
+
+La dernière rencontre entre Thésée et Hippolyte restaure leur relation au moment où elle ne peut plus être vécue. Hippolyte pardonne à son père ; ce pardon ne transforme pas rétroactivement l'accusation en acte juste. Il marque une séparation entre la faute, la connaissance de la faute et la possibilité d'un dernier lien.
+
+La tragédie impose ainsi une temporalité irréparable : on peut enfin savoir, reconnaître et pardonner sans pouvoir empêcher le mal.
+
+## 18. Le rite de Trézène et la mémoire féminine, vers 1423–1430
+
+Artémis promet qu'avant leur mariage des jeunes filles de Trézène consacreront leurs cheveux à Hippolyte et chanteront son histoire. Pausanias, II, 32, rapporte également l'existence d'un sanctuaire et de rites associés au héros. Le rapprochement atteste une tradition cultuelle, mais ne permet pas de conclure que chaque détail de la représentation euripidienne reproduit une cérémonie historiquement observée.
+
+Paradoxe remarquable : celui qui refusait la sexualité matrimoniale devient une figure honorée lors du passage des jeunes filles au mariage. La mort du héros est intégrée à une mémoire collective des transitions de vie.
+
+## 19. Les deux *Hippolyte* : limites de la reconstruction
+
+Les témoignages anciens distinguent une première pièce, perdue, appelée *Hippolyte voilé*, et la tragédie conservée de 428, *Hippolyte porte-couronne*. On a souvent supposé que la première version présentait une Phèdre plus directement entreprenante et qu'Euripide aurait modifié sa dramaturgie après des critiques. Cette hypothèse est plausible mais son détail reste débattu. Le titre du premier drame ne permet pas, à lui seul, de restituer une scène précise.
+
+Pour les fragments du premier *Hippolyte*, consulter l'édition de Richard Kannicht, *Tragicorum Graecorum Fragmenta*, vol. 5, *Euripides*, Göttingen, 2004, sous le titre *Hippolytos Kalyptomenos*. **Aucune attribution de numéro de fragment n'est proposée ici sans confrontation directe de la notice critique** : ce choix évite de confondre le drame perdu avec les 1 466 vers conservés de la seconde version.
+
+## 20. Aphrodite et Artémis : une opposition à ne pas simplifier
+
+Aphrodite n'est pas seulement « l'amour » et Artémis seulement « la chasteté ». Elles gouvernent des domaines religieux, sociaux et symboliques qui se recoupent dans les passages de l'adolescence à l'âge adulte. Le héros prétend privilégier une relation sans mélange ; le drame montre le coût d'une exclusion radicale d'une puissance reconnue par la communauté.
+
+Mais l'opposition divine ne doit pas excuser la cruauté d'Aphrodite. Le fait qu'un dieu défende son honneur n'établit pas la justice de son châtiment.
+
+## 21. Phèdre : agentivité limitée et responsabilité réelle
+
+Deux lectures symétriques sont insuffisantes. Phèdre n'est ni une victime totalement privée d'action, ni une manipulatrice entièrement libre dès l'origine. Son désir résulte de l'action d'Aphrodite ; elle lutte pour le taire ; puis elle participe à une accusation mortelle. La tragédie invite à distinguer causalité, contrainte, intention et responsabilité, au lieu de tout ramener à un verdict moral unique.
+
+La comparaison avec *Médée* (MYTHOS CL) est féconde mais doit rester précise : Médée élabore une vengeance consciente contre Jason, tandis que Phèdre tente d'abord de préserver son honneur contre une passion qu'elle refuse.
+
+## 22. Le document mensonger et l'épistémologie de la preuve
+
+La tablette de Phèdre est l'un des objets les plus efficaces du drame. L'écrit survit à son auteure, supprime l'échange contradictoire et devient une autorité en raison de son apparente fixité. Le spectateur sait qu'il est faux ; Thésée le croit vrai. Cette dissociation fabrique une ironie tragique d'une rare intensité.
+
+Il faut néanmoins éviter l'anachronisme : la pièce ne constitue pas une théorie moderne de la procédure pénale. Elle donne à penser le problème général du témoignage, de la preuve et de la précipitation du jugement.
+
+## 23. Platon : éros, maîtrise et discours
+
+Le *Phèdre* de Platon analyse différentes formes de désir et la puissance des discours ; il ne faut pas y projeter une réponse directe à la tragédie homonyme. Dans la *République*, les discussions sur la maîtrise de soi et l'ordre de l'âme offrent des instruments de comparaison. Chez Euripide, le désir n'est pas seulement un mouvement intérieur à gouverner : il peut être la conséquence d'une puissance divine hostile.
+
+La question platonicienne du bon gouvernement de l'âme éclaire la lucidité de Phèdre ; elle n'épuise pas la causalité tragique ni l'injustice subie par Hippolyte.
+
+## 24. Aristote : action, reconnaissance et pitié
+
+La *Poétique* fournit des concepts utiles : renversement, reconnaissance, erreur, pitié et crainte. La révélation d'Artémis est une reconnaissance trop tardive ; elle rend visible l'écart entre savoir et pouvoir agir. Il serait cependant abusif d'attribuer à Aristote un commentaire systématique de chaque séquence de l'*Hippolyte*. Les concepts aristotéliciens sont ici des instruments analytiques, non des gloses anciennes attestées sur ce passage.
+
+## 25. Hegel : conflit de normes et insuffisance de la réconciliation
+
+Une lecture inspirée de Hegel pourrait voir dans le drame une collision entre des fidélités légitimes mais unilatérales : Hippolyte défend son idéal de pureté ; Phèdre son honneur ; Thésée sa maison et l'autorité paternelle. Cette lecture fait apparaître la logique d'une éthique fragmentée.
+
+Elle doit cependant être corrigée : les positions ne sont pas toutes équivalentes. La fausse accusation et la malédiction précipitée ne deviennent pas légitimes parce qu'elles expriment des normes sociales. La reconnaissance finale n'est pas une réconciliation historique accomplie, puisque le fils meurt.
+
+## 26. Nietzsche : l'excès des puissances et le refus de la consolation
+
+À partir de *La Naissance de la tragédie* (1872), on peut interroger la tension entre la forme intelligible du drame et la violence qui déborde la volonté des individus. Le corps mutilé d'Hippolyte défait l'image d'une maîtrise héroïque. Pourtant, il ne faut pas réduire Aphrodite à un « dionysiaque » simplifié ni Artémis à un « apollinien » stable : ces équivalences ne sont pas celles du texte antique.
+
+La tragédie résiste à la consolation parce que la vérité arrive sans salut. Le rite mémoriel offre une survie symbolique, non une réparation de la vie perdue.
+
+## 27. Le silence comme vertu et comme piège
+
+Hippolyte est tenu par un serment. La fidélité à sa parole manifeste une forme de rectitude, mais elle l'empêche de défaire une calomnie. Phèdre, quant à elle, tente de se taire pour préserver sa réputation ; la Nourrice parle pour l'aider et déclenche la catastrophe. Trois formes de silence — résistance, honneur et secret — entrent ainsi en collision.
+
+La pièce ne dit pas que parler est toujours bon ni que se taire est toujours juste. Elle examine les conditions dans lesquelles une obligation devient destructrice lorsqu'elle est isolée des autres.
+
+## 28. Comparaison mythologique : Joseph, Bellérophon et le motif de l'accusation
+
+L'épisode de Bellérophon dans l'*Iliade* VI, 155–205, présente une accusation sexuelle mensongère suivie d'un message écrit destiné à perdre le héros. Le récit biblique de Joseph et de la femme de Potiphar (Genèse 39) appartient à une autre tradition où le refus d'une sollicitation est suivi d'une accusation. Ces ressemblances autorisent une comparaison typologique sur la calomnie, le refus et le pouvoir domestique ; elles ne démontrent ni emprunt direct d'Euripide à la Bible, ni origine unique des récits.
+
+Dans l'*Hippolyte*, la particularité dramatique est que l'accusatrice meurt avant que le père puisse confronter les témoignages.
+
+## 29. Comparaison avec *Phèdre* de Sénèque et Racine
+
+La *Phaedra* de Sénèque et la *Phèdre* de Racine prolongent et transforment le dossier antique. Leurs configurations de l'aveu, de la culpabilité et de l'intervention divine ne doivent pas être réinjectées sans précaution dans le texte de 428. Une étude comparative doit suivre les changements de statut de la Nourrice, les formes de l'aveu et les conditions de la révélation finale.
+
+Racine ne constitue pas une traduction de la tragédie grecque ; sa pièce appartient à une autre dramaturgie morale et politique.
+
+## 30. Iconographie et topographie : documents et limites
+
+**Trézène :** Pausanias, II, 32, constitue le témoignage littéraire essentiel pour le sanctuaire d'Hippolyte et les rites locaux. La topographie archéologique doit être contrôlée auprès des publications de fouilles et des services patrimoniaux grecs avant d'attribuer une photographie précise à un monument de la pièce.
+
+**Vases grecs et sarcophages :** les représentations de Phèdre et d'Hippolyte peuvent documenter la réception du mythe ; une image mythologique ne saurait être présentée automatiquement comme une illustration de la mise en scène d'Euripide. Pour constituer un dossier illustré, rechercher les notices d'inventaire des musées avec datation, provenance et identification iconographique argumentée. Aucune illustration non sourcée n'est intégrée dans ce fichier.
+
+## 31. Réception et actualité philosophique
+
+L'œuvre continue d'interroger les effets d'une accusation impossible à contester, les asymétries entre parole masculine et parole féminine, le pouvoir de la honte, ainsi que la violence produite par la certitude morale. Il faut résister à deux simplifications contemporaines : faire de Phèdre une figure uniquement condamnable ou uniquement disculpée, et faire d'Hippolyte une victime parfaite dont les discours seraient exempts de violence.
+
+La force d'Euripide est d'exposer simultanément des injustices distinctes, sans les dissoudre dans une morale uniforme.
+
+## 32. Conclusion : savoir trop tard
+
+L'*Hippolyte* raconte une catastrophe dont le public connaît les causes avant les personnages. La vérité existe, mais elle ne circule pas au moment où elle pourrait sauver. Une déesse sait ; un fils se tait ; une femme meurt en accusant ; un père condamne ; une autre déesse révèle. L'ordre des révélations est l'ordre même de la tragédie.
+
+La grandeur de l'œuvre tient à ce qu'elle refuse de confondre innocence, perfection morale, responsabilité et réparation. Hippolyte est innocent du crime imputé ; il n'est pas pour autant sans orgueil. Phèdre subit une passion qu'elle n'a pas choisie ; elle participe néanmoins à la ruine du jeune homme. Thésée aime son foyer ; son empressement à punir le détruit. Les dieux disent vrai et agissent puissamment ; leur conduite ne se confond pas avec la justice humaine.
+
+## Bibliographie sélective et vérifiable
+
+**Éditions et commentaires :** W. S. Barrett, *Euripides: Hippolytos*, Oxford, Clarendon Press, 1964 ; James Diggle (éd.), *Euripidis Fabulae*, vol. I, Oxford Classical Texts, 1984 ; David Kovacs (éd. et trad.), *Euripides*, vol. II, Loeb Classical Library 484, Harvard University Press, 1995 ; Richard Kannicht (éd.), *Tragicorum Graecorum Fragmenta*, vol. 5, *Euripides*, Göttingen, Vandenhoeck & Ruprecht, 2004 (pour le drame perdu).
+
+**Études :** Ruth Scodel, « The Second *Hippolytus* », *Classical Philology* 75 (1980), p. 23–49 ; Charles Segal, *Interpreting Greek Tragedy: Myth, Poetry, Text*, Cornell University Press, 1986 ; Nicole Loraux, *Façons tragiques de tuer une femme*, Hachette, 1985 ; Jean-Pierre Vernant et Pierre Vidal-Naquet, *Mythe et tragédie en Grèce ancienne*, Maspero, 1972, et *Mythe et tragédie deux*, La Découverte, 1986.
+
+**Sources comparatives :** Homère, *Iliade* VI, 155–205 ; Pausanias, *Description de la Grèce* II, 32 ; Platon, *Phèdre* et *République* ; Aristote, *Poétique* ; Sénèque, *Phaedra* ; Racine, *Phèdre* ; *Genèse* 39.
+
+**Accès aux corpus :** [Perseus Digital Library](https://www.perseus.tufts.edu/) ; [Loeb Classical Library](https://www.loebclassics.com/) ; [Oxford Classical Texts](https://global.oup.com/academic/) ; [Bibliothèque nationale de France — Gallica](https://gallica.bnf.fr/).
+
+**Renvois MYTHOS :** volume CL, *Médée* ; dossier documentaire historique « Euripide — Hippolyte : lecture dramaturgique et critique » ; étude encyclopédique « Hippolyte, Artémis, Aphrodite et Trézène ». Ces dossiers sont complémentaires et ne doivent pas être supprimés.
