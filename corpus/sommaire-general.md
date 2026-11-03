@@ -3,6 +3,7 @@
 Les cotes éditoriales sont propres à chaque collection. La mythologie grecque est **autonome** et ne dépend ni de la Grande encyclopédie ni de la mythologie comparée. Les archives originales ne sont pas renumérotées ni écrasées.
 
 ## MG — Mythologie grecque (collection autonome)
+- **Portail unifié de l’encyclopédie grecque** : [toute la mythologie grecque et les textes complets disponibles](https://bobmythos.fr/mythologie-grecque/) — archives historiques, chapitres universitaires numérotés, dieux, héros, cycles, philologie, atlas et interprétations. La liste est régénérée depuis les fichiers réellement publiés. Les manuscrits encore absents restent au registre de récupération.
 - **MG-01 — Cosmogonie et Théogonie** : [Hésiode](mythologie-grecque/archives/livre-hesiode.html)
 - **MG-02 — Dieux et divinités** : [Encyclopédie des dieux](mythologie-grecque/archives/livre-dieux.html)
 - **MG-03 — Héros et héroïnes** : [Monographies](mythologie-grecque/archives/monographies.html), [Héraclès](mythologie-grecque/archives/livre-heracles.html)
