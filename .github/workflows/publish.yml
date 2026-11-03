@@ -6,6 +6,8 @@ on:
     paths:
       - '.github/workflows/publish.yml'
       - 'scripts/build_native.py'
+      - 'scripts/apply_museum_design.py'
+      - 'scripts/verify_museum_design.py'
       - 'scripts/publish_site.py'
       - 'scripts/validate_publication.py'
       - 'tests/test_publish_site.py'
@@ -59,6 +61,8 @@ jobs:
       - name: Reconstruire, contrôler et synchroniser la dernière version de main
         id: synchronization
         run: python scripts/publish_site.py
+      - name: Vérifier le graphisme commun et la conservation des textes
+        run: python scripts/verify_museum_design.py
       - name: Configurer GitHub Pages
         uses: actions/configure-pages@v5
       - name: Préparer le site statique
