@@ -306,13 +306,19 @@ def main():
     if atlas_page.is_file():
         atlas_doc = BeautifulSoup(atlas_page.read_text(encoding="utf-8"), "html.parser")
         intro = atlas_doc.select_one("p.portal-lead")
-        href = "/Mythos/reconstitutions-photorealistes.html"
+        href = "/reconstitutions-photorealistes.html"
+        changed = False
+        for old_link in atlas_doc.select('a[href="/Mythos/reconstitutions-photorealistes.html"]'):
+            old_link["href"] = href
+            changed = True
         if intro and not atlas_doc.select_one('a[href="' + href + '"]'):
             link_block = atlas_doc.new_tag("p", attrs={"class": "mythos-photorealistic-link"})
             link = atlas_doc.new_tag("a", href=href)
             link.string = "Reconstitutions 3D photoréalistes publiées — consulter les images, sources et degrés de certitude"
             link_block.append(link)
             intro.insert_after(link_block)
+            changed = True
+        if changed:
             atlas_page.write_text(str(atlas_doc), encoding="utf-8")
     # Ancienne adresse de catalogue encore utilisée par des archives conservées.
     write("catalogue/index.html", '<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta http-equiv="refresh" content="0;url=/rubriques/"><link rel="canonical" href="https://bobmythos.fr/rubriques/"><title>Catalogue MYTHOS</title></head><body><p><a href="/rubriques/">Accéder au catalogue MYTHOS</a></p></body></html>')
