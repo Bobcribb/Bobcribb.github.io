@@ -1,0 +1,15 @@
+{
+  "source_git_blob": "7e700ab6e72f26208e47d6e3eb600e41f95af78c",
+  "independent_markdown_renderer": "MarkdownIt",
+  "independent_dom_parser": "BeautifulSoup",
+  "source_sections_compared": 22,
+  "source_sections_identical": 22,
+  "browser": "Chromium via Playwright, local set_content with identical CSS and embedded repository SVG",
+  "widths_px": [360, 390, 768, 1440],
+  "pages": ["daidalos-etude.html", "daidalos-scenes-modernes.html"],
+  "browser_cases": 8,
+  "horizontal_overflow_cases": 0,
+  "javascript_errors": 0,
+  "public_domain_verified": false,
+  "scope": "Local rendering and content coverage; not a live production navigation test."
+}

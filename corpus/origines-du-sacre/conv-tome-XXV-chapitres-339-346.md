@@ -1,0 +1,316 @@
+# MYTHOS — LES ORIGINES DU SACRÉ
+## TOME XXV — SANCTUAIRES, ESPACES SACRÉS ET GÉOGRAPHIE RELIGIEUSE
+### Chapitres 339 à 346 — édition de travail, 1er novembre 2026
+
+**Position dans la série :** suite directe du tome XXIV (chapitres 331-338). **Statut :** manuscrit livré, non publié sur WordPress. **Principe critique :** les monuments et les rites attestés sont distingués des interprétations des archéologues et des propositions philosophiques.
+
+## Introduction générale — Faire d'un lieu un monde
+
+L'étude de la mort a montré que les sociétés ne se contentent pas de subir les événements biologiques : elles leur assignent des lieux, des seuils et des gestes. Une interrogation complémentaire s'impose : pourquoi certains espaces deviennent-ils des lieux où les humains pensent pouvoir rencontrer des puissances invisibles ? La montagne, la source, la clairière, le foyer, l'autel et le temple ne possèdent pas partout la même valeur. Le mot « sanctuaire » risque même de projeter sur des sociétés préhistoriques des institutions connues surtout grâce aux textes des civilisations historiques.
+
+Il faut donc distinguer trois opérations. **Identifier** un lieu particulier : source, sommet, grotte, arbre, emplacement ancestral. **Délimiter** un domaine : enceinte, seuil, parcours d'accès, interdiction, aire réservée. **Instituer** des pratiques : sacrifices, processions, fêtes, dépôts, entretien, administration. Ces opérations peuvent se combiner sans nécessairement aboutir à un temple monumental. Le sacré est une relation historiquement construite entre personnes, pratiques, objets et espaces, non une qualité que l'archéologie pourrait mesurer directement dans une pierre.
+
+---
+
+# CHAPITRE 339 — GÖBEKLI TEPE : LE SANCTUAIRE AVANT LE TEMPLE ?
+
+### 339.1. Un ensemble monumental à la charnière du Mésolithique et du Néolithique
+
+Situé près de Şanlıurfa, dans le sud-est de la Turquie, Göbekli Tepe appartient au Néolithique précéramique. L'UNESCO situe les principales phases monumentales entre environ 9600 et 8200 avant notre ère. Les structures ovales ou circulaires associent murs, banquettes et grands piliers calcaires en T ; certains dépassent cinq mètres. Des reliefs représentent notamment renards, serpents, sangliers, oiseaux et autres animaux. Des ceintures, bras et pagnes sculptés sur certains piliers suggèrent des figures anthropomorphes stylisées. La monumentalité précède ici l'établissement de grandes sociétés agricoles étatiques ; elle ne prouve pourtant pas que les bâtisseurs vivaient exclusivement de chasse et de cueillette à toutes les phases de l'occupation.
+
+L'ancienne image d'un « temple isolé » doit être révisée : les fouilles ont identifié autour des grandes enceintes des bâtiments de moindre taille dont certains paraissent domestiques. Le dossier UNESCO le précise désormais expressément. Il faut donc étudier l'articulation des constructions spéciales avec l'habitat, l'alimentation, les activités techniques et la circulation régionale. L'opposition simpliste « d'abord la religion, ensuite l'agriculture » ne correspond pas à une séquence démontrée.
+
+### 339.2. Une architecture qui organise les corps
+
+La disposition de deux grands piliers centraux, entourés d'autres piliers insérés dans les murs, produit une scénographie. L'architecture ne se réduit pas à un abri ; elle dirige les regards et les déplacements. La construction a exigé extraction, transport, taille et mise en place de blocs massifs. Elle suppose des savoir-faire partagés et une capacité de coopération. Il serait toutefois abusif d'en déduire l'existence d'une caste sacerdotale ou d'une monarchie. La coordination collective peut prendre plusieurs formes.
+
+Le caractère anthropomorphe de certains piliers constitue un indice fort d'une iconographie du corps. Mais leur identification à des dieux, à des ancêtres ou à des officiants reste une hypothèse. Les animaux représentés ne sont pas nécessairement des « totems » au sens strict ; ce terme possède une histoire anthropologique précise et ne doit pas devenir un synonyme de tout animal symbolique.
+
+### 339.3. Crânes humains et cérémonies : jusqu'où peut-on aller ?
+
+Des restes humains fragmentaires, notamment des fragments crâniens portant parfois des traces de modification, ont été étudiés sur le site. Ils autorisent une réflexion sur des pratiques de traitement des morts, mais ne démontrent pas que toutes les enceintes étaient des bâtiments funéraires. La relation exacte entre ossements, remplissages et usage initial des bâtiments demeure discutée. Le remplissage des enceintes a longtemps été décrit comme une fermeture intentionnelle ; les processus de formation des dépôts et leur temporalité doivent être examinés structure par structure.
+
+L'article de Marc Verhoeven publié en 2025 dans le *Cambridge Archaeological Journal* propose une lecture relationnelle des représentations humaines et animales. Cette interprétation, intéressante pour penser une ontologie où les êtres se définissent par leurs rapports, demeure un modèle savant, non un témoignage direct des croyances néolithiques. Les « chamanes » évoqués dans certaines reconstructions ne sont pas attestés par un texte ni identifiables sur un pilier.
+
+### 339.4. Une leçon méthodologique
+
+La catégorie « premier temple du monde » est trompeuse. Elle suppose une définition universelle du temple et une chronologie complète de tous les sites, ce que nous ne possédons pas. Göbekli Tepe prouve plutôt qu'une architecture collective à forte charge symbolique pouvait être édifiée avant les premières villes et les grands États. L'édifice spécial n'est pas encore le temple administré par un clergé, tel qu'on le rencontrera plus tard en Mésopotamie.
+
+**Attesté :** enceintes mégalithiques, piliers anthropomorphes, reliefs animaliers, occupations et bâtiments de tailles différentes. **Discuté :** fonction précise des enceintes, modalités de fermeture, place des funérailles et du pouvoir. **Hypothèse :** l'espace monumental a pu servir à négocier des relations entre groupes humains et puissances non humaines.
+
+**Références :** UNESCO, *Göbekli Tepe*, dossier 1572, https://whc.unesco.org/fr/list/1572/ ; Marc Verhoeven, « Relationality, Immanence, Hierarchy: The Nature and Culture of Being(s) at Göbekli Tepe », *Cambridge Archaeological Journal* 35/3 (2025), p. 504-521, DOI 10.1017/S0959774325000113.
+
+---
+
+# CHAPITRE 340 — JERF EL AHMAR, MUREYBET ET KARAHANTEPE : L'ESPACE COMMUNAUTAIRE AVANT LA CITÉ
+
+### 340.1. Des villages, non de simples sanctuaires
+
+À Jerf el Ahmar, dans la vallée syrienne de l'Euphrate, les fouilles dirigées par Danielle Stordeur ont documenté une architecture villageoise d'une remarquable complexité, datée approximativement de 9500 à 8700 avant notre ère. Des maisons, des espaces de circulation et des bâtiments communautaires y coexistent. Le site a été submergé après les opérations archéologiques de sauvetage. Sa documentation offre un contrepoint précieux à l'image de Göbekli Tepe : l'organisation collective peut se développer au sein même d'un habitat.
+
+Dans l'article de *Paléorient* de 2000, Stordeur, Brenet, Der Aprahamian et Roux distinguent des bâtiments communautaires plus anciens, divisés en cellules rayonnantes et susceptibles de fonctions multiples, et des bâtiments plus récents dont les banquettes périphériques suggèrent un usage de réunion sociale et/ou rituelle. Le premier type peut associer stockage et cérémonies ; le second ne comporte pas les mêmes installations de stockage. La différence architecturale n'est pas un simple changement de style : elle peut traduire une transformation de l'organisation collective.
+
+### 340.2. Une communauté se donne un centre
+
+Une pièce collective crée une échelle nouvelle entre la maison et le village. Elle peut réunir des personnes appartenant à plusieurs unités domestiques. Elle permet de partager des ressources, de négocier des décisions, de célébrer des rites, voire de résoudre des conflits. Ces fonctions ne sont pas exclusives. La division moderne entre « salle municipale », « entrepôt » et « temple » ne s'applique pas nécessairement à une communauté sans écriture.
+
+Il convient ici de distinguer la **fonction** d'un bâtiment, inférée des vestiges, de sa **signification**, qui peut demeurer inaccessible. Une banquette favorise l'assise ; elle ne démontre pas à elle seule l'existence d'un conseil des anciens. Une dalle décorée suggère une attention symbolique ; elle ne révèle pas le nom d'une divinité. L'archéologue reconstruit des possibilités hiérarchisées, non un récit complet des cérémonies.
+
+### 340.3. Karahantepe et la fermeture des bâtiments
+
+Karahantepe, dans la même grande région néolithique du sud-est anatolien, associe constructions particulières et secteurs d'habitat. Necmi Karul a décrit en 2021 plusieurs bâtiments comblés intentionnellement, dont la structure AB. Les aménagements rocheux, les piliers et les sculptures y témoignent d'une élaboration remarquable. Mais le mot « temple » n'est pas une conclusion automatique : Karul emploie notamment la notion de *special buildings*, qui désigne une singularité architecturale sans imposer une théologie.
+
+Le comblement d'un bâtiment peut être une fermeture rituelle, un geste de mémoire, une préparation à une nouvelle construction ou une combinaison de pratiques. L'étude des couches de remplissage, des objets associés et des reconstructions successives est indispensable. Parler de « mise à mort d'un temple » serait une métaphore, non une description stratigraphique.
+
+### 340.4. Réflexion comparative
+
+Les bâtiments collectifs de Jerf el Ahmar et les structures spéciales de Karahantepe invitent à réviser l'idée d'un passage linéaire de la hutte au temple. La monumentalité, la sédentarisation, l'agriculture, les fêtes et les formes de hiérarchie ont pu évoluer ensemble, à des rythmes différents. Le rituel peut contribuer à faire communauté, mais la communauté préexistante peut aussi produire des rites. Le sens de la causalité ne se laisse pas isoler.
+
+**Attesté :** bâtiments communautaires, banquettes, cellules, structures particulières et comblements documentés. **Discuté :** répartition des fonctions économiques, politiques et religieuses. **Hypothèse :** les bâtiments collectifs ont matérialisé des solidarités dépassant les unités domestiques.
+
+**Références :** Danielle Stordeur et al., « Les bâtiments communautaires de Jerf el Ahmar et Mureybet, horizon PPNA (Syrie) », *Paléorient* 26/1 (2000), p. 29-44, DOI 10.3406/paleo.2000.4696 ; Danielle Stordeur, *Le village de Jerf el Ahmar (Syrie, 9500-8700 av. J.-C.)*, CNRS Éditions, 2015 ; Necmi Karul, « Buried Buildings at Pre-Pottery Neolithic Karahantepe », *Türk Arkeoloji ve Etnografya Dergisi* 82 (2021), p. 21-31.
+
+---
+
+# CHAPITRE 341 — ÉRIDU ET URUK : LE TEMPLE MÉSOPOTAMIEN ENTRE MAISON DIVINE ET INSTITUTION
+
+### 341.1. Le piège de la continuité architecturale
+
+Les fouilles d'Éridu ont révélé une longue succession de bâtiments sur un même emplacement. Dès la période d'Obeïd, plusieurs structures furent interprétées comme des temples. Les niveaux reconstruits les uns sur les autres ont favorisé l'idée d'une permanence du lieu sacré. Mais Olivier Aurenche a souligné dès 1982 le caractère parfois circulaire de l'argument : on appelle « temple » une structure ancienne parce qu'un temple mieux attesté occupera plus tard le même emplacement. La continuité topographique ne suffit pas à établir une continuité de fonction.
+
+L'archéologie permet d'observer les plans, les sols, les installations, les reconstructions et les dépôts. Les textes mésopotamiens plus récents donnent une profondeur institutionnelle aux sanctuaires, mais ils ne doivent pas être projetés sans précaution sur les premiers niveaux d'Éridu. Le développement d'une architecture rituelle et celui d'un appareil administratif n'ont pas nécessairement été simultanés.
+
+### 341.2. Eridu dans la mémoire scribale
+
+La *Liste royale sumérienne*, connue sous plusieurs copies, place Éridu au commencement de la royauté antédiluvienne. Son ouverture présente la royauté comme descendue du ciel, avant d'être localisée à Éridu. Cette source n'est pas une chronique fiable des débuts de la ville : les durées de règne extraordinaires et la succession des cités relèvent d'une construction littéraire et idéologique. Elle est néanmoins un document majeur sur la manière dont les scribes concevaient l'autorité politique et la géographie des origines.
+
+Dans les traditions sumériennes et akkadiennes, Éridu est étroitement liée à Enki/Ea, divinité de la sagesse et des eaux profondes. Le sanctuaire de l'Abzu participe d'une conception où le lieu terrestre peut être associé à une réalité cosmique. L'« eau souterraine » ne doit cependant pas être comprise comme une donnée hydrologique démontrant l'existence physique du monde mythique.
+
+### 341.3. Uruk : l'Eanna et la difficulté de distinguer temple et administration
+
+À Uruk, le quartier de l'Eanna possède une architecture monumentale exceptionnelle au IVe millénaire avant notre ère. Des bâtiments tripartites, des cours et des terrasses s'y succèdent. Le nom sumérien E-ana, « maison du Ciel », est lié dans les traditions historiques à Inanna. Toutefois, les noms de « temple » attribués aux édifices archaïques par les fouilleurs ne constituent pas toujours des identifications fonctionnelles certaines. Certains grands bâtiments ont pu abriter des activités administratives ou cérémonielles ; l'absence de mobilier en place rend plusieurs attributions difficiles.
+
+Les premières pratiques comptables et les débuts de l'écriture dans le milieu d'Uruk montrent qu'une concentration d'activités économiques et institutionnelles accompagnait les grands ensembles monumentaux. Cela ne prouve pas que le « temple » aurait inventé seul l'État ou l'écriture. Les modèles du « temple-État » ont été discutés et révisés : la ville ancienne associe plusieurs centres de décision, parfois difficiles à distinguer.
+
+### 341.4. La maison du dieu n'est pas une église
+
+Les termes sumériens construits sur *é* (« maison ») suggèrent que le temple peut être pensé comme la demeure d'une puissance divine. Dans les époques mieux documentées, statues de culte, offrandes alimentaires, entretien du sanctuaire, fêtes et personnel spécialisé rendent cette représentation opératoire. Le dieu n'est pas seulement une idée : sa présence est instituée par un lieu, des objets, des agents et des obligations. Il faut néanmoins distinguer la statue cultuelle, le dieu et l'institution qui administre son culte.
+
+**Attesté :** superpositions architecturales à Éridu, ensembles monumentaux d'Uruk, traditions textuelles sur Enki et Inanna. **Discuté :** qualification des premiers bâtiments comme temples, rôle économique des sanctuaires, chronologie des institutions. **Hypothèse :** la permanence d'un lieu monumental peut servir à produire une mémoire de légitimité.
+
+**Sources primaires :** *Liste royale sumérienne*, ETCSL 2.1.1, ouverture ; inscriptions et traditions relatives à l'Eanna et à l'Abzu, à contextualiser selon leur date. **Études :** Joan Oates, « Ur and Eridu, the Prehistory », *Iraq* 22 (1960), p. 32-50 ; Olivier Aurenche, « À l'origine du temple et du palais dans les civilisations de la Mésopotamie ancienne », *Ktèma* 7 (1982), p. 237-259, DOI 10.3406/ktema.1982.1883.
+
+---
+
+# CHAPITRE 342 — ÉGYPTE : KARNAK, LOUXOR ET LA FABRICATION RITUELLE DU PAYSAGE
+
+### 342.1. Le temple comme monde organisé
+
+Dans l'Égypte pharaonique, un temple ne se réduit pas à une salle destinée à rassembler les fidèles. Il peut comprendre pylônes, cours, salles hypostyles, espaces de stockage, ateliers, annexes et sanctuaires intérieurs. L'accès varie selon les personnes, les circonstances et les périodes. La procession ouvre ponctuellement des itinéraires que l'usage quotidien maintient plus strictement contrôlés. Les édifices monumentaux sont aussi des institutions économiques et politiques, dotées de ressources et de personnels.
+
+La conception égyptienne du temple est inséparable du maintien de la *maât*, terme désignant selon les contextes ordre, justesse, vérité et équilibre. Il serait pourtant trompeur de transformer la *maât* en une « loi physique » universelle : il s'agit d'une catégorie religieuse, éthique et politique qui intervient dans les inscriptions royales et les textes rituels.
+
+### 342.2. Karnak : un espace cumulatif
+
+Le complexe de Karnak, associé principalement au culte d'Amon-Rê à Thèbes, résulte d'agrandissements successifs. Les pylônes et les axes n'ont pas été conçus en une seule campagne. La superposition des interventions royales rend visible une mémoire dynastique inscrite dans la pierre. Chaque règne peut construire, restaurer, réutiliser ou effacer des éléments plus anciens. Le temple devient ainsi un palimpseste politique : sa monumentalité traduit des rapports historiques, non un plan cosmique fixé pour l'éternité.
+
+Les inscriptions et les reliefs doivent être lus comme des productions situées. Une scène montrant le souverain offrant une image de la *maât* au dieu n'est pas un reportage sur le déroulement exact d'une cérémonie. Elle exprime un programme de légitimation et une conception de la relation entre souveraineté et divinité.
+
+### 342.3. Opet : le dieu sort de son sanctuaire
+
+La fête d'Opet reliait Karnak et Louxor par des déplacements processionnels de barques sacrées. Les itinéraires ont évolué et pouvaient emprunter le Nil ou des voies terrestres selon les époques. Les reliefs de la colonnade du temple de Louxor constituent une source primaire majeure pour la procession à la fin de la XVIIIe dynastie. Ils ont été relevés et publiés par l'Epigraphic Survey de l'Université de Chicago, avec dessins, translittérations et traductions.
+
+La procession modifie temporairement l'expérience du territoire. Le dieu, habituellement associé à un sanctuaire intérieur, devient présent le long d'un parcours. Les stations, les barques, les chants et les gestes produisent une géographie rituelle. Le mouvement ne s'oppose pas au lieu sacré : il relie plusieurs lieux et permet leur réactivation collective. La foule ne pénètre pas nécessairement dans les espaces les plus intérieurs pour participer à la vie religieuse.
+
+### 342.4. Le cas amarnien : un contre-exemple éclairant
+
+Les grands temples d'Aton à Akhetaton ont développé des espaces ouverts, particulièrement adaptés à un culte centré sur la lumière solaire. Ils invitent à ne pas confondre le temple égyptien avec un unique modèle architectural obscur et fermé. Les différences de théologie et de programme royal peuvent se traduire en différences d'organisation spatiale. Mais les plans archéologiques et les représentations des tombes amarniennes ne permettent pas de reconstruire toutes les cérémonies avec certitude.
+
+**Attesté :** temples complexes, interventions dynastiques, reliefs d'Opet, itinéraires processionnels. **Discuté :** degré d'accès des populations, détails de certains parcours et correspondance entre scènes et gestes réels. **Hypothèse :** la procession contribue à faire de la ville un prolongement temporaire du sanctuaire.
+
+**Source primaire :** reliefs de la fête d'Opet, colonnade du temple de Louxor, fin de la XVIIIe dynastie. **Édition :** The Epigraphic Survey, *Reliefs and Inscriptions at Luxor Temple*, vol. 1, *The Festival Procession of Opet in the Colonnade Hall*, Oriental Institute Publications 112, Chicago, 1994, DOI 10.83354/4t7s-yt08 ; https://isac.uchicago.edu/publications/luxor-temple-volume-1-festival-procession-opet.
+
+---
+# CHAPITRE 343 — GRÈCE : LE TÉMÉNOS, L'AUTEL ET LES ROUTES DE DELPHES
+
+### 343.1. Les mots de l'espace réservé
+
+Le grec τέμενος (*témenos*) désigne, selon les contextes, un terrain découpé ou réservé, notamment un domaine consacré à une puissance divine ou héroïque. Il se rattache à la famille du verbe τέμνειν, « couper ». Cette étymologie est intellectuellement féconde : consacrer peut consister à **soustraire** un espace à certains usages ordinaires. Mais le *témenos* n'est pas toujours une enceinte maçonnée. Un périmètre peut être reconnu par des bornes, des règles d'accès, des autels, des traditions et des parcours.
+
+Le terme ἱερόν (*hierón*) peut désigner un lieu sacré ou un sanctuaire ; ναός (*naós*) désigne plus spécifiquement un temple, en particulier le bâtiment abritant la présence cultuelle. Βωμός (*bōmós*) désigne l'autel dans de nombreux contextes. Il importe de ne pas confondre ces éléments. Dans les sanctuaires grecs, l'autel extérieur peut être plus central pour le sacrifice collectif que la salle intérieure du temple. Le monument que le visiteur moderne photographie n'était donc pas nécessairement le centre exclusif de l'activité rituelle.
+
+### 343.2. Delphes : une géographie en pente
+
+Le sanctuaire d'Apollon à Delphes s'inscrit dans le relief du Parnasse. Le parcours vers le temple traverse un ensemble de monuments, de bases votives et de trésors élevés par différentes cités. La voie dite sacrée constitue moins une ligne abstraite qu'une succession de rencontres visuelles et mémorielles : offrandes de victoires, dédicaces, rivalités de prestige et rappels des bienfaits du dieu. Les dons matérialisent la compétition entre cités à l'intérieur d'un espace religieux partagé.
+
+Les vestiges du temple d'Apollon appartiennent essentiellement à la reconstruction du IVe siècle avant notre ère, après le séisme de 373. Le site officiel grec rappelle les campagnes de reconstruction et le rôle de l'Amphictyonie. La Pythie et l'oracle sont indissociables de l'édifice, mais les modalités précises de la consultation et la topographie de l'*adyton* restent l'objet de discussions. Il ne faut pas représenter comme certitude archéologique une chambre souterraine parfaitement reconstituée.
+
+### 343.3. Les traditions littéraires ne sont pas des plans de fouille
+
+Dans l'*Hymne homérique à Apollon*, partie pythique, le dieu choisit le lieu où il établira son sanctuaire et son oracle. Le récit met en scène l'appropriation divine d'un territoire, la construction et l'institution d'un service cultuel. Chez Pausanias, *Description de la Grèce* X, 5, 5-6, apparaissent plusieurs traditions sur les détenteurs antérieurs de l'oracle, dont Gaia et Thémis. Ces traditions ne permettent pas de démontrer qu'un sanctuaire historique de la Terre, puis un sanctuaire de Thémis, se sont effectivement succédé selon cette séquence. Elles sont des discours grecs sur la légitimité du lieu.
+
+L'*omphalos*, « nombril », contribue à présenter Delphes comme un centre. Mais l'idée de « centre du monde » doit être comprise comme un énoncé mythique et cultuel, non comme une propriété géographique universellement reconnue. Plusieurs traditions anciennes connaissent des centres concurrents ou des lieux d'origine propres à leur cité.
+
+### 343.4. Olympie et Épidaure : la diversité des sanctuaires
+
+À Olympie, l'espace de Zeus est associé aux compétitions, aux sacrifices et à des monuments offerts par les communautés grecques. Le sanctuaire ne se réduit ni au temple classique ni au stade. À Épidaure, l'Asclépieion combine des espaces cultuels et des pratiques de guérison ; les inscriptions de guérisons (*iamata*) sont des témoignages de la manière dont l'institution mettait en récit les interventions du dieu, non des dossiers médicaux modernes. Ces différences rappellent que la catégorie « sanctuaire grec » recouvre des régimes de fréquentation et des usages variés.
+
+### 343.5. Vernant et Detienne : espace, parcours, fondation
+
+Jean-Pierre Vernant, dans « Hestia-Hermès », a montré la fécondité d'une comparaison entre le foyer, principe de stabilité et de centralité, et Hermès, associé notamment au passage, à la circulation et aux seuils. Marcel Detienne, dans *Apollon le couteau à la main*, insiste sur les gestes de fondation, de délimitation et de sacrifice. Il serait réducteur d'opposer le dieu du temple au dieu du mouvement : les processions et les itinéraires construisent le territoire du sanctuaire.
+
+**Attesté :** temples, autels, offrandes, voies d'accès, inscriptions, reconstructions architecturales. **Discuté :** modalités exactes de la consultation pythique et chronologie des premiers cultes. **Hypothèse :** le sanctuaire panhellénique convertit des rivalités politiques en une compétition de mémoires consacrées.
+
+**Sources primaires :** *Hymne homérique à Apollon*, partie pythique ; Pausanias, *Description de la Grèce* X, 5 ; Hérodote III, 57-58 (trésor des Siphniens). **Études :** Jean-Pierre Vernant, « Hestia-Hermès », *L'Homme* 3/3 (1963), p. 12-50, DOI 10.3406/hom.1963.366578 ; Marcel Detienne, *Apollon le couteau à la main*, Gallimard, 1998 ; ministère grec de la Culture, notice sur le temple d'Apollon, https://delphi.culture.gr/le-temple-dapollo/.
+
+---
+
+# CHAPITRE 344 — IRAN ET INDE : LE FEU, L'AUTEL ET LA GÉOMÉTRIE DES RITES
+
+### 344.1. Deux traditions du feu qu'il faut distinguer
+
+Le feu joue un rôle rituel majeur dans plusieurs traditions iraniennes et indiennes. Cette proximité autorise des comparaisons linguistiques et historiques, car les traditions indo-iraniennes partagent certains héritages. Elle n'autorise pas à considérer les temples du feu sassanides et les autels védiques comme deux copies d'un sanctuaire originel unique. Les périodes, les sources et les institutions diffèrent profondément.
+
+Dans les textes avestiques, le feu est associé à la pureté et à des formes de présence sacrée. Dans les traditions védiques, Agni reçoit et transmet les offrandes. Ces deux systèmes ne réduisent pas le feu à une « divinité élémentaire » identique. Les usages rituels du feu sont inscrits dans des ensembles de gestes, de formules et de règles propres à chaque tradition.
+
+### 344.2. Iran : de l'autel à l'édifice fermé
+
+L'architecture des sanctuaires zoroastriens doit être étudiée avec prudence. Le *čahārṭāq*, littéralement une structure à quatre arcs, est souvent présenté dans les publications anciennes comme le type par excellence du temple du feu sassanide. Or la notice spécialisée de l'*Encyclopaedia Iranica* souligne que la structure architecturale ne suffit pas à identifier un temple : des plans comparables peuvent exister dans des bâtiments non religieux. Dans les sanctuaires mieux identifiés, le dispositif peut être intégré à des ensembles fermés, avec espaces annexes. Il est donc imprudent d'imaginer partout une flamme éternelle exposée sous un baldaquin ouvert.
+
+Les traditions concernant les grands feux sacrés, dont Ādur Farnbāg, articulent lieu, prestige et mémoire dynastique. Mais les localisations et les continuités historiques de certains sanctuaires sont discutées. Le culte du feu ne peut être confondu avec l'adoration de la matière combustible : le feu est intégré à une théologie et à une discipline rituelle.
+
+### 344.3. Inde : *yajña*, *vedi* et *citi*
+
+Le sanskrit *yajña* désigne le sacrifice rituel ; *vedi* peut désigner une aire ou un autel sacrificiel ; *citi* renvoie notamment à un assemblage construit, dans certains contextes à un autel de briques. Les textes rituels prescrivent les dimensions, les orientations, les matériaux et les gestes. Le site du sacrifice est souvent préparé pour une cérémonie donnée : le sacré peut résulter d'une opération de mesure et d'institution, et non d'une montagne naturellement exceptionnelle.
+
+Les *Śulbasūtra*, textes du premier millénaire avant notre ère, transmettent des procédures géométriques pour construire des autels de formes déterminées. Ils témoignent de savoirs pratiques concernant diagonales, transformations de surfaces et rapports de dimensions. L'article de synthèse de S. G. Dani (2024) insiste sur la nécessité de distinguer les mathématiques effectivement attestées des projections modernes qui attribuent aux auteurs anciens une théorie abstraite identique à celle des géomètres grecs ou contemporains.
+
+### 344.4. La géométrie fait-elle naître le sacré ?
+
+Une orientation, une aire mesurée et une forme répétée produisent un espace normé. Le rite dépend alors de la justesse des opérations. Mais il serait faux de considérer que la mesure remplace la croyance. Elle en est l'une des médiations matérielles. La construction de l'autel peut articuler technique, mémoire de la tradition et représentation du cosmos.
+
+Une comparaison avec l'Égypte est éclairante : l'orientation et l'architecture des temples y sont aussi liées à des programmes religieux, mais l'organisation de l'espace cultuel et l'accès au dieu diffèrent. La similitude des axes ou des formes géométriques ne constitue pas une preuve de filiation historique.
+
+**Attesté :** sanctuaires iraniens associés au feu, textes védiques et géométrie rituelle des *Śulbasūtra*. **Discuté :** identification de certains *čahārṭāq*, chronologie et fonction de plusieurs édifices. **Hypothèse :** la précision constructive peut devenir une condition d'efficacité religieuse dans des systèmes où le rite repose sur l'exécution correcte.
+
+**Sources primaires :** *Rig-Véda* I, 1 (Agni) ; *Śatapatha Brāhmaṇa*, livre VI (construction et symbolique de l'autel du feu) ; *Baudhāyana Śulbasūtra* (constructions géométriques, numérotation variable selon les éditions). **Études :** *Encyclopaedia Iranica*, « Čahārṭāq i. In pre-Islamic Iran », https://www.iranicaonline.org/articles/cahartaq/cahartaq-i-in-pre-islamic-iran/ ; S. G. Dani, « Ancient Indian Mathematics: Sulbasutras — A Mathematical Review », dans *Handbook of the History and Philosophy of Mathematical Practice*, Springer, 2024, DOI 10.1007/978-3-031-40846-5_114.
+
+---
+
+# CHAPITRE 345 — CHINE, AFRIQUE ET AMÉRIQUES : MONTAGNES, FORÊTS ET CITÉS COSMIQUES
+
+### 345.1. Le mont Tai : une montagne que le souverain doit gravir
+
+Le mont Tai (Taishan), dans l'actuelle province du Shandong, est un haut lieu du culte des montagnes en Chine. Les rites impériaux *feng* et *shan*, associés à des offrandes au Ciel et à la Terre, participent à la représentation d'un souverain légitime dans l'ordre cosmique. Le *Shiji* de Sima Qian, notamment le traité des sacrifices *feng* et *shan* (livre 28), constitue une source primaire majeure. Il doit être lu comme une œuvre historiographique de l'époque Han qui rapporte, sélectionne et interprète des traditions antérieures.
+
+L'UNESCO documente les temples, les inscriptions, les itinéraires et les aménagements qui jalonnent la montagne. Le sommet ne devient pas sacré par une seule cérémonie : son prestige s'accumule au fil des pèlerinages, des inscriptions impériales et des usages locaux. La montagne est à la fois relief naturel, archive historique et théâtre politique.
+
+### 345.2. La forêt d'Osun-Osogbo : un sanctuaire vivant
+
+La forêt sacrée d'Osun-Osogbo, au Nigeria, présente un modèle différent. La rivière Osun et les espaces boisés sont associés à la divinité yoruba Osun ; sanctuaires, sculptures et lieux de culte sont intégrés au paysage. Les cérémonies sont toujours pratiquées, ce qui permet d'étudier des relations vivantes entre spécialistes rituels, communautés, objets et territoire. L'UNESCO souligne aussi le rôle des artistes et des restaurations du XXe siècle dans la forme actuelle du site.
+
+La valeur religieuse de la forêt ne doit donc pas être décrite comme un vestige intact d'une préhistoire africaine. Elle est une tradition historique qui a connu des transformations. Cette dimension est essentielle : l'authenticité d'un lieu sacré ne suppose pas nécessairement l'absence de changement. Les interdictions portant sur certaines activités dans la forêt peuvent contribuer à la conservation écologique, mais elles ne doivent pas être interprétées comme une « politique environnementale » au sens contemporain sans enquête ethnographique.
+
+### 345.3. Teotihuacan : urbanisme et géographie des puissances
+
+La grande cité de Teotihuacan, dans le centre du Mexique, s'est développée principalement entre le Ier et le VIIe siècle de notre ère. Ses grandes pyramides et l'axe de la chaussée des Morts composent un paysage urbain planifié. Les quartiers résidentiels, les peintures murales, les dépôts d'offrandes et les ensembles monumentaux montrent qu'il ne s'agissait pas d'une ville exclusivement cérémonielle. L'INAH et l'UNESCO soulignent l'articulation entre urbanisme, relief, eau et monumentalité.
+
+Le nom « pyramide du Soleil » provient d'une tradition postérieure ; l'identité de la puissance originellement honorée par cet édifice n'est pas établie avec certitude. Les découvertes dans les tunnels et les dépôts associés à différents monuments montrent l'importance d'espaces souterrains, mais l'identification de chaque cavité à une « matrice cosmique » doit rester interprétative. Les rites de fondation, les sacrifices et les programmes architecturaux peuvent être associés au pouvoir sans que nous connaissions précisément l'organisation politique de la cité.
+
+### 345.4. Trois géographies, trois régimes d'autorité
+
+Au mont Tai, le souverain peut inscrire sa légitimité dans une montagne dont le prestige le dépasse. À Osun-Osogbo, le paysage demeure un espace de culte vivant, articulé aux pratiques d'une communauté et à son histoire récente. À Teotihuacan, une ville entière manifeste une planification monumentale dont les principes religieux sont partiellement reconstitués par l'archéologie. Les ressemblances — montagne, centre, procession, présence de puissances — ne prouvent aucune origine commune. Elles constituent des variables comparables, pas une essence universelle du sacré.
+
+**Attesté :** inscriptions et traditions du mont Tai, sanctuaires et cultes contemporains d'Osun-Osogbo, monuments et quartiers de Teotihuacan. **Discuté :** détails des rites anciens, dédicaces originelles de certains monuments, continuité des traditions. **Hypothèse :** un espace sacré peut organiser simultanément une mémoire politique et une expérience religieuse du territoire.
+
+**Sources primaires :** Sima Qian, *Shiji*, livre 28 (*Fengshan shu*) ; inscriptions impériales du mont Tai ; architecture et dépôts de Teotihuacan (sources matérielles). **Documentation :** UNESCO, Mont Taishan, https://whc.unesco.org/fr/list/437/ ; UNESCO, Forêt sacrée d'Osun-Oshogbo, https://whc.unesco.org/fr/list/1118/ ; UNESCO, Cité préhispanique de Teotihuacan, https://whc.unesco.org/fr/list/414/ ; INAH, https://teotihuacan.inah.gob.mx/.
+
+---
+
+# CHAPITRE 346 — PHILOSOPHIE DE L'ESPACE SACRÉ : SÉPARER, RELIER, HABITER ET GOUVERNER
+
+### 346.1. Durkheim : la séparation du sacré et du profane
+
+Dans *Les Formes élémentaires de la vie religieuse* (1912), livre I, chapitre 1, Émile Durkheim définit les croyances religieuses par une distinction entre choses sacrées et profanes. Cette proposition aide à comprendre la délimitation d'un *témenos* ou l'accès réglé à un sanctuaire. Elle ne signifie pas que toute religion posséderait deux domaines absolument séparés dans chaque pratique. Les processions égyptiennes, les forêts yoruba et les sanctuaires urbains montrent des passages réglés, des recouvrements et des temporalités multiples.
+
+L'espace sacré peut donc être pensé comme une **frontière opératoire** : ce qui compte n'est pas seulement une limite matérielle, mais les gestes qui autorisent ou interdisent son franchissement. Une borne ne devient pertinente qu'en relation avec des personnes qui la reconnaissent et des règles qui lui donnent effet.
+
+### 346.2. Eliade : la hiérophanie et le centre
+
+Mircea Eliade, dans *Le Sacré et le Profane* (1957), développe la notion de hiérophanie, manifestation du sacré, et analyse les centres, seuils et orientations. Son approche a le mérite de prendre au sérieux l'expérience vécue des croyants : un lieu peut être perçu comme qualitativement différent de l'espace environnant. Elle permet de comprendre pourquoi une montagne, un temple ou une source deviennent des points d'orientation existentielle.
+
+Mais une difficulté surgit lorsqu'on applique directement le modèle à tous les vestiges archéologiques. Nous ne connaissons pas les paroles des bâtisseurs de Göbekli Tepe. Nous ne pouvons donc pas affirmer que leurs piliers étaient des *axis mundi*. L'usage universalisant du « centre du monde » risque de transformer des ressemblances formelles en identité de croyances.
+
+### 346.3. Jonathan Z. Smith : le lieu est aussi fabriqué par le rite
+
+Dans *To Take Place: Toward Theory in Ritual* (1987), Jonathan Z. Smith critique les théories qui supposent un sacré préexistant et immédiatement lisible dans le paysage. Il invite à examiner comment les opérations rituelles **produisent** un lieu pertinent. La répétition, la délimitation, la sélection des objets et l'organisation des corps ne se contentent pas d'exprimer une cosmologie : elles donnent forme à un espace où certaines actions prennent une signification spécifique.
+
+Cette approche est particulièrement utile pour les autels védiques. Un emplacement mesuré, préparé et consacré devient le lieu d'un sacrifice. Le sacré ne dépend pas nécessairement d'une anomalie naturelle. Il peut être institué par une séquence d'actions précises. Inversement, au mont Tai, l'existence préalable du relief et sa longue histoire politique montrent qu'il ne suffit pas de dire que le rite crée tout : les matériaux, la topographie et la mémoire contraignent l'action.
+
+### 346.4. Vernant et Detienne : le centre ne supprime pas la circulation
+
+Vernant a montré, avec le couple Hestia-Hermès, que la centralité et le déplacement peuvent former deux principes complémentaires de l'organisation symbolique. Le foyer rassemble, le seuil ouvre, la route relie. Dans le sanctuaire grec, l'autel, le temple et la voie d'accès appartiennent à une même géographie, mais remplissent des fonctions différentes. Detienne rappelle, par l'analyse comparée des fondations et des sacrifices, que les dieux se comprennent à partir de pratiques localisées plutôt qu'à partir d'attributs intemporels.
+
+Le sanctuaire n'est donc pas seulement un centre fixe. C'est aussi un réseau : routes de pèlerinage, trajets processionnels, circulation des offrandes, rivalités entre cités, mémoire des déplacements. Delphes n'est pas isolée du monde grec ; son prestige dépend précisément des voyageurs qui s'y rendent et des objets qui y sont déposés.
+
+### 346.5. Nietzsche, Hegel, Dumézil et Girard : quatre éclairages, quatre limites
+
+Dans *La Naissance de la tragédie* (1872), Nietzsche oppose et articule des tendances apolliniennes et dionysiaques. On peut s'en servir pour réfléchir à la tension entre forme architecturale et expérience collective, à condition de ne pas traiter cette polarité philosophique comme une description empirique de chaque sanctuaire d'Apollon ou de Dionysos.
+
+Chez Hegel, l'architecture religieuse peut être comprise dans le développement historique des formes de l'esprit et de l'art ; mais la philosophie de l'histoire hégélienne n'offre pas un protocole de datation archéologique. Elle doit être confrontée aux séquences matérielles et aux sociétés qu'elle tend parfois à ordonner selon un développement unique.
+
+La comparaison indo-européenne de Georges Dumézil permet de chercher des structures dans des traditions linguistiquement et historiquement liées. Elle ne saurait expliquer les similitudes entre Göbekli Tepe, l'Égypte, la Chine et le monde yoruba par un héritage indo-européen inexistant. La prudence généalogique est indispensable.
+
+René Girard, enfin, attire l'attention sur les rapports entre violence, sacrifice et ordre collectif. Les dépôts sacrificiels de certains sanctuaires méritent cette interrogation ; cependant ni tout autel ni toute monumentalité ne sont issus d'une crise sacrificielle. La théorie devient fragile lorsqu'elle absorbe indistinctement les données contradictoires.
+
+### 346.6. Une proposition de synthèse : le sacré comme géographie instituée
+
+Les huit chapitres conduisent à distinguer cinq dimensions analytiques. **Matérielle** : sols, pierres, reliefs, arbres, eaux. **Pratique** : processions, offrandes, mesures, purifications. **Sociale** : accès, interdits, spécialistes, assemblées. **Politique** : contrôle du territoire, mémoire des souverains, rivalités entre communautés. **Narrative** : mythes de fondation, récits d'origine, légendes d'un dieu arrivé sur les lieux. Un sanctuaire peut associer ces dimensions selon des proportions différentes.
+
+La question « où naît le sacré ? » reçoit donc une réponse méthodologique plutôt qu'une date unique : nous observons des processus de qualification de l'espace, non un instant universel où la religion aurait commencé. Le paysage est à la fois donné et transformé. Les hommes ne se contentent pas d'habiter un territoire ; ils apprennent à le distinguer, à le parcourir et à le raconter.
+
+**Attesté :** les textes philosophiques et les traditions religieuses cités existent ; les pratiques et les architectures examinées dans les chapitres précédents sont documentées à des degrés variables. **Controverses :** portée universelle des catégories « sacré », « profane », « centre » et « temple ». **Hypothèse de synthèse :** l'espace sacré est produit et maintenu par des relations entre lieu, rite, mémoire et autorité.
+
+**Études :** Émile Durkheim, *Les Formes élémentaires de la vie religieuse*, 1912, livre I, chap. 1 ; Mircea Eliade, *Le Sacré et le Profane*, 1957 ; Jonathan Z. Smith, *To Take Place*, University of Chicago Press, 1987 ; Jean-Pierre Vernant, « Hestia-Hermès », *L'Homme* 3/3 (1963), p. 12-50 ; Marcel Detienne, *Comparer l'incomparable*, 2000 ; Nietzsche, *La Naissance de la tragédie*, 1872 ; Hegel, *Esthétique* (leçons publiées posthumément) ; Georges Dumézil, *Mythe et épopée*, 1968-1973 ; René Girard, *La Violence et le Sacré*, 1972.
+
+---
+
+## Conclusion générale du tome XXV
+
+Les sites néolithiques montrent que les espaces collectifs complexes apparaissent bien avant les temples des États historiques. En Mésopotamie, la monumentalité s'inscrit progressivement dans des institutions urbaines, économiques et divines. En Égypte, la procession met le territoire en mouvement. En Grèce, le sanctuaire articule l'autel, le temple, la mémoire des cités et les itinéraires des consultants. Dans les traditions iraniennes et indiennes, le feu et la mesure rituelle construisent des espaces normés. Le mont Tai, la forêt d'Osun-Osogbo et Teotihuacan illustrent trois manières distinctes d'associer géographie, puissance et mémoire politique.
+
+La notion d'espace sacré n'est utile qu'à condition de rester une catégorie comparative **contrôlée** : elle ne désigne pas une essence identique à travers toutes les civilisations. Le sacré se reconnaît historiquement aux pratiques et aux discours qui attribuent à certains lieux des possibilités et des interdits particuliers. L'architecture n'est pas seulement le contenant du rite ; elle peut participer à sa production. Mais la ressemblance des formes ne prouve ni une origine commune ni une même croyance.
+
+## Bibliographie critique consolidée et accès aux sources
+
+1. UNESCO, *Göbekli Tepe*, dossier 1572 : https://whc.unesco.org/fr/list/1572/.
+2. Marc Verhoeven, « Relationality, Immanence, Hierarchy: The Nature and Culture of Being(s) at Göbekli Tepe », *Cambridge Archaeological Journal* 35/3, 2025, p. 504-521 : https://doi.org/10.1017/S0959774325000113.
+3. Danielle Stordeur, Michel Brenet, Gérard Der Aprahamian, J.-C. Roux, « Les bâtiments communautaires de Jerf el Ahmar et Mureybet », *Paléorient* 26/1, 2000, p. 29-44 : https://doi.org/10.3406/paleo.2000.4696.
+4. Danielle Stordeur, *Le village de Jerf el Ahmar (Syrie, 9500-8700 av. J.-C.)*, CNRS Éditions, 2015 : https://www.cnrseditions.fr/catalogue/histoire/le-village-de-jerf-el-ahmar-syrie-9500-8700-av-j-c/.
+5. Necmi Karul, « Buried Buildings at Pre-Pottery Neolithic Karahantepe », *Türk Arkeoloji ve Etnografya Dergisi* 82, 2021, p. 21-31 : https://dergipark.org.tr/en/pub/arkeolojiveetnografya/article/909296.
+6. Joan Oates, « Ur and Eridu, the Prehistory », *Iraq* 22, 1960, p. 32-50 : https://www.cambridge.org/core/journals/iraq/article/ur-and-eridu-the-prehistory/C0D4970AB2C90BCCF63DF034F759C503.
+7. Olivier Aurenche, « À l'origine du temple et du palais dans les civilisations de la Mésopotamie ancienne », *Ktèma* 7, 1982, p. 237-259 : https://doi.org/10.3406/ktema.1982.1883.
+8. *Liste royale sumérienne*, ETCSL 2.1.1 ; présentation des variantes : https://www.livius.org/sources/content/anet/266-the-sumerian-king-list/.
+9. The Epigraphic Survey, *Reliefs and Inscriptions at Luxor Temple*, vol. 1, *The Festival Procession of Opet in the Colonnade Hall*, OIP 112, 1994 : https://isac.uchicago.edu/publications/luxor-temple-volume-1-festival-procession-opet.
+10. Ministère grec de la Culture, *Le temple d'Apollon* : https://delphi.culture.gr/le-temple-dapollo/.
+11. Pausanias, *Description de la Grèce* X, 5 : https://www.theoi.com/Text/Pausanias10A.html.
+12. Jean-Pierre Vernant, « Hestia-Hermès », *L'Homme* 3/3, 1963, p. 12-50 : https://doi.org/10.3406/hom.1963.366578.
+13. *Encyclopaedia Iranica*, « Čahārṭāq i. In pre-Islamic Iran » : https://www.iranicaonline.org/articles/cahartaq/cahartaq-i-in-pre-islamic-iran/.
+14. S. G. Dani, « Ancient Indian Mathematics: Sulbasutras — A Mathematical Review », 2024 : https://doi.org/10.1007/978-3-031-40846-5_114.
+15. UNESCO, *Mont Taishan* : https://whc.unesco.org/fr/list/437/.
+16. UNESCO, *Forêt sacrée d'Osun-Oshogbo* : https://whc.unesco.org/fr/list/1118/.
+17. UNESCO, *Cité préhispanique de Teotihuacan* : https://whc.unesco.org/fr/list/414/.
+18. INAH, *Zona arqueológica de Teotihuacán* : https://teotihuacan.inah.gob.mx/.
+19. Jonathan Z. Smith, *To Take Place: Toward Theory in Ritual*, University of Chicago Press, 1987 : https://press.uchicago.edu/ucp/books/book/chicago/T/bo5951548.html.
+20. Marcel Detienne, *Apollon le couteau à la main*, Gallimard, 1998 ; *Comparer l'incomparable*, Seuil, 2000.
+21. Émile Durkheim, *Les Formes élémentaires de la vie religieuse*, 1912 ; Mircea Eliade, *Le Sacré et le Profane*, 1957 ; Friedrich Nietzsche, *La Naissance de la tragédie*, 1872 ; René Girard, *La Violence et le Sacré*, 1972.
+
+**Contrôle éditorial :** les références institutionnelles et les notices bibliographiques ci-dessus ont été vérifiées dans leurs sources en ligne. Les sources primaires sans édition critique intégralement contrôlée sont signalées par œuvre et section ; aucune citation française prétendument littérale n'a été inventée. Les analyses philosophiques sont des applications explicites et non des preuves archéologiques.
+
+## Registre de livraison
+
+- Série : MYTHOS — Les origines du sacré, **distincte** des autres cycles MYTHOS et de l'édition intégrale parallèle en 27 tomes / 1 052 chapitres.
+- Tome XXIV antérieur : chapitres 331-338.
+- **Tome XXV livré ici : chapitres 339-346**, huit chapitres nouveaux.
+- Statut : manuscrit archivé pour préparation éditoriale ; **aucune publication ni modification WordPress effectuée**.
+- **Prochain tome XXVI : chapitres 347-354 — Les eaux sacrées, sources, fleuves, ablutions et cosmologies de la régénération.** Le chapitre 347 portera sur les sources et fleuves sacrés de la Grèce, notamment Castalie, Céphise et Styx, puis comparaisons avec le Nil, l'Abzu mésopotamien, l'Indus et le Gange, les eaux iraniennes, les traditions chinoises, africaines et américaines. Éviter les doublons avec les chapitres 339-346 : traiter les pratiques hydriques, non l'architecture générale des sanctuaires.

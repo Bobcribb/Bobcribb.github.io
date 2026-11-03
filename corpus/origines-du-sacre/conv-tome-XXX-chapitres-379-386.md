@@ -1,0 +1,369 @@
+# MYTHOS — LES ORIGINES DU SACRÉ
+## TOME XXX — PIERRES SACRÉES, BÉTYLES, MÉTÉORITES ET IMAGES ANICONIQUES
+### Chapitres 379 à 386 — Édition de recherche, 1er novembre 2026
+
+**Série éditoriale : MYTHOS-OS-CONV.** Ce volume reprend immédiatement après le tome XXIX, chapitre 378, consacré à la philosophie comparée des arbres sacrés. Il ne se substitue pas à l'édition intégrale parallèle de la Bibliothèque, dont les numéros de chapitres peuvent désigner d'autres sujets. **Statut : manuscrit, non publié sur WordPress.**
+
+## Introduction — La matière, la présence et le problème de l'image
+
+Une pierre dressée dans un sanctuaire peut être une image divine, une borne territoriale, une offrande, un monument funéraire ou un support d'inscription. Une météorite peut être travaillée en bijou sans être pour autant l'objet d'un culte. Un rocher couvert d'images peut être un monument politique plutôt qu'une manifestation de la divinité. Le problème historique n'est donc pas de déterminer si « les Anciens adoraient les pierres », mais de reconstituer les **opérations** par lesquelles certaines pierres devenaient des objets de relation religieuse : nomination, consécration, installation, offrande, procession, protection, destruction ou remploi.
+
+Le terme moderne *aniconisme* désigne, dans une acception prudente, des modes de présence ou de représentation du divin qui ne prennent pas la forme d'une figure corporelle identifiable. Il ne signifie ni absence de religion, ni hostilité aux images, ni incapacité à sculpter. Le *bétyle* est une catégorie historique particulièrement délicate : des pierres cultuelles du Proche-Orient peuvent recevoir cette désignation dans les études modernes, mais le mot ne saurait recouvrir automatiquement toutes les pierres vénérées dans le monde. La démarche de ce volume est comparative et asymétrique : elle confronte des sources textuelles abondantes en Grèce et en Mésopotamie, des objets précisément analysés en Égypte, des inscriptions rupestres iraniennes, des traditions indiennes vivantes et anciennes, et des contextes archéologiques chinois, africains et américains.
+
+**Protocole critique :** dans chaque chapitre, « attesté » désigne un fait directement soutenu par un texte ancien localisé, un objet conservé ou un contexte archéologique documenté ; « controversé » signale une attribution, une datation ou une interprétation discutée ; « hypothèse » identifie une proposition explicative qui dépasse l'observation. Les références à des auteurs philosophiques modernes sont des outils d'interprétation, non des témoignages sur les intentions des populations anciennes.
+
+---
+
+# CHAPITRE 379 — GRÈCE : L'OMPHALOS DE DELPHES, LES PIERRES DE PHARAI ET L'ÉROS DE THESPIES
+
+## 379.1. Pourquoi la pierre peut-elle signifier la présence ?
+
+Le paysage religieux grec est connu pour ses statues de dieux anthropomorphes, mais l'image figurée ne constitue pas le seul moyen d'indiquer une présence divine. Une colonne, une pierre grossièrement façonnée, une masse rocheuse ou un siège vide peuvent remplir une fonction cultuelle. La diversité de ces formes contredit une histoire simplifiée qui ferait passer la Grèce d'un stade « primitif » de pierres non sculptées à une représentation classique prétendument supérieure. Milette Gaifman, dans *Aniconism in Greek Antiquity* (2012), montre que les formes figurées et non figurées coexistent durablement et qu'il faut les comprendre comme des choix religieux situés, non comme des échelons obligatoires d'un progrès artistique.
+
+## 379.2. L'omphalos : centre raconté, centre montré
+
+À Delphes, l'*omphalós* — littéralement « nombril » — matérialise la centralité du sanctuaire d'Apollon. Pausanias, *Description de la Grèce*, X, 16, 3, décrit un omphalos en marbre blanc que les Delphiens tiennent pour le centre de la terre. Le récit du centre du monde ne doit pas être pris comme une mesure géographique ; il exprime une prétention religieuse et symbolique. Delphes est aussi un carrefour de consultations, de dédicaces et de rivalités entre cités. L'objet participe donc à la géographie religieuse du sanctuaire et à sa capacité d'attirer des consultants de régions diverses.
+
+Il faut distinguer trois niveaux : la tradition cosmologique du « nombril », l'objet observé par Pausanias au IIe siècle de notre ère, et les objets archéologiques conservés ou reconstitués aujourd'hui. Leur identification exacte et leurs histoires matérielles ne doivent pas être présumées identiques. Une forme conique ou ovoïde décorée ne suffit pas à restituer sans difficulté l'objet mentionné par un auteur plusieurs siècles plus tard. L'archéologie du sanctuaire, l'histoire des restaurations et les textes sont trois dossiers complémentaires, mais non interchangeables.
+
+## 379.3. Les pierres de Pharai : un témoignage sur l'aniconisme et sur la mémoire
+
+Pausanias, VII, 22, 4, rapporte qu'à Pharai, en Achaïe, une trentaine de pierres quadrangulaires étaient honorées, chacune sous le nom d'un dieu. Il ajoute une généralisation selon laquelle les Grecs auraient autrefois vénéré des pierres non taillées au lieu de statues. Le premier renseignement porte sur un usage observé ou rapporté dans une cité ; le second relève d'une **théorie antique des origines**. Il serait méthodologiquement fautif de convertir cette généralisation en preuve d'un « âge des pierres sacrées » commun à toute la Grèce.
+
+L'étude historiographique de Gaifman (« Pausanias and modern perceptions of primordial Greeks », 2010) montre comment ce passage a alimenté, depuis l'époque moderne, des récits évolutionnistes de l'art religieux. La leçon est décisive : l'historien ne doit pas seulement lire Pausanias ; il doit aussi analyser ce que les lecteurs modernes ont fait de son texte. L'aniconisme grec est un phénomène documenté, non une étape universelle du développement religieux.
+
+## 379.4. L'Éros de Thespies et l'absence de visage
+
+Pausanias, IX, 27, 1, rapporte que les habitants de Thespies honoraient particulièrement Éros et que leur image cultuelle la plus ancienne était une pierre non travaillée (*argós líthos*). Ce témoignage met en tension deux registres : la divinité peut être racontée comme une personne dotée de généalogies diverses, et recevoir néanmoins un support cultuel sans visage. L'absence de figure humaine n'est donc pas l'absence d'une personnalité divine. Il ne faut pas non plus en déduire que la pierre serait « identique » au dieu dans tous les sens du terme : les gestes cultuels et les catégories des fidèles doivent être étudiés localement.
+
+## 379.5. Les pierres des seuils et la question de la frontière
+
+Le monde grec connaît aussi des marqueurs non anthropomorphes situés aux portes, aux carrefours et aux limites. L'*agyieus* d'Apollon, parfois figuré comme un pilier pointu, et les représentations des Dioscures par des poutres parallèles élargissent le dossier au-delà des seuls blocs rocheux. La présence divine peut être signalée à un point de passage sans que la divinité soit figurée sous forme humaine. Cette logique rejoint le thème des espaces sacrés étudié au tome XXV : une matière relativement simple peut instituer un lieu, et la position de l'objet importe autant que sa forme.
+
+## 379.6. Bilan critique
+
+**Attesté :** Pausanias mentionne l'omphalos delphique (X, 16, 3), les pierres nommées de Pharai (VII, 22, 4) et la pierre d'Éros à Thespies (IX, 27, 1). Les formes aniconiques coexistent avec des images anthropomorphes dans la religion grecque. **Controversé :** l'identification exacte des objets archéologiques à chaque témoignage et la portée de l'affirmation de Pausanias sur les origines de la représentation. **Hypothèse :** la pierre non figurée peut concentrer une présence religieuse précisément parce qu'elle est localisée, durable et disponible pour des gestes cultuels répétés. Ce n'est pas une loi universelle, mais une piste à tester site par site.
+
+---
+
+# CHAPITRE 380 — ANATOLIE, NABATÉENS ET ROME : LE BÉTYLE, LA DÉESSE ET LA PIERRE TRANSPORTÉE
+
+## 380.1. Le problème du mot « bétyle »
+
+La recherche emploie le mot *bétyle* pour désigner certaines pierres représentant ou manifestant une puissance divine. Son histoire lexicale est complexe et souvent rapprochée de traditions sémitiques évoquant une « maison du dieu ». Mais l'étymologie ne doit pas devenir une définition universelle. Un bloc cultuel nabatéen, une pierre d'Éros en Béotie et un objet sacré transporté à Rome ne sont pas nécessairement trois exemples d'une institution identique. La comparaison doit porter sur les usages documentés : inscriptions, niches, sacrifices, noms divins, transport et installations.
+
+## 380.2. Pétra : la forme non figurée comme choix cultuel
+
+Les Nabatéens de Pétra ont produit des monuments où coexistent images anthropomorphes et formes aniconiques. Les bétyles apparaissent notamment dans des niches et des ensembles rupestres. Robert Wenning, « The Betyls of Petra » (*BASOR* 324, 2001, p. 79-95), a montré que les inscriptions et les contextes permettent d'associer ces objets à plusieurs divinités, et non à une seule. Le bétyle n'est donc pas une pierre quelconque élevée au rang de dieu par la seule imagination du visiteur : il appartient à un dispositif cultuel local, dont les caractéristiques peuvent être étudiées.
+
+Joseph J. Basile, dans « Two Visual Languages at Petra » (*Near Eastern Archaeology* 65/4, 2002, p. 255-258), souligne la coexistence, au Grand Temple, de reliefs figurés et de bétyles aniconiques. Cette association interdit d'opposer naïvement « culture des images » et « culture sans images ». Les mêmes communautés peuvent manier plusieurs langages visuels selon les lieux, les divinités et les pratiques. La sculpture n'est pas ici l'aboutissement qui rendrait la pierre simple obsolète.
+
+## 380.3. L'Anatolie et la Grande Mère à Rome
+
+Pendant la deuxième guerre punique, les autorités romaines organisèrent l'introduction du culte de la Grande Mère d'Asie Mineure. Tite-Live, *Ab urbe condita*, XXIX, 10 et 14, rapporte l'ambassade et l'arrivée à Rome de l'objet sacré en 204 avant notre ère. Les traditions anciennes et les reconstructions modernes associent ce culte à une pierre noire et à la région de Pessinonte ; le détail des itinéraires et des médiations politiques varie selon les sources. La pierre était ainsi susceptible d'être **déplacée**, accueillie et installée dans un nouvel ordre cultuel, contrairement à l'idée selon laquelle toute pierre sacrée serait nécessairement attachée à un lieu immuable.
+
+La documentation de la Magna Mater présente une articulation frappante entre religion et stratégie d'État. Les récits de prodiges, les consultations religieuses et les décisions sénatoriales s'inscrivent dans le contexte de la guerre contre Carthage. L'objet transporté n'est pas seulement un symbole naturel ; il devient un instrument d'intégration d'une puissance religieuse étrangère dans le système romain. Il serait toutefois abusif de réduire cette opération à une pure propagande : les acteurs anciens l'exprimaient dans les catégories de leur religion civique.
+
+## 380.4. Une pierre « tombée du ciel » ?
+
+L'origine météoritique de certaines pierres cultuelles antiques a souvent été proposée. Dans le cas de la pierre associée à la Grande Mère, les traditions sur son caractère singulier et sa couleur ne constituent pas une analyse minéralogique. **Aucune composition chimique contrôlée de l'objet ancien ne permet ici d'affirmer qu'il s'agissait d'une météorite.** Il faut séparer la catégorie religieuse de « pierre venue du ciel », la mémoire littéraire d'un objet extraordinaire et la démonstration scientifique d'une origine extraterrestre. Le chapitre 382 montrera, par contraste, ce qu'une véritable démonstration de météorite exige.
+
+## 380.5. L'objet cultuel, sa niche et son déplacement
+
+Les bétyles de Pétra soulignent la puissance de la **mise en place** : une pierre se distingue par sa niche, son inscription, son orientation et les gestes qu'elle reçoit. L'histoire romaine de la Magna Mater souligne la puissance du **déplacement** : l'objet peut franchir des frontières, être reçu par des représentants de la cité et participer à une nouvelle histoire institutionnelle. Dans les deux cas, la pierre ne parle pas d'elle-même. C'est le réseau de pratiques, de récits et de décisions qui permet d'en restituer le rôle.
+
+## 380.6. Bilan critique
+
+**Attesté :** les bétyles nabatéens et leur association à des dispositifs cultuels ; la tradition historiographique romaine de l'arrivée de la Grande Mère en 204 avant notre ère. **Controversé :** les identifications précises de certaines pierres, les détails du transfert romain et l'interprétation de leurs formes. **Hypothèse à rejeter faute de preuve :** la qualification systématique de « météorite » pour toute pierre noire ou réputée céleste. Le bétyle est d'abord un objet historique de représentation et de pratique, non une catégorie géologique.
+
+---
+
+# CHAPITRE 381 — MÉSOPOTAMIE : KUDURRUS, EMBLÈMES DIVINS ET CONSÉCRATION DES IMAGES
+
+## 381.1. Le *kudurru* : une pierre qui garantit des droits
+
+Dans la Babylonie kassite et post-kassite, des monuments de pierre portent des inscriptions relatives à des concessions ou à des transactions foncières, accompagnées de symboles divins. Les musées emploient fréquemment le terme *kudurru*, traditionnellement traduit par « borne de frontière ». Mais plusieurs objets conservés semblent avoir été des documents monumentaux déposés dans un contexte institutionnel, plutôt que des bornes physiquement plantées sur les limites d'un champ. La distinction est capitale : le monument n'est pas nécessairement l'objet topographique qu'un nom moderne suggère.
+
+Le British Museum conserve par exemple un *kudurru* calcaire, numéro 102588 (1908,0411.96), enregistrant une concession de terre par Kurigalzu. Ses faces associent une inscription et des symboles figurant diverses puissances divines. Les emblèmes ne doivent pas être interprétés comme de simples ornements. Ils participent à la force religieuse et juridique de la déclaration. Le document situe une transaction humaine sous la protection ou la sanction des dieux, mais le sens précis de chaque motif doit être établi à partir de comparaisons iconographiques et textuelles.
+
+## 381.2. Symboles divins et pluralité des formes
+
+Une étoile, un disque, un animal ou un attribut peut désigner une puissance divine sans montrer son corps. Cette représentation non anthropomorphe n'est pas identique au bétyle nabatéen : dans un cas, le signe est inscrit ou sculpté sur un document monumental ; dans l'autre, la pierre peut elle-même constituer un objet de culte installé dans une niche. La comparaison fait apparaître une pluralité de médiations matérielles entre les dieux et les humains. Un signe peut protéger un contrat ; une image peut recevoir des soins ; une pierre peut délimiter un espace ou enregistrer une donation.
+
+Les dieux mésopotamiens possèdent aussi des statues anthropomorphes. L'opposition « pierre sacrée contre statue » serait donc artificielle. Une même tradition peut représenter une divinité par son emblème dans un contexte juridique et par une figure corporelle dans un temple. L'analyse doit être attentive à la fonction et au genre documentaire.
+
+## 381.3. La cérémonie *mīs pî* : transformer une œuvre d'atelier
+
+Le rituel akkadien *mīs pî*, souvent traduit par « lavage de la bouche », fournit un contrepoint essentiel. Un texte néo-babylonien du VIe siècle avant notre ère, conservé sous la cote BM 45749 et publié dans *The Induction of the Cult Image in Ancient Mesopotamia* (Christopher Walker et Michael Dick, 2001), décrit plusieurs opérations accomplies lors de l'installation d'une image cultuelle. Les étapes conduisent l'objet de l'atelier vers un espace rituel, avec des purifications, des offrandes et des récitations. Il ne s'agit pas de faire croire naïvement qu'un artisan aurait produit un dieu à partir de rien ; le rite transforme le statut de l'image et sa relation à la puissance divine.
+
+La cérémonie a une portée théologique : elle articule la fabrication humaine et l'origine divine revendiquée. Les outils de l'artisan peuvent être symboliquement écartés ou requalifiés, et l'image est présentée comme apte à recevoir le service cultuel. La matérialité n'est pas niée ; elle est insérée dans une procédure qui redéfinit l'objet. Une statue consacrée ne se réduit pas à son matériau, pas plus qu'un *kudurru* ne se réduit à un bloc calcaire.
+
+## 381.4. L'écriture comme acte de présence
+
+La pierre inscrite résiste au temps et rend publiquement lisible une décision. Mais cette durabilité n'est pas une garantie de vérité. Les inscriptions sont des documents produits par des institutions et doivent être étudiées comme telles. Elles peuvent préserver des noms, des limites et des malédictions ; elles peuvent aussi légitimer une décision contestable. La formule religieuse n'est pas un simple ajout décoratif à une transaction « profane » : dans la société qui produit le document, droit, pouvoir et sanction divine peuvent être étroitement articulés.
+
+Cette analyse éclaire un trait majeur de l'histoire du sacré : **la présence divine peut être invoquée pour stabiliser une relation entre humains**, sans qu'une pierre soit elle-même adorée. Le matériau offre permanence et visibilité ; l'inscription donne un contenu juridique ; l'emblème divin situe la décision dans un ordre religieux.
+
+## 381.5. Bilan critique
+
+**Attesté :** existence de *kudurrus* inscrits et ornés de symboles divins ; texte rituel *mīs pî* documentant la consécration des images. **Controversé :** fonction topographique exacte de chaque *kudurru* et interprétation de certains symboles. **Hypothèse :** la pierre peut servir d'interface entre institutions humaines et sanction divine sans constituer elle-même une représentation autonome d'un dieu. L'objet doit être défini par son contexte, non par sa seule matière.
+
+---
+
+# CHAPITRE 382 — ÉGYPTE : BENBEN, PYRAMIDIONS ET FER MÉTÉORITIQUE
+
+## 382.1. Le *benben* et la première émergence
+
+Dans les traditions héliopolitaines, la naissance du monde est associée à l'apparition d'une première terre depuis les eaux primordiales. Le *benben* appartient à ce langage religieux des commencements. Les textes et les images ont contribué à relier ce thème à des formes architecturales, notamment le pyramidion qui coiffe certaines pyramides et certains monuments. Toutefois, la relation entre une pierre cultuelle originelle d'Héliopolis, les représentations textuelles et les pyramidions conservés est une question d'histoire religieuse ; elle ne doit pas être transformée en identité matérielle automatique.
+
+La pointe d'un monument n'est pas seulement une solution d'architecture. Dans certains contextes, elle participe à la mise en scène de la lumière, du soleil et du devenir du défunt. Le Metropolitan Museum of Art conserve par exemple le pyramidion d'Ioufaâ (Iufaa), numéro 21.2.66, daté de la XXVIe dynastie (664-525 avant notre ère). Ses inscriptions et ses images mettent en relation le propriétaire, des divinités funéraires et des scènes solaires. Il ne s'agit pas du « benben originel » d'Héliopolis, mais d'un monument tardif qui montre comment une forme pierreuse peut recevoir un programme religieux élaboré.
+
+## 382.2. La pierre et la lumière
+
+L'association du sommet pyramidal et de la lumière doit être étudiée à partir des inscriptions et des contextes conservés, non d'une intuition esthétique moderne. Les pyramidions ne sont pas tous identiques ; leurs dimensions, leurs matériaux et leurs décors varient. Certains sont inscrits, d'autres non ; certains proviennent de pyramides royales, d'autres de monuments privés. Une forme géométrique peut donc être réinvestie dans des programmes religieux différents. Le sens d'un objet dépend de sa date, de son emplacement et des paroles qui l'accompagnent.
+
+Cette prudence vaut aussi pour l'usage du mot « aniconique ». Un pyramidion peut être une forme géométrique, mais porter des figures divines anthropomorphes ou animales. L'objet n'est pas aniconique dans tous ses aspects. La catégorie décrit une propriété limitée de la représentation, pas une religion entière.
+
+## 382.3. Les perles de Gerzeh : la météorite démontrée
+
+L'Égypte prédynastique fournit une preuve matérielle particulièrement solide de l'emploi du fer météoritique. Des perles tubulaires découvertes dans des sépultures de Gerzeh, vers la fin du IVe millénaire avant notre ère, ont fait l'objet d'analyses de microstructure et de composition. Diane Johnson et ses collaborateurs ont publié en 2013, dans *Meteoritics & Planetary Science* (48/6, p. 997-1006), une étude montrant que l'une de ces perles avait été fabriquée à partir de fer météoritique travaillé à froid. La présence de nickel et de structures métallurgiques caractéristiques étaye cette conclusion.
+
+Ce résultat est scientifique au sens fort : il ne repose pas sur la couleur, la forme ou une légende, mais sur l'examen de la matière. Il ne démontre cependant pas que les personnes enterrées à Gerzeh identifiaient précisément l'origine cosmique de l'objet, ni qu'elles le considéraient comme un dieu. Les perles appartenaient à des contextes funéraires où circulaient d'autres matériaux précieux. Leur rareté et leur mise en œuvre témoignent d'une valeur particulière, mais cette valeur n'est pas réductible à un culte des météorites.
+
+## 382.4. Le poignard de Toutankhamon
+
+En 2016, Daniela Comelli et ses collaborateurs ont étudié la lame du poignard de fer retrouvé dans la tombe de Toutankhamon. Les mesures par fluorescence X ont montré une composition riche en nickel et cobalt, compatible avec une origine météoritique (*Meteoritics & Planetary Science*, DOI 10.1111/maps.12664). Ce résultat apporte un second dossier matériel, à une époque très différente de celle de Gerzeh. Il atteste la valorisation d'un matériau exceptionnel dans un contexte royal du XIVe siècle avant notre ère.
+
+Il ne faut pourtant pas transformer un objet en « bétyle » sous prétexte qu'il contient du fer venu de l'espace. Un poignard est un artefact travaillé ; il peut avoir une valeur funéraire, royale, technique ou symbolique. Les analyses établissent une provenance de matière, non une théologie. Cette distinction constitue l'une des leçons méthodologiques centrales du volume : **origine extraterrestre démontrée** et **statut religieux démontré** sont deux propositions indépendantes.
+
+## 382.5. Bilan critique
+
+**Attesté :** existence de pyramidions inscrits, dont celui d'Ioufaâ ; origine météoritique d'au moins une perle de Gerzeh et forte preuve d'une origine météoritique pour la lame du poignard de Toutankhamon. **Controversé :** les modalités précises des associations entre benben, monuments solaires et objets cultuels, ainsi que la perception antique de la provenance des météorites. **Hypothèse non démontrée :** toute matière tombée du ciel aurait été vénérée comme une divinité. L'archéométrie établit la matière ; l'histoire des religions doit encore établir le sens.
+
+---
+
+# CHAPITRE 383 — IRAN ET INDE : INSCRIPTIONS RUPESTRES, LIṄGA ET PIERRES FOSSILES
+
+## 383.1. La roche iranienne comme support de légitimité
+
+À Behistun, dans l'ouest de l'Iran, Darius Ier fit graver au début de son règne une inscription monumentale et un relief célébrant sa victoire sur les prétendants au pouvoir. Le monument comprend des versions en vieux-perse, en élamite et en babylonien. L'UNESCO documente sa position sur une falaise calcaire, sa composition et sa fonction politique. La roche devient ici le support d'un récit de souveraineté, lié à l'autorité du roi et à sa relation à Ahuramazda. Mais l'inscription de Behistun n'est pas, à elle seule, la preuve que la falaise entière était adorée comme une divinité.
+
+La distinction entre **rocher sacré**, **inscription religieuse sur rocher** et **monument politique portant un discours religieux** est indispensable. Darius peut invoquer l'appui d'Ahuramazda sans que la roche soit une image de celui-ci. Le relief figure des personnages et des symboles : il n'est pas « aniconique » au sens strict. Le choix d'une paroi visible depuis un itinéraire important, la hauteur de l'inscription et sa difficulté d'accès font partie de sa stratégie de monumentalisation.
+
+## 383.2. La prudence devant les « autels du feu »
+
+L'Iran ancien connaît des traditions de vénération du feu et des dispositifs cultuels variés, mais l'identification de chaque pierre taillée comme « autel zoroastrien » exige des indices indépendants. La forme d'un socle, d'une colonne ou d'une structure quadrangulaire ne suffit pas à reconstituer un rite. Les inscriptions, les traces d'usage, les comparaisons architecturales et la chronologie doivent converger. Il serait également trompeur de projeter les usages zoroastriens de périodes tardives sur toutes les phases achéménides et sassanides.
+
+L'enquête iranienne montre ainsi une limite volontaire du comparatisme : faute de preuve, il vaut mieux étudier un monument rupestre bien documenté que remplir artificiellement une catégorie de « bétyles iraniens » par analogie avec Pétra.
+
+## 383.3. Le *liṅga* : un signe divin qui n'exclut pas la figure
+
+Dans les traditions śivaïtes, le *liṅga* est un support majeur du culte de Śiva. Le terme sanskrit peut désigner un « signe » ou une « marque », mais l'histoire de ses emplois religieux ne se réduit pas à une définition lexicale. Les formes du *liṅga* varient ; certaines sont relativement abstraites, d'autres comportent des images figurées. L'objet de Gudimallam, en Andhra Pradesh, présente une figure de Śiva sculptée en relief sur un support de forme phallique. Sa datation est discutée, généralement située entre les derniers siècles avant notre ère et le début de notre ère. Cette coexistence de la forme non figurative et de la représentation anthropomorphe interdit d'en faire un « aniconisme pur ».
+
+Les reconstructions modernes qui opposent une « religion primitive de la pierre » à un « hindouisme tardif des statues » échouent à décrire cette complexité. L'objet cultuel est situé dans un ensemble de gestes, de récits et de traditions d'interprétation. Sa forme peut permettre une présence divine sans épuiser la personne du dieu. Les textes et les usages contemporains fournissent des éclairages, mais ne doivent pas être projetés sans précaution sur les premiers siècles de l'histoire du sanctuaire.
+
+## 383.4. Les *śālagrāma* : un fossile devenu présence de Viṣṇu
+
+Les *śālagrāma* (ou *shaligram*) constituent un dossier particulièrement révélateur. Il s'agit de pierres, souvent des concrétions contenant des ammonites fossiles, associées notamment à la vallée de la Gandaki au Népal. Dans plusieurs traditions hindoues, elles sont reconnues comme des manifestations de Viṣṇu et peuvent être conservées dans des temples ou des foyers. Le Natural History Museum de Londres explique leur nature paléontologique et les traditions qui les entourent.
+
+Le rapprochement entre le disque (*cakra*) de Viṣṇu et les motifs spiralés du fossile contribue à l'identification religieuse. Ici, l'objet n'a pas besoin d'être sculpté pour recevoir une fonction cultuelle. La forme naturelle, le lieu de collecte et la reconnaissance rituelle participent ensemble à son statut. Mais un ammonite découvert ailleurs n'est pas automatiquement un *śālagrāma* ; la géologie ne suffit pas à définir une tradition. Le rite reconnaît une pierre particulière dans une chaîne de transmission et de significations.
+
+## 383.5. Bilan critique
+
+**Attesté :** inscription trilingue et relief de Behistun ; existence du *liṅga* de Gudimallam ; usage cultuel de *śālagrāma* contenant des fossiles. **Controversé :** chronologie fine de Gudimallam et généralisation des formes rituelles d'une période à l'autre. **Hypothèse :** la pierre peut devenir support de présence par sa forme naturelle, par une inscription politique ou par une consécration, mais ces trois processus ne relèvent pas d'un mécanisme unique. Le cas iranien oblige précisément à refuser les catégories trop larges.
+
+---
+
+# CHAPITRE 384 — CHINE : JADES DE LIANGZHU, DISQUES *BI* ET TUBES *CONG*
+
+## 384.1. Les objets en pierre et l'ordre social
+
+La culture néolithique de Liangzhu, dans le bas Yangzi, a laissé de nombreux objets de jade associés à des sépultures de haut rang et à des centres monumentaux. Les ruines archéologiques de la cité, inscrites au patrimoine mondial de l'UNESCO, sont datées approximativement entre 3300 et 2300 avant notre ère. Les dépôts funéraires montrent une différenciation sociale marquée. Le jade est difficile à extraire et à travailler : son façonnage exige du temps, des abrasifs et un savoir-faire. Sa présence dans certaines tombes signale donc aussi une mobilisation de ressources et de compétences.
+
+Les disques *bi* et les tubes *cong* comptent parmi les formes les plus caractéristiques. Un *cong* présente généralement une section externe carrée et une ouverture centrale circulaire ; les motifs de certaines pièces comportent des masques stylisés. Le British Museum conserve un exemplaire de la culture de Liangzhu, OA+.110, daté vers 2500 avant notre ère. Le musée précise que la fonction de ces objets demeure inconnue, bien qu'une destination cérémonielle ou protectrice soit envisagée. Cette prudence est essentielle.
+
+## 384.2. Le piège de la projection textuelle
+
+Des textes chinois beaucoup plus tardifs associent certains jades à des catégories cosmologiques, notamment le ciel et la terre. Le *Zhouli* (*Rites des Zhou*) offre des prescriptions sur des objets employés dans des cérémonies d'État. Mais il a été compilé dans un contexte historique très postérieur à Liangzhu. L'identité formelle d'un disque ne permet pas de projeter rétroactivement la même doctrine sur plusieurs millénaires.
+
+Le Musée Guimet, dans sa notice sur un tube *cong* à sept étages (MG 18341), souligne à la fois le contexte funéraire des objets de Liangzhu et le décalage chronologique avec les textes rituels postérieurs. Il propose des interprétations des motifs et de leur possible fonction de communication avec des puissances surnaturelles, mais ces propositions ne remplacent pas une inscription néolithique explicitant leur sens. Une comparaison historique rigoureuse exige de maintenir cet écart.
+
+## 384.3. Le *cong* comme objet technique et cérémoniel
+
+La précision des surfaces, le percement central et la répétition des motifs témoignent d'une maîtrise technique. Le caractère coûteux du jade a pu contribuer à sa valeur sociale. Mais il serait réducteur d'expliquer le dépôt funéraire par la seule richesse du défunt. La régularité des types, leur répartition dans les tombes et leur association à des ensembles particuliers suggèrent une grammaire de pratiques qui dépasse l'ostentation individuelle. L'archéologue doit néanmoins distinguer les régularités observées des significations reconstruites.
+
+La pierre peut être précieuse par son matériau, par sa transformation et par son emplacement. À Liangzhu, ces trois dimensions se combinent : un minéral résistant, un travail très élaboré et une déposition dans un espace funéraire hiérarchisé. Le rapport au sacré ne se réduit donc ni à la matière naturelle ni à la figure sculptée. Il est construit par une chaîne d'actions allant de l'extraction à l'inhumation.
+
+## 384.4. La Chine ancienne ne se réduit pas à un culte des pierres
+
+Le jade n'est pas un bétyle nabatéen, et un *cong* n'est pas une statue de dieu au sens grec. Les sociétés chinoises ont développé au fil des siècles des institutions rituelles variées, avec des bronzes, des inscriptions, des autels, des montagnes sacrées et des images. La comparaison ne doit donc pas substituer à cette diversité une catégorie artificielle de « religion minérale ». Ce que Liangzhu permet d'étudier avec une rare précision, c'est l'association d'une technologie de la pierre, d'une hiérarchie funéraire et d'une iconographie dont la signification demeure partiellement ouverte.
+
+## 384.5. Bilan critique
+
+**Attesté :** objets de jade *bi* et *cong* dans des tombes de Liangzhu ; formes, matériaux et contextes documentés ; forte différenciation sociale. **Controversé :** lecture exacte des masques et fonctions rituelles particulières ; application rétroactive des textes classiques. **Hypothèse :** le travail du jade participait à la constitution de distinctions religieuses et politiques, sans que l'on puisse restituer intégralement les croyances néolithiques. La distance entre objet et texte est ici une donnée, non une lacune à combler par l'imagination.
+
+---
+
+# CHAPITRE 385 — AFRIQUE ET AMÉRIQUES : STÈLES, ANCÊTRES ET MONUMENTS DE POUVOIR
+
+## 385.1. Éthiopie : les stèles de Tiya et la limite de l'interprétation
+
+Le site de Tiya, dans la région du Soddo en Éthiopie, comporte des stèles gravées de motifs dont plusieurs demeurent énigmatiques. L'UNESCO signale 36 monuments, dont 32 stèles sculptées, et insiste sur les incertitudes relatives à la datation et au déchiffrement des signes. L'ensemble permet d'étudier la monumentalisation de la pierre et sa relation probable à des pratiques commémoratives ou funéraires, mais ne fournit pas une théologie écrite permettant d'identifier les figures représentées.
+
+Il serait donc trompeur de présenter chaque stèle comme l'image d'une divinité ou comme un « bétyle africain ». Le contexte archéologique, les sépultures, les marques de taille et les regroupements de monuments constituent des données ; l'identification des signes comme épées, plantes ou emblèmes peut rester discutée. L'absence d'une interprétation certaine n'autorise pas une comparaison arbitraire avec des traditions grecques ou proche-orientales.
+
+## 385.2. Les monolithes andins *huanca*
+
+Dans les Andes préhispaniques, des monolithes dressés peuvent appartenir à des relations complexes entre territoires, ancêtres et pratiques agricoles. Pierre Duviols, « Un symbolisme de l'occupation, de l'aménagement et de l'exploitation de l'espace : le monolithe *huanca* et sa fonction dans les Andes préhispaniques » (*L'Homme*, 19/2, 1979, p. 7-31), étudie les difficultés de leur interprétation. Le terme *huanca* ne doit pas devenir une étiquette applicable à toute pierre dressée du continent. L'identification suppose de combiner vocabulaire local, témoignages coloniaux et contextes archéologiques.
+
+Une pierre peut marquer un territoire cultivé ou renvoyer à un ancêtre, sans être l'image figurée d'un dieu. Le rapport à la terre et aux lignages est ici central. Les enquêtes archéologiques récentes sur des plateformes incas de haute altitude et leurs éléments lithiques montrent que ces dispositifs doivent être compris dans une organisation spatiale plus large, incluant des espaces cérémoniels et des relations au paysage.
+
+## 385.3. Quiriguá : la pierre qui écrit le temps royal
+
+À Quiriguá, au Guatemala, les souverains mayas ont fait ériger des stèles monumentales sculptées et inscrites. L'UNESCO documente un ensemble de monuments, particulièrement remarquable au VIIIe siècle de notre ère, dont les textes hiéroglyphiques enregistrent des dates, des événements politiques et des références mythologiques. Ces stèles ne sont pas des pierres « aniconiques » : elles portent des images de souverains, des signes et des programmes visuels complexes.
+
+Leur présence dans les espaces publics contribue à rendre visible la continuité dynastique et la maîtrise du temps calendaire. La pierre inscrit le règne dans une chronologie ; elle donne une forme durable à un événement. Mais le monument n'est pas un simple livre de pierre. Sa taille, son orientation et son emplacement participent à une expérience cérémonielle. Le texte hiéroglyphique et l'image doivent être étudiés ensemble, dans la mesure où leur disposition contribue à la signification du monument.
+
+## 385.4. La Venta : le transport du basalte et la mise en scène de la royauté
+
+Dans le monde olmèque, les sculptures monumentales de La Venta comprennent des têtes colossales, des stèles et des trônes parfois anciennement désignés comme « autels ». Le Metropolitan Museum of Art rappelle que les blocs de basalte provenaient des montagnes des Tuxtlas, éloignées du site, et furent transportés sur de grandes distances. Ce déplacement manifeste une capacité collective de mobilisation et transforme la pierre en objet politique et cérémoniel.
+
+Les têtes colossales sont généralement interprétées comme des représentations de dirigeants, mais certains détails de leur identité et de leur fonction restent débattus. Les trônes sculptés peuvent représenter des personnages émergeant de niches associées symboliquement à des grottes. La pierre n'est donc pas toujours un substitut de divinité : elle peut figurer un souverain, une autorité ancestrale ou une relation entre monde visible et espace souterrain. Les chapitres antérieurs consacrés aux grottes et à la mémoire royale trouvent ici un prolongement, sans que leurs contenus soient répétés.
+
+## 385.5. Comparer les usages, non les silhouettes
+
+Tiya, les *huanca*, Quiriguá et La Venta présentent des pierres dressées ou sculptées, mais leurs fonctions ne sont pas identiques. Les stèles éthiopiennes offrent une iconographie encore largement indéchiffrée ; les monolithes andins sont étudiés dans leurs relations aux territoires et aux ancêtres ; les stèles mayas portent des textes calendaires ; les sculptures olmèques représentent des personnages et des dispositifs de souveraineté. La ressemblance visuelle « pierre dressée » n'est donc qu'un point de départ.
+
+L'analyse comparative devient productive lorsqu'elle pose des questions communes : qui choisit le matériau ? Qui déplace le bloc ? Qui le nomme ? Quels gestes l'entourent ? Qui peut lire l'inscription ? Qui contrôle le lieu ? Le même objet apparent peut répondre à des institutions et à des conceptions très différentes. La pierre permet alors d'étudier la permanence de la mémoire, la délimitation des espaces et la légitimation du pouvoir sans présumer un « culte universel du mégalithe ».
+
+## 385.6. Bilan critique
+
+**Attesté :** monuments sculptés de Tiya ; documentation des *huanca* dans les Andes ; stèles inscrites de Quiriguá ; sculptures monumentales et transport du basalte à La Venta. **Controversé :** interprétation des signes éthiopiens, fonctions exactes de certains monolithes et lectures de plusieurs sculptures olmèques. **Hypothèse :** la monumentalité lithique peut stabiliser des relations entre mémoire, territoire et souveraineté, mais la forme seule ne permet jamais de conclure à une religion commune.
+
+---
+
+# CHAPITRE 386 — PHILOSOPHIE DE LA MATIÈRE SACRÉE : PRÉSENCE, IMAGE, FÉTICHE ET INTERPRÉTATION
+
+## 386.1. Une pierre peut-elle être autre chose qu'une pierre ?
+
+Le problème philosophique des pierres sacrées naît d'un paradoxe apparent : une matière apparemment inerte reçoit des gestes, des noms, des offrandes et parfois des interdictions. Il serait tentant de réduire cette situation à une « erreur » des sociétés anciennes, qui auraient pris un objet pour une personne. Cette explication échoue cependant à distinguer les catégories indigènes. Une pierre peut représenter un dieu, signaler sa présence, être un objet offert au dieu, commémorer un ancêtre ou garantir une décision. Ces relations ne sont pas équivalentes, et toutes ne supposent pas que la pierre « soit » le dieu.
+
+Le mot « fétiche », employé dans l'histoire de l'anthropologie et de la philosophie européenne, porte un héritage colonial et théorique complexe. L'utiliser sans critique pour désigner des pierres africaines ou américaines revient souvent à imposer une catégorie extérieure aux pratiques observées. La méthode doit privilégier les noms locaux, les gestes attestés et les contextes documentés.
+
+## 386.2. Durkheim : le caractère sacré ne réside pas dans la chimie de la matière
+
+Dans *Les Formes élémentaires de la vie religieuse* (1912), Émile Durkheim montre que des objets matériels peuvent recevoir un statut sacré au sein de classifications et de pratiques collectives. Les objets totémiques et les *churinga* qu'il étudie ne sont pas des « pierres sacrées universelles » ; ils appartiennent à des sociétés australiennes précises et à la documentation ethnographique de son époque. L'intérêt de sa démarche réside dans l'idée que la puissance d'un objet ne peut être expliquée par ses propriétés physiques seules.
+
+Mais cette perspective sociologique possède des limites. Elle ne restitue pas nécessairement les distinctions théologiques entre image, support et puissance divine dans chaque tradition. Elle peut aussi sous-estimer la spécificité des matériaux et des gestes techniques. Une pierre travaillée pendant des mois et transportée sur une longue distance n'a pas la même histoire matérielle qu'un galet recueilli dans un fleuve.
+
+## 386.3. Eliade : hiérophanie et risque d'universalisme
+
+Mircea Eliade a étudié les pierres et les lieux naturels dans le cadre de ses réflexions sur les manifestations du sacré. Son vocabulaire de la hiérophanie peut aider à formuler une question : comment un objet ordinaire devient-il, pour une communauté, le lieu d'une présence qui le dépasse ? Mais ce vocabulaire ne prouve aucune continuité entre le chêne de Dodone, les bétyles nabatéens, les *śālagrāma* et les *cong* de Liangzhu. L'unité conceptuelle proposée par l'historien des religions doit être distinguée des relations historiques effectivement démontrables.
+
+La critique contemporaine des universaux religieux impose de préciser ce que l'on compare. La notion d'« arbre du monde » ou de « pierre cosmique » peut être heuristique ; elle devient trompeuse si elle dispense de lire les inscriptions, d'examiner les objets et de dater les pratiques. Une interprétation générale ne peut pas remplacer la preuve locale.
+
+## 386.4. Vernant et Detienne : représenter l'invisible, comparer l'incomparable
+
+Jean-Pierre Vernant a montré que les représentations grecques ne peuvent être étudiées uniquement à partir de la ressemblance visuelle avec un corps. Les analyses du *kolossós*, des doubles et de la « présentification de l'invisible » invitent à considérer les fonctions de l'image, du nom et du rite. Une pierre d'Éros peut être un signe de présence sans reproduire le visage du dieu. Mais il faut rester fidèle aux catégories grecques : le *kolossós* n'est pas un synonyme général de bétyle et ne doit pas être appliqué sans examen à l'Inde ou à la Chine.
+
+Marcel Detienne, dans *Comparer l'incomparable* (2000), propose de construire des comparables à partir de questions précises plutôt que de catégories prétendument évidentes. Ici, le bon comparable n'est pas « pierre sacrée » au singulier, mais un ensemble d'opérations : rendre présent, garantir, délimiter, conserver, transformer, transporter, inscrire. Cette démarche permet de confronter Delphes, Pétra, Babylone, Liangzhu et Quiriguá tout en conservant leurs différences.
+
+## 386.5. Dumézil : la parenté linguistique ne suffit pas
+
+Georges Dumézil a proposé des comparaisons structurales entre traditions indo-européennes. Ses travaux peuvent inviter à examiner des relations entre catégories de souveraineté, de rituel et de légitimité. Mais le fait qu'un peuple indo-européen possède des pierres cultuelles n'établit pas l'existence d'un « bétyle proto-indo-européen ». Il faudrait disposer de correspondances linguistiques, narratives et institutionnelles suffisamment précises. L'absence de telles preuves doit être explicitement reconnue.
+
+Le chapitre iranien a volontairement refusé d'inventer un culte de pierres pour compléter un tableau comparatif. Cette retenue constitue une exigence de méthode : la comparaison ne gagne rien à fabriquer une symétrie entre civilisations.
+
+## 386.6. Nietzsche : l'idole et la critique des valeurs
+
+Le titre *Le Crépuscule des idoles* (1889) de Friedrich Nietzsche peut sembler directement applicable aux images divines. Ce serait une lecture superficielle. L'« idole » y fonctionne principalement comme un instrument de critique philosophique des valeurs, des vérités reçues et des systèmes de pensée. Le titre ne constitue pas une théorie archéologique des bétyles grecs ou proche-orientaux. La généalogie nietzschéenne demeure néanmoins utile comme question : quelles relations de force et quels processus de valorisation rendent un objet digne d'obéissance ou de respect ? La réponse historique exige toutefois des sources distinctes de la philosophie de Nietzsche.
+
+## 386.7. Hegel : la forme sensible et la représentation du divin
+
+Dans ses cours d'esthétique et de philosophie de la religion, Hegel réfléchit aux relations entre l'esprit, les formes sensibles et l'histoire des religions. On peut y trouver des instruments pour examiner la tension entre matière, symbole et figure humaine. Mais la hiérarchie hégélienne des formes artistiques ne doit pas être adoptée comme une chronologie de l'archéologie. Les pierres de Pharai et les statues classiques coexistent ; les *cong* de Liangzhu ne sont pas une étape « inférieure » conduisant nécessairement à la sculpture figurative. La critique de l'évolutionnisme artistique est ici centrale.
+
+## 386.8. Girard : le sacré et la violence, un modèle limité
+
+René Girard, dans *La Violence et le Sacré* (1972), examine les relations entre violence collective, victime et institution religieuse. Certains monuments peuvent commémorer des morts ou des actes de pouvoir ; certaines images peuvent intervenir dans des cérémonies de destruction symbolique. Mais l'origine sacrificielle d'un objet de pierre ne peut être inférée de sa seule présence dans un sanctuaire. Le modèle girardien doit être confronté aux données, et non utilisé pour transformer tout bétyle, toute stèle ou tout monument en trace d'une victime fondatrice.
+
+## 386.9. Vers une anthropologie des opérations matérielles
+
+Les huit chapitres suggèrent une typologie provisoire des opérations de sacralisation : **nommer** une pierre (Thespies) ; **situer** un centre (Delphes) ; **installer** un bétyle (Pétra) ; **transporter** un objet cultuel (Rome) ; **inscrire** une sanction (Babylonie) ; **consacrer** une image (*mīs pî*) ; **mettre en forme** une matière précieuse (Liangzhu) ; **reconnaître** un fossile (Gandaki) ; **monumentaliser** la mémoire politique (Behistun, Quiriguá). Ce classement n'est pas une liste de stades chronologiques. Plusieurs opérations peuvent coexister et se combiner.
+
+Une seconde distinction porte sur le rapport entre preuve matérielle et interprétation. L'analyse chimique du poignard de Toutankhamon démontre la provenance météoritique du fer ; elle ne démontre pas le statut théologique du poignard. Inversement, le témoignage de Pausanias sur l'Éros de Thespies démontre l'existence d'une tradition cultuelle liée à une pierre, sans permettre d'en établir la composition géologique. La connaissance historique progresse lorsque l'on ne demande pas à une méthode de répondre à la question d'une autre.
+
+## 386.10. Conclusion philosophique
+
+La pierre sacrée n'est pas une énigme universelle à résoudre par une formule unique. Elle est un objet dont le statut dépend d'une **relation instituée** entre matière, gestes, paroles, mémoire et autorité. L'histoire comparée des religions doit refuser deux réductions symétriques : croire que les objets seraient naturellement sacrés partout, ou supposer que leur sacralité ne serait qu'une illusion primitive. L'enquête montre au contraire des dispositifs historiques précis de représentation et de présence.
+
+**Attesté :** diversité des usages religieux et politiques de la pierre, documentée par les textes, les inscriptions, les collections et les fouilles. **Controversé :** l'extension de notions modernes comme « aniconisme », « bétyle » et « fétiche » à des traditions très différentes. **Hypothèse de synthèse :** la pierre offre une matière durable que des communautés peuvent transformer en support de présence, de mémoire ou de légitimité ; la forme et la composition n'en déterminent jamais à elles seules la signification.
+
+---
+
+# CONCLUSION GÉNÉRALE DU TOME XXX
+
+Ce volume n'a pas cherché à retrouver un « âge universel de la pierre sacrée ». Il a mis en évidence plusieurs histoires : l'omphalos et les pierres nommées de la Grèce ; les bétyles installés à Pétra ; le transfert d'une puissance cultuelle en Rome ; les documents lithiques babyloniens ; la transformation rituelle des images ; les pyramidions et les objets de fer météoritique égyptiens ; les inscriptions rupestres iraniennes ; les *liṅga* et les fossiles sacrés indiens ; les jades néolithiques chinois ; les stèles africaines et américaines ; les pierres ancestrales des Andes.
+
+La leçon majeure est double. D'abord, **la pierre ne constitue pas une catégorie religieuse homogène** : elle peut être image, marqueur, support, offrande, archive, instrument ou monument. Ensuite, **le statut sacré n'est pas déductible de la géologie** : une météorite prouvée n'est pas automatiquement un objet de culte, et une pierre cultuelle prouvée n'est pas nécessairement une météorite. L'aniconisme n'est ni une absence de pensée visuelle ni une étape nécessaire précédant la sculpture anthropomorphe.
+
+Les comparaisons sont donc légitimes lorsqu'elles portent sur des opérations documentées et demeurent révisables. Les grandes théories de Durkheim, Eliade, Vernant, Detienne, Dumézil, Nietzsche, Hegel et Girard éclairent certaines dimensions du problème, mais aucune ne remplace la lecture des sources primaires et l'étude des contextes archéologiques.
+
+---
+
+# SOURCES PRIMAIRES ET BIBLIOGRAPHIE CRITIQUE
+
+## Textes anciens et objets de référence
+
+1. Pausanias, *Description de la Grèce*, VII, 22, 4 (pierres de Pharai) ; IX, 27, 1 (Éros de Thespies) ; X, 16, 3 (omphalos de Delphes). Texte grec et traductions : [Pausanias X](https://ftp.theoi.com/Text/Pausanias10A.html) ; [Pausanias IX, 27](https://www.greekmythology.com/sources/pausanias/description-of-greece/9-27).
+2. Tite-Live, *Ab urbe condita*, XXIX, 10 et 14 (introduction de la Grande Mère à Rome, 204 av. n. è.).
+3. *Mīs pî*, texte rituel néo-babylonien BM 45749, dans Walker et Dick (2001) ; transcription/traduction d'extraits : [ETANA](https://etana.org/node/580).
+4. British Museum, *Kudurru* de Kurigalzu, inventaire 102588 / 1908,0411.96 : [notice](https://www.britishmuseum.org/collection/object/W_1908-0411-96).
+5. Metropolitan Museum of Art, pyramidion d'Ioufaâ, inventaire 21.2.66 : [notice](https://www.metmuseum.org/art/collection/search/552805).
+6. UNESCO, site de Behistun (inscription de Darius Ier) : [notice](https://whc.unesco.org/fr/list/1222).
+7. British Museum, *cong* de Liangzhu, inventaire OA+.110 : [notice](https://www.britishmuseum.org/collection/object/A_OA-110).
+8. Musée Guimet, *Tube cong à sept étages*, inventaire MG 18341 : [notice](https://www.guimet.fr/fr/nos-collections/chine/tube-cong-sept-etages).
+9. UNESCO, ruines archéologiques de Liangzhu : [notice](https://whc.unesco.org/fr/list/1592/).
+10. UNESCO, Tiya (Éthiopie) : [notice](https://whc.unesco.org/en/list/12/).
+11. UNESCO, Quiriguá (Guatemala) : [notice](https://whc.unesco.org/en/list/149/).
+12. Metropolitan Museum of Art, « La Venta: Stone Sculpture » (2001) : [étude](https://www.metmuseum.org/essays/la-venta-stone-sculpture).
+
+## Études archéologiques, philologiques et historiques
+
+13. Gaifman, Milette, *Aniconism in Greek Antiquity*, Oxford University Press, 2012. [Notice éditeur](https://academic.oup.com/book/2046).
+14. Gaifman, Milette, « Pausanias and modern perceptions of primordial Greeks », *Classical Receptions Journal*, 2/2, 2010, p. 254-286. [Notice](https://academic.oup.com/crj/article-abstract/2/2/254/339761).
+15. Wenning, Robert, « The Betyls of Petra », *Bulletin of the American Schools of Oriental Research*, 324, 2001, p. 79-95. [DOI](https://doi.org/10.2307/1357633).
+16. Basile, Joseph J., « Two Visual Languages at Petra: Aniconic and Representational Sculpture of the Great Temple », *Near Eastern Archaeology*, 65/4, 2002, p. 255-258. [DOI](https://doi.org/10.2307/3210855).
+17. Walker, Christopher, et Michael B. Dick, *The Induction of the Cult Image in Ancient Mesopotamia: The Mesopotamian Mīs Pî Ritual*, Helsinki, State Archives of Assyria Literary Texts 1, 2001.
+18. Seidl, Ursula, *Die babylonischen Kudurru-Reliefs: Symbole mesopotamischer Gottheiten*, Freiburg, 1968 (référence iconographique, à consulter pour les attributions détaillées).
+19. Johnson, Diane, et al., « Analysis of a prehistoric Egyptian iron bead with implications for the use and perception of meteorite iron in ancient Egypt », *Meteoritics & Planetary Science*, 48/6, 2013, p. 997-1006. [DOI](https://doi.org/10.1111/maps.12120).
+20. Comelli, Daniela, et al., « The meteoritic origin of Tutankhamun's iron dagger blade », *Meteoritics & Planetary Science*, 2016. [DOI](https://doi.org/10.1111/maps.12664).
+21. *Impart Encyclopedia of Art*, « Gudimallam Stone Lingam », 21 avril 2022. [Notice](https://imp-art.org/articles/gudimallam-stone-lingam/). La datation de l'objet demeure débattue.
+22. Natural History Museum (Londres), « Snakestones: The myth, magic and science of ammonites » (notice sur les *śālagrāma*). [Notice](https://www.nhm.ac.uk/discover/snakestones-ammonites-myth-magic-science.html).
+23. Duviols, Pierre, « Un symbolisme de l'occupation, de l'aménagement et de l'exploitation de l'espace : le monolithe huanca et sa fonction dans les Andes préhispaniques », *L'Homme*, 19/2, 1979, p. 7-31. [DOI](https://doi.org/10.3406/hom.1979.367954).
+24. Meddens, Frank M., Colin McEwan et Cirilo Vivanco Pomacanchari, « Inca “Stone Ancestors” in Context at a High-Altitude Usnu Platform », *Latin American Antiquity*, publication en ligne 2017. [Notice](https://www.cambridge.org/core/journals/latin-american-antiquity/article/abs/inca-stone-ancestors-in-context-at-a-highaltitude-usnu-platform/C66195C7811549686A7598605D56D0EB).
+25. Benson, Elizabeth P., et Beatriz de la Fuente (dir.), *Olmec Art of Ancient Mexico*, catalogue d'exposition, National Gallery of Art, Washington, 1996.
+
+## Anthropologie, philosophie et histoire des religions
+
+26. Durkheim, Émile, *Les Formes élémentaires de la vie religieuse*, 1912.
+27. Eliade, Mircea, *Traité d'histoire des religions*, 1949 ; *Le Sacré et le Profane*, 1957.
+28. Vernant, Jean-Pierre, *Mythe et pensée chez les Grecs*, 1965 ; *L'Individu, la mort, l'amour*, 1989 (pour les formes de représentation et de mémoire).
+29. Detienne, Marcel, *Comparer l'incomparable*, Paris, Seuil, 2000.
+30. Dumézil, Georges, *Mythe et épopée*, trois volumes, 1968-1973 (comparatisme indo-européen ; aucune preuve d'un bétyle indo-européen commun n'en est tirée ici).
+31. Nietzsche, Friedrich, *Le Crépuscule des idoles*, 1889 ; *La Généalogie de la morale*, 1887.
+32. Hegel, G. W. F., *Leçons sur l'esthétique* et *Leçons sur la philosophie de la religion* (cours publiés posthumément, éditions diverses ; références conceptuelles, non citations littérales).
+33. Girard, René, *La Violence et le Sacré*, Paris, Grasset, 1972.
+34. Smith, Jonathan Z., *To Take Place: Toward Theory in Ritual*, Chicago, University of Chicago Press, 1987.
+35. Gell, Alfred, *Art and Agency: An Anthropological Theory*, Oxford, Clarendon Press, 1998 (pour les relations entre objets, agents et médiations, sans en faire une explication unique).
+
+**Note sur la vérification :** les notices institutionnelles, textes primaires accessibles et références d'articles explicitement liés ont été contrôlés pour les exemples centraux. Les ouvrages de synthèse mentionnés sans pages sont des orientations bibliographiques, et aucune citation littérale ne leur est attribuée. Les hypothèses de datation ou de fonction non résolues sont signalées. Pour une publication scientifique, il faudra confronter les éditions originales, les variantes de traduction et les catalogues des objets.
+
+---
+
+# SUIVI ÉDITORIAL
+
+**Tome livré : XXX, chapitres 379 à 386.** Titres : 379 Grèce et omphalos ; 380 Anatolie, Pétra et Rome ; 381 Mésopotamie et consécration des images ; 382 Égypte, benben et fer météoritique ; 383 Iran et Inde ; 384 Chine et jades de Liangzhu ; 385 Afrique et Amériques ; 386 Philosophie de la matière sacrée.
+
+**Prochain tome XXXI — chapitres 387 à 394 : « Images divines, statues vivantes et rituels d'animation ».** Ouverture au chapitre 387 sur le *xoanon*, l'*agalma* et la présence divine dans les images grecques. Les chapitres suivants traiteront de la consécration mésopotamienne (*mīs pî* étudiée sous l'angle spécifique de l'animation et de l'entretien, sans répéter le chapitre 381), de l'ouverture de la bouche égyptienne, des images iraniennes et indiennes, des rituels chinois, africains et américains, puis des philosophies de l'image. Ne pas reprendre les mêmes démonstrations que dans le présent volume.
+
+**Publication :** aucun accès en écriture à WordPress n'a été utilisé. Aucun usage de Floot. **Série distincte : MYTHOS-OS-CONV**, à ne pas fusionner sans contrôle avec MYTHOS-OS-LIB.

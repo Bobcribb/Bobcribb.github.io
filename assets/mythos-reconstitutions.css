@@ -1,0 +1,36 @@
+/* MYTHOS · Reconstitutions 3D — charte noir & or, 2026-11-03 */
+:root{--r-bg:#0a0e11;--r-ink:#f0e5d3;--r-gold:#c9a66e;--r-muted:#c0b6a5;--r-line:#756044}
+html{scroll-behavior:smooth}body{background:var(--r-bg);color:var(--r-ink)}
+.r3d-hero{position:relative;isolation:isolate;background:#0c1317;overflow:hidden;border-bottom:1px solid var(--r-gold);min-height:330px;display:flex;align-items:center}
+.r3d-hero:before{position:absolute;inset:0;content:"";z-index:-1;background:linear-gradient(90deg,#0b0e11 0%,#0b0e11ee 40%,#0b0e1199 75%,#0b0e11aa),url('/assets/reconstitutions/delphes-apollon-330-av-jc.svg') center 42%/cover no-repeat;filter:saturate(.76)}
+.r3d-shell{width:min(1420px,calc(100% - 40px));margin:auto}
+.r3d-eyebrow{font:700 12px/1.5 Arial,sans-serif;letter-spacing:.17em;color:var(--r-gold);text-transform:uppercase}
+.r3d-hero h1{font:500 clamp(43px,6vw,80px)/1.04 Georgia,serif;letter-spacing:.015em;margin:14px 0;color:#f4e6d0}
+.r3d-hero p{max-width:700px;color:#e0d0b7;font:18px/1.6 Georgia,serif}
+.r3d-intro{padding:34px 0 12px}.r3d-intro h2,.r3d-region h2{font:400 clamp(31px,4vw,45px)/1.12 Georgia,serif;color:#e9d6b3;margin:5px 0 16px}
+.r3d-intro p,.r3d-region>p,.r3d-note p{color:var(--r-muted);line-height:1.7;max-width:950px}
+.r3d-breadcrumbs{padding:16px 0;border-bottom:1px solid #514536;color:#c7b899;font:12px Arial,sans-serif}
+.r3d-breadcrumbs a{color:#dec190}
+.r3d-region{padding:28px 0 42px}
+.r3d-subnav{display:flex;align-items:center;flex-wrap:wrap;gap:11px;padding:15px 0 23px}
+.r3d-subnav a,.r3d-chip{border:1px solid #7d6648;padding:8px 13px;background:#141b1c;font:12px Arial,sans-serif;color:#e8d4b6}
+.r3d-subnav a:hover{border-color:#ddbf8d}
+.r3d-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:22px}
+.r3d-card{background:linear-gradient(165deg,#172024,#0d1315);border:1px solid #66533d;min-width:0}
+.r3d-card figure{margin:0}.r3d-card img{width:100%;aspect-ratio:5/3;display:block;object-fit:cover;background:#273039}
+.r3d-card figcaption{font:12px/1.6 Arial,sans-serif;color:#bdb3a3;padding:11px 18px;border-top:1px solid #544838}
+.r3d-card-body{padding:8px 20px 24px}
+.r3d-card h3{font:400 30px/1.1 Georgia,serif;margin:12px 0;color:#e6d4b2}
+.r3d-card p{line-height:1.65;color:#cbbfae;margin:12px 0}
+.r3d-meta{display:flex;gap:10px;flex-wrap:wrap}
+.r3d-meta span{font:700 11px Arial,sans-serif;letter-spacing:.04em;color:#e9cf9f;border:1px solid #645039;padding:6px 9px}
+.r3d-card details{border-top:1px solid #504636;margin-top:20px;padding-top:13px}
+.r3d-card summary{color:#e2c38b;cursor:pointer;font:600 14px Arial,sans-serif;padding:5px 0}
+.r3d-card ul,.r3d-note ul{padding-left:20px;color:#c8beaf;line-height:1.7}
+.r3d-card a,.r3d-note a{color:#e2c38b;text-decoration:underline;text-underline-offset:3px}
+.r3d-note{padding:27px 26px;margin:0 0 42px;border:1px solid #796345;background:#12191b}
+.r3d-note h2{font:400 31px Georgia,serif;color:#e9d4ad;margin:0 0 14px}
+.r3d-footer{border-top:1px solid #68553b;padding:23px 0;color:#bbaa92;font:13px Arial,sans-serif}
+.r3d-footer a{color:#e2c38b}
+@media(max-width:840px){.r3d-grid{grid-template-columns:1fr}.r3d-hero{min-height:300px}.r3d-shell{width:min(100% - 28px,1420px)}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}

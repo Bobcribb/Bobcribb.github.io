@@ -1,0 +1,41 @@
+/* MYTHOS — lecture des monographies intégrales ; maquette noire et or. */
+.article-breadcrumb{max-width:1120px;margin:0 auto;padding:16px clamp(16px,4vw,35px);font:12px/1.5 Inter,Arial,sans-serif;color:#d2bc97}
+.article-breadcrumb a:hover{text-decoration:underline}
+.article-wrapper{width:min(100% - 30px,1120px);margin:0 auto 80px}
+.article-head{position:relative;isolation:isolate;padding:72px clamp(24px,5vw,75px) 60px;text-align:center;background:#12181a;border:1px solid #846b49}
+.article-head:before{content:"";position:absolute;inset:0;z-index:-1;background:linear-gradient(90deg,#0b1013d9,#0b1013b2,#0b1013d9),url('/assets/mythos-hero.svg') center/cover}
+.article-kicker{font:600 11px Inter,Arial,sans-serif;letter-spacing:.24em;text-transform:uppercase;color:#d1aa6b}
+.article-head h1{font:500 clamp(45px,6vw,80px)/1.06 'Cormorant Garamond',Georgia,serif;letter-spacing:.035em;color:#f4ead9;margin:14px auto 9px;max-width:900px}
+.article-head p{color:#cfbd9f;font-size:14px;line-height:1.7;margin:12px auto;max-width:710px}
+.article-status{display:inline-block;border:1px solid #806847;color:#dcc69d;padding:6px 14px;font-size:12px}
+.article-layout{display:grid;grid-template-columns:minmax(0,1fr) 250px;gap:32px;align-items:start;margin-top:28px}
+.article-main{min-width:0;color:#e9e1d3;font:17px/1.75 Georgia,serif}
+.article-text{padding:clamp(21px,4vw,45px);background:#111719;border:1px solid #584b3a;overflow-wrap:break-word}
+.article-text h1,.article-text h2,.article-text h3{color:#e4c18b;font-family:'Cormorant Garamond',Georgia,serif;font-weight:500;scroll-margin-top:22px}
+.article-text h1{font-size:37px;margin:34px 0 16px}
+.article-text h2{font-size:clamp(29px,3.2vw,41px);line-height:1.15;padding-top:20px;border-top:1px solid #51432f;margin:40px 0 16px}
+.article-text h3{font-size:clamp(23px,2.6vw,30px);line-height:1.2;margin:24px 0 12px}
+.article-text p{margin:0 0 19px}
+.article-text ul,.article-text ol{padding-left:26px;margin:0 0 23px}
+.article-text li{margin:9px 0}
+.article-text a{color:#e7c48f;text-decoration:underline;text-underline-offset:3px;overflow-wrap:anywhere}
+.article-text a:hover{color:#fff0c7}
+.article-text table{display:block;max-width:100%;overflow:auto;border-collapse:collapse;margin:22px 0 30px;font-size:15px}
+.article-text th,.article-text td{border:1px solid #63543e;padding:11px 15px;vertical-align:top;text-align:left}
+.article-text th{background:#2b291f;color:#ecd3aa}
+.article-text blockquote{margin:22px 0;padding:16px 22px;border-left:3px solid #bd955e;background:#1c2222;color:#e2d2bc}
+.article-text details{border:1px solid #65523b;margin:15px 0;padding:16px 19px;background:#181e20}
+.article-text summary{cursor:pointer;color:#e6c48f;font-family:Inter,Arial,sans-serif;font-size:14px}
+.article-text img{max-width:100%;height:auto}
+.article-text figure{max-width:100%;margin:24px 0}
+.article-toc{position:sticky;top:16px;border:1px solid #69543c;background:#11181a;padding:20px 20px 15px;max-height:calc(100vh - 32px);overflow:auto}
+.article-toc h2{margin:0 0 12px;font:500 25px 'Cormorant Garamond',Georgia,serif;color:#e1c394}
+.article-toc ol{padding-left:19px;margin:0}
+.article-toc li{margin:9px 0;color:#b59f80;font:12px/1.55 Inter,Arial,sans-serif}
+.article-toc a{color:#ddcdb4}
+.article-toc a:hover,.article-toc a:focus-visible{color:#f1ce90;text-decoration:underline}
+.article-endnav{display:flex;flex-wrap:wrap;gap:12px;justify-content:space-between;border-top:1px solid #765d40;margin-top:26px;padding-top:19px}
+.article-endnav a{color:#e3c38e;border:1px solid #765d40;padding:10px 14px;font:13px Inter,Arial,sans-serif;text-decoration:none}
+@media(max-width:900px){.article-layout{grid-template-columns:minmax(0,1fr)}.article-toc{position:static;order:-1;max-height:none}.article-toc ol{columns:2;column-gap:25px}}
+@media(max-width:550px){.article-head{padding:50px 20px}.article-toc ol{columns:1}.article-main{font-size:16px}.article-text{padding:22px 18px}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto!important}}

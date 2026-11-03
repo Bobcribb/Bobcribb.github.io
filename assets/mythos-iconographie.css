@@ -1,0 +1,30 @@
+
+/* MYTHOS — iconographie documentée, ajout non destructif. */
+.mythos-icono-block{max-width:1370px;margin:34px auto;padding:26px clamp(17px,3vw,36px);background:linear-gradient(125deg,#141b1e,#0a0e10);border:1px solid #856c4a;color:#eee4d4}
+.mythos-icono-block h2{margin:0 0 12px;color:#ebd3a6;font:500 clamp(25px,2.5vw,40px)/1.14 Georgia,serif}
+.mythos-icono-block .mythos-icono-intro{font:15px/1.6 Georgia,serif;color:#ccc0ad;max-width:950px;margin:0 0 22px}
+.mythos-icono-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,260px),1fr));gap:20px;align-items:stretch}
+figure.mythos-figure{margin:22px auto;max-width:780px;border:1px solid #6a5439;background:#141719;color:#e9decb;overflow:hidden}
+.mythos-icono-grid figure.mythos-figure{margin:0;max-width:none}
+figure.mythos-figure img{display:block;width:100%;height:auto;max-height:390px;object-fit:contain;background:#181615}
+figure.mythos-figure figcaption{padding:16px 17px 17px;font:15px/1.54 Georgia,serif;overflow-wrap:anywhere}
+figure.mythos-figure strong{display:block;font:600 21px/1.2 Georgia,serif;color:#eed3a5;margin-bottom:5px}
+figure.mythos-figure .mythos-work{display:block;color:#dbd1c2}
+figure.mythos-figure .mythos-reading{display:block;margin-top:9px;color:#f0e6d9}
+figure.mythos-figure .mythos-status{display:block;margin-top:9px;color:#bca986;font:12px/1.5 Arial,sans-serif;letter-spacing:.02em}
+figure.mythos-figure .mythos-credits{display:block;margin-top:8px;color:#c4b7a2;font:12px/1.6 Arial,sans-serif}
+figure.mythos-figure figcaption a{color:#e9c88f;text-decoration:underline;text-underline-offset:3px}
+figure.mythos-figure .mythos-fallback{display:none;padding:32px 20px;text-align:center;background:#25211c;color:#dec8a3}
+figure.mythos-figure.mythos-media-unavailable .mythos-fallback{display:block}
+figure.mythos-figure.mythos-media-unavailable img{display:none}
+section.book-chapter > figure.mythos-figure{margin:20px auto 26px}
+@media(max-width:700px){.mythos-icono-block{margin:18px 12px;padding:18px}.mythos-icono-grid{grid-template-columns:1fr}figure.mythos-figure figcaption{font-size:14px}}
+@media(prefers-reduced-motion:reduce){figure.mythos-figure{scroll-behavior:auto}}
+@media print{.mythos-icono-block{background:white;color:black;border:1px solid #444}.mythos-icono-block h2,figure.mythos-figure strong{color:black}figure.mythos-figure{page-break-inside:avoid;background:white;color:black}figure.mythos-figure .mythos-work,figure.mythos-figure .mythos-reading,figure.mythos-figure .mythos-status,figure.mythos-figure .mythos-credits{color:black}}
+
+/* Schémas philosophiques originaux : largeur lisible, zoom accessible, impression. */
+figure.mythos-figure.mythos-philo-diagram{max-width:1100px}
+figure.mythos-figure.mythos-philo-diagram>a{display:block}
+figure.mythos-figure.mythos-philo-diagram img{max-height:none;object-fit:contain;aspect-ratio:auto}
+figure.mythos-figure.mythos-philo-diagram>a:focus-visible{outline:3px solid #ead099;outline-offset:-4px}
+@media(max-width:650px){figure.mythos-figure.mythos-philo-diagram figcaption{padding:15px}figure.mythos-figure.mythos-philo-diagram>a{min-height:120px}}

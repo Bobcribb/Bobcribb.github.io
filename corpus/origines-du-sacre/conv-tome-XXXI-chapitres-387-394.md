@@ -1,0 +1,1170 @@
+# MYTHOS --- LES ORIGINES DU SACRÉ
+
+## TOME XXXI --- IMAGES DIVINES, STATUES VIVANTES ET RITUELS D'ANIMATION
+
+### Chapitres 387 à 394 --- Édition de recherche, 1er novembre 2026
+
+**Série : MYTHOS-OS-CONV. Statut : manuscrit scientifique non publié.**
+Ce tome reprend immédiatement après le chapitre 386 du tome XXX,
+consacré aux pierres sacrées et aux formes aniconiques. La série
+MYTHOS-OS-LIB, dont les numéros de chapitres peuvent recouvrir d'autres
+sujets, demeure distincte. Les sources anciennes sont identifiées par
+œuvre et passage lorsque ceux-ci sont contrôlables ; les documents
+matériels sont désignés par leur collection ou leur contexte. Aucune
+citation littérale antique n'est reconstruite.
+
+## Introduction --- Une image peut-elle devenir une présence ?
+
+La statue religieuse pose une difficulté conceptuelle souvent masquée
+par les mots modernes « idole », « représentation » ou « symbole ».
+L'image d'un dieu ne remplit pas nécessairement le même rôle que le
+portrait d'un souverain ou qu'une œuvre exposée dans un musée. Certaines
+statues sont lavées, vêtues, nourries, déplacées, cachées, protégées ou
+capturées ; d'autres restent inaccessibles, tandis que les fidèles
+rencontrent leur présence par des processions, des offrandes ou des
+médiations sacerdotales. Les gestes accomplis envers l'image ne prouvent
+pas qu'une communauté confondait naïvement du bois avec une personne :
+ils invitent à examiner la théorie locale de la présence et les
+conditions pratiques de son établissement.
+
+Il faut distinguer **fabrication**, **installation**, **consécration**,
+**entretien**, **apparition publique**, **déplacement**, **destruction**
+et **désacralisation**. Ces opérations ne sont pas présentes partout, ni
+sous des formes comparables. Les statues de la Grèce classique, les
+corps cultuels mésopotamiens, les effigies égyptiennes, les images de
+l'Inde médiévale, les sculptures bouddhiques chinoises, les *minkisi*
+kongo et les *ixiptla* mexica ne doivent pas être rangés dans une même
+catégorie indigène. Le volume examine ce que l'on peut comparer --- la
+capacité d'un support matériel à organiser des relations avec une
+puissance --- et ce qui résiste à l'analogie.
+
+L'analyse s'appuie sur les recherches de Milette Gaifman, Lorenzo
+Verderame, Marinella Ceravolo, Richard H. Davis, Diana L. Eck, John
+Kieschnick, Wyatt MacGaffey, Carolyn Dean et Alfred Gell, ainsi que sur
+des textes anciens localisés. Les catégories **attesté**,
+**controversé** et **hypothèse** concluent chaque chapitre. Les modèles
+de Vernant, Detienne, Dumézil, Durkheim, Eliade, Nietzsche, Hegel et
+Girard sont discutés comme des instruments de réflexion, jamais comme
+des preuves directes des croyances anciennes.
+
+------------------------------------------------------------------------
+
+# CHAPITRE 387 --- GRÈCE : *XOANON*, *AGALMA*, STATUE ET PRÉSENCE DIVINE
+
+### 387.1. La statue n'est pas seulement une œuvre d'art
+
+Dans la langue grecque, *agalma* (ἄγαλμα) peut désigner un objet
+prestigieux qui réjouit ou honore une divinité, et, dans de nombreux
+contextes, une image cultuelle. *Xoanon* (ξόανον) est lié à un
+vocabulaire du façonnage et du travail du matériau ; le terme est
+fréquemment associé à des images anciennes en bois, mais il serait
+imprudent d'en faire un classement technique absolu. *Eikōn* renvoie
+plus largement à l'image ou à la ressemblance. Ces mots ne dessinent pas
+trois étapes successives d'une histoire universelle de l'art. Leur sens
+dépend des auteurs, des époques et des usages.
+
+La distinction entre « statue divine » et « statue d'un dieu » est
+décisive. Une sculpture figurant Athéna dans un portique peut remplir
+une fonction votive ou décorative ; une image installée dans le
+sanctuaire et intégrée aux obligations rituelles de la cité possède un
+autre statut. La beauté plastique, l'ancienneté revendiquée et la
+capacité à recevoir des gestes religieux ne se superposent pas toujours.
+Le chapitre précédent montrait que la pierre non figurée pouvait faire
+fonction d'objet cultuel ; le présent chapitre examine comment la
+figuration anthropomorphe peut, elle aussi, rester inséparable de la
+pratique.
+
+### 387.2. Athéna Polias : l'image et le corps politique
+
+Pausanias, *Description de la Grèce*, I, 26, 6, évoque l'image d'Athéna
+Polias, tenue pour particulièrement vénérable par les Athéniens, et
+rapporte une tradition selon laquelle elle serait tombée du ciel. Le
+texte documente l'existence de cette tradition au IIe siècle de notre
+ère ; il ne prouve pas une chute réelle, ni l'âge exact de l'objet qu'il
+décrit. Le fait que l'image soit associée à la communauté civique
+rappelle que la présence divine est aussi une affaire d'institutions :
+la cité possède des rites, des responsables, des jours réservés et une
+mémoire de ses objets.
+
+Le passage suivant (I, 26, 7) décrit une lampe entretenue dans l'espace
+sacré. L'objet votif ou cultuel n'est pas isolé : il appartient à un
+environnement d'offrandes, de luminaires, de récits et de soins. La
+question de savoir si l'on doit comprendre la statue comme « habitée »
+par la déesse ne peut être résolue par le seul vocabulaire moderne de la
+représentation. Les gestes rituels et la puissance attribuée au lieu
+sont plus directement observables dans nos sources que les définitions
+métaphysiques prêtées aux participants.
+
+### 387.3. Les Plynteries : vêtir, voiler, interrompre
+
+Plutarque, *Vie d'Alcibiade*, 34, 1, raconte que le retour d'Alcibiade à
+Athènes coïncida avec les Plynteries, cérémonie durant laquelle les
+Praxiergides retiraient les vêtements de la déesse et couvraient ses
+images. Le récit interprète cette coïncidence comme un présage
+défavorable ; il doit être lu comme un témoignage littéraire tardif sur
+la perception du rite, non comme une transcription du déroulement
+intégral de la fête au Ve siècle avant notre ère. Les modalités précises
+du lavage, la distinction entre image et vêtements et l'articulation
+entre Plynteries et autres fêtes demeurent discutées.
+
+Le retrait des ornements suspend l'accessibilité ordinaire de la
+divinité. La statue n'est pas un objet dont la fonction serait assurée
+une fois pour toutes par sa fabrication : elle entre dans des rythmes de
+visibilité et de retrait. Ce temps de fermeture a une portée civique,
+puisque l'indisponibilité de la déesse peut être pensée comme une
+période où les entreprises publiques sont défavorisées. L'image
+participe ainsi à une temporalité religieuse, et non seulement à une
+topographie.
+
+### 387.4. Déméter Mélaina : perte et remplacement d'une image
+
+Pausanias, VIII, 42, 3-7, rapporte la tradition de la Déméter noire de
+Phigalie. Une ancienne image en bois, décrite avec une tête chevaline et
+des attributs animaux, aurait disparu dans un incendie. Les habitants
+auraient ensuite négligé le culte, avant de chercher une réponse
+oraculaire à une famine et de commander une nouvelle image à Onatas
+d'Égine. Pausanias précise que le sculpteur aurait travaillé à partir de
+témoignages et d'une vision onirique. Les éléments du récit relèvent de
+registres différents : description d'un objet disparu, mémoire locale,
+étiologie du malheur, intervention de Delphes, reconstruction
+artistique.
+
+Cette histoire montre que l'identité d'une image ne dépend pas
+exclusivement de la conservation matérielle de son support. Une statue
+peut être remplacée tout en maintenant une relation à la même déesse, à
+condition que la communauté reconnaisse et autorise la substitution. La
+destruction du premier objet ne signifie pas nécessairement disparition
+de la puissance divine ; elle peut cependant interrompre les gestes qui
+la rendaient présente dans le sanctuaire. On ne saurait, sur cette seule
+base, postuler un rite grec uniforme d'« animation » comparable à ceux
+de Mésopotamie ou d'Inde.
+
+### 387.5. Une critique de l'évolutionnisme religieux
+
+L'histoire de l'art du XIXe siècle a parfois interprété les *xoana*
+comme des étapes maladroites précédant l'excellence naturaliste des
+statues classiques. Milette Gaifman, *Aniconism in Greek Antiquity*
+(2012), a montré l'insuffisance d'une telle chronologie : l'image non
+figurée et l'image anthropomorphe coexistent. Les pratiques civiques,
+les lieux et les traditions de chaque objet importent davantage qu'un
+classement selon la ressemblance avec le corps humain. La Grèce ne
+fournit donc pas le modèle d'une marche nécessaire de la « pierre brute
+» vers la « statue vivante ».
+
+**Bilan critique.** **Attesté :** Pausanias I, 26, 6-7 et VIII, 42, 3-7,
+ainsi que Plutarque, *Alcibiade*, 34, 1, décrivent des images, leur
+entretien ou leur remplacement. **Controversé :** l'âge exact des
+objets, les détails des Plynteries et la fiabilité des traditions sur la
+Déméter de Phigalie. **Hypothèse :** la « vie » d'une image grecque
+tient moins à un instant d'animation qu'à la continuité d'une relation
+institutionnelle, rythmée par la visibilité, le soin et la mémoire.
+
+------------------------------------------------------------------------
+
+# CHAPITRE 388 --- MÉSOPOTAMIE : LE CORPS DU DIEU, SES REPAS ET SES DÉPLACEMENTS
+
+### 388.1. Après la consécration : la vie ordinaire d'un dieu
+
+Le chapitre 381 a présenté le *mīs pî*, cérémonie qui permettait
+l'installation cultuelle d'une image ; il ne s'agit pas de répéter ici
+ses séquences. Une question différente se pose : que se passe-t-il
+**après** l'installation ? Dans les temples mésopotamiens, les images
+des divinités peuvent être considérées comme des corps recevant
+nourriture, vêtements, onctions et services. L'historien Lorenzo
+Verderame, dans une étude de 2023 sur la vie quotidienne de la statue
+divine, insiste sur ce point souvent négligé : la présence religieuse se
+maintient par une économie de gestes répétés et par un ensemble de
+relations avec les lieux, le mobilier et les officiants.
+
+Le sanctuaire est appelé « maison » de la divinité dans de nombreux
+contextes. Ce vocabulaire ne signifie pas qu'un temple serait simplement
+une habitation humaine agrandie ; il souligne néanmoins la manière dont
+le culte organise l'accès à une présence. Le dieu possède un
+emplacement, des attributs, des serviteurs, des moments de repas,
+parfois des déplacements. La statue peut devenir le centre d'une
+logistique considérable. Les archives administratives documentent les
+ressources mobilisées : textiles, denrées, personnel, ateliers et
+transports. La matérialité n'est pas l'enveloppe extérieure de la
+religion ; elle en constitue l'une des conditions historiques.
+
+### 388.2. La nourriture offerte et le problème de la consommation
+
+Le texte cunéiforme TCL 6, 38, conservé dans les corpus d'Uruk d'époque
+séleucide, documente des offrandes alimentaires quotidiennes dans les
+temples. Le catalogue scientifique ORACC le relie à des études de
+Linssen, Farber et Beaulieu. La source ne doit pas être généralisée sans
+précaution à toutes les cités et à tous les millénaires. Elle fournit
+cependant un exemple localisable de l'organisation rituelle des repas
+divins.
+
+Une offrande ne suppose pas que le bois ou le métal « mange » au sens
+physiologique. Le langage cultuel peut attribuer au dieu la réception du
+repas, tandis que la préparation, la présentation et la redistribution
+relèvent d'actions humaines. Les formes exactes de consommation, de
+retrait et de partage des offrandes varient selon les périodes et les
+institutions. Le problème anthropologique est celui d'une commensalité
+asymétrique : les hommes nourrissent les dieux, mais cette relation est
+encadrée par un ordre hiérarchique qui distingue l'officiant, le
+souverain et les bénéficiaires du culte.
+
+### 388.3. Vêtir, laver, parer : la fabrication continue du corps divin
+
+Le soin des vêtements et des bijoux montre qu'une statue n'est pas un
+objet fini au moment où l'artisan cesse son travail. Sa présentation
+peut être modifiée. La dimension visible du corps divin résulte d'une
+succession de gestes, dont certains restent réservés au personnel du
+sanctuaire. Les matériaux précieux rendent perceptible la richesse du
+dieu et, indirectement, celle de la cité ou du souverain qui les lui
+consacre. La distinction entre le corps matériel de la statue et la
+divinité n'est pas annulée par ces pratiques ; elle devient un problème
+religieux traité rituellement.
+
+L'étude de Marinella Ceravolo (2026) sur la dimension végétale des
+statues mésopotamiennes montre que le bois pouvait être associé à des
+lieux d'origine purs et à une transformation rituelle. La nature du
+matériau et son parcours comptent. Cependant, la pureté supposée de
+l'essence végétale ne suffisait pas, à elle seule, à produire la
+présence divine. La fabrication et la consécration forment une chaîne,
+prolongée par l'entretien.
+
+### 388.4. Le dieu en voyage : la fête de l'Akītu
+
+Les cérémonies du Nouvel An à Babylone offrent un exemple de déplacement
+de la présence divine. La fête de l'Akītu, particulièrement documentée
+pour le premier millénaire avant notre ère, associait le roi, les
+prêtres, les statues et les parcours processionnels. Le musée virtuel du
+ministère français de la Culture décrit la procession de Marduk sur la
+Voie processionnelle, au-delà de la porte d'Ishtar, vers le temple de
+l'Akītu. Les documents cunéiformes relatifs à Borsippa, notamment ORACC
+P202504, mentionnent les déplacements de Nabû à l'occasion des
+festivités.
+
+Il faut se garder d'imaginer un rituel immuable, exécuté exactement de
+la même manière pendant deux mille ans. Les sources conservées
+correspondent à des moments particuliers et leurs prescriptions ne
+prouvent pas que chaque étape fut toujours accomplie. Mais elles
+attestent la possibilité d'une présence divine mobile. Lorsque la statue
+sort, le rapport entre temple et ville se transforme : le dieu devient
+publiquement visible, le souverain manifeste son rôle et l'ordre civique
+se donne à voir.
+
+### 388.5. Capture et absence : l'image comme enjeu politique
+
+Les chroniques mésopotamiennes et les inscriptions royales connaissent
+des déplacements forcés de statues divines, consécutifs à des guerres.
+Ces épisodes ne peuvent être compris comme de simples vols d'œuvres
+d'art : enlever une image cultuelle peut être présenté comme une
+atteinte à la protection divine d'une cité et comme un signe de
+domination. Le retour de la statue devient inversement un acte de
+restauration politique et religieuse. Il convient toutefois de
+distinguer les événements documentés des récits de légitimation rédigés
+par les vainqueurs. La « captivité » du dieu relève d'un langage
+théologico-politique dont l'historien doit étudier les usages.
+
+### 388.6. Ce que les documents ne permettent pas de conclure
+
+La comparaison avec la Mésopotamie est souvent tentante parce que les
+textes semblent attribuer à la statue une vie complète. Mais l'existence
+d'un rituel de repas ne prouve ni que tous les fidèles partageaient une
+même ontologie de l'image, ni que les prêtres ignoraient sa fabrication
+humaine. Au contraire, les textes de fabrication et de consécration
+témoignent d'une conscience aiguë du travail artisanal. Le paradoxe est
+institutionnel : un objet fait de mains humaines peut devenir, par des
+procédures reconnues, le corps socialement accessible d'une puissance
+divine.
+
+**Bilan critique.** **Attesté :** TCL 6, 38 documente des offrandes à
+Uruk ; les sources sur l'Akītu et Nabû documentent des déplacements
+d'images ; l'entretien matériel des statues est étudié à partir de
+textes et d'archives. **Controversé :** l'uniformité des pratiques, les
+modalités de redistribution des offrandes et l'extension de ces usages à
+toutes les périodes. **Hypothèse :** la présence divine mésopotamienne
+s'élabore dans une « biographie cultuelle » faite de soins, de voyages
+et parfois d'absences imposées.
+
+------------------------------------------------------------------------
+
+# CHAPITRE 389 --- ÉGYPTE : OUVRIR LE NAOS, VOIR LE DIEU, ENTRETENIR LA MAÂT
+
+### 389.1. Le sanctuaire comme espace d'accès contrôlé
+
+Dans les temples égyptiens, la statue divine peut être installée dans un
+*naos*, espace ou édicule qui protège l'image et règle les conditions de
+sa rencontre. L'accès au sanctuaire intérieur n'est pas identique à
+celui des cours extérieures. Le personnel sacerdotal doit accomplir des
+opérations de purification et respecter des séquences rituelles. Cette
+architecture de l'accès montre que la présence divine n'est pas une
+exposition permanente destinée à tous les regards. La possibilité de
+voir l'image est un événement préparé et autorisé.
+
+Les rites d'ouverture de la bouche, déjà abordés dans les chapitres
+funéraires de MYTHOS, concernent aussi la capacité d'une image à
+recevoir les offrandes. L'enquête présente ne cherche pas à reconstituer
+une nouvelle fois le rite funéraire ; elle examine le **service
+quotidien de la statue cultuelle**, qui possède ses propres sources et
+ses propres contraintes documentaires.
+
+### 389.2. Un dossier exceptionnel : le papyrus Berlin 3055
+
+Le programme de recherche *Digital Egypt for Universities* de
+l'University College London identifie deux grands ensembles de témoins
+du rituel quotidien : les scènes et inscriptions du temple de Séthi Ier
+à Abydos, et les papyrus hiératiques de la XXIIe dynastie relatifs aux
+cultes d'Amon et de Mout à Karnak. Parmi ces derniers, le papyrus Berlin
+3055 est le mieux conservé pour Amon ; les papyrus Berlin 3014 et 3053
+concernent Mout. Cette identification matérielle permet d'éviter de
+parler vaguement d'un « rituel égyptien éternel ».
+
+Le papyrus Berlin 3055 présente des formules correspondant à plusieurs
+étapes : préparer l'encens, approcher du sanctuaire, rompre le sceau,
+délier la fermeture, exposer l'image à la lumière, voir le dieu,
+procéder aux gestes de service et refermer. Le détail de l'enchaînement
+dépend de l'état du texte et des reconstructions savantes. Les scènes
+d'Abydos complètent les papyrus en figurant des opérations qui ne sont
+pas toutes développées dans le même témoin. Il faut donc distinguer la
+séquence conservée dans chaque source de la synthèse moderne qui
+rapproche les documents.
+
+### 389.3. Voir n'est pas posséder : la dramaturgie de l'apparition
+
+La formule d'ouverture de la face du dieu n'est pas une simple
+indication d'éclairage technique. Elle appartient à une action
+ritualisée où le passage de l'obscurité à la visibilité fait sens. Le
+prêtre n'observe pas une sculpture comme un visiteur de musée : il
+rencontre une présence dans un cadre de gestes, de paroles et de
+précautions. Mais la source ne donne pas directement accès à une
+psychologie individuelle de la croyance. On peut décrire l'opération
+rituelle, non reconstituer ce que chaque participant éprouvait.
+
+Le service de la statue comprend la présentation de parfums, d'onguents,
+de textiles et d'offrandes. L'habillement du dieu peut être détaillé par
+les reliefs d'Abydos : coiffures, couronnes, parures et insignes
+participent à la manifestation de sa puissance. La théologie de la
+*Maât*, ordre juste du monde, éclaire la valeur de ces gestes répétés.
+Nourrir et honorer le dieu contribue à l'entretien de relations
+ordonnées entre le roi, le personnel du temple et les puissances
+divines.
+
+### 389.4. Le roi, le prêtre et la délégation rituelle
+
+L'iconographie des temples représente fréquemment le souverain
+accomplissant les gestes du culte. Cette représentation ne signifie pas
+que le roi était personnellement présent chaque matin dans chaque
+sanctuaire. Elle exprime une théorie de l'autorité rituelle : le roi est
+le responsable idéal du service, tandis que les prêtres agissent
+concrètement dans les temples. L'écart entre image officielle et
+organisation quotidienne doit être étudié avec les inscriptions, les
+archives et les traces matérielles. La statue divine est ainsi placée au
+croisement de la théologie et de l'administration.
+
+L'archéologie du mobilier cultuel --- naoi, encensoirs, vases, supports
+d'offrandes --- aide à restituer les conditions matérielles des rites.
+Toutefois, la découverte d'un objet de ce type ne permet pas d'attribuer
+automatiquement un geste précis à une salle donnée. Les dépôts
+secondaires, remaniements et remplois imposent une prudence
+stratigraphique.
+
+### 389.5. Une comparaison limitée avec l'Inde et la Mésopotamie
+
+La ressemblance entre les gestes égyptiens, mésopotamiens et indiens ---
+ouvrir, laver, vêtir, nourrir --- est frappante. Elle autorise une
+comparaison des **opérations**, non une identité de doctrines. Les
+textes égyptiens peuvent présenter l'image comme un support tangible par
+lequel l'offrande atteint la puissance divine ; les formulations
+mésopotamiennes insistent dans certains contextes sur le corps terrestre
+du dieu ; les traditions hindoues développent des procédures
+d'établissement de la présence qui possèdent leur histoire propre. Une
+analogie de gestes n'est ni la preuve d'une diffusion historique, ni
+celle d'une « religion universelle de la statue ».
+
+**Bilan critique.** **Attesté :** Berlin 3055, Berlin 3014 et 3053,
+ainsi que les reliefs de Séthi Ier à Abydos, documentent le service
+cultuel. **Controversé :** la reconstruction complète de la séquence
+quotidienne et la transposition d'un sanctuaire ou d'une période à
+l'ensemble de l'Égypte. **Hypothèse :** le dévoilement réglé de l'image
+est un dispositif de présence dans lequel l'accès à la divinité exprime
+aussi la hiérarchie sacerdotale et royale.
+
+------------------------------------------------------------------------
+
+# CHAPITRE 390 --- IRAN : L'IMAGE DIVINE ENTRE RÉSERVE CULTUELLE ET REPRÉSENTATION ROYALE
+
+### 390.1. Hérodote et le piège d'une formule célèbre
+
+Hérodote, *Histoires*, I, 131, affirme que les Perses n'avaient pas
+coutume d'ériger des statues divines, des temples ou des autels à la
+manière des Grecs ; il associe leurs sacrifices à des espaces ouverts,
+notamment des hauteurs. Ce témoignage est incontournable, mais il ne
+peut être converti en règle absolue valable pour tous les peuples
+iraniens, du premier millénaire avant notre ère à l'époque sassanide.
+Hérodote écrit en grec, compare des pratiques qu'il sélectionne et
+propose ses propres explications. Son enquête porte sur une réalité
+historique située, non sur l'ensemble de l'histoire du zoroastrisme.
+
+Le problème est philologique autant qu'historique : la traduction de
+mots grecs désignant statues, temples et autels ne garantit pas une
+équivalence parfaite avec les catégories iraniennes. La présence de
+rites en plein air ne signifie pas l'absence de lieux consacrés,
+d'objets cérémoniels ou d'images royales. Une religion peut limiter
+certaines formes de statues cultuelles et produire parallèlement une
+iconographie politique complexe.
+
+### 390.2. Les inscriptions d'Artaxerxès II et le nom d'Anāhitā
+
+Des inscriptions royales d'Artaxerxès II, notamment A²Sa et A²Sd à Suse,
+invoquent Ahura Mazdā, Anāhitā et Mithra. Elles établissent que ces
+puissances appartiennent au langage de la légitimation royale au IVe
+siècle avant notre ère. Elles ne suffisent pas à établir la forme
+matérielle de chaque culte. Un nom divin dans une inscription n'est pas
+la preuve qu'une statue de cette divinité se trouvait à proximité.
+
+Un fragment de Bérose, historien babylonien du début de l'époque
+hellénistique, transmis par Clément d'Alexandrie (*Protreptique*, V, 65,
+2-3), attribue à Artaxerxès II l'introduction d'images d'Anāhitā dans
+différents centres de l'empire. Il s'agit d'un témoignage indirect,
+transmis plusieurs siècles après les faits supposés et dans un contexte
+polémique chrétien. Les travaux de Pierre Briant et de Matthew P. Canepa
+soulignent la difficulté de vérifier archéologiquement l'ampleur de
+cette politique. Il faut éviter le syllogisme circulaire qui consiste à
+utiliser le texte pour identifier des temples hypothétiques, puis ces
+temples pour confirmer le texte.
+
+### 390.3. Le relief sassanide : représenter la puissance, ou la recevoir ?
+
+À Naqsh-e Rostam, un relief d'investiture d'Ardashir Ier représente deux
+cavaliers échangeant un anneau de souveraineté. Une inscription associe
+l'un des protagonistes à Ohrmazd/Ahura Mazdā. Cette représentation est
+un document matériel essentiel, mais son interprétation précise a été
+discutée. Bruno Overlaet (*Iranica Antiqua*, 48, 2013, p. 313-354) a
+proposé de reconsidérer la lecture de certaines scènes d'investiture :
+la distinction entre dieu figuré, officiant sacerdotal et souverain
+n'est pas toujours aussi simple que le suggèrent les légendes modernes.
+
+Même lorsque l'identification divine est assurée par une inscription, un
+relief rupestre n'est pas automatiquement une statue cultuelle destinée
+à recevoir des repas ou des vêtements. Sa fonction première peut être
+monumentale, dynastique et territoriale. Le support, la position, la
+taille et l'accessibilité sont des éléments décisifs. On ne doit donc
+pas passer sans justification du problème de l'iconographie royale à
+celui de l'animation d'une effigie dans un sanctuaire.
+
+### 390.4. Le feu, l'image et la continuité des pratiques
+
+Les traditions zoroastriennes ont développé une importance considérable
+accordée au feu consacré. Mais il serait trompeur de définir toute la
+religion iranienne comme un système « sans images » opposé à une Inde «
+avec statues ». Les sources révèlent des histoires institutionnelles et
+régionales différenciées. Certaines formes de représentation ont été
+encouragées ou tolérées dans des milieux précis, tandis que d'autres
+traditions ont privilégié des objets et des espaces rituels non
+anthropomorphes.
+
+Le contraste avec la Mésopotamie permet de préciser les termes de la
+comparaison. La présence d'une image divine sur un relief n'implique pas
+un *mīs pî* iranien ; l'existence d'un feu entretenu ne fait pas du feu
+une statue. Les pratiques doivent être décrites dans leurs propres
+langues et documentées à partir de leurs propres sources.
+
+**Bilan critique.** **Attesté :** Hérodote I, 131 formule une
+description des coutumes perses ; les inscriptions d'Artaxerxès II
+nomment Anāhitā ; des reliefs sassanides figurent des scènes
+d'investiture. **Controversé :** l'étendue de la politique d'images
+attribuée à Artaxerxès II et l'identification de certains personnages
+sur les reliefs. **Hypothèse :** l'Iran ancien illustre une pluralité de
+régimes de visibilité du divin, sans qu'on puisse postuler une évolution
+linéaire de l'aniconisme vers l'image.
+
+------------------------------------------------------------------------
+
+# CHAPITRE 391 --- INDE : *PRĀṆA-PRATIṢṬHĀ*, *DARŚAN* ET BIOGRAPHIE DES IMAGES
+
+### 391.1. Établir la présence : une opération, non une essence
+
+Dans plusieurs traditions hindoues, une image cultuelle --- *mūrti* ou
+*pratimā* selon les usages --- peut recevoir une consécration destinée à
+établir la présence de la divinité. L'expression *prāṇa-pratiṣṭhā*
+associe l'idée de souffle vital (*prāṇa*) et celle d'établissement ou
+d'installation (*pratiṣṭhā*). Les traductions « insufflation de vie » ou
+« animation » sont utiles, mais ne doivent pas faire croire à un rite
+uniforme exécuté sans changement depuis l'époque védique. Les procédures
+varient selon les traditions śivaïtes, viṣṇuites, śākta, jaïnes et
+bouddhiques, ainsi que selon les régions et les époques.
+
+Le volume collectif dirigé par István Keul, *Consecration Rituals in
+South Asia* (Brill, 2017), documente cette diversité par l'étude de
+prescriptions textuelles et de pratiques observées. Il comporte
+notamment des travaux sur l'installation des *liṅga*, les dépôts de
+gemmes, les sources pāñcarātra et les remplacements d'images
+endommagées. Ces dossiers interdisent de réduire la consécration à une
+unique formule magique. Il s'agit d'une chaîne d'actions où
+interviennent la préparation de l'espace, les matériaux, les
+spécialistes, les mantras et l'établissement d'une relation cultuelle.
+
+### 391.2. Le problème des sources et de la chronologie
+
+La documentation indienne oblige à distinguer plusieurs strates : images
+archéologiques anciennes, textes épiques et puraniques, traités
+d'architecture et d'iconographie, corpus āgamiques et tantriques,
+témoignages ethnographiques contemporains. La présence d'une sculpture
+de l'époque kuṣāṇa ne démontre pas qu'elle a reçu les mêmes rites qu'une
+image consacrée dans un temple du XXIe siècle. Les prescriptions
+médiévales ne peuvent être projetées sans médiation sur le *Rig-Véda*.
+
+Marko Geslani, dans *Rites of the God-King* (Oxford University Press,
+2018), examine l'histoire des prescriptions d'installation des images et
+leurs liens possibles avec les rites royaux et les techniques
+d'aspersion. L'intérêt de cette approche est de reconstruire les
+transmissions et transformations au lieu de présumer un système
+intemporel. Les premiers textes disponibles ne coïncident pas
+nécessairement avec les premières pratiques ; l'absence d'une
+prescription conservée n'est pas une preuve que l'opération n'existait
+pas.
+
+### 391.3. *Darśan* : voir et être vu
+
+Le terme sanskrit *darśana* est associé à la vision, et *darśan* désigne
+dans de nombreux contextes religieux l'expérience de voir la divinité ou
+une présence sainte. Diana L. Eck, dans *Darśan: Seeing the Divine Image
+in India* (3e éd., 1998), montre que le regard n'est pas un acte
+purement esthétique. Le fidèle vient rencontrer la divinité par la
+vision de son image ; le regard peut être pensé comme réciproque. Il
+serait cependant excessif de dire que tous les cultes indiens reposent
+sur une doctrine identique du regard : la place de l'image varie entre
+temples, maisons, pèlerinages, courants dévotionnels et traditions
+philosophiques.
+
+L'iconographie des yeux, la disposition du sanctuaire et la gestion des
+moments de dévoilement participent à la relation. La ressemblance
+formelle avec le « voir le dieu » du papyrus égyptien Berlin 3055 est
+intéressante, mais elle n'autorise pas à parler d'un rite commun
+transmis de l'Égypte à l'Inde. Les textes, les chronologies et les
+conceptions théologiques diffèrent. La comparaison la plus rigoureuse
+porte sur les modalités d'accès à la présence.
+
+### 391.4. Les images ont une histoire sociale
+
+Richard H. Davis, *Lives of Indian Images* (1997), propose d'étudier la
+« vie » des images à travers les actions qu'elles suscitent et
+subissent. Une statue peut être commandée, installée, célébrée,
+transportée, endommagée, restaurée, déplacée par la guerre, réinstallée
+ou abandonnée. Elle possède ainsi une biographie historique qui n'est
+pas réductible à sa date de sculpture. Davis souligne la manière dont
+des images sont réveillées, lavées, habillées, nourries et couchées dans
+certains cultes.
+
+La biographie d'un objet ne doit pas être confondue avec une personne
+biologique. Elle constitue une méthode d'analyse des relations entre
+matière, institutions et dévotion. L'histoire de la capture ou de la
+destruction des images peut aussi révéler des conflits politiques et des
+transformations de souveraineté. L'objet peut changer de lieu et de
+statut sans que tous les acteurs s'accordent sur ce que ce changement
+signifie.
+
+### 391.5. L'image et les exceptions à l'image
+
+L'Inde religieuse connaît des pierres, des *liṅga*, des formes non
+anthropomorphes et des objets considérés comme spontanément manifestés
+(*svayambhū* dans certains usages). Il n'est donc pas exact d'opposer un
+culte indien « des statues » à un Iran « des éléments ». La présence
+peut être établie par consécration dans certains contextes, reconnue
+comme déjà manifestée dans d'autres. L'étude du chapitre 383 sur les
+*śālagrāma* rappelle qu'un fossile ou une pierre peut recevoir une
+valeur cultuelle sans être taillé à la ressemblance d'un corps humain.
+
+**Bilan critique.** **Attesté :** les sources de consécration et les
+observations documentées montrent des rites d'installation et
+d'entretien des images ; Davis, Eck, Keul et Geslani en proposent des
+analyses contrôlables. **Controversé :** l'ancienneté de certaines
+séquences rituelles et les relations entre traditions textuelles et
+pratiques locales. **Hypothèse :** l'image indienne peut être comprise
+comme une relation instituée entre matière, divinité, spécialiste et
+dévot, dont le *darśan* constitue une forme particulièrement élaborée.
+
+------------------------------------------------------------------------
+
+# CHAPITRE 392 --- CHINE : TABLETTES ANCESTRALES, STATUES BOUDDHIQUES ET OUVERTURE DU REGARD
+
+### 392.1. Refuser une histoire chinoise homogène de « l'idole »
+
+La Chine ancienne n'a pas connu une seule doctrine de l'image
+religieuse. Les inscriptions divinatoires Shang attestent des relations
+complexes avec les ancêtres et les puissances divines, mais elles ne
+permettent pas de reconstruire une institution de statues animées
+comparable à celle des temples bouddhiques médiévaux. Les objets rituels
+en bronze, les supports ancestraux, les peintures, les effigies et les
+statues appartiennent à des traditions partiellement distinctes. La
+prudence chronologique est essentielle : plusieurs siècles, parfois plus
+d'un millénaire, séparent les contextes qu'une présentation
+superficielle pourrait regrouper.
+
+Une étude publiée en 2015 dans le *Journal of Chinese Literature* de
+l'Université nationale de Taïwan, consacrée aux tablettes ancestrales et
+aux portraits d'ancêtres, rappelle que les tablettes et les images ne
+sont pas interchangeables. Le support de la présence ancestrale peut
+être une inscription nominale plutôt qu'un portrait ressemblant. Cette
+différence invite à étudier les noms, les places dans le sanctuaire
+familial, les offrandes et les règles de filiation, et non seulement la
+figuration du visage.
+
+### 392.2. L'arrivée et la transformation des images bouddhiques
+
+À partir des premiers siècles de notre ère, le bouddhisme contribue à
+transformer la culture matérielle chinoise. John Kieschnick, *The Impact
+of Buddhism on Chinese Material Culture* (2003), a montré que les
+images, reliques, objets de dévotion, vêtements et mobiliers participent
+à des changements plus larges que l'iconographie. Les sculptures
+bouddhiques ne sont pas seulement des formes importées : elles sont
+réinterprétées dans des institutions chinoises et liées à de nouvelles
+pratiques de don, de mérite et de patronage.
+
+Les grottes de Yungang, près de Datong, offrent un dossier archéologique
+particulièrement solide. L'UNESCO situe leur développement majeur aux Ve
+et VIe siècles de notre ère et souligne le rôle du patronage impérial
+des Wei du Nord. Les sculptures monumentales sont inséparables de
+l'architecture rupestre, de l'organisation du chantier, des inscriptions
+de donateurs et des choix politiques. Leur présence ne prouve pas que
+toutes recevaient la même cérémonie d'activation ; il faut distinguer la
+fabrication monumentale, l'usage liturgique et les rites de consécration
+éventuellement attestés par des sources propres.
+
+### 392.3. L'ouverture des yeux : une comparaison à manier avec précision
+
+Des traditions bouddhiques et taoïstes chinoises connaissent des rites
+désignés dans certains contextes par *kāiguāng* (« ouverture de la
+lumière »), associés à la mise en service cultuelle d'images. Le geste
+d'ouverture ou de marquage des yeux peut être interprété comme
+l'établissement d'une capacité de relation. Cependant, la chronologie,
+les formulaires et les milieux de ces rites ne peuvent être reconstruits
+à partir d'une simple observation contemporaine. Il serait erroné
+d'affirmer qu'une cérémonie de *kāiguāng* identique était pratiquée dans
+les temples Shang ou dans toutes les grottes de Yungang.
+
+La comparaison avec le *darśan* indien est éclairante sur le plan
+fonctionnel : le regard participe à la relation avec la présence. Mais
+les traditions chinoises mobilisent aussi l'inscription, les reliques,
+les dépôts à l'intérieur des statues, les récitations et les
+consécrations collectives. Le regard n'est qu'un aspect d'un système
+rituel plus vaste.
+
+### 392.4. Le patronage et la puissance de l'image
+
+Les statues peuvent devenir des lieux de négociation entre souverains,
+communautés monastiques, artisans et donateurs. Les grandes campagnes de
+sculpture exigent des ressources matérielles et humaines considérables.
+La dimension politique ne supprime pas la dimension dévotionnelle : une
+même image peut servir à produire du mérite, à représenter une autorité
+et à organiser la mémoire d'un groupe. L'inscription du nom d'un
+donateur modifie l'objet en lui attachant une histoire sociale ;
+l'archéologue peut parfois retrouver cette histoire grâce aux
+inscriptions, mais pas toujours grâce au seul style.
+
+Le cas chinois montre également les limites du terme « animation ». Une
+tablette ancestrale, un portrait rituel et un bouddha rupestre ne
+deviennent pas « vivants » par un procédé identique. Il faut préférer
+une description précise des relations : représenter, localiser, recevoir
+l'offrande, rendre visible, inscrire la mémoire, produire du mérite.
+
+**Bilan critique.** **Attesté :** Yungang possède un corpus monumental
+daté des Ve-VIe siècles ; les pratiques ancestrales distinguent
+tablettes et portraits ; le bouddhisme a transformé la culture
+matérielle chinoise. **Controversé :** la date et la diffusion de
+certains rites d'ouverture des yeux et leur application à des monuments
+précis. **Hypothèse :** la Chine offre un exemple particulièrement clair
+de pluralité des supports de présence, du nom ancestral à la statue
+monumentale.
+
+------------------------------------------------------------------------
+
+# CHAPITRE 393 --- AFRIQUE ET AMÉRIQUES : OBJETS ACTIFS, ANCÊTRES ET INCARNATIONS RITUELLES
+
+### 393.1. Un avertissement méthodologique
+
+Il n'existe ni « religion africaine » unique ni « religion américaine »
+unique. Les exemples choisis concernent des traditions, des dates et des
+espaces distincts. Les objets kongo et yoruba conservés dans les musées
+sont majoritairement documentés pour les périodes moderne et
+contemporaine ; ils ne peuvent servir de preuve directe des pratiques de
+l'Afrique préhistorique. Les témoignages coloniaux sur les Mexica et les
+Inka exigent, quant à eux, une lecture critique de leurs conditions de
+collecte et de traduction. Le vocabulaire ancien de « fétiche » a
+souvent amalgamé des objets de statut très différent et doit être
+discuté plutôt que reconduit.
+
+### 393.2. Kongo : le *nkisi* comme puissance fabriquée et entretenue
+
+Les collections du Metropolitan Museum of Art permettent d'étudier des
+*minkisi* (singulier *nkisi*) avec une précision matérielle remarquable.
+Le *Power Figure: Male (Nkisi)*, inv. 1990.334, daté du XIXe siècle,
+associe bois, métal, verre, fibres et matières diverses. Le musée décrit
+une collaboration entre sculpteur et spécialiste rituel (*nganga*). Des
+substances choisies, appelées *bilongo*, sont placées dans des
+réceptacles ou fixées à l'objet ; leur présence contribue à le
+transformer en instrument capable d'intervenir dans la guérison, les
+conflits ou la protection.
+
+La figure monumentale *Mangaaka*, inv. 2008.3, datée de la fin du XIXe
+siècle, montre une autre dimension : les éléments métalliques insérés au
+fil des usages peuvent enregistrer des interventions successives dans
+des affaires collectives. Il ne s'agit pas d'une statue simplement «
+adorée ». L'objet est engagé dans des procédures de justice, de
+négociation et de contrainte, et son efficacité est rapportée à une
+combinaison de savoir rituel, de matières et d'autorité sociale. Wyatt
+MacGaffey a contribué à montrer que les catégories européennes d'« idole
+» ou de « superstition » masquaient cette complexité institutionnelle.
+
+L'activation n'est donc pas un instant isolé. Elle peut se poursuivre à
+chaque intervention du spécialiste, à chaque ajout de matière ou
+d'élément métallique. L'image possède une histoire matérielle
+cumulative. Les conditions coloniales de collecte compliquent néanmoins
+la reconstruction de ses usages : certains objets furent retirés de leur
+milieu, désactivés, vendus ou détruits, et les notices anciennes
+reflètent parfois des incompréhensions.
+
+### 393.3. Yoruba : les *ère ìbejì* et le soin d'une présence absente
+
+Les *ère ìbejì* sont des figures associées aux jumeaux, notamment
+lorsqu'un enfant est décédé. Une notice du Princeton University Art
+Museum (inv. 2011-42) décrit des sculptures qui pouvaient être lavées,
+vêtues, nourries et touchées de manière répétée. Ces gestes ne sont pas
+identiques à ceux du *nkisi* kongo. Les figures peuvent servir à
+entretenir une relation avec l'enfant disparu et avec les puissances
+associées à la gémellité ; leur surface témoigne parfois des soins
+reçus.
+
+La comparaison avec les statues divines mésopotamiennes doit rester
+limitée. Dans un cas, le support est engagé dans une relation familiale
+et dans des conceptions locales de la gémellité ; dans l'autre, il
+s'inscrit dans une institution urbaine dotée d'archives, de prêtres et
+d'offrandes régulières. Les ressemblances des gestes --- laver, nourrir,
+parer --- ne prouvent ni une même théologie ni une diffusion historique.
+
+### 393.4. Mexica : *ixiptla*, représentation et incarnation humaine
+
+Le monde mexica apporte un contre-exemple essentiel à une histoire qui
+ne considérerait que les statues. Le terme nahuatl *ixiptla* peut
+désigner, selon le contexte, une image, un représentant ou une
+manifestation d'une puissance. Lors de la fête de Tóxcatl, un homme
+incarnait rituellement Tezcatlipoca pendant une période déterminée avant
+d'être sacrifié. Le *Codex de Florence* de Bernardino de Sahagún, livre
+II, notamment le folio 31 dans les éditions et études modernes, fournit
+une source majeure sur cette figure ; les spécialistes confrontent ce
+témoignage à d'autres traditions coloniales et aux vestiges matériels.
+
+La documentation ne doit pas être lue comme si le jeune homme était une
+« statue vivante » au sens littéral. L'*ixiptla* introduit un autre
+régime de présence : le corps humain devient le support temporaire d'une
+manifestation divine. L'image, le vêtement, la parole et la conduite
+participent à la reconnaissance publique de cette condition. L'étude
+archéologique de l'enceinte sacrée de Tenochtitlan, notamment les
+travaux de l'INAH, permet de confronter ces descriptions aux espaces
+rituels, mais ne confirme pas automatiquement chaque détail des récits
+espagnols.
+
+### 393.5. Andes : les *wak'a* et les limites de la notion de statue
+
+Dans les Andes préhispaniques, des lieux, des rochers et des objets
+pouvaient être reconnus comme *wak'a* (souvent écrit *huaca* dans les
+sources espagnoles). Carolyn Dean, *A Culture of Stone: Inka
+Perspectives on Rock* (2010), montre que certaines pierres étaient
+traitées comme des présences actives, intégrées à la mémoire, au
+territoire et aux relations de pouvoir. Les pratiques rapportées par les
+sources coloniales incluent l'offrande, l'entretien et l'adresse
+rituelle à des éléments du paysage. Cependant, l'animation d'un rocher
+n'est pas nécessairement une consécration de statue figurée.
+
+Ce dossier impose de reconsidérer la catégorie même d'« image ». Une
+pierre peut être reconnue comme une présence sans représenter la forme
+corporelle d'un être ; un homme peut devenir *ixiptla* sans être sculpté
+; un *nkisi* peut tirer son efficacité de matières dissimulées plutôt
+que de sa seule apparence. L'histoire de l'image religieuse doit donc
+intégrer des objets dont la force ne repose pas sur la ressemblance
+visuelle.
+
+### 393.6. Colonialité et musées : une source à deux niveaux
+
+Les collections muséales conservent des objets précieux, mais leurs
+notices sont aussi le produit d'histoires de collecte, de commerce, de
+mission et parfois de violence coloniale. Une description actuelle
+fondée sur des enquêtes ethnographiques peut éclairer un objet ancien ;
+elle ne restitue pas automatiquement le témoignage de son utilisateur
+initial. Les provenances doivent être vérifiées, et les catégories
+locales maintenues autant que possible. La critique des archives
+coloniales est indispensable pour éviter de transformer les objets
+religieux en curiosités exotiques.
+
+**Bilan critique.** **Attesté :** les *minkisi* conservés et documentés,
+les *ère ìbejì* et les sources mexica sur l'*ixiptla* témoignent de
+modes distincts d'action et de présence ; les travaux sur les *wak'a*
+mettent en relation pierres, paysages et mémoire. **Controversé :** les
+usages originels de certains objets déplacés, les détails des récits
+coloniaux et la traduction des catégories indigènes. **Hypothèse :** la
+capacité d'un support à agir socialement peut dépendre davantage des
+relations et des interventions rituelles que de sa ressemblance avec un
+corps divin.
+
+------------------------------------------------------------------------
+
+# CHAPITRE 394 --- PHILOSOPHIE COMPARÉE : PRÉSENCE, REPRÉSENTATION ET PUISSANCE D'AGIR DES IMAGES
+
+### 394.1. Le faux dilemme de l'idole et du symbole
+
+Deux explications symétriques sont souvent proposées : soit les fidèles
+« prennent l'objet pour le dieu », soit ils savent que l'objet n'est
+qu'un symbole sans efficacité propre. Les sources historiques résistent
+à cette alternative. Le *mīs pî* mésopotamien suppose une transformation
+rituelle du statut de la statue ; les textes égyptiens articulent image
+visible et puissance divine ; les traditions hindoues peuvent établir
+une présence par consécration ; un *nkisi* kongo reçoit des matières et
+des interventions spécialisées. Dans chacun de ces cas, l'objet ne peut
+être compris sans la relation qui le constitue.
+
+Le vocabulaire de la « croyance » ne suffit pas non plus. Il faut
+étudier des obligations pratiques : qui a le droit de toucher l'image ?
+Qui l'habille ? Qui la voit ? Qui finance les offrandes ? Qui peut la
+déplacer ou la détruire ? À quelle autorité appartient la décision de
+remplacer un support ? Ces questions permettent de passer d'une
+spéculation générale sur « l'idolâtrie » à une histoire des
+institutions, des gestes et des savoirs.
+
+### 394.2. Durkheim : l'emblème et la puissance du collectif
+
+Dans *Les Formes élémentaires de la vie religieuse* (1912), Émile
+Durkheim analyse le rapport entre emblèmes, représentations et vie
+collective. Sa théorie du totémisme a été critiquée pour les limites de
+son matériau ethnographique et la portée universalisante de ses
+conclusions. Elle demeure utile pour comprendre qu'un objet peut
+condenser des obligations sociales et devenir le support d'une autorité
+qui le dépasse. Appliquée avec prudence à Athéna Polias, cette
+perspective attire l'attention sur la manière dont une image participe à
+la continuité civique. Elle ne prouve pas que la déesse serait une
+simple projection de la cité : cette réduction sociologique ne saurait
+remplacer l'analyse des catégories religieuses grecques.
+
+### 394.3. Vernant et Detienne : la « présentification » et ses limites
+
+Jean-Pierre Vernant a étudié le passage de formes de « présentification
+de l'invisible » à des dispositifs de figuration plus élaborés dans la
+Grèce ancienne. Cette perspective permet de ne pas confondre une image
+cultuelle avec une imitation naturaliste. Le signe religieux peut rendre
+une puissance accessible sans prétendre en reproduire exactement
+l'apparence. Toutefois, il serait abusif d'en faire une séquence
+obligatoire allant partout de la pierre au portrait. Milette Gaifman a
+montré, à partir du dossier grec, que l'aniconisme et la figuration
+coexistent durablement.
+
+Marcel Detienne invite à construire des comparaisons par problèmes
+précisément définis. Plutôt que d'aligner des « dieux-statues », on peut
+comparer des opérations : cacher, dévoiler, nourrir, vêtir, déplacer,
+autoriser, remplacer. La comparaison devient productive lorsqu'elle fait
+apparaître des différences : le dévoilement d'Amon ne se confond pas
+avec les Plynteries d'Athéna, et le *darśan* ne peut être traduit sans
+reste par une formule égyptienne.
+
+### 394.4. Gell : l'objet comme médiateur de l'action
+
+Alfred Gell, *Art and Agency* (1998), propose de considérer les objets
+d'art à partir des relations d'action qu'ils médiatisent. Son
+vocabulaire de l'*agency* ne signifie pas que le chercheur doit
+attribuer une conscience biologique aux statues. Il permet de décrire
+comment un objet intervient dans des chaînes d'intentions, de réactions
+et d'obligations. Le *nkisi* kongo, par exemple, ne se réduit ni à son
+apparence ni aux croyances privées de ses usagers : il participe à des
+actes publics, à des sanctions et à des décisions. La statue grecque
+peut, elle aussi, orienter le calendrier civique par les rites qui lui
+sont associés.
+
+Cette approche présente un risque : si l'on appelle « agent » tout objet
+qui influence une conduite, le concept perd sa capacité à distinguer les
+mécanismes. Il faut donc préciser les opérations et les institutions
+plutôt que déclarer abstraitement que « les images agissent ». La
+capacité d'un objet à produire des effets est toujours située et
+médiatisée.
+
+### 394.5. Hegel, Nietzsche et la question de l'apparence
+
+Dans ses *Leçons sur l'esthétique*, Hegel distingue différentes
+configurations historiques de la relation entre idée et forme sensible.
+Son analyse de l'art symbolique et de l'art classique peut aider à
+formuler le problème de la représentation corporelle du divin. Mais elle
+appartient à une philosophie de l'histoire qui hiérarchise les formes
+artistiques ; l'archéologie contemporaine ne peut reprendre cette
+hiérarchie comme un fait. Les *xoana* et les pierres consacrées ne sont
+pas des « erreurs » dépassées par la sculpture grecque classique.
+
+Nietzsche, notamment dans *La Naissance de la tragédie*, interroge le
+rapport entre apparence, forme et expérience religieuse. Sa pensée est
+féconde pour une critique de l'idée que l'image se bornerait à copier le
+réel. Elle ne fournit cependant pas une théorie empirique des rituels
+d'animation des statues. Le titre *Le Crépuscule des idoles* ne saurait,
+à lui seul, servir de preuve sur les images cultuelles de l'Antiquité.
+Une histoire intellectuelle rigoureuse distingue la métaphore
+philosophique de l'objet archéologique.
+
+### 394.6. Eliade, Dumézil et Girard : comparer sans universaliser
+
+Mircea Eliade a proposé des modèles généraux de manifestation du sacré
+dans des objets, des lieux et des gestes. Ils peuvent stimuler des
+questions sur la présence, mais leur portée universelle doit être
+soumise à la critique historique. Georges Dumézil, par son comparatisme
+indo-européen, offre des outils pour étudier des parentés de structures
+dans des traditions liées ; il n'autorise pas à postuler une origine
+commune aux rites de statues mésopotamiens, yoruba, chinois et indiens.
+René Girard, enfin, permet d'interroger certaines relations entre
+violence, substitution et sacralisation ; sa théorie du mécanisme
+victimaire ne suffit pas à expliquer l'entretien quotidien d'une image
+cultuelle.
+
+Les comparaisons ne gagnent pas en profondeur lorsqu'elles absorbent les
+différences. Elles deviennent plus solides lorsqu'elles établissent
+exactement ce qui est analogue : une statue portée en procession, un
+objet chargé de substances, une image voilée ou une présence
+temporairement incarnée par un être humain ne sont pas quatre variantes
+évidentes d'un même rite.
+
+### 394.7. La présence comme relation instituée
+
+Une synthèse prudente peut distinguer quatre dimensions. **Matérielle**
+: la statue possède un corps fabriqué, des matériaux, une localisation
+et une histoire de conservation. **Rituelle** : des gestes autorisés
+modifient son statut et maintiennent sa relation à la puissance
+invoquée. **Institutionnelle** : des spécialistes, des communautés et
+des pouvoirs définissent l'accès et les obligations. **Herméneutique** :
+les textes et les participants interprètent l'objet, parfois de manière
+divergente. Ces dimensions se combinent différemment selon les
+traditions.
+
+Le mot « animation » n'est donc pas une clé universelle. Il convient à
+certains rituels explicitement destinés à établir une présence ;
+ailleurs, il risque de masquer un fonctionnement par emblème, relique,
+nom, offrande ou incarnation. L'historien doit conserver la diversité
+des verbes indigènes et des opérations attestées. L'image n'est ni une
+matière inerte dont l'efficacité serait illusoire par définition, ni une
+personne universellement reconnue comme vivante : elle est un objet de
+relations dont l'histoire peut être étudiée.
+
+**Bilan critique.** **Attesté :** les différentes traditions documentent
+des pratiques de fabrication, de service, de déplacement et de
+consécration. **Controversé :** la pertinence universelle des concepts
+d'« idole », de « représentation », d'« animation » et d'*agency*.
+**Hypothèse :** l'histoire comparée des images religieuses gagne à
+étudier des « régimes de présence » historiquement situés plutôt qu'une
+essence intemporelle de la statue sacrée.
+
+------------------------------------------------------------------------
+
+## CONCLUSION GÉNÉRALE DU TOME XXXI
+
+Les chapitres 387 à 394 montrent que les images religieuses ne sont pas
+de simples produits de l'art figuratif. Elles peuvent être des lieux de
+présence, des instruments de service sacerdotal, des marqueurs de
+continuité politique, des supports d'offrandes ou des médiateurs de
+justice. Mais la comparaison fait également apparaître des
+discontinuités fondamentales : la statue d'Athéna Polias, le corps
+cultuel de Marduk, l'image d'Amon, une *mūrti* consacrée, une statue
+bouddhique, un *nkisi*, une figure *ère ìbejì* et un *ixiptla* ne sont
+pas des objets de même nature.
+
+La recherche doit ainsi renoncer à deux récits simplificateurs. Le
+premier imagine une évolution universelle allant du « fétiche » à la «
+vraie représentation ». Le second voit partout une même technique
+d'insufflation d'une âme dans la matière. Les sources révèlent plutôt
+des manières historiquement diverses de **faire exister une relation
+avec l'invisible par des supports sensibles**. La présence est
+instituée, négociée, parfois contestée ; elle peut être déplacée,
+suspendue ou détruite dans ses conditions matérielles sans que les
+traditions en déduisent nécessairement la disparition de la puissance
+divine.
+
+**Résultat comparatif :** les gestes de nourrir, laver, vêtir, cacher et
+déplacer offrent un terrain d'analyse commun, mais ne démontrent ni
+identité doctrinale ni origine historique unique. Le prochain tome
+examinera ce qui advient lorsque la présence n'est plus attachée à un
+support stable, mais se manifeste dans un **corps humain, une parole,
+une possession ou une performance rituelle**.
+
+------------------------------------------------------------------------
+
+## BIBLIOGRAPHIE CRITIQUE ET SOURCES CONTRÔLABLES
+
+### A. Sources primaires et corpus documentaires
+
+1.  **Pausanias**, *Description de la Grèce*, I, 26, 6-7 (Athéna Polias)
+    ; VIII, 42, 3-7 (Déméter Mélaina). Texte et traduction au Center for
+    Hellenic Studies :
+    https://www-current.chs.harvard.edu/primary-source/a-pausanias-reader-in-progress-description-of-greece-scrolls-1-10/
+    ; VIII, 42 : https://www.theoi.com/Text/Pausanias8C.html .
+2.  **Plutarque**, *Vie d'Alcibiade*, 34, 1 (Plynteries). Texte :
+    https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Alcibiades%2A.html
+    .
+3.  **TCL 6, 38**, tablette rituelle d'Uruk, offrandes quotidiennes,
+    époque séleucide ; édition et métadonnées ORACC :
+    https://oracc.museum.upenn.edu/cams/gkab/P363710/ .
+4.  **Archives d'Ezida à Borsippa**, texte ORACC P202504 relatif au
+    calendrier cultuel et aux déplacements de Nabû :
+    https://oracc.museum.upenn.edu/borsippa/P202504 .
+5.  **Papyrus Berlin 3055**, rituel quotidien d'Amon ; **Berlin 3014 et
+    3053**, rituels de Mout ; **temple de Séthi Ier à Abydos**, reliefs
+    du service quotidien. Présentation scientifique de l'University
+    College London :
+    https://www.ucl.ac.uk/museums-static/digitalegypt/religion/dailycult.html
+    .
+6.  **Hérodote**, *Histoires*, I, 131-132 (description grecque des
+    usages religieux perses). Traduction ancienne consultable :
+    https://www.thelatinlibrary.com/historians/herod/herodotus3.html .
+7.  **Artaxerxès II**, inscriptions A²Sa et A²Sd, Suse (invocation
+    d'Ahura Mazdā, Anāhitā et Mithra). Édition de référence : Amélie
+    Kuhrt, *The Persian Empire: A Corpus of Sources from the Achaemenid
+    Period*, Routledge, 2007 ; contexte historiographique dans Canepa,
+    référence 15.
+8.  **Bérose**, *Babyloniaka*, fragment transmis par **Clément
+    d'Alexandrie**, *Protreptique*, V, 65, 2-3 (images d'Anāhitā
+    attribuées à Artaxerxès II). Transmission indirecte et datation à
+    contrôler dans toute exploitation.
+9.  **Relief d'investiture d'Ardashir Ier**, Naqsh-e Rostam, avec
+    inscription ; analyse épigraphique et iconographique dans Overlaet,
+    référence 16.
+10. **Codex de Florence**, livre II, récit de la fête de Tóxcatl et de
+    l'*ixiptla* de Tezcatlipoca ; contexte archéologique et référence au
+    folio 31 dans les recherches de l'INAH :
+    https://investigacion.inah.gob.mx/\_flysystem/fedora/2024-07/pd-the-offering-of-life.-human-and-animal-sacrifice-at-the-west-plaza-of-the-sacred-precinct-of-tenochtitlan.pdf
+    .
+11. **Metropolitan Museum of Art**, *Power Figure: Male (Nkisi)*, inv.
+    1990.334, notice de collection :
+    https://www.metmuseum.org/art/collection/search/316404 .
+12. **Metropolitan Museum of Art**, *Mangaaka*, inv. 2008.3, notice et
+    commentaire de Wyatt MacGaffey :
+    https://www.metmuseum.org/fr/art/collection/search/320053 .
+13. **Princeton University Art Museum**, *Ère ìbejì*, inv. 2011-42,
+    notice de collection :
+    https://artmuseum.princeton.edu/art/collections/objects/61090 .
+14. **UNESCO**, *Grottes de Yungang*, dossier du patrimoine mondial 1039
+    : https://whc.unesco.org/fr/list/1039/ .
+
+### B. Études scientifiques et ouvrages de référence
+
+1.  **Matthew P. Canepa**, « The Transformation of Sacred Space,
+    Topography, and Royal Ritual in Persia and the Ancient Iranian World
+    », dans *Heaven on Earth: Temples, Ritual, and Cosmic Symbolism in
+    the Ancient World*, Oriental Institute Seminars 9, 2013 ; document :
+    https://cdn.vanderbilt.edu/vu-my/wp-content/uploads/sites/1671/2014/12/14130034/ois91.pdf
+    .
+2.  **Bruno Overlaet**, « And Man Created God? Kings, Priests and Gods
+    on Sasanian Investiture Reliefs », *Iranica Antiqua*, 48, 2013, p.
+    313-354, DOI : 10.2143/IA.48.0.2184703 ;
+    https://biblio.ugent.be/publication/2097402 .
+3.  **Carol Bier**, « Anāhīd iv. Anāhitā in the Arts », *Encyclopaedia
+    Iranica*, 1989, mise à jour 2018 :
+    https://www.iranicaonline.org/articles/anahid/anahid-iv-anahita-in-the-arts/
+    .
+4.  **Lorenzo Verderame**, « La vita quotidiana (della statua) del dio
+    nell'antica Mesopotamia », *Henoch*, 45/2, 2023 ; dépôt
+    universitaire : https://iris.uniroma1.it/handle/11573/1715689 .
+5.  **Marinella Ceravolo**, « L'attivazione della statua di culto in
+    Mesopotamia. Il rituale mīs pî tra dualità e riti di passaggio »,
+    *Studi e materiali di storia delle religioni*, 2019, p. 888-907 :
+    https://iris.uniroma1.it/handle/11573/1337579 .
+6.  **Marinella Ceravolo**, « As you come out from the forest: The plant
+    body of the gods in the mīs pî ritual », 2026, p. 211-225 ; dépôt
+    universitaire : https://iris.uniroma1.it/handle/11573/1768582 .
+7.  **Noemi Borrelli et Eduardo A. Escobar**, « Crafting Purity in
+    Assyro-Babylonian Procedures », *Arys*, 20, 2022, DOI :
+    10.20318/arys.2022.6857 ;
+    https://doaj.org/article/f098654662634384843983654c772206 .
+8.  **Milette Gaifman**, *Aniconism in Greek Antiquity*, Oxford
+    University Press, 2012 (référence sur la coexistence des formes
+    figurées et non figurées).
+9.  **Richard H. Davis**, *Lives of Indian Images*, Princeton University
+    Press, 1997 ; https://www.jstor.org/stable/j.ctv12sdx8d .
+10. **Diana L. Eck**, *Darśan: Seeing the Divine Image in India*, 3e
+    éd., Columbia University Press, 1998 :
+    https://cup.columbia.edu/book/darsan/9780231112659/ .
+11. **István Keul** (dir.), *Consecration Rituals in South Asia*, Brill,
+    2017 ; notice et sommaire :
+    https://search.worldcat.org/title/Consecration-rituals-in-South-Asia/oclc/1020858891
+    .
+12. **Marko Geslani**, *Rites of the God-King: Śānti and Ritual Change
+    in Early Hinduism*, Oxford University Press, 2018, chap. 5, « Signs
+    in the Gods, Gods in the Pots » :
+    https://academic.oup.com/book/5903/chapter-abstract/149212873 .
+13. **John Kieschnick**, *The Impact of Buddhism on Chinese Material
+    Culture*, Princeton University Press, 2003 :
+    https://buddhiststudies.stanford.edu/publications/impact-buddhism-chinese-material-culture
+    .
+14. **Peng Meiling (彭美玲)**, étude sur tablettes ancestrales et images
+    d'ancêtres, *臺大中文學報*, 51, 2015, p. 41-98, DOI :
+    10.6281/NTUCL.2015.12.51.02 ;
+    https://scholars.lib.ntu.edu.tw/entities/publication/ba9aea62-05a1-4e90-bba6-d96446aef386
+    .
+15. **Wyatt MacGaffey**, travaux sur les *minkisi* et les pratiques
+    kongo ; voir le commentaire du *Mangaaka* du Metropolitan Museum
+    (référence 12) et le *Metropolitan Museum Journal*, 43, 2008 :
+    https://resources.metmuseum.org/resources/metpublications/pdf/The*Recently*Acquired*Kongo*Magaaka*Power*Figure*The*Metropolitan*Museum*Journal*v*43_2008.pdf
+    .
+16. **Carolyn Dean**, *A Culture of Stone: Inka Perspectives on Rock*,
+    Duke University Press, 2010 :
+    https://www.dukeupress.edu/A-Culture-of-Stone .
+17. **Alfred Gell**, *Art and Agency: An Anthropological Theory*, Oxford
+    University Press, 1998 : https://academic.oup.com/book/47329 .
+18. **Jean-Pierre Vernant**, « De la présentification de l'invisible à
+    l'imitation de l'apparence », étude reprise dans les recueils sur
+    l'image et la pensée grecques (contrôler l'édition et la pagination
+    avant citation littérale).
+19. **Émile Durkheim**, *Les Formes élémentaires de la vie religieuse*,
+    1912, notamment livre II (emblème, totémisme et représentations
+    collectives).
+20. **Mircea Eliade**, *Le Sacré et le Profane*, 1957 ; usage critique
+    des catégories générales de manifestation du sacré.
+21. **Marcel Detienne**, *Comparer l'incomparable*, Seuil, 2000 ;
+    méthode comparatiste.
+22. **Georges Dumézil**, *Mythe et épopée*, trois volumes, Gallimard,
+    1968-1973 ; comparatisme indo-européen et limites de son extension.
+23. **G. W. F. Hegel**, *Leçons sur l'esthétique*, sections consacrées
+    aux formes symbolique et classique de l'art (pagination variable
+    selon les éditions).
+24. **Friedrich Nietzsche**, *La Naissance de la tragédie*, 1872 ; *Le
+    Crépuscule des idoles*, 1889 (métaphores philosophiques, non sources
+    sur les cultes antiques).
+25. **René Girard**, *La Violence et le Sacré*, Grasset, 1972 ; théorie
+    de la substitution et de la violence, à confronter aux documents.
+26. **Hans Belting**, *Likeness and Presence: A History of the Image
+    before the Era of Art*, University of Chicago Press, 1994 (histoire
+    des images religieuses, principalement chrétiennes ; analogies à
+    manier prudemment).
+
+### Note sur la vérification
+
+Les passages de Pausanias, Plutarque, Hérodote et les identifiants
+documentaires Berlin 3055, TCL 6, 38, ORACC P202504, les objets des
+musées et les publications académiques ci-dessus ont été contrôlés par
+consultation de ressources institutionnelles ou de textes accessibles.
+Les prescriptions indiennes, les rites chinois de *kāiguāng* et les
+récits coloniaux sont décrits sans inventer de versets ni de citations
+littérales lorsque la vérification de la source primaire complète n'a
+pas été possible. Une vérification philologique supplémentaire est
+nécessaire avant publication scientifique définitive.
+
+------------------------------------------------------------------------
+
+## REGISTRE DE CONTINUITÉ
+
+-   **Édition :** MYTHOS-OS-CONV (série conversationnelle) ; ne pas
+    fusionner automatiquement avec MYTHOS-OS-LIB.
+-   **Tome précédent :** XXX, chapitres 379-386, pierres sacrées et
+    aniconisme.
+-   **Présent tome :** XXXI, chapitres **387-394**, images divines et
+    rituels d'animation.
+-   **Prochain chapitre :** **395**.
+-   **Prochain tome XXXII, chapitres 395-402 :** « Corps humains,
+    possession, masques et incarnations rituelles ». Programme
+    prévisionnel : 395 --- Grèce, Dionysos, masques et *enthousiasmos* ;
+    396 --- Mésopotamie, prophétie et corps médiateurs ; 397 --- Égypte,
+    ritualité incarnée et fêtes ; 398 --- Iran et Inde, extase,
+    possession et spécialistes ; 399 --- Chine, médiums et rituels
+    d'incorporation ; 400 --- Afrique, possession et masques ; 401 ---
+    Amériques, *ixiptla*, danse et transformation corporelle ; 402 ---
+    philosophie du corps médiateur. **Éviter de répéter les analyses de
+    l'ixiptla déjà présentées au chapitre 393 : traiter les gestes, les
+    performances et les sources complémentaires.**
+-   **État :** manuscrit rédigé pour conservation et préparation
+    éditoriale ; **aucune publication WordPress confirmée** ; aucun
+    usage de Floot.

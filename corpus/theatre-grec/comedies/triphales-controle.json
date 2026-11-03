@@ -1,0 +1,19 @@
+{
+  "source_repository": "Bobcribb/Bobcribb.github.io",
+  "source_ref": "dedd1e488dd4300479e2c430f7ce435f7fe4b136",
+  "source_path": "chapitres/comedies/volume-033-aristophane-triphales.md",
+  "source_blob": "d59cac3b1838b36b3879e9bcfd4f12c9e4bc7ad4",
+  "source_bytes": 12857,
+  "source_sections": 22,
+  "study_sections": 19,
+  "modern_scenes": [
+    18,
+    19,
+    20
+  ],
+  "preamble_exact": true,
+  "section_comparison": "22/22 exact in human-readable text",
+  "source_copy_unchanged": true,
+  "scientific_collation": "not performed; caveats retained",
+  "public_status": "deployment verification pending"
+}

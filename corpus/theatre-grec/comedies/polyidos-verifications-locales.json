@@ -1,0 +1,16 @@
+{
+  "source_git_blob": "46c2cd20c5d797aee436bd83b429a8ffeef0e76b",
+  "independent_markdown_comparison": {"sections_equal": 19, "sections_total": 19, "intro_equal": true},
+  "idempotent_build": true,
+  "browser_tests": [
+    {"page": "polyidos-etude.html", "width": 360, "horizontal_overflow": false, "first_toc_link_works": true, "source_sections": 16},
+    {"page": "polyidos-etude.html", "width": 390, "horizontal_overflow": false, "first_toc_link_works": true, "source_sections": 16},
+    {"page": "polyidos-etude.html", "width": 768, "horizontal_overflow": false, "first_toc_link_works": true, "source_sections": 16},
+    {"page": "polyidos-etude.html", "width": 1440, "horizontal_overflow": false, "first_toc_link_works": true, "source_sections": 16},
+    {"page": "polyidos-scenes-modernes.html", "width": 360, "horizontal_overflow": false, "first_toc_link_works": true, "source_sections": 3},
+    {"page": "polyidos-scenes-modernes.html", "width": 390, "horizontal_overflow": false, "first_toc_link_works": true, "source_sections": 3},
+    {"page": "polyidos-scenes-modernes.html", "width": 768, "horizontal_overflow": false, "first_toc_link_works": true, "source_sections": 3},
+    {"page": "polyidos-scenes-modernes.html", "width": 1440, "horizontal_overflow": false, "first_toc_link_works": true, "source_sections": 3}
+  ],
+  "scope": "Full generated readers with exact repository CSS/SVG embedded. Local navigation targets use fixtures; production navigation is checked separately in GitHub Actions. This is not a public-domain availability test."
+}

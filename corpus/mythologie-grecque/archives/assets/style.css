@@ -1,0 +1,332 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600&family=Inter:wght@400;500;600&display=swap');
+:root{--bg:#0d0f14;--panel:#191a20;--line:#3b3529;--fg:#f0eadf;--muted:#b9ad98;--gold:#d8b66f;--max:1260px}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.78 Inter,system-ui,sans-serif}a{color:var(--gold);text-decoration:none}a:hover{color:#f6d99c;text-decoration:underline}
+.masthead{background:#090b10;border-bottom:1px solid var(--line);position:sticky;top:0;z-index:10}.masthead-inner{max-width:var(--max);min-height:77px;padding:10px 24px;margin:auto;display:flex;justify-content:space-between;align-items:center;gap:25px}.brand{font:600 34px/1 'Cormorant Garamond',serif;letter-spacing:.18em;color:#f5efe4}.brand span{color:var(--gold);font-size:16px}.masthead nav{display:flex;gap:22px;flex-wrap:wrap}.masthead nav a{font-size:12px;letter-spacing:.13em;text-transform:uppercase}
+.layout{max-width:var(--max);margin:0 auto;padding:56px 24px 90px;display:grid;grid-template-columns:minmax(0,1fr) 245px;gap:64px;align-items:start}.content{min-width:0}.content h1,.content h2,.content h3,.hero h1{font-family:'Cormorant Garamond',Georgia,serif;font-weight:500;line-height:1.13}.content h1{font-size:clamp(42px,6vw,76px);margin:7px 0 35px}.content h2{font-size:clamp(28px,3.8vw,43px);color:#ebd4a9;margin:52px 0 20px}.content h3{font-size:27px;color:#e5d6bb;margin:30px 0 15px}.content strong{color:#fff1cf}.content p{margin:17px 0}.content blockquote{border-left:3px solid var(--gold);margin:25px 0;padding:9px 25px;background:#1a1c20;color:#e3d4b9}.content img{max-width:100%;height:auto;border-radius:4px;border:1px solid var(--line)}.content figure{max-width:100%;margin:28px 0}.content figcaption{font-size:13px;color:var(--muted)}.content pre{max-width:100%;overflow:auto;background:var(--panel);padding:19px}.content table{display:block;overflow-x:auto;max-width:100%;border-collapse:collapse}.content th,.content td{border:1px solid var(--line);padding:10px}.eyebrow{font-size:11px;font-weight:600;letter-spacing:.23em;text-transform:uppercase;color:var(--gold);margin:12px 0 28px}
+.sidebar{position:sticky;top:115px;border-left:1px solid var(--line);padding-left:23px;font-size:13px}.sidebar b{display:block;text-transform:uppercase;letter-spacing:.12em;color:var(--gold);margin-bottom:18px}.sidebar a{display:block;margin-bottom:14px}.footer{border-top:1px solid var(--line);max-width:var(--max);margin:auto;padding:30px 24px 45px;color:var(--muted);font-size:12px;display:flex;gap:25px;justify-content:space-between}.hero{border-bottom:1px solid var(--line);padding:43px 0 35px;margin-bottom:40px}.hero small{font-size:11px;letter-spacing:.2em;color:var(--gold)}.hero h1{font-size:clamp(75px,12vw,150px);margin:10px 0;letter-spacing:.035em}.hero p{font:25px/1.45 'Cormorant Garamond',serif;max-width:650px;color:#dcd2c3}.gold-line{width:165px;height:1px;background:var(--gold);margin:25px 0}.cards{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}.card{border:1px solid var(--line);background:var(--panel);padding:24px;min-height:120px}.card small{color:var(--gold);letter-spacing:.15em;font-size:10px}.card a{display:block;color:var(--fg);font:27px/1.15 'Cormorant Garamond',serif;margin:11px 0}.card a:hover{color:var(--gold)}
+.search{display:block;width:100%;padding:15px 18px;background:#191a1f;color:var(--fg);font:16px/1.3 Inter,sans-serif;border:1px solid #71613e;border-radius:3px}.search:focus{outline:2px solid var(--gold)}.results{margin-top:17px}.results a{display:block;border-bottom:1px solid var(--line);padding:12px 0}.results p{color:var(--muted);font-size:13px}.listing{columns:2;column-gap:35px;padding-left:24px}.listing li{break-inside:avoid;margin:10px 0}
+@media(max-width:850px){.layout{display:block;padding:30px 20px 60px}.sidebar{position:static;border:0;border-top:1px solid var(--line);padding:25px 0;margin-top:50px}.masthead-inner{min-height:65px;padding:12px 18px}.brand{font-size:28px}.masthead nav{gap:12px}.masthead nav a{font-size:11px}.cards{grid-template-columns:1fr}.listing{columns:1}.footer{display:block}.hero{padding:15px 0 30px}}
+
+/* MYTHOS — Système éditorial encyclopédique (mythes du monde, Grèce, théâtre, philosophie, continents) */
+.masthead-inner{max-width:1400px;gap:22px}
+.masthead .site-nav{display:flex;align-items:center;gap:7px;flex-wrap:wrap;justify-content:flex-end}
+.masthead .site-nav a{color:#e5d9c2;font:500 11px/1.4 Inter,system-ui,sans-serif;letter-spacing:.09em;text-transform:uppercase;border:1px solid transparent;border-radius:3px;padding:11px 9px;white-space:nowrap;transition:color .15s ease,background .15s ease}
+.masthead .site-nav a:hover,.masthead .site-nav a:focus-visible{color:var(--gold);background:#211e18;text-decoration:none;outline-color:var(--gold)}
+.masthead .site-nav .nav-greece{color:#f5d490;border-color:#665030;background:#241e16}
+.masthead .site-nav .nav-greece:hover{background:#332716;color:#ffe3a4}
+.layout:not(:has(.sidebar)){display:block;max-width:1130px}
+.portal-layout{display:block;max-width:1180px;padding-top:36px}
+.portal-layout .content{max-width:none}
+.portal-layout .eyebrow{margin-bottom:22px}
+.portal-layout .content h1{font-size:clamp(46px,7vw,86px);margin:4px 0 23px}
+.portal-layout .portal-section h2,.portal-section h2{font-size:clamp(30px,3.5vw,46px);margin:0 0 13px}
+.portal-lead{font:clamp(20px,2.25vw,28px)/1.5 'Cormorant Garamond',Georgia,serif;color:#dbccb3;max-width:920px;margin-bottom:50px!important}
+.hero-editorial{padding:46px 0 52px;border-top:1px solid var(--line);border-bottom:1px solid var(--line);margin:6px 0 55px}
+.hero-editorial .eyebrow{letter-spacing:.15em;font-size:11px;margin:0}
+.hero-editorial h1{font-size:clamp(96px,17vw,190px)!important;line-height:.9;letter-spacing:.02em;margin:21px 0 22px!important}
+.hero-dot{color:var(--gold)}
+.hero-editorial .gold-line{width:100px;margin:28px 0}
+.hero-deck{font:clamp(30px,4vw,54px)/1.1 'Cormorant Garamond',Georgia,serif;color:#f2e7d2;max-width:950px;margin:15px 0!important}
+.hero-secondary{font-size:16px;color:var(--muted);max-width:760px;line-height:1.85}
+.hero-links{display:flex;align-items:center;flex-wrap:wrap;gap:15px;margin-top:30px}
+.hero-links a{padding:12px 18px;border:1px solid var(--gold);font-size:12px;letter-spacing:.055em;border-radius:3px}
+.hero-links a.primary-link{background:var(--gold);color:#141211;font-weight:600}
+.hero-links a.secondary-link{color:var(--gold)}
+.hero-links a:hover{text-decoration:none;opacity:.88}
+.portal-section{margin:50px 0 70px}
+.portal-section .section-intro{color:var(--muted);font-size:14px;max-width:870px;margin:5px 0 24px}
+.portal-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;margin:23px 0 32px}
+.portal-grid-compact{grid-template-columns:repeat(3,minmax(0,1fr))}
+.portal-card{display:flex;position:relative;flex-direction:column;gap:11px;border:1px solid #574833;background:linear-gradient(155deg,#1c1d22,#14161a);padding:23px 24px 24px;min-height:170px;color:var(--fg);border-radius:2px}
+.portal-card:hover{border-color:#d0ae68;background:linear-gradient(155deg,#292725,#1b1b1e);text-decoration:none}
+.portal-card-kicker{display:block;color:#d8b66f;letter-spacing:.17em;font:600 10px/1.3 Inter,sans-serif}
+.portal-card strong{font:500 clamp(22px,2.3vw,31px)/1.14 'Cormorant Garamond',Georgia,serif;color:#f7eddb}
+.portal-card span:nth-child(3){font:13px/1.7 Inter,system-ui,sans-serif;color:#c2b6a3;max-width:440px}
+.portal-card .card-indicator{font:20px/1 Georgia,serif;color:var(--gold);position:absolute;right:17px;top:15px}
+.portal-list{list-style:none;padding:0;margin:20px 0 30px;columns:2;column-gap:30px}
+.portal-list li{break-inside:avoid;border-bottom:1px solid #383228;margin:0;padding:12px 0;line-height:1.5;font-size:14px}
+.portal-list a{color:var(--fg)}
+.portal-list a:hover{color:var(--gold)}
+.tag-links{display:flex;flex-wrap:wrap;gap:12px;margin:25px 0 30px}
+.tag-links a{display:inline-block;padding:9px 16px;border:1px solid #695334;background:#1b1b1f;color:#f1dfbc;border-radius:2px;font-size:14px}
+.tag-links a:hover{background:#2b2418;text-decoration:none}
+.library-details{border:1px solid var(--line);background:#16171b;margin:18px 0;border-radius:2px;padding:0 19px}
+.library-details summary{cursor:pointer;color:#f0d6a0;list-style:none;padding:19px 0;font:600 14px/1.5 Inter,system-ui,sans-serif}
+.library-details summary::-webkit-details-marker{display:none}
+.library-details summary span{float:right;color:var(--gold);font-size:18px}
+.library-details[open] summary{border-bottom:1px solid var(--line)}
+.library-details .portal-list{margin:15px 0 25px}
+.library-details .listing{padding:15px 0 30px}
+.small-note{font-size:13px;color:var(--muted)}
+.search-zone{padding:28px 0 0;border-top:1px solid var(--line)}
+.portal-layout .content .portal-grid a strong{color:#f7eddb}
+@media(max-width:1100px){
+ .masthead-inner{padding:12px 19px}
+ .masthead .site-nav{gap:1px}
+ .masthead .site-nav a{font-size:10px;letter-spacing:.04em;padding:10px 7px}
+ .portal-grid-compact{grid-template-columns:repeat(2,minmax(0,1fr))}
+}
+@media(max-width:740px){
+ .masthead-inner{display:block;padding:14px 14px 0;min-height:0}
+ .masthead .brand{display:block;font-size:26px;line-height:1.2;padding:0 6px 10px}
+ .masthead .site-nav{display:flex;flex-wrap:nowrap;justify-content:flex-start;overflow-x:auto;overflow-y:hidden;white-space:nowrap;gap:6px;padding:0 0 8px;-webkit-overflow-scrolling:touch;scrollbar-width:thin}
+ .masthead .site-nav a{flex:0 0 auto;font-size:11px;padding:8px 11px}
+ .portal-layout{padding:25px 18px 50px}
+ .portal-grid,.portal-grid-compact{grid-template-columns:1fr;gap:12px}
+ .portal-card{min-height:134px;padding:18px 20px}
+ .portal-list{columns:1}
+ .hero-editorial{padding:28px 0 38px;margin:6px 0 35px}
+ .hero-editorial h1{font-size:clamp(74px,18vw,120px)!important}
+ .hero-secondary{font-size:14px}
+ .portal-section{margin:36px 0 50px}
+ .portal-lead{font-size:23px}
+ .library-details{padding:0 13px}
+}
+@media(prefers-reduced-motion:reduce){.masthead .site-nav a{transition:none}}
+
+
+/* MYTHOS — Galerie muséale des sculptures (GitHub, sans WordPress) */
+.museum-gallery-section { border-top: 1px solid var(--line); padding-top: 34px; }
+.museum-gallery-heading .eyebrow { color: var(--gold); font-size: 11px; letter-spacing: .18em; margin-bottom: 8px; }
+.museum-gallery { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:18px; margin-top:27px; }
+.museum-gallery figure { margin:0; overflow:hidden; border:1px solid #4d412f; background:linear-gradient(145deg,#1d2027,#111318); border-radius:9px; }
+.museum-gallery figure img { display:block; width:100%; height:clamp(220px,27vw,350px); object-fit:cover; border:0; border-radius:0; }
+.museum-gallery figcaption { padding:14px 16px 19px; line-height:1.4; display:grid; gap:4px; }
+.museum-gallery figcaption strong { color:#e9d19e; font:600 24px/1.12 'Cormorant Garamond',Georgia,serif; }
+.museum-gallery figcaption span { color:#b9ad98; font:13px/1.4 Inter,system-ui,sans-serif; }
+@media(max-width:680px) { .museum-gallery { grid-template-columns:1fr; } .museum-gallery figure img { height:260px; object-position:center 32%; } }
+
+
+/* MYTHOS — Origines du sacré et classement du théâtre, novembre 2026 */
+.museum-feature{margin-block:36px 52px}
+.museum-objects{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:15px;margin-top:22px}
+.museum-object{margin:0!important;background:linear-gradient(145deg,#1b1d24,#101116);border:1px solid #51442e;border-radius:9px;overflow:hidden}
+.museum-object img{display:block;width:100%;height:205px;object-fit:cover;border:0!important;border-radius:0!important}
+.museum-object figcaption{padding:12px 14px 16px;color:#d4c5aa;font:13px/1.5 Inter,system-ui,sans-serif}
+.theatre-catalog{scroll-margin-top:105px}
+.theatre-author{background:#171a21;border:1px solid #42392c;border-left:3px solid #d8b66f;border-radius:7px;padding:19px clamp(15px,2.4vw,28px);margin:20px 0}
+.theatre-author h3{font:600 clamp(24px,3vw,34px)/1.2 'Cormorant Garamond',Georgia,serif;color:#e8d19d;margin:0 0 14px}
+.work-list{list-style:none;counter-reset:mythos-work;padding:0;margin:0;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:0 24px}
+.work-list li{counter-increment:mythos-work;display:flex;flex-direction:column;position:relative;padding:12px 6px 12px 43px;border-bottom:1px solid #39352e;min-width:0;break-inside:avoid}
+.work-list li:before{content:counter(mythos-work,decimal-leading-zero);position:absolute;top:12px;left:0;color:#d8b66f;font:600 14px/1.5 Inter,sans-serif}
+.work-list a{color:#f0e5cf;line-height:1.5;overflow-wrap:anywhere}
+.work-list a:hover{color:#f5d48c}
+.work-list small{color:#a99c86;font-size:11px;letter-spacing:.05em;margin-top:3px}
+.chapter-list{padding:0;list-style:none;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:11px 18px}
+.chapter-list li{position:relative;background:#171a21;border:1px solid #3d362b;padding:13px 15px;border-radius:6px}
+.chapter-list li:before{content:"Chapitre " attr(value);display:block;color:#d8b66f;font-size:11px;letter-spacing:.1em;text-transform:uppercase;margin-bottom:5px}
+.chapter-list a{display:block;font-weight:600;line-height:1.5}
+.chapter-topic{display:block;color:#a99c86;font-size:12px;margin-top:6px}
+.museum-gallery-section,.museum-feature{scroll-margin-top:90px}
+@media(max-width:900px){.museum-objects{grid-template-columns:repeat(2,minmax(0,1fr))}.work-list{grid-template-columns:1fr}}
+@media(max-width:600px){.museum-objects{gap:12px}.museum-object img{height:160px}.museum-object figcaption{padding:10px;font-size:12px}.chapter-list{grid-template-columns:1fr}.theatre-author{padding:16px}.theatre-catalog{scroll-margin-top:145px}}
+
+
+/* MYTHOS — Lecture plein écran sans barre latérale et renvois croisés théâtre */
+.sidebar{display:none!important}
+.layout{display:block;max-width:1130px}
+.layout .content{width:100%;max-width:100%;min-width:0}
+.theatre-catalog .linked-works{grid-template-columns:repeat(2,minmax(0,1fr));gap:0 26px}
+.theatre-catalog .linked-works li{padding-bottom:17px}
+.theatre-catalog .linked-works li strong{font:600 22px/1.25 'Cormorant Garamond',Georgia,serif;color:#f1e6d0;overflow-wrap:anywhere}
+.theatre-catalog .work-links{display:flex;align-items:flex-start;gap:8px;flex-wrap:wrap;margin-top:12px}
+.theatre-catalog .work-links a{display:inline-block;padding:7px 10px;border:1px solid #75613d;background:#25221d;border-radius:4px;font:12px/1.4 Inter,system-ui,sans-serif;color:#e7c67e;text-decoration:none}
+.theatre-catalog .work-links a:last-child{border-color:#514c47;background:#1f2128;color:#e3dcd2}
+.theatre-catalog .work-links a:hover{border-color:#f2d193;color:#fff0c3}
+.museum-gallery figure img{object-position:50% 33%}
+@media(max-width:900px){.theatre-catalog .linked-works{grid-template-columns:1fr}}
+
+/* MYTHOS — numérotation ODS autonome et commentaires vers par vers */
+.origins-index{counter-reset:none}
+.origins-index li:before{content:none!important}
+.origins-index .origin-id{display:block;color:#d8b66f;font:700 12px/1.4 Inter,system-ui,sans-serif;letter-spacing:.12em;margin-bottom:7px}
+.origins-index a{font-weight:600}
+#commentaires-vers{scroll-margin-top:100px}
+#commentaires-vers .work-list li{padding-bottom:16px}
+#commentaires-vers .work-list small{line-height:1.5}
+@media(max-width:600px){#commentaires-vers{scroll-margin-top:140px}}
+
+/* Origines du sacré — maquette gauche, noir et or */
+.origins-landing{background:#0c1012;color:#eae1d2}
+.origins-landing .layout{max-width:1400px}
+.origins-landing .content{padding-top:0}
+.origins-hero{margin:0 -20px 28px;min-height:270px;display:flex;align-items:center;justify-content:center;text-align:center;border-bottom:1px solid #a48248;background:radial-gradient(ellipse at 80% 30%,#51412d 0%,transparent 48%),linear-gradient(120deg,#101517,#22252a 52%,#101213);padding:42px 24px}
+.origins-hero-inner{max-width:850px}
+.origins-hero h1{font:normal clamp(38px,6vw,74px)/1.05 'Cormorant Garamond',Georgia,serif;letter-spacing:.065em;color:#f2e6cf;margin:12px 0}
+.origins-hero-subtitle{font:italic clamp(20px,3vw,30px)/1.2 Georgia,serif;color:#e7c991;margin:8px 0 20px}
+.origins-hero p:last-child{max-width:690px;margin:0 auto;color:#e4dacc}
+.origins-volumes{padding:12px 8px 34px;border-bottom:1px solid #8c744b}
+.origins-volumes h2,.origins-archives h2{font:normal clamp(30px,4vw,46px)/1.15 'Cormorant Garamond',Georgia,serif;color:#f2e6d2}
+.origins-volume-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;margin-top:22px}
+.origins-volume{min-height:116px;display:flex;flex-direction:column;gap:8px;padding:16px;border:1px solid #625744;background:#15191b;color:#eee4d4;text-decoration:none;transition:border-color .2s,background .2s}
+.origins-volume:hover{border-color:#dfb971;background:#232322}
+.origins-volume-icon{color:#c9a76d;font-size:20px}
+.origins-volume strong{font:normal 25px/1.1 'Cormorant Garamond',Georgia,serif;color:#f3e4c8}
+.origins-volume>span:last-child{font-size:12px;color:#d6b780}
+.origins-archives{padding:24px 8px}
+.origins-archives>.portal-section{border-top:1px solid #493f31;padding-top:24px}
+@media(max-width:900px){.origins-volume-grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
+@media(max-width:600px){.origins-volume-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.origins-volume{min-height:98px;padding:12px}.origins-hero{margin:0 -12px 18px;padding:35px 15px}}
+
+/* Titres éditoriaux et iconographie des 27 tomes */
+.origins-landing .origins-hero{background:linear-gradient(90deg,rgba(8,10,12,.75),rgba(8,10,12,.25)),url('/media/2026/10/mythos-e28094-banniere-noire-et-or-statue-grecque-et-acropole.png') center 42%/cover no-repeat;min-height:330px}
+.origins-landing .origins-volume-grid{grid-template-columns:repeat(3,minmax(0,1fr));gap:14px}
+.origins-landing .origins-volume{display:flex;flex-direction:row;align-items:stretch;gap:14px;min-height:144px;padding:8px}
+.origins-volume-image{width:38%;max-width:145px;min-height:124px;object-fit:cover;display:block;flex-shrink:0}
+.origins-volume-copy{display:flex;flex-direction:column;justify-content:center;gap:9px;padding:6px 6px 6px 0;min-width:0}
+.origins-volume-copy strong{font:normal 23px/1 'Cormorant Garamond',Georgia,serif;color:#e7c486}
+.origins-volume-title{font:normal 18px/1.25 'Cormorant Garamond',Georgia,serif;color:#f4ebdc}
+.origins-volume-read{font:12px/1.3 Inter,system-ui,sans-serif;color:#d6b780;margin-top:auto}
+@media(max-width:950px){.origins-landing .origins-volume-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:540px){.origins-landing .origins-volume-grid{grid-template-columns:1fr}.origins-landing .origins-volume{min-height:132px}.origins-volume-image{min-height:112px;width:34%}.origins-landing .origins-hero{min-height:240px}}
+
+/* Navigation MYTHOS : chapitres centrés, aucun débordement horizontal */
+.masthead-inner{max-width:100%;min-width:0;flex-wrap:wrap;justify-content:center;column-gap:24px;row-gap:10px}
+.masthead .brand{flex:0 0 auto}
+.masthead .site-nav{min-width:0;max-width:100%;flex:1 1 700px;display:flex;justify-content:center;align-items:center;flex-wrap:wrap;gap:4px 7px;overflow:visible;white-space:normal;padding:4px 0}
+.masthead .site-nav a{max-width:100%;white-space:normal;overflow-wrap:break-word;text-align:center;padding:8px 9px}
+@media(max-width:740px){
+ .masthead-inner{display:flex;flex-direction:column;align-items:center;padding:12px 10px}
+ .masthead .brand{padding:0;text-align:center}
+ .masthead .site-nav{flex:0 1 auto;width:100%;justify-content:center;flex-wrap:wrap;overflow:visible;white-space:normal;gap:4px}
+ .masthead .site-nav a{flex:0 1 auto;font-size:10px;line-height:1.3;padding:7px 8px;white-space:normal}
+}
+
+/* Origines du sacré — adaptation de la maquette de référence fournie */
+.origins-landing{background:#0a0e10;color:#f2e8d9}
+.origins-landing .layout{max-width:none;padding:0 0 70px}
+.origins-landing .layout .content{max-width:none}
+.origins-landing .origins-hero{margin:0;min-height:290px;border-bottom:1px solid #96784d;background:linear-gradient(90deg,rgba(7,10,12,.2),rgba(7,10,12,.62) 34%,rgba(7,10,12,.25)),url('/media/2026/10/mythos-e28094-banniere-noire-et-or-statue-grecque-et-acropole.png') center 44%/cover no-repeat;display:flex;align-items:center;justify-content:center;padding:32px 22px}
+.origins-landing .origins-hero-inner{max-width:900px}
+.origins-landing .origins-hero h1{font:400 clamp(38px,5.5vw,76px)/1.08 'Cormorant Garamond',Georgia,serif;letter-spacing:.06em;margin:0;color:#f6ead9}
+.origins-hero-rule{display:block;color:#d6b67a;font:24px/1 Georgia,serif;max-width:530px;margin:7px auto;border-top:1px solid #d6b67a;transform:translateY(9px)}
+.origins-landing .origins-hero-subtitle{font:400 clamp(19px,2.3vw,29px)/1.25 Georgia,serif;letter-spacing:.05em;margin:20px 0}
+.origins-landing .origins-hero p:last-child{font:16px/1.55 Georgia,serif;max-width:670px}
+.origins-landing .origins-volumes{max-width:1400px;margin:auto;padding:28px 28px 34px;border:0}
+.origins-landing .origins-volumes h2,.origins-dossier-preview h2{font:400 clamp(31px,3.5vw,49px)/1.12 'Cormorant Garamond',Georgia,serif;margin:0 0 7px;color:#f3e6d4}
+.origins-landing .origins-volumes>p{font:16px/1.5 Georgia,serif;max-width:730px;margin:0 0 16px}
+.origins-landing .origins-volume-grid{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:10px;margin-top:12px}
+.origins-landing .origins-volume{display:flex;flex-direction:row;align-items:stretch;gap:10px;min-height:114px;padding:7px;border:1px solid #625c54;background:#0e1316;border-radius:0;transition:border-color .2s}
+.origins-landing .origins-volume-image{width:39%;max-width:none;min-height:98px;aspect-ratio:4/5;object-fit:cover;flex-shrink:0;border:0;border-radius:0}
+.origins-landing .origins-volume-copy{display:flex;flex-direction:column;gap:5px;padding:5px 2px 2px 0;justify-content:flex-start}
+.origins-landing .origins-volume-copy strong{font:19px/1.1 Georgia,serif;color:#f1e8dc}
+.origins-landing .origins-volume-title{font:13px/1.3 Georgia,serif;color:#eee3d4}
+.origins-landing .origins-volume-read{font:21px/1 Georgia,serif;color:#d7b780;margin-top:auto}
+.origins-dossier-preview{border-top:1px solid #7b6242;border-bottom:1px solid #5b4a34;padding:30px max(28px,calc((100vw - 1344px)/2));display:grid;grid-template-columns:1fr 1.2fr;gap:28px;align-items:center}
+.origins-dossier-summary>p{font:15px/1.5 Georgia,serif;margin:9px 0}
+.origins-dossier-button{display:inline-block;border:1px solid #cba66e;padding:9px 18px;color:#f4dfb6;font:14px/1.3 Georgia,serif;margin-top:12px}
+.origins-dossier-gallery{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:12px}
+.origins-dossier-gallery figure{margin:0;min-width:0}
+.origins-dossier-gallery img{display:block;width:100%;height:108px;object-fit:cover;border:1px solid #7d6648;border-radius:0}
+.origins-dossier-gallery figcaption{font:12px/1.3 Georgia,serif;color:#f0e4d5;text-align:center;margin-top:6px}
+.origins-landing .origins-archives{max-width:1250px;margin:auto;padding:35px 24px}
+@media(max-width:1350px){.origins-landing .origins-volume-grid{grid-template-columns:repeat(4,minmax(0,1fr))}}
+@media(max-width:900px){.origins-landing .origins-volume-grid{grid-template-columns:repeat(3,minmax(0,1fr))}.origins-dossier-preview{grid-template-columns:1fr}.origins-dossier-gallery img{height:120px}}
+@media(max-width:620px){.origins-landing .origins-hero{min-height:250px;padding:32px 16px}.origins-landing .origins-volumes{padding:24px 14px}.origins-landing .origins-volume-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}.origins-landing .origins-volume{min-height:110px;gap:7px;padding:5px}.origins-landing .origins-volume-image{width:36%;min-height:100px}.origins-landing .origins-volume-copy strong{font-size:16px}.origins-landing .origins-volume-title{font-size:12px}.origins-dossier-preview{padding:24px 14px}.origins-dossier-gallery{grid-template-columns:repeat(3,minmax(0,1fr))}.origins-dossier-gallery img{height:105px}}
+
+/* Référence Zeus : composition statue à gauche, titre central, temples à droite */
+.origins-landing .origins-hero{position:relative;isolation:isolate;min-height:330px;background-position:center 42%;background-size:cover;overflow:hidden}
+.origins-landing .origins-hero::before{content:"";position:absolute;inset:0;z-index:-1;background:linear-gradient(90deg,rgba(4,7,10,.04) 0%,rgba(4,7,10,.42) 29%,rgba(4,7,10,.70) 50%,rgba(4,7,10,.23) 75%,rgba(4,7,10,.03) 100%)}
+.origins-landing .origins-hero-inner{position:relative;z-index:1;max-width:780px;margin:auto;text-shadow:0 2px 12px #050607}
+.origins-landing .origins-hero h1{font-size:clamp(38px,5.5vw,76px);white-space:normal}
+@media(max-width:620px){.origins-landing .origins-hero{min-height:275px;background-position:38% center}.origins-landing .origins-hero::before{background:rgba(4,7,10,.55)}}
+
+/* Théâtre : catalogue méthodique des 51 analyses de pièces transmises */
+.preserved-analysis-index{margin:30px 0 48px;padding:25px;border:1px solid #78623f;background:#12171a}
+.preserved-analysis-index h2{margin:0 0 10px;color:#f0d6a8}
+.preserved-analysis-index>p{max-width:850px}
+.analysis-index-nav{display:flex;justify-content:center;flex-wrap:wrap;gap:9px;margin:20px 0 30px}
+.analysis-index-nav a{border:1px solid #78623f;padding:8px 12px;color:#ead4ac;font-size:13px;text-align:center}
+.analysis-author-group{padding:18px 0 25px;border-top:1px solid #494238;scroll-margin-top:125px}
+.analysis-author-group h3{font-size:29px;margin:6px 0 17px;color:#f0dfbd}
+.analysis-work-grid{list-style:decimal;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px 20px;padding-left:24px}
+.analysis-work-grid li{padding:8px 5px 8px 2px;break-inside:avoid}
+.analysis-work-grid a{font:17px/1.35 'Cormorant Garamond',Georgia,serif;color:#f3e5ce}
+#archives-analyses-conservees{scroll-margin-top:120px}
+@media(max-width:900px){.analysis-work-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:600px){.preserved-analysis-index{padding:14px}.analysis-work-grid{grid-template-columns:1fr}.analysis-author-group{scroll-margin-top:160px}}
+
+/* Bibliothèque des 33 monographies d'Aristophane */
+.aristophanes-index{margin:28px 0 48px;padding:25px;border:1px solid #78623f;background:#11171a}
+.aristophanes-index h2{margin:0 0 12px;color:#f2d9ac}
+.aristophanes-index>p{max-width:850px}
+.aristophanes-theme-nav{display:flex;justify-content:center;flex-wrap:wrap;gap:8px;margin:22px 0 28px}
+.aristophanes-theme-nav a{padding:9px 13px;border:1px solid #8a7048;color:#f0d9ad;font-size:12px;text-align:center}
+.aristophanes-theme{padding:18px 0 25px;border-top:1px solid #514636;scroll-margin-top:130px}
+.aristophanes-theme h3{font-size:29px;margin:5px 0 17px;color:#f1dfbb}
+.aristophanes-study-list{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px 20px;padding-left:25px}
+.aristophanes-study-list li{padding:7px 3px;break-inside:avoid}
+.aristophanes-study-list a{font:18px/1.35 'Cormorant Garamond',Georgia,serif;color:#f3e6d1}
+#archives-aristophane-33{scroll-margin-top:130px}
+@media(max-width:900px){.aristophanes-study-list{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:600px){.aristophanes-index{padding:15px}.aristophanes-study-list{grid-template-columns:1fr}.aristophanes-theme{scroll-margin-top:170px}}
+
+/* Portail Grèce : index transversal des contenus publiés */
+.greek-complete-index{border-top:1px solid #a0824f;padding-top:30px}
+.greek-index-toc{display:flex;justify-content:center;flex-wrap:wrap;gap:8px;margin:18px 0 30px}
+.greek-index-toc a{border:1px solid #77613f;padding:9px 13px;text-align:center;font-size:13px}
+.greek-index-group{border-top:1px solid #554936;padding:15px 0 25px;scroll-margin-top:125px}
+.greek-index-group h3{font-size:29px;color:#f0d8a9}
+.greek-index-list{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px 20px;padding-left:23px}
+.greek-index-list li{min-width:0;overflow-wrap:anywhere;padding:3px 4px}
+.greek-index-list a{font:17px/1.35 'Cormorant Garamond',Georgia,serif;color:#f1e3ca}
+@media(max-width:900px){.greek-index-list{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:600px){.greek-index-list{grid-template-columns:1fr}.greek-index-group{scroll-margin-top:160px}}
+
+/* Musée MYTHOS : galerie latérale documentaire sur chaque article */
+main.visual-rails-active{display:grid;grid-template-columns:minmax(0,1fr) 205px;column-gap:24px;align-items:start;max-width:1500px;margin-left:auto;margin-right:auto}
+main.visual-rails-active>.content,main.visual-rails-active>article{min-width:0}
+.mythos-visual-rail{position:sticky;top:16px;align-self:start;max-height:calc(100vh - 30px);overflow-y:auto;overscroll-behavior:contain;padding:13px;border-left:1px solid #806842;background:rgba(11,15,18,.95);scrollbar-width:thin}
+.mythos-visual-rail h2{font:18px/1.25 Georgia,serif;letter-spacing:.03em;color:#dfc08c;margin:0 0 14px}
+.mythos-visual-rail figure{margin:0 0 17px}
+.mythos-visual-rail img{display:block;width:100%;height:145px;object-fit:cover;border:1px solid #6d5c43;border-radius:2px}
+.mythos-visual-rail figcaption{font:11px/1.45 Georgia,serif;color:#c9c2b6;margin-top:6px}
+.mythos-visual-rail figcaption span{color:#d9b879}
+@media(max-width:1050px){main.visual-rails-active{grid-template-columns:minmax(0,1fr) 160px;gap:12px}.mythos-visual-rail img{height:118px}}
+@media(max-width:760px){main.visual-rails-active{display:block}.mythos-visual-rail{position:static;max-height:none;overflow:visible;border-left:0;border-top:1px solid #806842;margin:24px 12px;padding:16px 0;background:transparent;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}.mythos-visual-rail h2{grid-column:1/-1}.mythos-visual-rail figure{margin:0}.mythos-visual-rail img{height:145px}}
+
+/* Atlas des restitutions architecturales par cité */
+.reconstruction-city-nav{display:flex;flex-wrap:wrap;justify-content:center;gap:9px;margin:22px 0 32px}
+.reconstruction-city-nav a{border:1px solid #8e734b;color:#ecd6b0;padding:9px 14px;font-size:13px}
+.reconstruction-city{padding:20px 0 26px;border-top:1px solid #6f5c3e;scroll-margin-top:125px}
+.reconstruction-city h2{color:#e7ca94}
+.reconstruction-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:19px}
+.reconstruction-card{min-width:0;margin:0;border:1px solid #665438;background:#101518}
+.reconstruction-card img{width:100%;height:220px;object-fit:cover;display:block}
+.reconstruction-card figcaption{padding:13px;display:flex;flex-direction:column;gap:9px}
+.reconstruction-card strong{font:23px/1.2 'Cormorant Garamond',Georgia,serif;color:#f2dcb8}
+.reconstruction-card span{font-size:12px;color:#bfb4a2}
+.reconstruction-card a{font-size:13px;color:#f0cb8b;text-decoration:underline;text-underline-offset:3px}
+@media(max-width:1000px){.reconstruction-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:600px){.reconstruction-grid{grid-template-columns:1fr}.reconstruction-card img{height:240px}}
+
+/* MYTHOS musée virtuel : modèles 3D et programme documentaire */
+.museum-interactive,.museum-research-catalog{margin:25px 0 38px;border-top:1px solid #826d48;padding-top:24px}
+.museum-viewer-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}
+.mythos-3d-viewer{min-width:0;background:#101820;border:1px solid #796446;padding:12px}
+.mythos-3d-viewer h3{font:24px/1.2 Georgia,serif;color:#ead0a3;margin:6px 0 13px}
+.mythos-3d-viewer canvas{display:block;width:100%;height:310px;touch-action:none;cursor:grab}
+.mythos-3d-viewer canvas:active{cursor:grabbing}
+.viewer-controls{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center;gap:9px;padding-top:11px}
+.viewer-controls span{font-size:12px;color:#c8bda9}
+.viewer-controls button{border:1px solid #b29461;background:transparent;color:#f4dfb9;padding:7px 12px;cursor:pointer}
+.museum-research-catalog>h3{margin-top:24px;color:#e9cc99}
+.museum-subjects{border:1px solid #554a37;margin:9px 0;padding:11px 14px}
+.museum-subjects summary{cursor:pointer;color:#f1d8aa}
+.museum-subjects ul{columns:3;column-gap:25px;margin:15px 0 3px;padding-left:24px}
+.museum-subjects li{break-inside:avoid;margin:0 0 8px}
+@media(max-width:800px){.museum-viewer-grid{grid-template-columns:1fr}.museum-subjects ul{columns:2}}
+@media(max-width:500px){.museum-subjects ul{columns:1}.mythos-3d-viewer canvas{height:260px}}
+
+/* MYTHOS — portail de mythologie comparée */
+.comparison-toc{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px;margin:28px 0}
+.comparison-toc a{display:flex;align-items:center;justify-content:center;min-height:65px;padding:10px;border:1px solid #876b40;background:#14181c;color:#ecd2a4;text-align:center;text-decoration:none;font:15px/1.3 Georgia,serif}
+.comparison-toc a:hover{background:#29251c}
+.comparison-section{border-top:1px solid #75603e;margin:26px 0;padding-top:22px;scroll-margin-top:120px}
+.comparison-section h2{color:#e8c990}
+.comparison-documents{columns:2;column-gap:28px;list-style:none;padding:0}
+.comparison-documents li{break-inside:avoid;padding:9px 0;border-bottom:1px solid #413b32}
+.comparison-documents a{color:#e9d6b9;text-decoration:none}
+.comparison-documents a:hover{text-decoration:underline}
+@media(max-width:950px){.comparison-toc{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:620px){.comparison-toc{grid-template-columns:1fr 1fr}.comparison-documents{columns:1}}

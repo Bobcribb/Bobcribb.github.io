@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=Inter:wght@400;500;600&display=swap');:root{--bg:#0c0d0e;--ink:#f0e7d6;--gold:#c7a66c;--muted:#b8ad9b}html{scroll-behavior:smooth}body{background:#0c0d0e!important;color:var(--ink)!important}body,.wrap,.page-title{max-width:100%}h1,h2,h3,.page-title h1{font-family:'Cormorant Garamond',Georgia,serif!important}h1{font-size:clamp(2.6rem,6vw,5.5rem)!important;line-height:1.1!important}h2{color:#d6b878!important}a{color:#d5b77d}a:hover{color:#f1d6a3}.mythos-return{background:#0b0b0b;color:#b9a88b;border-bottom:1px solid #5c4c32;display:flex;gap:12px;align-items:center;flex-wrap:wrap;padding:12px max(18px,5vw);font:600 11px/1.6 Inter,Arial,sans-serif;text-transform:uppercase;letter-spacing:.11em;position:relative;z-index:20}.mythos-return a{color:#d5b77d!important;text-decoration:none}.mythos-return a:hover{text-decoration:underline}main{min-height:60vh}img{max-width:100%;height:auto}img[src*="assets/img/"]{background:linear-gradient(135deg,#28231b,#151515);border:1px solid #5e4d30;color:#cbb98d}article,.card,.panel{border-color:#584932!important}table{max-width:100%;display:block;overflow-x:auto}blockquote{border-left-color:#c7a66c!important}@media(max-width:700px){.wrap{padding-left:18px!important;padding-right:18px!important}.menu{gap:9px!important;flex-wrap:wrap!important}.nav{flex-wrap:wrap!important}body{overflow-wrap:break-word}}
+/* Système commun MYTHOS : pages de lecture et archives, sans altérer les textes */
+.mythos-return{min-height:69px;background:#090d0f!important;border-bottom:1px solid #9b784e!important;box-shadow:0 2px 16px #0005}.mythos-return>a:first-child{font-family:Georgia,serif!important;font-size:25px!important;letter-spacing:.13em;color:#e6c18a!important}.mythos-return:after{content:"ENCYCLOPÉDIE DES MYTHOLOGIES";font:8px Inter,Arial,sans-serif;letter-spacing:.2em;color:#ad9a7e;margin-left:auto}.mythos-return a{font-weight:500}.mythos-return a:focus-visible{outline:2px solid #d9b57b;outline-offset:3px}
+body{background:#0b1012!important;background-image:radial-gradient(ellipse at 100% 0%,#2a261e35,transparent 40%)!important;font-family:Georgia,serif!important;line-height:1.7!important}body>header,body>.hero,body>.page-title,body>.cover,body>.hero-archive{border-bottom:1px solid #a4875e!important}body>header:not(.mythos-return){background-color:#111719!important}h1,h2,h3{font-weight:400!important;letter-spacing:.02em}h1{color:#f2e5d1!important;text-shadow:0 2px 8px #0008}h2{font-size:clamp(1.7rem,3vw,2.7rem)!important}p,li{line-height:1.7}article,.card,.panel,.box,.chapter,.toc{background-color:#12191bcc;border-color:#66523b!important}article{padding:clamp(18px,3vw,36px)}a:not(.mythos-return a){text-underline-offset:4px}hr{border:0;border-top:1px solid #745e3f}img{border-radius:0!important}footer{background:#0a0e10!important;border-top:1px solid #755c3d!important;color:#c2b19a!important}::selection{background:#7a5a32;color:#fff}@media(max-width:750px){.mythos-return{gap:8px;padding:12px 16px}.mythos-return:after{display:none}h1{font-size:clamp(2.4rem,8vw,4rem)!important}article{padding:17px}}
+
+/* Maquette MYTHOS : continuité des livres numériques et archives */
+.mythos-return{min-height:75px!important;padding:10px clamp(18px,4.3vw,68px)!important;background:#090c0e!important;border-bottom:1px solid #a08259!important}
+.mythos-return>a:first-child{font:500 37px/1 'Cormorant Garamond',Georgia,serif!important;letter-spacing:.13em!important}
+.mythos-return>a:not(:first-child){font:16px/1.3 'Cormorant Garamond',Georgia,serif!important;text-transform:none!important;letter-spacing:0!important;color:#eadac5!important}
+.mythos-return>span{color:#866d4a!important}
+.mythos-return:after{font:9px/1.2 Georgia,serif!important;letter-spacing:.18em!important}
+body>header:not(.mythos-return){background:#101416!important;border-bottom:1px solid #68553c!important}
+body>header .brand{color:#d7b57e!important;font:500 32px 'Cormorant Garamond',Georgia,serif!important}
+body>header .menu a{color:#e4d7c4!important;font:17px 'Cormorant Garamond',Georgia,serif!important}
+body>header .menu a:hover{color:#edc992!important}
+body>header .hero,body>.hero,body>.page-title,body>.cover{background-color:#0d1214!important;background-image:linear-gradient(90deg,#080d0f70,#080d0fb3 45%,#080d0f77),url('/assets/mythos-hero.svg')!important;background-size:cover!important;background-position:center!important}
+main{max-width:1450px;margin-inline:auto}
+main h1,main h2,main h3{color:#f1e5d4!important}
+main h2{padding-bottom:8px;border-bottom:1px solid #6b573b}
+main a{color:#dbb980}
+main a:hover{color:#f2d6a8}
+article,.card,.panel,.box,.chapter,.toc{background:#101618!important;border:1px solid #584b3a!important;border-radius:0!important}
+article,.chapter{max-width:100%;overflow-wrap:anywhere}
+blockquote{background:#171b1b!important;padding:15px 22px!important}
+table{border-collapse:collapse}
+th,td{border-color:#66543d!important}
+a:focus-visible,button:focus-visible{outline:2px solid #e5be85!important;outline-offset:3px}
+@media(max-width:700px){.mythos-return{min-height:65px!important}.mythos-return>a:first-child{font-size:30px!important}.mythos-return>a:not(:first-child){font-size:14px!important}main{padding-inline:12px}article,.chapter{padding:16px!important}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}

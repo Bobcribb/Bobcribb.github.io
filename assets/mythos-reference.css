@@ -1,0 +1,160 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600&family=Inter:wght@400;500;600&display=swap');
+:root{--bg:#0a0e10;--panel:#111719;--gold:#c6a16b;--cream:#eee4d3;--muted:#b6aa9a;--line:#5c4b35}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--bg);color:var(--cream);font:15px/1.6 Inter,Arial,sans-serif}a{color:inherit;text-decoration:none}a:focus-visible{outline:2px solid var(--gold);outline-offset:4px}img{max-width:100%}
+.masthead{min-height:76px;padding:12px clamp(20px,4vw,72px);display:flex;align-items:center;justify-content:space-between;gap:20px;background:#090c0e;border-bottom:1px solid #80633f}
+.brand{display:flex;align-items:center;gap:14px;color:#d7b57e;font:500 35px/1 'Cormorant Garamond',Georgia,serif;letter-spacing:.14em;white-space:nowrap}.brand small{display:block;margin-top:5px;font:8px/1.2 Inter,Arial,sans-serif;letter-spacing:.2em}.pillar{font:42px/1 Georgia,serif}
+.navlinks{display:flex;align-items:center;justify-content:flex-end;flex-wrap:wrap;gap:clamp(10px,1.45vw,25px);font:13px/1.5 Georgia,serif}.navlinks a{padding:6px 0;border-bottom:1px solid transparent}.navlinks a:hover,.navlinks a[aria-current="page"]{color:#dfbc85;border-bottom-color:#d1ab72}
+.hero-archive{min-height:306px;position:relative;isolation:isolate;display:flex;align-items:center;justify-content:center;padding:40px 24px;text-align:center;border-bottom:1px solid #846b49;overflow:hidden;background:#13191a}
+.hero-archive:before{content:"";position:absolute;inset:0;z-index:-2;background-image:linear-gradient(90deg,#080d0fe6 0%,#080d0f8e 25%,#080d0fdc 50%,#080d0f8e 75%,#080d0fe6 100%),url('https://images.unsplash.com/photo-1555993539-1732b0258235?auto=format&fit=crop&w=2000&q=85');background-size:cover;background-position:center 46%;filter:saturate(.55)}
+.hero-archive:after{content:"";position:absolute;inset:0;z-index:-1;background:linear-gradient(0deg,#090d0f88,transparent 28%,transparent 72%,#090d0f44)}
+.hero-archive>div{max-width:850px}.hero-archive h1{font:500 clamp(44px,5.4vw,76px)/1.06 'Cormorant Garamond',Georgia,serif;letter-spacing:.075em;margin:0;color:#f2e6d5;text-shadow:0 3px 18px #000}.hero-archive h1:after{content:"";display:block;width:210px;height:1px;background:#c9a671;margin:17px auto 0}.hero-archive p{font:400 clamp(23px,2.6vw,34px)/1.2 'Cormorant Garamond',Georgia,serif;color:#dfc497;margin:14px 0}.hero-archive .intro{max-width:680px;margin:auto;color:#d4c8b7;font-size:14px;line-height:1.7}
+body[data-collection="grande-encyclopedie"] .hero-archive:before{background-image:linear-gradient(90deg,#080d0fe0,#080d0fb2,#080d0fe0),url('https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=2000&q=85')}
+body[data-collection="theatre-grec"] .hero-archive:before{background-image:linear-gradient(90deg,#080d0fe0,#080d0fb2,#080d0fe0),url('https://images.unsplash.com/photo-1531058020387-3be344556be6?auto=format&fit=crop&w=2000&q=85')}
+body[data-collection="philosophie"] .hero-archive:before{background-image:linear-gradient(90deg,#080d0fe0,#080d0fb2,#080d0fe0),url('https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=2000&q=85')}
+body[data-collection="mythologie-comparee"] .hero-archive:before{background-image:linear-gradient(90deg,#080d0fe0,#080d0fb2,#080d0fe0),url('https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=2000&q=85')}
+.container{width:min(100% - 48px,1450px);margin:auto;padding:32px 0 46px}.container h2,.directory h2{font:500 clamp(31px,3.5vw,45px)/1.15 'Cormorant Garamond',Georgia,serif;color:#f0e4d4;margin:0 0 9px}.lede{color:var(--muted);margin:0 0 22px;max-width:800px;font-size:14px}
+.volume-grid{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:11px}.volume{min-height:102px;display:flex;align-items:center;gap:10px;padding:9px;border:1px solid #584d3e;background:#12181a;transition:background .2s,border-color .2s}.volume:hover{background:#1b2426;border-color:#c8a26e}.volume .thumb{flex:0 0 38%;width:38%;height:84px;background-size:cover;background-position:center;filter:grayscale(.55) sepia(.35) brightness(.75)}.volume strong{display:block;font:500 18px/1.05 'Cormorant Garamond',Georgia,serif;color:#e9d0a7}.volume small{display:block;font:11px/1.3 Inter,Arial,sans-serif;color:#c3b7a8;margin:6px 0}.volume em{display:block;font-style:normal;color:#c9a16b;font-size:13px}
+.collection-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:14px}.collection-tile{min-height:210px;display:flex;flex-direction:column;align-items:flex-start;padding:25px;border:1px solid #65533e;background:linear-gradient(140deg,#192023,#0d1214);transition:border-color .2s}.collection-tile:hover{border-color:#c7a06b}.collection-tile .eyebrow{font:10px Inter,Arial,sans-serif;letter-spacing:.18em;color:#d1ad7a}.collection-tile h3{font:500 31px/1.08 'Cormorant Garamond',Georgia,serif;margin:17px 0 10px}.collection-tile p{font-size:13px;line-height:1.5;color:#bfb2a2;margin:0 0 18px}.collection-tile span:last-child{margin-top:auto;font-size:12px}
+.section-dark{background:#101618;border-block:1px solid #5b4931}.archive-tiles{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:13px}.archive-tiles a{font:13px Georgia,serif;color:#e6d3b5}.archive-tiles img{display:block;width:100%;aspect-ratio:1.7;object-fit:cover;margin-bottom:9px;border:1px solid #66533b;filter:grayscale(.4) sepia(.25) brightness(.8)}.archive-tiles a:hover img{filter:sepia(.15) brightness(.98)}.note{border-left:2px solid var(--gold);background:#151b1c;padding:18px 22px;color:#c4b8a7}.notice{color:#a99e8f;font-size:12px;line-height:1.6;margin:18px 0}.action{display:inline-block;padding:12px 20px;border:1px solid #bc965f;color:#e2c393;font:12px Inter,Arial,sans-serif;letter-spacing:.06em}.action:hover{background:#2a251d}
+footer{padding:30px 20px;text-align:center;border-top:1px solid #5c4b35;background:#090d0f;color:#a89c8b;font-size:12px}
+@media(max-width:1250px){.volume-grid{grid-template-columns:repeat(4,minmax(0,1fr))}.collection-grid{grid-template-columns:repeat(3,minmax(0,1fr))}.masthead{flex-wrap:wrap}.navlinks{justify-content:flex-start}}
+@media(max-width:850px){.volume-grid{grid-template-columns:repeat(3,minmax(0,1fr))}.collection-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.archive-tiles{grid-template-columns:repeat(3,minmax(0,1fr))}}
+@media(max-width:590px){.brand{font-size:30px}.navlinks{gap:10px;font-size:12px}.hero-archive{min-height:285px}.volume-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.collection-grid{grid-template-columns:1fr}.archive-tiles{grid-template-columns:repeat(2,minmax(0,1fr))}.container{width:min(100% - 32px,1450px)}.collection-tile{min-height:155px}.hero-archive h1{font-size:43px}}
+@media(max-width:390px){.volume-grid{grid-template-columns:1fr}}
+
+/* Maquette de référence : monumentalité du bandeau, cartes serrées et galeries */
+.hero-archive{background:#0b0f11!important}.hero-archive:before{background-image:linear-gradient(90deg,rgba(8,12,14,.28) 0%,rgba(8,12,14,.62) 26%,rgba(8,12,14,.86) 43%,rgba(8,12,14,.85) 62%,rgba(8,12,14,.34) 100%),url('https://images.unsplash.com/photo-1555993539-1732b0258235?auto=format&fit=crop&w=2000&q=90')!important;background-position:center 46%!important;filter:saturate(.55) sepia(.22)!important}.hero-archive h1{font-weight:400!important;letter-spacing:.06em!important}.hero-archive .intro{text-align:left;max-width:520px}.volume-grid{gap:10px}.volume{min-height:108px!important;padding:8px!important;border-color:#5c5850!important}.volume .thumb{height:94px!important}.volume strong{font-size:19px!important}.volume small{font-size:11px!important}.container h2{font-size:clamp(35px,3.7vw,48px)!important}.collection-tile{border-color:#5f5548}.collection-tile h3{color:#ead5b3}.archive-tiles a{font-family:'Cormorant Garamond',Georgia,serif;font-size:18px}.archive-tiles img{aspect-ratio:1.4}.navlinks{font-family:'Cormorant Garamond',Georgia,serif;font-size:19px}.brand{font-size:40px}
+
+/* Composition panoramique tripartite MYTHOS : deux motifs architecturaux encadrant un centre sombre */
+.hero-archive{min-height:310px!important;background:#090d0f!important;isolation:isolate}.hero-archive:before{content:""!important;position:absolute!important;inset:0!important;z-index:-2!important;background:linear-gradient(90deg,rgba(8,12,14,.10) 0%,rgba(8,12,14,.12) 22%,rgba(8,12,14,.94) 43%,rgba(8,12,14,.95) 61%,rgba(8,12,14,.16) 85%,rgba(8,12,14,.15) 100%),url('https://images.unsplash.com/photo-1555993539-1732b0258235?auto=format&fit=crop&w=1800&q=85') center center/cover!important;filter:grayscale(.7) sepia(.28) brightness(.7)!important}.hero-archive:after{content:""!important;position:absolute!important;inset:0!important;z-index:-1!important;background:linear-gradient(90deg,transparent 0%,#080d0fd9 39%,#080d0fe6 59%,transparent 100%),radial-gradient(ellipse at 50% 50%,#080d0fa8,transparent 60%)!important}.hero-archive>div{position:relative;z-index:1}.hero-archive h1{font-family:'Cormorant Garamond',Georgia,serif!important;font-size:clamp(52px,5.7vw,83px)!important;font-weight:500!important;letter-spacing:.075em!important}.hero-archive h1:after{width:270px!important;margin:12px auto 0!important}.hero-archive p{font-size:clamp(22px,2.2vw,31px)!important;color:#ddc39c!important}.hero-archive .intro{max-width:570px!important;margin:12px auto!important;text-align:center!important;font-size:13px!important;color:#cfc4b5!important}.container{padding-top:28px!important}.container h2{font-size:clamp(34px,3.5vw,48px)!important}.volume-grid{grid-template-columns:repeat(6,minmax(0,1fr))!important}.volume{border-radius:0!important;min-height:100px!important}.archive-tiles img{aspect-ratio:1.55!important}.masthead{min-height:76px!important}@media(max-width:1200px){.volume-grid{grid-template-columns:repeat(4,minmax(0,1fr))!important}}@media(max-width:800px){.volume-grid{grid-template-columns:repeat(3,minmax(0,1fr))!important}}@media(max-width:570px){.volume-grid{grid-template-columns:repeat(2,minmax(0,1fr))!important}.hero-archive{min-height:290px!important}.hero-archive h1{font-size:47px!important}}@media(max-width:380px){.volume-grid{grid-template-columns:1fr!important}}
+
+/* Bandeau original hébergé dans le dépôt, sans dépendance à des photos aléatoires */
+.hero-archive:before,body[data-collection] .hero-archive:before{background-image:url('/assets/mythos-hero.svg')!important;background-size:cover!important;background-position:center!important;filter:none!important}.hero-archive:after{background:linear-gradient(90deg,transparent 0%,#080d0f40 35%,#080d0f55 60%,transparent 100%)!important}.hero-archive{min-height:300px!important}
+
+/* MYTHOS — système de composition transversal, référence visuelle 1536 × 1024 */
+:root{--bg:#0a0d0e;--panel:#101416;--gold:#c9a36e;--cream:#f2e9da;--line:#65533e}
+body{background:#0a0d0e!important;color:var(--cream);font-family:Georgia,'Times New Roman',serif!important}
+.masthead{height:auto;min-height:75px!important;padding:8px clamp(20px,4.2vw,66px)!important;gap:28px!important;border-bottom:1px solid #a08259!important}
+.brand{font:500 39px/1 'Cormorant Garamond',Georgia,serif!important;letter-spacing:.12em!important;color:#e5c08b!important}
+.brand small{font:8px/1.3 Georgia,serif!important;letter-spacing:.21em!important}
+.pillar{font-size:38px!important;color:#c9a36e}
+.navlinks{gap:clamp(13px,1.65vw,29px)!important;font:17px/1.25 'Cormorant Garamond',Georgia,serif!important}
+.navlinks a{white-space:nowrap;padding:7px 0!important}
+.hero-archive{min-height:290px!important;padding:35px 20px!important;border-bottom:1px solid #8b6b46!important;background:#080c0e!important}
+.hero-archive:before{background:url('/assets/mythos-hero.svg') center/cover no-repeat!important;filter:none!important}
+.hero-archive:after{background:linear-gradient(90deg,transparent 0%,#080c0e18 28%,#080c0e66 44%,#080c0e55 59%,transparent 83%)!important}
+.hero-archive>div{width:min(100%,770px);max-width:770px!important}
+.hero-archive h1{font:500 clamp(45px,5vw,70px)/1.08 'Cormorant Garamond',Georgia,serif!important;letter-spacing:.07em!important;color:#f2e9db!important}
+.hero-archive h1:after{width:min(78%,520px)!important;margin:11px auto 0!important;background:#d0b17e!important}
+.hero-archive p{font:400 clamp(24px,2.3vw,32px)/1.18 'Cormorant Garamond',Georgia,serif!important;letter-spacing:.035em;color:#f1e5d2!important;margin:12px 0 17px!important}
+.hero-archive .intro{font:15px/1.55 Georgia,serif!important;max-width:600px!important;color:#e5ded2!important}
+.container{width:min(100% - 12.5%,1450px)!important;padding:26px 0 42px!important}
+.container h2,.directory h2{font:500 clamp(34px,3.2vw,46px)/1.12 'Cormorant Garamond',Georgia,serif!important;margin:0 0 8px!important}
+.lede{font:15px/1.5 Georgia,serif!important;color:#e0d7c9!important;margin-bottom:16px!important}
+.volume-grid,.compact-tomes{display:grid!important;grid-template-columns:repeat(6,minmax(0,1fr))!important;gap:12px!important}
+.volume{height:113px!important;min-height:113px!important;padding:7px!important;gap:12px!important;background:#0d1214!important;border:1px solid #5a5750!important;overflow:hidden}
+.volume .thumb,.compact-tomes .thumb{height:98px!important;width:40%!important;flex:0 0 40%!important;filter:sepia(.17) brightness(.86)!important}
+.volume strong{font:500 19px/1.15 'Cormorant Garamond',Georgia,serif!important;color:#f2e6d5!important}
+.volume small{font:12px/1.3 Georgia,serif!important;color:#e1d8cc!important}
+.volume em{font:21px/1 Georgia,serif!important;color:#c9a36e!important}
+.collection-grid{gap:12px!important}
+.collection-tile{border-radius:0!important;background:#0e1416!important;min-height:185px!important;padding:18px!important}
+.collection-tile h3{font-size:30px!important;color:#f2e6d5!important}
+.collection-tile p{font:14px/1.5 Georgia,serif!important;color:#d2c5b5!important}
+.section-dark{background:#0b1012!important;border-top:1px solid #826747!important}
+.archive-tiles img{filter:sepia(.12) brightness(.86)!important}
+.archive-tiles a{font:14px/1.4 Georgia,serif!important}
+.action{font:14px Georgia,serif!important;border-color:#c9a36e!important}
+.remaining-tomes summary{font:24px 'Cormorant Garamond',Georgia,serif!important}
+@media(max-width:1300px){.volume-grid,.compact-tomes{grid-template-columns:repeat(4,minmax(0,1fr))!important}.navlinks{gap:13px!important;font-size:15px!important}}
+@media(max-width:900px){.volume-grid,.compact-tomes{grid-template-columns:repeat(3,minmax(0,1fr))!important}.container{width:calc(100% - 40px)!important}.masthead{flex-wrap:wrap!important}.navlinks{justify-content:center!important;width:100%}}
+@media(max-width:600px){.volume-grid,.compact-tomes{grid-template-columns:repeat(2,minmax(0,1fr))!important;gap:9px!important}.volume{height:103px!important;min-height:103px!important}.volume .thumb,.compact-tomes .thumb{height:88px!important}.volume strong{font-size:17px!important}.volume small{font-size:11px!important}.container{width:calc(100% - 28px)!important}.hero-archive{min-height:280px!important}.hero-archive h1{font-size:43px!important}.navlinks{gap:10px!important}}
+@media(max-width:370px){.volume-grid,.compact-tomes{grid-template-columns:1fr!important}}
+
+/* Finition des pages de collection et accessibilité responsive */
+.collection-tile:focus-visible,.volume:focus-visible,.archive-tiles a:focus-visible{outline:2px solid #e8c48b;outline-offset:3px}.collection-tile:hover,.volume:hover{transform:translateY(-2px);box-shadow:0 10px 28px #0005}.collection-tile,.volume{transition:transform .18s ease,box-shadow .18s ease,border-color .18s ease}.navlinks{row-gap:4px}.hero-archive{background-color:#090d0f}.hero-archive>div{padding-inline:10px}.section-dark .container{padding-top:30px!important;padding-bottom:38px!important}@media(prefers-reduced-motion:reduce){.collection-tile,.volume{transition:none!important;transform:none!important}}@media(max-width:650px){.hero-archive .intro{font-size:13px!important}.hero-archive p{font-size:23px!important}.navlinks{justify-content:flex-start!important;overflow-x:auto;flex-wrap:nowrap!important;scrollbar-width:thin}.masthead{gap:9px!important}.brand{font-size:32px!important}.container h2{font-size:34px!important}}
+
+/* Vignettes locales originales, sans photos génériques de paysages */
+.compact-tomes .volume .thumb{background-image:url('/assets/mythos-archaeology-tiles.svg')!important;background-size:600% 200%!important;background-repeat:no-repeat!important;filter:none!important}.compact-tomes .volume:nth-child(1) .thumb{background-position:0% 0%!important}.compact-tomes .volume:nth-child(2) .thumb{background-position:20% 0%!important}.compact-tomes .volume:nth-child(3) .thumb{background-position:40% 0%!important}.compact-tomes .volume:nth-child(4) .thumb{background-position:60% 0%!important}.compact-tomes .volume:nth-child(5) .thumb{background-position:80% 0%!important}.compact-tomes .volume:nth-child(6) .thumb{background-position:100% 0%!important}.compact-tomes .volume:nth-child(7) .thumb{background-position:0% 100%!important}.compact-tomes .volume:nth-child(8) .thumb{background-position:20% 100%!important}.compact-tomes .volume:nth-child(9) .thumb{background-position:40% 100%!important}.compact-tomes .volume:nth-child(10) .thumb{background-position:60% 100%!important}.compact-tomes .volume:nth-child(11) .thumb{background-position:80% 100%!important}.compact-tomes .volume:nth-child(12) .thumb{background-position:100% 100%!important}
+
+/* Galerie des dossiers : illustrations locales et cohérence des 27 tomes */
+.thematic-gallery a{display:block;position:relative;color:#eadbc6!important;font:16px/1.35 'Cormorant Garamond',Georgia,serif!important}
+.thematic-gallery a img{display:block;width:100%;height:auto;aspect-ratio:1.7;object-fit:cover;opacity:0!important}
+.thematic-gallery a:before{content:"";position:absolute;top:0;left:0;width:100%;aspect-ratio:1.7;background-image:url('/assets/mythos-archaeology-tiles.svg');background-size:600% 200%;background-repeat:no-repeat;border:1px solid #776043;box-sizing:border-box}
+.thematic-gallery a:nth-child(1):before{background-position:40% 0%}
+.thematic-gallery a:nth-child(2):before{background-position:80% 100%}
+.thematic-gallery a:nth-child(3):before{background-position:100% 100%}
+.thematic-gallery a:nth-child(4):before{background-position:20% 100%}
+.thematic-gallery a:nth-child(5):before{background-position:60% 0%}
+.thematic-gallery a:hover:before{filter:brightness(1.18)}
+@media(max-width:950px){.thematic-gallery{grid-template-columns:repeat(3,minmax(0,1fr))!important}}
+@media(max-width:570px){.thematic-gallery{grid-template-columns:repeat(2,minmax(0,1fr))!important}}
+
+/* Vignettes thématiques sémantiques, chargées depuis le dépôt */
+.thematic-gallery a:before{display:none!important}.thematic-gallery .thematic-thumb{display:block;width:100%;aspect-ratio:1.7;margin-bottom:9px;border:1px solid #776043;background-image:url('/assets/mythos-archaeology-tiles.svg');background-size:600% 200%;background-repeat:no-repeat}.thematic-gallery a:nth-child(1) .thematic-thumb{background-position:40% 0%}.thematic-gallery a:nth-child(2) .thematic-thumb{background-position:80% 100%}.thematic-gallery a:nth-child(3) .thematic-thumb{background-position:100% 100%}.thematic-gallery a:nth-child(4) .thematic-thumb{background-position:20% 100%}.thematic-gallery a:nth-child(5) .thematic-thumb{background-position:60% 0%}.thematic-gallery a:hover .thematic-thumb{filter:brightness(1.18)}
+
+/* Tomes XIII–XXVII : les vignettes de l'édition intégrale suivent la même grille locale */
+.remaining-tomes .volume:nth-child(1) .thumb{background-position:0% 0%!important}
+.remaining-tomes .volume:nth-child(2) .thumb{background-position:20% 0%!important}
+.remaining-tomes .volume:nth-child(3) .thumb{background-position:40% 0%!important}
+.remaining-tomes .volume:nth-child(4) .thumb{background-position:60% 0%!important}
+.remaining-tomes .volume:nth-child(5) .thumb{background-position:80% 0%!important}
+.remaining-tomes .volume:nth-child(6) .thumb{background-position:100% 0%!important}
+.remaining-tomes .volume:nth-child(7) .thumb{background-position:0% 100%!important}
+.remaining-tomes .volume:nth-child(8) .thumb{background-position:20% 100%!important}
+.remaining-tomes .volume:nth-child(9) .thumb{background-position:40% 100%!important}
+.remaining-tomes .volume:nth-child(10) .thumb{background-position:60% 100%!important}
+.remaining-tomes .volume:nth-child(11) .thumb{background-position:80% 100%!important}
+.remaining-tomes .volume:nth-child(12) .thumb{background-position:100% 100%!important}
+.remaining-tomes .volume:nth-child(13) .thumb{background-position:0% 0%!important}
+.remaining-tomes .volume:nth-child(14) .thumb{background-position:20% 0%!important}
+.remaining-tomes .volume:nth-child(15) .thumb{background-position:40% 0%!important}
+.remaining-tomes{border-top:1px solid #6b5438;margin-top:16px;padding-top:10px}
+.remaining-tomes summary{width:fit-content;max-width:100%;transition:color .15s ease}
+.remaining-tomes summary:focus-visible{outline:2px solid #e8c68e;outline-offset:5px}
+.remaining-tomes[open] summary span[aria-hidden]{display:inline-block;transform:rotate(90deg)}
+@media(max-width:600px){.remaining-tomes summary:before,.remaining-tomes summary:after{display:none!important}.remaining-tomes summary{font-size:21px!important;padding:10px 12px!important}}
+
+/* Finition de la maquette commune : en-tête, hiérarchie et lecture */
+.masthead{min-height:76px;display:grid!important;grid-template-columns:max-content minmax(0,1fr);gap:clamp(20px,3vw,55px)!important;align-items:center;padding-block:9px!important}
+.masthead .brand{min-width:0}
+.masthead .navlinks{min-width:0;justify-content:flex-end;flex-wrap:nowrap!important;overflow-x:auto;overflow-y:hidden;scrollbar-width:thin;scrollbar-color:#796344 transparent;white-space:nowrap;padding:4px 0}
+.masthead .navlinks a{flex:0 0 auto;font:500 clamp(13px,1.12vw,17px)/1.4 'Cormorant Garamond',Georgia,serif!important;letter-spacing:.01em}
+.hero-archive{min-height:290px!important}
+.hero-archive h1{text-wrap:balance}
+.hero-archive h1:after{background:linear-gradient(90deg,transparent,#c9a671 12%,#c9a671 88%,transparent)!important}
+.hero-archive .intro{text-wrap:pretty}
+.container h2,.directory h2{text-wrap:balance}
+.volume-grid .volume{position:relative;min-width:0;overflow:hidden}
+.volume-grid .volume>span:last-child{min-width:0}
+.volume-grid .volume strong,.volume-grid .volume small{overflow-wrap:break-word}
+.volume-grid .volume:focus-visible,.collection-grid a:focus-visible,.archive-tiles a:focus-visible{outline:2px solid #e6c18c;outline-offset:2px}
+@media(max-width:900px){.masthead{grid-template-columns:1fr!important;gap:5px!important;padding:12px 22px!important}.masthead .navlinks{justify-content:flex-start!important;width:100%}.masthead .brand{font-size:30px!important}.hero-archive{min-height:265px!important}}
+@media(max-width:480px){.masthead{padding:10px 16px!important}.masthead .navlinks a{font-size:15px!important}.hero-archive{padding:35px 16px!important}.hero-archive h1{letter-spacing:.025em!important}.container{width:calc(100% - 28px)!important}}
+
+
+/* MYTHOS — accessibilité et lecture responsive, contrôle du 3 novembre 2026 */
+html{scroll-padding-top:22px}
+body{overflow-wrap:break-word}
+main :is(h2,h3,h4)[id],article [id],section[id]{scroll-margin-top:28px}
+:where(.container,.directory) :is(p,li){max-width:78ch}
+:where(.collection-grid,.volume-grid,.archive-tiles) > *{min-width:0}
+:where(.collection-tile,.volume,.archive-tiles a):focus-visible{outline:3px solid #f0d09a!important;outline-offset:3px}
+:where(.collection-tile,.volume,.archive-tiles a):focus-within{border-color:#c6a16b}
+@media(max-width:590px){
+  .collection-grid{grid-template-columns:minmax(0,1fr)!important}
+  .collection-tile{min-height:0!important;padding:18px!important}
+  .collection-tile h3{font-size:clamp(25px,7vw,32px)!important}
+  .hero-archive h1{font-size:clamp(37px,10vw,52px)!important;overflow-wrap:anywhere}
+  .volume-grid{grid-template-columns:repeat(2,minmax(0,1fr))!important}
+  .volume .thumb{flex-basis:35%!important;width:35%!important}
+}
+@media(max-width:345px){.volume-grid{grid-template-columns:minmax(0,1fr)!important}}
+@media(prefers-reduced-motion:reduce){
+  html{scroll-behavior:auto!important}
+  *,*::before,*::after{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important}
+}
+
+/* MYTHOS · une bannière locale commune, statue à gauche et temple à droite */
+.hero-archive:before,body[data-collection] .hero-archive:before{background-image:linear-gradient(90deg,#080d0f9c 0%,#080d0f4d 23%,#080d0fc9 50%,#080d0f4d 77%,#080d0f9c 100%),url('/assets/mythos-hero.svg')!important;background-position:center center!important;background-size:cover!important;filter:none!important}
+@media(max-width:600px){.hero-archive:before,body[data-collection] .hero-archive:before{background-size:100% 100%!important}}

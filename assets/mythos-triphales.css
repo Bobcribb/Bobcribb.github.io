@@ -1,0 +1,11 @@
+/* MYTHOS · Triphalēs · schéma éditorial et confort de lecture */
+.tri-protocol{border:1px solid #7b633f;background:linear-gradient(130deg,#161e20,#090e10);padding:clamp(17px,2.4vw,27px);margin:25px 0}
+.tri-protocol h2{font:500 clamp(24px,3vw,34px)/1.2 Georgia,serif;color:#e3c38d;margin:0 0 15px}
+.tri-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}
+.tri-grid div{background:#1b2526;padding:14px 16px;border-top:3px solid #c19d6b}
+.tri-grid strong{display:block;color:#f0d2a2;font:600 16px/1.4 Arial,sans-serif}
+.tri-grid span{display:block;color:#e5d8c5;font:14px/1.6 Arial,sans-serif;margin-top:6px}
+.tri-protocol figcaption{color:#c5b8a4;font:13px/1.6 Arial,sans-serif;margin-top:13px}
+.tri-reader [data-source-section]:target{border-left:3px solid #d8b47d;padding-left:12px;background:linear-gradient(90deg,#d8b47d14,transparent 40%)}
+@media(max-width:700px){.tri-grid{grid-template-columns:1fr}.tri-protocol{padding:16px}}
+@media print{.tri-protocol,.tri-grid div{background:white;color:black}.tri-grid span,.tri-grid strong,.tri-protocol figcaption{color:black}}

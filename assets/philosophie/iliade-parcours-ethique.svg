@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="725" viewBox="0 0 1600 725" role="img" aria-labelledby="svgtitle svgdesc">
+ <title id="svgtitle">L’ILIADE · DU CONFLIT À LA RECONNAISSANCE</title>
+ <desc id="svgdesc">Quatre seuils conceptuels — lecture philosophique de la trajectoire d’Achille. Diagramme pédagogique de quatre étapes.</desc>
+ <rect width="1600" height="725" fill="#0b1115"/>
+ <rect x="20" y="20" width="1560" height="685" fill="none" stroke="#ab8657" stroke-width="2"/>
+ <text x="48" y="92" font-size="43" fill="#f1d3a2" font-family="Georgia,serif">L’ILIADE · DU CONFLIT À LA RECONNAISSANCE</text>
+ <text x="49" y="144" font-size="24" fill="#c8b99e" font-family="Georgia,serif">Quatre seuils conceptuels — lecture philosophique de la trajectoire d’Achille</text>
+ <g transform="translate(45 204)">
+ <rect x="0" y="0" width="358" height="366" rx="13" fill="#182026" stroke="#8d7755" stroke-width="2"/>
+ <path d="M0 55 H358" stroke="#8d7755" stroke-width="2"/>
+ <text x="22" y="36" fill="#c5a572" font-size="19" font-family="Arial,sans-serif" letter-spacing="2">01 · CHANT I</text>
+ <text x="22" y="113" fill="#f4dcaa" font-size="29" font-family="Georgia,serif">MÊNIS</text>
+ <text x="22" y="174" fill="#f2ede3" font-size="23" font-family="Georgia,serif">La colère déstabilise</text>
+ <text x="22" y="213" fill="#f2ede3" font-size="23" font-family="Georgia,serif">la communauté achéenne.</text>
+ <path d="M22 270 H336" stroke="#6a5940" stroke-width="1"/>
+ <text x="22" y="315" fill="#c8bda8" font-size="19" font-family="Arial,sans-serif">Lecture critique · MYTHOS</text>
+ </g>
+<g transform="translate(435 204)">
+ <rect x="0" y="0" width="358" height="366" rx="13" fill="#182026" stroke="#8d7755" stroke-width="2"/>
+ <path d="M0 55 H358" stroke="#8d7755" stroke-width="2"/>
+ <text x="22" y="36" fill="#c5a572" font-size="19" font-family="Arial,sans-serif" letter-spacing="2">02 · CHANT IX</text>
+ <text x="22" y="113" fill="#f4dcaa" font-size="29" font-family="Georgia,serif">DEUX DESTINÉES</text>
+ <text x="22" y="174" fill="#f2ede3" font-size="23" font-family="Georgia,serif">Vie longue sans gloire</text>
+ <text x="22" y="213" fill="#f2ede3" font-size="23" font-family="Georgia,serif">ou gloire et mort proche.</text>
+ <path d="M22 270 H336" stroke="#6a5940" stroke-width="1"/>
+ <text x="22" y="315" fill="#c8bda8" font-size="19" font-family="Arial,sans-serif">Lecture critique · MYTHOS</text>
+ </g>
+<g transform="translate(825 204)">
+ <rect x="0" y="0" width="358" height="366" rx="13" fill="#182026" stroke="#8d7755" stroke-width="2"/>
+ <path d="M0 55 H358" stroke="#8d7755" stroke-width="2"/>
+ <text x="22" y="36" fill="#c5a572" font-size="19" font-family="Arial,sans-serif" letter-spacing="2">03 · CHANT XXII</text>
+ <text x="22" y="113" fill="#f4dcaa" font-size="29" font-family="Georgia,serif">LIMITE DE LA FORCE</text>
+ <text x="22" y="174" fill="#f2ede3" font-size="23" font-family="Georgia,serif">Le corps d’Hector devient</text>
+ <text x="22" y="213" fill="#f2ede3" font-size="23" font-family="Georgia,serif">l’enjeu d’un outrage.</text>
+ <path d="M22 270 H336" stroke="#6a5940" stroke-width="1"/>
+ <text x="22" y="315" fill="#c8bda8" font-size="19" font-family="Arial,sans-serif">Lecture critique · MYTHOS</text>
+ </g>
+<g transform="translate(1215 204)">
+ <rect x="0" y="0" width="358" height="366" rx="13" fill="#182026" stroke="#8d7755" stroke-width="2"/>
+ <path d="M0 55 H358" stroke="#8d7755" stroke-width="2"/>
+ <text x="22" y="36" fill="#c5a572" font-size="19" font-family="Arial,sans-serif" letter-spacing="2">04 · CHANT XXIV</text>
+ <text x="22" y="113" fill="#f4dcaa" font-size="29" font-family="Georgia,serif">RECONNAISSANCE</text>
+ <text x="22" y="174" fill="#f2ede3" font-size="23" font-family="Georgia,serif">Priam et Achille partagent</text>
+ <text x="22" y="213" fill="#f2ede3" font-size="23" font-family="Georgia,serif">l’épreuve de la perte.</text>
+ <path d="M22 270 H336" stroke="#6a5940" stroke-width="1"/>
+ <text x="22" y="315" fill="#c8bda8" font-size="19" font-family="Arial,sans-serif">Lecture critique · MYTHOS</text>
+ </g>
+ <text x="50" y="633" font-size="22" fill="#e4d5bf" font-family="Georgia,serif">Repères : Iliade I, 1–7 ; IX, 410–416 ; XXII, 395–405 ; XXIV, 477–551.</text>
+ <text x="50" y="671" font-size="18" fill="#b6a78f" font-family="Arial,sans-serif">SCHÉMA ORIGINAL MYTHOS · 2026 · outil interprétatif moderne, ni objet antique ni image générée par IA</text>
+</svg>

@@ -1,0 +1,31 @@
+/* MYTHOS · Lecteur des tomes OS-CONV · 2026-11-03 */
+:root{--reader-gold:#d5ae77;--reader-dark:#0a0e10;--reader-panel:#12191b;--reader-line:#6b5338}
+.reader-cover{position:relative;isolation:isolate;overflow:hidden;min-height:238px;padding:45px clamp(18px,5vw,70px);display:flex;align-items:center;justify-content:center;text-align:center;background:#111617 url('/assets/mythos-hero.svg') center center/cover no-repeat;border-bottom:1px solid #997246}
+.reader-cover::before{content:"";position:absolute;inset:0;z-index:-1;background:linear-gradient(90deg,#090e10a0,#090e10d7 34%,#090e10db 63%,#090e10a0)}
+.reader-cover h1{font:500 clamp(36px,5vw,69px)/1.04 'Cormorant Garamond',Georgia,serif;letter-spacing:.055em;color:#f0dfc4;margin:8px 0}
+.reader-cover .eyebrow{font:12px/1.5 Inter,Arial,sans-serif;letter-spacing:.2em;text-transform:uppercase;color:#dfb980}
+.reader-cover p{max-width:80ch;margin:12px auto 0;color:#e0d3bf;font-size:14px}
+.reader-columns{width:min(calc(100% - 36px),1240px);margin:38px auto 75px;display:grid;grid-template-columns:minmax(220px,295px) minmax(0,1fr);gap:clamp(20px,4vw,55px)}
+.reader-toc{position:sticky;top:14px;align-self:start;overflow-y:auto;max-height:calc(100vh - 28px);background:var(--reader-panel);border:1px solid var(--reader-line);padding:22px 20px}
+.reader-toc h2{font:500 29px/1.1 'Cormorant Garamond',Georgia,serif;color:#e6c797;margin:0 0 17px}
+.reader-toc ol{list-style:none;padding:0;margin:0}
+.reader-toc li{border-top:1px solid #443a30;padding:11px 0}
+.reader-toc li a{display:block;font:13px/1.45 Georgia,serif;color:#e4d6c2}
+.reader-toc li span{font:600 12px Inter,Arial,sans-serif;color:#d9b681;margin-right:9px}
+.reader-toc a:hover,.reader-toc a:focus-visible,.reader-chain a:hover{color:#f1cd8e}
+.reader-toc .toc-other{border-top:1px solid #6b5338;padding-top:13px;margin-top:15px;display:grid;gap:12px;font:13px/1.4 Georgia,serif}
+.reader-body{min-width:0}
+.reader-notice{background:#12191b;border-left:3px solid #c9a673;padding:16px 20px;color:#d8c9b4;font:13px/1.65 Inter,Arial,sans-serif}
+.reader-chain{display:flex;justify-content:space-between;align-items:center;gap:20px;flex-wrap:wrap;border-top:1px solid #66513a;border-bottom:1px solid #66513a;margin:18px 0 30px;padding:14px 0;font:13px/1.6 Georgia,serif;color:#d8b582}
+.reader-chapter{padding:11px 0 23px;border-bottom:1px solid #45392d;scroll-margin-top:24px}
+.reader-chapter h2{font:500 clamp(30px,3.1vw,46px)/1.13 'Cormorant Garamond',Georgia,serif;color:#e8d1a8;overflow-wrap:anywhere;margin:10px 0 19px}
+.reader-transcription{margin:0;font:17px/1.86 Georgia,'Times New Roman',serif;color:#e2d9cb;white-space:pre-wrap;overflow-wrap:anywhere;word-break:normal;tab-size:4}
+.reader-transcription a{color:var(--reader-gold);text-decoration:underline;text-underline-offset:3px}
+.reader-foot{padding:28px 20px;border-top:1px solid #7c603c;text-align:center;color:#bcac92}
+@media(max-width:870px){.reader-columns{display:block}.reader-toc{position:static;max-height:none;margin-bottom:28px}.reader-toc ol{columns:2;column-gap:25px}.reader-toc li{break-inside:avoid}}
+@media(max-width:580px){.reader-cover{min-height:210px;padding:30px 15px}.reader-cover h1{font-size:clamp(35px,10vw,56px)}.reader-columns{width:calc(100% - 28px);margin:22px auto 45px}.reader-toc ol{columns:1}.reader-toc{padding:17px}.reader-transcription{font-size:15px;line-height:1.76}.reader-chain{gap:9px}.reader-chain a{display:block;flex:1 1 175px}}
+.reader-chapter:target{border-left:3px solid var(--reader-gold);padding-left:clamp(10px,2vw,22px);background:linear-gradient(90deg,#d5ae770e,transparent 35%)}
+.reader-toc a:focus-visible,.reader-chain a:focus-visible,.reader-foot a:focus-visible{outline:2px solid #e6c18a;outline-offset:4px;border-radius:2px}
+.reader-toc li a{overflow-wrap:anywhere}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+@media print{.masthead,.reader-toc,.reader-chain,.reader-foot{display:none!important}.reader-columns{width:100%;display:block;margin:0}.reader-cover{min-height:0;padding:10px;break-after:avoid;background:none}.reader-cover h1,.reader-chapter h2{color:#000}.reader-transcription{color:#000;font-size:11pt}.reader-chapter{break-inside:avoid-page}}

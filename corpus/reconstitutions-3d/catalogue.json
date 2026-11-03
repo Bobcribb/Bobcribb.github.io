@@ -1,0 +1,685 @@
+{
+  "collection": "MYTHOS — Reconstitutions 3D",
+  "version": "2026-11-03",
+  "scope": "Grèce antique",
+  "image_policy": "Illustrations vectorielles originales en perspective 2,5D, sans menu de navigation. Les planches photoréalistes de prévisualisation peuvent être distinctes des SVG publiés. Distinguer les vestiges attestés, les phases chronologiques et les hypothèses. Pas de modèle 3D interactif. Les deux illustrations de Brauron sont des SVG originaux à perspective simulée, non une planche photographique ni un modèle 3D interactif. Les notices BAS-001 et BAS-002 sont des perspectives SVG originales schématiques : aucun levé métrique, aucune photographie antique, aucune maquette 3D interactive.",
+  "entries": [
+    {
+      "id": "DEL-001",
+      "slug": "delphes-temple-apollon-330",
+      "region": "Grèce centrale",
+      "site": "Delphes",
+      "monument": "Temple d'Apollon",
+      "period": "IVe siècle av. J.-C. (édifice terminé vers 334–333 av. J.-C. ; décor achevé vers 327)",
+      "image": "/assets/reconstitutions/delphes-apollon-330-av-jc.svg",
+      "image_type": "Illustration vectorielle axonométrique, perspective simulée",
+      "attested": [
+        "Sanctuaire d'Apollon sur la pente du Parnasse",
+        "Temple dorique périptère, six colonnes en façade",
+        "Temple reconstruit après destruction du bâtiment archaïque en 373 av. J.-C."
+      ],
+      "hypothetical": [
+        "Textures, coloris et silhouette simplifiée de la toiture",
+        "Position des arbres et bâtiments secondaires de la scène",
+        "Proportions schématiques et perspective non métrique"
+      ],
+      "certainty": {
+        "plan": "élevée",
+        "représentation_visuelle": "faible à moyenne"
+      },
+      "sources": [
+        "https://delphi.culture.gr/le-temple-dapollo/",
+        "https://whc.unesco.org/en/list/393/"
+      ],
+      "historical_crosslinks": [
+        "/sites/delphes.html",
+        "/mythologie-grecque.html",
+        "/grande-encyclopedie.html"
+      ]
+    },
+    {
+      "id": "DEL-002",
+      "slug": "delphes-tholos-athena-pronaia",
+      "region": "Grèce centrale",
+      "site": "Delphes",
+      "monument": "Tholos d'Athéna Pronaia",
+      "period": "Vers 380–370 av. J.-C.",
+      "image": "/assets/reconstitutions/delphes-tholos-370-av-jc.svg",
+      "image_type": "Illustration vectorielle axonométrique, perspective simulée",
+      "attested": [
+        "Plan circulaire au sanctuaire d'Athéna Pronaia",
+        "Vingt colonnes doriques extérieures",
+        "Fonction exacte du monument inconnue"
+      ],
+      "hypothetical": [
+        "Toiture conique illustrée à titre d'hypothèse",
+        "Matériaux et couleurs simplifiés",
+        "Cadre paysager non relevé topographique"
+      ],
+      "certainty": {
+        "plan": "élevée",
+        "toiture": "faible",
+        "fonction": "indéterminée"
+      },
+      "sources": [
+        "https://delphi.culture.gr/the-tholos/",
+        "https://delphi.culture.gr/the-tholos-3d/"
+      ],
+      "historical_crosslinks": [
+        "/sites/delphes.html",
+        "/mythologie-grecque.html",
+        "/grande-encyclopedie.html"
+      ]
+    },
+    {
+      "id": "NEM-001",
+      "slug": "nemee-temple-zeus-330",
+      "region": "Péloponnèse",
+      "subregion": "Corinthie",
+      "site": "Némée",
+      "monument": "Temple de Zeus",
+      "period": "Vers 330 av. J.-C.",
+      "image": "/assets/reconstitutions/nemee-zeus-330-av-jc.svg",
+      "image_type": "Illustration originale vectorielle en perspective simulée 2,5D, sans menu",
+      "attested": [
+        "Péristyle dorique de six colonnes sur les façades et douze sur les flancs (32 au total)",
+        "Calcaire local revêtu d'un enduit fin",
+        "Colonnes corinthiennes à l'intérieur au niveau bas, ioniennes au niveau supérieur",
+        "Présence d'un adyton et d'une crypte à fonction discutée"
+      ],
+      "hypothetical": [
+        "Perspective non métrique et proportions schématiques",
+        "Couleurs, toiture, végétation et paysage exacts",
+        "Aucun grand programme sculptural de façade n'est ajouté à l'illustration"
+      ],
+      "certainty": {
+        "plan": "élevée",
+        "colonnes": "élevée",
+        "couverture": "moyenne",
+        "coloris": "faible"
+      },
+      "sources": [
+        "https://nemeacenter.berkeley.edu/ancient-nemea/temple-zeus",
+        "https://nemeangames.org/en/the-temple-and-sanctuary-of-nemean-zeus/"
+      ],
+      "historical_crosslinks": [
+        "/sites/nemee.html#temple",
+        "/reconstitutions-3d.html#nem-001",
+        "/grande-encyclopedie.html"
+      ]
+    },
+    {
+      "id": "NEM-002",
+      "slug": "nemee-stade-hellenistique",
+      "region": "Péloponnèse",
+      "subregion": "Corinthie",
+      "site": "Némée",
+      "monument": "Stade hellénistique",
+      "period": "Vers 330–320 av. J.-C.",
+      "image": "/assets/reconstitutions/nemee-stade-320-av-jc.svg",
+      "image_type": "Illustration originale vectorielle en perspective simulée 2,5D, sans menu",
+      "attested": [
+        "Piste en terre dans une dépression naturelle",
+        "Longueur de la course : 600 pieds anciens, environ 178 mètres",
+        "Ligne de départ conservée",
+        "Tunnel d'entrée et apodytérion attestés"
+      ],
+      "hypothetical": [
+        "Position des détails dans l'image et relief non métriques",
+        "Végétation, couleurs, proportions perspectives illustratives"
+      ],
+      "certainty": {
+        "piste": "élevée",
+        "tunnel": "élevée",
+        "perspective": "faible",
+        "vegetation": "faible"
+      },
+      "sources": [
+        "https://nemeacenter.berkeley.edu/publications/excavations-nemea",
+        "https://nemeacenter.berkeley.edu/ancient-nemea-0"
+      ],
+      "historical_crosslinks": [
+        "/sites/nemee.html#stade",
+        "/reconstitutions-3d.html#nem-002",
+        "/grande-encyclopedie.html"
+      ]
+    },
+    {
+      "id": "COR-001",
+      "slug": "corinthe-temple-apollon-540",
+      "region": "Péloponnèse",
+      "subregion": "Corinthie",
+      "site": "Corinthe",
+      "monument": "Temple archaïque d'Apollon",
+      "period": "Vers 540 av. J.-C.",
+      "image": "/assets/reconstitutions/corinthe-apollon-540-av-jc.svg",
+      "image_type": "Illustration vectorielle originale en perspective simulée 2,5D sans menu de navigation",
+      "attested": [
+        "Temple dorique périptère de 6 × 15 colonnes",
+        "Fûts monolithes de calcaire local",
+        "Stylobate d'environ 53,82 × 21,48 m",
+        "Sept colonnes conservées en élévation"
+      ],
+      "hypothetical": [
+        "Reconstitution complète de l'élévation et de la toiture",
+        "Teintes, décor et implantation des silhouettes",
+        "Perspective et reliefs non métriques"
+      ],
+      "certainty": {
+        "plan": "élevée",
+        "ordre_et_colonnes": "élevée",
+        "élévation": "moyenne",
+        "polychromie": "faible"
+      },
+      "sources": [
+        "https://www.corinthcomputerproject.org/records/temple-apollo/",
+        "https://ascsa.org/excavations/ancient-corinth/about-the-excavations-1"
+      ],
+      "historical_crosslinks": [
+        "/sites/corinthe.html#apollon",
+        "/reconstitutions-3d.html#cor-001",
+        "/grande-encyclopedie.html"
+      ]
+    },
+    {
+      "id": "COR-002",
+      "slug": "corinthe-fontaine-pirene-epoque-romaine",
+      "region": "Péloponnèse",
+      "subregion": "Corinthie",
+      "site": "Corinthe",
+      "monument": "Fontaine Pirène (état romain schématique)",
+      "period": "Époque impériale romaine, principalement IIe siècle apr. J.-C. ; éléments remaniés à plusieurs phases",
+      "image": "/assets/reconstitutions/corinthe-pirene-iie-siecle.svg",
+      "image_type": "Illustration vectorielle originale en perspective simulée 2,5D sans menu de navigation",
+      "attested": [
+        "Captages souterrains remontant à l'époque grecque",
+        "Six chambres de la fontaine",
+        "Façade romaine avec six baies cintrées à une phase documentée",
+        "Aménagements de bassin et marbres à plusieurs phases romaines",
+        "Pausanias II, 3, 2–3 décrit la fontaine au IIe siècle apr. J.-C."
+      ],
+      "hypothetical": [
+        "Combinaison graphique simplifiée d'éléments appartenant à différentes phases",
+        "Dimensions relatives, niveaux et couleurs",
+        "Organisation précise des alentours et personnages"
+      ],
+      "certainty": {
+        "structures": "élevée",
+        "datation_des_phases": "moyenne",
+        "état_visuel": "faible_à_moyenne"
+      },
+      "sources": [
+        "https://www.corinthcomputerproject.org/records/peirene-fountain/",
+        "https://www.theoi.com/Text/Pausanias2A.html"
+      ],
+      "historical_crosslinks": [
+        "/sites/corinthe.html#pirene",
+        "/reconstitutions-3d.html#cor-002",
+        "/grande-encyclopedie.html"
+      ]
+    },
+    {
+      "id": "SOU-001",
+      "slug": "sounion-temple-poseidon-440",
+      "region": "Attique",
+      "subregion": "Cap Sounion",
+      "site": "Sounion",
+      "monument": "Temple de Poséidon",
+      "period": "Vers 444–440 av. J.-C. (temple classique)",
+      "image": "/assets/reconstitutions/sounion-poseidon-440-av-jc.svg",
+      "image_type": "Illustration vectorielle originale en perspective 2,5D, sans éléments de navigation",
+      "attested": [
+        "Temple dorique périptère en marbre local (Agrileza), six colonnes en façade et treize par flanc",
+        "Temple classique succédant au projet archaïque détruit par les Perses en 480 av. J.-C.",
+        "Sanctuaire maritime aménagé sur un promontoire du cap Sounion"
+      ],
+      "hypothetical": [
+        "Élévation complète des structures manquantes et partie de la couverture",
+        "Teintes et détails décoratifs de la restitution",
+        "Profil des falaises et proportions de la perspective non métriques"
+      ],
+      "certainty": {
+        "implantation": "élevée",
+        "plan_colonnade": "élevée",
+        "restitution_toit": "moyenne",
+        "couleurs_et_paysage": "faible"
+      },
+      "sources": [
+        "https://perseus-aa.github.io/items/aa_373.html",
+        "https://sounion.ancientathens3d.com/sanctuary_of_poseidon/"
+      ],
+      "historical_crosslinks": [
+        "/sites/sounion.html#poseidon",
+        "/reconstitutions-3d.html#sou-001",
+        "/mythologie-grecque.html"
+      ]
+    },
+    {
+      "id": "SOU-002",
+      "slug": "sounion-temple-athena-sounias",
+      "region": "Attique",
+      "subregion": "Cap Sounion",
+      "site": "Sounion",
+      "monument": "Temple d'Athéna Sounias",
+      "period": "Ve siècle av. J.-C. (datation approximative vers 470–450 av. J.-C. ; colonnade possiblement postérieure)",
+      "image": "/assets/reconstitutions/sounion-athena-ve-siecle.svg",
+      "image_type": "Illustration vectorielle originale en perspective 2,5D, non métrique et sans menu de site",
+      "attested": [
+        "Temple ionique au plan exceptionnel, colonnade seulement sur les côtés sud et est (en L)",
+        "Cella approximativement 16,4 × 11,6 m avec quatre supports internes",
+        "Sanctuaire distinct de celui de Poséidon, environ 500 m au nord-est"
+      ],
+      "hypothetical": [
+        "Restitution volumétrique de l'élévation et de la couverture",
+        "Phase exacte associée aux colonnes de l'image et interprétation de leur insertion",
+        "Coloris, paysage reconstitué et position des détails architecturaux"
+      ],
+      "certainty": {
+        "plan": "élevée",
+        "chronologie_architecturale": "moyenne",
+        "élévation": "faible_à_moyenne",
+        "polychromie": "faible"
+      },
+      "sources": [
+        "https://perseus-aa.github.io/items/aa_372.html",
+        "https://sounion.ancientathens3d.com/sanctuary-of-athena/"
+      ],
+      "historical_crosslinks": [
+        "/sites/sounion.html#athena",
+        "/reconstitutions-3d.html#sou-002",
+        "/mythologie-grecque.html"
+      ]
+    },
+    {
+      "id": "AEG-001",
+      "slug": "egine-aphaia-temple-500",
+      "region": "Îles grecques",
+      "subregion": "Golfe Saronique",
+      "site": "Égine — sanctuaire d'Aphaia",
+      "monument": "Temple dorique d'Aphaia",
+      "period": "Vers 500–490 av. J.-C.",
+      "image": "/assets/reconstitutions/egine-aphaia-temple-500-av-jc.svg",
+      "image_type": "Dessin vectoriel original en perspective simulée 2,5D, sans menu ni modèle 3D interactif",
+      "attested": [
+        "Péristyle dorique 6 × 12 (32 colonnes)",
+        "Stylobate approximativement 28,8 × 13,7 mètres",
+        "Sanctuaire réaménagé au début du Ve siècle av. J.-C."
+      ],
+      "hypothetical": [
+        "Toiture et couleurs restituées",
+        "Relief, végétation et disposition exacte des aménagements illustrés",
+        "Perspective non métrique"
+      ],
+      "certainty": {
+        "plan": "élevée",
+        "ordre_et_colonnade": "élevée",
+        "toiture": "moyenne",
+        "polychromie_et_paysage": "faible"
+      },
+      "sources": [
+        "https://www.hh.gr/en/destinations/aphaia-temple/",
+        "https://webhelper.brown.edu/joukowsky/courses/greekpast/4775.html",
+        "https://perseus-aa.github.io/items/aa_3876.html"
+      ],
+      "historical_crosslinks": [
+        "/sites/egine-aphaia.html#architecture",
+        "/reconstitutions-3d.html#aeg-001",
+        "/mythologie-grecque.html"
+      ]
+    },
+    {
+      "id": "AEG-002",
+      "slug": "egine-aphaia-frontons-troie",
+      "region": "Îles grecques",
+      "subregion": "Golfe Saronique",
+      "site": "Égine — sanctuaire d'Aphaia",
+      "monument": "Frontons à sujet troyen (schéma, non une copie)",
+      "period": "Vers 500–480 av. J.-C. ; styles et phases distincts",
+      "image": "/assets/reconstitutions/egine-aphaia-fronton-sculpte.svg",
+      "image_type": "Schéma iconographique original vectoriel ; dessin des guerriers non archéologiquement positionnel",
+      "attested": [
+        "Athéna centrale dans les scènes de bataille de Troie",
+        "Sculptures des frontons conservées à la Glyptothèque de Munich",
+        "Passage du style archaïque au premier style classique"
+      ],
+      "hypothetical": [
+        "Postures, nombres et positions des personnages dans le dessin",
+        "Formes des costumes et des équipements",
+        "Palette de couleurs de la scène originale MYTHOS"
+      ],
+      "certainty": {
+        "themes": "élevée",
+        "existence_des_statues": "élevée",
+        "dessin_et_agencement": "faible",
+        "couleurs": "faible"
+      },
+      "sources": [
+        "https://museum.classics.cam.ac.uk/collections/casts/aegina-pediments",
+        "https://www.hh.gr/en/destinations/aphaia-temple/",
+        "https://digitalmuret.inha.fr/s/digital-muret/agorha/258592"
+      ],
+      "historical_crosslinks": [
+        "/sites/egine-aphaia.html#frontons",
+        "/reconstitutions-3d.html#aeg-002",
+        "/mythologie-grecque.html"
+      ]
+    },
+    {
+      "id": "DOD-001",
+      "slug": "dodone-theatre-pyrrhus-debut-iiie",
+      "region": "Épire",
+      "subregion": "Dodone, bassin de Ioannina",
+      "site": "Dodone",
+      "monument": "Grand théâtre",
+      "period": "Début du IIIe siècle av. J.-C., règne de Pyrrhus d'Épire (297–272 av. J.-C.) ; état initial schématique",
+      "image": "/assets/reconstitutions/dodone-theatre-pyrrhus-iiie-siecle.svg",
+      "image_type": "Illustration numérique vectorielle originale 2,5D non métrique ; ni modèle 3D interactif ni photographie",
+      "attested": [
+        "Grand théâtre à trois niveaux de gradins construit au début du IIIe siècle av. J.-C.",
+        "Aménagement du koilon sur la pente et des parties sur des remblais soutenus par de grands murs",
+        "Escaliers rayonnants, orchestra et bâtiment de scène, plusieurs phases de construction",
+        "Capacité approximative 15 000–17 000 places selon le ministère grec de la Culture"
+      ],
+      "hypothetical": [
+        "Nombre et découpage des rangées dans le dessin ; dessin non métrique",
+        "Volume et façade de scène schématiques, sans attribution à une phase de restauration précise",
+        "Couleurs, personnages, relief lointain, végétation et teintes"
+      ],
+      "certainty": {
+        "plan_ensemble": "élevée",
+        "chronologie_de_construction": "élevée",
+        "scene_en_elevation": "faible_à_moyenne",
+        "couleurs_et_paysage": "faible"
+      },
+      "sources": [
+        "https://culturalegnatia.culture.gov.gr/en/route-stops/dodona/",
+        "https://allofgreeceone.culture.gov.gr/en/venues/ancient-theatre-of-dodoni-ioannina/",
+        "https://diazoma.gr/en/theaters/ancient-theater-of-dodona/"
+      ],
+      "historical_crosslinks": [
+        "/sites/dodone.html#theatre",
+        "/reconstitutions-3d.html#dod-001",
+        "/grande-encyclopedie.html"
+      ],
+      "publication_note": "SVG original publié dans le dépôt MYTHOS ; planche photoréaliste créée séparément dans la conversation, non mise en ligne."
+    },
+    {
+      "id": "DOD-002",
+      "slug": "dodone-hiera-oikia-chene-oraculaire",
+      "region": "Épire",
+      "subregion": "Dodone, bassin de Ioannina",
+      "site": "Dodone",
+      "monument": "Hiéra Oikia et chêne de Zeus Naios",
+      "period": "Petit temple du IVe siècle av. J.-C. ; enceinte et portiques ioniques attribués au programme de Pyrrhus au début du IIIe siècle av. J.-C.",
+      "image": "/assets/reconstitutions/dodone-hiera-oikia-chene-pyrrhus.svg",
+      "image_type": "Illustration numérique vectorielle originale en perspective simulée 2,5D, sans menu de navigation",
+      "attested": [
+        "Chêne oraculaire au cœur de la zone cultuelle de Zeus Naios",
+        "Premier petit temple en pierre au début du IVe siècle av. J.-C.",
+        "Agrandissement de l'enceinte et portiques ioniques sur les côtés nord, ouest et sud sous Pyrrhus",
+        "Côté oriental laissé ouvert près de l'arbre ; reconstructions postérieures à 219 av. J.-C. distinctes"
+      ],
+      "hypothetical": [
+        "Apparence et ampleur du chêne ancien",
+        "Élévations des portiques, couverture et style de polychromie",
+        "Orientation graphique et dimensions des édifices, mobilier, végétation et perspective non métriques"
+      ],
+      "certainty": {
+        "implantation_du_sanctuaire": "élevée",
+        "phases_et_plan_general": "élevée",
+        "elevations": "faible_à_moyenne",
+        "apparence_du_chene": "faible"
+      },
+      "sources": [
+        "https://culturalegnatia.culture.gov.gr/en/route-stops/dodona/",
+        "https://perseus-aa.github.io/items/aa_3892.html"
+      ],
+      "historical_crosslinks": [
+        "/sites/dodone.html#zeus",
+        "/reconstitutions-3d.html#dod-002",
+        "/mythologie-grecque.html"
+      ],
+      "publication_note": "SVG schématique original publié dans le dépôt ; ne pas confondre avec une restitution archéologique métrique."
+    },
+    {
+      "id": "BRA-001",
+      "slug": "brauron-temple-artemis-ve-siecle",
+      "region": "Attique",
+      "subregion": "Brauron, côte orientale de l’Attique",
+      "site": "Brauron",
+      "monument": "Temple d’Artémis",
+      "period": "Fondations et plan attribués à l'époque archaïque tardive et classique ; état schématique du Ve siècle av. J.-C.",
+      "image": "/assets/reconstitutions/brauron-temple-artemis-ve-siecle.svg",
+      "image_type": "Illustration SVG originale, perspective 2,5D non métrique, sans menus, distincte de la planche photoréaliste générée en conversation",
+      "attested": [
+        "Plan d'environ 19,20 × 10,35 mètres ; cella et pronaos distyle in antis",
+        "Temple établi sur une terrasse, entrée vers l'est",
+        "Adyton ou espace arrière identifié dans l'analyse architecturale ; interprétation cultuelle discutée"
+      ],
+      "hypothetical": [
+        "Hauteur des murs, charpente, couverture et coloris",
+        "Apparence de la statue cultuelle, si figurée par l'artiste",
+        "Détails de paysage, végétation, proportions de la perspective"
+      ],
+      "certainty": {
+        "implantation": "élevée",
+        "plan": "élevée",
+        "datation_precise_des_phases": "moyenne",
+        "elevation_et_toiture": "faible_à_moyenne",
+        "couleurs": "faible"
+      },
+      "sources": [
+        "https://www.efaanat.gr/index.php/portfolio/iero-artemidos/",
+        "https://perseus-aa.github.io/items/aa_3886.html",
+        "https://perseus-aa.github.io/items/aa_93.html"
+      ],
+      "historical_crosslinks": [
+        "/sites/brauron.html#temple",
+        "/reconstitutions-3d.html#bra-001",
+        "/mythologie-grecque.html"
+      ],
+      "publication_note": "SVG publié dans le dépôt GitHub. La planche photoréaliste produite dans la conversation n'a pas été chargée dans le dépôt."
+    },
+    {
+      "id": "BRA-002",
+      "slug": "brauron-stoa-425-av-jc",
+      "region": "Attique",
+      "subregion": "Brauron, côte orientale de l’Attique",
+      "site": "Brauron",
+      "monument": "Stoa classique de l’Artémision",
+      "period": "Vers 425–416 av. J.-C. ; aile nord documentée, ailes latérales non achevées",
+      "image": "/assets/reconstitutions/brauron-stoa-425-av-jc.svg",
+      "image_type": "Illustration originale SVG en perspective simulée 2,5D, sans menus ni relevé tridimensionnel scientifique",
+      "attested": [
+        "Stoa en Π autour de la cour sur les côtés ouest, nord et est",
+        "Onze colonnes doriques sur l'aile nord, d'environ 29,19 m de long",
+        "Salles de repas derrière les colonnades nord et ouest ; neuf salles relevées",
+        "Ailes occidentale et orientale demeurées inachevées selon les études architecturales"
+      ],
+      "hypothetical": [
+        "Toitures, élévations exactes et mobilier des pièces",
+        "Présentation en ruine basse des ailes inachevées, solution graphique non métrique",
+        "Rôle d'hébergement des jeunes filles non démontré par le plan seul",
+        "Végétation, teintes et topographie de la scène"
+      ],
+      "certainty": {
+        "implantation_et_plan": "élevée",
+        "nombre_de_colonnes_nord": "élevée",
+        "etat_d_achevement": "élevée",
+        "fonction_de_logement": "hypothétique",
+        "elevations_et_couleurs": "faible"
+      },
+      "sources": [
+        "https://www.efaanat.gr/index.php/portfolio/iero-artemidos/",
+        "https://perseus-aa.github.io/items/aa_3886.html",
+        "https://perseus-aa.github.io/items/aa_91.html"
+      ],
+      "historical_crosslinks": [
+        "/sites/brauron.html#stoa",
+        "/reconstitutions-3d.html#bra-002",
+        "/mythologie-grecque.html"
+      ],
+      "publication_note": "Le SVG est l'illustration publiée; la planche photoréaliste originale n'a pas été chargée sur le site."
+    },
+    {
+      "id": "MES-001",
+      "slug": "messene-asklepieion-210",
+      "region": "Péloponnèse",
+      "subregion": "Messénie",
+      "site": "Messène antique",
+      "monument": "Asclépiéion — cour à portiques et temple central",
+      "period": "Fin du IIIe siècle av. J.-C. ; grand programme après 215/214 av. J.-C.",
+      "image": "/assets/reconstitutions/messene-asklepieion-210-av-jc.svg",
+      "image_type": "Illustration vectorielle originale en perspective simulée 2,5D, non métrique, sans menu",
+      "attested": [
+        "Cour d'environ 71,91 × 66,67 m bordée de quatre portiques à colonnes corinthiennes",
+        "Temple dorique périptère 6 × 12, environ 13,67 × 27,94 m, avec entrée orientale",
+        "Autel à l'est du temple et lieux de représentation civique autour de la cour",
+        "Programme monumental mis en place après les événements de 215/214 av. J.-C."
+      ],
+      "hypothetical": [
+        "Allure globale des couvertures, pigments, volumes latéraux et dimensions relatives des portiques",
+        "Apparence et nombre de figures humaines ; paysage et décoration",
+        "Perspective oblique volontairement non métrique, non exploitable pour mesurer le site"
+      ],
+      "certainty": {
+        "plan": "élevée",
+        "ordre_et_colonnades": "élevée",
+        "datation": "élevée à moyenne",
+        "elevations": "moyenne",
+        "couleurs": "faible"
+      },
+      "sources": [
+        "https://www.efamess.gr/en/pois/asklipieio-archaia-messini/",
+        "https://www.ancientmessene.gr/en/asklepieion-complex/",
+        "https://www.jstage.jst.go.jp/article/aija/74/636/74_636_479/_article/-char/en"
+      ],
+      "historical_crosslinks": [
+        "/sites/messene.html#asklepieion",
+        "/reconstitutions-3d.html#mes-001",
+        "/grande-encyclopedie.html"
+      ],
+      "publication_note": "SVG vectoriel original publié dans le dépôt ; la planche photoréaliste créée dans ChatGPT n'est pas incluse à cet enregistrement."
+    },
+    {
+      "id": "MES-002",
+      "slug": "messene-stade-gymnase-iiie-siecle",
+      "region": "Péloponnèse",
+      "subregion": "Messénie",
+      "site": "Messène antique",
+      "monument": "Stade, gymnase et palestre",
+      "period": "Développement initial au IIIe siècle av. J.-C. ; modifications ultérieures hellénistiques et romaines",
+      "image": "/assets/reconstitutions/messene-stade-gymnase-iiie-siecle.svg",
+      "image_type": "Illustration vectorielle originale en perspective simulée 2,5D, non métrique, sans menu",
+      "attested": [
+        "Extrémité septentrionale du stade en fer à cheval et gradins de pierre",
+        "Dix-huit rangées de sièges dans le secteur nord",
+        "Trois portiques doriques associés au gymnase, dont un portique nord double",
+        "Palestre approximativement carrée (environ 30 m de côté), avec cour péristyle et pièces adjacentes"
+      ],
+      "hypothetical": [
+        "État architectural complet choisi comme évocation du IIIe siècle av. J.-C. sans reconstituer les remaniements romains",
+        "Toitures, élévations, surfaces, végétation et personnages",
+        "Orientation et forme en perspective schématisées, non un relevé photogrammétrique"
+      ],
+      "certainty": {
+        "organisation_generale": "élevée",
+        "gradins": "élevée",
+        "portiques": "élevée",
+        "toitures_et_elevations": "faible à moyenne",
+        "representations": "faible"
+      },
+      "sources": [
+        "https://www.efamess.gr/en/pois/gymnasio-stadio-archaia-messini/",
+        "https://www.ancientmessene.gr/en/middle-school-stadium-gymnasium-complex/",
+        "https://ajaonline.org/article/4378/"
+      ],
+      "historical_crosslinks": [
+        "/sites/messene.html#stade-gymnase",
+        "/reconstitutions-3d.html#mes-002",
+        "/grande-encyclopedie.html"
+      ],
+      "publication_note": "SVG original en perspective 2,5D ; les statues et autres décors spécifiques non conservés ne sont pas revendiqués comme attestés."
+    },
+    {
+      "id": "BAS-001",
+      "slug": "bassae-apollon-epikourios-temple-dorique",
+      "region": "Péloponnèse",
+      "subregion": "Arcadie antique — secteur de Phigalie (administration actuelle : Messénie)",
+      "site": "Bassae",
+      "monument": "Temple d’Apollon Épikourios — extérieur",
+      "period": "Fin du Ve siècle av. J.-C., généralement vers 420–400 av. J.-C. (datations discutées)",
+      "image": "/assets/reconstitutions/bassae-apollon-exterieur-ve-siecle.svg",
+      "image_type": "Illustration vectorielle originale en perspective simulée 2,5D ; non métrique et non interactive",
+      "attested": [
+        "Temple dorique périptère, six colonnes en façade et quinze sur les grands côtés (38 colonnes au total)",
+        "Orientation générale nord–sud avec entrée principale au nord et ouverture orientale vers l'adyton",
+        "Stylobate d'environ 38,24 × 14,48 mètres ; calcaire local gris",
+        "Sanctuaire rural d'Apollon Épikourios, inscrit au patrimoine mondial depuis 1986"
+      ],
+      "hypothetical": [
+        "Hauteur exacte de l'élévation complète, appareillages restitués et couverture",
+        "Polychromie, aménagements périphériques et végétation",
+        "Perspective et relief du paysage simplifiés, non métriques"
+      ],
+      "certainty": {
+        "plan": "élevée",
+        "colonnade": "élevée",
+        "paysage": "faible",
+        "toitures_et_couleurs": "faible_à_moyenne"
+      },
+      "sources": [
+        "https://whc.unesco.org/fr/list/392/",
+        "https://apollotemple.ilia-olympia.org/en/home-2/",
+        "https://perseus-aa.github.io/items/aa_88.html",
+        "https://www.theoi.com/Text/Pausanias8C.html"
+      ],
+      "historical_crosslinks": [
+        "/sites/bassae.html#architecture",
+        "/reconstitutions-3d.html#bas-001",
+        "/grande-encyclopedie.html"
+      ],
+      "publication_note": "SVG publié en dépôt si commit validé ; planche photoréaliste conversationnelle distincte et non transférée au dépôt."
+    },
+    {
+      "id": "BAS-002",
+      "slug": "bassae-cella-ionique-colonne-corinthienne",
+      "region": "Péloponnèse",
+      "subregion": "Arcadie antique — Phigalie",
+      "site": "Bassae",
+      "monument": "Cella, frise ionique et accès à l’adyton",
+      "period": "Fin du Ve siècle av. J.-C., probablement vers 420–400 av. J.-C.",
+      "image": "/assets/reconstitutions/bassae-cella-ionique-corinthien.svg",
+      "image_type": "Schéma vectoriel de coupe perspective 2,5D, non métrique, sans modèle interactif",
+      "attested": [
+        "Cella avec cinq supports ioniques engagés dans les murs sur chaque côté",
+        "Colonne d'axe à chapiteau corinthien parmi les plus anciens attestés, au passage vers l'adyton",
+        "Frise ionique à reliefs de combats mythologiques (Grecs et Amazones ; Lapithes et Centaures)",
+        "Ouverture secondaire vers l'est dans la zone de l'adyton, interprétation fonctionnelle discutée"
+      ],
+      "hypothetical": [
+        "Disposition et continuité dessinées du décor, couleurs et hauteur des élévations",
+        "Perspective visuelle simplifiée qui ne remplace pas le plan de fouille",
+        "Destination exacte de l'adyton, statue éventuelle et éclairage précis inconnus"
+      ],
+      "certainty": {
+        "ordre_et_supports": "élevée",
+        "emplacement_frise": "élevée",
+        "polychromie": "faible",
+        "ambiance_et_fonction": "hypothétique"
+      },
+      "sources": [
+        "https://whc.unesco.org/fr/list/392/",
+        "https://apollotemple.ilia-olympia.org/en/home-2/",
+        "https://perseus-aa.github.io/items/aa_88.html",
+        "https://museum.classics.cam.ac.uk/collections/casts/bassae-temple-apollo-epikourios-frieze"
+      ],
+      "historical_crosslinks": [
+        "/sites/bassae.html#interieur",
+        "/reconstitutions-3d.html#bas-002",
+        "/mythologie-grecque.html"
+      ],
+      "publication_note": "Schéma numérique original ; le chapiteau et les scènes de la frise sont stylisés, sans reproduire leurs reliefs à l'identique."
+    }
+  ]
+}

@@ -1,0 +1,306 @@
+# MYTHOS — LES ORIGINES DU SACRÉ
+## Tome XXIX — Les arbres sacrés, les bois divins et les jardins de l'immortalité
+### Chapitres 371 à 378 — Édition de travail du 1er novembre 2026
+
+**Statut :** manuscrit rédigé, non publié sur WordPress. **Continuité :** le tome XXVIII s'achevait au chapitre 370. Cette livraison couvre exclusivement les chapitres 371 à 378. La numérotation de cette série ne doit pas être confondue avec celle des autres éditions parallèles de MYTHOS.
+
+### Problématique générale
+
+Pourquoi un arbre devient-il oracle, image de souveraineté, figure du cosmos, réserve d'immortalité ou centre d'un sanctuaire ? La réponse ne peut pas être une « religion universelle de l'arbre ». L'enquête distinguera quatre réalités souvent confondues : **l'arbre vivant** auquel sont associés des gestes cultuels ; **l'arbre raconté** dans les mythes ; **l'arbre figuré** sur un objet ou un monument ; enfin **le bois** comme matière première transformée en instrument rituel. La ressemblance formelle ne prouve ni identité de croyance ni filiation historique.
+
+---
+
+# CHAPITRE 371 — GRÈCE : LE CHÊNE DE DODONE, L'OLIVIER D'ATHÉNA ET LES BOIS CONSACRÉS
+
+## 371.1. L'arbre qui donne voix à Zeus
+
+À Dodone, en Épire, la singularité du sanctuaire réside dans l'association entre Zeus, un chêne et une institution divinatoire. Dans l'*Iliade* XVI, 233-235, Achille invoque Zeus Dodonéen, dont les ministres, les Selloi, sont décrits comme vivant selon des règles inhabituelles. Le poème n'offre pas un manuel des techniques de consultation : il atteste surtout l'ancienneté littéraire du prestige de Dodone. Hérodote, *Histoires* II, 54-57, rapporte deux récits sur l'origine de l'oracle. Les prêtres égyptiens évoquent des femmes emmenées de Thèbes ; les prêtresses de Dodone racontent l'arrivée de colombes, dont l'une se pose sur un chêne et annonce la fondation du sanctuaire. Hérodote propose une interprétation rationalisante de ces « colombes » comme des femmes étrangères dont la parole aurait d'abord semblé incompréhensible.
+
+Le mot grec *phēgós* désigne le chêne dans ce contexte, mais la précision botanique des arbres antiques ne doit pas être déduite automatiquement de nos classifications modernes. La tradition fait du végétal un support de communication, non nécessairement une divinité indépendante. On rencontre souvent l'affirmation selon laquelle les prêtres auraient systématiquement « lu le vent dans les feuilles ». Les sources antiques parlent effectivement de l'arbre et de signes, mais elles ne livrent pas un protocole univoque valable à toutes les époques. Le bruit des feuillages, les oiseaux, les objets sonores et la médiation sacerdotale appartiennent à une histoire interprétative complexe.
+
+L'archéologie apporte un correctif majeur. Des milliers de petites lamelles de plomb retrouvées à Dodone portent des questions concrètes adressées à la divinité : mariage, descendance, voyages, activités économiques, choix religieux. Leur existence est une preuve directe de consultations écrites, non une simple illustration des légendes sur les colombes. Les éditions d'Éric Lhôte et les travaux d'Esther Eidinow ont montré combien l'oracle était intégré aux incertitudes ordinaires de la vie grecque. Le chêne n'efface donc pas les médiations humaines et documentaires : le sanctuaire articule nature, écriture, institution et décision.
+
+## 371.2. L'olivier d'Athéna : un arbre politique
+
+L'olivier sacré de l'Acropole d'Athènes possède une autre fonction. Hérodote VIII, 55 rapporte qu'après l'incendie de l'Acropole par les Perses en 480 avant notre ère, un rejet aurait poussé sur le tronc dès le lendemain. Le passage associe l'arbre au conflit mythique entre Athéna et Poséidon pour la possession de l'Attique. Pausanias I, 27, 2 évoque également l'olivier et la tradition de son renouvellement. L'historien doit séparer le témoignage d'une tradition civique, l'existence d'un arbre consacré dans le sanctuaire et la vérification botanique d'une repousse miraculeuse : les deux premières sont documentées, la dernière relève du récit religieux.
+
+L'olivier représente à la fois une ressource méditerranéenne et un signe d'identité athénienne. Son huile éclaire, nourrit, parfume et entre dans certaines distributions civiques. Mais expliquer son sacré par sa seule utilité économique serait réducteur. L'arbre s'inscrit dans la mémoire de la cité, dans les conflits de souveraineté entre dieux et dans la continuité du territoire après la guerre. Les *moriai*, oliviers protégés dans l'Attique, rappellent aussi que la sacralité pouvait entraîner des contraintes juridiques sur l'exploitation végétale.
+
+## 371.3. Le bois sacré comme frontière
+
+Les Grecs connaissent des *alsē* (singulier *alsos*), espaces boisés consacrés. Le bois des Euménides dans l'*Œdipe à Colone* de Sophocle est exemplaire : l'entrée d'Œdipe dans cet espace n'est pas une promenade forestière, mais une transgression possible d'interdits locaux, suivie de prescriptions et de négociations avec les habitants. Le théâtre fait apparaître une géographie normative : l'espace sacré ne se définit pas seulement par les arbres qui y poussent, mais par ce qu'il est permis d'y faire, d'y dire ou d'y déposer.
+
+Vernant permet ici de penser les relations entre territoire civique et présence divine ; Detienne rappelle qu'une fondation cultuelle doit être replacée dans des procédures historiques précises. Les arbres grecs ne remplissent pas une fonction unique : Dodone interroge l'avenir, l'Acropole conserve une mémoire politique, le bois des Euménides délimite un lieu redoutable.
+
+**État des connaissances.** Attesté : sources textuelles sur Dodone et l'Acropole ; lamelles oraculaires ; interdits associés à des espaces boisés. Discuté : mécanismes précis de l'oracle à toutes les périodes, identification continue de chaque arbre ancien. Hypothèse : la vitalité végétale offre un langage particulièrement efficace pour représenter la durée des institutions, sans en être la cause unique.
+
+**Sources primaires :** Homère, *Iliade* XVI, 233-235 ; Hérodote, *Histoires* II, 54-57 et VIII, 55 ; Pausanias I, 27, 2 ; Sophocle, *Œdipe à Colone*, notamment le début de la pièce.
+
+---
+
+# CHAPITRE 372 — MÉSOPOTAMIE : L'ARBRE D'INANNA ET L'EMBLÈME NÉO-ASSYRIEN
+
+## 372.1. Le halub d'Inanna : du végétal au mobilier divin
+
+Le récit sumérien *Gilgamesh, Enkidu et le monde infernal*, conservé dans des copies de l'époque paléo-babylonienne, contient un épisode célèbre, celui de l'arbre *halub* — souvent transcrit *huluppu*. Dans l'édition du corpus ETCSL, composition 1.8.1.4, lignes 27-46, un arbre arraché au bord de l'Euphrate est recueilli par Inanna, transporté dans son jardin à Uruk et entretenu pour devenir un siège et un lit. Un serpent s'installe à ses racines, l'oiseau Anzud dans ses branches et une figure féminine énigmatique dans son tronc. Gilgamesh chasse les occupants, coupe l'arbre et remet le bois à la déesse ; les lignes 136-150 décrivent la transformation en mobilier et en autres objets.
+
+Le récit ne doit pas être aplati en « arbre de vie » au sens d'une essence cosmique universelle. Son intrigue porte aussi sur la maîtrise d'un espace, l'occupation par des êtres indésirables et la transformation artisanale d'un arbre en objets de pouvoir. La nature botanique du *halub* demeure incertaine. De même, identifier sans réserve la figure du tronc à la Lilith des traditions juives beaucoup plus tardives serait une projection anachronique. Les jeux d'échos entre mondes céleste, terrestre et souterrain existent, mais l'objet de l'épisode est aussi très concret : produire un siège et un lit pour Inanna.
+
+## 372.2. Le motif figuré dans les palais assyriens
+
+À Nimrud, dans le palais nord-ouest d'Assurnasirpal II (IXe siècle avant notre ère), les reliefs présentent fréquemment un arbre stylisé entouré de personnages ailés. Le Metropolitan Museum of Art conserve plusieurs panneaux de cette série ; il insiste sur le caractère non botanique du motif et sur son association probable à l'abondance agricole, à la prospérité du royaume et à la protection du souverain. Un personnage peut tenir un seau et un objet conique. L'hypothèse d'une pollinisation symbolique du palmier-dattier est séduisante, mais l'objet conique est aussi associé à une terminologie de purification ; la signification précise de la scène reste débattue.
+
+Le contexte archéologique est décisif. Ces arbres ne se trouvent pas dans une forêt cultuelle, mais sur les murs d'un palais, au voisinage d'inscriptions royales et de figures protectrices. Leur répétition contribue à créer un environnement visuel qui affirme l'ordre et la sécurité du pouvoir. L'image végétale sert ici une représentation impériale ; elle ne démontre pas qu'un arbre vivant correspondant était adoré dans les mêmes conditions.
+
+## 372.3. Deux arbres qu'il ne faut pas confondre
+
+Le *halub* du récit d'Inanna et l'arbre stylisé des palais assyriens appartiennent à des périodes, des genres documentaires et des contextes différents. Le premier relève d'une narration mythique sumérienne, le second d'un programme iconographique néo-assyrien. Une continuité culturelle générale peut être discutée, mais l'identité entre les deux symboles n'est pas démontrée. Cette distinction constitue une règle méthodologique essentielle pour MYTHOS : le nom moderne « arbre de vie » peut masquer des objets historiques différents.
+
+**État des connaissances.** Attesté : composition sumérienne et passages sur l'arbre ; reliefs archéologiques de Nimrud ; figures ailées avec seau et cône. Discuté : essence du *halub*, signification exacte de l'arbre stylisé et du cône. Hypothèse : le végétal fournit une métaphore de la prospérité, transformée par l'art et les institutions palatiales.
+
+**Sources primaires :** *Gilgamesh, Enkidu et le monde infernal*, ETCSL 1.8.1.4, lignes 27-46 et 136-150 ; reliefs du palais d'Assurnasirpal II, Nimrud, notamment Metropolitan Museum 17.190.2079 et 32.143.3.
+
+---
+
+# CHAPITRE 373 — ÉGYPTE : LE SYCOMORE NOURRICIER ET L'ARBRE QUI INSCRIT LA ROYAUTÉ
+
+## 373.1. L'arbre comme nourricier du défunt
+
+Dans l'iconographie funéraire égyptienne, une déesse peut émerger d'un arbre pour donner au défunt de l'eau et de la nourriture. La figure est associée selon les contextes à Nout, Hathor ou d'autres puissances féminines. L'important n'est pas de supposer que tous les Égyptiens croyaient à une même « déesse-arbre », mais de reconnaître une opération figurée : la survie du défunt dépend d'un approvisionnement qui dépasse les capacités ordinaires des vivants.
+
+Une stèle de la Troisième Période intermédiaire conservée au Metropolitan Museum, représentant Tjanetdinetiset et Djedbastet, montre Nout dans l'arbre dispensant de l'eau à des défunts. Une situle cérémonielle d'époque ptolémaïque, inventaire 65.116, présente encore Nout sous une forme arborée, versant l'eau sur un personnage et son *ba*. Ces objets ne sont pas contemporains, mais attestent la persistance et la plasticité d'un langage iconographique. La déesse nourrit, abreuve et protège ; l'arbre sert de lieu d'apparition et de médiation.
+
+Cette imagerie est particulièrement révélatrice de la relation entre matière et survie. La tombe n'est pas seulement une chambre close ; elle peut être figurée comme un lieu où des ressources circulent entre mondes. Il ne faut pourtant pas confondre cette représentation avec une preuve que des arbres réels poussaient dans chaque tombe ou que toutes les scènes étaient reproduites lors de cérémonies.
+
+## 373.2. L'ished : inscrire la durée du roi
+
+Un autre ensemble de scènes met en jeu l'arbre *ished*, associé aux traditions héliopolitaines. Thot et des divinités liées à l'écriture inscrivent le nom ou les années de règne du souverain sur ses feuilles ou ses fruits. Le végétal n'est plus ici seulement nourricier : il fonctionne comme un support imagé de l'inscription du temps et de la légitimité royale. Les scènes se rencontrent dans des programmes monumentaux du Nouvel Empire et des périodes ultérieures. L'identification botanique exacte de l'*ished* reste discutée, et la désignation « persea » dans la littérature ancienne ne suffit pas à trancher toutes les questions d'espèce.
+
+Il convient de distinguer l'image du nom écrit sur l'arbre des annales royales réellement gravées dans la pierre. Les deux pratiques construisent une mémoire du règne, mais leurs statuts sont différents : l'une représente une confirmation divine, l'autre fixe un récit officiel des événements. L'historien ne peut pas en déduire que les noms étaient effectivement inscrits sur des feuilles vivantes lors de chaque couronnement.
+
+## 373.3. Le jardin et la maîtrise du vivant
+
+Les jardins des temples et des résidences égyptiennes réunissaient des fonctions économiques, esthétiques et parfois rituelles. L'archéobotanique, les plans de jardins et les représentations peintes permettent de documenter plantations, bassins et espèces cultivées. Mais le jardin royal ne constitue pas automatiquement une reconstitution du cosmos. Son interprétation doit reposer sur l'articulation des textes, des lieux et des usages. La littérature de référence d'Alix Wilkinson, *The Garden in Ancient Egypt*, offre un cadre pour distinguer jardins réels et jardins représentés.
+
+**État des connaissances.** Attesté : iconographie de Nout donnant de l'eau depuis un arbre ; scènes de l'*ished* associées à la durée royale ; jardins documentés. Discuté : identification botanique de l'*ished* et modalités des rites correspondant aux images. Hypothèse : les images arborées égyptiennes distribuent deux fonctions complémentaires, l'entretien posthume de la personne et la perpétuation du nom royal.
+
+**Sources primaires :** stèle de Tjanetdinetiset et Djedbastet, Metropolitan Museum 28.3.35 ; situle de Penmin, Metropolitan Museum 65.116 ; reliefs royaux de l'arbre *ished* à Karnak et dans les temples ramessides.
+
+---
+
+# CHAPITRE 374 — IRAN : L'ARBRE DE TOUTES LES SEMENCES, LE HŌM BLANC ET L'IMMORTALITÉ
+
+## 374.1. Une distinction fondamentale entre deux végétaux
+
+Les textes moyen-perses du zoroastrisme développent une cosmologie végétale d'une précision remarquable. Dans le *Bundahišn*, il faut distinguer **l'arbre de toutes les semences** (*wan ī harwisp-tōhmag*) du **Hōm blanc**, associé au *gōkirin* ou *gaokərəna*. Les résumer à un seul « arbre de vie perse » serait une erreur. Le premier rassemble les semences des plantes et participe à leur dispersion ; le second est lié à la préservation contre le vieillissement et à l'immortalité lors de la rénovation finale du monde.
+
+Dans l'exposé conservé par l'*Encyclopaedia Iranica*, les sections du *Bundahišn* 6D, 14C, 16 et 24A, selon les divisions éditoriales, articulent l'arbre des semences, la mer mythique, l'oiseau Sēn/Sīmorgh, la pluie et la menace d'une créature destructrice contre le Hōm blanc. Cette chaîne met en rapport botanique mythique, cycle hydrologique et eschatologie. Il ne s'agit pas d'un relevé naturaliste, mais d'un système savant expliquant la perpétuation et la restauration de la création.
+
+## 374.2. Le problème des couches textuelles
+
+La comparaison avec les traditions avestiques exige de respecter la chronologie. *Haoma* est un terme avestique, apparenté au sanskrit *soma*, désignant à la fois une plante et une réalité rituelle divinisée. Mais la cosmologie très développée des deux arbres de la mer est connue surtout par des textes moyen-perses transmis et organisés à une époque beaucoup plus tardive. La parenté indo-iranienne de *haoma* et *soma* n'autorise donc pas à attribuer tout le récit du *Bundahišn* aux premiers groupes indo-iraniens.
+
+Cette prudence est essentielle à l'étude comparée des religions : la conservation d'un mot ancien ne garantit pas la permanence de toutes les doctrines qui l'entourent. Les traditions peuvent réorganiser des matériaux hérités, y ajouter des figures et les intégrer à une conception renouvelée de la fin des temps.
+
+## 374.3. Le cyprès, la royauté et la mémoire
+
+La tradition iranienne connaît aussi des arbres particuliers, notamment le cyprès de Kāšmar, lié dans les récits ultérieurs à la conversion du roi Goštāsp. Ces traditions, transmises entre autres par le *Šāh-nāma*, ne sont pas des preuves directes de l'époque achéménide. Hérodote VII, 31 rapporte de son côté que Xerxès honora un platane remarquable en l'ornant et en lui assignant un gardien. Cette anecdote documente une représentation littéraire d'un geste royal envers un arbre ; elle ne suffit pas à définir un culte national du platane.
+
+L'Iran ancien et médiéval offre ainsi au moins trois registres : le végétal rituel (*haoma*), l'arbre cosmique des textes théologiques et l'arbre singulier associé à la mémoire royale ou locale. Leur rapprochement est fécond à condition de ne pas les confondre.
+
+**État des connaissances.** Attesté : textes moyen-perses distinguant arbre des semences et Hōm blanc ; parenté linguistique *haoma/soma* ; récit d'Hérodote sur le platane. Discuté : chronologie des doctrines, histoire exacte des sanctuaires arborés et botanique du *haoma*. Hypothèse : l'arbre devient un dispositif conceptuel pour penser simultanément la reproduction de la vie et sa restauration finale.
+
+**Sources primaires :** *Bundahišn* 6D, 14C, 16, 24A (numérotation selon édition) ; *Yasna* 9-11 pour le *haoma* ; Hérodote VII, 31 ; *Šāh-nāma* (épisode du cyprès de Kāšmar).
+
+---
+
+# CHAPITRE 375 — INDE : L'AŚVATTHA INVERSÉ, L'ARBRE DE L'ÉVEIL ET LA GÉOGRAPHIE DU SALUT
+
+## 375.1. Les racines en haut : un arbre conceptuel
+
+Dans la *Kaṭha Upaniṣad* II, 3, 1, l'*aśvattha* est décrit comme un arbre éternel dont les racines se trouvent en haut et les branches en bas. Le passage associe cette image au *brahman* et à l'immortalité. La *Bhagavadgītā* XV, 1-4 reprend l'image de l'arbre inversé, mais l'inscrit dans une exhortation à rompre l'attachement à l'ordre conditionné. Le même motif végétal peut donc représenter la dépendance du monde à un principe supérieur et devenir l'objet d'un geste philosophique de détachement.
+
+La philologie importe ici. *Aśvattha* désigne couramment *Ficus religiosa*, mais l'identification d'une espèce ne remplace pas l'analyse du passage. Dans ces textes, l'arbre est une construction cosmologique et doctrinale : nul ne doit chercher physiquement une plante dont les racines seraient suspendues au ciel. La verticalité est un langage des relations entre principe, manifestation et action.
+
+## 375.2. L'arbre de la bodhi : un lieu historique devenu mémorial
+
+Le figuier de la bodhi à Bodh Gaya appartient à une autre tradition. Le bouddhisme associe ce lieu à l'éveil du Bouddha. Les récits de sa vie et les monuments du sanctuaire ont connu une longue histoire ; les premiers aménagements monumentaux sont traditionnellement associés à Aśoka au IIIe siècle avant notre ère, tandis que le grand temple de brique actuel relève principalement des Ve-VIe siècles de notre ère. L'UNESCO distingue les vestiges, les reconstructions et l'arbre actuel, tenu pour un descendant de l'arbre originel.
+
+La continuité religieuse du lieu n'implique pas l'identité biologique d'un même tronc pendant plus de deux millénaires. C'est précisément cette différence qui rend le cas instructif : la sacralité peut être attachée à un emplacement, à une lignée végétale, à une mémoire narrative et à une communauté de pèlerins, sans dépendre de la survie ininterrompue d'un organisme.
+
+## 375.3. L'arbre sans image du Bouddha
+
+Dans certaines phases anciennes de l'art bouddhique, le siège vide, l'empreinte de pas ou l'arbre de l'éveil peuvent évoquer un événement de la vie du Bouddha sans recourir à sa représentation anthropomorphe. L'expression « art aniconique » demeure toutefois discutée : la présence d'un arbre ne signifie pas nécessairement une interdiction universelle de représenter le Bouddha. Les images doivent être replacées dans leurs contextes monumentaux, leurs inscriptions et leurs conventions visuelles.
+
+## 375.4. Un comparatisme limité
+
+L'arbre inversé des textes brahmaniques et le figuier de Bodh Gaya ne sont pas interchangeables. Le premier est un schème philosophique ; le second est un lieu de mémoire et de pèlerinage. Leur comparaison met en évidence une différence structurante : **penser le monde par l'arbre** n'est pas la même opération que **consacrer un arbre et un lieu par un événement fondateur**.
+
+**État des connaissances.** Attesté : passages précis de l'Upaniṣad et de la *Gītā* ; vestiges et histoire monumentale de Bodh Gaya. Discuté : modalités des représentations dites aniconiques et histoire botanique des arbres successifs. Hypothèse : le végétal peut servir à la fois d'outil conceptuel de métaphysique et de support matériel de mémoire religieuse.
+
+**Sources primaires :** *Kaṭha Upaniṣad* II, 3, 1 ; *Bhagavadgītā* XV, 1-4 ; monuments et inscriptions de Bodh Gaya.
+
+---
+
+# CHAPITRE 376 — CHINE : FUSANG, L'ARBRE DES SOLEILS ET LES PÊCHES DE L'IMMORTALITÉ
+
+## 376.1. Le mûrier de l'Orient
+
+Le *Shanhaijing* (*Classique des montagnes et des mers*), recueil composite transmis sous une forme élaborée à la fin de l'Antiquité chinoise, présente des paysages extraordinaires. Dans la section *Haiwai dong jing* (« Au-delà des mers de l'Est »), le Fusang est associé aux dix soleils : neuf occupent les branches inférieures et un les branches supérieures. Les récits voisins évoquent leur mouvement et leur relation avec les oiseaux. Le *Huainanzi*, notamment le chapitre *Tianwen xun*, propose une cosmographie du parcours solaire où intervient également Fusang.
+
+Ces textes ne sont pas des descriptions d'un arbre géographique observé. Leur intérêt réside dans la spatialisation du temps : l'alternance du jour et de la nuit est figurée comme un départ et un retour depuis un lieu végétal. L'arbre organise le mouvement des astres, mais sa fonction diffère radicalement de celle du chêne de Dodone, qui intervient dans des consultations individuelles.
+
+Les recherches de Vera Dorofeeva-Lichtmann sur la structure du *Shanhaijing* invitent à lire cette géographie comme une construction savante et stratifiée, plutôt que comme le reflet transparent d'une cosmologie chinoise unique et intemporelle.
+
+## 376.2. Xiwangmu et le jardin des pêches
+
+La Reine Mère de l'Ouest, Xiwangmu, occupe une place majeure dans les traditions chinoises de longévité et d'immortalité. Dans des récits et images développés à différentes périodes, son domaine est associé à des pêches merveilleuses. Le motif de Dongfang Shuo dérobant ces fruits est notamment attesté dans l'art postérieur ; une tapisserie de la dynastie Ming conservée au Metropolitan Museum illustre cette tradition.
+
+Il serait anachronique de projeter l'ensemble de la légende des pêches, telle qu'elle apparaît dans des récits tardifs, sur tous les documents des Han. Les représentations de Xiwangmu se transforment : elle peut être une puissance redoutable, une figure d'immortalité, puis une souveraine de cour céleste. Le jardin des pêches appartient à cette histoire cumulative. La maturation extraordinairement longue des fruits exprime une temporalité différente de celle des humains ; ce n'est pas une donnée botanique.
+
+## 376.3. Arbres et tombeaux
+
+Dans l'art funéraire chinois, des représentations d'arbres, d'êtres immortels et de régions célestes peuvent accompagner les défunts. Les « arbres à monnaie » de certaines tombes des Han orientaux et des périodes proches illustrent l'articulation entre objet rituel, prospérité et espoir posthume. Mais il faut distinguer leur fonction archéologique de la mythologie du Fusang et des jardins de Xiwangmu. Une image d'arbre ne constitue pas automatiquement un « axe du monde ».
+
+**État des connaissances.** Attesté : passages du *Shanhaijing* et du *Huainanzi* ; iconographie de Xiwangmu et des pêches ; objets funéraires arborés. Discuté : datation et stratification des récits, signification précise des images selon les régions. Hypothèse : l'arbre fournit un modèle pour figurer des temporalités non humaines, du cycle solaire à l'immortalité.
+
+**Sources primaires :** *Shanhaijing*, *Haiwai dong jing* ; *Huainanzi*, *Tianwen xun* ; objets figurés chinois d'époque Han et postérieurs.
+
+---
+
+# CHAPITRE 377 — AFRIQUE ET AMÉRIQUES : BOIS SACRÉS YORUBA ET ARBRE COSMIQUE MAYA
+
+## 377.1. Osun-Osogbo : une forêt sacrée vivante
+
+La forêt sacrée d'Osun-Osogbo, dans le sud-ouest du Nigeria, est associée à la divinité Osun et à la rivière du même nom. Elle rassemble des lieux de culte, des parcours rituels, des sculptures et des espaces végétalisés protégés. La documentation de l'UNESCO, qui a inscrit le site au patrimoine mondial en 2005, insiste sur son caractère vivant et sur l'histoire récente de sa restauration artistique. Une partie importante des sculptures visibles est liée au mouvement des Nouveaux Artistes Sacrés et au travail de Suzanne Wenger au XXe siècle.
+
+Cette donnée n'affaiblit pas le caractère religieux du site : elle empêche simplement de traiter toutes les œuvres comme des objets archéologiques précoloniaux. Les pratiques contemporaines, les traditions orales et les transformations historiques doivent être étudiées ensemble. La forêt n'est pas seulement un décor : des interdits sur l'abattage, la chasse ou l'exploitation des ressources contribuent à la définir comme un territoire particulier. Les communautés entretiennent sa sacralité par des pratiques répétées, des institutions et un festival annuel.
+
+L'approche anthropologique évite ici une double erreur : réduire le bois à une « survivance primitive » ou en faire seulement une aire de conservation écologique. Il s'agit d'un lieu où s'articulent cosmologie yoruba, histoire urbaine, autorité, pratiques religieuses et protection du paysage.
+
+## 377.2. Palenque : l'arbre de la royauté maya
+
+Dans le monde maya classique, l'iconographie du Groupe de la Croix à Palenque fournit un ensemble exceptionnel. Le panneau du Temple de la Croix représente une structure végétale cruciforme interprétée comme un arbre cosmique ; un oiseau céleste apparaît à son sommet et un serpent bicéphale traverse ses bras. La documentation de la collection de dessins de Linda Schele, conservée et décrite par le LACMA, situe cette image au cœur d'une scène de légitimation royale associée à K'inich Kan B'alam II.
+
+La croix n'est pas ici une preuve de christianisation ancienne : sa forme appartient au vocabulaire iconographique maya. Mais la désignation moderne « arbre du monde » est une interprétation savante ; elle ne doit pas effacer les inscriptions dynastiques ni les objets rituels représentés. L'arbre participe à une mise en scène de l'accession au pouvoir, de la continuité ancestrale et des relations entre domaines cosmiques.
+
+## 377.3. La question botanique : ceiba, maïs ou nénuphar ?
+
+Le motif de l'arbre cosmique maya est fréquemment assimilé au ceiba (*Ceiba pentandra*), arbre majeur de nombreuses traditions mésoaméricaines. Cependant, J. Andrew McDonald, dans une étude de 2016 publiée dans *Ancient Mesoamerica*, a proposé que plusieurs motifs habituellement identifiés comme ceiba ou maïs correspondent mieux, sur le plan morphologique, à un nénuphar (*Nymphaea ampla*). Cette proposition ne remplace pas d'un coup toutes les identifications : elle montre que les catégories « arbre », « plante » et « axe cosmique » peuvent se recouvrir dans une iconographie stylisée.
+
+La prudence est d'autant plus nécessaire que les traditions mayas couvrent de nombreux siècles, régions et langues. Les croyances documentées à Palenque au VIIe siècle ne doivent pas être considérées comme identiques à toutes les traditions mayas contemporaines.
+
+## 377.4. Comparer sans déraciner
+
+La forêt d'Osun et l'arbre figuré de Palenque n'ont pas le même statut documentaire. Dans le premier cas, il s'agit d'un paysage cultuel vivant, avec des traditions orales et des pratiques observables. Dans le second, les preuves principales sont archéologiques, iconographiques et épigraphiques. Leur comparaison ne peut donc pas rechercher un même « culte primordial de l'arbre ». Elle peut en revanche étudier comment des communautés attachent une autorité religieuse à un paysage végétal ou à une image de croissance et de centralité.
+
+**État des connaissances.** Attesté : sanctuaires et cérémonies d'Osun-Osogbo ; reliefs et inscriptions du Temple de la Croix. Discuté : identification botanique de certains motifs mayas et profondeur historique de pratiques yoruba particulières. Hypothèse : l'image végétale et la forêt vivante peuvent fonctionner comme des lieux de médiation entre mémoire, territoire et autorité.
+
+**Sources primaires et matériaux :** patrimoine rituel vivant d'Osun-Osogbo ; panneau du Temple de la Croix à Palenque, dessin SD-170 de la collection Schele (LACMA) ; inscriptions du Groupe de la Croix.
+
+---
+
+# CHAPITRE 378 — PHILOSOPHIE COMPARÉE : L'ARBRE EST-IL UN AXE DU MONDE ?
+
+## 378.1. Une catégorie séduisante, mais dangereuse
+
+La formule « arbre cosmique » ou *axis mundi* promet de réunir Dodone, le Hōm iranien, l'*aśvattha* indien, le Fusang chinois et le motif maya. Cette opération peut avoir une valeur heuristique : un tronc vertical relie visuellement racines, terre et ciel ; un arbre vit plus longtemps que beaucoup d'individus ; ses cycles saisonniers rendent sensible la relation entre disparition et retour. Pourtant, la comparaison devient trompeuse lorsqu'elle prétend que tous ces exemples « signifient » la même chose.
+
+L'archéologie révèle des situations hétérogènes. Un relief assyrien n'est pas un arbre vivant ; une scène égyptienne d'offrande posthume n'est pas un oracle ; le figuier de Bodh Gaya n'est pas l'arbre inversé de la *Gītā*. Le bon comparatisme commence par une typologie des opérations, non par l'attribution d'une essence commune.
+
+## 378.2. Durkheim et la distinction du sacré
+
+Dans *Les Formes élémentaires de la vie religieuse* (1912), Émile Durkheim analyse les représentations religieuses comme des faits collectifs. Appliquée aux arbres, cette perspective rappelle qu'un chêne ne devient pas oracle du seul fait de ses caractéristiques biologiques : des institutions, des récits et des pratiques lui assignent un statut particulier. Le même raisonnement vaut pour les interdits d'une forêt sacrée. La puissance explicative de Durkheim réside dans la mise en relation des classifications et de la vie collective. Sa limite est de ne pas suffire à expliquer la spécificité philologique d'un passage avestique ou d'une inscription maya.
+
+## 378.3. Eliade : la hiérophanie et ses limites
+
+Mircea Eliade, notamment dans *Traité d'histoire des religions* (1949) et *Le Sacré et le Profane* (1957), décrit l'arbre comme une forme possible de manifestation du sacré, parfois liée à la régénération et au centre du monde. Ce modèle rend visibles des analogies réelles. Mais il tend à rapprocher des sociétés éloignées sans toujours rendre compte de leurs discontinuités historiques. L'historien doit vérifier si la centralité cosmique est effectivement attestée dans chaque corpus, au lieu de l'inférer de la seule verticalité du tronc.
+
+## 378.4. Vernant et Detienne : restituer les pratiques
+
+Jean-Pierre Vernant replace les images grecques dans les structures de la cité, du sacrifice, de la parenté et de la représentation. Le chêne de Dodone est ainsi indissociable de l'oracle et de ses consultants ; l'olivier d'Athéna appartient à la mémoire civique. Marcel Detienne, dans *Comparer l'incomparable* (2000), invite à construire des objets comparables à partir de questions circonscrites : qui délimite le bois ? Qui peut en prélever les branches ? Quel événement le consacre ? Qui parle au nom de la puissance présente ? Ces questions produisent un comparatisme contrôlable, beaucoup plus utile qu'une équivalence générale entre tous les arbres sacrés.
+
+## 378.5. Dumézil : une parenté n'est pas une identité
+
+Georges Dumézil a montré l'intérêt d'une comparaison des traditions indo-européennes lorsqu'elle s'appuie sur des correspondances linguistiques et des structures narratives. La parenté de *haoma* et *soma* offre un terrain pertinent. Mais elle ne démontre pas que l'arbre iranien des semences, l'arbre indien inversé et le chêne grec proviennent d'un même mythe ancestral. La comparaison dumézilienne ne doit pas devenir une machine à inventer des généalogies sans documents intermédiaires.
+
+## 378.6. Nietzsche, Hegel et la temporalité du vivant
+
+Chez Nietzsche, notamment dans *La Généalogie de la morale* (II), les relations de dette et de mémoire envers les ancêtres permettent de poser la question de la durée des institutions : un arbre consacré peut représenter une continuité plus longue que la vie de ceux qui le vénèrent. Il ne s'agit pas d'une théorie nietzschéenne du culte des arbres, mais d'un prolongement interprétatif qu'il faut annoncer comme tel. Hegel, dans ses réflexions sur la religion, l'art et la reconnaissance, aide à penser comment une matière naturelle reçoit une signification instituée. Toutefois, il serait abusif de présenter une théorie hégélienne détaillée du chêne de Dodone ou du ceiba maya : ces cas ne constituent pas des analyses directes du philosophe.
+
+## 378.7. Girard : le bois sacré n'est pas nécessairement sacrificiel
+
+René Girard a proposé une théorie puissante de la sacralisation et de la violence collective dans *La Violence et le Sacré* (1972). Certaines cérémonies autour d'arbres ou de bois peuvent comporter des sacrifices. Cela ne permet pas d'affirmer que l'origine de chaque sanctuaire arboré est un meurtre fondateur. Dodone est attesté comme lieu oraculaire, Bodh Gaya comme lieu de mémoire de l'éveil, Osun-Osogbo comme paysage cultuel vivant : leurs fonctions documentées ne se réduisent pas à un mécanisme victimaire.
+
+## 378.8. Une proposition méthodologique
+
+Pour MYTHOS, les arbres sacrés seront désormais comparés selon cinq questions : **(1)** s'agit-il d'un organisme, d'une image ou d'un récit ? **(2)** quelles opérations sont accomplies autour de lui ? **(3)** quelle autorité en garantit le caractère sacré ? **(4)** quelle temporalité représente-t-il : saison, règne, génération, éternité ou fin du monde ? **(5)** quels documents permettent de contrôler l'interprétation ? Cette méthode distingue les analogies morphologiques des ressemblances fonctionnelles et des filiations historiques.
+
+La thèse de ce tome peut alors être formulée sans universalisme abusif : **l'arbre n'est pas sacré partout pour la même raison, mais ses propriétés de croissance, de durée et de renouvellement offrent aux sociétés des ressources particulièrement fécondes pour instituer la mémoire, la puissance et le passage entre les mondes.** Cette conclusion est comparative et interprétative, non la découverte d'une religion préhistorique universelle.
+
+**État des connaissances.** Attesté : la pluralité des fonctions arborées dans les corpus étudiés. Controversé : la portée des modèles de l'*axis mundi* et les filiations entre traditions éloignées. Hypothèse : une typologie des opérations rituelles rend les comparaisons plus rigoureuses que la recherche d'un symbole universel.
+
+---
+
+# CONCLUSION GÉNÉRALE DU TOME XXIX
+
+Le parcours fait apparaître quatre transformations : **un arbre peut parler** dans une institution oraculaire ; **il peut figurer l'ordre** sur les monuments d'un royaume ; **il peut soutenir la mémoire ou l'immortalité** dans une théologie ; **il peut constituer un lieu de rassemblement et d'obligation** dans un paysage sacré. La diversité des fonctions interdit de supposer une évolution linéaire du « culte de l'arbre » vers des religions plus élaborées. Les matériaux littéraires, les images, les objets et les pratiques vivantes doivent être étudiés avec leurs méthodes propres.
+
+Le volume établit en particulier trois précautions : ne pas confondre l'arbre sumérien d'Inanna et l'emblème néo-assyrien ; distinguer l'arbre iranien de toutes les semences du Hōm blanc ; ne pas identifier automatiquement chaque arbre cosmique maya à un ceiba. Ces distinctions constituent des acquis éditoriaux à conserver dans le site MYTHOS.
+
+---
+
+# BIBLIOGRAPHIE CRITIQUE ET SOURCES CONTRÔLÉES
+
+## Sources primaires
+
+1. Homère, *Iliade*, XVI, 233-235 (invocation de Zeus Dodonéen).
+2. Hérodote, *Histoires*, II, 54-57 (Dodone) ; VII, 31 (platane de Xerxès) ; VIII, 55 (olivier de l'Acropole).
+3. Pausanias, *Description de la Grèce*, I, 27, 2.
+4. Sophocle, *Œdipe à Colone* (espace consacré aux Euménides).
+5. *Gilgamesh, Enkidu et le monde infernal*, ETCSL 1.8.1.4, lignes 27-46, 136-150, éd. University of Oxford : https://etcsl.orinst.ox.ac.uk/section1/tr1814.htm
+6. Reliefs du palais nord-ouest d'Assurnasirpal II à Nimrud, Metropolitan Museum, inv. 17.190.2079 et 32.143.3 : https://www.metmuseum.org/art/collection/search/322488 ; https://www.metmuseum.org/art/collection/search/322610
+7. Stèle de Tjanetdinetiset et Djedbastet, Metropolitan Museum : https://www.metmuseum.org/art/collection/search/550807
+8. Situle cérémonielle de Penmin, Metropolitan Museum, inv. 65.116 : https://www.metmuseum.org/art/collection/search/545871
+9. *Bundahišn*, passages 6D, 14C, 16 et 24A selon les divisions d'édition ; *Yasna* 9-11.
+10. *Kaṭha Upaniṣad*, II, 3, 1.
+11. *Bhagavadgītā*, XV, 1-4.
+12. *Shanhaijing*, *Haiwai dong jing* ; *Huainanzi*, *Tianwen xun*.
+13. Panneau du Temple de la Croix de Palenque, documentation Schele Drawing Collection, LACMA : https://www.ancientamericas.org/collection/aa010857
+
+## Travaux universitaires, musées et documentation institutionnelle
+
+14. Lhôte, Éric, *Les lamelles oraculaires de Dodone*, Genève, Droz, 2006.
+15. Eidinow, Esther, *Oracles, Curses, and Risk among the Ancient Greeks*, Oxford University Press, 2007.
+16. Parke, H. W., *The Oracles of Zeus: Dodona, Olympia, Ammon*, Oxford, Blackwell, 1967.
+17. Giovino, Mariana, *The Assyrian Sacred Tree: A History of Interpretations*, Fribourg/Göttingen, Academic Press/Vandenhoeck & Ruprecht, 2007.
+18. Metropolitan Museum of Art, notices des reliefs de Nimrud : https://www.metmuseum.org/art/collection/search/322488 et https://www.metmuseum.org/art/collection/search/322610
+19. Wilkinson, Alix, *The Garden in Ancient Egypt*, Londres, Rubicon Press, 1998.
+20. Alam, Houshang, « Tree », *Encyclopaedia Iranica*, vol. VII, fasc. 3, 1994, p. 316-319 : https://www.iranicaonline.org/articles/derakt/
+21. Boyce, Mary, *A History of Zoroastrianism*, vol. I, Leiden, Brill, 1975.
+22. UNESCO, « Ensemble du temple de la Mahabodhi à Bodhgaya » : https://whc.unesco.org/fr/list/1056/
+23. Dorofeeva-Lichtmann, Vera V., « Conception of Terrestrial Organization in the Shan Hai Jing », *Bulletin de l'École française d'Extrême-Orient*, 82, 1995, p. 57-110 : https://www.persee.fr/doc/befeo_0336-1519_1995_num_82_1_2297
+24. Metropolitan Museum of Art, « Immortal Holding a Peach » : https://www.metmuseum.org/art/collection/search/44059
+25. UNESCO, « Forêt sacrée d'Osun-Oshogbo » : https://whc.unesco.org/fr/list/1118/
+26. Schele, Linda et Freidel, David, *A Forest of Kings: The Untold Story of the Ancient Maya*, New York, William Morrow, 1990.
+27. McDonald, J. Andrew, « Deciphering the Symbols and Symbolic Meaning of the Maya World Tree », *Ancient Mesoamerica*, 27/2, 2016, p. 333-359, DOI 10.1017/S0956536116000249 : https://www.cambridge.org/core/journals/ancient-mesoamerica/article/abs/deciphering-the-symbols-and-symbolic-meaning-of-the-maya-world-tree/530CAF3C29A41A18B3D683A426C29A36
+28. Durkheim, Émile, *Les Formes élémentaires de la vie religieuse*, 1912.
+29. Eliade, Mircea, *Traité d'histoire des religions*, 1949 ; *Le Sacré et le Profane*, 1957.
+30. Vernant, Jean-Pierre, *Mythe et pensée chez les Grecs*, 1965.
+31. Detienne, Marcel, *Comparer l'incomparable*, Paris, Seuil, 2000.
+32. Dumézil, Georges, *Mythe et épopée*, 3 vol., Paris, Gallimard, 1968-1973.
+33. Nietzsche, Friedrich, *La Généalogie de la morale*, 1887.
+34. Hegel, G. W. F., *Leçons sur la philosophie de la religion* (cours publiés posthumément, différentes éditions).
+35. Girard, René, *La Violence et le Sacré*, 1972.
+
+**Note bibliographique :** les passages primaires et les notices institutionnelles accessibles ont été contrôlés pour les principaux exemples. Les ouvrages cités sans pagination précise sont des références de contextualisation et ne doivent pas être présentés comme des citations littérales. Pour une publication universitaire, vérifier les variantes de traduction, les références aux objets et les droits de reproduction des images.
+
+---
+
+# SUIVI ÉDITORIAL
+
+**Livraison achevée :** tome XXIX, chapitres 371, 372, 373, 374, 375, 376, 377 et 378.
+
+**Prochain tome XXX — chapitres 379 à 386 :** « Pierres sacrées, bétyles, météorites et images aniconiques ». Ouverture au chapitre 379 sur les pierres consacrées grecques : omphalos de Delphes, bétyles, pierres de frontière et débats sur les objets aniconiques. Poursuite en Anatolie, Mésopotamie, Égypte, Iran, Inde, Chine, Afrique et Amériques ; synthèse philosophique sur matière, présence et représentation.
+
+**Publication :** aucune écriture ni mise en ligne WordPress réalisée dans cette livraison. Aucun usage de Floot.

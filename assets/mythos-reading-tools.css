@@ -1,0 +1,8 @@
+/* Shared reading shortcuts: real links, no JavaScript and no hidden source text. */
+.mythos-reading-tools{display:flex;flex-wrap:wrap;gap:10px;margin:0 0 28px;padding:0 0 22px;border-bottom:1px solid #65533a}
+.mythos-reading-tools a{display:inline-flex;align-items:center;min-height:44px;padding:9px 15px;border:1px solid #65533a;font:13px/1.5 Arial,sans-serif;text-decoration:none;background:#141b1d}
+.mythos-reading-tools a:hover,.mythos-reading-tools a:focus-visible{background:#24251f;border-color:#d0ae75}
+.dai-reader .dai-sidebar li a{min-height:44px}
+.dai-reader .dai-article p a{overflow-wrap:anywhere}
+@media(max-width:540px){.mythos-reading-tools{display:grid;grid-template-columns:1fr;gap:7px}.mythos-reading-tools a{justify-content:center}.dai-reader .dai-sidebar details nav{max-height:225px}}
+@media print{.mythos-reading-tools{display:none}.dai-reader .dai-article hr{border:0;border-top:1px solid #999}}
