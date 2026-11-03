@@ -1,5 +1,5 @@
 {
-  "policy": "first_confirmed_commit_per_number; later_parallel_texts_are_preserved_complements",
+  "policy": "first_confirmed_commit_per_number; explicit_historical_aliases; recovered_shipwreck_study_580",
   "canonical": {
     "451": "/chapitres/origines-du-sacre/451-platon-mania-divine-inspiration/",
     "452": "/chapitres/origines-du-sacre/452-delphes-pythie-parole-oraculaire/",
@@ -130,27 +130,36 @@
     "577": "/chapitres/origines-du-sacre/577-monnaies-funeraires-charon-preuves-archeologiques/",
     "578": "/chapitres/origines-du-sacre/578-etapes-hebergement-infrastructures-sanctuaires/",
     "579": "/chapitres/origines-du-sacre/579-rampes-mobilite-acces-sanctuaires/",
-    "580": "/chapitres/origines-du-sacre/580-naufrages-secours-divins-survivants/"
+    "580": "/chapitres/origines-du-sacre/580-naufrages-secours-divins-survivants/",
+    "581": "/chapitres/origines-du-sacre/581-calendriers-depart-saisons-jours-favorables/"
   },
-  "complements": {
+  "historical_aliases": {
     "/chapitres/origines-du-sacre/576-payer-pour-passer-tarifs-bacs-offrandes/": {
-      "id": "ODS-C-576-A",
-      "title": "Complément documentaire au chapitre 576 — Tarifs, redevances et offrandes",
+      "id": "ODS-ALIAS-576",
+      "title": "Adresse historique — Annexe documentaire du chapitre 576",
       "canonical": "/chapitres/origines-du-sacre/576-bacs-peages-offrandes-passage/",
-      "reason": "Version parallèle conservée intégralement ; le numéro 576 désigne la première version enregistrée sur main."
+      "target": "/chapitres/origines-du-sacre/annexe-576-payer-pour-passer-variante/",
+      "reason": "Version parallèle conservée intégralement en annexe, sans second chapitre 576."
     },
     "/chapitres/origines-du-sacre/577-naufrages-secours-divins-survivants/": {
-      "id": "ODS-C-577-A",
-      "title": "Complément au cycle des passages — Naufrages et secours divins",
+      "id": "ODS-ALIAS-577",
+      "title": "Adresse historique — Naufrages et secours divins, chapitre 580",
       "canonical": "/chapitres/origines-du-sacre/577-monnaies-funeraires-charon-preuves-archeologiques/",
-      "reason": "Étude autonome conservée intégralement, sans nouveau numéro de chapitre ; l'identifiant historique 577 était déjà attribué à l'étude des monnaies funéraires."
+      "target": "/chapitres/origines-du-sacre/580-naufrages-secours-divins-survivants/",
+      "reason": "Étude autonome reprise intégralement au chapitre 580 ; le numéro 577 reste réservé aux monnaies funéraires."
     }
   },
-  "last_numbered_chapter": 580,
+  "redirects": {
+    "/chapitres/origines-du-sacre/576-payer-pour-passer-tarifs-bacs-offrandes/": "/chapitres/origines-du-sacre/annexe-576-payer-pour-passer-variante/",
+    "/chapitres/origines-du-sacre/577-naufrages-secours-divins-survivants/": "/chapitres/origines-du-sacre/580-naufrages-secours-divins-survivants/"
+  },
+  "last_numbered_chapter": 581,
   "preserved_source_sha256": {
     "chapitres/origines-du-sacre/576-bacs-peages-offrandes-passage.md": "b6704b3484d0c9e0c2e80ea9bdb7e0efa7c6b9723b9b9134f3b7e09c8357e3b1",
     "chapitres/origines-du-sacre/577-monnaies-funeraires-charon-preuves-archeologiques.md": "b4a8e672fb28c90811f531e385cde4bd03aa9f8809613ca6cc8da44e78adf55b",
     "chapitres/origines-du-sacre/576-payer-pour-passer-tarifs-bacs-offrandes.md": "b35b3e2d52978e82a1b619e42c52b453efaa1d81e529034423a25a94f99eddc4",
-    "chapitres/origines-du-sacre/577-naufrages-secours-divins-survivants.md": "48975f3c16928dffab96166435a0c04db000f1288bebbafe23968d4bb3fca0ed"
+    "chapitres/origines-du-sacre/577-naufrages-secours-divins-survivants.md": "48975f3c16928dffab96166435a0c04db000f1288bebbafe23968d4bb3fca0ed",
+    "chapitres/origines-du-sacre/annexe-576-payer-pour-passer-variante.md": "91507cab388ae767af004eb96a9162058d9314c554051db97262e532e904038e",
+    "chapitres/origines-du-sacre/580-naufrages-secours-divins-survivants.md": "7bdf15b85439d398c4bae664ed1e3b751b6234581fc4486c9b3c011c8a8ead49"
   }
 }
