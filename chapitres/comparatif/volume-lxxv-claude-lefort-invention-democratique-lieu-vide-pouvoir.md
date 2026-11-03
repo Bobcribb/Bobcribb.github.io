@@ -315,7 +315,7 @@ Hérodote, *Histoires*, III, 80–83 ; Eschyle, *Suppliantes*, 600–624, et *Eu
 
 ## 77. Bibliographie critique : philosophie politique
 
-Bernard Flynn, *The Philosophy of Claude Lefort: Interpreting the Political*, Northwestern University Press, 2005 ; Hugues Poltier, *Passion du politique. La pensée de Claude Lefort*, Genève, Labor et Fides, 1998 ; Eugenia Mattei, « The Conflict and the Institution: Claude Lefort, Reader of Niccolò Machiavelli », *Ingenium*, 2019, DOI 10.5209/INGE.64098 ; Andrea Lanza, « Looking for a sociology worthy of its name: Claude Lefort and his conception of social division », 2021, DOI 10.1177/07255136211044609 ; Nicole Loraux, *La Cité divisée. L'oubli dans la mémoire d'Athènes*, Paris, Payot, 1997 ; Jean-Pierre Vernant, *Les Origines de la pensée grecque*, 1962 ; Marcel Detienne, *Les Maîtres de vérité dans la Grèce archaïque*, 1967.
+Bernard Flynn, *The Philosophy of Claude Lefort: Interpreting the Political*, Northwestern University Press, 2006 ; Hugues Poltier, *Passion du politique. La pensée de Claude Lefort*, Genève, Labor et Fides, 1998 ; Eugenia Mattei, « The Conflict and the Institution: Claude Lefort, Reader of Niccolò Machiavelli », *Ingenium*, 2019, DOI 10.5209/INGE.64098 ; Andrea Lanza, « Looking for a sociology worthy of its name: Claude Lefort and his conception of social division », 2021, DOI 10.1177/07255136211044609 ; Nicole Loraux, *La Cité divisée. L'oubli dans la mémoire d'Athènes*, Paris, Payot, 1997 ; Jean-Pierre Vernant, *Les Origines de la pensée grecque*, 1962 ; Marcel Detienne, *Les Maîtres de vérité dans la Grèce archaïque*, 1967.
 
 ## 78. Sources numériques contrôlées et périmètre de vérification
 
