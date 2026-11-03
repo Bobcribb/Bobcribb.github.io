@@ -6,6 +6,10 @@ on:
     paths:
       - '.github/workflows/publish.yml'
       - 'scripts/build_native.py'
+      - 'scripts/publish_site.py'
+      - 'scripts/validate_publication.py'
+      - 'tests/test_publish_site.py'
+      - 'requirements.txt'
       - 'scripts/build_greek_corpus.py'
       - 'scripts/build_navigation.py'
       - 'scripts/origines_reconciliation.py'
@@ -42,6 +46,7 @@ jobs:
       - name: Récupérer l'encyclopédie GitHub
         uses: actions/checkout@v4
         with:
+          ref: main
           persist-credentials: true
       - name: Préparer Python
         uses: actions/setup-python@v5
@@ -49,72 +54,11 @@ jobs:
           python-version: '3.12'
       - name: Installer les dépendances
         run: python -m pip install -r requirements.txt
-      - name: Reconstruire MYTHOS uniquement depuis GitHub
-        run: python scripts/build_native.py
-      - name: Vérifier les 27 tomes des Origines du sacré avant publication
-        run: |
-          python - <<'PY'
-          from pathlib import Path
-          romans = ['i','ii','iii','iv','v','vi','vii','viii','ix','x','xi','xii','xiii','xiv','xv','xvi','xvii','xviii','xix','xx','xxi','xxii','xxiii','xxiv','xxv','xxvi','xxvii']
-          special = {'i': 'tome-i-hohle-fels', 'ii': 'tome-ii-prehistoire-du-sacre', 'iii': 'tome-iii-corps-caverne-mondes-invisibles'}
-          for i, roman in enumerate(romans, 1):
-              slug = special.get(roman, f'tome-{roman}')
-              source = Path(f'chapitres/origines-du-sacre/archives-integrales/{slug}.md')
-              rendered = Path(f'_site/chapitres/origines-du-sacre/archives-integrales/{slug}/index.html')
-              assert source.is_file() and source.stat().st_size > 10000, f'Tome {i} : source manquante ou incomplète'
-              assert rendered.is_file() and rendered.stat().st_size > 10000, f'Tome {i} : page non générée'
-          portal = Path('_site/origines-du-sacre/index.html').read_text(encoding='utf-8')
-          for roman in romans:
-              slug = special.get(roman, f'tome-{roman}')
-              assert f'/chapitres/origines-du-sacre/archives-integrales/{slug}/' in portal, f'Lien absent : {roman}'
-          print('OK : 27 tomes complets, 27 pages générées, 27 liens dans le sommaire')
-          PY
-      - name: Contrôler l'autonomie de MYTHOS
-        run: |
-          python - <<'PY'
-          import json
-          from pathlib import Path
-          from bs4 import BeautifulSoup
-          docs=json.loads(Path('_site/search.json').read_text())
-          media=json.loads(Path('_site/media/manifest.json').read_text())
-          assert len(docs)>=500, f"Catalogue incomplet : {len(docs)}"
-          assert media['count']==110, f"Médiathèque incomplète : {media['count']}"
-          assert len(list(Path('_site/media/2026/10').glob('*')))>=110
-          assert Path('_site/CNAME').read_text().strip()=="bobmythos.fr"
-          assert Path('_site/akhetaton-horizon-aton-etude/index.html').exists()
-          assert '/media/2026/10/' in Path('_site/akhetaton-horizon-aton-etude/index.html').read_text()
-          print("OK :",len(docs),"dossiers, 110 médias, aucun appel WordPress")
-          PY
-      - name: Synchroniser le rendu dans main pour GitHub Pages depuis la branche
-        run: |
-          # Plusieurs éditeurs GitHub écrivent en parallèle : ne jamais rebaser
-          # une génération de catalogue devenue obsolète (conflits search.json).
-          # Reprendre la source publique la plus récente, reconstruire, puis
-          # tenter un push normal, sans --force et sans suppression de sources.
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          published=0
-          for attempt in 1 2 3 4 5; do
-            echo "Publication MYTHOS : tentative ${attempt}/5 depuis main"
-            git fetch origin main
-            git reset --hard origin/main
-            python scripts/build_native.py
-            cp -a _site/. .
-            git add -A
-            if git diff --cached --quiet; then
-              echo "Catalogue déjà synchronisé dans main"
-              published=1
-              break
-            fi
-            git commit -m "Actualiser le catalogue GitHub autonome MYTHOS [skip ci]"
-            if git push origin HEAD:main; then
-              echo "Catalogue synchronisé depuis main"
-              published=1
-              break
-            fi
-            echo "La branche main a évolué : reconstruction depuis la nouvelle source."
-          done
-          test "$published" -eq 1
+      - name: Tester la synchronisation face aux publications concurrentes
+        run: python -m unittest discover -s tests -p 'test_publish_site.py' -v
+      - name: Reconstruire, contrôler et synchroniser la dernière version de main
+        id: synchronization
+        run: python scripts/publish_site.py
       - name: Configurer GitHub Pages
         uses: actions/configure-pages@v5
       - name: Préparer le site statique
