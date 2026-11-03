@@ -301,6 +301,10 @@ def main():
     navigation.build_portals()
     n_indexed=reindex(chapters)
     navigation.finalize_navigation(n_indexed)
+    # Sommaire unique MG : reconstruit à chaque publication depuis les manuscrits présents.
+    from build_greek_corpus import main as build_greek_corpus
+    greek_stats = build_greek_corpus(OUT, ROOT)
+    print("MYTHOS — Corpus mythologique grec réuni :", greek_stats)
     # Raccorder durablement la galerie photoréaliste du dépôt projet au portail principal.
     atlas_page = OUT / "reconstitutions-antiquite" / "index.html"
     if atlas_page.is_file():
