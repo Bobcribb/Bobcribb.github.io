@@ -237,3 +237,5 @@ L'encyclopédie MYTHOS gagne à publier cette limite en pleine lumière. La resp
 ---
 
 **Suite du cycle :** le volume LIII doit être établi après nouveau contrôle du répertoire, du registre et des doublons. Aucun titre n'est réservé par cette mention.
+
+**Navigation actualisée :** [Volume LIII — Cratès, *Lamia* : la peur mise en comédie →](/chapitres/comedies/volume-053-crates-lamia/). Ce renvoi actualise le jalon historique précédent sans modifier le corps de l'étude.
