@@ -231,7 +231,7 @@ La reconnaissance d'un parent perdu, l'identification par objet et le danger d'u
 
 ## 53. Iconographie : Égée consultant Thémis
 
-**Source matérielle vérifiée [A] :** kylix attique à figures rouges, attribuée au **Peintre de Codros**, vers **440–430 av. J.-C.**, Antikensammlung der Staatlichen Museen zu Berlin, **inventaire F 2538**, notice du musée : https://search.smb.museum/object/obj-686834 . La scène intérieure représente **Égée devant Thémis au sanctuaire de Delphes**, et non le banquet empoisonné. Il serait faux de la présenter comme « une image de la tragédie *Égée* ». Son intérêt est de montrer la circulation du mythe oraculaire dans l'Athènes classique. Photo consultable dans Wikimedia Commons (notice d'identification et droits à vérifier lors de la réutilisation) : https://commons.wikimedia.org/wiki/File:File:Themis_Aigeus_Antikensammlung_Berlin_F2538_n2.jpg . L'image elle-même n'est pas copiée dans le dépôt.
+**Source matérielle vérifiée [A] :** kylix attique à figures rouges, attribuée au **Peintre de Codros**, vers **440–430 av. J.-C.**, Antikensammlung der Staatlichen Museen zu Berlin, **inventaire F 2538**, notice du musée : https://search.smb.museum/object/obj-686834 . La scène intérieure représente **Égée devant Thémis au sanctuaire de Delphes**, et non le banquet empoisonné. Il serait faux de la présenter comme « une image de la tragédie *Égée* ». Son intérêt est de montrer la circulation du mythe oraculaire dans l'Athènes classique. Photo consultable dans Wikimedia Commons (notice d'identification et droits à vérifier lors de la réutilisation) : https://commons.wikimedia.org/wiki/File:Themis_Aigeus_Antikensammlung_Berlin_F2538_n2.jpg . L'image elle-même n'est pas copiée dans le dépôt.
 
 ## 54. L'image comme source autonome
 
