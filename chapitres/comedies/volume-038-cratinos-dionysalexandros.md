@@ -154,3 +154,6 @@ Une hypothèse antique est un document exceptionnel pour une comédie perdue, ma
 ---
 
 **Suite :** volume XXXIX, après vérification du dépôt et des notices historiques.
+
+
+**Suite du cycle :** [Volume XXXIX — *Pytinē* de Cratinos](volume-039-cratinos-pytine.md).
