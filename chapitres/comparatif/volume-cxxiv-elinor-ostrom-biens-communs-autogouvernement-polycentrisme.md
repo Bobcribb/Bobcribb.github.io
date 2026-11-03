@@ -301,7 +301,7 @@ Ostrom montre que la rationalité collective peut être institutionnellement con
 | common-pool resource | Anglais économique : système d'usage commun, rivalité des prélèvements et exclusion coûteuse | Ne signifie pas propriété publique ni accès libre. |
 | common property | Anglais juridique/institutionnel : droits collectifs organisés | Non synonyme de ressource commune. |
 | rules-in-use | Anglais institutionnel : règles effectivement suivies | Non identiques à l'intégralité des prescriptions écrites. |
-| κoινός / κοινός (koinos) | Grec : commun, partagé selon les contextes | N'annonce pas la catégorie économique CPR. |
+| κοινός (koinos) | Grec : commun, partagé selon les contextes | N'annonce pas la catégorie économique CPR. |
 | κοινωνία (koinônia) | Grec : participation, association, communauté | Les formes sociales varient selon auteur et époque. |
 | νόμος (nomos) | Grec : usage, loi, règle reconnue | Le champ sémantique n'est pas exclusivement juridique. |
 | ἔθος (ethos) | Grec : habitude, coutume | La coutume n'est pas nécessairement sans contrainte. |
