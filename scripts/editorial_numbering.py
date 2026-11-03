@@ -172,7 +172,8 @@ def finish(out, root, collections):
             raise ValueError('Portail sans contenu : '+str(p))
         old = doc.find(id='numerotation-'+collection)
         if old:old.decompose()
-        article.append(BeautifulSoup(section,'html.parser'))
+        if collection != 'encyclopedie' or not doc.find(id='grec-universitaire'):
+            article.append(BeautifulSoup(section,'html.parser'))
         p.write_text(str(doc),encoding='utf-8')
         for i,entry in enumerate(items):
             path = out / entry['url'].strip('/') / 'index.html'

@@ -51,6 +51,8 @@ def validate():
         assert 'https://bobmythos.fr' + url in sitemap, f'Chapitre absent du sitemap : {source}'
         chapters += 1
     print(f'OK : {chapters} manuscrits conservés ; références canoniques dans la recherche et le sitemap')
+    from build_greek_corpus import verify as verify_greek_corpus
+    verify_greek_corpus(Path('_site'), Path('.'))
     from verify_publication import verify
     verify()
 
