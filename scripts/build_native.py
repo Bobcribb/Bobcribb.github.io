@@ -217,6 +217,14 @@ def reindex(chapters):
         para = doc.select_one("main p") or doc.select_one("p")
         excerpt = text(str(para))[:190] if para else ""
         by_url[url] = {"title": title, "url": url, "excerpt": excerpt}
+    # Portail encyclopédique autonome (HTML racine, sans réécriture des sources).
+    greek_portal = OUT / "mythologie-grecque.html"
+    if greek_portal.is_file():
+        by_url["/mythologie-grecque.html"] = {
+            "title": "Encyclopédie mythologique grecque — corpus et sommaire général",
+            "url": "/mythologie-grecque.html",
+            "excerpt": "Entrée unique : chapitres universitaires grecs, dieux, héros, cosmogonies, cycles mythologiques, archives et analyses philosophiques."
+        }
     if len(by_url)<450:
         raise RuntimeError("Protection : moins de 450 pages indexées")
     entries=sorted(by_url.values(),key=lambda e:e["title"].casefold())
