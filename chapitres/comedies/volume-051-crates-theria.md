@@ -316,3 +316,6 @@ La lecture la plus féconde tient ensemble cette ouverture et cette lacune. Le f
 **Navigation :** [← Volume L — *Agamemnon*](/chapitres/comedies/volume-050-hermippos-agamemnon/) · [Théâtre grec](/theatre/) · [Études philosophiques](/philosophie/).
 
 **Suite éditoriale :** le numéro LII reste théorique jusqu'à une nouvelle lecture de `EDITORIAL_CONTINUITY.md`, du répertoire des comédies et des notices historiques. Aucun titre inédit n'est réservé par cette indication.
+
+
+**Suite réalisée :** [→ Volume LII — Cratès, *Geitones* / *Les Voisins*](/chapitres/comedies/volume-052-crates-geitones/). Le jalon « LII théorique » ci-dessus appartient à l'état historique avant ce nouveau volume.
