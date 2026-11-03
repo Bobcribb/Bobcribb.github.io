@@ -109,6 +109,64 @@ Un groupe de soldats n'est pas, par sa seule présence, une preuve de structure 
 
 R. Kassel et C. Austin (éd.), *Poetae Comici Graeci*, V, Berlin/New York, de Gruyter, 1986 ; Nicola Comentale, *Ermippo: introduzione, traduzione e commento*, *Fragmenta Comica* 6, Verlag Antike, 2017, [édition numérique](https://digi.hadw-bw.de/view/frc6/0211) ; Vinicio Tammaro, « Varia comica », *Cuadernos de Filología Clásica* 33, numéro spécial, 2023, p. 43–46, [DOI](https://doi.org/10.5209/cfcg.87804) ; Zénobios, recueil de proverbes, tradition du fragment 58 ; *Etymologicum Magnum*, 108.18–22 ; Thucydide, *Histoire de la guerre du Péloponnèse* (contexte indépendant) ; Aristophane, *Les Acharniens* (comparaison) ; Hegel, *Principes de la philosophie du droit* ; Nietzsche, « La joute chez Homère » ; Vernant, *Mythe et pensée chez les Grecs* ; Détienne, *Les Maîtres de vérité dans la Grèce archaïque* ; Dumézil, *Mythe et épopée*, I.
 
+
+## Complément critique — Langue, transmission et guerre sociale
+
+### XX. [A/B] Deux titres, deux lectures, mais pas nécessairement deux comédies
+
+La différence entre **Στρατιῶται**, masculin pluriel, et **Στρατιώτιδες**, féminin pluriel, n'est pas une simple question d'orthographe. Elle peut modifier la représentation du collectif que le titre fait imaginer. Toutefois, une citation ancienne n'a pas forcément conservé la rubrique originale de l'œuvre : le transmetteur a pu reproduire un titre de mémoire, adapter sa flexion ou recevoir une tradition déjà altérée. Une étude critique doit aligner les attestations, identifier leur date et vérifier si elles sont indépendantes. Il serait circulaire de choisir le féminin parce qu'une intrigue de femmes soldats paraît séduisante, puis d'utiliser cette intrigue inventée pour démontrer l'authenticité du féminin.
+
+### XXI. [A/B] Les numéros de fragments ne sont pas des numéros de scènes
+
+Les fragments 51–59 de l'édition Kassel–Austin désignent des unités de transmission, non neuf scènes successives. Certains sont préservés par des auteurs intéressés à une expression, un usage ou une particularité lexicale ; le fragment 59 présente en outre des difficultés propres au témoin papyrologique. La continuité narrative ne se déduit ni de la proximité numérique ni de la présence d'un même champ lexical. Une reconstitution savante doit d'abord produire une table indiquant pour chaque fragment le transmetteur, l'état du texte, la leçon adoptée et les alternatives.
+
+### XXII. [A/B] Le fragment 58 : ce qu'un proverbe conserve et ce qu'il efface
+
+Le fragment 58 est particulièrement précieux parce qu'il ouvre une fenêtre sur le langage proverbial, mais cette fenêtre est étroite. Le parémiographe transmet une formule et lui associe une explication ; celle-ci n'est pas nécessairement la motivation comique originelle. L'article de Vinicio Tammaro (2023) invite à tenir compte d'un autre témoin, l'*Etymologicum Magnum*. La présence de plusieurs transmetteurs n'efface pas la nécessité d'établir leurs relations : deux sources tardives peuvent dépendre d'une tradition commune. Il ne faut donc pas présenter l'explication de la caprification comme une réplique du personnage qui prononçait le proverbe.
+
+### XXIII. [B] Agriculture et guerre : la même terre, des temporalités opposées
+
+Le soldat peut être mobilisé au moment où le cultivateur doit semer, tailler ou récolter. Le calendrier militaire et le calendrier agricole ne sont pas toujours compatibles. La comédie ancienne dispose ainsi d'un contraste matériel puissant : le corps nécessaire à la défense de la cité est aussi celui dont dépend la production alimentaire. L'opposition est historiquement plausible dans l'Athènes classique, mais **aucun fragment conservé n'établit que la pièce entière reposait sur ce conflit**. Le proverbe horticole peut être une simple insulte et non la clef de l'intrigue.
+
+### XXIV. [B] Le genre grammatical n'est pas un programme social
+
+Même si le titre féminin *Stratiōtides* était authentique, il ne suffirait pas à faire de l'œuvre une défense de l'égalité militaire des sexes. Le travestissement, la parodie mythologique, la personnification et la satire des institutions sont autant de dispositifs possibles. La comparaison avec *Lysistrata* peut aider à comprendre le potentiel comique d'une inversion des rôles, mais ne doit pas effacer la distance entre auteurs, dates et formes documentaires.
+
+### XXV. [B] Une réflexion sur la discipline et le travail
+
+La discipline militaire se présente comme une organisation du temps et du mouvement : marcher ensemble, tenir un rang, répondre à un ordre. Le travail agricole exige lui aussi des gestes coordonnés et des savoirs précis, mais ses rythmes sont ceux du sol et des saisons. La satire peut naître de la prétention d'un chef à gouverner l'un comme l'autre par la seule parole de commandement. Cette lecture est une hypothèse contemporaine construite à partir du contraste des champs lexicaux, non un résumé d'Hermippos.
+
+### XXVI. [B] Hegel et Nietzsche : deux questions distinctes
+
+Le cadre hégélien invite à examiner la tension entre la finalité de l'institution et l'expérience de l'individu. Le soldat n'est pas seulement un corps soumis : son action acquiert une signification dans un ensemble politique. La lecture nietzschéenne de la compétition interroge au contraire les valeurs attribuées à la rivalité, à la force et à la victoire. Ces deux approches ne doivent pas être fusionnées en une « philosophie grecque de la guerre » fictive. Elles constituent des instruments d'analyse modernes dont la pertinence doit être discutée séparément.
+
+### XXVII. [B] Vernant, Détienne et les niveaux de langage
+
+Une perspective inspirée de Vernant replace les rôles militaires dans les institutions de la cité ; celle de Détienne permet de s'interroger sur la force d'une parole reçue comme proverbiale. Le proverbe peut être ancien sans être transparent : il appartient à un contexte d'énonciation que la transmission a effacé. Cette double approche rappelle que l'analyse d'un mot isolé ne remplace pas l'histoire sociale du groupe qui l'employait.
+
+### XXVIII. [C] Scène originale — La revue des récoltes
+
+*Création dramatique contemporaine, non fragment d'Hermippos.*
+
+**LE STRATÈGE** — Je veux une armée qui marche au même pas.
+
+**LA CULTIVATRICE** — Et moi, des figues qui mûrissent au même jour.
+
+**LE STRATÈGE** — Il suffit de donner un ordre.
+
+**LA CULTIVATRICE** — Essaie donc avec cet arbre.
+
+**LE STRATÈGE** — Arbre, mûris !
+
+**LA CULTIVATRICE** — Voilà ce que valent les ordres qui ne connaissent pas leur objet.
+
+**LE CHŒUR IMAGINAIRE** — Le général a conquis le silence du verger.
+
+### XXIX. Protocole pour une édition augmentée
+
+Une édition future devra contrôler directement les pages pertinentes de Comentale, *Fragmenta Comica* 6, puis confronter les leçons de PCG V et l'article de Tammaro. Les citations grecques seront publiées seulement après vérification du témoin, de l'accentuation, de la ponctuation éditoriale et des restitutions. La traduction devra signaler les mots incertains et séparer texte traduit et commentaire. **Aucune nouvelle attribution de réplique, de personnage ou de scène n'est proposée ici comme attestée.**
+
+
 ---
 
 **Suite éditoriale :** volume XLIV, après contrôle du dépôt et des sources.
