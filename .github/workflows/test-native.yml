@@ -6,10 +6,26 @@ on:
     paths:
       - '.github/workflows/test-native.yml'
       - 'scripts/build_native.py'
+      - 'scripts/editorial_queue.py'
+      - 'scripts/publish_site.py'
+      - 'scripts/validate_publication.py'
+      - 'scripts/verify_publication.py'
+      - 'scripts/origines_reconciliation.py'
+      - 'editorial/**'
+      - 'tests/**'
+      - 'chapitres/**'
   workflow_dispatch:
   pull_request:
     paths:
       - 'scripts/build_native.py'
+      - 'scripts/editorial_queue.py'
+      - 'scripts/publish_site.py'
+      - 'scripts/validate_publication.py'
+      - 'scripts/verify_publication.py'
+      - 'scripts/origines_reconciliation.py'
+      - 'editorial/**'
+      - 'tests/**'
+      - 'chapitres/**'
       - 'assets/mythos-refonte.css'
       - '.github/workflows/test-native.yml'
 
@@ -27,8 +43,12 @@ jobs:
           python-version: '3.12'
       - name: Installer les dépendances
         run: python -m pip install -r requirements.txt
+      - name: Tester les attributions concurrentes et les reprises
+        run: python -m unittest discover -s tests -v
       - name: Générer le site uniquement depuis GitHub
-        run: python scripts/build_native.py
+        run: |
+          python scripts/build_native.py
+          python scripts/verify_publication.py
       - name: Vérifier l'absence de dépendance WordPress
         run: |
           test -f _site/index.html

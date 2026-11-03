@@ -79,6 +79,11 @@ class PublicationTests(unittest.TestCase):
             'search.json': '[]', 'sitemap.xml': '<urls/>',
         }.items():
             self.write(self.editor, path, text)
+        # The numbering worker runs before the builder even in isolated fixtures.
+        from test_editorial_queue import initialize
+        initialize(self.editor)
+        queue_source = Path(__file__).resolve().parents[1] / 'scripts/editorial_queue.py'
+        self.write(self.editor, 'scripts/editorial_queue.py', queue_source.read_text())
         self.initial = self.commit(self.editor, 'Initial sources')
         self.command(self.editor, 'push', 'origin', 'main')
         self.command(self.root, 'clone', '--depth=1', self.remote.as_uri(), str(self.runner))

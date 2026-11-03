@@ -298,6 +298,9 @@ def decorate_editorial_pages():
     return updated
 
 def main():
+    # Validate source numbering before touching the publishable directory.
+    from editorial_queue import validate
+    validate(ROOT)
     from editorial_numbering import scan, finish
     numbered_collections = scan(ROOT)
     if OUT.exists():

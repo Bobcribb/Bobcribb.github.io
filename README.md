@@ -35,7 +35,7 @@ Le premier dossier transféré dans ce circuit est `chapitres/grece/mycenes-cita
 
 Depuis le 2 novembre 2026, la publication MYTHOS repose sur le contenu **déjà versionné dans GitHub**, sans appel réseau à WordPress. Le workflow `.github/workflows/publish.yml` exécute `scripts/build_native.py`, contrôle les 110 médias et les 500+ dossiers, puis publie avec GitHub Pages.
 
-Les nouvelles études peuvent être ajoutées à `chapitres/` comme fichiers Markdown, directement dans GitHub ou depuis ChatGPT avec le connecteur GitHub. Lire `chapitres/README.md` : les fichiers sont publiés automatiquement après push sur main, référencés dans le catalogue et indexés pour la recherche.
+Les nouvelles études numérotées passent par `editorial/inbox/` : [attribution atomique et reprise des publications concurrentes](docs/PUBLICATION_CONCURRENTE.md). Le texte intégral approuvé est déposé avec un UUID unique ; le workflow attribue le prochain numéro de sa collection depuis `main` et enregistre le reçu avec le manuscrit. Les études indépendantes sans numéro et les corrections restent des fichiers Markdown dans `chapitres/`. Lire `chapitres/README.md`.
 
 Une vérification horaire republie le site existant si nécessaire, mais **n'invente pas de nouveaux chapitres**. Les automations éditoriales de ChatGPT restent distinctes ; leurs nouvelles productions doivent être enregistrées dans le dépôt GitHub pour apparaître sur le site.
 

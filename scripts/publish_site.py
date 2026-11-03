@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 """Reconstruire sur main à chaque tentative, sans fusionner les rendus générés."""
 from pathlib import Path
+import hashlib
+import json
 import os
 import shutil
 import subprocess
@@ -21,19 +23,24 @@ def latest_main(repo):
     return git(repo, "rev-parse", "refs/remotes/origin/main").stdout.strip()
 
 
-def guard_render_commit(worktree):
-    """Seuls les rendus peuvent changer ; les sources et médias restent identiques."""
+def guard_render_commit(worktree, allocated=None):
+    """Only rendered files and exactly verified new allocations may change."""
+    allocated = allocated or {}
+    for name, expected in allocated.items():
+        staged = subprocess.check_output(["git", "-C", str(worktree), "show", ":" + name])
+        if hashlib.sha256(staged).hexdigest() != expected:
+            raise RuntimeError("Publication refusée : attribution modifiée par le générateur : " + name)
     deleted = git(worktree, "diff", "--cached", "--name-only", "--diff-filter=D").stdout
     if deleted:
         raise RuntimeError("Publication refusée : suppression de fichiers : " + deleted)
     paths = git(worktree, "diff", "--cached", "--name-only", "-z").stdout.split("\0")
     generated = {"search.json", "sitemap.xml", "robots.txt", "CNAME", ".nojekyll",
-                 "catalog/origines-continuity.json", "catalog/numbering.json"}
+                 "catalog/origines-continuity.json", "catalog/numbering.json", "catalog/publication-verification.json"}
     for name in filter(None, paths):
         path = Path(name)
         html = (path.suffix == ".html" and not any(p.startswith(".") for p in path.parts)
                 and path.parts[0] not in {"scripts", "media", "assets", "tests"})
-        if name not in generated and not html:
+        if name not in generated and not html and name not in allocated:
             raise RuntimeError("Publication refusée : source ou média modifié : " + name)
 
 
@@ -53,13 +60,23 @@ def synchronize(repo, max_attempts=5):
             worktree = Path(tmp) / "source"
             git(repo, "worktree", "add", "--detach", str(worktree), source_sha)
             try:
+                # Allocation and source creation use this exact fresh snapshot.
+                # On a rejected push the whole worktree is discarded; a retry
+                # rereads receipts and recomputes numbers, never rebases them.
+                result = subprocess.check_output(
+                    [sys.executable, "scripts/editorial_queue.py", "apply"], cwd=worktree, text=True)
+                paths = json.loads(result)["allocated"]
+                if paths:
+                    paths.append("editorial/numbering.json")
+                allocated = {name: hashlib.sha256((worktree / name).read_bytes()).hexdigest()
+                             for name in paths}
                 subprocess.run([sys.executable, "scripts/build_native.py"], cwd=worktree, check=True)
                 # Valider exactement la génération qui sera poussée et déployée,
                 # y compris après un refus de push dû à un autre éditeur.
                 subprocess.run([sys.executable, "scripts/validate_publication.py"], cwd=worktree, check=True)
                 shutil.copytree(worktree / "_site", worktree, dirs_exist_ok=True)
                 git(worktree, "add", "-A")
-                guard_render_commit(worktree)
+                guard_render_commit(worktree, allocated)
                 changed = git(worktree, "diff", "--cached", "--quiet", check=False)
                 if changed.returncode not in (0, 1):
                     raise RuntimeError(changed.stderr)

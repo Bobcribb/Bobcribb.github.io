@@ -2,7 +2,9 @@
 
 Le site MYTHOS est désormais publié depuis GitHub, sans requête à l'API WordPress.
 
-Pour ajouter une nouvelle étude, créer dans ce dossier un fichier Markdown au nom court, en minuscules sans espaces, par exemple `grece/chiron-etude.md`. Il sera rendu sur le site sous `https://bobmythos.fr/chapitres/grece/chiron-etude/`.
+Pour une nouvelle étude **numérotée**, utiliser la [file de publication et son attribution atomique](../docs/PUBLICATION_CONCURRENTE.md). Déposer le texte intégral approuvé sous `editorial/inbox/<uuid>.json`, avec `{{numero}}` ou `{{volume}}`. GitHub Actions choisit le prochain numéro d'après les fichiers réellement présents sur `main`, enregistre le manuscrit et son reçu ensemble, puis reconstruit le site. Ne plus créer directement de nouveau chemin numéroté dans les cinq collections contrôlées. Les corrections d'études existantes conservent leur chemin et leur numéro.
+
+Pour une étude indépendante **sans numéro de série**, créer un fichier Markdown au nom court, en minuscules sans espaces, par exemple `grece/chiron-etude.md`. Il sera rendu sur le site sous `https://bobmythos.fr/chapitres/grece/chiron-etude/`.
 
 Modèle :
 
@@ -29,4 +31,4 @@ Les anciennes pages de WordPress restent figées dans le dépôt. Si WordPress d
 
 ## Numéros uniques et publications simultanées
 
-Avant de créer une étude, vérifier la branche `main` actuelle et lancer `python scripts/editorial_numbering.py`. Chaque collection a sa propre séquence ; ne pas déduire le prochain numéro d'une ancienne conversation ou d'une seule page. Consulter `EDITORIAL_NUMBERING.json` et `/collections-numerotees/`. Si `main` évolue avant l'écriture, revérifier le numéro sur le nouvel état. Le build et l'audit des pull requests refusent les collisions inconnues. Les anciennes adresses déclarées sont des redirections, pas de nouvelles études.
+Les corrections historiques et leurs redirections sont décrites dans `EDITORIAL_NUMBERING.json` ; le contrôle `python scripts/editorial_numbering.py` vérifie l'unicité canonique. Pour une nouvelle étude, passer par la [file transactionnelle](../docs/PUBLICATION_CONCURRENTE.md) : une simple lecture de `main` ne réserve pas un numéro. `editorial/numbering.json` conserve les attributions et les reçus de cette file ; les fichiers effectivement présents sur la branche principale sont relus à chaque tentative.
