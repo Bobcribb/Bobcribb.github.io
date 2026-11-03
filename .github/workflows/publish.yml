@@ -16,6 +16,9 @@ on:
       - 'assets/**'
       - 'media/**'
       - 'CNAME'
+      - 'corpus/**'
+      - '*.html'
+      - '**/*.html'
   workflow_dispatch:
 
 permissions:
