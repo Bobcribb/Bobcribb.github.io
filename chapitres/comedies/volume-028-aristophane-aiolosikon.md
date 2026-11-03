@@ -122,3 +122,6 @@ L'incertitude documentaire peut devenir une vertu pédagogique. Plutôt que de p
 ---
 
 **Suite éditoriale :** volume XXIX, à choisir uniquement après inspection du catalogue et des dossiers existants.
+
+
+**Suite du cycle :** [Volume XXIX — *Holkades*](volume-029-aristophane-holkades.md).
