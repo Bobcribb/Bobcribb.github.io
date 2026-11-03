@@ -1,0 +1,140 @@
+# MYTHOS — Les origines du sacré — Tome XLVI, chapitre 589
+## Demander aux dieux pour vivre : famille, métier, commerce et incertitude dans les lamelles de Dodone
+
+*Étude universitaire de religion grecque, d'épigraphie, de philologie des questions, d'anthropologie des choix et d'histoire des économies familiales. Suite du chapitre 588, « Le silence de l'oracle ». Le présent chapitre n'est ni un nouveau catalogue général des tablettes (chapitre 584), ni une théorie globale des spécialistes (chapitre 587) : il étudie **ce que les personnes demandent lorsqu'elles affrontent une décision ordinaire**. Corpus établi sur des éditions et notices identifiées ; distinction entre faits documentés, lectures controversées et hypothèses.*
+
+### 589.1. Changer d'échelle : l'oracle dans la vie quotidienne
+
+L'image spectaculaire de la prophétie royale risque d'effacer des questions plus modestes. Une personne se demande si elle doit exercer un métier, rejoindre une région, fonder un foyer, obtenir un enfant, récupérer un bien ou poursuivre un commerce. À Dodone, dans le monde grec, certaines de ces inquiétudes ont laissé des traces épigraphiques exceptionnelles : des phrases gravées sur des feuilles de plomb, souvent sous une forme interrogative, adressées au dieu Zeus et à Dionè. Les dossiers des chapitres 583–588 traitaient surtout de l'autorité des interprètes, du sort des textes et des réponses absentes. Ici, le cœur de l'enquête est **la question en tant qu'action humaine** : elle délimite une alternative, révèle une préoccupation et engage parfois un projet.
+
+Ce corpus ne constitue pas un sondage représentatif de « l'homme grec » ni un registre de réponses que l'on pourrait soumettre à une statistique d'efficacité. Une question écrite nous renseigne d'abord sur la formulation retenue et conservée ; elle ne livre pas nécessairement l'état psychologique complet du demandeur, son statut réel, la réponse reçue ou la conduite suivie. La difficulté historique est précisément de respecter cette dissymétrie : le document donne parfois à entendre une voix individuelle sans nous autoriser à écrire la biographie entière de cette personne.
+
+### 589.2. Un site, plusieurs périodes, des milliers d'inscriptions
+
+Le sanctuaire de Dodone, en Épire, était lié à Zeus Naios et à Dionè. Les fouilles anciennes de Konstantinos Karapanos (1875–1876), puis celles de Dimitris Evangelidis au XXe siècle, ont mis au jour de nombreuses lamelles oraculaires. Le musée national archéologique d'Athènes rappelle l'importance des séries de Ioannina et leur inscription au registre « Mémoire du monde » de l'UNESCO en mai 2023. [P1]
+
+Le programme **Dodona Online** prépare des rééditions critiques, à partir notamment des publications d'Ioulia Vokotopoulou, Sotiris Dakaris et Anastasios Christidis (2013). Le fait que des objets aient été découverts dans le même sanctuaire ne fait pas de leurs inscriptions un instantané : leurs datations s'étendent sur plusieurs siècles ; certains supports ont été gravés plusieurs fois, retournés ou réemployés. [P2] Une histoire sociale qui compterait chaque ligne comme une personne différente et chaque tablette comme une consultation isolée risquerait donc une double erreur.
+
+Les travaux récents de Hugh Bowden (*What Can the Lead Tell Us?*, 2026) mettent en évidence l'intérêt et les limites de dénombrements fondés sur 4 216 inscriptions de l'édition DVC, réparties sur 1 242 tablettes selon le périmètre qu'il analyse. D'autres travaux ou notices emploient d'autres chiffres, selon qu'ils comptent supports, inscriptions ou objets encore inédits. Cette différence de dénominateur est essentielle : on ne confronte pas des totaux sans spécifier l'unité comptée. [R1]
+
+### 589.3. Une question sur le foyer et les enfants : I.Dodone Online 7B
+
+La fiche **I.Dodone Online 7B** présente une lamelle retrouvée en 1935, enregistrée au musée archéologique de Ioannina (M20 / AMI 12209), datée du Ve siècle avant notre ère. Elle mesure 6,8 × 2,5 cm pour une épaisseur de 0,16 cm. Le plomb comporte des inscriptions sur plusieurs faces et une inscription postérieure inversée qui chevauche le texte étudié. La lecture résulte d'une confrontation entre fac-similé, photographie et examen direct effectué en 2024 ; l'édition est attribuée à Elena Martín González, Stavroula Konstantopoulou et Carlos Candel Lozano. [P3]
+
+La phrase grecque débute par **ἐ͂ Ϝοίκοι** et poursuit l'interrogation sur la possibilité d'aller mieux au foyer et d'obtenir des enfants tout en cherchant à se concilier les dieux ; l'édition précise les lacunes et les restitutions de la fin. [P3] Nous ne transformons pas ces compléments éditoriaux en lettres matériellement conservées. La présence du digamma dans **Ϝοίκοι** intéresse l'histoire des dialectes : elle avertit de ne pas uniformiser les formes locales en grec attique classique. Elle ne permet cependant pas, isolément, d'identifier le lieu de naissance du consultant.
+
+La question associe le bien-être de la maison et la descendance. Elle n'indique pas l'âge du demandeur, le nombre de ses enfants actuels, la durée d'une éventuelle infertilité ni le rite que lui aurait finalement conseillé l'oracle. Une interprétation qui construirait un diagnostic médical ou une tragédie familiale à partir de quelques mots dépasserait le document. Le **possible** est inscrit dans la question ; le destin accompli ne l'est pas.
+
+### 589.4. L'économie de la maison ne se limite pas à l'argent
+
+Le terme de foyer ou de maison est susceptible d'évoquer le lieu de vie, le patrimoine, les personnes qui y résident et les relations de parenté. Ici, le texte est trop bref pour déplier toute cette diversité, mais sa formulation rend artificielle l'opposition entre « problème domestique » et « question religieuse ». Demander aux dieux d'éclairer le sort de la maison suppose que les difficultés de ce monde sont jugées recevables dans le cadre d'une consultation.
+
+Il faut aussi éviter de transformer toute demande de descendance en instrument transparent d'une stratégie patrimoniale. Dans certaines familles, la transmission des biens constitue un enjeu ; dans d'autres, les obligations sociales, le désir d'enfant ou les relations conjugales interviennent. La lamelle 7B ne permet pas d'isoler une motivation. Une enquête sérieuse renvoie les questions de succession aux dossiers juridiques qui les documentent et n'importe pas automatiquement leur logique dans chaque inscription.
+
+L'écriture conserve ainsi une incertitude à deux niveaux : celle que le consultant éprouve avant son choix, et celle que nous éprouvons quant au sens complet de ses mots. Le premier niveau relève de l'histoire des pratiques ; le second, de notre méthode philologique.
+
+### 589.5. Le marchand et l'artisan : une inscription à cinq textes
+
+Le musée national archéologique d'Athènes présente une autre tablette, inventaire **Kar. 865/1**, trouvée lors des fouilles de Karapanos et datée des IVe–IIIe siècles avant notre ère. Elle porte cinq inscriptions sur deux faces. La mieux conservée concerne une personne décrite par le musée comme marchand ou artisan, qui invoque la bonne fortune et demande si elle réussira en continuant à se déplacer là où le profit semble possible, en pratiquant importations et exportations, tout en exerçant son métier. [P1]
+
+La formulation est particulièrement instructive parce qu'elle combine **mobilité, échanges et métier**. Elle ne constitue pas une prédiction commerciale : c'est une demande portant sur une stratégie. Les voyages ne sont pas ici décrits comme des pèlerinages ; ils relèvent d'activités économiques dont l'issue paraît suffisamment incertaine pour justifier une question religieuse.
+
+Le musée note l'usure et la corrosion le long d'un pli vertical. Ces détails empêchent de confondre une traduction reconstruite avec une photographie fidèle de chaque lettre. Ils montrent aussi que les inscriptions ne sont pas un texte littéraire librement transmis par des copistes : leur lecture dépend de l'état précis d'un objet. Il faut toujours distinguer le contenu gravé, les parties devenues illisibles et la décision de l'éditeur.
+
+### 589.6. Demander conseil n'est pas renoncer à agir
+
+Le marchand ne demande pas aux dieux de déplacer ses marchandises à sa place. Il formule une alternative qui engage des itinéraires, des transactions et le maintien d'une compétence. L'activité humaine demeure donc centrale. On peut proposer que la consultation vise à rendre plus supportable ou plus légitime une décision dont les conséquences restent ouvertes. Mais cette hypothèse ne dit ni ce que le consultant croyait exactement de l'efficacité du rite ni la réponse qu'il reçut.
+
+Une distinction philosophique en résulte : **chercher une orientation** n'est pas identique à **chercher une information certaine sur un futur fixé**. Une réponse peut décider entre des projets ou requalifier les risques sans donner tous les événements à venir. L'historien doit lire la syntaxe de la question et ne pas la convertir automatiquement en horoscope.
+
+La consultation peut en outre offrir une forme d'énonciation sociale de l'incertitude. Dire devant un sanctuaire que l'on hésite entre deux voies rend formulable un conflit qui pouvait rester privé. Cette proposition relève d'une interprétation anthropologique ; elle ne constitue pas une preuve de l'existence d'une conversation publique autour de cette lamelle particulière.
+
+### 589.7. Le cas Épilytos : accumulation des alternatives
+
+Dans son étude de 2019 sur la présence du divin, Michael A. Flower présente une lamelle du milieu du IVe siècle, publiée dans le corpus de 2013, relative à **Épilytos**. La question réunit plusieurs objets : quelle activité ou quel sacrifice lui apporterait la prospérité, faut-il exercer l'art appris ou commencer autre chose, quelle femme épouser et faut-il se marier immédiatement ou attendre ? Flower cite le grec et propose une traduction suivie. [R2]
+
+Ce dossier est précieux pour réfléchir à la *forme* de la consultation. Une question peut être plurielle ; les alternatives peuvent se succéder ; certains segments sont ouverts et d'autres fermés. Il serait dangereux de traiter tous les témoignages de Dodone comme si chaque support ne contenait qu'une proposition susceptible d'être résolue par oui ou non.
+
+Flower avance, sur un mode explicitement conjectural, qu'Épilytos cherchait peut-être à faire tenir plusieurs problèmes dans une même consultation. Nous ne transformons pas cette plaisanterie méthodique en preuve d'un tarif forfaitaire. Le texte ne fournit pas les modalités comptables précises de la séance ni une preuve que l'oracle aurait effectivement répondu à chacune des questions.
+
+### 589.8. Le consultant sans voix dans l'archive
+
+La plus grande lacune de ces dossiers n'est pas toujours le nom d'un dieu, mais **la réponse elle-même**. Une tablette peut conserver une requête sans indiquer ce que le consultant entendit ou ce qu'il fit après sa visite. Les chapitres 584 et 588 ont traité des causes documentaires du silence ; ici, cette lacune limite l'histoire sociale : on ne peut écrire « il épousa la première femme » ou « il conserva son commerce » en l'absence d'un témoignage ultérieur.
+
+La tentation du récit complet est particulièrement forte lorsqu'un prénom antique apparaît. L'inscription crée un effet de proximité, presque de confidence. Cette proximité ne doit pas autoriser l'invention d'une destinée. Même la traduction des modalités interrogatives doit conserver le caractère éventuel des propositions.
+
+Un programme d'édition pédagogique pourrait afficher successivement photographie, transcription diplomatique, texte édité, traduction, apparat et commentaire. Ces six niveaux ne sont pas redondants : ils permettent au lecteur de comprendre ce qui est vu, lu, restitué et interprété.
+
+### 589.9. Les activités maritimes : un dossier qui résiste à la généralisation
+
+L'étude d'une lamelle appelée **Lhôte 113**, réexaminée dans un article italien de 2017, porte sur Satyrus et une question relative à une coupe (*skyphos*) qui n'aurait peut-être pas été chargée dans un bateau au départ d'Actium. Le travail discute les lectures précédentes et situe la question dans les échanges côtiers du golfe Ambracique. [R3]
+
+Le conditionnel importe : la formulation exacte et son interprétation ont été débattues ; on ne possède pas ici un document douanier complet. Néanmoins, le cas montre l'intérêt de confronter les objets ordinaires à leur géographie économique. Les noms de lieux ne fonctionnent pas comme décors : ils orientent la reconstitution des voies et des pertes possibles.
+
+On ne saurait déduire de cette consultation que tout différend commercial grec était soumis à l'oracle. Une inscription particulière prouve qu'une question de ce type **pouvait** être posée ; l'extension de cet usage à une catégorie sociale ou à une région entière exige une autre base statistique.
+
+### 589.10. Femme, homme, libre, esclave : une archive d'accès inégal
+
+La documentation de Dodone inclut des questions formulées par différents acteurs, hommes et femmes, et permet d'entrevoir des situations sociales très diverses. Les travaux d'Erica Angliker (2026) insistent sur les thèmes privés — santé, activité, voyages, enfant, patrimoine, dette — et sur la matérialité des lamelles comme objets manipulés dans le sanctuaire. [R4]
+
+Le corpus ne doit pourtant pas être considéré comme une égalité démocratique des voix. La capacité à se déplacer, à payer d'éventuels frais, à faire écrire une question, à être présent ou représenté dépendait probablement de conditions variables ; il serait tout aussi excessif de nier tout accès aux personnes non alphabétisées. La présence d'une inscription ne prouve pas que son auteur matériel et son consultant soient la même personne.
+
+Un homme peut poser une question qui concerne son épouse ; une femme peut être désignée par un tiers ; un esclave peut être mentionné sans être celui qui décide. Pour établir l'agence propre de chacun, l'éditeur doit considérer les pronoms, les noms, les statuts éventuellement exprimés et les restitutions. Une théorie générale du genre déduite de quelques graphies serait fragile.
+
+### 589.11. Comparaison contrôlée : la demande et la lettre à Mari
+
+Les archives de Mari attestent, dans un autre environnement historique, des communications de messages religieux vers la cour du roi Zimri-Lim. Ce sont des **lettres d'intermédiaires**, et non des lamelles portant nécessairement des questions personnelles. La comparaison est méthodologique : quel acteur formule le problème, qui enregistre la parole, qui la transporte, et à qui le document est-il destiné ? [R5]
+
+Un cas décrit par les études récentes concerne **ARM 26 210**, où le gouverneur Kibri-Dagan rapporte une femme affirmant avoir été envoyée par Dagan et demandant que le roi soit rassuré. La distance entre ce dossier et Dodone est considérable : milieu royal du XVIIIe siècle av. notre ère d'un côté, pratiques grecques de consultation sur plomb des siècles suivants de l'autre. Les mettre en parallèle ne démontre aucune filiation.
+
+L'intérêt est de rappeler que « message divin » ne désigne pas partout le même genre documentaire. Certaines archives conservent la **question**, d'autres un **rapport** sur une parole déjà proférée. Leur fréquence respective dépend aussi des stratégies de conservation.
+
+### 589.12. Risque, société et croyance : Eidinow, Douglas, Flower
+
+Esther Eidinow (*Oracles, Curses, and Risk Among the Ancient Greeks*, 2007) analyse les questions de Dodone dans le cadre d'une recherche sur les façons de percevoir et de gérer l'incertitude. Inspirée notamment par Mary Douglas, elle rappelle que le risque est aussi socialement défini et distribué. [R6] Cette approche n'implique pas que les pertes agricoles, les maladies ou les accidents de voyage soient fictifs. Elle demande ce qui rend un dommage intelligible, prévisible ou tolérable pour une communauté.
+
+Michael Flower (2019) invite à prendre au sérieux la présence effective du divin telle que les consultants pouvaient l'éprouver. [R2] On peut accueillir cette exigence sans adopter comme historien l'efficacité surnaturelle de chaque réponse. Décrire la conviction d'un acteur et vérifier la causalité d'un résultat sont des opérations différentes.
+
+La combinaison des deux perspectives évite deux simplifications : le consultant ancien ne serait qu'un calculateur moderne déguisé en croyant ; il ne serait qu'un être terrorisé par l'incertitude, sans stratégie, compétence ni volonté. Les lamelles montrent au contraire des projets formulés de manière souvent pragmatique dans un horizon religieux réel.
+
+### 589.13. Durkheim, Vernant et Detienne : trois usages circonscrits
+
+À partir de Durkheim, on peut demander comment une institution commune donne une forme reconnaissable à des inquiétudes individuelles. Cependant une consultation familiale ne peut être réduite à une simple démonstration de cohésion collective. L'individu reste présent, jusque dans la syntaxe du « dois-je ? ».
+
+La démarche de Vernant, attentive aux articulations entre représentation divine, vie civique et pratiques sociales, incite à ne pas isoler artificiellement le sacré de l'économie ou de la famille. Le comparatisme de Detienne demande à son tour de construire l'objet de comparaison : non pas « toutes les religions ont des oracles », mais « comment une demande relative à une activité est-elle enregistrée et prise en charge ? ».
+
+Ces références philosophiques et anthropologiques servent de cadres de questionnement, non d'éditions des lamelles, ni de preuves qu'elles commenteraient chacune. Leur application aux questions individuelles doit demeurer explicitement proposée par MYTHOS.
+
+### 589.14. Un protocole archéologique et numérique pour MYTHOS
+
+Chaque notice de tablette devrait identifier : le lieu et la campagne de découverte ; le musée et l'inventaire ; les dimensions et le nombre de faces ; les inscriptions superposées ; les datations paléographiques ; la photographie ou le fac-similé ; la transcription ; les lectures incertaines ; les bibliographies et les variantes éditoriales.
+
+Pour l'édition interactive du corpus, un filtre par thème peut être utile, mais il ne doit pas compter arbitrairement un « mariage » comme une personne mariée ni un « voyage » comme un déplacement effectivement accompli. Un même texte peut concerner plusieurs thèmes. Le tableau de bord doit indiquer s'il compte des supports, des inscriptions, des requêtes ou des individus identifiés, sans convertir ces unités les unes dans les autres.
+
+Toute illustration de Dodone doit distinguer **le site archéologique conservé**, **l'état restitué d'une période déterminée** et **la scène hypothétique d'un consultant présentant sa lamelle**. Aucune reconstitution 3D ne sera donnée comme photographie d'une cérémonie dont les séquences ne sont pas intégralement attestées.
+
+### 589.15. Résultats : attestations, débats, hypothèses
+
+**Attesté :** I.Dodone Online 7B conserve une question relative au foyer et aux enfants ; la tablette Kar. 865/1 concerne une stratégie de déplacements marchands et de travail artisanal ; les textes analysés par Flower font apparaître des interrogations ouvertes et cumulatives ; les corpus sont matériellement hétérogènes et leurs écritures peuvent se superposer. [P1–P3 ; R2]
+
+**Débattu :** le détail de plusieurs lectures, l'étendue sociale et géographique des pratiques, la procédure de consultation, les réponses apportées, l'écriture de la question par le demandeur ou un tiers, la représentativité des ensembles publiés.
+
+**Hypothèse de cette étude :** la formulation oraculaire pouvait aider à transformer une incertitude vécue en alternative intelligible et publiquement recevable. Ce rôle n'est ni une preuve de l'efficacité prédictive des oracles ni une négation de la foi des consultants.
+
+Le problème posé par ces documents est moins « les Grecs croyaient-ils au destin ? » que « comment un individu plaçait-il une décision encore ouverte devant une instance divine ? ». La question inscrite préserve la trace d'une décision non accomplie ; c'est cette modestie documentaire qui fait sa richesse.
+
+### Sources primaires et bibliographie
+
+- **[P1] Musée archéologique national d'Athènes**, « Seeking answers from the Gods », décembre 2025, tablette de plomb de Dodone **Kar. 865/1**, datée des IVe–IIIe siècles av. notre ère, cinq inscriptions, présentation de la question marchande : https://www.namuseum.gr/en/monthly_artefact/seeking-answers-from-the-gods/ . Notice institutionnelle contrôlée ; nous ne prétendons pas avoir déchiffré de nouveau toutes les faces.
+- **[P2] Dodona Online**, programme d'édition des lamelles et référence au corpus DVC (Dakaris, Vokotopoulou, Christidis), 2 vol., Athènes, 2013 : https://dodonaonline.com/ .
+- **[P3] I.Dodone Online 7B**, « Enquiry regarding domestic prosperity and offspring », transcription, apparat, traduction, inventaire et autopsie : https://dodonaonline.com/i-dodone-online/i-dodone-online-7b/ . L'édition indique les parties lacunaires et les inscriptions superposées.
+- **[R1] Hugh Bowden**, « What Can the Lead Tell Us? », dans Hugh Bowden et Esther Eidinow (dir.), *Visiting the Oracle at Dodona: Contexts of Unknowing in Ancient Greek Religion*, Cambridge University Press, 2026, p. 58–79, DOI 10.1017/9781009632218.005 : https://www.cambridge.org/core/books/visiting-the-oracle-at-dodona/what-can-the-lead-tell-us/35EC4AC0628026C913CED9B35BA81E00 .
+- **[R2] Michael A. Flower**, « Divination and the 'Real Presence' of the Divine in Ancient Greece », dans *Ancient Divination and Experience*, Oxford University Press, 2019, p. 203–225, DOI 10.1093/oso/9780198844549.003.0009 : https://academic.oup.com/book/32442/chapter/268785997 .
+- **[R3]** « Su una laminetta oracolare da Dodona (Lhôte 113) », notice universitaire sur la réinterprétation de la question de Satyrus et du vase : https://www.iris.unisa.it/handle/11386/4703366 . Les lectures concurrentes ne sont pas résolues ici par une nouvelle autopsie.
+- **[R4] Erica Angliker**, « Materialist Insights: The Tablets of Dodona as Objects », dans *Visiting the Oracle at Dodona*, Cambridge University Press, 2026, p. 80–96, DOI 10.1017/9781009632218.006 : https://www.cambridge.org/core/books/visiting-the-oracle-at-dodona/materialist-insights-the-tablets-of-dodona-as-objects/E1ED7BCD7941E162AFBBEFE2487F3C24 .
+- **[R5]** Étude récente « Prophecy in Clay: The Construction of Prophetic Identities in the Royal Archives of Mari », *Religions*, 16/11 (2025), article 1400, dossier ARM 26 210 : https://www.mdpi.com/2077-1444/16/11/1400 . Il s'agit de rapports de paroles prophétiques, non de formulaires de questions dodonéennes.
+- **[R6] Esther Eidinow**, *Oracles, Curses, and Risk Among the Ancient Greeks*, Oxford University Press, 2007, DOI 10.1093/acprof:oso/9780199277780.001.0001 : https://academic.oup.com/book/11514 .
+- Éric Lhôte, *Les Lamelles oraculaires de Dodone*, Genève, Droz, 2006 ; notice bibliographique : https://books.google.com/books/about/Les_lamelles_oraculaires_de_Dodone.html?id=FARJLKZqnR8C .
+- Émile Durkheim, *Les Formes élémentaires de la vie religieuse*, 1912 ; Jean-Pierre Vernant, *Mythe et pensée chez les Grecs*, 1965 ; Marcel Detienne, *Comparer l'incomparable*, 2000 : références de méthode, et non sources directes des textes des lamelles.
+
+**Continuité :** [chapitre 588 — Le silence de l'oracle](/chapitres/origines-du-sacre/588-silence-oracle-refus-reponses-sanctuaires/). **Chapitre suivant :** 590, « La réponse en voyage : ambassades, écritures et transmission des paroles divines entre sanctuaire et pouvoir ».
