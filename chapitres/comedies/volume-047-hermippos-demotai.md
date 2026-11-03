@@ -7,7 +7,7 @@ description: "Les Membres du dème d'Hermippos : fragments 13–22 K.-A., Pollux
 
 ## Hermippos, *Dēmotai* (Δημόται) — Les Membres du dème : citoyenneté, paroles et corps du voisinage
 
-**Précédent :** [Volume XLVI — *Les Cercopes*](volume-046-hermippos-kerkopes.md) · **Œuvre à ne pas confondre :** [Eupolis, *Dēmoi*, volume XIII](volume-013-eupolis-demoi.md) · [Théâtre grec](/theatre/) · [Études philosophiques](/philosophie/).
+**Précédent :** [Volume XLVI — *Les Cercopes*](/chapitres/comedies/volume-046-hermippos-kerkopes/) · **Œuvre à ne pas confondre :** [Eupolis, *Dēmoi*, volume XIII](/chapitres/comedies/volume-013-eupolis-demoi/) · [Théâtre grec](/theatre/) · [Études philosophiques](/philosophie/).
 
 **Méthode obligatoire.** [A] fragment, titre ou témoignage attesté ; [B] interprétation et hypothèse, avec degré de certitude ; [C] écriture dramatique originale. Les fragments sont décrits à partir des éditions et témoins identifiés, et aucune réplique fictive n'est imputée à Hermippos. **Date de représentation : inconnue.**
 
@@ -17,7 +17,7 @@ description: "Les Membres du dème d'Hermippos : fragments 13–22 K.-A., Pollux
 
 ### II. [A] Le titre n'est ni *Dēmoi* ni une œuvre de Posidippos
 
-Le mot δημόται est un pluriel : il désigne les personnes appartenant à un même **dème**, circonscription locale constitutive de l'organisation civique athénienne. Le titre ne doit pas être confondu avec *Dēmoi* (Δῆμοι), *Les Dèmes* d'**Eupolis**, analysé dans le [volume XIII de MYTHOS](volume-013-eupolis-demoi.md) : cette œuvre est célèbre, entre autres, pour le retour de figures politiques du passé. Une autre pièce intitulée *Dēmotai* est attribuée à Posidippos, auteur plus tardif : son fragment 10 K.-A. ne peut être transféré à Hermippos. Comentale avertit précisément contre cette confusion dans sa discussion du titre ([FrC 6, p. 84](https://digi.hadw-bw.de/view/frc6/0088)). L'identité formelle d'un titre ne garantit ni auteur commun, ni thèmes communs, ni transmission commune.
+Le mot δημόται est un pluriel : il désigne les personnes appartenant à un même **dème**, circonscription locale constitutive de l'organisation civique athénienne. Le titre ne doit pas être confondu avec *Dēmoi* (Δῆμοι), *Les Dèmes* d'**Eupolis**, analysé dans le [volume XIII de MYTHOS](/chapitres/comedies/volume-013-eupolis-demoi/) : cette œuvre est célèbre, entre autres, pour le retour de figures politiques du passé. Une autre pièce intitulée *Dēmotai* est attribuée à Posidippos, auteur plus tardif : son fragment 10 K.-A. ne peut être transféré à Hermippos. Comentale avertit précisément contre cette confusion dans sa discussion du titre ([FrC 6, p. 84](https://digi.hadw-bw.de/view/frc6/0088)). L'identité formelle d'un titre ne garantit ni auteur commun, ni thèmes communs, ni transmission commune.
 
 ### III. [A] Dème, *dēmotēs*, inscription et appartenance
 
@@ -241,4 +241,4 @@ L'enjeu intellectuel le plus profond n'est pas de combler les blancs, mais de fa
 
 ---
 
-**Suite éditoriale :** volume XLVIII seulement après vérification renouvelée du dépôt, des notices historiques et des sources. Pistes d'Hermippos encore distinctes : *Eurōpē*, *Theoi*, *Agamemnōn*.
+**Suite éditoriale :** [Volume XLVIII — Hermippos, *Theoi* / *Les Dieux*](/chapitres/comedies/volume-048-hermippos-theoi/). Le numéro suivant sera attribué après une nouvelle inspection du dépôt et des notices historiques ; pistes encore à contrôler : *Eurōpē* et *Agamemnōn*.
