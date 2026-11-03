@@ -97,7 +97,7 @@ Il serait erroné de présenter un « rite africain de la pluie » unique. Les s
 
 ### 527.15. Mésoamérique : Tláloc, Chaahk et les paysages rituels
 
-Chez les Mexica, Tláloc est associé à la pluie, aux montagnes, à l'eau et à des aspects redoutables de l'orage. Des objets du Templo Mayor et des représentations conservées dans les musées attestent l'importance de cette figure. Le Metropolitan Museum of Art conserve notamment un pendentif de dieu de la pluie (1979.206.1035), ainsi qu'un vase figurant le dieu de l'orage de Teotihuacan (1979? **voir la notice de collection 321293 pour l'identification et la datation exactes**).
+Chez les Mexica, Tláloc est associé à la pluie, aux montagnes, à l'eau et à des aspects redoutables de l'orage. Des objets du Templo Mayor et des représentations conservées dans les musées attestent l'importance de cette figure. Le Metropolitan Museum of Art conserve notamment un pendentif de dieu de la pluie (1979.206.1035), ainsi qu'un vase figurant le dieu de l'orage de Teotihuacan (Metropolitan Museum of Art, notice de collection 321293).
 
 Le dieu de l'orage de Teotihuacan ne doit pas être identifié sans réserve à Tláloc tel qu'il apparaît dans les sources mexica plus tardives. Les rapprochements iconographiques sont utiles, mais la continuité théologique exacte reste discutée.
 
