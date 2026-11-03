@@ -1,0 +1,212 @@
+# MYTHOS — VOLUME LXXIX
+## William E. Connolly : pluralisme profond, respect agonistique et politique des identités
+
+**Cycle comparatif universitaire. Suite du volume LXXVIII (Chantal Mouffe).**
+
+## 01. Objet et thèse
+
+Le pluralisme ne se réduit pas à la coexistence passive de convictions déjà reconnues. William E. Connolly soutient qu'une démocratie vivante doit transformer ses dispositions affectives, ses pratiques de reconnaissance et ses institutions afin de laisser apparaître des différences encore invisibles. Ce volume prolonge Mouffe (LXXVIII) mais déplace l'accent de la confrontation entre projets hégémoniques vers la culture éthique de la réceptivité.
+
+## 02. Méthode et niveaux de preuve
+
+[A] désigne un texte antique localisable ou une donnée bibliographique attestée; [I] une interprétation; [H] une analogie heuristique; [L] une limite de documentation. Aucune formule antique n'est présentée comme une citation littérale. Les concepts modernes ne sont pas imputés rétrospectivement aux Grecs. Les références sont fournies par divisions canoniques et les traductions sont des paraphrases.
+
+## 03. Corpus de Connolly
+
+Les textes structurants sont The Terms of Political Discourse (1974), Identity/Difference (1991), The Ethos of Pluralization (1995), Why I Am Not a Secularist (1999), Neuropolitics (2002), Pluralism (2005) et A World of Becoming (2011). [I] Leur unité tient à une critique des identités qui prétendent se suffire à elles-mêmes, et à l'exploration des pratiques qui rendent leur contestation supportable.
+
+## 04. Identité et différence
+
+[I] Toute identité collective se constitue au moyen de distinctions qui peuvent se transformer en hiérarchies morales. Une frontière descriptive entre nous et eux peut devenir une opposition entre pureté et corruption. Connolly ne préconise pas l'abolition des identités, impossible et parfois indésirable; il cherche des manières de les habiter sans convertir automatiquement l'altérité en menace.
+
+## 05. Le paradoxe politique
+
+[I] Agir exige des normes déterminées; or les normes peuvent blesser ceux qu'elles classent. L'exigence d'une décision n'annule donc pas la nécessité d'une autocritique. Ce paradoxe ne reçoit pas une solution définitive par une théorie universelle; il appelle une négociation continue des frontières de la reconnaissance.
+
+## 06. Pluralisme établi et pluralisation
+
+[I] Le pluralisme institué protège des groupes déjà identifiables. La pluralisation désigne l'apparition de nouvelles identifications, de nouveaux besoins et de revendications qui ne disposent pas encore d'une place juridique. Le premier peut se figer en inventaire clos; la seconde met les institutions à l'épreuve. Leur articulation est le problème propre de Connolly.
+
+## 07. Respect agonistique
+
+[I] Le respect agonistique ne signifie ni approbation ni indifférence. Il reconnaît à l'adversaire la capacité de défendre une orientation profonde, tout en assumant le caractère contestable de ses propres convictions. Cette disposition requiert plus que des règles procédurales : elle suppose une certaine maîtrise du ressentiment et une disponibilité à la révision.
+
+## 08. Réceptivité critique
+
+[I] La critical responsiveness vise particulièrement les identités émergentes, non encore admises dans les catégories dominantes. L'écoute n'oblige pas à approuver toute demande; elle interdit de décréter illégitime une revendication avant d'en avoir examiné les raisons et les effets. L'adjectif critique protège cette éthique contre l'idée d'une reconnaissance automatique.
+
+## 09. Éthique et affect
+
+[I] Connolly conteste une séparation rigide entre justification rationnelle et sensibilité. Les attachements, habitudes, peurs et ressentiments orientent l'attention avant toute délibération explicite. La démocratie doit donc travailler les dispositions affectives, sans réduire les citoyens à des objets de manipulation psychologique.
+
+## 10. Nietzsche et le ressentiment
+
+[A] Nietzsche, Généalogie de la morale I, 10–11, analyse la constitution réactive de certaines évaluations morales; Par-delà bien et mal 260 distingue des modalités de valorisation. [I] Connolly mobilise cette généalogie pour comprendre la tentation de moraliser les différences. [L] Le Nietzsche historique ne défend pas une démocratie égalitaire; l'usage pluraliste de ses outils est une appropriation critique, non une fidélité politique.
+
+## 11. La distance et l'égalité
+
+[I] La difficulté la plus forte de l'emprunt à Nietzsche concerne le pathos de la distance, susceptible d'exprimer une hiérarchie de rang. Une éthique démocratique du respect doit dissocier la capacité d'affirmation de soi d'un droit de dominer autrui. David Owen a précisément analysé cette tension dans son étude de 2008.
+
+## 12. Foucault et les identités produites
+
+[I] Connolly rejoint Foucault dans le refus de considérer les sujets politiques comme antérieurs aux dispositifs qui les rendent reconnaissables. Mais il insiste davantage sur l'élaboration affirmative d'un ethos démocratique. [L] Il serait erroné de confondre cette proximité avec une doctrine commune de la souveraineté.
+
+## 13. Deleuze et devenir
+
+[I] La notion de devenir permet de penser les identifications comme processus et non comme essences closes. Cette inspiration philosophique ne démontre pas que toute transformation soit bonne : les devenirs peuvent aussi être autoritaires. La valeur politique dépend de leurs effets sur les possibilités d'existence des autres.
+
+## 14. Mouffe et Connolly
+
+[I] Mouffe privilégie les frontières entre adversaires et la construction de projets hégémoniques concurrents. Connolly s'intéresse particulièrement à la manière dont ces frontières changent, ainsi qu'aux sensibilités qui rendent leur déplacement possible. L'opposition est relative : tous deux refusent le consensus final et reconnaissent le rôle constitutif du conflit.
+
+## 15. Habermas et les conditions de parole
+
+[I] Habermas exige des procédures de justification susceptibles de neutraliser les privilèges de statut. Connolly ajoute que l'accès effectif à la parole dépend d'habitudes affectives et de catégories de reconnaissance préalables. L'exigence de raisons demeure nécessaire, mais ne suffit pas si les expériences nouvelles ne peuvent même pas être formulées dans les termes recevables.
+
+## 16. Rancière et l'invisible
+
+[I] Rancière décrit la rupture par laquelle les exclus se déclarent égaux; Connolly s'attache à la réceptivité des groupes reconnus envers ces irruptions. Le premier rend visible la dimension polémique de l'égalité, le second la disposition durable qui pourrait empêcher que chaque irruption ne dégénère en hostilité.
+
+## 17. Lefort et l'indétermination
+
+[I] Le lieu vide du pouvoir chez Lefort et la pluralisation chez Connolly partagent le refus d'une incarnation définitive de la société. Toutefois Lefort décrit une forme symbolique du politique tandis que Connolly insiste sur les pratiques quotidiennes, les croyances et les affects par lesquels la contestabilité devient vivable.
+
+## 18. Arendt et la pluralité
+
+[I] Arendt pense la pluralité comme condition de l'action commune; Connolly étend la question à la pluralité des croyances métaphysiques et aux différences en formation. Leurs analyses ne se superposent pas : la distinction arendtienne entre sphère publique et nécessité sociale est moins centrale chez Connolly.
+
+## 19. Philologie de ἀγών
+
+[A] Le grec agōn désigne selon le contexte rassemblement, compétition ou lutte; le terme peut concerner les jeux, les procès et le théâtre. [H] Son extension sémantique éclaire la métaphore de l'agonisme. [L] Aucune continuité doctrinale directe ne relie le vocabulaire grec à la théorie contemporaine du respect agonistique.
+
+## 20. Philologie de ξένος
+
+[A] Xenos peut désigner l'étranger, l'hôte ou le partenaire d'hospitalité, selon les relations en jeu. [I] Cette ambivalence révèle que l'altérité n'est pas toujours conçue comme une exclusion absolue. [L] Les institutions de xenia ne constituent pas des droits politiques universels : elles dépendent de statuts, de réciprocités et de protections particulières.
+
+## 21. Philologie de μέτοικος
+
+[A] Metoikos désigne dans l'Athènes classique l'étranger résident soumis à des obligations spécifiques et privé de la citoyenneté ordinaire. [I] Le statut met en lumière la distance entre participation économique et reconnaissance politique. [L] Le métèque n'est pas assimilable sans réserve au migrant contemporain, dont les régimes juridiques sont très différents.
+
+## 22. Philologie de ἰσηγορία
+
+[A] Isēgoria renvoie à une égalité de prise de parole dans un cadre civique; Hérodote V, 78 associe l'essor athénien à l'égalité politique, mais emploie isēgoria dans son analyse. [I] L'égalité de parole suppose une délimitation du corps des personnes admises à parler. Cette tension nourrit la comparaison avec la réceptivité critique.
+
+## 23. Philologie de παρρησία
+
+[A] Parrhēsia désigne le franc-parler ou la liberté de parole, selon les genres et les périodes. [I] La possibilité de s'exprimer ne garantit ni l'écoute ni la sécurité de l'interlocuteur. Connolly invite à distinguer permission formelle et conditions affectives d'une réception effective.
+
+## 24. Philologie de στάσις
+
+[A] Stasis peut désigner une faction ou une guerre civile; Thucydide III, 82–83 décrit l'intensification des antagonismes à Corcyre. [I] Quand l'adversaire est construit comme ennemi absolu, les engagements communs se défont. [L] Le texte de Thucydide est une composition historiographique et non une enquête quantitative.
+
+## 25. Hérodote et la diversité des coutumes
+
+[A] Hérodote III, 38 met en scène la diversité des usages funéraires à travers une comparaison entre Grecs et Indiens. [I] Le récit permet de réfléchir à la force des attachements culturels et à l'étonnement devant les pratiques d'autrui. [L] Il ne défend pas un relativisme démocratique contemporain; il construit une réflexion narrative sur nomos.
+
+## 26. Le nomos et l'épreuve de l'autre
+
+[A] Nomos couvre notamment coutume, usage et loi. [I] L'expérience d'une autre coutume peut révéler la contingence de ce que l'on croyait naturel. Mais cette découverte n'oblige pas à renoncer au jugement : elle invite à argumenter sans confondre immédiatement différence et barbarie.
+
+## 27. Les Suppliantes d'Eschyle
+
+[A] Dans les Suppliantes, le roi d'Argos ne tranche pas seul le sort des Danaïdes; la décision collective est dramatisée, notamment vers 600–624. [I] L'accueil de femmes étrangères confronte obligation religieuse, sécurité civique et risque de guerre. [L] La pièce ne constitue pas une déclaration de droits des réfugiés; son intrigue dépend d'une situation mythique et d'un horizon religieux spécifique.
+
+## 28. Médée et la condition étrangère
+
+[A] Euripide, Médée, notamment 230–266 et 446–626, met en scène la vulnérabilité d'une femme étrangère dans la cité corinthienne. [I] Le drame donne une visibilité saisissante à une expérience marginalisée sans faire de Médée un modèle moral. La violence finale interdit toute lecture univoquement émancipatrice.
+
+## 29. Antigone et l'autorité de la norme
+
+[A] Sophocle, Antigone 450–470 oppose la proclamation de Créon à des obligations religieuses invoquées par Antigone. [I] Une norme politique peut prétendre à l'exhaustivité alors qu'elle demeure contestée par d'autres ordres de légitimité. [L] Antigone ne défend pas une théorie moderne du pluralisme religieux.
+
+## 30. Les Euménides et la conversion du conflit
+
+[A] Eschyle, Euménides 681–753 dramatise l'institution d'un jugement; la fin de la pièce intègre les Erinyes à un nouvel ordre civique. [I] L'interprétation pluraliste peut y voir une transformation de l'hostilité en coexistence institutionnelle. [L] Cette réconciliation repose sur une théologie civique, non sur la reconnaissance égalitaire de croyances concurrentes.
+
+## 31. Aristophane et les nouvelles voix
+
+[A] Dans l'Assemblée des femmes, Aristophane imagine une prise de contrôle politique par des femmes travesties en citoyens; dans les Oiseaux, la fondation de Coucouville-les-Nuées déplace les frontières du pouvoir. [I] La comédie rend pensables des inversions de statut, mais le rire ne suffit pas à prouver un soutien de l'auteur à l'égalité politique des femmes ou à une société inclusive.
+
+## 32. Thucydide et Mytilène
+
+[A] Thucydide III, 36–49 rapporte le réexamen d'une décision athénienne contre Mytilène. [I] La révision témoigne de la possibilité institutionnelle de changer d'avis. [L] Les Mytiléniens ne participent pas en égaux à la décision; le cas révèle la frontière impériale du pluralisme civique.
+
+## 33. Le dialogue mélien
+
+[A] Thucydide V, 84–116 expose la dissymétrie entre Athéniens et Méliens. [I] Le dialogue ne garantit aucun respect si l'un des interlocuteurs conserve le pouvoir de détruire l'autre. La réceptivité exige des protections contre la coercition, et non la seule coexistence verbale d'arguments.
+
+## 34. Aristote et les limites de la citoyenneté
+
+[A] Politique III, 1, 1275a–b définit le citoyen par des fonctions de décision et de jugement; I, 2, 1253a distingue la voix et le logos. [I] La communauté politique est définie par une capacité de participation dont l'accès est historiquement restreint. [L] Aristote ne formule pas une doctrine de l'inclusion démocratique universelle.
+
+## 35. Religion et espace public
+
+[I] Connolly conteste une conception du sécularisme qui demande aux croyants d'effacer leurs engagements profonds avant d'entrer dans la discussion. Il défend la confrontation de convictions religieuses et non religieuses, sous des conditions de respect mutuel. Cette thèse ne signifie pas que toute prescription religieuse puisse devenir loi sans contrôle démocratique.
+
+## 36. Pluralisme profond et monisme
+
+[I] Le pluralisme profond prend au sérieux l'existence de visions du monde incompatibles, sans les réduire à une croyance privée superficielle. Il récuse l'idée que la paix dépende nécessairement d'une métaphysique commune. Sa difficulté est de définir les limites de la tolérance face aux projets qui cherchent à supprimer la pluralité elle-même.
+
+## 37. Égypte : Maât et pluralité
+
+[A] Les textes sapientiaux égyptiens et les représentations royales mobilisent la Maât comme ordre juste et vérité; les attestations varient selon les périodes. [H] On peut comparer la recherche d'un ordre légitime avec les difficultés modernes de coexistence. [L] La Maât n'est pas une théorie du pluralisme démocratique; aucune équivalence institutionnelle ne doit être suggérée.
+
+## 38. Mésopotamie : lois et statuts
+
+[A] Le prologue et l'épilogue de la stèle de Hammurabi présentent une légitimation royale de la justice; les dispositions distinguent plusieurs statuts sociaux. [I] Le cas rappelle que la reconnaissance juridique peut coexister avec des hiérarchies marquées. [L] Les articles de la stèle ne sont pas assimilables à un code constitutionnel moderne.
+
+## 39. Perse : diversité et empire
+
+[A] Les inscriptions achéménides, dont DB de Darius Ier, mettent en scène la légitimité royale et la lutte contre le mensonge; les documents administratifs de Persépolis attestent la diversité des personnels et pratiques. [H] L'empire pose une question comparative sur le gouvernement de populations différentes. [L] Il ne constitue pas une démocratie agonistique et les sources royales sont des discours de légitimation.
+
+## 40. Hegel et reconnaissance
+
+[A] La Phénoménologie de l'esprit, section sur la conscience de soi, examine une relation conflictuelle de reconnaissance. [I] Connolly partage l'attention aux relations constitutives entre soi et autrui, mais résiste à la promesse d'une réconciliation dialectique totale. [L] La lecture de Hegel comme philosophe d'une synthèse définitivement harmonieuse est elle-même discutée.
+
+## 41. Vernant et les catégories historiques
+
+[I] Vernant insiste sur la constitution historique des formes grecques de pensée, de la polis et de la personne. Cette méthode corrige l'anachronisme qui consisterait à chercher chez les Grecs les identités politiques contemporaines. Elle permet de comparer des problèmes sans supposer des concepts identiques.
+
+## 42. Detienne et comparer l'incomparable
+
+[I] La méthode comparative de Detienne encourage la construction de comparables limités plutôt que la recherche d'une essence transhistorique de la démocratie. Comparer l'accueil de l'étranger ou les pratiques de délibération requiert des unités d'analyse explicites, des écarts documentés et le refus de hiérarchiser les civilisations selon un modèle unique.
+
+## 43. Objection : l'éthique sans institutions
+
+[I] Un ethos de respect peut demeurer impuissant si les groupes disposent de ressources radicalement inégales. L'accès au logement, à la justice, à l'éducation et aux médias conditionne la possibilité de se faire entendre. La théorie doit donc être complétée par une analyse des institutions, des distributions matérielles et des sanctions contre la violence.
+
+## 44. Objection : l'ouverture sans critères
+
+[I] Si toute identité est contestable, sur quelle base refuser les mouvements visant à abolir les libertés d'autrui ? Une réponse cohérente consiste à distinguer la révisabilité des normes de l'abandon des garanties minimales de contestation et de non-domination. Cette solution demeure normative et ne découle pas automatiquement d'une ontologie du devenir.
+
+## 45. Objection : les passions antagonistes
+
+[I] Les affects peuvent rendre possible la solidarité comme alimenter la haine. La transformation démocratique des sensibilités ne peut être décrétée par l'État sans risque de paternalisme. Elle dépend de pratiques publiques, d'une éducation critique et d'institutions ouvertes à leur propre contestation.
+
+## 46. Objection : asymétrie de la tolérance
+
+[I] Demander aux dominés de respecter leurs adversaires sans protéger leur sécurité peut renforcer la domination. La réceptivité critique doit d'abord être exigée des groupes dotés d'une forte capacité de définition des normes. Cette asymétrie est un critère d'évaluation politique, non un permis d'exclure arbitrairement des individus.
+
+## 47. Proposition comparative
+
+[H] Trois questions peuvent guider les recherches ultérieures : qui peut parler, qui est reconnu comme interlocuteur et quelles institutions permettent à une revendication nouvelle de modifier les normes ? Ces questions s'appliquent aux corpus antiques sans supposer que leurs auteurs les formulaient ainsi. Elles relient philologie, histoire institutionnelle et théorie normative.
+
+## 48. Conclusion
+
+Le déplacement de Mouffe à Connolly est celui d'une démocratie des adversaires vers une démocratie attentive à l'apparition d'adversaires nouveaux. Le conflit ne suffit pas; il faut des dispositions à reconnaître l'inattendu et des protections concrètes pour ceux qui le portent. Les sources grecques montrent simultanément des dispositifs de parole, des pratiques d'accueil et de fortes exclusions : leur valeur comparative réside précisément dans cette tension.
+
+## 49. Bibliographie primaire moderne
+
+William E. Connolly, The Terms of Political Discourse (1974); Identity/Difference: Democratic Negotiations of Political Paradox (1991); The Ethos of Pluralization (1995); Why I Am Not a Secularist (1999); Neuropolitics: Thinking, Culture, Speed (2002); Pluralism (Duke University Press, 2005); A World of Becoming (2011). Chantal Mouffe, The Democratic Paradox (2000); Agonistics (2013). Nietzsche, Généalogie de la morale (1887); Hegel, Phénoménologie de l'esprit (1807).
+
+## 50. Sources antiques et éditions de référence
+
+Hérodote, Histoires III, 38 et V, 78; Thucydide, Guerre du Péloponnèse III, 36–49; III, 82–83; V, 84–116; Eschyle, Suppliantes 600–624 et Euménides 681–753; Sophocle, Antigone 450–470; Euripide, Médée 230–266, 446–626; Aristophane, Assemblée des femmes et Oiseaux; Aristote, Politique I, 2; III, 1. Pour les textes grecs, confronter les éditions critiques OCT/Teubner et les traductions Budé; vérifier les numérotations de vers selon l'édition.
+
+## 51. Bibliographie critique et ressources vérifiables
+
+David R. Howarth, « Ethos, Agonism and Populism: William Connolly and the Case for Radical Democracy », British Journal of Politics & International Relations 10/2 (2008), 171–193, DOI 10.1111/j.1467-856X.2007.00308.x. David Owen, « Pluralism and the Pathos of Distance », même revue 10/2 (2008), 210–226, DOI 10.1111/j.1467-856X.2007.00310.x. Jean-Pierre Vernant, Les Origines de la pensée grecque (1962). Marcel Detienne, Comparer l'incomparable (2000). Notices éditeurs : https://www.dukeupress.edu/pluralism ; https://www.upress.umn.edu/9780816626694/ethos-of-pluralization/ .
+
+## 52. Bilan documentaire
+
+[A] Les titres modernes, leurs années principales, les repères des textes antiques et les références critiques sont identifiables. [I] Les rapprochements théoriques sont des propositions argumentées, non des citations de Connolly. [H] Les comparaisons interculturelles restent heuristiques. [L] Aucune consultation exhaustive des éditions grecques ni des archives épigraphiques n'est revendiquée; la vérification textuelle détaillée devra être poursuivie pour toute citation littérale future.
