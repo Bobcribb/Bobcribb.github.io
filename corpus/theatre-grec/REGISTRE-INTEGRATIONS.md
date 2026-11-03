@@ -170,3 +170,14 @@ Contrôle avant déploiement : `scripts/check-lemniai.py`, branché dans `.githu
 **Interface :** sommaires cliquables, navigation étude/scènes, renvoi réciproque depuis *Lemniai*, accueil, Théâtre, Philosophie et sommaires HTML/Markdown. Bandeau SVG local `assets/mythos-hero.svg` (statue à gauche, temple à droite) étendu aux rubriques, cartes illustrées et responsive. La suite XXXII demeure signalée comme archive historique et non comme volume publié sur le nouveau site.
 
 **Garde-fou :** `scripts/check-geras.py` ajouté au workflow Pages. Contrôle source par Git SHA, 22/22 sections, distinction 19/3, sommaires et bibliographie. Cela vérifie la fidélité de la publication, pas l'authenticité des fragments antiques ni la totalité des références savantes. Aucune archive ni autre automatisation n'est modifiée.
+
+
+## 3 novembre 2026 — Réparation des lecteurs Polyidos et Daidalos dans le dépôt actif
+
+**Problème constaté** : dans le dépôt actif `Bobcribb/Bobcribb.github.io`, les manuscrits `corpus/theatre-grec/comedies/polyidos-source.md` et `daidalos-source.md` existaient, mais les quatre lecteurs `*-etude.html` et `*-scenes-modernes.html` mentionnés dans ce registre manquaient (HTTP 404 sur le site). Les versions complètes historiques restaient accessibles dans `/chapitres/comedies/volume-025-aristophane-polyidos/` et `/chapitres/comedies/volume-026-aristophane-daidalos/`.
+
+**Correction contrôlée :** les deux sources Markdown locales sont strictement identiques par empreinte Git aux manuscrits historiques sous `chapitres/comedies/` : Polyidos blob `46c2cd20c5d797aee436bd83b429a8ffeef0e76b`, Daidalos blob `7e700ab6e72f26208e47d6e3eb600e41f95af78c`. `Polyidos` comprend 19 sections (16 critiques, 3 créations [C] XIV–XVI) ; `Daidalos` en comprend 22 (19 critiques, 3 créations [C] XVIII–XX). Le partage des sections a été vérifié sans omission ni répétition ; les préambules, conclusions et bibliographies restent dans les parcours critiques. Les deux manuscrits sources sont conservés sans modification.
+
+**Lecteurs restaurés :** [TH-03-POL — Étude](comedies/polyidos-etude.html), [TH-02-POL — Scènes](comedies/polyidos-scenes-modernes.html), [TH-03-DAI — Étude](comedies/daidalos-etude.html), [TH-02-DAI — Scènes](comedies/daidalos-scenes-modernes.html). Sommaires à ancres, cotes, styles mobiles, liens entre les parcours et renvois vers les archives ; entrées réparées dans Théâtre grec, Philosophie et les sommaires généraux. Les illustrations de bannière sont des motifs modernes, non des photographies de fragments antiques.
+
+**Limites :** la conservation du texte des sections et l'existence des fichiers sont vérifiables dans GitHub. La présence publique des quatre nouvelles pages doit être testée après le déploiement GitHub Pages ; leur vérification philologique indépendante reste distincte de ce contrôle de migration. Aucun autre manuscrit ni aucune automatisation MYTHOS n'a été modifié.
