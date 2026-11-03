@@ -6,6 +6,7 @@ on:
     paths:
       - '.github/workflows/publish.yml'
       - 'scripts/build_native.py'
+      - 'scripts/build_greek_corpus.py'
       - 'scripts/build_navigation.py'
       - 'scripts/origines_reconciliation.py'
       - 'EDITORIAL_REDIRECTS.json'
