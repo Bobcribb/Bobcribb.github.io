@@ -156,3 +156,6 @@ Il serait méthodologiquement faible de faire de la comédie perdue un manifeste
 ---
 
 **Suite éditoriale :** volume XXXI, à choisir après vérification du catalogue et des notices historiques. 
+
+
+**Suite du cycle :** [Volume XXXI — *La Vieillesse*](volume-031-aristophane-geras.md).
