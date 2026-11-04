@@ -85,5 +85,37 @@ src="/assets/legacy-perspective.svg" alt=""><strong>Théâtre grec</strong></a>
                                  '/reconstitutions-photorealistes.html#delphes-apollon-panorama')
 
 
+    def test_epic_print_heading_and_return_to_top_are_stable(self):
+        # Le bandeau doit être le seul H1 ; le titre imprimé reste dans le
+        # document et #top doit fonctionner sans texte ou média sacrifié.
+        with TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            for name in ('philosophie-iliade.html', 'philosophie-odyssee.html',
+                         'philosophie-theogonie.html'):
+                title = name.removeprefix('philosophie-').removesuffix('.html')
+                html = ('<html><head><title>' + title + '</title></head><body><main>'
+                        '<h1>Analyse philosophique</h1>'
+                        '<p>Texte intégral et appareil critique conservés.</p>'
+                        '<a href="#top">Revenir en haut</a>'
+                        '<h1 class="print-title">Titre imprimé ' + title + '</h1>'
+                        '<section><h2>Sources anciennes</h2><p>Homère, Hésiode et leur réception.</p></section>'
+                        '</main></body></html>')
+                (root / name).write_text(html, encoding='utf-8')
+            for _ in range(2):
+                self.assertEqual(apply(root), 3)
+                for name in ('philosophie-iliade.html', 'philosophie-odyssee.html',
+                             'philosophie-theogonie.html'):
+                    doc = BeautifulSoup((root / name).read_text(encoding='utf-8'),
+                                        'html.parser')
+                    self.assertEqual(len(doc.select('h1')), 1, name)
+                    self.assertEqual(len(doc.select('main h2.print-title')), 1, name)
+                    self.assertIsNotNone(doc.find(id='top'), name)
+                    self.assertEqual(len(doc.select('a[href="#top"]')), 1, name)
+                    self.assertIn('Texte intégral et appareil critique conservés.',
+                                  doc.get_text(' ', strip=True), name)
+                    self.assertIn('Homère, Hésiode et leur réception.',
+                                  doc.get_text(' ', strip=True), name)
+
+
 if __name__ == '__main__':
     unittest.main()
