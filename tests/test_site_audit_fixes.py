@@ -11,6 +11,7 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / 'scripts'))
 import build_native as build
 import build_navigation as navigation
+from apply_museum_design import apply as apply_museum_design
 
 
 class SiteAuditFixTests(unittest.TestCase):
@@ -34,6 +35,16 @@ class SiteAuditFixTests(unittest.TestCase):
         self.assertIsNone(doc.find('script'))
         self.assertIsNone(doc.select_one('[onclick]'))
         self.assertIsNone(doc.select_one('#bad'))
+
+    def test_museum_design_preserves_html_attachments_byte_for_byte(self):
+        raw = '<!doctype html><html><head><title>Annexe</title></head><body><h1>Annexe</h1><main><p>Source intacte.</p></main></body></html>\n'
+        attachments = [self.write(name, raw) for name in
+                       ['assets/philosophie/audit.html', 'media/annexe.html']]
+        page = self.write('etude/index.html', raw)
+        self.assertEqual(apply_museum_design(self.root), 1)
+        for attachment in attachments:
+            self.assertEqual(attachment.read_bytes(), raw.encode('utf-8'))
+        self.assertIn('data-mythos-design', page.read_text())
 
     def test_chapter_toc_anchors_are_unique_and_existing_ids_are_preserved(self):
         result = build.resolve_chapter_links('<a href="#chap-853">Sommaire</a><h2>853. Monstres</h2><h2>Chapitre 443 — Éleusis</h2><h2>Chapitre 443 — Complément</h2><h2 id="custom">Chapitre 444</h2>', self.root/'chapter.md', self.root)

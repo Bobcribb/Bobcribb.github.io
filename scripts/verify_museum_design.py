@@ -39,6 +39,10 @@ def verify():
     out=ROOT/'_site'
     pages=0;redirects=0
     for p in out.rglob('*.html'):
+        relative = p.relative_to(out)
+        if relative.parts[0] in {'assets', 'media'}:
+            assert p.read_bytes() == (ROOT/relative).read_bytes(), str(p)
+            continue
         raw=p.read_text()
         if 'http-equiv="refresh"' in raw.lower() or "http-equiv='refresh'" in raw.lower():
             redirects+=1;continue

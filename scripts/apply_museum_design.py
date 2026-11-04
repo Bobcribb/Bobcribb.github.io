@@ -59,6 +59,9 @@ def apply(root):
     root = Path(root)
     count = 0
     for path in sorted(root.rglob('*.html')):
+        # Les pièces jointes restent des sources immuables, même en HTML.
+        if path.relative_to(root).parts[0] in {'assets', 'media'}:
+            continue
         doc = BeautifulSoup(path.read_text(encoding='utf-8'), 'html.parser')
         if not doc.body or not doc.head or doc.select_one('meta[http-equiv="refresh" i]'):
             continue
