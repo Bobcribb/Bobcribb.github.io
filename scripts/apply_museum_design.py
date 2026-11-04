@@ -86,6 +86,24 @@ def apply(root):
         doc = BeautifulSoup(path.read_text(encoding='utf-8'), 'html.parser')
         if not doc.body or not doc.head or doc.select_one('meta[http-equiv="refresh" i]'):
             continue
+        # Normalize the two old 2.5D/vector decorative illustrations on
+        # the rendered page only. Linked historical source files and
+        # original scholarly text are not modified by this presentation pass.
+        legacy_art = ('/assets/mythos-hero.svg', '/assets/mythos-archaeology-tiles.svg')
+        museum_banner = '/assets/mythos-museum-banner.webp'
+        for img in doc.find_all('img', src=True):
+            if img['src'].split('?', 1)[0] in legacy_art:
+                img['src'] = museum_banner
+        for element in doc.find_all(style=True):
+            if any(old in element['style'] for old in legacy_art):
+                for old in legacy_art:
+                    element['style'] = element['style'].replace(old, museum_banner)
+        for style in doc.find_all('style'):
+            if style.string and any(old in style.string for old in legacy_art):
+                css = str(style.string)
+                for old in legacy_art:
+                    css = css.replace(old, museum_banner)
+                style.string = css
         rel = path.relative_to(root).as_posix()
         url = '/' + (rel[:-10] if rel.endswith('index.html') else rel)
         portal_url = '/' if url == '/' else url.removesuffix('.html').rstrip('/') + '/'

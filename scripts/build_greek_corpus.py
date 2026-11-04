@@ -288,7 +288,7 @@ def main(out, root):
     </section></section>'''
     css=doc.new_tag("style",id="greek-unified-corpus-style")
     css.string=""" .greek-corpus-full{margin:2.5rem 0 3.5rem}
-    .greek-corpus-banner{background:linear-gradient(90deg,#091013ee,#101617d7 48%,#081012ad),url('/assets/mythos-hero.svg') center/cover;padding:clamp(1.5rem,5vw,3.2rem);border:1px solid #b18e53;border-radius:6px}
+    .greek-corpus-banner{background:linear-gradient(90deg,#091013ee,#101617d7 48%,#081012ad),url('/assets/mythos-museum-banner.webp') center/cover;padding:clamp(1.5rem,5vw,3.2rem);border:1px solid #b18e53;border-radius:6px}
     .greek-corpus-banner h2{color:#f0d6a1;font:clamp(1.8rem,3.6vw,3rem)/1.15 Georgia,serif;max-width:780px}
     .greek-corpus-banner p{color:#f1e7d7;line-height:1.65;max-width:750px}
     .greek-corpus-kicker{color:#d8b778;font:600 .8rem system-ui;letter-spacing:.15em}

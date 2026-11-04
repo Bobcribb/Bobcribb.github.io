@@ -3,7 +3,7 @@
 .article-breadcrumb a:hover{text-decoration:underline}
 .article-wrapper{width:min(100% - 30px,1120px);margin:0 auto 80px}
 .article-head{position:relative;isolation:isolate;padding:72px clamp(24px,5vw,75px) 60px;text-align:center;background:#12181a;border:1px solid #846b49}
-.article-head:before{content:"";position:absolute;inset:0;z-index:-1;background:linear-gradient(90deg,#0b1013d9,#0b1013b2,#0b1013d9),url('/assets/mythos-hero.svg') center/cover}
+.article-head:before{content:"";position:absolute;inset:0;z-index:-1;background:linear-gradient(90deg,#0b1013d9,#0b1013b2,#0b1013d9),url('/assets/mythos-museum-banner.webp') center/cover}
 .article-kicker{font:600 11px Inter,Arial,sans-serif;letter-spacing:.24em;text-transform:uppercase;color:#d1aa6b}
 .article-head h1{font:500 clamp(45px,6vw,80px)/1.06 'Cormorant Garamond',Georgia,serif;letter-spacing:.035em;color:#f4ead9;margin:14px auto 9px;max-width:900px}
 .article-head p{color:#cfbd9f;font-size:14px;line-height:1.7;margin:12px auto;max-width:710px}

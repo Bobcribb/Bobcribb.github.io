@@ -1,6 +1,6 @@
 /* MYTHOS · Lecteur des tomes OS-CONV · 2026-11-03 */
 :root{--reader-gold:#d5ae77;--reader-dark:#0a0e10;--reader-panel:#12191b;--reader-line:#6b5338}
-.reader-cover{position:relative;isolation:isolate;overflow:hidden;min-height:238px;padding:45px clamp(18px,5vw,70px);display:flex;align-items:center;justify-content:center;text-align:center;background:#111617 url('/assets/mythos-hero.svg') center center/cover no-repeat;border-bottom:1px solid #997246}
+.reader-cover{position:relative;isolation:isolate;overflow:hidden;min-height:238px;padding:45px clamp(18px,5vw,70px);display:flex;align-items:center;justify-content:center;text-align:center;background:#111617 url('/assets/mythos-museum-banner.webp') center center/cover no-repeat;border-bottom:1px solid #997246}
 .reader-cover::before{content:"";position:absolute;inset:0;z-index:-1;background:linear-gradient(90deg,#090e10a0,#090e10d7 34%,#090e10db 63%,#090e10a0)}
 .reader-cover h1{font:500 clamp(36px,5vw,69px)/1.04 'Cormorant Garamond',Georgia,serif;letter-spacing:.055em;color:#f0dfc4;margin:8px 0}
 .reader-cover .eyebrow{font:12px/1.5 Inter,Arial,sans-serif;letter-spacing:.2em;text-transform:uppercase;color:#dfb980}
