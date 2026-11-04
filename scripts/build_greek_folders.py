@@ -508,7 +508,7 @@ CSS = '''
 .greek-folder-arrow{color:#e3be7d;margin-top:.4rem;align-self:flex-end}
 .greek-folder-link:hover,.greek-folder-link:focus-visible{background:#182125;outline:2px solid #e5c38d;outline-offset:-2px}
 .greek-folder-credit{border-top:1px solid #5d4e3a;padding:.45rem 1rem .75rem;color:#d7cab2;font:13px/1.5 Georgia,serif;overflow-wrap:anywhere}
-.greek-folder-credit summary{color:#ead0a4;cursor:pointer}
+.greek-folder-credit summary{display:flex;align-items:center;min-height:44px;box-sizing:border-box;color:#ead0a4;cursor:pointer;overflow-wrap:anywhere}
 .greek-folder-credit p{font-size:.8rem;margin:.55rem 0}
 .greek-folder-credit a{color:#f7dda7;text-decoration:underline}
 @media(max-width:700px){.mythos-design .greek-folder-link>.greek-folder-illustration{height:125px!important}}
@@ -525,8 +525,9 @@ CSS = '''
 .greek-folder-toc~.portal-section[id^="theme-"]{scroll-margin-top:115px}
 .greek-folder-toc~.portal-section[id^="theme-"]:target{outline:2px solid #dab981;outline-offset:4px}
 .greek-complete-catalogue{margin:2.5rem 0;border-top:1px solid #8b724d;padding-top:1.2rem}
-.greek-complete-catalogue>summary{font:1.35rem Georgia,serif;color:#e9cd9a;cursor:pointer;padding:.8rem}
+.greek-complete-catalogue>summary{display:flex;align-items:center;min-height:44px;box-sizing:border-box;font:1.35rem Georgia,serif;color:#e9cd9a;cursor:pointer;padding:.8rem}
 .greek-folder-toc a:focus-visible,.greek-folder-links a:focus-visible,.greek-complete-catalogue>summary:focus-visible{outline:3px solid #f8dc9c;outline-offset:4px}
 @media(max-width:1050px){.greek-folder-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:700px){.greek-folder-grid,.greek-folder-links{grid-template-columns:1fr}.greek-folder-toc ul{display:block}.greek-folder-toc li{margin-bottom:.5rem}.greek-folder-toc a{width:100%}}
+@media(max-width:400px){.greek-folder-link{padding:0 .85rem .9rem}.mythos-design .greek-folder-link>.greek-folder-illustration{width:calc(100% + 1.7rem)!important;margin:0 -.85rem .75rem!important;height:110px!important}.greek-folder-link strong{font-size:1.16rem}.greek-folder-credit{padding:.6rem .85rem}}
 '''
