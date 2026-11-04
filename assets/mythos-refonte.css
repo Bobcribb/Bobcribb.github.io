@@ -50,3 +50,12 @@
 .layout > aside.mythos-bottom-gallery figcaption{font-size:.84rem;line-height:1.6;padding:11px 0 2px}
 @media(max-width:680px){.layout > aside.mythos-bottom-gallery{grid-template-columns:1fr;padding:15px}.content figure.mythos-editorial-inline img{max-height:490px}}
 @media print{.layout > aside.mythos-bottom-gallery{background:white;color:black;border-color:#555}.layout > aside.mythos-bottom-gallery > figure{break-inside:avoid}}
+
+/* Énéide : l’étude possède un main.philo-work autonome plutôt qu’un article.content. */
+.philo-work figure.mythos-editorial-inline{display:block;clear:both;box-sizing:border-box;margin:2.4rem auto;max-width:min(100%,1000px);background:#151a1c;color:#e8decc;border:1px solid #927448;border-radius:5px;overflow:hidden}
+.philo-work figure.mythos-editorial-inline>a{display:block;background:#101619;line-height:0}
+.philo-work figure.mythos-editorial-inline img{display:block;max-width:100%;width:100%;height:auto;max-height:590px;object-fit:contain}
+.philo-work figure.mythos-editorial-inline figcaption{padding:16px 20px;font:16px/1.6 Georgia,serif;color:#eadcc7}
+.philo-work figure.mythos-editorial-inline figcaption a{color:#edcd92;text-decoration:underline}
+@media(max-width:700px){.philo-work figure.mythos-editorial-inline{margin:1.35rem 0}.philo-work figure.mythos-editorial-inline figcaption{padding:13px;font-size:14px}}
+@media print{.philo-work figure.mythos-editorial-inline{break-inside:avoid;background:white;color:black;border-color:#333}.philo-work figure.mythos-editorial-inline figcaption{color:black}}

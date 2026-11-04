@@ -14,6 +14,7 @@ from bs4 import BeautifulSoup
 
 CATALOG = Path(__file__).with_name("editorial_media.json")
 DIAGRAM_CATALOG = Path(__file__).with_name("editorial_diagrams.json")
+PLACEMENT_CATALOG = Path(__file__).with_name("editorial_placements.json")
 RECON_SELECTIONS = Path(__file__).with_name("editorial_reconstitutions.json")
 RECON_CATALOG = Path(__file__).resolve().parents[1] / "assets/reconstitutions-3d/catalogue-photorealiste.json"
 GENERATED_CLASSES = {"mythos-home-illustrations", "mythos-visual-rail"}
@@ -251,10 +252,32 @@ def select_section_media(path, article, out, records, primary):
     return selected, anchors
 
 
+def positioned_illustrations(path, article, records):
+    """Use only explicit page-specific subject-to-section placements."""
+    if not PLACEMENT_CATALOG.is_file():
+        return {}
+    rules = json.loads(PLACEMENT_CATALOG.read_text(encoding="utf-8")).get("pages", {}).get(path.name, {})
+    if not rules:
+        return {}
+    selected = {record["id"] for record in records}
+    anchors = {}
+    for media_id, heading_excerpt in rules.items():
+        if media_id not in selected:
+            continue
+        excerpt = normalized(heading_excerpt)
+        for heading in article.find_all(("h2", "h3")):
+            if section_heading_ok(heading) and excerpt in normalized(heading.get_text(" ", strip=True)):
+                anchor = section_anchor(heading)
+                if anchor is not None:
+                    anchors[media_id] = anchor
+                break
+    return anchors
+
+
 def decorate_document(source, path, out, records):
     doc = BeautifulSoup(source, "html.parser")
     main = doc.find("main")
-    article = main.find("article") if main else None
+    article = (main.find("article") or (main if "philo-work" in main.get("class", []) else None)) if main else None
     if not article:
         return source, []
 
@@ -285,6 +308,7 @@ def decorate_document(source, path, out, records):
     # First place section-specific documentary figures alongside their actual
     # subsection; distribute title-backed images across remaining paragraphs.
     inline_records = (scoped + primary)[:inline_count]
+    anchors.update(positioned_illustrations(path, article, inline_records))
     used_paragraphs = set()
     for record in inline_records:
         anchor = anchors.get(record["id"])
@@ -321,7 +345,10 @@ def decorate_document(source, path, out, records):
         aside.append(heading)
         for record in remaining:
             aside.append(make_figure(doc, record))
-        article.insert_after(aside)
+        if article is main:
+            main.append(aside)
+        else:
+            article.insert_after(aside)
         main["class"] = list(dict.fromkeys(main.get("class", []) + ["portal-layout"]))
     return str(doc), [r["id"] for r in chosen]
 

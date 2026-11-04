@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "policy": "Placement de figures uniquement dans les sections universitaires spécifiées; aucune réécriture des manuscrits.",
+  "pages": {
+    "philosophie-eneide.html": {
+      "mythos-diagramme-eneide-deux-mouvements": "Les douze chants comme architecture de la connaissance",
+      "mythos-diagramme-eneide-fuite-troie-livre-ii": "Le témoin et le survivant",
+      "mythos-met-199612-enee-fuite-troie-email": "Anchise, Ascagne, Créuse",
+      "mythos-diagramme-eneide-didon-dilemme-livre-iv": "Le dialogue : deux descriptions incompatibles",
+      "mythos-met-199637-enee-tombe-anchise-email": "Le retour en Sicile et l’anniversaire d’Anchise",
+      "mythos-diagramme-eneide-turnus-denouement-livre-xii": "L’hésitation d’Énée : la possibilité réelle d’un autre geste"
+    }
+  }
+}

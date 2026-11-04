@@ -282,6 +282,36 @@ class EditorialIllustrationsTest(unittest.TestCase):
         self.assertEqual([], selected_unrelated)
         self.assertFalse(unrelated.select('figure[data-editorial-inline]'))
 
+    def test_eneide_document_without_article_receives_six_precisely_placed_figures(self):
+        import json
+        headings = [
+            "Les douze chants comme architecture de la connaissance",
+            "Le témoin et le survivant",
+            "Anchise, Ascagne, Créuse : une transmission inégale",
+            "Le dialogue : deux descriptions incompatibles d’une même histoire",
+            "Le retour en Sicile et l’anniversaire d’Anchise",
+            "L’hésitation d’Énée : la possibilité réelle d’un autre geste",
+        ]
+        prose = "La lecture universitaire distingue l’action, la mémoire et ses incertitudes philologiques. " * 7
+        body = "".join("<h3>" + name + "</h3><p>" + prose + "</p><p>" + prose + "</p>" for name in headings)
+        source = "<html><head></head><body><main class=\"philo-work\"><h1>L’Énéide de Virgile</h1>" + body + "</main></body></html>"
+        text, selected = illustrations.decorate_document(source, Path('philosophie-eneide.html'), ROOT, self.records)
+        page = BeautifulSoup(text, 'html.parser')
+        rules = json.loads((ROOT / 'scripts/editorial_placements.json').read_text())['pages']['philosophie-eneide.html']
+        self.assertEqual(6, len(selected))
+        self.assertEqual(6, len(page.select('main.philo-work figure[data-editorial-inline="subject-v3"]')))
+        self.assertEqual(12, len(page.main.select('p')))
+        for media_id, expected_heading in rules.items():
+            with self.subTest(media_id=media_id):
+                fig = page.main.select_one('figure[data-media-id="' + media_id + '"]')
+                self.assertIsNotNone(fig)
+                self.assertIn(expected_heading.casefold(), fig.find_previous('h3').get_text(' ', strip=True).casefold())
+                self.assertTrue(fig.select('figcaption a[href^="https://"]'))
+                self.assertTrue((ROOT / fig.img['src'].lstrip('/')).is_file())
+        again, ids = illustrations.decorate_document(str(page), Path('philosophie-eneide.html'), ROOT, self.records)
+        self.assertEqual(str(page), again)
+        self.assertEqual(selected, ids)
+
     def test_existing_image_with_query_is_not_duplicated(self):
         record = next(r for r in self.records if 'antigone' in r['id'])
         body = f'<figure><img src="/{record["path"]}?w=900"><figcaption>Notice originale</figcaption></figure>'
