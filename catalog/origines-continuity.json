@@ -182,7 +182,8 @@
     "629": "/chapitres/origines-du-sacre/629-funerailles-collectives-epikteta-thera-collegium-lanuvium-associations/",
     "630": "/chapitres/origines-du-sacre/630-sans-descendance-adoption-rituels-isaie-menecles-gortyne-hammurabi/",
     "631": "/chapitres/origines-du-sacre/631-tombe-inviolable-amendes-lycie-aphrodisias-droit-romain/",
-    "632": "/chapitres/origines-du-sacre/632-thebes-papyrus-abbott-leopold-amherst-enquetes-pillage-tombes/"
+    "632": "/chapitres/origines-du-sacre/632-thebes-papyrus-abbott-leopold-amherst-enquetes-pillage-tombes/",
+    "633": "/chapitres/origines-du-sacre/633-tt320-cache-royale-deir-el-bahari-reinhumation-momies-coffins/"
   },
   "historical_aliases": {
     "/chapitres/origines-du-sacre/576-payer-pour-passer-tarifs-bacs-offrandes/": {
@@ -236,7 +237,7 @@
     "/chapitres/origines-du-sacre/576-payer-pour-passer-tarifs-bacs-offrandes/": "/chapitres/origines-du-sacre/annexe-576-payer-pour-passer-variante/",
     "/chapitres/origines-du-sacre/577-naufrages-secours-divins-survivants/": "/chapitres/origines-du-sacre/580-naufrages-secours-divins-survivants/"
   },
-  "last_numbered_chapter": 632,
+  "last_numbered_chapter": 633,
   "preserved_source_sha256": {
     "chapitres/origines-du-sacre/576-bacs-peages-offrandes-passage.md": "b6704b3484d0c9e0c2e80ea9bdb7e0efa7c6b9723b9b9134f3b7e09c8357e3b1",
     "chapitres/origines-du-sacre/577-monnaies-funeraires-charon-preuves-archeologiques.md": "b4a8e672fb28c90811f531e385cde4bd03aa9f8809613ca6cc8da44e78adf55b",

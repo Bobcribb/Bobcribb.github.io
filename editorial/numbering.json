@@ -363,6 +363,12 @@
           "path": "chapitres/origines-du-sacre/632-thebes-papyrus-abbott-leopold-amherst-enquetes-pillage-tombes.md",
           "request_sha256": "c85152f4eaf28710ce280a6f84699bd1abf0266cc9a136cd15fa2133be532c27",
           "initial_source_sha256": "7a9ffe9d1ab47b12142db8570b91ad215733ae8b1275b4499422785b2718cea9"
+        },
+        "b6f1409e-5802-4b99-9b14-62fc75e42051": {
+          "number": 633,
+          "path": "chapitres/origines-du-sacre/633-tt320-cache-royale-deir-el-bahari-reinhumation-momies-coffins.md",
+          "request_sha256": "7949194f10748cd7937f9c1b522f76879eca5ce7031a9dd5fb11d0ebd50d0a9f",
+          "initial_source_sha256": "6c4bdfd9b1be9ec38ee1fc7380f16d1de8587aed2ec5893bd5a9d0b3d47c669d"
         }
       }
     },
