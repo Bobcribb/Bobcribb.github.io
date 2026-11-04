@@ -1,0 +1,27 @@
+{
+  "id": "AEG-APH-001",
+  "slug": "egine-aphaia-temple-vue-architecturale",
+  "title": "Égine — temple d’Aphaia, vue architecturale",
+  "period": "Vers 500–490 av. J.-C.",
+  "image": "/assets/reconstitutions-3d/egine-aphaia-temple-vue-architecturale.webp",
+  "caption": "Vue 3D photoréaliste interprétative du temple dorique d’Aphaia sur une hauteur de l’île d’Égine, au début du Ve siècle av. J.-C.",
+  "commentary": "Le temple actuel, édifié vers 500–490 av. J.-C., présente un péristyle dorique de six colonnes en façade et douze sur les côtés, soit 32 colonnes. Il succéda à un temple et un sanctuaire plus anciens. Les frontons portaient des sculptures autrefois polychromes. L’image évoque les volumes du bâtiment et le paysage insulaire ; elle ne reproduit ni un relevé métrique ni un décor sculpté validé. Le petit édifice secondaire, les sculptures figurées, la proximité apparente du littoral et la végétation sont interprétatifs.",
+  "certainty": {
+    "high": "Temple vers 500–490 av. J.-C., ordre dorique, péristyle 6 × 12, sanctuaire d’Aphaia sur l’île d’Égine.",
+    "medium": "Volumes architecturaux d’ensemble, terrasse et contexte naturel.",
+    "low": "Sculptures exactes du fronton, couleurs, toiture, édicule isolé, végétation et géographie de l’arrière-plan."
+  },
+  "sources": [
+    {
+      "label": "Ministère grec de la Culture — Collection archéologique d’Aphaia",
+      "url": "https://archaeologicalmuseums.culture.gov.gr/en/museum/5f9a5460e807577836705eb2/archaeological-collection-of-afaia-aigina"
+    },
+    {
+      "label": "Hellenic Heritage — Temple d’Aphaia",
+      "url": "https://www.hh.gr/en/destinations/aphaia-temple/"
+    }
+  ],
+  "rights_and_method": "Création photoréaliste numérique assistée par IA ; image indépendante de la page, sans menu ni texte incrusté ; les institutions ne certifient pas le rendu.",
+  "publication_status": "committed_to_GitHub; public_URL_pending_independent_verification",
+  "sha256": "a6f44971af9e6dfa66c076d007dc5c2a4de26b5c2b407c149bc64e84af9b4356"
+}
