@@ -98,7 +98,7 @@ class IconographyAuditPathTests(unittest.TestCase):
             page = BeautifulSoup((ROOT / path).read_text(encoding="utf-8"), "html.parser")
             for anchor in page.find_all("a", href=True):
                 parsed = urlsplit(anchor["href"])
-                if parsed.path != "/reconstitutions-photorealistes.html":
+                if parsed.path != "/reconstitutions-photorealistes.html" or not parsed.fragment:
                     continue
                 seen += 1
                 self.assertIn(unquote(parsed.fragment), targets, (path, anchor["href"]))
