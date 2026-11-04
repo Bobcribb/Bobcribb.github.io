@@ -88,11 +88,20 @@ class GreekFolderTests(unittest.TestCase):
                                '<h1>Delphes</h1><p id="source">Texte intégral, αἰδώς et bibliographie.</p>'
                                '<a href="https://example.org/source">Source antique</a></article></main></body></html>')
             article = str(BeautifulSoup(chapter.read_text(), 'html.parser').article)
+            second_url = '/chapitres/encyclopedie/chapitre-414-bendis-deesse-thrace-piree/'
+            second = out / second_url.strip('/') / 'index.html'
+            second.parent.mkdir(parents=True)
+            second.write_text('<html><body><main><article class="content">'
+                              '<h1>Bendis</h1><p>Étude complète et sources.</p>'
+                              '</article></main></body></html>')
+            second_article = str(BeautifulSoup(second.read_text(), 'html.parser').article)
             book = out / 'livre-thebes/index.html'
             book.parent.mkdir()
             book.write_text('<article><h1>Thèbes</h1><h2 id="oedipe">Œdipe</h2><p>Texte préservé.</p></article>')
             original_book = book.read_bytes()
-            groups = [('Études', 'grec-universitaire', [(url, 'Chapitre 347 — Delphes')]),
+            groups = [('Études', 'grec-universitaire', [
+                          (url, 'Chapitre 347 — Delphes'),
+                          (second_url, 'Chapitre 414 — Bendis')]),
                       ('Livres', 'grec-livres', [('/livre-thebes/', 'Thèbes')])]
             sections = [('Thèbes', [('/livre-thebes/#oedipe', 'Œdipe')])]
             for _ in range(2):
@@ -116,6 +125,13 @@ class GreekFolderTests(unittest.TestCase):
                     'html.parser')
                 self.assertIsNotNone(thematic.select_one('#theme-1 a[href="'+url+'"]'))
                 self.assertIsNotNone(thematic.select_one('nav.greek-folder-toc a[href="#theme-1"]'))
+                second_doc = BeautifulSoup(second.read_text(), 'html.parser')
+                self.assertEqual(str(second_doc.article), second_article)
+                second_topic = second_doc.select_one('a.greek-folder-return-topic')
+                self.assertEqual(second_topic['href'], BASE+'cultes-sanctuaires/#theme-2')
+                self.assertIn('Bendis', second_topic.get_text(' ', strip=True))
+                self.assertIsNotNone(thematic.select_one('#theme-2 a[href="'+second_url+'"]'))
+                self.assertIsNotNone(thematic.select_one('nav.greek-folder-toc a[href="#theme-2"]'))
                 self.assertIn('scroll-margin-top:115px',
                               (out / BASE.strip('/') / 'cultes-sanctuaires/index.html').read_text())
             folder = out / BASE.strip('/') / 'familles/index.html'
