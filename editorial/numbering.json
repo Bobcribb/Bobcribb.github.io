@@ -159,7 +159,20 @@
         "chapitres/origines-du-sacre/597-eleusis-secret-initiations-interdits-divulgation.md": 597,
         "chapitres/origines-du-sacre/598-samothrace-isis-recits-initiation-limites.md": 598
       },
-      "allocations": {}
+      "allocations": {
+        "7f905e2c-c011-4c31-a95e-bdaf407c2cd5": {
+          "number": 599,
+          "path": "chapitres/origines-du-sacre/599-tablettes-savants-kalhu-ninive-uruk-colophons.md",
+          "request_sha256": "7bd502ee5830e81792710f768b662f2661fe8a2fd1e2bca39df0d2f63a58c5fa",
+          "initial_source_sha256": "01df671999ba9be7e853481d047c1cd90d0b28b23aa79dee4eb5f402fdf176c5"
+        },
+        "c73b2c41-4fd4-4e89-a15e-e84c5f7189d9": {
+          "number": 600,
+          "path": "chapitres/origines-du-sacre/600-maisons-livres-egypte-edfou-tebtynis.md",
+          "request_sha256": "6d2bc1a27d3e7352a961074720cc6e259f919ceabe3fe88fad889592741fe907",
+          "initial_source_sha256": "15eb1445d9c68de814da6b3b69ad3a34043321e8a3d3355bb98c84ab6a35f8fe"
+        }
+      }
     },
     "encyclopedie": {
       "legacy": {
@@ -225,6 +238,144 @@
           "path": "chapitres/encyclopedie/chapitre-358-hyperboreens-apollon-delos-offrandes-geographie-sacree.md",
           "request_sha256": "dfc1a20afb1ce19065a8ca68cc5fee2127d397da1b6ac60565536aace17e2524",
           "initial_source_sha256": "dfa2d62da6112ee7feaeaf6e083cfff91143e65f30c6b54144eb0c1c01fb9ef3"
+        },
+        "03f1b08b-4552-4b31-92b9-77bfb4176088": {
+          "number": 359,
+          "path": "chapitres/encyclopedie/chapitre-359-chiron-nouvelle-etude.md",
+          "request_sha256": "eb30549c65b2503dd5bd8ba19372f120c66109ceb6e465f1881a1d78b42eb1d5",
+          "initial_source_sha256": "961d6169be9bfe4ffddcfc4847ebd36dbb1cd1c1224d0a0e312a881c4431d020"
+        },
+        "041955c3-f74c-498e-9b80-5290fa51c33f": {
+          "number": 360,
+          "path": "chapitres/encyclopedie/chapitre-360-ixion-nouvelle-etude.md",
+          "request_sha256": "be82c26e3895dacb084ff632f8ed1d593a24f0f4cbdfdda87701665604ba6178",
+          "initial_source_sha256": "74febc02d954222d2c47459ac88b1bc2f54eec372765475621cd52afcdfa1739"
+        },
+        "05f0adbc-dfb0-47b0-ba39-a7d65ed541d2": {
+          "number": 361,
+          "path": "chapitres/encyclopedie/chapitre-361-lapithes-centaures-nouvelle-etude.md",
+          "request_sha256": "ae765708d31873d6fcd25f2a635013fa1ec2ff82451ebcd122307946759d9879",
+          "initial_source_sha256": "aa54ad000730a3f33f3c67fc98ed1caca9ab0889b2ba32d5b7df4ebab6cce6ae"
+        },
+        "0d2ee712-cfcc-4a61-b46f-0fade54f35d6": {
+          "number": 362,
+          "path": "chapitres/encyclopedie/chapitre-362-pholos-nouvelle-etude.md",
+          "request_sha256": "b09c8538ec018b4266dd51ae4542ac615c97c234632ff511f1ea6b0d28382219",
+          "initial_source_sha256": "08d98400edb23234245844086870bb75a6458fac0c9c7b86a3f0718baa4ce4a0"
+        },
+        "0e6278f0-3d5c-445f-97da-21366bdfd6fc": {
+          "number": 363,
+          "path": "chapitres/encyclopedie/chapitre-363-nessos-nouvelle-etude.md",
+          "request_sha256": "02559ef3afafb33442cb1758e2074ef00bd2026b15f38078197ebf45950fe907",
+          "initial_source_sha256": "b13f25e0f00497e282199174c12ef78f3f59064f9829847e92c0c4bff437209f"
+        },
+        "1be11f7e-9347-42ca-818e-d4e298544f1a": {
+          "number": 364,
+          "path": "chapitres/encyclopedie/chapitre-364-cenee-nouvelle-etude.md",
+          "request_sha256": "ad1fa86b2b3ecc4d00342cb05b08076a2f2b81af3d89cf983b6d9795ab3d4df5",
+          "initial_source_sha256": "5ad3940fee5aa694f9edc6a512d6d123ce50a08647e1c1fbed635c609b6e426d"
+        },
+        "211d855b-9ec7-44b7-a620-4f646463d9e7": {
+          "number": 365,
+          "path": "chapitres/encyclopedie/chapitre-365-asclepios-nouvelle-etude.md",
+          "request_sha256": "15774df320706b28032d5a8886ac1509bde5acbe6f8924ecdf204486be282a8b",
+          "initial_source_sha256": "ac38d0212df7ac5adab96cc9c1c3dda7682d760dd0dd5cbea0e1b415f9ceaa1e"
+        },
+        "26b53d83-c75a-49c9-b14c-e89d436086a8": {
+          "number": 366,
+          "path": "chapitres/encyclopedie/chapitre-366-pelee-thetis-nouvelle-etude.md",
+          "request_sha256": "6f18a7947f7e3aa54e15df7d1169f6b406db112b118010a3614259e1a0fadf28",
+          "initial_source_sha256": "c810f65318d740a8701c0f9d8cdfd17309c9bd8e3c68f0f26d5154707937f04f"
+        },
+        "270e48fa-3d64-4ba5-a12e-973d8bd1c8dc": {
+          "number": 367,
+          "path": "chapitres/encyclopedie/chapitre-367-achille-education-nouvelle-etude.md",
+          "request_sha256": "97c05b434718161e1d76412198630a5b36ad4598db7bdaa38466336e8ab1e4c6",
+          "initial_source_sha256": "d1c01a9d8d3a27fdbc221ee6bf98bc5e0e086bb5a72ac14a3aed33a0e4bb3e88"
+        },
+        "284a05cc-4b3f-4851-b9ab-8176809bfa4c": {
+          "number": 368,
+          "path": "chapitres/encyclopedie/chapitre-368-acteon-nouvelle-etude.md",
+          "request_sha256": "55070f32ebb8eaed388c5e0e15e06289a7a76df4b2b7217d5b2da3f17b7a0e28",
+          "initial_source_sha256": "841984e70695844fb8ff10a488a4391bfd49bc09b168de7fe91ff9644ce02905"
+        },
+        "41dddf32-b36a-46c9-9243-2b5a306acf89": {
+          "number": 369,
+          "path": "chapitres/encyclopedie/chapitre-369-atalante-nouvelle-etude.md",
+          "request_sha256": "dab6218e5883f635d5911b1edf19d6cd94c9439bf85cf834c74d900b06204523",
+          "initial_source_sha256": "f475819323b1897e35bcab9bf0fd9be7d80256c4fc36897d09c7ff7abdd16cc1"
+        },
+        "5a0b0b3b-6780-42a5-abd5-95388ca67725": {
+          "number": 370,
+          "path": "chapitres/encyclopedie/chapitre-370-orion-nouvelle-etude.md",
+          "request_sha256": "dc46a236d26bde100004d317c2bf59aa5864684eb4ab5e458c672c0fcca7d499",
+          "initial_source_sha256": "1a5ae27707fa4c94d6086f7a11ce7303286049e524e0fed19780c1f047e11242"
+        },
+        "5ee711c9-487a-493e-a69c-dc261aa93b6d": {
+          "number": 371,
+          "path": "chapitres/encyclopedie/chapitre-371-pan-nouvelle-etude.md",
+          "request_sha256": "18f2e1397022cde3f804bcd89aaf7139dd1631fc5619324f98896ef45de7699b",
+          "initial_source_sha256": "5711fd9bde33ddbc9b6f57d3fdfa2acca9df8d3fe3d3f2d9bc98e69aa6cb0f64"
+        },
+        "65b13e92-0064-4451-9217-6fd49b6b517f": {
+          "number": 372,
+          "path": "chapitres/encyclopedie/chapitre-372-satyres-silenes-nouvelle-etude.md",
+          "request_sha256": "0fe8df2d400f85191ca20b30f1b7b911f5b981315cbd403d4bb8d710b2b0aa84",
+          "initial_source_sha256": "7c77e7bdc03c30d7201c7640b8bab9f74c1fc179e372ad464cd7dc8d8f52bf7c"
+        },
+        "86e32991-0a39-4175-a5e6-4d797cb709a2": {
+          "number": 373,
+          "path": "chapitres/encyclopedie/chapitre-373-atlas-nouvelle-etude.md",
+          "request_sha256": "6fb7dbfd3460cef013ae6bcd74afb74f6bcbf5cab518a6bc8c6dfaedd995a8a9",
+          "initial_source_sha256": "80a3e82a0f8d73967091b2233d713f1c8dc63acf367a51dd668c02dfbeb508a8"
+        },
+        "a3262beb-8ee8-4dad-b520-a02596c47cb1": {
+          "number": 374,
+          "path": "chapitres/encyclopedie/chapitre-374-hesperides-nouvelle-etude.md",
+          "request_sha256": "8a5b07a270434ed81513c55e8b2edb90cb1dd61f067f9072890b68b50db0e373",
+          "initial_source_sha256": "ff7b70ec4f419604479683dab3c1b35093125d43a2a68c23aa14844afc390a3c"
+        },
+        "a6c068d0-6e7a-43cb-ab88-318713206c08": {
+          "number": 375,
+          "path": "chapitres/encyclopedie/chapitre-375-nyx-nouvelle-etude.md",
+          "request_sha256": "57ca5b00ede4a82a78afdfea2595982ddc51c1316a74152def3e66cc0f72baf5",
+          "initial_source_sha256": "44499331b58e7ad00dd1ba9be9a740e68849678b283763cfed10440c7e5e6075"
+        },
+        "ae564d5d-3cb6-4f80-b849-a35d56a4b138": {
+          "number": 376,
+          "path": "chapitres/encyclopedie/chapitre-376-gaia-ouranos-cronos-nouvelle-etude.md",
+          "request_sha256": "7fbd8d925d08af6227b69badf567572b9bc45baa1656c07cfe50397cb401f5cb",
+          "initial_source_sha256": "6e20909b88ecbd4c92e7c26bcb3cd6efada82b2a18acca299192622d90a82e80"
+        },
+        "bb75cfeb-ccfa-4380-a92a-c14d72605cb5": {
+          "number": 377,
+          "path": "chapitres/encyclopedie/chapitre-377-titanomachie-nouvelle-etude.md",
+          "request_sha256": "060049eacfdd8d8f67d79961227a19c93c94c52188a466b3aa9cf5ede84ac842",
+          "initial_source_sha256": "cd57da989e2000fd35b043dd3c5fcc5dee4da7849099e334b182acdf22f2051f"
+        },
+        "c08a813c-bfc8-4633-ae7d-791a499b03a7": {
+          "number": 378,
+          "path": "chapitres/encyclopedie/chapitre-378-typhon-nouvelle-etude.md",
+          "request_sha256": "1123908b8e59c7660df78071de57285f3e28c30572e6d274d7bd4d97df40e720",
+          "initial_source_sha256": "6a26ec2ff513f6cf8187b660fefbc391e9ae5f1b3df062e240a45b690e7c21c1"
+        },
+        "d102cd92-545a-4e06-8676-45bbacdab6a7": {
+          "number": 379,
+          "path": "chapitres/encyclopedie/chapitre-379-gigantomachie-nouvelle-etude.md",
+          "request_sha256": "a51b7f2e6d8fd0d7985638768ec5c4f7e9b6099dd898a6c7e01ef285e3b84875",
+          "initial_source_sha256": "94d4dae9df52226a7d6c680f6f9ac33155b3793140195e695cfa76085c751e72"
+        },
+        "d655564c-6c86-4f8f-bb9d-f40dc7acf625": {
+          "number": 380,
+          "path": "chapitres/encyclopedie/chapitre-380-promethee-pandore-nouvelle-etude.md",
+          "request_sha256": "1ee1b094cf6345bff2e8cf4df507e3f8d301ed8fe0302be70dc2bdbec015b889",
+          "initial_source_sha256": "bdb6d6ecfc42f4352d9e4500e67b8ebe1d78581446f171a6a33c12835f423dde"
+        },
+        "d898c51d-1709-4e7e-9f34-df41028a648a": {
+          "number": 381,
+          "path": "chapitres/encyclopedie/chapitre-381-hypnos-thanatos-nemesis-moires-nouvelle-etude.md",
+          "request_sha256": "b3b46348d0279e69f25ca73f80249b12587ff6718debb5609c84387fd5f1b439",
+          "initial_source_sha256": "224953f010718da5ec8d14c4846aa0cccd9829e8b05d9ceb82ec7609a753aca8"
         }
       }
     },
@@ -290,7 +441,14 @@
         "chapitres/comedies/volume-057-crates-metoikoi.md": 57,
         "chapitres/comedies/volume-058-crates-tolmai.md": 58
       },
-      "allocations": {}
+      "allocations": {
+        "d71cb623-6a2c-4b01-a2f0-f81cb7dd5f92": {
+          "number": 59,
+          "path": "chapitres/comedies/volume-059-eupolis-autolykos-corps-prestige-revisions-critique.md",
+          "request_sha256": "2d62fb2e5732218efcade5294610c1bc257268d8d34c3faba9813145fe19e16f",
+          "initial_source_sha256": "da0b2eb02f325635118114200b1bf9076e1cf6b1abf632601f6739b46dba19d2"
+        }
+      }
     },
     "tragedies": {
       "legacy": {

@@ -1,0 +1,166 @@
+# MYTHOS — Les Origines du sacré — Tome DC, chapitre 600
+## Conserver le savoir des dieux : maisons de livres, écoles sacerdotales et bibliothèque de Tebtynis
+
+*Étude universitaire d'archéologie du livre, de philologie égyptienne et d'anthropologie du savoir. Le chapitre ne reproduit pas les dossiers précédents sur le secret initiatique d'Éleusis et de Samothrace : il interroge la conservation matérielle et la circulation des écrits nécessaires aux temples. Les textes primaires et leur identification sont distingués des notices et études modernes. Date du contrôle documentaire : novembre 2026.*
+
+### Le problème : qui garde un savoir qui doit aussi être employé ?
+
+La religion d'un temple ne réside pas seulement dans ses statues, ses offrandes et ses bâtiments. Elle dépend également d'une mémoire opératoire : noms et épithètes des dieux, gestes quotidiens, compositions prononcées dans les cérémonies, indications calendaires, prescriptions et descriptions de l'espace rituel. Lorsque de tels savoirs sont écrits, leur conservation exige des supports, des lecteurs, des copies et des lieux. Mais « conservé dans un temple » n'est pas synonyme de « lu uniquement par les prêtres », pas plus que « manuscrit religieux » ne signifie « texte absolument secret ».
+
+Le dossier égyptien est particulièrement favorable à une approche différenciée : les inscriptions du temple d'Edfou présentent une **Maison des livres** ; une **Maison de vie** est attestée comme institution dans la documentation égyptienne ; l'ensemble de papyrus de **Tebtynis** donne un rare aperçu d'une bibliothèque liée à un sanctuaire en fonctionnement à l'époque romaine. Il serait méthodologiquement erroné de fusionner ces trois réalités dans le modèle moderne d'un seul établissement cumulant école, bibliothèque publique et archives.
+
+La proposition de ce chapitre est limitée, mais importante : le savoir religieux est une pratique de reproduction. Il doit pouvoir être transmis avec assez de fidélité pour rester reconnu, et avec assez de souplesse pour survivre à la destruction des supports ou à la transformation des institutions. Ce rapport entre continuité et sélection sera examiné à partir de documents identifiés, et non de généralités sur « la sagesse éternelle de l'Égypte ».
+
+### 1. Trois lieux conceptuellement différents : temple, Maison de vie, Maison des livres
+
+L'expression égyptienne **pr-ꜥnḫ**, habituellement transcrite *per-ânkh*, « Maison de vie », ne doit pas être confondue avec **pr-mḏꜣt**, « Maison des livres ». La présence du substantif *pr*, « maison », dans les deux expressions n'établit pas à elle seule l'identité de leurs fonctions. La documentation rassemble des activités de production et de conservation des savoirs ; elle ne permet pas de distribuer uniformément ces activités dans tous les temples, à toutes les époques. [R1 ; R2]
+
+À Edfou, une petite pièce de l'édifice ptolémaïque porte un titre de Maison des livres. La description archéologique de Digital Egypt (University College London) avertit que cet espace conservé, de dimensions réduites, ne représente vraisemblablement pas toute la capacité de stockage documentaire du sanctuaire. Il peut s'agir d'un lieu d'accès commode aux rouleaux régulièrement employés. Cette interprétation est plausible, non la preuve qu'une vaste bibliothèque extérieure aurait été identifiée sur le site. [P1 ; R1]
+
+À l'inverse, « Maison de vie » n'implique pas que les textes de toute une ville se trouvaient physiquement dans une seule salle identifiable par ses murs. Le vocabulaire institutionnel et la découverte archéologique doivent être contrôlés séparément. Certaines propositions d'identification de bâtiments anciens comme *per-ânkh* restent débattues. L'attestation d'un nom dans un texte n'est pas en soi le plan d'un édifice.
+
+### 2. Edfou : lire une pièce avant de lui attribuer une institution entière
+
+Le temple d'Horus à Edfou conserve, dans la moitié orientale de la salle extérieure à colonnes, un petit espace désigné par les inscriptions comme une Maison des livres. La source documentaire de l'UCL transcrit sa désignation sous la forme **pr mDAt n Ḥr apr m bꜣw Ḥr-Rꜥ**, rendue en substance par « maison des livres d'Horus, équipée des puissances d'Horus-Rê ». [P1]
+
+Cette transcription, publiée dans une page de synthèse, est ici citée comme **lecture donnée par la notice**, et non comme résultat d'une nouvelle collation hiéroglyphique. L'emploi des « puissances » divines dans une désignation de recueils ne permet pas de conclure que chaque titre était une formule magique au sens contemporain. Il faudrait examiner le catalogue inscrit, les parallèles textuels et les catégories de l'époque.
+
+L'importance historique de cette chambre réside en partie dans la disproportion entre la solennité du catalogue sacré et la petitesse de l'espace. Ce contraste interdit d'assimiler un catalogue monumental à un inventaire comptable de tous les rouleaux physiquement conservés. Une inscription peut décrire une collection idéale, un groupe de textes prescrits, une tradition liturgique ou une organisation matérielle ; le statut précis des rubriques doit être démontré dans leur contexte.
+
+### 3. Bibliothèque inscrite, bibliothèque de papyrus : deux preuves de nature différente
+
+À Edfou, la documentation architecturale et épigraphique offre des noms de livres sur pierre. À Tebtynis, ce sont des papyrus trouvés ensemble, puis dispersés dans plusieurs collections, qui donnent l'essentiel du dossier. On ne peut pas attribuer automatiquement à l'un les propriétés de l'autre.
+
+La pierre maintient visibles des catégories de textes, mais n'en livre pas nécessairement le contenu intégral. Un papyrus fragmentaire peut conserver une partie d'un texte et parfois des marques de copie ou de correction, tout en ayant perdu son titre et ses premières lignes. Pour l'historien, **l'identification d'une œuvre**, **la présence d'un exemplaire** et **l'utilisation effective de cet exemplaire lors d'un rite** constituent donc trois niveaux probatoires.
+
+Les grands travaux éditoriaux consacrés aux inscriptions d'Edfou ont montré l'ampleur et la complexité du corpus ptolémaïque. Le projet de l'Académie des sciences de Göttingen signale une entreprise de traduction, d'annotation et de numérisation des inscriptions. Nous utilisons cette ressource pour situer l'enquête ; nous ne prétendons pas avoir relu l'ensemble des milliers de pages de hiéroglyphes dans cette livraison. [R3]
+
+### 4. Tebtynis : le rassemblement de manuscrits comme fait archéologique
+
+À Tebtynis, dans le Fayoum, Carlo Anti a découvert en 1931 une masse de papyrus dans une cave de constructions du secteur du temple. Une partie demeure à Florence, tandis qu'une grande part des matériaux provenant du même ensemble se trouve à Copenhague. Les manuscrits appartiennent principalement aux premiers siècles de notre ère. L'histoire ultérieure des achats et de la constitution des collections modernes complique la reconstitution de leur unité initiale. [R2 ; R4]
+
+La Papyrus Carlsberg Collection de l'Université de Copenhague présente le groupe comme la plus importante part des vestiges d'une bibliothèque de temple égyptienne préservée. Kim Ryholt indique que les matériaux de bibliothèque, datés surtout des Ier et IIe siècles de notre ère, ont été retrouvés dans des caves situées sous un bâtiment à l'intérieur de l'enceinte et abandonnés, selon la reconstruction proposée, vers le début du IIIe siècle. [R4 ; R5]
+
+L'archéologue doit néanmoins distinguer une **localisation finale de dépôt** d'une **salle de lecture originelle**. Des papyrus trouvés ensemble peuvent avoir été rangés, déplacés, écartés ou jetés. Un lot entreposé au moment de l'abandon du temple ne documente pas nécessairement la disposition des rouleaux pendant une journée de culte ordinaire.
+
+### 5. Combien de livres ? Pourquoi la prudence quantitative importe
+
+La notice de Digital Egypt estime que le lot pourrait représenter les restes d'environ cinq cents manuscrits. Elle distingue à titre indicatif quelque trois cents textes démotiques, une centaine en hiératique, une cinquantaine d'hiéroglyphiques très fragmentaires et plusieurs dizaines de documents grecs. [R2]
+
+Ce sont des **ordres de grandeur reconstruits**, non un dénombrement complet d'exemplaires préservés dans leur intégralité. « Fragment » ne signifie pas « ouvrage distinct » : plusieurs fragments peuvent appartenir au même rouleau ; un texte peut exister en plusieurs copies ; une écriture peut être utilisée pour divers genres. Un classement par écriture n'est pas encore un classement par fonction religieuse.
+
+Ces réserves n'enlèvent rien à la portée de la découverte. Elles empêchent seulement de transformer l'inégalité de conservation en hiérarchie supposée de prestige entre les langues. Le fait que la documentation grecque retrouvée soit surtout de nature administrative ou privée dans cet ensemble ne signifie pas que tous les Grecs de Tebtynis aient été exclus du sanctuaire ou que tous les savoirs religieux aient été réservés à une langue unique.
+
+### 6. Hiéroglyphes, hiératique et démotique : une écologie de l'écriture
+
+Les trois types d'écriture égyptienne présents à Tebtynis ne constituent pas trois « religions ». Le hiératique est lié à des pratiques cursives d'écriture égyptienne ; le démotique possède des usages littéraires et documentaires nombreux ; les hiéroglyphes sont particulièrement associés à des traditions formelles, sans se limiter exclusivement aux parois monumentales. Une opposition trop simple entre « écriture sacrée » et « écriture profane » ne rend pas compte des manuscrits. [R2]
+
+La variation des écritures peut dépendre de l'ancienneté d'une tradition copiée, de sa fonction, du lecteur attendu ou du modèle disponible. Le passage d'un support à un autre ne garantit pas l'identité parfaite du texte. La question philologique doit donc porter sur la présence de plusieurs témoins, sur leurs lacunes et sur les choix des éditeurs modernes.
+
+On ne peut pas déduire d'un catalogue de textes rituels que tous les officiants lisaient couramment tous les systèmes graphiques. De même, la capacité à réciter une formule n'implique pas que celui qui la prononce en possède le manuscrit. L'étude des compétences doit partir des traces de formation, des titres des personnes et des pratiques documentaires attestées.
+
+### 7. Les cultes de Sobek : un rituel lu dans plusieurs exemplaires
+
+La synthèse de Digital Egypt identifie deux témoins hiératiques du rituel quotidien de Sobek, seigneur de Bedenu : **PSI I.70** et **P. Carlsberg 307**. Elle signale également une copie hiératique du *Livre du Fayoum*, des recueils de noms divins et des listes de savoirs religieux. [P2 ; R2]
+
+Ce rapprochement permet une observation simple : la présence de plusieurs exemplaires atteste une transmission, non nécessairement une récitation identique et quotidienne à partir de chaque rouleau. Le rituel tel qu'il est décrit dans les manuscrits, la liturgie effectivement accomplie et l'histoire des copies demandent des enquêtes distinctes.
+
+L'édition de Kim Ryholt, *Hieratic Texts from Tebtunis* (2020), publie notamment des hymnes, litanies, rituels de protection, textes savants et compositions narratives. Sa notice éditoriale confirme la variété des genres et le caractère inédit de nombreux textes. La présente étude ne fabrique pas de traduction ligne à ligne des papyrus qu'elle ne peut collationner directement. [R6]
+
+### 8. Le Livre du Temple : écrire l'organisation idéale d'une institution
+
+Les papyrus de Tebtynis comprennent de nombreux témoins d'un texte nommé par les modernes *Livre du Temple*. La notice de l'UCL dénombre dix-sept copies provenant du site parmi un ensemble plus vaste de témoins. L'œuvre concerne notamment l'architecture idéale du temple ainsi que les fonctions et les titres de son personnel. La bibliographie renvoie aux travaux de Joachim Friedrich Quack. [P3 ; R2]
+
+Il serait trompeur de l'appeler « règlement intérieur du temple de Tebtynis ». Un exposé normatif sur ce que devrait être un temple n'est pas automatiquement le relevé de ses pièces effectives ni l'annuaire de ses officiants. Le rapprochement entre une théorie institutionnelle et un sanctuaire archéologiquement connu exige un contrôle indépendant.
+
+Ce texte permet pourtant de poser une question décisive : **le temple peut-il être conservé dans un livre lorsque ses bâtiments changent ?** La formulation ne doit pas être comprise comme une explication historique déjà prouvée. Elle désigne un usage possible des modèles écrits : décrire une structure reconnue de fonctions et de lieux, susceptible d'être invoquée lors de déplacements, de réaménagements ou de débats.
+
+### 9. Recopier le rituel ou l'interpréter ?
+
+L'existence de copies implique un rapport entre fidélité et variation. Certaines différences entre exemplaires peuvent relever de dommages, de corrections, de mises à jour, de choix de graphie ou de traditions locales. Sans édition synoptique des témoins, il serait irresponsable d'affirmer que les prêtres ont volontairement modifié telle séquence pour une raison théologique précise.
+
+Une comparaison avec l'examen grec des traditions oraculaires montre seulement un problème partagé : qui peut reconnaître qu'un écrit transmis représente une tradition faisant autorité ? Dans le dossier égyptien, ce problème ne doit pas être aussitôt traduit par le vocabulaire athénien de l'assemblée ou du décret. Les institutions et les genres sont distincts.
+
+L'archéologie de la copie complète l'étude des idées : l'encre, le réemploi du recto ou du verso, la forme des colonnes, les traces de manipulation et la reconstruction d'un rouleau peuvent modifier l'interprétation. Un texte n'a pas seulement un auteur supposé ; il a une histoire matérielle qui conditionne sa lecture.
+
+### 10. Savoir rituel, médecine, astronomie et littérature narrative
+
+À Tebtynis, l'assemblage n'est pas restreint à des prières. La présentation de Copenhague signale aussi des savoirs de médecine, de divination, des compositions scientifiques et de la littérature narrative. [R4 ; R5] Il n'en résulte pas que tous ces domaines aient formé une science unique sans distinctions. Il faut rechercher, pour chacun, le type d'énoncé, la manière de classer l'expérience et la compétence revendiquée.
+
+Une liste de plantes, une procédure de protection et un récit mythologique peuvent circuler dans une même institution sans répondre à une seule fonction. L'assemblage matériel renseigne sur une communauté de conservation ; il n'autorise pas à nier les différences internes des textes. Inversement, la séparation disciplinaire moderne entre médecine, astronomie et religion n'est pas une grille qui se superposerait directement à toutes les classifications de l'époque.
+
+L'historien des savoirs doit donc éviter deux anachronismes symétriques : baptiser « science pure » tout texte qui observe les astres et appeler « magie » toute procédure qui implique une puissance divine. Les documents présentent des techniques et des explications situées ; c'est leur précision qui doit guider le classement.
+
+### 11. Un témoignage apparenté mais non identique : le *Livre du Fayoum*
+
+Le *Livre du Fayoum* organise une géographie sacrée de l'oasis et du dieu Sobek. Un témoin matériel aujourd'hui conservé au Walters Art Museum est identifié sous le numéro **W.738** et daté largement de l'époque gréco-romaine. Cette copie ne doit pas être présentée comme l'exemplaire précisément retrouvé dans la cave de Tebtynis. [P4]
+
+Il est méthodologiquement utile de juxtaposer les témoins sans les confondre. L'ouvrage fournit un langage où le paysage apparaît comme ordre mythique ; la localisation d'une copie dans une collection moderne n'indique pas à elle seule le parcours d'un lecteur ancien. L'étude de ses variantes et de sa diffusion demande de replacer chaque exemplaire dans sa tradition textuelle.
+
+Cette géographie religieuse n'est pas simplement l'illustration imaginaire d'un territoire physique. Elle fournit des noms, des associations divines et des correspondances ; elle rend le monde du temple connaissable à travers une organisation des lieux. Reste à démontrer quels utilisateurs se servaient du texte et pour quelle opération. Nous ne prétendons pas décrire une cérémonie attestée à partir du seul titre du manuscrit.
+
+### 12. Le dépôt et l'abandon : la fin d'un usage n'est pas la fin d'un savoir
+
+L'ensemble de Tebtynis nous parvient principalement parce que des manuscrits sont restés dans des espaces où ils ont pu être conservés. Le paradoxe de l'archive est que ce qui témoigne d'une institution en activité peut avoir été préservé par une phase de désaffectation ou de rejet. [R2 ; R5]
+
+On ne doit pas raconter une brusque « disparition de la religion égyptienne » au moment exact du dépôt. Les usages rituels, les pratiques d'écriture et les transformations administratives suivent des chronologies différentes. Des documents qui cessent d'être utiles à une institution particulière peuvent demeurer les témoins d'une tradition poursuivie ailleurs, ou avoir été abandonnés parce que cette tradition se transforme.
+
+Cette séparation des temporalités est fondamentale pour l'étude des religions tardives. Les siècles gréco-romains ne doivent être décrits ni comme une simple reproduction sans changement de l'Égypte pharaonique ni comme une rupture où les institutions égyptiennes seraient immédiatement devenues fictives.
+
+### 13. Secret initiatique et réserve professionnelle : deux configurations
+
+Les dossiers MYTHOS précédents sur Éleusis et Samothrace examinaient des pratiques dont la divulgation pouvait être limitée par des obligations initiatiques. Une bibliothèque de temple pose une autre question : **qui a le droit de lire, copier, corriger et employer un savoir spécialisé ?**
+
+Une règle d'accès professionnel peut dépendre d'une formation, d'une charge ou d'un statut. Elle ne suppose pas nécessairement une expérience mystérique unique, ni l'interdiction générale de raconter l'existence du texte. Inversement, l'absence d'une formule de secret conservée ne démontre pas que tout rouleau était librement consultable.
+
+Cette distinction prépare la comparaison mésopotamienne, où des colophons nomment parfois les propriétaires, les spécialistes et les formes de protection intellectuelle. Le rapprochement ne repose pas sur une généalogie commune démontrée, mais sur un problème de circulation restreinte du savoir écrit.
+
+### 14. Une interprétation durkheimienne sans réduction sociologique
+
+Dans *Les Formes élémentaires de la vie religieuse* (1912), Durkheim interroge la manière dont les classements et les pratiques collectives contribuent à stabiliser un univers partagé. À partir de cette question, le catalogue d'Edfou et les copies de Tebtynis peuvent être étudiés comme **instruments de coordination** : ils rendent disponibles des noms, des relations et des prescriptions reconnues. [R7]
+
+Cette application est une proposition de MYTHOS, pas une analyse particulière de Tebtynis faite par Durkheim. Elle n'explique pas par la seule société la vérité ou la fausseté des propositions religieuses, et ne transforme pas les textes en simples instruments de discipline. Il reste nécessaire d'étudier ce qu'ils affirment des dieux, des lieux et des gestes.
+
+La reproduction collective n'exclut pas l'expertise individuelle. Un lecteur capable d'identifier des variantes, de recopier une composition longue ou de préparer un rituel ne se réduit pas à un exécutant interchangeable. L'histoire sociale des textes doit maintenir ensemble compétence singulière et continuité institutionnelle.
+
+### 15. Detienne : fabriquer un objet comparable sans imaginer une origine commune
+
+Le programme comparatif de Marcel Detienne (*Comparer l'incomparable*, 2000) invite à travailler sur des opérations concrètes plutôt qu'à opposer des civilisations définies par des essences. Nous proposons ici trois opérations comparables : constituer un corpus, en régler l'accès et lui reconnaître une autorité. [R8]
+
+Cette grille pourra être appliquée aux archives des savants de Mésopotamie et, dans de futures études, aux manuscrits indiens ou chinois, à condition de conserver leurs catégories propres. Une « maison de livres » égyptienne n'est pas une « bibliothèque d'Assurbanipal » avant la lettre ; les comparaisons n'effacent ni les structures royales et sacerdotales ni les matériaux de l'écriture.
+
+Il n'est donc pas justifié d'invoquer l'Iran, les traditions africaines ou les Amériques à titre de simples cases à remplir. Chaque rapprochement demande un support daté, une institution décrite et des voies de circulation éventuellement démontrées.
+
+### 16. Faits établis, points discutés et hypothèses
+
+**Établi par les sources :** la chambre d'Edfou est dénommée Maison des livres et possède un catalogue inscrit ; les papyrus de Tebtynis constituent les vestiges exceptionnels d'un ensemble littéraire associé au temple ; des copies du rituel de Sobek et du *Livre du Temple* figurent dans la documentation ; les écritures égyptiennes y coexistent avec quelques papyrus grecs. [P1–P4 ; R1–R6]
+
+**Discuté :** la disposition initiale des rouleaux, la relation entre cave de dépôt et lieu de consultation, le nombre exact de manuscrits distincts, la répartition des compétences entre officiants, la fonction de chaque copie et l'étendue pratique des restrictions de lecture. La reconstruction n'est pas une photographie de bibliothèque au travail.
+
+**Hypothèse du chapitre :** la stabilité religieuse ne dépend pas uniquement d'objets immobiles, mais de procédures de copie, de sélection et de reconnaissance. Ces procédures préservent un cadre de gestes et de discours, tout en pouvant en autoriser la transformation.
+
+### Conclusion : la mémoire sacrée comme travail
+
+La pierre d'Edfou présente une liste ; les papyrus de Tebtynis conservent des textes effectivement copiés ; la Maison de vie représente une autre dimension de l'organisation des savoirs. Leur réunion dans un seul « temple-bibliothèque-école » idéal serait séduisante, mais historiquement imprécise. Les distinguer permet de comprendre ce qui fait la singularité de chaque témoin.
+
+Le prochain dossier abordera les milieux savants mésopotamiens, où l'argile, les colophons, les familles spécialisées et les textes de protection rendent visibles d'autres façons de lier savoir et autorité. Le problème commun n'est pas la présence d'un secret mystérieux en tout lieu : c'est l'organisation matérielle et sociale de la capacité à transmettre.
+
+### Sources primaires identifiées et instruments de contrôle
+
+- **[P1] Edfou, chambre « Maison des livres »**, inscription comprenant la désignation *pr mDAt n Ḥr apr m bꜣw Ḥr-Rꜥ* ; translittération reproduite dans [UCL, « The House of Books in Ancient Egypt »](https://www.ucl.ac.uk/museums-static/digitalegypt/writing/library/anceg.html). L'identification de la pièce est vérifiée ; aucune nouvelle collation des signes n'est revendiquée.
+- **[P2] PSI I.70 et P. Carlsberg 307**, témoins du culte quotidien de Sobek, répertoriés dans [UCL, « Library of Tebtunis »](https://www.ucl.ac.uk/museums-static/digitalegypt/writing/library/tebt.html). La présente étude n'invente ni colonne ni vers de ces papyrus.
+- **[P3] *Livre du Temple***, plusieurs copies conservées dans le corpus de Tebtynis ; voir [UCL, notice du corpus et renvois à Quack](https://www.ucl.ac.uk/museums-static/digitalegypt/writing/library/tebt.html). Les caractéristiques thématiques sont issues de la notice d'édition, non d'une traduction prétendument collationnée.
+- **[P4] *Livre du Fayoum*, Walters Art Museum W.738**, [notice d'objet](https://egyptianinscriptions.org/object/220420). Cette copie est distinguée de la tradition manuscrite de Tebtynis.
+
+### Bibliographie universitaire vérifiée
+
+- **[R1]** University College London, Digital Egypt, [« The House of Books in Ancient Egypt »](https://www.ucl.ac.uk/museums-static/digitalegypt/writing/library/anceg.html). Synthèse archéologique, inscription et interprétation prudente de l'espace.
+- **[R2]** University College London, Digital Egypt, [« The Library of Tebtunis Temple in the Roman Period? »](https://www.ucl.ac.uk/museums-static/digitalegypt/writing/library/tebt.html). Histoire de la découverte, répartition approximative des papyrus, textes identifiés et bibliographie.
+- **[R3]** Académie des sciences de Göttingen, [*The Inscriptions of the Ptolemaic Temple of Edfu*](https://adw-goe.de/es/research/completed-research-projects/academies-programme/the-inscriptions-of-the-ptolemaic-temple-of-edfu/), programme scientifique d'édition.
+- **[R4]** University of Copenhagen, [*Papyrus Carlsberg Collection*, présentation et inventaire général](https://pcarlsberg.ku.dk/survey/).
+- **[R5]** Kim Ryholt, [*The Papyrus Carlsberg Collection & Project*](https://researchprofiles.ku.dk/en/publications/the-papyrus-carlsberg-collection-amp-project/), présentation scientifique, 2016.
+- **[R6]** Kim Ryholt, [*Hieratic Texts from Tebtunis*](https://nts.amnat.org/ucp/books/book/distributed/H/bo70276666.html), The Carlsberg Papyri, Museum Tusculanum Press, 2020. Notice éditoriale vérifiée ; l'ouvrage complet n'est pas présenté comme consulté.
+- **[R7]** Émile Durkheim, *Les Formes élémentaires de la vie religieuse*, Paris, Félix Alcan, 1912. Référence d'interprétation générale, sans attribution d'une enquête sur Tebtynis à Durkheim.
+- **[R8]** Marcel Detienne, *Comparer l'incomparable*, Paris, Seuil, 2000. Appui méthodologique comparatif, non preuve d'une filiation entre bibliothèques anciennes.
+
+**Renvois thématiques :** dossiers MYTHOS antérieurs consacrés à la réserve initiatique grecque, au silence de l'oracle et aux copies d'inscriptions sacrées. **Suite thématique (sans numéro réservé) :** les savants des temples et les bibliothèques d'argile de Mésopotamie.
