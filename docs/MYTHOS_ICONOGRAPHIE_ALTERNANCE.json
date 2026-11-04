@@ -5,53 +5,76 @@
   "branch": "main",
   "latest_session": {
     "date": "2026-11-04",
-    "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "previous_kind": "AUDIT ET CORRECTION",
-    "next_kind": "AUDIT ET CORRECTION",
-    "scope": "Ajout de schémas pédagogiques 2D originaux à trois monographies philosophiques existantes : Iliade, Odyssée, Théogonie",
-    "checked_pages": 3,
-    "source_illustrations_added": 3,
-    "html_figures_added": 3,
-    "figure_counts_before": {
-      "Iliade": 15,
-      "Odyssée": 14,
-      "Théogonie": 17
-    },
-    "figure_counts_after": {
+    "kind": "AUDIT ET CORRECTION",
+    "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "scope": "Audit de 10 pages dont les trois monographies, l'atlas et le portail ; vérification des trois nouveaux SVG publics ; renforcement du contrôle post-déploiement des SVG philosophiques.",
+    "checked_html_pages": 10,
+    "monograph_image_counts": {
       "Iliade": 16,
       "Odyssée": 15,
       "Théogonie": 18
     },
-    "primary_references": [
-      "Homère, Iliade IX, 225–655 (Ulysse, Phénix, Ajax et réponses d'Achille)",
-      "Homère, Odyssée XVII, 290–327 (Argos)",
-      "Hésiode, Théogonie 79–103 (Calliope, parole des rois et des chanteurs)"
-    ],
-    "new_asset_paths": [
-      "assets/philosophie/iliade-ambassade-arguments-20261104.svg",
-      "assets/philosophie/odyssee-argos-reconnaissance-20261104.svg",
-      "assets/philosophie/theogonie-muses-rois-chant-20261104.svg"
-    ],
-    "modified_pages": [
-      "philosophie-iliade.html",
-      "philosophie-odyssee.html",
-      "philosophie-theogonie.html"
-    ],
-    "checks": "3 SVG et 3 fichiers HTML relus après chacun des 6 commits : contenu identique à la version envoyée, ressources dans main confirmées ; 3 nouvelles figures, 3 attributs alt ; aucun id HTML dupliqué ni aucune ancre interne manquante dans les 3 monographies. Figures 2D sans perspective 2,5D et sans reproduction d'artefact. Les PDF A4 n'ont pas été recalculés, les tests Python et l'audit responsive complet n'ont pas été exécutés.",
-    "public_deployment_status": "Contrôle HTTPS indépendant sur bobmythos.fr, 4 novembre 2026, après les 6 commits : /catalog/publication-verification.json accessible ; source_commit=98ad3fe538d5f7a0c88aef9280ba92a470c255ec, antérieur aux commits de cette séance, github_run_id=41767597834, 1166 documents indexés ; les 3 nouveaux SVG répondent HTTP 404. GitHub main contient les fichiers mais leur déploiement public n'est PAS confirmé.",
-    "content_preserved": "Aucun passage scientifique préexistant supprimé ni modifié, aucune entrée de sommaire, navigation, numérotation ou registre d'attribution changés. Aucune automatisation ni fréquence changée.",
-    "obstacles": "Décalage GitHub Pages / branche main pendant le contrôle public (3 SVG 404). Vérification de la pagination A4 et rendu multi-écrans restent à effectuer.",
+    "checks": "Pour 10 fichiers HTML existants, aucun id dupliqué, ancre interne absente ou img sans attribut alt détecté. 37 SVG de /assets/philosophie référencés dans les trois monographies ont été vérifiés présents sur main par lecture GitHub. Les références CSS/JS relatives de l'atlas et de Cultes et cités ne sont pas cassées : leurs fichiers existent dans le sous-répertoire archives/assets. AGENTS.md et docs/PUBLICATION_CONCURRENTE.md relus avant modifications.",
+    "verified_gap": "La vérification post-déploiement scripts/verify_live_site.py contrôlait les pages HTML et PDF mais pas les SVG philosophiques ; le déploiement d'un contenu ancien pouvait passer si le catalogue restait identique. Ce trou de contrôle est corrigé par contrôle des liens SVG présents dans les trois HTML publics, validation de chaque SVG interne au build et comparaison SHA-256 des octets publics aux fichiers _site.",
+    "new_tests": "tests/test_verify_live_site_assets.py ; validation synthétique locale des fonctions d'inventaire, des trois renvois HTML et de la détection d'un SVG altéré. La suite complète Python/CI n'a pas été exécutée localement.",
+    "public_deployment_status": "Contrôle indépendant HTTPS du 4 novembre 2026 via navigateur tiers : /catalog/publication-verification.json indique source_commit=5a41a3a37fd211bf79b30344770894163ad9e446, github_run_id=41773521901, 1174 documents indexés, 27 archives, 110 médias. Les trois SVG de la séance iconographique précédente s'ouvrent maintenant sous bobmythos.fr. Leurs octets n'ont pas été comparés au build pendant cet audit ; le nouveau contrôle automatisé reste à valider lors du prochain déploiement. Le commit du script correctif n'est pas confirmé publiquement.",
     "commits": [
-      "a58e610db8765beecb9606561ecedb363fc35869",
-      "e50b1ba8a702c3d0ef76e64b06cbbae266d2a56f",
-      "a0c0e25f2a9e306415cb4311fd44e6ffccabd62c",
-      "aca02d5749d0d587e1a796df00cec7adce75d4e5",
-      "84c3c68b05b6350ff3151d275c38aafea1d1f2b2",
-      "e0c42f2e439a1b2d2ffaf9fc57423bceb87fca46"
-    ]
+      "aba3cc5ffdc691bac1eab14faec0a1773081d1cb",
+      "f7c8431b5d4a07e2776d046fd0ee1145e330d3cf"
+    ],
+    "content_preserved": "Aucun texte universitaire, chapitre, numéro, navigation, registre d'attribution ou fichier éditorial modifié. Le workflow et les horaires/automatisations ne sont pas changés.",
+    "obstacles": "Site inaccessible par l'outil web classique ; contrôle public de secours effectué. Pas de tests Python intégraux, de refonte responsive, ni de rerendu de pagination PDF lors de cette séance. La réussite du déploiement déclenché par le correctif reste à confirmer."
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
   "history": [
+    {
+      "date": "2026-11-04",
+      "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "previous_kind": "AUDIT ET CORRECTION",
+      "next_kind": "AUDIT ET CORRECTION",
+      "scope": "Ajout de schémas pédagogiques 2D originaux à trois monographies philosophiques existantes : Iliade, Odyssée, Théogonie",
+      "checked_pages": 3,
+      "source_illustrations_added": 3,
+      "html_figures_added": 3,
+      "figure_counts_before": {
+        "Iliade": 15,
+        "Odyssée": 14,
+        "Théogonie": 17
+      },
+      "figure_counts_after": {
+        "Iliade": 16,
+        "Odyssée": 15,
+        "Théogonie": 18
+      },
+      "primary_references": [
+        "Homère, Iliade IX, 225–655 (Ulysse, Phénix, Ajax et réponses d'Achille)",
+        "Homère, Odyssée XVII, 290–327 (Argos)",
+        "Hésiode, Théogonie 79–103 (Calliope, parole des rois et des chanteurs)"
+      ],
+      "new_asset_paths": [
+        "assets/philosophie/iliade-ambassade-arguments-20261104.svg",
+        "assets/philosophie/odyssee-argos-reconnaissance-20261104.svg",
+        "assets/philosophie/theogonie-muses-rois-chant-20261104.svg"
+      ],
+      "modified_pages": [
+        "philosophie-iliade.html",
+        "philosophie-odyssee.html",
+        "philosophie-theogonie.html"
+      ],
+      "checks": "3 SVG et 3 fichiers HTML relus après chacun des 6 commits : contenu identique à la version envoyée, ressources dans main confirmées ; 3 nouvelles figures, 3 attributs alt ; aucun id HTML dupliqué ni aucune ancre interne manquante dans les 3 monographies. Figures 2D sans perspective 2,5D et sans reproduction d'artefact. Les PDF A4 n'ont pas été recalculés, les tests Python et l'audit responsive complet n'ont pas été exécutés.",
+      "public_deployment_status": "Contrôle HTTPS indépendant sur bobmythos.fr, 4 novembre 2026, après les 6 commits : /catalog/publication-verification.json accessible ; source_commit=98ad3fe538d5f7a0c88aef9280ba92a470c255ec, antérieur aux commits de cette séance, github_run_id=41767597834, 1166 documents indexés ; les 3 nouveaux SVG répondent HTTP 404. GitHub main contient les fichiers mais leur déploiement public n'est PAS confirmé.",
+      "content_preserved": "Aucun passage scientifique préexistant supprimé ni modifié, aucune entrée de sommaire, navigation, numérotation ou registre d'attribution changés. Aucune automatisation ni fréquence changée.",
+      "obstacles": "Décalage GitHub Pages / branche main pendant le contrôle public (3 SVG 404). Vérification de la pagination A4 et rendu multi-écrans restent à effectuer.",
+      "commits": [
+        "a58e610db8765beecb9606561ecedb363fc35869",
+        "e50b1ba8a702c3d0ef76e64b06cbbae266d2a56f",
+        "a0c0e25f2a9e306415cb4311fd44e6ffccabd62c",
+        "aca02d5749d0d587e1a796df00cec7adce75d4e5",
+        "84c3c68b05b6350ff3151d275c38aafea1d1f2b2",
+        "e0c42f2e439a1b2d2ffaf9fc57423bceb87fca46"
+      ]
+    },
     {
       "date": "2026-11-04",
       "kind": "AUDIT ET CORRECTION",
