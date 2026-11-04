@@ -91,6 +91,9 @@ class MuseumNavigationTests(unittest.TestCase):
         """Une seule carte illustrée, sans perdre le texte de la page."""
         with TemporaryDirectory() as temporary:
             root = Path(temporary)
+            artwork = root / 'assets/reconstitutions-3d/delphes-apollon-panorama.webp'
+            artwork.parent.mkdir(parents=True)
+            artwork.write_bytes(b'RIFFsimulatedWEBP')
             page = root / 'index.html'
             page.write_text(
                 '<html lang="fr"><head><title>MYTHOS</title></head><body>'
