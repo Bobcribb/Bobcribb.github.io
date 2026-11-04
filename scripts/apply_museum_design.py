@@ -384,6 +384,15 @@ def apply(root):
                         and image_path.endswith('.webp')
                         and (root / image_path.lstrip('/')).is_file()):
                     continue
+                # Le parcours de l'Énéide possède une photographie précise
+                # des vestiges de Troie VI, explicitement NON assimilés aux
+                # scènes du poème. Conserver son ALT scientifique à chaque passe.
+                if (card.get('href') == '/philosophie-eneide.html'
+                        and authored.get('src') ==
+                        '/media/2026/10/mythos-troie-vi-porte-est-hisarlik-cherryx-2012.jpg'):
+                    if not (root / authored['src'].lstrip('/')).is_file():
+                        raise RuntimeError('Photographie de Troie manquante : parcours Énéide')
+                    continue
                 # Les cartes des dernières études proviennent des reçus
                 # d'attribution et de recent_studies.py. Leurs photographies
                 # documentaires sont déjà archivées dans media/ et accompagnées
