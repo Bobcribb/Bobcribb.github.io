@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const filters=[...document.querySelectorAll('[data-filter]')], pagination=document.querySelector('[data-pagination]');
   let status=document.querySelector('[data-search-status]');
   if (!status) { status=document.createElement('p');status.setAttribute('role','status');results.before(status); }
-  const norm=v=>String(v||'').replace(/œ/g,'oe').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
+  const norm=v=>String(v||'').toLowerCase().replace(/œ/g,'oe').normalize('NFD').replace(/[\u0300-\u036f]/g,'');
   const params=new URLSearchParams(location.search);
   input.value=params.get('q')||'';
   let documents=[],page=1,ready=false;
