@@ -21,14 +21,21 @@
     "img_without_alt": 0,
     "missing_local_resources": 0,
     "verified_issue": "Les 3 WebP patrimoniaux ajoutés au précédent commit e2aa8a5a... figuraient dans les pages sources, mais pas dans RECENT_FIGURES du test de publication HTTPS. Le test existant couvrait 8 JPG, pas ces nouvelles figures.",
-    "correction": "Étendre RECENT_FIGURES à 11 images sur 5 pages en préservant les 8 entrées existantes. Le contrôle vérifie l'unicité de chaque figure, légende, crédit, statut IA, alt, chemin, signature réelle WebP et SHA-256 identique au fichier du build.",
-    "tests": "Adapter les mocks JPEG/WebP et les compteurs de vérification à 11 médias / 5 pages ; ajouter les régressions de page Ottley périmée, WebP altéré et faux WebP. Contrôles statiques précommit effectués ; suite Python complète à vérifier sur GitHub Actions.",
+    "correction": "Étendre RECENT_FIGURES à 11 images sur 5 pages en préservant les 8 entrées existantes. Le contrôle vérifie l'unicité de chaque figure, légende, crédit, statut IA, alt, chemin, signature réelle WebP et SHA-256 identique au fichier du build. Correctif post-CI : le regroupement des 11 documents comprend 6 pages (la Théogonie est une page distincte), soit 17 résultats page/image, et non 5 pages/16 résultats.",
+    "tests": "Adapter les mocks JPEG/WebP et les compteurs de vérification à 11 médias / 5 pages ; ajouter les régressions de page Ottley périmée, WebP altéré et faux WebP. Contrôles statiques précommit effectués ; suite Python complète à vérifier sur GitHub Actions. Après le run CI 41821559845, 135 des 136 tests étaient réussis ; un unique échec sur l'assertion de 5 pages au lieu de 6. Corrigé par une seconde modification ciblée du test et du registre, sans toucher au vérificateur ni aux sources.",
     "public_observation": "Consultation HTTPS de /catalog/publication-verification.json et des trois pages : reçu source_commit=8cb0a3619b4b5ff7ffe8579c0b1cb73927bbabdc (1289 documents indexés), antérieur à e2aa8a5a... ; les 3 nouveaux IDs absents du HTML déployé. Aucun déploiement de ce lot confirmé.",
     "ci_state": "Multiples exécutions GitHub Actions de publication annulées lors de commits concurrents. Dernière exécution 41821060626 en attente au contrôle initial; ne pas confondre build GitHub et déploiement public.",
     "preservation": "Aucun manuscrit, chapitre, numéro, navigation, image ou ressource modifié. AGENTS.md et docs/PUBLICATION_CONCURRENTE.md relus; workflows et automatisations horaires conservés.",
     "limitations": "Inspection ciblée de 3 pages; pas de re-rendu responsive ou A4, ni contrôle HTTP exhaustif des notices externes. La disponibilité des images publiques et leurs hashes reste à attester lors du prochain déploiement.",
     "commits": [],
-    "commit_note": "Commit atomique du vérificateur, des tests et du journal; SHA lisible dans l'historique GitHub."
+    "commit_note": "Commit atomique du vérificateur, des tests et du journal; SHA lisible dans l'historique GitHub.",
+    "test_status": "Le premier run 41821559845 a échoué uniquement pour AssertionError: 6 != 5 dans test_all_eleven_documentary_images_and_five_pages_verified; toutes les vérifications JPEG/WebP de falsification ont réussi. Nouvelle CI à contrôler.",
+    "checked_pages_with_historical_documentary_figures": 6,
+    "asset_verification_count": 11,
+    "page_and_asset_verification_results_count": 17,
+    "correction_commits": [
+      "c1ae307428413f867c710273dc424c18d41e2551"
+    ]
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
   "history": [
@@ -1030,14 +1037,21 @@
       "img_without_alt": 0,
       "missing_local_resources": 0,
       "verified_issue": "Les 3 WebP patrimoniaux ajoutés au précédent commit e2aa8a5a... figuraient dans les pages sources, mais pas dans RECENT_FIGURES du test de publication HTTPS. Le test existant couvrait 8 JPG, pas ces nouvelles figures.",
-      "correction": "Étendre RECENT_FIGURES à 11 images sur 5 pages en préservant les 8 entrées existantes. Le contrôle vérifie l'unicité de chaque figure, légende, crédit, statut IA, alt, chemin, signature réelle WebP et SHA-256 identique au fichier du build.",
-      "tests": "Adapter les mocks JPEG/WebP et les compteurs de vérification à 11 médias / 5 pages ; ajouter les régressions de page Ottley périmée, WebP altéré et faux WebP. Contrôles statiques précommit effectués ; suite Python complète à vérifier sur GitHub Actions.",
+      "correction": "Étendre RECENT_FIGURES à 11 images sur 5 pages en préservant les 8 entrées existantes. Le contrôle vérifie l'unicité de chaque figure, légende, crédit, statut IA, alt, chemin, signature réelle WebP et SHA-256 identique au fichier du build. Correctif post-CI : le regroupement des 11 documents comprend 6 pages (la Théogonie est une page distincte), soit 17 résultats page/image, et non 5 pages/16 résultats.",
+      "tests": "Adapter les mocks JPEG/WebP et les compteurs de vérification à 11 médias / 5 pages ; ajouter les régressions de page Ottley périmée, WebP altéré et faux WebP. Contrôles statiques précommit effectués ; suite Python complète à vérifier sur GitHub Actions. Après le run CI 41821559845, 135 des 136 tests étaient réussis ; un unique échec sur l'assertion de 5 pages au lieu de 6. Corrigé par une seconde modification ciblée du test et du registre, sans toucher au vérificateur ni aux sources.",
       "public_observation": "Consultation HTTPS de /catalog/publication-verification.json et des trois pages : reçu source_commit=8cb0a3619b4b5ff7ffe8579c0b1cb73927bbabdc (1289 documents indexés), antérieur à e2aa8a5a... ; les 3 nouveaux IDs absents du HTML déployé. Aucun déploiement de ce lot confirmé.",
       "ci_state": "Multiples exécutions GitHub Actions de publication annulées lors de commits concurrents. Dernière exécution 41821060626 en attente au contrôle initial; ne pas confondre build GitHub et déploiement public.",
       "preservation": "Aucun manuscrit, chapitre, numéro, navigation, image ou ressource modifié. AGENTS.md et docs/PUBLICATION_CONCURRENTE.md relus; workflows et automatisations horaires conservés.",
       "limitations": "Inspection ciblée de 3 pages; pas de re-rendu responsive ou A4, ni contrôle HTTP exhaustif des notices externes. La disponibilité des images publiques et leurs hashes reste à attester lors du prochain déploiement.",
       "commits": [],
-      "commit_note": "Commit atomique du vérificateur, des tests et du journal; SHA lisible dans l'historique GitHub."
+      "commit_note": "Commit atomique du vérificateur, des tests et du journal; SHA lisible dans l'historique GitHub.",
+      "test_status": "Le premier run 41821559845 a échoué uniquement pour AssertionError: 6 != 5 dans test_all_eleven_documentary_images_and_five_pages_verified; toutes les vérifications JPEG/WebP de falsification ont réussi. Nouvelle CI à contrôler.",
+      "checked_pages_with_historical_documentary_figures": 6,
+      "asset_verification_count": 11,
+      "page_and_asset_verification_results_count": 17,
+      "correction_commits": [
+        "c1ae307428413f867c710273dc424c18d41e2551"
+      ]
     }
   ]
 }

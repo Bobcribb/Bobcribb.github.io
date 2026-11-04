@@ -166,7 +166,7 @@ class RecentFigurePublicationTests(unittest.TestCase):
 
     def test_all_eleven_documentary_images_and_five_pages_verified(self):
         pages, assets = live.recent_figure_inventory(self.root)
-        self.assertEqual(len(pages), 5)
+        self.assertEqual(len(pages), 6)
         self.assertEqual(len(pages["livre-odyssee/index.html"]), 2)
         self.assertEqual(len(pages["livre-hesiode/index.html"]), 3)
         self.assertEqual(len(pages["philosophie-iliade.html"]), 2)
@@ -175,7 +175,7 @@ class RecentFigurePublicationTests(unittest.TestCase):
         self.assertEqual(len(assets), 11)
         with patch.object(live, "fetch", side_effect=self.fetch):
             report = live.verify_recent_public_figures("https://example.test", self.root)
-        self.assertEqual(len(report), 16)
+        self.assertEqual(len(report), 17)
         self.assertTrue(all(item["valid"] for item in report))
 
     def test_stale_odyssey_figure_and_tampered_jpeg_are_detected(self):
