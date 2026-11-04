@@ -28,7 +28,7 @@ class GreekCultNavigationTests(unittest.TestCase):
                 text = path.read_text(encoding='utf-8')
                 self.assertTrue(text.startswith(f'# Chapitre {number} '))
                 self.assertGreaterEqual(len(text), 10000)
-                self.assertGreaterEqual(len(re.findall(r'^## \\d+\\. ', text, re.M)),
+                self.assertGreaterEqual(len(re.findall(r'^## \d+\. ', text, re.M)),
                                         minimum_sections)
                 self.assertIn('Pausanias', text)
                 self.assertRegex(text.lower(), r'bibliograph')
