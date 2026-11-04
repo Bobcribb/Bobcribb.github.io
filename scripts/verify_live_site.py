@@ -220,6 +220,14 @@ RECENT_FIGURES = (
      "/assets/illustrations-articles/met-252973-persephone-retour-enfers.webp"),
     ("philosophie-theogonie.html", "icono-theogonie-nike-styx-met-247903-20261104",
      "/assets/illustrations-articles/met-247903-nike-terre-cuite.webp"),
+    # Latest documented museum images on the Iliad, Odyssey and Hesiod
+    # reading pages. Verify both public notices and identical WebP bytes.
+    ("livre-iliade-scenes/index.html", "icono-iliade-enee-virgile-distinction-20261104",
+     "/assets/illustrations-articles/met-199612-enee-fuite-troie-email.webp"),
+    ("livre-odyssee/index.html", "icono-odyssee-hermes-bronze-met-246679-20261104",
+     "/assets/illustrations-articles/met-246679-hermes-bronze-aile.webp"),
+    ("livre-hesiode/index.html", "icono-hesiode-promethee-bartolozzi-1795-20261104",
+     "/assets/illustrations-articles/met-680363-promethee-bartolozzi.webp"),
 )
 
 
