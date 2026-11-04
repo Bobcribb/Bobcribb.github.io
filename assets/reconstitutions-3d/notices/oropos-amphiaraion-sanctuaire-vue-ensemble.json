@@ -1,0 +1,32 @@
+{
+  "id": "ORO-AMP-001",
+  "slug": "oropos-amphiaraion-sanctuaire-vue-ensemble",
+  "title": "Oropos — Amphiaraion, sanctuaire d’Amphiaraos",
+  "period": "Évocation du IIe siècle av. J.-C., vers 150 av. J.-C.",
+  "image": "/assets/reconstitutions-3d/oropos-amphiaraion-sanctuaire-vue-ensemble.webp",
+  "caption": "Panorama 3D photoréaliste interprétatif du sanctuaire oraculaire et thérapeutique d'Amphiaraos, avec le temple dorique, le portique d'incubation et le petit théâtre.",
+  "commentary": "Le sanctuaire d'Amphiaraos se trouve dans une vallée boisée près d'Oropos, le long d'un cours d'eau antique. Le lieu de culte est attesté au Ve siècle av. J.-C. ; le temple dorique à six colonnes en façade et le grand autel appartiennent aux constructions du IVe siècle. Le portique destiné notamment à l'incubation mesure environ 110 m ; sa colonnade extérieure est dorique et sa colonnade intérieure ionique. Le théâtre est un édifice beaucoup plus modeste que les grands théâtres civiques, d'une capacité estimée à environ 300 personnes. Son proskènion d'ordre dorique se rattache au IIe siècle av. J.-C. ; les cinq trônes de marbre conservés appartiennent probablement à une phase du Ier siècle av. J.-C. et ne sont donc pas reconstitués ici. Cette image réunit des composants attestés, mais la profondeur du théâtre, la forme des gradins, le gabarit du bâtiment de scène, l'orientation apparente des monuments, la disposition des autels, le pavage, les fontaines et la végétation sont interprétatifs. Le fond de scène à allure de petit temple ne doit pas être considéré comme une restitution du proskènion historique. Les textes et vestiges ne permettent pas de certifier un état synchronique exact vers 150 av. J.-C.",
+  "certainty": {
+    "high": "Emplacement du sanctuaire à Oropos, culte guérisseur d'Amphiaraos, existence du temple, du portique d'incubation d'environ 110 m et du théâtre.",
+    "medium": "Datation des principaux états hellénistiques, présence d'un temple dorique à six colonnes en façade, ordre des colonnades du portique et organisation générale le long de la vallée.",
+    "low": "Hauteur et toiture des constructions, gradins et scène du petit théâtre (particulièrement idéalisés dans l'image), détails des fonts et autels, topographie relative, végétation, matériaux et couleurs."
+  },
+  "sources": [
+    {
+      "label": "Hellenic Heritage — Amphiaraion (patrimoine grec)",
+      "url": "https://www.hh.gr/en/destinations/amphiaraion/"
+    },
+    {
+      "label": "Diazoma — Ancient Theater of Amphiariou",
+      "url": "https://diazoma.gr/en/theaters/ancient-theater-amphiariou/"
+    },
+    {
+      "label": "J. J. Coulton (1968), The Stoa at the Amphiaraion, Oropos, Annual of the British School at Athens 63, 147–183",
+      "url": "https://www.cambridge.org/core/journals/annual-of-the-british-school-at-athens/article/abs/stoa-at-the-amphiaraion-oropos/02878E7E89DA4F4C7F6795EFA1255FE6"
+    }
+  ],
+  "width": 1672,
+  "height": 941,
+  "sha256": "de0ee80dd2dd37e35510adefd72b6e56ec202d553f2194dba5f536b9a7aa5564",
+  "rights_and_method": "Illustration numérique originale assistée par IA ; aucun texte ni menu incrusté dans les pixels. Illustration non métrique non validée par les institutions référencées."
+}
