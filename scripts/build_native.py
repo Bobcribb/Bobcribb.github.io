@@ -237,6 +237,8 @@ def reindex(chapters):
         if url in by_url or url in historical_aliases:
             continue
         doc=BeautifulSoup(p.read_text(encoding="utf-8"),"html.parser")
+        for owned in doc.select("[data-reading-owned], [data-epic-owned], [data-discovery-footer]"):
+            owned.decompose()
         title=text(str(doc.h1 or doc.title or url))
         para=doc.select_one(".content p") or doc.select_one("p")
         excerpt=text(str(para))[:190] if para else ""
@@ -253,6 +255,8 @@ def reindex(chapters):
         if any(str(meta.get("http-equiv", "")).lower() == "refresh"
                for meta in doc.find_all("meta")):
             continue
+        for owned in doc.select("[data-reading-owned], [data-epic-owned], [data-discovery-footer]"):
+            owned.decompose()
         title = text(str(doc.h1 or doc.title or url))
         para = doc.select_one("main p") or doc.select_one("p")
         excerpt = text(str(para))[:190] if para else ""

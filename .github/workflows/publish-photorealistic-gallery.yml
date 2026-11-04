@@ -4,11 +4,8 @@ on:
   push:
     branches: [main]
     paths:
-      - '.github/workflows/publish-photorealistic-gallery.yml'
       - 'assets/reconstitutions-3d/**'
       - 'reconstitutions-photorealistes.html'
-      - 'scripts/build_native.py'
-      - 'scripts/apply_museum_design.py'
   workflow_dispatch:
 
 permissions:

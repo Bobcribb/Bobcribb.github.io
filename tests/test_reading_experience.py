@@ -55,6 +55,25 @@ class ReadingTests(unittest.TestCase):
             self.assertEqual(result['new_navigation_errors'],[])
             self.assertEqual(result['status'],'passed')
 
+    def test_reindexed_article_keeps_its_excerpt_after_reading_controls_are_published(self):
+        import json
+        from unittest.mock import patch
+        import build_native
+        with tempfile.TemporaryDirectory() as temporary:
+            root=Path(temporary);out=root/'_site';out.mkdir()
+            entries=[]
+            for i in range(450):
+                directory=out/('article-'+str(i));directory.mkdir()
+                (directory/'index.html').write_text('<html><h1>Article</h1></html>')
+                entries.append({'url':'/article-'+str(i)+'/', 'title':'Article', 'excerpt':'Texte'})
+            (out/'search.json').write_text(json.dumps(entries))
+            (out/'sanctuaire.html').write_text('<html><head><title>Sanctuaire</title></head><body><main><div data-reading-owned="true"><p>Lecture : environ 3 min</p></div><h1>Sanctuaire</h1><p>Le sanctuaire se trouve dans le Péloponnèse.</p></main></body></html>')
+            with patch.object(build_native,'ROOT',root),patch.object(build_native,'OUT',out),patch('editorial_numbering.redirects',return_value={}):
+                build_native.reindex([])
+            article=next(e for e in json.loads((out/'search.json').read_text()) if e['url']=='/sanctuaire.html')
+            self.assertEqual(article['excerpt'],'Le sanctuaire se trouve dans le Péloponnèse.')
+            self.assertIn('data-reading-owned', (out/'sanctuaire.html').read_text())
+
     def test_no_false_author_from_article_prose(self):
         doc=self.document();doc.p.string='Nietzsche et Hegel commentent des mythes.'
         entry=metadata({'url':'/sources/','title':'Sources anciennes','excerpt':''},doc)
