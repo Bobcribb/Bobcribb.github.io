@@ -37,3 +37,11 @@ Les trois fichiers ont été **relus après écriture sur `main`** : `scripts/im
 Au contrôle de 13 h 57 UTC, le workflow de validation du commit `88ab346` (`41842750044`) était **en cours** ; le workflow de publication du correctif CSS (`41842693827`) était **en attente**. La publication antérieure `41840963079` associée à `edc524e` était terminée avec succès, mais **ne démontre pas le déploiement de ces trois commits**. Le contrôle HTTPS direct de `bobmythos.fr` n'était pas accessible à ce client ; la présence publique des nouvelles cartes et du mémoire d'Aton n'est donc pas déclarée vérifiée. Le JSON `catalog/publication-verification.json` dans GitHub demeure une preuve de génération source, à confronter au fichier servi en HTTPS et au workflow Actions.
 
 Contrôles de clôture : `python -m unittest discover -s tests -v`, `python scripts/build_native.py`, `python scripts/verify_publication.py`, puis la dernière exécution de publication réussie, l'accueil HTTPS et son rendu mobile. Aucune autre automatisation MYTHOS n'a été modifiée.
+
+## Vérification publique additionnelle — HTTPS
+
+Le contrôle public a finalement abouti. Le fichier `https://bobmythos.fr/catalog/publication-verification.json` indique `source_commit=edc524e0b1d8badf5c703d2f8046fc9b0f78b171`, run `41840963079`, **1318 entrées**, **27 archives** et **110 médias**. L'accueil HTTPS à cette version comporte encore les liens simples vers les bibliothèques d'Égypte, de Mésopotamie et de Perse ; **les nouvelles cartes iconographiques de cette intervention n'y sont pas encore déployées**.
+
+La section `#horizon-aton-memoire-integral` est en revanche bien présente sur `https://bobmythos.fr/akhetaton-horizon-aton-etude/` : son HTML extrait dépasse 90 000 caractères et inclut 5 tableaux, 3 figures documentaires et une bibliographie, avec un sommaire annonçant 16 chapitres. Il s'agit de **la publication antérieure**, non d'une intégration nouvelle par cette exécution.
+
+Les étapes initiales des tests du commit `88ab346` (workflow `41842750044`) ont réussi ; le générateur complet était encore en cours. La publication `41842693827` a été annulée par la concurrence en faveur de workflows récents. La réussite finale des nouvelles cartes ne doit pas être anticipée. Ces observations remplacent la mention précédente d'impossibilité de consultation HTTPS.
