@@ -80,6 +80,55 @@ def cards(items):
     return render_cards(items)
 
 
+
+# Vitrines documentaires des bibliothèques : images strictement liées à un
+# objet attesté, avec la notice complète de provenance du registre existant.
+# Ces cartes n'illustrent pas une civilisation entière.
+CIVILISATION_DOCUMENTS = [
+    ("/bibliotheque-egypte-ancienne/", "Égypte ancienne",
+     "Textes funéraires, sanctuaires et histoire religieuse.",
+     "mythos-ounas-chambre-funeraire-vincent-brown"),
+    ("/bibliotheque-mesopotamie/", "Mésopotamie",
+     "Tablettes, cosmogonies et traditions suméro-akkadiennes.",
+     "mythos-enuma-elish-tablette-k3473-ninive-zunkir"),
+    ("/bibliotheque-perse-iran-ancien/", "Perse et Iran ancien",
+     "Reliefs achéménides, inscriptions et sources iraniennes.",
+     "persepolis-apadana-delegation-lydienne"),
+]
+
+
+def civilisation_document_cards(out, root):
+    """Return three sourced home cards; refuse missing provenance or files."""
+    register = json.loads((root / "scripts/editorial_media.json").read_text(encoding="utf-8"))
+    media = {item["id"]: item for item in register["media"]}
+    cards_html = []
+    for url, label, lead, media_id in CIVILISATION_DOCUMENTS:
+        if not page_path(out, url).is_file():
+            raise RuntimeError("Bibliothèque absente du rendu : " + url)
+        item = media.get(media_id)
+        if not item or not all(item.get(key) for key in ("path", "alt", "caption_html", "provenance_page")):
+            raise RuntimeError("Provenance archéologique manquante : " + media_id)
+        relative = Path(item["path"])
+        if relative.parts[:3] != ("media", "2026", "10") or not (out / relative).is_file():
+            raise RuntimeError("Image archéologique absente du rendu : " + str(relative))
+        provenance_page = item["provenance_page"]
+        if not (out / provenance_page).is_file():
+            raise RuntimeError("Dossier de provenance absent : " + provenance_page)
+        cards_html.append(
+            '<article class="mythos-civilisation-card" data-document-id="' + escape(media_id, quote=True) + '">'
+            '<a class="mythos-civilisation-link" href="' + escape(url, quote=True) + '">'
+            '<img src="/' + escape(relative.as_posix(), quote=True) + '" alt="' + escape(item["alt"], quote=True) + '" loading="lazy" decoding="async">'
+            '<span class="mythos-civilisation-kicker">DOCUMENT ARCHÉOLOGIQUE</span>'
+            '<strong>' + escape(label) + '</strong>'
+            '<span>' + escape(lead) + '</span></a>'
+            '<details class="mythos-civilisation-credit"><summary>Source et crédits de l’image</summary>'
+            '<div>' + item["caption_html"] + ' '
+            '<a href="/' + escape(provenance_page, quote=True) + '">Étudier cet objet et ses sources</a></div>'
+            '</details></article>'
+        )
+    return '<div class="mythos-civilisation-grid">' + ''.join(cards_html) + '</div>'
+
+
 def search_form(catalogue=False):
     filters = [("collection", "Collection"), ("civilizations", "Civilisation"),
                ("authors", "Auteur étudié"), ("works", "Œuvre"), ("themes", "Thème")]
@@ -126,8 +175,8 @@ def prepare(out, root):
     intro += '<p class="discovery-inline">Dossiers et sources : ' + ' · '.join(
         '<a href="/sites/' + dossier + '.html">' + title.split(" — ")[0] + '</a>'
         for title, _, dossier, _ in sites) + ' · <a href="/reconstitutions-photorealistes.html">Galerie complète</a></p></section>'
-    intro += '<section class="portal-section"><h2>Explorer les mondes anciens</h2><p class="discovery-inline">'+ ' · '.join(
-        '<a href="'+u+'">'+label+'</a>' for u,label in [('/bibliotheque-egypte-ancienne/','Égypte'),('/bibliotheque-mesopotamie/','Mésopotamie'),('/bibliotheque-perse-iran-ancien/','Perse'),('/civilisations/','Toutes les civilisations'),('/reconstitutions-antiquite/','Sites et reconstitutions')])+'</p></section>'
+    intro += '<section class="portal-section" id="home-civilisations"><h2>Explorer les mondes anciens</h2>' + civilisation_document_cards(out, root) + '<p class="discovery-inline">'+ ' · '.join(
+        '<a href="'+u+'">'+label+'</a>' for u,label in [('/civilisations/','Toutes les civilisations'),('/reconstitutions-antiquite/','Sites et reconstitutions')])+'</p></section>'
     intro += '<section class="portal-section" id="corpus-status"><h2>Une bibliothèque documentée</h2><p><a href="/catalogue-integral/">Catalogue intégral</a> · <a href="/etat-du-corpus/">État du corpus</a> · <a href="/methode-editoriale/">Sources et méthode</a></p><p data-corpus-count>Le catalogue est reconstruit à partir des textes disponibles.</p></section>'
     write_page(out, '', 'MYTHOS — Mythes, textes et civilisations', intro)
     write_page(out, 'recherche', 'Rechercher dans MYTHOS', '<h1>Rechercher dans MYTHOS</h1><p>Combinez les mots et les filtres pour retrouver une étude.</p>'+search_form())
