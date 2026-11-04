@@ -2,7 +2,7 @@
   "generated_at": "2026-11-04",
   "site": "bobmythos.fr",
   "method": "Illustrations photoréalistes interprétatives, textes et sources hors des pixels.",
-  "count": 39,
+  "count": 40,
   "entries": [
     {
       "id": "DEL-PAN-001",
@@ -778,6 +778,28 @@
       "provenance": "Visuel numérique original généré par IA ; les sources décrivent les vestiges sans cautionner l’image.",
       "sha256": "e01ad8ae0aa051442ce8c3844ce55be08805e87b27ddfba58b912eca957dd3f8",
       "scientific_notice": "/assets/reconstitutions-3d/notices/athenes-kerameikos-dipylon-porte-double-panorama.json"
+    },
+    {
+      "id": "ATH-STO-001",
+      "slug": "athenes-agora-stoa-attale-panorama",
+      "title": "Athènes — stoa d’Attale, panorama hellénistique",
+      "period": "Évocation vers 140 av. J.-C. (IIe siècle av. J.-C.)",
+      "caption": "Vue panoramique numérique photoréaliste de la stoa d’Attale II sur le bord oriental de l’Agora d’Athènes ; façade à deux niveaux et Acropole en arrière-plan.",
+      "commentary": "La stoa d’Attale fut édifiée sous le règne d’Attale II de Pergame (159–138 av. J.-C.) sur le bord oriental de l’Agora. Son bâtiment à deux étages, long d’environ 115 m, combinait ordre dorique au rez-de-chaussée extérieur et ordre ionique à l’étage ; des pièces bordaient les portiques. Le bâtiment actuel est une reconstruction des années 1950 par l’American School of Classical Studies at Athens. L’image évoque un état hellénistique vers 140 av. J.-C. Elle ne reproduit ni une élévation métrique contrôlée, ni un état stratigraphique unique de la place. La distribution des étals, les personnages, les autels, les sols, les objets, la végétation, la polychromie et certains détails du parapet sont hypothétiques.",
+      "certainty": "Élevée : position, origine, deux niveaux, ordres principaux. Moyenne : gabarit et topographie générale. Faible : mobilier, marchés, pavements, décor, couleurs, détails et personnages.",
+      "source_url": "https://agorakerameikos.gr/en/archeological-sites/stoa-of-attalos/",
+      "src": "/assets/reconstitutions-3d/athenes-agora-stoa-attale-panorama.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-04",
+      "type": "vue panoramique 3D photoréaliste non métrique",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/athenes-agora-stoa-attale-panorama.json",
+      "secondary_sources": [
+        "https://www.ascsa.edu.gr/events/details/live-from-the-agora-the-stoa-of-attalos",
+        "https://perseus-aa.github.io/items/aa_76.html",
+        "https://www.ascsa.edu.gr/excavations/athenian-agora/about-the-excavations/visiting-the-site-and-museum"
+      ],
+      "sha256": "cbe70e0f354f693b51cc820d5da7f9e60fca6d804bc7afbdda8cd18068400848"
     }
   ]
 }
