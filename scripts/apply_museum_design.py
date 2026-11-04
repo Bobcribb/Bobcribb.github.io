@@ -152,7 +152,17 @@ def apply(root):
             section = fragment('<section class="mythos-directory"><h2>Les collections de MYTHOS</h2><p>Une bibliothèque pour explorer les mythes, les rites, les œuvres et les sociétés.</p><div class="mythos-collection-grid">'+''.join('<a class="mythos-collection-card" href="'+u+'">'+cover(u,root)+'<span><strong>'+t+'</strong><span aria-hidden="true">→</span></span></a>' for u,t in items)+'</div></section>').section
             banner.insert_after(section)
         for card in doc.select('.portal-card'):
-            # Refresh generated thumbnails, preserving authored card images.
+            # A gallery card can point to a verified photorealistic WebP outside
+            # the collection-cover map. Preserve that authored photograph: an
+            # earlier pass discarded it and silently left the card without art.
+            # Do not retain legacy 2.5D/vector thumbnails from older pages.
+            authored = card.select_one('img.mythos-card-image')
+            if authored:
+                image_path = authored.get('src', '').split('?', 1)[0]
+                if (image_path.startswith('/assets/reconstitutions-3d/')
+                        and image_path.endswith('.webp')
+                        and (root / image_path.lstrip('/')).is_file()):
+                    continue
             for old in card.select('img.mythos-card-image'):
                 old.decompose()
             src = picture(card.get('href', ''), root)
