@@ -52,5 +52,64 @@ class TestPhotorealGalleryVerification(unittest.TestCase):
                 inventory(root)
 
 
+    def test_index_references_all_published_3d_notices(self):
+        from bs4 import BeautifulSoup
+        from shutil import copy2
+        from scripts.sync_reconstitution_index import sync_index
+
+        repo = Path(__file__).resolve().parents[1]
+        gallery = repo / 'reconstitutions-photorealistes.html'
+        manifest = repo / 'assets/reconstitutions-3d/catalogue-photorealiste.json'
+        with TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            target = root / 'reconstitutions-photorealistes.html'
+            catalog = root / 'assets/reconstitutions-3d/catalogue-photorealiste.json'
+            catalog.parent.mkdir(parents=True, exist_ok=True)
+            copy2(gallery, target)
+            copy2(manifest, catalog)
+            sync_index(root)
+            self.assertEqual(sync_index(root), 0, 'Sommaire 3D non idempotent')
+            entries = json.loads(catalog.read_text(encoding='utf-8'))['entries']
+            doc = BeautifulSoup(target.read_text(encoding='utf-8'), 'html.parser')
+            cards = doc.select('nav.r3d-index a.r3d-index-image[href^="#"]')
+            self.assertEqual(len(cards), len(entries))
+            links = {card['href'][1:]: card for card in cards}
+            self.assertEqual(len(links), len(entries), 'Sommaire 3D dupliqué')
+            for item in entries:
+                with self.subTest(slug=item['slug']):
+                    card = links[item['slug']]
+                    self.assertEqual(card.img.get('src'), item['src'])
+                    self.assertIsNotNone(doc.find('article', id=item['slug']))
+
+    def test_index_sync_repairs_missing_thumbnail(self):
+        from bs4 import BeautifulSoup
+        from scripts.sync_reconstitution_index import sync_index
+
+        with TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            page = root / 'reconstitutions-photorealistes.html'
+            page.write_text(
+                '<html><body><nav class="r3d-index"><div class="r3d-index-grid">'
+                '</div></nav><article class="r3d-card" id="delphes-temple">'
+                '<h2>Delphes</h2></article></body></html>', encoding='utf-8')
+            catalog = root / 'assets/reconstitutions-3d/catalogue-photorealiste.json'
+            catalog.parent.mkdir(parents=True)
+            catalog.write_text(json.dumps({'count': 1, 'entries': [{
+                'slug': 'delphes-temple',
+                'title': 'Delphes — temple',
+                'src': '/assets/reconstitutions-3d/delphes-temple.webp',
+                'source_url': 'https://example.org/delphes',
+            }]}), encoding='utf-8')
+            self.assertEqual(sync_index(root), 1)
+            html_once = page.read_text(encoding='utf-8')
+            self.assertEqual(sync_index(root), 0)
+            self.assertEqual(page.read_text(encoding='utf-8'), html_once)
+            doc = BeautifulSoup(html_once, 'html.parser')
+            card = doc.select_one('nav.r3d-index a[href="#delphes-temple"]')
+            self.assertIsNotNone(card)
+            self.assertEqual(card.img.get('src'),
+                             '/assets/reconstitutions-3d/delphes-temple.webp')
+
+
 if __name__ == "__main__":
     unittest.main()
