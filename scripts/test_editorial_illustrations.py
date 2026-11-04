@@ -163,7 +163,7 @@ class EditorialIllustrationsTest(unittest.TestCase):
     def test_large_gallery_remains_bounded_and_idempotent(self):
         doc, selected = self.render_page('etude-comparee', 'Euripide, Médée, Iphigénie et Oreste', '<p>Étude conservée.</p>')
         self.assertEqual(8, len(selected))
-        self.assertEqual(6, len(set(selected)))
+        self.assertEqual(8, len(set(selected)))
         again, other = illustrations.decorate_document(str(doc), Path('etude-comparee/index.html'), ROOT, self.records)
         self.assertEqual(str(doc), again)
         self.assertEqual(selected, other)
