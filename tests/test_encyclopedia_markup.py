@@ -25,8 +25,8 @@ ENTRIES = [
 class EncyclopediaMarkupTests(unittest.TestCase):
     def test_six_collections_and_all_urls_survive_valid_ordered_lists(self):
         with TemporaryDirectory() as temporary, patch.object(navigation, "OUT", Path(temporary)):
-            navigation.create_encyclopedia(ENTRIES)
-            page = Path(temporary) / "grande-encyclopedie/index.html"
+            navigation.create_encyclopedia_registry(ENTRIES)
+            page = Path(temporary) / "grande-encyclopedie/registre-integral/index.html"
             raw = page.read_text(encoding="utf-8")
             # The raw markup must be paired before any HTML parser repairs it.
             self.assertEqual(raw.count("<ol"), raw.count("</ol>"))
@@ -46,7 +46,24 @@ class EncyclopediaMarkupTests(unittest.TestCase):
     def test_duplicate_urls_remain_rejected(self):
         with TemporaryDirectory() as temporary, patch.object(navigation, "OUT", Path(temporary)):
             with self.assertRaisesRegex(RuntimeError, "URL dupliquée"):
-                navigation.create_encyclopedia(ENTRIES + [ENTRIES[0]])
+                navigation.create_encyclopedia_registry(ENTRIES + [ENTRIES[0]])
+
+    def test_public_portal_links_to_unabridged_registry(self):
+        with TemporaryDirectory() as temporary, patch.object(navigation, "OUT", Path(temporary)):
+            navigation.create_encyclopedia_registry(ENTRIES)
+            navigation.create_encyclopedia(ENTRIES)
+            portal = Path(temporary) / "grande-encyclopedie/index.html"
+            registry = Path(temporary) / "grande-encyclopedie/registre-integral/index.html"
+            self.assertTrue(portal.is_file() and registry.is_file())
+            doc = BeautifulSoup(portal.read_text(encoding="utf-8"), "html.parser")
+            link = doc.select_one('a[href="/grande-encyclopedie/registre-integral/"]')
+            self.assertIsNotNone(link)
+            self.assertIn("registre intégral", link.get_text(" ", strip=True).casefold())
+            self.assertIn("Phèmè — étude intégrale", doc.get_text(" ", strip=True))
+            source = registry.read_text(encoding="utf-8")
+            for entry in ENTRIES:
+                self.assertIn(entry["url"], source)
+
 
 
 if __name__ == "__main__":

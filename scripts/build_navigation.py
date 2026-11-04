@@ -612,7 +612,7 @@ def classify_encyclopedia(entry):
     if url.startswith(("/bibliotheque-mythologies-du-monde/","/bibliotheque-egypte-ancienne/","/bibliotheque-mesopotamie/","/bibliotheque-perse-iran-ancien/")): return "CM"
     return "REF"
 
-def create_encyclopedia(entries):
+def create_encyclopedia_registry(entries):
     """Registre public stable par collection, sans toucher aux archives ni réécrire les études."""
     canonical={}
     for e in entries:
@@ -651,8 +651,8 @@ def create_encyclopedia(entries):
           '<li data-public-id="'+esc(assigned[e["url"]])+'"><span class="origin-id">'+esc(assigned[e["url"]])+'</span><a href="'+esc(e["url"])+'">'+esc(e["title"])+'</a></li>'
           for e in rows)+'</ol></details></section>'
     body+=section("Règles de classement","Une URL ne figure qu'une fois dans le registre. Les cotes des collections sont indépendantes ; la numérotation scientifique historique est conservée dans les documents sources.",
-      '<p>Le registre présente les pages effectivement indexées. La grande édition manuscrite des Origines du sacré, distincte des chapitres déjà publiés, sera intégrée seulement après comparaison de ses versions pour éviter les doublons.</p>')
-    write("grande-encyclopedie",shell("Grande encyclopédie — catalogue général MYTHOS",body))
+      '<p>Le registre présente les pages effectivement indexées. Les tomes et chapitres déjà publiés restent consultables à leurs adresses propres ; les manuscrits historiques non retrouvés dans leur intégralité ne sont pas inventés.</p>')
+    write("grande-encyclopedie/registre-integral",shell("Grande encyclopédie — registre des six collections MYTHOS",body))
 
 def create_theatre(entries):
     """Théâtre grec : corpus méthodique vérifié dans search.json, sans renuméroter les volumes."""
@@ -790,6 +790,12 @@ def create_encyclopedia(entries):
     ]
     available={e["url"] for e in entries}
     body='<h1>Grande encyclopédie MYTHOS</h1><p class="portal-lead">La grande encyclopédie dispose de sa propre entrée, distincte des pièces de théâtre, des études philosophiques générales et des Origines du sacré. Les anciens volumes restent intacts et consultables par leur sommaire.</p>'
+    body+=section("Registre intégral des six collections",
+      "Index des dossiers effectivement présents, avec cotes documentaires RG distinctes des volumes scientifiques.",
+      cards([("/grande-encyclopedie/registre-integral/",
+              "Consulter le registre intégral",
+              "Six collections classées : encyclopédie, sacré, théâtre, philosophie, civilisations et ressources.",
+              "INDEX DOCUMENTAIRE")]))
     body+=section("Accès aux collections","Les numéros de volumes appartiennent aux séries universitaires ; les références de navigation ne les remplacent pas.",cards([x for x in roots if x[0] in available]))
     body+=section("Chapitres individuels repérés","Chapitres déjà présents dans le dépôt, sans reproduire ni renuméroter leurs textes.",list_entries(sorted(corpus,key=lambda e:e["url"])))
     body+=section("Autres collections de MYTHOS","Des bibliothèques distinctes, sans confusion de numéros.",cards([
@@ -1135,6 +1141,7 @@ def build_portals():
     reorganize_preserved_plays_analyses(entries)
     reorganize_aristophanes_33(entries)
     create_origins(entries)
+    create_encyclopedia_registry(entries)
     create_encyclopedia(entries)
     create_philosophy(entries)
     create_civilisations(entries,groups)
