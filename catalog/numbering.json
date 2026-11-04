@@ -648,6 +648,48 @@
         "url": "/chapitres/encyclopedie/chapitre-410-telesphoros-pergame-guerison-enfant-capuchon-asclepios/",
         "title": "Chapitre 410 — Chapitre 410 — Télésphore (Τελεσφόρος) : l'enfant divin de la convalescence, Pergame, les rêves et l'achèvement de la guérison",
         "source": "chapitres/encyclopedie/chapitre-410-telesphoros-pergame-guerison-enfant-capuchon-asclepios.md"
+      },
+      {
+        "number": 411,
+        "url": "/chapitres/encyclopedie/chapitre-411-pothos-desir-absent-erotes-scopas-megare/",
+        "title": "Chapitre 411 — Chapitre 411 — Pothos (Πόθος) : le désir de l'absent, Aphrodite et les Érotes",
+        "source": "chapitres/encyclopedie/chapitre-411-pothos-desir-absent-erotes-scopas-megare.md"
+      },
+      {
+        "number": 412,
+        "url": "/chapitres/encyclopedie/chapitre-412-aristeas-proconnese-arimaspes-apollon-hyperboreens/",
+        "title": "Chapitre 412 — Chapitre 412 — Aristéas de Proconnèse : l'âme voyageuse, Apollon et les Arimaspes",
+        "source": "chapitres/encyclopedie/chapitre-412-aristeas-proconnese-arimaspes-apollon-hyperboreens.md"
+      },
+      {
+        "number": 413,
+        "url": "/chapitres/encyclopedie/chapitre-413-couretes-corybantes-zeus-enfant-danse-armee-crete/",
+        "title": "Chapitre 413 — Chapitre 413 — Les Courètes et les Corybantes : danse armée, Zeus enfant et mystères de la Grande Mère",
+        "source": "chapitres/encyclopedie/chapitre-413-couretes-corybantes-zeus-enfant-danse-armee-crete.md"
+      },
+      {
+        "number": 414,
+        "url": "/chapitres/encyclopedie/chapitre-414-bendis-deesse-thrace-piree-bendideia-platon-associations-cultes/",
+        "title": "Chapitre 414 — Chapitre 414 — Bendis (Βένδις) — déesse thrace, processions du Pirée et politique religieuse athénienne",
+        "source": "chapitres/encyclopedie/chapitre-414-bendis-deesse-thrace-piree-bendideia-platon-associations-cultes.md"
+      },
+      {
+        "number": 415,
+        "url": "/chapitres/encyclopedie/chapitre-415-alastor-vengeance-sang-atrides-erinyes-tragedie/",
+        "title": "Chapitre 415 — Chapitre 415 — Alastôr (Ἀλάστωρ) : vengeance du sang et malédictions héréditaires",
+        "source": "chapitres/encyclopedie/chapitre-415-alastor-vengeance-sang-atrides-erinyes-tragedie.md"
+      },
+      {
+        "number": 416,
+        "url": "/chapitres/encyclopedie/chapitre-416-eiresione-rameau-pyanepsies-apollon-prosperite/",
+        "title": "Chapitre 416 — Chapitre 416 — L'Eirésiônè (Εἰρεσιώνη) : rameau sacré, Pyanepsies et prospérité domestique",
+        "source": "chapitres/encyclopedie/chapitre-416-eiresione-rameau-pyanepsies-apollon-prosperite.md"
+      },
+      {
+        "number": 417,
+        "url": "/chapitres/encyclopedie/chapitre-417-epimenide-crete-sommeil-purification-athenes-cylon/",
+        "title": "Chapitre 417 — Chapitre 417 — Épiménide de Crète : sommeil prodigieux et purification d'Athènes",
+        "source": "chapitres/encyclopedie/chapitre-417-epimenide-crete-sommeil-purification-athenes-cylon.md"
       }
     ],
     "tragedies": [
@@ -1460,6 +1502,12 @@
         "url": "/chapitres/tragedies/volume-ccxxxiv-sophocle-helenes-apaitesis-reclamation-helene-ambassade-logos-antenor/",
         "title": "Volume CCXXXIV (234) — Sophocle, La Réclamation d’Hélène (Helenēs apaitēsis, Ἑλένης ἀπαίτησις) — L'ambassade avant la guerre : restitution, parole politique, hospitalité et responsabilité tragique",
         "source": "chapitres/tragedies/volume-ccxxxiv-sophocle-helenes-apaitesis-reclamation-helene-ambassade-logos-antenor.md"
+      },
+      {
+        "number": 235,
+        "url": "/chapitres/tragedies/volume-ccxxxv-sophocle-nausicaa-plyntriai-lavandieres-odyssee-accueil-tragedie-satyrique/",
+        "title": "Volume CCXXXV (235) — Sophocle, Nausicaa ou Les Lavandières (Ναυσικάα ἢ Πλύντριαι) — L'étranger nu, le linge, la balle et le devoir d'accueil : comment l'Odyssée devient théâtre",
+        "source": "chapitres/tragedies/volume-ccxxxv-sophocle-nausicaa-plyntriai-lavandieres-odyssee-accueil-tragedie-satyrique.md"
       }
     ],
     "comparatif": [
@@ -2551,6 +2599,12 @@
         "url": "/chapitres/comparatif/volume-ccxxxiii-mc-053-soigner-guerir-echouer-medecine-pronostic-responsabilite-dieux-egypte-mesopotamie-grece-inde/",
         "title": "Volume CCXXXIII (233) — MC-053 — Soigner, guérir, échouer : médecine, pronostic, responsabilité des guérisseurs et puissance divine dans les civilisations antiques",
         "source": "chapitres/comparatif/volume-ccxxxiii-mc-053-soigner-guerir-echouer-medecine-pronostic-responsabilite-dieux-egypte-mesopotamie-grece-inde.md"
+      },
+      {
+        "number": 234,
+        "url": "/chapitres/comparatif/volume-ccxxxiv-mc-054-quand-les-dieux-rient-humour-divin-crise-cosmique-moquerie-reconciliation/",
+        "title": "Volume CCXXXIV (234) — MC-054 — Quand les dieux rient : humour divin, crise cosmique, transgression et réconciliation en Égypte, Grèce, Mésopotamie, Israël et Japon",
+        "source": "chapitres/comparatif/volume-ccxxxiv-mc-054-quand-les-dieux-rient-humour-divin-crise-cosmique-moquerie-reconciliation.md"
       }
     ],
     "comedies": [
@@ -3099,6 +3153,18 @@
         "url": "/chapitres/comedies/volume-091-nikochares-galateia-polypheme-dithyrambe-philonides-cumin-nereides/",
         "title": "Volume XCI (91) — Nicocharès, Galateia (Γαλάτεια) : Polyphème amoureux, dithyrambe, éducation, condiment et satire athénienne",
         "source": "chapitres/comedies/volume-091-nikochares-galateia-polypheme-dithyrambe-philonides-cumin-nereides.md"
+      },
+      {
+        "number": 92,
+        "url": "/chapitres/comedies/volume-092-nikochares-herakles-gamon-gamoumenos-lavage-genre-hebe-omphale/",
+        "title": "Volume XCII (92) — Nicocharès, Hēraklēs gamōn / Hēraklēs gamoumenos (Ἡρακλῆς γαμῶν / Ἡρακλῆς γαμούμενος) : Héraclès époux ou épouse ? Philologie du mariage, terre à laver, rôles sociaux et métamorphoses du héros",
+        "source": "chapitres/comedies/volume-092-nikochares-herakles-gamon-gamoumenos-lavage-genre-hebe-omphale.md"
+      },
+      {
+        "number": 93,
+        "url": "/chapitres/comedies/volume-093-nikochares-herakles-choregos-financement-choral-costume-chants-travail/",
+        "title": "Volume XCIII (93) — Nicocharès, Hēraklēs chorēgos (Ἡρακλῆς χορηγός) — Héraclès financeur de chœur : liturgie civique, costume, chant des ouvrières et comédie de la compétence",
+        "source": "chapitres/comedies/volume-093-nikochares-herakles-choregos-financement-choral-costume-chants-travail.md"
       }
     ],
     "origines-du-sacre": [
@@ -4241,6 +4307,18 @@
         "url": "/chapitres/origines-du-sacre/640-butehamon-turin-2236-ecriture-archaisante-cercueils-memoire-royale/",
         "title": "Chapitre 640 — Boutehamon, scribe des morts et mémoire des rois : Turin 2236, écritures archaïsantes, cercueils réemployés et restauration de la nécropole thébaine",
         "source": "chapitres/origines-du-sacre/640-butehamon-turin-2236-ecriture-archaisante-cercueils-memoire-royale.md"
+      },
+      {
+        "number": 641,
+        "url": "/chapitres/origines-du-sacre/641-tamoutnefret-louvre-cercueils-ramessides-atelier-dorure-provenance/",
+        "title": "Chapitre 641 — Tamoutnefret : un cercueil, trois enveloppes, deux chronologies — l'atelier funéraire thébain entre costume des vivants et corps divin",
+        "source": "chapitres/origines-du-sacre/641-tamoutnefret-louvre-cercueils-ramessides-atelier-dorure-provenance.md"
+      },
+      {
+        "number": 642,
+        "url": "/chapitres/origines-du-sacre/642-panebmontou-montou-thebes-coffins-louvre-atelier-rituel-savoir/",
+        "title": "Chapitre 642 — Panebmontou : fabriquer un corps de prêtre — cercueil, couverture de momie et savoirs rituels de Montou dans la Thèbes de la XXIe dynastie",
+        "source": "chapitres/origines-du-sacre/642-panebmontou-montou-thebes-coffins-louvre-atelier-rituel-savoir.md"
       }
     ]
   },

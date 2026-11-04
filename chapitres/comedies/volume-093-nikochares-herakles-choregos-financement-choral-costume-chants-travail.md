@@ -1,0 +1,451 @@
+# MYTHOS — Encyclopédie universitaire des comédies grecques — Volume XCIII (93)
+
+## Nicocharès, *Hēraklēs chorēgos* (Ἡρακλῆς χορηγός) — Héraclès financeur de chœur : liturgie civique, costume, chant des ouvrières et comédie de la compétence
+
+**Étude universitaire intégrale originale, 4 novembre 2026.** Œuvre perdue de l'ancienne comédie attique. L'enquête porte sur le titre **Ἡρακλῆς χορηγός**, sur **deux unités de tradition seulement** (Nicocharès **frr. 8–9 Kassel–Austin**), sur le fonctionnement historique de la chorégie et sur l'écart comique entre la force héroïque et les tâches de gestion, d'organisation, de financement et de discernement musical.
+
+**Échelle de preuve.** **[A]** : témoignage ancien ou fragment conservé avec référence contrôlée, y compris les parallèles antiques expressément *extérieurs* à cette pièce. **[B]** : hypothèse, interprétation philosophique, proposition de déroulement dramatique ou hypothèse sociologique. **[C]** : scène théâtrale contemporaine **composée pour MYTHOS**, sans attribution antique. À aucun moment une scène [C] ne vaut édition, traduction ou reconstitution certaine d'un passage de Nicocharès.
+
+**Édition critique principale réellement consultée :** Christian Orth, *Nikochares – Xenophon. Einleitung, Übersetzung, Kommentar*, *Fragmenta Comica* **9.3**, Heidelberg, 2015, **p. 63–69**, [p. 63](https://digi.hadw-bw.de/view/frc9_3/0068), [p. 64](https://digi.hadw-bw.de/view/frc9_3/0069), [p. 65](https://digi.hadw-bw.de/view/frc9_3/0070), [p. 66](https://digi.hadw-bw.de/view/frc9_3/0071), [p. 67](https://digi.hadw-bw.de/view/frc9_3/0072), [p. 68](https://digi.hadw-bw.de/view/frc9_3/0073), [p. 69](https://digi.hadw-bw.de/view/frc9_3/0074) ; DOI https://doi.org/10.11588/diglit.52132 . Classification des fragments selon R. Kassel et C. Austin, *Poetae Comici Graeci* VII, Berlin–New York, 1989, p. **43–44**. Cette étude exploite les témoignages sans reproduire le commentaire d'Orth.
+
+**Continuité éditoriale vérifiée :** [Nicocharès, *Amymoné / Pélops*, LXXXIX (89)](/chapitres/comedies/volume-089-nikochares-amymone-pelops-oinomaos-vin-mythes-double-titre/), [*Agamemnon*, XC (90)](/chapitres/comedies/volume-090-nikochares-agamemnon-cassandre-prophetie-paratragedie-verite-oracle/), [*Galateia*, XCI (91)](/chapitres/comedies/volume-091-nikochares-galateia-polypheme-dithyrambe-philonides-cumin-nereides/). Le ***Hēraklēs gamōn / gamoumenos*** du même auteur est **déposé dans la file**, [UUID 7bb4d1f5…](https://github.com/Bobcribb/Bobcribb.github.io/blob/main/editorial/inbox/7bb4d1f5-2a9e-4f5b-b8d5-f635c617a049.json), mais ne reçoit ici **aucun numéro imaginé** ; le volume [Archippos *Hēraklēs gamōn*, LXXXVI (86)](/chapitres/comedies/volume-086-archippos-herakles-gamon-mariage-hebe-banquet-symbolon-cuisine/) est une œuvre d'un **autre auteur**. Aucun ancien repère XIII/XIV ne réserve quoi que ce soit.
+
+---
+
+# I. Archéologie d'un texte dont le sujet est le théâtre lui-même
+
+## 01. [A] Le titre, une singularité documentaire
+
+**Ἡρακλῆς χορηγός** se traduit au plus près par « Héraclès chorège ». Le titre est attribué à **Nicocharès** et semble unique pour lui dans la tradition des titres comiques conservés : Orth, p. 63, le distingue des pièces intitulées d'après un Héraclès époux ou de celles où d'autres dieux occupent une fonction insolite. La sobriété de deux mots est trompeuse. Le nom d'un héros connu pour la force et les travaux rejoint celui d'une institution dont le régime ordinaire concerne les citoyens aisés et le financement des concours.
+
+Le choix français de « chorège » n'est pas décoratif. Il évite de confondre immédiatement le chef visible du chœur et le citoyen qui en assure les dépenses et l'organisation. Le mot grec possède néanmoins une ambiguïté que l'enquête doit préserver.
+
+## 02. [A] Un chœur, un responsable ou un financeur ?
+
+Dans les documents classiques, **χορηγός** désigne le plus souvent le citoyen chargé d'une **liturgie**, finançant et organisant la préparation d'un chœur pour un concours dramatique ou dithyrambique. La même forme peut, dans certains contextes, désigner celui qui conduit le chœur, fonction ordinairement appelée **κορυφαῖος**. Orth, p. 63, rappelle les deux valeurs et rapproche **Aristophane, *Lysistrata* 1315**, et **Platon, *Lois* 665a**, pour les questions terminologiques.
+
+On ne peut donc pas décider par la seule grammaire qu'Héraclès finançait forcément une troupe ; mais l'usage institutionnel prédominant donne une **probabilité supérieure** à la fonction du chorège responsable. La valeur alternative de meneur demeure ouverte. Il n'y a pas de mise en scène, de costume ou de didascalie qui tranche directement.
+
+## 03. [A] Le dossier de Nicocharès : deux fragments, non une pièce reconstituée
+
+L'édition Kassel–Austin rassemble sous ce titre **fr. 8** et **fr. 9**. Le premier est conservé par **Pollux, *Onomasticon* VII, 45**, et porte sur un **χιτών ἐπενδύτης**, vêtement porté par-dessus un chiton. Le second, transmis par **Athénée, *Deipnosophistes* XIV, 619a**, atteste la mention d'un **chant de femmes au travail du grain**, en rapprochant Nicocharès d'un fragment des *Thesmophories* d'Aristophane.
+
+Ces deux unités ne donnent ni le nom d'un personnage, ni une scène continue, ni les paroles complètes d'un chant. L'existence de deux numéros critiques ne correspond ni à deux actes ni à une distribution reconstituable. Un éditeur responsable doit commencer par ce constat négatif.
+
+## 04. [A] Le fragment 8 K.-A., un trimètre et un impératif
+
+Pollux VII, 45 transmet, sous le titre de Nicocharès, le trimètre iambique :
+
+> **φέρε νῦν ταχέως χιτῶνα τόνδ᾽ ἐπενδύτην**
+
+On peut traduire provisoirement : « Apporte donc vite ce chiton à porter par-dessus. » Le vers est extrêmement court, mais il conserve une **action verbale**, un destinataire implicite et un objet montré. Le grec **φέρε**, impératif de **φέρω**, est suivi de **νῦν** et **ταχέως**, qui marquent l'urgence et l'empressement ; **χιτῶνα** désigne le vêtement ; **τόνδ᾽** renvoie à une chose proche ou montrée ; **ἐπενδύτην** qualifie ici le vêtement de dessus.
+
+Il est important de ne pas transformer le destinataire sous-entendu en esclave de théâtre attesté : l'absence de nom empêche de le savoir. Le vers ne dit pas non plus que c'est Héraclès qui le prononce.
+
+## 05. [A] Pollux VII, 45 : pourquoi le lexicographe a-t-il préservé cette réplique ?
+
+Le propos de Pollux ne vise pas la carrière de Nicocharès mais la légitimité du terme **ἐπενδύτης**. L'**atticisme** savant tardif distinguait les mots tenus pour classiques et ceux que certains puristes jugeaient de moindre qualité. Pollux observe que ce nom, pourtant susceptible d'être déprécié, possède des attestations dans des œuvres anciennes, notamment dans les ***Plyntriai* de Sophocle**, dans une tradition associée à ***Pentheus* de Thespis**, et dans la comédie de Nicocharès. Orth, p. 66, signale aussi des variations textuelles entre manuscrits de Pollux : elles affectent surtout le contexte érudit, non l'autorisation de fabriquer un dialogue supplémentaire.
+
+Ainsi le fragment comique a survécu parce qu'il servait à **étayer un choix lexical**. L'archive du théâtre ancien est donc déformée par les préoccupations de ses transmetteurs : la pièce a disparu, mais son vocabulaire de vêtement a été jugé utile.
+
+## 06. [A] Le poids grammatical de τόνδ᾽
+
+Le démonstratif **τόνδ᾽** attire l'attention vers **ce vêtement-ci**. Dans une scène, le public pourrait voir un manteau désigné, une pièce de tissu prise sur un portant ou un habit dont le caractère est déjà évident pour les acteurs. Pourtant, le démonstratif n'apporte aucune preuve de décor réel : il peut viser un objet présent, une chose imaginaire dans une parole de théâtre, ou une orientation scénique que nous ne voyons plus.
+
+Orth, p. 67, souligne que l'ordre des mots est compatible avec des tournures grecques où l'on désigne ostensiblement un objet. Comparer ce procédé aux objets montrés dans Aristophane ou à **Xénophon, *Cyropédie* VIII, 3, 6**, explique la syntaxe ; cela ne révèle pas ce que le spectateur antique avait sous les yeux.
+
+## 07. [A] Le chiton de dessus, un vêtement techniquement complexe
+
+**Ἐπενδύτης** se rapporte à un habit porté **par-dessus** une première tunique. Il pourrait s'agir d'un chiton plus court, parfois orné, dont les usages sont illustrés par les représentations anciennes et des textes. Orth, p. 68, rappelle **Hérodote I, 195, 1**, au sujet de l'habillement des Babyloniens, et un parallèle de **Sophocle fr. 439 Radt**, où le terme est appliqué à un vêtement.
+
+Il faut distinguer la **fonction linguistique** du mot dans le fragment et la **reconstruction matérielle** du costume. La présence de **χιτῶνα ... ἐπενδύτην** ne garantit ni étoffe luxueuse, ni origine orientale, ni rôle tragique, ni danseuse. Chacune de ces propositions exige un argument qui n'est pas fourni par le seul vers.
+
+## 08. [A] Le fragment 9 : une référence à un chant, non les paroles du chant
+
+**Athénée XIV, 619a**, dans une discussion de chants de travail, cite Nicocharès ***Hēraklēs chorēgos*** comme auteur attestant **un chant exécuté par des femmes lorsqu'elles travaillent le grain**. Le parallèle joint dans le même passage est **Aristophane, *Thesmophoriazousai* fr. 352 K.-A.** Athénée donne une information de provenance et de genre de chant, **pas la reproduction d'un morceau de chant attribuable à Nicocharès**.
+
+La différence est capitale : le **fr. 9 K.-A.** représente un **témoignage de contenu** au sein du recueil de fragments, et non un couplet antique qu'on serait autorisé à mettre en italique entre guillemets. Toute tentative de compléter ses mots doit appartenir à la section **[C]**, ou à la section **[B]** si elle n'est qu'une description hypothétique.
+
+## 09. [A] πτιστικόν : travail du grain, rythme et désignation
+
+Les sources évoquent le **πτιστικόν**, chant associé au travail de préparation du grain, à ses opérations répétitives de broyage, battage ou décorticage selon les emplois et les contextes. Il faut éviter une traduction unique trop technique lorsque la source citante elle-même catalogue des types de chants. Le chant peut avoir aidé à synchroniser le geste ou rendu la durée du travail plus supportable, mais cette finalité précise est une **inférence anthropologique**, pas un commentaire antique explicite sur Nicocharès.
+
+Le contraste entre chant de travail féminin et formation d'un chœur de concours est particulièrement suggestif : il met à portée d'un héros amateur la musique de la vie courante face à la sophistication de la poésie dramatique. C'est un cadre d'interprétation, non un fait scénique assuré.
+
+## 10. [A] Athénée : un témoignage de seconde main et ses voisins
+
+Le passage d'Athénée XIV, **618c–619a** rassemble différents chants liés aux métiers. Orth note qu'il peut dépendre partiellement des matériaux du savant **Tryphon**, auxquels s'ajoutent d'autres discussions lexicographiques. On y trouve un **réseau de comparaisons** avec Aristophane, **Phrynichos le Comique, fr. 14 K.-A.**, **Nicophon, fr. 8 K.-A.**, et **Pollux IV, 55–56** ; il serait erroné de rassembler ces morceaux comme s'ils sortaient de la même comédie.
+
+En particulier, lorsqu'un ouvrage philologique cite plusieurs auteurs consécutivement, leur succession sur la page peut produire un **faux montage**. La critique du fragment exige d'identifier, pour chaque unité de texte, l'auteur nommé, le titre attribué et le but de la citation.
+
+## 11. [A] Les chants de métier et l'aulos
+
+Plusieurs témoignages antiques associent des chants de travail au souffle de l'**aulos**. Orth, p. 69, rassemble des parallèles : Aristophane, ***Nuées* 1358**, des morceaux du corpus **PMG 849 et 869**, ainsi que **Pollux IV, 56**, qui signale des catégories de mélodies de métiers et même de pratiques corporelles. Ces parallèles permettent d'étudier le **champ du genre musical**.
+
+Ils ne permettent pas d'ajouter un joueur d'aulos à la troupe de Nicocharès. Le fr. 9 ne conserve pas d'instrument nommé, pas de mélodie et pas de rythme noté. La proximité documentaire d'un témoignage et d'une pratique culturelle n'autorise pas à les fusionner.
+
+## 12. [A] Une date inconnue malgré les repères de carrière
+
+La comédie ***Lakōnes*** de Nicocharès appartient à un contexte de concours **attesté en 388 av. J.-C.** ; cette année ne constitue **pas** la date de ***Hēraklēs chorēgos***. Orth, p. 65, indique expressément que la date de la pièce ne peut pas être tirée de ses fragments. Les tentatives anciennes de l'associer avec certitude à des débats sur la réforme des chorégies reposent sur une histoire institutionnelle trop fragile.
+
+L'édition critique récuse notamment une hypothèse d'**Edmonds** proposant **404 av. J.-C.** sur la base d'une réforme attribuée à Cinésias. **Peter Wilson** a souligné que cette reconstruction confond les périodes et les témoignages. Le rôle comique d'Héraclès n'a pas besoin d'une date inventée pour intéresser l'historien.
+
+# II. La chorégie athénienne : institutions et limites de la comparaison [A]
+
+## 13. [A] Une liturgie plutôt qu'une « direction artistique » contemporaine
+
+Dans l'Athènes classique, la **chorégie** est une charge publique assurée par des particuliers suffisamment riches pour soutenir les dépenses des chœurs de concours. Le chorège n'est pas simplement un chef de chant : il fournit les ressources, coordonne des préparatifs et assume des obligations vis-à-vis d'un événement civique et cultuel. Cela ne se réduit ni à un mécénat librement choisi ni à une fonction de metteur en scène au sens moderne.
+
+**Peter Wilson, *The Athenian Institution of the Khoregia* (2000)**, notamment les chapitres consacrés aux tâches et à la reconnaissance publique, constitue l'étude structurante. Orth, p. 63–64, en résume les responsabilités concrètes ; il convient ici de distinguer ce système institutionnel des actions du héros que la pièce n'atteste plus.
+
+## 14. [A] Le cadre des Dionysies
+
+Le financement des concours aux **Grandes Dionysies** mobilise des chorèges pour les tragédies, comédies et concours dithyrambiques ; l'**archonte éponyme** et les tribus jouent des rôles institutionnels différents selon les épreuves. Orth signale le schéma de **trois chorèges pour les tragédies**, **cinq pour les comédies**, et **vingt pour les dithyrambes**, dix chœurs de garçons et dix d'hommes selon les tribus, en renvoyant à Wilson.
+
+Ces chiffres relèvent d'un **schéma historique** associé à des conditions institutionnelles précises, pas d'un registre de distribution de la pièce. Il serait anachronique de dessiner une « troupe de Nicocharès » composée de vingt chœurs ou de faire d'Héraclès le bénéficiaire d'un tirage au sort connu.
+
+## 15. [A] Les tâches identifiables d'un chorège
+
+Orth, p. 64, résume cinq domaines : mettre à disposition un lieu de répétition ; sélectionner et recruter les choreutes ; organiser leur entraînement, souvent avec un professionnel ; assurer leur nourriture ; fournir les vêtements, masques et accessoires nécessaires. Certaines responsabilités comportent des exigences de jugement esthétique, de coordination et de connaissance des conventions poétiques.
+
+Ces obligations rendent immédiatement pertinent le **fr. 8** relatif à un vêtement. Toutefois, un texte ne devient pas la description d'un inventaire d'atelier du seul fait qu'un métier pourrait expliquer un objet. L'hypothèse d'un costume de répétition restera donc marquée **[B]**, tandis que les responsabilités générales du chorège appartiennent à **[A]**.
+
+## 16. [A] Le statut de riche citoyen, le cas du héros
+
+Le régime classique de liturgie est attaché à des individus intégrés à la cité et possédant les moyens nécessaires. Héraclès, héros mythique en circulation entre cités, royaumes et espace divin, n'est pas d'emblée un **citoyen athénien riche** que l'on peut simplement convoquer comme contribuable. Ce décalage distingue le titre d'une simple anecdote domestique : une figure normalement extérieure aux institutions athéniennes semble entrer dans un dispositif civique.
+
+Si la comédie mettait en scène les conditions par lesquelles Héraclès pouvait occuper cette fonction, elle devait produire une fiction de statut. Mais la manière dont elle réglait cette difficulté reste absolument inconnue. Orth envisage la question, sans proposer une solution attestée.
+
+## 17. [A] Le rôle des tribus et le prestige collectif
+
+Le dithyrambe met en jeu la rivalité des **tribus** athéniennes et des chœurs de catégories d'âge ; les concours dramatiques articulent les responsabilités d'un financeur, d'un poète et d'interprètes. La victoire ne récompense donc pas le seul talent individuel d'un chanteur. Le prestige du chorège est socialement encadré, et la cité inscrit les concours dans une économie de compétition et de reconnaissance publique.
+
+Cette structure invite à observer comment un héros célèbre pour des épreuves **individuelles** serait confronté à une réussite **collective**. Le passage de l'exploit héroïque à la victoire de chœur constitue l'un des enjeux interprétatifs les plus riches, sans être démontrable comme intrigue.
+
+## 18. [A] Le coût, la nourriture et les reproches comiques
+
+Les comédies conservées et les fragments montrent que la charge du chorège pouvait devenir matière à plaisanteries sur les **dépenses**, la **parcimonie**, la qualité de la nourriture et l'organisation des répétitions. Orth, p. 64, cite **Eupolis fr. 329 K.-A.**, **Aristophane, *Acharniens* 1150–1161**, ***Paix* 1017–1022**, et **Antiphanès fr. 202, 5–6** parmi les parallèles.
+
+Ces exemples ne sont pas des citations de Nicocharès. Ils documentent un répertoire comique où l'instance du financeur est suffisamment reconnaissable pour servir d'argument. Le texte perdu pouvait l'exploiter, mais on ne connaît ni les coûts supposés ni un éventuel mauvais repas qu'aurait imposé le héros.
+
+## 19. [A] Compétence poétique et compétence financière
+
+Il serait caricatural de considérer que le chorège n'avait qu'à payer. La réussite exigeait des décisions relatives aux intervenants, à l'espace et aux objets, ainsi qu'une compréhension générale des attentes du concours. Les interprètes et les professionnels pouvaient évidemment posséder les compétences techniques que le financeur n'avait pas, mais celui-ci assumait une responsabilité d'ensemble.
+
+La comédie pouvait juxtaposer les deux genres de pouvoir : payer sans savoir chanter, donner des ordres sans comprendre le métier, prétendre à la gloire sans prendre en compte la communauté des artistes. Cette proposition est une interprétation **[B]** fondée sur le cadre institutionnel **[A]**.
+
+## 20. [A] Un débat ancien autour de la chorégie n'est pas une datation
+
+Les sources comiques évoquent des controverses sur les changements du théâtre et la charge financière des citoyens. Les reconstructions modernes de réformes institutionnelles ont parfois été trop confiantes. Orth, p. 65, rapporte précisément le rejet de la datation **404 av. J.-C.** fondée sur un prétendu transfert de l'organisation aux mains de la cité sous Cinésias.
+
+La bonne histoire de la chorégie reconnaît des transformations de longue durée, tout en se refusant à dater toute comédie où le mot **χορηγός** apparaît au moment d'une réforme controversée. Sans témoignage chronologique indépendant, une année précise est un produit de l'historiographie, non de Nicocharès.
+
+# III. Deux fragments et plusieurs horizons scéniques [A/B]
+
+## 21. [B] Le costume comme problème de gestion
+
+Le **fr. 8** peut s'inscrire dans la préparation d'une représentation : quelqu'un exige rapidement un vêtement porté par-dessus un autre, alors que les répétitions ou l'habillage exigent une mise en ordre. Le démonstratif suggère un objet identifié ; l'urgence de **ταχέως** conviendrait au désordre des coulisses. Mais **rien** ne dit qu'il s'agit d'une répétition, d'une préparation immédiate avant le concours ou d'une dispute au sujet d'un costumier.
+
+Une autre lecture, discutée par Orth, p. 67–68, concerne le vêtement d'apparat à connotation étrangère. Le costume théâtral n'est pas nécessairement plus probable que l'habit d'un personnage. Le commentaire doit préserver les deux options.
+
+## 22. [B] Une économie du mauvais vêtement
+
+Le théâtre peut tirer un effet comique d'un vêtement coûteux acquis par quelqu'un qui ne comprend pas ce qu'il achète. Héraclès, s'il était chorège financeur, pourrait demander un vêtement inutile, trop voyant ou trop peu pratique. À l'inverse, un chorège avare pourrait rationner les costumes. Cette opposition entre dépense somptuaire et parcimonie se trouve dans le champ des motifs comiques documentés par d'autres œuvres ; elle ne se trouve pas, en tant que telle, dans le trimètre de Nicocharès.
+
+Le mot **ἐπενδύτης** devient alors l'occasion d'examiner la matérialité du théâtre : les parures les plus spectaculaires dépendent de transactions ordinaires et de labeurs spécialisés.
+
+## 23. [B] Qui prononce l'ordre ?
+
+Les locuteurs possibles du **fr. 8** incluent Héraclès, un chorège rival, un acteur, un costumière ou costumier, un serviteur, un pédagogue, un poète, une choriste ou un maître de chœur. La diversité n'est pas un programme de casting, mais un avertissement : le texte ne conserve que **l'impératif et son objet**. Le ton de la voix, l'identité de celui qui reçoit la demande et la réaction du public ont disparu.
+
+Même l'idée que la réplique donne un ordre à une personne subordonnée demeure une inférence tirée des conventions de la vie scénique. Il pourrait s'agir d'un échange entre égaux. L'analyse du fragment peut dire quelque chose de la **pragmatique de l'ordre**, pas de la psychologie certaine des personnages.
+
+## 24. [B] Si Héraclès conduit le chœur, et non ses finances
+
+La valeur secondaire de **χορηγός** pourrait désigner un chef de chœur. Un Héraclès incapable de conduire un chant savant serait une figure à fort contraste : l'homme qui dompte des bêtes apprendrait le tempo, la mesure et les réponses collectives. Les difficultés d'un tel élève fourniraient des ressorts visuels sans nécessiter de satire des finances publiques.
+
+Cette hypothèse a été évoquée dans la tradition savante ; Orth la juge possible mais moins probable que celle de la responsabilité financière. L'absence de source décisive interdit d'affirmer que le dramaturge opposait le héros aux répétitions d'un chœur précis.
+
+## 25. [B] Si Héraclès paie, sans savoir écouter
+
+Dans la lecture privilégiant la liturgie, l'incompétence ne tient pas au rythme mais au **jugement esthétique**. Un financeur capable de porter un temple à bout de bras peut être incapable de décider si un costume convient au rôle, ou si une chanson exprime le registre approprié. La comédie pourrait faire voir l'embarras d'un pouvoir qui juge ce qu'il ne sait pas faire.
+
+Le conflit devient intéressant politiquement : la **richesse** autorise une position d'autorité, mais ne produit pas automatiquement l'expertise. Les spectateurs d'Athènes, familiers des hiérarchies de fête, auraient été bien placés pour comprendre l'écart, sans qu'on sache si c'était précisément le sens recherché par Nicocharès.
+
+## 26. [B] Le fr. 9 comme contre-modèle musical
+
+Le chant des femmes qui travaillent le grain pourrait être convoqué dans la pièce comme un exemple de musique **simple**, aisément reconnue ou facile à retenir, par contraste avec les compositions sophistiquées d'un concours. Orth, p. 69, propose cette piste, sans affirmer qu'elle est attestée. Une telle opposition peut tourner en dérision le manque de culture musicale du héros : il connaîtrait le son du travail quotidien mieux que la partition dramatique.
+
+Mais une lecture opposée reste possible. Le chant de métier peut devenir le modèle d'une **véritable efficacité collective**, donnant une leçon au responsable de chœur incapable d'écouter les gestes d'autrui. Cette variante est une interprétation moderne, non une scène perdue.
+
+## 27. [B] Le chant de travail comme savoir du rythme
+
+Les tâches répétitives font naître des régularités corporelles ; des voix peuvent accompagner leur répétition, coordonner des efforts ou inscrire un rythme collectif. Cela fournit une comparaison anthropologique prudente entre la chaîne du travail et la discipline du chœur de théâtre. Il serait faux d'en déduire la mélodie exacte des travailleuses du grain, la présence d'un accompagnement instrumental ou l'échelle de leurs mouvements.
+
+Le témoignage d'Athénée permet néanmoins de rappeler que l'histoire des musiques grecques ne concerne pas exclusivement les œuvres prestigieuses. La poésie de métier, souvent filtrée par les citations des lettrés, demeure l'un des indices d'un monde sonore plus vaste.
+
+## 28. [B] L'alimentation des choreutes, un ressort possible
+
+Assurer les repas des membres du chœur est une tâche réelle du chorège. Dans la comédie grecque, **Héraclès gourmand** représente un motif largement reconnu, illustré par d'autres auteurs. Une scène moderne peut imaginer un financeur qui dévore lui-même les réserves destinées à sa troupe ; ce serait un excellent moyen de figurer la contradiction entre **responsabilité de groupe** et **appétit individuel**.
+
+Cette scène reste **[C]** si elle est écrite. Il n'y a pas dans les deux fragments de Nicocharès de denrées alimentaires, de banquet ou de vol de ration. La réputation comique générale d'Héraclès ne doit pas remplir rétrospectivement son texte disparu.
+
+## 29. [B] La faim des chanteurs et la faim du héros
+
+Les pratiques d'entraînement pouvaient imposer une discipline du corps, parfois une restriction de nourriture. Orth et Wilson signalent que cette exigence suggère un contraste comique avec le héros célèbre pour son appétit. Le chorège doit donc traiter ses choreutes non comme des convives à sa disposition mais comme des corps entraînés dans une activité commune.
+
+La contradiction pourrait s'inscrire dans l'intrigue, mais le texte de Nicocharès n'en dit rien. Elle sert surtout à réfléchir aux règles incorporées par les membres d'un groupe : une chorégie réussie exige une continuité de gestes et de soin qui dépasse la seule grandeur du financeur.
+
+## 30. [B] Le chœur et la cité : gloire distribuée ou gloire confisquée
+
+Le héros grec recherche la renommée de ses exploits ; le concours musical attribue la distinction à une équipe, à un financeur, à un poète et à une communauté civique. Dans une comédie, ces régimes de prestige peuvent entrer en friction. Une personne habituée à recevoir seule les acclamations découvrirait que l'œuvre commune ne lui appartient pas.
+
+Ce rapprochement se laisse éclairer par la notion grecque de **φιλοτιμία**, recherche de considération et d'honneurs, étudiée par Wilson à propos des chorèges. Il serait cependant infondé d'attribuer un discours sur la **philotimia** à Nicocharès. Le terme fait ici fonction de concept d'analyse historique.
+
+## 31. [B] Théâtre dans le théâtre : autoréférence possible
+
+Une œuvre portant sur un chorège pouvait jouer avec les préparatifs de sa propre représentation : on y discute peut-être des costumes, de la valeur d'un chant ou de la relation entre auteur et financeur. La proximité entre le **fr. 8** et une responsabilité chorégique rend cette lecture séduisante ; la mention d'un **chant** dans le **fr. 9** multiplie les points de contact.
+
+Cependant deux fragments ayant des thèmes compatibles n'attestent ni leur **succession** ni leur **causalité**. On ignore si le vêtement apparaissait avant ou après le chant, si les deux étaient prononcés dans une même scène, et même si Héraclès assistait à l'un ou l'autre moment.
+
+## 32. [B] Le héros et le poète : un conflit de compétences
+
+La force héroïque permet à Héraclès d'ordonner ; la création poétique demande de savoir former, écouter, corriger et recommencer. Si la pièce le mettait face à un poète, elle pourrait ridiculiser le financeur qui se comporte en propriétaire de l'œuvre. Un débat de ce type serait particulièrement sensible à Athènes, où l'organisation des concours combinait rivalité de prestige et coopération.
+
+Rien n'atteste dans notre pièce un personnage-poète. Le conflit demeure un **modèle interprétatif** pour comprendre l'étrange titre, non un plan d'actes antiques. L'analyse distingue ainsi la pertinence générale du modèle de son degré d'attestation.
+
+## 33. [B] Le vêtement comme interface entre acteur et personnage
+
+Le chiton de dessus peut être examiné comme **technique de transformation**. Un corps humain devient visible en tant que héros, femme, dieu, citoyen ou étranger grâce aux conventions de scène et à une matière textile. L'acteur n'est pas le personnage qu'il représente ; le costume rend possible cette différence.
+
+Le **fr. 8** donne un nom précis à la matière de cette médiation, sans préciser pour quel personnage elle a été demandée. Une lecture critique peut tirer profit de cette absence : il faut reconstituer les **conditions** de la performance, non fabriquer l'image d'un acteur célèbre que nous ne possédons pas.
+
+## 34. [B] Le costume « oriental » : possibilité à baliser
+
+Le terme **ἐπενδύτης** se rencontre aussi dans des descriptions de vêtements portés ailleurs en Méditerranée orientale. **Hérodote I, 195, 1**, concernant la tenue babylonienne, fournit un parallèle externe. Un vêtement apparaissant comme exotique dans la comédie pourrait signaler luxe, altérité ou démesure : l'hypothèse est suggestive, non attestée. Le mot isolé ne suffit pas à représenter un Barbare sur scène.
+
+L'historien évitera de substituer une opposition « grec / oriental » moderne à la variété effective des tissus et des usages antiques. Orth rappelle lui-même l'incertitude sur les propriétés exactes du vêtement dans l'Attique classique.
+
+## 35. [B] L'énigme du corps d'Héraclès
+
+Héraclès porte normalement massue et peau de lion dans une iconographie très reconnaissable. Le placer dans la position du **financeur de costume** redouble l'étrangeté : il gère les artifices visuels des autres, alors que sa propre identité semble reposer sur deux objets presque invariables. La comédie aurait pu rendre cette relation comique en lui faisant choisir une parure inadéquate.
+
+L'idée d'un échange de vêtements ne trouve pas de preuve dans le **fr. 8**. Il s'agit d'une construction comparative entre les codes généraux de l'iconographie héroïque et le terme lexical conservé par Pollux, non du contenu textuel de Nicocharès.
+
+## 36. [B] Le mythe de Linos et l'échec de l'apprentissage musical
+
+Un récit mythique fait d'Héraclès le disciple violent de **Linos**, son maître de musique, dans une tradition où l'enseignement tourne à la catastrophe. La variante est connue par des sources mythographiques et des renvois iconographiques, notamment discutés par **Timothy Gantz, *Early Greek Myth*, 1993, p. 378–379**. Elle peut enrichir une hypothèse sur l'inaptitude du héros à la pédagogie du chœur.
+
+Ce récit ne figure dans **aucun** des fragments du ***Hēraklēs chorēgos***. Aucune réplique ne nomme Linos ; l'association reste une lecture moderne de deux traditions mythiques distinctes.
+
+# IV. Philosophie, anthropologie et comparaison [B]
+
+## 37. [B] Hegel : la grandeur lorsque le héros ne sait plus agir
+
+La réflexion de **Hegel** sur le comique dans les ***Leçons sur l'esthétique*** permet de penser une figure dont la dignité supposée se heurte à une activité qui la dépasse. Héraclès peut assumer un risque physique extraordinaire, mais un concours exige un système de règles, d'attentes et de médiations. Sa force devient une compétence **hors domaine**. Si le théâtre représentait un tel décalage, le rire viserait la disproportion entre le statut du sujet et la maîtrise pratique qu'on lui attribue.
+
+Il ne faut pas faire de Hegel un commentateur direct de Nicocharès : son esthétique constitue un langage conceptuel moderne, appliqué **[B]** à un titre antique. Le texte conservé n'expose pas de dialectique ou de doctrine comique.
+
+## 38. [B] Nietzsche : Dionysos, concours et risque du cliché
+
+La pensée de **Nietzsche**, notamment ***La Naissance de la tragédie***, éclaire le lien entre représentation, musique, communauté festive et formes instituées de la culture grecque. Le chorège mythologique mettrait en scène une question difficile : le financement d'une célébration donne-t-il accès à son sens ? Héraclès saurait organiser ce qui le dépasse musicalement.
+
+L'étiquette « dionysiaque » ne doit pourtant pas expliquer à elle seule la présence d'un chant de métier ou d'un vêtement. Nietzsche élabore une philosophie de la tragédie et de la musique ; il ne nous fournit aucune phrase, information ou allusion propre à cette pièce perdue.
+
+## 39. [B] Vernant : le héros confronté aux institutions des hommes
+
+Les enquêtes de **Jean-Pierre Vernant** sur les représentations grecques de la puissance, du travail et de la cité permettent de penser l'articulation entre **temps héroïque** et **ordre civique**. Héraclès n'est pas seulement un individu exceptionnel : il circule entre les catégories de l'humain, du divin et du sauvage. Lui confier la charge d'un chœur athénien peut représenter une réduction comique de sa liberté exceptionnelle.
+
+Le lien est interprétatif, et il ne faut pas y voir un nouvel épisode du mythe de ses douze travaux. Les institutions athéniennes sont documentées indépendamment du drame, tandis que leur rencontre scénique avec le héros reste essentiellement invisible.
+
+## 40. [B] Détienne : techniques ordinaires et mythologie du prestige
+
+L'anthropologie comparée de **Marcel Détienne** invite à observer ce que les grands récits laissent souvent aux marges : les procédures, les pratiques alimentaires et les manières de classer les tâches. Un héros peut triompher des monstres sans savoir choisir le vêtement d'un choriste ; un chant de travailleuses peut conserver un savoir de coordination que la musique de concours stylise autrement.
+
+L'analyse ne doit pas transformer le travail du grain en culte caché d'Héraclès. Aucun sacrifice, mythe agricole rituel ni rite de passage féminin n'est transmis dans **Athénée XIV, 619a** au titre de cette comédie. Détienne sert ici de guide de **questionnement**, non de certificat d'interprétation.
+
+## 41. [B] Dumézil : pourquoi une grille trifonctionnelle n'est pas justifiée
+
+On pourrait être tenté de classer la force héroïque d'Héraclès dans une fonction guerrière, la liturgie dans la sphère de la souveraineté rituelle, et le chant de métier dans celle de la production. Mais ce tableau ne découle ni des deux fragments ni d'un ensemble de correspondances comparables entre traditions indo-européennes. En faire la preuve d'une structure **dumézilienne** reviendrait à imposer un modèle à une matière trop mince.
+
+La conclusion méthodique est la **non-application** de Dumézil à l'architecture supposée de cette œuvre. Le comparer à titre de limite épistémologique est plus utile que lui attribuer un résultat qu'il n'aurait pas démontré sur ces passages.
+
+## 42. [B] Philosophie de la compétence : pouvoir financer n'est pas savoir créer
+
+Le contraste le plus net, si le mot **χορηγός** désigne bien le liturge, oppose **pouvoir mobiliser des moyens** et **capacité de juger la fabrication de l'œuvre**. Un responsable doté de ressources peut échouer à comprendre le rythme du travail ou l'ajustement d'un habit. Un subordonné compétent peut, à l'inverse, devoir corriger ses décisions. Cette relation peut être lue à partir des notions d'**expertise**, de **division du travail** et d'**autorité**.
+
+Ce sont des catégories modernes qui servent à explorer les ressorts possibles du rire. Nous n'avons ni le texte d'une dispute entre Héraclès et un maître de chœur, ni un résultat de concours permettant de tester la valeur de son pouvoir.
+
+## 43. [B] Justice du travail invisible
+
+Le spectacle dépend de tâches que sa gloire tend à cacher : coudre, nettoyer, habiller, nourrir, former, répéter et accompagner. Le **fr. 8** nomme un vêtement, le **fr. 9** signale le chant lié à un travail de transformation du grain ; tous deux donnent accès à des **matières techniques** plutôt qu'à un grand événement. L'analyse peut faire de cette convergence une réflexion sur la visibilité des métiers.
+
+L'argument reste limité. Il ne prouve pas que Nicocharès défendait les travailleuses, critiquait les riches ou valorisait la coopération contre l'autorité. Il fournit une manière de lire les conséquences sociales des mots dont la transmission a conservé la trace.
+
+# V. Scènes dramatiques originales [C] — expériences, non reconstitutions
+
+**Avertissement [C] :** les scènes suivantes sont entièrement créées en français pour MYTHOS en 2026. Elles ont pour but de distinguer des hypothèses rivales sur le titre, le costume et le chant de travail. Aucun dialogue, personnage secondaire, lieu ni enchaînement n'est attesté par Nicocharès ; ces créations ne sont pas des fragments réels et ne doivent jamais être citées comme antiquités.
+
+## 44. [C] Scène I — « Le héros et le budget de la cité »
+
+*Personnages imaginés : Héraclès, un magistrat, un instructeur de chœur. Une table encombrée de petites tablettes de dépenses.*
+
+**LE MAGISTRAT.** Tu as demandé à financer le chœur. Très bien. Voici les chaussures, le logement, les repas et les masques.
+
+**HÉRACLÈS.** Donne-moi plutôt le monstre.
+
+**L'INSTRUCTEUR.** Ce chœur ne contient aucun monstre.
+
+**HÉRACLÈS.** Alors je n'ai rien à y faire.
+
+**LE MAGISTRAT.** Tu as demandé de servir la cité. La cité n'est pas toujours un monstre à tuer. Parfois, c'est un inventaire à payer.
+
+**HÉRACLÈS.** J'ai traversé tant de mers sans demander de monnaie !
+
+**L'INSTRUCTEUR.** Nous traverserons seulement le premier chant. Les chanteurs ont faim.
+
+**HÉRACLÈS.** Voilà une épreuve que je connais : la faim.
+
+**L'INSTRUCTEUR.** C'est la leur qu'il faut nourrir. La tienne ne figurera pas au budget.
+
+**HÉRACLÈS.** On appelle « généreux » celui qui garde les aliments sur la table pour les autres ?
+
+**LE MAGISTRAT.** Aujourd'hui, oui.
+
+**Note [C].** L'inversion des dépenses et de la gourmandise est une expérience moderne. Aucun budget d'Héraclès ne figure dans les fragments 8 ou 9.
+
+## 45. [C] Scène II — « Le chiton de dessus »
+
+*Personnages imaginés : une artisane du costume, Héraclès, un jeune acteur. Dans l'atelier, plusieurs vêtements de couleurs différentes sont suspendus.*
+
+**L'ARTISANE.** Celui-ci se porte par-dessus l'autre. Attention à ne pas tirer sur la couture.
+
+**HÉRACLÈS.** Il pèse moins qu'une branche de chêne.
+
+**L'ARTISANE.** C'est précisément pour cela qu'il exige de la précision. Tu connais la force qui tire. Je demande la main qui s'arrête.
+
+**LE JEUNE ACTEUR.** C'est mon vêtement de scène. Si le héros le déchire, qui jouera mon personnage ?
+
+**HÉRACLÈS.** Je le jouerai à ta place.
+
+**LE JEUNE ACTEUR.** Alors tu devras apprendre son chant.
+
+**HÉRACLÈS.** Le chiton me suffit.
+
+**L'ARTISANE.** L'habit ne chante pas. Il aide le corps qui chante à être reconnu.
+
+**HÉRACLÈS.** Je croyais la gloire attachée à la peau de lion.
+
+**L'ARTISANE.** Et moi, je la connais aussi aux fils qui n'apparaissent jamais sur le devant.
+
+*Le héros remet le vêtement dans les mains de l'artisane sans l'essayer.*
+
+**Note [C].** Ce dialogue emploie la matière du fr. 8 sans prétendre développer la scène originale.
+
+## 46. [C] Scène III — « Le chant des mains »
+
+*Personnages imaginés : des femmes occupées à préparer le grain, Héraclès et un maître de chœur. Les paroles chantées ne reconstituent aucune mélodie antique.*
+
+**UNE TRAVAILLEUSE.** Nous chantons pour garder ensemble le geste.
+
+**HÉRACLÈS.** Votre chant n'a pas de prix, pas de couronne, pas de juge.
+
+**UNE AUTRE.** Et pourtant, si tu entres dans notre cadence sans l'écouter, tout le travail s'arrête.
+
+**LE MAÎTRE.** C'est ce que j'essaie de lui apprendre depuis le matin.
+
+**HÉRACLÈS.** À qui dois-je obéir ? À toi, qui portes la baguette, ou à celles qui n'ont pas de scène ?
+
+**UNE TRAVAILLEUSE.** À personne aveuglément. Commence par entendre.
+
+**HÉRACLÈS.** Quand les monstres arrivaient, je n'écoutais pas.
+
+**LE MAÎTRE.** C'est pour cela que tu les vainquais seul. Ici, le chant n'est à personne lorsqu'il commence. Il appartient à ceux qui le soutiennent.
+
+*Le héros s'apprête à battre la mesure, puis baisse le bras et observe le mouvement des autres.*
+
+**Note [C].** Le témoignage d'Athénée ne fournit ni ces paroles ni les voix de travailleuses ; il atteste seulement un type de chant évoqué par la pièce.
+
+## 47. [C] Scène IV — « La couronne commune »
+
+*Personnages imaginés : Héraclès, une choriste, un gardien du théâtre, après un concours dont la pièce antique ne donne aucun résultat.*
+
+**LE GARDIEN.** Une couronne attend celui qui a remporté la victoire.
+
+**HÉRACLÈS.** J'en ai déjà porté tant. Donne-la-moi.
+
+**LA CHORISTE.** Avant de la prendre, peux-tu dire qui a gagné ?
+
+**HÉRACLÈS.** Celui qui a payé.
+
+**LA CHORISTE.** Et celle qui a répété ? Celui qui a réparé la tunique ? Celui qui a tenu le rythme quand les autres se sont trompés ?
+
+**HÉRACLÈS.** Il faudrait trop de couronnes.
+
+**LA CHORISTE.** Une seule suffit, à condition de savoir qu'elle ne porte pas un seul nom.
+
+**LE GARDIEN.** Voilà une leçon très difficile pour un héros.
+
+**HÉRACLÈS.** J'ai cru que la victoire finissait le travail.
+
+**LA CHORISTE.** Le lendemain, on recommence les répétitions.
+
+*Le héros lève la couronne puis la pose au centre du groupe.*
+
+**Note [C].** Cette conclusion est une invention complète pour interroger le prestige collectif. Aucun résultat de concours ne peut être attribué à Nicocharès.
+
+# VI. Bilan philologique, comparatisme contrôlé et bibliographie
+
+## 48. [A] Matrice des preuves et des restrictions
+
+| Référence | Ce qui est attesté | Ce qu'il serait abusif d'affirmer |
+|---|---|---|
+| Titre **Ἡρακλῆς χορηγός** | Héraclès mis en relation avec une fonction de chorège | Qu'il finance nécessairement une tragédie particulière |
+| **Pollux VII, 45 = fr. 8 K.-A.** | Un trimètre demandant promptement un **χιτών ἐπενδύτης** | Que le locuteur est Héraclès ou que ce vêtement lui est destiné |
+| **Athénée XIV, 619a = fr. 9 K.-A.** | Allusion à un chant lié au travail féminin du grain | Qu'on conserve les paroles, la mélodie ou les chanteuses de la pièce |
+| **Aristophane, *Thesmophories* fr. 352 K.-A.** | Parallèle cité par Athénée | Fragment de Nicocharès |
+| **Phrynichos comique fr. 14 ; Nicophon fr. 8** | Parallèles de chants de métiers | Deux autres fragments de Nicocharès |
+| **Aristophane, *Acharniens*, *Paix* ; Eupolis** | Des motifs comiques de chorégie et de dépenses | Intrigue effectivement reprise dans la pièce |
+| **Hérodote I, 195** | Vêtements superposés dans une description étrangère | Costumes « babyloniens » identifiés dans la représentation |
+| **Aristophane, *Grenouilles* 105–107** | Parodie des compétences d'Héraclès | Citation de sa réplique perdue chez Nicocharès |
+| **388 av. J.-C.** | Année pertinente pour *Lakōnes* de Nicocharès | Date du concours de *Hēraklēs chorēgos* |
+
+## 49. [A] Éditions et textes primaires de contrôle
+
+**Le dossier direct :**
+
+- **Pollux**, *Onomasticon* **VII, 45**, **Nicocharès fr. 8 K.-A. (= fr. 5 Kock)**. La citation du trimètre sur le **χιτών ἐπενδύτης** est le seul vers effectivement préservé du dossier.
+- **Athénée**, *Deipnosophistes* **XIV, 619a**, **Nicocharès fr. 9 K.-A. (= fr. 6 Kock)**. Référence explicite au chant de métier ; **aucun vers du chant cité**.
+- **R. Kassel, C. Austin**, *Poetae Comici Graeci*, vol. **VII**, Berlin–New York, **1989**, p. **43–44**, système de numérotation des fragments.
+- **Christian Orth**, *Fragmenta Comica* **9.3**, Heidelberg, **2015**, **p. 63–69**, avec discussion de titre, institutions, notes grammaticales, contexte de Pollux et chaîne de transmission d'Athénée, https://digi.hadw-bw.de/view/frc9_3/0068 et pages suivantes, DOI https://doi.org/10.11588/diglit.52132 .
+
+**Parallèles extérieurs identifiés :**
+
+- **Aristophane**, *Acharniens* **1150–1161** ; *Paix* **1017–1022** ; *Grenouilles* **105–107** ; *Nuées* **1358** ; *Lysistrata* **1315** ; *Thesmophoriazousai* **fr. 352 K.-A.** ; ces textes renseignent la chorégie, Héraclès, les chants de travail et le vocabulaire.
+- **Eupolis fr. 329 K.-A.** ; **Antiphanès fr. 202, 5–6 K.-A.** ; **Phrynichos comique fr. 14 K.-A.** ; **Nicophon fr. 8 K.-A.** : parallèles grecs de dépenses et de genres de chants, non fragments de Nicocharès.
+- **Platon**, *Lois* **665a** ; **Pollux IV, 55–56** : la terminologie des responsables et les chants de métier.
+- **Hérodote**, *Histoires* **I, 195, 1** ; **Sophocle fr. 439 Radt** ; **Xénophon**, *Cyropédie* **VIII, 3, 6** : comparaisons de vêtement et de syntaxe, non fragments de la pièce.
+
+## 50. [B] Bibliographie universitaire et statut des interprétations
+
+- **Peter Wilson**, *The Athenian Institution of the Khoregia: The Chorus, the City and the Stage*, Cambridge University Press, **2000**. Monographie fondamentale sur le fonctionnement et les charges de la chorégie ; Orth utilise particulièrement p. 51–103, 320 et 378, mais les hypothèses de Wilson sur Nicocharès ne remplacent pas les deux fragments.
+- **Christian Orth**, *Fragmenta Comica* 9.3, **2015**, p. 63–69. Commentaire directeur, discussion des deux sens de **χορηγός**, analyse de l'**ἐπενδύτης**, de l'atticisme et des chansons de métier.
+- **Ian C. Storey**, *Fragments of Old Comedy*, vol. II, Loeb Classical Library, Harvard University Press, **2011**, p. 387 : contextualisation des titres et des parallèles d'Héraclès.
+- **Oliver Taplin**, *Comic Angels and Other Approaches to Greek Drama through Vase-Paintings*, Oxford, **1993**, p. 55–66 : réflexion sur la représentation et la « vase des chorèges » ; **la peinture ne prouve pas la représentation de la pièce de Nicocharès**.
+- **Nicoletta Casolari**, étude de la comédie mythologique attique, **2003**, p. 263–264 : propositions sur le héros peu musical, citées par Orth ; hypothèses, non fragments.
+- **Margaret C. Miller**, travaux sur l'habillement et les rapports entre culture grecque et modes perses, **1989** et **1997** : outils de lecture des vêtements superposés, sans identification de costumes conservés pour cette pièce.
+- **Timothy Gantz**, *Early Greek Myth*, **1993**, p. 378–379 : tradition d'Héraclès et de Linos, à mobiliser comme parallèle indépendant.
+- **Jean-Pierre Vernant**, *Mythe et pensée chez les Grecs* ; **Vernant et Pierre Vidal-Naquet**, *Mythe et tragédie en Grèce ancienne* : grilles sur le mythe et la cité.
+- **Marcel Détienne** et **Jean-Pierre Vernant** (dir.), *La cuisine du sacrifice en pays grec*, **1979** : méthode comparative de la pratique ; aucune citation antique nouvelle de cette comédie.
+- **G. W. F. Hegel**, *Leçons sur l'esthétique*, développements relatifs au théâtre comique ; **Friedrich Nietzsche**, *La Naissance de la tragédie* : cadres philosophiques **[B]** appliqués sans citations inventées.
+- **Georges Dumézil**, œuvre comparative : **non mobilisée comme grille d'attribution** faute de régularités probantes dans les deux fragments.
+
+## 51. [B] Conclusions et perspectives contrôlées
+
+Nous savons qu'une comédie de Nicocharès attribuait au héros Héraclès la fonction insolite de **chorège**, que **Pollux VII, 45** en a conservé un trimètre où l'on demande rapidement un vêtement à superposer, et qu'**Athénée XIV, 619a** en a préservé une mention de **chant féminin lié au travail du grain**. Nous ne savons ni si Héraclès y finançait un chœur ou le conduisait, ni s'il mangeait à ses dépens, ni si l'habit était destiné à une représentation, ni si le chant était exécuté ou seulement mentionné, ni la date ni le résultat d'aucun concours.
+
+Cette pauvreté ne rend pas le fragment négligeable : il ouvre un dossier cohérent sur l'institution civique du théâtre, les techniques de performance, les vêtements, le travail, le rapport de la puissance à la compétence et les sons ordinaires d'une société. Mais la cohérence appartient ici pour l'essentiel **au travail du commentateur**, pas à une intrigue antique récupérée.
+
+Les **scènes [C]** montrent quatre solutions modernes possibles ; aucune ne peut être choisie comme « véritable reconstruction » de Nicocharès. Les liens établis avec les études antérieures renvoient à des **numéros déjà attribués** ou explicitement à un **UUID non attribué**. Le nouveau numéro sera produit seulement par le mécanisme concurrent GitHub, à partir du dernier état de **main**, et jamais anticipé à partir d'un ancien sommaire.
+
+**Fin de la monographie.**

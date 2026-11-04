@@ -1,0 +1,577 @@
+# MYTHOS — Encyclopédie des tragédies grecques — Volume CCXXXV (235)
+
+## Sophocle, *Nausicaa ou Les Lavandières* (Ναυσικάα ἢ Πλύντριαι) — L'étranger nu, le linge, la balle et le devoir d'accueil : comment l'*Odyssée* devient théâtre
+
+**Monographie universitaire originale en français, texte public approuvé pour la collection MYTHOS, 4 novembre 2026.** Philologie des fragments, histoire des témoignages, comparaison homérique, dramaturgie conjecturale, anthropologie du travail textile, religion de l'hospitalité, philosophie ancienne et moderne, iconographie archéologique sourcée, édition et bibliographie critiques.
+
+**Identité de l'œuvre :** Sophocle, *Nausicaa* ou *Plyntriai* (« Les Lavandières »). Il s'agit, selon les témoins et les reconstructions éditoriales, de deux appellations **d'une même pièce**, non de deux œuvres numérotables indépendamment. **État de conservation :** trois fragments rangés dans Stefan Radt, *Tragicorum Graecorum Fragmenta*, IV, *Sophocles*, **F 439–441** ; aucun déroulement dramatique continu. **Témoignage sur la représentation :** Athénée I, 20e–f, **T 28 Radt** ; version plus développée chez Eustathe, commentaire à l'*Odyssée*, **T 30 Radt**. **Histoire du genre :** l'attribution aux tragédies ou au drame satyrique est débattue ; le titre est accueilli dans cette encyclopédie du théâtre tragique avec l'incertitude **expressément maintenue**. **Chronologie possible :** début de carrière de Sophocle au Ve siècle, souvent placé vers les années 470–450 av. J.-C. ; aucune année n'est solidement établie.
+
+**Règle documentaire de ce volume.** La narration d'Homère est un **hypotexte**, non le livret de Sophocle. Les notices de Pollux, Athénée, Eustathe et les lexicographes sont des **témoignages indirects**. Les trois numéros Radt ne sont pas trois scènes. Aucun texte grec non attesté ni aucun échange théâtral n'est ajouté. Tout scénario de représentation porte ci-dessous le label **[HYPOTHÈSE]** ; toute donnée de littérature ou d'iconographie étrangère à la pièce porte celui de **[PARALLÈLE]**.
+
+---
+
+# I. Continuité éditoriale et constitution du dossier
+
+### 1. Pourquoi consacrer un volume propre à Nausicaa
+
+La pièce entre naturellement dans un parcours des œuvres perdues de Sophocle, après les volumes sur les tragédies homériques et les pièces étudiées jusqu'à *La Revendication d'Hélène*. Son identité est distincte de toutes les œuvres préalablement présentes dans la collection : elle concerne l'arrivée d'Ulysse naufragé chez les Phéaciens, non la négociation troyenne, les malheurs des Atrides ou le retour à Ithaque. L'épisode est particulièrement riche, car il ne met pas en scène la mort d'un héros, mais l'instant fragile où un étranger sans défense reçoit la possibilité de parler et d'être secouru.
+
+Cette originalité exige une vigilance supplémentaire : le titre double peut donner l'illusion qu'il y avait deux pièces, *Nausicaa* et *Les Lavandières*. L'attestation par des traditions différentes ne démontre pas cette séparation ; les éditeurs modernes les réunissent, généralement, dans une seule rubrique. La discussion ne doit pas reproduire les doubles attributions devenues visibles dans certains volumes récents de la série MYTHOS. La présente demande porte sur **une seule œuvre antique**.
+
+### 2. Les trois objets de l'enquête
+
+Une enquête sérieuse se décompose en trois objets qui ne doivent jamais être amalgamés : (1) **l'épisode homérique**, relativement bien conservé au chant VI de l'*Odyssée* ; (2) **la pièce de Sophocle**, connue par un titre, trois fragments très courts et une anecdote de performance ; (3) **les interprétations et images postérieures**, qui développent la rencontre, le jeu et la lessive. Une description précise de l'épisode homérique ne restitue pas la pièce perdue ; une peinture de vase n'est pas une photographie du théâtre.
+
+La recherche récente permet toutefois de poser des questions plus fines que la seule intrigue : pourquoi la mémoire antique a-t-elle retenu le jeu de balle ? Pourquoi l'autre titre évoque-t-il des femmes qui lavent ? Un mot lexicalement ambigu dans F 439 désigne-t-il un geste sur des tissus ? Pourquoi le char de la princesse subsiste-t-il dans F 441 ? Le travail des fragments est ici une histoire matérielle de gestes et d'objets.
+
+### 3. Les témoins réellement utilisables
+
+Les sources primaires principales sont **Homère, *Odyssée* VI et VII** ; **Athénée, *Deipnosophistes* I, 20e–f**, témoin de la mémoire de Sophocle acteur et joueur de balle ; **Eustathe de Thessalonique, commentaire à l'*Odyssée***, témoin tardif d'une formulation apparentée ; **Pollux, *Onomasticon* VII, 45**, vecteur de F 439 ; les gloses lexicales associées à F 441 et la documentation rassemblée par Radt.
+
+Les travaux de **Laura Carrara (2022)**, **S. Douglas Olson (2015)** et **Leonardo Bononcini (2025)** constituent les discussions modernes les plus directement vérifiables : Carrara propose une réévaluation de la lecture de F 439 ; Olson distingue les valeurs d'un verbe controversé ; Bononcini a publié une monographie entière en anglais sur la pièce après sa recherche doctorale sur les drames sophocléens d'inspiration odysséenne. Aucun de ces commentateurs ne peut être réduit à une confirmation mécanique des autres.
+
+### 4. Ce qu'un titre double autorise à inférer
+
+Le premier nom privilégie la **princesse** ; le second, une **activité collective féminine**. Cette alternance suggère une structure à deux foyers d'intérêt : personnage mythique et groupe capable de chanter, de travailler ou de jouer. Dans la dramaturgie grecque, un titre pluriel correspond souvent au chœur, mais la fréquence d'une convention ne prouve pas sa réalisation ici. On peut envisager des lavandières composant le chœur sans affirmer que les paroles chorales ont été retrouvées.
+
+Laura Carrara rappelle la possibilité que les deux dénominations aient existé dès l'époque de représentation ; elle observe aussi qu'un titre dit « alternatif » peut être l'addition savante, plus tardive, d'une désignation commode. Cette hésitation concerne l'histoire de la transmission, non deux œuvres autonomes. La différence avec des *Lavandières* comiques de Philyllios est essentielle : proximité lexicale ne signifie ni identité de pièce ni copie démontrée.
+
+---
+
+# II. Le matériau homérique : lecture suivie du chant VI
+
+### 5. Avant la rencontre : la situation d'Ulysse
+
+Le héros a quitté l'île de Calypso, a construit un radeau, a affronté la mer puis subi une tempête suscitée par Poséidon. Il atteint épuisé le rivage des Phéaciens ; l'aide divine d'Ino-Leucothée et celle d'Athéna appartiennent au contexte immédiat des chants V–VI. Son entrée dans l'épisode ne possède rien de triomphal : il est dépourvu de navire, de vêtements dignes de ce nom, de compagnons et d'identification publique.
+
+Cette pauvreté constitue une inversion majeure de sa condition de roi d'Ithaque. Dans l'*Iliade*, son nom peut être reconnu par ses exploits et ses discours ; sur le rivage phéacien, il n'a d'abord que sa présence physique et sa capacité d'improviser. Le thème offre à un dramaturge un ressort remarquable : faire entrer un héros célèbre sous l'apparence d'un inconnu susceptible de provoquer la peur.
+
+### 6. Le rêve de Nausicaa : la vie domestique avant l'aventure
+
+Au début du chant VI, Athéna prend dans le rêve de Nausicaa la forme d'une proche et l'incite à préparer les vêtements de la maison en vue d'un prochain mariage. La proposition lie le travail domestique, le statut de la princesse et l'avenir d'une jeune fille à l'âge des noces. Le mouvement initial ne vient donc pas d'une recherche d'aventures ; il est déterminé par une tâche ordinaire, très concrète.
+
+Le texte homérique fait agir la déesse, mais la représentation sophocléenne du rêve n'est pas attestée. Un prologue contenant Athéna, un récit de rêve par Nausicaa ou l'absence complète de ce préambule sont des possibilités dramatiques différentes. Il serait incorrect de présenter l'une d'elles comme une scène retrouvée.
+
+### 7. La logistique du lavage
+
+Nausicaa obtient de son père un char et des mules ; avec ses servantes elle emporte les vêtements vers un cours d'eau. Les jeunes femmes lavent, essorent et étendent le linge pour qu'il sèche. Homère situe ainsi le travail dans une économie physique de l'eau, du textile et du transport. Ni la noblesse de Nausicaa ni sa proximité avec les dieux ne suppriment l'existence du travail dans le récit.
+
+Ce passage est central pour la lecture du second titre, *Plyntriai*. La pièce semble avoir retenu quelque chose de la scène où se combinent le linge, le char et les mouvements du groupe. Mais il est impossible d'affirmer que chaque geste homérique faisait l'objet d'une pantomime ou d'une chanson. Le théâtre peut condenser ce que l'épopée développe.
+
+### 8. Le jeu de balle : transition entre travail et rencontre
+
+Après le repas et le lavage, les jeunes filles jouent à la balle ; le bruit provoqué par un lancer manqué réveille le naufragé endormi. Homère associe à ce moment la joie de Nausicaa, l'intervention d'Athéna et la menace soudaine de l'inconnu. Une activité sans danger se retourne en événement : la frontière entre le monde fermé des servantes et la violence possible de la mer et de la guerre vient de s'ouvrir.
+
+Le témoignage d'Athénée conserve précisément le souvenir d'une habileté de Sophocle à la balle lors de la représentation de *Nausicaa*. Il ne décrit pas l'enchaînement complet, mais rend vraisemblable un emploi scénique d'un jeu apparenté au motif homérique. Il ne démontre ni le nombre de balles ni la participation de toutes les choristes à une chorégraphie particulière.
+
+### 9. La fuite des compagnes et l'immobilité de Nausicaa
+
+Devant l'homme nu ou presque nu qui sort de sa cachette, les jeunes servantes s'enfuient, alors que Nausicaa demeure : Athéna lui donne du courage. Le contraste fait de la princesse un personnage qui gagne son statut par son comportement et non seulement par sa généalogie. Elle observe la différence entre une menace possible et un homme qui implore.
+
+Il faut néanmoins se souvenir que les peurs des servantes ne sont pas ridicules : elles sont les réactions ordinaires de personnes isolées devant un homme inconnu. Un commentaire moderne ne devrait pas transformer cette peur en preuve de faiblesse morale. Nausicaa prend un risque ; sa bravoure ne supprime pas le danger qui justifie la prudence des autres.
+
+### 10. Ulysse choisit une parole plutôt qu'une saisie
+
+Le roi naufragé se demande, chez Homère, s'il doit se jeter aux genoux de la jeune fille ou lui parler à distance. Il choisit de formuler une supplication sans contact, afin de ne pas l'effrayer. Cette décision mérite une attention particulière : l'efficacité de la parole dépend ici d'une conscience du corps de l'autre, du danger que son propre aspect peut représenter et du caractère asymétrique de la rencontre.
+
+L'épisode offre ainsi un modèle de **prudence relationnelle**. Ulysse demeure un guerrier rusé, mais, dans cette situation, l'intelligence consiste à ne pas exercer de prise sur autrui. On ne sait pas si Sophocle avait conservé la délibération intérieure, la transformant en monologue, ou si elle disparaissait au profit d'un dialogue direct.
+
+### 11. L'éloge de la princesse et les codes de persuasion
+
+Ulysse compare Nausicaa à une divinité et mêle admiration, supplication et demande matérielle : vêtement et indication du chemin. Son discours est habile, mais il ne se résume pas à une flatterie machiavélique. Il répond à une nécessité vitale. L'éloquence transforme un corps inquiétant en interlocuteur capable de décrire ses besoins et de reconnaître la dignité de celle qui peut le secourir.
+
+Le caractère ambigu du discours reste analysable : tout éloge peut favoriser la bienveillance sans fournir la preuve d'une identité. Nausicaa doit décider sur des indices incomplets. Le héros ne révèle pas immédiatement tous les éléments qui permettraient à la jeune fille de l'identifier. La scène homérique peut nourrir une réflexion sur le jugement sous incertitude.
+
+### 12. La réponse de Nausicaa et les ressources de la cité
+
+La jeune fille interprète la présence de l'étranger en fonction d'une règle d'hospitalité : le secours aux étrangers et aux pauvres dépend de Zeus. Elle ordonne à ses servantes de revenir, de donner à manger, de fournir des vêtements et de prendre soin du naufragé. Son intervention articule morale religieuse et gestes concrets : reconnaître un devoir ne suffit pas, il faut organiser les moyens de l'exécuter.
+
+Dans la poésie homérique, le visiteur n'obtient pas seulement la possibilité de survivre ; il est réintroduit parmi les humains par le bain, le vêtement et le repas. Ces gestes seront essentiels à une lecture de la vulnérabilité. Ils ne prouvent cependant pas que Sophocle avait donné à son chœur des ordres identiques.
+
+### 13. Le vêtement : preuve visible d'un passage de statut
+
+Ulysse reçoit des habits, se lave et reparaît sous une apparence transformée, embellie par Athéna. Le récit fait sentir le rapport entre identité sociale et apparence corporelle. L'homme prestigieux se retrouve reconnu comme étranger sans identité ; le don de vêtements prépare sa réintégration dans une communauté de reconnaissance. La beauté retrouvée, elle-même renforcée par la déesse, influence le regard de Nausicaa.
+
+Cette métamorphose n'est pas une preuve que la pièce perdue faisait du costume son mécanisme dramatique central. Le fragment F 439 prouve néanmoins que des termes vestimentaires appartenaient au texte. La proximité du vêtement dans les deux corpus justifie une enquête précise, non une attribution de costumes particuliers aux acteurs.
+
+### 14. La précaution contre la rumeur publique
+
+Nausicaa demande ensuite au héros de ne pas marcher ostensiblement avec elle lorsqu'ils approcheront de la ville : les habitants pourraient interpréter leur proximité comme une relation amoureuse inappropriée. La stratégie protège la réputation d'une jeune fille et organise l'arrivée du demandeur d'asile auprès de la maison royale. Nausicaa est à la fois secourable et consciente du regard collectif.
+
+La scène révèle la nature sociale de la honte : l'innocence objective d'un acte ne suffit pas toujours à empêcher la rumeur. On peut y lire une tension entre l'acte moral et l'économie de l'honneur. La possibilité d'un débat sur cette question chez Sophocle reste ouverte, mais aucun fragment ne l'établit.
+
+### 15. Le chemin vers Arété : autorité féminine et médiation
+
+Nausicaa conseille à Ulysse de s'adresser particulièrement à sa mère Arété, qui détient une influence importante au palais. Le schéma complique l'image d'une monarchie exclusivement gouvernée par la force masculine. Le passage dans la cité dépend de la recommandation d'une jeune fille et de l'accueil d'une reine ; la compétence pratique du naufragé doit coopérer avec un réseau d'autorités féminines.
+
+Ce motif appartient aux chants VI–VII d'Homère. Sa présence dans *Nausicaa* de Sophocle n'est pas assurée : un drame centré sur la plage aurait pu s'arrêter avant la comparution auprès d'Alcinoos et d'Arété. Un drame plus étendu aurait pu faire évoquer ces personnages par un messager. Il n'est pas permis de choisir.
+
+### 16. La fin du chant VI et le problème d'une fin théâtrale
+
+Le chant se termine sur les indications données par Nausicaa pour rejoindre la cité et la prière d'Ulysse à Athéna. Le retour effectif à Ithaque appartient à une séquence plus longue de l'*Odyssée*. Pour un dramaturge, le problème est évident : une rencontre heureuse, qui n'est qu'un épisode du poème, doit devenir une unité de spectacle susceptible de trouver sa propre conclusion.
+
+Plusieurs fins sont imaginables : l'étranger équipé pour traverser la ville, la séparation de Nausicaa et d'Ulysse, l'annonce d'une protection à la cour, voire la simple sortie du héros du lieu scénique. Toutes sont **[HYPOTHÈSES]**. Aucun dénouement sophocléen ne nous est transmis.
+
+---
+
+# III. Les fragments : critique, témoins et numérotation
+
+### 17. Trois fragments ne constituent pas trois épisodes
+
+Le corpus principal demeure **TrGF IV F 439, F 440, F 441**. Ce classement, confirmé par les études de Laura Carrara et de Leonardo Bononcini, décrit une documentation minuscule. L'ordre numérique reflète l'organisation moderne des citations et des sources, pas la place des vers dans le drame. Il est donc interdit de transformer F 439 en prologue, F 440 en épisode et F 441 en exodos.
+
+Le numéro des fragments sera conservé littéralement dans toute reprise numérique. On ne le remplacera jamais par 235 : cette variable ne concerne que le numéro MYTHOS attribué à l'étude et non les références de la recherche philologique.
+
+### 18. F 439 Radt : Pollux, *Onomasticon* VII, 45
+
+Le fragment le plus instructif est cité par le lexicographe Pollux pour attester un mot désignant un vêtement de dessus. La leçon imprimée et discutée dans la tradition critique comprend la séquence **πέπλους τε νῆσαι λινογενεῖς τ’ ἐπενδύτας**. La présence du mot **ἐπενδύτας**, et la référence explicite aux *Plyntriai* de Sophocle chez Pollux, rendent l'attribution au dossier solide.
+
+La difficulté porte sur le verbe transmis et sur la possibilité de le lire comme « filer », « amasser/empiler » ou, après réexamen de variantes, « étendre » des vêtements. Un résultat important doit être maintenu : les différentes traductions reflètent de véritables choix philologiques. Il n'est pas justifié d'en donner une seule comme traduction indiscutable de Sophocle.
+
+### 19. La valeur « filer » : une lecture traditionnelle
+
+L'interprétation de la forme **νῆσαι** comme « filer » a été défendue dans le sillage d'une tradition lexicographique qui admet un rapport entre filage et tissage. Dans le texte de Sophocle ainsi compris, les tissus seraient l'objet d'un travail de fabrication ; on pourrait rapprocher la scène des nombreuses activités textiles associées aux femmes dans la littérature grecque.
+
+Le problème est narratif : au chant VI de l'*Odyssée*, les tissus existent déjà ; il s'agit de les nettoyer puis de les rapporter. La fabrication n'est pas le geste qui définit le titre des *Lavandières*. Cela ne suffit pas à déclarer la lecture « filer » impossible. Le théâtre pouvait mentionner des activités absentes de la séquence homérique ; la divergence ne prouve pas l'erreur textuelle.
+
+### 20. La valeur « empiler » : la proposition d'Olson
+
+S. Douglas Olson (2015) attire l'attention sur une autre famille sémantique du verbe grec, permettant d'entendre l'**empilement** des vêtements. Cette interprétation se relie au transport et au rangement du linge après le lavage : les vêtements peuvent former une pile sur le char pour le retour vers la maison royale. Elle fournit ainsi une solution qui se rapproche du déroulement de l'épopée sans imposer une opération de filage.
+
+La reconstruction demeure conditionnelle. Pollux cite un vers pour un intérêt lexical, non pour expliquer la scène sophocléenne. Même si « empiler » s'imposait comme meilleure interprétation, nous ne saurions pas si la parole appartenait à Nausicaa, à une lavandière ou à un autre personnage.
+
+### 21. La valeur « étendre » : le réexamen de Carrara
+
+Laura Carrara (2022) reprend l'histoire des leçons manuscrites et propose de relier le verbe à l'action d'**étendre** ou de tendre les tissus après lavage, en prenant plus étroitement en compte les opérations décrites par Homère. Cette proposition est articulée à une étude de l'*Onomasticon* de Pollux, de la morphologie verbale et du contexte du chant VI ; elle cherche à restaurer l'intelligibilité du fragment dans le monde concret de la lessive.
+
+L'argument est fort parce qu'il repose sur une cohérence de geste et une attention à la tradition du mot. Mais une lecture qui éclaire mieux une action connue d'Homère ne devient pas de ce seul fait la leçon certaine de Sophocle. On doit conserver les possibilités rivales dans l'apparat interprétatif et créditer précisément les commentateurs.
+
+### 22. La fabrication des vêtements, leur lavage et leur rangement
+
+Ces trois interprétations du fragment définissent trois temporalités : avant l'usage, pendant l'entretien, après le lavage. Le choix n'est pas purement lexical ; il modifie l'image des femmes en scène. Filent-elles pour produire des vêtements ? Étendent-elles des étoffes lavées ? Les entassent-elles en vue du voyage ? Dans chaque cas, les textiles sont des objets d'action, et pas seulement des symboles.
+
+Une critique qui tient à la matérialité du théâtre doit examiner cette différence sans sélectionner par avance la variante la plus pittoresque. La leçon peut aussi relever d'une parole rapportée ou générale et non d'un ordre donné pendant une action visible. Une phrase descriptive ne garantit pas un geste mimé.
+
+### 23. F 440 Radt : modestie nécessaire devant la brièveté
+
+Le fragment 440 figure dans la plage éditoriale attestée **F 439–441** ; il ne subsiste pas de contexte continu permettant de déterminer un épisode, un locuteur ou une fonction métrique globale. Contrairement à F 439, il n'est pas ici doté d'une traduction intégrale, car l'examen disponible des témoins et des éditions ne permet pas d'en publier une qui serait suffisamment contrôlée. Il reste inclus dans l'inventaire et doit être consulté directement dans l'apparat de Radt ou la récente étude spécialisée.
+
+Ce refus d'ajouter un vers séduisant est un choix méthodologique, pas une omission du corpus. L'ouvrage de Bononcini (2025), qui propose les fragments grecs avec traduction anglaise et commentaire, fournit une voie de vérification pour une édition à venir ; les détails au-delà de la notice publique ne sont pas supposés connus ici.
+
+### 24. F 441 Radt : le mot du char
+
+**F 441 Radt**, transmis comme une unité lexicale extrêmement courte, conserve le terme **λαμπήνη** (*lampēnē*), désignant un type de char ou de voiture. Les commentaires le rapprochent du véhicule royal dont Nausicaa dispose au chant VI. Le lien au monde épique est convaincant à l'échelle du motif, mais un mot isolé ne prouve pas la présence physique du véhicule sur scène.
+
+Un char pouvait être représenté, évoqué par une parole, préparé hors de vue ou rappelé au moment d'un départ. Son existence dans le vocabulaire d'une pièce est distincte de son existence comme accessoire. L'information philologique s'arrête là où l'on voudrait commencer la mise en scène.
+
+### 25. La valeur documentaire des noms d'objets
+
+L'un des résultats de F 439 et F 441 est la relative abondance, pour un texte pourtant presque entièrement perdu, d'objets du quotidien : tissus, vêtements, véhicule. Ces restes contrastent avec la conservation d'aphorismes ou de sentences morales si fréquente dans d'autres fragments tragiques. Ici, l'intérêt d'un lexicographe permet d'approcher une couche matérielle de la fiction.
+
+Il serait trompeur d'en conclure que Sophocle aurait composé une pièce « réaliste » au sens moderne. Un linge peut être nommé dans un contexte très poétique ; un char peut apparaître dans un récit mythique. La matérialité n'exclut pas le stylisé, et une pièce perdue ne peut recevoir une étiquette esthétique à partir de deux noms.
+
+### 26. Tableau de vérification des pièces du dossier
+
+| Élément | Origine contrôlée | Niveau de certitude |
+| --- | --- | --- |
+| Œuvre intitulée *Nausicaa* | Athénée, T 28 Radt | Attestation du titre |
+| Appellation *Plyntriai* | Pollux ; Eustathe, T 30 | Attestation du titre alternatif |
+| Unité des deux appellations | Confrontation des témoins et édition Radt | Interprétation éditoriale dominante |
+| F 439 | Pollux VII, 45 | Attribution textuelle sûre dans la tradition |
+| Sens de la forme verbale F 439 | Pearson, Olson 2015, Carrara 2022 | Débat philologique ouvert |
+| F 440 | TrGF IV | Fragment inventorié, contexte perdu |
+| F 441, **λαμπήνη** | Tradition lexicale, TrGF IV | Terme attesté, présence du char sur scène non prouvée |
+| Jeu de balle lors d'une représentation | Athénée I, 20e–f | Anecdote antique, historicité et détail discutables |
+| Sophocle interprétant lui-même Nausicaa | Eustathe | Tradition plus explicite, non document de production contemporain |
+| Chœur composé de lavandières | Titre et comparaison homérique | Hypothèse forte, non liste d'acteurs |
+| Genre : tragédie ou drame satyrique | Débats des chercheurs | Inconnu |
+| Année de représentation précise | Inférences biographiques | Non établie |
+| Scènes, répliques, dénouement | Aucun texte continu | Inconnus |
+
+---
+
+# IV. Sophocle acteur, le corps théâtral et la mémoire antique
+
+### 27. Athénée I, 20e–f : une anecdote à interpréter, non un document d'archive
+
+Athénée rapporte que Sophocle, dans sa jeunesse, était versé dans la musique et la danse et qu'il excellait au jeu de balle au moment de la représentation de *Nausicaa*. La notice associe également son nom au jeu de lyre lors de *Thamyris*. Le passage, connu sous **T 28 Radt**, a une valeur particulière parce qu'il concerne la **performance** plutôt que la simple intrigue.
+
+Mais Athénée compose plusieurs siècles après le dramaturge. Ses anecdotes biographiques peuvent avoir circulé dans des traditions savantes, littéraires ou théâtrales qui transforment les souvenirs. La précision apparente d'un détail corporel n'est pas une garantie suffisante pour imaginer qu'un témoin oculaire a enregistré le jeu. Le doute est renforcé par l'existence de comédies évoquant une Nausicaa.
+
+### 28. Eustathe et le rôle de Nausicaa
+
+Eustathe de Thessalonique, commentateur byzantin d'Homère, transmet une variante selon laquelle Sophocle aurait lui-même joué le **personnage de Nausicaa**, avec une habileté remarquable à la balle. Ce témoignage, classé **T 30 Radt**, est plus précis que l'anecdote rapportée par Athénée. Il peut refléter une source apparentée, mais la relation exacte de dépendance n'est pas entièrement transparente.
+
+On ne doit pas présenter l'interprétation féminine du dramaturge comme un fait contemporain corroboré indépendamment. Il s'agit d'une tradition secondaire tardive. Même si elle était historique, elle ne donnerait pas la composition du chœur, le costume du rôle ou la distribution des autres personnages.
+
+### 29. Le jeu de balle comme performance potentiellement chorégraphique
+
+Le jeu implique déplacements, rythme, adresse, anticipation et coordination. Dans un contexte de théâtre chanté et dansé, il pouvait devenir un moment spectaculaire où l'objet circule entre acteurs. L'anecdote antique rend cette possibilité plus concrète que dans la plupart des tragédies perdues. Une erreur de lancer aurait fourni, par analogie homérique, un mécanisme naturel de passage à l'arrivée d'Ulysse.
+
+Il demeure impossible d'affirmer la forme de la balle, sa taille, le nombre de participantes et l'articulation entre jeu et musique. Une reconstitution moderne doit marquer ces choix comme des inventions de plateau. L'histoire du corps théâtral gagne à conserver la frontière entre une **aptitude attribuée à Sophocle** et une **chorégraphie prétendument sophocléenne**.
+
+### 30. Le témoignage et la datation du drame
+
+Si l'on accepte que Sophocle ait joué un rôle exigeant une habileté physique et qu'il ait ensuite cessé de paraître sur scène, il devient plausible que la pièce appartienne au début de sa carrière. C'est le fondement de datations proposées autour des années **470/468–458/456 av. J.-C.**. La proposition figure notamment dans la présentation du livre de Bononcini (2025) et dans la discussion de Carrara (2022).
+
+Aucune de ces dates n'est une année attestée dans des didascalies conservées. Elles dépendent de l'interprétation de la tradition biographique, du calendrier de l'entrée en carrière de Sophocle et de la professionnalisation progressive des interprètes. Une notice encyclopédique doit donc utiliser « peut-être » ou « datation proposée », jamais la formule « représentée en 468 ».
+
+### 31. Le problème du genre : pourquoi ne sait-on pas s'il s'agissait d'une tragédie ?
+
+Une scène de lessive, de jeu et d'accueil sans mort apparente semble, aux yeux de certains critiques, peu tragique. D'autres soulignent que la souffrance d'un homme abandonné, la nudité, la vulnérabilité et le conflit entre peur et secours peuvent recevoir une mise en forme sérieuse. La question du **genre** est discutée dans le travail de Bononcini comme dans celui de Carrara, et certaines études ont envisagé une pièce satyrique.
+
+Le raisonnement par « tonalité présumée » ne suffit pas. Les tragédies conservées ne comportent pas toutes une catastrophe finale au sens moderne, et les drames satyriques peuvent traiter des épisodes héroïques très sérieux. La preuve décisive devrait concerner le chœur, les conventions scéniques ou un témoignage explicite sur le classement de la pièce. Elle manque.
+
+### 32. Les lavandières contre l'hypothèse d'un chœur de satyres
+
+Le titre pluriel *Plyntriai* et la scène d'Homère suggèrent fortement un chœur de femmes vouées au lavage. Carrara estime que la postulation d'un chœur satyrique n'est pas nécessaire et met en avant l'importance des figures féminines. Cela ne règle pas tout : un titre peut désigner un groupe hors chœur, et un drame satyrique peut aussi comporter des figures féminines importantes.
+
+La formulation juste est donc : **un chœur de lavandières paraît plausible, voire probable selon une partie de la recherche ; il n'est pas attesté par une indication de distribution conservée**. On ne doit ni lui attribuer des paroles inexistantes ni utiliser sa probabilité comme preuve définitive du genre tragique.
+
+### 33. Le rapport à la comédie et aux titres homonymes
+
+Une *Nausicaa* est attestée dans la production comique de différents auteurs, notamment Euboulos, tandis que Philyllios est associé aux *Plyntriai* ou *Nausicaa*. Ces traditions peuvent compliquer l'histoire de l'anecdote de jeu : une plaisanterie comique aurait pu nourrir un récit biographique rétrospectif. La recherche ne possède pas pour autant la preuve que la notice d'Athénée est une invention.
+
+Pour MYTHOS, la conséquence éditoriale est très concrète : on doit distinguer **Sophocle, pièce de genre débattu** ; **Philyllios, comédie** ; **Euboulos, comédie**. Les variations de titre ne justifient pas de fusionner des œuvres de poètes différents, contrairement au cas des deux noms d'une pièce de Sophocle.
+
+### 34. Les vestiges d'un théâtre du mouvement
+
+La pièce appartient peut-être à un domaine de la création sophocléenne où le mouvement des corps, l'action d'un groupe et le rythme scénique étaient particulièrement visibles. Le témoignage de la balle, le char nommé, l'activité des lavandières et l'irruption du naufragé constituent autant de pistes. Elles dessinent un théâtre qui ne repose pas exclusivement sur l'agon verbal ou le meurtre hors scène.
+
+Cette observation ne signifie pas que les fragments permettent de compter les chœurs et les acteurs. Elle invite seulement à cesser de reconstruire toute tragédie perdue sur le modèle des scènes de débat connues dans les pièces conservées. L'analyse théâtrale doit partir d'abord des spécificités attestées de chaque dossier.
+
+---
+
+# V. Reconstruction prudente du drame : quatre modèles distincts
+
+### 35. [HYPOTHÈSE A] Une action concentrée sur la plage
+
+Un premier modèle fait se dérouler l'ensemble de la représentation sur le rivage phéacien. La lessive, le jeu et l'apparition d'Ulysse y seraient les grands événements. Le départ vers la cité fournirait une clôture possible. Le modèle tire parti de l'unité spatiale habituelle de la tragédie athénienne et du fait que les témoins conservés concernent essentiellement le chant VI.
+
+**Lacune :** nul témoignage n'affirme que tout le drame se situait sur la plage. La raison de préférer ce modèle tient à son économie dramaturgique, non à une didascalie antique. Les mots du char et du linge ne suffisent pas à le prouver.
+
+### 36. [HYPOTHÈSE B] La lessive comme entrée chorale
+
+La pièce pourrait commencer par un groupe de servantes occupées au lavage ; elles chanteraient en accomplissant des gestes de travail, et Nausicaa interviendrait comme figure singulière. Cette hypothèse rend compte du titre collectif et donne un intérêt scénique au verbe F 439. La réflexion de Carrara sur la fonction des lavandières est particulièrement pertinente ici.
+
+**Lacune :** aucune parodos n'est conservée ; aucun mètre lyrique sûr ne permet d'établir le texte d'un chant des lavandières. Une telle scène, si elle était écrite pour un théâtre contemporain, devrait être présentée comme création libre, sans guillemets de citation sophocléenne.
+
+### 37. [HYPOTHÈSE C] Ulysse raconte un passé non dramatique
+
+Une variante mettrait l'accent sur le récit du naufrage et des épreuves antérieures par Ulysse une fois secouru. L'épopée devient alors matière d'un discours théâtral : ce qui a eu lieu avant l'entrée du personnage est produit par le souvenir et la voix. La description du livre de Bononcini (2025) relève que la présence du héros racontant ses mésaventures a été proposée à partir du langage des vestiges certains ou incertains.
+
+**Lacune :** les trois fragments sûrs ne constituent pas un récit conservé d'Ulysse. Le modèle ne permet pas de distribuer à un personnage particulier des fragments d'attribution douteuse. Il sert à montrer une possibilité d'adaptation, non à constituer un texte.
+
+### 38. [HYPOTHÈSE D] Une séquence allant jusqu'au palais
+
+Un dernier modèle suppose que Sophocle aurait étendu l'action au-delà de la plage, jusqu'au palais d'Alcinoos et d'Arété. Il expliquerait comment l'étranger obtient durablement le secours de la communauté phéacienne. Mais le transfert de lieu pose des difficultés pour la convention scénique supposée, et aucun témoignage n'affirme qu'il eut lieu.
+
+Le raisonnement « l'histoire se poursuit chez Homère, donc elle se poursuivait chez Sophocle » est invalide. Le dramaturge pouvait décider de ne traiter qu'une unité resserrée. Les *Phéaciens* de Sophocle, autre œuvre inventoriée sous **F *675–676 Radt** selon Bononcini, offrent en outre un dossier distinct qui interdit de transférer automatiquement à *Nausicaa* les scènes de réception au palais.
+
+### 39. Une question de mise en scène : comment rendre le naufragé visible ?
+
+L'entrée d'Ulysse peut jouer sur la visibilité d'un corps nu, sali, épuisé, contrastant avec les vêtements propres des femmes. Homère construit expressément cette opposition. Sur une scène réelle, cependant, la convention du costume et la distance du public transformeraient les conditions de la vision. La nudité littérale n'est pas imposée par le récit poétique.
+
+On ne peut donc pas affirmer qu'un acteur aurait paru entièrement nu. Une représentation moderne pourrait matérialiser sa vulnérabilité par le vêtement déchiré, la démarche, le masque ou les gestes ; toutes ces solutions relèvent de la reconstitution contemporaine. Ce que l'on peut établir est le contraste de statuts dans l'épisode source.
+
+### 40. Le nombre de personnages : ne pas énumérer un *dramatis personae* fictif
+
+Les figures nécessaires au récit homérique sont Ulysse, Nausicaa, les servantes, Athéna, Alcinoos et Arété ; mais l'ensemble ne constitue pas la distribution de Sophocle. Certaines peuvent être mentionnées sans paraître, d'autres fusionnées, remplacées par des récits, et la divinité peut ne jamais monter sur scène. Le titre collectif suggère un groupe, sans en fixer la taille.
+
+Une encyclopédie doit résister à la tentation de composer une liste complète « Nausicaa — Ulysse — Athéna — Arété — héraut — chœur de 15 servantes ». Les indications sur le nombre des choristes sont issues de pratiques théâtrales générales, non du document propre à cette pièce.
+
+### 41. La fin heureuse ne signifie pas absence de tension
+
+La rencontre est heureuse dans l'épopée parce qu'elle contribue à sauver Ulysse. Mais le sauvetage dépend de choix incertains : Nausicaa peut prendre peur, l'étranger peut mal parler, les servantes peuvent l'abandonner, la cité peut le juger dangereusement. La connaissance qu'a le spectateur du retour d'Ulysse produit une tension entre le destin connu et l'expérience présente de l'action.
+
+Le terme « tragique » ne doit pas être réduit à la mort. Il peut désigner l'exposition d'une personne à une décision dont elle ne contrôle pas les conditions. Cela ne règle pas le débat de genre ; cela permet seulement de comprendre pourquoi le sujet était théâtralement fécond.
+
+---
+
+# VI. Nausicaa : autonomie, condition féminine et action morale
+
+### 42. Une protagoniste qui n'attend pas la catastrophe
+
+Nausicaa ne se définit pas dans le chant VI d'Homère par l'attente d'un événement imposé par les hommes. Elle obtient le char, conduit les servantes, accomplit la tâche, prend une décision en présence de l'étranger et organise son arrivée à la cité. L'action relie des savoir-faire matériels à une capacité de délibération. La princesse n'est pas seulement belle et noble ; elle est une organisatrice du secours.
+
+Il serait anachronique de qualifier directement ce personnage de « citoyenne souveraine » : ses droits ne sont pas ceux d'une femme moderne ni ceux d'un citoyen mâle de l'Athènes classique. Sa compétence pratique peut néanmoins être analysée sans effacer les restrictions sociales qui entourent sa réputation.
+
+### 43. L'étrangeté du travail royal
+
+L'image d'une princesse faisant laver les vêtements pourrait sembler paradoxale à un lecteur habitué à opposer aristocratie et travail manuel. Homère présente plutôt une maison où le soin des tissus participe à la continuité des alliances, à l'accueil et au prestige de la famille. La matérialité du lavage n'abolit pas le rang : elle participe à son expression.
+
+Le titre *Les Lavandières* déplace le regard de l'individu noble vers le groupe féminin qui accomplit cette activité. L'anthropologie du travail permet d'interroger qui agit, qui donne les ordres, qui détient les moyens de transport, qui reçoit le bénéfice du linge nettoyé. Là encore, le texte fragmentaire n'autorise pas de conclure à une critique sociale consciente de Sophocle.
+
+### 44. Les servantes et le risque d'un sujet collectif
+
+Les servantes, dans l'épopée, lavent et jouent avec la princesse avant de prendre peur devant l'inconnu. Elles forment un groupe susceptible de porter le point de vue de personnes plus vulnérables. Si elles formaient le chœur, leurs réactions et leurs chants auraient pu offrir une perspective différente de celle de Nausicaa : la sécurité du groupe, l'honneur de la maison, l'incertitude d'une rencontre et les nécessités du travail.
+
+Mais cette fonction chorale reste une hypothèse. Rien ne permet de publier des strophes où les femmes dénonceraient une domination masculine, ni de supposer qu'elles auraient célébré les vertus de la cité selon des formules propres à notre époque. La question ouverte sur leur voix mérite de rester ouverte.
+
+### 45. La rumeur comme contrainte intériorisée
+
+Nausicaa évite d'entrer dans la ville avec Ulysse pour ne pas nourrir le bavardage. La jeune fille doit ainsi anticiper ce que les autres pourraient raconter, même lorsqu'elle accomplit un acte juste. Une société de réputation exerce une surveillance diffuse sans qu'une autorité officielle intervienne. On peut distinguer ici **jugement moral** et **opinion collective**.
+
+Un parallèle avec la tragédie conservée peut être fait à la condition de rester analogique : dans *Antigone*, la parole publique et les normes de la cité pèsent sur une femme, mais les situations familiales et politiques sont radicalement différentes. Rien ne permet de faire de la pièce perdue un précurseur direct de ce conflit.
+
+### 46. La singularité d'un secours sans possession
+
+Nausicaa sauve l'étranger sans obtenir de lui un mariage, une richesse ou une fidélité. Dans l'*Odyssée*, sa possibilité de désirer un époux comme lui est formulée, mais le héros poursuit sa route vers Pénélope. La scène accueille une relation qui ne se laisse pas réduire à l'union des deux personnages. L'aide n'est pas une transaction matrimoniale.
+
+Cette caractéristique est un point de comparaison fécond pour les traditions de l'hospitalité. Le don peut apparaître avant la détermination de l'identité du bénéficiaire. Il engage l'hôte sans transformer le visiteur en propriété morale. On ne peut toutefois en inférer que la Nausicaa sophocléenne exprimait exactement cette éthique.
+
+---
+
+# VII. Ulysse : identité, vulnérabilité et langage
+
+### 47. Le héros au plus loin de sa puissance
+
+Ulysse possède une histoire glorieuse, mais cette histoire est invisible pour Nausicaa. Il ne dispose ni de ses armes, ni d'une force militaire, ni de la preuve immédiatement crédible de son nom. Il dépend du courage d'une jeune fille. L'épisode montre comment la puissance héroïque devient vulnérable lorsqu'elle perd les supports de la reconnaissance collective.
+
+Un tel renversement pourrait s'inscrire dans le théâtre de Sophocle, qui met souvent en crise la réputation de guerriers prestigieux. Pourtant l'on ne doit pas déduire de l'*Ajax* conservé l'existence de scènes correspondantes dans *Nausicaa*. Une analogie de problème n'est pas une parenté textuelle.
+
+### 48. Dire « je suis » sans être reconnu
+
+Le langage permet à Ulysse d'exister comme interlocuteur avant que la communauté sache qui il est. Sa demande ne dépend pas entièrement de son prestige de roi : il a besoin de vêtements et d'une orientation. Une identité provisoire se constitue par la parole de besoin, et non par l'énumération des exploits.
+
+Ce point ouvre une question philosophique : faut-il aider quelqu'un parce qu'il est roi sous un déguisement, ou parce qu'il est humain et exposé à la souffrance ? Chez Homère, la réponse de Nausicaa invoque le droit des étrangers, sans attendre une généalogie héroïque. Toute appropriation de cette structure par Sophocle reste une hypothèse.
+
+### 49. La persuasion comme souci de l'effet sur autrui
+
+Ulysse sait que son aspect peut effrayer. Il aménage son discours et renonce au geste physique de supplication. Son intelligence est attentive à la manière dont l'autre le voit. C'est en quoi l'épisode diffère d'une ruse visant à voler ou vaincre : la persuasion est d'abord une condition de coexistence.
+
+L'analyse ne doit pas idéaliser le héros au point d'ignorer le caractère stratégique de ses paroles. Une parole peut être sincère et calculée ; la conscience de l'effet produit n'implique pas l'intention de tromper. Cette complexité intéresse la philosophie du langage et l'étude de l'ethos, sans fournir de monologue sophocléen supplémentaire.
+
+### 50. La transformation par le vêtement et le bain
+
+Le héros est lavé, habillé et rendu à une apparence que les hôtes peuvent admettre. La transition montre que la dignité n'est pas seulement une essence intérieure : elle requiert des médiations matérielles. Une personne privée de vêtements ou de nourriture peut être empêchée d'exercer sa parole dans les conditions de la vie collective.
+
+Le livre de Sophocle n'est pas conservé ; il ne faut pas attribuer aux fragments un bain explicite, ni prétendre qu'un costume était changé à vue. Le thème fournit une ligne critique reliant le linge F 439 au monde social de l'épisode homérique, sans réduire l'un à l'autre.
+
+---
+
+# VIII. Philosophie : Platon, Aristote, Hegel, Nietzsche
+
+### 51. Platon : la prudence pratique n'est pas l'art de séduire
+
+Dans le *Gorgias*, Platon distingue les procédés de persuasion de la connaissance qu'ils prétendent parfois remplacer. La parole d'Ulysse à Nausicaa peut être analysée à l'aide de cette distinction : le discours vise à obtenir l'aide d'une personne qui ne dispose pas de preuves complètes. Il faut juger dans l'incertitude sans confondre émotion favorable et savoir.
+
+La comparaison ne signifie pas que Platon commente Sophocle ni que son analyse condamne Ulysse. Elle permet de préciser que le succès d'une supplique ne certifie pas une identité, et que le jugement de Nausicaa repose aussi sur une norme religieuse et morale indépendante de la démonstration factuelle.
+
+### 52. Platon, *République* : apparence, opinion et fonction des récits
+
+La distinction entre ce qui paraît et ce qui est traverse plusieurs livres de la *République*. Ulysse ressemble à un vagabond ; il est pourtant un roi. La scène homérique montre les limites d'une politique fondée uniquement sur les signes extérieurs de prestige. Nausicaa répond à une vulnérabilité que le vêtement pauvre rend perceptible, plutôt qu'à un titre qu'elle ignore.
+
+On doit éviter une formule trop simple selon laquelle « Platon prouve » la supériorité de Nausicaa sur la cité phéacienne. L'œuvre de Platon appartient à une philosophie postérieure et ne constitue pas la clé historique de la tragédie perdue. La comparaison éclaire un problème, sans garantir une doctrine sophocléenne.
+
+### 53. Aristote : reconnaissance et vraisemblance
+
+La *Poétique* réfléchit à la reconnaissance, au renversement et à l'articulation causale de l'action. Le récit du naufragé met en scène une identité dont la reconnaissance est différée ; le jeu de balle devient cause d'une rencontre qui pouvait ne jamais se produire. Ces éléments peuvent nourrir une étude des ressorts dramaturgiques possibles de *Nausicaa*.
+
+Il serait erroné d'affirmer qu'Aristote considérait cette pièce comme un exemple canonique de reconnaissance. Aucun témoignage ne le dit. L'outil aristotélicien sert uniquement à tester la cohérence des modèles : une lessive mène à un jeu, une erreur provoque un cri, le cri réveille l'homme, le discours décide de l'accueil.
+
+### 54. Hegel : la liberté comme reconnaissance de l'autre
+
+La *Phénoménologie de l'esprit* interroge les relations de reconnaissance et la manière dont une conscience peut se constituer dans son rapport à autrui. L'épisode de Nausicaa peut être relu comme un seuil de reconnaissance : un homme sans signes sociaux de sa royauté devient quelqu'un à qui il faut répondre. Une jeune femme gagne sa propre autorité en prenant une décision dont son entourage se détourne.
+
+Cette interprétation est une **application philosophique moderne** ; Hegel ne fournit pas une exégèse connue de F 439–441 Radt. On ne doit ni assimiler l'hospitalité homérique à la dialectique du maître et de l'esclave, ni attribuer à Sophocle une philosophie de l'État moderne. Le rapprochement sert à penser le passage de l'objet inquiétant au sujet reconnu.
+
+### 55. Hegel : la communauté ne se réduit pas au palais
+
+La reconnaissance se déploie dans un réseau de médiations : servantes, princesse, parents, char, vêtements et règles religieuses. L'individu est sauvé par des pratiques collectives avant l'intervention d'une institution explicitement politique. Une lecture de la vie éthique peut partir de cette articulation entre famille, activité et normes d'accueil.
+
+Cependant les Phéaciens de l'épopée ne sont pas une société civile moderne organisée selon les catégories hégéliennes. L'analyse doit conserver les différences d'époque, de régime et de texture littéraire. La « famille » héroïque ne se laisse pas transformer directement en catégorie du *droit* moderne.
+
+### 56. Nietzsche : au-delà du héros triomphant
+
+*La Naissance de la tragédie* étudie le rapport entre apparence, souffrance et puissance artistique ; d'autres textes nietzschéens critiquent les hiérarchies morales et interrogent la représentation du noble. Ulysse réduit à la survie perturbe l'image d'un héros toujours maître de son destin. Ce qui le sauve n'est pas seulement la force, mais la possibilité d'être accueilli.
+
+Il ne faut pas ranger cette interprétation dans une prétendue « doctrine nietzschéenne de Nausicaa ». Nietzsche n'a pas rédigé un commentaire philologique attesté de cette pièce fragmentaire. Le rapprochement permet plutôt de confronter une image héroïque de la puissance à l'expérience d'une dépendance extrême.
+
+### 57. Nietzsche : la honte est-elle nécessaire au secours ?
+
+Le héros se couvre et Nausicaa pense à sa réputation. La honte et le regard social structurent la scène. Avec *La Généalogie de la morale*, on peut poser la question de la formation des évaluations morales : la dignité du visiteur repose-t-elle sur la reconnaissance d'un rang, ou peut-elle se détacher de l'honneur acquis ? La conscience de la honte produit-elle la prudence, ou risque-t-elle de refuser l'aide nécessaire ?
+
+L'intérêt de Nietzsche ne consiste pas à condamner la pitié de Nausicaa par principe, ni à lui substituer un culte de la force. La comparaison doit distinguer la pitié humiliante, la responsabilité envers autrui et la capacité du secouru à retrouver son initiative. Aucune de ces distinctions n'est directement énoncée par les fragments.
+
+### 58. Éthique du care et historicité de la comparaison
+
+La philosophie contemporaine du soin peut éclairer les gestes de Nausicaa : voir une vulnérabilité, accepter une responsabilité limitée, procurer les moyens matériels d'une autonomie retrouvée. Cette comparaison est stimulante parce qu'elle évite de réduire l'accueil à un discours abstrait. Les vêtements et le repas constituent des actes sans lesquels la bonté resterait verbale.
+
+Pour autant, il serait historiquement faux d'attribuer à Sophocle une théorie contemporaine du *care*. Le mot désigne un cadre d'analyse moderne ; l'ancien texte montre des actes, dont la signification sociale dépend d'une autre culture. Les distinctions d'époque sont la condition d'un comparatisme honnête.
+
+---
+
+# IX. Mythologie comparée et religion
+
+### 59. Zeus hospitalier et le statut religieux de l'étranger
+
+Chez Homère, l'accueil des personnes vulnérables est rapporté à Zeus protecteur des étrangers et des suppliants. L'hospitalité n'est pas simplement l'expression d'un tempérament généreux : elle est une norme qui oblige celui qui reçoit et oriente l'appréciation de l'inconnu. La rencontre de Nausicaa et d'Ulysse peut ainsi être lue dans le cadre de la *xenia* et de la *hiketeia*, sans confondre hospitalité et supplication.
+
+Une étude du texte sophocléen devrait vérifier si les noms divins étaient cités dans ses fragments. Ici, les fragments 439–441 ne constituent pas une invocation conservée à Zeus. Le cadre religieux provient de l'*Odyssée* et de la culture grecque, non d'une prière inventée pour la pièce.
+
+### 60. Athéna : un secours divin qui n'abolit pas la décision humaine
+
+Athéna guide la scène homérique : elle inspire le rêve, favorise le jeu qui réveille Ulysse et donne du courage à Nausicaa. Mais la jeune fille accomplit des gestes qui ont une signification propre. L'intervention divine ouvre une possibilité ; elle ne dispense pas la personne aidante de prendre une décision. Le rapport entre assistance des dieux et action humaine ne se laisse pas réduire à un déterminisme simple.
+
+Il est impossible d'affirmer qu'Athéna figurait comme personnage de la tragédie. Un dramaturge pouvait rendre la déesse présente ou ne conserver qu'un récit de ses effets. Toute mise en scène de l'intervention divine dans *Nausicaa* devra rester hypothétique.
+
+### 61. La scène du naufrage et les mythes du passage
+
+Les récits de héros rejetés par la mer puis accueillis dans un monde inconnu forment une famille de motifs largement répandus en Méditerranée. Ulysse, Persée, Danaé, les fondateurs exposés ou les voyageurs à la dérive n'appartiennent pourtant pas à une structure unique interchangeable. Les acteurs, les causes de l'exposition et les conséquences diffèrent fortement.
+
+Une comparaison prudente porte sur des fonctions narratives : rupture de l'appartenance, perte de statut, contact avec des étrangers, réintégration par un acte d'accueil. Elle ne prétend pas établir une origine commune ni une chaîne d'emprunts culturels sans témoins. Il faut éviter de confondre la protection d'un naufragé avec les mythes de sacrifice ou d'initiation au seul motif qu'ils comportent un passage.
+
+### 62. Retour et hospitalité : deux faces de l'*Odyssée*
+
+Le retour d'Ulysse à Ithaque ne serait pas possible sans la protection phéacienne. La communauté de Nausicaa sert d'intermédiaire entre l'isolement marin et la maison du héros. Dans une perspective narrative, l'hospitalité n'est pas un incident secondaire mais la condition du *nostos* — retour — auquel l'ensemble du poème donne son orientation.
+
+Sophocle, si sa pièce se concentrait sur la plage, pouvait offrir au public la représentation d'une condition de possibilité plutôt que l'accomplissement complet du retour. Mais il faut laisser ouverte la question du dénouement. Aucune allusion spécifique à la remise d'un navire au héros n'est garantie par F 439–441.
+
+### 63. Le char et la mer : économie de la circulation
+
+Le char de Nausicaa transporte le linge à travers l'espace terrestre ; les navires phéaciens permettront, plus tard, de transporter Ulysse sur la mer. Ces véhicules appartiennent à deux systèmes d'échange, la maisonnée et la circulation lointaine, que le récit relie. Le mot **λαμπήνη** de F 441 est ainsi particulièrement suggestif, même s'il n'indique pas une scène exacte.
+
+Il serait excessif d'en conclure que Sophocle bâtissait une symbolique complète des transports. La comparaison montre une possibilité de lecture des objets : un moyen ordinaire de se déplacer vers la rivière rencontre un voyageur dont le moyen de retour a été détruit.
+
+### 64. Le linge comme marqueur de civilisation
+
+La séquence de nettoyage et d'habillement figure une transformation : le corps rejeté par la nature est préparé à l'entrée dans un groupe humain. Le vêtement peut alors signaler le passage de l'état d'exposition au statut d'hôte. Il faut toutefois éviter une opposition trop rigide entre « nature sauvage » et « civilisation grecque » : Ulysse est déjà un homme civilisé lorsqu'il est nu, et son humanité ne dépend pas du tissu qu'on lui donne.
+
+Une lecture anthropologique rigoureuse s'intéresse donc au regard des autres et aux moyens concrets de rendre une dignité socialement perceptible, plutôt qu'à une échelle moralement hiérarchisée des cultures.
+
+---
+
+# X. Iconographie archéologique et réception
+
+### 65. Amphore attique de Munich : un témoin majeur
+
+**Munich, Staatliche Antikensammlungen, vase 2322**, amphore attique à figures rouges attribuée au **Peintre de Nausicaa**, datée vers **450–440 av. J.-C.**, provenant de Vulci. La documentation *Perseus Art and Archaeology* précise les deux faces : d'un côté Ulysse nu apparaît devant les jeunes femmes en fuite, avec Athéna intervenant dans la composition ; de l'autre, des servantes manipulent le linge. La notice donne aussi le numéro **Beazley 214640**, le type d'objet et la provenance.
+
+Notice scientifique et photographies institutionnelles : https://perseus-aa.github.io/items/aa_5053.html . **Légende recommandée :** « Ulysse, Nausicaa et les servantes ; lavage et rencontre du naufragé, amphore à figures rouges, v. 450–440 av. J.-C., Staatliche Antikensammlungen de Munich, inv. 2322. Illustration d'une tradition iconographique liée à l'*Odyssée* VI, sans preuve d'une scène théâtrale sophocléenne. »
+
+### 66. Pourquoi le vase ne prouve pas la mise en scène
+
+Il est tentant de voir dans la céramique le reflet immédiat d'une pièce jouée dans les mêmes décennies. Certains commentateurs ont effectivement exploré un lien avec la production dramatique. Mais le peintre peut s'inspirer directement de l'épopée, d'autres récits ou de conventions picturales indépendantes. L'existence d'une œuvre visuelle ancienne ne démontre pas une dépendance spécifique envers Sophocle.
+
+La datation du vase n'est pas la datation de la tragédie. Une apparente concordance chronologique peut encourager une hypothèse de réception, non fonder l'identification d'un costume, d'un chœur ou d'un dispositif scénique.
+
+### 67. Les femmes au linge : double récit pictural
+
+La répartition des images entre les deux faces de l'amphore fait ressortir la juxtaposition entre le travail féminin et l'irruption de l'étranger. Les scènes sont liées par l'épisode homérique, mais elles ne nécessairement forment pas un déroulement « avant/après » exactement équivalent aux vers d'un poète. Les conventions de la céramique permettent d'associer un environnement, un personnage et une série de gestes dans un espace compact.
+
+Ce document est particulièrement pertinent pour F 439 : il rend visible ce que peut signifier l'activité des vêtements, sans trancher entre les lectures philologiques « filer », « empiler » et « étendre ». Une image n'est pas un dictionnaire grec ; elle est une source indépendante à interpréter.
+
+### 68. La pyxide de Boston : second jalon
+
+Une pyxide attribuée à **Aison**, conservée au **Museum of Fine Arts, Boston**, généralement citée sous la cote **04.18a–b** et datée vers **420 av. J.-C.**, appartient aux parallèles iconographiques relatifs à Nausicaa et à la rencontre avec Ulysse, signalés notamment dans la recherche sur F 439. Une consultation institutionnelle de la notice complète est nécessaire avant de reprendre tout détail de scène ou de droits photographiques.
+
+Cette référence constitue un **jalon iconographique comparatif**, non un portrait de l'actrice ayant interprété Nausicaa. La chronologie tardive par rapport aux datations proposées pour Sophocle interdit toute assimilation automatique.
+
+### 69. Reconstitution photographique ou 3D : règle de vérité
+
+Une visualisation contemporaine pourrait représenter une rive, une charrette et des figures occupées au linge ; mais elle devrait porter une légende du type « proposition moderne fondée principalement sur *Odyssée* VI et sur les vases attiques », et non « scène de Sophocle retrouvée ». Les éléments propres à l'archéologie, au récit épique et à l'hypothèse scénique doivent rester identifiables séparément.
+
+La mise en page de MYTHOS devra conserver les références archéologiques et les légendes, sans réintroduire les anciennes images 2,5D retirées du site ni suggérer qu'une image photoréaliste équivaut à une preuve.
+
+---
+
+# XI. Anthropologie du spectacle et portée de l'œuvre perdue
+
+### 70. Du récit entendu à l'action vue
+
+La transposition d'une scène de l'*Odyssée* vers le théâtre change sa relation au temps. L'auditeur homérique suit un récit articulé par un narrateur ; le public dramatique aurait pu voir directement la lessive, la balle et l'apparition du naufragé. Le passé du héros devient présent d'action, et le spectateur éprouve les décisions des personnages sans la même médiation narrative.
+
+L'on ne peut pas affirmer que Sophocle a effectivement montré toutes ces actions. La distinction explique seulement pourquoi cet épisode précis, très riche en gestes, pouvait attirer un dramaturge. Le jeu de balle attesté par la mémoire antique renforce la vraisemblance d'une adaptation corporelle du récit.
+
+### 71. Une pièce « non tragique » au sens courant ?
+
+Une action susceptible de se terminer par une aide réussie paraît éloignée de la catastrophe. Mais l'étiquette moderne d'une pièce n'est pas déterminée par la survie des protagonistes. *Alceste* d'Euripide, conservée, et les pièces de reconnaissance montrent que les frontières entre gravité, issue heureuse et conventions génériques sont plus complexes. La comparaison ne prouve pas le genre de *Nausicaa*.
+
+La bonne conclusion est une suspension du jugement : **le statut de tragédie ou de drame satyrique demeure débattu**, et cette incertitude fait partie du savoir positif à transmettre. L'honnêteté scientifique n'exige pas une certitude là où la documentation n'en fournit pas.
+
+### 72. Pourquoi la mémoire conserve le jeu plutôt que la parole
+
+La transmission indirecte privilégie parfois un trait spectaculaire d'un poète — ici son habileté à jouer à la balle — tandis que presque tous ses vers disparaissent. Ce déséquilibre éclaire les mécanismes d'une mémoire littéraire. Une anecdote racontable franchit plus aisément les siècles qu'une scène de dialogue sans autre intérêt pour les compilateurs.
+
+On se tromperait pourtant en concluant que la pièce était surtout un divertissement acrobatique. Ce qui survit dépend autant des intérêts des copistes et des érudits que de la composition initiale. Les trois fragments et l'anecdote constituent un **échantillon biaisé** d'une œuvre disparue.
+
+### 73. Une critique de la valeur du travail féminin ?
+
+Le titre des *Lavandières*, le verbe discuté de F 439 et l'iconographie du linge font de l'activité féminine un matériau central. On peut légitimement demander si la pièce donnait au travail collectif une place rarement reconnue dans les titres héroïques. Mais qualifier le drame de « critique sociale féministe » ou de célébration des domestiques serait anachronique et non documenté.
+
+La lecture intéressante consiste à examiner une tension : une princesse donne son nom à la pièce, mais un groupe de travailleuses peut aussi lui donner le sien. Ce déplacement du centre d'intérêt ne résout pas l'hierarchie sociale, mais rappelle que l'action dramatique peut être soutenue par celles dont l'épopée fait des accompagnatrices.
+
+### 74. La décision de secourir comme moment décisif
+
+La scène homérique offre une alternative simple et fondamentale : fuir l'étranger ou l'aider. Cette décision a une portée cosmique, si l'on tient compte des interventions d'Athéna et de la protection de Zeus, mais elle se réalise dans des actions très ordinaires. La grandeur de la situation réside dans le fait que le salut d'un héros dépend du comportement d'une jeune femme au bord d'une rivière.
+
+Si la tragédie exploitait cette structure, elle constituerait une méditation sur la fragilité de la vie commune. Ce conditionnel est obligatoire. Nous ne savons pas quel aspect du mythe Sophocle mettait au premier plan, ni comment les fragments étaient entourés de paroles aujourd'hui perdues.
+
+### 75. La voix des marges et l'histoire du canon
+
+Une histoire du théâtre fondée uniquement sur les sept tragédies conservées de Sophocle risque de sous-estimer les sujets non guerriers, les activités féminines et les formes de spectacle qui n'entrent pas aisément dans le modèle de la catastrophe. *Nausicaa ou Les Lavandières* incite à élargir le regard tout en reconnaissant que la preuve fait défaut pour beaucoup d'interprétations.
+
+Elle rappelle une règle de méthode : un dossier fragmentaire ne doit pas être comblé par l'imagination pour devenir pertinent ; il est pertinent parce que sa pauvreté documentaire oblige à analyser précisément les conditions de production de notre savoir.
+
+### 76. Conclusion générale
+
+Il subsiste de la pièce sophocléenne une double désignation, **trois fragments F 439–441 Radt**, une tradition ancienne selon laquelle Sophocle jouait à la balle au cours de la représentation, et un faisceau de parallèles homériques et iconographiques. Ces données établissent une connexion forte avec le monde du chant VI de l'*Odyssée*, mais ne livrent ni chœur assuré, ni date précise, ni genre définitif, ni dénouement.
+
+La recherche moderne a transformé la lecture du fragment 439 : le verbe que l'on traduisait volontiers par « filer » peut être confronté à des valeurs d'« empiler » ou d'« étendre », et cette controverse révèle combien un seul mot peut déplacer la scène imaginée. Le fragment 441 préserve le souvenir d'un véhicule, non la preuve d'un accessoire dramatique. Athénée et Eustathe rendent plausible une dimension corporelle spectaculaire, mais la mémoire littéraire n'est pas une archive de répétition.
+
+À partir de cette base, une étude philosophique peut analyser la vulnérabilité d'Ulysse, le jugement de Nausicaa, le don de vêtements, la peur des servantes, l'autorité de la parole, la réputation et l'hospitalité. Ces problèmes éclairent la puissance de l'épisode source sans attribuer à Sophocle des doctrines ou des scènes que nul témoin n'a conservées. La distinction stricte entre **fait, parallèle, hypothèse et réception** constitue la condition première de l'intégrité de ce volume.
+
+---
+
+# XII. Appareil scientifique et bibliographique
+
+### A. Sources primaires avec références
+
+1. **Homère**, *Odyssée* V, fin ; VI, particulièrement 1–47 (rêve), 48–84 (char), 85–117 (lessive et jeu), 118–197 (réveil, rencontre et parole), 198–250 (secours), 251–315 (rumeur et trajet) ; VII, 1–80 (arrivée à la cité). Texte grec et traduction de référence anglophone, A. T. Murray, sur le corpus Theoi : https://www.theoi.com/Text/HomerOdyssey6.html et https://www.theoi.com/Text/HomerOdyssey7.html .
+2. **Athénée de Naucratis**, *Deipnosophistes*, I, 20e–f, témoin biographique classé **Sophocle T 28 Radt** : l'habileté de Sophocle au jeu de balle lors d'une production de *Nausicaa*. Texte et traduction : https://livingpoets.dur.ac.uk/w/index.php/Athenaeus%2C_Sophists_at_Dinner_1.20e ; édition historique : https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Athenaeus/1B%2A.html .
+3. **Eustathe de Thessalonique**, commentaire sur *Odyssée* VI, autour de l'ancienne référence **1153, 66–67** (selon éditions), **Sophocle T 30 Radt** : mention de *Plyntriai* et de Sophocle interprétant la joueuse de balle. Reprendre la pagination exacte dans l'édition choisie.
+4. **Pollux**, *Onomasticon* VII, 45, citant Sophocle *Plyntriai* : témoin de **F 439 Radt**, terme vestimentaire et verbe controversé.
+5. **Traditions lexicographiques et gloses** concernant le char **λαμπήνη**, classées **F 441 Radt**, à examiner dans l'apparat de TrGF IV.
+6. **Aristote**, *Poétique* 7–11 et 18 : structure de l'action et rôle du chœur. Comparaison théorique, pas notice directe sur *Nausicaa*.
+7. **Platon**, *Gorgias* et *République*, comparaisons sur persuasion, opinion et valeur des apparences ; aucune attribution directe de ces analyses à Sophocle.
+
+### B. Éditions critiques de Sophocle
+
+- Radt, Stefan (éd.), *Tragicorum Graecorum Fragmenta*, IV, *Sophocles*, Göttingen, Vandenhoeck & Ruprecht, édition corrigée et augmentée, **1999**, **F 439–441**, **T 28**, **T 30**. Notice de la Bibliothèque nationale de France : https://catalogue.bnf.fr/ark:/12148/cb41332839g .
+- Pearson, A. C. (éd.), *The Fragments of Sophocles*, 3 volumes, Cambridge, Cambridge University Press, **1917**, vol. II, notice de *Nausicaa* et *Plyntriai*. La concordance de F 439 avec l'ancien **406 Nauck²** est donnée par la discussion de Carrara.
+- Lloyd-Jones, Hugh (éd. et trad.), *Sophocles: Fragments*, Cambridge, MA, Harvard University Press, **1996**, collection Loeb Classical Library. L'édition est à comparer aux corrections et réserves de Radt.
+- Jouanna, Jacques, *Sophocle*, Paris, Fayard, **2007**, en particulier l'inventaire des œuvres perdues et l'étude de l'activité du dramaturge.
+
+### C. Travaux spécialisés et recherches vérifiées
+
+- **Carrara, Laura**, « Il bucato di Nausicaa. Una nuova lettura di Sofocle, fr. 439 R. (Ναυσικάα ἢ Πλύντριαι) », dans Andrea Rodighiero, Giacomo Scavello et Anna Maganuco (dir.), *METra 1. Epica e tragedia greca: una mappatura*, Venise, Edizioni Ca’ Foscari, **2022**, p. **9–38**. Publication du 14 décembre 2022 ; **DOI 10.30687/978-886-969-654-1/001**. Présentation éditoriale : https://edizionicafoscari.unive.it/en/edizioni4/libri/978-886-969-655-8/il-bucato-di-nausicaa/ . Étude fondamentale pour le débat « filer/empiler/étendre » et pour la documentation du jeu de balle.
+- **Olson, S. Douglas**, « ΝΗΣΑΙ in Sophocles, fr. 439 R. », *The Classical Quarterly*, **65.2 (2015), p. 881–882**, **DOI 10.1017/S0009838815000038**. Réévaluation de la valeur verbale du fragment. Notice : https://www.cambridge.org/core/journals/classical-quarterly/article/abs/in-sophocles-fr-439-r/9888472FA91D9DEE9661457298D8377B .
+- **Bononcini, Leonardo**, *Sophocles' Nausicaa*, Rome, **L'Erma di Bretschneider, 2025**, série *Fragmentary Greek Drama*, vol. **4**, **126 p.**, bibliographie p. 109–126, **DOI 10.48255/9788891335579**, ISBN **9788891335579**. Notice éditoriale : https://www.torrossa.com/en/resources/an/6138091 . L'auteur aborde expressément l'histoire de l'œuvre, ses trois fragments, son genre incertain et la date proposée.
+- **Bononcini, Leonardo**, *L'“Odissea” in scena. Trasposizioni dell'“epos” in tre drammi sofoclei frammentari*, thèse de doctorat, Université de Pise, **2025**. Notice de soutenance : https://etd.adm.unipi.it/t/etd-03092025-231438/ . **La thèse n'est pas consultable intégralement** selon cette notice ; ne pas prétendre avoir lu son texte complet.
+- **Pérez Lambás, Fernando**, « Cualidades musicales y actorales en Sófocles: Fuentes y testimonios », *Tycho*, **7 (2021)**, publication de l'Université de Valence. Étude des traditions sur Sophocle musicien et acteur, notamment Athénée : https://rodrick.uv.es/items/4605977d-a02e-4f04-8049-eec24102903f .
+- **Lupi, Francesco**, « ‘Schegge’ di Odisseo. I ‘volti’ dell'eroe nei frammenti dei drammi odissiaci di Sofocle », dans *METra 1*, Venise, Edizioni Ca’ Foscari, **2022**, p. **39–60**. Approches des adaptations odysséennes et des limites des fragments.
+- **Gantz, Timothy**, *Early Greek Myth: A Guide to Literary and Artistic Sources*, Baltimore, Johns Hopkins University Press, **1993**, référence générale pour le cycle odysséen et les variations mythographiques.
+- **Sommerstein, Alan H.**, *The Tangled Ways of Zeus and Other Studies in and around Greek Tragedy*, Oxford, Oxford University Press, **2010** : discussions de titres alternatifs et de problèmes du théâtre fragmentaire à contrôler selon l'édition.
+- **Pickard-Cambridge, Arthur W.**, *The Dramatic Festivals of Athens*, 2e édition revue par John Gould et D. M. Lewis, Oxford, Clarendon Press, **1968**, contexte général des productions, acteurs et chœurs.
+
+### D. Iconographie, objets et limites des notices
+
+- **Munich, Antikensammlungen, vase 2322**, amphore à figures rouges du Peintre de Nausicaa, vers 450–440 av. J.-C. ; Ulysse, Athéna, femmes phéaciennes et lessive. *Perseus Art and Archaeology Browser* : https://perseus-aa.github.io/items/aa_5053.html ; Beazley 214640, ARV² 1107.2. Photographies créditées à la collection munichoise. Ne pas reproduire automatiquement les fichiers sans respecter leurs mentions de droits.
+- **Boston, Museum of Fine Arts, pyxide attribuée à Aison, inv. 04.18a–b**, vers 420 av. J.-C. ; comparandum évoqué dans les études d'Olson et de Carrara ; vérifier la notice et l'autorisation d'image avant intégration.
+- Ces objets **documentent un motif antique**, pas la distribution, les gestes réels des acteurs ni la date de production d'une œuvre de Sophocle.
+
+### E. Concordance des trois pièces odysséennes de Sophocle
+
+- *Nausicaa ou Plyntriai* : **F 439–441 Radt**, étude du chant VI, identité de l'œuvre examinée ici.
+- *Les Phéaciens* (*Phaiakes*) : **F *675–676 Radt**, autre pièce connue par traces fragmentaires, avec hypothèses concernant les récits d'Ulysse à la cour. Le classement et l'astérisque doivent rester explicites.
+- *Niptra* (*Les Lavements*) : dossier critique remanié, dont **F 451a Radt** est signalé dans l'étude doctorale de Bononcini (2025) ; une monographie MYTHOS a déjà été consacrée à cette œuvre sous son propre numéro et doit être préservée.
+- Les trois notices ne doivent pas être fusionnées parce qu'elles partagent la matière homérique. Le titre *Plyntriai* ne doit pas non plus générer un second volume séparé de *Nausicaa*.
+
+### F. Protocoles de rigueur et de publication
+
+Ce manuscrit est **une seule demande** destinée à l'attribution atomique de la collection \`tragedies\`. Les variables **CCXXXV** et **235** ne désignent que son numéro propre à venir. Les nombres **F 439–441**, les références d'Homère, les dates et cotes d'œuvres demeurent littéraux. Le dépôt sous \`editorial/inbox/<uuid>.json\` n'est **pas** une preuve de publication sur le site ; elle exige un reçu écrit avec le manuscrit par GitHub Actions et un contrôle du sommaire, des liens et de l'état de déploiement.
+
+Les archives historiques WordPress ne sont ni publiées ni modifiées ici. Aucun brouillon privé n'est partagé. Les textes numérotés antérieurs restent inchangés. Aucun autre numéro ni aucune planification horaire n'est modifié.
+
+*Fin de la monographie universitaire intégrale.*

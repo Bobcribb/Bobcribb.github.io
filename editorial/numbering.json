@@ -411,6 +411,18 @@
           "path": "chapitres/origines-du-sacre/640-butehamon-turin-2236-ecriture-archaisante-cercueils-memoire-royale.md",
           "request_sha256": "93c83d17a2ef4dcfad7392a71b1e3007bb4611739b385b6145cbc8cd3c4de6ff",
           "initial_source_sha256": "19a7db2eee1be4327004a89935b8bbe1fc02e8b69978cf37e4508e7700685757"
+        },
+        "6f4e72b1-30ac-42eb-a83d-5c87a09bc416": {
+          "number": 641,
+          "path": "chapitres/origines-du-sacre/641-tamoutnefret-louvre-cercueils-ramessides-atelier-dorure-provenance.md",
+          "request_sha256": "565a7cb79702521757b093f773fcd6e36b2072cb5314a271aae6e5cc8d2ed778",
+          "initial_source_sha256": "f61287629c1e3e687e7bf0559d47b4dbd54ff82174406eb6170e3357696f57a7"
+        },
+        "84fb922a-0de1-499c-b0e7-65a2cb48dd09": {
+          "number": 642,
+          "path": "chapitres/origines-du-sacre/642-panebmontou-montou-thebes-coffins-louvre-atelier-rituel-savoir.md",
+          "request_sha256": "955751cae0bfec7799a189251d40366d3deccb21684e1d15c65504e8619732a3",
+          "initial_source_sha256": "4113aefe99011f2320c083dbb867c920e14469e5c68244ca53cfbd39501b6d2e"
         }
       }
     },
@@ -790,6 +802,48 @@
           "path": "chapitres/encyclopedie/chapitre-410-telesphoros-pergame-guerison-enfant-capuchon-asclepios.md",
           "request_sha256": "0166e9df7b7bf0a8aaef82ed5ada9fa85cb0dda443d2cedb044bc261bc725d7e",
           "initial_source_sha256": "c785050ffe111f31077bf9113513da3da50ccf3246ae5fbfa594d8c3e08b4e4f"
+        },
+        "1e5b22cd-3f86-4b6c-a5e4-73d18a2946bc": {
+          "number": 411,
+          "path": "chapitres/encyclopedie/chapitre-411-pothos-desir-absent-erotes-scopas-megare.md",
+          "request_sha256": "f4ce350c5b88e3afe4409f522403e3d350b1d952e239828c8e59b76b6a065df6",
+          "initial_source_sha256": "2eb8e4e224fb6998f6e4310b2101f848aa9a79083125dea34a3899cb5f064237"
+        },
+        "6d8b4f21-7a30-4e5d-b92c-3f7e14a6c805": {
+          "number": 412,
+          "path": "chapitres/encyclopedie/chapitre-412-aristeas-proconnese-arimaspes-apollon-hyperboreens.md",
+          "request_sha256": "d3f32fcf3ad08456d32e91fbb6d927ab30864a2ed2b82deeab491b2e1c238527",
+          "initial_source_sha256": "5f52348be80e6b471b4eb245c37166ecaab792da7d875e22292c8ed75469f5ce"
+        },
+        "71ac9f30-6d2b-4e85-8c13-5e4b8a9d27f0": {
+          "number": 413,
+          "path": "chapitres/encyclopedie/chapitre-413-couretes-corybantes-zeus-enfant-danse-armee-crete.md",
+          "request_sha256": "80c64aa2edd62b5c7b68469703e1bb66e23da82ad493d72cd3088282f7572461",
+          "initial_source_sha256": "990dae7cc886ec79bea045d5070752ebce76d78e7cf3ed73fbe2979250be8f0c"
+        },
+        "7cd8d3a2-44ff-4d66-8bc3-7ab2d2858e90": {
+          "number": 414,
+          "path": "chapitres/encyclopedie/chapitre-414-bendis-deesse-thrace-piree-bendideia-platon-associations-cultes.md",
+          "request_sha256": "ed9c9bfa8fe71e5b0680bd4847af348b477f707cdd38a8447a3c5d802bac999d",
+          "initial_source_sha256": "fec8d19902f608b3380c3208e9c11c11baf452944beef9b1b511a4b2974f4731"
+        },
+        "8c3e1b42-74d9-4a63-92f0-b53c8d6e7a21": {
+          "number": 415,
+          "path": "chapitres/encyclopedie/chapitre-415-alastor-vengeance-sang-atrides-erinyes-tragedie.md",
+          "request_sha256": "fb6eb1d4393f32efe425ca14c881a713b738d9b0b4c1fe43a4ec0af390f4ab19",
+          "initial_source_sha256": "347cc1b06c46927326e0cf24935966d499d80c5bd5c19052682532b11acde029"
+        },
+        "c8a1e4f0-71b6-4d3e-8a9c-2f5d0e6b7a43": {
+          "number": 416,
+          "path": "chapitres/encyclopedie/chapitre-416-eiresione-rameau-pyanepsies-apollon-prosperite.md",
+          "request_sha256": "d00c45a1737c8506fe25ceeb8bdb65515cd42579f14401e21b9c64a2a18c7af2",
+          "initial_source_sha256": "7b9394de50aa83d639cb134ed83e4c71ab8044b949462a388a80f0ce32563c94"
+        },
+        "f31c6b2e-2f49-4d4a-a9e5-6c1d82b75f04": {
+          "number": 417,
+          "path": "chapitres/encyclopedie/chapitre-417-epimenide-crete-sommeil-purification-athenes-cylon.md",
+          "request_sha256": "80937b3ac99eba5da33ed6b7ebe8b9ac6d0d8fb7acc9d79cb6d46a794af4bbf6",
+          "initial_source_sha256": "d48ab0382bc7dc2150ba26f632bcef001918286ae9d4f7bb69664d5ff0a4a68e"
         }
       }
     },
@@ -1048,6 +1102,18 @@
           "path": "chapitres/comedies/volume-091-nikochares-galateia-polypheme-dithyrambe-philonides-cumin-nereides.md",
           "request_sha256": "51b47378599958a76ec81dc7e1067ad3e3c89c818f9b5fea9a3a7a2c40363434",
           "initial_source_sha256": "5688efccce70ccc612c3fb56c114bb00b3712e99bd7a75b6b234a94bd8a1ac04"
+        },
+        "7bb4d1f5-2a9e-4f5b-b8d5-f635c617a049": {
+          "number": 92,
+          "path": "chapitres/comedies/volume-092-nikochares-herakles-gamon-gamoumenos-lavage-genre-hebe-omphale.md",
+          "request_sha256": "c2a18c1d496f39ba5716763dc74339eea8babc2e1258cea5ce6a4f6e9d80ed9e",
+          "initial_source_sha256": "9297709af620d213f87c9f725126c55cc0c0b6f6c499cbfe4b6120c335f93f7b"
+        },
+        "c64e3c58-8721-4edb-9a40-2b19cef1d706": {
+          "number": 93,
+          "path": "chapitres/comedies/volume-093-nikochares-herakles-choregos-financement-choral-costume-chants-travail.md",
+          "request_sha256": "589e0b213cb632cc8c2df6e174f1a2f529702d8f2f9f8053da2ea211c7675f9a",
+          "initial_source_sha256": "3e15c8df2d5b65e3136a85044d952af7dda33ead6916f21b671e44872562c6f9"
         }
       }
     },
@@ -1354,6 +1420,12 @@
           "path": "chapitres/tragedies/volume-ccxxxiv-sophocle-helenes-apaitesis-reclamation-helene-ambassade-logos-antenor.md",
           "request_sha256": "75e4a8996d1d256b411173b0466f64e13ff30e072d233dc9e6692807c2b4cc3f",
           "initial_source_sha256": "a577c29cf716fd05b02aa5cf12c44071e1704970b6b10282cc9126a014efbdcd"
+        },
+        "9bf650dc-7ae1-4de5-a88f-e0e621a06e9d": {
+          "number": 235,
+          "path": "chapitres/tragedies/volume-ccxxxv-sophocle-nausicaa-plyntriai-lavandieres-odyssee-accueil-tragedie-satyrique.md",
+          "request_sha256": "3818d26a0c5502f11b453a0822d712e355fc9b850e548af2006f591dfe6ca54a",
+          "initial_source_sha256": "2a4f69de7e19e89a94d3995b65bc83517baef7e870a96f08fb66bd71bf6a1426"
         }
       }
     },
@@ -1909,6 +1981,12 @@
           "path": "chapitres/comparatif/volume-ccxxxiii-mc-053-soigner-guerir-echouer-medecine-pronostic-responsabilite-dieux-egypte-mesopotamie-grece-inde.md",
           "request_sha256": "1f51abec9d073e7a719dd98c158fb880c4732f888af35eee146d70298d9eaa23",
           "initial_source_sha256": "0eeb2a2bf8c31c84287b07e1b55ac8173e7f0a4b1c2a9341a3b91365c294b2c9"
+        },
+        "519d3d78-86ef-4f76-a502-25e48c9a0054": {
+          "number": 234,
+          "path": "chapitres/comparatif/volume-ccxxxiv-mc-054-quand-les-dieux-rient-humour-divin-crise-cosmique-moquerie-reconciliation.md",
+          "request_sha256": "845edd1986ba856ba0117a2ca5505799016e2f7d3df97f110f1410f1dfc8523c",
+          "initial_source_sha256": "60381274f168daae63a7e016abb84473e4344cfb0f725d1d5f224c68b251c011"
         }
       }
     }

@@ -1,0 +1,119 @@
+# Chapitre 416 — L'Eirésiônè (Εἰρεσιώνη) : rameau sacré, Pyanepsies et prospérité domestique
+
+*MYTHOS — Grande Encyclopédie de la mythologie grecque. Étude universitaire.*
+
+## 1. Objet et méthode
+
+L'eirésiônè est un rameau rituel, généralement d'olivier, orné de laine et de produits agricoles. Les sources associent son port à des chants, aux Pyanepsies et à la protection de la maison. Il ne s'agit pas d'une déesse autonome. Cette étude distingue les descriptions antiques, les reconstructions modernes et les objets archéologiques comparables sans leur attribuer abusivement une fonction identique.
+
+## 2. Philologie
+
+Le terme εἰρεσιώνη (*eiresiōnē*) désigne le rameau décoré. Des étymologies antiques le rapprochent de la laine, mais elles ne valent pas démonstration linguistique définitive. Le vocabulaire des rameaux, bandelettes et offrandes varie selon les auteurs et les régions. La traduction « rameau de supplication » serait trop générale pour couvrir tous les usages.
+
+## 3. Plutarque, Vie de Thésée XXII
+
+Plutarque relie la cérémonie au retour de Thésée de Crète. Le héros et ses compagnons auraient porté un rameau orné de laine et de fruits pour remercier Apollon. Le récit explique un rite par une légende de fondation ; il ne permet pas de dater historiquement l'origine de la fête à l'époque héroïque. Les variantes sur le voyage de Thésée doivent être distinguées.
+
+## 4. Les Pyanepsies
+
+Les Pyanepsies sont une fête athénienne associée à Apollon et au mois de Pyanepsion. La cuisson de légumineuses et le rameau orné participent à une représentation de l'abondance. Il faut distinguer les prescriptions documentées des reconstructions d'un calendrier complet. Les usages ont pu évoluer au fil des siècles.
+
+## 5. Les chants de l'Eirésiônè
+
+Les sources conservent un chant demandant que la maison reçoive figues, pains, miel, huile et vin. La formule présente le rameau comme porteur de biens. Les versions anciennes et les attributions littéraires ne sont pas uniformes ; le texte doit être étudié dans ses témoins plutôt que traité comme une transcription intemporelle d'un seul rite.
+
+## 6. Athénée et les traditions chantées
+
+Athénée, Deipnosophistes VIII, 360c-d environ, transmet des informations sur les chants associés à l'eirésiônè. L'auteur écrit à l'époque impériale et compile des matériaux antérieurs. Il faut distinguer sa date, celle de ses sources et la pratique dont il rend compte. Les indications de vers et les attributions doivent être vérifiées dans les éditions critiques.
+
+## 7. La porte de la maison
+
+Le rameau pouvait être suspendu à une porte. Cette localisation met en relation la sphère domestique et les bienfaits attendus des dieux. Une porte constitue un seuil entre l'espace privé et la rue. La lecture du rameau comme signe apotropaïque est plausible, mais les textes ne donnent pas une doctrine unique de sa fonction protectrice.
+
+## 8. La laine et les bandelettes
+
+La laine apparaît dans de nombreux rites grecs, notamment les supplications et les ornements sacrés. Sur l'eirésiônè, elle contribue à la matérialité du rameau. Il serait cependant abusif d'attribuer partout la même signification à toutes les bandelettes de laine, indépendamment du rite.
+
+## 9. Les fruits et l'économie
+
+Les produits suspendus au rameau représentent la diversité des ressources agricoles. Leur présence peut exprimer gratitude et espérance d'abondance. Les listes de produits appartiennent à des traditions littéraires et ne doivent pas être transformées en inventaires archéologiques de récoltes annuelles.
+
+## 10. Le rameau et Apollon
+
+L'eirésiônè est liée à Apollon dans la tradition des Pyanepsies. Cette association ne signifie pas qu'elle serait une image cultuelle du dieu. Le rameau constitue un support de procession et d'offrande. Les liens entre Apollon, protection de la communauté et rites saisonniers doivent être étudiés selon les témoignages locaux.
+
+## 11. Les Thargélies
+
+Les Thargélies, autre fête d'Apollon, comprennent des traditions de purification et de premiers fruits. Des rapprochements avec l'eirésiônè sont possibles, mais il faut distinguer les fêtes et leurs calendriers. Les rites de purification ne doivent pas être attribués aux Pyanepsies par simple analogie.
+
+## 12. Thésée et la mémoire civique
+
+Le rattachement de la cérémonie au retour de Thésée contribue à faire d'un usage domestique une tradition civique. La légende relie la prospérité de la maison à la mémoire d'un héros fondateur. Ce mécanisme d'étiologie n'établit pas une chronologie historique des institutions.
+
+## 13. La procession
+
+Le port d'un rameau accompagné de chants met en mouvement un groupe dans l'espace public. La procession rend visible une relation entre les familles, les rues et les sanctuaires. Les détails exacts de participation, d'âge et de parcours doivent être tirés de témoignages explicites plutôt que reconstitués librement.
+
+## 14. L'enfance et la transmission
+
+Les chants de porte et les processions peuvent impliquer des jeunes participants. Cette dimension offre un point d'observation sur la transmission des gestes rituels entre générations. Les textes ne permettent pas de conclure que tous les enfants athéniens accomplissaient exactement la même cérémonie.
+
+## 15. Les rameaux de supplication
+
+Les suppliants grecs portent parfois des rameaux entourés de laine. L'eirésiônè partage certains matériaux avec ces objets, mais ses fonctions liées à l'abondance et aux chants de porte la distinguent des simples rameaux de supplication. Une ressemblance matérielle ne prouve pas l'identité des rites.
+
+## 16. Archéologie et conservation
+
+Un rameau végétal décoré de produits périssables a peu de chances de se conserver. L'absence de rameaux archéologiques identifiés ne réfute pas les textes. Inversement, une branche représentée sur un vase ne peut être appelée eirésiônè sans indices suffisants. Les preuves iconographiques doivent être évaluées séparément.
+
+## 17. Vases et processions
+
+Les vases attiques représentent des cortèges, des sacrifices et des porteurs d'offrandes. Ils peuvent contextualiser l'eirésiônè, mais ne constituent pas automatiquement des images du rite. Les notices muséales doivent préciser provenance, datation et identification de chaque scène.
+
+## 18. Religion domestique
+
+Les rites accomplis devant la maison montrent que la religion grecque ne se limite pas aux temples monumentaux. Le seuil, le repas et les récoltes peuvent devenir des lieux de relation aux puissances divines. La comparaison avec Zeus Ktésios et Agathos Daimôn concerne la protection et la prospérité, sans confondre leurs pratiques.
+
+## 19. La prospérité et ses limites
+
+Le rameau exprime une aspiration à l'abondance, mais les sociétés grecques connaissent aussi famines, guerres et inégalités. La représentation rituelle d'une maison prospère ne démontre pas que tous les habitants disposaient des mêmes ressources. Les fêtes peuvent construire un idéal collectif qui dépasse les conditions économiques réelles.
+
+## 20. Platon et les pratiques civiques
+
+Dans les Lois, Platon réfléchit au rôle des fêtes, de l'éducation et des rites dans la vie collective. La comparaison avec l'eirésiônè porte sur la manière dont les gestes partagés construisent une mémoire. Platon ne décrit pas directement cette cérémonie dans les passages mobilisés.
+
+## 21. Aristote et la vie bonne
+
+L'Éthique à Nicomaque I souligne que certains biens extérieurs sont nécessaires au bonheur, sans constituer sa définition complète. L'eirésiônè exprime religieusement le souhait de biens matériels. Le rapprochement est philosophique, non une interprétation antique explicite du rameau.
+
+## 22. Hegel et la reconnaissance
+
+Une lecture inspirée de Hegel peut examiner la manière dont les gestes familiaux deviennent des formes publiques de reconnaissance. Le rite rend visible l'appartenance à une communauté. Cette perspective moderne ne doit pas être présentée comme une intention attestée des participants athéniens.
+
+## 23. Nietzsche et la gratitude
+
+Nietzsche permet de questionner les rapports entre gratitude, dette et célébration de la vie. Une cérémonie de récolte peut être comparée à des formes de reconnaissance des conditions de l'existence. Il serait cependant erroné de faire de l'eirésiônè une illustration directe de la philosophie nietzschéenne.
+
+## 24. Comparaisons romaines
+
+Les traditions romaines connaissent des rameaux, couronnes et offrandes de premiers fruits. Les ressemblances peuvent éclairer des fonctions communes de protection et de prospérité, mais elles ne prouvent pas une transmission directe. Chaque rite doit être replacé dans son calendrier et ses institutions.
+
+## 25. Comparaisons égyptiennes et mésopotamiennes
+
+Les civilisations égyptienne et mésopotamienne possèdent des fêtes agricoles et des offrandes de récolte. Ces analogies fonctionnelles ne démontrent pas que l'eirésiônè dérive d'un rite oriental précis. Les différences de dieux, de calendriers et de supports matériels sont fondamentales.
+
+## 26. Bilan critique
+
+Attestés : le nom eirésiônè, le rameau décoré, les traditions chantées, le rapprochement avec les Pyanepsies et le récit de Thésée. Discutés : étymologie exacte, diversité des chants, répartition des pratiques selon les époques. Non établis : un rite identique dans toutes les cités, l'origine historique directe chez Thésée, l'identification certaine de chaque rameau peint sur vase.
+
+## 27. Programme iconographique
+
+Douze propositions : photographie d'un olivier grec ; vase attique de procession identifié ; détail de bandelettes de laine dans un rite attesté ; plan d'Athènes et des sanctuaires d'Apollon ; calendrier attique des fêtes ; édition critique de Plutarque ; fac-similé d'Athénée ; tableau des produits agricoles ; carte du retour mythique de Thésée ; schéma moderne d'un rameau décoré explicitement hypothétique ; vase de libation ; tableau comparatif eirésiônè-rameau de supplication. Chaque visuel exige provenance, datation, institution, crédit, droits et degré de certitude. Exclure les images 2,5D.
+
+## 28. Bibliographie
+
+Sources : Plutarque, Vie de Thésée XXII ; Athénée, Deipnosophistes VIII, 360c-d environ ; scholies et lexicographes antiques sur les Pyanepsies et l'eirésiônè ; Platon, Lois ; Aristote, Éthique à Nicomaque I. Études : Walter Burkert, Greek Religion (1985) ; Robert Parker, Polytheism and Society at Athens (2005) ; Robert Parker, On Greek Religion (2011) ; H. W. Parke, Festivals of the Athenians (1977) ; Jon D. Mikalson, The Sacred and Civil Calendar of the Athenian Year (1975). Les détails calendaires et les fragments de chants doivent être contrôlés dans les éditions critiques.
+
+## 29. Conclusion
+
+L'eirésiônè transforme un rameau ordinaire en objet rituel de prospérité. La laine, les fruits, les chants et la porte de la maison associent les récoltes à la protection divine. La légende de Thésée donne à cette pratique une profondeur héroïque, sans fournir une datation historique. L'étude révèle une religion grecque des gestes modestes, aussi importante pour les fidèles que les grands monuments des sanctuaires. La prudence archéologique permet de préserver la richesse des pratiques sans inventer d'objets authentifiés.

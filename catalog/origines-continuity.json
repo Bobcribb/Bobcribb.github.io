@@ -190,7 +190,9 @@
     "637": "/chapitres/origines-du-sacre/637-henouttaouy-je26204-stratigraphie-cercueil-reemploi-xxie/",
     "638": "/chapitres/origines-du-sacre/638-nauny-tentabekhenet-noms-reecrits-cercueils-tt358/",
     "639": "/chapitres/origines-du-sacre/639-tanetnahereret-louvre-visages-invisibles-geometrie-ateliers-cercueils/",
-    "640": "/chapitres/origines-du-sacre/640-butehamon-turin-2236-ecriture-archaisante-cercueils-memoire-royale/"
+    "640": "/chapitres/origines-du-sacre/640-butehamon-turin-2236-ecriture-archaisante-cercueils-memoire-royale/",
+    "641": "/chapitres/origines-du-sacre/641-tamoutnefret-louvre-cercueils-ramessides-atelier-dorure-provenance/",
+    "642": "/chapitres/origines-du-sacre/642-panebmontou-montou-thebes-coffins-louvre-atelier-rituel-savoir/"
   },
   "historical_aliases": {
     "/chapitres/origines-du-sacre/576-payer-pour-passer-tarifs-bacs-offrandes/": {
@@ -244,7 +246,7 @@
     "/chapitres/origines-du-sacre/576-payer-pour-passer-tarifs-bacs-offrandes/": "/chapitres/origines-du-sacre/annexe-576-payer-pour-passer-variante/",
     "/chapitres/origines-du-sacre/577-naufrages-secours-divins-survivants/": "/chapitres/origines-du-sacre/580-naufrages-secours-divins-survivants/"
   },
-  "last_numbered_chapter": 640,
+  "last_numbered_chapter": 642,
   "preserved_source_sha256": {
     "chapitres/origines-du-sacre/576-bacs-peages-offrandes-passage.md": "b6704b3484d0c9e0c2e80ea9bdb7e0efa7c6b9723b9b9134f3b7e09c8357e3b1",
     "chapitres/origines-du-sacre/577-monnaies-funeraires-charon-preuves-archeologiques.md": "b4a8e672fb28c90811f531e385cde4bd03aa9f8809613ca6cc8da44e78adf55b",

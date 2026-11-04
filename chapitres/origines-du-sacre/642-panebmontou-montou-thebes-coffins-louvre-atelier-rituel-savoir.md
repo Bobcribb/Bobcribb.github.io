@@ -1,0 +1,279 @@
+# MYTHOS — Les Origines du sacré — Tome DCXLII — Chapitre 642
+
+## Panebmontou : fabriquer un corps de prêtre — cercueil, couverture de momie et savoirs rituels de Montou dans la Thèbes de la XXIe dynastie
+
+*Monographie universitaire d'égyptologie, d'archéologie des ateliers, de philologie sacerdotale et de philosophie de la mémoire. Corpus central : musée du Louvre, E 13029 et E 13046. L'étude est distincte des dossiers MYTHOS sur Tanetnahereret, Nauny, Tamoutnefret et Boutehamon et complète la réflexion sur l'identité funéraire par les catégories de l'autorité sacerdotale.*
+
+### Résumé
+
+Les cercueils de la XXIe dynastie ne sont pas des « livres d'images » dont le décor répéterait indéfiniment un programme uniforme. Leur association, leur emplacement, leurs textes et leur matérialité constituent une sorte d'architecture portative du rite. Le cercueil **E 13029** et la couverture de momie **E 13046** du prêtre **Panebmontou** (forme anglophone *Panebmonthu*) offrent un cas précis où des titres sacerdotaux complexes, un équipement emboîté et plusieurs dispositifs de protection s'articulent.
+
+Les notices du Louvre enregistrent des dignités liées à **Montou, seigneur de Thèbes**, au culte de **Montou-Rê**, à la lecture rituelle et aux « secrets » d'un **arbre-Iched**. Elles décrivent Nout, Isis, Nephthys, Osiris, Thot et la barque solaire, répartis sur des faces visibles et invisibles. Le problème historique n'est donc pas seulement celui d'un défunt « croyant en ces dieux » : il est de comprendre comment une carrière sacerdotale est convertie en **identité durable**, au moyen de textes et d'images qui répondent à des compétences de métier.
+
+Un second problème concerne les archives : les objets furent recueillis dans la seconde collection Cailliaud, passèrent au Cabinet des médailles puis au Louvre. La continuité du mobilier antique, la continuité de la mémoire institutionnelle et la continuité du classement moderne sont trois faits à distinguer.
+
+### 1. Définir l'unité documentaire
+
+Le Louvre possède un **cercueil momiforme, E 13029**, et une **couverture de momie, E 13046**, identifiés au nom de Panebmontou. [P1–P2] La documentation du projet *Faces Revealed* réunit ces deux références comme un ensemble. [P3]
+
+Il est méthodologiquement nécessaire de distinguer couvercle, cuve et couverture ; le terme global de « sarcophage » pourrait masquer leur configuration réelle. Les composantes ne présentent ni les mêmes dimensions ni les mêmes fonctions d'emboîtement. Le dossier cherche donc à reconstruire les relations entre ces éléments sans inventer un troisième cercueil aujourd'hui perdu.
+
+### 2. Les inventaires : E 13029 n'est pas E 13046
+
+La fiche de **E 13029** donne les références historiques **CM 14** et **BN 60**. Pour **E 13046**, les références sont **CM 31** et **BN 61**. [P1–P2] Ces sigles reflètent le passage par le Cabinet des médailles ; ils ne correspondent pas aux numéros d'une tombe égyptienne.
+
+Une confusion des inventaires fausserait immédiatement l'analyse : les décors décrits dans une notice ne doivent pas être transférés sans preuve à l'autre objet. Dans les recherches sur des ensembles dispersés, l'identifiant de collection est aussi important que le nom du défunt.
+
+### 3. La datation : une époque, non un règne
+
+Les deux notices les attribuent à la **XXIe dynastie**, avec une plage conventionnelle d'environ **1069–943 avant notre ère**. [P1–P2] La datation est fondée sur le style. Elle n'autorise pas à situer l'enterrement sous un roi ou un grand prêtre déterminé sans attestation indépendante.
+
+L'inventaire de Panebmontou doit être lu au sein du vaste renouvellement de la production thébaine, mais l'uniformité chronologique des cercueils dits « jaunes » est trompeuse. Les ateliers peuvent maintenir des formes anciennes, les décors peuvent évoluer par variations locales, et un assemblage peut subir des reprises.
+
+### 4. Provenance : la différence entre Thèbes et une tombe fouillée
+
+Les deux fiches indiquent **Thèbes Ouest** ; la documentation moderne mentionne le passage dans la seconde collection de **Frédéric Cailliaud**, acquise en **1824** par le Cabinet des médailles de la Bibliothèque du Roi. Les objets sont ensuite affectés au Louvre, où le registre signale notamment leur arrivée administrative en **1907**. [P1–P2]
+
+Cette provenance large n'est pas une provenance stratigraphique au sens moderne. Un couvercle et une couverture enregistrés dans une même collection ne peuvent être replacés dans une chambre funéraire précise sans autres documents. La biographie du musée ne doit pas devenir par commodité une biographie de la tombe.
+
+### 5. Le nom : une personne particulière à travers des catégories collectives
+
+La graphie française **Panebmontou** et celle, fréquente en anglais, **Panebmonthu** renvoient ici à la même personne désignée dans les objets du Louvre. La translittération complète du nom égyptien exigerait une collation de l'inscription ; aucune lecture signe par signe n'est attribuée à ce dossier en l'absence d'édition épigraphique intégrale consultée.
+
+On peut analyser la composante divine Montou du nom sans convertir celui-ci en simple profession de foi. Les noms personnels renvoient à des modèles et souhaits culturellement partagés ; le sens lexical ne résume pas l'ensemble des choix biographiques d'un individu.
+
+### 6. Les titres sacerdotaux : regarder les variations d'une pièce à l'autre
+
+Le cercueil E 13029 attribue notamment au défunt des fonctions traduites comme **« prêtre-it-nétjer de Montou seigneur de Thèbes »**, **« prêtre-it-nétjer de Montou-Rê »**, **« premier prêtre lecteur »** et **« supérieur des secrets dans le noble arbre-Iched »**. [P1]
+
+La couverture E 13046 énumère des titres proches, parmi lesquels « celui qui ouvre les portes dans le Grand Siège » et « celui aux mains pures ». [P2] La divergence n'autorise pas à inventer une promotion chronologique ; elle peut venir de la place disponible, de conventions propres à chaque objet ou d'une sélection des épithètes.
+
+### 7. Philologie de *it-nṯr* : du père divin au prêtre
+
+La notation conventionnelle *it-nṯr*, que les notices rendent par **« prêtre-it-nétjer »**, correspond littéralement aux éléments égyptiens « père » et « dieu ». Le titre peut constituer une qualification sacerdotale ; le traduire uniquement par « père » en français moderne évoquerait trompeusement une relation généalogique.
+
+Il faut également éviter de construire une hiérarchie certaine à partir de sa simple présence. Les emplois et degrés du titre varient selon les lieux, les périodes et les contextes ; la place de Panebmontou parmi les prêtres de Montou devra être établie par des textes prosopographiques supplémentaires, non par analogie avec des ministères modernes.
+
+### 8. Le prêtre lecteur : texte appris et parole accomplie
+
+La qualification de **premier prêtre lecteur** est particulièrement importante pour une étude des origines du sacré. Le spécialiste appelé conventionnellement *ẖry-ḥbt* dans d'autres corpus est associé à la lecture et à la mise en œuvre de textes rituels.
+
+Une telle fonction suggère que l'efficacité du rite passe par des compétences de récitation, de mémoire et d'accès à l'écrit. Toutefois, l'objet ne conserve ni les performances vocales de Panebmontou ni le texte exact qu'il aurait prononcé dans un sanctuaire. Le titre établit un rôle institutionnel ; la pratique quotidienne reste à reconstruire.
+
+### 9. Le « supérieur des secrets » : ne pas traduire par ésotérisme moderne
+
+La notice évoque un **« supérieur des secrets »** en relation avec le noble arbre-Iched. Le vocabulaire des « secrets » dans les titres sacerdotaux est susceptible de renvoyer à des savoirs rituels, à des réserves d'accès et à des connaissances techniques associées à des sanctuaires.
+
+Il serait anachronique de le transformer en maître d'une société initiatique inconnue. Le mot traduit n'offre pas, à lui seul, la description d'une cérémonie. La recherche doit relier les emplois aux inscriptions parallèles et au contexte du culte de Montou.
+
+### 10. L'arbre-Iched : tradition symbolique et localisation inconnue
+
+L'arbre **Iched** est connu dans la religion égyptienne comme un signe lié au registre de la souveraineté, des noms et de la mémoire cosmique, notamment dans des contextes solaires. Le titre de Panebmontou évoque un « noble arbre-Iched », selon la traduction du Louvre. [P1–P2]
+
+Il faut résister au réflexe de prendre chaque occurrence pour la mention d'un arbre matériel précisément identifié sur un site fouillé. Un espace rituel, une désignation symbolique ou un complexe de textes peuvent être en jeu. Le dossier ne peut localiser un arbre de ce nom à Thèbes sur la seule base du titre.
+
+### 11. « Celui qui ouvre les portes » : la fonction du seuil
+
+La couverture associe Panebmontou à une fonction traduite **« celui qui ouvre les portes dans le Grand Siège »**. [P2] Il convient de distinguer cette épithète sacerdotale des scènes funéraires de passage : le fait que les deux évoquent une porte ne prouve pas que l'une soit l'illustration exacte de l'autre.
+
+Mais la correspondance conceptuelle mérite examen. Ouvrir un sanctuaire et franchir les seuils figurés de l'au-delà relèvent d'opérations de **permission et de contrôle des accès** ; les artistes peuvent puiser dans ce langage commun sans produire un autoportrait professionnel de chaque rite.
+
+### 12. Montou : dieu guerrier, puissance thébaine et dimension solaire
+
+Montou possède un enracinement dans la région thébaine et des associations avec la force, la souveraineté et des formes solaires. Le titre **Montou-Rê** indique une articulation cultuelle qui ne se laisse pas réduire à une « fusion complète des panthéons ».
+
+Panebmontou est désigné en relation avec Montou seigneur de Thèbes. Ce lien n'exclut pas la présence, sur son équipement, d'Osiris, de Rê ou de Nout : le culte professionnel et la protection funéraire mobilisent des réseaux de puissances distincts mais compatibles.
+
+### 13. Le cercueil E 13029 : mesure et architecture
+
+E 13029 mesure environ **192 cm de long, 55 cm de large** ; la notice distingue **36 cm de profondeur pour la cuve** et **32 cm pour le couvercle**. [P1] La forme momiforme décrit une silhouette enveloppée, dotée d'un collier large et d'une perruque tripartite.
+
+Ces données définissent un contenant : sa profondeur et l'agencement du couvercle comptent autant que la longueur. L'existence d'un espace sous le couvercle rend nécessaire l'étude de la position du corps et de la couverture E 13046, plutôt qu'un examen purement frontal des peintures.
+
+### 14. La couverture E 13046 : dimensions et relief
+
+La couverture mesure **180 × 43 cm**, pour une épaisseur annoncée d'environ **17 cm**. La fiche mentionne **bois, stucage, peinture, vernis** et **bas-relief saillant** pour les textes et décors. [P2]
+
+Le bas-relief rend la décoration doublement matérielle : elle existe comme couleur et comme forme. Une photographie orthogonale révèle les motifs ; un relevé de surface peut rendre visibles des volumes peu lisibles lorsque peinture et vernis sollicitent fortement le regard.
+
+### 15. Le scarabée : traverser, revenir, renaître
+
+Le couvercle du cercueil porte sur la poitrine un **scarabée ailé** ; la couverture représente également un scarabée et le **disque solaire** accompagné des figures d'Isis et Nephthys. [P1–P2]
+
+Le thème de Khépri et du soleil renaissant ne constitue pas une promesse individuelle explicitement prononcée par Panebmontou. Il relève d'un système partagé de représentations où le retour cyclique de la lumière fournit le langage d'une continuité désirée après la mort.
+
+### 16. Nout : plafond du monde, protection immédiate
+
+Sur le fond intérieur de la cuve E 13029 figure **Nout ailée** ; sur la couverture E 13046, elle apparaît également avec les ailes déployées. [P1–P2] La répétition crée une organisation spatiale du corps : la divinité n'est pas représentée comme une simple illustration à destination d'un spectateur debout.
+
+Le motif invite à considérer le contenant comme un ciel protecteur. Cette interprétation est compatible avec l'analyse iconographique des cercueils thébains par Rogério Sousa, mais la position exacte de chaque image compte. Un même nom divin ne garantit pas une même fonction à toutes les échelles.
+
+### 17. Isis et Nephthys : deuil et régénération
+
+Le Louvre décrit Isis et Nephthys sur les éléments funéraires de Panebmontou, parfois en figures ailées ou en position d'adoration et de lamentation. [P1–P2] Ces divinités relient la mémoire de la mort d'Osiris à sa protection et à sa régénération.
+
+Il ne faut pas traduire la scène par « deux femmes se lamentent sur la tombe de Panebmontou » : l'image appartient au répertoire mythique. Les pratiques funéraires réelles ont pu mettre en scène des pleureuses, mais l'équivalence entre rite humain et représentation divine doit être argumentée.
+
+### 18. La scène d'adoration d'Osiris
+
+Sur l'extérieur de la cuve E 13029, des figures masculines présentent des adorations à **Osiris** aux côtés notamment de **Maât**, **Thot**, **Anubis** et de fils d'Horus. La composition comprend également une scène d'**intronisation d'Osiris**. [P1]
+
+Ce registre exprime une relation entre souveraineté funéraire et ordre cosmique. Il ne permet pas de prouver une théorie politique propre au prêtre. La scène est un instrument iconographique de légitimation de l'accès au monde osirien, plutôt qu'un récit documentaire de la carrière du propriétaire.
+
+### 19. La Maât de la cuve
+
+La présence de **Maât** parmi les figures de l'ensemble n'autorise pas à reconstituer automatiquement la psychostasie complète du chapitre 125 du Livre des Morts. [P1] La déesse personnifie une norme de rectitude et d'équilibre qui apparaît dans des contextes variés.
+
+Cette distinction est essentielle : une scène de Maât n'est pas un extrait textuel dont la numérotation peut être attribuée sans reconnaissance iconographique et épigraphique précise. La mise en rapport avec le jugement posthume demeure une lecture possible à contrôler.
+
+### 20. La barque de Rê : coexistence solaire et osirienne
+
+La barque solaire apparaît sur la cuve E 13029, tandis que la couverture associe un scarabée ailé au disque et à la barque. [P1–P2] Un même ensemble met donc en relation mouvement solaire et protection osirienne.
+
+La coexistence ne signifie pas une réduction de toutes les divinités à une entité indifférenciée. Elle montre la faculté des programmes funéraires d'articuler plusieurs temporalités : le retour de la lumière et le renouvellement du mort au sein de cycles mythiques.
+
+### 21. L'œil *oudjat* : restituer l'intégrité
+
+Les scènes du cercueil incluent **Thot offrant l'œil oudjat**. [P1] Le motif renvoie à l'intégrité restaurée, à la protection et, dans des récits de référence, à la guérison du dommage subi par l'œil d'Horus.
+
+Il convient de distinguer le récit mythique, le symbole figuré et la technique matérielle d'incrustation des yeux du cercueil. Un *oudjat* peint ne prouve pas une opération de réparation antique du masque, et une réparation du support n'est pas, sans indice, un rite figuré.
+
+### 22. Les quatre fils d'Horus : répartir la garde
+
+**Amset, Hapi, Douamoutef et Qébehsenouf** sont énumérés ou figurés dans la décoration de la cuve. [P1] Ils constituent des protecteurs canoniques du corps et de ses parties dans plusieurs contextes funéraires.
+
+Leurs associations avec les viscères et les points cardinaux peuvent varier dans les formulations et les images. On ne peut pas lire leur présence sur le bois comme la preuve matérielle que des viscères ont été déposés dans le cercueil selon un protocole particulier. Cette dernière question exige une enquête sur la momie, les récipients et la documentation de découverte.
+
+### 23. Pourquoi les images à l'intérieur comptent autant que celles à l'extérieur
+
+Les scènes peintes au fond de la cuve ne sont pas visibles au public durant la majeure partie de la « vie » funéraire de l'objet. Leur utilité ne se réduit donc pas au spectacle de la procession.
+
+On peut parler, analytiquement, d'un dispositif de protection non destiné au regard continu des vivants. Cette différence entre visibilité sociale et efficacité rituelle supposée est centrale pour comprendre le cercueil comme objet opératoire plutôt que comme tableau.
+
+### 24. De l'identité professionnelle à l'identité osirienne
+
+Les titres nomment un prêtre de Montou ; les images le placent dans un univers où interviennent Osiris et les divinités solaires. Ces deux modes d'identification ne se concurrencent pas nécessairement : le premier conserve une position dans la société, le second recherche une transformation dans l'au-delà.
+
+Cette articulation pose une question anthropologique : comment le mort demeure-t-il singulier quand il entre dans un répertoire de scènes largement partagé ? La réponse ne se trouve ni uniquement dans le nom, ni uniquement dans le masque, mais dans leur montage.
+
+### 25. Atelier de sculpture et atelier de peinture : hypothèse de production
+
+Le projet *Faces Revealed* examine séparément la géométrie du relief et la décoration peinte de cercueils anthropoïdes, en combinant photogrammétrie et étude égyptologique traditionnelle. [R1–R2] E 13029 et E 13046 ont figuré dans la liste des objets étudiés au Louvre. [P3]
+
+Cela ne permet pas d'annoncer qu'ils proviennent du **même atelier identifié**, ni de fournir des pourcentages de similarité inventés. Une attribution d'atelier réclamerait une comparaison reproductible des volumes et des techniques avec d'autres objets datés et une description des critères retenus.
+
+### 26. La division des tâches : sculpteur, enduiseur, peintre, scribe
+
+La production d'un ensemble comme celui de Panebmontou requiert des compétences distinctes : concevoir et assembler le bois, modeler le masque, appliquer un enduit, peindre le décor, inscrire les formules et protéger les surfaces.
+
+Cette division est un **modèle opératoire** fondé sur les techniques attestées ; le nombre d'artisans mobilisés sur E 13029 n'est pas connu. Un même individu pouvait accomplir plusieurs opérations. L'archéologie des gestes doit éviter d'inventer des corporations détaillées à partir d'un seul objet.
+
+### 27. Le vernis et la profondeur apparente du masque
+
+Le vernis signalé pour E 13046 modifie la manière dont la lumière révèle les contours. Les réflexions et l'éclat peuvent renforcer ou masquer l'impression d'une bouche, d'un nez ou d'une paupière. [P2]
+
+Cette observation justifie des vues sous éclairage contrôlé et des modèles sans texture. Elle n'implique aucune découverte de peinture cachée ni de nom effacé : ces éventualités ne peuvent être soutenues que par une stratigraphie et des relevés spécifiques.
+
+### 28. Les sources textuelles ne suffisent pas à identifier une main d'artisan
+
+L'écriture hiéroglyphique des formules et titres peut être étudiée selon la forme des signes et l'organisation des colonnes. Mais un même modèle de texte peut être copié par plusieurs scribes, et le décor peut être ajouté dans un autre moment du travail.
+
+Une hypothèse d'atelier doit donc croiser paléographie, géométrie, recettes de peinture et jonctions du bois. Confondre la main du scribe et celle du sculpteur conduit à une histoire trop simple de l'objet.
+
+### 29. Du Louvre au Cabinet des médailles : l'archive d'un transfert
+
+La fiche du Louvre conserve la trace de la seconde collection Cailliaud, puis de l'affectation des pièces depuis le Cabinet des médailles, notée administrativement en 1907. [P1–P2]
+
+Ce parcours n'est pas une anecdote muséale. Il permet de comprendre pourquoi les deux objets possèdent des séries d'identifiants multiples et pourquoi leur association a dû être contrôlée par des inventaires. L'histoire moderne de l'objet constitue une seconde stratigraphie documentaire, distincte de la stratigraphie du bois et de la peinture.
+
+### 30. Montou, le clergé et l'économie du sacré
+
+Dans la Thèbes de la XXIe dynastie, les familles sacerdotales sont insérées dans des réseaux de patrimoine, de biens rituels et de circulation d'objets. Le programme funéraire de Panebmontou peut ainsi être lu comme signe de ressources sociales et d'accès à des spécialistes de l'écrit.
+
+Cette lecture reste sociologique. Elle ne prouve ni le patrimoine chiffré du défunt, ni la manière dont les objets ont été payés. Un investissement matériel dans la mort peut résulter de mobilisations familiales et institutionnelles ; il serait réducteur d'en inférer une « richesse personnelle » à partir de la seule densité iconographique.
+
+### 31. Comparaison avec les ensembles féminins thébains
+
+Le rapprochement avec Tamoutnefret et Tanetnahereret met en évidence un langage funéraire commun — Nout, Isis, Nephthys, barque, scarabée — mais des identités cultuelles distinctes : chanteuse d'Amon, prêtres de Montou, titres divers des familles des temples.
+
+Le comparatisme doit être à double sens. Il permet de repérer ce qui appartient au répertoire collectif sans effacer ce qui singularise chaque propriétaire. Il est interdit de convertir une similitude de peinture en preuve de parenté familiale.
+
+### 32. Jean-Pierre Vernant et Marcel Detienne : des catégories à déplacer avec précaution
+
+L'étude grecque de Vernant et Detienne invite à ne pas isoler les divinités des gestes, positions et espaces dans lesquels elles deviennent socialement opérantes. Transposée comme **méthode de lecture**, cette précaution rappelle que le cercueil est à la fois un objet rituel, un bien matériel et un support de mémoire.
+
+Elle ne justifie pas de poser une filiation entre cultes thébains et institutions de la polis. Une analogie historiographique n'est ni une preuve de diffusion ni une traduction de termes égyptiens.
+
+### 33. Durkheim et l'autorité des titres
+
+Durkheim souligne que les représentations collectives distribuent des positions et des obligations reconnaissables. Dans le cas de Panebmontou, les titres sacerdotaux ne sont pas seulement une information biographique : ils situent le défunt dans un ordre de fonctions sacrées socialement validé.
+
+L'analyse n'implique pas que les croyances individuelles soient entièrement déterminées par la société. Elle montre que l'objet fait reconnaître une compétence cultuelle à travers une langue institutionnelle compréhensible à ses destinataires.
+
+### 34. Hegel : singularité, institution et reconnaissance
+
+Une lecture hégélienne distingue la singularité du nom propre et la généralité de la fonction. Panebmontou est un individu, mais il demeure lisible par ses titres et par des formes de protection qui lui préexistent.
+
+La philosophie ne permet pas de reconstituer son rapport subjectif à Montou. Elle aide à formuler une question théorique : comment une identité sociale peut-elle survivre à la mort sous des supports matériels qui exigent eux-mêmes un travail de conservation et d'interprétation ?
+
+### 35. Nietzsche : le coût de la mémoire
+
+Nietzsche interroge les conditions matérielles et sociales de la mémoire et de la promesse. En milieu funéraire thébain, la permanence recherchée dépend d'une infrastructure : bois préparé, couches peintes, titres répétés, images de dieux gardiens, protection de la tombe.
+
+Cette comparaison ne doit pas suggérer que les Égyptiens partageaient une philosophie nietzschéenne de la dette. Elle met en lumière un trait commun à plusieurs institutions : la mémoire durable est produite par des pratiques et des ressources, non garantie par le seul désir individuel d'être retenu.
+
+### 36. Eliade, Girard et les limites de l'universalisme
+
+Eliade propose une distinction entre espace profane et espace sacré ; le cercueil semble précisément aménager un lieu de protection à l'intérieur d'un contenant. Mais il reste nécessaire de rapporter cette intuition au dispositif concret des images et des noms.
+
+Girard, de son côté, traite des rapports entre sacrifice et violence fondatrice ; rien dans les deux notices étudiées ne permet d'expliquer le programme de Panebmontou par un mécanisme de bouc émissaire. L'absence de cette pertinence directe doit être explicitement reconnue plutôt que compensée par des rapprochements artificiels.
+
+### 37. Comparer avec l'Iran, l'Inde, la Chine et les Amériques : ce que la méthode autorise
+
+Les sociétés iraniennes, indiennes, chinoises et américaines ont connu diverses formes de traitement des morts, d'inscription de noms et de permanence des obligations familiales. Elles ne peuvent pas être rangées dans une catégorie unique de « cercueil sacré ».
+
+Pour une comparaison rigoureuse, on retiendra trois dimensions : autorité des spécialistes du rite, construction d'une identité posthume et organisation matérielle de la protection. Les analogies doivent être documentées par des corpus comparables ; en l'absence de sources primaires choisies et vérifiées pour chacun de ces univers, aucun scénario de diffusion ou d'identité de croyances ne sera affirmé.
+
+### 38. Faits attestés, questions ouvertes et hypothèses expérimentales
+
+**Attesté :** deux objets de Panebmontou sont inventoriés au Louvre (E 13029, E 13046) ; ils sont datés stylistiquement de la XXIe dynastie ; les deux appartiennent à la seconde collection Cailliaud ; les titres de prêtre de Montou, de lecteur et de supérieur des secrets sont inscrits dans les notices ; le cercueil présente des scènes osiriennes et solaires, Nout, Maât, Thot, Isis et Nephthys ; la couverture est en bois stuqué, peint et verni.
+
+**Controversé ou insuffisamment documenté :** datation plus précise, localisation de la tombe, évolution de la titulature au cours de la vie, nombre d'artisans, éventuelles reprises du décor, attribution à un atelier précis et présence d'autres pièces originelles. Aucun nouveau résultat d'imagerie ou d'analyse chimique n'est revendiqué.
+
+**Hypothèses testables :** relever la géométrie du masque et des avant-bras ; comparer les séries de motifs et les proportions avec des ensembles thébains datés ; examiner les stratigraphies d'enduit et les traces d'outils ; collationner intégralement les titres ; confronter les inventaires Cailliaud aux parcours de conservation. Ces tests pourraient préciser l'unité d'atelier et la biographie matérielle sans garantir à l'avance leur résultat.
+
+### 39. Conclusion générale
+
+La singularité de Panebmontou ne consiste pas à avoir possédé des images que nul autre Égyptien n'aurait connues. Elle consiste dans l'articulation d'une carrière ritualisée, d'une titulature précise, de composantes matérielles emboîtées et d'un programme de protection qui associe Montou, Osiris, Rê, Nout et les gardiens du corps.
+
+Son dossier invite à penser l'atelier funéraire comme un lieu de traduction : traduire la fonction sacerdotale en titulature, la titulature en écriture sur bois, le corps mort en image protégée et la fragilité humaine en espérance de durée. L'archéologie fournit les limites de chaque proposition ; la philosophie en interroge la portée.
+
+### Sources primaires et notices muséales vérifiées
+
+**[P1]** Musée du Louvre, *cercueil momiforme de Panebmontou*, **E 13029 ; CM 14 ; BN 60**, datation stylistique XXIe dynastie, iconographie, dimensions, titres et bibliographie, https://collections.louvre.fr/ark:/53355/cl010028689 .
+
+**[P2]** Musée du Louvre, *couverture de momie de Panebmontou*, **E 13046 ; CM 31 ; BN 61**, notices des titres et des matériaux, https://collections.louvre.fr/ark:/53355/cl010020144 .
+
+**[P3]** *Faces Revealed Project*, Museo Egizio, notice de la campagne du Louvre, juin 2022, incluant l'ensemble de Panebmonthu **E 13046 et E 13029**, https://facesrevealed.museoegizio.it/en/section/News/Musee-du-Louvre-Paris/ .
+
+Ces références attestent des **objets originaux et de leur catalogage** ; les traductions des titres sont reprises comme telles des notices du Louvre, non revendiquées comme lectures autonomes sur photographies des hiéroglyphes.
+
+### Bibliographie universitaire
+
+**[R1]** Stefania Mainieri, « Faces Revealed Project and ancient Egyptian yellow coffins: A new methodology step-by-step », *Open Research Europe* **4** (2024), 193, DOI **10.12688/openreseurope.17421.1**, https://ore.eu/ore/article/view/716 .
+
+**[R2]** Stefania Mainieri, « The ‘Invisible’ Side of Yellow Coffins—The Set of the Chantress of Amun Tanethereret in the Musée du Louvre and Some Considerations on the Production of Yellow Coffins in the First Half of the 21st Dynasty », *Arts* **13** (2024), 170, DOI **10.3390/arts13060170**, https://www.mdpi.com/2076-0752/13/6/170 . Méthode comparative ; le cas particulier étudié est celui de Tanethereret, non de Panebmontou.
+
+**[R3]** Andrzej Niwiński et Patricia Rigault, *Les cercueils égyptiens de la XXIe au début de la XXIIe dynastie*, catalogue raisonné du Louvre, Paris, Louvre éditions / Khéops, **2024**, en particulier les pages signalées pour Panebmontou dans la notice E 13029.
+
+**[R4]** France Jamen, « Les prémices d'une étude des textes funéraires inscrits sur les cercueils de la XXIe dynastie : le cas des prêtres-lecteurs », dans F. Albert et G. Lenzo (dir.), *Production et transmission des textes funéraires en Égypte au Ier millénaire av. n. è.*, IFAO, Bibliothèque d'Étude 190, **2024**, p. **65–93** ; référence indexée dans la fiche Louvre E 13029.
+
+**[R5]** Rogério Sousa, *Gleaming Coffins: Iconography and Symbolism in Theban Coffin Decoration (21st Dynasty)*, vol. I, *The Sheltering Sky*, Coimbra University Press, **2018**, DOI **10.14195/978-989-26-1582-0** ; modèle iconographique général et non attribution spécifique à une main d'artisan.
+
+**[R6]** Anders Bettum, *Faces within Faces: The Symbolic Function of Nested Yellow Coffins in Ancient Egypt*, thèse, Université d'Oslo, **2012**, dossier de Panebmontou signalé p. **295–300** dans la bibliographie de la notice Louvre.
+
+**[R7]** Kathlyn M. Cooney, « The End of the New Kingdom in Egypt: How Ancient Egyptian Funerary Materials Can Help Us Understand Society in Crisis », dans S. Kubisch et U. Rummel (dir.), *The Ramesside Period in Egypt*, SDAIK 41, **2018**, p. **63–88**.
+
+**[R8]** Jean-Pierre Vernant, *Mythe et pensée chez les Grecs* ; Marcel Detienne, *Les Jardins d'Adonis* ; Émile Durkheim, *Les Formes élémentaires de la vie religieuse* ; G. W. F. Hegel, *Principes de la philosophie du droit* ; Friedrich Nietzsche, *La Généalogie de la morale* ; Mircea Eliade, *Le Sacré et le profane* ; René Girard, *La Violence et le Sacré*. Ces ouvrages constituent des outils **conceptuels** comparés, non des éditions du corpus égyptien.
+
+**Limite scientifique :** les objets et leurs notices sont vérifiés ; aucune mesure photogrammétrique originale, aucune collation épigraphique complète, aucune analyse de laboratoire nouvelle et aucune reconstruction de tombes ne sont prétendues réalisées pour ce dossier.
