@@ -5,6 +5,7 @@ Presentation only: manuscript paragraphs, source links, IDs and media stay intac
 The final build pass also covers standalone .html files and future chapters.
 """
 from pathlib import Path
+from urllib.parse import quote
 from bs4 import BeautifulSoup
 import html
 import re
@@ -91,6 +92,15 @@ def apply(root):
         for old in doc.select('link[href*="mythos-museum.css"]'):
             old.decompose()
         doc.head.append(doc.new_tag('link', rel='stylesheet', href='/assets/mythos-museum.css?v='+VERSION))
+        # Preserve authored canonical links, and skip redirects and the 404 page.
+        # Alias portals that also have a /directory/ edition use that single URL.
+        if rel != '404.html' and not doc.head.select_one('link[rel~="canonical"]'):
+            canonical_path = url
+            if (rel.endswith('.html') and portal_url in PORTALS
+                    and (root / portal_url.lstrip('/') / 'index.html').is_file()):
+                canonical_path = portal_url
+            doc.head.append(doc.new_tag('link', rel='canonical',
+                href='https://bobmythos.fr' + quote(canonical_path, safe='/-._~')))
         doc.body['class'] = list(dict.fromkeys(doc.body.get('class',[]) + ['mythos-design', 'mythos-portal' if portal else 'mythos-reading']))
         doc.body['data-mythos-design'] = VERSION
         main = doc.main or doc.select_one('article, .container, .article-wrapper')

@@ -196,3 +196,16 @@ body.mythos-design .portal-card .mythos-card-image{
     overflow-wrap:anywhere;
   }
 }
+
+/* Correct in-page jumps from long scholarly tables of contents.
+   Scholarly headings, identifiers and link destinations remain unchanged. */
+body.mythos-design main :target,
+body.mythos-design article :target{
+  scroll-margin-block-start:clamp(76px,10vh,122px);
+}
+@media(max-width:700px){
+  body.mythos-design main :target,
+  body.mythos-design article :target{
+    scroll-margin-block-start:76px;
+  }
+}
