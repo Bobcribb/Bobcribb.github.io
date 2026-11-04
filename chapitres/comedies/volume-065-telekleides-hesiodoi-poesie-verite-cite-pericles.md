@@ -316,7 +316,7 @@ Ce dossier est consacré **exclusivement** à Téléclidès, *Hēsiodoi* ; il ne
 
 **Statut critique :** l'identification des lieux de transmission et des éditions est vérifiée ; le texte grec complet de chacune des citations, leurs variantes et la concordance exhaustive des numérotations éditoriales restent à collationner. Cette réserve doit être conservée dans toute version publiée.
 
-**Navigation de la collection :** [Volume précédent — Téléclidès, *Prytaneis*](../../chapitres/comedies/volume-064-telekleides-prytaneis-boule-tholos-memoire-pouvoir/) · [Théâtre grec](../../theatre/) · [Index intégral](../../catalogue-integral/).
+**Navigation de la collection :** [Volume précédent — Téléclidès, *Prytaneis*](/chapitres/comedies/volume-064-telekleides-prytaneis-boule-tholos-memoire-pouvoir/) · [Théâtre grec](/theatre/) · [Index intégral](/catalogue-integral/).
 
 *MYTHOS — Comédies grecques et œuvres perdues ; manuscrit public, susceptible de corrections scientifiques à numéro constant après publication.*
 
