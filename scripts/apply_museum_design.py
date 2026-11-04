@@ -43,6 +43,7 @@ PICTURES = {
  '/bibliotheque-perse-iran-ancien/': 'mythos-persepolis-apadana-delegations-pentocelo-2006.jpg',
  '/reconstitutions-antiquite/': '/assets/reconstitutions-3d/delphes-apollon-panorama.webp',
  '/reconstitutions-photorealistes.html': '/assets/reconstitutions-3d/delphes-apollon-panorama.webp',
+ '/reconstitutions-photorealistes.html': '/assets/reconstitutions-3d/delphes-apollon-panorama.webp',
 }
 
 def picture(url, root):
