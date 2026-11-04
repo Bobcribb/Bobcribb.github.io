@@ -5,29 +5,47 @@
   "branch": "main",
   "latest_session": {
     "date": "2026-11-04",
-    "kind": "AUDIT ET CORRECTION",
-    "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "scope": "Contrôle ciblé des six études iconographiques et du déploiement public GitHub Pages ; correction du risque de certification d'un rendu périmé.",
-    "basis_commit": "8b34bbe608840045166fa11b597c089cd26d8dd4",
-    "pages_scanned": 6,
-    "images_checked": 69,
-    "figures_checked": 76,
-    "internal_fragments_checked": 401,
-    "stylesheet_references_checked": 27,
-    "script_references_checked": 15,
-    "duplicate_ids": 0,
-    "broken_internal_fragments": 0,
-    "img_without_alt": 0,
-    "assets_checked": "Tous les chemins d'images, CSS et JS mentionnés dans les six pages ont été confrontés aux répertoires du dépôt, y compris assets/philosophie/documents ; aucun fichier local manquant identifié.",
-    "errors_corrected": [
-      "Vérification du reçu de publication JSON exact, en plus de l'inventaire de pages : un ancien déploiement ne peut plus passer en cas de catalogue inchangé.",
-      "Vérification post-déploiement de six figures sur leurs pages réelles (image, légende, statut, source) et des octets SVG/WebP par SHA-256."
+    "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "previous_kind": "AUDIT ET CORRECTION",
+    "next_kind": "AUDIT ET CORRECTION",
+    "scope": "Enrichir les livres Iliade scène par scène et Odyssée chant par chant par trois photographies patrimoniales locales, avec attribution et distinction de l'épopée et de l'archéologie.",
+    "basis_commit": "1f091e207db5c4943ab244cf10c035274f511662",
+    "modified_pages": [
+      "livre-iliade-scenes/index.html",
+      "livre-odyssee/index.html"
     ],
-    "new_tests": "4 tests dans tests/test_verify_live_site_assets.py : inventaire/égalité publique, HTML ancien et WebP altéré, statut manquant, reçu périmé.",
-    "github_pages": "Le run 41797869748 était en cours à l'étape deploy-pages ; ses tests et sa reconstruction avaient réussi lors du contrôle. Le reçu public consulté présentait encore source_commit 5643fe38..., différent du dernier rendu GitHub. La diffusion publique du correctif n'est pas encore vérifiée.",
-    "content_preserved": "Aucun texte universitaire, image, navigation, numéro, registre d'attribution ou automatisation modifié.",
-    "limitations": "Pas d'exécution locale de la suite Python complète ni d'essai visuel mobile. Les liens externes institutionnels n'ont pas été vérifiés exhaustivement en HTTP.",
+    "figures_added": 3,
+    "figures": [
+      {
+        "page": "livre-iliade-scenes/index.html",
+        "figure_id": "mythos-iliade-troie-vi-remparts-20261104",
+        "image": "/media/2026/10/mythos-troie-vi-porte-est-hisarlik-cherryx-2012.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Walls_of_Troy_(1).jpg",
+        "figures_after": 5,
+        "images_after": 3
+      },
+      {
+        "page": "livre-odyssee/index.html",
+        "figure_id": "mythos-odyssee-penelope-telemaque-skyphos-20261104",
+        "image": "/media/2026/10/penelope-telemaque-metier-coupe-chiusi-1831.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Penelope_Painter_-_ARV_1300_2_-_Telemachos_leaving_Penelope_-_Odysseus_recognized_by_his_nurse_-_Chiusi_MAN_1831_-_01.jpg",
+        "figures_after": 4,
+        "images_after": 3
+      },
+      {
+        "page": "livre-odyssee/index.html",
+        "figure_id": "mythos-odyssee-pylos-palais-nestor-20261104",
+        "image": "/assets/philosophie/documents/odyssee-04.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Palace_of_Nestor_ruins_(4).jpg",
+        "figures_after": 5,
+        "images_after": 4
+      }
+    ],
+    "precommit": "AGENTS.md, docs/PUBLICATION_CONCURRENTE.md et le registre relus ; correction actuelle des redirections sans menu confirmée. Les trois fichiers sources existent dans main. Insertion dans H2 uniques, texte original conservé à l’identique, aucun identifiant dupliqué ni ancre absente, balises img avec alt et CSS responsive, provenance, licence, datation et statut explicités.",
+    "ci_obstacle": "Deux runs 41799814279 et 41799814042 échouaient auparavant sur les redirections des dossiers grecs dépourvues de menu. Un commit ultérieur a corrigé scripts/build_navigation.py ; résultat d’une nouvelle CI sur main encore à vérifier.",
+    "public_deployment_status": "Non confirmé pour ces trois ajouts : les fichiers sources et les pages sont dans le dépôt, mais aucune comparaison publique post-commit n'a encore été effectuée.",
+    "preservation": "Aucun chapitre numéroté ajouté, aucun registre d’attribution, aucune suppression de textes, aucun menu, ancien dessin 2,5D, horaire ou autre automatisation modifié.",
+    "obstacles": "Contrôle PDF A4 et rendu visuel sur smartphone non exécutés ; droits et liens externes vérifiés par notices existantes du dépôt, sans test HTTP exhaustif.",
     "commits": []
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
@@ -581,6 +599,51 @@
       "github_pages": "Le run 41797869748 était en cours à l'étape deploy-pages ; ses tests et sa reconstruction avaient réussi lors du contrôle. Le reçu public consulté présentait encore source_commit 5643fe38..., différent du dernier rendu GitHub. La diffusion publique du correctif n'est pas encore vérifiée.",
       "content_preserved": "Aucun texte universitaire, image, navigation, numéro, registre d'attribution ou automatisation modifié.",
       "limitations": "Pas d'exécution locale de la suite Python complète ni d'essai visuel mobile. Les liens externes institutionnels n'ont pas été vérifiés exhaustivement en HTTP.",
+      "commits": []
+    },
+    {
+      "date": "2026-11-04",
+      "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "previous_kind": "AUDIT ET CORRECTION",
+      "next_kind": "AUDIT ET CORRECTION",
+      "scope": "Enrichir les livres Iliade scène par scène et Odyssée chant par chant par trois photographies patrimoniales locales, avec attribution et distinction de l'épopée et de l'archéologie.",
+      "basis_commit": "1f091e207db5c4943ab244cf10c035274f511662",
+      "modified_pages": [
+        "livre-iliade-scenes/index.html",
+        "livre-odyssee/index.html"
+      ],
+      "figures_added": 3,
+      "figures": [
+        {
+          "page": "livre-iliade-scenes/index.html",
+          "figure_id": "mythos-iliade-troie-vi-remparts-20261104",
+          "image": "/media/2026/10/mythos-troie-vi-porte-est-hisarlik-cherryx-2012.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Walls_of_Troy_(1).jpg",
+          "figures_after": 5,
+          "images_after": 3
+        },
+        {
+          "page": "livre-odyssee/index.html",
+          "figure_id": "mythos-odyssee-penelope-telemaque-skyphos-20261104",
+          "image": "/media/2026/10/penelope-telemaque-metier-coupe-chiusi-1831.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Penelope_Painter_-_ARV_1300_2_-_Telemachos_leaving_Penelope_-_Odysseus_recognized_by_his_nurse_-_Chiusi_MAN_1831_-_01.jpg",
+          "figures_after": 4,
+          "images_after": 3
+        },
+        {
+          "page": "livre-odyssee/index.html",
+          "figure_id": "mythos-odyssee-pylos-palais-nestor-20261104",
+          "image": "/assets/philosophie/documents/odyssee-04.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Palace_of_Nestor_ruins_(4).jpg",
+          "figures_after": 5,
+          "images_after": 4
+        }
+      ],
+      "precommit": "AGENTS.md, docs/PUBLICATION_CONCURRENTE.md et le registre relus ; correction actuelle des redirections sans menu confirmée. Les trois fichiers sources existent dans main. Insertion dans H2 uniques, texte original conservé à l’identique, aucun identifiant dupliqué ni ancre absente, balises img avec alt et CSS responsive, provenance, licence, datation et statut explicités.",
+      "ci_obstacle": "Deux runs 41799814279 et 41799814042 échouaient auparavant sur les redirections des dossiers grecs dépourvues de menu. Un commit ultérieur a corrigé scripts/build_navigation.py ; résultat d’une nouvelle CI sur main encore à vérifier.",
+      "public_deployment_status": "Non confirmé pour ces trois ajouts : les fichiers sources et les pages sont dans le dépôt, mais aucune comparaison publique post-commit n'a encore été effectuée.",
+      "preservation": "Aucun chapitre numéroté ajouté, aucun registre d’attribution, aucune suppression de textes, aucun menu, ancien dessin 2,5D, horaire ou autre automatisation modifié.",
+      "obstacles": "Contrôle PDF A4 et rendu visuel sur smartphone non exécutés ; droits et liens externes vérifiés par notices existantes du dépôt, sans test HTTP exhaustif.",
       "commits": []
     }
   ]
