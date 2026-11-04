@@ -180,11 +180,16 @@ class GitRaceTests(unittest.TestCase):
             env={**os.environ,"GITHUB_ACTIONS":"true"}
             result=subprocess.run([sys.executable,"scripts/publish_site.py"],cwd=a,env=env,text=True,capture_output=True)
             self.assertEqual(result.returncode,0,result.stdout+result.stderr)
-            self.assertIn("tentative 2/5",result.stdout)
+            self.assertIn("Nouvelles demandes conservées",result.stdout)
+            state=json.loads(git(origin,"show","main:"+REGISTRY.as_posix()).stdout)["collections"]["origines-du-sacre"]
+            self.assertEqual(sorted([*state["legacy"].values(),*(x["number"] for x in state["allocations"].values())]),[583,584])
+            first_receipts=state["allocations"]
+            self.assertEqual(len(first_receipts),1)
+            replay=subprocess.run([sys.executable,"scripts/publish_site.py"],cwd=a,env=env,text=True,capture_output=True)
+            self.assertEqual(replay.returncode,0,replay.stdout+replay.stderr)
             state=json.loads(git(origin,"show","main:"+REGISTRY.as_posix()).stdout)["collections"]["origines-du-sacre"]
             self.assertEqual(sorted([*state["legacy"].values(),*(x["number"] for x in state["allocations"].values())]),[583,584,585])
-            receipts=state["allocations"]
-            self.assertEqual(len(receipts),2)
+            self.assertTrue(all(state["allocations"][key]==value for key,value in first_receipts.items()))
             first_head=git(origin,"rev-parse","main").stdout
             replay=subprocess.run([sys.executable,"scripts/publish_site.py"],cwd=a,env=env,text=True,capture_output=True)
             self.assertEqual(replay.returncode,0,replay.stdout+replay.stderr)

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Reconstruire sur main à chaque tentative, sans fusionner les rendus générés."""
+"""Publier un rendu vérifié ; reconstruire si ses sources ont changé."""
 from pathlib import Path
 import hashlib
 import json
@@ -21,6 +21,58 @@ def latest_main(repo):
     # Ref explicite : ne dépend pas du refspec d'un checkout superficiel.
     git(repo, "fetch", "--no-tags", "origin", "refs/heads/main:refs/remotes/origin/main")
     return git(repo, "rev-parse", "refs/remotes/origin/main").stdout.strip()
+
+
+def only_pending_requests_or_log(repo, base, tip):
+    """True only for new, valid inbox requests and the non-rendered journal.
+
+    These additions cannot change already allocated numbers or built pages.
+    Changes to an existing request, any registry, source, media or generator
+    still require a fresh allocation and complete build.
+    """
+    if git(repo, "merge-base", "--is-ancestor", base, tip, check=False).returncode:
+        return False
+    fields = git(repo, "diff", "--no-renames", "--name-status", "-z", base, tip).stdout.split("\0")
+    fields = fields[:-1] if fields and fields[-1] == "" else fields
+    if len(fields) % 2:
+        return False
+    from editorial_queue import parse_request
+    with tempfile.TemporaryDirectory(prefix="mythos-incoming-") as tmp:
+        for status, name in zip(fields[::2], fields[1::2]):
+            if name == "EDITORIAL_CONTINUITY.md" and status in {"A", "M"}:
+                pass  # No generator reads this editorial journal.
+            elif status == "A" and Path(name).parent == Path("editorial/inbox") and Path(name).suffix == ".json":
+                request = Path(tmp) / Path(name).name
+                request.write_text(git(repo, "show", tip + ":" + name).stdout, encoding="utf-8")
+                try:
+                    parse_request(request)
+                except (ValueError, TypeError, KeyError):
+                    return False
+            else:
+                return False
+            if not git(repo, "ls-tree", tip, "--", name).stdout.startswith("100644 blob "):
+                return False
+    return True
+
+
+def push_validated_render(repo, worktree, source_sha):
+    for _ in range(5):
+        pushed = git(worktree, "push", "origin", "HEAD:refs/heads/main", check=False)
+        if not pushed.returncode:
+            return git(worktree, "rev-parse", "HEAD").stdout.strip()
+        print(pushed.stderr, flush=True)
+        tip = latest_main(repo)
+        if tip == source_sha:
+            raise RuntimeError("Push refusé sans modification de main : vérifier les droits ou le réseau")
+        if not only_pending_requests_or_log(repo, source_sha, tip):
+            return None
+        # Only disjoint, unallocated inbox additions or journal changes can
+        # reach this merge. No rendered source or allocation is rebased.
+        git(worktree, "-c", "user.name=github-actions[bot]", "-c",
+            "user.email=41898282+github-actions[bot]@users.noreply.github.com",
+            "merge", "--no-edit", "-m", "Conserver les nouvelles demandes en attente [skip ci]", tip)
+        print("Nouvelles demandes conservées pour la prochaine exécution ; rendu vérifié inchangé.", flush=True)
+    return None
 
 
 def guard_render_commit(worktree, allocated=None):
@@ -61,8 +113,8 @@ def synchronize(repo, max_attempts=5):
             git(repo, "worktree", "add", "--detach", str(worktree), source_sha)
             try:
                 # Allocation and source creation use this exact fresh snapshot.
-                # On a rejected push the whole worktree is discarded; a retry
-                # rereads receipts and recomputes numbers, never rebases them.
+                # A conflicting source change discards this worktree. New inbox
+                # requests alone can remain pending without rebasing allocations.
                 result = subprocess.check_output(
                     [sys.executable, "scripts/editorial_queue.py", "apply"], cwd=worktree, text=True)
                 paths = json.loads(result)["allocated"]
@@ -85,18 +137,18 @@ def synchronize(repo, max_attempts=5):
                     git(worktree, "-c", "user.name=github-actions[bot]", "-c",
                         "user.email=41898282+github-actions[bot]@users.noreply.github.com",
                         "commit", "-m", "Actualiser le catalogue GitHub autonome MYTHOS [skip ci]")
-                    published_sha = git(worktree, "rev-parse", "HEAD").stdout.strip()
-                    pushed = git(worktree, "push", "origin", "HEAD:refs/heads/main", check=False)
-                    if pushed.returncode:
-                        print(pushed.stderr, flush=True)
-                        if latest_main(repo) == source_sha:
-                            raise RuntimeError("Push refusé sans modification de main : vérifier les droits ou le réseau")
+                    published_sha = push_validated_render(repo, worktree, source_sha)
+                    if published_sha is None:
                         print("main a évolué : nouvelle reconstruction et nouveaux contrôles.", flush=True)
                         continue
-                # Même un rendu inchangé doit correspondre au main actuel.
-                if latest_main(repo) != published_sha:
-                    print("main a encore évolué : reconstruction avant le déploiement.", flush=True)
-                    continue
+                tip = latest_main(repo)
+                if tip != published_sha:
+                    if not only_pending_requests_or_log(repo, published_sha, tip):
+                        print("main a encore évolué : reconstruction avant le déploiement.", flush=True)
+                        continue
+                    # main already contains the verified render; only later
+                    # requests await their own atomic allocation on the next run.
+                    published_sha = tip
                 shutil.copytree(worktree / "_site", artifact)
                 print(f"Publication validée : source {source_sha}, rendu {published_sha}", flush=True)
                 if os.environ.get("GITHUB_OUTPUT"):

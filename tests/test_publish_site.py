@@ -213,6 +213,80 @@ marker.write_text(str(n))
         self.assertEqual((self.runner / 'chapitres/local.md').read_text(), 'Travail non publié')
         self.assertEqual(self.head(), self.initial)
 
+    def test_new_request_and_journal_do_not_repeat_validated_build_or_renumber(self):
+        from test_editorial_queue import request
+        marker = self.root / 'build-count'
+        self.write(self.editor, 'scripts/build_native.py', BUILDER +
+                   '\nwith Path(' + repr(str(marker)) + ").open('a') as count: count.write('build\\n')\n")
+        first = request(self.editor, 'premier')
+        self.commit(self.editor, 'First queued request')
+        self.command(self.editor, 'push', 'origin', 'main')
+        original_git, raced, second = publish.git, False, None
+
+        def git(repo, *args, **kwargs):
+            nonlocal raced, second
+            if args[:2] == ('push', 'origin') and not raced:
+                raced = True
+                self.command(self.editor, 'pull', '--ff-only', 'origin', 'main')
+                second = request(self.editor, 'second')
+                self.write(self.editor, 'EDITORIAL_CONTINUITY.md', 'Nouvelle demande sans numéro.')
+                self.commit(self.editor, 'Concurrent pending request and journal')
+                self.command(self.editor, 'push', 'origin', 'main')
+            return original_git(repo, *args, **kwargs)
+
+        with patch.object(publish, 'git', side_effect=git):
+            published = publish.synchronize(self.runner)
+        self.assertEqual(published, self.head())
+        self.assertEqual(marker.read_text().splitlines(), ['build'])
+        state = json.loads(self.command(self.remote, 'show', 'main:editorial/numbering.json'))['collections']['origines-du-sacre']
+        original_receipt = state['allocations'][first.stem]
+        self.assertEqual(original_receipt['number'], 584)
+        self.assertNotIn(second.stem, state['allocations'])
+        self.assertEqual(self.command(self.remote, 'show', 'main:' + second.relative_to(self.editor).as_posix()), second.read_text())
+        self.assertEqual(self.command(self.remote, 'show', 'main:EDITORIAL_CONTINUITY.md'), 'Nouvelle demande sans numéro.')
+        publish.synchronize(self.runner)
+        state = json.loads(self.command(self.remote, 'show', 'main:editorial/numbering.json'))['collections']['origines-du-sacre']
+        self.assertEqual(state['allocations'][first.stem], original_receipt)
+        self.assertEqual(state['allocations'][second.stem]['number'], 585)
+
+    def test_compatible_update_rejects_existing_requests_invalid_json_and_symlinks(self):
+        from test_editorial_queue import request
+        pending = request(self.editor, 'nouveau')
+        added = self.commit(self.editor, 'Valid incoming request')
+        self.assertTrue(publish.only_pending_requests_or_log(self.editor, self.initial, added))
+        pending.write_text(pending.read_text() + '\n')
+        changed = self.commit(self.editor, 'Changed existing request')
+        self.assertFalse(publish.only_pending_requests_or_log(self.editor, added, changed))
+        self.write(self.editor, 'editorial/inbox/00000000-0000-0000-0000-000000000001.json', '{}')
+        invalid = self.commit(self.editor, 'Invalid incoming request')
+        self.assertFalse(publish.only_pending_requests_or_log(self.editor, changed, invalid))
+        (self.editor / 'EDITORIAL_CONTINUITY.md').symlink_to('scripts/build_native.py')
+        symlink = self.commit(self.editor, 'Journal is not a regular file')
+        self.assertFalse(publish.only_pending_requests_or_log(self.editor, invalid, symlink))
+
+    def test_request_arriving_after_render_push_remains_pending_for_next_run(self):
+        from test_editorial_queue import request
+        publish.synchronize(self.runner)
+        original_latest, calls, pending = publish.latest_main, 0, None
+
+        def latest(repo):
+            nonlocal calls, pending
+            calls += 1
+            if calls == 2:
+                self.command(self.editor, 'pull', '--ff-only', 'origin', 'main')
+                pending = request(self.editor, 'arrivee-tardive')
+                self.commit(self.editor, 'New request after completed render')
+                self.command(self.editor, 'push', 'origin', 'main')
+            return original_latest(repo)
+
+        with patch.object(publish, 'latest_main', side_effect=latest):
+            published = publish.synchronize(self.runner)
+        self.assertEqual(calls, 2)
+        self.assertEqual(published, self.head())
+        state = json.loads(self.command(self.remote, 'show', 'main:editorial/numbering.json'))['collections']['origines-du-sacre']
+        self.assertNotIn(pending.stem, state['allocations'])
+        self.assertTrue((self.runner / '_site/search.json').is_file())
+
 
 if __name__ == '__main__':
     unittest.main()

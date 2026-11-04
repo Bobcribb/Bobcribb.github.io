@@ -70,9 +70,16 @@ même si GitHub remplace une exécution en attente par une plus récente.
 4. Reconstruire le site, vérifier les textes réconciliés, les sommaires, la
    recherche, le sitemap, les 27 tomes et les 110 médias avant tout push.
 5. Commiter les sources, attributions et rendus ensemble, puis pousser sans force.
-6. Si `main` a changé, abandonner ce résultat local, relire `main` et refaire
-   l'attribution. Aucun rebase de numéro. Après cinq échecs, arrêter sans perdre
-   les demandes déjà enregistrées ; une nouvelle exécution reprend ces UUID.
+6. Si une source, un média, un générateur, un registre ou une demande existante a
+   changé, abandonner le résultat local, relire `main` et refaire l'attribution.
+   Aucun rebase de numéro. Si les seules différences sont de nouvelles demandes
+   valides sous `editorial/inbox/` ou le journal `EDITORIAL_CONTINUITY.md`, les
+   conserver par fusion sans modifier les sources ni attributions déjà validées.
+   Ces nouvelles demandes restent sans numéro jusqu'à l'exécution suivante.
+   Cette exception évite que les arrivées horaires bloquent indéfiniment un rendu
+   valide. Elle n'autorise ni fusion de rendus concurrents ni modification d'un
+   manuscrit publié. Après cinq échecs, arrêter sans perdre les demandes déjà
+   enregistrées ; une nouvelle exécution reprend ces UUID.
 
 Le reçu est la preuve d'attribution. Sa présence rend une reprise inoffensive,
 y compris lorsque le serveur a accepté un push mais que sa réponse s'est perdue.
