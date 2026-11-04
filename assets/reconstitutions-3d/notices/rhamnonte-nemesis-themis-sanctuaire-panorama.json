@@ -27,11 +27,14 @@
   ],
   "rights_and_method": "Reconstitution numérique photoréaliste originale assistée par IA, évocation interprétative non métrique. Aucun menu, texte ou interface incrusté. Ni photogrammétrie ni caution scientifique institutionnelle.",
   "scientific_method": "Documentation patrimoniale grecque et recherche architecturale universitaire; analyse différenciée des vestiges, hypothèses et liberté graphique.",
-  "publication_status": "added_to_github_repository__public_domain_check_required",
+  "publication_status": "image_webp_et_galerie_verifies_sur_bobmythos_fr_le_2026-11-04",
   "sha256": "39450b0d17260e59b83ff6bd30dca13afb5fb8e1084b3ec73169fa03f9374270",
   "width": 1672,
   "height": 941,
   "file_size_bytes": 315700,
   "created_at": "2026-11-04",
-  "source_accessed": "2026-11-04"
+  "source_accessed": "2026-11-04",
+  "public_url": "https://bobmythos.fr/assets/reconstitutions-3d/rhamnonte-nemesis-themis-sanctuaire-panorama.webp",
+  "gallery_url": "https://bobmythos.fr/reconstitutions-photorealistes.html",
+  "verification": "Contrôle indépendant du domaine public : URL WebP accessible, image présente dans le DOM de la galerie, 30 images affichées, fichiers R3D-001 à R3D-013 accessibles."
 }
