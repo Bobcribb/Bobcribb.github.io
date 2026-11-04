@@ -2,7 +2,7 @@
 
 ## Amipsias, *Kōmastai* (Κωμασταί, « Les Komastes / Les Fêtards ») — Complément critique : ivresse, cortège, rire collectif et politique du *kômos* dans l’Athènes de 414
 
-**COMPLÉMENT CRITIQUE — statut éditorial [B].** Cette étude approfondit la même comédie antique que la monographie déjà déposée sous la demande `d4527e3a-64bc-4b20-a37d-2eec5d1af947`. Les deux manuscrits ont été soumis concurremment : **il n'existe pas deux *Komastai* d'Amipsias attestés pour le concours de 414**. Le présent texte est conservé intégralement comme complément autonome par ses analyses et ses scènes [C], non comme monographie d'une seconde pièce. Les titres homonymes de Phrynichos, Épicharme et autres poètes exigent un traitement séparé. La numérotation définitive des deux manuscrits résultera exclusivement des reçus de `editorial/numbering.json` ; les liens croisés seront établis après attribution vérifiée.
+**COMPLÉMENT CRITIQUE — statut éditorial [B].** Cette étude approfondit la même comédie antique que la monographie déjà déposée sous la demande `d4527e3a-64bc-4b20-a37d-2eec5d1af947`. Les deux manuscrits ont été soumis concurremment : **il n'existe pas deux *Komastai* d'Amipsias attestés pour le concours de 414**. Le présent texte est conservé intégralement comme complément autonome par ses analyses et ses scènes [C], non comme monographie d'une seconde pièce. Les titres homonymes de Phrynichos, Épicharme et autres poètes exigent un traitement séparé. Les reçus atomiques de `editorial/numbering.json` ont désormais attribué **LXXI (71)** au présent complément critique et **LXXII (72)** à l’étude principale plus ancienne. Ces numéros et chemins sont conservés sans réécriture ; les deux textes portent sur **une seule comédie antique**.
 
 
 **Monographie universitaire originale — comédie attique perdue, histoire du spectacle, anthropologie du banquet et philosophie comparée. Rédaction MYTHOS, 4 novembre 2026.**
@@ -498,3 +498,7 @@ Cette séparation ne réduit pas la richesse de la pièce perdue. Elle empêche 
 ---
 
 **Suite éditoriale :** prochain volume uniquement après nouvelle inspection de la branche `main`, du registre `EDITORIAL_CONTINUITY.md`, de `editorial/numbering.json`, des notices historiques et des demandes déjà présentes dans `editorial/inbox`. Aucun numéro n’est réservé par ce manuscrit.
+
+---
+
+**Navigation éditoriale vérifiée :** [← Volume LXX — Amipsias, *Moichoi*](/chapitres/comedies/volume-070-ameipsias-moichoi-adultere-droit-citoyennete/) · [Volume LXXII — *Kōmastai*, étude principale →](/chapitres/comedies/volume-072-ameipsias-komastai-kosmos-concours-414-fete-politique/). **Statut :** LXXI est un complément critique ; LXXII est l’étude principale de la même œuvre antique.
