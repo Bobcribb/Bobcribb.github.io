@@ -2,7 +2,7 @@
   "generated_at": "2026-11-04",
   "site": "bobmythos.fr",
   "method": "Illustrations photoréalistes interprétatives, textes et sources hors des pixels.",
-  "count": 25,
+  "count": 26,
   "entries": [
     {
       "id": "DEL-PAN-001",
@@ -461,6 +461,29 @@
       "provenance": "Image synthétique originale produite par IA. Aucun texte, menu de site ou légende n’est intégré dans les pixels. Sources institutionnelles pour les vestiges ; rendu non validé par les institutions.",
       "sha256": "686be1c01245bc4d12b5918c3c477cdf8019e4608c5fcc1f84f72839b321c5bb",
       "scientific_notice": "/assets/reconstitutions-3d/notices/samothrace-rotonde-arsinoe-ii-panorama.json"
+    },
+    {
+      "id": "R3D-017",
+      "slug": "lindos-athena-lindia-acropole-hellenistique",
+      "title": "Lindos (Rhodes) — sanctuaire d’Athéna Lindia et portique hellénistique",
+      "period": "Évocation vers 200 av. J.-C. (fin du IIIe – début du IIe siècle av. J.-C.)",
+      "caption": "Vue photoréaliste interprétative du sanctuaire d’Athéna Lindia, de ses accès monumentaux et d’un grand portique sur l’acropole côtière de Lindos.",
+      "commentary": "Le temple dorique d’Athéna Lindia, amphiprostyle et tétrastyle, relève de la reconstruction du IVe siècle av. J.-C. ; les propylées à escalier monumental sont de la même époque. Un grand portique hellénistique de 87 mètres à 42 colonnes est ensuite ajouté, vers 200 av. J.-C. La coexistence de ces monuments motive une évocation autour de 200 av. J.-C., et NON vers 300 av. J.-C. La topographie précise des terrasses, leur altitude relative et les proportions du portique représentés dans l’image ne doivent pas être considérés comme un relevé ; l’illustration schématise notamment l’articulation architecturale réelle du sanctuaire. Les toitures, pigments, mobiliers et plantations sont hypothétiques. Le rendu ne montre ni la fortification médiévale ni les transformations postérieures à l’époque représentée. L’implantation représentée place le long portique dans un rapport visuel simplifié avec le temple : cette disposition ne correspond pas à une restitution topographique vérifiée. Ne pas interpréter la scène comme un plan fidèle de l’acropole.",
+      "certainty": "Élevé : existence du sanctuaire, temple dorique tétrastyle et amphiprostyle, propylées, portique hellénistique, implantation en hauteur à Lindos. Moyen : datation relative des principaux édifices, composition architecturale globale, présence d’une couverture. Faible : placement relatif précis des bâtiments dans le cadrage, inclinaison et longueur de l’escalier, topographie détaillée, matériau et couleur des toits, végétation, finitions, direction exacte du panorama.",
+      "source_url": "https://www.hh.gr/en/destinations/lindos/",
+      "secondary_sources": [
+        "https://www.culture.gov.gr/el/service/SitePages/view.aspx?iiD=1278",
+        "https://en.natmus.dk/historical-knowledge/historical-knowledge-the-world/the-lands-of-the-mediterranean/the-sanctuary-of-athana-lindia/in-the-house-of-the-goddess/"
+      ],
+      "src": "/assets/reconstitutions-3d/lindos-athena-lindia-acropole-hellenistique.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-04",
+      "type": "Création numérique 3D photoréaliste interprétative, non métrique",
+      "provenance": "Création originale MYTHOS sans texte, menu, interface ou légende incrustés. Notice séparée. Les autorités citées ne valident pas le rendu.",
+      "sha256": "6e52fc9e3302b805e48d9157784e00e8de386ba614bdbbae12ba2e0ae230b015",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/lindos-athena-lindia-acropole-hellenistique.json",
+      "scientific_method": "Illustration interprétative originale ; aucune photogrammétrie, modélisation métrique, ni validation archéologique revendiquée. Les rapports d’élévation entre édifices sont particulièrement incertains dans ce rendu."
     }
   ]
 }
