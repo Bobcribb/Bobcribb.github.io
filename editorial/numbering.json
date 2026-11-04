@@ -803,6 +803,12 @@
           "path": "chapitres/comparatif/volume-clxviii-maurice-godelier-enigme-don-sacres-pouvoir-politico-religieux.md",
           "request_sha256": "145b2b085bb60234e38e005bb53813ce5a1026848c9d0c6ceeb7ddd994436ab6",
           "initial_source_sha256": "6bd157d21098ceadd0af0d17c7f674e9f6f0a59eccf3543f2da85afd4d69fd25"
+        },
+        "681c845e-2544-4eca-b050-87d949e1299d": {
+          "number": 169,
+          "path": "chapitres/comparatif/volume-clxix-arjun-appadurai-vie-sociale-choses-politique-valeur-marchandisation-globalisation.md",
+          "request_sha256": "c2513a23f3fc18ed449a56a8b5b1261ef86857554981abf0e53167df33b7d03f",
+          "initial_source_sha256": "1022c7ef5e94607c9416665a15cc74fff069e24496f33b656069335d902b6ace"
         }
       }
     }

@@ -1,0 +1,318 @@
+# MYTHOS — Cycle comparatif universitaire — Volume CLXIX (169)
+
+## Arjun Appadurai : la vie sociale des choses, la politique de la valeur, la marchandisation et les mondes globalisés
+
+*Étude universitaire autonome et originale en français — 4 novembre 2026. Manuscrit intégral approuvé pour publication publique.*
+
+**Continuité et singularité.** Les volumes comparatifs déjà enregistrés présentent les travaux de Pierre Clastres, Marcel Mauss, Marilyn Strathern et Annette B. Weiner. Une demande nouvelle, distincte et non encore attribuée au contrôle, porte sur Maurice Godelier et la différence entre donner, vendre et conserver. La présente étude ne reproduit aucun de ces dossiers : elle examine l'approche d'Arjun Appadurai, centrée sur les trajectoires sociales des marchandises, la politique de la valeur et la circulation mondiale des images, personnes, techniques et capitaux. Le numéro est laissé exclusivement au processus transactionnel GitHub ; aucune suite n'est réservée.
+
+**Règle scientifique.** [A] désigne un fait bibliographique contrôlé ou un passage primaire précisément localisé ; [B] une interprétation argumentée et reformulée ; [C] une hypothèse comparative ou une proposition méthodologique personnelle à MYTHOS. Les notices de livres ne sont pas présentées comme des lectures intégrales de publications sous accès limité. Les récits antiques sont des sources littéraires et ne fournissent pas directement des statistiques de marché ou une ethnographie sans médiation.
+
+### Résumé
+
+Arjun Appadurai propose d'étudier les valeurs économiques en suivant les objets dans leurs itinéraires sociaux plutôt qu'en présumant que leur statut de marchandise serait une essence fixée à la fabrication. Dans *The Social Life of Things: Commodities in Cultural Perspective* (1986), recueil qu'il dirige, son introduction « Commodities and the Politics of Value » (p. 3-63) examine les circonstances sociales de l'échange et la production politique de la valeur. Le chapitre d'Igor Kopytoff sur la biographie culturelle des objets (p. 64-92), publié dans le même volume mais non rédigé par Appadurai, complète cette hypothèse en décrivant les processus de marchandisation et de singularisation. Le texte « Disjuncture and Difference in the Global Cultural Economy » (*Theory, Culture & Society*, 7/2-3, juin 1990, p. 295-310) puis *Modernity at Large* (1996) déplacent l'analyse vers des circulations globales qui ne progressent pas au même rythme. La présente étude articule philologie, critique de l'économie, philosophie et comparaisons avec les dons homériques, la cité aristotélicienne, le commerce et les sanctuaires grecs, la diplomatie d'Amarna et la conservation patrimoniale. Les ressemblances transhistoriques sont distinguées des filiations démontrables.
+
+---
+
+## I. La vie sociale des objets : déplacement de la question économique
+
+### 1. Un regard anthropologique sur les choses [A/B]
+
+Le titre *The Social Life of Things* ne veut pas dire que les objets ont une conscience humaine. Il désigne un parti pris méthodologique : leurs parcours révèlent des relations entre producteurs, vendeurs, possesseurs, donateurs, héritiers, collecteurs et institutions. Le même artefact peut être marchandise dans un atelier, cadeau dans une famille, offrande dans un sanctuaire puis pièce de musée. Ces transitions ne sont pas seulement des changements de lieu : elles modifient les droits, les critères d'évaluation et les représentations légitimes de l'objet. L'analyse ne dispense pas d'étudier les conditions matérielles de fabrication, mais refuse d'en faire l'unique déterminant du sens social. [B]
+
+### 2. Le livre collectif de 1986 [A]
+
+*The Social Life of Things: Commodities in Cultural Perspective*, dirigé par Arjun Appadurai, paraît chez Cambridge University Press en 1986. La notice de l'éditeur confirme l'introduction d'Appadurai aux pages 3-63, « Introduction: Commodities and the Politics of Value », DOI 10.1017/CBO9780511819582.003. Le volume rassemble des chapitres abordant production, consommation, prestige, mémoire, circulation et transformation des codes de valeur. L'édition numérique du livre et les notices de Cambridge datées de 2014 ne doivent pas être confondues avec l'année de sa première parution imprimée. La publication est une entreprise collective : chaque contribution doit être attribuée à son véritable auteur.
+
+### 3. Kopytoff n'est pas Appadurai [A/B]
+
+« The Cultural Biography of Things: Commoditization as Process », chapitre 2 du recueil (1986, p. 64-92, DOI 10.1017/CBO9780511819582.004), est écrit par Igor Kopytoff. L'attribuer à Appadurai serait une erreur bibliographique. Kopytoff décrit la marchandisation comme une trajectoire culturellement construite : un objet peut être échangeable à un moment, singulier à un autre, et susciter des appréciations incompatibles selon les acteurs. L'éditeur confirme explicitement cette attribution. Appadurai rend possible la perspective d'ensemble sur la vie sociale des choses ; Kopytoff l'approfondit par une enquête sur les biographies et les requalifications. Les deux propositions sont proches, mais leurs démonstrations ne sont pas interchangeables.
+
+### 4. Une marchandise n'est pas une nature [B]
+
+Le langage quotidien parle souvent d'une marchandise comme si sa qualité commerciale venait de la matière ou de sa fabrication. Pourtant des règles peuvent retirer un objet de la vente : monument national, don diplomatique, produit religieux, bien saisi ou objet devenu preuve judiciaire. Il peut aussi être remis en circulation plus tard. Le statut de marchandise n'est donc pas nécessairement permanent. Cette observation n'implique pas que tous les objets ont la même probabilité d'être vendus. Les structures industrielles, les droits d'accès et la rareté imposent de puissantes contraintes. La question sociologique est de savoir à quelles conditions la cession devient concevable et reconnue.
+
+### 5. La politique de la valeur [A/B]
+
+L'introduction d'Appadurai défend l'idée que la relation entre échange et valeur passe par la politique, entendue largement : pouvoir de qualifier, de fixer les conditions d'accès, de classer les biens et de définir une prestation recevable. Le prix n'est pas seulement un chiffre constaté ; il se forme dans des relations de désir, de négociation, de hiérarchie et de règles. Une valeur exceptionnelle peut dépendre d'un monopole, de la rareté cultivée ou de la provenance prestigieuse. Il ne s'ensuit pas que toute valeur soit arbitraire ou que la qualité matérielle soit indifférente. Les coûts, techniques et propriétés physiques demeurent des contraintes.
+
+### 6. Simmel et le désir différé [A/B]
+
+Appadurai mobilise la réflexion de Georg Simmel dans *The Philosophy of Money*, ouvrage paru en allemand en 1900, puis dans une édition remaniée de 1907. La valeur y apparaît liée au désir et à la difficulté d'obtenir l'objet plutôt qu'à une substance mesurable indépendamment des relations. L'introduction de 1986, p. 3-63, cite explicitement Simmel comme ressource philosophique. Le recours à Simmel n'abolit pas les théories de la production ou du travail : il éclaire la manière dont la distance entre aspiration et possession peut participer aux évaluations. L'étude scientifique doit distinguer désir subjectif, normes publiques et prix de transaction.
+
+### 7. Pourquoi suivre les objets ? [B]
+
+Suivre un objet donne accès à des relations qui apparaissent séparées dans les archives : atelier, marché, sanctuaire, palais, musée, collection privée. La chaîne de provenance peut révéler la répartition du pouvoir de décider, des changements de nom et des conflits de légitimité. Cette méthode possède une limite : elle privilégie les objets conservés ou enregistrés, pas nécessairement les activités les plus décisives du point de vue économique. Les biens périssables, les services et le travail non payé risquent d'être sous-documentés. Il faut donc articuler la biographie d'objet à une analyse des personnes et des institutions.
+
+### 8. Un objet, plusieurs régimes simultanés [B]
+
+La marchandisation ne s'effectue pas toujours selon une succession simple « chose vendue, puis conservée ». Une peinture peut être juridiquement commercialisable tout en étant regardée par des proches comme inséparable d'une mémoire familiale. Un artefact muséal peut avoir une valeur d'assurance mais être hors du marché. Un objet sacré peut être vendu illicitement et continuer à être jugé inaliénable par un groupe. Le conflit entre évaluations fait partie du terrain. L'anthropologue ne doit donc pas attribuer un statut unique sur la seule présence d'un prix, d'un inventaire ou d'une interdiction.
+
+## II. Marchandisation, singularisation, biographie
+
+### 9. La « situation marchande » [B]
+
+Une situation marchande se définit par les conditions dans lesquelles un objet devient susceptible d'être échangé contre une contrepartie selon des procédures socialement reconnues. La situation n'est pas une qualité éternelle de l'objet. Le cadre peut être formel, comme un contrat, ou informel, comme une négociation entre partenaires. L'analyse demande quelles personnes disposent du droit de vendre, quels objets sont éligibles et quelles sanctions existent. Un prix exprimé dans une unité monétaire ne suffit pas à démontrer une transaction : il peut être estimation, compensation, garantie ou inscription comptable. Les catégories doivent être reconstruites avant toute comparaison entre sociétés.
+
+### 10. La « candidature » à la marchandise [B]
+
+Il faut distinguer la possibilité d'être proposé à l'échange de la réalisation effective d'une vente. Un objet de musée peut avoir un marché potentiel illégal alors que le droit de propriété le rend normalement incessible. À l'inverse, un bien ordinaire peut n'avoir aucun acquéreur à un moment donné. Cette différence est utile à l'étude des patrimoines et du commerce antique. Il serait erroné d'identifier l'absence de ventes connues à une inaliénabilité générale. L'enquête doit chercher les procédures par lesquelles un bien entre dans une classe de choses négociables.
+
+### 11. Les contextes de circulation [B]
+
+Chaque transaction prend place dans une institution : marché, présent diplomatique, prestation de mariage, offrande, partage de dépouilles, donation publique. Les gestes peuvent être matériellement semblables tout en créant des obligations différentes. Remettre une coupe à un hôte et la déposer dans un sanctuaire sont deux opérations auxquelles le même mot « donner » peut s'appliquer, sans que les droits transmis soient identiques. Appadurai encourage à étudier les contextes au lieu d'imposer un vocabulaire d'échange uniforme. Cette prudence vaut particulièrement pour les sources antiques, dont les descriptions sont souvent littéraires ou normatives.
+
+### 12. La biographie culturelle selon Kopytoff [A/B]
+
+Kopytoff propose de demander d'où vient un objet, qui l'a fabriqué, qui l'a possédé, quelles valeurs lui ont été attribuées et quelles transformations l'ont marqué. Cette biographie ne suppose pas une vie biologique des choses : il s'agit d'une méthode pour reconstituer des requalifications socialement produites. Une statuette peut être objet d'atelier, offrande, prise de guerre, acquisition de collectionneur et pièce patrimoniale. Les documents ne permettront peut-être d'identifier que certaines étapes. Il faudra alors distinguer une chronologie attestée d'une séquence plausible. Le schéma biographique ne doit pas devenir une fiction continue comblant les silences archivistiques.
+
+### 13. Singulariser : faire sortir du commun [B]
+
+Une marchandise peut être singularisée lorsqu'un groupe lui attribue une qualité qui la distingue des objets substituables. La signature, l'âge, une provenance particulière, l'usage rituel ou l'association à une personne prestigieuse peuvent produire cette singularité. Mais cette opération peut elle-même accroître la valeur marchande d'un bien plutôt que le soustraire au commerce. La singularisation et l'inaliénabilité ne sont donc pas synonymes. L'une qualifie un statut distinctif, l'autre une restriction à l'aliénation. Pour Appadurai et Kopytoff, cette ambiguïté montre la force des classifications sociales dans la vie des objets.
+
+### 14. La patrimonialisation comme transformation [B/C]
+
+Le passage d'un objet à la catégorie de patrimoine peut modifier l'accès, la conservation, le discours scientifique et les droits de reproduction. Un artefact naguère courant devient exemplaire d'une histoire collective. Sa valeur sociale est reconstruite par des institutions, expertises et usages publics. La comparaison avec Appadurai est heuristique : elle aide à poser des questions sur le pouvoir de nommer et d'exposer. Elle ne permet pas à elle seule de déterminer si un objet doit être restitué à sa communauté d'origine ou rester dans un musée. Les provenances, le droit et les demandes des personnes concernées requièrent une enquête supplémentaire.
+
+### 15. Objets courants, objets prestigieux [B]
+
+Les circuits de valeur peuvent se séparer selon que les marchandises sont ordinaires, prestigieuses, réservées à certaines personnes ou interdites dans des contextes particuliers. L'objet coûteux n'est pas nécessairement le plus sacré ; l'objet rare n'est pas toujours le plus utile. La politique de l'évaluation implique la possibilité d'établir des différences et d'en contrôler l'accès. Il ne faut pourtant pas prêter à toute société une division rigide entre deux ou trois classes. Les critères de classification sont historiques, parfois disputés, et peuvent changer avec le marché, la guerre ou la législation.
+
+### 16. Biographies conflictuelles [B]
+
+Un acheteur peut concevoir un objet comme un investissement, un héritier comme un souvenir et une communauté comme un bien soustrait à la vente. Ces biographies simultanées peuvent déclencher des litiges. La valeur ne se déduit pas de la seule transaction conclue, car certains acteurs récusent précisément sa légitimité. L'intérêt d'Appadurai est de rendre ces conflits visibles. Une recherche sérieuse doit éviter la tentation d'accorder automatiquement le dernier mot au vendeur ou au premier détenteur. Il faut reconstruire les titres, les contextes de cession et les politiques de reconnaissance.
+
+## III. Philologie : les mots de la valeur et de la circulation
+
+### 17. *Commodity* : une catégorie historiquement chargée [B]
+
+L'anglais *commodity* est lié à une histoire lexicale latine autour de *commoditas*, l'avantage ou la convenance, mais sa signification économique moderne ne se déduit pas d'une simple étymologie. « Marchandise » en français renvoie également à des institutions de commerce spécifiques. Traduire tout bien échangé par *commodity* risque d'ignorer les distinctions de prestations, présents, tributs ou offrandes. Dans les sources anciennes, les mots de circulation ont des usages religieux, politiques et juridiques différenciés. L'analyste doit donc annoncer lorsqu'il utilise « marchandise » comme catégorie comparative moderne plutôt que comme traduction directe d'un terme local.
+
+### 18. *Chrēmata* (χρήματα) : choses utiles et richesses [B]
+
+Le grec χρήματα (*chrēmata*) peut désigner des biens, de l'argent ou des choses utiles suivant les textes et les contextes. Le mot appartient à une famille issue du verbe χράομαι (*chraomai*), qui exprime notamment l'usage ou le recours à quelque chose. L'étymologie suggère un horizon d'utilisation, mais ne fournit pas un concept unique de marchandise. Dans les traités philosophiques, richesse et usage font l'objet de distinctions normatives. Il serait incorrect de traduire systématiquement *chrēmata* par « capital » au sens de l'économie moderne. Chaque occurrence demande son contexte textuel et institutionnel.
+
+### 19. *Emporos* (ἔμπορος), *emporion* (ἐμπόριον) [B]
+
+Le grec ἔμπορος (*emporos*) désigne notamment une personne engagée dans des circulations commerciales et ἐμπόριον (*emporion*) un lieu ou dispositif associé aux échanges, selon les époques. Ces mots ne prouvent pas l'existence d'un marché autorégulateur moderne chez les Grecs. Les ports, protections juridiques, droits de douane et relations entre cités déterminent les conditions effectives du commerce. Une étude de la vie sociale des objets doit croiser vocabulaire et structures : les biens peuvent traverser des frontières civiques tout en conservant un prestige ou une fonction sacrée dans leur destination finale.
+
+### 20. *Dōron* (δῶρον) : présent ou prestation [B]
+
+Le terme grec δῶρον (*dōron*) possède une aire sémantique large : présent entre personnes, offrande, prestation d'honneur selon les contextes. Il ne permet pas de distinguer automatiquement une économie du don d'une économie des marchandises. Dans les récits homériques, un objet remis à l'hôte peut être inséré dans une relation durable, alors qu'un métal précieux peut également être évalué selon une unité de comparaison. La distinction appaduraienne exige de suivre les trajectoires de l'objet plutôt que de décider une fois pour toutes que *dōron* signifierait « non-marchandise ».
+
+### 21. *Xeinēion* (ξεινήιον) : présent d'hospitalité [A/B]
+
+Le vocabulaire homérique associé au *xenos* peut désigner les présents faits à l'hôte. Dans l'*Odyssée* VIII, le roi Alcinoos organise une collecte de cadeaux pour Ulysse, dont des vêtements, de l'or et une épée en réparation d'une offense. La circulation ne ressemble pas à un achat direct sur un marché. Elle manifeste la position d'un étranger accueilli et la capacité des élites à produire publiquement une relation. La perspective d'Appadurai invite à rechercher la suite des objets et leur transformation en souvenirs ou ressources domestiques. Le poème n'est pourtant pas une statistique ethnographique de la Grèce historique.
+
+### 22. *Nomisma* (νόμισμα) et la mesure monétaire [B]
+
+Le grec νόμισμα (*nomisma*) est apparenté à νόμος (*nomos*), terme de règle, usage ou loi selon les emplois. Chez Aristote, l'argent est conçu dans la perspective de relations conventionnelles permettant une mise en équivalence. Cette observation ne prouve pas que toute valeur serait un pur accord sans lien aux ressources matérielles. La monnaie résulte d'institutions, de confiance, de métaux, de pratiques comptables et d'autorités. La comparaison avec Appadurai montre que l'instrument de mesure fait partie de la politique de la valeur. Il reste nécessaire de distinguer les contextes des cités antiques de ceux des marchés financiers modernes.
+
+### 23. *Timē* (τιμή) : honneur ou prix [B]
+
+La polysémie de τιμή (*timē*), qui peut concerner honneur, estimation ou valeur, montre que les classifications de prestige et d'évaluation ne s'ignorent pas. Cela n'autorise pas à déclarer que le prix moderne et l'honneur homérique seraient une seule et même chose. Le mot reçoit ses valeurs dans des institutions et des genres littéraires distincts. La théorie de la valeur politique d'Appadurai permet de poser une question : comment une estimation économique peut-elle participer à la reconnaissance publique ? Les sources grecques doivent ensuite répondre selon leurs propres catégories, sans être forcées dans une théorie élaborée au XXe siècle.
+
+### 24. *Anathēma* (ἀνάθημα) : le statut après la dédicace [B]
+
+Un objet consacré peut changer de régime social au moment de la dédicace. Le terme grec ἀνάθημα (*anathēma*) invite à suivre cette transition plutôt qu'à supposer une essence sacrée permanente. Le matériau reste identique, mais la possession, la visibilité, la possibilité de déplacement et la finalité de l'objet peuvent se transformer. La théorie d'Appadurai et de Kopytoff fournit ici des questions plutôt que des réponses : la cession originelle implique-t-elle une interdiction de vente ? qui administre l'offrande ? à quelles conditions peut-elle être réparée ou refondue ? Ces problèmes exigent l'étude d'inscriptions et d'inventaires spécifiques.
+
+## IV. Comparaisons antiques : objets, dons et prestige
+
+### 25. Homère, *Iliade* VI, 215-236 [A/B]
+
+Diomède et Glaucos reconnaissent un lien d'hospitalité hérité de leurs familles. Ils échangent leurs armures, l'une d'or évaluée à cent bœufs, l'autre de bronze à neuf. Le narrateur relève explicitement le déséquilibre. Ce passage permet de distinguer la valeur quantitative, le jugement du narrateur et la relation entre les hommes. Les objets entrent dans une trajectoire qui les lie à des échanges antérieurs entre ascendants. Appadurai aide à interroger la production politique de la valeur, mais ne peut remplacer l'analyse de la fonction poétique de la scène ni établir l'histoire d'une institution grecque à partir d'un épisode isolé.
+
+### 26. Homère, *Iliade* VII, 299-305 [A/B]
+
+Hector et Ajax interrompent leur duel puis échangent des présents. Les objets — épée ornée d'argent et ceinture — manifestent une reconnaissance entre adversaires. Leur fonction n'est pas celle d'une marchandise ordinaire, même si leurs matières ont une valeur économique. L'exemple montre qu'une chose peut porter des valeurs de prestige, de mémoire et d'alliance. Il ne prouve aucune inaliénabilité, ni que les biens héroïques échappaient toujours à la vente. La méthode comparatiste doit conserver le récit dans son contexte de trêve temporaire et ne pas transformer la scène en modèle juridique de l'ensemble du monde grec.
+
+### 27. Homère, *Odyssée* VIII, 385-446 [A]
+
+Alcinoos demande aux chefs phéaciens d'offrir à Ulysse des habits et de l'or ; Euryale lui remet une épée pour accompagner des paroles de réparation. La reine Arété fait préparer un coffre destiné aux présents, et Ulysse le ferme pour son voyage. Le texte associe valeur matérielle, hospitalité, apaisement d'une offense et constitution d'une mémoire. Il permet d'observer les étapes d'une circulation : décision collective, collecte, présentation et transfert au voyageur. Une lecture inspirée d'Appadurai ne doit pas effacer l'univers fictionnel de l'épopée ni attribuer aux Phéaciens une économie réelle univoque.
+
+### 28. Homère, *Odyssée* XIII, 1-16 [A/B]
+
+Au début du livre XIII, Alcinoos propose d'ajouter des trépieds et des chaudrons aux présents d'Ulysse, en faisant supporter le coût à l'ensemble du peuple. Ce détail est particulièrement utile pour penser la politique de la valeur : la générosité des élites dépend d'une organisation collective de la contribution. Le cadeau n'est pas détaché des ressources ni de la répartition des charges. La comparaison ne consiste pas à identifier une fiscalité moderne, mais à distinguer celui qui décide du don, ceux qui apportent la richesse et le destinataire visible. Le prix social de l'hospitalité apparaît dans la distribution des efforts.
+
+### 29. Hésiode, *Travaux et Jours* 342-355 [A/B]
+
+Le poème recommande des relations de voisinage, des mesures équitables et des retours de prestations. L'injonction de donner à celui qui donne présuppose un monde social d'obligations et d'attentes. Elle n'est pas une théorie de la monnaie ni une définition universelle des marchandises. Appadurai permet de déplacer la question : quels objets circulent dans les relations de voisinage et à quels moments sont-ils retirés de l'échange ? Hésiode livre des prescriptions morales, non l'inventaire complet des marchés et patrimoines paysans. Le texte doit rester dans sa fonction didactique et normative.
+
+### 30. Aristote, *Éthique à Nicomaque* V, 5 [A/B]
+
+Aristote discute la justice des échanges entre activités hétérogènes, la réciprocité proportionnelle et le rôle de la monnaie dans la comparaison des biens. Il mentionne les Charites à 1133a au sujet du retour des services. Ce passage pose un problème philosophique qui rejoint Appadurai : la valeur n'est pas seulement une propriété naturelle du produit. Elle suppose des rapports entre personnes et une mesure socialement reconnue. Les différences sont majeures : Aristote argumente sur la justice civique dans des conditions antiques ; Appadurai propose une anthropologie des trajectoires et de la valeur dans des contextes historiquement variés.
+
+### 31. Aristote, *Politique* I, 8-10 : acquisition et commerce [B]
+
+Les premiers chapitres de la *Politique* distinguent plusieurs modes d'acquisition et discutent les formes de richesse, d'échange et d'accumulation. L'interrogation normative porte notamment sur les usages jugés naturels ou non de l'acquisition. Il serait trompeur de réduire le propos à une théorie moderne du marché. L'intérêt comparatif tient aux distinctions entre usage d'un objet, capacité d'échange et finalités de l'activité. Appadurai et Aristote ne parlent pas le même langage théorique, mais le lecteur peut les confronter sur le fait que les pratiques d'acquisition ont besoin de catégories sociales et morales pour être évaluées.
+
+### 32. Dédicaces grecques et biographie des choses [B/C]
+
+Une offrande peut être fabriquée pour la vente, acquise par un individu puis déposée dans un sanctuaire. Elle peut encore faire l'objet d'une réparation, d'un déplacement ou d'une réaffectation. La notion de biographie culturelle aide à formuler les étapes que l'archéologue devrait documenter. Elle ne permet pas de les inventer lorsqu'aucun texte ne subsiste. À Delphes ou Délos, les monuments et inventaires peuvent éclairer certains transferts, mais leur valeur probatoire varie. La notion de dédicace doit rester distincte de l'interdit absolu de cession ; cette différence nécessite des données spécifiques aux objets et aux lieux.
+
+### 33. Les trésors de Delphes : mémoire, prestige, contrôle [B/C]
+
+Les trésors et monuments dédicatoires de Delphes rendent visibles des groupes au sein d'un sanctuaire panhellénique. Leur présence peut prolonger une réputation civique et participer à des rivalités entre cités. La richesse employée n'est donc pas seulement le coût de matériaux ; elle organise également une communication politique. La comparaison avec Appadurai est heuristique : quelles trajectoires rendent ces objets dignes d'être exposés ? qui administre leur conservation ? quel public les reconnaît ? Mais il faut se garder de déduire de la seule architecture un droit de propriété complet ou une interprétation identique pour tous les visiteurs.
+
+### 34. Les comptes sacrés de Délos [B/C]
+
+Les inscriptions de gestion délienne indiquent que le domaine sacré peut être aussi un objet d'administration économique. Un même sanctuaire peut tenir des comptes d'argent, contrôler des bâtiments et recevoir des offrandes. Ces éléments ne forment pas une classe uniforme de « biens invendables ». La méthode biographique recommande de séparer dépôt, circulation, gestion et réemploi. Une étude détaillée doit dater les inscriptions, identifier les magistrats et vérifier les catégories de biens. La théorie de la marchandise ne transforme pas un inventaire cultuel en preuve de marché libre, pas plus qu'une dédicace n'établit une immobilité éternelle.
+
+## V. Égypte, Mésopotamie et diplomatie des objets
+
+### 35. Les présents d'Amarna [A/B]
+
+Les lettres d'Amarna sont une correspondance diplomatique du XIVe siècle avant notre ère et comprennent des demandes d'or, des biens échangés et des négociations matrimoniales. La lettre EA 19 de Tušratta au souverain égyptien constitue un exemple identifié. Il est nécessaire de consulter des éditions assyriologiques pour examiner les détails du texte cunéiforme, dont les graphies et traductions ne se résument pas aux notices muséales. L'analogie avec Appadurai porte sur le caractère politique de la valeur : un métal circule entre deux cours en participant à la reconnaissance et à la négociation. Elle ne démontre aucune continuité avec la théorie moderne.
+
+### 36. L'or : quantité et relation entre souverains [B]
+
+L'or des cadeaux diplomatiques possède une valeur matérielle, mais sa livraison peut également signifier que les partenaires acceptent une relation de rang et d'alliance. Le rapport entre valeur économique et prestige n'est pas identique à une pure transaction commerciale. La correspondance peut recourir au langage de la fraternité royale tout en exprimant des demandes intéressées. Il serait faux de réduire ces échanges à une générosité sans calcul ou à un simple marché des métaux. La question centrale devient celle du pouvoir de fixer ce qui constitue un présent suffisant et ce qui sera perçu comme une marque d'estime insuffisante.
+
+### 37. Le mobilier funéraire égyptien [B/C]
+
+Un objet de la vie courante peut changer de statut lorsqu'il est placé dans une tombe. Il peut devenir bien funéraire, représentation d'une capacité du défunt ou dépôt symbolique. L'objet ne perd pas ses propriétés matérielles mais entre dans une autre organisation des usages et des accès. Cette transformation ressemble à une singularisation, sans prouver une théorie universelle de la croyance. Les objets funéraires sont très divers et les pratiques varient selon la chronologie et la position sociale. Le pillage et les réemplois montrent en outre que les interdits sont des règles historiques, non des impossibilités physiques.
+
+### 38. Maât et la légitimité des transferts [B/C]
+
+Les textes égyptiens associent Maât à des conceptions de l'ordre, de la vérité et de la justice qui contribuent à légitimer le pouvoir. Une étude de la valeur politique peut examiner la place des représentations normatives dans la répartition des biens et dans les offrandes. Il serait toutefois abusif de traduire Maât par « marché », « équité distributive » ou « politique de la valeur ». Les sources royales, les textes sapientiaux et les documents économiques n'ont pas les mêmes fonctions. La comparaison est utile lorsqu'elle oblige à rechercher l'articulation réelle entre discours de justice et dispositifs matériels.
+
+### 39. Temples mésopotamiens : plusieurs circuits de biens [B/C]
+
+Selon les cités et périodes, les temples mésopotamiens disposent de terres, de réserves, de textes, d'objets cultuels et de personnels administratifs. Ces biens ne possèdent pas nécessairement le même statut de circulation. Certains relèvent de la gestion de ressources, d'autres de la visibilité rituelle ou de l'exercice d'une autorité. L'analyse d'Appadurai incite à reconstruire leurs trajectoires au moyen des tablettes, inventaires et provenances archéologiques. Elle ne permet pas d'affirmer que « le temple » formerait une institution universelle et intemporelle de contrôle économique. Le dossier documentaire doit être délimité historiquement.
+
+### 40. Le contrat et la mise en circulation [B/C]
+
+Une tablette d'achat ou de prêt atteste qu'une opération a été juridiquement formulée, mais ne décrit pas nécessairement toutes les circonstances de la négociation. La valeur inscrite peut être associée à des unités de poids, des clauses de restitution et des témoins. La biographie d'objet permettrait de relier un transfert connu à d'autres usages antérieurs ou postérieurs, lorsque les documents existent. Le risque est de combler les périodes silencieuses par un récit imaginaire. La méthode comparative ne doit pas fabriquer une continuité où seuls quelques événements sont attestés. Les archives permettent d'abord d'établir des moments précis.
+
+## VI. Du commerce mondial aux paysages de flux
+
+### 41. Le tournant de 1990 [A]
+
+« Disjuncture and Difference in the Global Cultural Economy » paraît dans *Theory, Culture & Society*, volume 7, numéros 2-3, juin 1990, pages 295-310, DOI 10.1177/026327690007002017. Une version plus longue est publiée la même année dans *Public Culture* 2/2. Le texte traite de la difficulté de raconter la mondialisation comme un seul mouvement homogène. Les différences de rythme entre échanges économiques, migrations, techniques et communications produisent des disjonctions. Il faut distinguer les deux versions éditoriales de 1990 plutôt que citer indistinctement une date et une pagination uniques pour toute reprise ultérieure.
+
+### 42. Les cinq « paysages » [B]
+
+Les termes *ethnoscapes*, *mediascapes*, *technoscapes*, *financescapes* et *ideoscapes* désignent, dans la conceptualisation d'Appadurai, des perspectives sur les mouvements de personnes, images, technologies, capitaux et idéologies. Ce ne sont pas cinq régions géographiques séparées. Un migrant reçoit des images d'un pays d'origine, utilise des techniques de communication, fait circuler des ressources et rencontre des discours politiques ; chaque flux peut suivre une logique différente. La valeur du concept réside dans cette absence d'unification automatique. Il ne suffit pas d'énumérer les cinq mots : il faut identifier les interactions et les discordances dans un cas concret.
+
+### 43. *Ethnoscapes* : déplacements humains [B]
+
+Les migrations, déplacements de travailleurs et mobilités touristiques modifient les contextes dans lesquels les personnes comprennent les biens, leurs usages et leurs appartenances. Les marchandises ne passent pas seulement de port en port : leurs acheteurs et producteurs ont des biographies politiques et culturelles. La notion d'*ethnoscape* indique une perspective changeante plutôt qu'un peuple homogène en mouvement. Elle ne doit pas devenir une généralisation selon laquelle toutes les migrations seraient choisies librement. La guerre, les frontières, le travail et les politiques d'asile imposent des asymétries qu'une métaphore trop fluide pourrait masquer.
+
+### 44. *Mediascapes* : circulation des images [B]
+
+Les films, nouvelles, publicités et médias numériques font circuler des représentations de modes de vie et d'objets désirables. Cette circulation modifie parfois la façon dont une chose est reconnue comme prestigieuse ou moderne, sans déterminer mécaniquement les choix d'achat. Les publics réinterprètent les images selon des histoires et des situations différentes. Il serait incorrect de confondre exposition aux médias et adoption uniforme d'une culture mondialisée. Appadurai aide à poser une question sur la politique de l'imagination : qui produit les images, qui peut les diffuser, qui les transforme, et quelles possibilités matérielles restent hors de portée ?
+
+### 45. *Technoscapes* et chaînes matérielles [B]
+
+Les techniques circulent à travers entreprises, institutions, transferts de savoirs et infrastructures. Elles ne se déplacent pas au même rythme que les capitaux ou les images. Une même marchandise peut acquérir une valeur symbolique mondialisée tout en dépendant d'une chaîne d'approvisionnement concentrée ou vulnérable. Cette dissociation invite à ne pas traiter la mondialisation comme un seul réseau sans friction. Il faut aussi éviter de réduire les techniques à des outils neutres : leur circulation suppose des compétences, des brevets, des politiques publiques et des capacités inégales d'accès.
+
+### 46. *Financescapes* : mobilité du capital [B]
+
+La circulation des ressources financières peut être rapide et produire des attentes qui précèdent ou excèdent le déplacement matériel des produits. Les changements de financement ont des conséquences sur les productions locales, les investissements et la possibilité d'acquérir certains biens. Cependant les flux financiers sont gouvernés par des institutions, contrôles et infrastructures spécifiques. La notion de paysage financier ne remplace pas l'économie politique des banques et des États. Son intérêt comparatif réside dans la reconnaissance des décalages entre la valorisation financière, les objets qui circulent et les personnes qui subissent les conséquences des décisions.
+
+### 47. *Ideoscapes* : valeurs politiques en circulation [B]
+
+Des notions comme liberté, souveraineté, développement ou droits circulent entre langues, États et mouvements sociaux. Elles changent de portée selon les traductions et les controverses. Appadurai ne suppose pas que tous les publics comprennent ces notions de manière identique, ni qu'elles se propagent par simple imitation. La comparaison avec les objets matériels demeure partielle : un concept politique se transforme par débat et appropriation autant que par diffusion. Il importe de situer les relations de pouvoir qui définissent les interprétations légitimes et les populations auxquelles elles sont appliquées.
+
+### 48. La disjonction comme principe d'analyse [B]
+
+L'idée de disjonction rappelle qu'un modèle de développement uniforme est insuffisant. Un pays peut produire des biens de haute technologie tout en connaissant des inégalités d'accès ; une diaspora peut partager des images tout en subissant des régimes de circulation physique très différents. La mondialisation n'efface pas la pluralité des histoires locales. Mais le concept doit être soumis à des enquêtes empiriques : établir une disjonction exige de définir des variables et des mécanismes, pas seulement d'observer que plusieurs phénomènes sont différents. La force analytique se mesure à sa capacité d'expliquer des configurations précises.
+
+### 49. *Modernity at Large* (1996) [A/B]
+
+*Modernity at Large: Cultural Dimensions of Globalization* paraît à University of Minnesota Press le 15 novembre 1996. Le livre reprend et développe des réflexions sur les flux, les diasporas, l'imagination, le nationalisme et la production de la localité. La notice de l'éditeur confirme sa date de publication et son orientation. L'imagination ne désigne pas une simple fuite individuelle hors du monde : elle participe à la manière dont des acteurs envisagent des possibilités collectives. Il serait pourtant abusif de dire que les images suffisent à créer les ressources nécessaires pour réaliser ces possibilités. Les infrastructures et le pouvoir politique restent décisifs.
+
+### 50. La production de la localité [B]
+
+Une localité ne se réduit pas à un point sur une carte. Elle se produit dans des pratiques, des mémoires, des institutions et des relations quotidiennes. Les mouvements de personnes et de médias peuvent transformer ce que signifie appartenir à un lieu sans supprimer toute continuité territoriale. Ce problème rejoint, sur un autre plan, les théories des choses conservées : un groupe peut affirmer son identité par des lieux et des objets alors même que ses membres sont dispersés. Mais la production de la localité ne doit pas être confondue avec un droit inconditionnel sur un territoire. Les conflits de reconnaissance demeurent essentiels.
+
+## VII. Critiques contemporaines et perspectives philosophiques
+
+### 51. Mauss : circulation et obligations [B]
+
+L'*Essai sur le don* de Marcel Mauss a montré combien les prestations peuvent être obligatoires sous les apparences de la générosité. Appadurai propose un déplacement de la focale, de la relation entre partenaires vers la trajectoire et la qualification des choses. Les deux approches ne s'excluent pas : l'une demande qui doit donner et rendre, l'autre à quelles conditions un objet devient échangeable. Une comparaison concrète doit étudier les deux dimensions, plutôt qu'opposer mécaniquement « économie du don » et « marché ». Les biens qui circulent peuvent changer de valeur au cours même de leur parcours.
+
+### 52. Weiner et Godelier : ce qui ne circule pas [B]
+
+Weiner insiste sur les possessions inaliénables et la stratégie de conserver tout en donnant. Godelier distingue les choses données, vendues et gardées. Appadurai et Kopytoff orientent l'analyse vers les transformations du statut marchand au cours des biographies d'objets. Une opposition simple entre circulation et conservation serait insuffisante : des choses peuvent être gardées pendant des générations puis vendues, ou circuler sans perdre leur attachement ancestral. La discussion doit donc porter sur les procédures et les temporalités de requalification, et non sur des catégories fixes supposées identiques dans toutes les sociétés.
+
+### 53. Bourdieu : pouvoir de classer [B]
+
+La notion de pouvoir symbolique chez Pierre Bourdieu peut enrichir l'enquête sur la valeur : les acteurs dominants sont parfois mieux placés pour décider ce qui sera considéré comme prestigieux, vulgaire, authentique ou digne de conservation. La formation des goûts et des classifications sociales agit sur les marchés sans abolir les conditions matérielles de production. Le dialogue avec Appadurai demande de rechercher les institutions qui font circuler les catégories de valeur. Il serait toutefois trop simple d'attribuer toutes les préférences à une manipulation univoque : les publics résistent, négocient et requalifient les objets.
+
+### 54. Marx : valeur, marchandise et fétichisme [B]
+
+Dans *Le Capital*, Marx analyse la forme marchandise et la façon dont des rapports sociaux peuvent apparaître comme propriétés des choses. Appadurai poursuit une autre enquête : la classification sociale des marchandises, leurs itinéraires et la politique de leur évaluation. Ces perspectives peuvent se compléter, mais leurs unités d'analyse diffèrent. L'étude d'un objet prestigieux ne doit pas effacer l'exploitation possible des producteurs ; la théorie du travail ne suffit pas non plus à expliquer à elle seule la singularisation d'un artefact ancien. Un comparatisme rigoureux articule production, circulation, appropriation et représentation.
+
+### 55. Simmel : le désir et la distance [B]
+
+La réflexion de Simmel sur la valeur liée à la distance entre désir et possession aide à comprendre pourquoi certains biens deviennent précieux en raison des obstacles à leur acquisition. Appadurai la mobilise dans son introduction de 1986. Mais la difficulté d'acquisition n'explique pas automatiquement toutes les évaluations, notamment les biens dont la valeur est produite par un usage collectif ordinaire. La comparaison avec Godelier invite à distinguer rareté économique, singularité culturelle et restriction institutionnelle à la cession. Ces dimensions peuvent coïncider, mais elles sont analytiquement séparables et historiquement variables.
+
+### 56. Polanyi : les marchés comme institutions [B]
+
+Karl Polanyi a insisté sur l'enracinement des marchés dans des institutions et sur les transformations historiques de leur place. La politique de la valeur chez Appadurai rejoint cette attention aux règles de l'économie, sans reproduire nécessairement toutes les catégories polanyiennes. Il faut résister à l'idée que le marché serait toujours et partout un mécanisme sans politique. Mais l'inverse serait aussi excessif : le fait que les institutions encadrent les échanges ne rend pas le prix entièrement arbitraire. Les coûts, contraintes techniques et préférences contribuent aux configurations observées.
+
+### 57. Les limites de la biographie d'objet [B]
+
+La biographie des choses peut donner une impression trompeuse de continuité : l'archéologue connaît souvent seulement le contexte de découverte et quelques indices de fabrication. Relier tous les moments par une narration complète dépasse les sources. Une prudence supplémentaire concerne les objets conservés dans les institutions dominantes, plus visibles que les biens périssables ou les objets des groupes subalternes. Les recherches doivent associer catalogues, analyses de matériaux, archives commerciales, inscriptions et ethnographies lorsque cela est possible. Là où les preuves font défaut, la trajectoire doit être présentée comme hypothèse et non comme fait.
+
+### 58. Marchandises numériques et nouvelles formes de rareté [C]
+
+Les fichiers numériques peuvent être copiés à faible coût, tandis que des institutions organisent la rareté de certaines licences ou droits d'accès. Cette situation pose de nouvelles questions appaduriennes : la valeur peut dépendre de règles d'exclusivité qui ne sont pas des propriétés matérielles intrinsèques du fichier. Toutefois il faut distinguer les droits d'auteur, les licences, les infrastructures techniques et les jugements sociaux de prestige. La comparaison avec des objets cultuels antiques est heuristique mais ne doit pas faire disparaître les différences juridiques et techniques. L'analogie invite à examiner comment la rareté est produite et contestée.
+
+### 59. Restitution et valeur du patrimoine [C]
+
+Une institution muséale peut considérer un objet comme patrimoine universel tandis qu'une communauté le décrit comme lié à une histoire de dépossession ou à une obligation cultuelle. Une estimation marchande ne résout pas le conflit sur la légitimité de la détention. La biographie sociale de l'objet peut contribuer à identifier les étapes de sa sortie, les intermédiaires et les titres revendiqués. Mais elle ne fournit pas automatiquement une décision juridique ou morale. L'enquête doit faire place aux différentes parties concernées et aux règles applicables, sans supposer une unanimité culturelle ou une continuité simple des institutions.
+
+### 60. Conclusion : la valeur circule, mais n'est jamais sans politique [B]
+
+L'apport d'Appadurai consiste à montrer que les choses ne sont pas d'emblée des marchandises pour toujours et que la valeur émerge dans des contextes relationnels et politiques. Les trajectoires matérielles et les changements de classification permettent de reconstituer des formes de pouvoir que l'étude isolée des prix ne saisit pas. Kopytoff approfondit cette perspective en étudiant les biographies et les requalifications des biens. Le passage aux flux mondiaux souligne ensuite les disjonctions entre mobilité des images, des personnes, des technologies, des capitaux et des idéologies. L'analogie avec les mondes anciens n'est féconde que si l'on préserve les différences de sources, de langues et d'institutions. Une chose ne possède pas une valeur sociale unique ; cette valeur est produite, débattue et transformée historiquement.
+
+---
+
+## VIII. Bibliographie et vérification des sources
+
+Les sources modernes ci-dessous ont été vérifiées auprès des éditeurs universitaires et des revues ; les sources anciennes sont localisées par livre et vers. Les pages payantes ne sont pas présentées comme collationnées en intégralité.
+
+1. Arjun Appadurai (dir.), *The Social Life of Things: Commodities in Cultural Perspective*, Cambridge University Press, 1986. Notice du recueil : https://www.cambridge.org/core/books/social-life-of-things/ . Ouvrage collectif, attribution des chapitres à vérifier séparément.
+2. Arjun Appadurai, « Introduction: Commodities and the Politics of Value », dans *The Social Life of Things*, 1986, p. 3-63, DOI 10.1017/CBO9780511819582.003 : https://doi.org/10.1017/CBO9780511819582.003 . Texte primaire de l'auteur, notice et résumé de Cambridge contrôlés.
+3. Igor Kopytoff, « The Cultural Biography of Things: Commoditization as Process », dans Appadurai (dir.), *The Social Life of Things*, 1986, p. 64-92, DOI 10.1017/CBO9780511819582.004 : https://doi.org/10.1017/CBO9780511819582.004 . Texte primaire de Kopytoff, non d'Appadurai.
+4. Arjun Appadurai, « Disjuncture and Difference in the Global Cultural Economy », *Theory, Culture & Society*, 7/2-3, juin 1990, p. 295-310, DOI 10.1177/026327690007002017 : https://doi.org/10.1177/026327690007002017 . Article de revue, éditeur SAGE.
+5. Arjun Appadurai, *Modernity at Large: Cultural Dimensions of Globalization*, University of Minnesota Press, 1996 (15 novembre) : https://www.upress.umn.edu/9780816627936/modernity-at-large/ . Monographie, date et sommaire de l'éditeur contrôlés.
+6. Georg Simmel, *Philosophie des Geldes*, 1900 ; édition remaniée 1907 ; comparer l'analyse de la valeur et la difficulté d'acquisition avec la lecture d'Appadurai, introduction 1986.
+7. Karl Marx, *Das Kapital*, livre I, 1867, section sur la marchandise et son fétichisme ; texte philosophique et économique de comparaison.
+8. Marcel Mauss, « Essai sur le don. Forme et raison de l'échange dans les sociétés archaïques », *L'Année sociologique*, nouvelle série, tome I, 1923-1924, paru 1925, p. 30-186 ; dossier de référence sur les obligations d'échange.
+9. Annette B. Weiner, *Inalienable Possessions: The Paradox of Keeping-While Giving*, University of California Press, 1992 : https://www.ucpress.edu/books/inalienable-possessions/pdf .
+10. Maurice Godelier, *L'Énigme du don*, Fayard, 1996 : https://www.fayard.fr/livre/l-enigme-du-don-9782213596938/ . Comparaison avec les choses données, vendues et conservées.
+11. Marilyn Strathern, *The Gender of the Gift*, University of California Press, 1988 ; comparaison avec la personne relationnelle.
+12. Karl Polanyi, *The Great Transformation*, 1944 ; analyse historique des marchés et de leurs institutions.
+13. Pierre Bourdieu, *La Distinction*, Minuit, 1979 ; rôle des classements et des goûts dans la valeur sociale.
+14. Homère, *Iliade* VI, 215-236 (Diomède, Glaucos et les armures) : https://www.theoi.com/Text/HomerIliad6.html .
+15. Homère, *Iliade* VII, 299-305 (présents d'Hector et d'Ajax) : https://beta.perseus.tufts.edu/urn:cts:greekLit:tlg0012.tlg001.newman1856-eng2:7/ .
+16. Homère, *Odyssée* VIII, 385-446 (présents phéaciens et coffre d'Ulysse) : https://www.theoi.com/Text/HomerOdyssey8.html .
+17. Homère, *Odyssée* XIII, 1-16 (trépieds, chaudrons et contribution des Phéaciens) : https://www.theoi.com/Text/HomerOdyssey13.html .
+18. Hésiode, *Travaux et Jours* 342-355 (mesure, voisinage et retour) : https://adfonteslibrary.org/work-hesiod-works-days .
+19. Aristote, *Éthique à Nicomaque* V, 5, 1132b-1133a (proportion et Charites) : https://aristotle.johnhboyer.com/EN/book/5/ .
+20. Aristote, *Politique* I, 8-10 (acquisition, économie et richesse), comparer les éditions grecques et traductions critiques.
+21. Correspondance d'Amarna, EA 19 (Tušratta et Égypte, dons diplomatiques), objet BM 029791 ; notice iconographique de la tablette : https://commons.wikimedia.org/wiki/Category:Amarna_letter_EA_19,_Tushratta_to_Pharaoh,_%22Love_and_Gold%22 . La notice n'est pas une édition philologique intégrale.
+
+### Tableau des degrés de preuve
+
+| Proposition | Statut |
+|---|---|
+| *The Social Life of Things* paraît en 1986 | [A] Cambridge University Press |
+| L'introduction d'Appadurai occupe les pages 3-63 | [A] notice de chapitre Cambridge |
+| Le chapitre de Kopytoff occupe les pages 64-92 | [A] notice de chapitre Cambridge |
+| La « biographie culturelle des choses » a pour auteur Appadurai | Faux : auteur Igor Kopytoff |
+| L'article sur les disjonctions globales paraît en juin 1990, p. 295-310 | [A] SAGE |
+| *Modernity at Large* paraît en 1996 | [A] University of Minnesota Press |
+| *Odyssée* VIII et XIII décrivent les présents des Phéaciens | [A] texte homérique |
+| Tous les objets antiques sont des marchandises potentielles | Non démontré |
+| La vie sociale des choses décrit une conscience propre des artefacts | Lecture refusée |
+| La mise en marché d'un objet transforme parfois son statut culturel | [B] interprétation théorique fondée |
+| Les flux globaux s'articulent sans rythme unique | [B] interprétation conceptuelle d'Appadurai |
+| Un objet de sanctuaire et un fichier numérique relèvent d'institutions identiques | Analogie non démontrée [C] |
+
+**Conclusion documentaire.** Le comparatisme ne doit pas identifier toutes les formes d'échange à une seule économie universelle. Il peut, en revanche, suivre les changements d'état des objets et demander qui contrôle le pouvoir de les qualifier. C'est la contribution distinctive d'Appadurai à la grande enquête MYTHOS sur les valeurs, les institutions et la circulation des choses.
+
+*Fin du manuscrit public intégral. Aucune numérotation future n'est réservée.*
