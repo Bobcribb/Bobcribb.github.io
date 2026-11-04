@@ -57,6 +57,16 @@
       "public_verification": "L'accès HTTPS à /livre-hesiode/ affiche la statuette de Nikè Met 247903 et 10 images. Le manifeste public annonce source_commit=4b4cc6c3874398cd6c8b7e638e493cc8707381fb et run=41877974591 ; cet état ne prouve pas la publication de toute la branche main actuelle.",
       "preservation": "Aucun manuscrit, image, menu, chiffre de numérotation, registre, horaire ou workflow édité ; seul le test des renvois et le compte rendu d'audit sont mis à jour.",
       "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE"
+    },
+    "followup_navigation_correction": {
+      "issue": "La source index.html possède la section et le lien #home-etudes-recentes, mais le générateur de sommaire ne la conserve pas lors d'une reconstruction.",
+      "correction": "Ajout de Dernières études par collection → #home-etudes-recentes à home_targets, avec garde-fou de sept sections et deux passes idempotentes dans tests/test_museum_home_toc.py.",
+      "paths": [
+        "scripts/apply_museum_design.py",
+        "tests/test_museum_home_toc.py"
+      ],
+      "preservation": "Page d'accueil versionnée, cartes, textes, CSS/JS, noms d'ancres existants, numéros et horaires inchangés.",
+      "status": "Enregistrement GitHub à vérifier, puis CI et publication HTTPS à contrôler ; aucune publication revendiquée."
     }
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
@@ -1614,6 +1624,16 @@
         "public_verification": "L'accès HTTPS à /livre-hesiode/ affiche la statuette de Nikè Met 247903 et 10 images. Le manifeste public annonce source_commit=4b4cc6c3874398cd6c8b7e638e493cc8707381fb et run=41877974591 ; cet état ne prouve pas la publication de toute la branche main actuelle.",
         "preservation": "Aucun manuscrit, image, menu, chiffre de numérotation, registre, horaire ou workflow édité ; seul le test des renvois et le compte rendu d'audit sont mis à jour.",
         "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE"
+      },
+      "followup_navigation_correction": {
+        "issue": "La source index.html possède la section et le lien #home-etudes-recentes, mais le générateur de sommaire ne la conserve pas lors d'une reconstruction.",
+        "correction": "Ajout de Dernières études par collection → #home-etudes-recentes à home_targets, avec garde-fou de sept sections et deux passes idempotentes dans tests/test_museum_home_toc.py.",
+        "paths": [
+          "scripts/apply_museum_design.py",
+          "tests/test_museum_home_toc.py"
+        ],
+        "preservation": "Page d'accueil versionnée, cartes, textes, CSS/JS, noms d'ancres existants, numéros et horaires inchangés.",
+        "status": "Enregistrement GitHub à vérifier, puis CI et publication HTTPS à contrôler ; aucune publication revendiquée."
       }
     }
   ]

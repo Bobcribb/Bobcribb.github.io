@@ -338,6 +338,7 @@ def apply(root):
             home_targets = (
                 ('Les collections', 'home-collections'),
                 ('Commencer une lecture', 'home-parcours'),
+                ('Dernières études par collection', 'home-etudes-recentes'),
                 ('Quatre œuvres à approfondir', 'home-oeuvres'),
                 ('Sanctuaires grecs en images', 'sanctuaires-en-images'),
                 ('Explorer les mondes anciens', 'home-civilisations'),

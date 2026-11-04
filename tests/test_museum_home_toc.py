@@ -12,7 +12,8 @@ from apply_museum_design import apply
 class HomeTocTests(unittest.TestCase):
     def test_home_toc_links_and_preserves_sections(self):
         titles = ['Les collections', 'Commencer une lecture',
-                  'Quatre œuvres à approfondir', 'Sanctuaires grecs en images',
+                  'Dernières études par collection', 'Quatre œuvres à approfondir',
+                  'Sanctuaires grecs en images',
                   'Explorer les mondes anciens', 'Une bibliothèque documentée']
         sections = ''.join(
             '<section class="portal-section"><h2>' + t +
@@ -30,10 +31,10 @@ class HomeTocTests(unittest.TestCase):
                 self.assertEqual(len(nav), 1)
                 anchors = nav[0].select('a[href^="#"]')
                 self.assertEqual([a.get_text(strip=True) for a in anchors], titles)
-                self.assertEqual(len(set(a['href'] for a in anchors)), 6)
+                self.assertEqual(len(set(a['href'] for a in anchors)), len(titles))
                 for anchor in anchors:
                     self.assertEqual(len(doc.select('section' + anchor['href'])), 1)
-                self.assertEqual(len(doc.select('main p[id^="source-"]')), 6)
+                self.assertEqual(len(doc.select('main p[id^="source-"]')), len(titles))
                 self.assertEqual(len(doc.select('section.mythos-directory')), 1)
 
     def test_non_home_article_does_not_receive_toc(self):
