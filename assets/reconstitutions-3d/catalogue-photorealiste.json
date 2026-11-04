@@ -2,7 +2,7 @@
   "generated_at": "2026-11-04",
   "site": "bobmythos.fr",
   "method": "Illustrations photoréalistes interprétatives, textes et sources hors des pixels.",
-  "count": 21,
+  "count": 22,
   "entries": [
     {
       "id": "DEL-PAN-001",
@@ -373,6 +373,27 @@
       "provenance": "Image originale créée numériquement par IA, sans interface, inscription ni menu incrustés. Les sources institutionnelles décrivent les vestiges mais ne certifient pas le rendu.",
       "sha256": "64d92e24c4d580dd94b05d9d86de9959ae4a25a0f6fdaf8862b4b66c970b038f",
       "scientific_notice": "/assets/reconstitutions-3d/notices/mycenes-citadelle-porte-lionnes-panorama.json"
+    },
+    {
+      "id": "TIR-PAN-001",
+      "slug": "tirynthe-citadelle-mycenienne-panorama",
+      "title": "Tirynthe — citadelle mycénienne et remparts cyclopéens",
+      "period": "Fin du XIIIe siècle av. J.-C. (évocation vers 1220–1200 av. J.-C.)",
+      "caption": "Grand panorama photoréaliste interprétatif de la citadelle de Tirynthe en Argolide, avec ses fortifications cyclopéennes, l’accès monumental à l’Acropole supérieure et les ensembles palatiaux sur une faible éminence dominant la plaine.",
+      "commentary": "Tirynthe est l’un des grands centres palatiaux de l’âge du bronze mycénien. L’Éphorie des Antiquités d’Argolide distingue les acropoles supérieure, médiane et inférieure. Les remparts cyclopéens, construits en plusieurs phases aux XIVe et XIIIe siècles av. J.-C., entouraient des espaces palatiaux et artisanaux ; l’accès principal oriental comportait une rampe monumentale. Le palais possédait notamment une cour et un mégaron. L’UNESCO mentionne une enceinte d’environ 750 m de périmètre et des murs atteignant 8 m d’épaisseur et 13 m de hauteur. L’image est une visualisation libre : le tracé exact de certaines portions de murs, les superstructures, les toitures, la façade monumentale, la circulation, les arbres et la ligne de côte ne sont pas établis par ce rendu. Elle ne représente pas la porte des Lionnes, qui se situe à Mycènes, et n’est ni un relevé photogrammétrique ni une reconstruction validée.",
+      "certainty": "Élevée : présence de Tirynthe sur une faible éminence d’Argolide, enceinte en grands blocs cyclopéens, organisation générale en acropoles haute, moyenne et basse, accès oriental et complexe palatial. Moyenne : proportions générales de l’enceinte et distribution des terrasses. Faible : silhouette des élévations, logements, toitures, détail des portes, localisation exacte des petits bâtiments, végétation et topographie de l’arrière-plan.",
+      "source_url": "https://www.argolisculture.gr/en/list-of-monuments/the-mycenaean-acropolis-of-tiryns/",
+      "secondary_sources": [
+        "https://whc.unesco.org/fr/list/941/"
+      ],
+      "src": "/assets/reconstitutions-3d/tirynthe-citadelle-mycenienne-panorama.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-04",
+      "type": "nouvelle reconstitution visuelle panoramique 3D photoréaliste non métrique",
+      "provenance": "Image créée par IA sans menu, logo ni texte intégré. Documentation archéologique distincte ; aucune validation institutionnelle du rendu revendiquée.",
+      "sha256": "6491a2688f5fcf4c0f5b32b9d54e617bda35ee463242e026deff6581adb8fc70",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/tirynthe-citadelle-mycenienne-panorama.json"
     }
   ]
 }
