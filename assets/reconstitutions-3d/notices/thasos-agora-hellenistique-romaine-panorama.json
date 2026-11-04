@@ -1,0 +1,37 @@
+{
+  "id": "THA-AGO-001",
+  "slug": "thasos-agora-hellenistique-romaine-panorama",
+  "title": "Thasos — agora antique, portiques et horizon portuaire",
+  "period": "Évocation hellénistique vers 150 av. J.-C. (date illustrative, non état archéologique établi)",
+  "image": "/assets/reconstitutions-3d/thasos-agora-hellenistique-romaine-panorama.webp",
+  "caption": "Vue panoramique 3D photoréaliste de l’agora antique de Thasos. Composition hypothétique orientée vers le port et la colline de l’acropole ; aucune restitution métrique certifiée.",
+  "commentary": "L’agora antique de Thasos se trouvait au cœur de la cité portuaire, au pied de l’acropole. Les travaux de l’École française d’Athènes documentent un espace public doté de portiques et de monuments, transformé au fil des époques classique, hellénistique et impériale. Les fouilles du portique sud-ouest ont identifié des états antérieurs au milieu du IVe siècle av. J.-C., tandis qu’un portique coudé appartient à la basse époque hellénistique ; ces états ne peuvent être automatiquement réunis dans une scène datée de 150 av. J.-C. Cette illustration a été créée pour évoquer la cité vers 150 av. J.-C., mais elle ne démontre ni l’existence simultanée des façades montrées, ni leur emplacement, ni leur élévation. La porte monumentale centrale, les fortifications et édifices du sommet, la position du port en perspective, les navires, les sols, la couleur des colonnes et les personnages sont des choix graphiques. Les données de fouilles ne valident pas l’image ; la scène n’est ni un relevé photogrammétrique ni un modèle 3D scientifique mesuré.",
+  "certainty": {
+    "high": "Localisation générale de l’agora dans la cité antique de Thasos près du port et de l’acropole ; existence de portiques, d’espaces publics et de phases successives d’aménagement.",
+    "medium": "Organisation d’une place monumentale délimitée en partie par des colonnades ; matériaux et éléments architecturaux typiques des périodes classique et hellénistique.",
+    "low": "Restitution simultanée des différents portiques vers 150 av. J.-C., entrée centrale monumentale, détails et hauteur des édifices, fortifications de l’acropole, toitures, couleurs, navires, topographie exacte et costumes."
+  },
+  "sources": [
+    {
+      "label": "École française d’Athènes — Thasos : travaux en cours",
+      "url": "https://www.efa.gr/thasos-travaux-en-cours/"
+    },
+    {
+      "label": "École française d’Athènes — Chronique des fouilles, agora et rempart (1998)",
+      "url": "https://chronique.efa.gr/?id=13128&r=report"
+    },
+    {
+      "label": "École française d’Athènes — Archépolis, étude architecturale (2023)",
+      "url": "https://chronique.efa.gr/?id=19576&r=report"
+    },
+    {
+      "label": "Bulletin de correspondance hellénique — Nouvelles recherches sur l’agora de Thasos",
+      "url": "https://journals.openedition.org/bch/731"
+    }
+  ],
+  "rights_and_method": "Image originale générée numériquement et enregistrée en WebP ; photoréalisme interprétatif sans menu, texte ni filigrane incrusté. La date choisie est une convention de restitution, pas l’authentification d’un état bâti unique. Aucune validation par les institutions citées.",
+  "publication_status": "committed_to_GitHub; public_URL_pending_independent_verification",
+  "width": 1672,
+  "height": 941,
+  "sha256": "c1811bfd7d8112e4a6d1b737d468a59cc6af08a04c686a33cdeee9a9ad406fb9"
+}
