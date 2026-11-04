@@ -73,6 +73,10 @@ def card(url,title,description="",label="COLLECTION"):
     if url == "/reconstitutions-photorealistes.html":
         # Couverture du catalogue attestée sur main ; ne pas rétablir les SVG 2,5D.
         image = '<img class="mythos-card-image" src="/assets/reconstitutions-3d/delphes-apollon-panorama.webp" alt="Reconstitution photoréaliste interprétative du sanctuaire d’Apollon à Delphes" loading="lazy" decoding="async"/>'
+    if url == "/philosophie-eneide.html":
+        # La photographie montre des vestiges de Troie VI, pas une scène de Virgile.
+        # La générer avec son alt correct évite de le perdre à chaque reconstruction.
+        image = '<img class="mythos-card-image" src="/media/2026/10/mythos-troie-vi-porte-est-hisarlik-cherryx-2012.jpg" alt="Vestiges de Troie VI à Hisarlik : contexte archéologique, non illustration du récit virgilien." loading="lazy" decoding="async"/>'
     return f'<a class="portal-card" href="{esc(url)}">{image}<span class="portal-card-kicker">{esc(label)}</span><strong>{esc(title)}</strong>{credit}<span>{esc(description)}</span><span class="card-indicator" aria-hidden="true">↗</span></a>'
 
 def cards(items,cols=""):

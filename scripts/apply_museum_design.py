@@ -424,7 +424,11 @@ def apply(root):
                 old.decompose()
             src = picture(card.get('href', ''), root)
             if src and not card.find('img'):
-                card.insert(0, doc.new_tag('img', src=src, alt='', loading='lazy', attrs={'class':'mythos-card-image'}))
+                # Un nouveau portail ne doit pas réintroduire alt="" pour Troie.
+                image_alt = ''
+                if card.get('href') == '/philosophie-eneide.html' and src == '/media/2026/10/mythos-troie-vi-porte-est-hisarlik-cherryx-2012.jpg':
+                    image_alt = 'Vestiges de Troie VI à Hisarlik : contexte archéologique, non illustration du récit virgilien.'
+                card.insert(0, doc.new_tag('img', src=src, alt=image_alt, loading='lazy', attrs={'class':'mythos-card-image'}))
         # MYTHOS safeguard: gallery-thumbnail retention on repeated passes.
         # This gallery card must keep its locally stored original WebP, never
         # a generated SVG or a missing image. No scholarly article is changed.

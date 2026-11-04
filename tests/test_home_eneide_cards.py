@@ -10,6 +10,7 @@ from bs4 import BeautifulSoup
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / 'scripts'))
 from apply_museum_design import PICTURES, apply
+from build_navigation import card as navigation_card
 
 IMAGE = '/media/2026/10/mythos-troie-vi-porte-est-hisarlik-cherryx-2012.jpg'
 URL = '/philosophie-eneide.html'
@@ -82,6 +83,14 @@ class HomeEneideCardsTests(unittest.TestCase):
                 image_tag = reader.select_one('#home-oeuvres a[href="' + URL + '"] img')
                 self.assertIn('non illustration du récit', image_tag['alt'])
                 self.assertEqual(image_tag['src'], IMAGE)
+
+    def test_generated_portal_card_always_labels_troy_document_correctly(self):
+        # Reproduit la carte créée avant les passes de design et de lecture.
+        markup = navigation_card(URL, 'L’Énéide', 'Analyse philosophique', 'VIRGILE')
+        image = BeautifulSoup(markup, 'html.parser').select_one('a.portal-card img')
+        self.assertIsNotNone(image)
+        self.assertEqual(image['src'], IMAGE)
+        self.assertIn('non illustration du récit', image.get('alt', ''))
 
     def test_missing_documentary_image_is_not_hidden(self):
         with TemporaryDirectory() as temporary:
