@@ -459,6 +459,18 @@
           "path": "chapitres/origines-du-sacre/648-chabtis-ouchebtis-travail-au-dela-chapitre-six-bd.md",
           "request_sha256": "12762e3be00d7f547542748fa5a35779ac3da4bc74ce0e3c08e31c45c181e3f0",
           "initial_source_sha256": "6c70a6a2c65c706f5813b207fd367860c9f938319479d8fd56703b59ba399437"
+        },
+        "b70d15ee-7e2f-4a5a-98b0-9b5cc751f0ac": {
+          "number": 649,
+          "path": "chapitres/origines-du-sacre/649-nourrir-mort-formule-htp-di-nsw-tables-fausses-portes.md",
+          "request_sha256": "57bfde09d484b822ad0bbcecbf4e40366feff9caaef7727daa9159d39cba0787",
+          "initial_source_sha256": "aadd101156ada1331ed231ddd6410366488adad55dc764b06a69a6c8d22acebd"
+        },
+        "d51a77cb-66f7-4c65-b339-8d0acc8ed956": {
+          "number": 650,
+          "path": "chapitres/origines-du-sacre/650-banquet-ancetres-shang-zhou-vases-bronze-gui-ding-inscriptions.md",
+          "request_sha256": "887bc20f9ec302c13a95e80ce8c2536e8f667e159ab2c45018dadf8161d34438",
+          "initial_source_sha256": "e5a7de98b02338537bc39dc15377b3813147ebd8ed4b830cbf69a53bcc44b28b"
         }
       }
     },
