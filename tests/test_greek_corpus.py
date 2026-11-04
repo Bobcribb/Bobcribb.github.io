@@ -4,6 +4,7 @@ import json
 from pathlib import Path
 from tempfile import TemporaryDirectory
 from bs4 import BeautifulSoup
+from unittest.mock import patch
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'scripts'))
 from build_greek_corpus import book_sections, main, verify, BOOKS, ARCHIVES, rewritten_studies, REWRITES, scholarly_title
@@ -107,7 +108,11 @@ class GreekCorpusTests(unittest.TestCase):
             register = out / 'grande-encyclopedie/registre-integral/index.html'
             register.parent.mkdir(parents=True, exist_ok=True)
             register.write_text('<html><body><p>Six collections</p></body></html>')
-            main(out, root)
+            # This fixture tests the completeness of the textual corpus, not
+            # the media provenance gate. The latter remains strict in
+            # test_greek_folder_media and in the production build.
+            with patch("build_greek_folders.folder_artworks", return_value={}):
+                main(out, root)
             verify(out, root)
             for slug in ('mythologie-grecque', 'grande-encyclopedie'):
                 for path in (out / slug / 'index.html', out / (slug + '.html')):
