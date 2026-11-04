@@ -319,7 +319,7 @@ def reindex(chapters):
 
 
 def decorate_editorial_pages():
-    """One subject-based gallery; migrate obsolete generated sidebars."""
+    """Distribute documented figures within studies and retain complementary galleries."""
     from editorial_illustrations import decorate_pages
     return decorate_pages(OUT)
 
