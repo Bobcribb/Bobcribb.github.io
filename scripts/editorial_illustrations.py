@@ -1,9 +1,9 @@
-"""Conservative, offline illustration selection shared by every collection.
+"""Documented local images from titles and explicitly named scholarly sections.
 
-Only an explicit subject in a page's own title/slug can select a documented
-local object. Collection names, article prose, menus and existing galleries
-are deliberately not evidence. An empty selection is a valid result.
+No content-wide keyword fallback, unverified external media, old 2.5D assets
+or indiscriminate image placement. An empty selection is a valid result.
 """
+from html import escape
 from pathlib import Path
 from urllib.parse import unquote, urlsplit
 import json
@@ -13,9 +13,11 @@ import unicodedata
 from bs4 import BeautifulSoup
 
 CATALOG = Path(__file__).with_name("editorial_media.json")
+RECON_SELECTIONS = Path(__file__).with_name("editorial_reconstitutions.json")
+RECON_CATALOG = Path(__file__).resolve().parents[1] / "assets/reconstitutions-3d/catalogue-photorealiste.json"
 GENERATED_CLASSES = {"mythos-home-illustrations", "mythos-visual-rail"}
-MAX_ADDED_IMAGES = 8
-MAX_INLINE_IMAGES = 4
+MAX_ADDED_IMAGES = 12
+MAX_INLINE_IMAGES = 8
 
 
 def normalized(value):
@@ -32,24 +34,74 @@ def image_key(url):
     return name.casefold().replace("_", " ")
 
 
+def documented_reconstructions():
+    """Use existing MYTHOS panoramas only, with their individual scientific notices."""
+    curated = json.loads(RECON_SELECTIONS.read_text(encoding="utf-8"))["subjects"]
+    inventory = json.loads(RECON_CATALOG.read_text(encoding="utf-8"))["entries"]
+    by_slug = {item["slug"]: item for item in inventory}
+    if len(by_slug) != len(inventory):
+        raise ValueError("Identifiants 3D dupliqués dans le catalogue")
+    result = []
+    for slug, subjects in curated.items():
+        item = by_slug.get(slug)
+        if not item or not subjects:
+            raise ValueError("Notice photoréaliste manquante : " + slug)
+        kind = item["type"].casefold()
+        if any(old in kind for old in ("planche ancienne", "antérieure conservée", "2,5d")):
+            raise ValueError("Ancienne image 2,5D interdite : " + slug)
+        src = item["src"]
+        if src != "/assets/reconstitutions-3d/" + slug + ".webp":
+            raise ValueError("Chemin 3D imprévu : " + slug)
+        if not item["source_url"].startswith("https://"):
+            raise ValueError("Source archéologique 3D manquante : " + slug)
+        for field in ("title", "caption", "period", "certainty", "commentary"):
+            if not str(item.get(field, "")).strip():
+                raise ValueError("Notice 3D incomplète : " + slug)
+        caption = (
+            "<strong>Reconstitution numérique photoréaliste MYTHOS : hypothèse, "
+            "ni photographie ni relevé métrique.</strong> "
+            + escape(item["caption"]) + " "
+            + "<strong>Période évoquée :</strong> " + escape(item["period"]) + ". "
+            + "<strong>Degré de certitude :</strong> " + escape(item["certainty"]) + ". "
+            + '<a href="' + escape(item["source_url"], quote=True) + '">Référence archéologique ou scientifique</a> ; '
+            + '<a href="/reconstitutions-photorealistes.html#' + escape(slug, quote=True)
+            + '">notice détaillée et limites de la restitution</a>.'
+        )
+        result.append({
+            "id": "mythos-reconstitution-" + slug,
+            "path": src.lstrip("/"),
+            "subjects": subjects,
+            "alt": "Reconstitution 3D interprétative et non métrique : " + item["title"],
+            "caption_html": caption,
+            "width": item["width"],
+            "height": item["height"],
+        })
+    return result
+
+
 def load_catalog():
     records = json.loads(CATALOG.read_text(encoding="utf-8"))["media"]
+    records.extend(documented_reconstructions())
     ids = set()
     for record in records:
         if record["id"] in ids:
             raise ValueError("Illustration dupliquée : " + record["id"])
         ids.add(record["id"])
         rel = Path(record["path"])
-        allowed_root = rel.parts[:1] == ("media",) or rel.parts[:2] == ("assets", "illustrations-articles")
+        allowed_root = (
+            rel.parts[:1] == ("media",)
+            or rel.parts[:2] in (("assets", "illustrations-articles"), ("assets", "reconstitutions-3d"))
+        )
         if rel.is_absolute() or ".." in rel.parts or not allowed_root:
             raise ValueError("Média non local : " + str(rel))
+        if rel.parts[:2] == ("assets", "reconstitutions-3d") and rel.suffix != ".webp":
+            raise ValueError("Reconstitution SVG ou fichier non WebP interdit : " + str(rel))
         caption = BeautifulSoup(record["caption_html"], "html.parser")
         if not record["alt"].strip() or not record["subjects"] or not caption.get_text(strip=True):
             raise ValueError("Notice iconographique incomplète : " + record["id"])
         if not any(a.get("href", "").startswith("https://") for a in caption.find_all("a")):
             raise ValueError("Provenance absente : " + record["id"])
     return records
-
 
 def page_subject(path, article):
     # The parent collections must never turn a chapter into a Greek/Egyptian
@@ -115,18 +167,81 @@ def make_figure(doc, record, inline=False):
     return figure
 
 
+def eligible_paragraph(p):
+    if len(p.get_text(" ", strip=True)) < 100:
+        return False
+    if p.find_parent(("figure", "aside", "blockquote", "li", "nav", "footer")):
+        return False
+    return not any(
+        getattr(parent, "name", None) and parent.has_attr("data-reading-owned")
+        for parent in p.parents
+    )
+
+
 def editorial_paragraphs(article):
-    """Only substantial authored paragraphs, not menus, quotations or captions."""
-    paragraphs = []
-    for p in article.find_all("p"):
-        if len(p.get_text(" ", strip=True)) < 100:
+    """Only substantive authored paragraphs, never toolbar, quotations or captions."""
+    return [p for p in article.find_all("p") if eligible_paragraph(p)]
+
+
+def matching_subject(source, record):
+    subject = " " + normalized(source) + " "
+    return any(" " + normalized(term) + " " in subject for term in record["subjects"])
+
+
+def section_anchor(heading):
+    """First substantial paragraph before the next chapter or section heading."""
+    for node in heading.next_elements:
+        if getattr(node, "name", None) in ("h1", "h2", "h3"):
+            break
+        if getattr(node, "name", None) == "p" and eligible_paragraph(node):
+            return node
+    return None
+
+
+def section_heading_ok(heading):
+    if heading.find_parent(("nav", "aside", "figure", "blockquote", "footer")):
+        return False
+    words = normalized(heading.get_text(" ", strip=True)).split()
+    words = [w for w in words if not w.isdigit()]
+    # A cross-reference is not evidence that its entire article depicts that
+    # object. Named primary subsections are eligible; comparative detours aren't.
+    excluded = {"comparaison", "comparer", "comparative", "comparatif",
+                "parallele", "paralleles", "bibliographie", "sources",
+                "conclusion", "notes", "references", "annexe", "annexes",
+                "rapprochement", "rapprochements"}
+    return bool(words) and not any(w in excluded for w in words[:3])
+
+
+def select_section_media(path, article, out, records, primary):
+    """One relevant source-backed object per explicitly named subsection."""
+    if "chapitres" not in path.parts or len(primary) >= MAX_ADDED_IMAGES:
+        return [], {}
+    present = {image_key(img.get("src", "")) for img in article.find_all("img")}
+    for record in primary:
+        present.add(image_key(record["path"]))
+        present.update(image_key(url) for url in record.get("equivalents", []))
+    selected, anchors = [], {}
+    for heading in article.find_all(("h2", "h3")):
+        if not section_heading_ok(heading):
             continue
-        if p.find_parent(("figure", "aside", "blockquote", "li", "nav", "footer")):
+        anchor = section_anchor(heading)
+        if anchor is None:
             continue
-        if any(getattr(a, "name", None) and a.has_attr("data-reading-owned") for a in p.parents):
-            continue
-        paragraphs.append(p)
-    return paragraphs
+        heading_title = heading.get_text(" ", strip=True)
+        for record in records:
+            if not matching_subject(heading_title, record):
+                continue
+            keys = {image_key(record["path"])}
+            keys.update(image_key(url) for url in record.get("equivalents", []))
+            if present.intersection(keys) or not (out / record["path"]).is_file():
+                continue
+            selected.append(record)
+            anchors[record["id"]] = anchor
+            present.update(keys)
+            break
+        if len(primary) + len(selected) >= MAX_ADDED_IMAGES:
+            break
+    return selected, anchors
 
 
 def decorate_document(source, path, out, records):
@@ -136,8 +251,6 @@ def decorate_document(source, path, out, records):
     if not article:
         return source, []
 
-    # Reconstruct only generator-owned fragments. Authored figures, scholarly
-    # text, tables and footnotes remain untouched on repeated builds.
     removed = False
     for figure in article.select('figure[data-editorial-inline="subject-v3"]'):
         if "mythos-editorial-inline" in figure.get("class", []):
@@ -155,21 +268,45 @@ def decorate_document(source, path, out, records):
     if doc.head and not doc.select_one('link[href="/assets/mythos-refonte.css"]'):
         doc.head.append(doc.new_tag("link", rel="stylesheet", href="/assets/mythos-refonte.css"))
 
-    chosen = select_media(path, article, out, records)
+    primary = select_media(path, article, out, records)
+    scoped, anchors = select_section_media(path, article, out, records, primary)
+    chosen = (primary + scoped)[:MAX_ADDED_IMAGES]
     paragraphs = editorial_paragraphs(article)
     inline_count = min(len(chosen), MAX_INLINE_IMAGES, len(paragraphs),
-                       max(1, len(paragraphs) // 3)) if paragraphs else 0
-    # Spread exhibits through the reading flow, without inserting a photo in
-    # an unrelated section solely because a term occurs in the article prose.
-    for i, record in enumerate(chosen[:inline_count]):
-        index = ((2 * i + 1) * len(paragraphs)) // (2 * inline_count)
-        paragraphs[index].insert_after(make_figure(doc, record, inline=True))
+                       max(1, len(paragraphs) // 2)) if paragraphs else 0
 
-    remaining = chosen[inline_count:]
+    # First place section-specific documentary figures alongside their actual
+    # subsection; distribute title-backed images across remaining paragraphs.
+    inline_records = (scoped + primary)[:inline_count]
+    used_paragraphs = set()
+    for record in inline_records:
+        anchor = anchors.get(record["id"])
+        if anchor is not None and id(anchor) not in used_paragraphs:
+            used_paragraphs.add(id(anchor))
+            anchor.insert_after(make_figure(doc, record, inline=True))
+
+    global_records = [record for record in inline_records if record["id"] not in anchors
+                      or id(anchors[record["id"]]) not in used_paragraphs]
+    for i, record in enumerate(global_records):
+        index = ((2 * i + 1) * len(paragraphs)) // (2 * len(global_records))
+        target = None
+        for offset in range(len(paragraphs)):
+            for j in (index + offset, index - offset):
+                if 0 <= j < len(paragraphs) and id(paragraphs[j]) not in used_paragraphs:
+                    target = paragraphs[j]
+                    break
+            if target is not None:
+                break
+        if target is not None:
+            used_paragraphs.add(id(target))
+            target.insert_after(make_figure(doc, record, inline=True))
+
+    inline_ids = {record["id"] for record in inline_records}
+    remaining = [record for record in chosen if record["id"] not in inline_ids]
     if remaining:
         aside = doc.new_tag("aside", attrs={
             "class": "mythos-home-illustrations mythos-bottom-gallery",
-            "data-editorial-gallery": "subject-v3",
+            "data-editorial-gallery": "subject-v4",
             "aria-label": "Documents en rapport avec le sujet"
         })
         heading = doc.new_tag("h2")

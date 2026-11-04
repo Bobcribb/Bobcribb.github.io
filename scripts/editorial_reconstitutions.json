@@ -1,0 +1,106 @@
+{
+  "version": 1,
+  "policy": "Seulement les reconstitutions 3D photoréalistes récentes et documentées. Exclure les anciennes vues 2,5D et les extraits cadrés de planches. Les représentations sont interprétatives, non métriques, et doivent être présentées avec leurs limites et sources archéologiques.",
+  "subjects": {
+    "delphes-apollon-panorama": [
+      "Delphes",
+      "sanctuaire d Apollon à Delphes"
+    ],
+    "delphes-tholos-athena-pronaia": [
+      "Delphes",
+      "Athéna Pronaia",
+      "tholos de Delphes"
+    ],
+    "olympie-altis-panorama": [
+      "Olympie",
+      "Altis"
+    ],
+    "samos-heraion-rhoikos-vue-architecturale": [
+      "Samos",
+      "Héraion de Samos",
+      "Rhoikos"
+    ],
+    "delos-sanctuaire-apollon-panorama": [
+      "Délos",
+      "sanctuaire d Apollon à Délos"
+    ],
+    "egine-aphaia-temple-vue-architecturale": [
+      "Égine",
+      "Aphaia",
+      "Aphaïa"
+    ],
+    "mycenes-citadelle-porte-lionnes-panorama": [
+      "Mycènes",
+      "citadelle de Mycènes"
+    ],
+    "tirynthe-citadelle-mycenienne-panorama": [
+      "Tirynthe"
+    ],
+    "eleusis-telesterion-sanctuaire-panorama": [
+      "Éleusis",
+      "Télestérion",
+      "Telesterion"
+    ],
+    "epidaure-asclepieion-sanctuaire-panorama": [
+      "Épidaure",
+      "Asclépieion d Épidaure"
+    ],
+    "samothrace-rotonde-arsinoe-ii-panorama": [
+      "Samothrace",
+      "Rotonde d Arsinoé"
+    ],
+    "lindos-athena-lindia-acropole-hellenistique": [
+      "Lindos",
+      "Athéna Lindia"
+    ],
+    "athenes-agora-hephaisteion-panorama": [
+      "Héphaïsteion",
+      "Agora d Athènes"
+    ],
+    "kos-asklepieion-terrasses-hellenistiques": [
+      "Asclépieion de Cos",
+      "Kos",
+      "Cos"
+    ],
+    "argos-theatre-hellenistique-panorama": [
+      "Argos",
+      "théâtre d Argos"
+    ],
+    "rhamnonte-nemesis-themis-sanctuaire-panorama": [
+      "Rhamnonte",
+      "Rhamnous"
+    ],
+    "tegee-temple-athena-alea-panorama": [
+      "Tégée",
+      "Athéna Aléa"
+    ],
+    "oropos-amphiaraion-sanctuaire-vue-ensemble": [
+      "Oropos",
+      "Amphiaraion",
+      "Amphiareion",
+      "Amphiaraos"
+    ],
+    "naxos-sangri-demeter-temple-archaique": [
+      "Sangri",
+      "Naxos",
+      "temple de Déméter à Naxos"
+    ],
+    "aigai-palais-philippe-ii-peristyle-panorama": [
+      "Aigai",
+      "Vergina",
+      "Aigéai"
+    ],
+    "pylos-palais-nestor-megaron-mycenien": [
+      "Pylos",
+      "Palais de Nestor"
+    ],
+    "olynthe-quartier-maisons-cours-355-panorama": [
+      "Olynthe",
+      "Olynthos"
+    ],
+    "olympie-palestre-cour-hellenistique-panorama": [
+      "Olympie",
+      "palestre d Olympie"
+    ]
+  }
+}

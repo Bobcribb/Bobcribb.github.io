@@ -166,8 +166,8 @@ class EditorialIllustrationsTest(unittest.TestCase):
 
     def test_large_gallery_remains_bounded_and_idempotent(self):
         doc, selected = self.render_page('etude-comparee', 'Euripide, Médée, Iphigénie et Oreste', '<p>Étude conservée.</p>')
-        self.assertEqual(8, len(selected))
-        self.assertEqual(8, len(set(selected)))
+        self.assertEqual(12, len(selected))
+        self.assertEqual(12, len(set(selected)))
         again, other = illustrations.decorate_document(str(doc), Path('etude-comparee/index.html'), ROOT, self.records)
         self.assertEqual(str(doc), again)
         self.assertEqual(selected, other)
@@ -200,6 +200,48 @@ class EditorialIllustrationsTest(unittest.TestCase):
         self.assertEqual(1, len(doc.select('article figure:not([data-editorial-inline])')))
         self.assertEqual('Notice de l’auteur', doc.select_one('article figure:not([data-editorial-inline]) figcaption').get_text())
         self.assertGreaterEqual(len(doc.select('article figure[data-editorial-inline]')), 1)
+
+    def test_photorealistic_panorama_has_explicit_provenance_and_warning(self):
+        reconstructions = [r for r in self.records if r['id'].startswith('mythos-reconstitution-')]
+        self.assertEqual(23, len(reconstructions))
+        self.assertEqual(23, len({r['path'] for r in reconstructions}))
+        for r in reconstructions:
+            self.assertTrue(r['path'].endswith('.webp'))
+            self.assertTrue((ROOT / r['path']).is_file())
+            self.assertIn('hypothèse', r['caption_html'])
+            self.assertIn('Degré de certitude', r['caption_html'])
+            self.assertIn('Référence archéologique', r['caption_html'])
+            self.assertNotIn('2,5D', r['caption_html'])
+        page, selected = self.render_page('delphes', 'Delphes')
+        self.assertTrue(any('mythos-reconstitution-delphes-' in key for key in selected))
+        self.assertTrue(page.select('figure figcaption a[href^="https://"]'))
+        _, other = self.render_page('héra', 'Héra')
+        self.assertFalse(any('mythos-reconstitution-samos-' in key for key in other))
+
+    def test_long_article_receives_eight_inline_figures_not_just_a_bottom_rail(self):
+        prose = '<p>' + ('Un document archéologique est distinct de ses interprétations et des hypothèses. ' * 6) + '</p>'
+        body = ''.join(f'<h2>Partie {i}</h2>{prose}' for i in range(24))
+        doc, selected = self.render_page('cycle-dramatique', 'Euripide, Médée, Iphigénie et Oreste', body)
+        self.assertEqual(12, len(selected))
+        self.assertEqual(8, len(doc.select('article figure[data-editorial-inline="subject-v3"]')))
+        self.assertEqual(4, len(doc.select('main > aside figure')))
+        self.assertEqual(24, len(doc.article.select('p')))
+        self.assertEqual(24, len(doc.article.select('h2')))
+        again, selected_again = illustrations.decorate_document(str(doc), Path('cycle-dramatique/index.html'), ROOT, self.records)
+        self.assertEqual(selected, selected_again)
+        self.assertEqual(str(doc), again)
+
+    def test_named_scholarly_section_can_be_illustrated_without_unrelated_article_fallback(self):
+        prose = '<p>' + ('Les fragments matériels attestés doivent être distingués des rapprochements interprétatifs. ' * 5) + '</p>'
+        body = '<h2>Les images d’Isis et d’Horus</h2>' + prose + '<h2>Étude philologique</h2>' + prose
+        doc, selected = self.render_page('chapitres/comparatif/volume-experimentation', 'Étude des pratiques rituelles', body)
+        self.assertTrue(any('isis' in key for key in selected))
+        self.assertEqual(1, len(doc.select('article figure[data-editorial-inline="subject-v3"]')))
+        self.assertLess(str(doc).index('Les images d’Isis'), str(doc).index('mythos-editorial-inline'))
+        unrelated, selected_unrelated = self.render_page('chapitres/comparatif/volume-chronologies', 'Calendriers de l’Inde',
+                                                        '<h2>Comparaison avec Derveni</h2>' + prose)
+        self.assertEqual([], selected_unrelated)
+        self.assertFalse(unrelated.select('figure[data-editorial-inline]'))
 
     def test_existing_image_with_query_is_not_duplicated(self):
         record = next(r for r in self.records if 'antigone' in r['id'])
