@@ -2,7 +2,7 @@
   "generated_at": "2026-11-04",
   "site": "bobmythos.fr",
   "method": "Illustrations photoréalistes interprétatives, textes et sources hors des pixels.",
-  "count": 29,
+  "count": 30,
   "entries": [
     {
       "id": "DEL-PAN-001",
@@ -552,6 +552,28 @@
       "provenance": "Création numérique photoréaliste originale assistée par IA ; ni image d’archives ni rendu photogrammétrique. Aucun menu, texte ou interface intégré dans le visuel. Pas de validation institutionnelle du rendu.",
       "sha256": "35cf9c286f23aa6761dcedaf89115e80aa8721211dff95835891ea8e1633d852",
       "scientific_notice": "/assets/reconstitutions-3d/notices/argos-theatre-hellenistique-panorama.json"
+    },
+    {
+      "id": "RHA-NEM-001",
+      "slug": "rhamnonte-nemesis-themis-sanctuaire-panorama",
+      "title": "Rhamnonte — sanctuaire de Némésis et Thémis, en Attique",
+      "period": "Évocation vers 420–400 av. J.-C. (fin du Ve siècle av. J.-C.)",
+      "caption": "Vue panoramique photoréaliste interprétative de la terrasse sacrée de Rhamnonte, avec le grand temple dorique de Némésis et le petit sanctuaire voisin associé à Thémis, face au golfe d’Eubée.",
+      "commentary": "Le sanctuaire de Rhamnonte, en Attique nord-orientale, domine le golfe d’Eubée. Une terrasse artificielle porte deux temples voisins. Le grand temple de Némésis est un temple dorique périptère à six colonnes sur les petits côtés et douze sur les grands côtés, daté de la seconde moitié du Ve siècle av. J.-C. ; des finitions restèrent inachevées. Le bâtiment voisin, plus ancien et de moindre dimension, était associé aux cultes de Némésis et Thémis. La proposition visuelle figure une phase approximative vers 420–400 av. J.-C., mais la toiture entièrement achevée du grand temple, les ornements sculptés répétés sur les côtés, la polychromie, la forme du petit sanctuaire et la disposition des chemins et des paysages sont conjecturales. Le décor latéral figuré est particulièrement susceptible d’être excessif et ne doit pas être considéré comme documenté. L’image ne résulte d’aucun relevé photogrammétrique et ne prétend pas montrer un état stratigraphique certifié. Le paysage maritime et les deux temples voisins sont attestés, mais leurs dimensions et leur implantation relative dans l’image ne sont pas métriquement validées. Les sources citées documentent le monument ; elles ne cautionnent pas cette image.",
+      "certainty": "Élevée : localisation à Rhamnonte, deux temples voisins, terrasse donnant sur le golfe d’Eubée et grand temple dorique périptère. Moyenne : configuration générale des élévations et datation proposée vers 420–400 av. J.-C. Faible : toiture complète, ornementation et polychromie, reliefs répétés, dimensions relatives, topographie de détail, végétation et revêtements.",
+      "source_url": "https://www.hh.gr/en/destinations/rhamnous/",
+      "secondary_sources": [
+        "https://www.ascsa.edu.gr/index.php/publications/hesperia/issue/58/2/",
+        "https://perseus-aa.github.io/items/aa_3913.html"
+      ],
+      "src": "/assets/reconstitutions-3d/rhamnonte-nemesis-themis-sanctuaire-panorama.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-04",
+      "type": "Nouveau panorama 3D photoréaliste interprétatif non métrique",
+      "provenance": "Reconstitution numérique photoréaliste originale assistée par IA, évocation interprétative non métrique. Aucun menu, texte ou interface incrusté. Ni photogrammétrie ni caution scientifique institutionnelle.",
+      "sha256": "39450b0d17260e59b83ff6bd30dca13afb5fb8e1084b3ec73169fa03f9374270",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/rhamnonte-nemesis-themis-sanctuaire-panorama.json"
     }
   ]
 }
