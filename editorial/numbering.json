@@ -496,6 +496,12 @@
           "path": "chapitres/encyclopedie/chapitre-387-eleos-pitie-supplication-athenes-justice-tragedie.md",
           "request_sha256": "b7f8d6b5d0d1a1a6a59fc44d03c30b0ea2a189f348e4d42a2034f35975f89872",
           "initial_source_sha256": "7631e652eb58a1deaa6046dc9c5628db7ad49548e79408fa2e8fb8acbb32e446"
+        },
+        "f23cf1ad-6f04-4bcb-b8f7-6d2b0b8814ee": {
+          "number": 388,
+          "path": "chapitres/encyclopedie/chapitre-388-pheme-rumeur-renommee-athenes-aeschine-demosthene.md",
+          "request_sha256": "7e8478ff89c454dc6f6353affc1fce8e393018f6c4c3c95ca5852df1ac959ae6",
+          "initial_source_sha256": "cb5ed30eb8862c7c61cb8b8c390ef2bf68fe0a39350625ae3146bf28c5ea6438"
         }
       }
     },
@@ -604,6 +610,12 @@
           "path": "chapitres/comedies/volume-065-telekleides-hesiodoi-poesie-verite-cite-pericles.md",
           "request_sha256": "936e44a643371f63426a46df82b177202e0f50e132bcdbbc3007c6750fffaab3",
           "initial_source_sha256": "621befb9ea6fc522026287e1eec11936a628632d81ffb3b61dfe5061be77248d"
+        },
+        "a3c8f7d1-5b64-4e2a-9c10-7d3f2b6a8e41": {
+          "number": 67,
+          "path": "chapitres/comedies/volume-067-telekleides-sterrhoi-corps-travestissement-banquet-desir.md",
+          "request_sha256": "1a7104895c1e97c262ea30ae8294b1dea0b4416b8bf830993de9410662fb1312",
+          "initial_source_sha256": "60d2a8416479d67d35e61d5616c76326b3014e6c2546aa202c8bac6606fde1a3"
         }
       }
     },
@@ -1009,6 +1021,48 @@
           "path": "chapitres/comparatif/volume-clxxxii-christopher-tilley-phenomenologie-paysage-lieux-chemins-monuments-sacres.md",
           "request_sha256": "24732af18a960141f02ffc402a51e823af84cb57827854ef4907a684b5c6e660",
           "initial_source_sha256": "af8c2c36f52135b5192931f1e6b3d60a1068e502e9defad3986e2be784ebd037"
+        },
+        "3c2f2851-2f7a-4b64-b407-9404d2632125": {
+          "number": 183,
+          "path": "chapitres/comparatif/volume-clxxxiii-maat-isfet-justice-verite-ordre-cosmique-desordre-egypte.md",
+          "request_sha256": "dbd81c1093d0a3d6ecf5a0ae44c53c7f36f5183821a254ed5b1bd07e6addc9be",
+          "initial_source_sha256": "c81e98f65f5cb9c8c62a98553b33733820c1d137eb3b226848ec03254bdacb64"
+        },
+        "4b7e9a3c-6d1f-4c20-9a8b-1e7f2d5c6a90": {
+          "number": 184,
+          "path": "chapitres/comparatif/volume-clxxxiv-edward-casey-lieu-memoire-corps-implacement-topos-chora.md",
+          "request_sha256": "388d3dbacbdcf2c7bb70a173d38c580c514067b927d47749ae9279da9a257511",
+          "initial_source_sha256": "e004a0a6aa344cd4f1999b1643a0300f788f33b78735d05b9ec5603ba3803b52"
+        },
+        "59fadd4c-fde3-43a0-b2d5-2c6cbb597bdc": {
+          "number": 185,
+          "path": "chapitres/comparatif/volume-clxxxv-barbara-bender-paysages-contestes-patrimoine-stonehenge-memoire-pouvoir.md",
+          "request_sha256": "3c0a3c9c2fb3df12e77edfec8c0cd889f0e4a67b7b99b6c6bff44d38a538ccd3",
+          "initial_source_sha256": "3b8afd5559cc141a9b2654170c6e196152ebd41a48ad06911fd94a1510ec4d83"
+        },
+        "5e3c8d41-7a62-4fb9-94d0-2c1b6f7e8a53": {
+          "number": 186,
+          "path": "chapitres/comparatif/volume-clxxxvi-yi-fu-tuan-espace-lieu-topophilie-paysages-peur-geographie-humaniste.md",
+          "request_sha256": "d93c7ef854eea091bf2f5b470267326981c70eb3ca3f6a408534c75fe5a22607",
+          "initial_source_sha256": "99348f9678407ca3b1ff3d829ed02e75300862deffb5141bcc95063a50963b24"
+        },
+        "97cd15b2-2ca4-4f51-a42d-72f4da5438b6": {
+          "number": 187,
+          "path": "chapitres/comparatif/volume-clxxxvii-maat-isfet-verite-justice-ordre-cosmique-egypte.md",
+          "request_sha256": "32dd97033c157bedb86e19864104a22ad2a82179a2a450d2d6999cb1ff3b80b8",
+          "initial_source_sha256": "ea8f089b14f68c008805a46ce203d4e0b3b3460530aabd9902f94525dc92f3d2"
+        },
+        "e0a71bf4-a436-4d9a-97c7-3e2283b59526": {
+          "number": 188,
+          "path": "chapitres/comparatif/volume-clxxxviii-destin-necessite-shai-shimtu-moires-iran-ancien.md",
+          "request_sha256": "b881c7a1b5d7d9d6d453fd140081bb9c56865790003f4ec75d52844d26873bb7",
+          "initial_source_sha256": "ef1cfc1285ccf72c6d0594df3109cfa71eb63801209584cadd5bebc2093ca79c"
+        },
+        "f4a60dfb-e865-468b-b496-1d0d81f6ff4a": {
+          "number": 189,
+          "path": "chapitres/comparatif/volume-clxxxix-mc-025-maat-isfet-justice-verite-desordre-egypte-ancienne.md",
+          "request_sha256": "26ee24c94bd630e1aa053e4e942bc199205cf4de47a9a2a930941e8414f1fb19",
+          "initial_source_sha256": "2628d49f6a2c804c505b6282703e748925e69cb638cb8b9a2c36a9f7e3d985dd"
         }
       }
     }

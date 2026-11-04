@@ -1,0 +1,377 @@
+# MYTHOS — Cycle comparatif universitaire — Volume CLXXXV (185)
+
+## Barbara Bender : paysages contestés, mémoire des lieux, Stonehenge et politique du patrimoine
+
+*Étude universitaire française originale — 4 novembre 2026. Collection : études comparatives MYTHOS. Texte public approuvé pour publication ; aucune donnée privée.*
+
+### Résumé
+
+Comment un lieu devient-il patrimoine et qui peut en définir la signification ? L'anthropologue Barbara Bender montre qu'un paysage n'est ni un tableau neutre ni une archive immobile. Il est produit par les pratiques, les transformations matérielles, les mémoires, les limites d'accès et les conflits d'autorité. *Landscape: Politics and Perspectives* (1993), *Stonehenge: Making Space* (1998), *Contested Landscapes* (2001), « Time and Landscape » (2002) et *Stone Worlds* (2007) forment un programme d'analyse de la pluralité des temps et des acteurs. Cette monographie reconstruit sa méthode, ses débats et ses limites, puis confronte ses questions à Stonehenge, Leskernick et aux sources grecques sur l'Acropole, Éleusis et la géographie politique. Elle propose aussi une discussion des liens possibles avec les pratiques patrimoniales égyptiennes et mésopotamiennes, les théories philosophiques de l'espace et la gestion des communs.
+
+### Règles critiques
+
+**[A] Attesté** : passage primaire localisé, référence éditoriale confirmée, document institutionnel daté. **[B] Interprétation** : lecture analytique appuyée sur les sources. **[C] Hypothèse** : rapprochement ou proposition nouvelle qui ne constitue pas une filiation démontrée. Les références de pages d'éditeur garantissent l'existence des ouvrages, non leur collation intégrale lorsqu'ils ne sont pas librement disponibles. Aucune observation de terrain originale ni reconstitution de rite inconnu n'est revendiquée.
+
+## I. Genèse et matériaux de l'œuvre
+
+### 1. Une archéologie de l'espace politiquement situé
+
+Barbara Bender propose de ne pas confondre paysage et vue panoramique. Le lieu ne se présente pas à tous depuis la même position : certains y travaillent, d'autres l'administrent, y accomplissent des rites, y vivent une histoire familiale, ou n'y accèdent qu'au moyen d'une visite organisée. Ce que l'on nomme « paysage » résulte de ces pratiques, des aménagements et des rapports de force. L'environnement physique n'est pas une illusion ; reliefs, pierres et cours d'eau résistent aux interprétations. Mais la sélection des points de vue, la délimitation des accès et l'attribution de valeurs patrimoniales ne sont pas des faits purement naturels. [B]
+
+### 2. Le programme collectif de 1993
+
+*Landscape: Politics and Perspectives* est un volume dirigé par Barbara Bender en 1993 chez Berg. La notice de Routledge, qui en reproduit le sommaire, réunit archéologues, géographes et anthropologues, dont Christopher Tilley et Howard Morphy. L'attribution exacte des chapitres importe : il serait incorrect de considérer chaque contribution comme un texte personnel de Bender. Leur question partagée porte sur la production des lieux par l'histoire, l'expérience et les rapports politiques. Les terrains étudiés diffèrent considérablement, de l'Europe aux espaces australiens et arctiques. Une unité théorique ne doit donc pas effacer la diversité des preuves mobilisées par chaque chapitre. [A/B]
+
+### 3. Pourquoi « politique » et « perspectives » ?
+
+Les deux termes du sous-titre s'éclairent mutuellement. « Politique » rappelle que les lieux sont régis par des propriétés, des droits, des interdictions et des investissements ; « perspectives » rappelle que les expériences divergent aussi à l'intérieur d'une même institution. Une carte peut rendre visible un monument tout en laissant hors champ des sentiers fréquentés par les riverains. Une brochure peut célébrer un passé glorieux en omettant le travail qui entretient les vestiges. La critique du paysage ne consiste pas à rejeter toute carte ou toute brochure, mais à demander ce qu'elles montrent, ce qu'elles omettent et à qui elles s'adressent. [B]
+
+### 4. Stonehenge : le livre de 1998
+
+*Stonehenge: Making Space* paraît en 1998 chez Berg. Les notices bibliographiques et les recensions contemporaines confirment sa publication et son format expérimental. Le livre ne décrit pas uniquement des menhirs préhistoriques : il examine les usages récents d'un lieu qui suscite des conflits entre protection archéologique, visites, traditions religieuses contemporaines et revendications collectives. La présence de dialogues et d'illustrations sert à faire apparaître plusieurs catégories d'acteurs. Elle ne donne cependant pas un accès immédiat aux expériences des constructeurs néolithiques. La pluralité des voix contemporaines et l'archéologie de la préhistoire sont deux registres distincts. [A/B]
+
+### 5. Le collectif de 2001 et ses déplacements
+
+Barbara Bender et Margot Winer dirigent *Contested Landscapes: Movement, Exile and Place*, publié en 2001. Le catalogue de la Smithsonian Institution précise qu'il rassemble des travaux liés à une session du World Archaeological Congress organisé au Cap en 1999. Le sommaire évoque aussi bien le conflit, la migration et l'exil que les paysages urbains et les mémoires coloniales. L'idée de paysage contesté ne signifie pas que toute opposition serait nécessairement violente ; elle signifie qu'aucun lieu ne possède par nature un récit unanimement reconnu. Les accords, lorsqu'ils existent, sont eux aussi historiquement produits. [A/B]
+
+### 6. Un chapitre sur l'Acropole dans le collectif
+
+Le catalogue institutionnel de 2001 cite « The Shadow of the Sacred Rock: Contrasting Discourses of Place under the Acropolis ». Ce titre atteste l'intérêt du recueil pour plusieurs discours contemporains portant sur le même site athénien. Il ne permet pas, à lui seul, d'identifier la parole de tous les habitants ni de restituer le détail des débats analysés. La comparaison pourra s'appuyer indépendamment sur la description de l'Acropole par Pausanias, mais le texte antique et l'étude contemporaine n'appartiennent ni à la même époque ni au même genre documentaire. [A/B]
+
+### 7. « Time and Landscape », article primaire
+
+Bender publie « Time and Landscape » dans *Current Anthropology*, 43, supplément 4, août 2002, p. S103–S112, DOI 10.1086/339561. Le texte intégral accessible chez University of Chicago Press insiste sur la pluralité des temporalités et sur le fait qu'un paysage est continuellement réélaboré plutôt qu'archivé dans un état définitif. L'article s'intéresse également aux positions sociales inégales et à l'implication de l'analyste. Ces idées doivent être distinguées de la thèse excessive selon laquelle un récit présent rendrait arbitrairement toutes les datations archéologiques équivalentes. [A/B]
+
+### 8. Stone Worlds, ouvrage multiauteurs de 2007
+
+*Stone Worlds: Narrative and Reflexivity in Landscape Archaeology*, publié en 2007, associe Bender à Sue Hamilton et Christopher Tilley. Routledge décrit l'enquête consacrée notamment au site de Leskernick, sur Bodmin Moor, en Cornouailles, et le recours à la géologie, l'écologie, la photographie, la narration et l'archéologie. Cette diversité ne produit pas automatiquement une vérité commune : chaque contribution doit exposer la nature de ses données. L'intérêt du projet tient à la mise en relation de compétences qui reconstruisent différents aspects d'un même milieu sans présumer qu'une seule discipline le possède. [A/B]
+
+### 9. Un itinéraire plutôt qu'une école fermée
+
+Ces publications ne constituent pas les étapes d'une doctrine dont chaque nouveau livre annulerait le précédent. Elles manifestent un déplacement des terrains : théorie du paysage, conflit patrimonial, mobilité et exil, temps et mémoire, puis méthode réflexive de terrain. Elles ont pour continuité la contestation d'un paysage compris seulement comme support neutre de l'action humaine. Il serait toutefois abusif d'attribuer à Bender tout argument élaboré par un collectif qu'elle dirige. Une histoire savante doit suivre les signatures, les chapitres, les dates et les conditions de production des sources. [B]
+
+## II. Concepts, temporalités et asymétries
+
+### 10. Un paysage produit sans être imaginaire
+
+Le paysage résulte d'activités qui transforment matériellement les lieux : ouvrir une route, creuser une fosse, bâtir un mur, planter ou détruire une forêt. Ses significations sont également construites : une colline devient limite politique, lieu funéraire, destination de pèlerinage ou signe d'appartenance. Dire que le paysage est produit ne supprime ni la géologie ni la biologie. Une destruction ou une érosion ont des effets mesurables indépendamment du récit qu'on en donne. Le problème scientifique est d'étudier ensemble ces contraintes et les décisions qui organisent leur usage. [B]
+
+### 11. Plusieurs temporalités dans une même vallée
+
+La pierre dure plus longtemps que certains rituels ; un tracé de route peut demeurer après la disparition du pouvoir qui l'a créé ; une tradition récente peut se présenter comme très ancienne. Ces durées n'ont pas la même échelle. L'article de 2002 donne à la pluralité temporelle une place centrale : on ne comprend pas un paysage en superposant simplement des couches immobiles de passé. Le présent réorganise les traces anciennes, les raconte, les expose et parfois les détruit. L'histoire d'un lieu doit inclure ses nouvelles utilisations sans les confondre avec son origine. [A/B]
+
+### 12. La multivocalité n'est pas l'indifférence à la vérité
+
+Divers interlocuteurs peuvent parler du même monument depuis des expériences différentes. Un archéologue examine une stratigraphie, un habitant évoque une mémoire familiale, un visiteur cherche une expérience esthétique, une organisation religieuse défend un accès rituel. L'enquête doit reconnaître ces perspectives tout en conservant les critères de preuve propres à chaque question. Une datation radiocarbone ne devient pas une opinion interchangeable avec une légende ; un attachement à un lieu ne devient pas inexistant parce qu'il ne s'exprime pas dans la langue de l'archéologie. [B]
+
+### 13. La sélection des mémoires
+
+Les décisions de restauration privilégient nécessairement certains éléments : conserver une ruine, restituer une élévation supposée, mettre en valeur un parcours ou protéger une zone des visiteurs. Elles sélectionnent ce que les publics pourront voir et retenir. Un état reconstruit peut être très instructif s'il est sourcé, mais trompeur s'il efface les interventions modernes. Bender invite à demander quelles mémoires s'imposent et lesquelles deviennent périphériques. L'analyse critique ne signifie pas qu'il faudrait restaurer simultanément toutes les périodes, entreprise matériellement impossible. Elle exige de justifier les choix et d'en rendre les limites visibles. [B]
+
+### 14. L'espace de la carte et l'espace pratiqué
+
+Une carte place les objets dans un système de coordonnées ; elle n'indique pas nécessairement quels trajets étaient autorisés, redoutés ou pratiqués selon les saisons. Un chemin peut exister physiquement et être fermé par une règle ; une ligne de vue peut être parfaite depuis un lieu auquel certains n'ont pas accès. L'enquête gagne à combiner topographie, règlements, récits, traces matérielles et observations contemporaines. Elle ne doit pas remplacer la mesure spatiale par une marche purement intuitive. Les deux procédés répondent à des questions différentes. [B]
+
+### 15. Marcher et interpréter
+
+Traverser un site permet de repérer pentes, ruptures de vue, orientations et obstacles qui ne se ressentent pas pleinement devant une photographie. Cette expérience contemporaine peut orienter de nouvelles hypothèses sur l'emplacement d'édifices ou de routes. Mais le sol, les bâtiments et les habitudes ont changé : marcher aujourd'hui n'est pas « revivre » une cérémonie préhistorique. La perception du chercheur doit être datée et reliée à la documentation. La méthode est heuristique, non une preuve indépendante des sentiments ou croyances des personnes disparues. [B/C]
+
+### 16. Le pouvoir d'ouvrir et de fermer
+
+Qui décide qu'un site est accessible ? À quelle heure, à quel prix, avec quel type d'accompagnement et pour quelles pratiques ? Ces détails constituent des rapports politiques concrets. La conservation peut justifier certaines restrictions afin d'éviter des dégradations ; elle peut aussi s'appliquer de manière inégale. Il faut documenter les raisons, les conséquences et les voies de recours plutôt que qualifier automatiquement tout contrôle de domination. La justice patrimoniale ne se confond pas avec la fréquentation maximale, mais elle requiert des procédures de décision explicites. [B]
+
+### 17. Mémoire vécue et héritage revendiqué
+
+Un groupe peut se reconnaître dans un monument sans pouvoir établir une filiation historique ininterrompue avec ses constructeurs. Ce lien actuel possède une signification sociale réelle, mais il doit être distingué d'une affirmation archéologique sur les origines. La recherche peut étudier les pratiques contemporaines de mémoire, leurs déplacements et leurs effets institutionnels. Elle ne saurait les convertir automatiquement en preuves de continuité religieuse. L'équilibre est exigeant : éviter le mépris des acteurs présents et refuser les généalogies inventées. [B]
+
+### 18. La position du chercheur
+
+L'article « Time and Landscape » souligne que l'analyste se situe dans un ensemble de rapports sociaux. Le choix des informateurs, l'accès à une zone et la diffusion d'une carte peuvent favoriser certains récits. Expliciter ces conditions accroît la fiabilité du savoir : l'objectivité n'est pas l'absence de point de vue, mais la possibilité de contrôler les méthodes, les informations et les biais. La réflexivité ne doit pas se transformer en autobiographie autosuffisante : elle prend sens lorsqu'elle améliore l'enquête. [A/B]
+
+### 19. Une politique du paysage sans fatalisme
+
+Une frontière héritée peut être renégociée, une route déplacée, une institution réformée. Le passé matériel contraint les possibilités sans déterminer intégralement les choix. Cette ouverture oblige à considérer le paysage comme affaire publique : la valeur d'un monument ne décide pas à elle seule de la manière dont ses coûts de conservation seront répartis. Les habitants peuvent défendre des intérêts divergents sans être réductibles à une opposition de l'ignorance et de l'expertise. Les décisions doivent préserver à la fois les données du passé et les droits des vivants. [B]
+
+## III. Stonehenge comme histoire de conflits
+
+### 20. Un territoire, pas seulement un cercle de pierres
+
+L'UNESCO définit « Stonehenge, Avebury et sites associés » comme un paysage comprenant monuments, avenues, tumulus, aménagements et espaces funéraires. Le bien est inscrit depuis 1986. Les ensembles documentent une longue série de pratiques du Néolithique et de l'âge du Bronze, approximativement entre 3700 et 1600 avant notre ère. Il serait donc trompeur d'imaginer une construction unique commandée par une communauté homogène et dotée d'un sens jamais modifié. La recherche doit reconstruire différentes phases et les relations entre lieux, au lieu d'isoler une carte postale monumentale. [A]
+
+### 21. Chronologie et usages successifs
+
+Des installations successives peuvent conserver une orientation tout en changeant de fonction. Une structure funéraire n'est pas automatiquement identique à un lieu d'assemblée ou à un repère saisonnier, même lorsqu'ils se recoupent. Les datations, les restes humains, les objets associés et les relations stratigraphiques fondent les reconstructions. La pluralité des interprétations actuelles ne permet pas d'abolir ces contraintes documentaires. L'approche de Bender ajoute une seconde durée : la longue réception moderne, dont les archives sont d'un autre type que celles de la préhistoire. [A/B]
+
+### 22. L'orientation solsticiale
+
+L'UNESCO relève la relation entre l'Avenue et des orientations solsticiales du complexe de Stonehenge. L'observation d'un axe matériel constitue une donnée analysable ; il ne prouve pas à lui seul le texte d'une prière, l'identité de toutes les divinités supposées ou les émotions des participants. L'hypothèse d'un usage cérémoniel doit être confrontée à la disposition d'ensemble et aux autres indices. Il faut maintenir la séparation entre précision astronomique et certitude religieuse ; la première ne fournit pas automatiquement la seconde. [A/B]
+
+### 23. L'Avenue comme possibilité de parcours
+
+Une voie aménagée peut orienter un déplacement collectif, organiser des approches et produire des changements de visibilité. Elle constitue un indice pertinent pour l'étude des gestes et de l'espace. En revanche, la trajectoire exacte des personnes, leur statut ou leurs paroles ne peuvent être déduits d'un simple tracé sans documents complémentaires. Une reconstitution visuelle qui montre une procession doit annoncer sa part conjecturale. C'est ainsi que la sensibilité phénoménologique peut demeurer compatible avec les exigences ordinaires de l'archéologie. [B/C]
+
+### 24. Les restaurations deviennent de l'histoire
+
+Les monuments ne sont pas demeurés intacts depuis leur édification. L'entretien et les interventions modernes modifient ce que les visiteurs voient. Une photographie d'aujourd'hui est une source pour l'état actuel, non une restitution suffisante du paysage antique. La protection peut rendre un site plus intelligible tout en créant un nouvel arrangement de voies, de panneaux ou de barrières. Bender conduit à inclure cette action patrimoniale dans l'histoire du lieu. Les dispositifs de présentation ne sont pas extérieurs au paysage qu'ils donnent à voir. [B]
+
+### 25. Le monument et l'imaginaire national
+
+Un monument préhistorique peut devenir symbole d'une histoire nationale moderne. Cette appropriation diffuse parfois des connaissances, suscite un financement et renforce la protection ; elle peut aussi effacer des temporalités qui ne correspondent pas au récit dominant. Les constructeurs de Stonehenge n'étaient pas membres d'un État national contemporain. L'historien doit éviter l'anachronisme des appartenances et distinguer la valeur patrimoniale actuelle des affiliations politiques anciennes. La continuité géographique ne signifie pas que les institutions sont restées identiques. [B]
+
+### 26. Les groupes spirituels contemporains
+
+Certains usagers actuels attribuent à Stonehenge une signification religieuse. Leurs rassemblements sont des faits sociaux observables, qu'il faut étudier avec précision et respect. Mais une pratique néodruidique moderne n'atteste pas une transmission sans rupture depuis les bâtisseurs du Néolithique. La pluralité des usages doit être reconnue sans rendre toutes les généalogies également fondées. L'archéologie n'a pas pour fonction de distribuer des certificats de spiritualité ; elle doit décrire le passé et rendre transparentes les limites des preuves. [B]
+
+### 27. La revendication d'accès comme problème politique
+
+Un site fragile demande des protections contre les dégradations, mais une fermeture permanente peut être ressentie comme une exclusion. L'enjeu est de savoir qui décide, qui est entendu et comment les risques sont évalués. Les intérêts des gestionnaires, visiteurs et habitants ne sont jamais totalement homogènes. Une règle peut être écologiquement justifiée et néanmoins soulever un problème d'équité. Une histoire critique du paysage doit reconstruire la procédure de choix et les effets des décisions, pas seulement la beauté du monument. [B]
+
+### 28. Routes, bruit et paysage
+
+La documentation UNESCO identifie les impacts des infrastructures routières, notamment l'A303, parmi les enjeux de conservation du bien. Les routes influencent la vue, le bruit, les accès et potentiellement les vestiges enfouis. Elles concernent aussi la circulation des personnes et des marchandises. Une politique patrimoniale ne peut décider du meilleur tracé par la seule description poétique du lieu ; elle doit confronter les preuves archéologiques, les besoins de mobilité, les effets environnementaux et les coûts. Le conflit est réel précisément parce que plusieurs biens collectifs sont en jeu. [A/B]
+
+### 29. La protection universelle et les attaches locales
+
+Le statut de patrimoine mondial qualifie un site d'importance internationale, alors que ses riverains peuvent lui accorder des valeurs quotidiennes différentes. Les régimes d'autorité ne se confondent pas. Une administration peut mobiliser des experts pour éviter des dommages et être tenue d'expliquer ses choix à ceux qui vivent sur place. La valeur universelle exceptionnelle n'est pas un mandat illimité pour ignorer les pratiques locales. Inversement, la familiarité d'un groupe avec le site ne garantit pas à elle seule que toutes ses interprétations historiques soient exactes. [B]
+
+### 30. Le sens de « faire de la place »
+
+Le titre *Making Space* peut être lu comme un programme : rendre disponibles des espaces d'expression à des acteurs dont les discours sont parfois marginalisés, tout en analysant les conflits réels qu'une telle ouverture révèle. Cette lecture est interprétative ; elle ne doit pas être transformée en citation littérale non contrôlée d'une page précise. Le projet porte sur la manière dont la présentation d'un monument produit des possibilités politiques. Un paysage ouvert au débat n'est pas pour autant dispensé de règlements fondés sur la conservation. [B]
+
+## IV. Leskernick, Bodmin Moor et l'archéologie réflexive
+
+### 31. La portée du projet Stone Worlds
+
+Le projet présenté dans *Stone Worlds* concerne notamment Leskernick et les paysages préhistoriques de Bodmin Moor, en Cornouailles. Ses travaux associent différents spécialistes et des styles d'exposition inhabituels : récit, photographie, analyses techniques et discussions méthodologiques. L'ambition est de rendre visible comment la connaissance du site se fabrique. Le terrain n'est pas un théâtre où une seule discipline imposerait une narration complète. Il faut néanmoins tenir distinctes la donnée observée, l'expérience du chercheur et la création littéraire destinée à communiquer cette expérience. [A/B]
+
+### 32. Voir depuis une colline
+
+Un point élevé rend certains monuments visibles et en cache d'autres. La distance, les conditions climatiques, la végétation et les aménagements modernes modifient l'expérience. Une observation de terrain peut suggérer qu'un emplacement a été choisi pour son rapport visuel à un autre, mais cette proposition requiert des comparaisons et des contre-exemples. La présence d'une belle vue n'est pas une preuve suffisante de fonction religieuse. La phénoménologie du paysage peut fournir des hypothèses rigoureuses si elle expose aussi les limites du déplacement contemporain. [B/C]
+
+### 33. Le chemin et la saison
+
+Un itinéraire qui paraît praticable en été peut devenir difficile en hiver. Les sols humides, les pratiques pastorales et les clôtures créent des différences saisonnières. Pour comprendre les déplacements anciens, le chercheur doit reconstruire autant que possible les transformations hydrologiques et les usages du terrain. Les sensations d'aujourd'hui sont médiatisées par des siècles d'aménagement. La prudence contre l'anachronisme est d'autant plus importante que l'enquête fait intervenir l'expérience corporelle du chercheur comme moyen d'observation. [B]
+
+### 34. Images, relevés et paroles
+
+La photographie décrit une situation depuis un angle choisi ; le relevé topographique conserve des relations métriques ; un témoignage récent raconte un usage et peut porter un attachement affectif. Aucun document ne se suffit à lui seul pour toutes les questions. La méthode multivocale doit rendre leurs provenances visibles. Si un poème récent évoque un tumulus, il ne démontre pas le rituel qui y fut accompli au Bronze ancien. Une histoire qui distinguerait mal ces régimes de preuve confondrait publication universitaire et fiction de reconstitution. [B]
+
+### 35. Un projet d'équipe n'est pas la somme de monologues
+
+La collaboration exige des lieux de discussion sur les erreurs, les interprétations concurrentes et les données qui résistent aux premières hypothèses. La pluralité des disciplines ne garantit pas automatiquement l'exactitude : plusieurs erreurs indépendantes peuvent se renforcer si les critiques ne sont pas formulées. *Stone Worlds* peut être compris comme une tentative d'exposer ces frictions. Il convient de ne pas attribuer à Bender, individuellement, les résultats détaillés de toutes les contributions cosignées. [A/B]
+
+### 36. Les habitants du terrain
+
+Les personnes qui vivent et travaillent près d'un site peuvent savoir où passent des chemins, comment certains lieux sont nommés et quelles transformations récentes ont eu lieu. Leur expérience mérite une place dans l'histoire du paysage. Mais elle ne remplace ni la stratigraphie ni les datations lorsqu'il s'agit de périodes préhistoriques. Le savoir local peut proposer des pistes et corriger des descriptions trop abstraites ; les affirmations chronologiques particulières doivent être évaluées avec les sources pertinentes. Reconnaître ces deux nécessités est une condition du dialogue. [B]
+
+### 37. Le chercheur transforme aussi le terrain
+
+Une fouille, une enquête publique et une publication cartographique modifient parfois l'usage d'un site. Elles peuvent attirer des visiteurs, susciter de nouvelles protections ou déplacer l'attention vers certains objets. Le chercheur ne peut prétendre être entièrement extérieur à l'histoire qu'il écrit. Les choix d'archivage et de médiation devraient donc être documentés, afin que les futurs lecteurs distinguent l'état ancien du site des opérations scientifiques et administratives modernes. Cette réflexivité protège la valeur des données plutôt qu'elle ne les relativise. [B]
+
+### 38. Stonehenge et Leskernick ne sont pas interchangeables
+
+Une question méthodologique commune ne signifie pas une identité des sites. Les caractéristiques topographiques, les chronologies et les types de vestiges sont différents. Il serait abusif d'expliquer Stonehenge à partir d'un comportement observé à Leskernick sans preuves de circulation et d'institutions communes. Une bonne comparaison précise d'abord ce qui varie : dimensions du monument, densité des habitats, visibilité et durée d'utilisation. Elle indique ensuite la portée limitée des rapprochements proposés. [B/C]
+
+## V. Philologie et comparaisons grecques
+
+### 39. *Topos* : lieu sans paysage universel
+
+Le grec τόπος (*topos*) peut désigner un emplacement, un lieu ou une position ; ses usages philosophiques ne se confondent pas avec les emplois topographiques. Traduire tous les *topoi* par « paysages » projette un concept moderne sur un lexique différent. Chez un auteur décrivant une route, le mot sert à localiser ; dans une réflexion sur la physique, il peut recevoir un statut conceptuel particulier. La philologie exige de reconstruire chaque contexte et les fonctions de l'énoncé plutôt que de fonder une théorie anthropologique sur une équivalence de dictionnaire. [B]
+
+### 40. *Chôra* : territoire et réceptacle
+
+Χώρα (*chôra*) peut désigner une région, un espace ou le territoire associé à une cité. Chez Platon, *Timée* 48e–53b, le terme reçoit une fonction cosmologique complexe qu'on ne saurait ramener au territoire agricole. La coexistence de ces emplois rappelle qu'un lexique n'est pas une doctrine unique. La comparaison avec Bender peut éclairer les écarts entre espace géométrique, milieu habité et propriété politique, mais elle ne démontre pas une continuité historique directe de concepts entre Athènes et l'anthropologie du XXe siècle. [A/B]
+
+### 41. *Temenos* : délimiter un usage sacré
+
+Τέμενος (*temenos*) désigne notamment un espace réservé et souvent consacré, lié à la famille verbale de τέμνω, « couper ». Une délimitation peut être matérielle, juridiquement reconnue ou associée à des restrictions de pratiques. La présence d'une enceinte n'indique pas que tous les sanctuaires fonctionnent de façon identique ; l'absence de mur ne signifie pas nécessairement absence de limite. Pour comparer les lieux, il faut étudier les droits d'accès et les règles des offrandes tels que les sources les attestent. L'étymologie suggère une question, pas la solution complète. [B]
+
+### 42. *Hieros* et *hieron*
+
+Ἱερός (*hieros*) peut qualifier ce qui est sacré ou consacré, et τὸ ἱερόν (*to hieron*) désigner un sanctuaire. Le statut religieux n'est pas un simple sentiment visuel : des pratiques, des prêtres et des décisions peuvent lui donner une réalité institutionnelle. Mais ces mots ne définissent pas une expérience universelle de « l'espace sacré ». Une source donnée doit être replacée dans son culte, son époque et son genre. Le vocabulaire aide à comprendre les frontières de la pratique, sans remplacer l'enquête sur les lieux. [B]
+
+### 43. *Hodos* : parcours et accès
+
+Ὁδός (*hodos*) signifie notamment voie ou chemin. Le mot invite à lire l'espace comme relation entre points, mais n'indique pas par lui-même la largeur ou le statut d'une route. Les voies militaires, commerciales et processionnelles ont des usages parfois simultanés. Pour comprendre une route antique, il faut confronter traces archéologiques, documents de parcours, témoignages et transformations ultérieures. Un itinéraire n'est pas simplement une ligne dessinée sur une carte, mais ne peut être reconstitué par l'imagination seule. [B]
+
+### 44. *Periêgêsis* et la description en mouvement
+
+La famille de περιήγησις (*periêgêsis*) évoque la description par parcours et fournit un titre traditionnel à l'œuvre de Pausanias, *Description de la Grèce*. Cet auteur du IIe siècle de notre ère sélectionne monuments, légendes et histoires locales. Sa manière d'écrire donne une visibilité privilégiée à certains objets et laisse d'autres hors du récit. On peut l'étudier comme opérateur de mémoire, sans supposer qu'il transcrive les voix de tous les groupes qui habitaient les lieux qu'il évoque. [A/B]
+
+### 45. Pausanias I, 22.4 : franchir l'Acropole
+
+Dans *Description de la Grèce* I, 22.4, Pausanias décrit l'unique entrée de l'Acropole d'Athènes et l'effet des Propylées, puis évoque le sanctuaire de la Victoire sans ailes et une vue vers la mer. Les notices du projet *Digital Periegesis* et le texte de Theoi permettent de vérifier ce passage. Il montre comment l'accès, l'architecture et les points de vue s'articulent dans la narration d'un auteur antique. Il ne s'agit toutefois pas d'une photographie directe des conditions de circulation au Ve siècle avant notre ère : l'auteur écrit plusieurs siècles plus tard. [A/B]
+
+### 46. Pausanias I, 23–28 : une topographie de récits
+
+Dans la suite du livre I, statues, offrandes, temples et récits mythiques se succèdent sur l'Acropole. Le monument le plus célèbre d'une image touristique actuelle ne représente pas nécessairement tout le programme de l'auteur. Sa sélection témoigne de pratiques de mémoire et de la place occupée par les cultes locaux. Il faut pourtant rappeler que l'Acropole a subi des changements entre les phases classiques et l'époque de Pausanias. L'analyse de Bender aide à poser les questions de sélection et de temporalité ; elle ne remplace pas la datation indépendante des structures. [A/B]
+
+### 47. Pausanias I, 38.1 : les Rheitoi
+
+Pausanias I, 38.1 appelle Rheitoi des eaux proches d'Éleusis réputées sacrées à Déméter et à Korè. Il explique que la pêche y était réservée aux prêtres et évoque une ancienne limite entre territoire éleusinien et territoire athénien. Un cours d'eau est ainsi présenté simultanément comme fait topographique, frontière de mémoire et domaine de droits différenciés. Le passage est particulièrement utile au comparatisme car il donne une règle concrète plutôt qu'une expérience mystique inférée. Sa date romaine impériale interdit toutefois d'en faire une coutume inchangée de tous les âges grecs. [A/B]
+
+### 48. Pausanias I, 38.3 : autonomie rituelle et dépendance
+
+Dans I, 38.3, Pausanias rapporte que les Éleusiniens auraient gardé la conduite des mystères alors qu'ils dépendaient d'Athènes pour d'autres affaires. Ce récit articule des niveaux d'autorité qui ne coïncident pas. Le paysage sacré ne se confond ni avec une souveraineté politique totale ni avec un simple espace privé. La comparaison avec les controverses patrimoniales contemporaines porte sur la pluralité possible des compétences, et non sur une identité entre les institutions de l'Antiquité et celles du droit moderne. [A/B]
+
+### 49. Pausanias I, 38.7 : la limite de la parole
+
+Pausanias I, 38.7 évoque une interdiction de révéler ce qui se trouve à l'intérieur de certains espaces du sanctuaire d'Éleusis. Le silence de l'auteur est une donnée documentaire ; il ne permet pas de remplir le secret par des reconstitutions libres. L'historien doit distinguer le sanctuaire matériel, les textes qui mentionnent ses rites et les pratiques précises demeurées inconnues. Une image moderne peut illustrer les vestiges attestés, mais elle ne saurait prétendre reproduire une scène rituelle entièrement documentée lorsque les sources ne la donnent pas. [A/B]
+
+### 50. *Hymne homérique à Déméter* 470–482
+
+Les vers 470–482 de l'*Hymne homérique à Déméter*, accessibles au Center for Hellenic Studies, racontent que la déesse communique des rites à des figures d'Éleusis, tout en soulignant le secret attaché à leur célébration. Le texte relie une crise divine, la fécondité de la terre et la reconnaissance d'un lieu sacré. Cette structure narrative éclaire la densité de mémoire du site, mais elle n'est pas un traité sur l'architecture du sanctuaire ni un inventaire de ses rites. Les événements mythiques ne peuvent être datés comme les phases de construction. [A/B]
+
+### 51. Hérodote VIII, 65 : le parcours invisible
+
+Hérodote VIII, 65 rapporte le récit d'une poussière et d'une clameur d'Iacchos venant d'Éleusis durant les guerres médiques, alors que les fidèles ne parcourent pas ordinairement la route en question. Le récit attribue une puissance de mémoire à un trajet, même lorsque sa fréquentation visible est interrompue. L'historien ne doit pas présenter cette scène comme une manifestation surnaturelle prouvée. Elle constitue un document sur la façon dont un auteur grec construit le sens religieux et politique de l'espace de l'Attique. [A/B]
+
+### 52. Hérodote VII, 129 : une géographie disputée
+
+Hérodote VII, 129 expose des traditions sur la Thessalie comme ancien lac au milieu de montagnes, puis rapporte une explication mettant en jeu Poséidon et les tremblements de terre. L'auteur juxtapose des récits locaux et un raisonnement relatif au relief. Il montre, sans théorie explicite du paysage au sens moderne, que plusieurs explications peuvent porter sur les mêmes formes géographiques. Leur valeur géologique doit être vérifiée par la recherche scientifique indépendante ; la narration antique renseigne surtout l'histoire des interprétations. [A/B]
+
+### 53. Aristote, *Politique* VII, 12 : le plan de la cité
+
+Dans *Politique* VII, 12, 1331a–1331b, Aristote prescrit la distribution de lieux de culte, de fonctions politiques et d'agoras au sein d'une cité idéale. Un article de *Classical Quarterly* examine le passage et ses questions de traduction. Cette source est normative : elle ne prouve pas que chaque cité grecque était aménagée selon le même plan. Elle devient intéressante pour une philosophie du paysage lorsqu'on demande comment la disposition des bâtiments hiérarchise les activités et quelles populations sont effectivement prises en compte dans l'idée de cité bien ordonnée. [A/B]
+
+## VI. Comparaisons méditerranéennes et mésopotamiennes
+
+### 54. Le Nil comme milieu historique
+
+En Égypte ancienne, l'articulation de la vallée cultivée, des déserts, des voies fluviales et des ensembles funéraires met en relation topographie, pratiques de travail et institutions religieuses. On ne peut attribuer un seul sens à ces espaces pendant trois millénaires. Une étude inspirée de Bender devrait reconstruire les changements hydrologiques, les archives locales, les travaux de construction et les usages des monuments. Le rapprochement avec Stonehenge ne démontre pas une spiritualité universelle du paysage : il propose un protocole d'enquête adapté à des matériaux très différents. [C]
+
+### 55. Mésopotamie : canaux et dommages
+
+Les dispositions 53–56 du recueil de Hammurabi concernent des dégâts liés à l'entretien ou à l'usage d'ouvrages d'irrigation. Elles attestent des règles de responsabilité qui relient milieu aménagé et obligations sociales. La stèle ne décrit pourtant pas chaque conflit local et ne prouve pas une exécution uniforme des règles. L'intérêt comparatif est de montrer qu'une structure hydraulique peut être simultanément technique, économique et juridique. Pour prolonger l'analyse, il faudrait croiser les prescriptions royales avec des contrats et archives d'administration datés. [A/C]
+
+### 56. Routes sacrées et transformations de fonction
+
+Un parcours peut conduire à un sanctuaire et être simultanément utilisé pour des échanges, une surveillance militaire ou des visites. Les fonctions changent avec les époques. Cette observation générale ouvre des comparaisons avec l'Égypte, la Mésopotamie et le monde grec, mais ne donne aucune permission de substituer les traces d'un site à celles d'un autre. Il faudrait connaître les inscriptions, les infrastructures et les temporalités pour chaque route. La notion de paysage contesté aide à formuler une question historique ; elle ne fournit pas une réponse indépendante des sources. [B/C]
+
+### 57. Éviter le grand récit des civilisations
+
+L'existence de monuments de pierre, de voies et de traditions d'offrande dans différentes sociétés ne permet pas de postuler une origine religieuse identique. Les systèmes de propriété, les formes du culte et les inscriptions varient profondément. Un comparatisme sérieux ne cherche pas d'abord une essence commune de « l'espace sacré ». Il examine des opérations : délimiter, franchir, consacrer, construire, protéger, détruire et raconter. Leurs ressemblances fonctionnelles peuvent faire l'objet d'hypothèses, mais celles-ci restent distinctes de filiations historiques démontrées. [B/C]
+
+## VII. Dialogues philosophiques
+
+### 58. Tilley : lieux, chemins, monuments
+
+Christopher Tilley, déjà traité dans un volume MYTHOS, étudie l'expérience corporelle du paysage et les relations entre lieux et chemins. Bender partage ce souci, mais insiste particulièrement sur l'histoire politique des accès et sur les controverses de représentation patrimoniale. Leur collaboration ne signifie pas que toutes leurs propositions soient identiques. Le présent dossier complète la phénoménologie en posant la question de la distribution sociale des points de vue : certains parcours peuvent être interdits, monétisés ou rendus difficiles par l'infrastructure. [B]
+
+### 59. Ingold : le lieu comme activité
+
+L'anthropologie de Tim Ingold permet de comprendre le monde habité à travers des pratiques de mouvement et d'attention. Bender ajoute une interrogation explicite sur les dispositifs qui gouvernent ces mouvements. Un chemin peut émerger de passages répétés, puis être fermé ou redessiné par une décision. Les matériaux et les institutions sont donc liés sans être réductibles l'un à l'autre. On évitera de confondre la perspective d'Ingold avec le programme politique de Bender : leur comparaison demande une reconstruction des concepts plutôt qu'une fusion terminologique. [B]
+
+### 60. Lefebvre : espace conçu et espace vécu
+
+Dans *La Production de l'espace* (1974), Henri Lefebvre distingue des dimensions de pratiques, de représentations et d'expérience. La comparaison avec Bender invite à confronter carte administrative, circulation effective et mémoire vécue. Mais la théorie de Lefebvre n'est pas une équation qu'on pourrait appliquer sans enquête à chaque sanctuaire. Les conflits autour du patrimoine possèdent des mécanismes propres : droits d'entrée, expertise, conservation, financement, sécurité. Une analyse du paysage doit identifier ces médiations au lieu de se satisfaire d'une opposition générale entre domination et résistance. [B]
+
+### 61. De Certeau : pratiquer un trajet
+
+Dans *L'Invention du quotidien. 1. Arts de faire* (1980), Michel de Certeau décrit les écarts entre la vue surplombante de la ville et les parcours des marcheurs. Cette réflexion aide à apprécier les limites du panorama patrimonial. Cependant, une personne contemporaine qui traverse Stonehenge ne retrouve pas par le seul geste de marcher l'expérience d'un habitant néolithique. Le rapprochement est méthodologique : les mouvements sont sources de questions et de connaissances, non de certitudes rétrospectives. [B/C]
+
+### 62. Massey et la mobilité inégale
+
+Doreen Massey insiste sur les relations spatiales et sur les inégalités de mobilité. Un lieu n'est pas un conteneur fermé : des flux économiques, juridiques et sociaux le traversent. Dans un site patrimonial, certaines personnes peuvent venir aisément, d'autres travaillent sur place sans participer aux décisions, d'autres encore ne peuvent se permettre la visite. Cette attention aux positions sociales complète les analyses archéologiques des routes et des monuments. Elle ne remplace pas les données de fréquentation, les études d'impact et les entretiens nécessaires à l'enquête. [B]
+
+### 63. Mauss, Gell et la matérialité du souvenir
+
+Mauss permet d'interroger des offrandes et des obligations socialement instituées ; Alfred Gell étudie des relations d'agentivité autour des objets et des œuvres ; Bender demande comment ces relations s'étendent dans un espace parcouru et administré. Un monument n'agit pas seul : les institutions et les publics produisent sa réception. Il serait abusif d'assimiler un don ancien à une politique moderne de conservation ou de prêter à la pierre une intention humaine. La comparaison éclaire des médiations sans effacer la différence des catégories. [B/C]
+
+### 64. Ostrom : un patrimoine comme commun ?
+
+Les travaux d'Elinor Ostrom suggèrent d'étudier les droits d'accès, les règles d'entretien et la résolution des différends. Tous les monuments ne sont pourtant pas des ressources communes au sens économique strict ; leurs usages peuvent être rivaux ou non suivant les formes de fréquentation. Le rapprochement sert à examiner qui gouverne un bien collectif et selon quelles procédures. Une bonne concertation ne peut ignorer les obligations matérielles de conservation, pas davantage qu'une protection compétente ne devrait rendre les usagers entièrement muets. [B/C]
+
+## VIII. Critiques, propositions et synthèse
+
+### 65. Le risque de la multivocalité décorative
+
+Inviter de nombreuses voix dans une publication ne garantit pas que les décisions soient partagées. Un livre peut citer des riverains tout en laissant à une seule institution le pouvoir d'imposer l'accès et la restauration. La critique doit distinguer représentation dans un texte, présence dans une réunion et capacité réelle d'influencer une décision. Sans cette distinction, la multivocalité devient un style éditorial dépourvu de portée politique. Bender fournit les questions, mais chaque enquête doit mesurer les mécanismes de participation et leurs limites. [B]
+
+### 66. Le danger du relativisme
+
+Un récit d'attachement doit être respecté sans être confondu avec une datation archéologique. Un monument peut accueillir des usages religieux contemporains alors que la filiation revendiquée avec ses constructeurs reste non démontrée. L'anthropologie des paysages contestés doit donc maintenir plusieurs régimes de validation. Elle perdrait sa valeur scientifique si elle transformait toute affirmation en vérité historique sous prétexte qu'elle est socialement significative. La distinction entre preuve matérielle, interprétation et hypothèse est une condition de l'écoute, non son contraire. [B]
+
+### 67. Le coût du tourisme et la conservation
+
+Une fréquentation élevée peut soutenir l'économie locale tout en accélérant la dégradation des sols et des vestiges. Les effets doivent être examinés par des mesures et non déduits d'une préférence esthétique. Les restrictions d'accès ont aussi des coûts sociaux : prix, déplacements, exclusions possibles. Une politique équilibrée doit identifier les bénéficiaires et les personnes qui supportent les contraintes. La notion de paysage politique aide à formuler une comptabilité des intérêts, sans fournir une formule unique applicable à tous les sites. [B]
+
+### 68. Les femmes et les espaces historiquement différenciés
+
+Les lieux ne sont pas toujours accessibles de la même façon selon le genre, le statut, la fonction rituelle ou la citoyenneté. Un parcours reconstruit comme « celui des anciens habitants » peut effacer ces distinctions. Les archives grecques et les études contemporaines doivent être interrogées sur les présences et absences, sans attribuer aux personnes exclues des sentiments invérifiables. L'enjeu est de rendre visibles les règles qui organisent les déplacements plutôt que de parler d'une expérience humaine uniforme. [B]
+
+### 69. La mémoire coloniale et les pays dits vides
+
+Un territoire présenté comme vierge ou vide peut avoir des usages, des noms et des attaches que l'administration n'a pas reconnus. Les travaux rassemblés autour des paysages contestés permettent de poser cette question sans présumer l'identité de toutes les colonisations. La preuve exige des documents spécifiques, des témoignages attribués et une histoire du droit foncier. Un récit critique doit éviter aussi bien le silence colonial que la romantisation des populations locales en gardiennes d'un passé immuable. [B]
+
+### 70. Climat, érosion et paysages futurs
+
+L'intégrité d'un site dépend de l'érosion, de la disponibilité de l'eau, de la fréquentation et des transformations du climat. Les choix de conservation modifient donc non seulement la mémoire d'hier, mais les possibilités de demain. Il faut articuler des responsabilités envers les vivants et envers des générations futures qui ne sont pas présentes aux négociations. Cette extension écologique est une proposition contemporaine inspirée par les temporalités de Bender ; elle ne constitue pas une doctrine citée mot pour mot dans son article de 2002. [C]
+
+### 71. Hypothèse : la présentation et les conflits d'accès
+
+**Hypothèse MYTHOS.** Lorsqu'un site met en scène une seule période comme son passé authentique en effaçant des usages ultérieurs, certains conflits se déplacent vers la question de qui peut raconter ou fréquenter le lieu. Cette proposition demande à être éprouvée par des comparaisons de politiques patrimoniales, d'entretiens et d'indicateurs d'accès. Elle ne découle pas directement du seul cas de Stonehenge et n'est pas un résultat établi par Bender. Sa valeur est d'être réfutable plutôt que d'illustrer une intuition séduisante. [C]
+
+### 72. Hypothèse : l'itinéraire oriente le souvenir
+
+**Hypothèse MYTHOS.** Deux parcours de visite à travers un même site peuvent rendre saillants des monuments différents et produire des souvenirs distincts. Une enquête pourrait comparer des groupes suivant des itinéraires contrôlés, enregistrer les objets évoqués et mesurer les facteurs sociaux qui influencent les résultats. Il s'agit d'un programme expérimental possible, non d'une reconstruction de ce que voyaient les participants aux mystères d'Éleusis. L'interprétation antique reste soumise aux textes et aux traces matérielles. [C]
+
+### 73. Un protocole de publication de paysage ancien
+
+Pour chaque dossier MYTHOS, on peut séparer : (1) chronologie des structures, (2) état et provenance des vestiges, (3) usages attestés, (4) itinéraires documentés, (5) transformations modernes, (6) débats d'attribution. Une reconstitution photoréaliste doit légender les éléments conjecturaux et conserver la source archéologique institutionnelle. Des images en perspective vectorielle 2,5D précédemment retirées du site ne doivent pas être réintroduites. Ce protocole traduit les exigences de l'enquête en principes éditoriaux ; il ne constitue pas un texte de Bender. [C]
+
+### 74. La politique des absents
+
+Les bâtisseurs préhistoriques, les travailleurs sans inscription et les générations futures ne peuvent pas prendre eux-mêmes part à un débat actuel. Une institution peut essayer de les représenter, mais elle doit reconnaître les limites de cette prétention. On ne connaît pas la volonté politique des constructeurs de Stonehenge avec la précision requise pour leur attribuer une position dans nos controverses. Le respect du passé implique de ne pas l'utiliser comme autorisation imaginaire pour une politique présente. [B/C]
+
+### 75. Conclusion : des lieux, des temps et des droits
+
+Le mérite de Barbara Bender est de montrer qu'un paysage n'est jamais un simple décor, mais une configuration de matériaux, de mémoires, de déplacements et de capacités inégales à décider. Stonehenge et Leskernick présentent des dossiers distincts ; Pausanias, Hérodote et les rites éleusiniens attestent d'autres rapports entre lieux, récits et limites. La comparaison est rigoureuse si elle maintient leurs différences de preuve. Le passé matériel mérite une protection ; les publics présents méritent d'être entendus ; ni l'un ni les autres n'autorisent une histoire inventée. La politique du patrimoine est précisément l'art difficile de penser ensemble ces exigences. [A/B/C]
+
+## IX. Bibliographie scientifique et vérification
+
+Les textes anciens ont été localisés par livre, chapitre ou vers ; les ouvrages modernes sont identifiés par auteur, titre, éditeur et année. Les notices n'impliquent pas une lecture intégrale des éditions non consultables ; les comparaisons ne dispensent pas de vérifier chaque tradition dans ses propres sources.
+
+1. **Barbara Bender (dir.)** — *Landscape: Politics and Perspectives*, Berg, 1993, recueil collectif. Notice et table des matières vérifiées auprès de Routledge. [Source en ligne](https://www.routledge.com/Landscape-Politics-and-Perspectives/Bender/p/book/9781003575269).
+2. **Barbara Bender** — *Stonehenge: Making Space*, Berg, 1998, xiv + 254 p. Notice et sommaire descriptif. [Source en ligne](https://books.google.com/books?id=oxe1zQEACAAJ).
+3. **Barbara Bender, Margot Winer (dir.)** — *Contested Landscapes: Movement, Exile and Place*, Berg, 2001. Sommaire dans le catalogue de la Smithsonian Institution. [Source en ligne](https://www.si.edu/object/siris_sil_682825).
+4. **Barbara Bender** — « Time and Landscape », *Current Anthropology*, 43/S4, 2002, p. S103–S112, DOI 10.1086/339561 ; texte primaire consultable en ligne. [Source en ligne](https://www.journals.uchicago.edu/doi/full/10.1086/339561).
+5. **Barbara Bender, Sue Hamilton et Christopher Tilley** — *Stone Worlds: Narrative and Reflexivity in Landscape Archaeology*, Left Coast Press, 2007 ; réédition Routledge, présentation du projet Leskernick. [Source en ligne](https://www.routledge.com/Stone-Worlds-Narrative-and-Reflexivity-in-Landscape-Archaeology/Bender-Hamilton-Tilley/p/book/9781315419657).
+6. **Mike Parker Pearson** — « Chalk and cheese at Stonehenge », recension de l'ouvrage de Bender, *Antiquity*, 72/278, 1998, p. 942–944. [Source en ligne](https://doi.org/10.1017/S0003598X00087615).
+7. **UNESCO World Heritage Centre** — « Stonehenge, Avebury et sites associés », patrimoine mondial 373bis, inscrit en 1986, description des monuments et des alignements. [Source en ligne](https://whc.unesco.org/fr/list/373).
+8. **English Heritage** — Dossier institutionnel « Stonehenge » ; distinction nécessaire entre présentation actuelle, protections et histoire préhistorique. [Source en ligne](https://www.english-heritage.org.uk/visit/places/stonehenge/).
+9. **Pausanias** — *Description de la Grèce*, I, 22.4, approche des Propylées ; traduction du livre I dans Theoi. [Source en ligne](https://www.theoi.com/Text/Pausanias1B.html).
+10. **Pausanias** — *Description de la Grèce*, I, 38.1–7, Rheitoi, sanctuaire d'Éleusis, secret ; projet *Digital Periegesis*. [Source en ligne](https://periegesis.abm.uu.se/en/sx_PrintPage.php?export=print&reportid=38).
+11. **Pausanias** — *Description de la Grèce*, I, 38.7, traduction commentée du Center for Hellenic Studies. [Source en ligne](https://chs.harvard.edu/primary-source/a-pausanias-reader-in-progress-description-of-greece-scrolls-1-10/).
+12. **Hérodote** — *Histoires*, VIII, 65, récit de la clameur d'Iacchos à Éleusis. [Source en ligne](https://lexundria.com/hdt/8.65.1/mcly).
+13. **Hérodote** — *Histoires*, VII, 129, géographie de Thessalie et récit de Poséidon. [Source en ligne](https://lexundria.com/hdt/7.129/mcly).
+14. **Hymne homérique à Déméter** — Vers 470–482, texte traduit et commenté du Center for Hellenic Studies. [Source en ligne](https://chs.harvard.edu/primary-source/homeric-hymn-to-demeter-sb/).
+15. **Aristote** — *Politique*, VII, 12, 1331a–1331b ; étude de Mor Segev, *Classical Quarterly*, 69/2, 2019, p. 585–596. [Source en ligne](https://www.cambridge.org/core/journals/classical-quarterly/article/abs/aristotles-ideal-cityplanning-politics-712/C9D4C664D0ACF17B0DD8E6EE02D82C9F).
+16. **Platon** — *Timée*, 48e–53b, *chôra* cosmologique ; ne pas confondre avec les territoires de cités. [Source en ligne](https://www.perseus.tufts.edu/hopper/searchresults?q=Plato+Timaeus).
+17. **Henri Lefebvre** — *La Production de l'espace*, 1974, source philosophique de comparaison. [Source en ligne](https://search.worldcat.org/search?q=Henri+Lefebvre+La+production+de+l+espace).
+18. **Michel de Certeau** — *L'Invention du quotidien. 1. Arts de faire*, 1980, pratique de la marche. [Source en ligne](https://search.worldcat.org/search?q=Michel+de+Certeau+Invention+du+quotidien+1980).
+19. **Doreen Massey** — *Space, Place and Gender*, 1994 ; *For Space*, 2005, échelles et mobilités inégales. [Source en ligne](https://search.worldcat.org/search?q=Doreen+Massey+For+Space+2005).
+20. **Christopher Tilley** — *A Phenomenology of Landscape*, Berg, 1994 ; antécédent universitaire MYTHOS. [Source en ligne](https://search.worldcat.org/search?q=Christopher+Tilley+A+Phenomenology+of+Landscape+1994).
+21. **Tim Ingold** — *The Perception of the Environment*, Routledge, 2000. [Source en ligne](https://www.routledge.com/The-Perception-of-the-Environment-Essays-on-Livelihood-Dwelling-and-Skill/Ingold/p/book/9780415228329).
+22. **Elinor Ostrom** — *Governing the Commons*, Cambridge University Press, 1990, droits d'usage et gouvernance. [Source en ligne](https://www.cambridge.org/core/books/governing-the-commons/7AB7AE11E5ED2B2E0E65CF2F3D74B17A).
+
+### Concordance des sources
+
+| Source | Passage ou données contrôlables | Attesté | Hypothèses à ne pas transformer en faits |
+|---|---|---|---|
+| Bender, *Time and Landscape* | *Current Anthropology* 43/S4, p. S103–S112 | Temporalités et expériences historiquement situées | Tous les sites partageraient une mémoire identique |
+| Stonehenge-Avebury | UNESCO, bien 373bis, inscription 1986 | Monuments, voies, alignements, séquence préhistorique longue | Connaissance exhaustive des rites des bâtisseurs |
+| Acropole | Pausanias I, 22.4 | Entrée et topographie décrites à l'époque impériale | Description intacte de la circulation classique |
+| Éleusis | Pausanias I, 38.1–7 | Rheitoi, limites, sanctuaires, secret | Reconstruction certaine des mystères |
+| Iacchos | Hérodote VIII, 65 | Récit historique d'une procession religieuse figurée | Manifestation surnaturelle prouvée |
+| Thessalie | Hérodote VII, 129 | Paysage décrit et traditions locales expliquées | Précision géologique sans contrôle indépendant |
+| Déméter | *Hymne homérique à Déméter*, v. 470–482 | Révélation d'un culte et restriction de la parole | Description exhaustive des opérations rituelles |
+| Cité | Aristote, *Politique* VII, 12 | Planification normative de certains bâtiments | Description de toutes les cités grecques |
+
+### Distinctions finales
+
+**Faits attestés** : existence des cinq ensembles bibliographiques principaux, terrain du projet Leskernick, monument et classement UNESCO, passages antiques localisés. **Interprétations** : relations entre paysage, mémoire, accès, pouvoir et visibilité. **Hypothèses** : influence des itinéraires de visite sur les souvenirs, lien entre présentation de l'authenticité et conflit d'accès, comparaison fonctionnelle des paysages sacrés.
+
+La valeur d'une comparaison ne dépend pas du nombre de lieux évoqués mais de la qualité des différences exposées. Dans chaque cas, la nature du document, sa date et sa destination doivent être visibles.
+
+**Fin de l'étude universitaire MYTHOS — Barbara Bender.** Aucun numéro définitif ni numéro suivant n'est réservé ; l'attribution appartient exclusivement au circuit concurrent de GitHub Actions.

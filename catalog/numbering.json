@@ -510,6 +510,12 @@
         "url": "/chapitres/encyclopedie/chapitre-387-eleos-pitie-supplication-athenes-justice-tragedie/",
         "title": "Chapitre 387 — ÉLÉOS (Ἔλεος) : la Pitié divine, la supplication, le droit d'asile et les limites morales de la puissance",
         "source": "chapitres/encyclopedie/chapitre-387-eleos-pitie-supplication-athenes-justice-tragedie.md"
+      },
+      {
+        "number": 388,
+        "url": "/chapitres/encyclopedie/chapitre-388-pheme-rumeur-renommee-athenes-aeschine-demosthene/",
+        "title": "Chapitre 388 — PHÈMÈ (Φήμη) — La parole publique divinisée : rumeur, renommée, vérité et pouvoir dans les cités grecques",
+        "source": "chapitres/encyclopedie/chapitre-388-pheme-rumeur-renommee-athenes-aeschine-demosthene.md"
       }
     ],
     "tragedies": [
@@ -1942,6 +1948,48 @@
         "url": "/chapitres/comparatif/volume-clxxxii-christopher-tilley-phenomenologie-paysage-lieux-chemins-monuments-sacres/",
         "title": "Volume CLXXXII (182) — Christopher Tilley : phénoménologie des paysages, lieux, chemins et monuments — Percevoir, habiter et interpréter les espaces sacrés",
         "source": "chapitres/comparatif/volume-clxxxii-christopher-tilley-phenomenologie-paysage-lieux-chemins-monuments-sacres.md"
+      },
+      {
+        "number": 183,
+        "url": "/chapitres/comparatif/volume-clxxxiii-maat-isfet-justice-verite-ordre-cosmique-desordre-egypte/",
+        "title": "Volume CLXXXIII (183) — Dossier historique MC-025 — Maât et Isfet : justice, vérité, ordre cosmique et désordre dans l’Égypte ancienne",
+        "source": "chapitres/comparatif/volume-clxxxiii-maat-isfet-justice-verite-ordre-cosmique-desordre-egypte.md"
+      },
+      {
+        "number": 184,
+        "url": "/chapitres/comparatif/volume-clxxxiv-edward-casey-lieu-memoire-corps-implacement-topos-chora/",
+        "title": "Volume CLXXXIV (184) — Edward S. Casey : lieu, mémoire, corps et implacement — De la chôra et du topos au monde vécu des places",
+        "source": "chapitres/comparatif/volume-clxxxiv-edward-casey-lieu-memoire-corps-implacement-topos-chora.md"
+      },
+      {
+        "number": 185,
+        "url": "/chapitres/comparatif/volume-clxxxv-barbara-bender-paysages-contestes-patrimoine-stonehenge-memoire-pouvoir/",
+        "title": "Volume CLXXXV (185) — Barbara Bender : paysages contestés, mémoire des lieux, Stonehenge et politique du patrimoine",
+        "source": "chapitres/comparatif/volume-clxxxv-barbara-bender-paysages-contestes-patrimoine-stonehenge-memoire-pouvoir.md"
+      },
+      {
+        "number": 186,
+        "url": "/chapitres/comparatif/volume-clxxxvi-yi-fu-tuan-espace-lieu-topophilie-paysages-peur-geographie-humaniste/",
+        "title": "Volume CLXXXVI (186) — Yi-Fu Tuan : espace, lieu, topophilie et paysages de peur — Habiter, aimer, craindre et symboliser les mondes humains",
+        "source": "chapitres/comparatif/volume-clxxxvi-yi-fu-tuan-espace-lieu-topophilie-paysages-peur-geographie-humaniste.md"
+      },
+      {
+        "number": 187,
+        "url": "/chapitres/comparatif/volume-clxxxvii-maat-isfet-verite-justice-ordre-cosmique-egypte/",
+        "title": "Volume CLXXXVII (187) — MC-025 — Maât et Isfet : vérité, justice, ordre cosmique et désordre dans l'Égypte ancienne",
+        "source": "chapitres/comparatif/volume-clxxxvii-maat-isfet-verite-justice-ordre-cosmique-egypte.md"
+      },
+      {
+        "number": 188,
+        "url": "/chapitres/comparatif/volume-clxxxviii-destin-necessite-shai-shimtu-moires-iran-ancien/",
+        "title": "Volume CLXXXVIII (188) — Dossier historique MC-026 — Destin et nécessité dans les civilisations anciennes : Shaï égyptien, šīmtu mésopotamien, Moires grecques et traditions iraniennes",
+        "source": "chapitres/comparatif/volume-clxxxviii-destin-necessite-shai-shimtu-moires-iran-ancien.md"
+      },
+      {
+        "number": 189,
+        "url": "/chapitres/comparatif/volume-clxxxix-mc-025-maat-isfet-justice-verite-desordre-egypte-ancienne/",
+        "title": "Volume CLXXXIX (189) — MC-025 — Maât et Isfet : justice, vérité et désordre dans l’Égypte ancienne",
+        "source": "chapitres/comparatif/volume-clxxxix-mc-025-maat-isfet-justice-verite-desordre-egypte-ancienne.md"
       }
     ],
     "comedies": [
@@ -2334,6 +2382,18 @@
         "url": "/chapitres/comedies/volume-065-telekleides-hesiodoi-poesie-verite-cite-pericles/",
         "title": "Volume LXV (65) — Téléclidès, Hēsiodoi (Ἡσίοδοι, « Les Hésiode ») — La poésie mise en procès : vérité, rivalité des aèdes et mémoire politique athénienne",
         "source": "chapitres/comedies/volume-065-telekleides-hesiodoi-poesie-verite-cite-pericles.md"
+      },
+      {
+        "number": 66,
+        "url": "/chapitres/comedies/volume-066-telekleides-apseudeis-verite-oracle-langage-politique/",
+        "title": "Volume LXVI (66) — Téléclidès, Apseudeis (Ἀψευδεῖς, « Les Véridiques » / « Ceux qui ne mentent pas ») — vérité, oracle, langage et autorité dans une comédie perdue",
+        "source": "chapitres/comedies/volume-066-telekleides-apseudeis-verite-oracle-langage-politique.md"
+      },
+      {
+        "number": 67,
+        "url": "/chapitres/comedies/volume-067-telekleides-sterrhoi-corps-travestissement-banquet-desir/",
+        "title": "Volume LXVII (67) — Téléclidès, Sterrhoi (Στερροί, « Les Durs », « Les Hommes solides » ?) — corps, travestissement, banquet, désir et normes de virilité",
+        "source": "chapitres/comedies/volume-067-telekleides-sterrhoi-corps-travestissement-banquet-desir.md"
       }
     ],
     "origines-du-sacre": [

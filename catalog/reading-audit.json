@@ -1,35 +1,9 @@
 {
   "status": "passed",
-  "indexed_entries": 1195,
-  "pages_scanned": 1241,
-  "readers_equipped": 865,
-  "links_checked": 89127,
+  "indexed_entries": 1205,
+  "pages_scanned": 1251,
+  "readers_equipped": 875,
+  "links_checked": 89944,
   "new_navigation_errors": [],
-  "legacy_link_issues": [
-    {
-      "page": "/chapitres/comedies/volume-065-telekleides-hesiodoi-poesie-verite-cite-pericles/index.html",
-      "url": "../../chapitres/comedies/volume-064-telekleides-prytaneis-boule-tholos-memoire-pouvoir/",
-      "problem": "fichier absent"
-    },
-    {
-      "page": "/chapitres/comedies/volume-065-telekleides-hesiodoi-poesie-verite-cite-pericles/index.html",
-      "url": "../../theatre/",
-      "problem": "fichier absent"
-    },
-    {
-      "page": "/chapitres/comedies/volume-065-telekleides-hesiodoi-poesie-verite-cite-pericles/index.html",
-      "url": "../../catalogue-integral/",
-      "problem": "fichier absent"
-    },
-    {
-      "page": "/corpus/origines-du-sacre/edition-integrale-tomes-I-XXVII.html",
-      "url": "#top",
-      "problem": "ancre absente"
-    },
-    {
-      "page": "/corpus/mythologie-grecque/archives/MYTHOS_bibliotheque_navigable.html",
-      "url": "#/accueil",
-      "problem": "ancre absente"
-    }
-  ]
+  "legacy_link_issues": []
 }

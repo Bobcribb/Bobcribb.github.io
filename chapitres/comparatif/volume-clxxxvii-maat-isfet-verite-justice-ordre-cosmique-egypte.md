@@ -1,0 +1,314 @@
+# MYTHOS — Cycle universitaire de mythologie comparée — Volume CLXXXVII (187)
+
+## MC-025 — Maât et Isfet : vérité, justice, ordre cosmique et désordre dans l'Égypte ancienne
+
+**Collection :** MYTHOS — Mythologie comparée, dossier historique MC-025.  
+**État éditorial :** monographie universitaire publique, inédite dans la série des dossiers historiques MC ; la numérotation CLXXXVII (187) est attribuée par le registre transactionnel et ne remplace pas le repère MC-025.  
+**Date de rédaction :** 4 novembre 2026.  
+**Continuité historique :** MC-024 « Amon, Rê et Aton » est déjà conservé dans le cycle comparatif sous le volume CLXXXI (181). Le présent dossier aborde une question distincte, la relation entre justice, religion, pouvoir et cosmogonie.  
+**Méthode :** confrontation des témoins anciens, de leur transmission manuscrite et de la recherche moderne ; toute reconstruction théorique est distinguée du témoignage direct.
+
+### Résumé scientifique
+
+Dans l'Égypte ancienne, **mꜣꜥt** (Maât) n'est ni un simple nom de déesse ni seulement l'équivalent du mot moderne « justice ». Le terme désigne un ordre digne de confiance, une rectitude des rapports humains, une vérité que l'on dit et met en acte, ainsi qu'une condition du maintien du cosmos. **ỉsft** (isfet), son contraire habituel dans le langage religieux et royal, regroupe la fausseté, le tort, les actes injustes et les perturbations de l'ordre institué. Pourtant, ce couple ne se réduit pas à une opposition moderne entre le « bien » et le « mal » : il structure une conception de la continuité du monde, du jugement des morts, de la parole juste et de la légitimité monarchique. Sa portée dépend des contextes, des époques et des genres documentaires.
+
+L'enquête s'appuie en particulier sur les **Textes des Sarcophages, formule 1130**, le **Livre des morts, formules 30 et 125A–C**, les **Instructions pour Mérikarê**, les **Maximes de Ptahhotep**, les **Plaintes du Paysan éloquent**, les autobiographies funéraires, les scènes d'offrande de Maât et les reliefs de temples. Elle distingue le discours prescriptif des élites de la diversité des pratiques sociales. Dans une dernière partie, elle compare Maât aux concepts akkadiens *kittu* et *mīšaru*, à la tension iranienne *aša* / *druj*, et aux notions grecques de *dikē* et *thémis*, sans postuler d'influence historique en l'absence de preuve.
+
+## I. Le problème : un concept à plusieurs échelles
+
+Le mot Maât semble souvent traduit, dans un même ouvrage, par « vérité », « justice », « ordre », « rectitude » ou « équilibre ». Cette souplesse traduit une difficulté réelle : le français sépare des domaines que les documents égyptiens articulent, sans toutefois les rendre strictement identiques. Dire la vérité dans un procès, prendre une décision équitable, offrir rituellement Maât à une divinité et présenter un défunt comme « juste de voix » ne désignent pas la même opération. Ces gestes ont cependant en commun d'inscrire la vie humaine dans un ordre intelligible, tenu pour bénéfique et à préserver.
+
+L'interprétation comme une « harmonie universelle » peut aider à comprendre une partie du système, mais elle appauvrit le dossier dès qu'elle gomme les conflits. Les sujets lésés demandent justice à des fonctionnaires dont ils dénoncent les abus ; les rois exaltent leur propre fidélité à Maât ; les morts proclament une innocence qui ne peut être vérifiée par l'historien. Il existe donc au moins trois niveaux : **norme formulée**, **pratique institutionnelle**, **représentation rituelle**.
+
+Une question centrale en découle : Maât constitue-t-elle une règle indépendante du souverain, capable de le juger, ou une valeur que la monarchie définit en se déclarant garante de l'ordre ? Les sources soutiennent un modèle plus complexe. Le roi doit réaliser Maât et s'en réclame pour légitimer sa domination ; des textes sapientiaux et narratifs emploient en même temps la justice comme critère permettant de critiquer les puissants. La valeur et son instrumentalisation ne s'annulent pas.
+
+## II. Philologie : mꜣꜥt, ỉsft, ib, ḥꜣty et mꜣꜥ-ḫrw
+
+### 1. La forme du mot et son champ sémantique
+
+La translittération égyptologique **mꜣꜥt** correspond à la graphie conventionnelle *mAat* dans le Manuel de codage. Les signes ꜣ et ꜥ notent des consonnes différentes ; la graphie française « Maât » est une approximation prononçable, **non** une restitution phonétique assurée de l'égyptien ancien. Le *-t* final, historiquement associé à des formations féminines, apparaît dans une langue dont les valeurs vocaliques restent imparfaitement connues. On rencontre le terme comme nom de principe, comme désignation de l'action droite et comme nom de la déesse personnifiée.
+
+Le couple **mꜣꜥt / ỉsft** apparaît dans des énoncés où l'on apporte l'une et écarte l'autre. *ỉsft*, rendu par « isfet », n'est pas exactement « chaos primordial », « péché chrétien » ni « Satan ». Les traductions possibles sont « tort », « injustice », « ce qui est faux », « désordre », selon le contexte. La signification politique d'une action déclarée injuste ne peut être déduite automatiquement de son éventuel caractère rituellement impur.
+
+Le *cœur* se dit notamment **jb** (*ib*) et **ḥꜣty** (*haty* dans une transcription simplifiée). Dans les documents funéraires, il importe pour la mémoire, l'intention, les dispositions et la responsabilité de la personne. La formule de « justification » ou de « voix juste », **mꜣꜥ-ḫrw** (*maa-kherou*, littéralement « juste/vrai de voix », selon les contextes), est une qualification funéraire et judiciaire ; elle ne saurait être assimilée mécaniquement à un jugement moral universel des personnes selon des critères modernes.
+
+### 2. Vérification sur le Livre des morts 125A
+
+Le chapitre 125A, dans la version du **papyrus de Nou (Nu), British Museum EA 10477**, est accessible avec texte, translittération et traduction sur **UCL Digital Egypt**. Parmi les lignes déterminantes :
+
+`mk wi ii.kwi xr.k in.n.i n.k mAat dr.n.i n.k isft rmT`
+
+Le début signifie, dans une traduction de travail attentive à la syntaxe : « Me voici, je suis venu devant toi ; j'ai apporté Maât pour toi et écarté l'isfet des humains pour toi ». La segmentation de la fin et sa formulation française varient avec le contexte interprétatif ; il faut consulter la traduction et le texte intégral plutôt que d'en extraire un slogan cosmologique. Ici, le locuteur est un **défunt** qui s'adresse à Osiris ; l'énoncé n'est donc pas automatiquement un décret prononcé par un pharaon vivant.
+
+La proximité de *mꜣꜥt* et d'*isfet* dans une même déclaration fait voir que les deux notions fonctionnent aussi comme termes **d'action** : apporter, enlever, éviter, accomplir. On ne possède pas seulement une ontologie abstraite, mais un langage pratique de la responsabilité.
+
+**Source primaire numérique :** UCL, *Book of the Dead*, chapitre 125A, d'après BM EA 10477 : https://www.ucl.ac.uk/museums-static/digitalegypt/literature/religious/bd125a.html
+
+### 3. Vérification sur le Livre des morts 125B
+
+La section 125B fait défiler des déclarations d'innocence devant des divinités évaluatrices. Le manuscrit de **Maiherpri, XVIIIe dynastie**, reproduit par UCL, commence par :
+
+`n ir.i isft` — « Je n'ai pas commis l'isfet » ;  
+`n awA.i` — « Je n'ai pas volé » ;  
+`n smA.i rmt` — « Je n'ai tué personne » ;  
+`n Dd.i grg` — « Je n'ai pas dit de mensonges ».
+
+La section comprend aussi des interdits concernant l'alimentation rituelle, la propriété, les mesures, les conduites sexuelles et le comportement verbal. Elle démontre que la rectitude attendue touche à la fois les rapports entre humains et le domaine du sacré. Mais ces interdits ne forment **pas un code pénal national en quarante-deux articles** : ils composent une séquence funéraire dont l'extension, l'ordre des évaluateurs et les formulations changent entre les témoins. UCL signale notamment un témoin au nombre de trente-deux déclarations (papyrus du Caire 2512).
+
+La formule du manuscrit de Maiherpri `n sX.i Hr mdt nt mAat`, traduite dans l'édition d'UCL comme le refus d'être sourd aux paroles de vérité, est capitale : elle fait de l'écoute une vertu. Être juste ne se borne pas à accomplir le rite ; c'est aussi entendre une parole qui exige réparation ou rectification.
+
+**Source primaire numérique :** UCL, *Book of the Dead*, chapitre 125B, papyrus de Maiherpri et variants : https://www.ucl.ac.uk/museums-static/digitalegypt/literature/religious/bd125b.html
+
+### 4. Trois précautions
+
+D'abord, un déterminatif iconographique ne saurait suffire à reconstituer une définition philosophique ; les usages se déploient dans des contextes lexicaux. Ensuite, la traduction de *mꜣꜥt* par « harmonie » ne doit pas masquer la dimension normative du vrai et du droit. Enfin, la distinction moderne entre « vérité factuelle » et « justice sociale » ne recoupe pas mécaniquement les catégories des textes.
+
+## III. Chronologie longue et évolution des attestations
+
+### Ancien Empire : royauté, fidélité et réputation
+
+Les Textes des Pyramides, gravés à partir de la fin de la Ve dynastie et pendant la VIe, témoignent d'une pensée de la justification royale, des relations aux dieux et de la puissance efficace des paroles rituelles. Leur vocabulaire ne doit pas être lu comme un système unique déjà clos. Les autobiographies funéraires de dignitaires valorisent la générosité, la loyauté, l'absence de préjudice et la protection des dépendants ; elles disent ce que l'élite estimait digne de mémoire et non ce que tous pratiquaient.
+
+La généalogie d'une « morale universelle parfaitement constituée dès l'origine » serait anachronique. Les matériaux sont dispersés, génériques et datables avec des précautions variables. Pour les Textes des Pyramides, les éditions de **Kurt Sethe**, **R. O. Faulkner** et **James P. Allen** sont les points de départ philologiques.
+
+### Première Période intermédiaire et Moyen Empire : crise, parole et justice
+
+La multiplication des autobiographies locales et la production littéraire associée au Moyen Empire accroissent la visibilité des plaintes, des injustices et de l'idéal d'un gouvernement compétent. Les **Instructions pour Mérikarê**, placées sous l'autorité d'un souverain héracléopolitain, recommandent une conduite politique attentive à la justice et à l'efficacité des décisions. Mais leurs copies conservées sont ultérieures : elles ne constituent pas une transcription directe de conversations de cour à la fin du IIIe millénaire. Un texte sapiential est une **mise en scène normative**, pas une chronique neutre.
+
+Les **Plaintes du Paysan éloquent**, connues notamment par les papyrus **Berlin 3023**, **Berlin 3025** et le **Ramesseum A**, dramatisent la confrontation entre un homme lésé et une administration fascinée par sa rhétorique. Le récit dénonce la prise abusive de ses biens, exige l'exercice de la justice et montre simultanément une autorité capable de suspendre cette réparation afin de recueillir ses discours. La leçon n'est donc pas uniquement une victoire de l'équité : elle problématise la relation entre la **voix** du demandeur et la **puissance** de l'institution.
+
+Le **papyrus Berlin 3023** (désigné B1 dans l'édition philologique), avec le papyrus Berlin 3025 (B2), offre une localisation vérifiable des témoins ; voir R. B. Parkinson, *The Tale of Sinuhe and Other Ancient Egyptian Poems* (1997), et les ensembles textuels du *Thesaurus Linguae Aegyptiae* (Berlin-Brandenburgische Akademie der Wissenschaften). Les numéros de répliques et de lignes diffèrent selon les reconstructions composites ; les citations littérales doivent être rapportées au témoin choisi.
+
+### Nouvel Empire : diffusion funéraire, monumentalité et pluralité
+
+Au Nouvel Empire, les papyrus funéraires deviennent un support majeur du corpus moderne appelé *Livre des morts*. UCL rappelle que le titre est moderne, que les Égyptiens parlaient de « formules pour sortir au jour » et que l'ensemble diffère d'un manuscrit à l'autre. L'existence de la pesée du cœur dans des papyrus de prestige n'implique pas que chaque habitant possédât le même exemplaire, ni que les croyances individuelles fussent homogènes.
+
+La période ramesside multiplie aussi les images royales de l'**offrande de Maât**. C'est un geste paradoxal à première vue : le roi remet aux dieux une personnification de la rectitude que ceux-ci sont censés garantir. Cette circularité n'est pas une incohérence, mais la représentation liturgique d'une réciprocité : le souverain affirme entretenir le monde qui rend son règne possible.
+
+### Basse Époque, époque ptolémaïque et traditions changeantes
+
+Les attestations ultérieures montrent la continuité de Maât mais pas l'immobilité de ses usages. La fixation de nombreuses séquences du *Livre des morts* dans la recension saïte, les amulettes, les reliefs ptolémaïques et les formes locales du culte demandent une histoire des manuscrits et des temples, non l'idée d'une « religion égyptienne » monolithique trois millénaires durant.
+
+## IV. Textes des Sarcophages 1130 : la question de l'origine du mal
+
+La **formule 1130 des Textes des Sarcophages** est fréquemment citée pour un discours du créateur décrivant ses actes bienfaisants envers les humains et déniant leur injustice comme objet de sa volonté. Elle permet de penser une différence entre la création, tenue pour favorable, et l'*isfet* comme action humaine. Toutefois, trois niveaux doivent demeurer séparés : **(a)** le texte égyptien transmis sur des cercueils du Moyen Empire ; **(b)** la reconstruction de sa séquence en éditions modernes ; **(c)** l'emploi philosophique de cette séquence comme « théodicée ».
+
+La catégorie de « théodicée » vient de la philosophie moderne ; le texte n'est pas un traité systématique sur l'origine métaphysique du mal. Il est intégré à une littérature funéraire performative. L'idée que les hommes sont responsables de certains désordres offre néanmoins un éclairage essentiel sur la relation entre défaillance humaine et rectitude divine. Une interprétation maximaliste, selon laquelle la formule prouverait une doctrine égyptienne unifiée du libre arbitre, dépasserait l'attestation.
+
+**Référence de travail :** Adriaan de Buck, *The Egyptian Coffin Texts*, vol. VII (Chicago, 1961), **Spell 1130** ; R. O. Faulkner, *The Ancient Egyptian Coffin Texts*, vol. III (Warminster, 1978), formule 1130. Il faut contrôler toute traduction littérale sur ces éditions ; les lignes précises varient avec les exemplaires et la présentation éditoriale.
+
+L'importance du dossier est de déplacer la question : l'ordre du monde n'est pas simplement le fait d'avoir éliminé pour toujours le mal. Le maintien de Maât requiert des actes réitérés, tandis que l'injustice peut renaître au sein même d'un monde créé selon une orientation favorable. Ce modèle n'est pourtant pas à confondre avec le récit chrétien d'une « chute » : aucune généalogie textuelle directe ne l'autorise.
+
+## V. Le jugement des morts : acte, preuve et mise en scène
+
+### 1. Le cœur et la balance
+
+La vignette célèbre met en scène un cœur pesé devant une représentation de Maât, parfois une plume, parfois la petite figure de la déesse. **Anubis** intervient auprès de la balance, **Thot** peut en consigner le résultat et **Osiris** préside au jugement. La dévoreuse composite, souvent appelée **Âmmout**, exprime la menace d'une fin définitive. Les détails iconographiques changent selon les papyrus.
+
+Le **Livre des morts de Nany (Nauny)**, conservé au **Metropolitan Museum of Art** (catalogue 548344, vers 1050 av. n. è.), présente sur l'un des plateaux **une représentation de Maât elle-même** : l'iconographie réelle invalide donc l'affirmation simpliste selon laquelle il s'agirait nécessairement de « peser contre une plume » dans toutes les copies. Le Metropolitan Museum précise que la balance évalue les actions de Nany durant sa vie.
+
+**Notice institutionnelle :** https://www.metmuseum.org/art/collection/search/548344
+
+### 2. Les deux déclarations d'innocence et leurs conditions d'énonciation
+
+La division moderne en 125A, 125B et 125C réunit, pour la recherche, plusieurs composantes de la comparution du défunt. La section 125A est notamment transmise dans le **papyrus de Nu** ; la version de 125B publiée par UCL utilise le **papyrus de Maiherpri**. Il serait fautif de réunir ces témoins sous une citation fictive unique attribuée au « Livre des morts d'Ani ». Le papyrus d'Ani, conservé au British Museum, est un autre témoin majeur dont les variantes exigent leur propre contrôle.
+
+L'inventaire des actes déniés n'est pas sans portée sociale : ne pas tuer, ne pas voler, ne pas mentir, ne pas fausser la mesure sont des critères qui parlent de vie ordinaire. Mais la parole est aussi **performative**, au sens où elle participe au passage rituel. Le texte ne permet pas de dénombrer combien de personnes avaient réellement adopté chacune de ces normes.
+
+### 3. Le chapitre 30 et la résistance du cœur
+
+Les formules liées au cœur (particulièrement le chapitre **30B** du *Livre des morts*, souvent sur les scarabées de cœur) sollicitent le cœur pour qu'il ne témoigne pas contre son porteur. Ici l'anthropologie égyptienne reconnaît la possibilité d'une **discordance entre l'image que la personne présente et la mémoire incorporée de ses actes**. Cela autorise une lecture morale de la conscience, sans faire du scarabée un « détecteur de mensonges » ni du rite une procédure judiciaire transposable telle quelle.
+
+UCL distingue la formule 30A de la variante 30B et précise que les scarabées de cœur sont attestés dès le milieu de la XIIIe dynastie ; ils **ne remplaçaient pas physiquement le cœur de la momie**.
+
+**Source :** https://www.ucl.ac.uk/museums-static/digitalegypt/burialcustoms/heartscarabs.html ; texte de 30A : https://www.ucl.ac.uk/museums-static/digitalegypt/literature/religious/bd30a.html
+
+## VI. Maât comme pratique de gouvernement : la politique du juste
+
+### 1. Garantir et monopoliser
+
+La monarchie pharaonique présente le roi comme celui qui fait advenir Maât et repousse l'isfet. L'énoncé a une fonction descriptive dans la théologie royale, mais aussi un intérêt politique : identifier la stabilité au règne du souverain et la contestation au désordre. La polysémie de Maât facilite cette opération, sans la rendre totale. Les représentations de rois qui offrent Maât témoignent surtout de l'idéal de légitimité construit pour les dieux, les prêtres et les spectateurs des sanctuaires.
+
+Il ne s'ensuit pas que toute contestation fût automatiquement condamnée comme isfet dans chaque procès, ni que toutes les guerres eussent la même justification. La formule « repousser le chaos » est un **langage idéologique** : son existence historique est attestée, la moralité des politiques célébrées reste à analyser.
+
+### 2. Le rituel de l'offrande de Maât
+
+L'enquête fondamentale est **Emily Teeter, *The Presentation of Maat: Ritual and Legitimacy in Ancient Egypt*, SAOC 57, Chicago, 1997**. Teeter compare chronologie, inscriptions, dispositifs iconographiques et scènes du Nouvel Empire jusqu'à la Troisième Période intermédiaire. Elle étudie notamment la présentation du **nom royal assimilé à Maât** et les transformations des formules de dédicace. La présence même de ces variations détruit l'idée que les peintures de l'offrande seraient interchangeables.
+
+Notice scientifique, Oriental Institute / Institute for the Study of Ancient Cultures, Université de Chicago : https://isac.uchicago.edu/publications/presentation-maat-ritual-and-legitimacy-ancient-egypt
+
+Un témoin iconographique identifiable, **stèle cintrée N 272 / C 121 du Louvre**, d'époque ptolémaïque (env. 332–30 av. n. è.), montre un roi présentant Maât devant Amon-Rê, Mout et Khonsou. La notice indique le caractère incertain du lieu de provenance, « Xois (?) », et précise l'emplacement actuel, le **musée Bonnat-Helleu de Bayonne**. On ne doit pas présenter cette stèle comme un objet physiquement exposé au Louvre à Paris.
+
+Notice : https://collections.louvre.fr/ark:/53355/cl010025237
+
+### 3. Les instructions royales : justice, violence et gestion
+
+Les **Instructions pour Mérikarê** mettent en relation le soin du gouvernement, la conduite des magistrats, la parole et les risques de la violence. Leur réflexion n'est pas celle d'un législateur moderne séparant les pouvoirs : elle cherche à faire d'un roi efficace un roi durable, capable d'éviter les désordres qu'une conduite brutale précipite. La prudence philologique est indispensable : le discours est conservé sur des copies tardives par rapport au cadre historique qui lui est prêté, dont **P. Saint-Pétersbourg 1116A**. La datation de la rédaction et l'attribution personnelle à un souverain restent débattues.
+
+À l'autre extrémité du spectre, la rhétorique monumentale peut mettre le roi en scène frappant l'adversaire. Ce spectacle de violence se donne pour restauration de l'ordre ; il ne permet pas de mesurer, par lui-même, la justice de l'administration. Il convient d'évaluer conjointement stèles, papyrus administratifs, actes de procès, fiscalité, iconographie et archéologie sociale.
+
+## VII. Les sapiences : vérité du cœur, parole et équité
+
+Les **Maximes de Ptahhotep** sont une tradition de sagesse égyptienne transmise en plusieurs versions, dont le **papyrus Prisse**, généralement daté du Moyen Empire comme témoin, sans que cette date décide à elle seule de celle de la composition. Le texte insiste sur l'écoute, la prudence du discours, les rapports entre positions sociales et la conduite de celui qui exerce une autorité. Il ne faut ni lui prêter une théorie moderne de l'égalité politique ni réduire son éthique à l'obéissance : la valeur de la mesure dans la parole met en cause aussi celui qui décide.
+
+La figure du **Paysan éloquent** déplace le regard des palais vers un plaignant sans pouvoir. Il obtient l'attention de l'administration par une virtuosité rhétorique qui fait du droit à être écouté le foyer du récit. Mais le piège est de confondre une construction littéraire avec la preuve de l'accès universel des paysans à un tribunal juste. La personne lésée peut être mise au service d'une célébration de la sagesse du haut fonctionnaire et du roi. La fiction conserve une tension entre sa **critique du tort** et sa **mise en valeur des élites**.
+
+Les **autobiographies de tombes**, enfin, proclament souvent la générosité envers qui avait faim, soif ou besoin de secours. Ce sont des énoncés précieux sur l'idéal social mais non des statistiques sur l'assistance effective. À chaque fois l'historien doit demander : qui parle ? à qui ? dans quelle situation rituelle ? avec quel contrôle contradictoire ?
+
+## VIII. La place de l'isfet : chaos, mensonge, injustice et altérité
+
+L'isfet ne constitue pas une personne divine unifiée symétrique de Maât. Dans certains contextes, elle peut renvoyer aux mensonges et aux actes violents ; dans d'autres, les sources royales assimilent des rébellions ou des menaces étrangères au désordre. Ce glissement est politiquement lourd : il permet de représenter des adversaires humains comme destructeurs de l'ordre cosmique. Une analyse historienne ne doit pas reprendre pour son compte le point de vue du pouvoir qui écrit l'inscription.
+
+Il faut également distinguer les forces cosmiques hostiles à Rê, notamment **Apophis (ꜥꜣpp)** dans les livres du monde souterrain, des actes humains nommés isfet. Apophis peut être une figure exemplaire du danger de désorganisation, mais sa présence ne transforme pas l'ensemble des textes en récit d'une guerre métaphysique entre deux divinités égales. L'Égypte antique n'élabore pas, dans ces témoins, un dualisme symétrique comparable à un système où deux principes créateurs seraient égaux en puissance.
+
+L'isfet pose ainsi un paradoxe de durée : si Maât vaut comme norme véritable, pourquoi le mensonge et la violence ne cessent-ils de revenir ? Les hymnes, les rites et les textes funéraires répondent moins par l'idée d'une victoire définitive que par celle de la **répétition efficace des gestes corrects**. La restauration n'est pas un événement unique ; elle est un programme permanent de conduite et de rituel.
+
+## IX. Maât, Akhénaton et la rupture religieuse : dialogue avec MC-024
+
+Le précédent dossier de cette série (MC-024) a étudié l'intensification du culte d'Aton sous Akhénaton. Or le souverain se dit lui-même « vivant selon Maât » dans sa titulature et dans les **stèles-frontières d'Akhetaton**. La ressource UCL *Boundary Stelae* reproduit la formule `anx m mAat` dans l'énoncé royal, notamment dans le texte de la stèle S. Cette présence oblige à rejeter une équivalence simpliste entre « révolution atoniste » et abandon de l'idée de Maât.
+
+**Source primaire :** UCL Digital Egypt, *Boundary Stelae*, texte de la stèle S, date de l'an 6 dans le témoignage publié : https://www.ucl.ac.uk/museums-static/digitalegypt/amarna/boundary.html
+
+La réforme d'Akhénaton transforme l'articulation du divin et de l'accès à la royauté, mais recourt aussi au langage traditionnel de la rectitude. La tension est historiquement significative : une politique de rupture radicale se présente comme gardienne du vrai. De ce fait, Maât ne doit pas être traitée comme un programme politique immuable ; elle est une catégorie de légitimation réinterprétable par des souverains rivaux.
+
+## X. Comparaisons interculturelles : ressemblances structurales et généalogies non prouvées
+
+### 1. Mésopotamie : *kittu*, *mīšaru* et royauté justicière
+
+Dans le vocabulaire akkadien, **kittu** renvoie à la vérité ou à la rectitude, **mīšaru** à la justice, l'équité et le redressement. Le prologue et l'épilogue de la stèle du **Code de Hammurabi**, roi de Babylone au XVIIIe siècle av. n. è., présentent un roi chargé d'assurer le juste, de protéger les faibles et d'empêcher l'oppression. On peut comparer la légitimation du souverain à celle du pharaon garant de Maât.
+
+Mais les différences importent : la stèle babylonienne constitue un monument juridique et idéologique avec des jugements casuistiques ; les formules égyptiennes étudiées ici appartiennent à des hymnes, textes funéraires, scènes d'offrande, autobiographies et sapiences. Les catégories ne sont ni des synonymes exacts ni des témoins d'une diffusion unilatérale. Les édits mésopotamiens de remise de dettes et les pratiques de *mīšarum* ajoutent une dimension économique et juridique qu'il faut examiner dans ses institutions propres.
+
+**Sources :** stèle de Hammurabi, prologue et épilogue, Musée du Louvre (Sb 8), et traduction critique par Martha T. Roth, *Law Collections from Mesopotamia and Asia Minor* (2e éd., 1997). Pour les questions de justice sociale et de langage royal, consulter l'édition et la discussion avant d'inférer une équivalence doctrinale avec Maât.
+
+### 2. Iran ancien : *aša* et *druj*
+
+Les **Gāthās** de l'Avesta, notamment **Yasna 30**, opposent les voies de la vérité ou de l'ordre juste (*aša*) et celles de la tromperie (*druj*). Le contraste avec Maât et isfet est frappant sur le plan conceptuel : actes, parole vraie et structure du monde peuvent s'articuler dans les deux traditions.
+
+Il serait néanmoins abusif de conclure à l'identité de deux « religions dualistes ». D'une part, la chronologie et les contextes rituels avestiques soulèvent des difficultés spécifiques ; d'autre part, les conceptions de choix, d'eschatologie et de puissances spirituelles ne se confondent pas avec la dramaturgie égyptienne du jugement osirien. **L'analogie est comparatiste, non une filiation démontrée.**
+
+**Sources :** *Avesta*, Gāthās, *Yasna* 30 ; éditions de référence, notamment Helmut Humbach, *The Gāthās of Zarathushtra* (1991), et Stanley Insler, *The Gathas of Zarathustra* (1975).
+
+### 3. Monde grec : Dikè, Thémis et mesure cosmique
+
+Dans les **Travaux et les Jours** d'Hésiode (v. **213–285**), **Dikè** se plaint de l'injustice humaine et la figure de Zeus rend pertinente une mise en rapport de la rectitude des décisions et du destin collectif. La **Théogonie** (v. **901–906**) inscrit Dikè parmi les filles de Zeus et Thémis, avec Eunomia et Eirènè. Chez **Héraclite**, fragment **DK B94**, le Soleil ne franchit pas les mesures qui lui sont imparties, sous la vigilance des Érinyes, auxiliaires de Dikè. Une analogie existe donc entre droit et équilibre du monde.
+
+Elle ne signifie pas que Dikè serait une traduction grecque directe de Maât, ni que les Grecs auraient nécessairement emprunté cette généalogie conceptuelle à l'Égypte. Les contextes diffèrent : théogonie, poésie didactique, fragments philosophiques et religion de temple n'ont pas le même régime d'autorité. Une comparaison sérieuse précise **le niveau comparé** : personnification, langage politique, rituel, morale ou cosmologie.
+
+### 4. Israël ancien et sagesse biblique
+
+L'injonction de rendre justice aux pauvres, de refuser les poids falsifiés et de dénoncer la corruption peut être rapprochée de certains textes sapientiaux égyptiens. La relation entre les **Instructions d'Aménémopé** et **Proverbes 22,17–23,11** est un problème célèbre de recherche, avec des ressemblances textuelles discutées et des propositions de dépendance. Elle ne prouve pas à elle seule une identité entre Maât et les notions bibliques de *ṣedeq* / *mišpāṭ*, ni une continuité sans médiation.
+
+Les parallèles de normes morales sont un point de départ, **jamais une preuve d'emprunt**. Pour établir une circulation, il faut des dates compatibles, des textes comparables, un faisceau d'expressions spécifiques et des conditions matérielles de transmission.
+
+## XI. Quatre lectures philosophiques distinctes de l'attestation
+
+### A. Maât et l'objectivité du normatif
+
+Lorsque Maât est affirmée comme condition de la bonne marche du monde, le juste n'est pas réduit à la préférence d'un individu. On peut y lire une forme de **réalisme normatif** : les actes ont une valeur qui dépasse la volonté immédiate des acteurs. C'est une grille analytique contemporaine, non le nom antique d'une école philosophique égyptienne.
+
+### B. Maât et l'éthique de la responsabilité
+
+Les dénégations de la formule 125B introduisent une responsabilité sur les gestes, la parole et les mesures. Leur structure en première personne rend possible une lecture en termes de responsabilité individuelle ; néanmoins le contexte est funéraire et liturgique. Déduire une doctrine du sujet autonome comparable à Kant serait anachronique.
+
+### C. Maât et la fragilité des institutions
+
+Dans le *Paysan éloquent*, celui qui sollicite le droit fait apparaître l'écart entre la grandeur des principes et les manquements des agents. Maât devient alors une **ressource critique** contre l'injustice, tout en restant liée à une structure monarchique. On peut penser cet écart avec les outils de philosophie politique moderne, sans présenter Hegel, Habermas ou Arendt comme des interprètes directs des textes égyptiens.
+
+### D. Maât et la reproduction rituelle du cosmos
+
+La présentation répétée de Maât aux dieux peut être interprétée comme l'énoncé selon lequel un ordre ne persiste que s'il est **maintenu par des actes**. Le rapport entre conservation et innovation est particulièrement clair lorsque des rois réformateurs réclament à leur tour Maât. À la différence d'un « état de nature » ou d'une loi du mouvement physique, cet ordre est inséparable d'une cosmologie, de hiérarchies et de gestes cultuels.
+
+Ces lectures sont **des hypothèses de philosophie comparée**, utiles pour poser des problèmes, non des traductions littérales de la doctrine égyptienne.
+
+## XII. Historiographie : d'une essence intemporelle à une histoire des usages
+
+La recherche égyptologique a souvent été tentée de faire de Maât la « clé » unique de toute la civilisation égyptienne. **Jan Assmann** a souligné les liens entre vérité, justice, mémoire, ordre politique et survie posthume ; son approche est décisive pour voir un concept organisateur plutôt qu'un simple attribut d'une divinité. Mais la force de ce modèle peut tourner au système excessivement homogène s'il ne laisse plus place aux périodes, genres et usages locaux.
+
+Les travaux d'**Emily Teeter** sur l'offrande royale démontrent précisément pourquoi les formules et les scènes doivent être datées et comparées, non seulement interprétées symboliquement. Ceux de **Miriam Lichtheim** sur les textes sapientiaux et les valeurs morales permettent de replacer la pensée de Maât dans le discours concret des auteurs et des scribes. **Richard B. Parkinson** aide à lire le *Paysan éloquent* comme littérature travaillée, sensible à la mise en forme de la parole et aux stratégies de narration. **John Baines** rappelle l'importance de la stratification sociale des pratiques religieuses et de leur inscription institutionnelle.
+
+À partir de ces débats, trois positions peuvent être distinguées. **Minimaliste :** Maât serait seulement un idéal royal ; cette thèse explique insuffisamment les sapiences et les déclarations funéraires. **Maximaliste :** Maât serait un code éthique universel déjà unifié ; cette hypothèse ignore les variations et les résistances sociales. **Historique et contextuelle :** le concept est transversal et puissant mais son sens est reconstruit par les acteurs dans des institutions différentes. Cette troisième position paraît la plus fidèle à la diversité des documents.
+
+### Tableau de critique des attestations
+
+| Dossier | Ce qui est attesté | Ce qui demeure hypothétique | Ce qu'il faut éviter |
+|---|---|---|---|
+| Livre des morts 125A–B | Formules de déclaration et listes d'actes déniés, manuscrits variants | L'origine préfunéraire exacte de toutes ces dénégations | Les traiter comme un « code des 42 lois » |
+| P. Nu, BM EA 10477 | Maât et isfet associées dans un discours du défunt | Uniformité du rituel dans toutes les classes sociales | Attribuer ce témoin au papyrus d'Ani |
+| P. Maiherpri | Série de quarante-deux évaluateurs et dénégations | Portée pratique de chaque interdiction dans la vie quotidienne | Confondre la version avec un texte figé |
+| Textes des Sarcophages 1130 | Discours cosmogonique et responsabilité humaine | Théodicée doctrinale unifiée, philosophie du libre arbitre | Importer la théologie chrétienne de la chute |
+| *Paysan éloquent* | Récit des plaintes et de la rhétorique de justice | Description fiable de tous les recours judiciaires | Lire une fiction comme procès-verbal |
+| Offrande royale de Maât | Scènes et inscriptions datables, variantes | Rectitude effective de l'action de chaque roi | Confondre autojustification du pouvoir et fait historique |
+| Papyrus de Nany | Représentation de la déesse dans la pesée du cœur | Universalité de sa composition iconographique | Soutenir que le contrepoids est toujours une plume |
+
+## XIII. Atlas iconographique proposé : œuvres identifiées et légendes prêtes à publier
+
+**Planche 1 — Le jugement de Nany, vers 1050 av. n. è.**  
+*Légende :* « Papyrus funéraire de Nany, chanteuse d'Amon : Anubis ajuste la balance qui met en relation le cœur de la défunte et la figure de Maât, sous la présidence d'Osiris. »  
+*Source institutionnelle :* Metropolitan Museum of Art, *Book of the Dead for the Chantress of Amun, Nauny*, notice 548344, image indiquée **Public Domain** dans le catalogue. https://www.metmuseum.org/art/collection/search/548344  
+*Note :* afficher le crédit institutionnel et le numéro de catalogue ; ne pas recopier une image provenant d'un revendeur.
+
+**Planche 2 — Une statuette de Maât, Basse Époque.**  
+*Légende :* « Figure assise de Maât sur un piédestal ajouré, alliage cuivreux, XXVIe–XXXe dynasties, 664–332 av. n. è. ; l'empreinte de la plume autrefois fixée au sommet de la tête est encore visible. »  
+*Source institutionnelle :* Metropolitan Museum of Art, 07.228.30. https://www.metmuseum.org/art/collection/search/552698  
+*Prudence :* la notice consultée n'affiche pas d'image téléchargeable ; ne pas générer un faux cliché documentaire.
+
+**Planche 3 — Le roi présentant Maât à Amon-Rê.**  
+*Légende :* « Stèle cintrée ptolémaïque représentant un roi offrant Maât à la triade thébaine Amon-Rê, Mout et Khonsou ; attribution de provenance à Xois incertaine. »  
+*Source institutionnelle :* Musée du Louvre, N 272 / C 121 ; lieu indiqué dans la notice : musée Bonnat-Helleu, Bayonne. https://collections.louvre.fr/ark:/53355/cl010025237  
+*Droits :* vérifier les conditions de réutilisation de la photographie créditée au musée du Louvre / GrandPalaisRmn ; ne pas supposer qu'une notice en ligne autorise toute reproduction.
+
+**Planche 4 — Une page de la déclaration de justification.**  
+*Légende :* « Livre des morts, chapitre 125B : déclarations de l'innocence devant des divinités évaluatrices, dont les listes varient suivant les manuscrits. »  
+*Source textuelle de contrôle :* UCL Digital Egypt, papyrus de Maiherpri, chapitre 125B : https://www.ucl.ac.uk/museums-static/digitalegypt/literature/religious/bd125b.html  
+*Production éditoriale :* reproduire seulement une photographie identifiée de manuscrit après vérification de ses droits, et non un graphique 2,5D.
+
+**Planche 5 — Carte et chronologie documentaires.**  
+*Légende :* « Lieux et périodes des principaux témoins : Saqqarah (Textes des Pyramides), Héracléopolis (cadre du récit royal), Thèbes (papyrus funéraires), El-Bersheh (Textes des Sarcophages), Akhetaton (stèles-frontières). »  
+*Source :* synthèse scientifique à vérifier sur l'atlas topographique de l'Egypt Exploration Society et les inventaires muséaux ; carte à réaliser au trait clair, 2D, avec échelle, flèche nord, lieux et époques distincts. Éviter les reconstitutions conjecturales prises pour des vestiges photographiés.
+
+## XIV. Corpus de sources primaires et éditions de référence
+
+1. **Textes des Pyramides**, corpus de l'Ancien Empire : Kurt Sethe, *Die altägyptischen Pyramidentexte* (Leipzig, 1908–1922) ; R. O. Faulkner, *The Ancient Egyptian Pyramid Texts* (Oxford, 1969) ; James P. Allen, *The Ancient Egyptian Pyramid Texts* (Atlanta, 2005). Vérifier les numéros et leurs correspondances selon l'édition retenue.
+2. **Textes des Sarcophages**, formule **1130** : Adriaan de Buck, *The Egyptian Coffin Texts*, vol. VII (Chicago, 1961) ; R. O. Faulkner, *The Ancient Egyptian Coffin Texts*, vol. III (Warminster, 1978).
+3. **Livre des morts**, chapitre **125A**, papyrus de **Nu**, British Museum **EA 10477** : édition numérique UCL https://www.ucl.ac.uk/museums-static/digitalegypt/literature/religious/bd125a.html
+4. **Livre des morts**, chapitre **125B**, notamment le papyrus de **Maiherpri** (milieu de la XVIIIe dynastie) ; variantes du papyrus **Caire 2512** : UCL https://www.ucl.ac.uk/museums-static/digitalegypt/literature/religious/bd125b.html
+5. **Livre des morts**, chapitre **125C** : UCL https://www.ucl.ac.uk/museums-static/digitalegypt/literature/religious/bd125c.html
+6. **Livre des morts**, chapitre **30A** et dossiers associés aux scarabées du cœur : UCL https://www.ucl.ac.uk/museums-static/digitalegypt/literature/religious/bd30a.html ; https://www.ucl.ac.uk/museums-static/digitalegypt/burialcustoms/heartscarabs.html
+7. **Livre des morts de Nany**, Metropolitan Museum of Art, catalogue **548344**, env. 1050 av. n. è. : https://www.metmuseum.org/art/collection/search/548344
+8. **Plaintes du Paysan éloquent**, papyrus **Ramesseum A**, **Berlin 3023 (B1)** et **Berlin 3025 (B2)**, reconstruits de façon critique ; traduction et commentaire dans Richard B. Parkinson, *The Tale of Sinuhe and Other Ancient Egyptian Poems, 1940–1640 BC* (Oxford, 1997).
+9. **Instructions pour Mérikarê**, témoins comprenant le papyrus **Saint-Pétersbourg 1116A**, papyrus **Moscou 4658** et papyrus **Carlsberg 6** ; éditions et traductions dans Miriam Lichtheim, *Ancient Egyptian Literature*, vol. I (1973), et Richard B. Parkinson (1997). La datation du texte reconstruit demeure débattue.
+10. **Maximes de Ptahhotep**, notamment **papyrus Prisse** ; Miriam Lichtheim, *Ancient Egyptian Literature*, vol. I (1973), et autres éditions spécialisées.
+11. **Stèles-frontières d'Akhetaton**, surtout stèle **S** : UCL, translittération et traduction https://www.ucl.ac.uk/museums-static/digitalegypt/amarna/boundary.html
+12. **Offrande de Maât**, stèle Louvre **N 272 / C 121** : https://collections.louvre.fr/ark:/53355/cl010025237 ; rituel comparé dans Emily Teeter (1997).
+13. **Code de Hammurabi**, stèle **Louvre Sb 8**, prologue, dispositions et épilogue ; édition/traduction dans Martha T. Roth, *Law Collections from Mesopotamia and Asia Minor* (2e éd., Atlanta, 1997).
+14. **Avesta**, **Yasna 30**, texte avestique des Gāthās ; Helmut Humbach, *The Gāthās of Zarathushtra* (Heidelberg, 1991), et Stanley Insler, *The Gathas of Zarathustra* (Leiden, 1975).
+15. **Hésiode**, *Les Travaux et les Jours* **213–285**, et *Théogonie* **901–906** ; **Héraclite** fragment **DK B94**. Les correspondances de vers sont propres aux éditions grecques usuelles.
+
+## XV. Bibliographie critique
+
+- **Assmann, Jan**, *Ma'at: Gerechtigkeit und Unsterblichkeit im Alten Ägypten*. Munich, C. H. Beck, 1990.
+- **Assmann, Jan**, *The Mind of Egypt: History and Meaning in the Time of the Pharaohs*. New York, Metropolitan Books, 2002.
+- **Assmann, Jan**, *Death and Salvation in Ancient Egypt*. Ithaca, Cornell University Press, 2005.
+- **Baines, John**, « Society, Morality, and Religious Practice », dans Byron E. Shafer (dir.), *Religion in Ancient Egypt: Gods, Myths, and Personal Practice*. Ithaca, Cornell University Press, 1991.
+- **de Buck, Adriaan**, *The Egyptian Coffin Texts*, vol. VII. Chicago, University of Chicago Press, 1961.
+- **Faulkner, Raymond O.**, *The Ancient Egyptian Coffin Texts*, vol. III. Warminster, Aris & Phillips, 1978.
+- **Hornung, Erik**, *Conceptions of God in Ancient Egypt: The One and the Many*. Ithaca, Cornell University Press, 1982.
+- **Lichtheim, Miriam**, *Ancient Egyptian Literature: A Book of Readings*, vol. I–III. Berkeley, University of California Press, 1973–1980.
+- **Lichtheim, Miriam**, *Moral Values in Ancient Egypt*. Fribourg/Göttingen, University Press / Vandenhoeck & Ruprecht, 1997.
+- **Parkinson, Richard B.**, *The Tale of Sinuhe and Other Ancient Egyptian Poems, 1940–1640 BC*. Oxford, Oxford University Press, 1997.
+- **Parkinson, Richard B.**, *Reading Ancient Egyptian Poetry: Among Other Histories*. Malden/Oxford, Wiley-Blackwell, 2009.
+- **Quirke, Stephen**, *Ancient Egyptian Religion*. Londres, British Museum Press, 1992.
+- **Roth, Martha T.**, *Law Collections from Mesopotamia and Asia Minor*, 2e éd. Atlanta, Scholars Press, 1997.
+- **Teeter, Emily**, *The Presentation of Maat: Ritual and Legitimacy in Ancient Egypt*. SAOC 57. Chicago, Oriental Institute, 1997. Notice et bibliographie : https://isac.uchicago.edu/publications/presentation-maat-ritual-and-legitimacy-ancient-egypt
+- **Allen, James P.**, *The Ancient Egyptian Pyramid Texts*. Atlanta, Society of Biblical Literature, 2005.
+
+## XVI. Conclusion
+
+Maât met au jour une des articulations majeures de la pensée égyptienne : la vérité de la parole, la droiture de l'action, la justice rendue par les institutions, le jugement funéraire et l'entretien rituel du monde ne forment pas des domaines étanches. Cependant, leur articulation n'autorise ni la reconstruction d'une « constitution de Maât » identique pendant trois millénaires ni la célébration naïve d'un ordre social indiscutable. L'histoire du concept est également celle d'un pouvoir qui revendique le monopole du juste et de voix qui utilisent cette même valeur pour dénoncer l'injustice.
+
+L'isfet n'est pas simplement un « chaos » peint en noir sur un tableau moral : elle nomme les ruptures du vrai et du juste, avec des inflexions propres aux auteurs, aux genres et aux circonstances. La meilleure comparaison avec *kittu/mīšaru*, *aša/druj* ou *dikē* se construit à partir d'une question partagée — pourquoi l'univers et la cité doivent-ils être tenus dans le vrai ? — sans effacer les différences de théologie, de pouvoir et de transmission textuelle.
+
+**Bilan épistémique :** les papyrus, inscriptions et objets cités sont des témoins identifiables ; les traductions dépendent d'éditions et de manuscrits précis ; les synthèses cosmiques et politiques sont des interprétations historiennes ; les rapprochements avec Hegel, la théorie de la norme et la philosophie politique actuelle relèvent d'une lecture philosophique explicitement seconde. Ce classement est une condition de l'analyse universitaire, non une réserve mineure.
+
+**Renvois MYTHOS :** MC-024 « Amon, Rê et Aton » ; MC-021 « Cosmogonies égyptiennes » ; MC-022 « Osiris, Isis, Seth et Horus » ; MC-023 « Rê, Apophis et le voyage nocturne du Soleil ». Ces identifiants historiques restent des renvois thématiques, non des volumes concurrents.
