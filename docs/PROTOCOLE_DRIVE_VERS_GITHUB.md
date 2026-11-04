@@ -26,7 +26,8 @@ Ces chiffres sont des instantanés, pas des compteurs mis à jour automatiquemen
 2. **Comparer avec GitHub** : chercher par auteur, œuvre et titre dans `search.json`, `chapitres/` et les HTML publiés. Éviter les doublons et conserver les identifiants des séries universitaires existantes.
 3. **Préparer la publication** : conserver le contenu original dans Drive. Rédiger un texte destiné au public avec titres, sources et distinctions explicites entre faits attestés, hypothèses et reconstitutions. Ne pas importer des informations personnelles ni des notes de travail internes.
 4. **Importer sur GitHub** :
-   - nouvelle étude publique : `chapitres/<collection>/<nom-unique>.md` (minuscules, chiffres et tirets uniquement pour le chemin) ;
+   - **nouvelle étude dans les cinq collections numérotées** (`origines-du-sacre`, `encyclopedie`, `comedies`, `tragedies`, `comparatif`) : déposer le **manuscrit intégral approuvé** dans `editorial/inbox/<uuid>.json`, avec `version: 1`, `collection`, un `slug` inédit et `markdown` contenant `{{numero}}` ou `{{volume}}`. Laisser GitHub Actions attribuer le numéro, créer le chapitre et son reçu conformément à `AGENTS.md` et `docs/PUBLICATION_CONCURRENTE.md` ;
+   - **étude hors de ces cinq collections** : conserver son classement existant, sans attribuer de numéro d'une autre série ;
    - correction d'une étude déjà publiée : modifier **le fichier existant**, à partir de son SHA actuel, sans créer une version parallèle ;
    - les liens médias doivent viser les fichiers locaux `/media/...` quand ils existent.
 5. **Contrôler** le commit, la génération GitHub Actions, le titre, le référencement dans `search.json`, les liens internes et l'URL publique. Un commit réussi **n'est pas** à lui seul une preuve que Pages a été déployé.
