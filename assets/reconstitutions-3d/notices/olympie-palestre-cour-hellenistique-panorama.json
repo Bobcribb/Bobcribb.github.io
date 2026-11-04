@@ -1,0 +1,33 @@
+{
+  "id": "OLY-PAL-001",
+  "slug": "olympie-palestre-cour-hellenistique-panorama",
+  "title": "Olympie — palestre, cour à péristyle du gymnase",
+  "period": "IIIe siècle av. J.-C. ; évocation d’un état d’époque hellénistique",
+  "image": "/assets/reconstitutions-3d/olympie-palestre-cour-hellenistique-panorama.webp",
+  "caption": "Vue panoramique photoréaliste interprétative de la cour sablée entourée de portiques de la palestre d’Olympie, en Élide.",
+  "commentary": "La palestre d’Olympie fut construite à l’époque hellénistique, généralement datée du IIIe siècle av. J.-C., à l’extérieur de l’enceinte sacrée de l’Altis, dans le secteur occidental voisin du Kladeos. Il s’agissait d’un ensemble approximativement carré, d’environ 66 mètres de côté, organisé autour d’une cour ouverte destinée aux exercices athlétiques et bordée sur quatre côtés de portiques. Les pièces attenantes répondaient à différents usages liés à l’entraînement et à la préparation des athlètes. L’image privilégie la perception de l’ordonnance architecturale et des circulations sous les colonnades. La présence de colonnes doriques dans le péristyle repose sur les données du monument ; en revanche, la hauteur des élévations, les enduits, les portes, les joints visibles, les essences de bois, les toitures, l’aménagement précis des salles et la végétation sont des restitutions d’illustration. Le petit bassin rectangulaire figuré dans la cour n’est pas attesté par les sources utilisées pour cette notice : il constitue une liberté graphique qui ne doit pas être interprétée comme une découverte archéologique. Cette image fixe est une création numérique contemporaine, non une maquette archéologique métrique ni une restitution institutionnelle validée.",
+  "certainty": {
+    "high": "Existence et localisation de la palestre à Olympie ; bâtiment de plan approximativement carré autour d’une cour ouverte, bordée de quatre portiques ; usage pour l’entraînement athlétique ; datation généralement placée au IIIe siècle av. J.-C.",
+    "medium": "Dimensions autour de 66 mètres par côté ; ordonnance du péristyle dorique ; disposition générale des pièces en périphérie ; proportions d’ensemble, sous réserve des phases de construction et restauration.",
+    "low": "Élévations complètes, hauteurs des murs et des charpentes, enduits et couleurs, portes, banc, végétation, ombres et orientation du regard ; bassin rectangulaire central représenté sans attestation archéologique dans les sources mobilisées."
+  },
+  "sources": [
+    {
+      "label": "Ministère grec de la Culture — Olympie, visite du sanctuaire : la Palestre",
+      "url": "https://olympicgames.culture.gov.gr/en/periigisi.html"
+    },
+    {
+      "label": "UNESCO — Site archéologique d’Olympie, inscription 517 (critère architectural : palestre)",
+      "url": "https://whc.unesco.org/fr/list/517/"
+    },
+    {
+      "label": "Municipalité d’Olympie — Archaeological Site of Olympia, description de la Palestre",
+      "url": "https://arxaiaolympia.gov.gr/the-archaeological-site-of-olympia/?lang=en"
+    }
+  ],
+  "width": 1672,
+  "height": 941,
+  "sha256": "5d2a6df02a0e39f964f9a604513a681bee66a0ff0241d0a35d3a8ba33040814a",
+  "method": "Image fixe 3D photoréaliste originale. Reconstitution interprétative, ni relevé métrique, ni production officielle du ministère ou de l’UNESCO. Texte et légendes hors des pixels.",
+  "publication_status": "Référencée dans la branche GitHub de publication ; état public validé exclusivement par contrôle du domaine après fusion."
+}

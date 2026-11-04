@@ -2,7 +2,7 @@
   "generated_at": "2026-11-04",
   "site": "bobmythos.fr",
   "method": "Illustrations photoréalistes interprétatives, textes et sources hors des pixels.",
-  "count": 36,
+  "count": 37,
   "entries": [
     {
       "id": "DEL-PAN-001",
@@ -710,6 +710,28 @@
       "provenance": "Création originale assistée par IA, sans titre, menu ni annotation incrusté ; les sources archéologiques ne valident pas le rendu.",
       "sha256": "8cea9b292ee9994eb559a0dbf6b7c319f5717445c3acc4b9a739a33b0a12e991",
       "scientific_notice": "/assets/reconstitutions-3d/notices/olynthe-quartier-maisons-cours-355-panorama.json"
+    },
+    {
+      "id": "OLY-PAL-001",
+      "slug": "olympie-palestre-cour-hellenistique-panorama",
+      "title": "Olympie — palestre, cour à péristyle du gymnase",
+      "period": "IIIe siècle av. J.-C. ; évocation d’un état d’époque hellénistique",
+      "caption": "Vue panoramique photoréaliste interprétative de la cour sablée entourée de portiques de la palestre d’Olympie, en Élide.",
+      "commentary": "La palestre d’Olympie fut construite à l’époque hellénistique, généralement datée du IIIe siècle av. J.-C., à l’extérieur de l’enceinte sacrée de l’Altis, dans le secteur occidental voisin du Kladeos. Il s’agissait d’un ensemble approximativement carré, d’environ 66 mètres de côté, organisé autour d’une cour ouverte destinée aux exercices athlétiques et bordée sur quatre côtés de portiques. Les pièces attenantes répondaient à différents usages liés à l’entraînement et à la préparation des athlètes. L’image privilégie la perception de l’ordonnance architecturale et des circulations sous les colonnades. La présence de colonnes doriques dans le péristyle repose sur les données du monument ; en revanche, la hauteur des élévations, les enduits, les portes, les joints visibles, les essences de bois, les toitures, l’aménagement précis des salles et la végétation sont des restitutions d’illustration. Le petit bassin rectangulaire figuré dans la cour n’est pas attesté par les sources utilisées pour cette notice : il constitue une liberté graphique qui ne doit pas être interprétée comme une découverte archéologique. Cette image fixe est une création numérique contemporaine, non une maquette archéologique métrique ni une restitution institutionnelle validée.",
+      "certainty": "Élevé : plan carré, cour et quatre portiques, fonction athlétique. Moyen : dimensions approximatives, rythme des colonnes et disposition des salles. Faible : toitures, enduits, couleurs, mobilier, végétation et bassin central non attesté.",
+      "source_url": "https://olympicgames.culture.gov.gr/en/periigisi.html",
+      "secondary_sources": [
+        "https://whc.unesco.org/fr/list/517/",
+        "https://arxaiaolympia.gov.gr/the-archaeological-site-of-olympia/?lang=en"
+      ],
+      "src": "/assets/reconstitutions-3d/olympie-palestre-cour-hellenistique-panorama.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-04",
+      "type": "vue panoramique numérique 3D photoréaliste interprétative, non métrique",
+      "provenance": "Création originale réalisée avec génération d’image ; aucune carte archéologique ni restitution officielle n’a été copiée.",
+      "sha256": "5d2a6df02a0e39f964f9a604513a681bee66a0ff0241d0a35d3a8ba33040814a",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/olympie-palestre-cour-hellenistique-panorama.json"
     }
   ]
 }
