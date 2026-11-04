@@ -1,0 +1,465 @@
+# MYTHOS — Cycle comparatif universitaire — Volume CLXXVIII (178)
+
+## Pierre Lemonnier : choix techniques, objets ordinaires et ritualité — Comment les matières communiquent sans paroles
+
+**Statut :** monographie universitaire autonome, texte intégral autorisé pour publication publique.  
+**Collection :** mythologie comparée et anthropologie historique des religions.  
+**Rédaction :** 4 novembre 2026.  
+**Continuité :** après CLXXVI (176), Gilbert Simondon, et CLXXVII (177), André Leroi-Gourhan, désormais identifié dans le registre GitHub. La présente étude ne reprend pas leurs monographies : elle déplace la question vers les **choix culturels non dictés par le rendement** et les **objets résonateurs de relations sociales et religieuses**. Le numéro du nouveau volume est attribué par le registre transactionnel de publication ; `CLXXVIII` et `178` sont les seuls emplacements réservés à cette attribution.
+
+### Résumé scientifique
+
+Pourquoi des sociétés choisissent-elles des procédés ou des objets dont la signification ne se réduit ni à l'efficacité pratique ni à l'ornement ? Les travaux de Pierre Lemonnier — *Elements for an Anthropology of Technology* (1992), *Technological Choices* (dir., 1993), *Mundane Objects* (2012) et *La ritualité des choses* (2023) — interrogent les sélections culturelles parmi les techniques disponibles et les capacités de certains objets à réunir, sans les énoncer séparément, plusieurs dimensions de la vie collective. La recherche menée en Papouasie-Nouvelle-Guinée, notamment auprès des Baruya et des Ankave, permet d'observer des gestes, des objets et des rapports de pouvoir dans leurs contextes ; elle n'est pas une source d'analogies automatiques avec les religions antiques.
+
+L'étude confronte ce programme à quatre ensembles historiquement distincts : les textes mésopotamiens du *mīs pî*, rite de consécration de l'image cultuelle ; les instruments égyptiens de l'« ouverture de la bouche », dont plusieurs sont conservés au Metropolitan Museum of Art ; les prescriptions de fabrication de l'arche et de l'espace cultuel dans l'Exode ; enfin les catégories grecques d'objet sacré et de représentation des dieux, notamment chez Pausanias et dans le récit de la statue d'Athéna à Troie. Une dernière comparaison aborde les dispositifs sacrificiels de l'Inde védique. Les sources matérielles, les prescriptions, les croyances attestées par les textes et les lectures philosophiques demeurent rigoureusement séparées.
+
+**Thèse de travail :** certains objets rituels ne transmettent pas une proposition que l'on pourrait simplement traduire en mots ; ils mettent en relation des gestes, des interdits, des souvenirs, des personnes et des puissances. Mais cette proposition ne signifie ni que les objets pensent seuls, ni que toute fonction utilitaire dissimule un rite, ni qu'une ressemblance de forme prouve la transmission d'une religion.
+
+### Appareil épistémique
+
+**[A] Fait attesté** — présence d'un document, formulation d'une prescription, objet inventorié, observation ethnographique publiée ; un récit divin est attesté comme récit. **[I] Interprétation historique** — lien argumenté entre documents ou hypothèse contextualisée. **[H] Hypothèse comparative** — rapprochement possible sans démonstration d'une filiation. **[P] Lecture philosophique** — application critique d'un concept moderne. Les descriptions d'ouvrages à accès restreint sont fondées sur des notices éditoriales et comptes rendus clairement désignés ; aucune lecture intégrale de ces livres n'est revendiquée sans accès effectif.
+
+---
+
+## I. Une question différente de celle des précédents volumes
+
+### 1. De la chaîne opératoire au choix [A/I]
+
+Leroi-Gourhan a contribué à identifier et reconstruire des chaînes de gestes et des séries techniques ; Lemonnier interroge également **pourquoi une option plutôt qu'une autre** est retenue, alors que plusieurs solutions permettent d'atteindre un résultat matériel voisin. Le choix n'est pas une bizarrerie irrationnelle au regard d'une efficacité supposée universelle : il peut correspondre à des relations, des classements et des contraintes historiquement situées.
+
+### 2. De l'objet qui agit à l'objet qui réunit des relations [I]
+
+Alfred Gell étudie l'agentivité attribuée aux images ; Igor Kopytoff la biographie des choses ; Ian Hodder les dépendances matérielles ; Simondon la genèse des objets techniques. Lemonnier pose une autre question : comment un artefact peut-il condenser plusieurs rapports sociaux simultanés, au point que sa fabrication et son usage soient des modes de communication difficilement remplaçables par un discours explicite ?
+
+### 3. Les frontières de l'enquête [I]
+
+La recherche ethnographique contemporaine peut recueillir les propos des participants, observer leurs actions et confronter les explications. L'archéologie antique possède plus souvent des objets isolés, des représentations officielles ou des textes prescriptifs. Le passage entre les deux exige donc un **contrôle d'asymétrie documentaire** : une pratique observée dans une communauté actuelle ne prouve pas la signification d'un artefact de l'âge du Bronze.
+
+## II. Quatre ouvrages et leurs problématiques
+
+### 4. *Elements for an Anthropology of Technology* (1992) [A]
+
+Pierre Lemonnier, *Elements for an Anthropology of Technology*, Anthropological Papers, University of Michigan Museum of Anthropology, 1992, DOI [10.3998/mpub.11396246](https://doi.org/10.3998/mpub.11396246). La notice de l'[University of Michigan Press](https://press.umich.edu/Books/E/Elements-for-an-Anthropology-of-Technology) confirme les données bibliographiques. L'ouvrage propose un programme de technologie anthropologique : il faut documenter la matière, l'énergie, les instruments, les gestes, les savoirs et leur articulation sociale.
+
+### 5. *Technological Choices* (1993) [A]
+
+Pierre Lemonnier (dir.), *Technological Choices: Transformations in Material Cultures since the Neolithic*, Routledge, 1993. La [notice de l'éditeur](https://www.routledge.com/technological-choices-transformations-in-material-cultures-since-the-neolithic/lemonnier/p/book/9780415296441) présente notamment les contributions de Pierre Pétrequin sur les choix néolithiques du Jura, de Robert Cresswell sur les moulins, de Tim Ingold sur le lasso, de Marie-Claude Mahias sur les poteries et de Lemonnier sur les porcs en Nouvelle-Guinée. Il ne s'agit pas d'une démonstration d'un seul modèle pour toutes les sociétés, mais d'un programme comparatif appuyé sur des cas.
+
+### 6. La critique de l'efficacité suffisante [I]
+
+Un outil plus rapide ou une matière plus robuste ne remplace pas automatiquement une technique héritée. La disponibilité, le prestige, les compatibilités avec d'autres pratiques et les règles d'usage peuvent expliquer la persistance d'un procédé. Il serait néanmoins abusif d'opposer sans nuance une « rationalité technique » moderne à une « rationalité culturelle » ancienne : toute technique possède des conditions sociales.
+
+### 7. *Mundane Objects* (2012) [A]
+
+*Pierre Lemonnier, Mundane Objects: Materiality and Non-verbal Communication*, 2012, étudie notamment les clôtures de jardin baruya, les pièges à anguilles, les tambours et les modèles de voitures. La [notice de Routledge](https://www.routledge.com/Mundane-Objects-Materiality-and-Non-verbal-Communication-1st-Edition/Lemonnier/p/book/9781611320572) donne le sommaire et les axes de l'argument. L'objet dit ordinaire peut participer à des condensations d'idées et de rapports que ni sa fonction pratique ni son apparence seule ne permettent d'expliquer.
+
+### 8. *La ritualité des choses* (2023) [A]
+
+Le livre *La ritualité des choses. Objets, gestes et paroles des initiations masculines baruya (Papouasie-Nouvelle-Guinée)*, Mimésis, 2023, décrit notamment la cérémonie Muka de 1979, organisée sur cinq semaines et plus de cent dix étapes. L'[éditeur](https://www.editionsmimesis.fr/catalogue/la-ritualite-des-choses/) insiste sur les actes matériels et les transformations de statut ; Jean-François Bert en propose une recension documentée, « La matière du rituel », *La Vie des idées*, 4 décembre 2023, https://laviedesidees.fr/Lemonnier-La-ritualite-des-choses . La recension et la notice ne remplacent pas une édition intégrale consultée.
+
+## III. Le « choix technique » comme problème anthropologique
+
+### 9. Les possibles ne sont pas tous adoptés [I]
+
+Les mêmes ressources naturelles peuvent soutenir plusieurs architectures, pièges, paniers ou procédés agricoles. Les acteurs évaluent les contraintes, mais leur évaluation peut intégrer prestige, relations entre générations, catégories religieuses ou accessibilité politique. Dire que le choix est culturel ne revient pas à le considérer comme arbitraire au sens d'absence de raisons.
+
+### 10. L'exigence du contrôle des alternatives [H]
+
+Pour montrer qu'une société a choisi une forme malgré une autre, il faut établir que plusieurs possibilités étaient réellement connues ou disponibles. À défaut, une différence peut résulter de contraintes écologiques ou de savoir-faire non accessibles. Une hypothèse de « résistance culturelle » doit donc documenter les coûts, les matériaux, la circulation des techniques et les formes d'apprentissage.
+
+### 11. Le rendement ne fournit pas la signification [I]
+
+Une clôture protège un jardin ; elle peut aussi rendre visibles des limites familiales, des obligations collectives et des normes d'entretien. Mais sa signification sociale ne peut être inventée à partir de l'existence d'une barrière. Dans l'ethnographie, elle découle de l'observation et des discours ; dans l'archéologie, elle demeure une inférence à étayer par un ensemble de preuves.
+
+### 12. Technique, mythe et parole [P]
+
+Une histoire de l'origine du feu ou de l'image divine peut expliquer les règles d'utilisation de certains objets. Cette connexion relève de la vie symbolique des pratiques, mais le mythe n'est pas nécessairement la mémoire fidèle de leur invention. La mythologie comparée doit suivre des **relations documentées entre objets et récits**, plutôt que supposer que chaque outil serait la matérialisation d'une divinité oubliée.
+
+## IV. Les objets résonateurs : une idée à ne pas mystifier
+
+### 13. La pluralité des rapports [I]
+
+Un objet « résonateur » peut évoquer ensemble des relations de parenté, des classifications animales, des rites et des rivalités. La notion ne signifie pas que l'objet émettrait physiquement une pensée ; elle désigne une capacité socialement reconnue à faire converger plusieurs domaines d'expérience. Son sens peut être perdu lorsqu'il quitte son contexte d'usage.
+
+### 14. Un message impossible à réduire au dessin [I]
+
+Une photographie d'un tambour rituel conserve sa forme mais ne montre ni la manière de le fabriquer, ni son rythme, ni les conditions sociales de son exécution. Une notice muséale peut décrire l'origine d'un exemplaire ; elle ne remplace pas une ethnographie. La prudence vaut d'autant plus pour les objets antiques dont les pratiques ont disparu.
+
+### 15. Les objets ne parlent pas d'eux-mêmes [P]
+
+La formule « communication non verbale » ne doit pas suggérer une transmission intégrale sans interprète. Un même objet peut être interprété de plusieurs manières suivant le sexe, l'âge, la position sociale et l'initiation du spectateur. Un outsider ne reçoit pas automatiquement les mêmes relations qu'un participant formé au rite.
+
+### 16. Le paradoxe de l'explication savante [P]
+
+L'ethnologue écrit sur des relations qui, dans le contexte observé, ne sont pas toujours formulées en discours. Le compte rendu analytique n'est donc pas une transcription de ce que « l'objet dit ». Il constitue une proposition du chercheur, dont les conditions de validation doivent rester visibles.
+
+## V. L'ethnographie baruya et ankave : ce qui est observable et ce qui ne se transfère pas
+
+### 17. Une clôture de jardin [A/I]
+
+La clôture baruya étudiée dans *Mundane Objects* possède une fonction pratique : protéger un espace cultivé. Elle est également située dans un réseau de relations sociales. La force de l'enquête de Lemonnier tient au fait que ces fonctions sont décrites ensemble, au lieu de construire deux mondes séparés — l'utilitaire et le symbolique. Nous ne déduisons aucun rite précis sans l'édition ethnographique détaillée.
+
+### 18. Pièges à anguilles [A/I]
+
+Les pièges mobilisent des matières et des gestes dont l'efficacité peut être observée. L'ethnologue examine également les associations qui leur donnent une signification dans la société étudiée. Leur structure matérielle ne vaut pas à elle seule preuve d'une symbolique universelle du serpent, de l'eau ou du monde souterrain.
+
+### 19. Les tambours [A/I]
+
+Les tambours cités dans le sommaire de *Mundane Objects* articulent une acoustique matérielle, des pratiques d'exécution et des circonstances sociales. Dans un rite, le son peut établir une relation temporelle entre des participants. Mais il faut distinguer le fait qu'un instrument existe de la connaissance de chaque occasion où il était joué.
+
+### 20. Muka et les initiations [A/I]
+
+La cérémonie décrite dans *La ritualité des choses* rend manifeste l'importance des séquences, de l'effort corporel et des transformations de statut ; le discours seul n'y remplace pas les actes. Les inégalités de genre évoquées par l'éditeur appartiennent au contexte ethnographique analysé ; elles ne justifient aucune projection sur les rites grecs ou mésopotamiens sans documentation autonome.
+
+### 21. Une limite éthique et historique [I]
+
+Le travail sur des communautés vivantes impose de distinguer leurs catégories et les descriptions savantes. Une photographie ou un objet rituel peut être soumis à des restrictions culturelles de diffusion. L'encyclopédie ne reproduira donc ni images d'initiations, ni sons ou objets potentiellement restreints sans vérification des permissions et du contexte.
+
+## VI. Mésopotamie : le *mīs pî*, du travail humain à la présence divine
+
+### 22. Une cérémonie textuellement identifiée [A]
+
+Le rituel akkadien du *mīs pî* (« lavage de la bouche »), avec le *pīt pî* (« ouverture de la bouche »), concerne la consécration d'images divines. La documentation conservée est principalement du Ier millénaire avant notre ère et présente des recensions ninivite et babylonienne. Russell Hobson, « Study Five: Mīs Pî », dans *Transforming Literature into Scripture*, 2012, p. 89–99, présente la structure des témoins : [notice Cambridge University Press](https://www.cambridge.org/core/books/abs/transforming-literature-into-scripture/study-five-mis-pi/D9EDA6AB7D7560D5500AF9CB77E86C90).
+
+### 23. La maison des artisans : étape documentée [A]
+
+La traduction du texte rituel conservée par ETANA commence dans le *bīt mummi*, maison ou atelier lié à la fabrication de l'image. Elle prescrit des récipients d'eau rituelle, des tissus, des offrandes et des incantations. Référence : [ETANA, « Mouth-Washing Ritual for a Cult Statue »](https://etana.org/node/580), première journée, section A, lignes 1–4 de la transcription publiée. Ces indications sont des prescriptions, non la photographie d'une cérémonie réellement accomplie telle quelle à chaque occasion.
+
+### 24. Le transport vers le fleuve [A]
+
+Le même témoin présente la procession depuis le lieu de fabrication vers la rive, avec un bélier, une torche et des récitations ; la phase de la rive prévoit un espace de roseaux, des offrandes et des lavages. La séquence s'inscrit dans un parcours de transformation d'état. La prise de la main de l'image et son déplacement appartiennent à la prescription rituelle elle-même.
+
+### 25. Les outils du fabricant [A/I]
+
+Le texte prescrit la présence d'objets évoquant des outils d'artisans : hache, ciseau et scie, entre autres, inclus dans une opération près du fleuve (ETANA, section C, lignes 8–9). Ce détail met en scène un paradoxe : les outils ont participé matériellement à la production, mais le rite cherche à placer l'image dans un ordre qui dépasse l'atelier humain.
+
+### 26. Le paradoxe théologique [I/P]
+
+La statue a été façonnée par des travailleurs humains ; la cérémonie la traite comme un support légitime de présence divine. Les opérations ne nient pas l'existence matérielle des artisans : elles produisent une différence de statut entre un objet de fabrication et une image cultuelle. Lemo nnier permet de poser la question de la **communication de cette différence par une séquence d'actions**. Cette interprétation est contemporaine et n'est pas un terme akkadien.
+
+### 27. Une image n'est pas un dieu au sens de l'archéologue [I]
+
+Lorsque la source attribue à l'image une capacité de recevoir la divinité, elle documente une doctrine et une cérémonie. Elle ne démontre pas expérimentalement une animation surnaturelle de la matière. Le rôle de l'historien est de restituer cette représentation religieuse et ses conséquences sociales, sans la traduire en une causalité physique.
+
+### 28. Les deux versions et leurs écarts [A/I]
+
+Hobson signale des différences de séquence et de nombre d'incantations entre les traditions de Ninive et de Babylone. La tentation de construire une procédure unique, immuable, doit être évitée. Les états textuels identifiés sont la base de l'analyse ; leurs variantes peuvent refléter des traditions scribales ou cultuelles dont la relation historique reste à établir.
+
+## VII. Égypte : l'« ouverture de la bouche » et la fonction des instruments
+
+### 29. Une comparaison au nom séduisant, mais non identique [A/I]
+
+L'Égypte ancienne possède un rituel d'ouverture de la bouche, associé notamment à la restauration des sens du défunt et au fonctionnement d'images. L'homonymie française avec *mīs pî* ne justifie pas de fusionner les deux cérémonies. Les destinataires, les outils et la transmission documentaire doivent être comparés séparément. Une influence historique directe peut être discutée, mais n'est pas établie par la seule ressemblance de noms.
+
+### 30. Un ensemble matériel identifié [A]
+
+Le Metropolitan Museum of Art conserve un **modèle d'équipement du rite**, inv. **07.228.117a–h**, daté des Ve–VIe dynasties, environ 2465–2150 av. notre ère : [notice du Met](https://www.metmuseum.org/art/collection/search/543920). Le plateau et les modèles de vases et d'instruments fournissent un objet matériel spécifique, distinct des scènes peintes de périodes plus tardives. La notice précise que la fonction exacte d'une lame bifide ancienne demeure discutée, même si sa participation symbolique au rite est attestée.
+
+### 31. Les récipients de Perneb [A]
+
+Le même musée conserve le vase dit d'« ouverture de la bouche » de Perneb, **14.7.93**, de la Ve dynastie, environ 2381–2323 av. notre ère, provenant de Saqqara : [notice](https://www.metmuseum.org/art/collection/search/547093). Sa présence dans un ensemble rituel renseigne sur les opérations préparatoires, mais ne restitue pas à elle seule l'ordre exact de chaque parole prononcée.
+
+### 32. Le *meskhetyu* de Deir el-Bahari [A]
+
+L'instrument de bois **25.3.40**, conservé au Metropolitan Museum, provient d'un dépôt de fondation du temple d'Hatchepsout à Deir el-Bahari, vers 1473–1458 av. notre ère : [notice du Met](https://www.metmuseum.org/art/collection/search/544458). Il constitue un exemple de support matériel intervenant dans un rite où les sculptures et les images cultuelles pouvaient recevoir une efficacité religieuse.
+
+### 33. Les textes et les images ne sont pas le même témoin [I]
+
+Une vignette funéraire peut représenter l'ouverture de la bouche ; un instrument de fouille en atteste la matérialité ; une liturgie en fixe certaines prescriptions. Les trois témoins sont comparables, mais ils ne se valident pas circulairement. Un dessin ne prouve pas que l'outil retrouvé dans une autre tombe ait été employé exactement comme illustré.
+
+### 34. Le principe de différence fonctionnelle [I]
+
+Le contexte funéraire égyptien associe une restauration sensorielle du défunt à sa survie ; la consécration mésopotamienne concerne principalement l'entrée d'une image divine dans le culte du temple. Chaque tradition connaît aussi d'autres usages et développements. Une comparaison rigoureuse cherche à expliquer les différences, pas à les effacer pour créer une origine commune.
+
+## VIII. Exode : construire une arche et transmettre un ordre cultuel
+
+### 35. Les prescriptions d'Exode 25 [A]
+
+Exode 25,10–22 décrit des prescriptions concernant la fabrication de l'arche : bois, revêtement d'or, anneaux, barres de transport et *kappōret* (couvercle propitiatoire), avec figures de chérubins. Le texte énonce une ordonnance religieuse, non un dossier archéologique attestant que l'objet précis conservé dans le récit ait été retrouvé. La précision technique du commandement appartient au genre sacerdotal.
+
+### 36. Fabrication et autorité [I]
+
+Le récit lie le choix de matières, les dimensions et l'organisation cultuelle à l'autorité divine. Il montre comment une procédure de fabrication peut être légitimée autrement que par l'efficacité mécanique. Mais les prescriptions ne démontrent pas que toutes les communautés israélites ont utilisé une arche identique à toutes les périodes.
+
+### 37. Beçalel, le savoir artisanal et le souffle [A]
+
+Exode 31,1–11 désigne Beçalel comme artisan chargé d'opérations sur le métal, la pierre, le bois et d'autres objets cultuels ; la compétence est rapportée à une donation divine. Ce motif n'est pas identique à celui du *mīs pî*, qui porte sur la consécration d'une image déjà produite. Il concerne la qualification d'un exécutant dans une histoire d'institution rituelle.
+
+### 38. Les matériaux ne sont pas neutres [H/I]
+
+Le choix du bois, de l'or ou des tissus n'est pas réductible à la résistance mécanique. Les textes attribuent des différences à leurs qualités et à leur rôle dans la séparation des espaces. Cette proposition doit pourtant être testée par l'analyse du vocabulaire et du contexte prescriptif : une matière rare peut aussi être choisie pour des raisons de disponibilité politique et de prestige.
+
+### 39. La transmission des prescriptions [P]
+
+Une règle écrite peut stabiliser un modèle sans suffire à produire l'objet. Les artisans doivent encore acquérir des gestes, résoudre des contraintes et coordonner leur travail. La comparaison avec Lemonnier aide à lire le récit comme l'articulation de norme et de fabrication, non comme une preuve que les objets cultuels seraient des machines programmées.
+
+## IX. Grèce : objets cultuels, légitimité et déplacements
+
+### 40. Les statues ne sont pas de simples images contemplatives [I]
+
+Les communautés grecques peuvent attribuer aux effigies des fonctions rituelles, territoriales et politiques. Elles les vêtent, les déplacent, les honorent ou les protègent selon des traditions locales. Ces pratiques ne sont pas universelles ni uniformes dans le monde grec. L'usage d'un objet doit être établi pour le sanctuaire et la période étudiés.
+
+### 41. Hérodote et les images de Damia et Auxesia [A]
+
+Hérodote, *Histoires* V, 82–88, raconte des conflits et des obligations liés aux images de Damia et Auxesia et aux relations entre Égine, Épidaure et Athènes. Le récit atteste une représentation historique et politique de la circulation des statues ; tous ses détails ne sont pas confirmés par des vestiges indépendants. L'intérêt pour Lemonnier est la fonction de l'objet dans un ensemble d'obligations qui dépassent son matériau.
+
+### 42. Pausanias et l'histoire d'une effigie [A]
+
+Pausanias, *Description de la Grèce* VIII, 42, 1–13, décrit les traditions concernant Déméter Mélaina à Phigalie et les renouvellements de son image. La mémoire d'un objet peut se prolonger malgré son remplacement ou sa disparition. Le texte d'un voyageur du IIe siècle de notre ère ne permet toutefois pas de reconstruire sans réserve les états archaïques de la statue.
+
+### 43. Les objets ne « signifient » pas seuls la même chose [I]
+
+Un objet peut être une offrande pour les uns, un signe de juridiction pour les autres et un enjeu de rivalité pour des voisins. La « communication non verbale » n'est pas une phrase émise par la statue ; elle dépend des gestes, du lieu et de la reconnaissance collective d'une histoire.
+
+### 44. L'iconographie comme indice partiel [I]
+
+Une scène montrant un autel, une procession ou une victime sacrificielle n'indique pas nécessairement toutes les paroles récitées. Les inscriptions et les règlements de sanctuaire peuvent contrôler certaines interprétations ; leur absence doit être signalée. Une image illustrative ne doit jamais être transformée en restitution certaine d'un rite disparu.
+
+## X. Inde védique : matériaux, ordre du rite et construction cosmique
+
+### 45. Le feu et l'autel [A/I]
+
+Les textes védiques accordent aux dispositifs du feu et aux substances offertes une place centrale. Les constructions rituelles complexes sont décrites dans les Brāhmaṇa, notamment le *Śatapatha Brāhmaṇa* dans les sections consacrées à l'édification de l'autel du feu. Ces sources appartiennent à une tradition linguistique et chronologique différente des rituels mésopotamiens.
+
+### 46. Une opération plus vaste que l'objet fini [I]
+
+Construire un autel suppose une préparation de l'espace, une sélection de matières, des dispositions et des récitations. La forme finale n'épuise pas la cérémonie. Le programme de Lemonnier permet d'interroger le caractère non substituable de certains gestes ; il ne démontre pas qu'une communauté védique possédait la même théorie des « résonateurs ».
+
+### 47. La multiplicité des sens du feu [I]
+
+Un foyer domestique et un feu sacrificiel peuvent brûler des combustibles semblables sans être identiques en statut rituel. Les distinctions s'établissent par les prescriptions, les officiants et les séquences de paroles. Inversement, un tel statut peut évoluer selon la tradition. L'interprétation doit rester sensible aux catégories sanskrites, et non à la seule photographie d'une flamme.
+
+### 48. Pas de diffusion universelle de l'autel [H]
+
+La présence d'autels en Grèce, au Proche-Orient et dans le monde védique ne constitue pas une preuve d'un archétype unique. Pour envisager une filiation, il faudrait des indices datables de circulation, des correspondances techniques suffisamment spécifiques et une histoire linguistique cohérente. La comparaison de fonctions est possible sans hypothèse de parenté.
+
+## XI. Philologie critique des mots d'objet, de rite et de fabrication
+
+### 49. Akkadien [A]
+
+*Mīs pî* (« lavage de la bouche »), *pīt pî* (« ouverture de la bouche »), *bīt mummi* (atelier ou lieu spécialisé selon les contextes), *ṣalmu* (image/statue) et *āšipu* (spécialiste d'incantations) doivent être lus dans leurs emplois précis. La traduction « rendre vivant » résume une conséquence théologique, non le sens lexical de chaque terme. Les divergences entre les recensions restent à signaler.
+
+### 50. Égyptien [A]
+
+Le nom moderne « ouverture de la bouche » traduit une formule rituelle égyptienne habituellement transcrite *wp(t)-r* ; les catégories de bouche, de perception et de revivification appartiennent à un ensemble beaucoup plus vaste de pratiques funéraires. Un instrument appelé *peseshkef* dans la littérature savante doit être distingué de la fonction attribuée rétrospectivement à chaque exemplaire archéologique.
+
+### 51. Hébreu [A]
+
+*ʾărōn* désigne notamment un coffre ou une arche ; *kappōret* le dispositif placé sur l'arche dans Exode 25 ; *ḥokmāh* couvre des valeurs de savoir ou d'habileté selon les passages, tandis que *rûaḥ* peut signifier souffle, vent ou esprit. Les équivalents français « technique » et « esprit » ne suffisent pas à la comparaison sans une lecture des constructions hébraïques.
+
+### 52. Grec [A]
+
+*Ágalma* (ἄγαλμα) peut désigner un objet de délectation, une offrande ou une image cultuelle selon les contextes ; *xoanon* (ξόανον) désigne souvent une effigie taillée, notamment de bois, dans l'usage des historiens de l'art ; *technē* (τέχνη) nomme un savoir-faire ou un art. Les catégories ne forment pas une typologie exhaustive de toutes les images sacrées.
+
+### 53. Sanskrit [A]
+
+*Yajña* est le sacrifice ou acte cultuel ; *agni* le feu et le dieu Agni dans les contextes pertinents ; *vedi* l'aire ou l'autel sacrificiel selon les passages ; *iṣṭakā* la brique. Une correspondance matérielle entre briques mésopotamiennes et védiques ne démontre pas un vocabulaire religieux commun.
+
+### 54. Ce que traduit « sacralisation » [I/P]
+
+Le mot français réunit diverses opérations : purifier, dédier, animer une image, installer, interdire l'accès, transformer un usage. Il ne doit pas être traité comme la traduction d'un terme technique antique partagé. La philologie construit les comparables au lieu de présupposer leur identité.
+
+## XII. Comparaison raisonnée des dossiers primaires
+
+| Critère | Mésopotamie, *mīs pî* | Égypte, ouverture de la bouche | Exode 25–31 | Grèce, images cultuelles | Inde védique, feu |
+|---|---|---|---|---|---|
+| Document principal | Prescription cunéiforme du Ier millénaire | Instruments matériels, scènes et liturgies | Prescription littéraire sacerdotale | Récits, inscriptions et objets | Textes liturgiques, vestiges comparables |
+| Opération documentée | Purifier, déplacer, consacrer une image | Restaurer les capacités du défunt ou de l'image | Fabriquer selon des dimensions et matériaux prescrits | Porter, dédier, garder, déplacer | Préparer, construire, offrir, réciter |
+| Fonction relationnelle | Image divine introduite au temple | Présence et survie ou efficacité cultuelle | Autorité et lieu de rencontre | Identité locale, mémoire, obligations | Maintien d'un ordre rituel |
+| Limite documentaire | Variantes de recensions | Objets et textes non toujours contemporains | Aucun objet archéologique identifié avec certitude | Récits parfois tardifs | Corpus long et pluriel |
+| Risque de comparaison | Confondre rituel et science de l'image | Fusionner avec le rite mésopotamien | Prendre le récit pour une fouille | Attribuer la même fonction à toutes les statues | Déduire un sens unique du feu |
+
+### 55. Une ressemblance contrôlée [I]
+
+Les cinq dossiers montrent que fabriquer, purifier, consacrer et employer ne sont pas nécessairement des étapes substituables. Mais les transitions varient. L'objet de la comparaison n'est pas une prétendue cérémonie mondiale de « mise en vie des choses », plutôt la question : dans quelles conditions l'action matérielle est-elle considérée comme indispensable à la transformation du statut religieux ?
+
+### 56. Les limites des données de présence [I]
+
+Conserver un outil funéraire n'atteste pas automatiquement la présence d'un officiant précis ; conserver une prescription n'atteste pas toutes ses exécutions. Les textes normatifs, les objets et les représentations fournissent des observations différentes. La convergence de plusieurs types de sources augmente la robustesse d'une reconstruction, sans abolir toute incertitude.
+
+## XIII. Marcel Mauss et la transformation des objets
+
+### 57. Techniques du corps [P]
+
+Les « techniques du corps » de Marcel Mauss soulignent que des gestes appris sont socialement réglés. Lemonnier radicalise une question complémentaire : des choix matériels et des opérations peuvent faire tenir ensemble des relations sociales que les acteurs ne verbalisent pas constamment. Le rapport n'est pas celui d'une simple filiation doctrinale automatique.
+
+### 58. Le don et les objets qui restent [P]
+
+Les travaux de Mauss sur le don, de Weiner sur les possessions inaliénables et de Godelier sur les biens gardés permettent d'interroger la circulation ou la conservation des supports rituels. Mais la thèse des objets résonateurs concerne surtout la condensation de relations dans leurs propriétés et leurs usages, pas seulement leur disponibilité à l'échange.
+
+### 59. La valeur du non-échange [I/P]
+
+Une statue qu'on refuse de déplacer, un instrument réservé à certains officiants ou une brique prescrite pour l'autel peuvent exprimer des frontières religieuses et sociales. Leur importance ne provient pas exclusivement du prix de leurs matériaux. Cela ne signifie pas que l'analyse économique est inutile ; elle doit être articulée aux interdits et aux histoires locales.
+
+## XIV. Gell, Simondon, Ingold et Malafouris : différencier les théories
+
+### 60. L'agentivité n'est pas le résonateur [P]
+
+Alfred Gell propose une analyse des relations d'agentivité médiatisées par les œuvres ; Lemonnier met au premier plan les propriétés et les opérations par lesquelles certains objets condensent plusieurs rapports. Une figure peut être agentive dans le sens de Gell sans remplir exactement le rôle de résonateur étudié par Lemonnier.
+
+### 61. La concrétisation n'est pas le choix social [P]
+
+Simondon demande comment une lignée d'objets techniques intègre ses fonctions et résout des problèmes internes ; Lemonnier demande pourquoi des sociétés retiennent certains procédés parmi des possibilités matérielles. Les deux approches peuvent se confronter sur un cas, sans être équivalentes.
+
+### 62. L'engagement matériel n'est pas une conscience de l'objet [P]
+
+Malafouris s'intéresse à la constitution de la cognition dans les interactions matérielles. Lemonnier étudie aussi ce que des dispositifs portent comme relations non nécessairement formulées. Ni l'un ni l'autre n'autorise à attribuer à un artefact antique des intentions humaines indépendantes.
+
+### 63. La pratique située reste ouverte [P]
+
+Tim Ingold insiste sur le travail avec les matériaux et les processus de fabrication. Le concept de choix social de Lemonnier suppose de tenir compte de la variation des gestes tout en constatant des sélections collectives. Une histoire de tradition ne doit pas figer les praticiens en exécutants passifs d'un programme.
+
+## XV. Nietzsche, Hegel, Ricœur : usages philosophiques contrôlés
+
+### 64. Nietzsche : mémoire, force et obligation [P]
+
+Dans la deuxième dissertation de *La Généalogie de la morale*, Nietzsche propose une reconstruction de la formation des obligations et de la mémoire. Une analogie est possible avec les gestes rituels qui inscrivent durablement une distinction sociale. Il serait cependant impossible de déduire de ce texte que les rites baruya et les cérémonies mésopotamiennes possèdent une origine psychologique identique.
+
+### 65. Hegel : reconnaissance et médiation [P]
+
+L'analyse hégélienne de la médiation et de la reconnaissance permet de questionner les formes par lesquelles une communauté rend un objet sacré ou un savoir-faire légitime. Mais une statue consacrée ne « reconnaît » pas au sens littéral de la relation intersubjective ; l'attribution philosophique porte sur les humains et les institutions qui médiatisent leurs rapports.
+
+### 66. Ricœur : trace, mémoire et identité [P]
+
+Les objets peuvent devenir les supports d'histoires racontées et reconnues. Une communauté peut conserver un instrument après que son usage initial s'est perdu : la continuité matérielle n'assure pas une continuité de sens. Les analyses de Ricœur sur la mémoire et l'histoire invitent à distinguer le témoignage, la trace, l'interprétation et les déformations de la mémoire collective.
+
+### 67. Une critique de l'« inexprimable » [P]
+
+L'expression selon laquelle un objet « communique l'indicible » peut être utile, mais elle risque de transformer l'absence de description en preuve d'une profondeur inaccessible. La démarche empirique exige au contraire de montrer quels gestes, relations et effets sont observés, quels propos sont recueillis et quels liens restent conjecturaux.
+
+## XVI. Historiographie, critiques et méthodes
+
+### 68. Le problème du fonctionnalisme [I]
+
+Réduire un objet à sa fonction utilitaire laisse inexpliquées certaines variations, sans que toute variation soit nécessairement symbolique. Les contraintes de ressources, d'environnement et de transmission peuvent générer des différences aussi importantes que les interdits religieux. Une bonne enquête ne présuppose ni le primat de l'efficacité ni celui de la croyance.
+
+### 69. Le problème de l'interprétation totale [I]
+
+Si toute différence matérielle était le signe caché d'un ordre social, la théorie deviendrait irréfutable. Il faut identifier des hypothèses susceptibles de se révéler fausses. Par exemple, un matériau peut être disponible localement sans avoir de prestige cultuel ; une forme d'objet peut résulter de contraintes de transport plutôt que d'une symbolique mythique.
+
+### 70. Des analyses critiques de *Mundane Objects* [A]
+
+Chris Ballard, « Technologies of transmission », *HAU: Journal of Ethnographic Theory*, 4/1, 2014, DOI [10.14318/hau4.1.034](https://doi.org/10.14318/hau4.1.034), discute la capacité des artefacts à rassembler des registres d'inférence. Cette lecture confirme l'intérêt de l'ouvrage comme programme de recherche sans supprimer la nécessité d'un contrôle empirique de chaque relation proposée.
+
+### 71. La réception française de *La ritualité des choses* [A]
+
+Jean-François Bert, « La matière du rituel », *La Vie des idées*, 4 décembre 2023, https://laviedesidees.fr/Lemonnier-La-ritualite-des-choses , situe la démarche dans l'héritage de Mauss et insiste sur les conséquences sociales des actes matériels. Il s'agit d'une recension, et non d'une nouvelle source primaire sur l'Antiquité.
+
+### 72. Le débat sur les comparaisons éloignées [I]
+
+Les études ethnographiques de Papouasie-Nouvelle-Guinée et les documents de l'Égypte ancienne ne constituent ni deux stades d'une évolution de la religion ni la preuve d'une filiation. La comparaison est légitime si elle expose ce que l'on cherche : rapports entre gestes, matières et croyances. Elle est illégitime lorsqu'elle substitue une analogie frappante à une histoire de contacts démontrée.
+
+## XVII. Propositions de recherche falsifiables pour MYTHOS
+
+### 73. Hypothèse A : les objets rituels mettent en relation plusieurs savoirs [H]
+
+Test : relever, dans un corpus donné, les exigences concernant l'officiant, le fabricant, le matériau, le lieu de conservation et les substitutions admises. Si un même objet exige plusieurs apprentissages et obligations, l'hypothèse d'une fonction relationnelle composite gagne en force ; si une prescription est interchangeable sans effet reconnu, elle perd de sa pertinence.
+
+### 74. Hypothèse B : les rites de consécration modifient le statut de l'artefact [H]
+
+Test : comparer les règles de production, d'installation, d'entretien et de déplacement des images avant et après une consécration dans des textes datés. La documentation mésopotamienne du *mīs pî* offre un dossier, mais il faudra vérifier les variants manuscrits et les situations où aucune consécration ne paraît nécessaire.
+
+### 75. Hypothèse C : les techniques alternatives sont socialement différenciées [H]
+
+Test : chercher des installations de production, des distributions de matières, des interdits textuels et des inventaires de sanctuaires. À conditions matérielles comparables, une variation corrélée à l'identité des officiants peut soutenir l'hypothèse. Il faudra exclure les interprétations concurrentes relatives à l'approvisionnement.
+
+### 76. Hypothèse D : la non-verbalité n'implique pas l'universalité du sens [H]
+
+Test : comparer l'interprétation d'un même artefact selon plusieurs milieux ou époques avec des sources indépendantes. Si les explications changent, la continuité matérielle ne garantit pas la stabilité sémantique. Les réemplois antiques d'objets cultuels pourraient fournir des cas précieux.
+
+## XVIII. Programme iconographique scientifique et licences
+
+### 77. Figure 1 — Instruments égyptiens d'ouverture de la bouche [A]
+
+**Metropolitan Museum of Art, 07.228.117a–h**, Égypte, Ancien Empire, Ve–VIe dynasties, tray de pierre et modèles d'instruments : https://www.metmuseum.org/art/collection/search/543920 . **Légende :** « Modèle d'équipement du rituel d'ouverture de la bouche : des objets matériels associés à la restauration des capacités du défunt, sans réduction à leur seule forme. » Le Met indique une image dans le domaine public pour cet objet ; vérifier les métadonnées Open Access lors de l'intégration.
+
+### 78. Figure 2 — Le vase de Perneb [A]
+
+**Metropolitan Museum, 14.7.93**, Saqqara, tombe de Perneb, Ve dynastie : https://www.metmuseum.org/art/collection/search/547093 . **Légende :** « Vase associé aux opérations de l'ouverture de la bouche ; fonction attestée par le contexte et la notice institutionnelle. » Éviter de le transformer en preuve de l'ensemble des gestes décrits dans des textes postérieurs.
+
+### 79. Figure 3 — Le *meskhetyu* d'Hatchepsout [A]
+
+**Metropolitan Museum, 25.3.40**, bois, dépôt de fondation du temple d'Hatchepsout à Deir el-Bahari : https://www.metmuseum.org/art/collection/search/544458 . **Légende :** « Instrument en bois lié à l'ouverture de la bouche, XVIIIe dynastie ; l'image documente un objet, non l'ensemble d'une cérémonie. » Le musée signale une image en domaine public.
+
+### 80. Figure 4 — Papyrus de Hounefer [A]
+
+**British Museum, papyrus EA 9901**, section illustrant l'ouverture de la bouche, XIXe dynastie ; notice externe de présentation : https://artsandculture.google.com/asset/page-from-the-book-of-the-dead-of-hunefer/pAEg8QTSYJfVJQ . **Légende :** « Représentation du rite funéraire d'ouverture de la bouche, période ramesside ; image narrative et non photographie de la cérémonie. » Crédit photographique Trustees of the British Museum ; obtenir les droits adéquats avant publication de l'image sur MYTHOS.
+
+### 81. Figure 5 — Le rituel mésopotamien *mīs pî* [A/I]
+
+**Image proposée :** photographie d'une tablette rituelle documentée par une institution muséale, à sélectionner après vérification du numéro d'inventaire ; **en attendant**, schéma original fondé sur les étapes publiées dans [ETANA](https://etana.org/node/580). **Légende :** « Atelier — rive — jardin — sanctuaire : succession prescrite dans une recension du rituel ; schéma analytique contemporain, non restitution certaine d'une procession historique. » Ne pas attribuer sans preuve un numéro de tablette à la recette.
+
+### 82. Figure 6 — Carte des dossiers comparés [I]
+
+**Carte originale MYTHOS** : localisation de Ninive, Babylone, Saqqara, Deir el-Bahari, Athènes et principaux centres des textes védiques ; sites et époques différenciés. Mention obligatoire : « Comparaison des contextes, pas carte d'une diffusion religieuse démontrée. »
+
+### 83. Figure 7 — Les choix techniques, diagramme de lecture [I]
+
+**Schéma original**, sans reproduction protégée : contraintes de matière, apprentissage, possibilités alternatives, prescription rituelle, présence d'officiants et mémoire. Chaque flèche devra porter son statut [A], [I] ou [H]. Ne pas insérer de portraits ou de photographies ethnographiques prises sans licence ou permissions.
+
+### 84. Figure 8 — Objets Baruya et Ankave [A/I]
+
+**Source bibliographique :** Lemonnier, *Mundane Objects*, 2012, et *La ritualité des choses*, 2023. Pour une photographie de clôture, de piège ou de tambour provenant de l'ethnographie contemporaine, solliciter l'auteur, l'éditeur ou l'institution détentrice et prendre en compte les restrictions culturelles de la communauté concernée. **Légende :** indiquer précisément la population, le lieu, la date et le contexte, jamais « objet tribal universel ».
+
+## XIX. Bibliographie universitaire raisonnée
+
+### 85. Pierre Lemonnier et la technologie culturelle
+
+1. Lemonnier, Pierre, *Elements for an Anthropology of Technology*, University of Michigan Museum of Anthropology, 1992, DOI : https://doi.org/10.3998/mpub.11396246 .
+2. Lemonnier, Pierre (dir.), *Technological Choices: Transformations in Material Cultures since the Neolithic*, Routledge, 1993, https://www.routledge.com/technological-choices-transformations-in-material-cultures-since-the-neolithic/lemonnier/p/book/9780415296441 .
+3. Lemonnier, Pierre, *Mundane Objects: Materiality and Non-verbal Communication*, Left Coast Press / Routledge, 2012, https://www.routledge.com/Mundane-Objects-Materiality-and-Non-verbal-Communication-1st-Edition/Lemonnier/p/book/9781611320572 .
+4. Lemonnier, Pierre, *La ritualité des choses : objets, gestes et paroles des initiations masculines baruya (Papouasie-Nouvelle-Guinée)*, Mimésis, 2023, https://www.editionsmimesis.fr/catalogue/la-ritualite-des-choses/ .
+5. Ballard, Chris, « Technologies of transmission », *HAU*, 4/1, 2014, DOI : https://doi.org/10.14318/hau4.1.034 .
+6. Bert, Jean-François, « La matière du rituel », *La Vie des idées*, 4 décembre 2023 : https://laviedesidees.fr/Lemonnier-La-ritualite-des-choses .
+7. Joulian, Frédéric, compte rendu de *Technological Choices*, *Études rurales*, 133–134, 1994, p. 199–201 : https://www.persee.fr/doc/rural_0014-2182_1994_num_133_1_3467_t1_0199_0000_1 .
+
+### 86. Sources antiques et éditions critiques
+
+8. Rituel mésopotamien *mīs pî / pīt pî*, instructions de la première journée, traduction et arrangement des phases : [ETANA](https://etana.org/node/580).
+9. Hobson, Russell, « Study Five: Mīs Pî », dans *Transforming Literature into Scripture: Texts as Cult Objects at Ninevah and Qumran*, 2012, p. 89–99 : https://www.cambridge.org/core/books/abs/transforming-literature-into-scripture/study-five-mis-pi/D9EDA6AB7D7560D5500AF9CB77E86C90 .
+10. Walker, Christopher, et Dick, Michael B., « The Induction of the Cult Image in Ancient Mesopotamia: The Mesopotamian Mīs Pî Ritual », dans *Born in Heaven, Made on Earth: The Making of the Cult Image in the Ancient Near East*, dir. Michael B. Dick, Eisenbrauns, 1999.
+11. Otto, Eberhard, *Das ägyptische Mundöffnungsritual*, 2 vol., Harrassowitz, 1960.
+12. *Livre des Morts* égyptien, chapitre 23, versions et contextes à examiner séparément des grands rituels d'ouverture de la bouche.
+13. Metropolitan Museum of Art, modèle rituel 07.228.117a–h : https://www.metmuseum.org/art/collection/search/543920 .
+14. Metropolitan Museum, instrument 25.3.40 : https://www.metmuseum.org/art/collection/search/544458 .
+15. *Exode* 25,10–22 ; 31,1–11 (texte hébreu et traditions de traduction).
+16. Hérodote, *Histoires* V, 82–88.
+17. Pausanias, *Description de la Grèce* VIII, 42, 1–13.
+18. *Śatapatha Brāhmaṇa*, livres concernant les constructions de l'autel du feu ; comparer les recensions et traductions avant citation de niveaux plus fins.
+
+### 87. Historiographie, anthropologie et philosophie
+
+19. Mauss, Marcel, « Les techniques du corps », communication de 1934, publiée en 1936.
+20. Mauss, Marcel, *Essai sur le don*, 1925.
+21. Leroi-Gourhan, André, *Le Geste et la Parole*, 2 vol., Albin Michel, 1964–1965.
+22. Gell, Alfred, *Art and Agency: An Anthropological Theory*, Oxford, 1998.
+23. Kopytoff, Igor, « The Cultural Biography of Things: Commoditization as Process », dans Appadurai (dir.), *The Social Life of Things*, Cambridge, 1986, p. 64–92.
+24. Weiner, Annette, *Inalienable Possessions: The Paradox of Keeping-While-Giving*, University of California Press, 1992.
+25. Godelier, Maurice, *L'Énigme du don*, Fayard, 1996.
+26. Simondon, Gilbert, *Du mode d'existence des objets techniques*, Aubier, 1958.
+27. Ingold, Tim, *Making: Anthropology, Archaeology, Art and Architecture*, Routledge, 2013.
+28. Malafouris, Lambros, *How Things Shape the Mind*, MIT Press, 2013.
+29. Nietzsche, Friedrich, *La Généalogie de la morale*, deuxième dissertation, 1887.
+30. Hegel, G. W. F., *Phénoménologie de l'esprit*, 1807.
+31. Ricœur, Paul, *La Mémoire, l'histoire, l'oubli*, Seuil, 2000.
+32. McDowell, Catherine L., *The Image of God in the Garden of Eden*, Penn State University Press / Eisenbrauns, 2015, DOI : https://doi.org/10.5325/j.ctv1bxgz4d (hypothèses sur les relations entre création biblique et rites d'animation des images ; filiation non tenue pour acquise).
+
+## XX. Conclusion générale : la matérialité ne remplace pas les religions, elle les rend praticables
+
+### 88. Un résultat différent du volume sur Leroi-Gourhan [I]
+
+Leroi-Gourhan a appris à lire des séquences de gestes dans les vestiges ; Lemonnier nous oblige à examiner **pourquoi ces séquences sont socialement choisies** et comment leurs objets rassemblent des relations que la seule description de fonction ne révèle pas. Un couteau, une barrière, un tambour ou une image divine peut être techniquement descriptible sans que son rôle social soit épuisé par cette description.
+
+### 89. Ce que les sources anciennes montrent effectivement [A/I]
+
+Les textes mésopotamiens du *mīs pî* prescrivent des étapes par lesquelles une image fabriquée est consacrée ; les objets funéraires égyptiens donnent à voir des instruments liés à la restauration des sens ; les prescriptions d'Exode organisent une fabrication dans un horizon d'autorité divine ; les récits grecs attribuent des obligations territoriales aux images ; les textes védiques placent les matières et les paroles au cœur des opérations sacrificielles. Ces contextes autorisent des comparaisons précises, non une théorie d'origine unique.
+
+### 90. L'hypothèse propre à MYTHOS [H/P]
+
+Une partie de l'efficacité religieuse attribuée aux objets peut dépendre des gestes, du temps, des lieux et des relations humaines nécessaires à leur production et à leur entretien. Il ne s'ensuit ni que la divinité serait matériellement prouvée, ni que tout objet rituel serait « seulement un symbole ». L'enquête étudie les conditions sociales de la croyance et de l'action sans prétendre résoudre les questions métaphysiques par une photographie d'artefact.
+
+### 91. Une règle de méthode [P]
+
+**On ne déchiffre pas une religion en isolant une chose de sa fabrication, de sa circulation et de son usage ; mais on n'invente pas non plus ces relations quand les sources font défaut.** La comparaison doit conserver la différence entre texte prescriptif, trace matérielle, observation ethnographique, hypothèse historique et proposition philosophique. Dans cette discipline de preuve réside la possibilité d'une histoire savante des mythes et du sacré.
+
+*Fin du manuscrit universitaire complet. Numérotation exclusivement attribuée par la transaction éditoriale GitHub. Aucun autre corpus, aucune autre série automatisée, aucun ancien volume ne sont modifiés.*

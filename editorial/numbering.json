@@ -466,6 +466,12 @@
           "path": "chapitres/encyclopedie/chapitre-386-aidos-pudeur-respect-honte-hesiode-platon-cultes-philosophie.md",
           "request_sha256": "671aa96219eaa0442cc8b18c97e5c87c6122f07ae60fe243d55d4d24d5a8a73f",
           "initial_source_sha256": "e52379b5dfaaa9c2e495cc18dca2b5e3066a932a8bc83bf46a2989fae6361a52"
+        },
+        "2fbd7369-4a90-4d5a-99d0-a9c5108e3f62": {
+          "number": 387,
+          "path": "chapitres/encyclopedie/chapitre-387-eleos-pitie-supplication-athenes-justice-tragedie.md",
+          "request_sha256": "b7f8d6b5d0d1a1a6a59fc44d03c30b0ea2a189f348e4d42a2034f35975f89872",
+          "initial_source_sha256": "7631e652eb58a1deaa6046dc9c5628db7ad49548e79408fa2e8fb8acbb32e446"
         }
       }
     },
@@ -941,6 +947,12 @@
           "path": "chapitres/comparatif/volume-clxxvii-andre-leroi-gourhan-geste-parole-chaines-operatoires-art-parietal-memoire.md",
           "request_sha256": "6506848ea06333e3950e13bb5d86d2eee00e3c613ce4dfea110a64417231bdf2",
           "initial_source_sha256": "7c0cd65db016c335ab26b5b7d74f60d0acc380ea44681e047957abd6d2b0e8e5"
+        },
+        "d5f0a2c1-1104-4600-8178-29e3cd805b91": {
+          "number": 178,
+          "path": "chapitres/comparatif/volume-clxxviii-pierre-lemonnier-choix-techniques-objets-rituels-communication-non-verbale.md",
+          "request_sha256": "0d8b7475a17180fd3df3c68f1718f210f9a4a26ad2e14322eb51732c3b6a3b7f",
+          "initial_source_sha256": "328d184a4d5f4a484e70e76f578674ab3e6f73624c0c1c447129f9430baa4869"
         }
       }
     }
