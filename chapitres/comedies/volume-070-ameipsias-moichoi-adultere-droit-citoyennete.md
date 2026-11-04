@@ -461,3 +461,7 @@ La méthode MYTHOS demeure stricte :
 ---
 
 **Suite éditoriale :** prochain volume uniquement après nouvelle inspection de la branche `main`, du registre `EDITORIAL_CONTINUITY.md`, de `editorial/numbering.json`, des notices historiques et des demandes déjà présentes dans `editorial/inbox`. Aucun numéro n’est réservé par ce manuscrit.
+
+---
+
+**Navigation éditoriale vérifiée :** [← Volume LXIX — *Konnos*, complément critique](/chapitres/comedies/volume-069-ameipsias-konnos-socrate-penseurs-musique-verite/) · [Volume LXXI — *Kōmastai*, complément critique →](/chapitres/comedies/volume-071-ameipsias-komastai-komos-ivresse-fete-politique/) · [Étude principale de *Kōmastai* : volume LXXII](/chapitres/comedies/volume-072-ameipsias-komastai-kosmos-concours-414-fete-politique/). Les volumes LXXI et LXXII concernent une seule comédie antique et sont conservés séparément uniquement parce que deux manuscrits concurrents ont reçu des numéros immuables.
