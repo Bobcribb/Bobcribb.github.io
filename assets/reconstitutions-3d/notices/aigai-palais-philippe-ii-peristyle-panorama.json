@@ -1,0 +1,37 @@
+{
+  "id": "AIG-PAL-001",
+  "slug": "aigai-palais-philippe-ii-peristyle-panorama",
+  "title": "Aigai (Vergina) — palais de Philippe II et grande cour à péristyle",
+  "period": "Évocation vers 340–336 av. J.-C. (Macédoine classique, règne de Philippe II)",
+  "image": "/assets/reconstitutions-3d/aigai-palais-philippe-ii-peristyle-panorama.webp",
+  "caption": "Vue panoramique 3D photoréaliste interprétative d’une galerie à colonnes doriques du palais royal d’Aigai, ouverte sur la grande cour et ses salles de réception décorées de mosaïques.",
+  "commentary": "Le palais d’Aigai, édifié au milieu du IVe siècle av. J.-C. et achevé avant la mort de Philippe II en 336, occupait une terrasse monumentale de la capitale macédonienne. La grande cour carrée, d’environ 4 000 m², était ceinte d’un péristyle comptant seize colonnes doriques par côté ; les pièces périphériques comprennent des salles de réception et des sols en mosaïque. Une façade publique orientale à deux niveaux, dont le rez-de-chaussée était dorique et l’étage ionique, encadrait un propylon monumental. La présente image évoque les galeries et les matériaux d’un complexe intact ; elle ne reproduit pas le plan exact du palais. En particulier, elle juxtapose visuellement un corps de bâtiment à deux étages à l’intérieur d’une cour et donne à celle-ci un dallage complet, choix qui ne sont pas établis pour cette position et cette phase. L’apparence exacte des murs, des couvertures, des menuiseries, du mobilier et de la polychromie, ainsi que les dimensions de la mosaïque figurée au premier plan, sont interprétatives. Les institutions citées documentent les vestiges et la chronologie, mais ne valident pas cette scène.",
+  "certainty": {
+    "high": "Palais d'Aigai, plan monumental, cour carrée à péristyle dorique et époque de Philippe II.",
+    "medium": "Typologies de portiques et salles de réception à mosaïques, étage supérieur de la façade orientale.",
+    "low": "Dallage intégral de la cour, éventuel étage représenté côté cour, mosaïques, plafonds, couleurs, menuiseries, paysages et échelle des volumes."
+  },
+  "sources": [
+    {
+      "label": "Ministère grec de la Culture — Egnatia culturelle, Palais d’Aigai",
+      "url": "https://culturalegnatia.culture.gov.gr/en/route-stops/aigai/"
+    },
+    {
+      "label": "UNESCO — Site archéologique d’Aigai (Vergina)",
+      "url": "https://whc.unesco.org/fr/list/780"
+    },
+    {
+      "label": "Hellenic Heritage — Musée polycentrique d’Aigai",
+      "url": "https://www.hh.gr/en/destinations/aigai/"
+    },
+    {
+      "label": "Ministère grec de la Culture — Inauguration du palais restauré",
+      "url": "https://www.culture.gov.gr/el/Information/SitePages/view.aspx?nID=4830"
+    }
+  ],
+  "rights_and_method": "Image numérique assistée par IA, photoréaliste mais interprétative et non métrique. Les sources n'authentifient pas le rendu. Aucun menu ni texte dans l'image.",
+  "sha256": "3cb30cbf8ff7807043c38ccf63b2d84dad42893b0e619598594e594730dad77b",
+  "width": 1672,
+  "height": 941,
+  "publication_status": "Commité sur branche GitHub; URL publique à vérifier après fusion."
+}
