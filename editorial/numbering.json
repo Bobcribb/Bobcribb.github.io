@@ -561,6 +561,12 @@
           "path": "chapitres/tragedies/volume-ccii-euripide-danae.md",
           "request_sha256": "c9eb97e335f0767be6c85fc9f5c484b2466a45d7206decd72950579cb56e9731",
           "initial_source_sha256": "a0ff8d147f91a1c716e7a6e1a05d4ff0c03b2204f133e1f43d53a412f727fa6e"
+        },
+        "c0a83279-8b14-4f60-a438-3c8dd019c6fa": {
+          "number": 203,
+          "path": "chapitres/tragedies/volume-cciii-euripide-philoctete-souffrance-ruse-cite.md",
+          "request_sha256": "cd4cda1db32f347b627afe1d9beae69b1e702b0e217f001b66417555e7d23521",
+          "initial_source_sha256": "2487f9ee7b9f0aa5042fa8190347b33fea68467ea8e161278ea76e26d4107de7"
         }
       }
     },
@@ -683,6 +689,12 @@
           "path": "chapitres/comparatif/volume-clx-stanley-jeyaraja-tambiah-parole-rituelle-magie-performance-pouvoir.md",
           "request_sha256": "045fc0f0a067dc72dbe122d3026153e30093a691e4d08368bfcde9276a74af29",
           "initial_source_sha256": "8e00b4eaf428276402f268e0a72163edcfd37060c19c1696d529a27b0474fdef"
+        },
+        "c7829a14-0e6d-4eb2-981b-71d5f2a7c053": {
+          "number": 161,
+          "path": "chapitres/comparatif/volume-clxi-ernesto-de-martino-crise-presence-deuil-rituel-tarentisme.md",
+          "request_sha256": "ad614ceab7b2e7856168ad4ee633c7b5546ed37aabdc8568e4351068a5b888ec",
+          "initial_source_sha256": "99377c51ad06884468e43ae076f006b72a0fa6c169f016a386b2ffb0265a67db"
         }
       }
     }
