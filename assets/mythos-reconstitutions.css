@@ -40,3 +40,15 @@ html{scroll-behavior:smooth}body{background:var(--r-bg);color:var(--r-ink)}
 .r3d-card .r3d-source a.r3d-study-link:hover{background:#233031;border-color:var(--r-gold)}
 .r3d-card .r3d-source a.r3d-study-link:focus-visible{outline:2px solid var(--r-gold);outline-offset:3px}
 @media(max-width:580px){.r3d-card .r3d-source a.r3d-study-link{display:block;width:fit-content;margin:.7rem 0 0;padding:.65rem .8rem}}
+
+/* Atlas illustré intégré aux dossiers : mêmes WebP et sources que la galerie scientifique. */
+.mythos-site-visuals{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,355px),1fr));gap:1rem;margin:1.35rem 0 2.1rem;align-items:start}
+.mythos-site-visual{min-width:0;margin:0;background:#10181a;border:1px solid #7d6648;box-shadow:0 12px 24px #0004}
+.mythos-site-visual-link{display:block;background:#090f12;line-height:0}
+.mythos-site-visual img{display:block;width:100%;height:auto;max-height:370px;object-fit:contain}
+.mythos-site-visual figcaption{display:flex;gap:.45rem 1rem;flex-wrap:wrap;align-items:baseline;padding:.85rem 1rem;font:14px/1.5 Georgia,serif;color:#e8dbc5}
+.mythos-site-visual figcaption strong{width:100%;font-size:17px;font-weight:400;color:#efd3a0}
+.mythos-site-visual figcaption span{color:#c9c1b3}
+.mythos-site-visual figcaption a{color:#eccb92;text-underline-offset:3px}
+.mythos-site-visual a:focus-visible{outline:2px solid #e5c184;outline-offset:3px}
+@media(max-width:620px){.mythos-site-visuals{grid-template-columns:minmax(0,1fr);gap:.75rem;margin:1rem 0 1.8rem}.mythos-site-visual figcaption{padding:.75rem .85rem}}
