@@ -22,6 +22,10 @@ Lire `docs/PUBLICATION_CONCURRENTE.md` avant toute création d'un chapitre numé
 - Vérifier le workflow, les sommaires, les textes et le site public ; distinguer
   un enregistrement GitHub d'une publication effectivement déployée.
 - Ne modifier aucune planification horaire sans demande explicite de l'utilisateur.
+- Les anciennes illustrations vectorielles en perspective 2,5D sont retirées à la
+  demande de l'utilisateur. Ne pas les réintroduire dans les fiches, les galeries,
+  les catalogues d'images ou les fonds de page. Conserver les notices et sources
+  archéologiques ainsi que les reconstitutions photoréalistes déjà publiées.
 
 Contrôles : `python -m unittest discover -s tests -v`,
 `python scripts/build_native.py`, `python scripts/verify_publication.py`.

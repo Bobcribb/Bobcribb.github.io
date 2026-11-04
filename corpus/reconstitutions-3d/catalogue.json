@@ -1,8 +1,8 @@
 {
   "collection": "MYTHOS — Reconstitutions 3D",
-  "version": "2026-11-03",
+  "version": "2026-11-04",
   "scope": "Grèce antique",
-  "image_policy": "Illustrations vectorielles originales en perspective 2,5D, sans menu de navigation. Les planches photoréalistes de prévisualisation peuvent être distinctes des SVG publiés. Distinguer les vestiges attestés, les phases chronologiques et les hypothèses. Pas de modèle 3D interactif. Les deux illustrations de Brauron sont des SVG originaux à perspective simulée, non une planche photographique ni un modèle 3D interactif. Les notices BAS-001 et BAS-002 sont des perspectives SVG originales schématiques : aucun levé métrique, aucune photographie antique, aucune maquette 3D interactive.",
+  "image_policy": "Notices archéologiques documentaires sans illustration associée. Les vues photoréalistes publiées disposent de leur propre catalogue, avec leurs sources et leurs degrés de certitude.",
   "entries": [
     {
       "id": "DEL-001",
@@ -11,8 +11,6 @@
       "site": "Delphes",
       "monument": "Temple d'Apollon",
       "period": "IVe siècle av. J.-C. (édifice terminé vers 334–333 av. J.-C. ; décor achevé vers 327)",
-      "image": "/assets/reconstitutions/delphes-apollon-330-av-jc.svg",
-      "image_type": "Illustration vectorielle axonométrique, perspective simulée",
       "attested": [
         "Sanctuaire d'Apollon sur la pente du Parnasse",
         "Temple dorique périptère, six colonnes en façade",
@@ -35,7 +33,8 @@
         "/sites/delphes.html",
         "/mythologie-grecque.html",
         "/grande-encyclopedie.html"
-      ]
+      ],
+      "image_status": "retirée"
     },
     {
       "id": "DEL-002",
@@ -44,8 +43,6 @@
       "site": "Delphes",
       "monument": "Tholos d'Athéna Pronaia",
       "period": "Vers 380–370 av. J.-C.",
-      "image": "/assets/reconstitutions/delphes-tholos-370-av-jc.svg",
-      "image_type": "Illustration vectorielle axonométrique, perspective simulée",
       "attested": [
         "Plan circulaire au sanctuaire d'Athéna Pronaia",
         "Vingt colonnes doriques extérieures",
@@ -69,7 +66,8 @@
         "/sites/delphes.html",
         "/mythologie-grecque.html",
         "/grande-encyclopedie.html"
-      ]
+      ],
+      "image_status": "retirée"
     },
     {
       "id": "NEM-001",
@@ -79,8 +77,6 @@
       "site": "Némée",
       "monument": "Temple de Zeus",
       "period": "Vers 330 av. J.-C.",
-      "image": "/assets/reconstitutions/nemee-zeus-330-av-jc.svg",
-      "image_type": "Illustration originale vectorielle en perspective simulée 2,5D, sans menu",
       "attested": [
         "Péristyle dorique de six colonnes sur les façades et douze sur les flancs (32 au total)",
         "Calcaire local revêtu d'un enduit fin",
@@ -104,9 +100,10 @@
       ],
       "historical_crosslinks": [
         "/sites/nemee.html#temple",
-        "/reconstitutions-3d.html#nem-001",
+        "/reconstitutions-photorealistes.html#nemee-temple-zeus-vue",
         "/grande-encyclopedie.html"
-      ]
+      ],
+      "image_status": "retirée"
     },
     {
       "id": "NEM-002",
@@ -116,8 +113,6 @@
       "site": "Némée",
       "monument": "Stade hellénistique",
       "period": "Vers 330–320 av. J.-C.",
-      "image": "/assets/reconstitutions/nemee-stade-320-av-jc.svg",
-      "image_type": "Illustration originale vectorielle en perspective simulée 2,5D, sans menu",
       "attested": [
         "Piste en terre dans une dépression naturelle",
         "Longueur de la course : 600 pieds anciens, environ 178 mètres",
@@ -140,9 +135,10 @@
       ],
       "historical_crosslinks": [
         "/sites/nemee.html#stade",
-        "/reconstitutions-3d.html#nem-002",
+        "/reconstitutions-photorealistes.html#nemee-stade-vue",
         "/grande-encyclopedie.html"
-      ]
+      ],
+      "image_status": "retirée"
     },
     {
       "id": "COR-001",
@@ -152,8 +148,6 @@
       "site": "Corinthe",
       "monument": "Temple archaïque d'Apollon",
       "period": "Vers 540 av. J.-C.",
-      "image": "/assets/reconstitutions/corinthe-apollon-540-av-jc.svg",
-      "image_type": "Illustration vectorielle originale en perspective simulée 2,5D sans menu de navigation",
       "attested": [
         "Temple dorique périptère de 6 × 15 colonnes",
         "Fûts monolithes de calcaire local",
@@ -177,9 +171,10 @@
       ],
       "historical_crosslinks": [
         "/sites/corinthe.html#apollon",
-        "/reconstitutions-3d.html#cor-001",
+        "/reconstitutions-photorealistes.html#corinthe-temple-apollon-vue",
         "/grande-encyclopedie.html"
-      ]
+      ],
+      "image_status": "retirée"
     },
     {
       "id": "COR-002",
@@ -189,8 +184,6 @@
       "site": "Corinthe",
       "monument": "Fontaine Pirène (état romain schématique)",
       "period": "Époque impériale romaine, principalement IIe siècle apr. J.-C. ; éléments remaniés à plusieurs phases",
-      "image": "/assets/reconstitutions/corinthe-pirene-iie-siecle.svg",
-      "image_type": "Illustration vectorielle originale en perspective simulée 2,5D sans menu de navigation",
       "attested": [
         "Captages souterrains remontant à l'époque grecque",
         "Six chambres de la fontaine",
@@ -214,9 +207,10 @@
       ],
       "historical_crosslinks": [
         "/sites/corinthe.html#pirene",
-        "/reconstitutions-3d.html#cor-002",
+        "/reconstitutions-photorealistes.html#corinthe-pirene-vue",
         "/grande-encyclopedie.html"
-      ]
+      ],
+      "image_status": "retirée"
     },
     {
       "id": "SOU-001",
@@ -226,8 +220,6 @@
       "site": "Sounion",
       "monument": "Temple de Poséidon",
       "period": "Vers 444–440 av. J.-C. (temple classique)",
-      "image": "/assets/reconstitutions/sounion-poseidon-440-av-jc.svg",
-      "image_type": "Illustration vectorielle originale en perspective 2,5D, sans éléments de navigation",
       "attested": [
         "Temple dorique périptère en marbre local (Agrileza), six colonnes en façade et treize par flanc",
         "Temple classique succédant au projet archaïque détruit par les Perses en 480 av. J.-C.",
@@ -250,9 +242,10 @@
       ],
       "historical_crosslinks": [
         "/sites/sounion.html#poseidon",
-        "/reconstitutions-3d.html#sou-001",
+        "/reconstitutions-photorealistes.html#sounion-poseidon-vue",
         "/mythologie-grecque.html"
-      ]
+      ],
+      "image_status": "retirée"
     },
     {
       "id": "SOU-002",
@@ -262,8 +255,6 @@
       "site": "Sounion",
       "monument": "Temple d'Athéna Sounias",
       "period": "Ve siècle av. J.-C. (datation approximative vers 470–450 av. J.-C. ; colonnade possiblement postérieure)",
-      "image": "/assets/reconstitutions/sounion-athena-ve-siecle.svg",
-      "image_type": "Illustration vectorielle originale en perspective 2,5D, non métrique et sans menu de site",
       "attested": [
         "Temple ionique au plan exceptionnel, colonnade seulement sur les côtés sud et est (en L)",
         "Cella approximativement 16,4 × 11,6 m avec quatre supports internes",
@@ -286,9 +277,10 @@
       ],
       "historical_crosslinks": [
         "/sites/sounion.html#athena",
-        "/reconstitutions-3d.html#sou-002",
+        "/reconstitutions-photorealistes.html#sounion-athena-vue",
         "/mythologie-grecque.html"
-      ]
+      ],
+      "image_status": "retirée"
     },
     {
       "id": "AEG-001",
@@ -298,8 +290,6 @@
       "site": "Égine — sanctuaire d'Aphaia",
       "monument": "Temple dorique d'Aphaia",
       "period": "Vers 500–490 av. J.-C.",
-      "image": "/assets/reconstitutions/egine-aphaia-temple-500-av-jc.svg",
-      "image_type": "Dessin vectoriel original en perspective simulée 2,5D, sans menu ni modèle 3D interactif",
       "attested": [
         "Péristyle dorique 6 × 12 (32 colonnes)",
         "Stylobate approximativement 28,8 × 13,7 mètres",
@@ -323,9 +313,10 @@
       ],
       "historical_crosslinks": [
         "/sites/egine-aphaia.html#architecture",
-        "/reconstitutions-3d.html#aeg-001",
+        "/reconstitutions-photorealistes.html",
         "/mythologie-grecque.html"
-      ]
+      ],
+      "image_status": "retirée"
     },
     {
       "id": "AEG-002",
@@ -335,8 +326,6 @@
       "site": "Égine — sanctuaire d'Aphaia",
       "monument": "Frontons à sujet troyen (schéma, non une copie)",
       "period": "Vers 500–480 av. J.-C. ; styles et phases distincts",
-      "image": "/assets/reconstitutions/egine-aphaia-fronton-sculpte.svg",
-      "image_type": "Schéma iconographique original vectoriel ; dessin des guerriers non archéologiquement positionnel",
       "attested": [
         "Athéna centrale dans les scènes de bataille de Troie",
         "Sculptures des frontons conservées à la Glyptothèque de Munich",
@@ -360,9 +349,10 @@
       ],
       "historical_crosslinks": [
         "/sites/egine-aphaia.html#frontons",
-        "/reconstitutions-3d.html#aeg-002",
+        "/reconstitutions-photorealistes.html",
         "/mythologie-grecque.html"
-      ]
+      ],
+      "image_status": "retirée"
     },
     {
       "id": "DOD-001",
@@ -372,8 +362,6 @@
       "site": "Dodone",
       "monument": "Grand théâtre",
       "period": "Début du IIIe siècle av. J.-C., règne de Pyrrhus d'Épire (297–272 av. J.-C.) ; état initial schématique",
-      "image": "/assets/reconstitutions/dodone-theatre-pyrrhus-iiie-siecle.svg",
-      "image_type": "Illustration numérique vectorielle originale 2,5D non métrique ; ni modèle 3D interactif ni photographie",
       "attested": [
         "Grand théâtre à trois niveaux de gradins construit au début du IIIe siècle av. J.-C.",
         "Aménagement du koilon sur la pente et des parties sur des remblais soutenus par de grands murs",
@@ -398,10 +386,11 @@
       ],
       "historical_crosslinks": [
         "/sites/dodone.html#theatre",
-        "/reconstitutions-3d.html#dod-001",
+        "/reconstitutions-photorealistes.html#dodone-theatre-vue",
         "/grande-encyclopedie.html"
       ],
-      "publication_note": "SVG original publié dans le dépôt MYTHOS ; planche photoréaliste créée séparément dans la conversation, non mise en ligne."
+      "publication_note": "Illustration retirée le 4 novembre 2026. Notice archéologique et références conservées.",
+      "image_status": "retirée"
     },
     {
       "id": "DOD-002",
@@ -411,8 +400,6 @@
       "site": "Dodone",
       "monument": "Hiéra Oikia et chêne de Zeus Naios",
       "period": "Petit temple du IVe siècle av. J.-C. ; enceinte et portiques ioniques attribués au programme de Pyrrhus au début du IIIe siècle av. J.-C.",
-      "image": "/assets/reconstitutions/dodone-hiera-oikia-chene-pyrrhus.svg",
-      "image_type": "Illustration numérique vectorielle originale en perspective simulée 2,5D, sans menu de navigation",
       "attested": [
         "Chêne oraculaire au cœur de la zone cultuelle de Zeus Naios",
         "Premier petit temple en pierre au début du IVe siècle av. J.-C.",
@@ -436,10 +423,11 @@
       ],
       "historical_crosslinks": [
         "/sites/dodone.html#zeus",
-        "/reconstitutions-3d.html#dod-002",
+        "/reconstitutions-photorealistes.html",
         "/mythologie-grecque.html"
       ],
-      "publication_note": "SVG schématique original publié dans le dépôt ; ne pas confondre avec une restitution archéologique métrique."
+      "publication_note": "Illustration retirée le 4 novembre 2026. Notice archéologique et références conservées.",
+      "image_status": "retirée"
     },
     {
       "id": "BRA-001",
@@ -449,8 +437,6 @@
       "site": "Brauron",
       "monument": "Temple d’Artémis",
       "period": "Fondations et plan attribués à l'époque archaïque tardive et classique ; état schématique du Ve siècle av. J.-C.",
-      "image": "/assets/reconstitutions/brauron-temple-artemis-ve-siecle.svg",
-      "image_type": "Illustration SVG originale, perspective 2,5D non métrique, sans menus, distincte de la planche photoréaliste générée en conversation",
       "attested": [
         "Plan d'environ 19,20 × 10,35 mètres ; cella et pronaos distyle in antis",
         "Temple établi sur une terrasse, entrée vers l'est",
@@ -475,10 +461,11 @@
       ],
       "historical_crosslinks": [
         "/sites/brauron.html#temple",
-        "/reconstitutions-3d.html#bra-001",
+        "/reconstitutions-photorealistes.html#brauron-artemis-vue",
         "/mythologie-grecque.html"
       ],
-      "publication_note": "SVG publié dans le dépôt GitHub. La planche photoréaliste produite dans la conversation n'a pas été chargée dans le dépôt."
+      "publication_note": "Illustration retirée le 4 novembre 2026. Notice archéologique et références conservées.",
+      "image_status": "retirée"
     },
     {
       "id": "BRA-002",
@@ -488,8 +475,6 @@
       "site": "Brauron",
       "monument": "Stoa classique de l’Artémision",
       "period": "Vers 425–416 av. J.-C. ; aile nord documentée, ailes latérales non achevées",
-      "image": "/assets/reconstitutions/brauron-stoa-425-av-jc.svg",
-      "image_type": "Illustration originale SVG en perspective simulée 2,5D, sans menus ni relevé tridimensionnel scientifique",
       "attested": [
         "Stoa en Π autour de la cour sur les côtés ouest, nord et est",
         "Onze colonnes doriques sur l'aile nord, d'environ 29,19 m de long",
@@ -516,10 +501,11 @@
       ],
       "historical_crosslinks": [
         "/sites/brauron.html#stoa",
-        "/reconstitutions-3d.html#bra-002",
+        "/reconstitutions-photorealistes.html#brauron-stoa-vue",
         "/mythologie-grecque.html"
       ],
-      "publication_note": "Le SVG est l'illustration publiée; la planche photoréaliste originale n'a pas été chargée sur le site."
+      "publication_note": "Illustration retirée le 4 novembre 2026. Notice archéologique et références conservées.",
+      "image_status": "retirée"
     },
     {
       "id": "MES-001",
@@ -529,8 +515,6 @@
       "site": "Messène antique",
       "monument": "Asclépiéion — cour à portiques et temple central",
       "period": "Fin du IIIe siècle av. J.-C. ; grand programme après 215/214 av. J.-C.",
-      "image": "/assets/reconstitutions/messene-asklepieion-210-av-jc.svg",
-      "image_type": "Illustration vectorielle originale en perspective simulée 2,5D, non métrique, sans menu",
       "attested": [
         "Cour d'environ 71,91 × 66,67 m bordée de quatre portiques à colonnes corinthiennes",
         "Temple dorique périptère 6 × 12, environ 13,67 × 27,94 m, avec entrée orientale",
@@ -556,10 +540,11 @@
       ],
       "historical_crosslinks": [
         "/sites/messene.html#asklepieion",
-        "/reconstitutions-3d.html#mes-001",
+        "/reconstitutions-photorealistes.html#messene-asklepieion-vue",
         "/grande-encyclopedie.html"
       ],
-      "publication_note": "SVG vectoriel original publié dans le dépôt ; la planche photoréaliste créée dans ChatGPT n'est pas incluse à cet enregistrement."
+      "publication_note": "Illustration retirée le 4 novembre 2026. Notice archéologique et références conservées.",
+      "image_status": "retirée"
     },
     {
       "id": "MES-002",
@@ -569,8 +554,6 @@
       "site": "Messène antique",
       "monument": "Stade, gymnase et palestre",
       "period": "Développement initial au IIIe siècle av. J.-C. ; modifications ultérieures hellénistiques et romaines",
-      "image": "/assets/reconstitutions/messene-stade-gymnase-iiie-siecle.svg",
-      "image_type": "Illustration vectorielle originale en perspective simulée 2,5D, non métrique, sans menu",
       "attested": [
         "Extrémité septentrionale du stade en fer à cheval et gradins de pierre",
         "Dix-huit rangées de sièges dans le secteur nord",
@@ -596,10 +579,11 @@
       ],
       "historical_crosslinks": [
         "/sites/messene.html#stade-gymnase",
-        "/reconstitutions-3d.html#mes-002",
+        "/reconstitutions-photorealistes.html#messene-stade-vue",
         "/grande-encyclopedie.html"
       ],
-      "publication_note": "SVG original en perspective 2,5D ; les statues et autres décors spécifiques non conservés ne sont pas revendiqués comme attestés."
+      "publication_note": "Illustration retirée le 4 novembre 2026. Notice archéologique et références conservées.",
+      "image_status": "retirée"
     },
     {
       "id": "BAS-001",
@@ -609,8 +593,6 @@
       "site": "Bassae",
       "monument": "Temple d’Apollon Épikourios — extérieur",
       "period": "Fin du Ve siècle av. J.-C., généralement vers 420–400 av. J.-C. (datations discutées)",
-      "image": "/assets/reconstitutions/bassae-apollon-exterieur-ve-siecle.svg",
-      "image_type": "Illustration vectorielle originale en perspective simulée 2,5D ; non métrique et non interactive",
       "attested": [
         "Temple dorique périptère, six colonnes en façade et quinze sur les grands côtés (38 colonnes au total)",
         "Orientation générale nord–sud avec entrée principale au nord et ouverture orientale vers l'adyton",
@@ -636,10 +618,11 @@
       ],
       "historical_crosslinks": [
         "/sites/bassae.html#architecture",
-        "/reconstitutions-3d.html#bas-001",
+        "/reconstitutions-photorealistes.html#bassae-apollon-exterieur-vue",
         "/grande-encyclopedie.html"
       ],
-      "publication_note": "SVG publié en dépôt si commit validé ; planche photoréaliste conversationnelle distincte et non transférée au dépôt."
+      "publication_note": "Illustration retirée le 4 novembre 2026. Notice archéologique et références conservées.",
+      "image_status": "retirée"
     },
     {
       "id": "BAS-002",
@@ -649,8 +632,6 @@
       "site": "Bassae",
       "monument": "Cella, frise ionique et accès à l’adyton",
       "period": "Fin du Ve siècle av. J.-C., probablement vers 420–400 av. J.-C.",
-      "image": "/assets/reconstitutions/bassae-cella-ionique-corinthien.svg",
-      "image_type": "Schéma vectoriel de coupe perspective 2,5D, non métrique, sans modèle interactif",
       "attested": [
         "Cella avec cinq supports ioniques engagés dans les murs sur chaque côté",
         "Colonne d'axe à chapiteau corinthien parmi les plus anciens attestés, au passage vers l'adyton",
@@ -676,10 +657,13 @@
       ],
       "historical_crosslinks": [
         "/sites/bassae.html#interieur",
-        "/reconstitutions-3d.html#bas-002",
+        "/reconstitutions-photorealistes.html",
         "/mythologie-grecque.html"
       ],
-      "publication_note": "Schéma numérique original ; le chapiteau et les scènes de la frise sont stylisés, sans reproduire leurs reliefs à l'identique."
+      "publication_note": "Illustration retirée le 4 novembre 2026. Notice archéologique et références conservées.",
+      "image_status": "retirée"
     }
-  ]
+  ],
+  "published_gallery": "/reconstitutions-photorealistes.html",
+  "published_image_catalogue": "/assets/reconstitutions-3d/catalogue-photorealiste.json"
 }

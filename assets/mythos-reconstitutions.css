@@ -2,7 +2,7 @@
 :root{--r-bg:#0a0e11;--r-ink:#f0e5d3;--r-gold:#c9a66e;--r-muted:#c0b6a5;--r-line:#756044}
 html{scroll-behavior:smooth}body{background:var(--r-bg);color:var(--r-ink)}
 .r3d-hero{position:relative;isolation:isolate;background:#0c1317;overflow:hidden;border-bottom:1px solid var(--r-gold);min-height:330px;display:flex;align-items:center}
-.r3d-hero:before{position:absolute;inset:0;content:"";z-index:-1;background:linear-gradient(90deg,#0b0e11 0%,#0b0e11ee 40%,#0b0e1199 75%,#0b0e11aa),url('/assets/reconstitutions/delphes-apollon-330-av-jc.svg') center 42%/cover no-repeat;filter:saturate(.76)}
+.r3d-hero:before{position:absolute;inset:0;content:"";z-index:-1;background:linear-gradient(90deg,#0b0e11 0%,#0b0e11ee 40%,#0b0e1199 75%,#0b0e11aa);filter:saturate(.76)}
 .r3d-shell{width:min(1420px,calc(100% - 40px));margin:auto}
 .r3d-eyebrow{font:700 12px/1.5 Arial,sans-serif;letter-spacing:.17em;color:var(--r-gold);text-transform:uppercase}
 .r3d-hero h1{font:500 clamp(43px,6vw,80px)/1.04 Georgia,serif;letter-spacing:.015em;margin:14px 0;color:#f4e6d0}
