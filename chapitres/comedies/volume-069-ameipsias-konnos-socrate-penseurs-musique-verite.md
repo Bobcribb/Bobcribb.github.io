@@ -385,4 +385,4 @@ La meilleure reconstruction n'est pas celle qui comble toutes les lacunes. C'est
 
 ---
 
-**Suite éditoriale :** ce complément demeure numéroté LXIX conformément au reçu immuable ; le volume LXVIII est la monographie principale sur *Konnos*. Prochain volume uniquement après nouvelle inspection de la branche `main`, du registre `EDITORIAL_CONTINUITY.md`, de `editorial/numbering.json`, des notices historiques et des manuscrits déjà présents dans `editorial/inbox`. Aucun numéro n'est réservé par ce manuscrit.
+**Suite éditoriale :** [Volume LXX (70) — Amipsias, *Moichoi* / *Les Adultères*](/chapitres/comedies/volume-070-ameipsias-moichoi-adultere-droit-citoyennete/). Le présent volume LXIX demeure le complément critique du volume LXVIII consacré à la même *Konnos*. La suite numérique est distincte et porte sur une autre œuvre antique.
