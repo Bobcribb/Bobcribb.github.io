@@ -396,6 +396,32 @@ def apply(root):
             src = picture(card.get('href', ''), root)
             if src and not card.find('img'):
                 card.insert(0, doc.new_tag('img', src=src, alt='', loading='lazy', attrs={'class':'mythos-card-image'}))
+        # MYTHOS safeguard: gallery-thumbnail retention on repeated passes.
+        # This gallery card must keep its locally stored original WebP, never
+        # a generated SVG or a missing image. No scholarly article is changed.
+        if url == '/':
+            gallery_card = doc.select_one(
+                '#home-collections a.portal-card'
+                '[href="/reconstitutions-photorealistes.html"]')
+            thumbnail = '/assets/reconstitutions-3d/delphes-apollon-panorama.webp'
+            if gallery_card and (root / thumbnail.lstrip('/')).is_file():
+                images = gallery_card.find_all('img')
+                for duplicate in images[1:]:
+                    duplicate.decompose()
+                image = images[0] if images else None
+                if image is None:
+                    image = doc.new_tag('img', attrs={
+                        'class': 'mythos-card-image',
+                        'src': thumbnail,
+                        'alt': 'Reconstitution photoréaliste interprétative du sanctuaire de Delphes.',
+                        'loading': 'lazy',
+                        'decoding': 'async',
+                    })
+                    gallery_card.insert(0, image)
+                else:
+                    image['src'] = thumbnail
+                    image['class'] = list(dict.fromkeys(
+                        image.get('class', []) + ['mythos-card-image']))
         grid = doc.select_one('.origins-volume-grid')
         if grid and len(grid.select(':scope > .origins-volume')) > 12:
             more = fragment('<details class="mythos-more-volumes"><summary>… jusqu’au tome XXVII <span aria-hidden="true">→</span></summary><div class="origins-volume-grid"></div></details>').details
