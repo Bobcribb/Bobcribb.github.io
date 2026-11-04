@@ -172,7 +172,7 @@ def apply(root):
         target = main.get('id') if main else 'mythos-page-title'
         skip = doc.new_tag('a', href='#'+target, attrs={'class':'mythos-skip'})
         skip.string = 'Aller au contenu'
-        top = header(portal_url)
+        top = header('/mythologie-grecque/' if portal_url == '/grande-encyclopedie/' else portal_url)
         doc.body.insert(0, top)
         doc.body.insert(0, skip)
         banner = doc.new_tag('section', attrs={'class':'mythos-banner', 'aria-label':'Présentation de la page'})

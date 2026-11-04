@@ -74,8 +74,19 @@ class GreekCorpusTests(unittest.TestCase):
             portal = out / 'mythologie-grecque/index.html'
             portal.parent.mkdir(parents=True)
             portal.write_text('<html><head></head><body><main><article class="content"><h1>Ancien sommaire</h1></article></main></body></html>')
+            register = out / 'grande-encyclopedie/registre-integral/index.html'
+            register.parent.mkdir(parents=True, exist_ok=True)
+            register.write_text('<html><body><p>Six collections</p></body></html>')
             main(out, root)
             verify(out, root)
+            for slug in ('mythologie-grecque', 'grande-encyclopedie'):
+                for path in (out / slug / 'index.html', out / (slug + '.html')):
+                    d = BeautifulSoup(path.read_text(), 'html.parser')
+                    self.assertEqual(
+                        [link['href'] for link in d.select('link[rel~="canonical"]')],
+                        ['https://bobmythos.fr/mythologie-grecque/'])
+                    self.assertEqual(len(d.select(
+                        'a[href="/grande-encyclopedie/registre-integral/"]')), 1)
             page = out / 'grande-encyclopedie.html'
             doc = BeautifulSoup(page.read_text(), 'html.parser')
             doc.find('a', href='/chapitres/encyclopedie/chapitre-12-etude/').decompose()

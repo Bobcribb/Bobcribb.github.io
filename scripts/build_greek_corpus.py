@@ -399,7 +399,7 @@ def main(out, root):
         extra = '<p><a href="/bibliotheque-mythologies-du-monde/">Bibliothèque des mythologies du monde</a> · <a href="/mythologie-comparee/">Mythologie comparée</a> · <a href="/origines-du-sacre/">Origines du sacré</a> · <a href="/theatre/">Théâtre grec</a></p>'
         rendered = BeautifulSoup(shell(title, intro+html+extra), "html.parser")
         rendered.head.append(BeautifulSoup(str(css), "html.parser"))
-        canonical = rendered.new_tag('link', rel='canonical', href='https://bobmythos.fr/'+slug+'/')
+        canonical = rendered.new_tag('link', rel='canonical', href='https://bobmythos.fr/mythologie-grecque/')
         rendered.head.append(canonical)
         for target in [out/slug/"index.html", out/(slug+".html")]:
             target.parent.mkdir(parents=True, exist_ok=True)

@@ -72,6 +72,9 @@ class MuseumNavigationTests(unittest.TestCase):
                             menu + ' a[href="' + GREEK + '"]')), 1, rel)
                         self.assertFalse(document.select(
                             menu + ' a[href="' + GRANDE + '"]'), rel)
+                        greek_link = document.select_one(menu + ' a[href="' + GREEK + '"]')
+                        self.assertEqual(greek_link.get("aria-current") == "page",
+                                         rel.startswith("grande-encyclopedie/"), rel)
                     self.assertEqual(len(document.select(".mythos-banner h1")), 1)
                     expected_text = ("Manuscrit historique et bibliographie intégraux."
                                      if "grande-" in rel else
