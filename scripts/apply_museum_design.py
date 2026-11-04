@@ -308,6 +308,25 @@ def apply(root):
                     'a.portal-card[href="/grande-encyclopedie/"], '
                     'a.mythos-collection-card[href="/grande-encyclopedie/"]'):
                 duplicate.decompose()
+        # La galerie photoréaliste doit être visible parmi les collections de
+        # l'accueil, lorsque ce portail présente déjà le groupe dédié. Garder
+        # une seule carte et qualifier le caractère interprétatif des images.
+        if url == '/':
+            collection_grid = doc.select_one('#home-collections .portal-grid')
+            gallery_url = '/reconstitutions-photorealistes.html'
+            if (collection_grid and not collection_grid.select_one(
+                    'a.portal-card[href="' + gallery_url + '"]')):
+                gallery_card = fragment(
+                    '<a class="portal-card" href="' + gallery_url + '">'
+                    '<img class="mythos-card-image" loading="lazy" decoding="async" '
+                    'src="/assets/reconstitutions-3d/delphes-apollon-panorama.webp" '
+                    'alt="Vue interprétative du sanctuaire de Delphes ; reconstitution numérique."/>'
+                    '<span class="portal-card-kicker">GALERIE DOCUMENTÉE</span>'
+                    '<strong>Reconstitutions 3D</strong>'
+                    '<span>Vues des sanctuaires, sources archéologiques et degrés de certitude.</span>'
+                    '<span class="card-indicator" aria-hidden="true">↗</span></a>'
+                ).a
+                collection_grid.append(gallery_card)
         # Sommaire de l'accueil : navigation interne vers les rubriques existantes,
         # sans reproduire les textes, changer les cartes ni créer d'entrées de corpus.
         # Cette passe est idempotente, y compris après deux reconstructions.
