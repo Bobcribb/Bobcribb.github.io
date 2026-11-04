@@ -2,7 +2,7 @@
   "generated_at": "2026-11-04",
   "site": "bobmythos.fr",
   "method": "Illustrations photoréalistes interprétatives, textes et sources hors des pixels.",
-  "count": 20,
+  "count": 21,
   "entries": [
     {
       "id": "DEL-PAN-001",
@@ -352,6 +352,27 @@
       "provenance": "Rendu IA original sans menu ni texte incrusté ; les institutions citées documentent le monument et ne valident pas le rendu.",
       "sha256": "a6f44971af9e6dfa66c076d007dc5c2a4de26b5c2b407c149bc64e84af9b4356",
       "scientific_notice": "/assets/reconstitutions-3d/notices/egine-aphaia-temple-vue-architecturale.json"
+    },
+    {
+      "id": "MYC-PAN-001",
+      "slug": "mycenes-citadelle-porte-lionnes-panorama",
+      "title": "Mycènes — citadelle, porte des Lionnes et remparts cyclopéens",
+      "period": "Vers 1250 av. J.-C. (Helladique récent IIIB)",
+      "caption": "Grand panorama photoréaliste interprétatif de la citadelle de Mycènes à la fin de l’âge du bronze, avec la porte des Lionnes, les remparts cyclopéens, le cercle des tombes A et le secteur palatial.",
+      "commentary": "La citadelle de Mycènes domine la plaine d’Argolide. La première enceinte et les constructions palatiales remontent approximativement au XIVe siècle av. J.-C. ; vers le milieu du XIIIe siècle, une extension occidentale engloba le cercle des tombes A, lieu funéraire plus ancien, et s’accompagna de l’aménagement de la porte des Lionnes. Le relief des deux lions flanquant une colonne est attesté. L’image demeure une évocation non métrique : hauteur des remparts, étages et volumes d’habitations, toitures, cheminements, implantation précise des bâtiments et aspect complet du palais sont conjecturaux. Elle ne démontre pas l’existence historique du roi homérique Agamemnon.",
+      "certainty": "Élevée : implantation de la citadelle, porte des Lionnes, remparts en appareil cyclopéen, cercle des tombes A et principales phases de construction. Moyenne : relation entre accès, enceinte et secteur palatial. Faible : élévations des bâtiments, toitures, agencement intérieur, couleurs, costumes, végétation et environnement détaillé.",
+      "source_url": "https://www.argolisculture.gr/en/list-of-monuments/acropolis-of-mycenae/",
+      "secondary_sources": [
+        "https://whc.unesco.org/fr/list/941/"
+      ],
+      "src": "/assets/reconstitutions-3d/mycenes-citadelle-porte-lionnes-panorama.webp",
+      "width": 1774,
+      "height": 887,
+      "created_at": "2026-11-04",
+      "type": "plan large 3D photoréaliste non métrique",
+      "provenance": "Image originale créée numériquement par IA, sans interface, inscription ni menu incrustés. Les sources institutionnelles décrivent les vestiges mais ne certifient pas le rendu.",
+      "sha256": "64d92e24c4d580dd94b05d9d86de9959ae4a25a0f6fdaf8862b4b66c970b038f",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/mycenes-citadelle-porte-lionnes-panorama.json"
     }
   ]
 }

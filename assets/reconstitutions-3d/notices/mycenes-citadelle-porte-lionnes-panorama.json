@@ -1,0 +1,27 @@
+{
+  "id": "MYC-PAN-001",
+  "slug": "mycenes-citadelle-porte-lionnes-panorama",
+  "title": "Mycènes — citadelle, porte des Lionnes et remparts cyclopéens",
+  "period": "Vers 1250 av. J.-C. (Helladique récent IIIB)",
+  "image": "/assets/reconstitutions-3d/mycenes-citadelle-porte-lionnes-panorama.webp",
+  "caption": "Grand panorama photoréaliste interprétatif de la citadelle de Mycènes à la fin de l’âge du bronze, avec la porte des Lionnes, les remparts cyclopéens, le cercle des tombes A et le secteur palatial.",
+  "commentary": "La citadelle de Mycènes domine la plaine d’Argolide. La première enceinte et les constructions palatiales remontent approximativement au XIVe siècle av. J.-C. ; vers le milieu du XIIIe siècle, une extension occidentale engloba le cercle des tombes A, lieu funéraire plus ancien, et s’accompagna de l’aménagement de la porte des Lionnes. Le relief des deux lions flanquant une colonne est attesté. L’image demeure une évocation non métrique : hauteur des remparts, étages et volumes d’habitations, toitures, cheminements, implantation précise des bâtiments et aspect complet du palais sont conjecturaux. Elle ne démontre pas l’existence historique du roi homérique Agamemnon.",
+  "certainty": {
+    "high": "Porte des Lionnes, appareil cyclopéen, citadelle d’Argolide, cercle A et chronologie générale des phases.",
+    "medium": "Organisation d’ensemble des accès, enceinte défensive, palais et terrasses.",
+    "low": "Hauteurs, matériaux de couverture, silhouettes des maisons, décor, vêtements, personnages, végétation et reliefs éloignés."
+  },
+  "sources": [
+    {
+      "label": "Éphorie des Antiquités d’Argolide — Acropole de Mycènes",
+      "url": "https://www.argolisculture.gr/en/list-of-monuments/acropolis-of-mycenae/"
+    },
+    {
+      "label": "UNESCO — Sites archéologiques de Mycènes et Tirynthe",
+      "url": "https://whc.unesco.org/fr/list/941/"
+    }
+  ],
+  "rights_and_method": "Image originale créée numériquement par IA, sans interface, inscription ni menu incrustés. Les sources institutionnelles décrivent les vestiges mais ne certifient pas le rendu.",
+  "publication_status": "committed_to_GitHub; public_URL_pending_verification",
+  "sha256": "64d92e24c4d580dd94b05d9d86de9959ae4a25a0f6fdaf8862b4b66c970b038f"
+}
