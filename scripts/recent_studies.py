@@ -20,6 +20,23 @@ COLLECTIONS = (
     ('comparatif', 'Études comparatives', 'mythos-enuma-elish-tablette-k3473-ninive-zunkir.jpg', True),
 )
 
+# Images de collection : ces documents ne représentent pas nécessairement
+# le sujet précis du dernier chapitre. Ne pas les légender comme tels.
+IMAGE_CONTEXT = {
+    'origines-du-sacre': "Chambre funéraire d’Ounas, Saqqara",
+    'encyclopedie': "Vestiges du temple d’Apollon à Delphes",
+    'comedies': "Masques de théâtre hellénistiques, Metropolitan Museum of Art",
+    'tragedies': "Théâtre antique d’Épidaure",
+    'comparatif': "Tablette de l’Enūma eliš, musée britannique",
+}
+COLLECTION_HOME = {
+    'origines-du-sacre': '/origines-du-sacre/',
+    'encyclopedie': '/mythologie-grecque/',
+    'comedies': '/theatre/',
+    'tragedies': '/theatre/',
+    'comparatif': '/mythologie-comparee/',
+}
+
 
 def roman(number):
     parts = ((1000, 'M'), (900, 'CM'), (500, 'D'), (400, 'CD'),
@@ -66,7 +83,9 @@ def latest_verified(root, output):
                 src = ''
             cote = 'Volume ' + roman(number) + f' ({number})' if roman_numbering else f'Chapitre {number}'
             found.append({'collection': label, 'cote': cote, 'title': title,
-                          'url': '/' + rel.with_suffix('').as_posix() + '/', 'image': src})
+                          'url': '/' + rel.with_suffix('').as_posix() + '/', 'image': src,
+                          'illustration': IMAGE_CONTEXT[collection] if src else '',
+                          'collection_url': COLLECTION_HOME[collection]})
             break
     return found
 
@@ -88,8 +107,15 @@ def install(root, output):
         previous.decompose()
     cards = []
     for item in records:
-        img = (f'<img class="mythos-card-image" loading="lazy" decoding="async" alt="" '
-               f'src="{html.escape(item["image"], quote=True)}"/>' if item['image'] else '')
+        img = (
+            '<span class="mythos-recent-illustration">'
+            f'<img class="mythos-card-image" loading="lazy" decoding="async" '
+            f'alt="{html.escape(item["illustration"], quote=True)}" '
+            f'src="{html.escape(item["image"], quote=True)}"/>'
+            '<span class="mythos-recent-caption">Repère iconographique de la collection : '
+            f'{html.escape(item["illustration"])}. '
+            'Cette image ne représente pas nécessairement l’étude.</span></span>'
+            if item['image'] else '')
         cards.append(
             f'<a class="portal-card" href="{html.escape(item["url"], quote=True)}">{img}'
             f'<span class="portal-card-kicker">{html.escape(item["collection"])} · '
@@ -123,4 +149,26 @@ def install(root, output):
         else:
             toc.append(li)
     home.write_text(str(doc), encoding='utf-8')
+
+    # Renvoi réciproque ajouté seulement aux copies HTML générées :
+    # les Markdown scientifiques et leurs bibliographies restent intacts.
+    # data-reading-owned l'exclut des empreintes et des index de textes.
+    for item in records:
+        reader = output / item['url'].lstrip('/') / 'index.html'
+        reader_doc = BeautifulSoup(reader.read_text(encoding='utf-8'), 'html.parser')
+        article = reader_doc.select_one('main article.content') or reader_doc.select_one('main')
+        if article is None:
+            continue
+        for existing in article.select('nav[data-mythos-recent-backlinks]'):
+            existing.decompose()
+        back = (
+            '<nav class="mythos-recent-backlinks" data-mythos-recent-backlinks="true" '
+            'data-reading-owned="true" aria-label="Poursuivre la lecture">'
+            '<span>Parcours MYTHOS</span>'
+            '<a href="/#home-etudes-recentes">Dernières études universitaires</a>'
+            f'<a href="{html.escape(item["collection_url"], quote=True)}">'
+            'Explorer la collection</a></nav>'
+        )
+        article.append(BeautifulSoup(back, 'html.parser').nav)
+        reader.write_text(str(reader_doc), encoding='utf-8')
     return len(records)
