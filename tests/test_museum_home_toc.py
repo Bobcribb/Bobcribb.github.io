@@ -12,7 +12,7 @@ from apply_museum_design import apply
 class HomeTocTests(unittest.TestCase):
     def test_home_toc_links_and_preserves_sections(self):
         titles = ['Les collections', 'Commencer une lecture',
-                  'Trois œuvres à approfondir', 'Sanctuaires grecs en images',
+                  'Quatre œuvres à approfondir', 'Sanctuaires grecs en images',
                   'Explorer les mondes anciens', 'Une bibliothèque documentée']
         sections = ''.join(
             '<section class="portal-section"><h2>' + t +
