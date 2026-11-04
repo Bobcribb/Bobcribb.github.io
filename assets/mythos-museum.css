@@ -298,3 +298,65 @@ body.mythos-design .mythos-breadcrumbs li[aria-current="page"]{
 @media print{
   body.mythos-design .mythos-breadcrumbs{display:none!important}
 }
+
+/* MYTHOS — folio documentaire La Galigo (Leyde) : largeur et légende accessibles. */
+body.mythos-design .mythos-manuscript-figure{
+  display:grid!important;
+  grid-template-columns:minmax(0,240px) minmax(0,1fr);
+  align-items:center;
+  gap:clamp(18px,3.5vw,36px);
+  width:min(100%,860px);
+  margin:28px auto 36px!important;
+  padding:clamp(16px,3vw,30px)!important;
+  border:1px solid #766443!important;
+  border-radius:3px;
+  background:#10191a!important;
+}
+body.mythos-design .mythos-manuscript-figure .mythos-manuscript-image{
+  display:block;
+  max-width:100%;
+  outline-offset:4px;
+}
+body.mythos-design .mythos-manuscript-figure img{
+  display:block;
+  width:100%;
+  height:auto;
+  margin:auto;
+  border:1px solid #a68b66;
+  background:#ede4d1;
+  object-fit:contain;
+}
+body.mythos-design .mythos-manuscript-figure figcaption{
+  color:#eee1ce!important;
+  font:clamp(14px,1.4vw,16px)/1.7 Georgia,serif;
+  overflow-wrap:anywhere;
+}
+body.mythos-design .mythos-manuscript-figure figcaption strong{
+  display:block;
+  margin-bottom:12px;
+  font-size:1.18em;
+  color:#e9c58b;
+}
+body.mythos-design .mythos-manuscript-figure figcaption a{
+  text-underline-offset:3px;
+}
+@media(max-width:620px){
+  body.mythos-design .mythos-manuscript-figure{
+    grid-template-columns:minmax(0,1fr);
+    width:100%;
+    margin:22px auto 28px!important;
+  }
+  body.mythos-design .mythos-manuscript-figure img{
+    max-width:250px;
+  }
+}
+@media print{
+  body.mythos-design .mythos-manuscript-figure{
+    break-inside:avoid;
+    color:#222!important;
+    background:#fff!important;
+  }
+  body.mythos-design .mythos-manuscript-figure figcaption{
+    color:#222!important;
+  }
+}
