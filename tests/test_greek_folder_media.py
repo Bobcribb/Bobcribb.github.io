@@ -26,6 +26,30 @@ class GreekFolderMediaTests(unittest.TestCase):
         self.assertIn("commons.wikimedia.org", artwork["cosmogonies"]["caption_html"])
         self.assertIn("P.Oxy.", artwork["sources-anciennes"]["caption_html"])
 
+    def test_eight_cards_are_visible_in_generated_portal_with_credits(self):
+        portal = ROOT / "mythologie-grecque/index.html"
+        page = BeautifulSoup(portal.read_text(encoding="utf-8"), "html.parser")
+        registry = json.loads((ROOT / "scripts/editorial_media.json").read_text(encoding="utf-8"))
+        by_id = {item["id"]: item for item in registry["media"]}
+        cards = page.select("#dossiers-thematiques .greek-folder-entry")
+        self.assertEqual(len(cards), 8)
+        for slug, (media_id, subject) in FOLDER_ARTWORK.items():
+            entry = page.select_one(
+                '#dossiers-thematiques .greek-folder-entry:has('
+                'a[href="/mythologie-grecque/dossiers/' + slug + '/"])'
+            )
+            self.assertIsNotNone(entry, slug)
+            media = by_id[media_id]
+            photo = entry.select_one("img.greek-folder-illustration")
+            self.assertIsNotNone(photo, slug)
+            self.assertEqual(photo["src"], "/" + media["path"])
+            self.assertTrue(photo.get("alt"), slug)
+            credit = entry.select_one("details.greek-folder-credit")
+            self.assertIsNotNone(credit, slug)
+            self.assertTrue(credit.select_one('a[href^="https://"]'), slug)
+        self.assertEqual(len({card.select_one("img.greek-folder-illustration")["src"]
+                              for card in cards}), 8)
+
     def test_picture_credits_and_longform_links_survive_repeated_renders(self):
         with TemporaryDirectory() as temporary:
             root = Path(temporary) / "source"
