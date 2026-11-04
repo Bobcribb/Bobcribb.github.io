@@ -1031,3 +1031,60 @@ body.mythos-design .mythos-theatre-edition nav a:is(:hover,:focus-visible){
   body.mythos-design .mythos-theatre-editions-grid{display:block}
   body.mythos-design .mythos-theatre-edition{break-inside:avoid}
 }
+
+/* MYTHOS — quatre études épiques et théogoniques ; cartes illustrées contextualisées. */
+body.mythos-design #home-oeuvres .mythos-four-works-grid{
+  display:grid!important;
+  grid-template-columns:repeat(4,minmax(0,1fr))!important;
+  gap:clamp(12px,1.6vw,20px)!important;
+}
+body.mythos-design #home-oeuvres .mythos-four-works-grid .portal-card{
+  display:flex!important;
+  flex-direction:column;
+  gap:10px!important;
+  align-items:stretch;
+  padding:clamp(12px,1.4vw,18px)!important;
+  min-height:100%!important;
+}
+body.mythos-design #home-oeuvres .mythos-four-works-grid .mythos-card-image{
+  display:block!important;
+  width:100%!important;
+  height:clamp(145px,13vw,190px)!important;
+  object-fit:contain;
+  grid-column:auto!important;
+  grid-row:auto!important;
+  border:1px solid #514936!important;
+  background:#10191b!important;
+}
+body.mythos-design #home-oeuvres .mythos-four-works-grid .portal-card>*:not(img){
+  grid-column:auto!important;
+}
+body.mythos-design #home-oeuvres .mythos-four-works-grid .portal-card strong{
+  font:400 clamp(24px,2vw,30px)/1.25 Georgia,serif!important;
+  color:#f0d9b3!important;
+}
+body.mythos-design #home-oeuvres .mythos-four-works-grid .portal-card .card-indicator{
+  margin-top:auto;
+  align-self:flex-end;
+}
+@media(max-width:1100px){
+  body.mythos-design #home-oeuvres .mythos-four-works-grid{
+    grid-template-columns:repeat(2,minmax(0,1fr))!important;
+  }
+  body.mythos-design #home-oeuvres .mythos-four-works-grid .mythos-card-image{
+    height:clamp(155px,21vw,230px)!important;
+  }
+}
+@media(max-width:620px){
+  body.mythos-design #home-oeuvres .mythos-four-works-grid{
+    grid-template-columns:minmax(0,1fr)!important;
+  }
+  body.mythos-design #home-oeuvres .mythos-four-works-grid .mythos-card-image{
+    height:clamp(155px,50vw,255px)!important;
+  }
+}
+@media print{
+  body.mythos-design #home-oeuvres .mythos-four-works-grid{
+    grid-template-columns:repeat(2,minmax(0,1fr))!important;
+  }
+}
