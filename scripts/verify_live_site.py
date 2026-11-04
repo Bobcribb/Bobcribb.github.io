@@ -256,6 +256,13 @@ RECENT_FIGURES = (
      "/assets/illustrations-articles/met-246679-hermes-bronze-aile.webp"),
     ("philosophie-theogonie.html", "icono-theogonie-meduse-pegase-lecythe-met-247488-20261104",
      "/assets/illustrations-articles/met-247488-persee-meduse-pegase.webp"),
+    # Notices patrimoniales documentées du 5 novembre 2026 (séance 40).
+    ("philosophie-iliade.html", "icono-iliade-aphrodite-hera-met-253504-20261105",
+     "/assets/illustrations-articles/met-253504-aphrodite-bronze.webp"),
+    ("philosophie-odyssee.html", "icono-odyssee-oreste-egisthe-met-252960-20261105",
+     "/assets/illustrations-articles/met-252960-oreste-sarcophage-orestie.webp"),
+    ("philosophie-theogonie.html", "icono-theogonie-eros-psyche-met-247480-20261105",
+     "/assets/illustrations-articles/met-247480-eros-psyche-terre-cuite.webp"),
 )
 
 

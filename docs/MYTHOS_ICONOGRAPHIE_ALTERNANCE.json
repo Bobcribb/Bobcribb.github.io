@@ -4,115 +4,98 @@
   "repository": "Bobcribb/Bobcribb.github.io",
   "branch": "main",
   "latest_session": {
-    "date": "2026-11-04",
-    "kind": "AUDIT ET CORRECTION",
-    "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "scope": "Audit après la séance iconographique 38 : sept pages prioritaires, figures muséales récentes, intégrité des ressources CSS/JS, navigation/ancres, contrôles d'accessibilité, pagination déclarée, historique éditorial et déploiement HTTPS réellement observé.",
-    "basis_commit": "d39cf16efcc2538c7b6efb0e2fe765f0e947d906",
-    "audited_pages": [
-      "index.html",
-      "livre-iliade-scenes/index.html",
-      "livre-odyssee/index.html",
-      "livre-hesiode/index.html",
-      "philosophie-iliade.html",
-      "philosophie-odyssee.html",
-      "philosophie-theogonie.html"
-    ],
-    "targeted_source_audit": {
-      "pages": 7,
-      "html_ids": 525,
-      "same_page_fragment_links": 435,
-      "image_elements": 139,
-      "duplicate_ids": 0,
-      "broken_same_page_fragments": 0,
-      "img_elements_without_alt": 0,
-      "linked_css_js_files_verified": 10,
-      "missing_css_js_sources": 0
-    },
-    "published_latest_figures": [
+    "date": "2026-11-05",
+    "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "previous_kind": "AUDIT ET CORRECTION",
+    "next_kind": "AUDIT ET CORRECTION",
+    "scope": "Séance 40 : trois photographies scientifiques préexistantes réemployées dans les sections longues des études Iliade, Odyssée et Théogonie. Aucun nouveau binaire, aucune étude numérotée.",
+    "basis_commit": "96064458c4d4cb2135ae0cdb3a4d4c9426600523",
+    "figures_added": [
       {
         "page": "philosophie-iliade.html",
-        "id": "icono-iliade-apollon-bronze-met-246408-20261104",
-        "media": "/assets/illustrations-articles/met-246408-apollon-bronze-romain.webp",
-        "museum": "https://www.metmuseum.org/art/collection/search/246408",
-        "visible_on_https": true
+        "section": "iliade-long-b05",
+        "id": "icono-iliade-aphrodite-hera-met-253504-20261105",
+        "src": "/assets/illustrations-articles/met-253504-aphrodite-bronze.webp",
+        "met_object_id": 253504,
+        "museum_url": "https://www.metmuseum.org/art/collection/search/253504"
       },
       {
         "page": "philosophie-odyssee.html",
-        "id": "icono-odyssee-hermes-calypso-met-246679-20261104",
-        "media": "/assets/illustrations-articles/met-246679-hermes-bronze-aile.webp",
-        "museum": "https://www.metmuseum.org/art/collection/search/246679",
-        "visible_on_https": true
+        "section": "odyssee-long-a02",
+        "id": "icono-odyssee-oreste-egisthe-met-252960-20261105",
+        "src": "/assets/illustrations-articles/met-252960-oreste-sarcophage-orestie.webp",
+        "met_object_id": 252960,
+        "museum_url": "https://www.metmuseum.org/art/collection/search/252960"
       },
       {
         "page": "philosophie-theogonie.html",
-        "id": "icono-theogonie-meduse-pegase-lecythe-met-247488-20261104",
-        "media": "/assets/illustrations-articles/met-247488-persee-meduse-pegase.webp",
-        "museum": "https://www.metmuseum.org/art/collection/search/247488",
-        "visible_on_https": true
+        "section": "theogonie-long-a05",
+        "id": "icono-theogonie-eros-psyche-met-247480-20261105",
+        "src": "/assets/illustrations-articles/met-247480-eros-psyche-terre-cuite.webp",
+        "met_object_id": 247480,
+        "museum_url": "https://www.metmuseum.org/art/collection/search/247480"
       }
     ],
-    "publication_evidence": {
-      "url": "https://bobmythos.fr/catalog/publication-verification.json",
-      "observed_source_commit": "2f6cb0265003ba7a351af2964604d3a9f130807a",
-      "observed_github_run_id": "41925584632",
-      "indexed_documents": 1401,
-      "verified_archives": 27,
-      "verified_media": 110,
-      "publish_workflow_conclusion": "success",
-      "source_commit_is_parent_of_basis_commit": true,
-      "latest_figures_seen_in_public_html": true
+    "checks_before_commit": {
+      "pages": 3,
+      "figures_added": 3,
+      "existing_images_preserved": true,
+      "metrics": [
+        {
+          "page": "philosophie-iliade.html",
+          "section": "iliade-long-b05",
+          "figure_id": "icono-iliade-aphrodite-hera-met-253504-20261105",
+          "museum": 253504,
+          "src": "/assets/illustrations-articles/met-253504-aphrodite-bronze.webp",
+          "ids": 115,
+          "anchors": 111,
+          "images": 29,
+          "duplicate_ids": 0,
+          "broken_anchors": 0,
+          "missing_alt": 0
+        },
+        {
+          "page": "philosophie-odyssee.html",
+          "section": "odyssee-long-a02",
+          "figure_id": "icono-odyssee-oreste-egisthe-met-252960-20261105",
+          "museum": 252960,
+          "src": "/assets/illustrations-articles/met-252960-oreste-sarcophage-orestie.webp",
+          "ids": 114,
+          "anchors": 111,
+          "images": 28,
+          "duplicate_ids": 0,
+          "broken_anchors": 0,
+          "missing_alt": 0
+        },
+        {
+          "page": "philosophie-theogonie.html",
+          "section": "theogonie-long-a05",
+          "figure_id": "icono-theogonie-eros-psyche-met-247480-20261105",
+          "museum": 247480,
+          "src": "/assets/illustrations-articles/met-247480-eros-psyche-terre-cuite.webp",
+          "ids": 116,
+          "anchors": 113,
+          "images": 28,
+          "duplicate_ids": 0,
+          "broken_anchors": 0,
+          "missing_alt": 0
+        }
+      ],
+      "previous_illustration_associations": 28,
+      "new_illustration_associations": 31,
+      "unique_verified_media": 24,
+      "duplicates": 0,
+      "missing_alt": 0,
+      "broken_internal_anchors": 0
     },
-    "actions_evidence": {
-      "full_link_audit": {
-        "run_id": 41921342529,
-        "head_commit": "a9fdfd043a08faa5714bca23868efb77ba84d138",
-        "conclusion": "success",
-        "hard_errors": 0,
-        "warnings": 0
-      },
-      "generator_validation": {
-        "run_id": 41925588451,
-        "conclusion": "success"
-      },
-      "public_deployment": {
-        "run_id": 41925584632,
-        "conclusion": "success"
-      },
-      "responsive": {
-        "checked_at": "2026-11-04T22:44:07.897Z",
-        "checks": 39,
-        "devices": [
-          "ordinateur",
-          "smartphone",
-          "tablette"
-        ],
-        "http_non_200": 0,
-        "horizontal_overflows": 0,
-        "conclusion": "success"
-      }
-    },
-    "reading_pdfs_manifest": {
-      "iliade": {
-        "pages": 122,
-        "analysis_pages": 107
-      },
-      "odyssee": {
-        "pages": 116,
-        "analysis_pages": 101
-      },
-      "theogonie": {
-        "pages": 117,
-        "analysis_pages": 103
-      },
-      "note": "Données du manifeste déjà publié, aucune nouvelle pagination ni inspection visuelle des PDF lors de cette séance."
-    },
-    "verified_correction": "Réparation de la traçabilité : le dernier événement iconographique (séance 38) contenait commits: [] malgré la présence vérifiée du commit a9fdfd043a08faa5714bca23868efb77ba84d138 ; ce SHA est inscrit dans l'historique. Aucune anomalie bloquante trouvée dans les sept pages : aucun changement aux contenus scientifiques ou pages.",
-    "limitations": "Contrôle exhaustif des liens exécuté par CI sur la révision a9fdfd0, et non à nouveau sur la toute dernière révision ; seuls sept fichiers HTML et leurs ressources CSS/JS ont été vérifiés manuellement ici. Tests sur 39 routes/vues via Playwright dans GitHub Actions, non sur appareils physiques. Disponibilité de chaque lien externe scientifique non retestée. Les trois médias et notices sont vérifiés par le workflow public ; contrôle direct des octets médias non répété dans cette séance.",
-    "preservation": "Aucun manuscrit, numéro, registre d'attribution, page HTML, asset, menu, workflow ou planification horaire modifié. AGENTS.md et docs/PUBLICATION_CONCURRENTE.md relus.",
+    "scientific_distinctions": "Iliade XIV : Aphrodite postérieure à Homère, sans figurer la ceinture d'Héra ; Odyssée I : sarcophage romain représentant aussi la matricide que le texte homérique cité ne raconte pas ; Théogonie 116–122 : couple Éros/Psyché plus tardif, distinct de l'Éros primordial.",
+    "tests": "Nouveau test de non-régression des trois notices, de leur présence dans la page déployée et du SHA des WebP. Suite complète Python et GitHub Actions à confirmer après commit.",
+    "pagination": "Aucun changement de pagination ; les trois monographies dépassent déjà dix pages selon leur manifeste. PDF non rerendus.",
+    "preservation": "Textes, plans, navigation, numéros, registres, workflows, planifications horaires, médias préexistants conservés. AGENTS.md et docs/PUBLICATION_CONCURRENTE.md relus. Aucun nouveau fichier numéroté.",
+    "publication_status": "État public à vérifier après commit ; ne pas assimiler enregistrement sur main et déploiement effectif.",
     "commits": [],
-    "commit_note": "Journal enregistré en un commit distinct ; consulter le bilan de cette séance pour son SHA, qui ne peut figurer dans le contenu de son propre commit."
+    "commit_note": "SHA de la séance indiqué dans son bilan ; le contenu d'un commit ne peut contenir son propre SHA.",
+    "limitations": "Audit ciblé des trois pages et sources Met ; suite Python intégrale, rendu PDF, contrôles responsive et inspection HTTPS post-commit à confirmer."
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
   "history": [
@@ -2115,6 +2098,100 @@
       "preservation": "Aucun manuscrit, numéro, registre d'attribution, page HTML, asset, menu, workflow ou planification horaire modifié. AGENTS.md et docs/PUBLICATION_CONCURRENTE.md relus.",
       "commits": [],
       "commit_note": "Journal enregistré en un commit distinct ; consulter le bilan de cette séance pour son SHA, qui ne peut figurer dans le contenu de son propre commit."
+    },
+    {
+      "date": "2026-11-05",
+      "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "previous_kind": "AUDIT ET CORRECTION",
+      "next_kind": "AUDIT ET CORRECTION",
+      "scope": "Séance 40 : trois photographies scientifiques préexistantes réemployées dans les sections longues des études Iliade, Odyssée et Théogonie. Aucun nouveau binaire, aucune étude numérotée.",
+      "basis_commit": "96064458c4d4cb2135ae0cdb3a4d4c9426600523",
+      "figures_added": [
+        {
+          "page": "philosophie-iliade.html",
+          "section": "iliade-long-b05",
+          "id": "icono-iliade-aphrodite-hera-met-253504-20261105",
+          "src": "/assets/illustrations-articles/met-253504-aphrodite-bronze.webp",
+          "met_object_id": 253504,
+          "museum_url": "https://www.metmuseum.org/art/collection/search/253504"
+        },
+        {
+          "page": "philosophie-odyssee.html",
+          "section": "odyssee-long-a02",
+          "id": "icono-odyssee-oreste-egisthe-met-252960-20261105",
+          "src": "/assets/illustrations-articles/met-252960-oreste-sarcophage-orestie.webp",
+          "met_object_id": 252960,
+          "museum_url": "https://www.metmuseum.org/art/collection/search/252960"
+        },
+        {
+          "page": "philosophie-theogonie.html",
+          "section": "theogonie-long-a05",
+          "id": "icono-theogonie-eros-psyche-met-247480-20261105",
+          "src": "/assets/illustrations-articles/met-247480-eros-psyche-terre-cuite.webp",
+          "met_object_id": 247480,
+          "museum_url": "https://www.metmuseum.org/art/collection/search/247480"
+        }
+      ],
+      "checks_before_commit": {
+        "pages": 3,
+        "figures_added": 3,
+        "existing_images_preserved": true,
+        "metrics": [
+          {
+            "page": "philosophie-iliade.html",
+            "section": "iliade-long-b05",
+            "figure_id": "icono-iliade-aphrodite-hera-met-253504-20261105",
+            "museum": 253504,
+            "src": "/assets/illustrations-articles/met-253504-aphrodite-bronze.webp",
+            "ids": 115,
+            "anchors": 111,
+            "images": 29,
+            "duplicate_ids": 0,
+            "broken_anchors": 0,
+            "missing_alt": 0
+          },
+          {
+            "page": "philosophie-odyssee.html",
+            "section": "odyssee-long-a02",
+            "figure_id": "icono-odyssee-oreste-egisthe-met-252960-20261105",
+            "museum": 252960,
+            "src": "/assets/illustrations-articles/met-252960-oreste-sarcophage-orestie.webp",
+            "ids": 114,
+            "anchors": 111,
+            "images": 28,
+            "duplicate_ids": 0,
+            "broken_anchors": 0,
+            "missing_alt": 0
+          },
+          {
+            "page": "philosophie-theogonie.html",
+            "section": "theogonie-long-a05",
+            "figure_id": "icono-theogonie-eros-psyche-met-247480-20261105",
+            "museum": 247480,
+            "src": "/assets/illustrations-articles/met-247480-eros-psyche-terre-cuite.webp",
+            "ids": 116,
+            "anchors": 113,
+            "images": 28,
+            "duplicate_ids": 0,
+            "broken_anchors": 0,
+            "missing_alt": 0
+          }
+        ],
+        "previous_illustration_associations": 28,
+        "new_illustration_associations": 31,
+        "unique_verified_media": 24,
+        "duplicates": 0,
+        "missing_alt": 0,
+        "broken_internal_anchors": 0
+      },
+      "scientific_distinctions": "Iliade XIV : Aphrodite postérieure à Homère, sans figurer la ceinture d'Héra ; Odyssée I : sarcophage romain représentant aussi la matricide que le texte homérique cité ne raconte pas ; Théogonie 116–122 : couple Éros/Psyché plus tardif, distinct de l'Éros primordial.",
+      "tests": "Nouveau test de non-régression des trois notices, de leur présence dans la page déployée et du SHA des WebP. Suite complète Python et GitHub Actions à confirmer après commit.",
+      "pagination": "Aucun changement de pagination ; les trois monographies dépassent déjà dix pages selon leur manifeste. PDF non rerendus.",
+      "preservation": "Textes, plans, navigation, numéros, registres, workflows, planifications horaires, médias préexistants conservés. AGENTS.md et docs/PUBLICATION_CONCURRENTE.md relus. Aucun nouveau fichier numéroté.",
+      "publication_status": "État public à vérifier après commit ; ne pas assimiler enregistrement sur main et déploiement effectif.",
+      "commits": [],
+      "commit_note": "SHA de la séance indiqué dans son bilan ; le contenu d'un commit ne peut contenir son propre SHA.",
+      "limitations": "Audit ciblé des trois pages et sources Met ; suite Python intégrale, rendu PDF, contrôles responsive et inspection HTTPS post-commit à confirmer."
     }
   ]
 }

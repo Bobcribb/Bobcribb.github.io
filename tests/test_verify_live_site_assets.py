@@ -164,24 +164,24 @@ class RecentFigurePublicationTests(unittest.TestCase):
             return (200, kind, self.assets[path])
         return (200, "text/html", self.pages[path])
 
-    def test_all_twenty_eight_documentary_figures_and_six_pages_verified(self):
+    def test_all_thirty_one_documentary_figures_and_six_pages_verified(self):
         pages, assets = live.recent_figure_inventory(self.root)
         self.assertEqual(len(pages), 6)
         self.assertEqual(len(pages["livre-iliade-scenes/index.html"]), 4)
         self.assertEqual(len(pages["livre-odyssee/index.html"]), 5)
         self.assertEqual(len(pages["livre-hesiode/index.html"]), 5)
-        self.assertEqual(len(pages["philosophie-iliade.html"]), 5)
-        self.assertEqual(len(pages["philosophie-odyssee.html"]), 5)
-        self.assertEqual(len(pages["philosophie-theogonie.html"]), 4)
-        self.assertEqual(len(assets), 22)
-        self.assertEqual(sum(len(items) for items in pages.values()), 28)
+        self.assertEqual(len(pages["philosophie-iliade.html"]), 6)
+        self.assertEqual(len(pages["philosophie-odyssee.html"]), 6)
+        self.assertEqual(len(pages["philosophie-theogonie.html"]), 5)
+        self.assertEqual(len(assets), 24)
+        self.assertEqual(sum(len(items) for items in pages.values()), 31)
         # Rembrandt est réutilisé entre l’étude philosophique et le livre.
         shared = "/assets/illustrations-articles/met-437394-aristote-homere-rembrandt.webp"
         self.assertIn(shared, assets)
         self.assertEqual(sum(src == shared for _, _, src in live.RECENT_FIGURES), 2)
         with patch.object(live, "fetch", side_effect=self.fetch):
             report = live.verify_recent_public_figures("https://example.test", self.root)
-        self.assertEqual(len(report), 28)
+        self.assertEqual(len(report), 31)
         self.assertTrue(all(item["valid"] for item in report))
 
     def test_stale_odyssey_figure_and_tampered_jpeg_are_detected(self):
@@ -283,7 +283,7 @@ class RecentFigurePublicationTests(unittest.TestCase):
         self.assertEqual({entry["url"] for entry in checked if not entry["valid"]}, {
             "/livre-hesiode/index.html", hermes,
         })
-        self.assertEqual(len(live.RECENT_FIGURES), 28)
+        self.assertEqual(len(live.RECENT_FIGURES), 31)
 
     def test_newest_met_book_figures_are_required_and_image_bytes_must_match(self):
         """Audit each new book figure against stale HTML and altered WebP."""
@@ -344,6 +344,32 @@ class RecentFigurePublicationTests(unittest.TestCase):
                 self.assertEqual({r["url"] for r in report if not r["valid"]},
                                  {"/" + page, src})
 
+
+    def test_20261105_museum_figures_and_exact_assets(self):
+        """Each newly added figure must survive publication with untampered WebP."""
+        additions = (
+            ("philosophie-iliade.html", "icono-iliade-aphrodite-hera-met-253504-20261105",
+             "/assets/illustrations-articles/met-253504-aphrodite-bronze.webp"),
+            ("philosophie-odyssee.html", "icono-odyssee-oreste-egisthe-met-252960-20261105",
+             "/assets/illustrations-articles/met-252960-oreste-sarcophage-orestie.webp"),
+            ("philosophie-theogonie.html", "icono-theogonie-eros-psyche-met-247480-20261105",
+             "/assets/illustrations-articles/met-247480-eros-psyche-terre-cuite.webp"),
+        )
+        for page, fid, src in additions:
+            with self.subTest(page=page):
+                self.assertEqual(live.RECENT_FIGURES.count((page, fid, src)), 1)
+                def stale(url):
+                    path = url.split("https://example.test", 1)[-1]
+                    if path == "/" + page:
+                        return (200, "text/html", self.pages[path].replace(
+                            fid.encode("utf-8"), b"figure-obsolete"))
+                    if path == src:
+                        return (200, "image/webp", self.assets[path] + b"tampered")
+                    return self.fetch(url)
+                with patch.object(live, "fetch", side_effect=stale):
+                    report = live.verify_recent_public_figures("https://example.test", self.root)
+                self.assertEqual({entry["url"] for entry in report if not entry["valid"]},
+                                 {"/" + page, src})
 
     def test_three_reused_artifact_images_in_philosophical_monographs(self):
         """Stale public notices and altered JPEG/WebP bytes must be rejected."""
