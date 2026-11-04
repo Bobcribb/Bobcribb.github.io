@@ -382,6 +382,19 @@ def apply(root):
                         and image_path.endswith('.webp')
                         and (root / image_path.lstrip('/')).is_file()):
                     continue
+                # Les cartes des dernières études proviennent des reçus
+                # d'attribution et de recent_studies.py. Leurs photographies
+                # documentaires sont déjà archivées dans media/ et accompagnées
+                # d'une légende prudente ; une seconde passe musée ne doit pas
+                # les effacer et laisser une légende sans illustration.
+                # Ne jamais conserver un SVG 2,5D ou un fichier inexistant.
+                if (card.find_parent(id='home-etudes-recentes') is not None
+                        and authored.find_parent(class_='mythos-recent-illustration') is not None
+                        and image_path.startswith('/media/')
+                        and '/../' not in image_path
+                        and image_path.lower().endswith(('.jpg', '.jpeg', '.png', '.webp'))
+                        and (root / image_path.lstrip('/')).is_file()):
+                    continue
                 # La Galigo: archive photographique de Leyde, conservée avec
                 # crédit et licence dans la carte de la bibliothèque.
                 # Ne conserver aucun SVG 2,5D ni image externe arbitraire.
