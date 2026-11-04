@@ -1,0 +1,52 @@
+{
+  "id": "TEG-ATH-001",
+  "site": "Tégée, Arcadie, Péloponnèse (Grèce)",
+  "monument": "Temple d’Athéna Aléa",
+  "datation_scene": "Vers 330 av. J.-C. (évocation)",
+  "datation_historique": "Temple reconstruit au IVe siècle av. J.-C. ; datation d’environ 345–335 av. J.-C. selon Naomi J. Norman (1984).",
+  "notice_scientifique": "Le sanctuaire d’Athéna Aléa, dans la cité arcadienne de Tégée, possède une longue histoire cultuelle depuis au moins l’époque géométrique. Le temple archaïque fut détruit dans un incendie au début du IVe siècle av. J.-C. et remplacé par un grand édifice dorique périptère traditionnellement associé à l’architecte et sculpteur Scopas de Paros. Le temple reconstruit est généralement restitué avec six colonnes sur les petits côtés et quatorze sur les grands côtés ; Naomi J. Norman situe le programme de reconstruction vers 345–335 av. J.-C. Le programme sculpté des frontons est évoqué par Pausanias (VIII, 45–47) : chasse au sanglier de Calydon et combat d’Achille contre Télèphe. L’organisation intérieure combinait des ordres architecturaux : Norman propose des demi-colonnes corinthiennes au niveau inférieur et ioniques au-dessus. L’image présente uniquement une vue générale extérieure, sans prétendre restituer cet intérieur. Les reliefs frontonaux visibles dans le rendu sont une interprétation graphique et ne reproduisent pas la composition documentée des sculptures ; le temple apparaît richement orné, selon des choix d’évocation plus que des preuves directes. La hauteur, les détails de moulures, la toiture et ses tuiles, la couleur du marbre, le dallage, la forme de l’autel avec sa fumée, les chemins et la distribution de la végétation restent incertains. Le dessin des versants montagneux, l’orientation apparente du bâtiment et ses rapports au sanctuaire ne correspondent pas à un relevé topographique. Il s’agit d’une évocation non métrique, sans caution scientifique institutionnelle du rendu.",
+  "certitude": {
+    "elevee": "Existence du sanctuaire et du temple du IVe siècle ; péristyle dorique de six colonnes sur les petits côtés et quatorze sur les grands côtés.",
+    "moyenne": "Volumes architecturaux généraux, décor frontonal attesté par les sources ; limites de restitution des élévations.",
+    "faible": "Sculptures précises représentées, couleurs, toiture, entourage du temple, autel, terrasse et topographie apparente."
+  },
+  "sources": [
+    {
+      "author": "Naomi J. Norman",
+      "title": "The Temple of Athena Alea at Tegea",
+      "publication": "American Journal of Archaeology 88.2 (1984), p. 169–194",
+      "url": "https://www.journals.uchicago.edu/doi/10.2307/504994"
+    },
+    {
+      "author": "Erik Østby (dir.)",
+      "title": "Tegea I. Investigations in the Temple of Athena Alea 1991–94",
+      "publication": "Norwegian Institute at Athens, 3 (2014)",
+      "url": "https://www.aegeussociety.org/new_book/tegea-i-investigations-in-the-temple-of-athena-alea-1991-94/"
+    },
+    {
+      "author": "Erik Østby (dir.)",
+      "title": "Tegea II. Investigations in the Sanctuary of Athena Alea 1990–94 and 2004",
+      "publication": "Norwegian Institute at Athens, 4 (2014)",
+      "url": "https://www.aegeussociety.org/en/new_book/tegea-ii-investigations-in-the-sanctuary-of-athena-alea-1990-94-and-2004/"
+    },
+    {
+      "author": "Knut Ødegård",
+      "title": "Tegea",
+      "publication": "Store norske leksikon (mise à jour 8 juillet 2026)",
+      "url": "https://snl.no/Tegea"
+    },
+    {
+      "author": "Pausanias",
+      "title": "Description de la Grèce, VIII, 45, 4 – 47, 4",
+      "publication": "Témoignage antique",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Paus.+8.45.4"
+    }
+  ],
+  "image": "/assets/reconstitutions-3d/tegee-temple-athena-alea-panorama.webp",
+  "image_dimensions_px": [
+    1672,
+    941
+  ],
+  "sha256_webp": "7d632cae9466e8de116b5a343ad9b77f566d35dafb3afd50d115aae597651c90",
+  "methodologie": "Illustration originale générée par IA ; synthèse photoréaliste non métrique à valeur d’évocation, non photographie de l’Antiquité. Non validée par les institutions citées. Aucun élément d’interface ou texte incrusté dans l’image."
+}

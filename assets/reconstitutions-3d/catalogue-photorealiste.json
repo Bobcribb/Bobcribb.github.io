@@ -2,7 +2,7 @@
   "generated_at": "2026-11-04",
   "site": "bobmythos.fr",
   "method": "Illustrations photoréalistes interprétatives, textes et sources hors des pixels.",
-  "count": 30,
+  "count": 31,
   "entries": [
     {
       "id": "DEL-PAN-001",
@@ -574,6 +574,30 @@
       "provenance": "Reconstitution numérique photoréaliste originale assistée par IA, évocation interprétative non métrique. Aucun menu, texte ou interface incrusté. Ni photogrammétrie ni caution scientifique institutionnelle.",
       "sha256": "39450b0d17260e59b83ff6bd30dca13afb5fb8e1084b3ec73169fa03f9374270",
       "scientific_notice": "/assets/reconstitutions-3d/notices/rhamnonte-nemesis-themis-sanctuaire-panorama.json"
+    },
+    {
+      "id": "TEG-ATH-001",
+      "slug": "tegee-temple-athena-alea-panorama",
+      "title": "Tégée (Arcadie) — temple d’Athéna Aléa, époque classique tardive",
+      "period": "Évocation vers 330 av. J.-C. (temple du IVe siècle av. J.-C.)",
+      "caption": "Évocation photoréaliste non métrique du grand temple dorique d’Athéna Aléa à Tégée, à l’époque classique tardive : péristyle, terrasse et paysage arcadien.",
+      "commentary": "Le sanctuaire d’Athéna Aléa, dans la cité arcadienne de Tégée, possède une longue histoire cultuelle depuis au moins l’époque géométrique. Le temple archaïque fut détruit dans un incendie au début du IVe siècle av. J.-C. et remplacé par un grand édifice dorique périptère traditionnellement associé à l’architecte et sculpteur Scopas de Paros. Le temple reconstruit est généralement restitué avec six colonnes sur les petits côtés et quatorze sur les grands côtés ; Naomi J. Norman situe le programme de reconstruction vers 345–335 av. J.-C. Le programme sculpté des frontons est évoqué par Pausanias (VIII, 45–47) : chasse au sanglier de Calydon et combat d’Achille contre Télèphe. L’organisation intérieure combinait des ordres architecturaux : Norman propose des demi-colonnes corinthiennes au niveau inférieur et ioniques au-dessus. L’image présente uniquement une vue générale extérieure, sans prétendre restituer cet intérieur. Les reliefs frontonaux visibles dans le rendu sont une interprétation graphique et ne reproduisent pas la composition documentée des sculptures ; le temple apparaît richement orné, selon des choix d’évocation plus que des preuves directes. La hauteur, les détails de moulures, la toiture et ses tuiles, la couleur du marbre, le dallage, la forme de l’autel avec sa fumée, les chemins et la distribution de la végétation restent incertains. Le dessin des versants montagneux, l’orientation apparente du bâtiment et ses rapports au sanctuaire ne correspondent pas à un relevé topographique. Il s’agit d’une évocation non métrique, sans caution scientifique institutionnelle du rendu.",
+      "certainty": "Élevée : sanctuaire d’Athéna Aléa à Tégée, grand temple dorique du IVe siècle, péristyle 6 × 14, attribution à Scopas selon les sources antiques, vestiges et programme de recherche norvégien. Moyenne : volumes extérieurs généraux, existence de frontons sculptés et programme iconographique transmis par Pausanias, datation de la phase retenue vers 345–335 av. J.-C. Faible : figuration précise des métopes et sculptures (artiste numérique non fidèle aux fragments), toiture et couleurs, niveau de finition, autel et fumée, mobilier, dallage, végétation, géographie exacte et lignes de vue.",
+      "source_url": "https://www.journals.uchicago.edu/doi/10.2307/504994",
+      "secondary_sources": [
+        "https://www.aegeussociety.org/new_book/tegea-i-investigations-in-the-temple-of-athena-alea-1991-94/",
+        "https://www.aegeussociety.org/en/new_book/tegea-ii-investigations-in-the-sanctuary-of-athena-alea-1990-94-and-2004/",
+        "https://snl.no/Tegea",
+        "https://www.perseus.tufts.edu/hopper/text?doc=Paus.+8.45.4"
+      ],
+      "src": "/assets/reconstitutions-3d/tegee-temple-athena-alea-panorama.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-04",
+      "type": "Nouvelle reconstitution visuelle 3D photoréaliste interprétative, non métrique",
+      "provenance": "Image numérique originale générée par IA, sans menu, texte, logo ni interface incrustée. Les sources documentent le monument mais ne valident pas cette vue.",
+      "sha256": "7d632cae9466e8de116b5a343ad9b77f566d35dafb3afd50d115aae597651c90",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/tegee-temple-athena-alea-panorama.json"
     }
   ]
 }
