@@ -78,6 +78,14 @@ PORTAL_DESCRIPTIONS = {
     '/origines-du-sacre/': 'Origines du sacré : 27 tomes, rites, archéologie et textes des religions anciennes.',
     '/theatre/': 'Théâtre grec : tragédies, comédies, fragments, études philosophiques et bibliographies.',
     '/philosophie/': 'Philosophie MYTHOS : études de l’Iliade, de l’Odyssée, de la Théogonie et des pensées antiques.',
+    '/mythologie-comparee/': 'Mythologie comparée : Grèce, Égypte, Mésopotamie, Iran, méthodes critiques et études universitaires.',
+    '/recherche/': 'Rechercher une étude MYTHOS par nom, auteur, civilisation, œuvre ou thème dans le catalogue intégral.',
+    '/catalogue-integral/': 'Catalogue intégral de MYTHOS : retrouver les chapitres, les collections, les archives et les sources disponibles.',
+    '/etat-du-corpus/': 'État vérifiable des collections MYTHOS, des pages publiées, des archives et des contrôles éditoriaux.',
+    '/civilisations/': 'Explorer les civilisations antiques dans MYTHOS : textes, religions, sanctuaires et bibliothèques thématiques.',
+    '/mythologies/': 'Parcourir les mythologies du monde : traditions documentées, sources, comparaisons et dossiers historiques.',
+    '/reconstitutions-antiquite/': 'Reconstitutions documentées de cités et sanctuaires antiques : images, contexte et degré de certitude.',
+    '/rubriques/': 'Index des dossiers MYTHOS : accès alphabétique aux mythologies, textes, personnages et analyses.',
 }
 
 
@@ -162,6 +170,10 @@ def apply(root):
         for img in doc.find_all('img', src=True):
             if img['src'].split('?', 1)[0] in legacy_art:
                 img['src'] = museum_banner
+            # Décodage non bloquant des figures, sans changer la taille ou
+            # l'origine des documents scientifiques et de leurs légendes.
+            if not img.has_attr('decoding'):
+                img['decoding'] = 'async'
         for element in doc.find_all(style=True):
             if any(old in element['style'] for old in legacy_art):
                 for old in legacy_art:
