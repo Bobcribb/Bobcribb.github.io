@@ -1,0 +1,37 @@
+{
+  "id": "OLY-PHI-001",
+  "slug": "olympie-philippeion-tholos-vers-330-av-jc",
+  "title": "Olympie — Philippéion, monument dynastique macédonien",
+  "period": "Vers 330 av. J.-C. (fin du IVe siècle av. J.-C.)",
+  "image": "/assets/reconstitutions-3d/olympie-philippeion-tholos-vers-330-av-jc.webp",
+  "caption": "Tholos du Philippéion dans l’Altis, restituée en image 3D photoréaliste : péristyle ionique, cella ronde et toiture conique. Vue interprétative non métrique.",
+  "commentary": "Le Philippéion fut entrepris à Olympie après la bataille de Chéronée (338 av. J.-C.) sous Philippe II de Macédoine ; il fut vraisemblablement achevé sous Alexandre III. Cet édifice circulaire d’environ 15,24 m de diamètre comportait un péristyle de dix-huit colonnes ioniques, une cella ronde et neuf supports corinthiens engagés à l’intérieur ; des portraits dynastiques furent installés dans l’édifice. La couverture conique avec couronnement végétal est attestée par les descriptions du monument. L’image ne résulte toutefois pas d’une mesure des vestiges : élévation exacte, détail des baies et claustras visibles, surfaces décoratives, toiture, couleurs et végétation sont des hypothèses visuelles.",
+  "certainty": {
+    "high": "Site, chronologie relative après 338 av. J.-C., vocation dynastique, plan de tholos, péristyle ionique à dix-huit colonnes et décor corinthien intérieur.",
+    "medium": "Volume d’ensemble, structure circulaire et couverture conique.",
+    "low": "Hauteur et proportions précises des élévations, fenêtres et claustras, ornements, matériaux apparents, couleurs et paysage."
+  },
+  "sources": [
+    {
+      "label": "Ministère grec de la Culture — Visite du sanctuaire, Philippéion",
+      "url": "https://olympicgames.culture.gov.gr/en/periigisi.html"
+    },
+    {
+      "label": "Municipalité d’Ancienne Olympie — Archaeological Site",
+      "url": "https://arxaiaolympia.gov.gr/the-archaeological-site-of-olympia/?lang=en"
+    },
+    {
+      "label": "Perseus Art and Archaeology — Olympia, Philippeion",
+      "url": "https://perseus-aa.github.io/items/aa_287.html"
+    },
+    {
+      "label": "UNESCO — Site archéologique d’Olympie",
+      "url": "https://whc.unesco.org/fr/list/517/"
+    }
+  ],
+  "rights_and_method": "Restitution 3D photoréaliste originale générée numériquement ; image non métrique, non validée par les institutions citées. Aucun menu ni légende incrustés.",
+  "publication_status": "committed_to_GitHub; public_URL_pending_independent_verification",
+  "width": 1672,
+  "height": 941,
+  "sha256": "95ecc9275a75d04845dca346f27d7171b07db2689569cbba2cbb0c417927e558"
+}
