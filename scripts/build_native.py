@@ -412,6 +412,11 @@ def main():
     enhance(OUT, ROOT)
     from improve_reading import install_civilisation_reciprocal_navigation
     install_civilisation_reciprocal_navigation(OUT, ROOT)
+    # Raccorder neuf dossiers critiques déjà intégraux, sans copier ni attribuer
+    # de volumes et sans confondre scènes contemporaines et témoins antiques.
+    from theatre_fragment_index import install as install_theatre_fragment_index
+    print('Théâtre — éditions fragmentaires documentées :',
+          install_theatre_fragment_index(ROOT, OUT))
     # Ce panneau est bâti uniquement sur les allocations reçues et les pages
     # intégrales du rendu ; aucune nouvelle cote ni copie d'étude n'est créée.
     from recent_studies import install as install_recent_studies
