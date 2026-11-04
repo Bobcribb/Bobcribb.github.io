@@ -94,6 +94,17 @@ def verify():
         assert card.select_one('p.r3d-source a[href^="https://"]'), 'Source institutionnelle absente : ' + slug
         assert card.select_one('a.r3d-study-link[href="/sites/' + dossier + '"]'), 'Renvoi dossier absent : ' + slug
         assert (out/'sites'/dossier).is_file(), 'Dossier archéologique inexistant : ' + dossier
+    # Aphaia: 4 sections attestées, jamais une photographie empruntée à un autre lieu.
+    aphaia = BeautifulSoup((out/'sites/egine-aphaia.html').read_text(encoding='utf-8'), 'html.parser')
+    toc = aphaia.select_one('nav[aria-label="Sommaire du dossier d’Aphaia"]')
+    assert toc is not None, 'Sommaire d’Aphaia absent'
+    expected_anchors = ('histoire', 'architecture', 'frontons', 'sources')
+    assert [link.get('href') for link in toc.select('a[href^="#"]')] == [
+        '#' + slug for slug in expected_anchors], 'Sommaire d’Aphaia incomplet'
+    for slug in expected_anchors:
+        assert aphaia.find(id=slug), 'Ancre du dossier Aphaia absente : ' + slug
+    assert not aphaia.select('a[href="/reconstitutions-3d.html"]')
+    assert aphaia.select('a[href="/reconstitutions-photorealistes.html"]')
     print('OK : 15 vues photoréalistes reliées à huit dossiers archéologiques, sources conservées.')
     print('OK : trois cartes illustrées, trois WebP et trois renvois de galerie vérifiés.')
     print(f'OK : {pages} pages habillées, {redirects} redirections conservées, 27 tomes accessibles.')
