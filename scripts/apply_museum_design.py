@@ -94,6 +94,10 @@ def add_scholarly_toc(doc, main, rel):
     # Ne pas doubler un sommaire d'auteur, ni déplacer ses références.
     if article.select_one('.toc, .article-toc, .table-of-contents, nav[aria-label*="ommaire"]'):
         return
+    # Les renvois internes rédigés à la main doivent rester les premiers
+    # liens vers leurs cibles, sans interposition d'une navigation générée.
+    if article.select_one('a[href^="#"]'):
+        return
     headings = [node for node in article.find_all('h2')
                 if not node.find_parent(['nav', 'aside', 'footer'])
                 and node.get_text(' ', strip=True)]
