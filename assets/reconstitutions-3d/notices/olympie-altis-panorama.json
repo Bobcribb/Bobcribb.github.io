@@ -1,0 +1,26 @@
+{
+  "id": "OLY-PAN-001",
+  "slug": "olympie-altis-panorama",
+  "title": "Olympie — panorama de l'Altis et du temple de Zeus",
+  "period": "Évocation vers 300 av. J.-C. (fin du IVe – début du IIIe siècle av. J.-C.)",
+  "image": "/assets/reconstitutions-3d/olympie-altis-panorama.webp",
+  "caption": "Plan large photoréaliste interprétatif du sanctuaire d’Olympie, dominé par le temple de Zeus ; édifice circulaire évoquant le Philippéion, édifié après 338 av. J.-C.",
+  "commentary": "Temple de Zeus construit vers 470–457 av. J.-C. (architecte traditionnellement identifié à Libon d’Élis) ; temple dorique périptère de six colonnes en façade et treize sur les longs côtés. Vue datée vers 300 av. J.-C. en raison du Philippéion postérieur à Chéronée (338 av. J.-C.). Organisation précise, détails architecturaux, toitures, statuaires et paysage conjecturaux.",
+  "certainty": {
+    "high": "Temple de Zeus, ordre dorique, sanctuaire de l’Altis, postériorité du Philippéion à 338 av. J.-C.",
+    "medium": "Volumes du temple et paysage général.",
+    "low": "Disposition et élévation des monuments secondaires, restitution du Philippéion, sculptures, couleurs, arbres, costumes."
+  },
+  "sources": [
+    {
+      "label": "Ministère grec de la Culture",
+      "url": "https://olympicgames.culture.gov.gr/en/periigisi.html"
+    },
+    {
+      "label": "UNESCO",
+      "url": "https://whc.unesco.org/fr/list/517"
+    }
+  ],
+  "rights_and_method": "Création numérique IA sans menu ni texte intégré ; interprétation non métrique ; les sources n'authentifient pas les détails de l’image.",
+  "publication_status": "committed_to_GitHub; awaiting_independent_public_URL_validation"
+}
