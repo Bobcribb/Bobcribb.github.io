@@ -26,8 +26,10 @@ def verified_editions(root: Path, output: Path, slugs=SLUGS):
         critique = output / BASE / f'{slug}-etude.html'
         scenes = output / BASE / f'{slug}-scenes-modernes.html'
         paths = (src, critique, scenes)
+        # Une archive déclarée ne doit jamais disparaître silencieusement du
+        # sommaire, même si ses trois fichiers ont été effacés.
         if not any(path.is_file() for path in paths):
-            continue
+            raise RuntimeError(f'Archive déclarée introuvable : {slug}')
         if not all(path.is_file() for path in paths):
             raise RuntimeError(f'Édition incomplète ({slug}) : conserver la source et les deux lecteurs.')
         original = src.read_text(encoding='utf-8')
