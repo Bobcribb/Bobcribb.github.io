@@ -5,34 +5,82 @@
   "branch": "main",
   "latest_session": {
     "date": "2026-11-04",
-    "kind": "AUDIT ET CORRECTION",
-    "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "checked_pages": 13,
-    "source_errors_fixed": {
-      "missing_images": 25,
-      "missing_script_references": 13,
-      "total": 38
+    "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "previous_kind": "AUDIT ET CORRECTION",
+    "next_kind": "AUDIT ET CORRECTION",
+    "scope": "Trois monographies philosophiques existantes : Iliade, Odyssée, Théogonie",
+    "checked_pages": 3,
+    "source_illustrations_added": 3,
+    "html_figures_added": 3,
+    "figure_counts_before": {
+      "Iliade": 14,
+      "Odyssée": 13,
+      "Théogonie": 16
     },
-    "validation": "13 pages relues sur main : aucun ancien chemin d'image, aucune ancre interne absente ni identifiant HTML dupliqué sur ce périmètre",
-    "public_deployment_status": "À vérifier par le reçu de déploiement : un commit GitHub n'est pas une mise en ligne publique.",
-    "content_preserved": "Aucun chapitre numéroté, aucun registre de numérotation, aucune automatisation modifiés.",
-    "correction_commits": [
-      "68c46be0a08360c0cc2a772787a920dc56ca9cfd",
-      "40ea73a0255286871fa9f0ab93004b2683136e50",
-      "e54ac28089882390e4aa68a30ece4c292855c2d7",
-      "77dee15b61d1e7f1c736317f7afb1708e57096a3",
-      "8bf58be83f74ae04faba67496d05a8b172836948",
-      "47f62273f267f4dc19188095e2d61944500c0ca6",
-      "dbb693780c803e4f042b9e25a5335ad235949dea",
-      "b8cac9147302a1932830ddd6d52219be7a2f1b76",
-      "867be0aa05e3fdf6089f826f6c90141724796fc7",
-      "030676b4473870ec4c907ec30475949a0fb79e56",
-      "b9af8fb13a92ede198e19ecc44aa1bd9d129b6f1",
-      "05c15d58afd6e045e9d280f993e86c4a27850e0c",
-      "849c1a0bf95676209949577a958ec135d6855e18",
-      "e3e71462616b6876214982c23b879a53447b32a8"
+    "figure_counts_after": {
+      "Iliade": 15,
+      "Odyssée": 14,
+      "Théogonie": 17
+    },
+    "source_references": [
+      "Homère, Iliade XXIII, 534–650",
+      "Homère, Odyssée II, 1–259",
+      "Hésiode, Théogonie 775–806"
+    ],
+    "new_asset_paths": [
+      "assets/philosophie/iliade-jeux-funebres-equite-20261104.svg",
+      "assets/philosophie/odyssee-assemblee-ithaque-20261104.svg",
+      "assets/philosophie/theogonie-serment-styx-20261104.svg"
+    ],
+    "modified_pages": [
+      "philosophie-iliade.html",
+      "philosophie-odyssee.html",
+      "philosophie-theogonie.html"
+    ],
+    "checks": "3 sources SVG et 3 pages relues après commit ; aucun id HTML dupliqué ni ancre interne manquante ; attribut alt et statut d’assistance IA présents ; aucune modification du texte des études hormis l’insertion des figures ; 3 textes > 53 000 mots chacun, pagination A4 non vérifiée.",
+    "public_deployment_status": "Non confirmé : consultation directe du domaine bobmythos.fr et du reçu /catalog/publication-verification.json inaccessible depuis l’environnement de contrôle (résolution DNS impossible).",
+    "content_preserved": "Textes, sommaires, navigation, numérotations, registres éditoriaux, automatisations et fréquence inchangés.",
+    "commits": [
+      "950427b1c81f3d0ac2b8e6a6445a3a5b6697f8f0",
+      "e075f0a3700dd8686c6d5db38c73e8c9077b2d38",
+      "5cbb3d70927df225a75addc5175d3983ed288c64",
+      "8686fbba07263db9232d5e9386ad636b7892c600",
+      "6eec381c7f0f8c359a8d6bd9340fc8290a7adfec",
+      "b5dffea008ae86b7fa08b1c99fb1242842e66b92"
     ]
   },
-  "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind."
+  "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
+  "history": [
+    {
+      "date": "2026-11-04",
+      "kind": "AUDIT ET CORRECTION",
+      "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "checked_pages": 13,
+      "source_errors_fixed": {
+        "missing_images": 25,
+        "missing_script_references": 13,
+        "total": 38
+      },
+      "validation": "13 pages relues sur main : aucun ancien chemin d'image, aucune ancre interne absente ni identifiant HTML dupliqué sur ce périmètre",
+      "public_deployment_status": "À vérifier par le reçu de déploiement : un commit GitHub n'est pas une mise en ligne publique.",
+      "content_preserved": "Aucun chapitre numéroté, aucun registre de numérotation, aucune automatisation modifiés.",
+      "correction_commits": [
+        "68c46be0a08360c0cc2a772787a920dc56ca9cfd",
+        "40ea73a0255286871fa9f0ab93004b2683136e50",
+        "e54ac28089882390e4aa68a30ece4c292855c2d7",
+        "77dee15b61d1e7f1c736317f7afb1708e57096a3",
+        "8bf58be83f74ae04faba67496d05a8b172836948",
+        "47f62273f267f4dc19188095e2d61944500c0ca6",
+        "dbb693780c803e4f042b9e25a5335ad235949dea",
+        "b8cac9147302a1932830ddd6d52219be7a2f1b76",
+        "867be0aa05e3fdf6089f826f6c90141724796fc7",
+        "030676b4473870ec4c907ec30475949a0fb79e56",
+        "b9af8fb13a92ede198e19ecc44aa1bd9d129b6f1",
+        "05c15d58afd6e045e9d280f993e86c4a27850e0c",
+        "849c1a0bf95676209949577a958ec135d6855e18",
+        "e3e71462616b6876214982c23b879a53447b32a8"
+      ]
+    }
+  ]
 }
