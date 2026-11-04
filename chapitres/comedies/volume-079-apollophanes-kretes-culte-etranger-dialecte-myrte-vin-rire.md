@@ -520,3 +520,218 @@ La méthode MYTHOS demeure : **[A] sauver ce qui est transmis, [B] raisonner ave
 Le commentaire d'Orth est consulté directement dans la version numérique de Heidelberg, mais son extraction OCR ne permet pas de garantir automatiquement chaque esprit, accent, signe d'apparat ou division métrique. Les fragments grecs complets, les variantes des manuscrits d'Athénée et les conjectures de Porson, de Meineke et d'autres éditeurs devraient être collationnés sur les **fac-similés et les éditions critiques** avant une publication qui se présenterait comme une *édition de texte grec*. Le présent manuscrit se présente comme une **monographie d'analyse historique, philologique et philosophique**, non comme une édition diplomatique.
 
 **Statut de publication MYTHOS :** le numéro décimal 79 et le volume romain LXXIX sont exclusivement des variables de la file éditoriale. La présence de la demande JSON sur GitHub n'attribue aucun numéro et n'assure pas le déploiement HTTPS. Le prochain numéro ne sera déterminé que par la procédure atomique de GitHub Actions. Les manuscrits antérieurs et leurs adresses ne sont pas modifiés.
+
+---
+
+## Annexe critique de réconciliation documentaire — seconde tradition éditoriale conservée
+
+*Dossier canonical : Apollophanès, **Krêtes**, volume LXXIX. Révision documentaire du 4 novembre 2026 ; ne constitue ni une nouvelle œuvre perdue ni un second volume. Cette annexe exploite des développements autonomes et quatre créations théâtrales entièrement différentes du manuscrit concurrent conservé **sans modification** sous `editorial/inbox/8fbc061a-1dd7-4969-9b5e-69564a81aa83.json` (mise en attente éditoriale). Les sections ci-dessous ont été sélectionnées, et non fusionnées comme des fragments antiques ; tout le second manuscrit demeure consultable à son adresse de provenance.*
+
+### [A] Contrôle des quatre unités de Kassel–Austin : précision sur leur nature
+
+Le libellé du manuscrit concurrent, qui mentionne **trois** fragments titulaires, nécessite une précision. L'édition de Christian Orth, *Fragmenta Comica* 9.1 (2013), présente **quatre unités numérotées fr. 5, 6, 7 et 8 K.–A.** dans le dossier des *Krêtes*. Elles n'ont pas le même statut : le fr. 5 conserve un passage de vers cité par Athénée III, 75c (avec un nom d'auteur transmis comme Antiphane et corrigé en Apollophanès) ; le fr. 6 transmet, à travers Photios et Hésychios, des noms divins ; le fr. 7, chez Athénée XI, 485e, est un vers sur une coupe de vin ; le fr. 8, chez Photios μ 615, consiste essentiellement en **une attestation lexicographique du nom Mysikarphès**, et non en un vers comique intégral. Présenter « trois extraits de langage dramatique ou de catalogue et un fragment onomastique » n'est donc pas nier le numéro **8** de l'édition savante. Aucune pièce nouvelle n'est créée sur la base de cette distinction.
+
+**Points directement revérifiés** dans Orth : [fr. 5, p. 379](https://digi.hadw-bw.de/view/frc9_1/0380) ; [fr. 6, p. 386](https://digi.hadw-bw.de/view/frc9_1/0387) et son [commentaire p. 387](https://digi.hadw-bw.de/view/frc9_1/0388) ; [fr. 7, p. 391](https://digi.hadw-bw.de/view/frc9_1/0392) ; [fr. 8, p. 395](https://digi.hadw-bw.de/view/frc9_1/0396) et [commentaire p. 396–397](https://digi.hadw-bw.de/view/frc9_1/0397). Ce constat est limité au texte critique consulté ; il ne prétend pas à une collation indépendante des manuscrits originaux.
+
+### [A/B] La catégorie des dieux « étrangers » est un acte de classement
+
+Dans son commentaire du fr. 6, Orth précise que l'identification de la liste divine par Hésychios comme liste de *theoi xenikoi* pourrait être **l'interprétation d'un grammairien** et non une désignation prononcée par les personnages eux-mêmes. Le fragment de Photios pourrait appartenir à cette liste, ce qui reste probable mais non démontré ; la pièce aurait même pu comporter plusieurs listes. Cette différence entre une liste de noms attestée [A] et son interprétation comme manifeste politique [B] change l'orientation d'un essai philosophique : le regard du lexicographe tardif peut transformer des dieux familiers à Athènes en collection d'« étrangers ».
+
+L'histoire des rites doit résister à deux anachronismes : supposer une nationalité fixe pour chaque divinité ; puis attribuer à l'Athènes du Ve siècle une bureaucratie cultuelle unique, alors que les pratiques de reconnaissance et les communautés rituelles étaient multiples. En termes hégéliens, l'extériorité n'est pas une essence : elle se définit aussi par l'instance qui reconnaît et nomme. Mais cette articulation est notre [B] contemporaine, non une doctrine livrée par Apollophanès.
+
+### [B] Trois échelles de comparaison : Caunos, Rome et Athènes
+
+Hérodote I, 172.2 évoque les habitants de Caunos choisissant de ne retenir que leurs dieux ancestraux et mimant l'expulsion des puissances étrangères en frappant l'air de leurs lances. Cicéron, *De legibus* II, 37, rapporte la satire de divinités introduites dans la cité, mais il **nomme Aristophane**, pas Apollophanès. Strabon, *Géographie* X, 3, 18, décrit l'accueil de cultes non athéniens et les railleries dont cette ouverture aurait été l'objet dans la comédie. Ces textes [A] ne constituent aucunement des témoignages sur une intrigue des *Krêtes*. Leurs dates, leurs genres et leurs objectifs diffèrent : enquête ethnographique, législation philosophique et géographie impériale.
+
+On peut cependant en tirer une expérience critique [B]. À Caunos, la frontière religieuse est jouée par des armes ; chez Cicéron, l'expulsion est racontée comme un jugement de la communauté ; chez Strabon, l'accueil devient sujet de satire. Aucun des trois ne prouve que les Crétois d'Apollophanès entrent dans Athènes comme une ambassade cultuelle. Leur rapprochement rend seulement intelligible le problème social que le fr. 6 permet d'interroger : qui a l'autorité de qualifier un rite de « mien », « ancien » ou « étranger » ?
+
+**Références de contrôle** : [Orth, p. 387](https://digi.hadw-bw.de/view/frc9_1/0388) ; [Hérodote, I, 172, texte et traduction](https://linguistics.osu.edu/herodotos/ethnonym/asian/caunians) ; [Cicéron, *De legibus* II, 37, latin](https://www.felicemassaro.it/cicero-de-legibus-ii/4/) ; [Strabon, *Géographie* X, 3, 18](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Strabo/10C*.html).
+
+### [B] Une microphilosophie des objets : myrte, corps et nom du vase
+
+La confrontation de deux traditions interprétatives du fr. 5 produit une distinction utile : une *branche de myrte* peut être objet matériel, symbole d'honneur, spécimen botanique et occasion d'un geste corporel ; mais les valeurs métaphoriques de chacun de ces usages ne se déduisent pas automatiquement d'un seul passage. La forme *phibaleos* ouvre aussi, dans la lexicographie, une ambiguïté entre désignation de figues et de myrtes [A]. En faire une satire des délibérations politiques serait [B] : l'édition de la preuve doit s'arrêter avant de transformer le jeu lexical en scénario certain.
+
+De même, la *lepastê* du fr. 7 n'est pas une preuve de costume, de sexe ou de statut pour son locuteur. Sa désignation et sa matérialité rappellent plutôt les pertes que comporte toute transmission dramatique : nous lisons un mot parce qu'un compilateur s'intéressait à un objet. Le commentaire de la langue dorienne ne permet pas de distribuer des rôles entre Athéniens et Crétois. Le rire historique demeure asymétrique : le philologue a accès à une étiquette, pas à la gestuelle de l'acteur.
+
+### [B] Hegel, Nietzsche, Détienne et Vernant : pertinence et limites
+
+L'esthétique hégélienne peut inspirer une lecture de l'écart entre norme publique et singularité du geste, sans autoriser une filiation doctrinale. Le vocabulaire nietzschéen du dionysiaque rend pensable le renversement festif, mais il serait inexact d'en faire une donnée du fr. 7. La *mêtis* analysée par Détienne et Vernant offre un cadre interprétatif à la mobilité des objets et des usages, non un concept prononcé par un personnage. En l'absence de triade narrative attestée, aucune grille trifonctionnelle dumézilienne n'est probante ici. L'éthique du commentaire fragmentaire tient précisément à cet écart entre puissance interprétative et pauvreté documentaire.
+
+### [C] Quatre autres scènes contemporaines issues du manuscrit en attente
+
+Les dialogues qui suivent sont **des créations contemporaines** du second manuscrit, préservées textuellement. Ils n'ont jamais été écrits par Apollophanès, et ne proposent aucun nouvel extrait grec. Ils complètent les quatre scènes différentes du volume canonique ; ils ne prétendent pas restituer l'ordre des événements de la pièce perdue.
+
+
+### [C] Scène complémentaire I — « Avant le vote, la branche »
+
+*Une table nue. Sur la table, une branche de myrte. Le CONSEILLER examine trois cailloux ; le GREFFIER écrit sans lever les yeux. Une ÉTRANGÈRE observe le dispositif.*
+
+**LE CONSEILLER.** Voilà notre difficulté : nous devons savoir si la question peut être posée.
+
+**LE GREFFIER.** Je croyais que nous devions d'abord la résoudre.
+
+**LE CONSEILLER.** On ne peut résoudre ce qui n'a pas été admis comme question.
+
+**L'ÉTRANGÈRE.** Chez moi, lorsqu'on ignore si une question est recevable, on la pose.
+
+**LE GREFFIER.** Quelle économie de paroles ! Cela nous ruinerait.
+
+*Le Conseiller prend la branche, la retourne, compte les feuilles et s'interrompt.*
+
+**LE CONSEILLER.** Je ne pense bien que lorsque quelque chose m'occupe les mains.
+
+**L'ÉTRANGÈRE.** Alors pourquoi gouvernez-vous avec la bouche ?
+
+**LE GREFFIER.** Parce que la bouche peut dire une chose, puis son contraire, sans qu'il faille acheter de nouveaux cailloux.
+
+**LE CONSEILLER.** La branche signifie l'autorité.
+
+**L'ÉTRANGÈRE.** Et si elle se fanait ?
+
+**LE CONSEILLER.** L'autorité resterait.
+
+**L'ÉTRANGÈRE.** Alors cette branche ne la signifie guère.
+
+*Le Conseiller veut répondre, mais le Greffier demande quelle colonne du registre doit accueillir ce raisonnement.*
+
+**LE CONSEILLER.** Mets-le sous « objections qui ne changent rien ».
+
+**L'ÉTRANGÈRE.** Voilà une rubrique infinie.
+
+*Le Greffier retourne son rouleau : la rubrique occupe presque tout le document.*
+
+**LE GREFFIER.** Nous sommes au moins d'accord sur un point : la cité a de la suite dans les idées.
+
+*Noir. Cette scène ne représente aucun passage conservé d'Apollophanès.*
+
+### [C] Scène complémentaire II — « Le bureau des dieux admis »
+
+*Une porte marquée : « Les dieux reçus ici prouvent leur ancienneté ». L'ARCHIVISTE reçoit QUATRE VISITEURS. Aucun nom divin antique n'est attribué aux personnages.*
+
+**L'ARCHIVISTE.** Votre demande ?
+
+**LA PREMIÈRE VISITEUSE.** Un autel.
+
+**L'ARCHIVISTE.** Avant cela, un nom.
+
+**LA PREMIÈRE VISITEUSE.** Mes voisins m'appellent différemment selon la saison.
+
+**L'ARCHIVISTE.** Nous avons une case pour le surnom ; pas pour les saisons.
+
+**LE DEUXIÈME VISITEUR.** Je viens soigner les malades.
+
+**L'ARCHIVISTE.** Nous avons déjà des remèdes.
+
+**LE DEUXIÈME VISITEUR.** Alors pourquoi les malades viennent-ils ?
+
+**L'ARCHIVISTE.** C'est une question médicale, non administrative.
+
+**LA TROISIÈME VISITEUSE.** Je n'ai pas de ville d'origine.
+
+**L'ARCHIVISTE.** C'est impossible.
+
+**LA TROISIÈME VISITEUSE.** Pourtant je suis ici.
+
+**L'ARCHIVISTE.** « Ici » est une destination, non une origine.
+
+**LE QUATRIÈME VISITEUR.** Je peux promettre la chance.
+
+**L'ARCHIVISTE.** Vous garantissez les résultats ?
+
+**LE QUATRIÈME VISITEUR.** Je garantis que certains auront de la chance.
+
+**L'ARCHIVISTE.** Une garantie irréfutable. Voilà enfin une proposition sérieuse.
+
+*Les visiteurs découvrent une seconde porte réservée aux dieux « qui étaient là depuis toujours ». Elle conduit à la même salle, mais par le corridor le plus long.*
+
+**LA PREMIÈRE VISITEUSE.** Quand devient-on ancien ?
+
+**L'ARCHIVISTE.** Lorsque personne ne se rappelle votre arrivée.
+
+*Noir. Scène contemporaine [C], sans rapport textuel avec fr. 6.*
+
+### [C] Scène complémentaire III — « Le nom de la coupe »
+
+*Un AUBERGISTE tient trois récipients. Une VOYAGEUSE lui demande un vase dont elle prononce le nom d'une façon étrangère à l'usage local. Un GRAMMAIRIEN prend aussitôt des notes.*
+
+**L'AUBERGISTE.** Quel vase ?
+
+**LA VOYAGEUSE.** Celui qui garde le vin frais.
+
+**LE GRAMMAIRIEN.** Elle n'a pas répondu à la question.
+
+**LA VOYAGEUSE.** J'ai répondu à ce que sert la chose.
+
+**LE GRAMMAIRIEN.** Une chose ne sert à rien avant d'avoir son nom correct.
+
+**L'AUBERGISTE.** Chez moi, elle sert si quelqu'un paie.
+
+*La Voyageuse prononce de nouveau le mot, en allongeant la première voyelle. Le Grammairien fronce les sourcils.*
+
+**LE GRAMMAIRIEN.** Cette voyelle indique votre pays.
+
+**LA VOYAGEUSE.** Et le vin, qu'indique-t-il ?
+
+**LE GRAMMAIRIEN.** Le degré de votre instruction, si vous le buvez avec mesure.
+
+**L'AUBERGISTE.** Le degré de ma fortune, si vous le payez sans discuter.
+
+**LA VOYAGEUSE.** Décidez : veux-je une boisson ou une leçon ?
+
+**LE GRAMMAIRIEN.** Puisque vous êtes étrangère, les deux.
+
+*L'Aubergiste leur sert de l'eau. Le Grammairien y cherche un accent ; la Voyageuse y voit seulement son reflet.*
+
+**LA VOYAGEUSE.** Vous voyez ? Dans ce vase, même nos langues se ressemblent.
+
+**L'AUBERGISTE.** C'est que j'ai apporté le même prix pour tous.
+
+*Noir. Les mots et personnages sont imaginés ; il ne s'agit pas du fr. 7 mis en dialogue.*
+
+### [C] Scène complémentaire IV — « Le rivage sans frontière »
+
+*Deux MARINS, l'un venu d'une île, l'autre d'une cité continentale, discutent devant une corde étendue sur le sol. Un ENFANT essaie de la suivre sans sortir du tracé.*
+
+**LE PREMIER MARIN.** Cette corde sépare ta terre de la mienne.
+
+**LE SECOND MARIN.** Comment une corde pourrait-elle séparer des terres qui ne se touchent pas ?
+
+**LE PREMIER MARIN.** Elle représente la mer.
+
+**L'ENFANT.** Alors il manque les poissons.
+
+**LE SECOND MARIN.** Ils sont difficiles à compter.
+
+**LE PREMIER MARIN.** C'est pourquoi personne ne leur demande d'où ils viennent.
+
+*L'Enfant apporte un bol d'eau et le pose sur la corde.*
+
+**L'ENFANT.** Voilà la mer. Maintenant, la frontière est au bord du bol.
+
+**LE PREMIER MARIN.** Pas du tout. Le bol est à nous.
+
+**LE SECOND MARIN.** L'eau, en revanche, pourrait s'en aller.
+
+**L'ENFANT.** Elle ne peut le faire sans mouiller votre frontière.
+
+*Les deux marins veulent déplacer la corde ; chacun tient une extrémité. Ils reculent jusqu'à l'arracher sous le bol.*
+
+**LE PREMIER MARIN.** Voilà, nous avons agrandi la mer.
+
+**LE SECOND MARIN.** Tu as surtout renversé l'eau.
+
+**L'ENFANT.** Elle n'a pas choisi un côté.
+
+*Les deux marins restent immobiles, chacun les pieds mouillés. L'Enfant prend le bol vide.*
+
+**L'ENFANT.** Vous devriez peut-être demander aux étrangers comment se partage une chose qui circule.
+
+*Noir. Création moderne sans scène antique attestée.*
+
+# VIII. Synthèse critique, bibliographie et continuité
+
+
+
+### Continuité et intégrité des deux états
+
+L'étude du volume LXXIX garde sa numérotation et son chemin. La demande `8fbc061a-1dd7-4969-9b5e-69564a81aa83` demeure **entière** en inbox et **suspendue par `editorial/holds.json`**, afin qu'un nouveau numéro ne soit pas attribué à tort à la même comédie. La sélection ci-dessus ne vaut pas suppression ni réécriture de cette source historique. Le titre *Krêtes* chez Nicocharès, les *Krêtes* d'Euripide et les autres titres homonymes sont des dossiers d'auteurs distincts, non des numéros concurrents attribuables à une seule et même étude d'Apollophanès.
