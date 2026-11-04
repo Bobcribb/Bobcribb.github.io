@@ -82,7 +82,7 @@ CHAPTER_RULES = [
     (r'^epimenide\b', 'sanctuaires', 'Purification des cités et médiation rituelle'),
     (r'^eiresione\b', 'sanctuaires', 'Apollon — processions et offrandes'),
     (r'^bendis\b', 'sanctuaires', 'Cultes thraces et célébrations en Attique'),
-    (r'^kouretes\b', 'cosmogonies', 'Enfance de Zeus et traditions crétoises'),
+    (r'^(kouretes|couretes)\b', 'cosmogonies', 'Enfance de Zeus et traditions crétoises'),
     (r'^cnossos\b', 'sources', 'Archéologie égéenne : lieux et récits'),
     (r'^zeus meilichios\b', 'sanctuaires', 'Épithètes cultuelles et rites de purification'),
     (r'^(nyx|gaia|titanomachie|typhon|gigantomachie)\b', 'cosmogonies', 'Générations divines et conflits de souveraineté'),
