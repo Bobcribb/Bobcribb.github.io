@@ -127,6 +127,45 @@ class AllocationTests(unittest.TestCase):
         self.assertEqual((self.root / REGISTRY).read_bytes(), before)
         self.assertEqual(scan(self.root, "comparatif"), {})
 
+    def test_one_held_mc042_allows_first_allocation_without_identity_collision(self):
+        """Historical MC identity is distinct from the canonical number.
+
+        When two different manuscripts claim MC-042, a hash-locked hold on the
+        second must not suppress the first or permit a second MC-042 volume.
+        Neither original inbox manuscript may be rewritten by the allocator.
+        """
+        first = request(
+            self.root, "mc-042-measurement", "comparatif",
+            body="# Volume {{volume}} ({{numero}})\n"
+                 "## MC-042 — Mesurer le sacré\n\n"
+                 "Étude A : étalons, poids et justice.\n",
+        )
+        second = request(
+            self.root, "mc-042-scribes", "comparatif",
+            body="# Volume {{volume}} ({{numero}})\n"
+                 "## MC-042 — Qui écrit pour les dieux ?\n\n"
+                 "Étude B : Nisaba, Nabû, Thot et Seshat.\n",
+        )
+        originals = {p: p.read_bytes() for p in (first, second)}
+        self.hold(second)
+
+        self.assertEqual(apply(self.root), [
+            "chapitres/comparatif/volume-i-mc-042-measurement.md"
+        ])
+        state = json.loads((self.root / REGISTRY).read_text())["collections"]["comparatif"]
+        self.assertEqual(state["allocations"][first.stem]["number"], 1)
+        self.assertNotIn(second.stem, state["allocations"])
+        self.assertEqual({p: p.read_bytes() for p in (first, second)}, originals)
+        self.assertEqual(apply(self.root), [])
+
+        # An unreconciled hold must never be lifted as a shortcut to publish.
+        (self.root / HOLDS).unlink()
+        before = (self.root / REGISTRY).read_bytes()
+        with self.assertRaisesRegex(ValueError, "MC-042"):
+            apply(self.root)
+        self.assertEqual((self.root / REGISTRY).read_bytes(), before)
+        self.assertEqual({p: p.read_bytes() for p in (first, second)}, originals)
+
     def test_hold_rejects_manuscript_mutation_before_any_allocation(self):
         held = request(self.root, "attente")
         self.hold(held)
