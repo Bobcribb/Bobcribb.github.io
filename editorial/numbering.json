@@ -743,6 +743,12 @@
           "path": "chapitres/comparatif/volume-clxiv-philippe-descola-quatre-ontologies-nature-culture-mondes-vivants.md",
           "request_sha256": "a4a25572268a578c342ff2e3b781fc41b0e7865f29fe142f962b4921e42b08cd",
           "initial_source_sha256": "148a73faa2e8f950c0a6e9dd246fa3c1feab58e7e4c2741d9cf58acece2954fe"
+        },
+        "56d2c8e4-92b0-47f1-8d43-6f8a26c4a0db": {
+          "number": 165,
+          "path": "chapitres/comparatif/volume-clxv-eduardo-viveiros-de-castro-perspectivisme-amerindien-multinaturalisme-traduction.md",
+          "request_sha256": "747a0ce12d5034b1d289956e72d2278db9dc7908db8cb92c5fc7f6fa28938989",
+          "initial_source_sha256": "95c9610a710fe1fcdadb2be203e8f0ecedbf5feb9ac3dfd7ad8e4e17bea26029"
         }
       }
     }

@@ -1,0 +1,408 @@
+# MYTHOS — Cycle comparatif universitaire — Volume CLXV
+
+## Eduardo Viveiros de Castro : perspectivisme amérindien, multinaturalisme et diplomatie des mondes
+
+**Étude universitaire originale destinée à la publication publique — 4 novembre 2026.**  
+**Collection :** MYTHOS — mythologie comparée, anthropologie des religions et philosophie.  
+**Repère de continuité conversationnelle :** MC-037, après l'étude des vies divines transformées (repère MC-036), et après le dossier canonique sur Philippe Descola. Le numéro de publication est exclusivement attribué par la file GitHub ; le repère MC n'est pas un numéro canonique.  
+**Conservation :** aucune substitution aux textes antérieurs, aucun contenu WordPress ou privé, aucune modification des autres collections.
+
+### Résumé scientifique
+
+Dans les études anthropologiques de l'Amazonie, Eduardo Viveiros de Castro a élaboré une théorie du **perspectivisme amérindien** : dans divers récits et pratiques documentés, certains animaux et esprits sont des sujets qui se voient eux-mêmes sous une forme humaine ; leur relation au sang, à la nourriture, à la chasse ou au corps dépend du point de vue incorporé qu'ils occupent. Il ne s'agit pas de la thèse selon laquelle « toutes les opinions se valent », ni d'une croyance universelle attribuable à tous les peuples autochtones. Le perspectivisme conduit à examiner un **multinaturalisme** : des positions subjectives analogues peuvent coexister avec des mondes matériels différents du fait des corps, des capacités et des relations. La traduction doit tenir compte des conflits de référents plutôt que rechercher systématiquement un mot commun.
+
+Cette étude établit la chronologie des sources — ethnographie araweté, articles de 1996, 1998 et 2004, *Métaphysiques cannibales* —, reconstruit les notions de point de vue, corps, déixis, chasse, métamorphose et équivocation contrôlée, puis examine leurs limites. Le débat est confronté aux travaux de Lévi-Strauss, Descola, Strathern, Wagner, Latour, Bessire et Bond. Un laboratoire comparatif strictement contrôlé rapproche ces idées de scènes grecques d'Homère, de la cosmologie de Platon et des métamorphoses funéraires égyptiennes sans prétendre découvrir un perspectivisme antique identique. Nietzsche, Hegel et Ricœur servent à interroger le statut philosophique de la perspective, de la reconnaissance et de la traduction. Les communautés concernées sont décrites comme des sociétés contemporaines, non comme des survivances de l'Antiquité.
+
+**Légende documentaire.** **[A]** = attesté par une source primaire ou une notice scientifique identifiée ; **[B]** = interprétation historique/anthropologique argumentée ; **[C]** = hypothèse, rapprochement interculturel ou lecture philosophique moderne. Une source ethnographique primaire est déjà une médiation produite en relation avec ses interlocuteurs : elle ne constitue pas l'enregistrement transparent d'une « voix collective » homogène.
+
+---
+
+## I. Constitution du problème : qui voit quoi, depuis quelle position ?
+
+### 1. La perspective n'est pas une opinion [B]
+
+Le sens courant du mot perspective suggère plusieurs observateurs contemplant un même paysage : chacun en choisirait un angle, mais tous seraient supposés partager un objet préalable, intégralement constitué. Le perspectivisme étudié par Viveiros de Castro met en question cette prémisse. Il demande si l'identité même de ce qui est rencontré — boisson, proie, parent, ennemi, personne — peut dépendre de la position corporelle et relationnelle du sujet. Ce déplacement est plus fort qu'un simple relativisme culturel. La question n'est pas seulement « que pensent-ils ? », mais « quelles relations instituent une position depuis laquelle un être voit et est vu ? ».
+
+### 2. La thèse de 1996 [A]
+
+Viveiros de Castro formule un jalon dans « Os pronomes cosmológicos e o perspectivismo ameríndio », *Mana*, 2/2 (1996), p. 115-144, DOI : https://doi.org/10.1590/S0104-93131996000200005. Le titre est essentiel : les pronoms renvoient à des positions d'énonciation, non à des substances stables. Le résumé de l'article précise que les cosmologies considérées concernent la manière dont humains, animaux et esprits se perçoivent eux-mêmes et perçoivent les autres, et qu'elles invitent à redéfinir les oppositions nature/culture/surnature. L'article n'affirme pas qu'un inventaire de toutes les sociétés amérindiennes confirmerait un système identique.
+
+### 3. Le programme de 1998 [A]
+
+« Cosmological Deixis and Amerindian Perspectivism », *Journal of the Royal Anthropological Institute*, 4/3 (1998), p. 469-488, DOI : https://doi.org/10.2307/3034157, expose le modèle pour un lectorat anthropologique international. L'argument mobilise des matériaux ethnographiques de sociétés distinctes des basses terres sud-américaines. Il cherche des transformations comparables, non une religion panamazonienne unifiée. Les exemples célèbres du jaguar, du vautour ou de la proie sont des reconstructions ethnographiques situées dont l'extension doit toujours être contrôlée.
+
+### 4. Le risque d'une formule séduisante [B]
+
+Dire « pour le jaguar, le sang est de la bière » peut faire croire à une erreur de perception, au sens où une substance serait prise pour une autre. Dans le dispositif théorique, la phrase interroge plutôt ce que compte comme boisson, sang ou relation alimentaire pour différents sujets. Une lecture rigoureuse doit préciser si l'exemple provient d'un témoignage identifié, d'une variante mythique, d'une formule analytique ou d'une illustration pédagogique. Une aphorisation universelle transformerait un problème de traduction en exotisme.
+
+---
+
+## II. Les corpus ethnographiques et l'histoire de leur production
+
+### 5. Les Araweté : une population actuelle, pas une « tribu fossile » [A]
+
+Les Araweté constituent un peuple de langue tupi-guarani vivant dans la région du Xingu, au Pará, au Brésil. Les données recueillies auprès d'eux ont nourri la thèse publiée en portugais sous le titre *Araweté: os deuses canibais* (1986, 744 pages) et sa traduction anglaise *From the Enemy's Point of View: Humanity and Divinity in an Amazonian Society* (University of Chicago Press, 1992). Le catalogue de l'Instituto Socioambiental décrit les domaines étudiés : personne, mort, divinité, chants et pratiques chamaniques. Sources : https://acervo.socioambiental.org/acervo/livros/arawete-os-deuses-canibais et https://press.uchicago.edu/ucp/books/book/chicago/F/bo3644198.html. Le contexte historique du contact colonial, des conflits territoriaux et des transformations contemporaines est constitutif de toute lecture responsable.
+
+### 6. Le dossier ne se réduit pas aux Araweté [B]
+
+Les formulations de 1996 et 1998 s'appuient sur un corpus comparatif plus large. Le nom d'une société ne peut pas remplacer l'attribution précise d'une proposition. Les descriptions relatives à des peuples de langue tupi-guarani, à d'autres habitants de l'Amazonie ou aux rapports chasseurs-proies ne sont pas des variantes d'une unique religion. Des langues, écologies, histoires de contact, régimes de parenté et pratiques rituelles distincts doivent être conservés dans l'analyse. Cette exigence est renforcée lorsque le chercheur construit une catégorie aussi large que « perspectivisme amérindien ».
+
+### 7. L'archive n'est pas la voix des ancêtres [A/B]
+
+La thèse de 1986, son édition anglaise de 1992, l'article de 1996 et les synthèses ultérieures ne constituent pas quatre manuscrits indigènes transcrivant une tradition immuable. Ce sont des textes scientifiques portant la marque des questions de l'ethnographe, de ses interlocuteurs, de la traduction et des débats de son époque. Il est nécessaire de distinguer les chants rapportés, les commentaires des participants, les inférences interprétatives et les développements philosophiques de l'auteur. Cela n'amoindrit pas l'enquête ; cela rend ses procédures discutables et vérifiables.
+
+### 8. Le problème du canibalisme divin [A/B]
+
+Dans son étude des Araweté, Viveiros de Castro situe la consommation divine au centre des conceptions de la personne, de la mort et des rapports à l'altérité. Le thème ne doit pas être isolé comme une curiosité sensationnaliste, ni confondu avec une affirmation selon laquelle tous les peuples amazoniens pratiqueraient des formes identiques d'anthropophagie. Il concerne notamment des relations mythiques et rituelles de transformation. Le mot « cannibale » figure dans le titre du livre, mais la tâche de MYTHOS est d'expliquer la place de ce motif dans un système relationnel documenté.
+
+---
+
+## III. Philologie et théorie : déixis, corps et sujet
+
+### 9. Déixis : je, tu, il [A/B]
+
+En linguistique, la déixis concerne les expressions dont la référence dépend de la situation d'énonciation : « je », « ici », « maintenant », « celui-ci ». Le pronom « je » ne décrit pas une essence métaphysique réservée à un individu ; il désigne celui qui parle dans une situation déterminée. Viveiros de Castro transpose cette intuition à des positions cosmologiques. Lorsqu'un être se voit en personne, l'énoncé doit être compris depuis ce sujet, et non immédiatement traduit comme une erreur sur sa morphologie zoologique. Le passage du pronom linguistique à la position cosmologique est une opération théorique, non une étymologie amérindienne uniforme.
+
+### 10. Personne et humanité [B]
+
+Une distinction décisive oppose la personne en tant que position subjective et l'espèce humaine en tant que classification naturaliste. Dans certains récits rapportés, un animal ou un esprit se voit lui-même comme humain alors qu'un autre sujet le rencontre sous une figure animale ou dangereuse. Le mot « humain » doit ici être traité comme une modalité de relation, non comme une identification automatique à l'espèce *Homo sapiens*. Cela ne signifie pas que les interlocuteurs ignorent les différences biologiques entre espèces ; la théorie porte précisément sur la signification donnée à ces différences.
+
+### 11. La physicalité : un corps n'est pas seulement une enveloppe [B]
+
+Le corps joue un rôle central parce qu'il configure des habitudes, des affects, des capacités, des alimentations et des manières d'entrer en relation. Il ne s'agit pas de dire que la forme corporelle serait un simple costume arbitraire. La figure de la « vêture » animale, lorsqu'elle apparaît, doit être rattachée à des récits et à des pratiques déterminés. Dans la théorie, la différence des corps contribue à instituer les perspectives ; elle ne constitue pas une différence superficielle qui cacherait partout une humanité psychologique identique.
+
+### 12. Le multinaturalisme [B]
+
+Le naturalisme moderne prend généralement comme point de départ une nature commune, décrite par les sciences, et des perspectives culturelles multiples. Viveiros de Castro propose d'inverser cette formule pour comprendre les matériaux étudiés : un certain fonds de position subjective partagé, mais des « natures » distinctes selon les corps et les relations. Cette opposition « une culture / plusieurs natures » est un raccourci analytique, non un recensement de croyances. Il serait absurde d'en déduire que la chimie du sang change physiquement selon l'observateur. Le débat concerne la constitution sociale et cosmologique des référents.
+
+### 13. Lexique de contrôle [A/B]
+
+| Mot | Champ et précaution |
+|---|---|
+| *Perspectivismo* (portugais) | Proposition anthropologique sur les positions relatives des sujets ; pas synonyme de subjectivisme universel. |
+| *Deixis* / déixis (linguistique) | Référence dépendant de la position d'énonciation ; passage à la cosmologie construit par le chercheur. |
+| *Multinaturalismo* | Concept opposé par l'auteur au multiculturalisme ; n'affirme pas une physique expérimentale variable. |
+| *Corpo* / corps | Capacités, affects, habitudes et relations, au-delà de la seule anatomie. |
+| *Xamã* / chamane | Terme générique de comparaison ; les noms, fonctions et autorités locales doivent être spécifiés. |
+| Équivocation | Divergence des référents sous une expression traduite de manière identique. |
+| *Ontologie* | Catégorie métathéorique décrivant des régimes d'existence et de relation ; n'implique pas une homogénéité culturelle totale. |
+| Métamorphose | Passage ou changement de condition dans un récit ; elle ne démontre pas à elle seule le perspectivisme. |
+
+Ces mots sont des outils de travail. Aucune traduction brève ne remplace l'enquête sur les langues effectivement parlées par les interlocuteurs.
+
+---
+
+## IV. Jaguar, boisson et prédation : reconstruire un exemple sans folklore
+
+### 14. La scène du jaguar [B]
+
+Dans la discussion comparative de Viveiros de Castro, la relation entre un prédateur et ce qu'il absorbe sert à montrer que les objets ne sont pas identifiés indépendamment du sujet qui les constitue comme nourriture. L'exemple conventionnel du jaguar voyant du sang sous la forme d'une boisson de manioc est devenu emblématique. Il faut éviter deux contresens : le premier serait d'en tirer une proposition zoologique ; le second de le traiter comme une fable pittoresque illustrant l'incapacité des peuples étudiés à connaître « la réalité ». La question scientifique est la structure des relations de prédation, d'alimentation et de sociabilité.
+
+### 15. La proie n'est pas un objet neutre [B]
+
+Pour de nombreux chasseurs, les animaux ne sont pas seulement des ressources mesurables : les récits peuvent en faire des partenaires, adversaires, parents possibles ou maîtres d'espèces. Mais ces rapports ne sont pas interchangeables d'un terrain à l'autre. Une chasse réussie peut supposer des savoirs écologiques précis, des restrictions rituelles ou des obligations de redistribution. La cosmologie ne remplace ni la technique ni l'observation ; elle organise les relations dans lesquelles ces activités s'inscrivent.
+
+### 16. Le risque d'être vu comme proie [B]
+
+Le changement de perspective n'est pas toujours présenté comme une liberté agréable. Être saisi par le point de vue d'un prédateur ou d'un esprit peut devenir dangereux. Dans « O medo dos outros » (2011), Viveiros de Castro aborde la peur et l'attirance de l'altérité, notamment dans la relation aux jaguars, aux esprits et aux chamanes : https://doi.org/10.11606/2179-0892.ra.2011.39650. Une théorie exclusivement centrée sur la pluralité des mondes oublierait les asymétries, les frayeurs, les violences et les relations de domination présentes dans les récits.
+
+### 17. La formule doit rester située [A/B]
+
+Une phrase comme « les animaux sont des humains » ne constitue pas un relevé exhaustif des catégories sociales de l'Amazonie. Il faut préciser : dans quel récit ? selon quelle personne ? dans quelles situations ? avec quelles distinctions entre prédateurs, gibier, ancêtres et esprits ? La forme théorique du perspectivisme repose sur une comparaison de relations différenciées, pas sur l'abolition des catégories. L'analyste doit donc résister à la tentation de transformer son modèle en une nouvelle essence universelle des sociétés autochtones.
+
+---
+
+## V. Chamanisme : déplacement du point de vue et médiation
+
+### 18. Le spécialiste de la traversée [B]
+
+Dans le modèle de Viveiros de Castro, certains chamanes peuvent occuper ou négocier plusieurs positions de perspective, particulièrement lors des contacts avec les esprits. Mais l'expression « le chamane voit comme l'animal » ne désigne pas une compétence homogène à tous les spécialistes des Amériques. Il faut distinguer visions, chants, diagnostics, traitements et récits mythiques. Le statut social du chamane et les dangers qu'il affronte appartiennent à une histoire ethnographique, non à un modèle philosophique autosuffisant.
+
+### 19. Traduire sans effacer le danger [B]
+
+Une médiation chamanique peut chercher à rétablir des relations, interpréter une maladie ou négocier une transformation. Les catégories indigènes de maladie, de dommage et de puissance ne doivent pas être converties en descriptions biomédicales sans enquête. À l'inverse, elles ne doivent pas être utilisées pour recommander des traitements non vérifiés. Le corpus constitue une documentation sur les représentations et les pratiques, et non une démonstration de mécanismes surnaturels.
+
+### 20. L'altérité comme relation interne [B]
+
+Les travaux araweté insistent sur une personne qui ne se constitue pas exclusivement par l'identité à soi. La mort, la divinité et les rapports à l'ennemi peuvent impliquer des transformations dans lesquelles l'extérieur devient constitutif. L'énoncé doit rester une interprétation de matériaux localisés, et non une définition psychologique de tous les individus araweté. Les personnes étudiées participent aussi à des conflits politiques, à des décisions concrètes et à des transformations historiques qui ne sont pas épuisés par l'analyse cosmologique.
+
+---
+
+## VI. La traduction comme équivocation contrôlée
+
+### 21. Le texte de 2004 [A]
+
+« Perspectival Anthropology and the Method of Controlled Equivocation », *Tipití*, 2/1 (2004), article 1, https://digitalcommons.trinity.edu/tipiti/vol2/iss1/1/, constitue une source centrale. Viveiros de Castro y soutient que l'anthropologie compare des opérations de comparaison : ses interlocuteurs produisent déjà des distinctions, des analogies et des classements. L'enquête n'oppose donc pas une science traduisante à un matériau muet. Elle met en relation des activités de description de mondes qui peuvent ne pas coïncider.
+
+### 22. L'homonymie trompeuse [B]
+
+Deux interlocuteurs peuvent utiliser un mot rendu en français par « personne », « corps » ou « nourriture », sans que leurs critères d'identification soient identiques. L'équivocation n'est pas seulement une erreur accidentelle de dictionnaire. Elle peut résulter du fait que ce que l'un considère comme un objet commun devient, dans la relation de l'autre, un être doté d'intentions ou une substance d'un autre statut. Contrôler l'équivocation ne signifie pas la supprimer ; il s'agit de la rendre explicite et d'indiquer où les traductions divergent.
+
+### 23. Exemple méthodologique construit [C]
+
+Imaginons un catalogue traduisant, dans deux sociétés, une catégorie locale par « animal ». Dans un cas, elle pourrait désigner une espèce zoologique ; dans l'autre, un ensemble d'êtres qui deviennent des interlocuteurs seulement sous des conditions rituelles spécifiques. Présenter les deux comme possédant « le même concept d'animal » ferait disparaître une divergence fondamentale. Il faut demander comment le terme est utilisé, qui peut l'employer, quels êtres y sont inclus et quelles conséquences pratiques il implique. Cet exemple est **construit pour l'analyse** ; il ne reproduit aucune parole attribuée aux Araweté.
+
+### 24. Une éthique de la traduction [B/C]
+
+La traduction responsable ne consiste ni à accorder automatiquement raison à chaque énoncé, ni à le réduire d'emblée à une croyance erronée. Elle expose la différence des critères et des institutions qui donnent sens aux propositions. Elle ne doit pas non plus permettre à l'anthropologue de parler à la place des personnes concernées sans possibilité de contestation. La publication scientifique devrait rendre accessibles les sources, les décisions de traduction et, lorsque cela est possible et approprié, les contributions directes des chercheurs autochtones.
+
+---
+
+## VII. Du perspectivisme de Viveiros de Castro aux ontologies de Descola
+
+### 25. Une proximité intellectuelle, pas une équivalence [B]
+
+Descola propose quatre modes d'identification — animisme, totémisme, analogisme et naturalisme — en fonction des continuités et différences d'intériorité et de physicalité. Viveiros de Castro insiste plus précisément sur la relation entre point de vue, corporéité, altérité et traduction, en particulier dans plusieurs matériaux amazoniens. Les deux auteurs contestent la projection universelle de la séparation nature/culture. Mais leur statut des comparaisons n'est pas identique : une combinatoire des identifications et une théorie relationnelle de la perspective ne sont pas deux noms pour un seul dispositif.
+
+### 26. Le naturalisme et sa critique [B]
+
+Le naturalisme, au sens de Descola, constitue un schème comparatif, non un simple synonyme de la méthode expérimentale. Le perspectivisme ne réfute pas la biologie ou la physique ; il problématise les catégories dans lesquelles les différences matérielles prennent sens pour des êtres. Une analyse universitaire doit empêcher que la critique d'un dualisme philosophique se transforme en négation empirique de la connaissance scientifique. La question concerne les conditions de coexistence de descriptions hétérogènes et les rapports de pouvoir qui les hiérarchisent.
+
+### 27. La question de l'histoire [B]
+
+Un mode d'identification n'explique pas, à lui seul, la colonisation, les frontières d'un territoire, l'accès à la santé, l'infrastructure ou l'économie politique. Une anthropologie des mondes doit conserver la profondeur temporelle des rapports sociaux. La pluralité des ontologies ne dispense pas d'étudier les entreprises extractives, les administrations nationales, les conflits fonciers et la capacité des peuples autochtones à définir leurs propres priorités politiques contemporaines.
+
+---
+
+## VIII. Claude Lévi-Strauss : transformation mythique et différences structurales
+
+### 28. L'héritage structural [A/B]
+
+Lévi-Strauss a étudié les transformations entre mythes, rapports de parenté et classifications du vivant. Les *Mythologiques* — *Le Cru et le Cuit* (1964), *Du miel aux cendres* (1966), *L'Origine des manières de table* (1968), *L'Homme nu* (1971) — constituent un arrière-plan majeur. Il ne s'agit pas de considérer qu'un mythe possède un sens unique caché ; la comparaison porte sur les relations qui se transforment entre versions. Viveiros de Castro reprend ce souci des transformations, tout en déplaçant la question vers la position des sujets et la relation de l'anthropologue au matériau qu'il traduit.
+
+### 29. La pensée sauvage n'est pas pensée déficiente [B]
+
+Dans *La Pensée sauvage* (1962), Lévi-Strauss montre la richesse logique des classements et la cohérence de pratiques longtemps tenues pour irrationnelles. La recherche contemporaine peut prolonger cette critique sans substituer une célébration indistincte de « savoirs autres » à l'examen des preuves. Il faut distinguer les connaissances écologiques efficaces, les représentations mythiques, les institutions sociales et les interprétations de l'ethnographe. Les regrouper sans examen sous la catégorie de « sagesse ancestrale » serait aussi réducteur que les disqualifier.
+
+### 30. De l'opposition binaire à la relation [B/C]
+
+La question n'est plus seulement de savoir comment les mythes ordonnent une opposition nature/culture, cru/cuit ou humain/animal. Elle devient : qui occupe chaque position, depuis quel corps et selon quel régime d'interaction ? Cette interrogation rend possible une relecture des transformations mythiques tout en rendant explicite la différence entre modèle structural et modèle perspectiviste. Les deux approches peuvent dialoguer ; leur compatibilité totale n'est pas démontrée.
+
+---
+
+## IX. Contre-épreuves grecques : Circé, Protée et le corps transformé
+
+### 31. Circé, *Odyssée* X, environ 210-243 [A]
+
+Dans le chant X, Circé accueille les compagnons d'Ulysse et leur administre une préparation qui les transforme en porcs. Le poème insiste sur la métamorphose corporelle et sur la persistance d'une intelligence reconnaissable derrière le changement d'apparence. La séquence interroge donc la relation entre morphologie, conscience et identité. Mais elle ne dit pas que les porcs voient les humains comme des porcs, ni qu'un monde propre aux porcs serait organisé par un point de vue cosmologique analogue à celui analysé en Amazonie.
+
+### 32. Ce que le parallèle autorise et interdit [C]
+
+Le rapprochement avec les corps perspectivistes permet de demander si la forme visible suffit à définir une personne. Il échoue si l'on en déduit que le récit homérique possède le même schème ontologique que les cosmologies documentées par Viveiros de Castro. Circé exerce une transformation magique dans une intrigue de retour héroïque ; les enjeux portent sur le pouvoir de la déesse, la vulnérabilité des compagnons et l'habileté d'Ulysse. La similarité lexicale du mot métamorphose ne prouve pas une parenté historique.
+
+### 33. Protée, *Odyssée* IV, environ 384-460 [A]
+
+Ménélas doit saisir Protée, divinité marine capable de prendre successivement plusieurs formes, pour obtenir un savoir. La métamorphose sert ici une stratégie d'évasion et de résistance à l'interrogation. Le récit montre qu'une même puissance peut présenter plusieurs corps. Il ne décrit cependant pas une succession de perspectives animales qui reclasseraient le monde selon leurs relations alimentaires. L'analogie porte sur la mobilité de la forme, pas sur l'identité des catégories cosmologiques.
+
+### 34. Platon, *Timée* 29d-30c [A/B]
+
+Le démiurge organise un monde vivant et intelligible. Le cosmos est présenté comme un être doté d'âme et d'intelligence, sous une structure téléologique propre à Platon. Il est utile de le confronter à la définition moderne d'un monde de sujets et d'intentionnalités ; mais le *Timée* propose une cosmologie philosophique grecque, non une ethnographie de la chasse. Affirmer que « Platon était animiste » ferait disparaître ses débats particuliers sur le modèle intelligible, la nécessité et les causes.
+
+### 35. Le danger de l'« antiquité amérindienne » [C]
+
+Les Grecs anciens ne sont pas des peuples amazoniens situés dans le passé européen, de même que les peuples amazoniens contemporains ne représentent pas une enfance de la civilisation. Le comparatisme n'a de valeur que s'il préserve la distance historique et sociale. Les scènes de Circé et de Protée constituent ici un *laboratoire conceptuel*, pas un argument de diffusion, d'héritage ou d'origine commune. Toute équivalence plus forte exigerait des relais linguistiques et documentaires inexistants pour ces corpus.
+
+---
+
+## X. Égypte ancienne : transformation funéraire et statut des êtres
+
+### 36. Les chapitres de transformations du *Livre des Morts* [A]
+
+Le *Livre des Morts* comprend une série de formules permettant au défunt de prendre différentes formes. Le chapitre 77 concerne notamment la transformation en faucon d'or ; le chapitre 87 celle d'un serpent, et le chapitre 88 celle d'un crocodile. Le Fitzwilliam Museum documente précisément ces thèmes dans le papyrus de Ramose, haut fonctionnaire du XIIIe siècle avant notre ère : https://book-of-the-dead.fitzmuseum.cam.ac.uk/explore/the-book-of-the-dead/spell-77 et https://book-of-the-dead.fitzmuseum.cam.ac.uk/explore/books/spells/87-1. Les compositions sont funéraires : elles visent l'efficacité religieuse et la mobilité du défunt.
+
+### 37. Le faucon de Ramose n'est pas le jaguar perspectiviste [C]
+
+La comparaison révèle l'importance des corps non humains dans une réflexion sur l'identité personnelle. Mais le défunt égyptien adopte rituellement une forme en vue de sa survie dans l'au-delà, tandis que les positions animales du perspectivisme appartiennent à des relations cosmologiques et ethnographiques spécifiques. Le chapitre 77 ne prouve pas que tous les Égyptiens attribuaient à chaque faucon une société humaine cachée. Il ne peut pas davantage être interprété comme une préfiguration d'une théorie anthropologique du XXe siècle.
+
+### 38. Thot, Anubis et l'iconographie composite [A/B]
+
+Les représentations animales ou à tête animale des dieux égyptiens exigent leur propre analyse iconographique. Elles peuvent signifier une manifestation, une puissance, une relation cultuelle ou une convention visuelle, selon les périodes et les contextes. L'image d'Anubis à tête de canidé ne constitue pas une proposition littérale selon laquelle un humain aurait changé d'espèce. Le théonyme, l'épithète, le lieu de culte et le type d'objet doivent être identifiés avant toute comparaison avec les catégories de personne ou de métamorphose.
+
+---
+
+## XI. Philosophie comparée : Nietzsche, Hegel et Ricœur
+
+### 39. Nietzsche : la vérité et la perspective [C]
+
+Dans *La Généalogie de la morale*, III, §12, Nietzsche critique l'idéal d'un regard pur, détaché de toute condition. Son perspectivisme interroge le statut des affects, des interprétations et des forces qui composent la connaissance. La proximité lexicale avec Viveiros de Castro ne prouve pas une identité conceptuelle. Nietzsche discute les conditions et la valeur des interprétations dans une généalogie philosophique ; Viveiros de Castro construit des catégories à partir d'enquêtes ethnographiques et d'opérations de traduction. Les deux permettent d'interroger un sujet prétendument neutre, mais ne répondent pas au même problème.
+
+### 40. Hegel : reconnaissance et positions [C]
+
+Dans la *Phénoménologie de l'esprit*, la conscience se constitue par des relations dans lesquelles intervient la reconnaissance. Cette notion peut aider à poser la question : un être peut-il être sujet pour lui-même et objet pour un autre ? Pourtant la reconnaissance hégélienne est intégrée à une dialectique historique et philosophique spécifique. Elle ne décrit pas les interactions entre chasseurs, jaguars et esprits rapportées par l'ethnographie. Son utilisation doit être présentée comme un dialogue critique, non comme une théorie déjà présente chez les interlocuteurs amazoniens.
+
+### 41. Ricœur : identité, récit, traduction [C]
+
+Les analyses de l'identité narrative et de la traduction chez Ricœur permettent d'interroger les effets d'une histoire lorsqu'elle passe d'une langue à une autre. Mais elles ne garantissent pas qu'une équivalence soit réalisable partout. La méthode de l'équivocation contrôlée insiste précisément sur le moment où la traduction fait apparaître des référents irréductiblement distincts sous des mots communs. Ricœur fournit des questions sur le rapport à l'autre ; la traduction anthropologique fournit les contraintes documentaires de l'enquête.
+
+### 42. Un dialogue, pas une généalogie forcée [C]
+
+L'histoire de la pensée ne doit pas établir une fausse ligne de continuité « métamorphoses grecques → Hegel → Nietzsche → perspectivisme amérindien ». Ces matériaux proviennent d'époques, de genres et de relations sociales profondément différents. Leur confrontation sert à tester la puissance des concepts : le point de vue, la forme, la reconnaissance, le corps et la traduction. Une analogie féconde reste une analogie ; elle ne devient transmission historique qu'en présence de preuves indépendantes.
+
+---
+
+## XII. Critiques : ontologie, pouvoir, politique, histoire
+
+### 43. La mise en garde de Bessire et Bond [A/B]
+
+Lucas Bessire et David Bond, « Ontological Anthropology and the Deferral of Critique », *American Ethnologist*, 41/3 (2014), p. 440-456, DOI : https://doi.org/10.1111/amet.12083, critiquent certaines manières de transformer l'altérité indigène en une ressource pour le renouvellement théorique de l'anthropologie. Ils demandent ce que cette posture laisse de côté : extractivisme, violence, inégalités, situation présente des interlocuteurs et relations matérielles. Leur critique ne prouve pas que toute recherche sur les ontologies serait impossible ; elle exige que la différence des mondes n'efface pas la politique de leurs rencontres.
+
+### 44. L'essentialisation inversée [B]
+
+Une anthropologie attentive à l'altérité peut malgré elle assigner une population à une identité cosmologique obligatoire : tous ses membres seraient animistes, tous ses récits perspectivistes, toutes ses relations harmonieuses avec la forêt. Cette fixation dépossède les personnes de leur droit à la contradiction, à la pluralité religieuse et au changement historique. Les enquêtes doivent rendre visibles les débats internes et ne pas transformer les interlocuteurs en illustrations parfaites d'une théorie occidentale.
+
+### 45. L'enjeu écologique [B/C]
+
+Les concepts perspectivistes peuvent aider à interroger une politique qui traite uniquement les animaux, les forêts et les fleuves comme des ressources. Mais les pratiques écologiques doivent être étudiées empiriquement : savoirs locaux, territoires, techniques, marchés, contraintes juridiques, décisions collectives et transformations climatiques. Il serait scientifiquement irresponsable d'affirmer que le perspectivisme assure à lui seul une gestion durable des milieux. L'intérêt du concept est de rendre pensables d'autres relations, non de dispenser de mesurer les effets réels des activités.
+
+### 46. Coexistence de savoirs [B]
+
+La possibilité de traduire des cosmologies différentes n'impose pas l'abandon de la méthode scientifique. Les analyses biologiques, historiques, archéologiques et anthropologiques peuvent être combinées à condition de clarifier leurs objets et leurs modes de preuve. Une affirmation sur les comportements du jaguar n'est pas une affirmation sur une cérémonie de chasse ; une théorie de la personne ne constitue pas une donnée taxonomique. L'« équivocation contrôlée » devient une méthode de précision lorsqu'elle indique ce qui est mesuré, dit, représenté et inféré.
+
+### 47. Les droits intellectuels et les images [B]
+
+Le texte anthropologique n'autorise pas la republication sans examen de photographies prises auprès de communautés autochtones, de chants, d'images cérémonielles ou de paroles portant des restrictions culturelles. Le statut public d'une page n'équivaudra jamais à une cession de tous les droits de reproduction. Pour MYTHOS, une image documentaire ne doit être intégrée qu'après contrôle de l'auteur, de l'institution, de la licence, du contexte de la prise de vue et des éventuelles restrictions imposées par les communautés représentées. Un simple lien de consultation peut être préférable à une copie.
+
+---
+
+## XIII. Deux études de cas comparatives contrôlées
+
+### 48. Être humain sous une forme animale [C]
+
+**Cas grec.** La coupe attique de Circé, Boston, Museum of Fine Arts, 99.518, représente des compagnons d'Ulysse sous des formes animales hybrides ; le texte homérique situe la métamorphose dans une ruse magique. **Cas amazonien.** Les positions animales du perspectivisme concernent notamment la capacité de sujets non humains à se percevoir en personnes depuis un corps propre. **Conclusion.** Les deux dossiers invitent à distinguer apparence et statut de personne, mais divergent dans leurs dispositifs narratifs. Aucune identité historique ou ontologique n'est démontrée.
+
+### 49. Devenir oiseau pour traverser un monde [C]
+
+**Cas égyptien.** Le chapitre 77 du *Livre des Morts* transforme rituellement le défunt en faucon d'or, lui donnant des capacités de déplacement et d'action dans l'au-delà. **Cas amazonien.** Le déplacement de perspective peut être lié à des positions de sujets animaux, à des relations avec les esprits et à des médiations chamaniques. **Conclusion.** Le point commun se limite à la relation entre corps et capacité d'action. Les régimes de preuve, les acteurs, les finalités et les cosmologies diffèrent. L'un ne sert pas de clé herméneutique universelle pour l'autre.
+
+### 50. Tableau de précaution [B/C]
+
+| Problème | Amazonie : dossier Viveiros de Castro | Grèce | Égypte | Statut comparatif |
+|---|---|---|---|---|
+| Corps et sujet | Positions relationnelles de personnes humaines/non humaines | Circé, identité après la métamorphose | Transformation funéraire du défunt | Analogie de problème seulement |
+| Transformation | Changement de position et de capacité | Protée, variation des formes | Formules de transformation en oiseau | Pratiques et genres différents |
+| Savoir | Traduction d'une perspective autre | Divination et sagesse héroïque | Connaissance rituelle du défunt | Pas de filiation attestée |
+| Animalité | Proies et prédateurs comme partenaires ou sujets, selon les récits | Animaux du récit mythique et de la vie cultuelle | Formes animales divines | Catégories non interchangeables |
+| Histoire | Enquêtes contemporaines, colonisation, politique territoriale | Corpus archaïque/classique transmis par manuscrits | Documents funéraires et cultuels pharaoniques | Aucune diffusion démontrée |
+
+---
+
+## XIV. Registre historiographique : ce que l'on sait, ce que l'on propose
+
+### 51. Attestations directes [A]
+
+Sont vérifiables : l'existence des articles de 1996, 1998 et 2004 ; la monographie araweté de 1986 et sa traduction de 1992 ; les arguments explicitement formulés dans les résumés scientifiques ; les passages antiques d'Homère sur Circé et Protée ; les chapitres 77 et 87 du *Livre des Morts* documentés par les musées. Les notices d'inventaire et références bibliographiques sont données ci-dessous pour vérification indépendante.
+
+### 52. Interprétations soutenues [B]
+
+Relèvent de l'analyse : l'importance du corps comme opérateur de perspective ; le caractère relationnel de la notion de personne ; le sens du multinaturalisme ; les effets de traduction et la proximité critique avec les ontologies de Descola. Ces propositions sont appuyées par les publications identifiées ; elles restent ouvertes à la discussion, à la contestation et à la précision ethnographique.
+
+### 53. Hypothèses contrôlées [C]
+
+Relèvent de la lecture expérimentale : la confrontation avec Nietzsche, Hegel et Ricœur ; l'usage de Circé, Protée et des transformations funéraires égyptiennes pour examiner la relation entre corps et identité ; la portée des concepts pour des controverses écologiques contemporaines. Ces rapprochements ne prouvent ni un universel religieux ni une filiation entre l'Amazonie et les civilisations anciennes.
+
+### 54. Ce que le chapitre ne prétend pas établir [B]
+
+Il n'affirme pas que chaque peuple amérindien partage le même perspectivisme ; que chaque animal serait partout réputé humain ; que la perspective altérerait la composition chimique des substances ; que les mythes grecs attesteraient une métaphysique amazonienne ; ni que l'ethnographie moderne autoriserait la publication indiscriminée d'images et de savoirs autochtones. Ces limites font partie de la démonstration, non d'une réserve ajoutée après coup.
+
+---
+
+## XV. Programme iconographique avec sources et droits
+
+### 55. Carte critique des terrains [A/C]
+
+Une carte originale MYTHOS doit situer le territoire araweté dans la région du Xingu, au Pará, sans afficher de localisation sensible de personnes ou de lieux rituels. La légende doit attribuer toute donnée territoriale à une source datée, notamment à l'Instituto Socioambiental : https://pib.socioambiental.org/pt/Povo:Araweté. Les frontières territoriales et l'appartenance linguistique ne doivent pas être confondues avec l'aire d'application théorique du perspectivisme.
+
+### 56. Documentation des chants et instruments [A]
+
+L'Instituto Socioambiental conserve des documents sur les Araweté et le travail ethnographique de Viveiros de Castro : https://acervo.socioambiental.org/acervo/livros/arawete-os-deuses-canibais. Le matériel comprend des images historiques, mais MYTHOS ne doit pas les télécharger automatiquement. La légende de toute photographie doit identifier le photographe, la date, le contexte de production, la source, le droit de reproduction et, lorsque c'est approprié, le consentement à une diffusion nouvelle. Aucun instrument ne doit être légendé comme « objet d'une religion amazonienne universelle ».
+
+### 57. Circé et les compagnons d'Ulysse [A]
+
+Le Musée des beaux-arts de Boston conserve la coupe attique à figures noires inv. **99.518**, attribuée au peintre du Polyphème de Boston, vers 560-550 av. J.-C., représentant Circé et des compagnons aux formes animales. Identification iconographique à contrôler dans le catalogue du musée et dans le Beazley Archive (n° 302569). Cette image illustre *l'Odyssée* ; elle ne représente pas le perspectivisme amérindien. Une reproduction exige le respect des droits de la photographie.
+
+### 58. Cratère attique du Peintre de Perséphone [A]
+
+Le Metropolitan Museum of Art conserve un cratère en calice attribué au Peintre de Perséphone, env. 440 av. J.-C., inv. **41.83**, où une scène est traditionnellement interprétée comme la confrontation d'Ulysse avec Circé. Fiche de référence : https://www.metmuseum.org/art/collection/search/253627. Les identifications de personnages doivent être réexaminées dans la notice de l'objet. La photographie de collection et la licence doivent être contrôlées avant intégration.
+
+### 59. Papyrus de Ramose : le faucon d'or [A]
+
+Le Fitzwilliam Museum de Cambridge fournit une notice sur le *Livre des Morts* de Ramose, dignitaire du XIIIe siècle avant notre ère : https://fitzmuseum.cam.ac.uk/learn-with-us/look-think-do/book-of-the-dead-of-ramose ; et une édition thématique du chapitre 77 : https://book-of-the-dead.fitzmuseum.cam.ac.uk/explore/the-book-of-the-dead/spell-77. Utiliser une image avec crédit institutionnel et autorisation conforme à la licence. Ne jamais légender cette transformation comme un équivalent direct des corps animaux des cosmologies amazoniennes.
+
+### 60. Les mondes amazoniens contemporains [A/B]
+
+Le musée du quai Branly – Jacques Chirac a présenté l'exposition **Amazônia. Créations et futurs autochtones**, du 30 septembre 2025 au 18 janvier 2026, construite autour de créations autochtones contemporaines et de collections historiques : https://quaibranly.fr/fr/expositions-evenements/au-musee/expositions/details-de-levenement/e/amazonia. Le catalogue et les notices permettent de privilégier les œuvres identifiées et leurs auteurs, plutôt que des images ethnographiques anonymisées. L'exposition ne doit pas être présentée comme spécifiquement consacrée à Viveiros de Castro.
+
+### 61. Diagramme original : qui voit et qui est vu ? [C]
+
+Produire un schéma pédagogique original distinguant trois colonnes : **sujet situé**, **relation et capacité corporelle**, **référent constitué**. Exemple abstrait : le même contact entre deux êtres peut être classé comme alimentation, prédation ou communication selon la position des participants. Ce graphique doit porter explicitement la mention « schéma analytique contemporain inspiré d'une théorie anthropologique ; aucune transcription d'un savoir rituel local ». Cette option évite de détourner des images culturelles à des fins décoratives.
+
+---
+
+## XVI. Bibliographie critique et sources vérifiables
+
+### 62. Corpus principal [A]
+
+1. Viveiros de Castro, Eduardo B., *Araweté: os deuses canibais*, Rio de Janeiro, Jorge Zahar, 1986. Notice et documentation : https://acervo.socioambiental.org/acervo/livros/arawete-os-deuses-canibais.
+2. Viveiros de Castro, Eduardo, *From the Enemy's Point of View: Humanity and Divinity in an Amazonian Society*, traduction Catherine V. Howard, University of Chicago Press, 1992 : https://press.uchicago.edu/ucp/books/book/chicago/F/bo3644198.html.
+3. Viveiros de Castro, Eduardo, « Os pronomes cosmológicos e o perspectivismo ameríndio », *Mana*, 2/2, 1996, p. 115-144. DOI : https://doi.org/10.1590/S0104-93131996000200005.
+4. Viveiros de Castro, Eduardo, « Cosmological Deixis and Amerindian Perspectivism », *Journal of the Royal Anthropological Institute*, 4/3, 1998, p. 469-488. DOI : https://doi.org/10.2307/3034157.
+5. Viveiros de Castro, Eduardo, « Perspectival Anthropology and the Method of Controlled Equivocation », *Tipití*, 2/1, 2004, article 1 : https://digitalcommons.trinity.edu/tipiti/vol2/iss1/1/.
+6. Viveiros de Castro, Eduardo, *Métaphysiques cannibales. Lignes d'anthropologie post-structurale*, Paris, Presses universitaires de France, 2009.
+7. Viveiros de Castro, Eduardo, « O medo dos outros », *Revista de Antropologia*, 2011. DOI : https://doi.org/10.11606/2179-0892.ra.2011.39650.
+
+### 63. Théories et controverses [A]
+
+8. Descola, Philippe, *La Nature domestique*, 1986 ; *Les Lances du crépuscule*, 1993 ; *Par-delà nature et culture*, Gallimard, 2005 ; *Les Formes du visible*, 2021.
+9. Lévi-Strauss, Claude, *La Pensée sauvage*, Plon, 1962 ; *Le Cru et le Cuit*, Plon, 1964 ; *Histoire de lynx*, Plon, 1991.
+10. Wagner, Roy, *The Invention of Culture*, 1975.
+11. Strathern, Marilyn, *The Gender of the Gift*, University of California Press, 1988.
+12. Latour, Bruno, *Nous n'avons jamais été modernes*, La Découverte, 1991.
+13. Holbraad, Martin, et Morten Axel Pedersen, *The Ontological Turn: An Anthropological Exposition*, Cambridge University Press, 2017.
+14. Bessire, Lucas, et David Bond, « Ontological Anthropology and the Deferral of Critique », *American Ethnologist*, 41/3, 2014, p. 440-456. DOI : https://doi.org/10.1111/amet.12083.
+15. Kohn, Eduardo, *How Forests Think: Toward an Anthropology Beyond the Human*, University of California Press, 2013.
+
+### 64. Sources antiques et philosophie [A/C]
+
+16. Homère, *Odyssée*, IV, env. 384-460 (Protée) ; X, env. 210-243 (Circé). Les repères doivent être contrôlés selon l'édition grecque employée.
+17. Platon, *Timée*, 29d-30c : l'organisation d'un cosmos vivant.
+18. *Livre des Morts* égyptien, ch. 77, 87 et 88, notamment papyrus de Ramose, Fitzwilliam Museum, documentation institutionnelle citée en section XV.
+19. Nietzsche, Friedrich, *La Généalogie de la morale*, III, §12.
+20. Hegel, G. W. F., *Phénoménologie de l'esprit*, section sur la conscience de soi et la reconnaissance.
+21. Ricœur, Paul, *Soi-même comme un autre*, Seuil, 1990 ; *Sur la traduction*, Bayard, 2004.
+
+### 65. Matrice de vérification [A/B/C]
+
+| Proposition | Source principale | Niveau |
+|---|---|---|
+| Formulation de 1996 sur les positions humaines, animales et spirituelles | *Mana* 2/2, DOI 10.1590/S0104-93131996000200005 | A |
+| Modèle de déixis cosmologique | *JRAI* 4/3 (1998) | A/B |
+| Le corps définit une capacité de perspective | Viveiros de Castro 1996/1998 ; discussions avec Descola | B |
+| Méthode de l'équivocation contrôlée | *Tipití* 2/1 (2004) | A/B |
+| Relativité des identifications grecques à une théorie amazonienne | *Odyssée* IV et X, comparaison présente | C |
+| Transformation funéraire en faucon d'or | *Livre des Morts* ch. 77, Fitzwilliam | A |
+| Risque d'effacement politique par l'ontologie | Bessire et Bond, 2014 | A/B |
+| Nietzsche et perspectivisme anthropologique : dialogue possible | *Généalogie* III, §12, lecture présente | C |
+| Universalité du perspectivisme à l'ensemble des Amériques | Aucune démonstration générale | Non établie |
+| Transmission historique entre Amazonie, Grèce et Égypte | Aucune chaîne documentaire apportée | Non établie |
+
+---
+
+## XVII. Conclusion générale : la perspective comme relation, non comme privilège de l'observateur
+
+### 66. Ce que le perspectivisme déplace [B]
+
+L'apport central du perspectivisme amérindien n'est pas d'ajouter une croyance exotique à une encyclopédie des mythologies. Il consiste à forcer la comparaison à réexaminer son point de départ : l'observateur, la matière, les formes animales et les catégories supposées communes. L'enquête ne peut décrire des sujets différents en postulant sans examen que chacun rencontre exactement les mêmes objets dans les mêmes relations. Le corps et la position sociale interviennent dans la constitution de ce qui est reconnu comme personne, nourriture, ennemi, proche ou puissance.
+
+### 67. La comparaison ne devient légitime qu'en maintenant ses discontinuités [B/C]
+
+Circé, Protée et les transformations funéraires du *Livre des Morts* montrent que les Grecs et les Égyptiens ont également pensé des passages entre apparences, capacités et identités. Mais ils ne sont pas pour autant des preuves du perspectivisme amazonien. La comparabilité naît d'une question partagée — qu'est-ce qu'un sujet quand sa forme change ? — et non d'une réponse religieuse identique. La philologie des textes, la datation des témoins, le contexte des objets et la reconnaissance des auteurs vivants interdisent une fusion simplificatrice.
+
+### 68. La conséquence politique et intellectuelle [B/C]
+
+Prendre au sérieux une pluralité de mondes ne signifie ni abandonner toute vérification empirique, ni idéaliser des peuples supposés vivre hors de l'histoire. Cela signifie se rendre responsable des opérations de traduction, conserver la possibilité que les interlocuteurs contestent l'analyse, et inscrire les représentations religieuses dans les rapports matériels de leur époque. Le différend sur la nature d'un animal, d'une forêt ou d'un esprit n'est pas dissociable des conditions dans lesquelles une communauté peut continuer à habiter son territoire.
+
+**Conclusion :** le perspectivisme amérindien fournit moins une doctrine universelle de la métamorphose qu'une exigence de méthode. Comprendre une relation suppose d'identifier le sujet qui parle, le corps depuis lequel il agit, l'autre auquel il s'adresse et les conséquences de ce rapport. Pour une encyclopédie de mythologie comparée, ce principe est décisif : comparer exige de traduire les différences sans les détruire.
+
+---
+
+**Fin du manuscrit.** Dossier public et autonome ; indexation canonique à effectuer par GitHub Actions. Les études antérieures, notamment le dossier Philippe Descola et le dossier thématique MC-036, demeurent intégrales et inchangées.
