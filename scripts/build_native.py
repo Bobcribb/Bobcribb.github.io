@@ -333,6 +333,8 @@ def main():
         shutil.rmtree(OUT)
     OUT.mkdir(parents=True)
     n_pages,n_media=copy_repository()
+    from sync_reconstitution_index import sync_index
+    print('Sommaire 3D :', sync_index(OUT), 'vignettes ajoutées')
     chapters=publish_chapters()
     numbered_titles = {e['url']: e['title'] for items in numbered_collections.values() for e in items}
     for entry in chapters:
