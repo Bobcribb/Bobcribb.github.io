@@ -12,7 +12,7 @@
 
 **Question directrice [B].** *Konnos* est l'un des dossiers les plus riches pour comprendre la concurrence comique autour de Socrate et des nouveaux savoirs au Ve siècle. En 423, au même concours que les premières *Nuées*, Amipsias obtint la deuxième place derrière la *Pytinē* de Cratinos et devant Aristophane. Son chœur était composé de *phrontistai*, « penseurs », mais les fragments ne permettent pas de réduire la pièce à une seconde version des *Nuées*. Le présent dossier examine précisément ce que la comparaison autorise — et ce qu'elle interdit.
 
-**Navigation :** [Volume précédent — LXVIII, *Konnos*, étude principale](/chapitres/comedies/volume-068-ameipsias-konnos-socrate-musique-oracles-education/) · [LXVII — Téléclidès, *Sterrhoi*](/chapitres/comedies/volume-067-telekleides-sterrhoi-corps-travestissement-banquet-desir/) · [Théâtre grec](/theatre/) · [Études philosophiques](/philosophie/) · [Catalogue intégral](/catalogue-integral/).
+**Navigation :** [Volume précédent — LXVIII, *Konnos*, étude principale](/chapitres/comedies/volume-068-ameipsias-konnos-socrate-musique-oracles-education/) · [Volume suivant — LXX, *Moichoi*](/chapitres/comedies/volume-070-ameipsias-moichoi-adultere-droit-citoyennete/) · [*Komastai*, étude principale — LXXII](/chapitres/comedies/volume-072-ameipsias-komastai-kosmos-concours-414-fete-politique/) · [*Komastai*, complément — LXXI](/chapitres/comedies/volume-071-ameipsias-komastai-komos-ivresse-fete-politique/) · [LXVII — Téléclidès, *Sterrhoi*](/chapitres/comedies/volume-067-telekleides-sterrhoi-corps-travestissement-banquet-desir/) · [Théâtre grec](/theatre/) · [Études philosophiques](/philosophie/) · [Catalogue intégral](/catalogue-integral/).
 
 ---
 
