@@ -14,9 +14,47 @@ from pathlib import Path
 import time
 from urllib.request import Request, urlopen
 
+from bs4 import BeautifulSoup
+
 
 MANIFEST = "assets/reconstitutions-3d/catalogue-photorealiste.json"
 GALLERY = "reconstitutions-photorealistes.html"
+
+
+def gallery_markup_failures(markup, entries):
+    """A downloaded WebP alone does not prove its notice is publicly visible."""
+    doc = BeautifulSoup(markup, "html.parser")
+    failures = []
+    for entry in entries:
+        slug = entry["slug"]
+        cards = doc.find_all(id=slug)
+        errors = []
+        if len(cards) != 1:
+            errors.append("Ancre de notice absente ou dupliquée")
+        else:
+            card = cards[0]
+            picture = card.find("img", src=entry["src"])
+            caption = card.find("figcaption")
+            science = card.select_one(".r3d-science")
+            if picture is None or not picture.get("alt", "").strip():
+                errors.append("Image de la notice ou texte alternatif absent")
+            if caption is None or not caption.get_text(" ", strip=True):
+                errors.append("Légende absente")
+            science_text = science.get_text(" ", strip=True) if science else ""
+            if not science or not science.select_one("p") or "certitude" not in science_text.lower():
+                errors.append("Commentaire scientifique ou degré de certitude absent")
+            if not card.find("a", href=entry["source_url"]):
+                errors.append("Source institutionnelle différente du catalogue ou absente")
+            for element in (card, picture, caption, science):
+                if element is not None and (element.has_attr("hidden") or element.get("aria-hidden") == "true"):
+                    errors.append("Contenu de la notice explicitement masqué")
+                    break
+        failures.extend({"resource": "/" + GALLERY + "#" + slug, "error": error} for error in errors)
+    for node in doc.select("[src], [href]"):
+        value = str(node.get("src") or node.get("href") or "")
+        if "/assets/reconstitutions/" in value and ".svg" in value.lower():
+            failures.append({"resource": value, "error": "Ancienne illustration vectorielle réintroduite"})
+    return failures
 
 
 class ImagesInGallery(HTMLParser):
@@ -90,8 +128,10 @@ def verify_once(base, root, catalog, entries):
             failures.append({"resource": "/" + GALLERY, "error": f"HTTP {status}"})
         else:
             parser = ImagesInGallery()
-            parser.feed(body.decode("utf-8"))
+            markup = body.decode("utf-8")
+            parser.feed(markup)
             gallery_images = parser.sources
+            failures.extend(gallery_markup_failures(markup, entries))
     except Exception as exc:
         failures.append({"resource": "/" + GALLERY, "error": str(exc)})
     for e in entries:

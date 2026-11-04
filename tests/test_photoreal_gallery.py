@@ -4,10 +4,31 @@ from pathlib import Path
 from tempfile import TemporaryDirectory
 import unittest
 
-from scripts.verify_photoreal_gallery import ImagesInGallery, inventory, is_webp
+from scripts.verify_photoreal_gallery import ImagesInGallery, gallery_markup_failures, inventory, is_webp
 
 
 class TestPhotorealGalleryVerification(unittest.TestCase):
+    def test_public_image_does_not_replace_missing_scientific_notice(self):
+        entry = {"slug": "temple", "src": "/assets/reconstitutions-3d/temple.webp",
+                 "source_url": "https://museum.example/temple"}
+        valid = '''<article id="temple"><figure>
+        <img src="/assets/reconstitutions-3d/temple.webp" alt="Temple interprétatif">
+        <figcaption>Temple, IVe siècle</figcaption></figure>
+        <div class="r3d-science"><p>Les vestiges attestent le plan.</p>
+        <p>Degré de certitude : élevé pour le plan.</p>
+        <a href="https://museum.example/temple">Source institutionnelle</a></div></article>'''
+        self.assertEqual(gallery_markup_failures(valid, [entry]), [])
+        for broken in (
+            valid.replace('<figcaption>Temple, IVe siècle</figcaption>', ''),
+            valid.replace('class="r3d-science"', 'class="removed"'),
+            valid.replace('https://museum.example/temple', 'https://museum.example/other'),
+            valid.replace('id="temple"', 'id="removed"'),
+            valid.replace('<article ', '<article hidden '),
+            valid + '<img src="/assets/reconstitutions/temple.svg">',
+        ):
+            with self.subTest(markup=broken):
+                self.assertTrue(gallery_markup_failures(broken, [entry]))
+
     def test_webp_signature(self):
         self.assertTrue(is_webp(b"RIFF" + b"\x04\x00\x00\x00" + b"WEBP" + b"abc"))
         self.assertFalse(is_webp(b"<html>404 not found</html>"))
