@@ -257,13 +257,16 @@ def recent_figure_inventory(root):
         markup = (root / page).read_text(encoding="utf-8")
         meta = figure_metadata(markup, fid, src)
         figures = pages.setdefault(page, {})
-        if fid in figures or src in digests:
-            raise ValueError("Illustration historique dupliquée : " + fid)
+        # Une image peut illustrer plusieurs pages sans dupliquer son fichier.
+        # Refuser en revanche deux figures utilisant le même média sur une page.
+        if fid in figures or any(previous_src == src for previous_src, _ in figures.values()):
+            raise ValueError("Illustration historique dupliquée sur une page : " + fid)
         figures[fid] = (src, meta)
-        image = (root / src.lstrip("/")).read_bytes()
-        if not valid_local_illustration(src, image):
-            raise ValueError("Photographie locale absente ou invalide : " + src)
-        digests[src] = hashlib.sha256(image).hexdigest()
+        if src not in digests:
+            image = (root / src.lstrip("/")).read_bytes()
+            if not valid_local_illustration(src, image):
+                raise ValueError("Photographie locale absente ou invalide : " + src)
+            digests[src] = hashlib.sha256(image).hexdigest()
     return pages, digests
 
 

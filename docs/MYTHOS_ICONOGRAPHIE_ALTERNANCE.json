@@ -28,14 +28,17 @@
       "/assets/illustrations-articles/met-253504-aphrodite-bronze.webp"
     ],
     "issue": "Le vérificateur scripts/verify_live_site.py contrôlait 17 illustrations récentes, mais omettait les trois figures ajoutées à la dernière séance. De plus, l'URL publique des trois livres affichait encore 8, 8 et 7 images contre 9, 9 et 8 sur main.",
-    "correction": "Extension de RECENT_FIGURES à 20 médias sur 6 pages, et de tests/test_verify_live_site_assets.py aux nouveaux comptages (26 résultats de vérification) et à trois tests croisés d'HTML périmé / WebP altéré.",
-    "checks": "Les 3 IDs nouveaux sont uniques, les 3 sources Met correspondent au catalogue local sources-met.json, les fichiers WebP existent avec dimensions et empreintes documentées. La comparaison publique et les tests CI restent à suivre après commit.",
+    "correction": "Étendre RECENT_FIGURES à 20 figures sur six pages, avec 19 médias WebP/JPEG uniques : une même œuvre de Rembrandt est utilisée dans l'Iliade philosophique et le livre. La vérification compare 6 pages et 19 fichiers binaires (25 résultats).",
+    "checks": "Les 3 derniers IDs sont uniques et leurs médias sont documentés dans sources-met.json. Suite de tests et jobs Actions à vérifier après la seconde correction ; pas de réussite anticipée.",
     "publication_status": "Contrôle HTTPS direct : manifeste source_commit=05c68a64605501f7dc90889fbd74961c4350528c, github_run_id=41859720860, antérieur à la séance ; les trois figures non visibles dans le HTML public. Déploiement complet non confirmé.",
     "numbering": "AGENTS.md et docs/PUBLICATION_CONCURRENTE.md relus. Aucune nouvelle étude numérotée, aucun changement aux numéros et attributions.",
     "preservation": "Aucun texte scientifique, image, page HTML, CSS, JS de présentation, navigation, registre d'attribution, workflow ni automatisation horaire modifié.",
     "limitations": "Pas de rendu mobile en navigateur ni recalcul des PDF A4 ; pas de parcours exhaustif des liens externes ni vérification binaire publique après déploiement.",
-    "commits": [],
-    "commit_note": "Un commit atomique limité au script de contrôle HTTPS, ses tests et le journal de séance. Lire GitHub Actions et le site public avant toute annonce de mise en ligne."
+    "commits": [
+      "14d80a9d78f3dbaab8b8b8e1796582881e544c63"
+    ],
+    "commit_note": "Deux commits dans la même séance d'audit : 14d80a9... (extension) puis correctif de partage inter-pages ; conserver une seule entrée de séance. Le SHA du correctif doit être lu dans GitHub après validation.",
+    "followup_correction": "Après relecture du premier commit 14d80a9d78f3dbaab8b8b8e1796582881e544c63, correction du faux doublon dû à un WebP partagé entre deux pages ; refuser les doubles médias sur la même page, autoriser leur réutilisation inter-pages ; ajustement des assertions 19/25 et ajout d'une régression spécifique. Aucune modification du texte ni des images du site."
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
   "history": [
@@ -1398,14 +1401,17 @@
         "/assets/illustrations-articles/met-253504-aphrodite-bronze.webp"
       ],
       "issue": "Le vérificateur scripts/verify_live_site.py contrôlait 17 illustrations récentes, mais omettait les trois figures ajoutées à la dernière séance. De plus, l'URL publique des trois livres affichait encore 8, 8 et 7 images contre 9, 9 et 8 sur main.",
-      "correction": "Extension de RECENT_FIGURES à 20 médias sur 6 pages, et de tests/test_verify_live_site_assets.py aux nouveaux comptages (26 résultats de vérification) et à trois tests croisés d'HTML périmé / WebP altéré.",
-      "checks": "Les 3 IDs nouveaux sont uniques, les 3 sources Met correspondent au catalogue local sources-met.json, les fichiers WebP existent avec dimensions et empreintes documentées. La comparaison publique et les tests CI restent à suivre après commit.",
+      "correction": "Étendre RECENT_FIGURES à 20 figures sur six pages, avec 19 médias WebP/JPEG uniques : une même œuvre de Rembrandt est utilisée dans l'Iliade philosophique et le livre. La vérification compare 6 pages et 19 fichiers binaires (25 résultats).",
+      "checks": "Les 3 derniers IDs sont uniques et leurs médias sont documentés dans sources-met.json. Suite de tests et jobs Actions à vérifier après la seconde correction ; pas de réussite anticipée.",
       "publication_status": "Contrôle HTTPS direct : manifeste source_commit=05c68a64605501f7dc90889fbd74961c4350528c, github_run_id=41859720860, antérieur à la séance ; les trois figures non visibles dans le HTML public. Déploiement complet non confirmé.",
       "numbering": "AGENTS.md et docs/PUBLICATION_CONCURRENTE.md relus. Aucune nouvelle étude numérotée, aucun changement aux numéros et attributions.",
       "preservation": "Aucun texte scientifique, image, page HTML, CSS, JS de présentation, navigation, registre d'attribution, workflow ni automatisation horaire modifié.",
       "limitations": "Pas de rendu mobile en navigateur ni recalcul des PDF A4 ; pas de parcours exhaustif des liens externes ni vérification binaire publique après déploiement.",
-      "commits": [],
-      "commit_note": "Un commit atomique limité au script de contrôle HTTPS, ses tests et le journal de séance. Lire GitHub Actions et le site public avant toute annonce de mise en ligne."
+      "commits": [
+        "14d80a9d78f3dbaab8b8b8e1796582881e544c63"
+      ],
+      "commit_note": "Deux commits dans la même séance d'audit : 14d80a9... (extension) puis correctif de partage inter-pages ; conserver une seule entrée de séance. Le SHA du correctif doit être lu dans GitHub après validation.",
+      "followup_correction": "Après relecture du premier commit 14d80a9d78f3dbaab8b8b8e1796582881e544c63, correction du faux doublon dû à un WebP partagé entre deux pages ; refuser les doubles médias sur la même page, autoriser leur réutilisation inter-pages ; ajustement des assertions 19/25 et ajout d'une régression spécifique. Aucune modification du texte ni des images du site."
     }
   ]
 }

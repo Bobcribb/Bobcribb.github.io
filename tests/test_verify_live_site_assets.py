@@ -164,7 +164,7 @@ class RecentFigurePublicationTests(unittest.TestCase):
             return (200, kind, self.assets[path])
         return (200, "text/html", self.pages[path])
 
-    def test_all_twenty_documentary_images_and_six_pages_verified(self):
+    def test_all_twenty_documentary_figures_and_six_pages_verified(self):
         pages, assets = live.recent_figure_inventory(self.root)
         self.assertEqual(len(pages), 6)
         self.assertEqual(len(pages["livre-iliade-scenes/index.html"]), 3)
@@ -173,10 +173,15 @@ class RecentFigurePublicationTests(unittest.TestCase):
         self.assertEqual(len(pages["philosophie-iliade.html"]), 3)
         self.assertEqual(len(pages["philosophie-odyssee.html"]), 3)
         self.assertEqual(len(pages["philosophie-theogonie.html"]), 2)
-        self.assertEqual(len(assets), 20)
+        self.assertEqual(len(assets), 19)
+        self.assertEqual(sum(len(items) for items in pages.values()), 20)
+        # Rembrandt est réutilisé entre l’étude philosophique et le livre.
+        shared = "/assets/illustrations-articles/met-437394-aristote-homere-rembrandt.webp"
+        self.assertIn(shared, assets)
+        self.assertEqual(sum(src == shared for _, _, src in live.RECENT_FIGURES), 2)
         with patch.object(live, "fetch", side_effect=self.fetch):
             report = live.verify_recent_public_figures("https://example.test", self.root)
-        self.assertEqual(len(report), 26)
+        self.assertEqual(len(report), 25)
         self.assertTrue(all(item["valid"] for item in report))
 
     def test_stale_odyssey_figure_and_tampered_jpeg_are_detected(self):
@@ -312,6 +317,24 @@ class RecentFigurePublicationTests(unittest.TestCase):
                         "https://example.test", self.root)
                 broken = {row["url"] for row in checked if not row["valid"]}
                 self.assertEqual(broken, {"/" + page, image_path})
+
+    def test_same_page_duplicate_media_is_rejected_but_cross_page_reuse_is_allowed(self):
+        """Un fichier partagé est contrôlé une fois, une répétition sur la page est interdite."""
+        page = "livre-iliade-scenes/index.html"
+        image = "/assets/illustrations-articles/met-437394-aristote-homere-rembrandt.webp"
+        duplicate_id = "test-duplicate-media-on-same-page"
+        source = self.root / page
+        extra = ('<figure id="' + duplicate_id + '" data-image-status="œuvre historique">'
+                 '<img src="' + image + '" alt="Œuvre authentique">'
+                 '<figcaption>Notice documentée, non générée par IA '
+                 '<a href="https://www.metmuseum.org/art/collection/search/437394">'
+                 'Metropolitan Museum of Art</a></figcaption></figure>')
+        source.write_text(source.read_text(encoding="utf-8") + extra,
+                          encoding="utf-8")
+        new_rows = live.RECENT_FIGURES + ((page, duplicate_id, image),)
+        with patch.object(live, "RECENT_FIGURES", new_rows):
+            with self.assertRaisesRegex(ValueError, "dupliquée sur une page"):
+                live.recent_figure_inventory(self.root)
 
     def test_bogus_webp_file_rejected_at_inventory(self):
         src = next(src for _, _, src in live.RECENT_FIGURES
