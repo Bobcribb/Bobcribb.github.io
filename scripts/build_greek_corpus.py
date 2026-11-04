@@ -195,6 +195,62 @@ CHAPTER_CYCLES = [
      "Fortune, mariage, naissance, pudeur, pitié et parole publique."),
 ]
 
+# Iconographie ciblée : photos de monuments et objets attestés, déjà sourcés
+# dans scripts/editorial_media.json. Ne pas inventer de visuel pour les groupes
+# sans document directement pertinent (astres, Pélion / Hespérides).
+# La carte utilise une photographie de preuve, jamais une reconstitution 2,5D.
+DOSSIER_ARTIFACTS = {
+    "dynasties-attiques": ("mythos-athena-lecythe-brygos-aplaste-met-25-189-1", "Athéna"),
+    "thesee": ("mythos-thesee-minotaure-amphore-taleides-met-47-11-5", "Thésée"),
+    "athenes-cultes": ("eleusis-grand-relief-demeter-trip-toleme-persephone-zde", "Éleusis"),
+    "apollon-sanctuaires": ("delphes-temple-apollon-bernard-gagnon", "Delphes"),
+    "cosmogonies": ("mythos-derveni-papyrus-fragments-thessalonique-gts-tg", "Derveni"),
+    "rites-concepts": ("demeter-triptolemos-peintre-niobides-met-41-162-98", "Déméter"),
+}
+
+
+def dossier_navigation(chapter_groups, root, out):
+    """Sommaire illustré à provenance obligatoire, sans toucher aux manuscrits.
+
+    Les objets décrivent un sujet vérifiable du dossier, et non chaque chapitre.
+    L'absence de source éditoriale ne provoque jamais d'image de remplissage.
+    """
+    registry = root / "scripts" / "editorial_media.json"
+    media_by_id = {}
+    if registry.is_file():
+        records = json.loads(registry.read_text(encoding="utf-8"))["media"]
+        media_by_id = {item["id"]: item for item in records}
+        if len(media_by_id) != len(records):
+            raise RuntimeError("MYTHOS : doublon d'identifiant iconographique")
+    cards = []
+    for slug, title, _, rows in chapter_groups:
+        fragment = "grec-dossier-" + slug
+        photo, source = "", ""
+        if slug in DOSSIER_ARTIFACTS and media_by_id:
+            media_id, required_subject = DOSSIER_ARTIFACTS[slug]
+            info = media_by_id.get(media_id)
+            if not info or required_subject not in info.get("subjects", []):
+                raise RuntimeError("Iconographie du dossier non documentée : " + slug)
+            media_path = info.get("path", "")
+            if (not media_path.startswith("media/2026/10/")
+                    or not media_path.lower().endswith((".jpg", ".jpeg", ".png", ".webp"))
+                    or not info.get("alt") or not info.get("caption_html")
+                    or not (out / media_path).is_file()):
+                raise RuntimeError("Image ou source absente dans le rendu : " + slug)
+            photo = '<img src="/' + escape(media_path, quote=True) + '" alt="' + (
+                escape(info["alt"], quote=True)) + '" loading="lazy" decoding="async">'
+            source = ('<details class="greek-dossier-credit">'
+                      '<summary>Source et crédit de l’image</summary><div>' +
+                      info["caption_html"] + '</div></details>')
+        cards.append(
+            '<div class="greek-dossier-card">'
+            '<a class="greek-dossier-jump" href="#' + escape(fragment, quote=True) + '">' +
+            photo + '<span class="greek-dossier-name">' + escape(title) + '</span>' +
+            '<small>' + str(len(rows)) + ' chapitres</small></a>' + source + '</div>')
+    return ('<nav class="greek-dossiers-toc" aria-label="Dossiers des chapitres universitaires">' +
+            ''.join(cards) + '</nav>')
+
+
 
 def chapter_dossiers(chapters):
     """Répartir chaque manuscrit existant une seule fois, sans réécriture.
@@ -289,10 +345,7 @@ def main(out, root):
             continue
         if key == "grec-universitaire":
             chapter_groups = chapter_dossiers(chapters)
-            navigation = '<nav class="greek-dossiers-toc" aria-label="Dossiers des chapitres universitaires">'+''.join(
-                '<a href="#grec-dossier-'+escape(slug, quote=True)+'">'+escape(title)+
-                ' ('+str(len(rows))+')</a>'
-                for slug, title, _, rows in chapter_groups)+'</nav>'
+            navigation = dossier_navigation(chapter_groups, root, out)
             panels = ''.join(
                 '<details class="greek-book greek-dossier" id="grec-dossier-'+escape(slug, quote=True)+'">'+
                 '<summary>'+escape(title)+' — '+str(len(rows))+' chapitres</summary>'+
@@ -388,8 +441,20 @@ def main(out, root):
     css.string += " .greek-book{margin:.7rem 0;border-top:1px solid #6f5938;padding:.7rem 0}.greek-book summary{cursor:pointer;color:#e5c58d;padding:.5rem;font-size:1.1rem}.greek-book summary:focus-visible{outline:3px solid #ffe1a9}.greek-corpus-toc{justify-content:center} "
     css.string += folder_css
     css.string += """ .greek-dossiers-toc{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,210px),1fr));gap:.65rem;margin:1.1rem 0}
-    .greek-dossiers-toc a{display:block;border:1px solid #806947;padding:.75rem;background:#141c1d;color:#ecd6aa;text-decoration:none;line-height:1.4}
-    .greek-dossiers-toc a:hover,.greek-dossiers-toc a:focus-visible{border-color:#dec08c;outline:2px solid #dec08c;outline-offset:2px}
+    .greek-dossier-card{min-width:0;background:#141c1d;border:1px solid #806947;display:flex;flex-direction:column;overflow:hidden}
+    .greek-dossiers-toc a.greek-dossier-jump{display:block;flex:1;min-width:0;padding:0 0 .8rem;color:#ecd6aa;text-decoration:none;line-height:1.4;border:0}
+    .greek-dossier-jump img{width:100%;height:140px;object-fit:cover;object-position:center;display:block;background:#090e10}
+    .greek-dossier-jump .greek-dossier-name{display:block;padding:.75rem .75rem 0;font-weight:600;overflow-wrap:anywhere}
+    .greek-dossier-jump small{display:block;padding:.2rem .75rem 0;color:#c8b28d}
+    .greek-dossiers-toc a:hover,.greek-dossiers-toc a:focus-visible{color:#ffe5b4;outline:2px solid #dec08c;outline-offset:-2px}
+    .greek-dossier-credit{padding:.3rem .75rem .6rem;border-top:1px solid #53442e;color:#d7c9b1;font:12px/1.55 Georgia,serif;overflow-wrap:anywhere}
+    .greek-dossier-credit summary{cursor:pointer;color:#e2c69a}
+    .greek-dossier-credit div{padding-top:.5rem}
+    .greek-dossier-credit a{color:#f4d5a0;text-decoration:underline}
+    @media(max-width:700px){.greek-dossiers-toc a.greek-dossier-jump:has(img){display:grid;grid-template-columns:112px minmax(0,1fr);grid-template-rows:auto 1fr;align-items:center;gap:0 .2rem}
+    .greek-dossier-jump img{width:112px;height:102px;grid-row:1/span 2;object-fit:cover}
+    .greek-dossier-jump .greek-dossier-name{padding:.55rem .6rem .1rem}
+    .greek-dossier-jump small{padding:0 .6rem .55rem}}
     .greek-dossier{scroll-margin-top:95px;border:1px solid #5c4d38;padding:.5rem .85rem;background:#101718}
     .greek-dossier:target{outline:2px solid #d6b37d;outline-offset:3px}
     .greek-dossier .section-intro{margin:.45rem 0 .8rem;color:#e3d1b6}
