@@ -247,14 +247,17 @@ def counts(rows, compact=False):
 # One archival object per editorial theme, deliberately curated (not a
 # civilization-wide image fallback). Objects and captions are read at build time
 # from the provenance register; no historical image or text is rewritten.
-# The cosmogonies family has no sufficiently specific Greek object in this set.
+# Derveni transmits an ancient commentary on an Orphic theogony, relevant to
+# cosmogonies as a textual witness (NOT an illustration of creation scenes).
+# P.Oxy. 20 illustrates manuscript transmission for the sources family.
 FOLDER_ARTWORK = {
+    "cosmogonies": ("mythos-derveni-papyrus-fragments-thessalonique-gts-tg", "Derveni"),
     "divinites": ("mythos-bronze-artemision-zeus-ou-poseidon", "Zeus"),
     "heros": ("mythos-thesee-minotaure-amphore-taleides-met-47-11-5", "Thésée"),
     "familles": ("mythos-mycene-porte-lionnes-zde-2020", "Mycènes"),
     "cycles-epiques": ("mythos-hector-priam-rancon-briseis-peintre-british-museum-e75", "Iliade"),
     "cultes-sanctuaires": ("delphes-temple-apollon-bernard-gagnon", "Delphes"),
-    "sources-anciennes": ("mythos-derveni-papyrus-fragments-thessalonique-gts-tg", "Derveni"),
+    "sources-anciennes": ("mythos-papyrus-oxyrhynchus-20-iliade-ii", "Iliade"),
     "interpretations-philosophiques": ("jacques-louis-david-mort-de-socrate-1787", "Socrate"),
 }
 
