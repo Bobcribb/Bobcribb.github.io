@@ -46,7 +46,9 @@ jobs:
       - name: Tester les références et les liens historiques
         run: python -m unittest discover -s tests -p 'test_editorial_numbering.py' -v
       - name: Générer le site de vérification sans WordPress
-        run: python scripts/build_native.py
+        run: |
+          python scripts/editorial_queue.py apply
+          python scripts/build_native.py
       - name: Auditer tous les liens, pages, médias et sommes SHA-256
         run: python scripts/audit_integrity.py
       - name: Valider la syntaxe JavaScript de la recherche
