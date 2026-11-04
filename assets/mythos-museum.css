@@ -360,3 +360,82 @@ body.mythos-design .mythos-manuscript-figure figcaption a{
     color:#222!important;
   }
 }
+
+
+/* Accueil MYTHOS : sommaire interne accessible et centré, sans nouvelle carte. */
+body.mythos-design .mythos-home-toc{
+  width:calc(100% - 12.5%);
+  max-width:1344px;
+  margin:3px auto 20px;
+  padding:18px clamp(12px,2vw,30px) 20px;
+  border-block:1px solid #715b3b;
+  text-align:center;
+  background:#0c1214;
+}
+body.mythos-design .mythos-home-toc-title{
+  margin:0 0 12px!important;
+  font:19px/1.4 Georgia,serif!important;
+  color:#f1e3cc!important;
+  letter-spacing:.02em;
+}
+body.mythos-design .mythos-home-toc ul{
+  display:flex;
+  justify-content:center;
+  align-items:stretch;
+  flex-wrap:wrap;
+  list-style:none;
+  gap:9px;
+  padding:0!important;
+  margin:0!important;
+}
+body.mythos-design .mythos-home-toc li{
+  padding:0!important;
+  margin:0!important;
+  min-width:0;
+}
+body.mythos-design .mythos-home-toc a{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  height:100%;
+  min-height:44px;
+  padding:9px 14px;
+  border:1px solid #7f6949;
+  background:#111a1b;
+  color:#edd6ad!important;
+  font:15px/1.4 Georgia,serif;
+  text-decoration:none;
+  overflow-wrap:anywhere;
+}
+body.mythos-design .mythos-home-toc a:hover,
+body.mythos-design .mythos-home-toc a:focus-visible{
+  background:#202a29;
+  border-color:#e3bd84;
+  text-decoration:underline;
+  text-underline-offset:4px;
+}
+body.mythos-design main .portal-section[id]{
+  scroll-margin-top:25px;
+}
+@media(max-width:700px){
+  body.mythos-design .mythos-home-toc{
+    width:90%;
+    margin:0 auto 15px;
+    padding:16px 10px;
+  }
+  body.mythos-design .mythos-home-toc ul{
+    display:grid;
+    grid-template-columns:repeat(2,minmax(0,1fr));
+    gap:8px;
+  }
+  body.mythos-design .mythos-home-toc a{
+    font-size:14px;
+    padding:9px 6px;
+  }
+}
+@media(max-width:360px){
+  body.mythos-design .mythos-home-toc ul{grid-template-columns:minmax(0,1fr)}
+}
+@media print{
+  body.mythos-design .mythos-home-toc{display:none!important}
+}
