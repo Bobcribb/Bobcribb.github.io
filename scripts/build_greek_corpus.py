@@ -148,6 +148,7 @@ RELATED = [
  ("Hésiode, Théogonie : analyse philosophique","/philosophie-theogonie.html"),
  ("Études d'histoire et de géographie grecque","/grece/"),
  ("Théâtre grec, corpus associé mais distinct","/theatre/"),
+ ("Registre général des dossiers publiés","/grande-encyclopedie/registre-integral/"),
 ]
 def present(out, url):
     p = out / url.lstrip("/")
