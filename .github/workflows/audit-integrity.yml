@@ -11,6 +11,7 @@ on:
       - 'tests/test_editorial_numbering.py'
       - 'EDITORIAL_NUMBERING.json'
       - 'scripts/build_navigation.py'
+      - 'scripts/recent_studies.py'
       - 'chapitres/**'
       - '**/index.html'
       - '**/*.html'
