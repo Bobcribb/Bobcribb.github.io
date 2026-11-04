@@ -1,4 +1,4 @@
-"""Provenance et préservation des sept cartes thématiques MYTHOS."""
+"""Provenance et préservation des huit cartes thématiques MYTHOS."""
 import json
 import sys
 import unittest
@@ -13,10 +13,18 @@ from build_greek_folders import FOLDER_ARTWORK, folder_artworks, overview
 
 
 class GreekFolderMediaTests(unittest.TestCase):
-    def test_curated_artwork_is_not_random_and_leaves_cosmogonies_unillustrated(self):
-        self.assertNotIn("cosmogonies", FOLDER_ARTWORK)
+    def test_all_eight_families_use_distinct_verified_artworks(self):
+        self.assertEqual(len(FOLDER_ARTWORK), 8)
+        self.assertIn("cosmogonies", FOLDER_ARTWORK)
+        self.assertEqual(FOLDER_ARTWORK["cosmogonies"][1], "Derveni")
+        self.assertEqual(FOLDER_ARTWORK["sources-anciennes"][1], "Iliade")
         self.assertEqual(len(FOLDER_ARTWORK), len({item[0] for item in FOLDER_ARTWORK.values()}))
         self.assertFalse(any(".svg" in item[0] or "2.5" in item[0] for item in FOLDER_ARTWORK.values()))
+        artwork = folder_artworks(ROOT, ROOT, set(FOLDER_ARTWORK))
+        self.assertEqual(len(artwork), 8)
+        self.assertIn("Derveni", artwork["cosmogonies"]["caption_html"])
+        self.assertIn("commons.wikimedia.org", artwork["cosmogonies"]["caption_html"])
+        self.assertIn("P.Oxy.", artwork["sources-anciennes"]["caption_html"])
 
     def test_picture_credits_and_longform_links_survive_repeated_renders(self):
         with TemporaryDirectory() as temporary:
@@ -42,7 +50,7 @@ class GreekFolderMediaTests(unittest.TestCase):
                  "title": "Nyx — cosmogonie", "kind": "Chapitre universitaire",
                  "folder": "cosmogonies", "section": "Nuit", "book": None},
             ]
-            artwork = folder_artworks(root, out, {"heros", "cosmogonies"})
+            artwork = folder_artworks(root, out, {"heros"})
             for _ in range(2):
                 doc = BeautifulSoup(overview(rows, artwork), "html.parser")
                 self.assertEqual(len(doc.select(".greek-folder-link")), 2)
