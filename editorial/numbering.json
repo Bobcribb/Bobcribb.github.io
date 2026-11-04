@@ -922,6 +922,12 @@
           "path": "chapitres/encyclopedie/chapitre-422-salmakis-halicarnasse-hermaphrodite-source-inscription.md",
           "request_sha256": "c03bcd1949c0ba29606b42a441b5c2fd17b3a5171a8742ed4c7eab6ae18c12bf",
           "initial_source_sha256": "2fa15d208f685ef4a515e4e39112d0243b068b80cc4a42af5f88bb9c61d4a769"
+        },
+        "c9a7e136-5f02-4c4b-8928-0d1ae7765240": {
+          "number": 423,
+          "path": "chapitres/encyclopedie/chapitre-423-apollon-agyieus-seuil-rue-tegee-argos-ambracie-tragedie.md",
+          "request_sha256": "b64d08ccdbdca3f0aed150fbb256c99073fc87427b218e8849657c23ae24cf02",
+          "initial_source_sha256": "8d5807d0535dac807bc068d350c62a36d55719a18a6298aab8e798d3b9b16e06"
         }
       }
     },
@@ -2131,6 +2137,12 @@
           "path": "chapitres/comparatif/volume-ccxxxvii-mc-057-quand-les-dieux-dorment-sommeil-veille-cosmique-pouvoir-de-l-eveil.md",
           "request_sha256": "af3f16227d4c6e7252d5a245b0cb170b0d928f3b9c178a2f49d2f95df601b3b1",
           "initial_source_sha256": "58e383f792df30f506c89cc126e0c9d7ca23520524108a266ec2559313cafa21"
+        },
+        "9d08aa6b-4bde-41fe-8f3a-a72f430c0058": {
+          "number": 238,
+          "path": "chapitres/comparatif/volume-ccxxxviii-mc-058-quand-les-dieux-meurent-mort-divine-survivance-restauration-retours-contestes.md",
+          "request_sha256": "a12070d079fcd7c71e509e2bec17e263cd907af1777ae2be934a3935994867ac",
+          "initial_source_sha256": "bc9bfd77043aa9c0f665dc81d50e6cd5a222476681963c01bc5b01d5eaf4ef59"
         }
       }
     }
