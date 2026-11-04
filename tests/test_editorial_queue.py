@@ -9,7 +9,7 @@ import unittest
 import uuid
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
-from editorial_queue import COLLECTIONS, INBOX, REGISTRY, apply, scan, validate
+from editorial_queue import COLLECTIONS, HOLDS, INBOX, REGISTRY, apply, digest, scan, validate
 
 
 def git(root, *args, check=True):
@@ -99,6 +99,50 @@ class AllocationTests(unittest.TestCase):
         request(self.root,"meme-sujet")
         with self.assertRaisesRegex(ValueError,"déjà présente"):
             apply(self.root)
+
+    def hold(self, *requests):
+        (self.root / HOLDS).write_text(json.dumps({"version": 1, "requests": {
+            p.stem: {"request_sha256": digest(p.read_bytes()), "reason": "Collision à réconcilier"}
+            for p in requests}}))
+
+    def test_explicit_holds_preserve_both_conflicts_without_blocking_valid_work(self):
+        body = "# Volume {{volume}}\n\n## MC-033 — Dieux absents\n\nTexte intégral et bibliographie.\n"
+        a = request(self.root, "absence-a", "comparatif", body=body)
+        b = request(self.root, "absence-b", "comparatif", body=body)
+        originals = {p: p.read_bytes() for p in (a, b)}
+        self.hold(a, b)
+        valid = request(self.root, "etude-valide")
+        self.assertEqual(apply(self.root), ["chapitres/origines-du-sacre/584-etude-valide.md"])
+        self.assertEqual(scan(self.root, "comparatif"), {})
+        receipts = json.loads((self.root / REGISTRY).read_text())["collections"]
+        self.assertEqual(receipts["comparatif"]["allocations"], {})
+        self.assertIn(valid.stem, receipts["origines-du-sacre"]["allocations"])
+        self.assertEqual({p: p.read_bytes() for p in (a,b)}, originals)
+        self.assertEqual(apply(self.root), [])
+        # Releasing unresolved requests must restore the strict collision guard.
+        before = (self.root / REGISTRY).read_bytes()
+        (self.root / HOLDS).unlink()
+        with self.assertRaisesRegex(ValueError, "MC-033"):
+            apply(self.root)
+        self.assertEqual((self.root / REGISTRY).read_bytes(), before)
+        self.assertEqual(scan(self.root, "comparatif"), {})
+
+    def test_hold_rejects_manuscript_mutation_before_any_allocation(self):
+        held = request(self.root, "attente")
+        self.hold(held)
+        request(self.root, "autre")
+        before = (self.root / REGISTRY).read_bytes()
+        held.write_text(held.read_text() + "\n")
+        with self.assertRaisesRegex(ValueError, "attente modifié"):
+            apply(self.root)
+        self.assertEqual((self.root / REGISTRY).read_bytes(), before)
+
+    def test_hold_cannot_hide_a_published_receipt(self):
+        published = request(self.root, "etude")
+        apply(self.root)
+        self.hold(published)
+        with self.assertRaisesRegex(ValueError, "déjà attribuée"):
+            validate(self.root)
 
 
 class GitRaceTests(unittest.TestCase):

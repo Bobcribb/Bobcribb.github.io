@@ -45,3 +45,8 @@ réinitialiser un checkout contenant des modifications locales.
   autonome de ce sujet sous un autre UUID ou un autre slug. Le contrôle de la
   file refuse les collisions historiques avant toute attribution. Les notices
   et renvois se construisent sans réécriture des trois manuscrits protégés.
+
+- Une collision entre soumissions non attribuées peut être mise en attente explicite
+  dans `editorial/holds.json`, avec empreinte de chaque demande et motif. Les
+  manuscrits restent intacts dans inbox, sans reçu ni numéro. Réconcilier leurs
+  identités avant de lever cette attente ; ne pas renuméroter ou supprimer les textes.

@@ -10,10 +10,12 @@ import hashlib
 import json
 from pathlib import Path
 import re
+import sys
 import uuid
 
 REGISTRY = Path("editorial/numbering.json")
 INBOX = Path("editorial/inbox")
+HOLDS = Path("editorial/holds.json")
 COLLECTIONS = {
     "origines-du-sacre": ("", "decimal", 0),
     "encyclopedie": ("chapitre-", "decimal", 0),
@@ -100,6 +102,7 @@ def validate(root, data=None):
             missing = sorted(set(expected) - set(actual))
             raise ValueError(f"{collection} : numérotation non attribuée ou source manquante; "
                              f"ajouts={added}, absences={missing}. Utiliser editorial/inbox.")
+    load_holds(root, request_ids)
     from comparative_history import validate as validate_history
     validate_history(root)
     return data
@@ -124,16 +127,46 @@ def parse_request(path):
     return item, digest(raw)
 
 
+def load_holds(root, allocated_ids):
+    """Explicit, hash-locked holds keep unresolved submissions intact in inbox.
+
+    A hold never changes a published receipt or suppresses validation of its
+    manuscript. Removing a hold restores the usual collision checks.
+    """
+    path = root / HOLDS
+    if not path.exists():
+        return {}
+    data = json.loads(path.read_text(encoding="utf-8"))
+    if set(data) != {"version", "requests"} or data["version"] != 1 or not isinstance(data["requests"], dict):
+        raise ValueError("Registre des attentes éditoriales invalide")
+    for key, hold in data["requests"].items():
+        if str(uuid.UUID(key)) != key or key in allocated_ids:
+            raise ValueError("Attente interdite pour une demande déjà attribuée : " + key)
+        if set(hold) != {"request_sha256", "reason"} or not isinstance(hold["reason"], str) or not hold["reason"].strip():
+            raise ValueError("Motif d’attente éditoriale invalide : " + key)
+        request = root / INBOX / (key + ".json")
+        if not request.is_file():
+            raise ValueError("Manuscrit en attente absent : " + key)
+        _, payload_hash = parse_request(request)
+        if payload_hash != hold["request_sha256"]:
+            raise ValueError("Manuscrit en attente modifié : " + key)
+    return data["requests"]
+
+
 def apply(root):
     data = validate(root)
     receipts = {key: value for state in data["collections"].values()
                 for key, value in state["allocations"].items()}
+    holds = load_holds(root, receipts)
     planned = []
     # Prepare every request before writing anything; a malformed request cannot
     # leave a partially allocated batch in the worktree.
     for path in sorted((root / INBOX).glob("*.json")):
         item, payload_hash = parse_request(path)
         if path.stem in receipts:
+            continue
+        if path.stem in holds:
+            print("Attente éditoriale conservée : " + path.stem + " — " + holds[path.stem]["reason"], file=sys.stderr)
             continue
         collection = item["collection"]
         state = data["collections"][collection]
