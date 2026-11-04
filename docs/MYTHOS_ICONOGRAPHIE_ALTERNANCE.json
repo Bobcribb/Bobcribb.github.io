@@ -5,36 +5,80 @@
   "branch": "main",
   "latest_session": {
     "date": "2026-11-04",
-    "kind": "AUDIT ET CORRECTION",
-    "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "scope": "Audit de publication HTTPS et correction des 118 duplications d'ancres HTML dans la compilation patrimoniale Origines du sacré tomes I–XXVII, plus exclusion ciblée d'une navigation SPA de l'alerte « ancre manquante ».",
-    "baseline_publication_audit": {
-      "workflow_run_id": 41790688432,
-      "html_pages": 1250,
-      "links_local_checked": 91250,
-      "fragments_checked": 25083,
-      "media_checked": 110,
-      "blocking_errors": 0,
-      "warnings_before": 2
-    },
-    "corrected_archive": "corpus/origines-du-sacre/edition-integrale-tomes-I-XXVII.html",
-    "archive_source_sha_before": "95a4710ab8ceb74217bd7ec5eb76511e9355f004",
-    "archive_blob_sha_after": "4886f061ae952818e12658ada99109e6ac9b17a0",
-    "duplicate_ids_corrected": 118,
-    "empty_duplicate_chapter_anchor_nodes_removed": 40,
-    "bibliography_ids_scoped_to_tomes": 78,
-    "fragment_links_retargeted": 191,
-    "tests_added": [
-      "test_integral_origines_archive_ids_are_unique"
+    "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "previous_kind": "AUDIT ET CORRECTION",
+    "next_kind": "AUDIT ET CORRECTION",
+    "scope": "Trois monographies universitaires existantes : contextualisation archéologique par panoramas 3D photoréalistes déjà conservés, sans création de chapitre numéroté.",
+    "basis_commit": "f096fc87bf250095b0ad6cae30195fe57ca3257c",
+    "figures_added": 3,
+    "assets_reused_not_duplicated": 3,
+    "changed_pages": [
+      {
+        "path": "philosophie-iliade.html",
+        "section": "partie-1",
+        "figure_id": "icono-iliade-mycene-panorama-philosophie-20261104",
+        "image_src": "/assets/reconstitutions-3d/mycenes-citadelle-porte-lionnes-panorama.webp",
+        "source": "https://www.argolisculture.gr/en/list-of-monuments/acropolis-of-mycenae/",
+        "figures_before": 19,
+        "figures_after": 20
+      },
+      {
+        "path": "philosophie-odyssee.html",
+        "section": "partie-3",
+        "figure_id": "icono-odyssee-tirynthe-palais-20261104",
+        "image_src": "/assets/reconstitutions-3d/tirynthe-citadelle-mycenienne-panorama.webp",
+        "source": "https://www.argolisculture.gr/en/list-of-monuments/the-mycenaean-acropolis-of-tiryns/",
+        "figures_before": 18,
+        "figures_after": 19
+      },
+      {
+        "path": "philosophie-theogonie.html",
+        "section": "partie-11",
+        "figure_id": "icono-theogonie-zeus-olympie-altis-20261104",
+        "image_src": "/assets/reconstitutions-3d/olympie-altis-panorama.webp",
+        "source": "https://olympicgames.culture.gov.gr/en/periigisi.html",
+        "figures_before": 21,
+        "figures_after": 22
+      }
     ],
-    "checks": "Les 27 tomes sont conservés. Avant commit : 0 identifiant HTML dupliqué après modification, 0 fragment interne orphelin sur 1956 renvois locaux, texte universitaire strictement identique après suppression des balises, ancien ancrage ref-1 conservé pour compatibilité ; 40 doubles ancrages vides retirés et 191 liens de bibliographie ciblés par tome.",
-    "additional_correction": "scripts/audit_integrity.py ignore uniquement les fragments #/route du fichier HTML historique MYTHOS_bibliotheque_navigable.html, car ils sont des routes JavaScript et non des ancres ; les autres liens et ancres restent audités.",
-    "public_deployment_status": "Contrôle HTTPS le 4 novembre 2026 : six SVG des deux dernières séances iconographiques accessibles. /catalog/publication-verification.json indique source_commit=4b4ac0753f8243f6ddd1d3b36acbba32491671c7, github_run_id=41790851372, 1205 documents, 27 archives et 110 médias ; le déploiement des corrections du présent audit reste à vérifier.",
-    "content_preserved": "Contenus et ordre des 27 tomes, intitulés, paragraphes, figures et numéros historiques non modifiés. Seuls des attributs d'ancres et des repères vides ont été corrigés. Aucune édition du registre de numérotation, aucun nouveau manuscrit et aucun changement aux planifications.",
-    "obstacles": "Plusieurs publications concurrentes se succèdent. Audit externe complet des références scientifiques, recalcul PDF A4 et rendu mobile réel hors périmètre ; le statut public du commit correctif doit être vérifié.",
+    "preflight": "3 figures HTML insérées sans altération du texte antérieur ; identifiants HTML uniques, ancres locales inchangées ; images présentes dans le catalogue à leur chemin local ; légendes avec chronologie, statut IA, sources institutionnelles et limites de restitution. AGENTS.md et PUBLICATION_CONCURRENTE.md relus.",
+    "public_deployment_status": "À VÉRIFIER : l'existence sur main ne prouve pas le déploiement de cette modification.",
+    "preservation": "Aucun manuscrit numéroté, registre d’attribution, numéro, navigation ni planification modifié. Fichiers image existants réutilisés, aucun ancien SVG 2,5D réintroduit.",
+    "obstacles": "Rerendu des PDF A4 et contrôle visuel mobile complet non exécutés dans cette transaction. La pagination antérieure de 100 pages de texte analytique par œuvre est indépendante de cet ajout de figures.",
     "commits": [],
-    "commit_note": "Le SHA du commit atomique est consultable via l'historique GitHub de cette entrée."
+    "previous_report_preserved_not_separately_in_history": {
+      "date": "2026-11-04",
+      "kind": "AUDIT ET CORRECTION",
+      "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "scope": "Audit de publication HTTPS et correction des 118 duplications d'ancres HTML dans la compilation patrimoniale Origines du sacré tomes I–XXVII, plus exclusion ciblée d'une navigation SPA de l'alerte « ancre manquante ».",
+      "baseline_publication_audit": {
+        "workflow_run_id": 41790688432,
+        "html_pages": 1250,
+        "links_local_checked": 91250,
+        "fragments_checked": 25083,
+        "media_checked": 110,
+        "blocking_errors": 0,
+        "warnings_before": 2
+      },
+      "corrected_archive": "corpus/origines-du-sacre/edition-integrale-tomes-I-XXVII.html",
+      "archive_source_sha_before": "95a4710ab8ceb74217bd7ec5eb76511e9355f004",
+      "archive_blob_sha_after": "4886f061ae952818e12658ada99109e6ac9b17a0",
+      "duplicate_ids_corrected": 118,
+      "empty_duplicate_chapter_anchor_nodes_removed": 40,
+      "bibliography_ids_scoped_to_tomes": 78,
+      "fragment_links_retargeted": 191,
+      "tests_added": [
+        "test_integral_origines_archive_ids_are_unique"
+      ],
+      "checks": "Les 27 tomes sont conservés. Avant commit : 0 identifiant HTML dupliqué après modification, 0 fragment interne orphelin sur 1956 renvois locaux, texte universitaire strictement identique après suppression des balises, ancien ancrage ref-1 conservé pour compatibilité ; 40 doubles ancrages vides retirés et 191 liens de bibliographie ciblés par tome.",
+      "additional_correction": "scripts/audit_integrity.py ignore uniquement les fragments #/route du fichier HTML historique MYTHOS_bibliotheque_navigable.html, car ils sont des routes JavaScript et non des ancres ; les autres liens et ancres restent audités.",
+      "public_deployment_status": "Contrôle HTTPS le 4 novembre 2026 : six SVG des deux dernières séances iconographiques accessibles. /catalog/publication-verification.json indique source_commit=4b4ac0753f8243f6ddd1d3b36acbba32491671c7, github_run_id=41790851372, 1205 documents, 27 archives et 110 médias ; le déploiement des corrections du présent audit reste à vérifier.",
+      "content_preserved": "Contenus et ordre des 27 tomes, intitulés, paragraphes, figures et numéros historiques non modifiés. Seuls des attributs d'ancres et des repères vides ont été corrigés. Aucune édition du registre de numérotation, aucun nouveau manuscrit et aucun changement aux planifications.",
+      "obstacles": "Plusieurs publications concurrentes se succèdent. Audit externe complet des références scientifiques, recalcul PDF A4 et rendu mobile réel hors périmètre ; le statut public du commit correctif doit être vérifié.",
+      "commits": [],
+      "commit_note": "Le SHA du commit atomique est consultable via l'historique GitHub de cette entrée."
+    }
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
   "history": [
@@ -433,6 +477,83 @@
       "content_preserved": "Aucun changement aux textes, 15 HTML, 3 SVG, navigation, numérotation ou planifications. Seul le registre d’alternance est corrigé puis mis à jour.",
       "obstacles": "Pas de vérification publique HTTPS, revue multi-écrans, export A4 ou contrôle HTTP des 314 URL externes. L’inclusion directe en legacy du volume 66 demande un audit éditorial sans contournement. Ne pas confondre ancienne CI échouée et état des workflows récents.",
       "commits": []
+    },
+    {
+      "date": "2026-11-04",
+      "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "previous_kind": "AUDIT ET CORRECTION",
+      "next_kind": "AUDIT ET CORRECTION",
+      "scope": "Trois monographies universitaires existantes : contextualisation archéologique par panoramas 3D photoréalistes déjà conservés, sans création de chapitre numéroté.",
+      "basis_commit": "f096fc87bf250095b0ad6cae30195fe57ca3257c",
+      "figures_added": 3,
+      "assets_reused_not_duplicated": 3,
+      "changed_pages": [
+        {
+          "path": "philosophie-iliade.html",
+          "section": "partie-1",
+          "figure_id": "icono-iliade-mycene-panorama-philosophie-20261104",
+          "image_src": "/assets/reconstitutions-3d/mycenes-citadelle-porte-lionnes-panorama.webp",
+          "source": "https://www.argolisculture.gr/en/list-of-monuments/acropolis-of-mycenae/",
+          "figures_before": 19,
+          "figures_after": 20
+        },
+        {
+          "path": "philosophie-odyssee.html",
+          "section": "partie-3",
+          "figure_id": "icono-odyssee-tirynthe-palais-20261104",
+          "image_src": "/assets/reconstitutions-3d/tirynthe-citadelle-mycenienne-panorama.webp",
+          "source": "https://www.argolisculture.gr/en/list-of-monuments/the-mycenaean-acropolis-of-tiryns/",
+          "figures_before": 18,
+          "figures_after": 19
+        },
+        {
+          "path": "philosophie-theogonie.html",
+          "section": "partie-11",
+          "figure_id": "icono-theogonie-zeus-olympie-altis-20261104",
+          "image_src": "/assets/reconstitutions-3d/olympie-altis-panorama.webp",
+          "source": "https://olympicgames.culture.gov.gr/en/periigisi.html",
+          "figures_before": 21,
+          "figures_after": 22
+        }
+      ],
+      "preflight": "3 figures HTML insérées sans altération du texte antérieur ; identifiants HTML uniques, ancres locales inchangées ; images présentes dans le catalogue à leur chemin local ; légendes avec chronologie, statut IA, sources institutionnelles et limites de restitution. AGENTS.md et PUBLICATION_CONCURRENTE.md relus.",
+      "public_deployment_status": "À VÉRIFIER : l'existence sur main ne prouve pas le déploiement de cette modification.",
+      "preservation": "Aucun manuscrit numéroté, registre d’attribution, numéro, navigation ni planification modifié. Fichiers image existants réutilisés, aucun ancien SVG 2,5D réintroduit.",
+      "obstacles": "Rerendu des PDF A4 et contrôle visuel mobile complet non exécutés dans cette transaction. La pagination antérieure de 100 pages de texte analytique par œuvre est indépendante de cet ajout de figures.",
+      "commits": [],
+      "previous_report_preserved_not_separately_in_history": {
+        "date": "2026-11-04",
+        "kind": "AUDIT ET CORRECTION",
+        "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+        "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+        "scope": "Audit de publication HTTPS et correction des 118 duplications d'ancres HTML dans la compilation patrimoniale Origines du sacré tomes I–XXVII, plus exclusion ciblée d'une navigation SPA de l'alerte « ancre manquante ».",
+        "baseline_publication_audit": {
+          "workflow_run_id": 41790688432,
+          "html_pages": 1250,
+          "links_local_checked": 91250,
+          "fragments_checked": 25083,
+          "media_checked": 110,
+          "blocking_errors": 0,
+          "warnings_before": 2
+        },
+        "corrected_archive": "corpus/origines-du-sacre/edition-integrale-tomes-I-XXVII.html",
+        "archive_source_sha_before": "95a4710ab8ceb74217bd7ec5eb76511e9355f004",
+        "archive_blob_sha_after": "4886f061ae952818e12658ada99109e6ac9b17a0",
+        "duplicate_ids_corrected": 118,
+        "empty_duplicate_chapter_anchor_nodes_removed": 40,
+        "bibliography_ids_scoped_to_tomes": 78,
+        "fragment_links_retargeted": 191,
+        "tests_added": [
+          "test_integral_origines_archive_ids_are_unique"
+        ],
+        "checks": "Les 27 tomes sont conservés. Avant commit : 0 identifiant HTML dupliqué après modification, 0 fragment interne orphelin sur 1956 renvois locaux, texte universitaire strictement identique après suppression des balises, ancien ancrage ref-1 conservé pour compatibilité ; 40 doubles ancrages vides retirés et 191 liens de bibliographie ciblés par tome.",
+        "additional_correction": "scripts/audit_integrity.py ignore uniquement les fragments #/route du fichier HTML historique MYTHOS_bibliotheque_navigable.html, car ils sont des routes JavaScript et non des ancres ; les autres liens et ancres restent audités.",
+        "public_deployment_status": "Contrôle HTTPS le 4 novembre 2026 : six SVG des deux dernières séances iconographiques accessibles. /catalog/publication-verification.json indique source_commit=4b4ac0753f8243f6ddd1d3b36acbba32491671c7, github_run_id=41790851372, 1205 documents, 27 archives et 110 médias ; le déploiement des corrections du présent audit reste à vérifier.",
+        "content_preserved": "Contenus et ordre des 27 tomes, intitulés, paragraphes, figures et numéros historiques non modifiés. Seuls des attributs d'ancres et des repères vides ont été corrigés. Aucune édition du registre de numérotation, aucun nouveau manuscrit et aucun changement aux planifications.",
+        "obstacles": "Plusieurs publications concurrentes se succèdent. Audit externe complet des références scientifiques, recalcul PDF A4 et rendu mobile réel hors périmètre ; le statut public du commit correctif doit être vérifié.",
+        "commits": [],
+        "commit_note": "Le SHA du commit atomique est consultable via l'historique GitHub de cette entrée."
+      }
     }
   ]
 }
