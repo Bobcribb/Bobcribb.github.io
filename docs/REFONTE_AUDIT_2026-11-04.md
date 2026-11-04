@@ -35,3 +35,22 @@ Contrôles de livraison recommandés : `python -m unittest discover -s tests -v`
 ## Règle pour les intégrations ultérieures
 
 Pour les cinq collections numérotées, déposer seulement le manuscrit approuvé, intégral et vérifié dans `editorial/inbox/<uuid>.json`, avec `{{numero}}` ou `{{volume}}`. Le traitement GitHub Actions seul attribue le prochain numéro et produit un reçu ; aucune création manuelle dans `chapitres/` ni modification du registre. Conserver le même UUID si une écriture est incertaine.
+## Raccordement documentaire et galerie — 4 novembre 2026
+
+La garde des numéros a été lue sur `main` avant toute modification : `AGENTS.md` et `docs/PUBLICATION_CONCURRENTE.md`. Cette intervention ne crée **aucune nouvelle étude numérotée**, ne modifie pas `editorial/numbering.json` et ne touche pas aux workflows ni aux planifications horaires.
+
+### Sources examinées
+
+Le catalogue du dépôt et ses audits (`docs/REFONTE_AUDIT_2026-11-04.md`, `docs/CATALOGUE_GREC_2026-11-04.md`, `docs/PROTOCOLE_DRIVE_VERS_GITHUB.md`) ont été relus. Recherche complémentaire dans Drive sur MYTHOS, Chiron, Delphes et les études grecques : les ensembles « Brouillons sauvegardés » sont privés et non approuvés pour publication ; le mémoire Socrate–Delphes est déjà présent dans `chapitres/philosophie/`. Les passages historiques manquants de Chiron (118–133) et Nyx (218–224) restent décrits sans manuscrit universitaire complet retrouvé. Aucun texte inédit n'a donc été inventé, raccourci ou importé depuis les brouillons.
+
+### Changements vérifiables
+
+- `glossaire/index.html` : ancre **kleos** directement sur la notice philologique de Kléos (Iliade IX, 410–416), désormais accessible avec notice ouverte.
+- `bestiaire/index.html` : ancres **nemean**, **hydre**, **cerbere** sur les titres exacts des trois notices ; les liens depuis Héraclès retrouvent leurs cibles.
+- `reconstitutions-photorealistes.html` : nouveau sommaire illustré de **neuf lieux**, avec leurs images WEBP déjà répertoriées dans la galerie, des liens vers les vues existantes et **huit** dossiers archéologiques, en trois/deux/une colonnes suivant la largeur ; aucune image 2,5D nouvelle n'a été introduite.
+- `sites/delphes.html`, `sites/dodone.html`, `sites/nemee.html`, `sites/corinthe.html`, `sites/messene.html`, `sites/sounion.html`, `sites/brauron.html` et `sites/bassae.html` : **23 occurrences** d'anciennes ancres de galerie reliées à des vues réellement présentes dans la galerie photoréaliste. Les liens génériques de ces huit dossiers rejoignent directement la nouvelle galerie. Les formulations des trois liens de Delphes et Némée décrivent désormais des vues numériques interprétatives, et non les anciens schémas 2,5D.
+- `assets/mythos-museum.css` : mise en valeur accessible des notices ciblées ; charte noire et or, bannière statue/temple, sources et archives conservées.
+
+### Limites
+
+Les anciennes entrées liées à **Égine/Aphaïa** (`aeg-001`, `aeg-002`), au second ensemble de Dodone (`dod-002`) et à la cella de Bassae (`bas-002`) n'ont pas de vue photoréaliste correspondante parmi les seize cartes actuellement en dépôt. Elles ne sont pas remappées vers une image d'un autre monument. Les fichiers vectoriels historiques sont conservés dans les archives, et les références institutionnelles attachées aux dossiers n'ont pas été supprimées. Le statut du déploiement sur bobmythos.fr doit être confirmé séparément du commit.
