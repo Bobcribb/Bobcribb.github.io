@@ -448,6 +448,12 @@
           "path": "chapitres/encyclopedie/chapitre-385-ilithyie-eileithyia-grottes-crete-naissance-cultes-philosophie.md",
           "request_sha256": "db748ff5c9e6d944916a315b942a10b9169ebbe9d31592a591e422d2de5c901d",
           "initial_source_sha256": "58f6be3acc109432999bafea812ad0a4ce85218a3fe3b58f07ac0235b0436f8d"
+        },
+        "9ce2f150-6f13-45c8-8c6c-b2599bc743de": {
+          "number": 386,
+          "path": "chapitres/encyclopedie/chapitre-386-aidos-pudeur-respect-honte-hesiode-platon-cultes-philosophie.md",
+          "request_sha256": "671aa96219eaa0442cc8b18c97e5c87c6122f07ae60fe243d55d4d24d5a8a73f",
+          "initial_source_sha256": "e52379b5dfaaa9c2e495cc18dca2b5e3066a932a8bc83bf46a2989fae6361a52"
         }
       }
     },
@@ -887,6 +893,18 @@
           "path": "chapitres/comparatif/volume-clxxiii-tim-ingold-habiter-fabriquer-lignes-materiaux-techniques-ecologie-pratiques.md",
           "request_sha256": "6ea9a2cb371cb738867f8f6134d26ed77148805616d6082da166804cbd2d0408",
           "initial_source_sha256": "a7fdfc3e8b36815b41f372d733b1dc667819d4cc3b1537555834dd5289495721"
+        },
+        "6f91dc82-3a20-4bf7-8d12-5ac34e768290": {
+          "number": 174,
+          "path": "chapitres/comparatif/volume-clxxiv-ian-hodder-enchevetrement-dependances-materielles-sanctuaires-entretien-pouvoir.md",
+          "request_sha256": "231fd50d8e1a95ebde55a9fa34d5252cec5bfe991c6acbaca0655551c53d6e37",
+          "initial_source_sha256": "581974412cf00d50e9322303eea79aba622cc5dff987c81a4967b97dc3d4f726"
+        },
+        "b5de093e-74a6-4e5b-9184-d53f87192ec0": {
+          "number": 175,
+          "path": "chapitres/comparatif/volume-clxxv-lambros-malafouris-engagement-materiel-cognition-ceramique-signes.md",
+          "request_sha256": "c5c29ed0ef86e7fe2ebb3168c77835251f0b5269d325b7af22cb6b391eed2535",
+          "initial_source_sha256": "9d00949285187c57c64a1d6ce0e1f3764ca08b85b58f274e98a419452bcce708"
         }
       }
     }
