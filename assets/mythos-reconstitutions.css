@@ -34,3 +34,9 @@ html{scroll-behavior:smooth}body{background:var(--r-bg);color:var(--r-ink)}
 .r3d-footer a{color:#e2c38b}
 @media(max-width:840px){.r3d-grid{grid-template-columns:1fr}.r3d-hero{min-height:300px}.r3d-shell{width:min(100% - 28px,1420px)}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+
+/* Liens vers les notices détaillées : source institutionnelle toujours distincte. */
+.r3d-card .r3d-source a.r3d-study-link{display:inline-block;max-width:100%;margin:.45rem 0 0 .35rem;padding:.38rem .7rem;border:1px solid var(--r-line);border-radius:3px;background:#111b1d;color:#efd4a0;font:600 .9rem/1.45 Georgia,serif;text-wrap:pretty;vertical-align:middle}
+.r3d-card .r3d-source a.r3d-study-link:hover{background:#233031;border-color:var(--r-gold)}
+.r3d-card .r3d-source a.r3d-study-link:focus-visible{outline:2px solid var(--r-gold);outline-offset:3px}
+@media(max-width:580px){.r3d-card .r3d-source a.r3d-study-link{display:block;width:fit-content;margin:.7rem 0 0;padding:.65rem .8rem}}
