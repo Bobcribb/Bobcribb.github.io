@@ -476,15 +476,15 @@ CSS = '''
 .greek-folder-credit a{color:#f7dda7;text-decoration:underline}
 @media(max-width:700px){.mythos-design .greek-folder-link>.greek-folder-illustration{height:125px!important}}
 .greek-folder-toc ul{display:flex;flex-wrap:wrap;justify-content:center;gap:.7rem;list-style:none;padding:0}
-.greek-folder-toc a{display:block;padding:.7rem 1rem;border:1px solid #8b724d;border-radius:5px;color:#ead3a9;text-decoration:none}
+.greek-folder-toc a{display:flex;align-items:center;min-height:44px;box-sizing:border-box;padding:.7rem 1rem;border:1px solid #8b724d;border-radius:5px;color:#ead3a9;text-decoration:none;line-height:1.45;overflow-wrap:anywhere}
 .greek-folder-links{list-style:none;padding:0;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:.8rem 1.6rem}
 .greek-folder-links li{padding:.65rem 0;border-bottom:1px solid #57472f;min-width:0}
 .greek-folder-links a{display:block;color:#f0dfc0;overflow-wrap:anywhere;line-height:1.5}
 .greek-folder-links small{display:block;color:#bfb39a;font:.78rem/1.5 system-ui;margin-top:.3rem}
-.greek-folder-breadcrumb{margin:0 0 1.4rem;padding:.8rem 0;color:#dec18d;font-size:.9rem}
+.greek-folder-breadcrumb{margin:0 0 1.4rem;padding:.8rem 0;color:#dec18d;font-size:.9rem;line-height:1.7;overflow-wrap:anywhere}
 .greek-complete-catalogue{margin:2.5rem 0;border-top:1px solid #8b724d;padding-top:1.2rem}
 .greek-complete-catalogue>summary{font:1.35rem Georgia,serif;color:#e9cd9a;cursor:pointer;padding:.8rem}
 .greek-folder-toc a:focus-visible,.greek-folder-links a:focus-visible,.greek-complete-catalogue>summary:focus-visible{outline:3px solid #f8dc9c;outline-offset:4px}
 @media(max-width:1050px){.greek-folder-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
-@media(max-width:700px){.greek-folder-grid,.greek-folder-links{grid-template-columns:1fr}.greek-folder-toc ul{display:block}.greek-folder-toc li{margin-bottom:.5rem}}
+@media(max-width:700px){.greek-folder-grid,.greek-folder-links{grid-template-columns:1fr}.greek-folder-toc ul{display:block}.greek-folder-toc li{margin-bottom:.5rem}.greek-folder-toc a{width:100%}}
 '''
