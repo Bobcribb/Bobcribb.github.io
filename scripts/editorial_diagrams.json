@@ -296,6 +296,54 @@
       "caption_html": "<strong>Schéma pédagogique original MYTHOS, en deux dimensions, non document antique.</strong> Les trois tragédies de l’Orestie et leur progression du meurtre et de la vengeance vers le conflit de justices. Référence : Eschyle, Agamemnon, première pièce de l’Orestie. <a href=\"https://www.theoi.com/Text/AeschylusAgamemnon.html\">Consulter la source ou l’étude</a>. Regroupement critique moderne, non reconstitution archéologique.",
       "width": 1200,
       "height": 620
+    },
+    {
+      "id": "mythos-diagramme-eneide-fuite-troie-livre-ii",
+      "path": "assets/iconographie/eneide-fuite-troie-livre-ii.svg",
+      "subjects": [
+        "Énéide",
+        "Virgile, Énéide"
+      ],
+      "alt": "Enéide II : destruction de Troie, sauvegarde d’Anchise et d’Ascagne, perte de Créuse et départ en exil.",
+      "caption_html": "<strong>Schéma pédagogique original MYTHOS, en deux dimensions, non document antique.</strong> Enéide II : destruction de Troie, sauvegarde d’Anchise et d’Ascagne, perte de Créuse et départ en exil. <a href=\"https://dcc.dickinson.edu/vergil-aeneid/vergil-aeneid-ii-1-20\">Texte et commentaire de référence</a>. Séquence éditoriale interprétative, ni photographie, ni relevé archéologique.",
+      "width": 1200,
+      "height": 620
+    },
+    {
+      "id": "mythos-diagramme-eneide-didon-dilemme-livre-iv",
+      "path": "assets/iconographie/eneide-didon-dilemme-livre-iv.svg",
+      "subjects": [
+        "Énéide",
+        "Virgile, Énéide"
+      ],
+      "alt": "Enéide IV : l’accueil de Didon, la grotte, le rappel de Mercure et la séparation tragique.",
+      "caption_html": "<strong>Schéma pédagogique original MYTHOS, en deux dimensions, non document antique.</strong> Enéide IV : l’accueil de Didon, la grotte, le rappel de Mercure et la séparation tragique. <a href=\"https://dcc.dickinson.edu/vergil-aeneid/introduction\">Texte et commentaire de référence</a>. Séquence éditoriale interprétative, ni photographie, ni relevé archéologique.",
+      "width": 1200,
+      "height": 620
+    },
+    {
+      "id": "mythos-diagramme-eneide-turnus-denouement-livre-xii",
+      "path": "assets/iconographie/eneide-turnus-denouement-livre-xii.svg",
+      "subjects": [
+        "Énéide",
+        "Virgile, Énéide"
+      ],
+      "alt": "Enéide XII : traité, guerre reprise, supplication de Turnus et décision finale d’Énée.",
+      "caption_html": "<strong>Schéma pédagogique original MYTHOS, en deux dimensions, non document antique.</strong> Enéide XII : traité, guerre reprise, supplication de Turnus et décision finale d’Énée. <a href=\"https://dcc.dickinson.edu/vergil-aeneid/introduction\">Texte et commentaire de référence</a>. Séquence éditoriale interprétative, ni photographie, ni relevé archéologique.",
+      "width": 1200,
+      "height": 620
+    },
+    {
+      "id": "mythos-diagramme-kokalos-trois-niveaux-sources",
+      "path": "assets/iconographie/kokalos-trois-niveaux-sources.svg",
+      "subjects": [
+        "Kôkalos",
+        "Kokalos"
+      ],
+      "alt": "Kôkalos, comédie perdue d’Aristophane : témoignages, mythe indépendant et hypothèses de reconstitution.",
+      "caption_html": "<strong>Schéma pédagogique original MYTHOS, en deux dimensions, non document antique.</strong> Témoignages sur la pièce perdue, récits de Dédale et Cocalos, et hypothèses modernes, distincts. <a href=\"https://www.greek-language.gr/digitalResources/ancient_greek/library/index.html?genre_id=5\">Aristote, Poétique</a> ; <a href=\"https://bobmythos.fr/corpus/theatre-grec/comedies/kokalos-etude.html\">étude critique et précautions MYTHOS</a>.",
+      "width": 1200,
+      "height": 590
     }
   ]
 }
