@@ -32,6 +32,7 @@ on:
       - 'scripts/origines_reconciliation.py'
       - 'EDITORIAL_REDIRECTS.json'
       - 'editorial/**'
+      - 'scripts/comparative_history.py'
       - 'scripts/editorial_queue.py'
       - 'scripts/verify_publication.py'
       - 'tests/test_editorial_queue.py'

@@ -112,7 +112,7 @@ class GitRaceTests(unittest.TestCase):
             initialize(a)
             scripts = Path(__file__).resolve().parents[1]/"scripts"
             (a/"scripts").mkdir()
-            for name in ("editorial_queue.py","publish_site.py"):
+            for name in ("editorial_queue.py","publish_site.py","comparative_history.py"):
                 shutil.copy2(scripts/name, a/"scripts"/name)
             # Lightweight fixtures isolate actual Git retry behaviour from the
             # full site build, which is exercised separately on the real corpus.

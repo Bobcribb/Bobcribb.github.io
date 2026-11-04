@@ -191,6 +191,41 @@ def verify_public_receipt(base, root):
 
 
 
+def verify_public_history(base, root):
+    """Verify the deployed MC notices, complete texts and catalogue statuses."""
+    from comparative_history import REPORT, url
+    expected = json.loads((root/REPORT).read_text())
+    pages = {'/mythologie-comparee/', '/philosophie/', '/collections-numerotees/'}
+    members = set()
+    for group in expected['groups'].values():
+        pages.add(group['guide_url'])
+        members.add(group['guide_url'])
+        for member in group['members']:
+            pages.add(url(member))
+            members.add(url(member))
+    results = []
+    for path in ['/'+REPORT.as_posix(), '/search.json', '/catalog/entries.json', '/sitemap.xml']+sorted(pages):
+        try:
+            status, _, body = fetch(base.rstrip('/')+path)
+            local = root/path.lstrip('/')
+            if path.endswith('/'): local /= 'index.html'
+            if path in ('/search.json', '/catalog/entries.json'):
+                def selected(value):
+                    data = json.loads(value)
+                    entries = data['entries'] if isinstance(data,dict) else data
+                    return {e['url']:e for e in entries if e['url'] in members}
+                valid = selected(body) == selected(local.read_bytes()) and len(selected(body)) == len(members)
+            elif path == '/sitemap.xml':
+                valid = all(('https://bobmythos.fr'+address).encode() in body for address in members)
+            else:
+                valid = body == local.read_bytes()
+            results.append({'url':path, 'valid':status==200 and valid,
+                            'status':status, 'historical_content_matches_build':valid})
+        except Exception as error:
+            results.append({'url':path,'valid':False,'error':str(error)})
+    return results
+
+
 def main():
     parser=argparse.ArgumentParser()
     parser.add_argument('--base',default='https://bobmythos.fr')
@@ -232,9 +267,11 @@ def main():
     except Exception as error:
         figure_results=[{'url':'/figures-scientifiques/', 'valid':False,
                          'error':'Inventaire de figures : '+str(error)}]
-    failures=[r for r in results+svg_results+figure_results if not r['valid']]
+    history_results=verify_public_history(args.base, Path('_site'))
+    failures=[r for r in results+svg_results+figure_results+history_results if not r['valid']]
     report={'checked_at':datetime.now(timezone.utc).isoformat(),'base_url':args.base,
-            'checked':len(results)+len(svg_results)+len(figure_results),
+            'checked':len(results)+len(svg_results)+len(figure_results)+len(history_results),
+            'historical_checks':history_results,
             'receipt_matches_build':receipt_ok,'svg_checks':svg_results,
             'figure_checks':figure_results,'failures':failures,'results':results}
     Path(args.output).write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n')

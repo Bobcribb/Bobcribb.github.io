@@ -89,7 +89,10 @@ def verify(root=Path("."), out=Path("_site")):
         assert len(body) == item["size"] and hashlib.sha256(body).hexdigest() == item["sha256"], item["path"]
     assert (out / "CNAME").read_text().strip() == "bobmythos.fr"
     assert "/media/2026/10/" in (out / "akhetaton-horizon-aton-etude/index.html").read_text()
+    from comparative_history import verify as verify_history
+    historical = verify_history(root, out)
     evidence = {
+        "comparative_history": historical,
         "source_commit": subprocess.check_output(["git", "rev-parse", "HEAD"], text=True).strip(),
         "github_run_id": os.environ.get("GITHUB_RUN_ID"),
         "indexed_documents": len(indexed), "verified_archives": 27, "verified_media": 110,

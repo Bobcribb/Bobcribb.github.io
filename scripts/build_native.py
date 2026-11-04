@@ -302,6 +302,8 @@ def main():
     for entry in chapters:
         if entry['url'] in numbered_titles:
             entry['title'] = numbered_titles[entry['url']]
+    from comparative_history import annotate as annotate_history
+    annotate_history(ROOT, numbered_collections, chapters)
     # Réconciliation explicite de deux collisions documentées, sans réécrire les sources.
     import build_navigation as navigation
     from origines_reconciliation import install, verify_sources
@@ -338,6 +340,8 @@ def main():
     numbering = finish(OUT, ROOT, numbered_collections)
     from improve_reading import prepare, enhance, audit
     prepare(OUT, ROOT)
+    from comparative_history import install as install_history
+    install_history(ROOT, OUT)
     n_indexed = reindex(chapters)
     navigation.finalize_navigation(n_indexed)
     print("Numérotation vérifiée :", numbering["renumbered_studies"], "études réconciliées ;", numbering["corrected_links"], "liens harmonisés")

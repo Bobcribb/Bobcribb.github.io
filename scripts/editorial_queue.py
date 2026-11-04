@@ -100,6 +100,8 @@ def validate(root, data=None):
             missing = sorted(set(expected) - set(actual))
             raise ValueError(f"{collection} : numérotation non attribuée ou source manquante; "
                              f"ajouts={added}, absences={missing}. Utiliser editorial/inbox.")
+    from comparative_history import validate as validate_history
+    validate_history(root)
     return data
 
 
@@ -159,6 +161,8 @@ def apply(root):
             "request_sha256": payload_hash, "initial_source_sha256": digest(encoded),
         }
         planned.append((target, encoded))
+    from comparative_history import validate as validate_history
+    validate_history(root, planned)
     for target, encoded in planned:
         (root / target).parent.mkdir(parents=True, exist_ok=True)
         with (root / target).open("xb") as stream:

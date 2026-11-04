@@ -37,3 +37,11 @@ Contrôles : `python -m unittest discover -s tests -v`,
 `python scripts/build_native.py`, `python scripts/verify_publication.py`.
 `scripts/publish_site.py` utilise des worktrees temporaires isolés ; ne pas
 réinitialiser un checkout contenant des modifications locales.
+
+- Identifiants historiques MC : ils sont distincts des numéros canoniques.
+  MC-025 a une seule référence principale (CLXXXIII / 183) et deux compléments
+  (CLXXXVII / 187, CLXXXIX / 189), déclarés dans
+  `editorial/comparative-history.json`. Ne pas soumettre une nouvelle livraison
+  autonome de ce sujet sous un autre UUID ou un autre slug. Le contrôle de la
+  file refuse les collisions historiques avant toute attribution. Les notices
+  et renvois se construisent sans réécriture des trois manuscrits protégés.
