@@ -1477,6 +1477,71 @@
       ],
       "commit_note": "Deux commits dans la même séance d'audit : 14d80a9... (extension) puis correctif de partage inter-pages ; conserver une seule entrée de séance. Le SHA du correctif doit être lu dans GitHub après validation.",
       "followup_correction": "Après relecture du premier commit 14d80a9d78f3dbaab8b8b8e1796582881e544c63, correction du faux doublon dû à un WebP partagé entre deux pages ; refuser les doubles médias sur la même page, autoriser leur réutilisation inter-pages ; ajustement des assertions 19/25 et ajout d'une régression spécifique. Aucune modification du texte ni des images du site."
+    },
+    {
+      "date": "2026-11-04",
+      "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "previous_kind": "AUDIT ET CORRECTION",
+      "next_kind": "AUDIT ET CORRECTION",
+      "scope": "Trois schémas originaux 2D déjà présents dans les monographies philosophiques, mis en valeur dans les trois livres de lecture ; reclassement de la gravure de Circé du chant XXIII au chant X.",
+      "basis_commit": "b4e5a99e7d579b6d68ff2b1976eada062dbff9e2",
+      "modified_pages": [
+        "livre-iliade-scenes/index.html",
+        "livre-odyssee/index.html",
+        "livre-hesiode/index.html"
+      ],
+      "added_figure_count": 3,
+      "new_binary_assets": 0,
+      "reused_svg_assets": [
+        "/assets/philosophie/iliade-bouclier-monde.svg",
+        "/assets/philosophie/odyssee-lit-olivier-signe-20261104.svg",
+        "/assets/philosophie/theogonie-muses-verite.svg"
+      ],
+      "checked_pages": [
+        {
+          "path": "livre-iliade-scenes/index.html",
+          "ids": 60,
+          "anchors": 35,
+          "imgsBefore": 9,
+          "imgsAfter": 10,
+          "broken": 0,
+          "duplicateIds": 0,
+          "altless": 0
+        },
+        {
+          "path": "livre-odyssee/index.html",
+          "ids": 58,
+          "anchors": 31,
+          "imgsBefore": 9,
+          "imgsAfter": 10,
+          "broken": 0,
+          "duplicateIds": 0,
+          "altless": 0
+        },
+        {
+          "path": "livre-hesiode/index.html",
+          "ids": 44,
+          "anchors": 26,
+          "imgsBefore": 8,
+          "imgsAfter": 9,
+          "broken": 0,
+          "duplicateIds": 0,
+          "altless": 0
+        }
+      ],
+      "illustration_sources": [
+        "Homère, Iliade XVIII, 478–608, Theoi",
+        "Homère, Odyssée XXIII, 177–230, Theoi",
+        "Hésiode, Théogonie 22–35, Kosmos Society"
+      ],
+      "corrected_placement": "L'estampe Flaxman/Parker de Circé, 1805, jusque-là affichée au chant XXIII, est déplacée sous le chant X sans duplication ni suppression.",
+      "validation": "Trois SVG préexistants vérifiés sur main, avec title et desc ; chacune des 3 figures ajoute une illustration (10/10/9 pour les lecteurs) et déclare 2026, création assistée par IA et absence d'artefact antique ; contrôle regex des ids, ancres et alt des 3 HTML avant commit. Vérification publique après commit distincte.",
+      "pagination": "Les PDF des trois monographies sont inchangés ; le manifeste existant atteste 122, 116 et 117 pages A4 d'étude, au-delà du minimum demandé, sans nouveau rendu.",
+      "preservation": "Textes scientifiques, sommaires, numéros, registres d'attribution, workflows et fréquence des autres automatisations inchangés.",
+      "publication_status": "Non encore confirmé publiquement : les fichiers à committer doivent être relus après écriture ; URL HTTPS et manifeste de déploiement à contrôler.",
+      "limitations": "Les trois créations sont des diagrammes 2D modernes, pas des vues archéologiques. Pas de nouveau binaire ; pas de test en navigateur mobile ; PDF non régénérés.",
+      "commits": [],
+      "commit_note": "Le SHA exact du commit atomique se trouve dans l'historique du dépôt ; vérifier l'écriture et relire avant toute annonce."
     }
   ]
 }
