@@ -62,6 +62,27 @@ class HomeEneideCardsTests(unittest.TestCase):
                 self.assertEqual(page.select_one('#home-oeuvres h2').get_text(),
                                  'Quatre œuvres à approfondir')
 
+    def test_rebuilt_portal_restores_missing_documentary_alt(self):
+        # La chaîne de publication reconstruit parfois l'image avec alt vide.
+        with TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            doc = BeautifulSoup((ROOT / 'index.html').read_text(encoding='utf-8'),
+                                'html.parser')
+            card = doc.select_one('#home-oeuvres a[href="' + URL + '"]')
+            self.assertIsNotNone(card)
+            card.select_one('img')['alt'] = ''
+            (root / 'index.html').write_text(str(doc), encoding='utf-8')
+            image = root / IMAGE.lstrip('/')
+            image.parent.mkdir(parents=True, exist_ok=True)
+            image.write_bytes(b'documented-fixture')
+            for _ in range(2):
+                self.assertEqual(apply(root), 1)
+                reader = BeautifulSoup((root / 'index.html').read_text(encoding='utf-8'),
+                                       'html.parser')
+                image_tag = reader.select_one('#home-oeuvres a[href="' + URL + '"] img')
+                self.assertIn('non illustration du récit', image_tag['alt'])
+                self.assertEqual(image_tag['src'], IMAGE)
+
     def test_missing_documentary_image_is_not_hidden(self):
         with TemporaryDirectory() as temporary:
             root = Path(temporary)
