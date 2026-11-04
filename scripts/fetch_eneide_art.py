@@ -24,6 +24,7 @@ ITEMS = [
     (195297, "didon-carthage-met.jpg", "Aeneas Departs from Carthage (Aeneid, Book IV)"),
     (435813, "sibylle-enfers-met.jpg", "Aeneas and the Sibyl in the Underworld"),
     (420445, "venus-vulcain-met.jpg", "Venus at the Forge of Vulcan"),
+    (337206, "deuil-pallas-met.jpg", "The Mourning of Pallas"),
 ]
 USER_AGENT = "MYTHOS-academic-edition/1.0 (Open Access museum illustration; https://bobmythos.fr/)"
 
