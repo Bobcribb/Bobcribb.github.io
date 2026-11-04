@@ -34,6 +34,11 @@ def build():
             dest.parent.mkdir(parents=True,exist_ok=True)
             shutil.copy2(source,dest)
             copies+=1
+    # Share the article enrichment with the full build. A later image-only
+    # deployment must not restore the old two-document galleries from main.
+    # This changes only generated copies, never the scholarly source files.
+    from editorial_illustrations import decorate_pages
+    illustrated = decorate_pages(OUT)
     gallery=(OUT/"reconstitutions-photorealistes.html").read_text(encoding="utf-8")
     catalogue=json.loads((OUT/"assets/reconstitutions-3d/catalogue-photorealiste.json").read_text(encoding="utf-8"))
     items=catalogue["entries"]
@@ -70,7 +75,7 @@ def build():
         target=OUT/uri.lstrip("/")
         if uri.endswith("/"): target=target/"index.html"
         if not target.is_file(): raise RuntimeError("Article public absent : "+uri)
-    print(f"MYTHOS : {copies} ressources, {len(pages)} pages, {len(pdfs)} PDF, {len(items)} WebP vérifiés.",flush=True)
+    print(f"MYTHOS : {copies} ressources, {len(pages)} pages, {len(pdfs)} PDF, {len(items)} WebP vérifiés ; {illustrated} galeries documentaires actualisées.",flush=True)
 
 if __name__=="__main__":
     try: build()

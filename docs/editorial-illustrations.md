@@ -105,3 +105,19 @@ Les 110 fichiers du fonds documentaire original restent inchangés.
 
 Validation locale : 105 tests du dépôt et 16 tests iconographiques réussis.
 Les manuscrits, leur numérotation et les planifications restent inchangés.
+
+
+## Conservation lors des publications rapides
+
+Le constructeur d’instantané des reconstitutions applique désormais le même
+catalogue aux copies HTML des articles. Il ne modifie aucun fichier source.
+Les titres déplacés dans la bannière muséale sont reconnus, ainsi que le titre
+d’œuvre sous une bannière limitée au numéro (y compris les numéros romains
+suivis de leur équivalent décimal). Une simple sous-section comparative ne
+sert toujours pas de critère.
+
+Validation sur main après enrichissement : 113 tests généraux, 18 tests
+iconographiques ; instantané complet de 1 202 pages, six PDF et 28 WebP.
+Les 140 ajouts des 90 articles sont présents, et aucune image des anciennes
+galeries documentaires des chapitres n’est perdue. La publication rapide
+actualise 212 galeries, sans réécrire les manuscrits ni leur numérotation.

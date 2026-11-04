@@ -57,9 +57,20 @@ def page_subject(path, article):
     # Some manuscripts put the collection and the actual work in two H1s.
     for heading in article.find_all("h1", limit=2):
         parts.append(heading.get_text(" ", strip=True))
+    # The museum renderer moves the page H1 into its banner. Its title is
+    # still page-specific evidence when a snapshot reuses rendered HTML.
+    body = article.find_parent("body")
+    banner = body.select_one(".mythos-banner h1") if body else None
+    banner_title = banner.get_text(" ", strip=True) if banner else ""
+    if banner_title:
+        parts.append(banner_title)
     # Older Markdown manuscripts use a collection-wide H1 and a chapter H2.
     chapter_heading = article.find("h2")
     if chapter_heading and re.match(r"^(?:Tome|Volume|Chapitre|Dossier|MC[- ])\b", chapter_heading.get_text(strip=True), re.I):
+        parts.append(chapter_heading.get_text(" ", strip=True))
+    elif chapter_heading and not article.find("h1") and re.search(r"\b(?:Chapitre|Volume)\s+(?:\d+|[IVXLCDM]+)(?:\s*\(\d+\))?\s*$", banner_title, re.I):
+        # A collection/number-only banner leaves the actual work title as
+        # the first H2. Do not use arbitrary subsection headings otherwise.
         parts.append(chapter_heading.get_text(" ", strip=True))
     return normalized(" ".join(parts))
 
@@ -107,7 +118,7 @@ def decorate_document(source, path, out, records):
         doc.head.append(doc.new_tag("link", rel="stylesheet", href="/assets/mythos-refonte.css"))
     chosen = select_media(path, article, out, records)
     if chosen:
-        aside = doc.new_tag("aside", attrs={"class": "mythos-home-illustrations", "data-editorial-gallery": "subject-v2", "aria-label": "Documents en rapport avec le sujet"})
+        aside = doc.new_tag("aside", attrs={"class": "mythos-home-illustrations mythos-bottom-gallery", "data-editorial-gallery": "subject-v2", "aria-label": "Documents en rapport avec le sujet"})
         heading = doc.new_tag("h2")
         heading.string = "Documents iconographiques"
         aside.append(heading)

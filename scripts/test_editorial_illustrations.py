@@ -67,6 +67,19 @@ class EditorialIllustrationsTest(unittest.TestCase):
             _, selected = self.render_page('nouveau-chapitre', title)
             self.assertEqual([], selected)
 
+    def test_snapshot_uses_the_page_title_moved_to_the_museum_banner(self):
+        for banner, heading in [('Chapitre 260 : Astéria et la naissance de Délos', 'Introduction'), ('MYTHOS — Volume XCVII — Chapitre 315', 'Égée et l’oracle de Delphes'), ('MYTHOS — Volume CL (150)', 'Euripide, Médée')]:
+            source = f'<html><body><header class="mythos-banner"><h1>{banner}</h1></header><main><article><h2>{heading}</h2><p>Texte conservé.</p></article></main></body></html>'
+            result, selected = illustrations.decorate_document(source, Path('chapitre/index.html'), ROOT, self.records)
+            self.assertGreaterEqual(len(selected), 2)
+            self.assertIn('mythos-bottom-gallery', result)
+            self.assertIn('Texte conservé.', result)
+
+    def test_snapshot_does_not_select_from_a_comparative_subsection(self):
+        source = '<html><body><header class="mythos-banner"><h1>Calendriers de l’Inde</h1></header><main><article><h2>Comparaison avec Derveni</h2><p>Étude.</p></article></main></body></html>'
+        _, selected = illustrations.decorate_document(source, Path('calendriers/index.html'), ROOT, self.records)
+        self.assertEqual([], selected)
+
     def test_work_heading_after_collection_heading(self):
         _, selected = self.render_page('volume-150', 'MYTHOS — Tragédies grecques', '<h1>Euripide, Médée</h1><p>Étude intégrale.</p>')
         self.assertEqual(['mythos-medee-fuite-char-serpents-hydrie-policoro-35296', 'mythos-van-loo-medee-jason'], selected)
