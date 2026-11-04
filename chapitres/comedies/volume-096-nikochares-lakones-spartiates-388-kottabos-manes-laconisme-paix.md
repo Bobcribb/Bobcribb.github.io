@@ -8,7 +8,7 @@
 
 **Édition contrôlée :** Christian Orth, *Nikochares – Xenophon. Einleitung, Übersetzung, Kommentar*, *Fragmenta Comica* 9.3, Heidelberg, 2015, **p. 78–82**, [p. 78](https://digi.hadw-bw.de/view/frc9_3/0083), [p. 79](https://digi.hadw-bw.de/view/frc9_3/0084), [p. 80](https://digi.hadw-bw.de/view/frc9_3/0085), [p. 81](https://digi.hadw-bw.de/view/frc9_3/0086), [p. 82](https://digi.hadw-bw.de/view/frc9_3/0087) ; DOI [10.11588/diglit.52132](https://doi.org/10.11588/diglit.52132). Numérotation : Rudolf Kassel et Colin Austin, *Poetae Comici Graeci*, VII (1989), **p. 45**. La monographie étudie ces sources sans transcrire un long passage de l'édition moderne.
 
-**Continuité publiée, antérieure à la présente demande :** Nicocharès, [*Kentauros*, volume XCIV (94)](/chapitres/comedies/volume-094-nikochares-kentauros-centaure-agora-dartheis-chiron-pholos/), et [*Krētes*, volume XCV (95)](/chapitres/comedies/volume-095-nikochares-kretes-outils-alenes-forets-dedale-pasiphae-paratragedie/), distincts de la présente comédie ; voir le [sommaire général des comédies](/comedies-grecques/). **Aucun numéro futur n'est réservé ici**. L'attribution de 96 / XCVI revient uniquement au reçu éditorial GitHub.
+**Continuité publiée, antérieure à la présente demande :** Nicocharès, [*Kentauros*, volume XCIV (94)](/chapitres/comedies/volume-094-nikochares-kentauros-centaure-agora-dartheis-chiron-pholos/), et [*Krētes*, volume XCV (95)](/chapitres/comedies/volume-095-nikochares-kretes-outils-alenes-forets-dedale-pasiphae-paratragedie/), distincts de la présente comédie ; voir le [sommaire général des comédies](/comedies-grecques-aristophane-menandre/). **Aucun numéro futur n'est réservé ici**. L'attribution de 96 / XCVI revient uniquement au reçu éditorial GitHub.
 
 ---
 

@@ -5,79 +5,42 @@
   "branch": "main",
   "latest_session": {
     "date": "2026-11-04",
-    "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "previous_kind": "AUDIT ET CORRECTION",
-    "next_kind": "AUDIT ET CORRECTION",
-    "scope": "Trois figures patrimoniales authentiques intégrées dans les monographies philosophiques : Athéna et Diomède (Iliade V), Pénélope et reconnaissance (Odyssée XIX), Aphrodite (Théogonie 188–206). Aucun média binaire dupliqué.",
-    "basis_commit": "487620135d735401a5fcddd657b4970e46abbae4",
-    "modified_pages": [
-      "philosophie-iliade.html",
-      "philosophie-odyssee.html",
-      "philosophie-theogonie.html"
-    ],
-    "figures_added": [
-      {
-        "page": "philosophie-iliade.html",
-        "section": "iliade-long-a07",
-        "id": "icono-iliade-athena-diomede-bronze-philosophie-20261104",
-        "src": "/assets/illustrations-articles/met-254648-athena-chouette-bronze.webp"
-      },
-      {
-        "page": "philosophie-odyssee.html",
-        "section": "odyssee-long-b08",
-        "id": "icono-odyssee-penelope-telemaque-chiusi-philosophie-20261104",
-        "src": "/media/2026/10/penelope-telemaque-metier-coupe-chiusi-1831.jpg"
-      },
-      {
-        "page": "philosophie-theogonie.html",
-        "section": "theogonie-long-a08",
-        "id": "icono-theogonie-aphrodite-anadyomene-philosophie-20261104",
-        "src": "/assets/illustrations-articles/met-253504-aphrodite-bronze.webp"
-      }
-    ],
-    "assets_reused": [
-      "/assets/illustrations-articles/met-254648-athena-chouette-bronze.webp",
-      "/media/2026/10/penelope-telemaque-metier-coupe-chiusi-1831.jpg",
-      "/assets/illustrations-articles/met-253504-aphrodite-bronze.webp"
-    ],
-    "images_added": 3,
-    "new_binary_assets": 0,
-    "image_counts_before": {
-      "philosophie-iliade.html": 26,
-      "philosophie-odyssee.html": 25,
-      "philosophie-theogonie.html": 25
+    "kind": "AUDIT ET CORRECTION",
+    "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "scope": "Audit intégral CI : correction des trois liens cassés /comedies-grecques/ dans les volumes de comédies 94, 95 et 96 (manuscrits et HTML), et fiabilisation du script de vérification responsive bloqué par networkidle.",
+    "basis_commit": "323ab99ce26851336905ee269e4276e28a1de02a",
+    "audit_evidence": {
+      "run_id": 41907236671,
+      "head_commit": "38558e7b9335f7314dde6803f721c2e4e512b562",
+      "html_files": 1446,
+      "local_links_checked": 123960,
+      "fragment_links_checked": 36181,
+      "hard_errors": 0,
+      "warnings": "Trois href /comedies-grecques/ dans les volumes 094, 095, 096."
     },
-    "image_counts_after": {
-      "philosophie-iliade.html": 27,
-      "philosophie-odyssee.html": 26,
-      "philosophie-theogonie.html": 26
+    "fixes": {
+      "links": [
+        94,
+        95,
+        96
+      ],
+      "old_href": "/comedies-grecques/",
+      "new_href": "/comedies-grecques-aristophane-menandre/",
+      "updated_copies": 6,
+      "valid_target_confirmed_in_repository": true,
+      "browser_script": "scripts/verify_greek_navigation.cjs : Playwright goto attend désormais domcontentloaded, non networkidle ; les vérifications HTTP 200, titres, menus, ancres, dossiers et largeur restent identiques."
     },
-    "precommit_checks": {
-      "pages": 3,
-      "html_ids_checked": 339,
-      "same_page_anchors_checked": 335,
-      "img_elements_checked": 79,
-      "duplicate_ids": 0,
-      "broken_anchors": 0,
-      "images_without_alt": 0,
-      "missing_css_or_js": 0,
-      "missing_local_media": 0
+    "deployment_evidence": {
+      "failed_workflow_id": 41906787338,
+      "failed_step": "Vérifier les menus et les dossiers sur le domaine public aux trois formats",
+      "error": "page.goto Timeout 60000ms waiting for networkidle on https://bobmythos.fr/mythologie-grecque/",
+      "current_publication": "Non confirmée : accès direct HTTPS impossible dans cet environnement, et une publication déclenchée à 20:30Z est encore en cours au contrôle."
     },
-    "scientific_sources": [
-      "Metropolitan Museum of Art 50.11.1, Athéna, bronze vers 460 av. J.-C. ; Iliade V, 121–133.",
-      "Peintre de Pénélope, skyphos vers 440 av. J.-C., musée de Chiusi inv. 1831 ; cliché ArchaiOptix 2016 CC BY-SA 4.0 ; Odyssée XIX.",
-      "Metropolitan Museum of Art 35.122, Aphrodite Anadyomène, fin IIe ou Ier siècle av. J.-C. ; Théogonie 188–206."
-    ],
-    "verification": "Le garde HTTPS scripts/verify_live_site.py recense désormais 25 associations figure/page sur six pages, portant sur 20 fichiers uniques ; tests/test_verify_live_site_assets.py adapte ses compteurs et ajoute la détection de pages périmées et fichiers JPEG/WebP altérés.",
-    "a4_manifest": "catalog/reading-pdfs.json sur main signale les études Iliade 122 pages, Odyssée 116, Théogonie 117 ; pas de nouvelle impression ou vérification visuelle des PDF.",
-    "preservation": "Figures ajoutées à la suite des titres de lectures, texte universitaire initial inchangé ; aucun numéro, registre, sommaire, navigation, workflow, planification ou média existant modifié. AGENTS.md et docs/PUBLICATION_CONCURRENTE.md relus.",
-    "publication_status": "Intégration GitHub en cours de vérification ; la publication HTTPS du nouveau lot n'est pas confirmée.",
-    "limitations": "Tests structuraux des trois pages exécutés avant commit ; pas de suite complète Python ni de validation responsive sur matériel, et contrôle HTTPS bobmythos.fr indisponible par navigateur web pendant cette séance.",
-    "commits": [
-      "93ad123fc79154d66ef73a0c770d17f7dc929117"
-    ],
-    "ci_observation": "Premier run GitHub Actions 41901357133 : 206 tests dont tests des 3 figures et garde JPEG/WebP OK, 2 échecs vérifiés : ordre inversé du journal par insertion en tête (corrigé ici), et attribut alt vide sur la vignette patrimoniale de l’Énéide à l’accueil (corrigé ici). Revalidation du nouveau commit à contrôler.",
-    "accessibility_correction": "Vignette de la carte Énéide de l’accueil : description alt spécifique de la Troie archéologique, distincte du récit virgilien, rétablie sans modifier ni le lien ni le visuel."
+    "editorial_integrity": "Aucun texte scientifique hors href, aucun numéro, registre d'attribution, nom de chapitre, menu, CSS, JS autre que l'attente du test, média, workflow ni tâche planifiée ne change. AGENTS.md et docs/PUBLICATION_CONCURRENTE.md lus.",
+    "limitations": "Les contrôles globaux proviennent de GitHub Actions avant cette correction ; le nouveau run et la lecture publique sont à confirmer. Pas de navigateur mobile réel ni de validation exhaustive des bibliographies.",
+    "commits": [],
+    "commit_note": "Le SHA de ce commit est donné dans le bilan ; le journal ne revendique pas la publication publique."
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
   "history": [
@@ -1847,6 +1810,45 @@
       ],
       "ci_observation": "Premier run GitHub Actions 41901357133 : 206 tests dont tests des 3 figures et garde JPEG/WebP OK, 2 échecs vérifiés : ordre inversé du journal par insertion en tête (corrigé ici), et attribut alt vide sur la vignette patrimoniale de l’Énéide à l’accueil (corrigé ici). Revalidation du nouveau commit à contrôler.",
       "accessibility_correction": "Vignette de la carte Énéide de l’accueil : description alt spécifique de la Troie archéologique, distincte du récit virgilien, rétablie sans modifier ni le lien ni le visuel."
+    },
+    {
+      "date": "2026-11-04",
+      "kind": "AUDIT ET CORRECTION",
+      "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "scope": "Audit intégral CI : correction des trois liens cassés /comedies-grecques/ dans les volumes de comédies 94, 95 et 96 (manuscrits et HTML), et fiabilisation du script de vérification responsive bloqué par networkidle.",
+      "basis_commit": "323ab99ce26851336905ee269e4276e28a1de02a",
+      "audit_evidence": {
+        "run_id": 41907236671,
+        "head_commit": "38558e7b9335f7314dde6803f721c2e4e512b562",
+        "html_files": 1446,
+        "local_links_checked": 123960,
+        "fragment_links_checked": 36181,
+        "hard_errors": 0,
+        "warnings": "Trois href /comedies-grecques/ dans les volumes 094, 095, 096."
+      },
+      "fixes": {
+        "links": [
+          94,
+          95,
+          96
+        ],
+        "old_href": "/comedies-grecques/",
+        "new_href": "/comedies-grecques-aristophane-menandre/",
+        "updated_copies": 6,
+        "valid_target_confirmed_in_repository": true,
+        "browser_script": "scripts/verify_greek_navigation.cjs : Playwright goto attend désormais domcontentloaded, non networkidle ; les vérifications HTTP 200, titres, menus, ancres, dossiers et largeur restent identiques."
+      },
+      "deployment_evidence": {
+        "failed_workflow_id": 41906787338,
+        "failed_step": "Vérifier les menus et les dossiers sur le domaine public aux trois formats",
+        "error": "page.goto Timeout 60000ms waiting for networkidle on https://bobmythos.fr/mythologie-grecque/",
+        "current_publication": "Non confirmée : accès direct HTTPS impossible dans cet environnement, et une publication déclenchée à 20:30Z est encore en cours au contrôle."
+      },
+      "editorial_integrity": "Aucun texte scientifique hors href, aucun numéro, registre d'attribution, nom de chapitre, menu, CSS, JS autre que l'attente du test, média, workflow ni tâche planifiée ne change. AGENTS.md et docs/PUBLICATION_CONCURRENTE.md lus.",
+      "limitations": "Les contrôles globaux proviennent de GitHub Actions avant cette correction ; le nouveau run et la lecture publique sont à confirmer. Pas de navigateur mobile réel ni de validation exhaustive des bibliographies.",
+      "commits": [],
+      "commit_note": "Le SHA de ce commit est donné dans le bilan ; le journal ne revendique pas la publication publique."
     }
   ]
 }

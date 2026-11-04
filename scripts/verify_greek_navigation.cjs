@@ -17,7 +17,7 @@ fs.mkdirSync(output,{recursive:true});
       const context=await browser.newContext({viewport:{width,height},isMobile:device!=='ordinateur',hasTouch:device!=='ordinateur'});
       const page=await context.newPage();
       async function visit(route){
-        const response=await page.goto(base+route,{waitUntil:'networkidle',timeout:60000});
+        const response=await page.goto(base+route,{waitUntil:'domcontentloaded',timeout:60000});
         assert.equal(response.status(),200,route);
         await page.locator('.mythos-masthead').waitFor();
         assert.equal(await page.locator('.mythos-primary-nav a[href*="grande-encyclopedie"], .mythos-menu a[href*="grande-encyclopedie"]').count(),0,route);
