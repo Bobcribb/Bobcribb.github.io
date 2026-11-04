@@ -353,4 +353,4 @@ La règle MYTHOS demeure donc stricte : **[A] conserver la preuve ; [B] rendre l
 
 ---
 
-**Suite éditoriale :** prochain volume uniquement après nouvelle inspection de la branche main, des notices historiques et des demandes déjà présentes dans editorial/inbox. Les titres extrêmement lacunaires *Nēsiōtai*, *Sikeliōtai*, *Stratiōtai* et *Symp[...]* devront être traités avec une prudence supérieure à celle requise pour les *Sterrhoi*.
+**Suite éditoriale :** [Volume suivant : LXVIII (68), Amipsias, *Konnos*, étude principale](/chapitres/comedies/volume-068-ameipsias-konnos-socrate-musique-oracles-education/). Un [complément critique sur la même pièce est conservé en LXIX (69)](/chapitres/comedies/volume-069-ameipsias-konnos-socrate-penseurs-musique-verite/). Les volumes concernés possèdent leurs reçus dans editorial/numbering.json. Toute nouvelle création exige la relecture du registre réel. Les titres extrêmement lacunaires *Nēsiōtai*, *Sikeliōtai*, *Stratiōtai* et *Symp[...]* devront être traités avec une prudence supérieure à celle requise pour les *Sterrhoi*.
