@@ -890,6 +890,10 @@ def apply_navigation():
         if path.relative_to(OUT).as_posix() == "catalogue/index.html":
             continue
         raw=path.read_text(encoding="utf-8")
+        # Compatibility aliases carry a destination, not an editorial menu.
+        # Leave every redirect byte-for-byte intact during the navigation pass.
+        if re.search(r"""<meta\b[^>]*http-equiv\s*=\s*["']?refresh\b""", raw, re.I):
+            continue
         result,n=re.subn(r'<nav(?:\s[^>]*)?>[\s\S]*?</nav>',NAV,raw,count=1,flags=re.IGNORECASE)
         if n!=1:
             raise RuntimeError("Aucun menu de navigation dans "+str(path))

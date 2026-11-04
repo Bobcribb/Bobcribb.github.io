@@ -26,6 +26,20 @@ class SiteAuditFixTests(unittest.TestCase):
         path.write_text(raw, encoding='utf-8')
         return path
 
+    def test_navigation_preserves_dossier_redirects_but_rejects_missing_menus(self):
+        raw = '<html><head><meta http-equiv="refresh" content="0;url=/mythologie-grecque/dossiers/divinites/"></head><body><a href="/mythologie-grecque/dossiers/divinites/">Divinités</a></body></html>'
+        alias = self.write('mythologie-grecque/dossiers/dieux/index.html', raw)
+        page = self.write('etude/index.html', '<html><body><nav>Ancien menu</nav><p>Texte intégral.</p></body></html>')
+        with patch.object(navigation, 'OUT', self.root):
+            for _ in range(2):
+                navigation.apply_navigation()
+                self.assertEqual(alias.read_text(), raw)
+                self.assertIn('/mythologie-grecque/', page.read_text())
+                self.assertIn('Texte intégral.', page.read_text())
+            self.write('broken/index.html', '<h1>Page sans menu</h1>')
+            with self.assertRaisesRegex(RuntimeError, 'Aucun menu'):
+                navigation.apply_navigation()
+
     def test_bibliography_links_target_actual_anchors_without_unescaping_active_html(self):
         raw = '[R1](#ref-1)\n\n<a id="ref-1"></a>**[R1]** Source\n\n<script>alert(1)</script>\n\n<a id="bad" onclick="alert(1)"></a>'
         result = build.resolve_chapter_links(build.markdown(raw), self.root/'chapter.md', self.root)
