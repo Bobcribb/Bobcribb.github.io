@@ -1,4 +1,4 @@
-"""Régression : les SVG des grandes monographies doivent être publiquement servis."""
+"""Régression : les SVG, JPEG et WebP des monographies doivent être publiés à l'identique."""
 import hashlib
 import json
 from pathlib import Path
@@ -135,7 +135,9 @@ class RecentFigurePublicationTests(unittest.TestCase):
         self.assets = {}
         per_page = {}
         for page, fid, src in live.RECENT_FIGURES:
-            content = bytes.fromhex("ffd8ff") + b"mock-jpeg-binary"
+            content = (b"RIFF" + b"\x10\x00\x00\x00" + b"WEBP" + b"VP8 " + b"mock-webp"
+                       if src.lower().endswith(".webp")
+                       else bytes.fromhex("ffd8ff") + b"mock-jpeg-binary")
             asset = self.root / src.lstrip("/")
             asset.parent.mkdir(parents=True, exist_ok=True)
             asset.write_bytes(content)
@@ -157,18 +159,23 @@ class RecentFigurePublicationTests(unittest.TestCase):
 
     def fetch(self, url):
         path = url.split("https://example.test", 1)[-1]
-        return (200, "image/jpeg", self.assets[path]) if path in self.assets else (
-            200, "text/html", self.pages[path])
+        if path in self.assets:
+            kind = "image/webp" if path.lower().endswith(".webp") else "image/jpeg"
+            return (200, kind, self.assets[path])
+        return (200, "text/html", self.pages[path])
 
-    def test_all_eight_photographs_and_five_pages_verified(self):
+    def test_all_eleven_documentary_images_and_five_pages_verified(self):
         pages, assets = live.recent_figure_inventory(self.root)
         self.assertEqual(len(pages), 5)
         self.assertEqual(len(pages["livre-odyssee/index.html"]), 2)
         self.assertEqual(len(pages["livre-hesiode/index.html"]), 3)
-        self.assertEqual(len(assets), 8)
+        self.assertEqual(len(pages["philosophie-iliade.html"]), 2)
+        self.assertEqual(len(pages["philosophie-odyssee.html"]), 2)
+        self.assertEqual(len(pages["philosophie-theogonie.html"]), 1)
+        self.assertEqual(len(assets), 11)
         with patch.object(live, "fetch", side_effect=self.fetch):
             report = live.verify_recent_public_figures("https://example.test", self.root)
-        self.assertEqual(len(report), 13)
+        self.assertEqual(len(report), 16)
         self.assertTrue(all(item["valid"] for item in report))
 
     def test_stale_odyssey_figure_and_tampered_jpeg_are_detected(self):
@@ -206,6 +213,34 @@ class RecentFigurePublicationTests(unittest.TestCase):
             "/livre-hesiode/index.html",
             "/media/2026/10/mythos-papyrus-odyssee-ptolemaique-met-09-182-50.jpg",
         })
+
+    def test_recent_webp_and_stale_reception_figure_detected(self):
+        """A stale Ottley notice and altered Parker/Flaxman WebP must fail."""
+        altered = ("/assets/illustrations-articles/"
+                   "met-705224-ulysse-circe-flaxman.webp")
+
+        def stale_fetch(url):
+            path = url.split("https://example.test", 1)[-1]
+            if path == "/philosophie-theogonie.html":
+                return (200, "text/html", self.pages[path].replace(
+                    b"icono-theogonie-ottley-nuit-enfants-attribution-20261104",
+                    b"missing-ottley-figure"))
+            if path == altered:
+                return (200, "image/webp", self.assets[path] + b"tampered")
+            return self.fetch(url)
+
+        with patch.object(live, "fetch", side_effect=stale_fetch):
+            results = live.verify_recent_public_figures("https://example.test", self.root)
+        self.assertEqual({item["url"] for item in results if not item["valid"]}, {
+            "/philosophie-theogonie.html", altered,
+        })
+
+    def test_bogus_webp_file_rejected_at_inventory(self):
+        src = next(src for _, _, src in live.RECENT_FIGURES
+                   if src.endswith("met-341681-achille-ombre-patrocle-flaxman.webp"))
+        (self.root / src.lstrip("/")).write_bytes(b"<html>404</html>")
+        with self.assertRaisesRegex(ValueError, "invalide"):
+            live.recent_figure_inventory(self.root)
 
     def test_non_jpeg_rejected(self):
         src = live.RECENT_FIGURES[0][2]

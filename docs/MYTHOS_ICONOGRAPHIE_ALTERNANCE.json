@@ -5,113 +5,30 @@
   "branch": "main",
   "latest_session": {
     "date": "2026-11-04",
-    "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "previous_kind": "AUDIT ET CORRECTION",
-    "next_kind": "AUDIT ET CORRECTION",
-    "scope": "Trois œuvres de réception moderne documentées par le Metropolitan Museum of Art intégrées dans les monographies philosophiques Iliade, Odyssée et Théogonie, directement au chapitre pertinent.",
-    "basis_commit": "5ab601041ce6c5fa89157594c3f40df1318e4a8f",
-    "modified_pages": [
-      "philosophie-iliade.html",
-      "philosophie-odyssee.html",
-      "philosophie-theogonie.html"
-    ],
-    "figures_added": 3,
-    "images_created": 0,
-    "assets_reused": [
-      "/assets/illustrations-articles/met-341681-achille-ombre-patrocle-flaxman.webp",
-      "/assets/illustrations-articles/met-705224-ulysse-circe-flaxman.webp",
-      "/assets/illustrations-articles/met-649972-ottley-nuit-enfants.webp"
-    ],
-    "figures": {
-      "philosophie-iliade.html": {
-        "before": {
-          "ids": 107,
-          "duplicateIds": [],
-          "anchors": 111,
-          "brokenAnchors": [],
-          "images": 21,
-          "imgWithoutAlt": 0,
-          "figures": 21
-        },
-        "after": {
-          "ids": 108,
-          "duplicateIds": [],
-          "anchors": 111,
-          "brokenAnchors": [],
-          "images": 22,
-          "imgWithoutAlt": 0,
-          "figures": 22
-        },
-        "source": "/assets/illustrations-articles/met-341681-achille-ombre-patrocle-flaxman.webp",
-        "id": "icono-iliade-flaxman-ombre-patrocle-reception-20261104",
-        "museum_object": 341681,
-        "museum_date": "1793",
-        "license": "CC0-1.0"
-      },
-      "philosophie-odyssee.html": {
-        "before": {
-          "ids": 106,
-          "duplicateIds": [],
-          "anchors": 111,
-          "brokenAnchors": [],
-          "images": 20,
-          "imgWithoutAlt": 0,
-          "figures": 20
-        },
-        "after": {
-          "ids": 107,
-          "duplicateIds": [],
-          "anchors": 111,
-          "brokenAnchors": [],
-          "images": 21,
-          "imgWithoutAlt": 0,
-          "figures": 21
-        },
-        "source": "/assets/illustrations-articles/met-705224-ulysse-circe-flaxman.webp",
-        "id": "icono-odyssee-flaxman-parker-circe-1805-20261104",
-        "museum_object": 705224,
-        "museum_date": "1805",
-        "license": "CC0-1.0"
-      },
-      "philosophie-theogonie.html": {
-        "before": {
-          "ids": 110,
-          "duplicateIds": [],
-          "anchors": 113,
-          "brokenAnchors": [],
-          "images": 22,
-          "imgWithoutAlt": 0,
-          "figures": 22
-        },
-        "after": {
-          "ids": 111,
-          "duplicateIds": [],
-          "anchors": 113,
-          "brokenAnchors": [],
-          "images": 23,
-          "imgWithoutAlt": 0,
-          "figures": 23
-        },
-        "source": "/assets/illustrations-articles/met-649972-ottley-nuit-enfants.webp",
-        "id": "icono-theogonie-ottley-nuit-enfants-attribution-20261104",
-        "museum_object": 649972,
-        "museum_date": "1803–28",
-        "license": "CC0-1.0"
-      }
-    },
-    "scientific_references": [
-      "https://www.metmuseum.org/art/collection/search/341681",
-      "https://www.metmuseum.org/art/collection/search/705224",
-      "https://www.metmuseum.org/art/collection/search/649972"
-    ],
-    "status": "Flaxman (1793), d’après Flaxman / James Parker (1805), Ottley (1803–1828) : œuvres de réception modernes authentiques, aucun objet antique ni rendu IA. L’identification de l’estampe d’Ottley avec Nyx et ses enfants est explicitement incertaine.",
-    "safety_and_validation": "AGENTS.md et docs/PUBLICATION_CONCURRENTE.md lus; fichiers image dans le catalogue local du Met; cibles uniques; conservation stricte des HTML préexistants hors trois insertions; contrôle des IDs, des ancres, des balises alt, de la dimension et des doublons; test de régression ajouté.",
-    "publication_status": "Source GitHub à enregistrer; CI, reçu public et HTTPS à vérifier, ne pas déclarer une publication sans preuve.",
-    "pagination": "PDF A4 préexistants conservés; nouvel export PDF et contrôle de pagination des 3 additions non réalisés.",
-    "preservation": "Aucune étude numérotée créée, aucun texte préexistant, menu, registre d'attribution, workflow ou automatisation horaire modifié.",
-    "obstacles": "Les trois médias étaient déjà présents et sont réutilisés ; vérification des autres liens externes, rendu mobile et pagination A4 à compléter.",
+    "kind": "AUDIT ET CORRECTION",
+    "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "scope": "Audit post-iconographique des trois monographies philosophiques et protection du déploiement public des trois nouvelles œuvres de réception Flaxman/Parker/Ottley, sans modifier les textes.",
+    "audited_pages": 3,
+    "html_ids_checked": 326,
+    "internal_anchors_checked": 335,
+    "img_elements_checked": 66,
+    "stylesheet_elements_checked": 15,
+    "script_elements_checked": 6,
+    "unique_local_resources_checked": 73,
+    "duplicate_html_ids": 0,
+    "broken_local_anchors": 0,
+    "img_without_alt": 0,
+    "missing_local_resources": 0,
+    "verified_issue": "Les 3 WebP patrimoniaux ajoutés au précédent commit e2aa8a5a... figuraient dans les pages sources, mais pas dans RECENT_FIGURES du test de publication HTTPS. Le test existant couvrait 8 JPG, pas ces nouvelles figures.",
+    "correction": "Étendre RECENT_FIGURES à 11 images sur 5 pages en préservant les 8 entrées existantes. Le contrôle vérifie l'unicité de chaque figure, légende, crédit, statut IA, alt, chemin, signature réelle WebP et SHA-256 identique au fichier du build.",
+    "tests": "Adapter les mocks JPEG/WebP et les compteurs de vérification à 11 médias / 5 pages ; ajouter les régressions de page Ottley périmée, WebP altéré et faux WebP. Contrôles statiques précommit effectués ; suite Python complète à vérifier sur GitHub Actions.",
+    "public_observation": "Consultation HTTPS de /catalog/publication-verification.json et des trois pages : reçu source_commit=8cb0a3619b4b5ff7ffe8579c0b1cb73927bbabdc (1289 documents indexés), antérieur à e2aa8a5a... ; les 3 nouveaux IDs absents du HTML déployé. Aucun déploiement de ce lot confirmé.",
+    "ci_state": "Multiples exécutions GitHub Actions de publication annulées lors de commits concurrents. Dernière exécution 41821060626 en attente au contrôle initial; ne pas confondre build GitHub et déploiement public.",
+    "preservation": "Aucun manuscrit, chapitre, numéro, navigation, image ou ressource modifié. AGENTS.md et docs/PUBLICATION_CONCURRENTE.md relus; workflows et automatisations horaires conservés.",
+    "limitations": "Inspection ciblée de 3 pages; pas de re-rendu responsive ou A4, ni contrôle HTTP exhaustif des notices externes. La disponibilité des images publiques et leurs hashes reste à attester lors du prochain déploiement.",
     "commits": [],
-    "commit_note": "Commit atomique des 3 pages, test et journal, SHA à relever dans GitHub."
+    "commit_note": "Commit atomique du vérificateur, des tests et du journal; SHA lisible dans l'historique GitHub."
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
   "history": [
@@ -1094,6 +1011,33 @@
       "obstacles": "Les trois médias étaient déjà présents et sont réutilisés ; vérification des autres liens externes, rendu mobile et pagination A4 à compléter.",
       "commits": [],
       "commit_note": "Commit atomique des 3 pages, test et journal, SHA à relever dans GitHub."
+    },
+    {
+      "date": "2026-11-04",
+      "kind": "AUDIT ET CORRECTION",
+      "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "scope": "Audit post-iconographique des trois monographies philosophiques et protection du déploiement public des trois nouvelles œuvres de réception Flaxman/Parker/Ottley, sans modifier les textes.",
+      "audited_pages": 3,
+      "html_ids_checked": 326,
+      "internal_anchors_checked": 335,
+      "img_elements_checked": 66,
+      "stylesheet_elements_checked": 15,
+      "script_elements_checked": 6,
+      "unique_local_resources_checked": 73,
+      "duplicate_html_ids": 0,
+      "broken_local_anchors": 0,
+      "img_without_alt": 0,
+      "missing_local_resources": 0,
+      "verified_issue": "Les 3 WebP patrimoniaux ajoutés au précédent commit e2aa8a5a... figuraient dans les pages sources, mais pas dans RECENT_FIGURES du test de publication HTTPS. Le test existant couvrait 8 JPG, pas ces nouvelles figures.",
+      "correction": "Étendre RECENT_FIGURES à 11 images sur 5 pages en préservant les 8 entrées existantes. Le contrôle vérifie l'unicité de chaque figure, légende, crédit, statut IA, alt, chemin, signature réelle WebP et SHA-256 identique au fichier du build.",
+      "tests": "Adapter les mocks JPEG/WebP et les compteurs de vérification à 11 médias / 5 pages ; ajouter les régressions de page Ottley périmée, WebP altéré et faux WebP. Contrôles statiques précommit effectués ; suite Python complète à vérifier sur GitHub Actions.",
+      "public_observation": "Consultation HTTPS de /catalog/publication-verification.json et des trois pages : reçu source_commit=8cb0a3619b4b5ff7ffe8579c0b1cb73927bbabdc (1289 documents indexés), antérieur à e2aa8a5a... ; les 3 nouveaux IDs absents du HTML déployé. Aucun déploiement de ce lot confirmé.",
+      "ci_state": "Multiples exécutions GitHub Actions de publication annulées lors de commits concurrents. Dernière exécution 41821060626 en attente au contrôle initial; ne pas confondre build GitHub et déploiement public.",
+      "preservation": "Aucun manuscrit, chapitre, numéro, navigation, image ou ressource modifié. AGENTS.md et docs/PUBLICATION_CONCURRENTE.md relus; workflows et automatisations horaires conservés.",
+      "limitations": "Inspection ciblée de 3 pages; pas de re-rendu responsive ou A4, ni contrôle HTTP exhaustif des notices externes. La disponibilité des images publiques et leurs hashes reste à attester lors du prochain déploiement.",
+      "commits": [],
+      "commit_note": "Commit atomique du vérificateur, des tests et du journal; SHA lisible dans l'historique GitHub."
     }
   ]
 }

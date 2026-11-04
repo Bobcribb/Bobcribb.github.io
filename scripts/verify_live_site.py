@@ -181,8 +181,8 @@ def verify_public_figures(base, root):
                 + list(executor.map(check_image, images.items())))
 
 
-# Documented historical and modern photographs in the philosophical monographs
-# and reading books: never validate JPEGs as SVGs.
+# Documented photographs, historical artworks and modern photography:
+# validate JPEG and WebP by their distinct binary signatures.
 RECENT_FIGURES = (
     ("livre-iliade-scenes/index.html", "mythos-iliade-troie-vi-remparts-20261104",
      "/media/2026/10/mythos-troie-vi-porte-est-hisarlik-cherryx-2012.jpg"),
@@ -202,6 +202,16 @@ RECENT_FIGURES = (
      "/assets/philosophie/documents/theogonie-01.jpg"),
     ("livre-hesiode/index.html", "icono-hesiode-livre-zeus-typhon-hydrie-20261104",
      "/assets/philosophie/documents/theogonie-02.jpg"),
+    # Genuine nineteenth-century artworks documented by The Metropolitan Museum
+    # of Art. Check them separately on their respective pages and verify their
+    # local WebP bytes, rather than assuming that a successful HTML response
+    # means the newly inserted figures were deployed.
+    ("philosophie-iliade.html", "icono-iliade-flaxman-ombre-patrocle-reception-20261104",
+     "/assets/illustrations-articles/met-341681-achille-ombre-patrocle-flaxman.webp"),
+    ("philosophie-odyssee.html", "icono-odyssee-flaxman-parker-circe-1805-20261104",
+     "/assets/illustrations-articles/met-705224-ulysse-circe-flaxman.webp"),
+    ("philosophie-theogonie.html", "icono-theogonie-ottley-nuit-enfants-attribution-20261104",
+     "/assets/illustrations-articles/met-649972-ottley-nuit-enfants.webp"),
 )
 
 
@@ -234,7 +244,7 @@ def recent_figure_inventory(root):
 
 
 def verify_recent_public_figures(base, root):
-    """Require all documented recent figures on their public pages and exact JPEG bytes."""
+    """Require all recent figures on public pages and exact JPEG/WebP bytes."""
     page_inventory, digests = recent_figure_inventory(root)
     base = base.rstrip("/")
 
