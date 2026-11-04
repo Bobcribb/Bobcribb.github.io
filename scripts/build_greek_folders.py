@@ -67,6 +67,19 @@ HERO_HOME = {
     'orphee': ('heros', 'Orphée et les passages vers l’au-delà'),
 }
 CHAPTER_RULES = [
+    # Réconciliation de 10 études intégrales déjà publiées (391–400, 423).
+    # Affectation par le sujet effectif et les témoignages primaires contrôlés :
+    # seules les rubriques/sous-dossiers sont générés ; ni cote ni texte modifiés.
+    (r'^aristee\b', 'sanctuaires', 'Aristée — apiculture, techniques agraires et cultes'),
+    (r'^horme\b', 'dieux', 'Hormè — impulsion et personnifications de l’action'),
+    (r'^eukleia\b', 'sanctuaires', 'Eukleia — renommée civique et sanctuaires'),
+    (r'^despoina\b', 'sanctuaires', 'Lykosoura — Déméter, Despoina et mystères arcadiens'),
+    (r'^britomartis\b', 'sanctuaires', 'Crète — Britomartis, Dictynna et sanctuaires'),
+    (r'^palaimon\b', 'sanctuaires', 'Isthmia — Palémon, Mélicerte et jeux funéraires'),
+    (r'^melinoe\b', 'dieux', 'Mélinoé — hymnes orphiques et puissances nocturnes'),
+    (r'^iynx\b', 'sources', 'Pindare et Théocrite — persuasion et magie amoureuse'),
+    (r'^enyo\b', 'dieux', 'Ényô — puissances guerrières et violence destructrice'),
+    (r'^apollon agyieus\b', 'sanctuaires', 'Apollon Agyieus — voies, piliers et seuils sacrés'),
     # Études 401–403, 405–406, 412 et 421–422 : ces manuscrits intégraux
     # étaient accessibles, mais plusieurs étaient relégués dans la file
     # « Nouvelles études à classer ». Rattachement par sujet épigraphique
