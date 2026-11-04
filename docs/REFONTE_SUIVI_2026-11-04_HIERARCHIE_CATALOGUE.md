@@ -57,3 +57,18 @@ Ces preuves concernent **le déploiement antérieur**. Au dernier contrôle effe
 - vérifier ensuite le workflow de publication le plus récent et le contenu HTML public, notamment `/chapitres/encyclopedie/chapitre-388-pheme-rumeur-renommee-athenes-aeschine-demosthene/` et `/grande-encyclopedie/`.
 
 La conservation des textes et le principe d'attribution atomique restent prioritaires sur la cadence des ajouts.
+
+## Addendum — collision de deux générateurs et résolution
+
+Le premier jeu de tests sur `c5f9f2bf336b7c7cdde39c740552d9aea71edbaa` a révélé une collision préexistante de fonctions : deux définitions de `create_encyclopedia(entries)` coexistaient dans `scripts/build_navigation.py`. La seconde masquait le registre à six rubriques, de sorte que les assertions destinées à ce registre portaient sur le portail grec sommaire. Cette cause a été constatée dans les journaux de l'exécution GitHub Actions [41792542527](https://github.com/Bobcribb/Bobcribb.github.io/actions/runs/41792542527), terminée en échec à cause de **deux nouveaux tests**. Ces échecs n'étaient pas dus au contenu universitaire et ne justifient aucune suppression.
+
+**Correction réelle enregistrée : commit `ad9b2249bc0b3d25f887827a961d5ea265d6f8c0`.**
+- Renommage du générateur jusque-là masqué en `create_encyclopedia_registry(entries)`.
+- Production de la page distincte `/grande-encyclopedie/registre-integral/` référençant les pages existantes des six collections, sans reproduire leurs textes.
+- Conservation du portail `/grande-encyclopedie/` et ajout d'un lien réciproque d'accès au registre intégral.
+- Correction de la documentation descriptive sur les tomes déjà publiés, sans toucher aux manuscrits.
+- Trois tests du registre : listes ordonnées bien fermées, refus des URL répétées, navigation entre portail et registre.
+
+Sur l'exécution [41792957943](https://github.com/Bobcribb/Bobcribb.github.io/actions/runs/41792957943), les étapes « Tester les attributions concurrentes et les reprises » et « Vérifier la pertinence et la conservation des illustrations » ont été **réussies** au contrôle effectué ; la génération complète était encore en cours.
+
+L'adresse publique de ce nouveau registre ne doit pas être annoncée comme déployée avant l'exécution réussie de la chaîne de publication et une requête HTTPS.
