@@ -55,6 +55,21 @@ def verify():
     assert len(d.select('.origins-volume'))==27
     assert len(d.select('.mythos-more-volumes .origins-volume'))==15
     assert (out/'assets/mythos-museum-banner.webp').stat().st_size>10000
+    # Les cartes des sanctuaires avaient perdu leurs trois vignettes au cours
+    # de l'habillage final : un lien textuel ne suffit pas à cet inventaire.
+    home = BeautifulSoup((out/'index.html').read_text(encoding='utf-8'), 'html.parser')
+    gallery = BeautifulSoup(
+        (out/'reconstitutions-photorealistes.html').read_text(encoding='utf-8'),
+        'html.parser')
+    for slug in ('delphes-apollon-panorama', 'nemee-temple-zeus-vue', 'sounion-poseidon-vue'):
+        url = '/reconstitutions-photorealistes.html#' + slug
+        src = '/assets/reconstitutions-3d/' + slug + '.webp'
+        card = home.select_one('a.portal-card[href="' + url + '"]')
+        assert card is not None, 'Carte du sanctuaire absente : ' + slug
+        assert card.find('img', src=src) is not None, 'Vignette du sanctuaire absente : ' + slug
+        assert (out/src.lstrip('/')).is_file(), 'Fichier de vignette absent : ' + src
+        assert gallery.find(id=slug) is not None, 'Ancre de galerie absente : ' + slug
+    print('OK : trois cartes illustrées, trois WebP et trois renvois de galerie vérifiés.')
     print(f'OK : {pages} pages habillées, {redirects} redirections conservées, 27 tomes accessibles.')
 
 if __name__=='__main__':verify()
