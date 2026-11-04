@@ -34,6 +34,8 @@ PICTURES = {
  '/philosophie-iliade.html': 'mythos-iliade-achille-ajax-athena-hydrie-met-56-171-29.jpg',
  '/philosophie-odyssee.html': 'mythos-papyrus-odyssee-ptolemaique-met-09-182-50.jpg',
  '/philosophie-theogonie.html': 'mythos-bronze-artemision-zeus-ou-poseidon.jpg',
+ # Énéide : vestiges de la Troie historique, repère contextuel non narratif.
+ '/philosophie-eneide.html': 'mythos-troie-vi-porte-est-hisarlik-cherryx-2012.jpg',
  '/parcours/decouvrir-les-mythes-grecs/': 'mythos-heracles-lion-nemee-oinochoe-met-06-1021-66.jpg',
  '/parcours/comprendre-la-tragedie/': 'mythos-masques-theatre-rondelles-hellenistiques-met-2001-767.jpg',
  '/parcours/comparer-les-creations-du-monde/': 'mythos-enuma-elish-tablette-k3473-ninive-zunkir.jpg',
@@ -336,7 +338,7 @@ def apply(root):
             home_targets = (
                 ('Les collections', 'home-collections'),
                 ('Commencer une lecture', 'home-parcours'),
-                ('Trois œuvres à approfondir', 'home-oeuvres'),
+                ('Quatre œuvres à approfondir', 'home-oeuvres'),
                 ('Sanctuaires grecs en images', 'sanctuaires-en-images'),
                 ('Explorer les mondes anciens', 'home-civilisations'),
                 ('Une bibliothèque documentée', 'corpus-status'),
