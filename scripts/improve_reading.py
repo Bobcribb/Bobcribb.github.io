@@ -115,18 +115,57 @@ def civilisation_document_cards(out, root):
         if not (out / provenance_page).is_file():
             raise RuntimeError("Dossier de provenance absent : " + provenance_page)
         cards_html.append(
-            '<article class="mythos-civilisation-card" data-document-id="' + escape(media_id, quote=True) + '">'
+            '<article class="mythos-civilisation-card" id="mythos-document-' + escape(media_id, quote=True) + '" data-document-id="' + escape(media_id, quote=True) + '">'
             '<a class="mythos-civilisation-link" href="' + escape(url, quote=True) + '">'
             '<img src="/' + escape(relative.as_posix(), quote=True) + '" alt="' + escape(item["alt"], quote=True) + '" loading="lazy" decoding="async">'
             '<span class="mythos-civilisation-kicker">DOCUMENT ARCHÉOLOGIQUE</span>'
             '<strong>' + escape(label) + '</strong>'
             '<span>' + escape(lead) + '</span></a>'
+            '<p class="mythos-civilisation-study"><a href="/' + escape(provenance_page, quote=True) + '">'
+            'Lire le dossier scientifique et ses sources ↗</a></p>'
             '<details class="mythos-civilisation-credit"><summary>Source et crédits de l’image</summary>'
             '<div>' + item["caption_html"] + ' '
             '<a href="/' + escape(provenance_page, quote=True) + '">Étudier cet objet et ses sources</a></div>'
             '</details></article>'
         )
     return '<div class="mythos-civilisation-grid">' + ''.join(cards_html) + '</div>'
+
+
+
+def install_civilisation_reciprocal_navigation(out, root):
+    """Relier les trois dossiers attestés à leurs bibliothèques sans réécrire une étude."""
+    register = json.loads((root / "scripts/editorial_media.json").read_text(encoding="utf-8"))
+    media = {item["id"]: item for item in register["media"]}
+    updated = []
+    for library, label, _, media_id in CIVILISATION_DOCUMENTS:
+        item = media.get(media_id)
+        if not item or not item.get("provenance_page"):
+            raise RuntimeError("Notice de provenance absente : " + media_id)
+        target = out / item["provenance_page"]
+        if not target.is_file():
+            raise RuntimeError("Étude documentaire absente : " + item["provenance_page"])
+        if not page_path(out, library).is_file():
+            raise RuntimeError("Bibliothèque absente : " + library)
+        doc = BeautifulSoup(target.read_text(encoding="utf-8"), "html.parser")
+        article = doc.select_one("main article.content")
+        if article is None:
+            raise RuntimeError("Contenu scientifique introuvable : " + item["provenance_page"])
+        if article.select_one('[data-mythos-document-reciprocal]'):
+            continue
+        # Bloc strictement navigant : titres, citations, notes et bibliographie intacts.
+        nav = (
+            '<nav class="mythos-document-reciprocal" data-reading-owned="true" '
+            'data-mythos-document-reciprocal="true" aria-label="Renvois documentaires">'
+            '<span>Pour poursuivre l’étude : ' + escape(label) + '</span>'
+            '<a href="' + escape(library, quote=True) + '">Bibliothèque de la civilisation</a>'
+            '<a href="/#mythos-document-' + escape(media_id, quote=True) + '">'
+            'Photographie, légende et provenance sur l’accueil</a>'
+            '</nav>'
+        )
+        article.append(fragment(nav))
+        target.write_text(str(doc), encoding="utf-8")
+        updated.append(item["provenance_page"])
+    return updated
 
 
 def search_form(catalogue=False):
@@ -202,6 +241,7 @@ def prepare(out, root):
 <h2>Approfondir la méthode</h2><p><a href="/sources-methodes/">Sources et méthodes de l’étude des mythes</a> · <a href="/bibliotheque-mythologies-du-monde/charte-scientifique-sources-images-reconstitutions-mythos/">Charte scientifique détaillée</a> · <a href="/etat-du-corpus/">État du corpus</a></p>'''
     write_page(out,'methode-editoriale','Sources et méthode éditoriale',method)
     write_page(out,'etat-du-corpus','État du corpus MYTHOS','<h1>État du corpus</h1><div id="corpus-inventory"></div>')
+    install_civilisation_reciprocal_navigation(out, root)
 
 
 def metadata(entry, doc):
