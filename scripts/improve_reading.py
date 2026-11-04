@@ -186,11 +186,25 @@ def prepare(out, root):
     intro += '<section class="portal-section"><h2>Les collections</h2>'+cards(COLLECTIONS)+'</section>'
     intro += '<section class="portal-section"><h2>Commencer une lecture</h2>'+cards([
         ('/parcours/'+slug+'/',title,lead,'PARCOURS GUIDÉ') for slug,title,lead,_ in ROUTES])+'</section>'
-    intro += '<section class="portal-section"><h2>Trois œuvres à approfondir</h2>'+cards([
+    # Le portail annonce quatre œuvres : conserver Virgile lorsque la page
+    # est reconstruite depuis les sources, pas uniquement dans le HTML commité.
+    works = [
         ('/philosophie-'+key+'.html',spec[0],desc,'ÉTUDE PHILOSOPHIQUE') for key,spec,desc in [
             ('iliade',EPICS['iliade'],'Colère, honneur, mortalité et compassion.'),
             ('odyssee',EPICS['odyssee'],'Identité, hospitalité, retour et reconnaissance.'),
-            ('theogonie',EPICS['theogonie'],'Généalogie divine, savoir poétique et souveraineté.')]])+'</section>'
+            ('theogonie',EPICS['theogonie'],'Généalogie divine, savoir poétique et souveraineté.')]
+    ]
+    if not page_path(out, '/philosophie-eneide.html').is_file():
+        raise RuntimeError('La quatrième étude de l’accueil, Énéide, est absente du rendu')
+    works.append(('/philosophie-eneide.html', 'L’Énéide',
+                  'Exil, pietas, destin et fondation. Première livraison : 76 pages A4 d’analyse ; objectif de 300 pages encore inachevé.',
+                  'VIRGILE · ÉDITION PARTIELLE'))
+    intro += ('<section class="portal-section" id="home-oeuvres">'
+              '<h2>Quatre œuvres à approfondir</h2>'
+              '<p class="section-intro">Trois études grecques d’Homère et d’Hésiode, '
+              'prolongées par Virgile et la fondation romaine. L’Énéide est une '
+              'première livraison ; l’objectif de 300 pages demeure inachevé.</p>'
+              + cards(works) + '</section>')
     # Vitrines de sites antiques : images locales existantes et liens profonds stables.
     # Conserver les notices archéologiques distinctes des vues interprétatives.
     sites = [
