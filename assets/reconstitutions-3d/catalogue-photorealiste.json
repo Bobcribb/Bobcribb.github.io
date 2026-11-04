@@ -2,7 +2,7 @@
   "generated_at": "2026-11-04",
   "site": "bobmythos.fr",
   "method": "Illustrations photoréalistes interprétatives, textes et sources hors des pixels.",
-  "count": 22,
+  "count": 23,
   "entries": [
     {
       "id": "DEL-PAN-001",
@@ -394,6 +394,28 @@
       "provenance": "Image créée par IA sans menu, logo ni texte intégré. Documentation archéologique distincte ; aucune validation institutionnelle du rendu revendiquée.",
       "sha256": "6491a2688f5fcf4c0f5b32b9d54e617bda35ee463242e026deff6581adb8fc70",
       "scientific_notice": "/assets/reconstitutions-3d/notices/tirynthe-citadelle-mycenienne-panorama.json"
+    },
+    {
+      "id": "ELE-PAN-001",
+      "slug": "eleusis-telesterion-sanctuaire-panorama",
+      "title": "Éleusis — Télestérion et sanctuaire de Déméter",
+      "period": "Évocation vers 300 av. J.-C. (fin du IVe siècle av. J.-C.)",
+      "caption": "Grand panorama photoréaliste interprétatif d’Éleusis : le Télestérion, vaste salle presque carrée des Mystères de Déméter et Korè, avec son portique oriental, ses terrasses et le paysage du golfe Saronique.",
+      "commentary": "Le Télestérion était le principal édifice d’initiation des Mystères d’Éleusis. Son état classique possédait une salle presque carrée d’environ 51,5 m de côté, des gradins sur quatre côtés et des rangées de supports intérieurs. Le projet du Ve siècle, associé à Ictinos, fut poursuivi par plusieurs architectes ; le portique de Philon, d’ordre dorique et à douze colonnes frontales, appartient au IVe siècle av. J.-C. La voie processionnelle venait de la Voie sacrée. L’image propose une vue paysagère plausible, mais n’est ni un plan de fouille ni une reconstitution métrique. La forme exacte du toit, l’élévation de la façade, les bâtiments annexes, les escaliers, la végétation et la ligne de côte ne sont pas assurés. Les Grands Propylées romains ne sont pas représentés comme appartenant à l’état de la fin du IVe siècle av. J.-C. Les rites initiatiques, tenus secrets dans l’Antiquité, ne sont pas reconstitués.",
+      "certainty": "Élevée : localisation du sanctuaire, fonction initiatique et plan presque carré du Télestérion, portique de Philon. Moyenne : cour et terrasses, ordre dorique du portique. Faible : couverture, parties hautes, édifices secondaires, escaliers, arbres, relief et ligne de côte.",
+      "source_url": "https://www.efada.gr/en-us/Archaeological-Sites-Monuments/Eleusis/Archaeological-Site-of-Eleusis/telesterion",
+      "secondary_sources": [
+        "https://www.efada.gr/en-us/Archaeological-Sites-Monuments/Eleusis/Archaeological-Site-of-Eleusis/PgrID/416/PageID/1/artmid/699/articleid/47",
+        "https://www.efada.gr/en-us/Archaeological-Sites-Monuments/Eleusis"
+      ],
+      "src": "/assets/reconstitutions-3d/eleusis-telesterion-sanctuaire-panorama.webp",
+      "width": 1536,
+      "height": 1024,
+      "created_at": "2026-11-04",
+      "type": "nouveau panorama 3D photoréaliste interprétatif non métrique",
+      "provenance": "Image créée par IA sans titre, logo ni menu intégré. Les institutions documentent les monuments et ne valident pas les choix graphiques.",
+      "sha256": "58aba3ddc97130b5c4422e16fa7f00448e80975f2b1d7762b12500ac09b741f7",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/eleusis-telesterion-sanctuaire-panorama.json"
     }
   ]
 }
