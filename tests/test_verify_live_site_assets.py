@@ -126,5 +126,73 @@ class FigureAndReceiptGuardTests(unittest.TestCase):
             self.assertFalse(live.verify_public_receipt("https://example.test", self.root))
 
 
+class RecentFigurePublicationTests(unittest.TestCase):
+    """One Iliad figure and two Odyssey figures require independent verification."""
+    def setUp(self):
+        self.tmp = tempfile.TemporaryDirectory()
+        self.addCleanup(self.tmp.cleanup)
+        self.root = Path(self.tmp.name)
+        self.assets = {}
+        per_page = {}
+        for page, fid, src in live.RECENT_FIGURES:
+            content = bytes.fromhex("ffd8ff") + b"mock-jpeg-binary"
+            asset = self.root / src.lstrip("/")
+            asset.parent.mkdir(parents=True, exist_ok=True)
+            asset.write_bytes(content)
+            self.assets[src] = content
+            figure = ('<figure id="' + fid + '" data-image-status="photographie antique">'
+                      '<img src="' + src + '" alt="Document photographique">'
+                      '<figcaption>Image historique, datée, avec licence et '
+                      '<a href="https://example.org/notice">source institutionnelle</a>.'
+                      '</figcaption></figure>')
+            per_page.setdefault(page, []).append(figure)
+        self.pages = {}
+        for page, figures in per_page.items():
+            raw = ('<!doctype html><html><body>' + "".join(figures) +
+                   '</body></html>').encode("utf-8")
+            file = self.root / page
+            file.parent.mkdir(parents=True, exist_ok=True)
+            file.write_bytes(raw)
+            self.pages["/" + page] = raw
+
+    def fetch(self, url):
+        path = url.split("https://example.test", 1)[-1]
+        return (200, "image/jpeg", self.assets[path]) if path in self.assets else (
+            200, "text/html", self.pages[path])
+
+    def test_all_three_photographs_and_two_pages_verified(self):
+        pages, assets = live.recent_figure_inventory(self.root)
+        self.assertEqual(len(pages), 2)
+        self.assertEqual(len(pages["livre-odyssee/index.html"]), 2)
+        self.assertEqual(len(assets), 3)
+        with patch.object(live, "fetch", side_effect=self.fetch):
+            report = live.verify_recent_public_figures("https://example.test", self.root)
+        self.assertEqual(len(report), 5)
+        self.assertTrue(all(item["valid"] for item in report))
+
+    def test_stale_odyssey_figure_and_tampered_jpeg_are_detected(self):
+        def stale_fetch(url):
+            path = url.split("https://example.test", 1)[-1]
+            if path == "/livre-odyssee/index.html":
+                return (200, "text/html", self.pages[path].replace(
+                    b"mythos-odyssee-pylos-palais-nestor-20261104",
+                    b"missing-pylos-figure"))
+            if path.endswith("odyssee-04.jpg"):
+                return (200, "image/jpeg", self.assets[path] + b"altered")
+            return self.fetch(url)
+        with patch.object(live, "fetch", side_effect=stale_fetch):
+            report = live.verify_recent_public_figures("https://example.test", self.root)
+        broken = [r for r in report if not r["valid"]]
+        self.assertEqual({r["url"] for r in broken}, {
+            "/livre-odyssee/index.html",
+            "/assets/philosophie/documents/odyssee-04.jpg"})
+
+    def test_non_jpeg_rejected(self):
+        src = live.RECENT_FIGURES[0][2]
+        (self.root / src.lstrip("/")).write_bytes(b"<html>404</html>")
+        with self.assertRaisesRegex(ValueError, "invalide"):
+            live.recent_figure_inventory(self.root)
+
+
 if __name__ == "__main__":
     unittest.main()

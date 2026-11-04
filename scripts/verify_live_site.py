@@ -181,6 +181,86 @@ def verify_public_figures(base, root):
                 + list(executor.map(check_image, images.items())))
 
 
+# Photographs added in the Iliad and Odyssey reading books. These are real
+# historical-site/object photographs: never validate JPEGs as SVGs.
+RECENT_FIGURES = (
+    ("livre-iliade-scenes/index.html", "mythos-iliade-troie-vi-remparts-20261104",
+     "/media/2026/10/mythos-troie-vi-porte-est-hisarlik-cherryx-2012.jpg"),
+    ("livre-odyssee/index.html", "mythos-odyssee-penelope-telemaque-skyphos-20261104",
+     "/media/2026/10/penelope-telemaque-metier-coupe-chiusi-1831.jpg"),
+    ("livre-odyssee/index.html", "mythos-odyssee-pylos-palais-nestor-20261104",
+     "/assets/philosophie/documents/odyssee-04.jpg"),
+)
+
+
+def valid_local_illustration(src, body):
+    """Check actual file signatures before verifying SHA-256 equality."""
+    if src.lower().endswith((".jpg", ".jpeg")):
+        return len(body) >= 3 and body[:3] == bytes.fromhex("ffd8ff")
+    if src.lower().endswith(".webp"):
+        return len(body) >= 12 and body[:4] == b"RIFF" and body[8:12] == b"WEBP"
+    if src.lower().endswith(".svg"):
+        return b"<svg" in body[:2048]
+    return False
+
+
+def recent_figure_inventory(root):
+    """Group multiple authored figures on a page without losing either one."""
+    pages, digests = {}, {}
+    for page, fid, src in RECENT_FIGURES:
+        markup = (root / page).read_text(encoding="utf-8")
+        meta = figure_metadata(markup, fid, src)
+        figures = pages.setdefault(page, {})
+        if fid in figures or src in digests:
+            raise ValueError("Illustration historique dupliquée : " + fid)
+        figures[fid] = (src, meta)
+        image = (root / src.lstrip("/")).read_bytes()
+        if not valid_local_illustration(src, image):
+            raise ValueError("Photographie locale absente ou invalide : " + src)
+        digests[src] = hashlib.sha256(image).hexdigest()
+    return pages, digests
+
+
+def verify_recent_public_figures(base, root):
+    """Require all three figures in two public books, plus exact JPEG bytes."""
+    page_inventory, digests = recent_figure_inventory(root)
+    base = base.rstrip("/")
+
+    def check_page(entry):
+        page, expected_figures = entry
+        try:
+            status, _, body = fetch(base + "/" + page)
+            markup = body.decode("utf-8")
+            mismatches = []
+            for fid, (src, expected) in expected_figures.items():
+                try:
+                    if figure_metadata(markup, fid, src) != expected:
+                        mismatches.append(fid)
+                except ValueError:
+                    mismatches.append(fid)
+            return {"url": "/" + page, "valid": status == 200 and not mismatches,
+                    "figures_verified": len(expected_figures) - len(mismatches),
+                    "missing_or_changed_figures": mismatches}
+        except Exception as error:
+            return {"url": "/" + page, "valid": False, "error": str(error)}
+
+    def check_asset(entry):
+        src, digest = entry
+        try:
+            status, _, body = fetch(base + src)
+            valid = (status == 200 and valid_local_illustration(src, body)
+                     and hashlib.sha256(body).hexdigest() == digest)
+            return {"url": src, "valid": valid, "sha256_matches_build": valid}
+        except Exception as error:
+            return {"url": src, "valid": False, "error": str(error)}
+
+    with ThreadPoolExecutor(max_workers=5) as pool:
+        page_results = list(pool.map(check_page, page_inventory.items()))
+        image_results = list(pool.map(check_asset, digests.items()))
+    return page_results + image_results
+
+
+
 def verify_public_receipt(base, root):
     """Identical catalogue URLs alone do not prove a new Pages deployment."""
     path = root / "catalog/publication-verification.json"
@@ -267,11 +347,16 @@ def main():
     except Exception as error:
         figure_results=[{'url':'/figures-scientifiques/', 'valid':False,
                          'error':'Inventaire de figures : '+str(error)}]
+    try:
+        recent_results=verify_recent_public_figures(args.base, Path('_site'))
+    except Exception as error:
+        recent_results=[{'url':'/figures-epiques/', 'valid':False,
+                         'error':'Photographies épiques : '+str(error)}]
     history_results=verify_public_history(args.base, Path('_site'))
-    failures=[r for r in results+svg_results+figure_results+history_results if not r['valid']]
+    failures=[r for r in results+svg_results+figure_results+recent_results+history_results if not r['valid']]
     report={'checked_at':datetime.now(timezone.utc).isoformat(),'base_url':args.base,
-            'checked':len(results)+len(svg_results)+len(figure_results)+len(history_results),
-            'historical_checks':history_results,
+            'checked':len(results)+len(svg_results)+len(figure_results)+len(recent_results)+len(history_results),
+            'historical_checks':history_results, 'epic_figure_checks':recent_results,
             'receipt_matches_build':receipt_ok,'svg_checks':svg_results,
             'figure_checks':figure_results,'failures':failures,'results':results}
     Path(args.output).write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n')
