@@ -181,8 +181,8 @@ def verify_public_figures(base, root):
                 + list(executor.map(check_image, images.items())))
 
 
-# Photographs added in the Iliad and Odyssey reading books. These are real
-# historical-site/object photographs: never validate JPEGs as SVGs.
+# Documented historical and modern photographs in the philosophical monographs
+# and reading books: never validate JPEGs as SVGs.
 RECENT_FIGURES = (
     ("livre-iliade-scenes/index.html", "mythos-iliade-troie-vi-remparts-20261104",
      "/media/2026/10/mythos-troie-vi-porte-est-hisarlik-cherryx-2012.jpg"),
@@ -190,6 +190,18 @@ RECENT_FIGURES = (
      "/media/2026/10/penelope-telemaque-metier-coupe-chiusi-1831.jpg"),
     ("livre-odyssee/index.html", "mythos-odyssee-pylos-palais-nestor-20261104",
      "/assets/philosophie/documents/odyssee-04.jpg"),
+    # Five documented illustrations added to the philosophy monographs
+    # and the Hesiod reading book on 4 November 2026.
+    ("philosophie-iliade.html", "icono-iliade-achille-ajax-jeu-hydrie-20261104",
+     "/media/2026/10/mythos-iliade-achille-ajax-athena-hydrie-met-56-171-29.jpg"),
+    ("philosophie-odyssee.html", "icono-odyssee-papyrus-met-xx-20261104",
+     "/media/2026/10/mythos-papyrus-odyssee-ptolemaique-met-09-182-50.jpg"),
+    ("livre-hesiode/index.html", "icono-hesiode-livre-hippocrene-20261104",
+     "/assets/philosophie/documents/theogonie-04.jpg"),
+    ("livre-hesiode/index.html", "icono-hesiode-livre-rhea-cronos-20261104",
+     "/assets/philosophie/documents/theogonie-01.jpg"),
+    ("livre-hesiode/index.html", "icono-hesiode-livre-zeus-typhon-hydrie-20261104",
+     "/assets/philosophie/documents/theogonie-02.jpg"),
 )
 
 
@@ -222,7 +234,7 @@ def recent_figure_inventory(root):
 
 
 def verify_recent_public_figures(base, root):
-    """Require all three figures in two public books, plus exact JPEG bytes."""
+    """Require all documented recent figures on their public pages and exact JPEG bytes."""
     page_inventory, digests = recent_figure_inventory(root)
     base = base.rstrip("/")
 
@@ -351,12 +363,12 @@ def main():
         recent_results=verify_recent_public_figures(args.base, Path('_site'))
     except Exception as error:
         recent_results=[{'url':'/figures-epiques/', 'valid':False,
-                         'error':'Photographies épiques : '+str(error)}]
+                         'error':'Photographies patrimoniales : '+str(error)}]
     history_results=verify_public_history(args.base, Path('_site'))
     failures=[r for r in results+svg_results+figure_results+recent_results+history_results if not r['valid']]
     report={'checked_at':datetime.now(timezone.utc).isoformat(),'base_url':args.base,
             'checked':len(results)+len(svg_results)+len(figure_results)+len(recent_results)+len(history_results),
-            'historical_checks':history_results, 'epic_figure_checks':recent_results,
+            'historical_checks':history_results, 'epic_figure_checks':recent_results, 'patrimonial_figure_checks':recent_results,
             'receipt_matches_build':receipt_ok,'svg_checks':svg_results,
             'figure_checks':figure_results,'failures':failures,'results':results}
     Path(args.output).write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n')

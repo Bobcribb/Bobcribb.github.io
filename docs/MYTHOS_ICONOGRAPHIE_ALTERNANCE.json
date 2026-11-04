@@ -5,78 +5,28 @@
   "branch": "main",
   "latest_session": {
     "date": "2026-11-04",
-    "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "previous_kind": "AUDIT ET CORRECTION",
-    "next_kind": "AUDIT ET CORRECTION",
-    "scope": "Enrichissement sourcé de deux monographies philosophiques et du livre Hésiode : cinq figures patrimoniales documentaires, sans création 2,5D ni modification des textes universitaires.",
-    "basis_commit": "469c0fc03a0abfbef05f6a8a94d0726bfa54db81",
-    "added_figures": [
-      {
-        "page": "philosophie-iliade.html",
-        "id": "icono-iliade-achille-ajax-jeu-hydrie-20261104",
-        "src": "/media/2026/10/mythos-iliade-achille-ajax-athena-hydrie-met-56-171-29.jpg"
-      },
-      {
-        "page": "philosophie-odyssee.html",
-        "id": "icono-odyssee-papyrus-met-xx-20261104",
-        "src": "/media/2026/10/mythos-papyrus-odyssee-ptolemaique-met-09-182-50.jpg"
-      },
-      {
-        "page": "livre-hesiode/index.html",
-        "id": "icono-hesiode-livre-hippocrene-20261104",
-        "src": "/assets/philosophie/documents/theogonie-04.jpg"
-      },
-      {
-        "page": "livre-hesiode/index.html",
-        "id": "icono-hesiode-livre-rhea-cronos-20261104",
-        "src": "/assets/philosophie/documents/theogonie-01.jpg"
-      },
-      {
-        "page": "livre-hesiode/index.html",
-        "id": "icono-hesiode-livre-zeus-typhon-hydrie-20261104",
-        "src": "/assets/philosophie/documents/theogonie-02.jpg"
-      }
-    ],
-    "precommit_audit": {
-      "philosophie-iliade.html": {
-        "before_bytes": 407725,
-        "after_bytes": 409155,
-        "added": 1,
-        "ids": 107,
-        "anchors": 111,
-        "images": 21,
-        "broken_anchors": 0,
-        "duplicate_ids": 0,
-        "images_missing_alt": 0
-      },
-      "philosophie-odyssee.html": {
-        "before_bytes": 388845,
-        "after_bytes": 390287,
-        "added": 1,
-        "ids": 106,
-        "anchors": 111,
-        "images": 20,
-        "broken_anchors": 0,
-        "duplicate_ids": 0,
-        "images_missing_alt": 0
-      },
-      "livre-hesiode/index.html": {
-        "before_bytes": 36447,
-        "after_bytes": 40571,
-        "added": 3,
-        "ids": 39,
-        "anchors": 26,
-        "images": 4,
-        "broken_anchors": 0,
-        "duplicate_ids": 0,
-        "images_missing_alt": 0
-      }
-    },
-    "scientific_status": "Trois photographies de vases antiques, un papyrus antique et une photographie de paysage moderne. Toutes sont distinctes d'une restitution archéologique ou d'une illustration IA. Notices Met, musée de Munich via inventaire, Harvard CHS, provenances et licences citées ; Hésiode et Homère ne sont jamais présentés comme sources d'observation directe des artefacts.",
-    "preservation": "Insertion additive dans des chapitres non numérotés déjà présents. Aucune création de fichier éditorial numéroté ; aucun texte de monographie supprimé, aucune entrée de menu, registre, ancienne illustration vectorielle 2,5D ou automatisation horaire modifiés.",
-    "public_deployment_status": "Non confirmé au moment de l’écriture ; le commit source est distingué d'une publication HTTPS. Vérification GitHub Actions, reçu de publication et pages publiques requise après déploiement.",
-    "obstacles": "Les longueurs universitaires dépassent 380 000 caractères pour chacune des trois monographies philosophiques ; une pagination A4 de dix pages ne peut être certifiée sans rendu PDF. Validation visuelle mobile à faire au déploiement.",
-    "commits": []
+    "kind": "AUDIT ET CORRECTION",
+    "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "scope": "Audit ciblé et protection de la publication publique des cinq figures patrimoniales du dernier lot (Iliade, Odyssée, livre Hésiode).",
+    "checked_html_pages": 3,
+    "html_ids_checked": 252,
+    "local_anchors_checked": 248,
+    "img_elements_checked": 45,
+    "duplicate_ids": 0,
+    "broken_internal_anchors": 0,
+    "images_missing_alt": 0,
+    "latest_figures_checked": 5,
+    "latest_image_files_present": 5,
+    "verified_issue": "Les 5 dernières figures n'étaient pas incluses dans RECENT_FIGURES du vérificateur public; un site déployé sans elles pouvait donc échapper à la vérification iconographique par figure.",
+    "fix": "Porter le contrôle du lot patrimonial à 8 figures sur 5 pages, conserver les 3 figures précédemment vérifiées, vérifier les notices, les alt, le statut, les sources et les JPEG exacts par SHA-256. Ajouter un cas de régression page Hésiode périmée et image Met modifiée.",
+    "tests": "Mise à jour des assertions pour 8 images / 5 pages et nouveau test de régression. Tests locaux Python non exécutés (dépôt inaccessible au terminal depuis cette session) ; CI à vérifier.",
+    "github_actions": "Au contrôle, run de publication 41809469046 en attente; run 41809283093 annulé; run 41807638069 en échec à l'étape « Préparer les contrôles sur ordinateur, smartphone et tablette ». Résultat final de publication non confirmé.",
+    "domain": "CNAME = bobmythos.fr; accès HTTPS indépendant au domaine et au reçu de publication indisponible durant cette séance.",
+    "preservation": "Aucun texte universitaire, numéro, registre éditorial, navigation, image ou automatisation modifié. Aucune nouvelle étude numérotée.",
+    "limitations": "Audit ciblé de 3 pages; pas de test HTTP exhaustif des liens externes ni mesure du PDF A4 ou du rendu mobile. Vérification de toutes les ressources CSS/JS et du site public à poursuivre.",
+    "commits": [],
+    "commit_note": "Un commit atomique réunit le vérificateur, son test et ce compte rendu; SHA à retrouver dans GitHub."
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
   "history": [
@@ -777,6 +727,31 @@
       "public_deployment_status": "Non confirmé au moment de l’écriture ; le commit source est distingué d'une publication HTTPS. Vérification GitHub Actions, reçu de publication et pages publiques requise après déploiement.",
       "obstacles": "Les longueurs universitaires dépassent 380 000 caractères pour chacune des trois monographies philosophiques ; une pagination A4 de dix pages ne peut être certifiée sans rendu PDF. Validation visuelle mobile à faire au déploiement.",
       "commits": []
+    },
+    {
+      "date": "2026-11-04",
+      "kind": "AUDIT ET CORRECTION",
+      "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "scope": "Audit ciblé et protection de la publication publique des cinq figures patrimoniales du dernier lot (Iliade, Odyssée, livre Hésiode).",
+      "checked_html_pages": 3,
+      "html_ids_checked": 252,
+      "local_anchors_checked": 248,
+      "img_elements_checked": 45,
+      "duplicate_ids": 0,
+      "broken_internal_anchors": 0,
+      "images_missing_alt": 0,
+      "latest_figures_checked": 5,
+      "latest_image_files_present": 5,
+      "verified_issue": "Les 5 dernières figures n'étaient pas incluses dans RECENT_FIGURES du vérificateur public; un site déployé sans elles pouvait donc échapper à la vérification iconographique par figure.",
+      "fix": "Porter le contrôle du lot patrimonial à 8 figures sur 5 pages, conserver les 3 figures précédemment vérifiées, vérifier les notices, les alt, le statut, les sources et les JPEG exacts par SHA-256. Ajouter un cas de régression page Hésiode périmée et image Met modifiée.",
+      "tests": "Mise à jour des assertions pour 8 images / 5 pages et nouveau test de régression. Tests locaux Python non exécutés (dépôt inaccessible au terminal depuis cette session) ; CI à vérifier.",
+      "github_actions": "Au contrôle, run de publication 41809469046 en attente; run 41809283093 annulé; run 41807638069 en échec à l'étape « Préparer les contrôles sur ordinateur, smartphone et tablette ». Résultat final de publication non confirmé.",
+      "domain": "CNAME = bobmythos.fr; accès HTTPS indépendant au domaine et au reçu de publication indisponible durant cette séance.",
+      "preservation": "Aucun texte universitaire, numéro, registre éditorial, navigation, image ou automatisation modifié. Aucune nouvelle étude numérotée.",
+      "limitations": "Audit ciblé de 3 pages; pas de test HTTP exhaustif des liens externes ni mesure du PDF A4 ou du rendu mobile. Vérification de toutes les ressources CSS/JS et du site public à poursuivre.",
+      "commits": [],
+      "commit_note": "Un commit atomique réunit le vérificateur, son test et ce compte rendu; SHA à retrouver dans GitHub."
     }
   ]
 }

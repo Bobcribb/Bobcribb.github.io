@@ -127,7 +127,7 @@ class FigureAndReceiptGuardTests(unittest.TestCase):
 
 
 class RecentFigurePublicationTests(unittest.TestCase):
-    """One Iliad figure and two Odyssey figures require independent verification."""
+    """Recent documented figures must be independently verified, even on a shared page."""
     def setUp(self):
         self.tmp = tempfile.TemporaryDirectory()
         self.addCleanup(self.tmp.cleanup)
@@ -160,14 +160,15 @@ class RecentFigurePublicationTests(unittest.TestCase):
         return (200, "image/jpeg", self.assets[path]) if path in self.assets else (
             200, "text/html", self.pages[path])
 
-    def test_all_three_photographs_and_two_pages_verified(self):
+    def test_all_eight_photographs_and_five_pages_verified(self):
         pages, assets = live.recent_figure_inventory(self.root)
-        self.assertEqual(len(pages), 2)
+        self.assertEqual(len(pages), 5)
         self.assertEqual(len(pages["livre-odyssee/index.html"]), 2)
-        self.assertEqual(len(assets), 3)
+        self.assertEqual(len(pages["livre-hesiode/index.html"]), 3)
+        self.assertEqual(len(assets), 8)
         with patch.object(live, "fetch", side_effect=self.fetch):
             report = live.verify_recent_public_figures("https://example.test", self.root)
-        self.assertEqual(len(report), 5)
+        self.assertEqual(len(report), 13)
         self.assertTrue(all(item["valid"] for item in report))
 
     def test_stale_odyssey_figure_and_tampered_jpeg_are_detected(self):
@@ -186,6 +187,25 @@ class RecentFigurePublicationTests(unittest.TestCase):
         self.assertEqual({r["url"] for r in broken}, {
             "/livre-odyssee/index.html",
             "/assets/philosophie/documents/odyssee-04.jpg"})
+
+    def test_five_latest_notices_and_images_are_required(self):
+        """Detect a stale Hesiod page and corrupted museum photograph."""
+        def stale_fetch(url):
+            path = url.split("https://example.test", 1)[-1]
+            if path == "/livre-hesiode/index.html":
+                return (200, "text/html", self.pages[path].replace(
+                    b"icono-hesiode-livre-rhea-cronos-20261104",
+                    b"absent-hesiode-rhea"))
+            if path.endswith("mythos-papyrus-odyssee-ptolemaique-met-09-182-50.jpg"):
+                return (200, "image/jpeg", self.assets[path] + b"tampered")
+            return self.fetch(url)
+        with patch.object(live, "fetch", side_effect=stale_fetch):
+            report = live.verify_recent_public_figures("https://example.test", self.root)
+        failures = {item["url"] for item in report if not item["valid"]}
+        self.assertEqual(failures, {
+            "/livre-hesiode/index.html",
+            "/media/2026/10/mythos-papyrus-odyssee-ptolemaique-met-09-182-50.jpg",
+        })
 
     def test_non_jpeg_rejected(self):
         src = live.RECENT_FIGURES[0][2]
