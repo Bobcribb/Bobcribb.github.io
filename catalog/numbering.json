@@ -1154,6 +1154,12 @@
         "url": "/chapitres/tragedies/volume-ccvii-euripide-meleagre-atalante-althee-chasse-calydon/",
         "title": "Volume CCVII (207) — I. Place du dossier dans l'encyclopédie et questions directrices",
         "source": "chapitres/tragedies/volume-ccvii-euripide-meleagre-atalante-althee-chasse-calydon.md"
+      },
+      {
+        "number": 208,
+        "url": "/chapitres/tragedies/volume-ccviii-euripide-alcmene-identite-preuve-supplication-bucher/",
+        "title": "Volume CCVIII (208) — I. Objet et position dans le cycle tragique",
+        "source": "chapitres/tragedies/volume-ccviii-euripide-alcmene-identite-preuve-supplication-bucher.md"
       }
     ],
     "comparatif": [
@@ -1882,6 +1888,12 @@
         "url": "/chapitres/comparatif/volume-clxxv-lambros-malafouris-engagement-materiel-cognition-ceramique-signes/",
         "title": "Volume CLXXV (175) — Lambros Malafouris : théorie de l'engagement matériel, pensée étendue, céramique, signes et archéologie de la cognition",
         "source": "chapitres/comparatif/volume-clxxv-lambros-malafouris-engagement-materiel-cognition-ceramique-signes.md"
+      },
+      {
+        "number": 176,
+        "url": "/chapitres/comparatif/volume-clxxvi-gilbert-simondon-individuation-objets-techniques-milieu-associe/",
+        "title": "Volume CLXXVI (176) — Gilbert Simondon : individuation des objets techniques, concrétisation et milieu associé — De Prométhée aux instruments grecs",
+        "source": "chapitres/comparatif/volume-clxxvi-gilbert-simondon-individuation-objets-techniques-milieu-associe.md"
       }
     ],
     "comedies": [
@@ -3212,6 +3224,18 @@
         "url": "/chapitres/origines-du-sacre/608-ciceron-verrines-images-divines-sicile-plaintes-restitution/",
         "title": "Chapitre 608 — Qui rendra la déesse ? Les Verrines de Cicéron, l'extorsion provinciale et la restitution des images consacrées",
         "source": "chapitres/origines-du-sacre/608-ciceron-verrines-images-divines-sicile-plaintes-restitution.md"
+      },
+      {
+        "number": 609,
+        "url": "/chapitres/origines-du-sacre/609-cyrus-retour-dieux-objets-sacres-esdras-babylone/",
+        "title": "Chapitre 609 — Rendre les dieux à leur maison : le cylindre de Cyrus, le retour des objets du Temple de Jérusalem et les politiques impériales de restitution",
+        "source": "chapitres/origines-du-sacre/609-cyrus-retour-dieux-objets-sacres-esdras-babylone.md"
+      },
+      {
+        "number": 610,
+        "url": "/chapitres/origines-du-sacre/610-canope-rosette-restitutions-decrets-sacerdotaux-ptolemees/",
+        "title": "Chapitre 610 — Restituer aux dieux, honorer le roi : le décret de Canope, la pierre de Rosette et les négociations entre sanctuaires et souveraineté lagide",
+        "source": "chapitres/origines-du-sacre/610-canope-rosette-restitutions-decrets-sacerdotaux-ptolemees.md"
       }
     ]
   },

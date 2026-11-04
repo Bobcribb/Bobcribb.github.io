@@ -219,6 +219,18 @@
           "path": "chapitres/origines-du-sacre/608-ciceron-verrines-images-divines-sicile-plaintes-restitution.md",
           "request_sha256": "fd637be477004f4f130528d070000c68a00bc7f13b2b4034b708decb15cef5fb",
           "initial_source_sha256": "efacbabe7f1f8a9a71a77e7fbf220e9df83750026d035bc536704a72dfa1ea80"
+        },
+        "e5c96ad1-6756-43c7-9122-8d2690aa4c11": {
+          "number": 609,
+          "path": "chapitres/origines-du-sacre/609-cyrus-retour-dieux-objets-sacres-esdras-babylone.md",
+          "request_sha256": "90afdbbd83c5dc05b87224194c93d45763d10ffb0bea2a98377ad660d7ddfe7d",
+          "initial_source_sha256": "c3a82cb7bc7a10096e66e8b02008e08b1ab2e13284b2c2badea14034283f4be2"
+        },
+        "f7a2d6ec-130c-40f9-86e7-1f4db37e662b": {
+          "number": 610,
+          "path": "chapitres/origines-du-sacre/610-canope-rosette-restitutions-decrets-sacerdotaux-ptolemees.md",
+          "request_sha256": "14151411e9e6b781d16479db7f8a75c98bcb3ff1ee390842c94c97c7440fc8e7",
+          "initial_source_sha256": "86fce695a13ea69dd02631f3cb9de6d83e44fdd3788a32ef813b228a67684b03"
         }
       }
     },
@@ -693,6 +705,12 @@
           "path": "chapitres/tragedies/volume-ccvii-euripide-meleagre-atalante-althee-chasse-calydon.md",
           "request_sha256": "54a7dacde99cf22429c2f9a0b6ea7bc28b62ff5cbc69e896aac9dc2a13d4541c",
           "initial_source_sha256": "c0fc5ba71c0e028ab3731660a5bbb1de6b7b225088466ed67befbe4da3113e63"
+        },
+        "7dfbc91a-4065-4f6c-95ca-41a6c53c75d2": {
+          "number": 208,
+          "path": "chapitres/tragedies/volume-ccviii-euripide-alcmene-identite-preuve-supplication-bucher.md",
+          "request_sha256": "6b3735e768ba0a6c5336b8a2db7d2e03f238b795ff294e2d6fd65a794944de6a",
+          "initial_source_sha256": "05345bdd53935a75d870a6b8851f49447646b898c5d30e78576358a6ae0e6af6"
         }
       }
     },
@@ -905,6 +923,12 @@
           "path": "chapitres/comparatif/volume-clxxv-lambros-malafouris-engagement-materiel-cognition-ceramique-signes.md",
           "request_sha256": "c5c29ed0ef86e7fe2ebb3168c77835251f0b5269d325b7af22cb6b391eed2535",
           "initial_source_sha256": "9d00949285187c57c64a1d6ce0e1f3764ca08b85b58f274e98a419452bcce708"
+        },
+        "f2e9638b-2db0-4cc0-8cc7-b176b7b6dc28": {
+          "number": 176,
+          "path": "chapitres/comparatif/volume-clxxvi-gilbert-simondon-individuation-objets-techniques-milieu-associe.md",
+          "request_sha256": "af4de61077e59a20b321547a025e0812efb6c6c3d55579f2110a5d6376062a7a",
+          "initial_source_sha256": "8ff092add582bd617b5e5160c285b214f0bab4f8a5896698ff1d6287d64f9820"
         }
       }
     }
