@@ -16,7 +16,7 @@ La fabrication divine se présente comme un travail. On peut rapprocher cette sc
 
 Il ne suffit pas de dire que l'objet homérique serait « universel » et l'objet virgilien « propagandiste ». Chez Homère aussi, le bouclier est destiné à un combattant et intègre conflit, injustice, menaces et travail. Chez Virgile, l'orientation politique n'empêche pas le texte de représenter la peur, la fuite et les violences de l'histoire. La comparaison la plus féconde porte donc sur l'articulation entre une multiplicité de scènes et le destin particulier d'un porteur. Achille reçoit un monde dont son propre avenir ne se détache pas ; Énée reçoit l'histoire future d'une collectivité dont il est l'ancêtre sans en être le témoin.
 
-![Vénus au travail de Vulcain, Sebastiano Conca, Metropolitan Museum](https://images.metmuseum.org/CRDImages/dp/original/DP828285.jpg)
+![Vénus au travail de Vulcain, Sebastiano Conca, Metropolitan Museum](assets/philosophie/eneide/venus-vulcain-met.jpg)
 
 *Figure 3 — Sebastiano Conca, « Venus at the Forge of Vulcan », dessin conservé au Metropolitan Museum of Art, New York. [Notice muséale](https://www.metmuseum.org/art/collection/search/420445). L'image représente la commande des armes, et non les épisodes figurés sur la surface du bouclier.*
 
