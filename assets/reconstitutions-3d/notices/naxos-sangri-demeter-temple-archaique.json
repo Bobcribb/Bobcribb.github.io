@@ -1,0 +1,29 @@
+{
+  "id": "NAX-SAN-001",
+  "slug": "naxos-sangri-demeter-temple-archaique",
+  "title": "Naxos — sanctuaire de Déméter à Sangri (Gyroulas)",
+  "period": "Vers 530 av. J.-C. — époque archaïque tardive",
+  "caption": "Reconstitution numérique photoréaliste, interprétative et non métrique du temple archaïque de Sangri, édifié en marbre naxien dans la plaine de Gyroulas.",
+  "commentary": "Sur une faible élévation de la plaine de Gyroulas, au sud de Sangri sur Naxos, s'élève un édifice entièrement construit en marbre, daté, selon les études, de 540–530 ou de 530–520 av. J.-C. Dédié vraisemblablement à Déméter et Korè, le sanctuaire comporte une salle cultuelle de plan presque carré, avec pronaos au sud, deux portes d'accès à la cella et une rangée transversale de cinq colonnes internes. La façade présentait également cinq colonnes, disposées entre les prolongements des murs (in antis) ; les fûts étaient lisses, les détails des chapiteaux largement peints, la toiture et ses tuiles façonnées dans le marbre de Naxos. L'édifice constitue un jalon important dans l'élaboration de la construction ionique et des corrections optiques. L'illustration privilégie une vue photoréaliste de volume, mais ne doit pas être assimilée à une anastylose numérique : le modèle représente quatre colonnes visibles en façade au lieu des cinq attestées, et l'entrée est stylisée ; il simplifie également la couverture, les proportions exactes et la topographie. Le sol, les murs extérieurs, l'orientation du point de vue, les collines et la mer éventuellement visibles sont des choix artistiques et non le résultat d'un relevé. L'institution citée documente le site, sans valider cette image.",
+  "certainty": {
+    "elevee": "Localisation à Gyroulas (Sangri), temple de marbre naxien vers 530 av. J.-C., plan presque carré, façade de cinq colonnes, deux portes et cinq colonnes dans la cella.",
+    "moyenne": "Restitution générale de la toiture en marbre et du volume de la salle rituelle ; attribution cultuelle à Déméter et Korè.",
+    "faible": "Image de façade : seulement quatre colonnes représentées au lieu de cinq. Proportions, revêtements, hauteurs, paysage, lumière, finition des tuiles et angle de vue imaginés."
+  },
+  "image": "/assets/reconstitutions-3d/naxos-sangri-demeter-temple-archaique.webp",
+  "width": 1600,
+  "height": 900,
+  "sha256_webp": "aa5556e3a58307d5ffc27a48f38f33093823a574a05dd901a9d30f2ba3521079",
+  "sources": [
+    {
+      "title": "Éphorie des antiquités des Cyclades — Archaeological Collection and Site of Sangri, Naxos",
+      "url": "https://cyclades.culture.gov.gr/en/location/the-archaeological-collection-and-the-archaeological-site-of-sangri-naxos/"
+    },
+    {
+      "title": "Greek Travel Pages — Archaeological Site of Sangri",
+      "url": "https://www.gtp.gr/directory/archaeologicalsiteofsangri"
+    }
+  ],
+  "status": "Intégré dans la branche GitHub MYTHOS ; publication effective à vérifier sur le domaine public.",
+  "method": "Illustration photoréaliste générée par IA; illustration artistique, non relevé métrique, sans texte ni menu incrusté."
+}
