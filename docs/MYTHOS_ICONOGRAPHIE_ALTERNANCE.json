@@ -5,84 +5,114 @@
   "branch": "main",
   "latest_session": {
     "date": "2026-11-04",
-    "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "previous_kind": "AUDIT ET CORRECTION",
-    "next_kind": "AUDIT ET CORRECTION",
-    "scope": "Ajout contrôlé de trois photographies muséales d'artefacts antiques existants aux monographies Iliade (Apollon), Odyssée (Hermès) et Théogonie (Persée, Méduse, Pégase), accompagnées de leurs notices, datations, statuts IA et sources institutionnelles. Aucun nouveau binaire.",
-    "basis_commit": "d1277c4c978843f397ceddacd0bfacb512243f8d",
-    "figures_added": [
+    "kind": "AUDIT ET CORRECTION",
+    "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "scope": "Audit après la séance iconographique 38 : sept pages prioritaires, figures muséales récentes, intégrité des ressources CSS/JS, navigation/ancres, contrôles d'accessibilité, pagination déclarée, historique éditorial et déploiement HTTPS réellement observé.",
+    "basis_commit": "d39cf16efcc2538c7b6efb0e2fe765f0e947d906",
+    "audited_pages": [
+      "index.html",
+      "livre-iliade-scenes/index.html",
+      "livre-odyssee/index.html",
+      "livre-hesiode/index.html",
+      "philosophie-iliade.html",
+      "philosophie-odyssee.html",
+      "philosophie-theogonie.html"
+    ],
+    "targeted_source_audit": {
+      "pages": 7,
+      "html_ids": 525,
+      "same_page_fragment_links": 435,
+      "image_elements": 139,
+      "duplicate_ids": 0,
+      "broken_same_page_fragments": 0,
+      "img_elements_without_alt": 0,
+      "linked_css_js_files_verified": 10,
+      "missing_css_js_sources": 0
+    },
+    "published_latest_figures": [
       {
         "page": "philosophie-iliade.html",
-        "section": "iliade-long-a02",
         "id": "icono-iliade-apollon-bronze-met-246408-20261104",
-        "src": "/assets/illustrations-articles/met-246408-apollon-bronze-romain.webp",
-        "museum_url": "https://www.metmuseum.org/art/collection/search/246408"
+        "media": "/assets/illustrations-articles/met-246408-apollon-bronze-romain.webp",
+        "museum": "https://www.metmuseum.org/art/collection/search/246408",
+        "visible_on_https": true
       },
       {
         "page": "philosophie-odyssee.html",
-        "section": "odyssee-long-a06",
         "id": "icono-odyssee-hermes-calypso-met-246679-20261104",
-        "src": "/assets/illustrations-articles/met-246679-hermes-bronze-aile.webp",
-        "museum_url": "https://www.metmuseum.org/art/collection/search/246679"
+        "media": "/assets/illustrations-articles/met-246679-hermes-bronze-aile.webp",
+        "museum": "https://www.metmuseum.org/art/collection/search/246679",
+        "visible_on_https": true
       },
       {
         "page": "philosophie-theogonie.html",
-        "section": "theogonie-long-a10",
         "id": "icono-theogonie-meduse-pegase-lecythe-met-247488-20261104",
-        "src": "/assets/illustrations-articles/met-247488-persee-meduse-pegase.webp",
-        "museum_url": "https://www.metmuseum.org/art/collection/search/247488"
+        "media": "/assets/illustrations-articles/met-247488-persee-meduse-pegase.webp",
+        "museum": "https://www.metmuseum.org/art/collection/search/247488",
+        "visible_on_https": true
       }
     ],
-    "scientific_sources": [
-      "Metropolitan Museum inv. 96.9.401, Apollon, bronze romain, Ier–IIe s. apr. J.-C., lien avec Iliade I.",
-      "Metropolitan Museum inv. 97.22.1, Hermès, bronze grec ou romain, Ier s. av. J.-C.–IIe s. apr. J.-C., lien avec Odyssée V.",
-      "Metropolitan Museum inv. 06.1070, lécythe attique peintre de Diosphos, vers 500 av. J.-C., Persée, Méduse et Pégase, lien avec Théogonie 270–286."
-    ],
-    "checks_before_commit": {
-      "philosophie-iliade.html": {
-        "ids": 114,
-        "internal_anchors": 111,
-        "broken_anchors": 0,
-        "duplicate_ids": 0,
-        "images": 28,
-        "images_without_alt": 0,
-        "new_image_src": "/assets/illustrations-articles/met-246408-apollon-bronze-romain.webp",
-        "figure_id": "icono-iliade-apollon-bronze-met-246408-20261104",
-        "old_len": 417168,
-        "new_len": 418915
+    "publication_evidence": {
+      "url": "https://bobmythos.fr/catalog/publication-verification.json",
+      "observed_source_commit": "2f6cb0265003ba7a351af2964604d3a9f130807a",
+      "observed_github_run_id": "41925584632",
+      "indexed_documents": 1401,
+      "verified_archives": 27,
+      "verified_media": 110,
+      "publish_workflow_conclusion": "success",
+      "source_commit_is_parent_of_basis_commit": true,
+      "latest_figures_seen_in_public_html": true
+    },
+    "actions_evidence": {
+      "full_link_audit": {
+        "run_id": 41921342529,
+        "head_commit": "a9fdfd043a08faa5714bca23868efb77ba84d138",
+        "conclusion": "success",
+        "hard_errors": 0,
+        "warnings": 0
       },
-      "philosophie-odyssee.html": {
-        "ids": 113,
-        "internal_anchors": 111,
-        "broken_anchors": 0,
-        "duplicate_ids": 0,
-        "images": 27,
-        "images_without_alt": 0,
-        "new_image_src": "/assets/illustrations-articles/met-246679-hermes-bronze-aile.webp",
-        "figure_id": "icono-odyssee-hermes-calypso-met-246679-20261104",
-        "old_len": 398860,
-        "new_len": 400573
+      "generator_validation": {
+        "run_id": 41925588451,
+        "conclusion": "success"
       },
-      "philosophie-theogonie.html": {
-        "ids": 115,
-        "internal_anchors": 113,
-        "broken_anchors": 0,
-        "duplicate_ids": 0,
-        "images": 27,
-        "images_without_alt": 0,
-        "new_image_src": "/assets/illustrations-articles/met-247488-persee-meduse-pegase.webp",
-        "figure_id": "icono-theogonie-meduse-pegase-lecythe-met-247488-20261104",
-        "old_len": 403083,
-        "new_len": 404787
+      "public_deployment": {
+        "run_id": 41925584632,
+        "conclusion": "success"
+      },
+      "responsive": {
+        "checked_at": "2026-11-04T22:44:07.897Z",
+        "checks": 39,
+        "devices": [
+          "ordinateur",
+          "smartphone",
+          "tablette"
+        ],
+        "http_non_200": 0,
+        "horizontal_overflows": 0,
+        "conclusion": "success"
       }
     },
-    "control_updates": "scripts/verify_live_site.py : RECENT_FIGURES +3 (25 -> 28); 22 ressources uniques attendues (20 -> 22, Hermès déjà catalogué). tests/test_verify_live_site_assets.py : compteurs ajustés et nouveau test de détection de trois pages obsolètes et WebP modifiés. Suite Python complète à confirmer par Actions.",
-    "page_count_manifest": "catalog/reading-pdfs.json : Iliade 122 p. PDF, dont 107 d'analyse ; Odyssée 116, dont 101 ; Théogonie 117, dont 103 ; manifest conservé, aucune nouvelle pagination.",
-    "preservation": "Textes scientifiques des pages, menus, navigation, numérotation, demandes editoriales, assets binaires, workflows et cadences inchangés ; éléments figure seuls ajoutés après les titres des sections longues. AGENTS.md et docs/PUBLICATION_CONCURRENTE.md lus.",
-    "publication_status": "Intégration préparée sur main ; la CI et la publication HTTPS du lot restent à confirmer ; aucun déploiement public déclaré sans reçu et pages observés.",
-    "limitations": "Tests structuraux JavaScript ciblés avant commit ; suite Python et rendu PDF non exécutés localement ; contrôle responsive sur matériel non réalisé.",
+    "reading_pdfs_manifest": {
+      "iliade": {
+        "pages": 122,
+        "analysis_pages": 107
+      },
+      "odyssee": {
+        "pages": 116,
+        "analysis_pages": 101
+      },
+      "theogonie": {
+        "pages": 117,
+        "analysis_pages": 103
+      },
+      "note": "Données du manifeste déjà publié, aucune nouvelle pagination ni inspection visuelle des PDF lors de cette séance."
+    },
+    "verified_correction": "Réparation de la traçabilité : le dernier événement iconographique (séance 38) contenait commits: [] malgré la présence vérifiée du commit a9fdfd043a08faa5714bca23868efb77ba84d138 ; ce SHA est inscrit dans l'historique. Aucune anomalie bloquante trouvée dans les sept pages : aucun changement aux contenus scientifiques ou pages.",
+    "limitations": "Contrôle exhaustif des liens exécuté par CI sur la révision a9fdfd0, et non à nouveau sur la toute dernière révision ; seuls sept fichiers HTML et leurs ressources CSS/JS ont été vérifiés manuellement ici. Tests sur 39 routes/vues via Playwright dans GitHub Actions, non sur appareils physiques. Disponibilité de chaque lien externe scientifique non retestée. Les trois médias et notices sont vérifiés par le workflow public ; contrôle direct des octets médias non répété dans cette séance.",
+    "preservation": "Aucun manuscrit, numéro, registre d'attribution, page HTML, asset, menu, workflow ou planification horaire modifié. AGENTS.md et docs/PUBLICATION_CONCURRENTE.md relus.",
     "commits": [],
-    "commit_note": "SHA du commit atomique dans le bilan de séance ; le registre ne préjuge pas du déploiement public."
+    "commit_note": "Journal enregistré en un commit distinct ; consulter le bilan de cette séance pour son SHA, qui ne peut figurer dans le contenu de son propre commit."
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
   "history": [
@@ -1970,8 +2000,121 @@
       "preservation": "Textes scientifiques des pages, menus, navigation, numérotation, demandes editoriales, assets binaires, workflows et cadences inchangés ; éléments figure seuls ajoutés après les titres des sections longues. AGENTS.md et docs/PUBLICATION_CONCURRENTE.md lus.",
       "publication_status": "Intégration préparée sur main ; la CI et la publication HTTPS du lot restent à confirmer ; aucun déploiement public déclaré sans reçu et pages observés.",
       "limitations": "Tests structuraux JavaScript ciblés avant commit ; suite Python et rendu PDF non exécutés localement ; contrôle responsive sur matériel non réalisé.",
-      "commits": [],
+      "commits": [
+        "a9fdfd043a08faa5714bca23868efb77ba84d138"
+      ],
       "commit_note": "SHA du commit atomique dans le bilan de séance ; le registre ne préjuge pas du déploiement public."
+    },
+    {
+      "date": "2026-11-04",
+      "kind": "AUDIT ET CORRECTION",
+      "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "scope": "Audit après la séance iconographique 38 : sept pages prioritaires, figures muséales récentes, intégrité des ressources CSS/JS, navigation/ancres, contrôles d'accessibilité, pagination déclarée, historique éditorial et déploiement HTTPS réellement observé.",
+      "basis_commit": "d39cf16efcc2538c7b6efb0e2fe765f0e947d906",
+      "audited_pages": [
+        "index.html",
+        "livre-iliade-scenes/index.html",
+        "livre-odyssee/index.html",
+        "livre-hesiode/index.html",
+        "philosophie-iliade.html",
+        "philosophie-odyssee.html",
+        "philosophie-theogonie.html"
+      ],
+      "targeted_source_audit": {
+        "pages": 7,
+        "html_ids": 525,
+        "same_page_fragment_links": 435,
+        "image_elements": 139,
+        "duplicate_ids": 0,
+        "broken_same_page_fragments": 0,
+        "img_elements_without_alt": 0,
+        "linked_css_js_files_verified": 10,
+        "missing_css_js_sources": 0
+      },
+      "published_latest_figures": [
+        {
+          "page": "philosophie-iliade.html",
+          "id": "icono-iliade-apollon-bronze-met-246408-20261104",
+          "media": "/assets/illustrations-articles/met-246408-apollon-bronze-romain.webp",
+          "museum": "https://www.metmuseum.org/art/collection/search/246408",
+          "visible_on_https": true
+        },
+        {
+          "page": "philosophie-odyssee.html",
+          "id": "icono-odyssee-hermes-calypso-met-246679-20261104",
+          "media": "/assets/illustrations-articles/met-246679-hermes-bronze-aile.webp",
+          "museum": "https://www.metmuseum.org/art/collection/search/246679",
+          "visible_on_https": true
+        },
+        {
+          "page": "philosophie-theogonie.html",
+          "id": "icono-theogonie-meduse-pegase-lecythe-met-247488-20261104",
+          "media": "/assets/illustrations-articles/met-247488-persee-meduse-pegase.webp",
+          "museum": "https://www.metmuseum.org/art/collection/search/247488",
+          "visible_on_https": true
+        }
+      ],
+      "publication_evidence": {
+        "url": "https://bobmythos.fr/catalog/publication-verification.json",
+        "observed_source_commit": "2f6cb0265003ba7a351af2964604d3a9f130807a",
+        "observed_github_run_id": "41925584632",
+        "indexed_documents": 1401,
+        "verified_archives": 27,
+        "verified_media": 110,
+        "publish_workflow_conclusion": "success",
+        "source_commit_is_parent_of_basis_commit": true,
+        "latest_figures_seen_in_public_html": true
+      },
+      "actions_evidence": {
+        "full_link_audit": {
+          "run_id": 41921342529,
+          "head_commit": "a9fdfd043a08faa5714bca23868efb77ba84d138",
+          "conclusion": "success",
+          "hard_errors": 0,
+          "warnings": 0
+        },
+        "generator_validation": {
+          "run_id": 41925588451,
+          "conclusion": "success"
+        },
+        "public_deployment": {
+          "run_id": 41925584632,
+          "conclusion": "success"
+        },
+        "responsive": {
+          "checked_at": "2026-11-04T22:44:07.897Z",
+          "checks": 39,
+          "devices": [
+            "ordinateur",
+            "smartphone",
+            "tablette"
+          ],
+          "http_non_200": 0,
+          "horizontal_overflows": 0,
+          "conclusion": "success"
+        }
+      },
+      "reading_pdfs_manifest": {
+        "iliade": {
+          "pages": 122,
+          "analysis_pages": 107
+        },
+        "odyssee": {
+          "pages": 116,
+          "analysis_pages": 101
+        },
+        "theogonie": {
+          "pages": 117,
+          "analysis_pages": 103
+        },
+        "note": "Données du manifeste déjà publié, aucune nouvelle pagination ni inspection visuelle des PDF lors de cette séance."
+      },
+      "verified_correction": "Réparation de la traçabilité : le dernier événement iconographique (séance 38) contenait commits: [] malgré la présence vérifiée du commit a9fdfd043a08faa5714bca23868efb77ba84d138 ; ce SHA est inscrit dans l'historique. Aucune anomalie bloquante trouvée dans les sept pages : aucun changement aux contenus scientifiques ou pages.",
+      "limitations": "Contrôle exhaustif des liens exécuté par CI sur la révision a9fdfd0, et non à nouveau sur la toute dernière révision ; seuls sept fichiers HTML et leurs ressources CSS/JS ont été vérifiés manuellement ici. Tests sur 39 routes/vues via Playwright dans GitHub Actions, non sur appareils physiques. Disponibilité de chaque lien externe scientifique non retestée. Les trois médias et notices sont vérifiés par le workflow public ; contrôle direct des octets médias non répété dans cette séance.",
+      "preservation": "Aucun manuscrit, numéro, registre d'attribution, page HTML, asset, menu, workflow ou planification horaire modifié. AGENTS.md et docs/PUBLICATION_CONCURRENTE.md relus.",
+      "commits": [],
+      "commit_note": "Journal enregistré en un commit distinct ; consulter le bilan de cette séance pour son SHA, qui ne peut figurer dans le contenu de son propre commit."
     }
   ]
 }
