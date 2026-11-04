@@ -219,7 +219,14 @@
         "chapitres/encyclopedie/chapitre-356-androgee-minos-tribut.md": 356,
         "chapitres/encyclopedie/chapitre-357-pindare-odes-pythiques-gloire-memoire-pouvoir.md": 357
       },
-      "allocations": {}
+      "allocations": {
+        "dd3561cb-62ab-4a6d-99dc-23bd4f837b60": {
+          "number": 358,
+          "path": "chapitres/encyclopedie/chapitre-358-hyperboreens-apollon-delos-offrandes-geographie-sacree.md",
+          "request_sha256": "dfc1a20afb1ce19065a8ca68cc5fee2127d397da1b6ac60565536aace17e2524",
+          "initial_source_sha256": "dfa2d62da6112ee7feaeaf6e083cfff91143e65f30c6b54144eb0c1c01fb9ef3"
+        }
+      }
     },
     "comedies": {
       "legacy": {
