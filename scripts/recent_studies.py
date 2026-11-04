@@ -156,7 +156,9 @@ def install(root, output):
     for item in records:
         reader = output / item['url'].lstrip('/') / 'index.html'
         reader_doc = BeautifulSoup(reader.read_text(encoding='utf-8'), 'html.parser')
-        article = reader_doc.select_one('main article.content') or reader_doc.select_one('main')
+        article = (reader_doc.select_one('main article.content')
+                   or reader_doc.select_one('main')
+                   or reader_doc.select_one('article'))
         if article is None:
             continue
         for existing in article.select('nav[data-mythos-recent-backlinks]'):
