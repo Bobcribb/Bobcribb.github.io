@@ -1,0 +1,489 @@
+# MYTHOS — Grande Encyclopédie de la mythologie grecque — Chapitre 390
+
+# KAIROS (Καιρός)
+## L'occasion divine, le juste moment, l'art de décider et le temps irréversible dans la civilisation grecque
+
+*Étude universitaire intégrale : philologie grecque, traditions poétiques, généalogie divine, culte d'Olympie, histoire de l'art, archéologie, médecine, rhétorique, philosophie de l'action et comparaison critique.*
+
+**Principe méthodologique.** Le mot *kairos*, la personnification divine Kairos, l'autel attesté à Olympie et la statue disparue de Lysippe relèvent de catégories documentaires différentes. Les études modernes et les reliefs plus récents ne constituent pas des preuves directes de toutes les caractéristiques du culte ancien. Le numéro de ce chapitre est attribué exclusivement par le système éditorial ; le présent manuscrit ne le réserve pas.
+
+## Introduction — Pourquoi une occasion peut-elle devenir un dieu ?
+
+La vie humaine est faite d'actions qui ne peuvent pas être entreprises n'importe quand. Le navigateur doit tenir compte des vents ; le médecin de la progression de la maladie ; l'orateur de la disposition de son public ; le chef militaire de l'état de ses forces et de l'ouverture offerte par son adversaire. Une décision peut être techniquement correcte et néanmoins échouer si elle intervient trop tôt ou trop tard. Les Grecs ont nommé *kairos* cette dimension qualitative de l'action : l'instant pertinent, le point critique, la conjoncture dans laquelle l'intervention adéquate peut réussir.
+
+Cette notion, progressivement élaborée dans la poésie, la médecine, la stratégie, la rhétorique et la philosophie, connaît aussi une existence religieuse. Pausanias voit à Olympie un autel de Kairos ; il mentionne un hymne, aujourd'hui perdu, dans lequel Ion de Chios faisait de Kairos le plus jeune enfant de Zeus. La tradition artistique attribue au sculpteur Lysippe une célèbre image en bronze d'un être rapide, ailé, insaisissable après son passage. Une épigramme attribuée à Posidippe transforme cette statue en maître de sagesse pratique.
+
+Il serait toutefois réducteur de raconter une évolution mécanique selon laquelle une simple notion abstraite serait devenue, à une date connue, une divinité indépendante. Les témoignages sont discontinus, leur transmission est inégale et les contextes locaux résistent à une histoire parfaitement linéaire. Cette enquête sépare donc cinq problèmes : que signifiait le mot ? Quels écrivains ont personnifié le temps opportun ? Quel culte est réellement attesté ? Quelles images antiques pouvons-nous identifier ? Quelles conceptions de la décision se construisent autour de cette figure ?
+
+L'enjeu philosophique tient en une question : **comment agir rationnellement lorsque la règle générale ne peut jamais déterminer entièrement le moment particulier où il convient d'agir ?**
+
+---
+
+## I. Dossier philologique : καιρός, χρόνος, ὥρα et ἀκμή
+
+### 1. Καιρός : un terme difficilement traduisible
+
+Le substantif masculin **καιρός** (*kairós*) reçoit selon le contexte les traductions « occasion », « moment opportun », « juste mesure », « point critique » ou « situation favorable ». L'existence de plusieurs traductions ne signifie pas que ces sens étaient interchangeables. Le mot peut désigner une détermination qualitative et spatiale, puis temporelle : ce qui touche le point sensible, ce qui atteint le but, ce qui convient à la circonstance.
+
+La philologie a longtemps discuté les relations entre les significations anciennes associées au point vulnérable, à la justesse du coup et au moment propice. Les explications étymologiques ne doivent pas être confondues avec les valeurs lexicales réellement attestées. La monographie de Monique Trédé-Boulmer reste indispensable pour suivre l'histoire de ce réseau sémantique sans le réduire à une formule unique.
+
+### 2. Χρόνος : la durée, non l'ennemi de Kairos
+
+**Χρόνος** (*chrónos*) désigne le temps ou la durée. L'opposition moderne entre un « temps chronologique » et un « temps qualitatif » peut aider l'analyse, mais elle ne fonctionne pas comme une antithèse rigide dans l'ensemble des textes grecs. Les deux termes ne sont pas systématiquement mis face à face par les auteurs antiques. Il serait incorrect de conclure que *chrónos* exclut toute valeur qualitative ou que *kairos* exclut la mesure.
+
+Il faut également distinguer le mot *chrónos* du Titan **Cronos** (Κρόνος), père de Zeus. Leur rapprochement théologique dans certains systèmes tardifs ne prouve pas que les deux noms soient originellement identiques.
+
+### 3. Ὥρα et ἀκμή
+
+**Ὥρα** (*hṓra*) renvoie à la saison, à la période et, selon les usages, au moment favorable. Les Heures divines possèdent une histoire religieuse spécifique, notamment chez Hésiode. Elles ne doivent pas être identifiées à Kairos sans témoignage.
+
+**Ἀκμή** (*akmḗ*) peut désigner la pointe, l'apogée ou le stade décisif. Dans la médecine et dans l'épigramme consacrée à Kairos, l'image du tranchant aide à penser la brièveté d'un moment qui exige une décision.
+
+### 4. Une distinction de méthode
+
+Le fait qu'un auteur utilise le mot *kairos* n'implique pas qu'il adresse une prière au dieu Kairos. Une occurrence en médecine, en stratégie ou en rhétorique est d'abord un emploi linguistique. Inversement, l'autel d'Olympie et l'hymne d'Ion montrent qu'une personnification explicitement divine a bien été connue.
+
+---
+
+## II. Hésiode : l'occasion à l'intérieur de l'art de vivre
+
+Dans *Les Travaux et les Jours*, vers 694, Hésiode lie la réussite pratique au respect des mesures et du moment opportun. La formule grecque traditionnellement citée affirme que le *kairos* est, dans l'ensemble des activités, une condition déterminante de l'excellence.
+
+Le contexte est celui d'une poésie didactique consacrée aux travaux, à la navigation, aux ressources et aux risques. L'homme avisé doit anticiper les saisons, mais il ne peut jamais garantir parfaitement le comportement du ciel et de la mer. L'opportunité ne relève pas ici d'une chance purement arbitraire : elle se découvre dans la relation entre les conditions extérieures, le savoir du travailleur et la possibilité d'agir.
+
+Il ne s'agit pas d'une généalogie divine. Hésiode ne dit pas dans ce passage que Kairos est le fils de Zeus. Il formule une maxime pratique. L'importance du texte tient précisément à cette antériorité ou, plus prudemment, à cette indépendance documentaire de la notion par rapport à la biographie de la divinité.
+
+La maxime serait mal comprise comme une injonction à toujours agir vite. Selon la situation, le bon moment consiste à différer. L'intelligence du *kairos* ne récompense pas l'impatience ; elle exige une appréciation des circonstances.
+
+---
+
+## III. Pindare et la mesure poétique : le bon moment d'une parole
+
+La poésie de Pindare, notamment les odes qui célèbrent les vainqueurs athlétiques, fait une place importante aux problèmes du discours approprié, de la mesure et du choix des circonstances. Le poète doit célébrer un succès sans se laisser entraîner vers l'excès ; il doit relier une victoire singulière à une mémoire mythologique plus vaste ; il doit savoir interrompre une digression lorsqu'elle menace de déséquilibrer l'ode.
+
+Il serait artificiel de transformer toute référence pindarique à l'à-propos en culte de Kairos. L'intérêt est ailleurs : le langage de l'occasion devient une réflexion sur la forme même du poème. La réussite d'un éloge tient à la valeur de ce qui est dit, mais aussi à son insertion judicieuse dans une situation cérémonielle.
+
+Cette dimension rejoint la vie des concours. La victoire n'est jamais une qualité abstraite ; elle dépend d'un affrontement à une date déterminée, d'un adversaire concret, d'un geste accompli au moment utile. La fête intervient ensuite pour convertir l'événement bref en renommée durable. Entre l'instant de la victoire et la durée du souvenir, la poésie opère une transformation fondamentale.
+
+Pour l'étude précise des emplois du terme chez Pindare, on privilégiera les concordances et l'édition critique plutôt que des citations isolées souvent détachées de leur strophe.
+
+---
+
+## IV. Sophocle : le moment favorable et le danger moral
+
+Dans le *Philoctète* de Sophocle, représenté en 409 av. J.-C., la capacité de saisir une occasion se trouve associée à une difficulté morale.
+
+Ulysse veut obtenir l'arc de Philoctète afin de permettre la victoire des Grecs à Troie. Néoptolème participe d'abord à une stratégie fondée sur la tromperie. Lorsque le blessé s'endort, la situation paraît offrir un avantage extraordinaire : agir immédiatement pourrait garantir le succès de l'entreprise. Le chœur souligne, autour des vers 837-838, la puissance d'une occasion qu'il ne faut pas laisser passer.
+
+Mais un autre problème surgit. Le moment favorable sur le plan stratégique peut être le moment déshonorant sur le plan moral. Une action efficace ne devient pas juste parce qu'elle est techniquement bien choisie.
+
+La pièce met ainsi en crise une interprétation uniquement instrumentale du *kairos*. Néoptolème doit comprendre que la promptitude et le calcul des circonstances ne constituent pas à eux seuls des critères suffisants du bien. L'arc doit-il être obtenu par n'importe quel moyen dès lors que l'occasion existe ?
+
+Cette tension est féconde pour l'histoire des idées : **le bon moment n'est pas nécessairement le moment où tout devient permis**. Le kairos peut déterminer la possibilité d'une action, non sa légitimité.
+
+---
+
+## V. La première généalogie attestée : Ion de Chios
+
+Le témoignage décisif est conservé par **Pausanias, *Description de la Grèce*, V, 14, 9**. L'auteur, qui écrit au IIe siècle de notre ère, affirme connaître un hymne d'**Ion de Chios**, écrivain du Ve siècle av. J.-C., consacré à Kairos. Selon Pausanias, cet hymne faisait de Kairos **le plus jeune des enfants de Zeus**.
+
+Ce renseignement mérite trois observations.
+
+Premièrement, il montre qu'une personnification divine de l'occasion était connue bien avant les descriptions littéraires de l'époque impériale.
+
+Deuxièmement, l'hymne est perdu comme œuvre continue. La relation de parenté donnée par Pausanias n'autorise pas à reconstruire ses strophes, ses rites, son mètre ou son iconographie. Il est utile de renvoyer à **Ion de Chios, fragment 742 dans *Poetae Melici Graeci* (édition D. L. Page)**, avec renvoi au témoignage de Pausanias.
+
+Troisièmement, l'absence du nom de la mère dans ce témoignage interdit toute attribution certaine à Héra, Métis, Tychè ou une autre puissance. Les généalogies diffusées sans source explicite devront être traitées comme des reconstructions modernes ou tardives à vérifier séparément.
+
+Le fait d'être « le plus jeune » de la descendance de Zeus peut évoquer une puissance toujours nouvelle ; cette interprétation est séduisante mais demeure hypothétique. Nous ne savons pas si Ion développait précisément ce symbolisme.
+
+---
+
+## VI. L'autel de Kairos à Olympie : le fait cultuel central
+
+Pausanias décrit les autels du sanctuaire d'Olympie selon un ordre qui suit son exposé des sacrifices, et non nécessairement leur disposition géométrique précise. À proximité de l'accès au stade, il mentionne deux autels, l'un consacré à **Hermès Enagônios**, l'Hermès des compétitions, l'autre à **Kairos** (*Description de la Grèce*, V, 14, 9).
+
+L'association topographique mérite attention. Le stade est un espace de compétition, où l'effort physique doit être ajusté à des contraintes mesurées et à des circonstances variables. L'athlète peut être vigoureux mais manquer l'instant décisif. Hermès possède des fonctions propres en relation avec les compétitions ; Kairos représente l'à-propos ou l'occasion. La proximité de leurs autels suggère une valorisation cultuelle de la réussite située, mais ne prouve pas l'existence d'un rituel commun dont nous connaîtrions le détail.
+
+L'autel est un témoignage **positif** d'un honneur religieux : il faut donc éviter d'écrire que Kairos n'aurait jamais été autre chose qu'une allégorie littéraire. Cependant, l'existence de cet autel ne suffit pas à affirmer qu'un grand sanctuaire autonome, une fête panhellénique particulière ou un sacerdoce spécialisé sont attestés.
+
+Nous ne possédons pas, sur cette seule base, un calendrier détaillé des sacrifices, une liste des prêtres, une inscription de fondation ni une description architecturale suffisamment précise pour restituer un monument déterminé dans une image photoréaliste présentée comme certaine.
+
+### Tableau de vérification
+
+| Proposition | État de la preuve |
+|---|---|
+| Un autel de Kairos existait à Olympie | Attesté littérairement par Pausanias V, 14, 9 |
+| Il se trouvait dans le secteur de l'entrée du stade | Attesté de manière générale par Pausanias |
+| Kairos recevait un culte organisé exactement comme Zeus Olympien | Non démontré |
+| Un hymne d'Ion lui attribuait Zeus pour père | Attesté indirectement par Pausanias |
+| L'architecture précise de son autel est identifiée | À ne pas affirmer sans preuve indépendante |
+| La statue de Lysippe se trouvait sur cet autel | Non attesté ; éviter la confusion entre Olympie et Sicyone |
+
+---
+
+## VII. Le sanctuaire olympique comme lieu d'une intelligence temporelle
+
+L'emplacement signalé par Pausanias permet une réflexion sur la religion de la compétition. Les Jeux d'Olympie réunissent des corps entraînés, des stratégies athlétiques et des cérémonies réglées. Le résultat d'une course ou d'un combat tient à une préparation longue, mais peut se jouer en quelques instants.
+
+Le succès n'est donc ni l'effet exclusif d'une fortune capricieuse ni le produit mécanique d'une technique infaillible. Le geste doit rencontrer une conjoncture : l'initiative du concurrent, la réaction adverse, la résistance physique, la décision arbitrale. La personnification de Kairos offre un vocabulaire religieux à ce caractère instable et décisif de l'événement.
+
+Ce rapprochement n'est pas la transcription d'un sermon antique prononcé devant l'autel. C'est une interprétation fondée sur le contexte topographique, sur le sens du mot et sur la logique des concours. L'archéologie ne peut fournir une photographie des intentions des anciens fidèles.
+
+Il serait également erroné de supposer que Kairos était vénéré uniquement par les athlètes : les témoignages littéraires donnent à la notion une extension beaucoup plus large.
+
+---
+
+## VIII. Lysippe de Sicyone : une statue qui rend visible l'irréversibilité
+
+Le sculpteur **Lysippe**, actif à la fin de l'époque classique, était associé dans la tradition antique à une image célèbre de Kairos. Le bronze original n'est pas conservé. Son souvenir dépend notamment de deux types de témoignages : une épigramme attribuée à Posidippe et des descriptions ou représentations postérieures.
+
+**Callistrate, *Descriptions*, 6**, évoque une statue de Kairos associée à Lysippe et à **Sicyone**. Son texte appartient à l'Antiquité tardive et emploie les procédés de l'ekphrasis, description littéraire qui prétend rendre une œuvre visible par les mots. Il ne faut donc pas prendre chaque détail comme une fiche technique établie par examen de l'original au IVe siècle av. J.-C.
+
+La statue était pensée comme un être capable de se déplacer rapidement. La vitesse, le point d'appui instable et la coiffure inhabituelle ne servent pas seulement à produire un effet décoratif : ils donnent une forme corporelle au problème du moment perdu.
+
+Une précaution s'impose : la présence de certains attributs sur des reliefs postérieurs ne permet pas d'affirmer qu'ils figuraient tous dans le bronze originel. L'histoire des copies et des réinterprétations est une histoire d'inventions aussi bien que de transmissions.
+
+---
+
+## IX. Posidippe, *Anthologie grecque* XVI, 275 : une leçon philosophique sous forme de dialogue
+
+L'épigramme **AP XVI, 275**, attribuée à **Posidippe de Pella**, constitue un document exceptionnel de l'histoire de l'art antique. Le poème adopte la forme d'un dialogue entre un passant et la statue. À chaque question sur un détail visible, la figure de Kairos répond en expliquant sa signification.
+
+L'identification du sculpteur ouvre le dialogue : il s'agit de Lysippe de Sicyone. La figure se présente ensuite comme Kairos, puissance capable de soumettre les événements au caractère fugitif de l'instant.
+
+Ses pieds se tiennent en mouvement et portent des ailes : l'occasion ne reste pas à disposition de ceux qui hésitent indéfiniment. Le rasoir manifeste une extrême acuité : la frontière temporelle entre agir et manquer est aussi fine qu'un tranchant. La longue mèche frontale peut être saisie par celui qui voit la figure arriver. En revanche, l'arrière du crâne est chauve : personne ne peut la retenir lorsqu'elle s'est éloignée.
+
+L'enseignement est frappant parce qu'il conjugue une action possible et une impossibilité. On peut anticiper, reconnaître et saisir. On ne peut pas annuler le passage du temps. Le savoir pratique n'est donc pas maîtrise absolue, mais réponse avisée dans une ouverture limitée.
+
+Le poème ne constitue pas un relevé archéologique sans médiation. L'attribution, la datation, la circulation de l'épigramme et son rapport exact à la statue ont fait l'objet d'études philologiques. Il faut citer son numéro **dans l'Anthologie de Planude**, aujourd'hui rangé dans le livre XVI de l'Anthologie grecque, plutôt que de supposer que le texte est gravé sur le bronze disparu.
+
+### Une œuvre qui s'adresse à son spectateur
+
+Le dialogue possède une fonction pédagogique. Il ne dit pas seulement ce que Kairos est ; il entraîne l'observateur à regarder, comprendre et décider. La statue devient une expérience de pensée. Son spectateur est placé dans une contradiction : il réfléchit à ce qui ne peut être saisi que par une attention prompte.
+
+Cette dynamique intéresse particulièrement la philosophie de l'image. Le bronze, matériau durable, représente précisément ce qui est fugitif. L'œuvre conserve le passage de ce qui ne se conserve pas.
+
+---
+
+## X. La tradition iconographique : entre copies, adaptations et identifications contestées
+
+Plusieurs reliefs antiques ont été rapprochés de la figure de Kairos. Il faut cependant renoncer à l'idée simpliste d'une chaîne de copies parfaitement identiques.
+
+### 1. Turin
+
+Un relief en marbre conservé au **Museo di Antichità de Turin** est souvent présenté comme une représentation romaine de Kairos inspirée de Lysippe. La figure masculine ailée, mobile, peut présenter une balance associée à un tranchant. Cependant, **Gianfranco Adornato**, dans une étude de 2015, conteste l'identification directe de ce relief comme copie du Kairos de Lysippe et propose une lecture en termes de personnification du Temps (**Chronos/Tempus**) issue d'une invention iconographique plus tardive.
+
+Cette interprétation ne supprime pas les parentés formelles avec le type de Kairos. Elle invite à distinguer le motif transmis, son adaptation et le nom exact de la figure représentée. Une notice de musée devrait donc comporter une mention explicite du débat.
+
+### 2. Trogir / Tragurium, sur la côte dalmate
+
+Un relief fragmentaire provenant de **Trogir**, en Croatie, montre une figure en mouvement souvent identifiée à Kairos. Le document est présenté dans la collection liée au monastère bénédictin Saint-Nicolas. Il constitue un témoignage important de la circulation méditerranéenne des types sculptés.
+
+Une difficulté supplémentaire concerne la provenance moderne et la datation exacte : la date d'une œuvre, le moment de son installation dans un bâtiment et le moment de sa redécouverte sont trois événements distincts. Les notices touristiques simplifient parfois ces étapes. Il convient de privilégier un inventaire ou une publication muséale pour établir définitivement ces éléments.
+
+### 3. Athènes et autres reliefs
+
+Les études iconographiques mentionnent également des fragments de reliefs d'époque postclassique ou romaine qui rappellent le type attribué à Lysippe. Leur existence ne démontre ni un culte identique dans chaque cité ni une succession de copies exécutées directement d'après le bronze original.
+
+### 4. Conclusion archéologique
+
+Le **bronze de Lysippe est perdu** ; les reliefs conservés sont des témoignages secondaires, parfois réinterprétés. Toute reconstitution 3D du Kairos originel doit annoncer clairement son degré d'hypothèse, distinguer les éléments décrits par les textes des attributs connus par les œuvres plus tardives, et ne jamais se présenter comme un relevé de l'original.
+
+---
+
+## XI. Un dieu sans grande épopée : particularité de la mythologie de Kairos
+
+Kairos ne possède pas, dans la documentation conservée, une vaste suite d'aventures comparables à celles d'Héraclès ou de Persée. Cette relative pauvreté narrative ne signifie pas une absence de signification religieuse. Les Grecs ont honoré des puissances dont la valeur dépendait d'une situation, d'une relation ou d'une disposition plutôt que d'un ensemble de récits héroïques.
+
+La généalogie transmise par Pausanias et la représentation plastique attribuée à Lysippe constituent les pôles d'un dossier cohérent mais modeste : Zeus donne une place divine à l'instant décisif ; l'image lui prête la forme d'un jeune homme rapide ; l'autel d'Olympie reçoit son nom.
+
+Il faut s'interdire de combler artificiellement les lacunes par l'invention de compagnes, de descendants, de guerres divines ou de mythes de fondation. La meilleure analyse universitaire ne cherche pas à donner à toutes les puissances le même volume de récits, mais à expliquer pourquoi des sources de nature différente leur confèrent une importance spécifique.
+
+---
+
+## XII. Hippocrate et la médecine : le moment où traiter
+
+Le recueil hippocratique ouvre les *Aphorismes*, I, 1, par une réflexion célèbre opposant la brièveté de la vie, l'étendue de l'art, la précarité de l'expérience et la difficulté du jugement. Le moment opportun y est qualifié d'aigu, rapide ou pressant. Le vocabulaire ne renvoie pas nécessairement au dieu Kairos : le médecin parle de sa pratique.
+
+La médecine ancienne est confrontée à une réalité singulière : le même traitement n'a pas les mêmes effets à tous les stades d'une affection. Certaines interventions doivent être entreprises sans tarder ; d'autres deviennent dangereuses si elles sont prématurées. La compétence médicale ne consiste pas simplement à posséder un catalogue de remèdes. Elle suppose l'interprétation d'une évolution.
+
+Le *kairos* médical ne doit pas être confondu avec la théorie hippocratique des « jours critiques » dans toute sa complexité. Ces ensembles doctrinaux peuvent se croiser, mais leurs catégories ne sont pas identiques.
+
+Philosophiquement, la médecine montre qu'une décision rationnelle peut être fondée sans être certaine. Un praticien recueille des indices, forme un jugement révisable et agit dans un intervalle que l'attente risque de fermer. **La vérité pratique dépend d'une connaissance du temps de l'action.**
+
+---
+
+## XIII. Rhétorique et sophistique : à qui, quand et comment parler ?
+
+L'efficacité d'un discours ne réside pas exclusivement dans la justesse formelle de son raisonnement. Il faut également considérer le destinataire, la situation politique, les affects de l'auditoire et les conventions du genre.
+
+La sophistique classique développe ce problème de l'à-propos. Les réflexions d'**Isocrate**, notamment dans *Contre les sophistes*, et les analyses de **Platon**, particulièrement dans le *Phèdre*, permettent de réfléchir à l'impossibilité de réduire l'éloquence à des règles mécaniques appliquées indistinctement.
+
+La maîtrise des circonstances comporte néanmoins un danger. Un orateur habile peut exploiter un moment favorable à la manipulation, faire naître une peur ou choisir l'instant où une accusation sera le moins susceptible d'être examinée de façon critique.
+
+Le *kairos* décrit donc un critère d'efficacité, non une garantie de véracité. C'est pourquoi il doit être confronté à la justice, à l'examen des preuves et au respect du public. Un discours prononcé au meilleur moment peut être mensonger ; une intervention maladroite peut être moralement courageuse.
+
+La question des conditions temporelles d'une parole responsable demeure ainsi au cœur de l'histoire grecque de la rhétorique.
+
+---
+
+## XIV. Guerre et décision : l'occasion ne se commande pas
+
+Dans l'histoire militaire grecque, l'opportunité correspond au moment où une action devient possible parce que le rapport des forces, les positions ou les attentes de l'adversaire ont changé. Thucydide offre de nombreux exemples de décisions prises sous la pression des circonstances ; le livre IV, autour du dossier de Pylos et de Sphactérie, permet de saisir la relation entre hésitation, initiative et risque.
+
+Il faut néanmoins éviter de transformer les événements racontés par Thucydide en interventions directes de Kairos comme dieu personnel. L'historien étudie des conduites humaines, des calculs et des erreurs. Employer le mot *kairos* ne signifie pas nécessairement qu'il adopte une explication théologique.
+
+L'intérêt est conceptuel. Dans la guerre, le chef compétent doit savoir attendre sans immobilisme et décider sans précipitation. L'occasion favorable peut être créée par la préparation, mais elle dépend aussi d'événements que personne ne contrôle entièrement.
+
+Le *kairos* met donc à l'épreuve la prétention du pouvoir à la prévision totale. Celui qui commande n'est jamais seul maître des circonstances, pas plus que l'athlète n'est seul maître du combat.
+
+---
+
+## XV. Platon, *Lois* IV, 709a-b : dieu, fortune, occasion et art
+
+Le passage des *Lois*, IV, 709a-b, est central pour la philosophie du temps opportun. L'Étranger athénien observe que les événements qui bouleversent les cités — guerres, pauvreté, épidémies, mauvaises saisons — semblent souvent plus déterminants que la volonté des législateurs.
+
+Il avance alors une formule où le divin, la fortune et l'occasion interviennent dans les affaires humaines, sans exclure le concours de la **technè**, l'art ou le savoir-faire. L'argument évite deux simplifications opposées.
+
+La première attribuerait toutes les réussites à la volonté souveraine de l'homme. Elle sous-estimerait la contingence des conditions historiques.
+
+La seconde réduirait tout au hasard. Elle ôterait au savoir-faire la place qui lui revient.
+
+Cette articulation de la fortune, de l'occasion et de l'art peut être rapprochée de la personnification cultuelle de Kairos, mais il ne faut pas réduire le dialogue de Platon à une description de la théologie d'Olympie. Le texte philosophique est préoccupé par la possibilité d'établir de bonnes institutions dans un monde instable.
+
+Le législateur ne choisit pas entièrement son époque. En revanche, il peut reconnaître une configuration rare dans laquelle des forces politiques et un savoir compétent deviennent susceptibles de se rencontrer.
+
+---
+
+## XVI. Aristote : la science du bon moment ne peut pas être une règle unique
+
+Dans l'*Éthique à Nicomaque*, I, 6, **1096a29-34**, Aristote utilise précisément le *kairos* pour soutenir que les biens ne relèvent pas tous d'une science unique. Le moment opportun relève de la stratégie dans la guerre, de la médecine dans la maladie. De même, le juste dosage dépend des pratiques et des objectifs considérés.
+
+Ce passage est décisif. Il ne définit pas un dieu, mais une structure de la connaissance pratique : le bon moment n'existe pas en dehors du domaine où une action peut être entreprise. On ne décide pas au moyen d'une horloge morale universelle, identique pour la chirurgie et pour la bataille.
+
+L'ouvrage II, 2, **1104a5-10**, souligne également la difficulté de prescrire de façon générale ce qu'il convient de faire dans des circonstances singulières. Cette réflexion converge avec l'analyse de la **phronèsis**, prudence ou intelligence pratique, développée au livre VI.
+
+La prudence ne se réduit ni à l'expérience brute ni à un raisonnement abstrait. Elle implique une appréciation des particuliers, de la fin poursuivie et des conditions concrètes. Le *kairos* offre une expression particulièrement nette du problème.
+
+### Le paradoxe de l'action juste
+
+Si les circonstances sont toujours singulières, comment une éthique peut-elle exiger une conduite cohérente ? Une solution aristotélicienne consiste à refuser l'opposition entre règle et situation : la vertu dispose à percevoir correctement ce qui importe ici et maintenant, tandis que le raisonnement délibératif détermine les moyens adaptés.
+
+Le bon moment n'est donc pas seulement « saisir sa chance ». Il est l'aboutissement d'une formation du jugement et d'une discipline des désirs. Celui qui désire trop vivement un résultat peut prendre son impatience pour un signe providentiel.
+
+---
+
+## XVII. Kairos, Tychè et Moira : trois expériences non équivalentes
+
+Il convient de distinguer trois notions fréquemment rapprochées.
+
+**Kairos** concerne la configuration où une action devient appropriée ou décisive. La notion implique une relation entre temps, jugement et possibilité.
+
+**Tychè** peut désigner la fortune, ce qui arrive sans relever entièrement d'une intention humaine, et connaît elle aussi une importante personnification religieuse.
+
+**Moira** renvoie notamment à la part attribuée, au lot, au destin et aux puissances qui en gouvernent les limites selon diverses traditions.
+
+Ces domaines peuvent se recouvrir, mais aucune des trois figures n'est simplement la traduction des deux autres. Une occasion peut surgir dans des circonstances favorables dues à la fortune ; une décision pourtant opportune peut échouer ; le destin d'un héros peut inclure un moment décisif qu'il ne sait pas reconnaître.
+
+Le rapprochement avec Tychè doit être fait sans reproduire la précédente étude encyclopédique : il s'agit ici d'expliquer la spécificité du **jugement temporel**, non de reprendre la théologie des cités hellénistiques et de leur Fortune tutélaire.
+
+---
+
+## XVIII. Réception romaine : Occasio, Tempus et la fragilité de l'équivalence
+
+Dans la poésie et la pensée latines, des figures telles qu'**Occasio** et **Tempus** reprennent certains traits du temps favorable et insaisissable. La **fable de Phèdre**, V, 8, décrit une image de l'occasion qui court rapidement, dont les cheveux sont disposés pour être saisis par devant et qui ne peut être retenue après son passage.
+
+Les variations de langue et de sexe grammatical ont une importance. Le latin *occasio* est féminin, tandis que le grec *kairos* est masculin. Les iconographies latines, tardo-antiques et médiévales peuvent remodeler profondément le type artistique.
+
+Il est donc préférable de parler de réception, de traduction et de transformations plutôt que d'annoncer une identité théologique simple. Un relief interprété comme *Tempus* ne devient pas automatiquement un document sur le culte grec de Kairos.
+
+L'histoire postérieure de la figure rend visible le risque de confusion : à force de représenter l'occasion par des signes d'accélération et de fuite, les artistes peuvent lui attribuer des propriétés du Temps en général. L'étude iconographique doit alors tenter de distinguer un motif antique commun de l'identification particulière de chaque œuvre.
+
+---
+
+## XIX. Archéologie du temps opportun : ce que les objets ne peuvent pas prouver
+
+L'archéologie apporte trois types de connaissances.
+
+Premièrement, l'existence de lieux de culte et de parcours rituels. À Olympie, les recherches topographiques permettent de comprendre l'organisation générale de l'Altis et des voies d'accès au stade. Elles ne garantissent pas l'identification de chaque autel décrit par Pausanias.
+
+Deuxièmement, les vestiges sculptés permettent d'étudier les postures, les attributs et les usages d'images associées à Kairos. Ils ne suffisent pas, sans inscription ou contexte, à attribuer automatiquement une figure ailée à ce dieu.
+
+Troisièmement, les collections muséales permettent de reconstruire l'histoire moderne de la réception : découvertes, restaurations, déplacements et interprétations successives.
+
+La principale erreur serait de convertir une hypothèse esthétique en fait archéologique. L'analyse scientifique doit préciser, pour chaque représentation, quatre éléments distincts : l'objet matériel conservé, sa datation proposée, son attribution iconographique et le degré de certitude de sa relation à une œuvre perdue.
+
+---
+
+## XX. Comparaisons prudentes : Égypte, Mésopotamie, Iran et Inde
+
+Toutes les civilisations historiques ont rencontré le problème de l'occasion : quand naviguer, récolter, prononcer une sentence ou entreprendre un rite ? Cette analogie fonctionnelle est un point de départ pour la comparaison, non la preuve d'une divinité commune.
+
+### Égypte ancienne
+
+Les calendriers, les fêtes religieuses, les jours favorables et défavorables, ainsi que les rythmes rituels montrent l'importance d'un temps qualifié. On peut rapprocher cette attention de la problématique grecque du moment propice. En revanche, aucune équation générale « Kairos = tel dieu égyptien » n'est fondée par cette seule ressemblance. Les notions de *nḥḥ* et *ḏt* concernent notamment des conceptions de la durée et de la permanence, et ne sont pas des traductions directes de *kairos*.
+
+### Mésopotamie
+
+L'astrologie savante, les séries divinatoires et les calendriers rituels fournissent des exemples de décisions soumises à l'interprétation du temps. Il faudrait néanmoins étudier précisément les textes et leurs contextes institutionnels avant de prétendre démontrer une transmission d'une figure comparable à Kairos.
+
+### Iran ancien
+
+Les élaborations relatives au temps et au destin, notamment dans les traditions de Zurvan, constituent un autre champ de comparaison. La proximité thématique ne doit pas masquer les différences de chronologie, de théologie et de statut des textes.
+
+### Inde ancienne
+
+La richesse sémantique de termes tels que *kāla* invite à confronter durée, moment, échéance et puissance cosmique. Mais une traduction unique par « temps » détruirait les nuances de chaque tradition. Il n'existe pas, sur cette seule base, de filiation démontrée entre Kairos et les conceptions indiennes.
+
+### Conclusion comparatiste
+
+Les rapprochements les plus solides concernent **les opérations humaines de prévision et de décision**. Les rapprochements religieux spécifiques exigeraient des attestations de contacts, des formes linguistiques transmissibles et une histoire documentée des emprunts.
+
+---
+
+## XXI. Lecture philosophique : Hegel, contingence et historicité
+
+La pensée de **Hegel** accorde une place à l'articulation de l'action individuelle et des conditions historiques. Une décision politique ne possède pas de sens indépendamment des institutions, des conflits et des possibilités de son époque. Cette perspective permet d'interroger le *kairos* comme rencontre d'une volonté et d'un monde déterminé.
+
+Cependant, il serait abusif de prétendre que Hegel a commenté directement la statue de Lysippe dans les passages mobilisés ici, ou qu'il reprend la doctrine religieuse de Kairos. Le rapprochement est conceptuel : l'individu ne fait pas de l'histoire à partir du néant ; il rencontre des conditions qui ne dépendent pas de lui.
+
+L'occasion peut devenir une fenêtre de transformation lorsque des structures auparavant stables se révèlent modifiables. L'erreur possible est double : croire que toute crise inaugure nécessairement un ordre meilleur, ou manquer une transformation accessible en la jugeant impossible.
+
+Une philosophie attentive au caractère historique des institutions peut ainsi éviter de concevoir l'occasion comme une simple récompense accordée aux plus rapides.
+
+---
+
+## XXII. Nietzsche : l'intempestif et la critique de l'opportunisme
+
+Chez **Nietzsche**, la question du moment ne se laisse pas ramener à la recherche de l'avantage immédiat. Les *Considérations inactuelles* (ou *intempestives*) interrogent précisément la capacité d'une pensée à agir **contre** certaines évidences de son époque.
+
+Cette tension produit un dialogue fécond avec Kairos. Si le moment opportun est seulement celui où l'opinion se montre favorable, alors saisir l'occasion risque de devenir une stratégie conformiste. Mais si l'on considère le *kairos* comme le moment approprié à une action créatrice, il peut exiger d'affronter la résistance du présent.
+
+Il serait faux de transformer la figure grecque en anticipation de la philosophie nietzschéenne. L'intérêt réside dans la possibilité de poser une question plus exigeante : faut-il attendre le moment favorable ou travailler à rendre possible une situation qui ne l'est pas encore ?
+
+Le jugement pratique peut consister à discerner une ouverture déjà présente ; il peut aussi consister à refuser l'illusion selon laquelle le « bon moment » arrive toujours de lui-même.
+
+---
+
+## XXIII. Une critique de l'éloge de la rapidité
+
+L'iconographie de Kairos semble favoriser la vitesse : ailes, course, rasoir, mèche à saisir. Mais l'enseignement complet ne se réduit pas à « agir avant de réfléchir ».
+
+Le moment favorable résulte parfois d'une longue préparation. Le médecin doit connaître l'évolution de l'affection ; le stratège doit observer l'adversaire ; l'artiste doit maîtriser des techniques ; l'orateur doit comprendre son public. La rapidité ne devient vertueuse qu'après l'acquisition d'un jugement suffisamment instruit.
+
+Une deuxième limite tient à l'inégalité des possibilités. Tous les individus ne disposent pas des mêmes ressources pour saisir une occasion. La métaphore du cheveu à attraper peut masquer les conditions sociales, matérielles et politiques qui rendent l'action possible ou impossible.
+
+Enfin, certaines occasions sont moralement mauvaises : elles facilitent une injustice ou un acte de violence. Il faut donc distinguer la possibilité, l'efficacité et la justification.
+
+**Kairos est une grande figure de la prudence lorsqu'il rappelle qu'aucune décision n'existe hors du temps ; il devient une figure trompeuse lorsqu'il est réduit à la célébration de l'avantage immédiat.**
+
+---
+
+## XXIV. Synthèse comparative des sources
+
+| Source | Datation / transmission | Nature du témoignage | Ce qu'il établit | Ce qu'il n'établit pas |
+|---|---|---|---|---|
+| Hésiode, *Travaux*, 694 | Poésie archaïque | Maxime de conduite | Valeur de l'à-propos | Filiation du dieu |
+| Ion de Chios, hymne perdu, via Pausanias V, 14, 9 | Poète du Ve s. av. J.-C., témoignage du IIe s. apr. J.-C. | Généalogie indirecte | Kairos dit fils de Zeus | Texte intégral de l'hymne |
+| Sophocle, *Philoctète*, env. 837-838 | 409 av. J.-C. | Contexte tragique de décision | Valeur et ambiguïté du moment | Culte de Kairos dans la pièce |
+| Platon, *Lois*, IV, 709a-b | IVe s. av. J.-C. | Philosophie politique | Occasion articulée à Fortune et Art | Rituel olympique |
+| Aristote, *Éthique*, 1096a29-34 | IVe s. av. J.-C. | Analyse des savoirs | Kairos spécifique aux pratiques | Biographie d'une divinité |
+| Lysippe, œuvre perdue | IVe s. av. J.-C., attestations ultérieures | Sculpture rapportée par des sources | Tradition d'une image remarquable | Aspect matériel complet de l'original |
+| Posidippe, *Anthologie grecque* XVI, 275 | Épigramme hellénistique transmise plus tard | Ekphrasis dialoguée | Symbolisme de la fuite de l'occasion | Photographie fidèle du bronze |
+| Pausanias V, 14, 9 | IIe s. apr. J.-C. | Description de sanctuaire | Autel de Kairos à Olympie | Architecture précise et rites complets |
+| Callistrate, *Descriptions*, 6 | Antiquité tardive | Ekphrasis | Réception de la statue de Lysippe | Présence de l'auteur lors de la création |
+| Phèdre, *Fables*, V, 8 | Époque impériale romaine | Adaptation allégorique | Diffusion latine du motif | Identité sans variation avec Kairos grec |
+| Reliefs de Turin et Trogir | Documents antiques, datations discutées selon les œuvres | Archéologie/iconographie | Réception plastique du type | Copie certaine de chaque détail du modèle |
+
+---
+
+## XXV. Bibliographie critique
+
+### Sources primaires
+
+1. **Hésiode**, *Les Travaux et les Jours*, v. 694 : la mesure et le moment opportun.
+2. **Sophocle**, *Philoctète*, v. 827-864 et spécialement 837-838 : la situation favorable et le choix moral.
+3. **Pausanias**, *Description de la Grèce*, V, 14, 9 : autel de Kairos à Olympie et hymne perdu d'Ion de Chios.
+4. **Ion de Chios**, fr. **PMG 742** (éd. D. L. Page) : hymne perdu, connu par le témoignage de Pausanias.
+5. **Platon**, *Lois*, IV, 709a-b : divin, fortune, occasion et art.
+6. **Platon**, *Phèdre*, particulièrement 271d-272b : connaissance de l'âme et adaptation de la parole.
+7. **Aristote**, *Éthique à Nicomaque*, I, 6, 1096a29-34 ; II, 2, 1104a5-10 ; VI : occasion et prudence.
+8. **Pseudo-Hippocrate / corpus hippocratique**, *Aphorismes*, I, 1 : brièveté de la vie et caractère pressant du moment clinique.
+9. **Isocrate**, *Contre les sophistes* : limites d'une conception mécanique de la formation oratoire.
+10. **Thucydide**, *Histoire de la guerre du Péloponnèse*, IV, 27 : urgence de l'action et risque de laisser passer une conjoncture.
+11. **Posidippe**, *Anthologie grecque*, XVI, 275 (Anthologie de Planude) : statue du Kairos de Lysippe.
+12. **Callistrate**, *Descriptions*, 6 : ekphrasis du Kairos attribué à Lysippe.
+13. **Phèdre**, *Fables*, V, 8 : représentation latine de l'occasion fugitive.
+
+### Bibliographie scientifique moderne
+
+1. **Monique Trédé-Boulmer**, *Kairos. L'à-propos et l'occasion. Le mot et la notion, d'Homère à la fin du IVe siècle avant J.-C.*, Paris, Les Belles Lettres, éd. revue, 2015 (première édition 1992). Étude fondamentale pour la sémantique et l'histoire de la notion.
+2. **Francisca Pordomingo**, « L'épigramme de Posidippe sur la statue de Kairos, AP XVI (Plan.) 275 : Image, texte, réalité », *Philologus*, 156/1, 2012, p. 17-33.
+3. **Gianfranco Adornato**, « Lysippus without the Kairos: A Greek Masterpiece between Art and Literature », 2015. Discussion critique de l'identification du relief de Turin.
+4. **Évelyne Prioux**, notice et commentaire de l'épigramme AP XVI, 275 dans la base **Callythea (CNRS)** : https://telma.irht.cnrs.fr/outils/callythea/extrait237/.
+5. **Jean-Pierre Vernant et Marcel Detienne**, *Les Ruses de l'intelligence. La mètis des Grecs*, Paris, Flammarion, 1974. Pour l'intelligence pratique et l'action ajustée.
+6. **Walter Burkert**, *Greek Religion*, Cambridge, Massachusetts, Harvard University Press, 1985. Pour les principes d'histoire des cultes grecs.
+7. **Robert Parker**, *On Greek Religion*, Ithaca, Cornell University Press, 2011. Pour la méthode et les distinctions entre religion vécue, récit et représentation.
+8. **Andrew Stewart**, *Greek Sculpture: An Exploration*, New Haven, Yale University Press, 1990. Pour le contexte de la sculpture grecque classique et hellénistique.
+9. **Francisca Pordomingo** et **Gianfranco Adornato** devront être confrontés aux notices d'inventaire actualisées des reliefs de Turin et de Trogir avant de fixer une légende iconographique définitive.
+10. **Monique Trédé-Boulmer** doit être privilégiée contre les reconstructions étymologiques rapides qui réduisent la notion à une simple opposition de « deux sortes de temps ».
+
+### Dossiers numériques et corpus contrôlables
+
+- Pausanias, V, 14, 9, texte grec et traduction : https://reader.humanitext.ai/en/read/urn%3Acts%3AgreekLit%3Atlg0525.tlg001.humanitext-grc2%3A5.14.6-5.14.10
+- Épigramme XVI, 275, texte grec : https://anthologiagraeca.org/passages/urn%3Acts%3AgreekLit%3Atlg7000.tlg001.ag%3A16.275/
+- Commentaire critique et traduction française, projet Callythea : https://telma.irht.cnrs.fr/outils/callythea/extrait237/
+- Résumé scientifique de Gianfranco Adornato : https://ricerca.sns.it/handle/11384/60363
+- Livre de Monique Trédé-Boulmer, notice de l'éditeur : https://www.decitre.fr/livres/kairos-9782251326856.html
+- *Lois*, IV, 709a-b : https://bookstacks.org/en/authors/plato/laws/book-4/section-709
+
+**Précaution bibliographique.** Les références secondaires indiquent un parcours scientifique, non un consensus total. Les attributions iconographiques contestées sont explicitement signalées ; les renvois aux originaux doivent être contrôlés avant toute citation littérale.
+
+---
+
+## XXVI. Programme iconographique pour MYTHOS
+
+Les images ci-dessous sont des **propositions documentaires**, non des visuels déjà publiés dans le site. Le choix final dépend de l'identification des objets et des droits de reproduction. Ne pas employer d'anciennes reconstitutions vectorielles 2,5D.
+
+**1. Relief de Trogir** — photographie conservant les parties manquantes et une échelle visuelle, accompagnée d'une notice sur la provenance, la collection du monastère Saint-Nicolas et la datation discutée. Le document doit être présenté comme relief attribué à Kairos, non comme le bronze de Lysippe retrouvé. Référence d'orientation : office de tourisme de Trogir, https://www.visittrogir.hr/en/tourist/blogs/legend-of-kairos.
+
+**2. Relief de Turin** — photographie d'inventaire du Museo di Antichità, avec attribution « Kairos / personnification du Temps : débat ouvert ». Comparer le commentaire traditionnel et la thèse de Gianfranco Adornato. Un dossier iconographique ne doit pas masquer ce désaccord savant.
+
+**3. Plan archéologique d'Olympie** — carte du sanctuaire et de l'accès au stade. Indiquer « secteur de l'autel d'après Pausanias », sans inventer une localisation au mètre près. Utiliser de préférence les plans produits par les institutions archéologiques.
+
+**4. Carte de Sicyone** — situer la cité de Lysippe dans le Péloponnèse, et la distinguer d'Olympie. Ajouter un encadré expliquant pourquoi l'attribution d'une œuvre à un sculpteur de Sicyone ne prouve pas que cette œuvre fut exposée dans le sanctuaire olympique.
+
+**5. Planche comparée des attributs** — mèche frontale, arrière du crâne dégarni, ailes aux pieds, rasoir, balance. Chaque attribut doit être accompagné de sa source : épigramme, Callistrate, relief conservé. Ne pas harmoniser artificiellement des descriptions discordantes.
+
+**6. Fac-similé de la tradition manuscrite** — reproduction contrôlée d'une page de l'Anthologie de Planude ou d'une édition ancienne d'AP XVI, 275, avec transcription diplomatique et traduction moderne indépendante.
+
+**7. Sculpture grecque et philosophie de l'art** — photographie d'une œuvre de Lysippe ou d'un type lysippéen authentifié, accompagnée d'une comparaison méthodologique : attribution stylistique n'est pas identification du Kairos disparu.
+
+**8. Infographie philologique** — trois colonnes pour *kairos*, *chronos* et *tyche*, avec occurrences antiques précises ; cette planche doit être conçue comme un instrument pédagogique fondé sur les textes, non comme une scène mythologique inventée.
+
+**9. Schéma des domaines de décision** — médecine, stratégie, athlétisme, éloquence, législation. Au centre, placer l'appréciation des circonstances. Signaler clairement qu'il s'agit d'une synthèse analytique moderne.
+
+**10. Reconstitution photoréaliste hypothétique** — uniquement si une restitution visuelle est souhaitée : statue de bronze ailée à Sicyone, d'après les éléments littéraires disponibles, avec cartouche permanent « Reconstitution hypothétique ; original perdu ; attributs soumis à discussion ». Ne pas intégrer de menu ou d'interface du site dans l'image elle-même.
+
+---
+
+## XXVII. Conclusion générale — L'occasion est une relation, non un cadeau garanti
+
+Kairos désigne l'instant où une possibilité et une capacité d'action se rencontrent. Sa puissance religieuse ne réside pas dans l'existence d'un grand cycle d'aventures, mais dans la capacité d'une expérience ordinaire à recevoir un langage divin.
+
+Le témoignage d'Olympie confirme l'existence d'un autel. L'hymne perdu d'Ion permet de reconnaître une généalogie divine. La tradition de Lysippe donne à l'occasion une figure qui passe et ne revient pas. Les philosophes, les médecins et les orateurs élaborent une interrogation commune : comment appliquer un savoir général lorsque la situation singulière exige une décision immédiate ?
+
+Trois conclusions doivent être maintenues.
+
+Le **kairos n'est pas la chance pure** : une occasion peut demander de l'expérience, de la préparation et de la lucidité.
+
+Le **kairos n'est pas le temps en général** : il désigne une qualité de la situation, non seulement une quantité de durée.
+
+Le **kairos n'est pas une justification morale automatique** : une opportunité peut être employée pour le bien ou pour le mal. La rapidité de l'acte ne remplace pas le jugement sur ses fins.
+
+La statue qui échappe à celui qui hésite ne demande pas d'agir sans penser. Elle rappelle que la pensée pratique ne peut se déployer dans un temps illimité. L'intelligence humaine consiste parfois à reconnaître que, dans une circonstance déterminée, ne pas décider est déjà une décision.
+
+**Ainsi, la divinisation de Kairos montre que les Grecs ont reconnu dans la rencontre du temps et de l'action une puissance assez décisive pour recevoir des honneurs religieux, et assez insaisissable pour demeurer un problème philosophique.**
+
+*Fin de l'étude universitaire intégrale. Aucun numéro futur n'est annoncé. Les corrections ultérieures porteront sur le fichier canonique une fois attribué, sans renumérotation.*

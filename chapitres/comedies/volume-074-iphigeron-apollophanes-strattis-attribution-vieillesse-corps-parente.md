@@ -1,0 +1,331 @@
+# MYTHOS — Encyclopédie universitaire des comédies grecques — Volume LXXIV (74)
+
+## *Iphigérôn* (Ἰφιγέρων) — Apollophanès ou Strattis : identité incertaine, vieillesse, violence, langage de la parenté
+
+**Monographie universitaire originale, 4 novembre 2026.** Théâtre comique attique fragmentaire ; philologie de l'attribution, histoire des techniques corporelles, langage de la parenté, dramaturgie comparée et philosophie. **Ce dossier traite comme UNE seule entrée éditoriale le titre partagé par Apollophanès et Strattis** : on ne postule pas deux œuvres distinctes pour fabriquer deux volumes.
+
+**Protocole de preuve.** **[A]** = texte, fragment, témoignage et fait documentaire effectivement attribué à sa source ; **[B]** = conjecture, interprétation, hypothèse d'intrigue ou comparaison philosophique ; **[C]** = scène entièrement contemporaine, ni fragment, ni traduction, ni restitution d'une œuvre antique. La concurrence des attributions est le problème central de la notice, et non une gêne à masquer.
+
+**Corpus de base vérifié.** Christian Orth, *Fragmenta Comica*, vol. 9.1, *Alkaios – Apollophanes*, Heidelberg, 2013, p. 364–372 : [titre et formation](https://digi.hadw-bw.de/view/frc9_1/0365), [hypothèses d'interprétation](https://digi.hadw-bw.de/view/frc9_1/0366), [conflit de transmission](https://digi.hadw-bw.de/view/frc9_1/0367), [fr. 3](https://digi.hadw-bw.de/view/frc9_1/0368), [exégèse](https://digi.hadw-bw.de/view/frc9_1/0369), [instrument et fr. 4](https://digi.hadw-bw.de/view/frc9_1/0371), [attributions divergentes](https://digi.hadw-bw.de/view/frc9_1/0372), [comparaison avec Isocrate](https://digi.hadw-bw.de/view/frc9_1/0373). DOI de l'édition : [10.11588/diglit.47765](https://doi.org/10.11588/diglit.47765). La pagination et les formulations grecques ci-dessous sont soumises aux réserves d'un accès numérique aux éditions ; aucune collation autonome des manuscrits n'est revendiquée.
+
+**Navigation documentaire.** [Théâtre grec](/theatre/) · [Catalogue intégral](/catalogue-integral/) · [Amipsias, *Konnos*, dossier critique](/chapitres/comedies/volume-069-ameipsias-konnos-socrate-penseurs-musique-verite/) · [Aristophane, *Gêrytadês*](/chapitres/comedies/volume-020-aristophane-gerytades/). La monographie *Dalis* d'Apollophanès a fait l'objet d'une demande indépendante de publication dans la file éditoriale : [manuscrit de recherche](https://github.com/Bobcribb/Bobcribb.github.io/blob/main/editorial/inbox/74c3b6d2-8e51-4a7f-b930-2d1e6c5f9a84.json). Ce lien ne préjuge pas de son numéro définitif.
+
+---
+
+## I. [A] Ce qu'il reste effectivement
+
+La pièce n'est transmise ni sous la forme d'un texte continu ni à travers un argument d'époque. Nous disposons d'un **titre**, de **deux fragments désignés comme fr. 3 et fr. 4 K.-A. dans le dossier d'Apollophanès**, et de mentions savantes tardives dont l'attribution n'est pas cohérente. La numérotation des fragments est une convention d'édition : « fragment 3 » ne signifie ni troisième scène, ni troisième réplique, ni troisième fragment découvert.
+
+Le fragment 3, transmis par une scholie à Aristophane, *Paix* 542c, porte sur un **kyathos** et des **coups ayant causé des tuméfactions**. Le fragment 4, transmis par Harpocration et l'*Antiatticiste*, ne conserve en pratique que le verbe **ἀδελφίζειν**, « appeler quelqu'un frère », ou « agir à son égard en frère » selon le lexicographe. Le fait même que les recueils enregistrent des **lemmes** plutôt qu'une scène exige que la synthèse renonce à reproduire une intrigue perdue.
+
+## II. [A] La Souda, le papyrus et les listes de titres
+
+La *Souda* enregistre *Iphigérôn* sous le nom d'Apollophanès, poète athénien d'ancienne comédie, mais aussi sous celui de Strattis. La liste papyrologique P.Oxy. 2659, fr. 1, col. i, ne donne pas ce titre dans l'extrait consacré à Apollophanès ; elle est cependant incomplète pour d'autres auteurs. **Une absence sur un document incomplet n'est pas une preuve d'inexistence.**
+
+L'enjeu est la différence entre un titre *attribué* dans une encyclopédie, une pièce *jouée* attestée par les didascalies de concours et un *texte* encore accessible aux érudits. Les trois types de preuve ne se substituent pas les uns aux autres. La documentation pourrait refléter une seule pièce portant deux signatures différentes, ou deux créations anciennes dont une seule était devenue lisible plus tard. **Aucune de ces possibilités n'est prouvée.**
+
+## III. [A] Scholies à la *Paix* : un nom d'auteur unique
+
+La scholie à Aristophane, *Paix* 542c, associe explicitement le passage du kyathos à **Apollophanès dans *Iphigérôn***. Il s'agit d'une attribution nette **dans ce témoin particulier**, non d'une décision définitive sur l'auteur de tous les fragments. Le scoliaste explique l'usage d'un objet métallique pour traiter des ecchymoses. Il sélectionne un mot rare ou une technique reconnue, non le sens du titre ni les motivations dramatiques du personnage.
+
+À l'inverse, la tradition du fragment 4 n'est pas univoque. Cette asymétrie des témoins interdit de dire simplement que les deux fragments sont « d'Apollophanès » sans signaler les réserves éditoriales.
+
+## IV. [A] Harpocration : une conjonction disputée
+
+Harpocration, sous le lemme ἀδελφίζειν (p. 9, 9–11 Dindorf ; α 27 Keaney), cite l'*Aiginêtikos* d'Isocrate, Hécatée et la comédie *Iphigérôn*. La tradition manuscrite paraît associer **Strattis et Apollophanès** au titre. Une correction philologique discutée par Orth propose de lire une alternative : « Strattis **ou** Apollophanès » plutôt que « Strattis **et** Apollophanès ». La correction est un **choix textuel motivé**, non une découverte de deux autographes.
+
+L'*Antiatticiste* cite plus brièvement **Strattis** pour le même lemme. Le schéma le plus parcimonieux consiste à reconnaître **une hésitation ancienne d'attribution**. Il demeure impossible de savoir si la confusion s'est formée dans les copies, dans une tradition scolaire, lors d'une révision scénique ou dans des catalogues de bibliothèques.
+
+## V. [B] Trois scénarios de transmission à éprouver
+
+**Premier scénario :** deux pièces homonymes, l'une d'Apollophanès et l'autre de Strattis ; une seule aurait survécu assez longtemps pour être citée. Il faudrait admettre une rare coïncidence de titre, ou une reprise, ou une *diaskeuê*, c'est-à-dire une réélaboration. Les témoignages ne l'excluent pas mais ne l'établissent pas.
+
+**Deuxième scénario :** une copie de texte aurait perdu son auteur, alors que des indications de représentation l'attribuaient à un poète ; l'érudition aurait combattu entre mentions discordantes. Il faudrait retrouver un témoignage didascalique décisif pour progresser.
+
+**Troisième scénario :** deux traditions de manuscrits donnaient chacune un nom, avec éventuellement transfert de prestige vers un auteur jugé plus connu. Rien ne prouve que le commerce de livres ait suscité ici une attribution délibérément opportuniste.
+
+Orth discute précisément ces possibilités sans faire d'une d'elles le récit assuré. **Décision MYTHOS : un seul dossier savant, double attribution visible, zéro second volume autonome sous le nom de Strattis.**
+
+## VI. [A] Un titre qui résiste à la traduction
+
+Ἰφιγέρων (*Iphigérôn*) possède les apparences d'un nom propre **formé pour la comédie**. L'élément initial **Ἰφι-** renvoie à la force dans la tradition de noms composés, et **γέρων** signifie « vieillard ». On pourrait rendre le jeu par « Vieillard-vigoureux », « Le Fort-Vieux », ou « Iphigéron » sans traduction. Mais aucune traduction ne peut garantir l'intention première du poète.
+
+Le nom se décline sur le type **Ἰφιγέρων / Ἰφιγέροντος** ; l'élément initial ne fonctionne pas nécessairement comme un adjectif d'usage ordinaire dans l'attique de la pièce. Cette valeur **onomastique** distingue un nom parlant du simple titre générique « les vieillards forts ».
+
+## VII. [B] Trois interprétations du nom
+
+**Un vieillard réellement vigoureux :** la vieillesse ne coïnciderait pas avec l'impuissance. La comédie pourrait porter au premier plan un corps âgé capable de combattre, courir, boire ou séduire. Aucun fragment ne confirme le rôle.
+
+**Un vieillard qui se proclame vigoureux :** le titre serait ironique ; le public découvre progressivement l'écart entre la promesse du nom et les blessures qui l'accablent. Le fragment 3 paraît compatible avec une telle contradiction, sans prouver que la réplique venait du personnage éponyme.
+
+**Une parodie de nom mythique :** un remaniement du nom d'Iphigénie déplacerait une jeune héroïne féminine vers une figure masculine âgée. La piste permet une réflexion sur genre, âge et parodie tragique, mais la seule ressemblance phonique ne démontre pas une intrigue sacrificielle.
+
+## VIII. [B] Iphicrate, Iphigénie et les pièges chronologiques
+
+Une proposition ancienne rapproche le nom d'**Iphicrate**, stratège athénien ; une autre le rapporte à **Iphigénie**. Le premier rapprochement rencontre une difficulté : la première carrière du stratège et l'activité des comiques ne se superposent pas à la carrière tardive qui ferait d'un Iphicrate réellement âgé un modèle facile. On pourrait imaginer que le jeune personnage soit paradoxalement représenté comme vieux, mais l'hypothèse ajoute un dispositif que rien n'atteste.
+
+La référence à Iphigénie s'accorde mieux, selon Orth, avec un répertoire de noms mythiques travestis par la comédie de transition. Elle n'autorise pas à nommer une tragédie particulière comme modèle certain : *Iphigénie chez les Tauriens* et *Iphigénie à Aulis* demeurent des comparaisons possibles, pas des sources explicitement citées dans les fragments.
+
+## IX. [A] Date : l'absence d'une date est un résultat
+
+Aucun des fragments conservés ne date la représentation. Aucun concours précis n'est identifié. La période d'activité d'Apollophanès et celle de Strattis placent le problème dans l'évolution de la comédie à la fin du Ve et au début du IVe siècle, mais **le dossier ne livre ni année, ni vainqueur, ni chorège** pour ce titre. Une étude datée par la seule présence hypothétique d'Iphicrate commettrait un raisonnement circulaire : elle prendrait une allusion supposée pour preuve de l'allusion.
+
+Le meilleur catalogue doit donc dire « date inconnue », non « vers telle année » présenté comme certitude.
+
+## X. [A] Le fragment 3 : un objet contre les contusions
+
+La formulation conservée par le commentaire antique se lit, avec la réserve de sa métrique lacunaire : **κύαθον λάβοιμι τοῖς ὑπωπίοις**. Traduction de travail, qui ne restaure aucun manque : « Que je prenne / pourrais-je prendre un kyathos pour les marques sous les yeux ? » Le verbe **λάβοιμι** est un optatif ; son sens en contexte dépend d'éléments perdus. Le mot **ὑπώπια**, au pluriel, désigne des gonflements ou marques sous les yeux, souvent produits par des coups.
+
+Le **κύαθος** est avant tout un instrument servant à puiser ou verser le vin, typiquement muni d'une tige. Le contexte parallèle donne ici à cet objet une fonction corporelle inattendue. La comédie ne nous offre pas un manuel de médecine : elle se sert d'un objet quotidien pour figurer l'après-coup d'une violence.
+
+## XI. [A] Mètre et conjectures : le texte n'est pas complet
+
+Orth décrit le passage comme un **trimètre iambique incomplet**. Les solutions proposées pour l'amorce manquante ne sont pas interchangeables. **πόθεν ἄν** (conjecture de Cobet) permet d'entendre une interrogation urgente après une agression ; **εἴ που** pourrait convenir à un souvenir rapporté ; **τάχ' ἄν** pourrait donner au personnage le ton d'une anticipation craintive. Ce sont des **suppléments éditoriaux**.
+
+Mettre l'un de ces mots entre les lèvres de l'auteur sans signaler son statut produirait une fausse citation. La présente analyse n'imprime donc pas de vers « complété » sous le nom d'Apollophanès. Elle discute les scénarios syntaxiques en termes d'hypothèses.
+
+## XII. [B] Trois temporalités d'une même blessure
+
+**Après la violence :** l'homme vient de recevoir un coup et cherche immédiatement un moyen d'apaiser son visage. L'action comique pourrait se clore sur sa défaite.
+
+**Dans un récit :** un personnage rapporte comment il avait demandé du secours. Le fragment appartiendrait alors à une narration et non à une action vue des spectateurs.
+
+**Avant la violence :** un adversaire se montre si dangereux que l'homme prévoit déjà l'objet dont il aura besoin pour soigner son œil. Le fragment serait une plaisanterie par anticipation : le corps perd le combat avant que le combat n'ait lieu.
+
+Ces trois temporalités éclairent des valeurs possibles de l'optatif, non trois scènes reconstituées. Les textes étant incomplets, les pronoms, la place et la voix du locuteur nous échappent.
+
+## XIII. [A] Le kyathos n'est pas automatiquement une ventouse
+
+Dans les commentaires anciens et modernes, le métal du kyathos sert à **rafraîchir** un gonflement. L'explication d'une *ventouse* de saignée, parfois reprise dans l'histoire de la médecine, est discutée et rejetée par des chercheurs à partir des comparanda. Orth renvoie sur ce point à Pechstein et à Bliquez/Rodgers : la petite coupe d'une louche, tenue contre l'œil, est mieux adaptée à l'emploi mentionné. **σικύη** est le terme ordinaire pour la ventouse de médecine ; rien n'oblige à le substituer au kyathos.
+
+La distinction compte. Transformer chaque récipient métallique en outil spécialisé moderniserait artificiellement une plaisanterie sur la récupération d'un homme battu. C'est le détournement domestique de la vaisselle qui paraît comiquement fécond.
+
+## XIV. [A] Aristophane, *Paix* 541–542 : la cité meurtrie
+
+Dans la *Paix*, les cités grecques portent sur leurs corps figurés les marques de la guerre ; un traitement par kyathoi est mentionné. La scholie explique ce passage puis convoque *Iphigérôn* pour illustrer la même pratique. **Ce lien atteste une analogie lexicale ou matérielle dans l'esprit du commentateur**, non une citation volontaire d'Aristophane par Apollophanès.
+
+La métaphore des cités frappées transforme la violence politique en corps malade. À l'échelle d'*Iphigérôn*, les blessures semblent individuelles. L'analogie politique reste une comparaison interprétative : on ne peut pas inférer un programme pacifiste de la pièce perdue.
+
+## XV. [A/B] Le corps atteint, objet de visibilité publique
+
+Les contusions sous les yeux sont à la fois sensation et **signe lisible**. Celui qui porte un œil gonflé ne contrôle plus parfaitement le récit de ce qui lui est arrivé. Ses adversaires, voisins ou convives peuvent deviner un conflit et en rire. **[B]** Sur scène, l'application d'une louche froide aurait pu rendre visible le contraste entre la prétention d'un homme à la puissance et sa dépendance au secours d'autrui. Nous ne savons cependant pas si une louche a effectivement été manipulée devant le public de *Iphigérôn*.
+
+L'analyse s'appuie sur une potentialité de la comédie corporelle, pas sur une indication scénique retrouvée.
+
+## XVI. [A] Euripide et Aristote : histoire matérielle du soin
+
+Orth rapproche le fragment d'un passage d'Euripide, fr. 374 dans l'édition de Kannicht, où un instrument métallique est associé aux marques sous les yeux. Il renvoie aussi aux *Problèmes* attribués à Aristote, 890b7–38, consacrés aux moyens de traiter ce type de gonflement. Ces deux textes constituent des **comparanda** : ils illustrent un lexique et une technique. Ils n'établissent ni que la même personne a inventé ce soin, ni que la pièce comique dépend directement de la tragédie.
+
+La littérature ancienne ne définit pas toujours l'instrument par sa seule fonction : la même coupe peut servir à boire dans un contexte et à rafraîchir une contusion dans un autre. Cette polyvalence ouvre un ressort dramatique que la traduction doit préserver.
+
+## XVII. [A] Le fragment 4 : ἀδελφίζειν
+
+Dans la transmission lexicographique, le verbe **ἀδελφίζειν** est cité à propos d'*Iphigérôn*. Sa base est **ἀδελφός**, « frère ». Harpocration l'explique comme l'action de **nommer quelqu'un frère** ; l'*Antiatticiste* donne aussi l'idée d'agir envers quelqu'un **comme envers un frère**. Ce flottement nuance le sens : vocatif employé en discours, comportement social adopté, stratégie d'intimité ou revendication d'une relation.
+
+Nous n'avons pas la phrase dans laquelle le mot figurait dans la comédie. Il est donc impossible d'identifier le destinataire, la vérité du lien de parenté, ni même de savoir si l'usage était amical, flatteur, ironique ou accusatoire.
+
+## XVIII. [A] Isocrate, *Aiginêtikos* 19.30 : nommer, c'est prétendre
+
+Un parallèle conservé en contexte se trouve chez **Isocrate, discours 19, § 30**, dans une controverse sur une succession et des liens de famille. L'orateur prévoit que ses adversaires tenteront de présenter une personne comme « leur frère ». Le verbe ne décrit pas seulement une affection ; il apparaît dans une **stratégie de qualification de la parenté** susceptible d'affecter une prétention juridique.
+
+Cela ne prouve pas que la comédie traitait d'un héritage. L'orateur éclaire les **possibilités pragmatiques** du verbe : dire « frère » peut être une manière d'obtenir un statut, d'approcher quelqu'un, de gagner sa faveur ou de rendre une demande moralement difficile à refuser.
+
+## XIX. [A] Leurs parents sont-ils frères ? Une question sans réponse
+
+L'*Antiatticiste*, Harpocration et les compilateurs ultérieurs ne s'accordent pas entièrement sur la glose. Photios évoque une appellation répétée, voire complaisante. Pour tester ce registre, Orth rappelle des analogies aristophanesques : l'adresse au « père » et le langage flatteur dans les *Guêpes*, ou les « frères » du dialogue entre Dionysos et Héraclès dans les *Grenouilles*. Dans ce dernier cas, les interlocuteurs mythiques sont effectivement demi-frères ; cette particularité ne signifie pas qu'ils le sont dans *Iphigérôn*.
+
+Une glose du mot, plusieurs interprétations du geste et plusieurs parallèles d'adresse ne forment toujours **aucune réplique certifiée** de la pièce étudiée.
+
+## XX. [B] Le frère d'intérêt et la valeur du vocatif
+
+Le sens précis de « traiter comme un frère » peut changer avec l'environnement. Entre héritiers, l'expression peut faire l'objet d'une dispute de filiation ; entre compagnons, elle peut formuler un lien sans sang ; entre adversaires, elle peut être la tactique d'un hypocrite. **[B]** Le personnage qui a reçu des coups au fragment 3 pourrait, dans une scène hypothétique, tenter de transformer son adversaire en « frère » pour sortir du danger ; l'effet serait puissant, mais **aucun fragment n'établit la coexistence de ces deux mots dans une seule scène**.
+
+Il ne faut pas prendre cette hypothèse commode pour un synopsis, ni rapprocher les deux fragments par la seule exigence moderne d'une intrigue unifiée.
+
+## XXI. [A/B] Un problème d'identité auteur/œuvre/locuteur
+
+Un texte grec très court peut faire intervenir au moins quatre niveaux de signature : l'auteur nommé dans une notice ; l'œuvre identifiée par un titre ; le locuteur fictif ; le savant qui transmet et glosse la phrase. Ici, seul le dernier niveau est matériellement accessible à travers la tradition écrite. L'auteur demeure discuté ; le titre est attesté mais sa formation parlante s'interprète ; le locuteur est inconnu.
+
+Par conséquent, une monographie ne peut pas écrire « Apollophanès fait déclarer à Iphigéron ... » là où l'on ne sait même pas si la réplique appartient au héros éponyme. La formulation recevable est « la scholie attribue à Apollophanès une expression de *Iphigérôn* relative à un kyathos ».
+
+## XXII. [B] Réel, représentation et norme de virilité
+
+Une lecture des types de vieillards comiques doit distinguer **l'âge social** du **corps exhibé**. Un homme âgé peut revendiquer l'autorité de l'expérience ; un surnom « fort-vieillard » pourrait lui attribuer un excès de puissance ou révéler une imposture. Les tuméfactions sous l'œil suffiraient, si elles lui appartenaient, à déstabiliser son autorité. Inversement, elles pourraient être portées par un autre personnage qui s'est imprudemment affronté à lui.
+
+Le fragment ne permet pas de choisir entre *vieillard humilié* et *vieillard redouté*. Cette alternative doit structurer la lecture au lieu d'être dissimulée derrière une reconstitution univoque.
+
+## XXIII. [B] Hegel : le corps et la reconnaissance menacée
+
+Une comparaison avec Hegel peut faire porter l'analyse sur **la reconnaissance de soi par autrui**. Le nom parlant affirme une identité (« fort ») ; la blessure enregistre une relation concrète avec la force d'un autre. Le sujet qui prétend se définir par l'invulnérabilité découvre un besoin de secours, d'interprétation, de médiation sociale. De même, dire « frère » ne suffit pas à obtenir la reconnaissance d'une parenté : autrui peut accepter ou refuser cette désignation.
+
+Cette comparaison n'est **pas** une lecture d'*Iphigérôn* par Hegel. Le texte perdu ne nous autorise pas à lui prêter une dialectique explicitement formulée.
+
+## XXIV. [B] Nietzsche : la puissance contre sa mise en scène
+
+Le titre semble évoquer la puissance, mais l'ambiguïté du fragment corporel invite à distinguer **capacité réelle**, **affirmation de soi** et **exhibition de force**. Un homme peut être robuste et ridicule parce qu'il doit le proclamer ; un vieillard meurtri peut être comique sans être moralement inférieur à son adversaire. Nietzsche peut servir à questionner la volonté de donner à son corps une signification héroïque, et la vulnérabilité des titres emphatiques à la satire.
+
+Il serait anachronique de présenter ce possible personnage comme un « surhomme » anticipé ou d'appeler tout rire violent « dionysiaque ». L'intérêt de l'analogie réside dans sa **limite** : le conflit des valeurs n'a pas été conservé, seule demeure une promesse nominale entourée de fragments disjoints.
+
+## XXV. [B] Vernant : nom, âge et place dans l'oikos
+
+Les recherches de Jean-Pierre Vernant sur les catégories grecques du sujet, de l'identité et de l'organisation sociale éclairent la tension entre nom individuel et rôle collectif. À Athènes, **γέρων** n'est pas uniquement un constat physiologique ; le vieux citoyen, le père, le chef de maisonnée et le témoin de la mémoire occupent des positions différentes. **[B]** Le nom *Iphigérôn* aurait pu jouer sur ces écarts, sans que le texte nous dise si son porteur était chef de famille, marginal ou personnage mythique.
+
+Le verbe ἀδελφίζειν, lié à un vocabulaire de parenté, ouvre des questions voisines sur la limite entre relation de sang et discours d'affiliation. Les travaux de S. D. Lambert sur les phratries attiques peuvent informer ce contexte civique, mais ils ne prouvent aucun rôle des phratries dans la comédie.
+
+## XXVI. [B] Détienne : ruse, langage et retournement de fonction
+
+On peut employer la notion de **mêtis** étudiée par Marcel Détienne et Jean-Pierre Vernant comme outil comparatif restreint. Un objet destiné au vin devient instrument pour traiter la peau ; une appellation de « frère » peut devenir méthode de proximité ; un titre puissant peut se révéler le masque d'une faiblesse. Dans chaque cas, une **fonction se retourne** sous la pression d'une situation.
+
+Cependant aucune des trois transformations ne peut être attribuée comme système dramaturgique attesté à l'auteur inconnu. Le kyathos possède un emploi médical documenté hors du théâtre ; l'analogie stratégique est une lecture moderne.
+
+## XXVII. [B] Dumézil : pourquoi la trifonctionnalité n'est pas recevable
+
+Le dossier conservé ne présente ni triade narrative, ni distribution stable de fonctions souveraine, guerrière et productive. On pourrait rêver d'un vieillard guerrier, d'un parent législateur et d'un serviteur producteur, mais ce serait inventer une distribution de personnages que les sources ne mentionnent pas. **La méthode comparatiste consiste aussi à suspendre une grille.** Georges Dumézil n'apporte ici aucun argument spécifique permettant d'établir une structure indo-européenne.
+
+## XXVIII. [C] Scène contemporaine I — La louche du triomphateur
+
+*Création entièrement originale ; aucune des répliques n'appartient à Apollophanès ni à Strattis.*
+
+**LE VIEUX.** Dans ce quartier, personne n'ose me provoquer.
+
+**LE SERVITEUR.** C'est ce qu'ils disent, maître.
+
+**LE VIEUX.** Alors pourquoi regardes-tu mon œil ?
+
+**LE SERVITEUR.** Parce qu'il regarde la gauche pendant que tu regardes la droite.
+
+**LE VIEUX.** Une ruse de combat.
+
+**LE SERVITEUR.** Et cette bosse ?
+
+**LE VIEUX.** La preuve que j'ai remporté la discussion.
+
+**LE SERVITEUR.** Ton adversaire en dit autant. Il a encore ses deux yeux.
+
+**LE VIEUX.** Apporte-moi du bronze.
+
+**LE SERVITEUR.** Une arme ?
+
+**LE VIEUX.** Une louche froide.
+
+**LE SERVITEUR.** Tu remporteras donc la bataille contre la cuisine.
+
+**LE VIEUX.** C'est la seule qui me reste aujourd'hui.
+
+**Analyse [B].** Le détournement du récipient et l'autorité vacillante constituent une expérience de dramaturgie moderne. Le fragment 3 autorise seulement à rapprocher un kyathos et des contusions, jamais à attribuer ce dialogue à l'Antiquité.
+
+## XXIX. [C] Scène contemporaine II — Appelle-moi frère
+
+*Création entièrement originale ; le mot de parenté est éclairé par le fragment 4 sans en prolonger le texte.*
+
+**L'HÉRITIER.** Tu m'appelles ton frère depuis que notre père est mort.
+
+**L'INVITÉ.** C'est une marque de tendresse.
+
+**L'HÉRITIER.** Tu ne m'appelais ainsi ni au marché, ni à la guerre.
+
+**L'INVITÉ.** Les liens se découvrent dans les épreuves.
+
+**L'HÉRITIER.** Alors tu as attendu le testament pour trouver le tien.
+
+**L'INVITÉ.** L'argent ne compte pas entre frères.
+
+**L'HÉRITIER.** Justement. Tu as demandé qu'on le partage.
+
+**L'INVITÉ.** Qui peut refuser à son frère ?
+
+**L'HÉRITIER.** Celui qui voudrait d'abord savoir d'où vient le mot.
+
+**Analyse [B].** La scène illustre la pragmatique du vocatif et l'enjeu d'un discours successoral. Le lien entre ἀδελφίζειν et une affaire précise d'héritage n'est pas attesté pour *Iphigérôn* ; Isocrate 19.30 constitue une comparaison externe.
+
+## XXX. [C] Scène contemporaine III — Le bibliothécaire et les deux noms
+
+*Création contemporaine portant sur la transmission des textes, non portrait assuré des philologues antiques.*
+
+**LE COPISTE.** Voici une œuvre intitulée *Iphigérôn*. Quel auteur inscrirai-je ?
+
+**LE BIBLIOTHÉCAIRE.** Sur cette liste, Apollophanès.
+
+**LE COPISTE.** Sur cette autre, Strattis.
+
+**LE BIBLIOTHÉCAIRE.** Sont-ce deux livres ?
+
+**LE COPISTE.** Nous n'avons qu'un rouleau.
+
+**LE BIBLIOTHÉCAIRE.** Sont-ce deux représentations ?
+
+**LE COPISTE.** Nous n'avons aucune date.
+
+**LE BIBLIOTHÉCAIRE.** Alors écris les deux noms, mais sépare-les par un doute.
+
+**LE COPISTE.** Un doute coûte beaucoup d'encre.
+
+**LE BIBLIOTHÉCAIRE.** Moins qu'un deuxième auteur inventé.
+
+**Analyse [B].** Cette scène condense le problème d'attribution sans prétendre expliquer historiquement l'origine de l'incertitude. Les deux sources de noms sont attestées ; la conversation n'a jamais été transmise.
+
+## XXXI. [A/B] Tableau de critique des preuves
+
+| Proposition | Statut | Source ou limite |
+|---|---|---|
+| Le titre *Iphigérôn* est associé à Apollophanès | [A] | Souda ; scholie à *Paix* 542c |
+| Le même titre est aussi associé à Strattis | [A] | Souda ; Antiatticiste ; Harpocration |
+| Un seul texte a circulé sous deux noms | [B] | Reconstruction plausible, non prouvée |
+| Deux pièces homonymes ont été réellement jouées | [B] | Possibilité, aucune double didascalie décisive |
+| Un fragment parle d'un kyathos pour les contusions | [A] | Fr. 3 K.-A. ; scholie à *Paix* 542c |
+| Un fragment est le lemme ἀδελφίζειν | [A] | Fr. 4 K.-A. ; Harpocration / Antiatticiste |
+| Le vieillard du titre a reçu les coups | [B] | Le locuteur et le blessé ne sont pas identifiés |
+| La comédie parodiait Iphigénie | [B] | Hypothèse onomastique de Miles discutée par Orth |
+| Une année précise de première représentation est connue | Non | Date indéterminée |
+| Les scènes ci-dessus restituent l'intrigue | [C — non] | Écritures contemporaines, sans prétention d'authenticité |
+
+## XXXII. [B] Méthode de recherche future
+
+Les prochaines étapes pertinentes ne sont pas d'étendre l'intrigue fictive, mais de **collationner** les scholies à *Paix* 542 dans leurs témoins, de réexaminer les leçons d'Harpocration et de l'*Antiatticiste* (καί / ἤ), de consulter l'édition papyrologique de P.Oxy. 2659, de comparer les listes de concours et les titres attribués à Strattis, puis de tester les supplémentations du trimètre avec l'ensemble du corpus métrique. Il faudra également contrôler, sans les fusionner, les différentes acceptions d'ἀδελφίζειν chez les lexicographes.
+
+Toute mention future de l'œuvre sous Strattis doit renvoyer à **ce même dossier**, accompagné d'une note expliquant le conflit : aucune nouvelle demande sous un UUID distinct n'est justifiée par une différence purement bibliographique de nom d'auteur.
+
+## XXXIII. Conclusion : le poète introuvable, le corps repérable
+
+Le fragment du kyathos ne permet pas de faire vivre le héros, mais il rend sensible un objet métallique, la blessure d'un visage et une langue comique capable de rapprocher vin et violence. Le lemme ἀδελφίζειν ne livre aucun personnage, mais atteste un matériau linguistique où « frère » peut être une adresse, un rôle ou une revendication. Enfin, la double signature Apollophanès/Strattis n'est pas à résoudre par décret éditorial : elle est elle-même un fait majeur de l'histoire de la transmission.
+
+**La philologie conserve trois incertitudes distinctes** : le nom de l'auteur, la signification du titre, le contexte des fragments. L'histoire reconstitue un environnement plausible ; la philosophie teste ses catégories ; la création dramatique fait sentir ce qu'une intrigue *pourrait* être. Le lecteur doit toujours pouvoir distinguer ces démarches.
+
+---
+
+## Sources antiques et bibliographie vérifiée
+
+### Témoignages antiques [A]
+
+- **Souda**, notices sur Apollophanès et Strattis, listes de titres où figure *Iphigérôn* ; comparer les divergences des traditions.
+- **Scholies à Aristophane, *Paix* 542c**, transmission du **fr. 3 K.-A.** (kyathos et marques sous les yeux).
+- **Harpocration**, s.v. **ἀδελφίζειν**, p. 9, 9–11 Dindorf = α 27 Keaney : **fr. 4 K.-A.**, nom de l'auteur discuté.
+- **Antiatticiste**, p. 83, 25–27 : glose du verbe ἀδελφίζειν, avec attribution à Strattis.
+- **Photios**, lexique α 333 ; **Souda** α 441 et υ 653 : traditions lexicographiques en partie dépendantes, ne pas compter chaque reprise comme fragment autonome.
+- **P.Oxy. 2659**, fr. 1, col. i, 5–6 : liste de titres d'Apollophanès transmise incomplètement ; absence du titre à contextualiser.
+- **Aristophane**, *Paix* 541–542, *Guêpes* 609 et 652, *Grenouilles* 58–60 et 164 : parallèles indépendants, non passages d'*Iphigérôn*.
+- **Isocrate**, *Aiginêtikos* 19.30 : emploi de ἀδελφίζειν dans un dossier de succession ; parallèle de lexique et d'argumentation, non source d'une intrigue.
+- **Euripide**, fr. 374 Kannicht ; **[Pseudo-]Aristote**, *Problèmes* 890b7–38 : parallèles relatifs aux tuméfactions et à l'usage d'objets métalliques.
+
+### Éditions et études philologiques
+
+- **Kassel, Rudolf, et Colin Austin**, *Poetae Comici Graeci*, vol. II, Berlin/New York, 1991 : fragments d'Apollophanès et de Strattis, base de numérotation K.-A.
+- **Orth, Christian**, *Alkaios – Apollophanes. Einleitung, Übersetzung, Kommentar*, *Fragmenta Comica* 9.1, Heidelberg, 2013, **p. 364–372** : [fac-similé et transcription éditoriale](https://digi.hadw-bw.de/view/frc9_1/0365) ; [DOI du volume](https://doi.org/10.11588/diglit.47765).
+- **Orth, Christian**, *Strattis. Die Fragmente. Ein Kommentar*, *Studia Comica* 2, 2009 : contexte et objections de l'attribution à Strattis.
+- **Storey, Ian C.**, *Fragments of Old Comedy*, vol. III, Harvard University Press, 2011, dossier Apollophanès : traduction et discussion comparatives.
+- **Miles, Sarah**, travaux sur la parodie mythologique chez Strattis (2009, p. 142–144, cités et discutés par Orth) : rapprochement possible avec Iphigénie, hypothèse non démontrée.
+- **Pechstein**, 1998, p. 154–156 ; **Bliquez et Rodgers**, 1998 ; **Crosby**, 1943, p. 213 : discussions sur l'usage médical du kyathos, références et synthèse dans Orth, *FrC* 9.1, p. 369.
+- **Elena Chepel**, compte rendu d'Orth 2013 dans *Bryn Mawr Classical Review*, [2014.07.34](https://bmcr.brynmawr.edu/2014/2014.07.34/) : place du dossier dans l'étude de la transition entre ancienne et moyenne comédie.
+
+### Comparaisons modernes [B] — sans attribution antique
+
+- **Hegel**, *Phénoménologie de l'esprit*, reconnaissance et dépendance à autrui ; comparaison construite, sans exégèse attestée d'*Iphigérôn*.
+- **Nietzsche**, *Par-delà bien et mal* et *Généalogie de la morale*, problèmes de force, d'évaluation et de mise en scène du prestige ; analogies non philologiques.
+- **Jean-Pierre Vernant**, études sur la société, le sujet et les catégories grecques ; usages conceptuels limités.
+- **Marcel Détienne et Jean-Pierre Vernant**, *Les Ruses de l'intelligence. La mêtis des Grecs*, 1974 : transformations fonctionnelles et stratégies ; pas de lien de dépendance établi.
+- **S. D. Lambert**, *The Phratries of Attica*, 1993/1998, histoire du cadre institutionnel de la parenté civique, sans preuve d'un rapport direct avec la comédie.
+- **Georges Dumézil**, *Mythe et épopée*, référence méthodologique uniquement : **grille trifonctionnelle suspendue**, faute d'un récit mythique assez conservé.
+
+**Limite explicite.** La notice s'appuie sur les éditions et textes secondaires consultables et signalés ; aucun mot placé dans les trois scènes [C] ne prétend venir d'un témoin antique, et aucune image d'un kyathos ou d'un vieux comédien ne doit être légendée comme preuve d'une représentation d'*Iphigérôn*. Les leçons contestées seront mises à jour seulement après véritable contrôle des manuscrits.
+
+**Continuité éditoriale :** conserver un seul dossier sous le titre *Iphigérôn* malgré les deux attributions ; toute nouvelle étude doit d'abord contrôler les reçus de \`editorial/numbering.json\` et la file GitHub. Le présent manuscrit ne réserve aucun numéro.

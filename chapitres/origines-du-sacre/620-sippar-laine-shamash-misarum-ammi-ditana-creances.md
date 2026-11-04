@@ -1,0 +1,200 @@
+# MYTHOS — Les Origines du sacré — Tome DCXX — Chapitre 620
+
+## Vendre à crédit sous un édit de justice : Sippar, la laine du temple de Šamaš et les remises de dettes d'Ammi-ditana
+
+*Étude universitaire d'assyriologie, d'histoire économique des temples, de droit ancien et de philosophie politique. Dossier autonome : il ne réécrit pas l'étude générale des édits d'Ammiṣaduqa, mais confronte la protection royale contre la dette à une chaîne précise de vente à crédit, d'intermédiaires, de recettes sacrées et de fraude documentaire.*
+
+### 1. Problématique : comment annuler une dette sans détruire le crédit ?
+
+L'énoncé « le roi a effacé les dettes » ne décrit jamais à lui seul les effets d'un édit. Toute créance a un débiteur, un créancier, une date, un fondement et un environnement institutionnel. Si le roi libère le débiteur d'une obligation, le créancier peut perdre un actif ; s'il protège simultanément une autre catégorie de crédit, il lui faut définir une frontière entre les obligations annulées et celles qui subsistent. Cette frontière est juridiquement décisive et socialement contestable.
+
+L'édition de documents concernant la laine vendue à Sippar permet d'aborder cette question à l'échelle d'une économie de temple. Le sanctuaire de Šamaš, l'Ebabbar, écoule des ressources au moyen d'intermédiaires marchands ; certaines opérations sont organisées comme des ventes à crédit. L'intervention de la royauté peut faire apparaître un paradoxe : le dieu, réputé garant de justice, se trouve lui-même titulaire de créances susceptibles d'être affectées par une politique de justice royale.
+
+Il faut distinguer la thèse documentée — les créances religieuses peuvent être exposées à un édit — d'une généralisation abusive : toutes les dettes des temples mésopotamiens n'étaient pas nécessairement annulées et tous les marchands ne contournaient pas systématiquement la loi.
+
+### 2. Le cœur documentaire : Sippar et l'Ebabbar
+
+Sippar est un foyer essentiel des archives paléo-babyloniennes. Son temple de Šamaš, l'Ebabbar, dispose de terres, de travailleurs, de ressources et de relations économiques dont l'étude dépasse largement les actes liturgiques. Les textes économiques en akkadien y font apparaître une institution cultuelle engagée dans les circuits de production et de redistribution.
+
+Un ensemble de sept tablettes du British Museum, étudié par T. Nicolas dans la *Revue d'assyriologie* 119/1 (2026), éclaire la commercialisation de la laine à Sippar, le rôle du percepteur appelé *mākisum*, un sceau attribué à Belanum et l'effet de l'édit de *mīšarum* de l'an 1 d'Ammi-ditana. [R1] La notice scientifique de cette publication permet d'identifier le dossier et sa conclusion, mais ne dispense pas d'une collation des photographies et des translittérations : les formulations exactes des sept tablettes ne sont pas reproduites ici faute de consultation directe de cette édition.
+
+Ce choix est volontaire. Il évite de fabriquer une « ligne 14 » ou une citation akkadienne qui n'aurait pas été vérifiée. Le niveau de certitude de chaque argument sera indiqué.
+
+### 3. Šamaš : le dieu de justice comme propriétaire de revenus
+
+Šamaš, divinité solaire mésopotamienne, est aussi associé au jugement et à la rectitude dans de nombreux contextes. Cela ne veut pas dire que tous les règlements financiers de son temple seraient l'expression directe d'une théologie unifiée de la justice.
+
+Dans les archives, le nom de la divinité identifie un patrimoine cultuel géré par des responsables humains. Le temple peut être destinataire d'un paiement, détenir un stock, faire apparaître un arriéré. Lorsque l'Ebabbar vend de la laine, les gestionnaires mettent en circulation un produit qui participe aux revenus de l'institution. Il faut distinguer ce fait de l'idée moderne d'une banque de Šamaš : aucun établissement ancien ne possède automatiquement toutes les fonctions d'une banque contemporaine.
+
+La tension théorique est néanmoins féconde : une royauté qui proclame une justice libératrice peut restreindre les prétentions économiques d'un patrimoine attribué au dieu de justice. L'enjeu est d'étudier comment les acteurs articulent ces niveaux, sans prêter aux tablettes un dialogue théologique qu'elles ne contiennent pas.
+
+### 4. Une chaîne de vente à crédit : temple, marchands, acheteurs
+
+Une vente au comptant s'achève par le paiement immédiat ; une vente à crédit crée une obligation future. Si un temple confie de la laine à des marchands pour qu'ils la commercialisent, au moins trois relations doivent être distinguées : détention de la marchandise, créance sur l'acheteur et reddition de comptes envers l'institution propriétaire.
+
+La recherche de Nicolas indique que la laine de l'Ebabbar était commercialisée par l'entremise de marchands et que des créances pouvaient se distribuer entre particuliers, marchands et temple. [R1] L'existence de plusieurs maillons suffit à expliquer pourquoi une seule annulation pourrait produire une chaîne d'impayés. Elle ne suffit pas à quantifier les pertes : il faudrait pour cela les prix, les quantités, les dates et les remboursements individuels.
+
+On doit donc éviter d'assimiler « marchand », « percepteur » et « propriétaire ». Les documents peuvent montrer une personne chargée de recevoir des paiements sans démontrer qu'elle est le créancier final ou le détenteur des marchandises au moment de chaque transaction.
+
+### 5. Le mot *mīšarum* : libération et normalisation
+
+Le terme akkadien *mīšarum* renvoie au champ de la justice ou de la rectitude et, dans certains contextes royaux, à une mesure de rétablissement de l'ordre. Le rapprochement avec *kittum* ne justifie pas de les traiter comme de purs synonymes. De même, *andurārum* peut désigner une libération dont l'application varie selon la période et le genre documentaire.
+
+Il serait fallacieux de supposer que l'édit d'Ammi-ditana et celui d'Ammiṣaduqa ont exactement la même rédaction. Les principes communs de rémission ne suppriment pas la nécessité d'étudier leurs clauses et leur contexte historique propres.
+
+Les édits, en tant que mesures rétroactives, ne se confondent pas non plus avec les collections de lois destinées à régler certains comportements pour l'avenir. Cette distinction, soulignée par l'historiographie juridique, conditionne l'interprétation des contrats conclus avant et après une proclamation. [R2–R4]
+
+### 6. Le problème juridique des prêts commerciaux
+
+L'édit d'Ammiṣaduqa, conservé de manière fragmentaire, établit une différenciation entre certaines dettes visées par la remise et des avances engagées dans une entreprise commerciale. Une tradition de traduction, notamment celle de J. J. Finkelstein, expose cette distinction aux paragraphes relatifs aux marchandises, à l'argent et à l'orge reçus pour une activité de profit. [P1]
+
+Il faut éviter d'en déduire que le seul mot « commerce » suffisait à sauver n'importe quelle créance. L'administration devait pouvoir qualifier juridiquement l'opération et examiner les clauses. La frontière entre l'avance productive et une dette de détresse n'est pas qu'une différence de vocabulaire : elle détermine qui supporte la perte après l'édit.
+
+Le précédent d'Ammiṣaduqa sert ici d'outil comparatif. Il ne prouve aucune identité textuelle avec le décret d'Ammi-ditana, dont les conséquences sur le commerce de la laine sont discutées à partir des tablettes de Sippar.
+
+### 7. Peut-on transformer artificiellement la nature d'une dette ?
+
+Si une classe de créances est annulée tandis qu'une autre reste exigible, un créancier a potentiellement intérêt à présenter la première comme appartenant à la seconde. Il pourrait modifier le formulaire d'un contrat, déplacer la date invoquée ou décrire une avance de subsistance comme un investissement. Ce sont des mécanismes possibles de contournement ; leur existence comme pratiques effectives doit être démontrée texte par texte.
+
+Cristina Simonetti souligne, dans une synthèse de 2022, que des montages fonciers furent employés pour limiter l'effet d'édits de rémission et qu'il faut suivre leurs conséquences dans la durée. [R3] La documentation ne justifie pas de transformer chaque vente immobilière en fraude : elle exige la comparaison de la chronologie, du prix, du lien entre vendeur et acquéreur et des clauses de réversibilité.
+
+Le geste critique consiste à formuler des critères d'enquête : concordance entre la nature économique réelle et la qualification inscrite, indices de simulation, traces d'action judiciaire, recours au serment, puis éventuel jugement. Sans ces éléments, la « fraude » reste une hypothèse.
+
+### 8. L'an 1 d'Ammi-ditana : l'importance d'une date royale
+
+Les tablettes récemment étudiées sont mises en relation avec un édit de l'an 1 d'Ammi-ditana. [R1] La date de règne est une référence administrative ; elle ne doit pas être convertie en année absolue sans indiquer la chronologie mésopotamienne retenue.
+
+Ce point apparemment technique a une portée essentielle. La date permet de séparer les créances antérieures à la proclamation de celles qui naissent après. Elle peut ainsi déterminer si un contrat relève du champ temporel de l'édit.
+
+Un même agent peut avoir contracté plusieurs engagements successifs : une dette initiale, une reconnaissance postérieure et une éventuelle garantie. La succession des documents ne prouve ni que l'obligation ancienne a survécu légalement ni qu'elle a été nécessairement éteinte. Il faut examiner si l'acte ultérieur crée une obligation distincte ou reformule seulement l'ancienne.
+
+### 9. Les marchandises de laine : une matière, plusieurs valeurs
+
+La laine n'est pas seulement une marchandise abstraite. Elle résulte d'une production ovine, de soins aux troupeaux, d'opérations de tonte, de stockage, de classement et de circulation. L'économie des temples participe parfois à cette chaîne de production.
+
+La quantité livrée, sa qualité et le moment de sa commercialisation affectent sa valeur. Une dette en argent représentant de la laine vendue à crédit est différente d'une obligation de restituer un poids de laine. De même, la valeur nominale inscrite ne représente pas forcément la valeur de marché au jour de l'échéance.
+
+La documentation de Sippar permet d'aborder la dimension matérielle de la créance. Elle invite à chercher les unités métrologiques et les formulations des prix dans chaque tablette éditée, sans fabriquer ici de conversions en monnaie contemporaine.
+
+### 10. Belanum et le *mākisum* : pouvoir d'encaisser, statut et sceau
+
+La publication de T. Nicolas identifie Belanum comme un percepteur, *mākisum*, apparaissant régulièrement comme destinataire lors de remboursements de transactions de laine ; l'identification de son sceau et l'analyse de sa place dans les réseaux locaux jouent un rôle majeur. [R1]
+
+Le sceau n'est pas un simple dessin. Il matérialise la capacité d'un individu ou d'une institution à authentifier une démarche et peut être associé à des rapports de dépendance, de confiance et d'autorité. Toutefois l'identification de son titulaire doit reposer sur la documentation, et non sur une interprétation iconographique libre.
+
+La présence du percepteur à un point de la chaîne du paiement ne signifie pas que le temple soit absent du contrat. Une obligation peut être acquittée entre les mains d'un agent sans cesser de concerner un patrimoine institutionnel.
+
+### 11. De l'acheteur au marchand, puis au temple : le risque de défaut en cascade
+
+Supposons qu'un acheteur de laine ne soit plus tenu de payer après une mesure de rémission. Si le marchand qui lui avait livré la laine doit encore une somme au temple, sa situation peut devenir intenable. Si sa dette envers le sanctuaire est annulée à son tour, la perte remonte à l'Ebabbar.
+
+L'article de 2026 propose précisément une interprétation en termes de défauts en chaîne, jusqu'à une intervention du pouvoir royal visant à empêcher une crise des relations commerciales. [R1] Il s'agit de la conclusion d'une étude spécialisée, non d'une loi économique générale applicable à toutes les cités mésopotamiennes.
+
+Cette lecture oblige à distinguer trois nombres qu'un résumé ne donne pas : la part effectivement impayée par les acheteurs, la part absorbée par les marchands et la part supportée par le temple. Sans ces montants, l'ampleur de la crise reste qualitative.
+
+### 12. Le serment contre la fraude
+
+Les analyses récentes indiquent qu'un serment fut requis pour limiter les abus liés à l'annulation des créances dans le dossier de Sippar. [R1] Le serment permet d'engager la responsabilité d'une personne sous une forme simultanément juridique et religieuse.
+
+Une telle procédure n'implique pas que la puissance divine se substitue à l'enquête. Elle complète au contraire une chaîne de preuves. Les parties doivent pouvoir être identifiées et l'objet du serment suffisamment déterminé pour qu'une fausse déclaration puisse être reconnue comme telle.
+
+On retrouve ici une continuité avec les études MYTHOS sur la performativité du serment, sans les répéter : le point nouveau est l'usage du serment à la frontière entre politique redistributive et résistance des détenteurs de créances.
+
+### 13. La royauté, arbitre suprême de la propriété divine ?
+
+Si le pouvoir royal annule une créance rattachée au temple de Šamaš, la propriété divine n'est pas soustraite à toute intervention politique. Le souverain peut prétendre rétablir la justice en imposant à l'institution une perte financière.
+
+L'argument doit être manié avec rigueur. Il ne démontre pas que le temple soit une simple agence royale ni qu'il soit totalement autonome. Les relations changent selon les règnes, les types de recettes et les procédures juridiques.
+
+Le sanctuaire apparaît comme un acteur de l'économie politique, bénéficiaire d'un patrimoine mais susceptible de supporter le coût d'une mesure publique. Cette tension explique pourquoi l'histoire des temples doit être écrite avec les archives économiques autant qu'avec les hymnes.
+
+### 14. Comparaison avec l'édit d'Ammiṣaduqa : ce qui est transmissible
+
+L'édit d'Ammiṣaduqa, édité par Finkelstein, est une source primaire capitale pour comprendre la différenciation des créances, des personnes libérées et des opérations protégées. Il ne doit pas être utilisé comme copie de celui d'Ammi-ditana.
+
+La comparaison pertinente porte sur les opérations intellectuelles du droit : classifier le type d'obligation ; distinguer le principal des clauses additionnelles ; repérer le moment de la transaction ; définir les exceptions ; déterminer les conditions de libération des personnes tenues pour dette.
+
+Ce sont ces opérations qui produisent des zones de conflit. Là où la norme fait une différence, les acteurs peuvent tenter d'en discuter le classement. La bataille autour de la dette est ainsi aussi une bataille pour la bonne description du contrat.
+
+### 15. Comparaison grecque : Solon et les limites de l'analogie
+
+La tradition grecque associe la réforme de Solon à la *seisachtheia*, littéralement au geste de secouer les fardeaux. Les textes antiques exposent une mémoire de crise foncière et sociale, mais ils ne conservent pas une réglementation aussi détaillée que l'édit paléo-babylonien.
+
+La comparaison avec la Babylonie doit rester limitée à une interrogation : comment une mesure publique transforme-t-elle les obligations privées ? À Athènes, les répercussions sur le statut des débiteurs et sur la propriété foncière se discutent à partir de sources d'une autre nature et souvent postérieures.
+
+Aucune diffusion directe du décret d'Ammi-ditana vers l'Athènes archaïque n'est démontrée par le dossier de Sippar. Des problèmes semblables peuvent engendrer des institutions différentes.
+
+### 16. Comparaison égyptienne : l'amnistie de 118 avant notre ère
+
+P.Tebt. I 5, décret ptolémaïque de 118 avant notre ère, prévoit la remise de certains arriérés de loyers et de taxes tout en maintenant des exceptions, notamment pour certaines tenures héréditaires garanties. [P2] Il distingue également les intérêts de la couronne et ceux des temples dans une série de décisions.
+
+Ce document est séparé du cas de Sippar par plus d'un millénaire et par un système administratif très différent. La comparaison n'a pas de valeur généalogique. Elle sert à poser une question commune : une amnistie fiscale et sociale peut-elle être conçue sans exemptions, catégories de personnes et protections d'intérêts institutionnels ?
+
+La réponse historique n'est pas un simple oui ou non. Les deux dossiers montrent des interventions royales qui sélectionnent des obligations et dont l'application peut entraîner de nouvelles contestations.
+
+### 17. Durkheim et la catégorie de justice collective
+
+Durkheim incite à analyser les normes comme des réalités sociales produites et entretenues par les groupes. La proclamation royale ne suffit pas en elle-même : il faut des acteurs capables de reconnaître, de transmettre et d'appliquer ses distinctions.
+
+Cette perspective permet de comprendre les édits comme des dispositifs de reclassement collectif de la dette. Ils modifient les obligations légitimes plutôt que d'effacer matériellement les tablettes, les marchandises ou les personnes.
+
+Mais l'approche sociologique ne doit pas réduire l'édit à une pure « conscience collective » : son application passe par des institutions asymétriques et des intérêts opposés, que les documents permettent parfois de reconstituer.
+
+### 18. Hegel : universalité proclamée et intérêts particuliers
+
+Dans une perspective hégélienne, on peut considérer le conflit entre norme publique et contrat particulier comme une difficulté du passage de la volonté privée à l'ordre juridique. Le créancier estime son droit acquis ; le souverain invoque une justice qui pourrait exiger de limiter ce droit.
+
+Cette comparaison est philosophique, non philologique. Hegel ne fournit pas une interprétation de l'édit d'Ammi-ditana. Son intérêt est d'obliger l'analyse à formuler le conflit : quelle obligation doit céder lorsque la conservation de certains droits privés menace la stabilité d'une communauté ?
+
+Le sanctuaire ajoute à ce conflit une singularité : ses créances concernent des biens consacrés, et néanmoins leurs règles d'exécution sont discutées dans l'ordre politique.
+
+### 19. Nietzsche : la dette et sa mémoire ne disparaissent pas ensemble
+
+La deuxième dissertation de la *Généalogie de la morale* associe dette, promesse et formation d'une mémoire de l'obligation. Cette lecture ne permet pas de déduire les intentions des marchands de Sippar, mais elle aide à poser la question de la mémoire après l'annulation juridique.
+
+Une tablette peut continuer d'exister alors que sa force exécutoire a cessé. Inversement, une créance peut être reformulée dans un document ultérieur. Il faut distinguer mémoire documentaire et obligation valable.
+
+Le serment contre la fraude et la vérification des anciennes transactions illustrent cette différence. La royauté peut prononcer une remise, mais les acteurs continuent de devoir raconter et prouver leur histoire contractuelle.
+
+### 20. Vernant, Detienne et le danger d'une opposition artificielle
+
+L'historiographie de Vernant et Detienne a contribué à déconstruire l'idée d'un religieux antique enfermé dans un domaine séparé des pratiques civiques et sociales. Le dossier de Sippar confirme l'utilité d'une telle prudence méthodologique, tout en relevant d'une société qui ne doit pas être ramenée aux institutions de la cité grecque.
+
+Il serait simpliste d'opposer un dieu moral à un temple économique ou un pouvoir politique profane à une institution purement sacrée. Les domaines de l'administration, du culte et du crédit se recouvrent dans des formes historiquement spécifiques.
+
+La recherche doit donc maintenir l'identité des catégories indigènes : *mīšarum*, temple, créance, marchand, serment et patrimoine sacré ne sont pas autant de traductions de concepts modernes uniformes.
+
+### 21. Faits attestés, controverses, hypothèses
+
+**Faits étayés :** l'Ebabbar de Sippar était engagé dans une commercialisation de la laine ; une étude de sept tablettes du British Museum a mis en évidence des ventes à crédit, l'intervention d'un *mākisum* nommé Belanum et les effets d'un édit de *mīšarum* de l'an 1 d'Ammi-ditana. L'édit d'Ammiṣaduqa atteste la distinction juridique entre plusieurs classes de dettes. Le décret ptolémaïque P.Tebt. I 5 atteste une autre politique d'amnistie sélective.
+
+**Controverses et limites :** l'enchaînement exact de chaque créance, les taux de perte et les clauses des tablettes nouvellement étudiées exigent l'accès à leur édition complète ; il serait fautif de proposer ici des restitutions de signes cunéiformes non contrôlées. La portée générale des montages de contournement reste discutée.
+
+**Hypothèse testable :** lorsqu'un pouvoir distingue les dettes effaçables des créances maintenues, il produit une incitation à la requalification des obligations. Cette incitation ne devient une fraude attestée que lorsque des documents ou des décisions démontrent sa mise en œuvre.
+
+### 22. Conclusion
+
+La dette sacrée n'est ni absolument intouchable ni purement fictive. Elle appartient à un ordre où des agents administrent les biens d'une divinité, des marchands interviennent et un roi peut restructurer les obligations en invoquant la justice. Le conflit naît lorsque la protection du débiteur rencontre les recettes dont dépend l'institution cultuelle.
+
+Le dossier de Sippar approfondit donc la série MYTHOS en déplaçant la question : non plus seulement « qui peut annuler ? », mais « qui supporte l'annulation, comment le sait-on et quelles formes documentaires permettent de contester son champ ? ».
+
+### Sources primaires et corpus à consulter
+
+1. **Édit d'Ammiṣaduqa** : J. J. Finkelstein, « The Edict of Ammisaduqa », dans J. B. Pritchard (dir.), *Ancient Near Eastern Texts Relating to the Old Testament*, 3e éd. avec supplément, Princeton University Press, 1969, p. 526–528 (traduction) ; J. J. Finkelstein, « The Edict of Ammisaduqa: A New Text », *Revue d'assyriologie* 63 (1969), p. 45–64. Les sections sur les avances de commerce, les stipulations additionnelles et les personnes libérées sont à confronter à la version publiée.
+2. **Corpus de Sippar** : sept tablettes du British Museum publiées et discutées par T. Nicolas [R1] ; les numéros d'inventaire et les translittérations ne sont pas attribués de mémoire.
+3. **P.Tebt. I 5**, décret de 118 av. notre ère, édition et traduction dans *Select Papyri*, II, n° 210 ; reproduction du texte anglais : https://attalus.org/docs/select2/p210.html ; notice de Berkeley : https://digicoll.lib.berkeley.edu/record/231521.
+
+### Bibliographie universitaire vérifiée
+
+- **[R1] T. Nicolas**, « Quelques inédits du British Museum concernant le commerce de la laine à Sippar, le sceau de Belanum, un percepteur-*mākisum* et l'écriture des édits de *mīšarum* à l'époque paléo-babylonienne tardive », *Revue d'assyriologie et d'archéologie orientale* 119/1 (2026), p. 71–91. Notice et résumé bibliographiques : https://bastion.eurekamag.com/research/108/900/108900010.php. **Portée de la vérification : résumé scientifique, non texte intégral ni planches.**
+- **[R2] F. R. Kraus**, *Königliche Verfügungen in altbabylonischer Zeit*, Leiden, Brill, 1984.
+- **[R3] Cristina Simonetti**, « The Edicts of Debt Remission: A Political Tool of Economic Intervention », dans *Ancient Economies in Comparative Perspective*, Springer, 2022, p. 283–293, DOI : 10.1007/978-3-031-08763-9_15 ; notice https://ideas.repec.org/h/spr/frochp/978-3-031-08763-9_15.html.
+- **[R4] Dominique Charpin**, *Writing, Law, and Kingship in Old Babylonian Mesopotamia*, trad. Jane Marie Todd, University of Chicago Press, 2010, spécialement p. 83–96 sur les édits.
+- **[R5] Marcelo Rede**, « Les vendeurs et la vente de biens immeubles en Babylonie ancienne », *RES Antiquitatis* 1 (2010), p. 155–179, DOI : 10.34619/opul-wn7s ; https://revistas.fcsh.unl.pt/res/article/view/552.
+- **[R6] Gabriella Spada**, « “Its interest is a food offering”: Old Babylonian temple loans with the *maš₂ mākālum* formula », *Rivista degli Studi Orientali* 95/3 (2022), p. 89–101, DOI : 10.19272/202203803006 ; https://iris.uniroma1.it/handle/11573/1670374.
+- **[R7] Émile Durkheim**, *Les Formes élémentaires de la vie religieuse*, 1912.
+- **[R8] G. W. F. Hegel**, *Principes de la philosophie du droit*, 1821.
+- **[R9] Friedrich Nietzsche**, *La Généalogie de la morale*, II, 1887.
+- **[R10] Jean-Pierre Vernant** et **Marcel Detienne**, études sur les catégories institutionnelles et religieuses grecques ; comparaisons analytiques seulement, non sources du dossier de Sippar.
+
+*Renvoi éditorial : à rapprocher des études MYTHOS sur les patrimoines des temples, les créances de Délos et l'édit d'Ammiṣaduqa. Ce chapitre n'annonce et ne réserve aucun numéro suivant.*

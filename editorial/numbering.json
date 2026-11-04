@@ -267,6 +267,30 @@
           "path": "chapitres/origines-du-sacre/616-epidaure-stele-sanctions-pasiteles-perillos-confiscations.md",
           "request_sha256": "c31d73c14ec2086447c64f8f6dae8afc5eddba5fb2c44466045138761ac60d99",
           "initial_source_sha256": "10776c96b16378cc0f27df3ab667bdde636beb4250bdbfde3313a71c71464c64"
+        },
+        "23f5de9c-2a50-4da8-b274-d155d14b6ea1": {
+          "number": 617,
+          "path": "chapitres/origines-du-sacre/617-panas-espmetis-thebes-comptes-demotiques-pret-prive-pretres.md",
+          "request_sha256": "eeabc40dd30e067a6191513a651039fb250b0c287bbced8431bb6465e46cbc70",
+          "initial_source_sha256": "7becfa85274376c69ae3b92e29ffcb93d5dea8842a4da2cc75b6e9d70125cd0b"
+        },
+        "2d8044f1-50b2-43cd-aaa7-40f673026c12": {
+          "number": 618,
+          "path": "chapitres/origines-du-sacre/618-ammisaduqa-misarum-andurarum-effacement-creances.md",
+          "request_sha256": "61014e304cba64976f88745a789e0ed52355214e956ba4e64d1ef0ba05aecd25",
+          "initial_source_sha256": "86317327458a2029bfb1264dcc5853cf61508338e32422a1fc08a5b76a368e10"
+        },
+        "8a3ea531-2343-4666-a7f2-a6374945e937": {
+          "number": 619,
+          "path": "chapitres/origines-du-sacre/619-solon-seisachtheia-shemittah-jubile-detresse-et-liberation.md",
+          "request_sha256": "edcc847ca2c7b66329cdf820a12de89234d8ec2e08b55f7b153a6374a7bf4dd5",
+          "initial_source_sha256": "7cd6950063543d1aa51be482c42f19d841e3662e20605913354705a0f3b71797"
+        },
+        "9c6f4e72-0dc1-41d7-9e6e-7accb3cf42b7": {
+          "number": 620,
+          "path": "chapitres/origines-du-sacre/620-sippar-laine-shamash-misarum-ammi-ditana-creances.md",
+          "request_sha256": "af0619df6c49264ffd088780c90ba87545a81b605d4f50ad7f2eec73330a368b",
+          "initial_source_sha256": "681738aaa213e292c1d339f4d7ce14fa1b2fadcbac11380e8c9649437a67ee2f"
         }
       }
     },
@@ -520,6 +544,12 @@
           "path": "chapitres/encyclopedie/chapitre-389-hebe-jeunesse-heracles-phlionte-asylie-cultes-art-philosophie.md",
           "request_sha256": "f2ca2c500a47113f6bccf438d4eadaaf585360952b4cf8b60134f75c62a50507",
           "initial_source_sha256": "c29aacf91276e8080c6280c8b8594ce1c42a02a3a45f323d849e5cacc4d1bcab"
+        },
+        "8a3b77a6-63d8-4fbf-a925-2370e1fc4062": {
+          "number": 390,
+          "path": "chapitres/encyclopedie/chapitre-390-kairos-occasion-juste-moment-olympie-lysippe-art-action-philosophie.md",
+          "request_sha256": "04de48344ad33343a7124a4d8d6546b34f869ab4c124742664f149c431bf6d0d",
+          "initial_source_sha256": "86b06c861f84d81eebb14cc827e7350f63b3156745b09eaff148bc5d7577f419"
         }
       }
     },
@@ -664,6 +694,42 @@
           "path": "chapitres/comedies/volume-072-ameipsias-komastai-kosmos-concours-414-fete-politique.md",
           "request_sha256": "8666652c0bf9ab59dd53f55fcfc0feae6eafc6b2a93066b9eca0873182f289d3",
           "initial_source_sha256": "f86f3a81fbf30bd1c0558bfe521e8f4ea06f4833cadff6d2c1cfcb9854a112e7"
+        },
+        "2f5b8c71-6d43-4a90-b2e7-9c1f3d6a5b84": {
+          "number": 73,
+          "path": "chapitres/comedies/volume-073-ameipsias-sphendone-jeu-des-armes-banquet-des-riches.md",
+          "request_sha256": "582ebeeedb2986081436dbf8c42eb9b7bc607f248af71bf379fc052b20b8bad3",
+          "initial_source_sha256": "0c3bbb9973883ba26d94dca5399d532e14ca408378f504623fd111af31c2a150"
+        },
+        "54b720e9-3ac4-47de-857a-b6320f94c1e8": {
+          "number": 74,
+          "path": "chapitres/comedies/volume-074-iphigeron-apollophanes-strattis-attribution-vieillesse-corps-parente.md",
+          "request_sha256": "9b54dfd8e6ffb9874d063ce62e9c9f367b0bc4cac5b3f8c7f56906f0ba2c138c",
+          "initial_source_sha256": "d214911cdfe843e13690774681252e9af49519cbaa5c379a9d684dc993b92a2b"
+        },
+        "74c3b6d2-8e51-4a7f-b930-2d1e6c5f9a84": {
+          "number": 75,
+          "path": "chapitres/comedies/volume-075-apollophanes-dalis-danse-corps-genre-performance.md",
+          "request_sha256": "bc2c45747c0f4909ff23cb7606b25b3f9f138642ff2581b3b21456716f909410",
+          "initial_source_sha256": "6e940aa6163966a9d43deab02386fdd164081cd7c737c2654e8bea6b7a980670"
+        },
+        "9e6d3c21-8b47-4f5a-a290-1c7d4e6f8b53": {
+          "number": 76,
+          "path": "chapitres/comedies/volume-076-ameipsias-sappho-poesie-genre-symposion-reception.md",
+          "request_sha256": "41eb2ed67cc2952e8b2ffc6cccf0350507af09ec7257d940d04bf5195a3e77f5",
+          "initial_source_sha256": "59deb238eaf5dde358762e37831b00eb9e432e4a236a923b4e3d349c1e85245b"
+        },
+        "b1a4d6e8-7c29-4f35-9b60-2e8d1a5c7f43": {
+          "number": 77,
+          "path": "chapitres/comedies/volume-077-ameipsias-katesthion-devoration-patrimoine-banquet-parasite.md",
+          "request_sha256": "5aef04049a3c3b33787c116124300c8cdd0b89d18d9a7b8ec79d9753d035ca8e",
+          "initial_source_sha256": "815ae8ba1c42491f45135ec2e082642a9ba2348360e600312a33b428cd8194fa"
+        },
+        "f4b087e6-92ca-4c31-a76b-815d0fd22940": {
+          "number": 78,
+          "path": "chapitres/comedies/volume-078-ameipsias-apokottabizontes-cottabe-banquet-jeu-justice.md",
+          "request_sha256": "016245ecd108b40b518a017640206ccfe1de9c3a65bae83c12fc19a608f3ad7b",
+          "initial_source_sha256": "a1ffa2ee52c3272f9cc9ffe16a1fdfc5e4049f81e4d726b380a95f70c53487d9"
         }
       }
     },
@@ -838,6 +904,42 @@
           "path": "chapitres/tragedies/volume-ccxii-euripide-phrixos-premier-sacrifice-oracle-nephele.md",
           "request_sha256": "fd12f2ad78cd1b65717b83b58b7540607d8cf1e0307d7123daeb7d71fe1e871e",
           "initial_source_sha256": "5a7a06d0957cc065cc1bc66e5e64a61365b79f49f64dab08da4a1c8946c42609"
+        },
+        "1a7e480c-291d-4cbb-b9b5-7df85d12714a": {
+          "number": 213,
+          "path": "chapitres/tragedies/volume-ccxiii-euripide-temenides-heraclides-temenos-hyrnetho-souverainete.md",
+          "request_sha256": "a0149c7fc28ad50d1efed8e528e9ac5d428fe7c1b4f2ec2e607554d8444e09a0",
+          "initial_source_sha256": "5d95690f315a404bf0a8dbc1a2673beb636886130c6a20cfbf0142fd20d03b48"
+        },
+        "41d8be06-1ce7-4604-8b54-7fe9a16c3d9b": {
+          "number": 214,
+          "path": "chapitres/tragedies/volume-ccxiv-rhadamante-pseudo-euripide-critias-dioscures-honneur-justice.md",
+          "request_sha256": "e1e6fdc038fba8455e9f526d3bbf7d1fc9c2d61837da0d074389fefb2a5e7978",
+          "initial_source_sha256": "873086c00e5fba7f0f2e50fd45fb72494913dd0465d726bff30f8f238f024f76"
+        },
+        "6f7043c0-45e2-48d8-a650-61de9e62c584": {
+          "number": 215,
+          "path": "chapitres/tragedies/volume-ccxv-euripide-ixion-audace-souillure-nephele-roue-justice.md",
+          "request_sha256": "c88f130fe26ea5bb3b19318e5050b69782d2ed0056ac2f1112f6a30b56cd976a",
+          "initial_source_sha256": "2b54af553d408a27490e377e567830cab3e09157eddee278e3a0b40b4c832b1c"
+        },
+        "7bc2976e-14c0-42e8-9dbb-d1cf37a94506": {
+          "number": 216,
+          "path": "chapitres/tragedies/volume-ccxvi-tennes-pseudo-euripide-critias-calomnie-exil-tenedos.md",
+          "request_sha256": "a59caba280eae493b44711fda893670a68493e5ce10621b6df4485dcc0fbe010",
+          "initial_source_sha256": "8a546be845f29c6334537b7a85015950cbcf3cc63e1bf79da16d91035b55f7b8"
+        },
+        "d6b4a95e-8b2a-4e74-a102-68d4cfea3d79": {
+          "number": 217,
+          "path": "chapitres/tragedies/volume-ccxvii-euripide-temenos-heraclides-commandement-partage-chronologie.md",
+          "request_sha256": "3622f44f2058d62a503e12baff5144cd1ba9d8e44d615eebe8cb79e228d586bb",
+          "initial_source_sha256": "b781637b0a164fbe0e67ff4ee1033dd0d0f5eb1a1c40ad1858e4b480b8dbb6a2"
+        },
+        "ddbc4f80-2a75-40ea-92fd-645f22bb9d41": {
+          "number": 218,
+          "path": "chapitres/tragedies/volume-ccxviii-pirithoos-pseudo-euripide-critias-heracles-thesee-eleusis-amitie-justice.md",
+          "request_sha256": "2d69bd061715ca2f5bac5bd0e41e292f8b4b20a3fa6830857497d526af712e72",
+          "initial_source_sha256": "e7d56f58b6976a22c37e328e3aef1cda631eb6b5a8abdec85a58361ac363c9fe"
         }
       }
     },
@@ -1171,6 +1273,54 @@
           "path": "chapitres/comparatif/volume-cxcvi-mc-028-peste-faute-royale-reparation-mursili-oedipe-david-babylone-egypte.md",
           "request_sha256": "0c75af5b82bb87e9dbf925a4754e4b1bfe2f509d17d90f30a921a51093393e26",
           "initial_source_sha256": "0efe9d7184028ddb8291dec20f26370c1dd620c129e176b724b4fdf7417e3c23"
+        },
+        "03b9d287-61fd-4af2-9da8-c26fa0f9e141": {
+          "number": 197,
+          "path": "chapitres/comparatif/volume-cxcvii-acharniens-diplomatie-privee-secession-civique-economie-paix.md",
+          "request_sha256": "1e64ba99021dcb3685c862999475301ddb0887eaafcdb6e20e06b63e5743b9cb",
+          "initial_source_sha256": "f1adc9db5ea44bf40279ff60cbd2d60f5e7c191bbf2f8309b87b9ef94f3f128b"
+        },
+        "39f4c082-7169-4d28-9af8-3db20d8756f1": {
+          "number": 198,
+          "path": "chapitres/comparatif/volume-cxcviii-mc-032-ruse-mensonge-verite-dieux-inanna-adapa-isis-zeus-michee-veda-platon.md",
+          "request_sha256": "f0578c0ca785dda8db3be4ce5104a3ad55bf4506b5fe274dc6f423bba366993d",
+          "initial_source_sha256": "679ec2cbcb5d7a0301f75f6b9bd09693f0da8181aae1783b35ad3ddcb48e08d0"
+        },
+        "43d3d328-0ca9-45d1-b33c-d82cd47fc811": {
+          "number": 199,
+          "path": "chapitres/comparatif/volume-cxcix-mc-031-origine-humanite-travail-argile-sang-service-dieux.md",
+          "request_sha256": "0ea8544e8e5b3b2cb52d9fa8ba2d8967fddee0767ce2b3a501a759fa2c53de91",
+          "initial_source_sha256": "bcd16dfe74fcc000c4f6feaa89c09d5d1db4e71cc3e7651e36a13b183f41c382"
+        },
+        "49df4f83-93d7-46ad-9ee0-cc1033c81404": {
+          "number": 200,
+          "path": "chapitres/comparatif/volume-cc-mc-033-dieux-absents-retour-ordre-telipinu-demeter-amaterasu.md",
+          "request_sha256": "367b61209ba5747cf30653519ed17881b1df63fd04c5517a2af2ca51375e4b4b",
+          "initial_source_sha256": "93dcb635e361b03da88383520c0638e31c8069688c2b4c5b9fa9cc3191bfb371"
+        },
+        "4e87b2c0-9f64-4db8-a7c9-3e551e8a92c6": {
+          "number": 201,
+          "path": "chapitres/comparatif/volume-cci-autorite-feminine-tresor-rites-commun-aristophane.md",
+          "request_sha256": "f7ad065e783d048725fe0277a31de174094fdd0baab336fd3f860fbd1ea5c905",
+          "initial_source_sha256": "a883857d6d243f41f2059abe407ef090cd69bd2e77a8639802e4784c2c7d0422"
+        },
+        "9e6d26ac-74ab-4f0b-89c5-0f0198e41c93": {
+          "number": 202,
+          "path": "chapitres/comparatif/volume-ccii-mc-030-juste-souffrant-theodicee-sumer-babylone-egypte-job-grece-iran.md",
+          "request_sha256": "673b948dd30c29306d24eebc20154f78861abd56ba6dc16c78f197ea7228e02a",
+          "initial_source_sha256": "e4053de7465e27df1128c6ee38e6615db52112b1729ec235c5fd79ce3ab1ef71"
+        },
+        "c0a34f72-1b6d-44e8-8a1e-d9472c50b31f": {
+          "number": 203,
+          "path": "chapitres/comparatif/volume-cciii-parabase-aristophane-poete-conseil-cite-jugement-public.md",
+          "request_sha256": "75f5f681aa443aaabd250cbace971c8a1f295176110178a9e9062501d21126d0",
+          "initial_source_sha256": "7640ba9bee3f16dba5a6ae42b207dfeaa1970b8a07637d5b09c29827f40cc7e3"
+        },
+        "c7423e86-3dbf-448e-9a68-8027f5d6ba43": {
+          "number": 204,
+          "path": "chapitres/comparatif/volume-cciv-mc-034-assemblees-divines-conseils-justice-souverainete-orient-grece.md",
+          "request_sha256": "12aaa8e615d66c8fe89c1cc2e35d5cd7b5fec7813f09c06971166b510dc9e91b",
+          "initial_source_sha256": "e745cef8ebd7df08052f72f26f7c9d478e29ea0e38dafc273c3a99bea1fd8c2f"
         }
       }
     }

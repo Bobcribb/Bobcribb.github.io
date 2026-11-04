@@ -522,6 +522,12 @@
         "url": "/chapitres/encyclopedie/chapitre-389-hebe-jeunesse-heracles-phlionte-asylie-cultes-art-philosophie/",
         "title": "Chapitre 389 — HÉBÉ (Ἥβη)",
         "source": "chapitres/encyclopedie/chapitre-389-hebe-jeunesse-heracles-phlionte-asylie-cultes-art-philosophie.md"
+      },
+      {
+        "number": 390,
+        "url": "/chapitres/encyclopedie/chapitre-390-kairos-occasion-juste-moment-olympie-lysippe-art-action-philosophie/",
+        "title": "Chapitre 390 — KAIROS (Καιρός)",
+        "source": "chapitres/encyclopedie/chapitre-390-kairos-occasion-juste-moment-olympie-lysippe-art-action-philosophie.md"
       }
     ],
     "tragedies": [
@@ -1202,6 +1208,42 @@
         "url": "/chapitres/tragedies/volume-ccxii-euripide-phrixos-premier-sacrifice-oracle-nephele/",
         "title": "Volume CCXII (212) — Euripide, Phrixos I (Φρίξος Αʹ) — La famine, le faux oracle et le sacrifice de l'innocent",
         "source": "chapitres/tragedies/volume-ccxii-euripide-phrixos-premier-sacrifice-oracle-nephele.md"
+      },
+      {
+        "number": 213,
+        "url": "/chapitres/tragedies/volume-ccxiii-euripide-temenides-heraclides-temenos-hyrnetho-souverainete/",
+        "title": "Volume CCXIII (213) — Euripide, Les Téménides (Τημενίδαι) — Retour des Héraclides, légitimité du pouvoir et mémoire des vaincus",
+        "source": "chapitres/tragedies/volume-ccxiii-euripide-temenides-heraclides-temenos-hyrnetho-souverainete.md"
+      },
+      {
+        "number": 214,
+        "url": "/chapitres/tragedies/volume-ccxiv-rhadamante-pseudo-euripide-critias-dioscures-honneur-justice/",
+        "title": "Volume CCXIV (214) — Rhadamante (Ῥαδάμανθυς) — Les Dioscures, les filles promises à l'immortalité et la justice de la réputation",
+        "source": "chapitres/tragedies/volume-ccxiv-rhadamante-pseudo-euripide-critias-dioscures-honneur-justice.md"
+      },
+      {
+        "number": 215,
+        "url": "/chapitres/tragedies/volume-ccxv-euripide-ixion-audace-souillure-nephele-roue-justice/",
+        "title": "Volume CCXV (215) — Euripide, Ixion (Ἰξίων) — L'hôte parjure, la souillure, la fiction d'Héra et la roue de la justice",
+        "source": "chapitres/tragedies/volume-ccxv-euripide-ixion-audace-souillure-nephele-roue-justice.md"
+      },
+      {
+        "number": 216,
+        "url": "/chapitres/tragedies/volume-ccxvi-tennes-pseudo-euripide-critias-calomnie-exil-tenedos/",
+        "title": "Volume CCXVI (216) — Tennès (Τέννης) — Une tragédie d'attribution contestée : calomnie, exil, rupture filiale et mémoire de Ténédos",
+        "source": "chapitres/tragedies/volume-ccxvi-tennes-pseudo-euripide-critias-calomnie-exil-tenedos.md"
+      },
+      {
+        "number": 217,
+        "url": "/chapitres/tragedies/volume-ccxvii-euripide-temenos-heraclides-commandement-partage-chronologie/",
+        "title": "Volume CCXVII (217) — Euripide, Téménos (Τήμενος) — Retour des Héraclides, guerre, justice du commandement et partage du Péloponnèse",
+        "source": "chapitres/tragedies/volume-ccxvii-euripide-temenos-heraclides-commandement-partage-chronologie.md"
+      },
+      {
+        "number": 218,
+        "url": "/chapitres/tragedies/volume-ccxviii-pirithoos-pseudo-euripide-critias-heracles-thesee-eleusis-amitie-justice/",
+        "title": "Volume CCXVIII (218) — Pirithoos (Πειρίθους / Πειρίθοος) — Descendre aux Enfers : la faute de l'ami, la puissance d'Héraclès et la possibilité de la grâce",
+        "source": "chapitres/tragedies/volume-ccxviii-pirithoos-pseudo-euripide-critias-heracles-thesee-eleusis-amitie-justice.md"
       }
     ],
     "comparatif": [
@@ -1976,8 +2018,13 @@
       {
         "number": 183,
         "url": "/chapitres/comparatif/volume-clxxxiii-maat-isfet-justice-verite-ordre-cosmique-desordre-egypte/",
-        "title": "Volume CLXXXIII (183) — Dossier historique MC-025 — Maât et Isfet : justice, vérité, ordre cosmique et désordre dans l’Égypte ancienne",
-        "source": "chapitres/comparatif/volume-clxxxiii-maat-isfet-justice-verite-ordre-cosmique-desordre-egypte.md"
+        "title": "Volume CLXXXIII (183) — MC-025 · référence historique principale — Maât et Isfet : Panorama des sources, sapiences et lectures philosophiques",
+        "source": "chapitres/comparatif/volume-clxxxiii-maat-isfet-justice-verite-ordre-cosmique-desordre-egypte.md",
+        "excerpt": "Sapiences, littérature du désordre, Rekhmirê, CT 1130, comparaisons bibliques et lectures de Hegel, Nietzsche et Ricœur.",
+        "historical_id": "MC-025",
+        "historical_role": "primary",
+        "historical_primary_url": "/chapitres/comparatif/volume-clxxxiii-maat-isfet-justice-verite-ordre-cosmique-desordre-egypte/",
+        "historical_guide_url": "/mythologie-comparee/mc-025-maat-isfet/"
       },
       {
         "number": 184,
@@ -2000,8 +2047,13 @@
       {
         "number": 187,
         "url": "/chapitres/comparatif/volume-clxxxvii-maat-isfet-verite-justice-ordre-cosmique-egypte/",
-        "title": "Volume CLXXXVII (187) — MC-025 — Maât et Isfet : vérité, justice, ordre cosmique et désordre dans l'Égypte ancienne",
-        "source": "chapitres/comparatif/volume-clxxxvii-maat-isfet-verite-justice-ordre-cosmique-egypte.md"
+        "title": "Volume CLXXXVII (187) — MC-025 · étude complémentaire A — Maât et Isfet : Variantes funéraires et Maât sous Akhénaton",
+        "source": "chapitres/comparatif/volume-clxxxvii-maat-isfet-verite-justice-ordre-cosmique-egypte.md",
+        "excerpt": "Complément à MC-025 : Nu et Maiherpri, variations des déclarations, Nany, stèle S d’Akhetaton et quatre lectures de la norme.",
+        "historical_id": "MC-025",
+        "historical_role": "complement",
+        "historical_primary_url": "/chapitres/comparatif/volume-clxxxiii-maat-isfet-justice-verite-ordre-cosmique-desordre-egypte/",
+        "historical_guide_url": "/mythologie-comparee/mc-025-maat-isfet/"
       },
       {
         "number": 188,
@@ -2012,8 +2064,13 @@
       {
         "number": 189,
         "url": "/chapitres/comparatif/volume-clxxxix-mc-025-maat-isfet-justice-verite-desordre-egypte-ancienne/",
-        "title": "Volume CLXXXIX (189) — MC-025 — Maât et Isfet : justice, vérité et désordre dans l’Égypte ancienne",
-        "source": "chapitres/comparatif/volume-clxxxix-mc-025-maat-isfet-justice-verite-desordre-egypte-ancienne.md"
+        "title": "Volume CLXXXIX (189) — MC-025 · étude complémentaire B — Maât et Isfet : Lectures de Ptahhotep, droit et comparaisons orientales",
+        "source": "chapitres/comparatif/volume-clxxxix-mc-025-maat-isfet-justice-verite-desordre-egypte-ancienne.md",
+        "excerpt": "Complément à MC-025 : Prisse 5,8–10 et 6,3–6, Horemheb, OI 12073, Hammurabi §§53–56 et Ṛgveda 10.190.1.",
+        "historical_id": "MC-025",
+        "historical_role": "complement",
+        "historical_primary_url": "/chapitres/comparatif/volume-clxxxiii-maat-isfet-justice-verite-ordre-cosmique-desordre-egypte/",
+        "historical_guide_url": "/mythologie-comparee/mc-025-maat-isfet/"
       },
       {
         "number": 190,
@@ -2056,6 +2113,54 @@
         "url": "/chapitres/comparatif/volume-cxcvi-mc-028-peste-faute-royale-reparation-mursili-oedipe-david-babylone-egypte/",
         "title": "Volume CXCVI (196) — MC-028 — Quand le souverain fait souffrir le pays : peste, faute royale et réparation du monde, de Ḫattuša à Thèbes, Jérusalem, Babylone et l'Égypte",
         "source": "chapitres/comparatif/volume-cxcvi-mc-028-peste-faute-royale-reparation-mursili-oedipe-david-babylone-egypte.md"
+      },
+      {
+        "number": 197,
+        "url": "/chapitres/comparatif/volume-cxcvii-acharniens-diplomatie-privee-secession-civique-economie-paix/",
+        "title": "Volume CXCVII (197) — Les Acharniens d'Aristophane : diplomatie privée, sécession civique, marchés de la paix et épreuve démocratique de la justice",
+        "source": "chapitres/comparatif/volume-cxcvii-acharniens-diplomatie-privee-secession-civique-economie-paix.md"
+      },
+      {
+        "number": 198,
+        "url": "/chapitres/comparatif/volume-cxcviii-mc-032-ruse-mensonge-verite-dieux-inanna-adapa-isis-zeus-michee-veda-platon/",
+        "title": "Volume CXCVIII (198) — MC-032 — Les dieux peuvent-ils tromper ? Ruse divine, mensonge, vérité et souveraineté, de Sumer à Babylone, l'Égypte, la Grèce, Israël et l'Inde védique",
+        "source": "chapitres/comparatif/volume-cxcviii-mc-032-ruse-mensonge-verite-dieux-inanna-adapa-isis-zeus-michee-veda-platon.md"
+      },
+      {
+        "number": 199,
+        "url": "/chapitres/comparatif/volume-cxcix-mc-031-origine-humanite-travail-argile-sang-service-dieux/",
+        "title": "Volume CXCIX (199) — Dossier historique MC-031 — Pourquoi les dieux créent-ils les humains ? Travail, argile, sang, souveraineté et justice de Sumer à la Grèce et à l'Iran ancien",
+        "source": "chapitres/comparatif/volume-cxcix-mc-031-origine-humanite-travail-argile-sang-service-dieux.md"
+      },
+      {
+        "number": 200,
+        "url": "/chapitres/comparatif/volume-cc-mc-033-dieux-absents-retour-ordre-telipinu-demeter-amaterasu/",
+        "title": "Volume CC (200) — MC-033 — Quand les dieux se retirent : Télipinu, Déméter et Amaterasu. Absence divine, crise du monde et rites de rétablissement",
+        "source": "chapitres/comparatif/volume-cc-mc-033-dieux-absents-retour-ordre-telipinu-demeter-amaterasu.md"
+      },
+      {
+        "number": 201,
+        "url": "/chapitres/comparatif/volume-cci-autorite-feminine-tresor-rites-commun-aristophane/",
+        "title": "Volume CCI (201) — Du trésor sacré au gouvernement du commun : femmes, parole publique et pouvoir politique chez Aristophane",
+        "source": "chapitres/comparatif/volume-cci-autorite-feminine-tresor-rites-commun-aristophane.md"
+      },
+      {
+        "number": 202,
+        "url": "/chapitres/comparatif/volume-ccii-mc-030-juste-souffrant-theodicee-sumer-babylone-egypte-job-grece-iran/",
+        "title": "Volume CCII (202) — MC-030 — Pourquoi le juste souffre-t-il ? Innocence, plainte et justice divine dans les littératures sumérienne, babylonienne, égyptienne, biblique, grecque et iranienne",
+        "source": "chapitres/comparatif/volume-ccii-mc-030-juste-souffrant-theodicee-sumer-babylone-egypte-job-grece-iran.md"
+      },
+      {
+        "number": 203,
+        "url": "/chapitres/comparatif/volume-cciii-parabase-aristophane-poete-conseil-cite-jugement-public/",
+        "title": "Volume CCIII (203) — Le poète devant le peuple : la parabase d'Aristophane, le droit de conseiller la cité et les ambiguïtés du rire politique (425–405 avant notre ère)",
+        "source": "chapitres/comparatif/volume-cciii-parabase-aristophane-poete-conseil-cite-jugement-public.md"
+      },
+      {
+        "number": 204,
+        "url": "/chapitres/comparatif/volume-cciv-mc-034-assemblees-divines-conseils-justice-souverainete-orient-grece/",
+        "title": "Volume CCIV (204) — MC-034 — Qui décide parmi les dieux ? Assemblées célestes, justice, conflit et souveraineté en Mésopotamie, Anatolie, Égypte, Grèce et Israël ancien",
+        "source": "chapitres/comparatif/volume-cciv-mc-034-assemblees-divines-conseils-justice-souverainete-orient-grece.md"
       }
     ],
     "comedies": [
@@ -2490,6 +2595,42 @@
         "url": "/chapitres/comedies/volume-072-ameipsias-komastai-kosmos-concours-414-fete-politique/",
         "title": "Volume LXXII (72) — Amipsias, Komastai (Κωμασταί, « Les Fêtards ») — le cômos, le prix de 414, la communauté festive et les limites du savoir historique",
         "source": "chapitres/comedies/volume-072-ameipsias-komastai-kosmos-concours-414-fete-politique.md"
+      },
+      {
+        "number": 73,
+        "url": "/chapitres/comedies/volume-073-ameipsias-sphendone-jeu-des-armes-banquet-des-riches/",
+        "title": "Volume LXXIII (73) — Amipsias, Sphendonê (Σφενδόνη, « La Fronde ») — armes abandonnées, banquet, jeu de dés et dissipation des richesses",
+        "source": "chapitres/comedies/volume-073-ameipsias-sphendone-jeu-des-armes-banquet-des-riches.md"
+      },
+      {
+        "number": 74,
+        "url": "/chapitres/comedies/volume-074-iphigeron-apollophanes-strattis-attribution-vieillesse-corps-parente/",
+        "title": "Volume LXXIV (74) — Iphigérôn (Ἰφιγέρων) — Apollophanès ou Strattis : identité incertaine, vieillesse, violence, langage de la parenté",
+        "source": "chapitres/comedies/volume-074-iphigeron-apollophanes-strattis-attribution-vieillesse-corps-parente.md"
+      },
+      {
+        "number": 75,
+        "url": "/chapitres/comedies/volume-075-apollophanes-dalis-danse-corps-genre-performance/",
+        "title": "Volume LXXV (75) — Apollophanès, Dalis (Δαλίς) — danse, corps, genre et performance dans une comédie perdue",
+        "source": "chapitres/comedies/volume-075-apollophanes-dalis-danse-corps-genre-performance.md"
+      },
+      {
+        "number": 76,
+        "url": "/chapitres/comedies/volume-076-ameipsias-sappho-poesie-genre-symposion-reception/",
+        "title": "Volume LXXVI (76) — Amipsias, Sapphô (Σαπφώ) — poésie archaïque, genre, symposium et fabrication comique d’une biographie",
+        "source": "chapitres/comedies/volume-076-ameipsias-sappho-poesie-genre-symposion-reception.md"
+      },
+      {
+        "number": 77,
+        "url": "/chapitres/comedies/volume-077-ameipsias-katesthion-devoration-patrimoine-banquet-parasite/",
+        "title": "Volume LXXVII (77) — Amipsias, Katesthiôn (Κατεσθίων, « Le Dévoreur » / « Celui qui engloutit ») — banquet, prodigalité, patrimoine et parasite",
+        "source": "chapitres/comedies/volume-077-ameipsias-katesthion-devoration-patrimoine-banquet-parasite.md"
+      },
+      {
+        "number": 78,
+        "url": "/chapitres/comedies/volume-078-ameipsias-apokottabizontes-cottabe-banquet-jeu-justice/",
+        "title": "Volume LXXVIII (78) — Amipsias, Apokottabizontes (Ἀποκοτταβίζοντες) — le cottabe, le banquet et la politique du jeu",
+        "source": "chapitres/comedies/volume-078-ameipsias-apokottabizontes-cottabe-banquet-jeu-justice.md"
       }
     ],
     "origines-du-sacre": [
@@ -3488,6 +3629,30 @@
         "url": "/chapitres/origines-du-sacre/616-epidaure-stele-sanctions-pasiteles-perillos-confiscations/",
         "title": "Chapitre 616 — Réparer le tort fait au dieu : la stèle des sanctions d'Épidaure, la faute des artisans et la confiscation des biens",
         "source": "chapitres/origines-du-sacre/616-epidaure-stele-sanctions-pasiteles-perillos-confiscations.md"
+      },
+      {
+        "number": 617,
+        "url": "/chapitres/origines-du-sacre/617-panas-espmetis-thebes-comptes-demotiques-pret-prive-pretres/",
+        "title": "Chapitre 617 — Le prêtre et les débiteurs : Panas fils d'Espmetis, les comptes démotiques de Thèbes et les garanties du crédit privé",
+        "source": "chapitres/origines-du-sacre/617-panas-espmetis-thebes-comptes-demotiques-pret-prive-pretres.md"
+      },
+      {
+        "number": 618,
+        "url": "/chapitres/origines-du-sacre/618-ammisaduqa-misarum-andurarum-effacement-creances/",
+        "title": "Chapitre 618 — Le roi défait la dette : les édits de mīšarum, l’andurārum et la restauration de la justice en Babylonie ancienne",
+        "source": "chapitres/origines-du-sacre/618-ammisaduqa-misarum-andurarum-effacement-creances.md"
+      },
+      {
+        "number": 619,
+        "url": "/chapitres/origines-du-sacre/619-solon-seisachtheia-shemittah-jubile-detresse-et-liberation/",
+        "title": "Chapitre 619 — Secouer les fardeaux, proclamer la libération : Solon, la šemiṭṭā biblique et le jubilé entre loi, terre et autorité divine",
+        "source": "chapitres/origines-du-sacre/619-solon-seisachtheia-shemittah-jubile-detresse-et-liberation.md"
+      },
+      {
+        "number": 620,
+        "url": "/chapitres/origines-du-sacre/620-sippar-laine-shamash-misarum-ammi-ditana-creances/",
+        "title": "Chapitre 620 — Vendre à crédit sous un édit de justice : Sippar, la laine du temple de Šamaš et les remises de dettes d'Ammi-ditana",
+        "source": "chapitres/origines-du-sacre/620-sippar-laine-shamash-misarum-ammi-ditana-creances.md"
       }
     ]
   },
