@@ -785,6 +785,12 @@
           "path": "chapitres/comparatif/volume-clxvi-marilyn-strathern-personnes-relationnelles-genre-du-don-connexions-partielles.md",
           "request_sha256": "936159e21900be39710344507857581af45421fc50f2de7856d5bb96aeb5c1fc",
           "initial_source_sha256": "972da32fe155e256e07baad9d6233555d61e90e67084c03678c11001aa4a97e0"
+        },
+        "6bc0d8e9-75a2-44c9-b861-8fe734c0a2b5": {
+          "number": 167,
+          "path": "chapitres/comparatif/volume-clxvii-annette-weiner-possessions-inalienables-don-richesses-feminines-memoire.md",
+          "request_sha256": "22a277ed2d59c5dffbe68043b13791d0dabf071397a9cd40c188a1b2a2fe0ecb",
+          "initial_source_sha256": "17b47d7f427e2e0f5b1206ac542f6056bc581a4b954a5388a693230dfc77f4fe"
         }
       }
     }

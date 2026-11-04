@@ -1,31 +1,11 @@
 {
   "status": "passed",
-  "indexed_entries": 1157,
-  "pages_scanned": 1203,
-  "readers_equipped": 839,
-  "links_checked": 86605,
+  "indexed_entries": 1158,
+  "pages_scanned": 1204,
+  "readers_equipped": 840,
+  "links_checked": 86592,
   "new_navigation_errors": [],
   "legacy_link_issues": [
-    {
-      "page": "/sites/dodone.html",
-      "url": "/reconstitutions-3d.html#dod-002",
-      "problem": "ancre absente"
-    },
-    {
-      "page": "/sites/egine-aphaia.html",
-      "url": "/reconstitutions-3d.html#aeg-001",
-      "problem": "ancre absente"
-    },
-    {
-      "page": "/sites/egine-aphaia.html",
-      "url": "/reconstitutions-3d.html#aeg-002",
-      "problem": "ancre absente"
-    },
-    {
-      "page": "/sites/bassae.html",
-      "url": "/reconstitutions-3d.html#bas-002",
-      "problem": "ancre absente"
-    },
     {
       "page": "/corpus/origines-du-sacre/edition-integrale-tomes-I-XXVII.html",
       "url": "#top",
