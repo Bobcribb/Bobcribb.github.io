@@ -503,7 +503,8 @@ CSS = '''
 .greek-folder-toc a{display:flex;align-items:center;min-height:44px;box-sizing:border-box;padding:.7rem 1rem;border:1px solid #8b724d;border-radius:5px;color:#ead3a9;text-decoration:none;line-height:1.45;overflow-wrap:anywhere}
 .greek-folder-links{list-style:none;padding:0;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:.8rem 1.6rem}
 .greek-folder-links li{padding:.65rem 0;border-bottom:1px solid #57472f;min-width:0}
-.greek-folder-links a{display:block;color:#f0dfc0;overflow-wrap:anywhere;line-height:1.5}
+.greek-folder-links a{display:flex;align-items:center;min-height:44px;padding:.35rem 0;color:#f0dfc0;overflow-wrap:anywhere;line-height:1.5;text-underline-offset:.2em}
+.greek-folder-links a:hover{color:#ffe4b1;text-decoration-thickness:2px}
 .greek-folder-links small{display:block;color:#bfb39a;font:.78rem/1.5 system-ui;margin-top:.3rem}
 .greek-folder-breadcrumb{margin:0 0 1.4rem;padding:.8rem 0;color:#dec18d;font-size:.9rem;line-height:1.7;overflow-wrap:anywhere}
 .greek-folder-breadcrumb .greek-folder-return-topic{color:#f0d29a;text-decoration:underline;text-underline-offset:3px}
