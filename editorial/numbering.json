@@ -1042,6 +1042,12 @@
           "path": "chapitres/comedies/volume-090-nikochares-agamemnon-cassandre-prophetie-paratragedie-verite-oracle.md",
           "request_sha256": "d985a42546a3786b5aa810ae6579be2ed9467ecf170e28ad7489618b929ef0b4",
           "initial_source_sha256": "d3486966566211da28ba355cf116bb151d42863a81430220a12e9abe48f80e8f"
+        },
+        "f3c8ab61-4a57-42cc-b809-23eda917500d": {
+          "number": 91,
+          "path": "chapitres/comedies/volume-091-nikochares-galateia-polypheme-dithyrambe-philonides-cumin-nereides.md",
+          "request_sha256": "51b47378599958a76ec81dc7e1067ad3e3c89c818f9b5fea9a3a7a2c40363434",
+          "initial_source_sha256": "5688efccce70ccc612c3fb56c114bb00b3712e99bd7a75b6b234a94bd8a1ac04"
         }
       }
     },
@@ -1897,6 +1903,12 @@
           "path": "chapitres/comparatif/volume-ccxxxii-mc-052-detourner-le-mal-namburbi-roi-substitut-peste-hittite-azazel-pharmakos-execration.md",
           "request_sha256": "ff05821f83a744e9f6d7b1a939022b778809465101be2322cc2b4ffd107ab5bb",
           "initial_source_sha256": "bbf1b711e1eac1df7bf2a268384c09e4e3014f0ff799fa627a8ff15f9e827011"
+        },
+        "a6d8e75b-69f3-4e0b-8a58-0ad49573c053": {
+          "number": 233,
+          "path": "chapitres/comparatif/volume-ccxxxiii-mc-053-soigner-guerir-echouer-medecine-pronostic-responsabilite-dieux-egypte-mesopotamie-grece-inde.md",
+          "request_sha256": "1f51abec9d073e7a719dd98c158fb880c4732f888af35eee146d70298d9eaa23",
+          "initial_source_sha256": "0eeb2a2bf8c31c84287b07e1b55ac8173e7f0a4b1c2a9341a3b91365c294b2c9"
         }
       }
     }

@@ -3,9 +3,9 @@
     "groups": 1,
     "protected_manuscripts": 3
   },
-  "source_commit": "967c314747baaeec8aa8c61e80797457b16cbb54",
-  "github_run_id": "41874924276",
-  "indexed_documents": 1356,
+  "source_commit": "4b4cc6c3874398cd6c8b7e638e493cc8707381fb",
+  "github_run_id": "41877974591",
+  "indexed_documents": 1358,
   "verified_archives": 27,
   "verified_media": 110,
   "preserved_source_sha256": {
@@ -25,5 +25,5 @@
     "chapitres/origines-du-sacre/580-naufrages-secours-divins-survivants.md": "7bdf15b85439d398c4bae664ed1e3b751b6234581fc4486c9b3c011c8a8ead49"
   },
   "last_numbered_chapter": 640,
-  "numbering_registry_sha256": "3f264a69f210f98712faf3d4115f4a8daba49159a7c0aae20da7764277e9a868"
+  "numbering_registry_sha256": "98e983f1e029f3557ae5693b9fe595e31b43aac83ca967102e48e2650823061e"
 }

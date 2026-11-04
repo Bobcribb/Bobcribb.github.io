@@ -1,9 +1,15 @@
 {
   "status": "passed",
-  "indexed_entries": 1356,
-  "pages_scanned": 1413,
-  "readers_equipped": 975,
-  "links_checked": 118776,
+  "indexed_entries": 1358,
+  "pages_scanned": 1415,
+  "readers_equipped": 977,
+  "links_checked": 119011,
   "new_navigation_errors": [],
-  "legacy_link_issues": []
+  "legacy_link_issues": [
+    {
+      "page": "/chapitres/comedies/volume-091-nikochares-galateia-polypheme-dithyrambe-philonides-cumin-nereides/index.html",
+      "url": "/comedies-grecques/",
+      "problem": "fichier absent"
+    }
+  ]
 }

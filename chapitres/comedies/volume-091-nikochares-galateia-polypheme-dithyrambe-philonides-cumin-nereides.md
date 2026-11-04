@@ -1,0 +1,474 @@
+# MYTHOS — Encyclopédie universitaire des comédies grecques — Volume XCI (91)
+
+## Nicocharès, *Galateia* (Γαλάτεια) : Polyphème amoureux, dithyrambe, éducation, condiment et satire athénienne
+
+**Étude intégrale originale — 4 novembre 2026.** Ancienne comédie à la charnière des Ve et IVe siècles ; Néréides, Cyclopes, poésie musicale, société du banquet, jeu entre mythe et actualité civique, érudition des lexicographes ; confrontation méthodique des quatre fragments **3–6 K.-A.**, des témoignages d'Aristophane, de Philoxénos, de la comédie mythologique et des débats philologiques.
+
+**Code probatoire.** **[A]** = fragments et témoignages dont la source est identifiable, leçons et attestations exactement distinguées de leurs interprétations. **[B]** = hypothèses sur la représentation, comparaisons, interprétations philosophiques et historiographiques ou scénario plausible sans preuve directe. **[C]** = théâtre original rédigé pour MYTHOS en 2026, et non paroles de Nicocharès ni reconstitution ancienne assurée. Le passage d'une catégorie à une autre est signalé à chaque étape.
+
+**Source critique principale directement consultée et contrôlée :** Christian Orth, *Nikochares – Xenophon. Einleitung, Übersetzung, Kommentar*, **Fragmenta Comica 9.3**, Heidelberg, 2015, **p. 42–58**, texte et commentaires accessibles à https://digi.hadw-bw.de/view/frc9_3/0047 jusqu'à https://digi.hadw-bw.de/view/frc9_3/0063 ; DOI https://doi.org/10.11588/diglit.52132. Cette édition, et non une fiche généraliste sur les Cyclopes, fonde le classement, la transmission et l'analyse grammaticale. Les textes des quatre fragments sont reformulés en français avec quelques **lemmes grecs limités** ; il ne s'agit pas d'une nouvelle collation de manuscrits.
+
+**Règle d'identification et de publication.** *Galateia* de **Nicocharès** n'est pas *Galateia* d'**Alexis**, ni le ***Kyklōps*** d'**Antiphanès**, ni le dithyrambe ***Kyklōps ou Galateia*** de **Philoxénos de Cythère**, ni le ***Cyclope***, drame satyrique d'**Euripide**, ni les idylles de **Théocrite**. Aucune de ces œuvres n'est transférée dans le corpus de Nicocharès. Le présent volume reçoit uniquement le numéro que GitHub Actions lui attribuera par reçu ; les anciens repères XIII/XIV ne réservent rien.
+
+**Navigation scientifique.** [Nicocharès, *Agamemnon* — étude antérieure dans la file](https://github.com/Bobcribb/Bobcribb.github.io/blob/main/editorial/inbox/e7c2e458-6c43-4b71-96b5-d72ca83df409.json) ; [Nicocharès, *Amymoné / Pélops* — étude antérieure dans la file](https://github.com/Bobcribb/Bobcribb.github.io/blob/main/editorial/inbox/a8de0b17-55d4-46d9-93cb-0470f2d6e2ac.json) ; [Archippos, *Amphitryon I et II*, volume LXXXVII](/chapitres/comedies/volume-087-archippos-amphitryon-deux-versions-identite-vin-langage-coupe/) ; [Comédies grecques](/comedies-grecques/) ; [Théâtre grec](/theatre/). Les deux premiers renvois ciblent leur **fichier GitHub effectivement enregistré** : ne pas inventer d'URL canonique pour des reçus encore absents.
+
+---
+
+# I. Transmettre et identifier une comédie presque perdue
+
+## 01. [A] Une œuvre attestée, pas un récit continu
+
+Le titre **Γαλάτεια**, « Galatée », figure parmi les comédies de Nicocharès. Quatre fragments indexés **3, 4, 5 et 6 K.-A.** constituent le dossier de l'œuvre dans Orth 2015, p. 42–58. La matière subsiste grâce à des citations de savants beaucoup plus tardifs : **Pollux**, des **scholies à Aristophane**, **Photios** et le **Lexicon Messanense**. Chacun s'intéressait à un mot, un usage ou une allusion, non au déroulement complet du théâtre attique. Le constat doit gouverner tout ce qui suit : les témoins nous donnent des éclats hétérogènes, pas une succession de scènes que le lecteur pourrait simplement remettre dans l'ordre.
+
+## 02. [A] Les quatre unités textuelles ne sont pas quatre actes
+
+Le numéro K.-A. est un **numéro d'édition**, non une chronologie dramatique. Le fr. 3 décrit un récipient destiné au cumin ou aux condiments ; le fr. 4 compare un personnage à **Philonidès du dème de Mélitè** ; le fr. 5 conserve deux épithètes, « illettré » et « paresseux » ; le fr. 6 n'apporte qu'une **forme linguistique liée aux Néréides**. Il n'existe pas de preuve de leur contiguïté. Pour éviter un faux roman ancien, la présente étude analyse d'abord la transmission, puis la poétique et, seulement à titre [B], les différentes configurations scéniques possibles.
+
+## 03. [A] Le témoin biobibliographique et la chronologie de carrière
+
+La **Souda ν 407** décrit Nicocharès, fils du poète comique **Philonidès**, actif dans la génération d'Aristophane. La date sûre de **388 av. J.-C.** concerne sa ***Lakônes* (« Les Spartiates »)**, attestée par les notices anciennes relatives au concours du *Ploutos* d'Aristophane. Ce dossier ne permet pas de dater mécaniquement *Galateia* de la même année. Il fournit une borne historique sur la carrière et le milieu comique, distincte des hypothèses sur l'influence de Philoxénos.
+
+## 04. [A] Quatre témoins, quatre raisons de citer
+
+**Pollux X, 93** conserve le fr. 3 pour désigner un **contenant d'aromates** ; les **scholies à Aristophane, *Ploutos* 179 et 304**, donnent le fr. 4 pour éclairer le nom de **Philonidès** ; **Photios α 1552**, relayant un débat de l'atticiste **Phrynichos**, conserve le fr. 5 pour défendre un mot jugé suspect ; le **Lexicon Messanense, fol. 281r, lignes 10–15**, transmet le fr. 6 dans une analyse de **contractions vocaliques**. Ces objectifs d'érudits expliquent pourquoi une pièce sur une Néréide ne nous a laissé presque rien de son intrigue amoureuse supposée.
+
+## 05. [A] L'édition moderne comme outil, non comme témoin antique
+
+Dans **PCG VII (1989), p. 41–43**, Kassel et Austin éditent les fragments ; dans **FrC 9.3 (2015), p. 42–58**, Christian Orth examine l'établissement du texte et les hypothèses dramatiques. Il distingue notamment les fragments **3 et 4**, qui possèdent du contexte grammatical ou métrique relativement riche, des fragments **5 et 6**, conservés à l'état de très courtes citations. La littérature antérieure de Meineke, Kock, Holland, Schmid, Dörrie, Casolari et Mangidis apparaît dans la discussion ; nous ne devons pas leur attribuer une vision unanime de la pièce.
+
+## 06. [A] Une héroïne nommée d'après la mer
+
+**Galatée** appartient aux **Néréides**, filles du dieu marin **Nérée**. Le nom figure dans **Homère, *Iliade* XVIII, 45**, et **Hésiode, *Théogonie* 250**. Ces mentions attestent le personnage mythique avant les comédies de la fin du Ve et du début du IVe siècle. Elles ne racontent pas encore l'idylle avec Polyphème telle que la tradition littéraire ultérieure l'a fixée. Le titre lui-même ne garantit ni la présence de la Néréide comme protagoniste parlant, ni sa psychologie, ni un dénouement amoureux.
+
+## 07. [B] Le passage d'un nom mythique à une héroïne comique
+
+Une comédie intitulée *Galateia* pouvait rendre une Néréide plus individuelle que ne le font les listes généalogiques. Le théâtre pourrait lui donner une voix, une préférence, un refus ou une stratégie relationnelle. Mais **aucun fragment n'énonce « Galatée dit… »**. Il faut donc distinguer la centralité nominale de l'héroïne et son rôle scénique supposé. L'hypothèse d'une femme éduquant un monstre repose sur une tradition de commentaires, non sur une distribution antique transmise.
+
+## 08. [A] La mention d'une autre *Galateia*
+
+Le poète **Alexis** a aussi écrit une ***Galateia*** : **Alexis fr. 37 K.-A.**, transmis par Athénée, concerne notamment des études philosophiques auprès d'**Aristippe de Cyrène**. Ce renseignement ne figure pas dans les fragments **3–6 de Nicocharès**. Il éclaire la manière dont plusieurs comédies peuvent traiter un même matériau mythologique et s'intéresser à la formation du Cyclope. Les œuvres doivent conserver auteurs, numéros de fragments, témoins et chronologies propres.
+
+## 09. [A] Antiphanès et le *Cyclope*
+
+Les ***Kyklōps*** d'**Antiphanès**, avec les **frr. 130–131 K.-A.**, sont fréquemment rapprochés du couple Polyphème–Galatée. Orth rappelle toutefois que l'interprétation d'un repas ou de préparatifs nuptiaux est **contestée**, notamment par Gelli : une scène de transaction avec Ulysse est aussi possible, à comparer à **Euripide, *Cyclope* 133–140 et 188–192**. L'homonymie des êtres mythiques n'est pas une identité de scènes. Aucune citation d'Antiphanès ne devient un vers de Nicocharès.
+
+## 10. [A] Le drame satyrique d'Euripide
+
+Le ***Cyclope*** d'**Euripide** représente Polyphème sous le signe de la force, du repas, du vin, de l'opposition aux normes humaines et de la confrontation avec **Ulysse**. Des passages tels que **Eur. *Cycl.* 488–493** décrivent la difficulté à « éduquer » le Cyclope. Ce parallélisme aide à comprendre un mot comme **ἀπαίδευτος**, « dépourvu de formation », mais il ne prouve pas que Nicocharès ait monté une imitation de l'épisode d'Ulysse, ni que son Cyclope chante sur scène.
+
+# II. Philoxénos, Aristophane et la chronologie de l'invention
+
+## 11. [A] Le dithyrambe *Kyklōps ou Galateia*
+
+**Philoxénos de Cythère** composa un dithyrambe connu sous les titres ***Kyklōps* et *Galateia***, classé dans les **PMG 815–824**. C'est un moment décisif de l'histoire littéraire du Polyphème amoureux. Le Cyclope ne se réduit plus au monstre anthropophage affronté par Ulysse : il peut désirer la Néréide et investir dans l'expression musicale. Les témoignages du récit, dispersés dans des scholies, chez Athénée et dans des traditions tardives, ne donnent toutefois pas un livret intégral comparable à la pièce d'Euripide.
+
+## 12. [A] Aristophane, *Ploutos* 290–301
+
+Dans le ***Ploutos*** représenté en **388 av. J.-C.**, **Aristophane** parodie le dithyrambe de Philoxénos : la figure du Cyclope, la musique et la modalité du chant sont reconnaissables. Le passage donne un **terminus ante quem** pour la diffusion du modèle philoxénéen : il était connu avant le concours de 388. En revanche, l'existence de cette parodie ne signifie pas que *Galateia* de Nicocharès ait été produite précisément en 388, ni qu'elle ait copié mot à mot les vers d'Aristophane.
+
+## 13. [A/B] Une date proposée avec ses conditions
+
+Orth retient pour *Galateia* une datation **probablement autour de 388 av. J.-C.** : si Philoxénos a réellement popularisé le premier l'amour de Polyphème et Galatée, et si Nicocharès traite précisément cet amour, la comédie serait postérieure au dithyrambe, lui-même antérieur à 388. Cela situe plausiblement l'œuvre **à la fin des années 390 ou dans les années 380 av. J.-C.**. Les deux « si » sont essentiels ; les transformer en un calendrier de concours assuré reviendrait à faire d'une inférence un document d'archive.
+
+## 14. [A] Les récits de la disgrâce de Philoxénos
+
+**Athénée I, 6e–7a**, citant **Phainias fr. 13 Wehrli**, rapporte une tradition où Philoxénos aurait été jeté dans les carrières par **Denys Ier de Syracuse**, après une rivalité autour d'une femme nommée Galatée, puis aurait composé son *Cyclope*. Le récit associe le tyran à Polyphème et le poète à Ulysse. D'autres traditions, dont **Diodore XV, 6, 2–5**, expliquent autrement la disgrâce du poète, notamment par des propos trop libres sur les vers du tyran. La biographie anecdotique ne saurait être adoptée sans examen.
+
+## 15. [B] L'allégorie politique n'est pas une preuve biographique
+
+Qu'un récit tardif identifie Denys à Polyphème ne prouve pas que le poème ait été conçu comme **allégorie historique intégrale**, où chaque personnage corresponde de façon fixe à une personne réelle. La lecture allégorique peut elle-même provenir du poème et avoir généré une anecdote biographique rétrospective. Les histoires sur un poète puni dans les carrières sont des traditions à critiquer, et non une autorisation pour déclarer que chaque Cyclope athénien renverrait à Denys.
+
+## 16. [A] Deux motifs qui se croisent : musique et amour
+
+Dans le dossier de Philoxénos, **Polyphème** est associé au jeu d'un instrument, souvent présenté comme une **cithare** dans les commentaires à **Aristophane, *Ploutos* 290c**, et à une tentative de séduire Galatée. Le rire de la comédie peut naître de la disproportion entre un corps cyclopéen et les raffinements d'une performance musicale. Mais les **frr. 3–6 de Nicocharès n'attestent aucun instrument** : la cithare appartient au comparandum philoxénéen et à la parodie d'Aristophane.
+
+## 17. [A] L'origine du mythe amoureux demeure discutée
+
+Une scholie à **Théocrite VI** reprend une tradition attribuée à **Douris** selon laquelle Philoxénos aurait inventé cette histoire pour expliquer un sanctuaire de Galatée auprès de l'Etna. L'information tardive est intéressante pour l'histoire de la réception, mais un **récit d'invention** n'exclut pas l'existence de traditions antérieures non conservées. Affirmer sans réserve que Philoxénos a créé ex nihilo l'amour du Cyclope est trop fort ; dire qu'il en représente un témoin ancien majeur est sûr.
+
+## 18. [A] Théocrite et Lucien : réception, non sources de la pièce
+
+**Théocrite, *Idylle* XI**, fait chanter le Cyclope amoureux de Galatée et traite la poésie comme remède, tandis que **Lucien, *Dialogues marins* I**, propose une forme dialoguée tardive. Ces textes montrent la vitalité d'un motif devenu durable. Ils sont **postérieurs** à Nicocharès : leur langue et leurs scènes ne peuvent lui être rétroattribuées. Une comparaison méthodique examine ce que l'image de Polyphème amoureux permet, sans prétendre que la comédie perdue annonçait tous les détails de Théocrite.
+
+## 19. [B] Parodie du dithyrambe ou monde amoureux autonome ?
+
+Deux modèles interprétatifs restent ouverts. Selon le premier, Nicocharès aurait parodié une mode musicale représentée par Philoxénos : le monstre essaierait d'adopter la langue raffinée d'un chant amoureux. Selon le second, la pièce utiliserait simplement un mythe devenu populaire pour explorer la cour, les cadeaux, l'éducation ou l'appétit. Les **frr. 3–5** se prêtent aux deux lectures, et rien n'impose de choisir un « genre principal » à partir de trois citations lexicales.
+
+## 20. [B] Une esthétique de la disproportion
+
+Le comique pourrait croître du contraste entre **grandeur physique** du Cyclope, **fragilité du désir**, **raffinement d'un objet minuscule** et **prétention d'une parole élevée**. On retrouve une structure de disproportion particulièrement accessible aux comiques : un être immense s'inquiète de détails insignifiants. Cette structure est une interprétation d'ensemble, non un témoignage antique sur les mimiques, la scénographie ou les masques de *Galateia*.
+
+# III. Fr. 3 K.-A. : le récipient de cumin, les mains savantes et le dithyrambe
+
+## 21. [A] Le témoin Pollux X, 93
+
+Le **fr. 3 K.-A. = fr. 2 Kock** provient de **Pollux, *Onomasticon* X, 93**, où le lexicographe discute les **récipients destinés à conserver sauces et épices** (*hēdysmata*). La citation, composée de **trois trimètres iambiques** selon Orth, met en relief un objet fait par des mains habiles, contenant de nombreux petits compartiments, et finalement identifié comme **κυμινοδόκον** (*kyminodokon*), un contenant de cumin. La source garantit le mot et la description, mais ne donne ni le nom de celui qui expose l'objet ni son destinataire.
+
+## 22. [A] L'objet matériel : un contenant compartimenté
+
+Le texte évoque des **καδίσκια**, de petits récipients internes, qualifiés de **λεπτά**, fins ou délicats. Le **diminutif** accentue le caractère minutieux de l'ouvrage. On peut imaginer un ustensile comportant plusieurs alvéoles, et donc un artisanat précis. Pourtant nous ne possédons **aucun objet archéologique identifié comme « le kyminodokon de Nicocharès »**. L'étude des formes céramiques ou métalliques grecques peut donner des analogies, pas le modèle de la scénographie originale.
+
+## 23. [A] Les « mains savantes des artisans »
+
+La formule de **σοφαῖσι παλάμαις** renvoie à la compétence artisanale sur un mode très poétique. Orth rapproche **Homère, *Iliade* XV, 411–412**, où un charpentier maîtrise les règles de l'art, ainsi que **Pindare, *Pythique* III, 113–114**, et des usages poétiques du vocabulaire des mains. Ce haut registre est inattendu pour un simple contenant de condiment. Le contraste ne transforme pas les trimètres de Nicocharès en chant lyrique : **la diction est précieuse, la métrique reste celle du dialogue**.
+
+## 24. [A] Le statut de *kyminodokon*
+
+Le mot **κυμινοδόκον** est rare ; le suffixe **-δόκος** rappelle les composés désignant ce qui reçoit quelque chose. Orth envisage un **néologisme de tonalité poétique**, sans exclure une variante savante d'une appellation usuelle. Le neutre peut supposer un substantif sous-entendu tel que « récipient » (*angeion* ou *skeuos*) ; **Headlam** proposa l'autre forme **κυμινοδοκεῖον**. Il serait fautif de présenter ces solutions éditoriales comme des paroles distinctes prononcées sur scène.
+
+## 25. [A] La correction métrique et le texte transmis
+
+Le vers contenant les **petits compartiments** nécessite des interventions modestes dans l'établissement moderne : notamment un **καί** suppléé et le choix entre des participes de genre ou de cas différents. Les détails sont discutés chez Orth, p. 45–49. Le contenu sémantique général demeure stable : l'objet est fabriqué avec art et renferme de nombreux contenants minuscules. L'édition doit distinguer une correction nécessaire à l'hexamètre ou au trimètre d'une invention d'une réplique supplémentaire : ici, seul **le trimètre** est concerné.
+
+## 26. [B] Un cadeau de Polyphème pour Galatée ?
+
+Depuis Meineke et d'autres commentateurs, on a supposé que le **Cyclope** vanterait à Galatée un présent luxueux : un rangement sophistiqué pour un simple **cumin**. Le monstre serait alors ridiculement fier de sa capacité à offrir un objet de cuisine décoré de mots grandioses. Orth juge la proposition plausible, mais rappelle que le témoin **ne nomme ni Polyphème ni Galatée** dans ces trois lignes. La possibilité ne doit donc pas être imprimée comme réplique précédée de « POLYPHÈME ».
+
+## 27. [B] La gourmandise du Cyclope civilisé
+
+Un Polyphème amoureux de bonne chère pourrait être à la fois le **géant rustique** de la tradition et un **fin gourmet**. La Sicile était associée dans l'imaginaire grec à l'art culinaire, et le rapprochement d'un récipient délicat avec un géant suffit à créer une satire des goûts raffinés. Toutefois le condiment n'autorise pas à lui attribuer une **profession de cuisinier**, un menu, une scène de banquet ou un statut de gastronome attesté : chaque proposition serait [B].
+
+## 28. [A/B] La comparaison avec le *kernos*
+
+Chez **Athénée XI, 478c–d**, la description antiquaire du **kernos** mentionne un vase portant plusieurs petits compartiments pour divers contenus rituels. Ce document extérieur suggère la possibilité technique d'un objet compartimenté. **[B]** La comparaison ne signifie ni que le *kyminodokon* était un *kernos*, ni que la comédie faisait une parodie d'un rite d'initiation, ni que Galatée recevait un objet sacré. Dans l'édition, la ressemblance formelle et la différence de fonction doivent être présentées ensemble.
+
+## 29. [B] L'inflation de la parole et la réduction de l'objet
+
+La structure rhétorique du fragment peut se lire comme une **déflation** : une description exaltant les capacités des artisans paraît préparer l'apparition d'un chef-d'œuvre, puis révèle un banal récipient d'épices. Orth nuance cependant cette banalité : les compartiments fins peuvent faire du récipient un authentique **objet de luxe** ; ce qui est drôle serait surtout le contraste entre son élaboration et l'usage prétendument limité au cumin. Le comique ne consiste donc pas nécessairement à ridiculiser l'artisanat lui-même.
+
+## 30. [B] La parodie du langage dithyrambique
+
+Les néologismes, la syntaxe solennelle et les métaphores de fabrication peuvent évoquer une langue **(para)dithyrambique**. Orth rapproche ce procédé de la comédie du début du IVe siècle, où un objet banal reçoit la grandeur verbale d'une création artistique. **Aristophane, *Assemblée des femmes* 2** offre une comparaison pertinente dans une description précieuse de lampe. Ce n'est pas la preuve qu'un chant particulier de Philoxénos fut inséré ; aucun vers conservé de son dithyrambe ne constitue une source textuelle directe de ce fragment.
+
+## 31. [B] L'art du catalogue et la liste de compartiments
+
+L'insistance sur la multiplicité des petits contenants pourrait créer, sur scène, l'attente de **nombreuses épices** avant que le nom du cumin n'arrive comme une chute. Une autre lecture suppose l'admiration sincère pour un objet complexe, sans chute dérisoire aussi nette. L'édition doit maintenir les deux options, notamment parce que la citation de Pollux a peut-être commencé **au milieu d'une description plus longue**. L'ordre des mots transmis n'est pas tout le rythme de la représentation perdue.
+
+# IV. Fr. 4 K.-A. : Philonidès, ignorance et effraction du présent athénien
+
+## 32. [A] Une question au comparatif
+
+Le **fr. 4 K.-A. = fr. 3 Kock**, deux trimètres selon Orth, compare celui auquel on s'adresse à **Philonidès, du dème de Mélitè**. Le prédicat contient **ἀπαιδευτότερος**, « moins instruit / plus dépourvu de formation que… ». Le passage est cité **deux fois** dans les **scholies à Aristophane, *Ploutos* 179 et 304**. Il n'est pas permis d'effacer l'origine scholiaste pour annoncer un « portrait de Polyphème par Galatée » comme si la distribution ancienne était conservée.
+
+## 33. [A] La question de la leçon initiale
+
+Les deux scholies livrent des débuts différents ; Orth privilégie la forme **τί δῆτ᾽**, approximativement « Comment donc ? » / « Et alors ? », contre une leçon moins satisfaisante du point de vue métrique et syntaxique. Le choix n'est pas arbitraire : il rapproche le dialogue d'usages récurrents chez Aristophane. L'éditeur ne prouve toutefois pas l'identité du locuteur en corrigeant la particule ; une **réplique répondant à une parole précédente** reste la reconstruction syntaxique la plus prudente.
+
+## 34. [A] Deux Philonidès à ne pas confondre
+
+Les scholies distinguent explicitement le **Philonidès de Mélitè, riche, corpulent et moqué comme ignorant**, d'un **Philonidès poète et organisateur de représentations associé à Aristophane**. L'homonymie a trompé certains commentateurs anciens, notamment autour de **Callistrate**. Or cette distinction est capitale pour MYTHOS : il ne faut pas transformer le personnage comparé à un ignorant en père de Nicocharès, ni affirmer que le vers attaque le père ou le collaborateur d'Aristophane. Le dème est un véritable instrument de désambiguïsation.
+
+## 35. [A] Une satire civique documentée chez Aristophane
+
+**Aristophane, *Ploutos* 179 et 302–308**, évoque Philonidès dans une série de plaisanteries sur la richesse, la sexualité, la corpulence et les moeurs ; les scholies associent la cible à **Mélitè**. Les notes anciennes mentionnent également **Philyllios fr. 22**, **Platon comique fr. 65** et **Théopompe comique fr. 5**. Il ne faut pas réunir ces vers en un seul passage de Nicocharès. Ce sont autant de **parallèles de satire personnelle** transmis par des voies distinctes.
+
+## 36. [B] Qui ose dire « moins éduqué que Philonidès » ?
+
+L'image du Cyclope **Polyphème** correspond très bien au destinataire possible, puisque la tradition le présente comme un être puissant mais peu civilisé. Pourtant le texte ne nomme pas l'interlocuteur. **Galatée**, **Ulysse** ou un **instructeur** du prétendant sont des propositions d'érudits, non un casting sûr. Si Galatée parle, elle peut rejeter une cour maladroite ; si c'est un maître, il peut diagnostiquer l'échec d'un apprentissage. La divergence change le sens dramatique : il est donc irresponsable de trancher sans avertissement.
+
+## 37. [A/B] L'anachronisme comique comme procédé
+
+Une pièce de mythologie faisant allusion à un **Athénien contemporain** ferait entrer la cité historique dans la fable des Cyclopes. Les comédies connaissent des **anachronismes** de ce type, qui relient la scène héroïque aux plaisanteries partagées par les spectateurs. **[B]** Nous pouvons proposer une rupture de l'illusion mythologique : l'auditoire reconnaîtrait Philonidès de Mélitè à la place de la seule figure d'un monstre. Mais le vers conservé ne dit rien sur la réaction de la salle, ni sur l'utilisation d'un masque imitant l'Athénien.
+
+## 38. [A] Le comparatif grec n'est pas une simple insulte
+
+**ἀπαιδευτότερος** est le comparatif d'un adjectif pouvant signifier « sans éducation », « dépourvu de raffinement » ou « rude ». Le grec peut exploiter un comparatif à référence déjà dépréciative pour produire une **hyperbole de degré** : être plus ignorant qu'un homme réputé très ignorant. Le dème **Μελιτεύς** précise de quel citoyen on parle. Ce mécanisme n'est pas réductible à un jugement moderne sur la capacité à lire ; il concerne un ensemble de pratiques sociales, de comportements et de normes culturelles.
+
+## 39. [B] Polyphemos ou l'apprentissage impossible
+
+Si Polyphème est bien la cible, sa puissance physique s'opposerait à une **paideia** qu'il n'aurait pas acquise. Une comédie amoureuse pourrait faire de cette opposition un obstacle à la séduction, plutôt qu'un prétexte à un combat héroïque. Mais aucune source ne dit qu'un professeur a été engagé, qu'une leçon a eu lieu, ni que Galatée a proposé une épreuve grammaticale. Le thème est plausible ; les détails du cours sont inventables en [C] seulement.
+
+# V. Fr. 5 K.-A. : illettré, paresseux et les frontières de l'atticisme
+
+## 40. [A] Photios α 1552 : un morceau de phrase
+
+Le **fr. 5 K.-A.**, transmis par **Photios α 1552**, consiste en **deux groupes nominaux**, **τὸν ἀναλφάβητον, τὸν ἄπονον**, « l'illettré, le paresseux ». On ne possède pas un trimètre entier intact ; Orth estime que les mots pourraient constituer **une partie d'un trimètre iambique**. Les adjectifs ne portent aucun nom de personnage dans le passage cité. Les présenter comme une auto-description indiscutable de Polyphème serait une extrapolation.
+
+## 41. [A] Un fragment cité pour son intérêt linguistique
+
+Photios reprend probablement un jugement de **Phrynichos l'Atticiste**, conservé aussi dans **Phrynichos, *Praeparatio sophistica* fr. 19 de Borries**. Le mot **ἀναλφάβητος** pouvait apparaître comme peu légitime aux défenseurs d'un attique pur ; la citation de Nicocharès prouve son usage dans une comédie ancienne. Le lexicographe ne cherche pas à décrire le Cyclope mais à **authentifier un vocable**. C'est cette fonction grammaticale qui nous sauve les mots.
+
+## 42. [A] L'« analphabète » dans une histoire longue du langage
+
+**ἀναλφάβητος** est un terme rare dans la documentation classique et signifie qu'on ne sait pas les lettres ou qu'on manque de la formation élémentaire correspondante. La forme a eu une postérité importante dans des langues modernes. Il faut éviter de lire l'expression d'après un système contemporain de scolarité obligatoire : le mot appartient à un environnement grec de compétences écrites, d'enseignement, de musique, de comportement et de distinctions sociales. La comparaison avec **Xénophon, *Mémorables* IV, 2, 20** et **Platon, *Timée* 23a**, pour les capacités de lecture ou d'instruction, reste extérieure au poète comique.
+
+## 43. [A/B] Le mot ἄπονος et la difficulté de la paresse
+
+**ἄπονος** peut désigner le refus de la peine, l'absence d'effort ou la recherche d'une vie sans fatigue. Orth discute l'alternative : l'accusation pourrait toucher l'effort intellectuel ou l'effort physique. **Platon, *République* 556b–c**, oppose des attitudes de luxe et de manque d'endurance à un idéal d'éducation ; **Xénophon, *Helléniques* III, 4, 19**, emploie le motif de la mollesse. **[B]** Si le fragment vise Polyphème, il opposerait le corps capable de violence à l'esprit refusant l'apprentissage. Rien n'impose une leçon d'écriture jouée sur scène.
+
+## 44. [B] Une progression dramatique impossible à démontrer
+
+On peut aligner trois moments imaginaires : le Cyclope offre un présent (*fr. 3*), reçoit une remarque sur sa grossièreté (*fr. 4*), puis est traité d'illettré et de paresseux (*fr. 5*). Cette construction est **narrativement harmonieuse**, mais **textuellement indémontrable**. Le fr. 4 comporte une adresse directe alors que le fr. 5 peut parler d'un tiers. Orth avertit expressément qu'ils peuvent appartenir à des scènes différentes, même si la même personne est concernée.
+
+## 45. [B] Peut-on qualifier Polyphème d'hédoniste ?
+
+Le Cyclope du mythe aime manger, boire et parfois fuir l'effort ; l'association de **l'objet de condiment** et de **ἄπονος** pourrait illustrer une attitude tournée vers le plaisir. Pourtant le **fr. 5** ne fait pas l'éloge de la paresse ; il enregistre une désignation dont le ton dépend du locuteur et du contexte perdus. Une lecture hédoniste est donc une piste comparative, non une doctrine attribuable à Nicocharès ni à la caricature d'un enseignement philosophique précis.
+
+# VI. Fr. 6 K.-A. : les Néréides dans un livre d'orthographe
+
+## 46. [A] Le Lexicon Messanense, fol. 281r
+
+Le **fr. 6 K.-A.** ne transmet pas une scène ni un vers entier, mais une **attestation de forme** : le **Lexicon Messanense, fol. 281r, 10–15** cite Nicocharès dans *Galateia* à propos des flexions du nom des **Néréides**. Il discute l'usage du **iota** et la contraction de formes comme **Νηρηΐδες / Νηρῇδες**. Cette citation prouve qu'une forme du mot faisait partie de la langue de la comédie, sans permettre de reconstruire la phrase complète, son cas grammatical ou sa place dans le mètre.
+
+## 47. [A] Pourquoi les grammairiens citent les Néréides
+
+Le lexique analyse l'évolution phonétique et graphique du groupe **-ηΐ-** et d'autres formes comparables, notamment **Καδμηΐδες**, **Βρισηΐδες** et **Χρυσηΐδες**. Les citations de Nicocharès et d'Euripide servent de **preuves linguistiques**, pas de compte rendu de représentation. Les formes abrégées se rencontrent fréquemment dans l'attique tardif et dans la tragédie ; Orth compare de nombreux emplois d'Euripide, de Sophocle et d'Eschyle. Le petit fragment n'autorise pas à conclure à un emploi volontairement « archaïsant » dans la pièce.
+
+## 48. [B] Un chœur de Néréides ? Une hypothèse, pas une évidence
+
+La présence linguistique du mot **Néréides** a conduit des critiques, notamment **Mangidis**, à imaginer un **chœur de Néréides** entourant Galatée. L'idée est séduisante et compatible avec un drame marin ; elle demeure pourtant **insuffisamment démontrée** : un mot mentionné dans une réplique n'établit ni l'identité du chœur, ni son nombre, ni sa danse. Orth formule explicitement cette réserve. Le site MYTHOS ne doit donc pas légender un chœur reconstruit comme « chœur original de Nicocharès ».
+
+## 49. [A/B] Éviter une erreur typique de transmission fragmentaire
+
+Une mention au pluriel des Néréides peut provenir d'un discours racontant la parenté de Galatée ; elle peut même, selon l'état des formes transmises, relever d'un **cas singulier** dont la graphie suffit au grammairien. **[B]** On ne peut pas reconstruire une entrée collective de cinquante sœurs marines : cette vision n'est qu'une possibilité parmi beaucoup d'autres. Le silence du lexicographe sur la mise en scène n'est pas un indice positif d'absence de chœur ; il est une **absence d'information**.
+
+# VII. Philosophies de la démesure, de la civilité et des voix féminines
+
+## 50. [B] Hegel : de la force brute à la demande de reconnaissance
+
+Dans une lecture hégélienne **contemporaine**, Polyphème amoureux ne chercherait plus seulement à dominer son environnement ; il demanderait une réponse d'une autre personne. La relation amoureuse met le géant devant une **liberté qui peut refuser**. Si *Galateia* critiquait son manque d'éducation, le problème ne serait pas simplement de devenir savant, mais de comprendre que le désir d'autrui n'obéit pas à la seule force. Cette lecture aide à penser le titre féminin ; elle n'est pas une intention philosophique documentée de Nicocharès.
+
+## 51. [B] Hegel : le savoir ne se réduit pas au vocabulaire précieux
+
+Le fr. 3 associe un lexique d'artisanat savant à un récipient de cuisine ; le fr. 4 oppose celui qui apprend à celui qu'on accuse de ne pas être formé. On pourrait distinguer **maîtrise du langage**, **reconnaissance d'une autre personne** et **usage du savoir pour impressionner**. Le Cyclope pourrait manier des mots recherchés sans comprendre la relation de cour. Il n'est toutefois pas attesté qu'il prononce le fr. 3 : le contraste est d'abord une hypothèse de lecture.
+
+## 52. [B] Nietzsche : la musique, le corps et le monstre amoureux
+
+**Nietzsche**, dans *La Naissance de la tragédie*, interroge les rapports entre musique, affect, forme et scène grecque. Le modèle philoxénéen permet d'imaginer un être disproportionné voulant exprimer son désir par une performance savante. La comédie pourrait faire rire de la tentative d'assujettir une passion corporelle à un décor lyrique. Mais **aucune performance musicale de Nicocharès n'est conservée**. Une lecture « dionysiaque » univoque serait une mise en système abusive.
+
+## 53. [B] Nietzsche : l'éloge de l'effort ne suffit pas à définir la culture
+
+L'opposition entre **ἀναλφάβητος** et **ἄπονος** signale peut-être un manque d'initiation à la **paideia**. Un philosophe moderne peut questionner si cette norme d'éducation produit une culture riche ou une simple conformité sociale. Le rire comique expose parfois les normes à leur propre vanité, surtout lorsqu'un objet insignifiant bénéficie d'une rhétorique luxueuse. La pièce perdue ne livre pas de prise de position certaine sur l'enseignement ou la valeur de l'effort ; toute dialectique de ce type demeure [B].
+
+## 54. [B] Vernant : la différence entre un nom héroïque et un citoyen réel
+
+Les études de **Jean-Pierre Vernant** sur les rapports du mythe et des formes sociales de la cité offrent un cadre pour comprendre la traversée des époques. Le fr. 4 fait intervenir **Philonidès de Mélitè**, personne du présent athénien, au milieu d'une comédie dont le titre annonce une Néréide. Cette jonction mettrait en scène deux régimes de réalité : **l'espace mythique** et **l'espace civique des noms connus**. Il ne faut pas pour autant attribuer aux spectateurs une réflexion anthropologique articulée en concepts modernes.
+
+## 55. [B] Détienne : ruse du langage et changement d'échelle
+
+L'œuvre de **Marcel Détienne**, notamment avec Vernant sur la **mêtis**, invite à prêter attention aux déplacements intelligents d'une difficulté. Un être réputé fort peut échouer au jeu subtil des mots et du désir. L'objet compartimenté du fr. 3 pourrait, si c'est un cadeau de Polyphème, devenir une **stratégie maladroite** pour gagner la faveur de Galatée. Mais le fragment ne dit pas qu'il s'agit d'une ruse ; un ustensile décrit avec précision demeure d'abord un ustensile.
+
+## 56. [B] Dumézil : ne pas forcer une grille trifonctionnelle
+
+Le dossier réunit un Cyclope puissant, des Néréides, la mer, un Athénien moqué et un objet domestique. Cela ne démontre aucun agencement de **souveraineté, fonction guerrière et fécondité** au sens du comparatisme de **Georges Dumézil**. Rien dans les quatre citations ne permet d'assigner les personnages à des rôles trifonctionnels. Le modèle est **explicitement non appliqué** ; la comparaison intellectuelle de MYTHOS est plus rigoureuse lorsqu'elle sait refuser une typologie sans preuves.
+
+## 57. [B] La place de Galatée : critique contemporaine du point de vue masculin
+
+Le titre féminise le centre nominal de l'œuvre alors que les traces anciennes renvoient surtout à l'équipement, aux paroles et au manque supposé d'instruction d'un personnage peut-être masculin. Cette **asymétrie de conservation** est importante : notre dossier sur Galatée peut être dominé par des informations sur Polyphème sans que la pièce l'ait nécessairement été. Une lecture contemporaine doit garder ouverte sa faculté d'initiative et de refus, sans la lui attribuer par de faux fragments.
+
+# VIII. Atelier dramatique moderne — création clairement séparée du corpus antique
+
+**[C]** Les scènes suivantes sont entièrement originales (MYTHOS, 2026). Elles ne traduisent ni ne complètent des vers de Nicocharès. Les personnages, les décors, les dialogues et les enchaînements dramaturgiques sont inventés, y compris lorsqu'ils font écho à des mots antiques cités dans la partie [A].
+
+## 58. [C] Scène I — Le coffret sans épices
+
+*Une côte abstraite, un comptoir d'artisan et une petite boîte divisée en sept niches. POLY, un personnage immense, s'efforce de cacher la boîte derrière son dos. L'ARTISANE attend son paiement.*
+
+**L'ARTISANE.** Je l'ai terminée.
+
+**POLY.** On dirait le palais d'un roi minuscule.
+
+**L'ARTISANE.** C'est un coffret de condiments.
+
+**POLY.** On peut dire cela de manière plus grandiose.
+
+**L'ARTISANE.** On peut, mais cela ne remplit pas le coffret.
+
+**POLY.** Je veux offrir l'océan dans la paume d'une main.
+
+**L'ARTISANE.** La mer ferait gonfler les joints. Essayez une pincée de cumin.
+
+**POLY.** Une seule ?
+
+**L'ARTISANE.** Les compartiments sont petits. Ils sont prévus pour plusieurs choses.
+
+**POLY.** Je voudrais qu'elle comprenne que je ne suis pas seulement fort.
+
+**L'ARTISANE.** Vous savez que votre force n'est pas le problème ?
+
+**POLY.** Comment ? C'est mon unique qualité.
+
+**L'ARTISANE.** Votre problème est d'avoir décidé ce qu'elle doit penser avant de lui parler.
+
+**POLY.** J'ai pourtant commandé un objet délicat.
+
+**L'ARTISANE.** Il est délicat parce que j'ai travaillé. Pas parce que vous avez désiré.
+
+**POLY.** Puis-je lui dire que mes mains savantes l'ont fabriqué ?
+
+**L'ARTISANE.** Vous pouvez. Vous seriez alors moins habile avec les mots qu'avec les mensonges.
+
+*Poly remet l'objet sur l'établi, puis cherche une autre formule.*
+
+**POLY.** Puis-je commencer par demander ce qu'elle aime ?
+
+**L'ARTISANE.** Pour cela, il n'y a pas besoin de coffret.
+
+*Noir. [C] Une scène libre sur l'objet du fr. 3, sans attribution de répliques anciennes.*
+
+## 59. [C] Scène II — Le cours de civilité
+
+*Un maître d'école peint une grande lettre sur une planche. Une élève de la mer l'observe, tandis qu'un géant tente de tenir un stylet trop petit.*
+
+**LE MAÎTRE.** Voici la première lettre.
+
+**LE GÉANT.** Je pourrais l'écrire sur la montagne.
+
+**L'ÉLÈVE.** Vous pouvez commencer par ne pas briser le stylet.
+
+**LE GÉANT.** Pourquoi apprendre des signes si personne n'entend ma voix ?
+
+**LE MAÎTRE.** Parce qu'une parole écrite peut voyager au-delà de votre présence.
+
+**LE GÉANT.** Alors j'écrirai que je mérite d'être aimé.
+
+**L'ÉLÈVE.** Vous pouvez écrire que vous souhaitez l'être.
+
+**LE GÉANT.** Quelle est la différence ?
+
+**L'ÉLÈVE.** La première formule condamne l'autre à obéir. La seconde lui laisse répondre.
+
+**LE MAÎTRE.** Voilà une distinction qu'il serait bon de copier dix fois.
+
+**LE GÉANT.** Est-ce cela, être instruit ?
+
+**LE MAÎTRE.** Pas seulement.
+
+**L'ÉLÈVE.** Peut-être le commencement.
+
+*Le Géant casse involontairement le stylet. L'élève lui en donne un second, sans reproche.*
+
+**LE GÉANT.** On apprend si lentement.
+
+**L'ÉLÈVE.** C'est peut-être pourquoi il faut s'y mettre.
+
+*Noir. [C] Aucun maître ni leçon n'est attesté dans la pièce antique.*
+
+## 60. [C] Scène III — Philonidès entre deux fiches
+
+*Une bibliothèque. Sur une table deux fiches portent le nom PHILONIDÈS. Un CATALOGUEUR s'apprête à les fusionner. Une COPISTE lui barre le chemin.*
+
+**LE CATALOGUEUR.** Deux personnes du même nom, c'est une dépense inutile.
+
+**LA COPISTE.** Pour une bibliothèque peut-être ; pour l'histoire, c'est une différence essentielle.
+
+**LE CATALOGUEUR.** Mais si je les confonds, le catalogue sera plus court.
+
+**LA COPISTE.** Il sera surtout faux.
+
+**LE CATALOGUEUR.** Le premier est associé aux représentations d'Aristophane.
+
+**LA COPISTE.** Et le second est moqué comme homme de Mélitè.
+
+**LE CATALOGUEUR.** La même ville, la même époque, presque la même orthographe.
+
+**LA COPISTE.** Vous venez d'énumérer trois ressemblances. Aucune n'est une identité.
+
+**LE CATALOGUEUR.** Je pourrais conclure que le père d'un poète est l'ignorant d'une comédie.
+
+**LA COPISTE.** Vous pourriez aussi conclure que tous les bateaux d'un port ont le même capitaine.
+
+**LE CATALOGUEUR.** Le public veut un nom simple.
+
+**LA COPISTE.** Donnez-lui deux fiches exactes.
+
+**LE CATALOGUEUR.** Il me demandera quel Philonidès est le bon.
+
+**LA COPISTE.** Celui que désigne la source, avec son dème et son contexte.
+
+*Le Catalogueur range les fiches dans deux casiers différents. La bibliothèque ne rétrécit pas ; elle devient plus exacte.*
+
+**LE CATALOGUEUR.** Je n'ai pas gagné de place.
+
+**LA COPISTE.** Vous avez sauvé une personne de votre paresse.
+
+*Noir. [C] Le débat bibliographique est moderne ; aucune scène de copistes ne provient de Nicocharès.*
+
+## 61. [C] Scène IV — Les sœurs ou le chœur ?
+
+*Au bord de la mer, quatre figures examinent une vieille notice sur un mot signifiant « Néréides ». LA PREMIÈRE cherche une entrée musicale ; LA DEUXIÈME un texte ; LA TROISIÈME un vase ; LA QUATRIÈME un silence.*
+
+**LA PREMIÈRE.** Le mot nous désigne toutes. Nous devons donc former un chœur.
+
+**LA DEUXIÈME.** Le mot prouve seulement que quelqu'un a parlé de nous.
+
+**LA TROISIÈME.** Si nous dansions, le public comprendrait mieux.
+
+**LA QUATRIÈME.** S'il savait que la danse a été inventée maintenant.
+
+**LA PREMIÈRE.** Mais il faut bien donner une forme à notre présence.
+
+**LA DEUXIÈME.** Alors appelons-la nouvelle.
+
+**LA TROISIÈME.** Qu'est-ce qui subsiste de l'ancienne ?
+
+**LA QUATRIÈME.** Un mot. Peut-être un mot au pluriel. Peut-être une autre forme.
+
+**LA PREMIÈRE.** C'est peu pour notre mer entière.
+
+**LA DEUXIÈME.** Peu de lettres peuvent pourtant empêcher une grande erreur.
+
+**LA TROISIÈME.** Danserons-nous ?
+
+**LA QUATRIÈME.** Oui, si nous disons d'abord : « Ceci est notre danse, non une danse retrouvée. »
+
+*Elles dessinent un cercle dont une place demeure vide.*
+
+**LA PREMIÈRE.** Pourquoi laisser ce vide ?
+
+**LA DEUXIÈME.** Pour tout ce que nous ne savons pas.
+
+*Noir. [C] Chœur original de MYTHOS, précisément non attribuable à Nicocharès.*
+
+# IX. Bilan, apparat de lecture et bibliographie raisonnée
+
+## 62. [A/B/C] Tableau raisonné des quatre fragments
+
+**Fr. 3 K.-A. (fr. 2 Kock).** **[A]** Pollux X, 93 ; **trois trimètres iambiques**, boîte ou récipient **κυμινοδόκον** comportant plusieurs petits **καδίσκια**, description artisanale poétisante ; variations et légères corrections éditoriales. **[B]** Présent offert à Galatée par Polyphème, parodie du dithyrambe, satire du raffinement alimentaire, toutes lectures conditionnelles. **[C]** « Le coffret sans épices ».
+
+**Fr. 4 K.-A. (fr. 3 Kock).** **[A]** Scholies à Aristophane *Ploutos* 179b et 304d, comparatif **ἀπαιδευτότερος** et nom **Philonidès de Mélitè** ; variantes de l'amorce **τί δῆτ᾽** ; **homonyme** distinct du didascalos lié à Aristophane. **[B]** Polyphème peut être le destinataire et Galatée ou un précepteur l'interlocuteur, sans certitude. **[C]** « Philonidès entre deux fiches » traite un problème historiographique contemporain.
+
+**Fr. 5 K.-A.** **[A]** Photios α 1552, reprise de Phrynichos l'Atticiste ; **τὸν ἀναλφάβητον, τὸν ἄπονον**, deux désignations, pas un vers entier ; fragment de trimètre possible. **[B]** Caricature de l'éducation du Cyclope, lieu et locuteur inconnus. **[C]** « Le cours de civilité » ne prétend pas restituer ce fragment.
+
+**Fr. 6 K.-A.** **[A]** *Lexicon Messanense* fol. 281r, 10–15, graphies et contraction des formes de **Néréides** ; **une attestation lexicale**, pas un vers continu. **[B]** Possible chœur marin, sans preuve suffisamment forte. **[C]** « Les sœurs ou le chœur ? » montre le saut qu'il faut éviter.
+
+## 63. [A] Sources grecques et éditions critiques
+
+1. **Orth, Christian**, *Nikochares – Xenophon. Einleitung, Übersetzung, Kommentar*, *Fragmenta Comica* **9.3**, Heidelberg, 2015, **p. 42–58** pour Nicocharès, *Galateia*, édition et commentaire **consultés directement** : https://doi.org/10.11588/diglit.52132 ; pages numérisées https://digi.hadw-bw.de/view/frc9_3/0047 à /0063.
+2. **Kassel, Rudolf ; Austin, Colin**, *Poetae Comici Graeci* **VII**, Berlin–New York, 1989, p. **41–43** (*Galateia*, frr. 3–6 K.-A.) ; contrôles de références par l'apparat d'Orth, sans collation indépendante de tout le volume.
+3. **Pollux**, *Onomasticon* **X, 92–93**, fr. **3 K.-A.**, objet compartimenté pour épices, citations et corrections commentées chez Orth, p. 45–49.
+4. **Scholia in Aristophanis Plutum**, **179b et 304d**, fr. **4 K.-A.**, Philonidès de Mélitè, comparatif et variantes ; Orth, p. 50–53.
+5. **Photios**, *Lexicon* **α 1552**, avec **Phrynichos l'Atticiste**, *Praeparatio sophistica* **fr. 19 de Borries**, fr. **5 K.-A.**, « illettré, paresseux », Orth, p. 54–56.
+6. **Lexicon Messanense**, fol. **281r, 10–15** (Rabe 1892, p. 406, complété en 1895, p. 149), fr. **6 K.-A.**, contraction des formes de « Néréides », Orth, p. 56–58.
+7. **Souda ν 407**, notice Nicocharès et liste de comédies ; édition et discussion dans Orth 2015, partie des témoignages p. 15–25.
+8. **Homère**, ***Iliade* XVIII, 45**, et **Hésiode**, ***Théogonie* 250**, attestations de la Néréide Galatée, distinctes de l'intrigue comique.
+9. **Philoxénos de Cythère**, ***Kyklōps ou Galateia***, **PMG 815–824** (Page), fragments et témoignages ; référence discutée par Orth p. 42–44.
+10. **Aristophane**, ***Ploutos* 179, 290–301, 302–308**, satire de Philonidès et parodie du dithyrambe ; œuvre de **388 av. J.-C.**
+11. **Athénée**, ***Deipnosophistes* I, 6e–7a**, avec **Phainias fr. 13 Wehrli**, tradition anecdotique sur Philoxénos et Denys ; **Diodore XV, 6, 2–5**, récit divergent.
+12. **Euripide**, ***Cyclope* 133–140, 188–192, 326–341, 488–493**, parallèle satyrique ; **aucun vers de cette œuvre n'est réattribué à Nicocharès**.
+13. **Alexis**, ***Galateia* fr. 37 K.-A.**, conversation sur la philosophie et Aristippe ; **Antiphanès**, ***Kyklōps* frr. 130–131 K.-A.**, études comparatives, œuvres distinctes.
+14. **Théocrite**, ***Idylle* XI** ; **Lucien**, ***Dialogues marins* I**, réception postérieure.
+15. **Athénée XI, 478c–d**, *kernos* et ses compartiments, analogue matériel, **non** identification d'objet scénique.
+
+## 64. [B] Travaux comparatifs, précautions bibliographiques
+
+16. **Arnott, W. Geoffrey**, *Alexis: The Fragments. A Commentary*, Cambridge, 1996, discussion du mythe et d'**Alexis fr. 37**, voir notamment p. 139–141 ; référence rapportée et confrontée aux indications d'Orth, non à une nouvelle collation intégrale de l'ouvrage.
+17. **Casolari**, recherches de 2003 sur mythe et comédie, notamment p. 127–168 et 294–295 selon Orth : interprétation des scènes possibles de la cour de Polyphème ; citations internes vérifiées dans Orth, ouvrage non entièrement collationné.
+18. **Nesselrath, Heinz-Günther**, *Die attische Mittlere Komödie*, Berlin–New York, 1990, p. 241–266 pour le style dithyrambique dans la comédie ; référence bibliographique contrôlée dans Orth.
+19. **Dörrie**, 1968, étude du Cyclope et de Galatée, spécialement p. 15–18 citées dans Orth ; le statut de ses reconstructions demeure conjectural.
+20. **Mangidis**, 2003, p. 45–50, conjectures sur un chœur de Néréides discutées et limitées par Orth.
+21. **Gelli**, 2008, p. 246 et suivantes, critique des scénarios nuptiaux déduits d'Antiphanès *Kyklōps* ; témoignage de la controverse dans Orth.
+22. **Nesselrath** et **Beta**, 2009, références à l'éloquence dithyrambique discutées dans Orth ; comparaison de langues et non identification de répliques perdues.
+23. **Jean-Pierre Vernant**, *Mythe et pensée chez les Grecs* ; *Mythe et société en Grèce ancienne*, perspectives anthropologiques générales, pas sources de Nicocharès.
+24. **Marcel Détienne et Jean-Pierre Vernant**, *Les Ruses de l'intelligence. La mêtis des Grecs*, Paris, 1974, méthode comparative employée sans prétention d'attribution.
+25. **G. W. F. Hegel**, *Phénoménologie de l'esprit*, catégorie de reconnaissance utilisée comme grille de lecture [B], extérieure à l'ancienne comédie.
+26. **Friedrich Nietzsche**, *La Naissance de la tragédie*, réflexion sur musique, corps et forme, comparaison critique seulement.
+27. **Georges Dumézil**, *Mythe et épopée*, référence de méthode dont le modèle trifonctionnel **n'est pas appliqué** faute de corpus suffisant.
+
+**État de la preuve et limites.** Les pages 42–58 du commentaire d'Orth ont été consultées directement en ligne (transcriptions de page). Les éditions, monographies et notices complémentaires sont citées avec leurs lieux et degrés de contrôle ; aucune lecture exhaustive des manuscrits grecs originaux ni des travaux indisponibles n'est revendiquée. Les anecdotes sur Philoxénos et Denys demeurent discutées ; les données d'Alexis, d'Antiphanès, d'Euripide, de Théocrite et d'Aristophane ne deviennent **jamais** des fragments de Nicocharès. Aucune image n'est importée ni une scène attribuée au théâtre ancien sans justification.
+
+## 65. [A/B/C] Conclusion générale : l'objet, l'insulte et les Néréides
+
+**[A]** La pièce de Nicocharès ***Galateia*** est attestée et livre quatre fragments de teneurs diverses : un **récipient de cumin décrit avec grandiloquence**, un **comparatif insultant Philonidès de Mélitè**, deux épithètes sur **l'ignorance et la paresse**, et une **forme des Néréides**. La réception ancienne de l'amour de Polyphème pour Galatée, particulièrement **Philoxénos** et **Aristophane *Ploutos* (388)**, explique pourquoi l'œuvre a pu sembler une parodie mythologique très actuelle. **[B]** Les rôles de Polyphème, de Galatée, d'un éventuel maître et d'un chœur de Néréides sont des hypothèses ; le rapprochement des frr. 3–5 ne donne pas un synopsis. **[C]** Les quatre scènes modernes explorent le désir, la formation, la désambiguïsation des noms et la discipline des preuves sans usurper la voix d'un dramaturge disparu.
+
+**Continuité éditoriale.** Une seule demande est déposée pour **Nicocharès, *Galateia***. Les dossiers déjà enregistrés ***Agamemnon*** et ***Amymoné / Pélops*** conservent leurs UUID, leurs intégralités et leurs éventuelles attributions ultérieures. Les notices sur **Alexis** et **Antiphanès** restent distinctes. Le numéro propre à cette monographie demeure **XCI (91)** jusqu'à réception par le pipeline atomique de GitHub ; aucune numérotation ne peut être anticipée. Aucun fichier préexistant, registre de numérotation, demande gelée, archive ni planification n'est modifié par le présent manuscrit.
