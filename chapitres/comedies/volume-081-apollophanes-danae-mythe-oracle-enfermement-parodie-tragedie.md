@@ -383,3 +383,284 @@ La tragédie [*Danaé* d'Euripide, volume CCII](https://bobmythos.fr/chapitres/t
 Le **numéro canonique et le chemin public de cette nouvelle étude** ne seront déterminés que par le mécanisme d'attribution atomique de GitHub Actions. Les variables du titre, **LXXXI** et **81**, ne concernent que **la présente étude** ; les nombres de vers, références antiques et numéros des volumes déjà publiés restent littéraux. Aucune numérotation suivante n'est annoncée.
 
 **Statut de dépôt :** texte intégral validé pour publication dans la file éditoriale ; l'enregistrement GitHub de la demande n'est pas, à lui seul, une preuve du rendu public. **Les archives, demandes antérieures, manuscrits et planifications horaires restent intacts.**
+
+# XI. Annexe critique : rapprochement du second manuscrit de *Danaé* (texte intégral archivé)
+
+**Rectificatif éditorial au 4 novembre 2026.** La formule de fin de la monographie initiale annonçant un numéro « à attribuer » appartient à son état de soumission. Le **reçu GitHub déjà présent dans editorial/numbering.json** attribue désormais et définitivement à la présente étude le **volume LXXXI (81)**, fichier canonique actuel. Cette mise à jour n'affecte aucun identifiant antique, manuscrit plus ancien ni autre volume.
+
+**Intégrité et absence de doublon.** Deux demandes indépendantes avaient porté sur la *même comédie* d'Apollophanès. La première, UUID `4dd2a93f-8407-4ad6-9ee7-ff50448ae932`, est devenue le présent volume. La seconde, UUID `39c4d20b-b0af-4f47-8e53-fd0b142fa86a`, demeure **intégralement lisible et inchangée** dans [sa source publique conservée](https://github.com/Bobcribb/Bobcribb.github.io/blob/main/editorial/inbox/39c4d20b-b0af-4f47-8e53-fd0b142fa86a.json), suspendue en toute transparence par `editorial/holds.json`. L'annexe ci-dessous **reprend des compléments sélectionnés du second état**, dont les quatre scènes dramatiques modernes propres à ce manuscrit. Elle n'attribue pas un second numéro à *Danaé*. Tous les autres passages, notes et références du second état restent accessibles **dans leur intégralité** au lien d'archive.
+
+**Niveaux de preuve préservés :** [A] attestations des auteurs anciens ou éditions effectivement identifiées ; [B] lectures et hypothèses sans valeur de témoignage ; [C] scènes entièrement originales, composées en 2026. Les sections [C] qui suivent ne sont pas des fragments comiques transmis. Les renvois à Sannyrion, Euboulos, Euripide et Eschyle ne sont pas des attributions à Apollophanès. Les numéros 49 à 52 indiqués dans les notices de provenance sont des sections internes du manuscrit archivé, et **non des numéros de vers**.
+### Complément 01 — [A/B] Deux groupes dans le répertoire d'Apollophanès (source secondaire, section 03)
+
+Christian Orth remarque que les trois premiers titres de la Souda, *Dalis*, *Iphigérôn* et *Krêtes*, disposent d'attestations complémentaires, alors que les deux derniers, *Danaé* et *Kentauroi*, ne figurent que dans la Souda. Il envisage ainsi la possibilité que cette dernière paire soit une addition secondaire à une liste préexistante. L'ordre interne des titres et le mode de transmission justifient la discussion.
+
+**[B]** Une addition au catalogue ne signifierait pas nécessairement une fausse œuvre ; elle pourrait provenir d'une source indépendante. Inversement, aucune certitude d'authenticité absolue ne découle d'une encyclopédie tardive. La formule adéquate est « comédie attribuée à Apollophanès, titre attesté, existence moins assurée que celle des pièces avec fragments ».
+
+### Complément 02 — [A/B] La variante de Proétos et l'incertitude de la paternité (source secondaire, section 19)
+
+Pseudo-Apollodore fait coexister l'hypothèse d'une relation avec Proétos et celle de l'intervention de Zeus. Le mythe ne doit donc pas être reconstruit comme un récit antique unique, transparent et invariable. Un personnage peut douter de la paternité divine, tandis que le narrateur transmet plusieurs traditions.
+
+**[B]** Une adaptation comique pourrait jouer du soupçon de fraude ou de la notion de preuve ; il est impossible de savoir si Apollophanès a exploité cette ambiguïté.
+
+### Complément 03 — [A] Phérécyde d'Athènes : une tradition plus ancienne (source secondaire, section 20)
+
+Orth renvoie à **Phérécyde d'Athènes, FGrHist 3 F 10–12**, pour une version ancienne du cycle de Danaé, Persée et Acrisios. La connaissance de ce dossier passe en partie par des scholies et par les éditions des historiens fragmentaires. La référence est ici contrôlée dans Orth, mais la totalité des manuscrits transmettant le récit de Phérécyde n'a pas été collationnée.
+
+Le mythographe doit être distingué des écrivains de même nom et des dramaturges. Son récit éclaire l'histoire du mythe, pas le texte d'Apollophanès.
+
+### Complément 04 — [A] Un papyrus de résumés concerne Euripide seulement (source secondaire, section 27)
+
+**P.Oxy. LXXXI 5283**, publié par **Chiara Meccariello en 2016**, transmet des *hypotheseis* (résumés anciens) de pièces d'Euripide, notamment *Danaé* et *Dictys*. La documentation de ces tragédies a pu être réévaluée grâce à cette découverte, reprise dans l'étude de **P. J. Finglass (2024)**. Ce papyrus n'offre **aucun** résumé identifié de la comédie *Danaé* d'Apollophanès.
+
+La comparaison entre les corpus rend visible le déséquilibre des preuves : résumés et fragments tragiques d'un côté, titre seul de l'autre.
+
+### Complément 05 — [A] Eschyle, *Diktyoulkoi*, drame satyrique (source secondaire, section 30)
+
+Les ***Diktyoulkoi* (« Tireurs de filets »)** d'Eschyle constituent un autre traitement dramatique de l'arrivée maritime de Danaé et Persée. Deux ensembles papyrologiques substantiels sont identifiés : **PSI 1209 fr. a, fr. 46a Radt**, et **P.Oxy. 2161, fr. 47a Radt**. Emanuele Dettori (2016) en a donné une étude moderne ; Pierre Voelke l'a recensée dans *Bryn Mawr Classical Review* 2017.10.24.
+
+Le statut **satyrique** de cette pièce doit être maintenu. Ses fragments ne sont ni des vers d'une comédie attique d'Apollophanès ni un argument pour inventer des satyres dans cette dernière.
+
+### Complément 06 — [A] La pluie d'or dans la peinture grecque (source secondaire, section 33)
+
+Un détail de **cratère béotien du Louvre, CA 925**, documenté dans les **Dickinson College Commentaries**, illustre la rencontre de Danaé et de la pluie d'or. [Notice photographique du motif](https://dcc.dickinson.edu/dana%C3%AB-and-shower-gold-detail-boeotian-red-figure-krater). Il s'agit d'une source figurée pour la circulation du récit au Ve siècle, non du décor ou d'un costume de la comédie perdue.
+
+L'analyse iconographique doit distinguer l'origine archéologique de l'objet, sa datation stylistique, l'identification des figures et les interprétations modernes.
+
+### Complément 07 — [B] La voix féminine, du poème au silence documentaire (source secondaire, section 39)
+
+Simonide laisse entendre une Danaé qui s'adresse à son enfant ; le mythe chez Pseudo-Apollodore transmet sa déclaration sur la paternité de Persée, que le père refuse de croire. Dans la comédie attribuée à Apollophanès, sa parole est **inconnue** : ni discours pathétique, ni protestation ironique, ni chanson, ni silence scénique ne sont attestés.
+
+L'analyse contemporaine peut soulever la question de la parole et de la contrainte, mais pas attribuer une posture morale précise à un texte absent.
+
+### Complément 08 — [B] Détienne : pluralité des versions, refus de l'original imaginaire (source secondaire, section 45)
+
+Dans une perspective liée aux travaux de **Marcel Détienne**, le mythe gagne à être étudié comme ensemble de variantes attestées plutôt que comme intrigue fixe dégradée par les siècles. La lyrique de Simonide, le chant sophocléen, le récit mythographique, les peintures de vases et les œuvres de théâtre forment des productions différentes. Leurs écarts sont une ressource d'enquête.
+
+La conséquence éditoriale est stricte : aucune version ne peut être promue comme texte de la *Danaé* comique simplement parce qu'elle semble la mieux adaptée à la scène.
+
+### Complément 09 — [B] Autres enfants menacés : comparer sans fabriquer de filiation (source secondaire, section 47)
+
+Des récits anciens présentent une prédiction, la menace exercée sur un enfant à naître, l'exposition ou la survie en milieu aquatique. Leur ressemblance avec le cycle de Persée peut être étudiée, mais elle ne démontre ni emprunt direct ni origine historique unique. Une comparaison sérieuse préciserait l'ancienneté des textes, les canaux de circulation, les fonctions des motifs et les différences de construction.
+
+La monographie ne transforme pas le coffret de Danaé en preuve généalogique pour des traditions mésopotamiennes, égyptiennes ou hébraïques.
+
+### Complément 10 — [B] Une poétique du manque (source secondaire, section 48)
+
+Pourquoi rédiger longuement sur une comédie dont il reste zéro vers ? Parce que l'histoire d'un théâtre perdu est aussi l'histoire de la sélection des bibliothèques, des lexiques, des compilations, de la fortune des titres et de la survie inégale des genres. L'absence qualifiée est un fait de recherche. Elle peut être distinguée, expliquée, comparée, mais non comblée par un faux texte.
+
+Le résultat le plus substantiel d'une telle étude consiste à rendre visible la frontière entre **ce que nous savons, ce que nous proposons et ce que nous inventons**.
+
+# Sixième partie — Atelier dramatique original (aucune restitution antique)
+
+**[C] Les quatre scènes suivantes sont des créations autonomes composées en 2026 pour MYTHOS.** Elles expérimentent des tensions du mythe ; aucun personnage secondaire, aucune réplique ni aucun ordre d'épisodes ne sont attestés dans la *Danaé* d'Apollophanès.
+
+### Complément 11 — [C] Scène originale I — L'architecte du lendemain (source secondaire, section 49)
+
+*Une table de chantier. Un ROI, une ARCHITECTE et une MESSAGÈRE examinent le plan d'une chambre dépourvue de porte.*
+
+**LE ROI.** Voilà mon palais le plus sûr.
+
+**L'ARCHITECTE.** C'est pourtant le seul où personne ne pourra vivre.
+
+**LE ROI.** Je ne commande pas un lieu de vie. Je commande une précaution.
+
+**LA MESSAGÈRE.** Une précaution pour qui ?
+
+**LE ROI.** Pour demain.
+
+**L'ARCHITECTE.** Demain n'a pas de corps. Je ne peux l'enfermer.
+
+**LE ROI.** Alors enfermez tout ce qui pourrait y conduire.
+
+*L'Architecte dessine un mur supplémentaire.*
+
+**LA MESSAGÈRE.** Et l'air ?
+
+**LE ROI.** Qu'on le filtre.
+
+**L'ARCHITECTE.** Et la lumière ?
+
+**LE ROI.** Qu'on l'examine.
+
+**LA MESSAGÈRE.** Et les rêves ?
+
+**LE ROI.** Qu'on les déclare illégaux.
+
+*L'Architecte s'arrête de tracer.*
+
+**L'ARCHITECTE.** Sire, à présent le plan est achevé.
+
+**LE ROI.** Où est l'entrée ?
+
+**L'ARCHITECTE.** Il n'y en a pas.
+
+**LE ROI.** Comment le surveillerons-nous ?
+
+**L'ARCHITECTE.** Vous vouliez un endroit auquel personne ne puisse accéder. Il faut choisir entre la surveillance et la fermeture parfaite.
+
+**LE ROI.** Vous placez l'État devant une contradiction.
+
+**LA MESSAGÈRE.** C'est lui qui vous l'avait demandée.
+
+*Le Roi observe le plan. Il semble satisfait, puis cherche une gomme.*
+
+**LE ROI.** Effacez-moi du dehors.
+
+**L'ARCHITECTE.** Pourquoi ?
+
+**LE ROI.** Parce qu'il n'y a plus que moi qui puisse être menacé.
+
+*Noir. Création [C] ; aucune scène d'architecte n'est attestée chez Apollophanès.*
+
+### Complément 12 — [C] Scène originale II — Le comptable et la pluie (source secondaire, section 50)
+
+*Un COMPTABLE, une FEMME et un SERVITEUR. Une goutte d'eau tombe du plafond dans une jarre.*
+
+**LE COMPTABLE.** On m'a dit qu'il tombait des richesses ici.
+
+**LA FEMME.** Il tombe de l'eau.
+
+**LE COMPTABLE.** J'ai apporté le registre des propriétaires.
+
+**LE SERVITEUR.** À qui appartient la pluie ?
+
+**LE COMPTABLE.** À celui qui peut la percevoir.
+
+**LA FEMME.** Et si personne ne la possède ?
+
+**LE COMPTABLE.** Alors il faut créer un impôt.
+
+*Le Serviteur tourne la jarre d'un quart de cercle. La pluie continue.*
+
+**LE SERVITEUR.** On dirait qu'elle ne respecte pas la nouvelle orientation.
+
+**LE COMPTABLE.** La nature doit recevoir les instructions plus clairement.
+
+**LA FEMME.** Vous confondez ce qui se compte et ce qui arrive.
+
+**LE COMPTABLE.** Quand une chose arrive, il faut la déclarer.
+
+**LA FEMME.** Et quand elle disparaît ?
+
+**LE COMPTABLE.** Il faut lui écrire une lettre de rappel.
+
+**LE SERVITEUR.** Je crois que votre registre a pris l'eau.
+
+*Le Comptable ouvre le registre et voit l'encre se répandre.*
+
+**LE COMPTABLE.** Je ne distingue plus les recettes des dépenses.
+
+**LA FEMME.** Pour une fois, votre compte ressemble au ciel.
+
+**LE SERVITEUR.** Il reste quelque chose que l'on ne peut peser ?
+
+**LA FEMME.** Ce que chacun fait après avoir reçu.
+
+*Noir. Création [C], non paraphrase d'une comédie antique sur Zeus.*
+
+### Complément 13 — [C] Scène originale III — Le procès du coffre (source secondaire, section 51)
+
+*Devant un tribunal : une CHARPENTIÈRE, un MARIN, une MÈRE et un MAGISTRAT. Un coffre vide les sépare.*
+
+**LE MAGISTRAT.** Qui a construit le coffre ?
+
+**LA CHARPENTIÈRE.** Moi, pour abriter ce qui était fragile.
+
+**LE MAGISTRAT.** Qui l'a porté à la mer ?
+
+**LE MARIN.** Moi, sur ordre.
+
+**LE MAGISTRAT.** Qui s'y trouvait ?
+
+**LA MÈRE.** Des personnes qu'on n'avait pas interrogées.
+
+**LE MAGISTRAT.** C'est regrettable. Mon formulaire n'a pas de case pour les personnes non interrogées.
+
+**LA CHARPENTIÈRE.** Le coffre a été bien construit.
+
+**LE MARIN.** Le voyage a été bien exécuté.
+
+**LA MÈRE.** Voilà deux travaux correctement accomplis qui formaient ensemble une catastrophe.
+
+**LE MAGISTRAT.** Une catastrophe doit avoir un responsable.
+
+**LA CHARPENTIÈRE.** Il faut examiner la commande.
+
+**LE MARIN.** Il faut examiner la route.
+
+**LA MÈRE.** Il faut examiner la volonté de celui qui a ordonné la route et la commande.
+
+*Le Magistrat mesure le coffre.*
+
+**LE MAGISTRAT.** Il manque de place pour autant de responsabilités.
+
+**LA MÈRE.** Elles ne tenaient pas davantage dans notre vie.
+
+**LE MARIN.** Nous n'étions chargés que d'un objet.
+
+**LA MÈRE.** Voilà précisément votre erreur.
+
+*La Charpentière soulève le couvercle.*
+
+**LA CHARPENTIÈRE.** Il est vide.
+
+**LA MÈRE.** Alors donnez enfin la parole à ce qui n'y est plus.
+
+*Le Magistrat retourne son registre, qui ne porte aucune colonne au verso.*
+
+**LE MAGISTRAT.** Cette procédure n'avait pas été prévue.
+
+*Noir. Création [C]. Aucun procès du coffre n'est transmis pour Apollophanès.*
+
+### Complément 14 — [C] Scène originale IV — Le titre sans texte (source secondaire, section 52)
+
+*Une BIBLIOTHÉCAIRE, un COPISTE et une COMÉDIENNE se tiennent devant un rouleau presque vide. Un seul nom y figure.*
+
+**LA BIBLIOTHÉCAIRE.** Nous avons retrouvé le titre.
+
+**LE COPISTE.** Et la pièce ?
+
+**LA BIBLIOTHÉCAIRE.** Le reste n'est pas arrivé jusqu'à nous.
+
+**LA COMÉDIENNE.** On peut encore jouer quelque chose.
+
+**LE COPISTE.** Sans aucun vers ?
+
+**LA COMÉDIENNE.** Nous pouvons jouer notre désir de les retrouver.
+
+**LA BIBLIOTHÉCAIRE.** À condition de dire au public ce qui vient de nous.
+
+**LE COPISTE.** Mais si j'écris une scène assez ancienne dans le style, personne ne remarquera la différence.
+
+**LA BIBLIOTHÉCAIRE.** Et c'est précisément pourquoi vous devrez la signaler.
+
+**LA COMÉDIENNE.** Un titre ne donne pas d'ordres aux acteurs.
+
+**LE COPISTE.** Il donne une direction.
+
+**LA BIBLIOTHÉCAIRE.** Il indique surtout qu'un auteur a peut-être parlé là où nous ne pouvons plus l'entendre.
+
+*Le Copiste se met à écrire sur un autre rouleau.*
+
+**LE COPISTE.** Quel titre porterai-je en tête ?
+
+**LA COMÉDIENNE.** « Ce que nous imaginons ».
+
+**LA BIBLIOTHÉCAIRE.** Ajoutez la date.
+
+**LE COPISTE.** Pourquoi ?
+
+**LA BIBLIOTHÉCAIRE.** Pour qu'un jour personne ne nous prenne pour les Anciens.
+
+*La Comédienne tient le rouleau nouveau devant la salle.*
+
+**LA COMÉDIENNE.** Voici la seule manière loyale de ressusciter une scène : reconnaître qu'on en crée une autre.
+
+*Noir. Scène [C], entièrement contemporaine et métathéâtrale.*
+
+# Septième partie — Bibliographie, matrice de preuve, continuité
+
+### Bilan de la réconciliation critique
+
+Le volume LXXXI reste l'unique étude canonique de la *Danaé* d'Apollophanès. Les nouveaux paragraphes établissent avec plus de détail les différences entre la notice de la Souda, les traitements mythographiques et dramatiques et les hypothèses philosophiques modernes. Les quatre scènes nouvelles [C] portent à **sept** le nombre de scènes créatives explicitement identifiées dans le volume canonique, sans enrichir artificiellement l'inventaire des fragments antiques. Le second manuscrit de 46 841 caractères reste conservé tel quel dans `editorial/inbox/` : ni sa suppression ni son altération ne sont nécessaires à la déduplication. Le suivi de recherche se poursuit sur le même chemin canonique après attribution confirmée.
