@@ -603,13 +603,7 @@ def create_theatre(entries):
             source=BeautifulSoup(file.read_text(encoding="utf-8"),"html.parser")
             main=source.find("article") or source
             text_content=main.get_text(" ",strip=True)
-            references=[]
-            for m in re.finditer(r"\bvers\s+(\d{1,4})(?:\s*[–—-]\s*(\d{1,4}))?",text_content,re.I):
-                first=int(m.group(1))
-                last=int(m.group(2)) if m.group(2) else first
-                if first<=last:
-                    references.append((first,last))
-            unique_refs=sorted(set(references))
+            unique_refs=detect_verse_references(main)
             explicit=len(unique_refs)
             has_commentary=bool(re.search(r"commentaire (?:suivi|intégral|des |de |philologique)|étude suivie des scènes|grand commentaire|lecture suivie",text_content,re.I))
             if explicit:
@@ -780,13 +774,7 @@ def create_theatre(entries):
             source=BeautifulSoup(file.read_text(encoding="utf-8"),"html.parser")
             main=source.find("article") or source
             text_content=main.get_text(" ",strip=True)
-            references=[]
-            for m in re.finditer(r"\bvers\s+(\d{1,4})(?:\s*[–—-]\s*(\d{1,4}))?",text_content,re.I):
-                first=int(m.group(1))
-                last=int(m.group(2)) if m.group(2) else first
-                if first<=last:
-                    references.append((first,last))
-            unique_refs=sorted(set(references))
+            unique_refs=detect_verse_references(main)
             explicit=len(unique_refs)
             has_commentary=bool(re.search(r"commentaire (?:suivi|intégral|des |de |philologique)|étude suivie des scènes|grand commentaire|lecture suivie",text_content,re.I))
             if explicit:
