@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "workflow": "MYTHOS — iconographie du site",
+  "repository": "Bobcribb/Bobcribb.github.io",
+  "branch": "main",
+  "latest_session": {
+    "date": "2026-11-04",
+    "kind": "AUDIT ET CORRECTION",
+    "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "checked_pages": 13,
+    "source_errors_fixed": {
+      "missing_images": 25,
+      "missing_script_references": 13,
+      "total": 38
+    },
+    "validation": "13 pages relues sur main : aucun ancien chemin d'image, aucune ancre interne absente ni identifiant HTML dupliqué sur ce périmètre",
+    "public_deployment_status": "À vérifier par le reçu de déploiement : un commit GitHub n'est pas une mise en ligne publique.",
+    "content_preserved": "Aucun chapitre numéroté, aucun registre de numérotation, aucune automatisation modifiés.",
+    "correction_commits": [
+      "68c46be0a08360c0cc2a772787a920dc56ca9cfd",
+      "40ea73a0255286871fa9f0ab93004b2683136e50",
+      "e54ac28089882390e4aa68a30ece4c292855c2d7",
+      "77dee15b61d1e7f1c736317f7afb1708e57096a3",
+      "8bf58be83f74ae04faba67496d05a8b172836948",
+      "47f62273f267f4dc19188095e2d61944500c0ca6",
+      "dbb693780c803e4f042b9e25a5335ad235949dea",
+      "b8cac9147302a1932830ddd6d52219be7a2f1b76",
+      "867be0aa05e3fdf6089f826f6c90141724796fc7",
+      "030676b4473870ec4c907ec30475949a0fb79e56",
+      "b9af8fb13a92ede198e19ecc44aa1bd9d129b6f1",
+      "05c15d58afd6e045e9d280f993e86c4a27850e0c",
+      "849c1a0bf95676209949577a958ec135d6855e18",
+      "e3e71462616b6876214982c23b879a53447b32a8"
+    ]
+  },
+  "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind."
+}
