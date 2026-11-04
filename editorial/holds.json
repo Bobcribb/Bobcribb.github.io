@@ -1,4 +1,9 @@
 {
   "version": 1,
-  "requests": {}
+  "requests": {
+    "8fbc061a-1dd7-4969-9b5e-69564a81aa83": {
+      "request_sha256": "26fdab1cdc97c22e9cdb291557b4de7115e05c8a21058c98cc30899961ce0925",
+      "reason": "Collision éditoriale : même pièce antique Apollophanès, Krêtes, soumise aussi sous 6b3e72d1-8f0c-4d9a-9235-0bd469e63a71 (52 170 caractères). Conserver intacte cette seconde étude de 50 008 caractères dans inbox, ne pas lui attribuer de numéro distinct avant rapprochement philologique et archivage intégral comme complément de l’étude principale. Ne pas confondre avec les Krêtes de Nicocharès ou d’Euripide."
+    }
+  }
 }
