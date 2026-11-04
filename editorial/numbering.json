@@ -399,6 +399,18 @@
           "path": "chapitres/origines-du-sacre/638-nauny-tentabekhenet-noms-reecrits-cercueils-tt358.md",
           "request_sha256": "a832ccdc79f772698eae2d1d8132d3fabd8f5ffe859f05a65030e68c4e1c5bfa",
           "initial_source_sha256": "39b4c1f6ca5b9a0c6b2cbcb40185df37f911bce519aa6b237af7a2cb9890ad09"
+        },
+        "78bc3a62-2f54-450c-85ef-343d1f6b7e21": {
+          "number": 639,
+          "path": "chapitres/origines-du-sacre/639-tanetnahereret-louvre-visages-invisibles-geometrie-ateliers-cercueils.md",
+          "request_sha256": "afd907d4de28ec095ea38428cd1ac79c15be9cc0d91834938fdb5068509216b1",
+          "initial_source_sha256": "e530280cc61254c6258dea1b3c0bcadf4696485f51e9ed034147cd2ff24f4ac1"
+        },
+        "e2d5b413-5c69-4a84-a15f-9367dfc82410": {
+          "number": 640,
+          "path": "chapitres/origines-du-sacre/640-butehamon-turin-2236-ecriture-archaisante-cercueils-memoire-royale.md",
+          "request_sha256": "93c83d17a2ef4dcfad7392a71b1e3007bb4611739b385b6145cbc8cd3c4de6ff",
+          "initial_source_sha256": "19a7db2eee1be4327004a89935b8bbe1fc02e8b69978cf37e4508e7700685757"
         }
       }
     },
@@ -772,6 +784,12 @@
           "path": "chapitres/encyclopedie/chapitre-409-agathos-daimon-serpent-maison-alexandrie-prosperite.md",
           "request_sha256": "07acb386f22ed077c44c5e7cf186b8ab4c167cd64f210aa09afc721d62cade9e",
           "initial_source_sha256": "ac47f80d00b13ed39d97af8925a530582b45877bbfb53c7ccc203ef2c677b817"
+        },
+        "f6a1e3d8-4b2c-4fc5-86c9-0d8e5a783bf1": {
+          "number": 410,
+          "path": "chapitres/encyclopedie/chapitre-410-telesphoros-pergame-guerison-enfant-capuchon-asclepios.md",
+          "request_sha256": "0166e9df7b7bf0a8aaef82ed5ada9fa85cb0dda443d2cedb044bc261bc725d7e",
+          "initial_source_sha256": "c785050ffe111f31077bf9113513da3da50ccf3246ae5fbfa594d8c3e08b4e4f"
         }
       }
     },
@@ -1012,6 +1030,18 @@
           "path": "chapitres/comedies/volume-088-archippos-fragments-sans-titre-45-48-mer-travail-peitho-alcibiade.md",
           "request_sha256": "719ee0f751e485b986da67c26bf50fbe84be6bc34196b358c94487ef435a8f1b",
           "initial_source_sha256": "f2b92b5e945ecdf1b73275a78118ca03222afb430155dc6aa8c0353e874a8da2"
+        },
+        "a8de0b17-55d4-46d9-93cb-0470f2d6e2ac": {
+          "number": 89,
+          "path": "chapitres/comedies/volume-089-nikochares-amymone-pelops-oinomaos-vin-mythes-double-titre.md",
+          "request_sha256": "a0ea3ecba3f3dabda6530b58421965ade6bdfca0b8d904c31267c61eb88d6337",
+          "initial_source_sha256": "a06e445166d4bdd658725d500f892b1fd1ad35d692e24413e3cefcf49ea1bc50"
+        },
+        "e7c2e458-6c43-4b71-96b5-d72ca83df409": {
+          "number": 90,
+          "path": "chapitres/comedies/volume-090-nikochares-agamemnon-cassandre-prophetie-paratragedie-verite-oracle.md",
+          "request_sha256": "d985a42546a3786b5aa810ae6579be2ed9467ecf170e28ad7489618b929ef0b4",
+          "initial_source_sha256": "d3486966566211da28ba355cf116bb151d42863a81430220a12e9abe48f80e8f"
         }
       }
     },
@@ -1306,6 +1336,18 @@
           "path": "chapitres/tragedies/volume-ccxxxii-sophocle-hermione-neoptoleme-oreste-promesses-delphes-legitimite.md",
           "request_sha256": "08f34a9eadc876f829ac7e1258a33a22ddd3aa2710fc80d9f0e9c45e0e47d11b",
           "initial_source_sha256": "73e3bb0577b398066c64bf85d826825c36d9b0a7626abdedfd0a82fca2cb8462"
+        },
+        "c5e61d9a-1f40-4a77-9da4-86f74a34aef1": {
+          "number": 233,
+          "path": "chapitres/tragedies/volume-ccxxxiii-sophocle-helenes-apaitesis-revendication-helene-ambassade-antenor-justice-troie.md",
+          "request_sha256": "de58a42ed4f513d4616ad0dea4ede60e2a28005aebfb61d04dabd8a1772c070f",
+          "initial_source_sha256": "7c351b6a502b4b55c98ba7e267b4dd48c2aea5039d38f797000a0ad8332c027d"
+        },
+        "f36f4f0c-5a4a-4650-9e80-3310dd5abd91": {
+          "number": 234,
+          "path": "chapitres/tragedies/volume-ccxxxiv-sophocle-helenes-apaitesis-reclamation-helene-ambassade-logos-antenor.md",
+          "request_sha256": "75e4a8996d1d256b411173b0466f64e13ff30e072d233dc9e6692807c2b4cc3f",
+          "initial_source_sha256": "a577c29cf716fd05b02aa5cf12c44071e1704970b6b10282cc9126a014efbdcd"
         }
       }
     },
@@ -1843,6 +1885,18 @@
           "path": "chapitres/comparatif/volume-ccxxx-mc-049-faire-vivre-image-divine-naissance-rituelle-statues-ouverture-bouche-presence-regard.md",
           "request_sha256": "b863ea01bbe31e586548337406a3ca46691a68009357b4e1705b274ecd8ec6c1",
           "initial_source_sha256": "dac2aad6a8f5713d47583ed62519cfe8c42b4e945afcdd6a994cde75da548056"
+        },
+        "72b851ce-ec51-4ae7-8101-bc4851e3f051": {
+          "number": 231,
+          "path": "chapitres/comparatif/volume-ccxxxi-mc-051-quand-les-dieux-tranchent-oracles-decisions-barques-dodone-kouch-hatti-assyrie-israel.md",
+          "request_sha256": "ed5bfc15eddf7698a9e76e0c742da380e1a1734b61ac846b8c8417cbda4acff2",
+          "initial_source_sha256": "9214dd1df620e41732afcbd285d9e80250b9f57e794a19c1dd3184c57528e2dc"
+        },
+        "7edc91a6-6980-4a18-9426-3f9c6eb71c52": {
+          "number": 232,
+          "path": "chapitres/comparatif/volume-ccxxxii-mc-052-detourner-le-mal-namburbi-roi-substitut-peste-hittite-azazel-pharmakos-execration.md",
+          "request_sha256": "ff05821f83a744e9f6d7b1a939022b778809465101be2322cc2b4ffd107ab5bb",
+          "initial_source_sha256": "bbf1b711e1eac1df7bf2a268384c09e4e3014f0ff799fa627a8ff15f9e827011"
         }
       }
     }

@@ -1,0 +1,559 @@
+# MYTHOS — Encyclopédie des tragédies grecques — Volume CCXXXIII (233)
+
+## Sophocle, *La Revendication d’Hélène* (*Helenēs apaitēsis*, Ἑλένης ἀπαίτησις) — L'ambassade devant Troie, la parole mise en échec et la responsabilité de la guerre
+
+**Monographie universitaire originale et intégrale — 4 novembre 2026.** Histoire du théâtre grec, tragédies perdues, fragments et transmission indirecte, traditions épiques, diplomatie mythique, pensée de la justice, réception philosophique, iconographie archéologique.
+
+**Auteur :** Sophocle (v. 496–406 av. J.-C.). **Statut :** tragédie perdue, non datable avec certitude. **Référence critique principale :** Stefan Radt, *Tragicorum Graecorum Fragmenta* IV, *Sophocles*, F 176–180a (seconde édition revue, 1999). Ce répertoire ne représente ni un acte complet ni une succession de vers continus. **Sujet de l'étude :** restitution réclamée d'Hélène et des biens enlevés à Sparte ; délégation achéenne associée à Ménélas et Ulysse ; rôle d'Anténor et des divisions troyennes ; place possible de la voix d'Hélène dans une fable tragique dont l'ordonnance scénique demeure perdue.
+
+**Avertissement philologique :** dans la documentation conservée, certaines citations ne nomment que « l'Hélène » de Sophocle ou portent une attribution discutée ; elles sont classées dans le dossier de *La Revendication d'Hélène* par la critique, sans que leur identification textuelle soit toujours incontestable. Les propositions concernant la distribution des paroles, les personnages présents, la date, le chœur, les lieux scéniques, les causes précises de l'échec et les effets moraux sont expressément des hypothèses. Aucun dialogue grec, aucune scène ni aucune strophe chorale ne sont reconstitués comme authentiques.
+
+---
+
+# I. Argument historique et méthode
+
+### 1. Une tragédie au seuil de la guerre
+
+Dans la mémoire grecque, la guerre de Troie est souvent racontée à partir de son issue : corps des héros, ruines d'Ilion, retours malheureux des vainqueurs. *La Revendication d'Hélène* renvoie, au contraire, à une phase où la destruction n'est pas encore entièrement accomplie et où les protagonistes prétendent toujours pouvoir négocier. Le titre ne désigne pas une bataille, mais une demande : obtenir le retour d'une femme et de biens réputés enlevés. Il place l'action mythique sous le signe d'une parole qui exige, répond, refuse ou temporise.
+
+Le contraste est décisif. La violence annoncée de la guerre dépend, dans le récit traditionnel, d'un conflit que la discussion aurait théoriquement pu désamorcer. L'enjeu de la pièce aurait pu être la possibilité d'une paix encore ouverte, ou la découverte que l'on a déjà fermé les conditions de cette paix. Il demeure impossible de dire si Sophocle faisait de la négociation le centre exclusif de l'action, ou s'il lui associait une séquence privée concernant Hélène. L'hypothèse d'un drame d'ambassade repose sur un croisement de titre, de fragments et de témoignages épiques ; elle n'est pas un synopsis retrouvé.
+
+### 2. Ce que signifie « étudier » une tragédie dont le texte manque
+
+Le dossier impose un régime d'analyse particulier. On ne peut pas traiter la pièce comme l'*Antigone*, dont les épisodes, les chants et les paroles sont conservés. Notre première obligation est de classer les documents en degrés de preuve : (a) titre attesté dans la tradition sophocléenne ; (b) citations directes rattachées au titre ou à une *Hélène* de Sophocle ; (c) récits indépendants de l'ambassade chez Homère, Proclos, Bacchylide et les mythographes ; (d) reconstructions modernes susceptibles de rapprocher ces éléments.
+
+Un récit ancien portant sur le même événement n'est pas automatiquement une source sur le déroulement de la représentation sophocléenne. Le texte d'Homère peut établir la présence du souvenir d'une ambassade dans l'épopée ; il ne donne pas les vers de Sophocle. Un vase peint peut attester l'iconographie d'une délégation antérieure à la tragédie ; il ne fournit pas un décor de théâtre. Une traduction moderne peut proposer un locuteur plausible pour un fragment ; elle ne prouve pas que ce locuteur était nommé dans le texte perdu.
+
+### 3. Chronologie documentaire : pas de date de production fixée
+
+Sophocle appartient au Ve siècle av. J.-C., et plusieurs motifs de la restitution d'Hélène circulent auparavant dans la tradition archaïque. Ce constat ne permet pas de choisir une année de représentation. On a discuté des proximités possibles avec l'*Ajax* ou avec le *Philoctète* en s'appuyant sur des reconstructions de structure dramatique ; l'argument demeure trop dépendant de scènes non conservées pour fonder une datation sûre.
+
+Il serait également illégitime de déduire une date du fait qu'une version du thème a été représentée dans la céramique corinthienne vers le milieu du VIe siècle, ou qu'elle apparaît chez Bacchylide. Ces témoins prouvent une tradition disponible, non une date de concurrence théâtrale ni une relation de copie démontrée. La chronologie interne de la fiction — avant le siège, au début de la guerre, après le débarquement, ou suivant une variante — ne décide pas de la chronologie historique de composition.
+
+### 4. Une unité d'œuvre à préserver dans le catalogue MYTHOS
+
+*La Revendication d'Hélène* n'est pas le drame satyrique intitulé *Le Mariage d'Hélène* ni nécessairement *L'Enlèvement d'Hélène*, autre titre discuté dans les répertoires sophocléens. Elle ne se confond pas davantage avec l'*Hélène* d'Euripide, avec l'*Éloge d'Hélène* de Gorgias ni avec les comédies sur la naissance ou les aventures de l'héroïne. Les trois motifs — revendication, enlèvement, mariage — peuvent appartenir au même ensemble mythique sans désigner une seule pièce.
+
+Cette distinction est essentielle pour une encyclopédie qui attribue un numéro par œuvre étudiée : la récurrence d'une héroïne dans plusieurs genres n'est pas un doublon, tandis que la soumission de deux études du même titre sophocléen doit être identifiée comme telle et traitée par concordance ou complément, non par fiction d'une nouvelle œuvre. L'étude présente a une identité d'œuvre autonome et un slug fondé sur son titre, non sur le numéro éditorial à venir.
+
+---
+
+# II. Dossier des fragments 176–180a Radt
+
+### 5. Principes d'édition et limites matérielles
+
+Stefan Radt range sous le titre sophocléen *Helenēs apaitēsis* les fragments F 176 à F 180a dans le volume IV du *TrGF*. Jacques Jouanna donne la même plage dans la liste des œuvres fragmentaires annexée à son *Sophocle* (Fayard, 2007). La plage **F 176–180a** est une référence de classement, pas une indication du nombre de scènes, de personnages ou de vers conservés.
+
+Les témoins sont hétérogènes : scholies, traditions lexicales ou grammaticales, références éditoriales anciennes. Pour une véritable édition diplomatique, il faudrait reprendre la leçon des manuscrits, l'apparat de Radt, les systèmes antérieurs de Nauck et Pearson, puis les propositions de correction des articles récents. La présente monographie expose ce qui est contrôlable à partir des éditions et recherches citées ; elle ne prétend pas remplacer l'apparat critique intégral sous droits de l'édition Radt.
+
+### 6. F 176 Radt : reconnaître une voix spartiate
+
+L'étude de Giulia Baccaro explique que le fragment F 176 laisse supposer qu'un personnage reconnaît la particularité d'une parole ou d'un accent lié à Sparte. Dans le cadre d'une ambassade de Ménélas, le personnage qui reconnaît cette parole **pourrait** être Hélène, peut-être surprise d'entendre une voix de son ancienne patrie. Il s'agit d'une **interprétation** du passage, non d'une désignation conservée de la locutrice et de son interlocuteur.
+
+L'hypothèse est dramatiquement forte parce qu'elle associe géographie, mémoire et identité : entendre la langue de Sparte au cœur de Troie rendrait la distance entre deux appartenances sensible dans une expérience acoustique. Mais elle peut être formulée sans fabriquer une scène d'écoute clandestine. Nous ignorons si la reconnaissance était immédiate, si Hélène était présente ou simplement évoquée, si l'ambassade passait sous ses yeux et si les mots appartenaient au début ou à la fin du drame.
+
+La fonction possible de F 176 n'est donc pas une preuve de rencontre sur scène. L'énoncé fragmentaire ouvre une question de mémoire et de langue, dont la réponse reste suspendue.
+
+### 7. F 177 Radt : une rubrique critique n'est pas un récit autonome
+
+Le fragment suivant appartient au dossier transmis sous le titre de l'œuvre, mais sa brièveté et son contexte indirect ne permettent pas d'établir une progression dramatique à partir de F 176. Le numéro 177 ne signifie pas que le passage suivait F 176 dans la représentation : la succession est celle de l'éditeur moderne. Il n'est pas justifié de répartir les restes en prologue, parodos et premier épisode, ni d'inférer une parole précise de Priam, de Pâris ou d'Anténor sans indication du témoin.
+
+Les éditions de fragments exigent une précaution constante : certains éléments qui paraissent voisins par leur numérotation proviennent de sources anciennes différentes et ont pu être cités pour des raisons entièrement étrangères à la fable. Une entrée de lexicographe peut ne s'intéresser qu'à un verbe rare, une scholie qu'à la valeur d'une comparaison, un commentateur qu'à une allusion. La continuité dramatique a disparu avec le texte qui entourait la citation.
+
+### 8. F 178 Radt : le sang de taureau et la « mauvaise renommée »
+
+Le cas le plus riche est **F 178**, transmis par une scholie aux *Cavaliers* d'Aristophane, vers 84b. Les deux vers sont rattachés par le témoin à une *Hélène* de Sophocle ; l'attribution à la *Revendication d'Hélène* est généralement retenue, mais elle reste un acte d'identification éditoriale. L'expression ancienne **αἷμα ταύρειον πιεῖν** signifie « boire du sang de taureau ». Le locuteur affirme préférer une telle extrémité à la persistance d'accusations ou de propos infamants. Le second vers comporte des difficultés de leçon : il serait abusif de présenter toutes les restitutions modernes comme également établies.
+
+Les Grecs ont transmis des récits dans lesquels le sang du taureau était censé être mortel ; l'anecdote relative à la fin de Thémistocle en a favorisé la circulation. **Cela ne démontre pas que la tragédie montrait une ingestion réelle**. Une menace conditionnelle, une figure rhétorique d'exaspération ou une déclaration destinée à éprouver la crédibilité d'un témoin sont des lectures envisageables. Dans son étude de 2021 (mise en ligne en 2022), Giulia Baccaro propose de replacer le passage dans une réflexion sur la démonstration d'innocence plutôt que de le limiter à une intention suicidaire.
+
+### 9. Qui parle dans F 178 ?
+
+Une interprétation ancienne dans la recherche moderne assigne les vers à Hélène, parce qu'elle est la personne dont la réputation est publiquement contestée. Ce choix est cohérent avec la honte, la calomnie, la possibilité de justifier le départ de Sparte ou de dénoncer des violences subies. Mais le fragment ne conserve pas le nom de la personne qui parle. D'autres hypothèses ont été formulées, notamment Pâris dans certains cadres de lecture.
+
+La différence est fondamentale. Si Hélène parle, on peut mettre au centre l'écart entre la possession d'une femme par des hommes et la prise de parole par laquelle elle affirme une vérité. Si un autre personnage parle, la phrase peut participer à une querelle politique ou à une défense de son honneur. L'importance du fragment tient donc en partie à cette indétermination : le mot **réputation** peut être l'enjeu d'une guerre de récits au moment même où l'ambassade prétend rendre les faits incontestables.
+
+Il ne faut pas faire dire à Sophocle « Hélène avoue » ou « Hélène proteste de son innocence » comme une certitude. On peut seulement écrire que **la lecture qui attribue F 178 à Hélène rend cette problématique possible**, et en explorer les conséquences.
+
+### 10. F 179 Radt et l'attention au fragment d'un seul mot
+
+Francesco Lupi, dans une étude parue en 2023 sur la présence d'Hélène dans le corpus sophocléen, revient sur **F 179 Radt**, fragment d'un seul mot, et propose avec prudence de le rapprocher du personnage d'Hélène. Le fragment ne fournit pas le contexte d'énonciation permettant de convertir ce rapprochement en certitude. La proximité numérique entre F 178 et F 179 ne constitue pas un indice de voisinage dans la pièce.
+
+Le fragment lexical ne doit pas être utilisé pour inventer l'état psychologique de l'héroïne, un type de chœur ou une confrontation. Sa valeur scientifique est d'abord celle d'un reliquat de langue attribué à l'œuvre. Cette discipline des fragments extrêmement courts est particulièrement importante dans le cas des auteurs dont la célébrité invite les commentateurs à remplir chaque silence par un développement plausible.
+
+### 11. F 180 et F 180a : frontière du corpus attribué
+
+Le catalogue moderne étend la rubrique à **F 180a**. Il ne faut pas traiter mécaniquement chaque numéro de la série comme un extrait équivalent en longueur et en fiabilité. Les éditions anciennes, les suppléments et les notices lexicales ont conduit à des additions et à des reclassements. Le lecteur doit comparer les variantes de classement s'il entreprend une édition philologique complète.
+
+La monographie ne fabrique ni traduction ni locuteur pour F 180 ou F 180a faute de disposer d'un texte contextualisé justifiant une telle opération. En revanche, elle conserve cette plage de référence dans la bibliographie critique et distingue son statut des deux vers discutés sous F 178. L'honnêteté d'une étude sur une pièce perdue réside parfois dans le refus d'ajouter une phrase séduisante à un fragment muet.
+
+### 12. Le vers au verbe « j'étais » : l'hypothèse de Laura Carrara
+
+Une recherche publiée par **Laura Carrara** en 2020 examine un trimètre cité par Choeroboscus et par les *Etymologica* au sujet d'une forme verbale rare, **ἤμην** (« j'étais »). La source grammaticale donne une attribution à une œuvre intitulée *Revendication d'Hélène* sous le nom d'Euripide. Or aucune tragédie euripidéenne portant ce titre n'est connue ; un vers voisin figure dans l'*Hélène* conservée d'Euripide, vers 931.
+
+La solution traditionnelle était d'expliquer la mention du titre par une confusion autour de la pièce euripidéenne. Carrara défend l'hypothèse que le vers appartiendrait plutôt à l'œuvre effectivement attestée de Sophocle, son *Helenēs apaitēsis*. Cette proposition a obtenu une attention favorable dans la recherche sur l'atticisme et sur les traditions grammaticales, mais **elle reste une proposition de réattribution**, non un nouveau papyrus qui aurait clos le débat.
+
+L'incertitude porte à la fois sur le nom du poète, sur la source de la citation et sur l'ancienneté authentique de la forme verbale transmise. Il ne faut donc pas insérer ce trimètre dans une scène reconstruite ni lui attribuer un numéro Radt officiel de manière improvisée. Le renvoi pertinent est à l'article de Carrara, à l'examen de la tradition et à l'état de l'édition critique retenue.
+
+### 13. La question des titres concurrents
+
+Un témoin qui dit simplement « Hélène de Sophocle » peut renvoyer à la *Revendication d'Hélène* ou à une autre œuvre du poète mettant le personnage au premier plan. La tragédie de la revendication est assurément attestée comme titre ; l'attribution de F 178 à ce titre particulier demeure conjecturale, quoique courante. Un éditeur doit donc distinguer : *la citation vient d'une Hélène sophocléenne* ; *l'éditeur l'associe à la Revendication* ; *le contenu s'insère plausiblement dans une histoire d'ambassade*.
+
+L'existence de titres portant sur l'enlèvement ou le mariage de l'héroïne rend ces précautions nécessaires. Les travaux modernes sur Sophocle fragmentaire explorent l'éventualité de titres alternatifs, sans qu'il soit permis de fusionner arbitrairement l'ensemble de ces pièces. Une numérotation encyclopédique fiable doit prendre au sérieux les variantes de titre tout en sauvegardant la distinction des genres.
+
+### 14. Tableau des garanties philologiques
+
+| Donnée | Appui principal | Niveau |
+| --- | --- | --- |
+| Titre *Helenēs apaitēsis* de Sophocle | Tradition éditoriale, TrGF IV | Attesté |
+| Plage F 176–180a Radt | Radt ; inventaire Jouanna | Établie comme classement |
+| F 176 et reconnaissance d'un parler spartiate | Citation ancienne, commentaire moderne | Indice textuel ; interlocuteurs discutés |
+| F 178 et formule du sang de taureau | Scholie à Aristophane, *Cavaliers* 84b | Citation attestée ; rattachement à ce titre discuté |
+| F 178 prononcé par Hélène | Welcker et interprétations récentes | Hypothèse plausible |
+| F 179 attribuable à une parole sur Hélène | Lupi 2023 | Hypothèse prudente |
+| Vers avec ἤμην | Tradition grammaticale ; Carrara 2020 | Réattribution proposée, non acquise |
+| Ménélas et Ulysse comme ambassadeurs | Homère, *Iliade* III ; Épitomé III | Tradition mythique attestée |
+| Anténor comme hôte et protecteur | Homère, *Iliade* III ; Épitomé III | Tradition mythique attestée |
+| Représentation des deux ambassadeurs par des acteurs sophocléens | Déduction de la fable | Non attestée directement |
+| Présence scénique d'Hélène | Hypothèses autour de F 176 et F 178 | Indécidable |
+| Discours de Priam, Pâris ou Antimachos dans la pièce | Parallèles épiques | Non attestés |
+| Chœur de femmes troyennes ou de citoyens | Reconstruction | Inconnu |
+| Date de représentation | Aucune donnée décisive | Inconnue |
+| Ordre des scènes et dénouement | Aucune source continue | Inconnus |
+
+---
+
+# III. Sources primaires : la mission dans la tradition grecque
+
+### 15. Homère, *Iliade* III, 205–224 : un événement déjà passé
+
+Au chant III de l'*Iliade*, Anténor se souvient devant Hélène de l'arrivée d'Ulysse et de Ménélas comme envoyés à Troie. Il indique les avoir reçus chez lui et distingue les manières de parler des deux hommes. Ménélas parle brièvement, avec assurance ; Ulysse transforme son apparence initialement peu impressionnante en force de persuasion lorsque son discours se déploie. La scène homérique est **un souvenir rapporté**, non le récit de la séance diplomatique dans sa totalité.
+
+Sophocle pouvait tirer de ce passage une matière puissante : deux styles de parole conduits vers une même fin et une cité qui a néanmoins refusé la demande. Mais Homère ne nous dit pas quels arguments ont été prononcés par les ambassadeurs devant l'assemblée et ne fournit pas la réponse mot à mot des Troyens. La tragédie pouvait développer cette lacune épique de diverses façons. Que le spectateur connaisse déjà l'échec n'empêche pas la tension dramatique : il sait où mène la décision, tandis que les acteurs de la fiction peuvent paraître encore disposer d'un choix.
+
+### 16. Homère, *Iliade* XI, 123–142 : le prix d'une parole hostile
+
+Au chant XI, le poème évoque Antimachos, qui aurait reçu des présents de Pâris afin de défendre l'option la plus violente contre Ménélas lorsqu'il était venu avec Ulysse. La discussion diplomatique se révèle ainsi exposée aux intérêts personnels, à l'influence d'un prince et à la possibilité du meurtre des envoyés. Dans la scène guerrière, la mémoire de cette hostilité participe à une logique de représailles.
+
+Il serait tentant d'introduire Antimachos comme antagoniste de la tragédie de Sophocle et de lui faire prononcer un discours corrompu. Cela demeure **une hypothèse de distribution dramaturgique**, pas une scène conservée. En revanche, le texte homérique justifie une analyse du motif de l'ambassade en péril : la parole chargée d'empêcher la guerre peut devenir elle-même l'objet d'une violence meurtrière.
+
+### 17. Les *Chants cypriens* selon le résumé de Proclos
+
+Le cycle épique perdu des *Chants cypriens*, connu notamment par le résumé conservé sous le nom de Proclos, mentionne une ambassade demandant le retour d'Hélène et des biens. Le refus troyen précède la poursuite des hostilités. La chronologie détaillée du départ et du débarquement n'est pas identique dans tous les témoins. La prudence s'impose pour distinguer le résumé tardif de l'épopée ancienne qu'il prétend condenser.
+
+La référence fournit néanmoins un ancrage fort à la signification du titre *apaitēsis* : la demande est une opération politique portant simultanément sur la personne d'Hélène et sur un patrimoine. Ce voisinage lexical rappelle que l'honneur royal, l'alliance matrimoniale et la richesse du foyer peuvent être conçus comme des dimensions d'une même offense. Il ne faut pas en déduire que Sophocle assimilait Hélène à une marchandise sans lui accorder la parole ; précisément, les fragments empêchent de trancher ce point.
+
+### 18. Pseudo-Apollodore, *Épitomé* III, 28–29 : l'ambassade en danger
+
+Le récit de l'*Épitomé* précise qu'Ulysse et Ménélas demandent la restitution d'Hélène et des biens. Lorsque la discussion tourne à l'échec, les Troyens envisagent de tuer les deux hommes ; Anténor les protège. Cette version plus narrative est le principal appui des reconstitutions où l'action tragique culmine dans une menace contre la sécurité des ambassadeurs.
+
+Mais la transmission mythographique n'est pas une chronique de la tragédie sophocléenne. Le motif de la protection d'Anténor est traditionnel et peut avoir été traité dans une tragédie différente ou servir de contexte supposé à une scène. Dans une reconstruction prudente, on peut exposer le danger politique que crée le refus de l'hospitalité sans prétendre connaître les gestes, les déplacements, le verdict final ou les réactions des personnages sophocléens.
+
+### 19. Bacchylide, dithyrambe 15 : l'éthique de la décision collective
+
+Le dithyrambe 15 de Bacchylide, également connu selon certaines numérotations anciennes comme le numéro 14, porte un double titre lié aux fils d'Anténor et à la revendication d'Hélène. La partie conservée associe Théano, prêtresse d'Athéna et épouse d'Anténor, à l'accueil de la délégation et fait entendre un discours de Ménélas où justice, bonne législation et démesure s'opposent. Le texte présente l'alternative comme une question collective : les enfants d'une cité héritent de la décision de ses dirigeants.
+
+Ce parallèle est précieux parce qu'il appartient à un autre genre poétique et montre combien le sujet offrait de ressources aux artistes du Ve siècle. On ne doit pourtant pas confondre **l'argument moral explicite du dithyrambe** avec le contenu perdu de la tragédie de Sophocle. Le partage de l'épisode n'établit ni dépendance directe ni identité des discours. La comparaison montre plutôt le champ des possibilités de cette matière : persuasion civique, hospitalité sacrée, critique de l'hubris et choix entre réparation et guerre.
+
+### 20. Le rôle de Théano
+
+Théano est, dans la tradition homérique, prêtresse d'Athéna à Troie et épouse d'Anténor. Le fragmentary Bacchylide et l'iconographie du cratère Astarita la mettent en relation avec les envoyés. Sa fonction a une portée institutionnelle : la cité possède des formes religieuses d'accueil qui peuvent offrir aux étrangers une protection autre que la volonté immédiate des princes.
+
+On ne peut cependant pas écrire qu'elle était un personnage de Sophocle. L'existence d'une Théano poétique ou peinte n'impose pas sa présence dans la représentation. La question dramaturgique reste ouverte : si une figure sacerdotale intervenait, la collision entre hostilité politique et protection religieuse deviendrait visible ; si elle n'intervenait pas, Anténor ou un héraut pouvait porter la même opposition par la parole. Ce sont des choix imaginables, non des restitutions.
+
+### 21. Le témoignage d'Hérodote II, 118–120 : et si les Troyens disaient vrai ?
+
+Hérodote rapporte, dans le livre II de ses *Histoires*, une version entendue des prêtres égyptiens : Hélène aurait été retenue en Égypte par Protée, et les Troyens auraient répondu avec sincérité aux Grecs qu'elle ne se trouvait pas chez eux. Les assiégeants, persuadés d'être trompés, auraient refusé de les croire ; après la prise de Troie seulement, ils auraient appris qu'Hélène était ailleurs. Hérodote développe lui-même un raisonnement sur l'intérêt objectif qu'aurait eu Priam à rendre Hélène s'il avait pu le faire.
+
+Cette version crée une transformation radicale de l'histoire : le désastre ne vient pas seulement du refus troyen de réparer une offense, mais d'un **défaut de vérification** de la part des assiégeants. Elle pose la question de l'écart entre conviction, preuve et violence légitime. Elle ne permet pas d'affirmer que Sophocle avait adopté la version égyptienne : aucune donnée ne l'établit. La comparaison doit demeurer un exercice de critique des variantes narratives.
+
+### 22. Le paradoxe du silence de la vérité
+
+Dans le récit d'Hérodote, les Troyens ont raison sur le fait matériel essentiel mais ne sont pas crus. Leur parole peut être sincère et impuissante. Dans d'autres versions, les Troyens refusent de remettre ce qu'ils détiennent réellement ; la parole devient refus délibéré et déclencheur d'une guerre. Ces deux constructions produisent des évaluations morales opposées à partir d'un même dispositif d'ambassade.
+
+Ce paradoxe est utile pour étudier un titre centré sur la demande. Réclamer la vérité ne suffit pas à la recevoir ; encore faut-il qu'une instance accepte la procédure capable de départager des affirmations contradictoires. L'ambassade peut échouer parce que les intérêts sont inconciliables, mais aussi parce qu'aucun acteur ne reconnaît une autorité commune pour établir les faits. On ne doit pas décider à la place de Sophocle quelle explication il privilégiait.
+
+### 23. Stésichore et le motif de l'image d'Hélène
+
+La tradition de la *Palinodie* de Stésichore, telle qu'elle a été interprétée et transmise, met en cause la réalité du séjour troyen d'Hélène, parfois remplacée par une apparence. Euripide développera cette possibilité avec une ampleur scénique dans son *Hélène* conservée. Ces traditions soulignent la plasticité mythique du personnage : beauté visible, présence corporelle, réputation et identité peuvent être disjointes.
+
+Le sujet d'une restitution devient alors vertigineux : comment rendre à Ménélas celle dont le nom circule, si la femme réelle est absente de la ville ? Cette question éclaire les versions d'Hérodote et d'Euripide, mais ne peut être introduite comme un fait dans *La Revendication d'Hélène* de Sophocle. La représentation d'une Hélène simulacre relève ici de la comparaison **non transférable sans preuve**.
+
+### 24. Gorgias et Isocrate : la cause d'Hélène comme objet d'argumentation
+
+Dans son *Éloge d'Hélène*, Gorgias organise plusieurs moyens de disculper l'héroïne : nécessité divine, violence, puissance du discours, amour. Isocrate adopte lui aussi la figure d'Hélène comme point d'appui d'une démonstration rhétorique, avec des finalités différentes. Ces textes éclairent la manière dont la culpabilité d'Hélène fut pensée comme une question publique et argumentative plutôt que comme un fait unanimement fixé.
+
+Aucun de ces discours ne doit être transcrit comme une parole sophocléenne. Le rapprochement philosophique intervient à titre de comparaison des **modes de justification** : distinguer la contrainte du consentement, la séduction de la responsabilité, la réputation de la preuve. L'inégalité des conditions de parole, notamment entre les chefs masculins et la personne réclamée, est un problème historique et éthique ; la fable conservée ne fournit pas de réponse unique.
+
+---
+
+# IV. Politique de la parole : diplomatie, hospitalité, souveraineté
+
+### 25. L'ambassade comme institution narrative
+
+Une ambassade est un événement théâtral favorable au conflit argumenté. Elle ouvre un espace où deux communautés s'adressent l'une à l'autre, où la demande doit être entendue sans être nécessairement acceptée, et où chaque prise de parole engage une responsabilité. Dans le dossier de Troie, Ménélas représente un dommage qu'il tient pour personnel et dynastique ; Ulysse apporte une autorité intellectuelle et une capacité de persuasion ; les interlocuteurs troyens peuvent invoquer l'ordre de leur maison, la fidélité à Pâris ou la sécurité de leur cité.
+
+Il serait anachronique de superposer à cette fable les conventions diplomatiques modernes. Les notions de souveraineté égale, d'immunité d'ambassade et d'arbitrage international codifiées par le droit contemporain ne doivent pas être présentées comme des normes grecques du Ve siècle. Le rapprochement pertinent porte sur l'expérience plus générale du **messager menacé** et de la protection que créent hospitalité, serment et sacralité.
+
+### 26. Anténor : hospitalité et dissidence dans une cité
+
+Homère présente Anténor comme l'hôte des envoyés achéens. L'*Épitomé* le décrit comme leur protecteur face à des Troyens voulant les tuer. On peut voir en lui une figure remarquable de **dissidence interne** : il appartient à Troie mais ne confond pas sa loyauté envers la cité avec l'acceptation d'une violence contre des étrangers reçus en hôtes.
+
+Cette dissidence ne suppose pas qu'Anténor était le héros principal de Sophocle. Elle permet néanmoins une lecture politique de la matière : une communauté n'est jamais totalement homogène. La décision officielle peut être contestée au nom d'obligations plus anciennes, rituelles ou personnelles. Un homme peut chercher à sauver une cité en s'opposant à l'impulsion de ceux qui la gouvernent, sans que le conflit se résume à l'opposition simpliste entre Grecs justes et Troyens injustes.
+
+### 27. L'hôte qui protège l'ennemi
+
+L'accueil accordé à des envoyés dont la demande menace les intérêts de Troie offre un paradoxe éthique. Les accueillir en amis ou en hôtes ne signifie pas adhérer à leur requête ; les refuser n'autorise pas nécessairement à les tuer. Les obligations d'hospitalité peuvent se détacher de l'avantage immédiat. Dans une culture poétique marquée par la réciprocité de la *xenia*, les devoirs entre étrangers constitueraient une médiation distincte de l'affrontement guerrier.
+
+Une lecture contemporaine y voit une limite imposée au pouvoir majoritaire : celui qui défend la sécurité des envoyés reconnaît un devoir envers la parole extérieure avant même d'en juger la substance. Toutefois aucune formule de Sophocle ne nous est conservée sur ce point ; la démonstration repose sur la tradition mythique d'Anténor et sur une problématisation historique.
+
+### 28. Pâris et la capture de la décision collective
+
+Dans l'*Iliade* XI, Antimachos aurait appuyé une politique hostile après avoir reçu des présents de Pâris. Cette tradition dramatise le risque de captation des institutions par un intérêt privé. Pâris veut préserver une relation dont la légitimité est contestée ; la cité doit décider si la solidarité avec un membre de la maison royale vaut le coût d'une guerre prolongée.
+
+À partir de cette structure, on peut poser une question politique centrale : **qui a le droit de faire supporter à toute une communauté les conséquences d'une décision personnelle ?** Dans la tragédie perdue, on ne sait pas si Pâris intervenait, quel poids avait Priam ou si l'affaire était portée devant une assemblée. La réflexion n'autorise aucune attribution de réplique.
+
+### 29. Priam et la possibilité de dire non à sa propre maison
+
+Priam incarne dans les traditions troyennes un roi attaché à la continuité de la ville et à la protection de ses enfants. Sa situation est potentiellement contradictoire : répondre favorablement à la demande achéenne signifierait désavouer Pâris et modifier la relation entre maison régnante et cité ; refuser expose les habitants à la guerre. La responsabilité royale se trouve divisée entre un devoir paternel et un devoir politique.
+
+Le motif peut être rapproché des conflits de Sophocle conservés, où des liens familiaux se heurtent à des obligations institutionnelles. Mais il faut conserver le caractère **analogique** de ce rapprochement. Aucune confrontation entre Priam et Pâris n'est directement attestée dans les fragments 176–180a de cette pièce.
+
+### 30. Les biens avec la personne : problème de vocabulaire
+
+Les traditions épiques ne demandent pas seulement le retour d'Hélène mais aussi celui des biens enlevés. Cette coprésence peut choquer un lecteur actuel, car elle rapproche une personne d'objets susceptibles d'être possédés, déplacés ou réclamés. Elle appartient toutefois à une économie héroïque où mariage, alliance, richesse et honneur domestique se présentent dans un système de dépendances.
+
+L'interprétation doit se garder de deux simplifications. La première serait de conclure que les Grecs pensaient exclusivement Hélène comme une chose. La seconde serait de lui attribuer une autonomie individuelle définie exactement selon les normes contemporaines. Il faut plutôt demander comment le langage de la restitution permet ou interdit d'entendre la parole de l'intéressée, et quelles violences sont rendues possibles lorsque la communauté ne considère que l'honneur de celui qui réclame.
+
+### 31. Quand la parole devient un ultimatum
+
+La revendication peut être comprise comme une demande négociable ou comme la présentation d'une condition dont le refus entraîne la guerre. Les sources mythiques insistent davantage sur l'échec que sur le détail d'éventuelles concessions. Il ne serait pas rigoureux d'inventer une offre de compensation, un délai précis, une seconde ambassade ou un vote solennel comme autant de scènes de Sophocle.
+
+L'enjeu philosophique est celui de la différence entre **convaincre** et **contraindre**. Une parole qui se présente sous la protection de la justice peut cesser d'être délibérative lorsqu'elle ne laisse plus place à l'examen de sa prétention. À l'inverse, une réplique troyenne qui se réduit à la solidarité dynastique peut ne plus reconnaître la possibilité d'un tort. La tragédie, en tant que forme, pourrait rendre visibles ces deux limites sans nécessairement résoudre le conflit.
+
+### 32. Le temps politique dans une histoire dont la fin est déjà connue
+
+Pour les spectateurs de l'Athènes classique, la chute de Troie n'est pas un suspense historique : elle appartient au passé mythique que chacun connaît. L'angoisse dramatique ne peut donc pas dépendre simplement de savoir si la guerre aura lieu. Elle dépend plutôt de la manière dont les personnages parlent et agissent **alors qu'ils pourraient encore choisir autrement**, du moins dans la logique de la fiction.
+
+La tension est proche d'un problème de causalité rétrospective. Lorsque l'issue est connue, chaque parole tend à devenir un signe du désastre. Mais ce caractère inéluctable pour le spectateur ne doit pas être imposé comme une certitude de la scène. La tragédie permet d'éprouver à la fois l'ouverture d'une décision vécue et la fermeture d'une histoire racontée.
+
+---
+
+# V. Hélène et la construction d'une culpabilité publique
+
+### 33. La femme que chacun prétend définir
+
+Hélène appartient à plusieurs récits incompatibles : femme enlevée, femme séduite, femme consentante, victime d'un dieu, simulacre envoyé à Troie, épouse qu'un roi veut récupérer et personnage doué de son propre jugement. La tradition ne permet pas de réduire ces figures à une identité morale unique. Son nom peut circuler dans les discours de ceux qui la réclament ou la défendent sans que sa propre voix soit entendue.
+
+Le fragment 178, s'il appartient à Hélène, introduit la possibilité d'une réplique à la calomnie. On ne peut conclure à une confession ni à un plaidoyer d'innocence avéré. La prudence ne diminue pas l'intérêt de la question ; elle l'augmente. La perte du texte devient visible là où le lecteur voudrait le plus ardemment connaître ce qu'Hélène disait d'elle-même.
+
+### 34. La réputation comme forme de violence
+
+L'accusation publique ne se contente pas de décrire un événement : elle assigne un rôle à une personne et autorise des actions contre elle. Si Hélène est tenue responsable du conflit, les destructions à venir peuvent être racontées comme le paiement d'une faute individuelle. Ce déplacement de responsabilité est problématique, car il transforme une chaîne de décisions prises par des chefs, des guerriers et des assemblées en conséquence de la seule beauté ou conduite d'une femme.
+
+Le corpus ancien montre à quel point ce procédé était controversé. Sappho, Stésichore, Gorgias, Euripide et d'autres ont donné des appréciations divergentes de la responsabilité d'Hélène. Cette variété interdit de résumer la « pensée grecque » en une doctrine fixe. Elle donne seulement à l'historien un champ de comparaisons pour apprécier les possibilités d'une pièce perdue.
+
+### 35. L'accent spartiate comme souvenir d'appartenance
+
+Le rapprochement proposé pour F 176 donne une place singulière à l'expérience sonore de l'exil. Reconnaître une voix ou un parler lié à Sparte peut rendre présent le pays quitté sans aucun récit explicatif. Dans une tragédie, une telle perception pourrait faire surgir le souvenir d'une relation antérieure et rendre sensible la dissociation entre domicile actuel et patrie d'origine.
+
+Cependant il faut garder le conditionnel : la présence d'une diction spartiate ne prouve ni la nostalgie d'Hélène, ni sa volonté de rentrer, ni son refus de demeurer à Troie. Les émotions dramatiques ne doivent pas être extraites mécaniquement d'un indice linguistique. La force critique de ce fragment est qu'il permet d'apercevoir un monde de voix sans en reconstituer l'intégralité.
+
+### 36. Hélène entend-elle l'ambassade ou y participe-t-elle ?
+
+Deux constructions sont envisageables. Dans l'une, Hélène serait directement consultée : son consentement, son refus ou son interprétation de sa situation deviendrait un élément de la négociation. Dans l'autre, les hommes discuteraient de son sort et elle percevrait les enjeux seulement en marge ou à travers des paroles rapportées. Les deux possibilités sont compatibles avec la concentration du sujet sur sa restitution.
+
+Nous ne possédons aucune preuve scénique qui tranche. La deuxième construction paraît cohérente avec le mode de fonctionnement fréquent de grandes maisons héroïques, mais l'analogie sociologique ne remplace pas la philologie. Une reconstitution universitaire doit donc montrer les options et leurs conséquences interprétatives, non choisir arbitrairement une scène comme si elle avait été découverte dans un papyrus.
+
+### 37. Le sang de taureau, entre mort et épreuve de vérité
+
+L'image du sang de taureau peut relever d'un désir de mourir pour échapper à la honte, mais aussi d'un geste verbal extrême destiné à rendre une affirmation incontestable. Cette seconde lecture a été mise en avant par Baccaro, qui examine l'usage culturel du motif et ses rapports aux légendes de Thémistocle. La comparaison n'implique pas que Sophocle ait composé sa pièce sous l'influence de ces versions historiographiques.
+
+Le point philologique central est la nature de la proposition : le personnage dit préférer une issue réputée mortelle à la prolongation d'une situation de dénigrement. En faire une preuve de suicide accompli confond énoncé et événement. En faire une démonstration objective d'innocence confond intention argumentative et véracité. L'expression révèle l'intensité d'une crise de réputation sans en fournir le dénouement.
+
+### 38. Responsabilité distribuée, responsabilité effacée
+
+Le mythe combine les actes de Pâris, les décisions de Priam et de ses conseillers, la demande de Ménélas, la politique d'Agamemnon, la parole d'Ulysse et le destin d'Hélène. Un conflit collectif peut se déguiser en procès individuel : « Hélène a causé la guerre », alors que la guerre requiert de multiples décisions de violence. La question ne consiste pas à effacer toute responsabilité personnelle, mais à éviter qu'un seul personnage porte l'intégralité du mal.
+
+Cette analyse intéresse la philosophie morale moderne ; elle n'est pas une conclusion philologique imposée par un fragment. La tragédie ne livre pas de procès-verbal de répartition des fautes. Elle offre des personnages et des situations dont l'historien peut établir les possibles, à condition de nommer les trous de documentation.
+
+---
+
+# VI. Reconstruction dramaturgique : des scénarios conditionnels
+
+### 39. Le modèle de l'ambassade publique
+
+Première reconstruction possible : la pièce aurait eu pour centre la demande achéenne soumise aux autorités troyennes. Des débats sur le droit, l'hospitalité et le risque de guerre auraient dominé l'action. La menace visant les envoyés, attestée dans la tradition mythographique, aurait constitué une culmination possible. Dans ce scénario, Anténor pourrait représenter une position modérée et la cité un espace de désaccord.
+
+**Ce qui est attesté :** l'histoire de la délégation dans les sources épiques et mythographiques ; le titre de la pièce sophocléenne. **Ce qui ne l'est pas :** l'existence d'une assemblée théâtrale sur scène, la forme de ses discours, la distribution des rôles, la place de Priam et les modalités du dénouement. Toute rédaction de débats précis relève d'une adaptation contemporaine.
+
+### 40. Le modèle d'Hélène témoin de sa propre revendication
+
+Deuxième reconstruction possible : l'ambassade aurait servi de cadre à une confrontation privée ou semi-publique entre Hélène, son ancienne famille et le monde troyen. L'indice d'un parler spartiate dans F 176 et l'image de déshonneur dans F 178 seraient alors importants pour analyser une subjectivité prise entre deux maisons.
+
+**Condition essentielle :** il faut accepter les attributions proposées pour les fragments et supposer qu'ils appartenaient effectivement à la même situation dramatique. Ni cette identité de locutrice ni cette simultanéité ne sont établies. Le modèle ne doit donc pas être publié comme « résumé reconstitué de Sophocle », mais comme **proposition dramaturgique motivée**.
+
+### 41. Le modèle de l'hospitalité menacée
+
+Troisième reconstruction possible : Anténor et les membres de sa maison auraient offert un axe dramatique central. L'intrigue se concentrerait sur le conflit entre l'obligation d'accueillir les hôtes et la volonté politique de les éliminer. La revendication d'Hélène serait la cause de la crise, sans devoir occuper toute la représentation.
+
+La tradition de Bacchylide et celle du cratère Astarita rendent cette construction historiquement intelligible. Elles ne démontrent aucune reprise directe par Sophocle. Une tragédie d'Anténor construite à partir d'une iconographie préexistante serait une création savante possible, non une découverte.
+
+### 42. Le modèle de la décision déjà trop tardive
+
+Quatrième reconstruction possible : la pièce pouvait moins raconter les arguments d'une négociation que la découverte de leur impuissance. L'ambassade arriverait au seuil d'un conflit dont les alliances, les hostilités et les intérêts ont déjà produit les conditions irréversibles. La parole de justice viendrait alors trop tard pour modifier la décision collective.
+
+Ce modèle permet d'interroger le rôle du temps tragique ; il ne doit pas être confondu avec un contenu conservé. Nous ignorons le nombre de lieux de l'action, la durée du temps scénique, l'existence d'un voyage entre Troie et le camp achéen, la présence d'un oracle et le sort dramatique de l'héroïne. Un lecteur universitaire doit pouvoir séparer immédiatement les archives de ces modèles.
+
+### 43. Aristote et la différence entre une fable plausible et une fable prouvée
+
+Dans la *Poétique* (chapitres 7–11), Aristote analyse l'organisation de l'action, la nécessité ou vraisemblance des enchaînements, le renversement, la reconnaissance et l'événement pathétique. Ces outils aident à mesurer si un scénario hypothétique forme une action intelligible : demander réparation, entendre le refus, voir la sécurité de l'envoyé menacée, choisir la guerre. Mais la belle cohérence d'un scénario moderne ne prouve pas qu'il reproduit l'agencement sophocléen.
+
+L'exigence aristotélicienne de vraisemblance est ici un **critère d'élaboration critique**, non une méthode de découverte des vers perdus. Une reconstitution peut être excellente au théâtre et fausse comme histoire textuelle. L'édition universitaire doit maintenir explicitement cette différence.
+
+### 44. Les dispositifs scéniques inconnus
+
+Le théâtre grec connaissait la parole de messager, la délibération, la supplication, le conflit entre hôte et étranger, les changements d'information et le chœur. Rien de cela n'autorise à écrire : « prologue d'Ulysse », « premier épisode d'Hélène », « stasimon sur la paix », « exodos annonçant le siège ». Ces termes ne peuvent être employés que pour une scénographie moderne **déclarée comme telle**.
+
+De même, le choix entre Troie, le sanctuaire d'Athéna et un espace palatial reste impossible à confirmer à partir des seuls fragments. Un plan de scène archéologiquement vraisemblable ne sera jamais une restitution documentée d'une pièce donnée. L'incertitude est un résultat, non une lacune qu'il faudrait masquer.
+
+---
+
+# VII. Hegel : collision des légitimités et décision commune
+
+### 45. La revendication et les pouvoirs éthiques
+
+Dans la *Phénoménologie de l'esprit*, Hegel analyse des conflits où les positions en présence sont investies d'une valeur éthique mais s'enferment chacune dans leur particularité. Son exemple célèbre est celui d'*Antigone*. Il ne s'ensuit nullement qu'il ait livré un commentaire de *La Revendication d'Hélène* de Sophocle ; la lecture proposée ici est une application contemporaine d'un concept à un dossier lacunaire.
+
+Les Achéens présentent une demande qu'ils pensent justifiée par l'offense faite à un foyer ; les Troyens peuvent invoquer leur décision souveraine, leur fidélité à un prince, ou contester les faits. Chacun peut assimiler son propre intérêt à la totalité du droit. Le danger tragique naît lorsque l'affirmation unilatérale ne trouve plus de médiation commune.
+
+### 46. Famille et cité : la culpabilité d'une guerre dynastique
+
+La guerre est suscitée par le sort d'une personne située au croisement de plusieurs maisons, mais son coût incombe à des communautés entières. Cette dissociation s'accorde avec une interrogation hégélienne sur l'échelle de la vie éthique : l'intérêt familial peut-il valoir comme obligation politique générale sans détruire le bien commun ?
+
+Il ne faut pas introduire artificiellement dans la cité héroïque les institutions de l'État rationnel décrites dans les *Principes de la philosophie du droit*. L'analyse est analogique. Sa force vient de rendre visible une question que la fable permet d'adresser : quelle autorité doit limiter les exigences de l'honneur domestique quand leur exécution met en péril les habitants de plusieurs cités ?
+
+### 47. Les deux camps ne sont pas moralement symétriques par principe
+
+Lire le conflit à travers une dialectique de positions ne signifie pas décréter les deux camps également fondés. Les sources épiques peuvent présenter une injustice réelle commise par Pâris, une corruption politique ou des tentatives de meurtre contre des envoyés. La version égyptienne d'Hérodote introduit, à l'inverse, l'hypothèse d'une erreur tragique des assiégeants. Toute interprétation doit déterminer à quel **niveau documentaire** elle opère.
+
+La lecture hégélienne ne dispense ni de l'enquête sur les faits narratifs, ni de l'identification des responsabilités. Le concept de conflit éthique ne doit pas devenir une formule permettant d'effacer les victimes, notamment les habitants de Troie et les femmes utilisées comme gages de guerre.
+
+---
+
+# VIII. Nietzsche : dette, ressentiment, rhétorique de l'honneur
+
+### 48. La guerre est-elle une dette à recouvrer ?
+
+La deuxième dissertation de *La Généalogie de la morale* distingue plusieurs opérations par lesquelles la dette, la punition et la production de souffrance deviennent socialement articulées. Cette analyse peut faire ressortir la manière dont une offense domestique est convertie en revendication de restitution et, après échec, en justification d'une violence plus ample.
+
+Le rapprochement doit rester mesuré. On ne peut pas faire de Sophocle le théoricien nietzschéen d'un rapport créancier-débiteur, ni réduire le vocabulaire antique de réparation à un seul mécanisme psychologique. La question est de savoir comment l'exigence de réparation se transforme, sous certaines conditions, en désir de châtiment qui n'a plus de proportion avec l'offense initiale.
+
+### 49. Ressentiment et fabrication d'une causalité simple
+
+Une communauté engagée dans une entreprise violente a intérêt à désigner une cause lisible : une femme partie, un prince qui l'a emmenée, une cité qui refuse de la rendre. Ces désignations peuvent rendre invisible la pluralité des intérêts, des choix militaires et des avantages escomptés. La notion de ressentiment peut être utilisée, avec précaution, pour examiner la répétition et la fixation d'une accusation.
+
+Mais le ressentiment n'est pas synonyme de colère ni de défense légitime de son honneur. Employer le mot sans distinguer une agression réelle d'une vengeance disproportionnée ferait perdre à l'analyse toute précision. L'intérêt nietzschéen consiste plutôt à interroger les conditions sous lesquelles une narration de faute permet de prolonger indéfiniment une exigence de souffrance infligée.
+
+### 50. *La Naissance de la tragédie* et l'impossibilité du partage musical
+
+Dans *La Naissance de la tragédie*, Nietzsche étudie le rapport entre apollinien et dionysiaque, individu et expérience tragique, monde des images et puissance musicale. Pour une tragédie dont les chants ne sont pas conservés, l'application doit être modeste. Nous ne connaissons ni la composition du chœur ni le parcours musical qui aurait guidé la réception de l'ambassade et d'Hélène.
+
+On peut cependant réfléchir à une contradiction tragique générale : la volonté de faire apparaître une cause claire et juste de l'action rencontre la souffrance collective qui déborde toutes les explications disponibles. Ce n'est pas une restitution du style de Sophocle, mais une lecture possible du mythe à la lumière d'une philosophie plus tardive.
+
+---
+
+# IX. Platon, la persuasion et les conditions du jugement
+
+### 51. La rhétorique ne garantit pas la vérité
+
+Dans le *Gorgias*, Platon distingue persuasion produisant une croyance et enseignement véritable. Cette distinction éclaire l'ambassade : Ulysse peut être un orateur efficace sans que son efficacité suffise à prouver la vérité de sa prétention ; un défenseur troyen peut produire un discours convaincant sans que la cité ait raison de refuser. La qualité rhétorique d'une intervention n'est pas identique à la légitimité de sa conclusion.
+
+Platon ne commente pas par là la pièce perdue de Sophocle. Les échos homériques sur l'éloquence d'Ulysse et de Ménélas fournissent une comparaison documentée ; la problématique platonicienne permet d'en tirer une distinction philosophique, non une liste des répliques effectivement prononcées.
+
+### 52. Hélène et la puissance du discours dans le *Phèdre*
+
+Le *Phèdre* prend au sérieux les conditions dans lesquelles une parole peut conduire l'âme, la tromper ou la détourner. L'ambassade troyenne met en jeu les effets d'un discours sur des personnes dont les intérêts, les émotions et les connaissances divergent. Le rapprochement avec Gorgias est particulièrement éclairant pour Hélène : la réputation de la personne peut être faite ou défaite par des récits qu'elle ne contrôle pas.
+
+L'expression « pouvoir de la parole » n'est toutefois pas suffisante. Il faut distinguer la capacité de déplacer une opinion, la validité d'un argument et l'accès aux informations nécessaires pour trancher. La scène possible de l'ambassade devient alors un laboratoire critique des limites de la persuasion.
+
+### 53. Platon et les dieux coupables
+
+Dans la *République* II (377e–383c), Platon critique les récits poétiques qui attribuent indistinctement aux dieux des actions moralement répréhensibles. L'histoire d'Hélène, diversement liée aux décisions d'Aphrodite, d'Héra, d'Athéna et de Zeus selon les récits, permet une comparaison sur la distribution de la responsabilité entre agents divins et humains. Il serait pourtant impossible d'affirmer que la tragédie sophocléenne expliquait le conflit par une déesse donnée.
+
+La question platonicienne pertinente est celle de la valeur morale des versions : si une personne agit sous contrainte divine ou sous l'effet d'une illusion, l'imputation ordinaire de faute perd sa simplicité. Cette interrogation ne permet ni d'innocenter automatiquement Hélène dans Sophocle, ni de la condamner.
+
+### 54. Une cité capable d'entendre des faits adverses
+
+Dans le récit d'Hérodote, l'incapacité des Grecs à croire les Troyens est au centre du désastre. Une théorie philosophique de la délibération doit donc intégrer la possibilité qu'un adversaire dise vrai. La justice exige davantage que la force du discours le plus prestigieux ; elle suppose des conditions d'examen qui ne soient pas entièrement contrôlées par les parties.
+
+Cette proposition appartient à une lecture contemporaine. Elle n'est pas énoncée comme la morale des fragments sophocléens. La tragédie perdue impose d'ailleurs une réserve : il est possible qu'elle n'ait jamais mis en jeu l'alternative égyptienne d'Hérodote, et qu'elle ait représenté une cité pleinement consciente de son refus.
+
+---
+
+# X. Comparaisons mythologiques : filiations et dissemblances
+
+### 55. De l'épopée au dithyrambe, sans filiation mécanique
+
+Le plus sûr domaine comparatif est interne aux traditions grecques : *Iliade* III et XI, résumé des *Chants cypriens*, dithyrambe 15 de Bacchylide, *Épitomé*, *Histoires* II d'Hérodote. Ces témoins partagent certains personnages et épisodes, mais ne sont pas interchangeables. Leur ordre de rédaction probable n'autorise pas à tracer un arbre complet de dépendances sans indices stylistiques et textuels précis.
+
+Les différences sont instructives : Homère insiste sur la mémoire de l'hospitalité et de l'éloquence ; le cycle épique relie la revendication à la marche vers la guerre ; Bacchylide développe une réflexion sur la justice et l'hubris ; Hérodote remet en cause le présupposé même de la détention d'Hélène par les Troyens. Sophocle aurait pu choisir un autre angle. Sa voix n'est pas la somme de celles des autres.
+
+### 56. Les récits égyptiens transmis par Hérodote
+
+Le récit attribué par Hérodote aux prêtres égyptiens n'est pas une « source égyptienne » conservée dans une inscription du temps de la guerre de Troie. Il s'agit d'un texte grec relatant ce que l'auteur affirme avoir appris lors de son enquête. Il faut éviter d'en faire une preuve historique de la présence d'Hélène à Memphis ou d'une politique réelle de Protée. Le problème étudié est celui de la construction narrative de la vérité et de la responsabilité.
+
+La comparaison avec la tradition égyptienne permet ainsi de formuler un écart entre mythographie, historiographie et apologue politique. Elle n'établit pas une relation directe de Sophocle à un rituel pharaonique ni une dépendance de sa dramaturgie envers une théologie de Maât.
+
+### 57. Proche-Orient ancien : diplomatie attestée, transmission non démontrée
+
+On pourrait rapprocher la demande de restitution d'Hélène des lettres diplomatiques de l'âge du Bronze oriental, notamment des dossiers d'Amarna, où alliances matrimoniales, prestige royal, présents et réclamations se croisent. La ressemblance institutionnelle n'autorise aucune identification historique entre Troyens mythiques, rois mycéniens et correspondants documentés des archives égyptiennes.
+
+Il existe ici deux types de données : des documents diplomatiques réellement conservés dans leur contexte historique, et une fiction héroïque transmise par des poètes grecs plus tardifs. Le rapprochement est **typologique et comparatif**, non généalogique. Ni le thème d'une femme recherchée ni celui d'une ambassade menacée ne suffisent à établir un emprunt littéraire.
+
+### 58. Le sacrifice du singulier à la guerre collective
+
+La tragédie grecque présente souvent des situations où l'équilibre d'une communauté paraît reposer sur la destinée d'une personne : Iphigénie, Polyxène ou Macarie appartiennent à des récits différents, dont les témoignages et les contextes doivent être examinés séparément. La figure d'Hélène s'y distingue : elle n'est pas directement, dans la fable de restitution, une victime sacrificielle au sens rituel ; elle devient un objet de négociation auquel s'adosse une expédition guerrière.
+
+Le parallèle porte sur la disproportion entre l'existence individuelle et les exigences des collectifs. Il doit s'arrêter avant d'assimiler une revendication matrimoniale à un sacrifice humain véritable. La critique mythologique gagne à tracer des limites aussi nettement que des ressemblances.
+
+### 59. Les réceptions romaines et modernes
+
+Les traditions latines et la littérature européenne développeront abondamment les scènes de retrouvailles ou de restitution d'Hélène, ses plaidoyers et les accusations dont elle fait l'objet. Cette longue histoire ne fournit pas des sources rétroactives sur le drame de Sophocle. Une illustration renaissante d'Hélène, un récit d'Ovide ou une composition dramatique moderne peut éclairer une **réception du mythe**, mais ne doit jamais être légendé comme une « scène de la tragédie perdue ».
+
+Une édition numérique doit séparer l'iconographie de l'épisode mythique, l'iconographie de la réception littéraire et les représentations hypothétiques de l'action sophocléenne. La confusion de ces catégories produit une fausse autorité de l'image.
+
+---
+
+# XI. Iconographie sourcée et protocole muséal
+
+### 60. Le cratère Astarita : un témoin iconographique exceptionnel
+
+**Musées du Vatican, Musée grégorien étrusque, salle XX, collection Astarita : cratère tardocorinthien à colonnettes du Peintre Astarita, vers 560 av. J.-C., inventaire Vatican 35525.** Sa scène montre Ménélas, Ulysse et le héraut Talthybios en ambassade auprès de Troie ; Théano, épouse d'Anténor et prêtresse d'Athéna, les accueille dans l'espace sacré. Des hommes armés, des servantes et des détails d'environnement donnent au sujet une densité politique et rituelle remarquable.
+
+Cette représentation précède l'activité de Sophocle. Elle **ne peut pas** être une illustration de sa mise en scène. Elle montre au contraire que la scène d'ambassade possédait déjà une iconographie développée au VIe siècle. Le site des Musées du Vatican décrit l'objet et la mission de restitution ; aucune image spéculative n'est nécessaire lorsque l'on peut référencer directement cette notice institutionnelle :  
+https://www.museivaticani.va/content/museivaticani/fr/collezioni/musei/museo-gregoriano-etrusco/sala-xx--collezione-astarita--ceramica-greca-ed-etrusca/cratere-a-colonnette-tardo-corinzio.html
+
+**Légende proposée :** « Ambassade de Ménélas, Ulysse et Talthybios à Troie, accueillie par Théano ; cratère tardocorinthien du Peintre Astarita, v. 560 av. J.-C., Musées du Vatican. Témoin iconographique du mythe, antérieur à Sophocle ; aucune reconstitution de sa tragédie n'est impliquée. »
+
+### 61. Un stamnos du Metropolitan Museum : l'autre extrémité du récit
+
+Le **Metropolitan Museum of Art**, New York, conserve un stamnos attique à figures rouges attribué au Peintre de Deepdene, vers 470–460 av. J.-C., **41.162.20a, b**. Le revers est interprété dans sa notice comme la récupération d'Hélène par Ménélas. Il ne documente pas l'ambassade préalable à la guerre ; il représente un autre moment du cycle, associé au retour après la destruction.
+
+La distinction doit être explicitement portée dans la légende. Comparer les deux objets permet d'analyser le déplacement iconographique de la *demande* avant la guerre vers la *reprise* après la guerre, mais aucune ligne de dépendance entre ce stamnos et les scènes théâtrales de Sophocle n'est prouvée. Notice du musée : https://www.metmuseum.org/art/collection/search/254187 .
+
+### 62. Le vase comme composition, non comme programme de scène
+
+La richesse du cratère Astarita pourrait inviter à restituer une scénographie avec Théano et les ambassadeurs groupés aux marches d'Athéna. Il faut y renoncer comme affirmation historique. Un peintre de vase utilise des conventions propres à son support ; il dispose les figures simultanément, peut condenser plusieurs temps narratifs et n'est pas soumis aux pratiques de la scène athénienne.
+
+Une représentation en 3D, si elle est commandée pour MYTHOS, devrait être explicitement intitulée « interprétation contemporaine de l'iconographie du cratère Astarita », avec mention du modèle archéologique et sans prétendre reproduire un décor sophocléen. Les 3D photoréalistes du site ne sauraient justifier le rétablissement d'anciennes perspectives 2,5D interdites par la ligne éditoriale.
+
+### 63. Pour une galerie de documents intellectuellement loyale
+
+Il est recommandé de distinguer dans la page publique trois niveaux d'illustration : l'objet antique à notice institutionnelle ; le schéma interprétatif moderne, si nécessaire ; et l'œuvre moderne de réception, si une telle pièce est montrée. L'image doit porter, lorsqu'elle existe, son institution, sa date approximative, sa technique et sa limite d'interprétation. Une représentation ne doit jamais recevoir un titre qui fait croire à une scène textuellement attestée de Sophocle.
+
+Le maintien de ces légendes est d'autant plus important que la tragédie est perdue : le poids visuel de l'image tend à compenser illusoirement la pauvreté documentaire du texte. La rigueur scientifique consiste à empêcher que cette compensation soit présentée comme une preuve.
+
+---
+
+# XII. Synthèse philosophique et enjeux de l'histoire de la tragédie
+
+### 64. La défaillance de la parole n'est pas son inutilité
+
+L'ambassade échoue dans la tradition connue, mais son échec n'en fait pas une action dépourvue de sens. Elle fait apparaître les responsabilités : qui a tenté une réparation ? qui a entendu la revendication ? qui a refusé ? qui a menacé les messagers ? et à quelles conditions l'exigence initiale aurait-elle pu être satisfaite ? Le récit de la négociation permet de séparer l'existence d'un grief du choix de la guerre.
+
+Pour le spectateur, cette séparation peut produire une émotion spécifique : un désastre collectif devient intelligible comme résultat de décisions humaines, même s'il s'inscrit dans une histoire mythique dont l'issue est connue. Cependant aucune conclusion sur le sens effectivement construit par Sophocle ne peut être imposée au-delà du dossier.
+
+### 65. Les quatre niveaux d'une lecture politique
+
+La première couche est individuelle : Ménélas réclame Hélène, et l'héroïne peut éprouver une contradiction entre sa réputation et son expérience. La deuxième est familiale : les maisons d'Atrée et de Priam cherchent à défendre leur statut et leurs alliances. La troisième est civique : Troie doit assumer la portée collective d'une décision royale. La quatrième est intercommunautaire : les rapports entre Grecs et Troyens transforment une querelle en guerre.
+
+Cette stratification est une grille d'analyse moderne. Elle ne découpe pas des scènes conservées. Elle a toutefois le mérite de rendre visibles les écarts entre la cause déclarée d'une expédition, ses agents, ses bénéficiaires éventuels et ses victimes.
+
+### 66. Justice de la cause et justice du moyen
+
+Une demande peut être fondée et la guerre qui lui succède injustement menée ; inversement, une défense politique peut invoquer une souveraineté réelle tout en protégeant une offense. Ce double examen constitue l'un des enseignements les plus féconds du mythe. Le récit d'Hérodote radicalise la question : quand la cause repose sur une erreur de fait, la violence met en évidence non seulement une injustice mais une incapacité de connaître ce qu'on punit.
+
+Hegel, Nietzsche, Platon et Aristote aident à formuler différents aspects de ce problème : la collision des prétentions éthiques, l'économie de la dette et du châtiment, la différence entre persuasion et connaissance, et l'unité causale de l'action tragique. Aucun d'eux ne fournit un remplacement du texte sophocléen ; tous sont ici mobilisés comme instruments d'interprétation explicitement séparés des sources primaires.
+
+### 67. Ce qu'il faudrait découvrir pour renouveler le dossier
+
+Un papyrus attribuant une réplique à Hélène ou à Anténor, une scholie décrivant une situation d'énonciation, une inscription attestant la date de production, ou un témoin sûr reliant le vers grammatical discuté à Sophocle modifierait sensiblement notre compréhension. La recherche pourrait alors préciser la nature de l'agon, le rôle d'Hélène et la portée du dénouement.
+
+À l'inverse, de nouvelles images de l'ambassade sans relation démontrable avec une représentation théâtrale ne modifieraient pas nécessairement l'histoire de la pièce. Une méthode encyclopédique doit classer les découvertes selon la question qu'elles éclairent : texte, tradition, iconographie, réception ou contexte historique.
+
+### 68. Conclusion générale
+
+*La Revendication d'Hélène* se situe au point fragile où une demande politique rencontre un ordre de force susceptible de la détruire. Le thème paraît limpide, mais les fragments dessinent un problème plus complexe : Hélène pourrait reconnaître une voix de Sparte ; quelqu'un refuse l'infamie au point de préférer une mort réputée terrible ; une cité entend deux envoyés et la tradition raconte que leur protection est menacée. Il serait impossible d'ordonner ces traces en un texte dramatique suivi sans fiction.
+
+L'analyse la plus solide reconnaît simultanément le titre et l'incertitude de ses citations, l'importance du récit d'ambassade et le caractère extérieur des parallèles, la force de l'iconographie et son indépendance à l'égard de Sophocle. Elle rend une place à la personne réclamée tout en refusant de fabriquer sa parole. Elle montre qu'un motif de revendication peut ouvrir une réflexion sur la justice de la cause, les procédures de preuve, l'hospitalité de l'adversaire et le prix collectif d'un honneur blessé.
+
+Le principal résultat n'est pas la prétendue restitution d'une tragédie intacte. C'est la constitution d'un dossier où l'on sait **ce qui vient de Sophocle, ce qui vient de ses témoins, ce qui vient d'autres poètes et ce qui vient de nous**. En respectant ces distinctions, MYTHOS peut offrir une étude approfondie de l'œuvre sans transformer des hypothèses en faux fragments.
+
+---
+
+# XIII. Annexes scientifiques
+
+### A. Concordance commentée des sources primaires
+
+1. **Sophocle, *Helenēs apaitēsis*, F 176–180a Radt (TrGF IV).** Corpus de fragments de la tragédie perdue ; le rattachement de certaines citations à cette œuvre doit être lu avec l'apparat et les réserves des éditeurs.
+2. **Scholie à Aristophane, *Cavaliers* 84b.** Source des vers classés sous F 178 Radt, à propos de l'image du sang de taureau et de la réputation.
+3. **Homère, *Iliade* III, 205–224.** Souvenir d'Anténor et distinction de l'éloquence de Ménélas et d'Ulysse.
+4. **Homère, *Iliade* XI, 123–142.** Hostilité d'Antimachos, influence de Pâris et danger encouru par les envoyés.
+5. **Proclos, résumé des *Chants cypriens* (*Chrestomathie* ; récit de l'ambassade).** Revendication d'Hélène et des biens, puis reprise des hostilités.
+6. **Pseudo-Apollodore, *Épitomé* III, 28–29.** Ambassade des deux chefs, volonté de les tuer, sauvetage par Anténor.
+7. **Bacchylide, dithyrambe 15 (14 selon certaines éditions).** *Les Fils d'Anténor ou la Revendication d'Hélène* ; Théano, accueil et discours de justice.
+8. **Hérodote, *Histoires* II, 118–120.** Version égyptienne : absence d'Hélène à Troie et défaillance de croyance.
+9. **Stésichore, *Palinodie* (témoignages).** Traditions de l'absence d'Hélène et de son image ; ne pas assimiler à la fable sophocléenne.
+10. **Gorgias, *Éloge d'Hélène*.** Analyses de la persuasion, de la contrainte et des facteurs de responsabilité.
+11. **Isocrate, *Éloge d'Hélène*.** Réception argumentative du mythe ; autre projet que celui de la tragédie.
+12. **Euripide, *Hélène* (412 av. J.-C.).** Version scénique du simulacre et de l'héroïne réelle retenue en Égypte ; comparandum, non source directe du drame perdu.
+13. **Platon, *Gorgias* et *Phèdre*.** Philosophie de la persuasion ; application critique postérieure.
+14. **Aristote, *Poétique* 7–11.** Concepts de causalité, péripétie et unité d'action ; critères de critique dramaturgique.
+
+### B. Bibliographie scientifique vérifiée
+
+**Éditions et inventaires**
+
+- Radt, Stefan (éd.), *Tragicorum Graecorum Fragmenta*, vol. 4, *Sophocles*, Göttingen, Vandenhoeck & Ruprecht, 1977 ; seconde édition revue, 1999. F 176–180a.
+- Pearson, A. C. (éd.), *The Fragments of Sophocles*, 3 volumes, Cambridge, Cambridge University Press, 1917, vol. I, p. 121–126 pour le dossier de la demande d'Hélène. Numérotation antérieure à Radt.
+- Lloyd-Jones, Hugh (éd. et trad.), *Sophocles: Fragments*, Cambridge (Mass.), Harvard University Press, Loeb Classical Library, 1996.
+- Jouanna, Jacques, *Sophocle*, Paris, Fayard, 2007, notamment annexe II, inventaire des œuvres et fragments perdus.
+
+**Études ciblées sur *Helenēs apaitēsis* et sur Hélène**
+
+- Carrara, Laura, « Un nuovo frammento della *Helenes Apaitesis* di Sofocle dalla tradizione etimologico-grammaticale? », *Rivista di Cultura Classica e Medioevale* 62/1 (2020), p. 11–39. Étude d'une réattribution possible du vers à ἤμην. Notice institutionnelle : https://arpi.unipi.it/handle/11568/1031265 ; DOI https://doi.org/10.19272/202006501001 .
+- Baccaro, Giulia, « Bere sangue di toro per dimostrare la propria innocenza. Una possibile interpretazione del fr. 178 R.² della *Helenes Apaitesis* di Sofocle », *Frammenti sulla Scena*, 2 (2021), p. 1–11 ; notice mise en ligne en 2022. https://doi.org/10.13135/2612-3908/6727 .
+- Lupi, Francesco, « Presenze di Elena nel corpus sofocleo », dans *METra 2. Epica e tragedia greca: una mappatura*, Venezia, Edizioni Ca' Foscari, 2023, p. 99–122. DOI https://doi.org/10.30687/978-88-6969-738-8/005 ; notice https://iris.univr.it/handle/11562/1116994 .
+- Gantz, Timothy, *Early Greek Myth: A Guide to Literary and Artistic Sources*, 2 volumes, Baltimore, Johns Hopkins University Press, 1993. Les dossiers d'Hélène et de Troie sont utiles pour distinguer chronologie mythique et traditions variées.
+- Maehler, Herwig (éd.), *Bacchylides: A Selection*, Cambridge, Cambridge University Press, 2004, discussion du dithyrambe 15 et de sa tradition. https://doi.org/10.1017/CBO9780511802386.009 .
+
+**Comparaisons philosophiques modernes**
+
+- Hegel, G. W. F., *Phénoménologie de l'esprit*, section sur le monde éthique et le conflit des lois ; *Principes de la philosophie du droit*, développements sur la famille et l'État.
+- Nietzsche, Friedrich, *La Généalogie de la morale*, dissertation II ; *La Naissance de la tragédie*.
+- Platon, *Gorgias*, *Phèdre*, *République* II, 377e–383c.
+- Aristote, *Poétique*, chapitres 7–11.
+
+### C. Notices institutionnelles d'iconographie
+
+- Musées du Vatican, Musée grégorien étrusque, salle XX, **cratère du Peintre Astarita, vers 560 av. J.-C.**, représentation de l'ambassade menée par Ménélas et Ulysse : https://www.museivaticani.va/content/museivaticani/fr/collezioni/musei/museo-gregoriano-etrusco/sala-xx--collezione-astarita--ceramica-greca-ed-etrusca/cratere-a-colonnette-tardo-corinzio.html .
+- Metropolitan Museum of Art, **41.162.20a, b**, stamnos à figures rouges attribué au Peintre de Deepdene, vers 470–460 av. J.-C., Ménélas récupérant Hélène après la guerre : https://www.metmuseum.org/art/collection/search/254187 .
+- Pour une présentation sans confusion de période : la première œuvre représente l'**ambassade** avant la guerre, la seconde une **reprise** d'Hélène, et aucune ne documente directement la représentation de Sophocle.
+
+### D. Références documentaires ouvertes
+
+- Homère et Bacchylide, textes anciens et traductions : https://beta.perseus.tufts.edu/ .
+- Hérodote, *Histoires* II, 118–120 : https://adfonteslibrary.org/work-herodotus-histories .
+- Pseudo-Apollodore, *Épitomé*, avec notes de référence : https://www.theoi.com/Text/ApEb.html .
+- *Cavaliers* d'Aristophane, vers 84b, et la scholie citant F 178 : consulter l'édition des scholies avec l'apparat, puis Radt ; la page de Baccaro donne les variantes et leur commentaire.
+- Outils lexicographiques sur le dossier de ἤμην et les attributions croisées : https://atticism.eu/corpus/item/view?id=7931afe2-4276-4a8a-8798-19dbe6244c51 .
+
+### E. Renvois internes, limites et règles de livraison
+
+La présente étude est **distincte** des dossiers déjà publiés sur *Térée*, *Phèdre*, *Polyxène*, *Triptolème*, *Hermione* et les autres œuvres du cycle. Elle peut être reliée aux chapitres de la mythologie grecque concernant Hélène, Ménélas, Ulysse, Troie et les origines de la guerre, mais seulement à partir des URL réellement existantes dans les sommaires. Les autres études ne sont ni fusionnées ni réécrites.
+
+La numérotation propre à cette monographie doit être remplacée exclusivement en tête par le mécanisme de la file : Volume **CCXXXIII** (**233**). Le numérotage de Radt, les références antiques, les dates historiques et les cotes de musée demeurent littéraux. Le dépôt du texte dans editorial/inbox constitue une **demande de publication** ; seul un reçu de GitHub Actions et la vérification de la construction du site justifieront l'annonce d'une attribution définitive.
+
+Aucun contenu WordPress historique ni brouillon privé n'est modifié. Aucune planification horaire n'est modifiée. Aucune illustration 2,5D n'est réintroduite. Aucun numéro ne préempte la livraison d'un autre rédacteur.
+
+*Fin du manuscrit intégral.*
