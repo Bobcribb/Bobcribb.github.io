@@ -5,29 +5,77 @@
   "branch": "main",
   "latest_session": {
     "date": "2026-11-04",
-    "kind": "AUDIT ET CORRECTION",
-    "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "scope": "Audit post-iconographique des livres Iliade scène par scène et Odyssée chant par chant ; extension du contrôle public des photographies et légendes.",
-    "basis_commit": "485fe99ac49ae91219b92c374c8f942cccc1f806",
-    "pages_checked": 2,
-    "img_checked": 7,
-    "figures_checked": 10,
-    "html_ids_checked": 105,
-    "internal_anchors_checked": 66,
-    "css_references_checked": 8,
-    "js_references_checked": 6,
-    "local_resources_checked": 14,
-    "duplicate_ids_detected": 0,
-    "missing_internal_anchors_detected": 0,
-    "images_without_alt_detected": 0,
-    "missing_local_resources_detected": 0,
-    "public_deployment_status": "Non confirmé : les nouvelles figures ne sont pas encore présentes sur les deux pages HTTPS vérifiées. Le reçu de publication consulté indique source_commit=fa97740458b5e27b2f38017f28e349794617f643, antérieur au lot iconographique ae49a5fd25d1322c12aede73be9458a94545d223. GitHub Actions encore en cours ou en attente lors du contrôle.",
-    "verified_gap": "Le contrôle scripts/verify_live_site.py ne couvrait que six anciennes figures SVG/WebP et ignorait les trois photographies JPG ajoutées aux deux livres, dont deux illustrations sur une même page.",
-    "correction": "Extension du vérificateur : contrôler séparément les trois nouvelles notices sur deux pages publiques, leur statut, leur attribution et les vrais octets JPEG (signature FF D8 FF et SHA-256), sans modifier les fichiers image ou les manuscrits.",
-    "tests_added": "3 tests dans tests/test_verify_live_site_assets.py : inventaire de trois figures sur deux pages, détection d'une page ancienne et d'un JPEG modifié, rejet d'un faux JPEG.",
-    "preservation": "Textes scientifiques, navigations, fragments HTML historiques, images, illustrations 2,5D retirées, registres de numérotation, calendrier d'automatisation et workflows préexistants inchangés.",
-    "obstacles": "Pas d'essai visuel mobile ni de rerendu PDF A4 ; URLs institutionnelles non toutes testées en HTTP. Les tests Python complets seront vérifiés via les nouvelles exécutions GitHub Actions, pas présumés réussis.",
+    "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "previous_kind": "AUDIT ET CORRECTION",
+    "next_kind": "AUDIT ET CORRECTION",
+    "scope": "Enrichissement sourcé de deux monographies philosophiques et du livre Hésiode : cinq figures patrimoniales documentaires, sans création 2,5D ni modification des textes universitaires.",
+    "basis_commit": "469c0fc03a0abfbef05f6a8a94d0726bfa54db81",
+    "added_figures": [
+      {
+        "page": "philosophie-iliade.html",
+        "id": "icono-iliade-achille-ajax-jeu-hydrie-20261104",
+        "src": "/media/2026/10/mythos-iliade-achille-ajax-athena-hydrie-met-56-171-29.jpg"
+      },
+      {
+        "page": "philosophie-odyssee.html",
+        "id": "icono-odyssee-papyrus-met-xx-20261104",
+        "src": "/media/2026/10/mythos-papyrus-odyssee-ptolemaique-met-09-182-50.jpg"
+      },
+      {
+        "page": "livre-hesiode/index.html",
+        "id": "icono-hesiode-livre-hippocrene-20261104",
+        "src": "/assets/philosophie/documents/theogonie-04.jpg"
+      },
+      {
+        "page": "livre-hesiode/index.html",
+        "id": "icono-hesiode-livre-rhea-cronos-20261104",
+        "src": "/assets/philosophie/documents/theogonie-01.jpg"
+      },
+      {
+        "page": "livre-hesiode/index.html",
+        "id": "icono-hesiode-livre-zeus-typhon-hydrie-20261104",
+        "src": "/assets/philosophie/documents/theogonie-02.jpg"
+      }
+    ],
+    "precommit_audit": {
+      "philosophie-iliade.html": {
+        "before_bytes": 407725,
+        "after_bytes": 409155,
+        "added": 1,
+        "ids": 107,
+        "anchors": 111,
+        "images": 21,
+        "broken_anchors": 0,
+        "duplicate_ids": 0,
+        "images_missing_alt": 0
+      },
+      "philosophie-odyssee.html": {
+        "before_bytes": 388845,
+        "after_bytes": 390287,
+        "added": 1,
+        "ids": 106,
+        "anchors": 111,
+        "images": 20,
+        "broken_anchors": 0,
+        "duplicate_ids": 0,
+        "images_missing_alt": 0
+      },
+      "livre-hesiode/index.html": {
+        "before_bytes": 36447,
+        "after_bytes": 40571,
+        "added": 3,
+        "ids": 39,
+        "anchors": 26,
+        "images": 4,
+        "broken_anchors": 0,
+        "duplicate_ids": 0,
+        "images_missing_alt": 0
+      }
+    },
+    "scientific_status": "Trois photographies de vases antiques, un papyrus antique et une photographie de paysage moderne. Toutes sont distinctes d'une restitution archéologique ou d'une illustration IA. Notices Met, musée de Munich via inventaire, Harvard CHS, provenances et licences citées ; Hésiode et Homère ne sont jamais présentés comme sources d'observation directe des artefacts.",
+    "preservation": "Insertion additive dans des chapitres non numérotés déjà présents. Aucune création de fichier éditorial numéroté ; aucun texte de monographie supprimé, aucune entrée de menu, registre, ancienne illustration vectorielle 2,5D ou automatisation horaire modifiés.",
+    "public_deployment_status": "Non confirmé au moment de l’écriture ; le commit source est distingué d'une publication HTTPS. Vérification GitHub Actions, reçu de publication et pages publiques requise après déploiement.",
+    "obstacles": "Les longueurs universitaires dépassent 380 000 caractères pour chacune des trois monographies philosophiques ; une pagination A4 de dix pages ne peut être certifiée sans rendu PDF. Validation visuelle mobile à faire au déploiement.",
     "commits": []
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
@@ -653,6 +701,81 @@
       "tests_added": "3 tests dans tests/test_verify_live_site_assets.py : inventaire de trois figures sur deux pages, détection d'une page ancienne et d'un JPEG modifié, rejet d'un faux JPEG.",
       "preservation": "Textes scientifiques, navigations, fragments HTML historiques, images, illustrations 2,5D retirées, registres de numérotation, calendrier d'automatisation et workflows préexistants inchangés.",
       "obstacles": "Pas d'essai visuel mobile ni de rerendu PDF A4 ; URLs institutionnelles non toutes testées en HTTP. Les tests Python complets seront vérifiés via les nouvelles exécutions GitHub Actions, pas présumés réussis.",
+      "commits": []
+    },
+    {
+      "date": "2026-11-04",
+      "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "previous_kind": "AUDIT ET CORRECTION",
+      "next_kind": "AUDIT ET CORRECTION",
+      "scope": "Enrichissement sourcé de deux monographies philosophiques et du livre Hésiode : cinq figures patrimoniales documentaires, sans création 2,5D ni modification des textes universitaires.",
+      "basis_commit": "469c0fc03a0abfbef05f6a8a94d0726bfa54db81",
+      "added_figures": [
+        {
+          "page": "philosophie-iliade.html",
+          "id": "icono-iliade-achille-ajax-jeu-hydrie-20261104",
+          "src": "/media/2026/10/mythos-iliade-achille-ajax-athena-hydrie-met-56-171-29.jpg"
+        },
+        {
+          "page": "philosophie-odyssee.html",
+          "id": "icono-odyssee-papyrus-met-xx-20261104",
+          "src": "/media/2026/10/mythos-papyrus-odyssee-ptolemaique-met-09-182-50.jpg"
+        },
+        {
+          "page": "livre-hesiode/index.html",
+          "id": "icono-hesiode-livre-hippocrene-20261104",
+          "src": "/assets/philosophie/documents/theogonie-04.jpg"
+        },
+        {
+          "page": "livre-hesiode/index.html",
+          "id": "icono-hesiode-livre-rhea-cronos-20261104",
+          "src": "/assets/philosophie/documents/theogonie-01.jpg"
+        },
+        {
+          "page": "livre-hesiode/index.html",
+          "id": "icono-hesiode-livre-zeus-typhon-hydrie-20261104",
+          "src": "/assets/philosophie/documents/theogonie-02.jpg"
+        }
+      ],
+      "precommit_audit": {
+        "philosophie-iliade.html": {
+          "before_bytes": 407725,
+          "after_bytes": 409155,
+          "added": 1,
+          "ids": 107,
+          "anchors": 111,
+          "images": 21,
+          "broken_anchors": 0,
+          "duplicate_ids": 0,
+          "images_missing_alt": 0
+        },
+        "philosophie-odyssee.html": {
+          "before_bytes": 388845,
+          "after_bytes": 390287,
+          "added": 1,
+          "ids": 106,
+          "anchors": 111,
+          "images": 20,
+          "broken_anchors": 0,
+          "duplicate_ids": 0,
+          "images_missing_alt": 0
+        },
+        "livre-hesiode/index.html": {
+          "before_bytes": 36447,
+          "after_bytes": 40571,
+          "added": 3,
+          "ids": 39,
+          "anchors": 26,
+          "images": 4,
+          "broken_anchors": 0,
+          "duplicate_ids": 0,
+          "images_missing_alt": 0
+        }
+      },
+      "scientific_status": "Trois photographies de vases antiques, un papyrus antique et une photographie de paysage moderne. Toutes sont distinctes d'une restitution archéologique ou d'une illustration IA. Notices Met, musée de Munich via inventaire, Harvard CHS, provenances et licences citées ; Hésiode et Homère ne sont jamais présentés comme sources d'observation directe des artefacts.",
+      "preservation": "Insertion additive dans des chapitres non numérotés déjà présents. Aucune création de fichier éditorial numéroté ; aucun texte de monographie supprimé, aucune entrée de menu, registre, ancienne illustration vectorielle 2,5D ou automatisation horaire modifiés.",
+      "public_deployment_status": "Non confirmé au moment de l’écriture ; le commit source est distingué d'une publication HTTPS. Vérification GitHub Actions, reçu de publication et pages publiques requise après déploiement.",
+      "obstacles": "Les longueurs universitaires dépassent 380 000 caractères pour chacune des trois monographies philosophiques ; une pagination A4 de dix pages ne peut être certifiée sans rendu PDF. Validation visuelle mobile à faire au déploiement.",
       "commits": []
     }
   ]
