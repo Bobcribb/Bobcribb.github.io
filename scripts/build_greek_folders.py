@@ -67,6 +67,24 @@ HERO_HOME = {
     'orphee': ('heros', 'Orphée et les passages vers l’au-delà'),
 }
 CHAPTER_RULES = [
+    # Sujets vérifiés dans les chapitres 407 et 410–420 : éviter que les
+    # études récentes, pourtant déjà publiées, restent dans le dossier
+    # générique « Nouvelles études à classer ». Une seule famille primaire
+    # est choisie par titre ; les renvois associés sont générés plus bas.
+    (r'^makaria\b', 'familles', 'Héraclides — asile, sacrifice et cité'),
+    (r'^alastor\b', 'familles', 'Atrides — vengeance, mémoire et souillure'),
+    (r'^agdistis\b', 'dieux', 'Puissances phrygiennes et traditions anatoliennes'),
+    (r'^pothos\b', 'dieux', 'Puissances du désir et personnifications'),
+    (r'^asopos\b', 'dieux', 'Divinités fluviales et généalogies'),
+    (r'^telesphoros\b', 'sanctuaires', 'Asclépios, santé et cultes de guérison'),
+    (r'^agathos daimon\b', 'sanctuaires', 'Cultes domestiques et prospérité'),
+    (r'^eunostos\b', 'sanctuaires', 'Héros locaux et interdits sacrés'),
+    (r'^epimenide\b', 'sanctuaires', 'Purification des cités et médiation rituelle'),
+    (r'^eiresione\b', 'sanctuaires', 'Apollon — processions et offrandes'),
+    (r'^bendis\b', 'sanctuaires', 'Cultes thraces et célébrations en Attique'),
+    (r'^kouretes\b', 'cosmogonies', 'Enfance de Zeus et traditions crétoises'),
+    (r'^cnossos\b', 'sources', 'Archéologie égéenne : lieux et récits'),
+    (r'^zeus meilichios\b', 'sanctuaires', 'Épithètes cultuelles et rites de purification'),
     (r'^(nyx|gaia|titanomachie|typhon|gigantomachie)\b', 'cosmogonies', 'Générations divines et conflits de souveraineté'),
     (r'^(promethee|hypnos)\b', 'cosmogonies', 'Condition humaine, mort et destin'),
     (r'^(helios|asteria|pan|satyres)\b', 'dieux', 'Puissances de la nature'),
