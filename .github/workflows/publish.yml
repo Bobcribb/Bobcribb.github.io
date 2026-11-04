@@ -25,6 +25,8 @@ on:
       - 'tests/test_site_audit_fixes.py'
       - 'requirements.txt'
       - 'scripts/build_navigation.py'
+      - 'scripts/recent_studies.py'
+      - 'tests/test_recent_studies.py'
       - 'scripts/build_greek_folders.py'
       - 'scripts/verify_greek_navigation.cjs'
       - 'tests/test_greek_folders.py'
