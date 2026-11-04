@@ -694,6 +694,12 @@
           "path": "chapitres/encyclopedie/chapitre-402-sosipolis-elide-olympie-enfant-serpent-zeus-magnesie-cultes.md",
           "request_sha256": "c2674cf77287060ca7403d8098ad2f1435301714eb4a93ef858e3879b540b407",
           "initial_source_sha256": "5fc5f66fdf63f3de52d610ef48fd31eb96c658ce0a738b57afd3faa01409f183"
+        },
+        "2c64384f-6c19-4b09-8a7d-e6a7ef9c5b42": {
+          "number": 403,
+          "path": "chapitres/encyclopedie/chapitre-403-ennodia-thessalie-pherai-larissa-hecate-artemis-cultes-routes.md",
+          "request_sha256": "3df45139e06aa2ace640e5902040e70ac61b81f3b6d9133c6365a5a5bf88c90b",
+          "initial_source_sha256": "66e2a024f90a9c6086ccdc9d2bcdc9ae4ad6d84cf0074f9e3339447107642223"
         }
       }
     },
@@ -1705,6 +1711,18 @@
           "path": "chapitres/comparatif/volume-ccxxvi-mc-047-capturer-un-dieu-statues-deportees-restitutions-royales-marduk-nanaya-cyrus-palladion-arche-egypte.md",
           "request_sha256": "3188d40952348d02aa3054ac2c7507f8514335d307167b4b549f9303e705cdfa",
           "initial_source_sha256": "094055966baa4936ac4ecdf07622eb5b1f6fa7b6851cb022c9e810d0e4c5b84a"
+        },
+        "45fe6802-3d34-4b54-849e-cb2d2f2c5a48": {
+          "number": 227,
+          "path": "chapitres/comparatif/volume-ccxxvii-mc-048-defaire-image-desactivation-effacement-reformes-culte-egypte-juda-grece-byzance.md",
+          "request_sha256": "fa9d1757f38d8dd5a3d5e58f0b5257b7570bea4a92f43fbd0a7df521ef98606e",
+          "initial_source_sha256": "c1e9c0bb5041b8bb954bece1ece6f86b50a3d4ac85500052a36af3ade99b30af"
+        },
+        "61e94ca3-40d5-4e27-a1d8-6f237b80c9ae": {
+          "number": 228,
+          "path": "chapitres/comparatif/volume-ccxxviii-choregie-liturgies-financement-rire-democratique-aristophane.md",
+          "request_sha256": "7aa36403250dbc66ad0cb0e7abe293b93f39547a2f96f7a6bd6896cfa1671d1c",
+          "initial_source_sha256": "dcec1d1d38e8074074dddce04fb83d5a3fcda06d3a8b9ee62741283ce138fd95"
         }
       }
     }
