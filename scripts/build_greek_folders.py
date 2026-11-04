@@ -189,7 +189,7 @@ def classify(url, title, kind):
         if section.startswith('Rois'):
             return 'familles', section
         return 'heros', section
-    mapping = {'cosmogonies': 'cosmogonies', 'dieux': 'divinites',
+    mapping = {'cosmogonies': 'cosmogonies', 'familles': 'familles', 'dieux': 'divinites',
                'heracles': 'heros', 'heros': 'heros', 'thebes': 'familles',
                'atrides': 'familles', 'argonautes': 'cycles-epiques',
                'troie-iliade': 'cycles-epiques', 'odyssee': 'cycles-epiques',
