@@ -5,37 +5,113 @@
   "branch": "main",
   "latest_session": {
     "date": "2026-11-04",
-    "kind": "AUDIT ET CORRECTION",
-    "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "scope": "Audit ciblé et reproductible de 12 pages universitaires et portails, 9 dossiers de sites archéologiques et la galerie photoréaliste, chemins d'assets, ancres, numérotation, CI et reçu public. Ajout d'un test de régression sans modification des œuvres.",
-    "basis_commit": "5dd0ec1c878ac06a938f4ada6a9fabcc3c880dbf",
-    "audited_pages": 12,
-    "inspected_html_ids": 667,
-    "inspected_img_elements": 170,
-    "inspected_local_anchor_links": 525,
-    "checked_archaeology_gallery_cross_links": 50,
-    "local_missing_files_on_audited_pages": 0,
-    "duplicate_ids_on_audited_pages": 0,
-    "broken_local_anchors_on_audited_pages": 0,
-    "img_elements_missing_alt_on_audited_pages": 0,
-    "changes": [
-      "Nouveau fichier tests/test_iconography_audit_paths_20261104.py : existence des CSS/JS/images et pages référencées dans 12 lecteurs, unicité des identifiants et liens locaux, texte alternatif des images, correspondance des ancres sur neuf fiches archéologiques et la galerie photoréaliste.",
-      "Correction du faux positif de régression sur les liens sans fragment, sans modifier aucune page publique (commit 144bc54231e317516a7ef2f3745ac82c9116c01a)."
+    "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "previous_kind": "AUDIT ET CORRECTION",
+    "next_kind": "AUDIT ET CORRECTION",
+    "scope": "Trois œuvres de réception moderne documentées par le Metropolitan Museum of Art intégrées dans les monographies philosophiques Iliade, Odyssée et Théogonie, directement au chapitre pertinent.",
+    "basis_commit": "5ab601041ce6c5fa89157594c3f40df1318e4a8f",
+    "modified_pages": [
+      "philosophie-iliade.html",
+      "philosophie-odyssee.html",
+      "philosophie-theogonie.html"
     ],
-    "scientific_and_numbering_audit": "AGENTS.md et docs/PUBLICATION_CONCURRENTE.md relus. Aucun manuscrit nouveau numéroté, numéro, ancien sommaire, référence primaire ni registre modifié. Vérification de cohérence scientifique limitée aux sources déjà documentées; les références externes exhaustives restent hors périmètre.",
-    "legacy_assets_open": "Nouvelle relecture des 14 HTML historiques du dossier corpus/mythologie-grecque/archives/ : aucune référence actuelle aux sept anciens noms d'images manquantes listés par le rapport historique. Sur 162 expressions de chemin CSS/JS/image, 161 ressources locales littérales sont présentes dans l'arbre main ; la dernière expression ${esc(img)} appartient à un gabarit JavaScript, pas à une URL littérale. Le script archives/assets/app.js existe. L'alerte ancienne des 38 références n'est donc pas reproductible sur main aujourd'hui ; ne pas réintroduire ces anciennes images.",
-    "prior_ci_issue": "Run 41817520796 au commit 6ae37a2b : 130 tests, un échec sur l'ordre des liens du sommaire automatique inséré avant le renvoi d'auteur dans test_museum_hierarchy. Correctif concurrent 4a69efb71888 ajouté sur main; sa CI était en cours au point de contrôle. Ce constat n'est pas imputé aux nouvelles figures.",
-    "tests": "Premier workflow 41817933248 sur 5dd0ec1 : 133 tests, un échec causé par le nouveau contrôle qui exigeait à tort un fragment sur un lien valide vers la page photoréaliste sans ancre. Correction ciblée et relue au commit 144bc54231e317516a7ef2f3745ac82c9116c01a. Workflow de reprise 41818131515 : étape des tests unitaires/attribution concurrente réussie, contrôle des illustrations réussi, reconstruction du site en cours au dernier contrôle; succès complet non encore attesté.",
-    "public_deployment_status": "Reçu HTTPS accessible au contrôle : /catalog/publication-verification.json annonce source_commit=9f7d7d32cc30fb0396ed2347e15b4e73e9262b4e et github_run_id=41814121404. Ce reçu est antérieur aux modifications auditées ; la publication publique de ce commit et celle des figures récentes ne sont pas confirmées.",
-    "preserved": "Aucun texte, sommaire, navigation, numérotation, illustration, registre éditorial, workflow ni planification horaire modifié.",
-    "obstacles": "Exécution CI de ce commit encore en cours; validation A4 et contrôle visuel mobile non exécutés. Grand volume historique de 27 tomes signalé avec identifiants HTML répétés, non corrigé faute d'analyse sûre des renvois à chaque tome. Le domaine et la présence des documents ne suffisent pas à démontrer leur dernière version déployée.",
-    "commits": [
-      "5dd0ec1c878ac06a938f4ada6a9fabcc3c880dbf",
-      "144bc54231e317516a7ef2f3745ac82c9116c01a"
+    "figures_added": 3,
+    "images_created": 0,
+    "assets_reused": [
+      "/assets/illustrations-articles/met-341681-achille-ombre-patrocle-flaxman.webp",
+      "/assets/illustrations-articles/met-705224-ulysse-circe-flaxman.webp",
+      "/assets/illustrations-articles/met-649972-ottley-nuit-enfants.webp"
     ],
-    "audited_archival_pages": 14,
-    "checked_literal_archival_assets": 161
+    "figures": {
+      "philosophie-iliade.html": {
+        "before": {
+          "ids": 107,
+          "duplicateIds": [],
+          "anchors": 111,
+          "brokenAnchors": [],
+          "images": 21,
+          "imgWithoutAlt": 0,
+          "figures": 21
+        },
+        "after": {
+          "ids": 108,
+          "duplicateIds": [],
+          "anchors": 111,
+          "brokenAnchors": [],
+          "images": 22,
+          "imgWithoutAlt": 0,
+          "figures": 22
+        },
+        "source": "/assets/illustrations-articles/met-341681-achille-ombre-patrocle-flaxman.webp",
+        "id": "icono-iliade-flaxman-ombre-patrocle-reception-20261104",
+        "museum_object": 341681,
+        "museum_date": "1793",
+        "license": "CC0-1.0"
+      },
+      "philosophie-odyssee.html": {
+        "before": {
+          "ids": 106,
+          "duplicateIds": [],
+          "anchors": 111,
+          "brokenAnchors": [],
+          "images": 20,
+          "imgWithoutAlt": 0,
+          "figures": 20
+        },
+        "after": {
+          "ids": 107,
+          "duplicateIds": [],
+          "anchors": 111,
+          "brokenAnchors": [],
+          "images": 21,
+          "imgWithoutAlt": 0,
+          "figures": 21
+        },
+        "source": "/assets/illustrations-articles/met-705224-ulysse-circe-flaxman.webp",
+        "id": "icono-odyssee-flaxman-parker-circe-1805-20261104",
+        "museum_object": 705224,
+        "museum_date": "1805",
+        "license": "CC0-1.0"
+      },
+      "philosophie-theogonie.html": {
+        "before": {
+          "ids": 110,
+          "duplicateIds": [],
+          "anchors": 113,
+          "brokenAnchors": [],
+          "images": 22,
+          "imgWithoutAlt": 0,
+          "figures": 22
+        },
+        "after": {
+          "ids": 111,
+          "duplicateIds": [],
+          "anchors": 113,
+          "brokenAnchors": [],
+          "images": 23,
+          "imgWithoutAlt": 0,
+          "figures": 23
+        },
+        "source": "/assets/illustrations-articles/met-649972-ottley-nuit-enfants.webp",
+        "id": "icono-theogonie-ottley-nuit-enfants-attribution-20261104",
+        "museum_object": 649972,
+        "museum_date": "1803–28",
+        "license": "CC0-1.0"
+      }
+    },
+    "scientific_references": [
+      "https://www.metmuseum.org/art/collection/search/341681",
+      "https://www.metmuseum.org/art/collection/search/705224",
+      "https://www.metmuseum.org/art/collection/search/649972"
+    ],
+    "status": "Flaxman (1793), d’après Flaxman / James Parker (1805), Ottley (1803–1828) : œuvres de réception modernes authentiques, aucun objet antique ni rendu IA. L’identification de l’estampe d’Ottley avec Nyx et ses enfants est explicitement incertaine.",
+    "safety_and_validation": "AGENTS.md et docs/PUBLICATION_CONCURRENTE.md lus; fichiers image dans le catalogue local du Met; cibles uniques; conservation stricte des HTML préexistants hors trois insertions; contrôle des IDs, des ancres, des balises alt, de la dimension et des doublons; test de régression ajouté.",
+    "publication_status": "Source GitHub à enregistrer; CI, reçu public et HTTPS à vérifier, ne pas déclarer une publication sans preuve.",
+    "pagination": "PDF A4 préexistants conservés; nouvel export PDF et contrôle de pagination des 3 additions non réalisés.",
+    "preservation": "Aucune étude numérotée créée, aucun texte préexistant, menu, registre d'attribution, workflow ou automatisation horaire modifié.",
+    "obstacles": "Les trois médias étaient déjà présents et sont réutilisés ; vérification des autres liens externes, rendu mobile et pagination A4 à compléter.",
+    "commits": [],
+    "commit_note": "Commit atomique des 3 pages, test et journal, SHA à relever dans GitHub."
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
   "history": [
@@ -908,6 +984,116 @@
       ],
       "audited_archival_pages": 14,
       "checked_literal_archival_assets": 161
+    },
+    {
+      "date": "2026-11-04",
+      "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "previous_kind": "AUDIT ET CORRECTION",
+      "next_kind": "AUDIT ET CORRECTION",
+      "scope": "Trois œuvres de réception moderne documentées par le Metropolitan Museum of Art intégrées dans les monographies philosophiques Iliade, Odyssée et Théogonie, directement au chapitre pertinent.",
+      "basis_commit": "5ab601041ce6c5fa89157594c3f40df1318e4a8f",
+      "modified_pages": [
+        "philosophie-iliade.html",
+        "philosophie-odyssee.html",
+        "philosophie-theogonie.html"
+      ],
+      "figures_added": 3,
+      "images_created": 0,
+      "assets_reused": [
+        "/assets/illustrations-articles/met-341681-achille-ombre-patrocle-flaxman.webp",
+        "/assets/illustrations-articles/met-705224-ulysse-circe-flaxman.webp",
+        "/assets/illustrations-articles/met-649972-ottley-nuit-enfants.webp"
+      ],
+      "figures": {
+        "philosophie-iliade.html": {
+          "before": {
+            "ids": 107,
+            "duplicateIds": [],
+            "anchors": 111,
+            "brokenAnchors": [],
+            "images": 21,
+            "imgWithoutAlt": 0,
+            "figures": 21
+          },
+          "after": {
+            "ids": 108,
+            "duplicateIds": [],
+            "anchors": 111,
+            "brokenAnchors": [],
+            "images": 22,
+            "imgWithoutAlt": 0,
+            "figures": 22
+          },
+          "source": "/assets/illustrations-articles/met-341681-achille-ombre-patrocle-flaxman.webp",
+          "id": "icono-iliade-flaxman-ombre-patrocle-reception-20261104",
+          "museum_object": 341681,
+          "museum_date": "1793",
+          "license": "CC0-1.0"
+        },
+        "philosophie-odyssee.html": {
+          "before": {
+            "ids": 106,
+            "duplicateIds": [],
+            "anchors": 111,
+            "brokenAnchors": [],
+            "images": 20,
+            "imgWithoutAlt": 0,
+            "figures": 20
+          },
+          "after": {
+            "ids": 107,
+            "duplicateIds": [],
+            "anchors": 111,
+            "brokenAnchors": [],
+            "images": 21,
+            "imgWithoutAlt": 0,
+            "figures": 21
+          },
+          "source": "/assets/illustrations-articles/met-705224-ulysse-circe-flaxman.webp",
+          "id": "icono-odyssee-flaxman-parker-circe-1805-20261104",
+          "museum_object": 705224,
+          "museum_date": "1805",
+          "license": "CC0-1.0"
+        },
+        "philosophie-theogonie.html": {
+          "before": {
+            "ids": 110,
+            "duplicateIds": [],
+            "anchors": 113,
+            "brokenAnchors": [],
+            "images": 22,
+            "imgWithoutAlt": 0,
+            "figures": 22
+          },
+          "after": {
+            "ids": 111,
+            "duplicateIds": [],
+            "anchors": 113,
+            "brokenAnchors": [],
+            "images": 23,
+            "imgWithoutAlt": 0,
+            "figures": 23
+          },
+          "source": "/assets/illustrations-articles/met-649972-ottley-nuit-enfants.webp",
+          "id": "icono-theogonie-ottley-nuit-enfants-attribution-20261104",
+          "museum_object": 649972,
+          "museum_date": "1803–28",
+          "license": "CC0-1.0"
+        }
+      },
+      "scientific_references": [
+        "https://www.metmuseum.org/art/collection/search/341681",
+        "https://www.metmuseum.org/art/collection/search/705224",
+        "https://www.metmuseum.org/art/collection/search/649972"
+      ],
+      "status": "Flaxman (1793), d’après Flaxman / James Parker (1805), Ottley (1803–1828) : œuvres de réception modernes authentiques, aucun objet antique ni rendu IA. L’identification de l’estampe d’Ottley avec Nyx et ses enfants est explicitement incertaine.",
+      "safety_and_validation": "AGENTS.md et docs/PUBLICATION_CONCURRENTE.md lus; fichiers image dans le catalogue local du Met; cibles uniques; conservation stricte des HTML préexistants hors trois insertions; contrôle des IDs, des ancres, des balises alt, de la dimension et des doublons; test de régression ajouté.",
+      "publication_status": "Source GitHub à enregistrer; CI, reçu public et HTTPS à vérifier, ne pas déclarer une publication sans preuve.",
+      "pagination": "PDF A4 préexistants conservés; nouvel export PDF et contrôle de pagination des 3 additions non réalisés.",
+      "preservation": "Aucune étude numérotée créée, aucun texte préexistant, menu, registre d'attribution, workflow ou automatisation horaire modifié.",
+      "obstacles": "Les trois médias étaient déjà présents et sont réutilisés ; vérification des autres liens externes, rendu mobile et pagination A4 à compléter.",
+      "commits": [],
+      "commit_note": "Commit atomique des 3 pages, test et journal, SHA à relever dans GitHub."
     }
   ]
 }
