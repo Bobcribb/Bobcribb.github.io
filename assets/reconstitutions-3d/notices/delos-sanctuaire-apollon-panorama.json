@@ -1,0 +1,27 @@
+{
+  "id": "DLS-PAN-001",
+  "slug": "delos-sanctuaire-apollon-panorama",
+  "title": "Délos — panorama du sanctuaire d’Apollon et du port sacré",
+  "period": "Évocation vers 150 av. J.-C. (IIe siècle av. J.-C.)",
+  "image": "/assets/reconstitutions-3d/delos-sanctuaire-apollon-panorama.webp",
+  "caption": "Vue panoramique 3D photoréaliste interprétative du sanctuaire d’Apollon, des monuments votifs et du port de Délos à l’époque hellénistique.",
+  "commentary": "Délos, île rocheuse des Cyclades dominée par le mont Cynthe, accueillait le sanctuaire panhellénique d’Apollon. Son port connut une forte croissance après la création du port franc en 167 av. J.-C. Les lions consacrés par les Naxiens datent de la fin du VIIe ou du début du VIe siècle av. J.-C. L’image présente une composition interprétative : le grand temple au premier plan, le bassin, l’implantation des lions, les portiques, les maisons, les navires et les distances ne sont pas restitués selon un plan archéologique exact ni validés dans leur simultanéité.",
+  "certainty": {
+    "high": "Existence du sanctuaire d’Apollon à Délos, mont Cynthe, paysage rocheux, port et Lions offerts par les Naxiens.",
+    "medium": "Distribution générale d’édifices sacrés et commerciaux sur une île devenue port franc au IIe siècle av. J.-C.",
+    "low": "Dimension du temple principal illustré, disposition du lac, des lions et des temples, colonnades, décor, végétation, navires et simultanéité des bâtiments."
+  },
+  "sources": [
+    {
+      "label": "Éphorie des Antiquités des Cyclades — Site et musée archéologiques de Délos",
+      "url": "https://cyclades.culture.gov.gr/en/location/the-archaeological-site-and-museum-of-delos/"
+    },
+    {
+      "label": "UNESCO — Délos",
+      "url": "https://whc.unesco.org/fr/list/530/"
+    }
+  ],
+  "rights_and_method": "Image IA photoréaliste non métrique ; sources institutionnelles pour le site, jamais pour authentifier les détails figurés.",
+  "publication_status": "committed_to_GitHub; public_URL_awaiting_independent_verification",
+  "sha256": "a2ff1ce9a7215fed69e6c46b1ef344a5be969db78491c0d4a3654078f3e279dd"
+}

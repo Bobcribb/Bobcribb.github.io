@@ -2,7 +2,7 @@
   "generated_at": "2026-11-04",
   "site": "bobmythos.fr",
   "method": "Illustrations photoréalistes interprétatives, textes et sources hors des pixels.",
-  "count": 18,
+  "count": 19,
   "entries": [
     {
       "id": "DEL-PAN-001",
@@ -310,6 +310,27 @@
       "type": "Vue architecturale 3D photoréaliste non métrique",
       "provenance": "Reconstitution numérique contemporaine, générée séparément de la page. Le fichier image ne contient ni titre ni navigation.",
       "sha256": "7aea86b45684cbcabd940999860a80e7ebb7ed7678acc92fa0c7b117b0e0c747"
+    },
+    {
+      "id": "DLS-PAN-001",
+      "slug": "delos-sanctuaire-apollon-panorama",
+      "title": "Délos — panorama du sanctuaire d’Apollon et du port sacré",
+      "period": "Évocation vers 150 av. J.-C. (IIe siècle av. J.-C.)",
+      "caption": "Vue panoramique 3D photoréaliste interprétative du sanctuaire d’Apollon, des monuments votifs et du port de Délos à l’époque hellénistique.",
+      "commentary": "Délos, île rocheuse des Cyclades dominée par le mont Cynthe, accueillait le sanctuaire panhellénique d’Apollon. Son port connut une forte croissance après la création du port franc en 167 av. J.-C. Les lions consacrés par les Naxiens datent de la fin du VIIe ou du début du VIe siècle av. J.-C. L’image présente une composition interprétative : le grand temple au premier plan, le bassin, l’implantation des lions, les portiques, les maisons, les navires et les distances ne sont pas restitués selon un plan archéologique exact ni validés dans leur simultanéité.",
+      "certainty": "Élevée : existence du sanctuaire, relief rocheux, mont Cynthe, port et Lions de Délos. Moyenne : présence de monuments, portiques et quartiers hellénistiques. Faible : aspect et emplacement précis des temples, du lac et des lions, toitures, dimensions, polychromie, végétation, personnages et flotte.",
+      "source_url": "https://cyclades.culture.gov.gr/en/location/the-archaeological-site-and-museum-of-delos/",
+      "secondary_sources": [
+        "https://whc.unesco.org/fr/list/530/"
+      ],
+      "src": "/assets/reconstitutions-3d/delos-sanctuaire-apollon-panorama.webp",
+      "width": 1774,
+      "height": 887,
+      "created_at": "2026-11-04",
+      "type": "plan large panoramique 3D photoréaliste interprétatif, non métrique",
+      "provenance": "Création numérique originale sans logo, menu ou légende incrustés ; aucune validation institutionnelle de l’image n’est revendiquée.",
+      "sha256": "a2ff1ce9a7215fed69e6c46b1ef344a5be969db78491c0d4a3654078f3e279dd",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/delos-sanctuaire-apollon-panorama.json"
     }
   ]
 }
