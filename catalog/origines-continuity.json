@@ -194,7 +194,9 @@
     "641": "/chapitres/origines-du-sacre/641-tamoutnefret-louvre-cercueils-ramessides-atelier-dorure-provenance/",
     "642": "/chapitres/origines-du-sacre/642-panebmontou-montou-thebes-coffins-louvre-atelier-rituel-savoir/",
     "643": "/chapitres/origines-du-sacre/643-saqqara-atelier-embaumement-wabet-ibu-vases-etiquetes/",
-    "644": "/chapitres/origines-du-sacre/644-antiu-sefet-resines-huiles-chimie-philologie-embaumement/"
+    "644": "/chapitres/origines-du-sacre/644-antiu-sefet-resines-huiles-chimie-philologie-embaumement/",
+    "645": "/chapitres/origines-du-sacre/645-natron-dessiccation-kv54-herodote-temps-corps/",
+    "646": "/chapitres/origines-du-sacre/646-vases-canopes-fils-horus-organes-faux-vases-nubie-adn/"
   },
   "historical_aliases": {
     "/chapitres/origines-du-sacre/576-payer-pour-passer-tarifs-bacs-offrandes/": {
@@ -248,7 +250,7 @@
     "/chapitres/origines-du-sacre/576-payer-pour-passer-tarifs-bacs-offrandes/": "/chapitres/origines-du-sacre/annexe-576-payer-pour-passer-variante/",
     "/chapitres/origines-du-sacre/577-naufrages-secours-divins-survivants/": "/chapitres/origines-du-sacre/580-naufrages-secours-divins-survivants/"
   },
-  "last_numbered_chapter": 644,
+  "last_numbered_chapter": 646,
   "preserved_source_sha256": {
     "chapitres/origines-du-sacre/576-bacs-peages-offrandes-passage.md": "b6704b3484d0c9e0c2e80ea9bdb7e0efa7c6b9723b9b9134f3b7e09c8357e3b1",
     "chapitres/origines-du-sacre/577-monnaies-funeraires-charon-preuves-archeologiques.md": "b4a8e672fb28c90811f531e385cde4bd03aa9f8809613ca6cc8da44e78adf55b",

@@ -1,0 +1,247 @@
+# MYTHOS — Les Origines du sacré — Tome DCXLVI, chapitre 646
+## Garder les organes, préserver la personne : vases canopes, quatre fils d’Horus, fausses urnes et mémoire funéraire de l’Égypte à la Nubie
+
+*Monographie d’archéologie des objets, d’épigraphie, d’histoire des religions, d’anthropologie du corps et de sciences patrimoniales. Suite du dossier sur la préparation du cadavre au natron ; son objet propre est la destinée des viscères, leurs gardiens divins et la transformation historique des contenants. Les analyses modernes sont distinguées des textes antiques et des attestations matérielles.*
+
+### 646.1 — Pourquoi déplacer les organes hors du corps ?
+
+Les scènes figurées, les restes humains et les récipients funéraires égyptiens posent une question singulière : comment une civilisation qui souhaite conserver le défunt peut-elle retirer certains de ses organes, les traiter séparément et leur réserver des contenants ? Cette apparente contradiction disparaît lorsqu’on distingue l’intégrité biologique de l’intégrité religieusement reconstituée. Un ensemble rituel peut distribuer les parties du corps dans plusieurs objets, puis les replacer sous un même réseau de noms, d’images et de protections.
+
+Le présent chapitre étudie non seulement des vases, mais aussi des formules, des matériaux, des chronologies et des décisions de spécialistes. L’identité posthume n’est pas située dans une seule matière. Elle est organisée entre la momie, les sachets d’organes, les divinités protectrices, le coffre et les inscriptions qui déclarent à qui appartient chaque composant.
+
+Il faut cependant éviter une définition intemporelle du rite. Certains vases contiennent effectivement des viscères ; d’autres, parfaitement reconnaissables par leur silhouette, n’ont aucune cavité. Cette différence est au cœur de l’enquête. L’apparence d’un objet peut demeurer alors que sa fonction de contenant a changé.
+
+### 646.2 — « Canopes » : une dénomination savante postérieure
+
+L’expression « vases canopes » est une convention historique employée par les égyptologues et les musées. La notice du Louvre consacrée aux faux canopes de Padiouf rappelle son association avec la ville de Canope, dans le delta du Nil, et une forme particulière du culte d’Osiris. Cette histoire de la dénomination ne doit pas être confondue avec le nom de chaque récipient dans les pratiques pharaoniques. [P1]
+
+L’étymologie muséale explique l’usage d’une catégorie de classement ; elle n’autorise pas à projeter sur le Moyen ou le Nouvel Empire une institution unique nommée d’après une ville devenue célèbre dans des traditions plus tardives. La recherche doit revenir aux textes inscrits sur les objets et à leurs fonctions archéologiquement observables.
+
+Le piège n’est pas propre à l’Égypte. L’histoire des religions emploie de nombreux mots modernes utiles — « magie », « prêtres », « idoles », « mystères » — dont les contours peuvent recouvrir des catégories locales différentes. La philologie critique commence par distinguer le mot du chercheur de celui des acteurs.
+
+### 646.3 — Un système à quatre organes
+
+Les ensembles les mieux connus associent quatre récipients à la préservation du foie, des poumons, de l’estomac et des intestins. Les autres parties anatomiques ne sont pas toutes confiées à de tels contenants. Le système de quatre ne doit donc pas être interprété comme un inventaire physiologique complet du corps humain.
+
+Les quatre fils d’Horus deviennent des protecteurs spécifiques : **Imsety**, à tête humaine, pour le foie ; **Hâpy**, à tête de babouin, pour les poumons ; **Douamoutef**, à tête de chacal, pour l’estomac ; **Qebehsenouef**, à tête de faucon, pour les intestins. Les notices du Walters Art Museum, du Metropolitan Museum et du ministère égyptien des Antiquités donnent ces associations. [P2–P4]
+
+Le fait que ces associations soient couramment enseignées ne dispense pas de dater les objets. Les couvercles, les textes et les formes des vases ont évolué ; il ne faut pas attendre une correspondance iconographique identique de tous les ensembles antérieurs aux époques ramessides.
+
+### 646.4 — Le corps déposé en plusieurs lieux
+
+La séparation des viscères ne signifie pas nécessairement leur exclusion de la personne. Un foie conservé dans un récipient inscrit peut demeurer pris dans la relation entre le mort, son nom et ses puissances protectrices. La topographie du corps change ; l’objectif rituel est pourtant d’en maintenir la capacité de durer.
+
+Cette proposition a deux niveaux. La découverte matérielle démontre qu’un organe fut retiré et placé dans un support identifié. L’affirmation selon laquelle ce geste assure l’existence future du défunt relève de la documentation religieuse, non d’un effet biologique vérifiable en laboratoire.
+
+En conséquence, une étude des canopes ne peut se limiter à mesurer le récipient et à reconnaître l’animal du couvercle. Il faut interroger la relation entre le contenant, l’inscription, les sachets, le cercueil, l’espace de la tombe et les usages qui se poursuivent après l’inhumation.
+
+### 646.5 — Une histoire de couvercles, non une évolution linéaire simple
+
+Dans les périodes anciennes, les vases peuvent présenter des bouchons simples ; l’iconographie des couvercles humains se diffuse, puis les têtes différenciées des fils d’Horus deviennent familières dans la culture funéraire du Nouvel Empire et des périodes suivantes. La notice du Metropolitan Museum souligne notamment la chronologie de ces transformations. [P5]
+
+Il serait erroné d’y voir un progrès allant du « primitif » à l’« achevé ». Plusieurs réponses peuvent coexister : diversité d’ateliers, niveau de richesse, fonctions, habitudes locales et traditions religieuses. La datation stylistique est une hypothèse de chronologie qu’il faut confronter à la stratigraphie et aux inscriptions quand elles existent.
+
+Le décor peut aussi être restauré ou repeint. Une identification moderne d’un buste animal ne doit pas être traitée comme une lecture philologique de l’ensemble du texte ancien. Les deux approches se complètent, mais chacune possède ses propres incertitudes.
+
+### 646.6 — Le dossier de Neferi : inscription et protecteur
+
+Au Metropolitan Museum, le vase canope inscrit pour Neferi, numéro **11.150.43a,b**, est attribué à la XVIIIe dynastie, vers 1550–1300 avant notre ère. La notice précise qu’une inscription invoque Imsety, protecteur du foie, dans un ensemble de quatre récipients correspondant aux quatre fils d’Horus. [P5]
+
+L’objet permet de dépasser la seule identification iconographique. Le texte et le support concourent à situer un destinataire humain et un gardien divin. Cette inscription n’est pas un simple étiquetage de laboratoire ; elle peut fonctionner comme une parole de protection attachée à une matière.
+
+La provenance est signalée par le musée comme étant « dite provenir » d’Assiout ; il serait abusif d’en faire une localisation de fouille incontestable. Ce détail démontre l’importance d’une lecture critique des notices : le numéro d’inventaire et la datation indiquée sont établis par le catalogage, tandis que la provenance peut être transmise avec un degré de certitude inférieur.
+
+### 646.7 — Le Livre des Morts, chapitre 151 : rendre visible la chambre des soins
+
+Le chapitre 151 du *Livre des Morts* offre un autre type de document. La présentation d’University College London explique qu’il rassemble une scène figurant la tente funéraire et les puissances qui y interviennent : Anubis au-dessus du corps, Isis et Nephthys aux extrémités, différentes figures apotropaïques et les quatre enfants d’Horus chargés de protéger les parties internes. [P6]
+
+Le texte conservé dans cette présentation combine image, discours des divinités et agencement de personnages. Il est donc plus exact de parler d’une composition verbo-visuelle que d’une simple liste de prescriptions à exécuter mécaniquement.
+
+Une représentation du lieu où le corps est préparé n’est pas nécessairement un plan d’architecte. Anubis et les autres puissances organisent une scène de protection ; rien n’oblige à imaginer que toutes les figures y furent simultanément matérialisées sous des objets identiques dans chaque atelier.
+
+### 646.8 — Le texte ne possède pas une version unique
+
+La notice universitaire du chapitre 151 précise qu’aucun exemplaire n’est identique à tous les autres et renvoie à l’édition synoptique des manuscrits du Nouvel Empire par Barbara Lüscher. Les différences entre témoins constituent des données philologiques et historiques, non de simples défauts à corriger pour rejoindre un original parfaitement reconstruit. [P6]
+
+Il faut ainsi distinguer le numéro « 151 », utilisé dans la classification savante moderne des compositions funéraires, du contexte antique de chaque papyrus. La composition pouvait être disposée, associée à d’autres scènes ou illustrée selon des configurations variables.
+
+La critique textuelle ne doit pas être transférée abusivement des papyri aux vases : une formule protectrice peinte sur un récipient n’est pas automatiquement une copie intégrale du chapitre 151. Les corpus peuvent partager des divinités et des thèmes sans posséder un même agencement littéral.
+
+### 646.9 — Anubis : artisan divin et opérateur du passage
+
+Dans la scène du chapitre 151, Anubis apparaît en relation étroite avec la momie et le travail funéraire. Le rapprochement est pertinent avec l’univers des spécialistes humains, mais il ne permet pas de définir l’embaumeur comme un simple imitateur d’Anubis.
+
+L’iconographie donne une représentation de l’action divine ; les installations de Saqqara témoignent de gestes humains. Les deux séries de sources appartiennent à une histoire commune des pratiques funéraires sans se confondre. Une représentation religieuse peut rendre intelligible et légitime une opération sans en décrire chacune des étapes techniques.
+
+La méthode évite donc de déduire d’un dieu à tête de chacal la composition exacte d’un baume ou le nombre de praticiens présents lors d’un travail sur le cadavre. Le mythe et l’image éclairent le sens ; l’archéologie contraint la reconstruction matérielle.
+
+### 646.10 — Isis, Nephthys et la protection relationnelle
+
+Le chapitre 151 fait parler Isis et Nephthys comme protectrices du mort. Leur présence situe la conservation physique dans une logique de défense, de rassemblement et de justification. Cette mise en relation s’accorde avec le thème osirien de l’intégrité restaurée, sans permettre d’affirmer qu’une même scène fut partout mise en œuvre à l’identique.
+
+Le vocabulaire du rassemblement et de la protection peut être étudié avec les travaux sur les textes funéraires et leurs variantes. Il ne doit pas être transformé en une description médicale de la fermeture des plaies ou de la reconstruction des tissus.
+
+Le corps préservé dans la religion égyptienne ne constitue donc pas seulement un problème de technique. Il est entouré d’êtres divins dont les attributions font partie de sa nouvelle condition. Les vases canopes s’inscrivent dans ce réseau plus large.
+
+### 646.11 — Le dossier de Padiouf : des vases sans cavité
+
+Le Louvre conserve l’ensemble de **Padiouf, N 2952**, présenté dans l’exposition *Les Portes du ciel*. Les objets du Troisième Période intermédiaire sont en bois peint, avec des couvercles unis au corps du vase : ils ne possèdent pas d’intérieur susceptible de recevoir des viscères. [P1]
+
+Le paradoxe n’en est un que si l’on définit le vase par sa seule fonction physique de récipient. Ici, la forme et la présence du dieu gardien subsistent alors que la conservation des organes peut s’effectuer autrement. L’objet préserve un code visuel religieux indépendant de la capacité de stockage.
+
+Cette étude ne présente pas Padiouf comme un cas moyen de toute l’Égypte. Un ensemble muséal constitue un point d’observation précis ; les pratiques environnantes, l’économie des ateliers et le statut de son propriétaire doivent être examinés séparément.
+
+### 646.12 — Les organes réintroduits et les figurines protectrices
+
+La notice du Louvre précise que, durant une partie de la Troisième Période intermédiaire, les viscères momifiés sont replacés dans l’abdomen, avec de petites figures de cire représentant les quatre fils d’Horus. Des faux vases peuvent alors conserver visuellement les identités protectrices sans remplir leur ancienne fonction de contenants. [P1]
+
+Cette transformation interdit deux conclusions hâtives. D’une part, l’absence d’organes dans les vases ne signifie pas que l’on cesse de les préserver. D’autre part, les quatre figures divines ne perdent pas automatiquement leur rôle lorsque les organes changent de place.
+
+On peut parler de « transfert de support » : une protection auparavant attachée à un récipient peut être représentée par une figurine et par une enveloppe placée près de l’organe lui-même. Cette formule est une hypothèse descriptive, non une catégorie égyptienne explicitement attestée dans les sources citées.
+
+### 646.13 — Des fausses urnes qui ne sont pas des faux historiques
+
+Au Metropolitan Museum, un faux vase canope à tête de Douamoutef (numéro **28.3.60**) est décrit comme un objet de calcaire massif : couvercle non amovible, absence de cavité et fonction protectrice sans stockage de viscères. [P7]
+
+Il ne faut pas confondre « faux » au sens de récipient non fonctionnel avec « contrefaçon » au sens d’objet qui tromperait son acheteur ou son destinataire. Le vase massif peut être une production antique parfaitement conforme au rite de son époque.
+
+Cette distinction ouvre une réflexion sur l’authenticité : un objet peut être symboliquement opérant sans accomplir la fonction pratique qu’exerçait un ancêtre de même forme. Rechercher son vrai statut nécessite d’étudier les usages contemporains, pas de le juger à l’aune d’une fonction plus ancienne.
+
+### 646.14 — La tombe d’Ankhshepenwepet : un ensemble documenté
+
+Le Metropolitan Museum conserve plusieurs fausses urnes découvertes auprès du cercueil d’Ankhshepenwepet, dans la tombe MMA 56 à Deir el-Bahari. L’une est enregistrée sous le numéro **25.3.205c** (Imsety), une autre sous **25.3.205d** (Douamoutef), datées de la XXVe dynastie. [P8]
+
+L’intérêt de ces objets est double. Ils constituent des exemples archéologiques distincts du cas de Padiouf, et leur caractère massif est explicitement signalé par le musée. Ils témoignent de la persistance d’un ensemble de quatre protecteurs dans un contexte où les viscères peuvent avoir été replacés dans le corps.
+
+Un ensemble de tombe permet de discuter la relation entre objet et propriétaire, mais ne prouve pas sans autre indice la place exacte de chaque viscère. L’histoire des pratiques doit rapprocher les notices de fouille, l’état de la momie quand il est documenté et les inscriptions effectivement conservées.
+
+### 646.15 — La résistance des formes : une philosophie de la continuité
+
+À première vue, le passage du vase creux au vase plein est une rupture fonctionnelle. Pourtant, la forme maintient une identité visuelle et religieuse immédiatement reconnaissable. La continuité rituelle peut donc être cherchée ailleurs que dans la permanence d’un usage matériel.
+
+Nietzsche aide ici à distinguer la genèse d’une forme de ses réinterprétations historiques. Une institution ou un objet peut être conservé tout en recevant une fonction différente. Cette proposition philosophique ne prouve pas le raisonnement des commanditaires égyptiens ; elle aide à formuler l’enquête.
+
+Il serait aussi possible, dans une perspective hégélienne, de s’interroger sur la relation entre singularité du corps et médiations sociales de sa conservation. La philosophie doit cependant rester un instrument explicite d’analyse, non une traduction supposée des pensées antiques.
+
+### 646.16 — Un vase est-il toujours un objet individuel ?
+
+Certaines inscriptions donnent le nom du défunt et celui du dieu protecteur. Le vase appartient dès lors à un ensemble personnel de biens funéraires. Cette identification ne se réduit pas à la marque de propriété d’un objet banal : le texte institue un rapport entre une personne, un organe et une puissance.
+
+L’exemple de Khera, scribe royal, conservé au Saint Louis Art Museum, montre des canopes inscrits qui invoquent les fils d’Horus à partir de formules associées au *Livre des Morts*. Le musée décrit plusieurs éléments du groupe, dont un vase à tête de chacal. [P9]
+
+On ne peut déduire de la présence du titre « scribe royal » que le propriétaire ait personnellement rédigé les textes inscrits sur les récipients. L’objet transmet son statut mais ne documente pas directement sa participation à l’atelier de fabrication.
+
+### 646.17 — Dans la Nubie du Nouvel Empire : une forme importée, des matériaux réinventés
+
+Les recherches de Rennan Lemos et de ses collègues sur les contextes funéraires nubiens du Nouvel Empire montrent l’intérêt de ne pas traiter la diffusion des objets égyptiens comme une simple copie. Des vases de Djehutyhotep, chef de Tehkhet, et des imitations locales trouvées à Saï ont livré des matières organiques dont la composition peut différer de celle des onguents standardisés observés dans certains corpus égyptiens. [R1]
+
+Dans les échantillons nubiens étudiés, les chercheurs signalent notamment gomme végétale et bitume, tandis que d’autres ensembles funéraires égyptiens comprennent des liquides noirs résineux caractéristiques. Les auteurs rappellent toutefois que les différences de chronologie entre échantillons limitent une opposition systématique entre « pratique égyptienne » et « pratique nubienne ».
+
+Le dossier montre que les objets circulent avec des usages qui peuvent se transformer. Une forme égyptienne en Nubie ne prouve pas que la même matière ait été utilisée selon le même procédé, ni que les groupes nubiens aient abandonné leurs propres pratiques.
+
+### 646.18 — Empire, adoption et diversité culturelle
+
+Le Nouvel Empire égyptien exerce un pouvoir politique sur des territoires de Nubie. L’analyse des vases et de leurs contenus doit tenir compte de cette situation coloniale, non pour attribuer à chaque objet une signification politique unique, mais pour examiner la circulation inégale des techniques et des symboles.
+
+Une céramique fabriquée selon des formes égyptiennes peut être importée ou produite localement. Le choix d’une substance peut dépendre d’un approvisionnement spécifique ou d’une préférence rituelle. Ces dimensions doivent être établies par les analyses de pâte, la provenance et les résidus.
+
+La comparaison des objets préserve ainsi la pluralité des acteurs. « Égyptianisation » peut nommer une transformation historique, mais devient insuffisante si elle efface l’initiative des populations nubiennes dans la sélection des formes et des matières.
+
+### 646.19 — Analyser des matières anciennes sans détruire le dossier
+
+Les vases canopes sont des artefacts à la fois culturels et biologiques. Leur contenu peut renseigner sur les techniques funéraires et, dans certains cas, sur le corps du défunt. L’échantillonnage réclame donc une méthode de conservation minutieuse : documentation de la provenance, choix des prélèvements, contrôles des contaminants et discussion des effets de traitements muséaux.
+
+L’analyse de résidus permet de chercher des mélanges organiques ; elle ne dit pas automatiquement quel organe était déposé dans un vase précis. Les inscriptions peuvent fournir une identification attendue, mais l’éventuelle présence de matière ancienne et son origine doivent être étudiées séparément.
+
+Un résultat négatif peut être interprété de plusieurs façons : disparition des traces, conditions de conservation défavorables, échantillon trop faible ou absence initiale de contenu. Il ne suffit pas à annuler toutes les hypothèses d’usage.
+
+### 646.20 — ADN ancien et métagénomique : possibilités et limites
+
+Enrique Rayo et ses collègues ont publié en 2022 dans l’*American Journal of Biological Anthropology* une étude métagénomique consacrée à plusieurs vases canopes de collections européennes. Ils présentent notamment des signatures d’ADN ancien et discutent les difficultés que posent dégradation, contamination et interprétation des données. [R2]
+
+L’intérêt de cette démarche dépasse la recherche d’un « secret de momie » : les résidus contenus dans les objets peuvent donner accès à l’histoire biologique d’une personne et à son environnement microbien. Mais la présence d’une séquence n’identifie pas automatiquement une maladie, un organe ou une provenance de façon certaine.
+
+La conservation du patrimoine impose une proportion entre valeur scientifique attendue et prélèvement irréversible. Un objet fragile ne doit pas être consommé par des analyses répétées dont les protocoles, les témoins négatifs et les limites ne seraient pas explicités.
+
+### 646.21 — Le danger d’une identité réduite à l’ADN
+
+Les méthodes moléculaires rendent certaines traces lisibles ; elles ne remplacent ni l’identité sociale ni le nom transmis par l’inscription. Un ensemble de séquences peut se rapporter à une personne biologique sans restituer ses fonctions, ses obligations et le sens de son équipement funéraire.
+
+Cette distinction rejoint une réflexion anthropologique : le défunt égyptien est reconnu à travers plusieurs supports. La matière du foie, la formule inscrite, la protection d’Imsety et le nom du propriétaire ne constituent pas quatre preuves interchangeables de la même chose.
+
+Une archéologie attentive doit associer sciences de laboratoire et histoire des représentations sans faire de la première l’arbitre unique du sens. L’ADN aide à établir certaines relations biologiques ; l’iconographie et la philologie étudient les relations religieuses que les acteurs cherchaient à maintenir.
+
+### 646.22 — Durkheim, Vernant et Detienne : construire le comparable
+
+Une perspective durkheimienne peut analyser le système des quatre protecteurs comme une organisation collective de représentations et de prescriptions. Elle ne démontre ni une conscience religieuse identique chez tous les embaumeurs ni une croyance universelle à quatre gardiens du corps.
+
+Les travaux de Vernant rappellent l’importance des relations entre pratiques, images et formes sociales. Detienne invite à construire les éléments réellement comparables. En matière funéraire, il faut distinguer contenant d’organe, simulacre protecteur, représentation divine et acte de nomination avant de comparer leurs fonctions dans d’autres cultures.
+
+Cette méthode empêche de transformer la présence de quatre figures dans un rite en preuve d’une doctrine universelle des quatre éléments ou des quatre directions. Une association de nombres n’équivaut pas à une filiation historique.
+
+### 646.23 — Comparaisons raisonnées : Iran, Inde, Chine et Andes
+
+Les traditions iraniennes, indiennes, chinoises et américaines donnent des réponses très différentes à la question de la personne après la mort. Certaines privilégient la crémation ou l’exposition, d’autres le traitement du corps, le maintien d’une effigie, les objets ancestraux ou la conservation naturelle. Un tel panorama ne constitue pas une typologie exhaustive.
+
+Les cultures Chinchorro, attestées sur la côte septentrionale du Chili et reconnues par l’UNESCO, montrent des pratiques de démontage et de réassemblage de cadavres. Ce rapprochement permet de questionner la transformation intentionnelle des corps sans postuler un emprunt à l’Égypte. [R3]
+
+La question comparative opératoire n’est pas « où trouve-t-on des canopes ? », mais « comment une communauté maintient-elle la relation entre corps matériel, identité reconnue et obligations des vivants ? » Les termes et les preuves doivent être établis séparément pour chaque tradition.
+
+### 646.24 — Élieade, Girard et les comparaisons qu’il faut refuser
+
+Eliade a proposé de nombreuses lectures de la sacralité comme transformation du rapport au monde. Cette approche peut ouvrir une réflexion sur la demeure posthume du défunt, à condition de ne pas transformer le vase canope en exemplaire d’une structure religieuse universelle postulée d’avance.
+
+Girard, qui étudie la violence sacrificielle, ne fournit pas à lui seul d’explication à la présence de quatre vases ou aux changements de technique de conservation des viscères. Il serait méthodologiquement faible de prétendre déduire ces données d’un mécanisme sacrificiel général.
+
+La théorie doit suivre le document et accepter ses limites. La diversité des sciences mobilisées — épigraphie, chimie, archéologie, philosophie et génétique — ne produit pas automatiquement une seule explication exhaustive.
+
+### 646.25 — Trois dossiers, trois statuts de preuve
+
+Le vase inscrit de Neferi renseigne sur une association précise entre propriétaire, protecteur et organe. Les faux canopes de Padiouf prouvent que des formes protectrices peuvent subsister sans cavité. Les récipients de Nubie examinés chimiquement documentent une circulation de formes et une possible variation des mélanges utilisés. [P1, P5 ; R1]
+
+Comparer ces objets ne signifie pas qu’ils appartiennent à une séquence historique unique allant de l’Égypte vers la Nubie. Le premier est un exemple du Nouvel Empire, le deuxième appartient à la Troisième Période intermédiaire, les troisièmes à des contextes nubiens spécifiques. La comparaison doit maintenir le calendrier de chaque ensemble.
+
+Une synthèse légitime affirme que la protection rituelle des organes se prête à plusieurs distributions matérielles. Elle ne saurait décréter que le changement technique traduit mécaniquement une crise religieuse ou un déclin des croyances.
+
+### 646.26 — Comment reconstituer sans inventer
+
+Une reconstitution visuelle consacrée aux canopes devrait comporter des notices séparées : exemplaire réel à organes, faux vase massif, sachet de viscère conservé et formule représentée par les papyri. Elle doit indiquer clairement la période, la provenance, l’inventaire muséal et le statut des éléments représentés.
+
+Placer le même foie dans un vase de Neferi et à côté d’un faux vase de Padiouf produirait une scène historiquement incohérente si l’image était présentée comme un rite unique. La comparaison iconographique peut les rapprocher dans un montage didactique, à condition de signaler explicitement le montage.
+
+Les catalogues des musées cités ici fournissent des points de départ solides ; ils ne dispensent pas de consulter les rapports de fouille et les analyses lorsqu’une restitution réclame un niveau de précision supérieur.
+
+### 646.27 — Conclusion : déplacer la protection, non perdre le mort
+
+L’histoire des canopes montre que le traitement d’une personne morte peut conserver des objectifs religieux tandis que ses supports changent. On retire les organes, on les prépare, on leur attribue des gardiens ; à d’autres époques, on replace les viscères dans le corps et l’on conserve des vases devenus massifs. Ces configurations ne sont ni identiques ni sans rapport.
+
+**Faits attestés.** Des canopes à quatre gardiens protègent les viscères ; le chapitre 151 du *Livre des Morts* associe Anubis et les quatre fils d’Horus à la préparation du défunt ; Padiouf et d’autres ensembles possèdent des faux vases sans cavité ; l’étude de contextes nubiens révèle une diversité de substances ; des analyses d’ADN ancien ont été conduites sur des résidus de canopes. [P1–P9 ; R1–R2]
+
+**Controverses et limites.** Distribution exacte des pratiques selon les régions et les dynasties, usage de chaque objet isolé, provenance de certains ensembles, identification des résidus anciens, interprétation des modifications iconographiques et des variations d’inscription.
+
+**Hypothèses testables.** Collationner les formules protectrices d’ensembles datés, distinguer vases réellement creux et simulacres par imagerie non destructive, examiner avec précaution les contenus conservés et comparer la distribution spatiale des organes et des figurines dans les tombes publiées.
+
+Ainsi la « totalité » du défunt ne doit pas être comprise comme absence de séparation matérielle. Elle peut être le résultat d’un travail sur les relations entre ses composantes. Le prochain champ de recherche devra envisager les mots et les gestes par lesquels un corps déjà préparé est présenté, reconnu et rendu apte à recevoir sa place parmi les morts.
+
+### Sources primaires, objets et corpus
+
+- **[P1] Musée du Louvre**, *Padiuf’s False Canopic Jars* / faux canopes de Padiouf, **N 2952**, Troisième Période intermédiaire, bois peint, notice d’exposition : https://mini-site.louvre.fr/portesduciel/EN/01expo/notice030204.php .
+- **[P2] Walters Art Museum**, *A Complete Set of Canopic Jars*, série VO.7, **41.171–41.174**, vers 900–800 avant notre ère, quatre associations protectrices : https://art.thewalters.org/object/vo.7/ .
+- **[P3] Princeton University Art Museum**, *Canopic Jar*, **y1942-50 a-b**, Nouvel Empire, notice institutionnelle : https://artmuseum.princeton.edu/art/collections/objects/21887 .
+- **[P4] Ministère égyptien du Tourisme et des Antiquités**, *Canopic jars of a man called Ipi*, musée de l’aéroport du Caire : https://egymonuments.gov.eg/en/collections/canopic-jars-of-a-man-called-ipi-6 .
+- **[P5] Metropolitan Museum of Art**, *Canopic Jar Inscribed for Neferi*, **11.150.43a,b**, XVIIIe dynastie, lecture muséale de l’invocation à Imsety : https://www.metmuseum.org/art/collection/search/554313 .
+- **[P6] *Livre des Morts*, chapitre 151**, fragments du papyrus de Hepres **UC 71000**, University College London, *Digital Egypt* ; translittération et traduction de travail d’après l’édition synoptique de Barbara Lüscher : https://www.ucl.ac.uk/museums-static/digitalegypt/literature/religious/hpres151.html . Le présent chapitre ne revendique pas une collation indépendante des hiéroglyphes.
+- **[P7] Metropolitan Museum of Art**, *Dummy canopic jar with jackal head*, **28.3.60**, tombe H 3, el-Khokha : https://www.metmuseum.org/art/collection/search/558327 .
+- **[P8] Metropolitan Museum of Art**, *Dummy Canopic Jar with the Head of Imseti*, **25.3.205c**, et *… Duamutef*, **25.3.205d**, tombe d’Ankhshepenwepet à Deir el-Bahari : https://www.metmuseum.org/art/collection/search/576909 ; https://www.metmuseum.org/art/collection/search/576910 .
+- **[P9] Saint Louis Art Museum**, *Canopic Jar for the Royal Scribe Khera*, **211:1924a,b**, et un autre vase du groupe **210:1924a,b** : https://www.slam.org/collection/objects/31993/ ; https://www.slam.org/collection/objects/31992/ .
+
+### Bibliographie et études scientifiques
+
+- **[R1] Rennan Lemos, Kate Fulcher, Ikhlas Abdllatief, Ludmila Werkström et Emma Hocker**, « Reshaping Egyptian funerary ritual in colonized Nubia? Organic characterization of unguents from mortuary contexts of the New Kingdom (c. 1550–1070 BCE) », *Archaeological and Anthropological Sciences* **15** (2023), article 73, DOI **10.1007/s12520-023-01769-6** : https://pmc.ncbi.nlm.nih.gov/articles/PMC10167172/ .
+- **[R2] Enrique Rayo et al.**, « Metagenomic analysis of Ancient Egyptian canopic jars », *American Journal of Biological Anthropology* **179** (2022), p. 307–313, DOI **10.1002/ajpa.24600** : https://onlinelibrary.wiley.com/doi/10.1002/ajpa.24600 .
+- **[R3] UNESCO**, « Settlement and Artificial Mummification of the Chinchorro Culture in the Arica and Parinacota Region », patrimoine mondial n° 1634 : https://whc.unesco.org/en/list/1634 .
+- **[R4] Barbara Lüscher**, édition synoptique des passages du *Livre des Morts* du Nouvel Empire utilisée par University College London pour le chapitre 151 ; le lien [P6] donne l’édition des passages cités et précise la dépendance de la transcription.
+- **[R5] Salima Ikram et Aidan Dodson**, *The Mummy in Ancient Egypt: Equipping the Dead for Eternity*, Thames & Hudson, 1998 ; référence de contexte sur l’équipement funéraire, signalée dans [R1]. Aucune page ou citation non vérifiée ne lui est attribuée.
+- **[R6] Émile Durkheim**, *Les Formes élémentaires de la vie religieuse* ; **Jean-Pierre Vernant**, *Mythe et pensée chez les Grecs* ; **Marcel Detienne**, *Comparer l’incomparable* ; **Friedrich Nietzsche**, *La Généalogie de la morale* ; **G. W. F. Hegel**, *Phénoménologie de l’esprit* ; **Mircea Eliade**, *Le Sacré et le profane* ; **René Girard**, *La Violence et le Sacré*. Références conceptuelles, distinctes du dossier égyptologique.
+
+**Avertissement méthodologique.** Aucune nouvelle identification d’organe, collation de papyrus, analyse moléculaire ou restitution de tombe n’est revendiquée. Les faits matériels, les interprétations muséales et les propositions comparatives sont distingués. Aucun numéro ultérieur n’est préattribué.

@@ -435,6 +435,18 @@
           "path": "chapitres/origines-du-sacre/644-antiu-sefet-resines-huiles-chimie-philologie-embaumement.md",
           "request_sha256": "5677a4a430586e7f1369ff70aaacdeaa80e3e375c913910bff37b09948053ebf",
           "initial_source_sha256": "ca5646f2cd7309df7c2b612b2ba067ba2c63a9b725d1c2df498452901ab4a868"
+        },
+        "0df1a2a4-4fc3-4dcb-a617-5ca98e6f17e9": {
+          "number": 645,
+          "path": "chapitres/origines-du-sacre/645-natron-dessiccation-kv54-herodote-temps-corps.md",
+          "request_sha256": "4030c90d904c342997b3fa28048525f80278deff422c695881344e6839a4768e",
+          "initial_source_sha256": "5ac3b85c26b00f6af04e9292aecf6907636dfeaa40bd143c202f164dbd2031a8"
+        },
+        "c83dd0f5-70da-4564-8c25-6f9204f6d03a": {
+          "number": 646,
+          "path": "chapitres/origines-du-sacre/646-vases-canopes-fils-horus-organes-faux-vases-nubie-adn.md",
+          "request_sha256": "91b02b14db25504d9af9324aa1b95cac8b8224fe9a141354df6982020f1ca639",
+          "initial_source_sha256": "c1789bfc1bbee16f9d367c7f14b00eaafc0f57f66458b2e79c512f60d6305f1f"
         }
       }
     },
@@ -1150,6 +1162,12 @@
           "path": "chapitres/comedies/volume-094-nikochares-kentauros-centaure-agora-dartheis-chiron-pholos.md",
           "request_sha256": "1bc31c08bb3dd29b94327569e639dc1e1be79749191966cff5c7a3c4620359cc",
           "initial_source_sha256": "833ce59ecd69e22fc510ed96d8adbfc8de47ee645833952c5f137e3aef215203"
+        },
+        "bc06ca9a-c901-47c1-8a6f-6b3acc42f057": {
+          "number": 95,
+          "path": "chapitres/comedies/volume-095-nikochares-kretes-outils-alenes-forets-dedale-pasiphae-paratragedie.md",
+          "request_sha256": "3fba0cdaa427f19aa418b039412c3ec492a010d1fbc99c46860c9f39711ed5cc",
+          "initial_source_sha256": "8a595bf07999a6754a9be92ff19fbcddbe7a9f7ddce397308679ce82bd3eebb8"
         }
       }
     },
