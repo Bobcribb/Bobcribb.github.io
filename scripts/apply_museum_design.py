@@ -94,7 +94,7 @@ def add_scholarly_toc(doc, main, rel):
     headings = [node for node in article.find_all('h2')
                 if not node.find_parent(['nav', 'aside', 'footer'])
                 and node.get_text(' ', strip=True)]
-    if any(re.match(r'^(sommaire|table des mati[eè]res|plan de (?:l[’\']|la )étude)\\b',
+    if any(re.match(r"^(sommaire|table des mati[eè]res|plan de .{0,5}étude)\b",
                     node.get_text(' ', strip=True), re.I) for node in headings):
         return
     # Sommaires compacts : conserver les plans détaillés déjà rédigés au-delà
