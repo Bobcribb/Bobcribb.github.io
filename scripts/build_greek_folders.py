@@ -16,30 +16,14 @@ from bs4 import BeautifulSoup
 
 BASE = '/mythologie-grecque/dossiers/'
 FOLDERS = [
-    ('cosmogonies', 'Origines du monde et Hésiode',
-     'Chaos, générations divines, Titans, souveraineté de Zeus et condition humaine.'),
-    ('dieux', 'Dieux et puissances divines',
-     'Olympiens, divinités de la nature, personnifications et fonctions du polythéisme.'),
-    ('heracles', 'Héraclès et ses travaux',
-     'Les douze travaux, les rencontres du héros, ses épreuves et son apothéose.'),
-    ('athenes-thesee', 'Athènes, Thésée et la Crète',
-     'Rois fondateurs, généalogies attiques, labyrinthe, Thésée et cultes civiques.'),
-    ('thebes', 'Thèbes, Œdipe et Antigone',
-     'Cadmos, Dionysos, les Labdacides, la guerre des frères et la sépulture.'),
-    ('argonautes', 'Jason, Médée et les Argonautes',
-     'La Toison d’or, l’équipage d’Argo, la Colchide et les violences du retour.'),
-    ('troie-iliade', 'Troie, Achille et l’Iliade',
-     'Le cycle troyen, les héros, les chants et les scènes de l’Iliade.'),
-    ('odyssee', 'Ulysse et l’Odyssée',
-     'Les vingt-quatre chants, les voyages, Pénélope et la reconnaissance.'),
-    ('atrides', 'Les Atrides et Oreste',
-     'Tantale, Pélops, Agamemnon, Clytemnestre, Électre et la justice.'),
-    ('heros', 'Autres héros et êtres mythiques',
-     'Chiron, les Centaures, Persée, Atalante, Orphée et les récits de métamorphose.'),
-    ('sanctuaires', 'Sanctuaires, mystères et cultes',
-     'Delphes, Délos, Éleusis, oracles, guérison, fêtes et pratiques religieuses.'),
-    ('sources', 'Sources, atlas et interprétations',
-     'Géographie, documents, histoire des recherches et outils pour lire les mythes.'),
+    ('cosmogonies', 'Cosmogonies', 'Naissance du monde, générations divines, Hésiode et souveraineté de Zeus.'),
+    ('divinites', 'Divinités', 'Olympiens, dieux des Enfers, puissances de la nature et personnifications.'),
+    ('heros', 'Héros et héroïnes', 'Héraclès, Thésée, Persée, Chiron, épreuves et métamorphoses.'),
+    ('familles', 'Grandes familles mythologiques', 'Lignées attiques, Labdacides, Atrides, filiation et transmission du pouvoir.'),
+    ('cycles-epiques', 'Cycles épiques', 'Argonautiques, cycle troyen, Iliade, Odyssée et retours héroïques.'),
+    ('cultes-sanctuaires', 'Cultes et sanctuaires', 'Delphes, Délos, Éleusis, fêtes, oracles, mystères et pratiques religieuses.'),
+    ('sources-anciennes', 'Sources anciennes', 'Textes, auteurs, documents, atlas, vocabulaire et bibliographies.'),
+    ('interpretations-philosophiques', 'Interprétations philosophiques', 'Études des épopées, concepts, historiographie et méthodes de lecture des mythes.'),
 ]
 FOLDER_TITLES = {slug: title for slug, title, _ in FOLDERS}
 
@@ -109,7 +93,7 @@ def normalized(text):
     return re.sub(r'[^a-z0-9]+', ' ', text).strip()
 
 
-def classify(url, title, kind):
+def _classify_subject(url, title, kind):
     """Give one primary home; unsupported future topics remain visible."""
     path = urlsplit(url).path
     slug = path.strip('/').removesuffix('.html')
@@ -124,7 +108,7 @@ def classify(url, title, kind):
         for hero, home in HERO_HOME.items():
             if subject == hero or subject.startswith(hero+' '):
                 return home
-        if re.match(r'^(zeus|hera|poseidon|demeter|athena|apollon|artemis|ares|aphrodite|hephaistos|hermes|dionysos|hestia|hades|persephone)\b', subject):
+        if re.match(r'^(zeus|hera|poseidon|demeter|athena|apollon|artemis|ares|aphrodite|hephaistos|hermes|dionysos|hestia|hades|persephone|hebe)\b', subject):
             return 'dieux', 'Les Olympiens et les dieux des Enfers'
         return 'sources', 'Nouvelles études à classer'
     if kind == 'Section de livre' and slug == 'monographies':
@@ -164,6 +148,61 @@ def classify(url, title, kind):
     if slug in ('bestiaire', 'recits'):
         return 'heros', 'Persée et les autres héros'
     return 'sources', 'Repères et bibliothèques'
+
+
+
+def classify(url, title, kind):
+    """Eight thematic families, with explicit subject subfolders underneath."""
+    old, section = _classify_subject(url, title, kind)
+    slug = urlsplit(url).path.strip('/').removesuffix('.html')
+    subject = normalized(re.sub(r'^chapitre-\d+-', '', slug.split('/')[-1]))
+    if slug.startswith('philosophie-'):
+        return 'interpretations-philosophiques', 'Analyses philosophiques des épopées'
+    if slug in ('ecole-paris', 'historiographie-v6', 'sources-methodes'):
+        return 'interpretations-philosophiques', 'Historiographie et méthodes d’interprétation'
+    if slug.startswith('chapitres/encyclopedie/') and re.match(r'^(tyche|aidos|eleos|maximes delphiques)\b', subject):
+        return 'interpretations-philosophiques', 'Destin, connaissance de soi et valeurs morales'
+    if slug.startswith('chapitres/encyclopedie/') and re.match(r'^(callimaque|pindare|pheme)\b', subject):
+        return 'sources-anciennes', 'Poésie, rhétorique et parole publique'
+    if old == 'athenes-thesee':
+        if section.startswith('Fêtes'):
+            return 'cultes-sanctuaires', section
+        if section.startswith('Rois'):
+            return 'familles', section
+        return 'heros', section
+    mapping = {'cosmogonies': 'cosmogonies', 'dieux': 'divinites',
+               'heracles': 'heros', 'heros': 'heros', 'thebes': 'familles',
+               'atrides': 'familles', 'argonautes': 'cycles-epiques',
+               'troie-iliade': 'cycles-epiques', 'odyssee': 'cycles-epiques',
+               'sanctuaires': 'cultes-sanctuaires', 'sources': 'sources-anciennes'}
+    if old == 'heracles':
+        section = 'Héraclès — ' + section
+    elif old in ('argonautes', 'troie-iliade', 'odyssee', 'atrides', 'thebes'):
+        section = {'argonautes': 'Argonautiques', 'troie-iliade': 'Troie et Iliade',
+                   'odyssee': 'Odyssée', 'atrides': 'Atrides', 'thebes': 'Thèbes'}[old] + ' — ' + section
+    return mapping[old], section
+
+
+RELATED_FOLDERS = {
+    'cosmogonies': ['divinites', 'sources-anciennes', 'interpretations-philosophiques'],
+    'divinites': ['cosmogonies', 'cultes-sanctuaires', 'heros'],
+    'heros': ['familles', 'cycles-epiques', 'cultes-sanctuaires'],
+    'familles': ['heros', 'cycles-epiques', 'interpretations-philosophiques'],
+    'cycles-epiques': ['heros', 'familles', 'interpretations-philosophiques'],
+    'cultes-sanctuaires': ['divinites', 'sources-anciennes', 'cosmogonies'],
+    'sources-anciennes': ['cycles-epiques', 'cosmogonies', 'interpretations-philosophiques'],
+    'interpretations-philosophiques': ['sources-anciennes', 'cycles-epiques', 'cosmogonies'],
+}
+
+
+# Preserve previously published dossier addresses when consolidating the
+# navigation into eight thematic families. No manuscript is redirected here.
+LEGACY_FOLDERS = {
+    'dieux': 'divinites', 'heracles': 'heros', 'athenes-thesee': 'heros',
+    'thebes': 'familles', 'atrides': 'familles', 'argonautes': 'cycles-epiques',
+    'troie-iliade': 'cycles-epiques', 'odyssee': 'cycles-epiques',
+    'sanctuaires': 'cultes-sanctuaires', 'sources': 'sources-anciennes',
+}
 
 
 def inventory(groups, sections, books):
@@ -232,9 +271,11 @@ def build(out, groups, sections, books):
     (out / BASE.strip('/') / 'index.html').write_text(render('Dossiers thématiques de l’encyclopédie grecque', index), encoding='utf-8')
     # Return links stay outside the article, leaving its scholarly text untouched.
     for row in rows:
-        if row['kind'] != 'Chapitre universitaire':
+        if row['kind'] not in ('Chapitre universitaire', 'Livre', 'Notice', 'Étude'):
             continue
-        page = out / row['url'].strip('/') / 'index.html'
+        page = out / row['url'].lstrip('/')
+        if row['url'].endswith('/'):
+            page /= 'index.html'
         doc = BeautifulSoup(page.read_text(encoding='utf-8'), 'html.parser')
         main = doc.main
         if main is None:
@@ -269,10 +310,27 @@ def build(out, groups, sections, books):
                 context = row['kind'] + (' · '+row['book'] if row['book'] else '')
                 body += '<li><a data-greek-entry="'+escape(row['kind'], quote=True)+'" href="'+escape(row['url'], quote=True)+'">'+escape(row['title'])+'</a><small>'+escape(context)+'</small></li>'
             body += '</ol></section>'
+        body += '<aside class="greek-related"><h2>Renvois vers les thèmes associés</h2><ul>' + ''.join(
+            '<li><a href="'+BASE+related+'/">'+escape(FOLDER_TITLES[related])+'</a></li>'
+            for related in RELATED_FOLDERS[slug]
+            if any(r['folder'] == related for r in rows)) + '</ul></aside>'
         body += '<p><a href="'+BASE+'">Revenir aux dossiers thématiques</a> · <a href="/mythologie-grecque/#catalogue-complet">Catalogue intégral</a></p>'
         target = out / BASE.strip('/') / slug / 'index.html'
         target.parent.mkdir(parents=True, exist_ok=True)
         target.write_text(render(title+' — dossier mythologique', body, description), encoding='utf-8')
+    for legacy, current in LEGACY_FOLDERS.items():
+        if not any(r['folder'] == current for r in rows):
+            continue
+        destination = BASE + current + '/'
+        alias = out / BASE.strip('/') / legacy / 'index.html'
+        alias.parent.mkdir(parents=True, exist_ok=True)
+        alias.write_text('<!doctype html><html lang="fr"><head><meta charset="utf-8">'
+                         '<meta name="viewport" content="width=device-width, initial-scale=1">'
+                         '<meta http-equiv="refresh" content="0;url='+destination+'">'
+                         '<link rel="canonical" href="https://bobmythos.fr'+destination+'">'
+                         '<title>Dossier thématique — MYTHOS</title></head><body>'
+                         '<p><a href="'+destination+'">'+escape(FOLDER_TITLES[current])+'</a></p>'
+                         '</body></html>', encoding='utf-8')
     return rows
 
 
@@ -283,6 +341,13 @@ def verify(out, expected_urls):
     assignments, cache = Counter(), {}
     index = BeautifulSoup((root / 'index.html').read_text(encoding='utf-8'), 'html.parser')
     for page in root.glob('*/index.html'):
+        if page.parent.name in LEGACY_FOLDERS:
+            current = LEGACY_FOLDERS[page.parent.name]
+            doc = BeautifulSoup(page.read_text(encoding='utf-8'), 'html.parser')
+            assert doc.select_one('meta[http-equiv="refresh"]'), 'Alias historique non reconstruit'
+            assert doc.find('a', href=BASE+current+'/'), 'Renvoi historique absent'
+            assert (root/current/'index.html').is_file(), 'Cible historique absente'
+            continue
         assert index.select_one('a[href="'+BASE+page.parent.name+'/"]'), 'Dossier orphelin : '+str(page)
         doc = BeautifulSoup(page.read_text(encoding='utf-8'), 'html.parser')
         for link in doc.select('a[data-greek-entry]'):
@@ -303,7 +368,7 @@ def verify(out, expected_urls):
 
 
 CSS = '''
-.greek-folder-grid{grid-template-columns:repeat(3,minmax(0,1fr))}
+.greek-folder-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
 .greek-folder-grid .portal-card strong{font:1.3rem/1.3 Georgia,serif;color:#efd7a6}
 .greek-folder-grid .portal-card small{color:#c8b995;font:.78rem/1.5 system-ui}
 .greek-folder-toc ul{display:flex;flex-wrap:wrap;justify-content:center;gap:.7rem;list-style:none;padding:0}

@@ -14,7 +14,7 @@ import re
 OUT = Path("_site")
 GOLD="BIBLIOTHÈQUE UNIVERSITAIRE · MYTHOS"
 NAV = '''<nav class="site-nav" aria-label="Navigation principale">
-<a href="/mythologie-grecque.html" class="nav-greece">Encyclopédie grecque</a>
+<a href="/mythologie-grecque/" class="nav-greece">Encyclopédie grecque</a>
 <a href="/dieux-et-deesses/">Dieux</a>
 <a href="/heros-et-heroines/">Héros</a>
 <a href="/recits-mythologiques/">Récits</a>
@@ -788,7 +788,7 @@ def create_encyclopedia(entries):
       ("/bibliotheque-mythologies-du-monde/dictionnaire-dieux-monde/","Dictionnaire des dieux du monde","Entrées thématiques et noms divins.","DICTIONNAIRE")
     ]
     available={e["url"] for e in entries}
-    body='<h1>Grande encyclopédie MYTHOS</h1><p class="portal-lead">La grande encyclopédie dispose de sa propre entrée, distincte des pièces de théâtre, des études philosophiques générales et des Origines du sacré. Les anciens volumes restent intacts et consultables par leur sommaire.</p>'
+    body='<h1>Encyclopédie grecque — sommaire historique</h1><p class="portal-lead">Cette adresse historique conserve les anciens volumes. Retrouvez leur organisation actuelle dans <a href="/mythologie-grecque/">l’encyclopédie mythologique grecque</a>.</p>'
     body+=section("Registre intégral des six collections",
       "Index des dossiers effectivement présents, avec cotes documentaires RG distinctes des volumes scientifiques.",
       cards([("/grande-encyclopedie/registre-integral/",

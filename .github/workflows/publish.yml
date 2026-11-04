@@ -23,10 +23,12 @@ on:
       - 'tests/test_publish_site.py'
       - 'tests/test_site_audit_fixes.py'
       - 'requirements.txt'
-      - 'scripts/build_greek_corpus.py'
-      - 'scripts/build_greek_folders.py'
-      - 'tests/test_greek_folders.py'
       - 'scripts/build_navigation.py'
+      - 'scripts/build_greek_folders.py'
+      - 'scripts/verify_greek_navigation.cjs'
+      - 'tests/test_greek_folders.py'
+      - 'tests/test_museum_navigation.py'
+      - 'scripts/build_greek_corpus.py'
       - 'scripts/origines_reconciliation.py'
       - 'EDITORIAL_REDIRECTS.json'
       - 'editorial/**'
@@ -110,4 +112,19 @@ jobs:
         with:
           name: mythos-live-verification
           path: /tmp/mythos-live-verification.json
+          if-no-files-found: warn
+      - name: Préparer les contrôles sur ordinateur, smartphone et tablette
+        run: |
+          npm install --prefix /tmp/mythos-browser playwright@1.58.2
+          /tmp/mythos-browser/node_modules/.bin/playwright install --with-deps chromium
+      - name: Vérifier les menus et les dossiers sur le domaine public aux trois formats
+        env:
+          NODE_PATH: /tmp/mythos-browser/node_modules
+        run: node scripts/verify_greek_navigation.cjs
+      - name: Conserver le rapport et les captures des trois formats
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: mythos-navigation-responsive
+          path: /tmp/mythos-navigation
           if-no-files-found: warn

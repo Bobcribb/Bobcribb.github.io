@@ -12,6 +12,8 @@ import re
 
 VERSION = '20261104'
 MEDIA = '/media/2026/10/'
+# One public entrance for the Greek encyclopedia. Historical readers remain
+# available, but must never become a second collection in either shared menu.
 NAV = [('/mythologie-grecque/','Encyclopédie grecque'),('/dieux-et-deesses/','Dieux'),('/heros-et-heroines/','Héros'),('/recits-mythologiques/','Récits'),('/theatre/','Théâtre'),('/origines-du-sacre/','Origines du sacré'),('/philosophie/','Philosophie')]
 MORE = [('/','Accueil'),*NAV,('/parcours/','Parcours de lecture'),('/catalogue-integral/','Catalogue intégral'),('/methode-editoriale/','Sources et méthode'),('/mythologie-comparee/','Mythologie comparée'),('/mythologies/','Mythologies du monde'),('/civilisations/','Civilisations'),('/reconstitutions-antiquite/','Reconstitutions'),('/rubriques/','Tous les dossiers'),('/recherche/','Recherche')]
 PILLAR = '<svg viewBox="0 0 36 48" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M4 5h28M5 10h26M8 14h20M9 40h18M5 44h26M12 16v22M18 16v22M24 16v22M7 10C0 10 1 1 7 2h22c6-1 7 8 0 8M7 5c-3 0-3 3 0 3m22-3c3 0 3 3 0 3"/></svg>'
@@ -58,6 +60,8 @@ def fragment(markup):
     return BeautifulSoup(markup, 'html.parser')
 
 def header(url):
+    if url.startswith('/grande-encyclopedie/') or url == '/grande-encyclopedie.html' or url.startswith('/chapitres/encyclopedie/'):
+        url = '/mythologie-grecque/'
     def links(items, active=False):
         return ''.join('<a href="'+html.escape(href)+'"'+(' aria-current="page"' if active and (url == href or url.startswith(href) and href != '/') else '')+'>'+html.escape(label)+'</a>' for href,label in items)
     return fragment('<header class="mythos-masthead"><a class="mythos-brand" href="/" aria-label="MYTHOS — Accueil">'+PILLAR+'<span>MYTHOS<small>ENCYCLOPÉDIE DES MYTHOLOGIES</small></span></a><nav class="mythos-primary-nav" aria-label="Navigation principale">'+links(NAV,True)+'</nav><div class="mythos-header-tools"><a class="mythos-search-link" href="/recherche/" aria-label="Rechercher dans MYTHOS">'+SEARCH+'</a><details class="mythos-menu"><summary aria-label="Ouvrir le menu"><span></span><span></span><span></span></summary><nav aria-label="Toutes les rubriques">'+links(MORE,True)+'</nav></details></div></header>').header
@@ -107,7 +111,7 @@ def apply(root):
         rel = path.relative_to(root).as_posix()
         url = '/' + (rel[:-10] if rel.endswith('index.html') else rel)
         portal_url = '/' if url == '/' else url.removesuffix('.html').rstrip('/') + '/'
-        portal = portal_url in PORTALS or portal_url.startswith(('/parcours/', '/catalogue-integral/', '/etat-du-corpus/', '/methode-editoriale/'))
+        portal = portal_url in PORTALS or portal_url.startswith(('/mythologie-grecque/dossiers/', '/parcours/', '/catalogue-integral/', '/etat-du-corpus/', '/methode-editoriale/'))
         description = doc.head.select_one('meta[name="description"]')
         if (description and description.get('content') == GENERIC_DESCRIPTION
                 and portal_url in PORTAL_DESCRIPTIONS):

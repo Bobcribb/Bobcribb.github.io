@@ -50,6 +50,12 @@ def verify():
         assert 'data-mythos-design="20261104"' in raw,str(p)
         assert raw.count('class="mythos-masthead"')==1,str(p)
         assert raw.count('/assets/mythos-museum.css?')==1,str(p)
+        doc = BeautifulSoup(raw, 'html.parser')
+        for selector in ('.mythos-primary-nav', '.mythos-menu nav'):
+            menu = doc.select_one(selector)
+            assert menu is not None, f'Menu absent : {p}'
+            assert not menu.select('a[href*="grande-encyclopedie"]'), f'Entrée redondante : {p}'
+            assert len(menu.select('a[href="/mythologie-grecque/"]')) == 1, f'Entrée grecque absente ou répétée : {p}'
         pages+=1
     assert pages>1000
     d=BeautifulSoup((out/'origines-du-sacre/index.html').read_text(),'html.parser')

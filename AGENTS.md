@@ -25,8 +25,8 @@ Lire `docs/PUBLICATION_CONCURRENTE.md` avant toute création d'un chapitre numé
 - Navigation grecque : conserver une seule entrée, `/mythologie-grecque/`.
   À la demande de l'utilisateur, ne pas réintroduire l'entrée en doublon
   « Grande Encyclopédie » dans les menus ou les cartes de l'accueil.
-  Ses anciennes pages et tous les textes restent accessibles. Les dossiers
-  thématiques sont construits par `scripts/build_greek_folders.py` ; préserver
+  Ses anciennes pages et tous les textes restent accessibles. Les huit grandes familles de dossiers
+  thématiques sont construites par `scripts/build_greek_folders.py` ; préserver
   le classement, les liens de section et les contrôles de couverture intégrale.
 - Les anciennes illustrations vectorielles en perspective 2,5D sont retirées à la
   demande de l'utilisateur. Ne pas les réintroduire dans les fiches, les galeries,

@@ -160,7 +160,7 @@ def metadata(entry, doc):
     subject = norm(title+' '+unquote(entry['url']).replace('-',' '))
     title_subject = norm(title)
     collection='Dossiers et archives'
-    for token,label in [('origines-du-sacre','Origines du sacré'),('chapitres/encyclopedie','Grande encyclopédie'),('chapitres/comparatif','Cycle philosophique comparatif'),('philosophie','Philosophie'),('comparee','Mythologie comparée'),('traged','Tragédies'),('comed','Comédies'),('theatre','Théâtre grec')]:
+    for token,label in [('origines-du-sacre','Origines du sacré'),('chapitres/encyclopedie','Encyclopédie grecque'),('chapitres/comparatif','Cycle philosophique comparatif'),('philosophie','Philosophie'),('comparee','Mythologie comparée'),('traged','Tragédies'),('comed','Comédies'),('theatre','Théâtre grec')]:
         if token in entry['url']: collection=label; break
     def labels(rules, source=subject):
         return [label for pattern,label in rules if re.search(pattern,source)]

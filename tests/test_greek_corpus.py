@@ -6,10 +6,21 @@ from tempfile import TemporaryDirectory
 from bs4 import BeautifulSoup
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'scripts'))
-from build_greek_corpus import book_sections, main, verify, BOOKS, ARCHIVES, rewritten_studies, REWRITES
+from build_greek_corpus import book_sections, main, verify, BOOKS, ARCHIVES, rewritten_studies, REWRITES, scholarly_title
 
 
 class GreekCorpusTests(unittest.TestCase):
+    def test_subject_title_is_not_replaced_by_abstract_or_repeated_number(self):
+        with TemporaryDirectory() as tmp:
+            page = Path(tmp) / 'chapter.md'
+            for text, expected in [
+                ('# Chapitre 384 — Harmonia : Cadmos et Thèbes\n## Résumé scientifique', 'Harmonia : Cadmos et Thèbes'),
+                ('# MYTHOS — Encyclopédie\n## Chapitre 385 — ILITHYIE\n### Naissance et vulnérabilité', 'ILITHYIE'),
+                ('# Chapitre 12\n## Chiron\n### Introduction', 'Chiron'),
+            ]:
+                page.write_text(text)
+                self.assertEqual(scholarly_title(page), expected)
+
     def test_rewrite_uses_allocation_receipt_and_keeps_historical_reference(self):
         with TemporaryDirectory() as tmp:
             root = Path(tmp)
