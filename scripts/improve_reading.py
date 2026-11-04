@@ -101,6 +101,32 @@ def prepare(out, root):
             ('iliade',EPICS['iliade'],'Colère, honneur, mortalité et compassion.'),
             ('odyssee',EPICS['odyssee'],'Identité, hospitalité, retour et reconnaissance.'),
             ('theogonie',EPICS['theogonie'],'Généalogie divine, savoir poétique et souveraineté.')]])+'</section>'
+    # Vitrines de sites antiques : images locales existantes et liens profonds stables.
+    # Conserver les notices archéologiques distinctes des vues interprétatives.
+    sites = [
+        ("Delphes — sanctuaire d’Apollon", "delphes-apollon-panorama", "delphes",
+         "Panorama numérique interprétatif du sanctuaire."),
+        ("Némée — temple de Zeus", "nemee-temple-zeus-vue", "nemee",
+         "Vue interprétative du temple et de son paysage sacré."),
+        ("Sounion — temple de Poséidon", "sounion-poseidon-vue", "sounion",
+         "Reconstitution interprétative du promontoire attique."),
+    ]
+    for _, picture, dossier, _ in sites:
+        if not (out / "assets/reconstitutions-3d" / (picture + ".webp")).is_file():
+            raise RuntimeError("Image du sommaire des sanctuaires absente : " + picture)
+        if not (out / "sites" / (dossier + ".html")).is_file():
+            raise RuntimeError("Dossier des sanctuaires absent : " + dossier)
+    intro += '<section class="portal-section" id="sanctuaires-en-images"><h2>Sanctuaires grecs en images</h2>'
+    intro += '<p class="section-intro">Trois vues numériques interprétatives, avec accès aux notices archéologiques et aux sources. Elles ne remplacent pas les vestiges attestés.</p>'
+    intro += '<div class="portal-grid">' + ''.join(
+        '<a class="portal-card" href="/reconstitutions-photorealistes.html#' + picture + '">'
+        '<img class="mythos-card-image" src="/assets/reconstitutions-3d/' + picture + '.webp" alt="" loading="lazy" decoding="async">'
+        '<span class="portal-card-kicker">VUE PHOTORÉALISTE</span><strong>' + title + '</strong>'
+        '<span>' + description + '</span><span class="card-indicator" aria-hidden="true">↗</span></a>'
+        for title, picture, _, description in sites) + '</div>'
+    intro += '<p class="discovery-inline">Dossiers et sources : ' + ' · '.join(
+        '<a href="/sites/' + dossier + '.html">' + title.split(" — ")[0] + '</a>'
+        for title, _, dossier, _ in sites) + ' · <a href="/reconstitutions-photorealistes.html">Galerie complète</a></p></section>'
     intro += '<section class="portal-section"><h2>Explorer les mondes anciens</h2><p class="discovery-inline">'+ ' · '.join(
         '<a href="'+u+'">'+label+'</a>' for u,label in [('/bibliotheque-egypte-ancienne/','Égypte'),('/bibliotheque-mesopotamie/','Mésopotamie'),('/bibliotheque-perse-iran-ancien/','Perse'),('/civilisations/','Toutes les civilisations'),('/reconstitutions-antiquite/','Sites et reconstitutions')])+'</p></section>'
     intro += '<section class="portal-section" id="corpus-status"><h2>Une bibliothèque documentée</h2><p><a href="/catalogue-integral/">Catalogue intégral</a> · <a href="/etat-du-corpus/">État du corpus</a> · <a href="/methode-editoriale/">Sources et méthode</a></p><p data-corpus-count>Le catalogue est reconstruit à partir des textes disponibles.</p></section>'
