@@ -120,6 +120,7 @@ def create_home(entries,groups):
       ("/theatre/","Théâtre grec","Eschyle, Sophocle, Euripide, Aristophane, Ménandre, œuvres perdues.","ŒUVRES ET FRAGMENTS"),
       ("/origines-du-sacre/","Origines du sacré","Préhistoire, rituels, chants, temps sacré et religions comparées.","GRAND DOSSIER"),
       ("/philosophie/","Études philosophiques","Hegel, Nietzsche, philosophie antique et interprétation des mythes.","ANALYSE CRITIQUE"),
+      ("/reconstitutions-photorealistes.html","Reconstitutions 3D","Galerie des sites antiques, notices archéologiques, sources et degrés de certitude.","VUES PHOTORÉALISTES"),
     ])
     continent_cards=cards([(f"/civilisations/{k}/",label,f"{len(groups[k])} dossiers — {subtitle}","PAR CONTINENT") for k,(label,subtitle) in CONTINENTS.items()])
     world=cards([
