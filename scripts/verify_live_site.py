@@ -9,6 +9,7 @@ import json
 from pathlib import Path
 import time
 from urllib.request import Request, urlopen
+from bs4 import BeautifulSoup
 
 
 def fetch(url):
@@ -88,6 +89,108 @@ def verify_public_svgs(base, root):
     return page_results + asset_results
 
 
+
+# Figures from two iconography sessions. Require both the published notices
+# and exact local image bytes, not just a successful gallery response.
+TARGET_FIGURES = {
+    "philosophie-iliade.html": ("icono-iliade-mycene-panorama-philosophie-20261104",
+        "/assets/reconstitutions-3d/mycenes-citadelle-porte-lionnes-panorama.webp"),
+    "philosophie-odyssee.html": ("icono-odyssee-tirynthe-palais-20261104",
+        "/assets/reconstitutions-3d/tirynthe-citadelle-mycenienne-panorama.webp"),
+    "philosophie-theogonie.html": ("icono-theogonie-zeus-olympie-altis-20261104",
+        "/assets/reconstitutions-3d/olympie-altis-panorama.webp"),
+    "livre-hesiode/index.html": ("mythos-fig-hesiode-succession-pouvoir-20261104",
+        "/assets/philosophie/theogonie-succession-pouvoir.svg"),
+    "epidaure-asclepios-incubation-iamata-guerisons/index.html":
+        ("mythos-fig-epidaure-panorama-20261104",
+         "/assets/reconstitutions-3d/epidaure-asclepieion-sanctuaire-panorama.webp"),
+    "eleusis-demeter-persephone-mysteres/index.html":
+        ("mythos-fig-eleusis-telesterion-20261104",
+         "/assets/reconstitutions-3d/eleusis-telesterion-sanctuaire-panorama.webp"),
+}
+
+
+def figure_metadata(markup, figure_id, src):
+    soup = BeautifulSoup(markup, "html.parser")
+    nodes = soup.find_all("figure", id=figure_id)
+    if len(nodes) != 1:
+        raise ValueError("Figure absente ou dupliquée : " + figure_id)
+    figure = nodes[0]
+    img, caption = figure.find("img"), figure.find("figcaption")
+    if img is None or caption is None:
+        raise ValueError("Image ou légende absente : " + figure_id)
+    if img.get("src", "").split("?", 1)[0].split("#", 1)[0] != src:
+        raise ValueError("Image inattendue : " + figure_id)
+    if not img.get("alt", "").strip() or figure.has_attr("hidden") or figure.get("aria-hidden") == "true":
+        raise ValueError("Alt absent ou figure masquée : " + figure_id)
+    sources = sorted({a["href"] for a in caption.find_all("a", href=True)
+                      if a["href"].startswith("https://")})
+    data = {"alt": img["alt"].strip(),
+            "caption": " ".join(caption.get_text(" ", strip=True).split()),
+            "status": figure.get("data-image-status", "").strip(),
+            "source_urls": sources}
+    if not data["caption"] or not data["status"] or not sources:
+        raise ValueError("Notice, statut IA ou provenance absente : " + figure_id)
+    return data
+
+
+def figure_inventory(root):
+    pages, assets = {}, {}
+    for page, (fid, src) in TARGET_FIGURES.items():
+        html = (root / page).read_text(encoding="utf-8")
+        pages[page] = figure_metadata(html, fid, src)
+        path = root / src.lstrip("/")
+        body = path.read_bytes()
+        valid = (len(body) >= 12 and body[:4] == b"RIFF" and body[8:12] == b"WEBP"
+                 if src.endswith(".webp") else b"<svg" in body[:2048])
+        if not valid:
+            raise ValueError("Image absente ou invalide : " + src)
+        assets[src] = hashlib.sha256(body).hexdigest()
+    return pages, assets
+
+
+def verify_public_figures(base, root):
+    pages, images = figure_inventory(root)
+    base = base.rstrip("/")
+
+    def check_page(entry):
+        page, expected = entry
+        fid, src = TARGET_FIGURES[page]
+        try:
+            status, _, body = fetch(base + "/" + page)
+            actual = figure_metadata(body.decode("utf-8"), fid, src)
+            valid = status == 200 and actual == expected
+            return {"url": "/" + page, "valid": valid,
+                    "figure_id": fid, "notice_matches_build": valid}
+        except Exception as error:
+            return {"url": "/" + page, "valid": False, "error": str(error)}
+
+    def check_image(entry):
+        src, digest = entry
+        try:
+            status, _, body = fetch(base + src)
+            magic = (len(body) >= 12 and body[:4] == b"RIFF" and body[8:12] == b"WEBP"
+                     if src.endswith(".webp") else b"<svg" in body[:2048])
+            valid = status == 200 and magic and hashlib.sha256(body).hexdigest() == digest
+            return {"url": src, "valid": valid, "sha256_matches_build": valid}
+        except Exception as error:
+            return {"url": src, "valid": False, "error": str(error)}
+
+    with ThreadPoolExecutor(max_workers=6) as executor:
+        return (list(executor.map(check_page, pages.items()))
+                + list(executor.map(check_image, images.items())))
+
+
+def verify_public_receipt(base, root):
+    """Identical catalogue URLs alone do not prove a new Pages deployment."""
+    path = root / "catalog/publication-verification.json"
+    expected = json.loads(path.read_text(encoding="utf-8"))
+    status, _, body = fetch(base.rstrip("/") + "/catalog/publication-verification.json?verify="
+                            + str(int(time.time())))
+    return status == 200 and json.loads(body) == expected
+
+
+
 def main():
     parser=argparse.ArgumentParser()
     parser.add_argument('--base',default='https://bobmythos.fr')
@@ -97,14 +200,18 @@ def main():
     # Wait for propagation, but fail visibly if the newly deployed inventory
     # cannot be identified. A 200 from an older site is not publication proof.
     remote=None
+    receipt_ok=False
     for attempt in range(6):
         try:
             _,_,body=fetch(args.base+'/catalog/entries.json?verify='+str(int(time.time())))
             remote=json.loads(body)
-            if remote==expected:break
+            if remote==expected:
+                receipt_ok=verify_public_receipt(args.base, Path('_site'))
+            if remote==expected and receipt_ok:break
         except Exception:pass
-        time.sleep(10)
+        if attempt<5:time.sleep(10)
     if remote!=expected:raise RuntimeError('Le catalogue public ne correspond pas à cette publication')
+    if not receipt_ok:raise RuntimeError('Le reçu public diffère du build : déploiement non confirmé')
     urls=['/']+[entry['url'] for entry in expected['entries']]
     urls += [item['url'] for item in json.loads(Path('_site/catalog/reading-pdfs.json').read_text())]
     def check(path):
@@ -120,10 +227,16 @@ def main():
     except Exception as error:
         svg_results = [{'url': '/assets/philosophie/', 'valid': False,
                         'error': f'Inventaire SVG : {error}'}]
-    failures=[r for r in results+svg_results if not r['valid']]
+    try:
+        figure_results=verify_public_figures(args.base, Path('_site'))
+    except Exception as error:
+        figure_results=[{'url':'/figures-scientifiques/', 'valid':False,
+                         'error':'Inventaire de figures : '+str(error)}]
+    failures=[r for r in results+svg_results+figure_results if not r['valid']]
     report={'checked_at':datetime.now(timezone.utc).isoformat(),'base_url':args.base,
-            'checked':len(results)+len(svg_results),'svg_checks':svg_results,
-            'failures':failures,'results':results}
+            'checked':len(results)+len(svg_results)+len(figure_results),
+            'receipt_matches_build':receipt_ok,'svg_checks':svg_results,
+            'figure_checks':figure_results,'failures':failures,'results':results}
     Path(args.output).write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n')
     print('Pages publiques vérifiées :',len(results),' ; erreurs :',len(failures))
     if failures:raise RuntimeError(json.dumps(failures[:10],ensure_ascii=False))

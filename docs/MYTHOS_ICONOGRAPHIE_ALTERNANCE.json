@@ -5,56 +5,29 @@
   "branch": "main",
   "latest_session": {
     "date": "2026-11-04",
-    "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "previous_kind": "AUDIT ET CORRECTION",
-    "next_kind": "AUDIT ET CORRECTION",
-    "scope": "Enrichissement sans doublon de trois pages existantes : Hésiode, Épidaure et Éleusis.",
-    "basis_commit": "404e8685375309f5365f22a7fe7504e019943bcd",
-    "checked_pages": 3,
-    "figures_added": 3,
-    "files_added": 0,
-    "assets_reused": 3,
-    "figures": [
-      {
-        "path": "livre-hesiode/index.html",
-        "after_figures": 3,
-        "after_images": 1,
-        "checked_local_anchors": 26,
-        "duplicate_ids": 0,
-        "missing_local_fragments": 0,
-        "new_image": "/assets/philosophie/theogonie-succession-pouvoir.svg",
-        "kind": "schéma 2D original non archéologique"
-      },
-      {
-        "path": "epidaure-asclepios-incubation-iamata-guerisons/index.html",
-        "after_figures": 5,
-        "after_images": 4,
-        "checked_local_anchors": 18,
-        "duplicate_ids": 0,
-        "missing_local_fragments": 0,
-        "new_image": "/assets/reconstitutions-3d/epidaure-asclepieion-sanctuaire-panorama.webp",
-        "kind": "reconstitution 3D IA non métrique"
-      },
-      {
-        "path": "eleusis-demeter-persephone-mysteres/index.html",
-        "after_figures": 7,
-        "after_images": 3,
-        "checked_local_anchors": 22,
-        "duplicate_ids": 0,
-        "missing_local_fragments": 0,
-        "new_image": "/assets/reconstitutions-3d/eleusis-telesterion-sanctuaire-panorama.webp",
-        "kind": "reconstitution 3D IA non métrique"
-      }
+    "kind": "AUDIT ET CORRECTION",
+    "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "scope": "Contrôle ciblé des six études iconographiques et du déploiement public GitHub Pages ; correction du risque de certification d'un rendu périmé.",
+    "basis_commit": "8b34bbe608840045166fa11b597c089cd26d8dd4",
+    "pages_scanned": 6,
+    "images_checked": 69,
+    "figures_checked": 76,
+    "internal_fragments_checked": 401,
+    "stylesheet_references_checked": 27,
+    "script_references_checked": 15,
+    "duplicate_ids": 0,
+    "broken_internal_fragments": 0,
+    "img_without_alt": 0,
+    "assets_checked": "Tous les chemins d'images, CSS et JS mentionnés dans les six pages ont été confrontés aux répertoires du dépôt, y compris assets/philosophie/documents ; aucun fichier local manquant identifié.",
+    "errors_corrected": [
+      "Vérification du reçu de publication JSON exact, en plus de l'inventaire de pages : un ancien déploiement ne peut plus passer en cas de catalogue inchangé.",
+      "Vérification post-déploiement de six figures sur leurs pages réelles (image, légende, statut, source) et des octets SVG/WebP par SHA-256."
     ],
-    "pre_commit_checks": "AGENTS.md et docs/PUBLICATION_CONCURRENTE.md relus ; images absentes des pages avant insertion ; cibles h2 uniques, aucune ancre interne brisée, aucun id dupliqué, images avec alt, tailles et adaptativité ; notice de source institutionnelle, datation et statut IA ou schéma non-IA. Textes HTML strictement conservés hors insertion.",
-    "source_references": [
-      "https://whc.unesco.org/fr/list/491/",
-      "https://www.efada.gr/en-us/Archaeological-Sites-Monuments/Eleusis/Archaeological-Site-of-Eleusis/telesterion",
-      "https://chs.harvard.edu/primary-source/hesiod-theogony-sb/"
-    ],
-    "preservation": "Aucun texte universitaire préexistant, navigation, numérotation, registre d'attribution, automatisation ni fréquence changé ; anciennes illustrations 2,5D non réintroduites.",
-    "public_deployment_status": "Non confirmé pour ces trois figures tant que le site public, les octets des WebP et le reçu de publication ne sont pas vérifiés après déploiement.",
-    "obstacles": "Audit complet des liens externes, validation sur appareil mobile et rerendu PDF A4 non exécutés ; le prochain AUDIT doit contrôler les nouvelles figures sur le domaine et le reçu de publication.",
+    "new_tests": "4 tests dans tests/test_verify_live_site_assets.py : inventaire/égalité publique, HTML ancien et WebP altéré, statut manquant, reçu périmé.",
+    "github_pages": "Le run 41797869748 était en cours à l'étape deploy-pages ; ses tests et sa reconstruction avaient réussi lors du contrôle. Le reçu public consulté présentait encore source_commit 5643fe38..., différent du dernier rendu GitHub. La diffusion publique du correctif n'est pas encore vérifiée.",
+    "content_preserved": "Aucun texte universitaire, image, navigation, numéro, registre d'attribution ou automatisation modifié.",
+    "limitations": "Pas d'exécution locale de la suite Python complète ni d'essai visuel mobile. Les liens externes institutionnels n'ont pas été vérifiés exhaustivement en HTTP.",
     "commits": []
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
@@ -581,6 +554,33 @@
       "preservation": "Aucun texte universitaire préexistant, navigation, numérotation, registre d'attribution, automatisation ni fréquence changé ; anciennes illustrations 2,5D non réintroduites.",
       "public_deployment_status": "Non confirmé pour ces trois figures tant que le site public, les octets des WebP et le reçu de publication ne sont pas vérifiés après déploiement.",
       "obstacles": "Audit complet des liens externes, validation sur appareil mobile et rerendu PDF A4 non exécutés ; le prochain AUDIT doit contrôler les nouvelles figures sur le domaine et le reçu de publication.",
+      "commits": []
+    },
+    {
+      "date": "2026-11-04",
+      "kind": "AUDIT ET CORRECTION",
+      "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "scope": "Contrôle ciblé des six études iconographiques et du déploiement public GitHub Pages ; correction du risque de certification d'un rendu périmé.",
+      "basis_commit": "8b34bbe608840045166fa11b597c089cd26d8dd4",
+      "pages_scanned": 6,
+      "images_checked": 69,
+      "figures_checked": 76,
+      "internal_fragments_checked": 401,
+      "stylesheet_references_checked": 27,
+      "script_references_checked": 15,
+      "duplicate_ids": 0,
+      "broken_internal_fragments": 0,
+      "img_without_alt": 0,
+      "assets_checked": "Tous les chemins d'images, CSS et JS mentionnés dans les six pages ont été confrontés aux répertoires du dépôt, y compris assets/philosophie/documents ; aucun fichier local manquant identifié.",
+      "errors_corrected": [
+        "Vérification du reçu de publication JSON exact, en plus de l'inventaire de pages : un ancien déploiement ne peut plus passer en cas de catalogue inchangé.",
+        "Vérification post-déploiement de six figures sur leurs pages réelles (image, légende, statut, source) et des octets SVG/WebP par SHA-256."
+      ],
+      "new_tests": "4 tests dans tests/test_verify_live_site_assets.py : inventaire/égalité publique, HTML ancien et WebP altéré, statut manquant, reçu périmé.",
+      "github_pages": "Le run 41797869748 était en cours à l'étape deploy-pages ; ses tests et sa reconstruction avaient réussi lors du contrôle. Le reçu public consulté présentait encore source_commit 5643fe38..., différent du dernier rendu GitHub. La diffusion publique du correctif n'est pas encore vérifiée.",
+      "content_preserved": "Aucun texte universitaire, image, navigation, numéro, registre d'attribution ou automatisation modifié.",
+      "limitations": "Pas d'exécution locale de la suite Python complète ni d'essai visuel mobile. Les liens externes institutionnels n'ont pas été vérifiés exhaustivement en HTTP.",
       "commits": []
     }
   ]
