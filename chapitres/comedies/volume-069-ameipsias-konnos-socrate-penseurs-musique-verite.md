@@ -1,8 +1,10 @@
 # MYTHOS — Encyclopédie universitaire des comédies grecques — Volume LXIX (69)
 
-## Amipsias, *Konnos* (Κόννος) — Socrate, les « penseurs », la musique et la vérité du savoir dans l'Athènes de 423
+## Amipsias, *Konnos* (Κόννος) — Complément critique : les « penseurs », la musique et la vérité du savoir dans l'Athènes de 423
 
-**Monographie universitaire originale — comédie attique perdue, philologie fragmentaire, histoire intellectuelle et philosophie comparée. Rédaction MYTHOS, 4 novembre 2026.**
+**Complément universitaire distinct du volume LXVIII consacré à la même comédie perdue — dossier de philologie fragmentaire, histoire intellectuelle et philosophie comparée. Rédaction MYTHOS, 4 novembre 2026.**
+
+**Articulation éditoriale et absence de perte.** Deux demandes sur la même œuvre ont reçu, par attributions concurrentes vérifiées, les numéros **LXVIII (68)** et **LXIX (69)**. Pour ne pas supprimer un manuscrit déjà numéroté et publié dans le registre, le présent volume LXIX est explicitement présenté comme **complément analytique** : il prolonge la [monographie principale LXVIII](/chapitres/comedies/volume-068-ameipsias-konnos-socrate-musique-oracles-education/) par quatre scènes originales [C] différentes et une lecture centrée sur la critique du savoir et la tradition des témoins. Les recoupements documentaires sont des références à un corpus commun, et non deux pièces distinctes. Aucun numéro ni titre antique n'est réattribué.
 
 **Statut documentaire.** **[A]** désigne exclusivement un témoignage antique, un fragment ou une donnée éditoriale contrôlée ; **[B]** une hypothèse, une reconstruction savante ou une interprétation moderne ; **[C]** une scène contemporaine entièrement originale. Les scènes [C] ne sont ni des fragments, ni des traductions, ni une reconstitution présentée comme probable.
 
@@ -10,7 +12,7 @@
 
 **Question directrice [B].** *Konnos* est l'un des dossiers les plus riches pour comprendre la concurrence comique autour de Socrate et des nouveaux savoirs au Ve siècle. En 423, au même concours que les premières *Nuées*, Amipsias obtint la deuxième place derrière la *Pytinē* de Cratinos et devant Aristophane. Son chœur était composé de *phrontistai*, « penseurs », mais les fragments ne permettent pas de réduire la pièce à une seconde version des *Nuées*. Le présent dossier examine précisément ce que la comparaison autorise — et ce qu'elle interdit.
 
-**Navigation :** [Volume précédent — Téléclidès, *Sterrhoi*](/chapitres/comedies/volume-067-telekleides-sterrhoi-corps-travestissement-banquet-desir/) · [Théâtre grec](/theatre/) · [Études philosophiques](/philosophie/) · [Catalogue intégral](/catalogue-integral/).
+**Navigation :** [Volume précédent — LXVIII, *Konnos*, étude principale](/chapitres/comedies/volume-068-ameipsias-konnos-socrate-musique-oracles-education/) · [LXVII — Téléclidès, *Sterrhoi*](/chapitres/comedies/volume-067-telekleides-sterrhoi-corps-travestissement-banquet-desir/) · [Théâtre grec](/theatre/) · [Études philosophiques](/philosophie/) · [Catalogue intégral](/catalogue-integral/).
 
 ---
 
@@ -383,4 +385,4 @@ La meilleure reconstruction n'est pas celle qui comble toutes les lacunes. C'est
 
 ---
 
-**Suite éditoriale :** prochain volume uniquement après nouvelle inspection de la branche `main`, du registre `EDITORIAL_CONTINUITY.md`, de `editorial/numbering.json`, des notices historiques et des manuscrits déjà présents dans `editorial/inbox`. Aucun numéro n'est réservé par ce manuscrit.
+**Suite éditoriale :** ce complément demeure numéroté LXIX conformément au reçu immuable ; le volume LXVIII est la monographie principale sur *Konnos*. Prochain volume uniquement après nouvelle inspection de la branche `main`, du registre `EDITORIAL_CONTINUITY.md`, de `editorial/numbering.json`, des notices historiques et des manuscrits déjà présents dans `editorial/inbox`. Aucun numéro n'est réservé par ce manuscrit.
