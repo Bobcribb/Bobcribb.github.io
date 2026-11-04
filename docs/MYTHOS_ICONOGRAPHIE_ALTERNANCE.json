@@ -5,28 +5,116 @@
   "branch": "main",
   "latest_session": {
     "date": "2026-11-04",
-    "kind": "AUDIT ET CORRECTION",
-    "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "scope": "Audit ciblé et protection de la publication publique des cinq figures patrimoniales du dernier lot (Iliade, Odyssée, livre Hésiode).",
-    "checked_html_pages": 3,
-    "html_ids_checked": 252,
-    "local_anchors_checked": 248,
-    "img_elements_checked": 45,
-    "duplicate_ids": 0,
-    "broken_internal_anchors": 0,
-    "images_missing_alt": 0,
-    "latest_figures_checked": 5,
-    "latest_image_files_present": 5,
-    "verified_issue": "Les 5 dernières figures n'étaient pas incluses dans RECENT_FIGURES du vérificateur public; un site déployé sans elles pouvait donc échapper à la vérification iconographique par figure.",
-    "fix": "Porter le contrôle du lot patrimonial à 8 figures sur 5 pages, conserver les 3 figures précédemment vérifiées, vérifier les notices, les alt, le statut, les sources et les JPEG exacts par SHA-256. Ajouter un cas de régression page Hésiode périmée et image Met modifiée.",
-    "tests": "Mise à jour des assertions pour 8 images / 5 pages et nouveau test de régression. Tests locaux Python non exécutés (dépôt inaccessible au terminal depuis cette session) ; CI à vérifier.",
-    "github_actions": "Au contrôle, run de publication 41809469046 en attente; run 41809283093 annulé; run 41807638069 en échec à l'étape « Préparer les contrôles sur ordinateur, smartphone et tablette ». Résultat final de publication non confirmé.",
-    "domain": "CNAME = bobmythos.fr; accès HTTPS indépendant au domaine et au reçu de publication indisponible durant cette séance.",
-    "preservation": "Aucun texte universitaire, numéro, registre éditorial, navigation, image ou automatisation modifié. Aucune nouvelle étude numérotée.",
-    "limitations": "Audit ciblé de 3 pages; pas de test HTTP exhaustif des liens externes ni mesure du PDF A4 ou du rendu mobile. Vérification de toutes les ressources CSS/JS et du site public à poursuivre.",
+    "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "previous_kind": "AUDIT ET CORRECTION",
+    "next_kind": "AUDIT ET CORRECTION",
+    "scope": "Trois témoins photographiques antiques déjà présents et documentés, intégrés chacun dans un livre de lecture existant : Iliade XXII, Odyssée XII, Hésiode (méthode comparée).",
+    "basis_commit": "cc90855788f63ef3552a6b23c6ee0323cdf9e0b8",
+    "source_assets_reused": [
+      "/assets/philosophie/documents/iliade-02.jpg",
+      "/assets/philosophie/documents/odyssee-02.jpg",
+      "/assets/philosophie/documents/theogonie-03.jpg"
+    ],
+    "pages_modified": [
+      "livre-iliade-scenes/index.html",
+      "livre-odyssee/index.html",
+      "livre-hesiode/index.html"
+    ],
+    "figures_added": [
+      {
+        "page": "livre-iliade-scenes/index.html",
+        "id": "icono-iliade-louvre-g153-corps-hector-20261104",
+        "src": "/assets/philosophie/documents/iliade-02.jpg"
+      },
+      {
+        "page": "livre-odyssee/index.html",
+        "id": "icono-odyssee-sirenes-stamnos-bm-e440-20261104",
+        "src": "/assets/philosophie/documents/odyssee-02.jpg"
+      },
+      {
+        "page": "livre-hesiode/index.html",
+        "id": "icono-hesiode-enuma-elish-comparaison-tablette-k3473-20261104",
+        "src": "/assets/philosophie/documents/theogonie-03.jpg"
+      }
+    ],
+    "precommit_audit": {
+      "livre-iliade-scenes/index.html": {
+        "before": {
+          "ids": 55,
+          "duplicateIds": 0,
+          "localAnchors": 35,
+          "brokenAnchors": 0,
+          "brokenSamples": [],
+          "images": 5,
+          "imgsWithoutAlt": 0
+        },
+        "after": {
+          "ids": 56,
+          "duplicateIds": 0,
+          "localAnchors": 35,
+          "brokenAnchors": 0,
+          "brokenSamples": [],
+          "images": 6,
+          "imgsWithoutAlt": 0
+        },
+        "addedSource": "/assets/philosophie/documents/iliade-02.jpg",
+        "oldBytes": 63204,
+        "newBytes": 64517
+      },
+      "livre-odyssee/index.html": {
+        "before": {
+          "ids": 52,
+          "duplicateIds": 0,
+          "localAnchors": 31,
+          "brokenAnchors": 0,
+          "brokenSamples": [],
+          "images": 4,
+          "imgsWithoutAlt": 0
+        },
+        "after": {
+          "ids": 53,
+          "duplicateIds": 0,
+          "localAnchors": 31,
+          "brokenAnchors": 0,
+          "brokenSamples": [],
+          "images": 5,
+          "imgsWithoutAlt": 0
+        },
+        "addedSource": "/assets/philosophie/documents/odyssee-02.jpg",
+        "oldBytes": 59029,
+        "newBytes": 60365
+      },
+      "livre-hesiode/index.html": {
+        "before": {
+          "ids": 39,
+          "duplicateIds": 0,
+          "localAnchors": 26,
+          "brokenAnchors": 0,
+          "brokenSamples": [],
+          "images": 4,
+          "imgsWithoutAlt": 0
+        },
+        "after": {
+          "ids": 40,
+          "duplicateIds": 0,
+          "localAnchors": 26,
+          "brokenAnchors": 0,
+          "brokenSamples": [],
+          "images": 5,
+          "imgsWithoutAlt": 0
+        },
+        "addedSource": "/assets/philosophie/documents/theogonie-03.jpg",
+        "oldBytes": 40841,
+        "newBytes": 42398
+      }
+    },
+    "provenance": "Louvre G 153 (Achille/Hector, 490–480 av. J.-C., photo domaine public) ; British Museum E440 (Sirènes, 480–470 av. J.-C., photo domaine public) ; British Museum K.3473 (Enūma eliš, tablette du VIIe siècle av. J.-C., photo Zunkir CC BY-SA 4.0). Fichiers existants et manifestés, non produits par IA ; aucune hypothèse de reconstitution présentée comme vestige.",
+    "tests": "Extension de tests/test_iconography_alternation.py : six figures sur six pages, chemins locaux, sources HTTPS, alt, IDs et ancres internes ; exécution CI attendue. Pré-vérification en mémoire des trois HTML : aucune régression mesurée.",
+    "preservation": "Aucun texte de paragraphe existant, numéro, registre d'attribution, menu, script de génération, horaire, workflow ou illustration 2,5D modifié.",
+    "public_deployment_status": "Commit source à distinguer du déploiement ; confirmation HTTPS et preuve publique après publication nécessaires.",
+    "obstacles": "Pagination PDF A4 et rendu visuel mobile non certifiés ; vérification exhaustive des liens externes non exécutée.",
     "commits": [],
-    "commit_note": "Un commit atomique réunit le vérificateur, son test et ce compte rendu; SHA à retrouver dans GitHub."
+    "commit_note": "Commit atomique via arbre Git après garde de concurrence; identifiant du commit observable dans l'historique GitHub."
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
   "history": [
@@ -752,6 +840,119 @@
       "limitations": "Audit ciblé de 3 pages; pas de test HTTP exhaustif des liens externes ni mesure du PDF A4 ou du rendu mobile. Vérification de toutes les ressources CSS/JS et du site public à poursuivre.",
       "commits": [],
       "commit_note": "Un commit atomique réunit le vérificateur, son test et ce compte rendu; SHA à retrouver dans GitHub."
+    },
+    {
+      "date": "2026-11-04",
+      "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "previous_kind": "AUDIT ET CORRECTION",
+      "next_kind": "AUDIT ET CORRECTION",
+      "scope": "Trois témoins photographiques antiques déjà présents et documentés, intégrés chacun dans un livre de lecture existant : Iliade XXII, Odyssée XII, Hésiode (méthode comparée).",
+      "basis_commit": "cc90855788f63ef3552a6b23c6ee0323cdf9e0b8",
+      "source_assets_reused": [
+        "/assets/philosophie/documents/iliade-02.jpg",
+        "/assets/philosophie/documents/odyssee-02.jpg",
+        "/assets/philosophie/documents/theogonie-03.jpg"
+      ],
+      "pages_modified": [
+        "livre-iliade-scenes/index.html",
+        "livre-odyssee/index.html",
+        "livre-hesiode/index.html"
+      ],
+      "figures_added": [
+        {
+          "page": "livre-iliade-scenes/index.html",
+          "id": "icono-iliade-louvre-g153-corps-hector-20261104",
+          "src": "/assets/philosophie/documents/iliade-02.jpg"
+        },
+        {
+          "page": "livre-odyssee/index.html",
+          "id": "icono-odyssee-sirenes-stamnos-bm-e440-20261104",
+          "src": "/assets/philosophie/documents/odyssee-02.jpg"
+        },
+        {
+          "page": "livre-hesiode/index.html",
+          "id": "icono-hesiode-enuma-elish-comparaison-tablette-k3473-20261104",
+          "src": "/assets/philosophie/documents/theogonie-03.jpg"
+        }
+      ],
+      "precommit_audit": {
+        "livre-iliade-scenes/index.html": {
+          "before": {
+            "ids": 55,
+            "duplicateIds": 0,
+            "localAnchors": 35,
+            "brokenAnchors": 0,
+            "brokenSamples": [],
+            "images": 5,
+            "imgsWithoutAlt": 0
+          },
+          "after": {
+            "ids": 56,
+            "duplicateIds": 0,
+            "localAnchors": 35,
+            "brokenAnchors": 0,
+            "brokenSamples": [],
+            "images": 6,
+            "imgsWithoutAlt": 0
+          },
+          "addedSource": "/assets/philosophie/documents/iliade-02.jpg",
+          "oldBytes": 63204,
+          "newBytes": 64517
+        },
+        "livre-odyssee/index.html": {
+          "before": {
+            "ids": 52,
+            "duplicateIds": 0,
+            "localAnchors": 31,
+            "brokenAnchors": 0,
+            "brokenSamples": [],
+            "images": 4,
+            "imgsWithoutAlt": 0
+          },
+          "after": {
+            "ids": 53,
+            "duplicateIds": 0,
+            "localAnchors": 31,
+            "brokenAnchors": 0,
+            "brokenSamples": [],
+            "images": 5,
+            "imgsWithoutAlt": 0
+          },
+          "addedSource": "/assets/philosophie/documents/odyssee-02.jpg",
+          "oldBytes": 59029,
+          "newBytes": 60365
+        },
+        "livre-hesiode/index.html": {
+          "before": {
+            "ids": 39,
+            "duplicateIds": 0,
+            "localAnchors": 26,
+            "brokenAnchors": 0,
+            "brokenSamples": [],
+            "images": 4,
+            "imgsWithoutAlt": 0
+          },
+          "after": {
+            "ids": 40,
+            "duplicateIds": 0,
+            "localAnchors": 26,
+            "brokenAnchors": 0,
+            "brokenSamples": [],
+            "images": 5,
+            "imgsWithoutAlt": 0
+          },
+          "addedSource": "/assets/philosophie/documents/theogonie-03.jpg",
+          "oldBytes": 40841,
+          "newBytes": 42398
+        }
+      },
+      "provenance": "Louvre G 153 (Achille/Hector, 490–480 av. J.-C., photo domaine public) ; British Museum E440 (Sirènes, 480–470 av. J.-C., photo domaine public) ; British Museum K.3473 (Enūma eliš, tablette du VIIe siècle av. J.-C., photo Zunkir CC BY-SA 4.0). Fichiers existants et manifestés, non produits par IA ; aucune hypothèse de reconstitution présentée comme vestige.",
+      "tests": "Extension de tests/test_iconography_alternation.py : six figures sur six pages, chemins locaux, sources HTTPS, alt, IDs et ancres internes ; exécution CI attendue. Pré-vérification en mémoire des trois HTML : aucune régression mesurée.",
+      "preservation": "Aucun texte de paragraphe existant, numéro, registre d'attribution, menu, script de génération, horaire, workflow ou illustration 2,5D modifié.",
+      "public_deployment_status": "Commit source à distinguer du déploiement ; confirmation HTTPS et preuve publique après publication nécessaires.",
+      "obstacles": "Pagination PDF A4 et rendu visuel mobile non certifiés ; vérification exhaustive des liens externes non exécutée.",
+      "commits": [],
+      "commit_note": "Commit atomique via arbre Git après garde de concurrence; identifiant du commit observable dans l'historique GitHub."
     }
   ]
 }

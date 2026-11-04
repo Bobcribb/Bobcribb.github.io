@@ -11,6 +11,9 @@ from bs4 import BeautifulSoup
 ROOT = Path(__file__).resolve().parents[1]
 REGISTER = ROOT / "docs" / "MYTHOS_ICONOGRAPHIE_ALTERNANCE.json"
 MONOGRAPHS = {
+    "livre-iliade-scenes/index.html": ("icono-iliade-louvre-g153-corps-hector-20261104", "/assets/philosophie/documents/iliade-02.jpg"),
+    "livre-odyssee/index.html": ("icono-odyssee-sirenes-stamnos-bm-e440-20261104", "/assets/philosophie/documents/odyssee-02.jpg"),
+    "livre-hesiode/index.html": ("icono-hesiode-enuma-elish-comparaison-tablette-k3473-20261104", "/assets/philosophie/documents/theogonie-03.jpg"),
     "philosophie-iliade.html": ("icono-iliade-mycene-panorama-philosophie-20261104", "/assets/reconstitutions-3d/mycenes-citadelle-porte-lionnes-panorama.webp"),
     "philosophie-odyssee.html": ("icono-odyssee-tirynthe-palais-20261104", "/assets/reconstitutions-3d/tirynthe-citadelle-mycenienne-panorama.webp"),
     "philosophie-theogonie.html": ("icono-theogonie-zeus-olympie-altis-20261104", "/assets/reconstitutions-3d/olympie-altis-panorama.webp"),
