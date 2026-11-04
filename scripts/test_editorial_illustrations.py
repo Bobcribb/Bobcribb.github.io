@@ -31,7 +31,10 @@ class EditorialIllustrationsTest(unittest.TestCase):
                 after = BeautifulSoup(result, 'html.parser')
                 expected = HATHOR_IMAGES if 'hathor' in slug else []
                 self.assertEqual(selected, expected)
-                self.assertEqual(bool(after.select('main > aside')), bool(expected))
+                illustrations_found = after.select('main > aside figure, article figure[data-editorial-inline="subject-v3"]')
+                self.assertEqual(len(illustrations_found), len(expected))
+                for figure in after.select('article figure[data-editorial-inline="subject-v3"]'):
+                    figure.decompose()
                 self.assertEqual(str(before.article), str(after.article))
                 self.assertNotIn('visual-rails-active', after.main.get('class', []))
 
@@ -87,7 +90,7 @@ class EditorialIllustrationsTest(unittest.TestCase):
 
     def test_work_heading_after_collection_heading(self):
         _, selected = self.render_page('volume-150', 'MYTHOS — Tragédies grecques', '<h1>Euripide, Médée</h1><p>Étude intégrale.</p>')
-        self.assertEqual(6, len(selected))
+        self.assertEqual(8, len(selected))
         self.assertTrue({'mythos-medee-fuite-char-serpents-hydrie-policoro-35296', 'mythos-van-loo-medee-jason', 'mythos-euripide-portrait-antique-szilas'} <= set(selected))
         self.assertTrue(all('medee' in key or 'euripide-portrait' in key for key in selected))
 
@@ -159,12 +162,40 @@ class EditorialIllustrationsTest(unittest.TestCase):
 
     def test_large_gallery_remains_bounded_and_idempotent(self):
         doc, selected = self.render_page('etude-comparee', 'Euripide, Médée, Iphigénie et Oreste', '<p>Étude conservée.</p>')
-        self.assertEqual(6, len(selected))
+        self.assertEqual(8, len(selected))
         self.assertEqual(6, len(set(selected)))
         again, other = illustrations.decorate_document(str(doc), Path('etude-comparee/index.html'), ROOT, self.records)
         self.assertEqual(str(doc), again)
         self.assertEqual(selected, other)
         self.assertEqual('Étude conservée.', doc.article.p.get_text())
+
+    def test_long_article_distributes_documented_images_in_reading_flow(self):
+        prose = "Une étude universitaire conserve ses sources antiques et ses variantes philologiques. " * 6
+        body = "".join(f"<h2>Partie {i}</h2><p>{prose}</p>" for i in range(14))
+        doc, selected = self.render_page('dossier-heracles', 'Héraclès', body)
+        inline = doc.select('article figure[data-editorial-inline="subject-v3"]')
+        supplementary = doc.select('main > aside figure')
+        self.assertGreaterEqual(len(selected), 2)
+        self.assertEqual(min(4, len(selected)), len(inline))
+        self.assertEqual(len(selected), len(inline) + len(supplementary))
+        self.assertEqual(14, len(doc.article.select('h2')))
+        self.assertEqual(14, len(doc.article.select('p')))
+        for figure in inline + supplementary:
+            self.assertTrue(figure.img.get('alt'))
+            self.assertTrue(figure.select('figcaption a[href^="https://"]'))
+            self.assertNotIn('.svg', figure.img['src'])
+        again, other = illustrations.decorate_document(str(doc), Path('dossier-heracles/index.html'), ROOT, self.records)
+        self.assertEqual(selected, other)
+        self.assertEqual(str(doc), again)
+
+    def test_inline_does_not_replace_authored_figure(self):
+        prose = "<p>" + ("Texte original documenté. " * 12) + "</p>"
+        existing = '<figure><img src="/media/2026/10/photo-auteur.jpg" alt="Document original"><figcaption>Notice de l’auteur</figcaption></figure>'
+        doc, selected = self.render_page('dossier-athena', 'Athéna', existing + prose * 8)
+        self.assertTrue(selected)
+        self.assertEqual(1, len(doc.select('article figure:not([data-editorial-inline])')))
+        self.assertEqual('Notice de l’auteur', doc.select_one('article figure:not([data-editorial-inline]) figcaption').get_text())
+        self.assertGreaterEqual(len(doc.select('article figure[data-editorial-inline]')), 1)
 
     def test_existing_image_with_query_is_not_duplicated(self):
         record = next(r for r in self.records if 'antigone' in r['id'])

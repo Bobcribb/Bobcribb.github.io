@@ -392,7 +392,7 @@ def main():
     from verify_publication import verify as verify_publication
     verify_publication(ROOT, OUT)
     audit(OUT)
-    print(f"Galeries latérales ajoutées sur {n_illustrated} pages.")
+    print(f"Illustrations documentées intégrées dans ou après {n_illustrated} articles.")
     write(".nojekyll","")
     write("CNAME","bobmythos.fr\n")
     print(f"MYTHOS SANS WORDPRESS : {n_pages} HTML de GitHub, {n_media} médias locaux, {len(chapters)} nouveaux chapitres Markdown, {n_indexed} dossiers indexés.")

@@ -28,3 +28,14 @@
 .layout.portal-layout:has(.mythos-home-illustrations)>.content{min-width:0;max-width:none}
 @media(max-width:850px){.layout.portal-layout:has(.mythos-home-illustrations){grid-template-columns:minmax(0,1fr);padding:24px 16px 56px}.mythos-home-illustrations{max-width:100%}}
 @media(prefers-reduced-motion:reduce){.mythos-edition *{scroll-behavior:auto}}
+
+/* Figures documentées dans le corps des études : priorité à la lecture, pas aux rails latéraux. */
+.content figure.mythos-editorial-inline{display:block;clear:both;box-sizing:border-box;margin:clamp(1.5rem,3vw,2.6rem) auto;max-width:min(100%,880px);border:1px solid #806946;border-radius:4px;overflow:hidden;background:#14191c;color:#e8e0d2}
+.content figure.mythos-editorial-inline>a{display:block;line-height:0;background:#101416}
+.content figure.mythos-editorial-inline img{display:block;width:100%;height:auto;max-height:560px;object-fit:contain;margin:0 auto;border:0;border-radius:0}
+.content figure.mythos-editorial-inline figcaption{display:block;padding:clamp(12px,2vw,21px);font:clamp(.85rem,1.05vw,.98rem)/1.65 Georgia,serif;color:#ded0b8;overflow-wrap:anywhere}
+.content figure.mythos-editorial-inline figcaption strong{color:#f0d6a5}
+.content figure.mythos-editorial-inline figcaption a{color:#f0cf94;text-decoration:underline;text-underline-offset:3px}
+.content figure.mythos-editorial-inline>a:focus-visible{outline:3px solid #f0cf94;outline-offset:-3px}
+@media(max-width:700px){.content figure.mythos-editorial-inline{margin:1.4rem 0;width:100%}.content figure.mythos-editorial-inline img{max-height:420px}}
+@media print{.content figure.mythos-editorial-inline{break-inside:avoid;border:1px solid #444;background:white;color:black}.content figure.mythos-editorial-inline figcaption,.content figure.mythos-editorial-inline figcaption strong{color:black}.content figure.mythos-editorial-inline figcaption a{color:#222}}

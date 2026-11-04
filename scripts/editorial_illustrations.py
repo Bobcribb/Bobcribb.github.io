@@ -14,7 +14,8 @@ from bs4 import BeautifulSoup
 
 CATALOG = Path(__file__).with_name("editorial_media.json")
 GENERATED_CLASSES = {"mythos-home-illustrations", "mythos-visual-rail"}
-MAX_ADDED_IMAGES = 6
+MAX_ADDED_IMAGES = 8
+MAX_INLINE_IMAGES = 4
 
 
 def normalized(value):
@@ -95,47 +96,87 @@ def select_media(path, article, out, records):
     return chosen
 
 
+def make_figure(doc, record, inline=False):
+    """A documented object, preserving its existing caption and provenance."""
+    attrs = {"data-media-id": record["id"]}
+    if inline:
+        attrs.update({"class": "mythos-editorial-inline", "data-editorial-inline": "subject-v3"})
+    figure = doc.new_tag("figure", attrs=attrs)
+    link = doc.new_tag("a", href="/" + record["path"], attrs={"aria-label": "Agrandir : " + record["alt"]})
+    img = doc.new_tag("img", src="/" + record["path"], alt=record["alt"], loading="lazy", decoding="async")
+    if record.get("width") and record.get("height"):
+        img["width"], img["height"] = record["width"], record["height"]
+    link.append(img)
+    figure.append(link)
+    caption = doc.new_tag("figcaption")
+    for node in list(BeautifulSoup(record["caption_html"], "html.parser").contents):
+        caption.append(node)
+    figure.append(caption)
+    return figure
+
+
+def editorial_paragraphs(article):
+    """Only substantial authored paragraphs, not menus, quotations or captions."""
+    paragraphs = []
+    for p in article.find_all("p"):
+        if len(p.get_text(" ", strip=True)) < 100:
+            continue
+        if p.find_parent(("figure", "aside", "blockquote", "li", "nav", "footer")):
+            continue
+        if any(getattr(a, "name", None) and a.has_attr("data-reading-owned") for a in p.parents):
+            continue
+        paragraphs.append(p)
+    return paragraphs
+
+
 def decorate_document(source, path, out, records):
     doc = BeautifulSoup(source, "html.parser")
     main = doc.find("main")
     article = main.find("article") if main else None
     if not article:
         return source, []
-    # Migrate previously generated HTML as well as newly rendered Markdown.
-    # Only generator-owned sibling asides are replaced; authored figures,
-    # notes, quotations, tables and studies inside the article are preserved.
+
+    # Reconstruct only generator-owned fragments. Authored figures, scholarly
+    # text, tables and footnotes remain untouched on repeated builds.
     removed = False
+    for figure in article.select('figure[data-editorial-inline="subject-v3"]'):
+        if "mythos-editorial-inline" in figure.get("class", []):
+            figure.decompose()
+            removed = True
     for aside in main.find_all("aside", recursive=False):
         if GENERATED_CLASSES.intersection(aside.get("class", [])):
             aside.decompose()
             removed = True
     if removed or "visual-rails-active" in main.get("class", []):
         classes = [c for c in main.get("class", []) if c not in ("visual-rails-active", "portal-layout")]
-        # Portals already have their own full-width layout, independent of rails.
         if article.select_one(".portal-section, .hero-editorial"):
             classes.append("portal-layout")
         main["class"] = classes
     if doc.head and not doc.select_one('link[href="/assets/mythos-refonte.css"]'):
         doc.head.append(doc.new_tag("link", rel="stylesheet", href="/assets/mythos-refonte.css"))
+
     chosen = select_media(path, article, out, records)
-    if chosen:
-        aside = doc.new_tag("aside", attrs={"class": "mythos-home-illustrations mythos-bottom-gallery", "data-editorial-gallery": "subject-v2", "aria-label": "Documents en rapport avec le sujet"})
+    paragraphs = editorial_paragraphs(article)
+    inline_count = min(len(chosen), MAX_INLINE_IMAGES, len(paragraphs),
+                       max(1, len(paragraphs) // 3)) if paragraphs else 0
+    # Spread exhibits through the reading flow, without inserting a photo in
+    # an unrelated section solely because a term occurs in the article prose.
+    for i, record in enumerate(chosen[:inline_count]):
+        index = ((2 * i + 1) * len(paragraphs)) // (2 * inline_count)
+        paragraphs[index].insert_after(make_figure(doc, record, inline=True))
+
+    remaining = chosen[inline_count:]
+    if remaining:
+        aside = doc.new_tag("aside", attrs={
+            "class": "mythos-home-illustrations mythos-bottom-gallery",
+            "data-editorial-gallery": "subject-v3",
+            "aria-label": "Documents en rapport avec le sujet"
+        })
         heading = doc.new_tag("h2")
-        heading.string = "Documents iconographiques"
+        heading.string = "Documents iconographiques complémentaires" if inline_count else "Documents iconographiques"
         aside.append(heading)
-        for record in chosen:
-            figure = doc.new_tag("figure", attrs={"data-media-id": record["id"]})
-            full_size = doc.new_tag("a", href="/" + record["path"], attrs={"aria-label": "Agrandir : " + record["alt"]})
-            img = doc.new_tag("img", src="/" + record["path"], alt=record["alt"], loading="lazy", decoding="async")
-            if record.get("width") and record.get("height"):
-                img["width"], img["height"] = record["width"], record["height"]
-            full_size.append(img)
-            figure.append(full_size)
-            caption = doc.new_tag("figcaption")
-            for node in list(BeautifulSoup(record["caption_html"], "html.parser").contents):
-                caption.append(node)
-            figure.append(caption)
-            aside.append(figure)
+        for record in remaining:
+            aside.append(make_figure(doc, record))
         article.insert_after(aside)
         main["class"] = list(dict.fromkeys(main.get("class", []) + ["portal-layout"]))
     return str(doc), [r["id"] for r in chosen]
