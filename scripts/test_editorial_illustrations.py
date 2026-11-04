@@ -158,6 +158,20 @@ class EditorialIllustrationsTest(unittest.TestCase):
                 _, selected = self.render_page('dossier-documente', title)
                 self.assertTrue(any(fragment in key for key in selected))
 
+    def test_all_curated_schematic_captions_have_real_https_provenance(self):
+        from urllib.parse import urlsplit
+        import json
+        items = json.loads((ROOT / 'scripts/editorial_diagrams.json').read_text(encoding='utf-8'))['media']
+        for item in items:
+            with self.subTest(id=item['id']):
+                self.assertNotIn('undefined', item['caption_html'])
+                caption = BeautifulSoup(item['caption_html'], 'html.parser')
+                urls = [a.get('href', '') for a in caption.find_all('a')]
+                self.assertTrue(urls)
+                self.assertTrue(all(urlsplit(url).scheme == 'https' and
+                                    urlsplit(url).hostname for url in urls))
+                self.assertIn('Schéma pédagogique original MYTHOS', item['caption_html'])
+
     def test_museum_original_url_is_not_repeated(self):
         record = next(r for r in self.records if 'met-570675-' in r['id'])
         _, selected = self.render_page('anubis', 'Anubis', f'<img src="{record["equivalents"][0]}">')
