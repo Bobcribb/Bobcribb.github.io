@@ -70,16 +70,33 @@ class RecentStudyTests(unittest.TestCase):
             before = source.read_bytes()
             original_reader = (output / 'chapitres/tragedies/volume-ccxxx-triptoleme/index.html').read_bytes()
             self.assertEqual(install(root, output), 1)
+            reader_path = output / 'chapitres/tragedies/volume-ccxxx-triptoleme/index.html'
+            first_reader = reader_path.read_bytes()
             self.assertEqual(install(root, output), 1)
+            # Deux générations donnent le même rendu et un seul renvoi retour.
+            self.assertEqual(first_reader, reader_path.read_bytes())
             doc = BeautifulSoup((output / 'index.html').read_text(encoding='utf-8'), 'html.parser')
             self.assertEqual(len(doc.select('#home-etudes-recentes .portal-card')), 1)
             self.assertEqual(len(doc.select('a[href="#home-etudes-recentes"]')), 1)
             self.assertEqual(doc.select_one('#home-etudes-recentes img')['src'],
                              '/media/2026/10/epidaure-theatre-antique-zde.jpg')
+            self.assertIn('Épidaure', doc.select_one('#home-etudes-recentes img')['alt'])
+            self.assertIn('ne représente pas nécessairement', 
+                          doc.select_one('.mythos-recent-caption').get_text())
             self.assertIn('Triptolème', doc.select_one('#home-etudes-recentes strong').get_text())
             self.assertIsNotNone(doc.select_one('#original'))
             self.assertEqual(before, source.read_bytes())
-            self.assertEqual(original_reader, (output / 'chapitres/tragedies/volume-ccxxx-triptoleme/index.html').read_bytes())
+            updated_reader = reader_path.read_text(encoding='utf-8')
+            self.assertIn('Texte intégral avec bibliographie', updated_reader)
+            self.assertIn('Texte intégral avec bibliographie', original_reader.decode('utf-8'))
+            reader_doc = BeautifulSoup(updated_reader, 'html.parser')
+            navigation = reader_doc.select('nav[data-mythos-recent-backlinks]')
+            self.assertEqual(len(navigation), 1)
+            self.assertEqual(
+                navigation[0].select_one('a[href="/#home-etudes-recentes"]').get_text(),
+                'Dernières études universitaires')
+            self.assertIsNotNone(navigation[0].select_one('a[href="/theatre/"]'))
+            self.assertEqual(navigation[0].get('data-reading-owned'), 'true')
 
     def test_incomplete_study_or_missing_reader_not_promoted(self):
         with TemporaryDirectory() as temp:
