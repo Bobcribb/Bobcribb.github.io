@@ -5,76 +5,56 @@
   "branch": "main",
   "latest_session": {
     "date": "2026-11-04",
-    "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "previous_kind": "AUDIT ET CORRECTION",
-    "next_kind": "AUDIT ET CORRECTION",
-    "scope": "Deux illustrations antiques documentées et situées dans leurs chants : Athéna (Iliade V) et le skyphos des prétendants (Odyssée XXII).",
-    "basis_commit": "2ebbde266383e609438d7dfb07668e8665bf903d",
-    "modified_pages": [
+    "kind": "AUDIT ET CORRECTION",
+    "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "scope": "Audit post-iconographique des sept pages d'accueil, de lecture et de philosophie, puis sécurisation du contrôle de déploiement HTTPS des deux nouvelles figures antiques : Athéna de l'Iliade V et skyphos des prétendants de l'Odyssée XXII.",
+    "basis_commit": "ed63debc461bbd9553328d65cac95b38ce06b990",
+    "audited_pages": [
+      "index.html",
       "livre-iliade-scenes/index.html",
-      "livre-odyssee/index.html"
+      "livre-odyssee/index.html",
+      "livre-hesiode/index.html",
+      "philosophie-iliade.html",
+      "philosophie-odyssee.html",
+      "philosophie-theogonie.html"
     ],
-    "added_figure_count": 2,
-    "added_figures": [
+    "checked_html_pages": 7,
+    "html_ids_checked": 519,
+    "internal_anchors_checked": 435,
+    "img_elements_checked": 133,
+    "stylesheet_elements_seen": 34,
+    "script_elements_seen": 17,
+    "duplicate_html_ids_found": 0,
+    "broken_same_page_anchors_found": 0,
+    "img_without_alt_found": 0,
+    "verified_gap": "La suite de tests de provenance surveillait les deux nouvelles figures dans leurs fichiers HTML, mais le vérificateur HTTPS scripts/verify_live_site.py ne les recensait pas parmi les RECENT_FIGURES : une version antérieure des pages ou des octets de médias pouvait donc échapper à ce contrôle ciblé.",
+    "correction": "Ajout des deux couples (page, identifiant, média) à RECENT_FIGURES, de 20 à 22 notices sur les six pages du corpus et de 19 à 20 ressources documentaires uniques. La vérification existante impose désormais leurs légendes, alt, provenance, statuts, hash SHA-256 identique et signatures JPEG/WebP.",
+    "tests": "Mise à jour des comptes de régression dans tests/test_verify_live_site_assets.py et nouveau test simulant la disparition de la figure d'Athéna sur le HTML public et la modification des octets JPEG du skyphos. Contrôles statiques du code et relecture des fichiers après commit ; suite complète Python/CI non exécutée localement, état Actions à vérifier.",
+    "scientific_verification": "Metropolitan Museum of Art 50.11.1 (ca 460 av. J.-C. ; bronze, Athéna et chouette), notice institutionnelle métropolitaine n°254648 ; vase antique du Peintre de Pénélope, F 2588, Tarquinia, vers 440 av. J.-C., Antikensammlung Berlin ; objets historiques et reproductions non générés par IA. Les légendes identifient la relation illustrative aux textes sans confondre image et fait historique.",
+    "binary_assets_checked": [
       {
-        "id": "icono-iliade-athena-diomede-met-254648-20261104",
-        "section": "diomede",
-        "asset": "/assets/illustrations-articles/met-254648-athena-chouette-bronze.webp",
-        "source": "Metropolitan Museum of Art 50.11.1, vers 460 av. J.-C., bronze grec, photo CC0 Open Access, artefact authentique non IA"
+        "path": "assets/illustrations-articles/met-254648-athena-chouette-bronze.webp",
+        "sha_git": "0f1033387ee3e44fed443113cc401e9979ec8c30",
+        "magic": "RIFF/WEBP",
+        "available_on_main": true
       },
       {
-        "id": "icono-odyssee-pretendants-skyphos-tarquinia-20261104",
-        "section": "chant-22",
-        "asset": "/assets/philosophie/documents/odyssee-03.jpg",
-        "source": "Skyphos attique Peintre de Pénélope, Tarquinia, vers 440 av. J.-C., Berlin F 2588 ; gravure/reproduction Furtwängler 1924, CC0 Commons ; non IA"
+        "path": "assets/philosophie/documents/odyssee-03.jpg",
+        "sha_git": "cafbdbe292334e747b79f7da208bf6445e8fd7d9",
+        "magic": "JPEG ff d8 ff",
+        "available_on_main": true
       }
     ],
-    "precommit_checks": {
-      "main": "2ebbde266383e609438d7dfb07668e8665bf903d",
-      "readers": {
-        "iliad": {
-          "ids": 60,
-          "anchors": 35,
-          "imgs": 10,
-          "dupeId": [],
-          "broken": [],
-          "dupeImage": []
-        },
-        "odyssey": {
-          "ids": 59,
-          "anchors": 31,
-          "imgs": 11,
-          "dupeId": [],
-          "broken": [],
-          "dupeImage": []
-        }
-      },
-      "resources": "Deux médias locaux déjà versionnés sur main ; notices officielles et droits relus ; 4479 entrées dans l'arbre GitHub sans troncature ; CSS/JS et renvois locaux contrôlés sans anomalie.",
-      "after_in_memory": {
-        "iliad": {
-          "ids": 61,
-          "anchors": 35,
-          "imgs": 11,
-          "dupeId": [],
-          "broken": [],
-          "dupeImage": []
-        },
-        "odyssey": {
-          "ids": 60,
-          "anchors": 31,
-          "imgs": 12,
-          "dupeId": [],
-          "broken": [],
-          "dupeImage": []
-        }
-      }
-    },
-    "pagination": "Les monographies philosophiques A4 ne sont pas modifiées ; les rapports précédents indiquent au moins dix pages, sans nouveau recalcul.",
-    "preservation": "Textes, titres, ancres, numérotation, liens, navigation, registres, files editoriales, autres horaires et workflows préservés. Les figures sont insérées sans réécriture des paragraphes.",
-    "postcommit_plan": "Relire les fichiers sur le commit et main ; exécuter les tests et contrôler le déploiement HTTPS avant d'affirmer la publication.",
-    "obstacles": "Le dernier workflow de validation observé échoue sur l'attribut alt d'une carte Énéide d'accueil, sans rapport avec les deux figures ; non corrigé pendant cette séance iconographique.",
-    "commits": [],
-    "publication_status": "Non encore vérifiée après commit ; aucun déploiement revendiqué."
+    "a4_manifest": "catalog/reading-pdfs.json, édition du 4 novembre 2026, signale 122 pages pour l'Iliade (107 d'analyse), 116 pour l'Odyssée (101 d'analyse) et 117 pour la Théogonie (103 d'analyse) ; fichiers PDF non recalculés ni rendus visuellement lors de l'audit.",
+    "public_observation": "Contrôle HTTPS du 4 novembre 2026 : /catalog/publication-verification.json indique source_commit 68f6851073554c2fe66ef143838610ba6961404b, github_run_id 41884447199, 1371 documents ; les pages publiques Iliade et Odyssée ne contiennent pas encore les deux nouveaux identifiants de figures. Le déploiement du lot ed63... et des correctifs de cette séance n'est pas confirmé.",
+    "limitations": "Audit ciblé de sept pages sur main et réception publique de deux pages ; pas de vérification exhaustive des liens entre les milliers de pages, ni validation responsive sur matériel, ni exécution locale de la suite Python, ni mesure de disponibilité de tous les liens externes.",
+    "preservation": "Les textes, pages, images, menus, numérotations, registres d'attribution, workflows et fréquences des automatisations ne sont pas modifiés. Aucune création de chapitre numéroté ; AGENTS.md et docs/PUBLICATION_CONCURRENTE.md relus.",
+    "commits": [
+      "f16def3399177aa583dd03bd3071a375bdf68607",
+      "e4c0e5f5d8cfa9c452481917cf7a63624dbeeb29"
+    ],
+    "publication_status": "Correctifs committés sur main et relus ; publication publique et CI post-correctif non confirmées."
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
   "history": [
@@ -1715,6 +1695,59 @@
       "obstacles": "Le dernier workflow de validation observé échoue sur l'attribut alt d'une carte Énéide d'accueil, sans rapport avec les deux figures ; non corrigé pendant cette séance iconographique.",
       "commits": [],
       "publication_status": "Non encore vérifiée après commit ; aucun déploiement revendiqué."
+    },
+    {
+      "date": "2026-11-04",
+      "kind": "AUDIT ET CORRECTION",
+      "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "scope": "Audit post-iconographique des sept pages d'accueil, de lecture et de philosophie, puis sécurisation du contrôle de déploiement HTTPS des deux nouvelles figures antiques : Athéna de l'Iliade V et skyphos des prétendants de l'Odyssée XXII.",
+      "basis_commit": "ed63debc461bbd9553328d65cac95b38ce06b990",
+      "audited_pages": [
+        "index.html",
+        "livre-iliade-scenes/index.html",
+        "livre-odyssee/index.html",
+        "livre-hesiode/index.html",
+        "philosophie-iliade.html",
+        "philosophie-odyssee.html",
+        "philosophie-theogonie.html"
+      ],
+      "checked_html_pages": 7,
+      "html_ids_checked": 519,
+      "internal_anchors_checked": 435,
+      "img_elements_checked": 133,
+      "stylesheet_elements_seen": 34,
+      "script_elements_seen": 17,
+      "duplicate_html_ids_found": 0,
+      "broken_same_page_anchors_found": 0,
+      "img_without_alt_found": 0,
+      "verified_gap": "La suite de tests de provenance surveillait les deux nouvelles figures dans leurs fichiers HTML, mais le vérificateur HTTPS scripts/verify_live_site.py ne les recensait pas parmi les RECENT_FIGURES : une version antérieure des pages ou des octets de médias pouvait donc échapper à ce contrôle ciblé.",
+      "correction": "Ajout des deux couples (page, identifiant, média) à RECENT_FIGURES, de 20 à 22 notices sur les six pages du corpus et de 19 à 20 ressources documentaires uniques. La vérification existante impose désormais leurs légendes, alt, provenance, statuts, hash SHA-256 identique et signatures JPEG/WebP.",
+      "tests": "Mise à jour des comptes de régression dans tests/test_verify_live_site_assets.py et nouveau test simulant la disparition de la figure d'Athéna sur le HTML public et la modification des octets JPEG du skyphos. Contrôles statiques du code et relecture des fichiers après commit ; suite complète Python/CI non exécutée localement, état Actions à vérifier.",
+      "scientific_verification": "Metropolitan Museum of Art 50.11.1 (ca 460 av. J.-C. ; bronze, Athéna et chouette), notice institutionnelle métropolitaine n°254648 ; vase antique du Peintre de Pénélope, F 2588, Tarquinia, vers 440 av. J.-C., Antikensammlung Berlin ; objets historiques et reproductions non générés par IA. Les légendes identifient la relation illustrative aux textes sans confondre image et fait historique.",
+      "binary_assets_checked": [
+        {
+          "path": "assets/illustrations-articles/met-254648-athena-chouette-bronze.webp",
+          "sha_git": "0f1033387ee3e44fed443113cc401e9979ec8c30",
+          "magic": "RIFF/WEBP",
+          "available_on_main": true
+        },
+        {
+          "path": "assets/philosophie/documents/odyssee-03.jpg",
+          "sha_git": "cafbdbe292334e747b79f7da208bf6445e8fd7d9",
+          "magic": "JPEG ff d8 ff",
+          "available_on_main": true
+        }
+      ],
+      "a4_manifest": "catalog/reading-pdfs.json, édition du 4 novembre 2026, signale 122 pages pour l'Iliade (107 d'analyse), 116 pour l'Odyssée (101 d'analyse) et 117 pour la Théogonie (103 d'analyse) ; fichiers PDF non recalculés ni rendus visuellement lors de l'audit.",
+      "public_observation": "Contrôle HTTPS du 4 novembre 2026 : /catalog/publication-verification.json indique source_commit 68f6851073554c2fe66ef143838610ba6961404b, github_run_id 41884447199, 1371 documents ; les pages publiques Iliade et Odyssée ne contiennent pas encore les deux nouveaux identifiants de figures. Le déploiement du lot ed63... et des correctifs de cette séance n'est pas confirmé.",
+      "limitations": "Audit ciblé de sept pages sur main et réception publique de deux pages ; pas de vérification exhaustive des liens entre les milliers de pages, ni validation responsive sur matériel, ni exécution locale de la suite Python, ni mesure de disponibilité de tous les liens externes.",
+      "preservation": "Les textes, pages, images, menus, numérotations, registres d'attribution, workflows et fréquences des automatisations ne sont pas modifiés. Aucune création de chapitre numéroté ; AGENTS.md et docs/PUBLICATION_CONCURRENTE.md relus.",
+      "commits": [
+        "f16def3399177aa583dd03bd3071a375bdf68607",
+        "e4c0e5f5d8cfa9c452481917cf7a63624dbeeb29"
+      ],
+      "publication_status": "Correctifs committés sur main et relus ; publication publique et CI post-correctif non confirmées."
     }
   ]
 }
