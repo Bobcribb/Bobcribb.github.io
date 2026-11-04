@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description" width="1320" height="710" viewBox="0 0 1320 710">
+<title id="title">Hécate : les parts préservées sous le règne de Zeus</title>
+<desc id="description">Diagramme analytique non archéologique de la Théogonie d’Hésiode, vers 411 à 452. Hécate conserve ses parts dans la terre, la mer et le ciel ; Zeus confirme ses honneurs. Le texte décrit également son aide dans plusieurs activités humaines. Il ne s’agit pas d’une représentation antique ou d’une déesse à trois visages.</desc>
+<rect width="1320" height="710" fill="#10191c"/>
+<rect x="16" y="16" width="1288" height="678" rx="9" fill="none" stroke="#92754c" stroke-width="2"/>
+<text x="58" y="74" font-family="Georgia,serif" font-size="41" fill="#f1d9ad">Hécate : des parts anciennes maintenues</text>
+<text x="59" y="116" font-family="Arial,sans-serif" font-size="22" fill="#d5c6ad">Hésiode, Théogonie 411–452 · honneurs et partage de la puissance</text>
+<line x1="60" y1="139" x2="1260" y2="139" stroke="#8b6d47" stroke-width="2"/>
+<rect x="510" y="159" width="300" height="72" rx="36" fill="#2a3230" stroke="#e2bb7e" stroke-width="2"/>
+<text x="660" y="203" text-anchor="middle" font-family="Georgia,serif" font-size="35" fill="#f7dfad">HÉCATE</text>
+<path d="M660 231V257M230 257H1090M230 257V289M660 257V289M1090 257V289" fill="none" stroke="#b79a6f" stroke-width="3"/>
+<circle cx="230" cy="378" r="85" fill="#1a282d" stroke="#c6b987" stroke-width="4"/>
+<text x="230" y="367" text-anchor="middle" font-family="Georgia,serif" font-size="31" fill="#c6b987">TERRE</text>
+<text x="230" y="406" text-anchor="middle" font-family="Arial,sans-serif" font-size="19" fill="#f0e7d8">411–425</text>
+<text x="230" y="489" text-anchor="middle" font-family="Georgia,serif" font-size="24" fill="#efd8b1">Part honorifique</text>
+<text x="230" y="518" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" fill="#dfd5c5">dans le monde terrestre</text>
+<circle cx="660" cy="378" r="85" fill="#1a282d" stroke="#a9c8c9" stroke-width="4"/>
+<text x="660" y="367" text-anchor="middle" font-family="Georgia,serif" font-size="31" fill="#a9c8c9">MER</text>
+<text x="660" y="406" text-anchor="middle" font-family="Arial,sans-serif" font-size="19" fill="#f0e7d8">411–425</text>
+<text x="660" y="489" text-anchor="middle" font-family="Georgia,serif" font-size="24" fill="#efd8b1">Part honorifique</text>
+<text x="660" y="518" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" fill="#dfd5c5">dans l’espace marin</text>
+<circle cx="1090" cy="378" r="85" fill="#1a282d" stroke="#b4afd9" stroke-width="4"/>
+<text x="1090" y="367" text-anchor="middle" font-family="Georgia,serif" font-size="31" fill="#b4afd9">CIEL</text>
+<text x="1090" y="406" text-anchor="middle" font-family="Arial,sans-serif" font-size="19" fill="#f0e7d8">411–425</text>
+<text x="1090" y="489" text-anchor="middle" font-family="Georgia,serif" font-size="24" fill="#efd8b1">Part honorifique</text>
+<text x="1090" y="518" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" fill="#dfd5c5">dans le ciel étoilé</text>
+<rect x="125" y="556" width="1070" height="68" rx="9" fill="#25322e" stroke="#917a50"/>
+<text x="660" y="584" text-anchor="middle" font-family="Georgia,serif" font-size="24" fill="#efdbb9">Zeus ne la dépouille pas : il reconnaît et confirme ces prérogatives.</text>
+<text x="660" y="612" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" fill="#d9d3c3">Son aide s’étend aussi aux assemblées, compétitions, navigateurs et troupeaux (v. 429–452).</text>
+<text x="660" y="676" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" fill="#bcb0a1">MYTHOS · diagramme de relations 2D assisté par IA · 4 novembre 2026 · aucune image antique reproduite</text>
+</svg>
