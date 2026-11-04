@@ -73,82 +73,14 @@
     "preservation": "Figures ajoutées à la suite des titres de lectures, texte universitaire initial inchangé ; aucun numéro, registre, sommaire, navigation, workflow, planification ou média existant modifié. AGENTS.md et docs/PUBLICATION_CONCURRENTE.md relus.",
     "publication_status": "Intégration GitHub en cours de vérification ; la publication HTTPS du nouveau lot n'est pas confirmée.",
     "limitations": "Tests structuraux des trois pages exécutés avant commit ; pas de suite complète Python ni de validation responsive sur matériel, et contrôle HTTPS bobmythos.fr indisponible par navigateur web pendant cette séance.",
-    "commits": []
+    "commits": [
+      "93ad123fc79154d66ef73a0c770d17f7dc929117"
+    ],
+    "ci_observation": "Premier run GitHub Actions 41901357133 : 206 tests dont tests des 3 figures et garde JPEG/WebP OK, 2 échecs vérifiés : ordre inversé du journal par insertion en tête (corrigé ici), et attribut alt vide sur la vignette patrimoniale de l’Énéide à l’accueil (corrigé ici). Revalidation du nouveau commit à contrôler.",
+    "accessibility_correction": "Vignette de la carte Énéide de l’accueil : description alt spécifique de la Troie archéologique, distincte du récit virgilien, rétablie sans modifier ni le lien ni le visuel."
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
   "history": [
-    {
-      "date": "2026-11-04",
-      "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-      "previous_kind": "AUDIT ET CORRECTION",
-      "next_kind": "AUDIT ET CORRECTION",
-      "scope": "Trois figures patrimoniales authentiques intégrées dans les monographies philosophiques : Athéna et Diomède (Iliade V), Pénélope et reconnaissance (Odyssée XIX), Aphrodite (Théogonie 188–206). Aucun média binaire dupliqué.",
-      "basis_commit": "487620135d735401a5fcddd657b4970e46abbae4",
-      "modified_pages": [
-        "philosophie-iliade.html",
-        "philosophie-odyssee.html",
-        "philosophie-theogonie.html"
-      ],
-      "figures_added": [
-        {
-          "page": "philosophie-iliade.html",
-          "section": "iliade-long-a07",
-          "id": "icono-iliade-athena-diomede-bronze-philosophie-20261104",
-          "src": "/assets/illustrations-articles/met-254648-athena-chouette-bronze.webp"
-        },
-        {
-          "page": "philosophie-odyssee.html",
-          "section": "odyssee-long-b08",
-          "id": "icono-odyssee-penelope-telemaque-chiusi-philosophie-20261104",
-          "src": "/media/2026/10/penelope-telemaque-metier-coupe-chiusi-1831.jpg"
-        },
-        {
-          "page": "philosophie-theogonie.html",
-          "section": "theogonie-long-a08",
-          "id": "icono-theogonie-aphrodite-anadyomene-philosophie-20261104",
-          "src": "/assets/illustrations-articles/met-253504-aphrodite-bronze.webp"
-        }
-      ],
-      "assets_reused": [
-        "/assets/illustrations-articles/met-254648-athena-chouette-bronze.webp",
-        "/media/2026/10/penelope-telemaque-metier-coupe-chiusi-1831.jpg",
-        "/assets/illustrations-articles/met-253504-aphrodite-bronze.webp"
-      ],
-      "images_added": 3,
-      "new_binary_assets": 0,
-      "image_counts_before": {
-        "philosophie-iliade.html": 26,
-        "philosophie-odyssee.html": 25,
-        "philosophie-theogonie.html": 25
-      },
-      "image_counts_after": {
-        "philosophie-iliade.html": 27,
-        "philosophie-odyssee.html": 26,
-        "philosophie-theogonie.html": 26
-      },
-      "precommit_checks": {
-        "pages": 3,
-        "html_ids_checked": 339,
-        "same_page_anchors_checked": 335,
-        "img_elements_checked": 79,
-        "duplicate_ids": 0,
-        "broken_anchors": 0,
-        "images_without_alt": 0,
-        "missing_css_or_js": 0,
-        "missing_local_media": 0
-      },
-      "scientific_sources": [
-        "Metropolitan Museum of Art 50.11.1, Athéna, bronze vers 460 av. J.-C. ; Iliade V, 121–133.",
-        "Peintre de Pénélope, skyphos vers 440 av. J.-C., musée de Chiusi inv. 1831 ; cliché ArchaiOptix 2016 CC BY-SA 4.0 ; Odyssée XIX.",
-        "Metropolitan Museum of Art 35.122, Aphrodite Anadyomène, fin IIe ou Ier siècle av. J.-C. ; Théogonie 188–206."
-      ],
-      "verification": "Le garde HTTPS scripts/verify_live_site.py recense désormais 25 associations figure/page sur six pages, portant sur 20 fichiers uniques ; tests/test_verify_live_site_assets.py adapte ses compteurs et ajoute la détection de pages périmées et fichiers JPEG/WebP altérés.",
-      "a4_manifest": "catalog/reading-pdfs.json sur main signale les études Iliade 122 pages, Odyssée 116, Théogonie 117 ; pas de nouvelle impression ou vérification visuelle des PDF.",
-      "preservation": "Figures ajoutées à la suite des titres de lectures, texte universitaire initial inchangé ; aucun numéro, registre, sommaire, navigation, workflow, planification ou média existant modifié. AGENTS.md et docs/PUBLICATION_CONCURRENTE.md relus.",
-      "publication_status": "Intégration GitHub en cours de vérification ; la publication HTTPS du nouveau lot n'est pas confirmée.",
-      "limitations": "Tests structuraux des trois pages exécutés avant commit ; pas de suite complète Python ni de validation responsive sur matériel, et contrôle HTTPS bobmythos.fr indisponible par navigateur web pendant cette séance.",
-      "commits": []
-    },
     {
       "date": "2026-11-04",
       "kind": "AUDIT ET CORRECTION",
@@ -1839,6 +1771,82 @@
         "e4c0e5f5d8cfa9c452481917cf7a63624dbeeb29"
       ],
       "publication_status": "Correctifs committés sur main et relus ; publication publique et CI post-correctif non confirmées."
+    },
+    {
+      "date": "2026-11-04",
+      "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "previous_kind": "AUDIT ET CORRECTION",
+      "next_kind": "AUDIT ET CORRECTION",
+      "scope": "Trois figures patrimoniales authentiques intégrées dans les monographies philosophiques : Athéna et Diomède (Iliade V), Pénélope et reconnaissance (Odyssée XIX), Aphrodite (Théogonie 188–206). Aucun média binaire dupliqué.",
+      "basis_commit": "487620135d735401a5fcddd657b4970e46abbae4",
+      "modified_pages": [
+        "philosophie-iliade.html",
+        "philosophie-odyssee.html",
+        "philosophie-theogonie.html"
+      ],
+      "figures_added": [
+        {
+          "page": "philosophie-iliade.html",
+          "section": "iliade-long-a07",
+          "id": "icono-iliade-athena-diomede-bronze-philosophie-20261104",
+          "src": "/assets/illustrations-articles/met-254648-athena-chouette-bronze.webp"
+        },
+        {
+          "page": "philosophie-odyssee.html",
+          "section": "odyssee-long-b08",
+          "id": "icono-odyssee-penelope-telemaque-chiusi-philosophie-20261104",
+          "src": "/media/2026/10/penelope-telemaque-metier-coupe-chiusi-1831.jpg"
+        },
+        {
+          "page": "philosophie-theogonie.html",
+          "section": "theogonie-long-a08",
+          "id": "icono-theogonie-aphrodite-anadyomene-philosophie-20261104",
+          "src": "/assets/illustrations-articles/met-253504-aphrodite-bronze.webp"
+        }
+      ],
+      "assets_reused": [
+        "/assets/illustrations-articles/met-254648-athena-chouette-bronze.webp",
+        "/media/2026/10/penelope-telemaque-metier-coupe-chiusi-1831.jpg",
+        "/assets/illustrations-articles/met-253504-aphrodite-bronze.webp"
+      ],
+      "images_added": 3,
+      "new_binary_assets": 0,
+      "image_counts_before": {
+        "philosophie-iliade.html": 26,
+        "philosophie-odyssee.html": 25,
+        "philosophie-theogonie.html": 25
+      },
+      "image_counts_after": {
+        "philosophie-iliade.html": 27,
+        "philosophie-odyssee.html": 26,
+        "philosophie-theogonie.html": 26
+      },
+      "precommit_checks": {
+        "pages": 3,
+        "html_ids_checked": 339,
+        "same_page_anchors_checked": 335,
+        "img_elements_checked": 79,
+        "duplicate_ids": 0,
+        "broken_anchors": 0,
+        "images_without_alt": 0,
+        "missing_css_or_js": 0,
+        "missing_local_media": 0
+      },
+      "scientific_sources": [
+        "Metropolitan Museum of Art 50.11.1, Athéna, bronze vers 460 av. J.-C. ; Iliade V, 121–133.",
+        "Peintre de Pénélope, skyphos vers 440 av. J.-C., musée de Chiusi inv. 1831 ; cliché ArchaiOptix 2016 CC BY-SA 4.0 ; Odyssée XIX.",
+        "Metropolitan Museum of Art 35.122, Aphrodite Anadyomène, fin IIe ou Ier siècle av. J.-C. ; Théogonie 188–206."
+      ],
+      "verification": "Le garde HTTPS scripts/verify_live_site.py recense désormais 25 associations figure/page sur six pages, portant sur 20 fichiers uniques ; tests/test_verify_live_site_assets.py adapte ses compteurs et ajoute la détection de pages périmées et fichiers JPEG/WebP altérés.",
+      "a4_manifest": "catalog/reading-pdfs.json sur main signale les études Iliade 122 pages, Odyssée 116, Théogonie 117 ; pas de nouvelle impression ou vérification visuelle des PDF.",
+      "preservation": "Figures ajoutées à la suite des titres de lectures, texte universitaire initial inchangé ; aucun numéro, registre, sommaire, navigation, workflow, planification ou média existant modifié. AGENTS.md et docs/PUBLICATION_CONCURRENTE.md relus.",
+      "publication_status": "Intégration GitHub en cours de vérification ; la publication HTTPS du nouveau lot n'est pas confirmée.",
+      "limitations": "Tests structuraux des trois pages exécutés avant commit ; pas de suite complète Python ni de validation responsive sur matériel, et contrôle HTTPS bobmythos.fr indisponible par navigateur web pendant cette séance.",
+      "commits": [
+        "93ad123fc79154d66ef73a0c770d17f7dc929117"
+      ],
+      "ci_observation": "Premier run GitHub Actions 41901357133 : 206 tests dont tests des 3 figures et garde JPEG/WebP OK, 2 échecs vérifiés : ordre inversé du journal par insertion en tête (corrigé ici), et attribut alt vide sur la vignette patrimoniale de l’Énéide à l’accueil (corrigé ici). Revalidation du nouveau commit à contrôler.",
+      "accessibility_correction": "Vignette de la carte Énéide de l’accueil : description alt spécifique de la Troie archéologique, distincte du récit virgilien, rétablie sans modifier ni le lien ni le visuel."
     }
   ]
 }
