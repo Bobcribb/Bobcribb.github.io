@@ -1,0 +1,79 @@
+name: MYTHOS — importer temple de Zeus d'Olympie 3D
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/import-mythos-olympie-zeus-20261104.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: mythos-zeus-olympie-binary-20261104
+  cancel-in-progress: false
+jobs:
+  import:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 12
+    steps:
+      - name: Récupérer main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          persist-credentials: true
+      - name: Préparer Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Installer Pillow pour WebP
+        run: python -m pip install --disable-pip-version-check 'Pillow==12.3.0'
+      - name: Vérifier la source originale et fabriquer le vrai WebP
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          from io import BytesIO
+          from PIL import Image
+          from urllib.request import Request, urlopen
+          import hashlib
+          source_url = "https://mythos-grec.floot.app/_cdn/static/9ae0f3b8-eace-4b13-8f18-55a7e0648915-olympie-zeus-temple-dorique-vers-450-av-jc-source.png"
+          original_sha = "d2bb3287b389bb371a9902314e5e392db0c5beb1a246dcc29936c076729a9dd2"
+          target_sha = "300e5c83458806d34baeaeb05b5762ab4536eaaa9d6f7f8c4f4ea5b38371f32b"
+          target = Path("assets/reconstitutions-3d/olympie-zeus-temple-dorique-vers-450-av-jc.webp")
+          if target.exists():
+              if hashlib.sha256(target.read_bytes()).hexdigest() == target_sha:
+                  print("Image exacte déjà présente ; aucun doublon ni écrasement.", flush=True)
+                  raise SystemExit(0)
+              raise RuntimeError("Refus d'écraser un WebP existant différent.")
+          with urlopen(Request(source_url, headers={"User-Agent":"MYTHOS-archaeology-import/1.0"}),timeout=45) as response:
+              content=response.read()
+          digest=hashlib.sha256(content).hexdigest()
+          if digest != original_sha:
+              raise RuntimeError(f"Source PNG différente de l'original prévu : {digest}")
+          with Image.open(BytesIO(content)) as image:
+              if image.format!="PNG" or image.size != (1774,887):
+                  raise RuntimeError(f"Dimensions ou format inattendus : {image.format} {image.size}")
+              target.parent.mkdir(parents=True,exist_ok=True)
+              image.convert("RGB").save(target,format="WEBP",quality=90,method=6)
+          with Image.open(target) as image:
+              if image.format != "WEBP" or image.size != (1774,887):
+                  raise RuntimeError("Échec de la conversion WebP.")
+          digest=hashlib.sha256(target.read_bytes()).hexdigest()
+          print(f"WebP valide: {target} ; taille {target.stat().st_size} octets ; SHA256 {digest}",flush=True)
+          if digest != target_sha:
+              raise RuntimeError("WebP produit avec une empreinte différente : publication annulée.")
+          PY
+      - name: Inscrire uniquement le fichier binaire dans main
+        run: |
+          git config user.name "MYTHOS media import"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- assets/reconstitutions-3d/olympie-zeus-temple-dorique-vers-450-av-jc.webp
+          if git diff --cached --quiet; then
+            echo "Déjà présent, aucune modification."
+            exit 0
+          fi
+          git commit -m "MYTHOS: publier image WebP photoréaliste temple de Zeus Olympie"
+          for attempt in 1 2 3 4; do
+            git pull --rebase origin main && git push origin HEAD:main && exit 0
+            sleep 5
+          done
+          echo "ÉCHEC du transfert binaire GitHub ; image non publiée."
+          exit 1
