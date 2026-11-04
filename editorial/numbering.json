@@ -658,6 +658,12 @@
           "path": "chapitres/encyclopedie/chapitre-400-enyo-guerre-destructrice-ares-enyalios-tragedie.md",
           "request_sha256": "0c0538d6815ca42a7a074e0b2210e43174d61fac3606bc2a58cebb83bb938ec1",
           "initial_source_sha256": "190610fea8ebdf0aa77059600d57806f799d9e33ab4dae1ed5436e947c16903b"
+        },
+        "75a6f91b-3c4d-4fba-b2ec-2b68e1f17042": {
+          "number": 401,
+          "path": "chapitres/encyclopedie/chapitre-401-tritopatores-ancetres-athenes-kerameikos-selinonte-rites-purification.md",
+          "request_sha256": "033badfd23ee1bfa6c554a4e983681524554b75ef5234d06a37e365310dd6fd2",
+          "initial_source_sha256": "629974c062c0bf45a77f4d34b2641f37448097c2c5eb8fd785f170b12628e48b"
         }
       }
     },
@@ -1609,6 +1615,18 @@
           "path": "chapitres/comparatif/volume-ccxxi-mc-040-nourrir-les-dieux-tables-offrandes-partage-sacrificiel-economie-du-sacre.md",
           "request_sha256": "e7af3ddc0aeeff51fad6ccf5788bfeba8d4ec3e6d0babbcaae25fd39a061b072",
           "initial_source_sha256": "93763c57c48d9ddd2a6f0ea5f99295b523ef2eb05d77970d04c6c2c9b4371079"
+        },
+        "07de365e-12cd-4a33-b26e-d44d8c0f0044": {
+          "number": 222,
+          "path": "chapitres/comparatif/volume-ccxxii-mc-045-frontieres-sacrees-kudurru-amarna-horos-egine-terminus-terres-dieux.md",
+          "request_sha256": "9024d1c4abbfc54e2f4cb4c082d9f6b8c5d555202dedfb0b363e1d716257d4ca",
+          "initial_source_sha256": "df3c413e60efd210be70ab847b8f16b300df55ba75e4c67d49ed262a7ae65608"
+        },
+        "39c70b9a-a502-4ae6-9f04-284cd9fbe044": {
+          "number": 223,
+          "path": "chapitres/comparatif/volume-ccxxiii-mc-044-enfants-exposes-rois-sauves-fleuves-oracles-adoption-legitimite-sargon-moise-cyrus-persee-oedipe.md",
+          "request_sha256": "75ae36f8225689c4cbe150ee05adbc267a3fc58f60ae184595e6bf7b36eb7452",
+          "initial_source_sha256": "ed6bb64db5700728edd544a28bf769e0f7da99f19e8371c6a397eb0c87bff49e"
         }
       }
     }

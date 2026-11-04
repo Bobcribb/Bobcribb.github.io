@@ -588,6 +588,12 @@
         "url": "/chapitres/encyclopedie/chapitre-400-enyo-guerre-destructrice-ares-enyalios-tragedie/",
         "title": "Chapitre 400 — Chapitre 400 — Ényô (Ἐνυώ) : la guerre destructrice et les limites de l'héroïsme",
         "source": "chapitres/encyclopedie/chapitre-400-enyo-guerre-destructrice-ares-enyalios-tragedie.md"
+      },
+      {
+        "number": 401,
+        "url": "/chapitres/encyclopedie/chapitre-401-tritopatores-ancetres-athenes-kerameikos-selinonte-rites-purification/",
+        "title": "Chapitre 401 — Chapitre 401 — Les Tritopatores : ancêtres divins, vents, naissance et purification, d'Athènes à Sélinonte",
+        "source": "chapitres/encyclopedie/chapitre-401-tritopatores-ancetres-athenes-kerameikos-selinonte-rites-purification.md"
       }
     ],
     "tragedies": [
@@ -2371,6 +2377,18 @@
         "url": "/chapitres/comparatif/volume-ccxxi-mc-040-nourrir-les-dieux-tables-offrandes-partage-sacrificiel-economie-du-sacre/",
         "title": "Volume CCXXI (221) — MC-040 — Nourrir les dieux : tables d’offrandes, partage sacrificiel, alimentation rituelle et économie du sacré, de Sumer à l’Égypte, de la Grèce à l’Inde et à Israël",
         "source": "chapitres/comparatif/volume-ccxxi-mc-040-nourrir-les-dieux-tables-offrandes-partage-sacrificiel-economie-du-sacre.md"
+      },
+      {
+        "number": 222,
+        "url": "/chapitres/comparatif/volume-ccxxii-mc-045-frontieres-sacrees-kudurru-amarna-horos-egine-terminus-terres-dieux/",
+        "title": "Volume CCXXII (222) — MC-045 — À qui appartient la terre des dieux ? Kudurrus babyloniens, stèles d'Akhetaton, horoi grecs, héritages bibliques et Terminus romain : frontière, droit, mémoire et souveraineté",
+        "source": "chapitres/comparatif/volume-ccxxii-mc-045-frontieres-sacrees-kudurru-amarna-horos-egine-terminus-terres-dieux.md"
+      },
+      {
+        "number": 223,
+        "url": "/chapitres/comparatif/volume-ccxxiii-mc-044-enfants-exposes-rois-sauves-fleuves-oracles-adoption-legitimite-sargon-moise-cyrus-persee-oedipe/",
+        "title": "Volume CCXXIII (223) — MC-044 — Enfants exposés, rois sauvés : fleuves, oracles, adoption et légitimité de Sargon à Moïse, Cyrus, Persée, Œdipe, Romulus, Karṇa et Kṛṣṇa",
+        "source": "chapitres/comparatif/volume-ccxxiii-mc-044-enfants-exposes-rois-sauves-fleuves-oracles-adoption-legitimite-sargon-moise-cyrus-persee-oedipe.md"
       }
     ],
     "comedies": [

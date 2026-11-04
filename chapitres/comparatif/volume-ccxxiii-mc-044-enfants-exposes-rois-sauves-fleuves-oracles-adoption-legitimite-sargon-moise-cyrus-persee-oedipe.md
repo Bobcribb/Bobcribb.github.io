@@ -1,0 +1,453 @@
+# MYTHOS — Cycle universitaire de mythologie comparée — Volume CCXXIII (223)
+
+## MC-044 — Enfants exposés, rois sauvés : fleuves, oracles, adoption et légitimité de Sargon à Moïse, Cyrus, Persée, Œdipe, Romulus, Karṇa et Kṛṣṇa
+
+**Monographie universitaire originale — 4 novembre 2026.**  
+**Collection :** MYTHOS — mythologie comparée, histoire des religions, histoire politique de l'Antiquité, épopées, philologie et philosophie de la filiation.  
+**Identifiant historique autonome :** MC-044. Le numéro romain CCXXIII et le numéro décimal 223 ne sont pas attribués dans ce manuscrit ; ils relèvent exclusivement de la transaction GitHub Actions.  
+**Statut documentaire :** manuscrit intégral destiné à la file publique éditoriale. Un fichier en file ne démontre ni attribution canonique ni déploiement sur bobmythos.fr.
+
+**Contrôle de continuité, effectué sur la branche main avant soumission.** Le volume MC-024 « Amon, Rê et Aton » est publié dans un manuscrit canonique CLXXXI (181). Les dossiers MC-025 à MC-038 ont plusieurs formes et certains numéros canoniques peuvent être non séquentiels en raison des publications concurrentes ; leurs références historiques sont contrôlées séparément. MC-039, MC-040, MC-041 et MC-042 sont présents sous formes de soumissions ou de dossiers existants. La première demande MC-042, « Mesurer le sacré », est antérieure à une deuxième demande portant initialement le même identifiant mais consacrée aux scribes divins ; cette seconde demande a été placée en attente sans suppression. MC-043 « Le lait des dieux » a été déposé sous l'UUID 8e36dc73-ec67-4a9d-b9c1-934f52a406e3 et corrigé au commit 8223b23705fc977097b5bc503b836689a14ceb24 ; aucun reçu canonique pour ce dossier ne figurait dans le registre transactionnel consulté. Aucune occurrence de MC-044 n'apparaissait dans les recherches de code ni de commits. **Ce manuscrit ne réemploie pas MC-043** : l'objet est l'**exposition délibérée ou forcée d'un enfant**, le dispositif de sauvetage et la construction de légitimité dans les récits de fondation.
+
+### Résumé universitaire
+
+Un enfant promis à la mort survit parce qu'il est placé dans un panier étanchéifié, confié à un fleuve, abandonné sur une montagne, protégé par une mère qui dissimule sa naissance, recueilli par un berger, adopté par une famille qui ignore son origine ou transféré secrètement vers une autre maison. Quelques survivants deviennent fondateurs de royaumes, héros, chefs religieux ou protagonistes de tragédies. Les ressemblances entre **Sargon d'Akkad**, **Moïse**, **Cyrus**, **Persée**, **Œdipe**, **Romulus et Rémus**, **Karṇa** et **Kṛṣṇa** sont remarquables, mais leurs structures politiques et morales ne sont pas uniformes : l'abandon de Sargon est une autobiographie royale fictive conservée dans des copies tardives ; Moïse est sauvé d'un décret collectif de destruction ; Cyrus échappe à l'ordre d'un roi effrayé par une prédiction ; Persée est jeté à la mer *avec sa mère* ; Œdipe est sauvé mais la reconnaissance mène au désastre ; la louve romaine fonde une mémorisation civique ; Karṇa grandit dans un autre foyer puis subit le poids social de sa naissance secrète ; Kṛṣṇa, déjà divin dans les traditions dévotionnelles, doit être soustrait au tyran Kaṃsa par une substitution d'enfants.
+
+**Thèse comparative [I].** Ces récits réfléchissent aux conditions de reconnaissance et de dissimulation de la filiation, à l'asymétrie entre la vulnérabilité d'un nourrisson et sa puissance ultérieure, et aux médiations sociales nécessaires à l'autorité. **Limite [H].** L'analogie structurelle n'établit ni que les personnages ont tous réellement vécu ces événements, ni qu'une tradition aurait été copiée directement d'une autre. La date du personnage ne saurait être substituée à la date de son témoin littéraire.
+
+### Méthode et légende des certitudes
+
+**[A]** énoncé attesté dans un passage ou un objet précisément localisé ; **[É]** examen de langue, genre, chronologie, édition et conservation ; **[I]** déduction historiographique argumentée mais non explicitement formulée par le document ; **[H]** hypothèse à tester, notamment relation de transmission ; **[P]** lecture philosophique actuelle, jamais faussement attribuée à un auteur antique. Toute citation courte est reformulée si elle provient d'une traduction moderne protégée ; les sources originales sont indiquées par livre, chapitre, ligne, tablette ou inventaire.
+
+Il faut distinguer **l'histoire documentable d'un souverain** et **le récit de son enfance**, qui peut être compilé ou mis en forme des siècles plus tard. Pour l'Antiquité, « exposer » n'est pas un synonyme automatique d'infanticide consommé, mais l'acte expose effectivement le nourrisson au danger ; une intention de sauver secrètement peut coexister avec le risque objectif de mort. « Abandon » est une catégorie comparative, non la qualification juridique identique de toutes les sociétés étudiées.
+
+## I. Construire des comparables sans fabriquer un archétype
+### 1. Huit récits, et non huit exemplaires du même scénario [É]
+
+Il faut commencer par des différences concrètes. Le fleuve peut transporter Sargon jusqu'à un irrigateur, dissimuler Moïse près des roseaux, porter Karṇa à plusieurs cours d'eau, mais **ne joue pas** le même rôle lorsque Vasudeva traverse la Yamunā avec Kṛṣṇa dans ses bras. Le mont Cithéron est un lieu d'exposition et de transfert de bergers dans l'histoire d'Œdipe ; le coffre qui porte Danaé et Persée est un moyen d'expulsion de la cité, non une corbeille destinée à faire passer l'enfant seul entre deux rives. La louve n'intervient pas dans les récits mésopotamiens conservés. Chaque motif doit donc être codé par une fonction précise, et non par simple présence d'« eau », de « montagne » ou de « sauveur ».
+
+### 2. La donnée minimale : qui veut la mort de l'enfant ? [É]
+
+Dans la *Légende de la naissance de Sargon*, la mère dissimule la naissance et éloigne l'enfant ; le texte ne nomme pas un ennemi qui aurait prononcé une condamnation. Dans *Exode* 1–2, l'ordre meurtrier vient du pharaon contre les garçons hébreux ; le conflit est collectif. Chez Hérodote, Astyage veut empêcher l'accomplissement d'un songe dynastique et confie l'exécution à Harpage. Chez Sophocle, la décision se noue autour de l'oracle relatif à Laïos. Dans *Bhāgavata Purāṇa* X, la violence de Kaṃsa vise la descendance de Devakī. Ces causations sont incompatibles avec l'énoncé simplificateur « le père jaloux essaie toujours de tuer son fils ».
+
+### 3. Trois temporalités à garder séparées [É]
+
+D'abord le temps de l'**action narrée** (règne de Sargon d'Akkad au IIIe millénaire ; règne de Cyrus au VIe siècle avant notre ère) ; puis le temps de la **composition ou de la formation** d'une tradition, parfois difficile à dater ; enfin celui des **témoins effectivement préservés** : tablette néo-assyrienne pour la naissance de Sargon, copies médiévales de textes grecs, manuscrits bibliques et traditions sanskrites stratifiées. Déclarer « le plus vieux mythe de l'exposition » à partir de l'ancienneté supposée du personnage est un contresens. Une copie tardive conserve parfois un noyau ancien, mais ce noyau doit être démontré au moyen de variantes, d'allusions et de données indépendantes.
+
+### 4. La structure narrative comme instrument, non comme verdict [I]
+
+On peut distinguer : a) une menace ou un secret portant sur la naissance ; b) un transfert du nouveau-né hors du groupe d'origine ; c) une médiation de sauvetage ; d) une croissance dans un autre foyer ; e) une éventuelle reconnaissance ; f) une accession à la souveraineté, à une mission religieuse, à l'exil ou à la mort. Tous les récits n'exécutent pas toutes les étapes. Œdipe commence comme enfant exposé puis découvre que le succès politique n'empêche pas une catastrophe familiale. Moïse ne revient pas régner comme pharaon ; il devient libérateur et législateur. Karṇa ne recouvre jamais sans reste une place tranquille dans la famille biologique. Ces divergences sont les résultats de l'analyse, non des « exceptions » à corriger.
+
+### 5. Les absences sont des preuves négatives localisées [É]
+
+Un texte qui ne décrit ni or, ni aigle, ni gardien surnaturel ne peut être complété par une version moderne attrayante. La *Légende de Sargon* ne comporte pas une princesse égyptienne ; *Exode* ne comporte pas un jardinier nommé Aqqi ; le récit de Persée ne fait pas d'Acrisios le père biologique de l'enfant ; celui de Kṛṣṇa contient une substitution familiale que l'exposition de Sargon ne présente pas. Le silence d'une source unique ne prouve pas la non-existence d'autres traditions, mais il limite ce qu'on peut attribuer au passage étudié. MYTHOS doit faire apparaître ce principe dans toute représentation graphique.
+
+## II. Mésopotamie : l'enfant des roseaux dans la légende de Sargon
+
+### 7. Le témoin K.3401 : une autobiographie fictive [A]
+
+Le fragment de tablette **British Museum, K.3401**, joint dans la documentation cunéiforme au fragment **Sm.2118**, transmet une version néo-assyrienne de la naissance de **Šarru-kīn**, Sargon d'Akkad. L'objet a été découvert à Ninive dans le contexte de la bibliothèque royale d'Assurbanipal ; sa date se situe au Ier millénaire avant notre ère, fort éloignée de la vie supposée de Sargon d'Akkad au XXIVe–XXIIIe siècle. La transcription traditionnelle est publiée dans **CT 13, pl. 42–43** ; la notice [ETANA](https://etana.org/node/578) reproduit l'ouverture comme une pseudo-autobiographie ; la documentation iconographique est accessible sous [Wikimedia Commons, K.3401](https://commons.wikimedia.org/wiki/File:Birth_of_Sargon_BM_ME_K.3401.jpg). **L'objet atteste l'existence de la tradition néo-assyrienne, non son authenticité autobiographique.**
+
+### 8. Colonne I, lignes 1–5 : naissance sans père reconnu [A/É]
+
+La version conventionnelle débute avec le souverain parlant à la première personne ; sa mère est une **prêtresse d'un rang désigné par le texte akkadien**, son père est dit inconnu, son origine urbaine est fixée à **Azupiranu** sur l'Euphrate. Une mise au monde secrète précède le départ de l'enfant. Les lignes 1–5 fournissent le point de départ : ni oracle de mort d'un père ni déclaration de naissance divine n'y apparaissent. L'expression souvent rendue par « grande prêtresse » doit être confrontée à l'édition de l'akkadien et aux incertitudes des équivalences institutionnelles. Elle n'autorise pas une biographie sexuelle psychologisée de la mère ; le genre royal privilégie une histoire de légitimation plutôt qu'une enquête d'état civil.
+
+### 9. Colonne I, lignes 6–9 : le panier, le bitume, la rivière [A]
+
+Les lignes 6–9 racontent le placement du bébé dans un **panier de roseaux**, l'étanchéification de sa fermeture au **bitume** et son abandon aux eaux du fleuve. L'enfant ne dirige pas l'embarcation ; il survit parce que le fleuve le porte jusqu'à un **puiseur d'eau, Aqqi**, qui le retire. Ces détails matériels ne sont pas des ornements négligeables : ils rendent l'épisode narrativement plausible dans une culture qui connaît les paniers végétaux, les contenants enduits et le travail de l'irrigation. Néanmoins, on ne connaît pas de « panier de Sargon » conservé ; la matérialité du récit ne vaut pas découvert archéologique de l'événement.
+
+### 10. Colonne I, lignes 10–13 : adoption, jardinage, faveur d'Ištar [A]
+
+Aqqi élève Sargon **comme son fils** et le fait travailler comme jardinier ; la déesse **Ištar** lui accorde sa faveur et le récit passe au règne. La succession du père absent, du sauveur modeste, de la profession utile et de l'amour divin construit une **ascension sans généalogie royale exhibée**. La traduction de l'expression d'adoption doit rester proche de la source : le passage énonce un rapport social de filiation, mais ne documente pas une procédure judiciaire avec contrat conservé. Le récit s'arrête à des revendications de grandeur royale, dont certaines lignes sont lacunaires. [Texte de consultation ETANA](https://etana.org/node/578) ; [traduction numérotée parallèle](https://intertextual.bible/read/the-sargon-legend).
+
+### 11. Le nom Šarru-kīn et le problème de l'authenticité [É]
+
+Le nom royal akkadien conventionnellement transcrit **Šarru-kīn**, souvent expliqué par « le roi est légitime/établi », se prête à la lecture idéologique d'une royauté proclamée authentique. Il serait toutefois imprudent de tirer d'une étymologie le récit d'une usurpation personnelle précisément identifiable. La *Légende de naissance* est conservée bien après la vie de Sargon ; une interprétation possible l'associe à la politique des souverains néo-assyriens, notamment **Sargon II**, lui-même détenteur du nom. La question doit être laissée ouverte entre allusion dynastique et réappropriation d'une tradition plus ancienne. Voir **Brian Lewis, *The Sargon Legend* (1980)** et la discussion de **Joan Goodnick Westenholz, JNES 43 (1984), p. 73–79**.
+
+### 12. Pourquoi Ištar n'est pas une nourrice dans cette scène [É]
+
+Le lien avec le volume MC-043 doit être limité : **Ištar aime, favorise ou choisit** Sargon adulte ; la scène ne lui attribue pas ici l'allaitement de Sargon nouveau-né. Le bébé est recueilli par un homme, Aqqi ; l'eau et le jardin forment l'arrière-plan social de sa croissance. Remplacer la faveur d'Ištar par une scène hypothétique de lactation divine introduirait une donnée absente. Le parallèle véritable entre les deux volumes est la **production d'une filiation prestigieuse** et le soutien d'une autorité future, non l'identité des gestes. Cette précision protège le dossier contre une tendance à réunir toutes les figures protectrices sous la catégorie trop large de « déesse mère ».
+
+## III. Israël : sauver Moïse d'une destruction collective
+
+### 14. Exode 1,8–22 : l'ordre qui rend le berceau dangereux [A]
+
+Le récit situe la naissance de Moïse dans une politique de répression d'une population étrangère : un pharaon nouveau craint la multiplication des fils d'Israël, impose des travaux et exige finalement la mort des nouveau-nés mâles. Les sages-femmes résistent à la première injonction (Exode **1,15–21**) ; l'ordre de jeter les garçons au fleuve figure en **1,22**. Le bébé n'est donc pas simplement exposé parce qu'une mère veut cacher une naissance jugée illégitime : il est menacé **en tant que membre d'un groupe**. Un motif ressemblant à la naissance de Sargon appartient ici à une réflexion sur la persécution, l'obéissance et la survie d'Israël, et non à la seule accession individuelle au trône.
+
+### 15. Exode 2,1–4 : têḇāh, gōme, ḥēmār, zepet [A/É]
+
+La mère d'un enfant lévite le dissimule **trois mois**. Elle prépare ensuite une **têḇāh** de **gōme**, qu'elle enduit de **ḥēmār** et de **zepet**, et dépose le nourrisson parmi les roseaux au bord du Nil. **Têḇāh** est aussi le mot employé pour l'arche de Noé (Genèse 6–9), mais ce rapprochement lexical interne à la Bible ne prouve pas une identification matérielle de leurs dimensions. **Gōme** désigne un végétal utilisé comme matériau ; **ḥēmār** et **zepet** relèvent de l'étanchéification au moyen de produits bitumineux. Le détail de la **berge** est décisif : la mère ne raconte pas qu'elle abandonne l'enfant au courant central du Nil sans surveillance. [Texte hébreu, Exode 2,1–10](https://www.sefaria.org/Exodus.2.1-10).
+
+### 16. Exode 2,4–6 : la sœur, la fille du pharaon, la pitié [A]
+
+La sœur de l'enfant observe à distance ce qui adviendra. La fille du pharaon voit le contenant, ouvre la caisse et découvre un bébé **qui pleure** ; elle identifie un enfant des Hébreux et prend pitié. La sauveresse appartient donc précisément à la maison du souverain dont l'ordre menace les nouveau-nés. La scène **renverse l'autorité politique à l'intérieur de sa propre famille**. La princesse agit de façon indépendante de l'intention meurtrière attribuée à son père. Rien dans le passage ne dit que l'enfant était destiné à devenir pharaon ; sa mission ultérieure concerne un peuple et une alliance. La première distinction est morale, avant d'être dynastique.
+
+### 17. Exode 2,7–10 : la mère biologique devient nourrice [A]
+
+La sœur offre de trouver une nourrice hébraïque ; la fille du pharaon charge précisément la **mère de l'enfant** de l'allaiter, contre rémunération, avant de l'accueillir comme fils à la fin de cette période. L'adoption narrative ne supprime donc pas la relation corporelle initiale ; elle la fait passer par une **médiation économique et politique**. La scène fournit un contrepoint original à MC-043 : le lait vient de la mère biologique, tandis que le statut de fils de la princesse résulte d'un transfert reconnu. Le statut juridique de la transaction n'est pas détaillé en termes de contrat égyptien ; la littérature biblique décrit une adoption ou une incorporation familiale, pas un dossier administratif fouillé.
+
+### 18. Le nom Mōšeh et deux régimes d'étymologie [É]
+
+En **Exode 2,10**, le nom **Mōšeh** est expliqué par un jeu avec le verbe hébreu **mšh**, « tirer [de l'eau] ». La forme du nom évoque toutefois des éléments onomastiques égyptiens connus dans des noms théophores en **-mose/-ms** (« né de… » ou « enfant de… »), qui appellent une analyse spécialisée. Le rapprochement égyptien ne doit pas servir à déclarer fausse la **fonction narrative** de l'explication hébraïque. Celle-ci relie un nom et un sauvetage ; l'onomastique peut reconstruire une autre histoire de la forme. La question du sujet de « elle lui donna le nom » a suscité une discussion spécifique (David J. Zucker, « She Named Him Moses », *Jewish Bible Quarterly* 47, 2019). [Étude de la double étymologie](https://www.thetorah.com/article/did-pharaohs-daughter-name-moses-in-hebrew).
+
+### 19. Sargon et Moïse : emprunt, réécriture ou motif disponible ? [É/H]
+
+La ressemblance du **panier végétal étanchéifié**, de l'**enfant au fleuve** et du **sauveur** constitue un problème d'intertextualité sérieux, pas une illusion de lecture. Mais le récit de Sargon conservé dans des copies néo-assyriennes ne permet pas d'établir que la version biblique a directement recopié une œuvre du XXIVe siècle. Les dates de composition d'Exode 2 sont discutées, et les rencontres textuelles peuvent relever de plusieurs stades de rédaction ou d'un fonds de motifs plus large. **Comparer les matériaux des paniers** n'autorise pas à effacer la sœur qui veille, le décret collectif et la princesse qui adopte. Les hypothèses de dépendance littéraire doivent expliquer ces transformations et étayer une voie plausible de transmission.
+
+## IV. Iran achéménide vu de Grèce : Cyrus et la femme « chienne »
+
+### 21. Hérodote I,107–109 : le songe d'Astyage [A]
+
+Dans l'**Enquête** d'Hérodote, Astyage, souverain des Mèdes, fait des rêves concernant sa fille Mandane et l'ascendance de son futur petit-fils **Cyrus**. Ces visions sont interprétées comme une menace pour le trône. Après avoir marié Mandane au Perse **Cambyse**, Astyage ordonne à son agent **Harpage** de supprimer l'enfant. L'exposition n'est pas le fait d'une mère honteuse de la naissance ; elle constitue une politique anticipatrice de neutralisation d'un rival dynastique. L'oracle au sens générique est ici une **interprétation de rêves**, non une consultation de Delphes. Il faut préserver la spécificité de l'interprétation onirique : le roi prend une décision politique à partir d'une prédiction qu'il juge dangereuse.
+
+### 22. Hérodote I,110 : Mitradatès et Spakō [A/É]
+
+Harpage délègue la tâche à un bouvier nommé **Mitradatès** ; sa femme s'appelle en grec **Kynō** et, selon Hérodote, en langue mède **Spakō**, nom que l'historien rapproche de celui du chien. Le mari reçoit l'ordre d'exposer le nourrisson dans une montagne où les bêtes sauvages pourraient le tuer. Le nom de l'épouse est un pivot linguistique du passage : la « chienne nourricière » devenue célèbre n'est pas d'abord un animal miraculeux qui entrerait en scène comme dans la version de la louve romaine. **Hérodote présente lui-même le jeu de langue.** [Texte I,110](https://lexundria.com/hdt/1.110/mcly).
+
+### 23. Hérodote I,111–113 : le deuil qui fait sauver [A]
+
+Le bouvier rencontre une situation domestique douloureuse : son épouse a mis au monde un enfant mort, dont le corps permet de satisfaire extérieurement l'ordre d'exposition. Le bébé royal est accueilli dans le foyer du berger, tandis que le nourrisson décédé est exposé à sa place avec les signes destinés à tromper les contrôleurs. L'échange rappelle que les récits ne présentent pas toujours une mise à mort empêchée **sans coût**. La protection d'un enfant s'appuie ici sur la perte d'un autre et sur la circulation dissimulée des corps. Le motif de substitution est attesté, mais il n'est pas identique à la substitution organisée dans les textes tardifs de Kṛṣṇa, dont les pouvoirs divins changent le sens narratif.
+
+### 24. Hérodote I,114–121 : jeu royal et reconnaissance [A]
+
+Le jeune Cyrus est reconnu progressivement à travers son comportement : dans un jeu d'enfants, il se conduit comme un souverain et punit un compagnon ; son autorité précoce déclenche l'examen de son origine. Astyage interroge, rapproche les âges et les faits puis identifie le petit-fils qu'il avait condamné. Le récit montre ainsi une **reconnaissance par les signes du commandement**, avant toute preuve documentaire de généalogie. Il convient de qualifier l'épisode de **tradition historiographique** et non de rapport judiciaire authentifié : aucune archive administrative perse ne confirme la scène du jeu. La royauté future est téléologiquement annoncée dans l'enfance par un comportement qui semble relever d'elle.
+
+### 25. Hérodote I,122 : du nom de la femme à la fable de la chienne [A/É]
+
+À la fin de l'épisode, les parents de Cyrus peuvent raconter qu'il a été nourri par une chienne ; Hérodote explique cette version par le nom **Spakō** de sa nourrice. Le lecteur dispose donc chez le même auteur d'une légende merveilleuse et d'une **explication étiologique** de sa formation. L'enquête sur l'ancien perse ou le mède ne saurait être résolue exclusivement à partir d'une glose grecque : la langue mède est insuffisamment attestée. Il faut écrire « selon Hérodote, Spakō signifie… », sans transformer cette remarque en inscription mède retrouvée. [Hérodote I,122](https://lexundria.com/hdt/1.122/mcly).
+
+### 26. Les variantes de l'enfance de Cyrus : une histoire au pluriel [É]
+
+**Xénophon**, *Cyropédie* I,2,1–3, offre un récit idéalisé de l'éducation royale de Cyrus, et d'autres traditions grecques ou orientales présentent des parcours différents. Il serait fautif de fusionner ces témoignages en une seule biographie sans signaler leurs genres, leurs intérêts et leurs dates. Chez Hérodote, Cyrus est à la fois objet d'un ordre fatal et futur vainqueur de la monarchie mède ; chez Xénophon, il devient un modèle de formation du commandant. Les inscriptions achéménides et le **cylindre de Cyrus** sont des témoins indispensables pour l'histoire politique, mais **ne racontent pas la scène du berger**. [British Museum, Cyrus Cylinder](https://www.britishmuseum.org/collection/object/W_1880-0617-1941).
+
+## V. Monde grec : le coffre de Persée et les chevilles d'Œdipe
+
+### 28. Pseudo-Apollodore II,4,1 : l'oracle d'Acrisios [A]
+
+Acrisios cherche à savoir s'il aura une descendance masculine ; un oracle lui annonce que le fils de sa fille Danaé sera pour lui un danger mortel. Il enferme sa fille dans une chambre de bronze, mais Zeus, selon l'une des variantes citées, rejoint Danaé sous forme d'une pluie d'or. Le fils **Persée** naît malgré le dispositif. Lorsque le roi découvre l'enfant, il refuse ou conteste l'explication divine de la conception. **Le conflit porte sur la peur d'un petit-fils**, non sur un fils rival qui chercherait volontairement à régner. Le récit se situe dans le monde des généalogies héroïques d'Argos et sera interprété à travers des traditions tragiques et figurées distinctes.
+
+### 29. Le coffre de Danaé n'est pas la corbeille de Moïse [A/É]
+
+Dans **Pseudo-Apollodore II,4,1**, Acrisios met **ensemble Danaé et Persée** dans une caisse, qu'il lance à la mer. La dérive s'achève à **Sériphos**, où **Dictys** les recueille et élève l'enfant. Le fait que la mère demeure avec son fils bouleverse les comparaisons hâtives : le héros n'est pas séparé de sa mère biologique comme Moïse ou Karṇa. La caisse est un instrument d'expulsion simultanée d'une femme et de son enfant ; elle ne constitue pas le dispositif matériel minimal d'une gardienne surveillant un fleuve depuis les roseaux. [Texte de Pseudo-Apollodore II,4,1](https://www.theoi.com/Text/Apollodorus2.html).
+
+### 30. Diktys, Polydectès : sauvetage et seconde menace [A]
+
+Le pêcheur **Diktys** se distingue de son frère **Polydectès**, roi de Sériphos, qui cherche ensuite à obtenir Danaé et à envoyer Persée vers la Gorgone. Le premier accueil ne supprime pas les rapports de domination : une fois la survie assurée, la mère et le jeune héros doivent affronter une **nouvelle menace sociale et politique**. Le réseau des parentés adoptives n'est pas idéalement pacifié. Ce point empêche de construire une version trop sentimentale du sauvetage, où le protecteur résout définitivement tous les conflits. L'épreuve du coffre ouvre une histoire de dépendance dont le dénouement exige d'autres interventions, notamment celles d'Hermès et d'Athéna dans le récit d'Apollodore.
+
+### 31. Les *Tireurs de filets* d'Eschyle : un témoin fragmentaire [A/É]
+
+La pièce satyrique d'**Eschyle**, *Diktyoulkoi* (*Les Tireurs de filets*), dont subsistent des fragments papyrologiques, mettait en scène le secours porté à Danaé et Persée. L'œuvre atteste que l'histoire circulait dans un **genre théâtral** qui ne peut être réduit au résumé de Pseudo-Apollodore. Toutefois, la reconstitution intégrale des échanges, des gestes, des personnages présents et de l'ordre du texte demeure conjecturale. Le dossier MYTHOS sur cette pièce doit conserver la distinction entre fragments conservés et remplissage moderne ; l'existence du sujet n'autorise pas à citer des « vers » reconstruits comme des paroles grecques attestées. Renvoi interne : *Encyclopédie des tragédies*, « Eschyle — Les Tireurs de filets ».
+
+### 32. Œdipe : la mère et le père sans consentement de l'enfant [A]
+
+**Sophocle, *Œdipe roi***, notamment **v. 711–725**, fait raconter par Jocaste l'oracle annonçant une mort de Laïos liée à son fils. Les personnages parlent de l'enfant abandonné, les pieds retenus ou mutilés. La scène initiale n'est pas directement représentée sur scène : elle est **rapportée** des années après l'événement et doit être reconstruite par la chaîne des témoignages. La pièce fonctionne comme enquête sur un passé caché, non comme un récit continu des premières années. Les mensonges, oublis, hésitations et déplacements de preuves sont constitutifs de sa dramaturgie. [Édition CHS, *Oedipus Tyrannus*](https://www-current.chs.harvard.edu/primary-source/sophocles-oedipus-tyrannus-sb/).
+
+### 33. Œdipe v. 1016–1045 : l'identité politique détachée du sang [A/P]
+
+Un messager venu de Corinthe apprend à Œdipe qu'il n'est pas le fils biologique de **Polybe**, roi de Corinthe. Aux **v. 1025–1040**, il évoque l'enfant reçu dans la région du **Cithéron**, ses chevilles blessées et le berger qui le lui remit ; il est frappant que le roi, aimé comme fils par Polybe, découvre que la filiation reçue n'est pas la filiation de naissance. La structure donne une épaisseur philosophique [P] au fait social de la parenté : **être reconnu comme fils n'équivaut pas à être engendré**. Mais on ne doit pas projeter sur Sophocle une théorie moderne complète de l'adoption. [Texte vers 911–1085](https://beta.perseus.tufts.edu/urn:cts:greekLit:tlg0011.tlg004.perseus-eng2:911-1085/).
+
+### 34. Œdipe v. 1110–1185 : la reconnaissance comme catastrophe [A]
+
+Le berger thébain finit par confirmer que l'enfant remis à l'éleveur corinthien venait du foyer de Laïos. La révélation détruit la croyance qu'Œdipe entretenait sur sa propre origine et réunit involontairement le meurtre du père et le mariage avec la mère. Contrairement aux récits de Cyrus et de Romulus, où une origine dissimulée peut renforcer la prétention à gouverner, **l'anagnorisis** d'Œdipe n'est pas un couronnement : elle déstabilise les relations familiales, politiques et religieuses. La notion grecque **anagnōrisis** s'emploie dans la théorie tragique, mais il ne faut pas confondre son usage aristotélicien avec tous les termes précisément employés dans chaque réplique de Sophocle.
+
+### 35. Le nom Oidipous et les pieds blessés [É]
+
+Le nom **Oidipous (Οἰδίπους)** est traditionnellement rapproché des éléments désignant l'enflure et le pied, en relation avec la blessure du nourrisson. Le messager de Sophocle explicite une connexion entre cette particularité et le nom du héros autour des **v. 1033–1036**. Ce procédé est une **étymologie narrative** : il explique comment la cicatrice devient marque d'identité et d'interprétation. L'historien de la langue peut étudier les composants du nom, mais le mythe ne doit pas servir de certificat d'état civil. La cicatrice est à la fois preuve corporelle et trace d'un acte cruel devenu visible longtemps après la menace initiale.
+
+### 36. La reconnaissance tragique contredit la théorie simpliste du héros [I]
+
+Œdipe a été sauvé par des bergers, a été élevé comme prince, a résolu l'énigme du Sphinx et a pris une place prestigieuse à Thèbes. L'exposition initiale ne garantit pourtant pas un destin « heureux », contrairement à un modèle naïf où l'enfant miraculeusement sauvé serait toujours récompensé. Le motif est ici articulé à un **problème d'interprétation** : les signes sont connus successivement et reçoivent de nouveaux sens. L'ignorance de ses origines contribue à rendre impossible l'évitement de ce qu'il redoute. L'enfant sauvé peut être le sujet d'une expérience tragique de la vérité, pas seulement l'emblème optimiste d'une dynastie ressuscitée.
+
+## VI. Rome : jumeaux, fleuve et louve au fondement de la cité
+
+### 38. Tite-Live I,3–4 : Numitor, Amulius et la généalogie albane [A]
+
+Tite-Live rattache les jumeaux **Romulus et Rémus** à une crise de succession entre **Numitor** et **Amulius**. La mère, **Rhéa Silvia**, a été consacrée vestale par Amulius, qui entend empêcher une descendance menaçante ; la naissance des jumeaux est attribuée à **Mars** dans la tradition transmise. La tentative de mise à mort s'inscrit ainsi dans la **politique d'une dynastie**, tout en reliant Rome à une ascendance divine. Contrairement au récit de Moïse, la menace vise deux enfants déterminés dont le sang renvoie à une maison royale, non l'ensemble des fils d'une population asservie. [Tite-Live I,3–4](https://www.perseus.tufts.edu/hopper/text?doc=Liv.%201.3).
+
+### 39. Tite-Live I,4 : eaux du Tibre, figuier, louve [A]
+
+Les serviteurs chargés de supprimer les jumeaux déposent leur contenant dans une zone du **Tibre** en crue ; une fois l'eau retirée, la corbeille demeure sur la terre. La louve attirée par les cris des enfants leur présente ses mamelles ; **Faustulus**, gardien de troupeaux, les découvre puis les confie à sa femme **Acca Larentia**. On trouve ici une chaîne complexe : serviteurs, lieu fluvial, animal nourricier, berger, couple humain. Le corps animal n'est pas une donnée générale de l'exposition héroïque ; c'est une solution spécifique de la légende romaine. La fonction de la louve doit être lue dans un contexte d'identité civique et non comme une preuve zoologique.
+
+### 40. Lupa : interprétation alternative déjà formulée par un ancien [A/É]
+
+Tite-Live propose aussitôt une explication différente : **Acca Larentia** aurait été surnommée **lupa**, terme pouvant désigner aussi une prostituée. L'historien romain connaît donc le soupçon que la louve merveilleuse résulte d'un **jeu de langage**, et le transmet avec la tradition héroïque. Une méthodologie rigoureuse ne choisit pas silencieusement la version animale comme seule « vraie version antique ». **Plutarque, *Vie de Romulus* 3–4**, est un autre témoin littéraire, beaucoup plus tardif, qui contribue à documenter l'histoire de ces variantes, sans transformer leur présence commune en preuve d'un événement du VIIIe siècle avant notre ère.
+
+### 41. La protection mène à la lutte, pas à l'harmonie [A/I]
+
+Romulus et Rémus deviennent des acteurs de la crise politique d'Albe, contribuent au renversement d'Amulius et se trouvent ensuite en rivalité lors de la fondation de Rome. Le motif du sauvetage peut porter une légitimation civique tout en préparant le récit d'une **violence intrafamiliale fondatrice**. On ne saurait conclure que le récit exalte simplement la fraternité : la tradition de la mort de Rémus constitue un contrepoint incontournable. Le passage de la double vulnérabilité de nourrissons à une compétition pour les auspices et le pouvoir rend la légende philosophiquement plus ambiguë que le simple tableau tendre de la louve.
+
+### 42. La louve capitoline : archéologie et prudence de datation [É]
+
+Le bronze célèbre dit **« Louve capitoline »**, conservé aux Musées du Capitole, a longtemps été considéré comme une œuvre étrusque ancienne. Sa datation est **discutée** : des analyses techniques ont relancé l'hypothèse d'une exécution médiévale du corps de la louve, alors que les figures des jumeaux constituent un ajout de la Renaissance. La statue moderne visible au Capitole **n'est donc pas une photographie d'un culte archaïque**. Pour illustrer l'exposition antique, mieux vaut privilégier les objets dont la date et l'inventaire sont établis sans cette controverse, ou présenter explicitement celle-ci en légende. La célébrité d'une œuvre ne garantit ni son ancienneté ni sa pertinence comme document direct du récit.
+
+### 43. Hérodote et Tite-Live : deux animaux peut-être issus de jeux de langue [I]
+
+Chez Hérodote, **Spakō** peut engendrer ou justifier une histoire de « chienne » nourricière ; chez Tite-Live, **lupa** peut désigner un animal ou une femme. Le rapprochement est méthodologiquement intéressant parce que **les auteurs eux-mêmes** introduisent une alternative au merveilleux. Mais il ne prouve aucun emprunt de Rome à la légende de Cyrus : l'animal, la langue, la structure familiale, le lieu et la fonction civique sont différents. Il permet surtout de montrer comment une **étymologie populaire** peut orienter la mémorisation d'une enfance remarquable.
+
+## VII. Inde épique : Karṇa, la naissance secrète et le conflit des loyautés
+
+### 45. Le dossier textuel de Kuntī et Karṇa [A/É]
+
+Le **Mahābhārata**, *Ādiparvan* ou Livre I, dans la division traditionnelle **Sambhava-parvan, section CXI** de la traduction de **Kisari Mohan Ganguli**, raconte la naissance de **Karṇa** après l'invocation du dieu solaire **Sūrya** par la jeune **Kuntī**, également appelée Pṛthā. Le jeune enfant naît avec des attributs extraordinaires, dont une protection corporelle et des boucles d'oreilles. La mère craint la désapprobation de son entourage et le place dans un contenant confié aux eaux. Pour une narration plus détaillée du trajet fluvial, consulter aussi le récit rétrospectif de la **Vana-parvan, autour du chapitre 306** dans certaines divisions. **Les numéros diffèrent selon les éditions** : toute référence dans MYTHOS doit préciser le système utilisé. [Traduction Ganguli, Ādiparvan](https://www.wisdomlib.org/hinduism/book/the-mahabharata-mohan).
+
+### 46. La mère qui abandonne sans vouloir le mal de son fils [A/I]
+
+Le geste de Kuntī est décrit dans le cadre d'un danger de réputation et de place sociale, non comme une haine du bébé. L'exposition demeure un acte qui met en péril l'enfant, et les circonstances ne doivent pas être adoucies. Le récit fait cependant comprendre la contrainte exercée sur la jeune femme par les normes d'honneur familial, tout en lui donnant une descendance dont la dimension divine produit paradoxalement un secret intenable. **L'origine divine n'empêche donc pas la vulnérabilité politique de la mère**. Ce contraste différencie Karṇa de Cyrus, exposé par un pouvoir rival, et de Moïse, menacé par un décret contre tout un peuple.
+
+### 47. Rādhā, Adhiratha : l'hospitalité devient filiation [A]
+
+L'enfant est recueilli et élevé dans le foyer d'**Adhiratha** et de **Rādhā**, associés au milieu des cochers (*sūta*) dans le récit épique ; il reçoit le nom de **Vasusena**. Les versions soulignent qu'un lien de filiation vécue s'établit avec ses parents adoptifs. La condition sociale de ce foyer joue ensuite un rôle essentiel dans les controverses sur le rang du héros et son aptitude à rivaliser avec les princes Pāṇḍava. Il serait anachronique de réduire ce dossier à une théorie simplifiée et intemporelle du « système des castes » : les normes de statut, de descendance et de profession sont formulées dans une épopée à couches rédactionnelles distinctes et ne documentent pas directement une société homogène à une date unique.
+
+### 48. Une naissance solaire n'efface pas une histoire sociale [I/P]
+
+Karṇa incarne une tension durable : le fils de Sūrya grandit loin du monde où son origine biologique pourrait lui ouvrir une reconnaissance dynastique, mais il n'en vient pas pour autant à nier les personnes qui l'ont élevé. Son statut épique s'élabore dans l'écart entre **filiation de naissance**, **filiation du soin** et **reconnaissance par les autres guerriers**. La question de la loyauté du héros à Duryodhana se lit à travers cette histoire sans s'y réduire. La lecture philosophique [P] ne doit pas présenter l'enfant adopté comme plus authentique ou moins authentique que ses parents de naissance ; elle interroge la coexistence de fidélités incompatibles.
+
+### 49. Le conflit entre reconnaissance et dette [A/P]
+
+Les épisodes ultérieurs où Kuntī et Kṛṣṇa révèlent ou invoquent la naissance de Karṇa ne conduisent pas à une simple réparation. Le héros sait qu'une filiation peut être vraie **biologiquement** sans effacer la dette de reconnaissance envers ceux qui l'ont accueilli et envers des alliés qui l'ont soutenu publiquement. La tension rejoint l'hypothèse philosophique [P] d'une identité comme **nœud de promesses** plutôt que comme certificat généalogique unique. Mais cette reconstruction doit demeurer fidèle au déroulement des dialogues du *Udyogaparvan*, non substituer à l'épopée des notions modernes de liberté individuelle sans contexte.
+
+### 50. Pourquoi les itinéraires des rivières doivent rester à la source [É]
+
+Certaines versions du parcours de Karṇa mentionnent l'**Aśvā**, la **Carmaṇvatī**, la **Yamunā**, puis la **Gaṅgā**, avant la découverte près de **Campā**. La série précise figure dans des divisions et traductions particulières du récit rétrospectif ; elle ne doit pas être transformée en itinéraire historique vérifié par la géographie actuelle. Un nourrisson porté par des cours d'eau sur d'immenses distances relève du **merveilleux épique**, non d'un calcul de durée de transport réaliste. Toute carte pédagogique doit indiquer « trajectoire du récit », non « route attestée de l'enfant Karṇa ». La complexité des recensions impose de citer l'édition utilisée pour chaque étape.
+
+## VIII. Inde purāṇique : Kṛṣṇa, la substitution et la Yamunā
+
+### 52. Kaṃsa et Devakī : une prédiction ciblée [A]
+
+Dans le **Bhāgavata Purāṇa**, chant X, **chapitres 1–3**, le pouvoir de **Kaṃsa** est menacé par une prédiction relative à la descendance de sa sœur **Devakī**. Kaṃsa emprisonne **Devakī** et **Vasudeva** et cherche à supprimer leurs enfants. Le cadre est celui d'une **théologie dévotionnelle** dans laquelle Kṛṣṇa est une manifestation divine et où les adversaires agissent dans une histoire cosmique. Une comparaison avec Astyage est possible sur le thème du souverain craignant une prédiction ; elle n'autorise pas à présenter les deux récits comme équivalents : l'identité de l'enfant divin et le rôle de la grâce changent profondément leur interprétation.
+
+### 53. Bhāgavata Purāṇa X,3,47–53 : Vasudeva porte, il n'abandonne pas [A]
+
+La naissance de **Yogamāyā** auprès de l'épouse de Nanda coïncide avec la possibilité de transférer Kṛṣṇa hors de sa prison. Les portes s'ouvrent, les gardiens s'endorment, **Vasudeva** porte le garçon ; le fleuve **Yamunā** lui laisse franchir ses eaux, tandis que la protection de **Śeṣa/Ananta** apparaît dans la narration. L'enfant est déposé dans la maison de **Yaśodā**, et la fille née dans cette maison est emportée en sens inverse. La scène est donc une **substitution délibérée entre deux maisons**, et non une exposition d'un nouveau-né abandonné dans une corbeille. [Texte sanskrit et traduction, X,3,47](https://vedabase.io/en/library/sb/10/3/47/) ; [X,3,48–53](https://www.vedabase.net/sb/10/3/index.htm).
+
+### 54. X,4 : l'enfant féminine n'est pas un accessoire interchangeable [A/I]
+
+La fillette que Kaṃsa cherche à tuer se manifeste comme une puissance féminine divine ; elle échappe à son geste et annonce que celui qu'il redoute vit ailleurs. Il serait fautif d'écrire que « le nourrisson féminin est tué à la place du garçon », puisque le récit attribue à **Yogamāyā** une efficacité propre. La substitution doit être analysée en fonction d'une théologie des manifestations divines et de la complémentarité des puissances, non comme une simple ruse humaine. L'analyse peut évoquer la dissymétrie des risques supportés par les enfants, mais ne doit pas remplacer les actions de la déesse par une figure passive de victime.
+
+### 55. Vasudeva, Yaśodā, Nanda et l'éducation dans un autre milieu [A]
+
+La filiation de Kṛṣṇa s'organise dans les récits dévotionnels autour du couple biologique **Devakī–Vasudeva** et du foyer d'éducation **Yaśodā–Nanda**, au sein d'un univers pastoral. La distance entre l'origine divine et la vie villageoise prépare les épisodes du jeune Kṛṣṇa, qui engage son entourage dans des relations de tendresse, de colère, de jeu et d'adoration. Le récit excède la politique de déposition d'un tyran : la théologie de la **bhakti** fait de la proximité affective du dieu une modalité de relation avec ses dévots. Ces thèmes ne peuvent être attribués automatiquement au *Ṛgveda* ou aux traditions du Mahābhārata sans analyse chronologique.
+
+### 56. Vérifier les strates : épopée, Harivaṃśa, Bhāgavata [É]
+
+L'enfance de Kṛṣṇa est développée dans plusieurs traditions sanskrites, notamment le **Harivaṃśa** et le **Bhāgavata Purāṇa**. Leurs récits ne doivent pas être transcrits comme une suite homogène de vers dont l'ordre serait universel. La date de formation du *Bhāgavata Purāṇa* est discutée et il appartient à une littérature largement postérieure aux hymnes védiques ; ses manuscrits, commentaires et traductions modernes portent des interprétations diverses. Voir **Edwin F. Bryant (dir.), *Krishna: A Sourcebook*, Oxford University Press, 2007**. La lecture comparée doit précisément signaler que les récits de Sargon et de Kṛṣṇa sont éloignés par les milieux de composition, les supports, les finalités et les époques.
+
+## IX. Tableau des variantes et critères de comparaison
+
+| Dossier | Cause de menace | Moyen de transfert | Sauveur ou foyer | Issue narrative majeure | Statut documentaire |
+|---|---|---|---|---|---|
+| Sargon, *Légende de naissance*, col. I, 1–13 | Naissance dissimulée, père inconnu | Panier de roseaux, bitume, fleuve | Aqqi, irrigateur | Jardinier puis souverain, faveur d'Ištar | Tablette néo-assyrienne tardive, pseudo-autobiographie |
+| Moïse, Ex 1,22 et 2,1–10 | Décret contre les fils hébreux | Têḇāh de gōme parmi les roseaux, berge du Nil | Sœur, fille du pharaon, mère biologique | Incorporation familiale puis mission de libération | Récit biblique stratifié |
+| Cyrus, Hdt I,107–122 | Rêves d'Astyage | Ordre d'exposition en montagne | Mitradatès et Spakō | Reconnaissance et renversement dynastique | Tradition grecque historiographique, non archive perse |
+| Persée, Ps.-Apoll. II,4,1 | Oracle contre Acrisios | Coffre marin **avec Danaé** | Diktys | Héros protégé, conflits à Sériphos | Mythographie tardive et parallèles dramatiques |
+| Œdipe, Sophocle, *OT* 711–725, 1016–1185 | Oracle de parricide | Exposition sur le Cithéron, pieds blessés | Bergers ; foyer de Polybe | Découverte catastrophique de l'origine | Tragédie classique sur un événement non montré |
+| Romulus et Rémus, Liv. I,3–4 | Rivalité albane et naissance dynastique | Contenant au Tibre en crue | Louve (version merveilleuse), Faustulus, Acca Larentia | Fondation de Rome, conflit fraternel | Tradition annalistique de datation tardive |
+| Karṇa, *Mahābhārata*, Ādiparvan CXI et variantes | Naissance secrète, pression d'honneur | Contenant sur des eaux | Adhiratha, Rādhā | Guerrier sans reconnaissance simple | Épopée sanskrite pluristratifiée |
+| Kṛṣṇa, *Bhāgavata Purāṇa* X,3–4 | Prédiction contre Kaṃsa | Portage par Vasudeva, traversée Yamunā, échange de nouveau-nés | Yaśodā, Nanda, Yogamāyā | Enfance divine et chute annoncée du tyran | Littérature purāṇique dévotionnelle tardive |
+
+**Lecture du tableau [É].** Une correspondance de deux colonnes ne suffit pas à fonder une filiation des récits. En particulier, **seules certaines histoires font du fleuve un moyen de transporter le bébé abandonné**, et **toutes ne culminent pas dans un règne**. Les foyers d'adoption sont des institutions sociales narratives distinctes.
+
+### 59. Le test des faux équivalents [É]
+
+Le mot « panier » ne doit pas servir à remplacer la **caisse de Persée**, dont la mère est présente, ni à faire de la **traversée de Kṛṣṇa** une exposition. De même, « adoption » ne doit pas uniformiser des modalités de parenté décrites de façon différentes dans une tablette akkadienne, un récit hébreu et une tragédie grecque. Lorsque la documentation ne permet pas de qualifier juridiquement l'accueil, on parlera de **recueil**, d'**éducation** ou de **filiation sociale**. L'objectif n'est pas d'obtenir le maximum de motifs communs mais de situer la **différence pertinente** que chaque narration fait apparaître.
+
+### 60. Les fonctions du fleuve : déplacer, cacher, révéler, franchir [I]
+
+Chez Sargon, le fleuve transporte ; chez Moïse, le bras d'eau situé parmi les roseaux sert à **dissimuler en attendant une intervention** ; chez les jumeaux romains, une crue puis son retrait rendent possible la découverte ; chez Karṇa, le trajet de l'eau éloigne durablement de la mère biologique ; chez Kṛṣṇa, la Yamunā **s'ouvre à un père qui porte son fils**. Il n'y a donc pas une « divinité universelle du fleuve adoptant les rois ». Le milieu fluvial est un opérateur narratif modulable, lié à la géographie et à l'imagination religieuse de chaque culture.
+
+### 61. Montagne et frontière de l'espace civique [I]
+
+L'exposition de Cyrus en zone montagneuse, celle d'Œdipe sur le Cithéron et certains autres récits méditerranéens utilisent un **dehors** situé à la limite de la communauté réglée. La montagne peut être un lieu de mort anticipée, mais aussi de transfert entre deux réseaux pastoraux. Ce n'est pas nécessairement un sanctuaire ni un « axe du monde » ; cette dernière catégorie, souvent importée d'études de cosmologie, exigerait des preuves particulières. Le rapprochement entre Hérodote et Sophocle tient au **passage par les bergers** et au risque, non à une géographie sacrée strictement identique.
+
+### 62. L'« heure de vérité » ne conduit pas toujours à la même politique [I]
+
+Cyrus est reconnu et finit par succéder dans le cadre d'une histoire de conquête ; Persée révèle sa puissance héroïque et accomplit involontairement la prédiction ; Œdipe découvre une faute dont il ignorait les circonstances ; Karṇa accède tardivement à des vérités qui ne peuvent dissoudre ses engagements ; Moïse reçoit une mission religieuse au nom d'un peuple. Il faut différencier **reconnaissance d'identité**, **réconciliation familiale**, **confirmation de souveraineté** et **révélation religieuse**. Le mot moderne « retour » ne garantit ni paix ni justice.
+
+### 63. Épreuves de transmission : date du témoin contre âge de l'histoire [É]
+
+Le Sargon du récit vit au IIIe millénaire, mais les manuscrits conservés de la légende sont beaucoup plus récents. Cyrus est un souverain historique du VIe siècle avant notre ère, mais la version d'Hérodote appartient à un auteur grec du Ve siècle. Tite-Live écrit au tournant de notre ère sur la fondation supposée de Rome des siècles plus tôt. Le *Bhāgavata* recompose une mémoire religieuse ancienne dans une écriture et une réception tardives. Aucun de ces écarts n'annule l'intérêt d'un texte : il définit le **type de question** auquel il peut répondre. Le récit atteste d'abord la culture qui le transmet.
+
+## X. Historiographie critique
+
+### 65. Otto Rank (1909) : l'enfant exposé comme mythe de naissance du héros [É]
+
+**Otto Rank**, *Der Mythus der Geburt des Helden* (1909), a systématisé le motif du héros menacé, rejeté puis élevé ailleurs et l'a interprété au moyen d'une **psychologie du roman familial**. L'ouvrage est important pour l'histoire intellectuelle du comparatisme, car il a rendu visibles les analogies entre des textes éloignés. Toutefois, son interprétation psychologique ne constitue pas une démonstration philologique de la transmission ni une explication suffisante des besoins politiques de chaque communauté. Une répétition de motifs ne prouve pas l'universalité d'un mécanisme psychique déterminé. Les lectures psychologiques sont ici classées [H/P] lorsqu'elles attribuent aux auteurs anciens une expérience intérieure non documentée.
+
+### 66. Brian Lewis (1980) et l'étude orientée vers les textes [É]
+
+La monographie de **Brian Lewis**, *The Sargon Legend: A Study of the Akkadian Text and the Tale of the Hero Who Was Exposed at Birth*, **American Schools of Oriental Research Dissertation Series 4**, **1980**, a réarticulé le problème des enfants exposés autour de la philologie de la légende de Sargon. Son travail représente une correction nécessaire des rapprochements purement formels : le texte doit être décrit dans sa langue, ses témoins et son genre avant d'entrer dans une grille internationale. La critique de **Joan Goodnick Westenholz**, *Journal of Near Eastern Studies* **43/1 (1984), p. 73–79**, rend compte de la place de cette enquête dans les études assyriologiques. [Notice du compte rendu avec DOI](https://www.journals.uchicago.edu/doi/10.1086/373065).
+
+### 67. Gunkel, traditions de l'Exode et limites de la « dépendance » [É/H]
+
+La critique des formes (*Formgeschichte*) associée à **Hermann Gunkel** a interrogé les genres des récits bibliques et leurs relations avec les traditions du Proche-Orient. Cette méthode est féconde lorsqu'elle distingue **motif**, **unité littéraire**, **rédaction** et **milieu social**. Elle devient problématique si toute similitude sert de preuve automatique d'un emprunt direct. Pour Exode 2 et la légende de Sargon, la vérification devrait porter sur une suite significative de mots, sur les détails rares partagés, sur des trajectoires documentées et sur des dates compatibles ; on ne possède pas un texte intermédiaire qui certifie une copie littérale de l'un dans l'autre. L'hypothèse reste discutée.
+
+### 68. Hérodote entre enquête et mise en forme du merveilleux [É]
+
+Hérodote n'est ni un reporter des événements de la petite enfance de Cyrus, ni un simple fabricant de fables. Il fait apparaître les traditions et parfois leurs raisons d'être : la glose **Spakō/Kynō** illustre sa manière de signaler une explication alternative. Son enquête donne accès à des récits grecs sur l'Iran dans une situation politique et intellectuelle spécifique. L'historien moderne doit contrôler ces récits par les documents achéménides là où ils existent, sans transférer sur le texte grec les fonctions d'une inscription impériale. Le fait que Cyrus ait existé et conquis Babylone ne valide pas automatiquement la scène du berger.
+
+### 69. La critique féministe : qui décide pour l'enfant, qui subit l'abandon ? [É/P]
+
+Les récits portent sur des hommes souvent destinés à la grandeur ; ils sont néanmoins structurés par le travail et le risque assumés par des femmes. La mère de Sargon dissimule, la mère de Moïse prépare l'étanchéité et organise implicitement le salut avec la sœur, la fille du pharaon transgresse le projet d'une puissance royale, Kuntī est soumise à des contraintes d'honneur, Danaé est punie avec son fils, Spakō recueille Cyrus, Yaśodā élève Kṛṣṇa. Une histoire des genres ne doit ni effacer ces actions ni idéaliser une maternité universelle. Les textes traitent différemment les résistances féminines, selon leurs contextes sociaux et leurs narrateurs.
+
+### 70. Le problème du silence archéologique [É]
+
+L'archéologie connaît des contenants de roseaux, des usages de bitume, des pratiques d'adoption, des représentations d'enfants et des cadres pastoraux. Aucune découverte générique d'un panier, d'une sépulture infantile ou d'un paysage riverain ne permet d'identifier **le** contenant de Moïse, **la** caisse de Persée, **le** lieu exact où Karṇa aurait flotté ou **la** bergerie de Cyrus. Les images postérieures doivent porter leur date réelle et le statut « réception ». L'histoire des pratiques de l'exposition doit être fondée sur des corpus indépendants (lois, papyrus, inscriptions, témoignages sociaux), et non déduite statistiquement de huit histoires extraordinaires.
+
+### 71. L'histoire comparée est une démonstration à réfuter [É]
+
+Une bonne hypothèse comparative doit pouvoir échouer. Par exemple : si l'on soutient qu'une culture B a directement emprunté à une culture A une légende de l'enfant exposé, on doit produire une **chronologie des témoins**, identifier des **intermédiaires possibles**, distinguer les **traits fréquents** des **combinaisons rares**, envisager une **tradition commune non conservée** et expliquer les **divergences résistantes**. L'absence de preuve de contact ne signifie pas qu'un contact est historiquement impossible ; elle empêche de le transformer en résultat acquis. La catégorie [H] restera attachée à chaque scénario de diffusion tant qu'il ne repose pas sur une documentation explicite.
+
+## XI. Philosophie de la filiation, de la peur et de la souveraineté
+
+### 73. Première thèse : nul souverain ne se crée tout seul [P]
+
+Qu'il soit légendaire ou historique, le futur souverain est d'abord ici un **corps vulnérable**, dépendant d'un contenant étanche, d'une sœur attentive, d'un homme qui rompt un ordre, d'un animal figuré ou d'une maison qui l'accueille. La légitimité est donc racontée au moyen d'un renversement : celui qui dominera un jour a survécu parce qu'il ne pouvait pas se défendre. Dans une lecture philosophique [P], l'autosuffisance proclamée du pouvoir est un récit secondaire ; son origine exhibe un rapport à autrui. Cela ne signifie pas que toutes les communautés antiques pensaient la royauté comme responsabilité envers les faibles : les récits illustrent une tension, pas un programme éthique explicite.
+
+### 74. Deuxième thèse : la prédiction transforme la peur en décision [P]
+
+Astyage, Acrisios et Laïos cherchent à échapper à un avenir annoncé en agissant contre l'enfant. Le récit suggère que les tentatives d'éviter le destin contribuent paradoxalement à sa réalisation. Mais les dispositifs divergent : chez Cyrus, la décision de tuer échoue et une succession politique se produit ; chez Persée, la mort d'Acrisios survient accidentellement dans la tradition mythographique ; chez Œdipe, les efforts de prévention s'enchevêtrent avec l'ignorance des liens de parenté. On peut lire ces cas avec la notion moderne de **prophétie auto-réalisatrice**, à condition de signaler [P] et de ne pas attribuer cette catégorie à Hérodote ou Sophocle eux-mêmes.
+
+### 75. Troisième thèse : l'origine biologique n'épuise pas l'identité [P]
+
+Chez Œdipe, le corps garde les marques d'une filiation inconnue alors que Polybe a réellement assumé la position de père dans sa vie. Chez Moïse, l'enfant est nourri par sa mère de naissance puis élevé comme fils de la fille du pharaon. Chez Karṇa, la parenté biologique tardivement révélée n'annule pas les attachements issus du soin et des promesses. Ces histoires rendent pensable une **pluralité de formes de parenté**, sans imposer les catégories juridiques modernes. Une lecture philosophique peut y voir le problème de l'identité narrative : nous ne sommes ni seulement l'origine biologique, ni seulement le récit social que d'autres ont fait de nous.
+
+### 76. Quatrième thèse : ce qui sauve peut aussi détruire [P]
+
+Le sauvetage d'Œdipe lui donne une vie ; il rend aussi possible une suite d'événements catastrophiques. La reconnaissance tardive de Karṇa peut offrir une vérité mais non une issue innocente. La survie de Cyrus prépare le renversement d'Astyage et les violences d'une lutte dynastique. Le soin n'est donc pas toujours inscrit dans une téléologie d'harmonie. Ces récits suggèrent un rapport complexe entre **bien local** – sauver un nourrisson – et **conséquences historiques** impossibles à maîtriser. Reconnaître cette complexité ne signifie pas que le sauvetage serait moralement suspect : il interdit de juger un acte de secours par une prétendue connaissance de tous les événements futurs.
+
+### 77. Cinquième thèse : les subalternes font l'histoire des rois [P]
+
+Aqqi est un irrigateur, le bouvier de Cyrus un serviteur, les bergers d'Œdipe des hommes de troupeau, Faustulus un gardien pastoral, les nourrices de Moïse des femmes placées hors du centre officiel du pouvoir. La tradition confie ainsi à des figures socialement moins prestigieuses des décisions qui déterminent des successions et des missions religieuses. Dans une lecture politique, le récit refuse de faire de la souveraineté un produit exclusif des palais. Mais il faut éviter une appropriation anachronique en « manifeste démocratique » : les sources peuvent célébrer ces secours tout en confirmant le prestige des dynasties.
+
+### 78. Sixième thèse : l'adoption comme acte de vérité et comme fiction [P]
+
+Il existe un sens dans lequel la reconnaissance sociale **fait être** un fils : accueillir, nourrir, nommer, transmettre un métier ou une place dans la maison sont des actes réels. Il existe aussi un sens dans lequel l'assignation familiale peut dissimuler une information biologique significative. Les récits exposent ce double registre. Chez Œdipe, le secret devient destructeur ; chez Moïse, les deux milieux restent connus du narrateur ; chez Sargon, la filiation par Aqqi établit une ascension héroïque. La philosophie peut distinguer **vérité généalogique**, **vérité de l'attachement** et **vérité institutionnelle** sans les confondre ni les hiérarchiser de façon universelle.
+
+### 79. Septième thèse : le tyran échoue en croyant savoir [P]
+
+Astyage interprète un songe comme un futur précis qu'il peut empêcher ; Acrisios construit une prison contre une prédiction ; Laïos cherche à se soustraire au parricide ; Kaṃsa tente de détruire la descendance annoncée. Ces décisions mettent en scène le risque d'une **raison instrumentale privée de prudence** : le pouvoir sait organiser des moyens coercitifs mais ignore les conséquences de sa propre peur. On peut articuler le dossier à la philosophie politique, y compris au problème de la violence préventive. Toutefois, les auteurs antiques ne forment pas un « front philosophique » unifié : une prédiction tragique, un rêve historiographique et une prophétie purāṇique ne portent pas le même statut du divin.
+
+### 80. Huitième thèse : qu'est-ce qu'un commencement ? [P]
+
+La naissance d'un héros apparaît rétrospectivement comme le commencement d'une histoire collective. Mais elle n'est pas un début absolu : elle présuppose une dynastie, des lois, des pratiques d'accueil, des rapports de force, des langues et une mémoire. La scène du panier est une **contraction narrative** du problème des origines : elle rend visible en quelques gestes une redistribution de parenté et de pouvoir. L'enquête historique doit résister à la fascination de cette condensation, alors que la philosophie peut en tirer une question légitime : le pouvoir naît-il d'une essence héritée ou d'une **reconnaissance obtenue par des médiations imprévues** ?
+
+### 81. Neuvième thèse : reconnaître, c'est relire le passé [P]
+
+L'effet de l'**anagnorisis**, particulièrement dans la tragédie grecque, est de redonner une signification à des signes déjà présents. Une cicatrice, une parole d'un messager, un nom ou une trajectoire de vie n'ont pas changé matériellement ; ce qui change est le récit qui les relie. Œdipe découvre que la preuve de sa survie est aussi celle de son origine dangereuse. Cyrus reçoit d'une vie de berger une signification politique nouvelle. La philosophie peut comparer ces scènes à des problèmes herméneutiques de preuve et de mémoire ; elle doit néanmoins respecter la différence entre enquête judiciaire, tradition épique et reconnaissance théâtrale.
+
+### 82. Dixième thèse : l'enfant n'est pas seulement le futur adulte [P]
+
+Les récits peuvent instrumentaliser le nourrisson comme le signe d'une puissance à venir. Or les textes accordent aussi une présence propre à l'enfant : il pleure dans Exode 2 ; son corps blessé reste visible chez Œdipe ; il reçoit le soin des couples qui l'élèvent ; il suscite des décisions qui ne se justifient pas par la seule gloire de l'adulte. Cette lecture rappelle un enjeu moral : le sauvetage est d'abord celui d'une vie vulnérable, avant d'être celui d'un roi ou d'un héros. Rien ne garantit que les auteurs aient écrit une théorie des droits de l'enfant ; la réflexion [P] est proposée comme question issue du dossier comparatif.
+
+## XII. Philologie sélective et édition des textes
+
+### 84. Akkadien : Šarru-kīn, Ištar, Aqqi et le panier [É]
+
+L'akkadien de la légende de Sargon doit être vérifié directement sur les **translittérations des colonnes préservées** : on distingue le nom royal **Šarru-kīn**, celui de l'irrigateur **Aqqi** et celui de la divinité **Ištar**. Les traductions françaises de « prêtresse », « panier » ou « bitume » sont des équivalents éditoriaux qui ne permettent pas de reconstruire sans contrôle tous les signes cunéiformes. Les lacunes de la fin du texte interdisent de produire un discours de couronnement complet. Référence de base : **CT 13, 42–43 ; K.3401 + Sm.2118** ; traductions et références critiques chez **Lewis 1980** et **Westenholz 1997**.
+
+### 85. Hébreu : têḇāh et la rhétorique du nom [É]
+
+En **Exode 2,3**, **תֵּבָה (*têḇāh*)** désigne le contenant ; **גֹּמֶא (*gōme*)** le matériau végétal ; **חֵמָר (*ḥēmār*)** et **זֶפֶת (*zepet*)** les produits d'étanchéification. Le nom **מֹשֶׁה (*Mōšeh*)** est rattaché par le récit à **מְשִׁיתִהוּ (*mešîtihû*)**, « je l'ai tiré [de l'eau] ». On doit distinguer **l'étymologie donnée dans le récit** de **l'hypothèse de l'origine égyptienne du nom**. Il n'est pas scientifiquement acceptable de dire « Moïse veut dire fils de l'eau en égyptien » : cette traduction synthétise abusivement deux systèmes linguistiques.
+
+### 86. Grec : ekthesis, anagnōrisis et le statut d'une glose [É]
+
+Le grec **ἔκθεσις (*ekthesis*)**, « exposition », peut servir de terme comparatif dans les études de mythographie ; il n'est pas nécessairement employé exactement sous cette forme à chaque ligne de Sophocle ou d'Hérodote. **Ἀναγνώρισις (*anagnōrisis*)**, « reconnaissance », est un terme d'analyse dramatique rendu célèbre par la *Poétique* d'Aristote, en particulier **1452a29–b8**. La glose de **Spakō/Kynō** dans Hérodote doit être citée comme le propos du narrateur grec, non comme un dictionnaire bilingue mède-grec complet. Une philologie contrôlée commence par le **mot attesté dans son passage**, pas par une catégorie moderne traduite en grec.
+
+### 87. Sanskrit : putra, suta, sūta, garbha [É]
+
+Les mots sanskrits **putra** (« fils »), **suta** (« engendré, fils » selon contexte), **sūta** (statut de cocher/héraut dans des contextes épiques) et **garbha** (« embryon, matrice ») ne sont pas interchangeables, malgré des formes proches dans les transcriptions modernes. Le nom de **Vasudeva** est celui du père de Kṛṣṇa dans les passages retenus ; **Vāsudeva** peut aussi fonctionner comme appellation du dieu, avec une différence graphique qui importe dans la philologie sanskrite. Les passages de Kuntī et les récits d'enfance de Kṛṣṇa exigent une vérification distincte de leurs éditions et traditions commentariales ; un même « enfant exposé » n'est pas un lemme suffisant.
+
+### 88. Latin : lupa, lar, Romulus et les récits de fondation [É]
+
+Le latin **lupa** désigne la louve, mais peut avoir des emplois péjoratifs concernant une femme ; le double sens est explicitement exploité dans les traditions interprétatives romaines. **Faustulus** et **Acca Larentia** doivent rester les noms des personnages historiques du récit, non les étiquettes de rôles anthropologiques stables. Le récit de Tite-Live doit être situé dans l'écriture latine du tournant de notre ère et confronté à Plutarque, non systématiquement reconstruit à partir d'une statue dont la datation est controversée. Le mythe de la fondation de Rome n'est pas, sans contrôle, une chronique du VIIIe siècle av. n. è.
+
+## XIII. Iconographie sourcée et protocole d'illustration
+
+**Dossier iconographique 1 — La vraie tablette de Sargon.** British Museum, **K.3401** (joint **Sm.2118** selon le dossier), fragment néo-assyrien portant la légende de naissance. Source photographique avec métadonnées, auteur et licence : [Wikimedia Commons, *Birth of Sargon BM ME K.3401.jpg*](https://commons.wikimedia.org/wiki/File:Birth_of_Sargon_BM_ME_K.3401.jpg), photographie de Marie-Lan Nguyen, CC BY 2.5, attribution obligatoire. **Légende :** « Copie néo-assyrienne du récit de naissance d'un souverain du IIIe millénaire ; la tablette n'est pas un objet contemporain de son enfance ». Éviter les images générées prétendant montrer « le véritable bébé Sargon ».
+
+**Dossier iconographique 2 — Le sauvetage de Moïse comme réception picturale.** Choisir un tableau clairement identifié de l'histoire de l'art, par exemple **Nicolas Poussin, *La Découverte de Moïse*** (plusieurs œuvres et versions imposent de contrôler l'inventaire exact) ou **Orazio Gentileschi, *The Finding of Moses*** ; donner musée, date, inventaire et droit photographique après sélection. **Légende obligatoire :** « Réception artistique de l'époque moderne du passage Exode 2 ; non témoignage d'une scène antique ».
+
+**Dossier iconographique 3 — Les signes de l'onomastique biblique.** Tableau original MYTHOS à partir des formes hébraïques **têḇāh, gōme, ḥēmār, zepet, Mōšeh** et d'une représentation schématique de la berge. Source textuelle : [Exode 2,3–10 sur Sefaria](https://www.sefaria.org/Exodus.2.1-10). **Légende :** « Schéma lexical et spatial contemporain ; la taille du panier n'est pas déduite d'un objet retrouvé ».
+
+**Dossier iconographique 4 — Cyrus : traditions grecques et mémoire achéménide.** Carte scientifique originale confrontant les lieux cités par Hérodote (**Ecbatane**, montagnes, foyer du bouvier) aux zones politiques de l'Empire perse. Associer une photographie du **cylindre de Cyrus**, [British Museum, inv. 1880,0617.1941](https://www.britishmuseum.org/collection/object/W_1880-0617-1941), en indiquant expressément que le cylindre **ne contient pas** l'épisode de Spakō. **Légende :** « Document impérial authentique et récit grec de la naissance : deux traditions de nature différente ».
+
+**Dossier iconographique 5 — Danaé et Persée dans le coffre.** Rechercher une photographie d'un vase grec ou d'un relief antique dont l'iconographie est explicitement identifiée et datée par un musée ou un corpus de vases, en privilégiant le **Beazley Archive Pottery Database** ou des catalogues muséaux. Ne pas attribuer une scène de Méduse au coffre de Danaé par simple présence de Persée. Une illustration de l'*Andromède* romantique, malgré sa beauté, n'est pas un témoin des *Tireurs de filets* d'Eschyle.
+
+**Dossier iconographique 6 — Œdipe et les chevilles blessées.** Réaliser une édition graphique originale des étapes de l'enquête **Sophocle, v. 711–725, 1016–1045, 1110–1185**, sur fond neutre conforme à la charte noir et or de MYTHOS. Le schéma distingue **événement raconté**, **témoignage** et **inférence**. Sources : [CHS, Sophocle](https://www-current.chs.harvard.edu/primary-source/sophocles-oedipus-tyrannus-sb/) et édition Jebb de Perseus. Ne pas figurer une scène inventée comme vestige.
+
+**Dossier iconographique 7 — Romulus et Rémus, prudence sur la Louve capitoline.** Une photographie de la **Louve capitoline**, Musées du Capitole (Rome), doit indiquer séparément la controverse sur la datation du corps de l'animal et l'ajout des jumeaux à la Renaissance. Une pièce numismatique romaine à motif de louve peut offrir un témoin daté plus directement antique, après vérification du numéro de catalogue. **Légende :** « Le motif est antique ; la datation de cette statue précise demeure controversée ».
+
+**Dossier iconographique 8 — Karṇa et le fleuve.** Rechercher une peinture de manuscrit du *Mahābhārata* auprès d'une institution conservant provenance, date, école, folio et inventaire exact ; une image contemporaine de télévision ou de cinéma n'est pas une miniature ancienne. Produire à défaut un **diagramme original** distinguant la naissance selon le *Ādiparvan* et le trajet rétrospectif des eaux, avec **régime narratif** clairement indiqué.
+
+**Dossier iconographique 9 — Vasudeva traverse la Yamunā.** Une miniature indienne tardive représentant Kṛṣṇa porté par Vasudeva peut être sélectionnée dans les catalogues du **Metropolitan Museum of Art**, de la **British Library**, du **Victoria and Albert Museum** ou du **Cleveland Museum of Art**, à condition de vérifier l'inventaire et les droits. **Légende :** « Réception peinte d'un texte purāṇique : Vasudeva porte le nourrisson, il ne l'abandonne pas au courant ». Le texte source est [Bhāgavata X,3,47–53](https://www.vedabase.net/sb/10/3/index.htm).
+
+**Dossier iconographique 10 — Matrice intertextuelle de l'exposition.** Création infographique originale MYTHOS en colonnes, à partir du tableau critique ci-dessus : danger, lieu, transfert, sauveur, origine, reconnaissance, issue. **Aucune image de synthèse ne doit fusionner la louve romaine, la fille du pharaon et la déesse Yogamāyā comme si un même événement archéologique les avait réunies.**
+
+## XIV. Bibliographie primaire et études critiques
+
+### Sources primaires, éditions et témoins
+
+1. **Sargon d'Akkad**, *Légende de la naissance de Sargon*, col. I, lignes 1–13 ; témoin **K.3401 + Sm.2118**, Ninive, copie néo-assyrienne ; édition **Cuneiform Texts from Babylonian Tablets in the British Museum**, vol. 13, pl. 42–43. [Notice ETANA, texte traduit](https://etana.org/node/578) ; [image du témoin, licence CC BY 2.5](https://commons.wikimedia.org/wiki/File:Birth_of_Sargon_BM_ME_K.3401.jpg).
+2. **Bible hébraïque**, *Exode* **1,8–22 ; 2,1–10** ; forme têḇāh en **Gn 6–9**. [Édition hébraïque et traductions, Sefaria](https://www.sefaria.org/Exodus.2.1-10).
+3. **Hérodote**, *Enquête* **I,107–122**, spécialement **I,110** (Mitradatès, Spakō) et **I,122** (version de la chienne). [I,110](https://lexundria.com/hdt/1.110/mcly) ; [I,122](https://lexundria.com/hdt/1.122/mcly).
+4. **Xénophon**, *Cyropédie* **I,2,1–3**, contrepoint au récit de l'enfance de Cyrus chez Hérodote.
+5. **Cylindre de Cyrus**, British Museum **1880,0617.1941**, inscription royale achéménide relative à l'action souveraine, mais **pas** récit d'exposition. [Notice du musée](https://www.britishmuseum.org/collection/object/W_1880-0617-1941).
+6. **Pseudo-Apollodore**, *Bibliothèque* **II,4,1–4**, Danaé et Persée, coffre, Sériphos, Dictys. [Texte bilingue en anglais](https://www.theoi.com/Text/Apollodorus2.html).
+7. **Eschyle**, *Diktyoulkoi* (*Les Tireurs de filets*), fragments papyrologiques ; référentiel **Tragicorum Graecorum Fragmenta** et éditions papyrologiques à vérifier par fragment.
+8. **Sophocle**, *Œdipe roi* **v. 711–725 ; 1016–1045 ; 1110–1185**. [Center for Hellenic Studies, traduction révisée Jebb](https://www-current.chs.harvard.edu/primary-source/sophocles-oedipus-tyrannus-sb/).
+9. **Aristote**, *Poétique* **1452a29–b8**, reconnaissance et péripétie comme catégories d'analyse dramatique.
+10. **Tite-Live**, *Ab urbe condita* **I,3–4**, jumeaux albains, Tibre et louve ; **I,6–7**, fondation et rivalité. [Édition numérique](https://www.perseus.tufts.edu/hopper/text?doc=Liv.%201.4).
+11. **Plutarque**, *Vie de Romulus* **3–4**, variantes de la naissance et de la découverte. [Texte grec et traduction](https://www.greekmythology.com/sources/plutarch/life-of-romulus).
+12. **Mahābhārata**, *Ādiparvan*, **Sambhava-parvan, section CXI**, naissance de Karṇa dans la numérotation de **K. M. Ganguli** ; **Vanaparvan**, récit rétrospectif du destin du nourrisson (numérotation à préciser par édition). [Traduction Ganguli](https://www.wisdomlib.org/hinduism/book/the-mahabharata-mohan).
+13. **Bhāgavata Purāṇa**, chant **X, chapitres 1–4**, spécialement **X,3,47–53** (transfert, échange et Yamunā), **X,4** (manifestation de Yogamāyā). [Texte sanskrit X,3,47](https://vedabase.io/en/library/sb/10/3/47/), [chapitre X,3](https://www.vedabase.net/sb/10/3/index.htm). Les commentaires dévotionnels ne constituent pas une édition critique unique de toutes les versions.
+
+### Monographies, éditions, historiographie
+
+14. **Lewis, Brian**, *The Sargon Legend: A Study of the Akkadian Text and the Tale of the Hero Who Was Exposed at Birth*, ASOR Dissertation Series **4**, 1980. Philologie et motifs du héros exposé.
+15. **Westenholz, Joan Goodnick**, *Legends of the Kings of Akkade: The Texts*, Eisenbrauns, **1997**. Édition et commentaire des légendes royales akkadiens.
+16. **Westenholz, Joan Goodnick**, compte rendu de Lewis, *Journal of Near Eastern Studies* **43/1**, janvier **1984**, p. 73–79. [DOI 10.1086/373065](https://www.journals.uchicago.edu/doi/10.1086/373065).
+17. **Rank, Otto**, *Der Mythus der Geburt des Helden*, 1909 ; traductions sous le titre *The Myth of the Birth of the Hero*. Histoire d'une interprétation psychanalytique, à distinguer d'une édition critique.
+18. **Gunkel, Hermann**, *Genesis* et travaux de critique des genres (*Formgeschichte*), début du XXe siècle. Pour la méthode comparative, non comme preuve matérielle d'emprunt direct d'Exode 2 à Sargon.
+19. **Propp, Vladimir**, *Morphologie du conte* (1928). Instrument de description structurale, non source primaire des récits antiques ni preuve d'une origine unique.
+20. **Zucker, David J.**, « She Named Him Moses », *Jewish Bible Quarterly* **47/1**, **2019**, p. 50–54. Problème du sujet de l'acte de nomination. [Résumé](https://www.jewishbible.org/articles/she-named-him-moses/).
+21. **TheTorah.com**, « Did Pharaoh’s Daughter Name Moses? In Hebrew? », commentaire philologique et critique d'Exode 2,10. [Étude](https://www.thetorah.com/article/did-pharaohs-daughter-name-moses-in-hebrew). À lire conjointement aux éditions textuelles hébraïques.
+22. **West, M. L.**, *The East Face of Helicon: West Asiatic Elements in Greek Poetry and Myth*, Oxford, Clarendon Press, **1997**. Pour les hypothèses de contacts gréco-orientaux ; la présence de parallèles n'autorise pas à conclure un emprunt particulier sans preuve.
+23. **Gantz, Timothy**, *Early Greek Myth: A Guide to Literary and Artistic Sources*, Johns Hopkins University Press, **1993**. Contextualisation du cycle de Persée et des variantes anciennes.
+24. **Jebb, R. C.**, *Sophocles: The Plays and Fragments, Part I: The Oedipus Tyrannus*, Cambridge, **1883–1887** selon édition ; commentaire grec et traduction. Voir [Perseus, Œdipe roi](https://beta.perseus.tufts.edu/urn:cts:greekLit:tlg0011.tlg004.perseus-eng2:911-1085/).
+25. **Burkert, Walter**, *The Orientalizing Revolution: Near Eastern Influence on Greek Culture in the Early Archaic Age*, Harvard University Press, **1992**. Cadre méthodologique de transmissions possibles, jamais preuve automatique pour les huit récits.
+26. **Bremmer, Jan N., et Andrew Erskine (dir.)**, *The Gods of Ancient Greece*, Edinburgh University Press, **2010**. Religions grecques et limites des reconstructions homogénéisantes.
+27. **Oakley, John H.**, *Picturing Death in Classical Athens: The Evidence of the White Lekythoi*, Cambridge, **2004**. Pour distinguer les images anciennes de la vie familiale et leurs usages iconographiques ; non source d'une scène particulière de Persée.
+28. **Gonda, Jan**, *Aspects of Early Viṣṇuism*, Utrecht, **1954**. Histoire de traditions religieuses à distinguer du texte purāṇique complet.
+29. **Bryant, Edwin F. (dir.)**, *Krishna: A Sourcebook*, Oxford University Press, **2007**. Éditions et analyses des traditions de Kṛṣṇa. [Notice de l'éditeur](https://books.google.com/books/about/Krishna.html?id=2n4VDAAAQBAJ).
+30. **van Buitenen, J. A. B.**, *The Mahābhārata*, University of Chicago Press, vol. 1, **1973**. Traduction savante du premier livre à confronter à Ganguli et à l'édition critique de Pune.
+31. **Bhandarkar Oriental Research Institute**, *The Mahābhārata: Critical Edition*, Pune, **1933–1972**, plusieurs volumes. Les subdivisions diffèrent des traductions traditionnelles de Ganguli.
+32. **Olivelle, Patrick**, *Manu’s Code of Law: A Critical Edition and Translation of the Mānava-Dharmaśāstra*, Oxford University Press, **2005**. Normes textuelles de famille et de statut social ; **ne décrit pas directement** les faits réels de la jeunesse de Karṇa.
+33. **Wiseman, T. P.**, *Remus: A Roman Myth*, Cambridge University Press, **1995**. Étude historique du récit de fondation et de ses usages romains.
+34. **Cornell, T. J.**, *The Beginnings of Rome: Italy and Rome from the Bronze Age to the Punic Wars*, Routledge, **1995**. Confrontation des traditions fondatrices et des données archéologiques.
+35. **Beazley Archive Pottery Database**, répertoire de vases grecs, pour identifier sans invention des représentations de Danaé et Persée (attribution, forme, provenance, datation).
+36. **British Museum**, notice du cylindre de Cyrus, **1880,0617.1941** ; **Wikimedia Commons**, notice photographique **K.3401** : supports à fonctions et chronologies différentes, à ne pas interchanger.
+
+### Conclusion de la vérification bibliographique [É]
+
+La liste fournit des **sources effectivement localisables**. Plusieurs œuvres secondaires ont ici une fonction de **lecture recommandée** plutôt que de fondement d'une phrase prétendument extraite du volume : aucune page non consultée n'est présentée comme citée littéralement. Les éditions numériques en anglais sont des moyens de contrôle ; la numérotation ancienne et la variation des traditions demeurent prioritaires sur les paraphrases modernes. Le texte doit être mis à jour si une nouvelle collation, datation ou documentation de musée déplace une conclusion.
+
+## XV. Résultats et limites
+
+### 94. Ce que l'on peut soutenir [A/I]
+
+Huit ensembles présentent, à différents degrés, des enfants menacés dont la vie dépend d'une intervention hors de la famille ou du pouvoir qui veut leur disparition. Certains mobilisent l'eau, d'autres la montagne ; certains confient l'issue aux hommes, d'autres à une puissance animale ou divine. Les textes donnent au sauvetage des fonctions variables : légitimer le fondateur d'un empire, constituer une figure de libération, annoncer la défaite d'un souverain, explorer la vérité tragique d'une filiation ou interroger la loyauté entre familles. Le résultat comparatif le plus solide réside dans cette **variabilité réglée** : l'enfant fragile est un point d'entrée narratif vers les contradictions du pouvoir et de la parenté.
+
+### 95. Ce que l'on ne peut pas conclure [H]
+
+Il n'est pas établi que Sargon, Moïse, Cyrus, Persée, Œdipe, Romulus, Karṇa et Kṛṣṇa aient été exposés historiquement dans les conditions décrites. Une tablette authentique n'authentifie pas son récit de première personne ; la réalité de Cyrus ne confirme pas les rêves d'Astyage ; une fresque de la Renaissance ne prouve rien sur un sacrifice antique. La structure d'un bébé au fleuve ne suffit pas à prouver un **emprunt direct**, une **origine psychologique universelle**, un **rite d'adoption identique partout** ou un **archétype religieux unique**. Même l'exposition elle-même doit être distinguée de la traversée protectrice organisée dans le *Bhāgavata Purāṇa*.
+
+### 96. Protocole de publication, de correction et de renvoi [É]
+
+Après la réception GitHub, le moteur attribuera le **prochain numéro romain réellement libre** et créera le fichier canonique, son reçu, le sommaire et les sorties de site dans la même transaction. Le rédacteur n'attribue pas ce numéro, ne modifie pas le registre, n'écrit pas directement sous *chapitres/comparatif/* et ne crée aucun doublon de MC-043 ou MC-042. Les renvois internes pertinents sont MC-043 (« Le lait des dieux »), MC-037 (le fleuve comme juge), les dossiers de l'*Œdipe roi*, des *Tireurs de filets*, de la naissance de Rome et des origines du sacré sur la protection des enfants. Les images prévues doivent être intégrées seulement après validation de leurs licences et inventaires.
+
+### 97. Synthèse philosophique finale [P]
+
+Ces histoires décrivent un paradoxe : la puissance future vient d'une vie sur laquelle les puissants ont exercé, ou voulu exercer, le pouvoir de mort. Le sauvetage ne supprime pas les blessures ; l'adoption peut devenir une autre forme de fidélité ; la vérité biologique peut arriver trop tard ; le fleuve peut séparer ou rendre possible une renaissance sociale. L'enfant exposé révèle ainsi les limites de la souveraineté comme capacité de tout prévoir. Le récit le fait passer de l'objet d'une décision à un sujet qui, plus tard, dément les certitudes de ses persécuteurs. Ce paradoxe ne prouve pas une loi universelle du destin, mais ouvre une enquête comparative précise sur **l'autorité, la dépendance, l'incertitude et la reconnaissance**.
+
+
+**FIN — MC-044.** Document prêt pour la file éditoriale GitHub. Aucun nouveau MC-045 n'est réservé ici. Les autres séries MYTHOS, leurs horaires, leurs archives et leur numérotation ne sont pas modifiés. Toute annonce de publication sur bobmythos.fr dépendra d'un contrôle indépendant du registre, des workflows et de l'URL HTTPS finale.
