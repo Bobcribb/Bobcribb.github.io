@@ -386,6 +386,8 @@ def main():
     n_styled = apply_museum_design(OUT)
     print(f"Identité muséale commune : {n_styled} pages HTML.")
     enhance(OUT, ROOT)
+    from improve_reading import install_civilisation_reciprocal_navigation
+    install_civilisation_reciprocal_navigation(OUT, ROOT)
     from build_reading_pdfs import build as build_reading_pdfs
     build_reading_pdfs(OUT)
     verify_sources(protected_sources)
