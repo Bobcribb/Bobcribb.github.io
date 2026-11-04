@@ -1,11 +1,26 @@
 {
   "status": "passed",
-  "indexed_entries": 1185,
-  "pages_scanned": 1231,
-  "readers_equipped": 860,
-  "links_checked": 88510,
+  "indexed_entries": 1195,
+  "pages_scanned": 1241,
+  "readers_equipped": 865,
+  "links_checked": 89127,
   "new_navigation_errors": [],
   "legacy_link_issues": [
+    {
+      "page": "/chapitres/comedies/volume-065-telekleides-hesiodoi-poesie-verite-cite-pericles/index.html",
+      "url": "../../chapitres/comedies/volume-064-telekleides-prytaneis-boule-tholos-memoire-pouvoir/",
+      "problem": "fichier absent"
+    },
+    {
+      "page": "/chapitres/comedies/volume-065-telekleides-hesiodoi-poesie-verite-cite-pericles/index.html",
+      "url": "../../theatre/",
+      "problem": "fichier absent"
+    },
+    {
+      "page": "/chapitres/comedies/volume-065-telekleides-hesiodoi-poesie-verite-cite-pericles/index.html",
+      "url": "../../catalogue-integral/",
+      "problem": "fichier absent"
+    },
     {
       "page": "/corpus/origines-du-sacre/edition-integrale-tomes-I-XXVII.html",
       "url": "#top",

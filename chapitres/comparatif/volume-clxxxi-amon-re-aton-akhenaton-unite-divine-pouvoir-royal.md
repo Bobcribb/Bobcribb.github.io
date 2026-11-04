@@ -1,0 +1,539 @@
+# MYTHOS — Cycle universitaire de mythologie comparée — Volume CLXXXI (181)
+
+## MC-024 — Amon, Rê et Aton : unité divine, pouvoir royal et révolution religieuse d’Akhenaton
+
+**Collection :** Mythologie comparée — dossier historique MC-024, intégré à la numérotation canonique romaine du cycle comparatif pour ne pas créer une seconde attribution concurrente.  
+**Date de rédaction :** 4 novembre 2026.  
+**Statut scientifique :** étude documentaire et interprétative originale, destinée à la publication publique ; les sources citées sont vérifiables dans les éditions, inscriptions, catalogues et ressources institutionnelles indiqués.  
+**Continuité éditoriale :** retour critique sur une lacune de la série MC initiale. Le volume n'est pas présenté comme un nouveau chapitre des Origines du sacré et ne modifie pas les monographies anthropologiques déjà existantes.
+
+### Résumé
+
+La transformation religieuse entreprise sous Amenhotep IV, devenu Akhenaton, au XIVe siècle avant notre ère, pose un problème méthodologique majeur : comment l'Égypte, dont les traditions avaient depuis longtemps articulé pluralité des dieux et langage de l'unité, put-elle connaître une réforme concentrant la manifestation du divin sur le disque solaire Aton et l'accès au culte officiel sur le couple royal ? La question dépasse une opposition simpliste entre « polythéisme » et « monothéisme ». Elle exige de distinguer les formulations des hymnes, les titulatures divines, les pratiques des sanctuaires, la ville neuve d'Akhetaton, les objets domestiques, la destruction de monuments et la mémoire reconstruite après le règne.
+
+L'étude soutient une thèse à deux volets. D'une part, l'atonisme officiel radicalise une tendance solaire déjà présente dans l'Égypte du Nouvel Empire ; d'autre part, l'exclusion progressive de certaines médiations divines, la place unique accordée au souverain et la restructuration matérielle de l'espace cultuel produisent une rupture réelle. L'universalisme cosmique de l'hymne — la lumière vivifie tous les pays et toutes les créatures — ne doit pas être confondu avec un universalisme institutionnel : le dispositif royal demeure fortement hiérarchisé. Les parallèles avec les hymnes à Shamash, les traditions d'Israël, les religions iraniennes et les philosophies grecques fournissent des outils de comparaison, mais aucune preuve automatique d'une transmission historique.
+
+### Légende critique
+
+- **[D] Donnée directement documentée :** inscription, texte identifié, objet inventorié ou résultat de fouille. L'existence d'une affirmation dans une source est un fait documentaire ; son contenu n'est pas automatiquement un fait observé.
+- **[I] Inférence historique :** proposition argumentée reliant plusieurs documents, avec limites explicitées.
+- **[H] Hypothèse :** restitution possible mais contestable, notamment pour les motivations des protagonistes, les filiations religieuses et les lacunes de sources.
+- **[P] Lecture philosophique :** comparaison conceptuelle élaborée aujourd'hui ; elle ne prétend pas exprimer les catégories conscientes des anciens Égyptiens.
+
+Les translittérations suivent de manière indicative les conventions des études égyptologiques ; lorsque des formes simplifiées sont employées pour un lectorat français, elles ne remplacent pas une édition hiéroglyphique. Les datations absolues du XIVe siècle sont approximatives ; les années de règne inscrites sont généralement plus sûres.
+
+---
+
+## I. Poser le problème sans projeter le monothéisme moderne
+
+### 1. L'un, les dieux et les manifestations [I]
+
+L'Égypte ancienne ne se décrit pas adéquatement comme un catalogue de dieux entièrement séparés. Certaines compositions montrent un dieu « unique » par excellence, créateur et englobant, tandis que d'autres textes valorisent l'action conjointe de plusieurs puissances. Une formule d'unicité peut fonctionner comme une louange comparative, une revendication de souveraineté locale, une proposition cosmologique ou une exclusion véritable. L'historien doit vérifier sa fonction dans chaque texte. L'existence d'épithètes d'unicité appliquées à Amon ou à Rê avant Akhenaton ne prouve pas que le culte d'Aton n'aurait rien changé.
+
+Inversement, parler de « premier monothéisme de l'histoire » réduit une documentation instable à un slogan. Il faut distinguer *monolâtrie* (culte privilégié ou exclusif rendu à une divinité, sans nécessairement nier les autres), *hénothéisme* (prédominance contextuelle d'un dieu), universalisation solaire, et *monothéisme exclusif* (mise en question de la réalité ou de la légitimité d'autres dieux). Ces notions sont des catégories modernes, dont l'emploi doit être discuté avant d'être appliqué aux inscriptions.
+
+### 2. Une double erreur fréquente [I]
+
+Première erreur : identifier les divinités au moyen d'une formule évolutionniste où la « religion primitive » progresserait mécaniquement vers une vérité monothéiste. Deuxième erreur : nier la rupture parce que l'Égypte savait déjà parler du dieu créateur comme d'un être unique. Le problème historique est précisément de savoir **ce que l'exclusivité d'Aton fait aux cultes, à l'espace, à l'image, à la cour et aux institutions**, et non de compter seulement les occurrences du mot « un ».
+
+### 3. Une documentation royalement orientée [D/I]
+
+Une très grande partie du dossier provient de la cour : dédicaces, noms royaux, hymnes dans les tombes de dignitaires, stèles de fondation et scènes de temple. Un texte célébrant la doctrine du souverain ne permet donc pas de mesurer directement les convictions de chaque habitant. À l'inverse, les objets privés découverts à Amarna sont indispensables pour tester la diffusion sociale de la réforme.
+
+**Sources méthodologiques :** Anna Stevens, « The Archaeology of Amarna », *Oxford Handbook of Topics in Archaeology* (2015), DOI 10.1093/oxfordhb/9780199935413.013.31 ; Marsha Hill, « Art, Architecture, and the City in the Reign of Amenhotep IV / Akhenaten », Metropolitan Museum of Art (2014).
+
+---
+
+## II. Les trois noms : une histoire philologique, non trois synonymes
+
+### 4. Amon : le divin « caché » [D/I]
+
+Amon, fréquemment transcrit *Jmn* ou *Imn*, est lié au champ lexical du caché, de l'inaccessible à la perception directe. Ce sens traditionnel du théonyme n'autorise pas à conclure que toute référence à Amon serait une doctrine abstraite de la transcendance. Amon possède des images, des lieux, des processions, des hymnes et des cultes précis. Sa puissance thébaine se renforce avec la XVIIe puis la XVIIIe dynastie. La combinaison Amon-Rê unit une divinité fortement implantée à Thèbes et l'héritage de la souveraineté solaire.
+
+Les hymnes à Amon peuvent souligner qu'il demeure insaisissable, présent sous de nombreux noms et pourtant non réductible à ses manifestations. Cette pluralité sémantique ouvre la possibilité d'une pensée de l'unité **sans** qu'il faille restituer un dogme fixe. Il faut tenir compte des versions et dates des compositions, et ne pas lire rétroactivement un théologien unique à travers plusieurs siècles.
+
+### 5. Rê : dieu solaire et langage de la royauté [D]
+
+Rê, translittéré *Rꜥ*, intervient dans de nombreuses articulations théologiques : Rê-Horakhty, Atoum-Rê, Amon-Rê. Il est présent dans les titulatures royales, dans les traditions héliopolitaines, dans les parcours diurnes et nocturnes du soleil, et dans les textes funéraires. Sa relation avec le souverain possède une histoire longue, irréductible au règne d'Akhenaton. L'existence de configurations composites souligne que l'ancienne religion ne traitait pas nécessairement l'identité divine comme une équation exigeant l'élimination de tous les autres noms.
+
+### 6. Aton : du disque visible au sujet de la théologie officielle [D/I]
+
+Aton, égyptien *jtn* ou *itn*, désigne le disque solaire. Le terme peut apparaître avant Akhenaton comme un mot lié à l'astre visible ; sous la réforme, il devient le centre d'une titulature divine encadrée de cartouches, dispositif graphique normalement associé à la royauté. Cette transformation est décisive : le disque n'est pas seulement un symbole de la lumière parmi d'autres, mais le foyer officiel de la souveraineté cosmique.
+
+Dans la formule du nom d'Akhenaton, l'élément *ꜣḫ* (*akh*) présente un champ de sens complexe, évoquant l'efficacité, la puissance transfigurée et la capacité d'agir. La traduction courante « efficace pour Aton » ou « utile à Aton » est préférable à une pseudo-étymologie psychologique du nom. L'University College London souligne précisément la difficulté de rendre ce mot par un équivalent français ou anglais unique.
+
+### 7. Les noms propres comme actions politiques [I]
+
+Amenhotep IV signifie conventionnellement « Amon est satisfait ». Le passage à Akhenaton rompt avec une référence divine dominante inscrite dans le nom même du roi. *ꜣḫt-jtn* (*Akhetaton*), « Horizon d'Aton », désigne la ville nouvelle. *Nfr-ḫprw-Rꜥ Wꜥ-n-Rꜥ*, généralement traduit « Parfaites sont les manifestations de Rê, l'unique de Rê », est le nom de couronnement du souverain. Ces noms sont des formules de légitimation : ils inscrivent publiquement une relation entre la personne royale, la puissance solaire et le territoire.
+
+**Référence philologique contrôlable :** UCL Digital Egypt, « Belief in one god in ancient Egypt » et « The Boundary Stelae of Akhenaten » :  
+https://www.ucl.ac.uk/museums-static/digitalegypt/amarna/belief.html  
+https://www.ucl.ac.uk/museums-static/digitalegypt/amarna/boundary.html
+
+---
+
+## III. Avant la rupture : Amon-Rê, l'héritage solaire et Amenhotep III
+
+### 8. La royauté solaire ne naît pas à Amarna [D/I]
+
+Bien avant le XIVe siècle, les rois entretiennent un rapport privilégié avec Rê, et la royauté thébaine met en valeur Amon-Rê. Les rituels de temple, les formes du dieu et les compositions hymniques articulent création, protection du pays et pouvoir royal. Au Nouvel Empire, l'importance des paysages solaires et des noms composés s'accentue. Les monuments d'Amenhotep III témoignent d'une monumentalisation spectaculaire du souverain et de la sphère solaire.
+
+Le père d'Akhenaton a déjà exalté sa propre présence royale et utilisé des expressions associant rayonnement, vie et universalité. Il serait néanmoins fautif de réduire la politique d'Akhenaton à une simple continuation de celle d'Amenhotep III : les formes graphiques, les dispositifs de temple et surtout l'exclusion progressive des noms divins concurrents requièrent une explication propre.
+
+### 9. Les limites de l'idée de « crise des prêtres » [H]
+
+Une explication traditionnelle fait de la réforme une tentative royale de neutraliser le pouvoir économique du clergé d'Amon. Un conflit d'intérêts institutionnels est plausible ; il n'est pas établi par une série documentaire montrant clairement les intentions privées du roi et l'ensemble des revenus transférés. Une politique religieuse peut simultanément produire des effets financiers, affirmer un idéal cosmologique, créer un entourage favorable et rompre des solidarités cultuelles. La causalité exclusive par les richesses d'Amon relève de la reconstruction, pas d'une confession d'Akhenaton.
+
+### 10. L'héritage du Nouvel Empire [I]
+
+Une hypothèse raisonnable est celle d'une **radicalisation** : un langage ancien qui faisait du soleil la condition de la vie devient, dans le programme d'État, une langue susceptible d'écarter d'autres lieux, noms et autorités religieuses. Le passage de l'unité inclusive à une concentration cultuelle exclusive constitue le véritable objet historique.
+
+---
+
+## IV. Chronologie raisonnée d'une réforme
+
+### 11. Les premières années à Karnak [D]
+
+Amenhotep IV monte sur le trône à la XVIIIe dynastie. Les premières campagnes monumentales demeurent liées à Karnak, notamment à des espaces orientaux voués à Rê-Horakhty et à Aton. Les blocs de petit format, souvent appelés *talatat*, ont été réemployés plus tard comme matériaux de remplissage dans des constructions. Ce remploi a préservé, de manière fragmentaire et hors contexte primaire, des scènes essentielles de la phase initiale.
+
+Les études iconographiques distinguent l'apparition graduelle de nouveaux canons corporels, l'adoption du disque rayonnant terminé par des mains, et les étapes de fixation du nom didactique d'Aton. Il ne faut pas projeter sur la première année le système pleinement développé des reliefs d'Amarna.
+
+### 12. La titulature didactique d'Aton [D/I]
+
+Le dieu reçoit un nom long, inséré dans deux cartouches. La première forme le rapproche encore de Rê-Horakhty et de Shou, puissance de l'air et de la lumière. La seconde forme simplifie ou élimine des références à ces divinités nommées. La date précise de la révision reste débattue : Marsha Hill signale que des indices amènent à envisager une fixation plus tardive qu'on ne l'a longtemps pensé, peut-être après l'an 12. En conséquence, une chronologie qui placerait dogmatiquement la suppression de tous les noms « anciens » en l'an 9 doit être présentée comme discutée.
+
+### 13. Année 5 : changement de nom et proclamation du site [D]
+
+Le roi adopte le nom Akhenaton et fait d'un site de Moyenne-Égypte le siège projeté d'Akhetaton. Les stèles anciennes K, M et X transmettent la première proclamation de fondation ; elles sont endommagées, et leur datation se discute selon l'état des témoins et les reconstructions. Le projet annonce un territoire consacré à Aton. La proclamation d'un lieu « non possédé » auparavant par un autre dieu relève d'un discours royal de fondation, à examiner à la lumière de l'archéologie et non à reprendre sans recul.
+
+### 14. Années 6 et 8 : délimiter, jurer, réitérer [D]
+
+La deuxième proclamation, présente notamment sur les stèles A, B, F, J, N, P, Q, R, S, U et V, précise les limites de la ville. La stèle S conserve une date de l'an 6, quatrième mois de la saison *Peret*, jour 13. Des ajouts de l'an 8 réaffirment la dédicace. Le fait de renouveler le serment est lui-même signifiant : le territoire d'Aton est inscrit dans une durée politique, légale et mémorielle.
+
+### 15. Après l'installation : une ville au travail [D/I]
+
+Akhetaton fonctionne comme résidence royale, centre de temples, lieu d'administration, espace artisanal, site de dépôt de correspondances internationales et ensemble de quartiers aux fortes différences sociales. On y construit, cuit le pain, fabrique des objets, entrepose des ressources, élève des enfants, soigne les vivants et enterre les morts. Les vestiges de plus d'un millier de maisons documentées montrent qu'une « révolution religieuse » n'efface pas les contraintes quotidiennes.
+
+### 16. Mort et succession : conserver une chronologie prudente [I]
+
+Le règne est souvent évalué à environ dix-sept années, mais les chronologies absolues et la succession immédiate demeurent sujets de débats. L'abandon de la fonction de capitale, le retour progressif aux cultes traditionnels et les destructions ultérieures ne doivent pas être amalgamés en une seule scène de « contre-révolution » survenue un jour unique.
+
+**Sources :** Amarna Project, « Boundary Stelae » ; Marsha Hill, Metropolitan Museum (2014) ; William J. Murnane et Charles C. Van Siclen III, *The Boundary Stelae of Akhenaten* (1993).
+
+---
+
+## V. Les stèles-frontières : la parole du souverain matérialisée
+
+### 17. La ville comme acte d'énonciation [D/I]
+
+Une stèle-frontière n'est pas seulement une borne topographique. Son inscription associe date, épithètes, dédicace divine, promesses de construction et délimitation. La parole royale affirme qu'un espace est défini pour Aton. Elle matérialise une opération performative : en la gravant, le pouvoir proclame publiquement l'ordre qu'il entend instituer. Cela n'implique pas que l'écriture ait suffi, à elle seule, à contrôler la totalité du territoire : la construction, la surveillance et l'approvisionnement sont des opérations distinctes.
+
+### 18. Lecture de l'en-tête de la stèle S [D]
+
+La transcription pédagogique de l'UCL ouvre par la datation « rnpt-sp 6 Abd 4 prt sw 13 », suivie des titres du dieu et du roi. Elle désigne Aton vivant, Rê-Horakhty et la relation royale avec la *maât*, terme qui renvoie au juste ordre et à la vérité. Ce vocabulaire est essentiel : Akhenaton ne sort pas de l'ensemble des catégories égyptiennes ; il sélectionne, réordonne et requalifie certaines d'entre elles.
+
+Le double cartouche divin transpose dans le champ du dieu une graphie solennelle proche de l'écriture royale. La séquence des noms transforme la pierre en instrument de visibilité du lien entre le souverain et l'astre.
+
+### 19. Le refus d'une lecture trop littérale [I]
+
+Une phrase présentant Akhetaton comme appartenant exclusivement au dieu n'est pas un cadastre neutre. Les inscriptions sont composées pour rendre irrévocable une prétention. De même, les références aux déplacements du roi ne prouvent pas qu'il ne sortit plus jamais physiquement de la ville. L'UCL rappelle que certaines déclarations de permanence peuvent concerner la fixité des frontières plus que l'immobilité biographique du souverain.
+
+### 20. Géographie sacrée et administration [I]
+
+L'étendue d'Akhetaton comprend des zones de falaise, des terres agricoles, des voies de circulation, des nécropoles, des temples et des secteurs de palais. Le territoire sacré s'inscrit dans la géographie du Nil, dépend de récoltes et de transports. Une capitale dont le programme exalte la lumière du soleil demeure matériellement tributaire des terres cultivées, de l'eau, du travail humain et des circuits de distribution.
+
+**Témoins et éditions :** stèles K, M, X, S, A, B ; Norman de Garis Davies, *The Rock Tombs of El Amarna*, six parties (1903–1908) ; Murnane et Van Siclen (1993) ; https://www.amarnaproject.com/amarna-the-place/boundary-stelae/ ; https://www.ucl.ac.uk/museums-static/digitalegypt/amarna/boundary.html.
+
+---
+
+## VI. Le Grand Hymne à Aton : témoin, transmission et structure
+
+### 21. Un texte inscrit, non un traité systématique [D]
+
+Le *Grand Hymne à Aton* est conservé dans la tombe d'Aÿ, à Amarna, tombe méridionale no 25, sur la paroi occidentale. Treize colonnes de hiéroglyphes présentent une louange au dieu solaire et à sa puissance créatrice. Les copies modernes sont indispensables car l'original a subi des dégradations depuis sa découverte. Les planches 27 et 41 de N. de G. Davies, *The Rock Tombs of El Amarna*, VI (1908), ainsi que les pages 93–96 de Maj Sandman, *Texts from the Time of Akhenaten* (1938), constituent des jalons matériels de sa transmission.
+
+L'hymne est souvent rattaché à Akhenaton. L'attribution personnelle de chaque vers au souverain est toutefois moins assurée que son usage dans l'environnement idéologique de sa cour. Une composition royale peut être diffusée, copiée ou adaptée sans laisser identifier son rédacteur au sens moderne.
+
+### 22. La montée du disque : cosmologie de l'apparition [D/I]
+
+Le texte s'ouvre sur l'apparition lumineuse du disque à l'horizon. La translittération initiale, « xay.k nfr m Axt nt pt », insiste sur la beauté de cette manifestation. La lumière rend visible le monde et en réveille les habitants. La comparaison avec les hymnes solaires plus anciens montre une continuité formelle : un dieu se lève, éclaire, maintient l'ordre, nourrit le vivant. La spécificité amarnienne vient du faisceau de relations entourant cette louange : exclusivité divine, inscription dans des tombes proches du pouvoir et médiation royale.
+
+### 23. La nuit comme menace [D/I]
+
+La disparition du soleil dans l'horizon occidental introduit une analogie entre obscurité et mort. Le texte évoque le sommeil, l'absence de vision, les prédateurs et l'arrêt apparent de l'activité. Il s'agit d'une construction poétique et théologique, non d'un relevé biologique décrivant des espèces réellement inactives à chaque coucher du soleil. La nuit est pensée comme un retrait de l'accès à la vie lumineuse ; le retour du disque redistribue la possibilité d'agir.
+
+Les cosmologies égyptiennes plus anciennes ont souvent développé la circulation nocturne du soleil dans des régions invisibles, en relation avec Osiris et les puissances de l'au-delà. L'hymne amarnien privilégie un autre régime d'énonciation. Une absence de description détaillée des enfers ne suffit pourtant pas à prouver que tous les habitants ont cessé de pratiquer les rites funéraires.
+
+### 24. La création et l'entretien continu du monde [D/I]
+
+L'hymne évoque animaux, oiseaux, poissons, végétation, gestation et naissance. La fécondité n'y apparaît pas comme une opération achevée une fois pour toutes ; l'action d'Aton accompagne le rythme présent du monde. Les rayons ne sont pas seulement une métaphore esthétique : ils deviennent la forme visible par laquelle l'iconographie signifie la vie accordée par le dieu.
+
+Cette théologie accorde une dignité descriptive remarquable aux phénomènes naturels. Mais il serait anachronique de l'assimiler à une science expérimentale ou à une philosophie naturaliste au sens du XVIIe siècle. Le texte relie les phénomènes observables à une intention divine et à une légitimation du souverain.
+
+### 25. L'unicité divine : une phrase à contexte [D/I]
+
+Dans une formulation célèbre, le texte emploie « pA nTr wa nn ky Hr-xw.f » : le dieu est qualifié d'unique, sans autre à ses côtés. L'énoncé se situe au cœur d'une description de la création et de l'organisation des pays. Il est plus exclusif qu'une simple épithète de grandeur, mais ne vaut pas automatiquement décret universel abolissant les cultes de tous les habitants. Pour mesurer les effets de cette proposition, il faut la relier aux scènes de temple et aux traces d'effacement des noms d'autres dieux.
+
+### 26. La connaissance réservée au fils royal [D/I]
+
+Un passage plus tardif affirme « iw.k m ib.i nn wn ky rx.tw », avant d'excepter le fils royal identifié par son nom de couronnement. La proximité divine et la connaissance sont donc distribuées inégalement : le monde reçoit la lumière, mais l'intimité doctrinale est attribuée au roi. Le problème religieux croise ici une théorie politique de l'accès au vrai : seul le souverain est officiellement décrit comme comprenant pleinement le dieu.
+
+Cela crée une tension structurante. La lumière d'Aton atteint tous les êtres ; la connaissance cultuelle qui la formule est institutionnellement concentrée. La portée universelle de la création et le caractère restreint de la médiation ne sont pas contradictoires dans le langage du régime : ils en sont les deux faces.
+
+### 27. Les peuples et les langues [D/I]
+
+L'hymne mentionne l'Égypte, le pays de Koush et les régions étrangères. Il explique les différences de langues, de couleurs de peau et de modes de vie par l'action créatrice d'Aton. Le passage est important pour l'histoire de l'universalisme cosmique : les étrangers ne sont pas hors de la création. Mais il serait infondé d'y lire une déclaration de citoyenneté égale, une abolition des hiérarchies impériales ou un programme moderne d'intégration politique.
+
+### 28. L'eau du ciel, le Nil et la distinction des milieux [D]
+
+Le dieu fait parvenir l'eau qui rend possible la vie, mais la description distingue le régime fluvial de l'Égypte et les pluies des terres étrangères. La théologie s'appuie sur une expérience géographique située. La différence entre les ressources du Nil et celles des autres pays est intégrée au discours de souveraineté du soleil. Il ne faut pas effacer ce savoir environnemental en réduisant le poème à une formule générale du type « le soleil est la vie ».
+
+**Texte principal et translittération :** UCL Digital Egypt, « Amarna Belief », https://www.ucl.ac.uk/museums-static/digitalegypt/amarna/belief.html (tombe d'Aÿ, texte, translittération et traduction de travail) ; Davies (1908), partie VI, pl. 27, 41 ; Sandman (1938), p. 93–96 ; Miriam Lichtheim, *Ancient Egyptian Literature*, II, University of California Press (1976), section consacrée au Grand Hymne.
+
+---
+
+## VII. Un dieu visible, des médiateurs humains indispensables
+
+### 29. Le disque rayonnant et les mains [D/I]
+
+L'iconographie ne présente généralement plus Aton comme une figure anthropomorphe comparable aux statues cultuelles traditionnelles. Le disque solaire, suspendu au-dessus des scènes, projette des rayons terminés par des mains. Certaines portent le signe de vie *ânkh* vers les narines du roi et des membres de la famille royale. Le langage visuel transforme la lumière en donation, tandis que le couple royal est représenté comme destinataire et distributeur de la présence divine.
+
+La visibilité du disque ne supprime donc pas la médiation. Elle peut la concentrer : le dieu est présenté comme perceptible dans le ciel, mais le cérémonial public met surtout en scène les royaux face à lui.
+
+### 30. Akhenaton, interprète exclusif [I]
+
+Les représentations du roi offrant au disque et recevant sa vie instituent une relation singulière. Les sujets ne sont pas décrits comme ayant tous un accès égal aux mystères d'Aton. Plusieurs inscriptions de dignitaires valorisent la faveur du roi comme condition de leur prospérité et parfois de leur destin. Cette centralité peut être comprise comme un resserrement de la fonction royale d'intercession, déjà connue en Égypte, mais modifiée par les contraintes de l'atonisme.
+
+### 31. Nefertiti : présence, rôle et incertitudes [D/I/H]
+
+Nefertiti apparaît avec une fréquence et une importance iconographique remarquables. Elle accomplit des gestes d'offrande, reçoit les rayons, accompagne les princesses et participe à la scène publique de la faveur divine. Cette place interdit de raconter la réforme comme l'acte solitaire d'un roi sans ses partenaires rituels et politiques.
+
+Il ne faut cependant pas transformer toute scène d'offrande en preuve d'une corégence juridique ou de la succession de Nefertiti sous un nom déterminé. La question de ses pouvoirs exacts et celle de ses dernières années restent ouvertes ; les catalogues institutionnels soulignent la pauvreté des témoignages directs biographiques.
+
+### 32. Les princesses : théologie de la famille [I]
+
+La représentation rapprochée des enfants, de l'affection parentale et de la vitalité familiale appartient au langage officiel. Elle rend la famille royale visible comme lieu privilégié de la vie offerte par Aton. Parler de « peinture réaliste d'une vie privée » négligerait les conventions de la commande et de la propagande. La scène familiale est également une scène politique.
+
+**Objet exemplaire :** stèle-altar domestique, Ägyptisches Museum und Papyrussammlung, Berlin, inventaire ÄM 14145 : https://search.smb.museum/object/obj-607132.
+
+---
+
+## VIII. Architecture, matière, économie : la réforme comme organisation de l'espace
+
+### 33. Le temple tourné vers la lumière [D/I]
+
+Les sanctuaires d'Aton privilégient des dispositifs de plein air, autels nombreux et espaces de circulation, en contraste relatif avec la dramaturgie de l'obscurité des sanctuaires traditionnels à naos. Cette opposition ne doit pas être durcie : l'architecture égyptienne antérieure connaissait déjà les cours solaires, et les constructions amarniennes comprenaient des zones hiérarchisées, des murs et des accès contrôlés.
+
+Le Grand Temple d'Aton et le Petit Temple d'Aton expriment l'articulation entre cérémonial, routes, palais et distribution des offrandes. Les fouilles ont mis en évidence des fondations et des installations bien plus complexes que les plans idéalisés connus à travers certains reliefs.
+
+### 34. Les tables d'offrande [D/I]
+
+Des centaines de tables et installations d'offrandes, avec de grandes boulangeries et des espaces de travail, rendent tangible l'économie cultuelle. Les reliefs montrent pains, fleurs, encens et bétail présentés au dieu. L'idéal théologique de la lumière universelle passe donc par des ressources matérielles : terres, animaux, corvées, artisans, transport, stockage et personnels de temple.
+
+Un bloc du Grand Temple, conservé au Metropolitan Museum, montre des autels garnis de pains et des bovins destinés au sacrifice. Il empêche de confondre la centralité nouvelle d'Aton avec l'abolition du rite matériel. Le culte continue d'exiger des dons concrets.
+
+### 35. Les talatat et la destruction ultérieure [D/I]
+
+La taille relativement réduite des blocs de construction a permis des chantiers rapides et des remaniements. Lorsque les monuments d'Aton furent démantelés, de nombreux talatat furent récupérés comme remplissage. Ce phénomène constitue simultanément une destruction politique et une chance pour l'archéologie : des fragments autrement disparus ont été protégés dans de nouvelles maçonneries. Reconstituer une scène demande toutefois de distinguer provenance de remploi, provenance originelle supposée et orientation de la composition.
+
+### 36. La ville et ses inégalités [D]
+
+Les vastes demeures de notables, les ateliers, les maisons modestes et les installations spécialisées révèlent une population diverse. L'idéologie des tombes de cour ne remplace pas l'étude des quartiers ni la paléoanthropologie des cimetières. La courte durée d'occupation de la ville offre une fenêtre historique rare, mais la conservation inégale des objets limite les conclusions quantitatives sur les cultes privés.
+
+**Sources archéologiques :** Barry Kemp et Amarna Project, « Great Aten Temple » https://www.amarnaproject.com/our-work/excavation-and-survey/great-aten-temple-background/ ; Anna Stevens (2015) ; Metropolitan Museum, talatat avec offrandes, 21.9.8, https://www.metmuseum.org/art/collection/search/572218.
+
+---
+
+## IX. Une révolution officielle, une société religieusement plurielle
+
+### 37. Les objets domestiques comme contrepoint [D/I]
+
+Des objets figurant Bès, Thouéris (Taweret), des figures protectrices et des amulettes ont été trouvés dans des contextes domestiques amarnéens. Ils signalent que la vie religieuse ne se limitait pas à la théologie affichée par le palais. Les divinités protectrices de l'accouchement, de l'enfance et de la santé ne disparaissent pas mécaniquement lorsque les scènes royales cessent de leur donner une place.
+
+L'argument doit néanmoins être formulé avec précision. Une figurine isolée n'indique ni la fréquence d'un rite, ni la pensée doctrinale de son possesseur, ni la nature juridique d'une éventuelle tolérance officielle. La répartition des artefacts, leur datation et le contexte de découverte sont essentiels.
+
+### 38. Ne pas confondre religion des élites et religion du foyer [I]
+
+Les images royales promettent une relation ordonnée au soleil créateur ; les objets domestiques expriment aussi des préoccupations liées à la naissance, à la protection et au bien-être. Les deux niveaux ne sont pas nécessairement des « religions » indépendantes, mais deux dispositifs d'action et de représentation. On ne peut transformer les non-conformités matérielles en simple résistance organisée ; elles peuvent être la continuité silencieuse de pratiques quotidiennes.
+
+### 39. Les sujets n'ont pas laissé un référendum théologique [I]
+
+Le régime produit des images, impose des noms et construit des institutions. Nous ignorons largement comment les habitants ordinaires formulaient intellectuellement leur rapport à Aton. Entre adhésion profonde, conformité publique, indifférence, adaptation et fidélité privée à des cultes antérieurs, le spectre des possibles est large. Le historien doit conserver cette pluralité tant que les sources ne permettent pas de trancher.
+
+**Source de synthèse :** Anna Stevens, « Domestic religious practices », *UCLA Encyclopedia of Egyptology* (2009), https://escholarship.org/uc/item/7s07628w ; UCL Digital Egypt, « Amarna Belief ».
+
+---
+
+## X. Les morts : suppression d'Osiris ou reconfiguration de l'au-delà ?
+
+### 40. Une théologie funéraire sous contrainte [D/I]
+
+L'ancienne religion funéraire multipliait les relations entre Rê, Osiris, le défunt, les formules rituelles et le renouvellement du corps. Dans les tombes amarniennes, les louanges à Aton, l'image royale et les scènes de dévotion diurne prennent une place notable. Les vestiges montrent aussi l'importance des sépultures royales et privées, qui ne disparaissent évidemment pas.
+
+Il serait erroné d'énoncer que les Égyptiens d'Amarna auraient « cessé de croire à la vie après la mort » par décret. Il faut distinguer les programmes officiels de décoration funéraire, les textes conservés, les gestes d'inhumation attestés et les croyances individuelles que l'archéologie ne peut lire directement.
+
+### 41. Le tombeau royal dans la montagne orientale [D]
+
+Les stèles-frontières annoncent des lieux de sépulture prévus pour le souverain, Nefertiti et certains membres de la famille. Les destins effectifs des corps, les déplacements et les réinhumations ultérieurs sont débattus ; l'identification de chaque momie ne peut être déduite d'une lecture littérale des projets de tombe. La promesse de construire un tombeau est un fait inscrit ; l'exécution exacte de la promesse est une question archéologique distincte.
+
+### 42. Réélaboration de la temporalité [P]
+
+Une lecture philosophique peut opposer deux accents : le cycle nocturne de réintégration solaire, riche dans les livres funéraires traditionnels, et l'insistance amarnienne sur la présence qui donne la vie à chaque aurore. Cette comparaison éclaire une sélection de motifs, sans certifier que les acteurs vivaient un changement complet de métaphysique du temps.
+
+**Référence :** Barry Kemp, « The Royal Tombs at Amarna », Amarna Project, publication de recherche ; Amarna Project, « Boundary Stelae ». Le lien entre les projets funéraires et la localisation des tombes est documenté, les destinées individuelles restent partiellement incertaines.
+
+---
+
+## XI. Diplomatie, Mésopotamie et rayonnement royal
+
+### 43. Les lettres d'Amarna : un corpus différent des hymnes [D]
+
+Le dépôt de tablettes cunéiformes d'Akhetaton comprend une correspondance internationale en akkadien, langue diplomatique du Proche-Orient de l'âge du Bronze récent. Les lettres ne sont pas des hymnes à Aton. Elles révèlent des dons de luxe, négociations dynastiques, plaintes, demandes de protection et controverses entre cours et gouverneurs. Les employer comme contrepoint évite de réduire le règne à une expérience intérieure ou théologique.
+
+### 44. EA 7 et EA 9 : relations avec la Babylonie [D/I]
+
+Les lettres adressées par Burna-Buriaš II, roi de Babylonie, à la cour égyptienne, notamment EA 7 et EA 9, illustrent les négociations autour des relations entre « grands rois », des présents et de l'or. La relation diplomatique suit des conventions partagées qui ne se transforment pas toutes en fonction du culte d'Aton. Les royaumes étrangers continuent de parler dans leurs propres langues politiques et religieuses. Une prétention du dieu solaire à vivifier tous les peuples ne devient pas un empire religieux uniforme.
+
+### 45. EA 23 : la statue d'Ishtar et la pluralité internationale [D/I]
+
+La lettre EA 23, associée au roi du Mitanni Tušratta et à l'envoi de l'image d'Ishtar vers l'Égypte d'Amenhotep III, appartient à la génération diplomatique précédant ou préparant le contexte amarnien. Son intérêt comparatif est double : elle rappelle la circulation de puissances divines à travers des images et montre qu'une cour égyptienne puissante pouvait participer à des transactions religieuses transfrontalières. Elle n'établit aucune filiation entre Ishtar et Aton.
+
+### 46. La matérialité des archives [I]
+
+Le contraste est frappant entre la rhétorique d'unicité du Grand Hymne et la multiplicité des interlocuteurs du bureau des lettres. Ce n'est pas une réfutation de la théologie : ce sont deux registres de discours. L'histoire devient plus rigoureuse lorsqu'elle lit ensemble inscriptions cultuelles, documents diplomatiques et restes du travail administratif.
+
+**Éditions et ressources :** William L. Moran, *The Amarna Letters* (1992) ; Anson F. Rainey, William M. Schniedewind et Zipora Cochavi-Rainey, *The El-Amarna Correspondence*, 2 vol. (2014) ; Metropolitan Museum, « The Amarna Letters » https://www.metmuseum.org/fr/essays/the-amarna-letters ; Cuneiform Digital Library Initiative, archives des lettres d'Amarna, https://cdli.earth/cdli-tablet/554.
+
+---
+
+## XII. La fin du système : restauration et effacements
+
+### 47. Du roi à la mémoire proscrite [D/I]
+
+Après Akhenaton, le régime cultuel est progressivement réorienté. Le jeune souverain appelé Tutankhaton adopte le nom Tutankhamon, réintroduisant Amon dans le langage dynastique. La restauration des cultes, des temples et des noms traditionnels s'accompagne à plus long terme du démantèlement de monuments amarnéens. Le processus combine décisions de cour, transformations institutionnelles et politique de mémoire.
+
+### 48. Effacer n'est pas annuler l'histoire [I]
+
+Les mutilations des noms, le démontage des reliefs et le remploi des blocs n'effacent jamais l'intégralité des traces. La politique visant à supprimer le souvenir rituel d'Akhenaton a produit, paradoxalement, des archives fragmentaires que l'archéologie moderne a pu reconstituer. Il faut distinguer la mémoire officielle des listes royales, les souvenirs plus tardifs et les connaissances obtenues par la fouille.
+
+### 49. Continuité et rupture après le décès [H]
+
+Les raisons de l'abandon sont multiples et inégalement connues : légitimation dynastique, réouverture de cultes, poids des réseaux sacerdotaux, choix d'une capitale différente, contraintes territoriales. Il serait abusif de reconstituer un vote unanime du peuple contre l'atonisme ou un seul complot du clergé d'Amon. Un régime peut être profondément transformé sans que toutes ses caractéristiques aient été rejetées au même instant.
+
+**Sources :** UCL Digital Egypt, « Boundary Stelae » ; Amarna Project, « Discover Amarna » ; Marsha Hill, Metropolitan Museum (2014).
+
+---
+
+## XIII. Historiographie : de la découverte au débat sur le « premier monothéisme »
+
+### 50. Documents modernes et histoire des reconstructions [D]
+
+Les fouilles et relevés du XIXe et du début du XXe siècle, puis les copies de Davies et les éditions de Sandman, ont servi de fondement à l'égyptologie amarnienne. Les travaux de Flinders Petrie, John Pendlebury, Cyril Aldred, Donald Redford, Barry Kemp et des missions actuelles ont successivement déplacé l'attention : portrait d'un roi exceptionnel, généalogie des idées religieuses, architecture, économie urbaine, espace domestique et pratiques funéraires.
+
+Les changements d'interprétation ne résultent pas seulement de modes intellectuelles. Ils dépendent de découvertes de blocs, de nouvelles lectures épigraphiques, de datations amendées et de méthodes de fouille. La reconstruction de scènes à partir de talatat réemployés est un travail d'hypothèses révisables, non un retour direct au temple disparu.
+
+### 51. Erik Hornung : unité et pluralité [P/I]
+
+Erik Hornung, dans *Der Eine und die Vielen* puis *Conceptions of God in Ancient Egypt: The One and the Many*, a insisté sur la nécessité de comprendre les conceptions égyptiennes du divin selon leurs propres formes. L'unicité peut qualifier plusieurs puissances selon les contextes ; la pluralité n'est pas une incapacité intellectuelle à penser un cosmos commun. Son approche met en garde contre l'idée qu'un régime d'images devrait forcément correspondre à la logique d'une ontologie philosophique moderne.
+
+### 52. Jan Assmann : distinction, mémoire, contre-religion [P/I]
+
+Jan Assmann décrit les processus par lesquels une identité religieuse exclusive distingue les cultes légitimes et illégitimes et s'inscrit dans une mémoire culturelle. Ses travaux relient l'épisode amarnien à l'histoire des représentations modernes de Moïse et de l'Égypte, mais ils doivent être lus comme une réflexion sur les processus historiques et mémoriels, non comme la preuve documentaire d'une chaîne personnelle Akhenaton–Moïse. Assmann lui-même souligne dans une étude de 2014 l'absence de lien causal direct attesté entre les deux personnages.
+
+### 53. L'égyptologie du quotidien corrige l'histoire des grands hommes [I]
+
+L'accent placé par Anna Stevens sur l'habitat, les objets, les ateliers et les usages domestiques oblige à sortir de l'alternative « génie visionnaire » ou « tyran hérétique ». La ville fonctionne comme un milieu de vie. Son paysage était inégalitaire, ses habitants pouvaient conserver des objets religieux traditionnels et ses infrastructures nécessitaient un entretien considérable. Le roi demeure central pour la documentation du programme ; il n'est pas à lui seul toute l'histoire sociale de ce programme.
+
+### 54. Le danger de la téléologie [P]
+
+L'habitude de raconter une marche linéaire « des idoles à l'Un » pousse à sélectionner les textes qui ressemblent à des formulations ultérieures. Une histoire comparée plus rigoureuse part des écarts : l'atonisme organise l'unicité du dieu visible autour d'un souverain ; le monothéisme israélite s'exprime progressivement dans des formes scripturaires, juridiques et prophétiques différentes ; la pensée grecque discute encore autrement l'unité du réel. Ces traditions ne forment pas une séquence de progrès religieux mesurable à un seul étalon.
+
+**Bibliographie de débat :** Erik Hornung (1971 ; traduction anglaise révisée 1990) ; Jan Assmann, *Moses the Egyptian* (1997) et *From Akhenaten to Moses* (2014) ; Donald B. Redford, *Akhenaten: The Heretic King* (1984) ; Barry J. Kemp, *The City of Akhenaten and Nefertiti: Amarna and Its People* (2012).
+
+---
+
+## XIV. Comparaison interculturelle I — Shamash, lumière et justice en Mésopotamie
+
+### 55. Un même soleil ne crée pas une même religion [D/I]
+
+La littérature mésopotamienne connaît un dieu solaire, Utu en sumérien et Shamash en akkadien, associé à l'éclairage, au jugement et à la justice. Ses hymnes articulent lumière, visibilité et discernement. Ces affinités permettent de comparer le pouvoir cosmique prêté au soleil dans des sociétés proches par leurs échanges, mais ne démontrent pas une dépendance directe de la réforme amarnienne à l'égard d'un hymne précis.
+
+### 56. Différence de configuration divine [I]
+
+Shamash appartient à un ensemble de dieux dont les relations institutionnelles et mythiques demeurent fondamentales. La promotion d'Aton dans le programme d'Akhenaton s'accompagne, elle, d'une concurrence avec les autres cultes égyptiens et d'un degré inhabituel de centralisation de la médiation royale. La similarité de l'image solaire n'efface pas cette différence politique.
+
+### 57. La loi et le disque [H/P]
+
+On peut comparer le rapport entre visibilité solaire et justice aux images mésopotamiennes montrant un roi recevant les insignes du pouvoir en présence d'une divinité solaire, notamment la stèle du Code d'Hammurabi. Mais la stèle mésopotamienne ne représente pas le programme d'Aton, et l'attribution iconographique de certaines scènes exige prudence. Il s'agit d'un parallèle de structure — lumière, royauté, norme — plutôt que d'une filiation prouvée.
+
+**Repères :** Benjamin R. Foster, *Before the Muses: An Anthology of Akkadian Literature* (3e éd., 2005) ; éditions de l'Hymne à Shamash ; stèle du Code d'Hammurabi, musée du Louvre, département des Antiquités orientales.
+
+---
+
+## XV. Comparaison interculturelle II — le Psaume 104, Moïse et la question des filiations
+
+### 58. Pourquoi le rapprochement existe [D/I]
+
+Le Psaume 104 célèbre la diversité des vivants, l'organisation du cosmos, le cours des eaux et la dépendance des créatures à l'égard de leur principe de vie. Le Grand Hymne à Aton décrit lui aussi le réveil diurne des êtres, la nourriture, les animaux et la fécondité. La parenté thématique a suscité une abondante littérature depuis la redécouverte du dossier amarnien.
+
+### 59. Analogie, emprunt ou patrimoine poétique régional ? [H]
+
+Les ressemblances ne suffisent pas à prouver que l'auteur du Psaume 104 disposait d'une copie du Grand Hymne à Aton. Il manque une chaîne de transmission textuelle continue et datable permettant de démontrer un emprunt direct. Plusieurs motifs appartiennent à un langage hymnologique beaucoup plus large du Proche-Orient : création, eau, lumière, nourriture, animaux, repos nocturne et ordre des saisons. L'enquête doit confronter le vocabulaire, les structures de composition, la chronologie et les médiations possibles, plutôt que s'arrêter à une liste d'images semblables.
+
+### 60. Moïse : histoire et mémoire ne sont pas interchangeables [I/P]
+
+Sigmund Freud a proposé, dans *L'Homme Moïse et la religion monothéiste* (1939), une reconstruction reliant Moïse à l'Égypte d'Akhenaton. Cette lecture a une importance majeure dans l'histoire moderne de la psychanalyse et des religions, mais elle ne peut être présentée comme un fait archéologique. Aucun document contemporain connu n'établit une relation personnelle entre Akhenaton et le Moïse biblique. Jan Assmann distingue précisément les problèmes de mémoire et de continuité historique.
+
+### 61. Ce que le parallèle peut enseigner [P]
+
+La comparaison révèle différentes manières de penser une source unique de vie universelle, et les rapports de cette source à une communauté humaine. L'unicité amarnienne est puissamment couplée à la personne du roi ; les textes bibliques relèvent d'une transmission longue, avec leurs propres débats sur l'alliance, la loi et le peuple. Ce contraste est plus fécond que l'hypothèse séduisante mais insuffisamment documentée d'une simple « copie » de religion.
+
+**Sources :** Psaume 104, texte hébreu et traductions critiques ; Bernd U. Schipper, « Egyptian Backgrounds to the Psalms », dans *The Oxford Handbook of the Psalms* (2014), p. 57–75, DOI 10.1093/oxfordhb/9780199783335.013.004 ; Jan Assmann, « Moses and Akhenaten: Memory and History », dans *From Akhenaten to Moses* (2014), p. 61–78, DOI 10.5743/cairo/9789774166310.003.0005.
+
+---
+
+## XVI. Comparaison interculturelle III — Iran, monde grec et limites chronologiques
+
+### 62. Ahura Mazda : comparaison, non origine démontrée [H]
+
+La place d'Ahura Mazda dans les inscriptions royales achéménides, notamment à Behistun sous Darius Ier, associe légitimation du souverain, vérité et ordre politique. Une comparaison conceptuelle avec Aton est possible sur l'affirmation d'une souveraineté divine supérieure et l'étroite relation du roi au dieu. Cependant, la distance chronologique est de plusieurs siècles et les configurations rituelles et doctrinales sont différentes. Aucun témoignage ne permet d'expliquer l'atonisme par la religion achéménide ou inversement.
+
+### 63. Zarathoustra et les problèmes de datation [H]
+
+Les chronologies des textes avestiques et des traditions attribuées à Zarathoustra sont discutées. Il faut proscrire une ligne chronologique imaginaire passant sans rupture d'Akhenaton à Zarathoustra puis aux prophètes d'Israël. Les processus de transformation religieuse en Iran et en Égypte doivent être reconstruits séparément avant toute comparaison.
+
+### 64. Hélios et Apollon : plusieurs grammaires de la lumière [I/P]
+
+Dans les traditions grecques, Hélios peut parcourir le ciel, voir les actions humaines et porter témoignage ; Apollon conjugue, selon les périodes et sources, prophétie, musique, purification et, dans certaines traditions tardives, identification solaire. Les deux ne sont pas automatiquement un seul dieu dans l'épopée archaïque. L'atonisme permet une comparaison des rapports entre lumière et vérité, non la construction d'un panthéon mondial de dieux « au fond identiques ».
+
+### 65. Le logos stoïcien : analogie philosophique limitée [P]
+
+Certains stoïciens pensent l'ordre cosmique comme articulé par un principe rationnel unificateur. Une lecture rétrospective pourrait rapprocher cette unité de la cohérence universelle que l'hymne attribue au soleil. L'analogie reste externe : la rationalité cosmologique stoïcienne ne doit pas être projetée comme une doctrine déjà formulée dans les hymnes amarnéens.
+
+---
+
+## XVII. Philosophie politique de l'atonisme : voir, savoir, obéir
+
+### 66. L'asymétrie entre présence et intelligence [P]
+
+Le programme amarnien associe une apparition potentiellement commune — le disque visible dans le ciel — et une compétence réservée au roi — la connaissance intime d'Aton. La différence entre visibilité physique et autorité d'interprétation est constitutive du système. La présence publique de la lumière ne démocratise donc pas nécessairement la parole théologique.
+
+### 67. Le roi comme instance de traduction [P]
+
+En termes contemporains, on peut dire que le souverain convertit l'universalité cosmique en ordre institutionnel. Les rayons atteignent le monde, mais les règles de représentation, les lieux de culte et les formules de connaissance sont filtrés par la royauté. Ce modèle fournit un cas historique pour penser la relation entre monopole symbolique et pouvoir administratif, sans prétendre qu'Akhenaton ait formulé les catégories sociologiques modernes de cette analyse.
+
+### 68. Hegel : universalité et forme politique [P]
+
+Une lecture inspirée de Hegel peut demander à quel point une unité abstraite du divin se réalise dans les institutions et dans la reconnaissance des personnes. Toutefois, attribuer à l'Égypte d'Akhenaton une étape nécessaire d'un schéma universel de l'Esprit reconduirait le risque téléologique. L'intérêt philosophique consiste plutôt à poser une question : qu'advient-il de l'universalité proclamée lorsque son accès doctrinal est monopolisé ?
+
+### 69. Nietzsche : généalogie de la valeur [P]
+
+Une enquête généalogique au sens large pose la question des conditions de production des valeurs religieuses. Qui gagne, qui perd et qui travaille lorsque le langage rituel se recompose ? Quelles images sont conservées, détruites ou réaffectées ? Ce questionnement ne justifie ni de réduire toute religion à une manœuvre cynique ni d'imputer au roi une psychologie que les sources ne permettent pas de reconstruire.
+
+### 70. Spinoza : la nature et Dieu, un anachronisme à éviter [P]
+
+L'hymne nomme le soleil comme puissance créatrice qui fait vivre les êtres. On peut discuter philosophiquement la relation entre immanence cosmique et principe divin, mais assimiler directement Aton au *Deus sive Natura* de Spinoza ferait disparaître le contexte politique, rituel et monarchique du texte antique. Les rapprochements éclairent des questions, non des identités historiques.
+
+### 71. Le paradoxe central [P]
+
+La centralité d'Aton offre une image du monde cohérent par une source commune. Pourtant, l'appareil qui représente cette unité durcit la relation de dépendance envers une famille particulière. En langage philosophique : **l'universalité de la cause cosmique ne produit pas automatiquement une égalité des sujets devant l'autorité religieuse.** La tension fournit la clef conceptuelle du dossier.
+
+---
+
+## XVIII. Distinguer les preuves, les interprétations et les questions ouvertes
+
+### 72. Ce qui est fermement établi [D]
+
+Amenhotep IV modifia son nom et son programme cultuel ; il fonda Akhetaton ; les stèles de fondation et de délimitation sont conservées en plusieurs exemplaires ; Aton est figuré comme disque rayonnant ; des inscriptions et reliefs mettent en scène la famille royale comme destinataire privilégiée du pouvoir divin ; le Grand Hymne est attesté dans la tombe d'Aÿ ; la ville a connu une occupation relativement brève ; les sources matérielles montrent la persistance de certains objets religieux traditionnels dans les maisons.
+
+### 73. Ce qui est bien argumenté mais reconstruit [I]
+
+La réforme a concentré le pouvoir symbolique autour du souverain et réduit la place des autres cultes officiels ; sa mise en œuvre a entraîné des transferts de ressources et de personnel ; les modifications successives du nom d'Aton révèlent des transformations doctrinales ; les changements d'image et d'architecture visaient à rendre visible une relation différente entre dieu, souverain et société.
+
+### 74. Ce qui reste hypothétique ou controversé [H]
+
+Le rôle exact d'une hostilité préalable au clergé d'Amon ; les croyances personnelles d'Akhenaton ; la durée précise d'éventuelles corégences ; la place politique tardive de Nefertiti ; la chronologie fine de toutes les mesures d'exclusion ; la date exacte de révision du second nom d'Aton ; les identifications de certains corps royaux ; l'existence d'une chaîne directe reliant le Grand Hymne au Psaume 104 ; l'existence d'une transmission personnelle entre Akhenaton et Moïse.
+
+### 75. Ce qui appartient explicitement à la philosophie [P]
+
+Les notions de « monopole de la vérité », « universalité abstraite », « immanence », « révolution symbolique » ou « centralisation des médiations » constituent un appareil d'interprétation actuel. Il faut les utiliser pour poser de meilleures questions aux objets et aux textes, non comme des citations implicites des acteurs anciens.
+
+---
+
+## XIX. Programme iconographique scientifique — références institutionnelles
+
+Les illustrations proposées sont des documents archéologiques ou des reproductions de relevés vérifiables. Elles ne doivent pas être remplacées par des images génériques, des reconstitutions 2,5D ou des vues artificiellement attribuées à des musées. Toute publication doit respecter la politique de réutilisation de l'institution détentrice. Les légendes ci-dessous peuvent être accompagnées de liens vers les notices, même si une reproduction ne peut être intégrée légalement.
+
+**Illustration 1 — La théologie familiale d'Aton.** Stèle-altar d'Akhenaton, Nefertiti et trois filles sous le disque rayonnant ; calcaire ; XVIIIe dynastie, Amarna ; Staatliche Museen zu Berlin, Ägyptisches Museum und Papyrussammlung, **ÄM 14145**. Légende : « Les rayons d'Aton terminés par des mains portent le signe de vie vers la famille royale. » Notice : https://search.smb.museum/object/obj-607132. Photographie institutionnelle et droits à vérifier avant import.
+
+**Illustration 2 — Le disque qui confère la vie.** Relief avec Aton et une reine, probablement Nefertiti ; calcaire, époque amarnienne ; Metropolitan Museum of Art, **1993.326**. Légende : « Les mains à l'extrémité des rayons approchent le signe ânkh du visage royal. » Notice et contexte : https://www.metmuseum.org/art/collection/search/558139.
+
+**Illustration 3 — Le culte et les offrandes.** Bloc *talatat* du Grand Temple d'Aton, Amarna ; calcaire ; Metropolitan Museum of Art, **21.9.8**. Légende : « Offrandes, pains, fleurs, encens et bétail dans un programme décoratif de temple. » Notice : https://www.metmuseum.org/art/collection/search/572218.
+
+**Illustration 4 — L'atelier et les modèles iconographiques.** Fragment d'étude de tête d'Akhenaton, Amarna, fouilles Petrie/Carter (1891–1892) ; Metropolitan Museum of Art, **66.99.40**. Légende : « Étude sculptée : l'image royale obéit à des conventions d'atelier, non à un diagnostic médical. » Notice : https://www.metmuseum.org/art/collection/search/545909.
+
+**Illustration 5 — La fondation territoriale.** Stèle-frontière N ou S, Amarna ; relevés de Norman de Garis Davies, *The Rock Tombs of El Amarna*, VI (1908), planches correspondantes. Légende : « La dédicace de la ville associe déclaration du roi, territoire et dieu Aton. » Documentation institutionnelle : https://www.amarnaproject.com/amarna-the-place/boundary-stelae/.
+
+**Illustration 6 — La ville dans son paysage.** Plan scientifique d'Akhetaton, Amarna Project, situant route royale, quartiers résidentiels, complexes cultuels et falaise. Légende : « Une ville religieuse, administrative et productive, organisée dans un paysage nilotique. » Documentation : https://www.amarnaproject.com/discover-amarna/.
+
+**Illustration 7 — Les espaces ouverts du culte.** Plan et documentation archéologique du Grand Temple d'Aton, Amarna Project. Légende : « Reconstitution fondée sur fouilles : cours et autels du Grand Temple, et état de conservation des fondations. » Source : https://www.amarnaproject.com/our-work/excavation-and-survey/great-aten-temple-background/.
+
+**Illustration 8 — Inscription du Grand Hymne.** Paroi occidentale de la tombe d'Aÿ (TA 25), d'après Davies, partie VI, pl. 27 et 41 ; reproduction de relevé à contrôler. Légende : « Treize colonnes conservant le plus long hymne connu à Aton ; texte moderne dépendant de copies réalisées avant certaines dégradations. » Transcription pédagogique : https://www.ucl.ac.uk/museums-static/digitalegypt/amarna/belief.html.
+
+**Illustration 9 — Le souverain et Aton dans la dévotion privée.** Stèle calcaire d'Akhenaton sous les rayons d'Aton, trouvée à Amarna ; British Museum **1891,0404.29**. Légende : « Une image royale pouvant servir de foyer à des dévotions domestiques ; l'objet n'établit pas la théologie de tous les habitants. » Notice de référence : catalogue British Museum, objet 1891,0404.29.
+
+**Illustration 10 — Les lettres diplomatiques.** Tablette d'une lettre d'Amarna entre la cour égyptienne et la Babylonie, choisir un numéro EA précisément identifié dans le catalogue CDLI ou du musée détenteur avant illustration. Légende prévue : « Correspondance internationale en akkadien : la diplomatie de l'âge du Bronze ne se réduit pas au programme religieux du palais. » Catalogue : https://cdli.earth/ . Ne pas attribuer un numéro d'inventaire non vérifié.
+
+**Directive pour l'intégration :** maintenir la mise en page noir, anthracite, ivoire et or de MYTHOS ; privilégier les photographies d'objets réels, plans archéologiques et vues larges de sites ; indiquer dates, provenance, institution, inventaire, licence et incertitude éventuelle. Aucun visuel n'est déclaré importé par le seul fait que cette notice figure dans le manuscrit.
+
+---
+
+## XX. Bibliographie critique annotée
+
+### Sources primaires et éditions de travail
+
+1. **Stèles-frontières d'Akhetaton**, proclamation ancienne (K, M, X) et nouvelle (A, B, F, J, N, P, Q, R, S, U, V), avec réaffirmations de l'an 8. Édition majeure : William J. **Murnane** et Charles C. **Van Siclen III**, *The Boundary Stelae of Akhenaten*, Londres/New York, Kegan Paul International, 1993. Repères et état matériel : Amarna Project, « Boundary Stelae ».
+2. **Grand Hymne à Aton**, tombe d'Aÿ no 25, Amarna, paroi ouest, treize colonnes. **Norman de Garis Davies**, *The Rock Tombs of El Amarna*, VI, Egypt Exploration Fund, 1908, pl. 27, 41 ; **Maj Sandman**, *Texts from the Time of Akhenaten*, Bibliotheca Aegyptiaca VIII, Bruxelles, 1938, p. 93–96 ; **Miriam Lichtheim**, *Ancient Egyptian Literature*, II, Berkeley, 1976, traduction.
+3. **Inscriptions et reliefs du règne** conservés sur blocs de Karnak et d'Amarna ; documentation matérielle du Metropolitan Museum, de l'Amarna Project et des missions de Karnak. Chaque reconstitution de décor exige d'identifier les blocs et leur contexte de remploi.
+4. **Lettres d'Amarna**, particulièrement EA 7, EA 9 et EA 23, dans **William L. Moran**, *The Amarna Letters*, Baltimore, Johns Hopkins University Press, 1992 ; **Anson F. Rainey**, William M. Schniedewind et Zipora Cochavi-Rainey, *The El-Amarna Correspondence*, Leyde, Brill, 2014.
+5. **Psaume 104**, à étudier dans une édition critique du texte hébreu ; la comparaison avec le Grand Hymne suppose l'analyse des versions et de leur histoire, non un alignement de traductions isolées.
+6. **Inscriptions royales de Darius Ier à Behistun**, pour la comparaison plus tardive entre ordre, divinité et souveraineté ; chronologie achéménide distincte de l'âge d'Amarna.
+
+### Recherche égyptologique et historiographie
+
+7. **Erik Hornung**, *Der Eine und die Vielen*, Darmstadt, 1971 ; angl. *Conceptions of God in Ancient Egypt: The One and the Many*, traduction John Baines, éd. révisée, Ithaca, Cornell University Press, 1990. Distinction entre formes d'unité et configurations plurales.
+8. **Jan Assmann**, *Egyptian Solar Religion in the New Kingdom: Re, Amun and the Crisis of Polytheism*, Londres/New York, Kegan Paul International, 1995. Cadres théologiques du Nouvel Empire et de la réforme.
+9. **Jan Assmann**, *Moses the Egyptian: The Memory of Egypt in Western Monotheism*, Cambridge (Mass.), Harvard University Press, 1997. Histoire de la mémoire, et non preuve d'une transmission personnelle Akhenaton–Moïse.
+10. **Jan Assmann**, *From Akhenaten to Moses: Ancient Egypt and Religious Change*, Le Caire, American University in Cairo Press, 2014 ; spécialement chap. 3, « From Polytheism to Monotheism: Evolution or Revolution? » et chap. 4, « Moses and Akhenaten: Memory and History ».
+11. **Donald B. Redford**, *Akhenaten: The Heretic King*, Princeton, Princeton University Press, 1984. Reconstruction historique influente ; à confronter à l'archéologie plus récente.
+12. **Cyril Aldred**, *Akhenaten: King of Egypt*, Londres, Thames and Hudson, 1988. Histoire et iconographie de la cour ; certaines propositions ont été révisées.
+13. **Barry J. Kemp**, *The City of Akhenaten and Nefertiti: Amarna and Its People*, Londres, Thames & Hudson, 2012. Urbanisme, pratiques, architecture, habitants.
+14. **Anna Stevens**, « The Archaeology of Amarna », *The Oxford Handbook of Topics in Archaeology*, Oxford University Press, 2015, DOI 10.1093/oxfordhb/9780199935413.013.31. Bilan critique de la fouille urbaine.
+15. **Anna Stevens**, « Domestic religious practices », *UCLA Encyclopedia of Egyptology*, 2009, https://escholarship.org/uc/item/7s07628w. Objets de religion domestique et limites documentaires.
+16. **Marsha Hill**, « Art, Architecture, and the City in the Reign of Amenhotep IV / Akhenaten (ca. 1353–1336 B.C.) », *Heilbrunn Timeline of Art History*, Metropolitan Museum of Art, 2014, https://www.metmuseum.org/fr/essays/art-architecture-and-the-city-in-the-reign-of-amenhotep-iv-akhenaten-ca-13531336-b-c. Chronologie, talatat, programmes royaux.
+17. **Amarna Project**, ressources documentaires « Boundary Stelae », « Discover Amarna » et « Great Aten Temple », https://www.amarnaproject.com/ . Relevés, plans, actualité de fouilles et prudence dans les restitutions.
+
+### Comparaison et philosophie
+
+18. **Bernd U. Schipper**, « Egyptian Backgrounds to the Psalms », *The Oxford Handbook of the Psalms*, 2014, p. 57–75, DOI 10.1093/oxfordhb/9780199783335.013.004. Évaluation du rapport au Psaume 104.
+19. **Benjamin R. Foster**, *Before the Muses: An Anthology of Akkadian Literature*, 3e éd., Bethesda, CDL Press, 2005. Corpus mésopotamien pour comparaison des hymnes et de l'ordre cosmique.
+20. **Sigmund Freud**, *Der Mann Moses und die monotheistische Religion*, 1939 ; trad. française *L'Homme Moïse et la religion monothéiste*. Source de l'histoire moderne des interprétations, non témoignage de l'âge du Bronze.
+21. **G. W. F. Hegel**, *Leçons sur la philosophie de l'histoire* et *Leçons sur la philosophie de la religion*, éditions critiques à identifier selon usage. Concepts philosophiques seulement.
+22. **Friedrich Nietzsche**, *La Généalogie de la morale* (1887). Instrument de problématisation des valeurs et de leur histoire, sans application rétroactive littérale.
+23. **Baruch Spinoza**, *Éthique*, I, particulièrement la proposition 15 et ses démonstrations, pour la comparaison conceptuelle entre nature et divinité ; ne pas identifier historiquement l'atonisme au spinozisme.
+
+---
+
+## XXI. Conclusion générale : une unité divine politiquement située
+
+**[D]** Les stèles, les hymnes, les monuments et les fouilles montrent une réforme religieuse remarquable, dans laquelle le disque solaire Aton occupe le centre d'un langage de la création, d'une iconographie originale et d'une architecture nouvelle. Les premières étapes demeurent ancrées dans les traditions solaires et royales d'Amon-Rê et de Rê-Horakhty. La fondation d'Akhetaton, les proclamations des ans 5–8, le texte d'Aÿ et les noms révisés d'Aton attestent un programme actif de réorganisation.
+
+**[I]** L'innovation majeure ne se réduit ni à l'idée qu'un dieu crée le monde, déjà présente avant le règne, ni à la représentation d'un soleil visible. Elle réside dans **la combinaison d'une exclusivité croissante, d'une nouvelle politique des noms et des images, d'un espace cultuel spécifique et d'une médiation royale concentrée**. Elle s'est heurtée à la pluralité sociale des pratiques et n'a pas survécu sous sa forme politique initiale.
+
+**[H]** Les motivations exactes du souverain, l'ampleur des interdictions vécues et les filiations vers des monothéismes postérieurs demeurent des questions de recherche. Le rapprochement avec le Psaume 104 est intéressant sans preuve définitive d'emprunt ; l'identification de Moïse à un disciple d'Akhenaton ne repose pas sur un dossier de preuves suffisant.
+
+**[P]** L'expérience d'Akhenaton permet de penser une tension durable dans les histoires du religieux : la source de vie est annoncée comme commune au monde entier, tandis que les institutions de sa connaissance sont réservées. L'unité divine ne saurait être lue sans les conditions sociales qui la rendent dicible et visible. Le dossier MC-024 conclut ainsi non sur la naissance certaine de toutes les religions ultérieures, mais sur un problème général de comparaison : comment les pouvoirs humains transforment-ils les langages du cosmos en formes d'autorité ?
+
+**Renvois internes souhaités pour l'édition du site :** l'étude sur Rê et Apophis ; le dossier sur Maât et Isfet ; le chapitre consacré à la ville d'Akhetaton ; les analyses du pouvoir sacré et de la médiation ; les corpus sur l'Iran ancien et sur la mythologie mésopotamienne. Les liens effectifs devront être attribués à des URL vérifiées, sans inventer de chapitres publiés.
+
+*Fin du dossier universitaire MC-024. L'attribution du numéro romain canonique est effectuée exclusivement par le mécanisme transactionnel de publication GitHub ; ce manuscrit ne modifie aucun ancien volume ni aucune planification automatique.*

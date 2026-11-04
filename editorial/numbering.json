@@ -231,6 +231,30 @@
           "path": "chapitres/origines-du-sacre/610-canope-rosette-restitutions-decrets-sacerdotaux-ptolemees.md",
           "request_sha256": "14151411e9e6b781d16479db7f8a75c98bcb3ff1ee390842c94c97c7440fc8e7",
           "initial_source_sha256": "86fce695a13ea69dd02631f3cb9de6d83e44fdd3788a32ef813b228a67684b03"
+        },
+        "1d4f75e2-b4f8-4f34-8d63-87dd4b4729c1": {
+          "number": 611,
+          "path": "chapitres/origines-du-sacre/611-horoi-aigine-bornes-terres-sacrees-frontieres.md",
+          "request_sha256": "e421de5b33037952e2b75c0f5de424c72ec45061bbc8b16ee78d0be5b73e9f40",
+          "initial_source_sha256": "eaae7f745e30cbe4d46a55718b0f69965b60682b5c4f68a2cee3bcfebb3fa531"
+        },
+        "6c921d97-8f2a-48aa-b99d-5a2e61170e64": {
+          "number": 612,
+          "path": "chapitres/origines-du-sacre/612-sanctuaire-creancier-sardes-delos-gula-dettes-garanties.md",
+          "request_sha256": "b8b2056d3c70d79dc8a251f219a6ef9b80560f2a22f9f677d11d43e326ff833e",
+          "initial_source_sha256": "650e6628de661ca03b1d523b85aeeb78772945dba04631fbbf058ec907cd2456"
+        },
+        "85bc795c-5b3f-4ba4-a282-8796b8b92014": {
+          "number": 613,
+          "path": "chapitres/origines-du-sacre/613-athena-parthenon-inventaires-tresors-emprunts-controle.md",
+          "request_sha256": "54dc060b4d7c772db91c96152d4a57f97bf29fb0c9e788191dbe96dfcb790e47",
+          "initial_source_sha256": "8b7af212ec6340ca2f0b09ed71e78fb04ea5675db617e195178374e5874d6c75"
+        },
+        "b19e23ad-95d8-465d-9e90-5fd4a207d7a1": {
+          "number": 614,
+          "path": "chapitres/origines-du-sacre/614-terres-sacrees-rhamnonte-delos-baux-garanties-droit-romain.md",
+          "request_sha256": "2a99155be8d70b7b36da57e1e187519d43787c0e8b81d2e67fb925f7952ee1e4",
+          "initial_source_sha256": "7286ff10129d7f586df92e84c7317611d60a80f7b52c369fedfa19f509eb22b8"
         }
       }
     },
@@ -573,6 +597,12 @@
           "path": "chapitres/comedies/volume-064-telekleides-prytaneis-boule-tholos-memoire-pouvoir.md",
           "request_sha256": "b4ef15ceee3c5d92fca3d8d1cd11bdc06149344587751516263f0cba5c6779f0",
           "initial_source_sha256": "039992d50a315c2935008bc082dd4957124508afc168474c91c61d11ac6c8d94"
+        },
+        "e90e243d-5f74-4c46-9bfa-d7c962fb8f0a": {
+          "number": 65,
+          "path": "chapitres/comedies/volume-065-telekleides-hesiodoi-poesie-verite-cite-pericles.md",
+          "request_sha256": "936e44a643371f63426a46df82b177202e0f50e132bcdbbc3007c6750fffaab3",
+          "initial_source_sha256": "621befb9ea6fc522026287e1eec11936a628632d81ffb3b61dfe5061be77248d"
         }
       }
     },
@@ -723,6 +753,12 @@
           "path": "chapitres/tragedies/volume-ccviii-euripide-alcmene-identite-preuve-supplication-bucher.md",
           "request_sha256": "6b3735e768ba0a6c5336b8a2db7d2e03f238b795ff294e2d6fd65a794944de6a",
           "initial_source_sha256": "05345bdd53935a75d870a6b8851f49447646b898c5d30e78576358a6ae0e6af6"
+        },
+        "f546eac6-4e77-4dd2-bf5d-1ef87ad6d598": {
+          "number": 209,
+          "path": "chapitres/tragedies/volume-ccix-euripide-oeneus-vieillesse-usurpation-diomede.md",
+          "request_sha256": "4ccd1cd1790a0aaa33d9391df8a95d5883e9f3944b12f781fffc96df4206beb3",
+          "initial_source_sha256": "7c651bb211b979ed415f4c91140b6ba158371b7246438aaae64fa5148c60771d"
         }
       }
     },
@@ -954,6 +990,24 @@
           "path": "chapitres/comparatif/volume-clxxviii-pierre-lemonnier-choix-techniques-objets-rituels-communication-non-verbale.md",
           "request_sha256": "0d8b7475a17180fd3df3c68f1718f210f9a4a26ad2e14322eb51732c3b6a3b7f",
           "initial_source_sha256": "328d184a4d5f4a484e70e76f578674ab3e6f73624c0c1c447129f9430baa4869"
+        },
+        "8d6a716a-b9f5-4a93-a67a-91b318455fe4": {
+          "number": 180,
+          "path": "chapitres/comparatif/volume-clxxx-andre-georges-haudricourt-domestication-techniques-vivant-action-politique.md",
+          "request_sha256": "959a5c2f7d01ea968cb3b29639e72608c83b52fd30a490f5d3ff6ac3900a1489",
+          "initial_source_sha256": "50bc86aec6cb481b0e273914519c685cd94ef3e65d987de6e6ac1608ae397227"
+        },
+        "a4b30610-cc79-4759-96a4-f2c27af13d24": {
+          "number": 181,
+          "path": "chapitres/comparatif/volume-clxxxi-amon-re-aton-akhenaton-unite-divine-pouvoir-royal.md",
+          "request_sha256": "a3cf7513aeeeccd48bce74d07a9c13c08c9851e293396fba99376a29856228ca",
+          "initial_source_sha256": "dbaddc20963a1354fdd7a48d97164a52502e8b7bdd431dca2296b5873c32618a"
+        },
+        "c8c1e59b-0d57-40f4-a552-632b62bc04ef": {
+          "number": 182,
+          "path": "chapitres/comparatif/volume-clxxxii-christopher-tilley-phenomenologie-paysage-lieux-chemins-monuments-sacres.md",
+          "request_sha256": "24732af18a960141f02ffc402a51e823af84cb57827854ef4907a684b5c6e660",
+          "initial_source_sha256": "af8c2c36f52135b5192931f1e6b3d60a1068e502e9defad3986e2be784ebd037"
         }
       }
     }
