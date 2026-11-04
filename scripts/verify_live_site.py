@@ -228,6 +228,14 @@ RECENT_FIGURES = (
      "/assets/illustrations-articles/met-246679-hermes-bronze-aile.webp"),
     ("livre-hesiode/index.html", "icono-hesiode-promethee-bartolozzi-1795-20261104",
      "/assets/illustrations-articles/met-680363-promethee-bartolozzi.webp"),
+    # Audit of the latest museum additions: these three book figures must not
+    # disappear from the deployed HTML or differ from the source WebP bytes.
+    ("livre-iliade-scenes/index.html", "icono-iliade-rembrandt-reception-homere-livre-20261104",
+     "/assets/illustrations-articles/met-437394-aristote-homere-rembrandt.webp"),
+    ("livre-odyssee/index.html", "icono-odyssee-athena-chouette-met-254648-20261104",
+     "/assets/illustrations-articles/met-254648-athena-chouette-bronze.webp"),
+    ("livre-hesiode/index.html", "icono-hesiode-aphrodite-hellenistique-met-253504-20261104",
+     "/assets/illustrations-articles/met-253504-aphrodite-bronze.webp"),
 )
 
 

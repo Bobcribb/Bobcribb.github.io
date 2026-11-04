@@ -164,19 +164,19 @@ class RecentFigurePublicationTests(unittest.TestCase):
             return (200, kind, self.assets[path])
         return (200, "text/html", self.pages[path])
 
-    def test_all_seventeen_documentary_images_and_six_pages_verified(self):
+    def test_all_twenty_documentary_images_and_six_pages_verified(self):
         pages, assets = live.recent_figure_inventory(self.root)
         self.assertEqual(len(pages), 6)
-        self.assertEqual(len(pages["livre-iliade-scenes/index.html"]), 2)
-        self.assertEqual(len(pages["livre-odyssee/index.html"]), 3)
-        self.assertEqual(len(pages["livre-hesiode/index.html"]), 4)
+        self.assertEqual(len(pages["livre-iliade-scenes/index.html"]), 3)
+        self.assertEqual(len(pages["livre-odyssee/index.html"]), 4)
+        self.assertEqual(len(pages["livre-hesiode/index.html"]), 5)
         self.assertEqual(len(pages["philosophie-iliade.html"]), 3)
         self.assertEqual(len(pages["philosophie-odyssee.html"]), 3)
         self.assertEqual(len(pages["philosophie-theogonie.html"]), 2)
-        self.assertEqual(len(assets), 17)
+        self.assertEqual(len(assets), 20)
         with patch.object(live, "fetch", side_effect=self.fetch):
             report = live.verify_recent_public_figures("https://example.test", self.root)
-        self.assertEqual(len(report), 23)
+        self.assertEqual(len(report), 26)
         self.assertTrue(all(item["valid"] for item in report))
 
     def test_stale_odyssey_figure_and_tampered_jpeg_are_detected(self):
@@ -278,7 +278,40 @@ class RecentFigurePublicationTests(unittest.TestCase):
         self.assertEqual({entry["url"] for entry in checked if not entry["valid"]}, {
             "/livre-hesiode/index.html", hermes,
         })
-        self.assertEqual(len(live.RECENT_FIGURES), 17)
+        self.assertEqual(len(live.RECENT_FIGURES), 20)
+
+    def test_newest_met_book_figures_are_required_and_image_bytes_must_match(self):
+        """Audit each new book figure against stale HTML and altered WebP."""
+        additions = (
+            ("livre-iliade-scenes/index.html",
+             "icono-iliade-rembrandt-reception-homere-livre-20261104",
+             "/assets/illustrations-articles/met-437394-aristote-homere-rembrandt.webp"),
+            ("livre-odyssee/index.html",
+             "icono-odyssee-athena-chouette-met-254648-20261104",
+             "/assets/illustrations-articles/met-254648-athena-chouette-bronze.webp"),
+            ("livre-hesiode/index.html",
+             "icono-hesiode-aphrodite-hellenistique-met-253504-20261104",
+             "/assets/illustrations-articles/met-253504-aphrodite-bronze.webp"),
+        )
+        for page, figure_id, image_path in additions:
+            with self.subTest(page=page):
+                self.assertEqual(live.RECENT_FIGURES.count(
+                    (page, figure_id, image_path)), 1)
+
+                def outdated(url):
+                    path = url.split("https://example.test", 1)[-1]
+                    if path == "/" + page:
+                        return (200, "text/html", self.pages[path].replace(
+                            figure_id.encode("utf-8"), b"old-figure-without-new-museum-notice"))
+                    if path == image_path:
+                        return (200, "image/webp", self.assets[path] + b"altered")
+                    return self.fetch(url)
+
+                with patch.object(live, "fetch", side_effect=outdated):
+                    checked = live.verify_recent_public_figures(
+                        "https://example.test", self.root)
+                broken = {row["url"] for row in checked if not row["valid"]}
+                self.assertEqual(broken, {"/" + page, image_path})
 
     def test_bogus_webp_file_rejected_at_inventory(self):
         src = next(src for _, _, src in live.RECENT_FIGURES
