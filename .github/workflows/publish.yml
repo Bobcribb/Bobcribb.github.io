@@ -9,6 +9,7 @@ on:
       - 'scripts/improve_reading.py'
       - 'scripts/build_reading_pdfs.py'
       - 'scripts/verify_live_site.py'
+      - 'scripts/verify_deployment_head.py'
       - 'scripts/verify_photoreal_gallery.py'
       - 'tests/test_photoreal_gallery.py'
       - 'scripts/editorial_illustrations.py'
@@ -93,6 +94,10 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: _site
+      - name: Refuser un rendu obsolète après l’envoi de l’artefact
+        env:
+          MYTHOS_PUBLISHED_SHA: ${{ steps.synchronization.outputs.published_sha }}
+        run: python scripts/verify_deployment_head.py
       - name: Publier MYTHOS sans WordPress
         id: deployment
         uses: actions/deploy-pages@v4
