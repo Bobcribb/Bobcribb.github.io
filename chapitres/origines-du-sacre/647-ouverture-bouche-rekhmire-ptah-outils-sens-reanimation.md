@@ -1,0 +1,201 @@
+# MYTHOS — Les Origines du sacré — Tome DCXLVII, chapitre 647
+## Rendre au mort ses sens : l'ouverture de la bouche, les prêtres et la fabrication rituelle d'une présence en Égypte ancienne
+
+*Monographie universitaire d'archéologie funéraire, de philologie égyptienne, d'histoire des gestes, d'anthropologie religieuse et de philosophie des images. Poursuite du cycle sur l'embaumement, le natron et les vases canopes. Les sigles [P] renvoient aux textes, reliefs et objets ; [R] aux études scientifiques et notices institutionnelles. Les numéros d'épisodes renvoient à la synopse moderne d'Eberhard Otto, et non à une séquence unique attestée partout.*
+
+### 647.1. Problématique : un corps conservé peut-il être un corps vivant ?
+
+Dessécher, bander, retirer les viscères et protéger ceux-ci dans des récipients ne constituent pas encore, dans la logique funéraire égyptienne, l'ensemble des conditions nécessaires à une existence bienheureuse. Les opérations de conservation visent la permanence du support corporel ; d'autres interventions cherchent à permettre que la personne défunte reçoive la nourriture, respire, voie, entende et parle. Le rite ordinairement traduit par « ouverture de la bouche » place cette dernière opération au centre de sa dramaturgie. Il ne prétend pas obtenir une guérison biologique : il institue une aptitude religieuse du défunt ou de son image, selon les témoignages concernés.
+
+Cette étude ne répète donc pas le dossier des résines et des opérations d'embaumement. Elle se consacre à une transformation différente : comment la représentation du corps, la parole des prêtres, les gestes de contact et la distribution des offrandes construisent-ils la capacité de participer à l'au-delà ? Le passage de l'objet façonné à l'image apte à recevoir est également concerné, puisque le rituel a été accompli sur des statues et, dans certains contextes, sur des cercueils et des momies [R1].
+
+Le premier impératif méthodologique est de ne pas confondre les lieux : une représentation peinte sur les parois d'une chapelle ne prouve pas qu'une cérémonie s'y soit déroulée exactement comme l'image la présente ; un ensemble miniature d'instruments déposé dans une tombe n'est pas l'outillage effectivement utilisé dans chaque cérémonie. Les scènes, les objets et les paroles instruisent l'enquête selon des modalités complémentaires.
+
+### 647.2. Philologie : *wpt r* et les limites du français
+
+La formule égyptienne translittérée *wpt r*, « ouverture de la bouche », associe l'ouverture à un organe qui rend possibles manger, boire, émettre la parole et recevoir certains souffles. Le titre étendu du rite associe aussi l'ouverture des yeux. La traduction française constitue une désignation commode d'une action rituelle complexe, non la preuve qu'il ne s'agissait que de forcer physiquement les lèvres d'un cadavre.
+
+Dans les inscriptions présentées par le projet universitaire *Digital Egypt for Universities*, le titre initial de la version de Rekhmirê annonce explicitement une ouverture pour la **statue** du personnage dans la « Maison de l'Or » (*ḥwt-nbw*). Le substantif qui désigne l'image a ici une importance décisive. Remplacer partout « statue » par « momie » effacerait une distinction établie par la source [P1].
+
+L'ensemble des rites réunis sous le titre moderne se déroule sur des supports variés et s'étend sur plusieurs époques. L'historien n'a pas le droit de traduire cette diversité par la formule simplificatrice « les Égyptiens ouvraient toujours la bouche de leurs momies ». Il doit préciser l'objet, la date, le lieu, la version textuelle et le rôle des acteurs.
+
+### 647.3. Chronologie longue : ne pas projeter une liturgie du Nouvel Empire sur l'Ancien Empire
+
+Des références à l'ouverture de la bouche remontent à l'Ancien Empire ; les compositions se développent et se diversifient jusqu'à l'époque romaine. La notice d'UCL présente plusieurs corpus longs, dont les décors de Rekhmirê, de Séthi Ier et de Taousert, les inscriptions associées à Boutehamon, à la divine adoratrice Aménirdis et à Padiamenipet, ainsi qu'un papyrus tardif [R1].
+
+Cette dispersion chronologique est une richesse et un danger. Un outil daté des Ve–VIe dynasties et une séquence peinte de la XVIIIe dynastie peuvent être rapprochés parce qu'ils participent à une tradition identifiable, mais l'un ne constitue pas la preuve directe de tous les gestes de l'autre. De même, la présence d'une formule sous l'époque romaine n'atteste pas la permanence inchangée de son contexte social.
+
+Il faut renoncer à chercher le premier jour où un « rituel complet » serait apparu. Le dossier révèle des actions et des textes continuellement repris, regroupés et réinterprétés. La continuité porte sur des objectifs et des motifs reconnaissables ; elle ne garantit pas la stabilité de chaque instrument, de chaque acteur et de chaque geste.
+
+### 647.4. La question des soixante-quinze épisodes : un outil éditorial, non un manuscrit antique total
+
+Eberhard Otto a construit en 1960 une édition synoptique à partir de témoins nombreux et inégalement conservés. Dans cette présentation scientifique, le rituel comprend environ soixante-quinze épisodes, organisés en préparatifs, animation de la statue, offrandes de viande, repas funéraire et gestes de clôture [R1 ; R2].
+
+L'expression « soixante-quinze épisodes » peut donner l'impression trompeuse qu'il aurait existé une liste fixe, récitée et exécutée sans aucune variation. Or aucun témoin n'en conserve la totalité. Certaines scènes sont omises, déplacées, fractionnées ou endommagées ; les versions tardives diffèrent des plus anciennes. Les numéros modernes sont utiles pour comparer des passages, pas pour rétablir une liturgie identique de tombe en tombe.
+
+Un exemple d'honnêteté philologique consiste donc à écrire « épisode 26 dans la numérotation d'Otto », plutôt que « vingt-sixième geste exécuté dans tout enterrement égyptien ». La différence est fondamentale. L'égyptologue classe les témoignages ; il n'assiste pas à une cérémonie antique complète.
+
+### 647.5. Rekhmirê, TT 100 : une source exceptionnellement développée
+
+La tombe-chapelle thébaine du vizir Rekhmirê (TT 100), de la XVIIIe dynastie, conserve une longue version figurée et inscrite du rite. Selon la présentation d'UCL, la paroi nord de la chambre postérieure rassemble cinquante et un épisodes dans la classification d'Otto [P1 ; R1]. Elle représente ainsi l'un des dossiers les plus utiles pour comprendre l'articulation entre mise en scène et prescription rituelle.
+
+Le découpage du décor en registres invite à étudier la progression de l'action sans confondre ordre de lecture et chronologie du geste. L'image impose des choix de composition : scènes qui se répondent, acteurs répétés, objets montrés à des endroits accessibles à la lecture. La représentation d'un intervenant à deux reprises ne démontre pas deux personnes distinctes.
+
+Le contexte de la tombe d'un haut dignitaire compte autant que le rite lui-même. Le programme décoratif fait reconnaître le statut d'un individu qui a disposé d'une chapelle et des ressources nécessaires à une représentation élaborée. Il serait imprudent de généraliser immédiatement cette iconographie aux sépultures modestes.
+
+### 647.6. La Maison de l'Or : concevoir la statue comme naissance
+
+Le titre de la scène de Rekhmirê place l'image dans la *ḥwt-nbw*, ordinairement traduite « Maison de l'Or ». Les séquences évoquent des espaces, des préparatifs et des artisans associés à la fabrication et à l'activation de la statue [P1 ; P2]. L'image façonnée est traitée comme une entité qui doit devenir capable d'accueillir les gestes de relation.
+
+La lecture selon laquelle la sculpture est pensée comme une naissance a été approfondie par Ann Macy Roth : des parallèles de vocabulaire et de gestuelle rapprochent l'achèvement d'une image et l'arrivée d'un être au monde [R3 ; R4]. C'est une hypothèse explicative étayée par une série de comparaisons, non un constat physique que toutes les statues étaient « nées » par le même procédé.
+
+Le problème philosophique est plus large que la statuaire. Une forme finie ne constitue pas nécessairement, pour une communauté religieuse, une présence déjà instituée. Entre la fabrication matérielle et la capacité à recevoir une offrande intervient un ensemble de gestes de reconnaissance. Leur logique peut être décrite sans trancher la question théologique de l'existence effective de cette présence.
+
+### 647.7. Qui agit ? Le prêtre-*sem*, le prêtre lecteur et le « fils aimé »
+
+La version de Rekhmirê mentionne plusieurs officiants dont les rôles se distribuent entre parole, manipulation, purification et mise en scène de la parenté. Le prêtre-*sem* et le prêtre lecteur apparaissent ensemble dans plusieurs séquences ; un « fils qu'il aime » intervient notamment dans les épisodes 31–32. La traduction donnée par UCL décrit l'arrivée du fils afin qu'il ouvre la bouche du défunt [P2].
+
+Le terme de « fils » peut être investi d'une portée dramatique et religieuse renvoyant à Horus et Osiris. Il n'autorise pourtant pas à conclure que le participant fut nécessairement le fils biologique de chaque défunt. Une fonction rituelle peut mettre en scène une relation filiale ; son identité sociale doit être démontrée par les documents locaux.
+
+L'étude des officiants exige donc de distinguer titulature, rôle joué et parenté effective. Cette précision protège l'histoire du rite contre deux lectures opposées : la première effacerait les personnes derrière un système symbolique abstrait ; la seconde réduirait une mise en scène religieuse à un portrait familial.
+
+### 647.8. Le prêtre lecteur et la force de la formule
+
+Les textes associent à plusieurs gestes la formule « paroles à dire ». Le prêtre lecteur n'est pas un simple commentateur extérieur à l'action ; sa lecture participe à la définition du geste. L'expression prononcée situe l'objet présenté dans un réseau de récits divins : le père, Horus, Seth, Ptah, Thot et l'Ennéade.
+
+Toutefois, le texte figuré ne précise pas la voix réelle, la hauteur de récitation ni l'intégralité des paroles qui ont pu être dites lors d'une célébration. Une inscription est une sélection destinée à perdurer sur la paroi. La pratique vivante pouvait mobiliser d'autres mots et des reprises non enregistrées.
+
+La méthode anthropologique recommande de penser ensemble performance et archive. L'archive fixe ce qui mérite d'être rappelé ; elle ne conserve ni la totalité du mouvement ni l'environnement sonore. Le rite ne se réduit pas à une liste de mots, mais les mots sont indispensables pour identifier l'action comme religieuse.
+
+### 647.9. Purifier avant d'ouvrir : eau, sel, natron et répétition
+
+Dans Rekhmirê, les épisodes précoces montrent des purifications avec différents récipients d'eau, puis des interventions au natron. Le parcours autour de la statue est parfois répété quatre fois, et les paroles identifient la purification de la personne à celle de puissances divines [P2, épisodes 2–5].
+
+Le natron du rite ne remplit pas la même fonction technique que les grandes quantités employées pour dessécher le corps. Il appartient ici à une opération de purification et d'autorisation. Une même matière peut entrer dans plusieurs chaînes opératoires : dessiccation, nettoyage, libation symbolique, préparation d'une table d'offrandes.
+
+Le rapprochement avec le chapitre précédent sur le natron est donc précis, et non redondant. L'analyse chimique renseigne sur des propriétés de dessiccation ; l'inscription de Rekhmirê renseigne sur des paroles et des gestes. Confondre ces registres ferait perdre la particularité de chacun.
+
+### 647.10. Le *peseshkaf* : outil ancien, modèle funéraire et hypothèse obstétricale
+
+Le petit plateau du Metropolitan Museum, **07.228.117a–h**, daté de l'Ancien Empire (Ve–VIe dynasties), réunit des modèles miniatures d'objets liés au rite, dont un instrument bifide et plusieurs vases. Sa notice explique que certains instruments reproduisent des formes de lames attestées depuis les périodes les plus anciennes [P3].
+
+Ann Macy Roth a proposé que la lame dite *psš-kf* ait été associée, dans une partie de l'histoire du rite, au traitement du nouveau-né et à la coupure du cordon ombilical [R3]. Cette lecture est documentée, mais demeure une interprétation historique, qui ne saurait être convertie en acte obstétrical vérifié pour chaque usage de la forme bifide.
+
+Deux précautions suivent. Une lame funéraire miniature n'est pas nécessairement une lame de travail à taille réelle ; une ressemblance de forme entre deux outils ne suffit pas à démontrer une identité de fonction. Le corpus des outils doit être étudié avec la datation et le contexte de dépôt de chaque pièce.
+
+### 647.11. Les herminettes : de la sculpture à la bouche du défunt
+
+Les épisodes de Rekhmirê présentent l'emploi d'instruments qualifiés dans les traductions de lames ou d'herminettes. Dans l'épisode 26, le texte appelle Horus à ouvrir la bouche et décrit un outil métallique associé à cette opération [P2].
+
+L'herminette appartient au monde des artisans : elle travaille le bois, transforme une matière et aide à produire une forme. Dans le rite, sa capacité de transformation est déplacée vers l'activation d'une bouche. Il serait cependant insuffisant d'expliquer toute l'action par une simple « métaphore du sculpteur ». Le texte associe l'outil à des épisodes du récit d'Horus et d'Osiris et à la possibilité de parler devant les dieux.
+
+Cette articulation autorise une histoire des techniques rituelles. Les gestes artisanaux et les gestes cultuels peuvent partager une forme sans appartenir au même régime d'efficacité revendiquée. Le rite mobilise la matérialité de l'instrument pour produire une capacité définie religieusement.
+
+### 647.12. Ptah, Thot et la bouche délivrée : le chapitre 23 du Livre des Morts
+
+Le chapitre 23 du *Livre des Morts* donne une formule distincte du grand cycle figuré dans TT 100. Dans la version de deux manuscrits de la XVIIIe dynastie publiée par UCL, Ptah libère la bouche du défunt et Thot vient avec ses paroles efficaces ; les entraves liées à Seth sont levées [P4].
+
+La composition n'est pas attestée dans les témoins du Moyen Empire recensés par la notice ; elle apparaît notamment sur le cercueil de la reine Mentouhotep de la XVIIe dynastie. Ce repère textuel ne doit pas être pris pour la date d'origine de toute pratique d'ouverture de la bouche, qui a une histoire plus longue [P4].
+
+Le chapitre 23 fournit un exemple particulièrement clair des relations entre opérateur rituel et puissance divine. La formule énonce une libération comme acte de Ptah ou de Thot, mais elle est conservée par l'intermédiaire d'un objet écrit destiné au défunt. Le dieu, la voix du texte et le support funéraire doivent être distingués pour comprendre la composition.
+
+### 647.13. Manger, parler, voir : plusieurs sens, une existence relationnelle
+
+L'ouverture de la bouche est souvent présentée dans les musées comme restauration de la capacité de manger et de respirer, mais le rite ouvre également les yeux et vise la participation à la communauté divine [R1 ; P3]. L'image destinée à recevoir du pain, de la bière ou de l'eau devient un destinataire rituel.
+
+La capacité retrouvée n'est pas un ensemble d'organes biologiquement fonctionnels. C'est l'aptitude, telle que pensée par les textes, à bénéficier de rapports qui constituent une existence : percevoir, répondre, être nourri, être reconnu. Le corps rituel est ainsi conçu comme corps de relation.
+
+Le contraste avec la seule préservation est décisif. La momie sans rite serait un support conservé ; le rite sans corps ou sans image serait une parole sans le même dispositif matériel. Les sources montrent que les deux systèmes sont pensés pour se soutenir, sans que leur articulation soit identique dans chaque sépulture.
+
+### 647.14. L'offrande de viande et la cuisse : ne pas effacer la violence du geste
+
+La synopse d'Otto fait une place importante aux offrandes de viande. À Rekhmirê, les épisodes 23–25 et 42–47 comprennent les opérations autour d'un bovin et la présentation de morceaux choisis à la statue [P2]. L'offrande n'est pas un complément alimentaire secondaire ajouté à une cérémonie purement verbale.
+
+La dimension sacrificielle peut être étudiée à partir de René Girard, qui a cherché à comprendre le rapport entre violence, victime et ordre social. Mais rien, dans ces passages à eux seuls, n'établit l'existence d'une substitution de bouc émissaire ni d'une violence fondatrice au sens strict de ce modèle. Une comparaison rigoureuse doit constater les limites de pertinence de Girard.
+
+Le texte associe par ailleurs les gestes de viande à Horus et à l'œil d'Horus. La victime n'est donc pas simplement une « matière animale ». Sa présentation entre dans une grammaire d'actions, d'allusions mythiques et d'appels divins. La recherche doit suivre l'épisode précis avant de proposer un récit général sur le sacrifice.
+
+### 647.15. L'œil d'Horus : une offrande peut être plus que son matériau
+
+Dans plusieurs séquences de Rekhmirê, des objets présentés sont identifiés par la parole rituelle à l'« œil d'Horus ». Cette désignation ne transforme pas physiquement l'eau, le morceau de viande ou l'instrument en organe d'un dieu ; elle leur confère une place dans un récit de réparation et d'intégrité [P2, épisodes 26, 41].
+
+La formule met ainsi en relation des choses différentes par une fonction rituelle. L'œil retrouvé d'Horus appartient à des traditions de restauration d'un ordre troublé ; une offrande particulière peut reprendre une partie de cette puissance narrative.
+
+L'analyse philologique doit éviter de traduire toutes ces identifications par une même essence magique. Une expression peut servir dans plusieurs épisodes, sans assurer que les actions se déroulent de la même manière. Sa valeur dépend de l'objet offert, de l'adresse et de la position dans le texte.
+
+### 647.16. Finaliser la statue : accomplir et installer
+
+Les étapes finales de Rekhmirê comprennent l'installation de la statue dans sa chapelle, l'ouverture des portes du sanctuaire et des déclarations d'achèvement, avec offrandes et encensements [P2, épisodes 69–75]. Le rite vise donc un résultat durable : un objet placé pour être rencontré et nourri.
+
+L'activation n'est pas exclusivement un instant de contact avec la bouche. Elle se déploie dans un parcours de préparation, reconnaissance, purification, présentation de nourriture et installation. Sa durée exacte ne peut être restituée à partir des seules légendes du décor.
+
+Cet aspect distingue l'activation rituelle d'une intervention mécanique unique. Elle suppose un avant et un après : une image fabriquée, puis instituée comme destinataire d'actes. Cette relation peut être confrontée à la réflexion philosophique sur l'institution sans faire d'une inscription funéraire une théorie philosophique.
+
+### 647.17. Statue, cercueil, momie : ne pas imposer un destinataire uniforme
+
+Les mêmes éléments rituels peuvent accompagner la consecration d'une image et, dans des représentations du Nouvel Empire, la préparation du défunt ou de son cercueil. La variété des supports explique une part de la longue vie du rite [R1].
+
+La distinction a une conséquence muséographique. Une statuette déposée dans une tombe, un corps momifié et une scène murale d'ouverture de la bouche ne doivent pas être légendés comme s'ils montraient « le même rite » sous trois photographies interchangeables. Ils attestent des situations différentes, même lorsqu'une parenté religieuse est reconnue.
+
+Il faut aussi résister à la tentation de déduire la croyance intime d'un individu de la seule présence d'un objet. Un récipient préparé pour la cérémonie indique un programme funéraire ; son utilisation effective et le degré de participation de l'entourage exigent des preuves complémentaires.
+
+### 647.18. Comparaison mésopotamienne : *mīs pî* et *pīt pî*, sans identité des théologies
+
+Les rituels mésopotamiens de « lavage » et d'« ouverture de la bouche » d'une image divine offrent un contraste méthodologiquement fécond. Ils concernent particulièrement la constitution d'une statue destinée au service cultuel, tandis que le dossier ici étudié s'inscrit dans une économie funéraire et une histoire spécifique des images de personnes.
+
+Les ressemblances de vocabulaire ne prouvent pas une origine commune ni une circulation directe de toutes les procédures. Elles permettent de poser une question bien délimitée : comment une communauté reconnaît-elle qu'un objet façonné est capable de recevoir nourriture, vêtement et attention cultuelle ?
+
+Les recherches sur les rites de fabrication des images en Mésopotamie, notamment celles de Michael B. Dick et de Christopher Walker, sont ici indiquées comme contexte comparatif. Elles ne servent pas à corriger automatiquement la séquence de Rekhmirê à partir d'un texte akkadien. L'analyse garde à chaque tradition ses corpus, ses agents et ses lieux.
+
+### 647.19. Comparaisons grecque et indienne : les limites du passage d'une image à une présence
+
+Dans plusieurs traditions grecques, les images divines sont parées, lavées, transportées ou destinataires d'offrandes. Cela démontre des relations rituelles actives avec des statues, non l'existence d'une « ouverture de la bouche » grecque identique au rite égyptien. La littérature relative aux images d'Athéna ou à leurs déplacements doit être rapportée à son lieu et à son époque.
+
+Des traditions indiennes de consécration d'images (*pratiṣṭhā*) comportent également des gestes visant à instituer la présence d'une divinité dans un support. Les textes normatifs et les pratiques sont historiquement divers. Une comparaison détaillée supposerait un choix de corpus sanskrit daté et une histoire des temples concernés ; cette étude ne revendique ni transmission entre Inde et Égypte ni identité des rites.
+
+La méthode de Detienne consiste à construire le comparable, non à supposer que toutes les images religieuses constituent un même phénomène. Les questions communes sont celles de l'autorisation, de la reconnaissance et des gestes ; les réponses indigènes doivent être analysées séparément.
+
+### 647.20. Durkheim et Hegel : l'institution de la capacité
+
+La sociologie de Durkheim attire l'attention sur les conditions collectives de l'efficacité rituelle : la reconnaissance d'un officiant, la distribution des fonctions, la répétition et la circulation des objets. Elle ne prouve pas qu'un rite ne soit que la projection d'un ordre social. Elle permet de formuler comment une communauté organise des relations réputées efficaces.
+
+Une lecture hégélienne peut distinguer la matière façonnée de sa reconnaissance dans un ensemble institué : une statue ne reçoit pas simplement une forme ; elle est placée dans une relation où les vivants la traitent comme destinataire. La transformation religieuse ne se laisse pas réduire à l'usinage de la pierre.
+
+Il faut limiter ces lectures. Hegel n'a pas commenté la scène de Rekhmirê comme un document archéologique et Durkheim n'en fournit pas le déchiffrement. Ils servent à expliciter une structure conceptuelle que les sources matérielles et textuelles seules peuvent historiquement attester.
+
+### 647.21. Nietzsche, Eliade et la fabrication de la permanence
+
+Nietzsche permet de poser une question sur la mémoire : qu'est-ce qu'une société doit fabriquer pour que la personne défunte reste capable d'être appelée, nourrie et reconnue ? Les objets rituels, les paroles et les inscriptions constituent une réponse matérielle, bien qu'ils n'aient pas été conçus selon une philosophie nietzschéenne.
+
+La notion éliadienne de passage du profane au sacré aide à décrire une transition de statut. Elle court cependant le risque de rendre identiques des pratiques que l'archéologie distingue. Un plateau de l'Ancien Empire et un décor de la XVIIIe dynastie ne sont pas des illustrations intemporelles d'une « sacralité » universelle.
+
+La question philosophique centrale reste celle de l'identité par transformation. Le défunt et son image ne sont pas simplement conservés : ils sont intégrés à une chaîne de gestes où la matière est devenue capable d'être adressée. La possibilité d'une telle adresse relève de la croyance et de l'institution ; elle ne se vérifie pas par des tests biologiques.
+
+### 647.22. Faits, controverses et hypothèses — bilan de méthode
+
+**Faits attestés.** La tombe TT 100 conserve une longue série liée à l'ouverture de la bouche ; la classification synoptique compte environ soixante-quinze épisodes provenant de sources multiples, dont cinquante et un à Rekhmirê ; des outils et modèles de cérémonie sont conservés, notamment au Metropolitan Museum ; le chapitre 23 du *Livre des Morts* présente une parole de Ptah et Thot liée à l'ouverture de la bouche [P1–P4 ; R1].
+
+**Discussions.** L'hypothèse obstétricale sur le *psš-kf*, la relation exacte entre gestes de sculpture et gestes funéraires, les modes de transmission des séquences, la présence effective de chaque outil, l'étendue sociale des cérémonies et les variations chronologiques demeurent des questions ouvertes.
+
+**Hypothèses à vérifier.** Un inventaire diachronique des instruments, la comparaison des verbes de contact, la cartographie des suppressions d'épisodes et l'analyse des destinataires (statue, cercueil, momie) pourraient préciser la manière dont une aptitude à recevoir est instituée. Aucune nouvelle collation épigraphique ni expérience archéologique n'est prétendue réalisée ici.
+
+### 647.23. Conclusion : restaurer des sens, rendre possible une relation
+
+Le rite ne promet pas une résurrection physiologique. Il inscrit dans un ensemble de gestes et de paroles la capacité du mort à recevoir nourriture, regard, souffle et adresse. Après l'atelier d'embaumement et le traitement des organes, il révèle une dimension complémentaire de la préparation funéraire : on ne conserve pas seulement un corps, on institue sa possibilité d'entrer en relation.
+
+L'archéologie montre les instruments et les lieux ; la philologie montre les paroles et leurs variations ; la philosophie peut analyser la reconnaissance ; aucune de ces approches ne doit éliminer les autres. La synthèse doit respecter le caractère situé de Rekhmirê et les transformations d'un rite traversant plusieurs millénaires.
+
+### Sources primaires, édition et bibliographie critique
+
+- **[P1] Tombe-chapelle de Rekhmirê, TT 100,** paroi nord de la chambre postérieure : décor et inscriptions de la cérémonie, XVIIIe dynastie. Transcription, traduction et indication des épisodes dans *Digital Egypt for Universities*, UCL, « Opening of the Mouth » : https://www.ucl.ac.uk/museums-static/digitalegypt/religion/wpr.html .
+- **[P2] Rekhmirê, séquence des cinquante et un épisodes**, traduction des formules et description des gestes, UCL, « Opening of the Mouth — contents of the ritual » : https://www.ucl.ac.uk/museums-static/digitalegypt/religion/wpr2.html . Les numéros correspondent à la convention d'Otto et non à une liturgie universelle.
+- **[P3] Metropolitan Museum of Art**, « Model of the 'Opening of the Mouth' ritual equipment », plateau et instruments, Ancien Empire, n° **07.228.117a–h** : https://www.metmuseum.org/art/collection/search/543920 . Objet conservé, datation et description muséale.
+- **[P4] Livre des Morts, chapitre 23**, papyri de la XVIIIe dynastie cités par UCL, transcription et traduction : https://www.ucl.ac.uk/museums-static/digitalegypt/literature/religious/bd23.html . Il s'agit d'une formule et non de l'intégralité du rite.
+- **[P5] Metropolitan Museum of Art**, « 'Opening of the Mouth' vessel of Perneb », n° **14.7.93**, Ve dynastie, tombe de Perneb à Saqqara : https://www.metmuseum.org/art/collection/search/547093 . Contexte de fouille précis, fonction rituelle attribuée par le musée.
+- **[R1] University College London**, « The 'Opening of the Mouth' ritual », dossier synthétique institutionnel et mises en garde sur les versions : https://www.ucl.ac.uk/museums-static/digitalegypt/religion/wpr.html .
+- **[R2] Eberhard Otto**, *Das ägyptische Mundöffnungsritual*, 2 vol., Wiesbaden, Harrassowitz, **1960**. Édition synoptique de référence, utilisée via la documentation universitaire d'UCL ; aucun dépouillement exhaustif nouveau des deux volumes n'est revendiqué.
+- **[R3] Ann Macy Roth**, « The Psš-kf and the 'Opening of the Mouth' Ceremony: A Ritual of Birth and Rebirth », *Journal of Egyptian Archaeology* **78** (1992), p. 113–147, DOI https://doi.org/10.1177/030751339207800107 . La lecture obstétricale est attribuée à l'auteure.
+- **[R4] Ann Macy Roth**, « Fingers, Stars, and the 'Opening of the Mouth': The Nature and Function of the Nṯrwj-Blades », *Journal of Egyptian Archaeology* **79** (1993), p. 57–79, DOI https://doi.org/10.1177/030751339307900106 . Présentation du modèle interprétatif, sans prétendre à une relecture intégrale de l'article sous abonnement.
+- **[R5] Jean-Pierre Vernant**, *Mythe et pensée chez les Grecs* ; **Marcel Detienne**, *Comparer l'incomparable* ; **Émile Durkheim**, *Les Formes élémentaires de la vie religieuse* ; **G. W. F. Hegel**, *Phénoménologie de l'esprit* ; **Friedrich Nietzsche**, *La Généalogie de la morale* ; **Mircea Eliade**, *Le Sacré et le profane* ; **René Girard**, *La Violence et le Sacré*. Emplois explicitement conceptuels ; ces œuvres ne sont pas présentées comme des éditions des textes égyptiens.
+
+**Note éditoriale.** La comparaison avec la Mésopotamie, la Grèce et l'Inde est une confrontation de questions et de types de sources. Elle ne prétend établir ni filiation ni origine universelle du rite.

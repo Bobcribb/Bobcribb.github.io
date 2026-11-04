@@ -447,6 +447,18 @@
           "path": "chapitres/origines-du-sacre/646-vases-canopes-fils-horus-organes-faux-vases-nubie-adn.md",
           "request_sha256": "91b02b14db25504d9af9324aa1b95cac8b8224fe9a141354df6982020f1ca639",
           "initial_source_sha256": "c1789bfc1bbee16f9d367c7f14b00eaafc0f57f66458b2e79c512f60d6305f1f"
+        },
+        "7e1d1c5a-5d41-4c8e-aaf4-3b51d3d02e63": {
+          "number": 647,
+          "path": "chapitres/origines-du-sacre/647-ouverture-bouche-rekhmire-ptah-outils-sens-reanimation.md",
+          "request_sha256": "80e407dda6f5d943027124f20177b1788da657b10f998b22dc1ba61bff144bc9",
+          "initial_source_sha256": "ebaed5a6cfdaf111bfefbc6b5342ad05b07b9f6a280c025fbcd8944c26f83340"
+        },
+        "aa3d9ea8-4dfe-4a20-9bed-e5329c5f9412": {
+          "number": 648,
+          "path": "chapitres/origines-du-sacre/648-chabtis-ouchebtis-travail-au-dela-chapitre-six-bd.md",
+          "request_sha256": "12762e3be00d7f547542748fa5a35779ac3da4bc74ce0e3c08e31c45c181e3f0",
+          "initial_source_sha256": "6c70a6a2c65c706f5813b207fd367860c9f938319479d8fd56703b59ba399437"
         }
       }
     },
@@ -886,6 +898,12 @@
           "path": "chapitres/encyclopedie/chapitre-420-makaria-heraclides-sacrifice-volontaire-asile-athenes.md",
           "request_sha256": "6cc63be3052a9c8069d225bb12bfa6df7bdd6e11d8595c36c569e55858a47740",
           "initial_source_sha256": "77bbe298afd000ef9e3fb8253906c5cbefa3e77d8ffaef89620e91db26fdc3f3"
+        },
+        "d798dc0c-625a-4786-84ce-7e6fe1ca86a0": {
+          "number": 421,
+          "path": "chapitres/encyclopedie/chapitre-421-praxidikai-praxidike-serments-haliarte-beotie-mnaseas.md",
+          "request_sha256": "b66288acd9c7b33aeaef935d5bf6b6a83797362da1447a0ba73dc7f1cd082e12",
+          "initial_source_sha256": "e517af8b12f70ff11fa1b5fdc7d03ed7cba96a92af2b555c68139b3ca22a607d"
         }
       }
     },
@@ -1168,6 +1186,12 @@
           "path": "chapitres/comedies/volume-095-nikochares-kretes-outils-alenes-forets-dedale-pasiphae-paratragedie.md",
           "request_sha256": "3fba0cdaa427f19aa418b039412c3ec492a010d1fbc99c46860c9f39711ed5cc",
           "initial_source_sha256": "8a595bf07999a6754a9be92ff19fbcddbe7a9f7ddce397308679ce82bd3eebb8"
+        },
+        "e6ef40fb-cf19-4b25-b1fa-d5a98a411bec": {
+          "number": 96,
+          "path": "chapitres/comedies/volume-096-nikochares-lakones-spartiates-388-kottabos-manes-laconisme-paix.md",
+          "request_sha256": "7d6994c1978cb9e20922465b7b3b35a1b722a0fbda3defa6b32dcb0d0e3e8cd7",
+          "initial_source_sha256": "0572fa9bed934c52e3a51d76d869bfe753ba63d8d22681a3bb6327f0570cb73b"
         }
       }
     },
@@ -1492,6 +1516,12 @@
           "path": "chapitres/tragedies/volume-ccxxxvii-sophocle-tantale-hermes-oracle-pandareos-chien-or-serment-sipyle.md",
           "request_sha256": "5246570e1037371d48552afb0ec8c287591cbde728b374ad1816c85b80a6fd2a",
           "initial_source_sha256": "e75a1d6077c54b19580a038c94f052624b436e99f0c505655504393ec1304886"
+        },
+        "3f42a8de-cc8d-4c66-aafa-42a1d32efc18": {
+          "number": 238,
+          "path": "chapitres/tragedies/volume-ccxxxviii-sophocle-teucros-telamon-ajax-accusation-trahison-salamine-chypre.md",
+          "request_sha256": "3dd2a6bd39ae7bdd5c54949efce7d2bf474525a60a1f33a91198316e859f58fb",
+          "initial_source_sha256": "0649e10ca5d3e36f954d6fa73523efd64f235c3cf669ea20420c6c4f31814384"
         }
       }
     },

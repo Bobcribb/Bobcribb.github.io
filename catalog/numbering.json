@@ -708,6 +708,12 @@
         "url": "/chapitres/encyclopedie/chapitre-420-makaria-heraclides-sacrifice-volontaire-asile-athenes/",
         "title": "Chapitre 420 — Chapitre 420 — Makaria (Μακαρία) : sacrifice volontaire, Héraclides et salut d'Athènes",
         "source": "chapitres/encyclopedie/chapitre-420-makaria-heraclides-sacrifice-volontaire-asile-athenes.md"
+      },
+      {
+        "number": 421,
+        "url": "/chapitres/encyclopedie/chapitre-421-praxidikai-praxidike-serments-haliarte-beotie-mnaseas/",
+        "title": "Chapitre 421 — Chapitre 421 — Les Praxidikai (Πραξιδίκαι) et Praxidikè (Πραξιδίκη) : le serment, l'exécution de la justice et les déesses d'Haliarte",
+        "source": "chapitres/encyclopedie/chapitre-421-praxidikai-praxidike-serments-haliarte-beotie-mnaseas.md"
       }
     ],
     "tragedies": [
@@ -1538,6 +1544,12 @@
         "url": "/chapitres/tragedies/volume-ccxxxvii-sophocle-tantale-hermes-oracle-pandareos-chien-or-serment-sipyle/",
         "title": "Volume CCXXXVII (237) — Sophocle, Tantale (Tantalos, Τάνταλος) — Parole oraculaire, parjure, table des dieux et catastrophe de la maison des Pélopides",
         "source": "chapitres/tragedies/volume-ccxxxvii-sophocle-tantale-hermes-oracle-pandareos-chien-or-serment-sipyle.md"
+      },
+      {
+        "number": 238,
+        "url": "/chapitres/tragedies/volume-ccxxxviii-sophocle-teucros-telamon-ajax-accusation-trahison-salamine-chypre/",
+        "title": "Volume CCXXXVIII (238) — Sophocle, Teucros (Τεῦκρος) — Le survivant d’Ajax, l’accusation de trahison et l’exil vers Salamine de Chypre",
+        "source": "chapitres/tragedies/volume-ccxxxviii-sophocle-teucros-telamon-ajax-accusation-trahison-salamine-chypre.md"
       }
     ],
     "comparatif": [
@@ -3219,6 +3231,12 @@
         "url": "/chapitres/comedies/volume-095-nikochares-kretes-outils-alenes-forets-dedale-pasiphae-paratragedie/",
         "title": "Volume XCV (95) — Nicocharès, Krêtes (Κρῆτες), « Les Crétois » — Une armée d'alênes contre les forets : technique, métaphore guerrière et mémoire de la tragédie de Pasiphaé",
         "source": "chapitres/comedies/volume-095-nikochares-kretes-outils-alenes-forets-dedale-pasiphae-paratragedie.md"
+      },
+      {
+        "number": 96,
+        "url": "/chapitres/comedies/volume-096-nikochares-lakones-spartiates-388-kottabos-manes-laconisme-paix/",
+        "title": "Volume XCVI (96) — Nicocharès, Lakōnes (Λάκωνες), « Les Spartiates » : guerre de Corinthe, représentation de l'étranger, jeu du cottabe, laconisme et négociation de la paix en 388 av. J.-C.",
+        "source": "chapitres/comedies/volume-096-nikochares-lakones-spartiates-388-kottabos-manes-laconisme-paix.md"
       }
     ],
     "origines-du-sacre": [
@@ -4397,6 +4415,18 @@
         "url": "/chapitres/origines-du-sacre/646-vases-canopes-fils-horus-organes-faux-vases-nubie-adn/",
         "title": "Chapitre 646 — Garder les organes, préserver la personne : vases canopes, quatre fils d’Horus, fausses urnes et mémoire funéraire de l’Égypte à la Nubie",
         "source": "chapitres/origines-du-sacre/646-vases-canopes-fils-horus-organes-faux-vases-nubie-adn.md"
+      },
+      {
+        "number": 647,
+        "url": "/chapitres/origines-du-sacre/647-ouverture-bouche-rekhmire-ptah-outils-sens-reanimation/",
+        "title": "Chapitre 647 — Rendre au mort ses sens : l'ouverture de la bouche, les prêtres et la fabrication rituelle d'une présence en Égypte ancienne",
+        "source": "chapitres/origines-du-sacre/647-ouverture-bouche-rekhmire-ptah-outils-sens-reanimation.md"
+      },
+      {
+        "number": 648,
+        "url": "/chapitres/origines-du-sacre/648-chabtis-ouchebtis-travail-au-dela-chapitre-six-bd/",
+        "title": "Chapitre 648 — Répondre à la place du mort : chaouabtis, ouchebtis, travail de l'au-delà et statut des serviteurs funéraires",
+        "source": "chapitres/origines-du-sacre/648-chabtis-ouchebtis-travail-au-dela-chapitre-six-bd.md"
       }
     ]
   },
