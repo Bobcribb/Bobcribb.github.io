@@ -7,28 +7,28 @@
   "new_navigation_errors": [],
   "legacy_link_issues": [
     {
-      "page": "/heracles/index.html",
-      "url": "/bestiaire/#nemean",
+      "page": "/sites/delphes.html",
+      "url": "/reconstitutions-3d.html#del-001",
       "problem": "ancre absente"
     },
     {
-      "page": "/heracles/index.html",
-      "url": "/bestiaire/#hydre",
+      "page": "/sites/delphes.html",
+      "url": "/reconstitutions-3d.html#del-002",
       "problem": "ancre absente"
     },
     {
-      "page": "/heracles/index.html",
-      "url": "/bestiaire/#cerbere",
+      "page": "/sites/dodone.html",
+      "url": "/reconstitutions-3d.html#dod-001",
       "problem": "ancre absente"
     },
     {
-      "page": "/sites/sounion.html",
-      "url": "/reconstitutions-3d.html#sou-001",
+      "page": "/sites/dodone.html",
+      "url": "/reconstitutions-3d.html#dod-002",
       "problem": "ancre absente"
     },
     {
-      "page": "/sites/sounion.html",
-      "url": "/reconstitutions-3d.html#sou-002",
+      "page": "/sites/dodone.html",
+      "url": "/reconstitutions-3d.html#dodone",
       "problem": "ancre absente"
     },
     {
@@ -44,61 +44,6 @@
     {
       "page": "/sites/corinthe.html",
       "url": "/reconstitutions-3d.html#corinthe",
-      "problem": "ancre absente"
-    },
-    {
-      "page": "/sites/egine-aphaia.html",
-      "url": "/reconstitutions-3d.html#aeg-001",
-      "problem": "ancre absente"
-    },
-    {
-      "page": "/sites/egine-aphaia.html",
-      "url": "/reconstitutions-3d.html#aeg-002",
-      "problem": "ancre absente"
-    },
-    {
-      "page": "/sites/delphes.html",
-      "url": "/reconstitutions-3d.html#del-001",
-      "problem": "ancre absente"
-    },
-    {
-      "page": "/sites/delphes.html",
-      "url": "/reconstitutions-3d.html#del-002",
-      "problem": "ancre absente"
-    },
-    {
-      "page": "/sites/nemee.html",
-      "url": "/reconstitutions-3d.html#nem-001",
-      "problem": "ancre absente"
-    },
-    {
-      "page": "/sites/nemee.html",
-      "url": "/reconstitutions-3d.html#nem-002",
-      "problem": "ancre absente"
-    },
-    {
-      "page": "/sites/nemee.html",
-      "url": "/reconstitutions-3d.html#nemee",
-      "problem": "ancre absente"
-    },
-    {
-      "page": "/sites/bassae.html",
-      "url": "/reconstitutions-3d.html#bas-001",
-      "problem": "ancre absente"
-    },
-    {
-      "page": "/sites/bassae.html",
-      "url": "/reconstitutions-3d.html#bas-002",
-      "problem": "ancre absente"
-    },
-    {
-      "page": "/sites/bassae.html",
-      "url": "/reconstitutions-3d.html#bassae",
-      "problem": "ancre absente"
-    },
-    {
-      "page": "/sites/bassae.html",
-      "url": "/reconstitutions-3d.html#bassae",
       "problem": "ancre absente"
     },
     {
@@ -122,6 +67,26 @@
       "problem": "ancre absente"
     },
     {
+      "page": "/sites/sounion.html",
+      "url": "/reconstitutions-3d.html#sou-001",
+      "problem": "ancre absente"
+    },
+    {
+      "page": "/sites/sounion.html",
+      "url": "/reconstitutions-3d.html#sou-002",
+      "problem": "ancre absente"
+    },
+    {
+      "page": "/sites/egine-aphaia.html",
+      "url": "/reconstitutions-3d.html#aeg-001",
+      "problem": "ancre absente"
+    },
+    {
+      "page": "/sites/egine-aphaia.html",
+      "url": "/reconstitutions-3d.html#aeg-002",
+      "problem": "ancre absente"
+    },
+    {
       "page": "/sites/brauron.html",
       "url": "/reconstitutions-3d.html#brauron",
       "problem": "ancre absente"
@@ -142,23 +107,58 @@
       "problem": "ancre absente"
     },
     {
-      "page": "/sites/dodone.html",
-      "url": "/reconstitutions-3d.html#dod-001",
+      "page": "/sites/bassae.html",
+      "url": "/reconstitutions-3d.html#bas-001",
       "problem": "ancre absente"
     },
     {
-      "page": "/sites/dodone.html",
-      "url": "/reconstitutions-3d.html#dod-002",
+      "page": "/sites/bassae.html",
+      "url": "/reconstitutions-3d.html#bas-002",
       "problem": "ancre absente"
     },
     {
-      "page": "/sites/dodone.html",
-      "url": "/reconstitutions-3d.html#dodone",
+      "page": "/sites/bassae.html",
+      "url": "/reconstitutions-3d.html#bassae",
+      "problem": "ancre absente"
+    },
+    {
+      "page": "/sites/bassae.html",
+      "url": "/reconstitutions-3d.html#bassae",
+      "problem": "ancre absente"
+    },
+    {
+      "page": "/sites/nemee.html",
+      "url": "/reconstitutions-3d.html#nem-001",
+      "problem": "ancre absente"
+    },
+    {
+      "page": "/sites/nemee.html",
+      "url": "/reconstitutions-3d.html#nem-002",
+      "problem": "ancre absente"
+    },
+    {
+      "page": "/sites/nemee.html",
+      "url": "/reconstitutions-3d.html#nemee",
       "problem": "ancre absente"
     },
     {
       "page": "/iliade/index.html",
       "url": "/glossaire/#kleos",
+      "problem": "ancre absente"
+    },
+    {
+      "page": "/heracles/index.html",
+      "url": "/bestiaire/#nemean",
+      "problem": "ancre absente"
+    },
+    {
+      "page": "/heracles/index.html",
+      "url": "/bestiaire/#hydre",
+      "problem": "ancre absente"
+    },
+    {
+      "page": "/heracles/index.html",
+      "url": "/bestiaire/#cerbere",
       "problem": "ancre absente"
     },
     {
