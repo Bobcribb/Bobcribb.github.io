@@ -391,6 +391,28 @@ def apply(root):
             ordered.append(current)
             trail.append(ordered)
             banner.insert_after(trail)
+        # Navigation de fin d'étude : l'article, ses sources et sa bibliographie
+        # restent immuables. Les renvois pointent vers les rubriques du site.
+        for previous in doc.select('nav.mythos-study-endnav'):
+            previous.decompose()
+        if (len(parts) >= 4 and parts[0] == 'chapitres'
+                and parts[1] in collection_trails and main):
+            study_article = main.select_one('article.content') or main.select_one('article')
+            if study_article:
+                parent_url, parent_label = collection_trails[parts[1]]
+                endnav = doc.new_tag('nav', attrs={
+                    'class': 'mythos-study-endnav',
+                    'aria-label': 'Navigation de fin de lecture',
+                })
+                for href, label in (
+                    (parent_url, 'Retour : ' + parent_label),
+                    ('/catalogue-integral/', 'Catalogue intégral'),
+                    ('#' + heading['id'], 'Retour au titre'),
+                ):
+                    link = doc.new_tag('a', href=href)
+                    link.string = label
+                    endnav.append(link)
+                study_article.insert_after(endnav)
         # Shared keyboard behaviour for the native menu; no client-side theming.
         if not doc.select_one('script[src*="mythos-museum.js"]'):
             doc.body.append(doc.new_tag('script', src='/assets/mythos-museum.js?v='+VERSION, defer=''))

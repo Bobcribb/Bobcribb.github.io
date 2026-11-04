@@ -480,3 +480,51 @@ body.mythos-reading .mythos-scholarly-toc a:hover{color:#f6dcaa}
 @media print{
   body.mythos-reading .mythos-scholarly-toc{display:none!important}
 }
+
+/* Retour de lecture des études : hors manuscrit, toujours après les sources. */
+body.mythos-reading .mythos-study-endnav{
+  display:flex;
+  flex-wrap:wrap;
+  align-items:stretch;
+  justify-content:center;
+  gap:12px;
+  width:min(100%,900px);
+  margin:44px auto 36px;
+  padding:24px 12px;
+  border-top:1px solid #8b754f;
+  border-bottom:1px solid #514736;
+  background:#101719;
+}
+body.mythos-reading .mythos-study-endnav a{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  flex:1 1 170px;
+  min-height:44px;
+  padding:11px 16px;
+  border:1px solid #756246;
+  color:#ecd7ae;
+  background:#152023;
+  font:16px/1.45 Georgia,serif;
+  text-align:center;
+  text-decoration:none;
+  overflow-wrap:anywhere;
+}
+body.mythos-reading .mythos-study-endnav a:hover,
+body.mythos-reading .mythos-study-endnav a:focus-visible{
+  border-color:#e4bd83;
+  background:#24302f;
+  text-decoration:underline;
+  text-underline-offset:4px;
+}
+@media(max-width:620px){
+  body.mythos-reading .mythos-study-endnav{
+    display:grid;
+    grid-template-columns:minmax(0,1fr);
+    margin:30px auto;
+    padding:16px 10px;
+  }
+}
+@media print{
+  body.mythos-reading .mythos-study-endnav{display:none!important}
+}
