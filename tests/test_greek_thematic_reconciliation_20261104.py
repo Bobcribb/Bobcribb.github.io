@@ -10,7 +10,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / 'scripts'))
-from build_greek_folders import classify
+from build_greek_folders import CSS, classify
 
 # (numéro attribué, sujet immuable, famille, sous-dossier documentaire)
 CASES = (
@@ -55,6 +55,13 @@ class GreekThematicReconciliationTests(unittest.TestCase):
                                   'Chapitre universitaire')
                 self.assertEqual(actual, (folder, section), name)
                 self.assertNotEqual(actual[1], 'Nouvelles études à classer', name)
+
+    def test_small_screens_and_native_disclosures_stay_accessible(self):
+        self.assertIn('@media(max-width:700px)', CSS)
+        self.assertIn('@media(max-width:400px)', CSS)
+        self.assertIn('.greek-folder-credit summary{display:list-item;min-height:44px', CSS)
+        self.assertIn('.greek-complete-catalogue>summary{display:list-item;min-height:44px', CSS)
+        self.assertIn('.greek-folder-links a{display:flex;align-items:center;min-height:44px', CSS)
 
     def test_unidentified_future_chapter_remains_visible_without_speculative_assignment(self):
         self.assertEqual(
