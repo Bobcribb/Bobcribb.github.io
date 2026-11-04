@@ -1321,6 +1321,12 @@
           "path": "chapitres/comparatif/volume-cciv-mc-034-assemblees-divines-conseils-justice-souverainete-orient-grece.md",
           "request_sha256": "12aaa8e615d66c8fe89c1cc2e35d5cd7b5fec7813f09c06971166b510dc9e91b",
           "initial_source_sha256": "e745cef8ebd7df08052f72f26f7c9d478e29ea0e38dafc273c3a99bea1fd8c2f"
+        },
+        "5d8f6a10-7e14-4bb2-9204-f6dd52b3a987": {
+          "number": 205,
+          "path": "chapitres/comparatif/volume-ccv-ploutos-penia-travail-justice-theodicee-economique-388.md",
+          "request_sha256": "f8513d81d288c272cb48800f0cfd9a3d8157a63e05de4b3160d0d0919cb9ab34",
+          "initial_source_sha256": "c5b0e0edcec843b256eeaf279cbe1fe3e3d45e9c599cd5fe922fa6bb1af955fb"
         }
       }
     }
