@@ -516,6 +516,12 @@
         "url": "/chapitres/encyclopedie/chapitre-388-pheme-rumeur-renommee-athenes-aeschine-demosthene/",
         "title": "Chapitre 388 — PHÈMÈ (Φήμη) — La parole publique divinisée : rumeur, renommée, vérité et pouvoir dans les cités grecques",
         "source": "chapitres/encyclopedie/chapitre-388-pheme-rumeur-renommee-athenes-aeschine-demosthene.md"
+      },
+      {
+        "number": 389,
+        "url": "/chapitres/encyclopedie/chapitre-389-hebe-jeunesse-heracles-phlionte-asylie-cultes-art-philosophie/",
+        "title": "Chapitre 389 — HÉBÉ (Ἥβη)",
+        "source": "chapitres/encyclopedie/chapitre-389-hebe-jeunesse-heracles-phlionte-asylie-cultes-art-philosophie.md"
       }
     ],
     "tragedies": [
@@ -1184,6 +1190,18 @@
         "url": "/chapitres/tragedies/volume-ccx-euripide-thyeste-parole-banquet-pouvoir-astres/",
         "title": "Volume CCX (210) — Euripide, Thyeste (Θυέστης) — Le pouvoir, la parole trompeuse et le banquet de la vengeance",
         "source": "chapitres/tragedies/volume-ccx-euripide-thyeste-parole-banquet-pouvoir-astres.md"
+      },
+      {
+        "number": 211,
+        "url": "/chapitres/tragedies/volume-ccxi-euripide-phrixos-second-tyche-dionysos-nephele/",
+        "title": "Volume CCXI (211) — Euripide, Phrixos II (Φρίξος Βʹ) — Fortune, délire dionysiaque et salut de Néphélé",
+        "source": "chapitres/tragedies/volume-ccxi-euripide-phrixos-second-tyche-dionysos-nephele.md"
+      },
+      {
+        "number": 212,
+        "url": "/chapitres/tragedies/volume-ccxii-euripide-phrixos-premier-sacrifice-oracle-nephele/",
+        "title": "Volume CCXII (212) — Euripide, Phrixos I (Φρίξος Αʹ) — La famine, le faux oracle et le sacrifice de l'innocent",
+        "source": "chapitres/tragedies/volume-ccxii-euripide-phrixos-premier-sacrifice-oracle-nephele.md"
       }
     ],
     "comparatif": [
@@ -2014,6 +2032,30 @@
         "url": "/chapitres/comparatif/volume-cxcii-serments-traites-maledictions-garanties-divines-egypte-hatti-assyrie-grece/",
         "title": "Volume CXCII (192) — Dossier historique MC-027 — Jurer devant les dieux : traités, malédictions et autorité politique de l'Égypte à la Grèce",
         "source": "chapitres/comparatif/volume-cxcii-serments-traites-maledictions-garanties-divines-egypte-hatti-assyrie-grece.md"
+      },
+      {
+        "number": 193,
+        "url": "/chapitres/comparatif/volume-cxciii-images-divines-consecration-ouverture-bouche-egypte-mesopotamie-grece/",
+        "title": "Volume CXCIII (193) — Étude autonome complémentaire — Faire vivre l'image divine : ouverture de la bouche, mīs pî, statues cultuelles et présence des dieux en Égypte, Mésopotamie et Grèce",
+        "source": "chapitres/comparatif/volume-cxciii-images-divines-consecration-ouverture-bouche-egypte-mesopotamie-grece.md"
+      },
+      {
+        "number": 194,
+        "url": "/chapitres/comparatif/volume-cxciv-composantes-personne-mort-ka-ba-akh-etemmu-psyche-fravashi/",
+        "title": "Volume CXCIV (194) — Dossier historique MC-029 — Une âme ou plusieurs ? Ka, ba, akh, eṭemmu, psychḗ, urvan et fravaši : les êtres humains après la mort, de l'Égypte à l'Iran ancien",
+        "source": "chapitres/comparatif/volume-cxciv-composantes-personne-mort-ka-ba-akh-etemmu-psyche-fravashi.md"
+      },
+      {
+        "number": 195,
+        "url": "/chapitres/comparatif/volume-cxcv-sycophante-accusation-publique-justice-comedie-aristophane/",
+        "title": "Volume CXCV (195) — Le sycophante et la démocratie athénienne : accusation publique, violence judiciaire et satire politique d'Aristophane",
+        "source": "chapitres/comparatif/volume-cxcv-sycophante-accusation-publique-justice-comedie-aristophane.md"
+      },
+      {
+        "number": 196,
+        "url": "/chapitres/comparatif/volume-cxcvi-mc-028-peste-faute-royale-reparation-mursili-oedipe-david-babylone-egypte/",
+        "title": "Volume CXCVI (196) — MC-028 — Quand le souverain fait souffrir le pays : peste, faute royale et réparation du monde, de Ḫattuša à Thèbes, Jérusalem, Babylone et l'Égypte",
+        "source": "chapitres/comparatif/volume-cxcvi-mc-028-peste-faute-royale-reparation-mursili-oedipe-david-babylone-egypte.md"
       }
     ],
     "comedies": [
@@ -2428,8 +2470,26 @@
       {
         "number": 69,
         "url": "/chapitres/comedies/volume-069-ameipsias-konnos-socrate-penseurs-musique-verite/",
-        "title": "Volume LXIX (69) — Amipsias, Konnos (Κόννος) — Socrate, les « penseurs », la musique et la vérité du savoir dans l'Athènes de 423",
+        "title": "Volume LXIX (69) — Amipsias, Konnos (Κόννος) — Complément critique : les « penseurs », la musique et la vérité du savoir dans l'Athènes de 423",
         "source": "chapitres/comedies/volume-069-ameipsias-konnos-socrate-penseurs-musique-verite.md"
+      },
+      {
+        "number": 70,
+        "url": "/chapitres/comedies/volume-070-ameipsias-moichoi-adultere-droit-citoyennete/",
+        "title": "Volume LXX (70) — Amipsias, Moichoi (Μοιχοί, « Les Adultères » / « Les Séducteurs ») — sexualité, droit domestique, citoyenneté et comique de la transgression",
+        "source": "chapitres/comedies/volume-070-ameipsias-moichoi-adultere-droit-citoyennete.md"
+      },
+      {
+        "number": 71,
+        "url": "/chapitres/comedies/volume-071-ameipsias-komastai-komos-ivresse-fete-politique/",
+        "title": "Volume LXXI (71) — Amipsias, Kōmastai (Κωμασταί, « Les Komastes / Les Fêtards ») — Complément critique : ivresse, cortège, rire collectif et politique du kômos dans l’Athènes de 414",
+        "source": "chapitres/comedies/volume-071-ameipsias-komastai-komos-ivresse-fete-politique.md"
+      },
+      {
+        "number": 72,
+        "url": "/chapitres/comedies/volume-072-ameipsias-komastai-kosmos-concours-414-fete-politique/",
+        "title": "Volume LXXII (72) — Amipsias, Komastai (Κωμασταί, « Les Fêtards ») — le cômos, le prix de 414, la communauté festive et les limites du savoir historique",
+        "source": "chapitres/comedies/volume-072-ameipsias-komastai-kosmos-concours-414-fete-politique.md"
       }
     ],
     "origines-du-sacre": [

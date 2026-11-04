@@ -1,0 +1,705 @@
+# MYTHOS — Mythologie comparée — Volume CXCVI (196)
+
+## MC-028 — Quand le souverain fait souffrir le pays : peste, faute royale et réparation du monde, de Ḫattuša à Thèbes, Jérusalem, Babylone et l'Égypte
+
+**Étude universitaire originale — 4 novembre 2026.** Collection canonique : cycle comparatif MYTHOS ; identifiant de programme **MC-028**, distinct du numéro romain généré par le circuit GitHub. Sources premières : prières hittites de Muršili II (CTH 378), *Iliade* I, *Œdipe roi* 1–299 et 1297–1530, 2 Samuel 24, 1 Chroniques 21, Thucydide II, 47–54, *Ludlul bēl nēmeqi*, stèle de la famine de Séhel et *Livre de la Vache céleste*. Statut du présent document : manuscrit déposé pour attribution transactionnelle et publication ; le dépôt en file ne prouve pas à lui seul que bobmythos.fr ait servi la page.
+
+**Continuité vérifiée au 4 novembre 2026 sur \`main\` :** MC-024, « Amon, Rê et Aton », volume CLXXXI (181), UUID \`a4b30610-cc79-4759-96a4-f2c27af13d24\` ; MC-025, « Maât et Isfet », volume CLXXXIII (183), UUID \`3c2f2851-2f7a-4b64-b407-9404d2632125\` ; MC-026, « Destin et nécessité », volume CLXXXVIII (188), UUID \`e0a71bf4-a436-4d9a-97c7-3e2283b59526\` ; MC-027, « Jurer devant les dieux », volume CXCII (192), UUID \`f53ca609-6e43-4477-bda1-292ae9fe31d4\`. Les numéros intermédiaires sont occupés par d'autres études valides de la collection : **ne jamais supposer que MC-028 doit porter CXCIII si une écriture concurrente intervient avant son attribution**. L'identifiant historique MC-025 est répété dans trois études distinctes (183, 187, 189) ; issue GitHub n° 2 ouverte pour réconciliation non destructive. Ces manuscrits ne sont ni écrasés ni reproduits ici.
+
+### Problématique et thèse
+
+Comment les cultures anciennes interprètent-elles une mortalité collective quand elles attribuent au souverain la charge de garantir les liens entre dieux, territoire, armée et population ? Est-ce la responsabilité du roi qui est mise en cause ou, paradoxalement, son rôle d'intercesseur qui est renforcé par la catastrophe ? La réponse exige de distinguer une **épizootie ou épidémie effectivement évoquée par des archives royales**, une **épidémie représentée dans un poème ou une tragédie**, une **catastrophe racontée par un rédacteur religieux plusieurs siècles après les événements supposés** et une **analyse historienne des pratiques sanitaires**. Le vocabulaire traditionnel de la « peste » est imprécis : il peut désigner une mortalité collective sans diagnostiquer la bactérie *Yersinia pestis*.
+
+**Thèse principale [I] :** ces textes transforment une catastrophe apparemment sans intention en crise de l'obligation politique : un acte violant une relation avec le divin — parole jurée, respect d'un prêtre, justice rendue à un mort, conduite d'un recensement ou entretien d'un culte — devient l'objet d'une enquête et d'une réparation. Cette opération n'est pas identique partout. Muršili II négocie une faute paternelle et le rétablissement de rites ; l'Agamemnon homérique est contraint de réparer un affront public ; Œdipe s'engage dans une recherche qui le désigne lui-même ; David avoue sa faute et crée un lieu sacrificiel ; Djoser apparaît, dans une inscription tardive, comme le restaurateur d'une relation économique avec Khnoum. Les documents n'établissent ni une cause microbienne précise, ni une filiation unique entre toutes ces traditions.
+
+**Légende méthodologique :** **[A]** attestation textuelle ou archéologique vérifiable et délimitée ; **[I]** inférence historique raisonnée ; **[H]** hypothèse contestable ou reconstruction ; **[P]** lecture philosophique moderne explicitement externe à la pensée des rédacteurs ; **[T]** problème de transmission, de datation, d'édition ou de traduction. Toute causalité divine est attribuée aux **sources et à leurs acteurs**, jamais affirmée comme fait biologique établi.
+
+---
+
+## I. Le dossier et ses échelles documentaires
+
+### 1. La catastrophe est un fait social mais tous les textes ne sont pas des rapports d'épidémie [A/I]
+
+Les prières hittites de Muršili II appartiennent à un corpus royal transmis sur des tablettes cunéiformes ; elles affirment que la mortalité s'est prolongée dans le pays de Ḫatti pendant une vingtaine d'années. L'*Iliade* raconte la mortalité d'un camp militaire fictivement situé pendant la guerre de Troie, et *Œdipe roi* décrit une Thèbes dramatique privée de fertilité et frappée de morts. Il serait méthodologiquement absurde de compter ces trois récits comme trois séries d'incidence médicale comparables. Ils attestent en revanche que la catastrophe collective a pu servir de preuve ou d'épreuve de la relation entre autorité et divinité.
+
+### 2. Trois temps à ne pas mélanger : l'action racontée, la rédaction, le manuscrit conservé [T]
+
+La prière de Muršili II concerne un règne de la fin du XIVe siècle avant notre ère, mais les tablettes subsistantes appartiennent à des opérations de copies et de restauration distinctes. La scène de l'*Iliade* se déroule dans un âge héroïque reconstruit par une tradition épique archaïque. La tragédie de Sophocle est jouée au Ve siècle, bien après le temps légendaire de son roi thébain. L'histoire de David a sa propre stratification littéraire dans Samuel puis dans les Chroniques. La stèle de Séhel, enfin, a été gravée à l'époque ptolémaïque tout en revendiquant un décret de l'antique Djéser. La discordance entre ces chronologies est une donnée, pas une gêne à effacer.
+
+### 3. Quatre questions distinctes [P]
+
+On distinguera : (1) qu'est-ce qui tue les habitants ? (2) pourquoi les dieux sont-ils dits avoir permis ou envoyé le mal ? (3) qui peut formuler une réponse collective ? (4) comment l'histoire enregistre-t-elle la sortie de crise ? Une même source peut répondre à la deuxième et à la troisième sans fournir de symptômes médicaux. Une méthode strictement microbiologique manquerait l'enjeu politico-religieux ; une méthode strictement symbolique confondrait la rhétorique royale avec l'expérience matérielle des morts.
+
+### 4. L'intérêt d'un « contre-exemple » historien [A]
+
+Thucydide, *Guerre du Péloponnèse* II, 47–54, donne un récit des symptômes, des effets sociaux, de l'échec des remèdes et de l'impuissance des recours religieux à Athènes. Il n'est pas plus transparent à l'observation que toute autre source antique, mais il organise autrement la causalité narrative. Sa présence dans le corpus interdit de conclure que « les Anciens » interprétaient unanimement toute épidémie comme punition d'un roi.
+
+### 5. Une méthode de confrontation et non une chaîne de survivances [I/H]
+
+On ne peut supposer que les prières hittites auraient été lues par Homère, que Sophocle aurait traduit Muršili II ou que le récit de David copierait directement les annales de Ḫatti. Les ressemblances portent sur une **configuration narrative et institutionnelle** : mort collective, recherche d'une transgression, parole d'autorité, geste de restitution et nouvel ordre. Une proposition d'emprunt textuel demanderait des correspondances lexicales distinctives, une chronologie compatible et des canaux de circulation démontrables.
+
+**Corpus de départ :** Hethitologie-Portal Mainz, CTH 378.2, https://hethport.net/txhet_gebet/intro.php?ed=E.+Rieken+et+al.&lg=DE&prgr=%C2%A7+1&xst=CTH+378.2 ; Perseus, *Œdipe roi*, https://beta.perseus.tufts.edu/urn:cts:greekLit:tlg0011.tlg004.perseus-grc2/ ; 2 Samuel 24, https://bible.usccb.org/bible/2samuel/24 ; Thucydide II, 47, https://beta.perseus.tufts.edu/urn:cts:greekLit:tlg0003.tlg001.1st1K-fre1:2.47/ .
+
+---
+
+## II. Ḫattuša : archives, épidémie et pouvoir hittite
+
+### 6. L'exception documentaire de Muršili II [A]
+
+Le corpus des prières royales hittites fournit une série de textes dont l'objet est explicitement la mortalité dans le pays de Ḫatti. Les catalogues les réunissent notamment sous **CTH 378**, avec des subdivisions : **CTH 378.1** pour une « première » prière devant l'assemblée divine, **CTH 378.2** pour une « deuxième » prière adressée au dieu de l'Orage du Ḫatti et **CTH 378.3** pour une autre prière à la déesse solaire d'Arinna ; les numérotations « première », « deuxième » et « troisième » sont des catégories d'édition et ne doivent pas être traitées comme journal intime daté au jour près. **CTH 379** est associé à une autre prière contre la mortalité selon le classement de Singer. [Sources : Singer 2002, p. 47–64 ; CTH, portail de Mayence.]
+
+### 7. Des tablettes distinctes, non un manuscrit unique et intact [A/T]
+
+Pour **CTH 378.2**, la tradition éditoriale distingue le témoin A : **KUB 14.8**, inventaire **Bo 2803** ; B : **KUB 14.11** avec **KBo 55.25** et d'autres fragments ; C : **KUB 14.10** avec **ABoT 2.22** et **KUB 26.86** ; D : **KBo 57.21**. Le portail hittitologique de Mayence enregistre ces raccords et leur histoire. Parler de « la tablette de la peste » au singulier masque une collection de témoins dont les cassures, copies et éditions demandent une collation. Le caractère reconstitué du texte n'autorise pas des citations inventées pour boucher des lacunes.
+
+### 8. La date est un repère approximatif, non une journée médicale [T]
+
+Le règne de Muršili II se place conventionnellement autour de la fin du XIVe siècle avant notre ère, avec des chronologies dont les équivalences civiles ne sont pas rigoureusement fixes. Les notices de Koç University donnent par exemple une fourchette autour de **1321–1295 av. n. è.** ; d'autres chronologies utilisent des jalons légèrement différents. L'histoire de l'épidémie doit donc indiquer son rapport à la succession de Šuppiluliuma Ier et d'Arnuwanda II avant d'imposer une année civile absolue à chaque épisode. Les deux décès royaux appartiennent à une tradition historique interprétée avec prudence.
+
+### 9. Vingt ans de mortalité : une durée formulée par le roi [A]
+
+La « deuxième » prière, **CTH 378.2, § 1**, dit que les décès ont eu lieu sous le père de Muršili, sous son frère puis sous lui, durant **vingt ans**. La formule est remarquable parce qu'elle fait intervenir la continuité de trois règnes. Elle ne doit pourtant pas être transformée automatiquement en **vingt années d'une même maladie microbiologiquement continue**, ni en estimation du nombre de morts. Un régime de mortalité prolongée peut associer plusieurs flambées, de la malnutrition ou des événements sans identité clinique assurée.
+
+### 10. La valeur du mot hittite *ḫenkan* [A/T]
+
+Les travaux récents soulignent que le terme hittite translittéré **ḫenkan** renvoie à la mort, au sort funeste ou à une calamité mortelle ; il est rendu dans ce contexte par « plague » ou « peste » dans plusieurs traductions. Cette traduction est **fonctionnelle**, non diagnostique. Le terme ne contient pas à lui seul la description de bubons, de lésions pulmonaires ou d'un autre syndrome pathognomonique. Écrire sans réserve « peste bubonique de Muršili » serait franchir illégitimement la distance entre sémantique antique et classification biomédicale actuelle.
+
+### 11. Pas de symptômes pathognomoniques [A]
+
+L'article de Gretchen R. Dabbs et Anna Stevens paru le **16 septembre 2025** dans l'*American Journal of Archaeology* (vol. 129/4, DOI 10.1086/736705) rappelle que les textes hittites ne décrivent ni symptômes précis ni agent causal. La bactérie *Yersinia pestis* et les autres agents évoqués dans des interprétations modernes restent des possibilités discutées, pas un résultat du dossier écrit. Les études d'ADN ancien devraient être liées à des échantillons humains datés et à une identification solide du pathogène pour changer cet état de preuve.
+
+### 12. Captifs égyptiens et récit d'origine [A/I]
+
+Dans certains récits hittites, le désastre est mis en relation avec des **captifs ramenés d'une campagne menée sur la frontière syrienne avec l'Égypte**, notamment dans le secteur d'Amqa. Cette affirmation fournit une représentation antique d'une propagation transfrontalière. Elle n'est pas une reconstitution épidémiologique suffisante : le roi n'identifie pas des chaînes de transmission contrôlées et peut donner aux ennemis ou aux captifs une place explicative commode. C'est un témoignage sur **la perception de l'origine du mal** autant qu'une éventuelle trace de circulation de la maladie.
+
+### 13. Les archives donnent-elles une voix aux morts ? [I]
+
+Les prières parlent de l'effondrement des personnes affectées aux offrandes, notamment des préparateurs du pain et des libations. Le texte fait donc voir l'épuisement d'une institution liturgique et le souci royal de ne plus disposer du personnel nécessaire aux cultes. Mais il ne nous transmet pas les récits individuels de chaque famille endeuillée. La voix du souverain englobe les victimes dans une argumentation où la survie de Ḫatti devient l'enjeu de la relation aux dieux.
+
+### 14. La cité, les temples et l'agriculture [I]
+
+L'économie du culte suppose nourriture, personnels qualifiés, transport et calendrier de fêtes. Une mortalité prolongée peut menacer simultanément l'approvisionnement, la reproduction des familles et les sacrifices réguliers. Le roi fait valoir la fragilité d'un réseau où la prospérité des hommes et la continuité de la relation aux dieux se soutiennent mutuellement. Rien n'autorise cependant à déduire les variations exactes des récoltes ou de la population à partir de la seule rhétorique de la prière.
+
+### 15. La découverte est aussi une histoire des fouilles [A/T]
+
+Les fragments du corpus proviennent de l'ancienne capitale **Ḫattuša/Boğazköy**, étudiée depuis les grandes campagnes du début du XXe siècle. Certains témoins furent retrouvés hors de leur position d'usage primaire ou dans des déblais anciens ; la localisation initiale précise de chaque tablette n'est pas toujours récupérable. Le portail CTH 378.2 signale notamment le fragment **650/u**, découvert en 1962 dans d'anciens déblais de Temple I, et son raccord à KUB 14.11. Il faut donc distinguer provenance de ville, lieu de trouvaille et hypothèse sur le lieu du dépôt ou de la récitation.
+
+### 16. La copie comme organisation de la demande divine [I]
+
+Les prières comportent des formes littéraires élaborées : adresse, récit des épreuves, identification de causes, justification de la loyauté du suppliant, déclaration de culpabilité héritée et demande d'un signe réparateur. Un texte aussi composé ne constitue pas la transcription d'un cri spontané noté au milieu d'une rue. La composition littéraire ne rend pas l'épidémie imaginaire : elle indique comment une chancellerie et des spécialistes cultuels convertissent une crise en parole susceptible d'être acceptée par les dieux.
+
+**Références :** Itamar Singer, *Hittite Prayers*, Society of Biblical Literature, Writings from the Ancient World 11, 2002, p. 56–64 ; E. Rieken et al., CTH 378.2 (2016), https://hethport.net/txhet_gebet/intro.php?ed=E.+Rieken+et+al.&lg=DE&prgr=%C2%A7+1&xst=CTH+378.2 ; LAMAN/KUB 14.8 https://laman.hittites.org/cth/378.2.A/ et KUB 14.10 https://laman.hittites.org/cth/378.2.C/ ; Koç University, notice d'archives https://libdigitalcollections.ku.edu.tr/digital/collection/GHC/id/13742/ ; Dabbs et Stevens 2025, https://doi.org/10.1086/736705 .
+
+---
+
+## III. Muršili II : faute du père, procès aux dieux, réparation
+
+### 17. Un suppliant qui ose contester la durée du mal [A/I]
+
+La « deuxième » prière s'adresse au dieu de l'Orage du Ḫatti. Muršili ne se contente pas de reconnaître silencieusement une faute : il demande pourquoi les décès se poursuivent et combien de temps les habitants peuvent encore supporter le fléau. Cette audace est cadrée par une relation de dépendance ; le suppliant reste serviteur et officiant divin. Mais la prière introduit une tension réelle : les dieux bénéficient des services du pays et risquent de perdre leurs propres serviteurs si la mort ne s'arrête pas.
+
+### 18. La première cause mise au jour : une obligation cultuelle délaissée [A]
+
+Dans le développement de **CTH 378.2, § 3**, le souverain rapporte la découverte d'une tablette concernant un rite jadis accompli pour le **fleuve Mala**, souvent identifié à l'Euphrate. Le maintien du culte a été négligé. L'argument suppose qu'un acte ancien, oublié ou abandonné, continue de produire des conséquences. Il s'agit d'une **étiologie liturgique** construite à partir de l'archive : la faute n'est pas nécessairement une action violente mais un défaut de continuité dans les services dus.
+
+### 19. Le deuxième dossier : le serment avec l'Égypte [A]
+
+Dans **CTH 378.2, §§ 4–6**, le souverain revient sur une affaire de serment entre le Ḫatti et l'Égypte, impliquant les politiques de son père Šuppiluliuma Ier. Le dieu de l'Orage a été appelé comme garant d'obligations antérieures ; les Hittites auraient transgressé les termes d'un engagement. La catastrophe peut dès lors être lue comme une sanction du parjure. La valeur de cette interprétation est théologique et politique ; elle ne démontre pas qu'un serment rompu serait une cause virologique.
+
+### 20. Éviter l'anachronisme diplomatique [T]
+
+L'accord évoqué par Muršili ne doit **pas être confondu** avec le célèbre traité de paix de l'an 21 de Ramsès II et Ḫattušili III, postérieur de plusieurs générations et étudié dans MYTHOS MC-027. Le dossier de Muršili renvoie à des obligations plus anciennes, dites de Kuruštama et à la politique de Šuppiluliuma. La proximité du mot « Égypte » dans les deux archives ne fonde aucune identité documentaire. Un renvoi éditorial à MC-027 doit porter explicitement cet avertissement.
+
+### 21. L'oracle et l'enquête sur les archives [A]
+
+Les textes montrent le souverain consultant les dieux pour déterminer si les manquements retrouvés sont bien les causes du désastre. Dans la reconstruction de Singer, **CTH 378.2, § 6** rapporte la confirmation oraculaire de cette interprétation. L'oracle fonctionne ici comme dispositif de validation d'une hypothèse cultuelle, non comme enregistrement d'un agent infectieux. Cela donne à la cour un langage de décision : sélectionner la faute, reconnaître l'obligation et organiser la réparation.
+
+### 22. « Le péché du père vient sur le fils » [A/I]
+
+La « deuxième » prière **CTH 378.2, § 8** développe le paradoxe selon lequel Muršili affirme ne pas avoir commis lui-même l'acte de son père, tout en supportant ses suites. Le roi confesse cependant la transgression antérieure au nom de la continuité royale. L'argument ne signifie pas une responsabilité individuelle de droit pénal au sens moderne ; il inscrit le souverain présent dans une personnalité dynastique élargie. La puissance du lignage comporte la charge de ses engagements impayés.
+
+### 23. La faute n'est pas toujours un choix du fils [P]
+
+L'éthique contemporaine tend à distinguer la faute personnelle et la responsabilité d'une institution dont on hérite. Le dossier hittite montre un autre régime de temporalité : la succession transmet des obligations envers les dieux comme elle transmet la royauté. On peut comparer cette construction aux débats modernes sur les réparations historiques, sans assimiler un rite hittite à un système juridique actuel. Le roi est innocent du geste, mais responsable de la continuité de la maison.
+
+### 24. La réparation n'est pas seulement une demande de pardon [A]
+
+Les §§ 7–9 de CTH 378.2 articulent reconnaissance, offres rituelles, restauration d'obligations et plaidoyer pour la fin de la mortalité. Le souverain promet notamment d'accomplir le rite négligé du fleuve Mala et de restituer ce qui était dû. La réparation a donc une composante **pratique**, une composante **discursive** et une composante **temporelle**. On ne saurait l'identifier à une émotion religieuse privée : elle suppose des ressources, des officiants et la mobilisation de la cour.
+
+### 25. Le calcul de l'excès : « vingt fois » [A/I]
+
+L'une des versions de la traduction de Singer, **CTH 378.2, § 9**, décrit le Ḫatti comme ayant déjà acquitté une réparation disproportionnée par la durée de sa catastrophe. Le chiffre employé dans le plaidoyer ne doit pas être lu comme statistique du dommage mais comme argument adressé à la clémence divine : une sanction qui détruit ceux qu'elle prétend corriger devient contre-productive. Muršili demande implicitement une limite à la peine.
+
+### 26. « Indiquez-moi par un rêve » : le savoir encore manquant [A]
+
+La fin de la « deuxième » prière, **CTH 378.2, § 11**, ouvre l'hypothèse que les causes déjà identifiées ne suffisent pas. Muršili demande qu'une autre raison lui soit révélée par **rêve, oracle ou homme de dieu** et recommande un sommeil rituel des prêtres. La politique de réparation demeure donc révisable : l'enquête peut être reprise. Cette place donnée à l'incertitude s'oppose à l'idée simpliste d'un diagnostic religieux toujours immédiatement certain.
+
+### 27. *Arkuwar* : supplique argumentée plutôt qu'invective [T]
+
+Le terme hittite **arkuwar**, utilisé dans la classification des textes, désigne une démarche de prière, de plainte ou de requête qui prend une forme argumentative. Les formules d'adresse rappellent la relation entre serviteur et seigneur. Le roi peut exposer des faits, présenter une excuse et demander une contrepartie. La traduction française « prière » manque parfois la tonalité de **requête politique** ; inversement, traduire directement « procès contre un dieu » pourrait sur-juridiciser un texte religieux.
+
+### 28. Une monarchie sous le signe de la vulnérabilité [I]
+
+Le roi est l'intercesseur du pays précisément parce qu'il ne maîtrise pas la mort. Il invoque les dieux comme puissances dont dépend sa légitimité, tout en accusant la persistance de la catastrophe de menacer leur propre culte. La prière transforme donc la vulnérabilité en activité gouvernementale : chercher la cause, décider du rite et rendre compte publiquement d'une continuité dynastique. Sa force politique se mesure à cette réorganisation symbolique, non à une guérison attestée par registre clinique.
+
+### 29. Un avertissement pour la comparaison avec Akhenaton [A/H]
+
+L'article de Dabbs et Stevens (AJA, 16 septembre 2025) réexamine l'idée populaire d'une grave épidémie à Akhetaton/Amarna, souvent inférée de sépultures multiples et des prières hittites mentionnant l'Égypte. Après comparaison des données funéraires, démographiques et archéologiques, les auteures estiment qu'**il existe peu d'indices actuellement convaincants d'une épidémie mortelle à Akhetaton**. Cette conclusion ne nie pas les décès décrits pour le Ḫatti ; elle conteste la déduction d'une catastrophe identique à Amarna. Les chapitres MC-024 et MC-028 doivent intégrer cette distinction avant de lier la fin d'Akhenaton à une « peste » non démontrée.
+
+### 30. Philologie des désignations de la faute [T]
+
+Dans les transcriptions hittites, la représentation de la culpabilité du père, les mots pour « serment », « faute » et « réparation » doivent être rapportés à leurs contextes syntactiques et aux signes conservés. Un logogramme juridique sumérien dans une tablette hittite n'a pas automatiquement la même extension sémantique qu'un mot grec de la souillure ou qu'un terme hébreu du péché. Les traductions de Goetze, Lebrun, Singer, Rieken et collègues présentent des différences de segmentation utiles ; il serait dangereux d'en construire une « étymologie indo-européenne du péché » à partir de simples équivalents français.
+
+**Éditions et sources :** Singer, *Hittite Prayers*, 2002, texte n° 11, p. 57–61 ; E. Rieken et al., CTH 378.2, dossier éditorial numérique ; Albrecht Goetze, *Die Pestgebete des Muršiliš*, 1930 ; René Lebrun, *Hymnes et prières hittites*, 1980 ; KUB 14.8 et KUB 14.10, éditions et fragments ; étude sur les rêves et CTH 378, « Communication between the Gods and the Hittite King », Institut des études religieuses de Tokyo (2018), https://www.cismor.jp/uploads-images/sites/2/2018/05/Communication-between-the-Gods-and-the-Hittite-King.pdf (consultation des reproductions selon conditions de l'éditeur).
+
+---
+
+## IV. L'*Iliade* I : honorer le prêtre ou sacrifier l'armée
+
+### 31. Une épidémie en cinquante vers d'ouverture [A]
+
+Dans l'*Iliade* **I, 8–52**, la querelle d'Agamemnon et d'Achille est préparée par une mortalité envoyée par Apollon sur le camp achéen. Le prêtre **Chrysès** demande la restitution de sa fille Chryséis et apporte une rançon ; le chef refuse et l'humilie. Le prêtre invoque Apollon ; les flèches du dieu atteignent les bêtes puis les hommes. Le mécanisme dramatique est extrêmement condensé : une faute d'autorité individuelle devient menace pour l'ensemble de l'expédition.
+
+### 32. Le prêtre n'est pas seulement un père privé [I]
+
+Chrysès vient avec des attributs qui signalent son lien à Apollon. L'affront touche donc à la fois un père et un représentant du sacré. Le chef politique peut ignorer un plaidoyer individuel mais court un autre risque quand il méprise le titulaire d'une relation rituelle reconnue. La scène n'établit pas que toute violation d'une norme religieuse fut suivie d'une maladie ; elle met en récit l'interdépendance de prestige militaire, suppliants et dieu protecteur.
+
+### 33. *Loimós* et *kḗr* : la maladie comme ravage [T]
+
+Le grec homérique peut parler de **loimós** (λοιμός, pestilence) dans une tradition de vocabulaire du fléau, tout en mettant en scène le dieu tirant ses flèches sur les vivants. Il faut distinguer le mot qui qualifie la catastrophe, l'image de l'arme et une éventuelle description clinique. Une traduction française « peste » donne souvent l'illusion d'une identification microbienne précise qui n'existe pas dans le poème. Les flèches rendent visible un agent divin intentionnel, pas un cycle de contamination étudié.
+
+### 34. Dix jours, une assemblée [A]
+
+L'*Iliade* **I, 53–67** situe la réunion des Achéens après neuf jours de fléau : au dixième, Achille convoque l'assemblée, selon l'impulsion d'Héra dans le récit. Le mal cesse de rester simple expérience dispersée ; il devient objet d'une décision collective. La convocation représente une limitation de l'arbitraire royal. Le chef militaire conserve l'autorité, mais sa politique peut être soumise à la discussion lorsqu'elle met en péril le groupe.
+
+### 35. Calchas : une expertise religieuse vulnérable [A/I]
+
+Dans **I, 68–100**, le devin Calchas sait ou prétend savoir pourquoi Apollon est irrité, mais craint la colère d'Agamemnon. Achille lui promet sa protection. Le problème n'est donc pas seulement d'obtenir un diagnostic : il faut que le spécialiste **puisse parler** contre le roi. L'autorité religieuse possède ici une capacité critique, mais dépend d'une protection politique. La vérité rituelle a une condition sociale d'énonciation.
+
+### 36. Restitution, sacrifice et nouvelle injustice [A/I]
+
+La solution comporte la restitution de Chryséis et une expiation offerte au dieu. Cependant, le coût en prestige ressenti par Agamemnon conduit à la prise de Briséis à Achille et à une autre crise politique. La réparation du lien avec Apollon n'est pas la pacification globale des relations humaines. L'épisode est remarquablement apte à montrer que **résoudre une cause religieuse ne résout pas automatiquement les injustices de gouvernement**.
+
+### 37. L'absence de source médicale n'est pas un défaut poétique [I]
+
+Le poème ne cherche pas à consigner des symptômes ou des traitements hospitaliers. Sa question est : comment une transgression du chef menace-t-elle l'armée, et comment les Achéens peuvent-ils forcer une correction sans rompre leur coalition ? La catastrophe fournit un principe de causalité dramatique immédiatement intelligible. Prendre cette économie narrative pour une chronique d'épidémie serait mal lire le genre épique.
+
+### 38. Homère n'est pas Muršili [H]
+
+Le rapprochement entre une catastrophe collective imputée à une faute d'autorité et une recherche de réparation est fort ; les différences sont plus importantes encore. Agamemnon a directement offensé un prêtre ; Muršili hérite d'un serment rompu et de rites négligés. Le premier doit céder une captive ; le second organise une succession d'offrandes et de consultations dans une monarchie territoriale. Aucun emprunt direct ne découle de cette analogie.
+
+**Sources :** Homère, *Iliade* I, 8–100 et 430–474 (retour de Chryséis et sacrifice) ; texte grec et traditions d'édition : Perseus / Homer Multitext ; G. S. Kirk, *The Iliad: A Commentary*, vol. I, Cambridge, 1985 ; Walter Burkert, *Greek Religion*, 1985 (tr. angl.), chapitres sur prière et sacrifice.
+
+---
+
+## V. *Œdipe roi* : une ville malade et l'enquête sur le souverain
+
+### 39. Thèbes, ville privée de vie [A]
+
+Sophocle ouvre *Œdipe roi* par une scène de **suppliants** réunis auprès des autels. Le prêtre explique, aux **vers 15–30**, que les récoltes, les troupeaux et les naissances sont atteints, tandis que les décès se multiplient. Cette description dépasse une épidémie humaine au sens étroit : elle représente la **stérilité du pays** comme monde social entier. L'absence de récoltes et la mortalité ne constituent pas ici deux données statistiques indépendantes, mais un tableau théâtral de l'ordre vital défait.
+
+### 40. *Loimós* dans la parole du prêtre [A/T]
+
+Le texte grec emploie **λοιμός** au **vers 28** pour le fléau qui dévaste la cité. Le mot appartient à une série de qualifications de calamités, et l'image d'un dieu « porteur de feu » l'accompagne. L'usage du même lexique de pestilence dans les traditions grecques ne prouve pas que l'*Iliade* et Sophocle décrivent une maladie identique. Il autorise une enquête sur les pouvoirs du mot dans différents genres.
+
+### 41. Un roi choisi pour sa compétence [A/I]
+
+Le prêtre refuse d'assimiler Œdipe à un dieu (**vers 30–35**), tout en lui rappelant qu'il a sauvé la ville de la Sphinx. La communauté place ses attentes dans sa capacité à interpréter le danger et à trouver une solution. La légitimité apparaît ainsi **conditionnée à la sauvegarde des habitants**. Ce n'est pas seulement la dynastie qui compte : un roi de cité vide serait roi de rien, selon le développement des **vers 50–58**.
+
+### 42. L'oracle de Delphes : expulser une souillure [A]
+
+Au **vers 96**, Créon transmet la réponse d'Apollon : il faut chasser une souillure qui s'est développée dans le pays ; les **vers 97–101** évoquent l'exil ou le remboursement du sang par le sang. L'enquête porte sur le meurtre de Laïos. La logique dramatique ne confond donc pas « peste » avec « maladie punissant n'importe quelle faute » : elle donne une **cause particulière**, une violence non élucidée. La guérison dépend de l'établissement d'une vérité politique longtemps dissimulée.
+
+### 43. *Míasma* et culpabilité pénale moderne [T]
+
+Le grec **μίασμα** peut désigner une pollution religieuse liée notamment au sang versé. Ce régime symbolique ne se superpose pas au concept contemporain d'agent infectieux, ni à l'intention criminelle comme condition exclusive de la culpabilité. Œdipe a tué son père sans connaître l'identité de sa victime ; il n'a pas voulu l'inceste qu'il découvre. La tragédie rend visible le conflit entre responsabilité objective, savoir subjectif et conséquences collectives.
+
+### 44. « Je suis l'enquêteur » : auto-mandat et renversement [A/I]
+
+Œdipe déclare, **vers 132–146**, qu'il entreprendra lui-même la recherche du meurtrier et qu'il agira aussi pour sa propre sécurité. Dans les **vers 216–275**, il proclame publiquement une série d'interdits et de malédictions contre le coupable. La révélation finale le fait tomber sous le coup de sa propre parole. Le roi a construit l'instrument institutionnel qui rend possible sa propre exclusion : l'autorité ne peut s'excepter de la règle sans détruire la vérité de son enquête.
+
+### 45. Une tragédie de la preuve [I/P]
+
+La vérité ne se produit pas par illumination soudaine. Messagers, souvenirs, témoignages d'un berger et récits contradictoires reconfigurent progressivement l'identité d'Œdipe. Le recours initial à Apollon ouvre une enquête humaine irréversible. Une lecture philosophique de type hégélien peut y reconnaître une contradiction entre action et connaissance ; elle doit toutefois respecter l'articulation dramatique des scènes plutôt que les réduire à une formule abstraite de « destinée ».
+
+### 46. Le fléau n'est pas la peste d'Athènes enregistrée par Thucydide [H]
+
+La première représentation de la pièce est généralement située dans le Ve siècle, et des chercheurs ont relevé la proximité entre son thème de pestilence et l'épidémie athénienne de 430–426 av. n. è. La datation exacte de la première mise en scène n'est toutefois pas sûre, et une **allusion** à une catastrophe contemporaine ne transforme pas la Thèbes mythique en Athènes documentaire. Une ressemblance contextuelle est possible ; une identification stricte est indémontrée.
+
+### 47. La reine, le devin, le peuple : l'enquête a plusieurs autorités [I]
+
+Tirésias refuse d'abord de révéler ce qu'il sait, puis accuse le roi ; Jocaste discute la valeur des oracles ; Créon devient suspect aux yeux d'Œdipe ; le chœur oscille entre confiance et inquiétude. Ces voix rendent l'épreuve du souverain politiquement plus complexe qu'une simple « punition du mauvais roi ». Œdipe est tout à la fois sauveur ancien, magistrat qui cherche la vérité, coupable objectif et victime d'une ignorance dont la société partage les conséquences.
+
+### 48. L'expulsion finale n'est pas explicitement une guérison médicale [T]
+
+Le dénouement montre la révélation, le suicide de Jocaste, l'aveuglement d'Œdipe et la reprise de la direction de la ville par Créon. La pièce ne livre pas de registres prouvant que tous les malades guérissent immédiatement après le châtiment. La causalité de l'oracle appartient au dispositif tragique ; l'historien ne doit pas lui adjoindre un épisode imaginaire de rétablissement sanitaire qui n'est pas narré comme tel dans les derniers vers.
+
+**Sources textuelles :** Sophocle, *Œdipe roi* 1–150, 151–215, 216–299, 300–462, 698–862, 1132–1530 ; édition grecque Francis Storr et traduction Jebb, Perseus https://beta.perseus.tufts.edu/urn:cts:greekLit:tlg0011.tlg004.perseus-grc2/ ; Bernard Knox, *Oedipus at Thebes*, 1957 ; Jean-Pierre Vernant et Pierre Vidal-Naquet, *Mythe et tragédie en Grèce ancienne*, 1972–1986 ; R. C. Jebb, *Sophocles: The Plays and Fragments*, *Oedipus Tyrannus*, 1887.
+
+---
+
+## VI. Une histoire différente : David, le recensement et la peste
+
+### 49. Le texte de 2 Samuel 24 : initiative divine et décision du roi [A]
+
+Le chapitre **2 Samuel 24, 1–9** fait commencer la crise par la colère du Seigneur contre Israël et par une incitation adressée à David à recenser les combattants. Joab conteste le projet, puis le réalise. Le récit ne pose donc pas simplement un roi transgressant une loi explicite et un dieu qui le punit après coup ; sa théologie attribue déjà à la divinité l'impulsion initiale, ce qui produit une difficulté morale que les lecteurs modernes ne doivent pas supprimer.
+
+### 50. Le recensement comme enjeu de souveraineté [I]
+
+Le nombre des hommes susceptibles de porter les armes est une ressource administrative et militaire. Le récit fait ainsi apparaître une tension entre l'appropriation royale de la population et la seigneurie divine sur Israël. Des interprétations anciennes et modernes soulignent la question d'une puissance royale revendiquant le droit de compter et de mobiliser les sujets. Pourtant le texte n'offre pas une théorie stable selon laquelle tout dénombrement serait interdit en toute circonstance.
+
+### 51. David reconnaît sa faute [A]
+
+Dans **2 Samuel 24, 10**, David avoue avoir gravement péché et demande que son acte soit pardonné. Son attitude contraste avec celle d'Agamemnon, qui discute d'abord de son honneur, et avec celle d'Œdipe, qui découvre progressivement la nature de son crime. La reconnaissance est immédiate dans l'ordre narratif : le roi savait qu'il avait conduit un acte répréhensible ou se reconnaît tel après l'avoir accompli.
+
+### 52. Le prophète Gad et trois malheurs [A]
+
+Le voyant Gad présente, **2 Samuel 24, 11–14**, une alternative entre famine, guerre et fléau. La forme du récit oblige David à choisir entre des dommages collectifs. Le problème théologique est redoutable : la faute appartient au souverain, la sanction frappe la population. Les traductions modernes divergent sur la formulation des durées de famine selon les témoins textuels ; préciser l'édition évite de présenter sans réserve une variante comme unique.
+
+### 53. Soixante-dix mille morts : un nombre littéraire à traiter comme tel [T]
+
+Le chapitre **24, 15** parle de **soixante-dix mille morts**. L'historien peut attester que le récit donne ce nombre, non établir à partir de ce verset un décompte démographique indépendant de l'Israël de David. Il ne fournit ni sites funéraires correlés, ni données d'âge, ni agent pathogène. L'ampleur exprimée sert à représenter le poids collectif de la faute. Elle peut contenir une mémoire de crises anciennes, mais cette possibilité demeure une hypothèse.
+
+### 54. Le roi fait face à l'injustice de la punition [A/P]
+
+Dans **24, 17**, David demande pourquoi le peuple est frappé alors que c'est lui qui a mal agi. Il revendique pour lui-même et sa maison la responsabilité du mal. Ce verset est l'un des lieux les plus puissants pour une lecture philosophique : la solidarité collective face aux conséquences politiques ne supprime pas l'injustice d'une sanction infligée aux innocents. Le récit ouvre la question sans offrir une théorie exhaustive de la répartition juste des souffrances.
+
+### 55. Arauna, une aire de battage et un autel [A]
+
+En **2 Samuel 24, 18–25**, Gad ordonne à David d'ériger un autel sur l'aire de battage d'Arauna le Jébuséen. David refuse de sacrifier sans payer le terrain et les animaux, acquiert les biens puis présente des offrandes ; le fléau cesse selon la conclusion du chapitre. Cette séquence établit un passage du malheur collectif à l'institution d'un espace rituel. L'achat n'est pas un détail anecdotique : le roi assume un coût matériel pour réparer la situation.
+
+### 56. Le coût varie selon les textes [A/T]
+
+**2 Samuel 24, 24** mentionne **cinquante sicles d'argent** pour l'aire et les bœufs, tandis que **1 Chroniques 21, 25** évoque **six cents sicles d'or** pour le lieu. La variation reflète des traditions et des objectifs rédactionnels distincts ; il serait impropre d'additionner les deux montants ou de les présenter comme deux paiements indépendamment attestés dans un même acte. La comparaison des recensions constitue elle-même une source sur la valorisation croissante du lieu du futur Temple.
+
+### 57. Dans les Chroniques, un « adversaire » met en mouvement l'événement [A/T]
+
+Le texte **1 Chroniques 21, 1** attribue l'impulsion au recensement à **śāṭān**, rendu dans certaines traductions par « un adversaire » et dans d'autres par « Satan ». **2 Samuel 24, 1**, au contraire, attribue l'incitation au Seigneur dans sa colère. Cette différence est majeure : une tradition ultérieure travaille la difficulté d'un Dieu qui provoque l'acte puis le condamne. Affirmer que les deux chapitres sont des versions identiques au mot près effacerait un fait essentiel de la critique rédactionnelle.
+
+### 58. Le feu descend du ciel dans les Chroniques [A]
+
+**1 Chroniques 21, 26** développe une confirmation divine par un feu venu du ciel sur l'autel, absente sous cette forme de 2 Samuel 24. Le rédacteur transforme la scène en signe de légitimation du lieu cultuel. **2 Chroniques 3, 1** situera le Temple de Salomon sur le mont Moria, en rapport avec l'aire d'Ornan, autre nom d'Arauna. La narration passe de l'apaisement d'une crise à une théologie du lieu de la présence divine.
+
+### 59. Un parallèle structurel avec Muršili, non une preuve de traduction [I/H]
+
+Le chef politique découvre une faute, discute avec une médiation divine, met en œuvre une réparation et cherche la survie de son pays. Cette séquence rapproche Muršili et David. Mais la prière hittite s'adresse à une pluralité de dieux et porte sur des obligations dynastiques, alors que Samuel et les Chroniques reconfigurent la relation au Dieu d'Israël dans des rédactions distinctes. Rien ne prouve que les auteurs du récit biblique aient connu CTH 378.
+
+**Sources :** 2 Samuel 24, https://bible.usccb.org/bible/2samuel/24 ; 1 Chroniques 21, https://bible.usccb.org/bible/1chronicles/21 ; 2 Chroniques 3, 1 ; Sara Japhet, *I & II Chronicles: A Commentary*, 1993 ; P. Kyle McCarter Jr., *II Samuel: A New Translation with Introduction, Notes and Commentary*, 1984 ; Steven L. McKenzie, *I & II Chronicles*, 2004.
+
+---
+
+## VII. L'Égypte : de la pénurie à la légitimation des ressources sacrées
+
+### 60. Une crise alimentaire, pas une « peste de Djéser » [A]
+
+La **stèle de la famine** gravée sur un rocher de l'île de **Séhel**, près d'Assouan, raconte sept années de faible crue du Nil pendant lesquelles les récoltes et l'approvisionnement s'effondrent. Elle montre le roi **Djéser/Netjerikhet** soucieux de rétablir la relation avec le dieu **Khnoum**. Ce récit appartient à une **crise de subsistance**, non à un dossier médical affirmant une maladie infectieuse spécifique. Son intérêt comparatif est d'étendre l'enquête à la reproduction matérielle du royaume.
+
+### 61. Une inscription ptolémaïque qui se place sous un roi de la IIIe dynastie [T]
+
+L'inscription se donne comme un décret de l'an 18 de Djéser, mais son écriture et sa réalisation sont **d'époque ptolémaïque**, bien postérieures au règne du roi de l'Ancien Empire. Une lecture naïve ferait de ses trente-deux colonnes une archive contemporaine de la IIIe dynastie. La lecture critique y reconnaît une production tardive revendiquant l'autorité d'une antiquité prestigieuse, à replacer dans les intérêts du sanctuaire de Khnoum.
+
+### 62. Imhotep et l'expertise des archives [A/I]
+
+Dans le récit, Djéser demande de consulter les traditions du pays pour comprendre où naissent les eaux et quel dieu gouverne leur cours. Le personnage d'**Imhotep** devient médiateur du savoir cultuel. La procédure rappelle formellement la recherche hittite dans des tablettes anciennes : les deux cours imaginent que la mémoire écrite permet d'identifier une obligation oubliée. Mais l'institution ptolémaïque qui a gravé la stèle parle depuis une situation historique très différente de celle de Muršili.
+
+### 63. Le rêve de Khnoum [A]
+
+Le roi reçoit une révélation onirique : Khnoum contrôle les eaux et promet de renouveler leur abondance. L'intervention divine organise le passage de la crise à la restauration. La révélation ne remplace pas les pratiques matérielles ; elle légitime un acte de donation. La ressemblance avec Muršili demandant un message en rêve est une proximité de **procédure de décision sacrée**, non la preuve d'une tradition unique transmise sans transformation.
+
+### 64. Le décret et l'économie du temple [A/I]
+
+La partie finale de la stèle présente des concessions de biens, revenus et territoires au culte de Khnoum, notamment dans le secteur de la première cataracte. Le récit dit ainsi : lorsque le pays manque de ressources, le roi rétablit la prospérité en restaurant la part du dieu. Cette conclusion peut aussi être analysée comme une **revendication institutionnelle** des droits économiques du clergé qui produit ou entretient la mémoire du décret.
+
+### 65. Ne pas traiter une revendication tardive comme propriété ancienne démontrée [H]
+
+L'acte de donation attribué à Djéser n'établit pas sans autre document que les droits du temple existaient exactement sous cette forme pendant la IIIe dynastie. Le caractère rétrospectif d'une inscription peut contribuer à naturaliser une répartition contemporaine des revenus en lui donnant un précédent mytho-historique. Il faut distinguer l'intérêt d'une communauté sacerdotale à faire valoir un ancien droit de la preuve archéologique de ce droit sous l'Ancien Empire.
+
+### 66. « Maât » et restauration des cycles [I]
+
+Le vocabulaire égyptien de l'ordre juste — sans forcer l'inscription à l'utiliser à chaque ligne — permet de situer le récit dans un horizon où crue, culte, souveraineté et redistribution se répondent. Le roi idéal assure des relations entre terre, dieux et subsistance. Ce rapprochement avec MC-025 « Maât et Isfet » ne doit pas reproduire l'étude de Maât : il sert ici à interroger **ce que fait un récit de crise pour justifier une ressource**. La restauration économique et la restauration cultuelle sont solidaires dans la rhétorique de la stèle.
+
+**Éditions :** Paul Barguet, *La Stèle de la famine à Séhel*, Le Caire, IFAO, 1953 (édition intégrale) ; Miriam Lichtheim, *Ancient Egyptian Literature*, vol. III, 1980, p. 94–100 ; texte de repérage et datation https://www.attalus.org/egypt/famine_stele.html ; étude de la transmission, Yan Haiying, « The Famine Stela: A Source-Critical Approach and Historical-Comparative Perspective », *Proceedings of the Seventh International Congress of Egyptologists*, 1998, p. 515–521 ; rocher in situ, île de Séhel, près d'Assouan.
+
+---
+
+## VIII. Le *Livre de la Vache céleste* : le dieu qui arrête sa propre violence
+
+### 67. Punir l'humanité, puis renoncer à son extermination [A]
+
+Dans le **Livre de la Vache céleste**, aussi appelé « Destruction de l'humanité », Rê âgé apprend la révolte des humains et envoie sa fille **Hathor**, associée à la forme destructrice **Sekhmet**, contre eux. Le massacre menace de dépasser sa fin initiale. Rê fait alors répandre de la bière colorée en rouge ; la déesse la boit, s'enivre et cesse de tuer. Le texte décrit une violence divine générale, **pas une maladie diagnostiquée**, et son inclusion est donc celle d'un contrepoint mythologique sur la limitation de la sanction.
+
+### 68. Les témoins et leur contexte [A/T]
+
+Le récit est connu notamment par des témoins du Nouvel Empire, dont les chapelles ou tombes royales de **Séthi Ier**, **Ramsès II** et les éléments du sanctuaire funéraire de **Toutânkhamon**. Le **Museo Egizio de Turin** conserve aussi un papyrus, **Cat. 1982**, dont le verso transmet une version du mythe. Une scène gravée n'a pas le même contexte qu'un papyrus ; chaque témoin possède ses lacunes et sa date. Il ne faut pas attribuer à un support tardif une copie originale du règne de Rê.
+
+### 69. Le sang absent, la bière efficace [I]
+
+La coloration rouge rend la bière semblable au sang recherché par la déesse. La crise s'achève par une ruse rituelle, non par la condamnation d'un roi humain. La violence vient ici de la décision divine elle-même ; elle est interrompue par une seconde décision de Rê. La fonction comparative est de montrer qu'une mythologie peut mettre en question **le dosage de la sanction** plutôt que chercher seulement un coupable humain.
+
+### 70. Une comparaison avec Muršili [P]
+
+Muršili demande aux dieux de reconnaître que la peine est devenue disproportionnée et qu'elle menace les serviteurs du culte ; Rê arrête sa propre action destructrice avant l'extinction de l'humanité. Les deux textes sont étrangers par genre et par théologie. Pourtant ils permettent une interrogation philosophique commune : **une punition sans limite peut-elle encore restaurer un ordre, si elle détruit ceux qui doivent l'habiter ?** Il s'agit d'une problématisation moderne, non d'une doctrine verbatim partagée par les rédacteurs.
+
+**Sources :** Museo Egizio, papyrus **Cat. 1982**, notice sur le mythe de la Vache céleste https://collezionepapiri.museoegizio.it/en-GB/document/137 ; Garstang Museum, « The Destruction of Humanity », 25 juillet 2019, https://garstangmuseum.wordpress.com/2019/07/25/the-destruction-of-humanity/ ; Erik Hornung, *Der ägyptische Mythos von der Himmelskuh*, 1982, et traduction anglaise *The Ancient Egyptian Books of the Afterlife*, 1999, pour le contexte et l'édition critique.
+
+---
+
+## IX. Mésopotamie : souffrance inexpliquée et théologie de la maladie
+
+### 71. Pourquoi *Ludlul bēl nēmeqi* ne confirme pas l'hypothèse de la faute royale [A]
+
+Le poème akkadien **Ludlul bēl nēmeqi**, souvent intitulé *Je louerai le Seigneur de la sagesse*, raconte l'épreuve d'un personnage nommé **Šubši-mešrê-Šakkan** : déchéance sociale, atteintes physiques, solitude, perte de reconnaissance puis guérison et louange de Marduk. Son importance tient précisément à l'écart entre une souffrance intense et la connaissance qu'a le protagoniste de sa faute éventuelle. C'est un cas individuel, non la confession d'un souverain frappé par une épidémie nationale.
+
+### 72. Le titre akkadien et la voix du souffrant [T]
+
+L'ouverture **ludlul bēl nēmeqi** contient une forme verbale de louange et désigne « le seigneur de sagesse ». Le texte est une œuvre littéraire à transmission complexe, connue par de nombreux témoins néo-assyriens et néo-babyloniens ; l'établissement des lignes varie avec les éditions et les restaurations. Une traduction n'est pas un témoignage clinique direct : la progression du poème produit une interprétation de la souffrance dont le genre influence la présentation.
+
+### 73. Marduk, colère et guérison [A/I]
+
+Le poème oppose la colère divine à la restauration : l'homme peut souffrir alors même qu'il ne comprend pas son accusation, puis être relevé et rendre grâce au dieu. Contrairement à CTH 378.2, le texte ne livre pas une faute politique ancienne confirmée par le procès des archives. La comparaison permet de distinguer **modèles de souffrance avec faute identifiée** et **modèles de souffrance dont la cause demeure opaque**. Les confondre effacerait une tension théologique essentielle.
+
+### 74. Le *Poème du Juste souffrant* et le Livre de Job [H]
+
+Les études ont rapproché *Ludlul* et le **Livre de Job** pour leur représentation d'un malheur disproportionné et la difficulté d'expliquer les épreuves par un simple syllogisme moral. Les parentés thématiques n'autorisent pas à déduire que Job serait une traduction du poème akkadien, ni qu'ils attribuent le même rôle à la maladie. Leur mise en dialogue est heuristique si l'on préserve la spécificité des genres, des narrateurs et des attentes religieuses.
+
+### 75. *Atrahasis* : épidémie comme politique de population [A/I]
+
+Dans l'épopée d'**Atrahasis**, notamment le premier ensemble de tablettes consacré à la multiplication des humains et à leurs bruits, les dieux tentent de réduire la population par différentes catastrophes, dont des morts provoquées par la maladie, avant de recourir au déluge. L'effet recherché dans le récit est de modifier la croissance et le comportement des humains. Cette logique diffère de la maladie punissant le manquement personnel d'un souverain. Elle montre que la crise peut être mythologisée comme **régulation du monde vivant**, non réparation d'une dette dynastique.
+
+### 76. Le conseil d'Enki/Ea et les remèdes narratifs [A/I]
+
+Dans les épisodes d'*Atrahasis*, le dieu bienveillant à l'humanité donne à son protégé des moyens de répondre aux catastrophes. La négociation entre dieux, l'enseignement d'une pratique et les changements d'orientation du culte forment un langage distinct de la confession du roi. Il faut rapporter ces épisodes à l'édition de Lambert et Millard et aux traductions critiques, en distinguant les tablettes fragmentaires et les versions reconstruites. Le dossier MC-019 d'*Atrahasis* reste la référence principale pour le récit tablette par tablette ; le présent chapitre ne le reproduit pas.
+
+### 77. La responsabilité politique au-delà de la royauté [P]
+
+Le cas mésopotamien oblige à nuancer le paradigme initial. Toutes les maladies ne trouvent pas un roi coupable ; toute souffrance n'est pas intelligible comme châtiment mérité ; une catastrophe peut surgir d'un conflit entre puissances divines ou rester inexplicable. La comparaison véritable gagne à délimiter où le modèle politique **cesse** de fonctionner. Une typologie ne vaut que si elle laisse place aux textes qui la contredisent.
+
+**Sources :** Amar Annus et Alan Lenzi, *Ludlul bēl nēmeqi: The Standard Babylonian Poem of the Righteous Sufferer*, State Archives of Assyria Cuneiform Texts 7, Helsinki, 2010 ; Alan Lenzi, *Reading Akkadian Prayers and Hymns*, 2011 ; W. G. Lambert et A. R. Millard, *Atra-Ḫasīs: The Babylonian Story of the Flood*, 1969 ; Benjamin R. Foster, *Before the Muses*, 3e éd., 2005, pour les traductions des œuvres littéraires ; corpus numérique ORACC https://oracc.museum.upenn.edu/ (les passages doivent être recoupés avec une édition critique).
+
+---
+
+## X. Thucydide : l'épidémie qui résiste aux explications rituelles
+
+### 78. Athènes, 430 av. n. è. : un témoignage historique singulier [A]
+
+Au début de la guerre du Péloponnèse, Thucydide décrit l'épidémie qui frappe Athènes dans les **livres II, 47–54**. Il affirme avoir lui-même été atteint et vouloir exposer des signes permettant de reconnaître le fléau s'il revenait (**II, 48**). À la différence de la scène homérique, ce récit met en avant observation, succession des symptômes et impuissance des méthodes de soin. Il est essentiel de ne pas réduire l'historien à un « rationaliste moderne » : son protocole, ses sources et les limites de son expérience restent ceux de son époque.
+
+### 79. Les prières et oracles ne guérissent pas [A]
+
+Thucydide **II, 47** rapporte que les habitants eurent recours aux supplications dans les sanctuaires, aux consultations oraculaires et à d'autres pratiques, sans que cela mette fin à la maladie. Son récit ne met pas au premier plan une confession publique de Périclès comme origine du désastre. Le contraste avec Œdipe est donc net : dans une tragédie, l'oracle propose la découverte d'un meurtrier ; chez Thucydide, les recours religieux font partie des stratégies finalement inefficaces des habitants.
+
+### 80. Médecins en première ligne [A/I]
+
+L'historien observe que les médecins mouraient aussi en grand nombre, leur exposition au contact des malades les rendant particulièrement vulnérables. Les descriptions des corps, des soins et des comportements donnent un regard sur la transmission sans autoriser une certitude diagnostique actuelle. Des chercheurs ont proposé diverses maladies pour la « peste » d'Athènes ; aucune identification ne doit être érigée en vérité du texte sans examen de l'ensemble des symptômes et des preuves paléopathologiques.
+
+### 81. La défaite des normes [A/I]
+
+Thucydide **II, 52–53** présente des morts sans sépulture convenable, la saturation des espaces publics et la transformation des règles collectives. Dans son récit, la maladie produit une désorganisation juridique et religieuse : elle ne vient pas simplement punir un désordre précédent. La direction de la causalité est en partie inversée par rapport à la tragédie. Ce changement est décisif pour comparer les discours antiques sur catastrophe et ordre politique.
+
+### 82. Un historien n'est pas un microbiologiste [T]
+
+Thucydide fournit une description remarquable des effets de la maladie, mais il n'identifie pas un organisme invisible ni les mécanismes biologiques de transmission au sens contemporain. En refusant de prétendre diagnostiquer ce que les spécialistes n'avaient pu empêcher, il marque aussi les limites du savoir. Son enquête appelle une confrontation avec l'archéologie et l'histoire des populations, pas une conversion automatique de ses mots en nomenclature médicale moderne.
+
+### 83. Comparaison négative avec Sophocle [I]
+
+Les deux auteurs écrivent au Ve siècle avant notre ère et évoquent une cité dévastée. Mais Thucydide décrit une réalité dont il propose d'évaluer les symptômes, tandis que Sophocle met en scène une chaîne de révélation tragique autour du meurtre de Laïos. Que la tragédie ait pu résonner avec une mémoire athénienne du fléau n'abolit pas leur différence de méthode. Le comparatisme doit porter sur ce qui est **semblable** et sur ce qui **résiste** au rapprochement.
+
+**Sources :** Thucydide, *La Guerre du Péloponnèse* II, 47–54 ; édition grecque et traduction française Élie-Ami Bétant, Perseus https://beta.perseus.tufts.edu/urn:cts:greekLit:tlg0003.tlg001.1st1K-fre1:2.47/ ; Donald Kagan, *The Peloponnesian War*, 2003 ; Angelos Chaniotis, *Age of Conquests: The Greek World from Alexander to Hadrian*, 2018, pour comparaison de longue durée des pratiques religieuses, sans lui attribuer d'édition de la maladie athénienne.
+
+---
+
+## XI. Grammaire comparée du mal : cinq mécanismes causaux
+
+### 84. Typologie A : l'injure faite au représentant du dieu [I]
+
+L'*Iliade* fournit un cas idéal : Chrysès exige réparation pour l'affront subi. L'action d'Agamemnon est identifiable, présente et directement opposée à une demande rituelle. Le devin indique une solution procédurale. L'épidémie se déploie dans une coalition militaire et oblige à discuter du gouvernement du groupe. Le schéma n'exige ni péché héréditaire ni enquête sur un crime inconnu.
+
+### 85. Typologie B : l'obligation héritée [I]
+
+Chez Muršili, le manquement principal est lié aux générations antérieures et à la continuité des rites et des serments. Les tablettes et oracles sont les instruments de récupération d'un passé qui oblige. Le roi actuel répare une relation qu'il n'a pas lui-même fondée. Ce modèle rend intelligible la catastrophe comme **dette dynastique**, tout en laissant ouverte la question de savoir pourquoi la peine atteint le peuple entier.
+
+### 86. Typologie C : la souillure que l'enquête retourne contre l'enquêteur [I]
+
+Dans *Œdipe roi*, la contamination symbolique ne peut cesser sans identification du meurtrier de Laïos. La difficulté est épistémique : l'agent politique qui cherche la vérité est lui-même le foyer du désordre. Le rôle du roi ne consiste pas principalement à restaurer un rite oublié, mais à produire les conditions de la découverte de sa propre culpabilité objective.
+
+### 87. Typologie D : la faute de recensement et l'aire du sacrifice [I]
+
+Dans 2 Samuel 24 et 1 Chroniques 21, l'acte du souverain est d'ordre administratif et militaire ; le récit le qualifie comme tort fait à la souveraineté divine. La crise se résout par confession, médiation prophétique et autel. L'aire de battage passe du statut d'espace agraire à celui d'un lieu sacré exceptionnellement signifiant. La restitution est à la fois morale, matérielle et topographique.
+
+### 88. Typologie E : restauration des ressources sacrées [I]
+
+La stèle de Séhel lie baisse du Nil, enquête documentaire, rêve de Khnoum et donation au temple. Elle produit une mémoire du souverain comme garant de la circulation des ressources et une justification ancienne des droits du sanctuaire. Elle ne suppose pas nécessairement un roi coupable d'une faute morale ; la crise peut être analysée comme rappel de ses devoirs cultuels et distributifs.
+
+### 89. Typologie F : la souffrance sans accusation lisible [I]
+
+*Ludlul bēl nēmeqi* montre un souffrant dont le mal ne se laisse pas facilement déduire d'une faute identifiée. Cette résistance à l'explication morale empêche de transformer la typologie précédente en loi universelle. Une théologie peut affirmer la souveraineté d'un dieu tout en exprimant l'incompréhension du fidèle. L'inférence « catastrophe, donc faute » n'est pas stable à travers tous les textes anciens.
+
+### 90. Typologie G : la maladie comme crise publique sans coupable théologique assigné [I]
+
+Thucydide fournit un autre point d'arrêt : descriptions, recherche de signes, effet sur les normes, impuissance des prières. L'existence de cette manière d'écrire l'épidémie interdit l'opposition simpliste « religion antique contre science moderne ». La pensée antique possède plusieurs régimes d'explication qui peuvent cohabiter, se concurrencer et se transformer selon la pratique de l'auteur.
+
+---
+
+## XII. Tableau critique : de qui la faute, de quoi la preuve ?
+
+| Corpus | Genre, période du texte | Crise décrite | Responsable désigné par le récit | Réparation proposée | Ce que la source ne prouve pas |
+|---|---|---|---|---|---|
+| Muršili II, CTH 378.2 | Prières royales hittites, fin XIVe s. av. n. è. ; copies multiples | Mortalité prolongée en Ḫatti, vingt ans revendiqués | Faute du père : serment transgressé et rite du fleuve Mala omis ; causes encore à investiguer | Confession dynastique, rituel, oracles, rêves, restitutions | Agent pathogène précis, nombre médical de morts, épidémie démontrée à Amarna |
+| *Iliade* I | Épopée grecque de transmission archaïque | Flèches d'Apollon, mortalité du camp achéen | Affront d'Agamemnon au prêtre Chrysès | Retour de Chryséis, offrandes, purification | Chronique directe de Troie de l'âge du Bronze |
+| *Œdipe roi* | Tragédie de Sophocle, Ve s. av. n. è. | Épidémie, stérilité des champs et troupeaux | Souillure du meurtre impuni de Laïos, identification progressive d'Œdipe | Enquête, expulsion ou punition du coupable | Étiologie biologique de la peste athénienne |
+| 2 Samuel 24 | Tradition narrative biblique composite | Pestilence collective et morts dénombrées dans le texte | Recensement de David, avec incitation initiale attribuée au Seigneur | Confession, prophétie, achat d'aire, sacrifices | Dénombrement archéologique des morts ou date épidémiologique indépendante |
+| 1 Chroniques 21 | Réécriture biblique ultérieure | Même cadre narratif, détails variés | Un *śāṭān* incite David ; responsabilité royale maintenue | Autel d'Ornan, feu du ciel, identification d'un lieu cultuel | Identité des traditions, chiffre monétaire unique, origine clinique du fléau |
+| Stèle de Séhel | Inscription égyptienne ptolémaïque attribuée à Djéser | Sept ans de crue insuffisante, famine | Déséquilibre entre ressources du Nil et culte de Khnoum | Consultation des archives, rêve, donations au sanctuaire | Décret de la IIIe dynastie contemporaine de Djéser |
+| *Livre de la Vache céleste* | Mythe égyptien, versions du Nouvel Empire et autres supports | Destruction violente de l'humanité | Décision initiale de Rê face à la révolte humaine | Bière rouge, interruption de la violence de la déesse | Épidémie médicale transmise par Sekhmet |
+| *Ludlul bēl nēmeqi* | Poème sapiential akkadien | Maladie et déchéance individuelle | Malheur dont la justification reste opaque | Guérison et louange de Marduk | Faute politique identifiée d'un souverain |
+| Thucydide II, 47–54 | Historiographie grecque, Ve s. av. n. è. | Épidémie observée à Athènes | Pas de faute unique du souverain donnée comme diagnostic | Observations, pratiques de soin ; prières et oracles jugés inefficaces | Diagnostic biomédical définitivement établi à partir du seul texte |
+
+---
+
+## XIII. Philosophie du politique : responsabilité, punition, reconnaissance
+
+### 91. Le souverain n'est ni l'origine ni la solution unique de tous les maux [P]
+
+La comparaison permet une distinction : une catastrophe est matériellement collective, mais la culture peut rechercher un sujet capable d'en répondre. Le roi devient ce sujet parce qu'il a hérité d'engagements et se présente comme garant des rites. Cette opération accroît sa responsabilité ; elle peut aussi concentrer son pouvoir en faisant de lui le seul médiateur autorisé. Une philosophie politique critique doit garder ces deux effets ensemble.
+
+### 92. Le modèle de la responsabilité objective [P]
+
+Dans la tragédie, Œdipe est pris dans les conséquences d'actes dont il ignorait la portée. Chez Muršili, le fils hérite d'une dette causée par un autre. On peut analyser ces cas à l'aide de la notion contemporaine de **responsabilité objective**, sans la confondre avec les catégories juridiques antiques. Le problème philosophique est celui de la participation à un ordre de conséquences qui excède le contrôle et la conscience d'un individu.
+
+### 93. Hegel : action, reconnaissance et déchirement [P]
+
+Les lectures hégéliennes de la tragédie insistent sur la tension entre action et savoir, individu et ordre éthique. Œdipe révèle que l'agent n'est pas maître de tout le sens de son acte. Appliqué avec prudence, le schème éclaire la distance entre la légitimité politique visible d'un sauveur de la cité et la vérité qui mine sa place. Il serait toutefois abusif d'attribuer directement à Sophocle le vocabulaire de la *Phénoménologie de l'esprit* ou d'effacer les singularités thébaines au profit d'une dialectique intemporelle.
+
+### 94. Nietzsche : le sens donné à la souffrance [P]
+
+Nietzsche critique les dispositifs moraux qui rattachent nécessairement souffrance et culpabilité, notamment dans la *Généalogie de la morale* et ses analyses de l'idéal ascétique. Son questionnement permet de demander si la recherche d'un coupable ne rend pas l'épidémie **intelligible au prix d'une nouvelle injustice**. Mais la prière hittite ne se résume pas à « inventer du péché » : elle inscrit des obligations concrètes de culte et de diplomatie et peut aussi limiter les exigences de punition divine.
+
+### 95. Ricœur : faute, symbole et interprétation [P]
+
+Dans *La Symbolique du mal*, Ricœur distingue notamment les registres de souillure, péché et culpabilité. Cette grille aide à éviter la confusion entre la pollution de *Œdipe roi*, le parjure dynastique de Muršili et l'aveu de David. Elle n'est pas une nomenclature indigène à appliquer mécaniquement : chaque registre dépend d'une histoire linguistique et rituelle particulière. L'intérêt est d'expliciter les différences au lieu de les absorber sous « punition divine ».
+
+### 96. Arendt : gouverner sous l'incertitude [P]
+
+La capacité d'agir humainement s'inscrit, chez Arendt, dans un monde de pluralité où nul ne maîtrise toutes les conséquences de ses décisions. L'épidémie dramatise cette imprévisibilité. Muršili cherche des causes dans les archives et demande encore un rêve ; Œdipe enquête et provoque son propre renversement ; les Athéniens décrits par Thucydide voient les institutions sanitaires et funéraires déborder. On peut y lire différentes tentatives de restaurer une action commune au milieu de conditions non maîtrisées.
+
+### 97. Foucault : gouvernement des vivants et anachronisme [P]
+
+La notion moderne de **biopolitique** attire l'attention sur le lien entre mortalité, population et techniques de gouvernement. Les recensements bibliques, la continuité du culte hittite et la ville dépeuplée de Sophocle peuvent susciter un dialogue théorique. Il serait trompeur, cependant, d'y projeter directement les appareils statistiques, sanitaires et disciplinaires des États modernes analysés par Foucault. Une analogie de problème n'est pas une identité institutionnelle.
+
+### 98. La protection du peuple comme critère du roi [P]
+
+Le prêtre d'*Œdipe roi* rappelle qu'une ville sans habitants n'est plus une ville ; Muršili souligne que sans desservants il n'y aura plus de sacrifices ; David demande pourquoi ses « brebis » paient pour son erreur. Trois genres très différents lient la dignité de gouverner à la survie de ceux sur lesquels on règne. La métaphore pastorale et le langage cultuel diffèrent, mais chacun ouvre la possibilité de critiquer un pouvoir qui ne conserverait que son titre alors que la communauté se défait.
+
+### 99. Qui protège le devin qui ose parler ? [P]
+
+Le rôle de Calchas montre le risque d'une expertise qui met en cause le chef ; Tirésias se heurte à la colère d'Œdipe ; Muršili dépend d'oracles et de spécialistes cultuels ; Gad peut transmettre une accusation contre David. La parole diagnostique doit franchir des barrières de pouvoir. En ce sens, les textes posent aussi la question moderne des conditions politiques de la critique savante, sans que leurs devins soient assimilés à des épidémiologistes contemporains.
+
+### 100. Punition collective et justice distributive [P]
+
+Une peine qui touche des milliers de victimes pour un seul acte royal soulève un problème moral durable. Le dispositif narratif peut transformer un souverain en coupable exemplaire tout en prenant les morts du peuple comme décor d'une leçon. Le cri de David au verset 24, 17 déstabilise partiellement cette construction. L'éthique comparative doit refuser d'attribuer aux victimes une culpabilité qu'aucune source ne spécifie, et distinguer **fonction du récit** de **justice de la peine**.
+
+### 101. L'expiation peut restaurer les institutions qu'elle prétend réparer [P/I]
+
+À Séhel, la donation renforce les droits d'un sanctuaire ; à Jérusalem, l'autel sert d'origine à une géographie cultuelle ; chez Muršili, la restitution renouvelle le service des dieux. Le récit de catastrophe peut donc aboutir à une **fondation institutionnelle**. Il s'agit d'un effet social probable du discours ou d'un objectif rédactionnel, pas d'une preuve que toutes les crises ont effectivement cessé après ces mesures.
+
+### 102. Pourquoi une telle lecture n'est pas du scepticisme désinvolte [P]
+
+Dire que la guérison divine n'est pas vérifiable historiquement n'interdit pas d'étudier sérieusement les convictions et les pratiques. L'historien a pour tâche de distinguer causalité revendiquée, expérience des acteurs et preuve matérielle. Cette discipline évite deux excès : ridiculiser les auteurs pour leur cosmologie et adopter leurs explications surnaturelles comme des données médicales. La compréhension exige une reconstruction précise des raisons que les textes donnent, avant tout jugement externe.
+
+---
+
+## XIV. Historiographie critique : du langage de « peste » à la bioarchéologie
+
+### 103. Les découvertes hittites et la traduction [T]
+
+La constitution du corpus CTH 378 est inséparable du déchiffrement du hittite et de l'édition des tablettes de Ḫattuša. Albrecht Goetze, *Die Pestgebete des Muršiliš* (1930), a donné un cadre majeur ; René Lebrun (1980), Itamar Singer (2002), puis les éditions numériques du Hethitologie-Portal Mainz ont révisé les raccords et commentaires. Un renvoi savant doit préciser quel état du texte il utilise. L'orthographe des noms et les subdivisions éditoriales peuvent varier d'un ouvrage à l'autre.
+
+### 104. La tentation de donner un nom à toute épidémie antique [H]
+
+Des auteurs ont proposé peste bubonique, variole ou d'autres maladies pour expliquer les morts hittites. Ces propositions sont fragiles lorsqu'elles reposent uniquement sur la durée de la mortalité et son éventuelle circulation avec des prisonniers. Un diagnostic exige des symptômes, des indices paléopathologiques ou des biomolécules associées à un contexte daté. La notion générale de *plague* en anglais ne suffit pas. La discussion médicale peut être présentée comme une **historiographie de conjectures**, jamais comme résultat de laboratoire acquis.
+
+### 105. Recherche publiée le 16 septembre 2025 : Amarna réexaminée [A]
+
+Gretchen R. Dabbs et Anna Stevens, « Mortality Crisis at Akhetaten? Amarna and the Bioarchaeology of the Late Bronze Age Mediterranean Epidemic », *American Journal of Archaeology*, **129/4** (2025), DOI **10.1086/736705**, confrontent les nécropoles d'Amarna, les sépultures multiples, la distribution des âges et les données de l'habitat à ce que produisent des épidémies bien documentées ailleurs. Leur conclusion explicite : **à l'heure actuelle, peu d'indices convaincants suggèrent une épidémie mortelle à Akhetaton**. Cette étude, postérieure à de nombreuses synthèses, oblige à corriger les récits trop assurés reliant la crise hittite aux décès des proches d'Akhenaton.
+
+### 106. Ce que l'étude de 2025 n'établit pas [I]
+
+Elle ne démontre pas qu'aucune maladie infectieuse n'a jamais circulé à Amarna, ni que les prisonniers égyptiens du récit hittite étaient tous indemnes. Elle montre que les preuves invoquées pour une crise mortelle exceptionnelle à Akhetaton restent faibles quand on les analyse globalement. La conclusion est archéologique et probabiliste ; elle ne porte pas de jugement sur la véracité théologique de la prière. Répéter le résultat sans cette limitation reproduirait l'excès inverse de la théorie qu'elle critique.
+
+### 107. Le diagnostic de la peste d'Athènes est encore débattu [H]
+
+La liste des symptômes décrits par Thucydide a suscité diverses identifications modernes ; l'usage médiatique de la formule « la vraie peste d'Athènes enfin identifiée » doit toujours être confronté au contexte archéologique, aux méthodes d'analyse et aux critiques des résultats. Le présent dossier choisit de ne **pas** attribuer de pathogène précis, faute de démonstration qui puisse être tenue pour consensuelle dans les sources consultées. L'enjeu principal est la différence entre les modes d'écriture de la causalité.
+
+### 108. Le danger des dates bibliques reconstruites sans témoins [T]
+
+Les épisodes de David sont traditionnellement placés dans une monarchie ancienne ; les livres qui les transmettent sont des compositions et réécritures de longue histoire. La datation supposée de David ne donne pas automatiquement la date d'élaboration de 2 Samuel 24, et encore moins celle des Chroniques. Une histoire des épidémies qui assignerait « 1000 av. n. è. » à la description d'un fléau sur la seule base d'un chronogramme royal ferait disparaître les couches du texte.
+
+### 109. Les récits antiques peuvent préserver des observations sans identité clinique [I]
+
+Il est possible qu'un motif religieux incorpore le souvenir de malheurs effectivement vécus. Mais le déplacement d'un témoignage d'une archive vers un poème ou une réécriture modifie la façon dont les causes et les remèdes sont formulés. La prudence historienne ne consiste ni à nier toute mémoire historique ni à prendre le motif pour un relevé de terrain. Elle consiste à préserver les degrés d'incertitude.
+
+### 110. L'importance des corpus numérisés contrôlés [A/T]
+
+Pour CTH 378, la numérisation du Hethitologie-Portal et les index de fragments permettent de vérifier KUB, KBo, inventaires et attestations. Perseus fournit les vers grecs de Sophocle et de Thucydide. Les éditions bibliques diffusent plusieurs traductions et notes de critique rédactionnelle. Les notices du Museo Egizio permettent de localiser un témoin du Livre de la Vache céleste. Ces instruments ne remplacent pas les éditions critiques exhaustives, mais rendent les citations et les limites plus auditables que des paraphrases anonymes.
+
+---
+
+## XV. Atelier de philologie : dix termes à ne pas fusionner
+
+### 111. Hittite *ḫenkan* [T]
+
+Terme de mort, de calamité ou de sort funeste utilisé dans les prières. Dans ce dossier : « mortalité épidémique décrite » ou « fléau » lorsque le contexte l'autorise. Éviter « peste bubonique » comme équivalent automatique. Référence : CTH 378.2 et Dabbs–Stevens 2025, discussions terminologiques.
+
+### 112. Hittite *arkuwar* [T]
+
+Mot des requêtes ou plaidoyers rituels dans le genre de la prière royale. Il précise la forme d'un discours construit, qui peut inclure dénonciation du désastre, rappel des services rendus et offre de réparation. Ne pas l'assimiler sans preuve à la *díkē* grecque ou au procès pénal moderne.
+
+### 113. Hittite *Mala* [T]
+
+Nom du fleuve faisant l'objet d'un rite dans la prière, généralement identifié à l'Euphrate. Le texte parle d'une obligation cultuelle que Muršili entend reprendre. On doit distinguer le fleuve sacralisé, son lieu rituel et l'identification géographique de l'hydronyme.
+
+### 114. Grec *loimós* (λοιμός) [T]
+
+Mot employé dans la tragédie pour le fléau pestilentiel ; l'*Œdipe roi* le place au vers 28. Une traduction par « peste » est traditionnelle mais insuffisante pour diagnostiquer une espèce microbienne. Distinguer *loimós* de *limós* (λιμός, faim/famine), proches graphiquement mais distincts. La stèle de Séhel décrit principalement une pénurie, pas une occurrence égyptienne du terme grec.
+
+### 115. Grec *míasma* (μίασμα) [T]
+
+Souillure religieuse liée, dans la tragédie, au meurtre non vengé de Laïos. La traduction « pollution » peut être utile, mais il ne s'agit ni d'une infection bactériologique ni d'une saleté matérielle banale. La gravité dépend des liens sociaux, rituels et judiciaires du récit.
+
+### 116. Grec *hiketérion* et supplication [T]
+
+Les rameaux suppliants apparaissent dès *Œdipe roi* 1–3. Ils qualifient la position des citoyens qui demandent l'aide du roi. La supplication est une procédure relationnelle et politique ; les chapters *Origines du sacré* sur les suppliants et l'asile constituent des renvois utiles, mais le présent dossier s'intéresse à la catastrophe qui rend cette supplication urgente.
+
+### 117. Hébreu *dāber* / *deber* (דֶּבֶר) [T]
+
+Le terme biblique qualifie la pestilence dans des passages comme 2 Samuel 24. Il désigne un fléau religieux et mortel sans identifier *Yersinia pestis*. Son voisinage avec le verbe hébreu signifiant « parler » ne doit pas donner lieu à une étymologie improvisée sans lexique. Les contextes et les versions anciennes, dont la Septante, doivent être contrôlés à chaque usage.
+
+### 118. Hébreu *ḥāṭāʾ* (חָטָא) [T]
+
+Le verbe utilisé dans des confessions signifie « pécher » ou « manquer la juste conduite » selon les constructions. Dans 2 Samuel 24, David reconnaît une faute après le recensement. La traduction ne doit pas uniformiser cette accusation avec le vocabulaire hittite du serment violé ou grec de la souillure.
+
+### 119. Hébreu *śāṭān* (שָׂטָן) [T]
+
+Dans 1 Chroniques 21, 1, le mot est rendu par « adversaire » ou personnifié comme « Satan » selon les traducteurs et les interprétations du développement religieux ultérieur. Il n'est pas équivalent lexical de l'agent de la colère divine en 2 Samuel 24, 1. Le changement de sujet grammatical est décisif pour comprendre la réécriture.
+
+### 120. Akkadien *ludlul bēl nēmeqi* [T]
+
+Le titre d'un poème de louange au « Seigneur de sagesse ». La maladie de Šubši-mešrê-Šakkan n'est pas reliée à une faute royale nationale dans le genre du corpus CTH 378. La traduction de la première ligne et la structure des tablettes doivent suivre Annus–Lenzi plutôt qu'une paraphrase de presse.
+
+---
+
+## XVI. Corpus iconographique et dossier d'illustration sourcée
+
+**Important :** les références ci-dessous sont des **propositions éditoriales à vérifier**, non des affirmations que les images ont été copiées ou intégrées au site. Avant import, contrôler la licence de chaque photographie, la date de la prise de vue, le numéro d'inventaire exact et le crédit demandé. Prévoir une galerie combinant vues de contexte, détails épigraphiques et schémas scientifiques. Ne jamais mettre en scène une « bactérie de la peste hittite » comme reconstitution certaine. L'habillage recommandé reste le noir/anthracite et or MYTHOS, avec légendes ivoire lisibles et crédits sous l'image.
+
+1. **Tablette hittite des prières de Muršili II au musée archéologique d'Istanbul.** Photographie : Osama Shukir Muhammed Amin, 25 août 2018 ; fichier Wikimedia Commons intitulé « Mursili II prayers to the gods to end Plaque, 13th century BC, from Hattusa, Istanbul Archaeological Museum.jpg » ; **licence CC BY-SA 4.0 annoncée sur la page Commons**, à confirmer au moment de l'import. Légende : « Copie d'époque hittite d'une prière royale contre une mortalité prolongée ; la tablette n'identifie aucun pathogène moderne. » Source et licence : https://commons.wikimedia.org/wiki/File:Mursili_II_prayers_to_the_gods_to_end_Plaque,_13th_century_BC,_from_Hattusa,_Istanbul_Archaeological_Museum.jpg . **Attention :** une autre publication de la photographie sur World History Encyclopedia affiche des droits différents ; privilégier le fichier Commons en respectant ses conditions et vérifier qu'il s'agit de la même prise.
+2. **Ḫattuša, vue archéologique du cœur urbain ou du Grand Temple.** Source institutionnelle : Deutsches Archäologisches Institut (DAI), projet Ḫattuša/Boğazköy, https://www.dainst.org/forschung/projekte/noslug/2280 . Légende : « Centre administratif et religieux où furent conservés les textes royaux hittites ; une photo des ruines ne constitue pas une vue du rituel de peste. » Licence photographique à demander.
+3. **Fac-similé et translittération de KUB 14.8.** Corpus Hethitologie-Portal Mainz, **CTH 378.2/A**, https://hethport.net/txhet_gebet/intro.php?ed=E.+Rieken+et+al.&lg=DE&prgr=%C2%A7+1&xst=CTH+378.2 et LAMAN https://laman.hittites.org/cth/378.2.A/ . Légende : « Les colonnes et fragments de KUB 14.8 transmettent la prière au dieu de l'Orage ; l'édition relève les lacunes et les raccords. » Utiliser des extraits libres/avec autorisation et citer l'éditeur.
+4. **Fragment KUB 14.10 et mention de Kuruštama/Égypte.** LAMAN, CTH 378.2/C, https://laman.hittites.org/cth/378.2.C/ . Légende : « Les noms de Kuruštama et d'Égypte témoignent de l'interprétation diplomatique du désastre dans la tradition hittite. » Image à associer aux inventaires Bo 2067 et aux éléments du composite C.
+5. **Un témoin du *Livre de la Vache céleste* au Museo Egizio.** Papyrus **Cat. 1982**, https://collezionepapiri.museoegizio.it/en-GB/document/137 . Légende : « Le verso de ce papyrus transmet une version de la destruction de l'humanité par Hathor, puis son interruption grâce à la bière colorée. » Vérifier l'autorisation de reproduction.
+6. **La stèle de la famine, rocher de l'île de Séhel.** Photo panoramique localisée, puis détail des trente-deux colonnes. Source descriptive : édition Barguet 1953 et notices de photographies Commons https://commons.wikimedia.org/wiki/File:Sehel-steleFamine_(cropped).jpg ; auteur déclaré Morburre, 2005, licence indiquée sur la notice. Légende : « Inscription ptolémaïque se réclamant du règne de Djéser, non document contemporain de la IIIe dynastie. »
+7. **Représentation antique d'Œdipe et de la Sphinx.** Privilégier une pièce précise d'un musée, avec numéro d'inventaire, date et attribution, plutôt qu'une illustration moderne sans source. La scène du monstre évoque l'ancienne légitimité d'Œdipe comme sauveur ; elle ne représente **pas** la peste thébaine. Références documentaires pour vérification : Beazley Archive Pottery Database, https://www.beazley.ox.ac.uk/ .
+8. **Texte grec de l'ouverture d'*Œdipe roi*, vers 1–30 et 95–101.** Un encart typographique scientifique (création MYTHOS) utilisant le texte grec librement consultable dans Perseus, https://beta.perseus.tufts.edu/urn:cts:greekLit:tlg0011.tlg004.perseus-grc2/ . Légende : « *loimós* au vers 28 ; la souillure du meurtre de Laïos ordonnée à expulser au vers 96. » Ne pas attribuer l'encart typographique à un papyrus antique.
+9. **Le recensement de David et l'aire d'Arauna/Ornan.** Choisir une illustration de manuscrit biblique **médiéval** de collection publique, avec folio, date et bibliothèque, plutôt qu'une image fantaisiste présentée comme témoin du Ier millénaire av. n. è. Les textes de référence sont 2 Samuel 24 et 1 Chroniques 21 ; la scène de l'autel doit être légendée comme **réception iconographique**, non photographie d'une localisation archéologique assurée.
+10. **Tablette de *Ludlul bēl nēmeqi*.** Chercher un témoin par inventaire au British Museum et dans la littérature d'Annus–Lenzi (2010), en précisant la tablette et les lignes. Ne pas substituer une tablette cunéiforme générique. Source de référence : catalogue du British Museum, https://www.britishmuseum.org/collection .
+11. **Plan de la crise d'Amarna.** Diagramme comparant « témoignage hittite », « hypothèse ancienne de diffusion en Égypte » et « bilan bioarchéologique de Dabbs–Stevens 2025 ». La représentation doit être **hypothétique**, non une carte d'une épidémie prouvée. Source de l'analyse moderne : https://doi.org/10.1086/736705 .
+12. **Tableau de lecture scientifique des crises antiques**, à produire à partir de la section XII : chaque ligne doit indiquer genre, témoins, datation de rédaction et certitude clinique. Un pictogramme « texte » doit être séparé du pictogramme « preuve médicale », évitant de confondre le pouvoir persuasif d'un récit et sa preuve matérielle.
+
+**Accessibilité :** légendes complètes, descriptions alternatives (alt) descriptives, fichiers WebP si possible pour les photos sous licence adéquate, zoom sur les signes cunéiformes et hiéroglyphiques, liens vers les inventaires. Ne pas superposer le menu du site sur les photographies.
+
+---
+
+## XVII. Bibliographie universitaire sélective et vérifiable
+
+### A. Textes hittites et histoire du Ḫatti
+
+1. **Itamar Singer**, *Hittite Prayers*, éd. Harry A. Hoffner Jr., Writings from the Ancient World 11, Society of Biblical Literature, Atlanta, 2002. Chapitre III, nos 10–14, p. 56–64 pour les prières de Muršili II contre la peste, avec liste des témoins CTH. Édition/anthologie de référence ; lien de diffusion éditeur : https://www.sbl-site.org/wp-content/uploads/2024/11/Singer.pdf .
+2. **Albrecht Goetze**, *Die Pestgebete des Muršiliš*, 1930. Édition ancienne, à collationner avec les témoins et les raccords publiés ensuite.
+3. **René Lebrun**, *Hymnes et prières hittites*, Louvain-la-Neuve, 1980. Traductions et analyses des prières royales.
+4. **E. Rieken et collaborateurs**, **CTH 378.2**, Hethitologie-Portal Mainz, notice d'édition du 18 janvier 2016, https://hethport.net/txhet_gebet/intro.php?ed=E.+Rieken+et+al.&lg=DE&prgr=%C2%A7+1&xst=CTH+378.2 . Documents : KUB 14.8, KUB 14.11 + KBo 55.25, KUB 14.10 + KUB 26.86, ABoT 2.22, KBo 57.21.
+5. **LAMAN / Textual Landscape of Hittite Literature**, notices **CTH 378.2.A** et **CTH 378.2.C**, https://laman.hittites.org/cth/378.2.A/ et https://laman.hittites.org/cth/378.2.C/ , pour les fragments et attestations toponymiques.
+6. **Koç University, Suna Kıraç Library**, Hatice Gonnet-Bağana Collection, « Prayer of Mursili II about the plague — CTH 378 », notice **GNT.L378.ms.01**, https://libdigitalcollections.ku.edu.tr/digital/collection/GHC/id/13742/ . Accès documentaire ; les droits limitent les reproductions.
+7. **Trevor Bryce**, *The Kingdom of the Hittites*, 2e éd., Oxford University Press, 2005. Contexte des dynasties hittites, de Šuppiluliuma et de Muršili ; ne pas utiliser cet ouvrage comme édition des prières.
+8. **Billie Jean Collins**, *The Hittites and Their World*, Society of Biblical Literature, 2007. Institutions, religion et monde social hittites.
+9. **Jared L. Miller**, études et nouvelles éditions des fragments hittites (notamment **KBo 57.21**, cité dans le portail CTH) ; vérifier la publication originale avant citation d'une lecture nouvelle.
+
+### B. Épidémiologie historique et méthode
+
+10. **Gretchen R. Dabbs et Anna Stevens**, « Mortality Crisis at Akhetaten? Amarna and the Bioarchaeology of the Late Bronze Age Mediterranean Epidemic », *American Journal of Archaeology* **129**, n° 4, article publié **16 septembre 2025**, DOI **10.1086/736705**, https://www.journals.uchicago.edu/doi/10.1086/736705 . Conclusion prudente sur le manque d'indices bioarchéologiques d'une crise mortelle à Amarna.
+11. **Philip Norrie**, « How Disease Affected the History of the Hittite Empire », dans *A History of Disease in Ancient Times*, Palgrave Macmillan, 2016, https://doi.org/10.1007/978-3-319-28937-3_4 . Présente des hypothèses épidémiologiques discutables sur les agents ; utiliser précisément comme histoire des hypothèses, non comme diagnostic acquis.
+12. **Hethitologie-Portal Mainz**, références CTH 378 et histoire des fragments ; point de départ pour corriger les généralités des synthèses sanitaires.
+
+### C. Grèce, poésie et historiographie
+
+13. **Homère**, *Iliade*, chant I, **vers 8–100, 430–474**, le prêtre Chrysès, l'épidémie et la restitution. Éditions critiques Oxford ou Teubner ; accès de contrôle aux textes du projet Perseus et au répertoire Homer Multitext.
+14. **G. S. Kirk**, *The Iliad: A Commentary*, vol. I (chants 1–4), Cambridge University Press, 1985. Commentaire philologique de la scène homérique.
+15. **Sophocle**, *Œdipe roi* (Οἰδίπους Τύραννος), **1–150**, **151–215**, **216–299** et dénouement ; éd. Francis Storr, texte grec, Perseus https://beta.perseus.tufts.edu/urn:cts:greekLit:tlg0011.tlg004.perseus-grc2/ ; traduction historique Richard C. Jebb.
+16. **R. C. Jebb**, *Sophocles: The Plays and Fragments, Part I: The Oedipus Tyrannus*, Cambridge, 1887. Commentaire historique et textuel.
+17. **Bernard M. W. Knox**, *Oedipus at Thebes*, New Haven, Yale University Press, 1957. Débat sur la responsabilité et le statut politique du protagoniste.
+18. **Jean-Pierre Vernant et Pierre Vidal-Naquet**, *Mythe et tragédie en Grèce ancienne*, vol. I (1972) et II (1986). Études du tragique grec et de ses tensions civiques.
+19. **Robert Parker**, *Miasma: Pollution and Purification in Early Greek Religion*, Oxford University Press, 1983. Concept de souillure et pratiques de purification dans le monde grec.
+20. **Thucydide**, *La Guerre du Péloponnèse*, **II, 47–54**, description de l'épidémie athénienne ; édition grecque et traduction Bétant sur Perseus https://beta.perseus.tufts.edu/urn:cts:greekLit:tlg0003.tlg001.1st1K-fre1:2.47/ .
+21. **Walter Burkert**, *Greek Religion*, trad. angl. Harvard University Press, 1985, chapitres sur les cultes, la prière et la catastrophe dans le monde grec.
+
+### D. Traditions bibliques, critique rédactionnelle
+
+22. **2 Samuel 24**, édition annotée USCCB, https://bible.usccb.org/bible/2samuel/24 . Dénombrement, choix du fléau, achat de l'aire et sacrifices.
+23. **1 Chroniques 21**, édition annotée USCCB, https://bible.usccb.org/bible/1chronicles/21 . Réécriture avec *śāṭān* et montant de six cents sicles d'or.
+24. **2 Chroniques 3, 1**, sur le lieu du Temple, à confronter à 1 Chroniques 21 et 2 Samuel 24.
+25. **P. Kyle McCarter Jr.**, *II Samuel: A New Translation with Introduction, Notes and Commentary*, Anchor Bible 9, Doubleday, 1984. Édition savante de 2 Samuel.
+26. **Sara Japhet**, *I & II Chronicles: A Commentary*, Old Testament Library, Westminster/John Knox, 1993. Stratification, théologie et orientation cultuelle des Chroniques.
+27. **Steven L. McKenzie**, *1–2 Chronicles*, Abingdon Old Testament Commentaries, 2004. Lecture historico-critique des traditions de David.
+28. **Frank Moore Cross**, *Canaanite Myth and Hebrew Epic*, Harvard, 1973. Contextualisation historique des transformations des traditions religieuses ; ne pas en tirer un argument d'emprunt précis à CTH 378 sans preuve.
+
+### E. Égypte ancienne et Mésopotamie
+
+29. **Paul Barguet**, *La Stèle de la famine à Séhel*, IFAO, Le Caire, 1953. Édition du monument ptolémaïque racontant l'intervention de Djéser.
+30. **Miriam Lichtheim**, *Ancient Egyptian Literature*, vol. III, *The Late Period*, Berkeley, University of California Press, 1980, **p. 94–100** : traduction de la stèle de Séhel.
+31. **Yan Haiying**, « The Famine Stela: A Source-Critical Approach and Historical-Comparative Perspective », dans *Proceedings of the Seventh International Congress of Egyptologists*, 1998, p. 515–521.
+32. **Museo Egizio**, papyrus **Cat. 1982**, « Myth of the Heavenly Cow », https://collezionepapiri.museoegizio.it/en-GB/document/137 . Notice institutionnelle du témoin.
+33. **Erik Hornung**, *Der ägyptische Mythos von der Himmelskuh*, 1982. Édition et étude du mythe de la destruction de l'humanité.
+34. **Amar Annus et Alan Lenzi**, *Ludlul bēl nēmeqi: The Standard Babylonian Poem of the Righteous Sufferer*, State Archives of Assyria Cuneiform Texts 7, Helsinki, 2010. Édition de référence.
+35. **Alan Lenzi**, *Reading Akkadian Prayers and Hymns: An Introduction*, Society of Biblical Literature, 2011. Introduction philologique aux formes de prière.
+36. **W. G. Lambert et A. R. Millard**, *Atra-Ḫasīs: The Babylonian Story of the Flood*, Oxford, Clarendon Press, 1969. Édition et traductions du récit mésopotamien.
+37. **Benjamin R. Foster**, *Before the Muses: An Anthology of Akkadian Literature*, 3e éd., Bethesda, 2005. Traductions commentées des textes poétiques mésopotamiens.
+38. **ORACC**, *Open Richly Annotated Cuneiform Corpus*, https://oracc.museum.upenn.edu/ ; vérifier les sigles et témoins individuels lors d'une citation de ligne.
+
+### F. Philosophie et histoire des concepts
+
+39. **Paul Ricœur**, *Finitude et culpabilité*, vol. II, *La Symbolique du mal*, Paris, Aubier, 1960. Différenciation de la souillure, du péché et de la culpabilité.
+40. **G. W. F. Hegel**, *Phénoménologie de l'esprit*, 1807, et *Leçons sur l'esthétique* (cours et éditions posthumes), pour la lecture moderne de l'action et du tragique.
+41. **Friedrich Nietzsche**, *La Généalogie de la morale*, 1887, particulièrement deuxième et troisième dissertations ; critique du lien entre souffrance et production de culpabilité.
+42. **Hannah Arendt**, *The Human Condition*, Chicago, 1958, sections sur action, pluralité, conséquences et promesse.
+43. **Michel Foucault**, *Il faut défendre la société*, cours de 1976, et *Sécurité, territoire, population*, cours de 1977–1978, pour un vocabulaire contemporain de population, vie et gouvernement à employer avec prudence.
+44. **Marcel Mauss**, « Essai sur le don », *L'Année sociologique*, 1925, pour questionner les obligations de prestation cultuelle, à condition de ne pas substituer un modèle anthropologique à la lecture des sources.
+45. **Jan Assmann**, *The Search for God in Ancient Egypt*, 2001, pour la relation entre ordre du monde et langage théologico-politique ; distinguer l'horizon pharaonique du contexte ptolémaïque propre à Séhel.
+
+**Contrôle des sources :** les éditions savantes signalées ci-dessus ne sont pas toutes reproduites librement et intégralement ; aucune citation longue n'a été copiée d'un ouvrage protégé. Les propositions philologiques sont référées à des passages localisables et aux catalogues éditoriaux. Les hypothèses diagnostiques et les emprunts interculturels sont explicitement qualifiés. Toute révision visant une publication scientifique arbitrée devra confronter le texte aux éditions originales et leurs apparats.
+
+---
+
+## XVIII. Conclusion et pistes de recherche
+
+### 121. Le cœur de la comparaison : demander des comptes au roi [I]
+
+Dans ces textes, les morts mettent à l'épreuve l'idée que la souveraineté garantit la continuité du monde habité. La question n'est jamais seulement « pourquoi les gens meurent-ils ? », mais également « qui a failli dans les obligations qui devaient rendre la vie collective possible ? ». Dans les prières hittites, la mémoire des serments du père oblige le fils ; dans Homère, le devin critique l'affront d'un chef ; chez Sophocle, le roi découvre sa propre part à la souillure ; dans Samuel, David demande que le peuple cesse de payer pour lui ; à Séhel, une inscription rétrospective restitue au roi la charge de garantir les ressources des dieux.
+
+### 122. La catastrophe ne valide pas une théologie unique [I]
+
+L'historien doit simultanément reconnaître les textes qui lient maladie et culpabilité et ceux qui rendent cette liaison incertaine. *Ludlul* fait exister la souffrance mal expliquée ; Thucydide donne un récit dans lequel les pratiques religieuses ne fournissent pas de remède efficace. Les différences internes au monde antique comptent autant que les ressemblances entre civilisations. La comparaison ne vise pas un ancêtre uniforme de « la peste sacrée ».
+
+### 123. Le résultat de la critique médicale [A]
+
+Les tablettes hittites ne permettent pas d'identifier sûrement l'agent infectieux des décès ; le mot *ḫenkan* ne désigne pas nécessairement la peste bubonique. Une recherche publiée le **16 septembre 2025** a conclu qu'il existe peu d'indices convaincants d'une mortalité épidémique exceptionnelle à Akhetaton, alors même que certaines hypothèses s'appuyaient sur les récits hittites. Les tragédies grecques et les narrations bibliques ne fournissent pas de séries médicales indépendantes suffisantes pour nommer les maladies qu'elles évoquent.
+
+### 124. La proposition politique [P]
+
+La responsabilité du chef ne consiste pas seulement à obtenir de nouveaux signes de faveur divine ; elle peut le contraindre à reconnaître les morts, à entendre une parole qui le contredit et à répondre des décisions ou des engagements qu'il a hérités. Mais une sanction attribuée aux dieux peut aussi légitimer le maintien d'institutions puissantes et imposer aux innocents le prix d'une réparation. **L'analyse philosophique doit garder ensemble la fonction réparatrice du récit et la question de la justice pour ceux qui ont souffert.**
+
+### 125. Questions ouvertes pour des dossiers ultérieurs [H]
+
+Une comparaison plus fine pourrait confronter les listes de rites du Ḫatti aux calendriers d'offrandes des temples égyptiens ; reprendre les analyses génomiques et paléopathologiques du Bronze récent à partir de données datées ; examiner les usages de *loimós* et *limós* dans les inscriptions grecques ; étudier le réemploi de 2 Samuel 24 dans la topographie du Temple ; et comparer la production de « certitude » par oracle, archives et témoignages. Chacun de ces chantiers devra commencer par son corpus de preuves, non par une hypothèse universelle de contagion sacrée.
+
+**Renvois éditoriaux MYTHOS :** MC-024 Amon/Rê/Aton, vol. CLXXXI (181), à compléter par l'état des travaux Amarna 2025 ; MC-025 Maât/Isfet, vol. CLXXXIII (183), avec signalement de versions historiques à réconcilier, sans doublons ; MC-026 destin et nécessité, vol. CLXXXVIII (188) ; MC-027 traités et serments, vol. CXCII (192), **ne pas confondre l'accord égypto-hittite de Ramsès II/Ḫattušili III avec le dossier du serment du temps de Šuppiluliuma Ier** ; *Origines du sacré* 495, maladie et désordre cosmique ; dossiers sur purification, oracles et supplication ; dossier tragique *Œdipe roi* et son analyse philosophique, à référencer dans les deux sous-rubriques séparées du théâtre.
+
+*Fin du dossier MC-028. Le numéro canonique CXCVI (196) doit être résolu exclusivement par le registre transactionnel GitHub lors de la livraison. La file éditoriale est une preuve d'enregistrement, non de présence effective en ligne ; vérifier le reçu, le fichier canonique, le rendu HTML et le déploiement avant toute affirmation publique. Les autres dossiers et planifications restent inchangés.*

@@ -514,6 +514,12 @@
           "path": "chapitres/encyclopedie/chapitre-388-pheme-rumeur-renommee-athenes-aeschine-demosthene.md",
           "request_sha256": "7e8478ff89c454dc6f6353affc1fce8e393018f6c4c3c95ca5852df1ac959ae6",
           "initial_source_sha256": "cb5ed30eb8862c7c61cb8b8c390ef2bf68fe0a39350625ae3146bf28c5ea6438"
+        },
+        "3f0f87a7-0a8b-47c5-817a-d31a98f4bc92": {
+          "number": 389,
+          "path": "chapitres/encyclopedie/chapitre-389-hebe-jeunesse-heracles-phlionte-asylie-cultes-art-philosophie.md",
+          "request_sha256": "f2ca2c500a47113f6bccf438d4eadaaf585360952b4cf8b60134f75c62a50507",
+          "initial_source_sha256": "c29aacf91276e8080c6280c8b8594ce1c42a02a3a45f323d849e5cacc4d1bcab"
         }
       }
     },
@@ -640,6 +646,24 @@
           "path": "chapitres/comedies/volume-069-ameipsias-konnos-socrate-penseurs-musique-verite.md",
           "request_sha256": "2c6333eeccf84e085526fc51c5bf5913759a16462f1f112c988dbbceadf80871",
           "initial_source_sha256": "bcda0c9564c009e450fdd3ffc10a39830bd4dbe953aaa5cc9d307177a6f35257"
+        },
+        "6f2a9d84-3b17-4c65-9e20-8a7d1f3b5c42": {
+          "number": 70,
+          "path": "chapitres/comedies/volume-070-ameipsias-moichoi-adultere-droit-citoyennete.md",
+          "request_sha256": "2e4f6ba0448d88cd425ffd9471a00f41c5d7a398094cb56840c79ed570f2a057",
+          "initial_source_sha256": "b90ae350466583858f6a9c14d04a2bd0635b577bc8cc04953fb247d6fb8f5592"
+        },
+        "c4e77bfa-2d9a-4a66-8f21-5c3d9e8b7a40": {
+          "number": 71,
+          "path": "chapitres/comedies/volume-071-ameipsias-komastai-komos-ivresse-fete-politique.md",
+          "request_sha256": "73cf56fde89ee34afc13b59c43623da673c9c390f202d54b3a49a00cdb0161de",
+          "initial_source_sha256": "ef44d6716585a5ccc27af15166d92682de79175184a3675a473c6b6ac3da8dad"
+        },
+        "d4527e3a-64bc-4b20-a37d-2eec5d1af947": {
+          "number": 72,
+          "path": "chapitres/comedies/volume-072-ameipsias-komastai-kosmos-concours-414-fete-politique.md",
+          "request_sha256": "8666652c0bf9ab59dd53f55fcfc0feae6eafc6b2a93066b9eca0873182f289d3",
+          "initial_source_sha256": "f86f3a81fbf30bd1c0558bfe521e8f4ea06f4833cadff6d2c1cfcb9854a112e7"
         }
       }
     },
@@ -802,6 +826,18 @@
           "path": "chapitres/tragedies/volume-ccx-euripide-thyeste-parole-banquet-pouvoir-astres.md",
           "request_sha256": "f33847f3b7684e6f2cb3072dc9ac147a2178eddf404f8d884efd6f4be7187762",
           "initial_source_sha256": "116f03071724624b51e8f336ea9cc5adf4ad688b0a1e164e1c1c17f76d56c4a0"
+        },
+        "621d5276-7786-4c1a-9fdb-7692808f2dc9": {
+          "number": 211,
+          "path": "chapitres/tragedies/volume-ccxi-euripide-phrixos-second-tyche-dionysos-nephele.md",
+          "request_sha256": "d2903408e53e3a902567e757c92d3ecb30cfec519d4a6c2375cc806338994d35",
+          "initial_source_sha256": "83776eba0216d50a6f483560371a0b4751164ecd74655ecf4951b7534da4cf0e"
+        },
+        "e8f2c4d0-35a7-4ee0-9b42-6cfd195a8e71": {
+          "number": 212,
+          "path": "chapitres/tragedies/volume-ccxii-euripide-phrixos-premier-sacrifice-oracle-nephele.md",
+          "request_sha256": "fd12f2ad78cd1b65717b83b58b7540607d8cf1e0307d7123daeb7d71fe1e871e",
+          "initial_source_sha256": "5a7a06d0957cc065cc1bc66e5e64a61365b79f49f64dab08da4a1c8946c42609"
         }
       }
     },
@@ -1111,6 +1147,30 @@
           "path": "chapitres/comparatif/volume-cxcii-serments-traites-maledictions-garanties-divines-egypte-hatti-assyrie-grece.md",
           "request_sha256": "d98ef09e064b93f4481ff73ca66ba1c5b33ed49808a43cbb479b78afb96ebc69",
           "initial_source_sha256": "360dc3d8a8801da9fe15b7016ab7fba8faebda374a92c855e913b1f97d61b9cb"
+        },
+        "6f9b1a22-e28d-4b5f-a0e4-9fa74b28dd10": {
+          "number": 193,
+          "path": "chapitres/comparatif/volume-cxciii-images-divines-consecration-ouverture-bouche-egypte-mesopotamie-grece.md",
+          "request_sha256": "e1c3b4415dfcc21d4a81d64d25fb9cc7115ce5386df08fe056e6c1a85c1f44a9",
+          "initial_source_sha256": "fd127f2901f4f8740957c26e09d83d53991c8c143fc4b6bfb1336991eb597096"
+        },
+        "8c0bc13e-84bc-43de-b11a-0e25f965421f": {
+          "number": 194,
+          "path": "chapitres/comparatif/volume-cxciv-composantes-personne-mort-ka-ba-akh-etemmu-psyche-fravashi.md",
+          "request_sha256": "62c6eb2e88ffed12a057ed36a3001f65215f5f134f4f48ee4192cb7a5c3f1242",
+          "initial_source_sha256": "c9807248ea4131bf559231043620a1ef02c47f92b58e7384858ade98d14e364d"
+        },
+        "8c5e2a14-36d9-4d68-b25f-1c2e76d489a0": {
+          "number": 195,
+          "path": "chapitres/comparatif/volume-cxcv-sycophante-accusation-publique-justice-comedie-aristophane.md",
+          "request_sha256": "a05953feac9a7e303f4a4ca7c28be6b2d2d3f0647d93e817b0d4c85a3c972439",
+          "initial_source_sha256": "6f4467ed4a497e4cfa319a22f30aa2ca0cd247d39c07b8a1329d5b76cd25b23d"
+        },
+        "a8dd7e1f-08bf-441d-8cd5-b1e8c44c21d9": {
+          "number": 196,
+          "path": "chapitres/comparatif/volume-cxcvi-mc-028-peste-faute-royale-reparation-mursili-oedipe-david-babylone-egypte.md",
+          "request_sha256": "0c75af5b82bb87e9dbf925a4754e4b1bfe2f509d17d90f30a921a51093393e26",
+          "initial_source_sha256": "0efe9d7184028ddb8291dec20f26370c1dd620c129e176b724b4fdf7417e3c23"
         }
       }
     }

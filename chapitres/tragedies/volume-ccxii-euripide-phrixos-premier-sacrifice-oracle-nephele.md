@@ -1,0 +1,382 @@
+# MYTHOS — Encyclopédie des tragédies grecques — Volume CCXII (212)
+## Euripide, *Phrixos I* (Φρίξος Αʹ) — La famine, le faux oracle et le sacrifice de l'innocent
+
+**Genre :** tragédie grecque perdue. **Attribution :** Euripide. **Titre de travail :** *Phrixos I*, ou *Phrixos premier*, pour distinguer cette œuvre d'une seconde pièce homonyme, *Phrixos II*. **Datation :** non établie. **Édition de référence :** Richard Kannicht, *Tragicorum Graecorum Fragmenta* (TrGF), vol. 5, *Euripides* (2004), dossier *Phrixos*, en particulier le fr. 818c et les témoins discutés ci-dessous. **Objet :** l'analyse du drame perdu, et non la réécriture de sa totalité.
+
+> **Règle philologique MYTHOS.** Une *hypothesis* transmise sur papyrus est un résumé antique, non le texte de la pièce. Une citation isolée ne livre pas à elle seule son locuteur, son ordre dans l'action ni le décor. Les récits d'Hérodote, d'Hygin et du pseudo-Apollodore renseignent sur le mythe, mais ne sont pas des transcriptions du spectacle d'Euripide. Les propositions de reconstruction, explicitement signalées comme telles, ne doivent jamais être confondues avec des scènes attestées. Aucun vers grec absent de nos témoins n'est ici fabriqué.
+
+### Résumé scientifique
+
+Le cycle de Phrixos unit un péril individuel à une catastrophe collective. Dans plusieurs traditions, une crise de fertilité frappe le royaume d'Athamas ; Inô manipule la situation et un message oraculaire désigne Phrixos, fils de Néphélé, comme victime sacrificielle. Le héros menacé est finalement associé à un bélier merveilleux qui le conduit vers la Colchide, où naîtra l'histoire de la Toison d'or. L'intérêt singulier de *Phrixos I* est de convertir ce schéma mythique en un problème dramatique : qui produit la famine, qui contrôle la parole divine, à qui incombe la responsabilité de décider, et comment un enfant peut-il devenir le prix prétendu du salut de tous ?
+
+Cette étude traite prioritairement de la première tragédie homonyme, dont la *hypothesis* est attestée par les papyrus d'Oxyrhynque et dont un prologue fragmentaire est conservé sous le numéro 818c Kannicht. Le dossier distingue les fragments rattachés sûrement ou avec probabilité à la première version des pièces textuelles associées à la seconde. Il confronte les conjectures de la philologie moderne aux témoignages antiques, puis examine les tensions entre parenté, souveraineté, expertise religieuse et consentement sacrificiel. Des rapprochements contrôlés avec Platon, Hegel et Nietzsche éclairent ces tensions sans attribuer à ces auteurs des commentaires qu'ils n'ont jamais écrits sur *Phrixos I*.
+
+### Sommaire
+
+1. Pourquoi *Phrixos I* mérite une étude autonome
+2. Deux *Phrixos* : le problème des titres et des versions
+3. Tradition manuscrite et hiérarchie des preuves
+4. Les éditions critiques et leurs numérotations
+5. Le papyrus P.Oxy. XXVII 2455
+6. Le papyrus P.Oxy. LII 3652 et ses relations au premier
+7. Le fragment 818c Kannicht : le prologue fragmentaire
+8. Fragments 821 et 830 : attributions à la première version
+9. Fragments 822b et 824 : voix, genre et incertitude contextuelle
+10. Fragments 819 et 827 : distinguer *Phrixos II*
+11. Le cas du fragment 874 : attribution discutée
+12. Athamas : une généalogie variable
+13. Inô : marâtre, stratège ou figure de la précarité dynastique ?
+14. La famine fabriquée : technologie de la manipulation
+15. Delphes et l'oracle : une autorité usurpée
+16. Athamas : ignorance, complicité et responsabilité
+17. Phrixos : le sacrifice imposé et le consentement discuté
+18. Néphélé : maternité et secours divin
+19. Hellé : présence mythique et visibilité scénique inconnue
+20. Le chœur : ce qu'il est possible d'inférer
+21. Trois modèles de reconstruction, sans scènes inventées
+22. Le récit du pseudo-Apollodore
+23. Hygin : conservation du mythe, non scénario garanti
+24. Hérodote VII, 197 : violence du culte et mémoire locale
+25. La substitution du bélier et les limites du comparatisme
+26. Une dramaturgie de l'information et de sa falsification
+27. Platon : vérité, piété et gouvernement des croyances
+28. Hegel : les contradictions de la famille et de l'État
+29. Nietzsche : douleur tragique, apparence et critique d'Euripide
+30. Aristote : les catégories poétiques et leurs limites
+31. Confrontations avec *Iphigénie à Aulis* et *Inô*
+32. Iconographie institutionnelle : la plaque de Mélos
+33. Tableau des certitudes et questions ouvertes
+34. Bibliographie primaire, éditions et travaux récents
+35. Conclusion : refuser qu'une victime devienne une explication
+
+---
+
+### 1. Pourquoi *Phrixos I* mérite une étude autonome
+
+La célébrité de la Toison d'or risque d'absorber Phrixos dans l'histoire ultérieure de Jason. Pourtant, le récit qui précède l'expédition des Argonautes présente une cohérence propre : la transformation d'un conflit domestique en catastrophe civique, puis la tentative de résoudre cette crise en sacrifiant un descendant de la maison royale. Cette structure suffit à en faire un objet tragique spécifique. La Toison n'est pas encore le but d'une conquête : elle est liée au sauvetage d'un jeune homme menacé.
+
+Les deux tragédies intitulées *Phrixos*, reconnues par l'érudition ancienne et documentées par les résumés papyrologiques, obligent à dépasser la simple narration du mythe. Des événements qui figurent dans une version peuvent être distribués différemment dans l'autre. La mère divine Néphélé et le bélier, présents dans le cycle narratif, ne prouvent ni l'apparition effective d'un animal sur l'orchestra ni un dispositif mécanique particulier.
+
+Le projet est donc double : restituer autant que possible une problématique théâtrale et préciser, pour chaque proposition, son niveau de preuve. La différence entre une histoire plausible et une scène attestée est ici constitutive de l'analyse, non un avertissement accessoire.
+
+### 2. Deux *Phrixos* : le problème des titres et des versions
+
+La tradition connaît deux *Phrixos* attribués à Euripide, couramment notés *Phrixos A* et *Phrixos B*, ou *Phrixos I* et *Phrixos II*. Il ne faut pas transformer ces désignations en calendrier de représentations : « premier » et « second » servent d'abord à distinguer les dossiers textuels. Les dates exactes et le rapport chronologique de composition ne sont pas démontrés par une didascalie complète conservée.
+
+L'existence de deux résumés ne signifie pas que nous possédions deux pièces reconstituables ligne après ligne. Les *hypotheseis* sont abrégées, leurs papyrus mutilés, et plusieurs citations antiques ont été réunies sous le titre global sans marque indiscutable de version. Wilamowitz avait même émis des doutes historiques sur la dualité ; le dossier papyrologique et le témoignage des scholies ont depuis fourni des raisons solides de ne pas réduire automatiquement les deux œuvres à une seule.
+
+Une différence structurante ressort des témoignages : le cadre de *Phrixos A* est lié à la Thessalie, tandis que *Phrixos B* est situé à Orchomène selon les lignes conservées de P.Oxy. 2455. Les analyses doivent traiter cette distinction comme un indice documentaire précis, sans en déduire tous les déplacements de scène.
+
+### 3. Tradition manuscrite et hiérarchie des preuves
+
+Le texte intégral de *Phrixos I* ne nous est pas parvenu dans la tradition médiévale. Les matériaux se répartissent en quatre strates. Premièrement, des résumés anciens conservés sur papyrus ; deuxièmement, des morceaux de texte dramatique et des citations rattachés au titre ; troisièmement, des scholies et des travaux de grammairiens qui commentent le répertoire d'Euripide ; quatrièmement, des récits indépendants de l'histoire de Phrixos.
+
+Ces classes de sources n'ont pas la même portée. Une ligne de prologue retrouvée est matériellement proche de l'œuvre mais peut être impossible à situer dans sa syntaxe complète. Le résumé sur papyrus fournit une vue générale des événements mais peut avoir supprimé un rôle important, condensé plusieurs discours ou rationalisé un dénouement. Le mythographe est souvent plus lisible mais peut refléter une autre forme du récit.
+
+L'historien du théâtre doit donc éviter deux erreurs inverses : tenir pour fictive toute reconstruction, ou supprimer l'incertitude en comblant les lacunes par une narration séduisante. Entre ces extrêmes se situe une reconstruction critique révisable, fondée sur des degrés explicites de vraisemblance.
+
+### 4. Les éditions critiques et leurs numérotations
+
+L'édition de référence est R. Kannicht, *Tragicorum Graecorum Fragmenta*, vol. 5, *Euripides*, Göttingen, 2004. Elle doit être consultée pour contrôler les leçons, les témoins et les numéros. Les identifiants cités ici — notamment 818c, 819, 821, 822b, 824, 827 et 830 — sont des références de classement critique ; leur présence dans le dossier *Phrixos* ne constitue pas, par elle-même, une assignation certaine à *Phrixos I*.
+
+L'ancienne édition d'A. Nauck, *Tragicorum Graecorum Fragmenta*, deuxième édition, 1889, a longtemps organisé les citations disponibles. Les découvertes papyrologiques et les remaniements de Kannicht ont changé l'économie du dossier. Une citation « fr. 819 N² » correspond à une désignation dans l'édition de Nauck et doit être distinguée du numéro ou de la présentation de la même pièce chez Kannicht. Les numéros de papyrus, ceux des lignes éditées et ceux des fragments ne sont pas interchangeables.
+
+Christopher Collard et Martin Cropp proposent une présentation, une traduction et un commentaire dans *Euripides, Fragments*, tome VIII, Loeb Classical Library 506, 2008. Pour une étude scientifique, les notices et les apparats sont indispensables : la transmission d'un fragment ne se résume jamais à l'impression d'une phrase.
+
+### 5. Le papyrus P.Oxy. XXVII 2455
+
+Le papyrus P.Oxy. XXVII 2455 est un témoin capital de la littérature dramatique fragmentaire. Il contient des *hypotheseis* de pièces d'Euripide classées dans un ensemble plus vaste, dont celles des *Phrixos*. Le catalogue de la British Library le décrit comme un rouleau de résumés qui comprenait de nombreux titres, de *Médée* et *Œdipe* jusqu'à *Phénix*, *Phrixos* et *Chrysippe*. La matérialité de ce recueil a une importance décisive : nous ne lisons pas une tradition orale flottante, mais les vestiges d'un travail antique de classement et de résumé des pièces.
+
+Les lacunes du papyrus interdisent toutefois de présenter chaque mot restitué comme une donnée intacte. Une reconstitution entre crochets dans une édition indique une intervention du savant ; elle peut être très plausible sans devenir un fait paléographique. Les propositions anciennes de Wilhelm Luppe ont contribué à rendre lisible la logique des intrigues, mais l'état du support exige un examen renouvelé.
+
+Il faut enfin distinguer la date matérielle de la copie et l'époque d'Euripide. Ce papyrus ne peut pas renseigner directement sur les accessoires, les masques ou la scénographie d'une représentation athénienne du Ve siècle avant notre ère.
+
+### 6. P.Oxy. LII 3652 : une seconde transmission de la *hypothesis*
+
+La *hypothesis* de *Phrixos I* est également documentée par P.Oxy. LII 3652. Le recoupement des deux témoins ne supprime pas leurs lacunes mais permet d'examiner des variations de texte, de longueur de lignes et de formulation. L'étude papyrologique fait apparaître ici un principe décisif : la mise en page supposée ne doit pas commander d'avance ce qu'on croit pouvoir lire.
+
+Nadia Rosso, dans une étude de 2023, propose une relecture de la *hypothesis* de *Phrixos I*, des rapports entre P.Oxy. 2455 et P.Oxy. 3652 ainsi que du rôle d'Athamas. Lorenzo Ronchini, dans une étude de 2025, conteste qu'on puisse établir avec une assurance suffisante la longueur des lignes de P.Oxy. 3652 pour en tirer certaines restitutions. Ce désaccord n'est pas secondaire : le nombre supposé de lettres détermine parfois le sens prêté à une intention, à une négociation ou à une information communiquée.
+
+Les deux travaux offrent des interprétations qui doivent rester identifiées comme des hypothèses scientifiques discutées. La présente étude privilégie les arguments stables et signale les points où une nouvelle lecture des fibres ou des photographies pourrait déplacer la conclusion.
+
+### 7. Le fragment 818c Kannicht : un prologue fragmentaire
+
+Le fragment 818c, présenté par le projet DEFrAG-Tragedy comme un prologue de *Phrixos I*, est l'un des jalons textuels les plus précieux. Sa valeur ne réside pas seulement dans une information mythique : appartenant à une ouverture dramatique, il témoigne du travail par lequel une tragédie donne au spectateur des repères de lieu, de filiation et de situation.
+
+Les éditeurs de DEFrAG-Tragedy ont précisément choisi ce cas pour illustrer l'intérêt d'un balisage numérique qui conserve ensemble texte, apparat critique, commentaire et traduction. La méthode est exemplaire. Chaque restitution doit demeurer visible comme restitution ; une ponctuation et une segmentation peuvent engager une interprétation des voix.
+
+L'important, pour le présent dossier, est d'attester l'existence du fragment sous sa référence exacte et sa valeur dramaturgique de prologue. Faute d'une confrontation intégrale des leçons concurrentes et de leur appareil dans cette livraison, aucune citation grecque prétendument continue n'est reproduite. Nous n'attribuons pas non plus avec certitude une série entière de déclarations à un locuteur dont la situation pourrait dépendre d'une restitution.
+
+### 8. Les fragments 821 et 830 : prudence dans l'attribution à *Phrixos I*
+
+Dans une discussion philologique de 1964, Herman Van Looy estimait que les fragments anciens 821 et 830 de Nauck pouvaient être attribués avec assurance à la première version. Ce jugement est historiquement important, car il donne une base plus resserrée que la tentation de répartir tous les fragments de *Phrixos* en suivant seulement leur sujet.
+
+Le fragment 830, avec un vocabulaire lié à la condition du dépendant thessalien, a notamment été invoqué en rapport avec la localisation de la première pièce en Thessalie. Mais le raisonnement doit être formulé correctement : un mot rare ou localisant contribue à l'attribution ; il ne démontre pas seul l'identité du personnage qui l'emploie ni la scène dans laquelle il était prononcé.
+
+Il convient également de ne pas confondre les numéros de Nauck avec les nouveaux papyrus ajoutés aux éditions postérieures. Un tableau de concordance est nécessaire avant toute juxtaposition de citations. L'analyse présente donc ces deux témoignages comme un dossier d'attribution savante, sans produire de faux dialogue à partir de mots dispersés.
+
+### 9. Fragments 822b et 824 : parole et représentation d'Inô
+
+Les fragments 822b et 824 Kannicht figurent parmi les matériaux examinés par Nadia Rosso dans son étude sur Inô, la marâtre dans les tragédies fragmentaires. Le premier est pertinent pour les problèmes de communication entre Inô et Athamas : la force des affirmations et des serments peut masquer une lutte de pouvoir dans le foyer royal. Le second rapporte une réflexion sur l'hostilité des belles-mères envers les enfants d'un premier lit.
+
+Une maxime tragique n'est pas automatiquement la déclaration intime du personnage qu'on imagine. Il faut éviter de lire le fragment 824 comme un simple aveu transparent de haine. Selon l'analyse de Rosso, son utilisation par Inô peut au contraire participer d'une vigilance stratégique : nommer le préjugé afin de modifier la façon dont les autres interprètent sa conduite.
+
+Pour la première version, l'attribution précise de ces paroles et leur emplacement dans l'enchaînement scénique appellent des réserves. Il est méthodologiquement légitime de les mobiliser pour éclairer la poétique d'un ensemble de *Phrixos* ; il serait abusif de leur assigner sans démonstration un épisode de *Phrixos I*.
+
+### 10. Fragments 819 et 827 : ne pas absorber la seconde version
+
+Un ancien commentaire aux *Grenouilles* d'Aristophane, vers 1225, a joué un rôle dans la discussion du fragment 819 de Nauck, attribué à *Phrixos II*. D'autres recherches rattachent le fragment 827 de Nauck à cette seconde version. Ces attestations obligent à garder visibles les frontières d'attribution, même lorsque le thème général d'une citation correspondrait parfaitement à la première tragédie.
+
+L'erreur la plus facile serait de regrouper sous *Phrixos I* les plus belles répliques ou les épisodes les mieux conservés de la version B, puis de présenter cet assemblage comme une reconstitution. Cela produirait une œuvre littéraire moderne déguisée en objet antique.
+
+Les deux versions peuvent bien sûr être confrontées. Leur comparaison est féconde précisément parce qu'elle reconnaît des agencements distincts : il est possible qu'une action de la première ait été déplacée, abrégée ou accentuée dans l'autre, mais cette possibilité exige un indice textuel et ne peut devenir une identité présumée.
+
+### 11. Le fragment 874 : l'attribution comme question ouverte
+
+Le fragment 874 Kannicht est rapproché d'Inô par Nadia Rosso, sur la base d'indices lexicaux et dramaturgiques ; elle souligne notamment la portée du vocabulaire de la ruse présent dans la *hypothesis* de *Phrixos I*. Cette proposition est intéressante, mais ce rapprochement n'est pas une preuve que le fragment appartient nécessairement à cette pièce et à un discours déterminé d'Inô.
+
+Le raisonnement doit rester falsifiable. Un même motif peut circuler d'un drame à l'autre ; Euripide n'a pas le monopole de la dissimulation féminine ni du langage de la machination. L'analogie thématique doit donc être subordonnée à la transmission du texte et aux critères métriques ou lexicaux lorsqu'ils existent.
+
+Dans ce dossier, le fragment est enregistré comme comparandum et comme attribution débattue, non comme un nouveau morceau de prologue découvert.
+
+### 12. Athamas : une généalogie variable
+
+Athamas, traditionnellement fils d'Éole, se situe au croisement de plusieurs généalogies et territoires. L'une des traditions fait de Néphélé la mère de Phrixos et d'Hellé ; Inô, fille de Cadmos, intervient ensuite dans la maison royale. D'autres versions donnent à Athamas une épouse supplémentaire, Thémisto, et répartissent différemment la succession des unions.
+
+Ces variations ne sont pas des fautes de copie qu'il faudrait automatiquement corriger au profit d'une unique histoire canonique. Dans l'imaginaire grec, la mythologie est faite de versions localisées, de combinaisons poétiques et de revendications cultuelles. Le lieu — Thessalie ou Béotie — détermine parfois le rôle politique d'un personnage.
+
+Il serait donc imprudent d'introduire dans *Phrixos I* les enfants et les scènes de la *Inô* d'Euripide, déjà étudiée ailleurs dans MYTHOS, simplement parce que les personnages sont communs.
+
+### 13. Inô : marâtre, stratège ou figure de la précarité dynastique ?
+
+Le récit mythographique courant représente Inô comme une belle-mère dangereuse, animée par le désir de favoriser ses propres enfants. Cette lecture a une force narrative évidente : le salut de Phrixos peut être perçu comme une victoire du lien maternel légitime sur l'usurpation. Mais le détail de *Phrixos I* paraît plus complexe.
+
+Lorenzo Ronchini, en 2025, a proposé que, dans la *hypothesis* de la première version, l'amertume d'Inô soit liée au fait de ne pas avoir eu d'enfant d'Athamas. Une telle interprétation modifierait profondément la psychologie familiale : il ne s'agirait plus simplement de protéger une descendance concurrente, mais d'agir depuis une position de fragilité et d'échec dynastique. Ce n'est pas un fait accepté sans débat : il dépend de lectures et de restitutions du papyrus.
+
+Cette hypothèse est précieuse parce qu'elle oblige à ne pas projeter dans la tragédie une grille uniforme de « méchante marâtre ». Le personnage peut représenter une femme dont la position sociale dépend du roi, une rivale des enfants antérieurs et une tacticienne qui cherche à gouverner indirectement. Ces dimensions peuvent coexister ; aucune ne justifie le meurtre projeté, mais elles permettent d'interroger ce qui le rend pensable.
+
+### 14. La famine fabriquée : technologie de la manipulation
+
+Dans la tradition donnée par le pseudo-Apollodore (*Bibliothèque*, I, 9, 1) et par Hygin (*Fables*, 2), Inô persuade les femmes de traiter les grains destinés aux semailles de manière à les rendre stériles. La crise qui en résulte semble naturelle aux habitants, alors qu'elle est le produit d'une action délibérée. Cette structure narrative est politiquement remarquable.
+
+La fraude ne porte pas seulement sur un message : elle fabrique d'abord une réalité collective susceptible de rendre ce message crédible. La catastrophe autorise ensuite le recours à une expertise religieuse ; l'expertise manipulée autorise à son tour le sacrifice. La séquence est donc : destruction des conditions de la subsistance, peur partagée, consultation de l'oracle, énoncé d'une solution meurtrière, pression sur la famille royale.
+
+Cette analyse du récit est solide en tant qu'explication du mécanisme mythographique. En revanche, ni la représentation scénique d'une opération sur les semences ni un tableau de famine montré au public ne sont attestés pour *Phrixos I*. La tragédie pouvait raconter l'action par discours, la montrer indirectement ou organiser d'autres modalités de révélation.
+
+### 15. Delphes et l'oracle : une autorité usurpée
+
+L'oracle de Delphes intervient dans les récits comme instance de légitimation. Un messager est censé rapporter ce que le dieu a prescrit ; Inô corrompt ce canal de transmission. Le cœur du scandale n'est pas simplement que quelqu'un ment : c'est qu'une parole humaine se présente avec les attributs de la nécessité divine.
+
+Le problème suppose trois acteurs distincts : le dieu que l'on prétend consulter, l'intermédiaire humain chargé de transmettre la réponse et la communauté qui reçoit le message. Confondre ces niveaux revient à faire du faux oracle un commandement authentique du dieu. Le mythe montre au contraire combien le pouvoir des institutions religieuses dépend de conditions humaines d'authenticité, d'enquête et de confiance.
+
+La philosophie politique trouve ici un objet remarquable : une institution capable de coordonner la communauté peut aussi être instrumentalisée lorsque les mécanismes de vérification font défaut. Le récit ne prouve évidemment pas qu'un oracle réel de Delphes fut falsifié dans les circonstances décrites.
+
+### 16. Athamas : ignorance, complicité et responsabilité
+
+Athamas est l'un des personnages les plus difficiles à juger. Le pseudo-Apollodore montre un roi contraint par les habitants à sacrifier son fils après la consultation, ce qui accentue la pression collective ; Hygin rapporte un refus initial d'Athamas ; Hérodote VII, 197 transmet une tradition locale où Athamas a lui-même comploté contre Phrixos avec Inô.
+
+Ces versions divergent sur la faute première. Elles ne doivent pas être aplaties en un portrait psychologique unique. L'étude de Nadia Rosso de 2023 suggère précisément qu'une relecture de la *hypothesis* de *Phrixos I* pourrait rapprocher la position du père de celle documentée par Hérodote. Une telle proposition doit être discutée contre les restitutions papyrologiques concurrentes.
+
+Le problème philosophique ne disparaît dans aucune version. Qu'il soit dupe ou complice, Athamas occupe une fonction de souveraineté dont les conséquences frappent un innocent. L'ignorance peut atténuer une intention criminelle ; elle n'efface pas nécessairement l'obligation de contrôler les informations qui conduisent à une mise à mort.
+
+### 17. Phrixos : le sacrifice et la question du consentement
+
+Hygin, *Fables* 2, rapporte que Phrixos offre de subir le sacrifice pour délivrer la communauté de la détresse. Le détail fait basculer l'intrigue vers une question morale redoutable : une victime qui consent à mourir pour autrui devient-elle libre, ou son consentement est-il produit par une crise fabriquée et par une croyance mensongère ?
+
+La réponse ne peut pas être fournie par une simple opposition entre héroïsme et manipulation. Un sacrifice volontaire peut porter une grandeur réelle dans la poésie tragique ; il peut simultanément être le résultat d'une configuration injuste. Si la famine et l'oracle sont falsifiés, le choix de Phrixos ne repose pas sur une représentation fidèle du danger. Il faut distinguer la générosité subjective de l'agent et la légitimité objective de la demande.
+
+La scène exacte de la proposition volontaire dans *Phrixos I* n'est pas assurée. On peut analyser le récit d'Hygin et sa pertinence éventuelle, sans lui donner le statut de réplique authentique d'Euripide.
+
+### 18. Néphélé : maternité et secours divin
+
+Néphélé, dont le nom renvoie à la nuée, est la mère protectrice de Phrixos et d'Hellé. Dans les variantes où elle fournit le bélier merveilleux, sa fonction est de rompre le piège sacrificiel : l'enfant, réduit à l'état d'objet politique, retrouve une possibilité de sortie grâce à une puissance qui échappe au palais.
+
+Ce secours ne doit pas être lu trop vite comme la preuve que les dieux réparent universellement les violences humaines. L'histoire n'abolit ni la perte d'Hellé dans une branche célèbre du mythe ni les conséquences futures de l'installation en Colchide. Le salut n'est donc pas une clôture sans reste.
+
+Du point de vue du théâtre, il faut garder une distance stricte entre l'intervention divine racontée, éventuellement chantée ou annoncée, et une épiphanie scénique effectivement attestée. Les manuscrits ne permettent pas de dresser le plan d'une machinerie employée pour transporter le bélier.
+
+### 19. Hellé : présence mythique et visibilité scénique inconnue
+
+Hellé est inséparable de Phrixos dans de nombreux récits du voyage céleste ; sa chute donne une explication étiologique au nom de l'Hellespont. Cette association explique que les imagiers antiques aient régulièrement représenté les enfants et le bélier.
+
+Mais la célébrité du mythe ne règle pas la distribution dramatique de la première tragédie. La présence d'Hellé sur scène, sa fonction dialoguée, la narration de sa disparition et l'emplacement de cet événement dans la pièce sont des questions distinctes. Une *hypothesis* partiellement conservée peut mentionner un sort sans nous dire comment le spectacle le traitait.
+
+Pour MYTHOS, Hellé n'est donc ni effacée du cycle ni installée de force au centre d'une scène de séparation imaginaire. Elle manifeste le coût non annulé d'un sauvetage.
+
+### 20. Le chœur : la tentation de nommer ce qu'on ignore
+
+Une étude moderne de Nadia Rosso discute la possibilité d'un chœur féminin dans le dossier des *Phrixos*, interlocuteur temporaire d'Inô et contrepoint à son isolement. Cette proposition est intéressante pour réfléchir aux formes de solidarité ou de distance entre femmes dans la tragédie.
+
+Il ne faut toutefois pas franchir sans preuve le pas supplémentaire qui consisterait à donner au chœur une identité précise — paysannes thessaliennes, servantes du palais ou mères de la cité —, un chant d'entrée complet et une succession de stasima. Les informations conservées ne suffisent pas à un tel découpage.
+
+L'absence de certitude sur la composition du chœur est particulièrement importante puisque la manipulation des semences, dans le récit mythographique, mobilise déjà un collectif féminin. Le groupe des complices et le chœur tragique ne sont pas nécessairement le même groupe.
+
+### 21. Trois modèles de reconstruction sans scènes inventées
+
+**Modèle A — première version centrée sur la fabrication du péril.** Les éléments de la *hypothesis* et l'arrière-plan mythographique autorisent à supposer que la corruption de l'oracle et la mise en danger de Phrixos dominaient l'intrigue. Dans ce modèle, la question centrale serait la révélation progressive d'une imposture. Il ne s'ensuit pas que le spectateur ignorait lui-même la vérité.
+
+**Modèle B — première version centrée sur Athamas.** En prenant au sérieux la lecture d'une possible implication active du roi, on obtiendrait une tragédie où le drame n'oppose plus simplement la marâtre au père trompé, mais questionne une souveraineté coresponsable d'un sacrifice. La proximité avec la tradition thessalienne rapportée par Hérodote serait alors significative, sans prouver un emprunt direct.
+
+**Modèle C — première version centrée sur la survie et le départ.** Le récit pourrait avoir privilégié le salut de Phrixos et le changement de lieu, ouvrant la perspective de la Colchide. Mais l'issue exacte, l'intervention de Néphélé et le rôle du bélier ne peuvent être fixés par un scénario complet retrouvé.
+
+Ces trois modèles sont des schémas d'interprétation, non des actes édités. Aucun ne prétend fixer les personnages du prologue, le nombre des épisodes, l'ordre des débats, le dénouement en vers ni la dernière parole du chœur.
+
+### 22. Le récit du pseudo-Apollodore
+
+Dans la *Bibliothèque* I, 9, 1, le pseudo-Apollodore articule clairement les unions d'Athamas, la stérilisation des semences, le faux oracle, la pression de la communauté et la délivrance de Phrixos et d'Hellé par Néphélé. Ce texte tardif est indispensable pour comprendre les possibles liens de causalité entre les épisodes.
+
+Il serait cependant contraire aux règles de critique historique de l'utiliser comme un scénario d'Euripide. Le mythographe peut juxtaposer des traditions venues d'âges et de lieux différents ; il ne cite pas ici une transcription de *Phrixos I*. Il conserve une variante du récit et fournit un instrument de comparaison.
+
+Le texte permet surtout de comprendre l'articulation entre pouvoir domestique et décision civique : des femmes du pays interviennent dans le traitement des semences ; les habitants pressent Athamas de suivre l'oracle ; la destinée d'un enfant devient une question publique.
+
+### 23. Hygin : conservation du mythe, non scénario garanti
+
+Les *Fables* 2 et 3 d'Hygin distribuent des événements que le lecteur peut relier aux deux drames de *Phrixos*. La *Fable* 2 détaille le piège d'Inô, le consentement de Phrixos, la révélation par un serviteur et le retournement contre la reine. La *Fable* 3 décrit Néphélé, le bélier, le voyage, la chute d'Hellé et l'arrivée en Colchide.
+
+La relation entre ces notices et les intrigues euripidéennes est complexe. Des chercheurs ont rapproché tout particulièrement la fin de *Phrixos II* d'une succession de renversements transmise par Hygin. Mais la division en fables distinctes et leur rédaction tardive interdisent d'assurer que chaque détail correspondait à une scène dans une tragédie précise.
+
+À titre de comparaison interne, Hygin, *Fables* 4, associe explicitement une autre histoire à l'*Inô* d'Euripide. La présence de ce titre dans la tradition mythographique ne permet pas de transférer indistinctement son intrigue à *Phrixos*.
+
+### 24. Hérodote VII, 197 : violence du culte et mémoire locale
+
+Hérodote rapporte, à propos d'Alos en Thessalie, une tradition relative au sanctuaire de Zeus Laphystios. Elle comporte un projet de mise à mort de Phrixos par Athamas et Inô, puis une obligation menaçant certains descendants de la lignée. Kytissoros, fils de Phrixos, aurait sauvé Athamas d'un sacrifice expiatoire et suscité, par ce geste, une colère divine pesant sur ses propres descendants.
+
+Le passage est capital à deux titres. Premièrement, il atteste une version non réductible à la seule « marâtre jalouse » des résumés modernes. Deuxièmement, il associe l'histoire à des interdits et à des pratiques cultuelles locales rapportées à Hérodote. Ce sont les informateurs de l'historien qui racontent ces usages ; il ne faut pas présenter sans examen chaque détail comme une pratique indépendante archéologiquement prouvée.
+
+Le chapitre fournit ainsi un terrain comparatif pour *Phrixos I*, surtout lorsque l'on considère les interprétations récentes de la responsabilité d'Athamas. Il n'est pas possible d'affirmer que le dramaturge a mis en scène le rite exactement sous la forme décrite par Hérodote.
+
+### 25. La substitution du bélier et les limites du comparatisme
+
+Le bélier qui sauve Phrixos peut être étudié comme figure de substitution : l'animal prend place là où la mort d'un enfant était exigée. Mais il ne faut pas confondre trois opérations différentes : le transport du héros hors du danger, l'éventuel sacrifice du bélier en Colchide et le remplacement rituel d'une victime humaine au cours d'une cérémonie.
+
+Dans le cycle mythographique, Phrixos arrive auprès d'Aiétès et la Toison devient un objet prestigieux et dangereux, au cœur de l'histoire des Argonautes. Cette transformation narrative fait passer d'une épreuve de survie à la possession d'un signe de valeur royale. Il serait tentant d'y lire une doctrine universelle du sacrifice ; les sources ne soutiennent pas une conclusion aussi générale.
+
+Des comparaisons avec d'autres récits où un être est épargné par substitution animale sont possibles à un niveau structurel. Elles ne démontrent ni filiation directe entre récits ni identité théologique. La comparaison doit spécifier chaque fois la date, le corpus, la fonction de l'animal et le type de relation entre les personnages.
+
+### 26. Une dramaturgie de l'information et de sa falsification
+
+Le ressort le plus remarquable du mythe, pour la dramaturgie, est la transformation d'informations contestables en impératifs absolus. Personne n'a besoin de posséder une force physique supérieure pour orienter tout le royaume vers l'autel : il suffit de contrôler le récit de la crise et la réponse supposée du dieu.
+
+Un observateur peut disposer d'informations que le roi ignore ; le roi peut savoir ce que la communauté croit inaccessible ; un messager peut masquer sa duplicité derrière le prestige institutionnel. Ces configurations sont typiquement tragiques, mais nous ne pouvons pas les disposer avec certitude en scènes successives. Le problème de la connaissance dramatique reste ouvert.
+
+Le point central est néanmoins saisissable : la communauté n'est pas simplement trompée par une parole fausse, mais organisée autour d'elle. L'oracle allégué devient un moyen de sélectionner celui qui doit mourir. Il fournit une forme de nécessité à une décision historiquement contingente.
+
+### 27. Platon : vérité, piété et gouvernement des croyances
+
+Platon n'a pas laissé de commentaire connu de *Phrixos I*. Son œuvre permet cependant de poser une question philosophique rigoureuse à partir du dossier. Dans la *République*, livres II et III, il examine la fonction éducative des récits et refuse que l'on représente le divin comme cause de toute action injuste ou mensongère. Le faux oracle du mythe constitue un cas de confusion entre autorité divine et intérêt humain.
+
+Dans l'*Euthyphron*, la recherche de la piété oblige à distinguer l'accord apparent des puissances divines et une définition intelligible du juste. Ce cadre permet d'interroger le statut d'une demande sacrificielle : suffit-il qu'une parole soit rapportée comme divine pour que son contenu soit moralement légitime ? La tragédie ne donne pas une réponse platonicienne ; le rapprochement sert à préciser les problèmes.
+
+On peut enfin mobiliser la distinction entre connaissance et opinion. Une cité qui réagit à une pénurie réelle mais à son origine dissimulée prend sa décision sur une opinion fausse. La vertu individuelle de Phrixos ne saurait valider la procédure collective à partir de laquelle on lui demande sa mort.
+
+### 28. Hegel : contradictions de la famille et de la souveraineté
+
+La théorie hégélienne de la tragédie permet de penser le conflit entre puissances éthiques : famille, ordre public, loi et reconnaissance. Son exemple paradigmatique demeure l'*Antigone* de Sophocle. *Phrixos I* ne se laisse toutefois pas réduire au même schéma, puisque l'une des forces en présence pourrait reposer sur une fraude consciente, et non sur un droit éthique partiel mais authentique.
+
+Ce décalage est instructif. Une autorité politique peut prétendre défendre le tout en désignant une victime familiale ; ce geste devient tragique si le roi se trouve réellement pris entre des obligations contradictoires. Mais, lorsque la crise est manipulée, une partie du conflit relève de la corruption de l'institution et non d'une opposition équilibrée entre deux légitimités.
+
+La lecture hégélienne est donc ici un instrument critique soumis à contrôle. Elle éclaire comment le foyer royal peut devenir le lieu d'une contradiction publique ; elle ne doit pas transformer Inô en figure nécessairement porteuse d'un droit comparable à celui d'Antigone.
+
+### 29. Nietzsche : douleur tragique, apparence et critique d'Euripide
+
+Dans *La Naissance de la tragédie* (1872), Nietzsche articule la puissance figurative apollinienne et l'expérience dionysiaque de la souffrance, de la rupture et du devenir. La figure du bélier miraculeux peut évoquer une forme de consolation imagée face à la violence ; la détresse d'un enfant que l'on conduit vers la mort rappelle, à l'inverse, la résistance du tragique à une réconciliation trop facile.
+
+Mais l'usage de Nietzsche exige une double prudence. D'une part, il ne commente pas ici le texte perdu de *Phrixos I* ; d'autre part, sa critique de la transformation rationalisante de la tragédie chez Euripide appartient à un projet philosophique moderne, non à la description neutre de toutes les tragédies euripidéennes.
+
+Le dossier de *Phrixos* permet même de compliquer cette opposition : l'enquête sur une parole fausse n'abolit pas la souffrance ; elle la rend intelligible dans des conditions politiques qui n'ont rien d'innocent. La tragédie peut être à la fois expérience de douleur et analyse des dispositifs qui produisent cette douleur.
+
+### 30. Aristote : catégories poétiques et limites documentaires
+
+La *Poétique* d'Aristote fournit les notions de renversement, de reconnaissance et d'organisation causale. Elles aident à formuler une hypothèse générale sur les variantes où la manœuvre d'Inô est découverte et où sa victoire apparente se retourne contre elle. Il existe alors une possibilité de *péripétie*, mais non la preuve d'un découpage précis de *Phrixos I* en scènes correspondant à la théorie.
+
+La reconnaissance peut prendre la forme d'un dévoilement de la fraude plutôt que d'une découverte de filiation. Cependant, aucun passage conservé ne permet d'établir intégralement les effets scéniques et le moment exact de ce dévoilement dans la première version.
+
+L'application de catégories aristotéliciennes doit donc rester descriptive et conditionnelle. La présence d'un retournement dans un résumé mythographique ne donne ni la mesure de sa puissance théâtrale ni le rythme avec lequel Euripide l'aurait préparé.
+
+### 31. Confrontations avec *Iphigénie à Aulis* et *Inô*
+
+L'*Iphigénie à Aulis* offre un parallèle interne majeur : une communauté estime qu'une jeune personne doit mourir pour rendre possible un objectif collectif. Les circonstances diffèrent fortement : expédition guerrière, commandement et pratiques divinatoires dans un cas ; catastrophe agraire et oracle falsifié dans l'autre. La comparaison révèle néanmoins la pression exercée sur une famille lorsque le salut collectif est présenté comme incompatible avec la vie de son enfant.
+
+Avec *Inô*, l'intersection des personnages est encore plus directe. Mais la tragédie d'*Inô* transmise par les fragments et les témoins récents concerne d'autres agencements familiaux, notamment Thémisto et la reconnaissance des enfants. Une même généalogie peut fournir plusieurs expérimentations dramatiques. Il serait erroné de chercher à reconstruire *Phrixos I* en recopiant les épisodes d'*Inô*.
+
+On peut aussi comparer certains schémas de supplication dans le théâtre d'Euripide : l'individu vulnérable demande à une autorité une décision qui reconnaisse sa qualité de personne plutôt qu'un calcul de nécessité. Il s'agit ici d'une analogie de structure, non de l'affirmation qu'une supplication de Phrixos, rédigée mot à mot, nous serait parvenue.
+
+### 32. Iconographie institutionnelle : Phrixos et le bélier sur une plaque de Mélos
+
+![Plaque en terre cuite de Mélos représentant Phrixos porté au-dessus de la mer par un bélier ; Metropolitan Museum of Art, inv. 12.229.20](https://collectionapi.metmuseum.org/api/collection/v1/iiif/248103/preview)
+
+**Notice institutionnelle :** [Metropolitan Museum of Art, Terracotta plaque, inv. 12.229.20](https://www.metmuseum.org/art/collection/search/248690). Terre cuite grecque de Mélos, vers 450 av. J.-C., 18,1 × 24,6 cm. La notice identifie Phrixos porté au-dessus de la mer par le bélier ; des poissons sont visibles sous les figures. Objet signalé comme relevant du domaine public par le musée.
+
+Cette image documente l'ancienneté et la diffusion du motif du sauvetage. Elle ne prouve pas que le bélier avait cette apparence sur la scène d'Euripide ni que la pièce fut représentée au même moment que la plaque fut produite. L'étude iconographique doit toujours distinguer l'objet conservé, l'interprétation du musée et l'hypothèse de relation avec une œuvre théâtrale.
+
+La photographie institutionnelle d'un artefact ancien est privilégiée ici : aucune illustration en perspective 2,5D, aucun décor moderne présenté comme antique et aucune scène dramatique inventée ne sont introduits.
+
+### 33. Tableau des certitudes et questions ouvertes
+
+| Proposition | État de la preuve | Précaution |
+|---|---|---|
+| Il existe deux dossiers anciens de tragédies *Phrixos* attribuées à Euripide. | Fort : papyrus et scholies | Ne pas supposer deux textes complets disponibles. |
+| La *hypothesis* de *Phrixos I* est conservée partiellement. | Fort : P.Oxy. 2455 et 3652 | La restitution des lacunes est discutée. |
+| Un fragment de prologue est classé 818c Kannicht. | Fort : édition et DEFrAG-Tragedy | Ne pas lui inventer une suite. |
+| Le contexte de la première version est thessalien. | Indice papyrologique solide | Ne pas en déduire tout le décor. |
+| Inô manipule une crise de fertilité et un faux oracle dans une tradition du mythe. | Fort pour le récit mythographique | La séquence scénique de la première pièce n'est pas conservée. |
+| Inô est sans enfant d'Athamas dans *Phrixos I*. | Hypothèse philologique récente | Dépend d'une nouvelle lecture des papyrus, non consensus certain. |
+| Athamas connaît et partage le complot. | Attesté chez Hérodote pour une tradition locale ; possible rapprochement pour la pièce | Ne pas transférer automatiquement la version locale au texte perdu. |
+| Phrixos s'offre volontairement pour la cité. | Attesté chez Hygin | Place dramatique dans *Phrixos I* non garantie. |
+| Le bélier est représenté en scène par une machinerie. | Non attesté | Aucune reconstitution certaine possible. |
+| Le chœur était formé de femmes thessaliennes. | Hypothèse non démontrée | Ne pas créer de distribution. |
+| Les fragments 819 et 827 de Nauck concernent la seconde version. | Attribution savante soutenue par la tradition | Contrôler les concordances avec les éditions modernes. |
+| La plaque du Met montre le mythe de Phrixos. | Fort : notice institutionnelle | Aucun lien direct prouvé avec une représentation d'Euripide. |
+
+Ce tableau constitue une règle de lecture : le lecteur doit pouvoir distinguer, à chaque étape, ce qui est conservé, ce qui est inféré et ce qui demeure inconnu.
+
+### 34. Bibliographie scientifique et documentation vérifiable
+
+**Sources primaires et témoins**
+
+1. Euripide, *Phrixos I* et *Phrixos II*, fragments et *hypotheseis*, dans Richard Kannicht (éd.), *Tragicorum Graecorum Fragmenta*, vol. 5, *Euripides*, Göttingen, Vandenhoeck & Ruprecht, 2004. Édition critique de référence ; identification bibliographique : https://bmcr.brynmawr.edu/2006/2006.05.23/.
+2. P.Oxy. XXVII 2455, recueils de résumés d'Euripide ; E. G. Turner et al., *The Oxyrhynchus Papyri*, vol. XXVII, 1962. Catalogue matériel de la British Library : https://searcharchives.bl.uk/catalog/040-003906489.
+3. P.Oxy. LII 3652, *hypothesis* de *Phrixos I* ; publication dans *The Oxyrhynchus Papyri*, vol. LII, 1984. Notice papyrologique : https://relicta.org/cpp/detail.php?CPP=0028.
+4. Hérodote, *Histoires*, VII, 197, tradition thessalienne d'Alos et de Zeus Laphystios. Texte parallèle : https://sacred-texts.com/cla/hh/hh7190.htm ; autre édition consultable : https://lexundria.com/hdt/7.197.1/mcly.
+5. Pseudo-Apollodore, *Bibliothèque*, I, 9, 1–2, cycle d'Athamas, d'Inô, de Néphélé et de Phrixos. Traduction historique consultable : https://fr.wikisource.org/wiki/Biblioth%C3%A8que_d%E2%80%99Apollodore_l%E2%80%99Ath%C3%A9nien_%28%C3%89dition_Clavier_1805%29/Tome_premier.
+6. Hygin, *Fables*, 2 (*Ino*), 3 (*Phrixus*) et 4 (*Ino Euripidis*). Texte en traduction anglaise de Mary Grant : https://www.theoi.com/Text/HyginusFabulae1.html.
+7. Aristophane, *Grenouilles*, 1225 et scholies anciennes : discussion de l'attribution à *Phrixos II*. Le texte comique ne doit pas être confondu avec une citation complète de la tragédie : https://adfonteslibrary.org/work-aristophanes-frogs.
+
+**Éditions et études philologiques**
+
+8. A. Nauck (éd.), *Tragicorum Graecorum Fragmenta*, 2e édition, Leipzig, 1889. Source des références traditionnelles « N² » ; à utiliser avec les concordances de Kannicht.
+9. Christopher Collard et Martin Cropp (éd. et trad.), *Euripides, Fragments*, vol. VIII, Cambridge (Mass.), Harvard University Press, Loeb Classical Library 506, 2008, section *Phrixus*. Référence bibliographique : https://books.google.com/books/about/Euripides.html?id=BvBp0QEACAAJ.
+10. Herman Van Looy, « Aantekeningen bij enkele Euripides-fragmenten. POxy 2455 frg. 1, 14, 17 », *Handelingen van het Nederlands Filologencongres*, 1964 ; discussion des deux versions et de l'attribution des anciens fragments : https://www.dbnl.org/tekst/_han005196401_01/_han005196401_01_0027.php.
+11. Herman Van Looy, « Les fragments d'Euripide II », *L'Antiquité classique*, 61, 1992, p. 280–295 ; repérage bibliographique du dossier *Phrixos* : https://www.persee.fr/doc/antiq_0770-2817_1992_num_61_1_1153.
+12. Wilhelm Luppe, « Die Hypothesis zum Phrixos Deuteros des Euripides », *Archiv für Papyrusforschung*, 30, 1984, p. 31–37. Référence consignée dans Van Looy 1992.
+13. Sabina Castellaneta, Nadia Rosso et Lorenza Savignago, « Digital Edition of Fragmentary Ancient Greek Tragedy (DEFrAG-Tragedy): tre casi di studio », *FuturoClassico*, no 7 (2021), publication numérique 2022 ; étude incluant le prologue fr. 818c Kannicht : https://ojs.cimedoc.uniba.it/index.php/fc/article/view/1382 ; DOI : https://doi.org/10.15162/2465-0951/1382.
+14. Nadia Rosso, « Una matrigna in frammenti: Ino », 2020, notice institutionnelle et résumé : https://iris.uniupo.it/handle/11579/151062. Analyse notamment des fragments 822b et 824, du rôle de la marâtre et des difficultés de contexte.
+15. Nadia Rosso, « Sulla 'hypothesis' del 'Frisso I' di Euripide », 2023, notice de l'Università del Piemonte Orientale : https://iris.uniupo.it/handle/11579/218082. Réexamen des papyrus et de la place d'Athamas.
+16. Nadia Rosso, « Ripartenze nelle tragedie frammentarie euripidee », 2024, notice universitaire : https://iris.uniupo.it/handle/11579/218083. Étude du retournement de fortune et des différentes formes de salut, avec comparaison des *Phrixos*.
+17. Lorenzo Ronchini, « Sulla Hypothesis del Frisso I di Euripide: il rapporto fra i testimoni, l'amarezza di Ino », 2025, notice institutionnelle : https://www.research.unipd.it/handle/11577/3570719. Discussion de la longueur des lignes papyrologiques et du statut familial d'Inô.
+18. Emily Kearns, « Athamas », *Oxford Classical Dictionary*, publication en ligne 2015, DOI : https://doi.org/10.1093/acrefore/9780199381135.013.907. Synthèse des variantes grecques et du dossier cultuel.
+19. Ioannis M. Konstantakos, « The Victim's Tale: The Euripidean Dramaturgy of Human Sacrifice », *Logeion*, 2024, étude de la temporalité des sacrifices humains et des deux *Phrixos*. Les différences entre version A et version B y sont traitées sans datation absolue assurée.
+
+**Philosophie et méthode**
+
+20. Platon, *République*, II–III ; *Euthyphron*. Textes de comparaison philosophique, sans commentaire antique connu sur le drame perdu.
+21. Aristote, *Poétique*, chapitres 10–11 et 13–14, catégories du renversement, de la reconnaissance et de l'agencement de l'action.
+22. G. W. F. Hegel, *Esthétique*, développement sur la tragédie grecque ; référence conceptuelle contrôlée : https://plato.sydney.edu.au/entries/hegel-aesthetics/.
+23. Friedrich Nietzsche, *La Naissance de la tragédie*, 1872, notamment sections 1–4 et analyses de la tragédie euripidéenne ; texte consultable : https://www.gutenberg.org/files/51356/51356-h/51356-h.htm.
+24. Metropolitan Museum of Art, « Terracotta plaque », Mélos, vers 450 av. J.-C., inv. 12.229.20 : https://www.metmuseum.org/art/collection/search/248690.
+
+**État de consultation.** Les notices universitaires de 2023 et 2025 ont été utilisées pour leurs résumés scientifiques publiquement accessibles ; leurs restaurations papyrologiques intégrales ne sont donc pas reproduites comme si l'appareil critique complet avait été collationné. Cette distinction protège la vérifiabilité de l'étude.
+
+### 35. Conclusion — refuser qu'une victime devienne une explication
+
+Le cas de Phrixos révèle un processus particulièrement inquiétant : une société confrontée à une crise cherche la cause de son malheur et se laisse conduire vers un acte de violence contre un innocent. Dans la tradition du faux oracle, le langage sacré ne transmet pas l'exigence divine ; il sert à transformer une opération humaine en nécessité inviolable. La souffrance de l'enfant risque alors de devenir une explication commode, et son élimination une réponse politique.
+
+La tragédie perdue d'Euripide ne peut être récupérée comme une pièce complète. Les papyrus et fragments permettent seulement de déterminer certains cadres, de tester des oppositions et de comparer des reconstructions. Il en résulte pourtant un objet philosophique et historique solide : la fragilité des procédures de vérité, la responsabilité des souverains devant une expertise manipulée, la différence entre dévouement individuel et légitimité du sacrifice, ainsi que les conditions d'un salut qui ne supprime pas toutes les pertes.
+
+L'exigence propre de MYTHOS consiste à conserver ce que les témoins disent, à décrire précisément ce qu'ils ne disent pas et à rendre les hypothèses discutables. C'est à ce prix que *Phrixos I* cesse d'être un récit réinventé de la Toison d'or et redevient une tragédie grecque perdue dont la pensée demeure accessible sans usurpation de son texte.
+
+---
+
+**Renvois internes MYTHOS à établir par le catalogue après publication :** Euripide, *Inô* ; Eschyle, *Athamas* ; Euripide, *Iphigénie à Aulis* ; corpus d'Argonautiques ; études sur la prophétie, la parole oraculaire et le sacrifice humain. Aucun lien interne non vérifié n'est imposé manuellement.
+
+**Note éditoriale :** cette étude est un texte public approuvé pour la file concurrente. Son numéro propre doit exclusivement provenir d'un reçu d'attribution GitHub. Aucun numéro n'est réservé par le manuscrit, aucune planification n'est modifiée, aucune publication WordPress n'est revendiquée.
