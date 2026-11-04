@@ -546,6 +546,48 @@
         "url": "/chapitres/encyclopedie/chapitre-393-eukleia-bonne-renommee-artemis-mariage-marathon-aigai-eurydice/",
         "title": "Chapitre 393 — EUKLEIA (Εὔκλεια) — La bonne renommée, la gloire civique et la protection des unions",
         "source": "chapitres/encyclopedie/chapitre-393-eukleia-bonne-renommee-artemis-mariage-marathon-aigai-eurydice.md"
+      },
+      {
+        "number": 394,
+        "url": "/chapitres/encyclopedie/chapitre-394-despoina-lykosoura-demeter-poseidon-mysteres-damophon/",
+        "title": "Chapitre 394 — Chapitre 394 — DESPOINA (Δέσποινα) : la Maîtresse de Lykosoura",
+        "source": "chapitres/encyclopedie/chapitre-394-despoina-lykosoura-demeter-poseidon-mysteres-damophon.md"
+      },
+      {
+        "number": 395,
+        "url": "/chapitres/encyclopedie/chapitre-395-britomartis-dictynna-crete-artemis-filets-minos/",
+        "title": "Chapitre 395 — Chapitre 395 — Britomartis et Dictynna : la déesse crétoise des montagnes et des filets",
+        "source": "chapitres/encyclopedie/chapitre-395-britomartis-dictynna-crete-artemis-filets-minos.md"
+      },
+      {
+        "number": 396,
+        "url": "/chapitres/encyclopedie/chapitre-396-palaimon-melicertes-ino-leucothea-isthmia-jeux/",
+        "title": "Chapitre 396 — Chapitre 396 — Palémon et Mélicerte : l'enfant divin de la mer et les Jeux isthmiques",
+        "source": "chapitres/encyclopedie/chapitre-396-palaimon-melicertes-ino-leucothea-isthmia-jeux.md"
+      },
+      {
+        "number": 397,
+        "url": "/chapitres/encyclopedie/chapitre-397-melinoe-hymne-orphique-persephone-apparitions-nocturnes/",
+        "title": "Chapitre 397 — Chapitre 397 — Mélinoé (Μηλινόη) : apparitions nocturnes et traditions orphiques",
+        "source": "chapitres/encyclopedie/chapitre-397-melinoe-hymne-orphique-persephone-apparitions-nocturnes.md"
+      },
+      {
+        "number": 398,
+        "url": "/chapitres/encyclopedie/chapitre-398-artemis-soteira-megare-trezene-pellene-salut-cites/",
+        "title": "Chapitre 398 — Chapitre 398 — Artémis Sôteira (Ἄρτεμις Σώτειρα)",
+        "source": "chapitres/encyclopedie/chapitre-398-artemis-soteira-megare-trezene-pellene-salut-cites.md"
+      },
+      {
+        "number": 399,
+        "url": "/chapitres/encyclopedie/chapitre-399-iynx-torcol-roue-magie-amoureuse-pindare-theocrite/",
+        "title": "Chapitre 399 — Chapitre 399 — Iynx (Ἴυγξ) : le torcol, la roue magique et la persuasion amoureuse",
+        "source": "chapitres/encyclopedie/chapitre-399-iynx-torcol-roue-magie-amoureuse-pindare-theocrite.md"
+      },
+      {
+        "number": 400,
+        "url": "/chapitres/encyclopedie/chapitre-400-enyo-guerre-destructrice-ares-enyalios-tragedie/",
+        "title": "Chapitre 400 — Chapitre 400 — Ényô (Ἐνυώ) : la guerre destructrice et les limites de l'héroïsme",
+        "source": "chapitres/encyclopedie/chapitre-400-enyo-guerre-destructrice-ares-enyalios-tragedie.md"
       }
     ],
     "tragedies": [
@@ -1280,6 +1322,36 @@
         "url": "/chapitres/tragedies/volume-ccxxi-sophocle-tyro-tondue-corps-humiliation-sidero-poseidon/",
         "title": "Volume CCXXI (221) — Sophocle, Tyro tondue (Tyrō keiromenē) — Corps humilié, violence familiale et autorité divine : enquête sur une tragédie perdue",
         "source": "chapitres/tragedies/volume-ccxxi-sophocle-tyro-tondue-corps-humiliation-sidero-poseidon.md"
+      },
+      {
+        "number": 222,
+        "url": "/chapitres/tragedies/volume-ccxxii-sophocle-teree-procne-philomele-itys-papyrus-voix-tissage-vengeance/",
+        "title": "Volume CCXXII (222) — Sophocle, Térée (Tēreus, Τηρεύς) — La voix confisquée, le langage du tissu et la catastrophe de la vengeance",
+        "source": "chapitres/tragedies/volume-ccxxii-sophocle-teree-procne-philomele-itys-papyrus-voix-tissage-vengeance.md"
+      },
+      {
+        "number": 223,
+        "url": "/chapitres/tragedies/volume-ccxxiii-sophocle-phedre-desir-loi-filiation-thesee-hippolyte/",
+        "title": "Volume CCXXIII (223) — Sophocle, Phèdre — Désir imposé, responsabilité et pouvoir du récit : les enjeux d'une tragédie perdue",
+        "source": "chapitres/tragedies/volume-ccxxiii-sophocle-phedre-desir-loi-filiation-thesee-hippolyte.md"
+      },
+      {
+        "number": 224,
+        "url": "/chapitres/tragedies/volume-ccxxiv-sophocle-tyro-reconnue-anagnorisis-jumeaux-pelias-nelee-skaphe-hera/",
+        "title": "Volume CCXXIV (224) — Sophocle, Tyro reconnue — La corbeille, la preuve de naissance et les ambiguïtés de la justice : étude d'une tragédie perdue",
+        "source": "chapitres/tragedies/volume-ccxxiv-sophocle-tyro-reconnue-anagnorisis-jumeaux-pelias-nelee-skaphe-hera.md"
+      },
+      {
+        "number": 225,
+        "url": "/chapitres/tragedies/volume-ccxxv-sophocle-niobe-papyrus-meurtres-enfants-apollon-artemis-deuil/",
+        "title": "Volume CCXXV (225) — Sophocle, Niobé (Νιόβη) — Le meurtre des enfants, le regard des dieux et la naissance du deuil",
+        "source": "chapitres/tragedies/volume-ccxxv-sophocle-niobe-papyrus-meurtres-enfants-apollon-artemis-deuil.md"
+      },
+      {
+        "number": 226,
+        "url": "/chapitres/tragedies/volume-ccxxvi-sophocle-niptra-lavement-pieds-euryclee-cicatrice-reconnaissance/",
+        "title": "Volume CCXXVI (226) — Sophocle, Niptra (Νίπτρα) — Le lavement des pieds, la cicatrice d'Ulysse et la preuve de l'identité",
+        "source": "chapitres/tragedies/volume-ccxxvi-sophocle-niptra-lavement-pieds-euryclee-cicatrice-reconnaissance.md"
       }
     ],
     "comparatif": [
@@ -2239,6 +2311,66 @@
         "url": "/chapitres/comparatif/volume-ccxi-mc-037-fleuve-juge-ordalies-eau-hammurabi-mari-nombres-manu-styx/",
         "title": "Volume CCXI (211) — Dossier historique MC-037 — Le fleuve comme juge : ordalies d'eau, preuves divines et souveraineté du droit, de la Mésopotamie à Israël, à l'Inde et à la Grèce",
         "source": "chapitres/comparatif/volume-ccxi-mc-037-fleuve-juge-ordalies-eau-hammurabi-mari-nombres-manu-styx.md"
+      },
+      {
+        "number": 212,
+        "url": "/chapitres/comparatif/volume-ccxii-mc-042-mesurer-le-sacre-poids-justes-balances-morts-etalon-justice-cosmique/",
+        "title": "Volume CCXII (212) — MC-042 — Mesurer le sacré : poids justes, balances des morts, étalons royaux et justice cosmique, de Sumer à Babylone, de l’Égypte à Israël, de la Grèce à l’Iran",
+        "source": "chapitres/comparatif/volume-ccxii-mc-042-mesurer-le-sacre-poids-justes-balances-morts-etalon-justice-cosmique.md"
+      },
+      {
+        "number": 213,
+        "url": "/chapitres/comparatif/volume-ccxiii-mc-039-vetir-dieux-textiles-parures-corps-divins-egypte-sumer-grece/",
+        "title": "Volume CCXIII (213) — MC-039 — Vêtir les dieux : textiles consacrés, parures du pouvoir, corps divins et travail rituel en Égypte, à Sumer et en Grèce",
+        "source": "chapitres/comparatif/volume-ccxiii-mc-039-vetir-dieux-textiles-parures-corps-divins-egypte-sumer-grece.md"
+      },
+      {
+        "number": 214,
+        "url": "/chapitres/comparatif/volume-ccxiv-oiseaux-aristophane-iris-ambassade-triballe-droit-passage-414/",
+        "title": "Volume CCXIV (214) — Qui a le droit de traverser le ciel ? Aristophane, Les Oiseaux : frontières, immunité des messagers, négociation diplomatique et confiscation de la parole (414 av. n. è.)",
+        "source": "chapitres/comparatif/volume-ccxiv-oiseaux-aristophane-iris-ambassade-triballe-droit-passage-414.md"
+      },
+      {
+        "number": 215,
+        "url": "/chapitres/comparatif/volume-ccxv-xanthias-esclavage-corps-preuve-liberte-democratie-aristophane/",
+        "title": "Volume CCXV (215) — L'esclave qui juge le dieu : Xanthias, l'épreuve des corps et les frontières de la liberté démocratique chez Aristophane (424–405 av. n. è.)",
+        "source": "chapitres/comparatif/volume-ccxv-xanthias-esclavage-corps-preuve-liberte-democratie-aristophane.md"
+      },
+      {
+        "number": 216,
+        "url": "/chapitres/comparatif/volume-ccxvi-mc-041-reves-souverains-gudea-thoutmosis-hattusili-joseph-daniel-xerxes-pouvoir/",
+        "title": "Volume CCXVI (216) — MC-041 — Le rêve fait-il le roi ? Songes de souveraineté, interprètes, légitimation politique et décision, de Gudea à Thoutmôsis IV, Ḫattušili III, Joseph, Daniel et Xerxès",
+        "source": "chapitres/comparatif/volume-ccxvi-mc-041-reves-souverains-gudea-thoutmosis-hattusili-joseph-daniel-xerxes-pouvoir.md"
+      },
+      {
+        "number": 217,
+        "url": "/chapitres/comparatif/volume-ccxvii-mc-043-lait-dieux-maternite-divine-allaitement-royal-filiation-protection-egypte-sumer-grece-inde/",
+        "title": "Volume CCXVII (217) — MC-043 — Le lait des dieux : maternité divine, allaitement royal, protection de l’enfant et fabrication de la filiation, de l’Égypte à Sumer, à la Grèce, à Israël et à l’Inde",
+        "source": "chapitres/comparatif/volume-ccxvii-mc-043-lait-dieux-maternite-divine-allaitement-royal-filiation-protection-egypte-sumer-grece-inde.md"
+      },
+      {
+        "number": 218,
+        "url": "/chapitres/comparatif/volume-ccxviii-marikas-cavaliers-plagiat-choeurs-classes-rivalite-comique/",
+        "title": "Volume CCXVIII (218) — La démocratie à deux voix : Aristophane, Les Cavaliers, et Eupolis, Marikas — rivalité poétique, plagiat allégué, divisions sociales et autorité du rire",
+        "source": "chapitres/comparatif/volume-ccxviii-marikas-cavaliers-plagiat-choeurs-classes-rivalite-comique.md"
+      },
+      {
+        "number": 219,
+        "url": "/chapitres/comparatif/volume-ccxix-guepes-aristophane-jugement-passion-souverainete-tribunaux-422/",
+        "title": "Volume CCXIX (219) — Juger ou jouir de juger ? Aristophane, Les Guêpes : souveraineté des tribunaux, dépendance civique, preuve et passions démocratiques",
+        "source": "chapitres/comparatif/volume-ccxix-guepes-aristophane-jugement-passion-souverainete-tribunaux-422.md"
+      },
+      {
+        "number": 220,
+        "url": "/chapitres/comparatif/volume-ccxx-nuees-aristophane-foudre-serment-preuve-civique-causalite-423/",
+        "title": "Volume CCXX (220) — Le ciel peut-il témoigner ? Les Nuées d'Aristophane : météorologie, serment, dette et autorité de la preuve dans la démocratie athénienne",
+        "source": "chapitres/comparatif/volume-ccxx-nuees-aristophane-foudre-serment-preuve-civique-causalite-423.md"
+      },
+      {
+        "number": 221,
+        "url": "/chapitres/comparatif/volume-ccxxi-mc-040-nourrir-les-dieux-tables-offrandes-partage-sacrificiel-economie-du-sacre/",
+        "title": "Volume CCXXI (221) — MC-040 — Nourrir les dieux : tables d’offrandes, partage sacrificiel, alimentation rituelle et économie du sacré, de Sumer à l’Égypte, de la Grèce à l’Inde et à Israël",
+        "source": "chapitres/comparatif/volume-ccxxi-mc-040-nourrir-les-dieux-tables-offrandes-partage-sacrificiel-economie-du-sacre.md"
       }
     ],
     "comedies": [
@@ -2715,6 +2847,30 @@
         "url": "/chapitres/comedies/volume-079-apollophanes-kretes-culte-etranger-dialecte-myrte-vin-rire/",
         "title": "Volume LXXIX (79) — Apollophanès, Krêtes (Κρῆτες, « Les Crétois ») — cultes étrangers, langues de la cité, satire du conseil, vin et rire",
         "source": "chapitres/comedies/volume-079-apollophanes-kretes-culte-etranger-dialecte-myrte-vin-rire.md"
+      },
+      {
+        "number": 80,
+        "url": "/chapitres/comedies/volume-080-archippos-onou-skia-onos-ane-ombre-dispute-machine-serment/",
+        "title": "Volume LXXX (80) — Archippos, Onou skia / Onos (Ὄνου σκιά / Ὄνος, « L’Ombre de l’âne / L’Âne ») — dispute vaine, machine théâtrale, travail et serment",
+        "source": "chapitres/comedies/volume-080-archippos-onou-skia-onos-ane-ombre-dispute-machine-serment.md"
+      },
+      {
+        "number": 81,
+        "url": "/chapitres/comedies/volume-081-apollophanes-danae-mythe-oracle-enfermement-parodie-tragedie/",
+        "title": "Volume LXXXI (81) — Apollophanès, Danaé (Δανάη) — oracle, enfermement, pluie d'or et hypothèses de parodie tragique dans une comédie sans fragments",
+        "source": "chapitres/comedies/volume-081-apollophanes-danae-mythe-oracle-enfermement-parodie-tragedie.md"
+      },
+      {
+        "number": 82,
+        "url": "/chapitres/comedies/volume-082-apollophanes-kentauroi-centauromachie-vin-violence-chiron/",
+        "title": "Volume LXXXII (82) — Apollophanès, Kentauroi (Κένταυροι, « Les Centaures ») — violence, vin, banquet, centauromachie et contre-modèle de Chiron",
+        "source": "chapitres/comedies/volume-082-apollophanes-kentauroi-centauromachie-vin-violence-chiron.md"
+      },
+      {
+        "number": 83,
+        "url": "/chapitres/comedies/volume-083-archippos-ichthyes-poissons-assemblee-traite-paix-marches/",
+        "title": "Volume LXXXIII (83) — Archippos, Ichthyes (Ἰχθύες, « Les Poissons ») — guerre et paix entre espèces, cité sous-marine, économie du poisson et souveraineté du rire",
+        "source": "chapitres/comedies/volume-083-archippos-ichthyes-poissons-assemblee-traite-paix-marches.md"
       }
     ],
     "origines-du-sacre": [
@@ -3761,6 +3917,30 @@
         "url": "/chapitres/origines-du-sacre/624-gage-qui-travaille-antichrese-vetement-meule-dette/",
         "title": "Chapitre 624 — Le gage qui travaille : antichrèse, servitude et protection du manteau et de la meule dans les droits anciens",
         "source": "chapitres/origines-du-sacre/624-gage-qui-travaille-antichrese-vetement-meule-dette.md"
+      },
+      {
+        "number": 625,
+        "url": "/chapitres/origines-du-sacre/625-dette-apres-mort-heritiers-caution-patrimoine-inde-babylone-athenes/",
+        "title": "Chapitre 625 — Les dettes survivent-elles au débiteur ? Héritiers, patrimoine et responsabilité entre Babylonie, Athènes et Inde ancienne",
+        "source": "chapitres/origines-du-sacre/625-dette-apres-mort-heritiers-caution-patrimoine-inde-babylone-athenes.md"
+      },
+      {
+        "number": 626,
+        "url": "/chapitres/origines-du-sacre/626-interet-dette-sacree-mas-sibtum-neshek-tarbit-mesopotamie-bible/",
+        "title": "Chapitre 626 — Quand la dette grandit : maš, ṣibtum, nešek et tarbît, entre revenu licite et morsure du pauvre",
+        "source": "chapitres/origines-du-sacre/626-interet-dette-sacree-mas-sibtum-neshek-tarbit-mesopotamie-bible.md"
+      },
+      {
+        "number": 627,
+        "url": "/chapitres/origines-du-sacre/627-offrandes-apres-mort-contrats-djefaihapi-kispu-ancetres/",
+        "title": "Chapitre 627 — Faire vivre le défunt à crédit : les contrats de Djefai-Hapi, le kispum mésopotamien et les charges permanentes du culte ancestral",
+        "source": "chapitres/origines-du-sacre/627-offrandes-apres-mort-contrats-djefaihapi-kispu-ancetres.md"
+      },
+      {
+        "number": 628,
+        "url": "/chapitres/origines-du-sacre/628-tokos-vrddhi-interet-naissance-monnaie-platon-aristote-manu-kautilya/",
+        "title": "Chapitre 628 — L'argent engendre-t-il ? Tókos grec, vṛddhi indien, monnaie et limites morales de l'intérêt",
+        "source": "chapitres/origines-du-sacre/628-tokos-vrddhi-interet-naissance-monnaie-platon-aristote-manu-kautilya.md"
       }
     ]
   },

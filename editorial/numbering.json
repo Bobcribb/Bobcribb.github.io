@@ -315,6 +315,30 @@
           "path": "chapitres/origines-du-sacre/624-gage-qui-travaille-antichrese-vetement-meule-dette.md",
           "request_sha256": "0df05b747765cd9afe71910528d4406ea59ad4d0221d8c6b9791aa67105015c7",
           "initial_source_sha256": "256a2c4892767ff36462f3b66deb519bcfb0a02de29a0adfa2db997aa82c236c"
+        },
+        "52e0a29c-bfe7-484a-83cc-196f8795e721": {
+          "number": 625,
+          "path": "chapitres/origines-du-sacre/625-dette-apres-mort-heritiers-caution-patrimoine-inde-babylone-athenes.md",
+          "request_sha256": "814a84f6dc52e2725ad8da1b10f39a3fb73fba262b418a36a9933c7833f2e1ed",
+          "initial_source_sha256": "697321df6889d06a004e70cd19d4cfafe1e4d449d47d0ae4b3b3fb5c6a2cbc99"
+        },
+        "7b6dd82f-a75e-4625-9e0a-1f4c02b5d613": {
+          "number": 626,
+          "path": "chapitres/origines-du-sacre/626-interet-dette-sacree-mas-sibtum-neshek-tarbit-mesopotamie-bible.md",
+          "request_sha256": "b6f4174ed733ec739d8946f7194404ac368ab2aae7520d7e5b27f4709bc412d8",
+          "initial_source_sha256": "4fd7dccc11d6c6bd3a4779355ff5f3bc61b7b26ad3455375b017931591d601e7"
+        },
+        "7d9b71ca-56d1-4cf2-906a-0a6645f7d3ae": {
+          "number": 627,
+          "path": "chapitres/origines-du-sacre/627-offrandes-apres-mort-contrats-djefaihapi-kispu-ancetres.md",
+          "request_sha256": "a1ba8df8956ea04ef927593714df47a7dbead73cc0bb89ef7ade41587cc4008b",
+          "initial_source_sha256": "cc4904a24041b3e35cdeaea8ff4090ce5147a46b64e9755791d780c50c25c7ce"
+        },
+        "c43a06f0-7df4-4930-b907-345e8eabd228": {
+          "number": 628,
+          "path": "chapitres/origines-du-sacre/628-tokos-vrddhi-interet-naissance-monnaie-platon-aristote-manu-kautilya.md",
+          "request_sha256": "84d2f66e8d81fe5ff5bed43edb28dff40069d8b3beb41a49cfa5178f101fabdd",
+          "initial_source_sha256": "8f94cf9f107b7cb6bfb6ef36f7843ee7aa12b6ecf592da7f5197e2f598ebe672"
         }
       }
     },
@@ -592,6 +616,48 @@
           "path": "chapitres/encyclopedie/chapitre-393-eukleia-bonne-renommee-artemis-mariage-marathon-aigai-eurydice.md",
           "request_sha256": "b27879620c97a4e48e6ed612332425e54d14c470382f3f119799833de5516359",
           "initial_source_sha256": "298d26715b44021945e5ccfec4a421bfefb492c6cad74529012a6df3a1b78c4b"
+        },
+        "0f9f22e6-9a57-4f56-a114-f4fd9e7c2e15": {
+          "number": 394,
+          "path": "chapitres/encyclopedie/chapitre-394-despoina-lykosoura-demeter-poseidon-mysteres-damophon.md",
+          "request_sha256": "d198fcb199c785115b404114b7c10ef39aa8bed4cb05bd46dd3e3cf81e2bd08c",
+          "initial_source_sha256": "c60d822d1bf448044f933fb2c53e27ba0bc360da004edc579830c24d679a32a3"
+        },
+        "2e8a7b1c-55a9-4d28-9c63-4f8f00ac8d61": {
+          "number": 395,
+          "path": "chapitres/encyclopedie/chapitre-395-britomartis-dictynna-crete-artemis-filets-minos.md",
+          "request_sha256": "94b82e4a36e6b32d3af66ceba8844ccb0b47b8898e81029223eeb18cd85ef0e2",
+          "initial_source_sha256": "5da5fef1ac3ddec4b1c7617263565f1191fd7491942c1999aa2243d6d5cda90e"
+        },
+        "9f0d7e2a-5c61-49e8-a346-ccbe41a8d237": {
+          "number": 396,
+          "path": "chapitres/encyclopedie/chapitre-396-palaimon-melicertes-ino-leucothea-isthmia-jeux.md",
+          "request_sha256": "b5b9370b188b9a5af83c59d749387a26b21a4dd3d9d89a6fdeae0b4c3a527aaf",
+          "initial_source_sha256": "9ac17c836ce6c25a6f8a9b8cb2e35507af682740519fc5ab0a176321dbbac51e"
+        },
+        "af0e55c9-fc3b-46b5-9ea4-d8cf7091bc20": {
+          "number": 397,
+          "path": "chapitres/encyclopedie/chapitre-397-melinoe-hymne-orphique-persephone-apparitions-nocturnes.md",
+          "request_sha256": "8cf18e2cbeafb6b8a7548a1d5c67b3186f37300d0ef890c647b99fd5b2f17a77",
+          "initial_source_sha256": "2630af3ff66b2dd7e3690bb406a29018259716185ec85f6c39af57a9c0a9d9fa"
+        },
+        "b7f4e36d-81aa-4fd8-8df2-cac31be6930b": {
+          "number": 398,
+          "path": "chapitres/encyclopedie/chapitre-398-artemis-soteira-megare-trezene-pellene-salut-cites.md",
+          "request_sha256": "47a21b52b6aa24a4a3d6ca2d192dab9b737253f7193ddb7e2a0c4b7da2185de9",
+          "initial_source_sha256": "ae513514796e2e2d74234b1f1ca2e03efcb3dd2a1c6b28817997e37f5b448d00"
+        },
+        "c41db4fa-0f27-4e83-9f54-0d3c67e9a214": {
+          "number": 399,
+          "path": "chapitres/encyclopedie/chapitre-399-iynx-torcol-roue-magie-amoureuse-pindare-theocrite.md",
+          "request_sha256": "41eddfbd9ffc94c1f3d188d0c4329815b89bb14556b6e35796bd94bff708934f",
+          "initial_source_sha256": "c315b90f73984fad30b6d4ebcdba48163ddd2b1b858dc997d065c93bf51ccd1c"
+        },
+        "d3f6a6c1-4f32-4f88-8e52-6db2a84f52c0": {
+          "number": 400,
+          "path": "chapitres/encyclopedie/chapitre-400-enyo-guerre-destructrice-ares-enyalios-tragedie.md",
+          "request_sha256": "0c0538d6815ca42a7a074e0b2210e43174d61fac3606bc2a58cebb83bb938ec1",
+          "initial_source_sha256": "190610fea8ebdf0aa77059600d57806f799d9e33ab4dae1ed5436e947c16903b"
         }
       }
     },
@@ -778,6 +844,30 @@
           "path": "chapitres/comedies/volume-079-apollophanes-kretes-culte-etranger-dialecte-myrte-vin-rire.md",
           "request_sha256": "6be5a4839708782b9e66fee609cbb56eb81954ad3931a5b4625389503251385f",
           "initial_source_sha256": "ec659c941339cfe20e03f1930351da12617826a8aea61b4c130e70737e23839e"
+        },
+        "3c8e1a72-5b49-4d6f-a230-7e9c2b1d5f84": {
+          "number": 80,
+          "path": "chapitres/comedies/volume-080-archippos-onou-skia-onos-ane-ombre-dispute-machine-serment.md",
+          "request_sha256": "eb13c573a87f9258e419b07ce6cad8fdb2f78c76c8938612bc8aadf3e87c6021",
+          "initial_source_sha256": "90906f173121d9d429f7c7d2cf62a7f3a2f7b3e0eca347381f266dfe4f1f58a2"
+        },
+        "4dd2a93f-8407-4ad6-9ee7-ff50448ae932": {
+          "number": 81,
+          "path": "chapitres/comedies/volume-081-apollophanes-danae-mythe-oracle-enfermement-parodie-tragedie.md",
+          "request_sha256": "62660d05edac67510900fbb212f2b4dabc46306985bdcb4b9687f9eabc632d42",
+          "initial_source_sha256": "edc6de76a0c87fb2a06de37529ddf12c1b70f15a43a5d06b05a3989f0f30b00c"
+        },
+        "5a7c9e31-2d84-4f6b-a190-3e5d7b8c2f46": {
+          "number": 82,
+          "path": "chapitres/comedies/volume-082-apollophanes-kentauroi-centauromachie-vin-violence-chiron.md",
+          "request_sha256": "3b3be042ad0a0c453a429e1692adcae92cc5a707c8a61f043b310a4e1e6e162b",
+          "initial_source_sha256": "0016f54916876b6469e0603506ff29c5201050fd7e063c3945d6c5eea4f58a5d"
+        },
+        "a72bd940-5db9-4b7f-a24b-bbc6f24d69f0": {
+          "number": 83,
+          "path": "chapitres/comedies/volume-083-archippos-ichthyes-poissons-assemblee-traite-paix-marches.md",
+          "request_sha256": "d1e5d67f204d12899a2e52d402915e7f6ec544078cfd878bd3a1736356c18374",
+          "initial_source_sha256": "13ce41990290e039558c1ce79f9e0878dfec4e7ccf1ba12d39533a4936a4d9fe"
         }
       }
     },
@@ -1006,6 +1096,36 @@
           "path": "chapitres/tragedies/volume-ccxxi-sophocle-tyro-tondue-corps-humiliation-sidero-poseidon.md",
           "request_sha256": "f5d927952fb09640080e260e7b6a167050daaa703c1051cd3848c87221e26176",
           "initial_source_sha256": "652fda920248bb763e1f75b5fb903be3a9b42da218703f7be2e65b6ad7e2381e"
+        },
+        "4716f59b-2aa4-4267-bbc1-4be085f6da22": {
+          "number": 222,
+          "path": "chapitres/tragedies/volume-ccxxii-sophocle-teree-procne-philomele-itys-papyrus-voix-tissage-vengeance.md",
+          "request_sha256": "ed9a783bad9d91ab24eb4b8267d10c96d3202376dc1b98b057b2629812dad77b",
+          "initial_source_sha256": "e809be33c35ca8242b5ace25649603de20ee132e23ab64b8793afa47a3c99595"
+        },
+        "85d70f4e-9c2a-4857-a1bf-741e266f68a9": {
+          "number": 223,
+          "path": "chapitres/tragedies/volume-ccxxiii-sophocle-phedre-desir-loi-filiation-thesee-hippolyte.md",
+          "request_sha256": "1d4b418841c9e3d03d449f54874d1568d256efd672efd888ecff2b41c6c12c6d",
+          "initial_source_sha256": "241726566ad9cfa50246f77033bc686b0f49775044492a58e176268d686f1eef"
+        },
+        "9d9c39cb-0df4-41e9-9095-0fbad49b1981": {
+          "number": 224,
+          "path": "chapitres/tragedies/volume-ccxxiv-sophocle-tyro-reconnue-anagnorisis-jumeaux-pelias-nelee-skaphe-hera.md",
+          "request_sha256": "8869022ecba0501c556a7d8428254158adc6ece8e1da03f6a362fc60227d598a",
+          "initial_source_sha256": "3628f455b7f5783dfe1d0e0fc2b46f23362a15c9063f5530e7d93dd86f8d8a43"
+        },
+        "a21d9b37-783c-4f82-a85e-04c6b5f7d213": {
+          "number": 225,
+          "path": "chapitres/tragedies/volume-ccxxv-sophocle-niobe-papyrus-meurtres-enfants-apollon-artemis-deuil.md",
+          "request_sha256": "a533f1344883bab8d08c7badee8686882143ade7a0a493af807b99f6bfdc846b",
+          "initial_source_sha256": "d4c9133936eb6136a593d442ae9834f8a1694a2ddfb5d8a39d23bb358bdf8ce9"
+        },
+        "be65e9c2-ae2d-4e53-9931-f4c4800caa92": {
+          "number": 226,
+          "path": "chapitres/tragedies/volume-ccxxvi-sophocle-niptra-lavement-pieds-euryclee-cicatrice-reconnaissance.md",
+          "request_sha256": "2712fe3678c2a78f0d52b6d292245ee9d651c37960243b78fdc7c6ce7ec803d6",
+          "initial_source_sha256": "f74bf28796dfd1afddac7771a8ab10621d737f1fd0b459ab262ff84f0580808e"
         }
       }
     },
@@ -1429,6 +1549,66 @@
           "path": "chapitres/comparatif/volume-ccxi-mc-037-fleuve-juge-ordalies-eau-hammurabi-mari-nombres-manu-styx.md",
           "request_sha256": "192343ddf41a400efa0ae4293bf17069942e7d0e1194f1d93a02bb4c79852480",
           "initial_source_sha256": "e074a3620f52b36984d32e6042ba62a5f1e6e98544c4c174b14f315343b00b5c"
+        },
+        "10b51d0c-5fc3-4acf-92b4-5b67b6b04242": {
+          "number": 212,
+          "path": "chapitres/comparatif/volume-ccxii-mc-042-mesurer-le-sacre-poids-justes-balances-morts-etalon-justice-cosmique.md",
+          "request_sha256": "df158280c9d3ef7da143523891c20726439ff41473fb67e56d0da0deb030b3ec",
+          "initial_source_sha256": "6718c8dbe845a467a683fc9095c2f5e56a1cfad74a50048643835b578a351f7b"
+        },
+        "5a8d0fe6-c2f5-42a6-97cf-3a00e34b1d6e": {
+          "number": 213,
+          "path": "chapitres/comparatif/volume-ccxiii-mc-039-vetir-dieux-textiles-parures-corps-divins-egypte-sumer-grece.md",
+          "request_sha256": "902fa0d984b6b760b05438bfb808ae18a8b126305e5ee581481822af60fa94ac",
+          "initial_source_sha256": "47970d9c8a4b62e8d1a7b92f2c577f338985fc5fa0642b7a3ed32a35c67c82d6"
+        },
+        "72c9f16b-31e4-4c97-8d2b-6f40ae87c553": {
+          "number": 214,
+          "path": "chapitres/comparatif/volume-ccxiv-oiseaux-aristophane-iris-ambassade-triballe-droit-passage-414.md",
+          "request_sha256": "16b2d5b53ceef172c57364c26963bab598c9aafb93b42af0658ecaa2d266e743",
+          "initial_source_sha256": "b19857aa4cfed8bb1a834e35fd8d8427f53beff6bd8b8e1e298f339515d215bf"
+        },
+        "762fb3d8-9eca-4672-a83d-1c941e6b50de": {
+          "number": 215,
+          "path": "chapitres/comparatif/volume-ccxv-xanthias-esclavage-corps-preuve-liberte-democratie-aristophane.md",
+          "request_sha256": "7e9375478fa7eb076c8648f9a10ad70dff5f97c068f15ff71a8d4f2ee927de07",
+          "initial_source_sha256": "1b185eb02e9ad2c83383646ffcd4141e8ab56e753905a934e648928454d2bff9"
+        },
+        "85ed9610-42a9-4b7b-90e0-2aeb8a619d04": {
+          "number": 216,
+          "path": "chapitres/comparatif/volume-ccxvi-mc-041-reves-souverains-gudea-thoutmosis-hattusili-joseph-daniel-xerxes-pouvoir.md",
+          "request_sha256": "35fbad6ea7ae497995708c70346a54395ed40cb5692d305db4938e8c954c195f",
+          "initial_source_sha256": "6780f05276673e6f0c48d71477f86dc7964e6df9b92baee5fb96db1efe3938e7"
+        },
+        "8e36dc73-ec67-4a9d-b9c1-934f52a406e3": {
+          "number": 217,
+          "path": "chapitres/comparatif/volume-ccxvii-mc-043-lait-dieux-maternite-divine-allaitement-royal-filiation-protection-egypte-sumer-grece-inde.md",
+          "request_sha256": "57c0fd64bf00981b13f58ef695b361783e9fb2ac38fb13e02923aa4f004c1ecc",
+          "initial_source_sha256": "8ac29765d0407294118c9367e66cd05b4d9d19d82942af966bc43ec809866a59"
+        },
+        "b9d2c073-4df1-4d3a-a0c5-5f786ed31b42": {
+          "number": 218,
+          "path": "chapitres/comparatif/volume-ccxviii-marikas-cavaliers-plagiat-choeurs-classes-rivalite-comique.md",
+          "request_sha256": "e3162d4bd82e078b1b0a70c6c009b9a44b7b076ccf669e316f3fa0b61b63a0d9",
+          "initial_source_sha256": "35bf5d882168b0410f9f146c8ed2df91bae4cde6c8934b599e6983b3211088f6"
+        },
+        "c87e92af-73d2-4d4f-b6ef-1b3e7a24d9e2": {
+          "number": 219,
+          "path": "chapitres/comparatif/volume-ccxix-guepes-aristophane-jugement-passion-souverainete-tribunaux-422.md",
+          "request_sha256": "f914bf38ce0bcc8a954feb3a3ce3896ff50dbe4b1fb740863257d05c3e1a6307",
+          "initial_source_sha256": "2d9dd5320a0498470eba88496f66872dde08137ec69d4f1d9b33e9fc30f45383"
+        },
+        "d0ac7f82-f17b-4ee1-88f3-d76391afb520": {
+          "number": 220,
+          "path": "chapitres/comparatif/volume-ccxx-nuees-aristophane-foudre-serment-preuve-civique-causalite-423.md",
+          "request_sha256": "9e8d391017abae5f1ee920ba932d531fcac3fff55c6a310d899ca65247a951ad",
+          "initial_source_sha256": "0df6ee51a0b7c39259cf19cd5113eecf4783facc54df6ee0be52c818f7ce7426"
+        },
+        "d3b2ac71-0b94-4ca7-8d0c-5228719cb30e": {
+          "number": 221,
+          "path": "chapitres/comparatif/volume-ccxxi-mc-040-nourrir-les-dieux-tables-offrandes-partage-sacrificiel-economie-du-sacre.md",
+          "request_sha256": "e7af3ddc0aeeff51fad6ccf5788bfeba8d4ec3e6d0babbcaae25fd39a061b072",
+          "initial_source_sha256": "93763c57c48d9ddd2a6f0ea5f99295b523ef2eb05d77970d04c6c2c9b4371079"
         }
       }
     }

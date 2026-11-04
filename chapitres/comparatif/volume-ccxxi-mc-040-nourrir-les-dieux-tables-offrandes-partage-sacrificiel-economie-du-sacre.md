@@ -1,0 +1,547 @@
+# MYTHOS — Cycle universitaire de MYTHOLOGIE COMPARÉE — Volume CCXXI (221)
+
+## MC-040 — Nourrir les dieux : tables d’offrandes, partage sacrificiel, alimentation rituelle et économie du sacré, de Sumer à l’Égypte, de la Grèce à l’Inde et à Israël
+
+**Monographie universitaire originale en français — 4 novembre 2026.**  
+**Collection :** MYTHOS — Mythologie comparée. **Identifiant historique : MC-040.**  
+**Statut documentaire :** étude intégrale soumise au circuit éditorial GitHub. Son dépôt dans `editorial/inbox/` n’établit pas, à lui seul, l’attribution d’un numéro romain, la production d’une page HTML, le succès du déploiement ou l’accessibilité sur bobmythos.fr. Les champs CCXXI et 221 doivent exclusivement être remplacés par le mécanisme transactionnel de publication.  
+
+**Contrôle de continuité au moment de la préparation :** MC-024 « Amon, Rê et Aton » existe dans le dépôt sous le volume CLXXXI (181) ; MC-037 « Le fleuve comme juge » sous CCXI (211) ; MC-038 « Les messagers du sacré » sous CCVII (207) ; MC-039 « Vêtir les dieux » existe comme demande intégrale dans la file `editorial/inbox/5a8d0fe6-c2f5-42a6-97cf-3a00e34b1d6e.json`, sans allocation canonique observée lors du contrôle initial. La recherche du repère MC-040 dans le code et les commits n'a rendu aucun résultat avant le présent dépôt. **La série MC n'est pas la numérotation romaine canonique ; celle-ci peut être intercalée avec d'autres travaux comparatifs.** Aucune autre série MYTHOS n'est réécrite ni renumérotée.
+
+### Résumé
+
+Les sociétés antiques ont nourri des dieux par des aliments disposés devant leurs statues, par la fumée de portions brûlées, par des libations, par des paroles d'offrande et par des repas collectifs dont la distribution matérialisait la hiérarchie humaine. Mais que signifie « nourrir » lorsqu'un dieu n'est pas un organisme soumis aux besoins humains ? Les textes donnent des réponses **divergentes** : le dieu mésopotamien reçoit une table organisée comme un service palatial ; dans la poésie du Déluge, des dieux se précipitent vers l'odeur du sacrifice ; un rituel thébain habille, encense et présente des dons à une image cultuelle ; la tradition grecque distribue entre immortels et mortels des parts dont la valeur symbolique ne se confond pas avec leur valeur alimentaire ; l'Agni védique transmet l'oblation tout en étant lui-même divin ; des textes bibliques emploient l'image de l'aliment offert à YHWH tout en contestant explicitement l'idée d'un besoin nutritif de Dieu ; la Bhagavad-Gītā fait de la dévotion l'élément décisif du don.
+
+**Thèse [I] :** l'offrande alimentaire n'est pas une simple subsistance prêtée aux divinités. Elle constitue, dans des configurations différentes, une technologie de présence, une procédure de mise en relation, une économie de distribution et une théorie pratique des écarts entre mortels et immortels. Elle peut protéger un ordre cosmique sans jamais réduire la religion à l'approvisionnement matériel du ciel. **Limite [H] :** aucune origine unique, aucun modèle évolutif linéaire, aucune transmission générale de l'ensemble des rites n'est démontrée par ces rapprochements.
+
+### Convention de preuve et méthode
+
+- **[A] Attestation primaire :** mot, passage, inscription, objet ou disposition matérielle directement identifié ; les traductions sont attribuées et la transmission du témoin compte.
+- **[É] Critique d'édition :** précision philologique, datation, traduction, lacune, genre documentaire ou incertitude matérielle.
+- **[I] Inférence historique :** interprétation soutenue par plusieurs éléments mais qui ne figure pas littéralement dans le témoin.
+- **[H] Hypothèse comparative :** relation possible, non démontrée ou contestée, notamment entre régions éloignées.
+- **[P] Proposition philosophique :** construction conceptuelle actuelle ; elle ne doit pas être imputée aux auteurs anciens comme une théorie formulée par eux.
+
+Une règle commande tout le dossier : distinguer **ce qui est offert**, **ce qui est brûlé ou exposé**, **ce que des humains consomment**, **ce que la parole dit recevoir au dieu**, **ce que les textes racontent de la consommation divine** et **la circulation institutionnelle des denrées**. Les documents mythiques, normatifs, prescriptifs, figurés et comptables ne prouvent pas la même chose. Une peinture d'autel atteste une représentation iconographique ; un règlement atteste une norme ; un texte héroïque atteste une mise en récit ; aucun de ces témoins ne prouve, seul, la fréquence réelle d'une pratique dans toutes les communautés.
+
+## I. Question comparative : manger, sentir, recevoir, redistribuer
+
+### 1. « Nourrir » n'est pas toujours un verbe biologique [I]
+
+Dans le langage de l'offrande, l'aliment peut circuler sous plusieurs statuts : apport réellement consommable, matière qui se transforme, objet consacré, substitut figuré, bien comptabilisé, marque d'honneur, médiateur de relation. Si nous ramenons tout cela à l'idée d'un dieu ayant faim, nous effaçons les différences établies par les sources elles-mêmes. Inversement, refuser toute dimension alimentaire parce que des dieux sont immortels ferait disparaître les énoncés antiques qui leur attribuent explicitement des repas, des boissons ou des plaisirs olfactifs.
+
+La comparaison se fait ici selon cinq questions contrôlables : qui produit la nourriture ? Qui a autorité pour la présenter ? Comment le destinataire divin est-il représenté ou rendu accessible ? Qu'advient-il matériellement des denrées ? Quelles frontières sociales se trouvent établies, maintenues ou contestées ? Cette grille est analytique : elle n'implique pas que les acteurs de Lagash, de Thèbes, d'Athènes et du monde védique aient partagé une théologie.
+
+### 2. Trois scènes qu'il ne faut pas confondre [É]
+
+La **table de la divinité vivante**, la **table funéraire d'un défunt** et le **banquet de citoyens** peuvent employer pain, bière, vin, viande et paroles de consécration. Elles ne sont pas interchangeables. Dans l'Égypte pharaonique, la proximité entre service des dieux et culte funéraire n'autorise pas à faire des ancêtres des divinités identiques à Amon ; dans le monde grec, un banquet de sacrifiants ne décrit pas nécessairement ce que « mange » Zeus. L'historien doit reconstituer l'institution à partir de son destinataire, de son calendrier et des dispositifs concrets qui la rendent possible.
+
+## II. Sumer : une table cultuelle travaillée, construite et administrée
+
+### 3. Gudea et l'É-ninnu : l'alimentation suit la construction du temple [A]
+
+Les **cylindres A et B de Gudea**, souverain de Lagash (fin du IIIe millénaire avant notre ère), forment un vaste récit monumental de la construction et de la consécration de l'É-ninnu du dieu Ninĝirsu. Le corpus électronique d'Oxford en donne la translittération et la traduction sous le numéro **ETCSL 2.1.7**. Dans le passage numéroté **871–882 dans le système de lignes du corpus**, le texte énumère sirop, matière grasse, vin, lait aigri, fruits, gâteaux de figues et dattes dans la préparation d'aliments pour les dieux. La mention d'aliments « non touchés par le feu » interdit de réduire les offrandes à une combustion sacrificielle.
+
+**Source primaire :** [ETCSL, The building of Ninĝirsu's temple, c.2.1.7, passage 871–882](https://etcsl.orinst.ox.ac.uk/edition2/etcslgloss.php?charenc=gcirc&lookup=c217.871). L'édition numérique permet d'inspecter le détail lexical et les zones où la traduction signale des lacunes.
+
+### 4. Le service divin suppose des métiers [A/I]
+
+Dans d'autres passages du même dossier, les agents du sanctuaire préparent pain et bière, entretiennent des animaux, apportent lait et boissons et veillent à la disponibilité du service. Gudea présente Šul-šaga, responsable de gestes de purification et de l'approvisionnement en eau, bière, vin, bétail et pain. La nourriture n'arrive pas par miracle sur la table de Ninĝirsu : des personnes, des bâtiments, une brasserie, des troupeaux et des procédures l'acheminent. Le dieu reçoit une hospitalité organisée par la communauté politique et cultuelle.
+
+L'inférence [I] est double. D'une part, nourrir le dieu suppose une **division sociale du travail** ; d'autre part, la présentation du souverain comme pourvoyeur de l'abondance établit une légitimité politique. Le monument célèbre le roi : il n'est donc pas un journal neutre des conditions de travail. La représentation idéale du service ne nous autorise pas à supposer que les quantités annoncées furent toujours disponibles ni qu'elles profitaient également à toute la population.
+
+### 5. Brève note lexicale : ninda, kaš, siskur [É]
+
+Le sumérien **ninda** désigne le pain et se rencontre dans de nombreux contextes alimentaires ; **kaš** renvoie à la bière ; les termes d'offrande et les listes de biens demandent cependant une analyse contextuelle. Une graphie sumérienne ne se laisse pas convertir automatiquement en un seul concept français : « sacrifice », « repas », « ration », « offrande » et « don » recoupent partiellement des usages distincts. La translittération des signes et la segmentation dans ETCSL ont la priorité sur une reconstruction française séduisante mais non sourcée.
+
+Le nombre de produits et les combinaisons alimentaires diffèrent selon le genre de texte, la période et le sanctuaire. La comparaison ne transforme pas les divers établissements de Mésopotamie en un système inchangé pendant deux millénaires.
+
+### 6. Le « banquet » d'Ur-Nanshe, un document matériel antérieur [A]
+
+Au Louvre, le **relief d'Ur-Nanshe, AO 2344**, provenant de Tello/Lagash, présente dans un registre la construction d'un temple et dans l'autre un **banquet cultuel** avec le souverain assis et tenant un gobelet. La notice le date du Dynastique archaïque IIIB. C'est une scène de repas humain associé à une fondation religieuse ; ce n'est pas l'image photographique d'un dieu avalant une ration. L'objet associe matériellement construction, royauté, famille dynastique, inscription et banquet.
+
+**Source matérielle :** [Musée du Louvre, Relief d'Ur-Nanshe, AO 2344](https://collections.louvre.fr/ark:/53355/cl010121762). L'étude iconographique doit comparer les deux registres et le texte cunéiforme avant de proposer une interprétation de la circulation des parts.
+
+## III. Babylone : le Déluge, la faim des dieux et la violence du mythe
+
+### 7. La tablette XI de Gilgameš : une scène précisément localisée [A]
+
+Dans l'**Épopée de Gilgameš**, tablette **XI, vers 155–169** selon la numérotation de la traduction d'Alexander Heidel, Uta-napišti offre un sacrifice après le Déluge, verse une libation, prépare des matières odorantes et attire les dieux. Aux lignes **159–161**, ceux-ci sentent le parfum et se rassemblent autour du sacrifiant « comme des mouches ». Le contraste entre le caractère sublime des immortels et cette comparaison animale produit un effet qui mérite de demeurer intact : le récit ne propose pas simplement une dogmatique sacerdotale de la nourriture divine ; il dramatise le désarroi de puissances qui ont presque anéanti les humains capables de leur rendre hommage.
+
+**Texte contrôlable :** Alexander Heidel, *The Gilgamesh Epic and Old Testament Parallels*, traduction de la tablette XI, p. 89 env. dans l'édition imprimée, [Institute for the Study of Ancient Cultures, University of Chicago, édition accessible](https://isac.uchicago.edu/publications/gilgamesh-epic-and-old-testament-parallels). Pour une édition critique plus récente, consulter Andrew R. George, *The Babylonian Gilgamesh Epic*, Oxford, 2003. Les divisions en vers de différentes traductions peuvent différer.
+
+### 8. Des « dieux affamés » : le texte et l'hypothèse [A/I]
+
+Le passage atteste l'attraction exercée par l'odeur et le rassemblement pressé des dieux. L'interprétation courante selon laquelle la destruction des humains a privé les dieux d'entretien cultuel possède un appui dans le cycle du Déluge mésopotamien, mais la scène poétique ne remplace pas les archives des temples. La participation d'Ištar/Bēlet-ilī et l'interdiction formulée contre Enlil font de l'offrande un acte **moralement et politiquement discriminant** : tous les dieux ne sont pas traités comme des convives indistincts. Le repas marque un jugement sur la responsabilité dans la catastrophe.
+
+Il serait inexact de traiter la comparaison des mouches comme la preuve que les Babyloniens « croyaient littéralement » tous, à toutes les époques, que les dieux digéraient la fumée. C'est une figure dans un récit transmis et remanié ; son imaginaire peut néanmoins exploiter des attentes religieuses compréhensibles pour ses auditeurs.
+
+### 9. Le parallèle avec Noé : analogie littéraire, non identité théologique [A/H]
+
+**Genèse 8,20–22** fait suivre la sortie de Noé de la construction d'un autel, d'holocaustes et d'un « parfum apaisant ». L'association d'un survivant du Déluge, d'une offrande et d'une réaction divine se retrouve donc dans deux traditions. Ce dossier relève d'une comparaison philologique et historico-littéraire légitime. Mais le récit hébraïque met en scène un dieu unique, une décision concernant la répétition de la catastrophe et un rapport différent entre création, justice et promesse. Il ne suffit pas de rapprocher des formules odorantes pour démontrer à lui seul les voies précises d'emprunt, de réécriture ou de datation.
+
+**Question de recherche [H] :** examiner les formes successives d'Atraḫasīs et du récit babylonien de Gilgameš en regard des couches littéraires de Genèse 6–9, sans présumer qu'une copie directe de la version conservée de Gilgameš explique chaque mot de la Genèse.
+
+## IV. Mésopotamie : du récit mythique à l'institution
+
+### 10. Les repas quotidiens ne se réduisent pas au banquet du Déluge [I]
+
+Les dieux des temples mésopotamiens sont représentés par des images entretenues ; les communautés livrent denrées, boissons, vêtements et matières odorantes. Mais un inventaire de rations ne documente pas la même opération qu'une prière de consécration. Pour établir l'organisation économique d'un sanctuaire particulier, il faut identifier l'archive, sa chronologie, ses unités de mesure, les responsabilités des administrateurs et les bénéficiaires humains des rations.
+
+Le terme akkadien **naptanu** peut désigner un repas ; celui de **sattukku** est associé à des offrandes ou livraisons régulières dans les contextes pertinents. Aucun de ces mots ne doit être projeté indistinctement sur toutes les époques ou tous les dialectes. La présentation divine peut refléter la forme d'une cour royale, mais le passage du registre cérémoniel à une thèse globale sur « l'économie de la Mésopotamie » demande des séries documentaires quantitatives.
+
+### 11. Redistribution et prestige royal : ce que l'on peut soutenir [I]
+
+Une table divine coûte du travail. Il faut produire, préserver, transformer, transporter et présenter les biens. Le temple mobilise donc un réseau de relations sociales ; certaines portions alimentaires peuvent devenir des prestations attribuées à des catégories de personnel. Le récit de Gudea articule le soin apporté à la résidence du dieu et la capacité d'organisation du prince. Cependant, **la destination humaine de chaque surplus** ne peut pas être inventée à partir d'une image ; elle se vérifie grâce aux textes administratifs propres à chaque établissement.
+
+La formule « nourrir les dieux pour nourrir les hommes » est séduisante mais téléologique si elle sert à effacer les conflits, réquisitions, hiérarchies ou transformations historiques. Elle sera retenue ici seulement comme hypothèse de circulation instituée, non comme loi universelle.
+
+## V. Égypte : les offrandes, la statue et le maintien du monde
+
+### 12. Le papyrus Berlin 3055 : un témoin de rituel et non une photographie [A/É]
+
+Le programme **Digital Egypt for Universities** (University College London) présente le **papyrus Berlin 3055** comme un des principaux témoins du service quotidien d'Amon-Rê à Karnak. Le dossier décrit **66 séquences** : préparation, encensement, ouverture du naos, adoration, offrande de Maât (séquence 42), habillement de la représentation, onctions et clôture. La table alimentaire est essentielle au service cultuel, mais les formules conservées ne détaillent pas exhaustivement son déroulement. Cette réserve documentaire est capitale.
+
+**Source institutionnelle :** [UCL, Daily Offering Ritual, avec table détaillée du papyrus Berlin 3055](https://www.ucl.ac.uk/museums-static/digitalegypt/religion/dailycult.html). Les inscriptions du temple de Séthi Ier à Abydos fournissent un autre grand corpus ; il ne faut pas fusionner sans précaution les deux témoins, qui sont de nature différente.
+
+### 13. L'image n'est pas « le dieu » au sens d'un simple objet [A/I]
+
+Le culte s'adresse à la force divine à travers un support accessible après consécration ; il ne réduit pas, par définition, l'être divin à sa substance minérale ou ligneuse. La statue possède une fonction de **médiation rituelle**, conditionnant l'accès, la présentation, les gestes de proximité et les interdits sacerdotaux. Le fait qu'une offrande soit déposée devant un support matériel ne justifie pas la caricature selon laquelle les Égyptiens auraient été incapables de distinguer le support visible et la divinité.
+
+L'inférence [I] est que la nourriture contribue à réactiver une relation de soin quotidien. Dire que le dieu serait biologiquement affamé tous les matins est une extrapolation qui ne se déduit pas du déroulement de Berlin 3055.
+
+### 14. Maât, gouvernement et service du dieu [A/I]
+
+La **présentation de Maât**, explicitement localisée à la séquence 42 du rituel thébain, donne un cadre décisif aux offrandes matérielles. Le don n'est pas uniquement la remise de produits ; il peut représenter l'actualisation de ce qui est juste et ordonné. Les représentations royales de présentation de Maât précisent cette logique de restauration rituelle du monde. Le renouvellement des gestes cultuels et l'idéologie de la souveraineté sont ainsi étroitement associés, sans que la totalité du phénomène se laisse expliquer par la seule propagande du palais.
+
+Ce dossier prolonge sans reproduire **MC-024 « Amon, Rê et Aton »**, qui traite de l'unité divine, de la royauté et du moment amarnien, et les études distinctes réunies sous **MC-025 « Maât et Isfet »**, consacrées à l'ordre et à la justice. Ici, l'objet nouveau est **la nourriture comme catégorie d'offrande**, son régime documentaire et ses conséquences comparatives.
+
+### 15. Table divine et table funéraire : rapprochement sous contrôle [A]
+
+La documentation muséale montre que les représentations de pains, de vases et d'autres denrées pouvaient fonctionner comme supports durables de nutrition symbolique du défunt. Le **Metropolitan Museum of Art** conserve une table d'offrandes de **Lisht North, inv. 15.3.1150**, datée vers **1900–1850 av. n. è.**, dont le décor associe produits alimentaires, formes de vases, rigole et dispositif d'écoulement : le musée explique son emploi dans une chapelle funéraire. Elle ne prouve donc pas, isolément, la procédure d'un temple d'Amon.
+
+Un autre témoin, la **table de Séthi Ier dédiée à Seth, inv. 22.2.22**, était en revanche située dans une logique cultuelle de temple et présente pains, vases et scènes de libation ; la notice signale l'effacement ultérieur de références au dieu Seth. Les deux objets permettent une comparaison fine du **destinataire** et des transformations de mémoire rituelle.
+
+**Sources :** [Met, table de Lisht 15.3.1150](https://www.metmuseum.org/art/collection/search/569118) ; [Met, table de Séthi Ier 22.2.22](https://www.metmuseum.org/art/collection/search/549218).
+
+### 16. Philologie égyptienne : ḥtp et kꜣ [É]
+
+La formule conventionnellement translittérée **ḥtp-dỉ-nsw**, fréquemment traduite par « offrande que donne le roi », se déploie dans des inscriptions funéraires avec énumération des biens destinés au défunt. **ḥtp** appartient à un champ sémantique incluant offrande et apaisement ; **kꜣ**, notion complexe liée à la vitalité et à la continuité de la personne, ne se traduit pas mécaniquement par « âme » au sens d'une psychologie moderne. Il faut lire les formules dans leur syntaxe et leur monument. Le nombre « mille pains, mille bières » peut fonctionner comme idéal d'abondance inscrite, non comme quittance attestant le transfert physique de ces quantités.
+
+La liste matérielle et la formule performative constituent deux régimes distincts de présence du don : dans le premier, un geste dépose ; dans le second, une parole et une représentation prolongent l'accès à ce qui est donné. La possibilité même d'une nutrition textuelle fait de l'Égypte un terrain central pour philosopher la relation entre signe et chose.
+
+## VI. Grèce : Prométhée et la division du repas sacrificiel
+
+### 17. Hésiode, Théogonie 535–557 : la part du dieu [A]
+
+Dans la **Théogonie**, **vers 535–557**, Prométhée partage un bœuf à **Mékônè** en deux parts trompeusement présentées. L'une masque la chair sous une enveloppe peu avantageuse ; l'autre fait briller de la graisse sur des os. Zeus choisit la seconde tout en n'étant pas naïvement ignorant de la ruse selon la narration hésiodique. Dès lors, les humains brûlent des os pour les immortels sur leurs autels odorants. Ce passage constitue une **étiologie poétique** : il donne sens à un type de division sacrificielle. Il n'est pas un manuel universel de toutes les opérations rituelles de chaque cité grecque.
+
+**Édition numérique vérifiable :** [Center for Hellenic Studies, Harvard, Hésiode, Théogonie 535–557](https://chs.harvard.edu/primary-source/hesiod-theogony-sb/).
+
+### 18. L'étiologie n'explique pas toute la pratique [É/I]
+
+La scène fonde une limite : les dieux ne reçoivent pas la même portion que les humains. Le corps animal devient un langage de frontière. Mais toutes les offrandes grecques n'étaient ni bovines ni des combustions d'os recouverts de graisse ; il existait aussi des dons végétaux, des libations, des dédicaces et des formes différentes de traitement des victimes. Ériger Mékônè en description exhaustive de la religion grecque serait confondre la puissance du récit avec la variété historique des cultes.
+
+Le prestige de la lecture structuraliste, particulièrement élaborée par Jean-Pierre Vernant et Marcel Detienne, tient à ce qu'elle restitue la logique des catégories de mangeurs. Cette lecture doit être croisée avec l'épigraphie, l'archéologie des ossements, les calendriers religieux et la diversité des pratiques régionales.
+
+### 19. Homère, Iliade I, 447–474 : une séquence culinaire et publique [A]
+
+Au livre **I de l'Iliade**, lors du sacrifice destiné à Apollon, l'assemblée se purifie les mains, répand l'orge, prie, tue les victimes, brûle les os des cuisses entourés de graisse et verse du vin. Les acteurs rôtissent ensuite les morceaux et se réunissent pour un repas. Le récit articule donc **parole, découpe, combustion, cuisson, ingestion humaine et restauration d'un lien avec le dieu**. Il situe ces gestes dans une situation narrative précise : réparer le rapport troublé avec Apollon.
+
+**Texte :** [Center for Hellenic Studies, Harvard, Iliade, chant I, 447–474](https://chs.harvard.edu/primary-source/homeric-iliad-sb/). Il s'agit d'une représentation épique, non d'une observation directe réalisée dans un sanctuaire du VIIIe ou du Ve siècle av. n. è.
+
+### 20. Philologie du partage : thysía, daís, splánkhna [É]
+
+La **thysía** désigne dans de nombreux contextes grecs une opération sacrificielle ; son usage et sa portée varient selon les périodes. **Daís** renvoie au repas festif et au partage ; **splánkhna** désigne les viscères ou entrailles dont la cuisson et la consommation occupent une place notable dans certaines séquences rituelles. Les termes ne sont ni équivalents ni toujours employés dans les mêmes sources. La famille grecque des mots désignant fumée et offrande invite à étudier la transformation par le feu, mais elle ne démontre pas que le dieu ne reçoit que de la fumée dans tous les cultes.
+
+L'historien doit également distinguer les portions honorifiques des participants humains, les parts sacerdotales attestées par les règlements locaux et ce qui est destiné à l'autel. La distribution des chairs est un langage du rang, mais les modalités concrètes demandent un inventaire des inscriptions pertinentes, pas une projection indifférenciée de la poésie sur les archives de cité.
+
+### 21. Héros et divinités : contre la séparation rigide [A/É]
+
+Gunnel Ekroth, dans *The Sacrificial Rituals of Greek Hero-Cults in the Archaic to the Early Hellenistic Period* (2002), a remis en cause la représentation schématique selon laquelle les héros recevraient surtout des sacrifices entièrement brûlés tandis que les dieux seuls recevraient des sacrifices avec consommation humaine. Sa confrontation des attestations montre l'importance de la **thysía** et des repas partagés dans bien des cultes héroïques. Cette correction historiographique interdit de transformer une opposition pédagogique simple en règle immuable.
+
+**Étude universitaire :** [Ekroth, Presses universitaires de Liège, 2002](https://presses.uliege.be/produit/the-sacrificial-rituals-of-greek-hero-cults-in-the-archaic-to-the-early-hellenistic-period/).
+
+### 22. Un vase grec documente une scène, pas une « essence » [A]
+
+L'**œnochoé du Louvre G 402 / MNB 1705**, attribuée au peintre de Kraipalé et datée **vers 430–425 av. n. è.**, montre une libation sur un autel enflammé et un jeune homme tenant une broche avec des quartiers de viande. La notice institutionnelle explicite la scène, la provenance de Vulci et les restaurations. L'objet atteste une manière de représenter la communion du liquide, du feu et de la viande. Il ne faut ni supposer que tous les personnages sont des prêtres ni mettre dans leur bouche une doctrine sur la digestion des dieux.
+
+**Source :** [Louvre, Œnochoé G 402, notice détaillée](https://collections.louvre.fr/ark:/53355/cl010270254).
+
+## VII. Inde védique : Agni transporte l'oblation et organise le rite
+
+### 23. Ṛgveda I,1,1–9 : le feu comme prêtre divin [A]
+
+Le premier hymne du **Ṛgveda**, **I,1,1**, invoque **Agni** en le qualifiant de **purohita**, de divin **ṛtvij** et de **hotṛ**. Il n'est pas simplement un feu qui « mange » : il est un **officiant et médiateur**, capable de rapprocher destinataires divins et sacrifiants. Les vers suivants l'associent à l'invitation des dieux, à la richesse demandée et à la régularité du culte. L'hymne révèle une architecture rituelle dans laquelle le canal de communication possède une forme personnelle et divine.
+
+**Texte sanskrit et traduction :** [Ṛgveda I,1,1, translittération et traduction](https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc828866.html). La traduction de Stephanie Jamison et Joel Brereton (Oxford, 2014) doit être consultée pour une discussion philologique moderne : les choix de traduction de **hotṛ** et **ṛtvij** sont historiquement importants.
+
+### 24. Précision lexicale : yajña, havis, āhuti [É]
+
+**Yajña** désigne le sacrifice ou l'acte d'adoration rituelle ; **havis** peut désigner la matière oblationnelle ; **āhuti** une oblation versée au feu dans les prescriptions qui utilisent ce terme. La traduction « nourriture des dieux » peut donc être une **paraphrase fonctionnelle** et non l'équivalent d'un mot unique du passage. La racine et les emplois de **hotṛ**, récitant/invocateur, demandent d'être situés dans l'organisation des prêtres du sacrifice védique. Les écoles rituelles et leurs textes ne se résument pas à un fonds intemporel.
+
+Le feu n'est pas seulement une technique calorique : il est le lieu où l'offrande change d'état et devient un geste adressé. Le parallèle avec la graisse grecque brûlée possède une fécondité comparative, mais la théologie d'Agni comme officiant-personne n'est pas identique au rôle de l'autel chez Homère.
+
+### 25. Śatapatha Brāhmaṇa I,7,3 : la part réservée au dieu exclu [A]
+
+Dans le **Śatapatha Brāhmaṇa**, **I,7,3,1–11**, une narration rituelle explique une oblation offerte à **Agni Sviṣṭakṛt**. Le passage commence par les dieux qui, après avoir gagné le ciel par le sacrifice, laissent un dieu à l'écart ; l'exclu revendique une part, et celle-ci doit être reconnue. On peut relire le mythe comme une **étiologie de la distribution légitime** : le repas sacrificiel est aussi une affaire de participation, d'exclusion et de réconciliation. L'ordre des portions règle la place du destinataire, et non un simple calcul de calories.
+
+**Source primaire :** [Śatapatha Brāhmaṇa I,7,3, texte et traduction Eggeling](https://www.wisdomlib.org/hinduism/book/satapatha-brahmana-english/d/doc63142.html). Il faut tenir compte de la date tardive et de l'histoire éditoriale de la traduction de Julius Eggeling ; son langage anglais du XIXe siècle ne doit pas être repris sans réflexion terminologique.
+
+### 26. La Bhagavad-Gītā IX,26 : le sens du don déplace sa valeur [A/P]
+
+Le verset **IX,26** de la **Bhagavad-Gītā**, texte d'une autre strate et d'un autre horizon religieux que le plus ancien Ṛgveda, déclare que Kṛṣṇa reçoit une feuille, une fleur, un fruit ou de l'eau lorsqu'ils sont offerts **avec bhakti**. La construction sanskrite **patraṃ puṣpaṃ phalaṃ toyaṃ ... bhaktyā ... aśnāmi** mérite attention : **aśnāmi** peut être rendu par « je mange », tandis que certaines traductions préfèrent « je reçois » ou « j'accepte » pour exprimer le sens dévotionnel. Il ne faut pas effacer cette tension par une équivalence facile.
+
+**Source :** [Bhagavad-Gītā 9,26, texte sanskrit et analyse grammaticale](https://www.bhagavadgita.eu/en/?p=4017). Le rapprochement avec l'oblation védique porte sur la question du don, mais il ne faut pas confondre les périodes, le statut de Kṛṣṇa dans la Gītā et la ritualité du feu décrite par les Brāhmaṇa.
+
+### 27. Développement historique : d'un rite à l'autre [I]
+
+L'existence d'une offrande transformée par Agni et d'une offre minimale valorisée par la dévotion ne dessine pas une « évolution automatique du matériel au spirituel ». Les formes védiques, épiques, dévotionnelles et domestiques ont coexisté et ont été réinterprétées selon les milieux. Une histoire sérieuse des rites indiens doit suivre les écoles, les liturgies, les lieux de culte et les traditions de commentaire ; elle ne saurait réduire des siècles à deux versets présentés comme deux étapes obligatoires du progrès religieux.
+
+## VIII. Israël ancien : le « pain de Dieu » et le refus de la faim divine
+
+### 28. Lévitique 3,16–17 : nourriture, graisse et fumée [A]
+
+**Lévitique 3,16** qualifie la graisse brûlée d'**offrande par le feu**, en lien avec la nourriture et le parfum agréable ; **3,17** interdit de manger certaines graisses et le sang. La formulation articule quatre données : **une part destinée à YHWH**, **une combustion**, **un lexique alimentaire** et **une restriction imposée aux humains**. Le partage n'est pas une image empruntée de l'extérieur, mais une logique intrinsèque au texte prescriptif.
+
+**Source hébraïque et traduction :** [Sefaria, Lévitique 3,14–17](https://www.sefaria.org/Leviticus.3?no_applink=1). Le mot **leḥem**, littéralement « pain », peut figurer dans une expression de nourriture/offrande ; **’iššeh** concerne la combustion rituelle ; **rēaḥ nîḥōaḥ** désigne l'odeur agréable/apaisante. Il serait erroné de rabattre chacun de ces termes sur les mots sumériens ou grecs sous prétexte que les matières offertes se ressemblent.
+
+### 29. Malachie 1,7 : la « table de YHWH » [A]
+
+Le prophète **Malachie 1,7** reproche aux prêtres de présenter des aliments souillés et de mépriser la « table de YHWH ». La métaphore du repas est alors investie par une **critique de la qualité morale et cultuelle de l'offrande**. Ce n'est pas une preuve que la divinité serait figurée comme mangeant physiquement chaque objet placé sur l'autel. Le vocabulaire de l'hospitalité sert ici à mesurer l'honneur, la négligence et l'obligation.
+
+**Source :** [Sefaria, Malachie 1,7](https://www.sefaria.org/Malachi.1.7).
+
+### 30. Psaume 50,12–15 : contre la dépendance de Dieu [A]
+
+Le **Psaume 50,12–13** fait répondre à Dieu qu'il ne demanderait pas aux hommes de le nourrir s'il avait faim et interroge : mangerait-il la chair des taureaux, boirait-il le sang des boucs ? Les versets suivants invitent au sacrifice d'action de grâce et à l'accomplissement du vœu. La tension est explicite : le langage de la nourriture cultuelle subsiste, mais la **dépendance nutritive** de Dieu est réfutée dans le texte même.
+
+**Source :** [Sefaria, Psaume 50,12–15](https://www.sefaria.org/Psalms.50.12-13).
+
+### 31. Une divergence interne, non une « religion plus avancée » [É/I]
+
+Lévitique, Malachie et les Psaumes sont des corpus de genres, milieux et histoires rédactionnelles différents. Les juxtaposer ne permet ni de les dater arbitrairement, ni d'affirmer que le judaïsme antique aurait abandonné d'un seul mouvement les sacrifices matériels. La réflexion sur la non-dépendance divine travaille **à l'intérieur** de pratiques, de prescriptions et de disputes sur leur bonne exécution.
+
+Le rapprochement avec la scène babylonienne des dieux attirés « comme des mouches » est intellectuellement instructif, mais ne prouve pas une ligne droite de « progrès » de la religion polythéiste vers le monothéisme. Une pareille téléologie exporterait dans les sources un jugement historiographique extérieur.
+
+## IX. Comparaison réglée : six modèles, plusieurs temporalités
+
+| Ensemble documentaire | Support premier du don | Relation aux dieux attestée | Piège interprétatif principal |
+|---|---|---|---|
+| Gudea, É-ninnu (Sumer) | Denrées, service organisé, métiers | Approvisionnement de Ninĝirsu inscrit dans la fondation royale | Prendre un texte commémoratif pour la comptabilité exhaustive du temple |
+| Gilgameš XI (Babylone) | Sacrifice, fumée, libation | Les dieux viennent à l'odeur ; conflit d'autorité après le Déluge | Lire un mythe comme une enquête ethnographique sur toute la religion |
+| Rituel d'Amon, Berlin 3055 (Égypte) | Statue consacrée, gestes, offrandes et paroles | Entretien d'une présence divine et organisation du jour cultuel | Considérer la statue comme une simple idole ou le rituel comme entièrement connu |
+| Hésiode et Iliade (Grèce) | Portions brûlées et viande partagée | Différenciation des immortels et des mortels, prière et commensalité | Généraliser un modèle poétique à toutes les cités et tous les héros |
+| Ṛgveda et Śatapatha Brāhmaṇa (Inde) | Obations, feu, règles des parts | Agni officiant-médiateur ; légitimation rituelle des destinataires | Confondre les corpus védiques avec les développements de la Gītā |
+| Lévitique, Malachie, Psaume 50 (Israël) | Autel, graisse, odeur, langage de table | Part réservée à YHWH, critique cultuelle, négation de la faim divine | Traiter des voix textuelles distinctes comme une doctrine plate et homogène |
+
+**Résultat [I].** Le point commun n'est pas un contenu dogmatique, mais une **opération de délimitation** : produire un bien, le qualifier comme don, déterminer un destinataire, établir un trajet de transformation et distribuer droits et obligations. Les désaccords sur la faim divine ne sont pas une anomalie qui invalide la comparaison ; ils en constituent la matière.
+
+## X. Réexaminer les grands modèles historiographiques
+
+### 32. Hubert et Mauss : sacrifice et consécration [P/É]
+
+Henri Hubert et Marcel Mauss ont cherché, dans leur *Essai sur la nature et la fonction du sacrifice* (1899), les processus par lesquels une opération rituelle transforme le statut des acteurs et des choses. Leur ambition typologique demeure utile pour décomposer les étapes d'une consécration ; cependant, plaquer un schéma unique de « victime sacrifiée » sur toutes les tables de pain ou sur toutes les libations est méthodologiquement excessif. Un aliment déposé devant une image n'est pas nécessairement traité comme un animal mis à mort.
+
+### 33. Vernant et Detienne : cuisine, mortalité, société [É/P]
+
+Dans *La Cuisine du sacrifice en pays grec* (1979), puis sa traduction anglaise de 1989, Jean-Pierre Vernant, Marcel Detienne et leurs collaborateurs ont montré comment la cuisson, les catégories d'êtres et le partage de la viande peuvent rendre lisible un ordre social. L'intérêt du modèle réside dans son attention aux **oppositions structurées** plutôt qu'à une série de gestes isolés. Mais son extension aux autres régions doit être justifiée séparément. Les offrandes non brûlées de Gudea et les tables égyptiennes ne sont pas de simples versions locales de Mékônè.
+
+**Notice éditoriale :** [University of Chicago Press, The Cuisine of Sacrifice among the Greeks](https://press.uchicago.edu/ucp/books/book/chicago/C/bo3775014.html).
+
+### 34. Burkert, Naiden, Ekroth : quelles places pour violence et communication ? [É]
+
+Walter Burkert a proposé, notamment dans *Homo Necans* (1972), des interprétations importantes de la violence et de sa régulation dans le sacrifice grec. **F. S. Naiden**, dans *Smoke Signals for the Gods* (2013), conteste à plusieurs égards les reconstructions centrées de manière exclusive sur l'abattage et la consommation : le rite engage la communication avec les dieux, l'appréciation du geste et des normes de qualité. **Ekroth** a renouvelé la typologie des sacrifices aux héros par une critique serrée des sources épigraphiques et littéraires.
+
+Ces interprétations ne s'annulent pas mutuellement. La violence peut être un enjeu majeur dans certains contextes sans fournir une définition universelle du don alimentaire ; la consommation humaine peut structurer une cité sans expliquer seule le rapport au dieu ; la prière peut compter sans rendre les denrées matériellement négligeables.
+
+**Références :** [Naiden, Oxford Academic](https://academic.oup.com/book/12094) ; [Ekroth, Liège](https://presses.uliege.be/produit/the-sacrificial-rituals-of-greek-hero-cults-in-the-archaic-to-the-early-hellenistic-period/).
+
+### 35. Bible hébraïque et histoire du rituel : contre les fausses oppositions [É]
+
+Jacob Milgrom a étudié les prescriptions du Lévitique dans leur complexité lexicale et institutionnelle ; Mary Douglas a proposé une lecture littéraire et anthropologique de l'architecture du livre. La combinaison de ces approches incite à refuser une opposition mécanique entre un culte matériel réputé « archaïque » et une critique prophétique prétendument « moderne ». Dans les textes, normes, images et objections coexistent. Le désaccord entre prescriptions et critique de l'hypocrisie cultuelle est lui-même un fait historique à analyser.
+
+**Référence :** [Mary Douglas, Leviticus as Literature, Oxford Academic](https://academic.oup.com/book/12881).
+
+### 36. Critique du comparatisme diffusionniste [H]
+
+Les ressemblances entre odeur agréable, sacrifices après un désastre et banquet des dieux peuvent résulter de contacts, de conditions rituelles analogues ou de reconstructions narratives indépendantes. La **diffusion textuelle** des traditions du Déluge mérite une enquête précise ; la diffusion de **tous** les repas sacrificiels depuis un foyer originel ne possède pas la même base probatoire. Les cultures échangent des motifs, mais des cérémonies ressemblantes ne prouvent pas automatiquement la circulation du modèle religieux complet.
+
+## XI. Philosophie du don sacré : quatre problèmes
+
+### 37. Premier problème : qu'est-ce que recevoir sans avoir besoin ? [P]
+
+Dans l'économie ordinaire, recevoir de la nourriture répond souvent à une nécessité corporelle. Dans une économie religieuse, le destinataire peut être précisément défini comme **non dépendant** de cette nourriture. Le Psaume 50 l'explicite ; le monde grec marque la différence des portions ; la Gītā met la valeur de la dévotion au premier plan. L'acte d'offrir peut alors compter non parce qu'il complète un manque de substance chez le dieu, mais parce qu'il exprime et transforme une relation.
+
+La réception du don n'est pas à réduire à une métaphore vide. Présenter, brûler, déposer ou prononcer une offrande produit de véritables effets humains : prélèvements de biens, travail, temps consacré, hiérarchie des fonctions, inscription d'un calendrier, repas partagé. Cette efficacité sociale n'impose aucune conclusion moderne sur la réalité métaphysique de la divinité, qui appartient à un autre ordre de discours.
+
+### 38. Deuxième problème : le don est-il un échange ? [P]
+
+Les théories modernes du don ont rendu visible le rôle des obligations de donner, recevoir et rendre. Elles sont heuristiquement utiles pour penser les vœux, les demandes de protection et la reconnaissance d'une puissance supérieure. Mais elles exposent à un piège : faire de tous les rites des contrats calculés avec les dieux. Dans certains textes, on demande un secours ; dans d'autres, on offre de Maât, on fête une victoire, on obéit à une prescription ou on honore une présence. Le langage de réciprocité ne suffit pas à expliquer la diversité des motivations.
+
+La question de la **dette** offre un rapprochement rétrospectif avec la réflexion de Nietzsche, notamment *La Généalogie de la morale* II, où les relations créancier-débiteur éclairent la formation historique de certaines obligations. **Il s'agit ici d'une analogie philosophique [P]**, et non de la preuve que Nietzsche aurait décrit correctement Gudea, Séthi Ier ou les rites védiques.
+
+### 39. Troisième problème : une portion peut-elle représenter l'ensemble du monde ? [P]
+
+La miniature matérielle n'est pas nécessairement un simulacre trompeur. Une table gravée de pains peut représenter une abondance durable ; une quantité limitée de graisse, de farine ou d'eau peut concentrer une relation qui dépasse sa masse. Les religions antiques ont exploré des procédés de **condensation** : une part vaut pour une totalité, un geste réactive un ordre, une parole maintient la présence d'un bien en l'absence du bien lui-même. Ces opérations ne sont pas identiques dans leur théologie ; elles peuvent néanmoins être discutées sous l'angle commun de la relation entre signe, substitution et efficacité.
+
+L'écueil serait de parler indistinctement de « magie » pour toute efficacité rituelle non mesurable par la nutrition. L'historien décrit ce que le dispositif est censé accomplir selon ses propres catégories, avant de proposer un vocabulaire philosophique.
+
+### 40. Quatrième problème : pourquoi partager suppose-t-il parfois d'exclure ? [P]
+
+Le rite désigne des destinataires et ordonne des droits : dans le *Śatapatha Brāhmaṇa*, un dieu proteste contre son exclusion d'une part ; chez Hésiode, les dieux et les hommes ne reçoivent plus les mêmes morceaux ; dans certains règlements, la fonction sacerdotale ouvre un droit particulier ; dans le monde mésopotamien, les offices déterminent des responsabilités. L'aliment consacré est donc aussi une **politique de la frontière**.
+
+On peut proposer une lecture inspirée de la philosophie de la reconnaissance : une distribution sacrée institue qui compte comme participant, représentant, serviteur ou bénéficiaire. Mais ce vocabulaire relève d'une **lecture contemporaine [P]** ; l'institution antique n'a pas nécessairement pensé ces rapports sous la catégorie philosophique moderne de reconnaissance.
+
+### 41. Synthèse : de la faim à la souveraineté du geste [I/P]
+
+L'opposition « dieux qui mangent » / « dieux qui ne mangent pas » ne suffit pas. Le centre du dossier est la pluralité des modes de **présence sociale du divin**. Le repas mythique babylonien met en crise la souveraineté des dieux ; le service des sanctuaires affirme et organise la continuité du monde ; le banquet grec assure un partage humain selon des gestes adressés aux immortels ; l'offrande védique ouvre une communication médiatisée par Agni ; la Bible met en tension la qualification alimentaire de l'offrande et la non-dépendance de Dieu ; la Gītā rend l'intention dévotionnelle décisive dans un cadre théologique distinct.
+
+## XII. Contradictions et questions ouvertes
+
+**(a) Le dieu consomme-t-il physiquement ?** Certains récits le représentent comme mangeant ou attiré par le parfum ; d'autres corpus détournent ou refusent expressément une faim littérale. Il n'y a pas de réponse transhistorique unique [A/É].
+
+**(b) Toute combustion est-elle alimentaire ?** Non. Les fonctions purificatrices, votives, propitiatoires, funéraires, publiques et honorifiques doivent être distinguées ; l'inclusion de la fumée ne signifie pas nécessairement qu'elle constituerait l'aliment du dieu [I].
+
+**(c) Tous les sacrifices débouchent-ils sur un repas humain ?** Non. Il faut étudier les rites sans consommation, les holocaustes, les libations et les procédures locales. La généralisation à partir de la thysía grecque serait abusive [A/É].
+
+**(d) Les données archéologiques prouvent-elles les quantités consommées ?** Les ossements, foyers, jarres et tables peuvent attester des traitements matériels, sous réserve de contexte et de taphonomie ; les quantités globales et leurs destinataires exigent des archives croisées [É].
+
+**(e) La dévotion remplace-t-elle historiquement le sacrifice ?** Une réponse universelle serait anachronique. La Gītā offre une perspective textuelle sur la bhakti, pas une preuve que les rites de feu auraient disparu [É].
+
+**(f) Peut-on comparer Amon, Zeus, Agni et YHWH ?** Oui comme **problèmes d'histoire des pratiques et du langage du don**, non comme des versions interchangeables d'une entité divine unique [H/P].
+
+## XIII. Dossier iconographique institutionnel : huit notices à intégrer
+
+Ces illustrations sont **proposées**, non insérées sans contrôle des droits. Chaque légende indique objet, datation, lieu, intérêt comparatif et source de traçabilité. Utiliser de préférence les images sous licence ouverte explicitement autorisée par les musées, conserver crédits, inventaires et notices ; vérifier les droits de reproduction de la photographie séparément de l'ancienneté de l'objet.
+
+1. **Relief d'Ur-Nanshe, banquet cultuel et construction**, Tello/Lagash, Dynastique archaïque IIIB, **Louvre AO 2344**. Reproduire le relief complet pour visualiser les deux registres et le couplage roi–temple–repas. **Source institutionnelle :** [Louvre AO 2344](https://collections.louvre.fr/ark:/53355/cl010121762). **Légende scientifique :** « Construction du temple et banquet cultuel royal ; la scène ne représente pas des dieux mangeant ».
+
+2. **Table d'offrandes d'une chapelle funéraire**, Lisht, XIIe dynastie, vers 1900–1850 av. n. è., **Met 15.3.1150**. Souligner rigole, objets et aliments représentés, mais signaler la destination funéraire. **Source :** [Met 15.3.1150](https://www.metmuseum.org/art/collection/search/569118). **Légende :** « Table destinée au culte d'un défunt ; comparaison limitée avec le service des statues divines ».
+
+3. **Table de Séthi Ier dédiée au dieu Seth**, XIXe dynastie, vers 1299–1290 av. n. è., **Met 22.2.22**. Mettre en regard pain, vases, scènes royales et effacement ultérieur du nom du dieu. **Source :** [Met 22.2.22](https://www.metmuseum.org/art/collection/search/549218). **Légende :** « Une offrande de temple au dieu Seth ; modifications postérieures des figures divines ».
+
+4. **Table de Pabasa**, époque saïte, Thèbes, **Met 22.3.2**. Documenter la superposition iconographique des pains, volailles, fruits et vases, avec rigole de libation. **Source :** [Met 22.3.2](https://www.metmuseum.org/art/collection/search/547791). **Légende :** « Nourriture éternelle dans un contexte funéraire ; ne pas attribuer à un temple d'Amon ».
+
+5. **Œnochoé attique à figures rouges : sacrifice, vin, viandes sur broches**, vers 430–425 av. n. è., **Louvre G 402 / MNB 1705**. La confrontation iconographique permet de distinguer libation et cuisson. **Source :** [Louvre G 402](https://collections.louvre.fr/ark:/53355/cl010270254). **Légende :** « Scène figurée de sacrifice grec ; détails restaurés signalés dans la notice ».
+
+6. **Inscription comparée de Gudea**, édition du corpus ETCSL **2.1.7, lignes 871–882**. Préférer une restitution graphique **typographique originale** des lignes et de leur traduction critique plutôt qu'un fac-similé non sourcé ; toute reproduction de tablette doit être reliée à un inventaire attesté. **Source :** [ETCSL, Gudea](https://etcsl.orinst.ox.ac.uk/edition2/etcslgloss.php?charenc=gcirc&lookup=c217.871).
+
+7. **Comparaison textuelle de la division sacrificielle grecque**, *Théogonie* **535–557** et *Iliade* **I,447–474**, conçue comme tableau éditorial original avec numéros de vers et catégories de portions, sans illustration imaginaire présentée comme source antique. **Sources :** [CHS, Théogonie](https://chs.harvard.edu/primary-source/hesiod-theogony-sb/) ; [CHS, Iliade](https://chs.harvard.edu/primary-source/homeric-iliad-sb/).
+
+8. **Tableau philologique plurilingue des verbes d'offrande et de réception**, colonnes sumérien, grec, sanskrit et hébreu ; création originale MYTHOS, sans reproduire des photographies sous droits réservés. Les formes doivent être vérifiées dans les éditions utilisées : *ninda*, *kaš*, *thysía*, *splánkhna*, *yajña*, *āhuti*, *bhaktyā*, *aśnāmi*, *leḥem*, *rēaḥ nîḥōaḥ*. **Sources :** [ETCSL](https://etcsl.orinst.ox.ac.uk/), [CHS](https://chs.harvard.edu/primary-source/hesiod-theogony-sb/), [Ṛgveda](https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc828866.html), [Gītā IX,26](https://www.bhagavadgita.eu/en/?p=4017), [Sefaria](https://www.sefaria.org/Leviticus.3?no_applink=1).
+
+## XIV. Corpus primaire : édition, passage, portée et limite
+
+1. **Gudea**, *La construction du temple de Ninĝirsu*, cylindres A–B, **ETCSL 2.1.7**, passage **871–882** et épisodes du service de Ninĝirsu. Corpus de textes royaux en sumérien ; source primaire pour le langage de préparation des aliments, non registre quotidien chiffré. [Texte et lexèmes](https://etcsl.orinst.ox.ac.uk/edition2/etcslgloss.php?charenc=gcirc&lookup=c217.871).
+2. **Relief d'Ur-Nanshe**, Louvre **AO 2344**, Dynastique archaïque IIIB ; source primaire pour une représentation cultuelle royale et son inscription, non pour une scène de consommation divine. [Notice de collection](https://collections.louvre.fr/ark:/53355/cl010121762).
+3. **Épopée de Gilgameš**, tablette **XI,155–169**, traduction Heidel ; source narrative pour l'odeur de l'offrande après le Déluge, non preuve directe de normes rituelles quotidiennes. [ISAC Chicago](https://isac.uchicago.edu/publications/gilgamesh-epic-and-old-testament-parallels).
+4. **Genèse 8,20–22**, autel de Noé et parfum apaisant ; comparaison littéraire, non équivalence institutionnelle.
+5. **Papyrus Berlin 3055**, service d'Amon-Rê, présentation des rites en **66 séquences** ; témoin prescriptif liturgique, non description complète des achats et repas d'un temple. [UCL Digital Egypt](https://www.ucl.ac.uk/museums-static/digitalegypt/religion/dailycult.html).
+6. **Table d'offrandes de Séthi Ier à Seth**, Met **22.2.22** ; dédicace monumentale et libations, avec histoire matérielle d'effacements. [Met](https://www.metmuseum.org/art/collection/search/549218).
+7. **Hésiode**, *Théogonie*, **535–557** ; partage de Mékônè, récit étiologique. [CHS Harvard](https://chs.harvard.edu/primary-source/hesiod-theogony-sb/).
+8. **Homère**, *Iliade*, **I,447–474** ; prière, combustion et consommation sacrificielle en contexte épique. [CHS Harvard](https://chs.harvard.edu/primary-source/homeric-iliad-sb/).
+9. **Ṛgveda**, **I,1,1–9** ; Agni médiateur/officiant du sacrifice, poésie rituelle, non code universel de la pratique hindoue. [Texte sanskrit](https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc828866.html).
+10. **Śatapatha Brāhmaṇa**, **I,7,3,1–11** ; étiologie d'une part d'Agni Sviṣṭakṛt dans une école rituelle déterminée. [Texte et traduction](https://www.wisdomlib.org/hinduism/book/satapatha-brahmana-english/d/doc63142.html).
+11. **Bhagavad-Gītā**, **IX,26** ; dévotion et acceptation d'une offrande modeste ; autre époque et genre que le Ṛgveda. [Grammaire](https://www.bhagavadgita.eu/en/?p=4017).
+12. **Lévitique**, **3,14–17** ; graisse, fumée, restriction alimentaire et part divine. [Texte hébreu](https://www.sefaria.org/Leviticus.3?no_applink=1).
+13. **Malachie**, **1,7** ; la table de YHWH et le reproche d'une offrande indigne. [Texte hébreu](https://www.sefaria.org/Malachi.1.7).
+14. **Psaume 50**, **12–15** ; refus explicite de la faim divine ; critique interne de la compréhension du sacrifice. [Texte hébreu](https://www.sefaria.org/Psalms.50.12-13).
+
+## XV. Bibliographie critique et orientation des lectures
+
+**Mésopotamie**
+
+1. **Edzard, Dietz Otto**, *Gudea and His Dynasty*, Royal Inscriptions of Mesopotamia: Early Periods 3/1, University of Toronto Press, 1997. Édition des inscriptions royales ; à confronter avec la traduction et l'index ETCSL.
+2. **George, Andrew R.**, *The Babylonian Gilgamesh Epic: Introduction, Critical Edition and Cuneiform Texts*, 2 vol., Oxford University Press, 2003. Référence philologique majeure ; préférer ses collations au seul commentaire de Heidel.
+3. **Heidel, Alexander**, *The Gilgamesh Epic and Old Testament Parallels*, 2e édition, University of Chicago Press, 1949. Traduction historique utile, avec limites propres à son époque ; [édition ISAC](https://isac.uchicago.edu/publications/gilgamesh-epic-and-old-testament-parallels).
+4. **Bottéro, Jean**, *La Religion la plus ancienne : en Mésopotamie*, Gallimard, 1998. Grande synthèse interprétative à contrôler contre les éditions.
+5. **Foster, Benjamin R.**, *Before the Muses: An Anthology of Akkadian Literature*, 3e éd., CDL Press, 2005. Traductions comparatives et genres littéraires.
+
+**Égypte**
+
+6. **UCL / Digital Egypt for Universities**, *Daily Offering Ritual in ancient Egyptian temples*, dossier de sources dont Berlin 3055 et Abydos, [édition institutionnelle](https://www.ucl.ac.uk/museums-static/digitalegypt/religion/dailycult.html).
+7. **Quirke, Stephen**, *Ancient Egyptian Religion*, British Museum Press, 1992. Introduction aux conceptions et institutions cultuelles.
+8. **Assmann, Jan**, *The Search for God in Ancient Egypt*, Cornell University Press, 2001 (trad. de l'ouvrage allemand). Référence pour la théologie et les transformations de la présence divine ; ne remplace pas l'édition du papyrus.
+9. **Metropolitan Museum of Art**, notices des inv. **15.3.1150**, **22.2.22**, **22.3.2** ; distinguer strictement offrande de temple et culte funéraire.
+
+**Grèce**
+
+10. **Detienne, Marcel, et Jean-Pierre Vernant (dir.)**, *La Cuisine du sacrifice en pays grec*, Gallimard, 1979 ; traduction anglaise *The Cuisine of Sacrifice among the Greeks*, University of Chicago Press, 1989. [Notice éditoriale](https://press.uchicago.edu/ucp/books/book/chicago/C/bo3775014.html).
+11. **Burkert, Walter**, *Homo Necans*, de Gruyter, 1972 (éd. anglaise University of California Press, 1983). Modèle anthropologique et critique du sacrifice ; à relire à la lumière des débats ultérieurs.
+12. **Ekroth, Gunnel**, *The Sacrificial Rituals of Greek Hero-Cults in the Archaic to the Early Hellenistic Period*, Kernos supplément 12, Liège, 2002. [Notice de l'éditeur](https://presses.uliege.be/produit/the-sacrificial-rituals-of-greek-hero-cults-in-the-archaic-to-the-early-hellenistic-period/).
+13. **Naiden, F. S.**, *Smoke Signals for the Gods: Ancient Greek Sacrifice from the Archaic through Roman Periods*, Oxford University Press, 2013. [Résumé et DOI](https://academic.oup.com/book/12094).
+14. **Hésiode**, *Théogonie*, texte grec et traductions critiques ; [édition numérique CHS](https://chs.harvard.edu/primary-source/hesiod-theogony-sb/).
+15. **Homère**, *Iliade*, chant I ; [édition numérique CHS](https://chs.harvard.edu/primary-source/homeric-iliad-sb/).
+
+**Inde**
+
+16. **Jamison, Stephanie W., et Joel P. Brereton**, *The Rigveda: The Earliest Religious Poetry of India*, 3 vol., Oxford University Press, 2014. Traduction académique récente et annotations.
+17. **Eggeling, Julius**, *The Śatapatha-Brāhmaṇa*, *Sacred Books of the East*, vol. XII, 1882 et volumes suivants. Traduction historique à confronter au sanskrit ; [I,7,3 en ligne](https://www.wisdomlib.org/hinduism/book/satapatha-brahmana-english/d/doc63142.html).
+18. **Staal, Frits**, *Agni: The Vedic Ritual of the Fire Altar*, 2 vol., Asian Humanities Press, 1983. Étude rituelle de référence, relevant d'un autre contexte chronologique que le plus ancien Ṛgveda.
+19. **Bhagavad-Gītā**, IX,26, éditions avec sanskrit et commentaires ; confronter les interprétations de *aśnāmi*, *bhakti* et *prayatātmanaḥ* ; [analyse textuelle](https://www.bhagavadgita.eu/en/?p=4017).
+
+**Bible, comparaison et philosophie**
+
+20. **Milgrom, Jacob**, *Leviticus 1–16*, Anchor Bible 3, Doubleday, 1991. Philologie de l'offrande et de la sainteté.
+21. **Douglas, Mary**, *Leviticus as Literature*, Oxford University Press, 1999/2001 suivant édition et support. [Notice Oxford](https://academic.oup.com/book/12881).
+22. **Klawans, Jonathan**, *Purity, Sacrifice, and the Temple: Symbolism and Supersessionism in the Study of Ancient Judaism*, Oxford University Press, 2006.
+23. **Hubert, Henri, et Marcel Mauss**, *Essai sur la nature et la fonction du sacrifice*, *L'Année sociologique*, 1899. Modèle classique, non grille transhistorique intouchable.
+24. **Mauss, Marcel**, *Essai sur le don*, *L'Année sociologique*, 1925. Comparaison des obligations et circulation, avec nécessité de traiter les différences de cultures.
+25. **Nietzsche, Friedrich**, *Zur Genealogie der Moral* (*La Généalogie de la morale*), 1887, dissertation II ; l'analogie dette–offrande proposée ici est philosophique, non une citation ethnographique de Nietzsche sur les cultes étudiés.
+
+## XVI. Protocole de publication et pistes pour MC-041
+
+1. **Relecture philologique :** vérifier les accents et éditions de *Gilgameš*, *Ninĝirsu*, *Šul-šaga*, *Ṛgveda*, *Śatapatha* et les translittérations sémitiques ; confirmer les numéros de vers à l'édition citée.
+2. **Vérification des états :** ne pas confondre demande dans la file `editorial/inbox/`, attribution canonique dans `editorial/numbering.json`, fichier Markdown généré, index HTML, statut GitHub Actions et réponse publique HTTP de bobmythos.fr.
+3. **Liens internes :** renvoyer à MC-024 pour Amon–Rê–Aton, à MC-025 pour Maât/Isfet, à MC-031 pour travail humain et dieux, à MC-039 pour textile cultuel ; ne pas reprendre leurs textes.
+4. **Iconographie :** joindre systématiquement crédit, date, numéro d'inventaire, notice, légende descriptive, état de la licence et distinction claire entre image d'objet réel et tableau éditorial original.
+5. **Programme MC-041 [proposition, non réservation] :** *Mesurer le sacré : poids justes, calendriers d'offrandes, balances des morts et proportion cosmique*. Vérifier d'abord toute nouvelle livraison de la file afin d'éviter les collisions.
+
+## XVII. Complément critique de la version parallèle : objets, économie du temple et pluralité des repas
+
+**Note de réconciliation — 4 novembre 2026.** Un premier manuscrit MC-040 sur les repas et offrandes a été enregistré à **11:27:47 UTC** (commit `b574a5a6d60b87f5e7fd4bdfb3a3f2cb902da380`). Un autre dossier indépendant revendiquant MC-040 a été déposé à **11:29:38 UTC** (commit `68dfb8213dd776167601caa86e4b7fee8dad58cf`). Les deux ont des analyses substantielles. La seconde version de **10 953 mots** est sauvegardée **intégralement, sans édition**, dans `editorial/archives/2026-11-04-mc040-offrandes-version-parallele-413651cd.json`. Pour préserver une entrée unique MC-040 dans la file et éviter le blocage du générateur, les développements documentaires non redondants sont ajoutés ci-dessous à la première étude. L'archive doit rester consultable, sans être classée comme nouvelle livraison historique ni recevoir un deuxième numéro canonique. Les autres séries MYTHOS et leurs planifications restent inchangées.
+
+**Méthode :** les 34 analyses suivantes reproduisent, avec un numéro de complément stable et leur intitulé source, les sections de la version parallèle consacrées aux inventaires, repas mésopotamiens, pratiques grecques, textes lévitiques et problèmes archéologiques. Le passage est conservé comme étude complémentaire, pas comme preuve d'une seule théorie des offrandes.
+
+### XVII.1. La table de Lisht 15.3.1150 — extrait de la section 17 de l'étude parallèle
+
+Le Metropolitan Museum of Art conserve une table d'offrandes en calcaire, provenant de Lisht North, datée vers 1900–1850 avant notre ère, numéro d'objet 15.3.1150. Le musée souligne une révision de datation : des fouilleurs l'avaient d'abord considérée comme ramesside, mais elle appartient au milieu de la XIIe dynastie. Cette correction institutionnelle illustre l'importance des provenances et de l'histoire des classements. Les motifs sculptés représentent des contenants et des denrées ; des liquides étaient versés sur la surface. La source muséale décrit un contexte funéraire, non un objet ayant nécessairement servi à nourrir une statue de temple. [A]
+
+### XVII.2. Pain et bière : deux aliments, deux techniques — extrait de la section 18 de l'étude parallèle
+
+Le pain et la bière apparaissent dans des listes et représentations d'offrandes égyptiennes. Leur présence suppose céréales, cuisson, fermentation, stockage, transport et activités spécialisées. Le contenu matériel n'est pas une simple métaphore : il doit être produit et payé. Mais une représentation isolée d'une jarre ne permet pas de reconstruire la recette de la boisson qui y était contenue. Les sources matérielles, les textes et les analyses de résidus sont complémentaires. Les fonctions de partage varient entre tombe, temple, maison et fête ; une seule formule ne convient pas à tous. [A/I]
+
+### XVII.3. Thoutmosis III : une table royale à Karnak — extrait de la section 19 de l'étude parallèle
+
+Le ministère égyptien du Tourisme et des Antiquités présente une table d'offrandes de Thoutmosis III, provenant de la cour centrale du domaine d'Amon à Karnak et conservée au musée de Hurghada. Le dispositif en granit comprend quarante cavités pour présenter des offrandes, des figures du roi offrant des vases et des motifs protecteurs. La notice confirme le statut cultuel de l'objet et son attribution royale, mais ne donne pas dans le résultat consulté un numéro d'inventaire public. Il serait incorrect d'en inventer un : une notice iconographique doit signaler explicitement cette lacune. [A]
+
+### XVII.4. L'oblation et la restauration de l'ordre — extrait de la section 20 de l'étude parallèle
+
+Dans la pensée royale égyptienne, le culte est souvent associé à la préservation de l'ordre cosmique, ce qu'une synthèse moderne rapproche de Maât. Il faut éviter la circularité : l'existence d'une scène d'offrande ne prouve pas que chaque acteur en donnait une justification philosophique détaillée. Les monuments inscrivent des pratiques dans une théologie officielle ; leurs effets économiques et leurs réceptions sociales requièrent d'autres documents. L'analogie avec MC-025 concerne la relation entre ordre et rituel, sans répéter les dossiers sur la justice, la vérité et Isfet. [I/P]
+
+### XVII.5. Offrandes réelles et offrandes représentées — extrait de la section 21 de l'étude parallèle
+
+Les formes sculptées de nourriture et les dépôts organiques n'ont pas le même statut probatoire. Une table peut avoir été activée par libations même si les aliments eux-mêmes ne se conservent plus. Une peinture peut évoquer l'abondance sans représenter l'ensemble des productions réellement acheminées. L'interprétation doit donc distinguer le dispositif qui rend une présentation possible, l'inscription qui décrit son sens et la trace matérielle de ce qui a été posé. Aucun de ces niveaux ne permet de conclure seul à un rituel parfaitement uniforme sur l'ensemble de l'Égypte pharaonique. [A/I]
+
+### XVII.6. Le sort des aliments après l'offrande — extrait de la section 22 de l'étude parallèle
+
+Les systèmes de redistribution des biens du temple nécessitent des enquêtes propres aux périodes et aux institutions. La présentation divine n'implique pas une disparition physique des aliments : ils peuvent être transférés à d'autres bénéficiaires, mais les droits et quantités doivent être établis par des sources administratives. On ne saurait déduire un repas populaire gratuit d'une image où le roi offre des pains. Une économie du temple doit considérer la propriété, les charges de personnel, l'entretien des ateliers et les niveaux d'autorité qui distribuent les parts. [I]
+
+### XVII.7. Le repas comme institution documentée — extrait de la section 23 de l'étude parallèle
+
+Les archives des temples babyloniens attestent une organisation régulière des offrandes aux dieux. Francis Joannès analyse en détail la « nourriture des rois et des dieux » et distingue les repas quotidiens, le contenu des menus, les bénéficiaires humains et les sources administratives. Un « repas de dieu » n'est pas pour l'historien une simple expression poétique : il mobilise des produits, du personnel et des droits. Cependant les habitudes connues pour Uruk à l'époque séleucide ne doivent pas être transposées sans preuve à la Mésopotamie de Sumer du IIIe millénaire. [A]
+
+### XVII.8. *Sattukku* : les offrandes régulières — extrait de la section 24 de l'étude parallèle
+
+Le terme akkadien transcrit *sattukku* (variantes selon les publications) désigne des offrandes régulières dans les contextes cultuels étudiés pour la Babylonie du Ier millénaire. Il ne faut pas le traduire automatiquement par « repas » chaque fois qu'il apparaît, ni oublier qu'un emploi administratif peut varier selon la période. Les listes comptables expriment des obligations récurrentes et permettent de mesurer des rations, des retards ou des transferts. La démonstration du sens lexical doit s'appuyer sur des inscriptions contextualisées et des dictionnaires assyriologiques, non sur une analogie avec le repas familial moderne. [A/B]
+
+### XVII.9. *Naptānu* : l'ordre des services — extrait de la section 25 de l'étude parallèle
+
+Le mot akkadien *naptānu*, associé au repas dans les documents discutés par Joannès, aide à comprendre la temporalité de la liturgie : on distingue notamment services principaux et secondaires. Ces catégories expriment des opérations de temple ; elles ne garantissent pas que le dieu consommait réellement la nourriture au sens biologique humain. Les archives nous montrent surtout ce qui devait être présenté et ce qui circulait ensuite. La pratique peut être analysée comme un régime d'entretien de la présence divine et de l'institution qui la sert. [A/I]
+
+### XVII.10. Uruk : les menus et les volumes — extrait de la section 26 de l'étude parallèle
+
+Des documents cultuels de l'Uruk séleucide, discutés dans la tradition d'édition des rituels akkadiens et par Joannès, énumèrent des animaux, pains, boissons et autres denrées destinés aux repas d'Anu et d'Antu. Les quantités peuvent être considérables et reflètent une institution capable de mobiliser des élevages et des ateliers. Une liste de menu est cependant un texte normatif ou comptable : elle n'informe pas directement de la consommation effective de chaque portion par les personnes présentes. Les spécificités d'Uruk ne doivent pas être décrites comme constantes pour toutes les cités mésopotamiennes. [A]
+
+### XVII.11. La tablette TCL 6, 38 : un repère utile — extrait de la section 27 de l'étude parallèle
+
+Les études sur les repas des dieux citent fréquemment *TCL* 6, 38 pour les prescriptions cultuelles d'Uruk. Le sigle renvoie à une publication de tablettes cunéiformes ; il faut en préciser l'édition et les lignes avant toute transcription littérale. Dans ce manuscrit, les données sont présentées à travers les travaux savants de synthèse et une édition de textes anciens accessible, et non sous la prétention d'une nouvelle collation de l'original. Le lien entre textes et traductions doit rester visible afin que les chiffres soient vérifiables. [A/B]
+
+### XVII.12. Bière et liquides : le dossier de Francis Joannès — extrait de la section 28 de l'étude parallèle
+
+L'étude « Drinks Offered to the Gods in Neo-Babylonian Temples » de Francis Joannès, dans *Material Culture of Mesopotamia and Beyond 1*, examine les boissons apportées aux statues divines, particulièrement pendant les repas quotidiens. Elle distingue les catégories de liquides et les vases destinés à présenter ou verser des libations. Cela permet de dépasser l'image trop simple d'un autel recevant seulement du feu : le service d'un sanctuaire comprend aussi des opérations de table, de contenant et de circulation. La boisson dans un vase n'autorise cependant pas à identifier toute sa composition. [A]
+
+### XVII.13. Le dieu comme roi servi à table — extrait de la section 29 de l'étude parallèle
+
+Joannès souligne un parallélisme entre le service royal et le service divin dans certaines grandes institutions mésopotamiennes. Repas distribués à des heures définies, choix de mets raffinés, personnel spécialisé et délimitation de la salle renvoient à un protocole de cour. L'analogie ne prouve pas que la royauté ait « inventé » le repas des dieux ou que celui-ci ne soit qu'une imitation tardive. Elle fournit une question historique : comment des formes de service, de prestige et d'autorisation se répondent-elles entre palais et sanctuaire ? La réponse dépend des textes datés et de leurs évolutions. [A/I]
+
+### XVII.14. La viande n'est pas partout mise à mort sur l'autel — extrait de la section 30 de l'étude parallèle
+
+Dans l'analyse de Joannès, la viande offerte à une statue babylonienne peut être préparée après une mise à mort qui n'est pas en soi l'acte central de la cérémonie. Il faut donc résister à la tentation de transférer sans nuance le modèle grec d'un sacrifice sanglant vers les sanctuaires néo-babyloniens. Les procédures varient, et certains cas donnent à l'abattage une portée rituelle propre. La distinction entre tuer l'animal, cuisiner la viande, offrir le plat et redistribuer les restes est cruciale pour une comparaison sérieuse. [A/B]
+
+### XVII.15. Les prébendes et la redistribution — extrait de la section 31 de l'étude parallèle
+
+Les sanctuaires disposent d'un personnel de bouche et de parts distribuées selon des règles précises. Joannès décrit les droits liés aux tâches cultuelles, qui peuvent être associés à des prébendes (*isqu*) et à des revenus. La nourriture offerte au dieu n'est donc pas seulement le produit d'une dépense : elle entre dans une circulation sociale enregistrée. Ce fonctionnement ne doit pas être idéalisé comme égalitaire. Il peut exprimer le rang, la propriété et des privilèges familiaux. Les textes administratifs sont indispensables pour connaître les bénéficiaires, plutôt que de déduire ceux-ci d'un idéal religieux. [A]
+
+### XVII.16. La Tablette du Soleil de Sippar : BM 91000 — extrait de la section 32 de l'étude parallèle
+
+Le British Museum conserve la tablette de Šamaš trouvée à Sippar, identifiée BM 91000, registration 1881,0428.34.a, datée du règne de Nabû-apla-iddina au IXe siècle avant notre ère. Le relief montre un souverain introduit dans le sanctuaire du dieu solaire ; l'inscription rapporte notamment le rétablissement des ressources du temple. L'objet fournit un dossier exceptionnel sur la relation entre royauté, divinité et entretien cultuel. Il ne faut pas confondre la scène iconographique avec une représentation littérale de tous les repas journaliers ; sa lecture doit passer par l'inscription et sa publication. [A]
+
+### XVII.17. Le repas interrompu et restauré — extrait de la section 33 de l'étude parallèle
+
+Le passage étudié par Joannès sur le temple de Šamaš à Sippar décrit des difficultés d'approvisionnement, puis une restauration des offrandes sous un souverain. La présence ou l'absence d'aliments devient un indicateur de la capacité politique à servir la divinité. Le rituel a donc une dimension historique mesurable : les rations peuvent diminuer lors d'une crise, puis être rétablies. La lecture philosophique ne doit pas substituer une dette transcendante aux mécanismes concrets : guerres, revenus, décisions royales et gestion des temples appartiennent au dossier. [A/P]
+
+### XVII.18. *Theoxenia* : recevoir les dieux — extrait de la section 41 de l'étude parallèle
+
+Θεοξένια (*theoxenia*) évoque l'hospitalité offerte aux dieux, dans des contextes où couchages, tables et plats peuvent être préparés pour des destinataires divins. Gunnel Ekroth analyse la présence de telles pratiques dans les cultes héroïques, parfois articulées à la *thysia*. Une table dressée ne signifie pas nécessairement un partage égal des denrées entre dieu et humain ; la nourriture peut ensuite être remise à des personnes déterminées. Il faut distinguer la théologie de l'accueil, le matériel du banquet et la légitimité des bénéficiaires. [A/B]
+
+### XVII.19. Le *trapezoma* : nourriture mise sur la table — extrait de la section 42 de l'étude parallèle
+
+Le lexique grec de la table, notamment τράπεζα (*trapeza*) et les offrandes dites *trapezomata*, appartient à des pratiques où des aliments sont présentés à la divinité ou au héros. Les travaux d'Ekroth indiquent que des parts de viande crue ou cuite, déposées sur une table, peuvent revenir au prêtre. Ce devenir humain n'efface pas la présentation divine : il révèle que le rituel organise une séquence et des droits. Mais il faut éviter de déduire un système redistributif identique de la seule présence du terme dans deux inscriptions éloignées. [A/B]
+
+### XVII.20. Les entrailles et les convives — extrait de la section 43 de l'étude parallèle
+
+Le mot grec σπλάγχνα (*splanchna*) désigne notamment des organes internes qui peuvent être consommés dans certaines séquences sacrificielles. Leur préparation et leur partage relèvent de pratiques spécifiques et parfois de la compétence de groupes autorisés. L'histoire des repas ne peut se réduire au nombre total de victimes : les parties du corps, les modes de cuisson et les convives comptent. Les descriptions épiques fournissent des scènes utiles mais stylisées, que les inscriptions et l'archéologie doivent compléter. Une représentation de banquet ne prouve pas à elle seule la liste des aliments consommés. [B]
+
+### XVII.21. *Odyssée* III, 430–462 : l'équipe de Nestor — extrait de la section 45 de l'étude parallèle
+
+Lors du sacrifice d'une génisse à Athéna chez Nestor, le livre III de l'*Odyssée* distribue les tâches entre les membres du groupe : outils, eau, grains d'orge, prière, abattage et préparation de la viande. Le passage rappelle que la cérémonie mobilise plusieurs travailleurs et plusieurs générations. Il ne fournit pas une statistique de la participation féminine ni un règlement universel du sacrifice. La scène est importante pour la question du repas des dieux car elle situe la distribution des tâches humaines à côté de la destination religieuse de la victime. [A/B]
+
+### XVII.22. *Iliade* V, 339–342 : les dieux ne mangent pas de pain — extrait de la section 46 de l'étude parallèle
+
+Dans l'épisode de la blessure d'Aphrodite, *Iliade* V, autour des vers 339–342, l'ichor divin est expliqué par la différence de régime : les dieux ne mangent pas de pain et ne boivent pas de vin comme les hommes. La précision contredit toute généralisation naïve selon laquelle les Grecs auraient tous conçu le sacrifice comme apport physiologique de calories aux Olympiens. Le corps divin possède un autre statut. Cette conception peut coexister avec des récits de repas divins et des offrandes cultuelles : il faut accepter la pluralité des niveaux narratifs plutôt que déclarer le système uniformément illogique. [A/B]
+
+### XVII.23. *Hymne homérique à Hermès* 112–141 : le dieu qui désire sans manger — extrait de la section 47 de l'étude parallèle
+
+Le jeune Hermès invente un feu, abat deux vaches d'Apollon, les fait cuire et répartit les morceaux en douze parts. Le texte dit qu'il désire le fumet ou la chair, mais qu'il ne la mange pas. La scène peut être lue comme un récit sur l'attribution des honneurs et des parts divines ; elle ne reproduit pas nécessairement une pratique sacrificielle « première » historiquement attestée. La lecture de Dominique Jaillard et celle d'études du culte des Douze Dieux soulignent des enjeux de statut, de cuisine et de partage. [A/B]
+
+### XVII.24. Des dieux invités : les Dioscures — extrait de la section 48 de l'étude parallèle
+
+Pausanias III, 16.2–3 rapporte une tradition où les Dioscures apparaissent comme visiteurs demandant à être logés, puis où leurs images et une table garnie sont découvertes. Le récit est tardif et merveilleux ; il est particulièrement utile pour l'idée du dieu comme hôte, mais ne constitue pas la preuve directe d'une théoxénie de toutes les cités anciennes. La relation entre hospitalité privée, statut des héros et présence de signes religieux peut être comparée à d'autres systèmes de repas cultuel, en conservant la différence documentaire. [A/B]
+
+### XVII.25. Le banquet divin chez Homère n'est pas un banquet humain — extrait de la section 49 de l'étude parallèle
+
+La poésie épique représente des dieux qui festoient, goûtent des boissons propres à leur condition et partagent des relations de cour. Ces scènes ne se traduisent pas en un manuel de nutrition divine. Le contraste avec *Iliade* V montre que le langage de la nourriture peut caractériser simultanément la proximité des dieux avec les hommes et la distance de l'immortalité. La philosophie gagne à ne pas écraser cette tension par une seule réponse au titre de l'étude. Le mythologue décrit des mondes de parole et leurs usages, pas un régime alimentaire commun à tous les êtres surnaturels. [B/P]
+
+### XVII.26. *Šĕlāmîm* : ne pas plaquer un « repas de paix » — extrait de la section 52 de l'étude parallèle
+
+Le terme hébreu שְׁלָמִים (*šĕlāmîm*) reçoit selon les éditions des rendus tels que sacrifice de bien-être, de communion ou de paix. Ces traductions mettent l'accent sur des aspects différents et ne constituent pas une preuve de sémantique unique. Il faut tenir compte du contexte juridique et liturgique avant de comparer avec la *thysia* grecque. Les règles des parties réservées au prêtre, au fidèle et à l'autel peuvent ressembler fonctionnellement à un partage, mais leur théologie et leur histoire normative restent distinctes. [A/B]
+
+### XVII.27. *Leḥem* et la métaphore alimentaire — extrait de la section 53 de l'étude parallèle
+
+Le mot hébreu לֶחֶם (*leḥem*) peut désigner le pain ou la nourriture suivant le contexte, et apparaît dans l'expression de nourriture de l'oblation en *Lévitique* 3, 11. Il ne faut pas conclure automatiquement que le texte attribue à Dieu une faim biologiquement humaine. La formulation organise l'acte d'offrir et les parties qui deviennent réservées. La lecture théologique peut insister sur la souveraineté du destinataire plutôt que sur son besoin. Les manuscrits, traductions et traditions d'interprétation doivent être distingués de l'analyse anthropologique. [A/B]
+
+### XVII.28. Le pain de présentation et les institutions — extrait de la section 54 de l'étude parallèle
+
+*Lévitique* 24, 5–9 prescrit la préparation de pains disposés devant la divinité et leur affectation sacerdotale. La présence d'un aliment placé devant Dieu ne permet pas de déduire que les dieux babyloniens et le Dieu d'Israël sont conçus selon la même physiologie. En revanche, elle ouvre une comparaison institutionnelle contrôlable : cadence, destinataire, présentation, retrait et droit de consommation. Les différences doctrinales sont fondamentales, et le corpus biblique contient également des critiques de certaines pratiques sacrificielles. [A/B]
+
+### XVII.29. L'archéologie des résidus — extrait de la section 64 de l'étude parallèle
+
+Les traces organiques sur des récipients, les graines et les ossements peuvent éclairer les denrées traitées, mais leur interprétation dépend du contexte de dépôt. Un os près d'un sanctuaire peut être le vestige d'un repas, d'une offrande, d'une activité artisanale ou d'une accumulation secondaire. Les analyses des surfaces et des sédiments doivent être confrontées aux inscriptions et à l'architecture. Une hypothèse sur l'alimentation divine est plus forte lorsqu'elle bénéficie de preuves convergentes que lorsqu'elle ne repose que sur une image de banquet. [I/H]
+
+### XVII.30. La question de la datation — extrait de la section 65 de l'étude parallèle
+
+Le papyrus Berlin 3055 date d'une phase précise du culte d'Amon ; la table de Lisht appartient au Moyen Empire ; les textes de repas d'Uruk reflètent en partie l'époque séleucide ; l'*Iliade* et la *Théogonie* appartiennent à la poésie grecque archaïque sous des formes transmises longtemps après. Une comparaison ne peut traiter ces documents comme s'ils provenaient du même siècle. Le temps historique doit rester une variable visible : des similitudes fonctionnelles ne prouvent pas un emprunt direct. [A/B]
+
+### XVII.31. Le témoignage iconographique n'est pas la totalité du geste — extrait de la section 66 de l'étude parallèle
+
+Un relief montre une scène choisie, parfois idéalisée. Le roi égyptien offrant devant Amon peut être représenté là où le service réel était accompli par un prêtre local. Un relief de Sippar met en scène la légitimité royale et la présence du dieu solaire, sans donner la liste complète du repas quotidien. L'image doit être confrontée à son inscription, son contexte architectural et son histoire de conservation. La critique des sources iconographiques n'en réduit pas la valeur ; elle lui restitue ses fonctions propres. [A/B]
+
+### XVII.32. Le temps : du repas quotidien à la fête — extrait de la section 82 de l'étude parallèle
+
+Un repas répété chaque matin entretient une continuité, tandis qu'une fête annuelle peut mettre en scène une abondance exceptionnelle. Confondre ces temporalités conduit à extrapoler des quantités de viande festives à l'économie quotidienne d'un sanctuaire. Les archives babyloniennes distinguent services réguliers et autres cérémonies ; les sources grecques décrivent des fêtes dont la mise en récit privilégie souvent l'extraordinaire. L'étude des consommations suppose une reconstruction du calendrier et des volumes, et non une simple addition de listes hétérogènes. [A/B]
+
+### XVII.33. Les contraintes écologiques — extrait de la section 83 de l'étude parallèle
+
+Pain, bière et viande ont des coûts en eau, en terres, en céréales et en travail. Une pénurie ou une guerre peut altérer le service du temple, modifier les rations et provoquer des choix institutionnels. Ces contraintes ne déterminent pas à elles seules les idées religieuses, mais elles expliquent certaines transformations des pratiques. Une économie rituelle ne peut être comprise sans les capacités concrètes d'approvisionnement. La comparaison devrait donc confronter, lorsque les archives le permettent, les niveaux de production et les dépenses cultuelles. [I/H]
+
+### XVII.34. Un protocole pour les objets — extrait de la section 84 de l'étude parallèle
+
+Chaque notice d'illustration doit préciser le musée, la provenance si elle est connue, le numéro d'inventaire, la date proposée, le matériau et les conditions de reproduction. Une table funéraire égyptienne ne doit pas être légendée « repas d'Amon » ; une tablette de restauration du culte de Šamaš ne doit pas être présentée comme une liste générale de recettes. Les images 2,5D écartées de MYTHOS ne doivent pas réapparaître. Les liens institutionnels prévalent sur les images sans attribution. [H]
+
+### Conclusion scientifique
+
+**[A]** Les sources attestent des tables cultuelles, des portions sacrificielles, des aliments et boissons présentés à des divinités, des formes diverses de combustion ou de libation et des conceptions textuelles divergentes de l'appétit divin. **[É]** Elles ne constituent pas un dossier homogène : inscriptions royales, textes mythiques, prescriptions sacerdotales, poésies épiques, commentaires rituels, prophétie et artefacts sont de nature et de date différentes. **[I]** L'offrande alimentaire sert simultanément à produire une relation, à séparer des catégories d'êtres, à organiser des métiers et à légitimer des détenteurs d'autorité. **[H]** La circulation interculturelle de tous ces dispositifs ne peut être présumée ; seules des chaînes de transmission démontrables autorisent une conclusion diffusionniste. **[P]** Nourrir un dieu qui ne dépend pas nécessairement de la nourriture révèle une expérience fondamentale du don : sa valeur ne se laisse épuiser ni par la substance cédée ni par le profit obtenu. La question décisive n'est donc pas seulement « que mangent les dieux ? », mais « quel monde social, moral et cosmique devient visible lorsqu'on leur prépare une table ? ».
+
+**Fin du dossier universitaire MYTHOS — MC-040.** Les numérotations et les autres séries restent hors du périmètre de ce dépôt.

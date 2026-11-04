@@ -1,0 +1,453 @@
+# MYTHOS — Mythologie comparée — Volume canonique CCXVI (216)
+
+## MC-041 — Le rêve fait-il le roi ? Songes de souveraineté, interprètes, légitimation politique et décision, de Gudea à Thoutmôsis IV, Ḫattušili III, Joseph, Daniel et Xerxès
+
+**Étude universitaire originale — 4 novembre 2026.** Collection MYTHOS, cycle comparatif : histoire des religions, philologie, histoire des institutions, philosophie politique et critique des sources.
+
+**Identifiant historique : MC-041**, distinct du numéro canonique romain réservé uniquement par le registre transactionnel GitHub. **Statut : manuscrit soumis**, non preuve de construction HTML ni d'accessibilité sur bobmythos.fr.
+
+**Continuité vérifiée en amont.** MC-024 Amon/Rê/Aton : CLXXXI (181) ; MC-025 Maât/Isfet : CLXXXIII (183) et compléments préservés ; MC-026 destin et nécessité : CLXXXVIII (188) ; MC-027 serments : CXCII (192) ; MC-028 peste et faute royale : CXCVI (196) ; MC-029 composantes de la personne : CXCIV (194) ; MC-030 juste souffrant : CCII (202) ; MC-031 anthropogonies : CXCIX (199) ; MC-032 mensonges divins : CXCVIII (198) ; MC-033 dieux absents : CC (200) ; MC-034 conseils divins : CCIV (204) ; MC-035 gardiens des seuils : CCVI (206) ; MC-036 morts et consultation : CCIX (209) ; MC-037 ordalies : CCXI (211) ; MC-038 messagers divins : CCVII (207) ; MC-039 textiles et parures divins : manuscrit antérieur ; MC-040 repas, nourriture et offrandes aux dieux : **un manuscrit principal préservé et complété**, doublon intégralement archivé, numéro canonique non confirmé lors de cette rédaction. La présente étude ne reprend pas le dossier encyclopédique « Origines du sacré » 517, consacré aux rêves en général : elle développe spécifiquement **la transformation d'une expérience onirique alléguée en décision souveraine publique, contrôlée ou contestée**.
+
+**Statut des propositions.** **[A]** fait documentaire direct (texte, datation, objet, passage clairement identifié) ; **[T]** problème de témoin, restitution, langue ou traduction ; **[I]** inférence historienne argumentée ; **[H]** hypothèse contestable, notamment transmission non démontrée ; **[P]** proposition philosophique contemporaine, sans attribution anachronique aux auteurs. L'existence d'une inscription disant qu'un dieu parla en rêve est un fait historique ; l'existence d'une intervention divine observable n'est pas prouvée par cette seule inscription.
+
+### Résumé scientifique
+
+Les récits anciens font parfois du rêve d'un chef l'origine d'une décision qui concerne des milliers de personnes. Gudea, prince de Lagaš, reçoit une vision de Ningirsu, qu'il ne comprend pas sans recourir à Nanše ; son rêve finit par légitimer un gigantesque chantier de temple. Thoutmôsis IV érige à Gizeh une stèle commémorant la promesse que le Grand Sphinx lui aurait faite avant son règne. Ḫattušili III présente sa destinée et l'avènement de sa maison comme protégés par Ištar, jusque dans des rêves transmis à ses parents ou reçus par lui. Le pharaon de Genèse 41 rêve de sept vaches et de sept épis : Joseph traduit ces images en politique de réserves céréalières et obtient un pouvoir de gouvernement. Daniel 2 représente un monarque troublé dont la vision d'une statue annonce la succession des empires ; le savoir de Daniel relativise l'autorité de la cour. Chez Hérodote, Xerxès hésite sur la guerre contre les Grecs ; un rêve contraignant est soumis à une sorte de test par Artabane. L'Iliade, enfin, rappelle qu'un roi peut recevoir un rêve trompeur.
+
+Le problème comparatif n'est pas seulement de constater que des souverains « croyaient aux songes ». L'autorité nocturne n'est pas donnée immédiatement : il faut **raconter une image privée, en fixer le sens, faire accepter l'interprète, produire une décision et la mémorialiser**. Le rêve passe d'une expérience invérifiable à une inscription publique, un récit de cour, une prophétie accomplie ou un avertissement guerrier. Ce passage est souvent soumis à conflit : un roi peut ne pas comprendre, ses spécialistes peuvent échouer, un conseiller peut contester le signe et la narration peut elle-même dire que le rêve est faux.
+
+**Thèse [I].** La valeur politique du rêve ne dépend pas uniquement de ce qu'il représente ; elle dépend surtout de **l'institution qui l'authentifie et de ceux qui assument l'action qu'il ordonne**. Les inscriptions royales, poèmes et livres bibliques sont des preuves de représentations et de stratégies de légitimité, non des procès-verbaux transparents de la vie nocturne des rois. Cette discipline comparative refuse les généalogies universelles non démontrées et conserve l'écart entre faits, interprétations et philosophie.
+
+---
+
+## I. La question historique : de la nuit au décret
+
+### 1. L'asymétrie originelle [I]
+Le rêve allégué est initialement inaccessible au reste de la communauté. Le dormeur rapporte une scène qu'aucun autre sujet n'a nécessairement vue. Un souverain peut demander que cette parole compte comme une preuve ; des conseillers peuvent la commenter, la contredire ou l'utiliser. Ainsi la question essentielle n'est pas seulement « qui a rêvé ? », mais « pourquoi ce récit devient-il recevable dans une institution ? ». Le texte de l'historien doit distinguer l'événement représenté de la vérification indépendante impossible de son contenu nocturne.
+
+### 2. Le rêve comme expérience et comme œuvre d'écriture [T]
+Une scène rêvée est mise en forme dans des mots : le récit choisit une chronologie, un décor, un interlocuteur divin, des images et une issue. Le cylindre de Gudea est un document votif de la période néo-sumérienne ; la stèle de Gizeh est un monument de règne ; la Genèse est une narration biblique ; l'histoire de Xerxès appartient à un auteur grec de plusieurs générations postérieures. Aucun ne restitue un rêve « brut ». Pour l'historien, la source est d'abord une **construction textuelle documentable**.
+
+### 3. Deux modalités : message clair et symbole à interpréter [I]
+Une puissance divine peut dire expressément ce qu'elle exige, comme Ištar dans la mémoire familiale de Ḫattušili. Mais le souverain peut aussi recevoir des images qui demandent une traduction : sept épis, une statue de métaux ou des personnages tenant des instruments. La différence compte : un message explicitement impératif interroge la véracité de son émetteur ; un rêve symbolique confère une autorité décisive à celui qui peut en donner le sens. Il ne faut pourtant pas imaginer deux catégories étanches, car les récits mélangent fréquemment parole, image et répétition.
+
+### 4. Trois temps de la preuve [T]
+La date du rêve raconté, celle de la rédaction et celle du support conservé ne coïncident pas nécessairement. Le jeune Thoutmôsis reçoit la promesse avant d'être roi mais la stèle est dressée pendant son règne. Daniel rêve une cour néo-babylonienne dans un livre dont les strates principales ont une histoire rédactionnelle beaucoup plus tardive. L'épisode de Xerxès est transmis par Hérodote, non par un rapport administratif achéménide. Le respect de ces décalages interdit de transformer toute prophétie littéraire en prédiction effectivement consignée avant son accomplissement.
+
+### 5. Une expérience peut être provoquée ou attendue [T]
+Certains textes évoquent des gestes préalables de prière, de purification et de repos dans un lieu sacré. D'autres présentent le songe comme une visite inattendue. La catégorie d'« incubation » est pertinente lorsque le rêve est volontairement sollicité, mais ne doit pas être appliquée sans preuve à toute scène nocturne. Le récit du second rêve de Gudea est articulé à des présages et à des gestes rituels ; Xerxès fait coucher Artabane dans un cadre royal pour tester une apparition. Les deux dispositifs ne sont pas identiques.
+
+### 6. Les paroles rapportées ne sont pas des archives de voix [A/T]
+Une inscription royale peut reproduire une phrase attribuée à un dieu ; une épopée peut donner de longs discours à un rêve personnifié. Cela constitue une attestation que l'auteur a **représenté** cette parole. L'histoire ne peut confirmer sa source surnaturelle par la seule fidélité de la formule. Les études doivent noter locuteur, destinataire, type de discours et variantes. Le sens d'un rêve passe à travers la langue, le genre et les conventions de la transcription.
+
+### 7. L'interprète est un acteur de gouvernement [I]
+Nanše donne au rêve de Gudea la forme d'un chantier ; Joseph prescrit le stockage de grains ; Daniel explique les métaux comme succession de royautés ; Artabane hésite puis modifie son conseil. Aucun n'est un simple dictionnaire automatique d'images. L'interprétation peut susciter des actes économiques, militaires ou cultuels. **Dire ce que signifie le rêve, c'est aussi participer à la définition de l'action jugée légitime**. Une comparaison politique doit inclure cette dimension du pouvoir des experts.
+
+### 8. Le principe de contrôle [I]
+L'étude comparera pour chaque dossier : source conservée, datation, statut du dormeur, présence d'un interprète, signe onirique, décision représentée, degré d'indépendance de l'attestation et effet narratif. Une même structure ne prouve pas une origine commune. Le parallèle entre une statue de Daniel et la construction d'E-ninnu doit être analysé sans inventer un scribe itinérant qui aurait transporté ces deux récits de l'un à l'autre.
+
+---
+
+## II. Gudea : le rêve d'E-ninnu et le travail royal
+
+### 9. Le cylindre A conservé au Louvre [A]
+Le **cylindre A de Gudea**, inventaire **MNB 1512**, fut découvert à Tello, l'ancienne Girsu. Le Louvre date ce témoin néo-sumérien vers **2120–2110 av. n. è.**, décrit la pièce comme un cylindre en terre cuite de soixante centimètres de hauteur et trente colonnes d'écriture cunéiforme. L'objet est un témoignage royal sur la construction d'E-ninnu et sur la place attribuée à la volonté de Ningirsu. Il n'est pas une photographie de l'expérience nocturne du prince. Source : https://collections.louvre.fr/ark:/53355/cl010124631 .
+
+### 10. Les deux séries d'édition [T]
+La traduction et la translittération du **corpus ETCSL 2.1.7**, *The Building of Ninĝirsu's Temple (Gudea, Cylinders A and B)*, sont accessibles à https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=t.2.1.7 . Une édition des inscriptions royales existe aussi dans ORACC : https://oracc.museum.upenn.edu/etcsri/Q000377/html . Les numéros linéaires ETCSL et les colonnes du cylindre ne doivent pas être confondus lorsqu'on cite une phrase. Le manuscrit MYTHOS utilise les repères ETCSL en l'annonçant explicitement.
+
+### 11. L'ordre de bâtir précède l'interprétation [A]
+Aux **lignes 1–16**, Enlil et Ningirsu situent la construction dans un horizon de décision divine. Le prince sera celui qui entreprendra un édifice digne du dieu. Ce cadre est important : le rêve qui suit ne surgit pas d'une volonté isolée du souverain, mais se rattache à une narration où le monde divin s'est déjà prononcé. La légitimité du projet est placée avant son organisation humaine, alors même que l'œuvre entière exalte l'intelligence, les ressources et le travail de Gudea.
+
+### 12. Le premier songe, lignes 17–23 [A]
+L'ETCSL **2.1.7, 17–23** raconte que Gudea, dans une vision nocturne, rencontre Ningirsu qui lui indique sa maison et son édification. Malgré sa large intelligence, le prince n'en saisit pas encore le sens complet. L'aveu de non-compréhension est structurant : le chef n'est pas présenté comme un interprète infaillible parce qu'il est chef. Il doit solliciter un autre savoir. Une narration de la compétence politique peut donc inclure une limitation reconnue de la connaissance du souverain.
+
+### 13. Nanše comme interprète spécialisée [A]
+Vers les **lignes 39–51**, Gudea annonce qu'il demandera à **Nanše** de rendre intelligible la vision. Après offrandes et déplacements, **lignes 90–100**, il parvient devant la déesse et la prie en soulignant la fiabilité de sa parole. Le texte attribue la compétence de déchiffrement à une puissance divine distincte de celle qui a donné l'ordre. Il ne suffit pas de voir Ningirsu ; il faut encore que Nanše dise comment transformer l'expérience en action légitime.
+
+### 14. Les images du rêve et l'écriture, lignes 101–123 [A]
+La vision contient un personnage immense, une femme tenant un stylet d'argent et une tablette d'étoiles, un autre personnage portant une tablette de lapis-lazuli et traçant un plan, des outils de construction et des figures animales. Ces images ne sont pas un décor gratuit : elles mettent en scène les compétences nécessaires à l'édification du temple. Le rêve présente, de manière symbolique, des savoirs dont l'interprétation a besoin : calcul, écriture, mesurage, planification et techniques de construction.
+
+### 15. Les identifications de Nanše, lignes 124–151 [A]
+Nanše explique que le grand personnage est Ningirsu ; le lever du jour renvoie à Ningišzida ; la femme au stylet représente Nisaba et la figure qui porte un plan Nindub. Elle donne aussi un sens aux objets de chantier. La séquence fournit un rare exemple de **lecture commentée à l'intérieur même d'une inscription royale** : le songe est rapporté, repris, traduit en figures reconnues, puis lié à un programme d'action. Cette structure évite l'idée d'une décision imposée sans médiation.
+
+### 16. L'interprétation devient planification [I]
+Le roi rassemble matériaux, ouvriers et ressources venues d'espaces divers. Son rêve, transmis à une spécialiste du sens, débouche sur une administration d'un chantier majeur. Mais l'inscription ne prouve pas à elle seule que chaque cargaison décrite arriva dans les conditions exactes de la narration. Elle sert de source à la fois sur le langage de la légitimation et sur les représentations économiques d'une entreprise cultuelle. Une histoire des constructions devra la confronter aux fouilles de Girsu.
+
+### 17. Une seconde vision et d'autres présages, lignes 543–550 [A]
+Gudea accomplit des gestes divinatoires avant de dormir de nouveau ; le texte raconte qu'il reçoit une autre vision où le temple semble déjà achevé. Le recours à plusieurs modes de confirmation montre que les décisions ne sont pas décrites comme conséquences d'un unique songe incompris. Dans la logique de l'inscription, la construction est progressivement autorisée par des signes convergents. On ne doit toutefois pas confondre cette confirmation narrative avec une vérification moderne d'une prophétie.
+
+### 18. La femme qui sait et le prince qui exécute [I/P]
+La répartition entre Nanše interprète et Gudea exécutant est philosophiquement significative. Le savoir efficace ne se situe pas tout entier dans la personne au pouvoir. Une lecture de l'institution peut y voir que l'autorité a besoin de médiateurs. Mais il serait impropre de tirer de l'autorité divine de Nanše l'affirmation que l'ensemble de la société de Lagaš possédait des institutions humaines égalitaires. Le récit sert d'abord à représenter un ordre cultuel et politique particulier.
+
+### 19. Le rêve écrit pour les générations [I]
+Graver l'histoire sur un cylindre transforme l'expérience prétendue de la nuit en archive du projet accompli. Le souverain rend sa décision lisible après coup et la rattache à une puissance fondatrice. Le rêve n'est donc plus seulement le signe reçu ; il devient un instrument de mémoire royale. La matérialité du cylindre compte autant que son thème : elle garantit la transmission d'une version officielle, mais non la transparence de toutes les intentions du souverain.
+
+---
+
+## III. Thoutmôsis IV : l'accession promise par le Sphinx
+
+### 20. Le monument est précisément situé [A]
+La stèle du Songe se dresse entre les pattes antérieures du Grand Sphinx à Gizeh. Le ministère égyptien du Tourisme et des Antiquités la rattache à **Thoutmôsis IV**, vers 1400–1390 av. n. è., qui fait du Sphinx une figure de **Horemakhet**, « Horus dans l'Horizon ». Source : https://egymonuments.gov.eg/en/monuments/the-great-sphinx/ . L'Université de Memphis donne également une notice sur la stèle et sur le contexte du plateau de Gizeh : https://www.memphis.edu/egypt/resources/colortour/giza4.php .
+
+### 21. Le rêve d'un prince devenu roi [A]
+Le texte rapporte que Thoutmôsis, alors encore prince, se serait reposé près du Sphinx et aurait reçu une promesse divine de souveraineté contre la restauration et le dégagement du monument ensablé. La stèle appartient au règne du pharaon, tandis que le songe raconté se situe avant son accession. Ce décalage est décisif : l'inscription annonce dans le passé une issue déjà réalisée lorsque le récit officiel est gravé.
+
+### 22. Le passé monumental comme source de pouvoir [I]
+Le Grand Sphinx est une œuvre de l'Ancien Empire, généralement liée à la IVe dynastie et à Khéphren, bien antérieure au Nouvel Empire. En racontant une rencontre près de lui, Thoutmôsis associe son pouvoir récent à une puissance et à un lieu beaucoup plus anciens. La restauration attribuée au roi apparaît comme service d'un dieu et comme contribution à la continuité du paysage sacré. Cette mise en relation a une portée politique que le détail des travaux d'ensablement ne suffit pas à épuiser.
+
+### 23. L'hypothèse de la succession contestée [H]
+La promesse divine est parfois interprétée comme réponse à une succession incertaine ou comme légitimation d'un héritier inattendu. Elle ne prouve toutefois pas, à elle seule, qu'un frère aîné fut écarté ou qu'une usurpation se produisit. Une enquête devrait rechercher des princes contemporains, des inscriptions et des indications sur la succession d'Amenhotep II. La stèle atteste la rhétorique d'un roi qui associe sa destinée à Horemakhet ; l'hypothèse d'un conflit dynastique demeure distincte.
+
+### 24. Le travail de restauration comme preuve visible [I]
+Le rêve est associé à une action matérielle localisable : déblayer et entretenir le Sphinx. L'inscription relie ainsi une promesse invérifiable à une intervention dont certaines conséquences peuvent être observées. Une telle association renforce la crédibilité publique du récit, mais il faut distinguer l'existence du monument restauré de l'origine surnaturelle alléguée du projet. Le contraste avec Gudea est instructif : l'un construit un temple, l'autre réactive le prestige d'un monument ancien.
+
+### 25. La stèle n'est pas le rêve [T]
+La pierre est un objet datable et photographiable ; elle n'est pas un enregistrement immédiat de la nuit du prince. Pour l'historien, elle prouve la proclamation d'une faveur et l'organisation d'un récit officiel, non l'accès aux images qu'un adolescent aurait réellement vues. Les photographies doivent être attribuées et leurs droits vérifiés avant publication. Aucun chiffre chronologique ne doit être établi à partir d'une restauration hypothétique de signes détériorés.
+
+---
+
+## IV. Chester Beatty III : interpréter des rêves hors du palais
+
+### 26. Le papyrus EA 10683 [A]
+Le **papyrus Chester Beatty III**, conservé au British Museum sous **EA 10683**, provient de Deir el-Médina et appartient au milieu ramesside. Une partie comprend un manuel hiératique d'interprétation des songes. Le projet *Science in Ancient Egypt* de l'Académie saxonne fournit une notice scientifique, des références d'édition et les caractéristiques du témoin : https://sae.saw-leipzig.de/en/documents/papyrus-london-bm-ea-10683-rto .
+
+### 27. Bon et mauvais présage [A/T]
+Le manuel associe des situations oniriques décrites par des formules conditionnelles à une qualification favorable ou défavorable et à un résultat attendu. Les mots égyptiens conventionnels **nfr** (favorable, bon) et **ḏw** (mauvais, néfaste) doivent être lus dans leur contexte graphique et syntaxique. Le document ne prouve pas l'exactitude des prédictions ; il est la trace d'un savoir et de ses méthodes de classement.
+
+### 28. Les propriétaires et les deux faces [A/T]
+La transmission du papyrus le rattache à des scribes de Deir el-Médina et à des réutilisations textuelles. Il faut distinguer les parties du recto, où se trouve le manuel, et les autres textes conservés au verso. Une photographie ne doit jamais être légendée « Livre des rêves » si elle montre en réalité une autre composition. Ce détail matériel souligne l'intérêt de travailler sur la cote exacte plutôt que sur un titre flottant.
+
+### 29. Un contrepoint méthodologique [I]
+Le manuel ne rapporte pas qu'un pharaon a reçu la promesse d'un trône. Il fournit des correspondances destinées à interpréter des visions possibles. Il permet donc de séparer deux objets : **la technique divinatoire ordinaire dans des milieux scribaux** et **le récit singulier d'autolégitimation d'un roi**. Le fait qu'ils coexistent dans l'Égypte du Nouvel Empire n'établit pas que la stèle de Thoutmôsis suit mécaniquement un paragraphe du papyrus Chester Beatty III.
+
+---
+
+## V. Ḫattušili III : autobiographie royale et faveur d'Ištar
+
+### 30. CTH 81, une « Apologie » au titre moderne [A/T]
+Le texte connu sous le nom d'***Apologie de Ḫattušili III*** est catalogué comme **CTH 81**. La désignation « apologie » est historiographique : le roi raconte ses actions dans une démarche de justification, sans que ce soit nécessairement le titre littéral d'un genre hittite défini par lui. L'Université du Texas à Austin fournit translittération, traduction et analyse morphologique de passages pertinents : https://lrc.la.utexas.edu/eieol/hitol/60 .
+
+### 31. Le rêve et la fragilité de l'enfant [A]
+Au **§ 3**, le roi raconte que, petit, sa santé était précaire et qu'une intervention onirique associée à Ištar lui permit d'être voué au service de la déesse. Le message implique sa famille, notamment Muršili II et Muwatalli. La traduction précise des personnes qui reçoivent ou transmettent le rêve doit être confrontée à la morphologie du texte : une paraphrase rapide peut inverser le dormeur et le messager. L'essentiel est que la protection divine est présentée comme antérieure à la carrière politique du souverain.
+
+### 32. Une destinée protégée et racontée après coup [I]
+Le roi rassemble différents épisodes de sa vie pour montrer que la faveur d'Ištar ne s'est pas interrompue. Un rêve d'enfance devient ainsi argument rétrospectif d'une carrière adulte. Sa force tient à la cohérence narrative : ce qui était incertain apparaît comme prédéterminé par une puissance supérieure. Une critique des sources ne doit pas réduire cette cohérence à une preuve de causalité divine, pas plus qu'elle ne doit inventer l'état intérieur de Ḫattušili en l'accusant d'un mensonge conscient sans preuve.
+
+### 33. Le mariage avec Puduḫepa [A]
+Au **§ 9**, Ḫattušili lie son mariage avec **Puduḫepa**, fille d'un prêtre de Lawazantiya, aux ordres et à la protection d'Ištar. Le texte rapporte aussi une apparition de la déesse lui demandant de la servir avec sa maison. Les rêves participent ainsi à une histoire dynastique, pas seulement à la santé du prince. La maison royale se présente comme investie d'un statut cultuel et d'une continuité privilégiée.
+
+### 34. L'accession contestée [A/I]
+Ḫattušili détrôna son neveu **Urḫi-Teššup**, connu comme Muršili III. Sa narration de protection divine appartient à un règne marqué par ce problème de légitimité. Le texte permet d'étudier comment un pouvoir disputé justifie sa présence : la faveur religieuse devient une réponse à la question du droit de gouverner. Une histoire événementielle complète demande les autres textes dynastiques et diplomatiques ; elle ne peut se contenter de l'autobiographie du vainqueur.
+
+### 35. L'écriture cunéiforme et le signe de rêve [T]
+Le hittite emploie des logogrammes empruntés à la tradition mésopotamienne, dont **Ù** dans des passages relatifs au songe, avec des compléments morphologiques hittites. L'écriture n'est pas la preuve qu'un auteur parlait effectivement sumérien dans son rêve. Elle témoigne d'un système scribal multilingue. La philologie doit donc distinguer les signes employés par le scribe, les mots de la langue hittite et les traductions modernes proposées par les éditeurs.
+
+### 36. Le rêve ne supprime pas les faits politiques [I/P]
+Un récit de protection céleste n'annule ni les rivalités de cour, ni les mariages, ni les alliances, ni les décisions guerrières. La lecture philosophique pertinente demande comment la revendication d'un mandat divin coexiste avec des actions dont des hommes assument les conséquences. Dans l'« Apologie », la religion n'est pas seulement une décoration du règne ; elle est un **langage de justification** que le roi choisit pour rendre ses actes acceptables.
+
+---
+
+## VI. Joseph : du rêve du pharaon à l'économie des réserves
+
+### 37. Trois ensembles de rêves dans la Genèse [A]
+Le récit de Joseph organise plusieurs cycles : ses propres songes de gerbes et d'astres (**Genèse 37,5–11**), les rêves du panetier et de l'échanson en prison (**40,5–23**), puis deux rêves du pharaon (**41,1–36**). Leur succession construit une histoire d'autorité croissante. Le lecteur connaît des interprétations dont les personnages débattent et voit leur rôle évoluer selon les circonstances.
+
+### 38. Le rêve peut aggraver un conflit [A/I]
+Les frères de Joseph interprètent les gerbes prosternées devant la sienne comme une revendication de domination. Le rêve n'est donc pas automatiquement accepté comme signe positif de légitimité ; il peut susciter rejet et violence. Ce contre-exemple interne à la tradition biblique interdit de présenter toute vision comme source immédiate de pouvoir. La crédibilité dépend des relations sociales autant que du contenu du message.
+
+### 39. La prison, lieu d'une expertise reconnue [A]
+Au chapitre **40**, Joseph interprète les rêves de deux fonctionnaires détenus. L'issue que le texte leur attribue valide narrativement ses explications et rend possible son rappel devant le pharaon. Il ne faut pas considérer cette confirmation interne comme vérification archéologique de l'existence de ces officiers. Le récit fait du souvenir d'une interprétation antérieure le mécanisme par lequel un prisonnier acquiert la réputation d'un conseiller exceptionnel.
+
+### 40. Les vaches et les épis du pharaon [A]
+En **Genèse 41,1–7**, sept vaches maigres dévorent sept vaches bien portantes ; sept épis desséchés absorbent sept épis pleins. Le pharaon s'inquiète et convoque ses spécialistes. Les deux visions associent la prospérité et la disparition soudaine d'une ressource. L'iconographie du Nil et du grain donne aux images leur apparence égyptienne dans le récit, mais ne constitue pas un registre agricole réel daté d'une année précise.
+
+### 41. L'échec des interprètes officiels [A/I]
+Au **verset 8**, les sages et magiciens ne parviennent pas à fournir de solution satisfaisante. Joseph entre dans la scène comme spécialiste extérieur à ce groupe. La narration fait ainsi de l'interprétation un lieu de compétition entre compétences et appartenances. On ne peut en inférer que les véritables lettrés égyptiens de toutes les époques ignoraient l'oniromancie, comme le montrent justement les manuscrits ramessides de rêves.
+
+### 42. La source de l'interprétation [A/T]
+Joseph déclare qu'il ne possède pas une faculté indépendante qui suffirait à expliquer le rêve ; il associe la réponse au Dieu qu'il sert (**41,15–16**). Le terme hébreu **ḥălôm** désigne le rêve ; la racine **p-t-r** intervient dans des termes liés à l'interprétation. Traduire cette scène comme simple victoire d'une méthode de devin sur une autre méconnaîtrait sa portée théologique : la compétence personnelle est présentée comme dépendante d'une révélation.
+
+### 43. Les sept années [A]
+En **41,25–32**, Joseph identifie les deux rêves à un seul avenir : sept années d'abondance suivies de sept années de famine. La répétition est présentée comme marque de fermeté de la décision divine. Cette règle appartient au discours biblique ; elle ne doit pas être étendue automatiquement à tous les rêves du Proche-Orient. Le texte propose une chronologie qui donne au dirigeant le temps d'agir avant la crise.
+
+### 44. L'interprétation devient programme administratif [A/I]
+En **41,33–36**, Joseph préconise de nommer un administrateur et de prélever des réserves durant les années favorables. La valeur politique du rêve s'exprime dans cette conversion d'un signe en **politique de stockage et de redistribution**. L'épisode est comparable à Gudea : le contenu du rêve fait surgir une tâche matérielle de grande ampleur. Mais le projet de Joseph concerne la subsistance du territoire, tandis que celui de Gudea vise un temple.
+
+### 45. Le conseiller devient gouvernant [A]
+Le pharaon reconnaît Joseph et lui donne de fortes responsabilités (**41,37–45**). L'autorité interprétative débouche sur une promotion politique. Il serait toutefois anachronique d'identifier Joseph à un ministre historiquement attesté ou de fixer la famine de sept ans à une date précise en l'absence d'archives indépendantes. La scène exprime une logique narrative où savoir révélé, fidélité et talent de gestion s'assemblent.
+
+### 46. Une politique du rêve ne garantit pas la justice [P]
+Une prévision peut être pertinente mais les moyens de répondre à la crise soulèvent encore des questions de redistribution, de pouvoir et de contrainte. Le récit de Joseph permet de distinguer la connaissance alléguée d'un avenir et la responsabilité du gouvernement. La philosophie contemporaine peut interroger l'asymétrie entre ceux qui détiennent les réserves et ceux qui en dépendent, sans attribuer une doctrine économique moderne à l'auteur de la Genèse.
+
+---
+
+## VII. Daniel : le songe qui relativise les empires
+
+### 47. La cour de Nabuchodonosor et la rédaction du livre [T]
+***Daniel* 2** situe un rêve au temps de Nabuchodonosor mais le livre possède une histoire rédactionnelle plus tardive ; la constitution de son état final est habituellement replacée dans les crises du **IIe siècle av. n. è.**, avec des matériaux de cour plus anciens ou retravaillés. Le contexte narratif babylonien et la datation de l'œuvre ne doivent pas être confondus. Le chapitre appartient à la portion araméenne du livre, dont la division linguistique mérite l'attention.
+
+### 48. Une statue composite [A]
+En **Daniel 2,31–35**, le roi rêve d'une grande statue : tête d'or, poitrine et bras d'argent, parties de bronze, jambes de fer et pieds mêlant fer et argile. Une pierre détruit l'image. L'interprétation se concentre sur une succession de royaumes et sur la fragilité de leur grandeur. Les détails des matériaux doivent être conservés ; une image moderne du rêve ne peut être présentée comme objet historique de la cour babylonienne.
+
+### 49. Le roi troublé et les experts menacés [A/I]
+Nabuchodonosor exige de ses spécialistes un savoir qu'ils déclarent ne pas pouvoir fournir. La scène expose l'inégalité du rapport entre pouvoir royal et connaissance savante : le monarque peut sanctionner ceux qui ne satisfont pas son attente. L'enjeu du récit n'est pas seulement une fascination pour le surnaturel, mais la limite des experts de cour. Le personnage de Daniel entre dans une compétition où la survie d'autres personnes dépend aussi de sa réponse.
+
+### 50. Le *rāz* et le *ḥelmā* [T]
+Dans l'araméen de Daniel, **ḥelmā** renvoie au songe et **rāz** au mystère ou secret révélé. L'édition doit distinguer les formes araméennes des termes hébreux des autres chapitres. Une traduction française uniforme par « rêve » et « explication » peut masquer la place d'une révélation concernant le sens de l'histoire. La langue du récit et sa transmission dans des versions grecques exigent un appareil critique.
+
+### 51. Daniel reçoit et expose [A]
+En **2,17–23**, Daniel prie, puis rend grâce pour la révélation du mystère. Il se présente ensuite devant le roi et fournit une explication qui attribue le savoir à une puissance supérieure. La scène fait du conseiller un intermédiaire plutôt qu'un savant autoproclamé sans limites. Cette posture le rapproche de Joseph dans la construction littéraire, sans fournir à elle seule une preuve de dépendance directe de chaque détail.
+
+### 52. Les métaux et la durée des royaumes [A/I]
+En **2,36–45**, les différents matériaux figurent une succession d'empires, puis l'apparition d'un royaume durable qui n'est pas fondé par des mains humaines. Les identifications précises proposées pour chaque métal varient selon les commentateurs et leurs perspectives historiques ou confessionnelles. L'historien du livre doit les replacer dans le temps de la rédaction plutôt que de prendre l'image comme un calendrier empirique de toutes les futures monarchies.
+
+### 53. La reconnaissance publique [A]
+La fin du chapitre met en scène une promotion de Daniel et la reconnaissance de son savoir (**2,46–49**). Là encore, le songe privé du dirigeant conduit à redistribuer le statut de ses conseillers. La comparaison avec Joseph est significative : un personnage en situation d'extériorité gagne une influence institutionnelle. Les divergences entre les deux récits doivent cependant être maintenues, notamment leur traitement de l'histoire et de la révélation.
+
+### 54. Daniel 4 : le roi peut lui-même être jugé [A/I]
+Le chapitre **4** emploie un rêve d'arbre abattu pour traiter de l'abaissement d'un souverain. Il ne faut pas confondre les numérotations des versions du texte sans préciser l'édition suivie. Le songe n'est plus seulement un moyen de prévoir des régimes succédant au roi ; il représente un jugement sur son comportement. Le thème du rêve de souveraineté comprend donc aussi la limitation, voire la contestation, de l'orgueil royal.
+
+---
+
+## VIII. Hérodote : Xerxès, Artabane et la vérification d'un rêve
+
+### 55. Le dossier des *Histoires* VII, 5–19 [A/T]
+Hérodote raconte des débats au sujet de la guerre contre les Grecs. Les scènes appartiennent à une œuvre grecque composée après les événements, non à un procès-verbal conservé de la cour achéménide. Elles sont importantes pour comprendre comment un historien grec met en scène la décision d'un grand roi perse, ses conseillers et les forces qui paraissent dépasser leur volonté.
+
+### 56. Le rêve du roi hésitant, VII, 12 [A]
+Après avoir envisagé d'abandonner l'expédition, Xerxès reçoit une apparition nocturne exigeant qu'il maintienne le projet. Le rêve intervient précisément après une délibération humaine. Ce placement narratif lui donne la fonction d'un contre-argument puissant : il semble venir confirmer une direction que le souverain hésite désormais à suivre. Sa valeur historique est celle d'un récit rapporté par Hérodote ; aucune archive perse indépendante ne confirme nécessairement la scène.
+
+### 57. Menaces et répétition, VII, 14–15 [A]
+La vision réapparaît et menace Xerxès s'il renonce. Le pouvoir du roi apparaît paradoxalement limité : il peut commander une armée, mais ne serait pas libre de se soustraire à ce qui lui est annoncé. La scène ne prouve pas que Xerxès était incapable de décision autonome ; elle montre comment Hérodote construit une histoire mêlant initiative humaine, contrainte divine et responsabilité dans un désastre politique.
+
+### 58. Artabane réclame l'épreuve [A]
+Dans **VII, 15–17**, Artabane met en doute la signification de l'apparition. Xerxès lui fait revêtir ses vêtements royaux, prendre place sur le trône et dormir dans son lit afin que le rêve vienne, ou non, à lui. Le dispositif introduit une véritable **vérification narrative** : le conseiller ne doit pas seulement croire le roi, il doit partager l'expérience. La crédibilité du signe devient matière de débat entre deux personnes de statut inégal.
+
+### 59. La même apparition atteint le conseiller [A]
+En **VII, 17**, Artabane voit l'apparition qui le menace à son tour. Son opinion change. L'épisode organise la légitimation d'une décision guerrière par la convergence de deux témoignages personnels. Mais l'historien contemporain ne peut tester le phénomène surnaturel raconté. Il peut seulement étudier ce que fait la scène dans l'architecture d'une histoire où la décision royale mène à une catastrophe.
+
+### 60. Hybris, divinité et critique de l'impérialisme [I]
+L'*Encyclopaedia Iranica* analyse le passage comme participant d'une critique de la démesure royale dans la narration d'Hérodote : https://www.iranicaonline.org/articles/herodotus-vii/ . Le rêve ne constitue pas seulement une justification de la guerre ; il met aussi le lecteur face à la question d'une puissance qui ne sait pas reconnaître ses limites. Une interprétation qui opposerait simplement les « Perses crédules » aux « Grecs rationnels » manquerait les choix narratifs du propre auteur grec.
+
+### 61. Le conseiller n'est pas souverain de la vérité [I]
+Artabane commence par contester le signe, puis l'expérience qu'il rapporte le conduit à conseiller la guerre. Le récit montre que le jugement de l'expert dépend aussi d'une scène de reconnaissance. Une lecture philosophique peut y voir la fragilité de l'expertise lorsque la preuve disponible ne se distingue pas d'un message intimement vécu. Cela ne signifie pas qu'Hérodote proposait une expérimentation contrôlée au sens scientifique contemporain.
+
+---
+
+## IX. Contre-exemple grec : Zeus peut envoyer un faux rêve
+
+### 62. *Iliade* II, 1–41 [A]
+Zeus envoie à Agamemnon un rêve trompeur prenant l'apparence du conseiller Nestor. Le narrateur donne au public la connaissance de la tromperie avant que le roi ne reçoive le message. Le cas appartient déjà au volume **MC-032**, consacré aux ruses divines ; il est repris ici seulement comme **contre-exemple méthodologique**. Ni la puissance royale du dormeur ni la source divine supposée ne garantissent la vérité ou l'utilité du contenu d'un rêve.
+
+### 63. La responsabilité du roi ne disparaît pas [I]
+Agamemnon agit dans un monde où les dieux influent sur les décisions, mais le poème donne aussi un rôle aux conseils, aux conflits et aux jugements humains. Une lecture qui déchargerait systématiquement le roi parce qu'un rêve fut envoyé simplifierait la structure morale de l'épopée. De la même manière, l'invocation d'Ištar par Ḫattušili ne supprime pas les faits politiques de son accession au trône.
+
+### 64. Les portes de corne et d'ivoire [A/T]
+Dans ***Odyssée* XIX, 560–569**, Pénélope distingue deux catégories de rêves au moyen des portes de corne et d'ivoire. Le passage a donné lieu à d'importants débats sur les jeux étymologiques et les valeurs de vérité. Il ne faut pas en faire une doctrine grecque universelle sur tous les songes. Il confirme néanmoins l'existence d'un discours littéraire ancien qui distingue l'apparition nocturne de sa réalisation effective.
+
+---
+
+## X. Tableau scientifique des régimes d'autorité
+
+| Source | Signe nocturne | Interprète ou témoin | Acte politique concerné | Nature de la preuve | Risque d'erreur |
+| --- | --- | --- | --- | --- | --- |
+| Gudea, cylindre A | Ningirsu, instruments et personnes symboliques | Nanše ; présages complémentaires | Construction d'E-ninnu | Cylindre royal conservé, texte 2.1.7 | Confondre le récit du rêve et l'exécution matérielle |
+| Thoutmôsis IV | Promesse attribuée au Sphinx/Horemakhet | Le prince devenu roi, inscription | Accession et restauration du monument | Stèle de règne, récit d'un rêve antérieur | Prendre une prophétie gravée après coup pour une attestation préalable |
+| Chester Beatty III | Images typiques de rêves | Système de présages du manuel | Savoirs interprétatifs, sans un roi déterminé | Papyrus hiératique EA 10683 | En déduire la pratique uniforme d'un souverain |
+| Ḫattušili III, CTH 81 | Interventions d'Ištar | Parents, roi, narration royale | Consécration, mariage, légitimité | Autobiographie de justification | Confondre plaidoirie et témoignage désintéressé |
+| Genèse 41 | Sept vaches, sept épis | Joseph, se référant à Dieu | Réserves, nomination, gouvernement de crise | Narration biblique | Dater arbitrairement une famine de sept ans |
+| Daniel 2 | Statue de métaux et pierre | Daniel, révélation divine | Succession des empires, statut du sage | Récit de cour à rédaction complexe | Décrire un texte tardif comme une archive de Nabuchodonosor |
+| Hérodote VII | Apparition contraignante | Xerxès puis Artabane | Décision d'envahir la Grèce | Histoire grecque postérieure | Assimiler les discours d'Hérodote à des minutes perses |
+| *Iliade* II | Rêve menteur sous les traits de Nestor | Agamemnon, public informé par le narrateur | Stratégie militaire erronée | Épopée, dispositif d'ironie | Supposer que tout songe divin dit vrai |
+
+### 65. Trois preuves, trois statuts [I]
+Le cylindre de Gudea et la stèle de Gizeh sont des monuments directement attestés ; un rêve peut y servir une autorité publique. Le papyrus de Deir el-Médina est un répertoire de savoirs qui ne raconte pas l'action d'un monarque précis. Les récits bibliques et grecs font agir des personnages dans des constructions littéraires dont les manuscrits sont postérieurs aux temps racontés. Comparer suppose de maintenir ces statuts distincts tout en examinant des questions communes.
+
+### 66. De l'image privée à la décision collective [I]
+Le rêve commence par une asymétrie de perception. Sa signification, cependant, dépend d'institutions qui excèdent le dormeur : interprète, cour, temple, conseil, inscription, fonctionnaire. Le roi devient sujet d'un message qu'il ne peut nécessairement comprendre seul. L'image ne devient politiquement efficace qu'en étant racontée, validée, puis traduite en tâches que d'autres accompliront. Ce processus est le cœur de l'étude.
+
+### 67. Une confirmation peut n'être que narrative [I]
+L'issue heureuse du chantier de Gudea, l'accession déjà accomplie de Thoutmôsis et les réussites attribuées à Joseph appartiennent à des récits où le résultat confirme le sens du rêve. Ces confirmations sont importantes pour l'analyse littéraire et religieuse, mais elles ne constituent pas toutes des vérifications indépendantes de la capacité surnaturelle du dormeur. Il faut distinguer cohérence d'une œuvre et démonstration historique d'une causalité.
+
+### 68. Le rêve n'impose pas une seule forme de vérité [I]
+Un dieu peut parler clairement, une image peut réclamer une solution symbolique, une apparition peut mentir, une double vision peut donner au personnage un sentiment de certitude. Il n'existe pas de définition unique de la vérité onirique que l'on puisse imposer à toutes les traditions. Une grille comparative rigoureuse indique **qui accorde crédit à qui et pourquoi**, avant de faire de l'interprétation un concept universel.
+
+---
+
+## XI. Philologie : mots, scripts, transmissions et traductions
+
+### 69. Sumérien : la vision nocturne et la décision [T]
+Dans l'ETCSL, les passages de Gudea emploient une terminologie du songe et de son contenu intérieur, avec des formes qui demandent consultation de la translittération. On cite fréquemment **maš-ĝi₆** comme terme lié au rêve ; les signes et indices doivent cependant être vérifiés dans l'édition du passage considéré. La phrase de Ningirsu et les images racontées ne sont pas identiques, et cette différence constitue une partie essentielle du dossier.
+
+### 70. Gudea et la parole répété[e] [T]
+Le récit raconte une vision, puis la répète lors de sa communication à Nanše, puis en donne l'identification. Une édition doit distinguer chaque instance de discours afin de ne pas fabriquer une citation composite que le texte n'aurait jamais présentée au même endroit. La répétition peut jouer un rôle de confirmation et de mémoire ; elle ne prouve pas que le souverain avait, physiologiquement, conservé des mots identiques à ceux de son expérience initiale.
+
+### 71. Égyptien : le rêve et Horemakhet [T]
+La stèle utilise un langage épigraphique de souveraineté et une titulature solaire propre au Nouvel Empire. Le nom **Ḥr-m-ꜣḫt**, Horemakhet, ne doit pas être réduit à une traduction vague de « dieu du soleil » qui effacerait l'histoire cultuelle du Grand Sphinx. Les portions détériorées du monument doivent rester distinguées des restitutions modernes. L'étude d'une promesse dépend d'une édition de la stèle, pas d'une légende photographique.
+
+### 72. Papyrus Chester Beatty III : signes bons et mauvais [T]
+Les interprétations de ce manuel classent notamment les songes selon les valeurs **nfr** (bon, favorable) et **ḏw** (mauvais). Une phrase conditionnelle précède sa qualification puis son interprétation. La translittération doit être présentée avec les colonnes exactes de l'objet ; les photographies de différentes faces du papyrus ne correspondent pas toutes au manuel de rêves. Il ne faut pas transformer les rubriques d'un catalogue en un système universel appliqué à tous les Égyptiens.
+
+### 73. Hittite : Ù et les compléments phonétiques [T]
+Les passages oniriques de l'« Apologie » emploient le signe cunéiforme **Ù** avec compléments hittites. Les graphies de chancellerie sont culturellement composites ; elles ne signifient pas que le discours original du roi était en sumérien. L'analyse grammaticale de *Hittite Online* aide à identifier les destinataires, les formes verbales et les éléments d'un récit transmis par plusieurs personnes. La précision philologique interdit de confondre Ištar, le frère du futur souverain et le père.
+
+### 74. Hébreu : *ḥălôm* et l'interprétation [T]
+La Genèse emploie **ḥălôm** pour le rêve ; la racine **p-t-r** intervient dans les expressions d'interprétation. Les traductions françaises doivent maintenir la différence entre rêve raconté, question posée et décision de politique agricole. Joseph attribue l'accès au sens à Dieu, mais propose concrètement une solution administrative. Une lecture qui ferait du texte une simple science des signes manquerait sa théologie narrative ; une lecture qui gommerait Joseph manquerait son action humaine.
+
+### 75. Araméen de Daniel : *ḥelmā*, *rāz* [T]
+Les mots de rêve et de mystère sont centraux dans la portion araméenne de Daniel, dont la transmission se distingue des sections hébraïques. Leur traduction doit être contrôlée verset par verset ; un même mot français peut recouvrir plusieurs constructions araméennes. L'enjeu n'est pas seulement la compréhension d'une image, mais la revendication d'un savoir sur le cours des empires. Les éditions et les versions grecques peuvent modifier certaines lectures.
+
+### 76. Grec : les apparitions et les rêves [T]
+Dans Hérodote, les mots de vision et d'apparition sont intégrés au style indirect, à la tradition rapportée et aux discours des personnages. L'analyse du lexique grec, de **óneiros** à **ópsis** selon les passages, ne peut être remplacée par le terme français « hallucination ». Les rêves de Xerxès sont racontés dans un dispositif historiographique ; ceux d'Agamemnon appartiennent à une épopée. Les catégories narratives déterminent leur portée.
+
+### 77. Les falsifications involontaires de la traduction [T]
+Employer partout « oracle », « prophétie », « symbole » ou « songe » avec une même nuance pourrait créer des analogies artificielles. À Girsu, le rêve contient outils et figures de divinités ; en Égypte, une stèle affirme une promesse ; dans Daniel, une statue devient histoire des empires ; chez Hérodote, une vision menace. Il faut annoncer les mots sources et leur valeur locale avant de proposer une synthèse française.
+
+---
+
+## XII. Historiographie et comparatisme critique
+
+### 78. Oppenheim et les songes anciens [A]
+**A. Leo Oppenheim, *The Interpretation of Dreams in the Ancient Near East* (1956)**, demeure fondamental pour l'histoire de l'oniromancie, des manuels de présages et des traditions mésopotamiennes. Sa distinction entre rêves-messages et rêves symboliques est utile, mais ne doit pas devenir une loi classificatoire sans exceptions. Les nouvelles éditions et la connaissance des témoins invitent à considérer leur genre, leur contexte et leur éventuelle fonction politique.
+
+### 79. La philologie des textes hittites [T]
+Les songes royaux de CTH 81 s'inscrivent dans une culture où écriture, rituel, histoire dynastique et relations politiques se croisent. Les études d'**Alice Mouton** sur les rêves en Anatolie et les éditions de l'« Apologie » permettent de nuancer la lecture de l'ouvrage comme simple propagande. La critique examine les formes de la faveur divine, sans supposer que tous les souverains hittites revendiquaient des expériences nocturnes identiques.
+
+### 80. Szpakowska et l'Égypte du rêve [A]
+**Kasia Szpakowska, *Behind Closed Eyes* (2003)**, a étudié les rêves et les cauchemars dans l'Égypte ancienne. Le papyrus Chester Beatty III, conservé en contexte scribal, rappelle que le rêve n'est pas seulement un instrument d'intronisation. Il est aussi objet de savoir technique et d'expérience personnelle. L'histoire sociale de la lecture des présages doit être distinguée des inscriptions royales qui sélectionnent une scène unique pour construire une mémoire politique.
+
+### 81. Des rêves littéraires, non des registres administratifs [T]
+Joseph, Daniel et Xerxès sont des personnages de récits dont les écrivains organisent les scènes en fonction de débats sur l'autorité, la justice et le pouvoir. Des détails crédibles d'architecture de cour ne suffisent pas à transformer ces œuvres en archives directes. Il faut examiner formation des textes, copies, commentaires et réception. La connaissance de l'Égypte ou de Babylone dans un récit peut être historiquement significative sans garantir chaque geste rapporté.
+
+### 82. La filiation ne découle pas d'un motif universel [H]
+Un roi qui rêve, un sage qui explique et une décision de gouvernement forment une structure assez générale. La retrouver en plusieurs lieux ne prouve pas un récit primitif unique diffusé de Sumer jusqu'à l'Empire perse et à la Bible. L'hypothèse d'emprunt demanderait des ressemblances verbales rares, des chaînes de contact plausibles et des dates compatibles. Une comparaison exigeante doit être capable de s'arrêter là où les preuves manquent.
+
+### 83. Des prophéties accomplies après l'événement [I/T]
+La stèle de Thoutmôsis IV, gravée après sa montée au trône, présente une promesse que l'issue du récit confirme. Ce mécanisme est aussi un problème pour les narrations bibliques, dont les récits du passé peuvent être structurés à partir de connaissances ultérieures. La recherche doit donc distinguer **événement prédit selon l'œuvre** et **prédiction historiquement prouvée antérieure à l'événement**. L'intensité de la narration n'abolit pas cette distinction de méthode.
+
+---
+
+## XIII. Lecture philosophique : véridiction, expertise et responsabilité
+
+### 84. Hegel : la reconnaissance d'une autorité [P]
+Le thème de la reconnaissance peut éclairer les récits où une parole nocturne doit être acceptée par une communauté. Gudea a besoin de Nanše ; Joseph du pharaon ; Artabane d'une expérience complémentaire. Une lecture hégélienne y verrait la médiation nécessaire d'une autorité qui ne peut se produire seule. Ce cadre est moderne : il ne démontre pas que les scribes sumériens pensaient la dialectique de l'esprit au sens de Hegel.
+
+### 85. Nietzsche : l'interprétation et le pouvoir [P]
+Les réflexions de Nietzsche sur l'interprétation et la valeur accordée à la vérité peuvent aider à demander pourquoi une vision devient crédible et avantage certains acteurs. L'« Apologie » hittite est susceptible de transformer une usurpation politiquement problématique en destin divinement encadré. Il serait toutefois abusif de conclure que l'auteur mentira nécessairement de propos délibéré. La critique des intérêts discursifs n'est pas un diagnostic psychologique.
+
+### 86. Ricœur : l'événement raconté après coup [P]
+La philosophie du récit de Paul Ricœur aide à distinguer temps du fait, temps de la narration et horizon d'attente créé par celle-ci. Un songe annoncé comme prophétique après son résultat peut rendre une vie royale lisible comme destinée. Mais ce cadre ne confirme pas l'origine surnaturelle du rêve ; il explique comment le texte produit une cohérence entre événement allégué, action et mémoire.
+
+### 87. Foucault : qui peut dire le vrai ? [P]
+Les « régimes de véridiction » constituent une grille contemporaine permettant de comparer les procédures de reconnaissance du vrai : oracle de Nanše, sages de cour, prophète biblique, conseiller de Xerxès. Le concept ne doit pas être directement attribué à l'Égypte ou au Hatti. Son intérêt est de demander quels dispositifs rendent une parole autorisée : statut religieux, réputation de savoir, vérification narrative ou inscription monumentale.
+
+### 88. Arendt : responsabilité malgré la révélation [P]
+La revendication d'un ordre divin peut sembler déplacer la responsabilité hors du chef. Pourtant le gouvernement consiste toujours à faire travailler, lever des ressources, entreposer le grain ou lancer une guerre. La lecture d'Arendt sur l'action et la pluralité permet de souligner que les conséquences collectives ne s'effacent pas devant l'origine alléguée d'une décision. **Le rêve peut expliquer comment le souverain justifie sa conduite ; il ne suffit pas à démontrer que cette conduite était juste.**
+
+### 89. La compétence de l'interprète n'est pas neutralité [P]
+L'interprète peut modifier l'issue politique. Joseph ne se contente pas de décrire sept années : il prescrit des réserves ; Daniel ne se limite pas à identifier des matériaux : il juge la durée de l'empire ; Artabane, en changeant d'avis, contribue au lancement d'une guerre. La compétence donne un pouvoir, mais ne garantit pas que celui qui la possède soit extérieur aux conflits sociaux. C'est la grande question philosophique de la délégation de la vérité.
+
+### 90. Une politique ne devient pas juste parce qu'elle est intelligible [P]
+Interpréter un rêve peut rendre prévisible une menace, mais la réponse demande encore une évaluation morale. Construire un temple exige des ressources ; accumuler du grain peut créer des dépendances ; engager la guerre peut condamner des vies. Le dossier permet une distinction entre **savoir annoncé**, **action possible** et **action juste**. La lecture philosophique demeure une confrontation moderne, non une proposition textuellement commune à toutes les civilisations étudiées.
+
+---
+
+## XIV. Iconographie scientifique : preuves visuelles et limites
+
+Les propositions suivantes ne sont **pas** des images déjà intégrées à MYTHOS. Aucune photographie de musée ne doit être reproduite sans vérifier sa licence, son crédit et son inventaire ; aucune reconstitution 2,5D ni scène hypothétique présentée comme photo historique.
+
+### 91. Cylindre A de Gudea — Louvre MNB 1512 [A]
+**Notice muséale :** https://collections.louvre.fr/ark:/53355/cl010124631 . **Légende :** « Cylindre A de Gudea, MNB 1512, terre cuite, néo-sumérien, vers 2120–2110 av. n. è., Tello/Girsu ; inscription de la construction d'E-ninnu et du rêve de Ningirsu. » L'objet documente l'écrit royal, pas une photographie du songe.
+
+### 92. Plan philologique des visions de Gudea [A]
+**Sources :** ETCSL 2.1.7, lignes 101–151, https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=t.2.1.7 ; ORACC, cylindre A, https://oracc.museum.upenn.edu/etcsri/Q000377/html . **Figure nouvelle proposée :** quatre colonnes « image — identification de Nanše — compétence technique — passage ». Indiquer qu'il s'agit d'une construction scientifique moderne.
+
+### 93. Stèle du Songe de Thoutmôsis IV [A]
+**Sources :** https://egymonuments.gov.eg/en/monuments/the-great-sphinx/ et https://www.memphis.edu/egypt/resources/colortour/giza4.php . **Légende :** « Stèle monumentale de Thoutmôsis IV entre les pattes du Grand Sphinx à Gizeh ; inscription du Nouvel Empire présentant une promesse divine de royauté. » La photographie doit être attribuée et les conditions de reproduction contrôlées.
+
+### 94. Manuel Chester Beatty III — British Museum EA 10683 [A]
+**Source :** https://sae.saw-leipzig.de/en/documents/papyrus-london-bm-ea-10683-rto ; photographie de collection selon partie inventoriée https://www.britishmuseum.org/collection/object/Y_EA10683-3 . **Légende :** « Papyrus hiératique de Deir el-Médina, XIXe dynastie, répertoire d'interprétation de rêves, avec sections favorables et défavorables ». Vérifier le recto précis du fragment photographié.
+
+### 95. L'« Apologie » de Ḫattušili III [A]
+**Source :** University of Texas at Austin, texte de CTH 81 https://lrc.la.utexas.edu/eieol/hitol/60 . **Visuel :** une transcription scientifique de deux passages du rêve (§§ 3 et 9), sans attribuer une photographie de tablette anonyme à l'œuvre. Le tableau mentionnera les destinataires, la graphie Ù et les réserves de traduction.
+
+### 96. Joseph et les réserves du pharaon [A]
+**Source :** Genèse 41, https://bible.usccb.org/bible/genesis/41 . **Figure scientifique originale :** séquence « deux rêves — explication de sept années — organisation du stockage — accession de Joseph à l'administration ». Une peinture médiévale ou moderne peut illustrer la réception de la Genèse, mais ne doit jamais être présentée comme document de la cour pharaonique.
+
+### 97. Daniel, la statue onirique [A]
+**Source :** Daniel 2, https://www.sefaria.org/Daniel.2 . **Figure proposée :** schéma de la statue où chaque matériau est relié à sa référence de verset et aux problèmes d'identification historique des empires. La figure doit mentionner « représentation moderne explicative », sans donner l'apparence d'une découverte archéologique.
+
+### 98. Xerxès et Artabane chez Hérodote [A]
+**Source :** Hérodote VII, 12–18, https://adfonteslibrary.org/herodotus-3 . **Figure originale proposée :** diagramme « débat politique — première vision — test par Artabane — révision du conseil ». Le résumé visuel ne doit pas suggérer qu'il existe une tablette perse enregistrant cette scène.
+
+### 99. Tableau général des statuts des sources [I]
+Un comparatif documentaire final réunira : cylindre royal, stèle de règne, manuel hiératique, autobiographie hittite, histoire de Joseph, composition araméenne et récit grec. Pour chacun seront indiqués la date du support, la date alléguée de l'événement, le rôle de l'interprète, l'action décrite et les limites de la preuve. Cette figure est un instrument critique, non un récit d'influence directe entre tous les peuples.
+
+---
+
+## XV. Bibliographie de travail, sources primaires et critique
+
+### Corpus primaire, catalogues et éditions
+1. **Musée du Louvre**, « Cylindre A de Gudea », **MNB 1512**, https://collections.louvre.fr/ark:/53355/cl010124631 .
+2. **ETCSL, Université d'Oxford**, *The Building of Ninĝirsu's Temple (Gudea, Cylinders A and B)*, **2.1.7**, https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=t.2.1.7 .
+3. **ORACC / Electronic Text Corpus of Sumerian Royal Inscriptions**, *Gudea Cylinder A*, https://oracc.museum.upenn.edu/etcsri/Q000377/html .
+4. **Ministère égyptien du Tourisme et des Antiquités**, « The Great Sphinx », et stèle de Thoutmôsis IV, https://egymonuments.gov.eg/en/monuments/the-great-sphinx/ .
+5. **University of Memphis, Institute of Egyptian Art and Archaeology**, « The Great Sphinx », https://www.memphis.edu/egypt/resources/colortour/giza4.php .
+6. **Science in Ancient Egypt / Sächsische Akademie der Wissenschaften**, *Papyrus Chester Beatty III*, **EA 10683**, https://sae.saw-leipzig.de/en/documents/papyrus-london-bm-ea-10683-rto .
+7. **British Museum**, *Papyrus Chester Beatty III*, **EA10683-3**, https://www.britishmuseum.org/collection/object/Y_EA10683-3 .
+8. **University of Texas at Austin**, *Hittite Online*, leçon 6, *Apology of Hattusilis III*, **CTH 81**, https://lrc.la.utexas.edu/eieol/hitol/60 .
+9. **Bible hébraïque**, *Genèse* 37,5–11 ; 40,5–23 ; 41,1–57, https://bible.usccb.org/bible/genesis/41 ; texte hébreu https://www.sefaria.org/Genesis.41 .
+10. **Bible hébraïque / sections araméennes**, *Daniel* 2 et 4, https://www.sefaria.org/Daniel.2 .
+11. **Hérodote**, *Histoires* VII, 5–19, texte et traduction https://adfonteslibrary.org/herodotus-3 .
+12. **Homère**, *Iliade* II, 1–41 ; *Odyssée* XIX, 560–569, éditions philologiques grecques à consulter.
+
+### Études universitaires, histoire de la transmission et historiographie
+13. **Oppenheim, A. Leo**, *The Interpretation of Dreams in the Ancient Near East, with a Translation of an Assyrian Dream-Book*, *Transactions of the American Philosophical Society* 46/3, 1956, p. 179–373.
+14. **Hamori, Esther J., et Jonathan Stökl (dir.)**, *Perchance to Dream: Dream Divination in the Bible and the Ancient Near East*, Society of Biblical Literature, 2018, https://www.sbl-site.org/wp-content/uploads/2024/12/9780884142874_OA.pdf .
+15. **Metcalf, Christopher**, « Horn and Ivory: Dreams as Portents in Ancient Mesopotamia and Beyond », dans Hamori–Stökl, 2018, p. 9–26.
+16. **Mouton, Alice**, « Portent Dreams in Hittite Anatolia », dans Hamori–Stökl, 2018, p. 27–42.
+17. **Ede, Franziska**, « Dreams in the Joseph Narrative », dans Hamori–Stökl, 2018, p. 91–108.
+18. **Stökl, Jonathan**, « Daniel and the “Prophetization” of Dream Divination », dans Hamori–Stökl, 2018, p. 133–156.
+19. **Szpakowska, Kasia**, *Behind Closed Eyes: Dreams and Nightmares in Ancient Egypt*, Classical Press of Wales, 2003.
+20. **Gardiner, Alan H.**, *Hieratic Papyri in the British Museum. Third Series: Chester Beatty Gift*, Londres, 1935.
+21. **Edzard, Dietz Otto**, *Gudea and His Dynasty*, RIME 3/1, University of Toronto Press, 1997.
+22. **Bryan, Betsy M.**, *The Reign of Thutmose IV*, Johns Hopkins University Press, 1991.
+23. **van den Hout, Theo P. J.**, études et édition de l'« Apologie » de Ḫattušili III ; collationner les traductions du texte CTH 81 avant citation littérale.
+24. **Hoffner, Harry A., Jr.**, travaux sur la littérature et les institutions hittites, à confronter aux éditions du CTH.
+25. **Redford, Donald B.**, *A Study of the Biblical Story of Joseph (Genesis 37–50)*, Brill, 1970.
+26. **Rabel, Magnus**, « Dreaming big: On expanding dreams, hubris, and the character of the biblical Joseph », *Journal for the Study of the Old Testament*, 2024, https://journals.sagepub.com/doi/10.1177/03090892231222025 .
+27. **Collins, John J.**, *Daniel: A Commentary on the Book of Daniel*, Hermeneia, Fortress Press, 1993.
+28. **Newsom, Carol A., avec Brennan W. Breed**, *Daniel: A Commentary*, Old Testament Library, 2014.
+29. **« Scribal Revelations in Ancient Judaism »**, *Religions* 15/1, 2024, https://www.mdpi.com/2077-1444/15/1/131 .
+30. **Briant, Pierre**, *Histoire de l'Empire perse. De Cyrus à Alexandre*, Fayard, 1996.
+31. **Encyclopaedia Iranica**, « Herodotus VII: Xerxes according to Herodotus », https://www.iranicaonline.org/articles/herodotus-vii/ .
+32. **Oppenheim, A. Leo**, « Mantic Dreams in the Ancient Near East », contribution sur les rêves divinatoires et la tradition assyriologique à contrôler sur l'édition imprimée.
+
+### Lectures philosophiques modernes, explicitement étrangères aux sources antiques
+33. **Hegel, G. W. F.**, *Phénoménologie de l'esprit*, 1807.
+34. **Nietzsche, Friedrich**, « Vérité et mensonge au sens extra-moral », 1873 ; *La Généalogie de la morale*, 1887.
+35. **Ricœur, Paul**, *Temps et récit*, 1983–1985.
+36. **Arendt, Hannah**, *The Human Condition*, 1958 ; *Between Past and Future*, 1961.
+37. **Foucault, Michel**, *Du gouvernement des vivants*, cours de 1979–1980, édition 2012.
+38. **Detienne, Marcel**, *Comparer l'incomparable*, Seuil, 2000.
+
+**Règle bibliographique :** les liens vers des éditions primaires et des catalogues inventoriés constituent les bases de vérification documentaire de ce dossier. Les études et monographies non consultées intégralement ne sont pas invoquées comme preuves d'une citation précise à la page près. Les versions des textes, les lacunes, les dates et les droits photographiques doivent être contrôlés avant la mise en page publique.
+
+---
+
+## XVI. Synthèse et conclusion : le roi ne gouverne pas en dormant
+
+**[A] Attestations.** Un cylindre de Gudea existe et relate le rêve de Ningirsu, expliqué par Nanše ; une stèle à Gizeh représente la promesse de royauté de Thoutmôsis IV ; l'« Apologie » de Ḫattušili III rattache sa vie à Ištar et à des songes ; des récits bibliques font interpréter les visions du pharaon et de Nabuchodonosor ; Hérodote raconte les rêves de Xerxès et d'Artabane ; Homère connaît aussi le rêve trompeur. L'existence de ces textes n'est pas la preuve d'une intervention divine matériellement vérifiée.
+
+**[T] Philologie.** Les inscriptions sumériennes, la stèle égyptienne, le récit hittite, l'hébreu de la Genèse, l'araméen de Daniel et le grec d'Hérodote relèvent de contextes linguistiques et de transmissions différents. La date du rêve raconté ne doit pas être confondue avec celle de l'inscription ou de la composition qui l'énonce. Les traductions ne doivent ni gommer les médiateurs ni homogénéiser le mot « rêve ».
+
+**[I] Histoire des institutions.** La valeur publique du rêve dépend de sa mise en récit, d'une interprétation reconnue et d'une décision qui suit. La vision privée acquiert une portée politique à travers le temple, la cour, le conseil, l'inscription ou la tradition littéraire. L'interprète peut devenir un personnage décisif : il est parfois plus puissant sur le sens que le dormeur lui-même.
+
+**[H] Hypothèses historiques.** Les traditions du Proche-Orient ont pu échanger des procédés d'interprétation et des modèles narratifs, mais la simple structure commune « un souverain rêve et demande conseil » ne prouve pas la filiation des textes. Les mécanismes de transmission et les contacts doivent être démontrés séparément.
+
+**[P] Lecture philosophique.** Le rêve comme source proclamée du pouvoir ouvre le problème de la vérité en politique : **qui a le droit de dire ce que signifie une expérience que personne d'autre ne peut vérifier ?** La réponse dépend de la confiance, du savoir, de l'écrit et de la responsabilité. Construire un temple, administrer des récoltes ou engager une armée reste un acte humain dont les conséquences ne disparaissent pas parce qu'une voix supérieure a été invoquée.
+
+**Note éditoriale.** Ce manuscrit apporte un angle spécifique au corpus MYTHOS ; il ne remplace pas les anciens chapitres sur les rêves sacrés ou la ruse divine. Il ne réserve aucun numéro romain. Une attribution canonique, un build réussi, le rendu HTML et la disponibilité publique sur bobmythos.fr doivent être vérifiés séparément. Les autres séries automatiques et leurs horaires sont laissés inchangés.
+
+*Fin de la monographie universitaire MC-041 — 4 novembre 2026.*

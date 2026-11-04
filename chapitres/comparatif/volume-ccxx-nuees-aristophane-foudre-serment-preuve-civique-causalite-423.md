@@ -1,0 +1,397 @@
+# MYTHOS — Cycle comparatif universitaire — Volume CCXX (220)
+
+## Le ciel peut-il témoigner ? *Les Nuées* d'Aristophane : météorologie, serment, dette et autorité de la preuve dans la démocratie athénienne
+
+**Monographie philologique, historique et philosophique originale — 4 novembre 2026.**
+
+**Corpus primaire délimité.** Aristophane, *Nephelai* (*Les Nuées*), en particulier v. 239–269, 291–423, 804–830, 1214–1250, 1410–1431 et 1452–1511 ; Hésiode, *Travaux et les Jours*, v. 202–285, et *Théogonie*, v. 775–806 ; Platon, *Apologie de Socrate*, 18b–19e ; Xénophon, *Mémorables*, I, 1, 1–18 ; Thucydide, III, 82–83. Les rapprochements servent à contrôler un problème et non à reconstruire une représentation perdue.
+
+**Question directrice.** Une explication physique du tonnerre rend-elle moins crédible le serment garanti par Zeus ? Et si une parole peut se détacher de sa sanction religieuse, comment distinguer la recherche légitime des causes naturelles de son exploitation intéressée par celui qui refuse de payer ses dettes ? La comédie ne résout pas cette question par une simple opposition entre foi et raison : elle produit, à l'intérieur du spectacle, des arguments, des objections, des analogies douteuses et une épreuve de responsabilité.
+
+**Originalité au sein de MYTHOS.** Les dossiers déjà consultables comprennent l'étude théâtrale AR-CO-003 sur *Les Nuées* (deux versions, Socrate fictif, éducation et conflit familial), sa monographie sur la première version, les études comparatives CXCV sur les sycophantes et CCIII sur la parabase, ainsi que CCX sur la captation de la souveraineté dans *Les Cavaliers*. Ce nouveau dossier ne refait ni l'intrigue, ni la biographie supposée de Socrate, ni la compétition des deux Discours, ni une histoire générale de la démagogie. Il isole **la chaîne qui va de la causalité atmosphérique à la crédibilité de l'engagement verbal** : qu'est-ce qu'une preuve, qu'est-ce qu'un garant, que fait une société quand un individu prétend être devenu trop savant pour croire à ses promesses ? La pièce est étudiée à partir d'une matrice de problèmes, et non vers par vers à nouveau.
+
+### Résumé scientifique
+
+L'échange sur Zeus, les Nuées, le tourbillon et la foudre occupe une position conceptuellement singulière dans la comédie. Strepsiade arrive au Pensoir pour apprendre un discours qui lui permettra d'éluder ses obligations. La contestation des dieux conventionnels surgit d'abord lorsque l'invocation divine, proposée comme garantie du paiement des leçons, est refusée par le Socrate comique. Une démonstration météorologique ensuite transforme les Nuées en cause de la pluie, le tourbillon en principe de déplacement, et un phénomène électrique en effet de forces matérielles. Le nom d'un dieu est ainsi concurrencé par un vocabulaire des mécanismes. Mais ce changement n'est pas politiquement neutre pour un débiteur qui préférerait n'être lié par aucune promesse. L'argument de Socrate contre l'intervention de Zeus dans le châtiment des parjures pose un réel problème de régularité observable : pourquoi la foudre frappe-t-elle des chênes et des temples plutôt que tous les menteurs ? Rien ne prouve pourtant qu'une explication physique juste suffirait à défaire les conventions morales et juridiques. Strepsiade accomplit précisément ce saut illégitime lorsqu'il tourne en ridicule le serment de son créancier.
+
+La présente étude décrit successivement les niveaux de langue, la structure des preuves proposées, les modalités des serments, les rapports entre nature et norme, la fonction épistémique du chœur, la transmission polémique du Socrate comique et la portée philosophique de la fable. Elle montre que la question fondamentale n'est pas « faut-il croire à Zeus ? » mais « à quelles conditions une cause, une justification et une obligation peuvent-elles être reconnues comme distinctes ? ». Le dénouement laisse en outre subsister une difficulté : la reconnaissance de sa propre faute ne rend pas acceptable l'incendie de l'école.
+
+### Protocole de vérification et conventions
+
+- **[A] Attesté :** mots, épisodes ou données présents dans les passages anciens localisés, ou dans la documentation bibliographique contrôlée.
+- **[É] Philologie :** lecture attentive d'une leçon grecque et de sa fonction, sans postuler une étymologie ou une traduction unique lorsque l'emploi est équivoque.
+- **[I] Inférence :** hypothèse interprétative argumentée à partir de passages attestés, non présentée comme une parole explicite de l'auteur.
+- **[H] Hypothèse ouverte :** relation possible que les sources disponibles ne permettent pas de démontrer.
+- **[P] Comparaison philosophique :** catégorie moderne destinée à interroger une configuration antique, sans transfert rétrospectif de doctrines.
+- **[L] Limite :** absence de preuve, état fragmentaire, divergence d'édition ou impossibilité de transformer une scène comique en compte rendu institutionnel.
+
+Les courtes séquences grecques reproduites ci-dessous ont été contrôlées sur l'édition grecque consultable d'Aristophane et renvoient à des numéros de vers explicites. Les autres passages sont **paraphrasés** ; on ne présente ni citation française inventée ni traduction moderne non vérifiée comme une leçon antique. Les études dont seul le résumé scientifique est accessible sont identifiées comme telles.
+
+## I. Le texte et son problème historique : une comédie contre l'usage abusif d'une explication
+
+### 1. Une représentation en 423, un texte conservé remanié [A/L]
+
+*Les Nuées* ont été présentées aux Grandes Dionysies de 423 avant notre ère et n'ont remporté que la troisième place. La tradition manuscrite nous transmet une version postérieurement remaniée ; on ne dispose pas du texte intégral joué en 423. Les hypothèses antiques signalent notamment des remaniements affectant la parabase, le débat des Discours et le dénouement. La recherche discute l'étendue de cette révision, sa chronologie et l'éventualité d'une nouvelle performance. Le travail de Jeffrey Henderson et le chapitre consacré à la « palinodie » dans *Aristophanes and the Poetics of Competition* convergent sur un point décisif : il faut distinguer le concours initial de l'état reçu. Le présent dossier attribue donc les vers à la **pièce transmise**, jamais avec certitude à ce que les spectateurs virent exactement en 423. L'état révisé a lui-même une histoire et peut juxtaposer des couches de réaction au public.
+
+### 2. La guerre ne transforme pas toute conversation sur la pluie en pamphlet électoral [A/I]
+
+L'Athènes des années 420 se trouve en guerre avec Sparte ; la cité débat des ressources, des alliances, des responsabilités et de l'autorité des dirigeants. Ces conditions rendent sensibles les enjeux de persuasion et de confiance, mais elles n'autorisent pas à lire chaque mot de Socrate comme une attaque codée contre un magistrat. La pièce déplace d'abord vers la maison endettée et l'apprentissage privé des problèmes qui intéressent aussi une collectivité de citoyens : payer, promettre, convaincre, croire une explication. La valeur politique de l'épisode est **médiate**. Il n'y a pas, dans la scène météorologique, de séance de l'Assemblée ni de procès réel. Le théâtre ouvre une expérience sur les conditions du jugement public à partir d'un homme particulier. Le passage du foyer à la cité est notre interprétation comparative et doit demeurer expressément signalé.
+
+### 3. Il faut résister à deux lectures contraires mais également trop faciles [I]
+
+La lecture « Aristophane condamne toute science » se heurte au fait que les objections météorologiques sont intelligibles et parfois logiquement sérieuses. La lecture « Aristophane célèbre la libération rationnelle » se heurte aux motivations financières de l'élève, à la fragilité de plusieurs analogies et à la requalification du tort moral à la fin. On peut rire d'une argumentation qui est efficace à un niveau tout en devenant inadmissible à un autre. La comédie travaille précisément cette disjonction. Elle ne propose pas une théorie scientifique positive que le spectateur devrait adopter, pas plus qu'elle ne prescrit une constitution théocratique. L'expérience dramatique consiste à soumettre au rire l'articulation entre savoir, autorité et conduite.
+
+### 4. Le corpus doit être hiérarchisé [A/L]
+
+Première source : le texte grec des *Nuées*, avec ses épisodes, ses acteurs et sa stratification rédactionnelle. Deuxième niveau : la tradition archaïque d'Hésiode, qui associe justice, serment, Zeus et sanction, sans être une « loi attique » applicable de plein droit. Troisième niveau : la défense de Socrate chez Platon et Xénophon, textes postérieurs, polémiques ou apologétiques, dont on ne déduit pas une biographie commune. Quatrième niveau : l'historiographie moderne et les comparaisons philosophiques. Ces niveaux ne se remplacent pas. Un élément de vocabulaire comique ne prouve pas l'existence d'un professeur d'athéisme ; une parole de Platon n'annule pas le personnage théâtral ; une référence à Nietzsche ne transforme pas la dramaturgie du Ve siècle en généalogie de la morale déjà formulée.
+
+## II. L'engagement verbal avant la météorologie : la première crise du serment
+
+### 5. Le besoin d'une ruse précède le changement de cosmologie [A]
+
+Strepsiade cherche à échapper aux créanciers : ce n'est pas la contemplation désintéressée du ciel qui le conduit au Pensoir. Lors de l'entretien avec Socrate, il réclame l'art de ne rien restituer et propose de payer son maître en prenant les dieux à témoin (v. 239–246). L'ordre des causes compte. La première volonté est de frauder ; la nouvelle physique apparaît ensuite. Si la comédie établissait d'abord un savoir indifférent, puis un usage criminel indépendant, on pourrait opposer clairement recherche et instrumentalisation. Ici, l'intérêt privé est déjà logé dans la demande de formation. La question n'est donc pas « la science corrompt-elle un homme honnête ? », mais « pourquoi un homme intéressé recherche-t-il une technique de parole et comment apprend-il à s'en servir ? ».
+
+### 6. « Par quels dieux jureras-tu ? » : le court-circuit du contrat [A/É]
+
+Aux v. 247–248, Socrate interrompt l'engagement et refuse que les dieux traditionnels constituent une monnaie valide dans son école : **« ποίους θεοὺς ὀμεῖ σύ; »**, puis **« θεοὶ ... νόμισμʼ οὐκ ἔστι »**. *Omein* renvoie à l'acte de jurer ; *theoi* aux dieux invoqués ; *nomisma* à ce qui a cours, ce qui est reconnu par convention, et par extension à une monnaie. La métaphore est particulièrement aiguë dans une scène construite autour d'un salaire et d'une dette. Il n'est pas nécessaire de faire dire au vers que toute monnaie est imaginaire, ni que les Athéniens du siècle étaient devenus sceptiques. Il suffit de constater que la garantie proposée n'est pas recevable par le partenaire de l'échange. Le comique tient au fait que la dévaluation touche précisément le support qui devait crédibiliser le paiement.
+
+### 7. *Nomisma* : monnaie, coutume et convention, mais pas encore théorie du contrat social [É/I]
+
+La proximité de *nomisma* avec le champ du *nomos* invite à considérer un ordre de reconnaissance commune. Une monnaie fonctionne parce qu'une communauté l'accepte ; une formule de serment ne lie que si son invocation possède un poids pour les intéressés et leur milieu. Ce parallèle est puissant, mais n'autorise pas à traduire mécaniquement le mot par « convention juridique » en toute circonstance. Strepsiade rebondit sur l'image monétaire en évoquant des pièces de fer de Byzance (v. 248–249). Le mot devient ainsi un objet de malentendu volontaire : il désigne à la fois la croyance commune et le moyen matériel de paiement. La scène conteste d'abord la valeur de l'instrument d'une promesse, non la possibilité de toute obligation morale. Cela deviendra crucial lorsque le débiteur se prendra pour un homme affranchi du remboursement.
+
+### 8. L'école introduit une contradiction contractuelle [I]
+
+Le maître semble refuser le gage que l'élève propose, mais il n'abolit pas le travail qui motive leur relation : enseigner suppose une prestation et la question de son paiement ne disparaît pas. On peut donc demander si l'école serait capable de fonctionner dans une communauté où nul engagement ne possède de valeur. Ce n'est pas une objection extérieure, inventée par un juriste moderne : elle découle de la juxtaposition interne entre le prix de la formation et la mise en doute de la formule d'assurance. La comédie exploite une asymétrie : la compétence critique est recherchée pour désactiver les obligations envers autrui, non pour établir des règles communes que l'élève accepterait aussi contre ses propres intérêts.
+
+### 9. Jurer n'est pas simplement affirmer [É]
+
+Un énoncé descriptif prétend rapporter ce qui est ; un serment ajoute un acte d'engagement dont la violation doit avoir une portée. L'invocation divine peut donner un témoin, une crainte, une publicité symbolique ; elle ne dispense pas d'un contexte institutionnel. Les Grecs anciens connaissaient une variété de serments, de formules familières, d'engagements solennels et de situations judiciaires. Il serait imprudent de supposer qu'une même expression était toujours tenue pour une promesse juridiquement exécutoire. Alan H. Sommerstein a précisément étudié la variété des serments informels dans la comédie et, particulièrement, *Les Nuées*. Notre question est plus circonscrite : comment une **explication des phénomènes célestes** permet-elle au personnage de déplacer les conditions de crédibilité d'une parole, puis de confondre absence de punition immédiate et absence de dette ?
+
+## III. La physique comique comme débat sur les procédures de preuve
+
+### 10. La pluie : passer d'un agent personnel à une condition visible [A/I]
+
+Aux v. 365–374, Socrate affirme la primauté des Nuées et demande à son élève s'il a jamais vu Zeus produire la pluie en l'absence de nuages. La structure argumentative, sous sa forme comique, oppose une cause personnelle invisible à une régularité météorologique observable. Si la pluie n'apparaît pas sans formation nuageuse, il est raisonnable d'interroger le rôle de celle-ci. L'argument ne démontre pas à lui seul que Zeus n'existe pas. Une corrélation régulière ne suffit pas à éliminer toutes les hypothèses d'une cause supplémentaire. Le Socrate comique **présente néanmoins** cette régularité comme une réfutation triomphale. Strepsiade accepte avec une rapidité qui amuse : il a reçu un signe d'intelligence plus qu'une procédure complète de vérification.
+
+### 11. Le personnage réclame des raisons mais n'exige pas leur contrôle [I]
+
+Strepsiade pose une vraie question : qui fait tomber la pluie, qui produit le tonnerre ? Il ne demande pas d'observer des saisons, de comparer des situations contraires, de formuler des prédictions risquées ou de corriger un modèle. Il passe immédiatement de l'ancienne explication à la nouvelle dès que celle-ci lui paraît habile. La scène peut ainsi représenter **une conversion d'autorité**, non un apprentissage méthodique de l'enquête. Le maître remplace le dieu comme dispensateur d'une explication, tandis que l'élève demeure dépendant d'une voix supérieure. La critique possible de la croyance traditionnelle n'entraîne pas automatiquement la constitution d'une raison autonome : on peut échanger un garant contre un autre sans apprendre à juger.
+
+### 12. Les Nuées : objets du monde, mais aussi déesses parlantes [A/I]
+
+La pièce ne met pas en scène seulement des nuages comme matière. Le chœur des Nuées est chantant, parlant, changeant et capable de répondre aux hommes. Cette dramaturgie trouble la séparation trop nette que nous établirions entre nature impersonnelle et agent divin. Socrate prétend désenchanter certaines puissances olympiennes tout en introduisant des divinités atmosphériques dans son enseignement. La comédie fait se rencontrer une réflexion sur la cause physique et une théâtralisation religieuse. Les Nuées ne sont pas des relevés météorologiques personnifiés de manière anodine : leurs interventions orientent le destin du débiteur, notamment lorsqu'elles lui imputent ses propres fautes (v. 1452–1462). Le problème de la responsabilité réapparaît donc **par la voix même de ce qui semblait d'abord une simple cause naturelle**.
+
+### 13. *Dinos* : le tourbillon devient un souverain [A/É]
+
+Au v. 380, le Socrate comique remplace l'action de Zeus par un **« αἰθέριος Δῖνος »**, « Tourbillon de l'éther ». Le substantif *dinos* désigne un mouvement tournoyant ; la réplique de l'élève joue bientôt sur l'idée d'un pouvoir royal déplacé. Il faut distinguer la description d'une rotation de l'affirmation selon laquelle une force serait un monarque. Le deuxième geste est humoristique : la cité des dieux reçoit un coup d'État météorologique. Une cause peut expliquer le déplacement de masses d'air sans pour autant légiférer ou punir. L'erreur future du débiteur consiste précisément à prendre l'explication d'un processus pour le fondement d'un nouvel ordre normatif. La comparaison avec la royauté n'est pas un fait de l'histoire des sciences ; elle est un artifice dramatique qui révèle la tentation de laisser une théorie du monde régner à la place d'un jugement.
+
+### 14. L'analogie corporelle : un petit ventre et un grand ciel [A/É]
+
+Aux v. 385–394, la démonstration du tonnerre passe par une comparaison burlesque entre les bruits intestinaux d'un homme repu et le fracas de l'atmosphère. Le mécanisme est supposé s'étendre du petit au grand : s'il peut y avoir vacarme dans un ventre, le ciel beaucoup plus vaste peut gronder davantage. Il s'agit d'un raisonnement **analogique** ; le rire surgit du choix trivial du terme de comparaison. L'analogie donne une image, pas une expérience décisive. Elle suppose que les deux phénomènes soient suffisamment semblables dans leurs causes, ce qui n'est pas prouvé sur scène. Aristophane fait ainsi sentir la puissance didactique de l'analogie et son risque : ce qui frappe l'imagination n'établit pas nécessairement la vérité du mécanisme.
+
+### 15. *Eikos* et la vraisemblance : une démonstration n'est pas un spectacle convaincant [É/I]
+
+La proximité entre un récit « plausible » et une cause « établie » constitue une zone de glissement essentielle. Le fait qu'un auditeur reconnaisse l'expérience du gargouillement ne prouve pas que l'explication du tonnerre repose sur la même causalité. Sans attribuer à la scène un traité grec de logique qu'elle n'est pas, on peut distinguer : l'observation (« il pleut avec les nuages »), l'inférence (« les nuages produisent la pluie »), l'analogie (« le ciel tonne comme un ventre »), l'exclusion d'une cause rivale (« donc Zeus ne fait rien ») et l'usage normatif (« donc jurer par Zeus ne compte plus »). Ces étapes ne sont pas interchangeables. La comédie permet justement de voir comment un personnage saute de l'une à l'autre sous l'effet de la confiance et de l'intérêt.
+
+### 16. La foudre et le problème du témoin impartial [A/I]
+
+Strepsiade revient au v. 395 sur le phénomène lumineux qui brûle et frappe. Selon son ancienne explication, Zeus dirigerait la foudre contre les parjures (v. 397). Ce passage ouvre une question de justice et non seulement de physique : le monde naturel manifesterait-il la culpabilité des hommes ? Le témoin humain entend un engagement ; le dieu, dans l'imaginaire de sanction, pourrait connaître le mensonge et le punir. Lorsque la foudre est naturalisée, la continuité entre événement extérieur et verdict moral cesse d'aller de soi. On ne peut pas déduire de la foudre l'identité de celui qui a menti ; l'événement ne fonctionne pas de lui-même comme une sentence judiciaire. Tel est le véritable enjeu politique du passage : qu'arrive-t-il à une société si elle a laissé croire que la nature certifie directement ses jugements ?
+
+### 17. « Pourquoi les parjures survivent-ils ? » : une objection qui compte [A]
+
+Aux v. 398–402, Socrate ironise sur la disproportion entre une règle supposée et les faits : des personnes réputées parjures échappent à la foudre, tandis que le feu touche des temples, le cap Sounion et de grands chênes. La formule **« οὐ γὰρ δὴ δρῦς γʼ ἐπιορκεῖ »** (v. 402, « un chêne ne se parjure pas ») condense le raisonnement par contre-exemple. L'objection est philosophiquement recevable contre une thèse **strictement distributive** selon laquelle chaque coup de foudre serait la sanction ciblée d'un faux serment. Il serait excessif d'en tirer que la comédie démontre l'inexistence de toute providence, l'absence de toute punition différée ou l'impossibilité de tout jugement divin. Le Socrate comique attaque une représentation particulière de la justice météorologique, et l'échec de cette représentation ne résout pas toutes les questions morales.
+
+### 18. Le temple frappé : un contre-exemple à double tranchant [A/I]
+
+Lorsque le Socrate comique mentionne le sanctuaire touché, il produit un effet plus troublant que l'exemple des arbres. Le lieu protégé par la divinité ne semble pas épargné par la violence du ciel. La proposition « le dieu ne frapperait pas sa propre demeure » ne démontre certes pas une théorie physique ; elle révèle cependant la difficulté de lire les catastrophes comme des marques transparentes de faveur ou de faute. Ce point peut nourrir une réflexion historique sur les limites de la divination des événements naturels. Il ne doit pas être transformé en récit de destruction d'un monument daté et localisé par l'archéologie : dans la pièce, le sanctuaire est un exemple argumentatif situé dans une farce, pas un procès-verbal de dommages.
+
+### 19. L'expérience de la vessie ou de la peau tendue [A/I]
+
+La suite de l'explication représente un vent enfermé dans les nuages, leur gonflement et leur rupture. La comparaison avec un contenant rempli d'air continue la pédagogie par images matérielles (v. 403–408). Strepsiade répond par un souvenir culinaire d'une enveloppe qui éclate et lui brûle le visage. La preuve semble proche, vécue, facile à raconter ; elle demeure médiatisée par un souvenir comique et une ressemblance partielle. Le mécanisme sophistiqué attribué au ciel ne doit pas être réinterprété comme préfiguration exacte de la science météorologique contemporaine. L'intérêt de l'épisode est la mise en scène de **la vérification par un exemple familier**. L'homme croit reconnaître le monde parce qu'il reconnaît une situation de cuisine.
+
+### 20. La différence entre cause et sanction [I/P]
+
+Il faut préserver une distinction élémentaire. Une cause efficiente est ce qui produit un événement dans un certain enchaînement ; une sanction est un acte ou un effet reconnu comme répondant à la violation d'une règle. L'un peut exister sans l'autre. Une foudre physique, même parfaitement comprise, n'établit ni ne retire directement l'obligation de rembourser ce qui a été emprunté. Inversement, un serment ne démontre pas l'exactitude d'une météorologie. La proposition centrale de notre étude est que la scène devient politiquement féconde lorsque ces deux ordres sont **confondus par un bénéficiaire de l'ambiguïté**. La critique de la personnification céleste pourrait libérer la recherche des causes ; Strepsiade veut surtout libérer son portefeuille. Ce déplacement est la faille logique que l'intrigue exploite ensuite.
+
+## IV. De l'expérience du ciel à l'expérience du crédit
+
+### 21. Les dettes précèdent les mots : une obligation n'est pas abolie par une formule [A/I]
+
+L'endettement de Strepsiade résulte de transactions et de dépenses domestiques dont l'ouverture de la pièce rend compte sur le mode burlesque. La dette ne naît donc pas du nom de Zeus. Elle existe avant que le débiteur sache réciter le discours sophistiqué qu'il désire acquérir. Cette chronologie empêche une erreur de méthode : l'abandon d'une garantie religieuse ne crée pas rétroactivement l'inexistence du prêt. Si un créancier peut rappeler une promesse passée, c'est que la communauté reconnaît déjà des actes de transfert et des attentes de restitution. Le débat sur le ciel agit alors comme stratégie secondaire, utilisée pour disqualifier un témoin invoqué, pour retarder une démarche ou pour rendre la plainte ridicule. La scène n'a pas besoin d'un tribunal officiel pour faire apparaître cette différence.
+
+### 22. Le créancier est un autre sujet, non un obstacle rhétorique abstrait [I]
+
+Dans l'épisode du remboursement (v. 1214 et suivants), le point de vue du débiteur occupe naturellement le premier plan : sa voix est inventive, ses plaisanteries progressent, sa victoire momentanée suscite le rire. Mais le prêt engage un interlocuteur. Le créancier perdrait quelque chose de réel si le mécanisme fonctionnait. Prendre au sérieux cette altérité ne revient pas à supposer que la comédie défend systématiquement les riches contre les pauvres : les motivations des prêteurs peuvent être diverses, la finance antique n'est pas assimilable au crédit bancaire contemporain, et le texte construit des caractères comiques. Il s'agit plutôt de constater que le discours appris n'est pas un jeu sans victime. **Un succès verbal peut produire un échec de réciprocité**. La scène oblige le spectateur à mesurer ensemble la réjouissance du triomphe et le coût moral de ce triomphe.
+
+### 23. Le cas de Pasias : transformer le serment en indice de crédulité [A]
+
+Le dialogue avec Pasias aux v. 1227–1244 rend explicite le lien que notre enquête suit depuis le Pensoir. Le prêteur rappelle qu'il a été promis de rembourser et mentionne l'engagement pris devant les dieux ; il demande si Strepsiade accepterait d'en jurer. Celui-ci déplace alors le débat vers la pertinence de ces dieux et, au v. 1241, traite Zeus invoqué dans un serment comme risible aux yeux de ceux qui savent. La scène ne documente pas un décret athénien rendant les serments caducs. Elle montre **la fabrication d'une supériorité symbolique** : le débiteur se présente comme possesseur d'un savoir devant lequel le langage de confiance de son partenaire devient archaïque. Le savoir est converti en capital d'intimidation.
+
+### 24. Le trois-oboles comique ne doit pas être confondu avec le salaire judiciaire [A/I]
+
+Strepsiade évoque trois oboles dans la plaisanterie sur l'acte de jurer (v. 1234–1235). Le rapprochement spontané avec les trois oboles des jurés athéniens peut être tentant, surtout si l'on vient d'étudier *Les Guêpes*. Mais les deux situations sont **distinctes** : ici, il s'agit d'une réplique du débiteur au créancier ; là, d'une satire du salaire civique. Aucune équivalence institutionnelle n'est démontrée par une même valeur monétaire. On peut y observer une ironie de la quantification du sacré, sans soutenir que le passage explique une réforme du misthos judiciaire. Cette précaution maintient l'autonomie de notre lecture et évite de répéter artificiellement le dossier déjà consacré à la rétribution des juges.
+
+### 25. La dette devient une épreuve de définition [A/I]
+
+Le débiteur ne se limite pas à répondre « je ne paierai pas ». Il interroge l'objet, détourne le langage courant et transforme le face-à-face financier en démonstration de virtuosité. Même sans reproduire toutes ses plaisanteries, on peut identifier la structure : le créancier demande un acte, le débiteur substitue des questions sur les mots ou sur les autorités qui légitiment la demande. Le problème n'est pas que le langage serait sans rapport avec la justice : le droit dépend nécessairement de formulations, de distinctions et de procédures. Le problème commence lorsqu'une opération sur les noms prétend suffire à modifier des faits accomplis. Définir autrement le témoin du serment ne restitue pas les biens empruntés.
+
+### 26. Le prix social de la certitude affichée [I]
+
+Strepsiade ridiculise son contradicteur non parce qu'il disposerait de meilleures preuves relatives à la dette, mais parce qu'il revendique une compétence supérieure sur la théologie et les causes naturelles. Les domaines de compétence se télescopent. Savoir parler de la pluie ne démontre pas connaître l'histoire d'un prêt ; savoir décrire le mouvement de l'air ne donne pas autorité pour décider seul de ce qu'il faut rendre. La comédie peut se lire comme une interrogation sur le **prestige transférable des spécialistes** : une réussite dans un domaine sert à imposer une conclusion dans un autre. Cette lecture est un instrument conceptuel contemporain, non une catégorie formulée par le poète. Elle aide néanmoins à reconnaître pourquoi un homme peu instruit désire tant paraître initié.
+
+### 27. L'impunité n'est pas une preuve d'innocence [I/P]
+
+L'argument contre le châtiment sélectif des parjures est distinct de la proposition intéressée selon laquelle aucun remboursement ne serait exigible. Même si la foudre ne frappe jamais un débiteur, cela ne prouve rien sur la légitimité de son refus. L'absence de sanction visible peut résulter de la distance entre fait et poursuite, de l'ignorance d'un tribunal, de la faiblesse des garanties ou simplement du fait que la justice n'agit pas comme la météo. Il serait anachronique de faire de cette distinction un article d'un code moderne, mais son intérêt logique ne dépend pas d'une institution déterminée. Strepsiade fait de l'impuissance supposée du ciel **une permission privée** ; c'est à ce niveau qu'une cosmologie comique devient une critique de la responsabilité.
+
+## V. Philologie des mots décisifs
+
+### 28. *Nephelai* et *nêphelein* : ne pas forcer l'étymologie [É]
+
+Le titre grec *Nephelai* désigne les Nuées, êtres météorologiques et choraux. Il importe de ne pas tirer du seul nom des spéculations modernes sur un voile universel de l'apparence. Le théâtre exploite certes leur plasticité et leur capacité à changer d'aspect, mais chaque fonction doit être localisée. Le chœur n'est pas simplement mensonger : il formule aussi, à la fin, une accusation précise contre le désir de mal agir de son bénéficiaire. Un même personnage collectif peut produire des images instables, se présenter comme divin et soutenir une exigence de responsabilité. Cette pluralité interdit la généralisation facile « les nuages signifient que toute vérité est relative ».
+
+### 29. *Dinos* et la souveraineté : un mot de mouvement élevé au rang d'agent [É]
+
+La force comique du v. 380 vient d'une élévation grammaticale. Une désignation du tourbillon se substitue au nom du maître du ciel : le terme physique peut désormais recevoir, dans la bouche des personnages, les prédicats d'un souverain. La comparaison est utile pour une théorie de l'autorité : ce n'est pas parce qu'un phénomène détermine ce qui se produit qu'il **ordonne** ce qui doit être fait. La même prudence concerne les images modernes de « lois de la nature » ; celles-ci ne sont pas des ordres formulés dans une assemblée humaine. On peut employer le mot « loi » dans les deux domaines, à condition de ne pas transporter sans examen la contrainte d'un mécanisme vers l'obligation morale.
+
+### 30. *Horkos*, *omnumi* et *epiorkos* : trois plans de l'engagement [É/A]
+
+Le champ lexical est suffisamment précis pour orienter l'enquête. *Omnumi* renvoie à l'acte de prêter serment ; *horkos* peut désigner le serment et, dans certaines traditions, une puissance personnifiée ; *epiorkos* qualifie celui qui viole son engagement. Au v. 397 et dans la réplique suivante, le débat porte sur les **parjures** comme destinataires de la foudre. L'absence de punition de certains individus nommés est utilisée pour disqualifier une relation de causalité morale. Cela ne fournit pas une définition exhaustive du parjure dans le droit athénien. Les formules varient selon les circonstances et l'appareil judiciaire ne se réduit pas à un juge céleste. Le passage est un argument dramatique contre une croyance ciblée.
+
+### 31. *Nomos* : usage reconnu, règle, loi ; trois sens qu'il faut séparer [É]
+
+Dans la pièce, les effets de la parole passent par des règles sociales et familiales, jusqu'au conflit où le fils propose de justifier les coups portés au père. Le thème de la nouveauté juridique apparaît lors de cette dernière dispute (v. 1410–1431), mais il ne faut pas le confondre avec le *nomisma* des v. 247–248. La ressemblance morphologique n'annule pas la diversité des usages. Une règle élaborée par des hommes peut faire l'objet de débats et de révisions ; il ne s'ensuit pas que chaque individu soit libre de lui substituer un privilège arbitraire. La comédie met en scène le glissement de la contestation d'une norme vers l'exception intéressée que le fils et le père revendiquent tour à tour.
+
+### 32. *Dikaios* et *adikoi logoi* : justice d'une cause et efficacité d'un discours [É/I]
+
+Le vocabulaire de la justice est inséparable de la compétition de paroles, mais il faut résister à l'idée que l'argument « moins fort » serait nécessairement une théorie philosophique stable. Le débat des deux Discours appartient à la dramaturgie comique et, de surcroît, fait partie des zones dont l'histoire rédactionnelle est complexe. Dans notre corpus, l'enjeu n'est pas de reconstituer à nouveau l'ensemble de l'agôn ; il est d'observer que la capacité d'emporter l'adhésion peut se substituer, pour Strepsiade, à l'examen de ce qu'il doit. Il confond deux propositions : « je peux soutenir publiquement ma version » et « ma version est juste ». L'efficacité d'une défense est une donnée politique ; sa validité morale est une question distincte.
+
+### 33. *Aitia*, cause et imputabilité : une analogie conceptuelle, non une citation [I/P]
+
+La recherche de la cause d'un bruit dans le ciel et l'imputation d'une faute à un débiteur sont deux opérations intellectuelles différentes. Un même langage général de « cause » peut les rapprocher : pourquoi tel événement se produit-il, pourquoi tel homme est-il responsable ? Mais le dossier ne doit pas prétendre qu'Aristophane aurait formulé une taxinomie de la causalité semblable à celles de la philosophie postérieure. La distinction sert de grille explicative. La cause du tonnerre ne répond pas à la question de savoir qui doit restituer l'argent, et la réponse à la seconde ne dépend pas du matériau qui produit un éclair. Lorsque les personnages mêlent ces niveaux, le spectateur peut voir la faille sans disposer d'un vocabulaire technique contemporain.
+
+## VI. La loi, la croyance et les garanties dans une cité de citoyens
+
+### 34. L'Assemblée athénienne n'est pas une salle de physique [A/I]
+
+Le monde d'Aristophane est celui d'une démocratie dont les décisions engagent la communauté des citoyens masculins. Les assemblées, les tribunaux et les institutions religieuses y sont distincts, même lorsqu'ils mobilisent des personnes et des références communes. Le chapitre n'attribue à aucun épisode des *Nuées* la fonction de compte rendu de séance. Le théâtre permet plutôt d'isoler un mécanisme valable dans plusieurs situations : **une prise de parole tire de son prestige extérieur une apparence d'autorité sur ce qu'elle n'a pas prouvé**. Ce déplacement peut intéresser le jugement civique parce qu'un citoyen doit évaluer des raisonnements venant de soldats, d'orateurs, de témoins, de devins et de spécialistes. Il s'agit d'une interprétation de portée institutionnelle, pas d'une institution nouvelle découverte dans le texte.
+
+### 35. La confiance précède la sanction sans la remplacer [I]
+
+Un échange durable exige que des individus aient quelque raison de s'attendre au respect des engagements. Dans certaines circonstances, la crainte d'une sanction renforce cette attente ; elle ne suffit pas à elle seule à créer la réciprocité. Si l'on croit que Zeus surveille les faux serments, la garantie peut agir sur l'imagination morale. Si l'on cesse de le croire, la communauté doit encore demander pourquoi mentir et priver autrui seraient acceptables. Les personnages comiques font percevoir l'écart entre une **raison de tenir parole** et la **peur d'être puni**. Strepsiade privilégie la seconde : ne percevant plus de risque surnaturel, il s'accorde une permission. Une démocratie ne pourrait réduire toutes ses obligations à ce raisonnement sans rendre la coopération elle-même fragile.
+
+### 36. Le serment ne dispense pas de procédure [A/I]
+
+L'Athènes classique connaissait des procédures, des témoignages et des formes d'engagement qui ne coïncidaient pas. La scène de Pasias n'explique pas les conditions juridiques exactes d'un procès de dette. Elle ne dit pas quels documents auraient été produits, quel tribunal aurait été compétent ni quelles exceptions auraient été recevables. Ce silence est important. Il ne faut pas remplacer le dossier historique par une reconstruction moderne de la procédure à partir d'une simple conversation comique. Le passage permet toutefois de réfléchir au rôle social des garanties : l'appel au dieu essaie de rendre coûteuse la rupture de confiance ; le débiteur conteste le fondement de cette crainte. L'efficacité de son sarcasme n'est pas une preuve que les tribunaux étaient incapables de juger sans religion.
+
+### 37. Le problème de l'autorité savante [I]
+
+Le personnage qui connaît les causes de la pluie acquiert, aux yeux de son élève, un pouvoir supérieur à celui du créancier et des traditions. Cette hiérarchie ne repose pas sur une expertise reconnue au sujet du contrat. Elle naît du prestige général d'une maîtrise verbale qui paraît rendre toute objection naïve. La comédie oblige ainsi à distinguer **savoir spécialisé** et **autorité pratique illimitée**. Une compétence peut fournir des informations indispensables à une décision ; elle ne détermine pas à elle seule l'ensemble des fins d'une communauté. Le chapitre n'en tire pas une méfiance indistincte envers les savants. Il examine le moment où une compétence cesse d'être un argument contrôlable et devient une posture d'immunité contre la contradiction.
+
+### 38. Les citoyens sont des auditeurs, mais aucun public ne reçoit une vérité déjà purifiée [I]
+
+La représentation théâtrale constitue elle-même un concours public. Des spectateurs évaluent des paroles prononcées par des acteurs qui ne disent pas forcément la pensée personnelle du poète. Dans le cas des *Nuées*, la difficulté s'accroît parce que le texte transmis a été révisé à la suite d'un échec au concours. Il serait pourtant exagéré de conclure que le vote dramatique prouve une doctrine athénienne sur Socrate. Le public peut rire d'une comparaison alimentaire, reconnaître l'intérêt d'un contre-exemple physique et condamner simultanément la malhonnêteté de Strepsiade. Ce pluralisme de réactions n'est pas attesté individuellement : aucun inventaire complet des interprétations des spectateurs de 423 ne nous est parvenu. Le théâtre est une situation de jugement, non une enquête d'opinion archivée.
+
+### 39. L'empire athénien : contexte matériel, non preuve d'une lecture anti-impériale [A/L]
+
+Les finances et les procédures d'Athènes s'inscrivent au Ve siècle dans une organisation politique qui comprend tribut, armée, flotte, sanctuaires et tribunaux. Le dossier CXC de MYTHOS traite déjà la démocratie maritime à partir du Pseudo-Xénophon ; il n'y a pas lieu d'en répéter le cadre. Dans la scène des *Nuées*, rien ne permet de transformer le tonnerre en symbole obligatoire du contrôle impérial ni Pasias en représentant d'une province soumise. Une telle lecture dépasserait le texte. La comparaison politique pertinente est plus formelle : une institution qui écoute des experts, des créanciers et des accusateurs doit maintenir la différence entre la preuve d'un fait, le rang de celui qui parle et la justice de sa demande.
+
+## VII. Les Nuées elles-mêmes : une instance critique qui ne garantit pas tout
+
+### 40. La plasticité du chœur n'est pas un relativisme total [A/I]
+
+Le chœur des Nuées peut se transformer, recevoir des prières, séduire des ambitieux et pourtant révéler une exigence morale. Cette pluralité de fonctions déconcerte le lecteur qui veut que chaque personnage représente une idéologie homogène. Au début, les Nuées semblent promettre à l'élève le bénéfice de la nouvelle science ; plus tard, elles attribuent à son propre désir de fraude la catastrophe qui l'atteint. Une évolution dramatique est observable dans le texte reçu, mais on ne peut pas décider de manière certaine comment elle était distribuée dans la première version. L'existence d'un discours final de responsabilité oblige néanmoins à renoncer à la représentation simpliste des Nuées comme déesses protectrices de toute falsification.
+
+### 41. Le maître et les déesses n'occupent pas la même position [A/I]
+
+La formule par laquelle Socrate met en avant les Nuées ne fait pas du chœur un simple porte-parole de toutes ses affirmations. Les déesses ont leur propre intervention, leur propre temporalité et un rôle de jugement dramaturgique. À certains moments, elles laissent Strepsiade nourrir ses attentes ; à d'autres, elles dénoncent précisément son penchant pour les mauvaises actions. Une lecture exclusivement doctrinale effacerait cette distance entre le langage du professeur et la parole du chœur. La comédie exploite un conflit possible entre les garants dont un homme se réclame et les obligations auxquelles il prétend échapper en leur nom.
+
+### 42. Le chœur diagnostique un désir préalable [A]
+
+Aux v. 1452–1462, Strepsiade rend les Nuées responsables de ses malheurs ; elles rétorquent qu'il s'est lui-même engagé dans des affaires mauvaises. Le grec de la réplique initiale du chœur est ferme : **« αὐτὸς ... σαυτῷ ... αἴτιος »** (v. 1454) — il est lui-même cause de ce qui lui arrive. L'importance de cette reprise de la causalité mérite d'être soulignée. Après avoir appris à demander les causes du tonnerre, le personnage est invité à reconnaître **sa propre causalité morale**. L'identité lexicale de la notion de cause ne gomme pas la différence entre les domaines : la nature ne devient pas juge par magie, mais l'homme ne peut plus attribuer à un agent extérieur le mal qu'il a voulu produire.
+
+### 43. Le retour des dieux ne suffit pas à rendre la fin heureuse [A/I]
+
+Dans les derniers vers, Strepsiade invoque de nouveau des dieux et attaque le Pensoir. Le retour de la religion n'est pas nécessairement une réussite de la justice. Il peut signaler la honte de son erreur et le renoncement à son projet de tromperie ; il s'accompagne aussi d'une destruction violente. L'incendie n'est pas un dispositif institutionnel permettant de distinguer les savoirs vrais des faux, ni une sentence à reproduire. La comédie autorise le spectateur à rire d'une vengeance sans devoir la ratifier. Toute conclusion selon laquelle le texte prescrit la violence contre les philosophes convertirait un acte de personnage en programme normatif et trahirait la prudence exigée par la forme comique.
+
+### 44. Une enquête qui revient sur son enquêteur [I/P]
+
+Le récit dessine une symétrie frappante. Au début, Strepsiade demande à Socrate des preuves concernant le ciel et se laisse convaincre très vite ; à la fin, il doit accepter une explication qui le vise directement, sans pouvoir se réfugier dans l'autorité du ciel. La causalité naturelle a d'abord servi à déplacer la responsabilité ; une forme de causalité morale la lui restitue. Ce mouvement donne son unité à la lecture présente. Il ne prouve pas qu'Aristophane aurait voulu écrire une théorie cohérente de la connaissance ; il suffit qu'une architecture dramatique fasse travailler le passage de « qui fait tomber la pluie ? » à « qui a voulu tromper ? ». La critique de l'illusion n'est alors pas dirigée exclusivement contre les croyances religieuses, mais aussi contre les interprétations qui satisfont trop bien les intérêts de celui qui les adopte.
+
+## VIII. Les comparaisons grecques : la sanction sacrée, ses limites et ses adversaires
+
+### 45. Hésiode : le serment suit les jugements dévoyés [A/I]
+
+Dans les *Travaux et les Jours*, v. 219–224, Hésiode associe Horkos, le serment personnifié, aux jugements corrompus et à l'affliction de Dikè, la Justice. La scène n'est pas un document de procédure athénienne du Ve siècle ; elle atteste une **représentation poétique ancienne** de l'ordre moral dans lequel la parole jurée, la justice et la sanction sont liées. Le rapprochement avec Aristophane rend perceptible ce que Strepsiade voudrait défaire : l'idée que le faux engagement n'est pas un simple arrangement verbal entre individus, mais une blessure faite à un ordre qui excède leurs calculs. Cette comparaison n'exige pas de supposer que le poète comique cite volontairement les vers hésiodiques à chaque invocation de Zeus.
+
+### 46. La *Théogonie* : même les dieux répondent d'un serment [A/I]
+
+Dans la *Théogonie*, v. 775–806, l'eau du Styx fonctionne dans le récit comme garantie redoutable des serments entre immortels ; le faux serment divin entraîne de longues conséquences. Le parallèle est structurel, non institutionnel : le récit montre que la garantie peut être pensée comme supérieure aux individus engagés, voire supérieure à certaines puissances divines qui s'y soumettent. Cette configuration éclaire l'inquiétude provoquée par l'argument du « tourbillon roi ». Si le garant est seulement un mécanisme naturel, qu'advient-il de la force symbolique qui impose une limite au mensonge ? La réponse historique ne découle pas directement d'Hésiode : les Athéniens disposaient aussi de sanctions sociales, de procédures et de normes civiques. Le récit archaïque fournit une comparaison sur le poids d'un engagement.
+
+### 47. Thucydide : le langage de l'intérêt en temps de crise [A/I/L]
+
+Dans le tableau de la guerre civile à Corcyre (III, 82–83), Thucydide décrit la transformation des appréciations morales et la dégradation de la confiance entre factions. Les formulations exactes concernant le rapport entre mots et actes ont suscité un débat philologique moderne : le passage ne doit pas être réduit à la formule simpliste « les mots changent de dictionnaire ». La comparaison avec Strepsiade porte sur le mécanisme qui conduit un acteur à donner à son propre intérêt la forme d'une justification supérieure. **Différence fondamentale :** Thucydide analyse des conflits collectifs meurtriers ; *Les Nuées* mettent en jeu un emprunteur et une école fictive. Rien n'autorise à poser une influence directe de l'un sur l'autre ni à faire du personnage une miniature documentaire de la stasis.
+
+### 48. Platon, *Apologie* 18b–19e : le personnage comique devient une accusation reconnaissable [A/L]
+
+Le Socrate de l'*Apologie* évoque les anciennes représentations publiques d'un chercheur qui étudie le ciel, la terre et l'art de faire triompher le discours inférieur ; Platon cite explicitement Aristophane (19c). Ce témoignage est capital pour l'histoire de la **réception d'une caricature**, mais il est rétrospectif et appartient à un plaidoyer. On ne peut pas en déduire que le Socrate réel professait les démonstrations de la pièce, ni établir une chaîne causale simple entre une comédie de 423 et la condamnation de 399. La présence d'une image durable ne suffit pas à montrer qu'elle détermina tous les votes d'un jury vingt-quatre ans plus tard. La pièce nous apprend quelque chose des représentations possibles d'un intellectualisme, non la doctrine du Socrate historique.
+
+### 49. Xénophon, *Mémorables* I, 1, 11–16 : une autre fabrication de la mémoire socratique [A/I]
+
+Xénophon oppose son Socrate aux spéculations incessantes sur la nature du cosmos. Il le fait discuter plutôt de la piété, de la justice, du gouvernement et des devoirs humains. Ce témoignage diverge donc du personnage comique qui enseigne la mécanique des nuages. Il ne faut pas choisir automatiquement l'un comme reportage photographique et l'autre comme mensonge : les deux écrits sont construits dans des genres et des objectifs distincts. La comparaison fait apparaître que le véritable Socrate nous parvient à travers des médiations concurrentes. La question de notre dossier n'est pas de résoudre entièrement le « problème socratique », mais de constater que les textes de réception **redistribuent l'autorité entre savoir naturel et examen moral**.
+
+### 50. Xénophon, *Mémorables* I, 1, 18 : garder son serment contre une pression [A/I]
+
+Xénophon rapporte que Socrate, investi d'une fonction au Conseil, aurait refusé d'appuyer une décision collective qu'il jugeait illégale, en prenant au sérieux son serment de conseiller. Le récit appartient à l'apologie xénophontique et doit être lu dans ce cadre. Il offre néanmoins un contrepoint puissant : au lieu d'utiliser une controverse cosmologique pour échapper à une obligation, ce Socrate invoque la fidélité à un engagement pour résister à une majorité. L'opposition est **entre deux portraits littéraires**, non une preuve que le personnage des *Nuées* reproduit une biographie. La présence de ce contre-modèle rappelle qu'il serait méthodologiquement illégitime d'assimiler philosophie, scepticisme religieux et goût du parjure.
+
+## IX. Relectures philosophiques contrôlées
+
+### 51. Hegel : l'universel n'est pas le simple caprice du sujet [P]
+
+Dans les *Principes de la philosophie du droit*, la discussion des rapports entre conviction subjective, moralité et vie éthique peut aider à comprendre le problème de Strepsiade : un homme affirme une liberté de jugement, mais ne reconnaît l'obligation que lorsqu'elle sert sa commodité. Le point hegelien utilisé ici n'est pas un verdict sur Aristophane. Il est heuristique : une norme commune ne vaut pas seulement par l'assurance privée avec laquelle quelqu'un en parle. La reconnaissance entre sujets et la médiation institutionnelle empêchent de confondre la simple certitude de soi avec la validité universelle d'un droit. La lecture demeure néanmoins limitée : Athènes ne possède pas les institutions ni les catégories de l'État hégélien, et la pièce ne résout pas un système dialectique.
+
+### 52. Nietzsche : la critique des valeurs ne justifie pas automatiquement le trompeur [P]
+
+La *Naissance de la tragédie*, notamment ses analyses de l'optimisme socratique, suggère une comparaison avec le prestige théâtral de la raison explicative. Mais le Socrate des *Nuées* n'est pas sans reste le Socrate interprété par Nietzsche. La comédie montre une mécanique de persuasion et une demande intéressée ; Nietzsche construit un diagnostic philosophique de la culture grecque. On peut également rapprocher la *Généalogie de la morale*, II, 1–3, sur la mémoire et la capacité de promettre. Ici encore, il s'agit d'une **confrontation rétrospective** : l'obligation durable peut être une réalisation exigeante de la vie sociale, non un résidu de peur infantile. Cette comparaison déjoue la confusion selon laquelle transgresser une promesse par adresse verbale serait déjà exercer une liberté philosophique.
+
+### 53. Vernant : la raison grecque possède des conditions sociales et religieuses [P]
+
+Les travaux de Jean-Pierre Vernant invitent à ne pas construire le passage du mythe à la raison comme un simple remplacement instantané de Zeus par le tourbillon. Les pratiques de débat, les formes civiques du jugement et les représentations du divin se transforment historiquement, sans se réduire à une victoire de la science sur la superstition. Dans *Les Nuées*, le naturalisme comique cohabite avec un chœur de déesses et une conclusion qui redonne aux dieux un rôle moral. Le rapprochement avec Vernant sert à formuler un problème historiographique, non à attribuer au dramaturge une thèse que l'anthropologue aurait découverte. L'expérience théâtrale montre combien la « rationalisation » peut être tissée de religion, de langage et de positions sociales.
+
+### 54. Détienne : les régimes de crédibilité sont historiquement construits [P]
+
+Marcel Détienne a étudié les formes de vérité et les détenteurs d'autorité dans la Grèce archaïque. Cela aide à poser une question de méthode : qu'est-ce qui rend une parole recevable comme vraie ou garantie ? Le serment, l'invocation divine, l'explication par analogie et la victoire devant un auditeur ne reposent pas sur le même régime de validation. Il serait pourtant erroné de faire des *Nuées* l'illustration exacte de *Les Maîtres de vérité dans la Grèce archaïque*, ouvrage consacré à des contextes et traditions différents. Le bénéfice de la comparaison tient à la différenciation des procédures de crédibilité. Une parole peut devenir efficace parce qu'elle vient d'un individu réputé savant, sans que l'autorité de cet individu suffise à assurer la correspondance entre ce qu'il dit et ce qu'il doit.
+
+### 55. Vernant et Détienne : la *mètis* éclaire la ruse sans la blanchir [P/I]
+
+*Les Ruses de l'intelligence* explore un univers de savoirs pratiques, d'anticipation et de souplesse dans la culture grecque. On pourrait être tenté de classer Strepsiade parmi les hommes habiles qui retournent à leur avantage une situation. Cette assimilation effacerait toutefois une question normative : la ruse qui garantit la survie, celle qui permet un concours ou celle qui refuse une dette ne sont pas éthiquement identiques. La comédie n'exige pas de choisir entre intelligence et justice. Elle interroge ce que devient une intelligence séparée de l'évaluation de ses fins. Employer *mètis* comme clé universelle reviendrait à rendre indifférentes des différences que l'intrigue rend sensibles.
+
+### 56. La science, le scepticisme et la responsabilité : trois trajectoires non équivalentes [I/P]
+
+Une explication naturelle peut être vraie sans que le chercheur soit juste. Une croyance religieuse peut renforcer une promesse sans garantir que son détenteur dit la vérité. Une contestation des institutions peut être libératrice sans que toutes les contestations le soient. Strepsiade cherche à fusionner ces trois lignes : il suppose que le nouveau savoir décrédibilise Zeus, que Zeus privé de foudre ne soutient plus le serment et que la perte du témoin divin supprime sa propre dette. Le théâtre donne à voir ce raisonnement sans offrir une preuve que toutes ses étapes sont légitimes. Une philosophie politique attentive à la pluralité des raisons devrait refuser cette fusion et examiner séparément causalité, crédibilité, institution et obligation.
+
+## X. Contrôler les lectures concurrentes : six propositions discutables
+
+### 57. Hypothèse forte : Aristophane serait ennemi de toute enquête naturelle [H/L]
+
+**Argument possible :** le personnage qui enseigne la météo est ridiculisé et son école finit détruite. **Objection :** le Socrate comique produit aussi des contre-exemples à une théorie simplifiée de la foudre punitive, et le comportement initialement frauduleux de Strepsiade n'est pas créé par l'étude du ciel. On ne peut pas déduire de la sanction dramatique de l'école une proposition universelle selon laquelle toute recherche naturelle serait coupable. Le texte ne fournit ni traité scientifique alternatif ni ordonnance interdisant l'examen des causes. **Conclusion critique :** la pièce peut contester la prétention de certains savoirs à se convertir en puissance morale, sans constituer une réfutation méthodologique de toute enquête.
+
+### 58. Hypothèse inverse : le poète défendrait le relativisme sophistique [H/L]
+
+**Argument possible :** les figures traditionnelles de l'autorité sont ridiculisées, et les personnages maîtrisent des discours alternatifs. **Objection :** la fin prononce contre le désir de tromperie un jugement explicite ; la malhonnêteté du débiteur n'est pas effacée par sa virtuosité. Il faut également rappeler que le Socrate comique condense des stéréotypes intellectuels multiples : l'identifier à un courant doctrinal défini à partir de Platon est une opération tardive et risquée. **Conclusion critique :** le théâtre n'adopte pas nécessairement les positions que ses personnages rendent spectaculairement intelligibles.
+
+### 59. Hypothèse : l'absence de Zeus supprime le droit de créance [H/L]
+
+**Argument possible :** dans la scène, un garant traditionnel est désavoué. **Objection décisive :** le prêt, son montant et l'attente de restitution ont une existence narrative indépendante de l'explication de la pluie. Le passage du « Zeus ne jette pas les éclairs » à « je n'ai plus rien à rendre » relève d'une équivoque stratégique. Il ne s'ensuit pas non plus que l'ensemble des croyances grecques sur le parjure réduisaient la sanction à une foudre immédiate. **Conclusion critique :** la pièce met en scène la tentation de tirer d'une critique cosmologique une licence morale, non une démonstration de son bien-fondé.
+
+### 60. Hypothèse : la satire aurait directement causé la mort de Socrate [H/L]
+
+**Argument possible :** Platon rappelle la comédie dans une défense où Socrate est poursuivi pour impiété et corruption de la jeunesse. **Limite :** entre 423 et 399 s'étend une histoire politique et intellectuelle complexe ; la source platonicienne est une intervention rétrospective, non une enquête sur l'état d'esprit de chaque juré. Le Socrate du théâtre et les portraits apologétiques appartiennent à des genres distincts. **Conclusion critique :** la comédie a participé à des représentations publiques durables ; son effet causal précis sur le verdict de 399 ne peut être isolé par les seules sources examinées.
+
+### 61. Hypothèse : le chœur approuve toujours son professeur [H/L]
+
+**Argument possible :** les Nuées sont introduites comme les déesses reconnues par l'école. **Objection :** les répliques de la fin distinguent la complicité apparente de la responsabilité de Strepsiade ; la voix collective ne répète pas mécaniquement le programme du maître. **Conclusion critique :** le chœur est une instance dramatique changeante dont on doit suivre les interventions au lieu de lui donner un sens unique fixé par sa première entrée.
+
+### 62. Hypothèse : le dénouement institue la violence comme procédure de vérité [H/L]
+
+**Argument possible :** Strepsiade se repent, puis incendie le Pensoir. **Objection :** le fait qu'une vengeance clôt une comédie ne suffit pas à prouver qu'elle serait moralement juste, institutionnellement autorisée ou historiquement pratiquée. **Conclusion critique :** le dénouement fait rire et inquiète à la fois ; il ne remplace pas une enquête réglée sur le vrai et le juste.
+
+## XI. Enquête structurée sur les sources : tableau de provenance et de certitude
+
+### 63. Séquence des attestations primaires contrôlées [A]
+
+| Passage | Fait attesté dans le texte | Utilisation contrôlée | Ce qu'il ne prouve pas |
+|---|---|---|---|
+| *Nuées* 239–249 | Demande d'apprendre à ne pas rembourser ; contestation du serment par les dieux | L'intérêt économique précède la nouvelle cosmologie | Que le Socrate historique vendait des techniques de fraude |
+| *Nuées* 365–380 | Nuages comme cause de la pluie ; tourbillon concurrent de Zeus | Passage de l'agent personnel au mécanisme naturel | Une théorie météorologique exacte et complète |
+| *Nuées* 385–408 | Analogie entre ventre, nuages et tonnerre ; objection sur le parjure | Différence entre analogie persuasive et contre-exemple | Que la foudre physique abolit le droit |
+| *Nuées* 1227–1244 | Pasias rappelle un engagement et les dieux ; Strepsiade ridiculise le serment | Déplacement de la cause naturelle vers la promesse sociale | La procédure réelle d'un procès de dette |
+| *Nuées* 1410–1431 | Le fils soumet une conduite familiale à une justification de type normatif | Contestation et invention de règles sous pression de l'intérêt | Un programme politique aristophanien de réforme de la famille |
+| *Nuées* 1452–1462 | Les Nuées imputent au débiteur la responsabilité de son désir | Retour de la causalité morale sur son agent | La cohérence doctrinale complète de tous les états de la pièce |
+| Hésiode, *Travaux* 219–224 | Horkos et Dikè dans la poésie judiciaire archaïque | Ancien modèle de sanction et de justice | La procédure athénienne au Ve siècle |
+| Hésiode, *Théogonie* 775–806 | Eau du Styx comme garantie des serments divins | Un ordre supérieur aux contractants | Une institution humaine historique |
+| Platon, *Apologie* 18b–19e | Référence explicite à la comédie et aux accusations anciennes | Réception du stéréotype de Socrate | Un lien causal chiffrable avec le verdict de 399 |
+| Xénophon, *Mémorables* I, 1, 11–18 | Portrait opposé du Socrate moral et respectueux du serment | Pluralité des constructions littéraires de Socrate | Une biographie immédiate sans parti pris |
+
+### 64. Le statut des fragments et des versions [A/L]
+
+Pour l'état originel de 423, l'existence de révisions rend impossible une restitution intégrale à partir du texte qui nous est parvenu. Le commentaire d'Ewen Bowie ouvre même la discussion de performances possibles dans les dèmes, contre l'idée d'une impossibilité absolue ; cela ne constitue pas la preuve qu'une telle nouvelle représentation a réellement eu lieu. Les hypothèses antiques, telles qu'elles sont discutées par la recherche, imposent une prudence supplémentaire pour les régions de la parabase, de l'agôn et de la fin. Il serait donc fallacieux d'assigner toutes les étapes de notre lecture à une intention d'Aristophane fixée dès 423. Nous étudions une **œuvre transmise**, culturellement active, dont les états anciens sont imparfaitement reconstructibles.
+
+### 65. La bibliographie moderne n'est pas un réservoir de citations à fabriquer [É/L]
+
+L'étude d'Alan Sommerstein sur les serments de *Clouds* indique dans son résumé qu'elle relève quarante-sept serments prononcés dans l'action et discute plusieurs critères possibles de leur force : divinité invoquée, épithète, formule cumulative, contexte solennel, demande expresse, discussion préalable du serment. Ce nombre et ce programme sont attribués **au résumé du chapitre**, non revendiqués comme décompte indépendant de la présente monographie ni présentés comme résultat de la lecture de pages sous accès limité. De même, les arguments de Christopher Moore sur la connaissance de soi et d'Ewen Bowie sur la représentation sont rapportés à partir des éléments effectivement disponibles. Une exigence universitaire de précision interdit de maquiller une notice bibliographique en lecture exhaustive d'un ouvrage.
+
+### 66. Une expérience de contrôle de l'interprétation [I]
+
+Pour tester la thèse proposée, séparons les preuves en trois colonnes conceptuelles : **phénomène**, **engagement**, **jugement**. La pluie, le tonnerre et l'éclair appartiennent à la première ; le prêt, la promesse et le serment à la deuxième ; la question de savoir ce qu'il est juste de payer ou de punir à la troisième. Le Socrate comique fournit des arguments principalement sur la première, parfois sur les croyances qui relient la première à la troisième. Strepsiade réorganise la deuxième à partir des résultats supposés de la première. Le lecteur peut alors identifier l'erreur précise sans devoir trancher préalablement la vérité de toute religion antique. Une explication de la foudre, même acceptable, ne donne pas en elle-même une quittance.
+
+### 67. Risques d'anachronisme [L]
+
+Il serait abusif de parler, sans qualification, de « preuve scientifique expérimentale », de « liberté de conscience » au sens constitutionnel moderne, de « contrat bancaire », de « séparation de l'Église et de l'État » ou de « désinformation numérique » comme si ces institutions étaient représentées dans la pièce. Ces mots peuvent servir à proposer des analogies, mais ils ne sont pas le lexique d'Aristophane. Les Grecs du Ve siècle n'ont pas à résoudre les difficultés propres à notre droit positif. L'interprétation doit rester à l'échelle des pratiques anciennes : engagements verbaux, croyances divines, débats publics, éducation de la parole, spectacle comique et concurrence des explications.
+
+## XII. Conclusion — Ce que la souveraineté de juger exige d'un citoyen
+
+### 68. La démonstration météorologique déstabilise un témoin, pas la dette [I]
+
+L'un des résultats les plus nets de l'analyse est négatif : on ne peut tirer de l'hypothèse du tourbillon aucune quittance morale ou juridique. Le nouveau savoir peut obliger à reconsidérer l'image d'un Zeus qui sanctionnerait immédiatement chaque parjure ; il ne confère pas à celui qui emprunte le droit de conserver sans restitution. Le ressort comique tient à l'appropriation d'un vocabulaire explicatif pour produire un avantage privé. La grandeur du problème réside dans sa simplicité : une communauté qui ne distinguera plus la validité d'une théorie de l'honnêteté de son défenseur devient vulnérable aux prestiges qui traversent les domaines.
+
+### 69. Le serment demeure une question de société [I]
+
+L'acte de jurer peut être regardé comme un appel au divin, un engagement entendu par d'autres, une pratique de confiance ou une formule banalisée. Sa force varie selon la situation et le degré de solennité. Il n'y a donc pas une essence unique du serment à opposer à la science. La comédie déploie plutôt une controverse sur les **conditions dans lesquelles un engagement sera tenu pour sérieux**. C'est pourquoi l'objection sur le chêne frappé et la scène de Pasias doivent être lues ensemble : la première examine la cohérence d'un modèle de punition ; la seconde montre un homme qui utilise cette contestation pour se comporter comme si aucune règle ne le liait.
+
+### 70. Le citoyen n'est pas souverain s'il ne sait pas distinguer ses raisons [I/P]
+
+Le dossier CCX de MYTHOS étudiait dans *Les Cavaliers* la captation du peuple par les cadeaux, les oracles et la compétition d'interprètes. Ici, la captation prend une forme différente : un **savoir** devient instrument de domination parce qu'il est transporté hors du champ où il peut être contrôlé. Le point commun n'est pas une thèse répétée sur la démagogie ; c'est une exigence générale de jugement. On doit pouvoir recevoir une information exacte sans déléguer à son détenteur la définition de toute norme, et contester un dogme religieux sans faire disparaître autrui comme sujet de droit. Le spectateur doit maintenir ouvertes plusieurs questions plutôt qu'un verdict unique.
+
+### 71. La reconnaissance de sa faute ne justifie pas la vengeance [I]
+
+La fin des *Nuées* refuse la consolation d'une solution pure. Strepsiade sait finalement qu'il a cherché à frauder, mais sa réponse passe par l'incendie. La reconnaissance d'une erreur ne suffit donc pas à produire une conduite juste. Ce reste inconfortable est philosophiquement fécond : la critique de l'instrumentalisation du savoir ne peut devenir elle-même un prétexte pour supprimer par la violence ceux qui enquêtent. Les personnages du théâtre échouent à séparer leur désir de gagner, leur prétention à savoir et leur besoin de punir. Le texte transmis permet de réfléchir à cet échec sans imposer au poète une doctrine close.
+
+### 72. Thèse finale [I/P]
+
+La question « le ciel peut-il témoigner ? » reçoit une réponse différenciée. Le ciel peut fournir des phénomènes que l'homme cherche à expliquer ; il peut être invoqué symboliquement comme témoin d'un serment ; il ne livre pas automatiquement au citoyen la preuve que l'autre est coupable ni l'autorisation de violer sa propre parole. La comédie dévoile moins une guerre du progrès contre la tradition qu'une **confusion des formes d'autorité**. Qui explique ? Qui promet ? Qui juge ? Qui répond des conséquences ? Tant que ces interrogations demeurent distinctes, la découverte d'une cause naturelle n'est pas l'effondrement de la justice. Quand un débiteur les amalgame pour garder son argent, le rire devient une enquête sur la responsabilité.
+
+## XIII. Bibliographie critique et références vérifiables
+
+### A. Sources primaires avec localisation
+
+1. **Aristophane**, *Nephelai* (*Les Nuées*), texte grec avec traduction anglaise en regard, Ad Fontes Library, passages v. 239–269, 365–408, 804–830, 1214–1250, 1410–1431, 1452–1511 : https://adfonteslibrary.org/work-aristophanes-clouds . Les fragments grecs cités dans ce dossier ont été comparés aux vers de cette ressource.
+2. **Hésiode**, *Les Travaux et les Jours*, v. 202–285, en particulier 219–224, Ad Fontes : https://adfonteslibrary.org/work-hesiod-works-days ; traduction avec conventions propres au CHS : https://chs.harvard.edu/primary-source/hesiod-works-and-days-sb/ .
+3. **Hésiode**, *Théogonie*, v. 775–806, texte et traduction : https://adfonteslibrary.org/work-hesiod-theogony ; traduction du Center for Hellenic Studies : https://chs.harvard.edu/primary-source/hesiod-theogony-sb/ .
+4. **Platon**, *Apologie de Socrate*, 18b–19e, texte grec et traduction : https://adfonteslibrary.org/work-plato-apology ; autre traduction accessible : https://platolibrary.com/dialogue/apology .
+5. **Xénophon**, *Mémorables*, I, 1, 1–18, particulièrement 11–18, texte et traduction : https://adfonteslibrary.org/xenophon-memorabilia .
+6. **Thucydide**, *Histoire de la guerre du Péloponnèse*, III, 82–83, texte historique et traduction : https://beta.perseus.tufts.edu/urn:cts:greekLit:tlg0003.tlg001.1st1K-eng1/chapter:3.82/ . Utiliser III, 82 comme parallèle sur les évaluations en temps de crise, non comme source des paroles d'Aristophane.
+
+### B. Éditions et travaux spécialisés : état de vérification déclaré
+
+7. **K. J. Dover** (éd.), *Aristophanes: Clouds*, Oxford, Clarendon Press, 1968. Édition de référence identifiée par la bibliographie de Christopher Moore ; son apparat intégral n'a pas été collationné pour toutes les leçons de ce dossier.
+8. **Alan H. Sommerstein**, *Aristophanes: Clouds*, Aris & Phillips, première édition 1982, troisième édition 1991, réimpression révisée avec bibliographie 2007 : https://www.jstor.org/stable/jj.38238685 . Notice éditoriale contrôlée ; aucune traduction non vérifiée de ce volume n'est reproduite.
+9. **Alan H. Sommerstein**, « Cloudy Swearing: When (if Ever) is an Oath Not an Oath? », dans Alan H. Sommerstein et Judith Fletcher (dir.), *Horkos: The Oath in Greek Society*, 2008, p. 125–137, DOI 10.5949/liverpool/9781904675679.003.0012 : https://academic.oup.com/liverpool-scholarship-online/book/43315/chapter-abstract/363081957 . Résumé scientifique consulté : le décompte des quarante-sept serments est attribué à cet article, dont l'argument intégral sous accès restreint n'est pas prétendu ici relu.
+10. **Jeffrey Henderson**, « Aristophanes’ Clouds », *Oxford Bibliographies in Classics*, 2018, version actualisée le 5 octobre 2026, DOI 10.1093/obo/9780195389661-0305v1 : https://academic.oup.com/reference/62365/reference-article-abstract/554616999 . Introduction et données éditoriales contrôlées.
+11. **Aristophanes and the Poetics of Competition**, chap. 5, « Aristophanes’ Clouds-palinode », Cambridge University Press, 2011, p. 167–210, DOI 10.1017/CBO9780511779169.006 : https://www.cambridge.org/core/books/abs/aristophanes-and-the-poetics-of-competition/aristophanes-cloudspalinode/BF364058DE93615670621531FE6539A8 . Résumé consulté sur les versions et les hypothèses antiques.
+12. **Christopher Moore**, « Socrates and Self-Knowledge in Aristophanes' Clouds », *Classical Quarterly* 65/2, 2015, p. 534–551, DOI 10.1017/S0009838815000257 : https://www.cambridge.org/core/journals/classical-quarterly/article/abs/socrates-and-selfknowledge-in-aristophanes-clouds/825D57C7D05A21A101EA882BA707D16F . Résumé et références consultés ; la thèse est distincte de notre enquête sur serment et preuve.
+13. **Ewen Bowie**, « Aristophanes’ Clouds: An Agonistic Note », *Ariadne* 19 (volume daté 2013, publication en ligne 2016), p. 47–63, DOI 10.26248/ariadne.v19i0.335 : https://ejournals.lib.uoc.gr/Ariadne/article/view/335 . Résumé consulté ; la possibilité d'une représentation dans un dème demeure une proposition discutée, non un fait acquis.
+14. **Simon Noriega-Olmos**, « Valuation Drifts, Meaning Endures: Thucydides 3.82.4 », *Classical Quarterly*, publication en ligne 9 septembre 2022 : https://www.cambridge.org/core/journals/classical-quarterly/article/abs/valuation-drifts-meaning-endures-thucydides-3824/FA9D610CB7EC4107660F8AF49D35741A . Résumé consulté sur la différence entre valeurs et sens des mots.
+15. **John Wilson**, « ‘The Customary Meanings of Words Were Changed’ — Or Were They? A Note on Thucydides 3.82.4 », *Classical Quarterly* 32/1, 1982, p. 18–20 : https://www.cambridge.org/core/journals/classical-quarterly/article/abs/customary-meanings-of-words-were-changed-or-were-they-a-note-on-thucydides-3824/D41C67034FFF652D6392E100B672AB4C . Notice et extrait consultés.
+
+### C. Philosophie : comparaisons rétrospectives, non sources sur 423
+
+16. **G. W. F. Hegel**, *Principes de la philosophie du droit*, spécialement les articulations entre subjectivité morale et vie éthique ; *Leçons sur l'histoire de la philosophie*, partie consacrée à Socrate. Textes de comparaison conceptuelle, sans citation littérale ni revendication d'influence.
+17. **Friedrich Nietzsche**, *La Naissance de la tragédie*, §§ 12–15 ; *La Généalogie de la morale*, deuxième dissertation, §§ 1–3. Analyses rétrospectives du rationalisme et de la promesse ; aucune doctrine de Nietzsche n'est attribuée à Aristophane.
+18. **Jean-Pierre Vernant**, *Les Origines de la pensée grecque*, 1962 ; *Mythe et pensée chez les Grecs*, 1965. Cadre historiographique de comparaison pour les relations entre formes civiques de la raison et représentations du sacré.
+19. **Marcel Détienne**, *Les Maîtres de vérité dans la Grèce archaïque*, 1967 ; **Marcel Détienne et Jean-Pierre Vernant**, *Les Ruses de l'intelligence. La mètis des Grecs*, 1974. Catégories comparatives, non clés prouvées de l'intention du dramaturge.
+
+## XIV. Renvois scientifiques et protocole de continuité MYTHOS
+
+Cette monographie est autonome, mais elle relève d'un cycle à questions différenciées :
+
+- **CXC (190)** : Pseudo-Xénophon, la démocratie maritime et ses adversaires — institutions et économie des citoyens.
+- **CXCV (195)** : le sycophante et la démocratie athénienne — dénonciation et abus des procédures, avec un examen des *Guêpes*.
+- **CCI (201)** : pouvoir féminin, trésor et commun chez Aristophane — religion civique et souveraineté, avec *Lysistrata*, *Les Thesmophories* et *L'Assemblée des femmes*.
+- **CCIII (203)** : la parabase — le poète face au corps des spectateurs et les prétentions à conseiller la cité.
+- **CCVIII (208)** : *La Paix* — la démobilisation des habitudes, des rites et des économies de guerre.
+- **CCX (210)** : *Les Cavaliers* — la compétition des interprètes, des oracles et des distributeurs de biens devant Dêmos.
+- **La présente étude CCXX (220)** : *Les Nuées* — différencier cause naturelle, garantie d'une promesse, crédibilité sociale et jugement de justice.
+
+Ce classement ne réserve aucun numéro pour une étude future. Il ne transforme pas en doublons les chapitres anciens et conserve leurs numéros canoniques. Les pages théâtrales de l'œuvre déjà publiées restent les ressources de référence pour l'intrigue intégrale, la scène et l'histoire de ses versions. La question neuve traitée ici est circonscrite, pour permettre d'aborder ensuite d'autres problèmes qui ne seraient pas déjà développés en corpus.
+
+**Notes éditoriales finales.** Ce manuscrit est une **livraison publique intégrale approuvée** destinée à la file GitHub de la collection comparatif. Les champs 220 et CCXX désignent uniquement le numéro canonique et le chiffre romain de la présente étude, attribués, s'il y a lieu, par la transaction GitHub Actions. Les chiffres de vers, les dates, les numéros de sections et les numéros historiques cités doivent rester inchangés. L'existence de ce fichier de demande ne constitue ni un reçu d'attribution, ni une preuve d'indexation ou de déploiement HTTPS. Les archives, les autres études, les brouillons privés et les planifications ne sont pas modifiés.

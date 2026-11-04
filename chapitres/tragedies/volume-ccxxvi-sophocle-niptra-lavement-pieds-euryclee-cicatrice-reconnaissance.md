@@ -1,0 +1,571 @@
+# MYTHOS — Encyclopédie des tragédies grecques — Volume CCXXVI (226)
+
+## Sophocle, *Niptra* (Νίπτρα) — Le lavement des pieds, la cicatrice d'Ulysse et la preuve de l'identité
+
+**Monographie universitaire originale — tragédie perdue de Sophocle — philologie, histoire des représentations, théorie de la reconnaissance, philosophie et réception latine.**
+
+**Notice critique.** Le titre grec *Niptra* (νίπτρα, neutre pluriel) renvoie aux eaux ou aux actes du lavage, particulièrement au lavement des mains ou des pieds. Dans la tradition littéraire, il désigne aussi la scène du chant XIX de l'*Odyssée* où la nourrice Euryclée reconnaît Ulysse par une ancienne cicatrice. **Édition canonique :** Stefan Radt (éd.), *Tragicorum Graecorum Fragmenta* (TrGF), vol. 4, *Sophocles*, édition revue, 1999, **fr. 451a**. Le texte direct conservé pour ce titre est extrêmement réduit : il est interdit d'en tirer une reconstruction verbale étendue. **Pièce à tenir distincte :** *Odysseus Acanthoplex* (Ὀδυσσεὺς ἀκανθοπλήξ, « Ulysse blessé par un aiguillon »), **TrGF 4, frr. 453–461a**, qui se rapporte au destin post-homérique du héros tué, selon une tradition, par Télégonos et une arme munie d'un aiguillon de raie. **Troisième objet :** *Niptra*, tragédie latine de Pacuvius, dont la matière paraît réunir des éléments des deux récits grecs. Les titres identiques ne garantissent ni traduction littérale ni identité du scénario.
+
+**Sources pivots.** Homère, *Odyssée* XIX, **386–507** (lavement, découverte de la cicatrice et récit rétrospectif de la chasse) ; *Odyssée* XXI, **205–225** (la cicatrice montrée volontairement aux serviteurs fidèles) ; Aristote, *Poétique* **1454b25–30** (reconnaissance involontaire et signe corporel) ; Cicéron, *Tusculanes* **II, 48–50** et **V, 46–48** (comparaison du traitement de la blessure d'Ulysse chez Sophocle et Pacuvius, et souvenir de la nourrice) ; *Télégonie*, résumé de Proclos, et pseudo-Apollodore, *Épitomé* VII, 36–37, pour la mort d'Ulysse. **Références modernes :** A. C. Pearson, *The Fragments of Sophocles*, vol. II (1917), p. 105–113 ; Hugh Lloyd-Jones, *Sophocles: Fragments* (1996) ; Matthew Wright, *The Lost Plays of Greek Tragedy*, vol. II (2019), section sur *Niptra* et *Odysseus Acanthoplex* ; Christine Mitchell Havelock, « The Intimate Act of Footwashing: Odyssey 19 » (1995) ; Steven Lowenstam, « The Uses of Vase-Depictions in Homeric Studies » (1992) ; George W. M. Harrison, « Romanisation of Greek Drama: Tragedy » (2023).
+
+**Question directrice.** Comment un geste de service domestique devient-il une opération de connaissance capable de renverser le pouvoir, et pourquoi le corps possède-t-il une force de preuve qu'une voix ou une apparence déguisée n'ont pas ? L'étude considère le rapport entre la nourrice et le maître, le toucher et la mémoire, le secret nécessaire au retour, les doubles reconnaissances du héros et les formes d'une mort qui contredisent sa ruse. La matière homérique, une image antique et le théâtre latin permettront de circonscrire le possible sans inventer une tragédie complète.
+
+> **Code documentaire.** [S] = texte de Sophocle conservé ou titre attesté dans l'édition ; [HOM] = récit direct d'Homère ; [LAT] = réception latine et témoignage de Cicéron ; [ICON] = objet archéologique daté ; [INF] = inférence ou reconstruction moderne ; [PHIL] = comparaison philosophique. Une référence au chant XIX ne devient jamais un vers de Sophocle. Une scène figurée sur un vase ne constitue pas une photographie d'une représentation. La *Télégonie* et le meurtre par Télégonos ne sont pas incorporés sans réserve à *Niptra*.
+
+### Plan
+
+1. Une pièce entre épopée et tragédie, après *Niobé*
+2. Le titre *Niptra* et sa gamme sémantique
+3. Un fragment : Radt 451a et l'absence de texte continu
+4. Les deux titres sophocléens qui ont été confondus
+5. Les fragments 453–461a : un autre dossier
+6. La chronologie des pièces et l'interprétation de Radt
+7. Homère XIX : le retour sous l'apparence du mendiant
+8. Le bain de pieds comme geste d'hospitalité
+9. Pénélope organise la scène, puis en ignore le sens
+10. Euryclée : nourrice, servante, gardienne de mémoire
+11. Du regard au toucher : une preuve non intentionnelle
+12. Le signe du corps : la cicatrice d'Ulysse
+13. La chasse au sanglier chez Autolycos
+14. Le nom d'Ulysse : mémoire d'une filiation difficile
+15. L'excursus homérique et la temporalité de la reconnaissance
+16. Empêcher le cri : savoir sans révéler
+17. La fidélité de la servante et la capacité d'agir
+18. La seconde cicatrice : la preuve volontaire aux serviteurs
+19. Aristote : reconnaissance par les signes
+20. Aristote : « dans les Niptra » et la prudence du référent
+21. Les conditions dramatiques d'un lavement de pieds
+22. Qui assistait à la scène ? Les limites de la distribution
+23. Le titre et la possibilité d'un scénario odysséen
+24. L'option *Odysseus Acanthoplex* : tuer son père sans le connaître
+25. Télégonos, Circé et la *Télégonie*
+26. La prophétie de Tirésias et « la mort venue de la mer »
+27. Pacuvius : adaptation latine et fusion possible
+28. Cicéron : plainte d'Ulysse et maîtrise de la douleur
+29. Anticlée, Euryclée, Antiphata : trois noms, trois statuts
+30. Les risques d'identifier Sophocle grâce à un texte romain
+31. Le skyphos de Chiusi : deux faces et trois inscriptions
+32. La scène peinte n'est pas le texte de *Niptra*
+33. L'hospitalité et la violence contre les étrangers
+34. Platon : apparence, preuve et reconnaissance
+35. Hegel : reconnaissance personnelle et hiérarchie domestique
+36. Nietzsche : l'identité marquée par la souffrance
+37. Aristote : action, surprise et reconnaissance tragique
+38. L'esclave qui sait avant les puissants
+39. Comparaison avec *Électre*, *Philoctète* et *Iphigénie en Tauride*
+40. Comparaisons mythologiques et prudence sur l'origine des motifs
+41. Deux modèles de reconstruction limités par les preuves
+42. Iconographie institutionnelle : notice et légende
+43. Matrice des sources, faits et hypothèses
+44. Bibliographie raisonnée
+45. Conclusion : l'identité reconnue ne reconstitue pas la pièce perdue
+
+---
+
+### 1. Une pièce entre épopée et tragédie, après *Niobé*
+
+Le titre *Niptra* est un témoignage singulier de la manière dont Sophocle pouvait reprendre une situation homérique et en faire la matière d'un spectacle. La scène du chant XIX de l'*Odyssée* contient déjà tous les éléments d'une grande tension dramatique : un étranger paraît à la porte, une reine ordonne un service d'hospitalité, une vieille nourrice reconnaît un signe caché, et le maître revenu doit empêcher que cette découverte ne soit révélée.
+
+Cependant l'historien ne doit pas partir de la conviction que l'ensemble de la scène fut reproduit fidèlement par Sophocle. Le texte de la tragédie n'est pas conservé. Le fragment associé au titre ne nous donne presque aucune indication sur la distribution ou la suite de l'action. C'est le titre, les témoignages indirects et l'analyse comparative qui rendent plausible un drame inspiré du retour.
+
+La position éditoriale de ce chapitre est aussi une question de continuité : dans le catalogue MYTHOS, la *Niobé* de Sophocle est déjà conservée intégralement en attente de numérotation, tandis que *Niptra* correspond au titre suivant dans le voisinage des fragments de Radt. Il ne s'agit ni de prolonger fictivement *Niobé*, ni de réserver un numéro de collection. La succession documentaire fournit un ordre d'étude, pas un lien de représentation attesté entre deux œuvres.
+
+Le véritable objet du présent dossier est double : faire comprendre ce que l'épisode épique rend possible au théâtre, puis déterminer précisément ce que l'absence des vers sophocléens interdit de conclure.
+
+### 2. Le titre Νίπτρα : eau, soin, hospitalité
+
+Le mot grec νίπτρα est un neutre pluriel associé au verbe νίζω, « laver ». Il peut désigner les eaux ou les gestes du lavage, principalement des mains et des pieds. Dans la culture de l'hospitalité grecque, le lavement peut être offert à l'arrivant comme marque de respect et de soin, surtout lorsque le voyageur vient de parcourir de longues distances.
+
+Le terme a acquis une résonance homérique particulièrement forte. Le lavement des pieds d'Ulysse dans l'*Odyssée* XIX était suffisamment célèbre pour devenir une désignation conventionnelle d'une portion du poème. Aristote lui-même évoque les « Niptra » à propos de la reconnaissance, mais cette expression dans la *Poétique* ne constitue pas une citation d'un vers de Sophocle.
+
+Le sens du pluriel ne permet pas de déterminer si Sophocle ne représentait qu'un seul lavement, plusieurs actions de nettoyage, voire une scène où l'on lave une blessure. Certains anciens commentateurs ont essayé de relier le titre à la mort d'Ulysse par Télégonos, lorsque le blessé doit être secouru. Cette interprétation demeure beaucoup moins directement soutenue par la référence homérique au pied.
+
+Le titre permet d'identifier une situation et un champ rituel. Il ne permet pas d'établir le décor d'un palais, la succession des épisodes ni la présence d'un chœur précis.
+
+### 3. Radt 451a : le fragment unique et ses limites
+
+L'édition canonique de Stefan Radt, *TrGF* 4, sous *Niptra*, classe un seul fragment sous **451a**. Matthew Wright rappelle dans *The Lost Plays of Greek Tragedy*, vol. II, que ce morceau ne permet pas de reconstruire l'action de la tragédie. Il faut donc résister à la tentation de décrire la pièce comme si le chant XIX d'Homère était sa copie.
+
+La référence 451a n'est pas le numéro d'une scène ; elle n'autorise pas à supposer que les vers précédents décrivaient l'arrivée d'Ulysse ou que les suivants racontaient la vengeance contre les prétendants. La somme des renseignements venus de l'épopée et de Cicéron ne se transforme pas en fragments supplémentaires de Sophocle.
+
+A. C. Pearson, dans son édition de 1917, adoptait une hypothèse différente : il réunissait, à la suite de plusieurs commentateurs, *Niptra* et *Odysseus Acanthoplex*. Il reconnaissait toutefois qu'une distinction entre deux pièces demeurait possible. Radt sépare les dossiers, solution que suivent Lloyd-Jones et Wright.
+
+Le corpus MYTHOS conservera ce principe : **fr. 451a** pour *Niptra* ; **frr. 453–461a** pour *Odysseus Acanthoplex*. Cette séparation évite qu'un lecteur compte comme autant de fragments du lavement les sentences appartenant au récit de la mort d'Ulysse.
+
+### 4. Deux pièces ou un seul drame ?
+
+La relation entre les deux titres est un problème ancien. L'explication traditionnellement proposée était simple : la pièce *Niptra* aurait commencé par la reconnaissance d'Ulysse, puis aurait conduit le héros jusqu'à la blessure mortelle reçue de son fils Télégonos. Une telle histoire produit une unité biographique, depuis le retour victorieux jusqu'à l'issue fatale.
+
+Mais le temps du récit pose une difficulté. Entre la première reconnaissance d'Ulysse et sa mort dans le cycle post-homérique se déroulent la vengeance, la restauration de l'ordre domestique, de nouveaux voyages et parfois plusieurs années de vie. Faire entrer tout cet ensemble dans une seule tragédie attique paraît exigeant, même en recourant à des récits de messagers.
+
+Il est plus sobre de distinguer deux drames : *Niptra*, probablement relatif à une reconnaissance du retour, et *Odysseus Acanthoplex*, relatif au meurtre par Télégonos. Cette solution ne peut toutefois être présentée comme une didascalie antique qui déclarerait sans ambiguïté deux représentations : elle résulte du classement des témoins et de l'analyse dramaturgique.
+
+La pièce latine de Pacuvius brouille les cartes parce qu'elle paraît avoir combiné les éléments des deux histoires. Ce fait de réception peut expliquer la naissance de la confusion plutôt qu'il ne démontre une identité originelle.
+
+### 5. Les fragments 453–461a sont un autre dossier
+
+Les **fragments 453–461a Radt**, classés sous *Odysseus Acanthoplex*, concernent une tradition de la mort d'Ulysse. Les témoignages rapprochés de ce titre évoquent les déplacements du héros après son retour, les relations avec d'autres femmes et un coup mortel reçu d'une arme marine. Il serait fautif de les insérer automatiquement dans le *Niptra* sous prétexte que Pacuvius semble avoir utilisé les deux matières.
+
+La distinction est particulièrement importante pour la numérotation du corpus. Une référence 455 ou 458 Radt peut indiquer une phrase tragique authentifiée comme appartenant au groupe d'*Acanthoplex*, sans devenir une citation du titre homonyme de Pacuvius. Le lieu d'un fragment dans une édition constitue un outil de recherche, non une preuve de continuité narrative.
+
+Certains fragments de l'autre œuvre sont eux-mêmes difficiles à contextualiser ; leur valeur ne doit pas être exagérée. Une parole sur un voyage peut appartenir à une annonce, un prologue ou un récit de messager. Aucune de ces possibilités ne fonde la réunion de deux textes.
+
+L'étude de *Niptra* doit donc préparer une monographie ultérieure d'*Ulysse blessé par l'aiguillon*, non la remplacer par un résumé anticipé et non sourcé.
+
+### 6. La datation de *Niptra* : inconnue
+
+Nous ne possédons pas une année de première représentation du *Niptra* de Sophocle. Les sources indirectes relatives au tableau de reconnaissance et les parallèles iconographiques du milieu du Ve siècle ont suscité des rapprochements, mais un vase daté ne détermine pas automatiquement la date d'un spectacle.
+
+Il serait tentant de dire qu'une scène peinte sur un skyphos de Chiusi vers 440 av. J.-C. imite nécessairement la tragédie, puis de dater la pièce avant le vase. C'est un raisonnement circulaire si le lien entre les deux n'a pas été prouvé indépendamment. Le peintre pouvait représenter Homère, une tradition scénique ou une version orale commune.
+
+La datation du poète lui-même, Sophocle au Ve siècle, donne seulement un horizon général. On ne sait pas si *Niptra* fut représenté avant ou après telle pièce conservée d'Euripide, ni s'il appartenait à une tétralogie odysséenne.
+
+La recherche sur les pièces perdues impose de conserver ces absences. Une date conjecturale peut être citée avec son auteur et ses arguments ; elle ne doit pas être convertie en information canonique du site.
+
+### 7. L'*Odyssée* XIX : un maître qui revient caché
+
+Dans le chant XIX, Ulysse est de retour chez lui, mais il reste déguisé en mendiant. Pénélope lui parle sans savoir qu'il est son époux, tandis que les prétendants continuent d'occuper la maison. L'ignorance partagée permet au héros d'évaluer la situation avant d'agir. Le déguisement lui donne un pouvoir paradoxal : il paraît faible, mais il connaît des faits que les autres ignorent.
+
+Le bain de pieds s'inscrit dans cette situation délicate. Pénélope ordonne qu'on accueille convenablement l'étranger et confie le soin à Euryclée. La vieille femme se rapproche physiquement de celui qu'elle a connu enfant. Le récit fait ainsi passer de la conversation, où Ulysse a su mentir, au toucher, où il ne peut plus entièrement contrôler la preuve.
+
+Ce contraste ne signifie pas que le langage serait toujours trompeur et le corps toujours vrai. Une cicatrice peut être imitée, un visage peut ressembler à un autre, et la reconnaissance dépend d'une mémoire dont il faut évaluer la fiabilité. Chez Homère, le signe acquiert sa force grâce au récit antérieur de la blessure.
+
+La scène appartient au poème. Les fragments du *Niptra* ne permettent pas de garantir que Sophocle reproduisait l'ensemble de ses circonstances.
+
+### 8. Le lavement des pieds comme acte d'hospitalité
+
+Le lavage des pieds est un geste quotidien qui prend ici une intensité politique. Le voyageur reçoit un soin alors qu'il paraît socialement inférieur aux maîtres de la maison. La personne chargée de ce soin est une servante, ce qui expose la hiérarchie domestique dans un acte normalement discret.
+
+Le geste ne constitue pas une purification sacrée au sens strict de chaque cérémonie grecque de *katharsis*. Il peut relever du confort, de l'hospitalité et de la propreté avant le repos. Le commenter comme un rite unique d'initiation sans source indépendante serait une extrapolation.
+
+Dans l'*Odyssée*, le soin devient l'occasion d'un contact avec la mémoire de l'enfance. Le corps d'Ulysse a changé depuis son départ, mais la blessure conserve une continuité que le déguisement ne peut supprimer. La reconnaissance naît dans l'acte d'une personne à laquelle le maître ne pensait pas devoir déclarer son identité.
+
+Cette situation donne matière à une philosophie du quotidien : une vérité majeure peut surgir d'un geste subalterne, sans tribunal, oracle ni discours solennel. Le théâtre pouvait exploiter cette inversion des rôles, mais nous n'avons pas de scène sophocléenne continue qui permettrait d'en déterminer l'effet exact.
+
+### 9. Pénélope, initiatrice de la scène et ignorante du résultat
+
+Pénélope organise l'accueil de l'étranger et ordonne le lavement. Elle est donc la cause pratique de la reconnaissance, sans être la personne qui reconnaît. C'est l'un des paradoxes les plus subtils du chant XIX : celle qui cherche son époux rend possible une découverte dont elle reste momentanément exclue.
+
+Les raisons de ce retard relèvent du plan d'Ulysse et de l'aide d'Athéna. La nourrice qui comprend doit se taire. La reine continue sa conversation dans un contexte où la vérité pourrait tout bouleverser, tandis que le lecteur connaît déjà l'identité du visiteur. La distribution des informations produit une ironie dramatique remarquable.
+
+Le phénomène n'implique pas que Pénélope soit dépourvue d'intelligence. Elle interroge attentivement l'étranger, évalue des indices, éprouve des doutes et construit sa propre stratégie d'attente. La scène ne décrit pas une opposition simpliste entre une femme trompée et un homme omniscient.
+
+Une éventuelle pièce de Sophocle aurait pu donner une place différente à Pénélope, mais rien ne nous permet d'affirmer son absence ou sa présence dans la scène dramatique de *Niptra*.
+
+### 10. Euryclée : la nourrice qui conserve une mémoire
+
+Euryclée occupe dans l'*Odyssée* une place particulière. Elle a connu Ulysse enfant, le royaume avant la guerre et les transformations de la maison durant l'absence du maître. Sa compétence n'est pas militaire : c'est la mémoire quotidienne des corps, des gestes et des personnes.
+
+La hiérarchie sociale demeure réelle. Euryclée appartient au monde de la servitude, même si le poème lui attribue affection et fidélité. Une lecture moderne doit éviter de transformer ce lien en égalité sociale inexistante : l'intimité du service n'abolit pas le pouvoir du maître de commander.
+
+La découverte de la cicatrice donne toutefois à la servante un pouvoir de connaissance temporairement supérieur. Elle sait ce que la reine ne sait pas encore. Cette information pourrait mettre en danger Ulysse si elle était criée dans la maison, mais elle pourrait aussi permettre de rétablir sa place.
+
+Le titre *Niptra* permet d'étudier le rôle possible d'un personnage féminin et servile dans une tragédie perdue. Il ne permet pas d'assigner à Euryclée une tirade authentique de Sophocle. Les arguments sur la reconnaissance viennent d'abord d'Homère et de l'iconographie.
+
+### 11. Le toucher contre l'apparence contrôlée
+
+Ulysse peut maîtriser les mots, le vêtement et une partie de son expression corporelle. Il ne peut faire disparaître une ancienne blessure. Le toucher d'Euryclée déclenche ainsi un processus de connaissance qui échappe au contrôle de la représentation volontaire de soi.
+
+La scène du lavement possède une puissance de proximité inhabituelle dans les récits héroïques. L'identité n'est pas révélée par une armure ou un emblème glorieux, mais par une marque de vulnérabilité. Le roi est reconnu à l'endroit où son corps porte encore la trace d'une douleur de jeunesse.
+
+Christine Mitchell Havelock, dans « The Intimate Act of Footwashing: Odyssey 19 », a souligné la particularité de ce geste, situé entre le soin domestique et la révélation. Les études sur le toucher dans l'Antiquité montrent qu'une lecture uniquement visuelle du signe sous-estime l'expérience tactile qui le rend accessible.
+
+Cette intuition peut être appliquée à la scène homérique et à son traitement dans les arts. Le fragment 451a ne suffit pas, en revanche, à prouver que Sophocle insistait sur le toucher plutôt que sur la reconnaissance par la vue.
+
+### 12. La cicatrice : un signe singulier
+
+La cicatrice d'Ulysse provient d'une blessure reçue pendant une chasse au sanglier sur le Parnasse. Elle est distinctive parce qu'Euryclée connaît la personne et la circonstance dans laquelle elle s'est produite. Un signe ne prouve pas une identité par sa seule existence : il doit être relié à une mémoire vérifiable.
+
+Chez Homère, le héros se détourne de la lumière au moment où la servante prépare le lavage. Il anticipe le danger que représente cette preuve. La cicatrice acquiert ainsi un double statut : elle atteste son identité, mais elle menace le secret dont dépend l'action contre les prétendants.
+
+On peut rapprocher la marque corporelle d'autres signes de reconnaissance dans la littérature grecque : anneaux, tissus, cicatrices et souvenirs d'enfance. Mais les signes ne sont pas tous équivalents. Un objet peut être transféré à autrui ; une marque du corps appartient à une histoire vécue, même si elle peut être imitée ou mal interprétée.
+
+Le théâtre tragique affectionne les objets qui retournent les relations entre personnages. Cependant le cas de *Niptra* ne fournit pas une séquence dramatique attestée ; c'est l'épisode épique qui permet d'analyser le processus.
+
+### 13. La chasse avec Autolycos et le récit de la jeunesse
+
+Homère interrompt le lavement pour raconter l'histoire de la blessure. Le jeune Ulysse est parti chasser avec les fils d'Autolycos, son grand-père maternel. Le sanglier bondit, le frappe à la jambe, et la blessure demeure visible longtemps après la guérison.
+
+Le récit donne au corps une mémoire que l'épopée peut restituer en détail. La cicatrice n'est pas un signe inexplicable surgissant au moment utile : elle possède une cause, des témoins et une place dans la biographie du héros. Son interprétation exige de faire le lien entre le passé et le présent.
+
+Le nom d'Autolycos ajoute une autre dimension. Ce personnage est associé à la ruse et à des serments trompeurs, compétences que le poème place dans le monde du grand-père et de son lien avec Hermès. Ulysse appartient ainsi à une généalogie où la capacité de dissimuler peut être une qualité héroïque.
+
+La tragédie aurait pu tirer parti de ce passé. Rien ne prouve toutefois que Sophocle avait représenté la chasse dans un récit rétrospectif, ni qu'il avait conservé l'excursus complet de l'*Odyssée* XIX.
+
+### 14. Le nom d'Ulysse et l'héritage de la ruse
+
+L'*Odyssée* rapporte aussi la manière dont Autolycos donne un nom à son petit-fils, associé dans le récit à la haine ou au ressentiment que celui-ci a suscité ou reçu. Les étymologies poétiques ne doivent pas être prises pour des démonstrations linguistiques modernes. Elles donnent une signification narrative à un nom hérité.
+
+Ce détour est important pour une étude de l'identité. Le héros est reconnu par une cicatrice, mais il est également reconnu par une histoire familiale qui le précède. Le corps et le nom sont deux supports de mémoire, l'un matériel, l'autre verbal.
+
+Le récit revient alors à la scène du lavement, comme si le signe corporelle exigeait une narration pour devenir intelligible. La cicatrice n'est pas seulement une différence de peau : elle relie des générations, un lieu de chasse et une biographie.
+
+Il serait intéressant de savoir si Sophocle avait dramatisé l'une de ces dimensions. Les fragments ne le disent pas. On peut donc analyser la puissance poétique d'Homère sans attribuer au drame perdu un récit d'enfance reconstruit.
+
+### 15. L'excursus et la suspension du moment critique
+
+La narration de la chasse intervient au moment où Euryclée touche la jambe du héros. Homère suspend l'instant de reconnaissance pour développer une histoire antérieure, puis reprend le contact et ses conséquences. L'effet est remarquable : le lecteur sait que le signe va produire une révélation, mais doit parcourir sa genèse avant de voir éclater la connaissance.
+
+Cette suspension est impossible à reproduire exactement au théâtre sans un choix de composition spécifique. Le poète dramatique pourrait confier l'histoire à un personnage, l'introduire par un récit de messager, ou n'en garder qu'une allusion. Ce ne sont que des possibilités de technique littéraire.
+
+La différence des genres est donc structurante. L'épopée dispose d'un narrateur capable de voyager dans le temps à tout moment. Le drame doit situer ces déplacements à travers les paroles des personnages ou des dispositifs scéniques particuliers.
+
+La question de l'adaptation sophocléenne devient passionnante précisément parce que nous ignorons sa solution. Le travail universitaire consiste à définir les transformations nécessaires et les alternatives, non à publier une solution imaginaire comme texte retrouvé.
+
+### 16. Le silence imposé au moment de la reconnaissance
+
+Lorsque la nourrice reconnaît Ulysse, la joie menace de devenir un cri. Le héros intervient aussitôt pour préserver son secret, car la maison reste dominée par les prétendants. La reconnaissance ne signifie pas que la vérité peut être divulguée immédiatement ; elle crée un devoir de silence temporaire.
+
+Ce renversement est délicat. Un signe qui devait rétablir l'identité peut aussi ruiner le plan de celui qu'il révèle. La parole juste, prononcée au mauvais moment, pourrait produire un résultat tragique. Le héros doit donc gouverner non seulement sa propre apparence, mais la circulation de l'information parmi les personnes qui le reconnaissent.
+
+Le silence d'Euryclée ne doit pas être lu comme une pure absence de pouvoir. Il constitue un acte décidé dans une situation où la révélation serait dangereuse. La nourrice peut participer à la restauration du maître en choisissant de ne pas le nommer.
+
+Mais cette participation se situe toujours dans un rapport hiérarchique. Ulysse impose l'ordre de se taire ; la fidélité de la servante et sa capacité à agir ne peuvent être interprétées sans cette asymétrie.
+
+### 17. Fidélité, servitude et agence morale
+
+Une histoire de retour héroïque accorde souvent une grande valeur à la fidélité des serviteurs. Le poème distingue ceux qui sont restés attachés à Ulysse de ceux qui ont favorisé les prétendants. Cette logique peut donner une puissance dramatique à une figure comme Euryclée : son savoir et son choix ont des conséquences pour toute la maison.
+
+Mais il faut éviter l'idéalisation de la servitude. Une personne réduite à servir dans la maison d'un autre n'est pas libre de ses déplacements et de ses actes au même titre que les maîtres. La reconnaissance du héros peut renforcer le retour de cet ordre ancien autant qu'elle met en lumière l'intelligence de la nourrice.
+
+La tension est philosophiquement intéressante. Celui qui détient la vérité n'est pas celui qui détient le droit de décider de sa publication. Le pouvoir social et le pouvoir épistémique ne coïncident pas.
+
+Si Sophocle avait donné la parole à une nourrice, il aurait pu accentuer cet écart. Aucun fragment conservé ne le prouve. Le commentaire doit le traiter comme une possibilité de dramaturgie, issue du motif homérique, non comme un discours authentique d'Euryclée.
+
+### 18. La cicatrice montrée volontairement aux serviteurs
+
+Le chant XXI de l'*Odyssée* présente une autre reconnaissance corporelle. Ulysse montre volontairement sa cicatrice à Eumée et à Philoitios pour les convaincre de son identité et obtenir leur aide. Le signe est semblable, mais son usage change radicalement.
+
+Lors du lavement, la cicatrice échappe à la maîtrise du héros : elle est découverte malgré sa prudence. Avec les deux serviteurs, Ulysse l'exhibe pour produire une preuve. Dans le premier cas, le savoir survient ; dans le second, le héros s'en sert comme d'un instrument de décision.
+
+Aristote remarque précisément cette différence dans la *Poétique*. Une reconnaissance peut être plus ou moins bien construite selon qu'elle naît naturellement des événements ou qu'un personnage présente volontairement une marque pour être cru.
+
+La comparaison éclaire le motif sans résoudre l'intrigue sophocléenne. Le titre *Niptra* pourrait renvoyer à la première forme de reconnaissance, mais il ne permet pas de savoir si la seconde figurait également dans la pièce. La présence d'Eumée sur le vase de Chiusi n'apporte pas cette preuve à elle seule.
+
+### 19. Aristote, *Poétique* 1454b : le corps comme signe
+
+Aristote analyse plusieurs façons de reconnaître un personnage. La reconnaissance par des signes corporels peut être employée avec des degrés différents de vraisemblance artistique. À propos d'Ulysse, il oppose la découverte de la cicatrice par la nourrice à l'exhibition de la même cicatrice devant les serviteurs fidèles.
+
+Il donne la préférence au procédé qui découle des événements avec une surprise naturelle, plutôt qu'à celui qui a été créé uniquement pour convaincre l'autre personnage. Le geste de laver des pieds n'a pas pour objectif de révéler un secret ; il devient pourtant la cause de la reconnaissance.
+
+Ce jugement porte d'abord sur un épisode homérique, non sur une page conservée de Sophocle. Il donne un langage critique pour comprendre pourquoi le lavement peut former le cœur d'une scène tragique. Une situation ordinaire entraîne une conséquence décisive, sans recherche explicite de preuve par celui qui est reconnu.
+
+L'intérêt de la référence est de distinguer les catégories d'analyse des textes qui les illustrent. La *Poétique* peut éclairer une œuvre perdue sans en devenir une source de vers authentiques.
+
+### 20. Le référent des « Niptra » chez Aristote
+
+Le mot *Niptra* apparaît dans les discussions aristotéliciennes de la scène du lavement. Une erreur éditoriale fréquente consisterait à en déduire qu'Aristote cite nécessairement le titre sophocléen *Niptra* et confirme son dénouement. Le terme pouvait aussi nommer conventionnellement l'épisode du chant XIX de l'*Odyssée*.
+
+La distinction est documentée par les travaux lexicographiques sur le titre, notamment le commentaire de Christian Orth à propos du comique Polyzelos, qui possédait lui aussi une œuvre intitulée *Niptra*. Le même mot pouvait désigner un geste, une portion de l'épopée et plusieurs pièces de théâtre. Il ne faut donc pas traiter son emploi comme un identifiant bibliographique unique.
+
+Dans la *Poétique*, l'exemple d'Ulysse est explicitement lié à la différence de procédés de reconnaissance. Le contexte homérique est suffisant pour expliquer le passage. Pour établir un renvoi spécifique à Sophocle, il faudrait une indication supplémentaire que la citation ne garantit pas.
+
+Cette prudence protège à la fois la chronologie et le corpus des fragments : Aristote fournit un commentaire sur l'art de la reconnaissance, pas une liste de scènes du *Niptra* perdu.
+
+### 21. Comment pourrait-on représenter un lavement au théâtre ?
+
+Une scène de lavement aurait exigé peu d'objets : un récipient, de l'eau, un endroit où le visiteur puisse s'asseoir ou se tenir, une personne chargée du soin. Cette simplicité technique est précisément ce qui rend la scène puissante. Le spectateur peut regarder un geste domestique ordinaire en sachant qu'il comporte une preuve décisive.
+
+Mais un théâtre n'est pas une reconstitution automatique d'Homère. Sophocle pouvait conserver le déguisement d'Ulysse, déplacer le bain devant la maison, donner le rôle de la nourrice à une autre figure, ou concentrer la scène sur le secret plutôt que sur l'acte matériel du lavage. Nous ignorons quelle solution fut retenue.
+
+La question des masques rend le problème plus intéressant. Comment une cicatrice invisible au public aurait-elle été reconnue par un personnage ? La narration pouvait faire entendre un échange sur la marque ou utiliser un costume qui la rendait visible de loin. Rien ne prouve la forme de cette convention.
+
+Il serait donc trompeur de publier une scène imaginaire avec dispositions exactes des acteurs, bassin et cicatrice, sous l'étiquette « restitution archéologique de Sophocle ». L'étude peut expliquer les contraintes, pas décider de l'objet et de sa position sans témoin.
+
+### 22. Euryclée, Antiphata et Anticlée : l'identité des femmes dans les témoins
+
+La nourrice homérique se nomme **Euryclée** (*Eurykleia*). Pourtant le skyphos attique de Chiusi attribué au Peintre de Pénélope, datable vers 440–430 av. J.-C., donne au personnage qui lave les pieds une inscription lue **Antiphata**. Dans un passage des *Tusculanes* V, Cicéron emploie le nom **Anticlée**, qui est par ailleurs celui de la mère d'Ulysse dans la tradition homérique.
+
+Cette série de noms a longtemps provoqué des commentaires. Peut-on y reconnaître une tradition scénique où Sophocle avait changé le nom de la nourrice ? Une erreur de transmission chez Cicéron ? Une variante indépendante illustrée par le vase ? Aucun indice ne permet de résoudre seul la question.
+
+Les peintres de vases pouvaient représenter des récits connus en adaptant les personnages, les vêtements et les noms. Les auteurs latins pouvaient eux aussi confondre deux figures appartenant au même foyer héroïque.
+
+La seule conclusion sûre est que l'iconographie et le témoignage latin témoignent d'une certaine variabilité de la tradition. Ils ne prouvent pas quel nom figurait dans les vers perdus du *Niptra*.
+
+### 23. Une scène odysséenne comme modèle de *Niptra*
+
+Le titre, la tradition de Sophocle et la matière homérique rendent très plausible une tragédie fondée sur le retour d'Ulysse et sa reconnaissance par la nourrice. Christine Mitchell Havelock a rappelé que le lavement est un moment particulièrement bien choisi pour représenter l'intimité et la force sociale de l'identification.
+
+Si ce modèle est retenu, l'action pouvait se dérouler après l'arrivée d'Ulysse à Ithaque, avec la nécessité de préparer sa vengeance contre les prétendants. La scène du bain aurait alors mis en jeu le conflit entre savoir et secret. Mais les fragments ne conservent aucun prologue permettant de fixer la situation.
+
+Une autre reconstruction aurait pu faire du bain la conclusion d'une série d'épreuves de retour, ou placer le geste dans une histoire qui ne reproduisait pas exactement les étapes de l'épopée. L'existence d'un titre différent de ceux des livres de l'*Odyssée* ne justifie pas que l'on résolve cette incertitude par la simple copie du chant XIX.
+
+Le modèle reste donc fortement soutenu au niveau du motif, faible au niveau des épisodes et presque muet au niveau du texte exact.
+
+### 24. *Odysseus Acanthoplex* : une mort par erreur d'identité
+
+L'autre pièce sophocléenne concerne, selon son titre et des témoins anciens, Ulysse mortellement blessé par un aiguillon. La tradition de la *Télégonie* situe ce meurtre lors de l'arrivée à Ithaque de Télégonos, fils qu'Ulysse a eu de Circé. Le jeune homme ne reconnaît pas son père ; une confrontation aboutit à la blessure mortelle.
+
+La structure est le miroir sombre de la reconnaissance par Euryclée. Dans le lavement, un corps est identifié avant qu'une catastrophe ne se produise ; dans la mort par Télégonos, la reconnaissance intervient après un acte irréversible. Le secret peut sauver ou détruire selon le moment où il est levé.
+
+La parenté est ici un fait que les personnages ne maîtrisent pas. Être fils d'Ulysse ne protège pas Télégonos de tuer celui qu'il cherche. L'ignorance produit le crime sans que le jeune homme ait nécessairement désiré un parricide.
+
+Il faut néanmoins préserver la séparation du corpus : ce schéma appartient au dossier post-homérique et à *Odysseus Acanthoplex*. Il ne devient pas le dénouement assuré de *Niptra*, quel que soit le désir de produire une tragédie continue sur la vie entière du héros.
+
+### 25. La *Télégonie* et les suites post-homériques
+
+La *Télégonie*, épopée perdue du Cycle, connue principalement par le résumé de Proclos et quelques témoignages secondaires, poursuit le récit d'Ulysse au-delà de l'*Odyssée*. Le héros voyage de nouveau, entre en relation avec des souverains et revient à Ithaque ; son fils Télégonos arrive en quête de lui et le tue involontairement.
+
+Le résumé se termine par un ensemble de déplacements et de mariages qui diffèrent fortement de la clôture homérique. Les détails varient selon les témoins, notamment Hygin, *Fables* 127, et le pseudo-Apollodore, *Épitomé* VII, 36–37.
+
+L'histoire épique n'est pas une simple erreur qu'il faudrait supprimer au nom de la fidélité à Homère. Le monde grec a produit plusieurs suites à l'épopée et plusieurs façons de penser le destin d'un héros revenu. Mais cette pluralité interdit de traiter un seul récit comme l'unique version « authentique ».
+
+La *Télégonie* est la meilleure source comparative pour *Odysseus Acanthoplex*, non la source directe connue du *Niptra* de Sophocle. Les deux dossiers devront conserver leurs citations autonomes dans MYTHOS.
+
+### 26. Le dard de raie et la mort « venue de la mer »
+
+Dans l'*Odyssée* XI, Tirésias prédit à Ulysse une mort associée à la mer ou venant d'elle, dans une formulation ancienne dont le sens a suscité plusieurs discussions. Les versions post-homériques lisent parfois cette indication à travers l'arme de Télégonos : une lance munie d'un aiguillon de raie, animal marin, devient l'instrument de la mort.
+
+Ce rapprochement possède une force narrative considérable : l'homme qui a survécu à la mer reçoit d'elle, au terme de sa vie, la blessure qui le tue. Mais il ne faudrait pas faire du mot homérique la preuve philologique que le poète de l'*Odyssée* connaissait déjà chaque détail de la *Télégonie*.
+
+L'interprétation relève d'une relecture créatrice de l'oracle. Les images de la mer peuvent qualifier un trajet, un lieu, une origine de l'arme ou une puissance ennemie. Le récit postérieur en sélectionne une réalisation possible.
+
+La tragédie *Odysseus Acanthoplex* pouvait exploiter cette convergence, sans que nous possédions tous les vers qui l'expliquaient. Rien ne permet d'en déduire que *Niptra* fut conçu comme une pièce sur le présage de Tirésias.
+
+### 27. La tragédie de Pacuvius : un cas d'adaptation complexe
+
+Marcus Pacuvius, poète dramatique latin du IIe siècle av. J.-C., a composé une tragédie intitulée *Niptra*. Les fragments sont étudiés notamment dans l'édition d'Elisabeth Schierl, *Die Tragödien des Pacuvius* (2006), sous les numéros **190–202**. Il s'agit d'une œuvre latine autonome, et non d'une édition des fragments grecs de Sophocle.
+
+La matière de Pacuvius paraît réunir le motif du lavement et celui de la blessure mortelle du héros. La pratique romaine de réécriture permettait une combinaison de plusieurs modèles grecs, la modification de la distribution et l'introduction de discours nouveaux. Ce que l'on appelle parfois *contaminatio* ne peut être établi dans chaque cas qu'à partir de témoins précis.
+
+La comparaison offre un enseignement philologique simple : des titres identiques n'impliquent pas des contenus identiques. Pacuvius pouvait choisir de conserver *Niptra* comme nom d'une tragédie tout en augmentant considérablement son champ narratif.
+
+La réception romaine possède donc son histoire, ses conventions et ses enjeux philosophiques propres. Elle ne doit jamais être utilisée pour attribuer à Sophocle un vers latin, même si Cicéron signale une relation entre les auteurs.
+
+### 28. Cicéron : quel Ulysse souffre dignement ?
+
+Dans les *Tusculanes* II, 48–50, Cicéron compare la manière dont Ulysse supporte la douleur chez Sophocle et chez Pacuvius. Il préfère le traitement du poète latin, dont le héros blessé demande qu'on le déplace lentement pour ne pas aggraver la douleur, alors que, selon Cicéron, l'Ulysse grec se lamentait davantage.
+
+Cette comparaison est particulièrement importante parce qu'elle constitue un témoignage ancien sur la réception des pièces. Mais elle n'a pas la valeur d'une copie continue du texte sophocléen. Cicéron sélectionne un contraste utile à son argument philosophique sur la maîtrise des affects, et il peut simplifier les nuances dramatiques pour servir sa démonstration.
+
+Le jugement cicéronien ne signifie pas non plus que le théâtre grec jugeait toute douleur indigne. La plainte est un acte tragique possible, et les héros peuvent y révéler leur humanité. Le programme moral de Cicéron, qui valorise le contrôle de soi, n'est pas nécessairement celui des personnages de Sophocle.
+
+Le texte latin invite à distinguer trois niveaux : la scène attribuée au grec, son réemploi romain et la lecture philosophique de Cicéron. Les confondre conduirait à reconstruire abusivement *Niptra*.
+
+### 29. L'Ulysse de Cicéron et les noms des femmes
+
+Dans un passage des *Tusculanes* V, Cicéron mentionne la nourrice au moment du lavement. Il emploie le nom **Anticlée**, alors que l'*Odyssée* distingue clairement Anticlée, mère d'Ulysse, d'Euryclée, la nourrice qui lave ses pieds. Cette confusion a été relevée par les éditeurs et commentateurs latins.
+
+Le skyphos de Chiusi porte une troisième désignation, **Antiphata**, inscrite près de la femme qui se penche vers le héros. Il serait tentant d'y voir un souvenir direct de la pièce de Sophocle, où la nourrice aurait porté un nom proche de celui transmis par Cicéron.
+
+Mais la proximité phonétique et narrative ne démontre pas l'identité de la source. Les erreurs de nom et les variations picturales sont fréquentes dans les traditions mythologiques. Une œuvre perdue ne peut être reconstituée à partir d'une convergence supposée qui demeure compatible avec plusieurs explications.
+
+Il faut donc retenir les trois noms avec leurs témoins distincts, et ne pas réécrire Homère pour l'accorder à la peinture ou à Cicéron. La même histoire a circulé dans des communautés et des supports qui ne transmettent pas nécessairement les mêmes données.
+
+### 30. Le risque de reconstruire Sophocle à partir de Rome
+
+La tragédie latine *Niptra* nous informe sur la valeur du mythe pour une autre culture. Elle permet d'examiner les formes de la douleur, la place du héros vieillissant et l'éthique de la résistance à l'épreuve. Mais elle ne prouve pas que la pièce grecque avait le même nombre d'épisodes ou faisait intervenir les mêmes personnages.
+
+L'hypothèse de la fusion des deux sujets sophocléens demeure particulièrement probable pour expliquer l'ampleur du récit latin. Un auteur romain pouvait réunir plusieurs moments de l'histoire d'Ulysse et conserver un titre prestigieux, sans viser la fidélité littérale.
+
+Cette possibilité ne justifie pas de rediviser les vers de Pacuvius en « passages de *Niptra* sophocléen » et « passages d'*Acanthoplex* » selon le goût du commentateur. Il faudrait des indices textuels plus forts pour assigner chaque ligne à une origine déterminée.
+
+Le problème a une portée plus générale pour l'encyclopédie : une adaptation célèbre peut devenir la source indirecte la plus abondante sur une œuvre perdue, mais son abondance n'augmente pas automatiquement la quantité de texte grec attesté.
+
+### 31. Le skyphos de Chiusi : deux faces et un programme narratif
+
+Le **skyphos attique à figures rouges** attribué au **Peintre de Pénélope**, conservé au **Museo Archeologico Nazionale de Chiusi**, inventaire **1831**, est daté vers **440–430 av. J.-C.** La base documentaire de Perseus le recense sous **aa_5676**, numéro Beazley **216789**, *ARV²* 1300, 2 : https://perseus-aa.github.io/items/aa_5676.html .
+
+Sur une face, Pénélope apparaît devant son métier à tisser tandis que Télémaque se tient à proximité. Sur l'autre, un personnage féminin lave le pied d'Ulysse, sous le regard d'un homme généralement identifié à Eumée. Les inscriptions signalent notamment Pénélope et Télémaque d'un côté, et Ulysse, Antiphata et Eumée de l'autre.
+
+La juxtaposition des deux faces produit une réflexion visuelle sur le retour. D'un côté, l'attente et le deuil d'un absent ; de l'autre, la présence physique du héros qui demeure encore mal reconnue par certains. L'œuvre peinte ne suit pas nécessairement la chronologie du chant XIX comme un film composé de deux images.
+
+Le vase est un document précieux sur la réception classique de l'*Odyssée* et, peut-être, sur des formes de spectacle. Il ne permet pas d'établir à lui seul l'origine sophocléenne de la version.
+
+### 32. Antiphata et Eumée : la peinture comme variation
+
+La scène peinte diffère du récit homérique sur plusieurs points. Ulysse est représenté debout ou dans une attitude autre que celle du mendiant assis, et sa présentation corporelle ne reproduit pas exactement le déguisement décrit par le poème. La femme désignée Antiphata peut paraître plus jeune que la vieille Euryclée. Eumée apparaît à proximité alors que la narration du lavement chez Homère donne un autre entourage.
+
+Ces différences ont conduit des spécialistes, notamment la tradition étudiée par Steven Lowenstam, à envisager une influence du théâtre sur la peinture. Elles constituent de vrais indices pour une enquête sur les circulations entre performance et iconographie, mais elles ne fournissent pas un nom de dramaturge inscrit sur le vase.
+
+La différence entre iconographie et texte ne doit pas être considérée comme une faute. Un peintre peut choisir les traits permettant d'identifier les personnages ou de rendre l'action plus lisible sur une surface courbe. Des variantes orales peuvent aussi circuler indépendamment du théâtre.
+
+C'est donc un comparandum, pas un fac-similé de la première représentation de *Niptra*. Aucun détail de l'objet ne doit être transposé en didascalie sophocléenne.
+
+### 33. Hospitalité, mendicité et violence
+
+Ulysse revient sous l'apparence d'un étranger pauvre. La façon dont les membres de sa maison l'accueillent révèle leurs dispositions morales. Certains le méprisent parce que son corps et ses vêtements paraissent démunis ; d'autres reconnaissent qu'un arrivant possède des droits d'hospitalité indépendants de son statut apparent.
+
+La scène du bain contribue à cette épreuve. Pénélope ordonne un soin pour un étranger ; elle n'exige pas une preuve préalable de richesse, de naissance ou de puissance. C'est précisément dans ce geste de service que surgit la vérité de l'hôte.
+
+Le contraste avec les prétendants est majeur : ils occupent la maison par la force sociale et détournent les biens de l'absent, alors que le propriétaire légitime paraît être celui qui ne possède rien. Le pouvoir juridique et le pouvoir visible sont temporairement séparés.
+
+Une tragédie inspirée de ce moment pouvait interroger l'hospitalité et l'usurpation. Mais ces thèmes proviennent principalement de la matière homérique ; aucune réplique politique propre au *Niptra* de Sophocle n'en atteste le traitement exact.
+
+### 34. Platon : apparition trompeuse et vérité de l'âme
+
+Platon ne nous a pas laissé de commentaire direct sur le *Niptra* de Sophocle. La reconnaissance d'Ulysse peut néanmoins être rapprochée de la question philosophique de l'apparence et du savoir. Le héros se donne à voir sous une figure qui ne correspond pas à son identité sociale, tandis qu'un signe corporel permet de reconnaître une continuité.
+
+Le *Théétète* examine les limites de l'opinion et les conditions d'une connaissance véritable. Une personne peut être fortement convaincue sans posséder une preuve suffisante ; la reconnaissance demande l'articulation de l'indice et de la mémoire. La cicatrice d'Ulysse n'est pas une connaissance abstraite, mais elle devient un signe interprété par une personne qui a connu son histoire.
+
+La *République* offre une autre question : la valeur d'un individu dépend-elle de l'apparence par laquelle une communauté le classe ? Le roi déguisé comme un pauvre reçoit du mépris malgré ses qualités et son rang réel.
+
+Ces rapprochements sont conceptuels et tardifs. Il serait anachronique de transformer Euryclée en philosophe platonicienne ou de faire de Sophocle l'auteur d'une démonstration sur la théorie des Formes.
+
+### 35. Hegel : la reconnaissance n'est pas nécessairement réciproque
+
+Chez Hegel, la reconnaissance engage les relations dans lesquelles les personnes se définissent et se voient accorder une place. La scène d'Euryclée peut être relue à la lumière de cette problématique, mais elle présente aussi une asymétrie importante : la servante reconnaît le maître, alors que le maître connaissait déjà l'identité de la servante.
+
+Ce n'est donc pas une reconnaissance réciproque entre deux consciences égales. La hiérarchie domestique continue de déterminer le pouvoir de parler, de décider et de commander. La nourrice possède momentanément le savoir décisif, mais c'est Ulysse qui fixe les conditions du silence.
+
+Le phénomène est instructif pour une lecture non simplificatrice du retour. Reconnaître quelqu'un ne signifie pas automatiquement transformer les structures sociales qui organisent la relation. La fidélité d'Euryclée peut contribuer à rétablir une maison où elle demeure servante.
+
+Le rapprochement hégélien doit rester celui d'un lecteur moderne. Il n'existe aucun témoignage permettant d'affirmer que Sophocle aurait composé une scène de conflit entre maître et serviteur sur le modèle philosophique du XIXe siècle.
+
+### 36. Nietzsche : le corps porte une histoire de souffrance
+
+La cicatrice d'Ulysse rappelle que la reconnaissance héroïque peut reposer sur une blessure plutôt que sur une victoire visible. Chez Nietzsche, le corps et la mémoire possèdent des liens complexes : certaines expériences douloureuses laissent une empreinte durable, qui résiste aux récits par lesquels un sujet se présente.
+
+La *Généalogie de la morale* traite notamment du rapport entre douleur, mémoire et constitution de l'individu moral. Une lecture comparée peut interroger la manière dont la marque corporelle d'Ulysse conserve un événement que son discours actuel cherche à tenir à distance. Mais la chasse au sanglier n'est pas, chez Homère, une technique institutionnelle de mémorisation punitive.
+
+Il serait donc trompeur de prétendre que la cicatrice « illustre » directement la théorie nietzschéenne. Elle permet simplement de distinguer une identité racontée et une identité incarnée, dont les signes peuvent contredire la représentation volontaire de soi.
+
+L'intérêt du rapprochement tient à la temporalité : le héros ne peut redevenir celui d'avant la guerre et les voyages ; son corps porte des traces de plusieurs vies, et la reconnaissance exige de comprendre cette continuité plutôt que d'effacer la souffrance.
+
+### 37. Aristote : une découverte meilleure qu'une démonstration forcée
+
+Aristote estime, dans la *Poétique*, que les reconnaissances les plus artistiques découlent d'une progression naturelle des événements. La découverte de la cicatrice pendant un bain illustre cette logique : le signe est révélé par un geste motivé par l'hospitalité, non par une scène où Ulysse déciderait d'exhiber une preuve pour convaincre son interlocutrice.
+
+La différence avec le chant XXI est essentielle. Quand Ulysse montre volontairement la marque à des serviteurs, la reconnaissance possède une fonction stratégique. Au chant XIX, le signe menace son plan ; c'est une conséquence non recherchée de l'action.
+
+Cette structure pourrait faire un excellent épisode tragique. Mais sans la pièce de Sophocle, nous ignorons si le dramaturge avait conservé la surprise ou la transformait en démonstration plus explicite. Les catégories d'Aristote peuvent éclairer Homère sans devenir des fragments du théâtre perdu.
+
+Il faut également ne pas confondre *Niptra*, partie de l'*Odyssée*, et *Niptra*, titre d'une pièce : la présence du mot chez Aristote n'est pas une identification matérielle de l'œuvre sophocléenne.
+
+### 38. La servante qui sait avant la reine
+
+Le lavement présente une distribution de l'information qui défait temporairement la hiérarchie politique. Pénélope gouverne certains aspects de la maison, mais Euryclée reconnaît son maître avant elle. La reine décide du soin, la servante en exécute le geste, et le résultat dépasse les intentions des deux.
+
+Le toucher permet un savoir que ni le prestige ni l'autorité ne garantissent. La nourrice a connu le corps d'Ulysse dans la durée ; cette familiarité peut se révéler plus efficace qu'une enquête formelle sur les origines de l'étranger. Le savoir ordinaire devient un savoir stratégique.
+
+Mais la même scène montre les limites de cette puissance. Euryclée doit garder le secret, parce que la vérité rendue publique trop tôt serait dangereuse. La connaissance n'est pas automatiquement liberté d'expression, particulièrement dans une maison hiérarchisée et occupée par des adversaires.
+
+La lecture reste ancrée dans le chant XIX. Nous n'avons pas le droit d'affirmer que le *Niptra* de Sophocle possédait un chœur de femmes esclaves commentant cette situation. Il serait aussi réducteur de ne voir dans la nourrice qu'un moyen mécanique de produire la reconnaissance.
+
+### 39. *Électre*, *Philoctète* et *Iphigénie en Tauride*
+
+Dans l'*Électre* de Sophocle, la reconnaissance d'Oreste modifie un état de deuil et prépare un acte de vengeance. Plusieurs personnages détiennent des informations différentes ; des preuves et des récits font évoluer ce qu'ils croient. La comparaison avec Euryclée montre comment une connaissance nouvelle peut changer l'issue d'une maison.
+
+Le *Philoctète* de Sophocle place une blessure au cœur de l'identité dramatique d'un héros. La souffrance corporelle y est manifeste, visible ou décrite dans la parole ; le corps empêche les plans stratégiques de se réaliser sans réexaminer les obligations envers une personne vulnérable. La cicatrice d'Ulysse n'a pas la même fonction que la plaie de Philoctète, mais les deux récits associent connaissance du corps et décision morale.
+
+Dans l'*Iphigénie en Tauride* d'Euripide, la reconnaissance entre frère et sœur repose sur l'accumulation de preuves et sur la réévaluation de récits familiaux. Elle peut servir de comparaison pour l'art d'organiser un passage de l'ignorance à l'alliance.
+
+Ces parallèles permettent de penser les possibilités d'un drame ; ils ne livrent aucun vers supplémentaire pour *Niptra*.
+
+### 40. Comparer sans déduire une origine unique
+
+Les récits de reconnaissance par une marque corporelle se rencontrent sous des formes diverses dans les traditions antiques. Une cicatrice, un signe de naissance, un vêtement ou un objet transmis peut servir de preuve d'identité. Mais ces procédés ne possèdent pas tous la même histoire ni le même degré d'authenticité.
+
+Dans la tradition grecque, le motif du retour (*nostos*) est particulièrement propice à la reconnaissance : le voyageur a changé, ceux qui l'attendent ne savent pas s'il est vivant, et le temps a transformé son apparence. Le signe crée un pont entre l'ancien et le nouveau.
+
+Il serait tentant de comparer ce schéma à des récits mésopotamiens, égyptiens ou bibliques de retour et de reconnaissance, puis d'affirmer une origine commune. Une telle conclusion exigerait des preuves de circulation et de date. La ressemblance narrative ne prouve pas une filiation directe.
+
+La comparaison la plus solide reste donc d'abord interne à l'épopée et au théâtre grecs, puis à leur réception latine. Elle permet de mesurer la flexibilité du motif sans construire une généalogie universelle fictive.
+
+### 41. Deux modèles, et non une pièce reconstruite
+
+**Modèle A — une tragédie du retour.** Sophocle aurait adapté une portion du chant XIX : arrivée du héros déguisé, conversation avec Pénélope, lavement par la nourrice, découverte de la cicatrice, silence imposé et préparation de la vengeance. Ce modèle est soutenu par le titre et par la proximité de la matière homérique. Aucune scène continue ne subsiste pour confirmer l'ordre.
+
+**Modèle B — une histoire d'Ulysse plus étendue.** La pièce aurait pu relier une reconnaissance du retour à un événement post-homérique, éventuellement une blessure soignée ou la confrontation avec Télégonos. Ce modèle rend compte d'une partie de la tradition interprétative ancienne et du contenu probable de Pacuvius. Il pose cependant de sérieux problèmes de durée et entre en tension avec la séparation du titre *Odysseus Acanthoplex* dans Radt.
+
+Ces modèles sont des hypothèses concurrentes. Leur réunion en trois actes imaginaires produirait une nouvelle pièce contemporaine, non un texte perdu de Sophocle. La présente étude ne décide donc ni la dernière parole du héros, ni le chœur, ni la scène finale.
+
+La résolution la plus rigoureuse consiste à considérer le modèle A comme plausible, tout en documentant les arguments du modèle B sans lui attribuer le statut de vérité dramatique.
+
+### 42. Iconographie institutionnelle : Chiusi 1831
+
+**Objet.** Skyphos attique à figures rouges, attribué au Peintre de Pénélope ; vers **440–430 av. J.-C.** ; trouvé à Chiusi, conservé au **Museo Archeologico Nazionale di Chiusi**, inventaire **1831** ; numéro Beazley **216789**, *ARV²* 1300, 2. La base **Perseus Art and Archaeology Browser** donne une notice, une bibliographie et des dessins des deux faces : https://perseus-aa.github.io/items/aa_5676.html .
+
+**Face A.** Pénélope assise devant son métier à tisser, face à Télémaque. La composition fait du travail textile et de l'attente une image de la continuité domestique.
+
+**Face B.** Ulysse, le pied lavé par une femme désignée **Antiphata**, sous le regard d'Eumée. Les inscriptions, dont la conservation varie, permettent d'identifier plusieurs personnages. La désignation de la nourrice diffère du nom homérique **Euryclée** ; cette différence doit figurer dans la légende.
+
+**Documentation complémentaire.** Le Centre de la langue grecque (greek-language.gr) décrit les variations par rapport à Homère : https://www.greek-language.gr/digitalResources/ancient_greek/education/mythology/epic/record.html?rid=618&tbl=epic . Steven Lowenstam a discuté l'hypothèse d'une influence théâtrale : « The Uses of Vase-Depictions in Homeric Studies », *Transactions of the American Philological Association* 122 (1992), p. 165–198, DOI https://doi.org/10.2307/284370.
+
+**Légende scientifique obligatoire.** « Skyphos attique, vers 440–430 av. J.-C., Chiusi 1831. La reconnaissance d'Ulysse par le lavement des pieds ; la femme est nommée Antiphata sur le vase, non Euryclée comme chez Homère. Iconographie du récit odysséen, lien direct avec le *Niptra* de Sophocle non prouvé. » Les photographies de l'objet ne doivent pas être réhébergées sans contrôle de licence. Aucun visuel vectoriel en perspective 2,5D ne doit être introduit.
+
+### 43. Matrice de vérifiabilité
+
+| Énoncé | Source | État de preuve |
+|---|---|---|
+| Sophocle possédait un titre *Niptra*. | *TrGF* 4, fr. 451a et tradition bibliographique. | Attesté [S] ; genre tragique retenu, texte presque perdu. |
+| Nous pouvons reconstruire de longs dialogues de *Niptra*. | Aucun témoin direct suffisant. | Faux ; à ne pas fabriquer. |
+| La scène homérique du bain et de la cicatrice figure dans l'*Odyssée* XIX. | Homère XIX 386–507. | Direct [HOM]. |
+| Euryclée reconnaît Ulysse par la cicatrice d'une chasse au sanglier. | Homère XIX. | Direct [HOM], non vers de Sophocle. |
+| Ulysse montre volontairement sa marque à Eumée et Philoitios. | Homère XXI 205–225. | Direct [HOM]. |
+| Aristote analyse la différence entre ces reconnaissances. | *Poétique* 1454b25–30. | Direct pour la théorie ; renvoi à Sophocle non démontré. |
+| *Niptra* et *Odysseus Acanthoplex* sont certainement la même pièce. | Thèse ancienne ; classement critique contraire. | Contesté [INF] ; distinguer les dossiers. |
+| *Odysseus Acanthoplex* concerne le destin d'Ulysse blessé par un aiguillon. | Titre et frr. 453–461a ; *Télégonie*. | Fort pour le thème, scènes perdues. |
+| Pacuvius a écrit une tragédie *Niptra*. | Fragments latins ; Cicéron. | Attesté [LAT], réécriture non copie. |
+| Cicéron juge Pacuvius plus maîtrisé que Sophocle dans la plainte. | *Tusculanes* II 48–50. | Attesté comme jugement cicéronien [LAT]. |
+| Le vase de Chiusi montre le lavement et porte le nom Antiphata. | Skyphos Chiusi 1831, inscriptions. | Objet attesté [ICON]. |
+| Le vase reproduit exactement une scène de Sophocle. | Hypothèse iconographique. | Non démontré [INF]. |
+| Le décor et la composition du chœur de *Niptra* sont connus. | Aucune source directe complète. | Inconnus. |
+| La première représentation de *Niptra* date de 440. | Déduction circulaire du vase. | Non établi. |
+
+Ce tableau distingue le texte dramatique, la matière homérique, la réception latine et l'interprétation moderne. Il ne doit pas être supprimé lorsque le site génère ses sommaires ou ses dossiers thématiques.
+
+### 44. Bibliographie raisonnée
+
+**Fragments, éditions, transmission**
+
+1. **Stefan Radt** (éd.), *Tragicorum Graecorum Fragmenta*, vol. 4, *Sophocles*, Göttingen, Vandenhoeck & Ruprecht, édition revue **1999**. *Niptra*, **fr. 451a** ; *Odysseus Acanthoplex*, **frr. 453–461a**. Référence canonique du classement des textes sophocléens perdus.
+2. **A. C. Pearson** (éd.), *The Fragments of Sophocles*, vol. II, Cambridge University Press, **1917**, p. **105–113** et passages suivants, section *Niptra / Odysseus Acanthoplex*. Édition ancienne en texte accessible : https://lexarithmos.app/academy/sophocles/works/pearson-fragments-vol2-1917-part-5/ . La réunion des titres défendue par Pearson est une thèse critique, non une donnée incontestée.
+3. **Hugh Lloyd-Jones** (éd. et trad.), *Sophocles: Fragments*, Loeb Classical Library, Cambridge (Mass.), Harvard University Press, **1996**, sections *Niptra* et *Odysseus Acanthoplex*, sur la séparation des deux pièces.
+4. **Matthew Wright**, *The Lost Plays of Greek Tragedy*, vol. II, *Aeschylus, Sophocles and Euripides*, Londres, Bloomsbury Academic, **2019**, notice *The Footwashing* (TrGF 4 F451a) et *Odysseus Wounded by the Spine* (TrGF 4 F453–461a). Ne pas prendre une reconstruction de la réception romaine pour le texte grec complet.
+5. **Christian Orth**, commentaire de Polyzelos, *Niptra*, dans *Fragmenta Comica*, volume **9.3**, Nikocharès–Xénophon, Heidelberg, **2015**, p. **354** : https://digi.hadw-bw.de/view/frc9_3/0359 ; sur le titre grec, l'usage du neutre pluriel et les homonymies avec Sophocle et Pacuvius.
+
+**Sources grecques primaires**
+
+6. **Homère**, *Odyssée*, XIX, **361–507** (accueil, lavement, reconnaissance et chasse) ; XXI, **205–225** (signe montré aux serviteurs) ; XXIII, **73–77** (reconnaissance discutée), XXIV, **329** (signe de reconnaissance). Édition commentée *New Alexandria* de Gregory Nagy, [Perseus XIX](https://beta.perseus.tufts.edu/urn:cts:greekLit:tlg0012.tlg002.butlernagy2020-eng2/book:19/) ; [texte et traduction XIX, Theoi](https://www.theoi.com/Text/HomerOdyssey19.html).
+7. **Aristote**, *Poétique*, **1454b25–30**, sur les deux reconnaissances d'Ulysse par la cicatrice ; **1460a26** pour la discussion du titre ou de l'épisode « Niptra ». Ne pas traiter automatiquement l'expression comme un témoignage sur la pièce de Sophocle.
+8. **Proclos**, *Chrestomathie*, résumé de la *Télégonie* attribuée dans la tradition à Eugammon de Cyrène ; voir les recueils du Cycle épique et Martin L. West, *Greek Epic Fragments*, Loeb Classical Library, 2003.
+9. **Pseudo-Apollodore**, *Épitomé*, VII, **36–37**, mort d'Ulysse et Télégonos ; [texte en traduction](https://www.theoi.com/Text/ApollodorusEpitome.html).
+10. **Hygin**, *Fables* **127**, sur Télégonos, l'arme marine et la confrontation avec Ulysse ; texte latin à contrôler selon l'édition P. K. Marshall.
+11. **Parthénios de Nicée**, *Erotica Pathemata*, notice sur Euryalos et le destin d'Ulysse ; témoignage complémentaire dans les débats sur la jonction des cycles.
+12. **Aélien**, *Histoire variée*, XIII, 14, référence à la désignation de la scène de lavement dans la tradition de lecture de l'épopée.
+
+**Réception latine et philosophie de la douleur**
+
+13. **Marcus Pacuvius**, *Niptra*, frr. **190–202** dans **Elisabeth Schierl** (éd.), *Die Tragödien des Pacuvius. Ein Kommentar zu den Fragmenten mit Einleitung, Text und Übersetzung*, Berlin–New York, Walter de Gruyter, **2006**. Édition des fragments latins ; les anciens numéros de Ribbeck doivent être conservés distinctement.
+14. **Cicéron**, *Tusculanae disputationes*, II, **48–50**, sur la plainte d'Ulysse chez Sophocle et la retenue de l'adaptation pacuvienne ; V, **46–48**, sur la nourrice et la douceur de la voix. [Texte latin et traduction commentée II](https://gottwein.de/Lat/CicTusc/tusc2042.php) ; [texte latin V](https://www.lateinlex.de/?call=Puc&permalink=Cic_philos_Tusc_5_16).
+15. **George W. M. Harrison**, « Romanisation of Greek Drama: Tragedy », *Logeion*, **13** (2023), p. **182–211**, DOI https://doi.org/10.26225/92N0-VM53 ; étude de la transformation des textes grecs dans le théâtre républicain, avec la distinction entre *Niptra* et *Odysseus Acanthoplex*.
+16. **Salvatore Mirasole**, « Ulisse modello di *decorum*: a proposito di Cic. *Tusc.* 2, 48–50 », *Pan*, **10** (2021), sur la comparaison cicéronienne du modèle sophocléen et de Pacuvius. [Revue de l'Université de Palerme](https://www.unipa.it/dipartimenti/cultureesocieta/riviste/pan/).
+17. **Gesine Manuwald**, *Roman Republican Theatre*, Cambridge University Press, **2011**, chapitres sur la tragédie romaine et ses modèles grecs ; utile pour les limites de la notion d'adaptation.
+
+**Histoire des reconnaissances, littérature, image**
+
+18. **Christine Mitchell Havelock**, « The Intimate Act of Footwashing: Odyssey 19 », dans Beth Cohen (dir.), *The Distaff Side: Representing the Female in Homer's Odyssey*, Oxford University Press, **1995**, p. **185–199**, DOI https://doi.org/10.1093/oso/9780195086829.003.0011 .
+19. **Steven Lowenstam**, « The Uses of Vase-Depictions in Homeric Studies », *Transactions of the American Philological Association* **122** (1992), p. **165–198**, DOI https://doi.org/10.2307/284370 . Étude des écarts iconographiques et des rapports possibles aux performances dramatiques.
+20. **Gregory Nagy**, *New Alexandria Commentary* sur l'*Odyssée* XIX, reconnaissance, *sēma* et statut de la cicatrice : https://homer.opencommentaries.org/passages/urn:cts:greekLit:tlg0012.tlg002:19/ .
+21. **Pénélope. Légende et mythe**, étude française de 1975 sur l'histoire du personnage, la controverse *Niptra / Acanthoplex* et le skyphos de Chiusi : https://www.persee.fr/doc/ista_0000-0000_1975_mon_175_1 . Le récit doit être cité comme histoire de la recherche, sans reprendre ses hypothèses comme certitudes.
+22. **Oxford Classical Dictionary**, notice « Pacuvius, Marcus », 2016, rappelant la comparaison de Cicéron et la relation avec Sophocle : https://academic.oup.com/edited-volume/61673/chapter-abstract/549687660 .
+
+**Philosophie comparative, sans attribution d'une théorie au poète**
+
+23. **Platon**, *Théétète* et *République* : vérité de l'opinion, preuve, hiérarchies visibles.
+24. **G. W. F. Hegel**, *Phénoménologie de l'esprit*, chapitre de la reconnaissance, et *Esthétique*, pensée de la tragédie ; synthèse académique https://plato.stanford.edu/entries/hegel-aesthetics/.
+25. **Friedrich Nietzsche**, *La Généalogie de la morale* et *La Naissance de la tragédie* ; comparaisons modernes sur mémoire et souffrance, non sources de l'œuvre sophocléenne.
+26. **Aristote**, *Poétique*, passages déjà indiqués, étude conceptuelle de l'*anagnôrisis* et des signes.
+
+**Iconographie contrôlée**
+
+27. **Perseus Art and Archaeology Browser**, « Chiusi 1831 », skyphos attique, Peintre de Pénélope, vers **440–430 av. J.-C.**, Beazley **216789**, *ARV²* 1300, 2 ; https://perseus-aa.github.io/items/aa_5676.html .
+28. **Centre de la langue grecque**, notice iconographique sur Euryclée/Antiphata et la présence d'Eumée, Museo Archeologico Nazionale di Chiusi C 1831 : https://www.greek-language.gr/digitalResources/ancient_greek/education/mythology/epic/record.html?rid=618&tbl=epic .
+29. **Oxford University Press**, Barry B. Powell, « Scenes from the Odyssey in Ancient Art » (2014), description de la représentation du lavement et d'autres scènes du retour : https://blog.oup.com/2014/07/scenes-from-the-odyssey-in-ancient-art/ .
+
+**État critique de la consultation.** Les numéros 451a et 453–461a se rapportent à la classification de Radt ; les numéros de Pacuvius appartiennent à Schierl. Les tableaux de fragments, la désignation de la nourrice et l'interprétation du vase sont à lire avec leur niveau de preuve respectif. Aucun texte sophocléen continu n'est prétendument reconstitué et aucune photographie protégée n'est incorporée sans licence vérifiée.
+
+### 45. Conclusion — le retour, le corps et la limite du savoir
+
+Le *Niptra* de Sophocle n'est plus accessible comme une tragédie continue. La tentation de lui rendre son histoire à l'aide du chant XIX de l'*Odyssée*, du spectacle du vase de Chiusi et des extraits de Pacuvius est compréhensible, mais elle effacerait les frontières entre des œuvres différentes. Une bonne étude de théâtre perdu doit offrir au lecteur les moyens de distinguer la source de la reconstruction.
+
+L'épisode homérique reste l'un des modèles les plus riches de reconnaissance. Le héros maîtrise son apparence et son discours, mais ne peut effacer une marque ancienne. La nourrice qui possède la mémoire du corps découvre l'identité avant la reine ; sa connaissance doit demeurer secrète pour que l'action de restauration puisse réussir. Un geste de service devient l'événement qui met à l'épreuve toute la hiérarchie de la maison.
+
+La tradition dramatique a transformé cette matière. Sophocle a composé une œuvre intitulée *Niptra*, sans que nous puissions en établir la succession des scènes ; il a également composé un *Ulysse blessé par l'aiguillon*, dont la matière post-homérique concerne la mort du héros. Pacuvius a laissé une tragédie latine qui paraît rapprocher les deux, et Cicéron en a tiré une réflexion sur la maîtrise de la douleur. Ces témoins sont liés, mais leur lien est une question d'histoire littéraire, non une permission de les fusionner.
+
+La réception iconographique du skyphos de Chiusi montre enfin combien un récit peut survivre dans des images qui conservent des détails différents du poème : Antiphata au lieu d'Euryclée, Eumée présent, posture particulière d'Ulysse. L'image élargit l'enquête ; elle n'en donne pas la réponse définitive.
+
+Le dossier prend ainsi place après *Niobé* dans la progression des œuvres perdues de Sophocle, sans dupliquer les études déjà archivées ni anticiper le numéro du prochain volume. **MYTHOS conserve un texte intégral de recherche, un titre et un fragment correctement identifiés, une bibliographie traçable et des hypothèses explicitement limitées.**
+
+**Note éditoriale :** manuscrit intégral public approuvé pour la file GitHub. Les variables du numéro propre au volume ne sont employées que dans son en-tête. Aucun chapitre numéroté n'est créé directement, aucune demande antérieure n'est modifiée et aucune donnée de WordPress ou des automatisations horaires n'est affectée.
