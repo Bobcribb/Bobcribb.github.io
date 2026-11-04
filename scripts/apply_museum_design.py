@@ -240,7 +240,11 @@ def apply(root):
         target = main.get('id') if main else 'mythos-page-title'
         skip = doc.new_tag('a', href='#'+target, attrs={'class':'mythos-skip'})
         skip.string = 'Aller au contenu'
-        top = header('/mythologie-grecque/' if portal_url == '/grande-encyclopedie/' else portal_url)
+        # Les galeries autonomes conservent leur extension .html pour l'état actif.
+        nav_url = ('/mythologie-grecque/' if portal_url == '/grande-encyclopedie/'
+                   else url if url == '/reconstitutions-photorealistes.html'
+                   else portal_url)
+        top = header(nav_url)
         doc.body.insert(0, top)
         doc.body.insert(0, skip)
         banner = doc.new_tag('section', attrs={'class':'mythos-banner', 'aria-label':'Présentation de la page'})
