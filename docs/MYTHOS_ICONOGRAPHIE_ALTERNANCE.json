@@ -5,27 +5,74 @@
   "branch": "main",
   "latest_session": {
     "date": "2026-11-04",
-    "kind": "AUDIT ET CORRECTION",
-    "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "scope": "Audit ciblé du portail, des trois monographies philosophiques, de l'atlas et de la publication publique",
-    "audit_basis_commit": "dda90e0d3b5ca73cfe5646d4c5593f71f7e5c1d1",
-    "checked_html_pages": 8,
-    "checked_portal_routes": 21,
-    "checked_theatre_article_links": 10,
-    "monograph_figure_counts": {
+    "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "previous_kind": "AUDIT ET CORRECTION",
+    "next_kind": "AUDIT ET CORRECTION",
+    "scope": "Ajout de schémas pédagogiques 2D originaux à trois monographies philosophiques existantes : Iliade, Odyssée, Théogonie",
+    "checked_pages": 3,
+    "source_illustrations_added": 3,
+    "html_figures_added": 3,
+    "figure_counts_before": {
       "Iliade": 15,
       "Odyssée": 14,
       "Théogonie": 17
     },
-    "checks": "Sur les 8 fichiers HTML examinés: aucune ancre interne manquante et aucun id HTML dupliqué relevés. Sur les 3 monographies: 46 images avec alt; 7 ressources CSS/JS communes, 3 SVG récemment ajoutés et leurs chemins dans main existent. Les 21 routes de portail contrôlées possèdent un index.html; les 10 liens testés vers le théâtre grec existent. Les ressources photographiques binaires n'ont pas été validées pixel par pixel. Aucun correctif de contenu justifié par les anomalies recherchées dans cet échantillon.",
-    "public_deployment_status": "Vérification navigateur HTTPS du 4 novembre 2026: /catalog/publication-verification.json accessible et présentant source_commit dda90e0d3b5ca73cfe5646d4c5593f71f7e5c1d1 (égal à la tête de main lors du contrôle), github_run_id 41762166831, 1158 documents indexés, 27 archives et 110 médias vérifiés. /assets/philosophie/iliade-jeux-funebres-equite-20261104.svg s'affiche effectivement, plus de 404. Le chargement public des deux autres SVG n'a pas été testé individuellement. Il ne faut pas assimiler la modification de ce registre à un nouveau déploiement vérifié.",
-    "verified_errors_corrected": 0,
-    "content_preserved": "Aucune étude ni numérotation éditoriale modifiée, aucun registre d'attribution, workflow, programme, horaire ou planification modifié. Seul ce journal d'alternance est actualisé.",
-    "obstacles": "Pas d'exécution intégrale locale des tests Python ni d'audit exhaustif des milliers de liens/ressources. Contrôle public indépendant limité au reçu JSON et à un SVG. Les PDF A4 ont un audit documentaire préexistant, mais n'ont pas été rerendus ici."
+    "figure_counts_after": {
+      "Iliade": 16,
+      "Odyssée": 15,
+      "Théogonie": 18
+    },
+    "primary_references": [
+      "Homère, Iliade IX, 225–655 (Ulysse, Phénix, Ajax et réponses d'Achille)",
+      "Homère, Odyssée XVII, 290–327 (Argos)",
+      "Hésiode, Théogonie 79–103 (Calliope, parole des rois et des chanteurs)"
+    ],
+    "new_asset_paths": [
+      "assets/philosophie/iliade-ambassade-arguments-20261104.svg",
+      "assets/philosophie/odyssee-argos-reconnaissance-20261104.svg",
+      "assets/philosophie/theogonie-muses-rois-chant-20261104.svg"
+    ],
+    "modified_pages": [
+      "philosophie-iliade.html",
+      "philosophie-odyssee.html",
+      "philosophie-theogonie.html"
+    ],
+    "checks": "3 SVG et 3 fichiers HTML relus après chacun des 6 commits : contenu identique à la version envoyée, ressources dans main confirmées ; 3 nouvelles figures, 3 attributs alt ; aucun id HTML dupliqué ni aucune ancre interne manquante dans les 3 monographies. Figures 2D sans perspective 2,5D et sans reproduction d'artefact. Les PDF A4 n'ont pas été recalculés, les tests Python et l'audit responsive complet n'ont pas été exécutés.",
+    "public_deployment_status": "Contrôle HTTPS indépendant sur bobmythos.fr, 4 novembre 2026, après les 6 commits : /catalog/publication-verification.json accessible ; source_commit=98ad3fe538d5f7a0c88aef9280ba92a470c255ec, antérieur aux commits de cette séance, github_run_id=41767597834, 1166 documents indexés ; les 3 nouveaux SVG répondent HTTP 404. GitHub main contient les fichiers mais leur déploiement public n'est PAS confirmé.",
+    "content_preserved": "Aucun passage scientifique préexistant supprimé ni modifié, aucune entrée de sommaire, navigation, numérotation ou registre d'attribution changés. Aucune automatisation ni fréquence changée.",
+    "obstacles": "Décalage GitHub Pages / branche main pendant le contrôle public (3 SVG 404). Vérification de la pagination A4 et rendu multi-écrans restent à effectuer.",
+    "commits": [
+      "a58e610db8765beecb9606561ecedb363fc35869",
+      "e50b1ba8a702c3d0ef76e64b06cbbae266d2a56f",
+      "a0c0e25f2a9e306415cb4311fd44e6ffccabd62c",
+      "aca02d5749d0d587e1a796df00cec7adce75d4e5",
+      "84c3c68b05b6350ff3151d275c38aafea1d1f2b2",
+      "e0c42f2e439a1b2d2ffaf9fc57423bceb87fca46"
+    ]
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
   "history": [
+    {
+      "date": "2026-11-04",
+      "kind": "AUDIT ET CORRECTION",
+      "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "scope": "Audit ciblé du portail, des trois monographies philosophiques, de l'atlas et de la publication publique",
+      "audit_basis_commit": "dda90e0d3b5ca73cfe5646d4c5593f71f7e5c1d1",
+      "checked_html_pages": 8,
+      "checked_portal_routes": 21,
+      "checked_theatre_article_links": 10,
+      "monograph_figure_counts": {
+        "Iliade": 15,
+        "Odyssée": 14,
+        "Théogonie": 17
+      },
+      "checks": "Sur les 8 fichiers HTML examinés: aucune ancre interne manquante et aucun id HTML dupliqué relevés. Sur les 3 monographies: 46 images avec alt; 7 ressources CSS/JS communes, 3 SVG récemment ajoutés et leurs chemins dans main existent. Les 21 routes de portail contrôlées possèdent un index.html; les 10 liens testés vers le théâtre grec existent. Les ressources photographiques binaires n'ont pas été validées pixel par pixel. Aucun correctif de contenu justifié par les anomalies recherchées dans cet échantillon.",
+      "public_deployment_status": "Vérification navigateur HTTPS du 4 novembre 2026: /catalog/publication-verification.json accessible et présentant source_commit dda90e0d3b5ca73cfe5646d4c5593f71f7e5c1d1 (égal à la tête de main lors du contrôle), github_run_id 41762166831, 1158 documents indexés, 27 archives et 110 médias vérifiés. /assets/philosophie/iliade-jeux-funebres-equite-20261104.svg s'affiche effectivement, plus de 404. Le chargement public des deux autres SVG n'a pas été testé individuellement. Il ne faut pas assimiler la modification de ce registre à un nouveau déploiement vérifié.",
+      "verified_errors_corrected": 0,
+      "content_preserved": "Aucune étude ni numérotation éditoriale modifiée, aucun registre d'attribution, workflow, programme, horaire ou planification modifié. Seul ce journal d'alternance est actualisé.",
+      "obstacles": "Pas d'exécution intégrale locale des tests Python ni d'audit exhaustif des milliers de liens/ressources. Contrôle public indépendant limité au reçu JSON et à un SVG. Les PDF A4 ont un audit documentaire préexistant, mais n'ont pas été rerendus ici."
+    },
     {
       "date": "2026-11-04",
       "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
