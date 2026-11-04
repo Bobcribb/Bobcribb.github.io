@@ -1,0 +1,229 @@
+# MYTHOS — Les Origines du sacré — Tome DCXXXVIII — Chapitre 638
+
+## Qui est le mort inscrit ? Nauny, Tentabekhenet et le pouvoir de réécrire les noms sur les cercueils
+
+*Monographie universitaire d'épigraphie funéraire, de paléographie égyptienne, d'archéologie de la tombe, d'histoire sociale des prêtresses d'Amon et de philosophie de l'identité. La démonstration s'appuie sur les notices primaires d'objets du Metropolitan Museum of Art (n° 30.3.23a–b, 30.3.24a–b, 30.3.25 et 30.3.32), ainsi que sur les travaux spécialisés de la XXIe dynastie. Elle distingue systématiquement lecture de catalogue, examen matériel à poursuivre et interprétation comparative.*
+
+### 1. Problème : le nom protège-t-il une personne ou le cercueil qui le porte ?
+
+Un cercueil peut être destiné à une première personne puis accueillir une seconde dépouille. La modification de ses inscriptions rend visible une question rarement formulée : lorsqu'un nom funéraire est remplacé, qu'advient-il de la relation entre les textes protecteurs et leur ancien destinataire ? Suffit-il de changer le nom pour transférer l'efficacité attendue du décor ? La réponse ne se trouve pas dans une théorie intemporelle de la magie égyptienne ; elle demande une enquête sur le support, les noms effectivement visibles et les usages du tombeau.
+
+L'ensemble de Nauny, chanteuse d'Amon et porteuse du titre de « fille du roi », offre un cas contrôlable. Les notices du Metropolitan Museum attestent que les pièces du cercueil furent d'abord préparées pour sa mère, Tentabekhenet (graphie muséale également Tentabekhnet), et que le nom de Nauny fut substitué à plusieurs endroits, tandis que celui de sa mère subsiste ailleurs [M1–M2]. C'est une preuve de réattribution personnelle, non seulement de récupération abstraite de bois.
+
+### 2. Une précision indispensable sur les identités féminines
+
+Nauny, dite aussi Nany ou Nany selon les catalogues, ne doit pas être confondue avec Henettawy la chanteuse d'Amon de MMA 59, ni avec la reine Hénouttaouy de JE 26204. Les trois dossiers appartiennent à la XXIe dynastie mais leurs objets, leurs lieux et leurs preuves sont distincts.
+
+Les transcriptions des noms féminins ont varié dans la littérature moderne. Seuls une cote d'objet, une provenance et la transcription de l'inscription permettent une comparaison scientifiquement exploitable. La parenté entre Nauny et Tentabekhenet est présentée par la notice institutionnelle ; elle ne dispense pas de confronter la généalogie à l'ensemble des documents contemporains.
+
+### 3. Le tombeau TT 358 : plusieurs siècles dans un lieu
+
+Le tombeau de Mérétamon (Meritamun), TT 358, situé à Deir el-Bahari, appartient à l'histoire funéraire royale de la XVIIIe dynastie. Le Metropolitan Museum situe la sépulture de Nauny dans les passages de cette tombe et date les découvertes de sa campagne de 1928–1929 [M1–M3].
+
+L'utilisation ultérieure d'une chambre ou d'un couloir ne doit pas être assimilée à un effacement de la première inhumation. Le réemploi d'un espace, le réemploi d'un cercueil et le remplacement d'un nom désignent trois faits historiquement distincts. Leur coexistence dans ce dossier invite à étudier comment on renouvelle une destination funéraire sans reconstruire de zéro la totalité d'un monument.
+
+### 4. Les pièces observables : trois supports et une identité réaffectée
+
+La notice de l'ensemble désigne un cercueil externe, un cercueil interne et une planche de momie (*mummy board*) posée au-dessus de la dépouille [M1]. Le cercueil extérieur porte le numéro 30.3.23a–b ; le cercueil intérieur, 30.3.24a–b ; la planche de momie est rattachée au numéro 30.3.25.
+
+Ces cotes sont capitales. Dire simplement « le cercueil de Nauny » ferait perdre la possibilité de localiser chaque modification. Une étude paléographique complète doit produire pour chacune des trois pièces le relevé de tous les noms : forme initiale, forme substituée, zone de décor et rapport éventuel avec la couche de vernis.
+
+### 5. Un fait primaire rare : certains noms de la mère demeurent
+
+Le Metropolitan Museum écrit explicitement que les objets ont été conçus pour Tentabekhenet avant d'être adaptés à Nauny, et que le nom de la mère reste lisible par endroits [M1–M2]. Cette survivance est l'élément décisif de la démonstration.
+
+Elle interdit de supposer une substitution totale, parfaitement homogène. Le nouvel état funéraire comprend donc, au moins dans le décor écrit, plusieurs personnes historiquement successives. Cela n'implique pas que les anciens noms aient été volontairement conservés comme mémoire affective : l'inachèvement, la contrainte d'espace ou l'indifférence à des emplacements secondaires restent possibles.
+
+### 6. Quel degré d'intention peut-on inférer d'un nom non effacé ?
+
+Trois scénarios au moins sont concevables : une réécriture incomplète par économie de travail ; une sélection rituelle des zones jugées nécessaires ; une préservation délibérée du nom de la mère. Les notices attestent le fait de la substitution et du maintien partiel, mais elles ne permettent pas de décider entre ces motivations.
+
+Pour avancer, il faudrait vérifier si les noms restés intacts occupent des positions iconographiques spécifiques, si les différences portent sur les titres ou seulement sur les anthroponymes, et si une couche de protection recouvre les états antérieurs. Sans ce travail, la motivation demeure une hypothèse.
+
+### 7. Le nom personnel dans la conception égyptienne de la personne
+
+La littérature religieuse égyptienne présente le nom comme l'un des aspects indispensables de l'existence de la personne, aux côtés du corps et d'autres composantes que l'on traduit conventionnellement par *kꜣ*, *bꜣ* ou *ꜣḫ*. Cette terminologie varie selon les périodes et les genres textuels.
+
+Le remplacement d'un anthroponyme dans un décor funéraire ne peut donc pas être étudié comme une faute typographique. Mais il faut résister à l'inverse à l'idée que toute omission rendrait automatiquement un rite « inefficace ». Les Égyptiens ont employé des dispositifs redondants : images, titres, formules, figurines, papyrus et rites pratiqués.
+
+### 8. *Mꜣꜥ-ḫrw* : être reconnu juste, et non seulement être nommé
+
+Dans de nombreuses inscriptions funéraires, l'expression que l'on rend par « juste de voix » ou « justifié » associe le défunt à la reconnaissance de son statut après le jugement. Les notices du Metropolitan Museum donnent, sur le papyrus de Nauny, la traduction « The Osiris Nauny, true of voice » [M3].
+
+Il serait incorrect de fournir ici une translittération caractère par caractère du papyrus sans transcription de l'édition. La formule identifiée par la notice suffit cependant à établir que Nauny apparaît comme destinataire des opérations de salut dans un autre support que les cercueils.
+
+### 9. Le papyrus funéraire de Nauny, 30.3.32
+
+Le Metropolitan Museum conserve sous la cote 30.3.32 un papyrus funéraire provenant de la tombe TT 358, daté approximativement de 1051–1002 avant notre ère [M3]. Il mesure environ 204,5 cm de long et présente quarante figures momiformes alternant têtes humaines et non humaines.
+
+Les étiquettes associent de nombreuses figures non humaines au nom de Nauny « justifiée ». L'inscription de bord évoque le Livre de ce qui se trouve dans la Douat, mais le musée explique que la composition ne ressemble pas aux papyrus ordinaires de l'Amdouat ; elle s'apparente plutôt à une Litanie de Rê. Cette distinction entre titre porté, genre iconographique et classification moderne est méthodologiquement essentielle.
+
+### 10. Multiplication des identifications : pourquoi répéter « Osiris Nauny » ?
+
+Les formules répétées identifiant la défunte à Osiris et aux figures salvatrices peuvent être comprises comme une manière de démultiplier sa présence dans un ensemble rituel. Cette lecture est cohérente avec la description du musée [M3], mais la fonction exacte de chaque figure exige une analyse textuelle et iconographique approfondie.
+
+On doit distinguer la répétition visuelle, la désignation de la personne et l'interprétation théologique. Le papyrus ne prouve pas, par sa seule existence, que le remplacement du nom dans tous les autres objets aurait été rituellement indispensable.
+
+### 11. Une situation familiale particulière : matériel préparé pour la mère
+
+La réutilisation de l'ensemble de Tentabekhenet par sa fille Nauny peut être comprise à la fois comme transmission de biens, réaffectation d'un équipement funéraire et transformation des inscriptions [M1–M2]. Elle se distingue ainsi d'une récupération anonyme opérée dans une sépulture pillée.
+
+La relation mère-fille est un fait crucial : le passage d'une personne à l'autre a lieu dans une parenté attestée par la notice. Le statut familial autorise des hypothèses sur l'héritage, l'économie des funérailles ou le prestige transmis, mais aucune d'elles ne peut être présentée comme le motif exclusif sans texte antique.
+
+### 12. Réemploi matériel et droit des morts : des mots modernes à éprouver
+
+Le terme « propriété » est délicat lorsqu'on le transpose aux cercueils antiques. Un cercueil peut être commandé par la famille, fabriqué avec des ressources d'un réseau sacerdotal, déposé pour une personne et réutilisé plus tard. Qui dispose légitimement du support après le décès du premier destinataire ?
+
+Les notices muséales indiquent une succession d'affectations, mais n'offrent pas un contrat de cession entre Tentabekhenet et Nauny. La dimension juridique doit donc être abordée par comparaison avec les successions, donations et contrats funéraires, sans inventer une procédure légale propre à cet objet.
+
+### 13. La réécriture comme événement visible
+
+Un texte inscrit ne se contente pas de transmettre une phrase ; il peut garder la trace d'une correction. Une surface localement grattée, un nom peint sur une préparation secondaire ou une modification de l'alignement des hiéroglyphes sont des indices potentiels, mais leur présence exacte doit être observée sur chaque objet.
+
+La notion de « palimpseste » convient au sens analytique de superposition d'états. Elle ne doit pas être utilisée pour prétendre que chaque modification des cercueils de Nauny a fait l'objet d'un effacement physique : certains noms peuvent avoir été repeints, d'autres ajoutés, et d'autres encore conservés.
+
+### 14. Bois, enduit, or et autorité de la présence
+
+Les notices du musée décrivent des corps de bois, des préparations et des polychromies. Le cercueil extérieur est principalement en sycomore ; le cercueil intérieur contient notamment du bois de conifère et du sycomore [M1–M2]. L'ensemble était richement peint.
+
+Les masques ont connu une dorure dont la plus grande part a disparu à la suite de prélèvements anciens, mais des traces demeurent [M1]. Le musée relie cette dorure à l'idée de la peau d'or des dieux. Le sens de la matière n'implique pas que Nauny fût divine de son vivant ; il participe à la transformation funéraire espérée.
+
+### 15. Pourquoi le *mummy board* importe-t-il ?
+
+Une planche anthropomorphe de momie forme un niveau supplémentaire entre le corps enveloppé et le système de cercueils emboîtés. Elle peut rendre visible un portrait idéalisé lorsque les cercueils sont ouverts ou manipulés.
+
+Dans l'ensemble de Nauny, l'existence de ce troisième support [M1] élargit le problème de la réattribution : il ne suffit pas de lire une seule inscription sur un seul couvercle. La concordance des noms entre trois supports doit être contrôlée pour savoir si la réécriture est coordonnée, partielle ou contradictoire.
+
+### 16. La chaîne de circulation rituelle : atelier, cortège, sépulture
+
+Les ensembles emboîtés ne restent pas nécessairement invisibles jusqu'au dépôt final. La littérature sur les cercueils thébains et les analyses de Mainieri [R2] suggèrent l'importance de leur visibilité cérémonielle et de la compétence des ateliers.
+
+Une distinction s'impose cependant : ce qui est attesté sur des ensembles comparables ne donne pas le déroulement exact du cortège de Nauny. Le monument matériel permet de formuler les conditions de visibilité et de manipulation, non de reconstituer tous les gestes et chants d'une cérémonie perdue.
+
+### 17. Le tombeau lui-même comme dispositif de seconde destination
+
+TT 358 constitue un autre niveau de l'histoire. L'espace avait un titulaire royal de la XVIIIe dynastie, alors que les documents de Nauny appartiennent à la XXIe [M1–M3]. Une même architecture accueille donc des états d'utilisation historiquement séparés.
+
+Cette situation confirme le danger d'une datation globale. Un plan de tombe ancienne ne date pas le cercueil tardif ; un objet tardif ne date pas l'excavation initiale du monument. La biographie du lieu doit être articulée à celle de chaque objet.
+
+### 18. Continuité sacerdotale et autorité sociale de Nauny
+
+La notice du Metropolitan Museum donne à Nauny les titres de maîtresse de maison, chanteuse d'Amon-Rê et « fille du roi », tout en exposant l'incertitude sur la branche familiale précise qui fonde le dernier titre [M2]. L'insertion des femmes dans les réseaux du temple d'Amon a une dimension sociale et politique.
+
+On doit distinguer un titre rituel, une indication de rang et une filiation biologiquement démontrée. Le titre « fille du roi » ne doit pas servir sans précaution à construire un arbre généalogique complet. Les membres des familles sacerdotales de Thèbes ont pu exercer des fonctions et utiliser des marques de prestige qui demandent un examen prosopographique précis.
+
+### 19. Stratigraphie de l'écriture et stratigraphie de la matière
+
+Le remplacement d'un nom appartient à la stratigraphie épigraphique. Il peut être contemporain d'une reprise d'enduit, d'une correction picturale ou d'une modification plus profonde du cercueil, sans que cette concomitance soit automatique.
+
+L'étude idéale associe photographie multispectrale, examen des microfissures, mesure de la couche de peinture, relevé paléographique des signes et historique des restaurations. Les méthodes du Vatican Coffin Project [R1] et du programme de photogrammétrie étudié par Mainieri [R2] fournissent ici un cadre de contrôle.
+
+### 20. Peut-on dater la réécriture par le style seul ?
+
+Une forme de signe, un pigment ou une anatomie de masque peuvent orienter une datation relative. Pourtant les ateliers peuvent prolonger une tradition visuelle et réutiliser des modèles. Mainieri insiste en 2024 sur le risque de prendre toute forme ramesside pour la preuve d'un réemploi matériel [R2].
+
+La substitution du nom de Nauny est documentée ; son détail technique n'est pas établi ici par des analyses inédites. Elle doit être replacée dans le cycle de production et de transformation des trois éléments, sans multiplier des phases hypothétiques qu'aucune observation ne soutient.
+
+### 21. Les titres de la mère demeurent-ils avec son nom ?
+
+Pour savoir si le décor a été requalifié entièrement, il faut examiner les titres et les filiations qui accompagnent chaque occurrence des noms. Une substitution limitée à l'anthroponyme peut laisser subsister des titres propres à un premier propriétaire.
+
+La notice ne fournit pas un inventaire complet de chaque chaîne hiéroglyphique. Cette question reste donc explicitement ouverte. Un auteur responsable ne doit ni fabriquer une titulature ni affirmer que les inscriptions conservées de Tentabekhenet contiennent tel titre particulier sans photographie lisible et transcription.
+
+### 22. Une comparaison grecque : inscription funéraire et nom du mort
+
+Les inscriptions funéraires grecques peuvent conserver un nom, une filiation, un ethnonyme et une formule de commémoration. Dans l'*Iliade* 23–24, la prise en charge du corps et les honneurs funèbres rendent visible la continuité d'un rapport entre les vivants et le mort.
+
+Mais ni les épitaphes grecques ni les récits homériques ne prouvent une conception égyptienne de l'efficacité des hiéroglyphes. La comparaison porte sur la puissance publique de nommer et d'honorer, non sur une identité des théologies.
+
+### 23. Mésopotamie : nom, offrande et *kispum*
+
+Les pratiques mésopotamiennes de *kispum* associent entretien des morts, mémoire des ancêtres et obligations des vivants. Elles donnent une perspective comparée sur le maintien d'une personne défunte dans la vie institutionnelle d'une famille.
+
+En Égypte, le nom peint sur un cercueil agit dans un système iconotextuel où images, formules et corps se répondent. Il serait abusif de traduire *kispum* par « réécriture funéraire ». Les deux traditions permettent seulement de poser une question commune : comment la relation aux morts devient-elle transmissible ?
+
+### 24. Chine ancienne : tablette ancestrale et support identifiant
+
+Les inscriptions sur tablettes ancestrales chinoises et les rites de filiation offrent une autre comparaison fonctionnelle : un nom peut identifier la personne à laquelle s'adressent des actes d'hommage. Le *Liji* (Livre des rites), notamment ses parties funéraires, constitue une source pour les normes classiques, mais ne doit pas être projeté sans critique sur toutes les pratiques de toutes les époques chinoises.
+
+La comparaison souligne une différence majeure : modifier l'inscription d'un cercueil égyptien anciennement destiné à une autre défunte et préparer ou remplacer une tablette ancestrale dans un cadre rituel chinois ne sont pas des opérations historiquement identiques. Le rapprochement sert à préciser la question, non à établir une filiation.
+
+### 25. Nietzsche : mémoire et droit de se souvenir
+
+Nietzsche décrit la formation d'une mémoire de la promesse et, dans d'autres textes, les usages vitaux de l'histoire. Les noms persistants de Tentabekhenet invitent à concevoir une mémoire qui ne coïncide pas avec le dernier usage de l'objet.
+
+Cette lecture est une comparaison philosophique. Le maintien de la mère dans quelques inscriptions ne constitue pas une déclaration antique sur la volonté de préserver la mémoire ; il en devient seulement une trace accessible à l'historien moderne.
+
+### 26. Durkheim : quand l'identité est instituée collectivement
+
+Durkheim offre un cadre pour comprendre qu'un nom funéraire n'est pas la propriété isolée d'une conscience individuelle. Les spécialistes de l'écriture, les ritualistes, l'atelier, les parents et les administrateurs rendent collectivement possible l'inscription d'une personne dans un appareil de rites.
+
+Le remplacement de certaines occurrences du nom est alors interprétable comme une action sociale sur la mémoire. Cette proposition ne dispense pas de la description des interventions concrètes ; elle permet d'en saisir l'enjeu institutionnel.
+
+### 27. Hegel : reconnaissance, personne et support
+
+Dans une perspective philosophique inspirée de Hegel, le nom inscrit participe à la reconnaissance d'une personne dans un ordre symbolique. Le matériau peut perdurer tandis que la relation sociale qu'il désigne se transforme.
+
+Mais le cercueil ne peut pas être réduit au support d'une reconnaissance abstraite. Les Égyptiens lui attribuaient des fonctions protectrices et transformatrices précises. L'analogie hégélienne aide à formuler la difficulté de l'identité après remplacement du nom sans se substituer aux catégories égyptiennes.
+
+### 28. Vernant, Detienne et les limites d'une opposition « technique / sacré »
+
+La question des noms de Nauny montre que l'épigraphie, la peinture et la pratique rituelle ne se laissent pas isoler artificiellement. Les travaux de Vernant et Detienne peuvent servir d'avertissement contre les partitions modernes qui assignent le scribe à la seule technique et le prêtre à une sphère religieuse séparée.
+
+La comparaison ne signifie pas que les cultes grecs et égyptiens auraient la même structure. Elle demande de restituer les gestes des spécialistes dans leur propre monde historique.
+
+### 29. Une hypothèse testable : un seuil d'identification suffisante ?
+
+On peut imaginer que certains emplacements aient été tenus pour plus importants que d'autres lors de la réattribution : nom sur la poitrine, désignation dans les formules, inscriptions intérieures, etc. Mais aucune hiérarchie ainsi formulée ne peut être attribuée aux auteurs des transformations de Nauny sans enquête précise.
+
+L'hypothèse utile serait de comparer, sur l'ensemble des pièces, les noms réellement corrigés, les zones conservées, les figures protectrices et les marqueurs de parenté. On pourrait alors étudier un éventuel « seuil d'identification » ritualisé, ou au contraire constater une pratique hétérogène sans règle unique.
+
+### 30. L'histoire moderne de l'objet : découverte, inventaire, conservation
+
+Les pièces de Nauny ont été fouillées par le Metropolitan Museum lors de la campagne de 1928–1929 puis inventoriées dans la collection de New York [M1–M3]. Leur documentation actuelle permet de distinguer pièces, dimensions, matériaux, état de conservation et provenance.
+
+La conservation doit préserver les traces de réécriture, même lorsqu'elles rendent le décor moins homogène. Une restauration qui ferait disparaître les noms résiduels de Tentabekhenet détruirait une information historique majeure.
+
+### 31. Ni simple vol, ni transmission idéale : garder les alternatives ouvertes
+
+Il serait tentant de décrire l'affectation du cercueil de la mère à la fille comme une émouvante transmission familiale. Cette image peut être plausible, mais aucune motivation affective n'est directement attestée dans les notices. De même, l'accuser de « pillage » serait injustifié à partir des mêmes données.
+
+L'histoire doit admettre des explications multiples : héritage des biens, réduction du coût, prestige des équipements existants, usage de ressources disponibles, gestion familiale de la mort. L'absence de document contractuel impose de conserver ces propositions comme hypothèses.
+
+### 32. Faits établis, controverses, hypothèses
+
+**Faits établis.** Les trois pièces du système funéraire de Nauny avaient été conçues pour Tentabekhenet et furent partiellement réinscrites au nom de Nauny ; le nom de la mère subsiste par endroits. Les cotes 30.3.23–25 sont documentées par le Metropolitan Museum. Le papyrus 30.3.32 identifie Nauny sous des formes associées à Osiris et à la justification. La sépulture de Nauny provient de TT 358, monument ayant une histoire plus ancienne.
+
+**Questions ouvertes.** La distribution exhaustive des noms originaux et modifiés, la chronologie exacte des reprises, les procédés locaux d'effacement et de peinture, la motivation des opérateurs, le statut juridique de la transmission de l'équipement et le rapport entre toutes les pièces. Une notice muséale ne fournit pas la transcription intégrale de toutes les inscriptions.
+
+**Hypothèse de travail.** La réécriture égyptienne d'un cercueil manifeste une requalification de la destination rituelle opérée par plusieurs procédés matériels inégaux. L'efficacité attendue paraît dépendre d'un ensemble de supports et de formules, non de la parfaite uniformité graphique d'un seul nom sur une seule surface. Cette conclusion reste à tester par une édition critique de l'ensemble.
+
+### 33. Conclusion : la mémoire ne disparaît pas sous le nouveau nom
+
+L'ensemble de Nauny donne une matérialité exemplaire à la transmission des moyens de la survie posthume. Le nom de la fille réoriente le décor vers une nouvelle destinataire, tandis que des restes du nom maternel rendent visible l'histoire de l'équipement. Deux parcours personnels se croisent dans le même bois et les mêmes images.
+
+Ce cas prolonge l'étude sur JE 26204 sans en reproduire l'argumentation. Celle-ci portait sur la composition d'un ensemble royal à phases constructives multiples ; Nauny permet d'examiner la substitution explicite des noms dans un équipement réattribué à l'intérieur d'une relation de parenté. Le prolongement naturel est l'étude comparée des effacements de noms, des noms ajoutés et de la conservation des formules protectrices dans des ensembles funéraires précisément inventoriés.
+
+### Sources primaires, objets et données institutionnelles
+
+- [M1] **Metropolitan Museum of Art, New York**, *Outer Coffin of the Singer of Amun Nauny*, n° 30.3.23a–b, description, provenances et matériaux : https://www.metmuseum.org/art/collection/search/551179.
+- [M2] **Metropolitan Museum of Art**, *Inner Coffin of the Singer of Amun and Royal Daughter Nauny*, n° 30.3.24a–b et objet associé 30.3.25 : https://www.metmuseum.org/art/collection/search/551112.
+- [M3] **Metropolitan Museum of Art**, *Funerary Papyrus of Nauny*, n° 30.3.32, TT 358, datation vers 1051–1002 av. notre ère, description des quarante figures et des labels « The Osiris Nauny, true of voice » : https://www.metmuseum.org/art/collection/search/545191.
+- [M4] **Metropolitan Museum of Art**, ensemble distinct d'Henettawy (MMA 59, 25.3.182–184), pour contrôle des homonymes et des attributions : https://www.metmuseum.org/art/collection/search/590951.
+- [P1] *Livre des morts* égyptien, chapitres 17 et 125, comparaisons religieuses relatives à l'identification et à la justification du défunt ; aucune formule n'est imputée sans transcription à l'un des cercueils de Nauny.
+- [P2] **Homère**, *Iliade*, chants 23–24, rites de Patrocle et d'Hector ; comparaison des obligations funéraires, sans postuler de transmission institutionnelle.
+- [P3] **Liji**, notamment les traditions funéraires de *Tan Gong*, source comparative chinoise, avec précaution chronologique.
+
+### Bibliographie scientifique et ressources vérifiées
+
+- [R1] **Vatican Coffin Project**, *Introduction*, Musées du Vatican, programme fondé en 2008, articulation de l'égyptologie, de la restauration et de l'imagerie : https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/museo-gregoriano-egizio/museo-gregoriano-egizio/progetti-scientifici/vatican-coffin-project/presentazione.html.
+- [R2] **Stefania Mainieri**, « The “Invisible” Side of Yellow Coffins—The Set of the Chantress of Amun Tanethereret in the Musée du Louvre and Some Considerations on the Production of Yellow Coffins in the First Half of the 21st Dynasty », *Arts* 13/6 (2024), article 170, DOI 10.3390/arts13060170 : https://www.mdpi.com/2076-0752/13/6/170. Cet article examine la géométrie des ensembles emboîtés et le débat entre remploi et continuité des formes.
+- [R3] **Caroline Arbuckle MacLeod et Kathlyn M. Cooney**, « The Layered Life of JE26204: the Construction and Reuse of the Coffins of Henuttawy », *Journal of Egyptian Archaeology* 105/2 (2019), p. 285–296, DOI 10.1177/0307513320911383, comparaison de réemploi matériel : https://journals.sagepub.com/doi/10.1177/0307513320911383.
+- [R4] **Rogério Sousa**, « The genealogy of images: innovation and complexity in coffin decoration during Dynasty 21 » (2018), notice universitaire : https://repositorio.ulisboa.pt/entities/publication/db5c49e2-6024-478c-ab43-7a9d23d6999d.
+- [R5] **Kathlyn M. Cooney**, *The Cost of Death: The Social and Economic Value of Ancient Egyptian Funerary Art in the Ramesside Period*, Brill, 2007.
+- [R6] **Émile Durkheim**, *Les Formes élémentaires de la vie religieuse*, 1912, comparaison anthropologique.
+- [R7] **Friedrich Nietzsche**, *La Généalogie de la morale* (1887) et *De l'utilité et de l'inconvénient de l'histoire pour la vie* (1874), comparaisons sur promesse et mémoire.
+- [R8] **G. W. F. Hegel**, *Principes de la philosophie du droit*, 1821, comparaison sur reconnaissance et institutions.
+- [R9] **Jean-Pierre Vernant** et **Marcel Detienne**, travaux sur la religion grecque et ses catégories historiques, comparaison méthodologique seulement.
+
+**Continuité éditoriale :** cette étude traite spécifiquement la réécriture du nom de Nauny dans l'ensemble reçu de Tentabekhenet, sans refaire le dossier de la cache royale DB320, celui des cercueils de Bab el-Gasus ni la stratigraphie de JE 26204.

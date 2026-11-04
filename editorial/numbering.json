@@ -387,6 +387,18 @@
           "path": "chapitres/origines-du-sacre/636-tanis-psousennes-sarcophage-reemploi-argent-necropole-royale.md",
           "request_sha256": "546f42252644e37038e5cd6d7d339f8802dc83081e43eaa82c3e51459ceb5f49",
           "initial_source_sha256": "d4f97948b82656bc754b8c20e3af1198ab255ddfb8358d32556d892b1743e795"
+        },
+        "8e4126bc-f093-40d7-a15c-3b7e59abf462": {
+          "number": 637,
+          "path": "chapitres/origines-du-sacre/637-henouttaouy-je26204-stratigraphie-cercueil-reemploi-xxie.md",
+          "request_sha256": "6f3ff9d0d08eed683712b3067fcdd63bedb6bddb9ba248479eb659bd75d9d5d6",
+          "initial_source_sha256": "4ac8981f827b15846959ae688e51f42deb98cbec32dea11069a207fa2d3de24a"
+        },
+        "c36fae52-873d-4b0a-a922-fbc02d0141e6": {
+          "number": 638,
+          "path": "chapitres/origines-du-sacre/638-nauny-tentabekhenet-noms-reecrits-cercueils-tt358.md",
+          "request_sha256": "a832ccdc79f772698eae2d1d8132d3fabd8f5ffe859f05a65030e68c4e1c5bfa",
+          "initial_source_sha256": "39b4c1f6ca5b9a0c6b2cbcb40185df37f911bce519aa6b237af7a2cb9890ad09"
         }
       }
     },
@@ -724,6 +736,42 @@
           "path": "chapitres/encyclopedie/chapitre-403-ennodia-thessalie-pherai-larissa-hecate-artemis-cultes-routes.md",
           "request_sha256": "3df45139e06aa2ace640e5902040e70ac61b81f3b6d9133c6365a5a5bf88c90b",
           "initial_source_sha256": "66e2a024f90a9c6086ccdc9d2bcdc9ae4ad6d84cf0074f9e3339447107642223"
+        },
+        "6f5e8c23-4ad1-4e72-a1d5-4a120bd4d873": {
+          "number": 404,
+          "path": "chapitres/encyclopedie/chapitre-404-zeus-meilichios-diasia-serpent-purification-athenes-selinonte.md",
+          "request_sha256": "db2f84d2864623962d39edcebeb52b1bd805e35897063f44f38e66be4521eabf",
+          "initial_source_sha256": "8db1a43939fbf6810233149c597fc553d380cd7a57866f11bdcb711c157d2125"
+        },
+        "a6c2d570-31fa-4c5e-9b4f-2d6a58e1f093": {
+          "number": 405,
+          "path": "chapitres/encyclopedie/chapitre-405-acheloos-dieu-fleuve-heracles-dejanire-corne-abondance.md",
+          "request_sha256": "b4eabb116292a0c1fda2d99cd00a2d557376726abcc93fe3faddee6e84601711",
+          "initial_source_sha256": "ef880f21e058cc75a02b3db785446838e871a979a3401c37f12ff3b823fd955c"
+        },
+        "b33a44d1-8f33-4c2a-91df-c96146ebaf87": {
+          "number": 406,
+          "path": "chapitres/encyclopedie/chapitre-406-poseidon-hippocampes-chevaux-divins-mer.md",
+          "request_sha256": "e942947b0af086aee5439c27eaca9a65dbfdc7acebffa7d1f7ea9fcb89839256",
+          "initial_source_sha256": "798217ac429b853ec240aa6555e27edffafd31e17405954f48a3f345959ebef5"
+        },
+        "bc2f1a38-7cd4-4d6f-8c71-796a2ef41b35": {
+          "number": 407,
+          "path": "chapitres/encyclopedie/chapitre-407-cnossos-palais-minoen-archeologie-et-labyrinthe.md",
+          "request_sha256": "09763596571098abca0ae76e1ea4f19862c759bd530c0a6212f481fbecc535d7",
+          "initial_source_sha256": "d09e02f6d46de868963027ffbcd7b7272e8e1137ed31b054503a3f8502fe9e2e"
+        },
+        "d4b8b764-4bd3-4b47-9cc1-0c67c72af641": {
+          "number": 408,
+          "path": "chapitres/encyclopedie/chapitre-408-asopos-dieu-fleuve-egine-zeus-filles-cites.md",
+          "request_sha256": "13b6b79f364a18d78e3cde29b897dca10361896e9aa96e59b0a02cf71e6ce007",
+          "initial_source_sha256": "0a13e61364483f7685304cf59674e4d802de6eb6e115ae2d7f0798470154549a"
+        },
+        "e6b45c91-ec22-46f1-937b-8e13f5c270a4": {
+          "number": 409,
+          "path": "chapitres/encyclopedie/chapitre-409-agathos-daimon-serpent-maison-alexandrie-prosperite.md",
+          "request_sha256": "07acb386f22ed077c44c5e7cf186b8ab4c167cd64f210aa09afc721d62cade9e",
+          "initial_source_sha256": "ac47f80d00b13ed39d97af8925a530582b45877bbfb53c7ccc203ef2c677b817"
         }
       }
     },
@@ -952,6 +1000,18 @@
           "path": "chapitres/comedies/volume-086-archippos-herakles-gamon-mariage-hebe-banquet-symbolon-cuisine.md",
           "request_sha256": "404b6ecda763e6271e526d3bebb61733b02bbf60b6ef76ac5a85aa9d02e59320",
           "initial_source_sha256": "9dc5a9a6f7b8a2e9967effae85bd401cc86ed05e3b82a6e328a32d2d0c5f8a42"
+        },
+        "67f9a45c-2e18-43bf-b7d0-91c6e4a52da8": {
+          "number": 87,
+          "path": "chapitres/comedies/volume-087-archippos-amphitryon-deux-versions-identite-vin-langage-coupe.md",
+          "request_sha256": "e6ef1a126a7c94100271854e8399614c40dd1a78f6d0489309a48fd02a1081af",
+          "initial_source_sha256": "c113f2edb4eab510da76ca2816b1ef4dc1caf1557c218e7f8ae5296da81e7369"
+        },
+        "8281f30b-12bd-4c8e-b77a-61b3a927d5b6": {
+          "number": 88,
+          "path": "chapitres/comedies/volume-088-archippos-fragments-sans-titre-45-48-mer-travail-peitho-alcibiade.md",
+          "request_sha256": "719ee0f751e485b986da67c26bf50fbe84be6bc34196b358c94487ef435a8f1b",
+          "initial_source_sha256": "f2b92b5e945ecdf1b73275a78118ca03222afb430155dc6aa8c0353e874a8da2"
         }
       }
     },
@@ -1234,6 +1294,18 @@
           "path": "chapitres/tragedies/volume-ccxxx-sophocle-triptolemos-demeter-eleusis-ble-geographie-don-civilisation.md",
           "request_sha256": "cf0075c6a40da8a699a58ed431bfad87efc51239c29656eb02a7ecdf3aee4e0a",
           "initial_source_sha256": "736e9af7e01040222808bb01cc8bb28cb62da92a8d0df666e36315f66b38b95c"
+        },
+        "ba7c96f3-2b8e-479a-86dd-9a90b5fb77cc": {
+          "number": 231,
+          "path": "chapitres/tragedies/volume-ccxxxi-sophocle-hermione-phthiotides-neoptoleme-oreste-promesse-mariage-delphes.md",
+          "request_sha256": "f3a44996dc91ac1143a1e42a410bfaea7a5a64bc1242a9f5ce5225419cbe2107",
+          "initial_source_sha256": "fac2682a274100b3a7589ac1f998a613dbb2b8982ca3c6604da4df6043dabde2"
+        },
+        "e17ce6d4-7f28-4c4a-a80c-b7104e839afb": {
+          "number": 232,
+          "path": "chapitres/tragedies/volume-ccxxxii-sophocle-hermione-neoptoleme-oreste-promesses-delphes-legitimite.md",
+          "request_sha256": "08f34a9eadc876f829ac7e1258a33a22ddd3aa2710fc80d9f0e9c45e0e47d11b",
+          "initial_source_sha256": "73e3bb0577b398066c64bf85d826825c36d9b0a7626abdedfd0a82fca2cb8462"
         }
       }
     },
@@ -1759,6 +1831,18 @@
           "path": "chapitres/comparatif/volume-ccxxviii-choregie-liturgies-financement-rire-democratique-aristophane.md",
           "request_sha256": "7aa36403250dbc66ad0cb0e7abe293b93f39547a2f96f7a6bd6896cfa1671d1c",
           "initial_source_sha256": "dcec1d1d38e8074074dddce04fb83d5a3fcda06d3a8b9ee62741283ce138fd95"
+        },
+        "15932c9a-e745-4481-bc87-162e0c95b050": {
+          "number": 229,
+          "path": "chapitres/comparatif/volume-ccxxix-mc-050-dieux-en-mouvement-barques-statues-processions-espace-public-egypte-babylone-anatolie-grece-israel.md",
+          "request_sha256": "3149f21248aed6d51be8fe91bb315326d1f86a524a9430c6a21962e49a2d1832",
+          "initial_source_sha256": "642a0f8ce72649cacc3ccb5809b45f55e274171b7fa2d3265f9deda1f2662133"
+        },
+        "c3fb9c0e-4af8-4aa1-9edf-d43d508ab049": {
+          "number": 230,
+          "path": "chapitres/comparatif/volume-ccxxx-mc-049-faire-vivre-image-divine-naissance-rituelle-statues-ouverture-bouche-presence-regard.md",
+          "request_sha256": "b863ea01bbe31e586548337406a3ca46691a68009357b4e1705b274ecd8ec6c1",
+          "initial_source_sha256": "dac2aad6a8f5713d47583ed62519cfe8c42b4e945afcdd6a994cde75da548056"
         }
       }
     }

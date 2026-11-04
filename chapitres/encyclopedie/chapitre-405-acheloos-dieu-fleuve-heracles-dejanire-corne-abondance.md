@@ -1,0 +1,111 @@
+# Chapitre 405 — Achélôos (Ἀχελῷος) : le dieu-fleuve, Héraclès et la corne d'abondance
+
+*MYTHOS — Grande Encyclopédie de la mythologie grecque. Étude universitaire.*
+
+## 1. Philologie et géographie
+
+Ἀχελῷος (*Achelōios*) est le nom du fleuve de Grèce occidentale et de sa puissance divine. L'étymologie demeure discutée ; une ressemblance avec des termes désignant l'eau ne suffit pas à établir une dérivation sûre. Le cours du fleuve, entre les montagnes du Pinde et la mer Ionienne, explique son importance dans les paysages de l'Acarnanie et de l'Étolie. La géographie antique et les modifications du delta doivent être distinguées.
+
+## 2. La généalogie hésiodique
+
+Hésiode, Théogonie 337-345, présente Achélôos parmi les fleuves issus d'Océan et de Téthys. Le catalogue réunit des cours d'eau de différentes régions et leur attribue une parenté divine. Il ne s'agit pas d'un relevé géographique exact, mais d'une organisation mythologique des puissances hydrauliques.
+
+## 3. L'Iliade et la souveraineté de Zeus
+
+Dans l'Iliade XXI, 194-197, la puissance d'Achélôos intervient dans une comparaison relative à la supériorité de Zeus sur les fleuves. La tradition textuelle et les interprétations anciennes doivent être prises en compte. Le passage situe la violence de l'eau dans une hiérarchie divine, sans fournir de description de son sanctuaire.
+
+## 4. Sophocle, Trachiniennes 9-21
+
+Déjanire raconte que le fleuve Achélôos la courtisait sous différentes formes : taureau, serpent et être composite. Héraclès affronte ce prétendant. La métamorphose exprime une force naturelle instable, mais le texte est d'abord dramatique. La parole de Déjanire situe l'événement dans une mémoire personnelle marquée par la peur.
+
+## 5. Les variantes du combat
+
+Le Pseudo-Apollodore, Bibliothèque II, 7, 5, raconte la lutte d'Héraclès contre Achélôos, la transformation du dieu en taureau et l'arrachement d'une corne. Ovide, Métamorphoses IX, 1-97, développe une version latine où le fleuve raconte lui-même sa défaite. Les différences de perspective et de détails doivent être conservées plutôt que fusionnées.
+
+## 6. La corne d'abondance
+
+Dans certaines traditions, la corne arrachée à Achélôos devient une corne d'abondance ou est échangée contre celle d'Amalthée. Les récits ne sont pas uniformes. La corne peut symboliser la fertilité des terres irriguées, mais cette lecture est une interprétation et non une explication explicitement donnée par chaque auteur.
+
+## 7. Déjanire et le mariage
+
+Le conflit entre Héraclès et Achélôos porte sur Déjanire. Une lecture exclusivement hydraulique effacerait l'enjeu matrimonial et la peur exprimée par la jeune femme. Le récit articule rivalité masculine, métamorphose et décision familiale. Les Trachiniennes de Sophocle montrent que le mariage obtenu par Héraclès n'ouvre pas sur une existence durablement heureuse.
+
+## 8. Les Sirènes et les traditions généalogiques
+
+Certaines traditions attribuent aux Sirènes une filiation avec Achélôos et une Muse, dont l'identité varie selon les auteurs. Le Pseudo-Apollodore, Bibliothèque I, 3, 4, conserve une version de cette généalogie. Elle ne constitue pas un accord universel et doit être distinguée des représentations homériques des Sirènes.
+
+## 9. Les nymphes et les eaux
+
+Achélôos est associé à des figures féminines et à des traditions de naissance qui relient fleuves, sources et fécondité. Il faut distinguer les généalogies effectivement attestées des interprétations modernes du fleuve comme « père universel des eaux ». Les variantes appartiennent à des milieux poétiques différents.
+
+## 10. Strabon et le delta
+
+Strabon, Géographie X, 2, 19, discute le cours d'Achélôos et les transformations des terres alluviales. La formation d'îles et de zones deltaïques offre un contexte naturel aux récits de puissance fluviale. La correspondance entre un mythe et un processus géomorphologique doit rester une hypothèse contrôlée, non une traduction mécanique.
+
+## 11. Les Échinades
+
+Les îles Échinades, à l'embouchure du fleuve, sont associées à des traditions de transformation du paysage. Ovide, Métamorphoses VIII, 547-610, met en scène Achélôos racontant des métamorphoses de terres et d'êtres humains. La narration poétique ne doit pas être confondue avec une chronique géologique.
+
+## 12. Le taureau à visage humain
+
+L'iconographie grecque représente fréquemment les dieux-fleuves sous une forme bovine à visage humain. Les cornes évoquent la puissance et les formes hybrides manifestent l'altérité divine. Mais une figure bovine barbue ne doit pas être automatiquement identifiée comme Achélôos sans inscription, provenance ou contexte comparatif solide.
+
+## 13. La céramique attique
+
+Des vases archaïques et classiques représentent le combat d'Héraclès avec Achélôos. Les notices des musées doivent être utilisées pour identifier les personnages, dater les œuvres et distinguer les variantes iconographiques. Les scènes montrent parfois la saisie d'une corne ou la lutte contre un être composite.
+
+## 14. Cultes des fleuves
+
+Les Grecs pouvaient honorer des fleuves par des prières, sacrifices et offrandes. Homère, Iliade XXI, 130-132, évoque les sacrifices au Scamandre. Ce passage fournit un contexte religieux comparatif, mais ne décrit pas un rite d'Achélôos. Chaque culte fluvial doit être établi par ses propres témoignages.
+
+## 15. Le nom Achélôos dans les pratiques cultuelles
+
+Les traditions anciennes emploient parfois le nom Achélôos dans des contextes religieux qui dépassent le fleuve d'Étolie. Les témoignages lexicographiques tardifs doivent être distingués des inscriptions et des textes classiques. La généralisation d'Achélôos comme nom de toute eau n'est pas à tenir pour une règle universelle.
+
+## 16. Sanctuaires et limites archéologiques
+
+La recherche d'un sanctuaire d'Achélôos exige inscriptions, dépôts votifs et contexte topographique. Une tête de dieu-fleuve isolée ne prouve pas l'existence d'un temple dédié. Les représentations conservées dans les musées doivent être documentées individuellement. La vallée et le delta fournissent un cadre géographique, non la localisation automatique d'un autel.
+
+## 17. Les inondations et l'agriculture
+
+Un grand fleuve peut irriguer les terres, déposer des alluvions et provoquer des destructions. La personnification d'Achélôos permet de représenter cette ambivalence. L'idée que la lutte d'Héraclès raconte la construction d'une digue peut être examinée comme hypothèse rationalisante ancienne ou moderne, mais non présentée comme un fait établi.
+
+## 18. Héraclès et la maîtrise du territoire
+
+Les travaux et combats d'Héraclès mettent fréquemment en scène la confrontation avec des puissances dangereuses. Sa victoire sur Achélôos peut être rapprochée de l'idéal de maîtrise des forces naturelles. Cependant, le héros ne doit pas être réduit à un ingénieur hydraulique et le fleuve à une simple métaphore physique.
+
+## 19. Platon et les fleuves
+
+Dans le Phédon 111c-113c, Platon décrit une géographie de l'au-delà structurée par des fleuves. Le rapprochement avec Achélôos montre la diversité des usages philosophiques et mythiques de l'eau. Platon ne commente pas directement le culte du fleuve étolien dans ce passage.
+
+## 20. Aristote et la causalité naturelle
+
+Les Météorologiques d'Aristote étudient les eaux, les précipitations et les changements du territoire. La comparaison avec Achélôos oppose deux modes d'explication, mythique et naturaliste, sans supposer qu'ils se sont succédé partout de façon linéaire. Les populations pouvaient articuler connaissances pratiques et pratiques religieuses.
+
+## 21. Hegel et Nietzsche
+
+Une lecture inspirée de Hegel peut interroger la manière dont une communauté transforme la confrontation avec la nature en récit de reconnaissance et de maîtrise. Nietzsche permet d'examiner la glorification de la force héroïque et ses ambiguïtés. Ces comparaisons sont modernes et ne constituent pas des doctrines cultuelles d'Achélôos.
+
+## 22. Comparaisons mésopotamiennes
+
+Les fleuves Tigre et Euphrate occupent une place majeure dans les représentations mésopotamiennes de l'ordre et de la prospérité. Des puissances comme Enki/Ea sont liées à l'eau, mais ne sont pas des équivalents directs d'Achélôos. La comparaison porte sur l'ambivalence des eaux et la gestion du territoire, non sur une filiation divine démontrée.
+
+## 23. Comparaisons égyptiennes
+
+Hâpy personnifie la crue du Nil dans les traditions égyptiennes. La comparaison avec Achélôos est particulièrement instructive pour les rapports entre fécondité, crue et puissance divine. Mais les systèmes religieux et les iconographies diffèrent ; une ressemblance de fonction n'établit pas un emprunt direct.
+
+## 24. Tableau critique des preuves
+
+Attestés : généalogie hésiodique, récits de Sophocle, du Pseudo-Apollodore et d'Ovide, images de combat, contexte géographique du fleuve. Discutés : étymologie, interprétations hydrauliques, identification de certaines œuvres et généralisation du nom. Non établi : correspondance littérale entre chaque métamorphose et un événement géologique précis, localisation de tous les sanctuaires, généalogie unique des Sirènes.
+
+## 25. Iconographie enrichie
+
+Douze documents recommandés : carte du bassin d'Achélôos ; photographie du delta ; vase identifié montrant Héraclès et le dieu-fleuve ; détail d'un taureau à visage humain ; relief votif d'un dieu-fleuve avec identification contrôlée ; carte des Échinades ; schéma de la formation alluviale ; édition critique des Trachiniennes ; tableau des métamorphoses ; sculpture antique d'Héraclès ; carte des cultes fluviaux attestés ; tableau comparatif Achélôos-Hâpy-Enki. Chaque image exige datation, provenance, musée, droits, source et degré de certitude. Exclure les anciennes illustrations 2,5D.
+
+## 26. Bibliographie
+
+Sources : Hésiode, Théogonie 337-345 ; Homère, Iliade XXI, 130-132 et 194-197 ; Sophocle, Trachiniennes 9-21 ; Pseudo-Apollodore, Bibliothèque I, 3, 4 et II, 7, 5 ; Strabon, Géographie X, 2, 19 ; Ovide, Métamorphoses VIII, 547-610 et IX, 1-97 ; Platon, Phédon 111c-113c ; Aristote, Météorologiques. Études : Timothy Gantz, Early Greek Myth (1993) ; Walter Burkert, Greek Religion (1985) ; Robert Parker, On Greek Religion (2011) ; Jennifer Larson, Ancient Greek Cults (2007) ; travaux de géomorphologie du delta d'Achélôos et catalogues des vases à figures noires et rouges.
+
+## 27. Conclusion
+
+Achélôos est à la fois un cours d'eau réel et une puissance divine dont les formes multiples expriment la force, la fécondité et le danger. Sa lutte contre Héraclès ne se réduit ni à une histoire de mariage ni à une allégorie hydraulique. Les sources révèlent une pensée où le paysage, les généalogies et la mémoire héroïque se répondent. Une étude critique doit conserver les variantes et distinguer les images antiques, les cultes attestés et les interprétations modernes.

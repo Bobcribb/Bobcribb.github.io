@@ -1,0 +1,499 @@
+# MYTHOS — Encyclopédie des tragédies grecques — Volume CCXXXI (231)
+
+## Sophocle, *Hermione* (*Hermionē*, Ἑρμιόνη) — La promise disputée, Néoptolème et le meurtre de Delphes : droit familial, vengeance et transformation du pouvoir héroïque
+
+**Monographie universitaire intégrale — philologie des fragments, témoins antiques, dramaturgie hypothétique, histoire du mariage grec, religion delphique, philosophie tragique, mythologie comparée et iconographie institutionnelle.** Rédaction originale pour MYTHOS, 4 novembre 2026.
+
+**Œuvre principale :** *Hermione*, tragédie perdue de Sophocle. **Fragments nominativement conservés :** Sophocle, *Tragicorum Graecorum Fragmenta* (TrGF), vol. 4, éd. Stefan Radt, **F 202 et F 203**. **Dossier voisin :** *Les Phthiotides* (*Phthiōtides*, Φθιώτιδες), **F 694, F 695, F 696 Radt**, et témoignage d'Aristote, *Poétique* 1456a : leur réunion à *Hermione* relève d'une hypothèse critique argumentée, **non d'un fait établi**. **Date et résultat de représentation : inconnus.** Ne pas attribuer à la pièce une date précise, un chœur certain, une réplique ou un dénouement non conservés.
+
+**Thèse directrice.** Le drame de la fille d'Hélène et de Ménélas peut se comprendre comme une crise de la promesse : une femme devient l'objet d'engagements incompatibles, contractés par les hommes qui gouvernent son destin, tandis que le fils d'Achille réclame au dieu l'indemnité d'une mort paternelle. Cette proposition permet d'étudier les rapports entre parenté, devoir, violence et justice sans transformer un ensemble de fragments en texte reconstitué.
+
+**Échelle de preuve.** **[F]** : fragment transmis sous le titre correspondant ; **[T]** : témoignage antique affirmant quelque chose de l'œuvre ; **[M]** : version du mythe dans un autre texte antique ; **[H]** : construction dramaturgique ou attribution hypothétique ; **[Φ]** : interprétation philosophique moderne ; **[I]** : document iconographique institutionnel. Les chiffres historiques, les numéros de fragments et les références aux vers antiques demeurent littéraux. Les seuls substituts CCXXXI et 231 désignent le **présent volume MYTHOS**, et non la numérotation de Radt ou celle d'un autre chapitre.
+
+### 1. Le problème d'une œuvre disparue
+
+Nous ne possédons ni le prologue, ni un papyrus continu, ni un argument antique complet de la tragédie *Hermione*. L'œuvre n'est donc pas réductible à la trajectoire mythologique racontée par les auteurs tardifs. Le risque majeur consiste à assembler Homère, Euripide, un scholiaste et un mythographe comme si tous répétaient la scène sophocléenne d'origine. Cette opération produirait un récit apparemment cohérent, mais reposerait sur une fiction de transmission.
+
+La situation documentaire est néanmoins plus favorable qu'un simple titre. [T] Les scholies à l'*Odyssée* et surtout le commentaire d'Eustathe associent explicitement à *Hermione* de Sophocle une succession de transferts matrimoniaux : attribution à Oreste sous l'autorité de Tyndare, réattribution à Néoptolème en vertu d'un engagement pris pendant la guerre de Troie, mort de Néoptolème à Pythô et réunion avec Oreste. Ces témoignages attestent **une version narrative attribuée au poète**, non l'ordre des actes, la teneur des dialogues ou la présence scénique de chacun des protagonistes.
+
+Le second problème est l'identité possible de *Hermione* avec *Les Phthiotides*. Plusieurs fragments cités sous ce dernier titre semblent faire écho à un fils d'Achille inflexible et à des vieillards affrontant les effets d'une décision tragique. La coïncidence est suggestive, mais **une congruence dramatique n'est pas une preuve d'identité bibliographique**. L'étude traite donc les deux dossiers séparément avant de tester leur réunion.
+
+### 2. Continuité éditoriale : ce que cette étude ne répète pas
+
+La collection numérotée possède déjà des monographies sur *Pélée* d'Euripide, *Phèdre* de Sophocle, *Triptolème*, plusieurs œuvres troyennes, ainsi que deux traitements de l'*Andromaque* d'Euripide et un dossier de l'*Oreste* d'Euripide. La présente étude ne reprend ni leur analyse intégrale ni leur titre : elle concerne **la tragédie perdue *Hermione* de Sophocle**, dont les deux fragments sont catalogués séparément dans le corpus scientifique.
+
+Les renvois de lecture sont notamment :
+- [MYTHOS — Euripide, *Andromaque*, volume CLII](https://bobmythos.fr/chapitres/tragedies/volume-clii-euripide-andromaque/) et [volume CLX](https://bobmythos.fr/chapitres/tragedies/volume-clx-euripide-andromaque/) : versions euripidéennes, non pièces identiques.
+- [MYTHOS — Euripide, *Oreste*, volume CLVIII](https://bobmythos.fr/chapitres/tragedies/volume-clviii-euripide-oreste/) : la perspective du mariage futur au terme d'une autre tragédie.
+- [MYTHOS — Euripide, *Pélée*, volume CCXIX](https://bobmythos.fr/chapitres/tragedies/volume-ccxix-euripide-peleus-purification-calomnie-pelion-chiron-thetis/) : questions voisines de vieillesse et de légitimité, œuvre distincte.
+- [MYTHOS — Sophocle, *Triptolème*, volume CCXXX](https://bobmythos.fr/chapitres/tragedies/volume-ccxxx-sophocle-triptolemos-demeter-eleusis-ble-geographie-don-civilisation/) : dernier dossier numéroté confirmé avant cette soumission ; aucun numéro ultérieur n'est anticipé.
+
+Les liens de ces volumes préexistants sont des adresses documentaires ; ils ne prouvent pas à eux seuls leur accessibilité HTTPS au moment de cette rédaction. Cette étude est numériquement indépendante de leurs identifiants.
+
+### 3. Titres grecs et problème d'attribution
+
+[F] **Ἑρμιόνη — *Hermionē*.** Le titre désigne une personne, fille de Ménélas et d'Hélène. La pièce est attribuée à Sophocle dans les témoignages et la tradition éditoriale. Les deux fragments numérotés 202 et 203 par Radt sont les seuls rangés sous ce titre dans le dossier rapproché par les éditeurs Sommerstein, Fitzpatrick et Talboy.
+
+[F] **Φθιώτιδες — *Phthiōtides*, « Les femmes de Phthie ».** Ce titre collectif implique ordinairement un chœur constitué de femmes du pays, mais ne fournit pas à lui seul les mots d'une parodos ni même la liste des personnages. Les fragments 694, 695 et 696 sont transmis sous ce titre ou y sont rattachés par la tradition critique.
+
+[H] L'identification des deux titres pourrait s'expliquer par une même œuvre connue sous deux appellations : l'une portant le nom de l'héroïne, l'autre celui du chœur. Mais elle pourrait aussi résulter d'un rapprochement moderne de deux intrigues différentes dans une région héroïque commune. Les titres alternatifs sont fréquents dans la transmission de la tragédie ; leur fréquence ne démontre pas ce cas précis.
+
+L'édition **Sommerstein, Fitzpatrick et Talboy, *Sophocles: Selected Fragmentary Plays*, vol. I (2006), chapitre « Hermione or the Women of Phthia », p. 1–40**, offre une construction argumentée de cette identité. La conjonction « or » dans un titre d'édition moderne ne doit pas être prise pour un titre antique retrouvé sur papyrus.
+
+### 4. Bibliographie textuelle : ce qui est vérifiable
+
+Le principal recueil de référence demeure Stefan Radt, *Tragicorum Graecorum Fragmenta*, volume 4, *Sophocles*, Göttingen, Vandenhoeck & Ruprecht, première édition 1977, édition augmentée et corrigée 1999. La notice de la [Bibliothèque nationale de France](https://catalogue.bnf.fr/ark:/12148/cb41332839g) atteste l'édition de 1999.
+
+Pour la traduction et les témoignages, consulter Hugh Lloyd-Jones (éd. et trad.), *Sophocles, III: Fragments*, Loeb Classical Library 483, Cambridge (Mass.), Harvard University Press, 1996, ISBN 9780674995321. L'édition bilingue et commentée de Sommerstein, Fitzpatrick et Talboy, publiée en 2006, possède une section spécifique au dossier d'*Hermione*, disponible dans le [catalogue Oxford Academic](https://academic.oup.com/liverpool-scholarship-online/book/38195/chapter-abstract/333107134), DOI [10.3828/liverpool/9780856687655.003.0001](https://doi.org/10.3828/liverpool/9780856687655.003.0001).
+
+**Précision philologique :** la numérotation 202–203 et 694–696 est celle de Radt, reprise dans le chapitre de 2006 ; elle n'est pas une succession de cinq vers, et les groupes ne relèvent pas indiscutablement de la même œuvre. La présence d'un chiffre identique dans une édition différente ne dispense pas de vérifier l'auteur, le tome et la rubrique.
+
+### 5. Fragments : inventaire raisonné des preuves minimales
+
+| Cote critique | Titre transmis | Nature du témoin | Ce qu'elle autorise | Ce qu'elle n'autorise pas |
+| --- | --- | --- | --- | --- |
+| **TrGF 4 F 202** | *Hermione* | Un bref membre de vers évoquant la terre et les voies de la patrie | Un personnage parle, ou paraît parler, d'un retour au pays | Identifier avec certitude Néoptolème, fixer la scène d'ouverture |
+| **TrGF 4 F 203** | *Hermione* | Glose lexicale, l'Antiatticiste, cité dans les *Anecdota* de Bekker, p. 87, l. 25 | Une occurrence du mot grec **γνωστός**, glosé comme « connu, reconnaissable » | Reconstituer une reconnaissance ou une scène familiale |
+| **TrGF 4 F 694** | *Les Phthiotides* | Citation gnomique chez Stobée, *Anthologie* II, 31, 16 | Un locuteur exhorte un jeune interlocuteur à apprendre et écouter | Attribuer sans réserve l'avis à Phénix, Pélée ou Néoptolème |
+| **TrGF 4 F 695** | *Les Phthiotides* | Aulu-Gelle, *Nuits attiques* XIII, 19, 3 | Deux personnages qualifiés de vieux sont associés à l'image de conduire l'un l'autre | Leur donner avec certitude les noms de Pélée et Phénix |
+| **TrGF 4 F 696** | *Les Phthiotides* | Traité grammatical anonyme dans Bekker, *Anecdota*, p. 128, l. 1–8 | Allusion grammaticalement difficile à la justice et à une mort paternelle | Fixer sans débat les pronoms, le coupable, le dieu et la situation |
+
+Cette table privilégie les **limites probatoires** : un fragment devient dangereux quand une interprétation raisonnable est transformée en certitude littéraire.
+
+### 6. F 202 : la terre des routes paternelles
+
+[F] Le morceau 202 met en relation une terre de patrie et un adjectif qui renvoie, selon l'interprétation lexicale défendue par Sommerstein et ses collaborateurs, aux **voies ou rues** plutôt qu'à une épiclèse cultuelle d'Apollon Agyieus. Une équivalence française prudente est « terre des chemins de ma patrie » ; ce rendu est une paraphrase explicative et **non une citation de vers continu**.
+
+[H] Le locuteur pourrait être Néoptolème, revenu dans le pays de son père après avoir gagné Sparte pour obtenir Hermione. Cette lecture fonctionne si le lieu de l'action est Phthie et si la pièce commence ou progresse par un retour. Elle n'est toutefois pas imposée par le minuscule fragment : ni la qualité de fils d'Achille ni le nom de Sparte n'y sont prononcés.
+
+La force du passage tient plutôt à la notion de **pays paternel**. Néoptolème, né de Déidamie sur l'île de Skyros, est héritier de l'Achilléide et de la Phthie par son père. Sa « patrie » peut donc être une appartenance transmise plutôt que le lieu de sa naissance biologique. Cette nuance résiste au schéma simpliste qui assimile territoire, origine et demeure.
+
+[Φ] Le vers peut ainsi susciter une réflexion sur l'héritage comme **dette spatiale** : un jeune homme retrouve un sol qu'il n'a pas forcément habité, mais auquel le lie un nom. Cette lecture ne prouve rien d'une doctrine politique de Sophocle.
+
+### 7. F 203 : le mot « connu » et le piège d'une reconnaissance inventée
+
+[F] Un lexicographe antique, l'**Antiatticiste**, conserve sous la mention d'*Hermione* l'adjectif grec **γνωστός** (*gnōstós*), avec le sens de « connu, reconnu, identifiable ». Ce témoignage est extrêmement court ; la cote 203 n'offre ni personnage, ni syntaxe développée, ni contexte.
+
+Il serait séduisant d'en faire le vestige d'une scène de reconnaissance entre Oreste et Hermione ou d'une identification de Néoptolème. Le mot, toutefois, possède de nombreux emplois ordinaires. Un emploi lexical n'implique pas une anagnorisis théâtrale. La prudence exige de **refuser l'argument d'une seule racine**.
+
+Le témoignage rappelle aussi pourquoi de nombreux fragments ont survécu : non parce que leur scène était la plus célèbre, mais parce qu'un érudit avait besoin d'un exemple linguistique. L'histoire du texte est par conséquent marquée par les intérêts des grammairiens plus que par ceux des metteurs en scène.
+
+### 8. F 694 : le vieillard instruit le jeune homme
+
+[F] Dans *Les Phthiotides*, Stobée conserve une admonestation adressée à un jeune homme : sa jeunesse l'oblige à recevoir enseignement et conseils. Le fragment, transmis dans un recueil moral, n'implique par lui-même aucun événement précis.
+
+[H] Si *Les Phthiotides* et *Hermione* ne faisaient qu'une seule pièce, on pourrait penser à un avertissement de Pélée ou de Phénix à Néoptolème : l'âge serait confronté à la violence d'un héritier de l'Éacide. La distribution est **plausible**, mais non assurée. Phénix est un éducateur traditionnel dans l'*Iliade*, chant IX, et Pélée un vieillard de la lignée d'Achille ; ce sont des arguments de vraisemblance mythique, pas des noms lisibles dans F 694.
+
+[Φ] L'opposition de l'enseignement à l'impulsion permet de penser un mode de gouvernement de soi. Mais une exhortation morale ne rend pas automatiquement le personnage « sage » : dans la tragédie, les vieillards peuvent comprendre trop tard, ou parler juste sans pouvoir produire d'effet.
+
+### 9. F 695 : le paradoxe des deux vieillards
+
+[F] Aulu-Gelle, *Nuits attiques* XIII, 19, 3, se réfère à une tragédie de Sophocle dont le titre transmis appelle une correction philologique vers *Les Phthiotides*. La réplique oppose deux vieillards et une image de conduite pédagogique : l'un promet de guider l'autre « comme un enfant » (paraphrase française d'une expression grecque attestée).
+
+[H] L'attribution à Pélée et Phénix est suggestive, surtout si une enquête sur la mort de Néoptolème ou le retour de son corps les conduisait vers Delphes. Mais la réplique ne désigne aucun lieu ni déplacement déterminé. Il serait **abusif d'annoncer une procession funèbre** comme donnée acquise.
+
+Un intérêt dramaturgique subsiste sans reconstruction : un vieillard guidant un autre vieillard transforme l'autorité de l'âge en figure d'impuissance et de solidarité. Les survivants de la guerre de Troie doivent peut-être se soutenir réciproquement pour affronter les décisions des héritiers.
+
+### 10. F 696 : une justice dirigée contre le père ou contre son meurtrier ?
+
+[F] Le troisième fragment attribué aux *Phthiotides* conserve une tournure difficile associant la justice, l'idée de meurtre du père et des formes grammaticales discutées. La tradition matérielle et les corrections d'éditeurs empêchent de prétendre disposer d'une phrase transparente.
+
+[H] Une interprétation fait de **Néoptolème** le fils qui cherche réparation auprès d'**Apollon** à cause de la mort d'Achille ; selon une autre segmentation ou une autre référence des pronoms, l'agent et le destinataire de la procédure changent. Ni le nom d'Apollon ni celui d'Achille ne sont établis par la seule suite de mots du fragment.
+
+Le cas est exemplaire : une hésitation de grammaire modifie tout un schéma de responsabilité. Avant de spéculer sur la colère de Néoptolème, il faut reconnaître que l'établissement du sens précis demeure **ouvert**.
+
+### 11. Aristote et le dossier des *Phthiotides*
+
+[T] Aristote, *Poétique* **1456a**, mentionne les *Phthiotides* dans une réflexion sur des tragédies où l'expression et la caractérisation des personnages jouent un rôle notable. La référence est utile pour la réception critique de la pièce, mais **ne confirme pas** qu'elle soit *Hermione*. Elle n'indique pas que le philosophe ait commenté le mariage de l'héroïne.
+
+L'argument est plus technique que narratif : Aristote classe ou caractérise une modalité de dramaturgie ; il ne fournit pas un synopsis. Si l'identification des deux pièces est retenue, ce renseignement nourrirait l'hypothèse d'une tragédie attentive à la manière d'être de Néoptolème et d'Hermione. Sinon, il reste attaché aux *Phthiotides* seulement.
+
+### 12. Témoignage central : Eustathe et les scholies de l'*Odyssée*
+
+[T] Le commentaire byzantin d'**Eustathe à l'*Odyssée*, IV**, et les scholies homériques rattachent à Sophocle une variante complexe. Tyndare aurait accordé Hermione à Oreste lorsque Ménélas se trouvait encore à Troie. Mais Ménélas aurait promis sa fille à Néoptolème ; ce second engagement aboutit au déplacement d'Hermione vers l'époux achilléen. Après la mort de Néoptolème à Delphes, Hermione revient à Oreste et la tradition les donne comme parents de Tisamène.
+
+Cette histoire est assez précise pour éclairer un **conflit d'engagements matrimoniaux**, mais elle demeure la paraphrase tardive d'un savoir antérieur. L'adverbe « ensuite » dans un commentaire ne fournit pas l'ordre scénique des épisodes. Une suite racontée peut tenir lieu de toile de fond ou de généalogie explicative dans une tragédie.
+
+Eustathe ajoute qu'un homme appelé **Machaireus** tue Néoptolème à Delphes, dans le contexte où le fils d'Achille demande au dieu raison de la mort de son père. La variante diffère de traditions qui assignent à **Oreste** l'organisation du meurtre. Cette différence n'est pas un détail à harmoniser ; elle révèle une pluralité de récits en concurrence.
+
+### 13. Homère, *Odyssée* IV, 1–9 : le mariage avant le drame
+
+[M] Au début du chant IV, l'*Odyssée* présente des noces dans la demeure de Ménélas à Lacédémone. L'une concerne sa fille Hermione, promise au fils d'Achille ; l'autre concerne son fils Mégapenthès. Le texte homérique fonde une ancienne tradition du mariage d'Hermione et de Néoptolème.
+
+Ce témoignage est **antérieur à Sophocle**, mais l'épopée ne raconte pas le litige familial élaboré par la tragédie. Le fils d'Achille et la fille d'Hélène forment d'abord un couple de prestige qui rattache deux maisons guerrières, la lignée de Ménélas et celle d'Achille. Le mari choisi est pensé comme allié politique et héros récompensé.
+
+Le conflit devient tragique lorsqu'un second récit fait apparaître **Oreste comme bénéficiaire d'une promesse antérieure**. Le drame peut alors se nouer sans que l'un ou l'autre engagement soit fictif. Deux promesses, soutenues par des autorités différentes, produisent deux droits incompatibles.
+
+### 14. L'autorité de Tyndare, de Ménélas et l'invisibilité des consentements
+
+[T/M] Dans la tradition rapprochée par Eustathe, Tyndare agit en l'absence de Ménélas, et le père d'Hermione engage ou confirme de son côté un autre mariage. Il faut éviter de projeter sans précaution les procédures matrimoniales de l'Athènes classique sur la Sparte héroïque : la tragédie manipule des catégories connues de son public, mais ses maisons mythiques ne constituent pas un dossier d'archives notariales.
+
+La question interprétative devient alors : **une promesse peut-elle être légitime à l'égard de chacun des donneurs et injuste à l'égard de celle qui en subit l'exécution ?** Nous ignorons les mots qu'Hermione prononçait dans la pièce. Le titre centré sur son nom permet au moins de demander si sa perspective pouvait déplacer l'attention depuis le prestige des hommes jusqu'au coût humain du changement d'alliance.
+
+Les chercheurs débattent de la portée de « donner » Hermione à Oreste : mariage consommé ou fiançailles ? [H] Il faut maintenir les deux hypothèses. Les autres dramaturges du Ve siècle, notamment **Philoclès** et **Théognis le tragique**, ont connu des variantes plus fortes ; leur récit ne devient pas automatiquement celui de Sophocle.
+
+### 15. Hermione : personnage, héritière, monnaie politique ?
+
+[M] Hermione est fille de Ménélas et d'Hélène, dont l'union est au cœur de la guerre troyenne. Sa filiation la charge d'un immense capital symbolique. Elle n'est pourtant pas un simple équivalent de la propriété territoriale. Les versions antiques font d'elle une personne prise entre les engagements de différentes générations.
+
+L'image moderne de la « monnaie diplomatique » éclaire la fonction sociale du mariage politique mais doit rester **métaphorique**. Rien ne permet d'attribuer à Sophocle un discours explicitement anti-matrimonial. L'enjeu réside dans la fragilité d'une alliance lorsque des promesses concurrentes prétendent s'imposer sur un même corps.
+
+Même le titre *Hermione* ne prouve pas qu'elle était constamment au centre de la scène. Mais un dramaturge pouvait opposer l'éclat des héros revenus de Troie à la situation d'une femme qui doit vivre les conséquences d'une victoire qu'elle n'a pas décidée.
+
+### 16. Néoptolème : le fils d'Achille et l'héritage de la violence
+
+[M] Néoptolème est le descendant d'Achille, héros nécessaire à l'achèvement de la conquête de Troie dans certaines traditions. Les œuvres conservées ne lui assignent pas une personnalité unique. Dans le *Philoctète* de Sophocle, il lutte contre la ruse d'Ulysse ; dans d'autres récits, notamment liés au sac de Troie, il incarne des actes d'une grande brutalité.
+
+Attribuer à la pièce perdue les traits du *Philoctète* serait une erreur chronologique et dramaturgique : nous ne savons pas si le public devait reconnaître le même jeune homme devenu plus dur, plus juste ou radicalement différent. Sophocle lui-même peut varier une figure mythique selon le problème traité.
+
+[H] Si F 202 marque son retour, la patrie apparaît comme une récompense héritée. Si F 694 lui est adressé, l'éducation héroïque demeure inachevée. Si F 696 vise la vengeance d'Achille, la justice risque d'être comprise comme prolongement de la guerre au sein même d'un sanctuaire panhellénique.
+
+Ces trois propositions se renforcent mutuellement, mais leur cohérence **n'est pas** un argument suffisant pour transformer les trois fragments en actes consécutifs.
+
+### 17. Oreste : la fidélité à une promesse et le poids du matricide
+
+[M] Oreste a tué sa mère Clytemnestre dans une part importante de la tradition tragique. Il est aussi l'héritier des Atrides et un prétendant à Hermione. Son droit présumé n'est donc pas séparé de la question de sa propre souillure.
+
+Euripide, *Andromaque* **966–981**, fait de l'ancienne promesse matrimoniale une pièce du discours d'Oreste ; ce dernier joue ensuite un rôle crucial dans l'issue meurtrière de Delphes. Mais *Andromaque* est une source **parallèle**. Son Oreste ne peut être transporté mot pour mot dans la pièce de Sophocle.
+
+[T] Le témoignage d'Eustathe sur Sophocle insiste davantage sur la mort par Machaireus. [H] Il n'est pas exclu qu'Oreste ait tenu un rôle actif, passif ou très secondaire. Nous ne savons ni si une confrontation entre les deux prétendants s'est produite, ni si l'héroïne a pris une décision publique.
+
+Le point philosophiquement fécond est l'impossibilité de confondre **un droit antérieur** et **une supériorité morale**. Oreste peut être lésé et dangereux, victime d'une promesse rompue et lui-même marqué par le sang.
+
+### 18. Pélée et Phénix : la génération qui surveille les héritiers
+
+[M] Pélée appartient à la génération d'avant Achille ; Phénix est présenté par l'*Iliade* comme un maître et compagnon plus âgé d'Achille. Ces deux figures offrent à la tradition tragique des médiateurs entre violence héroïque et parole de conseil.
+
+[H] Un rapprochement entre F 694 et F 695 pourrait dessiner deux scènes de vieillesse : d'abord un avertissement au jeune héritier, ensuite l'entraide des survivants. Cette belle symétrie est **une hypothèse de lecture**, non la restauration de la dramaturgie sophocléenne. D'autres personnages inconnus pourraient avoir prononcé les fragments.
+
+La vieillesse ne garantit pas la lucidité. Elle peut connaître la règle sans pouvoir contraindre l'héritier. Le vieillard est alors témoin d'un renversement : le descendant qui devait prolonger la maison risque de provoquer sa ruine.
+
+### 19. Pourquoi Delphes ? Le sanctuaire et la dette envers un dieu
+
+[M] Plusieurs traditions conduisent Néoptolème à Delphes, dans le sanctuaire d'Apollon. Le récit varie selon les auteurs : demande de réparation pour la mort d'Achille, querelle sur les parts du sacrifice, profanation envisagée ou accomplie, assassinat préparé par un adversaire. Les variantes ne sont pas interchangeables.
+
+[M] Pindare, *Néméenne* **VII, 34–47**, associe la mort du héros à un conflit autour du sacrifice. Le texte est important pour l'ancienneté et l'autonomie d'une tradition delphique, mais ne livre pas la scène de *Hermione*. Le *Péan* VI de Pindare conserve d'autres échos du dossier, dont l'interprétation est discutée.
+
+[M] L'*Épitomé* attribuée à Apollodore **VI, 13–14** transmet des versions où Oreste intervient et où Néoptolème, menaçant le sanctuaire après avoir demandé justice pour Achille, peut être tué par Machaireus le Phocidien. Il ne faut pas forcer ces récits à être une seule chronique.
+
+[T/H] Selon le récit attribué à Sophocle chez Eustathe, la demande du fils d'Achille à Apollon ouvre une difficulté théologique : demander compte à une divinité suppose qu'une norme de justice puisse s'appliquer au dieu. Mais si le demandeur attaque le sanctuaire, il peut lui-même devenir transgresseur. Cette double possibilité fait de Delphes un laboratoire tragique de la limite.
+
+### 20. La mort d'Achille : fait mythique, responsabilité divine et contestation
+
+[M] Les récits attribuent à Apollon différents rôles dans la mort d'Achille, selon les traditions, souvent associés à Paris. Il serait imprudent de réduire toute la mythologie grecque à la formule « Apollon a tué Achille ». Un texte ancien peut faire du dieu un agent, un auxiliaire, un instigateur ou une puissance qui dirige le destin.
+
+[Φ] La question posée à Delphes déborde celle de la vengeance : **à quoi ressemble une justice lorsqu'un dieu peut être mis en cause, mais qu'il n'existe aucun tribunal au-dessus de lui ?** L'héritier peut chercher une procédure là où ne subsiste qu'un rapport de puissance.
+
+Le sanctuaire est aussi un lieu d'arbitrage intercommunautaire. Le geste de Néoptolème, s'il fut représenté comme un défi, transforme un ressentiment familial en incident public et religieux. Ce passage de la maison au sanctuaire serait un ressort dramaturgique puissant ; il demeure [H] faute de scène conservée.
+
+### 21. Pausanias et la matérialité du souvenir delphique
+
+[M/I] Pausanias, *Description de la Grèce* **X, 24, 4–6**, évoque la mémoire du tombeau de Néoptolème à Delphes ; sa description documente la tradition du héros mort et honoré en un lieu sacré. Il écrit de nombreux siècles après la période de Sophocle. Ce témoin géographique ne confirme ni une représentation théâtrale, ni le lieu exact des gestes imaginés par le dramaturge.
+
+La tombe et le culte peuvent faire passer une mort litigieuse dans l'ordre collectif : le héros autrefois menaçant devient une présence honorable du sanctuaire. Mais cette lecture religieuse doit être proportionnée à la documentation et distinguée du dénouement possible de *Hermione*.
+
+**Itinéraire documentaire conseillé :** Sparte/Lacédémone (maison de Ménélas) → Phthie/Thessalie (héritage d'Achille) → Delphes en Phocide (mort et mémoire cultuelle). Il s'agit d'une **carte de lieux du mythe**, pas d'un itinéraire de scènes sûrement représentées par Sophocle.
+
+### 22. Le contrepoint d'Euripide, *Andromaque*
+
+[M] Euripide compose dans *Andromaque* une intrigue déjà prise dans l'après-guerre de Troie : Andromaque, captive troyenne, a eu un enfant de Néoptolème ; Hermione, épouse légitime, s'oppose à elle et à l'enfant dans la maison de Phthie. Le drame traite de la hiérarchie des statuts, du refus de la maternité et de l'insécurité des vaincus.
+
+Les passages **147–182** montrent Hermione revendiquant l'autorité de son mariage et accusant Andromaque. Les passages **966–981** introduisent la parole d'Oreste sur son ancienne promesse ; le récit de la mort de Néoptolème, porté par un messager, occupe la séquence autour de **1085–1165** ; l'exodos comprend une intervention de Thétis dans **1222–1288**. Ce sont des points d'observation sûrs d'une **autre tragédie**.
+
+Il est capital de ne pas projeter l'Andromaque captive sur la scène de Sophocle. L'étude de 2006 juge qu'aucune preuve ne démontre sa présence dans *Hermione*. **L'absence de preuve n'est pas preuve d'absence**, mais le chercheur n'a aucun droit de peupler artificiellement la distribution d'une œuvre perdue.
+
+Euripide fournit plutôt un **test différentiel** : la même constellation de personnages peut générer une tragédie de la captive et de la jalousie, ou une tragédie de la promesse et de la vengeance. L'existence de l'une ne détermine pas automatiquement l'autre.
+
+### 23. Le contrepoint d'Euripide, *Oreste* : une issue matrimoniale
+
+[M] À la fin de l'*Oreste* d'Euripide, une intervention divine annonce notamment le mariage d'Oreste et d'Hermione ; le passage se situe autour de **1653–1657**. La réunion du couple peut devenir un effet de clôture providentiel, alors que les transmissions associées à Sophocle supposent une carrière matrimoniale préalable plus conflictuelle.
+
+Ne pas confondre **solution du récit** et **résolution morale**. L'union finale peut garantir la continuation d'une dynastie sans réparer l'injustice faite à ceux dont les promesses furent contredites. Hermione peut être réintégrée dans un ordre généalogique tout en restant un sujet qui a subi une série d'assignations.
+
+### 24. La tradition de Virgile : *Énéide* III, 294–336
+
+[M] Virgile, dans le récit d'Andromaque en Épire, exploite la mémoire d'une union d'Hermione avec Néoptolème/Pyrrhus et du meurtre de ce dernier. Cette transposition latine est une source majeure pour la **réception** du mythe, non un compte rendu des scènes sophocléennes.
+
+Dans un paysage de survivants troyens, l'ordre familial est la réorganisation d'un champ de ruines. Les femmes circulent entre vainqueurs, époux successifs et territoires déplacés. Virgile donne à cette mobilité une résonance politique et mémorielle que le lecteur moderne peut comparer, mais pas attribuer rétroactivement au texte perdu.
+
+### 25. Le mythe est-il une « histoire » unique ?
+
+Une erreur méthodologique fréquente consiste à écrire : « Hermione fut promise à Oreste, puis enlevée, Néoptolème assassiné par Oreste, et elle épousa Oreste. » Cette formule compacte efface la différence cruciale entre **Eustathe/Sophocle** et **Euripide/les autres mythographes** sur la responsabilité de la mort.
+
+Le récit doit être présenté **en embranchements** :
+
+**Branche A — Eustathe au sujet de Sophocle [T] :** promesse de Tyndare à Oreste ; promesse concurrente de Ménélas à Néoptolème ; union avec Néoptolème ; mort à Delphes liée à Machaireus ; retour vers Oreste ; Tisamène.
+
+**Branche B — Euripide, *Andromaque* [M] :** ancienne promesse invoquée par Oreste ; conflit dans la maison de Phthie ; action d'Oreste liée à la mort à Delphes ; avenir d'Andromaque et de la lignée épirote.
+
+**Branche C — Pindare et traditions delphiques [M] :** confrontation autour d'un sacrifice et mémoire héroïque locale.
+
+Les trois branches peuvent partager des noms sans constituer les mêmes événements ou les mêmes jugements moraux. L'intérêt de la comparaison est de comprendre **les options offertes aux anciens**, pas d'élire arbitrairement une version composite.
+
+### 26. Reconstruction dramatique : règles de prudence
+
+Le modèle suivant est volontairement **architectural** : il décrit des configurations narratives compatibles avec les preuves, et **ne rédige aucun dialogue antique inexistant**. Un épisode possible n'est pas baptisé « épisode 2 de Sophocle » ; sa position scénique demeure incertaine.
+
+Première contrainte : si le titre *Hermione* a été choisi pour son personnage central, l'intrigue a probablement donné une visibilité significative à la jeune femme, même si le meurtre de Delphes constitue un moment décisif. Seconde contrainte : si F 202 appartient à un personnage revenant dans sa patrie, un mouvement de retour peut organiser une partie de l'action. Troisième contrainte : si *Phthiotides* constitue un second titre, un chœur local semble plausible.
+
+Aucune de ces trois contraintes n'établit la nécessité d'un deus ex machina, d'une arrivée du corps sur scène ou d'une confrontation face à face entre Oreste et Néoptolème. Les éditeurs peuvent en proposer des modèles ; ceux-ci doivent rester étiquetés comme reconstructions.
+
+### 27. Hypothèse dramaturgique I : tragédie de la double promesse
+
+[H — confiance relative : moyenne pour le **motif**, faible pour la **répartition scénique**.] Le conflit principal opposerait les anciens droits d'Oreste au mariage effectivement imposé avec Néoptolème. Hermione pourrait devenir l'instance à travers laquelle la légitimité de l'accord se mesure à la liberté et à la souffrance de sa destinataire.
+
+Ce modèle exploite le témoignage d'Eustathe sans importer nécessairement le personnage d'Andromaque. La question delphique serait une seconde ligne dramatique venant décider, de manière irréversible, de l'avenir du mariage.
+
+Ce modèle ne permet **aucune parole directe** attribuable à l'héroïne : il montre seulement quel enjeu aurait pu rendre son nom significatif comme titre.
+
+### 28. Hypothèse dramaturgique II : tragédie du fils vengeur
+
+[H — confiance relative : moyenne pour le **rapport entre Néoptolème et Delphes**, faible pour la succession des scènes.] L'action serait portée par la détermination du fils d'Achille à obtenir réparation d'Apollon. Une voix plus âgée tenterait de distinguer justice et sacrilège ; la fatalité surviendrait lorsque le héros refuse ce discernement.
+
+Si l'identification aux *Phthiotides* était exacte, F 694 pourrait servir de point d'appui à ce modèle. Mais le texte transmis ne décrit pas l'attaque du sanctuaire : c'est un élément déduit des traditions parallèles et du témoignage d'Eustathe.
+
+Un tel drame ne serait pas seulement le procès d'une colère individuelle. Il demanderait si la cité et la religion disposent de procédures capables d'absorber la violence des grandes lignées.
+
+### 29. Hypothèse dramaturgique III : tragédie de la survivante
+
+[H — confiance relative : faible.] Après le départ puis la mort de Néoptolème, Hermione serait contrainte d'appréhender son avenir dans une maison potentiellement hostile. Le retour d'Oreste ouvrirait une possibilité de sortie, mais aussi une dépendance renouvelée à une autre autorité masculine.
+
+Le titre *Hermione* inviterait ici à déplacer le centre de gravité depuis le meurtre du héros vers la redistribution des liens domestiques. On pourrait envisager un dénouement dans lequel la continuation généalogique avec Tisamène importe davantage que la gloire du mort.
+
+**Ce que nous excluons :** l'invention d'une scène d'aveu, d'une tentative de meurtre, d'une prière à Apollon ou d'une intervention de Thétis. Leur utilité dramatique n'est pas un témoignage.
+
+### 30. L'obstacle des calendriers : aucune chronologie de représentation sûre
+
+Nous ignorons l'année de représentation de *Hermione*. Les rapports possibles avec l'*Andromaque* d'Euripide sont l'objet de discussions sur la priorité et l'influence. Il serait excessif d'affirmer que Sophocle a répondu à Euripide ou l'inverse sans établir les dates relatives.
+
+Les sujets liés à Néoptolème appartiennent à des traditions orales, épiques, cultuelles et dramatiques nombreuses. Une ressemblance peut provenir d'une source commune, d'un emprunt direct ou de l'attente d'un public habitué au même récit. La chronologie n'offre pas ici de solution mécanique.
+
+### 31. Analyse du conflit juridique : qui peut disposer d'une personne ?
+
+[Φ] Le cœur spéculatif de la tragédie est une contradiction entre plusieurs conceptions de la validité. Dans l'ordre des promesses masculines, la parole donnée oblige celui qui l'a prononcée. Dans l'ordre de la parenté, l'autorité du père et du grand-père peut paraître légitimante. Dans l'ordre de la vie vécue, pourtant, Hermione est celle qui doit subir une décision qu'elle n'a pas négociée.
+
+Il ne convient pas d'opposer grossièrement un « droit grec » fixe à une « sensibilité moderne » sans examiner les institutions. La tragédie grecque ne reproduit pas un tribunal d'Athènes. Elle dramatise des tensions normatives où la noblesse, la force, le mariage, l'hospitalité et la parole ancestrale peuvent diverger.
+
+La **double promesse** montre une aporie logique : respecter l'une peut imposer de trahir l'autre. Le pouvoir de promettre n'est donc pas une souveraineté illimitée. Lorsque deux autorités peuvent engager le même avenir, la multiplication des garants finit par détruire la sécurité qu'une promesse devait produire.
+
+### 32. Hegel I : l'éthique familiale et la collision des droits
+
+[Φ] Dans la *Phénoménologie de l'esprit*, section consacrée à l'ordre éthique et à la tragédie d'Antigone, Hegel décrit l'affrontement de puissances éthiques qui possèdent chacune une forme de légitimité, mais deviennent destructrices lorsqu'elles absolutisent leur droit particulier. Dans les *Principes de la philosophie du droit*, §§ 158–181, il réfléchit également au mariage, à la famille et à la transition vers les autres rapports sociaux.
+
+Appliquer cette grille à *Hermione* est un **travail moderne**, non une lecture de Hegel portant expressément sur ce fragment. Tyndare et Ménélas représentent deux centres d'engagements ; Néoptolème et Oreste incarnent deux demandes fondées sur un passé différent ; Hermione éprouve la limite d'une famille qui parle au nom de sa reproduction sans garantir la liberté de ses membres.
+
+La contradiction ne se réduit pourtant pas à deux devoirs également justes. Un engagement pris sur la vie d'autrui peut être **structurellement injuste**. La lecture hégélienne doit donc être éprouvée contre l'asymétrie des sexes et des pouvoirs, au lieu de consacrer abstraitement toutes les parties comme « également légitimes ».
+
+### 33. Hegel II : la vengeance familiale contre l'universalité de la loi
+
+[Φ] Le désir d'un fils de demander réparation d'une mort paternelle se rattache à une forme de justice de la parenté. La famille se pense comme responsable de sa propre continuité. Mais l'intervention d'un sanctuaire commun introduit une autorité dépassant le seul lignage.
+
+Dans une lecture hégélienne rétrospective, le conflit se radicalise lorsque le revendiquant prend son droit privé pour une justice universelle. Si Néoptolème menace Delphes pour venger Achille, sa revendication peut devenir l'inverse de ce qu'elle prétend accomplir : le refus d'un ordre public partagé.
+
+Cette hypothèse n'oblige pas à lire la mort du héros comme **juste**. La violence du sanctuaire ou des Delphians peut elle aussi être questionnée ; Hegel n'offre pas un verdict automatique, mais une grammaire des contradictions.
+
+### 34. Nietzsche I : dette, faute et représailles
+
+[Φ] Nietzsche, *Généalogie de la morale*, deuxième dissertation, analyse historiquement la proximité entre **dette** et **faute** dans la constitution des obligations, ainsi que les mécanismes de compensation et de punition. Un rapprochement prudent aide à examiner la prétention de Néoptolème : la mort du père peut être pensée comme une dette demeurée sans paiement.
+
+Mais Nietzsche ne fournit pas le texte grec de Sophocle et ne permet pas de substituer une psychologie moderne à une action disparue. Nous ne savons pas si Néoptolème calculait la réparation, s'il était saisi par une colère sacrée ou s'il cherchait à déshonorer Apollo.
+
+La grille nietzschéenne n'est pertinente qu'à condition de distinguer **logique narrative de rétribution** et **généalogie historique des valeurs**. Que le héros demande un équivalent pour une mort ne prouve pas que Sophocle ait théorisé la dette comme origine de la morale.
+
+### 35. Nietzsche II : ressentiment ou affirmation héroïque ?
+
+[Φ] Traiter Néoptolème comme « être de ressentiment » est tentant mais conceptuellement hasardeux. Chez Nietzsche, le ressentiment désigne une configuration d'impuissance et de renversement des évaluations, non n'importe quelle vengeance. Le fils d'Achille appartient précisément à un univers de puissance héroïque où l'acte de représailles peut être revendiqué ouvertement.
+
+Le cas invite plutôt à une question : **comment une puissance qui se dit légitime se transforme-t-elle en autodestruction lorsqu'elle ne supporte aucun obstacle ?** Un adversaire divin ne peut être atteint par les moyens ordinaires d'un guerrier ; le héros risque alors d'attaquer des médiations, des objets ou des prêtres.
+
+La différence entre vengeance active et ressentiment réactif mérite ainsi d'être préservée. Le drame perdu ne doit pas devenir l'illustration automatique d'un chapitre de philosophie.
+
+### 36. Platon I : les dieux peuvent-ils être tenus pour responsables du mal ?
+
+[Φ] Dans la *République* **II, 379b–380c**, Platon conteste la représentation du dieu comme cause du mal et demande de surveiller les récits sur les divinités. Il est légitime de rapprocher cette exigence de la question qui conduit Néoptolème à Delphes : que signifie imputer la mort d'Achille à une puissance divine ?
+
+Le philosophe et le dramaturge n'ont pas nécessairement la même réponse. La tragédie peut conserver l'ambiguïté théologique qu'une cité philosophique voudrait résoudre pour l'éducation des gardiens. Si le récit donne au dieu une responsabilité, il ne dit pas encore selon quelle règle ce dieu pourrait être jugé.
+
+La comparaison fait apparaître deux régimes du vrai : le mythe théâtral explore les conséquences d'une accusation ; la critique platonicienne demande si une telle accusation est compatible avec la bonté divine.
+
+### 37. Platon II : apparence du savoir et autorité des anciens
+
+[Φ] L'échange d'un aîné avec un jeune homme, si F 694 appartient effectivement au même drame, permet une seconde comparaison : Platon donne souvent au dialogue une valeur pédagogique en opposant la prétention à savoir et le travail de l'examen. Pourtant, le fragment gnomique n'installe aucune dialectique socratique identifiable.
+
+Le conseiller tragique peut posséder une connaissance pratique de la prudence, mais ne pas réussir à convertir le jeune interlocuteur. La fonction d'enseignant ne vaut pas garantie de vérité, et l'obéissance sans examen ne vaut pas sagesse.
+
+Il serait incorrect de présenter Sophocle comme précurseur direct de la *République*. La comparaison doit rester une **confrontation de problèmes** : apprendre, accepter les limites du jugement, distinguer autorité et raison.
+
+### 38. Aristote : caractère, action et reconnaissance
+
+[Φ] La *Poétique* d'Aristote privilégie l'organisation de l'action et la cohérence de l'intrigue, sans supprimer l'importance de l'êthos. Le cas de F 694 et la référence aux *Phthiotides* offrent un terrain de discussion sur la confrontation entre âge et jeunesse.
+
+Il faut rappeler que les manuels modernes projettent souvent sur les tragédies perdues le modèle d'une scène de **reconnaissance**. F 203 contient certes un adjectif signifiant « connu », mais celui-ci n'établit aucune *anagnôrisis*. Une reconnaissance est une procédure dramatique, non la simple occurrence d'une forme lexicale.
+
+Une reconstruction rigoureuse n'affirme pas qu'Hermione reconnaissait Oreste, qu'un message révélait sa légitimité ou qu'un objet servait de preuve. Aucune de ces circonstances n'est attestée par les fragments retenus.
+
+### 39. Le mariage comme lieu de la mémoire guerrière
+
+[Φ] Les promesses matrimoniales n'apparaissent pas ici comme une affaire simplement privée. Le prestige de Néoptolème provient de la guerre et du nom d'Achille ; celui d'Hermione de Ménélas et d'Hélène ; celui d'Oreste de la restitution sanglante de la maison d'Agamemnon. **Trois mémoires de guerre** se rencontrent dans la question du mariage.
+
+L'après-Troie ne peut donc être pensé comme une pacification automatique. Les droits sur les captives, les distributions de femmes et les successions héroïques prolongent la guerre sous une forme domestique. Le retour n'est pas la fin du conflit, mais le déplacement de son langage.
+
+Une tragédie centrée sur Hermione aurait pu faire sentir que les vainqueurs ne savent pas encore gouverner leur paix. Cette hypothèse est historiquement interprétative ; elle demeure indépendante du détail exact des actes perdus.
+
+### 40. La perspective féminine : sans confondre témoignage et projet d'émancipation
+
+Hermione n'est pas réductible au rôle de « victime silencieuse ». Elle peut, selon les versions, participer à l'intrigue, plaider ou prendre une décision. Mais **aucune parole continue d'Hermione chez Sophocle ne nous est conservée**. On ne peut inventer un discours d'autonomie au nom d'une sympathie moderne.
+
+Le point critique consiste plutôt à mesurer les **modes de représentation** : chez Homère, un mariage dynastique ; chez Euripide, une épouse agissant durement contre Andromaque ; dans la version attribuée à Sophocle, une femme prise dans la succession d'engagements et de maris. Le statut juridique d'une femme n'implique jamais à lui seul une psychologie unique.
+
+La question moderne de l'agentivité demeure utile lorsque l'on reconnaît son caractère interrogatif : **quel espace d'action pouvait subsister dans une maison où deux promesses masculines prétendaient décider de son avenir ?**
+
+### 41. Mythologie comparée : la succession des promesses matrimoniales
+
+[Φ/M] Les épopées et traditions héroïques de nombreuses cultures présentent des mariages comme alliances entre maisons. Une comparaison strictement typologique peut mettre en regard l'histoire d'Hermione avec les fonctions de l'alliance dans le *Mahābhārata* ou les lignées dynastiques de l'ancienne Mésopotamie.
+
+**Aucune filiation directe n'est démontrée** entre Sophocle et ces traditions. Les normes matrimoniales diffèrent fortement dans leur histoire et leur formulation. Comparer ne signifie pas identifier : la revendication de deux hommes sur une même femme n'est pas un archétype suffisamment précis pour prouver un emprunt.
+
+Le comparatisme utile a deux exigences : indiquer les sources textuelles de chaque civilisation et exposer les écarts institutionnels. Sans ces précautions, une ressemblance abstraite effacerait la spécificité du théâtre d'Athènes et la variété des droits de la famille.
+
+### 42. Mythologie comparée : venger un parent et franchir un espace sacré
+
+[M/Φ] Le thème du mort dont les proches demandent réparation traverse les poésies héroïques. Dans l'*Épopée de Gilgameš*, la mort d'Enkidu provoque une autre forme de crise : non une procédure judiciaire contre un dieu, mais une exploration de la mortalité. La juxtaposition met en relief ce qu'il y a de particulier dans le possible geste de Néoptolème : rendre le dieu justiciable d'une perte familiale.
+
+Cette différence interdit de parler d'un même récit de « défi aux dieux ». Les échelles de responsabilité, les gestes religieux et les finalités changent. La comparaison permet de comprendre des **structures de problèmes**, non de reconstituer la généalogie d'un mythe grec à partir d'une épopée mésopotamienne.
+
+### 43. Histoire des religions : culte héroïque et violence fondatrice
+
+[M] Le tombeau de Néoptolème à Delphes fait apparaître un passage du héros guerrier au mort intégré à un lieu cultuel. Dans certains récits, sa mort est scandaleuse ; dans la mémoire du sanctuaire, il est pourtant l'objet d'un traitement héroïque.
+
+[Φ] Cette transformation peut être lue comme un processus de stabilisation symbolique : le corps qui menaçait devient une présence ritualisée. Mais ce schéma général d'anthropologie religieuse ne doit pas prendre la place des dates, des inscriptions et des variantes locales.
+
+Aucun document archéologique n'autorise ici la restitution d'un théâtre représentant Delphes avec un bâtiment cultuel précis. Le sanctuaire réel et la convention scénique athénienne doivent être étudiés séparément.
+
+### 44. La Phthie : lieu de mémoire et non simple décor
+
+[M] La Phthie est inséparable de la tradition d'Achille. La maison des descendants d'Éaque s'inscrit dans un paysage de souveraineté thessalienne dont les désignations géographiques varient selon les textes et les époques.
+
+[H] L'identification de *Hermione* aux *Phthiotides* donnerait au chœur local une fonction de témoin communautaire : les femmes du pays verraient l'entrée d'une nouvelle épouse et les conséquences de la conduite de l'héritier. On ne peut toutefois affirmer ni leur orientation morale ni leur sympathie pour Hermione.
+
+La patrie serait alors simultanément **héritée, habitée et contestée** : héritée par Néoptolème, habitée par la génération de Pélée, contestée par la question du mariage. Le mot « patrie » du fragment 202 acquiert dans cette hypothèse un poids dramaturgique sans devenir une preuve de scène.
+
+### 45. Iconographie I — Néoptolème et les armes d'Achille
+
+[I] **Kunsthistorisches Museum, Vienne, Antikensammlung** : coupe attique signée du peintre **Douris**, vers **490 av. J.-C.**, associée à la dispute sur les armes d'Achille. Le musée décrit, dans son image intérieure, Néoptolème recevant d'Ulysse l'armement façonné par Héphaïstos pour Achille.
+
+**Notice institutionnelle :** [*Streit um die Waffen des Achilleus*, Kunsthistorisches Museum](https://www.khm.at/en/artworks/streit-um-die-waffen-des-achilleus-56678).
+
+**Légende scientifique proposée :** *L'héritage matériel du guerrier. Néoptolème reçoit les armes d'Achille. Coupe attique attribuée à Douris, vers 490 av. J.-C., Kunsthistorisches Museum, Vienne. L'image atteste un motif iconographique antérieur ou indépendant à la représentation d'Hermione par Sophocle ; elle n'en reconstitue aucune scène.*
+
+**Usage sur le site :** préférer une vignette et un lien vers la notice institutionnelle ; vérifier les droits avant de recopier le fichier photographique. Les photographies d'œuvres anciennes peuvent avoir des conditions de réutilisation spécifiques.
+
+### 46. Iconographie II — Un mariage grec, non les noces d'Hermione
+
+[I] **Metropolitan Museum of Art**, New York : lécythe attique attribué au **peintre d'Amasis**, vers **550–530 av. J.-C.**, inventaire **56.11.1**. La notice institutionnelle décrit un cortège nuptial transportant les époux de nuit vers la maison du marié.
+
+**Notice institutionnelle :** [*Terracotta lekythos (oil flask)*, Metropolitan Museum of Art, 56.11.1](https://www.metmuseum.org/art/collection/search/254843).
+
+**Légende scientifique proposée :** *Procession nuptiale attique à figures noires, vers 550–530 av. J.-C. Un document de comparaison pour les codes visuels du mariage grec ; aucun personnage n'est identifié comme Hermione, Oreste ou Néoptolème.*
+
+Cet objet explique le poids collectif d'un passage de maison à maison. Il ne documente ni une scène jouée par Sophocle, ni les détails d'un mariage spartiate héroïque.
+
+### 47. Iconographie III — Le récit ne doit pas masquer la transmission
+
+Les illustrations mythologiques tardives consacrées à Pyrrhus, Andromaque et Hermione appartiennent à des moments historiques distincts : céramique antique, peintures modernes, théâtre français, gravure. Leur valeur est celle de la **réception**, non celle d'un témoignage direct sur Sophocle.
+
+Un article universitaire ne doit pas présenter une image de théâtre classique moderne comme une reconstruction de la scène grecque. Les objets cités ci-dessus suffisent à opposer deux thèmes essentiels : **transfert de l'héritage guerrier** et **transfert matrimonial**.
+
+### 48. Tableau synoptique de la fiabilité
+
+| Proposition | Statut | Motif du classement |
+| --- | --- | --- |
+| Sophocle a composé une pièce appelée *Hermione* | **Attesté** [F/T] | Tradition des citations et scholies |
+| *Hermione* comporte les fragments 202 et 203 Radt | **Attesté** [F] | Répertoire critique des fragments |
+| Une tradition attribuée à Sophocle raconte une promesse à Oreste puis une remise à Néoptolème | **Attesté comme témoignage** [T] | Eustathe et scholies, pas texte scénique complet |
+| Néoptolème meurt à Delphes selon plusieurs versions anciennes | **Attesté dans le mythe** [M] | Pindare, Euripide, Apollodore, Pausanias |
+| *Hermione* et *Les Phthiotides* sont la même tragédie | **Hypothèse** [H] | Compatibilité thématique, pas preuve décisive |
+| Les vieillards de F 695 sont Pélée et Phénix | **Hypothèse** [H] | Noms absents du fragment |
+| Hermione a plaidé publiquement pour rejoindre Oreste | **Non établi** | Aucune réplique conservée |
+| Oreste a lui-même assassiné Néoptolème chez Sophocle | **Non établi et problématique** | Eustathe conserve Machaireus |
+| Une divinité apparaît en clôture | **Non établi** | Aucun témoignage de mise en scène |
+| Le drame oppose droit de promesse et liberté féminine | **Interprétation** [Φ] | Problème moderne appliqué au dossier |
+
+### 49. Cinq objections à notre lecture
+
+**Objection 1 : le témoignage d'Eustathe est tardif.** Oui. Il prouve d'abord que des lettrés attribuaient ce récit à Sophocle. C'est un guide précieux, mais sa distance chronologique impose la réserve.
+
+**Objection 2 : le titre de la pièce n'indique pas qui agit.** Exact. Il invite à interroger la place d'Hermione, mais ne fournit ni distribution ni hiérarchie certaine des scènes.
+
+**Objection 3 : les fragments des *Phthiotides* peuvent relever d'une œuvre différente.** Exact. Notre lecture en garde l'hypothèse ouverte et ne les reclasse pas de manière irréversible sous *Hermione*.
+
+**Objection 4 : la philosophie moderne risque de supplanter le peu de grec conservé.** Le risque existe. C'est pourquoi Hegel, Nietzsche et Platon figurent comme **outils analytiques**, tandis que les fragments et les témoignages occupent des sections philologiques autonomes.
+
+**Objection 5 : une reconstruction sans dialogues reste insatisfaisante.** Elle est historiquement préférable à une fausse intégralité. L'objectif n'est pas d'écrire un Sophocle fictif, mais de rendre lisible la frontière entre ce que nous savons, ce que nous comparons et ce que nous imaginons.
+
+### 50. Synthèse philosophique : promesse, dette et transmission
+
+La question du mariage d'Hermione rencontre celle de la vengeance de Néoptolème dans un même vocabulaire : une génération réclame que la parole et la mort de la précédente obligent le présent. Tyndare, Ménélas, Achille, Pélée, Oreste et Néoptolème apparaissent comme autant de détenteurs ou de créanciers de droits hérités.
+
+**Le tragique naît lorsque l'héritage ne se laisse pas exécuter sans détruire ce qu'il prétend préserver.** Exécuter une promesse détruit une autre promesse ; demander compensation pour le père peut provoquer la mort du fils ; restaurer une maison peut réduire une femme à l'objet d'un accord dynastique.
+
+L'œuvre exacte de Sophocle ne nous est pas restituée. Mais les témoignages suffisent à poser un problème puissant : le prestige des maisons héroïques ne garantit pas leur capacité à formuler une règle commune. L'ordre nouveau ne peut sortir mécaniquement de la répétition des anciennes obligations.
+
+### 51. Conclusion — Ce qui demeure de *Hermione*
+
+L'importance de cette tragédie perdue ne repose pas sur le nombre de ses vers conservés, mais sur la profondeur des difficultés que le dossier antique met en évidence. Le fragment 202 ouvre la question de la patrie reçue ; le fragment 203 rappelle les caprices d'une transmission lexicographique ; les fragments 694–696, **à condition de respecter leur attribution aux *Phthiotides***, dessinent des thèmes possibles de conseil, de vieillesse et de revendication d'une justice paternelle.
+
+Eustathe transmet un scénario mythique riche où une femme est soumise à deux engagements incompatibles et où le fils d'Achille rencontre la violence à Delphes. Pindare, Euripide, les mythographes et Virgile offrent des versions divergentes, indispensables pour comprendre le champ de possibilités, mais impropres à recomposer une pièce comme un puzzle de scènes certaines.
+
+Les lectures de Hegel, Nietzsche et Platon n'ajoutent pas de paroles à Sophocle. Elles montrent pourquoi cette matière demeure philosophiquement féconde : autorité des familles, crédibilité des promesses, dette du sang, responsabilité des dieux et possibilité d'un ordre commun après la guerre.
+
+L'article doit donc se lire comme **une monographie critique sur un texte perdu**. Son apport n'est pas une reconstitution spectaculaire, mais une **cartographie explicite des preuves, des variantes et des hypothèses**. Aucune scène inventée, aucune citation grecque fabriquée et aucune attribution définitive des *Phthiotides* à *Hermione* n'y sont présentées comme des faits.
+
+---
+
+## Annexe A — Sources primaires contrôlées
+
+1. **Homère**, *Odyssée* IV, 1–9 : double mariage dans la maison de Ménélas, dont l'union d'Hermione et de Néoptolème.
+2. **Sophocle**, *Hermione*, **TrGF 4 F 202–203**, éd. Radt ; F 203 transmis par l'**Antiatticiste**, Bekker, *Anecdota Graeca*, p. 87, l. 25.
+3. **Sophocle**, *Les Phthiotides*, **TrGF 4 F 694–696**, dossier éventuellement associé à *Hermione* : F 694, **Stobée**, *Anthologie* II, 31, 16 ; F 695, **Aulu-Gelle**, *Nuits attiques* XIII, 19, 3 ; F 696, **grammairien anonyme** dans Bekker, *Anecdota Graeca*, p. 128, l. 1–8.
+4. **Aristote**, *Poétique* **1456a**, mention des *Phthiotides*.
+5. **Scholies à Homère**, *Odyssée* IV, 3–9, et **Eustathe**, *Commentaires à l'Odyssée*, au chant IV : version attribuée à Sophocle.
+6. **Pindare**, *Néméenne* VII, 34–47, et *Péan* VI (passages relatifs à Néoptolème et Delphes).
+7. **Euripide**, *Andromaque* 1–55 ; 147–182 ; 966–981 ; 1085–1165 ; 1222–1288.
+8. **Euripide**, *Oreste* 1653–1657 et scholies afférentes.
+9. **Phérécyde d'Athènes**, témoignages conservés par les scholies à l'*Oreste* d'Euripide, **FGrH 3 F 63–64** (concordances à contrôler selon l'édition de Fowler).
+10. **Pseudo-Apollodore**, *Épitomé* VI, 12–14.
+11. **Pausanias**, *Description de la Grèce* I, 11, 1 et X, 24, 4–6.
+12. **Virgile**, *Énéide* III, 294–336.
+13. **Platon**, *République* II, 379b–380c.
+14. **Aristote**, *Poétique*, notamment la relation entre action, caractère et reconnaissance.
+
+Les textes [M] sont donnés comme parallèles mythographiques ; ils ne sont pas tous des témoins du texte de Sophocle.
+
+## Annexe B — Bibliographie scientifique vérifiée
+
+- **Radt, Stefan** (éd.), *Tragicorum Graecorum Fragmenta*, vol. 4, *Sophocles*, Göttingen, Vandenhoeck & Ruprecht, **1977 ; 2e édition revue et augmentée, 1999**. [Notice BnF](https://catalogue.bnf.fr/ark:/12148/cb41332839g).
+- **Lloyd-Jones, Hugh** (éd. et trad.), *Sophocles. III: Fragments*, Loeb Classical Library **483**, Cambridge (Mass.), Harvard University Press, **1996**, ISBN **9780674995321**. [Notice bibliographique](https://bookculture.com/book/9780674995321).
+- **Sommerstein, Alan H., David Fitzpatrick et Thomas Talboy** (éd., trad., comm.), *Sophocles: Selected Fragmentary Plays*, vol. I, Liverpool, Liverpool University Press / Aris & Phillips, **2006**, chapitre « **Hermione or the Women of Phthia** », **p. 1–40**, DOI **10.3828/liverpool/9780856687655.003.0001**, ISBN relié **9780856687655**. [Catalogue universitaire](https://academic.oup.com/liverpool-scholarship-online/book/38195/chapter-abstract/333107134).
+- **Pearson, A. C.** (éd.), *The Fragments of Sophocles*, 3 vol., Cambridge, Cambridge University Press, **1917**. Les renvois du chapitre de 2006 indiquent, pour *Hermione* et *Phthiotides*, les volumes I, p. 141–144, et II, p. 305–307.
+- **Jebb, Richard C.**, *The Fragments of Sophocles*, sous la direction et dans la tradition de ses travaux sur Sophocle, consulter les volumes de fragments et la réédition Cambridge ; contrôler toute concordance sur le texte critique de Radt.
+- **Sutton, Dana F.**, *The Lost Sophocles*, Lanham, University Press of America, **1984**.
+- **Kiso, Akiko**, *The Lost Sophocles*, New York, Vantage Press, **1984**.
+- **Wright, Matthew**, *The Lost Plays of Greek Tragedy*, vol. 2, *Aeschylus, Sophocles and Euripides*, Londres, Bloomsbury Academic, **2019**, ISBN **9781474276467**.
+- **Gantz, Timothy**, *Early Greek Myth: A Guide to Literary and Artistic Sources*, 2 vol., Baltimore, Johns Hopkins University Press, **1993**.
+- **Fontenrose, Joseph**, *The Cult and Myth of Pyrros at Delphi*, Berkeley, University of California Press, **1960**.
+- **Guérin, Françoise**, « L'épopée des Argonautes dans le théâtre perdu de Sophocle », *Bulletin de l'Association Guillaume Budé*, **2012**, n° 2, p. 19–74 : un modèle méthodologique de traitement des fragments sophocléens, **non une étude directe d'*Hermione***. [Persée et DOI 10.3406/bude.2012.6948](https://doi.org/10.3406/bude.2012.6948).
+- **Nietzsche, Friedrich**, *Zur Genealogie der Moral* (*Généalogie de la morale*), **1887**, II, notamment §§ 1–8 : source d'analyse philosophique, pas témoignage sur la pièce.
+- **Hegel, G. W. F.**, *Phänomenologie des Geistes* (*Phénoménologie de l'esprit*), **1807**, section « esprit » ; *Grundlinien der Philosophie des Rechts* (*Principes de la philosophie du droit*), **1821**, §§ 158–181 : comparaisons conceptuelles rétrospectives.
+
+## Annexe C — Liens de contrôle documentaire
+
+- [Edition savante de 2006 : chapitre *Hermione or the Women of Phthia*, Oxford Academic](https://academic.oup.com/liverpool-scholarship-online/book/38195/chapter-abstract/333107134).
+- [Edition critique Radt 1999 : catalogue de la BnF](https://catalogue.bnf.fr/ark:/12148/cb41332839g).
+- [Pindare, *Néméenne* VII : édition grecque et traduction de consultation](https://www.greekmythology.com/sources/pindar/nemean-odes/nemean-7).
+- [Euripide, *Andromaque* 147–182 : texte grec et traduction de consultation](https://www.greekmythology.com/sources/euripides/andromache/episode-1-hermione-accuses).
+- [Euripide, *Andromaque* 1222–1288 : dénouement](https://www.greekmythology.com/sources/euripides/andromache/exodos-3-thetis).
+- [Kunsthistorisches Museum : armes d'Achille reçues par Néoptolème](https://www.khm.at/en/artworks/streit-um-die-waffen-des-achilleus-56678).
+- [Metropolitan Museum : procession matrimoniale attique](https://www.metmuseum.org/art/collection/search/254843).
+
+**Règle finale de lecture :** une donnée transmise par Eustathe est un témoignage sur Sophocle ; un fragment numéroté est une pièce du dossier textuel ; une tradition parallèle est un comparandum ; une hypothèse est une hypothèse. La différence entre ces quatre niveaux constitue l'intégrité scientifique de ce volume.
