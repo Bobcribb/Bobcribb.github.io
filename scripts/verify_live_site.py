@@ -236,6 +236,12 @@ RECENT_FIGURES = (
      "/assets/illustrations-articles/met-254648-athena-chouette-bronze.webp"),
     ("livre-hesiode/index.html", "icono-hesiode-aphrodite-hellenistique-met-253504-20261104",
      "/assets/illustrations-articles/met-253504-aphrodite-bronze.webp"),
+    # Audit post-iconographie : deux figures des chants V et XXII.
+    # Vérifier leur notice publique et les octets JPEG/WebP exacts.
+    ("livre-iliade-scenes/index.html", "icono-iliade-athena-diomede-met-254648-20261104",
+     "/assets/illustrations-articles/met-254648-athena-chouette-bronze.webp"),
+    ("livre-odyssee/index.html", "icono-odyssee-pretendants-skyphos-tarquinia-20261104",
+     "/assets/philosophie/documents/odyssee-03.jpg"),
 )
 
 
