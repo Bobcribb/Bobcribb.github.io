@@ -88,6 +88,24 @@ class SiteAuditFixTests(unittest.TestCase):
         self.assertNotIn('/404.html', urls)
         self.assertNotIn('/redirect.html', urls)
 
+    def test_existing_and_new_directory_redirects_stay_out_of_search_and_sitemap(self):
+        self.write('search.json', json.dumps([
+            {'url': '/old-folder/', 'title': 'Dossier thématique', 'excerpt': ''}]))
+        for i in range(450):
+            self.write(f'dossier-{i}/index.html', f'<h1>Dossier {i}</h1>')
+        raw = '<html><head><meta content="0;url=/dossier-0/" http-equiv="Refresh"></head><body><a href="/dossier-0/">Dossier</a></body></html>'
+        aliases = [self.write(name + '/index.html', raw)
+                   for name in ('old-folder', 'new-folder')]
+        with patch.object(build, 'OUT', self.root):
+            for _ in range(2):
+                build.reindex([])
+                urls = {e['url'] for e in json.loads((self.root/'search.json').read_text())}
+                for name, path in zip(('old-folder', 'new-folder'), aliases):
+                    self.assertNotIn('/' + name + '/', urls)
+                    self.assertNotIn('/' + name + '/', (self.root/'sitemap.xml').read_text())
+                    self.assertEqual(path.read_text(), raw)
+                self.assertIn('/dossier-0/', urls)
+
     def test_analysis_index_can_rebuild_twice_without_accumulating_ids(self):
         path = self.write('theatre-grec-conserve-etudes-philosophiques/index.html', '<main><article class="content"><h1>Analyses</h1><div id="archives-analyses-conservees"></div><div id="archives-analyses-conservees"></div><p>Texte historique conservé.</p></article></main>')
         entries = json.loads((ROOT/'search.json').read_text())

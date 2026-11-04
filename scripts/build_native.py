@@ -290,6 +290,21 @@ def reindex(chapters):
             "url": "/mythologie-grecque.html",
             "excerpt": "Entrée unique : chapitres universitaires grecs, dieux, héros, cosmogonies, cycles mythologiques, archives et analyses philosophiques."
         }
+    # Les anciens index peuvent déjà contenir des alias de dossiers. Filtrer
+    # toutes les entrées, pas seulement les nouvelles pages HTML autonomes.
+    # Les fichiers de redirection eux-mêmes restent intacts et accessibles.
+    for url in list(by_url):
+        page = OUT / url.lstrip('/')
+        if page.is_dir():
+            page = page / 'index.html'
+        if not page.is_file():
+            continue
+        head = re.split(r'</head\s*>', page.read_text(encoding='utf-8'),
+                        maxsplit=1, flags=re.I)[0]
+        doc = BeautifulSoup(head, 'html.parser')
+        if any(str(meta.get('http-equiv', '')).strip().lower() == 'refresh'
+               for meta in doc.find_all('meta')):
+            del by_url[url]
     if len(by_url)<450:
         raise RuntimeError("Protection : moins de 450 pages indexées")
     entries=sorted(by_url.values(),key=lambda e:e["title"].casefold())
