@@ -1,0 +1,80 @@
+[
+  {
+    "work": "L’Iliade",
+    "edition": "2026-11-04",
+    "kind": "etude",
+    "url": "/assets/philosophie/pdf/iliade-etude-a4.pdf",
+    "pages": 122,
+    "analysis_words": 48677,
+    "analysis_pages": 107,
+    "target_pages": 100,
+    "target_reached": true,
+    "bytes": 2554673,
+    "sha256": "c246763a00a648c08cc13fc06bcd43935a37483b32af3773b0d978610f0f2b51"
+  },
+  {
+    "work": "L’Iliade",
+    "edition": "2026-11-04",
+    "kind": "analyse-seule",
+    "url": "/assets/philosophie/pdf/iliade-analyse-seule-a4.pdf",
+    "pages": 107,
+    "analysis_words": 48677,
+    "analysis_pages": 107,
+    "target_pages": 100,
+    "target_reached": true,
+    "bytes": 356664,
+    "sha256": "b900fa5e8eb7e09aceb93bcc023049e2f88798560cc4518a636f53c02ca1655a"
+  },
+  {
+    "work": "L’Odyssée",
+    "edition": "2026-11-04",
+    "kind": "etude",
+    "url": "/assets/philosophie/pdf/odyssee-etude-a4.pdf",
+    "pages": 116,
+    "analysis_words": 47341,
+    "analysis_pages": 101,
+    "target_pages": 100,
+    "target_reached": true,
+    "bytes": 1472135,
+    "sha256": "aaa07653cc62b576e3d81e33d814af0a1877ebee17054074050bdd9062b50967"
+  },
+  {
+    "work": "L’Odyssée",
+    "edition": "2026-11-04",
+    "kind": "analyse-seule",
+    "url": "/assets/philosophie/pdf/odyssee-analyse-seule-a4.pdf",
+    "pages": 101,
+    "analysis_words": 47341,
+    "analysis_pages": 101,
+    "target_pages": 100,
+    "target_reached": true,
+    "bytes": 338415,
+    "sha256": "84fd38a70964721ad06375a6b9bde0156ad87ed8286571f2ac01f6615f5e1552"
+  },
+  {
+    "work": "La Théogonie",
+    "edition": "2026-11-04",
+    "kind": "etude",
+    "url": "/assets/philosophie/pdf/theogonie-etude-a4.pdf",
+    "pages": 117,
+    "analysis_words": 48394,
+    "analysis_pages": 103,
+    "target_pages": 100,
+    "target_reached": true,
+    "bytes": 2574302,
+    "sha256": "e8779b4703a30b25444d9c0f9658dd2d5cc56ce28aa9502ea0eb0bb9f2ef978e"
+  },
+  {
+    "work": "La Théogonie",
+    "edition": "2026-11-04",
+    "kind": "analyse-seule",
+    "url": "/assets/philosophie/pdf/theogonie-analyse-seule-a4.pdf",
+    "pages": 103,
+    "analysis_words": 48394,
+    "analysis_pages": 103,
+    "target_pages": 100,
+    "target_reached": true,
+    "bytes": 344623,
+    "sha256": "ba337c9b4e781bd2c5688ff6418112e9e01fd3e5f677bfcf94c4875f5a322be3"
+  }
+]
