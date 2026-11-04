@@ -1,0 +1,381 @@
+# MYTHOS — Cycle comparatif universitaire — Volume CLXIII (163)
+
+## Jeanne Favret-Saada : sorcellerie du Bocage, parole agissante, affect et désorcellement
+
+**Collection :** MYTHOS, études comparatives universitaires.  
+**Nature :** monographie originale intégrale, approuvée pour diffusion publique.  
+**Dossier établi :** 4 novembre 2026.  
+**Numérotation :** attribuée exclusivement par le registre éditorial transactionnel GitHub. Les marqueurs `CLXIII` et `163` désignent uniquement le présent volume.  
+**Continuité scientifique :** dialogue avec l'étude sur Ernesto de Martino, précédée des études sur Stanley Jeyaraja Tambiah, Roy A. Rappaport, Talal Asad, Catherine Bell, Mary Douglas et Victor Turner ; aucune reprise intégrale de ces ouvrages. Pierre Clastres et Marcel Mauss sont déjà traités dans le cycle.
+
+### Résumé
+
+Comment observer une sorcellerie rurale lorsque les interlocuteurs refusent de parler à qui n'a jamais été « pris » dans le monde qu'ils décrivent ? Jeanne Favret-Saada renouvelle l'anthropologie en montrant que les mots, le silence, la peur et l'intervention thérapeutique ne constituent pas les illustrations secondaires d'une doctrine : ce sont les conditions d'une relation où les places d'agresseur supposé, de victime, de désorceleur, d'enquêteur et de proche se construisent et se transforment. À partir de *Les Mots, la mort, les sorts* (1977), de *Corps pour corps* (1981, avec Josée Contreras), de « Être affecté » (1990) et de *Désorceler* (2009), cette étude reconstitue sa méthode, ses choix narratifs, la problématique de la croyance et ses implications épistémologiques. Elle compare les données du Bocage à l'anthropologie des rites, à Ernesto de Martino, à Tambiah, à Austin et à plusieurs sources grecques localisées : *Odyssée* X, *Idylle* II de Théocrite, *Charmide* de Platon et tablettes de malédiction athéniennes. L'analyse sépare systématiquement événement attesté, interprétation et hypothèse.
+
+### Critique des sources et conventions
+
+**[A] Attestation :** une date d'édition confirmée, une publication identifiée, une donnée expressément décrite dans un texte ou un objet archéologique attesté. **[B] Interprétation argumentée :** lecture analytique sans citation littérale attribuée à l'auteur. **[C] Hypothèse :** rapprochement comparatif ou protocole proposé, sans filiation historique prouvée. Les références `S1`, `S2` etc. renvoient à la bibliographie critique ci-dessous.
+
+Certaines notices ne donnent que métadonnées et résumés. Une lecture intégrale des livres sous accès restreint n'est pas revendiquée ; les articles en libre accès ont été consultés dans leur texte. Les scènes anciennes sont des textes littéraires ou des traces archéologiques, pas des observations ethnographiques directes.
+
+### Plan analytique
+
+- **I. Problème, terrain et enquête** : Un objet qui refuse d'être objet ; Le Bocage n'est pas une société hors du temps ; Premier grand livre : une date fermement établie ; *Corps pour corps* : l'écriture à deux ; Un objet double : sort et désorcellement.
+- **II. Les mots comme actes et les positions de parole** : Une énonciation engage une place ; Le refus de parler n'est pas un vide documentaire ; La performativité sans incantation omnipotente ; Qui est le sorcier ? Une place plutôt qu'un portrait ; De la proposition à l'interlocution.
+- **III. Le journal de terrain et la méthode d'affect** : L'observation participante et son paradoxe ; Être affecté n'est pas « être empathique » ; Le journal : connaître après avoir agi ; Les enregistrements ne parlent pas d'eux-mêmes ; Contreras : une coautrice, pas une note marginale.
+- **IV. Les affects, la force et la transformation des situations** : Affect : ni émotion privée ni code culturel pur ; La « force » : une catégorie locale à décrire ; Le rôle du « pris » ; Un malheur n'est pas une preuve de causalité magique ; L'affect comme condition d'accès et source de biais.
+- **V. Désorceler : une pratique et une théorie des thérapies** : *Désorceler* (2009) : retour sur les matériaux ; L'intervention sur le collectif domestique ; Madame Flora : place du thérapeute et manœuvre ; La violence canalisée n'est pas un remède universel ; Psychanalyse et anthropologie comparée des thérapies.
+- **VI. « Croire » : philologie et philosophie de l'engagement** : La polysémie du français *croire* ; Contenu, attitude et investissement ; Du *credere* latin à l'acte de confiance ; Croyance et risque d'une ethnographie condescendante ; Le scepticisme peut cohabiter avec la peur.
+- **VII. Philologie comparée des pratiques et des mots** : *Sort*, *sors* et acte de tirer au lot ; *Ensorceler*, *désorceler*, formes préfixales ; *Maleficium*, *veneficium* : deux catégories romaines ; *Pharmakon* : remède, substance, menace ; *Epōidê*, *katadesmos*, *ara*.
+- **VIII. Les textes grecs : interpréter sans inventer** : Circé : l'agent et la substance dans l'*Odyssée* ; Théocrite, *Idylle* II : la voix de Simaitha ; La roue *iynx* et la performativité du refrain ; Platon, *Charmide* 155e–157c : la parole qui soigne ? ; Un auteur antique est aussi un producteur de positions.
+- **IX. L'épigraphie des malédictions : un matériau qui résiste** : Une tablette inscrite est un objet, pas une séance enregistrée ; L'Agora d'Athènes : vingt-cinq tablettes étudiées ; Les formulaires d'imprécation comme technologie adaptable ; Commerce, concurrence, incertitude ; *Arai* et *katadesmoi* : la critique des classifications.
+- **X. De Martino, Tambiah, Rappaport : trois voisinages conceptuels** : Après Ernesto de Martino : la crise, mais non l'identité ; Tambiah : paroles rituelles, modèles et différence de terrain ; Rappaport : engagement rituel et différend sur la vérité ; Evans-Pritchard : accusation, raisonnement et limites ; Mauss : les obligations sont déjà des actions.
+- **XI. Éthique scientifique, risques et controverses** : Comprendre ne signifie pas certifier une attaque invisible ; Qui peut parler au nom des personnes étudiées ? ; L'écriture comme nouvelle prise de parole agissante ; L'importance des contre-exemples ; Critique sociale : le monde agricole n'est pas homogène.
+- **XII. Synthèse et prolongements de recherche** : Une méthode en quatre opérations ; Ce qu'une archive antique ne permet pas d'atteindre ; Hypothèse 1 : les récits de menace reconfigurent la temporalité ; Hypothèse 2 : la parole scientifique peut devenir acteur ; Bilan philosophique : la relation précède parfois la proposition ; Conclusion générale : se laisser instruire sans renoncer à vérifier.
+
+## I. Problème, terrain et enquête
+
+### 1. Un objet qui refuse d'être objet
+
+Peut-on étudier la sorcellerie en demandant simplement à des villageois s'ils y « croient » ? Jeanne Favret-Saada montre que la question est mal posée : on ne raconte pas de la même manière une rumeur sur les voisins, un malheur vécu, une dénonciation ou la rencontre d'un désorceleur. La parole n'est pas seulement une réponse destinée à l'enquêteur ; elle situe celui qui parle et son interlocuteur dans un réseau de positions et de risques. Dans le Bocage étudié à partir de 1969, des refus de parler sont eux-mêmes des faits ethnographiques. Il faut donc décrire les conditions d'accès à la parole avant d'en analyser le contenu. [A/B ; S1, S2]
+
+### 2. Le Bocage n'est pas une société hors du temps
+
+L'enquête se déroule dans l'ouest rural français, principalement entre 1969 et 1972 selon le témoignage rétrospectif de l'auteure. Ce terrain appartient à une France contemporaine dotée d'écoles, de médecins, de médias, d'un État administratif et d'exploitations agricoles en transformation. La sorcellerie étudiée n'est donc ni un vestige médiéval fixé dans son état originel ni un trait attribuable aux seuls peuples que l'ethnologie ancienne disait « exotiques ». Les désaccords et les silences des interlocuteurs témoignent aussi de l'image publique dévalorisante qui leur est imposée. Une histoire sociale indépendante devrait préciser les transformations économiques de chaque localité : le cadre national ne suffit pas à les reconstruire. [A/B ; S2]
+
+### 3. Premier grand livre : une date fermement établie
+
+*Les Mots, la mort, les sorts. La sorcellerie dans le Bocage* paraît chez Gallimard en 1977, dans la collection « Bibliothèque des sciences humaines ». La notice du Mucem décrit un exemplaire de 332 pages ; d'autres catalogues portent des paginations différentes selon tirages et rééditions. Ce livre n'offre pas un dictionnaire de formules à reproduire ; il ouvre progressivement un monde de communications dont les enjeux demeurent incompréhensibles à qui traite toute phrase comme une proposition spéculative. La description de scènes de terrain et le commentaire ethnographique y sont articulés. Cette date de 1977 ne doit pas être confondue avec les réimpressions de 1981, 1983 ou l'édition Folio de 1985. [A ; S1]
+
+### 4. *Corps pour corps* : l'écriture à deux
+
+*Corps pour corps. Enquête sur la sorcellerie dans le Bocage*, de Jeanne Favret-Saada et Josée Contreras, paraît chez Gallimard en 1981, comme l'attestent la notice de l'éditeur, la BnF et le catalogue du Mucem. Le livre explore la condition d'une ethnographe progressivement impliquée dans le système qu'elle voulait observer à distance. Une rétrospective publiée en anglais en 2012 donne ailleurs « 1988 », discordance à signaler plutôt qu'à reproduire sans contrôle : l'édition initiale de 1981 est solidement documentée. Cette vigilance bibliographique illustre un principe général : la mémoire d'auteur mérite l'attention, mais une date éditoriale se vérifie auprès des exemplaires et catalogues. [A ; S2, S3]
+
+### 5. Un objet double : sort et désorcellement
+
+L'enquête n'est pas seulement l'étude des accusations de malveillance. Elle suit ce que signifie être « pris », la façon dont une série de pertes est interprétée, la place d'une figure hostile et les conditions d'une sortie possible. Le désorcellement ne s'ajoute pas secondairement à un système de croyances déjà achevé : il fait partie des rapports pratiques qui donnent consistance au problème. Le déplacement de la question est décisif. Demander qui accuse qui n'est pas la même chose que suivre comment une famille entre dans une histoire de malheurs, puis comment elle peut retrouver une capacité d'action. La description empirique ne valide pas pour autant l'existence d'un agresseur surnaturel. [B ; S1, S2]
+
+## II. Les mots comme actes et les positions de parole
+
+### 6. Une énonciation engage une place
+
+Dans la sorcellerie bocaine, s'adresser à autrui n'est pas toujours offrir une information neutre. Dire à quelqu'un qu'il est ensorcelé, lui demander d'agir ou lui proposer un rendez-vous peut le placer dans un ensemble de relations dont il ne maîtrisait pas les conséquences. La théorie du langage qui s'en dégage est située : il faut savoir qui parle, à qui, à quel moment, avec quelle autorité et dans quelle séquence de malheurs. Le même lexème peut relever d'une plaisanterie, d'une précaution, d'une accusation ou d'un avertissement. Une transcription qui supprimerait ces paramètres conserverait les mots tout en perdant l'événement qu'ils produisent. [B ; S1, S2]
+
+### 7. Le refus de parler n'est pas un vide documentaire
+
+Un témoin qui refuse de répondre n'est pas nécessairement un interlocuteur sans connaissance. Dans le terrain relaté par Favret-Saada, le refus protège de la moquerie, de la stigmatisation et des effets possibles de la parole. Ce refus définit parfois qui est censé avoir qualité pour parler : une personne extérieure, réputée n'avoir jamais été « prise », ne possède pas la position convenable. L'ethnographe n'obtient donc pas un accès identique par simple présentation universitaire. Le silence est un fait relationnel, mais son sens n'est pas univoque : il peut aussi manifester la méfiance générale, la fatigue ou l'absence d'intérêt. Le chercheur ne doit pas déduire automatiquement une croyance cachée de chaque abstention. [A/B ; S2]
+
+### 8. La performativité sans incantation omnipotente
+
+La parole peut modifier des rapports humains sans produire pour autant les forces physiques qu'elle annonce. Accuser un voisin, se déclarer « atteint », demander un désorcellement ou avertir d'une menace affecte les gestes, les attentes et les obligations du collectif. Cette efficacité institutionnelle ou interactionnelle est accessible à l'enquête. Une efficacité biologique, météorologique ou surnaturelle requiert des critères distincts ; elle ne devient pas un fait à partir de son seul énoncé. Le dialogue avec J. L. Austin et Stanley J. Tambiah est utile, sous réserve de ne pas assimiler le sort bocaine à une promesse juridique ni à un rite bouddhique. L'intérêt est la relation entre formulation et situation d'action. [B/C ; S2, S8, S9]
+
+### 9. Qui est le sorcier ? Une place plutôt qu'un portrait
+
+La figure du sorcier est souvent reconstruite à partir des récits et des conflits. Il serait méthodologiquement fautif de traiter chaque désignation comme la preuve qu'un individu a accompli l'acte qui lui est imputé. L'accusation constitue un matériau social attestable, distinct de la vérité de son objet. Il est tout aussi insuffisant d'y voir exclusivement un mensonge conscient : les acteurs peuvent être pris dans des anticipations, des souffrances et des classifications qui donnent à cette figure une réalité relationnelle intense. L'enquête doit conserver le statut d'allégation, les relations de voisinage et la possibilité d'injustices causées par les accusations. L'ethnographie n'est pas un tribunal autorisé à valider une culpabilité invisible. [B]
+
+### 10. De la proposition à l'interlocution
+
+Une grande part de la philosophie moderne traite « croire » comme l'adhésion à une proposition. Or les interlocuteurs de l'enquête ne suspendent pas la vie pratique pour tenir des examens de logique modale. Une question sur l'ensorcellement peut être entendue comme prise de position, invitation au conflit ou signe d'incompétence. L'analyse doit donc articuler sémantique — ce que les phrases désignent — et pragmatique — ce que leur formulation accomplit. La thèse ne signifie pas qu'il n'existerait aucune croyance propositionnelle dans le Bocage : elle signifie que la réduire à cette dimension ferait perdre les différences entre énoncer, hésiter, craindre, participer et dénier. [B ; S2, S7]
+
+## III. Le journal de terrain et la méthode d'affect
+
+### 11. L'observation participante et son paradoxe
+
+Dans « Être affecté », *Gradhiva* 8 (1990), p. 3–9, Favret-Saada interroge une méthode qui prétend participer et observer simultanément sans expliciter leurs tensions. L'ethnographe peut assister à une scène sans partager la place qui la rend intelligible ; inversement, une implication intense peut rendre l'observation réflexive difficile sur le moment. L'auteure ne prescrit pas à tous les chercheurs de renoncer à l'observation. Elle décrit la nécessité, dans ce terrain particulier, de reconnaître ce qui avait rendu certaines communications possibles. L'argument concerne les conditions de production d'un savoir, non la supériorité universelle de l'immersion sur toutes les autres méthodes. [A/B ; S4]
+
+### 12. Être affecté n'est pas « être empathique »
+
+Le titre « Être affecté » n'énonce pas une invitation vague à ressentir les émotions d'autrui. Favret-Saada distingue explicitement sa méthode de l'empathie et de l'observation participante prise au sens habituel. Elle fut mise en jeu dans des séquences où elle ne savait pas immédiatement ce qu'on attendait d'elle ; c'est cette implication, puis son travail d'écriture, qui rendirent certains rapports analysables. On peut être affecté sans adhérer à toutes les propositions explicites du groupe étudié. La force méthodologique tient à la différence entre participation pratique, croyance déclarative et reconstruction ultérieure. [A/B ; S4, S5]
+
+### 13. Le journal : connaître après avoir agi
+
+Sur le terrain, les événements ne se donnent pas spontanément sous forme de catégories scientifiques. Le journal permet une reprise différée des rencontres, des questions restées ouvertes, des malentendus et des obligations. La méthode comporte au moins deux temporalités : une implication où l'actrice peut être prise de court et un travail ultérieur où les scènes sont réordonnées. La distance analytique n'est donc pas nécessairement une distance corporelle permanente ; elle peut être une opération rétrospective. Il faut toutefois critiquer la mémoire, les omissions et les reconstructions du journal. Le témoignage de l'ethnographe n'est pas infaillible sous prétexte d'avoir vécu les événements. [B ; S3, S5]
+
+### 14. Les enregistrements ne parlent pas d'eux-mêmes
+
+Dans son retour de 2012 sur les données de terrain, Favret-Saada distingue le journal et la transcription d'une trentaine de séances de désorcellement enregistrées. La transcription peut révéler des dispositifs langagiers qui avaient échappé à l'expérience immédiate, surtout lorsque plusieurs personnes parlent et que les inflexions d'une voix changent les positions. Mais l'enregistrement reste partiel : une cassette ne restitue pas intégralement les gestes, les relations historiques ni toutes les impressions des participants. L'analyse exige donc confrontation des supports, contextualisation et dialogue avec une collaboratrice. Il faut éviter de prétendre que l'appareil technique capture une vérité totale de l'événement. [A/B ; S5]
+
+### 15. Contreras : une coautrice, pas une note marginale
+
+Josée Contreras est coautrice de *Corps pour corps* (1981), et la relecture des séances enregistrées est présentée par Favret-Saada comme un travail commun de longue durée. Effacer cette collaboration conduirait à faire de la découverte analytique une révélation personnelle du seul sujet ethnographe. L'histoire des sciences humaines gagne à suivre le partage des opérations : constitution des matériaux, entretiens, écriture, mise à l'épreuve des catégories et retour sur les erreurs. Une étude ne doit pas attribuer sans preuve telle interprétation précise à l'une plutôt qu'à l'autre. Le crédit savant doit rester conforme aux ouvrages et aux déclarations documentées. [A/B ; S3, S5]
+
+## IV. Les affects, la force et la transformation des situations
+
+### 16. Affect : ni émotion privée ni code culturel pur
+
+L'affect renvoie chez Favret-Saada à la possibilité d'être engagé et transformé par une situation dont le sens n'est pas entièrement disponible sous forme de représentation explicite. Une simple traduction par « sentiment intérieur » ferait disparaître la distribution des positions et l'intensité des interactions. À l'inverse, traiter toute affectivité comme construction symbolique entièrement déchiffrable risque d'éliminer ce qui dépasse le discours. Son article de 1990 interroge précisément la marginalisation des affects dans certains programmes anthropologiques. Cette orientation ne soutient pas l'idée que les personnes devraient abandonner leurs critères de vérification pour sentir une vérité invisible. [A/B ; S4]
+
+### 17. La « force » : une catégorie locale à décrire
+
+La présentation éditoriale de *Corps pour corps* insiste sur la « force » attribuée à certaines personnes par les interlocuteurs bocains. Pour l'enquête, le terme indique des capacités réputées agir dans un réseau de relations et de vulnérabilités. Il ne doit être converti ni en mesure physique ni en principe métaphysique universel par le chercheur. La « force » du discours peut être étudiée par ses effets visibles : qui évite qui, quelles demandes deviennent légitimes et quelles circonstances appellent des réponses. Le concept ne constitue pas un diagnostic clinique ou une preuve de sorcellerie, mais une donnée de langage dans un monde d'interprétation partagé et disputé. [A/B ; S3]
+
+### 18. Le rôle du « pris »
+
+Être « pris » ne signifie pas dans ce contexte avoir simplement entendu parler d'une malédiction. Cette position associe une suite de malheurs attribués à une intervention hostile, la fragilisation des ressources d'action et l'inscription dans un réseau où des médiateurs peuvent intervenir. L'ethnographe finit par être traitée comme occupant une place au sein de cet ordre de communications. Elle ne s'en déduit pas elle-même dotée d'une puissance surnaturelle. La catégorie permet au contraire de comprendre pourquoi certains événements, insignifiants pour un tiers, deviennent indices décisifs pour ceux qui vivent la situation. La description requiert le respect des personnes sans homologuer leur causalité explicative. [B ; S3, S5]
+
+### 19. Un malheur n'est pas une preuve de causalité magique
+
+Une épidémie animale, une panne, une maladie ou un décès peuvent apparaître au sein d'une suite de revers. Leur rapprochement narratif est un fait ethnographique lorsqu'un participant l'énonce. Il ne prouve pas qu'un voisin les a provoqués par des sortilèges. Pour chaque événement, un historien ou sociologue doit distinguer événement matériel, interprétation familiale, recherche d'un responsable et action thérapeutique. En contexte médical, l'identification d'une cause demande des connaissances indépendantes du récit sorcellaire. Cette distinction n'est pas une offense au témoin : elle évite de décrire comme fait démontré ce qui est précisément objet de conflit et d'inquiétude. [B]
+
+### 20. L'affect comme condition d'accès et source de biais
+
+La participation émotionnelle ou pratique peut ouvrir une scène jusque-là interdite à l'enquêteur. Elle peut simultanément faire perdre de la distance, générer un attachement excessif ou conduire à négliger les absents de la scène. Le principe de réflexivité comporte donc une exigence de comparaison entre témoignages, documents et moments d'observation. Favret-Saada ne fait pas de la vulnérabilité de l'enquêtrice une méthode magique qui garantisse la connaissance ; elle décrit une condition qu'il a fallu ensuite transformer en travail savant. Le courage de l'immersion n'est pas, à lui seul, un argument de vérité. [B ; S4, S5]
+
+## V. Désorceler : une pratique et une théorie des thérapies
+
+### 21. *Désorceler* (2009) : retour sur les matériaux
+
+Publié en 2009 aux Éditions de l'Olivier, *Désorceler* reprend les matériaux du terrain et des séances pour examiner les mécanismes d'une intervention sur une situation familiale. Il ne s'agit pas d'une monographie clinique contemporaine démontrant une efficacité pharmacologique. La notice bibliographique mentionne 167 pages et l'histoire des formes de désorcellement au XIXe et au XXe siècle. Dans sa rétrospective de 2012, Favret-Saada souligne que la « tradition » invoquée par les acteurs peut changer sur la longue durée. L'analyse doit donc étudier une invention historique, non un rite ancien miraculeusement préservé dans tous ses détails. [A/B ; S5, S6]
+
+### 22. L'intervention sur le collectif domestique
+
+Le désorcellement ne traite pas seulement un individu isolé de ses attaches. L'unité familiale, l'exploitation, les biens, la capacité de travailler et les relations de voisinage peuvent entrer dans l'espace des malheurs. L'intervention décrit une tentative de réorganiser des affects et des conduites à l'échelle d'un ménage. La comparaison avec une psychothérapie individualisée fait apparaître différentes unités d'intervention ; elle ne justifie pas d'opposer sommairement « Occident » individualiste et « tradition » collective. De nombreuses thérapies occidentales étudient aussi les familles et les relations, tandis que des pratiques non occidentales prennent en compte l'individu. [A/B ; S5]
+
+### 23. Madame Flora : place du thérapeute et manœuvre
+
+Dans le retour de Favret-Saada sur *Désorceler*, la désorceleuse connue sous le nom de Madame Flora occupe une place centrale. Les séances sont analysées comme des opérations où la voix, la formulation et la distribution des rôles peuvent orienter une transformation. Ne pas considérer la praticienne comme simple dépositaire d'un répertoire ancien : sa compétence se joue dans une interaction changeante. L'analyse du récit publié ne donne pas accès à chaque intention intérieure de la désorceleuse ni à une mesure contrôlée du devenir des participants. Elle constitue une interprétation ethnographique d'opérations langagières et affectives localisées. [A/B ; S5]
+
+### 24. La violence canalisée n'est pas un remède universel
+
+Une technique de désorcellement peut mobiliser des expressions agressives ou déplacer la peur vers une figure hostile. La description de cette opération ne doit pas être lue comme une recommandation pratique de diriger des menaces contre un voisin réel. L'inversion d'un rapport d'impuissance peut être vécue comme soulagement ; elle peut aussi conduire à renforcer une accusation injuste ou à retarder la recherche d'une aide appropriée. Toute évaluation scientifique doit examiner les conséquences, les risques et les effets non recherchés. Le fait qu'un procédé appartienne à une pratique culturellement reconnue ne suffit pas à conclure à sa bienfaisance. [B/C]
+
+### 25. Psychanalyse et anthropologie comparée des thérapies
+
+Favret-Saada raconte sa propre expérience d'une analyse après le terrain et envisage la psychanalyse comme une thérapie parmi d'autres, non comme le tribunal chargé de dire définitivement la vérité des pratiques non savantes. Cela n'abolit pas les distinctions entre dispositifs, formations, mécanismes supposés et preuves d'efficacité. Une comparaison prudente peut examiner la prise de parole, l'attente, le cadre relationnel, le rôle du praticien et la transformation du récit. Elle doit s'abstenir de déclarer équivalentes les prises en charge de maladies somatiques : leur évaluation réclame des méthodes médicales. L'anthropologie n'autorise aucun abandon de soin. [A/B ; S5]
+
+## VI. « Croire » : philologie et philosophie de l'engagement
+
+### 26. La polysémie du français *croire*
+
+Le verbe français « croire » peut signifier tenir pour vrai, faire confiance, prévoir, supposer, admettre sans preuve ou encore participer à une pratique sans certitude absolue. L'enquêteur qui demande « y croyez-vous ? » choisit en réalité une seule de ces valeurs ou laisse leur mélange travailler la conversation. Les réponses « non » ou « parfois » peuvent donc être ambiguës. Il faut analyser les modalités d'énonciation et le niveau d'engagement demandé, plutôt que convertir l'ensemble en une variable psychologique binaire. Le verbe lui-même devient un objet philologique et pragmatique. [B ; S7]
+
+### 27. Contenu, attitude et investissement
+
+Dans « La Mort aux trousses » (2012), Favret-Saada distingue explicitement trois dimensions : un contenu de croyance, plusieurs attitudes possibles envers ce contenu et les variations d'investissement d'un sujet dans une attitude. Une personne peut connaître le même récit sans toujours lui accorder la même importance ; l'idée de menace peut devenir pressante à la faveur d'un événement, puis reculer. Cette description dynamise les analyses de l'adhésion religieuse et de la peur. Elle ne suppose pas que toute personne oscille de façon identique ni que les événements matériels soient inventés. Les termes doivent être utilisés comme distinctions analytiques, non comme diagnostics. [A/B ; S7]
+
+### 28. Du *credere* latin à l'acte de confiance
+
+Le latin *credere* peut exprimer confiance ou adhésion à un contenu tenu pour vrai ; ses usages ne recouvrent pas automatiquement tous ceux du français moderne. Une analyse étymologique isolée ne suffit pas à prouver que chaque croyance serait principalement une relation de crédit. L'intérêt de la philologie tient plutôt à la variation des constructions, des objets et des contextes. Un chercheur doit distinguer croire quelqu'un, croire à l'existence d'une force et croire qu'un acte particulier a eu lieu. Cette grammaire comparée permet de préciser les questions adressées aux interlocuteurs, sans attribuer par analogie une théorie philosophique complète aux locuteurs anciens. [B]
+
+### 29. Croyance et risque d'une ethnographie condescendante
+
+La phrase « ils croient à la sorcellerie » installe parfois une hiérarchie silencieuse : l'ethnographe posséderait des connaissances, tandis que les enquêtés ne posséderaient que des représentations. Un discours scientifique doit distinguer les types d'énoncés et les preuves sans dévaloriser globalement les personnes. La critique de Favret-Saada porte sur la mise hors jeu des actes de parole et sur le partage implicite entre l'Occident raisonnable et un reste du monde jugé crédul. Ne pas prendre la croyance d'autrui pour une démonstration n'oblige pas à nier sa capacité de raisonnement. L'exigence consiste à examiner les arguments, les hésitations et les pratiques en situation. [B ; S4]
+
+### 30. Le scepticisme peut cohabiter avec la peur
+
+L'incertitude au sujet d'une causalité surnaturelle n'empêche pas qu'un scénario de menace pèse sur la conduite. L'acteur peut douter du sort, craindre les conséquences sociales d'une accusation ou se sentir pris par un récit dont il ne parvient pas à sortir. La croyance ne fonctionne pas toujours comme une prémisse stable de syllogisme. Cette observation rapproche l'enquête des travaux contemporains sur le risque, sans assimiler la peur du sorcier à une simple erreur probabiliste. La force pratique d'une hypothèse peut dépasser le degré explicite d'assentiment qui lui est accordé. Cela n'établit pas la vérité de son objet. [B/C]
+
+## VII. Philologie comparée des pratiques et des mots
+
+### 31. *Sort*, *sors* et acte de tirer au lot
+
+Le français « sort » conserve des valeurs différentes : destin individuel, résultat d'un tirage, maléfice. Le latin *sors*, *sortis* renvoie notamment au lot, à l'oracle ou au destin attribué, selon les contextes. Le passage d'un réseau lexical à l'autre doit être daté ; il ne prouve pas une continuité unique entre divination romaine et sorcellerie bocaine contemporaine. Chez Favret-Saada, « sort » s'inscrit dans des relations d'agression attribuée, d'infortune et de tentative de déprise. L'historien ne doit pas substituer l'étymologie au sens emic du terrain. [B]
+
+### 32. *Ensorceler*, *désorceler*, formes préfixales
+
+Les formes françaises *ensorceler* et *désorceler* mettent en regard l'entrée dans une emprise et une opération censée la défaire. Elles sont descriptives pour les locuteurs sans garantir que l'une et l'autre correspondent à une causalité naturelle vérifiable. Le préfixe *dés-* signale une inversion dans le lexique de la pratique, non la démonstration d'une action sur un agent surnaturel. Une enquête historique gagnerait à confronter les dictionnaires anciens, les archives judiciaires et les usages enregistrés, plutôt qu'à attribuer à tous les siècles un même procédé. [B]
+
+### 33. *Maleficium*, *veneficium* : deux catégories romaines
+
+Le latin *maleficium* signifie largement action mauvaise ou malfaisante et peut, dans certains contextes, évoquer un maléfice. *Veneficium* touche à la préparation de substances, notamment poisons et pratiques réputées magiques, avec un champ variable suivant les auteurs et les normes. Ce ne sont pas des équivalents transparents du « sort » bocaine. Les employer dans une comparaison exige de citer le passage et de distinguer qualification légale, représentation littéraire et pratique attestée. La mise en série des mots peut servir d'outil critique pour repérer les transformations historiques de la criminalisation, mais ne doit pas produire une essence de la « magie occidentale ». [B]
+
+### 34. *Pharmakon* : remède, substance, menace
+
+Le grec φάρμακον (*pharmakon*) possède une gamme d'emplois qui peut comprendre remède, substance agissante ou produit nuisible. Dans l'*Odyssée* X, Circé introduit des *pharmaka* dans une boisson et Hermès fournit à Ulysse un remède protecteur, le *môly* (μῶλυ), autour des vers 274–305. Le récit poétique met en jeu rivalité de puissances et transformations des compagnons, non une pharmacopée expérimentale. La polysémie du mot interdit de traduire chaque occurrence par « poison » ou chaque remède par « sorcellerie ». La comparaison avec le Bocage porte sur l'attribution d'effets et de protections, non sur une filiation historique. [A/C ; S10]
+
+### 35. *Epōidê*, *katadesmos*, *ara*
+
+En grec, ἐπῳδή (*epōidê*) peut désigner une incantation ou un chant formulé sur quelque chose ; κατάδεσμος (*katadesmos*) désigne littéralement une opération de ligature ou d'entrave, notamment des sortilèges écrits ; ἀρά (*ara*) renvoie à la prière, au vœu ou à la malédiction selon les contextes. Fritz Graf a montré l'intérêt de distinguer *arai* et *katadesmoi* plutôt que d'aplatir les deux sous l'étiquette anglaise « curse tablets ». L'usage précis du vocabulaire antique est une condition de la comparaison avec la sorcellerie rurale française. [A/B ; S11]
+
+## VIII. Les textes grecs : interpréter sans inventer
+
+### 36. Circé : l'agent et la substance dans l'*Odyssée*
+
+L'*Odyssée* X décrit la transformation des compagnons d'Ulysse par Circé et la protection offerte au héros par Hermès. Les actions attribuées à Circé mettent en jeu un breuvage, des substances, une baguette et des paroles, tandis que l'intervention divine modifie le rapport de forces. La scène appartient à l'univers de fiction épique ; sa précision narrative n'est pas une preuve directe des traitements pratiqués dans un village grec historique. Une comparaison avec Favret-Saada peut toutefois distinguer l'agent hostile, la personne exposée, la ressource protectrice et la restauration d'une capacité d'agir. Ces fonctions sont des catégories heuristiques, non des identités ethnographiques. [A/C ; S10]
+
+### 37. Théocrite, *Idylle* II : la voix de Simaitha
+
+Dans la deuxième idylle de Théocrite, Simaitha accomplit un rite amoureux en appelant la lune et en répétant une formule adressée à l'*iynx*, roue associée à l'attraction. Elle utilise notamment des matières jetées au feu et revient sur l'abandon dont elle se plaint. La structure du poème associe réfrain et récit autobiographique ; c'est un texte littéraire hellénistique, non l'enregistrement d'une séance réelle. Le rapprochement avec les paroles étudiées par Favret-Saada montre la difficulté de séparer complètement le désir, la souffrance, le langage et les gestes. L'historien ne doit pas tenir le portrait de Simaitha pour une description exhaustive des femmes qui pratiquaient de tels rites. [A/B ; S12]
+
+### 38. La roue *iynx* et la performativité du refrain
+
+Le terme ἴυγξ (*iynx*) désigne un oiseau dans certains emplois et un instrument rituel dans d'autres. Le refrain de l'*Idylle* II accompagne la répétition de gestes et donne au poème son organisation sensible. La traduction ne doit pas transformer cet objet en preuve que les paroles exerçaient effectivement un contrôle sur la volonté d'un homme absent. La performance énoncée dans la littérature peut produire un effet dramaturgique sur le lecteur sans atteindre la cible supposée dans le monde décrit. C'est précisément ce dédoublement, acte narré et œuvre littéraire, qui rend le texte comparativement instructif. [A/B ; S12]
+
+### 39. Platon, *Charmide* 155e–157c : la parole qui soigne ?
+
+Dans le *Charmide*, Socrate raconte un enseignement attribué à un médecin lié au dieu thrace Zalmoxis : il faudrait traiter l'âme pour traiter correctement le corps, au moyen de certaines *epōidai*. Le dialogue associe ensuite ces « incantations » à de bonnes paroles et à la modération. Le passage travaille philosophiquement un vocabulaire de soin ; il ne prescrit pas une thérapie biomédicale ni n'atteste l'efficacité d'une formule contre une maladie. La comparaison avec les dispositifs étudiés par Favret-Saada peut faire ressortir un problème commun — agir sur une souffrance à travers un échange de paroles — tout en maintenant la différence de genre et de projet théorique. [A/B ; S13]
+
+### 40. Un auteur antique est aussi un producteur de positions
+
+Homère met en scène une action divine, Théocrite compose un monologue poétique et Platon ouvre une discussion philosophique. Aucun de ces documents ne parle avec la voix simple d'un « Grec croyant à la magie ». Le narrateur, le personnage et l'auteur ont des positions différentes. Ce problème rejoint la critique de Favret-Saada : l'ethnographe qui réduit les locuteurs à un ensemble de propositions confond ce que fait la parole avec la seule phrase transcrite. Le rapprochement reste méthodologique ; il ne signifie pas que les textes de l'Antiquité seraient des enquêtes de terrain. [B/C]
+
+## IX. L'épigraphie des malédictions : un matériau qui résiste
+
+### 41. Une tablette inscrite est un objet, pas une séance enregistrée
+
+La découverte d'une tablette de plomb portant une malédiction atteste la présence d'un texte et d'un objet dans un contexte archéologique. Elle ne révèle pas automatiquement qui l'a commandée, qui l'a prononcée, l'identité véritable de l'auteur ni ses effets sur la cible. La provenance, la datation, les fractures et la langue sont déterminantes. L'approche de Favret-Saada encourage à chercher les positions d'énonciation et les relations, mais celles-ci sont souvent perdues pour l'épigraphiste. L'interprétation doit donc rester proportionnée aux traces. Le texte matériel, si précieux soit-il, ne remplace pas l'ensemble de la situation sociale. [B]
+
+### 42. L'Agora d'Athènes : vingt-cinq tablettes étudiées
+
+Jaime Curbera et Jessica L. Lamont publient en 2023, dans *Hesperia* 92/2, p. 311–353, vingt-cinq tablettes de plomb retrouvées dans des fouilles de l'Agora d'Athènes, dont vingt-quatre portent des malédictions. Les objets sont datés du IVe siècle avant notre ère et proviennent de plusieurs contextes. La présence de ces inscriptions atteste des pratiques matérielles de malédiction dans certains milieux athéniens. Il serait en revanche abusif d'en déduire qu'elles étaient communes à toute la population ou que leurs destinataires ont subi les maux souhaités. Le corpus invite à une analyse des noms, des lieux, des supports et des rapports sociaux. [A ; S14]
+
+### 43. Les formulaires d'imprécation comme technologie adaptable
+
+Jessica L. Lamont présente en 2021, dans *Classical Antiquity* 40/1, p. 76–117, une cache de cinq tablettes attiques, dont quatre sont publiées pour la première fois dans son étude. Les textes montrent des variantes d'un modèle de malédiction, avec éléments métriques et déictiques. L'analyse suggère qu'une partie des formulations a pu circuler oralement, sans que l'on en possède un enregistrement. Le travail de personnalisation des formules ouvre un rapprochement limité avec le Bocage : ici comme là, les paroles sont adressées dans une situation de conflit ; mais les supports et les conditions documentaires sont radicalement différents. [A/B ; S15]
+
+### 44. Commerce, concurrence, incertitude
+
+Philip Venticinque a recensé en 2022 des textes de malédiction anciens associés à des activités commerciales. Leur interprétation ne saurait se limiter aux rivalités entre vendeurs : certains documents peuvent refléter des conflits juridiques, des risques et des incertitudes. La lecture de ces sources avec Favret-Saada permet de poser la question de l'agression attribuée dans un univers où l'activité économique demeure précaire. Ce parallèle ne doit pas produire un portrait psychologique uniforme de l'artisan athénien et du cultivateur mayennais. L'analogie des risques sociaux n'établit pas une continuité des explications magiques. [A/C ; S16]
+
+### 45. *Arai* et *katadesmoi* : la critique des classifications
+
+Fritz Graf distingue les imprécations (*arai*) des pratiques de ligature écrite (*katadesmoi*) dans un article de *Greece & Rome* 69/1, 2022, p. 104–119. Cette distinction montre qu'une catégorie moderne telle que « tablette de malédiction » peut réunir des actes anciens qui n'avaient pas la même définition. La même vigilance est requise pour « sorcellerie », « charme », « désorcellement » ou « superstition » appliqués à l'Europe moderne. Une comparaison rigoureuse commence par reconnaître les classifications historiques au lieu de prendre la taxinomie du chercheur pour un vocabulaire indigène universel. [A/B ; S11]
+
+## X. De Martino, Tambiah, Rappaport : trois voisinages conceptuels
+
+### 46. Après Ernesto de Martino : la crise, mais non l'identité
+
+Le dossier précédent du cycle MYTHOS est consacré à Ernesto de Martino et à la « crise de la présence ». Une analogie féconde peut rapprocher la menace de désagrégation du monde vécu chez de Martino et la situation de malheurs répétés dans le Bocage. Cependant, de Martino élabore une philosophie historique de la présence et travaille sur le deuil, la magie méridionale et le tarentisme ; Favret-Saada reconstruit un système de places langagières et affectives dans un terrain différent. Le rapprochement doit rester une hypothèse comparative sur les ressources symboliques devant la perte, non l'affirmation d'une filiation directe ou d'une théorie commune. [C]
+
+### 47. Tambiah : paroles rituelles, modèles et différence de terrain
+
+Stanley Jeyaraja Tambiah examine notamment l'articulation entre parole, geste, institution et efficacité rituelle. Favret-Saada partage la nécessité d'étudier ce que dire fait dans un monde social, mais son enquête déplace l'attention vers les conditions d'être pris dans une communication involontaire ou risquée. Un mantra dans une cérémonie bouddhique thaïlandaise et une parole de sorcellerie bocaine ne sont pas des occurrences d'un même rituel universel. Il est possible de comparer les relations de locuteur à auditeur, de cadre à autorité et de formule à conséquence sans minimiser les différences doctrinales, politiques et matérielles. [B/C]
+
+### 48. Rappaport : engagement rituel et différend sur la vérité
+
+Roy A. Rappaport interroge comment la performance rituelle rend publics des engagements et porte des messages canoniques. Favret-Saada examine une autre scène : la possibilité qu'un interlocuteur soit affecté et positionné avant d'avoir donné un assentiment doctrinal explicite. Cette tension est instructive. La participation peut manifester publiquement un engagement, mais elle peut aussi être traversée d'hésitations, de craintes et de malentendus. Rappaport ne fournit pas la clé unique de la sorcellerie, pas plus que Favret-Saada ne remplace son analyse écologique et institutionnelle du rituel. [B/C]
+
+### 49. Evans-Pritchard : accusation, raisonnement et limites
+
+Dans *Witchcraft, Oracles and Magic among the Azande* (1937), E. E. Evans-Pritchard étudie les relations entre explications du malheur, divination et conflits. Favret-Saada reconnaît la valeur de la précision ethnographique de ce travail mais conteste plus largement une tradition qui privilégiait les accusations observables au détriment des communications et des effets des paroles. Il serait injuste de simplifier Evans-Pritchard en défenseur de l'irrationalité indigène. L'enjeu méthodologique est plus fin : une enquête sur les relations de causalité reconnues par les acteurs ne suffit pas à décrire toutes les situations où l'ethnographe devient elle-même interlocutrice. [A/B ; S4, S17]
+
+### 50. Mauss : les obligations sont déjà des actions
+
+Dans l'*Essai sur le don* (1925), Marcel Mauss insiste sur les obligations liées au don. Le cycle MYTHOS traite déjà le don et la réciprocité ; il ne s'agit donc pas de reprendre ce dossier. On peut néanmoins demander si une relation de sorcellerie réorganise aussi un ensemble de dettes, de services et d'engagements sociaux. Cette proposition n'est pas directement une thèse de Favret-Saada ni la preuve d'un échange comparable au *potlatch*. La comparaison aide à penser comment une interaction impose ou refuse une place ; elle nécessite une démonstration empirique propre à chaque dossier. [C]
+
+## XI. Éthique scientifique, risques et controverses
+
+### 51. Comprendre ne signifie pas certifier une attaque invisible
+
+Une enquête réussie peut montrer que certaines paroles provoquent des décisions, des conflits, des rapprochements ou des sentiments intenses. Elle ne prouve pas qu'une personne peut envoyer une maladie par sorcellerie. La distinction protège à la fois les personnes accusées, les participants exposés au stigmate et la qualité du savoir. Décrire une intervention comme « thérapeutique » dans une analyse historique n'équivaudrait pas davantage à la recommander contre un trouble clinique. Il faut distinguer efficacité narrative ou sociale, soulagement rapporté et effets médicaux vérifiables. Les recommandations de santé reposent sur des évaluations adaptées, non sur l'autorité d'une ethnographie. [B]
+
+### 52. Qui peut parler au nom des personnes étudiées ?
+
+La parole des interlocuteurs ne devient pas automatiquement propriété du chercheur dès qu'elle est enregistrée ou transcrite. Elle peut engager leur réputation, leurs conflits de voisinage et leur sécurité. Les pratiques contemporaines d'éthique de la recherche exigent consentement, précaution dans l'identification et attention aux conséquences de diffusion. Favret-Saada avait choisi de désigner son terrain par un cadre géographique assez large pour éviter la curiosité médiatique. Les modalités historiques d'un terrain de 1969 ne doivent pas être érigées en modèle éthique indépassable, mais son souci du contexte rappelle la responsabilité de la publication. [A/B ; S5]
+
+### 53. L'écriture comme nouvelle prise de parole agissante
+
+La parution des livres n'a pas laissé leur objet immobile. Dans son article de 2012 « La Mort aux trousses », Favret-Saada décrit des lecteurs qui lui demandent ensuite de les délivrer d'un ensorcellement, alors même qu'ils n'appartiennent pas au milieu étudié. L'ethnographie circule, transforme les attentes de son public et peut donner aux catégories qu'elle explique une nouvelle puissance sociale. Ce phénomène exige une responsabilité rédactionnelle : ne pas suggérer que la lecture d'un ouvrage diagnostique une attaque magique, et préciser le statut analytique des propositions. Le texte scientifique appartient lui aussi au monde social qu'il décrit. [A/B ; S7]
+
+### 54. L'importance des contre-exemples
+
+Pour mettre à l'épreuve une théorie, il ne suffit pas d'accumuler les récits qui la confortent. Il faudrait observer des familles connaissant des pertes répétées sans langage de sorcellerie, des accusations qui n'engendrent aucun désorcellement, des interventions qui ne modifient pas les conduites, et des désaccords entre membres du ménage. Les archives étudiées ne rendent pas possible un tel test expérimental total. Ces cas limites restent néanmoins une exigence logique : ils indiquent ce qui serait nécessaire pour distinguer mécanisme général et résultat propre au corpus recueilli. Il faut éviter de transformer une description riche en loi universelle de la vie rurale. [C]
+
+### 55. Critique sociale : le monde agricole n'est pas homogène
+
+Les familles paysannes, les artisans et les commerçants auxquels une partie du corpus se rapporte n'occupent pas une position sociale unique. Âge, genre, patrimoine, autonomie économique, voisinage, transmission du travail et institution religieuse peuvent modifier la façon de subir et de raconter les risques. Favret-Saada note que les situations de malheur concernent notamment des ménages engagés dans leur propre activité économique et que les accusations se rapportent au voisinage. Une recherche complémentaire devrait confronter ces observations à l'histoire locale de l'agriculture et de la propriété, sans faire d'une structure familiale une cause magique déterminante. [A/B ; S5]
+
+## XII. Synthèse et prolongements de recherche
+
+### 56. Une méthode en quatre opérations
+
+On peut proposer, à partir du dossier, un protocole comparatif : premièrement identifier les positions des participants et la situation d'énonciation ; deuxièmement inventorier les paroles, gestes, objets et silences attestés ; troisièmement décrire les transformations sociales que les sources permettent d'observer ; quatrièmement distinguer nettement ces transformations des causalités surnaturelles alléguées et des hypothèses du chercheur. Cette méthode est une reconstruction pédagogique de MYTHOS, non un algorithme formulé par Favret-Saada. Sa force est d'organiser l'enquête sans effacer la singularité de chaque terrain et sans fonder l'analyse sur une validation métaphysique préalable. [C]
+
+### 57. Ce qu'une archive antique ne permet pas d'atteindre
+
+Une tablette de malédiction athénienne témoigne d'une inscription et de son contexte archéologique. L'*Idylle* II fait entendre une voix élaborée par un poète. Le récit de Circé déploie une logique narrative de menace et de protection. Ces documents permettent de comparer des dispositifs symboliques, mais non de restituer la place exacte que les acteurs historiques auraient assignée à une ethnographe inexistante. La contribution principale de Favret-Saada à leur étude est donc une exigence critique : où sont les interlocuteurs, les adresses, les relations de pouvoir et les absences documentaires ? La théorie ne comble pas les lacunes ; elle les rend lisibles. [B/C]
+
+### 58. Hypothèse 1 : les récits de menace reconfigurent la temporalité
+
+Une série de malheurs dispersés peut devenir, dans certains contextes, une histoire continue organisée autour d'un adversaire supposé et d'une issue attendue. Cette transformation narrative est une hypothèse que l'on peut comparer au problème de la crise de la présence chez de Martino. Il ne suffit pas qu'une succession soit racontée pour établir qu'elle a réellement un agent unique. La recherche pourrait comparer des journaux tenus avant et après l'apparition d'une accusation, en observant la réorganisation des événements dans le récit. Cette proposition est construite ici ; elle ne constitue ni un résultat de terrain inédit ni un mécanisme psychologique démontré. [C]
+
+### 59. Hypothèse 2 : la parole scientifique peut devenir acteur
+
+Le retour de lecteurs de l'ethnographie vers son auteure suggère qu'une description publique peut infléchir les pratiques qu'elle analyse. Une étude contemporaine pourrait examiner comment des récits de sorcellerie circulent dans les médias numériques, comment leur audience les réemploie et quand l'énoncé scientifique est transformé en promesse d'aide. La méthode doit contrôler la protection des personnes, l'effet de sélection des témoignages et la différence entre diffusion et adhésion. Elle doit éviter de produire des guides ou diagnostics imaginaires d'ensorcellement. Le constat d'une circulation ne valide jamais l'efficacité surnaturelle du contenu diffusé. [C ; S7]
+
+### 60. Bilan philosophique : la relation précède parfois la proposition
+
+Le dossier montre que comprendre une pratique de sorcellerie ne peut se limiter à classer des propositions en vraies ou fausses. Les personnes se trouvent aussi liées par des appels, des refus, des demandes, des douleurs, des accusations et des ressources d'intervention. Cela n'abolit pas les critères de vérité : au contraire, une analyse précise sépare ce que l'acte de parole accomplit, ce qu'un interlocuteur en éprouve et ce qu'une hypothèse causale permet effectivement de prouver. Cette articulation entre pragmatique, affect et épistémologie constitue l'apport durable de Favret-Saada au comparatisme. [B]
+
+### 61. Conclusion générale : se laisser instruire sans renoncer à vérifier
+
+La sorcellerie du Bocage contraint l'anthropologie à revoir son geste initial : le chercheur n'arrive pas devant une culture muette qu'il suffirait de traduire. Il entre dans des relations où parler, se taire, attribuer une place et décrire une souffrance sont déjà des actions. Les enquêtes de Favret-Saada et de Contreras montrent la difficulté de transformer cette implication en connaissance, puis la puissance imprévue des livres une fois publiés. Le comparatisme gagne à emprunter cette prudence aux textes grecs, aux archives de malédictions et aux recherches modernes : ne jamais confondre les fonctions d'une parole, ses effets sociaux attestés, les expériences vécues et les pouvoirs surnaturels qu'on lui attribue. [A/B/C]
+
+## XIII. Bibliographie critique, sources et audit des hypothèses
+
+Chaque notice distingue l'édition ou le texte primaire identifié de la fonction de la référence dans l'étude. Les liens renvoient à des ressources institutionnelles, éditoriales ou scientifiques ; les passages marqués comme interprétations ne sont pas présentés comme citations littérales.
+
+- **[S1] Favret-Saada, Jeanne.** *Les Mots, la mort, les sorts. La sorcellerie dans le Bocage*, Paris, Gallimard, « Bibliothèque des sciences humaines », 1977 ; exemplaire de 332 pages au Mucem. [Notice ou texte](https://mucem.org/notice/b/oai:PMB:64403/). *Statut :* Notice matérielle Mucem ; édition originale vérifiée.
+
+- **[S2] Favret-Saada, Jeanne et Josée Contreras.** *Corps pour corps. Enquête sur la sorcellerie dans le Bocage*, Paris, Gallimard, 1981 ; édition Folio essais n° 222, 1993. [Notice ou texte](https://www.cercle-enseignement.com/Ouvrages/Gallimard/Temoins/Corps-pour-corps). *Statut :* Éditeur : deux autrices, date originale 24 avril 1981 ; discordance avec une date rétrospective 1988 explicitée dans le dossier.
+
+- **[S3] Favret-Saada et Contreras.** *Corps pour corps*, notice de collection de la Bibliothèque nationale de France, catalogue collectif de France (ouvrage original de 1981). [Notice ou texte](https://ccfr.bnf.fr/portailccfr/ark:/16871/00111086868). *Statut :* Notice institutionnelle et contrôle des deux autrices.
+
+- **[S4] Favret-Saada, Jeanne.** « Être affecté », *Gradhiva*, n° 8, 1990, p. 3–9, DOI 10.3406/gradh.1990.1340. [Notice ou texte](https://www.persee.fr/doc/gradh_0764-8928_1990_num_8_1_1340). *Statut :* Source primaire, texte ouvert et référence de pagination vérifiés.
+
+- **[S5] Favret-Saada, Jeanne.** « Being affected », traduction de Mylene Hengen et Matthew Carey, *HAU: Journal of Ethnographic Theory*, vol. 2/1, 1er mars 2012, DOI 10.14318/hau2.1.019. [Notice ou texte](https://www.journals.uchicago.edu/doi/full/10.14318/hau2.1.019). *Statut :* Source primaire accessible, retour détaillé sur le terrain, les journaux, les séances et l'histoire de *Désorceler*.
+
+- **[S6] Favret-Saada, Jeanne.** *Désorceler*, Paris, Éditions de l'Olivier, collection Penser/rêver, 2009, ISBN 9782879296395. [Notice ou texte](https://www.bm-auxerre.fr/index.php/notices/desorceler). *Statut :* Notice institutionnelle : année, éditeur, contenu général, 167 pages.
+
+- **[S7] Favret-Saada, Jeanne.** « La Mort aux trousses : quand l'écrit ethnographique propage la force sorcellaire », *HAU*, vol. 2/1, 2012, p. 45–53, DOI 10.14318/hau2.1.004. [Notice ou texte](https://www.journals.uchicago.edu/doi/abs/10.14318/hau2.1.004). *Statut :* Résumé français et anglais de l'autrice ; trois dimensions de croire vérifiées.
+
+- **[S8] Austin, J. L..** *How to Do Things with Words*, Oxford, Clarendon Press, 1962 ; conférences William James de 1955, édition posthume. [Notice ou texte](https://global.oup.com/academic/product/how-to-do-things-with-words-9780198245537). *Statut :* Source primaire philosophique ; contexte de comparaison, non source de terrain.
+
+- **[S9] Tambiah, Stanley Jeyaraja.** « The Magical Power of Words », *Man*, n. s., vol. 3/2, 1968, p. 175–208, DOI 10.2307/2798500 ; « A Performative Approach to Ritual », *Proceedings of the British Academy*, 65 (1979, publication 1981), p. 113–169. [Notice ou texte](https://doi.org/10.2307/2798500). *Statut :* Comparaison sur les paroles rituelles ; thèses non confondues.
+
+- **[S10] Homère.** *Odyssée*, chant X, particulièrement v. 233–243 et 274–332 : Circé, *pharmaka*, Hermès et *môly* ; texte grec et traduction. [Notice ou texte](https://homer.johnhboyer.com/odyssey/book/10/). *Statut :* Source primaire littéraire, passages et lexique contrôlables.
+
+- **[S11] Graf, Fritz.** « Greek Cursing, and Ours », *Greece & Rome*, vol. 69, livraison spéciale 1, avril 2022, p. 104–119, DOI 10.1017/S0017383521000255. [Notice ou texte](https://doi.org/10.1017/S0017383521000255). *Statut :* Étude critique des catégories grecques *arai* et *katadesmoi*.
+
+- **[S12] Théocrite.** *Idylle* II, dite *Pharmakeutriai*, texte et traduction de J. M. Edmonds, dans *The Greek Bucolic Poets*, Loeb Classical Library 28, 1912, repris par Theoi. [Notice ou texte](https://www.theoi.com/Text/TheocritusIdylls1.html). *Statut :* Source littéraire primaire : Simaitha et refrain de l'*iynx*.
+
+- **[S13] Platon.** *Charmide* 155e–157c : récit de Zalmoxis et des *epōidai*, texte grec à confronter à une édition critique. [Notice ou texte](https://en.wikisource.org/wiki/The_Dialogues_of_Plato_(Jowett)/Charmides). *Statut :* Source primaire philosophique ; accès à une traduction historique, non à une démonstration d'efficacité médicale.
+
+- **[S14] Curbera, Jaime et Jessica L. Lamont.** « Classical and Hellenistic Curse Tablets from the Athenian Agora », *Hesperia*, vol. 92/2, 2023, p. 311–353. [Notice ou texte](https://www.ascsa.edu.gr/publications/hesperia/article/92/2/311-353). *Statut :* Publication archéologique primaire : vingt-cinq tablettes, vingt-quatre inscrites de malédictions.
+
+- **[S15] Lamont, Jessica L..** « Crafting Curses in Classical Athens: A New Cache of Hexametric Katadesmoi », *Classical Antiquity*, 40/1, avril 2021, p. 76–117, DOI 10.1525/ca.2021.40.1.76. [Notice ou texte](https://doi.org/10.1525/ca.2021.40.1.76). *Statut :* Édition et commentaire scientifique d'une cache de tablettes.
+
+- **[S16] Venticinque, Philip.** « Bound for Success: Cursing and Commerce in Classical Athens », *Greece & Rome*, 69/1, 2022, DOI 10.1017/S0017383521000267 (à vérifier sur la notice éditeur pour la variante bibliographique). [Notice ou texte](https://www.cambridge.org/core/journals/greece-and-rome/article/bound-for-success-cursing-and-commerce-in-classical-athens/CF48395B4C5C3110FBD46B40A848C241). *Statut :* Étude secondaire sur les contextes économiques de la malédiction. Le DOI n'est pas invoqué comme référence collationnée.
+
+- **[S17] Evans-Pritchard, E. E..** *Witchcraft, Oracles and Magic among the Azande*, Oxford, Clarendon Press, 1937. [Notice ou texte](https://search.worldcat.org/search?q=Witchcraft%20Oracles%20and%20Magic%20among%20the%20Azande). *Statut :* Corpus ethnographique de comparaison ; ne pas transformer en terrain bocaine.
+
+- **[S18] De Martino, Ernesto.** *Il mondo magico*, 1948 ; *Morte e pianto rituale nel mondo antico*, 1958 ; *La terra del rimorso*, 1961. [Notice ou texte](https://www.worldcat.org/search?q=Ernesto+de+Martino+Il+mondo+magico). *Statut :* Filiation thématique avec le volume MYTHOS antérieur, sans dépendance textuelle prouvée.
+
+- **[S19] Mauss, Marcel.** « Essai sur le don. Forme et raison de l'échange dans les sociétés archaïques », *L'Année sociologique*, nouvelle série, 1, 1923–1924, publié en 1925. [Notice ou texte](https://classiques.uqam.ca/classiques/mauss_marcel/socio_et_anthropo/2_essai_sur_le_don/essai_sur_le_don.html). *Statut :* Comparaison avec le cycle déjà traité, sans reprise du volume.
+
+- **[S20] Lamont, Jessica L..** *In Blood and Ashes: Curse Tablets and Binding Spells in Ancient Greece*, Oxford University Press, 2023, DOI 10.1093/oso/9780197517789.001.0001. [Notice ou texte](https://academic.oup.com/book/46759). *Statut :* Monographie secondaire pour la contextualisation historique de la pratique des malédictions.
+
+- **[S21] Favret-Saada, Jeanne et Josée Contreras.** *Le Christianisme et ses juifs, 1800–2000*, Paris, Seuil, 2004. [Notice ou texte](https://www.journals.uchicago.edu/doi/abs/10.14318/hau2.1.004). *Statut :* Ouvrage identifié dans la notice biographique d'autrice, non traité en détail ici.
+
+- **[S22] Favret-Saada, Jeanne.** *Jeux d'ombres sur la scène de l'ONU : droits humains et laïcité*, Éditions de l'Olivier, 2010. [Notice ou texte](https://www.journals.uchicago.edu/doi/abs/10.14318/hau2.1.004). *Statut :* Prolongement de l'œuvre hors sorcellerie, mention bibliographique vérifiée.
+
+- **[S23] Favret-Saada, Jeanne.** *Deadly Words: Witchcraft in the Bocage*, traduction de Catherine Cullen, Cambridge University Press, 1980. [Notice ou texte](https://www.journals.uchicago.edu/doi/abs/10.14318/hau2.1.004). *Statut :* Traduction anglaise de *Les Mots, la mort, les sorts*, confirmée par la revue.
+
+- **[S24] Jeanne Favret-Saada et Josée Contreras.** Notice bibliographique Mucem de *Corps pour corps*, Gallimard, Paris, 1981 ; description matérielle 368 pages. [Notice ou texte](https://mucem.org/notice/b/oai:PMB:62528/). *Statut :* Complément sur le tirage et les différences de pagination.
+
+### Tableau méthodologique : du texte à la preuve
+
+| Proposition | Statut | Contrôle nécessaire |
+| --- | --- | --- |
+| *Les Mots, la mort, les sorts* est publié en 1977 | Attesté [A] | Mucem, édition Gallimard |
+| *Corps pour corps* a deux autrices et paraît en 1981 | Attesté [A] | Gallimard, BnF et Mucem ; la date 1988 dans un récit rétrospectif ne remplace pas les notices |
+| « Être affecté » paraît dans *Gradhiva* 8 en 1990, p. 3–9 | Attesté [A] | Persée, DOI 10.3406/gradh.1990.1340 |
+| Une trentaine de séances enregistrées est décrite par l'auteure | Témoignage primaire [A] | Présentation rétrospective HAU 2012, sans accès allégué à ses enregistrements originaux |
+| Le langage sorcellaire positionne et engage les interlocuteurs | Lecture argumentée [B] | Confronter les récits, les adresses et le journal |
+| Une parole peut transformer une relation sociale sans transformer matériellement une cible éloignée | Distinction analytique [B] | Séparer observation sociale et démonstration causale indépendante |
+| Les *katadesmoi* athéniens ont des supports archéologiques datés | Attesté [A] | Éditions Hesperia 2023 et Classical Antiquity 2021 |
+| Les acteurs antiques éprouvaient exactement les mêmes affects que les interlocuteurs bocains | Non établi [C] | Aucun accès direct aux états mentaux et aux positions d'interlocution |
+| Le désorcellement produit toujours une guérison médicale | Non établi [C] | Nécessiterait un protocole clinique indépendant |
+| Les récits modernes et antiques partagent des mécanismes symboliques universels | Hypothèse [C] | Corpus comparables, contre-exemples, datation et contrôle des médiations |
+
+### Bibliographie complémentaire et précautions d'usage
+
+La réception de l'enquête inclut des discussions sur l'anthropologie réflexive, la construction de la croyance et la dimension pragmatique de la parole. Ces débats ne dispensent pas de vérifier les éditions, en particulier les réimpressions des ouvrages de 1977 et de 1981. Pour les comparaisons anciennes, il faut privilégier, lorsqu'elles sont accessibles, les éditions critiques, apparats et inventaires muséaux : une traduction littéraire isolée ne fournit pas tous les usages du grec *pharmakon*, *epōidê* ou *katadesmos*.
+
+**Principe de non-anachronisme :** les pratiques de sorcellerie rurales françaises des années 1970, les récits poétiques d'Homère et de Théocrite et les tablettes athéniennes du IVe siècle avant notre ère ne constituent pas une seule institution transhistorique. Une analogie construit une question ; elle ne suffit pas à produire une filiation. La comparaison évalue ses propres limites.
+
+**Note de santé et de responsabilité :** les interprétations de malheurs comme conséquences d'un sort sont présentées comme objets historiques et ethnographiques ; elles ne remplacent aucun diagnostic de santé, enquête technique ou procédure juridique. Les personnes accusées d'une action magique ne sont pas, du fait de cette accusation, responsables d'un dommage.
+
+---
+
+**Fin de l'étude MYTHOS — volume CLXIII (163).** Aucun numéro ultérieur n'est réservé ; chaque suite est soumise à une nouvelle inspection du dépôt, des manuscrits et des reçus.

@@ -376,6 +376,12 @@
           "path": "chapitres/encyclopedie/chapitre-381-hypnos-thanatos-nemesis-moires-nouvelle-etude.md",
           "request_sha256": "b3b46348d0279e69f25ca73f80249b12587ff6718debb5609c84387fd5f1b439",
           "initial_source_sha256": "224953f010718da5ec8d14c4846aa0cccd9829e8b05d9ceb82ec7609a753aca8"
+        },
+        "4ba1c1e9-4dec-4d91-9d13-e97122ccf601": {
+          "number": 382,
+          "path": "chapitres/encyclopedie/chapitre-382-tyche-fortune-hasard-cites-antioch-philosophie.md",
+          "request_sha256": "ffcd50464ac22ba627789a5a3568823a1e2002597af9a1db0b328632d3a5b77a",
+          "initial_source_sha256": "53ac2f47fb9d0bfcecf48af00470ad295ce5b4d06c5c78c442d07b64228aca3c"
         }
       }
     },
@@ -695,6 +701,18 @@
           "path": "chapitres/comparatif/volume-clxi-ernesto-de-martino-crise-presence-deuil-rituel-tarentisme.md",
           "request_sha256": "ad614ceab7b2e7856168ad4ee633c7b5546ed37aabdc8568e4351068a5b888ec",
           "initial_source_sha256": "99377c51ad06884468e43ae076f006b72a0fa6c169f016a386b2ffb0265a67db"
+        },
+        "22b31c00-2307-4f2d-8183-db560badea4a": {
+          "number": 162,
+          "path": "chapitres/comparatif/volume-clxii-dieux-mourants-vies-divines-transformees-osiris-dumuzi-baal-adonis-attis-dionysos.md",
+          "request_sha256": "559e04ffb8c1b89adebc506a8ac88a266115c3b4d5f4b6122709e831cb42ad32",
+          "initial_source_sha256": "128ba4c312a9e0164ed82dfa8a7a0ddbfa4787bb91e9073dd60a9807a5234776"
+        },
+        "87ad09f3-c9b9-49e1-9cc8-354a7bb302e8": {
+          "number": 163,
+          "path": "chapitres/comparatif/volume-clxiii-jeanne-favret-saada-sorcellerie-bocage-affect-parole-desorcellement.md",
+          "request_sha256": "b2ca1e4bd58197ed901d33b24e66e5b8d50ad31df02098b634a42d213014ddb5",
+          "initial_source_sha256": "befbeede68ddc82f250182c9d1dc21d32218aecfa85833dc96ca9fcbdba2e625"
         }
       }
     }

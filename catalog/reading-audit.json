@@ -1,34 +1,34 @@
 {
   "status": "passed",
-  "indexed_entries": 1141,
-  "pages_scanned": 1187,
-  "readers_equipped": 830,
-  "links_checked": 85563,
+  "indexed_entries": 1145,
+  "pages_scanned": 1191,
+  "readers_equipped": 833,
+  "links_checked": 85851,
   "new_navigation_errors": [],
   "legacy_link_issues": [
     {
-      "page": "/sites/delphes.html",
-      "url": "/reconstitutions-3d.html#del-001",
+      "page": "/heracles/index.html",
+      "url": "/bestiaire/#nemean",
       "problem": "ancre absente"
     },
     {
-      "page": "/sites/delphes.html",
-      "url": "/reconstitutions-3d.html#del-002",
+      "page": "/heracles/index.html",
+      "url": "/bestiaire/#hydre",
       "problem": "ancre absente"
     },
     {
-      "page": "/sites/dodone.html",
-      "url": "/reconstitutions-3d.html#dod-001",
+      "page": "/heracles/index.html",
+      "url": "/bestiaire/#cerbere",
       "problem": "ancre absente"
     },
     {
-      "page": "/sites/dodone.html",
-      "url": "/reconstitutions-3d.html#dod-002",
+      "page": "/sites/sounion.html",
+      "url": "/reconstitutions-3d.html#sou-001",
       "problem": "ancre absente"
     },
     {
-      "page": "/sites/dodone.html",
-      "url": "/reconstitutions-3d.html#dodone",
+      "page": "/sites/sounion.html",
+      "url": "/reconstitutions-3d.html#sou-002",
       "problem": "ancre absente"
     },
     {
@@ -47,36 +47,6 @@
       "problem": "ancre absente"
     },
     {
-      "page": "/sites/messene.html",
-      "url": "/reconstitutions-3d.html#mes-001",
-      "problem": "ancre absente"
-    },
-    {
-      "page": "/sites/messene.html",
-      "url": "/reconstitutions-3d.html#mes-002",
-      "problem": "ancre absente"
-    },
-    {
-      "page": "/sites/messene.html",
-      "url": "/reconstitutions-3d.html#messene",
-      "problem": "ancre absente"
-    },
-    {
-      "page": "/sites/messene.html",
-      "url": "/reconstitutions-3d.html#messene",
-      "problem": "ancre absente"
-    },
-    {
-      "page": "/sites/sounion.html",
-      "url": "/reconstitutions-3d.html#sou-001",
-      "problem": "ancre absente"
-    },
-    {
-      "page": "/sites/sounion.html",
-      "url": "/reconstitutions-3d.html#sou-002",
-      "problem": "ancre absente"
-    },
-    {
       "page": "/sites/egine-aphaia.html",
       "url": "/reconstitutions-3d.html#aeg-001",
       "problem": "ancre absente"
@@ -87,23 +57,28 @@
       "problem": "ancre absente"
     },
     {
-      "page": "/sites/brauron.html",
-      "url": "/reconstitutions-3d.html#brauron",
+      "page": "/sites/delphes.html",
+      "url": "/reconstitutions-3d.html#del-001",
       "problem": "ancre absente"
     },
     {
-      "page": "/sites/brauron.html",
-      "url": "/reconstitutions-3d.html#bra-001",
+      "page": "/sites/delphes.html",
+      "url": "/reconstitutions-3d.html#del-002",
       "problem": "ancre absente"
     },
     {
-      "page": "/sites/brauron.html",
-      "url": "/reconstitutions-3d.html#bra-002",
+      "page": "/sites/nemee.html",
+      "url": "/reconstitutions-3d.html#nem-001",
       "problem": "ancre absente"
     },
     {
-      "page": "/sites/brauron.html",
-      "url": "/reconstitutions-3d.html#brauron",
+      "page": "/sites/nemee.html",
+      "url": "/reconstitutions-3d.html#nem-002",
+      "problem": "ancre absente"
+    },
+    {
+      "page": "/sites/nemee.html",
+      "url": "/reconstitutions-3d.html#nemee",
       "problem": "ancre absente"
     },
     {
@@ -127,18 +102,58 @@
       "problem": "ancre absente"
     },
     {
-      "page": "/sites/nemee.html",
-      "url": "/reconstitutions-3d.html#nem-001",
+      "page": "/sites/messene.html",
+      "url": "/reconstitutions-3d.html#mes-001",
       "problem": "ancre absente"
     },
     {
-      "page": "/sites/nemee.html",
-      "url": "/reconstitutions-3d.html#nem-002",
+      "page": "/sites/messene.html",
+      "url": "/reconstitutions-3d.html#mes-002",
       "problem": "ancre absente"
     },
     {
-      "page": "/sites/nemee.html",
-      "url": "/reconstitutions-3d.html#nemee",
+      "page": "/sites/messene.html",
+      "url": "/reconstitutions-3d.html#messene",
+      "problem": "ancre absente"
+    },
+    {
+      "page": "/sites/messene.html",
+      "url": "/reconstitutions-3d.html#messene",
+      "problem": "ancre absente"
+    },
+    {
+      "page": "/sites/brauron.html",
+      "url": "/reconstitutions-3d.html#brauron",
+      "problem": "ancre absente"
+    },
+    {
+      "page": "/sites/brauron.html",
+      "url": "/reconstitutions-3d.html#bra-001",
+      "problem": "ancre absente"
+    },
+    {
+      "page": "/sites/brauron.html",
+      "url": "/reconstitutions-3d.html#bra-002",
+      "problem": "ancre absente"
+    },
+    {
+      "page": "/sites/brauron.html",
+      "url": "/reconstitutions-3d.html#brauron",
+      "problem": "ancre absente"
+    },
+    {
+      "page": "/sites/dodone.html",
+      "url": "/reconstitutions-3d.html#dod-001",
+      "problem": "ancre absente"
+    },
+    {
+      "page": "/sites/dodone.html",
+      "url": "/reconstitutions-3d.html#dod-002",
+      "problem": "ancre absente"
+    },
+    {
+      "page": "/sites/dodone.html",
+      "url": "/reconstitutions-3d.html#dodone",
       "problem": "ancre absente"
     },
     {
@@ -147,219 +162,14 @@
       "problem": "ancre absente"
     },
     {
-      "page": "/heracles/index.html",
-      "url": "/bestiaire/#nemean",
-      "problem": "ancre absente"
-    },
-    {
-      "page": "/heracles/index.html",
-      "url": "/bestiaire/#hydre",
-      "problem": "ancre absente"
-    },
-    {
-      "page": "/heracles/index.html",
-      "url": "/bestiaire/#cerbere",
-      "problem": "ancre absente"
-    },
-    {
       "page": "/corpus/origines-du-sacre/edition-integrale-tomes-I-XXVII.html",
       "url": "#top",
       "problem": "ancre absente"
     },
     {
-      "page": "/corpus/mythologie-grecque/archives/livre-hesiode.html",
-      "url": "assets/img/genealogie.webp",
-      "problem": "fichier absent"
-    },
-    {
-      "page": "/corpus/mythologie-grecque/archives/livre-hesiode.html",
-      "url": "assets/app.js",
-      "problem": "fichier absent"
-    },
-    {
-      "page": "/corpus/mythologie-grecque/archives/livre-thebes.html",
-      "url": "assets/img/cycles.webp",
-      "problem": "fichier absent"
-    },
-    {
-      "page": "/corpus/mythologie-grecque/archives/livre-thebes.html",
-      "url": "assets/app.js",
-      "problem": "fichier absent"
-    },
-    {
-      "page": "/corpus/mythologie-grecque/archives/cultes-cites.html",
-      "url": "assets/img/carte.webp",
-      "problem": "fichier absent"
-    },
-    {
-      "page": "/corpus/mythologie-grecque/archives/cultes-cites.html",
-      "url": "assets/app.js",
-      "problem": "fichier absent"
-    },
-    {
-      "page": "/corpus/mythologie-grecque/archives/bibliotheque.html",
-      "url": "assets/img/olympiens.webp",
-      "problem": "fichier absent"
-    },
-    {
-      "page": "/corpus/mythologie-grecque/archives/bibliotheque.html",
-      "url": "assets/img/cycles.webp",
-      "problem": "fichier absent"
-    },
-    {
-      "page": "/corpus/mythologie-grecque/archives/bibliotheque.html",
-      "url": "assets/img/carte.webp",
-      "problem": "fichier absent"
-    },
-    {
-      "page": "/corpus/mythologie-grecque/archives/bibliotheque.html",
-      "url": "assets/img/heros.webp",
-      "problem": "fichier absent"
-    },
-    {
-      "page": "/corpus/mythologie-grecque/archives/bibliotheque.html",
-      "url": "assets/img/cycles.webp",
-      "problem": "fichier absent"
-    },
-    {
-      "page": "/corpus/mythologie-grecque/archives/bibliotheque.html",
-      "url": "assets/img/cycles.webp",
-      "problem": "fichier absent"
-    },
-    {
-      "page": "/corpus/mythologie-grecque/archives/bibliotheque.html",
-      "url": "assets/img/cycles.webp",
-      "problem": "fichier absent"
-    },
-    {
-      "page": "/corpus/mythologie-grecque/archives/bibliotheque.html",
-      "url": "assets/img/cycles.webp",
-      "problem": "fichier absent"
-    },
-    {
-      "page": "/corpus/mythologie-grecque/archives/bibliotheque.html",
-      "url": "assets/img/genealogie.webp",
-      "problem": "fichier absent"
-    },
-    {
-      "page": "/corpus/mythologie-grecque/archives/bibliotheque.html",
-      "url": "assets/img/carte.webp",
-      "problem": "fichier absent"
-    },
-    {
-      "page": "/corpus/mythologie-grecque/archives/bibliotheque.html",
-      "url": "assets/img/cycles.webp",
-      "problem": "fichier absent"
-    },
-    {
-      "page": "/corpus/mythologie-grecque/archives/bibliotheque.html",
-      "url": "assets/img/carte.webp",
-      "problem": "fichier absent"
-    },
-    {
-      "page": "/corpus/mythologie-grecque/archives/bibliotheque.html",
-      "url": "assets/app.js",
-      "problem": "fichier absent"
-    },
-    {
-      "page": "/corpus/mythologie-grecque/archives/monographies.html",
-      "url": "assets/img/genealogie.webp",
-      "problem": "fichier absent"
-    },
-    {
-      "page": "/corpus/mythologie-grecque/archives/monographies.html",
-      "url": "assets/app.js",
-      "problem": "fichier absent"
-    },
-    {
-      "page": "/corpus/mythologie-grecque/archives/sources-methodes.html",
-      "url": "assets/img/hero.webp",
-      "problem": "fichier absent"
-    },
-    {
-      "page": "/corpus/mythologie-grecque/archives/sources-methodes.html",
-      "url": "assets/app.js",
-      "problem": "fichier absent"
-    },
-    {
-      "page": "/corpus/mythologie-grecque/archives/livre-odyssee.html",
-      "url": "assets/img/cycles.webp",
-      "problem": "fichier absent"
-    },
-    {
-      "page": "/corpus/mythologie-grecque/archives/livre-odyssee.html",
-      "url": "assets/app.js",
-      "problem": "fichier absent"
-    },
-    {
-      "page": "/corpus/mythologie-grecque/archives/livre-troie.html",
-      "url": "assets/img/cycles.webp",
-      "problem": "fichier absent"
-    },
-    {
-      "page": "/corpus/mythologie-grecque/archives/livre-troie.html",
-      "url": "assets/app.js",
-      "problem": "fichier absent"
-    },
-    {
       "page": "/corpus/mythologie-grecque/archives/MYTHOS_bibliotheque_navigable.html",
       "url": "#/accueil",
       "problem": "ancre absente"
-    },
-    {
-      "page": "/corpus/mythologie-grecque/archives/livre-argonautiques.html",
-      "url": "assets/img/carte.webp",
-      "problem": "fichier absent"
-    },
-    {
-      "page": "/corpus/mythologie-grecque/archives/livre-argonautiques.html",
-      "url": "assets/app.js",
-      "problem": "fichier absent"
-    },
-    {
-      "page": "/corpus/mythologie-grecque/archives/livre-dieux.html",
-      "url": "assets/img/olympiens.webp",
-      "problem": "fichier absent"
-    },
-    {
-      "page": "/corpus/mythologie-grecque/archives/livre-dieux.html",
-      "url": "assets/img/genealogie.webp",
-      "problem": "fichier absent"
-    },
-    {
-      "page": "/corpus/mythologie-grecque/archives/livre-dieux.html",
-      "url": "assets/app.js",
-      "problem": "fichier absent"
-    },
-    {
-      "page": "/corpus/mythologie-grecque/archives/atlas-mythologique.html",
-      "url": "assets/img/carte.webp",
-      "problem": "fichier absent"
-    },
-    {
-      "page": "/corpus/mythologie-grecque/archives/atlas-mythologique.html",
-      "url": "assets/app.js",
-      "problem": "fichier absent"
-    },
-    {
-      "page": "/corpus/mythologie-grecque/archives/historiographie-v6.html",
-      "url": "assets/img/tableau-dieux.webp",
-      "problem": "fichier absent"
-    },
-    {
-      "page": "/corpus/mythologie-grecque/archives/historiographie-v6.html",
-      "url": "assets/app.js",
-      "problem": "fichier absent"
-    },
-    {
-      "page": "/corpus/mythologie-grecque/archives/livre-heracles.html",
-      "url": "assets/img/heros.webp",
-      "problem": "fichier absent"
-    },
-    {
-      "page": "/corpus/mythologie-grecque/archives/livre-heracles.html",
-      "url": "assets/app.js",
-      "problem": "fichier absent"
     }
   ]
 }
