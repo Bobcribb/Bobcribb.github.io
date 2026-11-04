@@ -205,7 +205,7 @@ Cette livraison appartient à la **série de suivi** des *Origines du sacré*. L
 
 **Affichage :** contrôle visuel en navigateur de prévisualisation, à 360 et 768 pixels pour les trois études ; largeurs de contenu 345/753 pixels après barre verticale, sans débordement horizontal de la page. Navigation sur plusieurs lignes, accès aux compléments et lecture vérifiés. Contrôle des pages PDF rendues : images, légendes, marges et pagination. Il ne s’agit pas d’un essai physique sur tous les appareils.
 
-**Pièces de contrôle :** [rapport public et six PDF](../assets/philosophie/audit-pagination-2026-11-04.html), [mesures et empreintes](../assets/philosophie/pagination-2026-11-04.json), [manifeste des images](../assets/philosophie/documents/manifest.json), script `scripts/render_philosophie_a4.py`. Les états de publication GitHub Pages doivent être contrôlés après le commit ; ce registre de préparation ne confond pas validation locale et déploiement public.
+**Pièces de contrôle :** [rapport public et six PDF](../philosophie-audit-pagination-2026-11-04.html), [mesures et empreintes](../assets/philosophie/pagination-2026-11-04.json), [manifeste des images](../assets/philosophie/documents/manifest.json), script `scripts/render_philosophie_a4.py`. Les états de publication GitHub Pages doivent être contrôlés après le commit ; ce registre de préparation ne confond pas validation locale et déploiement public.
 
 
 ## 4 novembre 2026 — Études longues : cent pages d’analyse par œuvre

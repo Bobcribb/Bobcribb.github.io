@@ -807,7 +807,7 @@ def create_philosophy(entries):
      ("/philosophie-iliade.html","Philosophie de l’Iliade","Colère, honneur, responsabilité, réparation et voix de Briséis.","ÉTUDE INTÉGRALE"),
      ("/philosophie-odyssee.html","Philosophie de l’Odyssée","Identité, commandement, justice et reconnaissance de Pénélope.","ÉTUDE INTÉGRALE"),
      ("/philosophie-theogonie.html","Philosophie de la Théogonie","Souveraineté, parole, alliances et serment divin.","ÉTUDE INTÉGRALE"),
-     ("/assets/philosophie/audit-pagination-2026-11-04.html","Pagination A4 vérifiée","Méthode, résultats et six PDF de référence.","CONTRÔLE ÉDITORIAL")
+     ("/philosophie-audit-pagination-2026-11-04.html","Pagination A4 vérifiée","Méthode, résultats et six PDF de référence.","CONTRÔLE ÉDITORIAL")
     ]))
     body+=section("Philosophie des mythes et du tragique","La mythologie comme problème de connaissance, de pouvoir et de sens.",cards([
      ("/philosophie-et-interpretations/","Philosophie et interprétations","Concepts, écoles et lecture des mythes."),
