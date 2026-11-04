@@ -5,33 +5,57 @@
   "branch": "main",
   "latest_session": {
     "date": "2026-11-04",
-    "kind": "AUDIT ET CORRECTION",
-    "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "scope": "Audit post-iconographie des trois monographies et correction du doublon exact dans le journal d'alternance.",
-    "basis_commit": "e2b931045c6b2b6f2347feac7797300d34d0ce25",
-    "checked_html_pages": 3,
-    "checked_internal_anchors": 335,
-    "checked_ids": 321,
-    "checked_images": 61,
-    "checked_figures": 61,
-    "structural_errors_found": 0,
-    "missing_alt": 0,
-    "broken_anchors": 0,
-    "duplicate_ids_in_pages": 0,
-    "missing_added_media_paths": 0,
-    "verified_errors_corrected": 1,
-    "correction": "Une copie strictement identique d'un audit ancien apparaissait à deux positions du tableau history (même audit_basis_commit et contenu JSON). Seul l'exemplaire redondant a été retiré, sans effacer le compte rendu original ni la notice de l'audit patrimonial conservée dans la séance précédente. Ordre iconographie/audit rétabli pour toute la série historique.",
-    "regression_test_added": "tests/test_iconography_alternation.py",
-    "css_responsive": "Stylesheets mythos-iconographie.css et philosophie-edition.css vérifiés sur main : largeur images 100 %, hauteur auto, règles @media et print ; aucun essai mobile réel.",
-    "scientific_review": "Légendes de Mycènes, Tirynthe et Olympie relues : restitutions IA identifiées sans prétention de preuve archéologique ; renvois institutionnels et chronologies présents. Pas d'audit HTTP de toutes les références externes.",
-    "a4_prior_verification": "Rapport daté 2026-11-04 : 107 pages A4 d'analyse seule pour l'Iliade, 101 pour l'Odyssée, 103 pour la Théogonie. Non recalculé après les trois figures.",
-    "workflows": "Des exécutions GitHub Actions étaient en cours ; résultat final du déploiement de cette séance non établi.",
-    "public_deployment_status": "NON CONFIRMÉ : les requêtes web indépendantes vers bobmythos.fr et le reçu /catalog/publication-verification.json n'ont pas abouti.",
-    "content_preserved": "Aucun texte d'étude, chapitre, image, sommaire, chemin HTML, numéro, registre d'attribution, workflow ou planification modifié.",
-    "obstacles": "Pas de rendu A4 actuel, d'essai responsive sur appareil ni de validation HTTPS concluante.",
-    "commits": [],
-    "commit_note": "Commit atomique du journal et du test à relever dans l'historique GitHub."
+    "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "previous_kind": "AUDIT ET CORRECTION",
+    "next_kind": "AUDIT ET CORRECTION",
+    "scope": "Enrichissement sans doublon de trois pages existantes : Hésiode, Épidaure et Éleusis.",
+    "basis_commit": "404e8685375309f5365f22a7fe7504e019943bcd",
+    "checked_pages": 3,
+    "figures_added": 3,
+    "files_added": 0,
+    "assets_reused": 3,
+    "figures": [
+      {
+        "path": "livre-hesiode/index.html",
+        "after_figures": 3,
+        "after_images": 1,
+        "checked_local_anchors": 26,
+        "duplicate_ids": 0,
+        "missing_local_fragments": 0,
+        "new_image": "/assets/philosophie/theogonie-succession-pouvoir.svg",
+        "kind": "schéma 2D original non archéologique"
+      },
+      {
+        "path": "epidaure-asclepios-incubation-iamata-guerisons/index.html",
+        "after_figures": 5,
+        "after_images": 4,
+        "checked_local_anchors": 18,
+        "duplicate_ids": 0,
+        "missing_local_fragments": 0,
+        "new_image": "/assets/reconstitutions-3d/epidaure-asclepieion-sanctuaire-panorama.webp",
+        "kind": "reconstitution 3D IA non métrique"
+      },
+      {
+        "path": "eleusis-demeter-persephone-mysteres/index.html",
+        "after_figures": 7,
+        "after_images": 3,
+        "checked_local_anchors": 22,
+        "duplicate_ids": 0,
+        "missing_local_fragments": 0,
+        "new_image": "/assets/reconstitutions-3d/eleusis-telesterion-sanctuaire-panorama.webp",
+        "kind": "reconstitution 3D IA non métrique"
+      }
+    ],
+    "pre_commit_checks": "AGENTS.md et docs/PUBLICATION_CONCURRENTE.md relus ; images absentes des pages avant insertion ; cibles h2 uniques, aucune ancre interne brisée, aucun id dupliqué, images avec alt, tailles et adaptativité ; notice de source institutionnelle, datation et statut IA ou schéma non-IA. Textes HTML strictement conservés hors insertion.",
+    "source_references": [
+      "https://whc.unesco.org/fr/list/491/",
+      "https://www.efada.gr/en-us/Archaeological-Sites-Monuments/Eleusis/Archaeological-Site-of-Eleusis/telesterion",
+      "https://chs.harvard.edu/primary-source/hesiod-theogony-sb/"
+    ],
+    "preservation": "Aucun texte universitaire préexistant, navigation, numérotation, registre d'attribution, automatisation ni fréquence changé ; anciennes illustrations 2,5D non réintroduites.",
+    "public_deployment_status": "Non confirmé pour ces trois figures tant que le site public, les octets des WebP et le reçu de publication ne sont pas vérifiés après déploiement.",
+    "obstacles": "Audit complet des liens externes, validation sur appareil mobile et rerendu PDF A4 non exécutés ; le prochain AUDIT doit contrôler les nouvelles figures sur le domaine et le reçu de publication.",
+    "commits": []
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
   "history": [
@@ -504,6 +528,60 @@
       "obstacles": "Pas de rendu A4 actuel, d'essai responsive sur appareil ni de validation HTTPS concluante.",
       "commits": [],
       "commit_note": "Commit atomique du journal et du test à relever dans l'historique GitHub."
+    },
+    {
+      "date": "2026-11-04",
+      "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "previous_kind": "AUDIT ET CORRECTION",
+      "next_kind": "AUDIT ET CORRECTION",
+      "scope": "Enrichissement sans doublon de trois pages existantes : Hésiode, Épidaure et Éleusis.",
+      "basis_commit": "404e8685375309f5365f22a7fe7504e019943bcd",
+      "checked_pages": 3,
+      "figures_added": 3,
+      "files_added": 0,
+      "assets_reused": 3,
+      "figures": [
+        {
+          "path": "livre-hesiode/index.html",
+          "after_figures": 3,
+          "after_images": 1,
+          "checked_local_anchors": 26,
+          "duplicate_ids": 0,
+          "missing_local_fragments": 0,
+          "new_image": "/assets/philosophie/theogonie-succession-pouvoir.svg",
+          "kind": "schéma 2D original non archéologique"
+        },
+        {
+          "path": "epidaure-asclepios-incubation-iamata-guerisons/index.html",
+          "after_figures": 5,
+          "after_images": 4,
+          "checked_local_anchors": 18,
+          "duplicate_ids": 0,
+          "missing_local_fragments": 0,
+          "new_image": "/assets/reconstitutions-3d/epidaure-asclepieion-sanctuaire-panorama.webp",
+          "kind": "reconstitution 3D IA non métrique"
+        },
+        {
+          "path": "eleusis-demeter-persephone-mysteres/index.html",
+          "after_figures": 7,
+          "after_images": 3,
+          "checked_local_anchors": 22,
+          "duplicate_ids": 0,
+          "missing_local_fragments": 0,
+          "new_image": "/assets/reconstitutions-3d/eleusis-telesterion-sanctuaire-panorama.webp",
+          "kind": "reconstitution 3D IA non métrique"
+        }
+      ],
+      "pre_commit_checks": "AGENTS.md et docs/PUBLICATION_CONCURRENTE.md relus ; images absentes des pages avant insertion ; cibles h2 uniques, aucune ancre interne brisée, aucun id dupliqué, images avec alt, tailles et adaptativité ; notice de source institutionnelle, datation et statut IA ou schéma non-IA. Textes HTML strictement conservés hors insertion.",
+      "source_references": [
+        "https://whc.unesco.org/fr/list/491/",
+        "https://www.efada.gr/en-us/Archaeological-Sites-Monuments/Eleusis/Archaeological-Site-of-Eleusis/telesterion",
+        "https://chs.harvard.edu/primary-source/hesiod-theogony-sb/"
+      ],
+      "preservation": "Aucun texte universitaire préexistant, navigation, numérotation, registre d'attribution, automatisation ni fréquence changé ; anciennes illustrations 2,5D non réintroduites.",
+      "public_deployment_status": "Non confirmé pour ces trois figures tant que le site public, les octets des WebP et le reçu de publication ne sont pas vérifiés après déploiement.",
+      "obstacles": "Audit complet des liens externes, validation sur appareil mobile et rerendu PDF A4 non exécutés ; le prochain AUDIT doit contrôler les nouvelles figures sur le domaine et le reçu de publication.",
+      "commits": []
     }
   ]
 }
