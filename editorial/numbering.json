@@ -339,6 +339,18 @@
           "path": "chapitres/origines-du-sacre/628-tokos-vrddhi-interet-naissance-monnaie-platon-aristote-manu-kautilya.md",
           "request_sha256": "84d2f66e8d81fe5ff5bed43edb28dff40069d8b3beb41a49cfa5178f101fabdd",
           "initial_source_sha256": "8f94cf9f107b7cb6bfb6ef36f7843ee7aa12b6ecf592da7f5197e2f598ebe672"
+        },
+        "c1bd6e0f-89e4-478c-b4a2-0d378ec9f6b1": {
+          "number": 629,
+          "path": "chapitres/origines-du-sacre/629-funerailles-collectives-epikteta-thera-collegium-lanuvium-associations.md",
+          "request_sha256": "f070b57a3268a7cebd039889fa5b8596fb95c6fce94a0fbc60e0ffb7b1eadebb",
+          "initial_source_sha256": "4b6920ad1a781a4064a2f27f8ca9bdd5fa2d88470ceb463e627bbcba42c422b1"
+        },
+        "ea809f7c-21de-43f4-9db6-44c1278b6810": {
+          "number": 630,
+          "path": "chapitres/origines-du-sacre/630-sans-descendance-adoption-rituels-isaie-menecles-gortyne-hammurabi.md",
+          "request_sha256": "9dc3c53f595c7bdee6887145a2e7f1cb0ea8a9df54c734319407ef3ebe15e948",
+          "initial_source_sha256": "2d02b3c4fdf8aec8676f0554c8a580321a3e6a2e721b8b3ff7fe6b42a28e3265"
         }
       }
     },
@@ -874,6 +886,12 @@
           "path": "chapitres/comedies/volume-083-archippos-ichthyes-poissons-assemblee-traite-paix-marches.md",
           "request_sha256": "d1e5d67f204d12899a2e52d402915e7f6ec544078cfd878bd3a1736356c18374",
           "initial_source_sha256": "13ce41990290e039558c1ce79f9e0878dfec4e7ccf1ba12d39533a4936a4d9fe"
+        },
+        "e21a37f4-8b62-4cc0-9d1a-36f7b5e4c019": {
+          "number": 84,
+          "path": "chapitres/comedies/volume-084-archippos-ploutos-richesse-vieillard-ruse-aiguille-pourpre.md",
+          "request_sha256": "17eb62faf9135720064fef69e880103390b9cbb842951e7403146893609e3b14",
+          "initial_source_sha256": "0880fe6dcbe55822740c052b823c3b06ca47631dee289691f8206c16a55c835a"
         }
       }
     },
@@ -1132,6 +1150,18 @@
           "path": "chapitres/tragedies/volume-ccxxvi-sophocle-niptra-lavement-pieds-euryclee-cicatrice-reconnaissance.md",
           "request_sha256": "2712fe3678c2a78f0d52b6d292245ee9d651c37960243b78fdc7c6ce7ec803d6",
           "initial_source_sha256": "f74bf28796dfd1afddac7771a8ab10621d737f1fd0b459ab262ff84f0580808e"
+        },
+        "668ab170-4e3a-4fbd-8383-e93a45cb33ab": {
+          "number": 227,
+          "path": "chapitres/tragedies/volume-ccxxvii-sophocle-nauplios-katapleon-arrivee-palamedes-justice-camp-troie.md",
+          "request_sha256": "6c91b43d450c7c139c789be03ccdf5f52b26e55031e641fdf18301e4297e8b42",
+          "initial_source_sha256": "e81abc2b8218ebaea7ab3c576bab990e7837b81e08c9538e459c0d18a7a46722"
+        },
+        "db42c03e-74a8-452d-bc06-c827f19e435a": {
+          "number": 228,
+          "path": "chapitres/tragedies/volume-ccxxviii-sophocle-odysseus-acanthoplex-telegonos-dodone-filiation-mort.md",
+          "request_sha256": "0be782666e68e93796c5a119e6bb586896f0fb205844bde71b2ae39a425d410b",
+          "initial_source_sha256": "4394b3414efcab141038d2d636ae66063d6dc93d0e6d65e0885a0fc0e8559044"
         }
       }
     },
@@ -1627,6 +1657,18 @@
           "path": "chapitres/comparatif/volume-ccxxiii-mc-044-enfants-exposes-rois-sauves-fleuves-oracles-adoption-legitimite-sargon-moise-cyrus-persee-oedipe.md",
           "request_sha256": "75ae36f8225689c4cbe150ee05adbc267a3fc58f60ae184595e6bf7b36eb7452",
           "initial_source_sha256": "ed6bb64db5700728edd544a28bf769e0f7da99f19e8371c6a397eb0c87bff49e"
+        },
+        "bbde4649-3c4a-456d-b3fc-e0fd67ca6e11": {
+          "number": 224,
+          "path": "chapitres/comparatif/volume-ccxxiv-mc-046-quand-son-agit-sur-dieux-harpe-lyre-sistre-chant-rituel.md",
+          "request_sha256": "4d3d93ee09f94cc752ae53825532706107a5ff873709d4b8c55fca4f1d614e96",
+          "initial_source_sha256": "e0b9d43a19138f95424d68167f459148285ca757ee7a5888e0294bb15c6c3969"
+        },
+        "e3b81a44-1e8b-4c38-938f-3dbe142c92a6": {
+          "number": 225,
+          "path": "chapitres/comparatif/volume-ccxxv-thesmophories-aristophane-secret-rituel-contre-enquete-reputation.md",
+          "request_sha256": "975d4706bffada6ce322ff38f28256ffc071b24eb902af79f278fbeee09838cc",
+          "initial_source_sha256": "8a1d8eb4760f3600f4c8464a5f5c2b512ebcc6b743a82278174d819201a5ea0f"
         }
       }
     }

@@ -1,0 +1,540 @@
+# MYTHOS — Encyclopédie universitaire des comédies grecques — Volume LXXXIV (84)
+
+## Archippos, *Ploutos* (Πλοῦτος, « La Richesse ») — vieillard trompé, acquisition, pauvreté, aiguilles et pourpre : une économie comique en fragments
+
+**Étude universitaire originale et intégrale du 4 novembre 2026.** Collection des comédies grecques et œuvres perdues ; philologie des fragments, histoire de la transmission indirecte, histoire sociale de la richesse, analyse du vêtement, théorie de la ruse, religion grecque et philosophie du comique. **Numéro propre à attribuer automatiquement par GitHub Actions : LXXXIV (84).**
+
+**Contrat méthodologique.** **[A]** est réservé à un fragment de la pièce effectivement transmis, à un témoignage ancien précisément référencé, à un objet matériel identifié ou à une observation contrôlable dans l'édition critique. **[B]** désigne la reconstruction dramaturgique, l'hypothèse historique, le parallèle interculturel ou la lecture philosophique ; son degré de plausibilité ne lui donne jamais statut de texte antique. **[C]** identifie une création dramatique écrite aujourd'hui par MYTHOS : aucun personnage supplémentaire, dialogue ou épisode imaginé ne doit être pris pour une représentation d'Archippos. Les chiffres 37–41 ci-dessous sont **les numéros des fragments chez Kassel–Austin (K.-A.)**, non les numéros de chapitres MYTHOS.
+
+**Édition commentée directement vérifiée :** **Elisabetta R. Miccolis**, *Archippos. Einleitung, Übersetzung, Kommentar*, **Fragmenta Comica 12**, Heidelberg, 2017, **p. 223–250**, chapitre *Πλοῦτος*, édition numérique de l'Université de Heidelberg : [p. 223](https://digi.hadw-bw.de/view/frc12/0227), [p. 224](https://digi.hadw-bw.de/view/frc12/0228), [p. 226, fr. 37](https://digi.hadw-bw.de/view/frc12/0230), [p. 237, fr. 38](https://digi.hadw-bw.de/view/frc12/0241), [p. 241, fr. 39](https://digi.hadw-bw.de/view/frc12/0245), [p. 245, fr. 40](https://digi.hadw-bw.de/view/frc12/0249), [p. 249, fr. 41](https://digi.hadw-bw.de/view/frc12/0253). DOI du volume : https://doi.org/10.11588/diglit.53728. L'ouvrage de Kassel et Austin, *Poetae Comici Graeci* II, Berlin–New York, 1991, **p. 550–552**, est le repère de numérotation ; il n'est **pas déclaré ici collationné indépendamment dans toutes ses variantes manuscrites**.
+
+**Continuité réelle vérifiée avant soumission.** Le reçu GitHub du volume **LXXXIII (83)** identifie [Archippos, *Ichthyes*](/chapitres/comedies/volume-083-archippos-ichthyes-poissons-assemblee-traite-paix-marches/). Un autre dossier d'Archippos est [*Onou skia / Onos*, LXXX (80)](/chapitres/comedies/volume-080-archippos-onou-skia-onos-ane-ombre-dispute-machine-serment/). Des dossiers contemporains distincts sur Apollophanès sont [*Danaé*, LXXXI (81)](/chapitres/comedies/volume-081-apollophanes-danae-mythe-oracle-enfermement-parodie-tragedie/) et [*Kentauroi*, LXXXII (82)](/chapitres/comedies/volume-082-apollophanes-kentauroi-centauromachie-vin-violence-chiron/). Les secondes soumissions relatives à *Krêtes* et *Danaé* sont conservées en inbox et suspendues, pour éviter toute duplication de la même œuvre. Aucun titre *Ploutos* d'Archippos n'a été trouvé dans les manuscrits de comédies, les reçus ni les recherches sur les demandes indexées avant la création du présent dossier. **Aucun numéro ultérieur n'est réservé ici**.
+
+---
+
+# I. Histoire d'une pièce et de son titre
+
+## 01. [A] Πλοῦτος : substantif et personnification
+
+Le mot grec **πλοῦτος** désigne la richesse matérielle ou l'abondance. Il peut aussi nommer **Ploutos**, personnage divin personnifiant les ressources. Le titre ne permet pas, à lui seul, d'affirmer que le dieu apparaissait sur scène, que le héros s'enrichissait, ni que le poète dénonçait les riches. Le commentaire de Miccolis estime très probable la présence du dieu personnifié, tout en reconnaissant que **l'intrigue entière reste indéterminable**.
+
+Il faut éviter l'équivalence automatique avec **Plouton** (Πλούτων), dieu des Enfers : la parenté lexicale et certaines connexions religieuses n'abolissent pas la distinction entre les deux noms et leurs représentations.
+
+## 02. [A] Une comédie d'Archippos, distincte des pièces homonymes
+
+Archippos est un poète de l'ancienne comédie dont plusieurs titres et fragments ont survécu de manière indirecte. Son ***Ploutos*** est identifié par des transmetteurs précis, notamment les scholies d'Aristophane, Porphyre et Pollux. Il ne faut pas le confondre avec les deux ***Ploutos*** d'Aristophane, **une version de 408 av. J.-C.** connue par fragments et **la comédie conservée de 388 av. J.-C.** ; avec le *Ploutos* de **Nicostratos** (fr. 23) ; avec les ***Ploutoi*** (« Richesses ») de **Cratinos** (frr. 171–179) ; ni avec l'autre titre ***Elpis / Ploutos*** d'**Épicharme** (frr. 31–37). Ces œuvres sont distinctes dans l'inventaire critique de Miccolis, p. 223.
+
+## 03. [A] Cinq fragments, pas cinq scènes connues
+
+La pièce d'Archippos est représentée par **cinq unités textuelles numérotées 37 à 41 K.-A.** Leur conservation dépend des intérêts de compilateurs postérieurs : l'étude d'un vocable étrange, la valeur du verbe « tromper », le sens d'un terme homérique signifiant « avoir obtenu », le nom d'une aiguille et la description d'un vêtement à bordure de pourpre. L'ordre **37–41** est celui de l'édition ; il ne constitue pas une chronologie narrative.
+
+Les voix des fragments ne peuvent être identifiées avec certitude les unes aux autres. Même la reprise d'un vieux personnage au fr. 38 ne permet pas de savoir s'il reparaît aux autres passages.
+
+## 04. [A] Les cinq témoins et leurs intentions
+
+**Fr. 37 :** scholies aux ***Guêpes* d'Aristophane**, v. 418, sur un composé évoquant la haine divine ; **fr. 38 :** scholies aux ***Oiseaux***, v. 1648, pour l'emploi du verbe **διαβάλλεσθαι** au sens de tromper ; **fr. 39 :** **Porphyre**, *Questions homériques* sur ***Odyssée* II, 319**, autour de **ἐπήβολος** ; **fr. 40 :** **Pollux, *Onomasticon* X, 136**, vocabulaire du raccommodage ; **fr. 41 :** **Pollux VII, 63**, vêtements à large bordure pourpre.
+
+Les transmetteurs ne donnent pas les événements précédant et suivant les extraits. Ce sont des **témoins lexicaux**, non des spectateurs décrivant une représentation de concours.
+
+## 05. [A/B] La datation demeure inconnue
+
+Miccolis, p. 224, insiste : **aucun indice sûr ne date la pièce** dans la carrière d'Archippos. Ian Storey (2012, p. 3) suggère les **années 390 ou même 380 av. J.-C.**, en tenant compte des œuvres homonymes connues. Cette proposition ne vaut pas didascalie. La pièce pourrait être antérieure ou postérieure à la version aristophanique conservée en 388 : la priorité précise n'est pas démontrée.
+
+**[B]** Il serait tentant d'y lire une réponse à Aristophane. Mais une convergence thématique ne suffit pas à établir une influence, surtout lorsque la chronologie est indécise.
+
+## 06. [A] Ploutos et les traditions mythiques
+
+Dans **Hésiode, *Théogonie* 969–974**, Ploutos naît de l'union de **Déméter** et de **Iasion** sur une terre trois fois labourée ; le thème est lié également à ***Odyssée* V, 125–128** et aux traditions de fécondité agraire. Dans l'***Hymne homérique à Déméter* 486–489**, Ploutos est présenté comme un don de la déesse et de Perséphone à ceux qu'elles favorisent. Les textes établissent des **traditions relatives à la richesse divinisée**, non des citations de la pièce d'Archippos.
+
+Le passage de la prospérité agricole à la monnaie, à la richesse mobilière ou aux vêtements coûteux devra être étudié comme un déplacement social, pas comme un argument attesté.
+
+## 07. [A/B] Ploutos aveugle : un motif plus ancien et plus diffus
+
+La cécité de Ploutos est documentée dans plusieurs traditions, notamment dans les approches discutées par Miccolis (p. 224–225), et elle joue un rôle central dans le ***Ploutos*** conservé d'Aristophane, par exemple v. 87–91. Elle explique l'attribution apparemment arbitraire des richesses.
+
+**[B]** Rien ne prouve toutefois qu'Archippos ait placé sur scène un dieu aveugle ou sa guérison. Cette hypothèse fut proposée par certains savants en projetant l'intrigue d'Aristophane sur l'autre titre homonyme ; elle demeure indémontrée.
+
+## 08. [A/B] Une pièce déformée par l'intérêt des lexicographes
+
+Les extraits conservés ne forment pas un échantillon représentatif de la poésie comique : les auteurs tardifs ont surtout copié les passages dont les mots servaient leur entreprise. On y trouve donc des mots liés aux vêtements et à la richesse sans savoir si le théâtre d'Archippos était véritablement dominé par ces thèmes.
+
+**[B]** Le biais lexical peut surreprésenter l'économie domestique. Une parabase politique, un chœur ou un débat théologique pourraient avoir existé sans laisser aucune trace ; les affirmer serait inversement infondé.
+
+# II. Les fragments du *Ploutos* : édition critique raisonnée
+
+## 09. [A] Fr. 37 K.-A. : une plainte et une violence verbale
+
+Le **fr. 37** est conservé dans une scholie aux ***Guêpes* 418**. Il met en scène une **interjection de détresse**, une question d'un interlocuteur et une plainte où les verbes de la **morsure et de la dévoration** décrivent de façon hyperbolique une malveillance ou une hostilité divine. La transmission appelle des corrections importantes avant d'atteindre une construction de trois trimètres iambiques.
+
+Le titre ***Ploutos*** est expressément donné par la scholie. Le mot lié à l'hostilité des dieux explique pourquoi ce morceau a été retenu, mais la cause dramatique de la plainte nous échappe. La punition pourrait concerner la richesse ; cela reste [B].
+
+## 10. [A] Le problème de ἔδωκε / ἔδακε
+
+La tradition manuscrite au fr. 37 contient une forme du verbe **δίδωμι** (« donner ») alors que le contexte de la réponse paraît appeler **ἔδακε**, aoriste de **δάκνω** (« mordre »). La correction s'appuie sur le jeu lexical immédiatement développé : mordre, puis **dévorer totalement**. Miccolis, p. 227–229, explique la fluctuation entre les leçons, le placement des pronoms et les exigences métriques.
+
+**Conséquence éditoriale :** on ne doit pas produire une citation grecque intégrale assurée de trois vers comme si le manuscrit les donnait sans lacunes. Un texte imprimé comporte des choix d'éditeur qui doivent être distingués du témoignage brut.
+
+## 11. [A] κατεσθίω et ἀποβρύκω : manger comme image d'oppression
+
+La séquence du fr. 37 associe à la morsure des verbes intensifs de consommation. Leur emploi figuré rapproche le fait de **subir l'hostilité** d'une ingestion par un adversaire ; la langue fait d'une puissance hostile un organisme vorace. Miccolis rappelle des parallèles aristophaniques, notamment aux ***Cavaliers***, où le vocabulaire alimentaire soutient une satire de la prédation.
+
+**[B]** La pièce pourrait faire de la malveillance une forme de paupérisation ou de confiscation. Mais le fragment n'assure ni dette, ni procès économique, ni dépossession patrimoniale précise.
+
+## 12. [A/B] πανουργία et la leçon finale disputée
+
+Le terme **πανουργία** désigne la ruse ou la conduite scélérate ; le composé exprimant la haine divine apparaît dans des variantes manuscrites proches. Miccolis examine les formes **θεοσεχθρία**, **θεοσέχθρα** et une correction **θεοισεχθρία**, ainsi que leurs conséquences métriques et morphologiques.
+
+**[B]** Une plainte dirigée contre le monde social et les dieux peut porter une ironie politique, mais le fragment ne donne pas le nom d'un démagogue ni le fonctionnement d'une institution. Il ne faut pas transformer un lexème difficile en manifeste de l'auteur.
+
+## 13. [A/B] Deux voix, pas deux personnages identifiés
+
+Le fr. 37 comporte un **échange interrogatif** reconstitué à partir d'indices grammaticaux, mais les interlocuteurs restent anonymes. On pourrait vouloir y voir le dieu et un pauvre, un riche et son serviteur, ou deux voisins. Aucun nom n'est donné. La distribution des répliques dépend en partie des décisions éditoriales ; toute caractérisation psychologique prolongée serait fragile.
+
+**[B]** Ce degré de dialogue suffit pour réfléchir au rythme comique d'une escalade verbale : une personne demande « est-ce une morsure ? », l'autre amplifie la plainte jusqu'à la dévoration. C'est un mécanisme langagier, non le synopsis complet.
+
+## 14. [A] Fr. 38 K.-A. : une ruse contre un vieillard
+
+Le **fr. 38**, transmis dans la scholie aux ***Oiseaux* 1648**, est plus stable sur son contenu central : un locuteur affirme disposer d'un **prétexte habilement trouvé**, car **il trompera un vieillard aujourd'hui**. L'expression **διαβαλοῦμαι** est citée précisément pour illustrer un emploi de **διαβάλλεσθαι** au sens de **tromper**, et non seulement de calomnier.
+
+**[A]** L'existence d'un **γέρων** (« vieillard ») est documentée. **[B]** Rien ne prouve que ce vieillard soit un père, un créancier, un personnage principal, une allégorie de l'âge ou le dieu Ploutos.
+
+## 15. [A] πρόφασις, le prétexte et l'intelligence intéressée
+
+Le mot **πρόφασις** peut désigner un motif invoqué, un prétexte construit ou une justification mise en avant. Les adjectifs et participes associés dans le fr. 38 relèvent d'une formulation sur le **plan trouvé avec adresse**. Miccolis, p. 238–240, discute l'ordre des mots et des variantes entre les manuscrits et les éditeurs.
+
+**[B]** L'auditoire pouvait percevoir la tension entre un « bon plan » évalué selon son efficacité et le mal dupeur qu'il annonce. La capacité technique d'inventer n'est pas identique à la qualité morale de l'action.
+
+## 16. [A] τήμερον : l'urgence du jour de théâtre
+
+Le fr. 38 emploie la forme attique **τήμερον**, « aujourd'hui », proche de **σήμερον**. Miccolis, p. 241, cite des usages dans Aristophane où l'adverbe situe une action décisive dans la durée du drame. Le locuteur annonce une tromperie **pour ce jour même** ; il n'évoque pas simplement une disposition abstraite à frauder.
+
+Cette donnée invite à analyser la gestion de l'attente scénique. Elle ne permet toutefois pas de dire que la supercherie réussissait, ni même que le vieillard apparaissait effectivement sur scène.
+
+## 17. [B] Le vieillard comme position sociale, non portrait certain
+
+Un **γέρων** peut être un détenteur de patrimoine, une victime d'escroquerie, une figure du savoir ou un membre de chœur selon les comédies. Il serait abusif de faire du vieillard d'Archippos le double de **Chrémyle**, personnage du *Ploutos* d'Aristophane, au seul motif que les deux pièces portent le même titre.
+
+Le document soutient une analyse du rapport entre âge et pouvoir économique, mais aucun jugement sur le sort individuel de ce personnage n'est vérifiable.
+
+## 18. [A] Fr. 39 K.-A. : avoir acquis des biens
+
+Dans le **fr. 39**, conservé par **Porphyre** dans ses *Questions homériques*, une voix anonyme évoque le fait de **devenir détentrice de χρήματα** (« biens, ressources, argent »). Une formulation courte de l'édition grecque est **νῦν ὡς ἐγενόμην χρημάτων ἐπήβολος**, dont les témoins présentent de petites variantes ; l'extrait appartient à un **trimètre iambique**. Porphyre l'utilise pour éclairer **ἐπήβολος** dans ***Odyssée* II, 319**.
+
+**[A]** Le mot ne précise ni la provenance des ressources, ni une somme, ni l'âge du locuteur. **[B]** L'acquisition peut avoir été honnête, miraculeuse ou frauduleuse ; les fragments ne permettent pas de choisir.
+
+## 19. [A] Les témoins secondaires du fr. 39
+
+Miccolis, p. 242–244, rapproche **Porphyre**, les **scholies homériques**, **Eustathe** et l'***Etymologicum Magnum***. Plusieurs dépendent d'une tradition commune et transmettent des versions **abrégées**, parfois sans la mention de l'auteur ou du titre. L'ajout éventuel de **δ'** après **νῦν** dans une branche ne suffit pas à fonder une intrigue.
+
+Cette stratification est une leçon centrale de philologie : trois citations médiévales ne sont pas forcément trois témoins indépendants d'une représentation antique.
+
+## 20. [A/B] ἐπήβολος : possession, réussite et visée
+
+Le qualificatif **ἐπήβολος** peut désigner celui qui **atteint quelque chose ou en a la possession**, à partir d'un groupe de sens associé à **βάλλω** (« atteindre, lancer »). Porphyre le commente à propos d'une expression homérique relative aux ressources maritimes. Dans une comédie sur la richesse, l'association est sémantiquement significative.
+
+**[B]** Le contraste « auparavant sans moyens / maintenant riche » est plausible, mais aucune description de la pauvreté antérieure du locuteur n'est transmise dans ce fragment.
+
+## 21. [B] Fr. 38 et fr. 39 : une tentation de scénario
+
+Deux propositions attestées coexistent : quelqu'un veut **tromper un vieillard aujourd'hui** ; quelqu'un déclare **avoir acquis des biens**. Il serait commode de les assembler : un escroc abuse du vieux propriétaire et s'enrichit. Mais cette relation causale **n'est pas attestée**. Les deux énoncés peuvent appartenir à des intrigues secondaires, à deux personnages différents ou à des scènes sans lien direct.
+
+La recherche doit préférer deux faits modestes à une histoire élégante mais inventée.
+
+## 22. [A] Fr. 40 K.-A. : l'aiguille et le raccommodage
+
+Le **fr. 40** est transmis par **Pollux, *Onomasticon* X, 136**, dans un développement lexical sur les vêtements et l'entretien des tissus. La citation comprend **ῥαφίς**, « aiguille », et une consigne de **recoudre ou rapprocher des déchirures**, mais le vers se présente dans un état métriquement incomplet. L'édition le distingue nettement d'un discours continu.
+
+**[A]** Une activité de réparation vestimentaire est documentée, non la pauvreté du personnage qui parle. Les vêtements peuvent aussi se déchirer chez des personnes riches, ou devenir accessoires de travestissement.
+
+## 23. [A] ῥαφίς contre βελόνη : l'atelier des atticismes
+
+Pollux cite Archippos pour défendre l'usage de **ῥαφίς**, alors que le lexicographe **Phrynichos, *Ecloga* 63**, préférait **βελόνη** comme mot de bon attique. Miccolis, p. 245–248, souligne la difficulté : un fragment de comédie devient pièce à conviction dans un débat de **correction linguistique** tenu bien après le théâtre classique.
+
+**[B]** La présence de ῥαφίς ne prouve pas qu'un personnage d'Archippos était étranger à Athènes ; cette possibilité exige d'autres indices sociolinguistiques. Le grec des comédies contient aussi des variantes selon le registre.
+
+## 24. [A/B] L'aiguille, la pauvreté et les techniques invisibles
+
+Raccommoder un manteau peut exprimer une contrainte matérielle, un savoir artisanal ou l'attention à la durée des objets. Le fr. 40 documente la matérialité de l'action : un tissu se déchire, des gestes et des outils servent à le réparer. Le théâtre comique peut faire rire à partir de cette réalité ordinaire sans produire un programme moral de frugalité.
+
+**[B]** Le contraste avec le fr. 41, qui parle de vêtements luxueux, ouvre une **opposition de richesse visible**. Il n'atteste pas que le même costume ait été réparé et porté par la même personne.
+
+## 25. [A] Fr. 41 K.-A. : les manteaux à large bordure pourpre
+
+Le **fr. 41**, cité par **Pollux VII, 63**, conserve l'expression **πλατυπόρφυρα ἱμάτια**, « manteaux à large garniture de pourpre ». Miccolis, p. 249–250, explique le composé : **πλατύς** renvoie à la largeur de la bordure, **πορφύρα** à la teinture. La forme est citée par le lexicographe dans une discussion sur les types de vêtements et leurs noms.
+
+**[A]** La mention de vêtements de luxe est attestée. **[B]** Leur propriétaire, leur couleur exacte, la scène de présentation, le nombre de manteaux et leur fonction comique restent inconnus.
+
+## 26. [A/B] Le pouvoir social des signes textiles
+
+La pourpre est une matière de distinction coûteuse dans de nombreux contextes antiques. Sur une scène grecque, un bord de manteau peut produire une reconnaissance visuelle immédiate, voire un écart ironique entre l'apparence d'un homme et sa fortune. Mais les fragments ne donnent aucune didascalie indiquant qu'un acteur portait réellement ce vêtement à l'époque d'Archippos.
+
+La richesse vestimentaire est donc un élément du **lexique transmis**, pas une preuve matérielle de costume.
+
+## 27. [A/B] Cinq fragments, trois familles de motifs
+
+Les extraits permettent de ranger les thèmes **sans les ordonner en récit** : *épreuve et violence verbale* (37), *ruse et tromperie* (38), *acquisition de biens* (39), *entretien du tissu* (40), *luxe vestimentaire* (41). Ils ne permettent pas de savoir si le chœur était composé de pauvres, de riches, de créanciers ou de prêtres.
+
+**[B]** Ces motifs conviennent à une réflexion sur l'écart entre pouvoir d'achat, conduite morale et visibilité de la fortune. Ils ne valident aucune restitution d'acte, de personnage principal ou de dénouement.
+
+# III. Économie, vie sociale et culture religieuse
+
+## 28. [A/B] L'oikos comme espace de ressources
+
+Dans l'Athènes classique, l'***oikos*** articule des relations familiales, un travail, des biens, des dépenses et des transmissions de patrimoine. La comédie met fréquemment en scène la gestion domestique. Les fragments d'Archippos sont compatibles avec cet horizon, mais la pièce aurait aussi pu se passer dans un sanctuaire, devant une maison ou dans un espace mythique.
+
+**[B]** La découverte de ressources au fr. 39 pourrait déplacer une hiérarchie domestique ; rien n'assure la présence d'une épouse, de fils, de serviteurs ou d'un héritage.
+
+## 29. [B] La richesse comme chance ou comme justice
+
+Une des questions de l'Aristophane de 388 est la distribution du bien : pourquoi certains hommes injustes sont-ils riches alors que les honnêtes peuvent manquer de tout ? La cécité de Ploutos rend perceptible la répartition aveugle. Nous pouvons rapprocher la **question générale** des possibilités offertes par le titre d'Archippos, mais non lui attribuer le même débat.
+
+Il ne faut pas transformer un personnage divin très probable en théoricien d'une doctrine de justice distributive que les fragments ne transmettent pas.
+
+## 30. [A/B] Deux Ploutos aristophaniques, deux contraintes de comparaison
+
+Pour **Aristophane**, une première pièce nommée *Ploutos* a été représentée en **408 av. J.-C.** et n'est connue que par fragments (**frr. 458–465 K.-A.**) ; une seconde, **388 av. J.-C.**, a été conservée intégralement. La seconde permet une analyse détaillée de **Chrémyle**, de la guérison du dieu et des débats entre Pauvreté et Richesse. Cette richesse de documentation **n'est pas transférable à Archippos**.
+
+La comparaison valide consiste à formuler une question commune — richesse, mérite, injustice — puis à préciser ce que chaque texte **atteste réellement**. Le premier *Ploutos* d'Aristophane est lui-même fragmentaire.
+
+## 31. [A/B] Cratinos, Nicostratos et Épicharme : une famille de titres, non une famille de textes
+
+Les ***Ploutoi*** de Cratinos, le ***Ploutos*** de Nicostratos et le ***Elpis / Ploutos*** d'Épicharme attestent la productivité dramatique du thème. Ils n'impliquent pas qu'un poète ait repris l'intrigue de l'autre. Les titres peuvent désigner le dieu personnifié, le désir des richesses ou une critique de leur répartition.
+
+Le pluriel ***Ploutoi*** de Cratinos n'est pas la version collective de la comédie d'Archippos ; la différence de titre et d'auteur doit être maintenue jusque dans les moteurs de recherche.
+
+## 32. [B] Ruse et tromperie : compétences sans vertu
+
+Le fr. 38 oppose un jugement favorable sur la **qualité du prétexte** à une intention frauduleuse. Une compétence d'invention peut servir un effet malfaisant. Cette distinction structure de nombreuses scènes comiques où le personnage intelligent n'est pas nécessairement juste.
+
+La comédie grecque ne connaît pas une opposition mécanique entre le pauvre vertueux et le riche corrompu. Ce serait une interprétation moralisatrice sans base dans le dossier d'Archippos.
+
+## 33. [B] Les vieillards et le crédit de l'expérience
+
+Le seul personnage humain identifié par une catégorie d'âge au fr. 38 est le vieillard destiné à être trompé. L'âge peut être investi de prestige civique, de prudence ou de faiblesse selon les contextes. La comédie est capable de retourner ces valeurs : un jeune peut manipuler un vieux, ou le vieux peut feindre de se laisser tromper.
+
+**Aucune** de ces variantes n'est établie. Le fragment ne permet pas de conclure à une attaque systématique contre les personnes âgées.
+
+## 34. [B] La réparation contre la consommation ostentatoire
+
+L'aiguille du fr. 40 et la pourpre du fr. 41 constituent deux modes d'engagement avec l'objet : prolonger la vie d'un tissu, ou lui donner une valeur de prestige. La tension n'implique pas une scène unique où un manteau rapiécé se changerait miraculeusement en vêtement luxueux.
+
+Elle permet cependant d'étudier une grammaire sociale du vêtement : l'apparence extérieure peut masquer les conditions de production et le coût des réparations.
+
+## 35. [A/B] Déméter, Perséphone et la richesse agraire
+
+Dans l'***Hymne à Déméter***, la richesse divine s'enracine dans la faveur des déesses. Le passage peut être lu à côté du titre *Ploutos* pour rappeler le poids du cycle agricole. Toutefois aucune citation d'Archippos n'évoque explicitement les mystères d'Éleusis, Déméter, les moissons ou une cérémonie religieuse.
+
+**[B]** Un rôle sacré de Ploutos est plausible puisque le dieu personnifié appartient au répertoire grec ; il ne prouve pas un spectacle de mystères, et encore moins une initiation scénique.
+
+## 36. [A/B] Ploutos et Plouton : une frontière de cultes à préserver
+
+Les formes nominales proches ont favorisé des recoupements religieux entre **richesse, fécondité** et **monde souterrain**. Les contextes d'Éleusis ont leurs problèmes propres. Miccolis, p. 223, signale le débat sur la présence effective de Ploutos, plutôt que de Plouton, à certains passages d'Aristophane.
+
+La prudence consiste à distinguer trois objets : un **nom commun**, une **personnification** et un **dieu chthonien**, puis à étudier leurs intersections dans chaque texte. Aucun fragment du *Ploutos* d'Archippos ne tranche une question de rituel.
+
+# IV. Iconographie et histoire des représentations
+
+## 37. [A] Le groupe Eiréné–Ploutos : une personnification historique documentée
+
+Le sculpteur **Céphisodote** a réalisé, au IVe siècle av. J.-C., une statue de **Eiréné (la Paix)** tenant le jeune **Ploutos (la Richesse)**, placée dans l'agora d'Athènes. L'original de bronze est perdu, mais les copies romaines et la tradition antique en conservent l'image. Le **Museum für Abgüsse Klassischer Bildwerke** à Munich situe l'œuvre grecque autour de **374–370 av. J.-C.** ; il documente une copie romaine et son moulage. [Notice institutionnelle de Munich](https://www.abgussmuseum.de/de/mediaguide/eirene-mit-dem-plutosknaben).
+
+**Légende probatoire :** « Eiréné tenant Ploutos enfant ; copie romaine d'un groupe grec de Céphisodote (original vers 374–370 av. J.-C.). **Image indépendante de la comédie d'Archippos ; elle ne renseigne ni son costume ni la représentation de la pièce**. »
+
+## 38. [A/B] Pausanias et la signification du groupe
+
+**Pausanias, *Description de la Grèce* I, 8, 2 et IX, 16, 2**, mentionne le groupe d'Eiréné et de Ploutos et celui de Tyché portant l'enfant Richesse. Les commentateurs modernes analysent l'association comme une allégorie civique : **la paix nourrit la prospérité**. Les notices du musée de Munich et de l'Université de Cambridge expliquent l'original, sa datation et la présence de copies.
+
+**[B]** Rien n'autorise à établir une dépendance de la comédie d'Archippos à l'œuvre sculptée. Leur ordre chronologique exact est incertain et leurs médias diffèrent.
+
+## 39. [A/B] Le costume à pourpre comme trace textuelle
+
+Contrairement aux hypothèses sur les costumes d'une scène perdue, **πλατυπόρφυρα ἱμάτια** est un objet matériel **nommé par un fragment authentique**. Le témoignage prouve une **mention verbale**, non une présence d'accessoire sur scène. Il est impossible de mesurer la largeur de la bordure ou de choisir une tonalité de teinture d'après le seul composé.
+
+Une illustration moderne peut montrer des tissus et leurs techniques, mais elle doit distinguer **reconstitution de pratiques artisanales** et **reconstitution de la comédie**.
+
+## 40. [B] Une galerie iconographique responsable
+
+L'encyclopédie peut associer une image de Ploutos enfant, une photographie de métier à tisser ou d'aiguille archéologique soigneusement identifiée, et la figure d'un citoyen drapé dans un himation. Chacun de ces objets sert de **comparant**, jamais de « costume d'Archippos » ou d'« image de la scène du fr. 41 ».
+
+La présente étude ne reproduit pas une image web sans vérification de ses droits ; elle fournit une **notice institutionnelle stable** pour légender les images auxquelles elle renvoie.
+
+# V. Philosophie, anthropologie historique et comparaison
+
+## 41. [B] Hegel : richesse, extériorisation et reconnaissance
+
+La richesse est une forme de puissance sociale qui peut donner aux individus un accès inégal aux biens et à l'influence. Dans un vocabulaire inspiré de **Hegel**, on peut analyser la contradiction entre la reconnaissance personnelle et l'apparence extérieure : celui qui possède des biens peut acquérir un statut sans que sa valeur morale soit reconnue. Les vêtements luxueux rendent ce décalage visible.
+
+Ce commentaire est **une lecture contemporaine** ; aucun texte d'Hegel n'analyse le *Ploutos* d'Archippos, et aucun fragment ne prouve que le poète ait mis en scène une dialectique du maître et du serviteur.
+
+## 42. [B] Hegel : la volonté ruseuse n'est pas la raison historique
+
+Le trompeur du fr. 38 semble posséder un projet et un moyen de le réaliser. Une réflexion hégélienne peut distinguer la **ruse individuelle** d'une rationalité plus large. Mais il serait anachronique d'en faire un exemple documentaire de la « ruse de la raison » (*List der Vernunft*) : l'expression est un concept philosophique moderne dont le fonctionnement historique ne se réduit pas à la tromperie d'un vieillard.
+
+L'analogie doit servir à éclairer une question, et non à baptiser la pièce d'une doctrine.
+
+## 43. [B] Nietzsche : la valeur des riches et la valeur de la vie
+
+Une lecture de **Nietzsche** peut interroger les évaluations morales attachées aux apparences : la pauvreté et la richesse deviennent facilement des signes auxquels on attribue vertu ou vice sans examiner les actes. Le fr. 38 fournit une action intentionnellement trompeuse, tandis que le fr. 41 ne fournit qu'une image de luxe.
+
+Aucune de ces sources ne permet d'identifier une **morale d'esclaves** ou une doctrine nietzschéenne dans la comédie perdue ; la méthode doit refuser les transpositions sans source.
+
+## 44. [B] Vernant : agriculture, maison et signes du prestige
+
+Les travaux de **Jean-Pierre Vernant** sur les structures sociales et symboliques grecques permettent d'interroger la transformation de la **fécondité agricole** en richesse reconnue par la cité. L'himation pourpré peut devenir un marqueur social, alors que l'aiguille renvoie à une économie matérielle des usages. La famille et l'espace civique rendent ces signes intelligibles.
+
+Il faut néanmoins distinguer les conditions sociologiques documentables des choix du dramaturge qui nous échappent.
+
+## 45. [B] Détienne : un dieu n'est pas une « idée » unique
+
+À partir de **Marcel Détienne**, on peut comparer les figures de richesse dans leurs contextes divers : hymne cultuel, comédie, statue et lexique. Ploutos peut être enfant de Déméter, personnage comique, objet de prière ou personnification dans un programme civique ; ces fonctions ne forment pas un unique récit originel.
+
+La méthode impose de ne pas reconstruire la scène d'Archippos depuis l'image d'Eiréné ou depuis Aristophane en l'absence de témoignage de relation directe.
+
+## 46. [B] Dumézil : une application injustifiée
+
+La richesse est souvent rapprochée de la **troisième fonction** dans les analyses indo-européennes de **Georges Dumézil**. Mais ce seul mot n'établit pas une structure trifonctionnelle dans les cinq fragments d'une comédie grecque. Nous n'observons ni répartition de personnages entre fonctions souveraine, guerrière et productive, ni articulation narrative attestée.
+
+Il vaut donc mieux **suspendre** l'application de Dumézil à l'intrigue d'Archippos. Le comparer n'oblige pas à forcer une homologie.
+
+## 47. [B] La pauvreté et la richesse ne sont pas des essences morales
+
+La tension entre le fr. 40 (raccommodage) et le fr. 41 (pourpre) invite à mesurer ce que l'historien ajoute lorsqu'il parle de « pauvres » et de « riches ». Une aiguille ne garantit pas la pauvreté ; un manteau pourpre peut être présenté dans un récit sans être porté par celui qui parle. Il n'existe donc pas de système de classes déjà assigné à ces deux personnages.
+
+La meilleure hypothèse est souvent celle qui **précise une limite de preuve** plutôt que celle qui multiplie les noms et les scènes.
+
+## 48. [B] Tromper le vieillard : une question d'éthique
+
+La ruse du fr. 38 montre la distance entre savoir-faire et choix de fins. On peut formuler le problème : à partir de quel moment une capacité d'imagination devient-elle socialement dangereuse ? Si le vieillard détient des ressources, le stratagème peut être aussi une lutte contre un pouvoir économique ; si le vieillard est démuni, il en accentue la violence.
+
+Aucun fragment ne précise la richesse du vieillard ; l'analyse doit garder ces scénarios **mutuellement possibles** et non transformer l'un en certitude.
+
+## 49. [B] Être « en possession de biens » : différence entre avoir et être
+
+Le fr. 39 renseigne un changement d'état matériel au moyen de **χρήματα** et **ἐπήβολος**. L'expression peut introduire un écart entre l'être de la personne et ce qu'elle possède désormais. La comédie grecque possède les moyens de rendre cet écart risible, en particulier lorsque les attitudes se modifient plus vite que les circonstances.
+
+Il serait excessif de parler d'une théorie philosophique de l'aliénation explicitement développée par Archippos : aucune séquence argumentative ne survit.
+
+## 50. [B] Le sens du rire : ressort verbal et monde social
+
+Parmi les cinq fragments, le 37 fournit le mécanisme le plus directement observable d'une **escalade hyperbolique** ; le 38, une **annonce de ruse** ; le 39, une **modification de statut** ; le 40 et le 41, des **signes matériels**. La combinaison en intrigue serait séduisante : quelqu'un s'enrichit grâce à un prétexte et passe du vêtement raccommodé à la pourpre. Mais cette combinaison demeure un scénario de laboratoire **non prouvé**.
+
+Le comique n'est pas seulement une intrigue : il est aussi un rythme d'énonciation, un travail du mot et un ensemble d'attentes sociales.
+
+# VI. Quatre créations scéniques intégralement originales [C]
+
+**[C] L'ensemble des scènes ci-dessous a été composé pour MYTHOS en 2026.** Ce ne sont pas des traductions des frr. 37–41 ; elles empruntent seulement aux thèmes attestés les problèmes de ruse, d'argent, de réparation et de luxe. Les personnages sont inventés. Un directeur de théâtre devra conserver cette mention dans toute adaptation.
+
+## 51. [C] Scène I — Le vieillard et le prétexte
+
+*Une petite place. Un VIEILLARD est assis avec une bourse vide. Une INVENTRICE DE PRÉTEXTES et un TÉMOIN passent devant lui.*
+
+**L'INVENTRICE.** J'ai trouvé la meilleure excuse de la ville.
+
+**LE TÉMOIN.** De quoi vous excusez-vous ?
+
+**L'INVENTRICE.** Je ne sais pas encore. Les bonnes excuses doivent précéder leurs fautes.
+
+**LE VIEILLARD.** C'est la première fois que je vois vendre un mensonge avant l'événement.
+
+**L'INVENTRICE.** Vous êtes donc en retard sur le marché.
+
+**LE TÉMOIN.** Que voulez-vous à cet homme ?
+
+**L'INVENTRICE.** Lui donner une raison de perdre sa bourse.
+
+**LE VIEILLARD.** Elle est vide.
+
+**L'INVENTRICE.** Les bourses vides sont un commerce en devenir : on peut y placer beaucoup de promesses.
+
+**LE TÉMOIN.** Vous ne lui prendrez donc rien.
+
+**L'INVENTRICE.** Une chose seulement : sa confiance.
+
+**LE VIEILLARD.** Elle coûte davantage qu'une monnaie.
+
+**L'INVENTRICE.** Tant mieux. Je pourrai dire que je suis devenue riche sans toucher une pièce.
+
+**LE TÉMOIN.** C'est une richesse qu'on ne vous laissera pas garder.
+
+**LE VIEILLARD.** Mon âge ne vous empêche pas de tricher ; il m'a seulement appris à regarder les prix cachés.
+
+*L'Inventrice sort son plus beau prétexte, écrit sur une feuille blanche.*
+
+**L'INVENTRICE.** Vous voyez ? Il est parfait : personne ne peut le contredire.
+
+**LE VIEILLARD.** On ne réfute pas ce qui manque. On le refuse.
+
+*Noir. Création moderne sans personnage d'Archippos identifié.*
+
+## 52. [C] Scène II — L'aiguille et la pourpre
+
+*Dans un atelier, une COUTURIÈRE travaille un manteau usé. Une MARCHANDE apporte un rouleau de tissu pourpré. Une PERSONNE RÉCEMMENT ENRICHIE observe.*
+
+**LA PERSONNE.** Je suis devenue riche. Il me faut une preuve visible.
+
+**LA MARCHANDE.** La pourpre.
+
+**LA COUTURIÈRE.** Et un ourlet solide.
+
+**LA PERSONNE.** On ne paie pas un ourlet pour être regardé.
+
+**LA COUTURIÈRE.** C'est pourtant l'ourlet qui empêche ce qu'on regarde de tomber.
+
+**LA MARCHANDE.** Je vends la couleur du prestige.
+
+**LA COUTURIÈRE.** Je vends le temps que dure ce prestige.
+
+**LA PERSONNE.** Qui des deux possède la véritable richesse ?
+
+**LA MARCHANDE.** Celle qui tire l'argent de votre désir.
+
+**LA COUTURIÈRE.** Celle qui empêche votre désir de se déchirer.
+
+*La Personne pose un vieux manteau sur la table.*
+
+**LA PERSONNE.** Réparez celui-ci avant que je porte l'autre.
+
+**LA MARCHANDE.** Vous voulez garder votre vêtement de pauvre ?
+
+**LA PERSONNE.** Je veux me rappeler que la fortune n'apprend pas à coudre.
+
+**LA COUTURIÈRE.** Et moi, que l'aiguille passe aussi bien dans la pourpre que dans la laine ordinaire.
+
+**LA MARCHANDE.** Vous ruinerez tout le commerce.
+
+**LA COUTURIÈRE.** Seulement le commerce qui ne vend que du mépris.
+
+*La Couturière fait un premier point ; les deux autres attendent le geste qui ne peut pas être acheté déjà accompli.*
+
+*Noir. Scène [C] ; aucun vêtement scénique de la pièce ancienne n'est documenté.*
+
+## 53. [C] Scène III — Le dieu et le registre
+
+*Une salle sans mur, un GRAND REGISTRE au centre. Un CONTRÔLEUR DES RICHESSES cherche Ploutos, qui n'apparaît pas. Une CITOYENNE entre.*
+
+**LE CONTRÔLEUR.** Le dieu n'a pas signé sa présence.
+
+**LA CITOYENNE.** Faut-il qu'un dieu signe ?
+
+**LE CONTRÔLEUR.** Sans signature, comment savoir qui distribue la richesse ?
+
+**LA CITOYENNE.** Et avec une signature, comment savoir pourquoi ?
+
+**LE CONTRÔLEUR.** Chaque bénéfice doit avoir un auteur.
+
+**LA CITOYENNE.** Alors qui a écrit la pluie ?
+
+**LE CONTRÔLEUR.** Personne. C'est justement ce qui complique les comptes.
+
+**LA CITOYENNE.** Qui a écrit la fatigue de ceux qui travaillent ?
+
+**LE CONTRÔLEUR.** On ne mesure que le résultat.
+
+**LA CITOYENNE.** Vous comptez les fruits et non les mains.
+
+**LE CONTRÔLEUR.** Le registre serait trop long.
+
+**LA CITOYENNE.** Un registre si court ne décrit pas la richesse. Il lui sert de cachette.
+
+*Le Contrôleur mesure la longueur du registre. Il ajoute une page puis une deuxième.*
+
+**LE CONTRÔLEUR.** Voilà, j'ai fait place aux mains.
+
+**LA CITOYENNE.** Et à ceux qui ne peuvent plus travailler ?
+
+**LE CONTRÔLEUR.** Une page de plus.
+
+**LA CITOYENNE.** Le dieu ne vient toujours pas.
+
+**LE CONTRÔLEUR.** Il vient peut-être d'apprendre qu'on l'attend pour répondre aux questions plutôt que pour distribuer des pièces.
+
+*La Citoyenne ferme le registre sans le déchirer.*
+
+**LA CITOYENNE.** Tant mieux. Il sera devenu un citoyen comme les autres.
+
+*Noir. Scène [C] : ce registre n'est pas un accessoire antique attesté.*
+
+## 54. [C] Scène IV — Le marchand d'aveuglements
+
+*Un MARCHAND vend des bandeaux. Une PERSONNE AVEUGLE demande le prix ; une VOIX venue de l'extérieur commente les offres.*
+
+**LE MARCHAND.** Avec ce bandeau, vous ne verrez plus la pauvreté.
+
+**LA PERSONNE.** Et elle cessera d'exister ?
+
+**LE MARCHAND.** J'ai dit que vous ne la verriez plus.
+
+**LA VOIX.** Voilà une promesse très économique : elle ne coûte rien à tenir.
+
+**LA PERSONNE.** Je n'ai pas besoin d'un bandeau. Je veux savoir qui veut l'acheter.
+
+**LE MARCHAND.** Ceux qui ont trop de choses à regarder.
+
+**LA VOIX.** Et ceux qui ont peur de voir qu'ils ont trop.
+
+**LE MARCHAND.** Vous entravez ma vente.
+
+**LA PERSONNE.** Je vous propose un autre produit : une paire d'oreilles.
+
+**LE MARCHAND.** Tout le monde en possède.
+
+**LA PERSONNE.** Alors pourquoi n'entendez-vous personne ?
+
+*La Voix se rapproche ; c'est une couturière en tenue de travail.*
+
+**LA COUTURIÈRE.** Si vous ne voulez pas regarder mon manteau usé, écoutez au moins ce que j'ai fait pour qu'il dure.
+
+**LE MARCHAND.** C'est une marchandise impossible.
+
+**LA COUTURIÈRE.** Exactement. Tout ce qui vaut quelque chose n'a pas d'étiquette.
+
+**LA PERSONNE.** Et tout ce qui porte une étiquette n'a pas nécessairement de valeur.
+
+*Le Marchand enlève son propre bandeau de démonstration et découvre qu'il était, lui seul, resté immobile.*
+
+*Noir. Scène contemporaine [C], sans allusion revendiquée à un dieu aveugle d'Archippos.*
+
+# VII. Appareil documentaire, vérification et conclusion
+
+## 55. [A/B/C] Matrice concise des preuves
+
+**[A]** Fr. **37 K.-A.** — scholie à *Guêpes* 418, plainte hyperbolique, leçon textuelle disputée ; **38** — scholie à *Oiseaux* 1648, prétexte et tromperie d'un vieillard ; **39** — Porphyre, *Questions homériques* sur *Odyssée* II 319, accession à des biens ; **40** — Pollux X 136, aiguille et réparation d'un vêtement ; **41** — Pollux VII 63, manteaux à large bordure de pourpre. **[A] Contextes externes :** *Théogonie* 969–974, *Hymne à Déméter* 486–489, *Ploutos* conservé d'Aristophane, iconographie d'Eiréné et Ploutos. **[B]** Tout rapprochement causal des cinq fragments, toute datation précise, toute identification d'un locuteur à Ploutos ou Chrémyle, toute restitution de chœur. **[C]** Les quatre scènes 51–54.
+
+**Question jamais tranchée :** la pièce mettait-elle en scène le dieu personnifié ou seulement la richesse comme force sociale ? La première possibilité est forte selon Miccolis, mais reste [B].
+
+## 56. [A] Bibliographie des sources et des éditions
+
+1. **Elisabetta R. Miccolis**, *Archippos. Einleitung, Übersetzung, Kommentar*, *Fragmenta Comica* 12, Heidelberg, 2017, p. **223–250** ; **édition commentée effectivement consultée** : https://doi.org/10.11588/diglit.53728.
+2. **Rudolf Kassel et Colin Austin**, *Poetae Comici Graeci* II, Berlin–New York, 1991, p. **550–552**, Archippos, frr. 37–41 ; numérotation de référence citée à travers Miccolis ; apparat intégral non recollationné.
+3. **Scholies aux *Guêpes* d'Aristophane**, v. **418a**, transmission du fr. 37, variantes manuscrites et discussion dans Miccolis p. 226–236.
+4. **Scholies aux *Oiseaux* d'Aristophane**, v. **1648a**, transmission du fr. 38 ; Miccolis p. 237–241.
+5. **Porphyre**, *Questions homériques* sur ***Odyssée* II, 319–320**, éd. Schrader, p. 283, 7–284, 3 = éd. Sodano, p. 5, 4–7, 6, transmission du fr. 39 ; Miccolis p. 241–244.
+6. **Pollux**, *Onomasticon* **X, 136**, fr. 40, aiguille et vêtements (attention : **livre X et non livre VII**) ; Miccolis p. 245–248.
+7. **Pollux**, *Onomasticon* **VII, 63**, fr. 41, manteaux à bordure pourpre ; Miccolis p. 249–250.
+8. **Phrynichos**, *Ecloga* 63, distinction lexicale entre ῥαφίς et βελόνη ; attesté et commenté dans Miccolis p. 245–247.
+9. **Hésiode**, *Théogonie* 969–974, naissance de Ploutos ; **Hymne homérique à Déméter**, v. 486–489, prospérité et faveur divine.
+10. **Aristophane**, *Ploutos* conservé (représentation en 388 av. J.-C.), notamment v. 87–91, 782–787 ; ***Ploutos* antérieur**, 408 av. J.-C., fragments 458–465 K.-A. Deux œuvres homonymes du même poète, distinctes du texte d'Archippos.
+11. **Cratinos**, *Ploutoi*, frr. 171–179 K.-A. ; **Nicostratos**, *Ploutos*, fr. 23 K.-A. ; **Épicharme**, *Elpis / Ploutos*, frr. 31–37. Corpus comparatifs, non fragments d'Archippos.
+
+## 57. [A/B] Études scientifiques et comparaisons modernes
+
+12. **Ian C. Storey**, *Fragments of Old Comedy*, I, Loeb Classical Library, 2011, p. 113 pour Archippos *Ploutos*, repère dans Miccolis ; **Storey (2012), p. 3**, proposition de datation 390–380, à considérer comme hypothèse.
+13. **Martin L. West**, commentaire de la *Théogonie* d'Hésiode, Oxford, 1966, notamment v. 969–974, étude de tradition agraire ; **N. J. Richardson**, *The Homeric Hymn to Demeter*, Oxford, 1974, p. 316–320, Ploutos et Éleusis.
+14. **Kevin Clinton**, travaux sur Éleusis et la représentation de Ploutos, notamment 1992 et 1994, mentionnés dans Miccolis p. 223–224.
+15. **G. W. F. Hegel**, *Phénoménologie de l'esprit* et *Principes de la philosophie du droit* : outils conceptuels de reconnaissance et de statut, non documentation d'Archippos.
+16. **Friedrich Nietzsche**, *Par-delà bien et mal*, *Généalogie de la morale* : lecture de la valeur et de ses renversements, non paraphrase de la pièce perdue.
+17. **Jean-Pierre Vernant**, *Mythe et société en Grèce ancienne*, lecture de l'articulation entre techniques, institutions et imaginaires civiques.
+18. **Marcel Détienne**, *L'Invention de la mythologie* ; avec Vernant, *Les Ruses de l'intelligence. La mêtis des Grecs* (1974) : comparaisons méthodologiques explicitement limitées.
+19. **Georges Dumézil**, *Mythe et épopée*, référence historiographique ; aucune trifonctionnalité documentée dans cette comédie.
+20. **Museum für Abgüsse Klassischer Bildwerke München**, notice « Eirene mit dem Plutosknaben », groupe sculpté de Céphisodote, https://www.abgussmuseum.de/de/mediaguide/eirene-mit-dem-plutosknaben ; **University of Cambridge**, Museum of Classical Archaeology, [Eirene and Ploutos](https://museum.classics.cam.ac.uk/collections/casts/eirene-and-ploutos), musée des moulages et histoire de la copie.
+21. **Pausanias**, *Description de la Grèce* I, 8, 2 et IX, 16, 2 : Eiréné et Ploutos, attestations **postérieures** à l'original figuré.
+
+**Principe bibliographique :** Miccolis, et les pages de son édition numérique explicitement liées, forment le socle collationné de la présente notice. Les noms et références mentionnés par elle, mais non indépendamment collationnés, sont présentés comme repères documentaires, pas comme consultation autoptique de manuscrits.
+
+## 58. [A/B/C] Conclusion : l'histoire d'une richesse sans intrigue sûre
+
+Les cinq fragments du ***Ploutos*** d'Archippos montrent une **plainte hyperbolique** sur le malheur, un **prétexte contre un vieillard**, la **prise de possession de biens**, une **aiguille pour le vêtement** et la **pourpre d'un manteau**. Ces indices autorisent un dossier d'histoire sociale et de philologie beaucoup plus solidement qu'un synopsis. Le titre rend plausible la présence de la divinité Richesse, sans la prouver. La chronologie exacte ne permet pas d'établir une imitation du ***Ploutos*** d'Aristophane.
+
+**[A]** Les fragments existent réellement, mais ils sont transmis isolément, avec des difficultés textuelles ; **[B]** l'historien étudie leurs convergences sociales et littéraires sans prétendre reconstituer l'ordre de la pièce ; **[C]** l'atelier dramatique contemporain assume seul la responsabilité de ses répliques. Ce partage protège les archives autant que la possibilité de penser.
+
+**Continuité MYTHOS :** dossier distinct des *Ichthyes* et de *Onou skia / Onos* d'Archippos ; renvois vers les reçus confirmés avant dépôt ; aucun changement de numérotation des pièces précédentes. Les anciens repères XIII/XIV ne réservent rien. La page canonique et le volume présent ne seront établis que par **GitHub Actions**. Les textes, les holdings éditoriaux, les autres collections et les planifications demeurent inchangés.
