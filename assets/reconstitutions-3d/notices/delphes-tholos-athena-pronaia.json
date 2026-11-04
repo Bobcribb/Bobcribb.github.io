@@ -1,0 +1,31 @@
+{
+  "id": "DEL-THO-001",
+  "slug": "delphes-tholos-athena-pronaia",
+  "title": "Delphes — Tholos du sanctuaire d’Athéna Pronaia",
+  "period": "Vers 380–370 av. J.-C.",
+  "caption": "Reconstitution 3D photoréaliste interprétative de la Tholos, bâtiment circulaire du sanctuaire d’Athéna Pronaia à Delphes.",
+  "commentary": "La Tholos, édifiée vers 380–370 av. J.-C., possède un péristyle circulaire de vingt colonnes doriques et une cella dotée de dix ou treize demi-colonnes corinthiennes. Le diamètre du monument atteint environ 13,5 mètres. Vitruve cite Théodore le Phocien comme architecte. Sa fonction demeure inconnue : l’image ne permet pas de la déterminer. La toiture et les aménagements secondaires sont proposés à titre d’évocation, sans garantie archéologique.",
+  "certainty": "Élevée : plan circulaire, vingt colonnes doriques, implantation et datation. Moyenne : gabarit général et organisation des volumes. Faible : couverture conique, polychromie, édifice secondaire figuré à gauche, personnages, végétation et détails sculptés.",
+  "source_url": "https://delphi.culture.gr/les-tholos/",
+  "src": "/assets/reconstitutions-3d/delphes-tholos-athena-pronaia.webp",
+  "width": 1536,
+  "height": 864,
+  "created_at": "2026-11-04",
+  "type": "nouvelle image 3D photoréaliste, rendu non métrique",
+  "provenance": "Rendu numérique original, sans texte ni menu incrusté; caractéristiques incertaines explicitement signalées.",
+  "secondary_sources": [
+    "https://whc.unesco.org/fr/list/393/"
+  ],
+  "scientific_notice": "/assets/reconstitutions-3d/notices/delphes-tholos-athena-pronaia.json",
+  "scientific_method": "Les données archéologiques renvoient au ministère grec de la Culture. Forme précise de la toiture, détails figurés et paysage secondaires sont une interprétation graphique, non une restitution démontrée.",
+  "sources": [
+    {
+      "name": "Ministère grec de la Culture — La Tholos",
+      "url": "https://delphi.culture.gr/les-tholos/"
+    },
+    {
+      "name": "UNESCO — Site archéologique de Delphes",
+      "url": "https://whc.unesco.org/fr/list/393/"
+    }
+  ]
+}
