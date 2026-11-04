@@ -1,9 +1,4 @@
 {
   "version": 1,
-  "requests": {
-    "49df4f83-93d7-46ad-9ee0-cc1033c81404": {
-      "request_sha256": "367b61209ba5747cf30653519ed17881b1df63fd04c5517a2af2ca51375e4b4b",
-      "reason": "MC-033 : deux soumissions concurrentes sur le retrait des dieux, à comparer et réconcilier avant attribution. Manuscrit intégral conservé dans editorial/inbox ; aucun numéro canonique attribué."
-    }
-  }
+  "requests": {}
 }
