@@ -69,6 +69,32 @@ def verify():
         assert card.find('img', src=src) is not None, 'Vignette du sanctuaire absente : ' + slug
         assert (out/src.lstrip('/')).is_file(), 'Fichier de vignette absent : ' + src
         assert gallery.find(id=slug) is not None, 'Ancre de galerie absente : ' + slug
+    # source-link-dossier-v1 : les illustrations doivent conduire au dossier
+    # scientifique correspondant, sans substituer la source institutionnelle.
+    gallery_to_dossier = {
+        'delphes-apollon-panorama': 'delphes.html',
+        'delphes-sanctuaire-vue-ensemble': 'delphes.html',
+        'delphes-tholos-athena-pronaia': 'delphes.html',
+        'nemee-temple-zeus-vue': 'nemee.html',
+        'nemee-stade-vue': 'nemee.html',
+        'corinthe-temple-apollon-vue': 'corinthe.html',
+        'corinthe-pirene-vue': 'corinthe.html',
+        'messene-asklepieion-vue': 'messene.html',
+        'messene-stade-vue': 'messene.html',
+        'sounion-poseidon-vue': 'sounion.html',
+        'sounion-athena-vue': 'sounion.html',
+        'brauron-artemis-vue': 'brauron.html',
+        'brauron-stoa-vue': 'brauron.html',
+        'dodone-theatre-vue': 'dodone.html',
+        'bassae-apollon-exterieur-vue': 'bassae.html',
+    }
+    for slug, dossier in gallery_to_dossier.items():
+        card = gallery.find(id=slug)
+        assert card is not None, 'Illustration absente : ' + slug
+        assert card.select_one('p.r3d-source a[href^="https://"]'), 'Source institutionnelle absente : ' + slug
+        assert card.select_one('a.r3d-study-link[href="/sites/' + dossier + '"]'), 'Renvoi dossier absent : ' + slug
+        assert (out/'sites'/dossier).is_file(), 'Dossier archéologique inexistant : ' + dossier
+    print('OK : 15 vues photoréalistes reliées à huit dossiers archéologiques, sources conservées.')
     print('OK : trois cartes illustrées, trois WebP et trois renvois de galerie vérifiés.')
     print(f'OK : {pages} pages habillées, {redirects} redirections conservées, 27 tomes accessibles.')
 
