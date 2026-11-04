@@ -16,7 +16,7 @@ import unicodedata
 
 from bs4 import BeautifulSoup
 
-VERSION = "20261104-lecture-1"
+VERSION = "20261104-lecture-2"
 COLLECTIONS = [
     ("/mythologie-grecque/", "Encyclopédie grecque", "Dieux, héros, cycles et textes anciens."),
     ("/grande-encyclopedie/", "Grande encyclopédie", "Les livres, archives et études du corpus."),
@@ -172,7 +172,7 @@ def add_reading(doc, url, entry):
             h['id']=candidate;used.add(candidate)
         h['data-reading-section']='true'
     toc='<details class="mythos-reading-toc" data-reading-owned="true"><summary>Sommaire de lecture · '+str(len(headings))+' sections</summary><ol>'+''.join('<li><a href="#'+escape(h['id'],quote=True)+'">'+escape(h.get_text(' ',strip=True))+'</a></li>' for h in headings)+'</ol></details>'
-    toolbar='''<div class="mythos-reader" data-reading-owned="true"><p>Lecture : environ '''+str(entry['minutes'])+''' min · <a href="/methode-editoriale/">Sources et méthode</a></p><div class="reader-buttons" hidden><button type="button" data-reader="smaller" aria-label="Réduire la taille du texte">A−</button><button type="button" data-reader="larger" aria-label="Agrandir la taille du texte">A+</button><button type="button" data-reader="focus" aria-pressed="false">Lecture épurée</button><button type="button" data-reader="previous">Section précédente</button><button type="button" data-reader="next">Section suivante</button><button type="button" data-reader="print">Imprimer / PDF</button><button type="button" data-reader="resume" hidden>Reprendre la lecture</button></div><p class="reader-save-note" hidden>La reprise de lecture est conservée uniquement dans ce navigateur.</p><progress class="reader-progress" max="100" value="0" aria-label="Progression dans l’étude" hidden></progress></div>'''
+    toolbar='''<div class="mythos-reader" data-reading-owned="true"><p>Lecture : environ '''+str(entry['minutes'])+''' min · <a href="/methode-editoriale/">Sources et méthode</a></p><div class="reader-buttons" hidden><button type="button" data-reader="smaller" aria-label="Réduire la taille du texte">A−</button><button type="button" data-reader="larger" aria-label="Agrandir la taille du texte">A+</button><button type="button" data-reader="focus" aria-pressed="false">Lecture épurée</button><button type="button" data-reader="previous">Section précédente</button><button type="button" data-reader="next">Section suivante</button><button type="button" data-reader="print">Imprimer / PDF</button></div><progress class="reader-progress" max="100" value="0" aria-label="Progression dans l’étude" hidden></progress></div>'''
     article.insert(0,fragment(toc));article.insert(0,fragment(toolbar))
     foot='<nav class="reader-bottom" data-reading-owned="true" aria-label="Poursuivre la lecture"><a href="#'+escape(headings[0]['id'],quote=True)+'">Revenir au début de l’étude</a> · <a href="/parcours/">Choisir un parcours</a> · <a href="/catalogue-integral/">Catalogue intégral</a></nav>'
     article.append(fragment(foot))

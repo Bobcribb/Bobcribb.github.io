@@ -6,7 +6,7 @@ Le générateur conserve le corpus et ajoute une couche de navigation reproducti
 - `/etat-du-corpus/` : comptes par collection, distinction entre pages construites, vérification HTTP et relecture scientifique.
 - `/parcours/` : trois itinéraires : mythes grecs, tragédie grecque, récits de création.
 - `/methode-editoriale/` : témoignages, hypothèses, interprétations, images et signalement d’erreurs.
-- Les longues études reçoivent un sommaire à ancres stables, des commandes de taille, une lecture épurée, l’impression et une reprise locale.
+- Les longues études reçoivent un sommaire à ancres stables, des commandes de taille, une lecture épurée, l’impression et une progression de lecture non enregistrée.
 - Les trois études philosophiques sont reliées aux récits, aux éditions de référence et aux six PDF A4 de l’édition du 4 novembre 2026. Leurs empreintes SHA-256, leur format A4 et leur pagination sont vérifiés avec pypdf à chaque construction. Le seuil de 100 pages est contrôlé sur les fichiers d’analyse seule (107, 101 et 103 pages), hors illustrations et bibliographies. Les éditions illustrées comptent 122, 116 et 117 pages.
 
 Les catégories de recherche sont des aides de découverte tirées des titres et des chemins. Elles ne constituent ni une attribution scientifique nouvelle ni une validation du contenu. `scholarly_review` reste `not_certified`.
