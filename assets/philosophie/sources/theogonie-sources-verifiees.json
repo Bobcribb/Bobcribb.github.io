@@ -1,0 +1,156 @@
+{
+  "date": "2026-11-04",
+  "work": "la Théogonie",
+  "sources": [
+    {
+      "title": "Hésiode, Théogonie et Les Travaux et les Jours, traduction H. G. Evelyn-White, 1914",
+      "url": "https://www.gutenberg.org/files/348/348-h/348-h.htm",
+      "consultation": "texte primaire en traduction ancienne du domaine public ; séquences Théogonie 1–370 et 901–906 lues, Travaux 248–273 vérifiés. Paraphrases françaises et commentaires originaux, aucune traduction française moderne transcrite.",
+      "chapters": [
+        "theogonie-long-a01",
+        "theogonie-long-a02",
+        "theogonie-long-a03",
+        "theogonie-long-a04",
+        "theogonie-long-a05",
+        "theogonie-long-a06",
+        "theogonie-long-a07",
+        "theogonie-long-a08",
+        "theogonie-long-a09",
+        "theogonie-long-a10",
+        "theogonie-long-a11",
+        "theogonie-long-a12",
+        "theogonie-long-b01",
+        "theogonie-long-b02",
+        "theogonie-long-b03",
+        "theogonie-long-b04",
+        "theogonie-long-b05",
+        "theogonie-long-b06",
+        "theogonie-long-b07",
+        "theogonie-long-b08",
+        "theogonie-long-b09",
+        "theogonie-long-b10",
+        "theogonie-long-b11",
+        "theogonie-long-b12"
+      ]
+    },
+    {
+      "title": "Bibliotheca Polyglotta, université d’Oslo, Hesiod: Theogonia",
+      "url": "https://polyglotta.uio.no/index.php?mid=816641&page=record&vid=485",
+      "consultation": "répertoire universitaire grec et traduction ancienne repéré ; URL actuelle confirmée par redirection institutionnelle ; utilisé comme lien de consultation complémentaire, pas comme fondement exclusif d’une étymologie.",
+      "chapters": [
+        "theogonie-long-a02"
+      ]
+    },
+    {
+      "title": "Gregory Nagy, « Autorité et auteur dans la Théogonie hésiodique », traduction Philippe Rousseau, dans Le métier du mythe, Presses universitaires du Septentrion, 1996, p. 41–52",
+      "url": "https://books.openedition.org/septentrion/66493",
+      "consultation": "texte universitaire primaire, paragraphes 1–6 restitués par recherche sur le site éditeur ; passage attribué de 125 mots (incluant discussion propre) dans a01. Les étymologies de noms proposées par l’auteur ne sont pas reprises comme des faits établis.",
+      "chapters": [
+        "theogonie-long-a01"
+      ]
+    },
+    {
+      "title": "Jenny Strauss Clay, Hesiod’s Cosmos, Cambridge University Press, 2003, chapitre 1 « Orientations: the Theogony », p. 12–30, spécialement p. 14",
+      "url": "https://assets.cambridge.org/97805218/23920/sample/9780521823920ws.pdf",
+      "consultation": "extrait universitaire primaire de l’éditeur consulté ; discussion ciblée de l’opposition entre schéma statique et généalogie dynamique, moins de 200 mots dérivés du livre ; ne prétend pas à une lecture intégrale.",
+      "chapters": [
+        "theogonie-long-a12"
+      ]
+    },
+    {
+      "title": "Jenny Strauss Clay, Hesiod’s Cosmos, Cambridge University Press, 2003, éléments liminaires",
+      "url": "https://www.cambridge.org/core/books/abs/hesiods-cosmos/frontmatter/AA64CA518B2BDCF83D274898D4742311",
+      "consultation": "notice bibliographique et éléments liminaires vérifiés ; référence d’orientation dans a03, sans attribution d’une thèse non consultée.",
+      "chapters": [
+        "theogonie-long-a03"
+      ]
+    },
+    {
+      "title": "Aristote, Métaphysique, livre A, traduction W. D. Ross, Internet Classics Archive",
+      "url": "https://classics.mit.edu/Aristotle/metaphysics.1.i.html",
+      "consultation": "texte primaire ; passage A4, 984b23–31 sur Éros/Hésiode vérifié ; réception aristotélicienne explicitement distinguée du projet d’Hésiode.",
+      "chapters": [
+        "theogonie-long-a05",
+        "theogonie-long-a12"
+      ]
+    },
+    {
+      "title": "Homère, Iliade, chant V, traduction Samuel Butler, Internet Classics Archive",
+      "url": "https://classics.mit.edu/Homer/iliad.5.v.html",
+      "consultation": "texte primaire ancien ; contrôle de Dioné mère d’Aphrodite et de Zeus père, notamment la scène de retour de la déesse auprès de sa mère ; noms latinisés du traducteur ramenés aux noms grecs habituels dans l’analyse française.",
+      "chapters": [
+        "theogonie-long-a08"
+      ]
+    },
+    {
+      "title": "John Burnet, Early Greek Philosophy, 2e édition, 1908, traductions de fragments d’Anaximandre et de Parménide",
+      "url": "https://www.gutenberg.org/files/67097/67097-h/67097-h.htm",
+      "consultation": "traductions anciennes du domaine public des fragments primaires ; Anaximandre transmis par Simplicius et Parménide B1/B8 lus ; les jugements historiographiques anciens de Burnet ne sont pas repris comme consensus actuel.",
+      "chapters": [
+        "theogonie-long-a12"
+      ]
+    },
+    {
+      "title": "Robert Lamberton, Hesiod, Yale University Press, 1988",
+      "url": "https://yalebooks.yale.edu/book/9780300040692/hesiod/",
+      "consultation": "notice bibliographique éditeur vérifiée uniquement ; piste complémentaire non exploitée pour attribuer des thèses dans la prose.",
+      "chapters": []
+    },
+    {
+      "title": "Jenny Strauss Clay, Hesiod’s Cosmos, Cambridge University Press, 2003",
+      "url": "https://www.cambridge.org/core/books/hesiods-cosmos/C72FA8740DE11FC2C594ABDD5677EE0B",
+      "doi": "10.1017/CBO9780511482397",
+      "consultation": "notice éditoriale et sommaire ; projet de complémentarité des deux poèmes, sans consultation intégrale du livre",
+      "chapters": [
+        "theogonie-long-b01",
+        "theogonie-long-b04",
+        "theogonie-long-b12"
+      ]
+    },
+    {
+      "title": "Jenny Strauss Clay, Preface, Hesiod’s Cosmos, 2003, p. ix",
+      "url": "https://www.cambridge.org/core/books/abs/hesiods-cosmos/preface/D91D254E0DC83B7821A76228784C8E4B",
+      "doi": "10.1017/CBO9780511482397.001",
+      "consultation": "extrait/préface accessible ; identification d’un développement sur Hécate au chapitre 6, sans consultation du chapitre intégral",
+      "chapters": [
+        "theogonie-long-b01"
+      ]
+    },
+    {
+      "title": "Hésiode, Theogony. Works and Days. Testimonia, éd. et trad. Glenn W. Most, édition révisée, Harvard University Press, 2018, Loeb Classical Library 57",
+      "url": "https://catalogue.bnf.fr/ark:/12148/cb456403794",
+      "consultation": "notice bibliographique BnF ; métadonnées de l’édition vérifiées, non texte intégral",
+      "chapters": [
+        "theogonie-long-b02",
+        "theogonie-long-b10"
+      ]
+    },
+    {
+      "title": "Hésiode, Theogony, éd. avec prolégomènes et commentaire M. L. West, Oxford, Clarendon Press, 1966",
+      "url": "https://catalogue.bnf.fr/ark:/12148/cb41118126w",
+      "consultation": "notice bibliographique BnF ; édition grecque et commentaire anglais identifiés, non texte intégral",
+      "chapters": [
+        "theogonie-long-b01",
+        "theogonie-long-b02",
+        "theogonie-long-b03",
+        "theogonie-long-b04",
+        "theogonie-long-b05",
+        "theogonie-long-b06",
+        "theogonie-long-b07",
+        "theogonie-long-b08",
+        "theogonie-long-b09",
+        "theogonie-long-b10",
+        "theogonie-long-b11",
+        "theogonie-long-b12"
+      ]
+    },
+    {
+      "title": "Richard Hunter, « Introduction », The Hesiodic Catalogue of Women: Constructions and Reconstructions, Cambridge University Press, 2005, p. 1",
+      "url": "https://assets.cambridge.org/97805218/36845/excerpt/9780521836845_excerpt.pdf",
+      "consultation": "extrait universitaire de l’éditeur, p. 1, vérifié par le relecteur ; discussion du raccord de la fin transmise de la Théogonie au Catalogue des femmes",
+      "chapters": [
+        "theogonie-long-b12"
+      ]
+    }
+  ]
+}

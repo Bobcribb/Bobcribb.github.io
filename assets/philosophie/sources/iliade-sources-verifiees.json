@@ -1,0 +1,402 @@
+{
+  "date": "2026-11-04",
+  "work": "l’Iliade",
+  "sources": [
+    {
+      "title": "Homère, Iliade, chant I, traduction de Samuel Butler (1898), Internet Classics Archive, MIT",
+      "url": "https://classics.mit.edu/Homer/iliad.1.i.html",
+      "consultation": "Texte primaire, traduction ancienne du domaine public ; passages pertinents consultés pour contrôler le récit. Aucune longue citation ni traduction reproduite dans le fragment.",
+      "chapters": [
+        "iliade-long-a01",
+        "iliade-long-a02",
+        "iliade-long-a03"
+      ]
+    },
+    {
+      "title": "Homère, Iliade, chant II, traduction de Samuel Butler (1898), Internet Classics Archive, MIT",
+      "url": "https://classics.mit.edu/Homer/iliad.2.ii.html",
+      "consultation": "Texte primaire, traduction ancienne du domaine public ; passages pertinents consultés pour contrôler le récit. Aucune longue citation ni traduction reproduite dans le fragment.",
+      "chapters": [
+        "iliade-long-a04",
+        "iliade-long-a05"
+      ]
+    },
+    {
+      "title": "Homère, Iliade, chant III, traduction de Samuel Butler (1898), Internet Classics Archive, MIT",
+      "url": "https://classics.mit.edu/Homer/iliad.3.iii.html",
+      "consultation": "Texte primaire, traduction ancienne du domaine public ; passages pertinents consultés pour contrôler le récit. Aucune longue citation ni traduction reproduite dans le fragment.",
+      "chapters": [
+        "iliade-long-a06"
+      ]
+    },
+    {
+      "title": "Homère, Iliade, chant IV, traduction de Samuel Butler (1898), Internet Classics Archive, MIT",
+      "url": "https://classics.mit.edu/Homer/iliad.4.iv.html",
+      "consultation": "Texte primaire, traduction ancienne du domaine public ; passages pertinents consultés pour contrôler le récit. Aucune longue citation ni traduction reproduite dans le fragment.",
+      "chapters": [
+        "iliade-long-a06"
+      ]
+    },
+    {
+      "title": "Homère, Iliade, chant V, traduction de Samuel Butler (1898), Internet Classics Archive, MIT",
+      "url": "https://classics.mit.edu/Homer/iliad.5.v.html",
+      "consultation": "Texte primaire, traduction ancienne du domaine public ; passages pertinents consultés pour contrôler le récit. Aucune longue citation ni traduction reproduite dans le fragment.",
+      "chapters": [
+        "iliade-long-a07"
+      ]
+    },
+    {
+      "title": "Homère, Iliade, chant VI, traduction de Samuel Butler (1898), Internet Classics Archive, MIT",
+      "url": "https://classics.mit.edu/Homer/iliad.6.vi.html",
+      "consultation": "Texte primaire, traduction ancienne du domaine public ; passages pertinents consultés pour contrôler le récit. Aucune longue citation ni traduction reproduite dans le fragment.",
+      "chapters": [
+        "iliade-long-a08",
+        "iliade-long-a09"
+      ]
+    },
+    {
+      "title": "Homère, Iliade, chant VII, traduction de Samuel Butler (1898), Internet Classics Archive, MIT",
+      "url": "https://classics.mit.edu/Homer/iliad.7.vii.html",
+      "consultation": "Texte primaire, traduction ancienne du domaine public ; passages pertinents consultés pour contrôler le récit. Aucune longue citation ni traduction reproduite dans le fragment.",
+      "chapters": [
+        "iliade-long-a10"
+      ]
+    },
+    {
+      "title": "Homère, Iliade, chant VIII, traduction de Samuel Butler (1898), Internet Classics Archive, MIT",
+      "url": "https://classics.mit.edu/Homer/iliad.8.viii.html",
+      "consultation": "Texte primaire, traduction ancienne du domaine public ; passages pertinents consultés pour contrôler le récit. Aucune longue citation ni traduction reproduite dans le fragment.",
+      "chapters": [
+        "iliade-long-a11"
+      ]
+    },
+    {
+      "title": "Homère, Iliade, chant IX, traduction de Samuel Butler (1898), Internet Classics Archive, MIT",
+      "url": "https://classics.mit.edu/Homer/iliad.9.ix.html",
+      "consultation": "Texte primaire, traduction ancienne du domaine public ; passages pertinents consultés pour contrôler le récit. Aucune longue citation ni traduction reproduite dans le fragment.",
+      "chapters": [
+        "iliade-long-a12"
+      ]
+    },
+    {
+      "title": "Homère, Iliade, chant I, traduction A. T. Murray (1924–1925), réédition Theoi",
+      "url": "https://www.theoi.com/Text/HomerIliad1.html",
+      "consultation": "Texte primaire ancien avec repères de vers ; contrôle des épisodes et de la localisation des passages, sans utilisation du contenu éditorial contemporain de Theoi.",
+      "chapters": [
+        "iliade-long-a01",
+        "iliade-long-a02",
+        "iliade-long-a03"
+      ]
+    },
+    {
+      "title": "Homère, Iliade, chant II, traduction A. T. Murray (1924–1925), réédition Theoi",
+      "url": "https://www.theoi.com/Text/HomerIliad2.html",
+      "consultation": "Texte primaire ancien avec repères de vers ; contrôle des épisodes et de la localisation des passages, sans utilisation du contenu éditorial contemporain de Theoi.",
+      "chapters": [
+        "iliade-long-a04",
+        "iliade-long-a05"
+      ]
+    },
+    {
+      "title": "Homère, Iliade, chant III, traduction A. T. Murray (1924–1925), réédition Theoi",
+      "url": "https://www.theoi.com/Text/HomerIliad3.html",
+      "consultation": "Texte primaire ancien avec repères de vers ; contrôle des épisodes et de la localisation des passages, sans utilisation du contenu éditorial contemporain de Theoi.",
+      "chapters": [
+        "iliade-long-a06"
+      ]
+    },
+    {
+      "title": "Homère, Iliade, chant IV, traduction A. T. Murray (1924–1925), réédition Theoi",
+      "url": "https://www.theoi.com/Text/HomerIliad4.html",
+      "consultation": "Texte primaire ancien avec repères de vers ; contrôle des épisodes et de la localisation des passages, sans utilisation du contenu éditorial contemporain de Theoi.",
+      "chapters": [
+        "iliade-long-a06"
+      ]
+    },
+    {
+      "title": "Homère, Iliade, chant VI, traduction A. T. Murray (1924–1925), réédition Theoi",
+      "url": "https://www.theoi.com/Text/HomerIliad6.html",
+      "consultation": "Texte primaire ancien avec repères de vers ; contrôle des épisodes et de la localisation des passages, sans utilisation du contenu éditorial contemporain de Theoi.",
+      "chapters": [
+        "iliade-long-a08",
+        "iliade-long-a09"
+      ]
+    },
+    {
+      "title": "Homère, Iliade, chant VII, traduction A. T. Murray (1924–1925), réédition Theoi",
+      "url": "https://www.theoi.com/Text/HomerIliad7.html",
+      "consultation": "Texte primaire ancien avec repères de vers ; contrôle des épisodes et de la localisation des passages, sans utilisation du contenu éditorial contemporain de Theoi.",
+      "chapters": [
+        "iliade-long-a10"
+      ]
+    },
+    {
+      "title": "Homère, Iliade, chant VIII, traduction A. T. Murray (1924–1925), réédition Theoi",
+      "url": "https://www.theoi.com/Text/HomerIliad8.html",
+      "consultation": "Texte primaire ancien avec repères de vers ; contrôle des épisodes et de la localisation des passages, sans utilisation du contenu éditorial contemporain de Theoi.",
+      "chapters": [
+        "iliade-long-a11"
+      ]
+    },
+    {
+      "title": "Homère, Iliade, chant IX, traduction A. T. Murray (1924–1925), réédition Theoi",
+      "url": "https://www.theoi.com/Text/HomerIliad9.html",
+      "consultation": "Texte primaire ancien avec repères de vers ; contrôle des épisodes et de la localisation des passages, sans utilisation du contenu éditorial contemporain de Theoi.",
+      "chapters": [
+        "iliade-long-a12"
+      ]
+    },
+    {
+      "title": "G. S. Kirk, The Iliad: A Commentary, volume I, Books 1–4, Cambridge University Press, 1985",
+      "url": "https://www.cambridge.org/core/books/the-iliad-a-commentary/5CBDC7ECD4CBC21CD5FAFB7B566081BF",
+      "consultation": "Notice bibliographique et description éditoriale seulement ; l’intégralité du commentaire n’a pas été consultée et aucune thèse précise ne lui est attribuée.",
+      "chapters": [
+        "iliade-long-a01",
+        "iliade-long-a02",
+        "iliade-long-a03",
+        "iliade-long-a04",
+        "iliade-long-a05",
+        "iliade-long-a06"
+      ]
+    },
+    {
+      "title": "G. S. Kirk, The Iliad: A Commentary, volume II, Books 5–8, Cambridge University Press, 1990",
+      "url": "https://www.cambridge.org/core/books/iliad-a-commentary/A57F2C6E27C6C8A3D1C5EE13B21D683C",
+      "consultation": "Notice bibliographique et description éditoriale seulement ; référence proposée pour approfondir les questions philologiques, non preuve d’une lecture intégrale.",
+      "chapters": [
+        "iliade-long-a07",
+        "iliade-long-a08",
+        "iliade-long-a09",
+        "iliade-long-a10",
+        "iliade-long-a11"
+      ]
+    },
+    {
+      "title": "Bryan Hainsworth, The Iliad: A Commentary, volume III, Books 9–12, Cambridge University Press, 1993",
+      "url": "https://www.cambridge.org/core/books/iliad-a-commentary/493EC57505993DD567403F51779F860A",
+      "consultation": "Notice bibliographique ; confirmation de l’auteur, du titre, de la date et du périmètre du volume.",
+      "chapters": [
+        "iliade-long-a12"
+      ]
+    },
+    {
+      "title": "Bryan Hainsworth, « Book 9 », The Iliad: A Commentary, volume III, 1993, p. 55–150, DOI 10.1017/CBO9780511518386.004",
+      "url": "https://www.cambridge.org/core/books/abs/iliad-a-commentary/book-9/D334CD919892DA0747787236CE9B13AA",
+      "consultation": "Extrait académique public effectivement lu. Utilisé uniquement pour la remarque sur l’importance morale du chant IX et les difficultés de son articulation à certains passages ultérieurs. Reformulation brève, aucune citation verbatim. Le reste du chapitre de commentaire n’a pas été consulté.",
+      "chapters": [
+        "iliade-long-a12"
+      ]
+    },
+    {
+      "title": "Seth L. Schein, The Mortal Hero: An Introduction to Homer’s Iliad, University of California Press, édition brochée 1985",
+      "url": "https://www.ucpress.edu/books/the-mortal-hero",
+      "consultation": "Notice bibliographique et extrait de préface sur la démarche d’interprétation littéraire ; référence complémentaire pour bibliographie générale, sans attribution de thèses détaillées.",
+      "chapters": [
+        "iliade-long-a01",
+        "iliade-long-a07",
+        "iliade-long-a09",
+        "iliade-long-a12"
+      ]
+    },
+    {
+      "title": "Gregory Nagy, The Best of the Achaeans: Concepts of the Hero in Archaic Greek Poetry, première édition 1979, édition révisée présentée par le CHS comme 1999",
+      "url": "https://chs.harvard.edu/book/nagy-gregory-the-best-of-the-achaeans-concepts-of-the-hero-in-archaic-greek-poetry/",
+      "consultation": "Notice universitaire de l’édition numérique ; référence bibliographique générale pour le statut du héros et la poésie archaïque. Ne prétend pas à une consultation intégrale de l’ouvrage.",
+      "chapters": [
+        "iliade-long-a01",
+        "iliade-long-a03",
+        "iliade-long-a05",
+        "iliade-long-a12"
+      ]
+    },
+    {
+      "title": "Homère, Iliade, chant X, traduction Samuel Butler (1898)",
+      "url": "https://classics.mit.edu/Homer/iliad.10.x.html",
+      "consultation": "texte primaire : traduction ancienne du domaine public, passages narratifs contrôlés ; références de vers données selon la numérotation grecque usuelle",
+      "chapters": [
+        "iliade-long-b01"
+      ],
+      "usage": "Vérification des épisodes ; analyse et paraphrase françaises originales, aucune longue citation copiée."
+    },
+    {
+      "title": "Homère, Iliade, chant XI, traduction Samuel Butler (1898)",
+      "url": "https://classics.mit.edu/Homer/iliad.11.xi.html",
+      "consultation": "texte primaire : traduction ancienne du domaine public, passages narratifs contrôlés ; références de vers données selon la numérotation grecque usuelle",
+      "chapters": [
+        "iliade-long-b02"
+      ],
+      "usage": "Vérification des épisodes ; analyse et paraphrase françaises originales, aucune longue citation copiée."
+    },
+    {
+      "title": "Homère, Iliade, chant XII, traduction Samuel Butler (1898)",
+      "url": "https://classics.mit.edu/Homer/iliad.12.xii.html",
+      "consultation": "texte primaire : traduction ancienne du domaine public, passages narratifs contrôlés ; références de vers données selon la numérotation grecque usuelle",
+      "chapters": [
+        "iliade-long-b03"
+      ],
+      "usage": "Vérification des épisodes ; analyse et paraphrase françaises originales, aucune longue citation copiée."
+    },
+    {
+      "title": "Homère, Iliade, chant XIII, traduction Samuel Butler (1898)",
+      "url": "https://classics.mit.edu/Homer/iliad.13.xiii.html",
+      "consultation": "texte primaire : traduction ancienne du domaine public, passages narratifs contrôlés ; références de vers données selon la numérotation grecque usuelle",
+      "chapters": [
+        "iliade-long-b04"
+      ],
+      "usage": "Vérification des épisodes ; analyse et paraphrase françaises originales, aucune longue citation copiée."
+    },
+    {
+      "title": "Homère, Iliade, chant XIV, traduction Samuel Butler (1898)",
+      "url": "https://classics.mit.edu/Homer/iliad.14.xiv.html",
+      "consultation": "texte primaire : traduction ancienne du domaine public, passages narratifs contrôlés ; références de vers données selon la numérotation grecque usuelle",
+      "chapters": [
+        "iliade-long-b05"
+      ],
+      "usage": "Vérification des épisodes ; analyse et paraphrase françaises originales, aucune longue citation copiée."
+    },
+    {
+      "title": "Homère, Iliade, chant XV, traduction Samuel Butler (1898)",
+      "url": "https://classics.mit.edu/Homer/iliad.15.xv.html",
+      "consultation": "texte primaire : traduction ancienne du domaine public, passages narratifs contrôlés ; références de vers données selon la numérotation grecque usuelle",
+      "chapters": [
+        "iliade-long-b06"
+      ],
+      "usage": "Vérification des épisodes ; analyse et paraphrase françaises originales, aucune longue citation copiée."
+    },
+    {
+      "title": "Homère, Iliade, chant XVI, traduction Samuel Butler (1898)",
+      "url": "https://classics.mit.edu/Homer/iliad.16.xvi.html",
+      "consultation": "texte primaire : traduction ancienne du domaine public, passages narratifs contrôlés ; références de vers données selon la numérotation grecque usuelle",
+      "chapters": [
+        "iliade-long-b07"
+      ],
+      "usage": "Vérification des épisodes ; analyse et paraphrase françaises originales, aucune longue citation copiée."
+    },
+    {
+      "title": "Homère, Iliade, chant XVII, traduction Samuel Butler (1898)",
+      "url": "https://classics.mit.edu/Homer/iliad.17.xvii.html",
+      "consultation": "texte primaire : traduction ancienne du domaine public, passages narratifs contrôlés ; références de vers données selon la numérotation grecque usuelle",
+      "chapters": [
+        "iliade-long-b08"
+      ],
+      "usage": "Vérification des épisodes ; analyse et paraphrase françaises originales, aucune longue citation copiée."
+    },
+    {
+      "title": "Homère, Iliade, chant XVIII, traduction Samuel Butler (1898)",
+      "url": "https://classics.mit.edu/Homer/iliad.18.xviii.html",
+      "consultation": "texte primaire : traduction ancienne du domaine public, passages narratifs contrôlés ; références de vers données selon la numérotation grecque usuelle",
+      "chapters": [
+        "iliade-long-b09"
+      ],
+      "usage": "Vérification des épisodes ; analyse et paraphrase françaises originales, aucune longue citation copiée."
+    },
+    {
+      "title": "Homère, Iliade, chant XIX, traduction Samuel Butler (1898)",
+      "url": "https://classics.mit.edu/Homer/iliad.19.xix.html",
+      "consultation": "texte primaire : traduction ancienne du domaine public, passages narratifs contrôlés ; références de vers données selon la numérotation grecque usuelle",
+      "chapters": [
+        "iliade-long-b10"
+      ],
+      "usage": "Vérification des épisodes ; analyse et paraphrase françaises originales, aucune longue citation copiée."
+    },
+    {
+      "title": "Homère, Iliade, chant XX, traduction Samuel Butler (1898)",
+      "url": "https://classics.mit.edu/Homer/iliad.20.xx.html",
+      "consultation": "texte primaire : traduction ancienne du domaine public, passages narratifs contrôlés ; références de vers données selon la numérotation grecque usuelle",
+      "chapters": [
+        "iliade-long-b10"
+      ],
+      "usage": "Vérification des épisodes ; analyse et paraphrase françaises originales, aucune longue citation copiée."
+    },
+    {
+      "title": "Homère, Iliade, chant XXI, traduction Samuel Butler (1898)",
+      "url": "https://classics.mit.edu/Homer/iliad.21.xxi.html",
+      "consultation": "texte primaire : traduction ancienne du domaine public, passages narratifs contrôlés ; références de vers données selon la numérotation grecque usuelle",
+      "chapters": [
+        "iliade-long-b10"
+      ],
+      "usage": "Vérification des épisodes ; analyse et paraphrase françaises originales, aucune longue citation copiée."
+    },
+    {
+      "title": "Homère, Iliade, chant XXII, traduction Samuel Butler (1898)",
+      "url": "https://classics.mit.edu/Homer/iliad.22.xxii.html",
+      "consultation": "texte primaire : traduction ancienne du domaine public, passages narratifs contrôlés ; références de vers données selon la numérotation grecque usuelle",
+      "chapters": [
+        "iliade-long-b11"
+      ],
+      "usage": "Vérification des épisodes ; analyse et paraphrase françaises originales, aucune longue citation copiée."
+    },
+    {
+      "title": "Homère, Iliade, chant XXIII, traduction Samuel Butler (1898)",
+      "url": "https://classics.mit.edu/Homer/iliad.23.xxiii.html",
+      "consultation": "texte primaire : traduction ancienne du domaine public, passages narratifs contrôlés ; références de vers données selon la numérotation grecque usuelle",
+      "chapters": [
+        "iliade-long-b11"
+      ],
+      "usage": "Vérification des épisodes ; analyse et paraphrase françaises originales, aucune longue citation copiée."
+    },
+    {
+      "title": "Homère, Iliade, chant XXIV, traduction Samuel Butler (1898)",
+      "url": "https://classics.mit.edu/Homer/iliad.24.xxiv.html",
+      "consultation": "texte primaire : traduction ancienne du domaine public, passages narratifs contrôlés ; références de vers données selon la numérotation grecque usuelle",
+      "chapters": [
+        "iliade-long-b12"
+      ],
+      "usage": "Vérification des épisodes ; analyse et paraphrase françaises originales, aucune longue citation copiée."
+    },
+    {
+      "title": "Casey Dué et Mary Ebbott, Iliad 10 and the Poetics of Ambush: A Multitext Edition with Essays and Commentary (2010)",
+      "url": "https://www-current.chs.harvard.edu/book/due-casey-and-ebbott-mary-iliad-10-and-the-poetics-of-ambush/",
+      "consultation": "notice bibliographique et résumé éditorial CHS, non consultation intégrale de l’ouvrage",
+      "chapters": [
+        "iliade-long-b01"
+      ],
+      "usage": "Distinction entre cohérence de la poésie orale traditionnelle et jugement moral ; environ cent mots dérivés, aucune citation verbatim."
+    },
+    {
+      "title": "Richard Janko, The Iliad: A Commentary, IV, Books 13–16 (1991), chapitre Book 13",
+      "url": "https://www.cambridge.org/core/books/abs/iliad-a-commentary/book-13/299B4972D26099FB2724372829658E09",
+      "consultation": "notice bibliographique et résumé du chapitre, non consultation intégrale du commentaire",
+      "chapters": [
+        "iliade-long-b04"
+      ],
+      "usage": "Fonction de délai et espace de valeur achéenne permis par le regard détourné de Zeus ; environ quatre-vingt-dix mots dérivés."
+    },
+    {
+      "title": "Richard Janko, The Iliad: A Commentary, IV, Book 14, p. 149–224",
+      "url": "https://doi.org/10.1017/CBO9780511620249.007",
+      "consultation": "notice bibliographique Cambridge ; référence d’orientation, aucun argument attribué au texte non consulté",
+      "chapters": [
+        "iliade-long-b05"
+      ]
+    },
+    {
+      "title": "Gregory Nagy, The Shield of Achilles, version de travail mise en ligne ; version initiale dans New Light on a Dark Age, 1997, p. 194–207",
+      "url": "https://cyber.harvard.edu/heroes/content/cybershield2.html",
+      "consultation": "texte universitaire consulté, notamment discussion de la compensation et du droit de refuser le paiement",
+      "chapters": [
+        "iliade-long-b09"
+      ],
+      "usage": "Environ soixante mots d’attribution directe ; débat de compensation dans deux paragraphes généraux, total dérivé inférieur à 200 mots."
+    },
+    {
+      "title": "Sima Avramović, Blood-Money in Homer – Role of istor in the Trial Scene on the Shield of Achilles (Il. 18, 497–508), Zbornik Pravnog fakulteta u Zagrebu 67/5 (2017), p. 723–756",
+      "url": "https://hrcak.srce.hr/en/189805?lang=en",
+      "consultation": "résumé universitaire et extraits indexés du texte ; consultation ciblée sur la diversité des interprétations du procès",
+      "chapters": [
+        "iliade-long-b09"
+      ],
+      "usage": "État d’une controverse, sans adoption d’une reconstruction juridique certaine."
+    },
+    {
+      "title": "Claire-Françoise de Roguin, Quand le divin Achille se met à penser : colère, désespoir et pitié dans l’Iliade, Revue de l’histoire des religions 225/2 (2008), p. 223–241",
+      "url": "https://www.revues.armand-colin.com/histoire/revue-lhistoire-religions/revue-lhistoire-religions-tome-225-22008/quand-divin-achille-se-met-penser-colere-desespoir-pitie-liliade",
+      "doi": "10.4000/rhr.6073",
+      "consultation": "notice et résumé éditorial consultés ; accès PDF OpenEdition bloqué par Anubis, article intégral non consulté",
+      "chapters": [
+        "iliade-long-b12"
+      ],
+      "usage": "Environ cent mots d’attribution et de discussion ; rôle de la réflexion et des funérailles, sans supposer une conversion morale automatique."
+    }
+  ]
+}

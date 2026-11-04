@@ -1,0 +1,278 @@
+{
+  "description": "État de main 973af8cf0f9786c5dceb48d0229cc612cfa7910a avant extension; espaces normalisés seulement. Les trois figures ajoutées concurremment sont conservées.",
+  "sources": {
+    "iliade": {
+      "git_blob": "505d476367cc9415777dbc50153a48ec80ab6724",
+      "sections": {
+        "partie-1": "9fdba91a149d8cc03612fedc255005c98e621df88d7dbf1cf573110e3768373c",
+        "partie-2": "f4cf2a8ada6add45440085f82446d9d20b4e49602446cacccba33085ee622271",
+        "partie-3": "0c2fc90ec585aef9082cad9434300346c5767b7e24621b84f6db9c0f5f755f5c",
+        "partie-4": "1ba8fc8a7afae20e1bbf7ac9e094b2794b4da3a47203515f136e4a579b54b65d",
+        "partie-5": "c748d74b3f39768854e16b4cd3637a8bf98258dc9b4f88b6477034ad4a8d774a",
+        "partie-6": "884f1b14fb1864e6210c97665e0ebf9ca0b211d18b239bb34402e4cb2d1e595c",
+        "partie-7": "422e83a9f2885b1d5536e0ca16d1c5fd931a731ae5e959cbf791c18d93e14253",
+        "partie-8": "1bfacba84f3817ed6fe7f10290d8d1e4cbd1dd6d07e7ce4f656cbb56609e655b",
+        "partie-9": "72656adc5335153417e62e3207f2395b6a9886afc75b7971bc64f2690f731320",
+        "partie-10": "e4d2d55da2cb39f94b0e540818e85d645ffbe6f63ac7f45b742b407cfc57c27f",
+        "partie-11": "7d4b583df0c70ba006f208e0b8f8ea44b18098a25f070a609ea276efbb0bbdf3",
+        "partie-12": "6c674fdcebce40b74c371441c89d164e745d40d8f90abf54ad85a6963df02a3e"
+      },
+      "figures": [
+        {
+          "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Walls_of_Troy_(1).jpg?width=1200",
+          "alt": "Vestiges des murailles de Troie VI près de la porte orientale, sur le site archéologique de Hisarlık en Turquie.",
+          "caption_sha256": "84031c007fd0c02edf130d445482af693ccbb079fe99f16018ba18a1070585e2"
+        },
+        {
+          "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Hektor%20ransom%20BM%20E75.jpg?width=1100",
+          "alt": "Priam aux portes de la tente d’Achille",
+          "caption_sha256": "0680b17dd41134ab20791047f4c88618cb3d68b81c71a9f46fa590ed5053c786"
+        },
+        {
+          "src": "/assets/philosophie/iliade-menis-communaute.svg",
+          "alt": "Trois étapes de la mênis : offense d'honneur infligée à Achille, retrait du combat, crise de l'armée achéenne.",
+          "caption_sha256": "8ca9ae5e9e51d62bb3158cb1707807968c3cfbded87647b01bd3abf8b8955d35"
+        },
+        {
+          "src": "/assets/philosophie/iliade-deliberation-athena.svg",
+          "alt": "Schéma en trois étapes : colère d’Achille contre Agamemnon, intervention d’Athéna, décision de ne pas frapper.",
+          "caption_sha256": "1b0db4fed4003a6c46d59644665e43942b7ec1d5d11033fe54aa3f41fec915cb"
+        },
+        {
+          "src": "/assets/philosophie/iliade-assemblee-rang.svg",
+          "alt": "Schéma en quatre étapes : autorité d’Agamemnon, réaction de l’armée, intervention d’Ulysse et contestation de Thersite.",
+          "caption_sha256": "fb477bdd563ede4d3a781b8ce9242b4535d97b20f7e3517ddd4415ac32de1492"
+        },
+        {
+          "src": "/assets/philosophie/iliade-time-kleos.svg",
+          "alt": "Schéma comparatif : timê, honneur présent, et kleos, renommée transmise ; la mortalité rend ces deux valeurs problématiques.",
+          "caption_sha256": "a128b4c042c22a877f3514707a67b957b4da8503d6ef46795ff0144de8c3909c"
+        },
+        {
+          "src": "/assets/philosophie/iliade-achille-deux-destins.svg",
+          "alt": "Tableau comparatif des deux destins d’Achille : courte vie et gloire à Troie ou longue vie et renommée moindre en Phthie.",
+          "caption_sha256": "ff79eafc0f222b3d03d46122ba2900092acc7a127cbf0f899090e6aeddde86f1"
+        },
+        {
+          "src": "/assets/philosophie/iliade-hector-andromaque.svg",
+          "alt": "Trois pôles de la responsabilité d'Hector : attachement à Andromaque et Astyanax, défense de Troie, devoirs incompatibles sans perte.",
+          "caption_sha256": "26309a7bc71d9a747a1021eac1bdfa5b38855daf1ec664e1b00a1da6a93a46c1"
+        },
+        {
+          "src": "/assets/philosophie/iliade-patrocle-deuil.svg",
+          "alt": "Diagramme : Patrocle porte les armes d’Achille, meurt au combat, Achille éprouve deuil et culpabilité puis retourne combattre.",
+          "caption_sha256": "5b9a973bc70fff0ecca696ee1fff6297c1b32b129d2293c1e1c959caaa0a5795"
+        },
+        {
+          "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Achilles%20Hector%20Louvre%20G153.jpg?width=1100",
+          "alt": "Achille et le corps d’Hector",
+          "caption_sha256": "44f17dc7de9a5b61ae3a2b2e7183f6588c81a5fb9ba4043356edc341e32797b4"
+        },
+        {
+          "src": "/assets/philosophie/iliade-bouclier-monde.svg",
+          "alt": "Schéma conceptuel, non restitution archéologique : cosmos, deux cités en paix ou en guerre, travaux agricoles et danses ; l’Océan borde le bouclier.",
+          "caption_sha256": "ec37d75e5f97ce4ad45b8b6a54f04b825d87ca87e205571da03518c73b17fd25"
+        },
+        {
+          "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Akhilleus%20Hektor%20Louvre%20CA601.jpg?width=1100",
+          "alt": "Achille traînant le corps d’Hector",
+          "caption_sha256": "5046d10505fad2da0bfad86d4232e3e930506f78e7ed51c0bdffb2c58ac80915"
+        },
+        {
+          "src": "/assets/philosophie/iliade-parcours-ethique.svg",
+          "alt": "Diagramme en quatre moments : colère d’Achille (chant I), alternative entre durée de vie et gloire (IX), outrage au corps d’Hector (XXII), rencontre avec Priam (XXIV).",
+          "caption_sha256": "4e909977b39179fbfba3a9b6d69610f9cf5b0d2e71c4fdbf23c5b082addd463e"
+        },
+        {
+          "src": "/assets/philosophie/iliade-receptions-homere.svg",
+          "alt": "Schéma des lectures successives de l’Iliade : récit homérique, critique de Platon et réflexion poétique d’Aristote.",
+          "caption_sha256": "6c8573360a21aeed6ab1140d4b6c71b3319079d015d2dbcdb8347744d387fd12"
+        }
+      ]
+    },
+    "odyssee": {
+      "git_blob": "99a25d86e023e7c1d27a5dc90613f975eb741940",
+      "sections": {
+        "partie-1": "9501442817efdf30820777a2feb90ccd0557064dbb3e2713b1efc20fe9e36094",
+        "partie-2": "5e83e7414a903ed9e7191d337ff0d58b7de72e4d5a6aca5aedf3cbf8118c2c25",
+        "partie-3": "45237fc1755c88fadd4414cdc176077cbd2dffa2c18b4e03c8196801ef00cbc3",
+        "partie-4": "8b47fb64f7c7e5b74e2fdc0b0656552143a24d69fae1216bf8a35218b4be8bf5",
+        "partie-5": "870426c4d3b0a7b9c44ea57067a9cdb61d6cb0d68194553fda2a4afa2193904f",
+        "partie-6": "f98bd6b15dee530f8d5049c2273dadfd3958782af642b755163076f47efac98c",
+        "partie-7": "f370c2a84b8ac3ccec378aa9182f384b5aacd3f178fbb4cb4978ca7fcc3e312d",
+        "partie-8": "2649d72c5449471d54c78103f40eb13c731700a00c7e12db48a24ae2d22386f9",
+        "partie-9": "e05f2f00bc2c41ddd469adb0ac26b0c220abb3630822425452e0fd237723752e",
+        "partie-10": "0fd351c0fe70639a5d3c99787802ba08810049e9a9d092e7d7a5370d56ba1cfc",
+        "partie-11": "11b10be357b7cfd1e1107a127e9c3e1a16d778ad311eb8005a61e626a46e0413",
+        "partie-12": "adada0c3a9e045511b59ca5e9e026037b681326807d7bb7f992bc3743df51a41"
+      },
+      "figures": [
+        {
+          "src": "/assets/philosophie/odyssee-polytropos-identites.svg",
+          "alt": "Schéma en trois volets des détours d’Ulysse : errance géographique, métis et identités relationnelles.",
+          "caption_sha256": "d2187d0589570b15beec9bd7f8368080169722470921f74f1b97ddf6df9b65f0"
+        },
+        {
+          "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Palace_of_Nestor_ruins_(4).jpg?width=1200",
+          "alt": "Vestiges du palais mycénien de Pylos à Ano Englianos en Messénie, associés par tradition au roi Nestor de l’Odyssée.",
+          "caption_sha256": "ace9e8f9557ca095e937476a12a3857332e257532d1f13b72985335adb2d5e62"
+        },
+        {
+          "src": "/assets/philosophie/odyssee-telemachie-memoire.svg",
+          "alt": "Schéma des trois dimensions de la Télémachie : absence du père, enquête auprès de Nestor et Ménélas, action et parole du fils.",
+          "caption_sha256": "42777675b0c015c4610dcb318701bef01d9babbca9bae1ae2671367ce1d9715a"
+        },
+        {
+          "src": "/assets/philosophie/odyssee-xenia-ethique.svg",
+          "alt": "Schéma sur l'hospitalité : les Phéaciens accueillent le voyageur, Polyphème transgresse la xenia, soulignant la protection de l'étranger.",
+          "caption_sha256": "94da6ee8f1e1bcb334b765053b4290a10e92dc861e1818e6343e68da6f44c43f"
+        },
+        {
+          "src": "/assets/philosophie/odyssee-calypso-finitude.svg",
+          "alt": "Deux options philosophiques : immortalité auprès de Calypso et éloignement d’Ithaque, ou retour à Ithaque avec une vie mortelle et des liens humains.",
+          "caption_sha256": "469cbb5a15068b94232c8bab366b3d782d351c75ddb6f83a1efd7486719678c8"
+        },
+        {
+          "src": "/assets/philosophie/odyssee-pheaciens-recits.svg",
+          "alt": "Schéma montrant le chant de Démodocos, les larmes d’Ulysse, son récit aux Phéaciens et la préparation du retour.",
+          "caption_sha256": "dee76769c570759aa22e05b7fa6852073105011872f533489faedfa925f59b94"
+        },
+        {
+          "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Cyclops%20and%20Odysseus%20vase%20painting.svg?width=1050",
+          "alt": "Ulysse et le Cyclope",
+          "caption_sha256": "58cf5d7c8259d34d5b0c35e74acd39debbd9687d02b05bacda90dd70af4a286c"
+        },
+        {
+          "src": "/assets/philosophie/odyssee-circe-humanite.svg",
+          "alt": "Schéma des compagnons transformés en porcs, de l’aide d’Hermès à Ulysse, de la négociation avec Circé et de la restauration de leur forme.",
+          "caption_sha256": "b71dfa45b85ca1cb18edfde0d5abc7ff97a42a36b8853bd31457511771ab6d37"
+        },
+        {
+          "src": "/assets/philosophie/odyssee-achille-hades.svg",
+          "alt": "Trois moments : la gloire posthume du héros, la préférence exprimée par Achille pour une vie humble, la question de la valeur de la vie.",
+          "caption_sha256": "5a5852b6c1ffd90c496b11fe2928e17973be407844c3fbadab77df5e3fb1c5fd"
+        },
+        {
+          "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Odysseus%20Sirens%20BM%20E440%20n2.jpg?width=1050",
+          "alt": "Ulysse et les Sirènes",
+          "caption_sha256": "6cba77338f8dca6293f19bd4c9b0b6a5c168383ea842a7d8c052917f11e48f99"
+        },
+        {
+          "src": "/assets/philosophie/odyssee-deguisement-reconnaissance.svg",
+          "alt": "Diagramme montrant le déguisement d’Ulysse en mendiant, l’épreuve de ses proches et la reconnaissance par la cicatrice et le lit conjugal.",
+          "caption_sha256": "fde2d13c483401636e80a655551cbeb1da2c0e1fd8c9057ed54230976c2a584f"
+        },
+        {
+          "src": "/assets/philosophie/odyssee-identite-reconnaissance.svg",
+          "alt": "Diagramme en quatre moments : Calypso et la condition mortelle (chant V), ruse de Personne (IX), cicatrice reconnue par Euryclée (XIX), secret du lit de Pénélope (XXIII).",
+          "caption_sha256": "3766549537abd93f032c573f0e79e1c9787e394b5608228b7b654bbf6aa3f8d9"
+        },
+        {
+          "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Odysseus%20slays%20the%20suitors%20of%20his%20wife%20Penelope%20(Skyphos%20pot).jpg?width=1050",
+          "alt": "La mise à mort des prétendants",
+          "caption_sha256": "079f0d8b719b75f102c84790d28f42eeefd2376b1afdc1ffbf1e756fa2edc93e"
+        }
+      ]
+    },
+    "theogonie": {
+      "git_blob": "12ed1c7e3f2713d409a72eca09f1ebb9eb258a01",
+      "sections": {
+        "partie-1": "002682b1103d4628ca6c12be87f9bb49ec5a1d050641f281b04c2092d43c3542",
+        "partie-2": "97788ab99cdadb07cc3f28adb9a369fc18f7ccc509c502816c15bcbe115820c2",
+        "partie-3": "8e9df36156a1d4eed540850b102215f4c7f3aff1c08bc991168d0673da69848c",
+        "partie-4": "6622c7fd4de75fe196d5279f263801e808af8be77156c30f4d293343a243927d",
+        "partie-5": "1c8d63b8c68134ae24c615919f7c90e697cade6faac83c4173a7f2be39df9d14",
+        "partie-6": "6730ca5fa1ffc70fc54c3493e8ea34d98b0f9d64410721b98b268f61c0a92ffc",
+        "partie-7": "8c6f38198e845e9f97f5bd125c6b5832d7d7e7d4cf98a2cdf3c666b525c4fc50",
+        "partie-8": "a52fad3906199bbb55efbbb948204caf9152e8d568e3fc4a67b9e712f66215ae",
+        "partie-9": "aea53fe79024f2e27bfe547f630020c210fddde65fb83b0bc8dd8f0d6bff2551",
+        "partie-10": "de81528963e0499b01164916f3a7011a40c3d215e50454dc5a35c946c2f7276e",
+        "partie-11": "b63c532d7e2bed3b79b54dab2d825b1a9672f4be08ab5bd82fa721d081fa974f",
+        "partie-12": "bd04b1c6af2de3876fd4c172a8fde9de098db43bb0aa981818e2eba66c52a694",
+        "partie-13": "6a3040478b81753b52441569711e5eeb3a5d2e2fa8196745a17d4e2566988040"
+      },
+      "figures": [
+        {
+          "src": "/assets/philosophie/theogonie-genealogie-divine.svg",
+          "alt": "Schéma de la généalogie divine chez Hésiode : nommer les puissances, relier les filiations et ordonner les domaines.",
+          "caption_sha256": "e60c06f88033e12d343d8baccf6d2248b2262eab5fdcd797570ae0a393a1f767"
+        },
+        {
+          "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Hippocrenesource.jpg?width=1200",
+          "alt": "Source Hippocrène sur le mont Hélicon en Béotie, paysage associé aux Muses dans le proème de la Théogonie.",
+          "caption_sha256": "76331e145af2fae74de02b4a82e1e0c5f0aa4a81efb3afd4276be8d8cb6ecf0d"
+        },
+        {
+          "src": "/assets/philosophie/theogonie-muses-verite.svg",
+          "alt": "Trois aspects de la parole des Muses : discours trompeur ressemblant à la vérité, parole vraie, autorité de l'inspiration.",
+          "caption_sha256": "2055c3a674120be2c1496677d9d950547db0e30fa44e8e735f310610f8241c33"
+        },
+        {
+          "src": "/assets/philosophie/theogonie-puissances-primordiales.svg",
+          "alt": "Schéma interprétatif des puissances primordiales : Chaos comme béance, Gaïa comme assise cosmique, Tartare comme profondeur et Éros comme puissance d’union.",
+          "caption_sha256": "031cc73464d14718c5be5265c94cbc06601173a82b2d7e2902f37b395b60186d"
+        },
+        {
+          "src": "/assets/philosophie/theogonie-gaia-ouranos.svg",
+          "alt": "Schéma en quatre étapes : génération par Gaïa, enfermement par Ouranos, intervention de Cronos et ouverture de la succession.",
+          "caption_sha256": "ec734e690ff01940d78cc3a7dc95c8226b024410b76c5d4768a7c3707d5802b2"
+        },
+        {
+          "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Rhea%20handing%20a%20swaddled%20stone%20to%20Cronus%2C%20Attic%20terracotta%20pelike%2C%20c.%20460%E2%80%93450%20BC%2C%20Met%2006.1021.144.jpg?width=1100",
+          "alt": "Rhéa remet la pierre à Cronos",
+          "caption_sha256": "92d7dfebe2097d692c0087f58f49e81978131f388997dc4c2835743bc59de46e"
+        },
+        {
+          "src": "/assets/philosophie/theogonie-souverainete.svg",
+          "alt": "Schéma comparatif : Ouranos bloque sa descendance, Cronos dévore ses enfants, Zeus stabilise sa souveraineté par la victoire et la répartition des honneurs.",
+          "caption_sha256": "6d1f4a7dbd8371f877f4a2b194adcefe62d5ef3eda832c5761ee2aff9cfa7c15"
+        },
+        {
+          "src": "/assets/philosophie/theogonie-aphrodite-traditions.svg",
+          "alt": "Comparaison de la naissance d’Aphrodite chez Hésiode à partir d’Ouranos et de sa filiation Zeus-Dioné chez Homère.",
+          "caption_sha256": "d37fc3fdfe74763671eec636cb8b3196919b79d1b61eed403e35bbbc3e0cf78d"
+        },
+        {
+          "src": "/assets/philosophie/theogonie-nyx-personnifications.svg",
+          "alt": "Schéma de quatre descendants de Nyx : Hypnos, Thanatos, Oizys et Éris, représentant sommeil, mort, affliction et discorde.",
+          "caption_sha256": "b3dd7c15e0aba9c53305543f52fcac8adabd9f06c03c7cb10963ade041469b67"
+        },
+        {
+          "src": "/assets/philosophie/theogonie-promethee-sacrifice.svg",
+          "alt": "Trois moments du récit de Prométhée : ruse du partage sacrificiel, retrait puis restitution du feu, conséquences pour la condition humaine.",
+          "caption_sha256": "8dfd6c01d568812fd13ee41e30f4865b2d1dae397917d484d3ff70221828ca07"
+        },
+        {
+          "src": "/assets/philosophie/theogonie-titanomachie-allies.svg",
+          "alt": "Schéma de la Titanomachie : les alliances de Zeus, la bataille contre les Titans, leur chute et la stabilisation d’un ordre.",
+          "caption_sha256": "d0cf4211f41dfa3d6b82ecd67e832a80a7edd9fd51b9c38783d01ed49eb5cfc4"
+        },
+        {
+          "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Zeus%20Typhon%20Staatliche%20Antikensammlungen%20596.jpg?width=1100",
+          "alt": "Zeus affrontant Typhon",
+          "caption_sha256": "3a22f02a5cbb5195956e4856574287687fe0da4d9e1df2a3c38aad1b8c3e9d74"
+        },
+        {
+          "src": "/assets/philosophie/theogonie-succession-pouvoir.svg",
+          "alt": "Diagramme comparant la naissance des puissances primordiales, le règne d’Ouranos, la ruse contre Cronos et la distribution des honneurs sous Zeus.",
+          "caption_sha256": "145c787f56825e2a5f9b6287f20ec8eb79153bea7c5551265cd02f279215a21d"
+        },
+        {
+          "src": "/assets/philosophie/theogonie-zeus-metis.svg",
+          "alt": "Schéma interprétatif : prédiction d’une succession, ingestion de Métis enceinte par Zeus, incorporation de l’intelligence et consolidation du pouvoir.",
+          "caption_sha256": "0c5c957070e661f1a68a48a4ad5335f9e2a61d83e3af235a86a4b74438043253"
+        },
+        {
+          "src": "/assets/philosophie/theogonie-themis-horai.svg",
+          "alt": "Généalogie schématique : union de Zeus et Thémis, naissance des Heures Eunomia, Dikè et Eirènè, notions d’ordre, justice et paix.",
+          "caption_sha256": "095b4dda0f98e50af09fc4e580af26435a4b8482add8a5984cab53b841cefa14"
+        },
+        {
+          "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Enuma%20Elish%20K.3473.jpg?width=1100",
+          "alt": "Fragment du récit babylonien Enūma eliš",
+          "caption_sha256": "1b657bc7b0e12522fbeda9053510bb5b20fc6fd45a9d63aa57b599fd3da9416f"
+        }
+      ]
+    }
+  }
+}

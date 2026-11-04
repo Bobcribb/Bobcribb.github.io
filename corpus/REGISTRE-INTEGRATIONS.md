@@ -182,3 +182,48 @@ Cette livraison appartient à la **série de suivi** des *Origines du sacré*. L
 **Contrôle de cohérence :** 55 liens distincts vers les chapitres de la série encyclopédique ; 145 chemins locaux uniques du portail ont été confrontés aux fichiers de la branche principale, sans cible absente ; huit rubriques d'ancrage, aucun identifiant HTML dupliqué. Le visuel de bannière statue à gauche / temple à droite est un SVG éditorial, distinct des objets archéologiques. Page responsive et recherche locale des chapitres. L'intégration dans l'HTML public après déploiement GitHub Pages reste à vérifier indépendamment du commit.
 
 **État documentaire :** cette entrée couvre le corpus actuellement identifié dans le dépôt, et non tous les textes signalés dans des conversations antérieures. Les chapitres Chiron 118–133 et 218–224 restent soumis au [registre de récupération](mythologie-grecque/REGISTRE-RECUPERATION.md). La présence d'un chapitre sur une page de consultation n'atteste pas une collation philologique indépendante de toutes les sources et éditions anciennes. Aucun autre automate MYTHOS n'a été modifié.
+
+
+
+## 4 novembre 2026 — Pagination A4 et enrichissement des trois études philosophiques
+
+**Dépôt actif :** `Bobcribb/Bobcribb.github.io`. Contrôle des textes initiaux, de leur mise en page et de leurs liens. Les anciennes règles `min-height:250mm` et les sauts de page systématiques par section gonflaient artificiellement la pagination ; elles sont retirées au profit d’un flux continu.
+
+| Étude | Analyse seule initiale | Analyse seule enrichie | PDF complet illustré | Mots d’analyse | Figures conservées |
+|---|---:|---:|---:|---:|---:|
+| Iliade | 7 pages | 10 pages | 18 pages | 4 279 | 13 |
+| Odyssée | 7 pages | 10 pages | 17 pages | 3 964 | 12 |
+| Théogonie | 7 pages | 10 pages | 19 pages | 4 001 | 15 |
+
+**Protocole :** A4 210 × 297 mm, marges de 25 mm, Nimbus Roman 12 points, interligne 1,5, titres 15 points ; WeasyPrint 70.0. Les deux états sont mesurés avec la même mise en page. La mesure d’analyse seule exclut titre de dossier, notice, sommaire, images, légendes, références et bibliographie ; titres de section conservés, dernière page éventuellement partielle. Un essai typographique préliminaire avait donné 9/8/9 pages : il ne constitue pas la mesure comparative définitive. Les six PDF fixent le résultat ; l’impression navigateur peut différer selon les polices disponibles.
+
+**Enrichissement :** trois compléments A–C par étude, sans renumérotation du noyau initial. Iliade : responsabilité d’Agamemnon, justice des jeux funèbres, voix de Briséis. Odyssée : commandement sous contrainte, discrimination des responsabilités et servantes, reconnaissance réciproque avec Pénélope. Théogonie : parole des rois et des Muses, Hécate/Styx et les honneurs, serment et exclusion. Références localisées aux passages antiques, bibliographies universitaires identifiables ; deux précisions distinguent la paraphrase de la vie chez Achille et le nom de Pandore absent de la Théogonie. Aucune revendication de collation philologique exhaustive ou d’évaluation par les pairs.
+
+**Intégrité :** comparaison de chaque section initiale par identifiant et texte lisible : 12/12, 12/12, 13/13 conservées, y compris toutes les légendes et bibliographies. Les neuf photographies/reproductions externes sont copiées à l’identique dans `assets/philosophie/documents/`, URLs d’origine dans `data-original-src`, provenance et droits inchangés. Les 31 SVG existants sont conservés. Toutes les ancres locales des études sont valides, aucun identifiant dupliqué, 40 fichiers d’images présents.
+
+**Navigation :** trois études et audit reliés depuis `philosophie.html` et `philosophie/index.html`. Modification de `scripts/build_navigation.py` afin que le portail `/philosophie/` conserve les liens aux reconstructions ; génération isolée testée. La dernière version du portail récupérée pendant l’intervention est préservée par insertion du bloc supplémentaire.
+
+**Affichage :** contrôle visuel en navigateur de prévisualisation, à 360 et 768 pixels pour les trois études ; largeurs de contenu 345/753 pixels après barre verticale, sans débordement horizontal de la page. Navigation sur plusieurs lignes, accès aux compléments et lecture vérifiés. Contrôle des pages PDF rendues : images, légendes, marges et pagination. Il ne s’agit pas d’un essai physique sur tous les appareils.
+
+**Pièces de contrôle :** [rapport public et six PDF](../assets/philosophie/audit-pagination-2026-11-04.html), [mesures et empreintes](../assets/philosophie/pagination-2026-11-04.json), [manifeste des images](../assets/philosophie/documents/manifest.json), script `scripts/render_philosophie_a4.py`. Les états de publication GitHub Pages doivent être contrôlés après le commit ; ce registre de préparation ne confond pas validation locale et déploiement public.
+
+
+## 4 novembre 2026 — Études longues : cent pages d’analyse par œuvre
+
+L’objectif éditorial est porté à **au moins 100 pages A4 d’analyse pour chacune des trois œuvres**, hors images, légendes, références et bibliographies. Ce seuil remplace celui de dix pages dans la préparation précédente ; il ne repose ni sur le nombre de sections ni sur une estimation de caractères.
+
+| Œuvre | Mots d’analyse | Pages d’analyse seule | Volume illustré | Figures conservées |
+| --- | ---: | ---: | ---: | ---: |
+| Iliade | 48677 | 107 | 122 | 14 |
+| Odyssée | 47341 | 101 | 116 | 13 |
+| Théogonie | 48394 | 103 | 117 | 16 |
+
+**Développement :** 72 nouveaux chapitres argumentatifs (24 par œuvre), organisés en lectures suivies des chants et des séquences poétiques. Sources antiques localisées, objections et limites des rapprochements modernes ; bibliographies conservées et relevés de consultation publiés. Une relecture croisée a notamment précisé les passages sur Apollon et Patrocle, le serment d’Héra, la descendance monstrueuse, les Océanides et l’état transmis de la fin de la Théogonie.
+
+**Mise en page :** A4, marges 25 mm, Nimbus Roman 12 points, interligne 1,5, texte continu sans saut forcé par chapitre. Les six PDF de référence sont dans `assets/philosophie/pdf/`. Mesures et empreintes : `assets/philosophie/pagination-2026-11-04.json`. Script reproductible : `scripts/render_philosophie_a4.py` (seuil par défaut : 100 pages).
+
+**Conservation :** 37 sections initiales, leurs textes, bibliographies et légendes conservés intégralement. Les trois photographies ajoutées entre-temps au dépôt sont également conservées : 43 figures au total (31 SVG, 12 documents photographiques ou iconographiques), avec copies locales et provenance. Empreintes de l’état antérieur à l’extension : `corpus/philosophie/reference-avant-extension.json` ; contrôles : `scripts/check_philosophie_integrity.py` et `assets/philosophie/integrite-2026-11-04.json`. Aucun paragraphe analytique long dupliqué.
+
+**Accès et présentation :** liens vers les trois études intégrales depuis les deux entrées Philosophie, et conservation de ces liens dans le générateur. Sommaire repliable des 24 lectures par œuvre, retours au sommaire et navigation immédiate par ancre. Prévisualisation à 360 et 768 pixels avec le graphisme courant : aucune largeur de page débordante ; texte, sommaires et ancres contrôlés. Les PDF ont été rendus et inspectés, sans débordement de texte ni caractère de remplacement détecté.
+
+Ce relevé atteste la préparation et les vérifications de l’édition ; la réussite du déploiement doit être constatée séparément après intégration. Il ne revendique pas une évaluation académique par les pairs.

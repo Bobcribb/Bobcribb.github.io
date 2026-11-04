@@ -803,6 +803,12 @@ def create_philosophy(entries):
     studies=[e for e in entries if
         re.search(r"philosoph|nietzsche|hegel|socrate|platon|aristote|epicure|feuerbach|marx|auguste-comte|dumezil|vernant|detienne|historiograph|exegese", (e["title"]+" "+e["url"]).casefold())]
     body='<h1>Études philosophiques</h1><p class="portal-lead">Une porte d’entrée distincte pour la lecture philosophique des récits, de la religion et du théâtre. Les sources anciennes, les interprétations modernes et les reconstructions sont distinguées.</p>'
+    body+=section("Homère et Hésiode : études philosophiques intégrales","Au moins cent pages A4 d’analyse par œuvre. Vingt-quatre lectures développées par étude, illustrations conservées et PDF complets. Le contrôle du 4 novembre 2026 distingue analyse et dossier illustré.",cards([
+     ("/philosophie-iliade.html","Philosophie de l’Iliade","Colère, honneur, responsabilité, réparation et voix de Briséis.","ÉTUDE INTÉGRALE"),
+     ("/philosophie-odyssee.html","Philosophie de l’Odyssée","Identité, commandement, justice et reconnaissance de Pénélope.","ÉTUDE INTÉGRALE"),
+     ("/philosophie-theogonie.html","Philosophie de la Théogonie","Souveraineté, parole, alliances et serment divin.","ÉTUDE INTÉGRALE"),
+     ("/assets/philosophie/audit-pagination-2026-11-04.html","Pagination A4 vérifiée","Méthode, résultats et six PDF de référence.","CONTRÔLE ÉDITORIAL")
+    ]))
     body+=section("Philosophie des mythes et du tragique","La mythologie comme problème de connaissance, de pouvoir et de sens.",cards([
      ("/philosophie-et-interpretations/","Philosophie et interprétations","Concepts, écoles et lecture des mythes."),
      ("/tragedies/philosophie-theatre-grec-tragique-comique-hegel-nietzsche/","Hegel et Nietzsche","Tragique, justice, liberté et connaissance."),
@@ -1158,3 +1164,4 @@ def finalize_navigation(index_count):
     renovate_search()
     total=apply_navigation()
     print("MYTHOS NAVIGATION :",total,"pages avec menu commun, index thématique créé",flush=True)
+

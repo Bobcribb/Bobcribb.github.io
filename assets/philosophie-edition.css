@@ -1,0 +1,57 @@
+/* Edition universitaire continue. Aucun saut de page par chapitre. */
+@media screen{html{scroll-behavior:auto!important}}
+.philo-edition{padding:20px;border:1px solid #94774c;background:#151b1e;margin:20px 0;color:#eee4d5;line-height:1.65}
+.philo-edition a,.philo-bibliography a,.philo-complement a{color:#efd4a4;text-underline-offset:.2em;overflow-wrap:anywhere}
+.philo-edition-links{display:flex;flex-wrap:wrap;gap:12px}
+.philo-edition-links a{display:inline-flex;align-items:center;min-height:44px;padding:8px 14px;border:1px solid #94774c}
+.philo-bibliography{padding:24px;border:1px solid #6f5a40;line-height:1.7;margin-bottom:30px}
+.philo-bibliography li{margin-bottom:12px}
+.philo-complement{scroll-margin-top:20px}
+.philo-long{scroll-margin-top:20px}
+.philo-long h3{color:#e5c798;font:600 1.15em/1.45 Georgia,serif;margin:1.5em 0 .7em}
+.philo-long-toc{margin:24px 0;padding:22px;border:1px solid #6f5a40;background:#141a1d;color:#e9decf;line-height:1.6}
+.philo-long-toc summary{cursor:pointer;font-weight:700;min-height:44px;padding:8px 0}
+.philo-long-toc ol{padding-left:25px}
+.philo-long-toc li{margin-bottom:8px}
+.philo-long-toc a{display:inline-block;min-height:44px;padding:8px 0;color:#efd4a4;overflow-wrap:anywhere}
+.philo-reading-note{line-height:1.7;padding:20px;border-left:3px solid #94774c;margin:24px 0;color:#e6dbc9}
+.philo-top-link{font-size:.9em;margin-top:1.2em}
+.philo-top-link a{color:#efd4a4}
+main.philo-work,main.philo-work *{box-sizing:border-box;min-width:0}
+main.philo-work{width:100%}
+main.philo-work p,main.philo-work li,main.philo-work a{overflow-wrap:anywhere}
+@media(max-width:680px){
+ .masthead .navlinks{display:flex!important;flex-wrap:wrap!important;white-space:normal!important;overflow:visible!important;gap:8px 14px!important}
+ .masthead .navlinks a{white-space:normal!important;min-height:36px;display:inline-flex;align-items:center}
+ main.philo-work{padding:16px 12px;margin-top:8px}
+ .philo-intro,.philo-edition,.philo-bibliography{padding:18px}
+ .philo-chapter{padding:22px 18px}
+ .philo-toc a{min-height:44px}
+ .hero-archive h1{font-size:clamp(29px,8vw,43px)!important;overflow-wrap:anywhere}
+ .hero-archive h1:after{max-width:80%}
+}
+@media print{
+ @page{size:A4;margin:25mm;@bottom-center{content:counter(page);font:10pt "Nimbus Roman",serif;color:#333}}
+ html,body{margin:0!important;padding:0!important;background:#fff!important;color:#111!important;font:12pt/1.5 "Nimbus Roman","Times New Roman",serif!important}
+ body.mythos-design.mythos-reading{margin:0!important;padding:0!important;background:#fff!important;color:#111!important;font:12pt/1.5 "Nimbus Roman","Times New Roman",serif!important}
+ body.mythos-design.mythos-reading .mythos-banner,body.mythos-design.mythos-reading .hero-archive,body.mythos-design.mythos-reading .mythos-masthead,body.mythos-design.mythos-reading .mythos-skip{display:none!important}
+ body.mythos-design.mythos-reading main.philo-work{width:auto!important;max-width:none!important;margin:0!important;padding:0!important}
+ *,*:before,*:after{box-shadow:none!important;text-shadow:none!important}
+ .masthead,.navlinks,.hero-archive,footer,.philo-toc,.philo-long-toc,.philo-top-link,.philo-edition,.chapter-n{display:none!important}
+ .print-method{display:block!important;font:10pt/1.35 "Nimbus Roman",serif!important;color:#333!important;margin:0 0 12pt!important}
+ main.philo-work{max-width:none!important;width:auto!important;margin:0!important;padding:0!important}
+ .philo-chapter,.philo-intro,.philo-bibliography{display:block!important;min-height:0!important;height:auto!important;break-before:auto!important;break-after:auto!important;page-break-after:auto!important;break-inside:auto!important;page-break-inside:auto!important;border:0!important;background:#fff!important;color:#111!important;padding:0!important;margin:0 0 12pt!important}
+ .philo-chapter p,.philo-intro p,.philo-bibliography p,.philo-bibliography li{font:12pt/1.5 "Nimbus Roman","Times New Roman",serif!important;color:#111!important;margin:0 0 8pt!important;orphans:3;widows:3;text-align:left!important}
+ .philo-chapter h2,.philo-intro h2,.philo-bibliography h2{font: bold 15pt/1.2 "Nimbus Roman","Times New Roman",serif!important;color:#111!important;margin:14pt 0 8pt!important;break-after:avoid!important}
+ .philo-chapter h3{font:bold 12pt/1.3 "Nimbus Roman","Times New Roman",serif!important;color:#111!important;margin:12pt 0 7pt!important;break-after:avoid!important}
+ .philo-reading-note{font:11pt/1.45 "Nimbus Roman","Times New Roman",serif!important;color:#111!important;border:0!important;padding:0!important;margin:12pt 0!important;background:#fff!important}
+ main h1.print-title{display:block!important;font:bold 19pt/1.2 "Nimbus Roman",serif;margin:0 0 16pt}
+ .philo-chapter .reference{font:10pt/1.35 "Nimbus Roman",serif!important;color:#333!important;border-top:1px solid #aaa!important;padding-top:6pt!important;margin-top:8pt!important}
+ a{color:#111!important;text-decoration:underline}
+ figure.mythos-figure,figure.mythos-figure.mythos-philo-diagram{width:100%!important;max-width:100%!important;margin:12pt 0!important;break-inside:avoid!important;border:1px solid #aaa!important;background:white!important;color:#111!important;overflow:visible!important}
+ figure.mythos-figure img,figure.mythos-figure.mythos-philo-diagram img{display:block!important;max-width:100%!important;width:100%!important;height:auto!important;max-height:85mm!important;object-fit:contain!important;background:#fff!important}
+ figure.mythos-figure figcaption{font:10pt/1.35 "Nimbus Roman",serif!important;padding:8pt!important;color:#111!important}
+ figure.mythos-figure figcaption *{font-size:10pt!important;line-height:1.35!important;color:#111!important}
+ figure.mythos-figure strong{font-weight:bold!important}
+}
+.print-title,.print-method{display:none}
