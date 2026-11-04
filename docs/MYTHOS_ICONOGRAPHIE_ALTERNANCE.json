@@ -5,43 +5,108 @@
   "branch": "main",
   "latest_session": {
     "date": "2026-11-04",
-    "kind": "AUDIT ET CORRECTION",
-    "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "scope": "Audit post-iconographique des trois livres de lecture Iliade, Odyssée et Hésiode ; correction de l'omission des trois dernières figures Met dans la vérification HTTPS.",
-    "basis_commit": "eafc0230656454daa6de0b7fbffd3bd4c9a52b36",
-    "audited_pages": [
+    "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "previous_kind": "AUDIT ET CORRECTION",
+    "next_kind": "AUDIT ET CORRECTION",
+    "scope": "Trois schémas originaux 2D déjà présents dans les monographies philosophiques, mis en valeur dans les trois livres de lecture ; reclassement de la gravure de Circé du chant XXIII au chant X.",
+    "basis_commit": "b4e5a99e7d579b6d68ff2b1976eada062dbff9e2",
+    "modified_pages": [
       "livre-iliade-scenes/index.html",
       "livre-odyssee/index.html",
       "livre-hesiode/index.html"
     ],
-    "local_html_ids_checked": 159,
-    "duplicate_ids": 0,
-    "internal_fragment_links_checked": 92,
-    "broken_local_fragments": 0,
-    "images_checked": 26,
-    "images_without_alt": 0,
-    "local_styles_and_scripts": "Les 7 fichiers CSS/JS partagés référencés par ces trois pages existent sur main ; viewport déclaré, règles @media présentes dans les feuilles communes ; pas de test graphique réel sur téléphone/tablette.",
-    "museum_assets_verified": [
-      "/assets/illustrations-articles/met-437394-aristote-homere-rembrandt.webp",
-      "/assets/illustrations-articles/met-254648-athena-chouette-bronze.webp",
-      "/assets/illustrations-articles/met-253504-aphrodite-bronze.webp"
+    "added_figure_count": 3,
+    "new_binary_assets": 0,
+    "reused_svg_assets": [
+      "/assets/philosophie/iliade-bouclier-monde.svg",
+      "/assets/philosophie/odyssee-lit-olivier-signe-20261104.svg",
+      "/assets/philosophie/theogonie-muses-verite.svg"
     ],
-    "issue": "Le vérificateur scripts/verify_live_site.py contrôlait 17 illustrations récentes, mais omettait les trois figures ajoutées à la dernière séance. De plus, l'URL publique des trois livres affichait encore 8, 8 et 7 images contre 9, 9 et 8 sur main.",
-    "correction": "Étendre RECENT_FIGURES à 20 figures sur six pages, avec 19 médias WebP/JPEG uniques : une même œuvre de Rembrandt est utilisée dans l'Iliade philosophique et le livre. La vérification compare 6 pages et 19 fichiers binaires (25 résultats).",
-    "checks": "Les 3 derniers IDs sont uniques et leurs médias sont documentés dans sources-met.json. Suite de tests et jobs Actions à vérifier après la seconde correction ; pas de réussite anticipée.",
-    "publication_status": "Contrôle HTTPS direct : manifeste source_commit=05c68a64605501f7dc90889fbd74961c4350528c, github_run_id=41859720860, antérieur à la séance ; les trois figures non visibles dans le HTML public. Déploiement complet non confirmé.",
-    "numbering": "AGENTS.md et docs/PUBLICATION_CONCURRENTE.md relus. Aucune nouvelle étude numérotée, aucun changement aux numéros et attributions.",
-    "preservation": "Aucun texte scientifique, image, page HTML, CSS, JS de présentation, navigation, registre d'attribution, workflow ni automatisation horaire modifié.",
-    "limitations": "Pas de rendu mobile en navigateur ni recalcul des PDF A4 ; pas de parcours exhaustif des liens externes ni vérification binaire publique après déploiement.",
-    "commits": [
-      "14d80a9d78f3dbaab8b8b8e1796582881e544c63"
+    "checked_pages": [
+      {
+        "path": "livre-iliade-scenes/index.html",
+        "ids": 60,
+        "anchors": 35,
+        "imgsBefore": 9,
+        "imgsAfter": 10,
+        "broken": 0,
+        "duplicateIds": 0,
+        "altless": 0
+      },
+      {
+        "path": "livre-odyssee/index.html",
+        "ids": 58,
+        "anchors": 31,
+        "imgsBefore": 9,
+        "imgsAfter": 10,
+        "broken": 0,
+        "duplicateIds": 0,
+        "altless": 0
+      },
+      {
+        "path": "livre-hesiode/index.html",
+        "ids": 44,
+        "anchors": 26,
+        "imgsBefore": 8,
+        "imgsAfter": 9,
+        "broken": 0,
+        "duplicateIds": 0,
+        "altless": 0
+      }
     ],
-    "commit_note": "Deux commits dans la même séance d'audit : 14d80a9... (extension) puis correctif de partage inter-pages ; conserver une seule entrée de séance. Le SHA du correctif doit être lu dans GitHub après validation.",
-    "followup_correction": "Après relecture du premier commit 14d80a9d78f3dbaab8b8b8e1796582881e544c63, correction du faux doublon dû à un WebP partagé entre deux pages ; refuser les doubles médias sur la même page, autoriser leur réutilisation inter-pages ; ajustement des assertions 19/25 et ajout d'une régression spécifique. Aucune modification du texte ni des images du site."
+    "illustration_sources": [
+      "Homère, Iliade XVIII, 478–608, Theoi",
+      "Homère, Odyssée XXIII, 177–230, Theoi",
+      "Hésiode, Théogonie 22–35, Kosmos Society"
+    ],
+    "corrected_placement": "L'estampe Flaxman/Parker de Circé, 1805, jusque-là affichée au chant XXIII, est déplacée sous le chant X sans duplication ni suppression.",
+    "validation": "Trois SVG préexistants vérifiés sur main, avec title et desc ; chacune des 3 figures ajoute une illustration (10/10/9 pour les lecteurs) et déclare 2026, création assistée par IA et absence d'artefact antique ; contrôle regex des ids, ancres et alt des 3 HTML avant commit. Vérification publique après commit distincte.",
+    "pagination": "Les PDF des trois monographies sont inchangés ; le manifeste existant atteste 122, 116 et 117 pages A4 d'étude, au-delà du minimum demandé, sans nouveau rendu.",
+    "preservation": "Textes scientifiques, sommaires, numéros, registres d'attribution, workflows et fréquence des autres automatisations inchangés.",
+    "publication_status": "Non encore confirmé publiquement : les fichiers à committer doivent être relus après écriture ; URL HTTPS et manifeste de déploiement à contrôler.",
+    "limitations": "Les trois créations sont des diagrammes 2D modernes, pas des vues archéologiques. Pas de nouveau binaire ; pas de test en navigateur mobile ; PDF non régénérés.",
+    "commits": [],
+    "commit_note": "Le SHA exact du commit atomique se trouve dans l'historique du dépôt ; vérifier l'écriture et relire avant toute annonce."
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
   "history": [
+    {
+      "date": "2026-11-04",
+      "kind": "AUDIT ET CORRECTION",
+      "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "scope": "Audit post-iconographique des trois livres de lecture Iliade, Odyssée et Hésiode ; correction de l'omission des trois dernières figures Met dans la vérification HTTPS.",
+      "basis_commit": "eafc0230656454daa6de0b7fbffd3bd4c9a52b36",
+      "audited_pages": [
+        "livre-iliade-scenes/index.html",
+        "livre-odyssee/index.html",
+        "livre-hesiode/index.html"
+      ],
+      "local_html_ids_checked": 159,
+      "duplicate_ids": 0,
+      "internal_fragment_links_checked": 92,
+      "broken_local_fragments": 0,
+      "images_checked": 26,
+      "images_without_alt": 0,
+      "local_styles_and_scripts": "Les 7 fichiers CSS/JS partagés référencés par ces trois pages existent sur main ; viewport déclaré, règles @media présentes dans les feuilles communes ; pas de test graphique réel sur téléphone/tablette.",
+      "museum_assets_verified": [
+        "/assets/illustrations-articles/met-437394-aristote-homere-rembrandt.webp",
+        "/assets/illustrations-articles/met-254648-athena-chouette-bronze.webp",
+        "/assets/illustrations-articles/met-253504-aphrodite-bronze.webp"
+      ],
+      "issue": "Le vérificateur scripts/verify_live_site.py contrôlait 17 illustrations récentes, mais omettait les trois figures ajoutées à la dernière séance. De plus, l'URL publique des trois livres affichait encore 8, 8 et 7 images contre 9, 9 et 8 sur main.",
+      "correction": "Étendre RECENT_FIGURES à 20 figures sur six pages, avec 19 médias WebP/JPEG uniques : une même œuvre de Rembrandt est utilisée dans l'Iliade philosophique et le livre. La vérification compare 6 pages et 19 fichiers binaires (25 résultats).",
+      "checks": "Les 3 derniers IDs sont uniques et leurs médias sont documentés dans sources-met.json. Suite de tests et jobs Actions à vérifier après la seconde correction ; pas de réussite anticipée.",
+      "publication_status": "Contrôle HTTPS direct : manifeste source_commit=05c68a64605501f7dc90889fbd74961c4350528c, github_run_id=41859720860, antérieur à la séance ; les trois figures non visibles dans le HTML public. Déploiement complet non confirmé.",
+      "numbering": "AGENTS.md et docs/PUBLICATION_CONCURRENTE.md relus. Aucune nouvelle étude numérotée, aucun changement aux numéros et attributions.",
+      "preservation": "Aucun texte scientifique, image, page HTML, CSS, JS de présentation, navigation, registre d'attribution, workflow ni automatisation horaire modifié.",
+      "limitations": "Pas de rendu mobile en navigateur ni recalcul des PDF A4 ; pas de parcours exhaustif des liens externes ni vérification binaire publique après déploiement.",
+      "commits": [
+        "14d80a9d78f3dbaab8b8b8e1796582881e544c63"
+      ],
+      "commit_note": "Deux commits dans la même séance d'audit : 14d80a9... (extension) puis correctif de partage inter-pages ; conserver une seule entrée de séance. Le SHA du correctif doit être lu dans GitHub après validation.",
+      "followup_correction": "Après relecture du premier commit 14d80a9d78f3dbaab8b8b8e1796582881e544c63, correction du faux doublon dû à un WebP partagé entre deux pages ; refuser les doubles médias sur la même page, autoriser leur réutilisation inter-pages ; ajustement des assertions 19/25 et ajout d'une régression spécifique. Aucune modification du texte ni des images du site."
+    },
     {
       "date": "2026-11-04",
       "kind": "AUDIT ET CORRECTION",
