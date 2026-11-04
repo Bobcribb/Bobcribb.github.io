@@ -6,6 +6,7 @@ on:
     paths:
       - '.github/workflows/test-native.yml'
       - 'scripts/build_native.py'
+      - 'scripts/sitemap_integrity.py'
       - 'scripts/improve_reading.py'
       - 'scripts/build_reading_pdfs.py'
       - 'scripts/verify_live_site.py'
@@ -31,6 +32,7 @@ on:
   pull_request:
     paths:
       - 'scripts/build_native.py'
+      - 'scripts/sitemap_integrity.py'
       - 'scripts/improve_reading.py'
       - 'scripts/build_reading_pdfs.py'
       - 'scripts/verify_live_site.py'
