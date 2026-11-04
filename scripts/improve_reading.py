@@ -19,7 +19,6 @@ from bs4 import BeautifulSoup
 VERSION = "20261104-lecture-2"
 COLLECTIONS = [
     ("/mythologie-grecque/", "Encyclopédie grecque", "Dieux, héros, cycles et textes anciens."),
-    ("/grande-encyclopedie/", "Grande encyclopédie", "Les livres, archives et études du corpus."),
     ("/theatre/", "Théâtre grec", "Intrigues, fragments et analyses philosophiques."),
     ("/origines-du-sacre/", "Origines du sacré", "Rites, témoignages et histoire des religions."),
     ("/philosophie/", "Philosophie", "Œuvres, concepts et interprétations."),
