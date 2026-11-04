@@ -885,9 +885,18 @@ def renovate_search():
 
 def apply_navigation():
     changed=0
+    from build_greek_folders import LEGACY_FOLDERS
     for path in OUT.rglob("index.html"):
-        # La redirection historique /catalogue/ ne porte pas de menu éditorial.
-        if path.relative_to(OUT).as_posix() == "catalogue/index.html":
+        relative = path.relative_to(OUT).as_posix()
+        # Les anciennes adresses de dossiers sont des redirections, jamais des
+        # pages de lecture. Le passage preparatoire peut normaliser leurs meta.
+        # Ne pas leur imposer un menu qui n'existe pas dans le HTML minimal.
+        if relative == "catalogue/index.html":
+            continue
+        components = relative.split("/")
+        if (len(components) == 4 and components[0] == "mythologie-grecque"
+                and components[1] == "dossiers" and components[2] in LEGACY_FOLDERS
+                and components[3] == "index.html"):
             continue
         raw=path.read_text(encoding="utf-8")
         # Compatibility aliases carry a destination, not an editorial menu.
