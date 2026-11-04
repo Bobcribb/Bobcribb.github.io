@@ -209,3 +209,10 @@ body.mythos-design article :target{
     scroll-margin-block-start:76px;
   }
 }
+
+
+/* MYTHOS : liens aux éditions intégrales et lisibilité des longs mémoires. */
+body.mythos-reading .content a[href$=".pdf"]{text-decoration-thickness:1px;text-underline-offset:.25em;overflow-wrap:anywhere}
+body.mythos-reading .content :is(blockquote,pre){max-width:100%}
+body.mythos-reading .content pre{overflow-x:auto;white-space:pre}
+@media(max-width:540px){body.mythos-reading .content :is(ul,ol){padding-inline-start:1.4em}body.mythos-reading .content blockquote{margin-inline:0;padding:1rem;border-left:2px solid #d2b07a}}

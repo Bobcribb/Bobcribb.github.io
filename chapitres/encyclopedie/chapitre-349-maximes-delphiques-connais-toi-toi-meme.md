@@ -155,3 +155,8 @@ Des préceptes de mesure et de connaissance de soi existent dans d'autres tradit
 **Entrées :** maximes delphiques ; *gnôthi sauton* ; *mêden agan* ; Sept Sages ; Chilon ; Solon ; Socrate ; *Charmide* ; *Alcibiade I* ; *sôphrosynê* ; *hybris* ; Aristote ; Crésus ; Xerxès ; Œdipe ; Aï Khanoum ; Plutarque ; E de Delphes ; mesure ; connaissance de soi.  
 **Chemin :** `chapitres/encyclopedie/chapitre-349-maximes-delphiques-connais-toi-toi-meme.md`.  
 **Prochain chapitre proposé :** 350, volume CXXXII — *L'omphalos de Delphes, les aigles de Zeus et la géographie sacrée du centre du monde*. Contrôler la progression effective avant création.
+
+
+### Pour prolonger la lecture philosophique
+
+- [Mémoire intégral — Socrate, l'oracle de Delphes et le paradoxe de la sagesse](/chapitres/philosophie/socrate-oracle-delphes-paradoxe-sagesse/) : édition du 30 octobre 2026, références antiques, bibliographie et annexes.

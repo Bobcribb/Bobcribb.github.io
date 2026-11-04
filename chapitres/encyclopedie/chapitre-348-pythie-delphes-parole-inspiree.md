@@ -156,3 +156,8 @@ Les traditions de parole inspirée existent dans d'autres cultures antiques. [I]
 **Entrées :** Pythie ; Apollon Pythien ; Delphes ; *mantikê* ; *mania* ; *enthousiasmos* ; Platon ; Plutarque ; trépied ; adyton ; Castalie ; laurier ; Crésus ; rempart de bois ; Thémistocle ; Héraclite ; oracle ; divination ; femmes et religion ; Amphictionie.  
 **Chemin :** `chapitres/encyclopedie/chapitre-348-pythie-delphes-parole-inspiree.md`.  
 **Prochain chapitre proposé :** 349, volume CXXXI — *Les maximes delphiques : « Connais-toi toi-même », mesure humaine et sagesse d'Apollon*. Vérifier la progression effective avant toute création.
+
+
+### Pour prolonger la lecture philosophique
+
+- [Mémoire intégral — Socrate, l'oracle de Delphes et le paradoxe de la sagesse](/chapitres/philosophie/socrate-oracle-delphes-paradoxe-sagesse/) : édition du 30 octobre 2026, références antiques, bibliographie et annexes.
