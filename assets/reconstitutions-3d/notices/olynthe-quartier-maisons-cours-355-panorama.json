@@ -1,0 +1,36 @@
+{
+  "id": "OLY-URB-001",
+  "slug": "olynthe-quartier-maisons-cours-355-panorama",
+  "title": "Olynthe — quartier résidentiel et maisons à cour de la cité classique",
+  "period": "Évocation vers 355 av. J.-C., avant la destruction de 348 av. J.-C.",
+  "image": "/assets/reconstitutions-3d/olynthe-quartier-maisons-cours-355-panorama.webp",
+  "caption": "Panorama photoréaliste interprétatif d’un îlot d’habitations sur la colline Nord d’Olynthe : rues orthogonales, murs de terre enduits sur soubassements de pierre, cours, portiques domestiques et toitures en tuiles.",
+  "commentary": "Olynthe, au cœur de la Chalcidique, s'est développée comme centre de la Ligue chalcidienne à partir de 432 av. J.-C., avant sa prise par Philippe II en 348 av. J.-C. Sur la colline Nord, les fouilles révèlent un quadrillage de rues et des îlots de dix maisons. Des habitations de type « pastas » s'articulent autour d'une cour ouverte ; un portique couvert dessert les pièces. Certaines maisons comportaient un étage, dont la présence est suggérée notamment par des bases d'escaliers, et des pièces de réception (andrônes) dont les sols pouvaient être couverts de galets en mosaïque. La maçonnerie basse en pierre, les élévations en briques crues, les enduits muraux et la terre cuite des couvertures sont des solutions archéologiques plausibles, non la restitution certifiée d'un ensemble immobilier précis. La géométrie de la trame urbaine et le principe des cours et des pastades sont bien établis ; cette composition ne correspond à aucun relevé parcellaire identifié. Les niveaux et pentes des toitures, l'agencement des ouvertures, les coloris, la végétation domestique, les rues entièrement dallées et la présence de mosaïques visibles sont partiellement ou entièrement conjecturaux. Les travaux archéologiques et les sources institutionnelles cités documentent le site, mais ne valident pas cette image.",
+  "certainty": {
+    "high": "Ville classique d’Olynthe en Chalcidique, occupation avant 348 av. J.-C., trame orthogonale sur la colline Nord, îlots de maisons, cours ouvertes et pièces disposées autour du portique domestique (pastas).",
+    "medium": "Soubassements en pierre, élévations en briques crues enduites, emploi de tuiles, existence de maisons partiellement à étage et présence occasionnelle de mosaïques dans les andrônes.",
+    "low": "Restitution exacte de ces façades, textures et teintes, pente et nombre des toitures, mobilier de cour, végétation, dallage complet des rues, répartition des maisons visibles et orientation photographique."
+  },
+  "sources": [
+    {
+      "label": "Éphorie des antiquités de Chalcidique et du Mont Athos — Olynthos",
+      "url": "https://www.efachagor.gr/en/place/olynthus/"
+    },
+    {
+      "label": "Olynthos Project (University of Michigan, British School at Athens) — Houses",
+      "url": "https://sites.lsa.umich.edu/olynthos-project/olynthian-houses/"
+    },
+    {
+      "label": "Olynthos Project — North Hill",
+      "url": "https://sites.lsa.umich.edu/olynthos-project/north-hill/"
+    },
+    {
+      "label": "Hellenic Heritage — Olynthus",
+      "url": "https://www.hh.gr/en/destinations/olynthus/"
+    }
+  ],
+  "width": 1672,
+  "height": 941,
+  "sha256": "8cea9b292ee9994eb559a0dbf6b7c319f5717445c3acc4b9a739a33b0a12e991",
+  "rights_and_method": "Image originale créée par génération IA, photoréaliste mais interprétative et non métrique ; aucune interface, légende ni menu incrusté. Les sources ne cautionnent pas la composition."
+}
