@@ -319,3 +319,7 @@ Ce dossier est consacré **exclusivement** à Téléclidès, *Hēsiodoi* ; il ne
 **Navigation de la collection :** [Volume précédent — Téléclidès, *Prytaneis*](../../chapitres/comedies/volume-064-telekleides-prytaneis-boule-tholos-memoire-pouvoir/) · [Théâtre grec](../../theatre/) · [Index intégral](../../catalogue-integral/).
 
 *MYTHOS — Comédies grecques et œuvres perdues ; manuscrit public, susceptible de corrections scientifiques à numéro constant après publication.*
+
+---
+
+**Suite :** [Volume LXVI — Téléclidès, *Apseudeis* / *Les Véridiques*](volume-066-telekleides-apseudeis-verite-oracle-langage-politique.md).
