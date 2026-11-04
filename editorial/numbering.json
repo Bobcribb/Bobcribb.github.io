@@ -430,6 +430,12 @@
           "path": "chapitres/encyclopedie/chapitre-384-harmonia-cadmos-collier-mariage-thebes-samothrace-metamorphoses.md",
           "request_sha256": "d922c231ca32962f2607b95db3241d57c63761bbedd6b2149dade2f8b166217e",
           "initial_source_sha256": "f97bf0223f06a9a8dd89c793cb4425ac765ad3b97e00461d3b7a147d683db8d9"
+        },
+        "4f7cc2a8-ae93-476b-82a4-4d828dc20a97": {
+          "number": 385,
+          "path": "chapitres/encyclopedie/chapitre-385-ilithyie-eileithyia-grottes-crete-naissance-cultes-philosophie.md",
+          "request_sha256": "db748ff5c9e6d944916a315b942a10b9169ebbe9d31592a591e422d2de5c901d",
+          "initial_source_sha256": "58f6be3acc109432999bafea812ad0a4ce85218a3fe3b58f07ac0235b0436f8d"
         }
       }
     },
