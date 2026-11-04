@@ -1,0 +1,37 @@
+{
+  "id": "PYL-MEG-001",
+  "slug": "pylos-palais-nestor-megaron-mycenien",
+  "title": "Pylos — mégaron du palais mycénien dit « de Nestor »",
+  "period": "Vers 1250 av. J.-C., Helladique récent IIIB (datation indicative)",
+  "image": "/assets/reconstitutions-3d/pylos-palais-nestor-megaron-mycenien.webp",
+  "caption": "Reconstitution photoréaliste interprétative du mégaron palatial de Pylos, avec foyer circulaire, quatre colonnes de bois peint, sol enduit polychrome et espace du trône.",
+  "commentary": "À Epano Englianos, en Messénie, le palais mycénien dit « de Nestor » fut occupé à la fin du Bronze récent, avant sa destruction par un incendie à la fin de l'Helladique récent IIIB (chronologie exacte discutée). Au centre du bâtiment principal, la salle 6, parfois appelée « salle du trône », mesurait environ 13 × 11 mètres. Le foyer circulaire enduit et peint, d'environ 4 mètres de diamètre, est un élément archéologiquement attesté ; quatre bases de colonnes l'entouraient. Les traces conservées indiquent des supports en bois. Des fragments de peintures murales, un sol enduit décoré et l'emplacement d'un siège d'apparat à droite de l'entrée ont été reconnus. La scène représente ces caractéristiques fondamentales, mais ne reproduit ni les peintures d'origine ni l'architecture d'élévation à l'identique. Le lanterneau ouvrant vers le ciel, l'éclairage naturel, les chapiteaux des colonnes, les motifs de griffons et de taureaux, le mobilier du trône, les jarres, les nuances des peintures et la disposition des portes sont des hypothèses graphiques : les vestiges ne déterminent pas leurs formes exactes. Cette image est un rendu 3D interprétatif, non un relevé métrique, et ne constitue pas une restitution officielle ni validée par les organismes documentaires cités.",
+  "certainty": {
+    "high": "Mégaron, foyer circulaire à enduit peint, quatre bases de colonnes en salle 6 à Pylos.",
+    "medium": "Dimensions approximatives de la salle et du foyer, emploi des supports de bois, enduits peints, trône placé contre le mur.",
+    "low": "Forme des chapiteaux, ouverture du toit, décors précis, couleurs, types de jarres, portes, meubles et mise en lumière."
+  },
+  "sources": [
+    {
+      "label": "Timbers in Minoan and Mycenaean Architecture (École française d'Athènes), Str1002 — base de colonne salle 6",
+      "url": "https://timma.efa.gr/s/timma/item/7998"
+    },
+    {
+      "label": "C. W. Blegen, M. Rawson, M. Lang, The Palace of Nestor at Pylos in Western Messenia (Princeton, 1966–1973), notice de la base TiMMA",
+      "url": "https://timma.efa.gr/s/timma/item/7188"
+    },
+    {
+      "label": "Perseus, Pylos (Site) : mégaron, foyer, archives en linéaire B",
+      "url": "https://perseus-aa.github.io/items/aa_3912.html"
+    },
+    {
+      "label": "Digital Heritage Creations — projet de restitution commandité par l'Éphorie des antiquités de Messénie (document comparatif, non réutilisé)",
+      "url": "https://dimitsal.com/palace-of-nestor-pylos/?lang=en"
+    }
+  ],
+  "width": 1672,
+  "height": 941,
+  "sha256": "7ed0b05d8e3091b4fc0fae86ab8ae438cb9553c810b2e1c923f0ea5b4f14f3b5",
+  "method": "Illustration numérique 3D photoréaliste originale, créée avec une IA. Ni plan de fouilles, ni restitution métrique, ni œuvre officiellement approuvée. Aucun texte/menu dans l'image.",
+  "publication_status": "Prêt à publier ; contrôle d'accessibilité publique obligatoire avant annonce."
+}
