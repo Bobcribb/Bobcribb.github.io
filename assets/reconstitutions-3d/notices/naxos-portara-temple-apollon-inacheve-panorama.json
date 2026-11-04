@@ -1,0 +1,41 @@
+{
+  "id": "NAX-POR-001",
+  "slug": "naxos-portara-temple-apollon-inacheve-panorama",
+  "title": "Naxos (Palatia) — Portara, porte du temple inachevé d’Apollon",
+  "period": "Vers 530–524 av. J.-C. (chantier archaïque interrompu ; évocation non métrique)",
+  "image": "/assets/reconstitutions-3d/naxos-portara-temple-apollon-inacheve-panorama.webp",
+  "caption": "Vue 3D photoréaliste interprétative de la Portara et des fondations du temple inachevé sur Palatia, avant les aménagements médiévaux et contemporains.",
+  "commentary": "Sur le promontoire de Palatia, à proximité de la cité antique de Naxos, le tyran Lygdamis fit entreprendre vers 530 av. J.-C. un temple monumental dédié à Apollon. Sa chute vers 524 av. J.-C. interrompit le programme, jamais achevé. L’encadrement de porte de marbre naxien, nommé Portara, atteint environ six mètres de haut et reste le témoin majeur du projet. Les fondations permettent de restituer le programme architectural envisagé : pronaos, naos et chambre arrière, avec une colonnade périptère projetée de six colonnes sur les petits côtés et douze sur les longs, les façades prévoyant un dédoublement de leur ordonnance. Cette conception ne signifie PAS que le péristyle a été construit. L’image montre volontairement un temple inachevé, et non un sanctuaire achevé doté de ses colonnades. Les assises visibles dans le rendu, les blocs erratiques, les maisons d’arrière-plan, les voiliers, les côtes, la végétation, le niveau de la mer, la position exacte des fondations et le degré de vieillissement des pierres relèvent d’une mise en scène conjecturale. Le trait de côte antique était différent de l’actuel et l’îlot de Palatia ne doit pas être présenté avec la chaussée moderne. La scène n’est donc ni une photographie du site en 524 av. J.-C., ni un relevé des ruines actuelles, mais une évocation archéologique libre et non métrique.",
+  "certainty": {
+    "high": "Localisation à Palatia, vaste chantier archaïque, Portara en marbre, temple resté inachevé.",
+    "medium": "Conception architecturale déduite des fondations et de l’élévation subsistante (ne signifie pas réalisation).",
+    "low": "Élévations non conservées, petits bâtiments, paysage, rivage, bateaux, disposition des pierres, coloration et lumière."
+  },
+  "sources": [
+    {
+      "label": "Éphorie des Antiquités des Cyclades, « The sanctuary of Delian Apollo (Portara), Naxos »",
+      "url": "https://cyclades.culture.gov.gr/en/location/the-sanctuary-of-delian-apollo-portara-naxos/"
+    },
+    {
+      "label": "Éphorie des Antiquités des Cyclades, « Naxos » (contexte cultuel et géographique)",
+      "url": "https://cyclades.culture.gov.gr/en/location/naxos/"
+    },
+    {
+      "label": "The Aegean Islands, « Portara » (documentation patrimoniale)",
+      "url": "https://www.aegeanislands.gr/pois/naxos-portara-en/"
+    },
+    {
+      "label": "ToposText, Temple of Apollo (Naxos) — fiche du lieu",
+      "url": "https://topostext.org/place/371253SApo"
+    },
+    {
+      "label": "CyArk / Google Arts & Culture, « Temple of Apollo Portara, Greece » (documentation numérique du monument)",
+      "url": "https://artsandculture.google.com/story/qAWxiL7Yu_CnLA"
+    }
+  ],
+  "width": 1672,
+  "height": 941,
+  "sha256": "7f398d687996708e73a460f14ec2c20c913e7e798d420cb15453e43efdc20ac5",
+  "method": "Rendu 3D photoréaliste généré avec une IA, création contemporaine interprétative. Pas de plan 2,5D, ni texte ou menu incrusté, ni reconstitution métrique, ni validation institutionnelle.",
+  "publication_status": "NON PUBLIÉ — transfert binaire vers GitHub bloqué ; en attente de commit et de vérification sur bobmythos.fr."
+}

@@ -2,7 +2,7 @@
   "generated_at": "2026-11-04",
   "site": "bobmythos.fr",
   "method": "Illustrations photoréalistes interprétatives, textes et sources hors des pixels.",
-  "count": 37,
+  "count": 38,
   "entries": [
     {
       "id": "DEL-PAN-001",
@@ -732,6 +732,30 @@
       "provenance": "Création originale réalisée avec génération d’image ; aucune carte archéologique ni restitution officielle n’a été copiée.",
       "sha256": "5d2a6df02a0e39f964f9a604513a681bee66a0ff0241d0a35d3a8ba33040814a",
       "scientific_notice": "/assets/reconstitutions-3d/notices/olympie-palestre-cour-hellenistique-panorama.json"
+    },
+    {
+      "id": "NAX-POR-001",
+      "slug": "naxos-portara-temple-apollon-inacheve-panorama",
+      "title": "Naxos (Palatia) — Portara, porte du temple inachevé d’Apollon",
+      "period": "Vers 530–524 av. J.-C. (chantier archaïque interrompu ; évocation non métrique)",
+      "caption": "Vue 3D photoréaliste interprétative de la Portara et des fondations du temple inachevé sur Palatia, avant les aménagements médiévaux et contemporains.",
+      "commentary": "Sur le promontoire de Palatia, à proximité de la cité antique de Naxos, le tyran Lygdamis fit entreprendre vers 530 av. J.-C. un temple monumental dédié à Apollon. Sa chute vers 524 av. J.-C. interrompit le programme, jamais achevé. L’encadrement de porte de marbre naxien, nommé Portara, atteint environ six mètres de haut et reste le témoin majeur du projet. Les fondations permettent de restituer le programme architectural envisagé : pronaos, naos et chambre arrière, avec une colonnade périptère projetée de six colonnes sur les petits côtés et douze sur les longs, les façades prévoyant un dédoublement de leur ordonnance. Cette conception ne signifie PAS que le péristyle a été construit. L’image montre volontairement un temple inachevé, et non un sanctuaire achevé doté de ses colonnades. Les assises visibles dans le rendu, les blocs erratiques, les maisons d’arrière-plan, les voiliers, les côtes, la végétation, le niveau de la mer, la position exacte des fondations et le degré de vieillissement des pierres relèvent d’une mise en scène conjecturale. Le trait de côte antique était différent de l’actuel et l’îlot de Palatia ne doit pas être présenté avec la chaussée moderne. La scène n’est donc ni une photographie du site en 524 av. J.-C., ni un relevé des ruines actuelles, mais une évocation archéologique libre et non métrique.",
+      "certainty": "Élevé : localisation à Palatia, période archaïque, chantier de Lygdamis vers 530 av. J.-C., inachèvement après 524 av. J.-C., grande porte en marbre et vestiges de fondations. Moyen : plan projeté du temple (pronaos, naos, chambre arrière, péristyle de 6 × 12) déduit des vestiges ; détails d’assemblage de la porte. Faible : état et position exacts des fondations à une date donnée, paysage, trait de côte, maisons, embarcations, lumière, aspect de surface du marbre, blocs dispersés, proportions de l’arrière-plan.",
+      "source_url": "https://cyclades.culture.gov.gr/en/location/the-sanctuary-of-delian-apollo-portara-naxos/",
+      "secondary_sources": [
+        "https://cyclades.culture.gov.gr/en/location/naxos/",
+        "https://www.aegeanislands.gr/pois/naxos-portara-en/",
+        "https://topostext.org/place/371253SApo",
+        "https://artsandculture.google.com/story/qAWxiL7Yu_CnLA"
+      ],
+      "src": "/assets/reconstitutions-3d/naxos-portara-temple-apollon-inacheve-panorama.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-04",
+      "type": "panorama 3D photoréaliste interprétatif non métrique",
+      "provenance": "Image originale créée par IA ; interprétation distincte des sources archéologiques et non approuvée par les institutions citées.",
+      "sha256": "7f398d687996708e73a460f14ec2c20c913e7e798d420cb15453e43efdc20ac5",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/naxos-portara-temple-apollon-inacheve-panorama.json"
     }
   ]
 }
