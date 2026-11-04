@@ -1130,6 +1130,12 @@
         "url": "/chapitres/tragedies/volume-ccv-euripide-oedipe-sphinx-papyrus-authenticite/",
         "title": "Volume CCV (205) — Partie I — L’œuvre, le récit antique et les témoins",
         "source": "chapitres/tragedies/volume-ccv-euripide-oedipe-sphinx-papyrus-authenticite.md"
+      },
+      {
+        "number": 206,
+        "url": "/chapitres/tragedies/volume-ccvi-euripide-chrysippe-laios-hospitalite-malediction/",
+        "title": "Volume CCVI (206) — I. UNE ŒUVRE PERDUE AU CŒUR DE DEUX GÉNÉALOGIES",
+        "source": "chapitres/tragedies/volume-ccvi-euripide-chrysippe-laios-hospitalite-malediction.md"
       }
     ],
     "comparatif": [
@@ -1822,6 +1828,12 @@
         "url": "/chapitres/comparatif/volume-clxix-arjun-appadurai-vie-sociale-choses-politique-valeur-marchandisation-globalisation/",
         "title": "Volume CLXIX (169) — Arjun Appadurai : la vie sociale des choses, la politique de la valeur, la marchandisation et les mondes globalisés",
         "source": "chapitres/comparatif/volume-clxix-arjun-appadurai-vie-sociale-choses-politique-valeur-marchandisation-globalisation.md"
+      },
+      {
+        "number": 170,
+        "url": "/chapitres/comparatif/volume-clxx-alfred-gell-art-agency-objet-image-sacree-anthropologie/",
+        "title": "Volume CLXX (170) — Résumé",
+        "source": "chapitres/comparatif/volume-clxx-alfred-gell-art-agency-objet-image-sacree-anthropologie.md"
       }
     ],
     "comedies": [
@@ -2190,6 +2202,12 @@
         "url": "/chapitres/comedies/volume-061-pherekrates-cheiron-musique-justice-nouvelle-musique/",
         "title": "Volume LXI (61) — Phérécrate, Cheirôn (Χείρων, « Chiron ») : la Musique blessée, la Justice et la révolution sonore d'Athènes",
         "source": "chapitres/comedies/volume-061-pherekrates-cheiron-musique-justice-nouvelle-musique.md"
+      },
+      {
+        "number": 62,
+        "url": "/chapitres/comedies/volume-062-pherekrates-agrioi-misanthropie-cite-education-justice/",
+        "title": "Volume LXII (62) — Phérécrate, Agrioi (Ἄγριοι, « Les Sauvages ») — Misanthropie, cité et éducation de la justice",
+        "source": "chapitres/comedies/volume-062-pherekrates-agrioi-misanthropie-cite-education-justice.md"
       }
     ],
     "origines-du-sacre": [
@@ -3116,6 +3134,18 @@
         "url": "/chapitres/origines-du-sacre/604-instituer-expert-pretresse-athena-nike-savants-ninive/",
         "title": "Chapitre 604 — Instituer l'expert religieux : tirage au sort, lignage, colophons et autorité des spécialistes",
         "source": "chapitres/origines-du-sacre/604-instituer-expert-pretresse-athena-nike-savants-ninive.md"
+      },
+      {
+        "number": 605,
+        "url": "/chapitres/origines-du-sacre/605-crise-eanna-revenus-ptolemees-temples/",
+        "title": "Chapitre 605 — Quand le temple manque de ressources : crise de l'Eanna, dotations ptolémaïques et limites de l'autonomie cultuelle",
+        "source": "chapitres/origines-du-sacre/605-crise-eanna-revenus-ptolemees-temples.md"
+      },
+      {
+        "number": 606,
+        "url": "/chapitres/origines-du-sacre/606-pretresses-cos-parts-sacrificielles-dionysos/",
+        "title": "Chapitre 606 — La part du prêtre : offices achetés, portions sacrificielles et économie de l'autorité à Cos",
+        "source": "chapitres/origines-du-sacre/606-pretresses-cos-parts-sacrificielles-dionysos.md"
       }
     ]
   },

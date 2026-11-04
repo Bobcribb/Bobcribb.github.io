@@ -195,6 +195,18 @@
           "path": "chapitres/origines-du-sacre/604-instituer-expert-pretresse-athena-nike-savants-ninive.md",
           "request_sha256": "3860633340d8c99ca1a4dbbe2272b84313f8b9807cb2236d823f06b6e97c6078",
           "initial_source_sha256": "44088a438426754e4e220d7a49797142cffaedf31e321d3b23120176e3fc2846"
+        },
+        "48a0e219-7465-47fb-bb92-c71f021e3c54": {
+          "number": 605,
+          "path": "chapitres/origines-du-sacre/605-crise-eanna-revenus-ptolemees-temples.md",
+          "request_sha256": "99a5926754d45888b17460507dc83fc8ead3cb30da037d986e65b4e77663839f",
+          "initial_source_sha256": "42ccd9daf87e925687ce3bc764ed9d28cb5745a873cb5c2813d071a04a493a1b"
+        },
+        "b3a54f0e-9c18-4af6-b659-07bb4bc22da1": {
+          "number": 606,
+          "path": "chapitres/origines-du-sacre/606-pretresses-cos-parts-sacrificielles-dionysos.md",
+          "request_sha256": "02f530bbc0c4b7f6bf171fbc9909268a28ddac1a1eafb62832eeedc4fc9d1b92",
+          "initial_source_sha256": "ba7d08ea56e991d4c2b0103006f62c3885adc0aff349a6f72cb15201f6058bac"
         }
       }
     },
@@ -501,6 +513,12 @@
           "path": "chapitres/comedies/volume-061-pherekrates-cheiron-musique-justice-nouvelle-musique.md",
           "request_sha256": "43946d975921b1051be6804d70fa8af59cc4c6919da1704ebb3a0e1c42add474",
           "initial_source_sha256": "62bcace02571d09b282a30a94e9cd5d10a7937b126e675a642511a3d02743d35"
+        },
+        "90a0f844-26e1-4d7e-95f0-f0e4d2c69a7b": {
+          "number": 62,
+          "path": "chapitres/comedies/volume-062-pherekrates-agrioi-misanthropie-cite-education-justice.md",
+          "request_sha256": "de1d3efdf0db70e6980bb4295746061ea55707291090ab98e8edf48db9dc6cf3",
+          "initial_source_sha256": "84e0a2f5292bbcb94cf2aa7f34b8801f37c6c1da0958b25dc30577e8dd9ccd0d"
         }
       }
     },
@@ -633,6 +651,12 @@
           "path": "chapitres/tragedies/volume-ccv-euripide-oedipe-sphinx-papyrus-authenticite.md",
           "request_sha256": "71f0360b638116b9126d2bcd59c91da4e3d4f215a80d91a2ae2ba8dd629786d7",
           "initial_source_sha256": "3f912d21e7b7d663b24a1106290d1fd44cf8d0b7408479220fc8a315f223c6e8"
+        },
+        "8c7e0ce8-930c-4fd1-829b-1ab6589cc9cf": {
+          "number": 206,
+          "path": "chapitres/tragedies/volume-ccvi-euripide-chrysippe-laios-hospitalite-malediction.md",
+          "request_sha256": "11386ad5a76badaefe1048e7b98d197ea379bc5234a7b91561a1b83e4aa62bb2",
+          "initial_source_sha256": "695a9ca647dddeeb9bc24f9a3e09e87544009da005b95d3a33b51e284d87945f"
         }
       }
     },
@@ -809,6 +833,12 @@
           "path": "chapitres/comparatif/volume-clxix-arjun-appadurai-vie-sociale-choses-politique-valeur-marchandisation-globalisation.md",
           "request_sha256": "c2513a23f3fc18ed449a56a8b5b1261ef86857554981abf0e53167df33b7d03f",
           "initial_source_sha256": "1022c7ef5e94607c9416665a15cc74fff069e24496f33b656069335d902b6ace"
+        },
+        "b6e2407a-0b75-46e0-9903-8f241a8d6e19": {
+          "number": 170,
+          "path": "chapitres/comparatif/volume-clxx-alfred-gell-art-agency-objet-image-sacree-anthropologie.md",
+          "request_sha256": "9ea5bba01922067d87c3acc534751ca23e6ff7ab9254481ff2da1fd3e85797f1",
+          "initial_source_sha256": "a4b4dbdf5109e3cbf4dcad13d1d67816ac78cd503813c9287c447740564fd702"
         }
       }
     }
