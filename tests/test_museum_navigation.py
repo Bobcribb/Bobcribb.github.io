@@ -87,6 +87,36 @@ class MuseumNavigationTests(unittest.TestCase):
                     self.assertIn('Sources conservées.', doc.get_text(' ', strip=True))
 
 
+    def test_gallery_card_survives_repeated_museum_passes(self):
+        """Une seule carte illustrée, sans perdre le texte de la page."""
+        with TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            page = root / 'index.html'
+            page.write_text(
+                '<html lang="fr"><head><title>MYTHOS</title></head><body>'
+                '<main><article class="content"><section class="portal-section" '
+                'id="home-collections"><h2>Les collections</h2>'
+                '<div class="portal-grid"><a class="portal-card" '
+                'href="/mythologie-grecque/"><strong>Grèce</strong></a></div>'
+                '</section><p id="archive">Bibliographie et sources conservées.</p>'
+                '</article></main></body></html>',
+                encoding='utf-8')
+            for _ in range(2):
+                self.assertEqual(apply(root), 1)
+                doc = BeautifulSoup(page.read_text(encoding='utf-8'), 'html.parser')
+                cards = doc.select(
+                    '#home-collections a.portal-card'
+                    '[href="/reconstitutions-photorealistes.html"]'
+                )
+                self.assertEqual(len(cards), 1)
+                self.assertEqual(
+                    cards[0].select_one('img')['src'],
+                    '/assets/reconstitutions-3d/delphes-apollon-panorama.webp')
+                self.assertIn('degrés de certitude', cards[0].get_text(' ', strip=True))
+                self.assertIn('Bibliographie et sources conservées.',
+                              doc.select_one('#archive').get_text())
+                self.assertEqual(len(doc.select('a.portal-card[href="/mythologie-grecque/"]')), 1)
+
     def test_gallery_card_is_present_in_home_collections(self):
         # Verrouiller l'entrée illustrée du portail, et non seulement le menu.
         home = BeautifulSoup((ROOT / 'index.html').read_text(encoding='utf-8'), 'html.parser')
