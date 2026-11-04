@@ -85,8 +85,11 @@ def add_scholarly_toc(doc, main, rel):
     if not main or not (rel.startswith('chapitres/') and rel.endswith('/index.html')):
         return
     article = main.select_one('article.content') or main
-    # La reconstruction doit produire exactement un sommaire automatique.
-    for old in article.select('nav.mythos-scholarly-toc'):
+    # Placer le sommaire hors de l'article : la prose, les notes et les
+    # comparaisons textuelles des sources universitaires restent identiques.
+    if main.name == 'article':
+        return
+    for old in main.select('nav.mythos-scholarly-toc'):
         old.decompose()
     # Ne pas doubler un sommaire d'auteur, ni déplacer ses références.
     if article.select_one('.toc, .article-toc, .table-of-contents, nav[aria-label*="ommaire"]'):
@@ -133,7 +136,7 @@ def add_scholarly_toc(doc, main, rel):
         item.append(link)
         ordered.append(item)
     toc.append(ordered)
-    article.insert(0, toc)
+    main.insert(0, toc)
 
 
 def apply(root):
