@@ -80,6 +80,62 @@ PORTAL_DESCRIPTIONS = {
 }
 
 
+def add_scholarly_toc(doc, main, rel):
+    """Sommaire de lecture pour les études publiées, sans modifier leur source."""
+    if not main or not (rel.startswith('chapitres/') and rel.endswith('/index.html')):
+        return
+    article = main.select_one('article.content') or main
+    # La reconstruction doit produire exactement un sommaire automatique.
+    for old in article.select('nav.mythos-scholarly-toc'):
+        old.decompose()
+    # Ne pas doubler un sommaire d'auteur, ni déplacer ses références.
+    if article.select_one('.toc, .article-toc, .table-of-contents, nav[aria-label*="ommaire"]'):
+        return
+    headings = [node for node in article.find_all('h2')
+                if not node.find_parent(['nav', 'aside', 'footer'])
+                and node.get_text(' ', strip=True)]
+    if any(re.match(r'^(sommaire|table des mati[eè]res|plan de (?:l[’\']|la )étude)\\b',
+                    node.get_text(' ', strip=True), re.I) for node in headings):
+        return
+    # Sommaires compacts : conserver les plans détaillés déjà rédigés au-delà
+    # de 32 rubriques, plutôt que les remplacer par une liste tronquée.
+    if not 3 <= len(headings) <= 32:
+        return
+    existing = {node.get('id') for node in doc.find_all(id=True)}
+    targets = []
+    for position, node in enumerate(headings, 1):
+        anchor = node.get('id')
+        if not anchor:
+            original_anchor = node.find(id=True)
+            anchor = original_anchor.get('id') if original_anchor else None
+        if anchor and len(doc.find_all(id=anchor)) != 1:
+            return  # Ancres déjà ambiguës : ne pas fabriquer de lien incertain.
+        if not anchor:
+            candidate = f'mythos-section-{position}'
+            while candidate in existing:
+                candidate += '-bis'
+            node['id'] = candidate
+            anchor = candidate
+            existing.add(anchor)
+        targets.append((anchor, node.get_text(' ', strip=True)))
+    toc = doc.new_tag('nav', attrs={
+        'class': 'mythos-scholarly-toc',
+        'aria-label': 'Sommaire de l’étude',
+    })
+    label = doc.new_tag('p', attrs={'class': 'mythos-scholarly-toc-title'})
+    label.string = 'Dans cette étude'
+    toc.append(label)
+    ordered = doc.new_tag('ol')
+    for anchor, title in targets:
+        item = doc.new_tag('li')
+        link = doc.new_tag('a', href='#' + anchor)
+        link.string = title
+        item.append(link)
+        ordered.append(item)
+    toc.append(ordered)
+    article.insert(0, toc)
+
+
 def apply(root):
     root = Path(root)
     count = 0
@@ -208,6 +264,7 @@ def apply(root):
         if main:
             for inner_heading in main.select('h1'):
                 inner_heading.name = 'h2'
+        add_scholarly_toc(doc, main, rel)
         # Keep all iconography; display it below the text as a horizontal gallery.
         for rail in doc.select('.mythos-visual-rail, .mythos-home-illustrations, .article-aside'):
             rail['class'] = list(dict.fromkeys(rail.get('class',[]) + ['mythos-bottom-gallery']))
