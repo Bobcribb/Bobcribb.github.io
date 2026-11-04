@@ -442,7 +442,7 @@ CSS = '''
 .greek-folder-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:1rem}
 .greek-folder-entry{min-width:0;display:flex;flex-direction:column;border:1px solid #785f3f;border-radius:5px;overflow:hidden;background:#101718}
 .greek-folder-link{min-width:0;display:flex;flex:1;flex-direction:column;padding:0 1.1rem 1rem;color:#f0e5d2!important;text-decoration:none}
-.greek-folder-illustration{width:calc(100% + 2.2rem);height:160px;object-fit:cover;display:block;margin:0 -1.1rem .8rem;border-bottom:1px solid #785f3f}
+.mythos-design .greek-folder-link>.greek-folder-illustration{width:calc(100% + 2.2rem)!important;max-width:none!important;height:160px!important;object-fit:cover;display:block;margin:0 -1.1rem .8rem!important;border-bottom:1px solid #785f3f}
 .greek-folder-kicker{color:#d8bd89;font:600 .68rem/1.6 system-ui;letter-spacing:.11em;margin-top:.85rem}
 .greek-folder-link strong{font:1.3rem/1.3 Georgia,serif;color:#efd7a6;margin:.45rem 0 .6rem}
 .greek-folder-description{color:#e2d5bc;font:1rem/1.6 Georgia,serif}
@@ -453,7 +453,7 @@ CSS = '''
 .greek-folder-credit summary{color:#ead0a4;cursor:pointer}
 .greek-folder-credit p{font-size:.8rem;margin:.55rem 0}
 .greek-folder-credit a{color:#f7dda7;text-decoration:underline}
-@media(max-width:700px){.greek-folder-illustration{height:125px}}
+@media(max-width:700px){.mythos-design .greek-folder-link>.greek-folder-illustration{height:125px!important}}
 .greek-folder-toc ul{display:flex;flex-wrap:wrap;justify-content:center;gap:.7rem;list-style:none;padding:0}
 .greek-folder-toc a{display:block;padding:.7rem 1rem;border:1px solid #8b724d;border-radius:5px;color:#ead3a9;text-decoration:none}
 .greek-folder-links{list-style:none;padding:0;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:.8rem 1.6rem}

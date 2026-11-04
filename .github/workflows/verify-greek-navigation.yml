@@ -1,0 +1,36 @@
+name: Vérifier la navigation grecque sur trois formats
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/verify-greek-navigation.yml'
+      - 'scripts/verify_greek_navigation.cjs'
+
+permissions:
+  contents: read
+
+jobs:
+  browser:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Installer le navigateur compatible avec le serveur
+        run: |
+          npm install --prefix /tmp/mythos-browser playwright@1.58.2
+          /tmp/mythos-browser/node_modules/.bin/playwright install --with-deps chromium
+      - name: Parcourir le site public sur ordinateur, smartphone et tablette
+        env:
+          NODE_PATH: /tmp/mythos-browser/node_modules
+        run: node scripts/verify_greek_navigation.cjs
+      - name: Conserver le rapport et les captures
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: mythos-navigation-responsive
+          path: /tmp/mythos-navigation
+          if-no-files-found: warn
