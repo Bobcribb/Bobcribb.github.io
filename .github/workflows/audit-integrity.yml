@@ -6,6 +6,8 @@ on:
     paths:
       - '.github/workflows/audit-integrity.yml'
       - 'scripts/audit_integrity.py'
+      - 'scripts/sitemap_integrity.py'
+      - 'tests/test_sitemap_integrity.py'
       - 'scripts/build_native.py'
       - 'scripts/editorial_numbering.py'
       - 'tests/test_editorial_numbering.py'
