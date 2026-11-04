@@ -1,0 +1,40 @@
+{
+  "id": "KOS-ASK-001",
+  "slug": "kos-asklepieion-terrasses-hellenistiques",
+  "title": "Kos — Asclépiéion, sanctuaire d’Asclépios sur trois terrasses",
+  "period": "Évocation vers 150 av. J.-C. (milieu du IIe siècle av. J.-C.)",
+  "image": "/assets/reconstitutions-3d/kos-asklepieion-terrasses-hellenistiques.webp",
+  "caption": "Panorama 3D photoréaliste interprétatif du sanctuaire d’Asclépios à Kos : trois terrasses reliées par de grands escaliers, portiques et temple dorique supérieur, dans un paysage égéen.",
+  "commentary": "Le sanctuaire d’Asclépios de Kos occupe une pente aménagée en trois terrasses et connut plusieurs campagnes de construction entre le IVe et le IIe siècle av. J.-C. La terrasse inférieure comportait un portique dorique en Π avec locaux annexes, organisé dès le IIIe siècle av. J.-C. ; au niveau intermédiaire se trouvaient un autel et un ancien temple d’Asclépios, appelé temple B, de tradition ionique. Sur la terrasse supérieure, le grand temple A, dorique et périptère, fut entrepris vers 170 av. J.-C. ; des portiques de marbre et le grand escalier monumental participaient à la composition hellénistique. La date retenue, vers 150 av. J.-C., est une évocation du sanctuaire après les principaux travaux du IIe siècle, et non une reconstitution synchronique scientifiquement démontrée. Les rapports de volumes entre les terrasses, la position apparente de certains édifices, les toitures en tuiles, les élévations de la colonnade centrale, l’autel, la végétation et l’horizon maritime sont des propositions graphiques non métriques. Le temple d’Apollon dans son état à colonnes corinthiennes, associé à des phases impériales, ne doit pas être projeté dans ce tableau vers 150 av. J.-C. ; aucun bâtiment de bains ni élément romain n’est revendiqué dans la scène. La tradition attribuant à Hippocrate l’enseignement dans le sanctuaire ne constitue pas une preuve matérielle de l’emplacement précis d’une école. Les sources documentent le site mais ne valident pas l’image créée.",
+  "certainty": {
+    "high": "Existence du sanctuaire, organisation principale en trois terrasses, présence du grand temple dorique A (IIe siècle av. J.-C.) et du temple antérieur B, escaliers monumentaux.",
+    "medium": "Chronologie générale des réaménagements hellénistiques et parti d’ensemble des portiques, proportions approximatives des plateformes.",
+    "low": "Toitures complètes et détails de charpente, alignement exact des volumes sur la vue, dallages, décor sculpté, couleurs, arbres, mer, édifices secondaires, apparence des façades."
+  },
+  "sources": [
+    {
+      "label": "Visit Greece — Asklepieion de Kos (ressource touristique nationale)",
+      "url": "https://www.visitgreece.gr/en/experiences/culture/archaeological-sites-monuments/asklepieion"
+    },
+    {
+      "label": "John R. Senseney, « Idea and Visuality in Hellenistic Architecture », Hesperia 76 (2007), p. 555–595 (American School of Classical Studies at Athens)",
+      "url": "https://www.ascsa.edu.gr/uploads/media/hesperia/25068032.pdf"
+    },
+    {
+      "label": "Université de Cologne — recherches stratigraphiques et chronologiques sur l’Asclépiéion de Kos",
+      "url": "https://archaeologie.phil-fak.uni-koeln.de/forschung/forschungsprojekte/dfg-projekt-untersuchung-zur-stratigraphie-und-chronologie-des-asklepieions-von-kos"
+    },
+    {
+      "label": "Municipalité de Kos — Asclépiéion",
+      "url": "https://kos.gr/historical-monuments-and-museums/asclepieion"
+    }
+  ],
+  "rights_and_method": "Création numérique 3D photoréaliste assistée par IA, originale, sans texte, interface ou menu incrusté ; image interprétative non photogrammétrique. Les institutions citées ne valident pas le rendu.",
+  "scientific_method": "Séparation entre vestiges attestés, synthèse architecturale et hypothèses de restitution. Ne pas confondre une vue du IIe siècle av. J.-C. avec les ajouts d’époque romaine.",
+  "sha256": "96982ae7db20539058af645a9e01eb84a5c6ea7e9a75c5a5252f84381654fd13",
+  "width": 1672,
+  "height": 941,
+  "file_size_bytes": 434290,
+  "created_at": "2026-11-04",
+  "source_accessed": "2026-11-04"
+}
