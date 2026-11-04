@@ -52,5 +52,38 @@ class CanonicalURLTests(unittest.TestCase):
             self.assertIsNone(BeautifulSoup((root/'anciennes-pages/index.html').read_text(), 'html.parser').select_one('.mythos-banner'))
 
 
+    def test_photorealistic_home_card_retains_verified_image_after_two_builds(self):
+        markup = ('''<html><head><title>MYTHOS</title></head><body><main>
+<h1>MYTHOS</h1><p>Texte scientifique et liens conservés.</p>
+<section class="portal-section" id="sanctuaires-en-images">
+<a class="portal-card" href="/reconstitutions-photorealistes.html#delphes-apollon-panorama">
+<img class="mythos-card-image" src="/assets/reconstitutions-3d/delphes-apollon-panorama.webp"
+alt="" loading="lazy" decoding="async"><strong>Delphes</strong></a>
+<a class="portal-card" href="/theatre/"><img class="mythos-card-image"
+src="/assets/legacy-perspective.svg" alt=""><strong>Théâtre grec</strong></a>
+</section></main></body></html>''')
+        with TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            (root/'assets/reconstitutions-3d').mkdir(parents=True)
+            (root/'assets/reconstitutions-3d/delphes-apollon-panorama.webp').write_bytes(
+                b'RIFF' + b'\\x04\\x00\\x00\\x00' + b'WEBP')
+            (root/'media/2026/10').mkdir(parents=True)
+            (root/'media/2026/10/epidaure-theatre-antique-zde.jpg').write_bytes(b'photo')
+            page = root/'index.html'
+            page.write_text(markup, encoding='utf-8')
+            for _ in range(2):
+                self.assertEqual(apply(root), 1)
+                doc = BeautifulSoup(page.read_text(encoding='utf-8'), 'html.parser')
+                cards = doc.select('.portal-section .portal-card')
+                self.assertEqual(len(cards), 2)
+                self.assertEqual([img['src'] for img in cards[0].select('img')],
+                                 ['/assets/reconstitutions-3d/delphes-apollon-panorama.webp'])
+                self.assertEqual([img['src'] for img in cards[1].select('img')],
+                                 ['/media/2026/10/epidaure-theatre-antique-zde.jpg'])
+                self.assertIn('Texte scientifique et liens conservés.', doc.get_text(' ', strip=True))
+                self.assertEqual(cards[0]['href'],
+                                 '/reconstitutions-photorealistes.html#delphes-apollon-panorama')
+
+
 if __name__ == '__main__':
     unittest.main()
