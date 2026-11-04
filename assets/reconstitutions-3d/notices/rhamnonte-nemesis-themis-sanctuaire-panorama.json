@@ -1,0 +1,37 @@
+{
+  "id": "RHA-NEM-001",
+  "slug": "rhamnonte-nemesis-themis-sanctuaire-panorama",
+  "title": "Rhamnonte — sanctuaire de Némésis et Thémis, en Attique",
+  "period": "Évocation vers 420–400 av. J.-C. (fin du Ve siècle av. J.-C.)",
+  "image": "/assets/reconstitutions-3d/rhamnonte-nemesis-themis-sanctuaire-panorama.webp",
+  "caption": "Vue panoramique photoréaliste interprétative de la terrasse sacrée de Rhamnonte, avec le grand temple dorique de Némésis et le petit sanctuaire voisin associé à Thémis, face au golfe d’Eubée.",
+  "commentary": "Le sanctuaire de Rhamnonte, en Attique nord-orientale, domine le golfe d’Eubée. Une terrasse artificielle porte deux temples voisins. Le grand temple de Némésis est un temple dorique périptère à six colonnes sur les petits côtés et douze sur les grands côtés, daté de la seconde moitié du Ve siècle av. J.-C. ; des finitions restèrent inachevées. Le bâtiment voisin, plus ancien et de moindre dimension, était associé aux cultes de Némésis et Thémis. La proposition visuelle figure une phase approximative vers 420–400 av. J.-C., mais la toiture entièrement achevée du grand temple, les ornements sculptés répétés sur les côtés, la polychromie, la forme du petit sanctuaire et la disposition des chemins et des paysages sont conjecturales. Le décor latéral figuré est particulièrement susceptible d’être excessif et ne doit pas être considéré comme documenté. L’image ne résulte d’aucun relevé photogrammétrique et ne prétend pas montrer un état stratigraphique certifié. Le paysage maritime et les deux temples voisins sont attestés, mais leurs dimensions et leur implantation relative dans l’image ne sont pas métriquement validées. Les sources citées documentent le monument ; elles ne cautionnent pas cette image.",
+  "certainty": {
+    "high": "Terrasse sanctuarisée de Rhamnonte; deux temples voisins; grand temple dorique 6 × 12; environnement maritime vers le golfe d’Eubée.",
+    "medium": "Datation relative du grand édifice vers le dernier tiers du Ve siècle av. J.-C. et disposition générale des deux monuments.",
+    "low": "État achevé des toitures et parties hautes, reliefs sculptés répétés, couleurs, paysage, dimensions, chemins et limites du sanctuaire."
+  },
+  "sources": [
+    {
+      "label": "Hellenic Heritage — Rhamnous : Némésis et Thémis",
+      "url": "https://www.hh.gr/en/destinations/rhamnous/"
+    },
+    {
+      "label": "American School of Classical Studies at Athens — Hesperia 58/2 (1989), Margaret M. Miles, p. 131–249",
+      "url": "https://www.ascsa.edu.gr/index.php/publications/hesperia/issue/58/2/"
+    },
+    {
+      "label": "Perseus Art and Archaeology Browser — Rhamnous",
+      "url": "https://perseus-aa.github.io/items/aa_3913.html"
+    }
+  ],
+  "rights_and_method": "Reconstitution numérique photoréaliste originale assistée par IA, évocation interprétative non métrique. Aucun menu, texte ou interface incrusté. Ni photogrammétrie ni caution scientifique institutionnelle.",
+  "scientific_method": "Documentation patrimoniale grecque et recherche architecturale universitaire; analyse différenciée des vestiges, hypothèses et liberté graphique.",
+  "publication_status": "added_to_github_repository__public_domain_check_required",
+  "sha256": "39450b0d17260e59b83ff6bd30dca13afb5fb8e1084b3ec73169fa03f9374270",
+  "width": 1672,
+  "height": 941,
+  "file_size_bytes": 315700,
+  "created_at": "2026-11-04",
+  "source_accessed": "2026-11-04"
+}
