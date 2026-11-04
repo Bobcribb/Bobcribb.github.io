@@ -6,6 +6,41 @@ from bs4 import BeautifulSoup
 from html import escape
 import re
 import hashlib
+import json
+
+
+REWRITES = Path('corpus/mythologie-grecque/recritures-2026-11-04.json')
+
+
+def rewritten_studies(root):
+    """Resolve new studies through their allocation receipts, never guessed numbers."""
+    manifest = root / REWRITES
+    if not manifest.is_file():
+        return []
+    data = json.loads(manifest.read_text(encoding='utf-8'))
+    if data.get('version') != 1:
+        raise RuntimeError('Version du parcours de réécriture inconnue')
+    registry = json.loads((root / 'editorial/numbering.json').read_text(encoding='utf-8'))
+    allocations = registry['collections']['encyclopedie']['allocations']
+    rows = []
+    seen = set()
+    for study in data['studies']:
+        key = study['request_id']
+        if key in seen:
+            raise RuntimeError('Réécriture répétée : ' + key)
+        seen.add(key)
+        receipt = allocations.get(key)
+        if not receipt:
+            raise RuntimeError('Réécriture non attribuée : ' + key)
+        expected = f"chapitres/encyclopedie/chapitre-{receipt['number']}-{study['slug']}.md"
+        if receipt['path'] != expected or not (root / expected).is_file():
+            raise RuntimeError('Manuscrit de réécriture incohérent : ' + key)
+        if study['kind'] not in ('identified', 'reconstructed'):
+            raise RuntimeError('Statut de réécriture inconnu : ' + key)
+        if study['kind'] == 'reconstructed' and study['historical_number'] is not None:
+            raise RuntimeError('Numéro historique inventé pour une reconstruction : ' + key)
+        rows.append({**study, 'number': receipt['number'], 'url': '/' + expected[:-3] + '/'})
+    return rows
 
 ARCHIVES = [
  ("Hésiode : cosmogonie et Théogonie","livre-hesiode.html"),
@@ -139,6 +174,7 @@ def page_title(path):
     return e.get_text(" ",strip=True) if e else path.parent.name.replace("-"," ").title()
 
 def main(out, root):
+    rewrites = rewritten_studies(root)
     path = out/"mythologie-grecque"/"index.html"
     if not path.is_file():
         raise RuntimeError("Le portail grec principal est absent")
@@ -208,6 +244,28 @@ def main(out, root):
         section_html += '<details class="greek-book"><summary>'+escape(title)+' — '+str(len(rows))+' sections</summary><ul class="greek-corpus-links">'+''.join(link(u,t) for u,t in rows)+'</ul></details>'
     section_html += '</section>'
     menu += '<a href="#grec-sections">Sommaires détaillés ('+str(section_count)+')</a><a href="#grec-en-attente">État des lacunes</a>'
+    rewrite_html = ''
+    recovery_status = '''<p>Chiron et les chapitres 118–133 ainsi que la série historique 218–224
+    figurent au registre de récupération ; ils ne sont pas déclarés publiés
+    sans contrôle de leurs textes complets. La numérotation des études présentes est unique ;
+    les anciennes références sont conservées dans le registre de correspondance.</p>'''
+    if rewrites:
+        identified = sum(s['kind'] == 'identified' for s in rewrites)
+        reconstructed = len(rewrites) - identified
+        menu = '<a href="#grec-recritures">Nouvelles rédactions ('+str(len(rewrites))+')</a>' + menu
+        rewrite_html = '<section class="greek-corpus-group" id="grec-recritures"><h3>'+str(len(rewrites))+' nouvelles études pour les lacunes du corpus</h3>'
+        rewrite_html += '<p>Rédaction du 4 novembre 2026 : '+str(identified)+' sujets historiquement identifiés (Chiron, ancien 118 ; série 218–224) et '+str(reconstructed)+' études d’un parcours reconstitué du Pélion aux Hespérides. Chaque texte développe le récit, les variantes et une analyse accompagnée de références antiques.</p>'
+        rewrite_html += '<p><strong>Les anciens manuscrits n’ont pas été retrouvés.</strong> Les nouveaux textes sont signalés comme tels. Pour 119–133, les titres exacts restent inconnus : les sujets du parcours ne leur sont pas attribués arbitrairement. Les numéros actuels ci-dessous sont ceux de la collection publiée.</p>'
+        for series, title in [('pelion-hesperides', 'Du Pélion aux Hespérides'), ('cosmogonie', 'Origines divines, souveraineté et condition humaine')]:
+            rewrite_html += '<h4>'+title+'</h4><ol class="greek-corpus-links">'
+            for study in rewrites:
+                if study['series'] != series:
+                    continue
+                historical = ('Sujet de l’ancien chapitre '+str(study['historical_number'])) if study['kind'] == 'identified' else 'Parcours reconstitué ; numéro historique non établi'
+                rewrite_html += '<li id="recriture-'+escape(study['slug'], quote=True)+'"><a href="'+escape(study['url'], quote=True)+'">Chapitre '+str(study['number'])+' — '+escape(study['title'])+'</a><small>'+escape(historical)+' · Nouvelle rédaction</small></li>'
+            rewrite_html += '</ol>'
+        rewrite_html += '</section>'
+        recovery_status = '<p>Les sujets de Chiron (ancien 118) et de la série 218–224 disposent désormais de <a href="#grec-recritures">nouvelles rédactions intégrales</a>. Un parcours de quinze études complète la continuation jusqu’aux Hespérides ; ses sujets ne sont pas présentés comme les titres retrouvés de 119–133. La récupération des anciens manuscrits reste distincte de ces nouvelles publications.</p>'
     html='''<section class="portal-section greek-corpus-full" id="greek-unified-corpus">
     <div class="greek-corpus-banner"><span class="greek-corpus-kicker">CORPUS GREC · MYTHOS</span>
     <h2>Mythologie grecque : livres, chapitres et dossiers disponibles</h2>
@@ -219,16 +277,13 @@ def main(out, root):
     '''+str(len(heroes))+''' notices de héros. Inventaire vérifié des fichiers disponibles,
     non de tous les manuscrits mentionnés dans les anciens échanges.</p>
     <nav class="greek-corpus-toc" aria-label="Sommaire de toute la mythologie grecque">'''+menu+'''</nav>
-    '''+blocks+section_html+'''
+    '''+rewrite_html+blocks+section_html+'''
     <section class="greek-corpus-group greek-corpus-pending" id="grec-en-attente">
     <h3>Chapitres dont le manuscrit complet reste à récupérer</h3>
     <p><strong>Série universitaire : numéros sans manuscrit individuel dans le dépôt — '''+escape(missing)+'''.</strong>
     Ces trous ne prouvent pas la perte d’autant de textes : les anciennes séries et les livres ont leurs propres divisions.
     Les notices courtes ou les sections d’un livre ne remplacent pas une étude approfondie manquante.</p>
-    <p>Chiron et les chapitres 118–133 ainsi que la série historique 218–224
-    figurent au registre de récupération ; ils ne sont pas déclarés publiés
-    sans contrôle de leurs textes complets. La numérotation des études présentes est unique ;
-    les anciennes références sont conservées dans le registre de correspondance.</p>
+    '''+recovery_status+'''
     <p><a href="https://github.com/Bobcribb/Bobcribb.github.io/blob/main/corpus/mythologie-grecque/REGISTRE-RECUPERATION.md">Consulter le registre des manuscrits manquants</a></p>
     </section></section>'''
     css=doc.new_tag("style",id="greek-unified-corpus-style")
@@ -270,7 +325,8 @@ def main(out, root):
             target.write_text(str(rendered), encoding="utf-8")
     return {"chapitres":len(chapters),"archives":len(archives),"dieux":len(gods),
             "heros":len(heroes),"monographies":len(monographs),"liens_uniques":len(seen),
-            "livres":len(books),"sections":section_count,"dossiers":len(dossiers),"lacunes_numeriques":missing}
+            "livres":len(books),"sections":section_count,"dossiers":len(dossiers),"lacunes_numeriques":missing,
+            "nouvelles_redactions":len(rewrites)}
 
 
 
@@ -283,6 +339,7 @@ def verify(out, root):
     expected = {'/chapitres/encyclopedie/'+p.stem+'/'
                 for p in (root/'chapitres/encyclopedie').glob('chapitre-*.md')}
     expected.update('/'+slug+'/' for _, slug in BOOKS)
+    rewrites = rewritten_studies(root)
     reference = None
     cache = {}
     for page in pages:
@@ -291,6 +348,11 @@ def verify(out, root):
         assert catalog, f'Sommaire grec absent : {page}'
         links = {a['href'] for a in catalog.select('a[href]')}
         assert expected <= links, f'Textes absents de {page} : {expected - links}'
+        if rewrites:
+            section = catalog.select_one('#grec-recritures')
+            assert section, f'Parcours de réécriture absent : {page}'
+            rewritten_links = {a['href'] for a in section.select('a[href]')}
+            assert rewritten_links == {s['url'] for s in rewrites}, f'Parcours de réécriture incomplet : {page}'
         assert "'+escape(" not in catalog.get_text(), 'Interpolation non résolue'
         if reference is None:
             reference = links

@@ -2,6 +2,17 @@
 
 Ce registre identifie les **textes déjà rédigés** mais non encore retrouvés sous forme de fichiers intégraux. Il ne doit pas être présenté comme un transfert de leurs contenus.
 
+## Nouvelles rédactions autorisées le 4 novembre 2026
+
+À la demande de réécrire les chapitres manquants, une nouvelle série de **23 études** a été rédigée, avec récits, variantes, analyses et références antiques. Elle ne constitue pas une récupération des manuscrits originaux.
+
+- **8 sujets identifiés** : Chiron (ancien 118), Nyx (218), Gaia–Ouranos–Cronos (219), Titanomachie (220), Typhon (221), Gigantomachie (222), Prométhée–Épiméthée–Pandore (223), Hypnos–Thanatos–Némésis–Moires (224).
+- **15 études d’un parcours reconstruit** : Ixion ; Lapithes et centaures ; Pholos ; Nessos ; Cénée ; Asclépios ; Pélée et Thétis ; éducation d’Achille ; Actéon ; Atalante ; Orion ; Pan ; satyres et silènes ; Atlas ; Hespérides.
+- Les titres exacts de **119–133 restent non retrouvés**. Les quinze sujets ci-dessus ne leur sont pas affectés comme des correspondances historiques. Les Hespérides sont attestées comme terme de la continuation, sans numéro exact établi.
+- Les nouveaux numéros sont attribués par la file éditoriale ; les références anciennes restent des repères documentaires. Le [manifeste des nouvelles rédactions](recritures-2026-11-04.json) associe chaque texte à sa demande immuable. Son reçu dans `editorial/numbering.json` détermine le chemin publié.
+
+Lecture : [les nouvelles études dans la Grande Encyclopédie](https://bobmythos.fr/grande-encyclopedie/#grec-recritures). Le générateur refuse de les annoncer disponibles tant que leur attribution et leur manuscrit ne sont pas présents.
+
 ## Série dieux, héros et récits
 
 - **Chiron** : dossier « Chiron, le plus sage des centaures : étude détaillée », signalé dans une conversation du 5 août 2026 ; étude approfondie reprise le 31 octobre 2026.
@@ -18,6 +29,6 @@ Voir les dix archives HTML dans [archives](archives/) : neuf documents grecs et 
 ## Contrôle éditorial
 
 - Statut des textes listés ci-dessus : **localisés dans l'historique, mais non encore extraits mot à mot**.
-- Ne pas recréer les chapitres de mémoire, ni les déclarer publiés.
+- Ne jamais présenter une nouvelle rédaction comme le manuscrit ancien retrouvé. L’autorisation du 4 novembre permet de rédiger de nouveaux textes sourcés ; elle ne transforme pas une reconstruction du plan en preuve de titres historiques.
 - Ne pas fusionner la numérotation des chapitres de l'encyclopédie avec celle des *Origines du sacré*.
 - Conserver Chiron comme point de départ de la série d'approfondissement des héros.

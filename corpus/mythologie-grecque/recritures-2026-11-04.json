@@ -1,0 +1,191 @@
+{
+  "version": 1,
+  "date": "2026-11-04",
+  "note": "8 sujets historiques identifiés ; 15 études d’un parcours reconstruit, sans attribution inventée aux anciens numéros 119–133. Les manuscrits originaux restent non retrouvés.",
+  "studies": [
+    {
+      "request_id": "03f1b08b-4552-4b31-92b9-77bfb4176088",
+      "slug": "chiron-nouvelle-etude",
+      "title": "Chiron — Éduquer les héros, soigner les blessures, consentir à la mortalité",
+      "historical_number": 118,
+      "kind": "identified",
+      "series": "pelion-hesperides"
+    },
+    {
+      "request_id": "041955c3-f74c-498e-9b80-5290fa51c33f",
+      "slug": "ixion-nouvelle-etude",
+      "title": "Ixion et Néphélé — L’hospitalité trahie et la naissance des centaures",
+      "historical_number": null,
+      "kind": "reconstructed",
+      "series": "pelion-hesperides"
+    },
+    {
+      "request_id": "05f0adbc-dfb0-47b0-ba39-a7d65ed541d2",
+      "slug": "lapithes-centaures-nouvelle-etude",
+      "title": "Lapithes et centaures — Le banquet qui devient une guerre",
+      "historical_number": null,
+      "kind": "reconstructed",
+      "series": "pelion-hesperides"
+    },
+    {
+      "request_id": "0d2ee712-cfcc-4a61-b46f-0fade54f35d6",
+      "slug": "pholos-nouvelle-etude",
+      "title": "Pholos — L’hôte généreux et la catastrophe du vin partagé",
+      "historical_number": null,
+      "kind": "reconstructed",
+      "series": "pelion-hesperides"
+    },
+    {
+      "request_id": "0e6278f0-3d5c-445f-97da-21366bdfd6fc",
+      "slug": "nessos-nouvelle-etude",
+      "title": "Nessos et Déjanire — Le mensonge qui survit à son auteur",
+      "historical_number": null,
+      "kind": "reconstructed",
+      "series": "pelion-hesperides"
+    },
+    {
+      "request_id": "1be11f7e-9347-42ca-818e-d4e298544f1a",
+      "slug": "cenee-nouvelle-etude",
+      "title": "Cénée — Changer de corps, résister aux armes, affronter la violence",
+      "historical_number": null,
+      "kind": "reconstructed",
+      "series": "pelion-hesperides"
+    },
+    {
+      "request_id": "211d855b-9ec7-44b7-a620-4f646463d9e7",
+      "slug": "asclepios-nouvelle-etude",
+      "title": "Asclépios — L’élève de Chiron entre guérison et résurrection",
+      "historical_number": null,
+      "kind": "reconstructed",
+      "series": "pelion-hesperides"
+    },
+    {
+      "request_id": "26b53d83-c75a-49c9-b14c-e89d436086a8",
+      "slug": "pelee-thetis-nouvelle-etude",
+      "title": "Pélée et Thétis — Une union décidée par les dieux, une vie divisée",
+      "historical_number": null,
+      "kind": "reconstructed",
+      "series": "pelion-hesperides"
+    },
+    {
+      "request_id": "270e48fa-3d64-4ba5-a12e-973d8bd1c8dc",
+      "slug": "achille-education-nouvelle-etude",
+      "title": "L’éducation d’Achille — Chiron, Phénix et les usages de la force",
+      "historical_number": null,
+      "kind": "reconstructed",
+      "series": "pelion-hesperides"
+    },
+    {
+      "request_id": "284a05cc-4b3f-4851-b9ab-8176809bfa4c",
+      "slug": "acteon-nouvelle-etude",
+      "title": "Actéon — Le chasseur devenu méconnaissable à ses propres chiens",
+      "historical_number": null,
+      "kind": "reconstructed",
+      "series": "pelion-hesperides"
+    },
+    {
+      "request_id": "41dddf32-b36a-46c9-9243-2b5a306acf89",
+      "slug": "atalante-nouvelle-etude",
+      "title": "Atalante — Chasser, courir et négocier la place d’une héroïne",
+      "historical_number": null,
+      "kind": "reconstructed",
+      "series": "pelion-hesperides"
+    },
+    {
+      "request_id": "5a0b0b3b-6780-42a5-abd5-95388ca67725",
+      "slug": "orion-nouvelle-etude",
+      "title": "Orion — Le chasseur aveugle, la lumière retrouvée et la mémoire des étoiles",
+      "historical_number": null,
+      "kind": "reconstructed",
+      "series": "pelion-hesperides"
+    },
+    {
+      "request_id": "5ee711c9-487a-493e-a69c-dc261aa93b6d",
+      "slug": "pan-nouvelle-etude",
+      "title": "Pan — Le dieu des parcours, de la musique et de la peur",
+      "historical_number": null,
+      "kind": "reconstructed",
+      "series": "pelion-hesperides"
+    },
+    {
+      "request_id": "65b13e92-0064-4451-9217-6fd49b6b517f",
+      "slug": "satyres-silenes-nouvelle-etude",
+      "title": "Satyres et Silènes — Le désir, le théâtre et la sagesse sous le masque",
+      "historical_number": null,
+      "kind": "reconstructed",
+      "series": "pelion-hesperides"
+    },
+    {
+      "request_id": "86e32991-0a39-4175-a5e6-4d797cb709a2",
+      "slug": "atlas-nouvelle-etude",
+      "title": "Atlas — Soutenir le ciel, porter une peine, négocier un fardeau",
+      "historical_number": null,
+      "kind": "reconstructed",
+      "series": "pelion-hesperides"
+    },
+    {
+      "request_id": "a3262beb-8ee8-4dad-b520-a02596c47cb1",
+      "slug": "hesperides-nouvelle-etude",
+      "title": "Les Hespérides et Ladon — Le jardin des confins et les fruits qu’on ne peut garder",
+      "historical_number": null,
+      "kind": "reconstructed",
+      "series": "pelion-hesperides"
+    },
+    {
+      "request_id": "a6c068d0-6e7a-43cb-ab88-318713206c08",
+      "slug": "nyx-nouvelle-etude",
+      "title": "Nyx — La Nuit primordiale et les puissances qui échappent à la lumière",
+      "historical_number": 218,
+      "kind": "identified",
+      "series": "cosmogonie"
+    },
+    {
+      "request_id": "ae564d5d-3cb6-4f80-b849-a35d56a4b138",
+      "slug": "gaia-ouranos-cronos-nouvelle-etude",
+      "title": "Gaia, Ouranos et Cronos — Naître, séparer, transmettre le pouvoir",
+      "historical_number": 219,
+      "kind": "identified",
+      "series": "cosmogonie"
+    },
+    {
+      "request_id": "bb75cfeb-ccfa-4380-a92a-c14d72605cb5",
+      "slug": "titanomachie-nouvelle-etude",
+      "title": "La Titanomachie — Zeus, les alliances et la construction d’un ordre divin",
+      "historical_number": 220,
+      "kind": "identified",
+      "series": "cosmogonie"
+    },
+    {
+      "request_id": "c08a813c-bfc8-4633-ae7d-791a499b03a7",
+      "slug": "typhon-nouvelle-etude",
+      "title": "Typhon — La dernière menace contre la souveraineté de Zeus",
+      "historical_number": 221,
+      "kind": "identified",
+      "series": "cosmogonie"
+    },
+    {
+      "request_id": "d102cd92-545a-4e06-8676-45bbacdab6a7",
+      "slug": "gigantomachie-nouvelle-etude",
+      "title": "La Gigantomachie — Quand les dieux ont besoin d’un mortel",
+      "historical_number": 222,
+      "kind": "identified",
+      "series": "cosmogonie"
+    },
+    {
+      "request_id": "d655564c-6c86-4f8f-bb9d-f40dc7acf625",
+      "slug": "promethee-pandore-nouvelle-etude",
+      "title": "Prométhée, Épiméthée et Pandore — Le feu, le travail et l’incertitude humaine",
+      "historical_number": 223,
+      "kind": "identified",
+      "series": "cosmogonie"
+    },
+    {
+      "request_id": "d898c51d-1709-4e7e-9f34-df41028a648a",
+      "slug": "hypnos-thanatos-nemesis-moires-nouvelle-etude",
+      "title": "Hypnos, Thanatos, Némésis et les Moires — Sommeil, mort, mesure et destin",
+      "historical_number": 224,
+      "kind": "identified",
+      "series": "cosmogonie"
+    }
+  ]
+}

@@ -1,14 +1,38 @@
 import sys
 import unittest
+import json
 from pathlib import Path
 from tempfile import TemporaryDirectory
 from bs4 import BeautifulSoup
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'scripts'))
-from build_greek_corpus import book_sections, main, verify, BOOKS, ARCHIVES
+from build_greek_corpus import book_sections, main, verify, BOOKS, ARCHIVES, rewritten_studies, REWRITES
 
 
 class GreekCorpusTests(unittest.TestCase):
+    def test_rewrite_uses_allocation_receipt_and_keeps_historical_reference(self):
+        with TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            manifest = root / REWRITES
+            manifest.parent.mkdir(parents=True)
+            study = {'request_id': 'request-a', 'slug': 'chiron', 'title': 'Chiron',
+                     'historical_number': 118, 'kind': 'identified', 'series': 'pelion-hesperides'}
+            manifest.write_text(json.dumps({'version': 1, 'studies': [study]}))
+            registry = root / 'editorial/numbering.json'
+            registry.parent.mkdir()
+            source = root / 'chapitres/encyclopedie/chapitre-981-chiron.md'
+            source.parent.mkdir(parents=True)
+            source.write_text('# Chapitre 981\n## Chiron\nNouvelle rédaction.')
+            allocation = {'number': 981, 'path': source.relative_to(root).as_posix()}
+            registry.write_text(json.dumps({'collections': {'encyclopedie': {'allocations': {'request-a': allocation}}}}))
+            row = rewritten_studies(root)[0]
+            self.assertEqual(row['number'], 981)
+            self.assertEqual(row['historical_number'], 118)
+            self.assertEqual(row['url'], '/chapitres/encyclopedie/chapitre-981-chiron/')
+            registry.write_text(json.dumps({'collections': {'encyclopedie': {'allocations': {}}}}))
+            with self.assertRaisesRegex(RuntimeError, 'non attribuée'):
+                rewritten_studies(root)
+
     def test_existing_and_duplicate_headings_keep_stable_links_and_prose(self):
         with TemporaryDirectory() as tmp:
             out = Path(tmp)
