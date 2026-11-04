@@ -1,0 +1,37 @@
+{
+  "id": "OLY-HER-001",
+  "slug": "olympie-heraion-vue-archaique-vers-600-av-jc",
+  "title": "Olympie — Héraion, temple d’Héra à l’époque archaïque",
+  "period": "Vers 600 av. J.-C. (état archaïque hypothétique)",
+  "image": "/assets/reconstitutions-3d/olympie-heraion-vue-archaique-vers-600-av-jc.webp",
+  "caption": "Vue interprétative du temple dorique périptère d’Héra à Olympie, de plan allongé, avec murs en briques crues et couverture restituée. Illustration non métrique.",
+  "commentary": "Le sanctuaire d’Olympie comprend un Héraion archaïque daté approximativement de 600 av. J.-C. Sa disposition dorique périptère, son plan allongé, ses maçonneries de calcaire et de briques crues sont documentés. Cette image propose toutefois un péristyle d’apparence bois : la théorie d’un remplacement progressif des colonnes en bois par la pierre, longtemps traditionnelle, est débattue. Philip Sapirstein (American Journal of Archaeology 120, 2016, p. 565–601) conteste cette lecture et défend l’hypothèse d’un péristyle de pierre dès la construction. La vue ne doit donc pas être considérée comme la restitution établie de l’état originel. L’élévation exacte, le toit, les couleurs, les arbres et la topographie figurée sont conjecturaux.",
+  "certainty": {
+    "high": "Localisation et fonction du sanctuaire, datation archaïque approximative, temple dorique périptère de plan très allongé.",
+    "medium": "Nature des maçonneries, silhouette et proportions générales ; détails du bâti supérieur incomplets.",
+    "low": "Colonnade extérieure figurée en bois (hypothèse contestée), forme et traitement de la couverture, modénature, couleurs et paysage."
+  },
+  "sources": [
+    {
+      "label": "Ministère grec de la Culture — Visite du sanctuaire d’Olympie",
+      "url": "https://olympicgames.culture.gov.gr/en/periigisi.html"
+    },
+    {
+      "label": "UNESCO — Site archéologique d’Olympie",
+      "url": "https://whc.unesco.org/fr/list/517/"
+    },
+    {
+      "label": "Philip Sapirstein, The Columns of the Heraion at Olympia, AJA 120 (2016)",
+      "url": "https://ajaonline.org/article/3180/"
+    },
+    {
+      "label": "Office national hellénique du tourisme — Temple of Hera",
+      "url": "https://www.visitgreece.gr/en/experiences/culture/archaeological-sites-monuments/temple-of-hera-at-olympia"
+    }
+  ],
+  "rights_and_method": "Restitution 3D photoréaliste originale générée numériquement, non métrique et non validée par les institutions citées. Aucun menu ni légende incrustés.",
+  "publication_status": "committed_to_GitHub; public_URL_pending_independent_verification",
+  "width": 1672,
+  "height": 941,
+  "sha256": "509218f285d3871e7612d527f42e7f727f4973c9f14fba594a6b9e8e961c6cc3"
+}
