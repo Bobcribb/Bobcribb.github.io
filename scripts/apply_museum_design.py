@@ -251,6 +251,39 @@ def apply(root):
             for volume in list(grid.select(':scope > .origins-volume'))[12:]:
                 more_grid.append(volume.extract())
             grid.insert_after(more)
+        # Fil d'Ariane scientifique : une seule entrée par collection, sans
+        # réécriture des paragraphes, citations, bibliographies ni numéros.
+        # Les fiches de chapitre héritent de leur collection et restent
+        # accessibles par le sommaire généré de celle-ci.
+        collection_trails = {
+            'origines-du-sacre': ('/origines-du-sacre/', 'Origines du sacré'),
+            'encyclopedie': ('/mythologie-grecque/', 'Encyclopédie grecque'),
+            'comedies': ('/theatre/', 'Théâtre grec'),
+            'tragedies': ('/theatre/', 'Théâtre grec'),
+            'comparatif': ('/mythologie-comparee/', 'Mythologie comparée'),
+            'philosophie': ('/philosophie/', 'Philosophie'),
+            'grece': ('/mythologie-grecque/', 'Encyclopédie grecque'),
+        }
+        parts = rel.split('/')
+        for previous in doc.select('nav.mythos-breadcrumbs'):
+            previous.decompose()
+        if (len(parts) >= 4 and parts[0] == 'chapitres'
+                and parts[1] in collection_trails):
+            parent_url, parent_label = collection_trails[parts[1]]
+            trail = doc.new_tag('nav', attrs={
+                'class': 'mythos-breadcrumbs', 'aria-label': "Fil d’Ariane"})
+            ordered = doc.new_tag('ol')
+            for href, label in (('/', 'Accueil'), (parent_url, parent_label)):
+                item = doc.new_tag('li')
+                link = doc.new_tag('a', href=href)
+                link.string = label
+                item.append(link)
+                ordered.append(item)
+            current = doc.new_tag('li', attrs={'aria-current': 'page'})
+            current.string = heading.get_text(' ', strip=True)
+            ordered.append(current)
+            trail.append(ordered)
+            banner.insert_after(trail)
         # Shared keyboard behaviour for the native menu; no client-side theming.
         if not doc.select_one('script[src*="mythos-museum.js"]'):
             doc.body.append(doc.new_tag('script', src='/assets/mythos-museum.js?v='+VERSION, defer=''))
