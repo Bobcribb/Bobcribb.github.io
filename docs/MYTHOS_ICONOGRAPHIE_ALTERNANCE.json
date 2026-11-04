@@ -36,7 +36,28 @@
     "validation": "Test GitHub Actions à exécuter après commit ; une unique occurrence corrigée dans le manuscrit et HTML. Vérifier le déploiement et l'absence de 404 avant toute déclaration de publication.",
     "limitations": "Audit global appuyé sur la CI précédente ; pas de rendu graphique mobile manuel, revue scientifique exhaustive ni revalidation intégrale de la CI à cet instant.",
     "commits": [],
-    "commit_note": "Le SHA exact du commit atomique est à relever dans GitHub après écriture ; le journal ne revendique aucun déploiement."
+    "commit_note": "Le SHA exact du commit atomique est à relever dans GitHub après écriture ; le journal ne revendique aucun déploiement.",
+    "followup_cross_page_audit": {
+      "scope": "Contrôle complémentaire de la séance AUDIT ET CORRECTION existante, sans nouvelle séance dupliquée",
+      "audited_pages": 13,
+      "static_snapshot": "e4519da23887ace051942339716a216df3fca168",
+      "static_html_ids": 736,
+      "local_anchor_links": 569,
+      "image_elements": 233,
+      "duplicate_ids": 0,
+      "broken_local_anchors": 0,
+      "missing_alt": 0,
+      "across_pages_snapshot": "dea5485fcdd694d12bed01337d56a9389769f4ee",
+      "verified_cross_page_anchors": 558,
+      "missing_cross_page_anchors": 0,
+      "resource_snapshot": "24642ca7b1529d7fdb43f59dff17e7b0de9bab38",
+      "local_references_checked": 2311,
+      "broken_local_resources": 0,
+      "new_regression_test": "test_major_greek_portals_cross_page_fragments_resolve",
+      "public_verification": "L'accès HTTPS à /livre-hesiode/ affiche la statuette de Nikè Met 247903 et 10 images. Le manifeste public annonce source_commit=4b4cc6c3874398cd6c8b7e638e493cc8707381fb et run=41877974591 ; cet état ne prouve pas la publication de toute la branche main actuelle.",
+      "preservation": "Aucun manuscrit, image, menu, chiffre de numérotation, registre, horaire ou workflow édité ; seul le test des renvois et le compte rendu d'audit sont mis à jour.",
+      "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE"
+    }
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
   "history": [
@@ -1572,7 +1593,28 @@
       "validation": "Test GitHub Actions à exécuter après commit ; une unique occurrence corrigée dans le manuscrit et HTML. Vérifier le déploiement et l'absence de 404 avant toute déclaration de publication.",
       "limitations": "Audit global appuyé sur la CI précédente ; pas de rendu graphique mobile manuel, revue scientifique exhaustive ni revalidation intégrale de la CI à cet instant.",
       "commits": [],
-      "commit_note": "Le SHA exact du commit atomique est à relever dans GitHub après écriture ; le journal ne revendique aucun déploiement."
+      "commit_note": "Le SHA exact du commit atomique est à relever dans GitHub après écriture ; le journal ne revendique aucun déploiement.",
+      "followup_cross_page_audit": {
+        "scope": "Contrôle complémentaire de la séance AUDIT ET CORRECTION existante, sans nouvelle séance dupliquée",
+        "audited_pages": 13,
+        "static_snapshot": "e4519da23887ace051942339716a216df3fca168",
+        "static_html_ids": 736,
+        "local_anchor_links": 569,
+        "image_elements": 233,
+        "duplicate_ids": 0,
+        "broken_local_anchors": 0,
+        "missing_alt": 0,
+        "across_pages_snapshot": "dea5485fcdd694d12bed01337d56a9389769f4ee",
+        "verified_cross_page_anchors": 558,
+        "missing_cross_page_anchors": 0,
+        "resource_snapshot": "24642ca7b1529d7fdb43f59dff17e7b0de9bab38",
+        "local_references_checked": 2311,
+        "broken_local_resources": 0,
+        "new_regression_test": "test_major_greek_portals_cross_page_fragments_resolve",
+        "public_verification": "L'accès HTTPS à /livre-hesiode/ affiche la statuette de Nikè Met 247903 et 10 images. Le manifeste public annonce source_commit=4b4cc6c3874398cd6c8b7e638e493cc8707381fb et run=41877974591 ; cet état ne prouve pas la publication de toute la branche main actuelle.",
+        "preservation": "Aucun manuscrit, image, menu, chiffre de numérotation, registre, horaire ou workflow édité ; seul le test des renvois et le compte rendu d'audit sont mis à jour.",
+        "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE"
+      }
     }
   ]
 }

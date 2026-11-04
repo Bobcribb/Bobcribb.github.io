@@ -87,6 +87,42 @@ class IconographyAuditPathTests(unittest.TestCase):
                     if tag.name == "a" and href.startswith("#") and fragment:
                         self.assertIn(fragment, ids, (path, href))
 
+    def test_major_greek_portals_cross_page_fragments_resolve(self):
+        """Les liens profonds des grands sommaires atteignent leur vraie section."""
+        sources = (
+            "index.html",
+            "mythologie-grecque/index.html",
+            "origines-du-sacre/index.html",
+        )
+        cache = {}
+        checked = 0
+        for source in sources:
+            doc = BeautifulSoup(
+                (ROOT / source).read_text(encoding="utf-8"), "html.parser"
+            )
+            for link in doc.find_all("a", href=True):
+                href = link["href"]
+                parsed = urlsplit(href)
+                if not parsed.path or not parsed.fragment or parsed.scheme or parsed.netloc:
+                    continue
+                with self.subTest(page=source, href=href):
+                    target, fragment = local_file(source, href)
+                    self.assertIsNotNone(target, href)
+                    self.assertTrue(target.is_file(), (source, href, str(target)))
+                    if target.suffix.lower() != ".html":
+                        continue
+                    if target not in cache:
+                        doc_target = BeautifulSoup(
+                            target.read_text(encoding="utf-8"), "html.parser"
+                        )
+                        cache[target] = {
+                            tag["id"] for tag in doc_target.find_all(id=True)
+                        }
+                    self.assertIn(fragment, cache[target], (source, href))
+                    checked += 1
+        self.assertGreaterEqual(checked, 500, "Perte de renvois profonds des sommaires")
+
+
     def test_iliad_and_heracles_cross_page_fragments_reach_named_passages(self):
         """Contrôler les signets inter-pages, pas seulement les ancres # locales."""
         references = {
