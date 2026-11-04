@@ -249,6 +249,13 @@ RECENT_FIGURES = (
      "/media/2026/10/penelope-telemaque-metier-coupe-chiusi-1831.jpg"),
     ("philosophie-theogonie.html", "icono-theogonie-aphrodite-anadyomene-philosophie-20261104",
      "/assets/illustrations-articles/met-253504-aphrodite-bronze.webp"),
+    # Vérification HTTPS des trois figures ajoutées lors de la séance iconographique.
+    ("philosophie-iliade.html", "icono-iliade-apollon-bronze-met-246408-20261104",
+     "/assets/illustrations-articles/met-246408-apollon-bronze-romain.webp"),
+    ("philosophie-odyssee.html", "icono-odyssee-hermes-calypso-met-246679-20261104",
+     "/assets/illustrations-articles/met-246679-hermes-bronze-aile.webp"),
+    ("philosophie-theogonie.html", "icono-theogonie-meduse-pegase-lecythe-met-247488-20261104",
+     "/assets/illustrations-articles/met-247488-persee-meduse-pegase.webp"),
 )
 
 

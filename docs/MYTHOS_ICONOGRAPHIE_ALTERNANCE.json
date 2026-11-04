@@ -5,42 +5,84 @@
   "branch": "main",
   "latest_session": {
     "date": "2026-11-04",
-    "kind": "AUDIT ET CORRECTION",
-    "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "scope": "Audit intégral CI : correction des trois liens cassés /comedies-grecques/ dans les volumes de comédies 94, 95 et 96 (manuscrits et HTML), et fiabilisation du script de vérification responsive bloqué par networkidle.",
-    "basis_commit": "323ab99ce26851336905ee269e4276e28a1de02a",
-    "audit_evidence": {
-      "run_id": 41907236671,
-      "head_commit": "38558e7b9335f7314dde6803f721c2e4e512b562",
-      "html_files": 1446,
-      "local_links_checked": 123960,
-      "fragment_links_checked": 36181,
-      "hard_errors": 0,
-      "warnings": "Trois href /comedies-grecques/ dans les volumes 094, 095, 096."
+    "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "previous_kind": "AUDIT ET CORRECTION",
+    "next_kind": "AUDIT ET CORRECTION",
+    "scope": "Ajout contrôlé de trois photographies muséales d'artefacts antiques existants aux monographies Iliade (Apollon), Odyssée (Hermès) et Théogonie (Persée, Méduse, Pégase), accompagnées de leurs notices, datations, statuts IA et sources institutionnelles. Aucun nouveau binaire.",
+    "basis_commit": "d1277c4c978843f397ceddacd0bfacb512243f8d",
+    "figures_added": [
+      {
+        "page": "philosophie-iliade.html",
+        "section": "iliade-long-a02",
+        "id": "icono-iliade-apollon-bronze-met-246408-20261104",
+        "src": "/assets/illustrations-articles/met-246408-apollon-bronze-romain.webp",
+        "museum_url": "https://www.metmuseum.org/art/collection/search/246408"
+      },
+      {
+        "page": "philosophie-odyssee.html",
+        "section": "odyssee-long-a06",
+        "id": "icono-odyssee-hermes-calypso-met-246679-20261104",
+        "src": "/assets/illustrations-articles/met-246679-hermes-bronze-aile.webp",
+        "museum_url": "https://www.metmuseum.org/art/collection/search/246679"
+      },
+      {
+        "page": "philosophie-theogonie.html",
+        "section": "theogonie-long-a10",
+        "id": "icono-theogonie-meduse-pegase-lecythe-met-247488-20261104",
+        "src": "/assets/illustrations-articles/met-247488-persee-meduse-pegase.webp",
+        "museum_url": "https://www.metmuseum.org/art/collection/search/247488"
+      }
+    ],
+    "scientific_sources": [
+      "Metropolitan Museum inv. 96.9.401, Apollon, bronze romain, Ier–IIe s. apr. J.-C., lien avec Iliade I.",
+      "Metropolitan Museum inv. 97.22.1, Hermès, bronze grec ou romain, Ier s. av. J.-C.–IIe s. apr. J.-C., lien avec Odyssée V.",
+      "Metropolitan Museum inv. 06.1070, lécythe attique peintre de Diosphos, vers 500 av. J.-C., Persée, Méduse et Pégase, lien avec Théogonie 270–286."
+    ],
+    "checks_before_commit": {
+      "philosophie-iliade.html": {
+        "ids": 114,
+        "internal_anchors": 111,
+        "broken_anchors": 0,
+        "duplicate_ids": 0,
+        "images": 28,
+        "images_without_alt": 0,
+        "new_image_src": "/assets/illustrations-articles/met-246408-apollon-bronze-romain.webp",
+        "figure_id": "icono-iliade-apollon-bronze-met-246408-20261104",
+        "old_len": 417168,
+        "new_len": 418915
+      },
+      "philosophie-odyssee.html": {
+        "ids": 113,
+        "internal_anchors": 111,
+        "broken_anchors": 0,
+        "duplicate_ids": 0,
+        "images": 27,
+        "images_without_alt": 0,
+        "new_image_src": "/assets/illustrations-articles/met-246679-hermes-bronze-aile.webp",
+        "figure_id": "icono-odyssee-hermes-calypso-met-246679-20261104",
+        "old_len": 398860,
+        "new_len": 400573
+      },
+      "philosophie-theogonie.html": {
+        "ids": 115,
+        "internal_anchors": 113,
+        "broken_anchors": 0,
+        "duplicate_ids": 0,
+        "images": 27,
+        "images_without_alt": 0,
+        "new_image_src": "/assets/illustrations-articles/met-247488-persee-meduse-pegase.webp",
+        "figure_id": "icono-theogonie-meduse-pegase-lecythe-met-247488-20261104",
+        "old_len": 403083,
+        "new_len": 404787
+      }
     },
-    "fixes": {
-      "links": [
-        94,
-        95,
-        96
-      ],
-      "old_href": "/comedies-grecques/",
-      "new_href": "/comedies-grecques-aristophane-menandre/",
-      "updated_copies": 6,
-      "valid_target_confirmed_in_repository": true,
-      "browser_script": "scripts/verify_greek_navigation.cjs : Playwright goto attend désormais domcontentloaded, non networkidle ; les vérifications HTTP 200, titres, menus, ancres, dossiers et largeur restent identiques."
-    },
-    "deployment_evidence": {
-      "failed_workflow_id": 41906787338,
-      "failed_step": "Vérifier les menus et les dossiers sur le domaine public aux trois formats",
-      "error": "page.goto Timeout 60000ms waiting for networkidle on https://bobmythos.fr/mythologie-grecque/",
-      "current_publication": "Non confirmée : accès direct HTTPS impossible dans cet environnement, et une publication déclenchée à 20:30Z est encore en cours au contrôle."
-    },
-    "editorial_integrity": "Aucun texte scientifique hors href, aucun numéro, registre d'attribution, nom de chapitre, menu, CSS, JS autre que l'attente du test, média, workflow ni tâche planifiée ne change. AGENTS.md et docs/PUBLICATION_CONCURRENTE.md lus.",
-    "limitations": "Les contrôles globaux proviennent de GitHub Actions avant cette correction ; le nouveau run et la lecture publique sont à confirmer. Pas de navigateur mobile réel ni de validation exhaustive des bibliographies.",
+    "control_updates": "scripts/verify_live_site.py : RECENT_FIGURES +3 (25 -> 28); 22 ressources uniques attendues (20 -> 22, Hermès déjà catalogué). tests/test_verify_live_site_assets.py : compteurs ajustés et nouveau test de détection de trois pages obsolètes et WebP modifiés. Suite Python complète à confirmer par Actions.",
+    "page_count_manifest": "catalog/reading-pdfs.json : Iliade 122 p. PDF, dont 107 d'analyse ; Odyssée 116, dont 101 ; Théogonie 117, dont 103 ; manifest conservé, aucune nouvelle pagination.",
+    "preservation": "Textes scientifiques des pages, menus, navigation, numérotation, demandes editoriales, assets binaires, workflows et cadences inchangés ; éléments figure seuls ajoutés après les titres des sections longues. AGENTS.md et docs/PUBLICATION_CONCURRENTE.md lus.",
+    "publication_status": "Intégration préparée sur main ; la CI et la publication HTTPS du lot restent à confirmer ; aucun déploiement public déclaré sans reçu et pages observés.",
+    "limitations": "Tests structuraux JavaScript ciblés avant commit ; suite Python et rendu PDF non exécutés localement ; contrôle responsive sur matériel non réalisé.",
     "commits": [],
-    "commit_note": "Le SHA de ce commit est donné dans le bilan ; le journal ne revendique pas la publication publique."
+    "commit_note": "SHA du commit atomique dans le bilan de séance ; le registre ne préjuge pas du déploiement public."
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
   "history": [
@@ -1849,6 +1891,87 @@
       "limitations": "Les contrôles globaux proviennent de GitHub Actions avant cette correction ; le nouveau run et la lecture publique sont à confirmer. Pas de navigateur mobile réel ni de validation exhaustive des bibliographies.",
       "commits": [],
       "commit_note": "Le SHA de ce commit est donné dans le bilan ; le journal ne revendique pas la publication publique."
+    },
+    {
+      "date": "2026-11-04",
+      "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "previous_kind": "AUDIT ET CORRECTION",
+      "next_kind": "AUDIT ET CORRECTION",
+      "scope": "Ajout contrôlé de trois photographies muséales d'artefacts antiques existants aux monographies Iliade (Apollon), Odyssée (Hermès) et Théogonie (Persée, Méduse, Pégase), accompagnées de leurs notices, datations, statuts IA et sources institutionnelles. Aucun nouveau binaire.",
+      "basis_commit": "d1277c4c978843f397ceddacd0bfacb512243f8d",
+      "figures_added": [
+        {
+          "page": "philosophie-iliade.html",
+          "section": "iliade-long-a02",
+          "id": "icono-iliade-apollon-bronze-met-246408-20261104",
+          "src": "/assets/illustrations-articles/met-246408-apollon-bronze-romain.webp",
+          "museum_url": "https://www.metmuseum.org/art/collection/search/246408"
+        },
+        {
+          "page": "philosophie-odyssee.html",
+          "section": "odyssee-long-a06",
+          "id": "icono-odyssee-hermes-calypso-met-246679-20261104",
+          "src": "/assets/illustrations-articles/met-246679-hermes-bronze-aile.webp",
+          "museum_url": "https://www.metmuseum.org/art/collection/search/246679"
+        },
+        {
+          "page": "philosophie-theogonie.html",
+          "section": "theogonie-long-a10",
+          "id": "icono-theogonie-meduse-pegase-lecythe-met-247488-20261104",
+          "src": "/assets/illustrations-articles/met-247488-persee-meduse-pegase.webp",
+          "museum_url": "https://www.metmuseum.org/art/collection/search/247488"
+        }
+      ],
+      "scientific_sources": [
+        "Metropolitan Museum inv. 96.9.401, Apollon, bronze romain, Ier–IIe s. apr. J.-C., lien avec Iliade I.",
+        "Metropolitan Museum inv. 97.22.1, Hermès, bronze grec ou romain, Ier s. av. J.-C.–IIe s. apr. J.-C., lien avec Odyssée V.",
+        "Metropolitan Museum inv. 06.1070, lécythe attique peintre de Diosphos, vers 500 av. J.-C., Persée, Méduse et Pégase, lien avec Théogonie 270–286."
+      ],
+      "checks_before_commit": {
+        "philosophie-iliade.html": {
+          "ids": 114,
+          "internal_anchors": 111,
+          "broken_anchors": 0,
+          "duplicate_ids": 0,
+          "images": 28,
+          "images_without_alt": 0,
+          "new_image_src": "/assets/illustrations-articles/met-246408-apollon-bronze-romain.webp",
+          "figure_id": "icono-iliade-apollon-bronze-met-246408-20261104",
+          "old_len": 417168,
+          "new_len": 418915
+        },
+        "philosophie-odyssee.html": {
+          "ids": 113,
+          "internal_anchors": 111,
+          "broken_anchors": 0,
+          "duplicate_ids": 0,
+          "images": 27,
+          "images_without_alt": 0,
+          "new_image_src": "/assets/illustrations-articles/met-246679-hermes-bronze-aile.webp",
+          "figure_id": "icono-odyssee-hermes-calypso-met-246679-20261104",
+          "old_len": 398860,
+          "new_len": 400573
+        },
+        "philosophie-theogonie.html": {
+          "ids": 115,
+          "internal_anchors": 113,
+          "broken_anchors": 0,
+          "duplicate_ids": 0,
+          "images": 27,
+          "images_without_alt": 0,
+          "new_image_src": "/assets/illustrations-articles/met-247488-persee-meduse-pegase.webp",
+          "figure_id": "icono-theogonie-meduse-pegase-lecythe-met-247488-20261104",
+          "old_len": 403083,
+          "new_len": 404787
+        }
+      },
+      "control_updates": "scripts/verify_live_site.py : RECENT_FIGURES +3 (25 -> 28); 22 ressources uniques attendues (20 -> 22, Hermès déjà catalogué). tests/test_verify_live_site_assets.py : compteurs ajustés et nouveau test de détection de trois pages obsolètes et WebP modifiés. Suite Python complète à confirmer par Actions.",
+      "page_count_manifest": "catalog/reading-pdfs.json : Iliade 122 p. PDF, dont 107 d'analyse ; Odyssée 116, dont 101 ; Théogonie 117, dont 103 ; manifest conservé, aucune nouvelle pagination.",
+      "preservation": "Textes scientifiques des pages, menus, navigation, numérotation, demandes editoriales, assets binaires, workflows et cadences inchangés ; éléments figure seuls ajoutés après les titres des sections longues. AGENTS.md et docs/PUBLICATION_CONCURRENTE.md lus.",
+      "publication_status": "Intégration préparée sur main ; la CI et la publication HTTPS du lot restent à confirmer ; aucun déploiement public déclaré sans reçu et pages observés.",
+      "limitations": "Tests structuraux JavaScript ciblés avant commit ; suite Python et rendu PDF non exécutés localement ; contrôle responsive sur matériel non réalisé.",
+      "commits": [],
+      "commit_note": "SHA du commit atomique dans le bilan de séance ; le registre ne préjuge pas du déploiement public."
     }
   ]
 }
