@@ -106,8 +106,8 @@ def copy_repository():
     # exclusivement leurs copies dans _site.
     archive = OUT / "corpus" / "mythologie-grecque" / "archives"
     legacy_media_url = re.compile(
-        r"https?://bobmythos\\.wordpress\\.com/wp-content/uploads/2026/10/"
-        r"([A-Za-z0-9_.%-]+\\.(?:jpg|jpeg|png|webp))", re.IGNORECASE)
+        r"https?://bobmythos\.wordpress\.com/wp-content/uploads/2026/10/"
+        r"([A-Za-z0-9_.%-]+\.(?:jpg|jpeg|png|webp))", re.IGNORECASE)
     for page in archive.glob("*.html"):
         original_html = page.read_text(encoding="utf-8")
         # Les URL sont parfois dans du JavaScript intégré : une substitution
