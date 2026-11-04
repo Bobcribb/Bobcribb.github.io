@@ -2,7 +2,7 @@
   "generated_at": "2026-11-04",
   "site": "bobmythos.fr",
   "method": "Illustrations photoréalistes interprétatives, textes et sources hors des pixels.",
-  "count": 28,
+  "count": 29,
   "entries": [
     {
       "id": "DEL-PAN-001",
@@ -529,6 +529,29 @@
       "provenance": "Création numérique 3D photoréaliste assistée par IA, originale, sans texte, interface ou menu incrusté ; image interprétative non photogrammétrique. Les institutions citées ne valident pas le rendu.",
       "sha256": "96982ae7db20539058af645a9e01eb84a5c6ea7e9a75c5a5252f84381654fd13",
       "scientific_notice": "/assets/reconstitutions-3d/notices/kos-asklepieion-terrasses-hellenistiques.json"
+    },
+    {
+      "id": "ARG-TH-001",
+      "slug": "argos-theatre-hellenistique-panorama",
+      "title": "Argos — grand théâtre hellénistique sur le flanc du mont Larissa",
+      "period": "Évocation vers 250 av. J.-C. (première moitié du IIIe siècle av. J.-C.)",
+      "caption": "Vue panoramique photoréaliste interprétative du théâtre d’Argos taillé dans la pente de la Larissa, avec vaste koilon, orchestra circulaire et édifice de scène de tradition grecque.",
+      "commentary": "Le théâtre d’Argos, installé sur le versant sud-est de la colline de la Larissa à proximité de l’Agora, fut aménagé au début du IIIe siècle av. J.-C. ; il remplaça un théâtre plus ancien situé plus au sud. L’Ephorie des antiquités d’Argolide indique une capacité proche de 20 000 spectateurs. Le koilon (ensemble des gradins) est largement creusé dans la roche ; les gradins sont séparés par deux diazomata en trois grandes zones. L’orchestra primitive, approximativement circulaire, mesurait environ 26 mètres de diamètre et était partiellement taillée dans le rocher ; le proskènion hellénistique se distinguait de la scène monumentale d’époque impériale. Les Néméennes et les Héraia se tinrent à Argos après leur déplacement depuis Némée et le théâtre accueillit également des réunions civiques. L’image présente une évocation vers 250 av. J.-C. et exclut volontairement la façade de scène romaine monumentale, les niches corinthiennes, l’arène aménagée pour les spectacles d’animaux et la transformation tardive de l’orchestra en bassin. Néanmoins, le dessin précis des gradins, leur nombre visuel, la position et l’élévation du bâtiment de scène, les accès, les murs d’extrémité, le revêtement de l’orchestra, la végétation, la fortification dominante et l’aspect de la cité à l’arrière-plan restent interprétatifs ; les proportions et distances apparentes ne sont pas vérifiées par relevé métrique. Le nombre de rangées indiqué par les sources modernes varie selon les modes de décompte (82, 83, 89) ; le présent visuel ne prétend pas trancher. La position dominante de la fortification sur la colline et les bâtiments visibles à l’horizon ne doivent pas être considérés comme un état synchronique attesté. Les institutions citées documentent le monument et ne cautionnent pas cette image numérique.",
+      "certainty": "Élevée : position et cavea creusée dans le rocher, période hellénistique et orchestra. Moyenne : division des gradins et programme du bâtiment de scène. Faible : géométrie exacte, nombre figuré de rangées, revêtement de l’orchestra, paysage et façades.",
+      "source_url": "https://www.argolisculture.gr/en/list-of-monuments/ancient-theatre-argos/",
+      "secondary_sources": [
+        "https://www.argolisculture.gr/fr/liste-de-monuments/le-theatre-argos/",
+        "https://www.efa.gr/theatre-argos/",
+        "https://whc.unesco.org/en/tentativelists/5869"
+      ],
+      "src": "/assets/reconstitutions-3d/argos-theatre-hellenistique-panorama.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-04",
+      "type": "Nouveau panorama 3D photoréaliste interprétatif non métrique",
+      "provenance": "Création numérique photoréaliste originale assistée par IA ; ni image d’archives ni rendu photogrammétrique. Aucun menu, texte ou interface intégré dans le visuel. Pas de validation institutionnelle du rendu.",
+      "sha256": "35cf9c286f23aa6761dcedaf89115e80aa8721211dff95835891ea8e1633d852",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/argos-theatre-hellenistique-panorama.json"
     }
   ]
 }
