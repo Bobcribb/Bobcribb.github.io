@@ -24,6 +24,8 @@ on:
       - 'tests/test_site_audit_fixes.py'
       - 'requirements.txt'
       - 'scripts/build_greek_corpus.py'
+      - 'scripts/build_greek_folders.py'
+      - 'tests/test_greek_folders.py'
       - 'scripts/build_navigation.py'
       - 'scripts/origines_reconciliation.py'
       - 'EDITORIAL_REDIRECTS.json'

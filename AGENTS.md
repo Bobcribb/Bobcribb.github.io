@@ -22,6 +22,12 @@ Lire `docs/PUBLICATION_CONCURRENTE.md` avant toute création d'un chapitre numé
 - Vérifier le workflow, les sommaires, les textes et le site public ; distinguer
   un enregistrement GitHub d'une publication effectivement déployée.
 - Ne modifier aucune planification horaire sans demande explicite de l'utilisateur.
+- Navigation grecque : conserver une seule entrée, `/mythologie-grecque/`.
+  À la demande de l'utilisateur, ne pas réintroduire l'entrée en doublon
+  « Grande Encyclopédie » dans les menus ou les cartes de l'accueil.
+  Ses anciennes pages et tous les textes restent accessibles. Les dossiers
+  thématiques sont construits par `scripts/build_greek_folders.py` ; préserver
+  le classement, les liens de section et les contrôles de couverture intégrale.
 - Les anciennes illustrations vectorielles en perspective 2,5D sont retirées à la
   demande de l'utilisateur. Ne pas les réintroduire dans les fiches, les galeries,
   les catalogues d'images ou les fonds de page. Conserver les notices et sources

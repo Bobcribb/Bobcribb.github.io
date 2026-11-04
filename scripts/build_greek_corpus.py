@@ -288,17 +288,17 @@ def main(out, root):
         if not items:
             continue
         if key == "grec-universitaire":
-            dossiers = chapter_dossiers(chapters)
+            chapter_groups = chapter_dossiers(chapters)
             navigation = '<nav class="greek-dossiers-toc" aria-label="Dossiers des chapitres universitaires">'+''.join(
                 '<a href="#grec-dossier-'+escape(slug, quote=True)+'">'+escape(title)+
                 ' ('+str(len(rows))+')</a>'
-                for slug, title, _, rows in dossiers)+'</nav>'
+                for slug, title, _, rows in chapter_groups)+'</nav>'
             panels = ''.join(
                 '<details class="greek-book greek-dossier" id="grec-dossier-'+escape(slug, quote=True)+'">'+
                 '<summary>'+escape(title)+' — '+str(len(rows))+' chapitres</summary>'+
                 '<p class="section-intro">'+escape(description)+'</p>'+
                 '<ol class="greek-corpus-links">'+''.join(link(u,t) for u,t in rows)+'</ol></details>'
-                for slug, title, description, rows in dossiers)
+                for slug, title, description, rows in chapter_groups)
             blocks += ('<section class="greek-corpus-group" id="grec-universitaire">'+
                        '<h3>'+escape(label)+' <small>('+str(len(items))+')</small></h3>'+
                        '<p>Huit cycles documentaires issus des textes publiés : '
@@ -359,6 +359,11 @@ def main(out, root):
     '''+recovery_status+'''
     <p><a href="https://github.com/Bobcribb/Bobcribb.github.io/blob/main/corpus/mythologie-grecque/REGISTRE-RECUPERATION.md">Consulter le registre des manuscrits manquants</a></p>
     </section></section>'''
+    from build_greek_folders import build as build_folders, overview, CSS as folder_css
+    thematic_rows = build_folders(out, dedup, sections, BOOKS)
+    html = ('<section id="greek-unified-corpus">'+overview(thematic_rows)
+            +'<details class="greek-complete-catalogue" id="catalogue-complet"><summary>Catalogue intégral, numéros et archives</summary>'
+            +html.replace('id="greek-unified-corpus"', 'id="catalogue-historique"')+'</details></section>')
     css=doc.new_tag("style",id="greek-unified-corpus-style")
     css.string=""" .greek-corpus-full{margin:2.5rem 0 3.5rem}
     .greek-corpus-banner{background:linear-gradient(90deg,#091013ee,#101617d7 48%,#081012ad),url('/assets/mythos-museum-banner.webp') center/cover;padding:clamp(1.5rem,5vw,3.2rem);border:1px solid #b18e53;border-radius:6px}
@@ -381,6 +386,7 @@ def main(out, root):
     .greek-corpus-group{padding:.85rem}.greek-corpus-toc a{flex:1 1 100%}}
     """
     css.string += " .greek-book{margin:.7rem 0;border-top:1px solid #6f5938;padding:.7rem 0}.greek-book summary{cursor:pointer;color:#e5c58d;padding:.5rem;font-size:1.1rem}.greek-book summary:focus-visible{outline:3px solid #ffe1a9}.greek-corpus-toc{justify-content:center} "
+    css.string += folder_css
     css.string += """ .greek-dossiers-toc{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,210px),1fr));gap:.65rem;margin:1.1rem 0}
     .greek-dossiers-toc a{display:block;border:1px solid #806947;padding:.75rem;background:#141c1d;color:#ecd6aa;text-decoration:none;line-height:1.4}
     .greek-dossiers-toc a:hover,.greek-dossiers-toc a:focus-visible{border-color:#dec08c;outline:2px solid #dec08c;outline-offset:2px}
@@ -395,7 +401,7 @@ def main(out, root):
         ("grande-encyclopedie", "Grande Encyclopédie mythologique grecque"),
     ]
     for slug, title in portals:
-        intro = '<h1>'+escape(title)+'</h1><p class="portal-lead">Retrouvez les livres anciens, les études numérotées et les dossiers déjà publiés. Le catalogue distingue les textes disponibles des manuscrits encore à retrouver.</p>'
+        intro = '<h1>'+escape(title)+'</h1><p class="portal-lead">Des dossiers thématiques réunissent les chapitres, les livres et les analyses qui se répondent. Choisissez un sujet pour accéder aux textes intégraux ; le catalogue complet reste disponible en bas de page.</p>'
         extra = '<p><a href="/bibliotheque-mythologies-du-monde/">Bibliothèque des mythologies du monde</a> · <a href="/mythologie-comparee/">Mythologie comparée</a> · <a href="/origines-du-sacre/">Origines du sacré</a> · <a href="/theatre/">Théâtre grec</a></p>'
         rendered = BeautifulSoup(shell(title, intro+html+extra), "html.parser")
         rendered.head.append(BeautifulSoup(str(css), "html.parser"))
@@ -407,7 +413,9 @@ def main(out, root):
     return {"chapitres":len(chapters),"archives":len(archives),"dieux":len(gods),
             "heros":len(heroes),"monographies":len(monographs),"liens_uniques":len(seen),
             "livres":len(books),"sections":section_count,"dossiers":len(dossiers),"lacunes_numeriques":missing,
-            "nouvelles_redactions":len(rewrites)}
+            "nouvelles_redactions":len(rewrites),
+            "dossiers_thematiques":len({r['folder'] for r in thematic_rows}),
+            "destinations_thematiques":len(thematic_rows)}
 
 
 
@@ -463,6 +471,11 @@ def verify(out, root):
                     cache[target] = BeautifulSoup(target.read_text(encoding='utf-8'), 'html.parser')
                 assert cache[target].find(id=unquote(parsed.fragment)), f'Section absente : {link}'
     print(f'OK : quatre sommaires grecs cohérents, {len(expected)} manuscrits/livres attendus et toutes les ancres accessibles')
+    from build_greek_folders import verify as verify_folders, BASE
+    folder_expected = {url for url in reference if urlsplit(url).path
+                       and not urlsplit(url).scheme and not urlsplit(url).netloc
+                       and not url.startswith(BASE)}
+    verify_folders(out, folder_expected)
 
 
 if __name__=="__main__":
