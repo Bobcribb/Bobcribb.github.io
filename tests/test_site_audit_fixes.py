@@ -245,5 +245,53 @@ class SiteAuditFixTests(unittest.TestCase):
 
 
 
+    def test_historical_canonicals_are_kept_but_removed_from_sitemap(self):
+        """A legacy page is still searchable, but robots get its canonical URL."""
+        self.write('search.json', '[]')
+        for index in range(450):
+            self.write(f'dossier-{index}/index.html', f'<h1>Dossier {index}</h1>')
+        canonical = '<html><head><link rel="canonical" href="https://bobmythos.fr/mythologie-grecque/"></head><body><h1>Études grecques historiques</h1></body></html>'
+        self.write('mythologie-grecque/index.html',
+                   '<html><head><title>Encyclopédie grecque</title></head><body><h1>Encyclopédie</h1></body></html>')
+        previous = self.write('mythologie-grecque.html', canonical)
+        legacy = self.write('grande-encyclopedie/index.html', canonical)
+        with patch.object(build, 'OUT', self.root):
+            build.reindex([])
+        urls = {e['url'] for e in json.loads((self.root/'search.json').read_text())}
+        sitemap = (self.root/'sitemap.xml').read_text()
+        self.assertIn('/mythologie-grecque.html', urls)
+        self.assertIn('/grande-encyclopedie/', urls)
+        self.assertIn('<loc>https://bobmythos.fr/mythologie-grecque/</loc>', sitemap)
+        self.assertNotIn('<loc>https://bobmythos.fr/mythologie-grecque.html</loc>', sitemap)
+        self.assertNotIn('<loc>https://bobmythos.fr/grande-encyclopedie/</loc>', sitemap)
+        self.assertEqual(previous.read_text(), canonical)
+        self.assertEqual(legacy.read_text(), canonical)
+
+    def test_search_portal_has_specific_description_and_image_decoding(self):
+        from apply_museum_design import GENERIC_DESCRIPTION, PORTAL_DESCRIPTIONS
+        source = ('<html lang="fr"><head><title>Recherche MYTHOS</title>'
+                  '<meta name="description" content="' + GENERIC_DESCRIPTION + '">'
+                  '</head><body><main><h1>Recherche</h1>'
+                  '<p>Texte intégral conservé.</p><img src="/media/photo.jpg" alt="Photographie archéologique">'
+                  '</main></body></html>')
+        page = self.write('recherche/index.html', source)
+        self.assertEqual(apply_museum_design(self.root), 1)
+        doc = BeautifulSoup(page.read_text(), 'html.parser')
+        self.assertEqual(doc.select_one('meta[name="description"]')['content'],
+                         PORTAL_DESCRIPTIONS['/recherche/'])
+        self.assertEqual(doc.select_one('main img')['decoding'], 'async')
+        self.assertIn('Texte intégral conservé.', doc.get_text())
+
+    def test_only_one_workflow_can_deploy_github_pages(self):
+        workflows = ROOT / '.github/workflows'
+        main = (workflows / 'publish.yml').read_text()
+        photo = (workflows / 'publish-photorealistic-gallery.yml').read_text()
+        self.assertIn('actions/deploy-pages@v4', main)
+        self.assertIn('scripts/verify_deployment_head.py', main)
+        self.assertIn('publish_photorealistic_snapshot.py', photo)
+        self.assertNotIn('actions/deploy-pages@v4', photo)
+        self.assertNotIn('pages: write', photo)
+
+
 if __name__ == '__main__':
     unittest.main()

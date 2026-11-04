@@ -312,8 +312,30 @@ def reindex(chapters):
     listing='<ul class="listing">'+''.join('<li><a href="'+html.escape(e["url"],quote=True)+'">'+html.escape(e["title"])+'</a></li>' for e in entries)+'</ul>'
     write("rubriques/index.html",render("Tous les dossiers","<h1>Tous les dossiers</h1><p>"+str(len(entries))+" dossiers publics indexés.</p>"+listing))
     urls=["/"]+[e["url"] for e in entries]+["/recherche/","/rubriques/"]
+    # Des adresses historiques restent disponibles dans le catalogue sans
+    # concurrencer leur page canonique dans le sitemap des moteurs de recherche.
+    # Ne jamais supprimer la page ni son texte lors de cette déduplication.
+    sitemap_urls=[]
+    for url in sorted(set(urls)):
+        # Les doublons historiques sont principalement des fichiers .html ;
+        # la Grande Encyclopédie est la seule ancienne entrée en répertoire.
+        if url.endswith(".html") or url == "/grande-encyclopedie/":
+            page=OUT/url.lstrip("/")
+            if page.is_dir():
+                page=page/"index.html"
+            if page.is_file():
+                head=re.split(r"</head\s*>",page.read_text(encoding="utf-8"),
+                              maxsplit=1,flags=re.I)[0]
+                doc=BeautifulSoup(head,"html.parser")
+                canonical=doc.select_one('link[rel~="canonical"]')
+                if canonical and canonical.get("href"):
+                    parsed=urlsplit(canonical["href"])
+                    if (parsed.netloc.lower() in ("bobmythos.fr","www.bobmythos.fr")
+                            and (parsed.path.rstrip("/") or "/") != (url.rstrip("/") or "/")):
+                        continue
+        sitemap_urls.append(url)
     write("sitemap.xml",'<?xml version="1.0" encoding="utf-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'+
-          "\n".join("<url><loc>"+xml_escape(SITE_URL+u)+"</loc></url>" for u in sorted(set(urls)))+"\n</urlset>\n")
+          "\n".join("<url><loc>"+xml_escape(SITE_URL+u)+"</loc></url>" for u in sitemap_urls)+"\n</urlset>\n")
     write("robots.txt","User-agent: *\nAllow: /\nSitemap: "+SITE_URL+"/sitemap.xml\n")
     return len(entries)
 

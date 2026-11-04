@@ -1,9 +1,19 @@
-name: Publier les illustrations et reconstitutions sur bobmythos.fr
+name: Vérifier les illustrations et reconstitutions MYTHOS
 
-# Publication complète et non-mutante, indépendante du travail éditorial horaire.
+# Le déploiement GitHub Pages appartient exclusivement à publish.yml.
+# Cette vérification ne peut plus écraser le site avec un snapshot antérieur.
 on:
   push:
     branches: [main]
+    paths:
+      - '.github/workflows/publish-photorealistic-gallery.yml'
+      - 'scripts/publish_photorealistic_snapshot.py'
+      - 'scripts/editorial_illustrations.py'
+      - 'scripts/editorial_media.json'
+      - 'assets/illustrations-articles/**'
+      - 'assets/reconstitutions-3d/**'
+      - 'reconstitutions-photorealistes.html'
+  pull_request:
     paths:
       - '.github/workflows/publish-photorealistic-gallery.yml'
       - 'scripts/publish_photorealistic_snapshot.py'
@@ -16,55 +26,32 @@ on:
 
 permissions:
   contents: read
-  pages: write
-  id-token: write
 
 concurrency:
-  # File dédiée à l’iconographie pour ne pas annuler indéfiniment les déploiements
-  # photoréalistes lorsqu’un cycle éditorial lourd occupe l’autre file.
-  group: mythos-photorealistic-pages
-  cancel-in-progress: false
+  group: mythos-photorealistic-verification-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
-  deploy:
+  verify:
     runs-on: ubuntu-latest
     timeout-minutes: 15
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - name: Récupérer tout MYTHOS depuis main
+      - name: Lire les sources exactes à vérifier
         uses: actions/checkout@v4
-        with:
-          ref: main
-          fetch-depth: 1
       - name: Préparer Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Installer le parseur HTML du contrôle de publication
+      - name: Installer le parseur HTML
         run: python -m pip install beautifulsoup4==4.12.3
-      - name: Préparer le site complet sans modifier les manuscrits
+      - name: Contrôler les WebP, notices, licences et l'intégralité du site
         run: python scripts/publish_photorealistic_snapshot.py
-      - name: Refuser une iconographie modifiée pendant le rendu
-        run: |
-          git fetch --no-tags origin refs/heads/main:refs/remotes/origin/main
-          git diff --quiet HEAD refs/remotes/origin/main -- assets/reconstitutions-3d/ reconstitutions-photorealistes.html assets/illustrations-articles/ scripts/editorial_illustrations.py scripts/editorial_media.json || { echo 'L’iconographie a changé pendant le rendu.'; exit 1; }
-      - name: Configurer GitHub Pages
-        uses: actions/configure-pages@v5
-      - name: Envoyer tous les fichiers publics
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: _site
-      - name: Déployer le site complet
-        id: deployment
-        uses: actions/deploy-pages@v4
-      - name: Vérifier les WebP et les notices sur bobmythos.fr
-        run: python scripts/verify_photoreal_gallery.py --output /tmp/mythos-photo-verification.json
-      - name: Sauvegarder la preuve de publication
+      - name: Conserver le catalogue iconographique contrôlé
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: mythos-photo-verification
-          path: /tmp/mythos-photo-verification.json
+          name: mythos-iconographie-validee
+          path: |
+            _site/assets/reconstitutions-3d/catalogue-photorealiste.json
+            _site/assets/illustrations-articles/sources-met.json
           if-no-files-found: warn
