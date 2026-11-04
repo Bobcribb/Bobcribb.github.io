@@ -16,6 +16,12 @@ import uuid
 REGISTRY = Path("editorial/numbering.json")
 INBOX = Path("editorial/inbox")
 HOLDS = Path("editorial/holds.json")
+QUARANTINED_INVALID_REQUESTS = {
+    "85ed9610-42a9-4b7b-90e0-2aeb8a619d041.json": {
+        "sha256": "35fbad6ea7ae497995708c70346a54395ed40cb5692d305db4938e8c954c195f",
+        "reason": "Nom UUID historique mal formé (MC-041) : conserver le manuscrit intact sans l'allouer tant qu'il n'est pas réémis sous un UUID canonique.",
+    },
+}
 COLLECTIONS = {
     "origines-du-sacre": ("", "decimal", 0),
     "encyclopedie": ("chapitre-", "decimal", 0),
@@ -162,6 +168,13 @@ def apply(root):
     # Prepare every request before writing anything; a malformed request cannot
     # leave a partially allocated batch in the worktree.
     for path in sorted((root / INBOX).glob("*.json")):
+        quarantine = QUARANTINED_INVALID_REQUESTS.get(path.name)
+        if quarantine:
+            payload_hash = digest(path.read_bytes())
+            if payload_hash != quarantine["sha256"]:
+                raise ValueError("Manuscrit au nom UUID invalide modifié : " + path.name)
+            print("Demande au nom UUID invalide conservée hors allocation : " + path.name + " — " + quarantine["reason"], file=sys.stderr)
+            continue
         item, payload_hash = parse_request(path)
         if path.stem in receipts:
             continue
