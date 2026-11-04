@@ -375,6 +375,18 @@
           "path": "chapitres/origines-du-sacre/634-kv35-amenhotep-ii-cache-royale-amdouat-identites-chronologies.md",
           "request_sha256": "0919c0397a9add7653f79ec4064c4ff8680596983a636c07e5a8da9cd3f90417",
           "initial_source_sha256": "7786070049d482703c09eb47e9352f8efdf7ea7478b2ef262e363174b008ae55"
+        },
+        "a94cb827-6e11-4b5f-9d83-42f6ab08e5c1": {
+          "number": 635,
+          "path": "chapitres/origines-du-sacre/635-bab-el-gasus-pretres-amon-cercueils-memoire-dispersion.md",
+          "request_sha256": "c238ccee3452f0c5536f6d49cd3fa51299f4a2e37ce3cbd6d9b61d22886224c9",
+          "initial_source_sha256": "132270127e0607a6f639487e78b5def7c253699f5072e34524007eda4e31226a"
+        },
+        "b5e62d0f-93a7-4e49-8b6c-cf1072a5d843": {
+          "number": 636,
+          "path": "chapitres/origines-du-sacre/636-tanis-psousennes-sarcophage-reemploi-argent-necropole-royale.md",
+          "request_sha256": "546f42252644e37038e5cd6d7d339f8802dc83081e43eaa82c3e51459ceb5f49",
+          "initial_source_sha256": "d4f97948b82656bc754b8c20e3af1198ab255ddfb8358d32556d892b1743e795"
         }
       }
     },
@@ -1216,6 +1228,12 @@
           "path": "chapitres/tragedies/volume-ccxxix-sophocle-nauplios-pyrkaeus-feux-trompeurs-capharee-palamedes-vengeance.md",
           "request_sha256": "33804a0705e9ec54f9835ac9e2f39c76a3f163d8b2777b111d7d8e94d4bb332e",
           "initial_source_sha256": "46c519309b65e3fbd51feb0c6423c173a0f053ae4ff32a3afb7001d6fa920848"
+        },
+        "df1fb3d5-e7aa-4ee3-9d27-170cf7201d53": {
+          "number": 230,
+          "path": "chapitres/tragedies/volume-ccxxx-sophocle-triptolemos-demeter-eleusis-ble-geographie-don-civilisation.md",
+          "request_sha256": "cf0075c6a40da8a699a58ed431bfad87efc51239c29656eb02a7ecdf3aee4e0a",
+          "initial_source_sha256": "736e9af7e01040222808bb01cc8bb28cb62da92a8d0df666e36315f66b38b95c"
         }
       }
     },
