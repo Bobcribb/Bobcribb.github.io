@@ -910,3 +910,52 @@ body.mythos-design .mythos-recent-backlinks a:is(:hover,:focus-visible){
 @media print{
   body.mythos-design .mythos-recent-backlinks{display:none!important}
 }
+
+
+/* MYTHOS — dernières études : carte illustrée en pleine largeur.
+   Les images sont imbriquées dans un bloc légendé ; elles ne doivent pas
+   hériter des dimensions 90 x 113 px des vignettes des autres collections. */
+body.mythos-design #home-etudes-recentes a.portal-card{
+  display:flex!important;
+  flex-direction:column;
+  align-items:stretch;
+  gap:8px;
+  min-width:0;
+  padding:15px!important;
+}
+body.mythos-design #home-etudes-recentes a.portal-card > *{
+  grid-column:auto!important;
+  min-width:0;
+}
+body.mythos-design #home-etudes-recentes .mythos-recent-illustration{
+  display:block;
+  width:100%;
+  margin:0 0 8px;
+}
+body.mythos-design #home-etudes-recentes .mythos-recent-illustration img.mythos-card-image{
+  display:block;
+  width:100%!important;
+  height:clamp(140px,15vw,210px)!important;
+  max-height:none!important;
+  object-fit:cover;
+  border:1px solid #806b4d!important;
+}
+body.mythos-design #home-etudes-recentes .mythos-recent-caption{
+  display:block;
+  margin-top:8px;
+  font-size:12px;
+  line-height:1.55;
+  color:#e0cfb0;
+}
+body.mythos-design #home-etudes-recentes a.portal-card strong{
+  overflow-wrap:anywhere;
+  hyphens:auto;
+}
+@media(max-width:650px){
+  body.mythos-design #home-etudes-recentes .mythos-recent-illustration img.mythos-card-image{
+    height:clamp(170px,47vw,250px)!important;
+  }
+}
+@media print{
+  body.mythos-design #home-etudes-recentes a.portal-card{break-inside:avoid}
+}
