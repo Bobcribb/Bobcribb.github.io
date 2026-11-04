@@ -839,3 +839,74 @@ body.mythos-design .mythos-document-reciprocal a{
 @media print{
   body.mythos-design .mythos-document-reciprocal{display:none!important}
 }
+
+/* MYTHOS — cartes des études attribuées : photographies contextualisées.
+   Ces images de collection ne prétendent pas représenter le sujet du volume. */
+body.mythos-design #home-etudes-recentes .mythos-recent-illustration{
+  display:block;
+  margin:-2px 0 12px;
+  width:100%;
+}
+body.mythos-design #home-etudes-recentes .mythos-recent-illustration img{
+  display:block;
+  width:100%;
+  height:clamp(135px,16vw,202px);
+  object-fit:cover;
+  background:#101719;
+}
+body.mythos-design #home-etudes-recentes .mythos-recent-caption{
+  display:block;
+  margin:7px 0 0;
+  padding:0 2px;
+  color:#d6c3a4;
+  font:12px/1.55 system-ui,sans-serif;
+}
+body.mythos-design .mythos-recent-backlinks{
+  display:flex;
+  flex-wrap:wrap;
+  align-items:center;
+  gap:10px 16px;
+  margin:32px 0 12px;
+  padding:18px;
+  border-top:1px solid #927650;
+  border-bottom:1px solid #927650;
+  background:#121d1e;
+  color:#f0dec0;
+}
+body.mythos-design .mythos-recent-backlinks span{
+  flex:1 1 100%;
+  font:600 13px/1.5 system-ui,sans-serif;
+  letter-spacing:.04em;
+}
+body.mythos-design .mythos-recent-backlinks a{
+  display:inline-flex;
+  align-items:center;
+  min-height:44px;
+  padding:9px 14px;
+  border:1px solid #9d8359;
+  color:#f3d6a8!important;
+  text-decoration:none!important;
+  font:600 14px/1.5 system-ui,sans-serif;
+}
+body.mythos-design .mythos-recent-backlinks a:is(:hover,:focus-visible){
+  background:#283533;
+  border-color:#edc68f;
+  text-decoration:underline!important;
+}
+@media(max-width:650px){
+  body.mythos-design #home-etudes-recentes .mythos-recent-illustration img{
+    height:clamp(155px,49vw,240px);
+  }
+  body.mythos-design .mythos-recent-backlinks{
+    display:grid;
+    grid-template-columns:minmax(0,1fr);
+    padding:15px 12px;
+  }
+  body.mythos-design .mythos-recent-backlinks a{
+    justify-content:center;
+    overflow-wrap:anywhere;
+  }
+}
+@media print{
+  body.mythos-design .mythos-recent-backlinks{display:none!important}
+}
