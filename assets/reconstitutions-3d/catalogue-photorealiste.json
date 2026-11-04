@@ -2,7 +2,7 @@
   "generated_at": "2026-11-04",
   "site": "bobmythos.fr",
   "method": "Illustrations photoréalistes interprétatives, textes et sources hors des pixels.",
-  "count": 35,
+  "count": 36,
   "entries": [
     {
       "id": "DEL-PAN-001",
@@ -687,6 +687,29 @@
       "provenance": "Rendu original généré avec une IA ; sources scientifiques indépendantes, sans caution de l'image.",
       "sha256": "7ed0b05d8e3091b4fc0fae86ab8ae438cb9553c810b2e1c923f0ea5b4f14f3b5",
       "scientific_notice": "/assets/reconstitutions-3d/notices/pylos-palais-nestor-megaron-mycenien.json"
+    },
+    {
+      "id": "OLY-URB-001",
+      "slug": "olynthe-quartier-maisons-cours-355-panorama",
+      "title": "Olynthe — quartier résidentiel et maisons à cour de la cité classique",
+      "period": "Évocation vers 355 av. J.-C., avant la destruction de 348 av. J.-C.",
+      "caption": "Panorama photoréaliste interprétatif d’un îlot d’habitations sur la colline Nord d’Olynthe : rues orthogonales, murs de terre enduits sur soubassements de pierre, cours, portiques domestiques et toitures en tuiles.",
+      "commentary": "Olynthe, au cœur de la Chalcidique, s'est développée comme centre de la Ligue chalcidienne à partir de 432 av. J.-C., avant sa prise par Philippe II en 348 av. J.-C. Sur la colline Nord, les fouilles révèlent un quadrillage de rues et des îlots de dix maisons. Des habitations de type « pastas » s'articulent autour d'une cour ouverte ; un portique couvert dessert les pièces. Certaines maisons comportaient un étage, dont la présence est suggérée notamment par des bases d'escaliers, et des pièces de réception (andrônes) dont les sols pouvaient être couverts de galets en mosaïque. La maçonnerie basse en pierre, les élévations en briques crues, les enduits muraux et la terre cuite des couvertures sont des solutions archéologiques plausibles, non la restitution certifiée d'un ensemble immobilier précis. La géométrie de la trame urbaine et le principe des cours et des pastades sont bien établis ; cette composition ne correspond à aucun relevé parcellaire identifié. Les niveaux et pentes des toitures, l'agencement des ouvertures, les coloris, la végétation domestique, les rues entièrement dallées et la présence de mosaïques visibles sont partiellement ou entièrement conjecturaux. Les travaux archéologiques et les sources institutionnelles cités documentent le site, mais ne valident pas cette image.",
+      "certainty": "Élevée : quadrillage, cours ouvertes et fonction résidentielle. Moyenne : soubassements, enduits, tuiles et étages. Faible : façades précises, dallages, décoration, mosaïques, végétation et orientation.",
+      "source_url": "https://www.efachagor.gr/en/place/olynthus/",
+      "secondary_sources": [
+        "https://sites.lsa.umich.edu/olynthos-project/olynthian-houses/",
+        "https://sites.lsa.umich.edu/olynthos-project/north-hill/",
+        "https://www.hh.gr/en/destinations/olynthus/"
+      ],
+      "src": "/assets/reconstitutions-3d/olynthe-quartier-maisons-cours-355-panorama.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-04",
+      "type": "panorama 3D photoréaliste interprétatif non métrique",
+      "provenance": "Création originale assistée par IA, sans titre, menu ni annotation incrusté ; les sources archéologiques ne valident pas le rendu.",
+      "sha256": "8cea9b292ee9994eb559a0dbf6b7c319f5717445c3acc4b9a739a33b0a12e991",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/olynthe-quartier-maisons-cours-355-panorama.json"
     }
   ]
 }
