@@ -220,3 +220,13 @@ body.mythos-reading .content pre{overflow-x:auto;white-space:pre}
 /* Notices philologiques et bestiaire : position et surlignage des cibles profondes. */
 body.mythos-design :is(h3,details)[id]:target{outline:2px solid #d2b07a;outline-offset:5px;border-radius:2px}
 body.mythos-design details[id="kleos"] summary{cursor:pointer}
+
+/* MYTHOS — 2026-11-04: compact cards without illustration. */
+/* Do not reserve a blank thumbnail gutter when the subject has no approved image.
+   Illustrated cards retain their existing 90px / mobile 74px thumbnail layout. */
+body.mythos-design .portal-card:not(:has(>img.mythos-card-image)){
+  grid-template-columns:minmax(0,1fr)!important;
+}
+body.mythos-design .portal-card:not(:has(>img.mythos-card-image))>*{
+  grid-column:1!important;
+}

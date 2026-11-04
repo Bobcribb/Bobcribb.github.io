@@ -28,6 +28,13 @@ PICTURES = {
  '/theatre/': 'epidaure-theatre-antique-zde.jpg',
  '/origines-du-sacre/': 'mythos-ounas-chambre-funeraire-vincent-brown.jpg',
  '/philosophie/': 'raphael-ecole-athenes-1511.jpg',
+ # Six exact reading links: locally archived object photography, not 2.5D reconstructions.
+ '/philosophie-iliade.html': 'mythos-iliade-achille-ajax-athena-hydrie-met-56-171-29.jpg',
+ '/philosophie-odyssee.html': 'mythos-papyrus-odyssee-ptolemaique-met-09-182-50.jpg',
+ '/philosophie-theogonie.html': 'mythos-bronze-artemision-zeus-ou-poseidon.jpg',
+ '/parcours/decouvrir-les-mythes-grecs/': 'mythos-heracles-lion-nemee-oinochoe-met-06-1021-66.jpg',
+ '/parcours/comprendre-la-tragedie/': 'mythos-masques-theatre-rondelles-hellenistiques-met-2001-767.jpg',
+ '/parcours/comparer-les-creations-du-monde/': 'mythos-enuma-elish-tablette-k3473-ninive-zunkir.jpg',
  '/mythologie-comparee/': 'mythos-enuma-elish-tablette-k3473-ninive-zunkir.jpg',
  '/bibliotheque-egypte-ancienne/': 'mythos-papyrus-ani-pesee-coeur-british-museum.jpg',
  '/bibliotheque-mesopotamie/': 'gilgamesh-tablette-deluge-british-museum-babelstone.jpg',
