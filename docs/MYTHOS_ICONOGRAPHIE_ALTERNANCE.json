@@ -38,7 +38,7 @@
       "philosophie-theogonie.html"
     ],
     "checks": "3 sources SVG et 3 pages relues après commit ; aucun id HTML dupliqué ni ancre interne manquante ; attribut alt et statut d’assistance IA présents ; aucune modification du texte des études hormis l’insertion des figures ; 3 textes > 53 000 mots chacun, pagination A4 non vérifiée.",
-    "public_deployment_status": "Non confirmé : consultation directe du domaine bobmythos.fr et du reçu /catalog/publication-verification.json inaccessible depuis l’environnement de contrôle (résolution DNS impossible).",
+    "public_deployment_status": "Vérifié le 4 novembre 2026 sur bobmythos.fr : le reçu public /catalog/publication-verification.json indique le commit source 226c1311b16c38dcf6fdc45726d4fb525dfadb4c ; les trois nouveaux chemins SVG répondent HTTP 404 et leurs nouvelles figures ne sont pas visibles sur les pages publiques. Les fichiers existent bien sur GitHub main. Déploiement de cette séance NON confirmé.",
     "content_preserved": "Textes, sommaires, navigation, numérotations, registres éditoriaux, automatisations et fréquence inchangés.",
     "commits": [
       "950427b1c81f3d0ac2b8e6a6445a3a5b6697f8f0",
