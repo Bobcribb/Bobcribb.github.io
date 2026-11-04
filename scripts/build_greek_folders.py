@@ -67,6 +67,11 @@ HERO_HOME = {
     'orphee': ('heros', 'Orphée et les passages vers l’au-delà'),
 }
 CHAPTER_RULES = [
+    # Études déjà publiées 398 et 424 : le sujet est le sanctuaire local,
+    # non l'appartenance générale d'Artémis/Dionysos au panthéon olympien.
+    # Liens de retour et sommaires régénérés sans réécrire les manuscrits.
+    (r'^artemis soteira\\b', 'sanctuaires', 'Mégare, Trézène et Pellène — Artémis Sôteira et salut civique'),
+    (r'^dionysos aisymnetes\\b', 'sanctuaires', 'Patras — Dionysos Aisymnètès, Artémis Triklaria et Eurypyle'),
     # Réconciliation de 10 études intégrales déjà publiées (391–400, 423).
     # Affectation par le sujet effectif et les témoignages primaires contrôlés :
     # seules les rubriques/sous-dossiers sont générés ; ni cote ni texte modifiés.
