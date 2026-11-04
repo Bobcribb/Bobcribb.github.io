@@ -70,6 +70,9 @@ def card(url,title,description="",label="COLLECTION"):
         # losing the image whenever the general navigation is regenerated.
         image = '<img class="mythos-card-image" data-mythos-card-source="la-galigo-leiden" src="https://upload.wikimedia.org/wikipedia/commons/1/10/La_Galigo_item_29355-0009_%28cropped2%29.jpg" alt="Folio de La Galigo en écriture bugis conservé à Leiden University Libraries, document de 1906." loading="lazy" decoding="async"/>'
         credit = '<span>Folio : Leiden University Libraries · CC BY-SA 4.0.</span>'
+    if url == "/reconstitutions-photorealistes.html":
+        # Couverture du catalogue attestée sur main ; ne pas rétablir les SVG 2,5D.
+        image = '<img class="mythos-card-image" src="/assets/reconstitutions-3d/delphes-apollon-panorama.webp" alt="Reconstitution photoréaliste interprétative du sanctuaire d’Apollon à Delphes" loading="lazy" decoding="async"/>'
     return f'<a class="portal-card" href="{esc(url)}">{image}<span class="portal-card-kicker">{esc(label)}</span><strong>{esc(title)}</strong>{credit}<span>{esc(description)}</span><span class="card-indicator" aria-hidden="true">↗</span></a>'
 
 def cards(items,cols=""):
