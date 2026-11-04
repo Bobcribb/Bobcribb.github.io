@@ -71,12 +71,15 @@ def build():
             for im in clean.select('img'):im.decompose()
             for fig in clean.select('figure,figcaption'):fig.decompose()
             for p in clean.find_all('p'):
+                if p.get_text(' ',strip=True).startswith('Figure '):p.decompose()
+            for p in clean.find_all('p'):
                 txt=p.get_text(' ',strip=True);words+=len(txt.split());paras.append(txt)
             analysis.append(str(clean))
     duplicates=[p[:120] for p,n in Counter(paras).items() if n>1]
     if duplicates:raise ValueError(('Duplicate analytical paragraphs',duplicates))
     analysis_doc=HTML(string='<html lang="fr"><body>'+''.join(analysis)+'</body></html>').render(stylesheets=[CSS(string=PRINT)])
     n_analysis=len(analysis_doc.pages)
+    assert n_analysis > 75, 'Analytical text unexpectedly shorter than the initial study'
     target=300
     status='complete' if n_analysis>=target else 'partial'
     notice=(f'Analyse achevée : {n_analysis} pages A4 effectives hors images et annexes, objectif de {target} pages atteint.' if status=='complete' else f'Livraison augmentée : {n_analysis} pages A4 effectives d’analyse hors images et annexes sur un objectif de {target} pages. Le travail reste à poursuivre.')
@@ -86,7 +89,7 @@ def build():
     cover=f'<section class="cover"><p class="label">MYTHOS · ÉTUDES PHILOSOPHIQUES</p><h1>L’Énéide<br>de Virgile</h1><p style="font-size:17pt">Fonder un monde après la catastrophe</p><p>Lecture des douze chants, éthique, politique et poétique</p><div class="status"><p>{notice}</p><p>{str(words//1000)+' '+str(words%1000).zfill(3)} mots d’analyse, hors titres et références.</p></div><p>Édition du 4 novembre 2026</p><p style="font-size:10pt">{method}</p></section>'
     full='<html lang="fr"><head><meta charset="utf-8"><title>'+TITLE+'</title><meta name="author" content="MYTHOS"></head><body>'+cover+contents+''.join(sections)+'</body></html>'
     PDF.parent.mkdir(parents=True,exist_ok=True)
-    HTML(string=full).write_pdf(PDF,stylesheets=[CSS(string=PRINT)])
+    HTML(string=full,base_url=ROOT.as_uri() + '/').write_pdf(PDF,stylesheets=[CSS(string=PRINT)])
     reader=PdfReader(PDF);n_full=len(reader.pages)
     report={'edition_date':'2026-11-04','status':status,'target_analysis_pages':target,'actual_analysis_pages':n_analysis,'actual_total_pdf_pages':n_full,'analysis_words':words,'format':'A4','font':'Nimbus Roman','font_pt':12,'line_height':1.5,'margins_mm':25,'forced_analysis_page_breaks':False,'analysis_excludes':['cover','contents','chapter references','glossary','bibliography','illustrations'],'sources_sha256':hashes,'pdf_sha256':hashlib.sha256(PDF.read_bytes()).hexdigest(),'duplicate_analysis_paragraphs':len(duplicates)}
     REPORT.parent.mkdir(parents=True,exist_ok=True);REPORT.write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n')
@@ -96,7 +99,7 @@ def build():
     doc=BeautifulSoup(web,'html.parser');ids=[x['id'] for x in doc.select('[id]')]
     assert len(ids)==len(set(ids))
     assert all(a['href'][1:] in ids for a in doc.select('a[href^="#"]'))
-    assert words>30000 and n_analysis>0
+    assert words>30402 and n_analysis>=76
     assert len(reader.pages)>n_analysis
     print(json.dumps({k:v for k,v in report.items() if k!='sources_sha256'},ensure_ascii=False))
 
