@@ -179,6 +179,22 @@ def search_form(catalogue=False):
     ) + '</div><button type="reset">Effacer les filtres</button></form><p data-search-status role="status" aria-live="polite">Chargement du catalogue…</p><div class="results discovery-results" data-results'+(' data-catalogue="true"' if catalogue else '')+'></div><nav class="result-pagination" aria-label="Pages de résultats" data-pagination></nav><noscript><p>La recherche filtrée nécessite JavaScript. <a href="/rubriques/">Ouvrir l’index alphabétique complet</a>.</p></noscript>'
 
 
+def home_work_cards():
+    """Les quatre études réellement présentées sur la page d'accueil."""
+    return [
+        ('/philosophie-'+key+'.html', spec[0], desc, 'ÉTUDE PHILOSOPHIQUE')
+        for key, spec, desc in [
+            ('iliade', EPICS['iliade'], 'Colère, honneur, mortalité et compassion.'),
+            ('odyssee', EPICS['odyssee'], 'Identité, hospitalité, retour et reconnaissance.'),
+            ('theogonie', EPICS['theogonie'], 'Généalogie divine, savoir poétique et souveraineté.'),
+        ]
+    ] + [
+        ('/philosophie-eneide.html', 'L’Énéide',
+         'Exil, pietas, destin et fondation. Première livraison : 76 pages A4 d’analyse ; objectif de 300 pages encore inachevé.',
+         'VIRGILE · ÉDITION PARTIELLE'),
+    ]
+
+
 def prepare(out, root):
     """Create portals before the last search/sitemap pass."""
     intro = '<h1>MYTHOS</h1><p class="portal-lead">Mythes, textes et civilisations : une bibliothèque à parcourir, des sources à interroger.</p>'
@@ -186,11 +202,17 @@ def prepare(out, root):
     intro += '<section class="portal-section"><h2>Les collections</h2>'+cards(COLLECTIONS)+'</section>'
     intro += '<section class="portal-section"><h2>Commencer une lecture</h2>'+cards([
         ('/parcours/'+slug+'/',title,lead,'PARCOURS GUIDÉ') for slug,title,lead,_ in ROUTES])+'</section>'
-    intro += '<section class="portal-section"><h2>Trois œuvres à approfondir</h2>'+cards([
-        ('/philosophie-'+key+'.html',spec[0],desc,'ÉTUDE PHILOSOPHIQUE') for key,spec,desc in [
-            ('iliade',EPICS['iliade'],'Colère, honneur, mortalité et compassion.'),
-            ('odyssee',EPICS['odyssee'],'Identité, hospitalité, retour et reconnaissance.'),
-            ('theogonie',EPICS['theogonie'],'Généalogie divine, savoir poétique et souveraineté.')]])+'</section>'
+    # Les quatre œuvres sont contrôlées contre leurs lecteurs disponibles.
+    works = home_work_cards()
+    for address, _, _, _ in works:
+        if not page_path(out, address).is_file():
+            raise RuntimeError('Étude de l’accueil absente du rendu : ' + address)
+    intro += ('<section class="portal-section" id="home-oeuvres">'
+              '<h2>Quatre œuvres à approfondir</h2>'
+              '<p class="section-intro">Trois études grecques d’Homère et d’Hésiode, '
+              'prolongées par Virgile et la fondation romaine. L’Énéide est une '
+              'première livraison ; l’objectif de 300 pages demeure inachevé.</p>'
+              + cards(works) + '</section>')
     # Vitrines de sites antiques : images locales existantes et liens profonds stables.
     # Conserver les notices archéologiques distinctes des vues interprétatives.
     sites = [
