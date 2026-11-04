@@ -35,11 +35,17 @@ class IconographyAlternationTests(unittest.TestCase):
         self.assertGreaterEqual(len(history), 2)
         self.assertEqual(data["latest_session"], history[-1])
         self.assertEqual(history[-1]["previous_kind"], history[-2]["kind"])
-        self.assertNotEqual(history[-1]["next_kind"], history[-1]["kind"])
         allowed = {"AUDIT ET CORRECTION", "ENRICHISSEMENT ICONOGRAPHIQUE"}
+        opposite = {
+            "AUDIT ET CORRECTION": "ENRICHISSEMENT ICONOGRAPHIQUE",
+            "ENRICHISSEMENT ICONOGRAPHIQUE": "AUDIT ET CORRECTION",
+        }
         self.assertTrue(all(event["kind"] in allowed for event in history))
+        for event in history:
+            self.assertEqual(event.get("next_kind"), opposite[event["kind"]])
         for previous, current in zip(history, history[1:]):
-            self.assertNotEqual(previous["kind"], current["kind"])
+            self.assertEqual(previous["next_kind"], current["kind"])
+            self.assertEqual(current.get("previous_kind"), previous["kind"])
         encoded = [json.dumps(event, sort_keys=True, ensure_ascii=False) for event in history]
         self.assertEqual(len(encoded), len(set(encoded)), "Le même audit figure deux fois dans l'historique")
 
