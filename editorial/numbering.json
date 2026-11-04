@@ -369,6 +369,12 @@
           "path": "chapitres/origines-du-sacre/633-tt320-cache-royale-deir-el-bahari-reinhumation-momies-coffins.md",
           "request_sha256": "7949194f10748cd7937f9c1b522f76879eca5ce7031a9dd5fb11d0ebd50d0a9f",
           "initial_source_sha256": "6c4bdfd9b1be9ec38ee1fc7380f16d1de8587aed2ec5893bd5a9d0b3d47c669d"
+        },
+        "2e7d1a6c-e5b4-4fd3-a97b-4e0a9d5182c7": {
+          "number": 634,
+          "path": "chapitres/origines-du-sacre/634-kv35-amenhotep-ii-cache-royale-amdouat-identites-chronologies.md",
+          "request_sha256": "0919c0397a9add7653f79ec4064c4ff8680596983a636c07e5a8da9cd3f90417",
+          "initial_source_sha256": "7786070049d482703c09eb47e9352f8efdf7ea7478b2ef262e363174b008ae55"
         }
       }
     },
@@ -928,6 +934,12 @@
           "path": "chapitres/comedies/volume-085-archippos-rhinon-restauration-democratie-couronne-manteau-rasoir.md",
           "request_sha256": "d6ebc9fb23603bd82e5579983b1fc22166f30dde1c205156e4df0d1824d7775d",
           "initial_source_sha256": "f9afbc07914543eb01cf56646d67c9c3440d2b880a12da208e1ee45ae14089f0"
+        },
+        "c9a8f037-6e58-4ca2-8f75-62bd9410ed36": {
+          "number": 86,
+          "path": "chapitres/comedies/volume-086-archippos-herakles-gamon-mariage-hebe-banquet-symbolon-cuisine.md",
+          "request_sha256": "404b6ecda763e6271e526d3bebb61733b02bbf60b6ef76ac5a85aa9d02e59320",
+          "initial_source_sha256": "9dc5a9a6f7b8a2e9967effae85bd401cc86ed05e3b82a6e328a32d2d0c5f8a42"
         }
       }
     },
