@@ -1486,6 +1486,12 @@
           "path": "chapitres/tragedies/volume-ccxxxvi-sophocle-skyriens-neoptoleme-lycomede-deidamie-odyssee-phoenix-depart-troie.md",
           "request_sha256": "94a2259f10edf45906de46b5f60e875709f26c956827b668b1c52bf84580de76",
           "initial_source_sha256": "28b05c80a543c6902b9c04952e93fd4e1a2cc1ae621fb147d331f4fd3d5f4ef1"
+        },
+        "b91f62a8-30d4-4c99-8d32-441c072fae65": {
+          "number": 237,
+          "path": "chapitres/tragedies/volume-ccxxxvii-sophocle-tantale-hermes-oracle-pandareos-chien-or-serment-sipyle.md",
+          "request_sha256": "5246570e1037371d48552afb0ec8c287591cbde728b374ad1816c85b80a6fd2a",
+          "initial_source_sha256": "e75a1d6077c54b19580a038c94f052624b436e99f0c505655504393ec1304886"
         }
       }
     },
@@ -2053,6 +2059,12 @@
           "path": "chapitres/comparatif/volume-ccxxxv-mc-055-quand-les-dieux-pleurent-deuil-divin-lamentations-catastrophes-restauration-ordre-cosmique.md",
           "request_sha256": "ec829667164383da6a6fdaa1f1938e874772fcb1adc5381279a5478422386e30",
           "initial_source_sha256": "9ef3c8ff1fef2df3124eeb929b394bfd13dbeb574c2c614ed107bb715344a8ec"
+        },
+        "de9cddf1-6918-46d8-8dc8-50a56bf0b056": {
+          "number": 236,
+          "path": "chapitres/comparatif/volume-ccxxxvi-mc-056-quand-les-dieux-ont-peur-frayeur-divine-crise-cosmique-souverainete.md",
+          "request_sha256": "7957dae06f5ab4e47da7a547be85621823a2c571998db29451e8996ac2038f74",
+          "initial_source_sha256": "d261656b82b9938eaaef3b74fc507c14874b4fa6e28a4bf91f0dcd639753cc00"
         }
       }
     }
