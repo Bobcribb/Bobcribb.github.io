@@ -241,7 +241,6 @@ def prepare(out, root):
 <h2>Approfondir la méthode</h2><p><a href="/sources-methodes/">Sources et méthodes de l’étude des mythes</a> · <a href="/bibliotheque-mythologies-du-monde/charte-scientifique-sources-images-reconstitutions-mythos/">Charte scientifique détaillée</a> · <a href="/etat-du-corpus/">État du corpus</a></p>'''
     write_page(out,'methode-editoriale','Sources et méthode éditoriale',method)
     write_page(out,'etat-du-corpus','État du corpus MYTHOS','<h1>État du corpus</h1><div id="corpus-inventory"></div>')
-    install_civilisation_reciprocal_navigation(out, root)
 
 
 def metadata(entry, doc):
