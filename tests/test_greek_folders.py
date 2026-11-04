@@ -26,6 +26,7 @@ class GreekFolderTests(unittest.TestCase):
             ('chapitre-348-pythie-delphes-parole-inspiree', 'sanctuaires'),
             ('chapitre-359-chiron-nouvelle-etude', 'heros'),
             ('chapitre-999-zeus-nouvelle-etude', 'dieux'),
+            ('chapitre-389-hebe-jeunesse-heracles-phlionte-asylie-cultes-art-philosophie', 'dieux'),
             ('chapitre-999-sujet-inconnu', 'sources'),
         ]
         for slug, folder in cases:

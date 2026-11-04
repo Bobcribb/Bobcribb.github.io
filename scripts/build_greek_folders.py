@@ -85,7 +85,7 @@ CHAPTER_RULES = [
     (r'^(nyx|gaia|titanomachie|typhon|gigantomachie)\b', 'cosmogonies', 'Générations divines et conflits de souveraineté'),
     (r'^(promethee|hypnos)\b', 'cosmogonies', 'Condition humaine, mort et destin'),
     (r'^(helios|asteria|pan|satyres)\b', 'dieux', 'Puissances de la nature'),
-    (r'^(tyche|hymenaios|ilithyie|aidos|eleos|pheme)\b', 'dieux', 'Puissances de la vie et de la cité'),
+    (r'^(tyche|hymenaios|ilithyie|aidos|eleos|pheme|hebe)\b', 'dieux', 'Puissances de la vie et de la cité'),
     (r'^(pholos|nessos|atlas|hesperides)\b', 'heracles', 'Le héros et son entourage'),
     (r'^(chiron|ixion|lapithes|cenee)\b', 'heros', 'Chiron, les Lapithes et les Centaures'),
     (r'^(acteon|atalante|orion)\b', 'heros', 'Chasse, épreuves et métamorphoses'),
