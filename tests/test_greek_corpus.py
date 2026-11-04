@@ -7,6 +7,7 @@ from bs4 import BeautifulSoup
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'scripts'))
 from build_greek_corpus import book_sections, main, verify, BOOKS, ARCHIVES, rewritten_studies, REWRITES, scholarly_title
+from build_greek_folders import FOLDER_ARTWORK
 
 
 class GreekCorpusTests(unittest.TestCase):
@@ -67,6 +68,24 @@ class GreekCorpusTests(unittest.TestCase):
         with TemporaryDirectory() as tmp:
             root = Path(tmp) / 'source'
             out = Path(tmp) / 'site'
+            # The production generator validates all curated thumbnails
+            # against the source provenance register and copied media. Build
+            # the same minimal, explicitly credited fixtures here: omitting
+            # the register would test an impossible production environment.
+            media_registry = root / 'scripts/editorial_media.json'
+            media_registry.parent.mkdir(parents=True, exist_ok=True)
+            records = []
+            for folder, (media_id, subject) in FOLDER_ARTWORK.items():
+                media_path = 'media/2026/10/' + media_id + '.jpg'
+                image = out / media_path
+                image.parent.mkdir(parents=True, exist_ok=True)
+                image.write_bytes(b'Existing image fixture')
+                records.append({
+                    'id': media_id, 'subjects': [subject], 'path': media_path,
+                    'alt': 'Objet ancien documenté — ' + folder,
+                    'caption_html': '<a href="https://example.org/source">Source et licence</a>'
+                })
+            media_registry.write_text(json.dumps({'media': records}), encoding='utf-8')
             for title, slug in BOOKS:
                 page = out / slug / 'index.html'
                 page.parent.mkdir(parents=True, exist_ok=True)
