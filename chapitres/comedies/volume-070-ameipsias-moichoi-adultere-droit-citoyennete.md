@@ -10,7 +10,7 @@
 
 **Question directrice [B].** Une comédie intitulée « Les Adultères » ne livre pas une intrigue complète, mais elle articule potentiellement trois niveaux : la sexualité comme matière comique, l’adultère comme problème de l’*oikos* et de la légitimité familiale, et sa transformation en problème civique dans une cité où la filiation conditionne héritage et citoyenneté. Les deux fragments ne permettent pas de reconstruire le scénario ; ils autorisent une enquête sur le langage du risque, du paiement, du témoignage et du franchissement des portes.
 
-**Navigation :** [Amipsias, *Konnos*, étude principale](/chapitres/comedies/volume-068-ameipsias-konnos-socrate-musique-oracles-education/) · [Complément *Konnos*](/chapitres/comedies/volume-069-ameipsias-konnos-socrate-penseurs-musique-verite/) · [Théâtre grec](/theatre/) · [Catalogue intégral](/catalogue-integral/).
+**Navigation :** [Volume précédent — LXIX, *Konnos*, complément](/chapitres/comedies/volume-069-ameipsias-konnos-socrate-penseurs-musique-verite/) · [LXVIII, *Konnos*, étude principale](/chapitres/comedies/volume-068-ameipsias-konnos-socrate-musique-oracles-education/) · [Volume suivant — LXXI, *Komastai*, complément](/chapitres/comedies/volume-071-ameipsias-komastai-komos-ivresse-fete-politique/) · [LXXII, *Komastai*, étude principale](/chapitres/comedies/volume-072-ameipsias-komastai-kosmos-concours-414-fete-politique/) · [Théâtre grec](/theatre/) · [Catalogue intégral](/catalogue-integral/).
 
 ---
 
