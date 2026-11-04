@@ -814,6 +814,9 @@ def create_philosophy(entries):
      ("/philosophie-theogonie.html","Philosophie de la Théogonie","Souveraineté, parole, alliances et serment divin.","ÉTUDE INTÉGRALE"),
      ("/philosophie-audit-pagination-2026-11-04.html","Pagination A4 vérifiée","Méthode, résultats et six PDF de référence.","CONTRÔLE ÉDITORIAL")
     ]))
+    body+=section("Virgile : L’Énéide","Première livraison du projet de 300 pages : 76 pages A4 d’analyse vérifiées, 84 pages dans le PDF complet. Les douze chants sont étudiés ; le volume de 300 pages reste à compléter.",cards([
+     ("/philosophie-eneide.html","L’Énéide de Virgile","Didon, destin, piété, Empire et mort de Turnus. Texte, sources et PDF.","PREMIÈRE LIVRAISON")
+    ]))
     body+=section("Philosophie des mythes et du tragique","La mythologie comme problème de connaissance, de pouvoir et de sens.",cards([
      ("/philosophie-et-interpretations/","Philosophie et interprétations","Concepts, écoles et lecture des mythes."),
      ("/tragedies/philosophie-theatre-grec-tragique-comique-hegel-nietzsche/","Hegel et Nietzsche","Tragique, justice, liberté et connaissance."),
@@ -1150,4 +1153,5 @@ def finalize_navigation(index_count):
     renovate_search()
     total=apply_navigation()
     print("MYTHOS NAVIGATION :",total,"pages avec menu commun, index thématique créé",flush=True)
+
 
