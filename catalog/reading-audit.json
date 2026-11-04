@@ -1,9 +1,15 @@
 {
   "status": "passed",
-  "indexed_entries": 1371,
-  "pages_scanned": 1428,
-  "readers_equipped": 989,
-  "links_checked": 120581,
+  "indexed_entries": 1379,
+  "pages_scanned": 1436,
+  "readers_equipped": 995,
+  "links_checked": 121414,
   "new_navigation_errors": [],
-  "legacy_link_issues": []
+  "legacy_link_issues": [
+    {
+      "page": "/chapitres/comedies/volume-094-nikochares-kentauros-centaure-agora-dartheis-chiron-pholos/index.html",
+      "url": "/comedies-grecques/",
+      "problem": "fichier absent"
+    }
+  ]
 }

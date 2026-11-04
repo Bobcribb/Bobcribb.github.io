@@ -423,6 +423,18 @@
           "path": "chapitres/origines-du-sacre/642-panebmontou-montou-thebes-coffins-louvre-atelier-rituel-savoir.md",
           "request_sha256": "955751cae0bfec7799a189251d40366d3deccb21684e1d15c65504e8619732a3",
           "initial_source_sha256": "4113aefe99011f2320c083dbb867c920e14469e5c68244ca53cfbd39501b6d2e"
+        },
+        "d31b7e56-2a6a-4dd0-9a63-4c8fd57f6e21": {
+          "number": 643,
+          "path": "chapitres/origines-du-sacre/643-saqqara-atelier-embaumement-wabet-ibu-vases-etiquetes.md",
+          "request_sha256": "d3e6da11cc9912be17bec700f24c0d507f0b3474f294ee80f7a12b513acd3a96",
+          "initial_source_sha256": "6d93a8441989e1ca22cc799ff9c2d6f1a7949e08d27f7dfdc502be3eff26ae19"
+        },
+        "f48c1a27-7b02-4f0e-a98a-c61d3e582740": {
+          "number": 644,
+          "path": "chapitres/origines-du-sacre/644-antiu-sefet-resines-huiles-chimie-philologie-embaumement.md",
+          "request_sha256": "5677a4a430586e7f1369ff70aaacdeaa80e3e375c913910bff37b09948053ebf",
+          "initial_source_sha256": "ca5646f2cd7309df7c2b612b2ba067ba2c63a9b725d1c2df498452901ab4a868"
         }
       }
     },
@@ -844,6 +856,24 @@
           "path": "chapitres/encyclopedie/chapitre-417-epimenide-crete-sommeil-purification-athenes-cylon.md",
           "request_sha256": "80937b3ac99eba5da33ed6b7ebe8b9ac6d0d8fb7acc9d79cb6d46a794af4bbf6",
           "initial_source_sha256": "d48ab0382bc7dc2150ba26f632bcef001918286ae9d4f7bb69664d5ff0a4a68e"
+        },
+        "1b6e929c-71a5-48c6-b9fd-0e72fc3da941": {
+          "number": 418,
+          "path": "chapitres/encyclopedie/chapitre-418-eunostos-tanagra-myrtis-ochna-heroion-bois-sacre-interdit.md",
+          "request_sha256": "5d566bc7d32cc3d8d8feedef038a6e2f7576a75c637aaf3fe123701f197c4415",
+          "initial_source_sha256": "3db9f1f9dc4d202a377b3a2114d94d8eda99df3af5ea4954b8b88ca40c907733"
+        },
+        "a6c27d10-49e3-46c2-8af0-0c3e9f75d214": {
+          "number": 419,
+          "path": "chapitres/encyclopedie/chapitre-419-agdistis-phrygie-attis-cybele-pessinonte.md",
+          "request_sha256": "bed95d06ecf59921ec69d7307135fce4329cd2547d3900b0f8425a563c5ff782",
+          "initial_source_sha256": "93164c3b5b5b89efac2638fcf62ee8b4e98ec0f8eb8b1207359f4212e77479cb"
+        },
+        "ae7e3d21-8b92-47ce-a9d3-15e4bc70f621": {
+          "number": 420,
+          "path": "chapitres/encyclopedie/chapitre-420-makaria-heraclides-sacrifice-volontaire-asile-athenes.md",
+          "request_sha256": "6cc63be3052a9c8069d225bb12bfa6df7bdd6e11d8595c36c569e55858a47740",
+          "initial_source_sha256": "77bbe298afd000ef9e3fb8253906c5cbefa3e77d8ffaef89620e91db26fdc3f3"
         }
       }
     },
@@ -1114,6 +1144,12 @@
           "path": "chapitres/comedies/volume-093-nikochares-herakles-choregos-financement-choral-costume-chants-travail.md",
           "request_sha256": "589e0b213cb632cc8c2df6e174f1a2f529702d8f2f9f8053da2ea211c7675f9a",
           "initial_source_sha256": "3e15c8df2d5b65e3136a85044d952af7dda33ead6916f21b671e44872562c6f9"
+        },
+        "cadfb918-948f-451e-9f42-6eab73462519": {
+          "number": 94,
+          "path": "chapitres/comedies/volume-094-nikochares-kentauros-centaure-agora-dartheis-chiron-pholos.md",
+          "request_sha256": "1bc31c08bb3dd29b94327569e639dc1e1be79749191966cff5c7a3c4620359cc",
+          "initial_source_sha256": "833ce59ecd69e22fc510ed96d8adbfc8de47ee645833952c5f137e3aef215203"
         }
       }
     },
@@ -1426,6 +1462,12 @@
           "path": "chapitres/tragedies/volume-ccxxxv-sophocle-nausicaa-plyntriai-lavandieres-odyssee-accueil-tragedie-satyrique.md",
           "request_sha256": "3818d26a0c5502f11b453a0822d712e355fc9b850e548af2006f591dfe6ca54a",
           "initial_source_sha256": "2a4f69de7e19e89a94d3995b65bc83517baef7e870a96f08fb66bd71bf6a1426"
+        },
+        "91f45b8d-377d-4d95-881e-c9436dc94fd7": {
+          "number": 236,
+          "path": "chapitres/tragedies/volume-ccxxxvi-sophocle-skyriens-neoptoleme-lycomede-deidamie-odyssee-phoenix-depart-troie.md",
+          "request_sha256": "94a2259f10edf45906de46b5f60e875709f26c956827b668b1c52bf84580de76",
+          "initial_source_sha256": "28b05c80a543c6902b9c04952e93fd4e1a2cc1ae621fb147d331f4fd3d5f4ef1"
         }
       }
     },
@@ -1987,6 +2029,12 @@
           "path": "chapitres/comparatif/volume-ccxxxiv-mc-054-quand-les-dieux-rient-humour-divin-crise-cosmique-moquerie-reconciliation.md",
           "request_sha256": "845edd1986ba856ba0117a2ca5505799016e2f7d3df97f110f1410f1dfc8523c",
           "initial_source_sha256": "60381274f168daae63a7e016abb84473e4344cfb0f725d1d5f224c68b251c011"
+        },
+        "1a6c480c-5d52-4b7f-907d-12e6e7c05055": {
+          "number": 235,
+          "path": "chapitres/comparatif/volume-ccxxxv-mc-055-quand-les-dieux-pleurent-deuil-divin-lamentations-catastrophes-restauration-ordre-cosmique.md",
+          "request_sha256": "ec829667164383da6a6fdaa1f1938e874772fcb1adc5381279a5478422386e30",
+          "initial_source_sha256": "9ef3c8ff1fef2df3124eeb929b394bfd13dbeb574c2c614ed107bb715344a8ec"
         }
       }
     }
