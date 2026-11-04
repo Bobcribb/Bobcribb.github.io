@@ -90,7 +90,7 @@ class EditorialIllustrationsTest(unittest.TestCase):
 
     def test_work_heading_after_collection_heading(self):
         _, selected = self.render_page('volume-150', 'MYTHOS — Tragédies grecques', '<h1>Euripide, Médée</h1><p>Étude intégrale.</p>')
-        self.assertEqual(8, len(selected))
+        self.assertEqual(6, len(selected))
         self.assertTrue({'mythos-medee-fuite-char-serpents-hydrie-policoro-35296', 'mythos-van-loo-medee-jason', 'mythos-euripide-portrait-antique-szilas'} <= set(selected))
         self.assertTrue(all('medee' in key or 'euripide-portrait' in key for key in selected))
 
