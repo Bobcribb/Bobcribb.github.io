@@ -207,6 +207,18 @@
           "path": "chapitres/origines-du-sacre/606-pretresses-cos-parts-sacrificielles-dionysos.md",
           "request_sha256": "02f530bbc0c4b7f6bf171fbc9909268a28ddac1a1eafb62832eeedc4fc9d1b92",
           "initial_source_sha256": "ba7d08ea56e991d4c2b0103006f62c3885adc0aff349a6f72cb15201f6058bac"
+        },
+        "41a3c41e-d624-4897-83b1-cbb7517d9d51": {
+          "number": 607,
+          "path": "chapitres/origines-du-sacre/607-delphes-enquete-amphictyonique-deficits-tresor-terres-sanctions.md",
+          "request_sha256": "03f800bf34d5a4c2833f09a239c2620ff70840980c2d27116755f696773877e4",
+          "initial_source_sha256": "f6f12b0795e43f873ca307d527460b8fa3a765ad29a78e162cc767de573178f5"
+        },
+        "7c2d4905-e96a-4475-a728-9c71ab8e5d53": {
+          "number": 608,
+          "path": "chapitres/origines-du-sacre/608-ciceron-verrines-images-divines-sicile-plaintes-restitution.md",
+          "request_sha256": "fd637be477004f4f130528d070000c68a00bc7f13b2b4034b708decb15cef5fb",
+          "initial_source_sha256": "efacbabe7f1f8a9a71a77e7fbf220e9df83750026d035bc536704a72dfa1ea80"
         }
       }
     },
@@ -525,6 +537,12 @@
           "path": "chapitres/comedies/volume-062-pherekrates-agrioi-misanthropie-cite-education-justice.md",
           "request_sha256": "de1d3efdf0db70e6980bb4295746061ea55707291090ab98e8edf48db9dc6cf3",
           "initial_source_sha256": "84e0a2f5292bbcb94cf2aa7f34b8801f37c6c1da0958b25dc30577e8dd9ccd0d"
+        },
+        "4c8f7e2a-5d63-4ac1-a51f-1e72d30bf6c9": {
+          "number": 63,
+          "path": "chapitres/comedies/volume-063-telekleides-amphiktyones-age-or-politique-abondance.md",
+          "request_sha256": "6b5b5d3f1306c159c76b6b709a6b1c775b5eb6ddff8d524e6d42e9487c091ae2",
+          "initial_source_sha256": "f7279c3a7e875db10fb3979e65a21c2619d0039b862e7444b3f1c0d499aa601d"
         }
       }
     },
@@ -663,6 +681,12 @@
           "path": "chapitres/tragedies/volume-ccvi-euripide-chrysippe-laios-hospitalite-malediction.md",
           "request_sha256": "11386ad5a76badaefe1048e7b98d197ea379bc5234a7b91561a1b83e4aa62bb2",
           "initial_source_sha256": "695a9ca647dddeeb9bc24f9a3e09e87544009da005b95d3a33b51e284d87945f"
+        },
+        "48340b9b-18eb-4335-b35f-1c6855ab78a8": {
+          "number": 207,
+          "path": "chapitres/tragedies/volume-ccvii-euripide-meleagre-atalante-althee-chasse-calydon.md",
+          "request_sha256": "54a7dacde99cf22429c2f9a0b6ea7bc28b62ff5cbc69e896aac9dc2a13d4541c",
+          "initial_source_sha256": "c0fc5ba71c0e028ab3731660a5bbb1de6b7b225088466ed67befbe4da3113e63"
         }
       }
     },
@@ -857,6 +881,12 @@
           "path": "chapitres/comparatif/volume-clxxii-igor-kopytoff-biographie-culturelle-objets-sacres-singularisation.md",
           "request_sha256": "a42952395c50fcea383b4c3d45967803eb650b4dc5ae43833a2d3f518647e492",
           "initial_source_sha256": "43e19bccad5269c1404a833e36cc6d9cde49d36c39541e02b63ececd4a5496b0"
+        },
+        "c49d107b-7ef2-4306-bb9c-e8d6a2a7e015": {
+          "number": 173,
+          "path": "chapitres/comparatif/volume-clxxiii-tim-ingold-habiter-fabriquer-lignes-materiaux-techniques-ecologie-pratiques.md",
+          "request_sha256": "6ea9a2cb371cb738867f8f6134d26ed77148805616d6082da166804cbd2d0408",
+          "initial_source_sha256": "a7fdfc3e8b36815b41f372d733b1dc667819d4cc3b1537555834dd5289495721"
         }
       }
     }

@@ -1142,6 +1142,12 @@
         "url": "/chapitres/tragedies/volume-ccvi-euripide-chrysippe-laios-hospitalite-malediction/",
         "title": "Volume CCVI (206) — I. UNE ŒUVRE PERDUE AU CŒUR DE DEUX GÉNÉALOGIES",
         "source": "chapitres/tragedies/volume-ccvi-euripide-chrysippe-laios-hospitalite-malediction.md"
+      },
+      {
+        "number": 207,
+        "url": "/chapitres/tragedies/volume-ccvii-euripide-meleagre-atalante-althee-chasse-calydon/",
+        "title": "Volume CCVII (207) — I. Place du dossier dans l'encyclopédie et questions directrices",
+        "source": "chapitres/tragedies/volume-ccvii-euripide-meleagre-atalante-althee-chasse-calydon.md"
       }
     ],
     "comparatif": [
@@ -1852,6 +1858,12 @@
         "url": "/chapitres/comparatif/volume-clxxii-igor-kopytoff-biographie-culturelle-objets-sacres-singularisation/",
         "title": "Volume CLXXII (172) — Résumé scientifique",
         "source": "chapitres/comparatif/volume-clxxii-igor-kopytoff-biographie-culturelle-objets-sacres-singularisation.md"
+      },
+      {
+        "number": 173,
+        "url": "/chapitres/comparatif/volume-clxxiii-tim-ingold-habiter-fabriquer-lignes-materiaux-techniques-ecologie-pratiques/",
+        "title": "Volume CLXXIII (173) — Tim Ingold : habiter, fabriquer, suivre les lignes — Matériaux, techniques et écologie des pratiques dans les mondes anciens",
+        "source": "chapitres/comparatif/volume-clxxiii-tim-ingold-habiter-fabriquer-lignes-materiaux-techniques-ecologie-pratiques.md"
       }
     ],
     "comedies": [
@@ -2226,6 +2238,12 @@
         "url": "/chapitres/comedies/volume-062-pherekrates-agrioi-misanthropie-cite-education-justice/",
         "title": "Volume LXII (62) — Phérécrate, Agrioi (Ἄγριοι, « Les Sauvages ») — Misanthropie, cité et éducation de la justice",
         "source": "chapitres/comedies/volume-062-pherekrates-agrioi-misanthropie-cite-education-justice.md"
+      },
+      {
+        "number": 63,
+        "url": "/chapitres/comedies/volume-063-telekleides-amphiktyones-age-or-politique-abondance/",
+        "title": "Volume LXIII (63) — Téléclidès, Amphiktyones (Ἀμφικτύονες, « Les Amphictyons ») — L'âge d'or, la paix, l'abondance et le pouvoir de la parole comique",
+        "source": "chapitres/comedies/volume-063-telekleides-amphiktyones-age-or-politique-abondance.md"
       }
     ],
     "origines-du-sacre": [
@@ -3164,6 +3182,18 @@
         "url": "/chapitres/origines-du-sacre/606-pretresses-cos-parts-sacrificielles-dionysos/",
         "title": "Chapitre 606 — La part du prêtre : offices achetés, portions sacrificielles et économie de l'autorité à Cos",
         "source": "chapitres/origines-du-sacre/606-pretresses-cos-parts-sacrificielles-dionysos.md"
+      },
+      {
+        "number": 607,
+        "url": "/chapitres/origines-du-sacre/607-delphes-enquete-amphictyonique-deficits-tresor-terres-sanctions/",
+        "title": "Chapitre 607 — Quand le dieu devient créancier : l'enquête amphictyonique de Delphes, les déficits sacrés et la réparation des abus",
+        "source": "chapitres/origines-du-sacre/607-delphes-enquete-amphictyonique-deficits-tresor-terres-sanctions.md"
+      },
+      {
+        "number": 608,
+        "url": "/chapitres/origines-du-sacre/608-ciceron-verrines-images-divines-sicile-plaintes-restitution/",
+        "title": "Chapitre 608 — Qui rendra la déesse ? Les Verrines de Cicéron, l'extorsion provinciale et la restitution des images consacrées",
+        "source": "chapitres/origines-du-sacre/608-ciceron-verrines-images-divines-sicile-plaintes-restitution.md"
       }
     ]
   },
