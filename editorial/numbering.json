@@ -839,6 +839,18 @@
           "path": "chapitres/comparatif/volume-clxx-alfred-gell-art-agency-objet-image-sacree-anthropologie.md",
           "request_sha256": "9ea5bba01922067d87c3acc534751ca23e6ff7ab9254481ff2da1fd3e85797f1",
           "initial_source_sha256": "a4b4dbdf5109e3cbf4dcad13d1d67816ac78cd503813c9287c447740564fd702"
+        },
+        "2cc2d91b-8b2e-4a17-917b-b43defe7acc3": {
+          "number": 171,
+          "path": "chapitres/comparatif/volume-clxxi-david-freedberg-puissance-images-reponses-iconoclasme-images-cultuelles.md",
+          "request_sha256": "482a31212dda98dce2a3fb6d62b3c90072fed8dc593bab2d335a20a8cf1c979c",
+          "initial_source_sha256": "3161e17f6f62279a019ed39035a52c69a2c070f0939f360298f58f4b512df735"
+        },
+        "4f70cc19-246e-48e5-98cd-10a4c4e67b21": {
+          "number": 172,
+          "path": "chapitres/comparatif/volume-clxxii-igor-kopytoff-biographie-culturelle-objets-sacres-singularisation.md",
+          "request_sha256": "a42952395c50fcea383b4c3d45967803eb650b4dc5ae43833a2d3f518647e492",
+          "initial_source_sha256": "43e19bccad5269c1404a833e36cc6d9cde49d36c39541e02b63ececd4a5496b0"
         }
       }
     }
