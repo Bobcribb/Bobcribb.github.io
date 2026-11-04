@@ -1,0 +1,43 @@
+{
+  "edition_date": "2026-11-04",
+  "status": "partial",
+  "target_analysis_pages": 300,
+  "actual_analysis_pages": 76,
+  "actual_total_pdf_pages": 84,
+  "analysis_words": 30402,
+  "format": "A4",
+  "font": "Nimbus Roman",
+  "font_pt": 12,
+  "line_height": 1.5,
+  "margins_mm": 25,
+  "forced_analysis_page_breaks": false,
+  "analysis_excludes": [
+    "cover",
+    "contents",
+    "chapter references",
+    "glossary",
+    "bibliography"
+  ],
+  "sources_sha256": {
+    "00-introduction.md": "303c01260db3ead61bae02a2027af7884e8622751d2acf0dc4acfee1a7f2cd03",
+    "01-chant-i.md": "33290fd97150d6edc4c28b9b19d5223637f4862f5cca8c71277580d391edb39c",
+    "02-chant-ii.md": "50a388c5707bbc39e87083f7cc1338fea86653f260be8f49238ff4ed51d1776a",
+    "03-chant-iii.md": "0def267492bec77684041f18cc19b94b351bfa2bbbca1663abb400ffcab8f060",
+    "04-chant-iv.md": "edc0f5e724c9d7628faf9a67734e505c95e6a156f0ad7ce68179edde3243e424",
+    "05-chant-v.md": "76a87f66ebcd6918b55415b689efdf430bbf095732c0a62af8df2a602ccf13ef",
+    "06-chant-vi.md": "ad1b67d6bca8ad1e140f34feacc91b2bc1f6d3565e9c627772b4ea336a983df9",
+    "07-chant-vii.md": "156caf03615f7e4c10a9baeb9ab77e42ad9234f8c0510d669ed9c2f3a8f21a24",
+    "08-chant-viii.md": "a7b4e53adf0f6d9bd5d0c06500d2ea694bb07e33f69d11f3d2b00dbe10f2e110",
+    "09-chant-ix.md": "49b9c103203e1a65ba00341bee5ef9b2a29c84ca066e74d96ba373bf55904508",
+    "10-chant-x.md": "648683b0bfeaba36cb3fdb7ec8d00960746d9f05b05bb3a9b2c547b10f163d6b",
+    "11-chant-xi.md": "8c11ca9a71a945d88edcfccac657bf801218b007f7a4315f3734a7ade3690d65",
+    "12-chant-xii.md": "57cd32dafe08252b5866a225f5437e36d89535ddb1bfeae6526993dba0e8beac",
+    "13-pietas-destin.md": "ceca1f2e97d45811d43a1febe0a9bfdb06acd1a1e5988ba42265f9d3c848da0b",
+    "14-empire-memoire.md": "78abf8272b29d62a05d0aad055fb0c07c6b986f4764ba565b8e2d9e5904d678e",
+    "15-philosophies-comparaisons.md": "de0b86c3f4d52ab55edbd81fb1eb1ba9beadcb4c92b475b1e34a3fad466c8ceb",
+    "16-poetique-conclusion.md": "08d0c31c52bd2a979d87fc8b2562cfef7a4b7b2e9394de537a299bb13c8caf08",
+    "17-reperes-et-sources.md": "823da8a15aaee59f7616ac07e4ee54a922142edb1587fe49c953b9f57b21d901"
+  },
+  "pdf_sha256": "1f6c1e2bbeebf510d7945e711bc3418452191d2ceb9e617b911d1f58b96a64f1",
+  "duplicate_analysis_paragraphs": 0
+}
