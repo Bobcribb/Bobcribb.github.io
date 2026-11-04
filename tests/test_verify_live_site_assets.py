@@ -181,8 +181,12 @@ class RecentFigurePublicationTests(unittest.TestCase):
         self.assertEqual(sum(src == shared for _, _, src in live.RECENT_FIGURES), 2)
         with patch.object(live, "fetch", side_effect=self.fetch):
             report = live.verify_recent_public_figures("https://example.test", self.root)
-        self.assertEqual(len(report), 31)
+        # The verifier reports one result per HTML page and one per unique
+        # binary asset, not one result for every figure. Cross-page reuse
+        # therefore produces fewer network checks than figure occurrences.
+        self.assertEqual(len(report), len(pages) + len(assets))
         self.assertTrue(all(item["valid"] for item in report))
+        self.assertEqual(sum(item.get("figures_verified", 0) for item in report), 31)
 
     def test_stale_odyssey_figure_and_tampered_jpeg_are_detected(self):
         def stale_fetch(url):
