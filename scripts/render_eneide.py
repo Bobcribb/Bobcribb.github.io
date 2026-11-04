@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Render the partial Eneid study; never equate its target with its actual length.
+"""Render the evolving Eneid study, reporting only actual analytical pages.
 
 Run from any directory with Python, mistune, beautifulsoup4, WeasyPrint 70,
 pypdf, and the Nimbus Roman system font. Sources are preserved as Markdown.
@@ -33,6 +33,8 @@ ul{padding-left:18pt}li{margin-bottom:5pt}
 .cover h1{margin:30pt 0}.cover .status{margin:24pt 0 18pt;padding:14pt;border:1pt solid #a48a60}
 .contents{break-after:page}.contents ul{list-style:none;padding:0}.contents li{margin-bottom:8pt}
 .contents a{text-decoration:none}.contents a::after{content:leader('.') target-counter(attr(href),page)}
+.philo-chapter img{display:block;max-width:92%;max-height:95mm;width:auto;height:auto;object-fit:contain;margin:8pt auto 5pt}
+.philo-chapter p:has(>img){text-align:center;break-inside:avoid}
 '''
 WEB='''
 html{scroll-behavior:smooth}body{margin:0;background:#090d0f;color:#f0e7d8}
@@ -46,6 +48,8 @@ a{color:#ead0a0;text-underline-offset:.2em}main.philo-work{max-width:1050px;marg
 .philo-chapter p,.philo-chapter li{font:18px/1.8 Georgia,serif;color:#e8ddc9;overflow-wrap:anywhere}
 .philo-chapter .reference{font:14px/1.6 Arial,sans-serif;border-top:1px solid #62543f;padding-top:14px;color:#d1bfa4}
 .philo-work .eyebrow{text-align:center;font:12px/1.5 Arial,sans-serif;letter-spacing:.15em;color:#c7a573}
+.philo-chapter img{display:block;max-width:100%;max-height:550px;width:auto;height:auto;object-fit:contain;margin:20px auto 10px;border:1px solid #7b6948;border-radius:3px}
+.philo-chapter p:has(>img)+p{font-size:14px;line-height:1.5;color:#cdb998;text-align:center}
 .philo-edition a{display:inline-block;padding:7px 0}.eneide-foot{padding:25px;text-align:center}
 @media(max-width:680px){.philo-toc ol{columns:1}.philo-chapter{padding:20px 16px}.philo-chapter p,.philo-chapter li{font-size:17px}.philo-chapter h2{font-size:27px}}
 '''
@@ -61,9 +65,11 @@ def build():
             if p.get_text().startswith(('Références','Référence')):p['class']='reference'
         fragment=str(soup);sections.append(f'<section class="philo-chapter">{fragment}</section>')
         chapters.append((f'eneide-{index:02}',title))
-        if index<17:
+        if path.name!='17-reperes-et-sources.md':
             clean=BeautifulSoup(fragment,'html.parser')
             for p in clean.select('.reference'):p.decompose()
+            for im in clean.select('img'):im.decompose()
+            for fig in clean.select('figure,figcaption'):fig.decompose()
             for p in clean.find_all('p'):
                 txt=p.get_text(' ',strip=True);words+=len(txt.split());paras.append(txt)
             analysis.append(str(clean))
@@ -71,8 +77,10 @@ def build():
     if duplicates:raise ValueError(('Duplicate analytical paragraphs',duplicates))
     analysis_doc=HTML(string='<html lang="fr"><body>'+''.join(analysis)+'</body></html>').render(stylesheets=[CSS(string=PRINT)])
     n_analysis=len(analysis_doc.pages)
-    notice=f'Première livraison : {n_analysis} pages A4 d’analyse dans le contrôle séparé, pour un objectif de 300 pages. Le volume demandé n’est pas encore achevé.'
-    method='Format A4, marges de 25 mm, Nimbus Roman 12 points, interligne 1,5. Analyse en flux continu, sans saut imposé entre chapitres. Le contrôle exclut la couverture, le sommaire, les références de fin de chapitre, le lexique et la bibliographie.'
+    target=300
+    status='complete' if n_analysis>=target else 'partial'
+    notice=(f'Analyse achevée : {n_analysis} pages A4 effectives hors images et annexes, objectif de {target} pages atteint.' if status=='complete' else f'Livraison augmentée : {n_analysis} pages A4 effectives d’analyse hors images et annexes sur un objectif de {target} pages. Le travail reste à poursuivre.')
+    method='Format A4, marges de 25 mm, Nimbus Roman 12 points, interligne 1,5. Analyse en flux continu, sans saut imposé entre chapitres. Le contrôle textuel exclut la couverture, le sommaire, les références de fin de chapitre, le lexique, la bibliographie et les illustrations.'
     links=''.join(f'<li><a href="#{key}">{html.escape(t)}</a></li>' for key,t in chapters)
     contents='<nav class="contents"><h2>Sommaire</h2><ul>'+links+'</ul></nav>'
     cover=f'<section class="cover"><p class="label">MYTHOS · ÉTUDES PHILOSOPHIQUES</p><h1>L’Énéide<br>de Virgile</h1><p style="font-size:17pt">Fonder un monde après la catastrophe</p><p>Lecture des douze chants, éthique, politique et poétique</p><div class="status"><p>{notice}</p><p>{str(words//1000)+' '+str(words%1000).zfill(3)} mots d’analyse, hors titres et références.</p></div><p>Édition du 4 novembre 2026</p><p style="font-size:10pt">{method}</p></section>'
@@ -80,15 +88,15 @@ def build():
     PDF.parent.mkdir(parents=True,exist_ok=True)
     HTML(string=full).write_pdf(PDF,stylesheets=[CSS(string=PRINT)])
     reader=PdfReader(PDF);n_full=len(reader.pages)
-    report={'edition_date':'2026-11-04','status':'partial','target_analysis_pages':300,'actual_analysis_pages':n_analysis,'actual_total_pdf_pages':n_full,'analysis_words':words,'format':'A4','font':'Nimbus Roman','font_pt':12,'line_height':1.5,'margins_mm':25,'forced_analysis_page_breaks':False,'analysis_excludes':['cover','contents','chapter references','glossary','bibliography'],'sources_sha256':hashes,'pdf_sha256':hashlib.sha256(PDF.read_bytes()).hexdigest(),'duplicate_analysis_paragraphs':len(duplicates)}
+    report={'edition_date':'2026-11-04','status':status,'target_analysis_pages':target,'actual_analysis_pages':n_analysis,'actual_total_pdf_pages':n_full,'analysis_words':words,'format':'A4','font':'Nimbus Roman','font_pt':12,'line_height':1.5,'margins_mm':25,'forced_analysis_page_breaks':False,'analysis_excludes':['cover','contents','chapter references','glossary','bibliography','illustrations'],'sources_sha256':hashes,'pdf_sha256':hashlib.sha256(PDF.read_bytes()).hexdigest(),'duplicate_analysis_paragraphs':len(duplicates)}
     REPORT.parent.mkdir(parents=True,exist_ok=True);REPORT.write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n')
-    intro=f'<div class="philo-edition"><p><strong>{notice}</strong></p><p>PDF : {n_full} pages au total. Analyse suivie des douze chants ; piété, destin, responsabilité, Empire, mémoire et comparaisons philosophiques.</p><p><a href="/assets/philosophie/pdf/eneide-etude-a4.pdf">Télécharger le PDF A4 — {n_full} pages</a></p><details><summary>Pagination et sources</summary><p>{method}</p><p><a href="/assets/philosophie/eneide-pagination.json">Consulter le contrôle de pagination</a></p></details></div>'
-    web=f'''<!DOCTYPE html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{TITLE} — MYTHOS</title><meta name="description" content="Analyse de l’Énéide : les douze chants, Didon, le destin, la piété, l’Empire et la mort de Turnus. Première livraison du projet de 300 pages, avec PDF et sources."><link rel="canonical" href="https://bobmythos.fr/philosophie-eneide.html"><link rel="stylesheet" href="/assets/mythos-reference.css"><link rel="stylesheet" href="/assets/mythos-museum.css"><link rel="stylesheet" href="/assets/philosophie-edition.css"><style>{WEB}</style></head><body class="mythos-design"><a href="#contenu" class="mythos-skip">Aller au contenu</a><header class="eneide-nav"><a href="/">MYTHOS</a><a href="/philosophie/">Philosophie</a><a href="/recherche/">Recherche</a></header><main id="contenu" class="philo-work"><p class="eyebrow">VIRGILE · ÉPOPÉE ROMAINE · ANALYSE PHILOSOPHIQUE</p><h1>L’Énéide de Virgile</h1>{intro}<nav class="philo-toc" aria-label="Sommaire de l’étude"><h2>Sommaire</h2><ol>{links}</ol></nav>{''.join(sections)}<p><a href="/philosophie/">Retour aux études philosophiques</a></p></main><footer class="eneide-foot">MYTHOS · 4 novembre 2026 · Première livraison</footer></body></html>'''
+    intro=f'<div class="philo-edition"><p><strong>{notice}</strong></p><p>PDF : {n_full} pages au total. Analyse suivie des douze chants, approfondissements philologiques, iconographie sourcée et réception du poème.</p><p><a href="/assets/philosophie/pdf/eneide-etude-a4.pdf">Télécharger le PDF A4 — {n_full} pages</a></p><details><summary>Pagination et sources</summary><p>{method}</p><p><a href="/assets/philosophie/eneide-pagination.json">Consulter le contrôle de pagination</a></p></details></div>'
+    web=f'''<!DOCTYPE html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{TITLE} — MYTHOS</title><meta name="description" content="Analyse de l’Énéide : les douze chants, Didon, le destin, la piété, l’Empire et la mort de Turnus. Première livraison du projet de 300 pages, avec PDF et sources."><link rel="canonical" href="https://bobmythos.fr/philosophie-eneide.html"><link rel="stylesheet" href="/assets/mythos-reference.css"><link rel="stylesheet" href="/assets/mythos-museum.css"><link rel="stylesheet" href="/assets/philosophie-edition.css"><style>{WEB}</style></head><body class="mythos-design"><a href="#contenu" class="mythos-skip">Aller au contenu</a><header class="eneide-nav"><a href="/">MYTHOS</a><a href="/philosophie/">Philosophie</a><a href="/recherche/">Recherche</a></header><main id="contenu" class="philo-work"><p class="eyebrow">VIRGILE · ÉPOPÉE ROMAINE · ANALYSE PHILOSOPHIQUE</p><h1>L’Énéide de Virgile</h1>{intro}<nav class="philo-toc" aria-label="Sommaire de l’étude"><h2>Sommaire</h2><ol>{links}</ol></nav>{''.join(sections)}<p><a href="/philosophie/">Retour aux études philosophiques</a></p></main><footer class="eneide-foot">MYTHOS · 4 novembre 2026 · Édition augmentée</footer></body></html>'''
     page=ROOT/'philosophie-eneide.html';page.write_text(web)
     doc=BeautifulSoup(web,'html.parser');ids=[x['id'] for x in doc.select('[id]')]
     assert len(ids)==len(set(ids))
     assert all(a['href'][1:] in ids for a in doc.select('a[href^="#"]'))
-    assert words>30000 and n_analysis<300
+    assert words>30000 and n_analysis>0
     assert len(reader.pages)>n_analysis
     print(json.dumps({k:v for k,v in report.items() if k!='sources_sha256'},ensure_ascii=False))
 
