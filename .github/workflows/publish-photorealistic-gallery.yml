@@ -1,11 +1,8 @@
 name: Publier les reconstitutions 3D sur bobmythos.fr
 
+# Le workflow principal publish.yml traite déjà chaque changement des assets/ et des pages HTML.
+# Ce workflow reste disponible en secours manuel, sans déclencher un second déploiement concurrent.
 on:
-  push:
-    branches: [main]
-    paths:
-      - 'assets/reconstitutions-3d/**'
-      - 'reconstitutions-photorealistes.html'
   workflow_dispatch:
 
 permissions:

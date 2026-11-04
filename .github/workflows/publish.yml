@@ -9,6 +9,8 @@ on:
       - 'scripts/improve_reading.py'
       - 'scripts/build_reading_pdfs.py'
       - 'scripts/verify_live_site.py'
+      - 'scripts/verify_photoreal_gallery.py'
+      - 'tests/test_photoreal_gallery.py'
       - 'scripts/editorial_illustrations.py'
       - 'scripts/editorial_media.json'
       - 'scripts/editorial_numbering.py'
@@ -89,6 +91,15 @@ jobs:
       - name: Publier MYTHOS sans WordPress
         id: deployment
         uses: actions/deploy-pages@v4
+      - name: Contrôler les images WebP réellement servies sur le domaine public
+        run: python scripts/verify_photoreal_gallery.py --output /tmp/mythos-images-verification.json
+      - name: Archiver les preuves de vérification des reconstitutions
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: mythos-images-verification
+          path: /tmp/mythos-images-verification.json
+          if-no-files-found: warn
       - name: Contrôler le catalogue et les pages réellement publiées
         run: python scripts/verify_live_site.py --output /tmp/mythos-live-verification.json
       - name: Conserver le contrôle du site public
