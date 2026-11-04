@@ -483,6 +483,12 @@
           "path": "chapitres/origines-du-sacre/652-eanna-uruk-parts-sacrificielles-prebendes-viande-rations.md",
           "request_sha256": "9159d01b65f96ec7bb52b4764e721dbdacea4bd9b78a52519e663893b629f24c",
           "initial_source_sha256": "a1f94b414f1c6f411e872dc8bb796b05712bc49abb0b6cbce9c7b78248614ddb"
+        },
+        "481cf753-3e62-473e-98d7-59f0e6cb6124": {
+          "number": 653,
+          "path": "chapitres/origines-du-sacre/653-takultu-assur-banquets-dieux-sel-viande-calendriers.md",
+          "request_sha256": "21a08899e19d5247a47a51210880c931690e3da5c85da74b84f63cef24d9a789",
+          "initial_source_sha256": "69d738ee68c6ba8cae17e6d8d69299a9105e6a5baeb880675148ce66bb82893d"
         }
       }
     },
@@ -940,6 +946,12 @@
           "path": "chapitres/encyclopedie/chapitre-423-apollon-agyieus-seuil-rue-tegee-argos-ambracie-tragedie.md",
           "request_sha256": "b64d08ccdbdca3f0aed150fbb256c99073fc87427b218e8849657c23ae24cf02",
           "initial_source_sha256": "8d5807d0535dac807bc068d350c62a36d55719a18a6298aab8e798d3b9b16e06"
+        },
+        "7e2af131-0c56-4bd7-98ea-7a540c5bcf12": {
+          "number": 424,
+          "path": "chapitres/encyclopedie/chapitre-424-dionysos-aisymnetes-patras-eurypyle-triklaria-fete-rites.md",
+          "request_sha256": "c718ee20ff25f45db6b18401a5eae986460c7d0805178f66fe35ffd13fcee4b7",
+          "initial_source_sha256": "e4c7be45e7556a985c7071e23ce82cf8be7761e22ff4c28ec861de9828dffff1"
         }
       }
     },
