@@ -111,7 +111,11 @@ def install(root: Path, output: Path, slugs=SLUGS):
         ).a
         grid.append(card)
         break
-    theatre.write_text(str(doc), encoding='utf-8')
+    rendered = str(doc)
+    # BeautifulSoup peut ajouter un saut de ligne au DOCTYPE à chaque passe.
+    # Normaliser seulement cet espace de tête garantit l'idempotence des builds.
+    rendered = re.sub(r'(?is)^(\s*<!doctype html>)\s*', r'\1\n', rendered)
+    theatre.write_text(rendered, encoding='utf-8')
     return len(records)
 
 
