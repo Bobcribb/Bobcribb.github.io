@@ -5,30 +5,38 @@
   "branch": "main",
   "latest_session": {
     "date": "2026-11-04",
-    "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "previous_kind": "AUDIT ET CORRECTION",
-    "next_kind": "AUDIT ET CORRECTION",
-    "scope": "Ajout d’une photographie de la statuette de Nikè (Met 07.286.23) au livre Hésiode, partie Titanides/Styx ; dix images documentées dans le troisième livre grec.",
-    "basis_commit": "74ec4f5c4b5b4af9d503178082cf652e5d2c54c7",
-    "modified_pages": [
-      "livre-hesiode/index.html"
-    ],
-    "added_figure_count": 1,
-    "added_figure_id": "icono-hesiode-styx-nike-met-247903-20261104",
-    "reused_asset": "/assets/illustrations-articles/met-247903-nike-terre-cuite.webp",
-    "new_binary_assets": 0,
-    "source": "Metropolitan Museum of Art 247903, objet fin Ve siècle av. J.-C., Open Access CC0 ; Hésiode Théogonie 383–403 ; figure authentique non IA, distincte du récit décrit.",
-    "precommit_checks": "Six pages monographiques auditées sur main : 495 identifiants, 427 ancres internes, 102 images, 144 ressources CSS/JS/images, zéro ressource manquante, zéro ancre cassée, zéro identifiant dupliqué, zéro image sans alt. Le livre d’Hésiode comptait neuf images.",
-    "postedit_checks": "Livre Hésiode : dix images, nouveau lien vers l’image déjà présente dans les actifs, légende, datation et provenance ; aucun autre texte scientifique modifié. Test de non-régression spécifique ajouté.",
-    "philosophy_analysis_pages": {
-      "iliade": 107,
-      "odyssee": 101,
-      "theogonie": 103
+    "kind": "AUDIT ET CORRECTION",
+    "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "scope": "Audit de publication du volume XCI des comédies et correction d'un renvoi 404 confirmé en source et sur HTTPS ; test de non-régression.",
+    "basis_commit": "e72aaf9aa397acf0751cfcb72d77536b3dbf84b6",
+    "ci_audit": {
+      "run_id": 41883276120,
+      "conclusion": "success",
+      "html_files": 1415,
+      "local_links_checked": 120576,
+      "fragment_links_checked": 34948,
+      "hard_errors": 0,
+      "warnings": 1
     },
-    "tests": "Contrôles statiques de syntaxe, unicité des identifiants et des images avant création du commit ; test unitaire à exécuter en CI.",
-    "deployment": "Commit GitHub distinct de la publication publique : contrôler Actions et reçu sur bobmythos.fr ; HTTPS non confirmé.",
-    "numbering": "AGENTS.md et docs/PUBLICATION_CONCURRENTE.md consultés. Aucun nouveau chapitre numéroté, aucun registre, aucun fichier inbox ni horaire modifié.",
-    "commits": []
+    "verified_anomaly": {
+      "source": "chapitres/comedies/volume-091-nikochares-galateia-polypheme-dithyrambe-philonides-cumin-nereides/index.html",
+      "bad_href": "/comedies-grecques/",
+      "public_status": 404,
+      "target_href": "/comedies-grecques-aristophane-menandre/",
+      "target_status": 200
+    },
+    "updated_sources": [
+      "chapitres/comedies/volume-091-nikochares-galateia-polypheme-dithyrambe-philonides-cumin-nereides.md",
+      "chapitres/comedies/volume-091-nikochares-galateia-polypheme-dithyrambe-philonides-cumin-nereides/index.html",
+      "tests/test_comedies_volume091_navigation.py"
+    ],
+    "preservation": "Un seul chemin de lien remplacé dans les deux copies de l'étude n° 91. Aucun paragraphe scientifique, numéro, autre lien, image, CSS/JS, menu, inbox, registre ni horaire modifié.",
+    "public_before_commit": "Le livre Hésiode montre 10 images dont Nikè sur HTTPS ; manifeste public source_commit=4b4cc6c3874398cd6c8b7e638e493cc8707381fb, antérieur à main. Publication du correctif non encore confirmée.",
+    "validation": "Test GitHub Actions à exécuter après commit ; une unique occurrence corrigée dans le manuscrit et HTML. Vérifier le déploiement et l'absence de 404 avant toute déclaration de publication.",
+    "limitations": "Audit global appuyé sur la CI précédente ; pas de rendu graphique mobile manuel, revue scientifique exhaustive ni revalidation intégrale de la CI à cet instant.",
+    "commits": [],
+    "commit_note": "Le SHA exact du commit atomique est à relever dans GitHub après écriture ; le journal ne revendique aucun déploiement."
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
   "history": [
@@ -1530,6 +1538,41 @@
       "deployment": "Commit GitHub distinct de la publication publique : contrôler Actions et reçu sur bobmythos.fr ; HTTPS non confirmé.",
       "numbering": "AGENTS.md et docs/PUBLICATION_CONCURRENTE.md consultés. Aucun nouveau chapitre numéroté, aucun registre, aucun fichier inbox ni horaire modifié.",
       "commits": []
+    },
+    {
+      "date": "2026-11-04",
+      "kind": "AUDIT ET CORRECTION",
+      "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "scope": "Audit de publication du volume XCI des comédies et correction d'un renvoi 404 confirmé en source et sur HTTPS ; test de non-régression.",
+      "basis_commit": "e72aaf9aa397acf0751cfcb72d77536b3dbf84b6",
+      "ci_audit": {
+        "run_id": 41883276120,
+        "conclusion": "success",
+        "html_files": 1415,
+        "local_links_checked": 120576,
+        "fragment_links_checked": 34948,
+        "hard_errors": 0,
+        "warnings": 1
+      },
+      "verified_anomaly": {
+        "source": "chapitres/comedies/volume-091-nikochares-galateia-polypheme-dithyrambe-philonides-cumin-nereides/index.html",
+        "bad_href": "/comedies-grecques/",
+        "public_status": 404,
+        "target_href": "/comedies-grecques-aristophane-menandre/",
+        "target_status": 200
+      },
+      "updated_sources": [
+        "chapitres/comedies/volume-091-nikochares-galateia-polypheme-dithyrambe-philonides-cumin-nereides.md",
+        "chapitres/comedies/volume-091-nikochares-galateia-polypheme-dithyrambe-philonides-cumin-nereides/index.html",
+        "tests/test_comedies_volume091_navigation.py"
+      ],
+      "preservation": "Un seul chemin de lien remplacé dans les deux copies de l'étude n° 91. Aucun paragraphe scientifique, numéro, autre lien, image, CSS/JS, menu, inbox, registre ni horaire modifié.",
+      "public_before_commit": "Le livre Hésiode montre 10 images dont Nikè sur HTTPS ; manifeste public source_commit=4b4cc6c3874398cd6c8b7e638e493cc8707381fb, antérieur à main. Publication du correctif non encore confirmée.",
+      "validation": "Test GitHub Actions à exécuter après commit ; une unique occurrence corrigée dans le manuscrit et HTML. Vérifier le déploiement et l'absence de 404 avant toute déclaration de publication.",
+      "limitations": "Audit global appuyé sur la CI précédente ; pas de rendu graphique mobile manuel, revue scientifique exhaustive ni revalidation intégrale de la CI à cet instant.",
+      "commits": [],
+      "commit_note": "Le SHA exact du commit atomique est à relever dans GitHub après écriture ; le journal ne revendique aucun déploiement."
     }
   ]
 }
