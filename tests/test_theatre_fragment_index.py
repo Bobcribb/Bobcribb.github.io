@@ -82,6 +82,14 @@ class TheatreFragmentIndexTests(unittest.TestCase):
             with self.assertRaisesRegex(RuntimeError, 'incomplète'):
                 verified_editions(root, output, slugs=('polyidos',))
 
+    def test_missing_whole_declared_archive_stops_publication(self):
+        with TemporaryDirectory() as temporary:
+            root, output, _, source, critical, modern = self.fixture(temporary)
+            for file in (source, critical, modern):
+                file.unlink()
+            with self.assertRaisesRegex(RuntimeError, 'introuvable'):
+                verified_editions(root, output, slugs=('polyidos',))
+
     def test_short_source_stops_publication(self):
         with TemporaryDirectory() as temporary:
             root, output, _, source, *_rest = self.fixture(temporary)
