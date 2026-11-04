@@ -38,9 +38,9 @@ La colère d'Iarbas articule le scandale de l'hospitalité à une question de pr
 
 La différence entre *fama* comme réputation durable et *Fama* comme rumeur personnifiée prend dès lors toute son importance. Didon avait acquis un renom par sa constance et la fondation de la ville. Ce renom devient vulnérable à une nouvelle histoire qui se raconte sans elle. Elle ne perd pas uniquement une image sociale : elle voit se fragiliser un capital de légitimité auquel son autorité politique était liée. L'interprétation philosophique de la scène devrait donc mobiliser les conditions de la parole publique plutôt qu'une condamnation abstraite de la passion féminine.
 
-![Départ d'Énée de Carthage, émail de Limoges vers 1530-1535](https://images.metmuseum.org/CRDImages/es/original/DT284851.jpg)
+![Départ d'Énée de Carthage, émail de Limoges vers 1530-1535](assets/philosophie/eneide/didon-carthage-met.jpg)
 
-*Figure 1 — Maître de l’Énéide, Le départ d’Énée de Carthage, émail peint sur cuivre, Limoges, vers 1530–1535. Metropolitan Museum of Art, New York, objet 195297, domaine public / CC0. [Notice et provenance](https://www.metmuseum.org/art/collection/search/195297). L'image représente une réception renaissante du chant IV, et non une source visuelle sur Carthage à l'âge du Bronze.*
+*Figure 1 — Maître de l’Énéide, Le départ d’Énée de Carthage, émail peint sur cuivre, Limoges, vers 1530–1535. Metropolitan Museum of Art, New York, objet 25.39.4, domaine public / CC0. [Notice et provenance](https://www.metmuseum.org/art/collection/search/195297). L'image représente une réception renaissante du chant IV, et non une source visuelle sur Carthage à l'âge du Bronze.*
 
 ## IV, 219–295 : Mercure, la filiation et la valeur de l'avenir
 
