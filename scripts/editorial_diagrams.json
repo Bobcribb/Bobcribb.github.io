@@ -1,0 +1,301 @@
+{
+  "version": 1,
+  "policy": "Sélection de schémas 2D contemporains déjà conservés dans le dépôt et de trois nouveaux schémas. Aucune vue perspective 2,5D, aucun SVG décoratif patrimonial. Sous-sujets nommés uniquement et légendes source par source.",
+  "media": [
+    {
+      "id": "mythos-diagramme-aphrodite-deux-genealogies",
+      "path": "assets/iconographie/aphrodite-deux-genealogies.svg",
+      "subjects": [
+        "Aphrodite",
+        "généalogies d Aphrodite"
+      ],
+      "alt": "Deux traditions poétiques de la naissance d’Aphrodite, distinguant Hésiode et Homère.",
+      "caption_html": "<strong>Schéma pédagogique original MYTHOS, en deux dimensions, non document antique.</strong> Hésiode, Théogonie ; Homère, Iliade V Références : https://www.theoi.com/Text/HesiodTheogony.html. <a href=\"undefined\">Consulter la source ou l’édition</a>. Le dessin n’est pas une photographie ni une reconstitution archéologique.",
+      "width": 1200,
+      "height": 600
+    },
+    {
+      "id": "mythos-diagramme-argonautes-parcours-schematiques",
+      "path": "assets/iconographie/argonautes-parcours-schematiques.svg",
+      "subjects": [
+        "Argonautes",
+        "Argonautiques",
+        "Toison d or"
+      ],
+      "alt": "Étapes narratives du voyage des Argonautes, sans prétention de cartographie archéologique.",
+      "caption_html": "<strong>Schéma pédagogique original MYTHOS, en deux dimensions, non document antique.</strong> Apollonios de Rhodes, Argonautiques Références : https://www.theoi.com/Text/ApolloniusRhodius1.html. <a href=\"undefined\">Consulter la source ou l’édition</a>. Le dessin n’est pas une photographie ni une reconstitution archéologique.",
+      "width": 1200,
+      "height": 600
+    },
+    {
+      "id": "mythos-diagramme-heracles-douze-travaux",
+      "path": "assets/iconographie/heracles-douze-travaux.svg",
+      "subjects": [
+        "Héraclès",
+        "douze travaux"
+      ],
+      "alt": "Les douze travaux d’Héraclès dans une tradition mythographique, non une chronologie historique.",
+      "caption_html": "<strong>Schéma pédagogique original MYTHOS, en deux dimensions, non document antique.</strong> Pseudo-Apollodore, Bibliothèque II Références : https://www.theoi.com/Text/Apollodorus2.html. <a href=\"undefined\">Consulter la source ou l’édition</a>. Le dessin n’est pas une photographie ni une reconstitution archéologique.",
+      "width": 1200,
+      "height": 600
+    },
+    {
+      "id": "mythos-diagramme-hesiode-cinq-generations",
+      "path": "assets/iconographie/hesiode-cinq-generations.svg",
+      "subjects": [
+        "cinq âges de l humanité",
+        "cinq générations humaines",
+        "Travaux et les Jours"
+      ],
+      "alt": "Les cinq générations humaines du récit d’Hésiode, avec les références aux vers.",
+      "caption_html": "<strong>Schéma pédagogique original MYTHOS, en deux dimensions, non document antique.</strong> Hésiode, Les Travaux et les Jours Références : https://www.theoi.com/Text/HesiodWorksDays.html. <a href=\"undefined\">Consulter la source ou l’édition</a>. Le dessin n’est pas une photographie ni une reconstitution archéologique.",
+      "width": 1200,
+      "height": 600
+    },
+    {
+      "id": "mythos-diagramme-odyssee-architecture-chants",
+      "path": "assets/iconographie/odyssee-architecture-chants.svg",
+      "subjects": [
+        "Odyssée"
+      ],
+      "alt": "Architecture narrative de l’Odyssée en vingt-quatre chants, distinguant récit et retours en arrière.",
+      "caption_html": "<strong>Schéma pédagogique original MYTHOS, en deux dimensions, non document antique.</strong> Commentaire universitaire de l’Odyssée Références : https://bmcr.brynmawr.edu/2019/2019.10.05/. <a href=\"undefined\">Consulter la source ou l’édition</a>. Le dessin n’est pas une photographie ni une reconstitution archéologique.",
+      "width": 1200,
+      "height": 600
+    },
+    {
+      "id": "mythos-diagramme-zeus-trois-epicleses-20261103",
+      "path": "assets/iconographie/zeus-trois-epicleses-20261103.svg",
+      "subjects": [
+        "Zeus",
+        "épiclèses de Zeus"
+      ],
+      "alt": "Trois épiclèses de Zeus et leurs contextes différents, sans réduire les cultes à une fonction unique.",
+      "caption_html": "<strong>Schéma pédagogique original MYTHOS, en deux dimensions, non document antique.</strong> Traditions grecques et témoignages antiques Références : https://www.theoi.com/Olympios/Zeus.html. <a href=\"undefined\">Consulter la source ou l’édition</a>. Le dessin n’est pas une photographie ni une reconstitution archéologique.",
+      "width": 1200,
+      "height": 600
+    },
+    {
+      "id": "mythos-diagramme-thebes-cycles-mythiques",
+      "path": "assets/iconographie/thebes-cycles-mythiques.svg",
+      "subjects": [
+        "cycle thébain",
+        "Thèbes Béotie",
+        "Cadmos"
+      ],
+      "alt": "Les principaux cycles narratifs de la Thèbes grecque, des traditions de Cadmos à Antigone.",
+      "caption_html": "<strong>Schéma pédagogique original MYTHOS, en deux dimensions, non document antique.</strong> Sources tragiques grecques Références : https://www.theoi.com/Text/AeschylusSeven.html. <a href=\"undefined\">Consulter la source ou l’édition</a>. Le dessin n’est pas une photographie ni une reconstitution archéologique.",
+      "width": 1200,
+      "height": 600
+    },
+    {
+      "id": "mythos-diagramme-troie-trois-registres",
+      "path": "assets/iconographie/troie-trois-registres.svg",
+      "subjects": [
+        "Troie",
+        "Hisarlik",
+        "cycle troyen"
+      ],
+      "alt": "Les trois registres à distinguer pour Troie : épopée, cycle épique et stratigraphie archéologique.",
+      "caption_html": "<strong>Schéma pédagogique original MYTHOS, en deux dimensions, non document antique.</strong> UNESCO, site archéologique de Troie Références : https://whc.unesco.org/en/list/849/. <a href=\"undefined\">Consulter la source ou l’édition</a>. Le dessin n’est pas une photographie ni une reconstitution archéologique.",
+      "width": 1200,
+      "height": 600
+    },
+    {
+      "id": "mythos-diagramme-origines-feu-contextes-grecs",
+      "path": "assets/iconographie/origines-feu-contextes-grecs.svg",
+      "subjects": [
+        "feu sacré",
+        "Hestia",
+        "Prométhée"
+      ],
+      "alt": "Foyer, sacrifice et récit prométhéen, trois contextes grecs du feu qui ne sont pas interchangeables.",
+      "caption_html": "<strong>Schéma pédagogique original MYTHOS, en deux dimensions, non document antique.</strong> Hésiode, Théogonie, récit de Prométhée Références : https://www.theoi.com/Text/HesiodTheogony.html. <a href=\"undefined\">Consulter la source ou l’édition</a>. Le dessin n’est pas une photographie ni une reconstitution archéologique.",
+      "width": 1200,
+      "height": 600
+    },
+    {
+      "id": "mythos-diagramme-origines-voix-rituelles",
+      "path": "assets/iconographie/origines-voix-rituelles.svg",
+      "subjects": [
+        "parole rituelle",
+        "voix rituelle",
+        "chants rituels"
+      ],
+      "alt": "Parole, performance et effets sociaux des pratiques vocales rituelles.",
+      "caption_html": "<strong>Schéma pédagogique original MYTHOS, en deux dimensions, non document antique.</strong> Textes et hymnes de traditions antiques Références : https://www.theoi.com/Text/. <a href=\"undefined\">Consulter la source ou l’édition</a>. Le dessin n’est pas une photographie ni une reconstitution archéologique.",
+      "width": 1200,
+      "height": 600
+    },
+    {
+      "id": "mythos-diagramme-ods-xxix-arbres-comparer",
+      "path": "assets/iconographie/ods-xxix-arbres-comparer.svg",
+      "subjects": [
+        "arbres sacrés",
+        "arbre sacré",
+        "chêne oraculaire"
+      ],
+      "alt": "Comparaison critique de l’arbre sacré en Grèce et en Inde, sans postuler une origine commune.",
+      "caption_html": "<strong>Schéma pédagogique original MYTHOS, en deux dimensions, non document antique.</strong> Hérodote II, 55–57 ; Bhagavad-Gītā XV Références : https://www.perseus.tufts.edu/. <a href=\"undefined\">Consulter la source ou l’édition</a>. Le dessin n’est pas une photographie ni une reconstitution archéologique.",
+      "width": 1200,
+      "height": 600
+    },
+    {
+      "id": "mythos-diagramme-ods-xxviii-montagne-grotte-caverne",
+      "path": "assets/iconographie/ods-xxviii-montagne-grotte-caverne.svg",
+      "subjects": [
+        "montagnes et grottes",
+        "lieux de la profondeur sacrée",
+        "montagne grotte caverne"
+      ],
+      "alt": "Montagne, grotte et caverne distinguées selon le statut de leurs sources.",
+      "caption_html": "<strong>Schéma pédagogique original MYTHOS, en deux dimensions, non document antique.</strong> Exode 19 ; Platon, République VII Références : https://www.perseus.tufts.edu/. <a href=\"undefined\">Consulter la source ou l’édition</a>. Le dessin n’est pas une photographie ni une reconstitution archéologique.",
+      "width": 1200,
+      "height": 600
+    },
+    {
+      "id": "mythos-diagramme-ods-xxx-pierres-sacre-contextes",
+      "path": "assets/iconographie/ods-xxx-pierres-sacre-contextes.svg",
+      "subjects": [
+        "pierres sacrées",
+        "pierre sacrée",
+        "omphalos",
+        "kudurrus"
+      ],
+      "alt": "Omphalos et kudurrus replacés dans leurs contextes historiques.",
+      "caption_html": "<strong>Schéma pédagogique original MYTHOS, en deux dimensions, non document antique.</strong> Pausanias X, 16, 3 ; inscriptions mésopotamiennes Références : https://www.perseus.tufts.edu/. <a href=\"undefined\">Consulter la source ou l’édition</a>. Le dessin n’est pas une photographie ni une reconstitution archéologique.",
+      "width": 1200,
+      "height": 600
+    },
+    {
+      "id": "mythos-diagramme-ods-xxxi-statue-rituel-image",
+      "path": "assets/iconographie/ods-xxxi-statue-rituel-image.svg",
+      "subjects": [
+        "images divines",
+        "statues de culte",
+        "statue cultuelle",
+        "image cultuelle"
+      ],
+      "alt": "Relations entre fabrication, rituel et entretien des images divines dans différentes traditions.",
+      "caption_html": "<strong>Schéma pédagogique original MYTHOS, en deux dimensions, non document antique.</strong> Walker et Dick, The Induction of the Cult Image Références : https://www.britishmuseum.org/collection. <a href=\"undefined\">Consulter la source ou l’édition</a>. Le dessin n’est pas une photographie ni une reconstitution archéologique.",
+      "width": 1200,
+      "height": 600
+    },
+    {
+      "id": "mythos-diagramme-origines-xxxii-mediation-sources",
+      "path": "assets/iconographie/origines-xxxii-mediation-sources.svg",
+      "subjects": [
+        "médiation rituelle",
+        "médiations du sacré",
+        "parole et présence divine"
+      ],
+      "alt": "Sources grecques, mésopotamiennes et égyptiennes de la médiation religieuse, sans équivalence artificielle.",
+      "caption_html": "<strong>Schéma pédagogique original MYTHOS, en deux dimensions, non document antique.</strong> Euripide, Bacchantes ; archives de Mari Références : https://www.theoi.com/Text/EuripidesBacchae.html. <a href=\"undefined\">Consulter la source ou l’édition</a>. Le dessin n’est pas une photographie ni une reconstitution archéologique.",
+      "width": 1200,
+      "height": 600
+    },
+    {
+      "id": "mythos-diagramme-theatre-grec-plan-typologique",
+      "path": "assets/iconographie/theatre-grec-plan-typologique.svg",
+      "subjects": [
+        "théâtre grec",
+        "architecture du théâtre",
+        "théatron",
+        "orchestra"
+      ],
+      "alt": "Plan typologique du théâtre grec présentant orchestra, skènè, accès latéraux et gradins, non relevé d’un édifice particulier.",
+      "caption_html": "<strong>Schéma pédagogique original MYTHOS, en deux dimensions, non document antique.</strong> Typologie des théâtres de la Grèce antique Références : https://www.britannica.com/art/theater-building. <a href=\"undefined\">Consulter la source ou l’édition</a>. Le dessin n’est pas une photographie ni une reconstitution archéologique.",
+      "width": 1200,
+      "height": 600
+    },
+    {
+      "id": "mythos-diagramme-mythologie-comparee-preuve",
+      "path": "assets/iconographie/mythologie-comparee-preuve.svg",
+      "subjects": [
+        "méthode comparative des mythes",
+        "comparaison des mythes",
+        "méthodologie comparatiste"
+      ],
+      "alt": "Différence méthodologique entre analogie de motifs, transmission historique et hypothèse.",
+      "caption_html": "<strong>Schéma pédagogique original MYTHOS, en deux dimensions, non document antique.</strong> Méthode comparatiste, cadre critique Références : https://www.britannica.com/topic/comparative-mythology. <a href=\"undefined\">Consulter la source ou l’édition</a>. Le dessin n’est pas une photographie ni une reconstitution archéologique.",
+      "width": 1200,
+      "height": 600
+    },
+    {
+      "id": "mythos-diagramme-behistun-trois-langues-20261103",
+      "path": "assets/iconographie/behistun-trois-langues-20261103.svg",
+      "subjects": [
+        "Behistun",
+        "Béhistoun"
+      ],
+      "alt": "Les trois versions linguistiques de l’inscription royale de Behistun.",
+      "caption_html": "<strong>Schéma pédagogique original MYTHOS, en deux dimensions, non document antique.</strong> UNESCO, Bisotun, inscription de Darius Références : https://whc.unesco.org/en/list/1222/. <a href=\"undefined\">Consulter la source ou l’édition</a>. Le dessin n’est pas une photographie ni une reconstitution archéologique.",
+      "width": 1200,
+      "height": 600
+    },
+    {
+      "id": "mythos-diagramme-philosophie-trois-epopees",
+      "path": "assets/iconographie/philosophie-trois-epopees.svg",
+      "subjects": [
+        "trois épopées",
+        "Iliade Odyssée Théogonie",
+        "analyses philosophiques des épopées"
+      ],
+      "alt": "Comparaison pédagogique de problématiques philosophiques dans l’Iliade, l’Odyssée et la Théogonie.",
+      "caption_html": "<strong>Schéma pédagogique original MYTHOS, en deux dimensions, non document antique.</strong> Textes homériques et hésiodiques Références : https://www.theoi.com/Text/HesiodTheogony.html. <a href=\"undefined\">Consulter la source ou l’édition</a>. Le dessin n’est pas une photographie ni une reconstitution archéologique.",
+      "width": 1200,
+      "height": 600
+    },
+    {
+      "id": "mythos-diagramme-mythologie-grecque-sources",
+      "path": "assets/iconographie/mythologie-grecque-sources.svg",
+      "subjects": [
+        "sources de la mythologie grecque",
+        "sources mythologiques grecques"
+      ],
+      "alt": "Trois familles de témoignages antiques : récits, pratiques cultuelles et iconographie.",
+      "caption_html": "<strong>Schéma pédagogique original MYTHOS, en deux dimensions, non document antique.</strong> Corpus des sources grecques Références : https://www.theoi.com/. <a href=\"undefined\">Consulter la source ou l’édition</a>. Le dessin n’est pas une photographie ni une reconstitution archéologique.",
+      "width": 1200,
+      "height": 600
+    },
+    {
+      "id": "mythos-diagramme-eneide-deux-mouvements",
+      "path": "assets/iconographie/eneide-deux-mouvements.svg",
+      "subjects": [
+        "Énéide",
+        "Aeneid",
+        "Virgile, Énéide"
+      ],
+      "alt": "Schéma de l’Énéide de Virgile : livres I à VI, voyages d’Énée, et livres VII à XII, guerre dans le Latium.",
+      "caption_html": "<strong>Schéma pédagogique original MYTHOS, en deux dimensions, non document antique.</strong> L’Énéide en deux grands mouvements : parcours des exilés et conflit dans le Latium. La division est interprétative et les motifs homériques se croisent. Référence : Dickinson College Commentaries, introduction à l’Énéide. <a href=\"https://dcc.dickinson.edu/vergil-aeneid/introduction\">Consulter la source ou l’étude</a>. Regroupement critique moderne, non reconstitution archéologique.",
+      "width": 1200,
+      "height": 620
+    },
+    {
+      "id": "mythos-diagramme-gilgamesh-parcours-epique",
+      "path": "assets/iconographie/gilgamesh-parcours-epique.svg",
+      "subjects": [
+        "Gilgamesh",
+        "Gilgameš",
+        "Épopée de Gilgamesh"
+      ],
+      "alt": "Schéma narratif de l’Épopée de Gilgamesh : amitié d’Enkidu, épreuves, mort et quête des limites humaines.",
+      "caption_html": "<strong>Schéma pédagogique original MYTHOS, en deux dimensions, non document antique.</strong> Les grandes étapes narratives de la version babylonienne de Gilgamesh, avec prudence sur les versions textuelles. Référence : The British Museum, tablette du Déluge de Gilgamesh. <a href=\"https://www.britishmuseum.org/collection/object/W_K-3375\">Consulter la source ou l’étude</a>. Regroupement critique moderne, non reconstitution archéologique.",
+      "width": 1200,
+      "height": 620
+    },
+    {
+      "id": "mythos-diagramme-orestie-trois-tragedies",
+      "path": "assets/iconographie/orestie-trois-tragedies.svg",
+      "subjects": [
+        "Orestie",
+        "trilogie de l Orestie",
+        "trilogie d Eschyle"
+      ],
+      "alt": "Schéma de la trilogie de l’Orestie d’Eschyle : Agamemnon, les Choéphores et les Euménides.",
+      "caption_html": "<strong>Schéma pédagogique original MYTHOS, en deux dimensions, non document antique.</strong> Les trois tragédies de l’Orestie et leur progression du meurtre et de la vengeance vers le conflit de justices. Référence : Eschyle, Agamemnon, première pièce de l’Orestie. <a href=\"https://www.theoi.com/Text/AeschylusAgamemnon.html\">Consulter la source ou l’étude</a>. Regroupement critique moderne, non reconstitution archéologique.",
+      "width": 1200,
+      "height": 620
+    }
+  ]
+}

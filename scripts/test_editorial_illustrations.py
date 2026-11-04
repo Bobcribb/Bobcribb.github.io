@@ -135,6 +135,29 @@ class EditorialIllustrationsTest(unittest.TestCase):
                     self.assertGreater(int(img['width']), 0)
                     self.assertGreater(int(img['height']), 0)
 
+    def test_diagrams_are_real_sourced_2d_assets_not_old_perspective_drawings(self):
+        import json
+        entries = json.loads((ROOT / 'scripts/editorial_diagrams.json').read_text(encoding='utf-8'))['media']
+        self.assertGreaterEqual(len(entries), 20)
+        self.assertEqual(len({item['path'] for item in entries}), len(entries))
+        for item in entries:
+            with self.subTest(path=item['path']):
+                self.assertTrue(item['path'].startswith('assets/iconographie/'))
+                self.assertTrue(item['path'].endswith('.svg'))
+                self.assertNotIn('2.5d', item['path'].lower())
+                content = (ROOT / item['path']).read_text(encoding='utf-8')
+                self.assertIn('<svg', content)
+                self.assertIn('viewBox=', content)
+                self.assertIn('Schéma pédagogique original MYTHOS', item['caption_html'])
+                self.assertIn('<a href="https://', item['caption_html'])
+        for title, fragment in [('Odyssée', 'odyssee-architecture'),
+                                ('Énéide', 'eneide-deux-mouvements'),
+                                ('Orestie', 'orestie-trois-tragedies'),
+                                ('Argonautes', 'argonautes-parcours')]:
+            with self.subTest(title=title):
+                _, selected = self.render_page('dossier-documente', title)
+                self.assertTrue(any(fragment in key for key in selected))
+
     def test_museum_original_url_is_not_repeated(self):
         record = next(r for r in self.records if 'met-570675-' in r['id'])
         _, selected = self.render_page('anubis', 'Anubis', f'<img src="{record["equivalents"][0]}">')
@@ -180,14 +203,16 @@ class EditorialIllustrationsTest(unittest.TestCase):
         inline = doc.select('article figure[data-editorial-inline="subject-v3"]')
         supplementary = doc.select('main > aside figure')
         self.assertGreaterEqual(len(selected), 2)
-        self.assertEqual(min(4, len(selected)), len(inline))
+        self.assertEqual(min(8, len(selected), 14 // 2), len(inline))
         self.assertEqual(len(selected), len(inline) + len(supplementary))
         self.assertEqual(14, len(doc.article.select('h2')))
         self.assertEqual(14, len(doc.article.select('p')))
         for figure in inline + supplementary:
             self.assertTrue(figure.img.get('alt'))
             self.assertTrue(figure.select('figcaption a[href^="https://"]'))
-            self.assertNotIn('.svg', figure.img['src'])
+            if figure.img['src'].endswith('.svg'):
+                self.assertTrue(figure.img['src'].startswith('/assets/iconographie/'))
+                self.assertNotIn('2.5', figure.img['src'])
         again, other = illustrations.decorate_document(str(doc), Path('dossier-heracles/index.html'), ROOT, self.records)
         self.assertEqual(selected, other)
         self.assertEqual(str(doc), again)

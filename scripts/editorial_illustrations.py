@@ -13,6 +13,7 @@ import unicodedata
 from bs4 import BeautifulSoup
 
 CATALOG = Path(__file__).with_name("editorial_media.json")
+DIAGRAM_CATALOG = Path(__file__).with_name("editorial_diagrams.json")
 RECON_SELECTIONS = Path(__file__).with_name("editorial_reconstitutions.json")
 RECON_CATALOG = Path(__file__).resolve().parents[1] / "assets/reconstitutions-3d/catalogue-photorealiste.json"
 GENERATED_CLASSES = {"mythos-home-illustrations", "mythos-visual-rail"}
@@ -82,6 +83,7 @@ def documented_reconstructions():
 def load_catalog():
     records = json.loads(CATALOG.read_text(encoding="utf-8"))["media"]
     records.extend(documented_reconstructions())
+    records.extend(json.loads(DIAGRAM_CATALOG.read_text(encoding="utf-8"))["media"])
     ids = set()
     for record in records:
         if record["id"] in ids:
@@ -90,10 +92,15 @@ def load_catalog():
         rel = Path(record["path"])
         allowed_root = (
             rel.parts[:1] == ("media",)
-            or rel.parts[:2] in (("assets", "illustrations-articles"), ("assets", "reconstitutions-3d"))
+            or rel.parts[:2] in (("assets", "illustrations-articles"), ("assets", "reconstitutions-3d"), ("assets", "iconographie"))
         )
         if rel.is_absolute() or ".." in rel.parts or not allowed_root:
             raise ValueError("Média non local : " + str(rel))
+        if rel.parts[:2] == ("assets", "iconographie"):
+            allowed = {Path(item["path"]).name for item in
+                       json.loads(DIAGRAM_CATALOG.read_text(encoding="utf-8"))["media"]}
+            if rel.suffix != ".svg" or rel.name not in allowed or "2.5d" in rel.name.lower():
+                raise ValueError("Schéma non documentaire interdit : " + str(rel))
         if rel.parts[:2] == ("assets", "reconstitutions-3d") and rel.suffix != ".webp":
             raise ValueError("Reconstitution SVG ou fichier non WebP interdit : " + str(rel))
         caption = BeautifulSoup(record["caption_html"], "html.parser")
