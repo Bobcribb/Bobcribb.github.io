@@ -33,8 +33,12 @@ class EditorialIllustrationsTest(unittest.TestCase):
                 self.assertEqual(selected, expected)
                 illustrations_found = after.select('main > aside figure, article figure[data-editorial-inline="subject-v3"]')
                 self.assertEqual(len(illustrations_found), len(expected))
-                for figure in after.select('article figure[data-editorial-inline="subject-v3"]'):
-                    figure.decompose()
+                # Compare authored content only: the checked-in HTML may
+                # already include a previously generated subject-v3 figure.
+                # A rebuild must replace that figure, not preserve it as prose.
+                for doc in (before, after):
+                    for figure in doc.select('article figure[data-editorial-inline="subject-v3"]'):
+                        figure.decompose()
                 self.assertEqual(str(before.article), str(after.article))
                 self.assertNotIn('visual-rails-active', after.main.get('class', []))
 
