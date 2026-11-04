@@ -489,6 +489,12 @@
           "path": "chapitres/origines-du-sacre/653-takultu-assur-banquets-dieux-sel-viande-calendriers.md",
           "request_sha256": "21a08899e19d5247a47a51210880c931690e3da5c85da74b84f63cef24d9a789",
           "initial_source_sha256": "69d738ee68c6ba8cae17e6d8d69299a9105e6a5baeb880675148ce66bb82893d"
+        },
+        "a2749e10-576c-4aa0-982a-731a45c6bd48": {
+          "number": 654,
+          "path": "chapitres/origines-du-sacre/654-erchia-calendrier-sacrificiel-prix-peaux-repas-attiques.md",
+          "request_sha256": "84227c0bf90d553483a9d7439323aebc99f2cb2f22a728d9c688648f300dda0c",
+          "initial_source_sha256": "05046c67700d9fd328215b45a47775eb4e05c322aafe28ac6ca5ba65c2cc1052"
         }
       }
     },
@@ -1252,6 +1258,12 @@
           "path": "chapitres/comedies/volume-098-nikochares-fragments-incertains-18-28-ivresse-sommeil-mer-sphinx-marche-langue.md",
           "request_sha256": "d8f7dea82e67c599df4f3e7a85a5725ad18fadfebb90a34d149dcfe324b6bd4d",
           "initial_source_sha256": "f181895403f7bdfac480cea17be2e1166039c1c175444f59713978c6f9b32fea"
+        },
+        "d238ed27-3c71-4fb0-97cd-fb829365dbe2": {
+          "number": 99,
+          "path": "chapitres/comedies/volume-099-philonikos-poete-comique-victoire-leneennes-inscription-ig2325-memoire.md",
+          "request_sha256": "416759984f886c0422022170b1bb3b8ef3170c5024ec35f379f75034612943aa",
+          "initial_source_sha256": "f9109f952ce5577f7cc4e90ed44f7ab2deefd68ac205ae324c731ebfb9be6f1f"
         }
       }
     },
@@ -1594,6 +1606,12 @@
           "path": "chapitres/tragedies/volume-ccxl-sophocle-troilos-achille-embuscade-thymbra-violence-cadavre-eunuque-orientalisme.md",
           "request_sha256": "320dc9c79239fd30a527b4c90863a3d5e3f5c84c7d6763a304b5f029124b43be",
           "initial_source_sha256": "707d168a1c4eafc8f7655ebfac27abbe914965c98ddcfeaf9b3501472d8e7796"
+        },
+        "c8a3bd96-61e0-41bf-a4c6-e7bc4d3f253d": {
+          "number": 241,
+          "path": "chapitres/tragedies/volume-ccxli-sophocle-tympanistai-joueurs-tambour-phinee-fils-aveugles-ideothea-boreades.md",
+          "request_sha256": "d65ca38f5fb128d6b868f76daff3b138b064ad112528f6b622fbd601a7fecc42",
+          "initial_source_sha256": "2b210deadd652b9b85228358ef98b8a48edcf771a77c206d03444141316694e4"
         }
       }
     },
