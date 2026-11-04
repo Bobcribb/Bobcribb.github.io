@@ -1,0 +1,368 @@
+# MYTHOS — Encyclopédie universitaire des comédies grecques — Volume LXIV (64)
+
+## Téléclidès, *Prytaneis* (Πρυτάνεις, « Les Prytanes ») : présider la cité, se souvenir du passé, rire du pouvoir
+
+**Monographie universitaire originale — texte public, 4 novembre 2026.** La comédie attique ancienne *Prytaneis*, attribuée à Téléclidès (Telekleides), ne subsiste qu'en fragments transmis par des auteurs et lexicographes postérieurs. Le présent chapitre ne constitue **ni la traduction intégrale d'une pièce perdue ni sa reconstitution certaine**. Les notices emploient trois statuts explicites : **[A] témoignages et fragments attestés**, **[B] inférences, comparaisons et interprétations**, **[C] scènes nouvelles, intégralement inventées**. Les numéros des fragments (25–32) suivent Kassel et Austin, *Poetae Comici Graeci* VII ; les pages citées de Bagordo, *Fragmenta Comica* 4, ont été effectivement consultées dans la bibliothèque numérique de Heidelberg.
+
+**Problème directeur [B].** Que devient l'autorité politique quand le comique la déplace de la tribune à la table, du décret au choix des mots, de la mémoire glorieuse à la caricature des gouvernants ? Les restes des *Prytaneis* ne permettent pas d'attribuer une réponse doctrinale au poète. Ils autorisent toutefois une enquête sur les médiations institutionnelles et sensorielles du pouvoir : présider, manger, parler, jurer, se souvenir.
+
+### I. Objet et bornes documentaires
+
+**[A]** Le titre Πρυτάνεις est conservé par la tradition antique et associé à une série de citations attribuées à Téléclidès. L'édition d'Andreas Bagordo consacre à cette pièce les pages 140–161 de son commentaire (2013) et rassemble notamment les fragments 25 à 32 K.-A. Les témoins antiques ne reproduisent aucune *hypothesis* complète, aucune distribution de rôles et aucun dénouement. Les citations sont de nature inégale : un jugement de compilateur, un vers comique, quelques mots isolés, des gloses et de courts segments rapportés.
+
+**[B]** Le titre peut désigner des responsables politiques, leur groupe sur scène, un chœur hypothétique ou un objet de satire. Seule l'identification générale de la charge est solidement fondée ; l'identité d'un protagoniste, la formation d'un chœur de prytanes et la progression dramatique ne le sont pas. Une histoire du texte fragmentaire commence donc par l'histoire de ses transmetteurs.
+
+### II. La série comique et la question de la continuité
+
+**[A]** Dans la série MYTHOS, *Amphiktyones* du même auteur constitue un dossier distinct consacré à l'abondance imaginaire ; sa publication précédente porte sur une autre pièce et ne saurait fournir les actes ou personnages des *Prytaneis*. Les extraits transmis pour les deux titres ont leurs propres chaînes de provenance.
+
+**[B]** Les rapprocher est utile pour étudier deux échelles de la communauté, assemblée inter-civique et gouvernement athénien ; les fondre en une « grande intrigue » de Téléclidès serait une fiction historique. Ici la comparaison transversale est déclarée, non insinuée comme témoignage.
+
+### III. Πρύτανις, πρυτάνεις : langue et fonction
+
+**[A]** Le singulier πρύτανις, au pluriel πρυτάνεις, appartient au vocabulaire politique grec des présidences et magistratures. Dans la démocratie athénienne classique, les prytanes étaient les membres de la tribu qui assurait à tour de rôle une fonction de permanence au sein du Conseil des Cinq-Cents. La *Constitution des Athéniens* attribuée à Aristote, 43.2–4, expose pour une époque ultérieure les modalités de la prytanie et de la convocation des institutions.
+
+**[B]** Traduire simplement par « présidents » risque d'importer l'image d'une charge individuelle moderne : il s'agit plutôt d'une présidence collective et temporaire. Ce décalage sémantique ouvre une question sur la comédie : le titre vise-t-il un groupe exerçant le pouvoir ou une condition sociale produite par la proximité du pouvoir ?
+
+### IV. Rotation, tribus, responsabilité
+
+**[A]** Dans le système classique, chaque tribu fournissait pour un temps les cinquante conseillers de permanence. Bagordo (p. 140) présente la rotation annuelle et rappelle le rôle des prytanes dans la préparation des travaux de la Boulè et de l'Assemblée. Les changements de composition, de durée et de procédure à travers le Ve et le IVe siècle imposent de ne pas projeter indistinctement toutes les règles de la *Constitution des Athéniens* sur une représentation des années 420.
+
+**[B]** La temporalité politique est comiquement fertile : celui qui décide aujourd'hui redevient demain simple membre de la communauté. La prytanie rend visible une autorité provisoire, difficile à confondre avec la figure continue du tyran. L'ironie peut s'y glisser sans qu'on ait besoin d'inventer un débat antique particulier.
+
+### V. La Tholos et l'Agora
+
+**[A]** Les prytanes accomplissaient une partie de leurs tâches autour de la Tholos, près du Bouleutérion dans l'Agora d'Athènes. Leurs repas institutionnels et une présence nocturne y sont documentés. La structure architecturale et le fonctionnement des repas publics ne constituent pas pour autant une indication scénographique sur les *Prytaneis*.
+
+**[B]** La cohabitation de la table et de l'administration rend l'institution matériellement intelligible : aucune cité n'est faite seulement de discours. Manger au voisinage du conseil évoque à la fois le service public et l'avantage associé à l'office. La frontière entre entretien légitime et consommation indue est un objet d'enquête, non un verdict dont la pièce nous aurait livré les pièces à conviction.
+
+### VI. Dating : prudence avant l'événement
+
+**[A]** Bagordo propose avec réserves une fenêtre autour de 427–422 av. J.-C. (p. 140), et présente les datations antérieures imaginant les derniers temps de Périclès. Aucun acte officiel de représentation ne fixe l'année de création de cette pièce.
+
+**[B]** Toute lecture qui dirait « écrite immédiatement après » un décret, une campagne ou une mort donnée doit fournir un lien textuel absent du dossier actuel. L'intervalle reste une hypothèse critique ; sa fonction est de tester des possibilités, pas de certifier une synchronie historique.
+
+### VII. Les interprétations concurrentes du temps de Thémistocle
+
+**[A]** Le fragment 25 est transmis par Athénée XII, 553e. Le compilateur dit que Téléclidès présentait dans les *Prytaneis* la vie sous Thémistocle comme **ἁβρός** — délicate, raffinée, selon les nuances du mot. Aucun passage développé correspondant n'est donné par Athénée à cet endroit. Bagordo détaille cet écart de statut documentaire (p. 142–145).
+
+**[B]** L'annotation tardive ne prouve ni un éloge nostalgique complet ni une condamnation du luxe. L'opposition entre Thémistocle et Périclès est discutée dans l'érudition : elle pourrait constituer une ressource polémique, mais elle n'est pas établie comme intrigue centrale. Il faut résister à l'attrait d'une périodisation trop belle — âge héroïque, décadence présente, réforme finale — qu'aucun texte continu ne confirme.
+
+### VIII. Ἁβρός : luxe, finesse, mollesse ?
+
+**[A]** Le qualificatif ἁβρός peut valoriser la délicatesse ou désigner une manière de vivre jugée excessive selon les contextes. Bagordo met en regard des emplois littéraires d'époque différente et souligne la pluralité de ses valeurs. Athénée conserve un commentaire sur le style de vie passé ; il ne transmet pas, pour le fragment 25, une tirade littérale qu'on puisse soumettre à une analyse métrique sûre.
+
+**[B]** L'erreur serait de traduire automatiquement « luxe » par « corruption ». Une cité peut célébrer un raffinement ancien parce qu'il signifiait maîtrise, aisance ou excellence. À l'inverse, le même mot peut devenir le symptôme d'un privilège qu'on dénonce. La philologie maintient ouverte cette polarité au lieu de la trancher par préférence idéologique.
+
+### IX. Le passé politique comme instrument du présent
+
+**[A]** La carrière de Thémistocle et l'évolution de la constitution athénienne sont des objets historiques indépendants de la comédie. Thucydide I, 135–138 décrit la fin de Thémistocle, tandis que la tradition ultérieure en a produit des images concurrentes. Ces textes ne rapportent pas une scène des *Prytaneis*.
+
+**[B]** La mise en valeur d'un homme disparu peut offrir une arme contre les dirigeants présents : comparer n'est pas toujours célébrer sincèrement. La comédie produit une mémoire utilisable, susceptible d'être contestée, amplifiée ou retournée en caricature. La source ne dit pas si Téléclidès souscrit à toute la mémoire que certains critiques lui prêtent.
+
+### X. Fragment 26 : Δάκης, un nom qui mord
+
+**[A]** Le fragment 26 K.-A. passe par une scholie ancienne à Aristophane, *Guêpes* 836c. Son noyau est un emploi du sobriquet ou nom parlant **Δάκης**, apparenté au champ du « mordre ». Les manuscrits et les corrections proposées ne s'accordent pas sur toute la formulation. Bagordo (p. 145–147) explique les lectures concurrentes et l'influence des *Guêpes* sur l'interprétation.
+
+**[B]** L'identification de Dákēs au stratège Lachès reste une hypothèse, malgré un rapprochement séduisant avec *Labès*, le chien des *Guêpes*. La scholie crée une passerelle entre deux univers comiques qui ne transforme pas automatiquement le personnage de Téléclidès en copie de celui d'Aristophane.
+
+### XI. Anthroponymie et attaque politique
+
+**[A]** Les comiques attiques exploitent couramment des noms évocateurs et des déformations de noms propres. Le fragment 26 présente une matière linguistique qui peut fonctionner comme plaisanterie nominale. Le dossier ne conserve pas le nom de son interlocuteur ni la situation d'énonciation.
+
+**[B]** Nommer un adversaire « mordeur » transforme un acte de jugement politique en mouvement corporel agressif. Le trait satirique gagne ainsi une efficacité que ne possède pas un exposé. Mais « mordeur » pourrait désigner un type social plutôt qu'un responsable précisément identifiable. La prudence fait partie de la critique, non de sa faiblesse.
+
+### XII. Guerre, stratégie et procédure judiciaire
+
+**[A]** Aristophane, *Guêpes*, présente une parodie de procès où un chien répond à des accusations ; Thucydide fournit un contexte à la carrière de Lachès. Ce sont des sources comparatives et non des témoins directs des *Prytaneis*.
+
+**[B]** Si le personnage de Dákēs visait Lachès, les enjeux du commandement, de la reddition de comptes et de la rivalité civique deviendraient pertinents. L'hypothèse doit toujours garder sa forme conditionnelle : un nom rapproché par les modernes ne prouve pas la présence sur scène du général historique.
+
+### XIII. Fragment 27 : vin doux et fromage
+
+**[A]** Le fragment 27 K.-A. associe des morceaux conservés séparément par Athénée XI, 485f et IV, 170d. Les mots évoquent le vin adouci, une *lepastē* (récipient à boire) et le fait de manger du fromage. La réunion de segments est une opération éditoriale, attribuée à Bergk et commentée par Bagordo (p. 148–152).
+
+**[B]** Il serait trompeur d'imaginer un repas entièrement reconstitué, avec place des convives, heure, musique et menu exhaustif. Le fragment n'identifie pas la table comme une séance réelle des prytanes ; le rapprochement avec leurs repas institutionnels est possible, non démontré. Athénée citait ces mots pour des raisons lexicographiques différentes.
+
+### XIV. La *lepastē* : chose, mot, survivance
+
+**[A]** Athénée XI, 485f présente le terme lié au vase à boire parmi des notices sur les récipients ; le renseignement renvoie à un auteur qui décrit la *lepastē* comme une coupe de grande capacité. Le maintien du fragment dans la tradition dépend donc d'abord de l'intérêt d'un compilateur pour un objet.
+
+**[B]** L'historien de la comédie doit examiner ce que la sélection a éliminé : l'objet survit, le contexte se perd. En conséquence, ce qui apparaît aujourd'hui comme une ode à l'ivresse pouvait former à l'origine un argument adverse, une satire de la pompe officielle ou un souvenir bienveillant. L'archive transforme les fonctions de la parole.
+
+### XV. Le vin « mêlé de miel » et la poétique du plaisir
+
+**[A]** Bagordo relève la proximité lexicale du « vin doux » avec la poésie symposiale, notamment Alcée et Anacréon ; il examine également les procédés antiques d'adoucissement. Cela justifie de rapprocher le lexique comique de traditions lyriques ; cela n'autorise pas à dire que Téléclidès a cité mot pour mot l'un de ces poètes.
+
+**[B]** La comédie peut emprunter au registre élevé de l'élégance et lui assigner une bouche triviale. Le plaisir n'est pas seulement sensation ; il est signe de statut et de mémoire sociale. Le passage d'une coupe raffinée à une charge politique dépendrait cependant d'un contexte scénique que nous ne possédons pas.
+
+### XVI. La prosodie du fragment 27
+
+**[A]** L'éditeur discute des dimètres iambiques et des corrections de leçon, en particulier autour du qualificatif du récipient. Des fragments séparés peuvent former une unité dans une reconstruction philologique, mais cette unité conserve sa part de convention critique.
+
+**[B]** La scansion permet d'étudier le mouvement vocal possible de la phrase ; elle ne révèle pas l'identité du chanteur, la musique réelle ou l'existence d'un chœur. Toute proposition de mise en voix doit être donnée comme une expérimentation moderne.
+
+### XVII. Repas public, honneur public
+
+**[A]** L'Athènes classique connaît différentes formes d'alimentation associées aux institutions. Athénée IV, 137e rapporte ailleurs des souvenirs de repas au prytanée. Bagordo rapproche, avec prudence, ces documents du fromage mentionné au fragment 27.
+
+**[B]** Pour la cité, nourrir un magistrat peut signifier qu'on le charge d'être disponible ; nourrir excessivement celui qui gouverne peut devenir l'image d'un corps politique dévoré. Les mêmes gestes se prêtent ainsi à deux jugements contraires. Sans scène conservée, aucun de ces jugements ne doit être attribué au poète comme conclusion.
+
+### XVIII. Fragment 28 : un idéal en trois infinitifs
+
+**[A]** Pollux VII, 135 conserve pour les *Prytaneis* le groupement **εὐχροεῖν, ὀρνιθοθηρᾶν, σωφρονεῖν** (fr. 28 K.-A.) : avoir bonne mine, chasser les oiseaux, observer la modération. Bagordo (p. 153–155) détaille la morphologie, le choix des manuscrits et les parallèles d'un idéal éducatif ancien.
+
+**[B]** La juxtaposition ne fait pas une constitution. Elle crée pourtant un profil de vie où le corps, le loisir actif et la conduite réglée se soutiennent. Un contraste comique entre ce modèle et les présidents contemporains serait possible ; il n'est pas documenté comme scène.
+
+### XIX. Εὐχροεῖν : un corps visible
+
+**[A]** Le premier infinitif relève de l'apparence physique, plus exactement d'un teint ou d'une complexion favorable. Les rapprochements avec la littérature médicale et sportive signalés dans le commentaire empêchent une traduction trop vague par « être vertueux ».
+
+**[B]** Le pouvoir politique a un corps : les spectateurs peuvent voir un dirigeant fatigué, démesurément soigné ou affectant la vigueur. Une comédie peut faire du teint un argument de légitimité ou de ridicule. Mais la phrase conservée ne décrit pas un personnage déterminé et ne fournit aucun masque attesté.
+
+### XX. Ὀρνιθοθηρᾶν : la chasse aux oiseaux
+
+**[A]** Pollux s'intéresse particulièrement au vocabulaire de la chasse ; il préserve une forme verbale rare employée par Téléclidès. Bagordo refuse de corriger sans nécessité cette forme transmise. Le contexte encyclopédique explique sa survie.
+
+**[B]** La chasse peut être l'indice d'une formation de loisir aristocratique, d'une pratique sportive ou simplement d'une image comique. Une grille « anti-démocratique » imposée par un unique mot serait abusive. Les parallèles plus tardifs chez Xénophon et Isocrate servent à éclairer des valeurs, non à dater une réplique de Téléclidès.
+
+### XXI. Σωφρονεῖν : modération ou discipline ?
+
+**[A]** Le verbe désigne une conduite mesurée, la maîtrise de soi ou le bon sens, selon ses emplois. Bagordo (p. 155) rapproche son usage d'exemples où se croisent la sexualité, l'éducation et la politique.
+
+**[B]** Dans la comédie, la modération proclamée peut elle-même être un objet de rire : une personne qui se dit raisonnable peut agir en goinfre. Une conception philosophique de la *sôphrosynè* ne peut être transférée sans examen depuis Platon vers ce fragment plus ancien. L'incertitude dramatique empêche de dire qui vantait cette vertu et avec quelle ironie.
+
+### XXII. Fragment 29 : jurer par les choux
+
+**[A]** Athénée IX, 370b conserve l'expression **ναὶ μὰ τὰς κράμβας** (« oui, par les choux ! ») attribuée aux *Prytaneis* (fr. 29 K.-A.). Athénée l'insère dans sa discussion sur les légumes et les serments, et Bagordo (p. 155–157) compare d'autres jurons comiques.
+
+**[B]** Substituer un végétal aux puissances traditionnelles de garantie du serment peut à la fois désacraliser la formule et créer une autorité burlesque de remplacement. Rien n'indique que la réplique ait été prononcée par un prytane ou pendant un vote ; son insertion précise reste inconnue.
+
+### XXIII. Sacré mineur et comique des formules
+
+**[A]** Les serments grecs associent normalement l'énoncé à une garantie divine ou à des objets pris à témoin. La littérature comique multiplie des déplacements incongrus de l'invocation. Athénée ajoute un commentaire érudit sur la place du chou dans certaines traditions.
+
+**[B]** Le juron végétal ouvre une question de philosophie du langage : qu'est-ce qui donne force à une promesse, sa formule, la croyance partagée ou les conséquences sociales du manquement ? Le comique démontre moins l'absence du sacré qu'il ne dévoile la possibilité de jouer avec ses instruments langagiers.
+
+### XXIV. Fragment 30 : « pendant le jour »
+
+**[A]** Harpocration conserve au fragment 30 K.-A. l'emploi de **δι’ ἡμέρας** comme expression temporelle (« pendant toute la journée »). Le lexicographe s'intéresse à la valeur de l'expression, non à l'intrigue perdue. Bagordo (p. 157–159) relève des parallèles comiques dont le trait peut être la durée excessive des discours, de l'oisiveté ou du banquet.
+
+**[B]** La durée est une matière satirique du gouvernement : trop délibérer, trop boire, trop parler. Mais ces thèmes sont ceux de parallèles et d'interprétations ; la courte expression isolée n'est pas la preuve que la scène représentait une séance interminable du Conseil.
+
+### XXV. Le temps de la démocratie et le temps du rire
+
+**[A]** Les institutions de la cité combinent une durée programmée (rotations, convocations) et des événements imprévisibles (guerres, procès, urgences). Les sources institutionnelles peuvent en préciser les cadres, non le temps dramatique des *Prytaneis*.
+
+**[B]** Une forme comique peut dilater le « jour » de la délibération jusqu'à l'absurde ou condenser une crise en une injure. L'analyse du temps historique ne doit donc pas se transformer en prétendue mise en scène primitive. Ce qui subsiste, ici, est un indice lexical que les parallèles rendent suggestif sans le compléter.
+
+### XXVI. Fragment 31 : un mot corrompu, une attribution fragile
+
+**[A]** Hésychius transmet, au fragment 31 K.-A., une glose autour de **δορυφόνον**. Le témoin est textuellement problématique ; la restitution du nom du tragique Philoclès relève d'une correction savante et non d'une certitude manuscrite. Bagordo (p. 159–160) examine d'autres possibilités et les problèmes de chronologie.
+
+**[B]** Ce fragment montre à quel point un récit historique se construit autour de petites décisions philologiques. Une correction peut rendre cohérente une moquerie envers un poète tragique, mais ne constitue pas la preuve d'une scène où l'on attaquerait nommément Philoclès. Les éléments de satire littéraire doivent demeurer conditionnels.
+
+### XXVII. Un conflit entre les langages de la comédie et de la tragédie ?
+
+**[A]** La tradition comique attaque souvent des dramaturges, leurs expressions et leurs innovations. Les parallèles à Aristophane et les propres fragments incertains de Téléclidès fournissent des contextes généraux. Le fragment 31 ne donne pas une discussion complète sur la poésie.
+
+**[B]** Un terme rarissime peut être ridiculisé pour sa sonorité, son emphase ou sa prétention à l'héroïque. Le politique et l'esthétique se rencontreraient alors dans la critique de la grandeur verbale. Cette interprétation est possible mais ne justifie pas d'inventer une querelle personnelle dont l'archive serait muette.
+
+### XXVIII. Fragment 32 : les « violents » comme pluie d'orage
+
+**[A]** Photios et la Souda enregistrent **ῥαγδαίους** en renvoyant notamment aux *Prytaneis* de Téléclidès (fr. 32 K.-A.). Leur explication part de la violence des précipitations pour décrire des personnes emportées, impétueuses. Bagordo (p. 160–161) distingue le sens météorologique et le transfert métaphorique.
+
+**[B]** Parler de personnes « torrentueuses » peut figurer les disputes de la cité ou la colère d'un personnage ; ce n'est pas le témoignage d'une tempête représentée sur scène. Les images météorologiques permettent d'interroger l'intensité de la parole politique, non de nommer avec certitude un responsable visé.
+
+### XXIX. Le montage des témoins : un inventaire des pertes
+
+**[A]** Les huit entrées 25–32 K.-A. proviennent d'Athénée (plusieurs livres), d'une scholie à Aristophane, de Pollux, d'Harpocration, d'Hésychius, de Photios et de la Souda. Leurs intérêts distincts — banquet, objet, anecdote, métier, tournure, métaphore — expliquent la conservation de fragments sélectionnés.
+
+**[B]** La comédie réellement jouée avait une métrique, des corps, des voix, des transitions, des silences. Nous avons surtout des éléments arrachés au contexte parce qu'ils pouvaient servir à une explication lexicale. Le déficit documentaire porte moins sur le nombre absolu de mots que sur les liens entre eux : qui parle, à qui, dans quel acte, avec quelle réponse ?
+
+### XXX. Vers, textes rapportés et gloses : tableau de provenance
+
+| Élément | Témoin antique | Statut [A] | Limite |
+|---|---|---|---|
+| Fr. 25 K.-A. | Athénée XII, 553e | Commentaire sur le temps de Thémistocle | Pas une tirade versifiée conservée |
+| Fr. 26 K.-A. | Scholie à Aristophane, *Guêpes* 836c | Sobriquet « Dákēs » | Cible et leçons débattues |
+| Fr. 27 K.-A. | Athénée XI, 485f et IV, 170d | Vin, récipient, fromage | Fragments réunis par édition |
+| Fr. 28 K.-A. | Pollux VII, 135 | Trois infinitifs | Énonciateur inconnu |
+| Fr. 29 K.-A. | Athénée IX, 370b | Serment par les choux | Pas de contexte dramatique |
+| Fr. 30 K.-A. | Harpocration, s.v. *di' eniautou* | Locution temporelle | Sélection lexicale |
+| Fr. 31 K.-A. | Hésychius, s.v. *doryphonon* | Glose textuellement instable | Correction du nom discutée |
+| Fr. 32 K.-A. | Photios et Souda, s.v. *rhagdaious* | Terme de violence météorologique | Aucune scène reconstruisible |
+
+**[B]** Cette matrice n'est pas un plan en huit scènes. Le classement des éditeurs permet la consultation, mais les fragments ne suivent pas nécessairement leur ordre d'apparition dans la représentation.
+
+### XXXI. Aristophane : convergences sans attribution abusive
+
+**[A]** Les *Acharniens*, v. 19–42, raillent l'organisation initiale de l'Assemblée et le comportement des prytanes ; les *Cavaliers* mettent en jeu la concurrence politique ; les *Guêpes* comparent justice et comportement animal. Ces passages sont attestés chez Aristophane, non chez Téléclidès.
+
+**[B]** Leur rapprochement fait ressortir un champ de préoccupations partagées : procédures, guerre, clientèle, gourmandise et crédit de la parole. Ils ne prouvent ni emprunt direct ni identité de programme politique. Le comique attique constitue une arène concurrentielle, non une école d'opinion unique.
+
+### XXXII. Hegel : l'institution comme liberté objective
+
+**[A]** Les *Principes de la philosophie du droit* de Hegel, notamment les analyses de la société civile et de l'État, sont des textes modernes, sans rapport génétique avec la comédie du Ve siècle. Aucun passage de Téléclidès ne les anticipe.
+
+**[B]** Une lecture hégélienne peut envisager les prytanes comme un point d'articulation entre des individus finis et une forme durable de la vie collective. La rotation oblige à distinguer la fonction du détenteur du pouvoir ; la satire rappelle que l'universel proclamé se réalise toujours par des corps particuliers, capables d'appétit et de vanité. Ce dialogue philosophique permet de questionner la médiation institutionnelle, mais ne convertit pas l'auteur comique en théoricien de l'État rationnel.
+
+### XXXIII. Nietzsche : l'agon, le masque et le renversement des valeurs
+
+**[A]** *La Naissance de la tragédie*, la réflexion nietzschéenne sur la culture grecque et les textes consacrés à la généalogie des valeurs sont postérieurs de plus de deux millénaires. Ils ne constituent pas des témoins de Téléclidès.
+
+**[B]** L'agon civique permet de comparer compétition dramatique et affrontement des jugements publics : le comique peut réduire la majesté des dignités à des besoins corporels. Chez Nietzsche, le masque et la critique des idéaux de sérieux invitent à ne pas confondre un discours de modération avec la vérité morale de son locuteur. La limite est essentielle : un juron par les choux ne prouve ni « nihilisme » ni dionysisme philosophique. Il appelle l'analyse d'une pratique de décalage.
+
+### XXXIV. Vernant : politique, publicité, mémoire
+
+**[A]** Jean-Pierre Vernant a proposé des analyses historiques de la polis, de la publicité de la parole et des mutations du rapport au savoir en Grèce. Ses catégories sont des instruments modernes, élaborés sur des corpus larges et hétérogènes.
+
+**[B]** Les *Prytaneis* peuvent être interrogés à partir de l'écart entre parole publique et mémoire du passé. L'institution, rendue visible au théâtre, peut devenir une figure collective soumise au jugement des citoyens. Ce déplacement du sérieux officiel vers la parole partagée n'abolit pas les asymétries sociales ou les exclusions de la cité. Le regard vernantien affine la question sans suppléer les fragments manquants.
+
+### XXXV. Détienne : les pratiques du vrai et les détours du langage
+
+**[A]** Les travaux de Marcel Détienne, notamment *Les Maîtres de vérité dans la Grèce archaïque* et *L'Invention de la mythologie*, mettent en garde contre les continuités supposées entre régimes de parole. Ils ne fournissent pas un commentaire direct des fragments de notre pièce.
+
+**[B]** Un juron grotesque ou un nom mordant montre que l'efficacité d'un énoncé dépend d'usages collectifs : répéter une formule sacrée, l'altérer, l'adresser à un témoin. La comédie ne devient pas « pure raison » opposée au mythe ; elle circule parmi les récits, les serments, les mots savants et les gestes ordinaires. La comparaison invite à historiciser les opérations de langage plutôt qu'à chercher un simple progrès du rationnel.
+
+### XXXVI. Dumézil : pourquoi la grille trifonctionnelle est ici insuffisante
+
+**[A]** Georges Dumézil a construit ses comparaisons à partir de corpus indo-européens justiciables d'analyses de structure et de transmission. Les *Prytaneis* ne conservent pas un récit complet présentant des fonctions religieuse, guerrière et productive ordonnées entre elles.
+
+**[B]** Il serait séduisant de rattacher les serments au sacré, Dákēs à la guerre et le banquet à la production ; ce triptyque résulterait de notre classement de fragments indépendants, non d'un schème dramatique attesté. La méthode comparative est plus exigeante qu'une correspondance thématique. L'absence de données positives justifie ici un non-usage motivé de la trifonctionnalité.
+
+### XXXVII. Comparaisons : Thémistocle et les discours sur la grandeur ancienne
+
+**[A]** Thucydide I, 6 traite de transformations du mode de vie grec ; dans son récit sur les débuts de la guerre, l'opposition entre passé et présent possède aussi une dimension stratégique. Les historiens modernes reconstruisent la mémoire de Thémistocle à partir de témoignages multiples, pas des seuls fragments de comédie.
+
+**[B]** Mettre un âge de raffinement dans la bouche d'un personnage peut servir autant à critiquer le présent qu'à ironiser sur les nostalgiques. L'âge de référence ne devient un critère moral qu'au moyen d'une sélection d'images. Notre étude n'a pas le droit d'effacer la possibilité du second degré pour sauver une thèse politique trop simple.
+
+### XXXVIII. Comparaisons : *Amphiktyones* et *Prytaneis*
+
+**[A]** Deux titres de Téléclidès sont conservés séparément : *Amphiktyones* (notamment fr. 1 K.-A., par Athénée VI, 268a) et *Prytaneis* (fr. 25–32). Dans l'un, la tradition a préservé une vision d'abondance impossible ; dans l'autre, des notations sur fonction politique, sociabilité et lexique.
+
+**[B]** Leur confrontation propose une question forte : l'abondance idéale rend-elle la gestion politique inutile, tandis que la réalité de la cité exige des présidents, des lieux, des règles et des mots de garantie ? C'est une problématique moderne, pas un diptyque voulu par l'auteur. Toute continuité scénique entre les titres doit être exclue.
+
+### XXXIX. Perspective sociale : citoyens, femmes, esclaves et invisibles
+
+**[A]** La citoyenneté athénienne est juridiquement inégale : l'exercice des magistratures et du Conseil concerne les citoyens remplissant les conditions institutionnelles ; les femmes, esclaves et métèques n'y siègent pas comme membres ordinaires. Les fragments des *Prytaneis* ne livrent pas la liste des personnages appartenant à ces groupes.
+
+**[B]** Une satire de l'égalité entre citoyens peut coexister avec une ignorance des dépendants qui préparent les repas, transportent les objets ou soutiennent la cité. Le fait même qu'un fragment conserve le vocabulaire du banquet, plutôt que celui de ses travailleurs, rappelle les limites sociales de notre archive et non une intention démontrée de Téléclidès.
+
+### XL. Critique des reconstructions : six erreurs à éviter
+
+**[A]** Aucun témoin conservé ne donne l'ordre des fragments, le chœur, le décor, une lutte entre Thémistocle et Périclès sur scène, la présence de Lachès ou une résolution morale. L'édition critique distingue fragments textuels, notices indirectes et propositions d'émendation.
+
+**[B]** Les erreurs principales seraient : présenter fr. 25 comme un discours authentique ; transformer le fr. 27 en « banquet des prytanes » certain ; identifier Dákēs comme Lachès sans réserve ; déduire un chœur du titre ; mettre les huit entrées en ordre dramatique ; traduire une valeur lexicale en conviction politique. Une reconstruction honnête accroît la connaissance en affichant où elle cesse.
+
+### XLI. Atelier [C] — scène originale 1 : « Le président qui compte les heures »
+
+**[C — création littéraire contemporaine, non attribuée à Téléclidès, non traduction d'un fragment.]**
+
+*Une Tholos imaginaire. Un sablier absent. Deux citoyens, une secrétaire inventée et un prytane. L'accessoire moderne est délibérément anachronique : cette scène est un laboratoire de réflexion, pas un décor restitué.*
+
+**LE PRYTANE.** Vous demandez que nous commencions à l'heure. Il me faut d'abord connaître l'heure de la fin.
+
+**LA SECRÉTAIRE.** Quand le premier aura cessé de décrire ce qu'il allait dire, et le second de demander qui l'a laissé parler.
+
+**LE CITOYEN.** Le pain refroidit. Vous présidez, mais qui gouverne mon estomac ?
+
+**LE PRYTANE.** L'ordre du jour.
+
+**LA SECRÉTAIRE.** Il est écrit que l'ordre du jour doit manger après la décision.
+
+**LE CITOYEN.** Alors je vote qu'il mange avant.
+
+**LE PRYTANE.** Motion recevable ! C'est la première nourriture qui ait jamais reçu la parole.
+
+**LA SECRÉTAIRE.** Vous avez encore perdu la journée à lui donner un nom.
+
+*Le prytane regarde la table vide avec l'air solennel d'un homme qui a fait progresser les institutions.*
+
+**[B — commentaire d'atelier.]** Cette satire inventée condense le problème de la temporisation démocratique, sans attribuer une seule réplique à Téléclidès. Les détails administratifs ne reproduisent pas une séance antique.
+
+### XLII. Atelier [C] — scène originale 2 : « Par les choux »
+
+**[C — création littéraire contemporaine, entièrement inventée.]**
+
+*Un marché de théâtre imaginaire. Un vendeur de légumes, une voix publique et un personnage masqué.*
+
+**LE VENDEUR.** Mon chou vaut une drachme, mais mon serment vaut la récolte.
+
+**LA VOIX PUBLIQUE.** Pour présider la cité, il faut jurer de ne pas se servir avant les autres.
+
+**LE MASQUE.** Je le jure par tous les choux de l'Attique.
+
+**LE VENDEUR.** Mauvais témoin ! Tu les as achetés hier et mangés cette nuit.
+
+**LE MASQUE.** Le serment n'en sera que plus facile : personne ne viendra les interroger.
+
+**LA VOIX PUBLIQUE.** Nous avions demandé une promesse ; il nous propose un légume disparu.
+
+**LE VENDEUR.** Alors choisissez un légume vivant. Il saura pourrir quand on lui ment.
+
+*Le marché éclate de rire. La promesse demeure en suspens.*
+
+**[B — commentaire d'atelier.]** L'invention fait résonner le fr. 29, mais ne prétend pas que ce fragment figurait dans une scène de serment politique. L'objet est d'éprouver les rapports entre croyance, preuve et ridicule.
+
+### XLIII. Atelier [C] — scène originale 3 : « Dákēs à l'école du bon teint »
+
+**[C — création littéraire contemporaine, non attribuée à l'Antiquité.]**
+
+*Dans un gymnase fictif, un professeur de vertu reçoit un personnage nommé « Celui qui mord ». Un oiseleur le suit ; la chasse aux oiseaux est ici pure invention dramatique.*
+
+**LE PROFESSEUR.** Trois qualités font un citoyen : paraître bien portant, savoir poursuivre les oiseaux, ne pas poursuivre les querelles.
+
+**CELUI QUI MORD.** Et si je poursuis l'oiseau du voisin ?
+
+**L'OISELEUR.** Il s'appelle « réputation ». Il vole dès que tu prononces son nom.
+
+**LE PROFESSEUR.** On te demande d'être modéré.
+
+**CELUI QUI MORD.** Je suis modéré : je ne mords qu'une personne à la fois.
+
+**L'OISELEUR.** Mais tu les attaques toutes dans la même journée !
+
+**CELUI QUI MORD.** J'ai appris la durée des prytanes : quand mon heure finit, un autre prend ma place et recommence.
+
+**LE PROFESSEUR.** Tu confonds l'alternance des charges avec la rotation des morsures.
+
+*Ils regardent passer un oiseau libre. Chacun prétend l'avoir capturé.*
+
+**[B — commentaire d'atelier.]** Ce pastiche juxtapose les fr. 26, 28 et 30 sans suggérer qu'ils se suivaient ou qu'ils concernaient le même personnage. Il donne un exemple concret de ce que la documentation n'autorise pas à enseigner comme histoire.
+
+### XLIV. Bilan philosophique : ce que le fragment interdit et rend pensable
+
+**[A]** Le dossier livre une institution nommée, des usages linguistiques et des observations sur un passé prestigieux. Il ne conserve ni la décision finale du poète ni une théorie politique systématique.
+
+**[B]** La richesse des *Prytaneis* se situe précisément à la jonction d'un monde institué et de sa vulnérabilité au rire. Le nom qui mord montre la violence des jugements ; la coupe et le fromage, la matérialité des fonctions ; le serment végétal, la plasticité des garanties ; l'ancien luxe, le caractère construit de la mémoire. La comédie n'explique pas seulement ce qui manque à la cité : elle montre combien la cité dépend d'images contestables d'elle-même.
+
+### XLV. Bibliographie critique vérifiée et périmètre de collation
+
+**Éditions et témoins [A] :**
+
+1. Rudolf Kassel et Colin Austin (éd.), *Poetae Comici Graeci*, vol. VII, Berlin–New York, 1989, Telekleides, fr. 25–32 : référence standard pour la numérotation. **Le texte intégral de PCG VII et son apparat n'ont pas été collationnés ici de première main** ; les concordances ont été vérifiées à travers Bagordo.
+2. Andreas Bagordo, *Telekleides: Einleitung, Übersetzung, Kommentar*, *Fragmenta Comica* 4, Heidelberg, 2013, spécialement p. **140–161** ; édition **consultée directement** dans la reproduction scientifique de l'Académie de Heidelberg : https://digi.hadw-bw.de/view/frc4/0141 (p. 140), puis pages numériques /0142 à /0162.
+3. Athénée, *Deipnosophistes* XII 553e (fr. 25) ; XI 485f et IV 170d (fr. 27) ; IX 370b (fr. 29). Passages localisés dans l'édition Bagordo, avec distinction entre citation littérale et paraphrase.
+4. Scholie ancienne à Aristophane, *Guêpes* 836c (fr. 26) ; Pollux, *Onomasticon* VII 135 (fr. 28) ; Harpocration, entrée sur *di' eniautou* (fr. 30) ; Hésychius, entrée *doryphonon* (fr. 31) ; Photios et Souda, *rhagdaious* (fr. 32). Les variantes et restitutions sont discutées dans Bagordo ; **les manuscrits individuels n'ont pas été examinés**.
+5. Aristote (attribué), *Constitution des Athéniens* 43.2–4 ; Aristophane, *Acharniens* 19–42 ; *Guêpes* 836 et contexte ; Thucydide I, 6 et I, 135–138 : sources de contexte et comparaisons, **pas des fragments de Téléclidès**.
+
+**Études [B] :**
+
+6. P. J. Rhodes, *The Athenian Boule*, Oxford, 1972 ; *A Commentary on the Aristotelian Athenaion Politeia*, Oxford, 1981 (réimpr. et rééd.) : institutions athéniennes.
+7. Ian C. Storey, *Fragments of Old Comedy*, 3 vol., Loeb Classical Library, Cambridge, Mass., 2011 : répertoire et traduction, référence bibliographique, **non collationné ici dans son intégralité**.
+8. Jean-Pierre Vernant, *Les Origines de la pensée grecque*, Paris, 1962 ; *Mythe et pensée chez les Grecs*, Paris, 1965.
+9. Marcel Détienne, *Les Maîtres de vérité dans la Grèce archaïque*, Paris, 1967 ; *L'Invention de la mythologie*, Paris, 1981.
+10. G. W. F. Hegel, *Principes de la philosophie du droit*, 1821 ; Friedrich Nietzsche, *La Naissance de la tragédie*, 1872 : comparaisons explicitement modernes.
+11. Georges Dumézil, *Mythe et épopée*, I–III, Paris, 1968–1973 : référence méthodologique mentionnée pour expliquer la non-applicabilité d'une reconstruction trifonctionnelle au dossier.
+
+**Méthode de référence.** Les renvois aux pages du site numérique de Heidelberg correspondent à des unités de pagination inspectées au cours de la préparation. Aucun vers grec complet non vérifié n'est reconstitué, aucune attribution incertaine n'est convertie en fait, aucune fiction [C] n'est présentée comme fragment.
+
+### XLVI. Renvois et continuité éditoriale
+
+- Dossier précédent du même poète : [Téléclidès, *Amphiktyones* — étude déjà numérotée](/chapitres/comedies/volume-063-telekleides-amphiktyones-age-or-politique-abondance/).
+- Catalogue et numérotation des collections : [Sommaire des collections](/collections-numerotees/).
+- Portail du théâtre grec : [Théâtre](/theatre/).
+- [Recherche intégrale](/recherche/).
+
+**Note de production.** Le numéro indiqué dans le titre du présent chapitre est une **variable éditoriale** et non une réservation. GitHub Actions attribue le numéro décimal et romain ensemble, à partir du dernier état de la branche main, puis crée le manuscrit et son reçu. L'entrée dans la file publique ne constitue pas encore un déploiement sur bobmythos.fr. Aucun fichier antérieur ni aucun matériau privé ne sont modifiés par ce manuscrit.
