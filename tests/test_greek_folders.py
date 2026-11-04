@@ -129,7 +129,7 @@ class GreekFolderTests(unittest.TestCase):
                 self.assertEqual(str(second_doc.article), second_article)
                 second_topic = second_doc.select_one('a.greek-folder-return-topic')
                 self.assertEqual(second_topic['href'], BASE+'cultes-sanctuaires/#theme-2')
-                self.assertIn('Bendis', second_topic.get_text(' ', strip=True))
+                self.assertIn('Cultes thraces', second_topic.get_text(' ', strip=True))
                 self.assertIsNotNone(thematic.select_one('#theme-2 a[href="'+second_url+'"]'))
                 self.assertIsNotNone(thematic.select_one('nav.greek-folder-toc a[href="#theme-2"]'))
                 self.assertIn('scroll-margin-top:115px',
