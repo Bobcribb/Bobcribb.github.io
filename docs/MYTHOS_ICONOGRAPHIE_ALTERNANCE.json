@@ -5,44 +5,41 @@
   "branch": "main",
   "latest_session": {
     "date": "2026-11-04",
-    "kind": "AUDIT ET CORRECTION",
-    "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "scope": "Audit post-iconographique des trois monographies philosophiques et protection du contrôle public de trois nouveaux WebP du Met, ajoutés lors de la dernière séance concurrente.",
-    "basis_commit": "acfdeb901282ff25993a4803c68e7efd78822575",
-    "audited_pages": 3,
-    "html_ids_checked": 332,
-    "internal_anchors_checked": 335,
-    "duplicate_ids": 0,
-    "broken_local_anchors": 0,
-    "img_elements_checked": 72,
-    "img_without_alt": 0,
-    "verification_source": "Les trois nouvelles figures existent dans les pages source sur main, avec notices, datations et statut d'artefact ancien ou de peinture de réception moderne. L'alternance a changé pendant la préparation : une séance d'enrichissement tierce a été enregistrée, puis la présente séance est basculée vers l'audit comme requis.",
-    "checked_figures": [
+    "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "previous_kind": "AUDIT ET CORRECTION",
+    "next_kind": "AUDIT ET CORRECTION",
+    "scope": "Trois images institutionnelles déjà conservées et vérifiées dans le dépôt, insérées dans les trois livres grecs existants, en distinguant constamment texte homérique, réception moderne et artefacts postérieurs.",
+    "base_commit": "d2f066d2712d2d350806cb4f599bc00e86b9ffa2",
+    "checked_html_pages": 3,
+    "checked_html_ids": 146,
+    "checked_same_page_fragments": 92,
+    "checked_html_images": 23,
+    "added_figures": [
       {
-        "page": "philosophie-iliade.html",
-        "id": "icono-iliade-rembrandt-aristote-homere-met-437394-20261104",
-        "src": "/assets/illustrations-articles/met-437394-aristote-homere-rembrandt.webp"
+        "page": "livre-iliade-scenes/index.html",
+        "id": "icono-iliade-enee-virgile-distinction-20261104",
+        "asset": "/assets/illustrations-articles/met-199612-enee-fuite-troie-email.webp",
+        "met_id": 199612
       },
       {
-        "page": "philosophie-odyssee.html",
-        "id": "icono-odyssee-persephone-enfers-met-252973-20261104",
-        "src": "/assets/illustrations-articles/met-252973-persephone-retour-enfers.webp"
+        "page": "livre-odyssee/index.html",
+        "id": "icono-odyssee-hermes-bronze-met-246679-20261104",
+        "asset": "/assets/illustrations-articles/met-246679-hermes-bronze-aile.webp",
+        "met_id": 246679
       },
       {
-        "page": "philosophie-theogonie.html",
-        "id": "icono-theogonie-nike-styx-met-247903-20261104",
-        "src": "/assets/illustrations-articles/met-247903-nike-terre-cuite.webp"
+        "page": "livre-hesiode/index.html",
+        "id": "icono-hesiode-promethee-bartolozzi-1795-20261104",
+        "asset": "/assets/illustrations-articles/met-680363-promethee-bartolozzi.webp",
+        "met_id": 680363
       }
     ],
-    "verified_gap": "scripts/verify_live_site.py contrôlait 11 figures sur 6 pages mais n'incluait pas les trois derniers documents du Met. Un déploiement sans ces figures pouvait passer les contrôles individuels.",
-    "correction": "Élargir RECENT_FIGURES à 14 figures sur 6 pages et vérifier leurs notices HTML, crédits, alt, statuts documentaires, signature WebP et octets SHA-256. Étendre les tests de régression : simulation de la disparition de Nikè et altération des octets du Rembrandt.",
-    "test_note": "Assertions passées de 11 à 14 médias, 17 à 20 vérifications page/média, tout en conservant le compte réel de six pages. Tests Python à vérifier via GitHub Actions ; aucune réussite anticipée.",
-    "public_receipt": "Lecture HTTPS indépendante : https://bobmythos.fr/catalog/publication-verification.json annonce source_commit=8cb0a3619b4b5ff7ffe8579c0b1cb73927bbabdc, github_run_id=41816891108. Les trois nouvelles figures sont absentes des pages publiques consultées ; déploiement de la dernière séance non confirmé.",
-    "preservation": "Aucun texte scientifique, page HTML, image, attribution, registre de numérotation, navigation, script de build, autre workflow ni horaire d'automatisation modifié.",
-    "obstacles": "Rendu mobile et pagination des PDF A4 non vérifiés lors de cet audit; absence de preuve de publication publique du dernier commit. La forte concurrence de commits annule plusieurs runs de publication.",
-    "commits": [],
-    "commit_note": "Commit atomique du vérificateur, des tests et du registre d'alternance ; SHA confirmé par GitHub."
+    "sources": "Metropolitan Museum of Art : inv. 45.60.3 (Limoges, vers 1530–1535), inv. 97.22.1 (statuette grecque ou romaine d’Hermès, Ier siècle av. – IIe siècle apr. J.-C.) et inv. 62.557.193 (Bartolozzi d’après Michel-Ange, 1795). Les 3 images WebP et la provenance CC0 étaient déjà présentes dans assets/illustrations-articles/sources-met.json.",
+    "verification": "Précommit : 3 pages relues sur main, ancrages internes #, IDs et alt sans erreurs repérées ; 3 images documentées et uniques par page ; insertions uniquement après le paragraphe de référence du chapitre indiqué, sans changement des textes d’origine. Régression Python ajoutée et destinée à CI.",
+    "integrity": "Aucune création de chapitre numéroté, aucune modification de registre, de navigation, de CSS/JS, de médias, d'automatisations ou de leurs horaires.",
+    "public_deployment": "Non confirmé : cette séance ne prouve aucune mise en ligne HTTPS ni pagination A4, examen séparé de GitHub Actions nécessaire.",
+    "notes": "La séance précédente sur main est AUDIT ET CORRECTION ; prochaine séance AUDIT ET CORRECTION, sans deux séances de même type consécutives.",
+    "commits": []
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
   "history": [
@@ -1194,6 +1191,44 @@
       "obstacles": "Rendu mobile et pagination des PDF A4 non vérifiés lors de cet audit; absence de preuve de publication publique du dernier commit. La forte concurrence de commits annule plusieurs runs de publication.",
       "commits": [],
       "commit_note": "Commit atomique du vérificateur, des tests et du registre d'alternance ; SHA confirmé par GitHub."
+    },
+    {
+      "date": "2026-11-04",
+      "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "previous_kind": "AUDIT ET CORRECTION",
+      "next_kind": "AUDIT ET CORRECTION",
+      "scope": "Trois images institutionnelles déjà conservées et vérifiées dans le dépôt, insérées dans les trois livres grecs existants, en distinguant constamment texte homérique, réception moderne et artefacts postérieurs.",
+      "base_commit": "d2f066d2712d2d350806cb4f599bc00e86b9ffa2",
+      "checked_html_pages": 3,
+      "checked_html_ids": 146,
+      "checked_same_page_fragments": 92,
+      "checked_html_images": 23,
+      "added_figures": [
+        {
+          "page": "livre-iliade-scenes/index.html",
+          "id": "icono-iliade-enee-virgile-distinction-20261104",
+          "asset": "/assets/illustrations-articles/met-199612-enee-fuite-troie-email.webp",
+          "met_id": 199612
+        },
+        {
+          "page": "livre-odyssee/index.html",
+          "id": "icono-odyssee-hermes-bronze-met-246679-20261104",
+          "asset": "/assets/illustrations-articles/met-246679-hermes-bronze-aile.webp",
+          "met_id": 246679
+        },
+        {
+          "page": "livre-hesiode/index.html",
+          "id": "icono-hesiode-promethee-bartolozzi-1795-20261104",
+          "asset": "/assets/illustrations-articles/met-680363-promethee-bartolozzi.webp",
+          "met_id": 680363
+        }
+      ],
+      "sources": "Metropolitan Museum of Art : inv. 45.60.3 (Limoges, vers 1530–1535), inv. 97.22.1 (statuette grecque ou romaine d’Hermès, Ier siècle av. – IIe siècle apr. J.-C.) et inv. 62.557.193 (Bartolozzi d’après Michel-Ange, 1795). Les 3 images WebP et la provenance CC0 étaient déjà présentes dans assets/illustrations-articles/sources-met.json.",
+      "verification": "Précommit : 3 pages relues sur main, ancrages internes #, IDs et alt sans erreurs repérées ; 3 images documentées et uniques par page ; insertions uniquement après le paragraphe de référence du chapitre indiqué, sans changement des textes d’origine. Régression Python ajoutée et destinée à CI.",
+      "integrity": "Aucune création de chapitre numéroté, aucune modification de registre, de navigation, de CSS/JS, de médias, d'automatisations ou de leurs horaires.",
+      "public_deployment": "Non confirmé : cette séance ne prouve aucune mise en ligne HTTPS ni pagination A4, examen séparé de GitHub Actions nécessaire.",
+      "notes": "La séance précédente sur main est AUDIT ET CORRECTION ; prochaine séance AUDIT ET CORRECTION, sans deux séances de même type consécutives.",
+      "commits": []
     }
   ]
 }
