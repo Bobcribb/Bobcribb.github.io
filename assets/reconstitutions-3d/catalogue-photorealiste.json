@@ -2,7 +2,7 @@
   "generated_at": "2026-11-04",
   "site": "bobmythos.fr",
   "method": "Illustrations photoréalistes interprétatives, textes et sources hors des pixels.",
-  "count": 33,
+  "count": 34,
   "entries": [
     {
       "id": "DEL-PAN-001",
@@ -641,6 +641,29 @@
       "provenance": "Image originale assistée par IA ; les institutions citées documentent le monument mais ne valident pas cette image.",
       "sha256": "aa5556e3a58307d5ffc27a48f38f33093823a574a05dd901a9d30f2ba3521079",
       "scientific_notice": "/assets/reconstitutions-3d/notices/naxos-sangri-demeter-temple-archaique.json"
+    },
+    {
+      "id": "AIG-PAL-001",
+      "slug": "aigai-palais-philippe-ii-peristyle-panorama",
+      "title": "Aigai (Vergina) — palais de Philippe II et grande cour à péristyle",
+      "period": "Évocation vers 340–336 av. J.-C. (Macédoine classique, règne de Philippe II)",
+      "caption": "Vue panoramique 3D photoréaliste interprétative d’une galerie à colonnes doriques du palais royal d’Aigai, ouverte sur la grande cour et ses salles de réception décorées de mosaïques.",
+      "commentary": "Le palais d’Aigai, édifié au milieu du IVe siècle av. J.-C. et achevé avant la mort de Philippe II en 336, occupait une terrasse monumentale de la capitale macédonienne. La grande cour carrée, d’environ 4 000 m², était ceinte d’un péristyle comptant seize colonnes doriques par côté ; les pièces périphériques comprennent des salles de réception et des sols en mosaïque. Une façade publique orientale à deux niveaux, dont le rez-de-chaussée était dorique et l’étage ionique, encadrait un propylon monumental. La présente image évoque les galeries et les matériaux d’un complexe intact ; elle ne reproduit pas le plan exact du palais. En particulier, elle juxtapose visuellement un corps de bâtiment à deux étages à l’intérieur d’une cour et donne à celle-ci un dallage complet, choix qui ne sont pas établis pour cette position et cette phase. L’apparence exacte des murs, des couvertures, des menuiseries, du mobilier et de la polychromie, ainsi que les dimensions de la mosaïque figurée au premier plan, sont interprétatives. Les institutions citées documentent les vestiges et la chronologie, mais ne valident pas cette scène.",
+      "certainty": "Élevée : implantation du palais royal à Aigai, construction sous Philippe II, vaste cour carrée à péristyle dorique, mosaïques dans certaines salles. Moyenne : matériaux et volumes généraux des portiques, présence d’un dispositif monumental à deux étages sur la façade orientale. Faible : bâtiment à deux étages visible depuis cette cour, cour intégralement pavée, galeries exactes, tonalités, plafonds, mosaïques représentées, toitures et paysage.",
+      "source_url": "https://culturalegnatia.culture.gov.gr/en/route-stops/aigai/",
+      "secondary_sources": [
+        "https://whc.unesco.org/fr/list/780",
+        "https://www.hh.gr/en/destinations/aigai/",
+        "https://www.culture.gov.gr/el/Information/SitePages/view.aspx?nID=4830"
+      ],
+      "src": "/assets/reconstitutions-3d/aigai-palais-philippe-ii-peristyle-panorama.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-04",
+      "type": "nouveau panorama 3D photoréaliste interprétatif non métrique",
+      "provenance": "Création originale MYTHOS assistée par IA. Sources archéologiques indépendantes, sans validation institutionnelle de la composition.",
+      "sha256": "3cb30cbf8ff7807043c38ccf63b2d84dad42893b0e619598594e594730dad77b",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/aigai-palais-philippe-ii-peristyle-panorama.json"
     }
   ]
 }
