@@ -5,53 +5,77 @@
   "branch": "main",
   "latest_session": {
     "date": "2026-11-04",
-    "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "previous_kind": "AUDIT ET CORRECTION",
-    "next_kind": "AUDIT ET CORRECTION",
-    "scope": "Enrichissement ciblé de trois études déjà présentes : quatre moments de Priam et Achille (Iliade XXIV), lit d'olivier et signe de reconnaissance (Odyssée XXIII), conservation des parts honorifiques d'Hécate (Théogonie 411–452).",
-    "checked_html_pages": 3,
-    "source_illustrations_added": 3,
-    "html_figures_added": 3,
-    "monograph_image_counts_before": {
-      "Iliade": 16,
-      "Odyssée": 15,
-      "Théogonie": 18
-    },
-    "monograph_image_counts_after": {
-      "Iliade": 17,
-      "Odyssée": 16,
-      "Théogonie": 19
-    },
-    "new_assets": [
-      "assets/philosophie/iliade-priam-gestes-paix-20261104.svg",
-      "assets/philosophie/odyssee-lit-olivier-signe-20261104.svg",
-      "assets/philosophie/theogonie-hecate-parts-20261104.svg"
-    ],
-    "modified_pages": [
-      "philosophie-iliade.html",
-      "philosophie-odyssee.html",
-      "philosophie-theogonie.html"
-    ],
-    "primary_references": [
-      "Homère, Iliade XXIV, 477–516, 580–601, 656–672 (texte vérifié : https://www.theoi.com/Text/HomerIliad24.html)",
-      "Homère, Odyssée XXIII, 177–230 (texte vérifié : https://www.theoi.com/Text/HomerOdyssey23.html)",
-      "Hésiode, Théogonie 411–452 (texte vérifié : https://www.theoi.com/Text/HesiodTheogony.html)"
-    ],
-    "verification": "Les trois SVG créés puis relus sur main. Les trois HTML ont été relus après commit et correspondent aux contenus enregistrés. Aucune ancre interne manquante, aucun id HTML dupliqué, aucun img sans alt ; présence vérifiée sur main pour les trois nouveaux chemins SVG. SVG 2D, sans perspective 2,5D, avec <title> et <desc>, légendes, sources, datation et mention d'assistance IA. CSS mythos-iconographie.css contrôlé : images à width:100%; height:auto et règles @media. Estimation texte HTML sans balises : Iliade 53 182, Odyssée 51 250, Théogonie 51 796 mots. Pagination PDF A4 non rerendue.",
-    "public_deployment_status": "Contrôle HTTPS indépendant du 4 novembre 2026 : https://bobmythos.fr/catalog/publication-verification.json indique source_commit=b1656386717c0f57ff76104701ca20db5672a870, github_run_id=41780843588, 1182 documents indexés, 27 archives, 110 médias. Les trois nouveaux SVG renvoient HTTP 404 sur bobmythos.fr au moment du contrôle (pas encore déployés publiquement). Impossible de confirmer la publication des six commits.",
-    "content_preserved": "Textes des études, sommaires, navigation, numérotations, registres d'attribution et automatisations inchangés ; insertion de trois figures et trois nouveaux fichiers iconographiques uniquement, puis mise à jour du journal.",
-    "obstacles": "Le reçu public correspond à un commit antérieur aux ajouts de cette séance ; 3 SVG publics encore 404. Suite de tests Python, build complet, rendu multi-écrans et pagination PDF A4 non exécutés pendant cette séance. Web direct inaccessible, vérification HTTPS de secours via navigateur tiers.",
+    "kind": "AUDIT ET CORRECTION",
+    "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "scope": "Audit GitHub sur main de 14 pages dont accueil, Origines du sacré, trois monographies philosophiques et dix autres portails ; vérification HTTPS indépendante des trois SVG jadis en 404 ; correction pérenne de la hiérarchie H1/H2 d'Origines du sacré, en source de génération et page produite.",
+    "checked_html_pages": 14,
+    "checked_internal_anchors": 442,
+    "checked_img_elements": 83,
+    "broken_internal_anchors_detected": 0,
+    "duplicate_html_ids_detected": 0,
+    "img_without_alt_detected": 0,
+    "verified_errors_corrected": 1,
+    "correction": "Le générateur scripts/build_navigation.py insérait un H1 supplémentaire « Origines du sacré » au début de div.origins-archives, en plus du H1 du bandeau. Le H1 secondaire est devenu H2, dans la source du générateur et dans origines-du-sacre/index.html. Titre et dossiers conservés. Un test de régression dédié a été ajouté à tests/test_site_audit_fixes.py.",
+    "checks": "Les trois SVG (Priam/Achille, lit d'olivier, Hécate) sont servis en HTTPS sur bobmythos.fr avec légendes et identification IA ; 52 balises img des monographies avec alt, aucun ID HTML dupliqué ni ancre # manquante dans les 14 pages contrôlées. Les 13 SVG référencés par l'Iliade, 12 par l'Odyssée et 15 par la Théogonie existent dans assets/philosophie sur main. Les fichiers CSS/JS communs des monographies existent. La page Origines relue après commit contient un unique H1 de bandeau et un H2 de section.",
+    "public_deployment_status": "Contrôle HTTPS du 4 novembre 2026 via récupération directe du domaine : les trois SVG du précédent lot sont accessibles. /catalog/publication-verification.json annonce source_commit=58f927d10c9addce41e7597d5d5da83ac052d3e8, github_run_id=41782722801, 1185 documents indexés, 27 archives, 110 médias. Ce reçu ne prouve pas le déploiement des correctifs H1/H2 de cette séance.",
+    "content_preserved": "Textes scientifiques, sommaires, liens, numérotations, registres d'attribution, images et planifications inchangés. Seule la balise de niveau du titre secondaire a été corrigée, et un test ajouté.",
+    "obstacles": "CI GitHub Actions soumise à de nombreux pushes concurrents ; des exécutions en attente sont annulées. Test de régression ajouté mais suite Python intégrale non exécutée dans cette séance ; rendu visuel multi-écrans, liens externes exhaustifs et pagination A4 non recalculés. Publication publique du correctif non confirmée.",
     "commits": [
-      "67759b212a565ade48c8fa4d0a473cc5969aa409",
-      "22f719953e18b9640eb40d7f5a47f4398140d45b",
-      "9b628e1d739361b6f5f1ff9ae0b3ca58cd205860",
-      "c0abc9a96cc9aff43a7680427c5f099e9a7a6e43",
-      "d45d867cecc5dae338bbe46ab5a0a3bf6ecd7792",
-      "2396b510e52d5ed8b392cc22b49a68ab6338123d"
+      "79e52d8a7c74f9a07a5d6a386ae166253ed7a4f9",
+      "6166128552ed7442a18d8040d1f860e216d08e93",
+      "addebdc515038cbb94f4659fa5c601fc752a9a96"
     ]
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
   "history": [
+    {
+      "date": "2026-11-04",
+      "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "previous_kind": "AUDIT ET CORRECTION",
+      "next_kind": "AUDIT ET CORRECTION",
+      "scope": "Enrichissement ciblé de trois études déjà présentes : quatre moments de Priam et Achille (Iliade XXIV), lit d'olivier et signe de reconnaissance (Odyssée XXIII), conservation des parts honorifiques d'Hécate (Théogonie 411–452).",
+      "checked_html_pages": 3,
+      "source_illustrations_added": 3,
+      "html_figures_added": 3,
+      "monograph_image_counts_before": {
+        "Iliade": 16,
+        "Odyssée": 15,
+        "Théogonie": 18
+      },
+      "monograph_image_counts_after": {
+        "Iliade": 17,
+        "Odyssée": 16,
+        "Théogonie": 19
+      },
+      "new_assets": [
+        "assets/philosophie/iliade-priam-gestes-paix-20261104.svg",
+        "assets/philosophie/odyssee-lit-olivier-signe-20261104.svg",
+        "assets/philosophie/theogonie-hecate-parts-20261104.svg"
+      ],
+      "modified_pages": [
+        "philosophie-iliade.html",
+        "philosophie-odyssee.html",
+        "philosophie-theogonie.html"
+      ],
+      "primary_references": [
+        "Homère, Iliade XXIV, 477–516, 580–601, 656–672 (texte vérifié : https://www.theoi.com/Text/HomerIliad24.html)",
+        "Homère, Odyssée XXIII, 177–230 (texte vérifié : https://www.theoi.com/Text/HomerOdyssey23.html)",
+        "Hésiode, Théogonie 411–452 (texte vérifié : https://www.theoi.com/Text/HesiodTheogony.html)"
+      ],
+      "verification": "Les trois SVG créés puis relus sur main. Les trois HTML ont été relus après commit et correspondent aux contenus enregistrés. Aucune ancre interne manquante, aucun id HTML dupliqué, aucun img sans alt ; présence vérifiée sur main pour les trois nouveaux chemins SVG. SVG 2D, sans perspective 2,5D, avec <title> et <desc>, légendes, sources, datation et mention d'assistance IA. CSS mythos-iconographie.css contrôlé : images à width:100%; height:auto et règles @media. Estimation texte HTML sans balises : Iliade 53 182, Odyssée 51 250, Théogonie 51 796 mots. Pagination PDF A4 non rerendue.",
+      "public_deployment_status": "Contrôle HTTPS indépendant du 4 novembre 2026 : https://bobmythos.fr/catalog/publication-verification.json indique source_commit=b1656386717c0f57ff76104701ca20db5672a870, github_run_id=41780843588, 1182 documents indexés, 27 archives, 110 médias. Les trois nouveaux SVG renvoient HTTP 404 sur bobmythos.fr au moment du contrôle (pas encore déployés publiquement). Impossible de confirmer la publication des six commits.",
+      "content_preserved": "Textes des études, sommaires, navigation, numérotations, registres d'attribution et automatisations inchangés ; insertion de trois figures et trois nouveaux fichiers iconographiques uniquement, puis mise à jour du journal.",
+      "obstacles": "Le reçu public correspond à un commit antérieur aux ajouts de cette séance ; 3 SVG publics encore 404. Suite de tests Python, build complet, rendu multi-écrans et pagination PDF A4 non exécutés pendant cette séance. Web direct inaccessible, vérification HTTPS de secours via navigateur tiers.",
+      "commits": [
+        "67759b212a565ade48c8fa4d0a473cc5969aa409",
+        "22f719953e18b9640eb40d7f5a47f4398140d45b",
+        "9b628e1d739361b6f5f1ff9ae0b3ca58cd205860",
+        "c0abc9a96cc9aff43a7680427c5f099e9a7a6e43",
+        "d45d867cecc5dae338bbe46ab5a0a3bf6ecd7792",
+        "2396b510e52d5ed8b392cc22b49a68ab6338123d"
+      ]
+    },
     {
       "date": "2026-11-04",
       "kind": "AUDIT ET CORRECTION",
