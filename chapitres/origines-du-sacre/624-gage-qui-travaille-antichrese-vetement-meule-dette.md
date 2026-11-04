@@ -1,0 +1,173 @@
+# MYTHOS — Les Origines du sacré — Tome DCXXIV, chapitre 624
+## Le gage qui travaille : antichrèse, servitude et protection du manteau et de la meule dans les droits anciens
+
+*Dossier universitaire sur les sûretés productives, l'asservissement pour dette, la philologie juridique et les limites religieuses du droit de saisir. Ce chapitre n'est ni une reprise des garanties foncières de Sardes ni un commentaire général du jubilé. Toutes les références aux paragraphes antiques conservent leur numérotation originelle.*
+
+### 1. Le problème : lorsqu'une sûreté produit des revenus
+
+Une dette peut être garantie par un objet qui reste inutilisé chez le créancier ou par un bien dont la valeur d'usage est prélevée pendant la durée du prêt. La seconde configuration transforme la garantie en mécanisme de production. Le débiteur ne doit pas seulement une somme : il peut perdre temporairement un travailleur, une récolte ou un outil.
+
+L'étude se concentre sur cette tension, distincte de l'analyse des garanties immobilières de Sardes déjà présente dans MYTHOS : qui bénéficie du travail du gage et comment empêcher que l'obligation détruise les moyens mêmes du remboursement ? La réponse varie selon les textes, les sociétés et le statut des personnes.
+
+### 2. Définir l'antichrèse sans projeter le droit moderne
+
+Le mot français « antichrèse » est une catégorie analytique issue de l'histoire juridique. Il désigne, dans le contexte ici étudié, la jouissance d'un bien affecté à la garantie d'une dette, parfois à la place du paiement d'intérêts. Il ne faut pas supposer que chaque tablette emploie un terme akkadien équivalent à cette institution moderne.
+
+La distinction est importante : une sûreté peut protéger le capital sans donner au créancier un revenu ; une sûreté antichrétique lui permet d'exploiter une capacité de travail ou de production. L'effet distributif dépend de la durée, de la valeur d'usage et des clauses de retour.
+
+### 3. La tablette du British Museum publiée par Spada en 2023
+
+Gabriella Spada a publié dans *Oriens Antiquus* V (2023), p. 115–118, un contrat paléo-babylonien conservé au British Museum. Il enregistre un prêt d'argent garanti par un esclave mis au travail chez le créancier à la place des intérêts. La notice de la publication qualifie explicitement l'opération d'« antichretic pledge ». [P1]
+
+Le fait documenté est donc précis : une personne asservie fournit une prestation dont bénéficie le créancier pendant que la dette demeure. Le résumé disponible ne livre pas ici le nom des parties, la durée complète ni l'évaluation économique de cette prestation : nous ne les inventerons pas.
+
+### 4. Le travail comme équivalent économique de l'intérêt
+
+Pour le créancier, l'intérêt peut être reçu en métal ou en grain ; il peut aussi, dans certains montages, être remplacé par l'usage d'un bien ou la force de travail d'une personne. L'absence d'un intérêt monétaire expressément stipulé ne signifie donc pas que le prêt soit gratuit.
+
+Ce mécanisme pose un problème de comparaison des valeurs : combien rapporte le travail du gage, qui le nourrit, et ce rendement excède-t-il ou non l'intérêt habituel ? Sans données sur les rations, la durée et les obligations de soin, aucun taux implicite rigoureux ne peut être calculé.
+
+### 5. Le débiteur et le tiers donné en gage
+
+Il faut distinguer le débiteur qui reçoit l'argent, le créancier qui obtient la jouissance du travail et la personne asservie affectée en garantie. Le troisième acteur ne se réduit pas à une colonne du contrat : son activité rend possible la rémunération de la créance.
+
+Cette triangulation interdit une représentation purement bilatérale de la dette. Une dette d'un maître peut peser sur un individu qui n'a pas contracté lui-même l'obligation. Reconnaître ce fait ne permet cependant pas de reconstituer son expérience personnelle sans témoignage.
+
+### 6. Statut juridique et violence structurelle
+
+Le dossier de Spada concerne explicitement un esclave donné en gage, non un homme libre offrant volontairement des journées de travail. Confondre ces situations produirait une erreur historique grave. La capacité d'un propriétaire à engager le travail d'autrui dans une transaction présuppose des rapports de pouvoir.
+
+Le document ne raconte pas nécessairement une scène de violence physique ; la contrainte réside déjà dans le statut juridique et l'appropriation du travail. L'analyse anthropologique doit distinguer violence institutionnelle, incidents judiciaires documentés et reconstitutions imaginaires.
+
+### 7. Corpus comparatif : contrats modèles de Nippur
+
+Gabriella Spada et William W. Hallo ont publié en 2024 vingt tablettes fragmentaires de contrats modèles sumériens provenant de Nippur et conservées à Istanbul. Le corpus comprend des prêts d'argent ou d'orge, parfois associés à des garanties antichrétiques portant sur esclaves, champs, jardins ou argent. [P2]
+
+Le caractère scolaire ou modélisant de ces textes est décisif. Un formulaire-type atteste l'existence d'une solution documentaire enseignée ou codifiée ; il ne compte pas automatiquement comme une transaction réellement exécutée. La transmission des modèles montre néanmoins que ces mécanismes faisaient partie d'un répertoire connu.
+
+### 8. Gage humain et gage foncier : des capacités productives différentes
+
+Le travail d'une personne asservie, les récoltes d'un champ et les fruits d'un jardin sont des ressources de nature différente. Leur mise en garantie permet au créancier de bénéficier d'une production pendant l'attente du remboursement.
+
+Le champ peut, selon les contrats, demeurer dans le patrimoine du débiteur alors que ses produits sont captés par l'autre partie. Une personne asservie, elle, peut être déplacée et soumise à des contraintes immédiates. Les trois variantes ne doivent pas être fusionnées dans une notion abstraite et indifférenciée de « bien rentable ».
+
+### 9. Une garantie peut empêcher de rembourser
+
+L'antichrèse protège le créancier, mais elle peut retirer au débiteur une partie de ses moyens de produire le principal dû. Perdre l'usage d'un champ ou le travail d'un membre de l'unité domestique est potentiellement coûteux, même lorsque les intérêts explicites sont réduits.
+
+Le document ne prouve pas automatiquement que cet effet se soit produit dans le cas du British Museum. Il permet de formuler une question testable : les contrats offrant une jouissance prolongée au créancier sont-ils associés à davantage de défauts ou de renouvellements ? Il faudrait des séries d'archives familiales pour répondre.
+
+### 10. Ce que disent les Lois de Hammurabi §117
+
+La section 117 du recueil de Hammurabi envisage l'asservissement pour dettes de l'épouse et des enfants ou du débiteur lui-même, et prévoit trois années de service, puis la libération la quatrième. La traduction de John Huehnergard est présentée sur eHammurabi avec localisation du passage sur la stèle. [P3]
+
+Cette norme ne doit pas être assimilée au contrat publié par Spada : l'un porte sur la durée prescrite d'un service pour dette, l'autre sur une garantie constituée par une personne déjà asservie. L'analogie porte sur le travail humain lié au crédit, non sur une identité de statut.
+
+### 11. Un recueil juridique n'est pas une statistique
+
+Le §117 atteste une formulation normative ; il ne démontre pas que chaque tribunal de Babylonie libérait uniformément les personnes après exactement trois années. Des actes individuels, des lettres et des décisions judiciaires sont nécessaires pour écrire l'histoire de l'application.
+
+De même, l'existence d'un contrat antichrétique ne prouve pas la fréquence de cette technique dans toutes les régions. Il faut tenir séparées prescription royale, formulaire de contrat, acte exécuté et cas réel de conflit.
+
+### 12. Exode 22 : un manteau ne peut pas être retenu la nuit
+
+Exode 22:25–27 selon certaines numérotations, 22:24–26 dans la tradition hébraïque, interdit de tirer intérêt d'un prêt au pauvre et ordonne de restituer avant le coucher du soleil son vêtement donné en gage. Le texte invoque explicitement le besoin corporel du débiteur et la compassion divine. [P4]
+
+Le manteau est une garantie juridiquement saisissable mais matériellement nécessaire pour dormir. La norme n'abolit pas toute sûreté ; elle limite l'exercice du droit du créancier lorsque l'objet est indispensable à la survie quotidienne.
+
+### 13. Deutéronome 24 : ne pas entrer chez le débiteur
+
+Deutéronome 24:10–13 exige que le créancier reste dehors lorsque le débiteur apporte le gage ; il prescrit également la restitution du manteau avant la nuit au pauvre. [P5] Cette disposition protège plus que le revenu : elle réglemente l'intrusion physique du prêteur dans la maison.
+
+La porte du domicile devient une frontière juridique. La dette existe, mais l'autorité du créancier n'est pas sans limites spatiales. La comparaison avec la tablette mésopotamienne ne permet pas d'établir une filiation directe ; elle révèle deux choix normatifs pour organiser le rapport de force.
+
+### 14. La meule : le gage qui détruit le travail
+
+Deutéronome 24:6 interdit de prendre en gage les meules ou même la meule supérieure parce qu'une telle saisie atteint la subsistance. [P5] L'image est économiquement précise : retenir l'outil qui permet de préparer une nourriture quotidienne compromet l'activité même dont dépend la vie du ménage.
+
+Le texte ne calcule pas les intérêts d'un prêt et ne développe pas une théorie de l'efficience. Il pose une limite de principe au droit du créancier : tout objet possédé par le débiteur ne doit pas devenir disponible pour garantir une créance.
+
+### 15. L'économie morale du gage selon la Torah
+
+Dans Exode et Deutéronome, la protection se matérialise dans des objets : vêtement, meule, maison. Le sacré n'agit pas en effaçant abstraitement tout rapport patrimonial, mais en imposant des restrictions pratiques, vérifiables, à ceux qui détiennent le pouvoir de saisir.
+
+Ces dispositions ne signifient pas que les communautés historiques les appliquaient toujours. Elles attestent une norme rédactionnelle et sa justification théologique. L'écart entre prescription et pratique fait partie de l'histoire, et ne doit pas être masqué par une lecture idéaliste.
+
+### 16. Néhémie 5 : protestation, restitution et serment
+
+Néhémie 5 associe la crise du grain, des terres et des impôts à la mise en dépendance de familles. Le récit rapporte une protestation publique, un appel à restituer certains biens et une promesse scellée par un serment devant les prêtres. [P6]
+
+Ce texte ne décrit pas le même mécanisme qu'un gage antichrétique, mais il illustre une contestation sociale des conséquences du crédit. Le récit a une dimension de justification politique ; il ne doit pas être utilisé comme relevé quantitatif de l'endettement de la province.
+
+### 17. Le statut des personnes et les limites de la comparaison
+
+Dans le contrat de Spada, un esclave assure le travail qui remplace les intérêts. Dans le §117 de Hammurabi, des membres de la famille sont engagés dans une forme particulière de service pour dette. Dans la Torah, le manteau et la meule sont précisément des objets dont la saisie menace la reproduction quotidienne de l'existence.
+
+Ces textes sont comparables par la question de la dépendance créée par le crédit, mais ils ne doivent pas être assimilés juridiquement. Les catégories de l'esclavage, de la parenté, de la propriété et de la liberté varient.
+
+### 18. Philologie : gage, intérêt, usage
+
+Le français « gage » aplatit des relations diverses : chose conservée comme sûreté, bien exploité par le créancier, personne donnée pour service temporaire. La philologie des formules contractuelles doit déterminer si la valeur d'usage remplace explicitement un intérêt et si une date de restitution est prévue.
+
+Dans les textes bibliques, l'expression hébraïque *nešek* renvoie à l'intérêt, tandis que le vocabulaire du gage décrit d'autres rapports. L'analyse lexicale ne suffit pas : c'est la combinaison des verbes, des parties et des obligations qui permet de reconstituer l'opération.
+
+### 19. Comparaison grecque : propriété et jugement moral de l'intérêt
+
+Aristote, *Politique* I, 10 (1258b), condamne le profit tiré du prêt à intérêt, *tokos*, au nom d'une conception de la destination naturelle de l'argent. Le passage éclaire une critique normative de l'accroissement de la monnaie par elle-même, non une description des garanties paléo-babyloniennes.
+
+La philosophie grecque fait donc apparaître un problème distinct : non seulement ce que le créancier peut saisir, mais aussi la légitimité de tirer un revenu de l'argent. La comparaison avec l'antichrèse rappelle toutefois qu'un revenu peut être perçu par l'usage d'une chose sans être formulé comme intérêt monétaire.
+
+### 20. Égypte, Iran, Inde, Chine : ne pas fabriquer des équivalences
+
+Les contrats démotiques d'Égypte permettent d'étudier des sûretés, mais leur contexte juridique, leurs supports et leurs agents ne sont pas identiques à ceux de Nippur. Les textes iraniens, indiens ou chinois sur obligations et répartition des ressources exigent chacun une étude chronologique et philologique spécifique.
+
+Une comparaison sérieuse devrait sélectionner des actes effectivement édités, datés, et définir si le créancier reçoit l'usage d'un gage. Faute de tels documents collationnés dans cette étude, il serait abusif de déclarer un système mondial commun de l'antichrèse sacrée.
+
+### 21. Durkheim et Mauss : la sûreté n'est pas un don
+
+Durkheim aide à penser l'efficacité collective des normes qui restreignent les créanciers. Mauss souligne la force sociale des transferts et des obligations de rendre. Mais une dette contractuelle garantie par une personne asservie ne devient pas un « don » parce qu'une divinité est invoquée ailleurs dans les textes.
+
+L'avantage de ces rapprochements est de rappeler que l'obligation a un environnement social. Leur limite est de ne pas fournir à eux seuls la qualification juridique d'un contrat ancien.
+
+### 22. Nietzsche : un corps pris dans l'économie de l'obligation
+
+La deuxième dissertation de Nietzsche, *Généalogie de la morale*, rapproche promesse, mémoire, dette et châtiment. Le prêt antichrétique fait apparaître une question autrement concrète : qui supporte matériellement la dette lorsqu'un humain travaille pour le créancier ?
+
+L'association conceptuelle n'est pas une preuve d'origine historique de la culpabilité. Elle doit rester au niveau d'une critique du coût corporel et social des mécanismes de garantie.
+
+### 23. Hegel : propriété, dépendance et reconnaissance
+
+Hegel distingue le contrat comme relation de volontés reconnues et les figures de dépendance qui peuvent priver une personne d'une pleine autonomie. Dans le dossier étudié, la prestation vient d'une personne asservie qui n'est pas nécessairement partie à l'acte : cette dissymétrie limite toute lecture du prêt comme simple échange entre deux volontés libres.
+
+L'analyse hégélienne permet donc de poser la question de la personne derrière la valeur économique. Elle n'efface pas la nécessité d'étudier les catégories anciennes de l'esclavage et de la propriété.
+
+### 24. Girard, Eliade, Vernant : éviter l'inflation des théories
+
+Le sacrifice chez Girard n'explique pas automatiquement un gage humain ; « personne donnée en garantie » ne signifie pas victime sacrificielle. Eliade éclaire certaines sacralisations mais ne détermine pas les clauses d'un prêt. Vernant et Detienne invitent, pour les sociétés grecques, à ne pas séparer rites et institutions de façon artificielle.
+
+La seule méthode probante demeure l'articulation entre texte, contexte d'archive, vocabulaire juridique et enquête sociale. Une théorie générale ne peut transformer une tablette lacunaire en scène rituelle détaillée.
+
+### 25. Faits, controverses et hypothèses
+
+**Attesté :** Spada (2023) édite un prêt d'argent avec esclave donné comme gage antichrétique ; Spada et Hallo (2024) publient des contrats modèles de Nippur mentionnant divers gages antichrétiques ; Hammurabi §117 prescrit trois années de service dans une situation définie d'asservissement pour dette ; Exode 22 et Deutéronome 24 limitent certaines saisies ; Néhémie 5 met en scène une protestation et un serment.
+
+**Controverses :** diffusion sociale de l'antichrèse, valeur effective du travail de l'esclave, application des normes royales et bibliques, fréquence des sûretés comparables. **Hypothèses testables :** des garanties productives peuvent rendre le crédit accessible tout en affaiblissant les capacités économiques du débiteur ; la restitution quotidienne du gage biblique vise à préserver son existence corporelle. Aucune valeur chiffrée n'est inventée.
+
+### 26. Conclusion : la sûreté a une limite humaine
+
+Le problème historique n'est pas seulement de savoir si l'emprunteur remboursera. Il est aussi de déterminer qui produit, qui perd l'usage de la ressource et quelle part des moyens de vie peut légitimement être immobilisée. Le contrat antichrétique paléo-babylonien et les protections bibliques ne répondent pas de la même manière, mais font apparaître cette même tension.
+
+Le dossier suivant pourra étudier plus spécialement l'intérêt comme catégorie morale et philologique : *nešek*, *tarbît*, *tokos* et les formes de rémunération cachée du capital, en distinguant doctrine religieuse, rhétorique philosophique et pratique archivistique.
+### Sources primaires et bibliographie critique vérifiées
+- **[P1] Gabriella Spada**, « A new Old Babylonian antichretic pledge », *Oriens Antiquus* V (2023), p. 115–118, DOI 10.19272/202313401006. Notice institutionnelle : https://iris.uniroma1.it/handle/11573/1700857 . L'édition intégrale et la photographie ne sont pas consultées ici ; les noms personnels et les lignes ne sont donc pas inventés.
+- **[P2] Gabriella Spada et William W. Hallo**, « Sumerian Model Contracts from the Old Babylonian Period in the Arkeoloji Müzeleri of Istanbul », *Journal of Cuneiform Studies* 76 (2024), p. 53–101, DOI 10.1086/730481 : https://www.journals.uchicago.edu/doi/abs/10.1086/730481 . Corpus de vingt modèles fragmentaires.
+- **[P3] Lois de Hammurabi §117**, traduction et localisation de John Huehnergard (2013, p. 95) via eHammurabi : https://www.ehammurabi.org/law/117.html .
+- **[P4] Exode 22:24–26 (numérotation hébraïque) / 22:25–27 selon d'autres éditions**, texte hébreu et traduction : https://voices.sefaria.org/sheets/708791 .
+- **[P5] Deutéronome 24:6, 10–13, 17**, comparaison de traductions : https://www.bible.com/bible/111/DEU.24.6%2C10-13%2C17.NIV .
+- **[P6] Néhémie 5:1–13**, texte et commentaire contextualisant les enjeux de restitution : https://bible.usccb.org/bible/nehemiah/5 .
+- **[P7] Aristote**, *Politique* I, 10, 1258a–1258b, critique de l'intérêt comme forme d'acquisition : https://erenow.org/ancient/the-politics/3.php .
+- **[R1] Dominique Charpin**, « Les dieux prêteurs dans le Proche-Orient amorrite », *Topoi* 12–13/1 (2005), p. 13–34, DOI 10.3406/topoi.2005.1989 : https://www.persee.fr/doc/topoi_1161-9473_2005_num_12_1_1989 .
+- **[R2] Gabriella Spada**, « Old Babylonian Temple Loans: An Assessment », *Rivista degli Studi Orientali* 97/4 (2024), p. 149–164, DOI 10.19272/202403804008 : https://iris.uniroma1.it/handle/11573/1729911 .
+- **[R3] Émile Durkheim**, *Les Formes élémentaires de la vie religieuse* (1912) ; **Marcel Mauss**, *Essai sur le don* (1925).
+- **[R4] Friedrich Nietzsche**, *La Généalogie de la morale* (1887), deuxième dissertation ; **G. W. F. Hegel**, *Principes de la philosophie du droit* (1821).
+- **[R5] Jean-Pierre Vernant**, *Mythe et pensée chez les Grecs* (1965) ; **Marcel Detienne**, *Les Jardins d'Adonis* (1972) ; **Mircea Eliade**, *Le Sacré et le Profane* (1957) ; **René Girard**, *La Violence et le sacré* (1972).

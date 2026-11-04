@@ -303,6 +303,18 @@
           "path": "chapitres/origines-du-sacre/622-serment-dette-paiement-preuve-temoins-divins.md",
           "request_sha256": "07291e433590c9e4fae492d064a2f8b0eb75ff75cec78db357285c9f951365e2",
           "initial_source_sha256": "37babdc5173909aab491e14fa01815f547a30a8cec1699e6271f575bced3e314"
+        },
+        "9f5a2716-72f0-4e9b-a6d2-c03871b45f62": {
+          "number": 623,
+          "path": "chapitres/origines-du-sacre/623-prets-dieux-entraide-temples-sin-uras-shamash-naditu.md",
+          "request_sha256": "aaa29ce2e7163ddf047afd182febe4ff8f400d90a689dd9d713baf364174ebc0",
+          "initial_source_sha256": "649c547b1430e18ec873dec6ecb6ae52814a09feb9e3a47cd11f6be2eb19f313"
+        },
+        "f0c84a17-62be-4e35-a4f1-8c9e27d62b40": {
+          "number": 624,
+          "path": "chapitres/origines-du-sacre/624-gage-qui-travaille-antichrese-vetement-meule-dette.md",
+          "request_sha256": "0df05b747765cd9afe71910528d4406ea59ad4d0221d8c6b9791aa67105015c7",
+          "initial_source_sha256": "256a2c4892767ff36462f3b66deb519bcfb0a02de29a0adfa2db997aa82c236c"
         }
       }
     },
