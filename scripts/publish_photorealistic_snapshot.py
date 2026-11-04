@@ -39,6 +39,8 @@ def build():
     # This changes only generated copies, never the scholarly source files.
     from editorial_illustrations import decorate_pages
     illustrated = decorate_pages(OUT)
+    from sync_reconstitution_index import sync_index
+    print('Sommaire 3D :', sync_index(OUT), 'vignettes ajoutées')
     museum_media = json.loads((OUT / "assets/illustrations-articles/sources-met.json").read_text(encoding="utf-8"))
     if museum_media["count"] != len(museum_media["images"]):
         raise RuntimeError("Inventaire des photographies de musée incohérent")
