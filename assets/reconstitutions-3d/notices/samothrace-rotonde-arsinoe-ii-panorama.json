@@ -1,0 +1,38 @@
+{
+  "id": "SAM-ARS-001",
+  "slug": "samothrace-rotonde-arsinoe-ii-panorama",
+  "title": "Samothrace — rotonde d’Arsinoé II, sanctuaire des Grands Dieux",
+  "period": "Évocation vers 270 av. J.-C. ; construction datée entre 288 et 270 av. J.-C.",
+  "caption": "Vue architecturale 3D photoréaliste interprétative de la rotonde d’Arsinoé II sur l’île de Samothrace : bâtiment circulaire fermé, pilastres doriques et paysage montagneux du sanctuaire.",
+  "commentary": "Dans le sanctuaire des Grands Dieux à Samothrace, la rotonde consacrée par Arsinoé II fut bâtie entre 288 et 270 av. J.-C. L’édifice, construit en marbre de Thasos sur de profondes fondations calcaires, mesure approximativement 20,22 m de diamètre sur les assises de réglage ; une élévation d’environ 12,65 m est proposée par les fouilles américaines. Contrairement à une tholos entourée de colonnes libres, la rotonde possède un tambour inférieur clos et, dans sa partie supérieure, une galerie extérieure de pilastres doriques associés à des panneaux de rosaces et de bucranes ; l’intérieur comportait des demi-colonnes corinthiennes. Les fouilleurs mentionnent une couverture conique originelle en tuiles de terre cuite en écailles, remplacée après un séisme à l’époque impériale. La fonction exacte de la rotonde demeure discutée. L’image restitue les grandes masses et l’ornementation générale ; la disposition détaillée de chaque pilastre, la texture du parement, les couleurs, le chemin latéral, la végétation, l’état des terrasses et les détails précis de la couverture sont des choix d’évocation, non un relevé archéologique. La localisation et le contexte topographique sont également simplifiés. Aucune institution citée n’a certifié cette image.",
+  "certainty": "Élevée : monument circulaire, localisation à Samothrace, attribution à Arsinoé II, intervalle chronologique 288–270 av. J.-C., fondations calcaires et superstructure en marbre de Thasos, tambour fermé et pilastres doriques. Moyenne : hauteur et rythme des élévations, restitution générale des décors et couverture conique en tuiles. Faible : coloris, vieillissement des surfaces, joints, terrasse, cheminement, végétation et géométrie précise du paysage.",
+  "sha256": "686be1c01245bc4d12b5918c3c477cdf8019e4608c5fcc1f84f72839b321c5bb",
+  "image": "/assets/reconstitutions-3d/samothrace-rotonde-arsinoe-ii-panorama.webp",
+  "certainty_levels": {
+    "high": "Existence et position de la rotonde, attribution à Arsinoé II, intervalle de construction (288–270 av. J.-C.), corps inférieur fermé, matériaux et ordres de la galerie supérieure.",
+    "medium": "Hauteur générale restituée, division du tambour et pilastres, toiture conique en tuiles de terre cuite, sous réserve de détails.",
+    "low": "Placement exact des reliefs, enduits, couleurs, joints, chemins, murs de terrasse, végétation et éclairage."
+  },
+  "sources": [
+    {
+      "institution": "American Excavations Samothrace — Emory University, monument 19",
+      "url": "https://www.samothrace.emory.edu/rotunda-of-arsinoe-ii/"
+    },
+    {
+      "institution": "Archaeological Museum of Samothrace, Hall A",
+      "url": "https://www.samothracemuseum.gr/en/hall-a/"
+    },
+    {
+      "institution": "American School of Classical Studies at Athens, history of excavations",
+      "url": "https://www.ascsa.edu.gr/index.php/archives/history-of-the-american-school-1939-1980-chapter-ix"
+    }
+  ],
+  "bibliography": [
+    "McCredie, J. R. et al., Samothrace 7: The Rotunda of Arsinoe II, Princeton, 1992.",
+    "Lehmann, K., Samothrace: A Guide to the Excavations and the Museum, 6th ed., rev. J. R. McCredie, 1998."
+  ],
+  "rights_and_method": "Illustration 3D photoréaliste contemporaine produite par IA ; évocation scientifique, non modélisation métrique ni photographie historique ; aucun menu ou texte dans l’image.",
+  "publication_status": "github_committed_public_verification_required",
+  "width": 1672,
+  "height": 941
+}
