@@ -484,6 +484,32 @@ def create_origins(entries):
     body = hero+volumes_html+dossier_preview+'<div class="origins-archives">'+body+'</div>'
     write("origines-du-sacre",shell("Origines du sacré — 27 tomes intégraux et dossiers thématiques MYTHOS",body).replace("<body>", '<body class="origins-landing">'))
 
+
+def detect_verse_references(main):
+    """Repérer les plages indiquées dans les commentaires, sans les inventer.
+
+    L'étude peut citer « vers 123–156 » ou intituler ses sections
+    « 1–81 — Le scarabée ». Les pages bibliographiques sont ignorées.
+    """
+    text_content = main.get_text(" ", strip=True)
+    references = []
+    for match in re.finditer(r"\bvers\s+(\d{1,4})(?:\s*[–—-]\s*(\d{1,4}))?", text_content, re.I):
+        first = int(match.group(1))
+        last = int(match.group(2)) if match.group(2) else first
+        if 1 <= first <= last:
+            references.append((first, last))
+    headings = []
+    for node in main.find_all(re.compile(r"^h[2-6]$")):
+        match = re.match(r"^\s*(?:vers\s+|vv?\.\s*)?(\d{1,4})\s*[–—-]\s*(\d{1,4})\s*[—–:]", node.get_text(" ", strip=True), re.I)
+        if match:
+            first, last = map(int, match.groups())
+            if 1 <= first < last <= 2500:
+                headings.append((first, last))
+    if len(set(headings)) >= 3 and min(a for a,b in headings) <= 200 and max(b for a,b in headings) >= 300:
+        references.extend(headings)
+    return sorted(set(references))
+
+
 def create_theatre(entries):
     """Théâtre grec : corpus méthodique vérifié dans search.json, sans renuméroter les volumes."""
     catalog={e["url"]:e for e in entries}
@@ -577,13 +603,7 @@ def create_theatre(entries):
             source=BeautifulSoup(file.read_text(encoding="utf-8"),"html.parser")
             main=source.find("article") or source
             text_content=main.get_text(" ",strip=True)
-            references=[]
-            for m in re.finditer(r"\bvers\s+(\d{1,4})(?:\s*[–—-]\s*(\d{1,4}))?",text_content,re.I):
-                first=int(m.group(1))
-                last=int(m.group(2)) if m.group(2) else first
-                if first<=last:
-                    references.append((first,last))
-            unique_refs=sorted(set(references))
+            unique_refs=detect_verse_references(main)
             explicit=len(unique_refs)
             has_commentary=bool(re.search(r"commentaire (?:suivi|intégral|des |de |philologique)|étude suivie des scènes|grand commentaire|lecture suivie",text_content,re.I))
             if explicit:
@@ -754,13 +774,7 @@ def create_theatre(entries):
             source=BeautifulSoup(file.read_text(encoding="utf-8"),"html.parser")
             main=source.find("article") or source
             text_content=main.get_text(" ",strip=True)
-            references=[]
-            for m in re.finditer(r"\bvers\s+(\d{1,4})(?:\s*[–—-]\s*(\d{1,4}))?",text_content,re.I):
-                first=int(m.group(1))
-                last=int(m.group(2)) if m.group(2) else first
-                if first<=last:
-                    references.append((first,last))
-            unique_refs=sorted(set(references))
+            unique_refs=detect_verse_references(main)
             explicit=len(unique_refs)
             has_commentary=bool(re.search(r"commentaire (?:suivi|intégral|des |de |philologique)|étude suivie des scènes|grand commentaire|lecture suivie",text_content,re.I))
             if explicit:
