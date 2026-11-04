@@ -164,17 +164,17 @@ class RecentFigurePublicationTests(unittest.TestCase):
             return (200, kind, self.assets[path])
         return (200, "text/html", self.pages[path])
 
-    def test_all_twenty_two_documentary_figures_and_six_pages_verified(self):
+    def test_all_twenty_five_documentary_figures_and_six_pages_verified(self):
         pages, assets = live.recent_figure_inventory(self.root)
         self.assertEqual(len(pages), 6)
         self.assertEqual(len(pages["livre-iliade-scenes/index.html"]), 4)
         self.assertEqual(len(pages["livre-odyssee/index.html"]), 5)
         self.assertEqual(len(pages["livre-hesiode/index.html"]), 5)
-        self.assertEqual(len(pages["philosophie-iliade.html"]), 3)
-        self.assertEqual(len(pages["philosophie-odyssee.html"]), 3)
-        self.assertEqual(len(pages["philosophie-theogonie.html"]), 2)
+        self.assertEqual(len(pages["philosophie-iliade.html"]), 4)
+        self.assertEqual(len(pages["philosophie-odyssee.html"]), 4)
+        self.assertEqual(len(pages["philosophie-theogonie.html"]), 3)
         self.assertEqual(len(assets), 20)
-        self.assertEqual(sum(len(items) for items in pages.values()), 22)
+        self.assertEqual(sum(len(items) for items in pages.values()), 25)
         # Rembrandt est réutilisé entre l’étude philosophique et le livre.
         shared = "/assets/illustrations-articles/met-437394-aristote-homere-rembrandt.webp"
         self.assertIn(shared, assets)
@@ -283,7 +283,7 @@ class RecentFigurePublicationTests(unittest.TestCase):
         self.assertEqual({entry["url"] for entry in checked if not entry["valid"]}, {
             "/livre-hesiode/index.html", hermes,
         })
-        self.assertEqual(len(live.RECENT_FIGURES), 22)
+        self.assertEqual(len(live.RECENT_FIGURES), 25)
 
     def test_newest_met_book_figures_are_required_and_image_bytes_must_match(self):
         """Audit each new book figure against stale HTML and altered WebP."""
@@ -317,6 +317,36 @@ class RecentFigurePublicationTests(unittest.TestCase):
                         "https://example.test", self.root)
                 broken = {row["url"] for row in checked if not row["valid"]}
                 self.assertEqual(broken, {"/" + page, image_path})
+
+    def test_three_reused_artifact_images_in_philosophical_monographs(self):
+        """Stale public notices and altered JPEG/WebP bytes must be rejected."""
+        additions = (
+            ("philosophie-iliade.html",
+             "icono-iliade-athena-diomede-bronze-philosophie-20261104",
+             "/assets/illustrations-articles/met-254648-athena-chouette-bronze.webp"),
+            ("philosophie-odyssee.html",
+             "icono-odyssee-penelope-telemaque-chiusi-philosophie-20261104",
+             "/media/2026/10/penelope-telemaque-metier-coupe-chiusi-1831.jpg"),
+            ("philosophie-theogonie.html",
+             "icono-theogonie-aphrodite-anadyomene-philosophie-20261104",
+             "/assets/illustrations-articles/met-253504-aphrodite-bronze.webp"),
+        )
+        for page, fid, src in additions:
+            with self.subTest(page=page):
+                self.assertEqual(live.RECENT_FIGURES.count((page, fid, src)), 1)
+                def bad_fetch(url):
+                    path = url.split("https://example.test", 1)[-1]
+                    if path == "/" + page:
+                        return (200, "text/html", self.pages[path].replace(
+                            fid.encode("utf-8"), b"old-page-without-notice"))
+                    if path == src:
+                        return (200, "image", self.assets[path] + b"altered")
+                    return self.fetch(url)
+                with patch.object(live, "fetch", side_effect=bad_fetch):
+                    report = live.verify_recent_public_figures(
+                        "https://example.test", self.root)
+                self.assertEqual({r["url"] for r in report if not r["valid"]},
+                                 {"/" + page, src})
 
     def test_athena_and_suitors_are_required_on_https_with_exact_bytes(self):
         """A stale Athena figure or altered suitors JPEG must stop publication."""

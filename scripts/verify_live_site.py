@@ -242,6 +242,13 @@ RECENT_FIGURES = (
      "/assets/illustrations-articles/met-254648-athena-chouette-bronze.webp"),
     ("livre-odyssee/index.html", "icono-odyssee-pretendants-skyphos-tarquinia-20261104",
      "/assets/philosophie/documents/odyssee-03.jpg"),
+    # Patrimoine antique documenté, réemployé sans duplication dans les études philosophiques.
+    ("philosophie-iliade.html", "icono-iliade-athena-diomede-bronze-philosophie-20261104",
+     "/assets/illustrations-articles/met-254648-athena-chouette-bronze.webp"),
+    ("philosophie-odyssee.html", "icono-odyssee-penelope-telemaque-chiusi-philosophie-20261104",
+     "/media/2026/10/penelope-telemaque-metier-coupe-chiusi-1831.jpg"),
+    ("philosophie-theogonie.html", "icono-theogonie-aphrodite-anadyomene-philosophie-20261104",
+     "/assets/illustrations-articles/met-253504-aphrodite-bronze.webp"),
 )
 
 
