@@ -388,6 +388,10 @@ def main():
     enhance(OUT, ROOT)
     from improve_reading import install_civilisation_reciprocal_navigation
     install_civilisation_reciprocal_navigation(OUT, ROOT)
+    # Ce panneau est bâti uniquement sur les allocations reçues et les pages
+    # intégrales du rendu ; aucune nouvelle cote ni copie d'étude n'est créée.
+    from recent_studies import install as install_recent_studies
+    print('Accueil — dernières études attribuées :', install_recent_studies(ROOT, OUT))
     from build_reading_pdfs import build as build_reading_pdfs
     build_reading_pdfs(OUT)
     verify_sources(protected_sources)
