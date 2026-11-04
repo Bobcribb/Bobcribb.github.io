@@ -12,6 +12,8 @@ on:
       - 'scripts/editorial_illustrations.py'
       - 'scripts/editorial_media.json'
       - 'scripts/build_navigation.py'
+      - 'scripts/recent_studies.py'
+      - 'scripts/verify_deployment_head.py'
       - 'scripts/build_greek_corpus.py'
       - 'scripts/build_greek_folders.py'
       - 'scripts/apply_museum_design.py'
