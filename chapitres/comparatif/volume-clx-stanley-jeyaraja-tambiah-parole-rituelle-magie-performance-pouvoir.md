@@ -1,0 +1,466 @@
+# MYTHOS — Cycle comparatif universitaire — Volume CLX (160)
+
+## Stanley Jeyaraja Tambiah : parole rituelle, efficacité symbolique, magie, religion et pouvoir
+
+**Collection :** MYTHOS — Études comparatives universitaires.  
+**Nature :** monographie originale et autonome, destinée à la publication publique.  
+**Date du dossier :** 4 novembre 2026.  
+**Continuité contrôlée sur GitHub `main` :** volume CLIX (159), Roy A. Rappaport ; volume CLVIII (158), Talal Asad ; volumes précédents sur Mary Douglas, Catherine Bell, Clifford Geertz et Victor Turner. Les numérotations historiques sont laissées intactes, conformément à `EDITORIAL_CONTINUITY.md` et `EDITORIAL_NUMBERING.json`.  
+**Question directrice :** à quelles conditions une parole de rite accomplit-elle une action sociale, et comment sa force varie-t-elle suivant les langues, les institutions, les rapports d'autorité et les mondes religieux ?
+
+### Résumé scientifique
+
+Stanley Jeyaraja Tambiah (1929–2014) a transformé l'anthropologie du rituel en déplaçant l'enquête de la seule croyance vers la performance : énoncer, agir, chanter, offrir, transmettre, autoriser, classifier et faire participer. Ses travaux sur le bouddhisme thaïlandais, les cultes d'esprits, les relations entre monarchie et ordre monastique, les paroles dites magiques et les violences collectives permettent d'articuler théorie du langage et histoire du pouvoir. La présente étude examine *The Magical Power of Words* (1968), *A Performative Approach to Ritual* (conférence 1979, publication 1981), *Buddhism and the Spirit Cults in North-East Thailand* (1970), *World Conqueror and World Renouncer* (1976), *Culture, Thought, and Social Action* (1985) et *Magic, Science, Religion, and the Scope of Rationality* (1990), puis les prolongements politiques des années 1990. Elle distingue langage rituel, efficacité conventionnelle, prétention causale et critique de la rationalité. Les comparaisons mobilisent des passages localisés d'Homère, d'Hérodote, de l'*Hymne homérique à Déméter*, du *Ratana Sutta*, du *Kūṭadanta Sutta*, des traditions védiques et de sources romaines, égyptiennes et mésopotamiennes.
+
+### Protocole documentaire
+
+**[A] Attesté** : information bibliographique vérifiée, passage primaire localisé ou formulation explicitement présente dans une source citée.  
+**[B] Interprétation** : reconstruction philosophique, philologique ou anthropologique argumentée sans prétention de citation littérale.  
+**[C] Hypothèse comparative** : analogie fonctionnelle ou proposition de recherche ; ni fait établi ni filiation démontrée.  
+
+Les références anciennes identifient des livres, chants, vers ou numéros de discours, mais les textes lacunaires et la diversité des éditions interdisent de reconstruire des performances dont la documentation fait défaut. Les notices d'éditeurs attestent les informations bibliographiques, non une lecture exhaustive de chaque page d'un ouvrage sous accès restreint. Les affirmations factuelles sont distinguées des interprétations et des analogies.
+
+### Sommaire
+
+- I. Contexte, méthode et genèse intellectuelle : Un problème à trois faces ; Un auteur situé : Ceylan, Thaïlande, monde universitaire ; Du questionnaire à l'enquête interprétative ; L'ouvrage de 1970 : changer la question du bouddhisme ; Le royaume et le renoncement ; L'article de 1968 : le tournant de la parole ; L'article de 1973 et son histoire éditoriale ; Les conférences sur la performance ; Culture, pensée, action : une synthèse ouverte ; Magie, science, religion : trois catégories discutées ; Une œuvre liée à la politique et à la violence ; Ce que permet, et ne permet pas, l'anthropologie comparée
+- II. Philologie comparée : les mots ne sont pas des équivalents : Rituel, rite, pratique : un choix de niveau ; Le sanskrit *mantra* ; Paroles pali : *paritta* et protection ; *Sacca* et l'acte de vérité ; *Dhamma*, *saṅgha* et *sīla* ; *Dāna*, *puñña*, *pūjā* ; La prière grecque : *eukhê* ; L'incantation grecque : *epōidê* ; *Thysia*, *thuein* et offrande ; *Mágos* : un terme à histoire ; *Legomena*, *dromena*, *deiknymena* : prudence éléusinienne ; Signification et contexte d'énonciation
+- III. Parole et acte : la théorie performative : Austin : dire, c'est parfois faire ; Locutoire, illocutoire, perlocutoire ; Les conditions de félicité ; Tambiah : une performance plus qu'une phrase ; L'efficacité institutionnelle est observable ; La métaphore comme opération ; Métonymie, contiguïté, transfert ; Répétition et convention ; Le langage ne flottait pas hors du corps ; Parole performative et force sociale ; Expliquer sans humilier les participants ; Tension : structure versus histoire
+- IV. Ethnographie, bouddhisme et politique du Sud-Est asiatique : Le terrain n'est pas un texte canonique ; Bouddhisme et cultes des esprits ; Le *Ratana Sutta* comme objet à plusieurs étages ; La formule de vérité comme acte ; Le *Kūṭadanta Sutta* et la transformation du sacrifice ; Dons et mérite : ni commerce ni pure intériorité ; Calendrier rituel et coordination ; Spécialistes religieux et compétence ; La relation roi-*saṅgha* ; Le royaume « galactique » comme modèle ; Les limites de la polarité mondain/renonçant ; Rationalités locales et controverses
+- V. Magie, science, philosophie et critique des dichotomies : Tylor et le schéma évolutionniste ; Frazer et la logique de la similitude ; Malinowski : le langage comme action ; Evans-Pritchard et les Azandé ; Lévy-Bruhl et le piège de deux humanités ; Science : des procédures particulières de validation ; Philosophie du langage : Searle et Wittgenstein ; Le symbolique comme objet de conflit
+- VI. Politique, violence et comparaison avec MYTHOS : 1992 : le bouddhisme confronté à la violence ; Les épreuves des appartenances ethno-religieuses ; Les foules et la ritualisation de la violence ; Ne pas faire du rite un bien par nature ; Mauss : don, obligation et prestige ; Clastres : pouvoir et institution ; Turner : liminalité et changement social ; Mary Douglas et Catherine Bell ; Talal Asad : définir la religion est déjà un acte historique ; Rappaport : communication et engagement canonique ; Bourdieu : qui possède l'autorité de nommer ?
+- VII. Dossiers comparatifs antiques : Homère, *Iliade* I, 33-52 : l'invocation comme relation ; Homère, *Iliade* I, 447-474 : restaurer la relation ; L'*Odyssée* III, 430-462 : distribuer des rôles ; Déméter et Éleusis : l'institution d'un secret ; Hérodote I, 132 : le mage et la théogonie ; Hérodote et l'interprétation de l'autre ; Étymologie de « mage » et pratiques iraniennes ; Le *Ratana Sutta*, Sn 2.1 : vérité et bénédiction ; Le *Kūṭadanta Sutta*, DN 5 : le sacrifice réinterprété ; Le *Ṛgveda* I, 1 : l'adresse à Agni ; Rome : l'énoncé dans la *lustratio* ; Égypte : des paroles funéraires instituées ; Mésopotamie : textes d'exorcisme et gestes ; Comparaison : fonction, effet et preuve
+- VIII. Bilan critique et perspectives : Trois régimes distincts d'efficacité ; L'archive et la voix absente ; Les rites peuvent échouer de plusieurs façons ; Ritualisation et dissensus ; Quand la comparaison devient une hypothèse testable ; L'apport philosophique : l'acte et la proposition ; L'apport anthropologique : refus des échelles de civilisation ; La conclusion majeure : une puissance conditionnelle
+
+## I. Contexte, méthode et genèse intellectuelle
+
+### 1. Un problème à trois faces
+
+Pourquoi des paroles prononcées dans un rite peuvent-elles transformer des relations sociales, et pourquoi certaines sont-elles jugées efficaces quand d'autres échouent ? Chez Stanley Jeyaraja Tambiah, la question associe langage, pratique et institution. Le rite n'est pas seulement une illustration d'idées religieuses ; il coordonne personnes, objets, corps, temporalités et autorités. Il est dangereux de demander seulement si l'énoncé rituel correspond à une causalité naturelle : cette question peut être légitime, mais elle n'épuise pas ce que l'énoncé fait au sein d'une communauté. L'enquête doit séparer conséquences matérielles observables, effets conventionnels, persuasions, protections réputées agir et explications que donnent les participants eux-mêmes. [B]
+
+### 2. Un auteur situé : Ceylan, Thaïlande, monde universitaire
+
+Né le 16 janvier 1929 à Ceylan, mort le 19 janvier 2014 à Cambridge (Massachusetts), Tambiah se forme dans un espace intellectuel traversé par la décolonisation et les transformations politiques de l'Asie du Sud. Après ses travaux à l'Université de Ceylan et des activités en Thaïlande, il enseigne notamment à Cambridge, Chicago puis Harvard, où il arrive en 1976. Ces étapes sont établies par les notices institutionnelles de Harvard et de la Fondation Balzan. Elles donnent un contexte, non une explication psychologique automatique de ses thèses. Son attention aux rapports entre bouddhisme, État et violence politique empêche de réduire sa carrière à une simple théorie des cérémonies. [A]
+
+### 3. Du questionnaire à l'enquête interprétative
+
+Les premiers travaux de Tambiah portent aussi sur l'enquête rurale, la parenté, le foncier et les formes de vie villageoises. Ce parcours fait apparaître un mouvement méthodologique : dénombrer les institutions ne dispense pas d'observer les significations qu'y attribuent les participants. Son anthropologie refuse cependant l'alternative simpliste entre chiffres et interprétation. L'efficacité d'un rite peut être explorée à partir d'une observation de la cérémonie, d'entretiens, de dispositifs économiques et d'une histoire politique. Le chercheur ne remplace pas l'enquête par une interprétation symbolique libre de toute preuve. [A/B]
+
+### 4. L'ouvrage de 1970 : changer la question du bouddhisme
+
+Dans *Buddhism and the Spirit Cults in North-East Thailand* (Cambridge University Press, 1970), Tambiah examine les pratiques d'une communauté du Nord-Est thaïlandais dans le cadre d'une civilisation bouddhique plus vaste. Il conteste la disqualification des pratiques villageoises comme versions simplement « dégradées » d'une doctrine textuelle. Le problème devient celui des articulations historiques entre traditions lettrées, rituels monastiques, puissances locales et occasions de la vie collective. La monographie n'autorise pas à généraliser tous ses résultats à l'ensemble de la Thaïlande ni à faire de chaque village une copie interchangeable du terrain observé. [A/B]
+
+### 5. Le royaume et le renoncement
+
+Avec *World Conqueror and World Renouncer: A Study of Buddhism and Polity in Thailand against a Historical Background* (1976), l'analyse passe de l'échelle villageoise aux rapports entre pouvoir monarchique, ordre monastique et légitimation religieuse. « Conquérant du monde » et « renonçant au monde » désignent des pôles structurants, pas deux classes humaines absolument séparées. Le roi protecteur de la communauté religieuse et le moine engagé dans une discipline de renoncement peuvent entretenir des rapports d'appui, de tension et de contrôle. La question anthropologique est de comprendre comment ces relations sont produites et transformées par des institutions concrètes. [A/B]
+
+### 6. L'article de 1968 : le tournant de la parole
+
+L'étude « The Magical Power of Words », *Man*, nouvelle série, vol. 3, n° 2 (juin 1968), p. 175-208, DOI 10.2307/2798500, est un texte primaire central. Tambiah y reformule l'intelligence des paroles réputées magiques : leur sens dépend des relations entre les mots, les situations, les gestes et les auditeurs. Elles peuvent persuader, délimiter un acte, faire entrer une personne dans un rôle et mobiliser des analogies. Décrire ces opérations ne revient pas à valider toutes les prétentions physiques qui accompagnent les formules. La reconnaissance d'un effet conventionnel n'est pas la démonstration d'un effet surnaturel. [A/B]
+
+### 7. L'article de 1973 et son histoire éditoriale
+
+« Form and Meaning of Magical Acts: A Point of View » paraît d'abord dans *Modes of Thought*, recueil dirigé par Robin Horton et Ruth Finnegan (Faber & Faber, 1973). Il est republié dans *HAU: Journal of Ethnographic Theory*, 7/3 (2017), p. 451-473, DOI 10.14318/hau7.3.030. La republication, signalée par la revue, permet de contrôler la filiation bibliographique sans attribuer à Tambiah vivant en 2017 un article original de cette date. Le texte discute le statut intellectuel des actes magiques et le danger de leur mesurer les propriétés à un modèle extérieur qui ignore leurs formes d'énonciation. [A]
+
+### 8. Les conférences sur la performance
+
+« A Performative Approach to Ritual », *Proceedings of the British Academy*, vol. 65 (séance de 1979), p. 113-169, est un jalon essentiel. Il faut distinguer la date du volume, 1979, et sa publication éditoriale en 1981, explicitement indiquée par la British Academy. Le texte permet à Tambiah de rapprocher théorie linguistique, anthropologie et pratique cérémonielle. Employer le terme « performatif » ne signifie pas qu'il emprunte sans changement toutes les catégories d'Austin : la performance du rite engage plusieurs médias, parfois simultanément, et une organisation sociale préalable. [A/B]
+
+### 9. Culture, pensée, action : une synthèse ouverte
+
+*Culture, Thought, and Social Action: An Anthropological Perspective* paraît en 1985 chez Harvard University Press. Le sommaire conservé indique notamment la reprise de « The Magical Power of Words » et de « Form and Meaning of Magical Acts ». Le livre insiste sur le passage des systèmes symboliques aux interactions, sur la pluralité des formes de connaissance et sur la critique d'une séparation totale entre pensée et conduite. Il ne faut pas transformer la notion de culture en code fixe qui déterminerait intégralement les participants ; la pensée, le désaccord et l'innovation sont des activités situées. [A/B]
+
+### 10. Magie, science, religion : trois catégories discutées
+
+Dans *Magic, Science, Religion, and the Scope of Rationality* (Cambridge University Press, 1990), issu des Morgan Lectures, Tambiah retrace les controverses occidentales sur la magie : oppositions internes au christianisme, histoire de la science, lectures évolutionnistes et anthropologie du raisonnement. Il ne prétend pas que la science expérimentale et la prière seraient identiques, mais il récuse l'idée qu'un simple label de « magie » suffise à démontrer l'irrationalité globale d'une société. La rationalité est une question de normes de justification, de pratiques et de contextes, non de classement moral des civilisations. [A/B]
+
+### 11. Une œuvre liée à la politique et à la violence
+
+Les études sur Sri Lanka, notamment *Sri Lanka: Ethnic Fratricide and the Dismantling of Democracy* (1991), *Buddhism Betrayed?* (1992) et *Leveling Crowds* (1996), rappellent le caractère politique de l'enquête de Tambiah. Les identités religieuses ne sont pas seulement des représentations paisibles : elles peuvent être mobilisées dans des entreprises de légitimation, d'exclusion et de violence collective. Ces livres traitent de contextes historiques précis ; toute analogie avec une autre région exige des preuves propres, et jamais un transfert mécanique du modèle ethnique sud-asiatique. [A/B]
+
+### 12. Ce que permet, et ne permet pas, l'anthropologie comparée
+
+Une formule de prière grecque, un texte canonique pali et une incantation mésopotamienne peuvent toutes être analysées comme une articulation de paroles, gestes et droits à parler. Cette ressemblance formelle ne prouve ni traduction de l'un vers l'autre ni croyance universelle au pouvoir autonome des sons. Les enquêtes sont asymétriques : pour un village observé au XXe siècle, des interlocuteurs peuvent préciser les significations ; pour une archive antique, le témoignage est médiatisé et les vivants ne peuvent plus être interrogés. Nous parlerons donc de comparaison fonctionnelle et non de continuité historique démontrée. [C]
+
+## II. Philologie comparée : les mots ne sont pas des équivalents
+
+### 13. Rituel, rite, pratique : un choix de niveau
+
+Le latin *ritus* renvoie à des pratiques prescrites, à une manière de procéder, mais il ne constitue pas la définition universelle des cérémonies humaines. Le mot moderne « rituel » agrège des procédures aussi différentes que la consécration, la prière, l'initiation et la commémoration. Le problème de Tambiah n'est pas de tirer un schème anthropologique de l'étymologie latine ; il est de préciser comment des suites d'actes sont reconnues et évaluées comme appartenant à une classe socialement particulière. L'historien doit identifier les mots employés par chaque tradition et les institutions qui les contrôlent. [B]
+
+### 14. Le sanskrit *mantra*
+
+*Mantra* est traditionnellement relié au radical verbal sanskrit √*man*, « penser ». Dans les textes et pratiques de l'Inde, le mot désigne des unités de formulation diverses, dont l'autorité, la métrique et l'usage dépendent des genres et des traditions. Il ne signifie pas nécessairement « formule magique » et ne se réduit pas à une vibration acoustique comprise hors de toute histoire. Une récitation védique possède des règles de transmission qui diffèrent de la lecture silencieuse d'un texte philosophique. Les débats sur l'efficacité des mantras ne doivent pas être imposés uniformément à toutes les écoles indiennes. [A/B]
+
+### 15. Paroles pali : *paritta* et protection
+
+Dans les traditions theravāda, *paritta* qualifie des récitations protectrices. Le terme renvoie à une pratique, pas à l'idée simple d'un pouvoir phonique garanti indépendamment de la situation. Des passages canoniques sont repris, associés à des bénédictions, à l'expression de la confiance ou à des demandes de protection. L'anthropologue doit regarder qui récite, pour qui, où, à quelle occasion et selon quelle tradition. Le vocabulaire pali doit être distingué de son usage thaï local et des interprétations modernes ; traduire par « charme » ou « incantation » peut importer des présupposés étrangers. [A/B]
+
+### 16. *Sacca* et l'acte de vérité
+
+*Sacca*, terme pali généralement traduit par « vérité », est au cœur d'une famille de formulations protectrices. L'expression *etena saccena suvatthi hotu*, répétée dans le *Ratana Sutta* (Sutta Nipāta 2.1), peut être rendue par « par cette vérité, que le bien-être advienne ». Grammaticalement, *etena* est un instrumental démonstratif, *saccena* un instrumental nominal, et *hotu* un impératif de la troisième personne du verbe « être/devenir ». La phrase réunit une assertion tenue pour vraie et un souhait efficace ; sa présence dans le texte ne prouve pas une guérison matérielle produite par la seule prononciation. [A/B]
+
+### 17. *Dhamma*, *saṅgha* et *sīla*
+
+Dans les textes pali, *dhamma* possède des valeurs multiples, notamment enseignement, norme et phénomène suivant l'usage ; *saṅgha* désigne une communauté ou assemblée, particulièrement l'ordre monastique ; *sīla* concerne une conduite éthique ou une discipline. Ce lexique interdit de traiter le bouddhisme vécu comme un ensemble de « croyances intérieures » que l'on pourrait séparer des relations monastiques, des dons et des règles. Les mots n'établissent pas pour autant une équivalence parfaite avec « loi », « Église » ou « morale » dans les langues européennes. [A/B]
+
+### 18. *Dāna*, *puñña*, *pūjā*
+
+*Dāna* peut désigner le don ; *puñña* le mérite ou une valeur méritoire ; *pūjā* des actes d'hommage ou de vénération. Leur articulation pratique est essentielle à l'étude des fêtes et de la vie monastique, mais il serait abusif d'identifier chaque don à un « achat » de mérite. Les relations peuvent combiner éthique, prestige, solidarité et anticipations religieuses. Tambiah invite à documenter les formes du don, tandis que Mauss aide à interroger les obligations ; les deux théories ne remplacent pas l'observation des usages locaux. [B]
+
+### 19. La prière grecque : *eukhê*
+
+En grec ancien, εὐχή (*eukhê*) peut désigner une prière ou un vœu, selon les emplois. L'épisode de Chrysès dans l'*Iliade* I, 33-52, montre un locuteur qui invoque Apollon en rappelant les services cultuels rendus et en formulant une requête. Il serait trompeur de réduire cette scène à une manipulation par les mots : le poème inscrit la demande dans un conflit d'honneur et dans la relation d'un prêtre à son dieu. La narration affirme qu'Apollon entend la prière ; cette affirmation appartient à l'économie théologique et poétique de l'épopée. [A/B]
+
+### 20. L'incantation grecque : *epōidê*
+
+Le grec ἐπῳδή (*epōidê*) renvoie à un chant ou à une formule prononcée sur ou pour quelque chose, et peut désigner une incantation. Mais toutes les prières, lamentations et proclamations n'en sont pas. Chez Hérodote I, 132.3, le verbe ἐπαείδειν et le terme ἐπαοιδή interviennent dans la description du chant d'un mage lors du sacrifice perse. Ce sont des mots grecs qui rapportent une pratique étrangère ; ils n'autorisent pas à reconstituer le lexique iranien exact du chant ni à supposer que les Perses décrivaient la performance selon les mêmes catégories. [A]
+
+### 21. *Thysia*, *thuein* et offrande
+
+Θυσία (*thysia*) et θύειν (*thyein*) appartiennent au lexique grec du sacrifice et des offrandes. Selon le contexte, le vocabulaire renvoie à des séquences d'abattage, de cuisson, d'offrande et de partage. Le contenu d'un rite ne se déduit pas de la seule racine d'un mot. Dans l'*Odyssée* III, 430-462, les gestes autour d'une génisse offerte à Athéna s'articulent avec l'hospitalité et la hiérarchie domestique. La poésie fournit une scène structurée ; elle ne constitue pas une instruction sacrificialle générale applicable sans modification à toutes les cités grecques. [A/B]
+
+### 22. *Mágos* : un terme à histoire
+
+Le grec μάγος (*magos*) est utilisé pour parler, notamment, de spécialistes religieux associés à l'Iran, puis reçoit d'autres sens dans la littérature grecque et latine. Le passage à « magie » dans les langues modernes n'est pas un simple changement phonétique : il s'accompagne d'accusations, de distinctions religieuses et de jugements de légitimité. Employer « mage » pour Hérodote I, 132 ne revient pas à qualifier la pratique d'irrationnelle. Une histoire sérieuse de la magie étudie les étiquettes polémiques autant que les gestes qu'elles décrivent. [A/B]
+
+### 23. *Legomena*, *dromena*, *deiknymena* : prudence éléusinienne
+
+Les termes grecs λεγόμενα, δρώμενα et δεικνύμενα signifient, à un niveau lexical, « choses dites », « choses accomplies » et « choses montrées ». La triade est souvent utilisée dans les présentations modernes des mystères antiques, mais elle ne fournit pas à elle seule un procès-verbal complet et universel du rite éleusinien. L'*Hymne homérique à Déméter* 470-482 témoigne d'une révélation rituelle et de son caractère réservé ; il ne décrit pas les séquences interdites au public. La lacune doit rester une lacune. [A/B]
+
+### 24. Signification et contexte d'énonciation
+
+Un même mot ne produit pas les mêmes effets en fonction de l'identité du locuteur, de l'autorité reconnue, de la temporalité et des gestes associés. « J'autorise », « je promets » ou « je consacre » peuvent engager des conséquences dans certains cadres conventionnels, tout en étant sans effet institutionnel ailleurs. Le problème philologique dépasse donc l'équivalence du dictionnaire. Il impose d'identifier les règles pragmatiques, les auditoires, les genres, l'intonation et parfois les objets associés. Cette exigence rapproche la philologie de l'anthropologie de la performance sans les confondre. [B]
+
+## III. Parole et acte : la théorie performative
+
+### 25. Austin : dire, c'est parfois faire
+
+J. L. Austin, *How to Do Things with Words* (conférences de 1955, livre posthume en 1962), a montré que certains énoncés accomplissent des actes plutôt qu'ils ne décrivent un état de fait. La promesse, le baptême nominal d'un objet et certaines décisions institutionnelles dépendent de procédures reconnues. La distinction initiale entre constatif et performatif est elle-même dépassée dans l'ouvrage par une théorie des actes locutoires, illocutoires et perlocutoires. Tambiah n'emprunte pas une formule magique universelle à Austin : il déplace une analyse des conventions linguistiques vers les séquences cérémonielles. [A/B]
+
+### 26. Locutoire, illocutoire, perlocutoire
+
+Un acte locutoire consiste, grossièrement, dans la production d'un énoncé doté de sens ; l'illocutoire concerne l'acte accompli en parlant — ordonner, promettre, proclamer ; le perlocutoire vise certains effets provoqués sur les destinataires — convaincre, effrayer, rassurer. Les frontières ne doivent pas être plaquées indistinctement sur tous les rituels. Une formule votive peut remplir une fonction institutionnelle alors qu'une guérison espérée demeure non établie. L'anthropologue doit examiner séparément la convention attestée et la prétention causale. [A/B]
+
+### 27. Les conditions de félicité
+
+Austin analyse les conditions auxquelles une procédure conventionnelle fonctionne : personnes appropriées, circonstances reconnues, exécution suffisamment correcte et engagement requis selon les cas. Un rite peut être déclaré « raté » par les participants pour une erreur de récitation, une préparation impropre ou une autorité contestée. Ces jugements internes appartiennent au matériau ethnographique. Ils ne sont pas automatiquement les critères du chercheur pour valider l'efficacité empirique. L'échec conventionnel, l'inefficacité biologique et la contestation politique sont trois choses différentes. [B]
+
+### 28. Tambiah : une performance plus qu'une phrase
+
+L'analyse de 1979 élargit le regard : une cérémonie met en œuvre voix, mélodie, déplacement, objets, danse, gestes, rythme et distribution des rôles. Elle peut combiner plusieurs modes de communication qui se renforcent ou se contredisent. La performance ne se comprend ni en isolant le texte récité ni en décrivant seulement sa scénographie ; c'est leur articulation à un groupe social qui crée la situation. La parole n'est pas le propriétaire unique de l'efficacité rituelle. [A/B]
+
+### 29. L'efficacité institutionnelle est observable
+
+Qu'un mariage, une investiture ou une réconciliation reconnus modifient les droits et les obligations des personnes peut être documenté sans postuler une causalité physique extraordinaire. La transformation institutionnelle n'est pas un mirage : les rapports juridiques et sociaux changent effectivement. Mais l'exemple ne justifie pas l'assertion qu'une bénédiction provoque nécessairement la pluie ou qu'un chant arrête une maladie infectieuse. Tambiah permet de poser des questions distinctes sur des prétentions qui seraient indûment réunies sous le seul terme d'efficacité. [B]
+
+### 30. La métaphore comme opération
+
+Les formes magiques et rituelles peuvent rapprocher des domaines d'expérience : l'humain, l'animal, la croissance des plantes, le pouvoir royal ou la maladie. Les relations analogiques organisent la pensée et l'action même lorsque leur transposition causale serait contestable. Avec une vigilance inspirée de Jakobson et des études du langage, Tambiah traite la métaphore comme un travail sur les associations, non comme la preuve d'une mentalité archaïque incapable de distinguer image et réalité. Un participant peut reconnaître le caractère figuratif d'une formule tout en la tenant pour culturellement décisive. [B]
+
+### 31. Métonymie, contiguïté, transfert
+
+La métonymie prend appui sur une relation de contiguïté : une partie, un objet lié à un individu, une trace ou un lieu peut représenter une personne ou une puissance. Une cérémonie peut juxtaposer actes de transfert et relations symboliques. Décrire ces opérations n'est pas les réduire à une erreur logique. Le problème critique consiste à distinguer la pertinence sociale et la vérité d'une proposition causale : que des cheveux représentent leur ancien porteur ne démontre pas qu'une action exercée sur eux modifie biologiquement son corps. [B]
+
+### 32. Répétition et convention
+
+Les séquences répétées ne sont pas nécessairement des gestes mécaniques. Elles rendent reconnaissables des transitions, stabilisent les attentes et facilitent une coordination. La répétition peut aussi accroître la visibilité des différences : une variation infime dans une formule considérée comme fixe devient un enjeu de conflit. Le rythme de la cérémonie rend possible un engagement commun sans abolir les désaccords des participants. L'analyse gagne à distinguer la règle du rite, son exécution située et l'évaluation postérieure de sa validité. [B]
+
+### 33. Le langage ne flottait pas hors du corps
+
+Les approches qui transcrivent un rite uniquement en phrases perdent les postures, le souffle, les objets, les espaces, le silence et la durée. À l'inverse, une description gestuelle incapable d'entendre le texte méconnaît les distinctions locales entre types de paroles. Tambiah permet d'éviter ce double réductionnisme. Une bénédiction peut être éprouvée comme digne, offensante, incomplète ou inauthentique en raison de sa réalisation entière, et non de sa seule suite de mots. [B]
+
+### 34. Parole performative et force sociale
+
+Une formule tire sa force de règles reconnues, d'une histoire et de rapports d'autorité. L'énoncé d'un inconnu ne produit pas les mêmes conséquences que celui d'un prêtre, d'un ancien ou d'un magistrat agréé. Le danger d'une interprétation purement linguistique serait d'ignorer les acteurs exclus du droit de parler. Mais une explication réduite à la domination manquerait les dimensions d'adhésion, d'émotion, de compétence esthétique et d'initiative. La performance met en jeu à la fois convention et négociation. [B]
+
+### 35. Expliquer sans humilier les participants
+
+Lorsqu'une personne affirme qu'une prière l'a protégée, le chercheur peut décrire les critères de reconnaissance de la protection, la situation et les effets comportementaux. Il ne doit ni ridiculiser une croyance ni confondre l'enregistrement de cette croyance avec sa vérification expérimentale. L'ethnographie n'exige pas la crédulité, mais elle exige de ne pas substituer à la parole des acteurs une caricature. La même rigueur s'impose face à des revendications de miracle, de chance, de guérison ou de sanction divine. [B]
+
+### 36. Tension : structure versus histoire
+
+Une forme performative récurrente n'a pas un sens identique en tout temps. Une cérémonie de cour peut changer après une réforme constitutionnelle ; une liturgie peut devenir marqueur national dans une situation de conflit ; une récitation protectrice peut être enregistrée puis diffusée sans la présence des officiants. Une théorie formelle du rituel doit donc être complétée par une histoire de ses institutions et de ses transformations. Cette critique prépare le dialogue avec Talal Asad, dont la généalogie empêche de naturaliser « religion » et « magie ». [B]
+
+## IV. Ethnographie, bouddhisme et politique du Sud-Est asiatique
+
+### 37. Le terrain n'est pas un texte canonique
+
+Les pratiques observées dans le Nord-Est thaïlandais doivent être décrites dans leur propre environnement social : familles, vie agricole, monastères, fêtes, dons, protections, hiérarchies villageoises. Un texte pali ne fournit qu'une partie des ressources mobilisées. Tambiah insiste sur les relations entre traditions doctrinales et pratiques locales ; il refuse l'alternative où l'une serait pure et l'autre corruptrice. Le chercheur doit conserver les différences de langue, d'école, de date et de statut social. [A/B]
+
+### 38. Bouddhisme et cultes des esprits
+
+Le titre de l'ouvrage de 1970 met en relation bouddhisme et « spirit cults ». Il ne convient pas d'en faire deux essences mutuellement exclusives. Les pratiques locales peuvent associer bénédictions monastiques, obligations familiales, territoires, ancêtres et protections, suivant des modalités historiquement situées. Le vocabulaire religieux exact varie selon les interlocuteurs et les occasions : il serait abusif de traduire toute présence d'esprits par « animisme » au sens évolutionniste du XIXe siècle. La comparaison doit observer les configurations et les controverses internes. [A/B]
+
+### 39. Le *Ratana Sutta* comme objet à plusieurs étages
+
+Le *Ratana Sutta*, *Sutta Nipāta* 2.1, comprend une invocation aux êtres présents, une demande d'écoute et une série d'énoncés concernant le Bouddha, l'enseignement et la communauté, suivis d'un refrain de souhait favorable. Le texte pali et une traduction moderne sont disponibles dans SuttaCentral. On peut examiner la répétition de *etena saccena suvatthi hotu*, les auditoires mentionnés et le lien entre vérité revendiquée et souhait de protection. Il faut ensuite enquêter séparément sur les occasions concrètes de récitation dans les traditions contemporaines. [A/B]
+
+### 40. La formule de vérité comme acte
+
+Dire « par cette vérité, que survienne le bien-être » ne se réduit ni à informer un auditeur ni à énoncer une loi de causalité physique. La formule peut manifester l'adhésion à des enseignements, la confiance partagée et le caractère solennel de la cérémonie. L'analyse performative porte sur ce que le dire réalise dans une relation sociale, tout en reconnaissant les limites de ce savoir : aucune mesure indépendante de protection sanitaire ou climatique ne découle de la seule lecture du *Ratana Sutta*. C'est précisément parce que les registres sont séparés que la description reste rigoureuse. [B]
+
+### 41. Le *Kūṭadanta Sutta* et la transformation du sacrifice
+
+Dans *Dīgha Nikāya* 5, le brahmane Kūṭadanta interroge le Bouddha sur le sacrifice. Le récit propose une politique de prospérité et de réduction des violences, opposée à l'abattage massif d'animaux, puis hiérarchise divers dons et engagements éthiques. Le texte est une source primaire bouddhique normative, non une observation de terrain du VIe ou Ve siècle avant notre ère. La comparaison avec Tambiah porte sur la possibilité de requalifier un acte rituel par une argumentation religieuse, et sur la distribution du pouvoir de définir ce qui vaut comme sacrifice légitime. [A/B]
+
+### 42. Dons et mérite : ni commerce ni pure intériorité
+
+Les dons aux moines peuvent établir des relations entre ménages, laïcs et institution monastique, tout en étant associés à des attentes de mérite. Il faut refuser deux réductions : assimiler ces échanges à des contrats marchands, ou les décrire comme des intentions entièrement détachées de leurs effets sociaux. Les quantités, les occasions, les destinataires et les inégalités de richesse doivent être étudiés. Le dialogue avec Mauss est fructueux lorsqu'il éclaire la réciprocité, mais il devient trompeur si chaque don reçoit mécaniquement la même signification. [B]
+
+### 43. Calendrier rituel et coordination
+
+Les cérémonies collectives fixent des périodes, organisent le déplacement des participants, les préparatifs matériels et les circulations de biens. Elles peuvent renforcer une appartenance, mais également révéler des rangs inégaux entre sponsors, officiants et invités. Observer qui prépare les aliments, qui finance les opérations et qui reste silencieux donne une connaissance que l'analyse d'un mantra isolé ne fournit pas. L'efficacité sociale du rite comprend aussi ces travaux souvent invisibilisés par les récits qui privilégient le centre cérémoniel. [B]
+
+### 44. Spécialistes religieux et compétence
+
+La validité d'un acte peut être liée à une compétence reconnue : connaître les séquences, les textes, les circonstances et les procédures. Cette compétence ne doit pas être mystifiée ni confondue avec l'affirmation du chercheur selon laquelle le spécialiste posséderait une puissance surnaturelle. Elle constitue une capacité technique et sociale, dont le statut est historiquement produit. Dans l'étude du bouddhisme thaï, les fonctions monastiques doivent être situées dans des hiérarchies et des dispositifs d'autorisation plutôt que déduites d'une essence religieuse. [B]
+
+### 45. La relation roi-*saṅgha*
+
+Le monarque et la communauté monastique forment, dans certaines configurations historiques étudiées par Tambiah, deux pôles de légitimité. Le souverain peut se présenter comme protecteur et réformateur du *saṅgha*, tandis que l'institution religieuse confère des ressources symboliques au pouvoir. Cette relation ne supprime ni négociations ni contestations. Le livre de 1976 traite notamment de transformations juridiques précises, dont les lois thaïlandaises relatives au *saṅgha* de 1902, 1941 et 1963, au chapitre 12 (p. 230-262 dans l'édition indiquée par Cambridge). [A/B]
+
+### 46. Le royaume « galactique » comme modèle
+
+Dans « The Galactic Polity: The Structure of Traditional Kingdoms in Southeast Asia », *Annals of the New York Academy of Sciences*, 293 (1977), p. 69-97, Tambiah propose un modèle des relations entre centre politique et périphéries. L'image « galactique » éclaire des configurations politiques où l'autorité rayonne de manière variable, sans supposer une administration uniforme du territoire. Ce modèle est une reconstruction comparative, non une carte exacte de tous les royaumes d'Asie du Sud-Est ; son pouvoir explicatif dépend des périodes et des sources. [A/B]
+
+### 47. Les limites de la polarité mondain/renonçant
+
+L'opposition entre pouvoir mondain du roi et renoncement des moines est analytiquement féconde, mais n'est pas une photographie exhaustive des carrières religieuses. Des moines peuvent jouer un rôle économique, éducatif ou politique ; des souverains peuvent patronner des réformes ascétiques. La polarité ne doit pas effacer les femmes, les donateurs laïcs, les fonctionnaires ou les groupes ruraux. Les relations de genre et de classe sont des variables empiriques, pas des détails périphériques. [B]
+
+### 48. Rationalités locales et controverses
+
+Une pratique peut être jugée légitime par un groupe de dévots et contestée par d'autres au sein de la même tradition. Le conflit sur l'orthodoxie ne se réduit pas à un malentendu entre Occident et Orient. Tambiah permet d'étudier les catégories d'authenticité comme des ressources de débat et d'action. L'anthropologue ne doit pas choisir arbitrairement une autorité unique dont la définition servirait de critère intemporel, mais reconstruire les arguments, les institutions et les rapports de force qui organisent les controverses. [B]
+
+## V. Magie, science, philosophie et critique des dichotomies
+
+### 49. Tylor et le schéma évolutionniste
+
+Edward B. Tylor, dans *Primitive Culture* (1871), cherche à expliquer des croyances et pratiques dans une histoire comparative des cultures. Les classements évolutionnistes de son époque constituent un objet de critique : ils tendent à disposer les sociétés selon une progression de l'erreur vers une rationalité supposée dominante. Tambiah montre les limites de l'opposition globale entre « modernité scientifique » et « tradition magique ». Cette critique ne dispense pas de reconnaître les différences entre procédures expérimentales contrôlées et prétentions rituelles non testées. [A/B]
+
+### 50. Frazer et la logique de la similitude
+
+Dans *The Golden Bough* (première édition 1890 et révisions ultérieures), James George Frazer distingue, de manière célèbre, magie imitative et contagieuse. Les catégories peuvent aider à décrire certaines opérations de ressemblance et de contact. Mais il serait réducteur de traiter tous les participants comme des théoriciens naïfs d'une physique erronée. Une analogie rituelle peut aussi communiquer un statut, une espérance ou une relation politique. La question de l'efficacité ne se ferme pas après avoir classé la forme de l'analogie. [A/B]
+
+### 51. Malinowski : le langage comme action
+
+Bronisław Malinowski, dans ses études des îles Trobriand et notamment *Coral Gardens and Their Magic* (1935), examine les formules magiques en relation avec leurs circonstances d'emploi et les activités ordinaires. Pour Tambiah, cet héritage rend difficile une lecture des paroles coupée des gestes et des institutions. Il ne suffit cependant pas d'expliquer le rituel par la satisfaction psychologique de l'incertitude : une cérémonie peut reproduire des hiérarchies, des conventions publiques et des échanges qui dépassent l'angoisse de l'individu. [A/B]
+
+### 52. Evans-Pritchard et les Azandé
+
+Dans *Witchcraft, Oracles and Magic among the Azande* (1937), E. E. Evans-Pritchard expose des formes de cohérence interne et des pratiques d'enquête de causalité qui ne se laissent pas caricaturer comme absence de logique. Tambiah engage avec cet héritage une discussion sur les catégories d'interprétation, particulièrement dans l'essai de 1973. Montrer qu'un système de croyances est intelligible dans son contexte n'est pas établir que chacune de ses propositions est empiriquement vraie. Cette distinction protège contre le mépris culturel comme contre l'exemption de toute critique. [A/B]
+
+### 53. Lévy-Bruhl et le piège de deux humanités
+
+La distinction entre mentalité dite « primitive » et pensée dite « logique » a traversé l'anthropologie occidentale. Même lorsque ses formulations historiques sont nuancées, elle a contribué à durcir des oppositions susceptibles d'essentialiser les populations. Tambiah préfère analyser des modes situés de raisonnement et d'action plutôt que répartir les êtres humains en classes cognitives immuables. Il ne faut pas attribuer à toutes les périodes de Lévy-Bruhl une thèse uniforme sans examen des textes et de ses corrections tardives. [B]
+
+### 54. Science : des procédures particulières de validation
+
+La science moderne se distingue notamment par la publicité de protocoles, la possibilité de contrôle intersubjectif, le recours à des instruments et l'ouverture à la réfutation. Ces traits peuvent varier selon les disciplines et leurs histoires. Reconnaître qu'une cérémonie est socialement efficace ne doit jamais servir à contester arbitrairement des données médicales, climatiques ou physiques bien établies. Tambiah aide à demander si deux pratiques répondent au même type de question avant de les classer comme concurrentes. Les énoncés peuvent avoir des fonctions différentes sans bénéficier d'une égale valeur probatoire sur les phénomènes naturels. [B]
+
+### 55. Philosophie du langage : Searle et Wittgenstein
+
+Les analyses des actes de parole chez John Searle et l'attention de Wittgenstein aux usages du langage fournissent des interlocuteurs conceptuels. Les règles qui donnent sens à une promesse ne sont pas celles qui permettent de tester une mesure météorologique. Mais l'invocation d'un « jeu de langage » ne suffit pas à résoudre toute question de vérité. Le défi est d'identifier les conventions tout en gardant possible la critique des conséquences matérielles. Le rapprochement ici est philosophique ; il ne suppose pas une identité doctrinale entre Tambiah et ces auteurs. [B/C]
+
+### 56. Le symbolique comme objet de conflit
+
+L'opposition entre description et action peut être elle-même un enjeu politique. Un acteur religieux peut vouloir interpréter une parole comme obligation impérative quand un auditeur la reçoit comme simple exhortation. Une cérémonie de pouvoir peut demander au public une approbation qui n'est pas libre. Le même signe ne contient pas à lui seul son régime de validité ; celui-ci dépend de personnes et d'institutions. Cette constatation invite à confronter les analyses performatives aux enquêtes sur la domination et sur les résistances locales. [B]
+
+## VI. Politique, violence et comparaison avec MYTHOS
+
+### 57. 1992 : le bouddhisme confronté à la violence
+
+*Buddhism Betrayed? Religion, Politics, and Violence in Sri Lanka* (University of Chicago Press, 1992) examine comment des courants du bouddhisme sri-lankais, traditionnellement associés à des normes de non-violence, peuvent être mobilisés dans des politiques nationalistes et des affrontements intercommunautaires. La question n'autorise ni à identifier le bouddhisme à la violence ni à tenir tous les moines pour les mêmes acteurs. Le livre reconstitue des transformations historiques, des discours et des organisations. Une doctrine de compassion n'implique pas automatiquement la conduite de ses représentants dans toutes les circonstances. [A/B]
+
+### 58. Les épreuves des appartenances ethno-religieuses
+
+Les conflits collectifs sont nourris par des récits de menace, des mémoires sélectives, des organisations et des décisions politiques. Les signes religieux peuvent devenir des emblèmes de frontières sociales, mais ils n'agissent pas sans intermédiaires. Dans son étude de 1992, Tambiah associe les discours de « restauration » du bouddhisme à la transformation de la vie publique. L'historien doit interroger les moyens de diffusion, les circonstances de mobilisation et les oppositions internes aux groupes plutôt que traiter une communauté religieuse comme un agent unique. [A/B]
+
+### 59. Les foules et la ritualisation de la violence
+
+*Leveling Crowds: Ethnonationalist Conflicts and Collective Violence in South Asia* (University of California Press, 1996 ; édition de poche 1997) examine des violences collectives en Sri Lanka, en Inde et au Pakistan. Son chapitre 8 porte explicitement sur la routinisation et la ritualisation de la violence. Le mot « ritualisation » n'y signifie pas que la violence serait un sacrifice immémorial : il peut désigner des répertoires répétés, des symboles et des pratiques organisées dans des situations modernes. La comparaison exige de restituer les intérêts politiques et les histoires locales. [A/B]
+
+### 60. Ne pas faire du rite un bien par nature
+
+La capacité d'une cérémonie à rassembler, à persuader et à transformer des statuts n'est pas moralement univoque. Elle peut soutenir l'entraide ou renforcer une exclusion. Les mêmes techniques de répétition, de synchronisation et d'autorisation peuvent porter des décisions généreuses ou des mobilisations hostiles. Une théorie du rituel qui en ferait nécessairement une solution aux conflits serait normativement naïve ; une théorie qui y verrait toujours une manipulation serait empiriquement aveugle. Il faut juger les conséquences selon des critères indépendants de la seule efficacité symbolique. [B]
+
+### 61. Mauss : don, obligation et prestige
+
+Le volume XCVI de MYTHOS consacré à Marcel Mauss fournit une première perspective sur les obligations de donner, recevoir et rendre. Chez Tambiah, les dons et pratiques religieuses doivent également être compris dans des relations durables d'interprétation et de statut. L'analogie ne signifie pas que le *dāna* bouddhique serait l'équivalent pur et simple du *potlatch*. Les matériaux ethnographiques, les conceptions du mérite et les normes éthiques diffèrent ; c'est la pluralité des formes d'obligation qui rend la comparaison productive. [B]
+
+### 62. Clastres : pouvoir et institution
+
+Pierre Clastres, étudié dans le volume XCV, refuse d'identifier spontanément société et centralisation étatique. Tambiah aborde les rapports entre autorités rituelles, institution monastique et pouvoir royal dans des terrains distincts. La comparaison pose la question des limites au commandement : une autorité religieuse peut soutenir un souverain tout en constituant un autre foyer de légitimité. Les thèses de Clastres ne doivent pas être exportées sans démonstration à l'Asie du Sud-Est monarchique. Il s'agit d'une question transversale, non d'une identité entre régimes. [B/C]
+
+### 63. Turner : liminalité et changement social
+
+Victor Turner analyse rites de passage, symboles et *communitas*. Tambiah partage avec cette orientation le refus de faire du rite un simple document doctrinal, mais privilégie la performativité et les structures linguistiques. Une séquence liminale peut aussi être analysée comme procédure de changement de statut. Il faut toutefois éviter l'inférence selon laquelle toute performance rituelle produit une communauté égalitaire : les positions de maître, d'officiant et de novice peuvent demeurer fortement hiérarchisées. [B]
+
+### 64. Mary Douglas et Catherine Bell
+
+Mary Douglas met en évidence les classements qui rendent certaines pratiques pures, dangereuses ou déplacées ; Catherine Bell cherche à analyser la ritualisation comme stratégie différenciatrice, corporelle et relationnelle. Tambiah fournit un autre instrument : les conditions d'efficacité de séquences verbales et multimodales. Les trois approches ne constituent pas une chronologie du « progrès scientifique » dont la dernière annulerait les précédentes. Leurs différences sont des ressources pour examiner un même dossier sous des angles multiples : classification, pratique, communication et pouvoir. [B]
+
+### 65. Talal Asad : définir la religion est déjà un acte historique
+
+Talal Asad critique les définitions universelles de la religion qui négligent leurs conditions de formation et les disciplines du corps. Cette critique avertit contre un usage trop extensif de la performativité : on ne peut décrire toutes les traditions par un même ensemble de fonctions sans enquêter sur les institutions qui définissent l'action valide. Là où Tambiah éclaire la forme des actes, Asad demande qui est autorisé à déterminer leur signification. Cette tension est féconde plutôt que contradictoire par nécessité. [B]
+
+### 66. Rappaport : communication et engagement canonique
+
+Le volume CLIX de MYTHOS analyse Roy Rappaport, qui distingue notamment messages canoniques et messages autoréférentiels dans la performance rituelle. Le rapprochement avec Tambiah concerne la relation entre forme répétée, communication et engagement social. Rappaport donne à sa synthèse une amplitude écologique et évolutionnaire différente de l'anthropologie historiquement située de Tambiah. Les rapprocher ne signifie pas assimiler leurs théories de la vérité, de la sacralité ou de l'adaptation. [B]
+
+### 67. Bourdieu : qui possède l'autorité de nommer ?
+
+La notion bourdieusienne de pouvoir symbolique rappelle qu'une parole n'agit pas seulement parce qu'une formule est correcte ; sa force est liée aux conditions sociales de l'autorisation. Un acte officiel peut produire un classement durable tout en se présentant comme simple constat. Le dialogue avec Tambiah invite à poser trois questions distinctes : qui prononce, quelles conventions reconnaissent l'énoncé, et qui supporte les effets de la décision ? Cette comparaison ne réduit pas le rite à un rapport de force, mais interdit d'abstraire sa légitimité du monde social. [B]
+
+## VII. Dossiers comparatifs antiques
+
+### 68. Homère, *Iliade* I, 33-52 : l'invocation comme relation
+
+Après le refus d'Agamemnon, Chrysès s'éloigne et prie Apollon. La scène rappelle ses offrandes passées avant la requête de vengeance. La forme de la supplication articule identification du dieu, relation antérieure, demande et confiance narrative dans la réception divine. Le poème affirme qu'Apollon écoute et frappe le camp achéen ; cette causalité appartient au monde représenté par l'épopée. Comparer l'invocation à un acte performatif est heuristique : aucune analyse de Tambiah ne peut prouver historiquement la façon exacte dont un prêtre de l'âge du Bronze concevait les mots de cette scène littéraire. [A/C]
+
+### 69. Homère, *Iliade* I, 447-474 : restaurer la relation
+
+Lorsque les Achéens apportent une hécatombe à Apollon, le récit détaille l'installation des victimes, le lavage des mains, les grains d'orge, la prière de Chrysès et la séquence d'abattage et de cuisson. L'efficacité narrative du rite diffère de celle de la première prière : il s'agit de rétablir une relation avec le dieu et de clore une crise collective. On peut distinguer parole, geste, personnel et traitement de la nourriture. Les vers fournissent une dramaturgie de réparation, non un guide archéologique complet des pratiques sacrifices panhelléniques. [A/B]
+
+### 70. L'*Odyssée* III, 430-462 : distribuer des rôles
+
+Dans le récit du sacrifice d'une génisse à Athéna chez Nestor, chaque membre du groupe accomplit une tâche : préparation du métal, de l'eau, de l'orge, mise à mort, prière et consommation. La cérémonie est décrite comme une action orchestrée et non comme la récitation d'une formule autonome. L'approche de Tambiah rend visibles la coordination, les objets et les distinctions de statut. Toutefois l'épopée est un poème en contexte narratif, et non la preuve qu'une séquence unique était suivie partout en Grèce. [A/B]
+
+### 71. Déméter et Éleusis : l'institution d'un secret
+
+Dans l'*Hymne homérique à Déméter*, vers 470-482, la déesse révèle aux figures éleusiniennes des pratiques sacrées dont la parole publique est limitée. Le texte distingue l'expérience du participant et celle du non-initié, tout en s'abstenant de raconter le secret. L'analyse performative peut interroger l'opération d'initiation : apprendre un statut, une discipline, des obligations et des limites de divulgation. Elle ne peut combler par imagination le contenu précis des mystères. L'absence de description fait elle-même partie de l'état documentaire. [A/B]
+
+### 72. Hérodote I, 132 : le mage et la théogonie
+
+Hérodote décrit, au livre I, 132.1-3, un sacrifice perse dans lequel le spécialiste religieux prononce une théogonie après la préparation de la victime ; selon le récit, le rite ne se fait pas sans mage. Il s'agit d'une observation mise en forme en grec et marquée par les comparaisons implicites avec les usages helléniques. La performance verbale et le statut de l'officiant sont directement pertinents pour Tambiah. Mais le témoignage d'Hérodote doit être confronté aux sources iraniennes : son assimilation de certaines divinités a suscité des critiques. [A/B]
+
+### 73. Hérodote et l'interprétation de l'autre
+
+La description des coutumes perses en *Histoires* I, 131-140 est un dossier de comparaison antique, mais ne vaut pas transcription phonétique des formules iraniennes. L'auteur sélectionne certains contrastes avec le sacrifice grec et reconstruit la différence culturelle dans son propre langage. L'*Encyclopaedia Iranica* signale notamment les difficultés de sa représentation des pratiques et l'ambiguïté de l'identification de « Mitra ». C'est un exemple de la façon dont la critique des sources limite l'usage comparatif : conserver le fait littéraire, sans le transformer en observation sans médiation. [A/B]
+
+### 74. Étymologie de « mage » et pratiques iraniennes
+
+Parler des « mages » achéménides demande de différencier le grec *magos*, les désignations iraniennes et les catégories postérieures de « magie ». L'étymologie ne permet pas de conclure que tous les spécialistes du culte perse étaient identiques, ni que la catégorie de magie au sens moderne y existait. Les textes avestiques et les inscriptions perses relèvent de traditions et de datations différentes. L'approche de Tambiah conseille d'étudier le rapport entre récitation, compétence et autorité plutôt que de faire d'une généalogie lexicale une histoire universelle des pratiques. [B]
+
+### 75. Le *Ratana Sutta*, Sn 2.1 : vérité et bénédiction
+
+Le *Ratana Sutta* conserve la phrase pali *etena saccena suvatthi hotu* et des références successives aux Trois Joyaux bouddhiques. La répétition articule proclamation d'une vérité reconnue et formulation d'un souhait de bien-être. L'analyse peut porter sur la position du refrain, l'adresse à différents êtres et le régime de bénédiction. Mais une récitation actuellement pratiquée n'est pas attestée dans tous ses détails par le seul texte canonique : il faut croiser des témoignages datés, des traditions de commentaire et des descriptions de terrain. [A/B]
+
+### 76. Le *Kūṭadanta Sutta*, DN 5 : le sacrifice réinterprété
+
+Le dialogue entre Kūṭadanta et le Bouddha décrit un sacrifice projeté puis un enseignement qui privilégie le bien-être collectif, les dons et la discipline sur la violence sacrificielle. L'intérêt réside dans la capacité d'un discours à réordonner une hiérarchie d'actes : l'efficacité éthique est mise au premier plan par rapport au faste matériel. Ce changement est attesté dans l'argumentation du texte, non comme résultat documenté d'une réforme historique unique. Il ne faut pas identifier directement le bouddhisme ancien du canon à toutes les pratiques thaïlandaises étudiées au XXe siècle. [A/B]
+
+### 77. Le *Ṛgveda* I, 1 : l'adresse à Agni
+
+Le premier hymne du *Ṛgveda* s'adresse à Agni et le présente notamment comme prêtre et médiateur de l'offrande. Cette architecture poétique permet une comparaison entre invocation, nomination des fonctions du destinataire divin et organisation du sacrifice. Toutefois la tradition védique connaît des règles accentuelles, métriques et rituelles propres, élaborées sur la longue durée ; elle ne doit pas être représentée comme une forme indifférenciée de « magie aryenne ». Les interprétations de l'hymne demandent des éditions sanskrites et des traductions critiques distinctes de l'analyse de Tambiah. [A/C]
+
+### 78. Rome : l'énoncé dans la *lustratio*
+
+Caton, *De agricultura* 141, rapporte une séquence de purification rurale impliquant une circumambulation sacrificielle et une adresse à Mars, avec prescriptions concernant les circonstances et les gestes. Il s'agit d'une source latine prescriptive de l'époque républicaine : elle témoigne d'une formule et d'une procédure, non de leur exécution uniforme dans toutes les campagnes romaines. L'approche performative permet de distinguer l'acte de nommer les bénéficiaires, la demande de protection du domaine, les objets sacrifiés et la compétence du responsable. [A/B]
+
+### 79. Égypte : des paroles funéraires instituées
+
+Les compositions funéraires égyptiennes, notamment les Textes des Pyramides, les Textes des Sarcophages et le *Livre des morts*, associent formulations, images et matériels funéraires dans des contextes socialement différenciés. Le chapitre 125 du *Livre des morts* est souvent décrit comme la « déclaration d'innocence » et s'inscrit dans la scène du jugement du défunt. L'historien doit distinguer les copies, les versions, leurs provenances et leurs dates. La théorie performative pose une question sur le rôle des énoncés ; elle ne démontre pas que leur efficacité attendue puisse être confirmée expérimentalement. [A/B]
+
+### 80. Mésopotamie : textes d'exorcisme et gestes
+
+Les séries mésopotamiennes dites *Maqlû* et *Šurpu* transmettent des ensembles incantatoires associés à des opérations rituelles. Leur existence montre qu'une performance peut combiner une écriture longue, des spécialistes et des gestes matériels. Mais une tablette retrouvée n'est pas un enregistrement sonore, et l'ordre de ses lignes ne suffit pas toujours à reconstituer une exécution. Les incantations ont des horizons thérapeutiques, judiciaires ou protecteurs selon les cas et les époques. L'analyse comparative exige un contrôle des éditions assyriologiques et de l'état des témoins. [A/B]
+
+### 81. Comparaison : fonction, effet et preuve
+
+Les dossiers précédents présentent des ressemblances formelles : adresse à une puissance, formules récurrentes, officiants reconnus, gestes matériels, attentes de protection et partage d'une nourriture. Mais les différences sont également fondamentales : cosmologies, écritures, langues, rapports aux morts, organisation du pouvoir et statut des participants. La méthode ne doit pas fabriquer une « religion originelle » commune parce que les catégories analytiques se recoupent. Chaque niveau de comparaison doit préciser sa base documentaire et l'interprétation qu'il autorise. [C]
+
+## VIII. Bilan critique et perspectives
+
+### 82. Trois régimes distincts d'efficacité
+
+Nous proposons de distinguer (1) l'efficacité conventionnelle, où un acte reconnu modifie droits ou statuts ; (2) l'efficacité interactionnelle, où la performance change attentes, affects et coordinations ; (3) l'efficacité causale naturelle alléguée, qui doit être évaluée par des méthodes indépendantes. Cette tripartition est un instrument analytique de MYTHOS, non une formule textuelle de Tambiah. Elle n'implique pas que les participants eux-mêmes séparent les registres ; elle oblige simplement le chercheur à ne pas inférer l'un de l'autre. [C]
+
+### 83. L'archive et la voix absente
+
+Dans les sociétés documentées uniquement par des textes anciens, le principal risque consiste à imaginer le vécu des participants à partir de prescriptions. Une règle sacerdotale atteste une représentation normative de l'action ; une inscription de donation atteste un acte formulé dans une langue institutionnelle ; un récit mythique témoigne d'un univers littéraire et religieux. Aucun de ces documents ne donne accès directement à la totalité d'une cérémonie, à ses émotions ou à tous ses effets. La prudence méthodologique doit être reconnue comme une condition de l'ambition comparatiste. [B]
+
+### 84. Les rites peuvent échouer de plusieurs façons
+
+Un officiant peut se tromper selon les règles internes ; le public peut contester la légitimité de son mandat ; la cérémonie peut réussir à produire une appartenance sans atteindre une finalité physique proclamée ; elle peut aussi contribuer à des violences. Ces échecs ne sont pas interchangeables. Un protocole d'étude doit recueillir les jugements des participants, documenter les transformations institutionnelles et préciser séparément les tests empiriques pertinents. Une théorie qui baptiserait toute performance « efficace » indépendamment de ce qui advient perdrait son contenu explicatif. [B]
+
+### 85. Ritualisation et dissensus
+
+Une performance publique synchronisée n'implique pas consentement de chacun. Des personnes peuvent participer sous la pression, par obligation économique, ou pour conserver des relations tout en rejetant la doctrine officielle. Le silence est ambigu : réserve, assentiment, exclusion ou désaccord prudent. Cette ambiguïté conduit à articuler Tambiah avec les théories de la représentation, de l'action collective et du pouvoir déjà traitées dans le cycle MYTHOS. Observer qui peut se retirer et qui peut contester est indispensable à une évaluation démocratique. [B]
+
+### 86. Quand la comparaison devient une hypothèse testable
+
+Une hypothèse pertinente pourrait être : les variations de séquence rituelle rendent certains désaccords plus visibles lorsque les règles d'autorisation sont fortement centralisées. Elle demande un corpus de cas, des critères de variation et des contre-exemples ; elle ne peut être validée par la seule lecture de quelques récits héroïques. Une autre hypothèse étudierait les effets de l'enregistrement numérique sur l'autorité de l'officiant. Ces propositions sont des extensions contemporaines, non des conclusions documentaires de Tambiah. [C]
+
+### 87. L'apport philosophique : l'acte et la proposition
+
+La frontière entre dire et faire est moins simple que ne le présume une conception du langage purement descriptive. Nommer, promettre, bénir, maudire, autoriser et réclamer ne sont pas seulement des suites de mots : ces opérations s'inscrivent dans des relations et dans des pratiques. Mais reconnaître leur dimension active ne dispense pas de demander si les affirmations descriptives contenues dans la performance sont vraies. L'enjeu philosophique est de maintenir ensemble pragmatique, histoire, épistémologie et critique sociale. [B]
+
+### 88. L'apport anthropologique : refus des échelles de civilisation
+
+Les dichotomies magie/religion/science ont souvent été transformées en hiérarchies entre sociétés. Tambiah invite à reconstituer l'histoire de ces catégories et les usages concrets de la parole rituelle. Sa critique des jugements ethnocentriques ne constitue pas une abolition des différences de méthodes de connaissance. Elle signifie que l'on n'apprend rien de précis en décrétant irrationnelle une collectivité entière avant d'avoir identifié ses pratiques, ses débats et ses institutions. Les catégories analytiques doivent être révisables au contact des sources. [B]
+
+### 89. La conclusion majeure : une puissance conditionnelle
+
+Le langage rituel possède une puissance sociale non parce qu'il aurait toujours un effet invisible, mais parce qu'il peut articuler des conventions, des relations d'autorité, des affects, des gestes et des représentations qui rendent certaines transformations reconnues. Cette puissance est conditionnelle, historique et contestable. Les sources grecques, indiennes, iraniennes, romaines, égyptiennes et mésopotamiennes permettent de formuler des questions comparatives, pas de produire une essence commune des religions. Le projet MYTHOS se poursuit ici avec une règle : décrire exactement avant de comparer largement, et distinguer toujours l'attesté de l'interprété. [A/B/C]
+
+## IX. Bibliographie scientifique, liens vers les sources et statut critique
+
+Les références suivantes ont été regroupées en corpus primaire de Tambiah, textes philosophiques, sources antiques et travaux critiques. Les URL permettent la vérification des notices et, lorsque l'accès est autorisé, du texte. Elles ne constituent pas une affirmation de consultation intégrale de tous les livres.
+
+1. **Tambiah, Stanley Jeyaraja (1968)** — « The Magical Power of Words », *Man*, n.s., 3/2, p. 175–208, DOI 10.2307/2798500. [Source ou notice](https://doi.org/10.2307/2798500). *Article primaire, référence contrôlée sur JSTOR.*
+2. **Tambiah, Stanley Jeyaraja (1973)** — « Form and Meaning of Magical Acts: A Point of View », dans Robin Horton et Ruth Finnegan (dir.), *Modes of Thought*, Londres, Faber & Faber ; réédition dans *HAU*, 7/3 (2017), p. 451–473, DOI 10.14318/hau7.3.030. [Source ou notice](https://doi.org/10.14318/hau7.3.030). *Texte primaire, réédition et origine contrôlées.*
+3. **Tambiah, Stanley Jeyaraja (1979/1981)** — « A Performative Approach to Ritual », *Proceedings of the British Academy*, 65, p. 113–169 ; année du volume 1979, publication du volume 1981. [Source ou notice](https://www.thebritishacademy.ac.uk/publishing/proceedings-british-academy/proceedings-volumes-1-111/65/). *Texte primaire ; double datation explicitée.*
+4. **Tambiah (1970)** — *Buddhism and the Spirit Cults in North-East Thailand*, Cambridge, Cambridge University Press. [Source ou notice](https://books.google.com/books/about/Buddhism_and_the_Spirit_Cults_in_North_E.html?id=-bVzQgAACAAJ). *Monographie primaire ; notice éditeur contrôlée.*
+5. **Tambiah (1976)** — *World Conqueror and World Renouncer: A Study of Buddhism and Polity in Thailand against a Historical Background*, Cambridge University Press, spéc. chap. 12 sur les lois concernant le saṅgha. [Source ou notice](https://www.cambridge.org/core/books/world-conqueror-and-world-renouncer/234CDB8B861966ABDEAC394C5A8A76A1). *Monographie primaire ; dates et sommaire de l'édition contrôlés.*
+6. **Tambiah (1977)** — « The Galactic Polity: The Structure of Traditional Kingdoms in Southeast Asia », *Annals of the New York Academy of Sciences*, 293/1, p. 69–97, DOI 10.1111/j.1749-6632.1977.tb41806.x. [Source ou notice](https://doi.org/10.1111/j.1749-6632.1977.tb41806.x). *Article primaire contrôlé sur le site de l'éditeur.*
+7. **Tambiah (1985)** — *Culture, Thought, and Social Action: An Anthropological Perspective*, Cambridge (MA), Harvard University Press. [Source ou notice](https://books.google.com/books?id=b6qAAAAAMAAJ). *Recueil primaire ; sommaire et publication vérifiés.*
+8. **Tambiah (1990)** — *Magic, Science, Religion, and the Scope of Rationality*, Cambridge, Cambridge University Press (Lewis Henry Morgan Lectures). [Source ou notice](https://search.worldcat.org/title/Magic-science-religion-and-the-scope-of-rationality/oclc/19458622). *Monographie primaire ; publication et thème contrôlés.*
+9. **Tambiah (1991)** — *Sri Lanka: Ethnic Fratricide and the Dismantling of Democracy*, Chicago, University of Chicago Press. [Source ou notice](https://press.uchicago.edu/ucp/books/author/T/S/au5239110.html). *Monographie politique ; notice de l'éditeur.*
+10. **Tambiah (1992)** — *Buddhism Betrayed? Religion, Politics, and Violence in Sri Lanka*, Chicago, University of Chicago Press. [Source ou notice](https://press.uchicago.edu/ucp/books/book/chicago/B/bo3618620.html). *Monographie primaire ; sommaire vérifié.*
+11. **Tambiah (1996)** — *Leveling Crowds: Ethnonationalist Conflicts and Collective Violence in South Asia*, Berkeley, University of California Press ; édition de poche 1997, spéc. chap. 8. [Source ou notice](https://www.ucpress.edu/book/9780520206427/leveling-crowds). *Monographie primaire ; dates d'édition distinguées.*
+12. **John L. Austin (1962)** — *How to Do Things with Words*, Oxford University Press ; conférences William James de 1955 ; édition posthume ; réédition revue 1975. [Source ou notice](https://academic.oup.com/book/5162). *Source primaire philosophique, distinction constatif/performatif et théorie des actes de parole.*
+13. **Edward B. Tylor (1871)** — *Primitive Culture: Researches into the Development of Mythology, Philosophy, Religion, Art, and Custom*, Londres, John Murray. [Source ou notice](https://archive.org/details/primitiveculture01tylouoft). *Source historique de comparaison, non autorité descriptive universelle.*
+14. **James G. Frazer (1890)** — *The Golden Bough*, première édition, Londres ; distinguer les rééditions considérablement développées. [Source ou notice](https://www.gutenberg.org/ebooks/3623). *Source historique de comparaison, édition numérique consultable.*
+15. **Bronisław Malinowski (1935)** — *Coral Gardens and Their Magic*, Londres, George Allen & Unwin. [Source ou notice](https://www.worldcat.org/search?q=Malinowski+Coral+Gardens+and+Their+Magic+1935). *Source ethnographique à replacer dans son terrain propre.*
+16. **E. E. Evans-Pritchard (1937)** — *Witchcraft, Oracles and Magic among the Azande*, Oxford, Clarendon Press. [Source ou notice](https://search.worldcat.org/search?q=Evans-Pritchard+Witchcraft+Oracles+Magic+Azande+1937). *Source de la controverse sur la rationalité.*
+17. **Hérodote** — *Histoires*, I, 131–132, en particulier 132.1–3, texte grec et traduction. [Source ou notice](https://sacred-texts.com/cla/hh/hh1130.htm). *Source primaire ancienne : narration grecque de rites perses.*
+18. **Hérodote — commentaire moderne** — « Herodotus iii. Defining the Persians », *Encyclopaedia Iranica*, pour les difficultés historiques de la représentation du rituel perse. [Source ou notice](https://www.iranicaonline.org/articles/herodotus-iii/). *Source secondaire critique.*
+19. **Homère** — *Iliade* I, 33–52 et I, 447–474, textes grec et traduction ; *Odyssée* III, 430–462. [Source ou notice](https://homer.johnhboyer.com/iliad/book/1/). *Sources primaires poétiques : elles n'établissent pas à elles seules des pratiques historiques uniformes.*
+20. **Homère, *Odyssée*** — Livre III, séquence du sacrifice de Nestor à Athéna, 430–462. [Source ou notice](https://www.theoi.com/Text/HomerOdyssey3.html). *Texte primaire ancien, traduction accessible.*
+21. ***Hymne homérique à Déméter*** — Vers 470–482, édition/traduction du Center for Hellenic Studies, Harvard. [Source ou notice](https://chs.harvard.edu/primary-source/homeric-hymn-to-demeter-sb/). *Source primaire : institution et secret des pratiques éleusiniennes.*
+22. ***Ratana Sutta*** — *Sutta Nipāta* 2.1, texte pali et traduction Bhikkhu Sujato. [Source ou notice](https://suttacentral.net/snp2.1/en/sujato). *Source canonique primaire, refrain *etena saccena suvatthi hotu*.*
+23. ***Kūṭadanta Sutta*** — *Dīgha Nikāya* 5, texte et traduction Bhikkhu Sujato. [Source ou notice](https://suttacentral.net/dn5/en/sujato). *Source canonique primaire : critique et réinterprétation du sacrifice.*
+24. **Caton** — *De agricultura* 141, prière et purification de la terre (*lustratio*). [Source ou notice](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cato/De_Agricultura/J*.html). *Source latine prescriptive ; vérifier la variante textuelle dans toute édition critique avant citation littérale.*
+25. **Aristote** — *Éthique à Nicomaque* VI et *Politique* III : discussion de la prudence pratique et des fonctions civiques (comparaison limitée). [Source ou notice](https://www.perseus.tufts.edu/hopper/searchresults?q=Aristotle+politics). *Source philosophique de contextualisation, non origine de l'anthropologie du performatif.*
+26. **Roy A. Rappaport (1999)** — *Ritual and Religion in the Making of Humanity*, Cambridge University Press. [Source ou notice](https://www.cambridge.org/core/books/ritual-and-religion-in-the-making-of-humanity/99F1AE57E9E2ACFD4019ED9A6DA38036). *Comparaison moderne, volume MYTHOS CLIX.*
+27. **Victor Turner (1969)** — *The Ritual Process: Structure and Anti-Structure*, Chicago, Aldine. [Source ou notice](https://search.worldcat.org/search?q=Victor+Turner+The+Ritual+Process+1969). *Rite de passage et communitas ; analyse distincte de la performativité.*
+28. **Catherine Bell (1992)** — *Ritual Theory, Ritual Practice*, New York, Oxford University Press. [Source ou notice](https://global.oup.com/academic/product/ritual-theory-ritual-practice-9780195076133). *Ritualisation et pratiques corporelles ; comparaison critique.*
+29. **Talal Asad (1993)** — *Genealogies of Religion: Discipline and Reasons of Power in Christianity and Islam*, Baltimore, Johns Hopkins University Press. [Source ou notice](https://www.press.jhu.edu/books/title/1241/genealogies-religion). *Généalogie de la catégorie religion ; comparaison critique.*
+30. **Stanley Tambiah — biographie** — « Stanley Jeyaraja Tambiah, social anthropologist, dies », *Harvard Gazette*, 7 mars 2014. [Source ou notice](https://news.harvard.edu/gazette/story/2014/03/stanley-jeyaraja-tambiah-social-anthropologist-dies/). *Source biographique institutionnelle.*
+
+### Concordance des textes antiques contrôlés
+
+| Source | Repère primaire | Ce qui est attesté | Ce qui demeure hypothétique |
+|---|---|---|---|
+| *Iliade* | I, 33–52 | Prière de Chrysès et réponse divine dans le récit épique | Déduire une causalité rituelle historique de la narration |
+| *Iliade* | I, 447–474 | Hécatombe, prière, gestes et partage décrits par le poème | Généraliser à l'ensemble des sacrifices grecs |
+| *Odyssée* | III, 430–462 | Sacrifice à Athéna organisé chez Nestor | En faire un manuel normatif universel |
+| *Hymne à Déméter* | 470–482 | Révélation de rites réservés et distinction initiés/non-initiés | Reconstruire les secrets d'Éleusis |
+| Hérodote | I, 132.1–3 | Témoignage grec d'une récitation sacerdotale perse | Identifier directement les mots iraniens d'origine |
+| *Ratana Sutta* | Sn 2.1 | Refrain de vérité et souhait de bien-être | Déduire une efficacité médicale ou physique |
+| *Kūṭadanta Sutta* | DN 5 | Argumentation canonique sur le sacrifice et l'éthique | Décrire une réforme historique datée par le seul dialogue |
+| Caton | *De agricultura* 141 | Procédure latine de purification agraire | Démontrer toutes ses réalisations effectives |
+
+### Bilan épistémologique
+
+**Résultats fondés sur des sources :** Tambiah est l'auteur des études identifiées par éditeur, année, volume et pagination ; le *Ratana Sutta* contient une formule répétée associant vérité et bien-être ; Homère décrit des séquences rituelles ; Hérodote relate un chant de mage ; les œuvres politiques de Tambiah interrogent les rapports entre religion, pouvoir et violence.
+
+**Interprétations à défendre par l'argument :** lire le rite comme performance multimodale ; différencier action conventionnelle et efficacité causale ; rapprocher les typologies de Tambiah des analyses d'Austin, de Bell, d'Asad et de Rappaport.
+
+**Hypothèses non démontrées :** uniformité transhistorique de l'expérience de la bénédiction ; équivalence entre toutes les incantations et prières ; effet physiologique d'une formule seule ; identité de fonction entre les scènes grecques et les rites observés en Thaïlande ; continuité historique entre les corpus comparés.
+
+**Conclusion documentaire :** le comparatisme progresse lorsqu'il produit des questions que les sources peuvent effectivement trancher. Il dégénère lorsqu'il transforme une ressemblance formelle en vérité universelle.
+
+---
+
+**Fin du volume CLX (160).** Le prochain numéro du cycle est **CLXI (161)**, sous réserve d'une nouvelle inspection du dépôt public, du registre éditorial et des archives non intégrées avant toute création.
