@@ -519,6 +519,12 @@
           "path": "chapitres/comparatif/volume-clix-roy-rappaport-rituel-ecologie-sacralite-communication.md",
           "request_sha256": "b677a33b962df2a1da7ac8db2c232a0437b7205b87730444af402d508b5456d0",
           "initial_source_sha256": "3f20c50e8c3d577b7c1784c73f59a80c67d608b985ebe5f62b4997dd5bc16c2c"
+        },
+        "556f462a-619a-4f02-8892-6b76852be215": {
+          "number": 160,
+          "path": "chapitres/comparatif/volume-clx-stanley-jeyaraja-tambiah-parole-rituelle-magie-performance-pouvoir.md",
+          "request_sha256": "045fc0f0a067dc72dbe122d3026153e30093a691e4d08368bfcde9276a74af29",
+          "initial_source_sha256": "8e00b4eaf428276402f268e0a72163edcfd37060c19c1696d529a27b0474fdef"
         }
       }
     }
