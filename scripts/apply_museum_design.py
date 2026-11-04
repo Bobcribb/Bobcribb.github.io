@@ -277,7 +277,7 @@ def apply(root):
             rail['class'] = list(dict.fromkeys(rail.get('class',[]) + ['mythos-bottom-gallery']))
         # Remove presentation-only empty wrappers and redundant decorative eyebrow.
         for eyebrow in doc.select('article.content > .eyebrow'):
-            eyebrow['class'].append('mythos-chrome-label')
+            eyebrow['class'] = list(dict.fromkeys(eyebrow.get('class', []) + ['mythos-chrome-label']))
         # Six-column illustrated directory reproduces the reference card rhythm.
         if url == '/' and not doc.select_one('.mythos-directory'):
             items = [*NAV,('/mythologie-comparee/','Mythologie comparée'),('/bibliotheque-egypte-ancienne/','Égypte ancienne'),('/bibliotheque-mesopotamie/','Mésopotamie'),('/reconstitutions-antiquite/','Reconstitutions')]
