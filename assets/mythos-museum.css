@@ -692,3 +692,90 @@ body.mythos-reading .mythos-academic-return{
   body.mythos-reading table.mythos-academic-table{min-width:0}
   body.mythos-reading .mythos-academic-figure{break-inside:avoid;background:#fff}
 }
+
+
+/* MYTHOS — accueil : documents archéologiques sourcés des trois bibliothèques.
+   Un objet précis, jamais une image attribuée à toute une civilisation. */
+body.mythos-design .mythos-civilisation-grid{
+  display:grid;
+  grid-template-columns:repeat(3,minmax(0,1fr));
+  gap:clamp(12px,1.8vw,24px);
+  width:100%;
+  margin:20px auto 24px;
+}
+body.mythos-design .mythos-civilisation-card{
+  display:flex;
+  flex-direction:column;
+  min-width:0;
+  border:1px solid #806a49;
+  background:#11191b;
+  color:#eee2cd;
+}
+body.mythos-design .mythos-civilisation-link{
+  display:flex;
+  flex-direction:column;
+  gap:9px;
+  flex:1 1 auto;
+  padding:clamp(12px,1.6vw,20px);
+  text-decoration:none!important;
+  color:#eee2cd;
+}
+body.mythos-design .mythos-civilisation-link img{
+  display:block;
+  width:100%;
+  height:clamp(150px,15vw,214px);
+  object-fit:contain;
+  margin-bottom:7px;
+  background:#0c1214;
+  border:1px solid #514734;
+}
+body.mythos-design .mythos-civilisation-kicker{
+  font:600 11px/1.4 system-ui,sans-serif;
+  letter-spacing:.11em;
+  color:#d5ad76;
+}
+body.mythos-design .mythos-civilisation-link strong{
+  font:400 clamp(21px,1.9vw,28px)/1.25 Georgia,serif;
+  color:#f1dfbe;
+}
+body.mythos-design .mythos-civilisation-link>span:last-child{
+  font:15px/1.55 Georgia,serif;
+  color:#dcd1c0;
+}
+body.mythos-design .mythos-civilisation-link:hover,
+body.mythos-design .mythos-civilisation-link:focus-visible{
+  outline:2px solid #e4bc83;
+  outline-offset:-3px;
+  background:#1d2828;
+}
+body.mythos-design .mythos-civilisation-credit{
+  margin-top:auto;
+  padding:12px clamp(12px,1.6vw,20px) 15px;
+  border-top:1px solid #584b37;
+  font:13px/1.65 system-ui,sans-serif;
+  overflow-wrap:anywhere;
+  color:#e5d8c2;
+}
+body.mythos-design .mythos-civilisation-credit summary{
+  min-height:44px;
+  display:flex;
+  align-items:center;
+  cursor:pointer;
+  color:#edc891;
+  text-decoration:underline;
+  text-underline-offset:3px;
+}
+body.mythos-design .mythos-civilisation-credit a{
+  color:#eacc98;
+  text-underline-offset:3px;
+}
+body.mythos-design .mythos-civilisation-credit div{
+  padding:10px 0 4px;
+}
+@media(max-width:970px){
+  body.mythos-design .mythos-civilisation-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+}
+@media(max-width:650px){
+  body.mythos-design .mythos-civilisation-grid{grid-template-columns:minmax(0,1fr)}
+  body.mythos-design .mythos-civilisation-link img{height:clamp(160px,48vw,260px)}
+}
