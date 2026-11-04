@@ -2,7 +2,7 @@
   "generated_at": "2026-11-04",
   "site": "bobmythos.fr",
   "method": "Illustrations photoréalistes interprétatives, textes et sources hors des pixels.",
-  "count": 41,
+  "count": 43,
   "entries": [
     {
       "id": "DEL-PAN-001",
@@ -823,6 +823,52 @@
       "provenance": "Image contemporaine créée avec IA ; sources archéologiques indépendantes sans approbation institutionnelle du rendu.",
       "sha256": "eb1aa371ddbfe6c5dfb8d930a1d0d58c591b6ce7dab21dd97f5b522c47135e9a",
       "scientific_notice": "/assets/reconstitutions-3d/notices/isthmie-temple-poseidon-sanctuaire-classique-panorama.json"
+    },
+    {
+      "id": "OLY-HER-001",
+      "slug": "olympie-heraion-vue-archaique-vers-600-av-jc",
+      "title": "Olympie — Héraion, temple d’Héra à l’époque archaïque",
+      "period": "Vers 600 av. J.-C. (état archaïque hypothétique)",
+      "caption": "Vue interprétative du temple dorique périptère d’Héra à Olympie, de plan allongé, avec murs en briques crues et couverture restituée. Illustration non métrique.",
+      "commentary": "Le sanctuaire d’Olympie comprend un Héraion archaïque daté approximativement de 600 av. J.-C. Sa disposition dorique périptère, son plan allongé, ses maçonneries de calcaire et de briques crues sont documentés. Cette image propose toutefois un péristyle d’apparence bois : la théorie d’un remplacement progressif des colonnes en bois par la pierre, longtemps traditionnelle, est débattue. Philip Sapirstein (American Journal of Archaeology 120, 2016, p. 565–601) conteste cette lecture et défend l’hypothèse d’un péristyle de pierre dès la construction. La vue ne doit donc pas être considérée comme la restitution établie de l’état originel. L’élévation exacte, le toit, les couleurs, les arbres et la topographie figurée sont conjecturaux.",
+      "certainty": "Élevé : Localisation et fonction du sanctuaire, datation archaïque approximative, temple dorique périptère de plan très allongé. Moyen : Nature des maçonneries, silhouette et proportions générales ; détails du bâti supérieur incomplets. Faible : Colonnade extérieure figurée en bois (hypothèse contestée), forme et traitement de la couverture, modénature, couleurs et paysage.",
+      "source_url": "https://olympicgames.culture.gov.gr/en/periigisi.html",
+      "secondary_sources": [
+        "https://whc.unesco.org/fr/list/517/",
+        "https://ajaonline.org/article/3180/",
+        "https://www.visitgreece.gr/en/experiences/culture/archaeological-sites-monuments/temple-of-hera-at-olympia"
+      ],
+      "src": "/assets/reconstitutions-3d/olympie-heraion-vue-archaique-vers-600-av-jc.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-04",
+      "type": "reconstitution 3D photoréaliste interprétative non métrique",
+      "provenance": "Restitution 3D photoréaliste originale générée numériquement, non métrique et non validée par les institutions citées. Aucun menu ni légende incrustés.",
+      "sha256": "509218f285d3871e7612d527f42e7f727f4973c9f14fba594a6b9e8e961c6cc3",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/olympie-heraion-vue-archaique-vers-600-av-jc.json"
+    },
+    {
+      "id": "OLY-PHI-001",
+      "slug": "olympie-philippeion-tholos-vers-330-av-jc",
+      "title": "Olympie — Philippéion, monument dynastique macédonien",
+      "period": "Vers 330 av. J.-C. (fin du IVe siècle av. J.-C.)",
+      "caption": "Tholos du Philippéion dans l’Altis, restituée en image 3D photoréaliste : péristyle ionique, cella ronde et toiture conique. Vue interprétative non métrique.",
+      "commentary": "Le Philippéion fut entrepris à Olympie après la bataille de Chéronée (338 av. J.-C.) sous Philippe II de Macédoine ; il fut vraisemblablement achevé sous Alexandre III. Cet édifice circulaire d’environ 15,24 m de diamètre comportait un péristyle de dix-huit colonnes ioniques, une cella ronde et neuf supports corinthiens engagés à l’intérieur ; des portraits dynastiques furent installés dans l’édifice. La couverture conique avec couronnement végétal est attestée par les descriptions du monument. L’image ne résulte toutefois pas d’une mesure des vestiges : élévation exacte, détail des baies et claustras visibles, surfaces décoratives, toiture, couleurs et végétation sont des hypothèses visuelles.",
+      "certainty": "Élevé : Site, chronologie relative après 338 av. J.-C., vocation dynastique, plan de tholos, péristyle ionique à dix-huit colonnes et décor corinthien intérieur. Moyen : Volume d’ensemble, structure circulaire et couverture conique. Faible : Hauteur et proportions précises des élévations, fenêtres et claustras, ornements, matériaux apparents, couleurs et paysage.",
+      "source_url": "https://olympicgames.culture.gov.gr/en/periigisi.html",
+      "secondary_sources": [
+        "https://arxaiaolympia.gov.gr/the-archaeological-site-of-olympia/?lang=en",
+        "https://perseus-aa.github.io/items/aa_287.html",
+        "https://whc.unesco.org/fr/list/517/"
+      ],
+      "src": "/assets/reconstitutions-3d/olympie-philippeion-tholos-vers-330-av-jc.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-04",
+      "type": "reconstitution 3D photoréaliste interprétative non métrique",
+      "provenance": "Restitution 3D photoréaliste originale générée numériquement ; image non métrique, non validée par les institutions citées. Aucun menu ni légende incrustés.",
+      "sha256": "95ecc9275a75d04845dca346f27d7171b07db2689569cbba2cbb0c417927e558",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/olympie-philippeion-tholos-vers-330-av-jc.json"
     }
   ]
 }
