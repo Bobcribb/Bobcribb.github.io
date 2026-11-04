@@ -2,7 +2,7 @@
   "generated_at": "2026-11-04",
   "site": "bobmythos.fr",
   "method": "Illustrations photoréalistes interprétatives, textes et sources hors des pixels.",
-  "count": 23,
+  "count": 24,
   "entries": [
     {
       "id": "DEL-PAN-001",
@@ -416,6 +416,28 @@
       "provenance": "Image créée par IA sans titre, logo ni menu intégré. Les institutions documentent les monuments et ne valident pas les choix graphiques.",
       "sha256": "58aba3ddc97130b5c4422e16fa7f00448e80975f2b1d7762b12500ac09b741f7",
       "scientific_notice": "/assets/reconstitutions-3d/notices/eleusis-telesterion-sanctuaire-panorama.json"
+    },
+    {
+      "id": "EPI-PAN-001",
+      "slug": "epidaure-asclepieion-sanctuaire-panorama",
+      "title": "Épidaure — sanctuaire d’Asclépios, temple, Tholos et Abaton",
+      "period": "Évocation vers 300 av. J.-C. (fin du IVe – début du IIIe siècle av. J.-C.)",
+      "caption": "Vue panoramique 3D photoréaliste et interprétative du sanctuaire guérisseur d’Asclépios à Épidaure, avec le temple dorique du dieu, la Tholos circulaire, la longue stoa de l’Abaton et le théâtre sur une hauteur boisée.",
+      "commentary": "Le temple d’Asclépios, construit vers 380–375 av. J.-C. par Théodotos, était un édifice dorique périptère à six colonnes en façade et onze sur les longs côtés (environ 13,21 × 24,30 m). La Tholos, associée à Polyclète le Jeune, fut élevée approximativement entre 365 et 335 av. J.-C. et comportait une colonnade dorique extérieure ainsi que des supports corinthiens intérieurs. L’Abaton, ou enkoimétérion, accueillait les malades pratiquant l’incubation : ils cherchaient dans le sommeil un rêve guérisseur. Le théâtre connut une première phase à la fin du IVe siècle et fut agrandi au IIe siècle av. J.-C. Cette image associe ces grands ensembles dans une vue d’évocation vers 300 av. J.-C., sans reproduire exactement l’implantation, les distances ni les élévations. Les toitures, couleurs, sculptures, plantes et personnages sont hypothétiques. Les institutions citées n’ont pas validé la reconstitution.",
+      "certainty": "Élevée : existence et fonction générale du sanctuaire, du temple d’Asclépios, de la Tholos et de l’Abaton, ordre dorique du temple et phases principales de construction. Moyenne : formes générales et cadre boisé. Faible : disposition et distances apparentes des édifices, détails des colonnades et du théâtre, hauteurs, toitures, couleurs, décor sculpté, végétation et personnages.",
+      "source_url": "https://whc.unesco.org/fr/list/491/",
+      "secondary_sources": [
+        "https://www.argolisculture.gr/media/1581/sanctuary-of-asklepios-at-epidavros.pdf",
+        "https://www.greekunescomonuments.gr/en/monument/sanctuary-of-asklepios-at-epidaurus/"
+      ],
+      "src": "/assets/reconstitutions-3d/epidaure-asclepieion-sanctuaire-panorama.webp",
+      "width": 1774,
+      "height": 887,
+      "created_at": "2026-11-04",
+      "type": "nouvelle reconstitution panoramique 3D photoréaliste interprétative non métrique",
+      "provenance": "Image originale produite par IA, sans textes, menus ou logos intégrés ; les sources documentent le site et ne certifient pas les détails de l’image.",
+      "sha256": "57753006a7abdd38d7260a9e9ad17c4afb03b9fa744bef8b27c0e240d7618a58",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/epidaure-asclepieion-sanctuaire-panorama.json"
     }
   ]
 }
