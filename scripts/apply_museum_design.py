@@ -346,6 +346,15 @@ def apply(root):
                         and image_path.endswith('.webp')
                         and (root / image_path.lstrip('/')).is_file()):
                     continue
+                # La Galigo: archive photographique de Leyde, conservée avec
+                # crédit et licence dans la carte de la bibliothèque.
+                # Ne conserver aucun SVG 2,5D ni image externe arbitraire.
+                if (card.get('href') ==
+                        '/bibliotheque-mythologies-du-monde/mythos-volume-19-la-galigo-bugis-sawerigading/'
+                        and authored.get('data-mythos-card-source') == 'la-galigo-leiden'
+                        and image_path ==
+                        'https://upload.wikimedia.org/wikipedia/commons/1/10/La_Galigo_item_29355-0009_%28cropped2%29.jpg'):
+                    continue
             for old in card.select('img.mythos-card-image'):
                 old.decompose()
             src = picture(card.get('href', ''), root)
