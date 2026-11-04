@@ -230,3 +230,10 @@ body.mythos-design .portal-card:not(:has(>img.mythos-card-image)){
 body.mythos-design .portal-card:not(:has(>img.mythos-card-image))>*{
   grid-column:1!important;
 }
+
+/* Eight top-level collections, including the Grande Encyclopédie, fit on a
+   wide desktop. On intermediate widths use the complete accessible disclosure
+   menu before the long title can collide with the brand and search controls. */
+@media (min-width:1051px) and (max-width:1280px){
+  body.mythos-design .mythos-primary-nav{display:none!important}
+}
