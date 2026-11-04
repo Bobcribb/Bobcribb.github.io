@@ -171,6 +171,18 @@
           "path": "chapitres/origines-du-sacre/600-maisons-livres-egypte-edfou-tebtynis.md",
           "request_sha256": "6d2bc1a27d3e7352a961074720cc6e259f919ceabe3fe88fad889592741fe907",
           "initial_source_sha256": "15eb1445d9c68de814da6b3b69ad3a34043321e8a3d3355bb98c84ab6a35f8fe"
+        },
+        "3a5e7d9c-4b28-4ac3-925a-d031cf7e8f44": {
+          "number": 601,
+          "path": "chapitres/origines-du-sacre/601-reparer-rite-faute-brahman-caton-lecteur-exorciste.md",
+          "request_sha256": "6a0a8b60e846ce590a4322a684387bbdf2f37c54126453e06dcc2fe119ddaec1",
+          "initial_source_sha256": "72e39c0bf0d8485eaa23cd81e4a0ab9f0fd31fa66646d5d249593e0e1b577be6"
+        },
+        "b8e49e7f-2ed0-42ac-91b1-6a2e0f5c7d40": {
+          "number": 602,
+          "path": "chapitres/origines-du-sacre/602-variants-erreurs-copies-textes-rituels-egypte-ninive.md",
+          "request_sha256": "ad583ca2f90587c4b17a14172f01c821f9184d8b6313e4409dd7dbe081eeec74",
+          "initial_source_sha256": "261921df02e637cd9400a80d2f1b1e6368899b6e55061e12ee7816e36f99d1a7"
         }
       }
     },
@@ -453,6 +465,12 @@
           "path": "chapitres/comedies/volume-059-eupolis-autolykos-corps-prestige-revisions-critique.md",
           "request_sha256": "2d62fb2e5732218efcade5294610c1bc257268d8d34c3faba9813145fe19e16f",
           "initial_source_sha256": "da0b2eb02f325635118114200b1bf9076e1cf6b1abf632601f6739b46dba19d2"
+        },
+        "8f7b6b12-c8aa-42e2-9437-e0bfa8d7c226": {
+          "number": 60,
+          "path": "chapitres/comedies/volume-060-pherekrates-metalleis-travail-abondance-tartare.md",
+          "request_sha256": "0300a99596797e0b8e436fdba3ca9f164d66dfa71965a71a6f89f18b076e41ec",
+          "initial_source_sha256": "4cdd2d23c91672dad242583f4229b92446ab7b17952713f805553c99f76e918a"
         }
       }
     },
@@ -573,6 +591,12 @@
           "path": "chapitres/tragedies/volume-cciii-euripide-philoctete-souffrance-ruse-cite.md",
           "request_sha256": "cd4cda1db32f347b627afe1d9beae69b1e702b0e217f001b66417555e7d23521",
           "initial_source_sha256": "2487f9ee7b9f0aa5042fa8190347b33fea68467ea8e161278ea76e26d4107de7"
+        },
+        "b87f89f1-cedf-4e2c-8840-f138f990be31": {
+          "number": 204,
+          "path": "chapitres/tragedies/volume-cciv-euripide-antigone-loi-filiation-reconciliation.md",
+          "request_sha256": "27980bb072d5c67b119ea0f8821574e8d583d10b1d94031dcbaab49e9f9a431f",
+          "initial_source_sha256": "0984e21bfe2d938203c709a55a74cb9221e7dad354f2244e1a2ca8a7f0d92967"
         }
       }
     },
@@ -713,6 +737,12 @@
           "path": "chapitres/comparatif/volume-clxiii-jeanne-favret-saada-sorcellerie-bocage-affect-parole-desorcellement.md",
           "request_sha256": "b2ca1e4bd58197ed901d33b24e66e5b8d50ad31df02098b634a42d213014ddb5",
           "initial_source_sha256": "befbeede68ddc82f250182c9d1dc21d32218aecfa85833dc96ca9fcbdba2e625"
+        },
+        "e4fd9aa8-5d4c-4ec1-9f3e-8be519a12d47": {
+          "number": 164,
+          "path": "chapitres/comparatif/volume-clxiv-philippe-descola-quatre-ontologies-nature-culture-mondes-vivants.md",
+          "request_sha256": "a4a25572268a578c342ff2e3b781fc41b0e7865f29fe142f962b4921e42b08cd",
+          "initial_source_sha256": "148a73faa2e8f950c0a6e9dd246fa3c1feab58e7e4c2741d9cf58acece2954fe"
         }
       }
     }

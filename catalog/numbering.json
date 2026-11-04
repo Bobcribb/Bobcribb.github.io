@@ -1106,6 +1106,12 @@
         "url": "/chapitres/tragedies/volume-cciii-euripide-philoctete-souffrance-ruse-cite/",
         "title": "Volume CCIII (203) — Euripide, Philoctète (Φιλοκτήτης) — La blessure, la ruse et le prix politique du retour",
         "source": "chapitres/tragedies/volume-cciii-euripide-philoctete-souffrance-ruse-cite.md"
+      },
+      {
+        "number": 204,
+        "url": "/chapitres/tragedies/volume-cciv-euripide-antigone-loi-filiation-reconciliation/",
+        "title": "Volume CCIV (204) — 1. Position dans l'encyclopédie et définition du problème",
+        "source": "chapitres/tragedies/volume-cciv-euripide-antigone-loi-filiation-reconciliation.md"
       }
     ],
     "comparatif": [
@@ -1762,6 +1768,12 @@
         "url": "/chapitres/comparatif/volume-clxiii-jeanne-favret-saada-sorcellerie-bocage-affect-parole-desorcellement/",
         "title": "Volume CLXIII (163) — Jeanne Favret-Saada : sorcellerie du Bocage, parole agissante, affect et désorcellement",
         "source": "chapitres/comparatif/volume-clxiii-jeanne-favret-saada-sorcellerie-bocage-affect-parole-desorcellement.md"
+      },
+      {
+        "number": 164,
+        "url": "/chapitres/comparatif/volume-clxiv-philippe-descola-quatre-ontologies-nature-culture-mondes-vivants/",
+        "title": "Volume CLXIV (164) — Philippe Descola : par-delà nature et culture, ontologies des vivants et comparaison des mondes",
+        "source": "chapitres/comparatif/volume-clxiv-philippe-descola-quatre-ontologies-nature-culture-mondes-vivants.md"
       }
     ],
     "comedies": [
@@ -2118,6 +2130,12 @@
         "url": "/chapitres/comedies/volume-059-eupolis-autolykos-corps-prestige-revisions-critique/",
         "title": "Volume LIX (59) — Eupolis, Autolykos I et II (Αὐτόλυκος αʹ, βʹ) : corps victorieux, spectacle social, langage et réécriture comique",
         "source": "chapitres/comedies/volume-059-eupolis-autolykos-corps-prestige-revisions-critique.md"
+      },
+      {
+        "number": 60,
+        "url": "/chapitres/comedies/volume-060-pherekrates-metalleis-travail-abondance-tartare/",
+        "title": "Volume LX (60) — Phérécrate, Metalleis (Μεταλλεῖς, « Les Mineurs ») : le travail aboli, les fleuves de nourriture et le rire des morts",
+        "source": "chapitres/comedies/volume-060-pherekrates-metalleis-travail-abondance-tartare.md"
       }
     ],
     "origines-du-sacre": [
@@ -3020,6 +3038,18 @@
         "url": "/chapitres/origines-du-sacre/600-maisons-livres-egypte-edfou-tebtynis/",
         "title": "Chapitre 600 — Conserver le savoir des dieux : maisons de livres, écoles sacerdotales et bibliothèque de Tebtynis",
         "source": "chapitres/origines-du-sacre/600-maisons-livres-egypte-edfou-tebtynis.md"
+      },
+      {
+        "number": 601,
+        "url": "/chapitres/origines-du-sacre/601-reparer-rite-faute-brahman-caton-lecteur-exorciste/",
+        "title": "Chapitre 601 — Réparer le rite interrompu : le brahman védique, Caton, le prêtre lecteur et l'exorciste mésopotamien",
+        "source": "chapitres/origines-du-sacre/601-reparer-rite-faute-brahman-caton-lecteur-exorciste.md"
+      },
+      {
+        "number": 602,
+        "url": "/chapitres/origines-du-sacre/602-variants-erreurs-copies-textes-rituels-egypte-ninive/",
+        "title": "Chapitre 602 — La faute du copiste et la variante du rituel : papyrus funéraires égyptiens et tablettes de Ninive",
+        "source": "chapitres/origines-du-sacre/602-variants-erreurs-copies-textes-rituels-egypte-ninive.md"
       }
     ]
   },

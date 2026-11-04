@@ -1,0 +1,155 @@
+# MYTHOS — Les Origines du sacré — Tome DCII, chapitre 602
+## La faute du copiste et la variante du rituel : papyrus funéraires égyptiens et tablettes de Ninive
+
+*Étude universitaire de philologie, d'histoire des écritures et d'anthropologie de la transmission. Cette livraison poursuit les deux dossiers sur les bibliothèques de temples égyptiens et les collections savantes mésopotamiennes, sans les répéter. Les lettres [P] renvoient aux témoins et éditions de sources primaires ; [R] aux études et instruments scientifiques. Les traductions françaises analytiques ne sont jamais présentées comme des citations littérales d'un manuscrit non collationné.*
+
+### 1. Une copie différente est-elle une copie défectueuse ?
+
+L'existence de plusieurs versions d'une formule rituelle oblige à poser une question avant de parler de faute : quel était le texte que le scribe entendait produire ? Une omission peut résulter d'un accident matériel ; une variante peut être l'héritage d'une autre tradition ; un déplacement peut relever d'une composition délibérée. Leur résultat visible — deux manuscrits qui ne se ressemblent pas — ne suffit pas à établir une intention ou une défaillance.
+
+La différence entre *variation*, *erreur* et *correction* est méthodologiquement décisive. Appeler toute divergence « corruption » présupposerait un original fixe dont l'identité serait déjà établie. Inversement, considérer chaque divergence comme créatrice priverait l'histoire de ses critères pour reconnaître une répétition involontaire, une perte de signes ou une confusion paléographique. L'enquête doit restituer l'architecture du texte, ses usages, ses supports et, lorsque les indices existent, la manière dont les anciens eux-mêmes qualifiaient sa transmission.
+
+Le chapitre précédent sur les bibliothèques exposait où se conservaient les écrits et à qui ils pouvaient appartenir. Il s'agit ici de comprendre une opération différente : **comment un écrit peut-il rester autorisé alors que sa transmission ne produit jamais nécessairement des objets identiques ?**
+
+### 2. Une collection moderne appelée « Livre des morts »
+
+Les spécialistes désignent comme *Livre des morts* un corpus de compositions funéraires égyptiennes plutôt qu'un livre uniforme que chaque défunt aurait reçu dans un ordre prescrit. La synthèse de l'University College London insiste sur la variété des supports, la sélection des compositions et l'absence d'information complète sur les modalités de commande des rouleaux. [R1]
+
+Cette précision met en garde contre un anachronisme éditorial. Le numéro « formule 125 », familier aux égyptologues, n'est pas une rubrique numérotée uniformément par tous les scribes du Nouvel Empire. La numérotation a été fixée progressivement par les savants modernes, notamment dans les travaux de Lepsius au XIXe siècle et de ses successeurs. [R1] Les numéros sont donc des instruments de référence contemporains, utiles et nécessaires, mais non la preuve d'une table des matières unique connue de tous les auteurs antiques.
+
+Si un rouleau contient les compositions que nous appelons 99, 7, 176 puis 125, comme l'indique l'inventaire du papyrus de Nu, il n'a pas nécessairement été composé dans l'intention de transgresser un ordre canonique moderne. Il faut comparer les témoins datés avant de déterminer si une séquence est habituelle, rare, liée à une tradition ou produite lors d'un assemblage particulier. [P1]
+
+### 3. La formule 125 : distinguer textes, sections et jugement
+
+La composition aujourd'hui nommée « 125 » est associée à l'accès à la salle du jugement, aux déclarations de non-culpabilité et aux divinités qui interrogent ou évaluent le mort. La présentation de l'University College London distingue conventionnellement plusieurs ensembles, désignés dans les publications modernes par 125A, 125B, 125C et 125D, dont une illustration peut constituer l'une des parties. [R2]
+
+Cette division est précieuse, mais elle doit être utilisée avec rigueur. Une scène figurée ne constitue pas une ligne de texte ; le nom donné à un groupe de déclarations ne garantit pas leur disposition identique dans tous les exemplaires ; une version particulière ne constitue pas automatiquement la norme de toutes les autres. La recherche doit donc noter ce qui relève du contenu, de l'illustration et de l'agencement matériel.
+
+Les déclarations du défunt ont souvent été rassemblées sous l'appellation moderne de « confession négative ». Celle-ci simplifie une réalité composite : il s'agit de proclamations situées dans une épreuve d'admission et dans un univers où la vérité, les obligations rituelles et l'ordre social sont étroitement articulés. L'appellation est utile pour identifier un dossier, mais elle ne doit pas remplacer l'étude des formulations égyptiennes et des différentes configurations manuscrites.
+
+### 4. Un témoin concret : le papyrus de Nu
+
+Le British Museum inventorie la feuille 22 du papyrus de Nu sous la cote **EA10477,22**. La notice décrit une vignette en couleur et plusieurs compositions dont la formule 125 ; elle identifie le manuscrit comme relevant de la XVIIIe dynastie. [P1]
+
+Cette notice est une donnée de premier ordre sur le témoin matériel, mais pas une édition critique intégrale. Elle établit ce que le musée identifie sur cette feuille ; elle ne précise pas, à elle seule, toutes les leçons du texte ni les interventions de chaque main. Pour discuter une faute à tel signe, il faudrait consulter le fac-similé, l'édition, et comparer l'emplacement exact avec des témoins pertinents. Le catalogue constitue une porte d'entrée à la preuve, non la preuve de toutes les hypothèses philologiques.
+
+Ce cas suggère déjà une distinction : l'ordre des compositions dans le rouleau est une question différente de la graphie d'un mot au sein de la composition. Un manuscrit peut présenter une sélection singulière tout en conservant des formules transmises avec soin. À l'inverse, un ordre d'ensemble fréquent n'empêche pas une omission locale. L'évaluation doit opérer à plusieurs échelles.
+
+### 5. Le papyrus Greenfield : couleurs, colonnes et annotations
+
+La feuille 38 du **papyrus Greenfield**, British Museum **EA10554,38**, contient notamment la suite de la formule 125. Le musée décrit trois colonnes de texte hiératique en noir et rouge, une vignette comprenant diverses puissances divines et deux annotations rouges en forme de signe de bouche, dont l'une est très effacée. La notice situe le manuscrit vers 950–930 avant notre ère. [P2]
+
+Une annotation n'est pas encore une correction. Elle peut marquer un repère, une opération de lecture, une subdivision ou une intervention d'une autre nature ; seule une analyse graphique et contextuelle peut préciser sa fonction. De même, l'usage de deux couleurs est attesté par la description matérielle, mais ne permet pas de baptiser chaque signe rouge « faute rectifiée ».
+
+La configuration des colonnes est historiquement intéressante. Lire un manuscrit ancien suppose aussi de comprendre son architecture spatiale : la suite de lecture, la place des dessins et les éventuelles indications marginales. L'hypothèse d'un usage rituel particulier peut être formulée, mais le simple inventaire visuel ne permet pas de reconstituer la récitation effective devant un auditoire.
+
+### 6. Le papyrus d'Imhotep : un ensemble non narratif
+
+Le Metropolitan Museum of Art décrit le *Livre des morts* d'Imhotep, prêtre d'Horus, daté du début de l'époque ptolémaïque, sous la cote **35.9.20a–w**. Le rouleau, qui mesure plus de vingt mètres selon la notice, présente 182 colonnes hiératiques avec des formules et des vignettes dont certaines peuvent tenir lieu de composition textuelle. Le musée précise que les séquences ne forment pas un récit linéaire, mais un ensemble organisé au moins partiellement par thèmes. [P3]
+
+Le cas permet de distinguer trois notions souvent confondues : le caractère répétitif des formules, l'ordre thématique d'un recueil et la succession narrative. Une cérémonie peut mobiliser plusieurs énoncés sans raconter une histoire continue. Une anthologie funéraire peut rassembler des protections différentes sans présupposer que chaque défunt les parcourait dans le même ordre que le lecteur moderne.
+
+La notion de « bonne copie » ne peut dès lors être évaluée seulement par rapport à un plan unique. L'hypothèse d'une commande, d'un choix familial ou d'une intervention d'atelier doit s'appuyer sur les particularités du support et les comparaisons disponibles ; elle ne doit pas être inventée pour expliquer une disposition inhabituelle.
+
+### 7. L'apparente standardisation : l'« édition saïte »
+
+La présentation d'University College London situe à partir de la XXVIe dynastie une ordonnance relativement régulière des compositions, souvent appelée « recension saïte ». [R1] Ce terme ne signifie pas que toutes les copies plus anciennes étaient désordonnées ou que les plus récentes sont identiques caractère par caractère.
+
+La standardisation est une proposition graduelle. Un ordre répété augmente les possibilités de comparer les copies et peut rendre une déviation plus visible. Elle ne supprime ni les choix locaux ni les différences de transmission. L'éditeur doit donc distinguer la stabilisation d'une séquence, celle d'un énoncé et celle d'une image, qui peuvent suivre des chronologies différentes.
+
+Il serait encore plus imprudent de conclure à une centralisation politique unique du seul constat d'une ressemblance accrue. La diffusion d'une pratique graphique, les routines d'atelier et la circulation de modèles sont des hypothèses distinctes qui demandent des preuves documentaires particulières.
+
+### 8. L'erreur graphique, la variante héritée, la variante voulue
+
+Pour analyser un texte rituel, nous proposons un protocole en trois niveaux. Premièrement, observer le phénomène : absence de signe, remplacement, répétition, ordre différent, rature, ajout marginal ou nouvelle colonne. Deuxièmement, déterminer sa genèse possible : défaut matériel, hésitation du scribe, modèle divergent, intervention de relecture. Troisièmement, évaluer ses effets : changement de sens, maintien du sens, création d'une ambiguïté ou reconfiguration d'une action.
+
+Ce protocole est **notre grille analytique**, non une règle énoncée par les scribes égyptiens. Il prévient deux excès symétriques. Le premier consisterait à déclarer fautive toute version minoritaire. Le second consisterait à faire de tout accident de copie une libre interprétation. Une correction archéologiquement observable — par exemple un remplacement sur le support — renseigne sur une opération ; son motif demeure à établir.
+
+La notion de « texte correct » est elle-même double. Le philologue cherche une formulation défendable au regard des témoins et de leur histoire. Le spécialiste rituel, s'il est attesté par une source, peut chercher la conformité à une tradition de performance. Rien n'autorise à réduire automatiquement ces deux critères à une seule règle universelle.
+
+### 9. Ninive : le colophon comme discours sur la fabrication
+
+Le programme *Reading the Library of Ashurbanipal*, associé au British Museum et à l'Université Louis-et-Maximilien de Munich, présente les colophons comme des notes placées après le corps des tablettes. Ils peuvent indiquer l'origine du modèle, les circonstances de la copie, un nom de propriétaire ou une formule protectrice. Mais tous les exemplaires n'en possèdent pas et leurs fonctions varient. [R3]
+
+Dans la bibliothèque royale de Ninive, une proportion remarquable de colophons suit des modèles formulaires qui insistent sur la possession d'Assurbanipal. Contrairement à bien d'autres colophons de scribes, ces textes standardisés ne donnent généralement ni date ni identité du copiste effectif. [R3] La signature royale de possession ne doit donc pas être lue comme la signature autographe de celui qui a gravé chaque tablette.
+
+Le dossier rend visible une tension importante entre la pluralité effective des opérations de copie et l'unité proclamée d'une collection. La formule d'autorité organise la lecture du produit achevé sans rendre transparent le travail de tous ses agents. Ce résultat prolonge l'étude précédente sur la garde des tablettes, mais déplace l'analyse vers la fabrication intellectuelle de leur texte.
+
+### 10. Le colophon « Asb b » : plusieurs originaux pour un seul exemplaire
+
+Le projet Oracc explique que le type de colophon royal désigné par les chercheurs comme **Asb b** affirme le recours à des tablettes et à des planchettes écrites provenant de divers lieux d'Assyrie et de Babylonie. Il ne décrit donc pas seulement la reproduction d'un unique modèle, mais une opération apparentée à la confrontation de plusieurs témoins. [P4]
+
+Cette déclaration est capitale pour une histoire de la philologie ancienne. Elle témoigne d'une prétention à contrôler et à réunir des sources multiples. Elle ne démontre pas, pour chaque tablette portant ce colophon, le détail des choix effectués ni l'existence d'un protocole de variantes identique à celui d'une édition critique moderne.
+
+L'ancienne formule « copier exactement » perd ici sa simplicité. Si deux sources divergent, faire une nouvelle version suppose de décider comment les traiter. Le colophon peut mettre en scène une exactitude obtenue par comparaison plutôt qu'une fidélité mécanique à un seul ancêtre. C'est un indice d'une pratique savante, non la preuve qu'aucune erreur ne pouvait subsister.
+
+### 11. Les limites de la reconstitution du travail savant
+
+Le même programme souligne que l'on ignore si cette manière de produire des copies à partir de plusieurs témoins fut conservée à toutes les phases de la bibliothèque. Il note aussi que les tablettes ayant servi de modèle ne sont pas simplement identifiables à l'ensemble des fragments trouvés lors des fouilles. [R4]
+
+Cette lacune impose une discipline à l'interprétation. Dire « les scribes de Ninive ont collationné plusieurs exemplaires » est justifié pour certains discours de colophon ; dresser un tableau de leurs variantes sans disposer des modèles serait fictif. Le destin des objets sources — réutilisation, transfert, disparition — reste à reconstruire.
+
+Une archive royale n'est pas la totalité des supports qui ont circulé dans l'empire. Les pertes archéologiques, le remploi et les habitudes de collecte influencent les corpus disponibles. Aucune stabilité manuscrite ne peut être déduite du seul prestige du palais.
+
+### 12. Le modèle et la provenance : un problème à deux faces
+
+Les colophons de Ninive mentionnent souvent des originaux. Le projet du British Museum rappelle toutefois qu'une partie des copies portant écriture babylonienne a pu utiliser des modèles déjà présents en Assyrie. La forme graphique d'une tablette ne suffit donc pas à établir sa dernière provenance. [R3]
+
+Cette différence entre tradition scripturaire et trajectoire matérielle est cruciale. Un texte peut conserver une langue ou une graphie prestigieuse bien loin de son lieu de composition. Une attribution géographique doit reposer sur des indices convergents, non seulement sur le style d'écriture.
+
+Dans le monde égyptien, la même prudence s'impose lorsque l'on associe une recension à un milieu ou à une période. L'appartenance à une tradition rédactionnelle ne signifie pas que chaque rouleau a été produit dans un atelier unique. Les analogies servent à poser les mêmes questions ; elles ne prouvent aucune transmission entre Ninive et les ateliers des papyrus funéraires.
+
+### 13. Le rôle du support dans le contrôle
+
+Papyrus et argile n'offrent pas les mêmes possibilités matérielles de reprise : l'orientation des fibres, la surface disponible, l'état du matériau, la disposition en colonnes et l'usage de l'encre diffèrent des incisions au calame. Mais une différence de support n'entraîne pas à elle seule une opposition de méthodes intellectuelles.
+
+Pour examiner une correction, il faudrait déterminer si elle précède ou suit le séchage d'une tablette, si elle se situe dans la même main, si elle appartient à la copie ou à la réception, et si elle concerne un signe, un énoncé ou un renvoi. Sur papyrus, il faudrait analyser les lavis, les ratures, les ajouts et les ruptures de séquence. L'identification de la main ne peut être simplement affirmée d'après une transcription imprimée.
+
+La tentation de faire du scribe un exécutant invisible est ici particulièrement dommageable. La construction de la page participe à la manière dont les formules sont retrouvées, comprises et utilisées. Mais l'auteur de l'agencement n'est pas automatiquement identifiable à une personne nommée dans une formule de propriété.
+
+### 14. La traduction comme nouvelle intervention
+
+Pour le lecteur de MYTHOS, la traduction représente une étape supplémentaire de transmission. Le traducteur doit choisir si un groupe de signes fonctionne comme titre, indication d'emploi, incantation ou commentaire. Une traduction française continue peut dissimuler la discontinuité d'un rouleau ou la disposition d'une tablette.
+
+Nous recommandons que les futures éditions du site distinguent explicitement : texte transcrit ; traduction ; restitution d'une lacune ; conjecture ; résumé analytique. Les crochets, points de suspension et renvois aux planches ne doivent pas être inventés. Lorsqu'une notice muséale seule a été consultée, elle doit être présentée comme telle, sans lui faire porter une collation des signes qu'elle ne contient pas.
+
+L'une des fonctions d'une encyclopédie critique est précisément de permettre à son lecteur de reconstruire la chaîne de preuve. Une formule égyptienne traduite depuis une édition et un intitulé moderne de « chapitre » ne possèdent pas le même statut documentaire.
+
+### 15. Vernant, Detienne, Nietzsche : comparer des gestes, non des essences
+
+Dans l'esprit de la méthode comparative de Marcel Detienne, il vaut mieux fabriquer des objets comparables limités — recopier, choisir entre témoins, garantir un modèle, nommer une erreur — qu'opposer deux entités globales, « l'Égypte » et « la Mésopotamie ». [R5] Les formes du savoir peuvent être rapprochées sans être confondues.
+
+Nietzsche, dans la deuxième dissertation de *La Généalogie de la morale*, § 12, distingue l'origine d'une chose et les fonctions qui lui sont ensuite données. La transposition à nos manuscrits est une interprétation philosophique : une formule peut être reprise et recevoir d'autres usages sans que l'on puisse déduire son origine de son emploi tardif. Elle ne prouve pas que toutes les transformations sont des usurpations.
+
+Jean-Pierre Vernant, lorsqu'il interroge les rapports entre écriture, cité et pensée en Grèce, offre un troisième contraste utile : les régimes d'autorité ne se décrivent pas simplement comme présence ou absence de « raison ». Le présent chapitre ne lui attribue aucune étude sur EA10477 ou sur Asb b. Son apport intervient au niveau de la question historiographique, non du relevé des objets.
+
+### 16. Une grille de certitude pour une philologie publique
+
+**Documents attestés :** les notices du British Museum identifient plusieurs manuscrits et leur contenu ; l'UCL expose la formation moderne des numéros et la diversité des séquences ; le Metropolitan Museum décrit un rouleau ptolémaïque comme ensemble de formules non narratif ; les colophons assyriens documentés par Oracc enregistrent divers modèles de possession et de copie. [P1–P4 ; R1–R4]
+
+**Difficultés ouvertes :** critères individuels de sélection des formules, distinction des corrections et annotations, identité des copistes, possession effective des modèles utilisés à Ninive, degré d'application de la collation à tous les types de textes. Aucune de ces questions ne peut être résolue par le seul prestige du titre « Livre des morts » ou de la « Bibliothèque d'Assurbanipal ».
+
+**Hypothèse de travail :** la correction d'un texte rituel peut viser à maintenir une continuité reconnue tout en sélectionnant entre des formes héritées. Cette opération n'est ni forcément une conservation passive ni nécessairement une innovation religieuse. Sa signification doit être reconstituée à partir des supports et des déclarations anciennes.
+
+### 17. Conclusion : l'exactitude est une relation historiquement construite
+
+L'exactitude d'une copie n'est pas seulement la ressemblance visible entre deux objets. Elle se comprend par rapport à un modèle revendiqué, à un usage prévu et à une histoire de transmission. Les collections de formules égyptiennes et les colophons royaux de Ninive permettent de décrire des manières différentes de rendre cette relation crédible.
+
+Le résultat important est donc négatif et positif. Négatif : ne pas appeler erreur toute divergence, ni authenticité toute ancienneté proclamée. Positif : reconstruire autant que possible la chaîne des supports, des lecteurs, des procédures de comparaison et des choix. L'histoire du sacré devient ainsi aussi une histoire de l'attention accordée au texte.
+
+La prochaine étude, conçue comme dossier distinct et non comme chapitre numéroté à l'avance, examinera **l'erreur commise pendant l'accomplissement d'un rite** et la manière dont des spécialistes prétendent la réparer : des sacrifices védiques à la lustration romaine, en dialogue critique avec les compétences des prêtres lecteurs égyptiens.
+
+### Sources primaires, identifiants et instruments vérifiés
+
+- **[P1] British Museum**, *Book of the Dead of Nu*, feuille 22, **EA10477,22** (XVIIIe dynastie), notice d'objet énumérant notamment les compositions 99, 7, 176 et 125 : https://www.britishmuseum.org/collection/object/Y_EA10477-22 . La notice est utilisée pour la description, non pour une collation des leçons.
+- **[P2] British Museum**, papyrus Greenfield, feuille 38, **EA10554,38**, env. 950–930 av. n. è., suite de la composition 125, disposition hiératique et annotations rouges : https://www.britishmuseum.org/collection/object/Y_EA10554-38 .
+- **[P3] Metropolitan Museum of Art**, *Book of the Dead of the Priest of Horus, Imhotep (Imuthes)*, **35.9.20a–w**, début de l'époque ptolémaïque, présentation matérielle et iconographique : https://www.metmuseum.org/art/collection/search/551786 .
+- **[P4] Colophon assyrien de type « Asb b »**, catégorie éditoriale moderne ; état de la présentation et renvoi à l'édition composite dans le projet *Reading the Library of Ashurbanipal*, British Museum / LMU, https://oracc2.museum.upenn.edu/asbp/rlasb/Librarycolophons/Colophonsexplained/index.html . Il n'est reproduit ici aucun passage akkadien non collationné.
+- **[R1] University College London, Digital Egypt**, « What is the Book of the Dead? », aperçu historique et modalités de numérotation : https://www.ucl.ac.uk/museums-static/digitalegypt/literature/religious/bdquestions.html .
+- **[R2] University College London, Digital Egypt**, « Book of the Dead — Chapters in modern numerical order », avec subdivisions documentaires de la composition 125 : https://www.ucl.ac.uk/museums-static/digitalegypt/literature/religious/bdbynumber.html .
+- **[R3] Jonathan Taylor**, « Library colophons », *Reading the Library of Ashurbanipal*, projet du British Museum et de la LMU, présentation datée de 2022 : https://oracc.museum.upenn.edu/asbp/rlasb/Librarycolophons/index.html .
+- **[R4] *Reading the Library of Ashurbanipal***, « Making sense of the Library », discussion des copies, de la collation et de la conservation des modèles : https://build.oracc.org/asbp/rlasb/AssemblingtheLibrary/MakingsenseoftheLibrary/index.html .
+- **[R5] Marcel Detienne**, *Comparer l'incomparable*, Paris, Seuil, 2000 ; **Friedrich Nietzsche**, *Zur Genealogie der Moral*, deuxième dissertation, § 12, 1887 ; **Jean-Pierre Vernant**, *Mythe et pensée chez les Grecs*, Paris, Maspero, 1965. Références de méthode, non éditions des papyrus et des tablettes.
+- **Complément bibliographique :** G. Lapp, *The Papyrus of Nu*, British Museum, 1997 ; T. G. Allen, *The Book of the Dead or Going Forth by Day*, Chicago, Oriental Institute, 1974. Références identifiées dans les catalogues institutionnels, sans prétendre ici à une relecture intégrale de ces volumes.
+
+**Continuité scientifique :** après les dossiers sur les maisons de livres d'Égypte et les tablettes savantes de Mésopotamie. L'attribution du numéro et du tome relève exclusivement de la file GitHub.
