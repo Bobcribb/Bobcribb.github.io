@@ -1,8 +1,14 @@
 name: Publier les reconstitutions 3D sur bobmythos.fr
 
-# Le workflow principal publish.yml traite déjà chaque changement des assets/ et des pages HTML.
-# Ce workflow reste disponible en secours manuel, sans déclencher un second déploiement concurrent.
+# Publication complète et non-mutante, indépendante du travail éditorial horaire.
 on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/publish-photorealistic-gallery.yml'
+      - 'scripts/publish_photorealistic_snapshot.py'
+      - 'assets/reconstitutions-3d/**'
+      - 'reconstitutions-photorealistes.html'
   workflow_dispatch:
 
 permissions:
@@ -11,67 +17,47 @@ permissions:
   id-token: write
 
 concurrency:
-  group: mythos-github-pages
-  cancel-in-progress: false
+  group: mythos-photo-pages
+  cancel-in-progress: true
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    timeout-minutes: 25
+    timeout-minutes: 15
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - name: Récupérer le domaine MYTHOS (source complète)
+      - name: Récupérer tout MYTHOS depuis main
         uses: actions/checkout@v4
         with:
           ref: main
-      - name: Installer Python
+          fetch-depth: 1
+      - name: Préparer Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Préparer le rendu PDF et les polices grecques
-        run: |
-          sudo apt-get update -qq
-          sudo apt-get install -y libpango-1.0-0 libpangoft2-1.0-0 fonts-dejavu-core fonts-urw-base35
-      - name: Installer les dépendances de génération
-        run: python -m pip install -r requirements.txt
-      - name: Reconstruire toutes les pages du site sans éditer les sources
-        run: python scripts/build_native.py
-      - name: Contrôler le catalogue photoréaliste et préserver le site
-        run: |
-          python - <<'PY'
-          import json, pathlib, re
-          root=pathlib.Path('_site')
-          manifest=root/'assets/reconstitutions-3d/catalogue-photorealiste.json'
-          page=root/'reconstitutions-photorealistes.html'
-          items=json.loads(manifest.read_text(encoding='utf-8'))['entries']
-          assert len(items)>=15, f'Corpus tronqué : {len(items)}'
-          assert len({x['slug'] for x in items})==len(items), 'Doublon de slug'
-          assert page.is_file() and page.stat().st_size>10000, 'Galerie manquante'
-          rendered=page.read_text(encoding='utf-8')
-          for item in items:
-              url=item['src']; assert url.startswith('/assets/reconstitutions-3d/')
-              local=root/url.lstrip('/')
-              assert local.is_file() and local.stat().st_size>10000, f'Image absente : {local}'
-              assert url in rendered, f'Image absente de la galerie : {url}'
-              assert 'source_url' in item and item['source_url'].startswith('https://')
-          assert (root/'index.html').is_file()
-          assert (root/'reconstitutions-antiquite/index.html').is_file()
-          assert (root/'CNAME').read_text().strip()=='bobmythos.fr'
-          assert len(list(root.rglob('index.html')))>1000, 'Publication du corpus complet non garantie'
-          print('MYTHOS :',len(items),'images WebP et notices présentes ; encyclopédie préservée.')
-          PY
-      - name: Refuser de déployer un instantané devenu ancien
+      - name: Préparer le site complet sans modifier les manuscrits
+        run: python scripts/publish_photorealistic_snapshot.py
+      - name: Refuser une galerie modifiée pendant le rendu
         run: |
           git fetch --no-tags origin refs/heads/main:refs/remotes/origin/main
-          test "$(git rev-parse HEAD)" = "$(git rev-parse refs/remotes/origin/main)" || { echo "main a évolué : la publication principale prendra le relais."; exit 1; }
+          git diff --quiet HEAD refs/remotes/origin/main -- assets/reconstitutions-3d/ reconstitutions-photorealistes.html || { echo 'Une image a changé pendant le rendu.'; exit 1; }
       - name: Configurer GitHub Pages
         uses: actions/configure-pages@v5
-      - name: Préparer les fichiers du site complet
+      - name: Envoyer tous les fichiers publics
         uses: actions/upload-pages-artifact@v3
         with:
           path: _site
-      - name: Déployer sur bobmythos.fr
-        uses: actions/deploy-pages@v4
+      - name: Déployer le site complet
         id: deployment
+        uses: actions/deploy-pages@v4
+      - name: Vérifier les WebP et les notices sur bobmythos.fr
+        run: python scripts/verify_photoreal_gallery.py --output /tmp/mythos-photo-verification.json
+      - name: Sauvegarder la preuve de publication
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: mythos-photo-verification
+          path: /tmp/mythos-photo-verification.json
+          if-no-files-found: warn
