@@ -2,7 +2,7 @@
   "generated_at": "2026-11-04",
   "site": "bobmythos.fr",
   "method": "Illustrations photoréalistes interprétatives, textes et sources hors des pixels.",
-  "count": 43,
+  "count": 44,
   "entries": [
     {
       "id": "DEL-PAN-001",
@@ -869,6 +869,29 @@
       "provenance": "Restitution 3D photoréaliste originale générée numériquement ; image non métrique, non validée par les institutions citées. Aucun menu ni légende incrustés.",
       "sha256": "95ecc9275a75d04845dca346f27d7171b07db2689569cbba2cbb0c417927e558",
       "scientific_notice": "/assets/reconstitutions-3d/notices/olympie-philippeion-tholos-vers-330-av-jc.json"
+    },
+    {
+      "id": "OLY-ZEU-001",
+      "slug": "olympie-zeus-temple-dorique-vers-450-av-jc",
+      "title": "Olympie — temple de Zeus, façade orientale et péristyle dorique",
+      "period": "Évocation vers 450 av. J.-C. ; construction vers 470–456 av. J.-C.",
+      "caption": "Reconstitution numérique 3D photoréaliste et non métrique du temple de Zeus dans l’Altis : péristyle dorique, façade orientale, entablement et toiture restitués.",
+      "commentary": "Le temple de Zeus à Olympie, attribué par Pausanias à l’architecte Libon d’Élis, fut édifié vers 470–456 av. J.-C. Son plan dorique périptère comporte six colonnes en façade et treize sur chaque long côté, sur un stylobate mesurant environ 27,68 × 64,12 m. Les structures sont essentiellement en calcaire coquillier local, recouvert de stuc blanc ; la couverture et les sculptures étaient en marbre. Le fronton oriental évoquait le cycle de Pélops et d’Œnomaos, le fronton occidental la centauromachie, et les métopes les travaux d’Héraclès. La statue chryséléphantine de Zeus, créée par Phidias vers 430 av. J.-C., n’est pas montrée. Cette image est une évocation visuelle : les personnages et l’attelage du fronton sont représentés librement et ne constituent pas une copie des sculptures conservées. Les hauteurs, les couleurs, les acrotères, le détail des métopes, la végétation et les bâtiments secondaires restent interprétatifs. Les données métriques servent à documenter le monument et ne signifient pas que cette vue est un modèle archéologique validé.",
+      "certainty": "Élevé : Existence et emplacement du monument, chronologie de construction, ordre dorique, péristyle de 6 × 13 colonnes, plan d’environ 27,68 × 64,12 m, calcaire enduit, sujets des frontons et des métopes. Moyen : Volume général et silhouette architecturale avec soubassement à degrés, toit en pente, parcours du péristyle et détails de structure. Faible : Disposition précise et gestes des figures du fronton, attelage, acrotères, polychromie, détails des métopes et des toitures, architecture secondaire, végétation, éclairage et comptage des colonnes visible en perspective.",
+      "source_url": "https://olympicgames.culture.gov.gr/en/periigisi.html",
+      "secondary_sources": [
+        "https://perseus-aa.github.io/items/aa_294.html",
+        "https://visit-olympia.gr/en/node/295",
+        "https://smarthistory.org/temple-of-zeus-olympia/"
+      ],
+      "src": "/assets/reconstitutions-3d/olympie-zeus-temple-dorique-vers-450-av-jc.webp",
+      "width": 1774,
+      "height": 887,
+      "created_at": "2026-11-04",
+      "type": "panorama 3D photoréaliste interprétatif non métrique",
+      "provenance": "Image photoréaliste créée par IA pour une reconstitution interprétative. Ni modèle 3D scientifique mesuré, ni photogrammétrie, ni rendu officiellement validé par les institutions mentionnées. Aucun menu, encart, texte ou filigrane intégré à l’image.",
+      "sha256": "300e5c83458806d34baeaeb05b5762ab4536eaaa9d6f7f8c4f4ea5b38371f32b",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/olympie-zeus-temple-dorique-vers-450-av-jc.json"
     }
   ]
 }
