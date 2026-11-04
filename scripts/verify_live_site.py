@@ -212,6 +212,14 @@ RECENT_FIGURES = (
      "/assets/illustrations-articles/met-705224-ulysse-circe-flaxman.webp"),
     ("philosophie-theogonie.html", "icono-theogonie-ottley-nuit-enfants-attribution-20261104",
      "/assets/illustrations-articles/met-649972-ottley-nuit-enfants.webp"),
+    # Museum documents inserted during the immediately preceding iconography
+    # session. Compare every figure, caption and exact WebP file on HTTPS.
+    ("philosophie-iliade.html", "icono-iliade-rembrandt-aristote-homere-met-437394-20261104",
+     "/assets/illustrations-articles/met-437394-aristote-homere-rembrandt.webp"),
+    ("philosophie-odyssee.html", "icono-odyssee-persephone-enfers-met-252973-20261104",
+     "/assets/illustrations-articles/met-252973-persephone-retour-enfers.webp"),
+    ("philosophie-theogonie.html", "icono-theogonie-nike-styx-met-247903-20261104",
+     "/assets/illustrations-articles/met-247903-nike-terre-cuite.webp"),
 )
 
 

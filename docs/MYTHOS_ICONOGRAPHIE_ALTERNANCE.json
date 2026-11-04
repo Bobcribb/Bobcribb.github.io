@@ -5,56 +5,44 @@
   "branch": "main",
   "latest_session": {
     "date": "2026-11-04",
-    "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "previous_kind": "AUDIT ET CORRECTION",
-    "next_kind": "AUDIT ET CORRECTION",
-    "scope": "Trois documents muséaux authentiques insérés dans les lectures philosophiques Iliade, Odyssée et Théogonie, sans modifier le texte scientifique.",
-    "basis_commit": "941787a2dffcea766a36bd8d2b91a5b605a547b9",
-    "inserted_figures": [
+    "kind": "AUDIT ET CORRECTION",
+    "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "scope": "Audit post-iconographique des trois monographies philosophiques et protection du contrôle public de trois nouveaux WebP du Met, ajoutés lors de la dernière séance concurrente.",
+    "basis_commit": "acfdeb901282ff25993a4803c68e7efd78822575",
+    "audited_pages": 3,
+    "html_ids_checked": 332,
+    "internal_anchors_checked": 335,
+    "duplicate_ids": 0,
+    "broken_local_anchors": 0,
+    "img_elements_checked": 72,
+    "img_without_alt": 0,
+    "verification_source": "Les trois nouvelles figures existent dans les pages source sur main, avec notices, datations et statut d'artefact ancien ou de peinture de réception moderne. L'alternance a changé pendant la préparation : une séance d'enrichissement tierce a été enregistrée, puis la présente séance est basculée vers l'audit comme requis.",
+    "checked_figures": [
       {
         "page": "philosophie-iliade.html",
         "id": "icono-iliade-rembrandt-aristote-homere-met-437394-20261104",
-        "asset": "/assets/illustrations-articles/met-437394-aristote-homere-rembrandt.webp",
-        "met_object_id": 437394,
-        "source": "https://www.metmuseum.org/art/collection/search/437394"
+        "src": "/assets/illustrations-articles/met-437394-aristote-homere-rembrandt.webp"
       },
       {
         "page": "philosophie-odyssee.html",
         "id": "icono-odyssee-persephone-enfers-met-252973-20261104",
-        "asset": "/assets/illustrations-articles/met-252973-persephone-retour-enfers.webp",
-        "met_object_id": 252973,
-        "source": "https://www.metmuseum.org/art/collection/search/252973"
+        "src": "/assets/illustrations-articles/met-252973-persephone-retour-enfers.webp"
       },
       {
         "page": "philosophie-theogonie.html",
         "id": "icono-theogonie-nike-styx-met-247903-20261104",
-        "asset": "/assets/illustrations-articles/met-247903-nike-terre-cuite.webp",
-        "met_object_id": 247903,
-        "source": "https://www.metmuseum.org/art/collection/search/247903"
+        "src": "/assets/illustrations-articles/met-247903-nike-terre-cuite.webp"
       }
     ],
-    "checked_pages": 3,
-    "images_before": [
-      23,
-      22,
-      24
-    ],
-    "images_after": [
-      24,
-      23,
-      25
-    ],
-    "ids_checked": 332,
-    "anchors_checked": 335,
-    "duplicate_ids": 0,
-    "broken_anchors": 0,
-    "missing_img_alt": 0,
-    "scientific_note": "Une peinture du XVIIe siècle est déclarée réception moderne ; le cratère de Perséphone sert seulement de parallèle du monde infernal, pas d'illustration d'un épisode homérique ; la statuette de Nikè illustre un nom de la généalogie de Styx, sans prétendre documenter matériellement le texte d'Hésiode.",
-    "asset_provenance": "Fichiers WebP locaux préexistants avec notices MET, dates, numéros d'inventaire, licence CC0 et empreintes SHA-256 dans assets/illustrations-articles/sources-met.json. Aucun contenu IA ni ancien SVG 2,5D réintroduit.",
-    "basic_checks": "Précommit : 3 HTML relus ; insertion non destructive unique par H2 ciblé ; absence de doublons d'ID et de src, 0 ancre locale brisée, aucune image dépourvue de alt ; provenance des 3 objets et chemin exact contrôlés dans manifest; test de régression ajouté.",
-    "deployment": "Non confirmé : GitHub Actions étaient actifs et le site public hors de portée du lecteur HTTPS direct au début de séance ; vérifier la CI et le manifeste /catalog/publication-verification.json après commit.",
-    "limitations": "Pas de rendu responsive ni PDF A4 exécuté localement. Les études dépassaient déjà le seuil demandé de dix pages, sans modification de leur pagination.",
-    "preservation": "Aucun texte préexistant, sommaire, numérotation, script de génération, file éditoriale, registre d'attribution, menu ni planification modifié."
+    "verified_gap": "scripts/verify_live_site.py contrôlait 11 figures sur 6 pages mais n'incluait pas les trois derniers documents du Met. Un déploiement sans ces figures pouvait passer les contrôles individuels.",
+    "correction": "Élargir RECENT_FIGURES à 14 figures sur 6 pages et vérifier leurs notices HTML, crédits, alt, statuts documentaires, signature WebP et octets SHA-256. Étendre les tests de régression : simulation de la disparition de Nikè et altération des octets du Rembrandt.",
+    "test_note": "Assertions passées de 11 à 14 médias, 17 à 20 vérifications page/média, tout en conservant le compte réel de six pages. Tests Python à vérifier via GitHub Actions ; aucune réussite anticipée.",
+    "public_receipt": "Lecture HTTPS indépendante : https://bobmythos.fr/catalog/publication-verification.json annonce source_commit=8cb0a3619b4b5ff7ffe8579c0b1cb73927bbabdc, github_run_id=41816891108. Les trois nouvelles figures sont absentes des pages publiques consultées ; déploiement de la dernière séance non confirmé.",
+    "preservation": "Aucun texte scientifique, page HTML, image, attribution, registre de numérotation, navigation, script de build, autre workflow ni horaire d'automatisation modifié.",
+    "obstacles": "Rendu mobile et pagination des PDF A4 non vérifiés lors de cet audit; absence de preuve de publication publique du dernier commit. La forte concurrence de commits annule plusieurs runs de publication.",
+    "commits": [],
+    "commit_note": "Commit atomique du vérificateur, des tests et du registre d'alternance ; SHA confirmé par GitHub."
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
   "history": [
@@ -1165,6 +1153,47 @@
       "deployment": "Non confirmé : GitHub Actions étaient actifs et le site public hors de portée du lecteur HTTPS direct au début de séance ; vérifier la CI et le manifeste /catalog/publication-verification.json après commit.",
       "limitations": "Pas de rendu responsive ni PDF A4 exécuté localement. Les études dépassaient déjà le seuil demandé de dix pages, sans modification de leur pagination.",
       "preservation": "Aucun texte préexistant, sommaire, numérotation, script de génération, file éditoriale, registre d'attribution, menu ni planification modifié."
+    },
+    {
+      "date": "2026-11-04",
+      "kind": "AUDIT ET CORRECTION",
+      "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "scope": "Audit post-iconographique des trois monographies philosophiques et protection du contrôle public de trois nouveaux WebP du Met, ajoutés lors de la dernière séance concurrente.",
+      "basis_commit": "acfdeb901282ff25993a4803c68e7efd78822575",
+      "audited_pages": 3,
+      "html_ids_checked": 332,
+      "internal_anchors_checked": 335,
+      "duplicate_ids": 0,
+      "broken_local_anchors": 0,
+      "img_elements_checked": 72,
+      "img_without_alt": 0,
+      "verification_source": "Les trois nouvelles figures existent dans les pages source sur main, avec notices, datations et statut d'artefact ancien ou de peinture de réception moderne. L'alternance a changé pendant la préparation : une séance d'enrichissement tierce a été enregistrée, puis la présente séance est basculée vers l'audit comme requis.",
+      "checked_figures": [
+        {
+          "page": "philosophie-iliade.html",
+          "id": "icono-iliade-rembrandt-aristote-homere-met-437394-20261104",
+          "src": "/assets/illustrations-articles/met-437394-aristote-homere-rembrandt.webp"
+        },
+        {
+          "page": "philosophie-odyssee.html",
+          "id": "icono-odyssee-persephone-enfers-met-252973-20261104",
+          "src": "/assets/illustrations-articles/met-252973-persephone-retour-enfers.webp"
+        },
+        {
+          "page": "philosophie-theogonie.html",
+          "id": "icono-theogonie-nike-styx-met-247903-20261104",
+          "src": "/assets/illustrations-articles/met-247903-nike-terre-cuite.webp"
+        }
+      ],
+      "verified_gap": "scripts/verify_live_site.py contrôlait 11 figures sur 6 pages mais n'incluait pas les trois derniers documents du Met. Un déploiement sans ces figures pouvait passer les contrôles individuels.",
+      "correction": "Élargir RECENT_FIGURES à 14 figures sur 6 pages et vérifier leurs notices HTML, crédits, alt, statuts documentaires, signature WebP et octets SHA-256. Étendre les tests de régression : simulation de la disparition de Nikè et altération des octets du Rembrandt.",
+      "test_note": "Assertions passées de 11 à 14 médias, 17 à 20 vérifications page/média, tout en conservant le compte réel de six pages. Tests Python à vérifier via GitHub Actions ; aucune réussite anticipée.",
+      "public_receipt": "Lecture HTTPS indépendante : https://bobmythos.fr/catalog/publication-verification.json annonce source_commit=8cb0a3619b4b5ff7ffe8579c0b1cb73927bbabdc, github_run_id=41816891108. Les trois nouvelles figures sont absentes des pages publiques consultées ; déploiement de la dernière séance non confirmé.",
+      "preservation": "Aucun texte scientifique, page HTML, image, attribution, registre de numérotation, navigation, script de build, autre workflow ni horaire d'automatisation modifié.",
+      "obstacles": "Rendu mobile et pagination des PDF A4 non vérifiés lors de cet audit; absence de preuve de publication publique du dernier commit. La forte concurrence de commits annule plusieurs runs de publication.",
+      "commits": [],
+      "commit_note": "Commit atomique du vérificateur, des tests et du registre d'alternance ; SHA confirmé par GitHub."
     }
   ]
 }

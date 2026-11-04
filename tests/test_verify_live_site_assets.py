@@ -164,18 +164,18 @@ class RecentFigurePublicationTests(unittest.TestCase):
             return (200, kind, self.assets[path])
         return (200, "text/html", self.pages[path])
 
-    def test_all_eleven_documentary_images_and_five_pages_verified(self):
+    def test_all_fourteen_documentary_images_and_six_pages_verified(self):
         pages, assets = live.recent_figure_inventory(self.root)
         self.assertEqual(len(pages), 6)
         self.assertEqual(len(pages["livre-odyssee/index.html"]), 2)
         self.assertEqual(len(pages["livre-hesiode/index.html"]), 3)
-        self.assertEqual(len(pages["philosophie-iliade.html"]), 2)
-        self.assertEqual(len(pages["philosophie-odyssee.html"]), 2)
-        self.assertEqual(len(pages["philosophie-theogonie.html"]), 1)
-        self.assertEqual(len(assets), 11)
+        self.assertEqual(len(pages["philosophie-iliade.html"]), 3)
+        self.assertEqual(len(pages["philosophie-odyssee.html"]), 3)
+        self.assertEqual(len(pages["philosophie-theogonie.html"]), 2)
+        self.assertEqual(len(assets), 14)
         with patch.object(live, "fetch", side_effect=self.fetch):
             report = live.verify_recent_public_figures("https://example.test", self.root)
-        self.assertEqual(len(report), 17)
+        self.assertEqual(len(report), 20)
         self.assertTrue(all(item["valid"] for item in report))
 
     def test_stale_odyssey_figure_and_tampered_jpeg_are_detected(self):
@@ -233,6 +233,27 @@ class RecentFigurePublicationTests(unittest.TestCase):
             results = live.verify_recent_public_figures("https://example.test", self.root)
         self.assertEqual({item["url"] for item in results if not item["valid"]}, {
             "/philosophie-theogonie.html", altered,
+        })
+
+    def test_latest_museum_stale_nike_caption_and_tampered_rembrandt_detected(self):
+        """A stale Nyx-family icon and altered Rembrandt image must fail."""
+        source = ("/assets/illustrations-articles/"
+                  "met-437394-aristote-homere-rembrandt.webp")
+
+        def wrong_fetch(url):
+            path = url.split("https://example.test", 1)[-1]
+            if path == "/philosophie-theogonie.html":
+                return (200, "text/html", self.pages[path].replace(
+                    b"icono-theogonie-nike-styx-met-247903-20261104",
+                    b"old-theogonie-without-nike"))
+            if path == source:
+                return (200, "image/webp", self.assets[path] + b"changed")
+            return self.fetch(url)
+
+        with patch.object(live, "fetch", side_effect=wrong_fetch):
+            results = live.verify_recent_public_figures("https://example.test", self.root)
+        self.assertEqual({item["url"] for item in results if not item["valid"]}, {
+            "/philosophie-theogonie.html", source,
         })
 
     def test_bogus_webp_file_rejected_at_inventory(self):
