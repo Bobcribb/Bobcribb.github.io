@@ -71,14 +71,14 @@ CHAPTER_RULES = [
     # étaient accessibles, mais plusieurs étaient relégués dans la file
     # « Nouvelles études à classer ». Rattachement par sujet épigraphique
     # ou cultuel attesté, et non par des noms mentionnés au passage.
-    (r'^tritopatores\\b', 'sanctuaires', 'Ancêtres, naissance et rites de purification'),
-    (r'^sosipolis\\b', 'sanctuaires', 'Olympie, Élide et dieux protecteurs des cités'),
-    (r'^ennodia\\b', 'sanctuaires', 'Thessalie — déesses des routes et des seuils'),
-    (r'^acheloos\\b', 'dieux', 'Dieux-fleuves, paysages et eaux divinisées'),
-    (r'^poseidon hippocampes\\b', 'dieux', 'Poséidon et le cortège marin'),
-    (r'^aristeas\\b', 'sources', 'Poètes, voyages et traditions fragmentaires'),
-    (r'^praxidikai\\b', 'sanctuaires', 'Haliarte — serments, justice et sanction sacrée'),
-    (r'^salmakis\\b', 'sanctuaires', 'Halicarnasse — fontaines, inscriptions et métamorphoses'),
+    (r'^tritopatores\b', 'sanctuaires', 'Ancêtres, naissance et rites de purification'),
+    (r'^sosipolis\b', 'sanctuaires', 'Olympie, Élide et dieux protecteurs des cités'),
+    (r'^ennodia\b', 'sanctuaires', 'Thessalie — déesses des routes et des seuils'),
+    (r'^acheloos\b', 'dieux', 'Dieux-fleuves, paysages et eaux divinisées'),
+    (r'^poseidon hippocampes\b', 'dieux', 'Poséidon et le cortège marin'),
+    (r'^aristeas\b', 'sources', 'Poètes, voyages et traditions fragmentaires'),
+    (r'^praxidikai\b', 'sanctuaires', 'Haliarte — serments, justice et sanction sacrée'),
+    (r'^salmakis\b', 'sanctuaires', 'Halicarnasse — fontaines, inscriptions et métamorphoses'),
     # Sujets vérifiés dans les chapitres 407 et 410–420 : éviter que les
     # études récentes, pourtant déjà publiées, restent dans le dossier
     # générique « Nouvelles études à classer ». Une seule famille primaire
