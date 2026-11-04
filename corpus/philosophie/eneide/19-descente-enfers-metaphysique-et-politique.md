@@ -48,7 +48,7 @@ La rencontre de Didon prolonge le chant IV sur un mode entièrement nouveau. Én
 
 Le rapprochement verbal entre *mene fugis?* (IV, 314) et *quem fugis?* (VI, 466) montre comment un écho de syntaxe peut transformer une scène entière. Dans le premier cas, c'est Didon qui reproche à Énée sa fuite. Dans le second, Énée demande pourquoi elle s'éloigne. L'inversion n'assure pas une réconciliation ; elle rend le héros sensible à l'impuissance de celui qui appelle. Didon retourne vers Sychée, ce qui peut être lu comme réaffirmation d'une première fidélité. L'analyse ne doit pas effacer le silence de la morte en le remplissant d'une réponse qu'elle ne prononce pas.
 
-![Énée et la Sibylle aux Enfers, Jan Brueghel le Jeune, années 1630](https://upload.wikimedia.org/wikipedia/commons/d/d2/Aeneas_and_the_Sibyl_in_the_Underworld_MET_DP234687FXD.jpg)
+![Énée et la Sibylle aux Enfers, Jan Brueghel le Jeune, années 1630](assets/philosophie/eneide/sibylle-enfers-met.jpg)
 
 *Figure 2 — Jan Brueghel le Jeune, Énée et la Sibylle aux Enfers, huile sur cuivre, années 1630. Metropolitan Museum of Art, New York, 1991.444 ; photographie de collection diffusée sous CC0. [Notice du musée](https://www.metmuseum.org/art/collection/search/435813) ; [fichier et licence](https://commons.wikimedia.org/wiki/File:Aeneas_and_the_Sibyl_in_the_Underworld_MET_DP234687FXD.jpg). L'œuvre illustre la réception baroque des Enfers virgiliens, non leur topographie archéologique.*
 
