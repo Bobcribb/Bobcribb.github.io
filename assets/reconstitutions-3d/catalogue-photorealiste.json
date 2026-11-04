@@ -2,7 +2,7 @@
   "generated_at": "2026-11-04",
   "site": "bobmythos.fr",
   "method": "Illustrations photoréalistes interprétatives, textes et sources hors des pixels.",
-  "count": 27,
+  "count": 28,
   "entries": [
     {
       "id": "DEL-PAN-001",
@@ -506,6 +506,29 @@
       "provenance": "Création assistée par IA sans titre, menu ni annotation incrustés. Les études citées documentent les vestiges mais ne valident pas la scène de synthèse.",
       "sha256": "70e5efd0513d893ec6555aa242407e768cfc872ca30c445776bcf656f3e0a610",
       "scientific_notice": "/assets/reconstitutions-3d/notices/athenes-agora-hephaisteion-panorama.json"
+    },
+    {
+      "id": "KOS-ASK-001",
+      "slug": "kos-asklepieion-terrasses-hellenistiques",
+      "title": "Kos — Asclépiéion, sanctuaire d’Asclépios sur trois terrasses",
+      "period": "Évocation vers 150 av. J.-C. (milieu du IIe siècle av. J.-C.)",
+      "caption": "Panorama 3D photoréaliste interprétatif du sanctuaire d’Asclépios à Kos : trois terrasses reliées par de grands escaliers, portiques et temple dorique supérieur, dans un paysage égéen.",
+      "commentary": "Le sanctuaire d’Asclépios de Kos occupe une pente aménagée en trois terrasses et connut plusieurs campagnes de construction entre le IVe et le IIe siècle av. J.-C. La terrasse inférieure comportait un portique dorique en Π avec locaux annexes, organisé dès le IIIe siècle av. J.-C. ; au niveau intermédiaire se trouvaient un autel et un ancien temple d’Asclépios, appelé temple B, de tradition ionique. Sur la terrasse supérieure, le grand temple A, dorique et périptère, fut entrepris vers 170 av. J.-C. ; des portiques de marbre et le grand escalier monumental participaient à la composition hellénistique. La date retenue, vers 150 av. J.-C., est une évocation du sanctuaire après les principaux travaux du IIe siècle, et non une reconstitution synchronique scientifiquement démontrée. Les rapports de volumes entre les terrasses, la position apparente de certains édifices, les toitures en tuiles, les élévations de la colonnade centrale, l’autel, la végétation et l’horizon maritime sont des propositions graphiques non métriques. Le temple d’Apollon dans son état à colonnes corinthiennes, associé à des phases impériales, ne doit pas être projeté dans ce tableau vers 150 av. J.-C. ; aucun bâtiment de bains ni élément romain n’est revendiqué dans la scène. La tradition attribuant à Hippocrate l’enseignement dans le sanctuaire ne constitue pas une preuve matérielle de l’emplacement précis d’une école. Les sources documentent le site mais ne valident pas l’image créée.",
+      "certainty": "Élevée : trois terrasses, temples A et B, programme hellénistique et escaliers. Moyenne : disposition générale des portiques et gabarits. Faible : toitures, détails des façades, couleurs, aménagements secondaires, dallages, végétation et horizon.",
+      "source_url": "https://www.visitgreece.gr/en/experiences/culture/archaeological-sites-monuments/asklepieion",
+      "secondary_sources": [
+        "https://www.ascsa.edu.gr/uploads/media/hesperia/25068032.pdf",
+        "https://archaeologie.phil-fak.uni-koeln.de/forschung/forschungsprojekte/dfg-projekt-untersuchung-zur-stratigraphie-und-chronologie-des-asklepieions-von-kos",
+        "https://kos.gr/historical-monuments-and-museums/asclepieion"
+      ],
+      "src": "/assets/reconstitutions-3d/kos-asklepieion-terrasses-hellenistiques.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-04",
+      "type": "Nouveau panorama 3D photoréaliste interprétatif non métrique",
+      "provenance": "Création numérique 3D photoréaliste assistée par IA, originale, sans texte, interface ou menu incrusté ; image interprétative non photogrammétrique. Les institutions citées ne valident pas le rendu.",
+      "sha256": "96982ae7db20539058af645a9e01eb84a5c6ea7e9a75c5a5252f84381654fd13",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/kos-asklepieion-terrasses-hellenistiques.json"
     }
   ]
 }
