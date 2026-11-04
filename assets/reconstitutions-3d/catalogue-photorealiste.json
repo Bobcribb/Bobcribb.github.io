@@ -2,7 +2,7 @@
   "generated_at": "2026-11-04",
   "site": "bobmythos.fr",
   "method": "Illustrations photoréalistes interprétatives, textes et sources hors des pixels.",
-  "count": 17,
+  "count": 18,
   "entries": [
     {
       "id": "DEL-PAN-001",
@@ -293,6 +293,23 @@
       "type": "panorama 3D photoréaliste interprétatif, non métrique",
       "provenance": "Image originale sans texte ni menu ; description de l’Altis et de ses phases historiques ; ni plan précis ni validation scientifique de la restitution.",
       "scientific_notice": "/assets/reconstitutions-3d/notices/olympie-altis-panorama.json"
+    },
+    {
+      "id": "SAM-001",
+      "slug": "samos-heraion-rhoikos-vue-architecturale",
+      "title": "Samos — Héraion, temple de Rhoikos et Théodoros",
+      "period": "Vers 570–560 av. J.-C.",
+      "caption": "Reconstitution 3D photoréaliste interprétative du grand temple ionique archaïque d’Héra à Samos, vu depuis les abords du sanctuaire.",
+      "commentary": "Le sanctuaire d’Héra, proche de la mer et du site antique de Samos, comportait un temple gigantesque associé à Rhoikos et Théodoros, entrepris vers 570–560 av. J.-C. L’UNESCO donne pour ce bâtiment environ 52,5 × 105 m et au moins cent colonnes. L’image rend sensible son échelle monumentale, sans reproduire une élévation archéologiquement démontrée. Le temple plus tardif associé à Polycrate était un projet distinct, de dimensions encore supérieures : il ne doit pas être confondu avec celui représenté ici. Les sculptures, le traitement précis du fronton, les couleurs et la disposition des monuments secondaires restent des hypothèses visuelles.",
+      "certainty": "Élevé : localisation du sanctuaire, chronologie approximative, caractère ionique et dimensions générales du temple. Moyen : volume d’ensemble et importance de la colonnade. Faible : élévations exactes, décor de fronton, polychromie, toiture, statues, végétation et détails paysagers.",
+      "source_url": "https://whc.unesco.org/fr/list/595/",
+      "src": "/assets/reconstitutions-3d/samos-heraion-rhoikos-vue-architecturale.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-04",
+      "type": "Vue architecturale 3D photoréaliste non métrique",
+      "provenance": "Reconstitution numérique contemporaine, générée séparément de la page. Le fichier image ne contient ni titre ni navigation.",
+      "sha256": "7aea86b45684cbcabd940999860a80e7ebb7ed7678acc92fa0c7b117b0e0c747"
     }
   ]
 }

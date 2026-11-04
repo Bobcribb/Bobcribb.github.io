@@ -1,0 +1,27 @@
+{
+  "id": "SAM-001",
+  "slug": "samos-heraion-rhoikos-vue-architecturale",
+  "title": "Samos — Héraion, temple de Rhoikos et Théodoros",
+  "period": "Vers 570–560 av. J.-C.",
+  "image": "/assets/reconstitutions-3d/samos-heraion-rhoikos-vue-architecturale.webp",
+  "caption": "Reconstitution 3D photoréaliste interprétative du grand temple ionique archaïque d’Héra à Samos, vu depuis les abords du sanctuaire.",
+  "commentary": "Le sanctuaire d’Héra, proche de la mer et du site antique de Samos, comportait un temple gigantesque associé à Rhoikos et Théodoros, entrepris vers 570–560 av. J.-C. L’UNESCO donne pour ce bâtiment environ 52,5 × 105 m et au moins cent colonnes. L’image rend sensible son échelle monumentale, sans reproduire une élévation archéologiquement démontrée. Le temple plus tardif associé à Polycrate était un projet distinct, de dimensions encore supérieures : il ne doit pas être confondu avec celui représenté ici. Les sculptures, le traitement précis du fronton, les couleurs et la disposition des monuments secondaires restent des hypothèses visuelles.",
+  "certainty": {
+    "high": "Site du Héraion, temple ionique monumental, programme associé à Rhoikos et Théodoros vers 570–560 av. J.-C., dimensions d’environ 52,5 × 105 m, au moins cent colonnes.",
+    "medium": "Proportions visuelles générales, double rangée de colonnes et espace proche du sanctuaire.",
+    "low": "Détail des chapiteaux, fronton sculpté, polychromie, matériaux apparents, toiture, statues, autels, arbres et paysage."
+  },
+  "sources": [
+    {
+      "label": "UNESCO — Pythagoreion et Héraion de Samos",
+      "url": "https://whc.unesco.org/fr/list/595/"
+    },
+    {
+      "label": "École française d’Athènes — Chronique des fouilles, Héraion de Samos",
+      "url": "https://chronique.efa.gr/?id=17901&r=report"
+    }
+  ],
+  "rights_and_method": "Image générée par IA, photoréaliste mais non métrique. Les institutions citées documentent les vestiges sans valider les détails du rendu.",
+  "publication_status": "committed_to_GitHub; public_URL_pending_independent_verification",
+  "sha256": "7aea86b45684cbcabd940999860a80e7ebb7ed7678acc92fa0c7b117b0e0c747"
+}
