@@ -904,6 +904,12 @@
           "path": "chapitres/encyclopedie/chapitre-421-praxidikai-praxidike-serments-haliarte-beotie-mnaseas.md",
           "request_sha256": "b66288acd9c7b33aeaef935d5bf6b6a83797362da1447a0ba73dc7f1cd082e12",
           "initial_source_sha256": "e517af8b12f70ff11fa1b5fdc7d03ed7cba96a92af2b555c68139b3ca22a607d"
+        },
+        "7ba0d991-faa9-4dd0-995c-95a71a3bff61": {
+          "number": 422,
+          "path": "chapitres/encyclopedie/chapitre-422-salmakis-halicarnasse-hermaphrodite-source-inscription.md",
+          "request_sha256": "c03bcd1949c0ba29606b42a441b5c2fd17b3a5171a8742ed4c7eab6ae18c12bf",
+          "initial_source_sha256": "2fa15d208f685ef4a515e4e39112d0243b068b80cc4a42af5f88bb9c61d4a769"
         }
       }
     },
@@ -2095,6 +2101,12 @@
           "path": "chapitres/comparatif/volume-ccxxxvi-mc-056-quand-les-dieux-ont-peur-frayeur-divine-crise-cosmique-souverainete.md",
           "request_sha256": "7957dae06f5ab4e47da7a547be85621823a2c571998db29451e8996ac2038f74",
           "initial_source_sha256": "d261656b82b9938eaaef3b74fc507c14874b4fa6e28a4bf91f0dcd639753cc00"
+        },
+        "6d7fd89c-2d44-4ef5-95a7-5d574d6d0057": {
+          "number": 237,
+          "path": "chapitres/comparatif/volume-ccxxxvii-mc-057-quand-les-dieux-dorment-sommeil-veille-cosmique-pouvoir-de-l-eveil.md",
+          "request_sha256": "af3f16227d4c6e7252d5a245b0cb170b0d928f3b9c178a2f49d2f95df601b3b1",
+          "initial_source_sha256": "58e383f792df30f506c89cc126e0c9d7ca23520524108a266ec2559313cafa21"
         }
       }
     }

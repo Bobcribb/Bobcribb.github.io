@@ -1,25 +1,9 @@
 {
   "status": "passed",
-  "indexed_entries": 1389,
-  "pages_scanned": 1446,
-  "readers_equipped": 1001,
-  "links_checked": 122364,
+  "indexed_entries": 1391,
+  "pages_scanned": 1448,
+  "readers_equipped": 1003,
+  "links_checked": 122755,
   "new_navigation_errors": [],
-  "legacy_link_issues": [
-    {
-      "page": "/chapitres/comedies/volume-095-nikochares-kretes-outils-alenes-forets-dedale-pasiphae-paratragedie/index.html",
-      "url": "/comedies-grecques/",
-      "problem": "fichier absent"
-    },
-    {
-      "page": "/chapitres/comedies/volume-096-nikochares-lakones-spartiates-388-kottabos-manes-laconisme-paix/index.html",
-      "url": "/comedies-grecques/",
-      "problem": "fichier absent"
-    },
-    {
-      "page": "/chapitres/comedies/volume-094-nikochares-kentauros-centaure-agora-dartheis-chiron-pholos/index.html",
-      "url": "/comedies-grecques/",
-      "problem": "fichier absent"
-    }
-  ]
+  "legacy_link_issues": []
 }
