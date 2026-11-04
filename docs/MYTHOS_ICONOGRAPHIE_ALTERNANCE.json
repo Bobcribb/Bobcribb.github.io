@@ -5,40 +5,56 @@
   "branch": "main",
   "latest_session": {
     "date": "2026-11-04",
-    "kind": "AUDIT ET CORRECTION",
-    "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "scope": "Contrôle post-iconographique des trois monographies philosophiques Iliade, Odyssée et Théogonie ; diagnostics des GitHub Actions, contrôle HTTP du manifeste et des pages publiques ; durcissement du test d'alternance horaire.",
+    "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "previous_kind": "AUDIT ET CORRECTION",
+    "next_kind": "AUDIT ET CORRECTION",
+    "scope": "Trois documents muséaux authentiques insérés dans les lectures philosophiques Iliade, Odyssée et Théogonie, sans modifier le texte scientifique.",
     "basis_commit": "941787a2dffcea766a36bd8d2b91a5b605a547b9",
-    "audited_pages": [
-      "philosophie-iliade.html",
-      "philosophie-odyssee.html",
-      "philosophie-theogonie.html"
+    "inserted_figures": [
+      {
+        "page": "philosophie-iliade.html",
+        "id": "icono-iliade-rembrandt-aristote-homere-met-437394-20261104",
+        "asset": "/assets/illustrations-articles/met-437394-aristote-homere-rembrandt.webp",
+        "met_object_id": 437394,
+        "source": "https://www.metmuseum.org/art/collection/search/437394"
+      },
+      {
+        "page": "philosophie-odyssee.html",
+        "id": "icono-odyssee-persephone-enfers-met-252973-20261104",
+        "asset": "/assets/illustrations-articles/met-252973-persephone-retour-enfers.webp",
+        "met_object_id": 252973,
+        "source": "https://www.metmuseum.org/art/collection/search/252973"
+      },
+      {
+        "page": "philosophie-theogonie.html",
+        "id": "icono-theogonie-nike-styx-met-247903-20261104",
+        "asset": "/assets/illustrations-articles/met-247903-nike-terre-cuite.webp",
+        "met_object_id": 247903,
+        "source": "https://www.metmuseum.org/art/collection/search/247903"
+      }
     ],
-    "html_ids_checked": 329,
-    "internal_anchors_checked": 335,
-    "duplicate_html_ids": 0,
-    "broken_local_anchors": 0,
-    "img_elements_checked": 69,
-    "img_without_alt": 0,
-    "figure_ids_confirmed": [
-      "icono-iliade-flaxman-ombre-patrocle-reception-20261104",
-      "icono-odyssee-flaxman-parker-circe-1805-20261104",
-      "icono-theogonie-ottley-nuit-enfants-attribution-20261104"
+    "checked_pages": 3,
+    "images_before": [
+      23,
+      22,
+      24
     ],
-    "verified_assets": [
-      "/assets/illustrations-articles/met-341681-achille-ombre-patrocle-flaxman.webp",
-      "/assets/illustrations-articles/met-705224-ulysse-circe-flaxman.webp",
-      "/assets/illustrations-articles/met-649972-ottley-nuit-enfants.webp"
+    "images_after": [
+      24,
+      23,
+      25
     ],
-    "style_script_check": "Les 3 pages font référence à des ressources locales présentes dans assets/ : mythos-reference.css, mythos-iconographie.css, philosophie-edition.css, mythos-museum.css, mythos-discovery.css, mythos-museum.js et mythos-reading.js. Aucune absence relevée parmi ces 7 noms.",
-    "issues": "Les GitHub Actions avant ad70054 échouaient à scripts/editorial_queue.py apply : Collision d’identifiant historique non réconciliée : MC-042. L'autre chantier a placé la seconde demande UUID 904ece0d-5591-4e6b-bfea-e39e7143c4c1 en attente par ad7005406f0b741c2028e3ca223ab91e31c786fe ; aucune suppression ni réattribution.",
-    "public_verification": "Accès HTTPS réalisé via lecteur externe : les pages publiques Iliade, Odyssée et Théogonie contiennent les URL des trois figures récentes ; /catalog/publication-verification.json indique encore source_commit=8cb0a3619b4b5ff7ffe8579c0b1cb73927bbabdc, run=41816891108. Divergence de preuve : présence des références de médias ≠ contrôle complet du déploiement et du contenu binaire WebP.",
-    "correction": "Durcir tests/test_iconography_alternation.py : vérifier explicitement le type de séance suivante sur chacun des événements, la cohérence previous_kind et la continuité next_kind -> kind. Journal mis à jour avec le type présent et le suivant.",
-    "tests": "Validation structurelle du JSON et de l'historique de 22 séances avant ajout ; pas de suite Python exécutée en local faute de checkout complet. GitHub Actions à inspecter après enregistrement.",
-    "preservation": "Aucune étude, aucun registre de numérotation, aucune navigation, aucune planification, aucun workflow GitHub Actions, aucun texte ou image du corpus n'est modifié.",
-    "obstacles": "Manifeste HTTPS ancien ; vérification HTTP des octets WebP et rendu mobile/PDF A4 non réalisée ; l'attribution MC-042 en attente requiert une décision éditoriale ultérieure.",
-    "commit_note": "Commit atomique modifiant uniquement le test de garde et ce journal ; vérifier son SHA dans l'historique GitHub."
+    "ids_checked": 332,
+    "anchors_checked": 335,
+    "duplicate_ids": 0,
+    "broken_anchors": 0,
+    "missing_img_alt": 0,
+    "scientific_note": "Une peinture du XVIIe siècle est déclarée réception moderne ; le cratère de Perséphone sert seulement de parallèle du monde infernal, pas d'illustration d'un épisode homérique ; la statuette de Nikè illustre un nom de la généalogie de Styx, sans prétendre documenter matériellement le texte d'Hésiode.",
+    "asset_provenance": "Fichiers WebP locaux préexistants avec notices MET, dates, numéros d'inventaire, licence CC0 et empreintes SHA-256 dans assets/illustrations-articles/sources-met.json. Aucun contenu IA ni ancien SVG 2,5D réintroduit.",
+    "basic_checks": "Précommit : 3 HTML relus ; insertion non destructive unique par H2 ciblé ; absence de doublons d'ID et de src, 0 ancre locale brisée, aucune image dépourvue de alt ; provenance des 3 objets et chemin exact contrôlés dans manifest; test de régression ajouté.",
+    "deployment": "Non confirmé : GitHub Actions étaient actifs et le site public hors de portée du lecteur HTTPS direct au début de séance ; vérifier la CI et le manifeste /catalog/publication-verification.json après commit.",
+    "limitations": "Pas de rendu responsive ni PDF A4 exécuté localement. Les études dépassaient déjà le seuil demandé de dix pages, sans modification de leur pagination.",
+    "preservation": "Aucun texte préexistant, sommaire, numérotation, script de génération, file éditoriale, registre d'attribution, menu ni planification modifié."
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
   "history": [
@@ -1096,6 +1112,59 @@
       "preservation": "Aucune étude, aucun registre de numérotation, aucune navigation, aucune planification, aucun workflow GitHub Actions, aucun texte ou image du corpus n'est modifié.",
       "obstacles": "Manifeste HTTPS ancien ; vérification HTTP des octets WebP et rendu mobile/PDF A4 non réalisée ; l'attribution MC-042 en attente requiert une décision éditoriale ultérieure.",
       "commit_note": "Commit atomique modifiant uniquement le test de garde et ce journal ; vérifier son SHA dans l'historique GitHub."
+    },
+    {
+      "date": "2026-11-04",
+      "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "previous_kind": "AUDIT ET CORRECTION",
+      "next_kind": "AUDIT ET CORRECTION",
+      "scope": "Trois documents muséaux authentiques insérés dans les lectures philosophiques Iliade, Odyssée et Théogonie, sans modifier le texte scientifique.",
+      "basis_commit": "941787a2dffcea766a36bd8d2b91a5b605a547b9",
+      "inserted_figures": [
+        {
+          "page": "philosophie-iliade.html",
+          "id": "icono-iliade-rembrandt-aristote-homere-met-437394-20261104",
+          "asset": "/assets/illustrations-articles/met-437394-aristote-homere-rembrandt.webp",
+          "met_object_id": 437394,
+          "source": "https://www.metmuseum.org/art/collection/search/437394"
+        },
+        {
+          "page": "philosophie-odyssee.html",
+          "id": "icono-odyssee-persephone-enfers-met-252973-20261104",
+          "asset": "/assets/illustrations-articles/met-252973-persephone-retour-enfers.webp",
+          "met_object_id": 252973,
+          "source": "https://www.metmuseum.org/art/collection/search/252973"
+        },
+        {
+          "page": "philosophie-theogonie.html",
+          "id": "icono-theogonie-nike-styx-met-247903-20261104",
+          "asset": "/assets/illustrations-articles/met-247903-nike-terre-cuite.webp",
+          "met_object_id": 247903,
+          "source": "https://www.metmuseum.org/art/collection/search/247903"
+        }
+      ],
+      "checked_pages": 3,
+      "images_before": [
+        23,
+        22,
+        24
+      ],
+      "images_after": [
+        24,
+        23,
+        25
+      ],
+      "ids_checked": 332,
+      "anchors_checked": 335,
+      "duplicate_ids": 0,
+      "broken_anchors": 0,
+      "missing_img_alt": 0,
+      "scientific_note": "Une peinture du XVIIe siècle est déclarée réception moderne ; le cratère de Perséphone sert seulement de parallèle du monde infernal, pas d'illustration d'un épisode homérique ; la statuette de Nikè illustre un nom de la généalogie de Styx, sans prétendre documenter matériellement le texte d'Hésiode.",
+      "asset_provenance": "Fichiers WebP locaux préexistants avec notices MET, dates, numéros d'inventaire, licence CC0 et empreintes SHA-256 dans assets/illustrations-articles/sources-met.json. Aucun contenu IA ni ancien SVG 2,5D réintroduit.",
+      "basic_checks": "Précommit : 3 HTML relus ; insertion non destructive unique par H2 ciblé ; absence de doublons d'ID et de src, 0 ancre locale brisée, aucune image dépourvue de alt ; provenance des 3 objets et chemin exact contrôlés dans manifest; test de régression ajouté.",
+      "deployment": "Non confirmé : GitHub Actions étaient actifs et le site public hors de portée du lecteur HTTPS direct au début de séance ; vérifier la CI et le manifeste /catalog/publication-verification.json après commit.",
+      "limitations": "Pas de rendu responsive ni PDF A4 exécuté localement. Les études dépassaient déjà le seuil demandé de dix pages, sans modification de leur pagination.",
+      "preservation": "Aucun texte préexistant, sommaire, numérotation, script de génération, file éditoriale, registre d'attribution, menu ni planification modifié."
     }
   ]
 }

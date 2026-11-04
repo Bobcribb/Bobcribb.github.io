@@ -21,6 +21,12 @@ MONOGRAPHS = {
 
 
 
+MUSEUM_DOCUMENTS_20261104 = {
+    "philosophie-iliade.html": ("icono-iliade-rembrandt-aristote-homere-met-437394-20261104", "/assets/illustrations-articles/met-437394-aristote-homere-rembrandt.webp", "lecture-section-13", 437394),
+    "philosophie-odyssee.html": ("icono-odyssee-persephone-enfers-met-252973-20261104", "/assets/illustrations-articles/met-252973-persephone-retour-enfers.webp", "lecture-section-9", 252973),
+    "philosophie-theogonie.html": ("icono-theogonie-nike-styx-met-247903-20261104", "/assets/illustrations-articles/met-247903-nike-terre-cuite.webp", "lecture-section-16", 247903),
+}
+
 RECEPTION_FIGURES = {
     "philosophie-iliade.html": ("icono-iliade-flaxman-ombre-patrocle-reception-20261104", "/assets/illustrations-articles/met-341681-achille-ombre-patrocle-flaxman.webp", "lecture-section-9"),
     "philosophie-odyssee.html": ("icono-odyssee-flaxman-parker-circe-1805-20261104", "/assets/illustrations-articles/met-705224-ulysse-circe-flaxman.webp", "lecture-section-8"),
@@ -78,6 +84,37 @@ class IconographyAlternationTests(unittest.TestCase):
                 self.assertTrue(any(a.get("href", "").startswith("https://www.metmuseum.org/art/collection/search/")
                                     for a in caption.find_all("a", href=True)))
                 ids = [e.get("id") for e in doc.find_all(id=True)]
+                self.assertEqual(len(ids), len(set(ids)))
+                for a in doc.find_all("a", href=True):
+                    if a["href"].startswith("#") and len(a["href"]) > 1:
+                        self.assertIn(a["href"][1:], ids)
+
+    def test_new_museum_documents_have_verified_provenance_and_no_duplicate(self):
+        for path, (figure_id, image_src, heading_id, met_id) in MUSEUM_DOCUMENTS_20261104.items():
+            with self.subTest(path=path):
+                page = ROOT / path
+                doc = BeautifulSoup(page.read_text(encoding="utf-8"), "html.parser")
+                figure = doc.find_all("figure", id=figure_id)
+                self.assertEqual(len(figure), 1)
+                figure = figure[0]
+                section = doc.find(id=heading_id).find_parent("section")
+                self.assertIn(figure, section.descendants)
+                img = figure.find("img")
+                self.assertEqual(img.get("src"), image_src)
+                self.assertTrue(img.get("alt", "").strip())
+                self.assertGreater(int(img.get("width", 0)), 0)
+                self.assertGreater(int(img.get("height", 0)), 0)
+                self.assertEqual(len(doc.find_all("img", src=image_src)), 1)
+                self.assertTrue((ROOT / image_src.lstrip("/")).is_file())
+                caption = figure.find("figcaption")
+                self.assertIsNotNone(caption)
+                caption_text = caption.get_text(" ", strip=True)
+                self.assertIn("non générée par IA", caption_text)
+                self.assertIn("CC0", caption_text)
+                self.assertIn("Metropolitan Museum of Art", caption_text)
+                link = caption.find("a", href=f"https://www.metmuseum.org/art/collection/search/{met_id}")
+                self.assertIsNotNone(link)
+                ids = [element["id"] for element in doc.find_all(id=True)]
                 self.assertEqual(len(ids), len(set(ids)))
                 for a in doc.find_all("a", href=True):
                     if a["href"].startswith("#") and len(a["href"]) > 1:
