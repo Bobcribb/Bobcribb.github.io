@@ -676,6 +676,12 @@
           "path": "chapitres/encyclopedie/chapitre-401-tritopatores-ancetres-athenes-kerameikos-selinonte-rites-purification.md",
           "request_sha256": "033badfd23ee1bfa6c554a4e983681524554b75ef5234d06a37e365310dd6fd2",
           "initial_source_sha256": "629974c062c0bf45a77f4d34b2641f37448097c2c5eb8fd785f170b12628e48b"
+        },
+        "e173cb7f-f53a-4d76-9d89-d40269abfa16": {
+          "number": 402,
+          "path": "chapitres/encyclopedie/chapitre-402-sosipolis-elide-olympie-enfant-serpent-zeus-magnesie-cultes.md",
+          "request_sha256": "c2674cf77287060ca7403d8098ad2f1435301714eb4a93ef858e3879b540b407",
+          "initial_source_sha256": "5fc5f66fdf63f3de52d610ef48fd31eb96c658ce0a738b57afd3faa01409f183"
         }
       }
     },
@@ -1669,6 +1675,12 @@
           "path": "chapitres/comparatif/volume-ccxxv-thesmophories-aristophane-secret-rituel-contre-enquete-reputation.md",
           "request_sha256": "975d4706bffada6ce322ff38f28256ffc071b24eb902af79f278fbeee09838cc",
           "initial_source_sha256": "8a1d8eb4760f3600f4c8464a5f5c2b512ebcc6b743a82278174d819201a5ea0f"
+        },
+        "52cb6ef7-47b0-4d61-bb76-49f773e047aa": {
+          "number": 226,
+          "path": "chapitres/comparatif/volume-ccxxvi-mc-047-capturer-un-dieu-statues-deportees-restitutions-royales-marduk-nanaya-cyrus-palladion-arche-egypte.md",
+          "request_sha256": "3188d40952348d02aa3054ac2c7507f8514335d307167b4b549f9303e705cdfa",
+          "initial_source_sha256": "094055966baa4936ac4ecdf07622eb5b1f6fa7b6851cb022c9e810d0e4c5b84a"
         }
       }
     }
