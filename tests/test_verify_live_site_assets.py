@@ -164,18 +164,19 @@ class RecentFigurePublicationTests(unittest.TestCase):
             return (200, kind, self.assets[path])
         return (200, "text/html", self.pages[path])
 
-    def test_all_fourteen_documentary_images_and_six_pages_verified(self):
+    def test_all_seventeen_documentary_images_and_six_pages_verified(self):
         pages, assets = live.recent_figure_inventory(self.root)
         self.assertEqual(len(pages), 6)
-        self.assertEqual(len(pages["livre-odyssee/index.html"]), 2)
-        self.assertEqual(len(pages["livre-hesiode/index.html"]), 3)
+        self.assertEqual(len(pages["livre-iliade-scenes/index.html"]), 2)
+        self.assertEqual(len(pages["livre-odyssee/index.html"]), 3)
+        self.assertEqual(len(pages["livre-hesiode/index.html"]), 4)
         self.assertEqual(len(pages["philosophie-iliade.html"]), 3)
         self.assertEqual(len(pages["philosophie-odyssee.html"]), 3)
         self.assertEqual(len(pages["philosophie-theogonie.html"]), 2)
-        self.assertEqual(len(assets), 14)
+        self.assertEqual(len(assets), 17)
         with patch.object(live, "fetch", side_effect=self.fetch):
             report = live.verify_recent_public_figures("https://example.test", self.root)
-        self.assertEqual(len(report), 20)
+        self.assertEqual(len(report), 23)
         self.assertTrue(all(item["valid"] for item in report))
 
     def test_stale_odyssey_figure_and_tampered_jpeg_are_detected(self):
@@ -255,6 +256,29 @@ class RecentFigurePublicationTests(unittest.TestCase):
         self.assertEqual({item["url"] for item in results if not item["valid"]}, {
             "/philosophie-theogonie.html", source,
         })
+
+
+    def test_last_three_book_figures_are_required_in_publication(self):
+        """Missing Prometheus and modified Hermes WebP must stop live verification."""
+        hermes = ("/assets/illustrations-articles/"
+                  "met-246679-hermes-bronze-aile.webp")
+
+        def stale_fetch(url):
+            path = url.split("https://example.test", 1)[-1]
+            if path == "/livre-hesiode/index.html":
+                return (200, "text/html", self.pages[path].replace(
+                    b"icono-hesiode-promethee-bartolozzi-1795-20261104",
+                    b"missing-prometheus-illustration"))
+            if path == hermes:
+                return (200, "image/webp", self.assets[path] + b"modified")
+            return self.fetch(url)
+
+        with patch.object(live, "fetch", side_effect=stale_fetch):
+            checked = live.verify_recent_public_figures("https://example.test", self.root)
+        self.assertEqual({entry["url"] for entry in checked if not entry["valid"]}, {
+            "/livre-hesiode/index.html", hermes,
+        })
+        self.assertEqual(len(live.RECENT_FIGURES), 17)
 
     def test_bogus_webp_file_rejected_at_inventory(self):
         src = next(src for _, _, src in live.RECENT_FIGURES
