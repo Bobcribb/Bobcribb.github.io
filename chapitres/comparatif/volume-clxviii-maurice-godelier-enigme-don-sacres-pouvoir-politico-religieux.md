@@ -1,0 +1,399 @@
+# MYTHOS — Cycle comparatif universitaire — Volume CLXVIII (168)
+
+## Maurice Godelier : don, biens inaliénables, pouvoir politico-religieux et production des sociétés
+
+*Étude universitaire originale en français, 4 novembre 2026. Manuscrit intégral destiné à la publication MYTHOS. Série d'origine : mythologie comparée MC, dont la numérotation historique ne se substitue pas au numéro canonique du site.*
+
+**Continuité documentaire.** Le dépôt contient déjà des monographies consacrées à Marcel Mauss, Claude Lévi-Strauss, Philippe Descola, Eduardo Viveiros de Castro, Marilyn Strathern et Annette B. Weiner. La présente étude n'en constitue pas une répétition : elle traite la construction théorique propre à Maurice Godelier, spécialement la « part idéelle du réel », l'organisation de la domination chez les Baruya, la distinction entre donner, vendre et garder, les objets sacrés et l'articulation du politique au religieux. Le numéro ci-dessus relève exclusivement de l'attribution transactionnelle du dépôt.
+
+**Convention critique.** [A] = donnée établie dans une publication, une source primaire ou une notice institutionnelle contrôlable ; [B] = reconstruction historienne ou interprétation théorique soutenue ; [C] = analogie philosophique ou comparaison exploratoire qui ne démontre aucune filiation. Ni les rites des Baruya ni les textes antiques ne seront transformés en expressions interchangeables d'une même « mentalité primitive ». Les descriptions ethnographiques demeurent situées et les comparaisons avec l'Antiquité sont explicitement limitées.
+
+## I. Introduction : pourquoi certaines choses doivent-elles rester hors de l'échange ?
+
+Une énigme traverse l'histoire des institutions : des sociétés multiplient les transferts de biens, de prestations et de personnes, tout en refusant de céder certains objets, lieux, titres ou pouvoirs. Si toute relation collective reposait uniquement sur l'échange, comment expliquer ces biens soustraits à la circulation ? S'ils sont précieux, pourquoi ne les négocie-t-on pas ? S'ils demeurent attachés à un groupe, comment acquièrent-ils l'autorité de le représenter ? La réflexion de Maurice Godelier modifie l'objet même de l'enquête : il ne suffit plus de décrire ce qui passe d'une main à l'autre. Il faut examiner ce qui demeure, ce que les acteurs ont le droit de transférer, ce qu'ils peuvent seulement confier, et ce qui fonde la prétention d'un ordre social à durer.
+
+L'enjeu dépasse l'économie du don. Les choses conservées peuvent rendre visibles une origine, une légitimité, une mémoire ou une relation avec des puissances imaginées. Elles peuvent intervenir dans la reproduction des hiérarchies. Elles ne sont toutefois ni universellement « sacrées » ni naturellement soustraites à l'échange : leur statut résulte d'institutions particulières [B]. Le volume articule trois questions : que produit l'échange, que produit la conservation et comment les représentations religieuses participent-elles à l'établissement des pouvoirs ? L'Antiquité servira d'épreuve comparative, non d'illustration automatique.
+
+## II. Les sources de la pensée de Godelier
+
+### 1. Les principaux ouvrages [A]
+
+La production des grands hommes. Pouvoir et domination masculine chez les Baruya de Nouvelle-Guinée paraît chez Fayard en 1982 ; la traduction anglaise, The Making of Great Men, paraît en 1986 (notice Smithsonian Institution : https://www.si.edu/object/siris_sil_276608). L'Idéel et le matériel. Pensée, économies, sociétés paraît en 1984 (éditeur : https://www.fayard.fr/livre/lideel-et-le-materiel-9782213013367/). L'Énigme du don paraît en 1996 chez Fayard (éditeur : https://www.hachette.fr/livre/l-enigme-du-don-9782213596938/) ; sa traduction, The Enigma of the Gift, par Nora Scott, est publiée par University of Chicago Press à la fin des années 1990 (https://press.uchicago.edu/ucp/books/book/chicago/E/bo3621366.html). Métamorphoses de la parenté paraît en 2004 (https://www.fayard.fr/livre/metamorphoses-de-la-parente-9782213614908/) et Au fondement des sociétés humaines en 2007 ; ce dernier connaît plusieurs rééditions, dont une édition de poche annoncée en 2026 (https://www.albin-michel.fr/au-fondement-des-societes-humaines-9782226179036).
+
+### 2. Les sources anciennes mobilisées [A]
+
+Les comparaisons principales concernent Hésiode, Théogonie 535–560 et Travaux et les Jours 42–105 ; Homère, Iliade IX, environ 115–161 et 260–299, et Odyssée VIII, autour de 392–416 ; la formule funéraire égyptienne ḥtp-dỉ-nsw dans les stèles du Moyen Empire ; les dédicaces grecques et les reliefs votifs ; les textes babyloniens de concession foncière souvent désignés comme kudurrus ; enfin les représentations politiques des temples et des royautés. Les traductions et les numéros de vers restent ceux des œuvres anciennes, indépendamment du numéro éditorial du volume.
+
+### 3. Une archive différenciée [A/B]
+
+Une monographie ethnographique, une notice d'éditeur et un texte religieux ne possèdent pas le même statut. Les notices d'éditeur permettent de contrôler titres, dates et programmes intellectuels, mais non de prétendre avoir collationné toutes les pages d'un livre. Les textes antiques attestent des formulations et parfois des gestes, mais ne suffisent pas à restituer toutes les pratiques quotidiennes. Leurs auteurs parlent depuis des positions déterminées : poète, prêtre, souverain, donateur, législateur. Les limites de ces sources sont une condition de la comparaison, et non une faiblesse à dissimuler.
+
+## III. De l'économie politique à l'anthropologie
+
+### 4. Le matérialisme transformé [B]
+
+Godelier a été formé dans un environnement où la pensée de Marx occupait une place majeure. Mais sa démarche ne se réduit pas à la formule selon laquelle l'économie déterminerait mécaniquement les idées. Dans L'Idéel et le matériel, il soutient que les représentations, catégories et principes imaginés constituent une part interne des rapports sociaux. Ils ne sont pas seulement des commentaires ajoutés après coup à une réalité matérielle achevée. Un droit d'usage, une obligation, un interdit ou une légitimité ne peuvent être décrits sans les catégories qui font exister ces relations pour leurs acteurs.
+
+### 5. Produire la société [B]
+
+Une société n'est pas un stock d'individus ayant chacun des besoins indépendants ; elle organise des conditions de reproduction du pouvoir, de la parenté, des techniques, des ressources et du sens. Étudier « la production des rapports sociaux » implique de demander comment certaines classifications et institutions rendent possibles les activités. Ce déplacement distingue l'approche de Godelier d'un économisme sommaire. Il ouvre un dialogue avec l'histoire des religions : les significations du sacré peuvent contribuer à instituer des contraintes réellement efficaces, même lorsque leur fondement surnaturel n'est pas démontrable par l'historien.
+
+### 6. Une précaution critique [B]
+
+Évoquer « l'imaginaire » ne signifie pas que les personnes décrites vivraient dans l'illusion tandis que l'analyste posséderait une connaissance absolue. Les relations sociales modernes comportent elles aussi des fictions opératoires : monnaie, personnalité juridique, souveraineté, propriété, dette et crédit. L'enquête porte sur l'efficacité des représentations et sur la possibilité de leur contestation. Elle ne doit pas disqualifier les interlocuteurs de l'ethnographe ni transformer une société en survivance du passé européen.
+
+## IV. Les Baruya : terrain, période et asymétries
+
+### 7. Une ethnographie située [A/B]
+
+Godelier a conduit des enquêtes de terrain auprès des Baruya de Nouvelle-Guinée. La production des grands hommes examine les transformations de leur organisation politique, les rapports entre les sexes, les rituels d'initiation, les prestations et l'institution de formes de prestige. Il faut éviter de décrire ce peuple comme un groupe immobile ou comme un laboratoire naturel de l'origine de l'humanité. L'enquête se déroule dans une histoire marquée par des contacts, par la colonisation, par des déplacements de pratiques et par l'intervention même des enquêteurs.
+
+### 8. La hiérarchie masculine [B]
+
+L'analyse de Godelier examine la production sociale du prestige et de la domination masculine. Les cérémonies, secrets, initiations et classifications participent à la légitimation d'inégalités qui ne peuvent être déduites directement de la force physique. La relation entre croyance et pouvoir est donc constitutive : les institutions produisent des autorités en faisant reconnaître certains privilèges comme fondés. Cette proposition mérite une discussion critique : elle peut mettre en lumière la domination sans permettre de prêter un même avis à tous les hommes ou à toutes les femmes concernés.
+
+### 9. Nicole Loraux comme lectrice critique [A/B]
+
+Nicole Loraux a consacré en 1983 un compte rendu substantiel à La production des grands hommes, Annales. Histoire, Sciences Sociales 38/6, p. 1264–1268 (https://doi.org/10.1017/S0395264900083268). Elle discute notamment la place attribuée aux différentes formes de prestige guerrier et le poids relatif des discours et des pratiques dans l'analyse de la domination. Cette lecture montre que les conclusions de Godelier doivent être traitées comme des propositions discutables et non comme un inventaire neutre. La comparaison avec l'Antiquité grecque ne doit pas effacer cette controverse.
+
+## V. Philologie : don, propriété, dette, sacré
+
+### 10. Donner et transférer [B]
+
+« Donner » peut désigner le transfert définitif d'un bien, la concession temporaire d'un usage, l'institution d'une obligation réciproque ou la présentation d'une offrande. Le français moderne possède un seul verbe courant pour ces opérations juridiquement distinctes. La question posée par Godelier requiert donc de séparer possession matérielle, maîtrise, usufruit, propriété et autorité symbolique. Un objet peut circuler alors que certains droits sur lui demeurent attachés à son origine ; inversement, un don peut transférer pleinement la chose sans exiger de retour.
+
+### 11. Du grec dōron à charis [A/B]
+
+Le grec δῶρον (dôron) désigne un don ou un présent ; δόσις (dosis) peut évoquer l'action de donner ; γέρας (geras) concerne souvent une part honorifique ; τιμή (timē) exprime l'honneur, le prix ou le rang selon les contextes ; χάρις (charis) recouvre la grâce, la faveur et des rapports de réciprocité. Ces termes ne désignent pas un seul système. Dans l'Iliade, le conflit entre Achille et Agamemnon implique des biens et l'honneur attaché à leur attribution. Toute traduction par « échange de marchandises » ferait perdre l'enjeu public de la reconnaissance.
+
+### 12. Du latin donum à sacer [A/B]
+
+Donum, dare, munus et sacer couvrent des champs distincts. Munus peut désigner charge, service ou prestation ; le terme « cadeau » n'en épuise pas les significations. Sacer appartient au registre de l'appartenance ou de la consécration divine ; il ne signifie pas automatiquement « invendable » au sens d'un droit contemporain. La philologie interdit de conclure que toutes les choses qualifiées de sacrées jouissaient d'un statut patrimonial unique. Les cités et les époques disposent de règles spécifiques concernant les biens des sanctuaires.
+
+### 13. Les mots égyptiens de l'offrande [A/B]
+
+La formule ḥtp-dỉ-nsw des inscriptions funéraires est conventionnellement rendue comme une offrande accordée par le roi. Le terme ḥtp possède une histoire sémantique complexe liée à l'offrande et à la satisfaction. Une stèle peut inscrire la disponibilité souhaitée de ressources pour un défunt et rendre son identité visible. Il serait abusif d'en déduire que l'objet, la tombe et les produits représentés relevaient d'une même propriété immuable.
+
+### 14. Don, legs, dédicace : trois opérations [B]
+
+Un présent peut changer de propriétaire ; un legs se transmet sous des conditions ; une dédicace consacre un objet à une puissance divine ou à son sanctuaire. Ces opérations peuvent partager une iconographie ou un vocabulaire de générosité, mais elles produisent des effets différents. Une étude comparée doit suivre les droits, les gardiens, les obligations et les bénéficiaires plutôt que supposer une identité parce qu'un même geste matériel apparaît.
+
+## VI. Mauss relu par Godelier
+
+### 15. L'héritage de l'Essai sur le don [A/B]
+
+Dans son Essai sur le don (1925), Marcel Mauss étudie notamment les obligations de donner, de recevoir et de rendre. Godelier revient sur ces propositions pour expliquer pourquoi elles ne rendent pas compte de toutes les choses auxquelles les sociétés attribuent de la valeur. Le problème n'est pas d'opposer simplistement un « don libre » à un « don contraint », mais d'identifier les conditions dans lesquelles la circulation crée des relations durables, de la hiérarchie et du prestige.
+
+### 16. Une limite du modèle circulatoire [B]
+
+Un système d'échange ne se reproduit pas nécessairement grâce aux seuls biens qui circulent. Des titres, des droits et des objets conservés peuvent garantir la continuité des groupes entre deux transferts. La proposition centrale de L'Énigme du don consiste à examiner ce qui doit rester en possession de certains acteurs pour que la circulation ait un sens. La notice de Fayard précise la distinction entre ce qui se donne, ce qui se vend et ce qui se garde : https://www.hachette.fr/livre/l-enigme-du-don-9782213596938/.
+
+### 17. Les objets précieux et les objets sacrés [B]
+
+Un objet précieux peut passer d'un partenaire à un autre dans un système de prestations ; un objet sacré peut au contraire être présenté comme devant rester attaché à ceux qui en assurent la garde. Mais la dichotomie ne constitue pas une loi mécanique : des objets rituels sont parfois échangés, perdus, détruits, acquis ou convertis en biens de prestige. Il faut donc étudier les systèmes locaux et la capacité des institutions à stabiliser les exceptions. La valeur d'une chose dépend de son histoire et de son régime de circulation, non uniquement de sa matière.
+
+### 18. Garder en donnant [B]
+
+La distinction entre usage et propriété permet de comprendre certains transferts qui paraissent paradoxaux : un destinataire emploie ou transmet une chose sans en acquérir tous les droits. Godelier éclaire cette question à partir de ses analyses des échanges cérémoniels et des objets sacrés. Le rapprochement avec Annette Weiner, Inalienable Possessions (1992), est substantiel, mais les deux auteurs ne s'identifient pas : Weiner insiste notamment sur l'autorité attachée aux possessions inaliénables et sur le travail des femmes ; Godelier élargit la discussion au pouvoir politico-religieux et à la formation des sociétés.
+
+## VII. Ni tout donner, ni tout vendre
+
+### 19. Trois régimes à ne pas confondre [B]
+
+Le don peut instituer une relation personnelle ; la vente transfère un bien contre une contrepartie définie ; la conservation met certains objets et titres à l'abri de transferts ordinaires. Ces régimes ne sont pas des blocs naturels. Une institution peut changer la qualification d'un objet, imposer une restitution ou interdire une cession. Ce qui est présenté comme « hors commerce » à une époque peut devenir négociable dans une autre. L'inaliénabilité est donc un effet historique et juridique.
+
+### 20. Les points fixes de l'ordre social [B]
+
+Godelier propose que certaines réalités conservées jouent le rôle de points d'ancrage de la société : elles permettent aux groupes de se reconnaître et de transmettre un ordre. La mémoire, les objets rituels et les droits de souveraineté peuvent servir de tels points fixes. La proposition est puissante mais demande une vérification locale : ni chaque famille, ni chaque institution religieuse, ni chaque communauté politique ne dispose des mêmes ancrages ni du même pouvoir de les faire reconnaître.
+
+### 21. Sacré et autorité [B]
+
+Les objets sacrés peuvent prétendre tirer leur puissance d'une origine qui dépasse les personnes vivantes. Cette origine peut prendre la forme d'un ancêtre, d'un dieu, d'un événement fondateur ou d'une transmission exceptionnelle. Dans l'analyse de Godelier, la représentation d'une origine extraordinaire peut contribuer à naturaliser une asymétrie de pouvoir. L'historien doit toutefois établir qui formule cette origine, qui a le droit de la contester et comment elle est mise en œuvre.
+
+## VIII. L'idéel comme condition du réel
+
+### 22. La thèse centrale [B]
+
+L'Idéel et le matériel ne décrit pas deux substances séparées, l'une matérielle et l'autre spirituelle. Godelier s'intéresse à leur articulation au sein des rapports sociaux. Pour reconnaître une dette, il faut des normes de reconnaissance ; pour transmettre une charge, il faut définir la succession ; pour consacrer une offrande, il faut un cadre qui distingue le transfert religieux du transfert ordinaire. L'idée ne recouvre pas seulement l'opération : elle rend certaines opérations socialement possibles.
+
+### 23. La croyance et sa réalité sociale [B]
+
+Une croyance surnaturelle n'a pas besoin d'être empiriquement vraie pour contribuer à l'organisation d'un régime de propriété ou d'une hiérarchie. On ne démontre pas qu'un dieu a transféré un objet en montrant que les acteurs reconnaissaient un droit ancestral sur cet objet. Mais on démontre que ce droit pouvait produire des obligations matérielles. Cette distinction entre vérité surnaturelle et efficacité sociale protège la recherche contre deux erreurs : prendre les mythes pour des procès-verbaux et traiter les rites comme des illusions sans conséquences.
+
+### 24. Consentement, domination et résistance [B]
+
+Godelier met en avant le rôle du consentement dans la reproduction de certaines dominations. Le concept est délicat. Une autorité religieuse peut être reconnue, imposée, négociée et contestée simultanément. Le fait qu'une règle soit largement reproduite n'implique pas un consentement libre de tous. Les analyses de genre et les critiques ethnographiques imposent de considérer les dissensions internes et les changements historiques.
+
+## IX. Les fondements politico-religieux
+
+### 25. La famille ne suffit-elle pas ? [B]
+
+Dans Au fondement des sociétés humaines, Godelier remet en cause l'idée que les rapports de parenté suffiraient à constituer une société comme totalité politique. Il met l'accent sur des rapports politico-religieux, sur la souveraineté territoriale et sur des représentations partagées permettant à plusieurs groupes de former une unité. Ce point ne signifie pas que la parenté serait secondaire partout : il signifie qu'elle ne résout pas automatiquement la question du territoire, du pouvoir ou de la légitimité collective.
+
+### 26. Parenté et engendrement social [B]
+
+Métamorphoses de la parenté (2004) interroge les relations entre alliance, filiation, sexualité et représentations de l'enfantement. Godelier souligne que les systèmes de parenté mobilisent fréquemment des catégories et des agents autres que les géniteurs biologiques. La formule selon laquelle il faut plus qu'un homme et une femme pour faire un enfant vise l'organisation sociale et cosmologique de la personne ; elle ne conteste pas les mécanismes biologiques de la reproduction. Les débats sur cette proposition doivent distinguer anthropologie symbolique, médecine et droit.
+
+### 27. La souveraineté comme institution [B]
+
+Un territoire politique est défini par plus que la présence de familles : il suppose des procédures de décision, d'appartenance, de défense, d'alliance et de représentation. Les puissances religieuses peuvent contribuer à rendre cet ordre légitime. Il ne s'ensuit pas que chaque société se fonde historiquement sur un événement religieux unique. La proposition politico-religieuse est une hypothèse générale à éprouver par des matériaux précis.
+
+## X. Épreuve comparative I — Prométhée, le partage et les biens divins
+
+### 28. Hésiode, Théogonie 535–560 [A]
+
+À Mékônè, Prométhée prépare les parts d'un bœuf, et Zeus choisit la portion qui paraît avantageuse. Le récit explique un partage sacrificiel dans lequel la relation entre dieux et humains n'est pas symétrique. On peut examiner la distinction entre ce qui est offert, brûlé et consommé. Cependant, le mythe est une étiologie poétique, pas un registre d'inventaire d'un sanctuaire. Les catégories de propriété inaliénable élaborées par Godelier ne doivent pas être attribuées à Hésiode comme s'il les avait formulées.
+
+### 29. Les Travaux et les Jours 42–105 [A/B]
+
+Le conflit autour de Prométhée et de la condition humaine conduit, dans les Travaux et les Jours, au récit de Pandore et aux difficultés du travail. Une lecture comparée peut s'interroger sur les liens entre alimentation, feu, dons divins et dépendance humaine. Mais le cadeau de Pandore relève d'une stratégie divine particulière, non d'une transaction kula ou d'un don maussien identifié. La ressemblance de vocabulaire ne permet pas de déduire une structure sociale universelle.
+
+### 30. Sacrifice et conservation [C]
+
+Le modèle de Godelier conduit ici à une question nouvelle : le partage sacrificiel délimite-t-il des biens ou des pouvoirs qui ne peuvent plus circuler entre les deux domaines ? Les sources ne permettent pas de répondre uniformément. La valeur heuristique de l'hypothèse tient précisément à l'obligation de chercher des réglementations de sanctuaires, des agents de garde et des règles de transmission, plutôt que d'interpréter toute offrande comme une vente symbolique.
+
+## XI. Épreuve comparative II — Les présents de l'Iliade
+
+### 31. Iliade IX, 115–161 [A]
+
+Agamemnon annonce des présents destinés à Achille dans le cadre d'une tentative de réconciliation. Il énumère des objets de prestige, des ressources et des promesses. Ces biens constituent une offre politique et relationnelle, non une vente sur un marché abstrait. La valeur en jeu n'est pas réductible au prix des objets : elle est inséparable de l'honneur retiré à Achille et de l'autorité d'Agamemnon.
+
+### 32. Iliade IX, 260–299 [A/B]
+
+L'ambassade transmet l'offre à Achille. Le héros refuse, du moins à ce stade du récit, de ramener sa dignité à la réception de biens. Le désaccord révèle que l'échange ne suffit pas à restaurer toute relation de reconnaissance. On peut faire intervenir Godelier pour distinguer prestation et autorité, mais sans supposer que les héros homériques mettent en œuvre le même droit des choses que les populations étudiées par l'ethnographe.
+
+### 33. Le geras et la timē [B]
+
+Le geras peut être à la fois un objet attribué et le signe d'une place reconnue. Le retrait de Briséis n'est pas seulement une perte matérielle ; il rend visible une dégradation du rang. Les dons de compensation ne valent donc pas mécaniquement réparation. Les catégories de « bien » et de « pouvoir » doivent être analysées ensemble. C'est ici que Godelier est utile : le social ne réside pas dans le transfert seul, mais dans l'institution qui rend ce transfert acceptable.
+
+## XII. Épreuve comparative III — L'hospitalité de l'Odyssée
+
+### 34. Odyssée VIII, environ 392–416 [A]
+
+Dans l'épisode phéacien, Alcinoos propose que les nobles du groupe participent à l'ensemble des présents offerts au voyageur. Le geste d'hospitalité met en jeu une collectivité et une réputation, non une transaction privée isolée. Les objets ont une valeur qui dépasse leur utilité : ils matérialisent les relations entre hôte, invités, chefs et voyageur. La référence de vers doit être vérifiée sur l'édition de travail avant l'éventuelle citation littérale d'une traduction.
+
+### 35. L'hospitalité comme relation durable [B]
+
+Le xeinēion, présent d'hospitalité, permet d'ouvrir une relation. Mais toutes les relations de xenia ne fonctionnent pas selon un contrat écrit ni selon une règle uniforme de restitution. L'emploi du vocabulaire maussien doit rester analogique : on peut discuter obligation, prestige, mémoire et hospitalité sans transformer le récit homérique en description de l'échange cérémoniel mélanésien.
+
+### 36. Ce que l'échange ne répare pas [C]
+
+Comparer la réconciliation impossible d'Achille et l'hospitalité phéacienne montre deux fonctions du présent : réparer une relation endommagée ou inaugurer une relation reconnue. Une théorie générale du don doit pouvoir expliquer la réussite et l'échec. Il ne suffit pas de relever la présence d'objets pour conclure à un mécanisme social identique.
+
+## XIII. Épreuve comparative IV — L'offrande égyptienne et le nom
+
+### 37. Une stèle du Moyen Empire [A]
+
+La stèle funéraire du Metropolitan Museum of Art, inv. 27.3.65, provient de Deir el-Bahari et date approximativement de 2030–1981 avant notre ère. La notice décrit une formule d'offrande et une représentation de denrées ; le nom du propriétaire n'est plus lisible (https://www.metmuseum.org/art/collection/search/556778). Il s'agit d'une documentation vérifiable sur les supports matériels de la mémoire et sur la disponibilité religieusement demandée des offrandes.
+
+### 38. Le défunt, sa tombe et les biens [A/B]
+
+La stèle témoigne d'une relation entre image, inscription et survivance espérée. Elle ne prouve pas que tous les biens déposés dans la tombe étaient inaliénables au sens de Godelier, ni que la famille entière partageait la même conception de la personne. L'archéologie des réemplois, des vols et des transformations funéraires rappelle que les objets peuvent changer de statut.
+
+### 39. Un point fixe de mémoire ? [C]
+
+Une lecture inspirée de Godelier peut étudier la stèle comme un repère matériel qui stabilise l'identité d'un défunt et les devoirs associés à sa mémoire. Mais il s'agit d'une interprétation du fonctionnement social de l'objet, non d'une traduction égyptienne du concept d'inaliénabilité. Pour évaluer cette hypothèse, il faudrait examiner le droit de la tombe, le financement des cultes et les pratiques réelles de transmission.
+
+## XIV. Épreuve comparative V — La dédicace grecque
+
+### 40. Le relief d'Athéna [A]
+
+Le Metropolitan Museum of Art conserve un fragment attique de relief votif, daté approximativement de 405–390 avant notre ère, inv. 1989.281.59, représentant Athéna ; le reste du relief est conservé à Athènes. La notice rattache probablement la dédicace à l'accomplissement d'un vœu, et la photographie est signalée dans le domaine public (https://www.metmuseum.org/art/collection/search/255936). Il s'agit d'une hypothèse de fonction formulée par le musée, non d'une scène intégralement conservée.
+
+### 41. Une inscription syllabique chypriote [A]
+
+Un autre fragment de relief votif conservé au Metropolitan Museum, inv. 74.51.2313, présente une dédicace à Apollon dans le syllabaire chypriote, datée du IIIe siècle avant notre ère (https://www.metmuseum.org/art/collection/search/241867). Il permet de montrer qu'une offrande peut être rapportée à un individu nommé, à une divinité et à un monument durable. Cette triade est documentée ; elle ne révèle pas à elle seule toutes les règles de propriété du sanctuaire.
+
+### 42. La dédicace fait-elle sortir l'objet du marché ? [C]
+
+La question est pertinente mais doit être décomposée. Un objet consacré peut être conservé, exposé, inventorié, déplacé ou refondu dans des conditions réglées par les institutions locales. Il est illégitime d'affirmer que la dédicace créait partout une inaliénabilité absolue. Ce serait importer une catégorie d'analyse sans preuve juridique. La véritable comparaison porte sur les degrés d'indisponibilité et sur les agents capables de décider de leur modification.
+
+## XV. Épreuve comparative VI — Le kudurru babylonien
+
+### 43. Monument et concession de terre [A/B]
+
+Les kudurrus babyloniens sont associés à des concessions, à des droits et à des symboles divins. Ils peuvent servir de supports écrits et figurés à la mémorisation de certains droits. Mais tous les fragments n'ont pas conservé un texte. Le British Museum, inv. 104407, conserve un fragment de kudurru provenant de Babylone dont la notice signale explicitement que la partie inscrite manque (https://www.britishmuseum.org/collection/object/W_1880-0617-1690). Il serait donc abusif de citer ce fragment comme une inscription attestant une concession particulière.
+
+### 44. Le droit soutenu par les dieux [B]
+
+La présence de symboles divins sur un monument relatif à des droits fonciers peut être analysée comme une modalité de légitimation. Cependant, un droit sacralisé n'est pas nécessairement une propriété inaliénable. Certains droits peuvent être accordés, cédés, contestés ou modifiés. L'opposition entre objet de mémoire et terre concernée doit rester explicite : l'inscription n'est pas le champ et le monument n'est pas le titre moderne de propriété.
+
+### 45. Comparaison réglée [C]
+
+Une question godeliérienne se pose : quel est le point fixe nécessaire pour autoriser la circulation et la transmission de ressources ? Le monument peut figurer comme référence de légitimité, mais la réponse exige la lecture de textes conservés intégralement et l'étude des archives administratives correspondantes. Aucun transfert direct de catégories ethnographiques ne vaut preuve.
+
+## XVI. Parenté, filiation et autorité
+
+### 46. Nulle société n'est faite seulement de parenté [B]
+
+Godelier distingue l'organisation de la parenté de la constitution d'un ensemble politique. Une ville antique peut compter plusieurs lignées, sanctuaires et groupes de statut sans se confondre avec une famille agrandie. Il serait pourtant incorrect de projeter cette proposition comme une explication exhaustive de la naissance des cités grecques. Les processus historiques associent guerre, territoires, cultes, échanges, institutions et formes de dépendance.
+
+### 47. L'engendrement est socialement interprété [B]
+
+La représentation de la conception et de la filiation varie considérablement. Certaines traditions religieuses invoquent des ancêtres ou des puissances divines dans la production de l'identité d'un enfant. Ce fait anthropologique n'autorise aucune conclusion biologiquement fantaisiste. Il rappelle simplement que la personne sociale ne se réduit pas à un événement biologique. Pour l'Antiquité, il faut étudier séparément les droits d'héritage, les adoptions, les pratiques cultuelles et les généalogies mythiques.
+
+### 48. La mémoire des lignages [C]
+
+Le passage d'une charge religieuse ou politique entre générations peut être analysé comme une conservation institutionnelle : un titulaire disparaît, mais le titre demeure. Une analogie avec les objets conservés est possible, sans identité nécessaire. Les droits ne sont pas des choses au même sens que les reliques, stèles ou présents, et la transmission d'une charge peut être disputée.
+
+## XVII. Le genre et ses contradictions
+
+### 49. Un problème que l'économie du don ne peut éviter [B]
+
+La production matérielle, la distribution des présents et la conservation des objets peuvent être socialement différenciées entre les sexes. Une description centrée sur les chefs masculins risque alors d'ignorer des activités décisives. Weiner a montré l'importance des richesses et prestations féminines ; Strathern a contesté certaines catégories occidentales de personne et de genre ; Godelier examine comment les institutions contribuent à reproduire la domination. Le dialogue entre ces analyses est plus fécond qu'une hiérarchie arbitraire de leurs auteurs.
+
+### 50. Les femmes comme actrices et non comme symboles [B]
+
+Il faut distinguer les représentations masculines de la fertilité ou du pouvoir et les pratiques des femmes elles-mêmes. Les rites initiatiques étudiés par Godelier ne sont pas une preuve que toutes les intéressées interprétaient leurs positions de manière identique. Les traditions grecques et égyptiennes exigent la même précaution : la figure d'une déesse n'atteste pas l'égalité des sexes, et une divinité féminine ne peut être réduite à une projection directe de la position sociale des femmes.
+
+### 51. Nicole Loraux et la contradiction du politique [B]
+
+La critique de Loraux rappelle que l'analyse des institutions doit aussi examiner la tension entre leurs justifications et leurs effets. En Grèce comme dans l'ethnographie moderne, les représentations d'un ordre masculin peuvent être contestées, retournées ou habitées de contradictions. Cette comparaison reste théorique : elle ne prouve pas l'identité entre une cité athénienne du Ve siècle avant notre ère et une communauté mélanésienne du XXe siècle.
+
+## XVIII. Le sacré, la souveraineté et l'imaginaire
+
+### 52. Les dieux comme garants d'une origine [B]
+
+Une institution peut attribuer son origine à une puissance fondatrice. Cette attribution peut soutenir des privilèges qui seraient autrement discutables. L'historien étudie alors la fonction sociale de la croyance sans prétendre confirmer la réalité surnaturelle de son objet. Le sacré n'est ni un simple déguisement de l'économie ni une substance mystérieuse indépendante de toute histoire.
+
+### 53. Le politico-religieux n'efface pas l'économie [B]
+
+Dire que le pouvoir politico-religieux participe à la constitution d'une société ne signifie pas que les ressources matérielles deviennent accessoires. L'entretien d'un temple, le financement d'une procession et le contrôle d'une terre exigent des moyens pratiques. La thèse de Godelier invite à analyser simultanément la légitimité, l'organisation du travail et les infrastructures.
+
+### 54. L'exemple d'Aton : une comparaison limitée [C]
+
+Le déplacement du centre religieux sous Akhenaton et la fondation d'Akhetaton rendent visible la capacité d'un pouvoir royal à transformer les institutions du culte. L'analogie avec Godelier concerne la production politique de conditions de légitimité. Elle ne démontre pas que les Égyptiens auraient conceptualisé les biens sacrés comme les ethnographes de Mélanésie, ni que la révolution amarnienne aurait été déterminée par le mécanisme général de l'inaliénabilité. Le dossier égyptien doit rester fondé sur les inscriptions, les talatates et les textes d'Amarna.
+
+## XIX. Dialogue avec Marx, Hegel et Nietzsche
+
+### 55. Marx : marchandises et rapports sociaux [B]
+
+Dans Le Capital, livre I, chapitre 1, Marx analyse la forme marchandise et les rapports sociaux qui paraissent prendre la forme de relations entre choses. Godelier hérite de la question des rapports sociaux tout en soulignant que les institutions ne se déduisent pas entièrement de l'échange marchand. La comparaison éclaire les rapports entre valeur, représentation et pouvoir, sans transformer une catégorie issue du capitalisme moderne en loi universelle de l'Antiquité.
+
+### 56. Hegel : reconnaissance et institutions [C]
+
+Les analyses hégéliennes de la reconnaissance et de la vie éthique permettent de poser la question suivante : comment un titre ou un don est-il reconnu comme légitime ? La reconnaissance n'est pas seulement un sentiment individuel ; elle suppose des pratiques et des institutions. Pourtant Godelier ne construit pas la même philosophie de l'histoire que Hegel, et aucune totalité dialectique nécessaire ne doit être projetée sur les matériaux ethnographiques.
+
+### 57. Nietzsche : dette et ancêtres [C]
+
+Dans La Généalogie de la morale, deuxième dissertation, notamment §§19–20, Nietzsche rapproche dette, mémoire et puissance prêtée aux ancêtres. Son hypothèse permet de questionner l'autorité des choses transmises : que doit-on aux morts et pourquoi certaines transmissions deviennent-elles sacrées ? Mais cette généalogie philosophique n'est pas une archive d'une cérémonie ancienne. Elle met à l'épreuve l'analyse de Godelier sans la confirmer historiquement.
+
+### 58. Ricœur : mémoire et identité [C]
+
+La mémoire d'une lignée ou d'un groupe peut être attachée à un monument, une charge ou un récit. Ricœur, dans La Mémoire, l'histoire, l'oubli, aide à distinguer souvenir, archive et reconnaissance. Une stèle funéraire ou une dédicace rend un nom disponible pour les générations suivantes ; sa conservation ne garantit pas la continuité effective de toutes les obligations. L'identité narrative constitue ici un outil de comparaison philosophique.
+
+## XX. Godelier, Weiner, Strathern : une discussion plutôt qu'une fusion
+
+### 59. Mauss [B]
+
+Mauss interroge la circulation obligatoire des prestations et les relations qui survivent au transfert. Son objet n'est ni uniquement économique ni exclusivement religieux. Une lecture fidèle évite d'en faire un défenseur du marché moderne.
+
+### 60. Weiner [B]
+
+Weiner insiste sur la conservation, les possessions inaliénables et la place des femmes. Elle reconfigure les descriptions ethnographiques en montrant que la circulation visible dépend parfois d'objets et de statuts qui ne circulent pas. Cette proposition n'est pas seulement une variante terminologique de Mauss.
+
+### 61. Strathern [B]
+
+Strathern interroge la forme même de la personne, les relations constituant les prestations et les catégories de genre employées par l'observateur. Elle rappelle que « posséder », « donner » et « être une personne » ne forment pas partout un ensemble de notions directement transposables.
+
+### 62. Godelier [B]
+
+Godelier lie les biens conservés au problème des origines imaginées et de la constitution politico-religieuse des sociétés. Sa force est de montrer comment un objet, un interdit et une légitimité peuvent contribuer à reproduire des rapports sociaux ; sa difficulté est d'expliciter les mécanismes locaux et leurs variations. La combinaison critique des quatre auteurs produit une enquête plus précise qu'une définition universelle du don.
+
+## XXI. Objections et limites
+
+### 63. L'inaliénabilité n'est pas un état absolu [B]
+
+Les objets considérés comme indisponibles peuvent parfois être saisis, cachés, donnés, détruits, restaurés ou exposés ailleurs. Une théorie qui traiterait leur inaliénabilité comme une propriété physique serait contredite par l'histoire. Le chercheur doit reconstruire les règles, les exceptions et les personnes autorisées à les modifier.
+
+### 64. Le religieux n'est pas toujours le centre du politique [B]
+
+La thèse politico-religieuse est puissante, mais elle peut sous-estimer certaines institutions militaires, fiscales, urbaines ou juridiques si elle est appliquée sans nuance. Les cités antiques montrent précisément des articulations historiques variables entre sanctuaires, pouvoirs civiques, maisons et territoires. La comparaison doit rechercher les configurations, non une essence unique.
+
+### 65. L'ethnographe possède lui aussi un pouvoir [B]
+
+Le choix des interlocuteurs, la traduction, les catégories sexuelles et les modes de publication modifient la description. La source ethnographique ne livre pas le regard de tous les acteurs. La confrontation avec les critiques de Nicole Loraux, de Weiner et de Strathern permet de repérer les angles morts plutôt que de rejeter en bloc l'enquête.
+
+### 66. Le mot « sacré » n'explique rien à lui seul [B]
+
+Nommer « sacré » un objet n'indique pas encore pourquoi il est conservé, par qui il est gardé, comment il est transmis et ce qui advient en cas de transgression. Une bonne analyse doit descendre du concept vers les dispositifs matériels et juridiques. C'est particulièrement nécessaire pour les monuments antiques : il ne suffit pas de montrer une déesse sur une stèle pour prouver l'existence d'un régime d'inaliénabilité.
+
+## XXII. Tableau de synthèse comparatif
+
+| Dossier | Ce qui circule | Ce qui demeure ou est revendiqué comme tel | Précaution méthodologique |
+|---|---|---|---|
+| Mauss et le don | Présents et contre-prestations | Obligations, relations, prestige | Pas de transaction universelle |
+| Godelier chez les Baruya | Prestations, objets, relations | Pouvoirs, connaissances, objets consacrés | Terrain situé, changements historiques |
+| Weiner | Biens cérémoniels | Possessions inaliénables, mémoire des lignages | Visibilité des femmes |
+| Iliade IX | Présents promis à Achille | Rang, timē, autorité disputée | Poème, non inventaire juridique |
+| Odyssée VIII | Cadeaux phéaciens | Réputation des chefs, relation de xenia | Hospitalité littéraire |
+| Stèle égyptienne | Offrandes représentées ou apportées | Nom et mémoire funéraires souhaités | Ne prouve pas une propriété absolue |
+| Dédicace grecque | Objet consacré | Mémoire du donateur, rapport au dieu | Régimes locaux variables |
+| Kudurru | Droits fonciers institués | Support de mémoire et légitimation | Monument ≠ terre transférée |
+
+Le tableau ne prétend pas classer toutes les pratiques selon la même logique. Sa fonction est de faire apparaître les questions que l'on doit poser aux documents, y compris lorsque leurs réponses sont incompatibles.
+
+## XXIII. Bibliographie universitaire primaire et théorique
+
+**Maurice Godelier — œuvres de référence :**
+1. La Production des grands hommes. Pouvoir et domination masculine chez les Baruya de Nouvelle-Guinée, Fayard, 1982. Compte rendu critique de Nicole Loraux, Annales 38/6, 1983, 1264–1268 : https://doi.org/10.1017/S0395264900083268.
+2. L'Idéel et le matériel. Pensée, économies, sociétés, Fayard, 1984 : https://www.fayard.fr/livre/lideel-et-le-materiel-9782213013367/.
+3. L'Énigme du don, Fayard, 1996 : https://www.hachette.fr/livre/l-enigme-du-don-9782213596938/.
+4. The Enigma of the Gift, traduction Nora Scott, University of Chicago Press, notice de l'éditeur : https://press.uchicago.edu/ucp/books/book/chicago/E/bo3621366.html.
+5. Métamorphoses de la parenté, Fayard, 2004 : https://www.fayard.fr/livre/metamorphoses-de-la-parente-9782213614908/.
+6. Au fondement des sociétés humaines. Ce que nous apprend l'anthropologie, 2007 ; réédition de poche, Albin Michel, 2026 : https://www.albin-michel.fr/au-fondement-des-societes-humaines-9782226179036.
+
+**Théories et critiques :**
+7. Marcel Mauss, « Essai sur le don », L'Année sociologique, 1923–1924, publication 1925.
+8. Annette B. Weiner, Women of Value, Men of Renown, 1976 ; Inalienable Possessions: The Paradox of Keeping-While-Giving, University of California Press, 1992.
+9. Marilyn Strathern, The Gender of the Gift, University of California Press, 1988 ; Partial Connections, 1991.
+10. Claude Lévi-Strauss, « Introduction à l'œuvre de Marcel Mauss », 1950.
+11. Pierre Bourdieu, Le Sens pratique, Minuit, 1980.
+12. Nicole Loraux, compte rendu cité ci-dessus, 1983.
+13. Karl Marx, Le Capital, livre I, chapitre 1.
+14. G. W. F. Hegel, Principes de la philosophie du droit, sections concernant la famille et la société civile.
+15. Friedrich Nietzsche, La Généalogie de la morale, II, §§19–20.
+16. Paul Ricœur, La Mémoire, l'histoire, l'oubli, Seuil, 2000.
+
+**Textes antiques (passages à citer par édition et non par traduction improvisée) :**
+17. Hésiode, Théogonie 535–560 ; Travaux et les Jours 42–105.
+18. Homère, Iliade IX, 115–161 et 260–299 ; Odyssée VIII, environ 392–416.
+19. Stèles égyptiennes d'offrandes : Metropolitan Museum of Art 27.3.65, notice institutionnelle.
+20. Dédicaces grecques : Metropolitan Museum of Art 1989.281.59 et 74.51.2313, notices institutionnelles.
+21. Kudurru fragmentaire : British Museum 104407, notice institutionnelle explicitant l'absence de texte conservé.
+
+## XXIV. Programme iconographique sourcé et vérifiable
+
+**Figure A.** Metropolitan Museum of Art, inv. 1989.281.59 : fragment attique de relief votif avec Athéna, vers 405–390 av. n. è., domaine public. Notice et reproduction : https://www.metmuseum.org/art/collection/search/255936. Légende : « Dédicace probable pour l'accomplissement d'un vœu ; l'image ne documente pas, à elle seule, le droit de propriété des objets consacrés. » [A]
+
+**Figure B.** Metropolitan Museum of Art, inv. 74.51.2313 : relief chypriote dédié à Apollon, IIIe siècle av. n. è., inscription syllabique. Notice : https://www.metmuseum.org/art/collection/search/241867. Légende : « Donateur, dieu et objet de la dédicace : une relation inscrite, non un contrat de vente. » [A]
+
+**Figure C.** Metropolitan Museum of Art, inv. 27.3.65 : stèle égyptienne, XIe dynastie, vers 2030–1981 av. n. è., formule d'offrande ; nom du propriétaire illisible. Notice : https://www.metmuseum.org/art/collection/search/556778. Légende : « Mémoire funéraire et alimentation rituelle représentée ; identité personnelle non reconstituable. » [A]
+
+**Figure D.** British Museum, inv. 104407 : fragment de kudurru de Babylone portant des symboles divins, sans texte conservé. Notice : https://www.britishmuseum.org/collection/object/W_1880-0617-1690. Légende : « Symboles religieux sur un monument de tradition juridique ; aucun bénéficiaire ne peut être identifié à partir de ce seul fragment. » [A]
+
+**Figure E.** Metropolitan Museum of Art, inv. 57.42 : relief votif attique consacré à un héros, fin du IVe siècle av. n. è. Notice : https://www.metmuseum.org/art/collection/search/254966. Légende : « Offrandes et banquet héroïque ; comparaison entre mémoire des défunts et pratiques de don, sans identité institutionnelle présumée. » [A]
+
+**Figure F.** Carte originale de travail : Athènes, Deir el-Bahari, Babylone et région des hautes terres de Papouasie-Nouvelle-Guinée. Elle distinguera impérativement les sites antiques des lieux d'enquête contemporaine, sans flèches suggérant une transmission historique entre eux. [C]
+
+**Figure G.** Schéma analytique original à trois colonnes — donner / vendre / garder — avec une quatrième colonne « transformation historique possible ». Il devra être signalé comme une construction pédagogique contemporaine, non comme un diagramme transmis par Godelier. [C]
+
+Les notices institutionnelles, dates, lieux de conservation et numéros d'inventaire sont conservés dans les légendes. Ne pas insérer de pseudo-reconstitutions archéologiques en perspective 2,5D ; ne pas utiliser d'images ethnographiques modernes sans contrôle des droits et des conditions de consentement.
+
+## XXV. Conclusion générale : la stabilité rend-elle l'échange possible ?
+
+L'apport majeur de Maurice Godelier à la mythologie comparée n'est pas l'affirmation que toutes les sociétés auraient besoin d'un trésor sacré identique. Il réside dans un déplacement de la question. L'échange n'est plus le mécanisme unique à partir duquel toutes les institutions doivent être déduites. Des relations se reproduisent parce que certaines choses sont transférées, mais aussi parce que des objets, des droits, des titres ou des significations sont conservés et présentés comme durables.
+
+Ce déplacement impose de distinguer trois opérations : donner un bien, vendre un bien et le maintenir hors des transferts ordinaires. Aucune ne se suffit comme théorie totale de la société. Les pratiques historiques mêlent ces régimes, les contestent et les transforment. Le sacré peut contribuer à stabiliser certaines frontières, mais n'en garantit jamais l'immuabilité. Son efficacité sociale dépend de gardiens, de récits, de rites et d'institutions — et donc de conditions matérielles et politiques concrètes.
+
+L'ethnographie des Baruya montre l'importance des pratiques de transmission et de l'organisation de la domination. La critique de Nicole Loraux, les perspectives d'Annette Weiner et celles de Marilyn Strathern rappellent cependant que l'interprétation du pouvoir ne doit pas devenir la voix unique des acteurs. Les sociétés comportent des différences de position, des rapports de genre et des capacités inégales à définir ce qui doit être conservé.
+
+L'Antiquité confirme l'intérêt de ces questions sans les résoudre universellement. Le partage de Prométhée définit poétiquement une relation entre dieux et mortels. Les présents promis à Achille échouent à réparer la perte d'honneur. Les cadeaux phéaciens matérialisent l'hospitalité. Les stèles égyptiennes soutiennent une espérance de mémoire ; les dédicaces grecques inscrivent une relation cultuelle ; les kudurrus articulent symboles divins et droits. Aucune de ces pratiques n'est la copie de l'une des autres.
+
+**Conclusion [B] : le pouvoir d'une chose ne réside pas seulement dans son prix ni dans son déplacement, mais dans les rapports qui permettent de la donner, de la réclamer, de la retenir et de raconter son origine.** Le sacré est l'un des langages historiques de ces rapports, non leur explication unique. C'est en précisant ce que les institutions conservent, qui a le droit de décider et qui supporte le coût de la conservation que la mythologie comparée devient aussi une enquête sur la justice.
+
+### Bilan de fiabilité et suite
+
+[A] Les dates d'ouvrages, notices d'éditeurs, sources antiques citées, références de musée et inventaires sont vérifiables aux adresses fournies. [B] Les analyses de Godelier et leurs critiques sont restituées par paraphrase, sans revendication de collation exhaustive d'éditions intégralement non accessibles. [C] Les comparaisons grecques, égyptiennes et babyloniennes sont hypothétiques lorsqu'elles transposent les concepts contemporains d'inaliénabilité et de politico-religieux. Aucun verbatim ethnographique autochtone non sourcé n'a été inventé.
+
+**Continuité :** publication à numéro canonique attribué automatiquement par le circuit éditorial MYTHOS, sans réservation manuelle du numéro suivant. Les autres séries et la lacune documentaire historique de MC-026 demeurent indépendantes. Aucun chapitre existant n'est remplacé ni amputé.

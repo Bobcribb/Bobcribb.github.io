@@ -412,6 +412,12 @@
           "path": "chapitres/encyclopedie/chapitre-383-hymenaios-chant-nuptial-mariage-rites-tragedie-archaeologie.md",
           "request_sha256": "4731cd1d380136674ac31dd0d00bdbf9aafa13b7bf22e63d7666898c5ac7d265",
           "initial_source_sha256": "68716b9e63a8a3c54f7e565e12356397a022ecd82e4ab618f096063bfdba4790"
+        },
+        "5f6b9b31-23a6-4670-991f-9ec79255a4ad": {
+          "number": 384,
+          "path": "chapitres/encyclopedie/chapitre-384-harmonia-cadmos-collier-mariage-thebes-samothrace-metamorphoses.md",
+          "request_sha256": "d922c231ca32962f2607b95db3241d57c63761bbedd6b2149dade2f8b166217e",
+          "initial_source_sha256": "f97bf0223f06a9a8dd89c793cb4425ac765ad3b97e00461d3b7a147d683db8d9"
         }
       }
     },
@@ -791,6 +797,12 @@
           "path": "chapitres/comparatif/volume-clxvii-annette-weiner-possessions-inalienables-don-richesses-feminines-memoire.md",
           "request_sha256": "22a277ed2d59c5dffbe68043b13791d0dabf071397a9cd40c188a1b2a2fe0ecb",
           "initial_source_sha256": "17b47d7f427e2e0f5b1206ac542f6056bc581a4b954a5388a693230dfc77f4fe"
+        },
+        "d3a5b8f9-7c42-4e56-95d6-1fa4c1f235e9": {
+          "number": 168,
+          "path": "chapitres/comparatif/volume-clxviii-maurice-godelier-enigme-don-sacres-pouvoir-politico-religieux.md",
+          "request_sha256": "145b2b085bb60234e38e005bb53813ce5a1026848c9d0c6ceeb7ddd994436ab6",
+          "initial_source_sha256": "6bd157d21098ceadd0af0d17c7f674e9f6f0a59eccf3543f2da85afd4d69fd25"
         }
       }
     }
