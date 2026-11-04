@@ -5,39 +5,30 @@
   "branch": "main",
   "latest_session": {
     "date": "2026-11-04",
-    "kind": "AUDIT ET CORRECTION",
-    "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "scope": "Audit post-iconographique de huit pages MYTHOS ; vérification des chemins et renvois, constat des réparations concurrentes du journal et de la carte Reconstitutions 3D, ajout d'un test inter-pages Iliade/Héraclès.",
-    "basis_commit": "1da5038ff04c4bdccd006d1c20601a66a7822bc8",
-    "audited_pages": [
-      "index.html",
-      "livre-iliade-scenes/index.html",
-      "livre-odyssee/index.html",
-      "livre-hesiode/index.html",
-      "philosophie-iliade.html",
-      "philosophie-odyssee.html",
-      "philosophie-theogonie.html",
-      "reconstitutions-photorealistes.html"
+    "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "previous_kind": "AUDIT ET CORRECTION",
+    "next_kind": "AUDIT ET CORRECTION",
+    "scope": "Ajout d’une photographie de la statuette de Nikè (Met 07.286.23) au livre Hésiode, partie Titanides/Styx ; dix images documentées dans le troisième livre grec.",
+    "basis_commit": "74ec4f5c4b5b4af9d503178082cf652e5d2c54c7",
+    "modified_pages": [
+      "livre-hesiode/index.html"
     ],
-    "html_ids_checked": 591,
-    "local_anchors_checked": 515,
-    "images_checked": 202,
-    "duplicate_ids": 0,
-    "broken_same_page_fragments": 0,
-    "images_without_alt": 0,
-    "local_resources": "Un scan de 4354 entrées de l'arbre GitHub main (photographie 01806ba28a9d022f4cc5cfcb5dd5999219c220f0) n'a identifié aucun fichier local manquant dans les huit pages auditées. Les changements de carte intervenus ensuite conservent le WebP Delphes déjà présent dans l'arbre.",
-    "cross_page_check": "Les cinq liens historiques des pages /iliade/ et /heracles/ vers /glossaire/#kleos, /bestiaire/#nemean, #hydre, #cerbere et /religion/#heros-cultuels ont des cibles réelles sur main. Test de régression ajouté pour les vérifier après chaque reconstruction. La route d'application #/accueil de l'archive n'est pas une ancre HTML, et le script d'audit sait déjà la distinguer.",
-    "gallery_check": "Une seule carte de galerie 3D est présente dans les collections de l'accueil ; elle référence le WebP Delphes, le statut de restitution interprétative et les degrés de certitude. Réparation effectuée par d'autres commits récents, notamment 0e6ea40a049fe9ecf1fa37cc390aeb7b03460654 ; ne pas dupliquer la carte.",
-    "ci_and_log_check": "Les exécutions 41873476605/41873476606 avaient échoué sur l'alternance et la carte 3D. Le commit concurrent 1acd15e1ac5d990035ff11a57c6a679616477088 a réconcilié le journal : 30 événements uniques, latest_session = history[-1], alternance sans rupture. La présente séance d'audit est ajoutée à la suite. Les résultats de la CI de ce commit restent à vérifier.",
-    "public_observation": "Accès HTTPS réalisé : le manifeste bobmythos.fr/catalog/publication-verification.json annonce source_commit=5d64aa9c910d52b635ec7cab3ea6455e7626b01c et run 41866816437, anciens par rapport à main. Les livres publics Iliade/Odyssée/Hésiode montrent 9/9/8 images, contre 10/10/9 dans les sources locales. Déploiement du lot récent non confirmé.",
-    "design_and_accessibility": "Les balises alt des 202 images contrôlées sont présentes. Les styles du portail comportent des règles @media ; pas de contrôle graphique exécuté sur appareil mobile, ni validation WCAG complète.",
-    "numbering_and_preservation": "AGENTS.md et docs/PUBLICATION_CONCURRENTE.md lus. Aucun nouveau manuscrit, numéro, registre, menu, texte scientifique, image, automatisation ou horaire modifié. L'ajout concerne uniquement le test des renvois et le journal d'alternance.",
-    "pagination": "Les PDF A4 et leurs paginations ne sont pas recalculés pendant cet audit.",
-    "obstacle": "Le domaine public reste sur un manifeste antérieur ; de nouveaux commits concurrents et la CI empêchent de conclure à une publication publique à jour. Revue bibliographique et responsive exhaustive non effectuée.",
-    "test_status": "Vérification de l'unicité des signets et de leur présence dans les fichiers avant ajout du test ; suite Python intégrale et déploiement à vérifier dans GitHub Actions après commit.",
-    "commits": [],
-    "commit_note": "Commit atomique du test et du journal ; SHA exact à vérifier dans GitHub et ne pas annoncer la réussite du workflow avant contrôle."
+    "added_figure_count": 1,
+    "added_figure_id": "icono-hesiode-styx-nike-met-247903-20261104",
+    "reused_asset": "/assets/illustrations-articles/met-247903-nike-terre-cuite.webp",
+    "new_binary_assets": 0,
+    "source": "Metropolitan Museum of Art 247903, objet fin Ve siècle av. J.-C., Open Access CC0 ; Hésiode Théogonie 383–403 ; figure authentique non IA, distincte du récit décrit.",
+    "precommit_checks": "Six pages monographiques auditées sur main : 495 identifiants, 427 ancres internes, 102 images, 144 ressources CSS/JS/images, zéro ressource manquante, zéro ancre cassée, zéro identifiant dupliqué, zéro image sans alt. Le livre d’Hésiode comptait neuf images.",
+    "postedit_checks": "Livre Hésiode : dix images, nouveau lien vers l’image déjà présente dans les actifs, légende, datation et provenance ; aucun autre texte scientifique modifié. Test de non-régression spécifique ajouté.",
+    "philosophy_analysis_pages": {
+      "iliade": 107,
+      "odyssee": 101,
+      "theogonie": 103
+    },
+    "tests": "Contrôles statiques de syntaxe, unicité des identifiants et des images avant création du commit ; test unitaire à exécuter en CI.",
+    "deployment": "Commit GitHub distinct de la publication publique : contrôler Actions et reçu sur bobmythos.fr ; HTTPS non confirmé.",
+    "numbering": "AGENTS.md et docs/PUBLICATION_CONCURRENTE.md consultés. Aucun nouveau chapitre numéroté, aucun registre, aucun fichier inbox ni horaire modifié.",
+    "commits": []
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
   "history": [
@@ -1512,6 +1503,33 @@
       "test_status": "Vérification de l'unicité des signets et de leur présence dans les fichiers avant ajout du test ; suite Python intégrale et déploiement à vérifier dans GitHub Actions après commit.",
       "commits": [],
       "commit_note": "Commit atomique du test et du journal ; SHA exact à vérifier dans GitHub et ne pas annoncer la réussite du workflow avant contrôle."
+    },
+    {
+      "date": "2026-11-04",
+      "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "previous_kind": "AUDIT ET CORRECTION",
+      "next_kind": "AUDIT ET CORRECTION",
+      "scope": "Ajout d’une photographie de la statuette de Nikè (Met 07.286.23) au livre Hésiode, partie Titanides/Styx ; dix images documentées dans le troisième livre grec.",
+      "basis_commit": "74ec4f5c4b5b4af9d503178082cf652e5d2c54c7",
+      "modified_pages": [
+        "livre-hesiode/index.html"
+      ],
+      "added_figure_count": 1,
+      "added_figure_id": "icono-hesiode-styx-nike-met-247903-20261104",
+      "reused_asset": "/assets/illustrations-articles/met-247903-nike-terre-cuite.webp",
+      "new_binary_assets": 0,
+      "source": "Metropolitan Museum of Art 247903, objet fin Ve siècle av. J.-C., Open Access CC0 ; Hésiode Théogonie 383–403 ; figure authentique non IA, distincte du récit décrit.",
+      "precommit_checks": "Six pages monographiques auditées sur main : 495 identifiants, 427 ancres internes, 102 images, 144 ressources CSS/JS/images, zéro ressource manquante, zéro ancre cassée, zéro identifiant dupliqué, zéro image sans alt. Le livre d’Hésiode comptait neuf images.",
+      "postedit_checks": "Livre Hésiode : dix images, nouveau lien vers l’image déjà présente dans les actifs, légende, datation et provenance ; aucun autre texte scientifique modifié. Test de non-régression spécifique ajouté.",
+      "philosophy_analysis_pages": {
+        "iliade": 107,
+        "odyssee": 101,
+        "theogonie": 103
+      },
+      "tests": "Contrôles statiques de syntaxe, unicité des identifiants et des images avant création du commit ; test unitaire à exécuter en CI.",
+      "deployment": "Commit GitHub distinct de la publication publique : contrôler Actions et reçu sur bobmythos.fr ; HTTPS non confirmé.",
+      "numbering": "AGENTS.md et docs/PUBLICATION_CONCURRENTE.md consultés. Aucun nouveau chapitre numéroté, aucun registre, aucun fichier inbox ni horaire modifié.",
+      "commits": []
     }
   ]
 }
