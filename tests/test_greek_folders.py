@@ -105,6 +105,19 @@ class GreekFolderTests(unittest.TestCase):
                 self.assertEqual(book.read_bytes(), original_book)
                 self.assertEqual(len(doc.select('[data-greek-folder-nav]')), 1)
                 self.assertIsNotNone(doc.select_one('a[href="'+BASE+'cultes-sanctuaires/"]'))
+                # The chapter has a direct backlink to its exact subsection.
+                # This anchor is the same one emitted by the dossier TOC.
+                topic = doc.select_one('nav[data-greek-folder-nav] a.greek-folder-return-topic')
+                self.assertIsNotNone(topic)
+                self.assertEqual(topic['href'], BASE+'cultes-sanctuaires/#theme-1')
+                self.assertIn('Delphes', topic.get_text(' ', strip=True))
+                thematic = BeautifulSoup(
+                    (out / BASE.strip('/') / 'cultes-sanctuaires/index.html').read_text(),
+                    'html.parser')
+                self.assertIsNotNone(thematic.select_one('#theme-1 a[href="'+url+'"]'))
+                self.assertIsNotNone(thematic.select_one('nav.greek-folder-toc a[href="#theme-1"]'))
+                self.assertIn('scroll-margin-top:115px',
+                              (out / BASE.strip('/') / 'cultes-sanctuaires/index.html').read_text())
             folder = out / BASE.strip('/') / 'familles/index.html'
             doc = BeautifulSoup(folder.read_text(), 'html.parser')
             doc.select_one('a[data-greek-entry][href="/livre-thebes/#oedipe"]').decompose()
