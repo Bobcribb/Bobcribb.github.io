@@ -5,47 +5,106 @@
   "branch": "main",
   "latest_session": {
     "date": "2026-11-04",
-    "kind": "AUDIT ET CORRECTION",
-    "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "scope": "Audit post-iconographie des livres Iliade, Odyssée et Hésiode ; correction de la lacune des contrôles HTTPS pour leurs 3 nouvelles œuvres du Metropolitan Museum of Art.",
-    "audited_pages": [
+    "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "previous_kind": "AUDIT ET CORRECTION",
+    "next_kind": "AUDIT ET CORRECTION",
+    "scope": "Trois nouvelles notices documentaires du Metropolitan Museum of Art ajoutées à trois livres MYTHOS déjà présents : réception d’Homère par Rembrandt, Athéna dans l’iconographie classique, Aphrodite hellénistique.",
+    "basis_commit": "0b656b645e5c7d43d4da9142df45914fa138b52a",
+    "edited_pages": [
       "livre-iliade-scenes/index.html",
       "livre-odyssee/index.html",
       "livre-hesiode/index.html"
     ],
-    "ids_checked": 156,
-    "local_anchors_checked": 92,
-    "html_images_checked": 23,
-    "duplicate_ids": 0,
-    "broken_same_page_anchors": 0,
-    "missing_img_alt": 0,
-    "css_js_checked": [
-      "assets/style.css",
-      "assets/mythos-refonte.css",
-      "assets/mythos-museum.css",
-      "assets/mythos-discovery.css",
-      "assets/search.js",
-      "assets/mythos-museum.js",
-      "assets/mythos-reading.js"
+    "figures_added": [
+      {
+        "page": "livre-iliade-scenes/index.html",
+        "id": "icono-iliade-rembrandt-reception-homere-livre-20261104",
+        "met_object": 437394,
+        "asset": "/assets/illustrations-articles/met-437394-aristote-homere-rembrandt.webp",
+        "notice": "https://www.metmuseum.org/art/collection/search/437394"
+      },
+      {
+        "page": "livre-odyssee/index.html",
+        "id": "icono-odyssee-athena-chouette-met-254648-20261104",
+        "met_object": 254648,
+        "asset": "/assets/illustrations-articles/met-254648-athena-chouette-bronze.webp",
+        "notice": "https://www.metmuseum.org/art/collection/search/254648"
+      },
+      {
+        "page": "livre-hesiode/index.html",
+        "id": "icono-hesiode-aphrodite-hellenistique-met-253504-20261104",
+        "met_object": 253504,
+        "asset": "/assets/illustrations-articles/met-253504-aphrodite-bronze.webp",
+        "notice": "https://www.metmuseum.org/art/collection/search/253504"
+      }
     ],
-    "verified_images": [
-      "assets/illustrations-articles/met-199612-enee-fuite-troie-email.webp",
-      "assets/illustrations-articles/met-246679-hermes-bronze-aile.webp",
-      "assets/illustrations-articles/met-680363-promethee-bartolozzi.webp"
+    "baseline_check": [
+      {
+        "page": "livre-iliade-scenes/index.html",
+        "ids": 58,
+        "duplicate_ids": 0,
+        "local_links": 35,
+        "broken_local_anchors": 0,
+        "images": 8,
+        "missing_alt": 0
+      },
+      {
+        "page": "livre-odyssee/index.html",
+        "ids": 56,
+        "duplicate_ids": 0,
+        "local_links": 31,
+        "broken_local_anchors": 0,
+        "images": 8,
+        "missing_alt": 0
+      },
+      {
+        "page": "livre-hesiode/index.html",
+        "ids": 42,
+        "duplicate_ids": 0,
+        "local_links": 26,
+        "broken_local_anchors": 0,
+        "images": 7,
+        "missing_alt": 0
+      }
     ],
-    "verified_gap": "Les 3 nouvelles figures étaient présentes chacune une seule fois sur main, avec alt, datation, provenance du Met et mention non-IA, mais absentes de RECENT_FIGURES dans scripts/verify_live_site.py : le contrôle post-déploiement pouvait ne pas constater leur omission.",
-    "correction": "Étendre RECENT_FIGURES de 14 à 17 images sur six pages. Le vérificateur compare notices HTML et SHA-256 des octets WebP sur HTTPS ; tests corrigés à 17 images et 23 contrôles (6 pages + 17 images), avec régression Prométhée manquant et WebP Hermès altéré.",
-    "precommit_checks": "Lecture GitHub main des trois livres ; 156 attributs id sans doublon ; 92 href vers ancres locales présents ; 23 img tous avec alt ; présence des sept dépendances CSS/JS, des trois fichiers WebP et de CNAME=bobmythos.fr. Contrôles statiques ciblés, non audit complet des milliers de liens externes.",
-    "public_receipt": "Lecture HTTPS (lecteur externe) : /catalog/publication-verification.json donne source_commit=3358591f3247571d1aac9dcb5d35688c804f746b et github_run_id=41847280339, antérieurs aux commits de cet audit. Les pages répondent mais l'extraction de texte ne permet pas de confirmer les figures ni leurs octets. Nouveau déploiement non confirmé.",
-    "testing": "Code et tests relus depuis main après chaque commit, identifiants présents ; aucune suite unittest ni génération du site exécutée localement (checkout GitHub non disponible). Résultats CI à contrôler.",
-    "limits": "Rendu responsive sur appareil réel, PDF A4 et seuil de dix pages, références externes, liens transversaux du site, succès du workflow et inspection des octets WebP publics non vérifiés lors de cette séance.",
-    "preservation": "Aucun texte, image, numéro de chapitre, registre d'attribution, sommaire, menu, workflow ni planification horaire modifié. Aucune nouvelle étude numérotée déposée.",
-    "commits": [
-      "0a371a62046d156de077604fa365f65c34a8e950",
-      "4c8c1cb9bb6659e088c10175c4d4edcb9c60c37d"
+    "after_insertion_check": [
+      {
+        "page": "livre-iliade-scenes/index.html",
+        "ids": 59,
+        "duplicate_ids": 0,
+        "local_links": 35,
+        "broken_local_anchors": 0,
+        "images": 9,
+        "missing_alt": 0
+      },
+      {
+        "page": "livre-odyssee/index.html",
+        "ids": 57,
+        "duplicate_ids": 0,
+        "local_links": 31,
+        "broken_local_anchors": 0,
+        "images": 9,
+        "missing_alt": 0
+      },
+      {
+        "page": "livre-hesiode/index.html",
+        "ids": 43,
+        "duplicate_ids": 0,
+        "local_links": 26,
+        "broken_local_anchors": 0,
+        "images": 8,
+        "missing_alt": 0
+      }
     ],
-    "commit_note": "Le présent journal constitue le troisième commit de l'audit et son SHA est à confirmer via GitHub."
+    "sources_status": "Objets 254648 (Athéna, vers 460 av. J.-C.) et 253504 (Aphrodite, fin IIe ou Ier s. av. J.-C.) authentiques et postérieurs aux traditions épiques ; toile 437394 (Rembrandt, 1653) réception moderne. Images locales Met Open Access CC0, toutes non générées par IA.",
+    "checked_assets": "Trois WebP préexistants et documentés dans assets/illustrations-articles/sources-met.json ; aucun fichier binaire ajouté ; renvois HTTPS aux notices institutionnelles et dimensions du manifeste.",
+    "pagination": "Le rapport A4 déjà présent sur main indique 107 pages d’analyse seule Iliade, 101 Odyssée, 103 Théogonie ; ce décompte antérieur n’est pas une nouvelle mesure après insertion, qui porte uniquement sur les trois livres de lecture.",
+    "tests": "Nouveau test unittest : id, attribution et lien Met, date et statut, source WebP et dimensions, section pertinente, ancrages et alt ; exécution GitHub Actions à contrôler. Précontrôles statiques sur main sans erreur.",
+    "preservation": "Insertion de figures uniquement, aucune réécriture de paragraphes ni modification de navigation, numéros, chapitres, registres, CSS, JS, workflows ou planifications.",
+    "public_deployment_status": "Aucune publication publique annoncée avant contrôle des GitHub Actions et du reçu HTTPS.",
+    "limitations": "Pas de nouveau rendu PDF, ni contrôle visuel mobile sur appareil réel, ni audit général des liens externes.",
+    "commits": [],
+    "commit_note": "Un commit Git atomique de 5 fichiers ; son SHA est fourni par l’historique du dépôt après mise à jour de main."
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
   "history": [
@@ -1279,6 +1338,109 @@
         "4c8c1cb9bb6659e088c10175c4d4edcb9c60c37d"
       ],
       "commit_note": "Le présent journal constitue le troisième commit de l'audit et son SHA est à confirmer via GitHub."
+    },
+    {
+      "date": "2026-11-04",
+      "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "previous_kind": "AUDIT ET CORRECTION",
+      "next_kind": "AUDIT ET CORRECTION",
+      "scope": "Trois nouvelles notices documentaires du Metropolitan Museum of Art ajoutées à trois livres MYTHOS déjà présents : réception d’Homère par Rembrandt, Athéna dans l’iconographie classique, Aphrodite hellénistique.",
+      "basis_commit": "0b656b645e5c7d43d4da9142df45914fa138b52a",
+      "edited_pages": [
+        "livre-iliade-scenes/index.html",
+        "livre-odyssee/index.html",
+        "livre-hesiode/index.html"
+      ],
+      "figures_added": [
+        {
+          "page": "livre-iliade-scenes/index.html",
+          "id": "icono-iliade-rembrandt-reception-homere-livre-20261104",
+          "met_object": 437394,
+          "asset": "/assets/illustrations-articles/met-437394-aristote-homere-rembrandt.webp",
+          "notice": "https://www.metmuseum.org/art/collection/search/437394"
+        },
+        {
+          "page": "livre-odyssee/index.html",
+          "id": "icono-odyssee-athena-chouette-met-254648-20261104",
+          "met_object": 254648,
+          "asset": "/assets/illustrations-articles/met-254648-athena-chouette-bronze.webp",
+          "notice": "https://www.metmuseum.org/art/collection/search/254648"
+        },
+        {
+          "page": "livre-hesiode/index.html",
+          "id": "icono-hesiode-aphrodite-hellenistique-met-253504-20261104",
+          "met_object": 253504,
+          "asset": "/assets/illustrations-articles/met-253504-aphrodite-bronze.webp",
+          "notice": "https://www.metmuseum.org/art/collection/search/253504"
+        }
+      ],
+      "baseline_check": [
+        {
+          "page": "livre-iliade-scenes/index.html",
+          "ids": 58,
+          "duplicate_ids": 0,
+          "local_links": 35,
+          "broken_local_anchors": 0,
+          "images": 8,
+          "missing_alt": 0
+        },
+        {
+          "page": "livre-odyssee/index.html",
+          "ids": 56,
+          "duplicate_ids": 0,
+          "local_links": 31,
+          "broken_local_anchors": 0,
+          "images": 8,
+          "missing_alt": 0
+        },
+        {
+          "page": "livre-hesiode/index.html",
+          "ids": 42,
+          "duplicate_ids": 0,
+          "local_links": 26,
+          "broken_local_anchors": 0,
+          "images": 7,
+          "missing_alt": 0
+        }
+      ],
+      "after_insertion_check": [
+        {
+          "page": "livre-iliade-scenes/index.html",
+          "ids": 59,
+          "duplicate_ids": 0,
+          "local_links": 35,
+          "broken_local_anchors": 0,
+          "images": 9,
+          "missing_alt": 0
+        },
+        {
+          "page": "livre-odyssee/index.html",
+          "ids": 57,
+          "duplicate_ids": 0,
+          "local_links": 31,
+          "broken_local_anchors": 0,
+          "images": 9,
+          "missing_alt": 0
+        },
+        {
+          "page": "livre-hesiode/index.html",
+          "ids": 43,
+          "duplicate_ids": 0,
+          "local_links": 26,
+          "broken_local_anchors": 0,
+          "images": 8,
+          "missing_alt": 0
+        }
+      ],
+      "sources_status": "Objets 254648 (Athéna, vers 460 av. J.-C.) et 253504 (Aphrodite, fin IIe ou Ier s. av. J.-C.) authentiques et postérieurs aux traditions épiques ; toile 437394 (Rembrandt, 1653) réception moderne. Images locales Met Open Access CC0, toutes non générées par IA.",
+      "checked_assets": "Trois WebP préexistants et documentés dans assets/illustrations-articles/sources-met.json ; aucun fichier binaire ajouté ; renvois HTTPS aux notices institutionnelles et dimensions du manifeste.",
+      "pagination": "Le rapport A4 déjà présent sur main indique 107 pages d’analyse seule Iliade, 101 Odyssée, 103 Théogonie ; ce décompte antérieur n’est pas une nouvelle mesure après insertion, qui porte uniquement sur les trois livres de lecture.",
+      "tests": "Nouveau test unittest : id, attribution et lien Met, date et statut, source WebP et dimensions, section pertinente, ancrages et alt ; exécution GitHub Actions à contrôler. Précontrôles statiques sur main sans erreur.",
+      "preservation": "Insertion de figures uniquement, aucune réécriture de paragraphes ni modification de navigation, numéros, chapitres, registres, CSS, JS, workflows ou planifications.",
+      "public_deployment_status": "Aucune publication publique annoncée avant contrôle des GitHub Actions et du reçu HTTPS.",
+      "limitations": "Pas de nouveau rendu PDF, ni contrôle visuel mobile sur appareil réel, ni audit général des liens externes.",
+      "commits": [],
+      "commit_note": "Un commit Git atomique de 5 fichiers ; son SHA est fourni par l’historique du dépôt après mise à jour de main."
     }
   ]
 }
