@@ -2,6 +2,7 @@
 """Verify universal coverage and preservation of representative legacy readers."""
 from pathlib import Path
 from collections import Counter
+import json
 from tempfile import TemporaryDirectory
 from bs4 import BeautifulSoup
 import shutil
@@ -88,12 +89,29 @@ def verify():
         'dodone-theatre-vue': 'dodone.html',
         'bassae-apollon-exterieur-vue': 'bassae.html',
     }
+    catalog = json.loads((out/'assets/reconstitutions-3d/catalogue-photorealiste.json').read_text(encoding='utf-8'))
+    catalogue_by_slug = {entry['slug']: entry for entry in catalog['entries']}
+    assert len(catalogue_by_slug) == catalog['count']
+    # Réciprocité : les dossiers doivent aussi afficher les vues, leurs sources,
+    # leurs ancres canoniques et les vrais fichiers locaux, sans perte de texte.
     for slug, dossier in gallery_to_dossier.items():
         card = gallery.find(id=slug)
         assert card is not None, 'Illustration absente : ' + slug
         assert card.select_one('p.r3d-source a[href^="https://"]'), 'Source institutionnelle absente : ' + slug
         assert card.select_one('a.r3d-study-link[href="/sites/' + dossier + '"]'), 'Renvoi dossier absent : ' + slug
         assert (out/'sites'/dossier).is_file(), 'Dossier archéologique inexistant : ' + dossier
+        study = BeautifulSoup((out/'sites'/dossier).read_text(encoding='utf-8'), 'html.parser')
+        assert len(study.select('div[data-mythos-photoreal-dossier="v1"]')) == 1, 'Galerie du dossier absente : ' + dossier
+        visual_link = '/reconstitutions-photorealistes.html#' + slug
+        figure = study.select_one('figure.mythos-site-visual')
+        figures = study.select('div[data-mythos-photoreal-dossier="v1"] figure.mythos-site-visual')
+        assert figure is not None and len(figures) > 0, 'Figure absente : ' + dossier
+        match = next((f for f in figures if f.find('a', href=visual_link)), None)
+        assert match is not None, 'Renvoi réciproque absent : ' + slug
+        source = catalogue_by_slug[slug]
+        assert match.find('img', src=source['src']) is not None, 'Image du dossier absente : ' + slug
+        assert match.find('a', href=source['source_url']) is not None, 'Source institutionnelle du dossier absente : ' + slug
+        assert (out/source['src'].lstrip('/')).stat().st_size > 10000, 'WebP local absent : ' + slug
     # Aphaia: 4 sections attestées, jamais une photographie empruntée à un autre lieu.
     aphaia = BeautifulSoup((out/'sites/egine-aphaia.html').read_text(encoding='utf-8'), 'html.parser')
     toc = aphaia.select_one('nav[aria-label="Sommaire du dossier d’Aphaia"]')
@@ -105,7 +123,7 @@ def verify():
         assert aphaia.find(id=slug), 'Ancre du dossier Aphaia absente : ' + slug
     assert not aphaia.select('a[href="/reconstitutions-3d.html"]')
     assert aphaia.select('a[href="/reconstitutions-photorealistes.html"]')
-    print('OK : 15 vues photoréalistes reliées à huit dossiers archéologiques, sources conservées.')
+    print('OK : 15 vues photoréalistes affichées dans huit dossiers et liens réciproques conservés.')
     print('OK : trois cartes illustrées, trois WebP et trois renvois de galerie vérifiés.')
     print(f'OK : {pages} pages habillées, {redirects} redirections conservées, 27 tomes accessibles.')
 
