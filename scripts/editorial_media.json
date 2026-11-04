@@ -2448,6 +2448,65 @@
         "original_sha256": "fdad7225cd77de85a21aac76c9437349c25952dbfc74f9e249743d12d988ab30",
         "sha256": "470a84e3422cd6a9efe06e09367abc118e0ad9b54d3eba6251adf287e0c341c4"
       }
+    },
+    {
+      "id": "mythos-cleveland-demeter-porcelet-cma-1926-521",
+      "path": "media/2026/10/mythos-demeter-porcelet-terre-cuite-athenes-cma-1926-521.jpg",
+      "subjects": [
+        "Déméter",
+        "Thesmophories",
+        "porcelet rituel"
+      ],
+      "alt": "Figurine grecque en terre cuite de Déméter tenant un porcelet, produite à Athènes au Ve siècle avant notre ère.",
+      "caption_html": "<strong>Objet antique authentique.</strong> Figurine de Déméter avec un porcelet, Athènes, Ve siècle av. n. è., Cleveland Museum of Art, inv. 1926.521. <a href=\"https://www.clevelandart.org/art/1926.521\">Notice du musée</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Greece,_Athens,_5th_Century_BC_-_Figurine_of_Demeter_with_Pig_-_1926.521_-_Cleveland_Museum_of_Art.jpg\">Reproduction Open Access CC0</a>. Le porcelet est un attribut religieux, pas la preuve d’un rite unique.",
+      "provenance_page": "media/2026/10/mythos-demeter-porcelet-terre-cuite-athenes-cma-1926-521.jpg"
+    },
+    {
+      "id": "mythos-phrygie-monument-midas-zeynel-cebeci",
+      "path": "media/2026/10/mythos-phrygie-monument-midas-yazilikaya-zeynel-cebeci.jpg",
+      "subjects": [
+        "Phrygie",
+        "Monument de Midas",
+        "Midas City"
+      ],
+      "alt": "Façade rocheuse du monument dit de Midas en Phrygie, ornée de décor géométrique sculpté et d’une inscription.",
+      "caption_html": "<strong>Photographie archéologique.</strong> Monument de Midas, Yazılıkaya, Phrygie, photo Zeynel Cebeci (2015). <a href=\"https://commons.wikimedia.org/wiki/File:Midas_Monument,_Yaz%C4%B1l%C4%B1kaya.jpg\">Source et auteur</a> · <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. La datation et la fonction exacte de la façade restent discutées ; elle n’atteste pas une tombe du roi.",
+      "provenance_page": "cybele-matar-phrygie-magna-mater-grece-rome/index.html"
+    },
+    {
+      "id": "mythos-samothrace-nike-louvre-dada",
+      "path": "media/2026/10/mythos-samothrace-nike-louvre-dada-photo.jpg",
+      "subjects": [
+        "Samothrace",
+        "Victoire de Samothrace",
+        "Niké de Samothrace"
+      ],
+      "alt": "Statue antique de la Victoire ailée de Samothrace sur la proue d’un navire, actuellement exposée au Louvre.",
+      "caption_html": "<strong>Statue grecque authentique, présentation muséale moderne.</strong> Victoire de Samothrace, vers 190 av. n. è., Louvre Ma 2369, photo Dada (2008). <a href=\"https://commons.wikimedia.org/wiki/File:Nike_of_Samothrace.JPG\">Source</a> · <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Dédicant, événement honoré et présentation originelle restent discutés.",
+      "provenance_page": "samothrace-grands-dieux-mysteres-victoire/index.html"
+    },
+    {
+      "id": "mythos-samothrace-grands-dieux-ggia",
+      "path": "media/2026/10/mythos-samothrace-sanctuaire-grands-dieux-ggia-2002.jpg",
+      "subjects": [
+        "Samothrace",
+        "Grands Dieux de Samothrace"
+      ],
+      "alt": "Ruines archéologiques du sanctuaire des Grands Dieux à Palaiopolis, Samothrace, colonnes et panorama maritime.",
+      "caption_html": "<strong>Photographie du site archéologique.</strong> Sanctuaire des Grands Dieux, Palaiopolis, Samothrace, photo Ggia (2002). <a href=\"https://commons.wikimedia.org/wiki/File:20020800_Sanctuary_of_the_Great_Gods_Palaiopolis_Samothrace_island_Thrace_Greece.jpg\">Source</a> · <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Les ruines ne suffisent pas à reconstituer le déroulement des mystères.",
+      "provenance_page": "samothrace-grands-dieux-mysteres-victoire/index.html"
+    },
+    {
+      "id": "raphael-ecole-athenes-1511-philosophie-reception",
+      "path": "media/2026/10/raphael-ecole-athenes-1511.jpg",
+      "subjects": [
+        "École d Athènes",
+        "Raphaël",
+        "Raffaello"
+      ],
+      "alt": "L’École d’Athènes, fresque de Raphaël au Vatican, Platon et Aristote au centre de la composition.",
+      "caption_html": "<strong>Réception artistique de la philosophie grecque, non image antique.</strong> Raphaël, <em>L’École d’Athènes</em>, 1509–1511, Vatican. <a href=\"https://commons.wikimedia.org/wiki/File:Raphael_School_of_Athens.jpg\">Reproduction</a>, domaine public. Cette œuvre de la Renaissance ne documente pas directement les écoles philosophiques de l’Antiquité.",
+      "provenance_page": "bibliotheque-philosophie-antique/index.html"
     }
   ],
   "enrichment_date": "2026-11-04",
