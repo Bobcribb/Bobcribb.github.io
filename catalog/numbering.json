@@ -1568,6 +1568,12 @@
         "url": "/chapitres/tragedies/volume-ccxxxix-sophocle-telephe-fragment-580-genre-drame-satyrique-mysie-guerison-achille/",
         "title": "Volume CCXXXIX (239) — Sophocle, Télèphe (Τήλεφος) — Blessure, origine, réparation et incertitude d’une pièce perdue",
         "source": "chapitres/tragedies/volume-ccxxxix-sophocle-telephe-fragment-580-genre-drame-satyrique-mysie-guerison-achille.md"
+      },
+      {
+        "number": 240,
+        "url": "/chapitres/tragedies/volume-ccxl-sophocle-troilos-achille-embuscade-thymbra-violence-cadavre-eunuque-orientalisme/",
+        "title": "Volume CCXL (240) — Sophocle, Troïlos (Trōïlos, Τρωΐλος) : Achille, l’embuscade à la fontaine, le corps mutilé et les frontières de l’héroïsme",
+        "source": "chapitres/tragedies/volume-ccxl-sophocle-troilos-achille-embuscade-thymbra-violence-cadavre-eunuque-orientalisme.md"
       }
     ],
     "comparatif": [
@@ -3273,6 +3279,12 @@
         "url": "/chapitres/comedies/volume-097-nikochares-lemniai-lemniennes-argonautes-hypsipyle-poissons-vin-marmites/",
         "title": "Volume XCVII (97) — Nicocharès, Lēmniai (Λήμνιαι), « Les Lemniennes » — Argonautes, Hypsipyle, pouvoir féminin, nourriture, vin et hospitalité",
         "source": "chapitres/comedies/volume-097-nikochares-lemniai-lemniennes-argonautes-hypsipyle-poissons-vin-marmites.md"
+      },
+      {
+        "number": 98,
+        "url": "/chapitres/comedies/volume-098-nikochares-fragments-incertains-18-28-ivresse-sommeil-mer-sphinx-marche-langue/",
+        "title": "Volume XCVIII (98) — Nicocharès, Incertarum fabularum fragmenta 18–28 K.-A. — De la gueule de bois au langage de l'agora : philologie des paroles orphelines",
+        "source": "chapitres/comedies/volume-098-nikochares-fragments-incertains-18-28-ivresse-sommeil-mer-sphinx-marche-langue.md"
       }
     ],
     "origines-du-sacre": [
@@ -4475,6 +4487,18 @@
         "url": "/chapitres/origines-du-sacre/650-banquet-ancetres-shang-zhou-vases-bronze-gui-ding-inscriptions/",
         "title": "Chapitre 650 — Le banquet des ancêtres : Shang, Zhou, ding, gui et inscriptions de la durée",
         "source": "chapitres/origines-du-sacre/650-banquet-ancetres-shang-zhou-vases-bronze-gui-ding-inscriptions.md"
+      },
+      {
+        "number": 651,
+        "url": "/chapitres/origines-du-sacre/651-abousir-papyrus-offrandes-rotations-comptes-neferirkare/",
+        "title": "Chapitre 651 — Du don divin au compte administratif : Abousir, Néferirkarê et la circulation quotidienne des offrandes",
+        "source": "chapitres/origines-du-sacre/651-abousir-papyrus-offrandes-rotations-comptes-neferirkare.md"
+      },
+      {
+        "number": 652,
+        "url": "/chapitres/origines-du-sacre/652-eanna-uruk-parts-sacrificielles-prebendes-viande-rations/",
+        "title": "Chapitre 652 — Après le sacrifice, qui reçoit la viande ? Eanna d’Uruk, prébendes sacerdotales et économie de l’offrande",
+        "source": "chapitres/origines-du-sacre/652-eanna-uruk-parts-sacrificielles-prebendes-viande-rations.md"
       }
     ]
   },

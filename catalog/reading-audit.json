@@ -1,9 +1,15 @@
 {
   "status": "passed",
-  "indexed_entries": 1397,
-  "pages_scanned": 1454,
-  "readers_equipped": 1007,
-  "links_checked": 123366,
+  "indexed_entries": 1401,
+  "pages_scanned": 1458,
+  "readers_equipped": 1009,
+  "links_checked": 123684,
   "new_navigation_errors": [],
-  "legacy_link_issues": []
+  "legacy_link_issues": [
+    {
+      "page": "/chapitres/comedies/volume-098-nikochares-fragments-incertains-18-28-ivresse-sommeil-mer-sphinx-marche-langue/index.html",
+      "url": "/comedies-grecques/",
+      "problem": "fichier absent"
+    }
+  ]
 }

@@ -471,6 +471,18 @@
           "path": "chapitres/origines-du-sacre/650-banquet-ancetres-shang-zhou-vases-bronze-gui-ding-inscriptions.md",
           "request_sha256": "887bc20f9ec302c13a95e80ce8c2536e8f667e159ab2c45018dadf8161d34438",
           "initial_source_sha256": "e5a7de98b02338537bc39dc15377b3813147ebd8ed4b830cbf69a53bcc44b28b"
+        },
+        "6bdf5a10-883c-4fd1-aebb-74d38b7b2a91": {
+          "number": 651,
+          "path": "chapitres/origines-du-sacre/651-abousir-papyrus-offrandes-rotations-comptes-neferirkare.md",
+          "request_sha256": "13add6b74ff4ac15dbc1c83fdb9027cc240542becb1733d4189aced038b34df2",
+          "initial_source_sha256": "06c73358ab97e32a1ed8728adac5b4ff1fbd40ab4568525026430fe77f41388d"
+        },
+        "d7f98b4e-4759-41c2-a664-abcdb927e32a": {
+          "number": 652,
+          "path": "chapitres/origines-du-sacre/652-eanna-uruk-parts-sacrificielles-prebendes-viande-rations.md",
+          "request_sha256": "9159d01b65f96ec7bb52b4764e721dbdacea4bd9b78a52519e663893b629f24c",
+          "initial_source_sha256": "a1f94b414f1c6f411e872dc8bb796b05712bc49abb0b6cbce9c7b78248614ddb"
         }
       }
     },
@@ -1222,6 +1234,12 @@
           "path": "chapitres/comedies/volume-097-nikochares-lemniai-lemniennes-argonautes-hypsipyle-poissons-vin-marmites.md",
           "request_sha256": "a1322f18c7d6ecc9998f0c5f56e3b791e4b3eac6d948ac6295a1af0e038255cb",
           "initial_source_sha256": "58067996fb97e919f4a03720369a368dc606baf4e11e1b9e94fb042126a40148"
+        },
+        "33e0d927-5781-4dac-b7b0-e132785606e5": {
+          "number": 98,
+          "path": "chapitres/comedies/volume-098-nikochares-fragments-incertains-18-28-ivresse-sommeil-mer-sphinx-marche-langue.md",
+          "request_sha256": "d8f7dea82e67c599df4f3e7a85a5725ad18fadfebb90a34d149dcfe324b6bd4d",
+          "initial_source_sha256": "f181895403f7bdfac480cea17be2e1166039c1c175444f59713978c6f9b32fea"
         }
       }
     },
@@ -1558,6 +1576,12 @@
           "path": "chapitres/tragedies/volume-ccxxxix-sophocle-telephe-fragment-580-genre-drame-satyrique-mysie-guerison-achille.md",
           "request_sha256": "9dfa9480b06483e16935bbcacc8ceff9ff4fdbc8802dfe48d5cd3e2196ac40af",
           "initial_source_sha256": "e5748bbeb11d6e5b46721e42ace4259986a4e49778dda407b071608d6af9d5ce"
+        },
+        "6da173b0-41ec-4af0-9580-f29368f8eaf7": {
+          "number": 240,
+          "path": "chapitres/tragedies/volume-ccxl-sophocle-troilos-achille-embuscade-thymbra-violence-cadavre-eunuque-orientalisme.md",
+          "request_sha256": "320dc9c79239fd30a527b4c90863a3d5e3f5c84c7d6763a304b5f029124b43be",
+          "initial_source_sha256": "707d168a1c4eafc8f7655ebfac27abbe914965c98ddcfeaf9b3501472d8e7796"
         }
       }
     },
