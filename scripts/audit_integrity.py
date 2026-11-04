@@ -93,7 +93,15 @@ for file in pages:
         else:
             stats["local_links_checked"]+=1
             if full.fragment and target.suffix.lower() == ".html":
-                fragment_links.append((file, target.resolve(), unquote(full.fragment), url))
+                # This particular archived JavaScript library uses #/accueil
+                # and similar hash-router states, not HTML element anchors.
+                # Check ordinary fragments normally, including missing ones.
+                spa_route = (target.name == "MYTHOS_bibliotheque_navigable.html"
+                             and full.fragment.startswith("/"))
+                if spa_route:
+                    stats["spa_routes_checked"] += 1
+                else:
+                    fragment_links.append((file, target.resolve(), unquote(full.fragment), url))
     stats["pages_scanned"]+=1
 
 for source, target, fragment, url in fragment_links:

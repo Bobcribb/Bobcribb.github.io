@@ -133,6 +133,24 @@ class SiteAuditFixTests(unittest.TestCase):
                          [{'page': '/corpus/mythologie-grecque/archives/MYTHOS_bibliotheque_navigable.html',
                            'url': '#ancre-absente', 'problem': 'ancre absente'}])
 
+    def test_integral_origines_archive_ids_are_unique(self):
+        """Compilation I–XXVII: each bibliography link must reach its own tome."""
+        from urllib.parse import unquote
+        source = ROOT / 'corpus/origines-du-sacre/edition-integrale-tomes-I-XXVII.html'
+        doc = BeautifulSoup(source.read_text(encoding='utf-8'), 'html.parser')
+        ids = [str(tag['id']) for tag in doc.select('[id]')]
+        self.assertEqual(len(ids), len(set(ids)), 'Duplicate archive HTML ids')
+        available = set(ids)
+        links = [unquote(tag['href'][1:]) for tag in doc.select('a[href^="#"]')
+                 if len(tag['href']) > 1 and not tag['href'].startswith('#/')]
+        self.assertTrue(links)
+        self.assertEqual([], sorted(set(link for link in links if link not in available)))
+        for anchor in ('chap-1013', 'chap-1052', 'ref-1',
+                       'ref-1--tome-xxiv', 'ref-1--tome-xxv',
+                       'ref-1--tome-xxvi'):
+            self.assertIn(anchor, available)
+
+
 
 if __name__ == '__main__':
     unittest.main()
