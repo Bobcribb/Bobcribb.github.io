@@ -5,41 +5,47 @@
   "branch": "main",
   "latest_session": {
     "date": "2026-11-04",
-    "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "previous_kind": "AUDIT ET CORRECTION",
-    "next_kind": "AUDIT ET CORRECTION",
-    "scope": "Trois images institutionnelles déjà conservées et vérifiées dans le dépôt, insérées dans les trois livres grecs existants, en distinguant constamment texte homérique, réception moderne et artefacts postérieurs.",
-    "base_commit": "d2f066d2712d2d350806cb4f599bc00e86b9ffa2",
-    "checked_html_pages": 3,
-    "checked_html_ids": 146,
-    "checked_same_page_fragments": 92,
-    "checked_html_images": 23,
-    "added_figures": [
-      {
-        "page": "livre-iliade-scenes/index.html",
-        "id": "icono-iliade-enee-virgile-distinction-20261104",
-        "asset": "/assets/illustrations-articles/met-199612-enee-fuite-troie-email.webp",
-        "met_id": 199612
-      },
-      {
-        "page": "livre-odyssee/index.html",
-        "id": "icono-odyssee-hermes-bronze-met-246679-20261104",
-        "asset": "/assets/illustrations-articles/met-246679-hermes-bronze-aile.webp",
-        "met_id": 246679
-      },
-      {
-        "page": "livre-hesiode/index.html",
-        "id": "icono-hesiode-promethee-bartolozzi-1795-20261104",
-        "asset": "/assets/illustrations-articles/met-680363-promethee-bartolozzi.webp",
-        "met_id": 680363
-      }
+    "kind": "AUDIT ET CORRECTION",
+    "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "scope": "Audit post-iconographie des livres Iliade, Odyssée et Hésiode ; correction de la lacune des contrôles HTTPS pour leurs 3 nouvelles œuvres du Metropolitan Museum of Art.",
+    "audited_pages": [
+      "livre-iliade-scenes/index.html",
+      "livre-odyssee/index.html",
+      "livre-hesiode/index.html"
     ],
-    "sources": "Metropolitan Museum of Art : inv. 45.60.3 (Limoges, vers 1530–1535), inv. 97.22.1 (statuette grecque ou romaine d’Hermès, Ier siècle av. – IIe siècle apr. J.-C.) et inv. 62.557.193 (Bartolozzi d’après Michel-Ange, 1795). Les 3 images WebP et la provenance CC0 étaient déjà présentes dans assets/illustrations-articles/sources-met.json.",
-    "verification": "Précommit : 3 pages relues sur main, ancrages internes #, IDs et alt sans erreurs repérées ; 3 images documentées et uniques par page ; insertions uniquement après le paragraphe de référence du chapitre indiqué, sans changement des textes d’origine. Régression Python ajoutée et destinée à CI.",
-    "integrity": "Aucune création de chapitre numéroté, aucune modification de registre, de navigation, de CSS/JS, de médias, d'automatisations ou de leurs horaires.",
-    "public_deployment": "Non confirmé : cette séance ne prouve aucune mise en ligne HTTPS ni pagination A4, examen séparé de GitHub Actions nécessaire.",
-    "notes": "La séance précédente sur main est AUDIT ET CORRECTION ; prochaine séance AUDIT ET CORRECTION, sans deux séances de même type consécutives.",
-    "commits": []
+    "ids_checked": 156,
+    "local_anchors_checked": 92,
+    "html_images_checked": 23,
+    "duplicate_ids": 0,
+    "broken_same_page_anchors": 0,
+    "missing_img_alt": 0,
+    "css_js_checked": [
+      "assets/style.css",
+      "assets/mythos-refonte.css",
+      "assets/mythos-museum.css",
+      "assets/mythos-discovery.css",
+      "assets/search.js",
+      "assets/mythos-museum.js",
+      "assets/mythos-reading.js"
+    ],
+    "verified_images": [
+      "assets/illustrations-articles/met-199612-enee-fuite-troie-email.webp",
+      "assets/illustrations-articles/met-246679-hermes-bronze-aile.webp",
+      "assets/illustrations-articles/met-680363-promethee-bartolozzi.webp"
+    ],
+    "verified_gap": "Les 3 nouvelles figures étaient présentes chacune une seule fois sur main, avec alt, datation, provenance du Met et mention non-IA, mais absentes de RECENT_FIGURES dans scripts/verify_live_site.py : le contrôle post-déploiement pouvait ne pas constater leur omission.",
+    "correction": "Étendre RECENT_FIGURES de 14 à 17 images sur six pages. Le vérificateur compare notices HTML et SHA-256 des octets WebP sur HTTPS ; tests corrigés à 17 images et 23 contrôles (6 pages + 17 images), avec régression Prométhée manquant et WebP Hermès altéré.",
+    "precommit_checks": "Lecture GitHub main des trois livres ; 156 attributs id sans doublon ; 92 href vers ancres locales présents ; 23 img tous avec alt ; présence des sept dépendances CSS/JS, des trois fichiers WebP et de CNAME=bobmythos.fr. Contrôles statiques ciblés, non audit complet des milliers de liens externes.",
+    "public_receipt": "Lecture HTTPS (lecteur externe) : /catalog/publication-verification.json donne source_commit=3358591f3247571d1aac9dcb5d35688c804f746b et github_run_id=41847280339, antérieurs aux commits de cet audit. Les pages répondent mais l'extraction de texte ne permet pas de confirmer les figures ni leurs octets. Nouveau déploiement non confirmé.",
+    "testing": "Code et tests relus depuis main après chaque commit, identifiants présents ; aucune suite unittest ni génération du site exécutée localement (checkout GitHub non disponible). Résultats CI à contrôler.",
+    "limits": "Rendu responsive sur appareil réel, PDF A4 et seuil de dix pages, références externes, liens transversaux du site, succès du workflow et inspection des octets WebP publics non vérifiés lors de cette séance.",
+    "preservation": "Aucun texte, image, numéro de chapitre, registre d'attribution, sommaire, menu, workflow ni planification horaire modifié. Aucune nouvelle étude numérotée déposée.",
+    "commits": [
+      "0a371a62046d156de077604fa365f65c34a8e950",
+      "4c8c1cb9bb6659e088c10175c4d4edcb9c60c37d"
+    ],
+    "commit_note": "Le présent journal constitue le troisième commit de l'audit et son SHA est à confirmer via GitHub."
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
   "history": [
@@ -1229,6 +1235,50 @@
       "public_deployment": "Non confirmé : cette séance ne prouve aucune mise en ligne HTTPS ni pagination A4, examen séparé de GitHub Actions nécessaire.",
       "notes": "La séance précédente sur main est AUDIT ET CORRECTION ; prochaine séance AUDIT ET CORRECTION, sans deux séances de même type consécutives.",
       "commits": []
+    },
+    {
+      "date": "2026-11-04",
+      "kind": "AUDIT ET CORRECTION",
+      "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "scope": "Audit post-iconographie des livres Iliade, Odyssée et Hésiode ; correction de la lacune des contrôles HTTPS pour leurs 3 nouvelles œuvres du Metropolitan Museum of Art.",
+      "audited_pages": [
+        "livre-iliade-scenes/index.html",
+        "livre-odyssee/index.html",
+        "livre-hesiode/index.html"
+      ],
+      "ids_checked": 156,
+      "local_anchors_checked": 92,
+      "html_images_checked": 23,
+      "duplicate_ids": 0,
+      "broken_same_page_anchors": 0,
+      "missing_img_alt": 0,
+      "css_js_checked": [
+        "assets/style.css",
+        "assets/mythos-refonte.css",
+        "assets/mythos-museum.css",
+        "assets/mythos-discovery.css",
+        "assets/search.js",
+        "assets/mythos-museum.js",
+        "assets/mythos-reading.js"
+      ],
+      "verified_images": [
+        "assets/illustrations-articles/met-199612-enee-fuite-troie-email.webp",
+        "assets/illustrations-articles/met-246679-hermes-bronze-aile.webp",
+        "assets/illustrations-articles/met-680363-promethee-bartolozzi.webp"
+      ],
+      "verified_gap": "Les 3 nouvelles figures étaient présentes chacune une seule fois sur main, avec alt, datation, provenance du Met et mention non-IA, mais absentes de RECENT_FIGURES dans scripts/verify_live_site.py : le contrôle post-déploiement pouvait ne pas constater leur omission.",
+      "correction": "Étendre RECENT_FIGURES de 14 à 17 images sur six pages. Le vérificateur compare notices HTML et SHA-256 des octets WebP sur HTTPS ; tests corrigés à 17 images et 23 contrôles (6 pages + 17 images), avec régression Prométhée manquant et WebP Hermès altéré.",
+      "precommit_checks": "Lecture GitHub main des trois livres ; 156 attributs id sans doublon ; 92 href vers ancres locales présents ; 23 img tous avec alt ; présence des sept dépendances CSS/JS, des trois fichiers WebP et de CNAME=bobmythos.fr. Contrôles statiques ciblés, non audit complet des milliers de liens externes.",
+      "public_receipt": "Lecture HTTPS (lecteur externe) : /catalog/publication-verification.json donne source_commit=3358591f3247571d1aac9dcb5d35688c804f746b et github_run_id=41847280339, antérieurs aux commits de cet audit. Les pages répondent mais l'extraction de texte ne permet pas de confirmer les figures ni leurs octets. Nouveau déploiement non confirmé.",
+      "testing": "Code et tests relus depuis main après chaque commit, identifiants présents ; aucune suite unittest ni génération du site exécutée localement (checkout GitHub non disponible). Résultats CI à contrôler.",
+      "limits": "Rendu responsive sur appareil réel, PDF A4 et seuil de dix pages, références externes, liens transversaux du site, succès du workflow et inspection des octets WebP publics non vérifiés lors de cette séance.",
+      "preservation": "Aucun texte, image, numéro de chapitre, registre d'attribution, sommaire, menu, workflow ni planification horaire modifié. Aucune nouvelle étude numérotée déposée.",
+      "commits": [
+        "0a371a62046d156de077604fa365f65c34a8e950",
+        "4c8c1cb9bb6659e088c10175c4d4edcb9c60c37d"
+      ],
+      "commit_note": "Le présent journal constitue le troisième commit de l'audit et son SHA est à confirmer via GitHub."
     }
   ]
 }
