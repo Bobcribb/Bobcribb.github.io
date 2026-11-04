@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description" viewBox="0 0 1320 710" width="1320" height="710">
+<title id="title">Le lit enraciné : signe de reconnaissance d’Ulysse</title>
+<desc id="description">Coupe schématique non archéologique du lit construit autour du tronc d’un olivier vivant, avec une chambre, un sol et des racines. À droite, trois temps du récit d’Homère : l’épreuve de Pénélope, la description par Ulysse et la reconnaissance, Odyssée XXIII 177 à 230.</desc>
+<rect width="1320" height="710" fill="#10191c"/>
+<rect x="16" y="16" width="1288" height="678" rx="9" fill="none" stroke="#95734b" stroke-width="2"/>
+<text x="57" y="72" font-size="41" font-family="Georgia,serif" fill="#f1dbb3">Le lit enraciné : un signe que deux êtres connaissent</text>
+<text x="58" y="111" font-size="22" font-family="Arial,sans-serif" fill="#d5c7ae">Homère · Odyssée XXIII, 177–230 · épreuve de reconnaissance</text>
+<line x1="58" y1="133" x2="1260" y2="133" stroke="#93744b" stroke-width="2"/>
+<rect x="56" y="151" width="744" height="456" rx="8" fill="#1a282c" stroke="#736b56"/>
+<text x="82" y="191" font-family="Arial,sans-serif" font-size="18" fill="#ddbb85" letter-spacing="2">SCHÉMA CONCEPTUEL DU LIT · NON ARCHÉOLOGIQUE</text>
+<!-- Room: vertical section without perspective -->
+<path d="M145 326V254H713V537" fill="none" stroke="#d3b787" stroke-width="7" stroke-linejoin="round"/>
+<path d="M145 253H713" stroke="#8c7355" stroke-width="3"/>
+<line x1="105" y1="537" x2="755" y2="537" stroke="#d3b787" stroke-width="3"/>
+<rect x="105" y="540" width="651" height="42" fill="#27352d"/>
+<path d="M105 540H756" stroke="#78926d" stroke-width="3"/>
+<text x="118" y="563" font-family="Arial,sans-serif" font-size="16" fill="#d7d5ba">SOL</text>
+<!-- Olive trunk rooted in the earth -->
+<path d="M350 541L362 355C363 337 356 316 347 290" stroke="#8db08b" stroke-width="20" fill="none" stroke-linecap="round"/>
+<path d="M360 358Q322 340 307 300 M362 355Q409 335 438 288" stroke="#8db08b" stroke-width="10" fill="none" stroke-linecap="round"/>
+<path d="M350 541Q320 564 294 573 M350 541Q392 560 424 573 M350 542Q351 567 354 576" fill="none" stroke="#8db08b" stroke-width="7" stroke-linecap="round"/>
+<circle cx="295" cy="290" r="22" fill="none" stroke="#8db08b" stroke-width="4"/>
+<circle cx="438" cy="276" r="23" fill="none" stroke="#8db08b" stroke-width="4"/>
+<circle cx="343" cy="278" r="26" fill="none" stroke="#8db08b" stroke-width="4"/>
+<!-- Bed incorporated into one trunk -->
+<path d="M349 398H633V418H349" fill="#3b4b4a" stroke="#e7c791" stroke-width="4"/>
+<path d="M621 419V536" stroke="#d9b881" stroke-width="14"/>
+<path d="M390 420L390 450M425 420V450M460 420V450M495 420V450M530 420V450M565 420V450" stroke="#a9a492" stroke-width="3"/>
+<path d="M349 398V353" stroke="#f3d99a" stroke-width="5"/>
+<line x1="464" y1="350" x2="693" y2="323" stroke="#cfb57e" stroke-width="2"/>
+<text x="681" y="310" text-anchor="end" font-family="Arial,sans-serif" font-size="20" fill="#f6e1b7">couche construite</text>
+<text x="680" y="339" text-anchor="end" font-family="Arial,sans-serif" font-size="20" fill="#f6e1b7">autour du tronc</text>
+<path d="M351 501L232 473" stroke="#92b197" stroke-width="2"/>
+<text x="118" y="464" font-family="Arial,sans-serif" font-size="19" fill="#cce1bd">olivier vivant</text>
+<text x="118" y="488" font-family="Arial,sans-serif" font-size="16" fill="#cce1bd">racines non déplacées</text>
+<!-- Reading boxes -->
+<rect x="837" y="152" width="427" height="128" rx="8" fill="#1b292f" stroke="#8b724c"/>
+<text x="861" y="184" font-family="Arial,sans-serif" font-size="18" fill="#d8b77c">XXIII, 177–180 · PÉNÉLOPE</text>
+<text x="861" y="219" font-family="Georgia,serif" font-size="23" fill="#f3e2c6">Elle évoque un lit à déplacer.</text>
+<text x="861" y="249" font-family="Arial,sans-serif" font-size="18" fill="#e1d7ca">L’ordre fonctionne comme épreuve.</text>
+<path d="M1050 281V308" stroke="#c5a16d" stroke-width="2"/>
+<path d="M1042 301L1050 312L1058 301" fill="none" stroke="#c5a16d" stroke-width="2"/>
+<rect x="837" y="318" width="427" height="128" rx="8" fill="#1b292f" stroke="#8b724c"/>
+<text x="861" y="350" font-family="Arial,sans-serif" font-size="18" fill="#d8b77c">XXIII, 183–204 · ULYSSE</text>
+<text x="861" y="386" font-family="Georgia,serif" font-size="23" fill="#f3e2c6">Il décrit le secret du tronc.</text>
+<text x="861" y="415" font-family="Arial,sans-serif" font-size="18" fill="#e1d7ca">Ce lit ne se déplace pas intact.</text>
+<path d="M1050 447V473" stroke="#c5a16d" stroke-width="2"/>
+<path d="M1042 465L1050 476L1058 465" fill="none" stroke="#c5a16d" stroke-width="2"/>
+<rect x="837" y="480" width="427" height="128" rx="8" fill="#1b292f" stroke="#8b724c"/>
+<text x="861" y="512" font-family="Arial,sans-serif" font-size="18" fill="#d8b77c">XXIII, 205–230 · RECONNAISSANCE</text>
+<text x="861" y="547" font-family="Georgia,serif" font-size="23" fill="#f3e2c6">Pénélope reconnaît ce signe.</text>
+<text x="861" y="576" font-family="Arial,sans-serif" font-size="18" fill="#e1d7ca">Le savoir partagé atteste le lien.</text>
+<text x="660" y="647" font-family="Georgia,serif" text-anchor="middle" font-size="21" fill="#e7d4af">Le dessin n’est ni un plan de palais ni une restitution de mobilier mycénien.</text>
+<text x="660" y="677" font-family="Arial,sans-serif" text-anchor="middle" font-size="16" fill="#bfb4a5">MYTHOS · schéma narratif 2D assisté par IA · 4 novembre 2026 · aucun artefact représenté</text>
+</svg>
