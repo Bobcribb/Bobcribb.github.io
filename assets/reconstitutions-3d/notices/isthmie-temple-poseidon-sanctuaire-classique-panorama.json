@@ -1,0 +1,37 @@
+{
+  "id": "IST-POS-001",
+  "slug": "isthmie-temple-poseidon-sanctuaire-classique-panorama",
+  "title": "Isthmie (Corinthie) — sanctuaire de Poséidon et temple dorique classique",
+  "period": "Vers 440 av. J.-C. (temple classique construit vers 465 av. J.-C., avant l’incendie de 390 av. J.-C.)",
+  "caption": "Reconstitution 3D photoréaliste interprétative du temple classique de Poséidon à Isthmie, avec péristyle dorique, grand autel et paysage de l’isthme de Corinthe.",
+  "archaeological_context": "Sur l’isthme de Corinthe, le sanctuaire panhellénique de Poséidon fut l’un des centres des Jeux isthmiques. La fréquentation cultuelle y est ancienne et le premier temple monumental remonte au VIIe siècle av. J.-C. Un temple dorique classique fut construit vers 465 av. J.-C. après l’incendie du temple archaïque ; lui-même fut gravement endommagé par un incendie vers 390 av. J.-C. La scène propose une vue d’ensemble vers 440 av. J.-C., avant cette dernière destruction. Les restitutions savantes proposent un péristyle de six colonnes sur les petits côtés et treize sur les longs côtés, ainsi qu’un pronaos et un opisthodome. Le temple s’élevait dans un paysage de plateau et de reliefs, en relation avec un grand autel du sanctuaire. Toutefois, la hauteur effective des colonnes, la forme exacte du fronton, le décor sculpté, les pigments, le toit, les vêtements, la végétation, la volumétrie précise de l’autel et sa position dans ce cadrage relèvent d’une proposition graphique. L’image n’est ni une photographie historique, ni une restitution mesurée, ni une reconstruction officiellement approuvée par les institutions citées. Elle ne représente pas le sanctuaire romain tardif, le temple de Palaimon ou la fortification de l’Hexamilion.",
+  "certainty": {
+    "high": "Sanctuaire de Poséidon ; temple dorique classique construit vers 465 av. J.-C. ; incendie vers 390 av. J.-C. ; jeux panhelléniques et grand autel.",
+    "medium": "Péristyle dorique proposé de 6 × 13 colonnes ; plan général de l’édifice et emplacement relatif du temple et de l’autel.",
+    "low": "Hauteurs des colonnes, fronton, décor, peintures, type de couverture, mobilier, tenue des visiteurs et paysage détaillé."
+  },
+  "method": "Image numérique photoréaliste originale produite avec IA ; hypothèse illustrée non métrique, non validée par les auteurs et institutions des sources.",
+  "sources": [
+    {
+      "label": "American School of Classical Studies at Athens — Isthmia, collection de fouilles",
+      "url": "https://www.ascsa.edu.gr/publications/books/browse-by-series/isthmia"
+    },
+    {
+      "label": "Oscar Broneer, Isthmia I: Temple of Poseidon, ASCSA, 1971",
+      "url": "https://www.ascsa.edu.gr/publications/book/?i=9780876619315"
+    },
+    {
+      "label": "Catherine A. Morgan, « Isthmia », Oxford Classical Dictionary, 2015",
+      "url": "https://academic.oup.com/edited-volume/61673/chapter-abstract/549651540"
+    },
+    {
+      "label": "E. Gebhard, rapports de fouilles sur Isthmia, Chronique des fouilles en ligne, École française d’Athènes",
+      "url": "https://chronique.efa.gr/?id=1415&kroute=report"
+    }
+  ],
+  "image": "/assets/reconstitutions-3d/isthmie-temple-poseidon-sanctuaire-classique-panorama.webp",
+  "width": 1672,
+  "height": 941,
+  "sha256": "eb1aa371ddbfe6c5dfb8d930a1d0d58c591b6ce7dab21dd97f5b522c47135e9a",
+  "publication_status": "prête à publier ; confirmation du domaine public séparée"
+}
