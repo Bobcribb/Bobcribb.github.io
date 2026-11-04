@@ -58,6 +58,10 @@ Le chant XI commence par les suites de la bataille plutôt que par une célébra
 
 Le convoi funèbre de Pallas évoque un honneur collectif rendu à celui qui est tombé. Les dons et les gestes cérémoniels constituent une reconnaissance publique, mais celle-ci ne neutralise pas la douleur du père. Évandre possède des mots pour exprimer un deuil auquel l'avenir romain ne fournit aucun substitut. La grande histoire n'est pas capable de rendre une vie perdue à celui qui l'a confiée. Le rapport entre la mission d'Énée et ses proches devient ainsi le lieu d'une exigence qu'aucun triomphe futur ne résoudra.
 
+![Deuil de Pallas, Girodet-Trioson, fin du XVIIIe siècle](assets/philosophie/eneide/deuil-pallas-met.jpg)
+
+*Figure 4 — Anne-Louis Girodet-Trioson, « The Mourning of Pallas », dessin préparatoire pour l’édition illustrée de Virgile, vers 1790–1793. Metropolitan Museum of Art, New York, objet 337206, domaine public / CC0. [Notice et commentaire muséal](https://www.metmuseum.org/art/collection/search/337206). Réception néoclassique du chant XI : le dessin ne représente pas la mort de Turnus au chant XII.*
+
 La trêve accordée pour ensevelir les morts ouvre un espace où les ennemis peuvent reconnaître temporairement une obligation commune. Les cadavres ne sont pas seulement ceux d'un camp ; les rites appellent des limites à la poursuite de la violence. Cette interruption ne supprime pas le conflit politique, mais elle révèle qu'un rapport différent entre adversaires demeure possible. On peut observer une norme de respect funéraire à l'intérieur même d'une guerre sans solution immédiate.
 
 Les débats chez Latinus mettent en scène des options que la logique guerrière avait rendues presque inaudibles. Les propositions de paix ou de négociation doivent être analysées comme des choix politiquement formulables, non comme des parenthèses dépourvues de sens. La guerre continue parce que les groupes ne peuvent ou ne veulent pas accepter certaines conséquences de ces options. Le poème montre ainsi que la présence d'arguments de paix ne garantit pas leur efficacité lorsque la honte et les engagements publics continuent de structurer les positions.
