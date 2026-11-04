@@ -2,7 +2,7 @@
   "generated_at": "2026-11-04",
   "site": "bobmythos.fr",
   "method": "Illustrations photoréalistes interprétatives, textes et sources hors des pixels.",
-  "count": 34,
+  "count": 35,
   "entries": [
     {
       "id": "DEL-PAN-001",
@@ -664,6 +664,29 @@
       "provenance": "Création originale MYTHOS assistée par IA. Sources archéologiques indépendantes, sans validation institutionnelle de la composition.",
       "sha256": "3cb30cbf8ff7807043c38ccf63b2d84dad42893b0e619598594e594730dad77b",
       "scientific_notice": "/assets/reconstitutions-3d/notices/aigai-palais-philippe-ii-peristyle-panorama.json"
+    },
+    {
+      "id": "PYL-MEG-001",
+      "slug": "pylos-palais-nestor-megaron-mycenien",
+      "title": "Pylos — mégaron du palais mycénien dit « de Nestor »",
+      "period": "Vers 1250 av. J.-C., Helladique récent IIIB (datation indicative)",
+      "caption": "Reconstitution photoréaliste interprétative du mégaron palatial de Pylos, avec foyer circulaire, quatre colonnes de bois peint, sol enduit polychrome et espace du trône.",
+      "commentary": "À Epano Englianos, en Messénie, le palais mycénien dit « de Nestor » fut occupé à la fin du Bronze récent, avant sa destruction par un incendie à la fin de l'Helladique récent IIIB (chronologie exacte discutée). Au centre du bâtiment principal, la salle 6, parfois appelée « salle du trône », mesurait environ 13 × 11 mètres. Le foyer circulaire enduit et peint, d'environ 4 mètres de diamètre, est un élément archéologiquement attesté ; quatre bases de colonnes l'entouraient. Les traces conservées indiquent des supports en bois. Des fragments de peintures murales, un sol enduit décoré et l'emplacement d'un siège d'apparat à droite de l'entrée ont été reconnus. La scène représente ces caractéristiques fondamentales, mais ne reproduit ni les peintures d'origine ni l'architecture d'élévation à l'identique. Le lanterneau ouvrant vers le ciel, l'éclairage naturel, les chapiteaux des colonnes, les motifs de griffons et de taureaux, le mobilier du trône, les jarres, les nuances des peintures et la disposition des portes sont des hypothèses graphiques : les vestiges ne déterminent pas leurs formes exactes. Cette image est un rendu 3D interprétatif, non un relevé métrique, et ne constitue pas une restitution officielle ni validée par les organismes documentaires cités.",
+      "certainty": "Élevée : salle centrale du palais, foyer circulaire d'environ 4 m, quatre bases de colonnes et usage de supports en bois. Moyenne : emploi des enduits peints, existence de peintures murales et emplacement du trône près du mur droit. Faible : lanterneau, hauteur du toit, dessin précis des colonnes et fresques, jarres, meuble du trône, lumière et couleurs.",
+      "source_url": "https://timma.efa.gr/s/timma/item/7998",
+      "secondary_sources": [
+        "https://timma.efa.gr/s/timma/item/7188",
+        "https://perseus-aa.github.io/items/aa_3912.html",
+        "https://dimitsal.com/palace-of-nestor-pylos/?lang=en"
+      ],
+      "src": "/assets/reconstitutions-3d/pylos-palais-nestor-megaron-mycenien.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-04",
+      "type": "panorama 3D photoréaliste interprétatif non métrique",
+      "provenance": "Rendu original généré avec une IA ; sources scientifiques indépendantes, sans caution de l'image.",
+      "sha256": "7ed0b05d8e3091b4fc0fae86ab8ae438cb9553c810b2e1c923f0ea5b4f14f3b5",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/pylos-palais-nestor-megaron-mycenien.json"
     }
   ]
 }
