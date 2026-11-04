@@ -1376,6 +1376,12 @@
         "url": "/chapitres/tragedies/volume-ccxxviii-sophocle-odysseus-acanthoplex-telegonos-dodone-filiation-mort/",
         "title": "Volume CCXXVIII (228) — Sophocle, Ulysse blessé par l'aiguillon (Ὀδυσσεὺς ἀκανθοπλήξ) — L'oracle de Dodone, le fils inconnu et la mort du roi d'Ithaque",
         "source": "chapitres/tragedies/volume-ccxxviii-sophocle-odysseus-acanthoplex-telegonos-dodone-filiation-mort.md"
+      },
+      {
+        "number": 229,
+        "url": "/chapitres/tragedies/volume-ccxxix-sophocle-nauplios-pyrkaeus-feux-trompeurs-capharee-palamedes-vengeance/",
+        "title": "Volume CCXXIX (229) — Sophocle, Nauplios l'Incendiaire (Nauplios pyrkaeus) — Les faux feux du cap Capharée, la vengeance de Palamède et la catastrophe de la confiance",
+        "source": "chapitres/tragedies/volume-ccxxix-sophocle-nauplios-pyrkaeus-feux-trompeurs-capharee-palamedes-vengeance.md"
       }
     ],
     "comparatif": [
@@ -2931,6 +2937,12 @@
         "url": "/chapitres/comedies/volume-084-archippos-ploutos-richesse-vieillard-ruse-aiguille-pourpre/",
         "title": "Volume LXXXIV (84) — Archippos, Ploutos (Πλοῦτος, « La Richesse ») — vieillard trompé, acquisition, pauvreté, aiguilles et pourpre : une économie comique en fragments",
         "source": "chapitres/comedies/volume-084-archippos-ploutos-richesse-vieillard-ruse-aiguille-pourpre.md"
+      },
+      {
+        "number": 85,
+        "url": "/chapitres/comedies/volume-085-archippos-rhinon-restauration-democratie-couronne-manteau-rasoir/",
+        "title": "Volume LXXXV (85) — Archippos, Rhinôn (Ῥίνων) — retour de la démocratie, mémoire de la guerre civile, couronnes, vêtement et rasoir",
+        "source": "chapitres/comedies/volume-085-archippos-rhinon-restauration-democratie-couronne-manteau-rasoir.md"
       }
     ],
     "origines-du-sacre": [
@@ -4013,6 +4025,18 @@
         "url": "/chapitres/origines-du-sacre/630-sans-descendance-adoption-rituels-isaie-menecles-gortyne-hammurabi/",
         "title": "Chapitre 630 — Mourir sans descendant : adopter pour sauver la maison, le nom et les rites, d'Isée à Gortyne et à Babylone",
         "source": "chapitres/origines-du-sacre/630-sans-descendance-adoption-rituels-isaie-menecles-gortyne-hammurabi.md"
+      },
+      {
+        "number": 631,
+        "url": "/chapitres/origines-du-sacre/631-tombe-inviolable-amendes-lycie-aphrodisias-droit-romain/",
+        "title": "Chapitre 631 — Qui protège une tombe quand ses descendants disparaissent ? Interdictions funéraires, amendes, malédictions et garanties publiques en Lycie, à Aphrodisias et dans le droit romain",
+        "source": "chapitres/origines-du-sacre/631-tombe-inviolable-amendes-lycie-aphrodisias-droit-romain.md"
+      },
+      {
+        "number": 632,
+        "url": "/chapitres/origines-du-sacre/632-thebes-papyrus-abbott-leopold-amherst-enquetes-pillage-tombes/",
+        "title": "Chapitre 632 — Enquêter sur les tombes ouvertes : Papyrus Abbott, Léopold II–Amherst et procédures contre le pillage dans l'Égypte ramesside",
+        "source": "chapitres/origines-du-sacre/632-thebes-papyrus-abbott-leopold-amherst-enquetes-pillage-tombes.md"
       }
     ]
   },

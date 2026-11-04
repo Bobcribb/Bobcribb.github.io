@@ -351,6 +351,18 @@
           "path": "chapitres/origines-du-sacre/630-sans-descendance-adoption-rituels-isaie-menecles-gortyne-hammurabi.md",
           "request_sha256": "9dc3c53f595c7bdee6887145a2e7f1cb0ea8a9df54c734319407ef3ebe15e948",
           "initial_source_sha256": "2d02b3c4fdf8aec8676f0554c8a580321a3e6a2e721b8b3ff7fe6b42a28e3265"
+        },
+        "2b6f4471-f4a0-4fe4-b102-e2d809fbc738": {
+          "number": 631,
+          "path": "chapitres/origines-du-sacre/631-tombe-inviolable-amendes-lycie-aphrodisias-droit-romain.md",
+          "request_sha256": "9a380e740c511233eb0e9509f34583c15eabf90c5e416ffe2ea795e25964b984",
+          "initial_source_sha256": "3c8bdd0e504c04c5b9a08cc1d04fc7bbdfaa57f7f8efab68d77f40b49723deb1"
+        },
+        "5fbd1038-5848-4e1a-bd99-0ad2f6b9f477": {
+          "number": 632,
+          "path": "chapitres/origines-du-sacre/632-thebes-papyrus-abbott-leopold-amherst-enquetes-pillage-tombes.md",
+          "request_sha256": "c85152f4eaf28710ce280a6f84699bd1abf0266cc9a136cd15fa2133be532c27",
+          "initial_source_sha256": "7a9ffe9d1ab47b12142db8570b91ad215733ae8b1275b4499422785b2718cea9"
         }
       }
     },
@@ -898,6 +910,12 @@
           "path": "chapitres/comedies/volume-084-archippos-ploutos-richesse-vieillard-ruse-aiguille-pourpre.md",
           "request_sha256": "17eb62faf9135720064fef69e880103390b9cbb842951e7403146893609e3b14",
           "initial_source_sha256": "0880fe6dcbe55822740c052b823c3b06ca47631dee289691f8206c16a55c835a"
+        },
+        "6f8cb12a-95e4-4e3b-a0df-1c9a8d57b602": {
+          "number": 85,
+          "path": "chapitres/comedies/volume-085-archippos-rhinon-restauration-democratie-couronne-manteau-rasoir.md",
+          "request_sha256": "d6ebc9fb23603bd82e5579983b1fc22166f30dde1c205156e4df0d1824d7775d",
+          "initial_source_sha256": "f9afbc07914543eb01cf56646d67c9c3440d2b880a12da208e1ee45ae14089f0"
         }
       }
     },
@@ -1168,6 +1186,12 @@
           "path": "chapitres/tragedies/volume-ccxxviii-sophocle-odysseus-acanthoplex-telegonos-dodone-filiation-mort.md",
           "request_sha256": "0be782666e68e93796c5a119e6bb586896f0fb205844bde71b2ae39a425d410b",
           "initial_source_sha256": "4394b3414efcab141038d2d636ae66063d6dc93d0e6d65e0885a0fc0e8559044"
+        },
+        "bc2298bf-d38c-45a4-a0bc-2f8c59a1d744": {
+          "number": 229,
+          "path": "chapitres/tragedies/volume-ccxxix-sophocle-nauplios-pyrkaeus-feux-trompeurs-capharee-palamedes-vengeance.md",
+          "request_sha256": "33804a0705e9ec54f9835ac9e2f39c76a3f163d8b2777b111d7d8e94d4bb332e",
+          "initial_source_sha256": "46c519309b65e3fbd51feb0c6423c173a0f053ae4ff32a3afb7001d6fa920848"
         }
       }
     },
