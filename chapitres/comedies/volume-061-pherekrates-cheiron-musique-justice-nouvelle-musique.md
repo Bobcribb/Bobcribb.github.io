@@ -1,0 +1,332 @@
+# MYTHOS — Encyclopédie universitaire des comédies grecques — Volume LXI (61)
+
+## Phérécrate, *Cheirôn* (Χείρων, « Chiron ») : la Musique blessée, la Justice et la révolution sonore d'Athènes
+
+**Monographie universitaire intégrale — comédie attique perdue, philologie fragmentaire, histoire de la *mousikê*, esthétique, éducation et philosophie politique.** Rédaction MYTHOS, novembre 2026. Publication publique autorisée ; aucun document privé n'a été employé.
+
+**Statut critique.** Les segments **[A]** désignent des attestations antiques identifiables ou des données éditoriales précisément localisées ; **[B]** des interprétations et des hypothèses modernes dont la pièce ne fournit pas une preuve complète ; **[C]** des scènes écrites aujourd'hui, sans prétention à restituer une réplique perdue. Toutes les paraphrases françaises des témoignages antiques sont des reformulations originales et non des citations littérales du texte grec. **K.-A.** renvoie à R. Kassel et C. Austin, *Poetae Comici Graeci*, VII, 1989. Les fragments les plus pertinents sont **155–162 K.-A.**, mais tous n'ont ni la même longueur ni la même solidité dramaturgique. L'édition critique intégrale et ses variantes ne sont pas déclarées exhaustivement collationnées.
+
+**Question directrice [B].** Pourquoi une comédie grecque fait-elle parler la Musique comme une femme maltraitée et vient-elle présenter le changement artistique comme une affaire de Justice ? La satire des nouveaux musiciens ne devient intelligible qu'en distinguant la technique réelle des sons, l'imaginaire comique de la violence, la concurrence des professionnels et la prétention de la cité à juger le goût. La réception savante est souvent aussi révélatrice que les fragments eux-mêmes.
+
+**Navigation :** [Théâtre grec](/theatre/) · [Études philosophiques](/philosophie/) · [Catalogue](/collections-numerotees/) · [Étude antérieure : Phérécrate, *Metalleis*](/chapitres/comedies/volume-060-pherekrates-metalleis-travail-abondance-tartare/) · [Dossier distinct : Cratinos, *Cheirones*](/chapitres/comedies/volume-009-cratinos-cheirones/).
+
+---
+
+## I. Constitution du dossier et discipline de la preuve
+
+### 1. [A] Une œuvre, un titre singulier, une perte presque totale
+
+Le titre **Χείρων**, translittéré *Cheirôn* ou *Chiron*, correspond au centaure éducateur de la tradition héroïque. Il figure au répertoire des comédies attribuées à Phérécrate, poète de l'ancienne comédie athénienne. Il ne faut pas le confondre avec les **Χείρωνες**, « Les Chirons », comédie de **Cratinos** : le singulier et le pluriel désignent ici deux œuvres et deux auteurs distincts. La pièce de Phérécrate n'est pas transmise sous une forme continue ; aucun acte complet ni didascalie de distribution ne nous est parvenu. Le groupe de fragments classés sous ce titre par les éditeurs modernes repose sur des transmetteurs et des contextes très différents.
+
+[A] Dans *Poetae Comici Graeci* VII, les fragments de *Cheirôn* portent notamment les références **155–162 K.-A.** ; le fragment 155 est le plus long et le plus souvent commenté. Le répertoire théâtral Theatrum rassemble en outre des lieux de citation chez Athénée, les scholies et Stobée, qui invitent à étudier le dossier bien au-delà d'un seul extrait. La thèse d'Eduardo Urios-Aparisi (*The Fragments of Pherecrates*, Glasgow, 1992) consacre sa section sur la pièce aux pages 430 et suivantes et sépare le commentaire des fragments individuels.
+
+### 2. [A] Trois étages de transmission
+
+Le premier étage est la **performance théâtrale du Ve siècle avant notre ère**, devenue inaccessible. Le deuxième est la **citation ancienne** : une œuvre plus tardive sélectionne quelques vers en fonction de son propre propos. Le troisième est le **classement philologique moderne**, où des numéros permettent de consulter et de comparer des extraits sans recréer le manuscrit perdu. Confondre les trois entraîne une erreur de méthode : le montage d'un traité de musique ne livre ni le plan scénique ni la dernière parole de la comédie.
+
+[A] Le témoignage majeur apparaît dans le traité transmis sous le nom de Plutarque, *De musica* (« Sur la musique »), autour de **1141** dans la pagination de Stephanus, en particulier le développement situé vers **1141c–1142a** selon la subdivision utilisée. L'attribution du traité à Plutarque est discutée ; on le cite prudemment comme **Pseudo-Plutarque**. Le traité n'est donc pas une voix contemporaine de Phérécrate, encore moins un procès-verbal de représentation.
+
+### 3. [A] Ce que l'on peut réellement identifier dans le fragment 155
+
+Le narrateur du traité introduit une **Musique personnifiée** qui se plaint auprès d'une figure de la **Justice**. Son discours fait défiler plusieurs compositeurs associés aux innovations musicales : **Mélanippide, Cinésias, Phrynis et Timothée de Milet**. Les audaces instrumentales et mélodiques deviennent des actes figurés de brutalité exercés sur son corps. La forme dialoguée de cet extrait est attestée ; la distribution de tous les autres rôles, l'entrée de Chiron, la place du chœur et les circonstances de la confrontation sont inconnues.
+
+[A] L'association entre souffrance corporelle et pratique musicale est dans la logique même de l'image comique. La personne « Musique » peut se plaindre avec les mots du corps tout en décrivant des procédés professionnels. Il faut cependant s'interdire de transformer chaque métaphore de l'extrait en un événement littéral ayant eu lieu dans l'intrigue.
+
+### 4. [A] Les autres témoins et leur hétérogénéité
+
+Le répertoire spécialisé relève des citations dans **Athénée VIII (364a–b), IX (368b ; 388f) et XIV (653e)**, ainsi que des scholies, du *De musica* et d'un passage de Stobée. La thèse de Glasgow repère, dans l'ensemble **156–162 K.-A.**, des traces intéressant la vieillesse, le langage épique et l'étiquette du banquet ; elle attire l'attention sur le **fragment 162**, où un propos relatif à **Simonide** touche aux usages de la poésie et de la convivialité. Ces notices n'autorisent pas une lecture narrative unitaire : elles indiquent des champs de langage, parfois un milieu de scène, non l'enchaînement d'une action.
+
+**Limite explicite :** les lieux secondaires ci-dessus proviennent du repérage bibliographique de Theatrum et de la synthèse consultée de la thèse. Ils ne sont pas présentés comme des passages tous intégralement relus dans leurs manuscrits ou leurs éditions critiques.
+
+### 5. [B] La mauvaise tentation : écrire l'intrigue entière
+
+Un scénario serait facile : Chiron quitte sa montagne, trouve la Musique violée par les innovateurs, convoque la Justice, puis restaure les anciennes mélodies. Or **aucune source examinée n'atteste une telle suite d'épisodes**. L'ordre des fragments numérotés n'est pas l'ordre des scènes ; le titre n'indique pas le rôle exact du centaure ; la fonction de la Justice dans l'extrait ne garantit pas un dénouement judiciaire. Il faut donc remplacer le roman des lacunes par l'analyse de **noyaux dramatiques isolés**.
+
+### 6. [B] Le titre et l'éducation héroïque
+
+Chiron est, dans la tradition, lié à l'éducation de héros, à des savoirs de soin et à la formation musicale. Il constitue un personnage particulièrement apte à incarner un apprentissage transmis. Toutefois, rien ne contraint une comédie à le rendre sage, sympathique ou victorieux. Un centaure peut être renversé en ridicule comme l'autorité qu'il représente. L'hypothèse d'un conflit entre une culture héritée et des virtuoses nouveaux est cohérente avec le fragment 155, mais n'est pas une identification garantie de l'intrigue.
+
+### 7. [B] Chronologie : ne pas déduire une année de quatre noms
+
+La vie et l'activité de Phérécrate sont documentées de manière discontinue. Le répertoire Theatrum mentionne des victoires anciennes, tandis que S. Douglas Olson a proposé, dans un article de 2010, d'identifier le poète à un mort de guerre de la fin des années 410 ; c'est **une proposition prosopographique**, non une date de décès unanimement établie. Le fragment 155 mentionne des musiciens de plusieurs générations, dont Timothée, ce qui a alimenté des discussions sur la chronologie, la forme du passage et les étapes de la réception. Attribuer la première représentation à « 410 » sans exposer les prémisses serait trop catégorique.
+
+[B] La reconnaissance ultérieure de Timothée et de Philoxène dans les traditions musicales ne date pas automatiquement les propos du personnage de la Musique. Les carrières musicales chevauchent des décennies et les citations antiques peuvent être reprises bien après leur contexte de production. Une date approximative ne doit jamais être déduite de l'âge supposé d'un seul artiste en présence.
+
+---
+
+## II. Philologie de la plainte musicale
+
+### 8. [A] *Mousikê* ne désigne pas seulement « la musique »
+
+La **μουσική**, entendue comme *mousikê* ou *mousikê technê*, embrasse dans ses usages classiques la poésie, le chant, l'apprentissage, le rythme, la danse et des compétences de performance liées aux Muses. La traduction française « Musique » est indispensable pour lire la personnification, mais elle risque de réduire un complexe culturel à un « art des sons » strictement moderne. Lorsque la victime comique parle, c'est donc potentiellement **tout un ordre de pratiques culturelles** qui reçoit un corps.
+
+[B] Cette ampleur explique l'enjeu politique : ne pas maîtriser les goûts nouveaux peut signifier perdre une manière de former les citoyens, non simplement regretter une sonorité. Le fragment ne prouve cependant pas que tous les Athéniens partageaient l'alarme de la personne allégorique.
+
+### 9. [A] *Dikê* : plus qu'une magistrate
+
+La Justice personnifiée relève de la famille des allégories compréhensibles au théâtre grec. **Δίκη** signifie la justice, mais aussi l'ordre des rapports et une revendication de réparation dans des contextes particuliers. Dans l'extrait, une interlocutrice écoute la plainte de la Musique ; rien ne permet de décrire un tribunal complet avec juges et sentence. La scène produit un effet judiciaire sans que l'on connaisse son protocole.
+
+[B] Le passage peut mettre à l'épreuve le droit de juger la création. Qui décide qu'une innovation est un dommage : l'art traditionnel, les praticiens, les spectateurs, la cité ou un principe supérieur ? Que « Justice » soit appelée à écouter transforme une querelle esthétique en affaire normative.
+
+### 10. [A] Les noms propres ne sont pas des preuves de culpabilité
+
+**Mélanippide, Cinésias, Phrynis et Timothée** sont des artistes reconnaissables dans le discours grec sur le dithyrambe et les transformations de la pratique musicale. Leur désignation par une comédie est une **preuve de visibilité et de polémique**, non une constatation objective des dommages imputés à leur art. L'auteur comique n'est ni un conservateur de musée neutre ni un organologue moderne.
+
+[A] Cinésias apparaît également comme personnage moqué dans **Aristophane, *Oiseaux*, 1377–1409**. Cette autre attestation indépendante confirme une réputation comique et la réutilisation du nom dans la satire des dithyrambes. Elle ne prouve pas que les scènes des *Oiseaux* ont été jouées de la même façon chez Phérécrate.
+
+### 11. [A] La question des « douze cordes »
+
+Le discours met en avant la prolifération de cordes ou de sons, que la tradition relie volontiers à des **instruments à douze cordes**. Il faut distinguer le chiffre dans le poème, la constitution matérielle d'une cithare et la possibilité d'utiliser plusieurs accords ou *harmoniai* : ce ne sont pas trois noms d'une même chose. La « douzaine » dans une invective peut produire un effet d'excès même lorsqu'elle témoigne d'une innovation matériellement concevable.
+
+[B] Tosca A. C. Lynch a consacré un article de 2018 à **la question des douze cordes, du *strobilos* et des modulations**, en proposant une reconstruction technique des moyens de Phrynis et de Timothée. Son explication rend justice à des possibilités acoustiques qu'une lecture exclusivement moraliste occulterait. Elle demeure une **hypothèse de recherche moderne**, pas l'observation directe d'un instrument conservé de Phrynis.
+
+### 12. [A/B] Le *strobilos* et la torsion du son
+
+Le vocabulaire des mouvements, torsions, sinuosités et courbures est stratégiquement décisif dans la satire. À l'oreille du spectateur, les innovations peuvent paraître un enchevêtrement plutôt qu'une architecture harmonique. **[A]** Des noms et images associés à ces procédures sont attestés dans la tradition du fragment. **[B]** Leur traduction en gestes instrumentaux exacts pose un problème spécial : les textes comiques parlent par hyperbole, les témoins techniques par classification, et les objets archéologiques conservés ne résolvent pas à eux seuls l'écart.
+
+Dans l'analyse de Lynch, un dispositif interprété comme *strobilos* pourrait permettre des inflexions et des changements de systèmes sonores. Il faut signaler la différence entre **inférence expérimentale** et **lecture imposée par la lettre du vers**. La seconde serait une surinterprétation de la première.
+
+### 13. [B] Corps maltraité, satire obscène et violence symbolique
+
+La Musicienne déplore sa mise à mal dans une série d'images dont plusieurs sont sexuellement équivoques. Une partie de la rhétorique comique assimile la modification technique à la violence faite à une femme. Cela construit une position de victime et pousse le public à rire de pratiques musicales par le biais de l'imagination corporelle. Une lecture contemporaine doit nommer cette violence figurée, non la convertir automatiquement en témoignage d'une agression réelle ni la neutraliser comme simple métaphore innocente.
+
+[B] L'allégorie est à double tranchant. Elle peut dévaloriser les musiciens en les figurant comme des agresseurs ; mais la plainte de la Musique fait également entendre une voix théâtrale féminisée, dont le pouvoir d'accusation peut dépasser le contrôle des personnages qui l'utilisent. Nous ignorons comment la mise en scène traitait cette tension.
+
+### 14. [B] Traductions anciennes et fausse transparence
+
+Certaines traductions anglaises anciennes amplifient les équivalences modernes par des rimes, des insultes ou un vocabulaire instrumental très situé. Elles peuvent être utiles pour repérer le récit de la plainte, mais ne doivent pas être reprises comme des citations exactes de Phérécrate. On contrôlera l'édition grecque du *De musica* et le texte comique classé en PCG avant toute traduction philologique mot à mot ou reconstruction métrique.
+
+**Règle éditoriale :** le présent dossier ne fabrique **aucun vers grec** de Phérécrate ; les équivalences françaises proposées sont des résumés analytiques. Les références de fragments, elles, sont des identifiants de consultation.
+
+### 15. [A/B] Forme dialoguée et jeu des voix
+
+[A] Le fragment 155 présente au moins deux voix allégoriques qui organisent une séquence de questions et de réponses. [B] Ce dispositif procure un avantage dramatique : il évite qu'une conférence sur les sons ne devienne un exposé scolaire, en faisant naître les informations de la surprise et de la plainte. Chaque musicien mentionné est à la fois nom propre, caricature et marqueur de génération. Le passage permet d'analyser le **mouvement d'une scène conservée**, non d'en déduire toute la composition de la pièce.
+
+### 16. [B] Métaphores musicales et vocabulaire de la déviation
+
+L'image d'un chemin qui serpente, d'un son qui se plie et d'une structure qui s'enroule offre une charnière entre langage ordinaire et jargon. L'historien peut faire jouer les rapprochements avec les termes grecs de changement mélodique, mais ne doit pas attribuer aux auditeurs une théorie systématique postérieure. Une expression comme **μεταβολή**, « changement », appartient à des vocabulaires techniques variés ; elle ne dispense pas de lire une occurrence spécifique dans son contexte.
+
+---
+
+## III. La « nouvelle musique » comme problème historique
+
+### 17. [A] Ce que les sources décrivent
+
+Les sources classiques et leurs compilateurs mettent en scène une **accélération des styles virtuoses**, des usages de la cithare et de l'aulos, et des concours impliquant des auditeurs nombreux. Les dictionnaires et les traités rétrospectifs organisent ensuite ces faits en récit d'une « ancienne » et d'une « nouvelle » musique. Les historiens modernes appellent souvent ce faisceau d'évolutions la **New Music**. Cette appellation est utile mais ne correspond pas à un programme manifestement unitaire qu'auraient signé tous les musiciens cités dans le fragment.
+
+[B] Les adversaires de l'innovation avaient un avantage rhétorique : assimiler la complexité à une perte de mesure. Les défenseurs pouvaient valoriser l'invention, la spécialisation et la virtuosité. Aucun de ces camps ne se confond simplement avec « la population athénienne ».
+
+### 18. [A/B] Dithyrambe, chœur et techniques de performance
+
+[A] Le dithyrambe est un genre choral dont les transformations occupent une place centrale dans l'histoire de la musique attique. Le développement des techniques de professionnels et des formes de compétition est attesté au-delà du dossier de Phérécrate. [B] Eric Csapo, dans « The Politics of the New Music » (2004), analyse la professionnalisation, les innovations et les oppositions qu'elles suscitent. Sa perspective permet d'éviter une lecture où l'ancienne musique serait techniquement pure et la nouvelle une simple corruption morale.
+
+L'affaire n'est pas seulement esthétique : le prestige des chorèges, le coût de l'entraînement, les rapports entre chanteurs et instrumentistes et l'attention du public conditionnent le succès. La comédie, art du concours lui-même, peut juger les spécialistes tout en dépendant de la même économie du spectacle.
+
+### 19. [B] Le paradoxe du poète accusateur
+
+Phérécrate attaque des innovations par un dispositif très inventif : il **donne à l'art une voix et un corps**, organise une scène allégorique et multiplie les effets de contraste. Le comique n'est donc pas un refus de toute créativité. La contradiction apparente — créer une scène neuve pour défendre la tradition — peut être le moteur de son efficacité. Il serait simpliste d'opposer un « conservateur » sans invention à des « modernes » sans mémoire.
+
+### 20. [A/B] Phrynis et Timothée : de la caricature à l'analyse technique
+
+[A] Les deux noms sont centraux dans la mémoire ancienne des innovations de la cithare et de la composition. [B] Le dossier de Lynch remet au premier plan les possibilités réelles de changements de systèmes sonores. Une accusation de désordre peut alors conserver **le souvenir polémique d'une découverte technique**. Le comique déforme, mais ce qu'il déforme n'est pas nécessairement fictif.
+
+L'archéologue et l'historien doivent néanmoins refuser l'illusion de l'enregistrement : aucun spectateur moderne ne peut entendre une représentation authentifiée des *Cheirôn* ni auditionner l'instrument exact du Timothée mentionné. Toute expérience acoustique actuelle est une proposition sous contraintes documentaires.
+
+### 21. [B] Cinésias chez Aristophane : une source croisée, pas une confirmation intégrale
+
+Dans les *Oiseaux*, la demande de « plumes » par le poète Cinésias donne à voir un art verbal qui se réclame de l'air, du mouvement et du vol. La comédie transforme le langage du dithyrambe en mécanique de scène. Le lien avec Phérécrate n'est pas l'identité de l'intrigue, mais le partage d'une **grammaire d'attaque** : figures devenues concrètes, emprunt burlesque aux gestes du métier et interrogation du public sur la limite entre invention et affectation.
+
+### 22. [B] Public, démocratie, jugement
+
+Le théâtre civique et ses concours exposent la musique à la pluralité des goûts. Le succès au spectacle peut s'écarter des normes que les éducateurs jugent formatrices. Csapo souligne combien le récit idéologique de la « décadence » musicale peut refléter des tensions politiques ; son chapitre de 2004 ne doit pas être traité comme une preuve que Phérécrate exprimait en tout point un programme partisan identifiable. Le fragment permet de poser la question **de l'autorité du jugement**, pas de déterminer le vote politique de son auteur.
+
+### 23. [A/B] Le témoignage de Platon, postérieur et non interchangeable
+
+Dans la *République*, livre III, et dans les *Lois*, notamment livre II, Platon lie l'éducation musicale à des choix de rythme, de mélodie et de caractère. Ce sont des **sources indépendantes** qui attestent l'importance philosophique accordée à la *mousikê*. [B] Les convoquer dans un commentaire de Phérécrate est instructif, mais **Platon n'explique pas ce que Phérécrate avait voulu faire sur scène**. Un dialogue philosophique et un fragment de comédie ne parlent pas avec la même autorité, ni avec les mêmes intentions.
+
+### 24. [B] La fonction du corps dans le débat esthétique
+
+Le corps plaintif de la Musique fabrique une preuve affective : au lieu d'argumenter techniquement contre les modulations, le comique montre leur « effet » comme blessure. C'est une stratégie de persuasion dont les catégories modernes — violence figurée, personnification, imaginaire du consentement — permettent de décrire le fonctionnement. Il ne faut ni retirer au texte sa capacité à choquer ni oublier que le rire repose sur un code scénique construit.
+
+---
+
+## IV. Chiron : mythe, tradition, apprentissage
+
+### 25. [A] Le centaure dans la tradition héroïque
+
+Chiron se distingue dans de nombreux récits de centaures violents par son rôle d'éducateur et de détenteur de savoirs. Les variantes mythographiques ne composent pas une biographie unique. **Homère, *Iliade* XI, 832**, associe Chiron à un savoir thérapeutique transmis au héros et à son entourage ; d'autres traditions développent les apprentissages d'Achille. La **présence du nom dans un titre comique** invite à interroger cette autorité, sans garantir que tous les épisodes mythiques furent représentés.
+
+### 26. [B] Soigner la musique : métaphore possible, non résumé de pièce
+
+Le médecin des blessures et le maître du rythme offrent au dramaturge une analogie séduisante : qui peut « guérir » un art déclaré blessé ? Toutefois, aucune réplique conservée ne permet de dire que Chiron prescrit effectivement un remède musical ou réconcilie les styles. Une lecture philosophique peut étudier **la possibilité d'une médecine du goût** ; elle doit porter l'étiquette [B]. La scène correspondante proposée plus bas est [C].
+
+### 27. [B] Pédagogie et autorité contestable
+
+Une tradition n'est pas un objet stable : elle se réinvente en prétendant seulement transmettre. Chiron peut cristalliser la promesse d'une autorité qui sait former sans étouffer l'invention ; il peut tout autant prêter le flanc à la caricature du vieux maître dépassé. Le dossier de Phérécrate, précisément parce qu'il est fragmentaire, laisse ces deux orientations ouvertes. La prudence n'empêche pas la richesse herméneutique : elle donne une place aux possibles sans les faire passer pour des événements.
+
+---
+
+## V. Lectures philosophiques et comparatistes
+
+### 28. [B] Hegel : l'œuvre, l'histoire et la reconnaissance
+
+Une lecture inspirée de **Hegel**, particulièrement de la *Phénoménologie de l'esprit* et de ses cours d'esthétique, peut comprendre la controverse musicale comme un conflit entre une forme de vie héritée et l'affirmation d'une subjectivité artiste qui réclame reconnaissance. La Musique allégorique se présente comme une unité malmenée par la pluralité des inventions. Mais, dans une perspective historique, **l'identité esthétique n'est pas antérieure à tous ses changements** : elle se constitue en les traversant.
+
+Cette grille ne doit pas devenir une fausse exégèse de Hegel sur Phérécrate. Il n'existe ici **aucune citation de Hegel commentant le fragment 155**. L'intérêt du rapprochement est de rendre visible le problème du critère : qui, dans la cité, peut reconnaître une nouveauté comme accomplissement plutôt que comme dégradation ?
+
+### 29. [B] Nietzsche : tradition et métamorphose de l'art
+
+Dans **La Naissance de la tragédie** (1872), Nietzsche donne à la musique et au dionysiaque un rôle déterminant dans sa réflexion sur les formes artistiques grecques. Cela ne signifie pas qu'il ait justifié le style des nouveaux citharèdes ou condamné Phérécrate. On peut seulement mettre en regard deux questions : l'expérience sonore échappe-t-elle aux normes qui veulent la discipliner ? Et l'invention est-elle la maladie d'une culture ou une forme de sa puissance ?
+
+L'ironie est féconde : un langage nostalgique se sert de l'énergie des métamorphoses comiques pour attaquer des métamorphoses musicales. Une lecture nietzschéenne aide à interroger la valeur du mot « décadence », mais ne transforme pas le fragment en traité nietzschéen avant la lettre.
+
+### 30. [B] Vernant : mythe et institutions de la parole
+
+Les travaux de **Jean-Pierre Vernant**, en particulier sur la pensée grecque, les structures de la cité et la tragédie étudiée avec Pierre Vidal-Naquet, invitent à replacer les discours artistiques au croisement des pratiques collectives et des représentations. Pour Phérécrate, le point décisif est l'institution d'un espace public où l'on peut **faire comparaître un art comme un personnage**. Chiron, figure mythique, et la Justice, figure normative, deviennent des formes dramatiques capables de parler des conflits de la cité.
+
+Aucune structure intellectuelle proposée par Vernant n'autorise à reconstruire le chœur de la pièce ou la séquence des scènes. Son apport ici est un **outil de contextualisation**, non une preuve philologique.
+
+### 31. [B] Détienne : compétence, vérité et légitimité
+
+La réflexion de **Marcel Détienne**, notamment dans *Les Maîtres de vérité dans la Grèce archaïque*, permet de demander comment les spécialistes revendiquent le droit de dire ce qui est « vrai » ou « bon » en matière de parole et de performance. À la virtuosité des professionnels la Musique personnifiée oppose une autorité antérieure, incarnée par sa propre douleur. La Justice sert de tierce instance. Ce triangle **expertise / tradition / jugement** éclaire les formes d'une lutte culturelle.
+
+L'analogie a ses limites : la musique classique compétitive n'est pas identique aux régimes archaïques de vérité décrits par Détienne. Une comparaison sérieuse doit montrer ces différences au lieu de les effacer.
+
+### 32. [B] Dumézil : une limite de méthode plutôt qu'un schéma prêt à l'emploi
+
+La théorie comparative de **Georges Dumézil** concerne des correspondances structurales discutées entre certaines traditions indo-européennes. Le titre *Chiron*, la présence de la Justice et un ensemble de virtuoses ne démontrent **aucune organisation trifonctionnelle**. On pourrait être tenté d'opposer souveraineté normative, compétence guerrière et production artistique, mais les fragments ne fournissent pas la triade organisée qui rendrait une telle proposition falsifiable. Le seul usage responsable de Dumézil dans ce dossier est donc méthodologique : rappeler que **ressemblance de vocabulaire n'est pas homologie de structure**.
+
+### 33. [B] Comparaisons contrôlées : Cratinos et Aristophane
+
+Le catalogue MYTHOS conserve une autre comédie, **Cratinos, *Cheirones***, dont les problèmes sont distincts. La simple parenté des titres appelle une comparaison du traitement des figures d'autorité, non l'importation des fragments de Cratinos dans le texte de Phérécrate. Chez Aristophane, les *Oiseaux* donnent un exemple direct de Cinésias caricaturé. Les *Grenouilles*, composées dans un autre contexte, dramatisaient quant à elles une compétition entre styles poétiques tragiques. Ces rapprochements décrivent **un répertoire de procédés comiques** ; ils ne servent pas à remplir les lacunes du manuscrit de *Cheirôn*.
+
+---
+
+## VI. Trois scènes originales : expérimentation dramaturgique, non restitution
+
+### 34. [C] Scène originale I — La salle des cordes
+
+**PERSONNAGES INVENTÉS : LA VOIX, L'APPRENTI, LE FABRICANT DE LYRES.** *La scène, ses personnages et toutes ses répliques ont été composés aujourd'hui. Ils ne sont pas attribués à Phérécrate.*
+
+**LE FABRICANT.** Regarde ce cadre. Tant que je n'y tends aucune corde, chacun l'appelle harmonie.  
+**L'APPRENTI.** Et quand tu tends la première ?  
+**LE FABRICANT.** On m'accuse d'avoir commencé un bruit.  
+**LA VOIX.** Vous avez donné à la nouveauté une mauvaise réputation avant même de l'avoir entendue.  
+**L'APPRENTI.** Mais mon maître a dit qu'une corde de plus pouvait gâter l'éducation des garçons.  
+**LA VOIX.** Une corde de plus ne sait pas ce qu'est un garçon. Celui qui la pince, peut-être. Celui qui l'écoute, sûrement.  
+**LE FABRICANT.** Les vieillards commandent sept cordes, les jeunes en veulent douze, les riches les voudront d'or.  
+**L'APPRENTI.** Combien en faudra-t-il pour jouer vrai ?  
+**LA VOIX.** Aucune corde ne sonne juste dans une discussion qui interdit d'écouter.  
+**LE FABRICANT.** Voilà donc le grand malheur des fabricants : nous construisons des instruments, mais on nous demande de fabriquer un passé.  
+**L'APPRENTI.** Et si l'instrument ancien me plaît davantage ?  
+**LA VOIX.** Tu auras choisi une forme, pas condamné la liberté des autres.  
+**LE FABRICANT.** Je crains surtout le juge qui n'a jamais touché une lyre. Il reconnaît immédiatement les fautes, parce qu'il ne sait pas en produire une seule.
+
+**Commentaire [B].** Ce dialogue contemporain montre comment une controverse technique peut être capturée par la morale et le prestige. La scène ne reprend aucune parole antique authentifiée.
+
+### 35. [C] Scène originale II — La Justice sans partition
+
+**PERSONNAGES INVENTÉS : JUSTICE, UN JUGE DE CONCOURS, UNE DANSEUSE, LE SILENCE.**
+
+**JUSTICE.** Qu'a-t-on volé ?  
+**LE JUGE.** Le bon goût de la cité.  
+**JUSTICE.** Dépose l'objet.  
+**LE JUGE.** Il n'a pas de poids.  
+**JUSTICE.** Qui l'avait avant le vol ?  
+**LE JUGE.** Nos pères.  
+**LA DANSEUSE.** Ils disputaient déjà des prix, des styles et des places au premier rang.  
+**LE JUGE.** Je réclame un procès des nouvelles mélodies.  
+**JUSTICE.** Convoque donc leurs victimes.  
+**LE SILENCE.** Je n'ai pas été frappé. J'ai été oublié.  
+**LA DANSEUSE.** Et moi, on m'a fait danser sur des rythmes que je ne connaissais pas. J'ai appris, puis j'ai été payée.  
+**LE JUGE.** Tu changes l'accusation en éloge !  
+**JUSTICE.** Non. Elle transforme une plainte en témoignage. C'est la seule chose qu'un juge devrait d'abord permettre.  
+**LE SILENCE.** Je voudrais un instant pour que tous entendent ce qui suit une note.  
+**LE JUGE.** Ce moment-là ne gagnera jamais un concours.  
+**JUSTICE.** Alors peut-être faut-il aussi juger le concours.
+
+**Commentaire [B].** Ici la Justice n'est pas celle dont les propos sont connus dans le fragment 155 : c'est une création qui interroge le rapport moderne entre expertise, autorité et écoute.
+
+### 36. [C] Scène originale III — Le maître et la modulation
+
+**PERSONNAGES INVENTÉS : LE CENTAURE, LA JEUNE MUSICIENNE, LE CHŒUR DES ÉCHOS.** *Le « Centaure » de cette scène est une invention dramatique moderne inspirée du titre, non une citation de l'antique pièce.*
+
+**LE CENTAURE.** Je t'ai appris le pas régulier. Pourquoi traverses-tu maintenant la mesure ?  
+**LA MUSICIENNE.** Parce que le chemin franchit une montagne que tu ne m'avais pas montrée.  
+**LE CENTAURE.** Et la montagne a-t-elle changé la vérité du chemin ?  
+**LA MUSICIENNE.** Elle a changé ce que j'entends derrière la colline.  
+**LE CHŒUR DES ÉCHOS.** Nous répétons les paroles anciennes, mais chaque roche les renvoie autrement.  
+**LE CENTAURE.** Voilà une leçon que je ne sais pas donner : comment être fidèle à une mélodie en l'altérant ?  
+**LA MUSICIENNE.** Tu m'as appris à compter mes respirations, pas à les posséder.  
+**LE CENTAURE.** Fais entendre ce que tu as trouvé.  
+**LA MUSICIENNE.** Tu devras accepter une note que ta lyre ne connaît pas.  
+**LE CENTAURE.** Je ne promets pas de l'aimer.  
+**LA MUSICIENNE.** Je ne te demande pas un prix.  
+**LE CENTAURE.** Que demandes-tu ?  
+**LA MUSICIENNE.** Le temps nécessaire pour que tu la reconnaisses comme une note, avant de l'appeler une blessure.  
+**LE CHŒUR DES ÉCHOS.** À l'oreille qui s'ouvre, nous ne rendons jamais deux fois exactement le même son.
+
+**Commentaire [B].** Cette variation explore la pédagogie et l'évolution des normes. Rien n'autorise à attribuer à Phérécrate une réconciliation analogue entre Chiron et la nouvelle musique.
+
+---
+
+## VII. Synthèse critique et appareil de recherche
+
+### 37. [A/B] Tableau de fiabilité des propositions
+
+| Proposition | Statut | Justification et prudence |
+|---|---|---|
+| Une comédie *Cheirôn* est attribuée à Phérécrate | [A] | Titre transmis dans le corpus des fragments, PCG VII |
+| Cratinos a écrit les *Cheirones* | [A] | Auteur et titre **distincts**, à ne pas amalgamer |
+| La Musique se plaint devant la Justice | [A] | Fragment 155, transmis par le *De musica* du Pseudo-Plutarque |
+| Mélanippide, Cinésias, Phrynis et Timothée figurent dans la plainte | [A] | Série de noms explicitement transmise, non preuve d'une présence physique sur scène |
+| Le nombre de cordes décrit l'instrument historique exact | [B] | Reconstruction musicologique discutée ; la comédie hyperbolise |
+| Chiron guérit la Musique au dénouement | Non attesté | Scénario possible mais sans témoin ancien identifié |
+| Le poète défend une politique partisane déterminée | [B] | Déduction fragile à partir d'une satire esthétique |
+| Une scène restitue les paroles manquantes | [C] seulement | Les trois scènes ci-dessus sont des inventions modernes |
+| L'année précise de première représentation est connue | Non démontré | Chronologie débattue ; aucune date imposée ici |
+
+### 38. [B] Le sens philosophique de l'archive incomplète
+
+Les fragments de comédie sont souvent étudiés comme les vestiges d'un texte perdu qu'il faudrait faire revenir intact. Une autre méthode est possible. Ils constituent un témoignage sur la manière dont une société **mettait en conflit des arts qu'elle pratiquait et finançait**, sur les choix d'extraits que firent ses lecteurs et sur les classements que construisent les philologues. L'absence du texte suivi n'est pas une autorisation à le reconstituer sans limites. C'est une contrainte féconde : chaque proposition devient plus claire quand sa source et sa portée sont exposées.
+
+Le fragment 155 possède à cet égard une qualité rare. Il permet de saisir une opération dramatique robuste — **la Musique demande Justice pour des changements de musique** — tout en laissant ouvertes la majorité des circonstances scéniques. La transmission d'une plainte satirique dans un traité de musicologie ancien donne un deuxième objet à l'historien : non seulement **ce que Phérécrate a pu moquer**, mais **ce que les compilateurs ont voulu retenir d'une querelle culturelle**.
+
+### 39. [B] Trois modèles de lecture à confronter
+
+Le modèle **décliniste** suppose qu'un ordre harmonieux ancien a été détérioré par des virtuoses. Le modèle **progressiste** suppose qu'une technique avancée a triomphé d'une opposition ignorante. Le modèle **historique et dialogique** préfère demander qui construit ces deux récits, avec quels enjeux et quels types de preuve. C'est le troisième que l'étude retient, sans nier que des changements techniques et des désaccords esthétiques réels eurent lieu. Aucune musique nouvelle ne peut être reconstruite exactement à partir de l'indignation d'un personnage comique.
+
+### 40. [A/B] Sources primaires et éditions critiques
+
+1. **Phérécrate**, *Cheirôn*, **frr. 155–162 K.-A.** dans R. Kassel et C. Austin (éd.), *Poetae Comici Graeci*, vol. VII, Berlin–New York, Walter de Gruyter, **1989**. Édition de référence ; **l'apparat intégral et toutes les variantes ne sont pas revendiqués comme collationnés personnellement**.
+2. **Pseudo-Plutarque**, *De musica*, autour de **1141–1142** (notamment le passage relatif aux nouveaux musiciens et la personnification de la Musique), édition de G. N. Bernardakis, *Plutarchi Moralia* VI, Leipzig, Teubner, **1895**. Texte grec accessible par la bibliothèque Perseus : https://atlas.perseus.tufts.edu/library/urn:cts:greekLit:tlg0094.tlg002/
+3. **Pseudo-Plutarque**, *Concerning Music*, traduction ancienne en anglais de John Philips, dans W. W. Goodwin (dir.), *Plutarch's Morals*, **1874** ; consultable pour repérage, non utilisée comme source d'une traduction française littérale : https://topostext.org/work/155 ; autre numérisation de l'édition ancienne : https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1211/0062-01_Bk.pdf
+4. **Athénée de Naucratis**, *Deipnosophistes*, VIII (364a–b), IX (368b, 388f), XIV (653e), localisations répertoriées pour la pièce dans Theatrum : https://theatrum.de/2137.html . Ces repères demandent une collation propre pour toute édition vers par vers.
+5. **Aristophane**, *Oiseaux*, **1377–1409**, épisode de Cinésias, texte ancien et traduction consultables : https://adfonteslibrary.org/work-aristophanes-birds .
+6. **Homère**, *Iliade*, **XI, 832**, pour une tradition du savoir thérapeutique associé à Chiron ; contexte héroïque, non témoin de la comédie.
+7. **Platon**, *République*, III ; *Lois*, II, sur la valeur éducative de la musique ; rapprochement philosophique postérieur, non preuve sur Phérécrate.
+
+### 41. [B] Études modernes, contrôles bibliographiques et discussions
+
+1. **Eduardo Urios-Aparisi**, *The Fragments of Pherecrates*, thèse de doctorat, **Université de Glasgow, 1992**. Introduction et plan scientifique consultés : dossier *Cheirôn* annoncé **p. 430 sqq.**, fr. 155 annoncé **p. 433 sqq.**, puis frr. 156–162 ; mise à disposition : https://theses.gla.ac.uk/75012/1/11007933.pdf . Prudence : les pages détaillées du commentaire sur le fragment 155 n'ont pas toutes été collationnées dans cette rédaction.
+2. **Tosca A. C. Lynch**, « ‘Without Timotheus, much of our *melopoiia* would not exist; but without Phrynis, there wouldn’t have been Timotheus’: Pherecrates’ twelve strings, the *strobilos* and the harmonic *paranomia* of the New Music », *Greek and Roman Musical Studies* **6/2**, **2018**, p. **290–327**, DOI **10.1163/22129758-12341324**. Résumé scientifique et notice institutionnelle contrôlés : https://ora.ox.ac.uk/objects/uuid:1b470946-5e43-4b15-8de8-b988d39dee5f . Reconstruction technique présentée comme **hypothèse de Lynch**, non comme fait assuré.
+3. **Eric Csapo**, « The Politics of the New Music », dans P. Murray et P. Wilson (dir.), *Music and the Muses: The Culture of Mousikê in the Classical Athenian City*, Oxford, **2004**, p. **207–248** ; notice éditeur : https://academic.oup.com/book/32943/chapter-abstract/278643457 .
+4. **S. Douglas Olson**, « The comic poet Pherecrates, a war-casualty of the late 410s BC », *Journal of Hellenic Studies* **130**, **2010**, p. **49–50**, DOI **10.1017/S0075426910001151**. L'identification d'une victime de guerre à l'auteur est une proposition, non un fait acquis.
+5. **M. L. West**, *Ancient Greek Music*, Oxford, Clarendon Press, **1992** : synthèse de référence pour les instruments, échelles, performances et modes de documentation ; non revendiquée comme lecture intégrale pour ce chapitre.
+6. **Eric Csapo et Peter Wilson**, « The Politics of Theater Music in Fifth- and Fourth-Century Greece », dans T. A. C. Lynch et E. Rocconi (dir.), *A Companion to Ancient Greek and Roman Music*, **2020**, DOI **10.1002/9781119275510.ch30**. Notice éditeur contrôlée : https://onlinelibrary.wiley.com/doi/10.1002/9781119275510.ch30 .
+7. **G. W. F. Hegel**, *Phénoménologie de l'esprit* (1807) et *Leçons sur l'esthétique* (édition posthume) : **outils conceptuels**, pas travaux sur *Cheirôn*.
+8. **Friedrich Nietzsche**, *La Naissance de la tragédie* (1872) : contexte philosophique et comparatif, **aucun texte antique attribué**.
+9. **Jean-Pierre Vernant et Pierre Vidal-Naquet**, *Mythe et tragédie en Grèce ancienne*, I–II : contexte interprétatif des formes dramatiques et institutions, avec limites de transposition d'un genre à l'autre.
+10. **Marcel Détienne**, *Les Maîtres de vérité dans la Grèce archaïque* (1967) : réflexion comparative sur la légitimation de la parole.
+11. **Georges Dumézil**, *Mythe et épopée*, I (1968) : référence critique aux exigences de la comparaison ; **aucune trifonctionnalité déduite du fragment**.
+12. **Theatrum — Pherekrates**, index des titres et lieux de transmission, https://theatrum.de/2137.html , utile pour une première cartographie, non substitut à PCG.
+
+### 42. Conclusion : entendre les fragments sans leur inventer une partition
+
+Le témoignage le plus célèbre de *Cheirôn* n'offre ni une partition grecque ni le procès-verbal d'une révolution artistique. Il fait entendre, à travers un transmetteur tardif, **une plainte dramatisée** dont la force réside dans l'impossibilité de séparer entièrement une nouveauté sonore de son évaluation publique. La Musique souffre parce qu'on change son corps ; la Justice écoute parce qu'il faut décider si ce changement est création ou dommage. Les poètes comiques font ainsi surgir, à partir du langage technique, une question durable : la tradition appartient-elle à ceux qui la conservent, à ceux qui la transforment ou à ceux qui l'écoutent ?
+
+La réponse historique n'est pas donnée par le texte incomplet. Les quelques fragments invitent plutôt à maintenir ensemble trois exigences : **fidélité documentaire [A]**, **audace interprétative contrôlée [B]**, **liberté de recréer à condition de la signaler [C]**. C'est à cette condition que la série universitaire MYTHOS peut publier des œuvres perdues sans convertir leur perte en fiction involontaire.
+
+---
+
+**Note de continuité.** Étude nouvelle de **Phérécrate, *Cheirôn***, distincte du *Cheirones* de Cratinos et du *Metalleis* de Phérécrate. Le numéro LXI / 61 de cette monographie est exclusivement alloué par la transaction GitHub depuis la branche courante, et ne réserve aucune suite. Les liens historiques, les identifiants de fragments, les dates, les références bibliographiques et les volumes déjà publiés ne doivent pas être renumérotés avec cette étude. Le document constitue un manuscrit **intégral, public et approuvé pour publication** ; aucune scène [C] n'est une restitution de source primaire.

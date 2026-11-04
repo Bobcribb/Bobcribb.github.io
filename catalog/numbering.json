@@ -1118,6 +1118,12 @@
         "url": "/chapitres/tragedies/volume-cciv-euripide-antigone-loi-filiation-reconciliation/",
         "title": "Volume CCIV (204) — 1. Position dans l'encyclopédie et définition du problème",
         "source": "chapitres/tragedies/volume-cciv-euripide-antigone-loi-filiation-reconciliation.md"
+      },
+      {
+        "number": 205,
+        "url": "/chapitres/tragedies/volume-ccv-euripide-oedipe-sphinx-papyrus-authenticite/",
+        "title": "Volume CCV (205) — Partie I — L’œuvre, le récit antique et les témoins",
+        "source": "chapitres/tragedies/volume-ccv-euripide-oedipe-sphinx-papyrus-authenticite.md"
       }
     ],
     "comparatif": [
@@ -1786,6 +1792,12 @@
         "url": "/chapitres/comparatif/volume-clxv-eduardo-viveiros-de-castro-perspectivisme-amerindien-multinaturalisme-traduction/",
         "title": "Volume CLXV (165) — Eduardo Viveiros de Castro : perspectivisme amérindien, multinaturalisme et diplomatie des mondes",
         "source": "chapitres/comparatif/volume-clxv-eduardo-viveiros-de-castro-perspectivisme-amerindien-multinaturalisme-traduction.md"
+      },
+      {
+        "number": 166,
+        "url": "/chapitres/comparatif/volume-clxvi-marilyn-strathern-personnes-relationnelles-genre-du-don-connexions-partielles/",
+        "title": "Volume CLXVI (166) — Marilyn Strathern : genre du don, personnes relationnelles, connexions partielles, propriété et anthropologie de la parenté",
+        "source": "chapitres/comparatif/volume-clxvi-marilyn-strathern-personnes-relationnelles-genre-du-don-connexions-partielles.md"
       }
     ],
     "comedies": [
@@ -2148,6 +2160,12 @@
         "url": "/chapitres/comedies/volume-060-pherekrates-metalleis-travail-abondance-tartare/",
         "title": "Volume LX (60) — Phérécrate, Metalleis (Μεταλλεῖς, « Les Mineurs ») : le travail aboli, les fleuves de nourriture et le rire des morts",
         "source": "chapitres/comedies/volume-060-pherekrates-metalleis-travail-abondance-tartare.md"
+      },
+      {
+        "number": 61,
+        "url": "/chapitres/comedies/volume-061-pherekrates-cheiron-musique-justice-nouvelle-musique/",
+        "title": "Volume LXI (61) — Phérécrate, Cheirôn (Χείρων, « Chiron ») : la Musique blessée, la Justice et la révolution sonore d'Athènes",
+        "source": "chapitres/comedies/volume-061-pherekrates-cheiron-musique-justice-nouvelle-musique.md"
       }
     ],
     "origines-du-sacre": [
@@ -3062,6 +3080,18 @@
         "url": "/chapitres/origines-du-sacre/602-variants-erreurs-copies-textes-rituels-egypte-ninive/",
         "title": "Chapitre 602 — La faute du copiste et la variante du rituel : papyrus funéraires égyptiens et tablettes de Ninive",
         "source": "chapitres/origines-du-sacre/602-variants-erreurs-copies-textes-rituels-egypte-ninive.md"
+      },
+      {
+        "number": 603,
+        "url": "/chapitres/origines-du-sacre/603-voix-feminines-prophetesses-mari-delphes-houlda/",
+        "title": "Chapitre 603 — Qui peut parler pour les dieux ? Prophétesses de Mari, Pythie de Delphes et Houlda de Jérusalem",
+        "source": "chapitres/origines-du-sacre/603-voix-feminines-prophetesses-mari-delphes-houlda.md"
+      },
+      {
+        "number": 604,
+        "url": "/chapitres/origines-du-sacre/604-instituer-expert-pretresse-athena-nike-savants-ninive/",
+        "title": "Chapitre 604 — Instituer l'expert religieux : tirage au sort, lignage, colophons et autorité des spécialistes",
+        "source": "chapitres/origines-du-sacre/604-instituer-expert-pretresse-athena-nike-savants-ninive.md"
       }
     ]
   },

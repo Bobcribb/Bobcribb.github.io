@@ -183,6 +183,18 @@
           "path": "chapitres/origines-du-sacre/602-variants-erreurs-copies-textes-rituels-egypte-ninive.md",
           "request_sha256": "ad583ca2f90587c4b17a14172f01c821f9184d8b6313e4409dd7dbe081eeec74",
           "initial_source_sha256": "261921df02e637cd9400a80d2f1b1e6368899b6e55061e12ee7816e36f99d1a7"
+        },
+        "14fb76c2-d64b-4a9e-b5a1-7ae45d890c2f": {
+          "number": 603,
+          "path": "chapitres/origines-du-sacre/603-voix-feminines-prophetesses-mari-delphes-houlda.md",
+          "request_sha256": "59c642ff8bf7cb7e9ce9fb9ad2c527f0566aeb0df7afaf6f9a26883e0c82123d",
+          "initial_source_sha256": "dfb3178d17b79dad9de50380031fc1eea45cf9d1d7be90ac744fb711eb94321a"
+        },
+        "3dd286e1-3577-4e34-9864-8db772094fb3": {
+          "number": 604,
+          "path": "chapitres/origines-du-sacre/604-instituer-expert-pretresse-athena-nike-savants-ninive.md",
+          "request_sha256": "3860633340d8c99ca1a4dbbe2272b84313f8b9807cb2236d823f06b6e97c6078",
+          "initial_source_sha256": "44088a438426754e4e220d7a49797142cffaedf31e321d3b23120176e3fc2846"
         }
       }
     },
@@ -477,6 +489,12 @@
           "path": "chapitres/comedies/volume-060-pherekrates-metalleis-travail-abondance-tartare.md",
           "request_sha256": "0300a99596797e0b8e436fdba3ca9f164d66dfa71965a71a6f89f18b076e41ec",
           "initial_source_sha256": "4cdd2d23c91672dad242583f4229b92446ab7b17952713f805553c99f76e918a"
+        },
+        "b4a5d12f-cb9e-4234-9861-e7dc4b6dbab4": {
+          "number": 61,
+          "path": "chapitres/comedies/volume-061-pherekrates-cheiron-musique-justice-nouvelle-musique.md",
+          "request_sha256": "43946d975921b1051be6804d70fa8af59cc4c6919da1704ebb3a0e1c42add474",
+          "initial_source_sha256": "62bcace02571d09b282a30a94e9cd5d10a7937b126e675a642511a3d02743d35"
         }
       }
     },
@@ -603,6 +621,12 @@
           "path": "chapitres/tragedies/volume-cciv-euripide-antigone-loi-filiation-reconciliation.md",
           "request_sha256": "27980bb072d5c67b119ea0f8821574e8d583d10b1d94031dcbaab49e9f9a431f",
           "initial_source_sha256": "0984e21bfe2d938203c709a55a74cb9221e7dad354f2244e1a2ca8a7f0d92967"
+        },
+        "2f41c70d-51f2-4db9-9e3f-418c2d61b7e0": {
+          "number": 205,
+          "path": "chapitres/tragedies/volume-ccv-euripide-oedipe-sphinx-papyrus-authenticite.md",
+          "request_sha256": "71f0360b638116b9126d2bcd59c91da4e3d4f215a80d91a2ae2ba8dd629786d7",
+          "initial_source_sha256": "3f912d21e7b7d663b24a1106290d1fd44cf8d0b7408479220fc8a315f223c6e8"
         }
       }
     },
@@ -755,6 +779,12 @@
           "path": "chapitres/comparatif/volume-clxv-eduardo-viveiros-de-castro-perspectivisme-amerindien-multinaturalisme-traduction.md",
           "request_sha256": "747a0ce12d5034b1d289956e72d2278db9dc7908db8cb92c5fc7f6fa28938989",
           "initial_source_sha256": "95c9610a710fe1fcdadb2be203e8f0ecedbf5feb9ac3dfd7ad8e4e17bea26029"
+        },
+        "d82dcb21-9c0e-4d09-861e-d90808a34f6e": {
+          "number": 166,
+          "path": "chapitres/comparatif/volume-clxvi-marilyn-strathern-personnes-relationnelles-genre-du-don-connexions-partielles.md",
+          "request_sha256": "936159e21900be39710344507857581af45421fc50f2de7856d5bb96aeb5c1fc",
+          "initial_source_sha256": "972da32fe155e256e07baad9d6233555d61e90e67084c03678c11001aa4a97e0"
         }
       }
     }

@@ -1,0 +1,161 @@
+# MYTHOS — Les Origines du sacré — Tome DCIV, chapitre 604
+## Instituer l'expert religieux : tirage au sort, lignage, colophons et autorité des spécialistes
+
+*Étude universitaire de droit cultuel, d'épigraphie, d'assyriologie et de philosophie politique. Manuscrit public destiné à la file atomique de numérotation. Les références aux documents anciens restent littérales et les variables 604 et DCIV ne désignent que cette nouvelle livraison. Sources primaires [P], études et notices scientifiques [R].*
+
+### 1. L'expertise n'est pas une seule chose
+
+Qui fait d'une personne un spécialiste autorisé à accomplir un rite, interpréter un présage ou disposer d'une ressource cultuelle ? Les réponses antiques ne se réduisent ni à une formation technique ni à une reconnaissance de charisme personnel. On peut recevoir une charge par héritage, être désigné par une procédure civique, apprendre à lire un corpus spécialisé ou s'imposer comme correspondant d'un pouvoir qui requiert des avis. Ces modes de reconnaissance ne sont pas interchangeables.
+
+Ce chapitre ne reprend pas les études consacrées à la correction de manuscrits et à la réparation d'erreurs cérémonielles. Il examine en amont la fabrication institutionnelle des compétences : comment une fonction est attribuée, comment le titulaire est reconnu et comment se distinguent l'autorité d'officier et l'autorité de conseiller ? Deux dossiers matériels forment le cœur de l'enquête : les décrets athéniens relatifs à la prêtresse d'Athéna Nikè et la correspondance savante néo-assyrienne. Un texte normatif de Platon sert ensuite de contraste : il imagine une cité où l'habilitation religieuse est réglée par différentes procédures.
+
+### 2. Un principe documentaire : une loi ne prouve pas sa mise en œuvre
+
+Une loi peut prescrire une nomination avant que nous disposions de la preuve de son application. Une stèle funéraire peut commémorer la première détentrice d'une charge sans livrer tous les détails de son exercice. Une lettre d'expert peut attester une intervention auprès du souverain sans renseigner de façon exhaustive sur la formation de son auteur. Ces différences de genre commandent une méthode : confronter la norme, l'attestation individuelle, la trace matérielle et l'argument intellectuel.
+
+Notre vocabulaire de « profession » sera donc contrôlé. Un service rituel peut donner lieu à des prestations régulières sans être une profession à plein temps au sens moderne. Une fonction publique peut être durable sans constituer une carrière administrative uniforme. Quant à la compétence philologique, elle peut être indispensable pour une activité savante tout en ne définissant pas le mode de désignation de tous les officiants d'un sanctuaire.
+
+### 3. Athéna Nikè : une innovation dans la désignation de la prêtresse
+
+Le décret athénien IG I³ 35, daté de manière discutée vers 450 ou 438 avant notre ère, organise notamment la création de la charge de prêtresse d'Athéna Nikè et le sanctuaire qui lui est associé. La restitution de ses lignes relatives à la désignation par tirage au sort parmi les Athéniennes est discutée, mais le rapprochement avec l'épitaphe de Myrrhinè renforce l'identification de la procédure. Le texte prévoit en outre une rémunération et des portions sacrificielles. [P1 ; R1]
+
+Il importe de ne pas effacer le caractère situé du document. Nous avons affaire à une institution civique athénienne, non au règlement applicable à toutes les prêtresses du monde grec. Les éditeurs notent que le recours au tirage au sort parmi les femmes des familles citoyennes diffère du monopole de certaines charges par des lignages déterminés. Ce déplacement peut élargir un recrutement sans supprimer les critères de citoyenneté, de famille ou de statut social.
+
+### 4. La charge, le chantier et le salaire
+
+IG I³ 35 associe dans une même décision une charge rituelle, une rémunération et des prescriptions relatives au sanctuaire : portes, autel, constructions confiées à des responsables. La prêtresse doit recevoir cinquante drachmes ainsi que des parties des sacrifices publics, selon la lecture présentée par Attic Inscriptions Online. [P1]
+
+Ce rapprochement entre personnel et bâtiment est historiquement significatif. Une fonction cultuelle ne flotte pas au-dessus des conditions matérielles de son exercice. Elle implique un espace, des prestations, des publics et des ressources. La relation n'est cependant pas une identité : disposer d'un temple n'est pas la même chose que désigner une prêtresse ; prévoir des honoraires ne garantit pas leur versement immédiat.
+
+Il convient en particulier de ne pas convertir sans commentaire une rémunération mentionnée par un décret en revenu annuel effectivement touché pendant toute la vie d'une personne. La temporalité de la nomination, celle des travaux et celle du paiement peuvent diverger. C'est une question que le document inscrit au revers de la stèle rend particulièrement visible.
+
+### 5. L'autre face de la stèle : IG I³ 36 et le problème du calendrier institutionnel
+
+IG I³ 36, gravé au revers d'IG I³ 35, traite du paiement de la prêtresse. Les éditeurs proposent une datation probable autour de 424/3 avant notre ère, tout en conservant des réserves. Cette possible distance chronologique fait apparaître une question essentielle : un dispositif peut être institué par une décision puis nécessiter une nouvelle réglementation de sa rémunération. [P2]
+
+Ce décalage ne prouve pas à lui seul que Myrrhinè serait restée sans salaire pendant des décennies. Les hypothèses comprennent une mise en œuvre différée ou une modification des modalités de versement. L'historien doit conserver ces scénarios comme des possibilités distinctes, non les fondre en un récit unique de conflit financier ou de mauvaise administration.
+
+L'étude des deux faces d'une même pierre révèle ainsi une institution en devenir. Elle permet aussi de rappeler que le support matériel possède sa propre chronologie de gravure, de visibilité et de remploi. Une inscription portant plusieurs décisions ne les transforme pas en un règlement émis en un seul jour.
+
+### 6. L'épitaphe de Myrrhinè : de la norme à une titulaire nommée
+
+IG I³ 1330, stèle funéraire de Myrrhinè, fille de Kallimachos, commémore la première prêtresse d'Athéna Nikè. Elle insiste sur sa désignation par tirage au sort « parmi toutes », dans le contexte des femmes athéniennes pertinentes pour la charge. [P3] La formule épigraphique permet de rapprocher une règle civique d'une personne concrète.
+
+Mais un monument funéraire possède ses propres objectifs : honorer une défunte, rappeler une distinction et inscrire un nom dans la mémoire de la cité. Sa louange ne constitue pas une description neutre de la totalité de ses activités. On ne doit pas lui demander une liste annuelle d'offrandes, d'assistants ou de conflits que l'épitaphe ne fournit pas.
+
+Il faut aussi éviter une généralisation sexuelle : l'accès d'une Athénienne à un sacerdoce ne signifie pas que la démocratie ait accordé aux femmes les mêmes droits politiques que ceux des hommes citoyens. La fonction religieuse peut conférer une autorité particulière à l'intérieur d'une organisation civique profondément inégalitaire.
+
+### 7. L'appartenance familiale et l'ouverture par le sort
+
+Les commentaires d'Attic Inscriptions Online situent le cas de la prêtresse de Nikè dans un débat plus large sur les charges longtemps tenues par certains *genē*, groupes de descendance auxquels peuvent être attachées des prérogatives cultuelles. [R1] Le tirage au sort ne supprime pas toute notion d'hérédité. Il modifie le cercle de celles qui sont susceptibles d'être désignées pour cette charge.
+
+Une opposition abstraite entre tradition aristocratique et révolution démocratique serait ici insuffisante. Une cité peut reconnaître les droits de certains lignages et ouvrir simultanément une autre fonction. Il faudrait inventorier les charges effectivement concernées avant de parler d'une transformation générale du système sacerdotal.
+
+Le langage de la sélection « parmi toutes » mérite le même contrôle. Dans un monde de droits différenciés, « toutes » ne signifie pas nécessairement toutes les habitantes sans distinction de statut. La précision du groupe de référence est essentielle pour éviter de projeter notre conception de l'universalité sur une inscription ancienne.
+
+### 8. La comparaison avec Platon : la loi imaginée n'est pas le décret athénien
+
+Les *Lois* de Platon, VI, 759a–760a, proposent de préserver les prêtrises héréditaires existantes et, pour les charges nouvelles, de recourir à la désignation par le sort. Les personnes ainsi choisies doivent être examinées quant à leur statut et à leur pureté ; Platon envisage aussi l'appel à Delphes pour sélectionner des interprètes des prescriptions religieuses. [P4]
+
+Le texte est normatif et philosophique. Il ne constitue pas une chronique de la mise en œuvre de ces règles dans une Athènes historique. Sa valeur comparative est de rendre explicites plusieurs principes de légitimation : respect des droits acquis, sélection aléatoire et contrôle des qualités requises. La présence du hasard dans la désignation ne signifie pas absence de conditions ni d'examen.
+
+Platon distingue en outre les prêtres et les interprètes chargés de la loi religieuse. Cette séparation ouvre l'une de nos questions principales : celui qui accomplit un rite n'est pas nécessairement celui qui a la fonction de fixer, transmettre ou commenter toutes les règles de ce rite.
+
+### 9. Le tirage au sort n'est pas une négation de la compétence
+
+Pour comprendre une nomination par le sort, il faut distinguer sélection et vérification. Le tirage peut déterminer laquelle des personnes appartenant à un groupe recevra une charge ; les exigences d'admissibilité peuvent limiter ce groupe. Chez Platon, l'examen intervient dans une procédure qui n'est donc ni un concours technique ni une attribution sans conditions. [P4]
+
+Cette distinction ne permet pas de supposer que toutes les cités grecques procédaient à une vérification identique. Elle établit un problème intellectuel : comment une société peut-elle reconnaître la validité religieuse d'une nomination sans prétendre mesurer directement le mérite individuel du futur titulaire ? Le sort peut être interprété comme une forme de décision placée sous un signe divin, mais il doit être examiné dans les mots et institutions de chaque source.
+
+Il serait également incorrect de présenter l'élection comme rationnelle et le tirage comme religieux par essence. Des critères politiques, sociaux et religieux peuvent se combiner dans les deux cas. Ce sont les fonctions et les justifications documentées qui permettent de décrire la procédure.
+
+### 10. Ninive : un autre mode de reconnaissance savante
+
+Les correspondances des règnes d'Assarhaddon et d'Assurbanipal montrent des spécialistes qui envoient au souverain des observations, des interprétations et des conseils. Simo Parpola a édité un vaste dossier dans *State Archives of Assyria* 10. [R2] Nous disposons en outre d'objets particuliers, dont la notice du British Museum fournit une identification matérielle.
+
+La tablette K.569, datée du 4 mai 670 avant notre ère par le musée, contient une lettre relative à une prévision astrologique et à un conseil adressé au souverain. Sa découverte à Kouyunjik et son appartenance à une collection savante l'inscrivent dans une documentation autre que les décrets de nomination athéniens. [P5]
+
+Cette tablette n'est pas le certificat professionnel de tous les devins assyriens. Elle atteste une communication spécialisée. La compétence reconnue se manifeste ici dans la possibilité de conseiller le roi par écrit et de participer à un réseau savant de correspondants, non dans un tirage au sort civique.
+
+### 11. Les genres de l'écrit : rapport, observation, avis
+
+Le British Museum décrit K.569 comme une lettre d'astrologie comportant un avis au roi. Il faut conserver la différence entre une observation astronomique, la signification qu'un corpus d'augures peut lui attribuer et la conduite suggérée au pouvoir. L'écrit peut juxtaposer ces éléments sans les rendre conceptuellement identiques. [P5]
+
+On ne peut inférer du seul inventaire du musée la démonstration ligne à ligne de l'interprétation proposée. Pour cela il faudrait ouvrir l'édition, vérifier les signes, identifier la formule d'adresse et les passages lacunaires. Les notices de collection offrent une traçabilité du support ; elles ne remplacent pas une nouvelle collation cunéiforme.
+
+Cette prudence évite de prêter aux savants un langage uniforme. Les fonctions de l'astrologue, du devin des entrailles, de l'exorciste ou du médecin ne sont pas des synonymes. Leur collaboration à la cour ne signifie pas que n'importe quel spécialiste avait l'autorité de se prononcer sur tous les phénomènes.
+
+### 12. Le *Manuel de l'exorciste* : décrire le savoir attendu
+
+Le texte connu comme KAR 44, souvent appelé *Manuel de l'exorciste*, constitue une source importante pour l'histoire des corpus de savoirs rituels. Markham J. Geller en a donné une étude dans un volume sur les catalogues savants assyriens et babyloniens. [P6 ; R3]
+
+Sa fonction doit être décrite avec précision. Une liste de textes ou de domaines à maîtriser renseigne sur une représentation savante de la compétence ; elle n'est pas le dossier individuel de tous les élèves qui auraient réussi une épreuve déterminée. Le terme moderne de « curriculum » peut faciliter l'analyse, à condition de ne pas transformer immédiatement le document en programme scolaire uniforme avec des diplômes comparables aux nôtres.
+
+Il faut aussi distinguer catalogue et pratique. Un spécialiste peut connaître une série parce qu'elle constitue un horizon normatif de son métier ; cela ne prouve pas qu'il disposait matériellement de toutes ses tablettes ni qu'il ait lu l'intégralité de chaque version à un même moment.
+
+### 13. Titre, maîtrise et accès au roi
+
+Une compétence religieuse peut être attestée par la maîtrise d'un corpus, par la reconnaissance d'un supérieur ou par l'accès au destinataire souverain. Ce sont trois données distinctes. La lettre montre une capacité de communiquer ; le catalogue définit des savoirs légitimes ; un titre professionnel situe son porteur dans un réseau social. Aucun de ces éléments ne garantit la même chose que les deux autres.
+
+La comparaison entre Athènes et Ninive révèle une asymétrie qu'il faut respecter. Dans un cas, des pierres gravées règlent publiquement la nomination et les prestations d'une officiant(e) civique ; dans l'autre, la correspondance de cour conserve le produit d'expertises dont les conditions de recrutement ne sont pas intégralement exposées par chaque tablette.
+
+Cette différence de traces pourrait être confondue avec une différence absolue entre démocratie et monarchie. Ce serait méthodologiquement faible. Il faut d'abord chercher quels types de documents chaque pouvoir produisait, conservait et rendait accessibles, avant de comparer les possibilités d'accès à la compétence.
+
+### 14. L'économie des charges et les limites de la notion de salaire
+
+La prêtresse d'Athéna Nikè reçoit, selon IG I³ 35, une prestation monétaire et des parts sacrificielles. Un tel système ne se réduit pas au paiement d'une opération isolée. Il relie la fonction à la régularité du culte et aux ressources de la cité. [P1]
+
+L'enquête doit distinguer revenu déclaré, revenu effectivement versé, privilège cérémoniel et responsabilité matérielle. Une portion sacrificielle peut être une composante d'une charge, sans être assimilable à une prime privée à l'exécution d'un service. On ne sait pas déduire d'une somme gravée le niveau de vie complet d'une titulaire.
+
+Cette précision empêche la comparaison hâtive avec les rémunérations des savants d'une cour. Des mécanismes de subsistance et de patronage peuvent exister dans plusieurs contextes, mais leur unité monétaire, leurs destinataires et leurs obligations ne sont pas directement équivalents. L'expertise possède une économie, sans être partout vendue sur un marché identifiable.
+
+### 15. Le danger des catégories « prêtre », « mage » et « devin »
+
+Le français emploie volontiers « prêtre » pour toute personne qui officie devant une divinité, « mage » pour tout spécialiste d'un rite et « devin » pour toute personne qui conseille sur l'avenir. Une telle commodité peut effacer les frontières locales. Les *magoi* dont parlent les auteurs grecs à propos des Perses ne doivent pas être automatiquement assimilés aux astrologues de Ninive ou aux *exegetai* envisagés par Platon.
+
+Le protocole philologique doit donc préciser la langue, la date, les fonctions associées à un titre et le genre du texte. Un mot peut changer de portée au cours de l'histoire. Un ethnonyme ou un nom de groupe, lorsqu'il passe dans une autre langue, peut y devenir une catégorie de compétence dotée d'autres connotations.
+
+La comparaison n'exige pas de renoncer aux termes généraux. Elle exige de les présenter comme des outils de traduction partiels et révisables. Le mot « expert » convient particulièrement à l'analyse de la compétence reconnue, mais ne remplace pas les titres anciens, les relations de patronage et les procédures de désignation.
+
+### 16. Philosophie de l'institution : reconnaissance et vérification
+
+La distinction entre aptitude, investiture et exercice permet une lecture philosophique. Une personne peut être jugée compétente mais non autorisée à officier ; elle peut être investie par une règle même si l'étendue de ses savoirs reste inconnue ; elle peut enfin intervenir de façon efficace sans que sa position devienne un office stable. Ce sont des possibilités logiques, et non des biographies inventées pour les spécialistes antiques.
+
+Durkheim aide à formuler le problème de la reconnaissance collective des fonctions ; Hegel, celui de l'inscription d'une activité dans des institutions objectives ; Vernant, celui de la pluralité des médiations religieuses dans la cité ; Detienne, celui d'une comparaison qui respecte la spécificité des dispositifs. Ces rapprochements constituent des lectures proposées par MYTHOS, pas des citations d'analyses portant spécifiquement sur K.569.
+
+La question de l'objectivité est également délicate. Une procédure publiquement réglée peut être jugée légitime sans qu'elle mesure la vérité de toutes les croyances attachées à la fonction. Une compétence savante peut être démontrable sur un corpus sans rendre infaillible toute prédiction future. L'autorisation d'agir et la validité causale d'une explication doivent rester distinctes.
+
+### 17. Une perspective critique sur la légitimité
+
+Les sociétés anciennes ne se laissent pas diviser entre celles qui choisissaient leurs religieux par la naissance, celles qui les choisissaient par hasard et celles qui auraient découvert l'expertise. Les décrets athéniens font coexister plusieurs mécanismes ; Platon pense leur combinaison ; les archives assyriennes donnent accès à des réseaux savants distincts. La question pertinente n'est pas de classer des civilisations entières, mais d'établir par quel ensemble de règles une fonction précise devient reconnue.
+
+Notre comparaison ne propose aucune filiation entre Athènes et l'Assyrie. Elle n'infère pas non plus un centre unique d'invention des institutions religieuses. Les liens historiques éventuels doivent être démontrés par des médiateurs, des chronologies et des formes de transfert vérifiables. Une ressemblance de fonction n'est pas une preuve de transmission.
+
+### 18. Résultats : attesté, discuté, hypothétique
+
+**Attesté** : IG I³ 35 et 36 organisent et précisent une prêtrise civique avec des prestations ; IG I³ 1330 commémore Myrrhinè comme première titulaire ; Platon propose des mécanismes distincts de sélection et d'examen ; la tablette K.569 atteste une lettre d'expertise astrologique à un roi assyrien ; KAR 44 est un témoin de la représentation savante du savoir rituel. [P1–P6]
+
+**Discuté** : les dates précises des premières dispositions athéniennes ; le délai entre la mise en place de la charge et le paiement ; les modalités d'apprentissage propres à chaque spécialiste de Ninive ; la portée normative de KAR 44 ; l'extension sociale et géographique des institutions étudiées.
+
+**Hypothèse de travail** : le pouvoir de l'expert dépend au moins autant d'un régime de reconnaissance — nomination, titre, corpus, réseau et prestations — que d'une aptitude individuelle impossible à mesurer directement par les seules sources disponibles. Cette proposition ne résout pas la vérité des présages et ne doit pas être employée pour supposer toute autorité nécessairement trompeuse.
+
+### 19. Conclusion : de la personne au dispositif
+
+On peut posséder des connaissances religieuses sans posséder une charge ; on peut être choisi pour une charge sans qu'un concours d'érudition en soit la condition ; on peut conseiller un souverain sans être un officiant de sanctuaire. Le cas de la prêtresse d'Athéna Nikè oblige à regarder la règle de désignation et ses effets matériels. Les tablettes savantes de Ninive obligent à considérer la maîtrise des corpus et la circulation des avis.
+
+La suite thématique pourra examiner la contestation d'une autorité reconnue : rivalité entre interprètes, accusation de détournement et procédures de contrôle. Avant toute nouvelle livraison, l'état des études déjà publiées et des demandes en attente devra être relu ; aucun numéro n'est réservé ici.
+
+### Sources primaires, inscriptions et bibliographie contrôlées
+
+- **[P1]** Athènes, **IG I³ 35**, « Decree about priestess and temple of Athena Nike », édition, traduction et notes de *Attic Inscriptions Online*, AIO 314 : [texte et commentaire](https://www.atticinscriptions.com/inscription/IGI3/35). La datation et les restitutions sont discutées dans la notice ; les sommes et avantages sont repris dans les limites des lectures publiées.
+- **[P2]** Athènes, **IG I³ 36**, décret sur le paiement de la prêtresse, au revers de la stèle précédente ; [notice, traduction et datation discutée](https://www.atticinscriptions.com/inscription/IGI3/36).
+- **[P3]** Athènes, **IG I³ 1330**, épitaphe de Myrrhinè, première prêtresse d'Athéna Nikè ; [texte et commentaire, AIO](https://www.atticinscriptions.com/inscription/IGI3/1330).
+- **[P4]** Platon, *Lois*, livre VI, **759a–760a**, en particulier 759b–e, sur les prêtrises, le sort, l'examen et les interprètes ; [texte et traduction de R. G. Bury, Perseus](https://beta.perseus.tufts.edu/urn:cts:greekLit:tlg0059.tlg034.perseus-eng2:6/). Le texte philosophique n'est pas présenté comme une législation athénienne réellement entrée en vigueur.
+- **[P5]** British Museum, **K.569**, tablette néo-assyrienne, correspondance savante astrologique concernant Assarhaddon, datation muséale : **4 mai 670 av. J.-C.** ; [notice de l'objet](https://www.britishmuseum.org/collection/object/W_K-569). Ce dossier s'appuie sur l'identification institutionnelle ; il ne prétend pas fournir une nouvelle édition complète des lignes cunéiformes.
+- **[P6]** Texte dit **KAR 44**, *Manuel de l'exorciste*, présenté et étudié dans Geller [R3] ; aucune liste de compétences n'est citée mot pour mot sans vérification de sa lecture.
+- **[R1]** Josine H. Blok, « The Priestess of Athena Nike: A New Reading of IG I³ 35 and 36 », *Kernos* 27, 2014, p. 99–126 ; [repère bibliographique et éditions associées d'Attic Inscriptions Online](https://www.atticinscriptions.com/browse/bysource/BlokAthenaNike/). Voir les commentaires de P1 à P3 pour les débats.
+- **[R2]** Simo Parpola, *Letters from Assyrian and Babylonian Scholars*, *State Archives of Assyria* 10, Helsinki, 1993 ; repérage matériel du dossier K.569 dans [British Museum, P5](https://www.britishmuseum.org/collection/object/W_K-569). Cette référence ne remplace pas une lecture ligne à ligne de toutes les lettres.
+- **[R3]** Markham J. Geller, « The Exorcist's Manual (KAR 44) », dans Ulrike Steinert (dir.), *Assyrian and Babylonian Scholarly Text Catalogues: Medicine, Magic and Divination*, De Gruyter, 2018, p. 292–312 ; [notice académique et édition ouverte, University College London](https://discovery.ucl.ac.uk/id/eprint/10050563/). La présente étude ne prétend pas avoir recollationné la tablette.
+- **[R4]** Stephen Lambert, Josine Blok et Robin Osborne, traductions et commentaires des inscriptions athéniennes cités dans [Attic Inscriptions Online](https://www.atticinscriptions.com/), avec les références bibliographiques propres à chaque objet.
+
+**Continuité intellectuelle** : ce dossier complète les enquêtes MYTHOS sur les archives sacerdotales, la variation des textes rituels, les prophétesses et le statut des interprètes. Les références anciennes, les numéros d'inscriptions et les dates ne seront pas convertis par la file de publication.
