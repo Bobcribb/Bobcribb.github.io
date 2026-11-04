@@ -1,0 +1,85 @@
+name: Énéide — édition critique, PDF et contrôles
+
+on:
+  pull_request:
+    paths:
+      - 'corpus/philosophie/eneide/**'
+      - 'scripts/render_eneide.py'
+      - 'scripts/fetch_eneide_art.py'
+      - 'scripts/verify_eneide_extension.py'
+      - 'scripts/verify_eneide_mobile.cjs'
+      - 'assets/philosophie/eneide-original-hashes.json'
+      - '.github/workflows/eneide-edition.yml'
+  push:
+    branches: [main]
+    paths:
+      - 'corpus/philosophie/eneide/**'
+      - 'scripts/render_eneide.py'
+      - 'scripts/fetch_eneide_art.py'
+      - 'scripts/verify_eneide_extension.py'
+      - 'scripts/verify_eneide_mobile.cjs'
+      - '.github/workflows/eneide-edition.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: eneide-edition-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 25
+    steps:
+      - name: Récupérer la branche exacte de l’étude
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref || github.ref_name }}
+          persist-credentials: true
+      - name: Préparer Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Installer les bibliothèques et polices de composition A4
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y libpango-1.0-0 libpangoft2-1.0-0 fonts-dejavu-core fonts-urw-base35
+          python -m pip install -r requirements.txt pillow==11.3.0
+      - name: Vérifier les droits et archiver les images du Metropolitan Museum
+        run: python scripts/fetch_eneide_art.py
+      - name: Recomposer le PDF, son sommaire et la page MYTHOS
+        run: python scripts/render_eneide.py
+      - name: Vérifier la conservation des 18 sources et la pagination réelle
+        run: python scripts/verify_eneide_extension.py
+      - name: Installer Chromium pour les essais responsive
+        run: |
+          npm install --prefix /tmp/eneide-browser playwright@1.58.2
+          /tmp/eneide-browser/node_modules/.bin/playwright install --with-deps chromium
+      - name: Tester la lecture téléphone, tablette, les illustrations et les liens
+        run: |
+          python -m http.server 8765 --bind 127.0.0.1 >/tmp/eneide-http.log 2>&1 &
+          sleep 3
+          NODE_PATH=/tmp/eneide-browser/node_modules node scripts/verify_eneide_mobile.cjs
+      - name: Conserver le PDF et les preuves de contrôle
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: eneide-etude-a4-controles
+          path: |
+            assets/philosophie/pdf/eneide-etude-a4.pdf
+            assets/philosophie/eneide-pagination.json
+            assets/philosophie/eneide-art-sources.json
+            /tmp/mythos-eneide-mobile/*.png
+          if-no-files-found: warn
+      - name: Intégrer les artefacts vérifiés dans la branche MYTHOS
+        if: success() && (github.event_name == 'pull_request' || github.event_name == 'push' || github.event_name == 'workflow_dispatch')
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- assets/philosophie/eneide assets/philosophie/eneide-pagination.json assets/philosophie/eneide-art-sources.json assets/philosophie/pdf/eneide-etude-a4.pdf philosophie-eneide.html
+          if ! git diff --cached --quiet; then
+            git commit -m 'Actualiser la monographie de l’Énéide et ses preuves de pagination'
+            git push origin "HEAD:refs/heads/${GITHUB_HEAD_REF:-main}"
+          fi
