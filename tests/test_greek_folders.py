@@ -7,10 +7,16 @@ import unittest
 from bs4 import BeautifulSoup
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'scripts'))
-from build_greek_folders import BASE, build, classify, inventory, verify, LEGACY_FOLDERS
+from build_greek_folders import BASE, build, classify, inventory, verify, LEGACY_FOLDERS, CSS
 
 
 class GreekFolderTests(unittest.TestCase):
+    def test_thematic_links_are_touch_accessible_without_reflowing_books(self):
+        self.assertIn('.greek-folder-links a{display:flex;align-items:center;min-height:44px', CSS)
+        self.assertIn('overflow-wrap:anywhere', CSS)
+        self.assertIn('@media(max-width:700px)', CSS)
+        self.assertIn('.greek-folder-toc a:focus-visible', CSS)
+
     def test_single_greek_encyclopedia_entry_in_both_menus(self):
         from apply_museum_design import header
         doc = header('/mythologie-grecque/')
