@@ -20,18 +20,22 @@
     "broken_local_anchors_on_audited_pages": 0,
     "img_elements_missing_alt_on_audited_pages": 0,
     "changes": [
-      "Nouveau fichier tests/test_iconography_audit_paths_20261104.py : existence des CSS/JS/images et pages référencées dans 12 lecteurs, unicité des identifiants et liens locaux, texte alternatif des images, correspondance des ancres sur neuf fiches archéologiques et la galerie photoréaliste."
+      "Nouveau fichier tests/test_iconography_audit_paths_20261104.py : existence des CSS/JS/images et pages référencées dans 12 lecteurs, unicité des identifiants et liens locaux, texte alternatif des images, correspondance des ancres sur neuf fiches archéologiques et la galerie photoréaliste.",
+      "Correction du faux positif de régression sur les liens sans fragment, sans modifier aucune page publique (commit 144bc54231e317516a7ef2f3745ac82c9116c01a)."
     ],
     "scientific_and_numbering_audit": "AGENTS.md et docs/PUBLICATION_CONCURRENTE.md relus. Aucun manuscrit nouveau numéroté, numéro, ancien sommaire, référence primaire ni registre modifié. Vérification de cohérence scientifique limitée aux sources déjà documentées; les références externes exhaustives restent hors périmètre.",
-    "legacy_assets_open": "Les archives grecques historiques référencent encore sept noms d'images disparues de corpus/mythologie-grecque/archives/assets/img (olympiens, cycles, carte, heros, genealogie, hero, tableau-dieux). Le script historique assets/app.js existe. Remplacer sans disposer des œuvres exactes et de leur provenance risquerait de fausser les illustrations ; aucune substitution trompeuse exécutée.",
+    "legacy_assets_open": "Nouvelle relecture des 14 HTML historiques du dossier corpus/mythologie-grecque/archives/ : aucune référence actuelle aux sept anciens noms d'images manquantes listés par le rapport historique. Sur 162 expressions de chemin CSS/JS/image, 161 ressources locales littérales sont présentes dans l'arbre main ; la dernière expression ${esc(img)} appartient à un gabarit JavaScript, pas à une URL littérale. Le script archives/assets/app.js existe. L'alerte ancienne des 38 références n'est donc pas reproductible sur main aujourd'hui ; ne pas réintroduire ces anciennes images.",
     "prior_ci_issue": "Run 41817520796 au commit 6ae37a2b : 130 tests, un échec sur l'ordre des liens du sommaire automatique inséré avant le renvoi d'auteur dans test_museum_hierarchy. Correctif concurrent 4a69efb71888 ajouté sur main; sa CI était en cours au point de contrôle. Ce constat n'est pas imputé aux nouvelles figures.",
-    "tests": "Le nouvel essai de CI 41817933248 (commit 5dd0ec1c...) a été déclenché et restait en cours au moment du rapport; ne pas interpréter les contrôles de prélecture comme une exécution locale de la suite Python complète.",
+    "tests": "Premier workflow 41817933248 sur 5dd0ec1 : 133 tests, un échec causé par le nouveau contrôle qui exigeait à tort un fragment sur un lien valide vers la page photoréaliste sans ancre. Correction ciblée et relue au commit 144bc54231e317516a7ef2f3745ac82c9116c01a. Workflow de reprise 41818131515 : étape des tests unitaires/attribution concurrente réussie, contrôle des illustrations réussi, reconstruction du site en cours au dernier contrôle; succès complet non encore attesté.",
     "public_deployment_status": "Reçu HTTPS accessible au contrôle : /catalog/publication-verification.json annonce source_commit=9f7d7d32cc30fb0396ed2347e15b4e73e9262b4e et github_run_id=41814121404. Ce reçu est antérieur aux modifications auditées ; la publication publique de ce commit et celle des figures récentes ne sont pas confirmées.",
     "preserved": "Aucun texte, sommaire, navigation, numérotation, illustration, registre éditorial, workflow ni planification horaire modifié.",
     "obstacles": "Exécution CI de ce commit encore en cours; validation A4 et contrôle visuel mobile non exécutés. Grand volume historique de 27 tomes signalé avec identifiants HTML répétés, non corrigé faute d'analyse sûre des renvois à chaque tome. Le domaine et la présence des documents ne suffisent pas à démontrer leur dernière version déployée.",
     "commits": [
-      "5dd0ec1c878ac06a938f4ada6a9fabcc3c880dbf"
-    ]
+      "5dd0ec1c878ac06a938f4ada6a9fabcc3c880dbf",
+      "144bc54231e317516a7ef2f3745ac82c9116c01a"
+    ],
+    "audited_archival_pages": 14,
+    "checked_literal_archival_assets": 161
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
   "history": [
@@ -888,18 +892,22 @@
       "broken_local_anchors_on_audited_pages": 0,
       "img_elements_missing_alt_on_audited_pages": 0,
       "changes": [
-        "Nouveau fichier tests/test_iconography_audit_paths_20261104.py : existence des CSS/JS/images et pages référencées dans 12 lecteurs, unicité des identifiants et liens locaux, texte alternatif des images, correspondance des ancres sur neuf fiches archéologiques et la galerie photoréaliste."
+        "Nouveau fichier tests/test_iconography_audit_paths_20261104.py : existence des CSS/JS/images et pages référencées dans 12 lecteurs, unicité des identifiants et liens locaux, texte alternatif des images, correspondance des ancres sur neuf fiches archéologiques et la galerie photoréaliste.",
+        "Correction du faux positif de régression sur les liens sans fragment, sans modifier aucune page publique (commit 144bc54231e317516a7ef2f3745ac82c9116c01a)."
       ],
       "scientific_and_numbering_audit": "AGENTS.md et docs/PUBLICATION_CONCURRENTE.md relus. Aucun manuscrit nouveau numéroté, numéro, ancien sommaire, référence primaire ni registre modifié. Vérification de cohérence scientifique limitée aux sources déjà documentées; les références externes exhaustives restent hors périmètre.",
-      "legacy_assets_open": "Les archives grecques historiques référencent encore sept noms d'images disparues de corpus/mythologie-grecque/archives/assets/img (olympiens, cycles, carte, heros, genealogie, hero, tableau-dieux). Le script historique assets/app.js existe. Remplacer sans disposer des œuvres exactes et de leur provenance risquerait de fausser les illustrations ; aucune substitution trompeuse exécutée.",
+      "legacy_assets_open": "Nouvelle relecture des 14 HTML historiques du dossier corpus/mythologie-grecque/archives/ : aucune référence actuelle aux sept anciens noms d'images manquantes listés par le rapport historique. Sur 162 expressions de chemin CSS/JS/image, 161 ressources locales littérales sont présentes dans l'arbre main ; la dernière expression ${esc(img)} appartient à un gabarit JavaScript, pas à une URL littérale. Le script archives/assets/app.js existe. L'alerte ancienne des 38 références n'est donc pas reproductible sur main aujourd'hui ; ne pas réintroduire ces anciennes images.",
       "prior_ci_issue": "Run 41817520796 au commit 6ae37a2b : 130 tests, un échec sur l'ordre des liens du sommaire automatique inséré avant le renvoi d'auteur dans test_museum_hierarchy. Correctif concurrent 4a69efb71888 ajouté sur main; sa CI était en cours au point de contrôle. Ce constat n'est pas imputé aux nouvelles figures.",
-      "tests": "Le nouvel essai de CI 41817933248 (commit 5dd0ec1c...) a été déclenché et restait en cours au moment du rapport; ne pas interpréter les contrôles de prélecture comme une exécution locale de la suite Python complète.",
+      "tests": "Premier workflow 41817933248 sur 5dd0ec1 : 133 tests, un échec causé par le nouveau contrôle qui exigeait à tort un fragment sur un lien valide vers la page photoréaliste sans ancre. Correction ciblée et relue au commit 144bc54231e317516a7ef2f3745ac82c9116c01a. Workflow de reprise 41818131515 : étape des tests unitaires/attribution concurrente réussie, contrôle des illustrations réussi, reconstruction du site en cours au dernier contrôle; succès complet non encore attesté.",
       "public_deployment_status": "Reçu HTTPS accessible au contrôle : /catalog/publication-verification.json annonce source_commit=9f7d7d32cc30fb0396ed2347e15b4e73e9262b4e et github_run_id=41814121404. Ce reçu est antérieur aux modifications auditées ; la publication publique de ce commit et celle des figures récentes ne sont pas confirmées.",
       "preserved": "Aucun texte, sommaire, navigation, numérotation, illustration, registre éditorial, workflow ni planification horaire modifié.",
       "obstacles": "Exécution CI de ce commit encore en cours; validation A4 et contrôle visuel mobile non exécutés. Grand volume historique de 27 tomes signalé avec identifiants HTML répétés, non corrigé faute d'analyse sûre des renvois à chaque tome. Le domaine et la présence des documents ne suffisent pas à démontrer leur dernière version déployée.",
       "commits": [
-        "5dd0ec1c878ac06a938f4ada6a9fabcc3c880dbf"
-      ]
+        "5dd0ec1c878ac06a938f4ada6a9fabcc3c880dbf",
+        "144bc54231e317516a7ef2f3745ac82c9116c01a"
+      ],
+      "audited_archival_pages": 14,
+      "checked_literal_archival_assets": 161
     }
   ]
 }
