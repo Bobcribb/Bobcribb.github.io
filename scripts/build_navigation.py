@@ -1099,8 +1099,8 @@ def create_comparative_mythology(entries):
       ("Cosmogonies et théogonies","cosmogon|theogon|enuma|creation|pangu|primordial"),
       ("Dieux et souveraineté","zeus|marduk|indra|enlil|pantheon|souverainete"),
       ("Héros et épopées","heracl|gilgames|achille|odysse|iliade|epopee|argonaut"),
-      ("Déluges et catastrophes","deluge|deucalion|utnapisht|cataclysm"),
-      ("Mort et au-delà","persephone|hades|osiris|inanna|funeraire|resurrect"),
+      ("Déluges et catastrophes","deluge|deucalion|utnapisht|cataclysm|peste|epidem"),
+      ("Mort et au-delà","persephone|hades|osiris|inanna|funeraire|resurrect|etemmu|fravashi|composantes.personne"),
       ("Rites et sanctuaires","rituel|sacrific|eleus|sanctuaire|oracle|temple|culte"),
       ("Dumézil et comparatisme indo-européen","dumezil|trifonction|indo.europe|mythologie.comparee"),
       ("Méthodes et débats","vernant|detienne|eliade|structural|historiograph|comparatis|philolog")
