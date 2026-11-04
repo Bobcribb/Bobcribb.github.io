@@ -5,29 +5,76 @@
   "branch": "main",
   "latest_session": {
     "date": "2026-11-04",
-    "kind": "AUDIT ET CORRECTION",
-    "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "scope": "Audit de 10 pages dont les trois monographies, l'atlas et le portail ; vérification des trois nouveaux SVG publics ; renforcement du contrôle post-déploiement des SVG philosophiques.",
-    "checked_html_pages": 10,
-    "monograph_image_counts": {
+    "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "previous_kind": "AUDIT ET CORRECTION",
+    "next_kind": "AUDIT ET CORRECTION",
+    "scope": "Enrichissement ciblé de trois études déjà présentes : quatre moments de Priam et Achille (Iliade XXIV), lit d'olivier et signe de reconnaissance (Odyssée XXIII), conservation des parts honorifiques d'Hécate (Théogonie 411–452).",
+    "checked_html_pages": 3,
+    "source_illustrations_added": 3,
+    "html_figures_added": 3,
+    "monograph_image_counts_before": {
       "Iliade": 16,
       "Odyssée": 15,
       "Théogonie": 18
     },
-    "checks": "Pour 10 fichiers HTML existants, aucun id dupliqué, ancre interne absente ou img sans attribut alt détecté. 37 SVG de /assets/philosophie référencés dans les trois monographies ont été vérifiés présents sur main par lecture GitHub. Les références CSS/JS relatives de l'atlas et de Cultes et cités ne sont pas cassées : leurs fichiers existent dans le sous-répertoire archives/assets. AGENTS.md et docs/PUBLICATION_CONCURRENTE.md relus avant modifications.",
-    "verified_gap": "La vérification post-déploiement scripts/verify_live_site.py contrôlait les pages HTML et PDF mais pas les SVG philosophiques ; le déploiement d'un contenu ancien pouvait passer si le catalogue restait identique. Ce trou de contrôle est corrigé par contrôle des liens SVG présents dans les trois HTML publics, validation de chaque SVG interne au build et comparaison SHA-256 des octets publics aux fichiers _site.",
-    "new_tests": "tests/test_verify_live_site_assets.py ; validation synthétique locale des fonctions d'inventaire, des trois renvois HTML et de la détection d'un SVG altéré. La suite complète Python/CI n'a pas été exécutée localement.",
-    "public_deployment_status": "Contrôle indépendant HTTPS du 4 novembre 2026 via navigateur tiers : /catalog/publication-verification.json indique source_commit=5a41a3a37fd211bf79b30344770894163ad9e446, github_run_id=41773521901, 1174 documents indexés, 27 archives, 110 médias. Les trois SVG de la séance iconographique précédente s'ouvrent maintenant sous bobmythos.fr. Leurs octets n'ont pas été comparés au build pendant cet audit ; le nouveau contrôle automatisé reste à valider lors du prochain déploiement. Le commit du script correctif n'est pas confirmé publiquement.",
-    "commits": [
-      "aba3cc5ffdc691bac1eab14faec0a1773081d1cb",
-      "f7c8431b5d4a07e2776d046fd0ee1145e330d3cf"
+    "monograph_image_counts_after": {
+      "Iliade": 17,
+      "Odyssée": 16,
+      "Théogonie": 19
+    },
+    "new_assets": [
+      "assets/philosophie/iliade-priam-gestes-paix-20261104.svg",
+      "assets/philosophie/odyssee-lit-olivier-signe-20261104.svg",
+      "assets/philosophie/theogonie-hecate-parts-20261104.svg"
     ],
-    "content_preserved": "Aucun texte universitaire, chapitre, numéro, navigation, registre d'attribution ou fichier éditorial modifié. Le workflow et les horaires/automatisations ne sont pas changés.",
-    "obstacles": "Site inaccessible par l'outil web classique ; contrôle public de secours effectué. Pas de tests Python intégraux, de refonte responsive, ni de rerendu de pagination PDF lors de cette séance. La réussite du déploiement déclenché par le correctif reste à confirmer."
+    "modified_pages": [
+      "philosophie-iliade.html",
+      "philosophie-odyssee.html",
+      "philosophie-theogonie.html"
+    ],
+    "primary_references": [
+      "Homère, Iliade XXIV, 477–516, 580–601, 656–672 (texte vérifié : https://www.theoi.com/Text/HomerIliad24.html)",
+      "Homère, Odyssée XXIII, 177–230 (texte vérifié : https://www.theoi.com/Text/HomerOdyssey23.html)",
+      "Hésiode, Théogonie 411–452 (texte vérifié : https://www.theoi.com/Text/HesiodTheogony.html)"
+    ],
+    "verification": "Les trois SVG créés puis relus sur main. Les trois HTML ont été relus après commit et correspondent aux contenus enregistrés. Aucune ancre interne manquante, aucun id HTML dupliqué, aucun img sans alt ; présence vérifiée sur main pour les trois nouveaux chemins SVG. SVG 2D, sans perspective 2,5D, avec <title> et <desc>, légendes, sources, datation et mention d'assistance IA. CSS mythos-iconographie.css contrôlé : images à width:100%; height:auto et règles @media. Estimation texte HTML sans balises : Iliade 53 182, Odyssée 51 250, Théogonie 51 796 mots. Pagination PDF A4 non rerendue.",
+    "public_deployment_status": "Contrôle HTTPS indépendant du 4 novembre 2026 : https://bobmythos.fr/catalog/publication-verification.json indique source_commit=b1656386717c0f57ff76104701ca20db5672a870, github_run_id=41780843588, 1182 documents indexés, 27 archives, 110 médias. Les trois nouveaux SVG renvoient HTTP 404 sur bobmythos.fr au moment du contrôle (pas encore déployés publiquement). Impossible de confirmer la publication des six commits.",
+    "content_preserved": "Textes des études, sommaires, navigation, numérotations, registres d'attribution et automatisations inchangés ; insertion de trois figures et trois nouveaux fichiers iconographiques uniquement, puis mise à jour du journal.",
+    "obstacles": "Le reçu public correspond à un commit antérieur aux ajouts de cette séance ; 3 SVG publics encore 404. Suite de tests Python, build complet, rendu multi-écrans et pagination PDF A4 non exécutés pendant cette séance. Web direct inaccessible, vérification HTTPS de secours via navigateur tiers.",
+    "commits": [
+      "67759b212a565ade48c8fa4d0a473cc5969aa409",
+      "22f719953e18b9640eb40d7f5a47f4398140d45b",
+      "9b628e1d739361b6f5f1ff9ae0b3ca58cd205860",
+      "c0abc9a96cc9aff43a7680427c5f099e9a7a6e43",
+      "d45d867cecc5dae338bbe46ab5a0a3bf6ecd7792",
+      "2396b510e52d5ed8b392cc22b49a68ab6338123d"
+    ]
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
   "history": [
+    {
+      "date": "2026-11-04",
+      "kind": "AUDIT ET CORRECTION",
+      "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "scope": "Audit de 10 pages dont les trois monographies, l'atlas et le portail ; vérification des trois nouveaux SVG publics ; renforcement du contrôle post-déploiement des SVG philosophiques.",
+      "checked_html_pages": 10,
+      "monograph_image_counts": {
+        "Iliade": 16,
+        "Odyssée": 15,
+        "Théogonie": 18
+      },
+      "checks": "Pour 10 fichiers HTML existants, aucun id dupliqué, ancre interne absente ou img sans attribut alt détecté. 37 SVG de /assets/philosophie référencés dans les trois monographies ont été vérifiés présents sur main par lecture GitHub. Les références CSS/JS relatives de l'atlas et de Cultes et cités ne sont pas cassées : leurs fichiers existent dans le sous-répertoire archives/assets. AGENTS.md et docs/PUBLICATION_CONCURRENTE.md relus avant modifications.",
+      "verified_gap": "La vérification post-déploiement scripts/verify_live_site.py contrôlait les pages HTML et PDF mais pas les SVG philosophiques ; le déploiement d'un contenu ancien pouvait passer si le catalogue restait identique. Ce trou de contrôle est corrigé par contrôle des liens SVG présents dans les trois HTML publics, validation de chaque SVG interne au build et comparaison SHA-256 des octets publics aux fichiers _site.",
+      "new_tests": "tests/test_verify_live_site_assets.py ; validation synthétique locale des fonctions d'inventaire, des trois renvois HTML et de la détection d'un SVG altéré. La suite complète Python/CI n'a pas été exécutée localement.",
+      "public_deployment_status": "Contrôle indépendant HTTPS du 4 novembre 2026 via navigateur tiers : /catalog/publication-verification.json indique source_commit=5a41a3a37fd211bf79b30344770894163ad9e446, github_run_id=41773521901, 1174 documents indexés, 27 archives, 110 médias. Les trois SVG de la séance iconographique précédente s'ouvrent maintenant sous bobmythos.fr. Leurs octets n'ont pas été comparés au build pendant cet audit ; le nouveau contrôle automatisé reste à valider lors du prochain déploiement. Le commit du script correctif n'est pas confirmé publiquement.",
+      "commits": [
+        "aba3cc5ffdc691bac1eab14faec0a1773081d1cb",
+        "f7c8431b5d4a07e2776d046fd0ee1145e330d3cf"
+      ],
+      "content_preserved": "Aucun texte universitaire, chapitre, numéro, navigation, registre d'attribution ou fichier éditorial modifié. Le workflow et les horaires/automatisations ne sont pas changés.",
+      "obstacles": "Site inaccessible par l'outil web classique ; contrôle public de secours effectué. Pas de tests Python intégraux, de refonte responsive, ni de rerendu de pagination PDF lors de cette séance. La réussite du déploiement déclenché par le correctif reste à confirmer."
+    },
     {
       "date": "2026-11-04",
       "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
