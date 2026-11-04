@@ -132,6 +132,67 @@ class SiteAuditFixTests(unittest.TestCase):
         self.assertEqual(archive_heading.get_text(strip=True), 'Origines du sacré')
         self.assertIsNotNone(page.select_one('#numerotation-origines-du-sacre'))
 
+    def test_archive_images_are_local_without_touching_scholarly_sources(self):
+        source = self.root / "source"
+        output = self.root / "output"
+        page = source / "corpus/mythologie-grecque/archives/lecture.html"
+        page.parent.mkdir(parents=True)
+        media = source / "media/2026/10/mythos-atteste.jpg"
+        media.parent.mkdir(parents=True)
+        media.write_bytes(b"same-photo-bytes")
+        old_photo = ("https://bobmythos.wordpress.com/wp-content/uploads/"
+                     "2026/10/mythos-atteste.jpg")
+        lost_photo = ("https://bobmythos.wordpress.com/wp-content/uploads/"
+                      "2026/10/photo-non-retrouvee.jpg")
+        authored = (
+            '<html><head><title>Archives grecques</title></head>'
+            '<body><main><article><p>Homère, αἰδώς, bibliographie et sources.</p>'
+            '<img src="' + old_photo + '" alt="Objet grec attesté">'
+            '<script>const image = "' + old_photo + '";</script>'
+            '<img src="' + lost_photo + '" alt="Image historique manquante">'
+            '<a href="https://example.org/source">Source de l’étude</a>'
+            '</article></main><script src="assets/app.js"></script>'
+            '<script defer src="/assets/mythos-reading.js"></script>'
+            '</body></html>')
+        page.write_text(authored, encoding="utf-8")
+        with patch.object(build, 'ROOT', source), patch.object(build, 'OUT', output), \
+                patch.object(build, 'MIN_HTML_PAGES', 0), patch.object(build, 'MIN_MEDIA_FILES', 0):
+            build.copy_repository()
+        published = output / "corpus/mythologie-grecque/archives/lecture.html"
+        html = published.read_text(encoding="utf-8")
+        doc = BeautifulSoup(html, "html.parser")
+        self.assertEqual(doc.img['src'], '/media/2026/10/mythos-atteste.jpg')
+        self.assertIn('"/media/2026/10/mythos-atteste.jpg"', doc.script.string)
+        self.assertEqual(doc.select('img')[1]['src'], lost_photo,
+                         "Ne pas inventer de substitut si l’original est absent")
+        self.assertFalse(doc.select('script[src="assets/app.js"]'))
+        self.assertEqual(len(doc.select('script[src="/assets/mythos-reading.js"]')), 1)
+        self.assertEqual(len(doc.select('a[href="https://example.org/source"]')), 1)
+        self.assertIn("Homère, αἰδώς, bibliographie et sources.", doc.get_text(" ", strip=True))
+        self.assertEqual(page.read_text(encoding="utf-8"), authored,
+                         "Les archives universitaires originales sont immuables")
+        self.assertEqual((output / "media/2026/10/mythos-atteste.jpg").read_bytes(),
+                         b"same-photo-bytes")
+
+    def test_existing_legacy_archive_script_is_not_removed(self):
+        source = self.root / "sources"
+        output = self.root / "site"
+        page = source / "corpus/mythologie-grecque/archives/livre.html"
+        script = page.parent / "assets/app.js"
+        script.parent.mkdir(parents=True)
+        script.write_text('"use strict";', encoding="utf-8")
+        page.write_text('<html><head><title>Livre</title></head><body>'
+                        '<p>Texte conservé</p><script src="assets/app.js"></script>'
+                        '</body></html>', encoding="utf-8")
+        with patch.object(build, 'ROOT', source), patch.object(build, 'OUT', output), \
+                patch.object(build, 'MIN_HTML_PAGES', 0), patch.object(build, 'MIN_MEDIA_FILES', 0):
+            build.copy_repository()
+        published = output / "corpus/mythologie-grecque/archives/livre.html"
+        self.assertTrue(BeautifulSoup(published.read_text(), "html.parser").select(
+            'script[src="assets/app.js"]'))
+        self.assertEqual((output / "corpus/mythologie-grecque/archives/assets/app.js").read_text(),
+                         '"use strict";')
+
     def test_archived_spa_hash_is_not_misreported_as_missing_anchor(self):
         from improve_reading import audit
         self.write('catalog/entries.json', '{"entries": []}')

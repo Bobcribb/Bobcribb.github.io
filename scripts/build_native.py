@@ -102,10 +102,24 @@ def copy_repository():
                 linked_sources.add(rel_source.as_posix())
     # Les livres archivés proviennent d'un ancien export à fichiers plats.
     # Raccorder les liens absents à leur page migrée, seulement si elle existe.
+    # Les archives sources restent inchangées : ces réparations concernent
+    # exclusivement leurs copies dans _site.
     archive = OUT / "corpus" / "mythologie-grecque" / "archives"
+    legacy_media_url = re.compile(
+        r"https?://bobmythos\\.wordpress\\.com/wp-content/uploads/2026/10/"
+        r"([A-Za-z0-9_.%-]+\\.(?:jpg|jpeg|png|webp))", re.IGNORECASE)
     for page in archive.glob("*.html"):
-        doc = BeautifulSoup(page.read_text(encoding="utf-8"), "html.parser")
-        changed = False
+        original_html = page.read_text(encoding="utf-8")
+        # Les URL sont parfois dans du JavaScript intégré : une substitution
+        # HTML via les seuls <img> les manquerait. Toute photo doit exister
+        # localement, sous le même nom, avant le changement d'adresse.
+        def local_image(match):
+            filename = match.group(1)
+            target = OUT / "media" / "2026" / "10" / filename
+            return "/media/2026/10/" + filename if target.is_file() else match.group(0)
+        local_html = legacy_media_url.sub(local_image, original_html)
+        doc = BeautifulSoup(local_html, "html.parser")
+        changed = local_html != original_html
         for anchor in doc.find_all("a", href=True):
             link = urlsplit(str(anchor["href"]))
             if link.scheme or link.netloc or "/" in link.path or not link.path.endswith(".html"):
@@ -115,6 +129,13 @@ def copy_repository():
             migrated = OUT / Path(link.path).stem / "index.html"
             if migrated.is_file():
                 anchor["href"] = urlunsplit(("", "", "/" + Path(link.path).stem + "/", link.query, link.fragment))
+                changed = True
+        # Treize livres appellent assets/app.js, absent jusque dans le dépôt
+        # historique. Éviter une requête 404 ; ne jamais retirer un script
+        # existant, ni les outils de lecture actuels déjà chargés ailleurs.
+        for script in list(doc.select('script[src="assets/app.js"]')):
+            if not (page.parent / "assets" / "app.js").is_file():
+                script.decompose()
                 changed = True
         if changed:
             page.write_text(str(doc), encoding="utf-8")
