@@ -439,3 +439,44 @@ body.mythos-design main .portal-section[id]{
 @media print{
   body.mythos-design .mythos-home-toc{display:none!important}
 }
+
+/* University reading navigation: only on scholarly chapters without authored TOC. */
+body.mythos-reading .mythos-scholarly-toc{
+  max-width:900px;
+  margin:22px auto 34px;
+  padding:clamp(18px,2.6vw,30px);
+  background:#10191a;
+  border:1px solid #776544;
+  color:#f0e7d7;
+}
+body.mythos-reading .mythos-scholarly-toc-title{
+  margin:0 0 15px;
+  text-align:center;
+  font:clamp(21px,2vw,28px)/1.25 Georgia,serif;
+  color:#e4c087;
+}
+body.mythos-reading .mythos-scholarly-toc ol{
+  columns:2;
+  column-gap:clamp(18px,3vw,38px);
+  margin:0;
+  padding-left:1.55em;
+}
+body.mythos-reading .mythos-scholarly-toc li{
+  break-inside:avoid;
+  margin:0 0 9px;
+  padding-left:3px;
+  overflow-wrap:anywhere;
+}
+body.mythos-reading .mythos-scholarly-toc a{
+  color:#ead7b2;
+  text-underline-offset:.2em;
+  text-decoration-thickness:1px;
+}
+body.mythos-reading .mythos-scholarly-toc a:hover{color:#f6dcaa}
+@media(max-width:700px){
+  body.mythos-reading .mythos-scholarly-toc ol{columns:1}
+  body.mythos-reading .mythos-scholarly-toc{padding:18px;margin-block:16px 25px}
+}
+@media print{
+  body.mythos-reading .mythos-scholarly-toc{display:none!important}
+}
