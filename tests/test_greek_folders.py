@@ -27,6 +27,7 @@ class GreekFolderTests(unittest.TestCase):
             ('chapitre-359-chiron-nouvelle-etude', 'heros'),
             ('chapitre-999-zeus-nouvelle-etude', 'divinites'),
             ('chapitre-389-hebe-jeunesse-heracles-phlionte', 'divinites'),
+            ('chapitre-390-kairos-occasion-mesure-temps-opportun', 'divinites'),
             ('chapitre-999-sujet-inconnu', 'sources-anciennes'),
         ]
         for slug, folder in cases:
