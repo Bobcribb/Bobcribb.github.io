@@ -1,0 +1,445 @@
+# MYTHOS — Cycle comparatif universitaire — Volume CCX (210)
+
+## Qui gouverne le peuple souverain ? Les Cavaliers d'Aristophane : cadeaux, oracles, souveraineté, captation de la parole et fabrication du consentement (424 av. n. è.)
+
+**Étude philologique et philosophique autonome, 4 novembre 2026.**
+
+**Corpus principal.** Aristophane, *Hippeis* (*Les Cavaliers*), v. 1–1408 ; Thucydide, *Guerre du Péloponnèse*, III, 36–50 et IV, 15–41 ; archives matérielles de la victoire de Pylos, 425 ; réception savante des problèmes de la démagogie, de la représentation et de la décision populaire.
+
+**Question directrice.** Comment une communauté peut-elle détenir le pouvoir de décider tout en dépendant d'intermédiaires qui filtrent les informations, redistribuent les biens, invoquent les dieux et lui présentent les choix possibles ? La pièce ne répond pas simplement que le peuple serait sot : aux v. 1111–1150, le personnage de Dêmos revendique la possibilité de laisser un dirigeant voler avant de le punir. Son rajeunissement final constitue néanmoins une restauration merveilleuse et non un mécanisme institutionnel transmis par l'histoire.
+
+**Originalité dans MYTHOS.** La bibliothèque contient déjà une analyse critique théâtrale des *Cavaliers*, un volume CXC sur Pseudo-Xénophon et la démocratie maritime, le volume CXCV sur les sycophantes, le volume CCIII sur la parabase, le volume CXCVII sur les *Acharniens*, le volume CCI sur les femmes et le trésor dans Aristophane, ainsi que le volume CCVIII sur la transition de guerre à paix. Le présent dossier ne répète ni la reconstitution de la pièce ni l'analyse de la parabase, des procès ou de la diplomatie privée. Il travaille une question propre : **l'économie de la preuve et de la reconnaissance** dans le conflit entre Paphlagon, Agoracritus et Dêmos, en suivant quatre supports : les récits, les oracles, la nourriture et les objets matériels.
+
+**Code de preuve.** [A] attestation textuelle ou documentaire directement contrôlée ; [I] inférence construite à partir des attestations ; [H] hypothèse ou interprétation contestable ; [P] comparaison philosophique rétrospective ; [L] limite de notre documentation. Les mots d'un personnage sont attestés comme fiction dramatique, jamais comme confession de la personne historique satirisée. Les paraphrases françaises sont nouvelles ; aucune traduction longue non vérifiée n'est reproduite.
+
+## I. Pourquoi une comédie politique ne fournit pas de procès-verbal
+
+### 1. La date, le concours et la réception [A]
+
+La comédie est créée aux Lénéennes de 424 et obtient le premier prix, selon les notices éditoriales et la tradition des didascalies. Son succès atteste une reconnaissance dans un concours dramatique et non une adhésion unanime de la population à chaque jugement sur Cléon. Le contexte performatif importe : le public observe, rit, compare une œuvre aux autres et se trouve lui-même dans la position d'évaluer une représentation de la décision collective. [I] Le théâtre construit donc un double jugement. Sur scène, Dêmos décide entre ses serviteurs ; hors de la scène, les spectateurs évaluent une satire qui se moque de leur souveraineté. La démocratie imaginée se laisse critiquer devant des citoyens qui peuvent prendre plaisir à la critique.
+
+### 2. L'identité de Paphlagon [A/I]
+
+Paphlagon est le masque comique du dirigeant Cléon, reconnaissable à la profession de marchand de cuir, aux injures qui le visent et au prestige disputé de Pylos. Pourtant une identification allégorique n'est pas une équivalence biographique intégrale. Les vols de nourriture, menaces grotesques et gestes d'esclave se passent sur scène. [I] La précision méthodologique est indispensable : établir qu'un personnage renvoie à un homme réel n'établit pas que chacune de ses actions grotesques soit un événement historiquement démontré. Il serait également erroné de refuser tout lien politique au nom du caractère fictionnel de l'œuvre. Le sens de la satire est produit précisément par la présence simultanée des deux plans.
+
+### 3. Les serviteurs du début [A/H]
+
+Les deux personnages qui se plaignent de Paphlagon au début sont traditionnellement identifiés aux hommes politiques Démosthène et Nicias. La traduction et l'introduction d'Ian Johnston signalent que leurs noms n'apparaissent pas expressément dans les répliques transmises comme des identifiants incontestables. [H] On peut penser que des costumes, gestes ou allusions auraient aidé certains spectateurs à reconnaître les hommes politiques, mais notre documentation ne fournit pas la distribution des acteurs et leurs masques exacts. Nous conserverons donc la désignation descriptive « premier serviteur » ou « deuxième serviteur » lorsque l'identité politique ne change rien au raisonnement. Une hypothèse de distribution ne peut servir de preuve d'une réunion secrète effective entre adversaires de Cléon.
+
+### 4. Une source hostile et une source historiographique [A/I]
+
+Aristophane caricature un chef politique ; Thucydide raconte la campagne de Pylos et l'attitude des acteurs athéniens et spartiates. Ces sources ne remplissent pas la même fonction. La comédie met en scène des désirs, des accusations et des pouvoirs symboliques ; l'histoire traite les situations militaires, les contraintes diplomatiques et les décisions successives. [I] Thucydide n'est pas une caméra objective : sa composition, ses discours reconstruits et son appréciation des chefs sont aussi situés. La lecture doit donc éviter deux facilités : prendre les accusations d'Aristophane pour des documents judiciaires ou faire de l'hostilité de Thucydide envers certains dirigeants la preuve automatique de la vérité de la caricature.
+
+### 5. Le témoignage matériel de Pylos [A]
+
+Le Musée de l'Agora antique d'Athènes conserve un bouclier de bronze pris aux Lacédémoniens à Pylos, dont l'inscription permet de le rattacher à la victoire athénienne de 425. Une photographie datée du 9 novembre 2009 est documentée sur Wikimedia Commons : https://commons.wikimedia.org/wiki/File:3196_-_Athens_-_Sto%C3%A0_of_Attalus_Museum_-_Spartan_shield_(425_BC)_-_Photo_by_Giovanni_Dall%27Orto,_Nov_9_2009.jpg . [I] L'objet atteste le poids militaire et mémoriel de la victoire ; il ne prouve aucun vol de Cléon. Le contraste entre un trophée réel et les galettes imaginaires de Pylos distribuées par Paphlagon est décisif : l'action militaire dispose de traces ; l'appropriation comique de son mérite possède une autre nature de preuve.
+
+### 6. Le caractère composite du peuple sur scène [L]
+
+Le Dêmos qui domine la maison est figuré par un vieil homme. Cette personnification ne restitue pas le corps réel de la cité, qui inclut aussi des femmes, métèques, esclaves et alliés sans les mêmes droits politiques. [I] Le souverain représenté renvoie principalement au corps des citoyens masculins habilités à décider. On ne peut pas projeter sans réserve les gestes individuels d'un personnage vers une collectivité nombreuse, dans laquelle les intérêts et les niveaux d'information diffèrent. La concentration dramaturgique est efficace parce que le public peut voir un personnage faire ce que les institutions font de manière distribuée ; elle est dangereuse pour l'historien qui confond une figure unitaire avec la société entière.
+
+### 7. La question d'une comédie « anti-démocratique » [I]
+
+L'œuvre attaque la crédulité, la gourmandise et l'imprudence de Dêmos, mais elle s'efforce aussi de le sauver et d'honorer sa jeunesse restaurée. [I] Ces effets contraires ne se résolvent pas par l'étiquette de « propagande oligarchique » ou d'« apologie de la démocratie ». La critique du peuple peut participer de la vie publique d'une démocratie, tandis que la défense du peuple contre un chef peut prendre un ton socialement élitiste. Les cavaliers forment d'ailleurs un groupe spécifique, distinct de l'ensemble des citoyens. Le dossier doit tenir ensemble la satire d'une mauvaise décision et la croyance dramatique qu'une autre décision pourrait être possible.
+
+## II. Philologie des rôles politiques et des mots de la manipulation
+
+### 8. Δῆμος : la personne et la pluralité [A]
+
+Le grec δῆμος possède plusieurs emplois, notamment pour une communauté territoriale ou le corps politique. Aristophane en fait un nom propre, Δῆμος, personnage qui possède une maison et choisit ses serviteurs. [I] Cette personnification rend visible une abstraction, mais ne donne pas une description complète de la procédure par laquelle se compose un vote. Un peuple n'a ni un seul estomac ni une seule paire d'oreilles. En attribuant au même personnage l'appétit, la colère, le droit de punir et l'envie d'écouter, la comédie fabrique un sujet qui rend la responsabilité politique immédiatement lisible. L'interprétation devra constamment se rappeler ce déplacement.
+
+### 9. Ἱππεῖς : la désignation du chœur [A/I]
+
+Le titre Ἱππεῖς signifie les cavaliers. Ceux qui composent le chœur appartiennent dans la fiction à un milieu militaire et social capable de soutenir une activité équestre. [I] Le chœur ne coïncide ni avec les esclaves de Dêmos ni avec tous les Athéniens. Il peut dénoncer la puissance de Cléon tout en représentANT des intérêts opposés aux siens. Les paroles des cavaliers doivent donc être traitées comme interventions de personnages dans un concours de réputation. La critique du chef qui s'accapare le peuple n'est pas nécessairement formulée depuis une position sociale extérieure à tout intérêt ou antagonisme.
+
+### 10. Δημαγωγία : un mot qui n'explique pas tout [A]
+
+Le prologue oppose la qualification politique à l'instruction et à la moralité, notamment aux v. 180–193, où apparaît la famille du mot δημαγωγία. La conduite du peuple semble plus facilement accessible à l'homme bruyant et effronté. [I] Il serait anachronique de traduire mécaniquement le terme par un modèle moderne du populisme. Dans la scène, il indique une technique d'influence et de prise de parole satirisée. La question véritable est de savoir comment on peut être très habile à obtenir une décision sans être compétent pour décider de ce qui est bon. L'œuvre oppose efficacement ces deux savoir-faire, sans prétendre établir leur séparation systématique dans toutes les institutions grecques.
+
+### 11. Ἀλλαντοπώλης et βυρσοπώλης [A/I]
+
+Le marchand de saucisses et le marchand de cuir portent des noms de métier construits avec le suffixe de vendeur. Aux v. 128–148, une chaîne de vendeurs se succède à la tête des affaires, comme si le destin des chefs de la cité devenait une série de professions exposées à l'agora. [I] La satire joue avec les hiérarchies entre occupations manuelles, commerce et honneurs politiques. Elle ne prouve pas que les citoyens exerçant ces métiers étaient en réalité incompétents. Un vendeur peut disposer de compétences oratoires réelles ; la comédie ridiculise le moment où des qualités de persuasion deviennent le critère exclusif de l'autorité publique.
+
+### 12. Ἀγοραῖος : la voix de l'agora [A]
+
+Aux v. 180–219, le marchand tire sa chance politique de son éducation sur le marché, de son assurance et de sa rude voix. Le terme ἀγοραῖος peut renvoyer au marché tout en portant des connotations de vulgarité et d'habileté intéressée selon le contexte. [I] Aristophane retourne le prestige des écoles d'éducation : apprendre à vendre et à interpeller le passant devient une préparation au gouvernement. La compétence politique semble dépendre de l'art de retenir l'attention, non de la durée de l'étude. Il serait pourtant trompeur de confondre toute aptitude commerciale avec une faute morale ; la scène pousse un type social à l'extrême pour critiquer des critères de sélection.
+
+### 13. Ἀγοράκριτος : celui qui est choisi au marché ? [A/H]
+
+Le nom révélé à la fin, Ἀγοράκριτος, unit le marché et une racine qui évoque la décision ou le jugement. L'interprétation usuelle « choisi au marché » désigne un personnage dont la promotion semble incompréhensible selon la hiérarchie traditionnelle des honneurs. [H] Il n'y a pas lieu d'inventer une magistrature athénienne nommée « juge de l'agora » sur le fondement de cette étymologie de nom propre. [I] Le nom montre la proximité poétique de deux opérations : évaluer des marchandises et évaluer un candidat. Il signale la migration d'une compétence de jugement depuis l'échange concret vers le choix collectif, avec tout le risque qu'un marché des faveurs remplace la délibération.
+
+### 14. Πονηρός et χρηστός : une hiérarchie déstabilisée [I]
+
+Les oppositions entre le bon et le mauvais citoyen ou le personnage respectable et le vaurien sont socialement chargées. Dans la comédie, posséder des dispositions normalement dévalorisées peut devenir un titre à gouverner. [I] Cette inversion n'est pas une théorie abstraite selon laquelle la vertu nuit toujours au pouvoir. Elle révèle un dérèglement de l'appréciation collective : ce qui permet de gagner un concours d'injures ne garantit pas la capacité d'organiser une cité. Mais elle attaque aussi la prétention de milieux favorisés à monopoliser toutes les qualités politiques. La pièce peut se moquer de la vulgarité du marchand et pourtant montrer son intelligence stratégique.
+
+### 15. Θράσος et ἀναίδεια : braver ou intimider ? [A/I]
+
+Le marchand est valorisé pour son audace, alors que la même audace peut prendre la forme d'une menace. L'agôn des v. 344–497 le fait répondre sur le registre même de Paphlagon. [I] Le public peut goûter la riposte contre un intimidateur sans conclure que toute violence verbale serait démocratiquement souhaitable. Une critique du pouvoir ne se confond pas avec l'adoption systématique de ses procédés. La comédie garde cette difficulté ouverte, puisque le vainqueur n'obtient pas d'abord l'avantage en produisant de meilleures raisons mais en poussant le jeu de l'adversaire à un degré plus élevé.
+
+### 16. Προστάτης : protecteur ou prédateur ? [A]
+
+Aux v. 1120–1130, Dêmos affirme nourrir un προστάτης, un protecteur ou chef, qui vole avant d'être puni. Le terme ne désigne pas ici un office constitutionnel fixe qu'il suffirait de relever dans une liste de magistratures. [I] La figure concentre la contradiction du mandataire : il affirme défendre celui qui lui confie des responsabilités, mais pourrait prélever davantage de ressources que celles qu'il rend visibles. Le langage du gardien ou du défenseur est politiquement efficace parce qu'il renvoie à une inquiétude réelle. La comédie invite à rechercher la frontière entre protection et appropriation, non à déclarer que toutes les formes de protection seraient suspectes.
+
+### 17. Ἐραστής : l'érotique de l'autorité [A]
+
+Aux v. 725–740, Paphlagon et son adversaire se présentent comme amoureux de Dêmos. Le mot ἐραστής et le langage du désir transforment un rapport entre chef et collectivité en compétition d'affection. Une étude publiée dans Classics@ a précisément rapproché la scène de l'image du citoyen « amoureux de la cité ». [I] La flatterie offre au destinataire une expérience de valeur personnelle, mais risque de remplacer la preuve de service par une intensité proclamée. Être aimé ne signifie pas être bien gouverné. La scène rend grotesque cette confusion en montrant deux prétendants qui rivalisent de passion sans suspendre leurs intérêts de domination.
+
+### 18. Χρησμοί et λόγια : gouverner par documents obscurs [A]
+
+Les oracles sont gardés, volés et exposés dans plusieurs scènes, principalement aux v. 107–148 et 999–1100. Leurs images et leur style archaïsant permettent aux rivaux de se disputer des interprétations invérifiables à bref délai. [I] Leur pouvoir ne vient pas seulement de la croyance mais de l'accès aux écrits, de leur abondance, du prestige du nom qui les transmet et de la liberté de les appliquer à n'importe quel objet politique. Un message peut porter sur la cité, sur le chef, sur le peuple et sur les aliments sans perdre sa prétention à l'autorité. La comédie dévoile les mécanismes par lesquels un dossier de signes devient une source de pouvoir.
+
+### 19. Κλέπτειν : la preuve du vol et l'accusation de vol [A/L]
+
+La famille de mots liée à κλέπτω revient dans les accusations et dans la défense paradoxale de Dêmos aux v. 1120–1150. [A] La pièce imagine des prélèvements indus. [L] Il n'est pas possible de conclure de ces mots qu'un montant chiffré aurait été détourné par Cléon dans des circonstances historiquement identifiées. [I] Le théâtre matérialise cependant un mécanisme de contrôle politique : la différence entre ce qu'un distributeur donne à son maître et ce qu'il se réserve. Pour étudier cette différence, le lecteur doit distinguer le fait matériel montré sur scène, le personnage qui en bénéficie et la personne contemporaine que le personnage caricature.
+
+### 20. La topographie : Pnyx, Boulè, prytanée [A/I]
+
+Les v. 160–170 mettent en jeu l'agora, la Pnyx, les ports, les îles dominées et la Boulè. Le prytanée intervient comme espace de repas et d'honneur. [I] Le discours d'ambition du vendeur présente la cité comme un ensemble de lieux à posséder. Les institutions réelles ont pourtant des compétences et des règles distinctes ; aucune fonction unique ne permet de les absorber légalement. La comédie comprime cet ordre complexe pour faire percevoir une promesse de pouvoir total. Elle ne fournit ni un plan exhaustif d'Athènes ni un code de fonctionnement institutionnel, mais une carte de la manière dont les honneurs, la parole et les ressources peuvent paraître liés.
+
+## III. Pylos en 425 : de la bataille au capital de reconnaissance
+
+### 21. Une victoire attestée [A]
+
+Thucydide IV, 15–41 documente l'isolement de soldats lacédémoniens à Sphactérie, les négociations autour de leur sort et l'offensive athénienne menée avec la participation de Cléon et du stratège Démosthène. La capture de nombreux Spartiates en 425 fut un événement considérable. [I] Cette attestation protège l'étude contre la tentation de répéter sans examen la caricature d'Aristophane. L'attaque contre la prétention personnelle du dirigeant n'annule pas l'issue de l'opération. Une lecture historique doit examiner comment une action collective, inscrite dans des décisions et des contraintes militaires, peut être revendiquée par un seul acteur dans les luttes de prestige.
+
+### 22. Les difficultés de la négociation [A/I]
+
+Thucydide IV, 17–22 raconte des propositions de règlement et l'échec des pourparlers. Il serait excessif de conclure que la paix aurait été immédiatement stable et satisfaisante si un seul Athénien ne s'y était pas opposé. Les alliances, garanties et territoires engagés rendaient le problème complexe. [I] La comédie peut dramatiser l'intérêt d'un dirigeant à prolonger la guerre, mais ne remplace pas les clauses absentes d'un traité hypothétique. La distinction entre opportunité diplomatique et certitude d'un bon accord est impérative pour éviter d'attribuer au dramaturge une clairvoyance que la documentation ne démontre pas.
+
+### 23. Démosthène, Cléon et la répartition du mérite [A/I]
+
+Le récit thucydidéen distingue la préparation et l'exécution de la campagne, notamment les opérations de Démosthène et la place politique de Cléon. La comédie se moque de celui qui pourrait s'approprier un succès préparé par d'autres. [I] La question n'est pas simplement « qui a gagné ? », puisque la victoire demeure athénienne, mais « à qui la cité attribue-t-elle le bénéfice symbolique ? ». Les mérites sont difficiles à répartir lorsque logistique, décision civique, combat et renseignement ont chacun contribué au résultat. Le dirigeant qui maîtrise le récit possède un avantage même si les opérations ne se sont pas toutes déroulées sous son autorité directe.
+
+### 24. La préséance gagnée à Pylos [A]
+
+Aux v. 700–705, Paphlagon se prévaut d'une préséance liée à Pylos. La victoire militaire lui donne une forme d'autorité dans un débat qui n'est plus militaire. [I] Le comique fait apparaître un transfert discutable : un succès circonstanciel peut-il justifier une préséance générale sur toutes les décisions ? L'attaque ne nie pas nécessairement qu'un homme ait acquis du prestige. Elle dénonce le moment où l'honneur attaché à un acte particulier devient argument sans limite en faveur de la personne qui le revendique. Dêmos doit alors distinguer reconnaissance méritée et chèque en blanc.
+
+### 25. La galette de Pylos [A/I]
+
+Aux v. 1165–1175, Paphlagon apporte une galette qu'il rattache à Pylos et à la faveur d'Athéna. Le passé militaire est transformé en aliment offert au maître de maison. [I] La victoire devient consommable : au lieu d'examiner des décisions stratégiques, Dêmos goûte la présentation d'un bienfait. Ce gag constitue une analyse de la manière dont un événement collectif peut être converti en cadeau personnel. La nourriture est un moyen de reconnaissance plus tangible qu'un compte rendu d'opération ; son immédiateté peut masquer les mérites concurrents. Il ne s'agit pas d'une distribution alimentaire historiquement documentée.
+
+### 26. Le bouclier de Pylos comme contre-preuve [A/I]
+
+La présence d'un bouclier authentique capturé à Pylos montre qu'une mémoire matérielle de la campagne pouvait être exposée dans l'espace civique. [I] Contrairement à une galette fictive, l'objet ne parle pas pour attribuer le mérite à Cléon, à Démosthène ou aux soldats. Il témoigne d'une victoire et laisse ouvert le récit de sa production. La recherche doit préférer cette précision au geste consistant à faire d'un artefact l'illustration exacte d'une scène théâtrale. La photographie proposée dans l'appareil critique est une documentation de l'objet, non une reconstitution du décor des Lénéennes.
+
+### 27. Peut-on séparer performance politique et performance militaire ? [I]
+
+Un acteur peut connaître une réussite militaire tout en utilisant ensuite des méthodes de persuasion condamnables. La comédie choisit de le représenter comme mauvais serviteur précisément parce qu'il a acquis la capacité d'obtenir la faveur de son maître. [I] Cette dissociation est utile : une enquête sur la démagogie n'a pas à soutenir que le démagogue échoue absolument dans toutes les tâches pratiques. Le problème concerne le passage d'une réussite contrôlable à une autorité presque universelle. La satire prend sa force parce qu'un événement réel était disponible pour cette conversion symbolique, et non parce que le dramaturge aurait dû inventer toute la réputation de Paphlagon.
+
+## IV. Dêmos chez lui : souveraineté formelle et dépendance matérielle
+
+### 28. Le maître dominé par ses serviteurs [A/I]
+
+Le prologue présente un homme qui possède une maison mais dont les serviteurs sont en guerre pour contrôler ses décisions. L'un d'eux obtient la faveur du maître, frappe les autres et monopolise la présentation des événements. [I] La domination ne commence pas par l'annulation des ordres du maître : elle commence par le contrôle de ce qu'il peut savoir avant de les donner. Une communauté peut donc conserver un droit de sanction sans posséder une information complète sur ceux qu'elle sanctionne. C'est la première asymétrie de l'œuvre ; l'approfondir donne davantage que répéter que « le peuple est naïf ».
+
+### 29. Pourquoi la métaphore domestique est violente [I]
+
+Athènes n'est pas une maison ; les rapports entre citoyens ne sont pas ceux d'un maître avec ses esclaves. [I] Aristophane choisit pourtant ces relations parce qu'elles permettent de condenser hiérarchie, dépendance et révolte dans un petit nombre de gestes. Le spectateur comprend immédiatement l'absurdité d'un maître qui obéit à son propre serviteur. Mais la transposition a un coût : la figure du peuple souverain s'appuie sur une normalisation de la propriété des personnes et de la punition servile. Le lecteur moderne doit conserver cette limite sans effacer la puissance de l'allégorie.
+
+### 30. Qui décide de ce que le maître entend ? [I]
+
+Un serviteur qui contrôle l'accès à la chambre de Dêmos peut transformer un bruit, une rumeur ou un oracle en information disponible au souverain. Le fait que le maître soit capable de juger ne garantit pas que les preuves arrivent jusqu'à lui. [I] Cette difficulté dépasse le problème de la bonté de ses intentions. Il peut sincèrement désirer servir la cité et juger mal parce que les options proposées sont sélectionnées. Le théâtre place les spectateurs dans une position similaire : ils découvrent l'état de la maison à travers les plaintes d'autres serviteurs avant d'entendre Dêmos lui-même.
+
+### 31. La colère comme ressource du dirigeant [I]
+
+Paphlagon se dit victime de violences, convoque le maître et réclame qu'il le protège. Cette mise en scène de la menace lui permet d'obtenir une attention que son comportement ne mérite pas nécessairement. [I] Une accusation doit être examinée, mais un dirigeant qui transforme toute contradiction en agression personnelle impose un choix émotionnel à celui qui juge. Il rend son adversaire suspect avant la discussion de fond. La pièce révèle cette manipulation par l'exagération : les cris et les protestations deviennent si permanents que la défense de soi semble une technique de gouvernement.
+
+### 32. Les cavaliers contre le favori [I]
+
+Le chœur prend parti contre Paphlagon et soutient le marchand de saucisses. [I] La scène ne met donc pas en présence un peuple homogène et un seul chef nuisible : elle représente des groupes, intérêts et réputations opposés. La médiation de la puissance populaire par les classes capables d'armer une cavalerie ajoute un niveau de conflit. Il serait faux de dire que les cavaliers incarnent la totalité d'une démocratie « authentique » contre son usurpateur. Ils sont une des voix qui disputent la définition de ce qui serait bon pour Dêmos. La satire de l'accaparement peut être portée elle-même par une position partielle.
+
+### 33. La souveraineté invite les flatteurs [I]
+
+Paphlagon et son rival désirent la faveur de Dêmos parce qu'il peut décider de leur sort. Ainsi, la présence de flatteurs ne démontre pas l'absence de puissance du maître. Elle peut résulter, au contraire, de l'intensité de sa puissance. [I] Cette réciprocité mérite de compliquer les lectures de manipulation unilatérale. Si Dêmos n'avait aucun moyen de faire gagner ou perdre, il ne serait pas si important de lui apporter des cadeaux et d'invoquer son amour. Le danger apparaît lorsqu'il confond le spectacle de cette déférence avec le bon exercice de sa propre autorité.
+
+### 34. Recevoir un cadeau et disposer d'une preuve [I]
+
+Dêmos est placé devant des preuves de dévouement qui prennent souvent la forme d'aliments et d'accessoires. Il peut voir que quelqu'un le nourrit, mais pas immédiatement ce qui a été soustrait pour fabriquer le cadeau. [I] Cette différence entre évidence du geste et connaissance de son coût forme l'objet central de la monographie. Le problème n'est pas que le peuple veuille manger : ses besoins sont légitimes. Le problème est que la distribution par un intermédiaire peut se transformer en mise en scène de générosité financée par le maître lui-même. L'admiration n'est donc pas une vérification.
+
+### 35. Une communauté n'a pas les sens d'un seul individu [L]
+
+Dêmos goûte, écoute et juge de manière corporelle. Le peuple réel est composé de milliers de personnes aux besoins et mémoires différents. [L] Aucun effet de scène ne permet d'inférer l'attitude de chaque groupe social ou de mesurer la fréquence des comportements caricaturés. [I] La pièce produit une unité provisoire par la personnification, et cette opération est précisément à examiner. Les citoyens peuvent être collectivement souverains sans être uniformément informés ni identiquement intéressés par un bienfait. La politique n'est pas l'addition mécanique des émotions d'un vieillard dramatique.
+
+## V. Les paroles rivales : invective, agenda et peur
+
+### 36. L'agôn des v. 344–497 [A]
+
+Les deux prétendants à la faveur du peuple rivalisent d'injures et de menaces. La succession des reparties produit une virtuosité scénique qui n'est pas identique à la qualité des arguments. [I] La satire attaque la logique selon laquelle le meilleur chef serait celui qui détruit verbalement le mieux son adversaire. Pourtant le marchand utilise cette logique pour vaincre le favori du maître. L'effet critique est ambigu : le public peut applaudir un renversement du rapport de force sans disposer d'un critère permettant d'affirmer que le vainqueur gouvernera mieux. La pièce ne cache pas cette difficulté ; elle s'en nourrit.
+
+### 37. Renverser par surenchère [I]
+
+Le prologue annonce que Paphlagon sera remplacé par quelqu'un de plus effronté que lui. Une politique malade se trouverait donc soignée par le perfectionnement de ses propres vices. [I] Cette proposition n'est pas une théorie de réhabilitation morale. C'est un dispositif d'exposition : en portant le comportement du favori au comble, son rival le rend risible. Une conduite peut se révéler absurde lorsqu'elle est imitée plus brutalement. Reste un problème : si l'on ne change pas les règles du jeu, le prochain candidat pourra recourir à la même surenchère. Le merveilleux final sera nécessaire pour clore le cycle.
+
+### 38. La Boulè comme terrain de réception [A]
+
+Aux v. 624–690, le marchand raconte une séance du Conseil où Paphlagon dénonce des cavaliers comme conspirateurs. Les conseillers sont d'abord impressionnés ; puis leur attention se détourne quand le marchand annonce que les anchois du marché sont à bon prix. [I] Le choix des sujets est l'enjeu : un orateur impose un récit de péril, l'autre un récit de consommation favorable. Les deux cherchent l'attention plutôt que la résolution méthodique d'une question unique. Il faut se garder de transformer cette scène en procès-verbal d'une véritable réunion de 424 : elle est le récit d'un personnage victorieux et intéressé.
+
+### 39. Le poisson comme « bonne nouvelle » [A/I]
+
+Les v. 640–650 lient l'annonce d'abondance de poissons à un changement visible d'humeur de la Boulè. [I] Le comique ne condamne pas la nourriture, mais montre comment une information pertinente dans la vie ordinaire peut devenir instrument de diversion politique. Le marchand exploite une connaissance que son adversaire n'a pas suffisamment évaluée : la sensibilité du public à ce qui améliorera immédiatement son quotidien. Il n'expose pas de politique maritime ni de règlement du marché ; il choisit le bon moment pour faire passer un objet séduisant au premier plan. Le contenu est simple, le mécanisme sophistiqué.
+
+### 40. Le langage du complot [A/I]
+
+Le marchand décrit Paphlagon utilisant des accusations de complot contre les cavaliers. D'autres passages mobilisent la menace de trahison ou de collusion avec des ennemis. L'étude de Classics@ sur la rhétorique politique du Ve siècle rapproche ces procédés des anxiétés de l'empire athénien. [I] Il faut reconnaître que les révoltes des alliés et la guerre rendaient certaines craintes légitimes. La satire vise surtout la transformation d'une menace possible en instrument permanent de contrôle des adversaires. L'homme qui se présente comme gardien de la cité peut ainsi présenter toute contestation de son action comme une défaillance de loyauté.
+
+### 41. L'hyperbole comme ressource [I]
+
+Les rivaux passent rapidement des menaces modestes à des images démesurées. Leur compétition enseigne à la fois l'efficacité de l'hyperbole et son insuffisance comme preuve. [I] Une injure fait immédiatement reconnaître un type de personnage, mais la reconnaissance ne prouve pas la culpabilité de celui qui est visé. Le spectateur doit conserver cette distance. Un dramaturge peut dénoncer la violence d'un style politique en utilisant ce même style pour faire rire ; il ne faut pas confondre l'outil esthétique avec un programme de conduite publique. La complicité du public avec l'agression est aussi une donnée du problème.
+
+### 42. L'institution change, le mécanisme persiste [I]
+
+Après la Boulè, les candidats se présentent devant Dêmos, puis s'affrontent autour des oracles et des aliments. [I] La pluralité des lieux et des objets suggère que la captation n'est pas attachée à une procédure unique. Elle peut prendre la forme d'une intervention devant les conseillers, d'un appel affectif au peuple ou d'une mise en scène de preuves matérielles. La compétence du chef qui veut dominer n'est pas seulement de bien parler ; elle est de passer d'un régime de crédibilité à l'autre. La pièce le montre par la vitesse des changements de scènes et des ressorts comiques.
+
+### 43. L'ironie d'une libération par l'injure [I]
+
+La victoire du marchand peut être perçue comme une libération d'un peuple mal servi. Mais le vainqueur n'a pas démontré qu'il renoncera au mépris de l'adversaire, à la mise en scène de son amour ou au détournement de l'attention. [I] Une philosophie de la décision ne peut faire de l'efficacité dans le combat une garantie d'exercice juste du pouvoir. Le théâtre recourt à la transformation miraculeuse du maître pour résoudre ce que l'argument rationnel laissait intact. Ce recours est une ressource de la fiction et, pour l'historien, une limite explicite de la démonstration.
+
+## VI. Les oracles : une économie de l'information
+
+### 44. La prédiction volée [A]
+
+Aux v. 107–127, un serviteur dérobe les oracles gardés par Paphlagon. Il y découvre l'annonce de la chute du favori. [I] L'archive cachée est une forme de pouvoir parce qu'elle réserve une information à un seul acteur. Celui qui contrôle le document peut choisir le moment de l'exhiber, les passages à lire et leur interprétation. La comédie ne décrit pas un système historique d'archives secrètes de Cléon ; elle construit un modèle dramatique de dépendance informationnelle. Les spectateurs commencent à entrevoir comment une source présentée comme sacrée devient une ressource dans une compétition d'influence.
+
+### 45. La généalogie des vendeurs [A/I]
+
+Les v. 128–148 annoncent une chaîne de vendeurs qui se remplacent, jusqu'au marchand de saucisses. [I] La prophétie fabrique une dynamique de succession qui n'existerait pas sans l'adhésion de ceux qui la lisent. Les serviteurs commencent à chercher le candidat conforme à la description ; lorsqu'ils le trouvent, la parole prophétique sert à le persuader qu'il doit agir. Une prédiction peut donc devenir cause de comportements destinés à la réaliser. Ce constat dramaturgique n'est pas une preuve de pouvoirs surnaturels des oracles ni une négation historique de la divination grecque.
+
+### 46. L'autorité ne vient pas seulement du sens [I]
+
+La possession d'un grand nombre d'oracles impressionne Dêmos. Paphlagon affirme en détenir des masses ; son rival surenchérit. [I] La quantité devient un argument avant l'examen des propositions. Le mécanisme diffère de la vérification d'un fait particulier : le détenteur peut toujours produire un document supplémentaire, parfois formulé en images si vagues qu'elles paraissent s'appliquer à tout. Les spectateurs voient la technique par son excès comique. Une analogie contemporaine avec la surcharge informationnelle serait utile seulement si elle se reconnaît comme comparaison rétrospective, et non comme identité historique.
+
+### 47. Bacis contre Glanis [A]
+
+Aux v. 999–1010, Paphlagon attribue ses paroles à Bacis ; le marchand les oppose à celles d'un prétendu Glanis, frère aîné de Bacis. La généalogie fabrique un surcroît d'ancienneté et d'autorité. [I] Le stratagème est double : déclasser l'adversaire en prétendant posséder une tradition supérieure et rendre cette supériorité immédiatement acceptable en construisant un lien familial. [L] Ce nom comique ne prouve pas l'existence d'un prophète Glanis exerçant dans la cité. L'historien des religions doit différencier traditions oraculaires, noms poétiques et usages satiriques d'une parole sacrée.
+
+### 48. Le chien qui protège, le chien qui vole [A/I]
+
+Aux v. 1014–1034, le chien mordant peut être interprété comme le gardien indispensable de Dêmos ou comme un Cerbère prédateur qui s'empare des nourritures lorsque le maître se détourne. La recherche sur la rhétorique des *Cavaliers* analyse précisément cette image. [I] L'ambivalence est puissante : un même attribut de férocité peut justifier la confiance en un protecteur ou la méfiance envers lui. La vérité ne se trouve pas dans le choix automatique d'un symbole mais dans l'évaluation des actes auxquels il renvoie. Celui qui détient l'autorité d'interpréter le chien peut orienter la décision.
+
+### 49. La divination n'est pas automatiquement imposture [L]
+
+Les v. 999–1100 rendent comique la concurrence interprétative. Ils ne documentent pas la croyance de tous les citoyens athéniens ni la totalité des pratiques oraculaires grecques. [I] Une critique de la manipulation religieuse n'est pas nécessairement une déclaration d'athéisme. Le monde grec connaît une pluralité de dispositifs divinatoires ; la pièce choisit une pratique reconnaissable et l'exagère pour un concours d'injures. Il serait aussi fautif de traiter toute accusation contre un devin comme preuve que le dramaturge a formulé une théorie générale de la superstition. La force du passage vient de la précision du jeu de crédibilité, pas d'une doctrine explicitement énoncée.
+
+### 50. Le peuple choisit-il des preuves ou des interprètes ? [I]
+
+Dêmos écoute deux lecteurs d'oracles et doit décider lequel croire. Il ne dispose pas d'une méthode qui permettrait de vérifier immédiatement le futur promis. [I] La décision devient sélection d'un interprète, non sélection directe d'une vérité indépendante. L'asymétrie vaut pour des raisons matérielles : les documents sont nombreux, leur interprétation flexible et les intérêts des lecteurs opposés. La pièce invite à se demander à quelles conditions le jugement populaire pourrait gagner une indépendance véritable. Elle ne rédige pas une procédure de vérification ; elle en révèle le manque par la saturation du discours prophétique.
+
+## VII. Cadeaux, marchés, paniers : voir la distribution du bien commun
+
+### 51. La fête des bienfaiteurs [A]
+
+Aux v. 1111–1228, les rivaux se mettent à apporter à Dêmos des chaises, tables, pains, gâteaux, soupe et nourriture variée. Chaque offrande veut surpasser la précédente. [I] Le chef n'est plus seulement celui qui prononce une opinion : il veut rendre son service tangible. Cette mise en scène est captivante parce qu'elle donne au destinataire l'impression de recevoir une compensation personnelle du pouvoir qu'il accorde. La critique doit toutefois distinguer un cadeau réellement payé par le donateur d'une distribution de ressources qui appartiennent déjà au corps civique. La comédie porte cette question jusqu'au dévoilement des réserves cachées.
+
+### 52. Le pain d'Athéna [A/I]
+
+Aux v. 1166–1181, les nourritures sont prétendument préparées ou offertes par Athéna sous des épiclèses dont la forme devient comiquement extravagante. Une main monumentale et l'image de la déesse sont réduites à une activité de cuisine. [I] La référence divine multiplie l'autorité du don : il n'est plus seulement utile mais protégé par la cité et ses dieux. La satire ne décrit pas une croyance selon laquelle la statue préparerait réellement des soupes ; elle retourne la matérialité des images cultuelles en argument de prestige alimentaire. Une communication de Carl Anderson sur les *Cavaliers* analyse cet effet d'obscénité et de démesure.
+
+### 53. L'eros du serviteur [A/I]
+
+Les v. 725–740 ont présenté les rivaux comme amoureux du maître ; les aliments transforment cet amour en service visible. [I] La flatterie peut être performative : nourrir donne l'impression de prouver qu'on aime. Mais la causalité va dans les deux sens. Celui qui veut devenir puissant peut donner pour obtenir des honneurs ; celui qui reçoit peut considérer les dons comme des revenus de sa souveraineté. Un échange ne suffit pas à démontrer une fraude : l'enquête doit porter sur l'origine des ressources, les conditions de leur répartition et les sanctions possibles en cas d'appropriation indue.
+
+### 54. La métaphore de la nourrice [A]
+
+Vers 713–720, le marchand accuse Paphlagon de nourrir Dêmos comme une nourrice qui mâcherait de gros morceaux pour elle-même tout en laissant peu au nourrisson. [I] Le geste qui semble protéger devient le moyen d'approprier une partie du bien. La métaphore relie affection, dépendance et propriété. Elle est plus instructive que l'injure isolée : elle demande de comparer ce qu'une personne montre au destinataire et ce qu'elle garde hors du champ de son regard. L'éthique du gouvernement ne peut donc pas se réduire à l'intensité du discours du bienfaiteur.
+
+### 55. Le panier du rival [A/I]
+
+Le concours s'achève par une inspection des contenants, qui révèle le contraste entre les restes gardés par Paphlagon et la part donnée à Dêmos. [I] Les objets renversent une compétition de promesses. Les textes oraculaires étaient soumis à des interprétations concurrentes ; le panier permet de regarder directement une distribution. La pièce ne propose pas un système de comptes publics complet, mais met en scène un passage du discours à la trace matérielle. C'est pourquoi le détail comique des réserves a une portée politique : la preuve de dévouement cesse d'être uniquement verbale.
+
+### 56. La nourriture est-elle une faiblesse du peuple ? [I]
+
+Le désir de manger est présenté comme un moyen de captation, mais rien n'autorise à tenir les besoins matériels des citoyens pour intrinsèquement mauvais. [I] La faute ne consiste pas à vouloir être nourri. Elle peut consister à évaluer une politique à partir d'une portion offerte sans examiner le coût réel de l'approvisionnement. Cette lecture évite de transformer la satire en mépris simple des travailleurs ou de la pauvreté. Le problème de la démocratie n'est pas que ses membres possèdent des corps ; il est que des intermédiaires peuvent faire d'un besoin légitime la justification d'une dépendance abusive.
+
+### 57. Le bénéfice n'est pas l'intérêt public [I]
+
+Un avantage offert à une personne peut être désirable sans améliorer l'ordre collectif. La pièce multiplie les gratifications particulières dans un contexte où l'on prétend parler pour Athènes. [I] Le raisonnement politique demande donc une médiation : passer de « on m'offre une chose » à « cette décision sert le corps civique ». Les deux propositions ne sont pas équivalentes. En rendant les cadeaux tellement grotesques qu'ils semblent sans limite, le spectacle dénonce la confusion de l'intérêt immédiat et du bon gouvernement. Il ne décrit pas pour autant tous les dispositifs historiques qui permettaient de contrôler des responsables athéniens.
+
+### 58. Des choses qui parlent mieux que les chefs [I]
+
+Les contenus des paniers peuvent contredire la parole de celui qui distribue. Le spectateur voit ainsi une contestation de la pure rhétorique par le monde matériel. [I] Il faut certes interpréter les objets, mais le pouvoir de fixer seul leur signification semble moins absolu que dans le cas d'un oracle énigmatique. Une dépense doit laisser des traces, un don suppose un prélèvement quelque part, une portion a une taille. La scène donne à une inspection simple la valeur d'une intervention critique. Elle invite à demander quelle part du réel échappe aux agents qui prétendent détenir tout le récit.
+
+## VIII. Dêmos sait-il qu'il est manipulé ?
+
+### 59. Le reproche du chœur [A]
+
+Aux v. 1111–1120, le chœur rappelle à Dêmos que tous le craignent comme un tyran, puis lui reproche de se laisser flatter et tromper. La phrase grecque évoque sa facilité à être mené et son plaisir à écouter les orateurs. [I] La souveraineté du maître n'est pas contestée ; c'est sa manière de l'utiliser. Un homme peut disposer d'un droit de sanction gigantesque tout en disposant d'une information médiocre. La pièce formule ainsi un problème intérieur à la décision démocratique : une autorité publique n'est pas automatiquement une compétence critique.
+
+### 60. Une réponse inattendue [A]
+
+Dêmos réplique aux v. 1120–1130 qu'il joue volontairement au sot, avec la formule contrôlée « ἐγὼ δ᾽ ἑκὼν ταῦτ᾽ ἠλιθιάζω ». Il veut nourrir un protecteur voleur, puis le frapper une fois engraissé. [I] Cette déclaration complique toute théorie de sa naïveté. Le maître n'est peut-être pas uniquement dupé : il peut tolérer un abus provisoire pour tirer avantage de la puissance du chef. Toutefois la réplique n'est pas une preuve historique que le corps des citoyens avait réellement instauré un tel mécanisme de contrôle, ni que la ruse aurait été efficace.
+
+### 61. Surveiller un vol n'est pas empêcher le vol [I]
+
+Aux v. 1138–1150, Dêmos affirme voir les appropriations et contraindre les hommes politiques à les restituer. [I] La stratégie de la tolérance suivie d'une sanction comporte des risques que le texte ne résout pas. Les dommages peuvent être irréversibles, les ressources déplacées, les preuves perdues. Le maître peut se croire stratège quand il n'est qu'un destinataire de fragments d'information. Pourtant sa puissance de rétorsion est réelle dans la logique de la pièce. Il serait donc aussi fautif de lui refuser toute lucidité que de supposer son système parfaitement rationnel.
+
+### 62. La dépendance réciproque [I]
+
+Les chefs ont besoin de l'approbation de Dêmos ; Dêmos bénéficie d'une partie de leurs services. Christopher Hedetoft a étudié l'interdépendance entre chefs et citoyens dans la démocratie athénienne en examinant notamment *Les Cavaliers*. [I] Il ne faut pas confondre interdépendance et égalité. Le maître possède le pouvoir ultime de punir, tandis que l'intermédiaire peut contrôler les informations, les portions et la présentation des options. Le risque de manipulation naît dans ce croisement. Une lecture rigoureuse ne peut se contenter de désigner « le peuple manipulé » : elle doit montrer pourquoi les dirigeants ont besoin de cette manipulation pour se maintenir.
+
+### 63. Une souveraineté à double face [I]
+
+Dêmos est craint et cajolé. Ce double rapport n'est pas une incohérence psychologique, mais un moteur de la compétition politique. [I] Le chef craint le verdict populaire, donc cherche à le façonner. Le peuple aime recevoir des signes de dévouement, donc peut encourager malgré lui la surenchère. Les deux parties ont une part d'initiative ; leurs moyens ne sont pas identiques. L'autonomie civique devient la capacité d'identifier ces différences et de juger en dehors des critères définis exclusivement par les prétendants. La comédie rend cette ambition désirable, mais sa conclusion ne fournit qu'une solution merveilleuse.
+
+### 64. Ni peuple innocent ni peuple coupable en totalité [I]
+
+Le récit de Dêmos qui engraisse un chef voleur pourrait être une affirmation de compétence ; il pourrait aussi constituer une rationalisation plaisante d'une dépendance. [I] Les deux lectures restent possibles. Elena Fabbro insiste sur l'ambiguïté de sa restauration et les mécanismes de manipulation, tandis que John Zumbrunnen souligne la capacité parfois sous-estimée du citoyen ordinaire dans *Les Acharniens* et *Les Cavaliers*. Ces lectures ne doivent pas être artificiellement fusionnées : l'une explore le paradoxe du pouvoir fictif, l'autre la possibilité d'une intelligence civique populaire. Le texte autorise une tension plus féconde qu'un verdict définitif.
+
+## IX. Le miracle final et ses limites historiques
+
+### 65. Le peuple cuit à nouveau [A]
+
+Aux v. 1316–1348, Agoracritus annonce avoir fait bouillir Dêmos pour lui rendre beauté et jeunesse. Le procédé prolonge la série de métaphores culinaires : le marchand ne se contente plus de distribuer de la nourriture, il transforme le corps qui la consomme. [I] Cette continuité est esthétiquement décisive. La solution comique tient dans le pouvoir de refaire le souverain, ce qu'aucune procédure politique ne peut accomplir physiquement. On pourrait y voir une image de réforme morale, mais le texte ne donne pas les institutions précises qui empêcheraient un nouveau Paphlagon de recommencer.
+
+### 66. La mémoire de Marathon [A/I]
+
+Le Dêmos rajeuni ressemble au peuple des temps d'Aristide et de Miltiade, selon les v. 1323–1335. Le passé des guerres médiques fournit une image de prestige retrouvée. [I] Cette nostalgie n'est pas un relevé neutre des institutions anciennes ; elle choisit les épisodes de gloire qui permettent de disqualifier les pratiques contemporaines. Une mémoire peut devenir programme moral sans être programme constitutionnel. Le retour fictionnel au passé peut orienter une espérance d'avenir, mais aucun historien ne doit tenir pour démontrée l'existence d'une cité entièrement vertueuse aux temps héroïques.
+
+### 67. Les trêves comme personnes offertes [A/I]
+
+Dans l'exodos, des Trêves personnifiées apparaissent comme des figures féminines précédemment cachées au peuple. Le comique suggère que la continuation de la guerre pourrait servir les intérêts d'un dirigeant. [I] Mais il transforme aussi des femmes fictives en biens échangés par des hommes dans une relation de possession. La restauration du corps civique masculin ne constitue donc pas une émancipation universelle. Une analyse du pouvoir doit reconnaître que la critique d'une domination n'entraîne pas l'abolition de toutes les autres. Le dossier de *La Paix* étudie déjà les rites de sortie de guerre ; ici l'objet est la confiscation de l'accès à la décision.
+
+### 68. L'énigme du vainqueur [I]
+
+Agoracritus a gagné parce qu'il a surpassé Paphlagon dans des pratiques jugées mauvaises, avant de produire un bienfait merveilleux. La transformation de Dêmos sert d'équivalent scénique à une garantie morale absente. [I] Une théorie politique réelle ne pourrait pas recommander de choisir systématiquement l'homme le plus habile à injurier pour obtenir une administration honnête. Le théâtre démontre la vulnérabilité d'un système de réputation puis en résout la crise par un miracle. Il est essentiel de ne pas confondre résolution narrative et proposition institutionnelle. C'est dans cet écart que s'ouvre la réflexion philosophique de l'œuvre.
+
+### 69. Un dénouement ne détermine pas toutes les opinions de l'auteur [L]
+
+Le public assiste à une célébration de Dêmos rénové. Cela ne suffit pas à reconstruire la totalité des opinions d'Aristophane sur les constitutions, la guerre, les classes sociales ou la religion. Les personnages exercent des fonctions contradictoires, le chœur possède une position particulière et la fin obéit aux conventions du genre. [L] Nous ne possédons pas de texte doctrinal privé où l'auteur confirmerait la signification de chaque élément. Une interprétation solide examine les relations attestées entre scènes plutôt que de convertir une image finale en manifeste politique sans ambiguïté.
+
+## X. Confrontations avec Hegel, Nietzsche, Vernant et Détienne
+
+### 70. Hegel : de la souveraineté figurée aux médiations [P]
+
+Dans les *Principes de la philosophie du droit*, Hegel pense la liberté à travers des médiations juridiques, sociales et politiques, non à travers le seul désir instantané d'un individu. [P] La figure de Dêmos permet d'interroger rétrospectivement cette distinction : être le maître n'est pas contrôler toutes les conditions de la décision. Il faut des institutions, des règles de publicité, des responsabilités et des compétences différenciées. La comparaison n'implique pas que la cité du Ve siècle possédait les catégories de l'État moderne ni qu'Aristophane anticipait une théorie hégélienne. Elle aide à montrer le coût d'une souveraineté représentée comme une volonté individuelle susceptible d'être séduite.
+
+### 71. Hegel : reconnaissance et dépendance [P]
+
+Le dirigeant exige d'être reconnu comme bienfaiteur ; le peuple désire qu'on lui reconnaisse la grandeur de son pouvoir. Cette double demande peut produire une relation de dépendance. [P] On peut la rapprocher de la question hégélienne de la reconnaissance sans l'assimiler à une dialectique identique. La scène met en jeu des gratifications et de la flatterie plus que la transformation rationnelle d'un ordre éthique. Elle pose néanmoins une question féconde : comment distinguer la reconnaissance d'un service réellement rendu du plaisir d'être cajolé ? Une cité peut multiplier les cérémonies en l'honneur de ses bienfaiteurs sans avoir résolu les conditions de contrôle de leurs actions.
+
+### 72. Nietzsche : qui fabrique les qualités honorables ? [P]
+
+Dans le recrutement du marchand, l'impudence et l'ignorance deviennent des ressources de pouvoir. [P] La pensée généalogique de Nietzsche aide à demander comment une société produit ses jugements de valeur : certaines qualités sont vantées parce qu'elles remportent des victoires dans une lutte, non parce qu'elles servent nécessairement une vie bonne. Il ne faut ni attribuer à Nietzsche une approbation de la démagogie, ni prétendre qu'Aristophane aurait formulé la généalogie moderne. La comparaison porte sur l'écart entre valeur affichée et mécanismes sociaux de consécration. Une vertu politique peut être supplantée par un trait devenu rentable dans un concours de réputation.
+
+### 73. Nietzsche : la jubilation de l'humiliation [P]
+
+L'œuvre fait rire des menaces, des obscénités et de la déchéance finale de Paphlagon. [P] Les analyses nietzschéennes des affects, du ressentiment et des renversements de prestige permettent d'interroger le plaisir pris au déclassement d'un homme puissant. Mais la scène ne démontre pas que toutes les émotions de rire relèveraient d'un même mobile psychique. La victoire peut libérer d'une peur et produire simultanément une cruauté de revanche. Une critique de la domination doit reconnaître l'ambivalence de ses propres moyens ; le spectaculaire triomphe du marchand ne constitue pas une justification morale illimitée de l'humiliation.
+
+### 74. Vernant : la polis contre le modèle domestique [P]
+
+Jean-Pierre Vernant a exploré les transformations de la pensée grecque et les relations entre formes publiques de parole, institutions civiques et représentations religieuses. [P] La transposition d'Athènes en maison éclaire par contraste la spécificité de la cité. Un maître choisit ses serviteurs, tandis qu'une communauté de citoyens dispose d'institutions et de procédures différentes. L'allégorie est efficace parce qu'elle déforme cet écart : elle transforme un ensemble complexe de relations politiques en hiérarchie personnelle de propriété. La comparaison est méthodologique, non un emprunt conceptuel que le dramaturge aurait fait à un philosophe du XXe siècle.
+
+### 75. Vernant : le don d'Athéna et la religion civique [P]
+
+Les rivaux prétendent faire venir la nourriture de la déesse ; ils mobilisent la symbolique des honneurs civiques et du sacrifice. [P] Les travaux de Vernant rappellent qu'on ne peut séparer mécaniquement la vie politique de la religion grecque. Dans la comédie, la référence divine est une ressource de crédibilité qui peut être plaisantée et instrumentalisée. Cette critique de l'usage stratégique du sacré ne suffit pas à établir que le public rejetait la divination ou les fêtes. Le même théâtre s'insère dans une célébration religieuse. Une sociologie de la performance doit garder ces deux dimensions ensemble.
+
+### 76. Détienne : rivaliser pour dire vrai [P]
+
+Marcel Détienne, dans *Les Maîtres de vérité en Grèce archaïque*, a décrit des formes d'autorité de la parole dont les conditions diffèrent de nos procédures contemporaines de validation. [P] Le concours entre Bacis et Glanis interroge ce qui fait accepter une parole comme incontestable : son attribution, son ancienneté supposée, son style et son abondance. Le transfert du modèle de Détienne reste limité par les différences entre l'époque archaïque qu'il étudie et la comédie attique. L'intérêt est d'identifier les moyens de légitimation, sans affirmer une permanence identique des institutions de vérité.
+
+### 77. Détienne : comparer sans confondre [P]
+
+L'emploi du mot moderne « désinformation » à propos des oracles peut éclairer certains procédés mais produit un anachronisme si l'on assimile les devins grecs aux systèmes médiatiques contemporains. [P] *Comparer l'incomparable* invite à construire l'objet comparé : monopole des interprètes, distribution des documents, concurrence des récits et preuve matérielle. Les analogies deviennent alors des questions plutôt que des équivalences. L'étude montre qu'une parole peut gouverner une attention sans démontrer qu'un même mécanisme institutionnel traverserait sans changement deux millénaires et demi d'histoire.
+
+### 78. Populisme et clientélisme : un usage critique des sciences politiques [P]
+
+Christopher H. Hedetoft, dans une étude de 2022, propose une lecture de la politique athénienne à partir du populisme et d'une réciprocité clientélaire. Son résumé soutient que les orateurs et les citoyens étaient largement interdépendants. [P] Il faut garder la prudence nécessaire à ce transfert : l'Athènes classique n'est ni une démocratie représentative moderne ni une société dotée de partis contemporains. La catégorie peut servir à interroger les gratifications et la dépendance mutuelle ; elle ne doit pas se substituer à l'analyse des mots grecs et des procédures de l'époque. Une définition polémique du populisme ne devient pas une preuve par sa seule familiarité.
+
+### 79. La recherche contemporaine ne fournit pas un verdict unique [A/I]
+
+Elena Fabbro examine la souveraineté de Dêmos, l'illusion de la démocratie et son ambiguë restauration ; John Zumbrunnen insiste sur les capacités et les limites du citoyen ordinaire ; Alexandra Hardwick s'intéresse au passage des décisions de groupe à leur représentation par des individus sur scène. [I] Ces travaux ne s'annulent pas nécessairement, mais ils n'étudient pas des problèmes identiques. Les traiter comme une liste d'autorités unanimes priverait l'enquête de sa valeur critique. Leur confrontation renforce une hypothèse contrôlable : l'œuvre ne se réduit ni à la méchanceté de Cléon ni à la sottise du peuple, parce qu'elle dramatise la relation entre acteurs, procédures et images.
+
+## XI. Objections et conclusions
+
+### 80. Première objection : « Cléon n'a rien accompli » [A/L]
+
+La victoire de Sphactérie en 425 est attestée ; sa représentation comique comme motif d'usurpation de mérite ne peut l'annuler. [L] Aucune plaisanterie sur les nourritures ne constitue un jugement définitif sur la part précise de chaque stratège ou dirigeant dans l'opération. [I] La bonne question est de savoir comment le bénéfice d'une action collective peut être raconté comme la réussite unique d'une personne, et comment ce récit lui permet ensuite de revendiquer des privilèges. Une histoire politique fiable distingue l'événement, sa responsabilité complexe et son exploitation symbolique.
+
+### 81. Deuxième objection : « Dêmos est seulement un idiot » [A/I]
+
+Aux v. 1120–1150, Dêmos se dit volontairement sot et revendique un contrôle différé des chefs. [I] Cette déclaration interdit de conclure sans nuance qu'il n'a aucune capacité de jugement. Mais elle ne prouve pas que sa surveillance est efficace. L'affirmation peut être stratégie, plaisir du pouvoir ou rationalisation a posteriori. Le théâtre laisse le spectateur osciller entre admiration ironique et inquiétude. Une démocratie peut produire de l'autonomie sans rendre chacun de ses choix parfait ; une caricature de ses erreurs n'abolit pas en soi sa capacité de se corriger.
+
+### 82. Troisième objection : « les oracles sont la vérité de la pièce » [L]
+
+Les prophéties servent à justifier la succession des vendeurs et à construire une lutte d'interprétation. [L] Le texte ne fournit ni preuve que Bacis aurait prédit la chute de Cléon ni démonstration que tout citoyen partageait une doctrine prophétique. [I] Le passage critique la dépendance envers celui qui se présente comme seul traducteur autorisé des signes. La question dépasse la croyance particulière : peut-on vérifier une affirmation sans dépendre entièrement de l'intérêt de celui qui l'explique ? Le texte rend cette difficulté comiquement perceptible sans offrir un traité grec sur la connaissance.
+
+### 83. Quatrième objection : « les cavaliers sont un porte-parole impartial » [L]
+
+Le chœur fait entendre une position sociale et politique située. [L] Sa critique de Paphlagon ne constitue pas une opinion unanime de tous les Athéniens. [I] Un groupe peut dénoncer une captation du pouvoir parce qu'il la juge réellement injuste et parce qu'elle nuit à ses propres intérêts. Reconnaître cette possibilité n'annule pas sa critique ; cela évite simplement d'en faire une source sans position. Le spectateur doit juger les rivaux sans supposer que l'une des voix scéniques possède par nature tous les droits d'interprétation.
+
+### 84. Cinquième objection : « la victoire du marchand suffit à créer un bon gouvernement » [I]
+
+Le marchand a gagné un concours de surenchère, de langage religieux, de nourriture et d'insultes. Aucune scène n'établit qu'il aurait acquis pour cette raison une compétence administrative complète. [I] Le rajeunissement de Dêmos clôt l'intrigue avec une garantie merveilleuse que le monde historique ne peut reproduire. Il serait donc abusif de faire de l'homme le plus habile à flatter le peuple un modèle de responsable politique. Le génie de la comédie est de rendre la mauvaise technique tellement visible qu'elle devient risible, puis de proposer une sortie esthétique aux contradictions qu'elle a dévoilées.
+
+### 85. Sixième objection : « la pièce prouve ce que pensaient tous les spectateurs » [L]
+
+Le prix obtenu aux Lénéennes et la vigueur de l'attaque contre Cléon ne permettent pas de reconstituer l'attitude individuelle de chaque spectateur, son statut civique ni ses votes ultérieurs. [I] L'œuvre a pu être perçue comme vengeance réjouissante, satire de la démagogie, plaisanterie contre le peuple ou spectacle virtuose, parfois simultanément. La réception d'une comédie ne correspond pas à un sondage moderne. L'historien évite donc d'inférer une modification directe de la politique athénienne à partir du seul succès théâtral.
+
+### 86. Tableau de contrôle des interprétations
+
+| Épisode | Référence | Ce qui est attesté [A] | Lecture argumentée [I] | Ce qui ne l'est pas [L] |
+|---|---|---|---|---|
+| Oracle de succession | v. 107–148 | Une prophétie conservée puis volée | Monopole d'information et mise en action du récit | Archive réelle de Cléon |
+| Recrutement du vendeur | v. 180–219 | Qualités commerciales et impudence vantées | Inversion des critères de sélection | Institution athénienne qui exigeait l'ignorance |
+| Conseil et anchois | v. 624–690 | Le récit comique d'un changement d'attention | Compétition pour imposer un sujet | Procès-verbal de la Boulè |
+| Amour de Dêmos | v. 725–740 | Les rivaux se disent amoureux | Séduction et captation affective | L'intimité réelle des dirigeants |
+| Oracles Bacis/Glanis | v. 999–1100 | Deux autorités revendiquées | Bataille sur l'interprétation | Existence historique de Glanis |
+| Lucidité revendiquée | v. 1111–1150 | Dêmos dit jouer au sot | Possibilité de contrôle et de calcul | Contrôle réellement garanti |
+| Repas et paniers | v. 1160–1228 | Les dons et le reliquat sont confrontés | Preuve matérielle du partage | Comptes publics de Cléon |
+| Dêmos rajeuni | v. 1316–1408 | Une métamorphose merveilleuse | Désir de réformer la cité | Réforme constitutionnelle décrite |
+
+### 87. Résultat philosophique : la souveraineté suppose des médiations critiquables [I]
+
+La comédie met en scène trois dissymétries qui survivent à la proclamation du pouvoir populaire. Le dirigeant peut filtrer des informations et monopoliser l'interprétation des oracles ; il peut gérer une ressource collective et prétendre la donner généreusement ; il peut obtenir de la reconnaissance en proposant au peuple d'être aimé plutôt qu'informé. [I] Ces moyens ne retirent pas nécessairement le pouvoir de sanction à Dêmos, mais peuvent rendre ses choix dépendants de ce qu'on lui présente. La souveraineté effective ne se résume donc pas à prononcer une décision ; elle dépend de la disponibilité des preuves et de la possibilité de comparer les interprètes.
+
+### 88. La force et la limite de la comédie [I]
+
+Une pièce de théâtre peut rendre visible l'asymétrie des paniers, mettre en scène des oracles opposés et ridiculiser un chef qui confisque les mérites d'une guerre. Elle n'a pas besoin de rédiger un code administratif pour rendre ces problèmes intelligibles. [I] Mais le dénouement miraculeux ne fournit pas de procédure applicable pour empêcher toutes les captations. Cette différence ne diminue ni la précision de l'observation comique ni la nécessité d'une histoire institutionnelle. Les textes de Thucydide et les vestiges de Pylos demeurent les contrepoints sans lesquels les accusations de la scène risqueraient d'être traitées comme faits acquis.
+
+### 89. Conclusion générale
+
+*Les Cavaliers* exposent une difficulté fondamentale de la souveraineté : le peuple peut être le maître reconnu tout en dépendant de serviteurs qui organisent la preuve de leur propre utilité. Le rire naît de ce que les bienfaiteurs revendiquent des faveurs qu'ils financent parfois avec les biens du destinataire, de ce que les oracles deviennent des titres de propriété sur l'avenir, et de ce que le chef traite sa passion supposée pour la cité comme argument suffisant pour la gouverner. La satire n'est pas réductible à une dénonciation biographique de Cléon, car la réplique de Dêmos oblige à analyser aussi le plaisir du souverain à jouer avec les hommes qui sollicitent ses dons.
+
+La transformation finale du peuple donne une réparation poétique à une contradiction politique qui, historiquement, ne se résout ni par l'arrivée d'un marchand plus habile ni par la fin d'une seule rivalité. La thèse de cette étude peut ainsi être formulée sans anachronisme : **une cité libre ne devient pas autonome du seul fait qu'elle peut sanctionner ses dirigeants ; il importe aussi qu'elle puisse vérifier les ressources qu'ils distribuent, contester les informations qu'ils sélectionnent et refuser les critères de reconnaissance qu'ils imposent.** C'est une conclusion philosophique construite à partir des scènes, non une constitution écrite par Aristophane.
+
+---
+
+## XII. Appareil critique et bibliographie vérifiés
+
+### Textes et sources primaires
+
+1. Aristophane, *Hippeis*, v. 1–1408, texte grec Hall–Geldart d'après Perseus, passages grecs et traduction historique alignés : https://www.greekmythology.com/sources/aristophanes/knights . Ce portail fournit un accès par ensembles de vers et permet le contrôle des mots et événements invoqués ici.
+2. Aristophane, *Les Cavaliers*, v. 107–234 : oracles, métiers, qualifications du vendeur, https://www.greekmythology.com/sources/aristophanes/knights/stolen-oracle .
+3. Aristophane, *Les Cavaliers*, v. 344–497 : concours d'injures, https://www.greekmythology.com/sources/aristophanes/knights/abuse-contest .
+4. Aristophane, *Les Cavaliers*, v. 624–690 : récit de la séance du Conseil et annonce des anchois, https://www.greekmythology.com/sources/aristophanes/knights/council-report .
+5. Aristophane, *Les Cavaliers*, v. 691–835 : affrontement devant Dêmos et revendications amoureuses, https://www.greekmythology.com/sources/aristophanes/knights/before-demus .
+6. Aristophane, *Les Cavaliers*, v. 973–1110 : Bacis, Glanis, interprétations concurrentes du chien, https://www.greekmythology.com/sources/aristophanes/knights/rival-oracles .
+7. Aristophane, *Les Cavaliers*, v. 1111–1228 : souveraineté ambivalente, gourmandise, nourriture et vérification des paniers, https://www.greekmythology.com/sources/aristophanes/knights/contest-of-dainties .
+8. Aristophane, *Les Cavaliers*, v. 1229–1315 : victoire et reconnaissance, https://www.greekmythology.com/sources/aristophanes/knights/paphlagon-undone .
+9. Aristophane, *Les Cavaliers*, v. 1316–1408 : Dêmos rajeuni et mémoire civique, https://www.greekmythology.com/sources/aristophanes/knights/exodos .
+10. Éditions repérées par *The Greek Drama Reader*, F. W. Hall et W. M. Geldart (1906–1907), V. Coulon et H. van Daele (1923), et traductions comparatives : https://greekdrama.johnhboyer.com/aristophanes/knights/ .
+11. Thucydide, *Guerre du Péloponnèse*, III, 36–50 (Mytilène et politique impériale), IV, 15–41 (Pylos, négociations, Sphactérie, Cléon et Démosthène). Texte grec de Thucydide et traductions dans Perseus/Scaife ; synthèse historico-documentaire de Pylos : https://www.livius.org/articles/battle/sphacteria/ .
+12. Bouclier de bronze lacédémonien capturé à Pylos et conservé au Musée de l'Agora antique d'Athènes, photographie et notice de Giovanni Dall'Orto, 2009, licence sur : https://commons.wikimedia.org/wiki/File:3196_-_Athens_-_Sto%C3%A0_of_Attalus_Museum_-_Spartan_shield_(425_BC)_-_Photo_by_Giovanni_Dall%27Orto,_Nov_9_2009.jpg . Document de guerre, non décor scénique attesté.
+
+### Études contemporaines
+
+13. Elena Fabbro, « Democracy and power of Demos in Aristophanes' Knights », *Dioniso*, vol. 12, 2022, DOI 10.4454/dioniso.v12.453, https://journal.edizioniets.eu/index.php/dioniso/article/view/453 . Résumé accessible vérifié, notamment la question de l'illusion de souveraineté et celle de la restauration.
+14. Christopher H. Hedetoft, « Populism and Mass Clientelistic Politics in Classical Athens », *Classica et Mediaevalia*, 71, 2022, p. 139–191, DOI 10.7146/classicaetmediaevalia.v71i.134234, https://tidsskrift.dk/classicaetmediaevalia/article/view/134234 . Résumé vérifié : analyse de la réciprocité entre orateurs et peuple ; concepts modernes utilisés avec prudence.
+15. « Aristophanes' Knights and Fifth-Century Political Rhetoric », *Classics@* (Center for Hellenic Studies, Harvard), https://classics-at.chs.harvard.edu/aristophanes-knights-and-fifth-century-political-rhetoric/ . Passages consultés sur rhétorique de la conspiration et figure du chien ; ne pas en déduire des faits biographiques non documentés.
+16. « Sappho, Cleon and Eros in Aristophanes' Knights », *Classics@*, https://classics-at.chs.harvard.edu/classics16-johnston/ . Passages consultés sur les v. 728–740 et le langage des amoureux rivaux.
+17. Alexandra Hardwick, « Collective Political Decision-Making in Aristophanes », dans *Off-Stage Groups in Athenian Drama*, Oxford University Press, 2024, p. 91–122, DOI 10.1093/oso/9780198887225.003.0004, https://academic.oup.com/book/55925/chapter-abstract/439356422 . Résumé de chapitre accessible, texte intégral non revendiqué comme consulté.
+18. John Zumbrunnen, « Elite Domination and the Clever Citizen: Aristophanes’ Acharnians and Knights », *Political Theory*, 32/5, 2004, DOI 10.1177/0090591704263447, https://journals.sagepub.com/doi/10.1177/0090591704263447 . Résumé académique vérifié.
+19. Fernanda Yazbek Rivitti, « Democracy, war and peace: the bitter laughter of Aristophanes », *CODEX*, 1/2, 2009, p. 73–84, DOI 10.25187/codex.v1i2.2835, https://revistas.ufrj.br/index.php/CODEX/article/view/2835 .
+20. Elisana De Carli, « Knights, political and theatrical composition », *CODEX*, 6/1, 2018, DOI 10.25187/codex.v6i1.13933, https://revistas.ufrj.br/index.php/CODEX/article/view/13933 .
+21. Carl Anderson, « Athena’s Big Finger: Obscenity and the Gods in Knights », résumé de communication CAMWS 2004, https://camws.org/meeting/2004/abstracts2004/anderson.html . Il ne s'agit pas d'une monographie évaluée par les pairs.
+22. Ian Johnston, *The Knights* (traduction et introduction, Vancouver Island University), https://web.viu.ca/johnstoi/aristophanes/knightsweb.htm , notamment réserve sur la désignation traditionnelle des serviteurs.
+
+### Comparaisons philosophiques, non sources sur 424
+
+23. G. W. F. Hegel, *Grundlinien der Philosophie des Rechts* (1821), en particulier les médiations de la liberté et les rapports entre société civile et État. Le transfert des concepts vers une polis antique est signalé [P].
+24. Friedrich Nietzsche, *Zur Genealogie der Moral* (1887), critique des valeurs, jugements et renversements de prestige. Aucun énoncé antique n'est attribué au philosophe.
+25. Jean-Pierre Vernant, *Les Origines de la pensée grecque* (1962), *Mythe et pensée chez les Grecs* (1965), cité, formes de publicité et représentations religieuses.
+26. Marcel Détienne, *Les Maîtres de vérité en Grèce archaïque* (1967), *Comparer l'incomparable* (2000), distinction méthodologique des régimes de parole et des contextes historiques.
+
+**Limites éditoriales et scientifiques.** Aucun spectateur du concours n'a laissé une liste exhaustive de ses réactions ; aucune photographie du jeu et des costumes n'existe ; aucune scène comique ne peut prouver à elle seule un délit réel ; les résumés savants sous accès limité ne sont pas présentés comme intégralement lus ; la confrontation avec Nietzsche et Hegel ne postule aucune influence d'auteurs postérieurs sur Aristophane ; l'objet iconographique de Pylos est postérieur à la bataille comme document conservé, non une photographie d'une représentation de 424 ; les comparaisons contemporaines ne se substituent jamais aux mots grecs.
+
+**Continuité et numéro.** Les volumes antérieurs cités par leur numéro historique sont des études distinctes déjà attribuées ; leurs numéros restent littéraux. Seuls 210 et CCX désignent la présente nouvelle étude. La création de cette demande éditoriale n'attribue aucun numéro définitif : seul le reçu enregistré atomiquement dans le registre de publication avec le manuscrit numéroté le fera. Aucun contenu n'est déclaré publié sur le domaine avant vérification du déploiement.

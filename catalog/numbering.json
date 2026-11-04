@@ -540,6 +540,12 @@
         "url": "/chapitres/encyclopedie/chapitre-392-horme-elan-impulsion-action-agora-stoiciens/",
         "title": "Chapitre 392 — Chapitre 392 — Hormè (Ὁρμή) : l'élan divin, l'impulsion et la responsabilité de l'action",
         "source": "chapitres/encyclopedie/chapitre-392-horme-elan-impulsion-action-agora-stoiciens.md"
+      },
+      {
+        "number": 393,
+        "url": "/chapitres/encyclopedie/chapitre-393-eukleia-bonne-renommee-artemis-mariage-marathon-aigai-eurydice/",
+        "title": "Chapitre 393 — EUKLEIA (Εὔκλεια) — La bonne renommée, la gloire civique et la protection des unions",
+        "source": "chapitres/encyclopedie/chapitre-393-eukleia-bonne-renommee-artemis-mariage-marathon-aigai-eurydice.md"
       }
     ],
     "tragedies": [
@@ -1268,6 +1274,12 @@
         "url": "/chapitres/tragedies/volume-ccxx-sophocle-chryses-filiation-reconnaissance-hygin-pacuvius/",
         "title": "Volume CCXX (220) — Sophocle, Chrysès (Χρύσης) — Le prêtre, le fils caché, la reconnaissance et les métamorphoses d'un mythe troyen",
         "source": "chapitres/tragedies/volume-ccxx-sophocle-chryses-filiation-reconnaissance-hygin-pacuvius.md"
+      },
+      {
+        "number": 221,
+        "url": "/chapitres/tragedies/volume-ccxxi-sophocle-tyro-tondue-corps-humiliation-sidero-poseidon/",
+        "title": "Volume CCXXI (221) — Sophocle, Tyro tondue (Tyrō keiromenē) — Corps humilié, violence familiale et autorité divine : enquête sur une tragédie perdue",
+        "source": "chapitres/tragedies/volume-ccxxi-sophocle-tyro-tondue-corps-humiliation-sidero-poseidon.md"
       }
     ],
     "comparatif": [
@@ -2215,6 +2227,18 @@
         "url": "/chapitres/comparatif/volume-ccix-mc-036-parler-aux-morts-lettres-necromancie-oracles-egypte-mesopotamie-grece-israel-shang/",
         "title": "Volume CCIX (209) — MC-036 — Parler aux morts pour gouverner les vivants : lettres funéraires, nécromancie, oracles ancestraux et autorité du passé, de l'Égypte à la Chine des Shang",
         "source": "chapitres/comparatif/volume-ccix-mc-036-parler-aux-morts-lettres-necromancie-oracles-egypte-mesopotamie-grece-israel-shang.md"
+      },
+      {
+        "number": 210,
+        "url": "/chapitres/comparatif/volume-ccx-cavaliers-aristophane-demos-cadeaux-oracles-souverainete-rhetorique-424/",
+        "title": "Volume CCX (210) — Qui gouverne le peuple souverain ? Les Cavaliers d'Aristophane : cadeaux, oracles, souveraineté, captation de la parole et fabrication du consentement (424 av. n. è.)",
+        "source": "chapitres/comparatif/volume-ccx-cavaliers-aristophane-demos-cadeaux-oracles-souverainete-rhetorique-424.md"
+      },
+      {
+        "number": 211,
+        "url": "/chapitres/comparatif/volume-ccxi-mc-037-fleuve-juge-ordalies-eau-hammurabi-mari-nombres-manu-styx/",
+        "title": "Volume CCXI (211) — Dossier historique MC-037 — Le fleuve comme juge : ordalies d'eau, preuves divines et souveraineté du droit, de la Mésopotamie à Israël, à l'Inde et à la Grèce",
+        "source": "chapitres/comparatif/volume-ccxi-mc-037-fleuve-juge-ordalies-eau-hammurabi-mari-nombres-manu-styx.md"
       }
     ],
     "comedies": [

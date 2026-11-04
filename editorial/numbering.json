@@ -586,6 +586,12 @@
           "path": "chapitres/encyclopedie/chapitre-392-horme-elan-impulsion-action-agora-stoiciens.md",
           "request_sha256": "64c0718d540e8f48e2003291c05e137959a32ea4c463d98d6827c778d377e1e6",
           "initial_source_sha256": "8acac8acbc71f449480406d5657e22ed1eeca95a719375a39db91cf8f6470231"
+        },
+        "b88be235-a365-4e18-93c9-b4d9973f2771": {
+          "number": 393,
+          "path": "chapitres/encyclopedie/chapitre-393-eukleia-bonne-renommee-artemis-mariage-marathon-aigai-eurydice.md",
+          "request_sha256": "b27879620c97a4e48e6ed612332425e54d14c470382f3f119799833de5516359",
+          "initial_source_sha256": "298d26715b44021945e5ccfec4a421bfefb492c6cad74529012a6df3a1b78c4b"
         }
       }
     },
@@ -994,6 +1000,12 @@
           "path": "chapitres/tragedies/volume-ccxx-sophocle-chryses-filiation-reconnaissance-hygin-pacuvius.md",
           "request_sha256": "8cd3c143d714393124a9db80e1008f9b33e2c69f62ae4882db68adac04e5821d",
           "initial_source_sha256": "f30fc934339307aa8c3bc50430d1205a6a4a74c47fe7cbdfd4f4a802bf2fedb2"
+        },
+        "06eb3e31-3d64-4b82-af69-70c5d94c1bf7": {
+          "number": 221,
+          "path": "chapitres/tragedies/volume-ccxxi-sophocle-tyro-tondue-corps-humiliation-sidero-poseidon.md",
+          "request_sha256": "f5d927952fb09640080e260e7b6a167050daaa703c1051cd3848c87221e26176",
+          "initial_source_sha256": "652fda920248bb763e1f75b5fb903be3a9b42da218703f7be2e65b6ad7e2381e"
         }
       }
     },
@@ -1405,6 +1417,18 @@
           "path": "chapitres/comparatif/volume-ccix-mc-036-parler-aux-morts-lettres-necromancie-oracles-egypte-mesopotamie-grece-israel-shang.md",
           "request_sha256": "721b5556ccae7e8c5f14c2506c17c334e971037d314986c98a094a8bfe0e315c",
           "initial_source_sha256": "00a173376b5e92c2eaae6d0e1ce83555a83fb36caee4404670334ee8e4f89603"
+        },
+        "1c8e74b6-5d90-461a-a312-0fd4b9e6c725": {
+          "number": 210,
+          "path": "chapitres/comparatif/volume-ccx-cavaliers-aristophane-demos-cadeaux-oracles-souverainete-rhetorique-424.md",
+          "request_sha256": "a729c8c82eec7f8abc15a47d48e7db4c36bc4a71201a823836bacb5cc3d55456",
+          "initial_source_sha256": "ec580a7196472f05ad9d9cd6991a16337e4b905702f7855e7227e5fb612d1878"
+        },
+        "a3c7f821-2d5b-4f68-a0b9-7c6de4f0a137": {
+          "number": 211,
+          "path": "chapitres/comparatif/volume-ccxi-mc-037-fleuve-juge-ordalies-eau-hammurabi-mari-nombres-manu-styx.md",
+          "request_sha256": "192343ddf41a400efa0ae4293bf17069942e7d0e1194f1d93a02bb4c79852480",
+          "initial_source_sha256": "e074a3620f52b36984d32e6042ba62a5f1e6e98544c4c174b14f315343b00b5c"
         }
       }
     }

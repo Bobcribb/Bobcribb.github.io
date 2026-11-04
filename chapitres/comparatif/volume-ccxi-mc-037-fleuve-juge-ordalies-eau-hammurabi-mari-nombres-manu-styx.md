@@ -1,0 +1,427 @@
+# MYTHOS — Cycle universitaire de mythologie comparée — Volume CCXI (211)
+
+## Dossier historique MC-037 — Le fleuve comme juge : ordalies d'eau, preuves divines et souveraineté du droit, de la Mésopotamie à Israël, à l'Inde et à la Grèce
+
+**Monographie universitaire originale, 4 novembre 2026.**  
+**Collection :** MYTHOS — mythologie comparée, histoire du droit, philologie sémitique et sanskrite, histoire religieuse et philosophie politique.  
+**Identifiant historique :** **MC-037**, qui comble une lacune documentaire vérifiée dans la succession des identifiants historiques. **Le numéro du volume romain est attribué uniquement par le registre transactionnel du dépôt GitHub**, et ne doit ni être réservé ni être rétroattribué au présent manuscrit.  
+**Statut éditorial :** demande de monographie intégrale destinée au circuit GitHub. Son dépôt dans \`editorial/inbox/\` ne prouve pas l'existence d'une page HTML, d'un déploiement réussi ni d'une adresse publique fonctionnelle sur bobmythos.fr.
+
+**Continuité contrôlée :** MC-024 (« Amon, Rê et Aton »), MC-025 (« Maât et Isfet »), MC-026 à MC-034, MC-035 (« Gardiens du seuil ») et MC-036 (« Parler aux morts ») existent dans le corpus historique et/ou dans le registre ; MC-038 (« Messagers du sacré ») figure comme volume canonique CCVII (207) au moment du contrôle du 4 novembre 2026, tandis que MC-036 figure au volume CCIX (209). **La numérotation historique MC est indépendante de l'ordre transactionnel des volumes romains.** Le contrôle du registre \`editorial/numbering.json\`, la recherche des fichiers et les commits sur \`main\` n'ont révélé **aucune livraison MC-037**. Ce manuscrit comble ce trou sans supprimer, renuméroter ni recopier MC-038 ou une quelconque autre étude. Le registre atteignait le volume canonique CCIX (209) au moment du contrôle. Les volumes MC-027 sur les serments et le chapitre 622 des Origines du sacré sur la preuve divine constituent des renvois, mais **l'étude présente est spécifiquement consacrée à l'ordalie, à la procédure probatoire et à ses différents mécanismes**.
+
+### Résumé scientifique
+
+Au début du IIe millénaire avant notre ère, la monarchie babylonienne pouvait représenter le fleuve comme une instance apte à trancher une accusation que les preuves humaines ne suffisaient pas à établir. **Le recueil de décisions de Hammurabi, § 2**, soumet à l'« épreuve du Fleuve » une personne accusée de pratiques magiques que le plaignant n'a pas réussi à prouver. **Le § 132** prévoit qu'une épouse soupçonnée d'une relation avec un autre homme, sans avoir été surprise dans l'acte, soit soumise au Fleuve au nom de son mari ; **le § 131**, lui, prévoit une justification par serment pour une accusation différente, ce qui interdit de confondre tous les moyens de preuve. Des **lettres du palais de Mari**, étudiées par Joanna Töyräänvuori en 2021, montrent que l'ordalie fluviale n'est pas seulement une fiction juridique gravée : des procédures d'enquête, des témoignages contestés et une médiation royale sont documentés, même si le détail de chaque épreuve demeure incertain.
+
+Dans la Bible hébraïque, **Nombres 5,11–31** présente un autre dispositif : le prêtre prépare une eau mêlée à la poussière du sanctuaire, efface dans ce liquide les paroles écrites d'une malédiction et le fait boire à une femme soupçonnée d'infidélité conjugale. Il ne s'agit pas d'immerger une personne dans un cours d'eau ; la médiation est **textuelle, sacerdotale et corporelle**. Le *Manusmṛti* **VIII, 114–116**, distingue également diverses épreuves, dont le feu et l'immersion dans l'eau, dans un cadre normatif de justice et d'assignations sociales différenciées. Le *Rāmāyaṇa* **VI, 118,1–7**, où Agni rend Sītā indemne et atteste son innocence, fournit un parallèle **narratif**, non la preuve de la mise en œuvre ordinaire d'une ordalie de feu. Enfin, le Styx grec est, chez Hésiode (*Théogonie* 775–806), l'eau du serment redoutable des immortels : il s'agit d'un **mécanisme mythologique de sanction des dieux**, non de la preuve d'un plongeon judiciaire imposé aux Athéniens.
+
+**Thèse centrale [I] :** l'ordalie est moins une croyance indifférenciée selon laquelle « l'eau sait la vérité » qu'une **technique institutionnelle de production d'un verdict lorsque la preuve humaine manque ou est jugée insuffisante**. Ses variantes placent l'autorité dans une rivière divinisée, une parole de malédiction incorporée, une épreuve physique interprétée ou un récit où une divinité se fait témoin. Elles déplacent la difficulté de démontrer les faits vers celle de **reconnaître un signe comme décision juste**. Ce déplacement peut stabiliser un conflit, mais aussi exposer les accusés aux risques physiques, sociaux et politiques ; il n'équivalait pas à un système moderne de présomption d'innocence.
+
+### Système critique et protocole des attestations
+
+- **[A] Attestation documentaire ou textuelle directe :** objet inventorié, inscription, passage source identifié, texte normatif ou scène littéraire précisément désignée. Une procédure attestée dans un texte ne garantit pas qu'elle était pratiquée dans tous les lieux et toutes les époques.
+- **[T] Philologie et transmission :** mot dans sa langue, graphies, déterminatifs, variantes, traduction, histoire de l'édition, ambiguïtés ou stratification chronologique.
+- **[I] Inférence historienne :** argument à partir de plusieurs attestations, avec degré de généralité et contre-exemples.
+- **[H] Hypothèse :** reconstruction de l'exécution, influence interculturelle, motif transmis ou datation litigieuse sans preuve suffisante.
+- **[P] Lecture philosophique :** interrogation moderne sur la preuve, la souveraineté, l'innocence, la vérité ou la violence symbolique. Jamais attribuée littéralement aux scribes antiques.
+
+La bibliographie distingue **sources primaires effectivement localisées** et **études secondaires servant de repères historiographiques**. Les traductions de travail sont volontairement brèves et paraphrasées ; elles ne remplacent pas l'édition critique. Aucune reconstruction de rituel dangereux ne doit être présentée comme recommandation pratique.
+
+---
+
+## I. L'ordalie : définir l'objet sans créer une institution universelle
+
+### 1. Juger lorsque les témoins ne suffisent plus [I]
+Les sociétés antiques disposent de témoins, contrats, serments, documents, enquêtes et sanctions, mais ces moyens ne résolvent pas toujours une accusation. Lorsqu'un témoignage est contradictoire ou suspect, l'autorité peut organiser une procédure dans laquelle le résultat est imputé à une puissance religieuse. C'est l'ordalie au sens analytique : **une épreuve dont l'issue est tenue pour révélatrice de la justice de la cause**. Elle ne correspond ni à toutes les formes de divination ni à toutes les prescriptions cultuelles utilisant de l'eau. Dans une procédure, qui décide de recourir à l'épreuve et qui accepte son issue sont des questions décisives.
+
+### 2. Serment et ordalie ne sont pas des synonymes [I]
+Dans un serment, une personne engage sa parole sous la garantie d'une sanction divine éventuelle. Dans une ordalie, elle traverse une épreuve matérielle dont un résultat observé reçoit valeur de verdict. Les deux peuvent être associés, et certaines listes indiennes les rapprochent ; mais le **§ 131** du recueil de Hammurabi fait jurer une épouse dans un cas déterminé, alors que le **§ 132** lui impose un passage au Fleuve dans un autre. Les différences de vocabulaire, d'institution et de critère de preuve ne doivent pas disparaître sous un terme générique tel que « magie judiciaire ».
+
+### 3. Le mot « ordalie » est une catégorie historiographique [T]
+Le français « ordalie » remonte au domaine germanique médiéval et n'est pas un mot sumérien, akkadien, hébreu ou sanskrit. Employer le terme pour l'âge du Bronze est une traduction conceptuelle, justifiable si elle est explicitement définie. Le grec *horkos* renvoie à un serment, le sanskrit *divya* peut désigner des épreuves dans certaines traditions juridiques et l'akkadien des textes de Mari connaît des formulations techniques liées au « fleuve ». On ne doit pas affirmer que ces mots sont les descendants d'un terme rituel commun.
+
+### 4. La date du monument et celle d'une pratique [T]
+La stèle de Hammurabi est gravée dans la première moitié du XVIIIe siècle av. n. è., selon la chronologie moyenne généralement employée par le Louvre ; elle a ensuite été déplacée à Suse comme butin. Des pratiques attestées par les lettres de Mari sont historiquement voisines mais appartiennent à des contextes particuliers, avant la destruction de la ville vers 1759 av. n. è. Le récit biblique et les traités indiens sont bien plus tardifs dans leurs formes textuelles conservées. Une comparaison ne constitue pas une chronologie continue d'une seule institution.
+
+### 5. Une épreuve physique n'est pas une expérience scientifique [P]
+Une ordalie se déroule dans un cadre où l'on interprète un résultat comme signe de droit. Le régime de preuve n'est pas celui d'une expérience contrôlée capable d'évaluer sans biais la culpabilité. La rivière peut être dangereuse pour des raisons naturelles indépendantes de la vérité d'une accusation. Analyser les fonctions sociales et religieuses d'une telle épreuve n'oblige pas à accepter son efficacité pour établir une vérité judiciaire selon les critères contemporains.
+
+### 6. La décision divine est médiatisée par des humains [I]
+L'épreuve ne produit pas seule sa signification. Des personnes formulent la question, choisissent les témoins et le lieu, décrivent l'issue et appliquent la sanction. Dans les récits et les lois, le divin est souvent reconnu comme arbitre, mais les institutions organisent la procédure. L'ordalie n'est donc pas une disparition du juge humain : elle reconfigure ses tâches. Cela invite à examiner les intérêts du plaignant, le statut de l'accusé, le rôle de l'autorité et la stabilité politique recherchée.
+
+---
+
+## II. Hammurabi : le Fleuve saisi comme juge
+
+### 7. La stèle du Louvre, inventaire SB 8 [A]
+La stèle du recueil dit « Code de Hammurabi » est conservée au **Musée du Louvre, SB 8**, avec les références secondaires **AS 6064** et **Pezard et Pottier 8**. Le monument, d'environ 225 cm, provient de la Mésopotamie et a été découvert à Suse ; le relief supérieur représente le roi devant **Šamaš**, dieu solaire lié à la justice. La notice institutionnelle rappelle qu'il ne s'agit pas d'un code moderne complet destiné à une application uniforme. Sources : https://collections.louvre.fr/en/ark:/53355/cl010174436 et https://www.louvre.fr/le-code-de-hammurabi .
+
+### 8. Justice royale et garantie divine [A/I]
+Le prologue associe le souverain à un mandat d'ordre et de justice, accordé par les dieux. Le relief ne représente pas le Fleuve de l'ordalie : il montre Hammurabi et Šamaš. Il est méthodologiquement fautif de présenter chaque prescription comme directement « dictée par Šamaš » au sens littéral. La proximité entre autorité divine et décision royale est idéologique et monumentale. La gravure soutient le prestige d'une monarchie qui se donne comme protectrice de la justice, mais le texte contient aussi des sanctions et distinctions sociales très fortes.
+
+### 9. Le § 2 : accusation non prouvée [A]
+La disposition **§ 2** concerne une accusation de **kišpū**, pratiques de sorcellerie ou envoûtement, dirigée contre un homme sans que le plaignant puisse établir sa culpabilité. Le texte prescrit que l'accusé se rende au **Fleuve**, s'y plonge et soit jugé par son sort. S'il est « vaincu », le plaignant prend ses biens ; s'il est déclaré quitte et sort sain et sauf, l'accusateur est exécuté et le survivant reçoit les biens de celui-ci. Le passage est vérifiable avec signes, translittération et édition de travail : https://www.ehammurabi.org/law/2.html .
+
+### 10. Translittération : le Fleuve n'est pas un simple décor [T]
+Le texte de **§ 2** donne notamment **\`a-na ^dÍD i-il-la-ak\`**, « il ira au Fleuve », puis **\`^dÍD i-ša-al-li-a-am-ma\`**, « il plongera dans le Fleuve » ; la séquence **\`^dÍD ú-te-eb-bi-ba-aš-šu-ma\`** est traduite par l'action du Fleuve qui « le purifie / le déclare innocent ». La graphie **^dÍD**, avec déterminatif divin, est essentielle : le cours d'eau est investi d'une agence divine dans la formulation du texte. La normalisation et les valeurs des verbes doivent être collationnées à l'édition ; la transcription donnée ici n'est pas un fac-similé de tablette.
+
+### 11. *Kišpū* : une accusation précise [T]
+Le pluriel akkadien **kišpū** est usuellement rendu par « sorcellerie, pratiques maléfiques ». Le § 2 ne traite pas indistinctement d'une accusation de vol, de trahison ou d'adultère. La spécificité du grief importe, parce qu'une accusation difficile à corroborer humainement peut menacer l'accusé et sa famille. La lecture traditionnelle de L. W. King, parfois reprise sans le contexte du mot, peut sembler généraliser tout type d'accusation : l'édition eHammurabi permet de retrouver le terme et d'éviter cette confusion.
+
+### 12. Le résultat conditionne le sort des deux familles [A/I]
+La disposition n'expose pas seulement l'accusé à un risque. Lorsque le Fleuve l'innocente, le plaignant subit une sanction extrême et perd ses biens. Le système cherche à rendre coûteuse une dénonciation non prouvée. Cette symétrie relative n'est pas une égalité juridique moderne, mais une technique visant à empêcher le détournement malveillant de l'accusation. L'historien doit néanmoins interroger comment les différences de statut, les ressources et la vulnérabilité physique pouvaient affecter le risque réel.
+
+### 13. Ce que signifie « le Fleuve a vaincu » [T/I]
+La traduction du verbe associé à l'échec exprime l'action du cours d'eau contre la personne soumise à l'épreuve. Le texte ne décrit pas tous les mouvements du plongeur ni une mesure chronométrée. Affirmer que la procédure suivait partout la règle simpliste « celui qui coule est coupable, celui qui flotte est innocent » serait une reconstruction trop rapide. Ce sont les critères formulés dans chaque texte, les traditions d'exécution et les témoins de pratique qui doivent commander l'interprétation.
+
+### 14. Le Fleuve comme sujet grammatical [T]
+Dans le texte, le Fleuve n'est pas seulement l'endroit où un homme se baigne ; il agit en tant que puissance qui « maîtrise » ou « purifie ». Cette agency grammaticale ne signifie pas que les scribes ignoraient les dangers physiques de l'eau. Elle montre que la décision pouvait être attribuée à une entité religieusement reconnue. Les formules sont des catégories indigènes de preuve et de décision. La comparaison avec la parole du prêtre de Nombres 5 portera sur le **mode d'attribution** du verdict.
+
+### 15. Le § 132 et le soupçon d'adultère [A]
+Le **§ 132** concerne une épouse montrée du doigt en raison d'un autre homme, alors qu'elle n'a pas été surprise dans la relation alléguée. Le texte prévoit une immersion au Fleuve « pour son mari » ; voir https://www.ehammurabi.org/law/132.html . Ce passage doit être distingué de cas d'adultère avéré et de dispositions impliquant la noyade comme sanction. Le recours à l'épreuve vient ici de **l'absence de preuve directe**, non d'une décision déjà établie de culpabilité.
+
+### 16. Le § 131 constitue un contre-exemple interne [A]
+La disposition immédiatement précédente, **§ 131**, traite d'une autre situation de soupçon conjugal et demande un **serment divin**, pas l'immersion au Fleuve. Elle montre que le recueil classait plusieurs moyens de preuve et que les variables de l'accusation pouvaient orienter le type d'épreuve. Un comparatisme sérieux ne doit pas fusionner les deux textes pour imaginer que chaque femme accusée d'adultère était jetée à l'eau à Babylone.
+
+### 17. La condition féminine et le risque [I]
+L'épouse de § 132 se trouve soumise à une procédure en raison d'une accusation portée ou colportée, sans que le texte établisse qu'elle a effectivement commis l'acte. La distribution de l'épreuve est socialement asymétrique. Le rapprochement avec la femme de Nombres 5 n'autorise pas à dire que les deux normes sont identiques, mais montre que **le soupçon conjugal peut produire une exposition corporelle de la femme**. La critique doit distinguer analyse du statut antique et évaluation éthique contemporaine.
+
+### 18. Une stèle ne mesure pas la fréquence de mise en œuvre [I]
+Le texte monumental montre qu'un souverain choisit d'exhiber ces décisions dans son recueil. Il ne donne pas le nombre annuel des ordalies, ni leur taux de survie. Il faut éviter la confusion entre norme, idéologie royale et archive d'un procès singulier. Les lettres de Mari constituent précisément un complément : elles apportent des indications de pratiques judiciaires et de circonstances qui ne se laissent pas déduire automatiquement de la forme casuistique du monument de Hammurabi.
+
+---
+
+## III. Mari : les documents d'une pratique, au-delà du monument
+
+### 19. Les archives du Moyen-Euphrate [A]
+Mari, sur le Moyen-Euphrate, a livré des archives palatiales en tablettes du XVIIIe siècle av. n. è. Elles permettent de suivre des décisions et échanges qui ne sont pas uniquement des formulations théoriques. **Joanna Töyräänvuori**, « Trial by Water through the Ages », *Studia Antiqua et Archaeologica* **27/2 (2021), p. 301–330**, souligne que les meilleures attestations de l'ordalie fluviale se trouvent dans des lettres de Mari. Notice et résumé de l'Université d'Helsinki : https://researchportal.helsinki.fi/en/publications/trial-by-water-through-the-ages/ .
+
+### 20. Une institution liée à des témoins contestés [I]
+Selon la synthèse publiée par Töyräänvuori, l'ordalie intervient notamment lorsque les déclarations de témoins sont devenues difficiles à apprécier par les moyens ordinaires de preuve. Elle est donc un recours dans une situation probatoire déterminée plutôt qu'une procédure automatique pour chaque accusation. Le recours au Fleuve peut transformer un conflit où la parole humaine est compromise en décision religieusement garantie. Cette interprétation, fondée sur l'ensemble du dossier de Mari, devra être testée lettre par lettre avant d'être généralisée à d'autres archives.
+
+### 21. La royauté et les frontières du jugement [I]
+Mari est un centre politique dont les relations avec d'autres royaumes amorrites sont très documentées. Les épreuves du Fleuve ont pu concerner des personnes, des litiges et des intérêts qui dépassaient la sphère domestique. La synthèse de Töyräänvuori mentionne également les conflits politiques, les accusations de trahison et certains différends territoriaux. Sans la translittération de chaque tablette, ces indications restent des **résultats historiographiques sourcés**, et non une prétention à citer ici intégralement l'original cunéiforme.
+
+### 22. Le cours d'eau devient une compétence judiciaire [I]
+Dans une situation où les deux parties contestent les faits, attribuer le verdict au Fleuve peut offrir une sortie institutionnelle à un blocage. La puissance du cours d'eau n'est pas simplement une métaphore de la purification. Il s'agit de la capacité prêtée au lieu et à l'événement d'arbitrer un litige. La décision nécessite néanmoins une organisation humaine : déplacement, proclamation, témoins, récit de l'épreuve et sanction. La médiation politique reste déterminante.
+
+### 23. Pourquoi les archives ne justifient pas une scène inventée [T]
+Les recherches modernes débattent des détails exacts de la procédure : conditions du site, distance, courant, gestes des participants, modalités de survie et formulation de la décision. L'absence d'un protocole intégral identique dans chaque lettre empêche de produire une reconstitution cinématographique assurée. La monographie ne décrit donc pas une « immersion-type de Mari » minute par minute. Elle expose une institution et les limites de la documentation accessible.
+
+### 24. Le site et sa destruction [A/I]
+La destruction de Mari vers 1759 av. n. è. marque une rupture documentaire importante. Elle ne permet pas d'affirmer que toutes les ordalies fluviales ont immédiatement disparu ailleurs en Mésopotamie ; l'historien distingue fin d'un centre d'archives, éventuelle disparition de sanctuaires et continuité de pratiques dans d'autres régions. La synthèse universitaire relève un affaiblissement ou une transformation du dossier après la destruction, sans justifier le mythe d'une institution définitivement abolie dans tout le Proche-Orient.
+
+### 25. Les tablettes comme archive d'événements et de voix [P]
+Les lettres possèdent un intérêt philosophique particulier : elles montrent des institutions qui ont besoin de décider même quand les témoignages disponibles ne convainquent pas. Le recours au Fleuve peut donner une légitimité à un verdict, sans rendre plus fiable, selon nos critères, la détermination des faits. La tension entre clôture du conflit et connaissance de la vérité traverse la philosophie du droit. Cette lecture ne prétend pas que les auteurs des lettres avaient conçu un traité sur l'épistémologie judiciaire.
+
+### 26. Le rapprochement avec le § 2 : convergence, pas identité [I]
+Le § 2 du recueil de Hammurabi et les lettres de Mari mobilisent un Fleuve considéré comme apte à trancher. Mais leurs formes, leurs destinataires et leur contexte ne sont pas interchangeables : monument royal casuistique d'un côté, correspondance administrative de l'autre. La convergence renforce l'existence régionale d'un répertoire d'épreuves ; elle n'autorise pas à recopier toutes les sanctions de § 2 dans un procès de Mari particulier. C'est le passage contrôlé du rapprochement à l'interprétation.
+
+---
+
+## IV. Nombres 5 : les eaux amères et le soupçon conjugal
+
+### 27. Une scène sacerdotale, non une plongée fluviale [A]
+**Nombres 5,11–31** décrit un rite que doit accomplir le prêtre lorsqu'un mari soupçonne sa femme d'infidélité sans preuve directe. La femme est amenée devant YHWH ; le prêtre prépare une eau sainte dans un vase d'argile, ajoute de la poussière du sol du sanctuaire, formule la malédiction et fait boire le mélange. Le point crucial est l'incorporation d'une parole rituelle et d'une eau, non une immersion dans un fleuve. Texte massorétique et traduction : https://www.sefaria.org/Numbers.5.11-6.27 .
+
+### 28. Le statut du mari et de l'accusée [A/I]
+L'initiative appartient au mari atteint par un « esprit de jalousie » ; la femme est placée devant le prêtre. Le dispositif est asymétrique : le texte ne prévoit pas la procédure équivalente pour tester un homme soupçonné par sa femme dans les mêmes conditions. Cette asymétrie n'est pas un accident de la traduction. Elle doit être analysée au titre du pouvoir conjugal et du régime de pureté. La comparaison avec § 132 de Hammurabi porte sur la structure du soupçon non démontré, sans présumer de toute identité historique.
+
+### 29. L'offrande de jalousie [A]
+Le passage **5,15 et 18** associe l'épreuve à une offrande de farine d'orge, désignée comme offrande de souvenir ou de jalousie selon les expressions. L'obligation rituelle possède donc plusieurs composantes : présentation de l'accusée, présence du prêtre, objet sacrificiel, eau, parole et action sur l'écrit. La réduction moderne du passage à « la femme boit un poison » efface ces médiations et ne trouve pas de preuve chimique d'un poison déterminé dans le texte.
+
+### 30. L'eau sacrée et la poussière [A/T]
+Le **verset 17** prescrit de prendre des **mayim qedoshim**, « eaux saintes », dans un vase d'argile puis d'y placer la poussière du sol du sanctuaire. L'origine et la fonction exacte de chaque substance doivent être analysées dans le système symbolique sacerdotal. Le texte n'identifie pas une composition toxique standard et mesurable. L'eau est porteuse d'un effet revendiqué dans le récit normatif, mais cette efficacité ne se démontre pas scientifiquement par la lecture du passage.
+
+### 31. *Mê hammārîm* : « eaux amères » [T]
+L'expression hébraïque **מֵי הַמָּרִים**, *mê hammārîm*, est usuellement rendue par « eaux amères ». Elle est associée à **הַמְאָרְרִים**, souvent compris comme « qui apportent la malédiction », dont les traductions modernes signalent les difficultés de sens. Il serait trop simple d'inférer que l'eau contient nécessairement une substance naturellement amère. L'amertume peut relever de la fonction redoutée du liquide. Les notes de la traduction Sefaria illustrent cette prudence : https://www.sefaria.org/Numbers.5.23 .
+
+### 32. L'écriture destinée à disparaître [A]
+**Nombres 5,23** prescrit que le prêtre écrive les paroles de malédiction dans un document et les efface ensuite dans les eaux. C'est un phénomène exceptionnel du point de vue de l'histoire de l'écriture rituelle : un texte reçoit une autorité précisément en étant **dissous** dans un support liquide destiné à être ingéré. On n'en conclut pas à une réaction chimique prouvant une faute. L'acte associe la matérialité de l'écrit au verdict attribué à l'intervention divine.
+
+### 33. *Māḥāh* : effacer l'écrit [T]
+Le verbe hébreu **מָחָה**, *māḥāh*, signifie ici « effacer » ou « faire disparaître » l'inscription. La procédure transforme une parole de malédiction en liquide rituellement chargé. Les techniques concrètes d'encre ou de support ne sont pas décrites avec assez de précision pour qu'on en invente une expérience de laboratoire. L'interprétation correcte est historique et philologique : l'écrit est traité comme un objet qui peut passer de l'espace visible de la tablette ou du rouleau au corps de la personne examinée.
+
+### 34. Double assentiment et formule de serment [A]
+Le **verset 22** prévoit que la femme réponde **« amen, amen »**, sous une parole conditionnelle. Cette réponse constitue un moment d'adhésion formelle à la procédure dans le cadre normatif du texte ; il ne faut pas la confondre avec une situation de consentement libre au sens juridique moderne. La présence du serment à l'intérieur de l'épreuve rappelle que la distinction entre parole engageante et test matériel n'empêche pas leur combinaison dans un dispositif rituel complexe.
+
+### 35. Conséquences corporelles : prudence de traduction [T]
+**Nombres 5,21–28** parle d'une réaction du ventre et de la « cuisse » ou région anatomique que les traductions interprètent diversement. Les expressions hébraïques doivent être collationnées ; elles ont donné lieu à des lectures portant sur la fécondité, l'infertilité et le corps reproducteur. Il serait abusif d'identifier avec certitude une pathologie précise ou d'affirmer une méthode abortive attestée sans analyse médicale et textuelle indépendante. Le récit présente une sanction conditionnelle qu'il attribue au jugement divin.
+
+### 36. Le verset d'innocence [A]
+Le **verset 28** prévoit que, si la femme est restée pure, elle soit indemne et conserve ou retrouve une possibilité de concevoir. Le rituel n'est donc pas formulé exclusivement comme une punition certaine ; il décrit une épreuve conditionnelle. Mais l'asymétrie de la situation subsiste : l'innocente est exposée publiquement au soupçon et doit subir une cérémonie corporelle. L'analyse morale doit maintenir ensemble le langage normatif de l'acquittement et l'inégalité de la procédure.
+
+### 37. La source biblique et la pratique historique [I/T]
+La conservation d'une loi dans un texte sacerdotal n'établit pas combien de fois le rite fut pratiqué dans le sanctuaire, ni à quelle date précise la rédaction reçut sa forme finale. Il existe une histoire rédactionnelle du Pentateuque et des traditions sacerdotales ; une mise en œuvre quotidienne ne peut être inventée à partir de la prescription seule. Le récit est une source solide sur un modèle normatif de preuve et sur sa réception ultérieure, plus difficile sur le nombre de femmes effectivement soumises à l'épreuve.
+
+### 38. La Mishnah Sotah : mémoire de l'abandon du rite [A]
+**Mishnah Sotah 9,9** rapporte que les « eaux amères » cessèrent d'être administrées et attribue leur cessation à **Rabban Yohanan ben Zakkaï** dans un contexte de dégradation des comportements conjugaux. La source est une tradition rabbinique ultérieure ; elle ne constitue pas un registre administratif des épreuves du Temple. Elle témoigne de la manière dont un rite ancien fut interprété, limité et situé dans l'histoire religieuse du judaïsme rabbinique : https://www.sefaria.org/Mishnah_Sotah.9.9 et https://en.wikisource.org/wiki/Translation:Mishnah/Seder_Nashim/Tractate_Sotah/Chapter_9/9 .
+
+### 39. L'ordalie biblique face à Hammurabi [I]
+Les deux dossiers concernent un soupçon conjugal difficile à prouver et instituent une intervention divine. Mais la différence est fondamentale : à Babylone, § 132 décrit une **plongée dans le Fleuve** ; dans Nombres 5, le prêtre produit une **eau de malédiction incorporée** en dissolvant une formule écrite. La proximité d'une question sociale ne prouve pas une transmission directe de la technique. Il faut refuser les identifications hâtives entre religion mésopotamienne et législation d'Israël.
+
+---
+
+## V. Inde : épreuves de l'eau, du feu et de la vérité
+
+### 40. *Manusmṛti* VIII, 114–116 [A]
+Le livre VIII du **Mānava-Dharmaśāstra** traite de justice, témoignages, serments et modes de vérification. Le **verset 114** mentionne qu'un juge peut ordonner de porter du feu, de plonger dans l'eau ou de toucher la tête de proches dans un cadre de serment. Le **verset 115** lie l'absence de dommage ou de remontée immédiate à une innocence reconnue, selon les interprétations anciennes. Texte sanskrit avec commentaire de Medhātithi et traduction de Ganganath Jha : https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201024.html .
+
+### 41. *Apsu cainaṃ nimajjayet* : la mise en eau [T]
+Le passage sanskrit **\`apsu cainaṃ nimajjayet\`**, dans **VIII, 114**, comprend *apsu*, « dans les eaux », et une forme causative de *nimajj*, « faire plonger, immerger ». Le sujet implicite de l'ordre judiciaire doit être établi par le contexte. Le verset ne donne pas, à lui seul, la durée exacte de l'épreuve, l'étendue de la rivière ou le nombre de témoins. Les commentaires et traités ultérieurs apportent d'autres procédures qui ne doivent pas être attribuées directement au verset de Manu.
+
+### 42. Le feu, l'eau et la tête des proches [A/I]
+Le rapprochement de trois modalités — feu, immersion et serment impliquant les membres de la famille — montre que le document ne possède pas une technique unique de « l'épreuve indienne ». La prise de risque et l'invocation d'une sanction familiale ne sont pas équivalentes, mais elles partagent un régime de preuve où une puissance religieusement garantie est censée discerner le juste. Les prescriptions doivent être étudiées dans leur cadre hiérarchique et normatif, sans postuler l'égalité de traitement.
+
+### 43. L'innocence mise à l'épreuve [T]
+**VIII, 115** énonce la non-brûlure par le feu ou la capacité de l'eau à ne pas faire remonter promptement la personne comme signes de non-culpabilité. Le vocabulaire, les présupposés corporels et les commentaires doivent être explicités. Les critères diffèrent de l'idée populaire d'une ordalie « où celui qui surnage survit et doit être innocent ». Sans examen des sources, les deux logiques peuvent même être inversées. Cette prudence de détail est indispensable à une comparaison rigoureuse avec le Fleuve de Hammurabi.
+
+### 44. L'histoire du sage Vatsa [A/T]
+Le **verset 116** raconte l'exemple de **Vatsa**, accusé par son frère cadet, qui n'aurait pas subi la brûlure du feu grâce à la vérité. Le commentaire de **Medhātithi** discute la difficulté intellectuelle que représente l'idée d'une matière incapable de brûler un innocent. Le récit n'est pas une statistique de résultats judiciaires ; il est une **illustration normative** invoquée pour défendre la possibilité d'une manifestation de vérité dans une épreuve. Voir https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201026.html .
+
+### 45. Medhātithi et l'objection naturaliste [A/P]
+Le commentateur pose explicitement la question de savoir pourquoi le feu ou l'eau n'exerceraient pas toujours leurs propriétés naturelles ; il répond en invoquant des autorités religieuses et des conditions rituelles particulières. Cette discussion est historiquement remarquable : les interprètes anciens n'étaient pas incapables de remarquer que le feu brûle normalement. Ils proposaient des articulations entre régularité physique et garantie divine. Lire cette controverse sous l'angle d'une épistémologie des exceptions est une lecture moderne, utile si elle conserve le texte.
+
+### 46. Le juge et les statuts sociaux [I]
+La littérature du *dharma* assigne des procédures à des catégories sociales différentes, selon les époques et commentaires. Le choix de l'épreuve peut dépendre du statut, de l'accusation et de la valeur du litige. Cela invalide l'image d'une simple justice universelle dans laquelle chaque justiciable serait soumis à une même expérience neutre. L'étude doit distinguer l'idéologie normative des auteurs brahmaniques, la pratique réelle des juridictions et l'histoire locale des droits indiens.
+
+### 47. Yājñavalkya et les commentaires [A/T]
+La **Yājñavalkya-Smṛti**, notamment **II, 95–113** selon les éditions et numérotations, traite des épreuves et des conditions de jugement. Le commentaire traditionnel *Mitākṣarā* et des compilations ultérieures compliquent encore la transmission. Un point de contrôle numérique existe dans l'édition anglaise annotée : https://www.wisdomlib.org/hinduism/book/yajnavalkya-smriti-with-mitakshara-and-viramitrodaya/d/doc1898923.html . On ne doit pas déplacer la procédure détaillée des commentaires tardifs au texte normatif attribué à Manu sans avertissement.
+
+### 48. *Divya* et *dharma* [T]
+Le substantif sanskrit **divya**, « relevant du divin », reçoit dans certains textes juridiques le sens technique d'épreuve ou preuve divine. **Dharma** couvre des domaines de règle, d'ordre et de devoir plus larges que le mot français « droit ». Traduire les deux indistinctement par « justice » ferait perdre la hiérarchie des institutions. La philologie doit garder ouvertes les distinctions entre vérité proclamée, ordre moral, force rituelle et procédure de jugement.
+
+### 49. Sītā et Agni : un cas littéraire à part [A]
+Dans le ***Rāmāyaṇa*, Yuddhakāṇḍa VI, 118,1–7**, le dieu du Feu rend **Sītā** indemne et atteste sa pureté devant Rāma. Les vers **118,1–5** présentent l'apparition d'Agni avec Sītā dans ses bras, puis l'affirmation que le mal ne se trouve pas en elle. Source du texte sanskrit et de la traduction : https://sanskritdocuments.org/sites/valmikiramayan/yuddha/sarga118/yuddharoman118.htm . Il s'agit d'un événement **épique**, pas d'un dossier de procès historique daté.
+
+### 50. L'épreuve de Sītā ne prouve pas la coutume générale [I]
+Le récit participe à une réflexion poétique sur la réputation d'une femme, le pouvoir d'un souverain, la perception publique et le jugement divin. Il est pertinent pour une histoire des représentations du feu témoin, mais ne démontre pas que toutes les femmes du sous-continent furent ordinairement soumises à un bûcher. Il faut tenir compte des versions, des choix de traduction et des traditions de réception. La lecture critique peut analyser la violence du soupçon sans faire d'une fiction une statistique sociale.
+
+### 51. Pourquoi comparer feu et eau ? [I]
+La comparaison de Sītā à une épreuve d'eau est légitime si elle porte sur **la fonction probatoire prêtée à une puissance cosmique**. Elle devient illégitime si elle efface les différences de matière, d'institution, de genre ou de chronologie. Dans les textes indiens, le feu peut être garant de vérité, et l'eau peut recevoir un autre protocole de vérification. L'analogie des deux éléments ne les transforme pas en une même cérémonie.
+
+---
+
+## VI. Grèce : le Styx est un serment des dieux, pas une ordalie civique
+
+### 52. Hésiode, *Théogonie* 775–806 [A]
+Hésiode raconte que la redoutable **Styx** possède une eau capable de garantir le serment des dieux. **Iris** vient en chercher lorsqu'un immortel est accusé de mensonge ; celui qui se parjure après avoir juré sur cette eau subit un long châtiment, d'abord une année d'inertie puis neuf ans d'exclusion des assemblées divines. Texte et numéros de vers : https://chs.harvard.edu/primary-source/hesiod-theogony-sb/ . Les mots du poème décrivent une sanction mythique de divinités, pas une procédure attestée dans les tribunaux humains grecs.
+
+### 53. Le Styx comme garantie, non comme plongeon [T/I]
+Le fleuve souterrain de Styx intervient comme matière du serment, liée à une libation divine. Le poème ne raconte pas qu'un homme accusé d'adultère descend dans la rivière pour vérifier son innocence. La différence avec § 2 de Hammurabi est donc décisive : deux eaux peuvent participer à la justice sans servir le même acte. La comparaison fonctionne par la capacité attribuée à un élément sacré de **garantir une vérité**, pas par identité procédurale.
+
+### 54. Iris et le transport de l'eau [A]
+Les vers **780–785** attribuent à Iris le rôle de messagère qui rapporte une eau destinée à la prestation du serment. Ce détail permet un renvoi à **MC-038 sur les messagers du sacré**, sans répéter ce dossier : ici, l'intérêt porte sur la force probatoire de l'eau apportée. La présence du messager rappelle que même un serment divin exige un dispositif matériel et une médiation. Elle ne témoigne pas de la possibilité historique de prélever l'eau du Styx dans un lieu identifiable.
+
+### 55. Le coût du parjure chez les immortels [A]
+Selon **Théogonie 793–806**, l'immortel parjure subit une suspension de participation aux repas et assemblées divines. L'eau ne tue pas la divinité, mais lui impose une exclusion d'une communauté. Le châtiment est ainsi social et politique au sens de la société mythique des Olympiens. Le parallèle avec la perte des biens d'un plaignant babylonien peut être posé comme contraste de sanctions, non comme dérivation historique de l'un à l'autre.
+
+### 56. L'*Iliade* et les serments du Styx [A]
+Les passages **Iliade XIV, 271–276** et **XV, 36–38** font invoquer le Styx comme garantie particulièrement redoutable des dieux. Une exigence adressée à Héra et la formule de son serment montrent un usage narratif cohérent avec Hésiode, mais la tradition homérique possède sa propre économie de parole et de crédibilité. L'historien doit consulter les vers dans une édition grecque et distinguer la date des traditions de celle des témoins conservés.
+
+### 57. L'absence d'une preuve de pratique humaine équivalente [I]
+Aucune des sources considérées ne permet d'affirmer que l'Athènes classique possédait une institution générale où l'accusé devait plonger dans le Styx pour trancher un procès. La Grèce connaissait des serments, des témoignages et des rites de purification, mais leur présence ne prouve pas une ordalie judiciaire identique à celle de Mari. La **comparaison négative** est ici un résultat scientifique : l'analogie des fonctions de l'eau ne suffit pas à identifier une institution commune.
+
+### 58. Styx, frontière et ordre olympien [P]
+L'eau du Styx possède un pouvoir de séparation et de garantie qui renvoie à l'ordre des dieux. Une lecture philosophique peut y voir la nécessité, pour une communauté, de s'obliger par une sanction dépassant chaque volonté individuelle. Mais le poème ne développe pas une théorie moderne de l'État de droit. La dimension politique est reconstruite par le lecteur à partir de l'exclusion du parjure des assemblées divines.
+
+---
+
+## VII. Comparaison : quatre régimes de jugement par le sacré
+
+| Dossier | Sujet exposé | Objet de la preuve | Support matériel | Autorité mobilisée | Statut de la source |
+| --- | --- | --- | --- | --- | --- |
+| Hammurabi § 2 | Homme accusé de *kišpū* | Accusation non établie par le plaignant | Immersion dans le Fleuve | Fleuve investi d'agence divine | Loi casuistique gravée, stèle inventoriée |
+| Hammurabi § 132 | Épouse soupçonnée | Soupçon d'un autre homme sans flagrant délit | Immersion dans le Fleuve | Fleuve sous autorité royale normative | Loi casuistique |
+| Mari | Témoins et personnes mêlés à des conflits | Déclarations contestées et litiges divers | Cours d'eau, dispositif à reconstruire | Arbitrage divin et organisation du palais | Lettres et archives de procès, étudiées par l'assyriologie |
+| Nombres 5 | Épouse soupçonnée | Soupçon conjugal sans preuve directe | Eau, poussière, inscription effacée, ingestion | YHWH et médiation sacerdotale | Texte prescriptif biblique |
+| Manu VIII, 114–116 | Partie à un litige | Véracité d'une déclaration | Eau, feu ou serment familial | Puissances religieuses, juge | Texte normatif et commentaires ultérieurs |
+| *Rāmāyaṇa* VI, 118 | Sītā, personnage de l'épopée | Réputation et fidélité contestées | Épreuve du feu racontée | Agni, témoin narratif | Récit littéraire, versions multiples |
+| Hésiode, *Théogonie* 775–806 | Dieu prêtant serment | Fidélité à une parole divine | Eau du Styx et libation | Sanction du parjure par ordre olympien | Mythe littéraire, pas une cour humaine |
+
+### 59. L'élément naturel devient une procédure [I]
+Dans chaque dossier, la matière ne suffit pas à produire un résultat intelligible. Il faut une question, une parole et une communauté de réception. L'eau du Fleuve babylonien est un arbitre lorsque la loi la reconnaît ; la solution de Nombres 5 n'est une épreuve que dans le sanctuaire et avec les paroles sacerdotales ; l'eau du Styx garantit des engagements entre dieux dans une fiction mythique. La matière devient « preuve » au sein d'une **institution d'interprétation**.
+
+### 60. Deux niveaux du jugement [I]
+L'ordalie prétend résoudre d'une part une question factuelle — la personne est-elle coupable ? — et d'autre part une question sociale — comment terminer un conflit sans consensus sur la preuve ? Ces niveaux ne coïncident pas toujours. Un verdict reconnu peut arrêter les représailles même si l'épreuve ne garantit pas scientifiquement la vérité. La distinction explique pourquoi les sociétés ont pu tenir à des procédures coûteuses : celles-ci promettaient une **décision opposable**, pas seulement une information nouvelle.
+
+### 61. Il n'existe pas de sens universel de « réussir » [T]
+Sortir du Fleuve sain et sauf constitue le signe favorable de Hammurabi § 2, tandis que certaines traditions indiennes peuvent traiter le fait de rester sous l'eau pendant une durée donnée comme indice favorable. Dans la scène biblique, la malédiction conditionnelle se manifeste autrement. Chez Hésiode, le parjure affecte le dieu après l'acte. Utiliser une règle « ceux qui flottent sont innocents » valable partout serait faux. La méthode comparative exige une lecture indépendante de **chaque clause de résultat**.
+
+### 62. Statut et genre déplacent le risque [I]
+L'épouse de Hammurabi § 132 et celle de Nombres 5 sont exposées en raison d'un soupçon conjugal. Le cadre de la *smṛti* indienne distingue statuts et catégories de litiges. Les dieux du Styx appartiennent à une fiction où l'inégalité se joue dans les relations olympiennes. On ne peut pas déclarer les quatre systèmes « justes » ou « injustes » de façon uniforme ; il faut examiner pour chacun qui accuse, qui choisit l'épreuve, qui subit le risque et qui recueille les conséquences.
+
+### 63. Le risque physique n'est pas un indice de vérité [P]
+La capacité de retenir son souffle, de résister à la brûlure ou de supporter une boisson dépend de conditions naturelles, de santé, de contexte et de hasard. Aucune de ces capacités ne mesure directement la culpabilité. C'est précisément la distance entre le régime de causalité proposé par les sources et les normes actuelles de preuve qui intéresse la philosophie historique. L'analyse de cette distance n'autorise pas à caricaturer les acteurs comme dépourvus de réflexion sur la justice.
+
+### 64. Aucune filiation directe n'est démontrée [H]
+La proximité géographique et chronologique entre Mari et Babylone permet de poser la question d'un répertoire juridique partagé. En revanche, les ressemblances entre Hammurabi, Nombres, Manu et le Styx ne prouvent pas que les rédacteurs bibliques ont copié le § 132, ni que l'Inde a importé l'ordalie de Mari, ni que les Grecs connaissaient une pratique équivalente. Une relation génétique requiert des motifs distinctifs, une séquence historique et des canaux de transmission documentés.
+
+### 65. La comparaison et ses contre-exemples [I]
+Le § 131 de Hammurabi prouve que l'épreuve matérielle n'est pas le seul moyen de trancher un soupçon. Nombres 5 montre qu'une eau peut être bue au lieu d'être traversée. Le Styx grec montre qu'une eau peut sanctionner un serment sans juger un accusé humain. Le *Rāmāyaṇa* montre que la narration épique peut mobiliser un élément autre que l'eau. Ces contre-exemples sont essentiels : ils empêchent la catégorie « ordalie » de devenir si vague qu'elle n'apprendrait plus rien.
+
+---
+
+## VIII. Historiographie critique et traitement des sources
+
+### 66. Des anciennes traductions trop assurées [T]
+Les traductions du recueil de Hammurabi réalisées au début du XXe siècle restent importantes pour l'histoire de la recherche, mais elles mêlent parfois interprétation et texte de façon peu visible. L'édition **L. W. King** est consultable : https://en.wikisource.org/wiki/Codex_Hammurabi_(King_translation). Pour une enquête philologique, il faut revenir aux signes, à la translittération, à la normalisation et aux variantes. La ressource **eHammurabi** fournit ces niveaux pour les §§ 2 et 132 ; elle ne remplace toutefois pas une collation directe des copies et des éditions imprimées.
+
+### 67. Le Louvre et la logique de l'objet [A]
+La notice actuelle du Louvre insiste sur le caractère monumental et juridique de la stèle sans la présenter comme un code complet au sens contemporain. La disposition sculptée de Hammurabi devant Šamaš est l'expression d'une légitimation souveraine. L'objet SB 8 est la source iconographique principale ; le musée donne dimensions et histoire de la découverte. Le cliché du relief constitue une preuve matérielle de la représentation de Šamaš, **pas une image de l'ordalie fluviale exécutée**.
+
+### 68. Joanna Töyräänvuori et Mari [A/I]
+L'étude évaluée par des pairs de **Joanna Töyräänvuori (2021), p. 301–330**, renouvelle la comparaison en s'appuyant sur les archives de Mari et en soulignant les cas de témoignage compromis. Le résumé institutionnel de l'Université d'Helsinki permet de vérifier cette orientation ; pour citer un numéro de tablette ou une ligne précise, il faut consulter l'article complet puis l'édition de la source. Le présent manuscrit refuse donc de fabriquer une citation d'ARM non collationnée. C'est une limite documentaire assumée, non une lacune masquée.
+
+### 69. La recherche biblique et la stratification du texte [T]
+Le *sotah* biblique est un passage sacerdotal dont la rédaction, l'interprétation et la pratique ont une histoire complexe. La traduction massorétique moderne et les traditions de la Mishnah peuvent éclairer des étapes différentes ; elles ne peuvent être traitées comme un même procès-verbal. La critique historique doit étudier la composition de Nombres 5, le rôle des malédictions et les enjeux de jalousie masculine, tout en distinguant ce que le rite prescrit de ce que des femmes ont effectivement subi.
+
+### 70. Les traités sanskrits ne forment pas un seul code [T]
+Le *Manusmṛti*, la *Yājñavalkya-Smṛti*, le *Nāradasmṛti* et leurs commentaires appartiennent à des traditions textuelles situées, dont les datations et les usages institutionnels diffèrent. La lecture du commentaire de Medhātithi illustre un processus de rationalisation interne et de confrontation à des objections sur les propriétés de la matière. On ne peut ni faire du texte de Manu un relevé administratif panindien ni attribuer à tous les textes les prescriptions élaborées par un commentateur des siècles plus tard.
+
+### 71. La distinction décisive entre rite et récit [I]
+Le *Rāmāyaṇa* et la *Théogonie* sont des œuvres littéraires, avec une tradition manuscrite et des fonctions poétiques. Ils révèlent la disponibilité des concepts de feu témoin et d'eau garante dans leurs milieux de composition, mais ne constituent pas des instructions judiciaires conservées dans les archives d'une cour royale. Les comparer à la stèle et aux archives de Mari est fécond à condition de **ne jamais effacer la différence de genre**.
+
+### 72. Critique de l'évolutionnisme simplificateur [I]
+Une ancienne histoire comparée des religions pouvait présenter les ordalies comme une étape « primitive » entre magie et droit rationnel. Les sources invitent à abandonner cette échelle unique. Babylone combinait déjà témoignages, écrit, propriété et recours à l'épreuve ; la littérature sanskrite discute le statut de l'épreuve face aux autres preuves ; la tradition rabbinique raconte des limites au rite des eaux amères. Ce sont des transformations historiques locales, non une marche uniforme des civilisations de la superstition vers la modernité.
+
+---
+
+## IX. Philosophie politique : que signifie « prouver » par l'épreuve ?
+
+### 73. Hegel : reconnaissance et médiation de l'autorité [P]
+Une lecture hégélienne peut voir l'ordalie comme un moment où la communauté cherche une instance qui dépasse l'affrontement de deux volontés particulières. Le Fleuve est reconnu comme arbitre dans la scène normative de Hammurabi ; le prêtre formule le rite dans Nombres ; le juge indien organise les modalités de vérification. Mais une telle lecture de la médiation n'est pas attribuable littéralement aux rédacteurs antiques. Elle aide à comprendre pourquoi la **reconnaissance publique du verdict** peut compter autant que le mécanisme matériel.
+
+### 74. Nietzsche : l'épreuve et la mémoire de la peine [P]
+Dans *La Généalogie de la morale*, deuxième dissertation, Nietzsche analyse la relation entre dette, douleur et fabrication de la mémoire sociale. La perspective peut interroger pourquoi un ordre juridique impose une épreuve corporelle à celui dont la vérité est contestée. Il serait pourtant réducteur de soutenir que l'unique fonction de l'ordalie est la cruauté : les documents lui donnent aussi une fonction de clôture de litiges et de lutte contre certaines accusations non prouvées. Une grille philosophique doit se laisser corriger par les archives.
+
+### 75. Foucault : procédures et régimes de vérité [P]
+Les cours de Michel Foucault sur la vérité et les formes juridiques invitent à examiner les institutions qui transforment une épreuve en décision reconnue. La « vérité » judiciaire n'est pas simplement découverte ; elle est énoncée selon des procédures, des acteurs, des risques et des sanctions. Cela ne signifie pas que tout verdict antique est arbitraire ou que chaque auteur partage un constructivisme moderne. L'intérêt est d'interroger qui obtient le pouvoir de déclarer : **le Fleuve a parlé, donc le litige est clos**.
+
+### 76. Weber : croyance en la légitimité et domination [P]
+La sociologie wébérienne peut aider à comprendre comment un verdict acquiert force obligatoire parce qu'une communauté reconnaît la compétence de son institution. Le maintien de la paix ne suppose pas l'absence de conflit, mais une procédure admise pour y mettre fin. La lecture ne doit pas transformer la cour de Mari en État moderne. Elle suggère néanmoins que l'épreuve rituelle n'est pas seulement une croyance privée : elle peut appartenir à l'outillage de légitimation d'un pouvoir politique.
+
+### 77. Ricœur : attestation, témoignage et soupçon [P]
+Paul Ricœur a étudié l'attestation et la mémoire des traces. Dans le cas du témoin compromis, une autorité se heurte à la difficulté de croire ou de rejeter une déclaration. L'ordalie promet de remplacer le jugement sur un témoignage incertain par une décision attribuée à une puissance extérieure. Cela ne supprime pas la nécessité d'une interprétation : quelqu'un doit raconter le résultat. La lecture philosophique souligne une tension persistante entre **faire confiance** et **avoir des raisons d'établir**.
+
+### 78. Le problème moral de l'innocent exposé [P]
+Les passages relatifs aux épouses soupçonnées posent une difficulté éthique majeure : la seule accusation suffit à provoquer une épreuve corporelle, sans garantie égale pour toutes les parties. Les historiens doivent décrire les normes de leur époque ; la philosophie peut en même temps évaluer la distribution du risque. Conclure que le rite « protège l'innocent » parce qu'il prévoit une issue favorable dans le texte ne suffit pas : il faut interroger ce que subit la personne avant même que la procédure ne s'achève.
+
+### 79. Un verdict peut mettre fin au litige sans connaître les faits [P]
+Le fleuve peut fournir au tribunal une conclusion publiquement acceptable, mais il ne dispose pas, selon les critères modernes, d'une capacité épistémique indépendante de connaître une relation adultère ou une accusation de sorcellerie. La différence entre **vérité de fait**, **validité de procédure** et **acceptabilité sociale** est ici fondamentale. Elle éclaire aussi le rôle des sentences politiques modernes, sans assimiler les tribunaux actuels à des ordalies. Le rapprochement sert à préciser ce que l'on attend d'une preuve.
+
+### 80. L'ordalie n'est pas seulement un « jugement de Dieu » [P]
+La formule européenne médiévale de « jugement de Dieu » peut rendre le problème intelligible, mais elle impose un vocabulaire historique et théologique venu d'ailleurs. Le Fleuve de Hammurabi, YHWH dans Nombres, Agni dans un récit sanskrit et le Styx d'Hésiode ne renvoient ni aux mêmes divinités ni au même rapport entre matière et justice. Une philosophie comparative rigoureuse doit résister à la catégorie universelle lorsque celle-ci efface la diversité du religieux.
+
+---
+
+## X. Iconographie scientifique, cartes et figures documentaires
+
+**Principe éditorial MYTHOS :** photographies et relevés uniquement lorsque les droits de reproduction sont contrôlés ; cotes muséales exactes ; figures explicatives originales portant la mention « schéma moderne » ; aucune image photoréaliste de rite présentée comme document d'époque. Les illustrations ci-dessous sont **proposées et sourcées, non effectivement intégrées par le présent dépôt**.
+
+### 81. La stèle de Hammurabi, Louvre SB 8 [A]
+**Objet et cote :** stèle de basalte, **SB 8 / AS 6064**, musée du Louvre, département des Antiquités orientales. **Source institutionnelle :** https://collections.louvre.fr/en/ark:/53355/cl010174436 . **Légende scientifique :** « Recueil des décisions de Hammurabi, XVIIIe siècle av. n. è. ; relief figurant le roi devant Šamaš ; le § 2 prévoit une épreuve fluviale dans le cas d'une accusation de *kišpū* non démontrée. » **Droit :** vérifier les conditions du cliché du Louvre avant copie ; la cote ne rend pas le cliché libre.
+
+### 82. Le relief de Šamaš et la justice [A]
+**Objet :** détail de la même stèle **SB 8**, non second artefact. **Source :** https://www.louvre.fr/le-code-de-hammurabi . **Légende :** « Šamaš, dieu du Soleil et patron de la justice, siège face à Hammurabi ; représentation de la légitimation du pouvoir royal, non d'une ordalie effectivement accomplie. » Les deux photographies peuvent partager le même inventaire tout en montrant des informations différentes.
+
+### 83. Le § 2 en trois niveaux [T]
+**Figure originale conseillée :** transcription diplomatique après vérification de la publication, translittération \`^dÍD i-il-la-ak\`, commentaire « le Fleuve est sujet du verdict », plus les deux branches conditionnelles de la décision. **Source :** https://www.ehammurabi.org/law/2.html . Indiquer que l'interface numérique a normalisé les signes et que le schéma ne reproduit pas une tablette d'époque.
+
+### 84. Les clauses du soupçon dans §§ 131–132 [A]
+**Figure originale :** tableau de comparaison indiquant pour **§ 131** le serment et pour **§ 132** le Fleuve. **Source primaire numérique :** https://www.ehammurabi.org/law/132.html , à compléter par https://www.ehammurabi.org/law/131.html . **Légende :** « Une accusation conjugale ne reçoit pas automatiquement le même moyen de preuve dans le recueil de Hammurabi. »
+
+### 85. Mari, carte de géographie historique [I]
+**Figure originale suggérée :** carte géoréférencée localisant Mari sur le Moyen-Euphrate et Babylone, avec les vallées fluviales contemporaines et un avertissement sur les changements du cours. **Source scientifique :** Joanna Töyräänvuori, 2021, https://researchportal.helsinki.fi/en/publications/trial-by-water-through-the-ages/ . Ne pas placer un « bassin des ordalies » à un point précis sans preuve archéologique et texte de provenance.
+
+### 86. Nombres 5,23 et l'écriture effacée [T]
+**Figure pédagogique originale :** enchaînement des étapes mentionnées par le texte — inscription des malédictions, effacement dans l'eau, ingestion — avec la mention « restitution conceptuelle, pas photographie du rite ». **Source :** https://www.sefaria.org/Numbers.5.23 . Éviter les images modernes sensationnalistes d'empoisonnement : le texte ne donne pas une recette chimique assurée.
+
+### 87. *Manusmṛti* VIII, 114–116 [A/T]
+**Figure typographique sourcée :** court extrait sanskrit **\`apsu cainaṃ nimajjayet\`**, segmentation grammaticale et comparaison avec la traduction de Ganganath Jha. **Source :** https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201024.html . Un portrait moderne de « Manu législateur » ne serait pas un témoin de l'Antiquité.
+
+### 88. Styx dans la *Théogonie* 775–806 [A]
+**Figure originale :** arbre logique du serment divin « Iris apporte l'eau → engagement → sanction du parjure » avec numéros de vers. **Source :** https://chs.harvard.edu/primary-source/hesiod-theogony-sb/ . Ne pas utiliser une vue d'une rivière grecque actuelle comme « le Styx d'Hésiode » sans préciser que l'identification est une tradition topographique postérieure.
+
+### 89. Matrice des attestations [I]
+**Tableau universitaire original :** en colonnes, « source / date du support / rite ou récit / sanction / statut de preuve », en lignes, « Hammurabi / Mari / Nombres / Manu / Rāmāyaṇa / Hésiode ». La mention explicite « récit épique » doit accompagner Sītā et « serment des dieux » le Styx. C'est une illustration textuelle structurée qui ne requiert pas de licence photographique externe.
+
+---
+
+## XI. Bibliographie critique et éditions de contrôle
+
+### A. Mésopotamie : primaire, objet, philologie et archives
+
+1. **Recueil des décisions de Hammurabi**, prologue, §§ **2, 131 et 132**, épilogue ; stèle principale **Louvre SB 8**, c. XVIIIe siècle av. n. è., notice https://collections.louvre.fr/en/ark:/53355/cl010174436 .
+2. **Musée du Louvre**, « Le Code de Hammurabi » : https://www.louvre.fr/le-code-de-hammurabi .
+3. **eHammurabi**, « Law § 2 », transcription des signes, translittération, traduction, renvoi à **Bergmann (1953), col. V, 33–56** : https://www.ehammurabi.org/law/2.html .
+4. **eHammurabi**, « Law § 132 », présentation de la clause et localisation sur la stèle : https://www.ehammurabi.org/law/132.html .
+5. **L. W. King**, *The Laws of Hammurabi*, traduction historique anglaise, 1903, https://en.wikisource.org/wiki/Codex_Hammurabi_(King_translation) ; instrument de comparaison éditoriale, non autorité unique pour le lexique.
+6. **Joanna Töyräänvuori**, « Trial by Water through the Ages », *Studia Antiqua et Archaeologica* **27**, no 2 (2021), **p. 301–330**, notice institutionnelle et lien vers l'article : https://researchportal.helsinki.fi/en/publications/trial-by-water-through-the-ages/ .
+7. **Martha T. Roth**, *Law Collections from Mesopotamia and Asia Minor*, 2e édition, Scholars Press/SBL, 1997 ; édition critique comparative des textes législatifs.
+8. **Raymond Westbrook**, direction, *A History of Ancient Near Eastern Law*, deux volumes, Brill, 2003 ; contexte des procédures, témoins et normes.
+9. **Dominique Charpin**, *Lire et écrire à Babylone*, PUF, 2008 ; histoire des pratiques de l'écrit en Mésopotamie, à confronter aux dossiers légaux et épistolaires.
+10. **G. R. Driver et J. C. Miles**, *The Babylonian Laws*, deux volumes, Oxford University Press, 1952–1955 ; commentaire philologique et juridique classique.
+
+### B. Israël ancien et réception rabbinique
+
+11. **Bible hébraïque**, *Nombres* **5,11–31**, en particulier **5,17–24 et 5,28** ; texte hébreu et traductions : https://www.sefaria.org/Numbers.5.23 et https://www.sefaria.org/Numbers.5.11-6.27 .
+12. **Mishnah Sotah** **9,9**, arrêt et réception du rite des eaux amères : https://www.sefaria.org/Mishnah_Sotah.9.9 ; traduction historique https://en.wikisource.org/wiki/Translation:Mishnah/Seder_Nashim/Tractate_Sotah/Chapter_9/9 .
+13. **Jacob Milgrom**, *Numbers*, The JPS Torah Commentary, Jewish Publication Society, 1990 ; lecture historico-philologique des rites sacerdotaux.
+14. **Baruch A. Levine**, *Numbers 1–20*, Anchor Bible 4A, Doubleday, 1993 ; analyse comparative et critique du texte.
+15. **Katharine Doob Sakenfeld**, *Numbers*, Interpretation, John Knox Press, 1995 ; commentaire théologique et narratif, à distinguer de la seule critique historique.
+16. **Tikva Frymer-Kensky**, *In the Wake of the Goddesses: Women, Culture, and the Biblical Transformation of Pagan Myth*, Free Press, 1992 ; histoire des représentations religieuses et du genre, lecture à confronter au texte de Nombres.
+
+### C. Inde : textes sanskrits, épreuves et commentaires
+
+17. **Mānava-Dharmaśāstra (Manusmṛti)** VIII, **111–116**, texte sanskrit, traduction de Ganganath Jha et commentaire de Medhātithi : https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201024.html ; § 116 : https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201026.html .
+18. **Yājñavalkya-Smṛti** II, **95–113** (selon numérotation d'édition), avec *Mitākṣarā* et *Vīramitrodaya*, https://www.wisdomlib.org/hinduism/book/yajnavalkya-smriti-with-mitakshara-and-viramitrodaya/d/doc1898923.html .
+19. **Vālmīki Rāmāyaṇa**, *Yuddhakāṇḍa* **VI, 118,1–7** et suite, texte sanskrit, translittération et traduction : https://sanskritdocuments.org/sites/valmikiramayan/yuddha/sarga118/yuddharoman118.htm .
+20. **Patrick Olivelle**, *Manu's Code of Law: A Critical Edition and Translation of the Mānava-Dharmaśāstra*, Oxford University Press, 2005 ; priorité à la critique textuelle.
+21. **Patrick Olivelle**, *The Law Code of Viṣṇu: A Critical Edition and Annotated Translation of the Vaiṣṇava-Dharmaśāstra*, Harvard University Press, 2009 ; comparaison des modes de preuve.
+22. **Robert Lingat**, *Les Sources du droit dans le système traditionnel de l'Inde*, Mouton, 1967 ; historiographie des textes normatifs et des pratiques.
+
+### D. Grèce : mythologie de l'eau garante
+
+23. **Hésiode**, *Théogonie* **775–806**, texte et traduction annotée, Center for Hellenic Studies : https://chs.harvard.edu/primary-source/hesiod-theogony-sb/ .
+24. **Homère**, *Iliade* **XIV, 271–276 ; XV, 36–38**, serments divins et Styx ; édition grecque à collationner.
+25. **M. L. West**, *Hesiod: Theogony*, Oxford University Press, 1966 ; édition et commentaire.
+26. **Jenny Strauss Clay**, *Hesiod's Cosmos*, Cambridge University Press, 2003 ; interprétation de l'ordre cosmique et des institutions divines.
+27. **Jean-Pierre Vernant**, *Mythe et pensée chez les Grecs*, Maspero, 1965 ; réflexion sur les catégories de mythe et d'organisation du monde.
+
+### E. Philosophie, comparaison et méthode
+
+28. **G. W. F. Hegel**, *Principes de la philosophie du droit*, 1821, institutions de la justice et médiation de la volonté ; grille philosophique moderne.
+29. **Friedrich Nietzsche**, *La Généalogie de la morale*, 1887, dissertation II, douleur, dette et mémoire ; lecture moderne à confronter aux archives.
+30. **Michel Foucault**, *La Vérité et les formes juridiques*, conférences de 1973 ; institution, preuve et procédures de vérité.
+31. **Max Weber**, *Économie et société* (édition posthume, 1922), types de domination et croyances dans la légitimité ; modèle sociologique moderne.
+32. **Paul Ricœur**, *La Mémoire, l'histoire, l'oubli*, Seuil, 2000, attestation et témoignage ; réflexion moderne.
+33. **Marcel Detienne**, *Comparer l'incomparable*, Seuil, 2000, méthode comparative sans universaux imposés.
+34. **Jack Goody**, *La Raison graphique*, traduction française, Minuit, 1979 ; rapport entre inscription et procédure sociale, sans identité automatique avec le rite biblique.
+35. **Jan Assmann**, *Cultural Memory and Early Civilization*, Cambridge University Press, 2011 ; mémoire, écriture et institutions sur longue durée.
+
+**Note de bibliographie :** les notices muséales, passages primaires et pages universitaires ci-dessus ont été vérifiés en ligne pour les éléments cités directement. Les monographies imprimées fournissent le contexte scientifique et doivent être consultées intégralement avant d'en citer une page précise ou une formule entre guillemets. Aucun numéro de tablette de Mari n'est inventé et aucune traduction philologique n'est présentée comme édition diplomatique non collationnée.
+
+---
+
+## XII. Conclusion, limites et règles de livraison
+
+### 90. Résultat documentaire [A]
+Hammurabi § 2 fait du Fleuve le juge d'une accusation de *kišpū* non démontrée ; § 132 soumet à l'eau une épouse soupçonnée, tandis que § 131 distingue une formule de serment. Les lettres de Mari attestent un recours régional à l'ordalie fluviale dans des conflits où la preuve humaine est mise en difficulté. Nombres 5 met en scène une eau de malédiction préparée par le prêtre et incorporant une écriture effacée. Le *Manusmṛti* traite d'épreuves d'eau et de feu, avec commentaires plus tardifs ; le *Rāmāyaṇa* représente Agni garant de Sītā et Hésiode fait des eaux du Styx une puissance de serment pour les dieux.
+
+### 91. Résultat philologique [T]
+Le déterminatif divin **^dÍD** et les verbes des dispositions babyloniennes, les termes hébreux **mê hammārîm** et **māḥāh**, la forme sanskrite **apsu ... nimajjayet**, et le nom grec **Styx** ne sont pas des équivalents étymologiques. Ils documentent des opérations spécifiques de jugement et de garantie. Leur présentation exige des textes et, parfois, des éditions critiques différenciées. Le comparatisme construit des analogies de fonction, sans fabriquer une « langue universelle de l'ordalie ».
+
+### 92. Résultat historiographique [I]
+Les fonctions religieuses et judiciaires ne s'excluent pas : une procédure peut être à la fois une tentative d'obtenir un signe, un moyen de produire un verdict et une pratique de domination sociale. La forme du résultat diffère selon les traditions. La réussite d'une épreuve ne fournit pas, pour la science contemporaine, une preuve indépendante des faits allégués. Mais sa capacité à clore certains conflits explique son importance historique. Le danger de l'épreuve pour l'innocent et la distribution sexuée ou statutaire du risque restent des questions centrales.
+
+### 93. Hypothèses explicitement ouvertes [H]
+Les relations exactes entre les traditions fluviales des palais amorrites et les formules du recueil de Hammurabi méritent une étude des archives originales. Les ressemblances entre le § 132 et Nombres 5 peuvent relever de problèmes sociaux comparables ; un emprunt textuel direct n'est pas démontré ici. Les rapprochements indiens et grecs doivent rester des comparaisons de structures plutôt que des hypothèses de diffusion non argumentées. Les protocoles concrets de Mari n'ont pas été reconstruits sans leur documentation.
+
+### 94. Conclusion philosophique [P]
+L'ordalie révèle une difficulté durable de la justice : **comment rendre une décision collective quand les faits ne peuvent être établis de façon satisfaisante ?** Les sociétés anciennes ont parfois transféré cette décision à une puissance sacrée que l'on tenait pour plus compétente que les témoins humains. Le transfert ne supprime pas les médiateurs, les interprétations ou le risque d'erreur. Le fleuve ne parle qu'à travers des institutions qui le font parler. La comparaison permet ainsi de distinguer **verdict, vérité, reconnaissance et pouvoir**, sans nier la complexité des solutions antiques ni reproduire leurs dangers.
+
+### 95. Contrôle d'unicité et suite éditoriale [A]
+Le registre GitHub et les recherches avant dépôt n'ont révélé aucune occupation historique de **MC-037**, entre les manuscrits existants **MC-036** et **MC-038**. **MC-037 est donc un comblement de lacune, pas une renumérotation d'un manuscrit antérieur.** Le numéro canonique romain ne sera accordé que par le circuit éditorial ; en l'absence de reçu et de déploiement contrôlé, l'article ne sera pas proclamé publié. Aucun ancien volume, aucune tâche horaire, aucune collection parallèle et aucune image existante ne sont modifiés. Une étude historiquement nouvelle après MC-038 pourra porter MC-039, une fois les autres arrivées vérifiées.
+
+*Fin de la monographie MYTHOS MC-037 — « Le fleuve comme juge », 4 novembre 2026. Conservation intégrale des sources, des distinctions de preuve et de la bibliographie.*
