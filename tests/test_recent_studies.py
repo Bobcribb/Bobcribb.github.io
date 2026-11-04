@@ -109,5 +109,42 @@ class RecentStudyTests(unittest.TestCase):
             self.assertEqual(roman(86), 'LXXXVI')
 
 
+    def test_chapter_title_precedes_numbered_section_in_encyclopedia(self):
+        """Une carte reprend le sujet intégral, et non « 1. Sources et méthode »."""
+        with TemporaryDirectory() as temp:
+            root, output = self.make_fixture(temp)
+            source = self.write_study(
+                root, output, 'encyclopedie', 409,
+                'chapitre-409-agathos-daimon-serpent-maison-alexandrie-prosperite',
+                'Agathos Daimôn')
+            source.write_text(
+                '# Chapitre 409 — Agathos Daimôn : le Bon Génie, '
+                'le serpent protecteur et Alexandrie\\n'
+                '## 1. Sources et méthode\\n\\n' + ('Étude documentée. ' * 150),
+                encoding='utf-8')
+            registry_file = root / 'editorial/numbering.json'
+            registry = json.loads(registry_file.read_text(encoding='utf-8'))
+            registry['collections']['encyclopedie'] = {
+                'allocations': {'uuid-agathos': {
+                    'number': 409, 'path': str(source.relative_to(root))}}}
+            registry_file.write_text(json.dumps(registry), encoding='utf-8')
+            records = latest_verified(root, output)
+            record = next(entry for entry in records
+                          if entry['collection'] == 'Encyclopédie grecque')
+            self.assertEqual(record['cote'], 'Chapitre 409')
+            self.assertEqual(
+                record['title'],
+                'Chapitre 409 — Agathos Daimôn : le Bon Génie, '
+                'le serpent protecteur et Alexandrie')
+            install(root, output)
+            doc = BeautifulSoup((output / 'index.html').read_text(encoding='utf-8'),
+                                'html.parser')
+            card = doc.select_one('a[href="' + record['url'] + '"]')
+            self.assertIsNotNone(card)
+            self.assertIn('Agathos Daimôn', card.select_one('strong').get_text())
+            self.assertNotEqual(card.select_one('strong').get_text(),
+                                '1. Sources et méthode')
+
+
 if __name__ == '__main__':
     unittest.main()
