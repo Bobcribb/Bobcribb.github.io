@@ -87,6 +87,39 @@ class IconographyAuditPathTests(unittest.TestCase):
                     if tag.name == "a" and href.startswith("#") and fragment:
                         self.assertIn(fragment, ids, (path, href))
 
+    def test_iliad_and_heracles_cross_page_fragments_reach_named_passages(self):
+        """Contrôler les signets inter-pages, pas seulement les ancres # locales."""
+        references = {
+            "iliade/index.html": ("/glossaire/#kleos",),
+            "heracles/index.html": (
+                "/bestiaire/#nemean",
+                "/bestiaire/#hydre",
+                "/bestiaire/#cerbere",
+                "/religion/#heros-cultuels",
+            ),
+        }
+        for source, addresses in references.items():
+            source_doc = BeautifulSoup(
+                (ROOT / source).read_text(encoding="utf-8"), "html.parser"
+            )
+            for address in addresses:
+                with self.subTest(source=source, href=address):
+                    self.assertIsNotNone(
+                        source_doc.find("a", href=address),
+                        "Renvoi historique absent : " + source + " → " + address,
+                    )
+                    target, fragment = local_file(source, address)
+                    self.assertIsNotNone(fragment, address)
+                    self.assertTrue(target.is_file(), str(target))
+                    target_doc = BeautifulSoup(
+                        target.read_text(encoding="utf-8"), "html.parser"
+                    )
+                    self.assertIsNotNone(
+                        target_doc.find(id=fragment),
+                        "Cible du signet absente : " + address,
+                    )
+
+
     def test_nine_archaeology_pages_link_to_existing_gallery_anchors(self):
         gallery = BeautifulSoup(
             (ROOT / "reconstitutions-photorealistes.html").read_text(encoding="utf-8"),
