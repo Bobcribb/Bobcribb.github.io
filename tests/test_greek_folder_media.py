@@ -34,10 +34,11 @@ class GreekFolderMediaTests(unittest.TestCase):
         cards = page.select("#dossiers-thematiques .greek-folder-entry")
         self.assertEqual(len(cards), 8)
         for slug, (media_id, subject) in FOLDER_ARTWORK.items():
-            entry = page.select_one(
-                '#dossiers-thematiques .greek-folder-entry:has('
-                'a[href="/mythologie-grecque/dossiers/' + slug + '/"])'
+            link = page.select_one(
+                '#dossiers-thematiques a[href="/mythologie-grecque/dossiers/' + slug + '/"]'
             )
+            self.assertIsNotNone(link, slug)
+            entry = link.find_parent(class_="greek-folder-entry")
             self.assertIsNotNone(entry, slug)
             media = by_id[media_id]
             photo = entry.select_one("img.greek-folder-illustration")
