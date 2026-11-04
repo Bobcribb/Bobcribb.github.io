@@ -2,7 +2,7 @@
   "generated_at": "2026-11-04",
   "site": "bobmythos.fr",
   "method": "Illustrations photoréalistes interprétatives, textes et sources hors des pixels.",
-  "count": 26,
+  "count": 27,
   "entries": [
     {
       "id": "DEL-PAN-001",
@@ -484,6 +484,28 @@
       "sha256": "6e52fc9e3302b805e48d9157784e00e8de386ba614bdbbae12ba2e0ae230b015",
       "scientific_notice": "/assets/reconstitutions-3d/notices/lindos-athena-lindia-acropole-hellenistique.json",
       "scientific_method": "Illustration interprétative originale ; aucune photogrammétrie, modélisation métrique, ni validation archéologique revendiquée. Les rapports d’élévation entre édifices sont particulièrement incertains dans ce rendu."
+    },
+    {
+      "id": "ATH-HEP-001",
+      "slug": "athenes-agora-hephaisteion-panorama",
+      "title": "Athènes — Héphaïstéion, temple d’Héphaïstos et d’Athéna sur l’Agora",
+      "period": "Évocation vers 415 av. J.-C. (époque classique, fin du Ve siècle av. J.-C.)",
+      "caption": "Vue panoramique 3D photoréaliste interprétative du temple dorique d’Héphaïstos et d’Athéna sur le Kolônos Agoraios dominant l’Agora athénienne, dans une évocation du Ve siècle av. J.-C.",
+      "commentary": "Le temple dit Héphaïstéion est construit sur le Kolônos Agoraios à l’ouest de l’Agora d’Athènes. Son péristyle dorique comporte six colonnes en façade et treize sur chaque grand côté, soit trente-quatre colonnes extérieures distinctes ; pronaos et opisthodomos flanquent la cella. Une datation traditionnelle situe sa construction au milieu du Ve siècle. L’étude de Margaret M. Miles et Kathleen M. Lynch publiée en 2024 propose toutefois des fondations vers 480 av. J.-C. et l’achèvement de la superstructure vers 465–460 av. J.-C., et remet en cause l’hypothèse d’une colonnade intérieure. Le groupe cultuel d’Héphaïstos et d’Athéna attribué à Alcamène est installé vers 416/415 av. J.-C., ce qui justifie la date d’évocation. La façade tournée vers l’Agora comporte des métopes sculptées, ainsi que les premières métopes des flancs, mais pas une frise figurée continue sur la totalité des grands côtés. La représentation numérique EXAGÈRE ce décor sculpté latéral : il ne doit pas être lu comme une restitution des métopes attestées. La toiture, le rendu des couleurs, le dallage, les chemins, la végétation et les édifices voisins sont des choix artistiques. Les vestiges représentés au second plan ne décrivent pas un état synchronique archéologiquement validé de l’Agora. Les institutions et les publications citées documentent le monument, et ne cautionnent pas ce visuel.",
+      "certainty": "Élevée : emplacement sur le Kolônos Agoraios, ordre dorique, péristyle 6 × 13 et présence du sanctuaire. Moyenne : datation relative des phases de construction et volume général de la toiture, état cérémoniel vers 415 av. J.-C. Faible : quantité et emplacement précis des reliefs représentés (décor latéral trop étendu dans l’image), polychromie, dallage, végétation, bâtiments environnants, orientation des vues et paysage synchronique.",
+      "source_url": "https://agorakerameikos.gr/en/archeological-sites/naos-ifaistou/",
+      "secondary_sources": [
+        "https://www.ascsa.edu.gr/publications/hesperia/article/93/2/191-250",
+        "https://perseus-aa.github.io/items/aa_82.html"
+      ],
+      "src": "/assets/reconstitutions-3d/athenes-agora-hephaisteion-panorama.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-04",
+      "type": "nouveau panorama 3D photoréaliste interprétatif non métrique",
+      "provenance": "Création assistée par IA sans titre, menu ni annotation incrustés. Les études citées documentent les vestiges mais ne valident pas la scène de synthèse.",
+      "sha256": "70e5efd0513d893ec6555aa242407e768cfc872ca30c445776bcf656f3e0a610",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/athenes-agora-hephaisteion-panorama.json"
     }
   ]
 }

@@ -1,0 +1,36 @@
+{
+  "id": "ATH-HEP-001",
+  "slug": "athenes-agora-hephaisteion-panorama",
+  "title": "Athènes — Héphaïstéion, temple d’Héphaïstos et d’Athéna sur l’Agora",
+  "period": "Évocation vers 415 av. J.-C. (époque classique, fin du Ve siècle av. J.-C.)",
+  "image": "/assets/reconstitutions-3d/athenes-agora-hephaisteion-panorama.webp",
+  "caption": "Vue panoramique 3D photoréaliste interprétative du temple dorique d’Héphaïstos et d’Athéna sur le Kolônos Agoraios dominant l’Agora athénienne, dans une évocation du Ve siècle av. J.-C.",
+  "commentary": "Le temple dit Héphaïstéion est construit sur le Kolônos Agoraios à l’ouest de l’Agora d’Athènes. Son péristyle dorique comporte six colonnes en façade et treize sur chaque grand côté, soit trente-quatre colonnes extérieures distinctes ; pronaos et opisthodomos flanquent la cella. Une datation traditionnelle situe sa construction au milieu du Ve siècle. L’étude de Margaret M. Miles et Kathleen M. Lynch publiée en 2024 propose toutefois des fondations vers 480 av. J.-C. et l’achèvement de la superstructure vers 465–460 av. J.-C., et remet en cause l’hypothèse d’une colonnade intérieure. Le groupe cultuel d’Héphaïstos et d’Athéna attribué à Alcamène est installé vers 416/415 av. J.-C., ce qui justifie la date d’évocation. La façade tournée vers l’Agora comporte des métopes sculptées, ainsi que les premières métopes des flancs, mais pas une frise figurée continue sur la totalité des grands côtés. La représentation numérique EXAGÈRE ce décor sculpté latéral : il ne doit pas être lu comme une restitution des métopes attestées. La toiture, le rendu des couleurs, le dallage, les chemins, la végétation et les édifices voisins sont des choix artistiques. Les vestiges représentés au second plan ne décrivent pas un état synchronique archéologiquement validé de l’Agora. Les institutions et les publications citées documentent le monument, et ne cautionnent pas ce visuel.",
+  "certainty": {
+    "high": "Emplacement du temple sur la colline Kolônos Agoraios ; plan dorique périptère 6 × 13 et gabarit général ; dédicace à Héphaïstos et Athéna.",
+    "medium": "Chronologie revue des fondations et de la superstructure ; date de la présence des statues cultuelles vers 416/415 av. J.-C. ; restitution générale de la toiture.",
+    "low": "Polychromie, appareillage neuf, ornements scéniques, décors de métopes de la longue façade représentée au-delà des quatre métopes orientales attestées, équipements cultuels secondaires, datation synchronique des bâtiments au loin, pavage et environnement paysager."
+  },
+  "sources": [
+    {
+      "label": "Agora & Kerameikos — Archaeological site of Athens, Temple of Hephaestus",
+      "url": "https://agorakerameikos.gr/en/archeological-sites/naos-ifaistou/"
+    },
+    {
+      "label": "American School of Classical Studies at Athens — Miles & Lynch, Hesperia 93 (2024)",
+      "url": "https://www.ascsa.edu.gr/publications/hesperia/article/93/2/191-250"
+    },
+    {
+      "label": "Perseus Art & Archaeology — Temple of Hephaistos",
+      "url": "https://perseus-aa.github.io/items/aa_82.html"
+    }
+  ],
+  "bibliography": [
+    "Margaret M. Miles et Kathleen M. Lynch, « The Hephaisteion in Athens: Its Date and Design », Hesperia 93.2 (2024), p. 191–250.",
+    "John McK. Camp II, The Athenian Agora: Excavations in the Heart of Classical Athens, Londres, 1986."
+  ],
+  "rights_and_method": "Création assistée par IA sans titre, menu ni annotation incrustés. Les études citées documentent les vestiges mais ne valident pas la scène de synthèse. Non photogrammétrique, non métrique.",
+  "sha256": "70e5efd0513d893ec6555aa242407e768cfc872ca30c445776bcf656f3e0a610",
+  "width": 1672,
+  "height": 941
+}
