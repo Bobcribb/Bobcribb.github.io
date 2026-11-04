@@ -58,6 +58,16 @@ class GaligoDocumentaryIllustrationTests(unittest.TestCase):
         self.assertIn("@media(max-width:620px)", stylesheet)
         self.assertIn("break-inside:avoid", stylesheet)
 
+    def test_portal_rebuild_preserves_the_documentary_folio(self):
+        import sys
+        sys.path.insert(0, str(ROOT / "scripts"))
+        from build_navigation import card
+        rendered = BeautifulSoup(card('/bibliotheque-mythologies-du-monde/mythos-volume-19-la-galigo-bugis-sawerigading/', 'Sulawesi — La Galigo'), 'html.parser')
+        original = self.doc.select_one('figure[data-mythos-illustration="leiden-galigo-1906"] img')
+        self.assertEqual(original['src'], rendered.img['src'])
+        self.assertIn('Leiden University Libraries', rendered.get_text())
+        self.assertIn('CC BY-SA 4.0', rendered.get_text())
+
 
 if __name__ == "__main__":
     unittest.main()

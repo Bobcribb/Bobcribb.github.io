@@ -14,7 +14,7 @@ from bs4 import BeautifulSoup
 
 CATALOG = Path(__file__).with_name("editorial_media.json")
 GENERATED_CLASSES = {"mythos-home-illustrations", "mythos-visual-rail"}
-MAX_ADDED_IMAGES = 4
+MAX_ADDED_IMAGES = 6
 
 
 def normalized(value):

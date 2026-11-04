@@ -63,7 +63,13 @@ def section(title,lead="",body=""):
     return f'<section class="portal-section"><h2>{esc(title)}</h2>'+ (f'<p class="section-intro">{esc(lead)}</p>' if lead else "")+body+"</section>"
 
 def card(url,title,description="",label="COLLECTION"):
-    return f'<a class="portal-card" href="{esc(url)}"><span class="portal-card-kicker">{esc(label)}</span><strong>{esc(title)}</strong><span>{esc(description)}</span><span class="card-indicator" aria-hidden="true">↗</span></a>'
+    image = credit = ""
+    if url == "/bibliotheque-mythologies-du-monde/mythos-volume-19-la-galigo-bugis-sawerigading/":
+        # Keep the documented folio when rebuilding the portal, rather than
+        # losing the image whenever the general navigation is regenerated.
+        image = '<img class="mythos-card-image" data-mythos-card-source="la-galigo-leiden" src="https://upload.wikimedia.org/wikipedia/commons/1/10/La_Galigo_item_29355-0009_%28cropped2%29.jpg" alt="Folio de La Galigo en écriture bugis conservé à Leiden University Libraries, document de 1906." loading="lazy" decoding="async"/>'
+        credit = '<span>Folio : Leiden University Libraries · CC BY-SA 4.0.</span>'
+    return f'<a class="portal-card" href="{esc(url)}">{image}<span class="portal-card-kicker">{esc(label)}</span><strong>{esc(title)}</strong>{credit}<span>{esc(description)}</span><span class="card-indicator" aria-hidden="true">↗</span></a>'
 
 def cards(items,cols=""):
     return '<div class="portal-grid '+esc(cols)+'">'+''.join(card(*x) for x in items)+"</div>"

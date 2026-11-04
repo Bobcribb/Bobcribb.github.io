@@ -61,6 +61,7 @@ class EditorialIllustrationsTest(unittest.TestCase):
                 allowed_extras = {'mythos-apollon-heracles-tripode-andokides-met-63-11-6'} if title == 'Delphes' else set()
                 if title == 'Maât':
                     allowed_extras.add('mythos-met-544093-thot-ibis-plume-maat')
+                    allowed_extras.update({'mythos-met-551794-maat-faience-bleue', 'mythos-met-570207-maat-buste-offrande'})
                 self.assertTrue(all(fragment in key or key in allowed_extras for key in selected))
                 for figure in doc.select('aside figure'):
                     self.assertTrue(figure.img['alt'])
@@ -86,13 +87,16 @@ class EditorialIllustrationsTest(unittest.TestCase):
 
     def test_work_heading_after_collection_heading(self):
         _, selected = self.render_page('volume-150', 'MYTHOS — Tragédies grecques', '<h1>Euripide, Médée</h1><p>Étude intégrale.</p>')
-        self.assertEqual(['mythos-medee-fuite-char-serpents-hydrie-policoro-35296', 'mythos-van-loo-medee-jason'], selected)
+        self.assertEqual(6, len(selected))
+        self.assertTrue({'mythos-medee-fuite-char-serpents-hydrie-policoro-35296', 'mythos-van-loo-medee-jason', 'mythos-euripide-portrait-antique-szilas'} <= set(selected))
+        self.assertTrue(all('medee' in key or 'euripide-portrait' in key for key in selected))
 
-    def test_enriched_iliad_has_four_distinct_sourced_documents(self):
+    def test_enriched_iliad_keeps_ancient_documents_and_adds_modern_reception(self):
         doc, selected = self.render_page('iliade', 'Iliade')
-        self.assertEqual(4, len(selected))
-        self.assertEqual(4, len(set(selected)))
+        self.assertEqual(5, len(selected))
+        self.assertEqual(5, len(set(selected)))
         self.assertIn('mythos-papyrus-oxyrhynchus-20-iliade-ii', selected)
+        self.assertIn('mythos-met-341681-achille-ombre-patrocle-flaxman', selected)
         for figure in doc.select('aside figure'):
             self.assertEqual(figure.img['src'], figure.select_one('a')['href'])
             self.assertEqual('lazy', figure.img['loading'])
@@ -140,6 +144,27 @@ class EditorialIllustrationsTest(unittest.TestCase):
             self.assertEqual('CC0-1.0', item['license'])
             self.assertIn(item['source_url'], record['caption_html'])
             self.assertEqual(item['sha256'], hashlib.sha256((ROOT / item['path']).read_bytes()).hexdigest())
+
+    def test_euripides_portrait_has_photographer_rights_and_integrity(self):
+        import hashlib
+        record = next(r for r in self.records if r['id'] == 'mythos-euripide-portrait-antique-szilas')
+        self.assertEqual('Szilas', record['provenance']['photographer'])
+        self.assertEqual('PD-self', record['provenance']['license'])
+        self.assertIn(record['source_url'], record['caption_html'])
+        self.assertEqual(record['provenance']['sha256'], hashlib.sha256((ROOT / record['path']).read_bytes()).hexdigest())
+        _, selected = self.render_page('une-piece-perdue', 'Euripide — Alcméon à Corinthe')
+        self.assertIn(record['id'], selected)
+        _, selected = self.render_page('calendriers', 'Calendriers', '<p>Un parallèle chez Euripide.</p>')
+        self.assertNotIn(record['id'], selected)
+
+    def test_large_gallery_remains_bounded_and_idempotent(self):
+        doc, selected = self.render_page('etude-comparee', 'Euripide, Médée, Iphigénie et Oreste', '<p>Étude conservée.</p>')
+        self.assertEqual(6, len(selected))
+        self.assertEqual(6, len(set(selected)))
+        again, other = illustrations.decorate_document(str(doc), Path('etude-comparee/index.html'), ROOT, self.records)
+        self.assertEqual(str(doc), again)
+        self.assertEqual(selected, other)
+        self.assertEqual('Étude conservée.', doc.article.p.get_text())
 
     def test_existing_image_with_query_is_not_duplicated(self):
         record = next(r for r in self.records if 'antigone' in r['id'])
