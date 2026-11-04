@@ -394,6 +394,12 @@
           "path": "chapitres/encyclopedie/chapitre-382-tyche-fortune-hasard-cites-antioch-philosophie.md",
           "request_sha256": "ffcd50464ac22ba627789a5a3568823a1e2002597af9a1db0b328632d3a5b77a",
           "initial_source_sha256": "53ac2f47fb9d0bfcecf48af00470ad295ce5b4d06c5c78c442d07b64228aca3c"
+        },
+        "8d6ccfb7-7864-4f9f-9f19-63b4a4bd13a7": {
+          "number": 383,
+          "path": "chapitres/encyclopedie/chapitre-383-hymenaios-chant-nuptial-mariage-rites-tragedie-archaeologie.md",
+          "request_sha256": "4731cd1d380136674ac31dd0d00bdbf9aafa13b7bf22e63d7666898c5ac7d265",
+          "initial_source_sha256": "68716b9e63a8a3c54f7e565e12356397a022ecd82e4ab618f096063bfdba4790"
         }
       }
     },
