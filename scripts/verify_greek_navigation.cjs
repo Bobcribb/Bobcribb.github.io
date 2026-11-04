@@ -32,7 +32,7 @@ fs.mkdirSync(output,{recursive:true});
         report.checks.push({device,route,status:response.status(),layout});
       }
       await visit('/mythologie-grecque/');
-      assert.equal(await page.locator('#dossiers-thematiques .portal-card').count(),8);
+      assert.equal(await page.locator('#dossiers-thematiques .greek-folder-grid a[href^="/mythologie-grecque/dossiers/"]').count(),8);
       await page.screenshot({path:path.join(output,device+'-encyclopedie.png'),fullPage:true});
       await page.locator('.mythos-menu summary').click();
       assert.equal(await page.locator('.mythos-menu').getAttribute('open'),'');
@@ -58,7 +58,7 @@ fs.mkdirSync(output,{recursive:true});
       await visit(chapterRoute);
       await page.screenshot({path:path.join(output,device+'-chapitre.png'),fullPage:false});
       await visit('/grande-encyclopedie/');
-      assert.equal(await page.locator('#dossiers-thematiques .portal-card').count(),8);
+      assert.equal(await page.locator('#dossiers-thematiques .greek-folder-grid a[href^="/mythologie-grecque/dossiers/"]').count(),8);
       await visit('/');
       assert.equal(await page.locator('a.portal-card[href="/grande-encyclopedie/"]').count(),0);
       await context.close();
