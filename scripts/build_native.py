@@ -324,7 +324,7 @@ def reindex(chapters):
             if page.is_dir():
                 page=page/"index.html"
             if page.is_file():
-                head=re.split(r"</head\\s*>",page.read_text(encoding="utf-8"),
+                head=re.split(r"</head\s*>",page.read_text(encoding="utf-8"),
                               maxsplit=1,flags=re.I)[0]
                 doc=BeautifulSoup(head,"html.parser")
                 canonical=doc.select_one('link[rel~="canonical"]')
