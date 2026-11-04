@@ -9,6 +9,7 @@ import mistune
 import editorial_illustrations as illustrations
 
 ROOT = Path(__file__).resolve().parents[1]
+HATHOR_IMAGES = ['mythos-met-550893-hathor-sistre-arque', 'mythos-met-543897-hathor-sistre-teti']
 
 
 class EditorialIllustrationsTest(unittest.TestCase):
@@ -28,8 +29,9 @@ class EditorialIllustrationsTest(unittest.TestCase):
                 before = BeautifulSoup(page.read_text(), 'html.parser')
                 result, selected = illustrations.decorate_document(str(before), page, ROOT, self.records)
                 after = BeautifulSoup(result, 'html.parser')
-                self.assertEqual(selected, [])
-                self.assertFalse(after.select('main > aside'))
+                expected = HATHOR_IMAGES if 'hathor' in slug else []
+                self.assertEqual(selected, expected)
+                self.assertEqual(bool(after.select('main > aside')), bool(expected))
                 self.assertEqual(str(before.article), str(after.article))
                 self.assertNotIn('visual-rails-active', after.main.get('class', []))
 
@@ -38,7 +40,7 @@ class EditorialIllustrationsTest(unittest.TestCase):
             manuscript = ROOT / 'chapitres/origines-du-sacre' / (slug + '.md')
             source = '<html><head></head><body><main><article>' + mistune.html(manuscript.read_text()) + '</article></main></body></html>'
             _, selected = illustrations.decorate_document(source, Path(slug) / 'index.html', ROOT, self.records)
-            self.assertEqual([], selected)
+            self.assertEqual(HATHOR_IMAGES if 'hathor' in slug else [], selected)
 
     def test_exact_subject_not_collection_or_body(self):
         doc, selected = self.render_page('chapitres/origines-du-sacre/900-inde-temps', 'Calendriers de l’Inde', '<p>Comparaison avec Derveni, Socrate et Maât.</p>')
@@ -57,6 +59,8 @@ class EditorialIllustrationsTest(unittest.TestCase):
                 doc, selected = self.render_page('nouveau-chapitre', title)
                 self.assertTrue(selected)
                 allowed_extras = {'mythos-apollon-heracles-tripode-andokides-met-63-11-6'} if title == 'Delphes' else set()
+                if title == 'Maât':
+                    allowed_extras.add('mythos-met-544093-thot-ibis-plume-maat')
                 self.assertTrue(all(fragment in key or key in allowed_extras for key in selected))
                 for figure in doc.select('aside figure'):
                     self.assertTrue(figure.img['alt'])
@@ -110,6 +114,32 @@ class EditorialIllustrationsTest(unittest.TestCase):
             doc, selected = self.render_page('derveni', 'Derveni', out=Path(tmp))
             self.assertEqual([], selected)
             self.assertFalse(doc.select('aside'))
+
+    def test_museum_documents_match_named_subjects(self):
+        for title, object_id in [('Anubis', 570675), ('Sekhmet', 544486), ('Gudéa', 329072), ('Nimrud', 322608), ('Niké', 247903), ('Aristophane, Les Cavaliers', 844483)]:
+            with self.subTest(title=title):
+                doc, selected = self.render_page('nouveau-chapitre', title)
+                self.assertTrue(any(f'met-{object_id}-' in key for key in selected))
+                for img in doc.select('aside img[src^="/assets/illustrations-articles/"]'):
+                    self.assertGreater(int(img['width']), 0)
+                    self.assertGreater(int(img['height']), 0)
+
+    def test_museum_original_url_is_not_repeated(self):
+        record = next(r for r in self.records if 'met-570675-' in r['id'])
+        _, selected = self.render_page('anubis', 'Anubis', f'<img src="{record["equivalents"][0]}">')
+        self.assertEqual([], selected)
+
+    def test_museum_assets_have_matching_provenance_and_hashes(self):
+        import hashlib, json
+        manifest = json.loads((ROOT / 'assets/illustrations-articles/sources-met.json').read_text())
+        self.assertEqual(manifest['count'], len(manifest['images']))
+        for item in manifest['images']:
+            record = next(r for r in self.records if r['id'] == item['id'])
+            self.assertEqual(record['path'], item['path'])
+            self.assertTrue(item['is_public_domain'])
+            self.assertEqual('CC0-1.0', item['license'])
+            self.assertIn(item['source_url'], record['caption_html'])
+            self.assertEqual(item['sha256'], hashlib.sha256((ROOT / item['path']).read_bytes()).hexdigest())
 
     def test_existing_image_with_query_is_not_duplicated(self):
         record = next(r for r in self.records if 'antigone' in r['id'])

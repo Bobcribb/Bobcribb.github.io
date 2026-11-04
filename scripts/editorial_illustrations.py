@@ -39,7 +39,8 @@ def load_catalog():
             raise ValueError("Illustration dupliquée : " + record["id"])
         ids.add(record["id"])
         rel = Path(record["path"])
-        if rel.is_absolute() or ".." in rel.parts or rel.parts[0] != "media":
+        allowed_root = rel.parts[:1] == ("media",) or rel.parts[:2] == ("assets", "illustrations-articles")
+        if rel.is_absolute() or ".." in rel.parts or not allowed_root:
             raise ValueError("Média non local : " + str(rel))
         caption = BeautifulSoup(record["caption_html"], "html.parser")
         if not record["alt"].strip() or not record["subjects"] or not caption.get_text(strip=True):
@@ -125,7 +126,10 @@ def decorate_document(source, path, out, records):
         for record in chosen:
             figure = doc.new_tag("figure", attrs={"data-media-id": record["id"]})
             full_size = doc.new_tag("a", href="/" + record["path"], attrs={"aria-label": "Agrandir : " + record["alt"]})
-            full_size.append(doc.new_tag("img", src="/" + record["path"], alt=record["alt"], loading="lazy", decoding="async"))
+            img = doc.new_tag("img", src="/" + record["path"], alt=record["alt"], loading="lazy", decoding="async")
+            if record.get("width") and record.get("height"):
+                img["width"], img["height"] = record["width"], record["height"]
+            full_size.append(img)
             figure.append(full_size)
             caption = doc.new_tag("figcaption")
             for node in list(BeautifulSoup(record["caption_html"], "html.parser").contents):

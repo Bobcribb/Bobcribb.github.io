@@ -1266,8 +1266,221 @@
         "https://commons.wikimedia.org/wiki/File:Nike_des_Paionios.jpg"
       ],
       "provenance_page": "olympie-zeus-jeux-sanctuaire-etude/index.html"
+    },
+    {
+      "id": "mythos-met-550893-hathor-sistre-arque",
+      "path": "assets/illustrations-articles/met-550893-hathor-sistre-arque.webp",
+      "subjects": [
+        "Hathor"
+      ],
+      "alt": "Sistre arqué en faïence, avec un visage d’Hathor sous la boucle.",
+      "caption_html": "<strong>Un hymne à Hathor.</strong> Sistre arqué en faïence, 332–30 av. n. è. L’instrument porte un texte consacré à la déesse. <a href=\"https://www.metmuseum.org/art/collection/search/550893\">The Metropolitan Museum of Art, inv. 17.190.1957</a> (Gift of J. Pierpont Morgan, 1917). Image du domaine public, <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>.",
+      "equivalents": [
+        "https://images.metmuseum.org/CRDImages/eg/original/DP311619.jpg",
+        "https://images.metmuseum.org/CRDImages/eg/web-large/DP311619.jpg"
+      ],
+      "width": 875,
+      "height": 1600,
+      "source_url": "https://www.metmuseum.org/art/collection/search/550893"
+    },
+    {
+      "id": "mythos-met-543897-hathor-sistre-teti",
+      "path": "assets/illustrations-articles/met-543897-hathor-sistre-teti.webp",
+      "subjects": [
+        "Hathor",
+        "Téti"
+      ],
+      "alt": "Sistre à naos du roi Téti, surmonté d’un faucon et porté par un long manche.",
+      "caption_html": "<strong>Le sistre de Téti.</strong> Travertin, pigments et résine, vers 2323–2291 av. n. è. L’inscription associe le roi à Hathor, maîtresse de Dendara. Les tiges métalliques sonores ont disparu. <a href=\"https://www.metmuseum.org/art/collection/search/543897\">The Metropolitan Museum of Art, inv. 26.7.1450</a> (Purchase, Edward S. Harkness Gift, 1926). Image du domaine public, <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>.",
+      "equivalents": [
+        "https://images.metmuseum.org/CRDImages/eg/original/DT259185.jpg",
+        "https://images.metmuseum.org/CRDImages/eg/web-large/DT259185.jpg"
+      ],
+      "width": 1244,
+      "height": 1600,
+      "source_url": "https://www.metmuseum.org/art/collection/search/543897"
+    },
+    {
+      "id": "mythos-met-545961-isis-horus-enfant",
+      "path": "assets/illustrations-articles/met-545961-isis-horus-enfant.webp",
+      "subjects": [
+        "Isis",
+        "Horus",
+        "Harpocrate"
+      ],
+      "alt": "Statuette d’Isis assise, allaitant Horus enfant sur ses genoux.",
+      "caption_html": "<strong>Isis et Horus enfant.</strong> Statuette en anhydrite dédiée par Ankhhor, vers 721–525 av. n. è. Cette image de la maternité divine appartient à un contexte de dévotion. Photographie Anna-Marie Kellen. <a href=\"https://www.metmuseum.org/art/collection/search/545961\">The Metropolitan Museum of Art, inv. 45.2.10</a> (Rogers Fund, 1945). Image du domaine public, <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>.",
+      "equivalents": [
+        "https://images.metmuseum.org/CRDImages/eg/original/DP-37110-001.jpg",
+        "https://images.metmuseum.org/CRDImages/eg/web-large/DP-37110-001.jpg"
+      ],
+      "width": 1249,
+      "height": 1600,
+      "source_url": "https://www.metmuseum.org/art/collection/search/545961"
+    },
+    {
+      "id": "mythos-met-546178-triade-osiris-isis-horus",
+      "path": "assets/illustrations-articles/met-546178-triade-osiris-isis-horus.webp",
+      "subjects": [
+        "Osiris",
+        "Isis",
+        "Horus",
+        "Harpocrate"
+      ],
+      "alt": "Triade métallique : Isis à gauche, Osiris au centre et Horus enfant à droite.",
+      "caption_html": "<strong>La famille osirienne.</strong> Triade d’Osiris, Isis et Horus sous sa forme enfantine, Harpocrate ; alliage cuivreux, 664–30 av. n. è. <a href=\"https://www.metmuseum.org/art/collection/search/546178\">The Metropolitan Museum of Art, inv. 42.2.3</a> (Rogers Fund, 1942). Image du domaine public, <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>.",
+      "equivalents": [
+        "https://images.metmuseum.org/CRDImages/eg/original/42.2.3_001.jpg",
+        "https://images.metmuseum.org/CRDImages/eg/web-large/42.2.3_001.jpg"
+      ],
+      "width": 1201,
+      "height": 1600,
+      "source_url": "https://www.metmuseum.org/art/collection/search/546178"
+    },
+    {
+      "id": "mythos-met-570675-anubis-statuette",
+      "path": "assets/illustrations-articles/met-570675-anubis-statuette.webp",
+      "subjects": [
+        "Anubis"
+      ],
+      "alt": "Statuette métallique d’Anubis debout, à corps humain et tête de canidé.",
+      "caption_html": "<strong>Anubis.</strong> Statuette en alliage cuivreux, 664–30 av. n. è. Le dieu est représenté sous une forme composite, avec une tête de canidé. <a href=\"https://www.metmuseum.org/art/collection/search/570675\">The Metropolitan Museum of Art, inv. 04.2.430</a> (Gift of Darius Ogden Mills, 1904). Image du domaine public, <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>.",
+      "equivalents": [
+        "https://images.metmuseum.org/CRDImages/eg/original/04.2.430_01.jpg",
+        "https://images.metmuseum.org/CRDImages/eg/web-large/04.2.430_01.jpg"
+      ],
+      "width": 907,
+      "height": 1600,
+      "source_url": "https://www.metmuseum.org/art/collection/search/570675"
+    },
+    {
+      "id": "mythos-met-544093-thot-ibis-plume-maat",
+      "path": "assets/illustrations-articles/met-544093-thot-ibis-plume-maat.webp",
+      "subjects": [
+        "Thot",
+        "Thoth",
+        "Maât"
+      ],
+      "alt": "Incrustation en faïence : Thot sous forme d’ibis, le bec devant une plume de Maât.",
+      "caption_html": "<strong>Thot et la plume de Maât.</strong> Incrustation en faïence, 360–343 av. n. è. L’association de l’ibis et de la plume donne un support matériel à l’étude des rapports entre Thot et Maât. <a href=\"https://www.metmuseum.org/art/collection/search/544093\">The Metropolitan Museum of Art, inv. 26.7.992</a> (Purchase, Edward S. Harkness Gift, 1926). Image du domaine public, <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>.",
+      "equivalents": [
+        "https://images.metmuseum.org/CRDImages/eg/original/DP234740.jpg",
+        "https://images.metmuseum.org/CRDImages/eg/web-large/DP234740.jpg"
+      ],
+      "width": 1198,
+      "height": 1600,
+      "source_url": "https://www.metmuseum.org/art/collection/search/544093"
+    },
+    {
+      "id": "mythos-met-544486-sekhmet-statue",
+      "path": "assets/illustrations-articles/met-544486-sekhmet-statue.webp",
+      "subjects": [
+        "Sekhmet",
+        "Sakhmet"
+      ],
+      "alt": "Statue de Sekhmet à tête de lionne, debout et coiffée d’un disque solaire.",
+      "caption_html": "<strong>Sekhmet à tête de lionne.</strong> Statue en granodiorite du règne d’Amenhotep III, vers 1386–1347 av. n. è., provenant de Karnak. <a href=\"https://www.metmuseum.org/art/collection/search/544486\">The Metropolitan Museum of Art, inv. 15.8.4</a> (Gift of Henry Walters, 1915). Image du domaine public, <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>.",
+      "equivalents": [
+        "https://images.metmuseum.org/CRDImages/eg/original/15.8.4_front.jpg",
+        "https://images.metmuseum.org/CRDImages/eg/web-large/15.8.4_front.jpg"
+      ],
+      "width": 673,
+      "height": 1600,
+      "source_url": "https://www.metmuseum.org/art/collection/search/544486"
+    },
+    {
+      "id": "mythos-met-546747-osiris-padihorpare",
+      "path": "assets/illustrations-articles/met-546747-osiris-padihorpare.webp",
+      "subjects": [
+        "Osiris"
+      ],
+      "alt": "Osiris debout, couronné, les bras croisés sur la poitrine, avec des restes de dorure.",
+      "caption_html": "<strong>Une dédicace à Osiris.</strong> Statuette offerte par Padihorpare, 589–526 av. n. è. Alliage cuivreux et feuille d’or ; les inscriptions nomment Osiris Neb-Ankh et Khentyimentiu. <a href=\"https://www.metmuseum.org/art/collection/search/546747\">The Metropolitan Museum of Art, inv. 56.16.2</a> (Harris Brisbane Dick Fund, 1956). Image du domaine public, <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>.",
+      "equivalents": [
+        "https://images.metmuseum.org/CRDImages/eg/original/56.16.2_EGDP022582.jpg",
+        "https://images.metmuseum.org/CRDImages/eg/web-large/56.16.2_EGDP022582.jpg"
+      ],
+      "width": 1067,
+      "height": 1600,
+      "source_url": "https://www.metmuseum.org/art/collection/search/546747"
+    },
+    {
+      "id": "mythos-met-329072-gudea-statue-assise",
+      "path": "assets/illustrations-articles/met-329072-gudea-statue-assise.webp",
+      "subjects": [
+        "Gudéa",
+        "Gudea",
+        "Lagash",
+        "Lagaš",
+        "Girsu"
+      ],
+      "alt": "Statue de Gudéa assis, les mains jointes, sa robe couverte d’une inscription cunéiforme.",
+      "caption_html": "<strong>Gudéa, souverain bâtisseur.</strong> Statue en diorite, vers 2090 av. n. è. selon le catalogue du musée ; provenance probablement Girsu. La dédicace inscrit l’effigie royale dans le culte des temples de Lagash. <a href=\"https://www.metmuseum.org/art/collection/search/329072\">The Metropolitan Museum of Art, inv. 59.2</a> (Harris Brisbane Dick Fund, 1959). Image du domaine public, <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>.",
+      "equivalents": [
+        "https://images.metmuseum.org/CRDImages/an/original/DP-23786-001.jpg",
+        "https://images.metmuseum.org/CRDImages/an/web-large/DP-23786-001.jpg"
+      ],
+      "width": 1251,
+      "height": 1600,
+      "source_url": "https://www.metmuseum.org/art/collection/search/329072"
+    },
+    {
+      "id": "mythos-met-322608-lamassu-nimrud",
+      "path": "assets/illustrations-articles/met-322608-lamassu-nimrud.webp",
+      "subjects": [
+        "lamassu",
+        "Nimrud",
+        "Kalhu",
+        "Assurnasirpal",
+        "Assurnazirpal"
+      ],
+      "alt": "Lamassu assyrien en relief : taureau ailé à tête humaine coiffée de cornes.",
+      "caption_html": "<strong>Un gardien de porte assyrien.</strong> Lamassu de Nimrud, vers 883–859 av. n. è., albâtre gypseux. Ses cinq pattes produisent une pose frontale immobile et une marche vue de côté. <a href=\"https://www.metmuseum.org/art/collection/search/322608\">The Metropolitan Museum of Art, inv. 32.143.1</a> (Gift of John D. Rockefeller Jr., 1932). Image du domaine public, <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>.",
+      "equivalents": [
+        "https://images.metmuseum.org/CRDImages/an/original/DT879.jpg",
+        "https://images.metmuseum.org/CRDImages/an/web-large/DT879.jpg"
+      ],
+      "width": 1600,
+      "height": 1272,
+      "source_url": "https://www.metmuseum.org/art/collection/search/322608"
+    },
+    {
+      "id": "mythos-met-247903-nike-terre-cuite",
+      "path": "assets/illustrations-articles/met-247903-nike-terre-cuite.webp",
+      "subjects": [
+        "Niké",
+        "Nike"
+      ],
+      "alt": "Statuette fragmentaire de Niké en terre cuite, avec un vêtement aux plis soulevés.",
+      "caption_html": "<strong>Niké, la victoire personnifiée.</strong> Terre cuite grecque de la fin du Ve siècle av. n. è. La tête et les ailes manquent ; les ailes étaient fixées dans des encoches au dos. <a href=\"https://www.metmuseum.org/art/collection/search/247903\">The Metropolitan Museum of Art, inv. 07.286.23</a> (Rogers Fund, 1907). Image du domaine public, <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>.",
+      "equivalents": [
+        "https://images.metmuseum.org/CRDImages/gr/original/DT11674.jpg",
+        "https://images.metmuseum.org/CRDImages/gr/web-large/DT11674.jpg"
+      ],
+      "width": 1219,
+      "height": 1600,
+      "source_url": "https://www.metmuseum.org/art/collection/search/247903"
+    },
+    {
+      "id": "mythos-met-844483-acteurs-comiques-grecs",
+      "path": "assets/illustrations-articles/met-844483-acteurs-comiques-grecs.webp",
+      "subjects": [
+        "Aristophane",
+        "comédie ancienne",
+        "acteurs comiques"
+      ],
+      "alt": "Quinze figurines grecques d’acteurs comiques en terre cuite, avec masques et costumes variés.",
+      "caption_html": "<strong>Masques et types comiques.</strong> Quinze figurines en terre cuite, fin du Ve–début du IVe siècle av. n. è. Elles documentent des personnages récurrents du théâtre comique, comparables à ceux d’Aristophane, sans identifier une pièce ni une représentation précise. <a href=\"https://www.metmuseum.org/art/collection/search/844483\">The Metropolitan Museum of Art, inv. 13.225.13–.14, .16–.28</a> (Rogers Fund, 1913). Image du domaine public, <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>.",
+      "equivalents": [
+        "https://images.metmuseum.org/CRDImages/gr/original/DP116961a.jpg",
+        "https://images.metmuseum.org/CRDImages/gr/web-large/DP116961a.jpg"
+      ],
+      "width": 1200,
+      "height": 1600,
+      "source_url": "https://www.metmuseum.org/art/collection/search/844483"
     }
   ],
   "enrichment_date": "2026-11-04",
-  "enrichment_source_commit": "8eb71e88276de0275d236a69d3ead16b12b1f6a3"
+  "enrichment_source_commit": "8eb71e88276de0275d236a69d3ead16b12b1f6a3",
+  "museum_enrichment_date": "2026-11-04"
 }

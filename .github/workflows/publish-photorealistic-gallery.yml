@@ -1,4 +1,4 @@
-name: Publier les reconstitutions 3D sur bobmythos.fr
+name: Publier les illustrations et reconstitutions sur bobmythos.fr
 
 # Publication complète et non-mutante, indépendante du travail éditorial horaire.
 on:
@@ -7,6 +7,9 @@ on:
     paths:
       - '.github/workflows/publish-photorealistic-gallery.yml'
       - 'scripts/publish_photorealistic_snapshot.py'
+      - 'scripts/editorial_illustrations.py'
+      - 'scripts/editorial_media.json'
+      - 'assets/illustrations-articles/**'
       - 'assets/reconstitutions-3d/**'
       - 'reconstitutions-photorealistes.html'
   workflow_dispatch:
@@ -41,10 +44,10 @@ jobs:
         run: python -m pip install beautifulsoup4==4.12.3
       - name: Préparer le site complet sans modifier les manuscrits
         run: python scripts/publish_photorealistic_snapshot.py
-      - name: Refuser une galerie modifiée pendant le rendu
+      - name: Refuser une iconographie modifiée pendant le rendu
         run: |
           git fetch --no-tags origin refs/heads/main:refs/remotes/origin/main
-          git diff --quiet HEAD refs/remotes/origin/main -- assets/reconstitutions-3d/ reconstitutions-photorealistes.html || { echo 'Une image a changé pendant le rendu.'; exit 1; }
+          git diff --quiet HEAD refs/remotes/origin/main -- assets/reconstitutions-3d/ reconstitutions-photorealistes.html assets/illustrations-articles/ scripts/editorial_illustrations.py scripts/editorial_media.json || { echo 'L’iconographie a changé pendant le rendu.'; exit 1; }
       - name: Configurer GitHub Pages
         uses: actions/configure-pages@v5
       - name: Envoyer tous les fichiers publics

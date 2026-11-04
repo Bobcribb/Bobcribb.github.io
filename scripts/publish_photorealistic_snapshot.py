@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Non-mutating MYTHOS full-site snapshot for urgent photorealistic-gallery deployments."""
+"""Non-mutating MYTHOS full-site snapshot for illustration deployments."""
 from pathlib import Path
 import hashlib, json, os, shutil, sys
 
@@ -39,6 +39,16 @@ def build():
     # This changes only generated copies, never the scholarly source files.
     from editorial_illustrations import decorate_pages
     illustrated = decorate_pages(OUT)
+    museum_media = json.loads((OUT / "assets/illustrations-articles/sources-met.json").read_text(encoding="utf-8"))
+    if museum_media["count"] != len(museum_media["images"]):
+        raise RuntimeError("Inventaire des photographies de musée incohérent")
+    for item in museum_media["images"]:
+        path = Path(item["path"])
+        if path.is_absolute() or ".." in path.parts or path.parts[:2] != ("assets", "illustrations-articles"):
+            raise RuntimeError("Chemin d’illustration invalide : " + str(path))
+        body = (OUT / path).read_bytes()
+        if not (body[:4] == b"RIFF" and body[8:12] == b"WEBP") or hashlib.sha256(body).hexdigest() != item["sha256"]:
+            raise RuntimeError("Photographie absente ou modifiée : " + str(path))
     gallery=(OUT/"reconstitutions-photorealistes.html").read_text(encoding="utf-8")
     catalogue=json.loads((OUT/"assets/reconstitutions-3d/catalogue-photorealiste.json").read_text(encoding="utf-8"))
     items=catalogue["entries"]
@@ -75,7 +85,7 @@ def build():
         target=OUT/uri.lstrip("/")
         if uri.endswith("/"): target=target/"index.html"
         if not target.is_file(): raise RuntimeError("Article public absent : "+uri)
-    print(f"MYTHOS : {copies} ressources, {len(pages)} pages, {len(pdfs)} PDF, {len(items)} WebP vérifiés ; {illustrated} galeries documentaires actualisées.",flush=True)
+    print(f"MYTHOS : {copies} ressources, {len(pages)} pages, {len(pdfs)} PDF, {len(items)} reconstitutions et {museum_media['count']} photographies de musée vérifiées ; {illustrated} galeries documentaires actualisées.",flush=True)
 
 if __name__=="__main__":
     try: build()
