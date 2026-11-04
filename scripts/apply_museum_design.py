@@ -393,6 +393,10 @@ def apply(root):
                         '/media/2026/10/mythos-troie-vi-porte-est-hisarlik-cherryx-2012.jpg'):
                     if not (root / authored['src'].lstrip('/')).is_file():
                         raise RuntimeError('Photographie de Troie manquante : parcours Énéide')
+                    # Une reconstruction du portail peut recréer la carte
+                    # avec alt="" : restituer la description attestée.
+                    authored['alt'] = ('Vestiges de Troie VI à Hisarlik : contexte '
+                                      'archéologique, non illustration du récit virgilien.')
                     continue
                 # Les cartes des dernières études proviennent des reçus
                 # d'attribution et de recent_studies.py. Leurs photographies
