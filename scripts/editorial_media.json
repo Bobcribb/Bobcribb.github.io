@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "provenance_commit": "871b5333c2faadcba16b97b1a3b6694482052449",
   "policy": "Subjects are depicted people, works or places. No civilization-wide, collection-wide or random fallback. Existing captions and credits retained from the cited repository articles.",
   "media": [
@@ -20,7 +20,8 @@
       "id": "mythos-derveni-cratere-dionysos-menade-carole-raddato",
       "path": "media/2026/10/mythos-derveni-cratere-dionysos-menade-carole-raddato.jpg",
       "subjects": [
-        "Derveni"
+        "Derveni",
+        "Dionysos"
       ],
       "alt": "Décor sculpté du cratère funéraire en bronze de Derveni, avec Dionysos et une ménade, conservé au Musée archéologique de Thessalonique.",
       "caption_html": "<strong>Objet archéologique de comparaison, et non illustration directe du rouleau.</strong> Cratère de Derveni, tombe B (le papyrus provient de la tombe A), IVe siècle av. n. è. Photo <strong>Carole Raddato</strong>, 2012, <a href=\"https://commons.wikimedia.org/wiki/File:The_Derveni_krater,_late_4th_century_B.C.,_a_youthful_Dionysos_with_an_exhausted_maenad_seating_on_the_shoulders_of_the_vase,_Archaeological_Museum,_Thessaloniki,_Greece_(7457834248).jpg\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\">CC BY-SA 2.0</a>. Image non modifiée.",
@@ -261,7 +262,8 @@
       "path": "media/2026/10/oreste-apollon-cratere-eumenides-louvre-cp-710.jpg",
       "subjects": [
         "Oreste",
-        "Euménides"
+        "Euménides",
+        "Orestie"
       ],
       "alt": "Cratère apulien du peintre des Euménides, Oreste purifié par Apollon avec Clytemnestre et les Érinyes, vers 380–370 avant notre ère.",
       "caption_html": "<strong>Œuvre antique authentique.</strong> Oreste purifié par Apollon, Clytemnestre et Érinyes, cratère apulien du peintre des Euménides, vers 380–370 av. n. è., musée du Louvre, inv. Cp 710. <a href=\"https://commons.wikimedia.org/wiki/File:Orestes_Apollo_Louvre_Cp710.jpg\">Photo Bibi Saint-Pol</a>, 2007, domaine public. Ce vase est postérieur de plusieurs décennies à la création de l’<em>Orestie</em> (458 av. n. è.) ; il témoigne de la circulation des images et du récit, pas de la mise en scène originelle d’Eschyle.",
@@ -334,7 +336,8 @@
       "alt": "Plan coloré de l’aire sacrée de Délos, avec édifices numérotés, lac sacré et port.",
       "caption_html": "<strong>Plan scientifique moderne.</strong> Aire sacrée de Délos par Tomisti (2016 ; version 2024). N° 1 : temple délien d’Apollon ; 5 : Artémision ; 24 : lac sacré ; 25 : terrasse des Lions ; 30 : port sacré. <a href=\"https://commons.wikimedia.org/wiki/File:Plan_Delos_Sacred_Area_colored.svg\">Plan original et légende complète</a> · <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Aperçu PNG du fichier SVG.",
       "equivalents": [
-        "https://commons.wikimedia.org/wiki/File:Plan_Delos_Sacred_Area_colored.svg"
+        "https://commons.wikimedia.org/wiki/File:Plan_Delos_Sacred_Area_colored.svg",
+        "/media/2026/10/mythos-plan-delos-aire-sacree-tomisti-2016.png"
       ],
       "provenance_page": "delos-apollon-sanctuaire-histoire-archeologie/index.html"
     },
@@ -484,7 +487,10 @@
       "id": "eleusis-grand-relief-demeter-trip-toleme-persephone-zde",
       "path": "media/2026/10/eleusis-grand-relief-demeter-trip-toleme-persephone-zde.jpg",
       "subjects": [
-        "Éleusis"
+        "Éleusis",
+        "Déméter",
+        "Perséphone",
+        "Triptolème"
       ],
       "alt": "Grand relief votif d’Éleusis : Déméter, Triptolème et Perséphone, marbre antique vers 440–430 avant notre ère.",
       "caption_html": "<strong>Œuvre antique authentique.</strong> Grand relief d’Éleusis, vers 440–430 av. n. è., marbre pentélique ; Déméter à gauche, Triptolème au centre, Perséphone à droite. Musée national archéologique d’Athènes NAMA 126. Photographie Zde (2014). <a href=\"https://commons.wikimedia.org/wiki/File:Relief_from_Eleusis_large_marble_440-430_BC,_NAMA_126_102653.jpg\">Source</a> · <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>.",
@@ -593,7 +599,8 @@
       "subjects": [
         "Argonautes",
         "Argonautiques",
-        "Toison"
+        "Toison",
+        "Jason"
       ],
       "alt": "Cratère à colonnettes à figures rouges du Ve siècle avant notre ère montrant Jason avec la Toison d’or et Athéna près de la poupe de l’Argo.",
       "caption_html": "<strong>Vase antique antérieur à l’épopée hellénistique.</strong> Jason prenant la Toison en présence d’Athéna, cratère à colonnettes attribué au Peintre du Verger, vers 470–460 av. n. è., Met 34.11.7. <a href=\"https://www.metmuseum.org/art/collection/search/253427\">Notice</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Terracotta_column-krater_(bowl_for_mixing_wine_and_water)_MET_DP153296.jpg\">image Met Open Access, CC0</a>. Cette peinture atteste le thème bien avant Apollonios de Rhodes.",
@@ -769,6 +776,498 @@
         "https://commons.wikimedia.org/wiki/File:Orphic_Gold_Tablet_(Petelia_-_British_Museum,_London).jpg"
       ],
       "provenance_page": "orphee-lamelles-or-initiation-au-dela/index.html"
+    },
+    {
+      "id": "mythos-amphiareion-oropos-plan-visiteurs-2022",
+      "path": "media/2026/10/mythos-amphiareion-oropos-plan-visiteurs-2022.jpg",
+      "subjects": [
+        "Amphiaraos",
+        "Amphiaraion",
+        "Amphiareion",
+        "Oropos"
+      ],
+      "alt": "Photographie du plan de visite du site archéologique de l’Amphiaraion d’Oropos.",
+      "caption_html": "<strong>Plan d’orientation du sanctuaire.</strong> Document de visite photographié en avril 2022 par TimeTravelRome, <a href=\"https://commons.wikimedia.org/wiki/File:Amphiareion_archaeological_site_-_map_of_the_site.jpg\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY 2.0</a>. Ce panneau facilite la lecture des vestiges ; ce n’est pas un relevé architectural original de l’Antiquité.",
+      "equivalents": [
+        "https://commons.wikimedia.org/wiki/File:Amphiareion_archaeological_site_-_map_of_the_site.jpg"
+      ],
+      "provenance_page": "amphiaraion-oropos-amphiaraos-oracle-guerison-incubation/index.html"
+    },
+    {
+      "id": "mythos-amphiareion-oropos-theatre-veza-2020",
+      "path": "media/2026/10/mythos-amphiareion-oropos-theatre-veza-2020.jpg",
+      "subjects": [
+        "Amphiaraos",
+        "Amphiaraion",
+        "Amphiareion",
+        "Oropos"
+      ],
+      "alt": "Théâtre antique de l’Amphiaraion d’Oropos photographié en 2020 ; la colonnade du proskenion est visible.",
+      "caption_html": "<strong>Vestiges archéologiques.</strong> Théâtre du sanctuaire d’Amphiaraos, photographie Γεώργιος Βέζας, mai 2020, <a href=\"https://commons.wikimedia.org/wiki/File:Theatre_of_Amphiareion_in_Oropos_(Θέατρο_Αμφιάρειου_Ωρωπού).jpg\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Le bâtiment de scène comprend des éléments remontés lors de restaurations.",
+      "equivalents": [
+        "https://commons.wikimedia.org/wiki/File:Theatre_of_Amphiareion_in_Oropos_(Θέατρο_Αμφιάρειου_Ωρωπού).jpg"
+      ],
+      "provenance_page": "amphiaraion-oropos-amphiaraos-oracle-guerison-incubation/index.html"
+    },
+    {
+      "id": "mythos-artemision-ephese-vestiges-w-lemay",
+      "path": "media/2026/10/mythos-artemision-ephese-vestiges-w-lemay.jpg",
+      "subjects": [
+        "Éphèse",
+        "Artémision Éphèse"
+      ],
+      "alt": "Photographie des ruines du temple d'Artémis d'Éphèse, montrant des blocs au sol et une colonne remontée au milieu des vestiges.",
+      "caption_html": "<strong>Site archéologique contemporain.</strong> Artémision d’Éphèse, près de Selçuk ; photo w_lemay, mai 2023, <a href=\"https://commons.wikimedia.org/wiki/File:Ruins_of_the_Temple_of_Artemis_at_Ephesus,_Selcuk,_Turkiye_(53521082611).jpg\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\">CC BY-SA 2.0</a>. La colonne visible est remontée ; le panorama ne restitue pas le temple intact.",
+      "equivalents": [
+        "https://commons.wikimedia.org/wiki/File:Ruins_of_the_Temple_of_Artemis_at_Ephesus,_Selcuk,_Turkiye_(53521082611).jpg"
+      ],
+      "provenance_page": "artemis-ephese-artemision-temple-culte-anatolie/index.html"
+    },
+    {
+      "id": "mythos-artemis-ephesienne-statue-musee-selcuk-furkan-akkurt",
+      "path": "media/2026/10/mythos-artemis-ephesienne-statue-musee-selcuk-furkan-akkurt.jpg",
+      "subjects": [
+        "Artémis",
+        "Éphèse"
+      ],
+      "alt": "Statue en marbre d'Artémis Éphésienne portant un costume rigide richement orné d'animaux et de protubérances ovoïdes.",
+      "caption_html": "<strong>Source iconographique.</strong> Statue d’Artémis Éphésienne exposée au musée d’Éphèse, Selçuk. Photo Furkan Akkurt (février 2024), <a href=\"https://commons.wikimedia.org/wiki/File:Artemis_of_Ephesus_statue_Ephesus_Museum_2024.jpeg\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>, image non modifiée. Les rangées d’ornements ont plusieurs interprétations et ne doivent pas être automatiquement identifiées comme des seins.",
+      "equivalents": [
+        "https://commons.wikimedia.org/wiki/File:Artemis_of_Ephesus_statue_Ephesus_Museum_2024.jpeg"
+      ],
+      "provenance_page": "artemis-ephese-artemision-temple-culte-anatolie/index.html"
+    },
+    {
+      "id": "mythos-relief-hero-banquet-attique-met-57-42",
+      "path": "media/2026/10/mythos-relief-hero-banquet-attique-met-57-42.jpg",
+      "subjects": [
+        "culte héroïque",
+        "cultes héroïques",
+        "banquet funéraire",
+        "hérôon"
+      ],
+      "alt": "Relief attique consacré à un héros lors d’un banquet, contexte iconographique des cultes héroïques locaux.",
+      "caption_html": "<strong>Image pour l’atlas des cultes héroïques, pas une localisation cartographique.</strong> Relief votif attique, IVe siècle av. n. è., Met 57.42. <a href=\"https://www.metmuseum.org/art/collection/search/254966\">Notice</a> et <a href=\"https://commons.wikimedia.org/wiki/File:Marble_votive_relief_dedicated_to_a_hero_MET_162951.jpg\">photo Open Access CC0</a>. Un relief figuré ne détermine pas à lui seul la situation d’un hérôon.",
+      "equivalents": [
+        "https://commons.wikimedia.org/wiki/File:Marble_votive_relief_dedicated_to_a_hero_MET_162951.jpg"
+      ],
+      "provenance_page": "atlas-mythologique/index.html"
+    },
+    {
+      "id": "mythos-dodone-theatre-koen-2006",
+      "path": "media/2026/10/mythos-dodone-theatre-koen-2006.jpg",
+      "subjects": [
+        "Dodone"
+      ],
+      "alt": "Gradins du théâtre antique de Dodone en Épire, photographie de 2006.",
+      "caption_html": "<strong>Vestiges réels du sanctuaire de Dodone.</strong> Théâtre de Dodone, monument de l’époque hellénistique, photographié par .Koen (2006), <a href=\"https://commons.wikimedia.org/wiki/File:Dodona_Theatre_1.jpg\">source</a> · <a href=\"https://creativecommons.org/licenses/by-sa/2.5/\">CC BY-SA 2.5</a>. Le théâtre documente la monumentalisation du complexe, non le chêne oraculaire archaïque ni une consultation particulière.",
+      "equivalents": [
+        "https://commons.wikimedia.org/wiki/File:Dodona_Theatre_1.jpg"
+      ],
+      "provenance_page": "atlas-mythologique/index.html"
+    },
+    {
+      "id": "mythos-papyrus-oxyrhynchus-20-iliade-ii",
+      "path": "media/2026/10/mythos-papyrus-oxyrhynchus-20-iliade-ii.jpg",
+      "subjects": [
+        "Iliade"
+      ],
+      "alt": "Témoin manuscrit sur papyrus d’un passage de l’Iliade, matériel authentique distinct d’une édition moderne.",
+      "caption_html": "<strong>Exemple bibliographique : document primaire versus édition et commentaire.</strong> P.Oxy. 20, fragment d’<em>Iliade</em> II sur papyrus, IIe siècle de notre ère, <a href=\"https://commons.wikimedia.org/wiki/File:P._Oxy._20.jpg\">reproduction du domaine public</a>. Une notice d’édition scientifique doit identifier séparément l’œuvre, le témoin papyrologique et la photographie.",
+      "equivalents": [
+        "https://commons.wikimedia.org/wiki/File:P._Oxy._20.jpg"
+      ],
+      "provenance_page": "bibliographie/index.html"
+    },
+    {
+      "id": "shiva-nataraja-chola-met-1987-80-1",
+      "path": "media/2026/10/shiva-nataraja-chola-met-1987-80-1.jpg",
+      "subjects": [
+        "Shiva",
+        "Śiva",
+        "Nataraja",
+        "Naṭarāja",
+        "Chola"
+      ],
+      "alt": "Bronze de Śiva Naṭarāja, dieu dansant dans un cercle de flammes, époque Chola, fin du XIe siècle",
+      "caption_html": "Śiva Naṭarāja, Tamil Nadu, fin du XIe siècle, bronze. The Metropolitan Museum of Art, New York, numéro d’inventaire 1987.80.1. Photographie de la collection Open Access du Met — CC0. <a href=\"https://www.metmuseum.org/art/collection/search/39328\">Notice officielle de l’œuvre</a>.",
+      "equivalents": [],
+      "provenance_page": "bibliotheque-mythologies-du-monde/civilisations-chola-tamil-nadu-nataraja/index.html"
+    },
+    {
+      "id": "mythos-persepolis-apadana-delegations-pentocelo-2006",
+      "path": "media/2026/10/mythos-persepolis-apadana-delegations-pentocelo-2006.jpg",
+      "subjects": [
+        "Persépolis",
+        "Apadana"
+      ],
+      "alt": "Relief des délégations de l’Apadana à Persépolis photographié en 2006.",
+      "caption_html": "<strong>Ressource du parcours iranien.</strong> Relief des délégations de l’Apadana à Persépolis, photo Pentocelo (2006), <a href=\"https://commons.wikimedia.org/wiki/File:Persepolis_delegations.jpg\">source</a>, domaine public. À confronter aux archives administratives, qui documentent un autre aspect de l’empire.",
+      "equivalents": [
+        "https://commons.wikimedia.org/wiki/File:Persepolis_delegations.jpg"
+      ],
+      "provenance_page": "bibliotheque-perse-iran-ancien/index.html"
+    },
+    {
+      "id": "mythos-lararium-maison-vettii-pompei-lorente-waterborough",
+      "path": "media/2026/10/mythos-lararium-maison-vettii-pompei-lorente-waterborough.jpg",
+      "subjects": [
+        "lararium",
+        "lares",
+        "Pénates",
+        "religion domestique romaine",
+        "Vettii"
+      ],
+      "alt": "Lararium antique de la maison des Vettii à Pompéi avec Lares, figures cultuelles et serpent.",
+      "caption_html": "<strong>Décor religieux romain authentique.</strong> Lararium de la maison des Vettii, Pompéi, Ier siècle de notre ère. Photographie Patricio Lorente, version recadrée par Waterborough (2018). <a href=\"https://commons.wikimedia.org/wiki/File:Casa_dei_Vettii_-_Larario.jpg\">Source et historique du fichier</a> · <a href=\"https://creativecommons.org/licenses/by-sa/2.5/\">CC BY-SA 2.5</a>. Une peinture domestique ne permet pas de reconstituer la totalité des pratiques de toutes les familles romaines.",
+      "equivalents": [
+        "https://commons.wikimedia.org/wiki/File:Casa_dei_Vettii_-_Larario.jpg"
+      ],
+      "provenance_page": "bibliotheque-rome-antique/index.html"
+    },
+    {
+      "id": "mythos-asclepios-hygie-relief-therme-istanbul-109t-sandstein",
+      "path": "media/2026/10/mythos-asclepios-hygie-relief-therme-istanbul-109t-sandstein.jpg",
+      "subjects": [
+        "Asclépios",
+        "Hygie"
+      ],
+      "alt": "Relief grec d’Asclépios et Hygie, provenant de Thermi près de Thessalonique, Ve siècle avant notre ère.",
+      "caption_html": "<strong>Relief votif grec.</strong> Asclépios et Hygie, marbre du dernier quart du Ve siècle av. n. è., Thermi, musée archéologique d’Istanbul, inv. 109 T. Photo Sandstein, 2010. <a href=\"https://commons.wikimedia.org/wiki/File:IAM_109T_-_Relief_of_Asclepius_and_Hygieia.jpg\">Photographie et référence</a> · <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Ce document représente les divinités du soin ; il ne prouve pas l’efficacité d’une thérapie particulière.",
+      "equivalents": [
+        "https://commons.wikimedia.org/wiki/File:IAM_109T_-_Relief_of_Asclepius_and_Hygieia.jpg"
+      ],
+      "provenance_page": "bibliotheque-sciences-medecine-antiques/index.html"
+    },
+    {
+      "id": "mythos-brauron-fillette-au-lapin-musee",
+      "path": "media/2026/10/mythos-brauron-fillette-au-lapin-musee.jpg",
+      "subjects": [
+        "Brauron",
+        "arkteia"
+      ],
+      "alt": "Statue en marbre d’une fillette tenant un lapin, provenant de Brauron.",
+      "caption_html": "<strong>Fillette au lapin provenant de la stoa de Brauron.</strong> Marbre attique, fin du IVe siècle av. n. è., musée archéologique de Brauron, inv. 1158. Photo : Napoleon Vier, <a href=\"https://commons.wikimedia.org/wiki/File:Brauron2.jpg\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cette sculpture atteste une représentation d’enfant dans le sanctuaire, non le déroulement exact de l’<em>arkteia</em>.",
+      "equivalents": [
+        "https://commons.wikimedia.org/wiki/File:Brauron2.jpg"
+      ],
+      "provenance_page": "brauron-artemis-arkteia-ourses-rites-attique/index.html"
+    },
+    {
+      "id": "mythos-plan-artemision-brauron-emma-burkhardt-2009",
+      "path": "media/2026/10/mythos-plan-artemision-brauron-emma-burkhardt-2009.jpg",
+      "subjects": [
+        "Brauron",
+        "arkteia"
+      ],
+      "alt": "Plan du sanctuaire d’Artémis à Brauron indiquant stoa, temple, source et pont, relevé moderne d’Emma Burkhardt.",
+      "caption_html": "<strong>Plan archéologique moderne.</strong> Artémision de Brauron, Emma Burkhardt (2009). <a href=\"https://commons.wikimedia.org/wiki/File:Brauron_Artemision_Plan2.jpg\">Original et auteur</a> · <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Certaines identifications de bâtiments sont discutées ; le plan ne reconstitue pas les rites d’Artémis.",
+      "equivalents": [
+        "https://commons.wikimedia.org/wiki/File:Brauron_Artemision_Plan2.jpg"
+      ],
+      "provenance_page": "cultes-cites/index.html"
+    },
+    {
+      "id": "mythos-athenes-metron-agora-jacob-freeland-2023",
+      "path": "media/2026/10/mythos-athenes-metron-agora-jacob-freeland-2023.jpg",
+      "subjects": [
+        "Métrôon",
+        "Cybele",
+        "Matar",
+        "Magna Mater"
+      ],
+      "alt": "Vue des fondations et ruines du Métrôon dans l’Agora d’Athènes, bâtiment ayant abrité le culte de la Mère des dieux et des archives publiques.",
+      "caption_html": "<strong>Site antique.</strong> Métrôon de l’Agora d’Athènes, photo Jacob Freeland (2023), <a href=\"https://commons.wikimedia.org/wiki/File:Ruins_of_the_Athenian_Metroon.JPG\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0/\">CC BY 4.0</a>, image non modifiée. Vue des vestiges, et non restitution intégrale de l’édifice.",
+      "equivalents": [
+        "https://commons.wikimedia.org/wiki/File:Ruins_of_the_Athenian_Metroon.JPG"
+      ],
+      "provenance_page": "cybele-matar-phrygie-magna-mater-grece-rome/index.html"
+    },
+    {
+      "id": "mythos-delphes-mur-polygonal-inscriptions-zde-2020",
+      "path": "media/2026/10/mythos-delphes-mur-polygonal-inscriptions-zde-2020.jpg",
+      "subjects": [
+        "Delphes"
+      ],
+      "alt": "Mur polygonal du sanctuaire d’Apollon à Delphes portant des inscriptions grecques, photographie de 2020.",
+      "caption_html": "<strong>Source de topographie épigraphique.</strong> Inscriptions gravées sur le mur polygonal de Delphes, support architectural et textes de périodes différentes. Photo Zde, 17 septembre 2020, <a href=\"https://commons.wikimedia.org/wiki/File:Polygonal_wall_in_Delphi,_inscription,_201245.jpg\">fichier source</a> · <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Pour étudier les affranchissements, vérifier les numéros du corpus et la transcription de chaque inscription.",
+      "equivalents": [
+        "https://commons.wikimedia.org/wiki/File:Polygonal_wall_in_Delphi,_inscription,_201245.jpg"
+      ],
+      "provenance_page": "delphes-oracle-apollon-etude/index.html"
+    },
+    {
+      "id": "mythos-apollon-heracles-tripode-andokides-met-63-11-6",
+      "path": "media/2026/10/mythos-apollon-heracles-tripode-andokides-met-63-11-6.jpg",
+      "subjects": [
+        "Apollon",
+        "Héraclès",
+        "Delphes"
+      ],
+      "alt": "Amphore archaïque attique montrant Héraclès et Apollon disputant le trépied de l’oracle de Delphes.",
+      "caption_html": "<strong>Vase grec antique.</strong> Apollon et Héraclès autour du trépied de Delphes, amphore attique de l’atelier d’Andokidès, vers 530 av. n. è. Met 63.11.6. <a href=\"https://www.metmuseum.org/art/collection/search/255154\">Notice</a> et <a href=\"https://commons.wikimedia.org/wiki/File:Terracotta_amphora_(jar)_MET_DP116936.jpg\">photo Met CC0</a>. Scène mythique, non preuve d’un conflit historique.",
+      "equivalents": [
+        "https://commons.wikimedia.org/wiki/File:Terracotta_amphora_(jar)_MET_DP116936.jpg"
+      ],
+      "provenance_page": "dieu-apollon/index.html"
+    },
+    {
+      "id": "mythos-ares-frise-orientale-parthenon-bloc-iv-twospoonfuls",
+      "path": "media/2026/10/mythos-ares-frise-orientale-parthenon-bloc-iv-twospoonfuls.jpg",
+      "subjects": [
+        "Arès",
+        "frise du Parthénon",
+        "frise Parthénon"
+      ],
+      "alt": "Bloc IV de la frise orientale du Parthénon avec Ares à droite parmi des dieux assis.",
+      "caption_html": "<strong>Relief classique authentique.</strong> Bloc IV de la frise orientale du Parthénon, vers 447–433 av. n. è., British Museum. À droite, Arès assis, à côté de Déméter et des figures attribuées à Dionysos et Hermès. Photo Twospoonfuls (2008). <a href=\"https://commons.wikimedia.org/wiki/File:Parthenon_frieze_east_IV_fragment.JPG\">Source</a> · <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>.",
+      "equivalents": [
+        "https://commons.wikimedia.org/wiki/File:Parthenon_frieze_east_IV_fragment.JPG"
+      ],
+      "provenance_page": "dieu-ares/index.html"
+    },
+    {
+      "id": "met-hades-persephone-apulian-hydria-07-128-1",
+      "path": "media/2026/10/met-hades-persephone-apulian-hydria-07-128-1.jpg",
+      "subjects": [
+        "Hadès",
+        "Perséphone"
+      ],
+      "alt": "Hydrie apulienne représentant Hadès enlevant Perséphone sur un char, entouré d'autres divinités, vers 340–330 avant notre ère.",
+      "caption_html": "<strong>Document antique.</strong> Hadès et le rapt de Perséphone, hydrie apulienne du groupe B.M. F 308, vers 340–330 av. n. è., Metropolitan Museum of Art, 07.128.1. <a href=\"https://www.metmuseum.org/art/collection/search/247597\">Fiche d’objet</a>. Reproduction Open Access, domaine public.",
+      "equivalents": [
+        "/media/2026/10/mythos-persephone-enlevement-hydrie-apulie-met-07-128-1.jpg"
+      ],
+      "provenance_page": "dieu-hades/index.html"
+    },
+    {
+      "id": "hephaiestos-retour-olympe-coupe-oakeshott-17-230-5",
+      "path": "media/2026/10/hephaiestos-retour-olympe-coupe-oakeshott-17-230-5.png",
+      "subjects": [
+        "Héphaïstos",
+        "Héphaestos",
+        "Dionysos"
+      ],
+      "alt": "Coupe grecque du peintre d’Oakeshott : cortège du retour d’Héphaïstos sur l’Olympe, avec Dionysos et une mule, vers 550 avant notre ère.",
+      "caption_html": "<strong>Document antique.</strong> Retour d’Héphaïstos, coupe attique à figures noires du peintre d’Oakeshott, vers 550 av. n. è., Metropolitan Museum of Art 17.230.5. Le cortège contient une mule portant Héphaïstos et Dionysos. <a href=\"https://www.metmuseum.org/art/collection/search/250543\">Notice du musée</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Ariadne_and_Hephaistos_with_Dionysos_Cup.png\">Reproduction CC0</a>.",
+      "equivalents": [
+        "https://commons.wikimedia.org/wiki/File:Ariadne_and_Hephaistos_with_Dionysos_Cup.png"
+      ],
+      "provenance_page": "dieu-hephaistos/index.html"
+    },
+    {
+      "id": "met-heracles-serpents-hera-nausicaa-25-28",
+      "path": "media/2026/10/met-heracles-serpents-hera-nausicaa-25-28.jpg",
+      "subjects": [
+        "Héraclès",
+        "Héra"
+      ],
+      "alt": "Héraclès enfant étranglant deux serpents envoyés par Héra sur une hydrie à figures rouges, Ve siècle av. n. è.",
+      "caption_html": "<strong>Document antique.</strong> Héraclès enfant et les serpents envoyés par Héra, hydrie attique du peintre de Nausicaa, vers 460–450 av. n. è., Metropolitan Museum of Art, 25.28. <a href=\"https://www.metmuseum.org/art/collection/search/251790\">Fiche d’objet</a>. Reproduction Open Access, domaine public.",
+      "equivalents": [],
+      "provenance_page": "dieu-hera/index.html"
+    },
+    {
+      "id": "mythos-relief-orphee-eurydice-hermes-naples-6727",
+      "path": "media/2026/10/mythos-relief-orphee-eurydice-hermes-naples-6727.jpg",
+      "subjects": [
+        "Orphée",
+        "Eurydice",
+        "Hermès"
+      ],
+      "alt": "Hermès à gauche, Eurydice au centre et Orphée à droite sur une copie romaine d’un relief grec, Musée archéologique de Naples.",
+      "caption_html": "<strong>Hermès psychopompe dans l’iconographie antique.</strong> Hermès (à gauche) accompagne Eurydice ; Orphée tient la lyre (à droite). Copie romaine d’un relief grec du Ve siècle av. n. è., musée de Naples, inv. 6727. Photo Sailko (2013). <a href=\"https://commons.wikimedia.org/wiki/File:Orfeo,_euridice_ed_hermes,_da_torre_del_greco,_copia_augustea_da_orig._greco_del_450_ac_ca._6727.JPG\">Source</a> · <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Cette image n’illustre pas l’épisode du vol des bœufs décrit dans l’Hymne.",
+      "equivalents": [
+        "https://commons.wikimedia.org/wiki/File:Orfeo,_euridice_ed_hermes,_da_torre_del_greco,_copia_augustea_da_orig._greco_del_450_ac_ca._6727.JPG"
+      ],
+      "provenance_page": "dieu-hermes/index.html"
+    },
+    {
+      "id": "mythos-orphee-thraces-cratere-londres-e497-met-24-97-30-nguyen",
+      "path": "media/2026/10/mythos-orphee-thraces-cratere-londres-e497-met-24-97-30-nguyen.jpg",
+      "subjects": [
+        "Orphée"
+      ],
+      "alt": "Orphée chantant parmi les Thraces, cratère attique à figures rouges de 440 avant notre ère, Met 24.97.30.",
+      "caption_html": "<strong>Exemple d’image antique pour un parcours documentaire.</strong> Orphée devant les Thraces, cratère du Peintre de Londres E 497, vers 440 av. n. è., Met 24.97.30. Photo Marie-Lan Nguyen (2011), <a href=\"https://commons.wikimedia.org/wiki/File:Orpheus_Thracians_Met_24.97.30.jpg\">source</a> · <a href=\"https://creativecommons.org/licenses/by/2.5/\">CC BY 2.5</a>. Pour les variantes de la descente aux Enfers, confronter Platon, Virgile et Ovide ; cette scène figure le chant, non la catabase.",
+      "equivalents": [
+        "https://commons.wikimedia.org/wiki/File:Orpheus_Thracians_Met_24.97.30.jpg"
+      ],
+      "provenance_page": "dossiers/index.html"
+    },
+    {
+      "id": "mythos-epidaure-tholos-reconstitution-defrasse-lechat-1895",
+      "path": "media/2026/10/mythos-epidaure-tholos-reconstitution-defrasse-lechat-1895.jpg",
+      "subjects": [
+        "Épidaure"
+      ],
+      "alt": "Restitution savante dessinée en 1895 de la tholos d’Épidaure par Defrasse et Lechat.",
+      "caption_html": "<strong>Restitution historique, pas document d’époque grecque.</strong> A. Defrasse et H. Lechat, <em>Épidaure</em> (1895), Wellcome Collection L0008305. <a href=\"https://commons.wikimedia.org/wiki/File:Reconstruction_of_the_tholos_(centre)_at_Epidaurus_Wellcome_L0008305.jpg\">Source</a> · CC BY 4.0. Hypothèse architecturale à confronter aux vestiges.",
+      "equivalents": [
+        "https://commons.wikimedia.org/wiki/File:Reconstruction_of_the_tholos_(centre)_at_Epidaurus_Wellcome_L0008305.jpg"
+      ],
+      "provenance_page": "epidaure-asclepios-incubation-iamata-guerisons/index.html"
+    },
+    {
+      "id": "mythos-papyrus-odyssee-ptolemaique-met-09-182-50",
+      "path": "media/2026/10/mythos-papyrus-odyssee-ptolemaique-met-09-182-50.jpg",
+      "subjects": [
+        "Odyssée"
+      ],
+      "alt": "Papyrus grec de l’Odyssée XX, vers 285–250 avant notre ère, témoin matériel avec variantes du texte.",
+      "caption_html": "<strong>Le mot grec et le témoin matériel.</strong> Fragment de l’<em>Odyssée</em> XX, Égypte ptolémaïque, vers 285–250 av. n. è., Met 09.182.50 ; <a href=\"https://www.metmuseum.org/art/collection/search/248134\">notice</a> et <a href=\"https://commons.wikimedia.org/wiki/File:Papyrus_fragment_with_lines_from_Homer%27s_Odyssey_MET_DP137336.jpg\">photographie CC0</a>. La datation de ce papyrus ne date ni l’origine de tous les mots grecs ni la composition de l’<em>Odyssée</em>.",
+      "equivalents": [
+        "https://commons.wikimedia.org/wiki/File:Papyrus_fragment_with_lines_from_Homer%27s_Odyssey_MET_DP137336.jpg"
+      ],
+      "provenance_page": "glossaire/index.html"
+    },
+    {
+      "id": "mythos-bastien-lepage-priam-achille-1876",
+      "path": "media/2026/10/mythos-bastien-lepage-priam-achille-1876.jpg",
+      "subjects": [
+        "Priam",
+        "Achille",
+        "Iliade"
+      ],
+      "alt": "Priam aux pieds d’Achille dans une peinture de Jules Bastien-Lepage, 1876.",
+      "caption_html": "<strong>Réception moderne de l’épopée.</strong> Jules Bastien-Lepage, <em>Priam aux pieds d’Achille</em>, 1876, Palais des Beaux-Arts de Lille, P 635. <a href=\"https://commons.wikimedia.org/wiki/File:Achilles_and_Priam.jpg\">Source Wikimedia Commons</a>, domaine public. L’œuvre interprète <em>Iliade</em> XXIV.",
+      "equivalents": [
+        "https://commons.wikimedia.org/wiki/File:Achilles_and_Priam.jpg"
+      ],
+      "provenance_page": "heros-achille/index.html"
+    },
+    {
+      "id": "mythos-atalante-chasse-calydon-laconian-louvre-e670",
+      "path": "media/2026/10/mythos-atalante-chasse-calydon-laconian-louvre-e670.jpg",
+      "subjects": [
+        "Atalante",
+        "Méléagre",
+        "Calydon"
+      ],
+      "alt": "Scène de chasse d’un sanglier sur une coupe laconienne à figures noires, vers 555 avant notre ère, Louvre E 670.",
+      "caption_html": "<strong>Document antique.</strong> Coupe laconienne attribuée au peintre de Naucratis, vers 555 av. n. è., scène interprétée comme chasse du sanglier de Calydon. Louvre, inv. E 670. Photo Jastrow (2006), <a href=\"https://commons.wikimedia.org/wiki/File:Calydonian_hunt_Louvre_E670.jpg\">domaine public</a>. L’identification individuelle des chasseurs, notamment Atalante, n’est pas garantie par ce seul détail.",
+      "equivalents": [
+        "https://commons.wikimedia.org/wiki/File:Calydonian_hunt_Louvre_E670.jpg"
+      ],
+      "provenance_page": "heros-atalante/index.html"
+    },
+    {
+      "id": "mythos-helene-menelas-stamnos-deepdene-met-41-162-20",
+      "path": "media/2026/10/mythos-helene-menelas-stamnos-deepdene-met-41-162-20.jpg",
+      "subjects": [
+        "Hélène",
+        "Ménélas"
+      ],
+      "alt": "Stamnos à figures rouges du peintre de Deepdene, Ve siècle avant notre ère, avec scènes liées à Achille et au retour d’Hélène auprès de Ménélas.",
+      "caption_html": "<strong>Document antique.</strong> Stamnos attique attribué au peintre de Deepdene, vers 470–460 av. n. è., Metropolitan Museum of Art, 41.162.20a-b. Une face montre un guerrier s’armant (Achille possible), l’autre Ménélas retrouvant Hélène. <a href=\"https://www.metmuseum.org/art/collection/search/254187\">Notice du Met</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Terracotta_stamnos_(jar)_MET_DP325379.jpg\">Reproduction Open Access</a>, domaine public. Ne pas confondre l’objet avec le récit de l’eidôlon d’Euripide.",
+      "equivalents": [
+        "https://commons.wikimedia.org/wiki/File:Terracotta_stamnos_(jar)_MET_DP325379.jpg"
+      ],
+      "provenance_page": "heros-helene/index.html"
+    },
+    {
+      "id": "mythos-van-loo-medee-jason",
+      "path": "media/2026/10/mythos-van-loo-medee-jason.jpg",
+      "subjects": [
+        "Médée",
+        "Jason"
+      ],
+      "alt": "Médée et Jason dans un tableau du XVIIIe siècle de Carle van Loo, conservé au musée des Beaux-Arts de Pau.",
+      "caption_html": "<strong>Réception moderne.</strong> Carle van Loo, <em>Médée et Jason</em>, XVIIIe siècle, musée des Beaux-Arts de Pau, D.872.5.18. Photo : Tylwyth Eldar, 2018. <a href=\"https://commons.wikimedia.org/wiki/File:Carle_Van_Loo_-_M%C3%A9d%C3%A9e_et_Jason.jpg\">Source</a> · <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>.",
+      "equivalents": [
+        "https://commons.wikimedia.org/wiki/File:Carle_Van_Loo_-_M%C3%A9d%C3%A9e_et_Jason.jpg"
+      ],
+      "provenance_page": "heros-jason/index.html"
+    },
+    {
+      "id": "mythos-iliade-achille-ajax-athena-hydrie-met-56-171-29",
+      "path": "media/2026/10/mythos-iliade-achille-ajax-athena-hydrie-met-56-171-29.jpg",
+      "subjects": [
+        "Achille",
+        "Ajax",
+        "Iliade"
+      ],
+      "alt": "Hydrie à figures noires montrant Achille et Ajax jouant avec des pions, en présence d’Athéna, vers 510 av. n. è.",
+      "caption_html": "<strong>Image hors du récit de l’Iliade.</strong> Achille, Ajax et Athéna au jeu, hydrie attique du Groupe de Léagros, vers 510 av. n. è., Metropolitan Museum of Art 56.171.29. <a href=\"https://www.metmuseum.org/art/collection/search/254887\">Notice du musée</a> · <a href=\"https://commons.wikimedia.org/wiki/File:Terracotta_hydria_(water_jar)_MET_DP273724.jpg\">photographie Open Access, CC0</a>. Le motif est populaire sur les vases archaïques mais absent du poème conservé.",
+      "equivalents": [
+        "https://commons.wikimedia.org/wiki/File:Terracotta_hydria_(water_jar)_MET_DP273724.jpg"
+      ],
+      "provenance_page": "iliade/index.html"
+    },
+    {
+      "id": "mythos-isthmia-temple-poseidon-zde-2020",
+      "path": "media/2026/10/mythos-isthmia-temple-poseidon-zde-2020.jpg",
+      "subjects": [
+        "Isthmia",
+        "jeux isthmiques",
+        "Poséidon"
+      ],
+      "alt": "Vestiges du sanctuaire et du temple de Poséidon à Isthmia, photographie de Zde en 2020.",
+      "caption_html": "<strong>Site archéologique.</strong> Temple de Poséidon à Isthmia, restes visibles des états successifs du sanctuaire. Photo Zde (2020), <a href=\"https://commons.wikimedia.org/wiki/File:Temple_of_Poseidon_at_Isthmia,_202726.jpg\">source</a> · <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Il faut distinguer les vestiges des différents temples et les aménagements du Palémonion.",
+      "equivalents": [
+        "https://commons.wikimedia.org/wiki/File:Temple_of_Poseidon_at_Isthmia,_202726.jpg"
+      ],
+      "provenance_page": "isthmia-poseidon-jeux-isthmiques-palemon/index.html"
+    },
+    {
+      "id": "mythos-plan-mycene-deuxieme-enceinte-martin-leveneur",
+      "path": "media/2026/10/mythos-plan-mycene-deuxieme-enceinte-martin-leveneur.png",
+      "subjects": [
+        "Mycènes"
+      ],
+      "alt": "Plan archéologique de la deuxième enceinte de Mycènes vers 1250 avant notre ère, murs conservés ou hypothétiques, cercle des tombes A et Porte des Lionnes.",
+      "caption_html": "<strong>Plan moderne des fortifications.</strong> Deuxième enceinte de Mycènes, vers 1250 av. n. è., distinguant murs conservés et tronçons supposés. Martin Leveneur, 2021, fond sur plan publié par J. G. Frazer. <a href=\"https://commons.wikimedia.org/wiki/File:Mycenae_fortifications_2nd_enceinte.svg\">Plan SVG et légende complète</a> · <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>. Aperçu PNG d’un plan scientifique, non carte antique ni localisation des événements mythiques de l’Orestie.",
+      "equivalents": [
+        "https://commons.wikimedia.org/wiki/File:Mycenae_fortifications_2nd_enceinte.svg"
+      ],
+      "provenance_page": "livre-atrides/index.html"
+    },
+    {
+      "id": "mythos-thebes-cadmee-fouilles-mirjanamimi-2016",
+      "path": "media/2026/10/mythos-thebes-cadmee-fouilles-mirjanamimi-2016.jpg",
+      "subjects": [
+        "Cadmée",
+        "Cadmos",
+        "Thèbes Béotie",
+        "livre-thebes"
+      ],
+      "alt": "Vestiges visibles du secteur archéologique de la Cadmée à Thèbes.",
+      "caption_html": "<strong>Photographie archéologique.</strong> Vestiges de la Cadmée à Thèbes (Béotie), photographie Mirjanamimi, 2016. <a href=\"https://commons.wikimedia.org/wiki/File:Cadmea,_Thebes.jpg\">Original</a> · <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a> (aperçu redimensionné). Le site historique ne démontre pas les épisodes mythiques racontés au sujet de Cadmos.",
+      "equivalents": [
+        "https://commons.wikimedia.org/wiki/File:Cadmea,_Thebes.jpg"
+      ],
+      "provenance_page": "livre-thebes/index.html"
+    },
+    {
+      "id": "mythos-mithras-mosaique-grade-perses-ostie",
+      "path": "media/2026/10/mythos-mithras-mosaique-grade-perses-ostie.jpg",
+      "subjects": [
+        "Mithras",
+        "mithréum",
+        "mithraisme romain"
+      ],
+      "alt": "Mosaïque romaine d’Ostie ornée d’une épée courbe et d’un croissant de lune pour le grade Perses.",
+      "caption_html": "<strong>Document archéologique.</strong> Panneau du cinquième grade, <em>Perses</em>, mithréum de Felicissimus, Ostie. Photo Marie-Lan Nguyen (2006), <a href=\"https://commons.wikimedia.org/wiki/File:5th_panel_Mitreo_di_Felicissimus_Ostia_Antica_2006-09-08.jpg\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.5/\">CC BY 2.5</a>. Photo non retouchée.",
+      "equivalents": [
+        "https://commons.wikimedia.org/wiki/File:5th_panel_Mitreo_di_Felicissimus_Ostia_Antica_2006-09-08.jpg"
+      ],
+      "provenance_page": "mithra-mithras-iran-ancien-mysteres-romains/index.html"
+    },
+    {
+      "id": "mythos-olympie-nike-paionios-jarvis-2005",
+      "path": "media/2026/10/mythos-olympie-nike-paionios-jarvis-2005.jpg",
+      "subjects": [
+        "Olympie",
+        "Paionios"
+      ],
+      "alt": "Statue de Niké par Paionios de Mendè, offrande monumentale au sanctuaire de Zeus à Olympie.",
+      "caption_html": "<strong>Offrande de victoire, non prix d’une compétition sportive.</strong> Niké de Paionios, fin du Ve siècle av. n. è., dédicace des Messéniens et Naupactiens à Zeus à Olympie. Photo Dennis G. Jarvis (2005), <a href=\"https://commons.wikimedia.org/wiki/File:Nike_des_Paionios.jpg\">source</a> · <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\">CC BY-SA 2.0</a>. Monument à dimension politique et cultuelle.",
+      "equivalents": [
+        "https://commons.wikimedia.org/wiki/File:Nike_des_Paionios.jpg"
+      ],
+      "provenance_page": "olympie-zeus-jeux-sanctuaire-etude/index.html"
     }
-  ]
+  ],
+  "enrichment_date": "2026-11-04",
+  "enrichment_source_commit": "8eb71e88276de0275d236a69d3ead16b12b1f6a3"
 }

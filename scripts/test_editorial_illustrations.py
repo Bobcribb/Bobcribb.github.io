@@ -56,7 +56,8 @@ class EditorialIllustrationsTest(unittest.TestCase):
             with self.subTest(title=title):
                 doc, selected = self.render_page('nouveau-chapitre', title)
                 self.assertTrue(selected)
-                self.assertTrue(all(fragment in key for key in selected))
+                allowed_extras = {'mythos-apollon-heracles-tripode-andokides-met-63-11-6'} if title == 'Delphes' else set()
+                self.assertTrue(all(fragment in key or key in allowed_extras for key in selected))
                 for figure in doc.select('aside figure'):
                     self.assertTrue(figure.img['alt'])
                     self.assertTrue(figure.select('figcaption a[href^="https://"]'))
@@ -68,7 +69,28 @@ class EditorialIllustrationsTest(unittest.TestCase):
 
     def test_work_heading_after_collection_heading(self):
         _, selected = self.render_page('volume-150', 'MYTHOS — Tragédies grecques', '<h1>Euripide, Médée</h1><p>Étude intégrale.</p>')
-        self.assertEqual(['mythos-medee-fuite-char-serpents-hydrie-policoro-35296'], selected)
+        self.assertEqual(['mythos-medee-fuite-char-serpents-hydrie-policoro-35296', 'mythos-van-loo-medee-jason'], selected)
+
+    def test_enriched_iliad_has_four_distinct_sourced_documents(self):
+        doc, selected = self.render_page('iliade', 'Iliade')
+        self.assertEqual(4, len(selected))
+        self.assertEqual(4, len(set(selected)))
+        self.assertIn('mythos-papyrus-oxyrhynchus-20-iliade-ii', selected)
+        for figure in doc.select('aside figure'):
+            self.assertEqual(figure.img['src'], figure.select_one('a')['href'])
+            self.assertEqual('lazy', figure.img['loading'])
+            self.assertTrue(figure.select('figcaption a[href^="https://"]'))
+
+    def test_alternate_local_hydria_is_not_repeated(self):
+        body = '<figure><img src="/media/2026/10/mythos-persephone-enlevement-hydrie-apulie-met-07-128-1.jpg"><figcaption>Notice existante</figcaption></figure>'
+        doc, selected = self.render_page('hades', 'Hadès', body)
+        self.assertEqual([], selected)
+        self.assertEqual(1, len(doc.select('img')))
+
+    def test_new_subjects_do_not_use_civilization_fallbacks(self):
+        for title in ('Calendriers de l’Inde', 'Mithra dans l’Iran ancien', 'Thèbes dans l’Égypte ancienne'):
+            _, selected = self.render_page('nouveau-chapitre', title)
+            self.assertEqual([], selected)
 
     def test_missing_local_media_never_triggers_fallback(self):
         with TemporaryDirectory() as tmp:

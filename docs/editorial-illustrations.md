@@ -10,7 +10,7 @@ des collections, les menus, les paragraphes comparatifs et les anciennes
 galeries ne servent pas de critères. Il n'y a plus de rotation par chemin ni
 de collection grecque par défaut.
 
-`scripts/editorial_media.json` référence 56 médias locaux et les notices
+`scripts/editorial_media.json` référence 90 médias locaux et les notices
 documentées déjà présentes dans les articles du dépôt. Chaque entrée conserve
 son texte alternatif, sa légende, ses crédits, les liens de provenance et de
 droits, et la page d'où la notice a été reprise. Le commit d'origine est
@@ -31,7 +31,7 @@ assimilé au Mithra iranien. Une image manquante est omise sans remplacement.
 - Les anciennes galeries générées sont retirées du rendu, y compris celles
   recopiées dans les HTML historiques. Les figures, notes et études rédigées
   à l'intérieur des articles restent intactes.
-- Au maximum deux documents sont ajoutés, sans répéter une image déjà dans
+- Au maximum quatre documents sont ajoutés, sans répéter une image déjà dans
   l'article (y compris ses variantes avec paramètres ou adresses historiques).
 - Les vignettes génériques des 27 tomes ont été retirées du portail des
   Origines du sacré. Une céramique grecque ne doit pas illustrer Hohle Fels,
@@ -46,7 +46,7 @@ python scripts/validate_publication.py
 python scripts/audit_integrity.py
 ```
 
-Treize tests couvrent les deux signalements, les autres collections, les
+Seize tests couvrent les deux signalements, les autres collections, les
 titres Unicode, les limites de mots, la distinction Mithra/Mithras, les
 médias absents, les doublons, les anciens HTML, l'idempotence et la
 conservation des notes ainsi que du menu. Le nouveau graphisme conserve ses
@@ -80,3 +80,28 @@ tests de régression ; aucune planification horaire n'est modifiée.
 Les réconciliations de numérotation et la file éditoriale ajoutées en parallèle
 sont conservées. Cette correction ne change aucun manuscrit ni aucun registre
 de numérotation.
+
+
+## Enrichissement des articles — 4 novembre 2026
+
+À la demande de Boris, le catalogue passe de 56 à 90 documents : 34 notices
+provenant des articles existants, avec leurs crédits et leurs liens de licence.
+Les ajouts concernent notamment Apollon, Arès, Héphaïstos, Héra, Hadès,
+Perséphone, Orphée, Hermès, Asclépios, Médée, Achille, l’Iliade et l’Odyssée,
+les sanctuaires grecs, Persépolis, les cultes domestiques romains et Śiva.
+Aucune illustration générique n’est imposée aux autres sujets.
+
+La sélection ajoute jusqu’à quatre images distinctes par page. L’hydrie
+07.128.1 du Met et le plan de Délos disposent aussi de correspondances avec
+leurs autres noms locaux pour éviter les répétitions du même document.
+Les galeries affichent deux grandes images par ligne sur ordinateur et une
+sur petit écran ; les images ne sont pas recadrées et ouvrent leur fichier
+original au clic. Le chargement différé est conservé.
+
+Comparaison sur le commit source `8eb71e88276de0275d236a69d3ead16b12b1f6a3` :
+90 pages d’articles reçoivent 140 images supplémentaires. Ce sont des
+occurrences supplémentaires dans les articles, pas 140 œuvres nouvelles.
+Les 110 fichiers du fonds documentaire original restent inchangés.
+
+Validation locale : 105 tests du dépôt et 16 tests iconographiques réussis.
+Les manuscrits, leur numérotation et les planifications restent inchangés.

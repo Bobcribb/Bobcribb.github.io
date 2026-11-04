@@ -14,6 +14,7 @@ from bs4 import BeautifulSoup
 
 CATALOG = Path(__file__).with_name("editorial_media.json")
 GENERATED_CLASSES = {"mythos-home-illustrations", "mythos-visual-rail"}
+MAX_ADDED_IMAGES = 4
 
 
 def normalized(value):
@@ -77,7 +78,7 @@ def select_media(path, article, out, records):
             continue
         chosen.append(record)
         present.update(keys)
-        if len(chosen) == 2:
+        if len(chosen) == MAX_ADDED_IMAGES:
             break
     return chosen
 
@@ -106,13 +107,15 @@ def decorate_document(source, path, out, records):
         doc.head.append(doc.new_tag("link", rel="stylesheet", href="/assets/mythos-refonte.css"))
     chosen = select_media(path, article, out, records)
     if chosen:
-        aside = doc.new_tag("aside", attrs={"class": "mythos-home-illustrations", "data-editorial-gallery": "subject-v1", "aria-label": "Documents en rapport avec le sujet"})
+        aside = doc.new_tag("aside", attrs={"class": "mythos-home-illustrations", "data-editorial-gallery": "subject-v2", "aria-label": "Documents en rapport avec le sujet"})
         heading = doc.new_tag("h2")
         heading.string = "Documents iconographiques"
         aside.append(heading)
         for record in chosen:
             figure = doc.new_tag("figure", attrs={"data-media-id": record["id"]})
-            figure.append(doc.new_tag("img", src="/" + record["path"], alt=record["alt"], loading="lazy", decoding="async"))
+            full_size = doc.new_tag("a", href="/" + record["path"], attrs={"aria-label": "Agrandir : " + record["alt"]})
+            full_size.append(doc.new_tag("img", src="/" + record["path"], alt=record["alt"], loading="lazy", decoding="async"))
+            figure.append(full_size)
             caption = doc.new_tag("figcaption")
             for node in list(BeautifulSoup(record["caption_html"], "html.parser").contents):
                 caption.append(node)

@@ -93,6 +93,12 @@ body.mythos-design .origins-volumes{max-width:1344px!important;width:calc(100% -
 .mythos-bottom-gallery figure{margin:0!important;max-width:none!important}
 .mythos-bottom-gallery img{width:100%!important;height:200px!important;object-fit:contain!important;background:#090e10!important;border-radius:0!important}
 .mythos-bottom-gallery figcaption{font:13px/1.45 Georgia,serif!important;margin-top:8px}
+/* Subject-specific documents: larger uncropped images with a full-size link. */
+body.mythos-design .mythos-bottom-gallery[data-editorial-gallery="subject-v2"]{grid-template-columns:repeat(2,minmax(0,1fr))!important;gap:28px}
+body.mythos-design .mythos-bottom-gallery[data-editorial-gallery="subject-v2"] img{height:280px!important;object-fit:contain!important}
+.mythos-bottom-gallery[data-editorial-gallery="subject-v2"] figure>a{display:block}
+.mythos-bottom-gallery[data-editorial-gallery="subject-v2"] figure>a:focus-visible{outline:2px solid #c9a86b;outline-offset:4px}
+@media(max-width:520px){body.mythos-design .mythos-bottom-gallery[data-editorial-gallery="subject-v2"]{grid-template-columns:minmax(0,1fr)!important}body.mythos-design .mythos-bottom-gallery[data-editorial-gallery="subject-v2"] img{height:auto!important;max-height:420px}}
 .mythos-design .museum-gallery{grid-template-columns:repeat(6,minmax(0,1fr))!important;gap:16px!important}
 .mythos-design .museum-gallery img{height:155px!important;object-fit:cover!important;border-radius:0!important}
 .mythos-design .museum-gallery figcaption{font-family:Georgia,serif!important}
