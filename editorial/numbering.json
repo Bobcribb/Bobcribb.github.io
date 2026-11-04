@@ -2167,6 +2167,12 @@
           "path": "chapitres/comparatif/volume-ccxxxviii-mc-058-quand-les-dieux-meurent-mort-divine-survivance-restauration-retours-contestes.md",
           "request_sha256": "a12070d079fcd7c71e509e2bec17e263cd907af1777ae2be934a3935994867ac",
           "initial_source_sha256": "bc9bfd77043aa9c0f665dc81d50e6cd5a222476681963c01bc5b01d5eaf4ef59"
+        },
+        "ab0c59e3-9a59-4d59-a659-300059000059": {
+          "number": 239,
+          "path": "chapitres/comparatif/volume-ccxxxix-mc-059-quand-les-dieux-naissent-theogonies-filiation-autogenese-souverainete.md",
+          "request_sha256": "056989621e0c79502eda7501b1bb05e4c9587d88abec98d6edaab2237218bdfb",
+          "initial_source_sha256": "dfed2107ce0a1db6c2ac1db4e88ce439b7f06aa780d7f226f2fe3066eceadd9f"
         }
       }
     }
