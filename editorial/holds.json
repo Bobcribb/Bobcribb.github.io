@@ -8,6 +8,10 @@
     "39c4d20b-b0af-4f47-8e53-fd0b142fa86a": {
       "request_sha256": "973350ca71283bf69464f8f43ca09323ef422a2b0a41b929e9a0a09173c615b4",
       "reason": "Collision éditoriale : même comédie antique Apollophanès, Danaé, déjà soumise sous 4dd2a93f-8407-4ad6-9ee7-ff50448ae932. Conserver intacte cette seconde monographie de 46 841 caractères dans inbox, ne pas lui attribuer de numéro distinct avant rapprochement philologique avec la demande principale et archivage intégral comme complément critique. Aucun fragment de la Danaé d’Apollophanès n’est conservé ; ne pas confondre avec les Danaé tragiques ou les comédies homonymes d’autres auteurs."
+    },
+    "a72fc71d-6b8a-4d3c-9fd2-47c901eaa623": {
+      "request_sha256": "00df5ccd44f2ea49817144772516f92a0a347fbda48f45e1435fa690a623cc83",
+      "reason": "Collision éditoriale de deux manuscrits intégraux pour la même tragédie perdue Sophocle, Tyro reconnue. Première demande canonique plus ancienne : 9d9c39cb-0df4-41e9-9095-0fbad49b1981 (commit 26644d3 à 11:27:40 UTC, 65 516 caractères). Seconde demande : a72fc71d-6b8a-4d3c-9fd2-47c901eaa623 (commit 1cc3337 à 11:27:55 UTC, 50 582 caractères). Conserver intégralement ce second texte dans inbox, sans l'attribuer comme volume indépendant; envisager son rapprochement critique et son archivage en complément à numéro constant après attribution canonique. Cette garde explicite évite la duplication d'une œuvre antique et ne modifie aucun numéro ni reçu."
     }
   }
 }
