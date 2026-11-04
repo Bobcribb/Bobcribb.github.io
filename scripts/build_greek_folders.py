@@ -356,6 +356,17 @@ def build(out, groups, sections, books, root=None):
     out = Path(out)
     rows = inventory(groups, sections, books)
     artworks = folder_artworks(root, out, {r["folder"] for r in rows})
+    # A single ordered source of truth for the headings, jump anchors and
+    # reciprocal links: a reader returns to its exact thematic subsection,
+    # not just to the top of a potentially very long family catalogue.
+    subsets_by_folder = {slug: defaultdict(list) for slug, _, _ in FOLDERS}
+    for row in rows:
+        subsets_by_folder[row['folder']][row['section']].append(row)
+    subsection_urls = {
+        (folder, section): BASE + folder + '/#theme-' + str(index)
+        for folder, subsets in subsets_by_folder.items()
+        for index, section in enumerate(subsets, 1)
+    }
     def render(title, body, description=''):
         return shell(title, body, description).replace('</head>', '<style id="greek-folder-style">'+CSS+'</style></head>')
     (out / BASE.strip('/')).mkdir(parents=True, exist_ok=True)
@@ -375,18 +386,19 @@ def build(out, groups, sections, books, root=None):
         for old in doc.select('[data-greek-folder-nav]'):
             old.decompose()
         folder = row['folder']
+        subsection_url = subsection_urls[(folder, row['section'])]
         nav = BeautifulSoup('<nav class="greek-folder-breadcrumb" data-greek-folder-nav="true" aria-label="Dossier de cette étude">'
                             '<a href="/mythologie-grecque/">Encyclopédie grecque</a> · <a href="'+BASE+folder+'/">'
-                            +escape(FOLDER_TITLES[folder])+'</a></nav>', 'html.parser').nav
+                            +escape(FOLDER_TITLES[folder])+'</a> · <a class="greek-folder-return-topic" href="'
+                            +escape(subsection_url, quote=True)+'">Sous-dossier : '
+                            +escape(row['section'])+'</a></nav>', 'html.parser').nav
         main.insert(0, nav)
         page.write_text(str(doc), encoding='utf-8')
     for slug, title, description in FOLDERS:
         members = [r for r in rows if r['folder'] == slug]
         if not members:
             continue
-        subsets = defaultdict(list)
-        for row in members:
-            subsets[row['section']].append(row)
+        subsets = subsets_by_folder[slug]
         body = '<nav aria-label="Fil d’Ariane"><a href="/mythologie-grecque/">Encyclopédie grecque</a> · <a href="'+BASE+'">Tous les dossiers</a></nav>'
         body += '<h1>'+escape(title)+'</h1><p class="portal-lead">'+escape(description)+'</p><p>'+escape(counts(members))+'.</p>'
         body += '<p>Choisissez un sous-dossier. Les liens ouvrent les textes complets ou la section exacte du livre indiqué.</p>'
@@ -482,6 +494,10 @@ CSS = '''
 .greek-folder-links a{display:block;color:#f0dfc0;overflow-wrap:anywhere;line-height:1.5}
 .greek-folder-links small{display:block;color:#bfb39a;font:.78rem/1.5 system-ui;margin-top:.3rem}
 .greek-folder-breadcrumb{margin:0 0 1.4rem;padding:.8rem 0;color:#dec18d;font-size:.9rem;line-height:1.7;overflow-wrap:anywhere}
+.greek-folder-breadcrumb .greek-folder-return-topic{color:#f0d29a;text-decoration:underline;text-underline-offset:3px}
+.greek-folder-breadcrumb a:focus-visible{outline:3px solid #f8dc9c;outline-offset:3px}
+.greek-folder-toc~.portal-section[id^="theme-"]{scroll-margin-top:115px}
+.greek-folder-toc~.portal-section[id^="theme-"]:target{outline:2px solid #dab981;outline-offset:4px}
 .greek-complete-catalogue{margin:2.5rem 0;border-top:1px solid #8b724d;padding-top:1.2rem}
 .greek-complete-catalogue>summary{font:1.35rem Georgia,serif;color:#e9cd9a;cursor:pointer;padding:.8rem}
 .greek-folder-toc a:focus-visible,.greek-folder-links a:focus-visible,.greek-complete-catalogue>summary:focus-visible{outline:3px solid #f8dc9c;outline-offset:4px}
