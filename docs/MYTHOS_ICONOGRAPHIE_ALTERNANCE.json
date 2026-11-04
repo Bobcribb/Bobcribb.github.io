@@ -5,42 +5,35 @@
   "branch": "main",
   "latest_session": {
     "date": "2026-11-04",
-    "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "previous_kind": "AUDIT ET CORRECTION",
-    "next_kind": "AUDIT ET CORRECTION",
-    "scope": "Ajout de trois schémas originaux 2D dans les chapitres réellement présents des études philosophiques de l'Iliade (VI), de l'Odyssée (XII) et de la Théogonie (233–264), sans créer de chapitre numéroté.",
-    "checked_html_pages": 3,
-    "source_illustrations_added": 3,
-    "html_figures_added": 3,
-    "monograph_image_counts_before": {
-      "Iliade": 17,
-      "Odyssée": 16,
-      "Théogonie": 19
-    },
-    "monograph_image_counts_after": {
-      "Iliade": 18,
-      "Odyssée": 17,
-      "Théogonie": 20
-    },
-    "new_assets": [
+    "kind": "AUDIT ET CORRECTION",
+    "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "scope": "Audit ciblé de 15 pages réelles et du dernier lot de trois SVG des monographies (Iliade VI, Odyssée XII, Théogonie 233–264), du registre d’alternance et des workflows GitHub.",
+    "audit_basis_commit": "33e8d0145a8a3a96b63e55293cb9f658f13f5668",
+    "checked_html_pages": 15,
+    "checked_internal_anchors": 440,
+    "checked_img_elements": 85,
+    "checked_links_and_resources_total": 5093,
+    "checked_external_urls_by_http": 0,
+    "checked_stylesheet_elements": 62,
+    "checked_script_elements": 40,
+    "broken_internal_anchors_detected": 0,
+    "duplicate_html_ids_detected": 0,
+    "img_without_alt_detected": 0,
+    "missing_local_image_css_js_or_page_paths_detected": 0,
+    "checked_svg_assets": [
       "assets/philosophie/iliade-glaucos-diomede-hospitalite-20261104.svg",
       "assets/philosophie/odyssee-scylla-thrinacie-commandement-20261104.svg",
       "assets/philosophie/theogonie-pontos-neree-genealogie-20261104.svg"
     ],
-    "modified_pages": [
-      "philosophie-iliade.html",
-      "philosophie-odyssee.html",
-      "philosophie-theogonie.html"
-    ],
-    "primary_references": [
-      "Homère, Iliade VI, 119–236, https://www.theoi.com/Text/HomerIliad6.html",
-      "Homère, Odyssée XII, 105–126 et 201–425, https://www.theoi.com/Text/HomerOdyssey12.html",
-      "Hésiode, Théogonie 233–264, https://chs.harvard.edu/primary-source/hesiod-theogony-sb/"
-    ],
-    "validation": "Avant commit : cible d'insertion unique, ids sans doublon, ancres locales existantes, 3 nouvelles images avec alt, SVG accessibles dans les nouveaux blobs, HTML ancien préservé hors insertion. À relire après commit. Les 52 images préexistantes ne sont pas supprimées.",
-    "content_preserved": "Textes, structure de navigation, numérotation, registres d'attribution et planifications inchangés. Ajout de trois figures dans les études existantes, trois SVG originaux et mise à jour du registre d'alternance.",
-    "publication_status": "GitHub source pending; la publication publique reste à vérifier sur bobmythos.fr après le commit.",
-    "obstacles": "Contrôle de pagination A4 et de rendu multi-écrans non effectué pendant cette séance. Aucun artefact n'est reproduit, donc aucune attribution archéologique à inventer.",
+    "svg_assessment": "Trois SVG présents dans main avec viewBox, title, desc, rôle image et provenance non archéologique. Les images des monographies possèdent des attributs alt et des références antiques. Vérification structurelle textuelle, non une validation XML indépendante.",
+    "responsive_assessment": "Règles @media trouvées dans les CSS de l'édition et de l'iconographie ; viewport présent dans les 15 pages. Pas de rendu mobile réel.",
+    "verified_errors_corrected": 1,
+    "correction": "Réconciliation de l’alternance : la dernière séance iconographique figurait dans latest_session mais pas en fin de history. Son entrée a été ajoutée chronologiquement avant ce nouvel audit ; aucun document scientifique ou numéro changé.",
+    "ci_evidence": "Le run 41788805147 a échoué durant editorial_queue.py apply sur un fichier direct non attribué comedies/volume-066. Une intervention concurrente l’a ensuite inscrit sous legacy 66 (vérifié dans editorial/numbering.json) au lieu de passer par inbox. La garde de numérotation interdit de modifier manuellement le registre ; aucun contournement ni suppression ici. Les workflows récents sont en cours.",
+    "public_deployment_status": "NON CONFIRMÉ : impossible de récupérer indépendamment bobmythos.fr et catalog/publication-verification.json avec les accès de cette séance. Présence sur main ne vaut pas publication publique.",
+    "content_preserved": "Aucun changement aux textes, 15 HTML, 3 SVG, navigation, numérotation ou planifications. Seul le registre d’alternance est corrigé puis mis à jour.",
+    "obstacles": "Pas de vérification publique HTTPS, revue multi-écrans, export A4 ou contrôle HTTP des 314 URL externes. L’inclusion directe en legacy du volume 66 demande un audit éditorial sans contournement. Ne pas confondre ancienne CI échouée et état des workflows récents.",
     "commits": []
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
@@ -293,6 +286,81 @@
         "849c1a0bf95676209949577a958ec135d6855e18",
         "e3e71462616b6876214982c23b879a53447b32a8"
       ]
+    },
+    {
+      "date": "2026-11-04",
+      "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "previous_kind": "AUDIT ET CORRECTION",
+      "next_kind": "AUDIT ET CORRECTION",
+      "scope": "Ajout de trois schémas originaux 2D dans les chapitres réellement présents des études philosophiques de l'Iliade (VI), de l'Odyssée (XII) et de la Théogonie (233–264), sans créer de chapitre numéroté.",
+      "checked_html_pages": 3,
+      "source_illustrations_added": 3,
+      "html_figures_added": 3,
+      "monograph_image_counts_before": {
+        "Iliade": 17,
+        "Odyssée": 16,
+        "Théogonie": 19
+      },
+      "monograph_image_counts_after": {
+        "Iliade": 18,
+        "Odyssée": 17,
+        "Théogonie": 20
+      },
+      "new_assets": [
+        "assets/philosophie/iliade-glaucos-diomede-hospitalite-20261104.svg",
+        "assets/philosophie/odyssee-scylla-thrinacie-commandement-20261104.svg",
+        "assets/philosophie/theogonie-pontos-neree-genealogie-20261104.svg"
+      ],
+      "modified_pages": [
+        "philosophie-iliade.html",
+        "philosophie-odyssee.html",
+        "philosophie-theogonie.html"
+      ],
+      "primary_references": [
+        "Homère, Iliade VI, 119–236, https://www.theoi.com/Text/HomerIliad6.html",
+        "Homère, Odyssée XII, 105–126 et 201–425, https://www.theoi.com/Text/HomerOdyssey12.html",
+        "Hésiode, Théogonie 233–264, https://chs.harvard.edu/primary-source/hesiod-theogony-sb/"
+      ],
+      "validation": "Avant commit : cible d'insertion unique, ids sans doublon, ancres locales existantes, 3 nouvelles images avec alt, SVG accessibles dans les nouveaux blobs, HTML ancien préservé hors insertion. À relire après commit. Les 52 images préexistantes ne sont pas supprimées.",
+      "content_preserved": "Textes, structure de navigation, numérotation, registres d'attribution et planifications inchangés. Ajout de trois figures dans les études existantes, trois SVG originaux et mise à jour du registre d'alternance.",
+      "publication_status": "GitHub source pending; la publication publique reste à vérifier sur bobmythos.fr après le commit.",
+      "obstacles": "Contrôle de pagination A4 et de rendu multi-écrans non effectué pendant cette séance. Aucun artefact n'est reproduit, donc aucune attribution archéologique à inventer.",
+      "commits": [
+        "ad921ae64c9586d38ac1da407aa990ff6415feab"
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "kind": "AUDIT ET CORRECTION",
+      "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "scope": "Audit ciblé de 15 pages réelles et du dernier lot de trois SVG des monographies (Iliade VI, Odyssée XII, Théogonie 233–264), du registre d’alternance et des workflows GitHub.",
+      "audit_basis_commit": "33e8d0145a8a3a96b63e55293cb9f658f13f5668",
+      "checked_html_pages": 15,
+      "checked_internal_anchors": 440,
+      "checked_img_elements": 85,
+      "checked_links_and_resources_total": 5093,
+      "checked_external_urls_by_http": 0,
+      "checked_stylesheet_elements": 62,
+      "checked_script_elements": 40,
+      "broken_internal_anchors_detected": 0,
+      "duplicate_html_ids_detected": 0,
+      "img_without_alt_detected": 0,
+      "missing_local_image_css_js_or_page_paths_detected": 0,
+      "checked_svg_assets": [
+        "assets/philosophie/iliade-glaucos-diomede-hospitalite-20261104.svg",
+        "assets/philosophie/odyssee-scylla-thrinacie-commandement-20261104.svg",
+        "assets/philosophie/theogonie-pontos-neree-genealogie-20261104.svg"
+      ],
+      "svg_assessment": "Trois SVG présents dans main avec viewBox, title, desc, rôle image et provenance non archéologique. Les images des monographies possèdent des attributs alt et des références antiques. Vérification structurelle textuelle, non une validation XML indépendante.",
+      "responsive_assessment": "Règles @media trouvées dans les CSS de l'édition et de l'iconographie ; viewport présent dans les 15 pages. Pas de rendu mobile réel.",
+      "verified_errors_corrected": 1,
+      "correction": "Réconciliation de l’alternance : la dernière séance iconographique figurait dans latest_session mais pas en fin de history. Son entrée a été ajoutée chronologiquement avant ce nouvel audit ; aucun document scientifique ou numéro changé.",
+      "ci_evidence": "Le run 41788805147 a échoué durant editorial_queue.py apply sur un fichier direct non attribué comedies/volume-066. Une intervention concurrente l’a ensuite inscrit sous legacy 66 (vérifié dans editorial/numbering.json) au lieu de passer par inbox. La garde de numérotation interdit de modifier manuellement le registre ; aucun contournement ni suppression ici. Les workflows récents sont en cours.",
+      "public_deployment_status": "NON CONFIRMÉ : impossible de récupérer indépendamment bobmythos.fr et catalog/publication-verification.json avec les accès de cette séance. Présence sur main ne vaut pas publication publique.",
+      "content_preserved": "Aucun changement aux textes, 15 HTML, 3 SVG, navigation, numérotation ou planifications. Seul le registre d’alternance est corrigé puis mis à jour.",
+      "obstacles": "Pas de vérification publique HTTPS, revue multi-écrans, export A4 ou contrôle HTTP des 314 URL externes. L’inclusion directe en legacy du volume 66 demande un audit éditorial sans contournement. Ne pas confondre ancienne CI échouée et état des workflows récents.",
+      "commits": []
     }
   ]
 }
