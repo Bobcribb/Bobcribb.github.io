@@ -87,5 +87,24 @@ class MuseumNavigationTests(unittest.TestCase):
                     self.assertIn('Sources conservées.', doc.get_text(' ', strip=True))
 
 
+    def test_gallery_card_is_present_in_home_collections(self):
+        # Verrouiller l'entrée illustrée du portail, et non seulement le menu.
+        home = BeautifulSoup((ROOT / 'index.html').read_text(encoding='utf-8'), 'html.parser')
+        cards = home.select(
+            '#home-collections a.portal-card[href="/reconstitutions-photorealistes.html"]'
+        )
+        self.assertEqual(len(cards), 1, 'Carte de galerie 3D absente ou dupliquée')
+        card = cards[0]
+        self.assertEqual(card.select_one('strong').get_text(' ', strip=True),
+                         'Reconstitutions 3D')
+        image = card.select_one('img.mythos-card-image')
+        self.assertIsNotNone(image, 'Carte 3D non illustrée')
+        self.assertEqual(image.get('src'),
+                         '/assets/reconstitutions-3d/delphes-apollon-panorama.webp')
+        self.assertTrue((ROOT / image['src'].lstrip('/')).is_file(),
+                        'Image 3D référencée mais absente du dépôt')
+        self.assertIn('degrés de certitude', card.get_text(' ', strip=True))
+
+
 if __name__ == '__main__':
     unittest.main()
