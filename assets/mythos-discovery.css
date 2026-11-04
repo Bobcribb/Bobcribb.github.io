@@ -30,6 +30,15 @@
 .mythos-reading-toc summary{text-align:center;cursor:pointer;color:#f0dfbf;font:600 1rem/1.5 system-ui;min-height:36px}
 .mythos-reading-toc ol{text-align:left;padding-left:1.5rem;columns:1!important}
 .mythos-reading-toc li{margin:.4rem 0;line-height:1.6;overflow-wrap:anywhere}
+/* Longues monographies (dont les 52 sections de Dionysos Aisymnètès) :
+   navigation documentaire accessible au clavier et aux petits écrans. */
+.mythos-design .mythos-reading-toc>summary{display:flex;align-items:center;justify-content:center;min-height:44px;padding:.4rem .25rem}
+.mythos-design .mythos-reading-toc[open]>ol{max-height:min(60vh,630px);overflow-y:auto;overscroll-behavior:contain;scrollbar-color:#b49969 #141c1c;margin:.7rem 0 0;padding:.3rem .8rem .3rem 1.5rem}
+.mythos-design .mythos-reading-toc li{margin:0;break-inside:avoid}
+.mythos-design .mythos-reading-toc li>a{display:flex;align-items:center;min-height:44px;padding:.4rem .3rem;color:#f0d7a8;text-decoration:none;border-bottom:1px solid #4b4030;overflow-wrap:anywhere}
+.mythos-design .mythos-reading-toc li>a:hover{background:#202b2a;text-decoration:underline}
+.mythos-design .mythos-reading-toc li>a:focus-visible{outline:3px solid #f2d9a5;outline-offset:-3px}
+@media(max-width:700px){.mythos-design .mythos-reading-toc{margin-inline:0;padding:.75rem .6rem}.mythos-design .mythos-reading-toc[open]>ol{max-height:55vh;padding-right:.35rem}}
 .epic-links,.reader-bottom{margin:1rem 0;padding:1rem 0;border-block:1px solid #67583d;line-height:1.9}
 .mythos-design [data-mythos-reader] :is(p,li,dd,blockquote){font-size:calc(1.06rem * var(--reading-scale,1))!important;line-height:1.85!important}
 .mythos-design [data-mythos-reader] :is(.mythos-reader,.mythos-reading-toc) :is(p,li){font-size:.95rem!important}
