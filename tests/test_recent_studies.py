@@ -119,8 +119,8 @@ class RecentStudyTests(unittest.TestCase):
                 'Agathos Daimôn')
             source.write_text(
                 '# Chapitre 409 — Agathos Daimôn : le Bon Génie, '
-                'le serpent protecteur et Alexandrie\\n'
-                '## 1. Sources et méthode\\n\\n' + ('Étude documentée. ' * 150),
+                'le serpent protecteur et Alexandrie\n'
+                '## 1. Sources et méthode\n\n' + ('Étude documentée. ' * 150),
                 encoding='utf-8')
             registry_file = root / 'editorial/numbering.json'
             registry = json.loads(registry_file.read_text(encoding='utf-8'))
