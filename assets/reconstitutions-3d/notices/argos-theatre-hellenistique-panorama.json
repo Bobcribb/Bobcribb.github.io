@@ -1,0 +1,41 @@
+{
+  "id": "ARG-TH-001",
+  "slug": "argos-theatre-hellenistique-panorama",
+  "title": "Argos — grand théâtre hellénistique sur le flanc du mont Larissa",
+  "period": "Évocation vers 250 av. J.-C. (première moitié du IIIe siècle av. J.-C.)",
+  "image": "/assets/reconstitutions-3d/argos-theatre-hellenistique-panorama.webp",
+  "caption": "Vue panoramique photoréaliste interprétative du théâtre d’Argos taillé dans la pente de la Larissa, avec vaste koilon, orchestra circulaire et édifice de scène de tradition grecque.",
+  "commentary": "Le théâtre d’Argos, installé sur le versant sud-est de la colline de la Larissa à proximité de l’Agora, fut aménagé au début du IIIe siècle av. J.-C. ; il remplaça un théâtre plus ancien situé plus au sud. L’Ephorie des antiquités d’Argolide indique une capacité proche de 20 000 spectateurs. Le koilon (ensemble des gradins) est largement creusé dans la roche ; les gradins sont séparés par deux diazomata en trois grandes zones. L’orchestra primitive, approximativement circulaire, mesurait environ 26 mètres de diamètre et était partiellement taillée dans le rocher ; le proskènion hellénistique se distinguait de la scène monumentale d’époque impériale. Les Néméennes et les Héraia se tinrent à Argos après leur déplacement depuis Némée et le théâtre accueillit également des réunions civiques. L’image présente une évocation vers 250 av. J.-C. et exclut volontairement la façade de scène romaine monumentale, les niches corinthiennes, l’arène aménagée pour les spectacles d’animaux et la transformation tardive de l’orchestra en bassin. Néanmoins, le dessin précis des gradins, leur nombre visuel, la position et l’élévation du bâtiment de scène, les accès, les murs d’extrémité, le revêtement de l’orchestra, la végétation, la fortification dominante et l’aspect de la cité à l’arrière-plan restent interprétatifs ; les proportions et distances apparentes ne sont pas vérifiées par relevé métrique. Le nombre de rangées indiqué par les sources modernes varie selon les modes de décompte (82, 83, 89) ; le présent visuel ne prétend pas trancher. La position dominante de la fortification sur la colline et les bâtiments visibles à l’horizon ne doivent pas être considérés comme un état synchronique attesté. Les institutions citées documentent le monument et ne cautionnent pas cette image numérique.",
+  "certainty": {
+    "high": "Emplacement sur le versant sud-est de la Larissa à Argos ; gradins creusés en grande partie dans le rocher ; cavea monumentale, orchestra originellement circulaire et construction à l’époque hellénistique.",
+    "medium": "Composition générale du koilon avec paliers et escaliers radiaux ; ordonnance générale de l’édifice de scène et capacité proche de 20 000 places.",
+    "low": "Décompte et dessin précis des gradins, profil des parements, reconstitution du bâtiment de scène, revêtement de l’orchestra, murs d’accès, végétation, fortifications et paysage urbain, couleurs et synchronie du panorama."
+  },
+  "sources": [
+    {
+      "label": "Éphorie des antiquités d’Argolide — théâtre antique d’Argos",
+      "url": "https://www.argolisculture.gr/en/list-of-monuments/ancient-theatre-argos/"
+    },
+    {
+      "label": "Éphorie des antiquités d’Argolide — présentation en français",
+      "url": "https://www.argolisculture.gr/fr/liste-de-monuments/le-theatre-argos/"
+    },
+    {
+      "label": "École française d’Athènes — programme d’étude du théâtre d’Argos",
+      "url": "https://www.efa.gr/theatre-argos/"
+    },
+    {
+      "label": "UNESCO — théâtres antiques grecs, liste indicative",
+      "url": "https://whc.unesco.org/en/tentativelists/5869"
+    }
+  ],
+  "rights_and_method": "Création numérique photoréaliste originale assistée par IA ; ni image d’archives ni rendu photogrammétrique. Aucun menu, texte ou interface intégré dans le visuel. Pas de validation institutionnelle du rendu.",
+  "scientific_method": "Confrontation des sources archéologiques ; distinguer état hellénistique et remaniements romains. Les détails non documentés sont explicitement qualifiés de conjecturaux.",
+  "publication_status": "added_to_github_repository__public_domain_check_required",
+  "sha256": "35cf9c286f23aa6761dcedaf89115e80aa8721211dff95835891ea8e1633d852",
+  "width": 1672,
+  "height": 941,
+  "file_size_bytes": 499816,
+  "created_at": "2026-11-04",
+  "source_accessed": "2026-11-04"
+}
