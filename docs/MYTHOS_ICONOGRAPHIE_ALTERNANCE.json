@@ -24,7 +24,7 @@
     "correction": "Étendre RECENT_FIGURES à 11 images sur 5 pages en préservant les 8 entrées existantes. Le contrôle vérifie l'unicité de chaque figure, légende, crédit, statut IA, alt, chemin, signature réelle WebP et SHA-256 identique au fichier du build. Correctif post-CI : le regroupement des 11 documents comprend 6 pages (la Théogonie est une page distincte), soit 17 résultats page/image, et non 5 pages/16 résultats.",
     "tests": "Adapter les mocks JPEG/WebP et les compteurs de vérification à 11 médias / 5 pages ; ajouter les régressions de page Ottley périmée, WebP altéré et faux WebP. Contrôles statiques précommit effectués ; suite Python complète à vérifier sur GitHub Actions. Après le run CI 41821559845, 135 des 136 tests étaient réussis ; un unique échec sur l'assertion de 5 pages au lieu de 6. Corrigé par une seconde modification ciblée du test et du registre, sans toucher au vérificateur ni aux sources.",
     "public_observation": "Consultation HTTPS de /catalog/publication-verification.json et des trois pages : reçu source_commit=8cb0a3619b4b5ff7ffe8579c0b1cb73927bbabdc (1289 documents indexés), antérieur à e2aa8a5a... ; les 3 nouveaux IDs absents du HTML déployé. Aucun déploiement de ce lot confirmé.",
-    "ci_state": "Multiples exécutions GitHub Actions de publication annulées lors de commits concurrents. Dernière exécution 41821060626 en attente au contrôle initial; ne pas confondre build GitHub et déploiement public.",
+    "ci_state": "Les 136 tests unitaires du run 41821854807 ont réussi ; le générateur s'est arrêté sur MC-040 avant écriture. Après le hold, CI à relire sans présumer du succès.",
     "preservation": "Aucun manuscrit, chapitre, numéro, navigation, image ou ressource modifié. AGENTS.md et docs/PUBLICATION_CONCURRENTE.md relus; workflows et automatisations horaires conservés.",
     "limitations": "Inspection ciblée de 3 pages; pas de re-rendu responsive ou A4, ni contrôle HTTP exhaustif des notices externes. La disponibilité des images publiques et leurs hashes reste à attester lors du prochain déploiement.",
     "commits": [],
@@ -35,7 +35,11 @@
     "page_and_asset_verification_results_count": 17,
     "correction_commits": [
       "c1ae307428413f867c710273dc424c18d41e2551"
-    ]
+    ],
+    "additional_ci_blocker": "Run 41821854807 : 136 tests unitaires OK après correctif du comptage ; échec à scripts/editorial_queue.py apply pour collision historique non réconciliée MC-040 entre deux demandes distinctes non attribuées. Anomalie indépendante de l'iconographie.",
+    "additional_audit": "Contrôle de la file : premières sources MC-040 d3b2ac71-0b94-4ca7-8d0c-5228719cb30e (60 133 caractères) et 413651cd-856b-4dcf-b142-1aaf1045c5e2 (74 248 caractères), toutes deux dans comparatif ; aucun reçu d'attribution. Les deux textes appartiennent au même champ scientifique (repas divins, tables d'offrandes, part sacrificielle), sans être des fichiers identiques.",
+    "additional_correction": "Ajout d'une attente immuable, verrouillée par SHA-256, pour la seconde demande UUID 413651cd-856b-4dcf-b142-1aaf1045c5e2 dans editorial/holds.json. Le texte, le slug, le premier manuscrit et les allocations restent inchangés. Rapprochement philologique encore nécessaire avant une éventuelle levée de l'attente.",
+    "additional_preservation": "Aucune suppression, aucun renommage, aucune réattribution, aucun changement de registre de numérotation, de menus ou de fréquence. La seconde étude ne peut pas être considérée comme publiée."
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
   "history": [
@@ -1040,7 +1044,7 @@
       "correction": "Étendre RECENT_FIGURES à 11 images sur 5 pages en préservant les 8 entrées existantes. Le contrôle vérifie l'unicité de chaque figure, légende, crédit, statut IA, alt, chemin, signature réelle WebP et SHA-256 identique au fichier du build. Correctif post-CI : le regroupement des 11 documents comprend 6 pages (la Théogonie est une page distincte), soit 17 résultats page/image, et non 5 pages/16 résultats.",
       "tests": "Adapter les mocks JPEG/WebP et les compteurs de vérification à 11 médias / 5 pages ; ajouter les régressions de page Ottley périmée, WebP altéré et faux WebP. Contrôles statiques précommit effectués ; suite Python complète à vérifier sur GitHub Actions. Après le run CI 41821559845, 135 des 136 tests étaient réussis ; un unique échec sur l'assertion de 5 pages au lieu de 6. Corrigé par une seconde modification ciblée du test et du registre, sans toucher au vérificateur ni aux sources.",
       "public_observation": "Consultation HTTPS de /catalog/publication-verification.json et des trois pages : reçu source_commit=8cb0a3619b4b5ff7ffe8579c0b1cb73927bbabdc (1289 documents indexés), antérieur à e2aa8a5a... ; les 3 nouveaux IDs absents du HTML déployé. Aucun déploiement de ce lot confirmé.",
-      "ci_state": "Multiples exécutions GitHub Actions de publication annulées lors de commits concurrents. Dernière exécution 41821060626 en attente au contrôle initial; ne pas confondre build GitHub et déploiement public.",
+      "ci_state": "Les 136 tests unitaires du run 41821854807 ont réussi ; le générateur s'est arrêté sur MC-040 avant écriture. Après le hold, CI à relire sans présumer du succès.",
       "preservation": "Aucun manuscrit, chapitre, numéro, navigation, image ou ressource modifié. AGENTS.md et docs/PUBLICATION_CONCURRENTE.md relus; workflows et automatisations horaires conservés.",
       "limitations": "Inspection ciblée de 3 pages; pas de re-rendu responsive ou A4, ni contrôle HTTP exhaustif des notices externes. La disponibilité des images publiques et leurs hashes reste à attester lors du prochain déploiement.",
       "commits": [],
@@ -1051,7 +1055,11 @@
       "page_and_asset_verification_results_count": 17,
       "correction_commits": [
         "c1ae307428413f867c710273dc424c18d41e2551"
-      ]
+      ],
+      "additional_ci_blocker": "Run 41821854807 : 136 tests unitaires OK après correctif du comptage ; échec à scripts/editorial_queue.py apply pour collision historique non réconciliée MC-040 entre deux demandes distinctes non attribuées. Anomalie indépendante de l'iconographie.",
+      "additional_audit": "Contrôle de la file : premières sources MC-040 d3b2ac71-0b94-4ca7-8d0c-5228719cb30e (60 133 caractères) et 413651cd-856b-4dcf-b142-1aaf1045c5e2 (74 248 caractères), toutes deux dans comparatif ; aucun reçu d'attribution. Les deux textes appartiennent au même champ scientifique (repas divins, tables d'offrandes, part sacrificielle), sans être des fichiers identiques.",
+      "additional_correction": "Ajout d'une attente immuable, verrouillée par SHA-256, pour la seconde demande UUID 413651cd-856b-4dcf-b142-1aaf1045c5e2 dans editorial/holds.json. Le texte, le slug, le premier manuscrit et les allocations restent inchangés. Rapprochement philologique encore nécessaire avant une éventuelle levée de l'attente.",
+      "additional_preservation": "Aucune suppression, aucun renommage, aucune réattribution, aucun changement de registre de numérotation, de menus ou de fréquence. La seconde étude ne peut pas être considérée comme publiée."
     }
   ]
 }
