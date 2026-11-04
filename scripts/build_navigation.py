@@ -439,7 +439,7 @@ def create_origins(entries):
       ("V · Sanctuaires et géographies sacrées",range(475,483),"Huit dossiers individuels."),
       ("VI · Serments, malédictions et puissance de la parole",range(483,491),"Huit dossiers individuels.")
     ]
-    body='<h1>Origines du sacré</h1><p class="portal-lead">Quarante-huit chapitres accessibles dans leur intégralité : des Mystères grecs aux rites, musiques, calendriers et sanctuaires des sociétés anciennes. La collection possède ses propres numéros ODS-001 à ODS-048 ; les anciennes références techniques sont conservées dans les adresses des sources, mais ne figurent plus dans le sommaire public.</p>'
+    body='<h2>Origines du sacré</h2><p class="portal-lead">Quarante-huit chapitres accessibles dans leur intégralité : des Mystères grecs aux rites, musiques, calendriers et sanctuaires des sociétés anciennes. La collection possède ses propres numéros ODS-001 à ODS-048 ; les anciennes références techniques sont conservées dans les adresses des sources, mais ne figurent plus dans le sommaire public.</p>'
     body+=museum_figures([
       ("mythos-ounas-chambre-funeraire-vincent-brown.jpg","Textes funéraires dans la pyramide d’Ounas","Égypte — écriture et pratiques funéraires."),
       ("mythos-derveni-papyrus-fragments-thessalonique-gts-tg.jpg","Fragments du papyrus de Derveni","Grèce — interprétation d’une tradition poétique religieuse."),
