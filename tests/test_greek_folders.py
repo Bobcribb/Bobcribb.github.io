@@ -68,6 +68,40 @@ class GreekFolderTests(unittest.TestCase):
                                   'Aucun sujet reconnu', 'Chapitre universitaire'),
                          ('sources-anciennes', 'Nouvelles études à classer'))
 
+    def test_recent_documented_studies_leave_generic_sorting_queue(self):
+        # Huit études intègres de 2026 déjà reçues et attribuées sur main ;
+        # leur classement ne doit pas se fonder sur des mots fortuits de la prose.
+        cases = {
+            '401-tritopatores-ancetres-athenes-kerameikos-selinonte-rites-purification':
+                ('cultes-sanctuaires', 'Ancêtres, naissance et rites de purification'),
+            '402-sosipolis-elide-olympie-enfant-serpent-zeus-magnesie-cultes':
+                ('cultes-sanctuaires', 'Olympie, Élide et dieux protecteurs des cités'),
+            '403-ennodia-thessalie-pherai-larissa-hecate-artemis-cultes-routes':
+                ('cultes-sanctuaires', 'Thessalie — déesses des routes et des seuils'),
+            '405-acheloos-dieu-fleuve-heracles-dejanire-corne-abondance':
+                ('divinites', 'Dieux-fleuves, paysages et eaux divinisées'),
+            '406-poseidon-hippocampes-chevaux-divins-mer':
+                ('divinites', 'Poséidon et le cortège marin'),
+            '412-aristeas-proconnese-arimaspes-apollon-hyperboreens':
+                ('sources-anciennes', 'Poètes, voyages et traditions fragmentaires'),
+            '421-praxidikai-praxidike-serments-haliarte-beotie-mnaseas':
+                ('cultes-sanctuaires', 'Haliarte — serments, justice et sanction sacrée'),
+            '422-salmakis-halicarnasse-hermaphrodite-source-inscription':
+                ('cultes-sanctuaires', 'Halicarnasse — fontaines, inscriptions et métamorphoses'),
+        }
+        for suffix, expected in cases.items():
+            slug = 'chapitre-' + suffix
+            source = Path(__file__).resolve().parents[1] / 'chapitres' / 'encyclopedie' / (slug + '.md')
+            self.assertTrue(source.is_file(), source)
+            manuscript = source.read_text(encoding='utf-8')
+            self.assertGreater(len(manuscript), 9000, slug)
+            self.assertIn('bibliograph', manuscript.lower(), slug)
+            actual = classify('/chapitres/encyclopedie/' + slug + '/',
+                              'Titre ancien mentionnant Zeus sans rapport avec le sujet',
+                              'Chapitre universitaire')
+            self.assertEqual(actual, expected, slug)
+            self.assertNotEqual(actual[1], 'Nouvelles études à classer')
+
     def test_one_home_per_destination_with_separate_book_sections(self):
         groups = [('Livres', 'grec-livres', [('/livre-thebes/', 'Thèbes')]),
                   ('Encore le livre', 'grec-dossiers', [('/livre-thebes/', 'Autre titre')])]
