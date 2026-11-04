@@ -110,7 +110,6 @@ def create_home(entries,groups):
     major=cards([
       ("/grece/","Grèce antique","Dieux, héros, Homère, Hésiode, cultes, sanctuaires et récits.","DOSSIER À LA UNE"),
       ("/mythologies/","Mythologies du monde","Cosmogonies, panthéons, récits fondateurs et traditions comparées.","LE CŒUR DE MYTHOS"),
-      ("/grande-encyclopedie/","Grande encyclopédie","Volumes universitaires, études et chapitres classés.","COLLECTION AUTONOME"),
       ("/theatre/","Théâtre grec","Eschyle, Sophocle, Euripide, Aristophane, Ménandre, œuvres perdues.","ŒUVRES ET FRAGMENTS"),
       ("/origines-du-sacre/","Origines du sacré","Préhistoire, rituels, chants, temps sacré et religions comparées.","GRAND DOSSIER"),
       ("/philosophie/","Études philosophiques","Hegel, Nietzsche, philosophie antique et interprétation des mythes.","ANALYSE CRITIQUE"),
@@ -860,7 +859,6 @@ def renovate_catalog(total):
  card(url,title,desc,"PARCOURS")
  for url,title,desc in [
   ("/mythologies/","Mythologies","Panthéons et récits du monde"),
-  ("/grande-encyclopedie/","Grande encyclopédie","Volumes et dossiers universitaires"),
   ("/dieux-et-deesses/","Dieux et déesses","Panthéons et divinités"),
   ("/heros-et-heroines/","Héros et héroïnes","Personnages et cycles épiques"),
   ("/recits-mythologiques/","Grands récits","Cosmogonies, voyages et épopées"),
