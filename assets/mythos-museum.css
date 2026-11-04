@@ -528,3 +528,167 @@ body.mythos-reading .mythos-study-endnav a:focus-visible{
 @media print{
   body.mythos-reading .mythos-study-endnav{display:none!important}
 }
+
+/* MYTHOS — mémoire intégral Horizon d'Aton : lecture scientifique responsive. */
+body.mythos-reading .mythos-academic-access{
+  display:flex;
+  justify-content:center;
+  width:min(100%,920px);
+  margin:22px auto 28px;
+  padding:14px 18px;
+  border:1px solid #9a7d52;
+  background:#111b1e;
+  text-align:center;
+}
+body.mythos-reading .mythos-academic-access a{
+  color:#eed19e;
+  text-underline-offset:.25em;
+  font:600 clamp(15px,1.7vw,19px)/1.5 Georgia,serif;
+}
+body.mythos-reading .mythos-academic-memoire{
+  border-top:2px solid #ad8b58;
+  margin:clamp(36px,6vw,76px) 0 36px;
+  padding-top:clamp(24px,4vw,48px);
+  min-width:0;
+  overflow-wrap:break-word;
+}
+body.mythos-reading .mythos-academic-memoire>h2{
+  text-align:center!important;
+  color:#f1dfbd!important;
+  font-size:clamp(28px,3vw,45px)!important;
+}
+body.mythos-reading .mythos-academic-source-note{
+  width:min(100%,850px);
+  margin:14px auto 30px!important;
+  color:#d9c6a7;
+  text-align:center;
+}
+body.mythos-reading .mythos-academic-toc{
+  max-width:960px;
+  margin:25px auto 44px;
+  padding:clamp(18px,3.5vw,32px);
+  border:1px solid #7d6849;
+  background:#11191b;
+}
+body.mythos-reading .mythos-academic-toc h3{
+  margin:0 0 19px;
+  color:#eac68d!important;
+  text-align:center;
+  font:400 clamp(22px,2.2vw,30px)/1.25 Georgia,serif!important;
+}
+body.mythos-reading .mythos-academic-toc ol{
+  margin:0;
+  padding-left:1.5rem;
+  columns:2;
+  column-gap:clamp(20px,4vw,54px);
+}
+body.mythos-reading .mythos-academic-toc li{
+  break-inside:avoid;
+  margin:0 0 9px;
+  padding-left:3px;
+}
+body.mythos-reading .mythos-academic-toc a{
+  color:#efdbb7;
+  text-underline-offset:3px;
+}
+body.mythos-reading .mythos-academic-fulltext{
+  max-width:min(100%,1000px);
+  margin-inline:auto;
+}
+body.mythos-reading .mythos-academic-fulltext h3{
+  margin-top:2.3em!important;
+  border-bottom:1px solid #786241;
+  padding-bottom:.3em;
+  color:#efcf9c!important;
+  scroll-margin-top:90px;
+}
+body.mythos-reading .mythos-academic-fulltext h4{
+  font-size:clamp(20px,1.9vw,26px)!important;
+  margin-top:1.7em!important;
+  color:#ead3aa!important;
+}
+body.mythos-reading .mythos-academic-fulltext h5{
+  font-size:clamp(18px,1.6vw,22px)!important;
+  color:#dfc7a0!important;
+}
+body.mythos-reading .mythos-academic-fulltext p{
+  overflow-wrap:anywhere;
+  hyphens:auto;
+}
+body.mythos-reading .mythos-academic-table-scroll{
+  display:block;
+  max-width:100%;
+  overflow-x:auto;
+  overscroll-behavior-inline:contain;
+  margin:22px 0 34px;
+  border:1px solid #69583e;
+}
+body.mythos-reading table.mythos-academic-table{
+  width:100%;
+  min-width:610px;
+  border-collapse:collapse;
+  background:#121b1e;
+}
+body.mythos-reading .mythos-academic-table :is(th,td){
+  padding:12px 15px;
+  vertical-align:top;
+  border:1px solid #514735;
+  color:#f0e5d5;
+  font:15px/1.55 Georgia,serif;
+}
+body.mythos-reading .mythos-academic-table th{
+  color:#f0cc95;
+  background:#1a2426;
+  text-align:left;
+}
+body.mythos-reading .mythos-academic-table :is(th,td) p{
+  margin:0 0 .5em!important;
+}
+body.mythos-reading .mythos-academic-figure{
+  display:grid;
+  justify-items:center;
+  max-width:780px;
+  margin:32px auto;
+  padding:clamp(15px,2.5vw,26px);
+  border:1px solid #725f44;
+  background:#131a1d;
+  text-align:center;
+}
+body.mythos-reading .mythos-academic-figure a{
+  max-width:100%;
+}
+body.mythos-reading .mythos-academic-figure img{
+  display:block;
+  width:auto;
+  max-width:100%;
+  max-height:450px;
+  height:auto;
+  object-fit:contain;
+  margin:auto;
+}
+body.mythos-reading .mythos-academic-figure figcaption{
+  margin-top:14px;
+  max-width:660px;
+  color:#decfb7;
+  font:14px/1.65 Georgia,serif;
+}
+body.mythos-reading .mythos-academic-return{
+  margin:34px auto 0;
+  border-top:1px solid #776342;
+  padding:17px 4px;
+  text-align:center;
+}
+@media(max-width:740px){
+  body.mythos-reading .mythos-academic-toc ol{columns:1}
+  body.mythos-reading .mythos-academic-memoire{margin-top:35px}
+  body.mythos-reading .mythos-academic-table :is(td,th){padding:9px 11px;font-size:14px}
+  body.mythos-reading .mythos-academic-fulltext h3{scroll-margin-top:78px}
+  body.mythos-reading .mythos-academic-figure img{max-height:350px}
+}
+@media print{
+  body.mythos-reading .mythos-academic-access,
+  body.mythos-reading .mythos-academic-return{display:none!important}
+  body.mythos-reading .mythos-academic-table-scroll{overflow:visible;break-inside:avoid}
+  body.mythos-reading table.mythos-academic-table{min-width:0}
+  body.mythos-reading .mythos-academic-figure{break-inside:avoid;background:#fff}
+}
