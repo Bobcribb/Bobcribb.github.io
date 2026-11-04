@@ -15,7 +15,7 @@
 
 **Question directrice [B].** Que peut-on encore savoir d’une comédie qui a gagné le premier prix mais dont aucun fragment certain n’a survécu ? Le dossier oblige à distinguer avec une rigueur exceptionnelle la **mémoire institutionnelle du succès** de la **mémoire textuelle de l’œuvre**. *Kōmastai* est un cas exemplaire où l’histoire du théâtre connaît le résultat du concours, mais presque rien du texte qui a convaincu les juges.
 
-**Navigation :** [Volume précédent — Amipsias, *Konnos*, étude principale](/chapitres/comedies/volume-068-ameipsias-konnos-socrate-musique-oracles-education/) · [Complément *Konnos*](/chapitres/comedies/volume-069-ameipsias-konnos-socrate-penseurs-musique-verite/) · [Théâtre grec](/theatre/) · [Catalogue intégral](/catalogue-integral/).
+**Navigation :** [Volume précédent — LXX, *Moichoi*](/chapitres/comedies/volume-070-ameipsias-moichoi-adultere-droit-citoyennete/) · [Étude principale de *Komastai* — LXXII](/chapitres/comedies/volume-072-ameipsias-komastai-kosmos-concours-414-fete-politique/) · [*Konnos*, étude principale — LXVIII](/chapitres/comedies/volume-068-ameipsias-konnos-socrate-musique-oracles-education/) · [*Konnos*, complément — LXIX](/chapitres/comedies/volume-069-ameipsias-konnos-socrate-penseurs-musique-verite/) · [Théâtre grec](/theatre/) · [Catalogue intégral](/catalogue-integral/).
 
 ---
 
