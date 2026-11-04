@@ -164,24 +164,24 @@ class RecentFigurePublicationTests(unittest.TestCase):
             return (200, kind, self.assets[path])
         return (200, "text/html", self.pages[path])
 
-    def test_all_twenty_documentary_figures_and_six_pages_verified(self):
+    def test_all_twenty_two_documentary_figures_and_six_pages_verified(self):
         pages, assets = live.recent_figure_inventory(self.root)
         self.assertEqual(len(pages), 6)
-        self.assertEqual(len(pages["livre-iliade-scenes/index.html"]), 3)
-        self.assertEqual(len(pages["livre-odyssee/index.html"]), 4)
+        self.assertEqual(len(pages["livre-iliade-scenes/index.html"]), 4)
+        self.assertEqual(len(pages["livre-odyssee/index.html"]), 5)
         self.assertEqual(len(pages["livre-hesiode/index.html"]), 5)
         self.assertEqual(len(pages["philosophie-iliade.html"]), 3)
         self.assertEqual(len(pages["philosophie-odyssee.html"]), 3)
         self.assertEqual(len(pages["philosophie-theogonie.html"]), 2)
-        self.assertEqual(len(assets), 19)
-        self.assertEqual(sum(len(items) for items in pages.values()), 20)
+        self.assertEqual(len(assets), 20)
+        self.assertEqual(sum(len(items) for items in pages.values()), 22)
         # Rembrandt est réutilisé entre l’étude philosophique et le livre.
         shared = "/assets/illustrations-articles/met-437394-aristote-homere-rembrandt.webp"
         self.assertIn(shared, assets)
         self.assertEqual(sum(src == shared for _, _, src in live.RECENT_FIGURES), 2)
         with patch.object(live, "fetch", side_effect=self.fetch):
             report = live.verify_recent_public_figures("https://example.test", self.root)
-        self.assertEqual(len(report), 25)
+        self.assertEqual(len(report), 26)
         self.assertTrue(all(item["valid"] for item in report))
 
     def test_stale_odyssey_figure_and_tampered_jpeg_are_detected(self):
@@ -283,7 +283,7 @@ class RecentFigurePublicationTests(unittest.TestCase):
         self.assertEqual({entry["url"] for entry in checked if not entry["valid"]}, {
             "/livre-hesiode/index.html", hermes,
         })
-        self.assertEqual(len(live.RECENT_FIGURES), 20)
+        self.assertEqual(len(live.RECENT_FIGURES), 22)
 
     def test_newest_met_book_figures_are_required_and_image_bytes_must_match(self):
         """Audit each new book figure against stale HTML and altered WebP."""
@@ -317,6 +317,32 @@ class RecentFigurePublicationTests(unittest.TestCase):
                         "https://example.test", self.root)
                 broken = {row["url"] for row in checked if not row["valid"]}
                 self.assertEqual(broken, {"/" + page, image_path})
+
+    def test_athena_and_suitors_are_required_on_https_with_exact_bytes(self):
+        """A stale Athena figure or altered suitors JPEG must stop publication."""
+        iliad = ("livre-iliade-scenes/index.html",
+                 "icono-iliade-athena-diomede-met-254648-20261104",
+                 "/assets/illustrations-articles/met-254648-athena-chouette-bronze.webp")
+        odyssey = ("livre-odyssee/index.html",
+                   "icono-odyssee-pretendants-skyphos-tarquinia-20261104",
+                   "/assets/philosophie/documents/odyssee-03.jpg")
+        self.assertEqual(live.RECENT_FIGURES.count(iliad), 1)
+        self.assertEqual(live.RECENT_FIGURES.count(odyssey), 1)
+
+        def stale_fetch(url):
+            path = url.split("https://example.test", 1)[-1]
+            if path == "/" + iliad[0]:
+                return (200, "text/html", self.pages[path].replace(
+                    iliad[1].encode("utf-8"), b"old-iliad-without-athena"))
+            if path == odyssey[2]:
+                return (200, "image/jpeg", self.assets[path] + b"changed")
+            return self.fetch(url)
+
+        with patch.object(live, "fetch", side_effect=stale_fetch):
+            report = live.verify_recent_public_figures(
+                "https://example.test", self.root)
+        self.assertEqual({row["url"] for row in report if not row["valid"]},
+                         {"/" + iliad[0], odyssey[2]})
 
     def test_same_page_duplicate_media_is_rejected_but_cross_page_reuse_is_allowed(self):
         """Un fichier partagé est contrôlé une fois, une répétition sur la page est interdite."""
