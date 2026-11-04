@@ -2,7 +2,7 @@
   "generated_at": "2026-11-04",
   "site": "bobmythos.fr",
   "method": "Illustrations photoréalistes interprétatives, textes et sources hors des pixels.",
-  "count": 16,
+  "count": 17,
   "entries": [
     {
       "id": "DEL-PAN-001",
@@ -273,6 +273,26 @@
         "https://whc.unesco.org/fr/list/393/"
       ],
       "scientific_notice": "/assets/reconstitutions-3d/notices/delphes-tholos-athena-pronaia.json"
+    },
+    {
+      "id": "OLY-PAN-001",
+      "slug": "olympie-altis-panorama",
+      "title": "Olympie — l’Altis et le temple de Zeus",
+      "period": "Évocation vers 300 av. J.-C. (fin du IVe – début du IIIe siècle av. J.-C.)",
+      "caption": "Vue panoramique photoréaliste interprétative d’Olympie, temple de Zeus et bâtiment circulaire évoquant le Philippéion.",
+      "commentary": "Le temple de Zeus, construit vers 470–457 av. J.-C., était dorique et périptère, avec six colonnes en façade et treize sur chaque grand côté. Le Philippéion appartient à une phase postérieure à Chéronée (338 av. J.-C.) ; l’évocation est donc datée vers 300 av. J.-C. Les volumes secondaires, détails des façades, végétation, personnages et topographie précise sont conjecturaux.",
+      "certainty": "Élevée : existence et ordre du temple de Zeus, sanctuaire, chronologie du Philippéion. Moyenne : volumes principaux. Faible : bâtiments secondaires, statues, couleurs, toitures, végétation, disposition exacte.",
+      "source_url": "https://olympicgames.culture.gov.gr/en/periigisi.html",
+      "secondary_sources": [
+        "https://whc.unesco.org/fr/list/517"
+      ],
+      "src": "/assets/reconstitutions-3d/olympie-altis-panorama.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-04",
+      "type": "panorama 3D photoréaliste interprétatif, non métrique",
+      "provenance": "Image originale sans texte ni menu ; description de l’Altis et de ses phases historiques ; ni plan précis ni validation scientifique de la restitution.",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/olympie-altis-panorama.json"
     }
   ]
 }
