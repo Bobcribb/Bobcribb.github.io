@@ -37,6 +37,8 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+      - name: Installer le parseur HTML du contrôle de publication
+        run: python -m pip install beautifulsoup4==4.12.3
       - name: Préparer le site complet sans modifier les manuscrits
         run: python scripts/publish_photorealistic_snapshot.py
       - name: Refuser une galerie modifiée pendant le rendu
