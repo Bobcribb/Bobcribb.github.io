@@ -57,5 +57,35 @@ class MuseumNavigationTests(unittest.TestCase):
                     self.assertTrue(doc.article.select_one('a[href="/grande-encyclopedie/registre-integral/"]'))
 
 
+    def test_reconstitutions_3d_entry_is_unique_and_points_to_published_gallery(self):
+        gallery = '/reconstitutions-photorealistes.html'
+        atlas = '/reconstitutions-antiquite/'
+        for menu in (NAV, MORE):
+            self.assertEqual([(path, label) for path, label in menu if path == gallery],
+                             [(gallery, 'Reconstitutions 3D')])
+        self.assertEqual(sum(path == atlas for path, _ in MORE), 1)
+        self.assertFalse(any(path == atlas for path, _ in NAV))
+        raw_nav = BeautifulSoup(BASE_NAV, 'html.parser')
+        self.assertEqual(len(raw_nav.select('a[href="' + gallery + '"]')), 1)
+        with TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            for name in ('index.html', 'reconstitutions-photorealistes.html'):
+                (root / name).write_text(
+                    '<html lang="fr"><head><title>MYTHOS</title></head>'
+                    '<body><main><h1>Étude</h1><p>Sources conservées.</p></main></body></html>',
+                    encoding='utf-8')
+            for _ in range(2):
+                self.assertEqual(apply(root), 2)
+                for name in ('index.html', 'reconstitutions-photorealistes.html'):
+                    doc = BeautifulSoup((root / name).read_text(encoding='utf-8'),
+                                        'html.parser')
+                    for selector in ('.mythos-primary-nav', '.mythos-menu nav'):
+                        links = doc.select(selector + ' a[href="' + gallery + '"]')
+                        self.assertEqual(len(links), 1, (name, selector))
+                        self.assertEqual(links[0].get('aria-current') == 'page',
+                                         name == 'reconstitutions-photorealistes.html')
+                    self.assertIn('Sources conservées.', doc.get_text(' ', strip=True))
+
+
 if __name__ == '__main__':
     unittest.main()
