@@ -47,6 +47,8 @@ L'interface maintient la bannière grecque et la séparation demandée entre **t
 
 ## 4. Contrôles et limites
 
+La validation GitHub Actions n° 41876507988 (commit `ae40369048dc`) a ensuite confirmé **trois tests du module théâtre réussis** (intégrité, idempotence et étude courte refusée). La validation globale est néanmoins **en échec** : une vérification iconographique distincte refuse une notice sans provenance (`mythos-diagramme-aphrodite-deux-genealogies`). Cette notice et l'automatisation iconographique ne sont pas modifiées par cette séance.
+
 Une validation de la première version du nouveau test a **échoué** : des sauts de ligne insérés par BeautifulSoup autour du DOCTYPE empêchaient la stricte identité binaire entre deux reconstructions. Le correctif `acb73a56` normalise cet espace. **La réussite de la CI après ce correctif reste à constater** ; ne pas annoncer de succès avant une nouvelle exécution concluante.
 
 Une lecture indépendante de `https://bobmythos.fr/catalog/publication-verification.json` a confirmé une **version publique antérieure**, `source_commit=5d64aa9c910d52b635ec7cab3ea6455e7626b01c`, comportant **1 347 entrées indexées, 27 archives, 110 médias**. La page `/theatre/` publique ne présente pas encore « Comédies perdues d’Aristophane : éditions critiques et scènes modernes ». **L'enregistrement dans GitHub est certain ; le déploiement du nouveau sommaire n'est pas confirmé.**
