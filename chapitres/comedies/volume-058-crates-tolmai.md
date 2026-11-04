@@ -326,4 +326,53 @@ Un chant de baigneurs, conservé dans une tradition érudite, peut renvoyer à u
 Pour toute édition grec-français des *Tolmai*, consigner séparément : le passage exact d'Athénée, la leçon grecque, les variantes et restitutions, l'attribution à Cratès, le numéro de fragment dans PCG IV, les commentaires de Serena Perrone dans *Fragmenta Comica* 2, et la traduction adoptée. La consultation d'un index ou d'une traduction ancienne permet de repérer un passage, mais **ne vaut pas collation complète du grec**. Le présent complément n'ajoute aucune citation antique prétendument littérale ni aucun fragment nouveau.
 
 
+
+## Annexe de contrôle — Matrice des attestations et des inférences
+
+### XLII. [A/B] Distinguer cinq opérations éditoriales
+
+Une étude de comédie perdue passe par cinq opérations qui ne sont pas équivalentes : **localiser** une citation dans le texte transmetteur ; **établir** la leçon grecque à partir des témoins et de l'apparat ; **attribuer** la citation à une œuvre ; **traduire** les mots retenus ; enfin **interpréter** leur fonction dramatique. Une localisation peut être sûre alors que l'attribution ou le sens d'un terme demeure discuté. La référence à Athénée VI, 247f–248a ne suffit donc pas à prouver une intrigue sur le salaire ; celle à XIV, 619a ne prouve pas que les acteurs chantaient sur scène.
+
+### XLIII. [A/B] Tableau de provenance pour les deux passages
+
+| Élément | Source antique localisée | Ce qu'elle permet d'étudier | Ce qu'elle ne démontre pas |
+|---|---|---|---|
+| Subsistance et relations de service | Athénée, *Deipnosophistes* VI, 247f–248a | Vocabulaire conservé et choix de citation du compilateur | Situation complète, statut social des interlocuteurs, place dans l'intrigue |
+| Chant de baigneurs | Athénée, *Deipnosophistes* XIV, 619a | Mention d'une pratique sonore et transmission érudite | Identité du chanteur, musique de scène, chorégraphie |
+| Carrière de Cratès | Aristote, *Poétique* 1449b ; Aristophane, *Cavaliers* 537–540 | Réception et histoire du genre | Contenu spécifique des *Tolmai* |
+| Commentaire philologique moderne | Serena Perrone, *Cratete*, *Fragmenta Comica* 2 (2019) | Organisation critique des fragments et hypothèses savantes | Nouveau témoignage antique indépendant |
+
+Ce tableau est un **instrument de lecture**, non une collation des manuscrits. Il distingue délibérément les sources antiques directes, les contextes extérieurs et la recherche contemporaine.
+
+### XLIV. [B] Comment ne pas fabriquer une scène à partir d'un mot
+
+Supposons qu'un terme lié à l'alimentation apparaisse dans un fragment. Il est tentant d'y ajouter un cuisinier, un esclave, un banquet et un conflit entre convives. Or ces quatre éléments n'ont pas le même statut que le mot conservé. Le mot relève du document ; les personnages et la scène relèvent d'une hypothèse de mise en situation. Même une scène parfaitement plausible peut être historiquement fausse. Une reconstruction destinée au public doit donc préciser où commence son invention et s'abstenir de citer ses dialogues comme des vers de Cratès.
+
+### XLV. [B] Les conditions d'une lecture économique
+
+L'économie de la subsistance ne se réduit pas à une liste d'objets consommés. Pour étudier la dépendance, il faut identifier les statuts, les échanges, les obligations et la distribution de la parole. Un fragment lexical peut ouvrir la question sans la résoudre. La comparaison avec Hegel doit donc être formulée comme une interrogation sur la reconnaissance et les besoins ; elle ne transforme pas Cratès en théoricien du travail. La critique nietzschéenne des valeurs ne remplace pas davantage l'enquête sur les rapports sociaux athéniens.
+
+### XLVI. [C] Scène originale V — La note de bas de page
+
+*Création littéraire contemporaine, sans correspondance prétendue avec une scène antique.*
+
+**LE POÈTE** — Je n'ai laissé que deux phrases.
+
+**L'ÉDITEUR** — Elles suffiront à écrire toute ta vie.
+
+**LA PHILOLOGUE** — Elles suffiront surtout à poser deux questions.
+
+**LE POÈTE** — Et si vous ne trouvez pas les réponses ?
+
+**LA PHILOLOGUE** — Nous laisserons une place blanche.
+
+**LE POÈTE** — C'est donc cela, le respect des morts ?
+
+**LA PHILOLOGUE** — Non. Le respect des mots qui nous restent.
+
+### XLVII. Bibliographie de travail et statut des consultations
+
+**Sources antiques à collationner :** Athénée, *Deipnosophistes*, VI, 247f–248a et XIV, 619a ; Aristote, *Poétique*, 1449b ; Aristophane, *Cavaliers*, 537–540. **Éditions et commentaires :** R. Kassel et C. Austin, *Poetae Comici Graeci*, IV ; Serena Perrone, *Cratete*, *Fragmenta Comica* 2, 2019. Les références à Aristote et Aristophane documentent un contexte extérieur à la pièce ; elles ne sont pas des fragments des *Tolmai*. **Limite persistante :** ni l'apparat complet de PCG IV ni les pages 183–196 de Perrone relatives aux *Tolmai* n'ont été collationnés ici. Aucun numéro de fragment supplémentaire, aucune variante grecque et aucune attribution de locuteur ne sont avancés comme vérifiés.
+
+
 **Continuité :** [volume LVII — *Metoikoi*](/chapitres/comedies/volume-057-crates-metoikoi/) · [catalogue des comédies](/theatre/) · **prochain numéro théorique LIX**, soumis à nouvelle vérification de la branche `main`, des notices historiques et du registre. Aucun contenu privé ou WordPress ne fait partie de ce volume.
