@@ -1210,6 +1210,12 @@
           "path": "chapitres/comedies/volume-096-nikochares-lakones-spartiates-388-kottabos-manes-laconisme-paix.md",
           "request_sha256": "7d6994c1978cb9e20922465b7b3b35a1b722a0fbda3defa6b32dcb0d0e3e8cd7",
           "initial_source_sha256": "0572fa9bed934c52e3a51d76d869bfe753ba63d8d22681a3bb6327f0570cb73b"
+        },
+        "8f170c19-06d4-4ac5-a6c0-0e250947803c": {
+          "number": 97,
+          "path": "chapitres/comedies/volume-097-nikochares-lemniai-lemniennes-argonautes-hypsipyle-poissons-vin-marmites.md",
+          "request_sha256": "a1322f18c7d6ecc9998f0c5f56e3b791e4b3eac6d948ac6295a1af0e038255cb",
+          "initial_source_sha256": "58067996fb97e919f4a03720369a368dc606baf4e11e1b9e94fb042126a40148"
         }
       }
     },
@@ -1540,6 +1546,12 @@
           "path": "chapitres/tragedies/volume-ccxxxviii-sophocle-teucros-telamon-ajax-accusation-trahison-salamine-chypre.md",
           "request_sha256": "3dd2a6bd39ae7bdd5c54949efce7d2bf474525a60a1f33a91198316e859f58fb",
           "initial_source_sha256": "0649e10ca5d3e36f954d6fa73523efd64f235c3cf669ea20420c6c4f31814384"
+        },
+        "49a2cb3d-c4c4-4b85-bf4f-9a6fe7b0a931": {
+          "number": 239,
+          "path": "chapitres/tragedies/volume-ccxxxix-sophocle-telephe-fragment-580-genre-drame-satyrique-mysie-guerison-achille.md",
+          "request_sha256": "9dfa9480b06483e16935bbcacc8ceff9ff4fdbc8802dfe48d5cd3e2196ac40af",
+          "initial_source_sha256": "e5748bbeb11d6e5b46721e42ace4259986a4e49778dda407b071608d6af9d5ce"
         }
       }
     },
