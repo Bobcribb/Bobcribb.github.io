@@ -455,9 +455,9 @@ def main(out, root):
     @media(max-width:700px){.greek-dossiers-toc{grid-template-columns:minmax(0,1fr)}.greek-dossier{padding:.5rem}}
     """
     from build_navigation import shell
-    from build_greek_folders import build as build_folders, overview, CSS as FOLDER_CSS
-    folder_rows = build_folders(out, dedup, sections, BOOKS)
-    folder_overview = overview(folder_rows)
+    from build_greek_folders import build as build_folders, overview, folder_artworks, CSS as FOLDER_CSS
+    folder_rows = build_folders(out, dedup, sections, BOOKS, root=root)
+    folder_overview = overview(folder_rows, folder_artworks(root, out, {r["folder"] for r in folder_rows}))
     css.string += FOLDER_CSS
     portals = [
         ("mythologie-grecque", "Encyclopédie mythologique grecque"),

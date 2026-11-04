@@ -10,6 +10,7 @@ from html import escape
 from pathlib import Path
 from urllib.parse import unquote, urlsplit
 import re
+import json
 import unicodedata
 
 from bs4 import BeautifulSoup
@@ -243,31 +244,101 @@ def counts(rows, compact=False):
     return ' · '.join(str(tally[k])+' '+(singular if tally[k] == 1 else plural)
                       for k, singular, plural in labels if tally[k])
 
+# One archival object per editorial theme, deliberately curated (not a
+# civilization-wide image fallback). Objects and captions are read at build time
+# from the provenance register; no historical image or text is rewritten.
+# The cosmogonies family has no sufficiently specific Greek object in this set.
+FOLDER_ARTWORK = {
+    "divinites": ("mythos-bronze-artemision-zeus-ou-poseidon", "Zeus"),
+    "heros": ("mythos-thesee-minotaure-amphore-taleides-met-47-11-5", "Thésée"),
+    "familles": ("mythos-mycene-porte-lionnes-zde-2020", "Mycènes"),
+    "cycles-epiques": ("mythos-hector-priam-rancon-briseis-peintre-british-museum-e75", "Iliade"),
+    "cultes-sanctuaires": ("delphes-temple-apollon-bernard-gagnon", "Delphes"),
+    "sources-anciennes": ("mythos-derveni-papyrus-fragments-thessalonique-gts-tg", "Derveni"),
+    "interpretations-philosophiques": ("jacques-louis-david-mort-de-socrate-1787", "Socrate"),
+}
 
-def cards_html(rows):
-    return '<div class="portal-grid greek-folder-grid">' + ''.join(
-        '<a class="portal-card" href="'+BASE+slug+'/"><span class="portal-card-kicker">DOSSIER THÉMATIQUE</span>'
-        '<strong>'+escape(title)+'</strong><span>'+escape(description)+'</span><small>'
-        +escape(counts([r for r in rows if r['folder'] == slug], compact=True))+'</small>'
-        '<span class="card-indicator" aria-hidden="true">↗</span></a>'
-        for slug, title, description in FOLDERS if any(r['folder'] == slug for r in rows)) + '</div>'
+
+def folder_artworks(root, out, families):
+    """Return only verified, on-disk photographs with documented attribution.
+
+    A missing artwork raises before deployment; editorial absence is preferable
+    to substituting an unrelated photograph or an old 2.5D reconstruction.
+    """
+    if root is None:
+        return {}
+    root, out = Path(root), Path(out)
+    manifest = root / "scripts/editorial_media.json"
+    if not manifest.is_file():
+        raise RuntimeError("MYTHOS : registre de provenance iconographique absent")
+    records = json.loads(manifest.read_text(encoding="utf-8"))["media"]
+    by_id = {item["id"]: item for item in records}
+    if len(by_id) != len(records):
+        raise RuntimeError("MYTHOS : identifiants d'illustrations dupliqués")
+    images = {}
+    for slug, (art_id, subject) in FOLDER_ARTWORK.items():
+        if slug not in families:
+            continue
+        item = by_id.get(art_id)
+        if not item or subject not in item.get("subjects", []):
+            raise RuntimeError("Dossier grec : provenance non vérifiée : " + slug)
+        path = item.get("path", "")
+        caption = item.get("caption_html", "")
+        if (not path.startswith("media/2026/10/")
+                or ".." in Path(path).parts
+                or not path.lower().endswith((".jpg", ".jpeg", ".png", ".webp"))
+                or not item.get("alt") or not caption or "href=" not in caption
+                or not (out / path).is_file()):
+            raise RuntimeError("Dossier grec : image/source absente : " + slug)
+        images[slug] = item
+    return images
 
 
-def overview(rows):
+def cards_html(rows, artworks=None):
+    artwork = artworks or {}
+    cards = []
+    for slug, title, description in FOLDERS:
+        members = [r for r in rows if r['folder'] == slug]
+        if not members:
+            continue
+        record = artwork.get(slug)
+        image = ('<img class="greek-folder-illustration" src="/' +
+                 escape(record["path"], quote=True) + '" alt="' +
+                 escape(record["alt"], quote=True) +
+                 '" loading="lazy" decoding="async">' if record else '')
+        credit = ('<details class="greek-folder-credit"><summary>'
+                  'Document représentatif : source et licence</summary>'
+                  '<p>Repère iconographique de ce thème, et non preuve '
+                  'historique de tous ses récits.</p><div>' +
+                  record["caption_html"] + '</div></details>' if record else '')
+        cards.append(
+            '<div class="greek-folder-entry"><a class="greek-folder-link" href="' +
+            BASE + slug + '/">' + image +
+            '<span class="greek-folder-kicker">DOSSIER THÉMATIQUE</span>' +
+            '<strong>' + escape(title) + '</strong><span class="greek-folder-description">' +
+            escape(description) + '</span><small>' +
+            escape(counts(members, compact=True)) +
+            '</small><span class="greek-folder-arrow" aria-hidden="true">→</span></a>' +
+            credit + '</div>')
+    return '<div class="portal-grid greek-folder-grid">' + ''.join(cards) + '</div>'
+
+
+def overview(rows, artworks=None):
     return ('<section id="dossiers-thematiques" class="portal-section"><h2>Choisir un dossier thématique</h2>'
             '<p class="portal-lead">Entrez par un personnage, un cycle ou un thème, puis ouvrez les chapitres qui s’y rapportent.</p>'
             '<p>' + escape(counts(rows)) + '. Les sections sont des passages des livres, accessibles directement à leur titre.</p>'
-            + cards_html(rows) + '</section>')
+            + cards_html(rows, artworks) + '</section>')
 
 
-def build(out, groups, sections, books):
+def build(out, groups, sections, books, root=None):
     from build_navigation import shell
     out = Path(out)
     rows = inventory(groups, sections, books)
+    artworks = folder_artworks(root, out, {r["folder"] for r in rows})
     def render(title, body, description=''):
         return shell(title, body, description).replace('</head>', '<style id="greek-folder-style">'+CSS+'</style></head>')
     (out / BASE.strip('/')).mkdir(parents=True, exist_ok=True)
-    index = '<h1>Les dossiers de l’encyclopédie grecque</h1><p><a href="/mythologie-grecque/">Encyclopédie grecque</a></p>' + overview(rows)
+    index = '<h1>Les dossiers de l’encyclopédie grecque</h1><p><a href="/mythologie-grecque/">Encyclopédie grecque</a></p>' + overview(rows, artworks)
     (out / BASE.strip('/') / 'index.html').write_text(render('Dossiers thématiques de l’encyclopédie grecque', index), encoding='utf-8')
     # Return links stay outside the article, leaving its scholarly text untouched.
     for row in rows:
@@ -368,9 +439,21 @@ def verify(out, expected_urls):
 
 
 CSS = '''
-.greek-folder-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
-.greek-folder-grid .portal-card strong{font:1.3rem/1.3 Georgia,serif;color:#efd7a6}
-.greek-folder-grid .portal-card small{color:#c8b995;font:.78rem/1.5 system-ui}
+.greek-folder-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:1rem}
+.greek-folder-entry{min-width:0;display:flex;flex-direction:column;border:1px solid #785f3f;border-radius:5px;overflow:hidden;background:#101718}
+.greek-folder-link{min-width:0;display:flex;flex:1;flex-direction:column;padding:0 1.1rem 1rem;color:#f0e5d2!important;text-decoration:none}
+.greek-folder-illustration{width:calc(100% + 2.2rem);height:160px;object-fit:cover;display:block;margin:0 -1.1rem .8rem;border-bottom:1px solid #785f3f}
+.greek-folder-kicker{color:#d8bd89;font:600 .68rem/1.6 system-ui;letter-spacing:.11em;margin-top:.85rem}
+.greek-folder-link strong{font:1.3rem/1.3 Georgia,serif;color:#efd7a6;margin:.45rem 0 .6rem}
+.greek-folder-description{color:#e2d5bc;font:1rem/1.6 Georgia,serif}
+.greek-folder-link small{color:#c8b995;font:.78rem/1.5 system-ui;margin-top:.65rem}
+.greek-folder-arrow{color:#e3be7d;margin-top:.4rem;align-self:flex-end}
+.greek-folder-link:hover,.greek-folder-link:focus-visible{background:#182125;outline:2px solid #e5c38d;outline-offset:-2px}
+.greek-folder-credit{border-top:1px solid #5d4e3a;padding:.45rem 1rem .75rem;color:#d7cab2;font:13px/1.5 Georgia,serif;overflow-wrap:anywhere}
+.greek-folder-credit summary{color:#ead0a4;cursor:pointer}
+.greek-folder-credit p{font-size:.8rem;margin:.55rem 0}
+.greek-folder-credit a{color:#f7dda7;text-decoration:underline}
+@media(max-width:700px){.greek-folder-illustration{height:125px}}
 .greek-folder-toc ul{display:flex;flex-wrap:wrap;justify-content:center;gap:.7rem;list-style:none;padding:0}
 .greek-folder-toc a{display:block;padding:.7rem 1rem;border:1px solid #8b724d;border-radius:5px;color:#ead3a9;text-decoration:none}
 .greek-folder-links{list-style:none;padding:0;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:.8rem 1.6rem}
