@@ -41,6 +41,17 @@ class GaligoDocumentaryIllustrationTests(unittest.TestCase):
         self.assertIn("non reconstitution", figure.get_text(" ", strip=True))
         self.assertLess(str(figure).find("2.5D"), 0)
 
+    def test_portal_card_uses_the_same_verified_folio(self):
+        portal = BeautifulSoup((ROOT / "mythologies" / "index.html").read_text(encoding="utf-8"), "html.parser")
+        link = portal.select_one('a.portal-card[href="/bibliotheque-mythologies-du-monde/mythos-volume-19-la-galigo-bugis-sawerigading/"]')
+        self.assertIsNotNone(link)
+        img = link.select_one('img[data-mythos-card-source="la-galigo-leiden"]')
+        self.assertIsNotNone(img)
+        self.assertEqual(img.get("loading"), "lazy")
+        self.assertIn("La_Galigo_item_29355-0009", img["src"])
+        self.assertIn("Leiden University Libraries", link.get_text(" ", strip=True))
+        self.assertIn("CC BY-SA 4.0", link.get_text(" ", strip=True))
+
     def test_responsive_layout_has_mobile_and_print_rules(self):
         stylesheet = STYLES.read_text(encoding="utf-8")
         self.assertIn(".mythos-manuscript-figure", stylesheet)
