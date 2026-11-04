@@ -10,6 +10,7 @@ from urllib.parse import urlparse, unquote
 from collections import Counter
 from hashlib import sha256
 import json, re, sys
+from sitemap_integrity import canonical_target
 
 out=Path("_site")
 manifest=json.loads((out/"media/manifest.json").read_text(encoding="utf-8"))
@@ -41,8 +42,19 @@ for entry in manifest["files"]:
     stats["media_bytes"]+=len(body)
 if (out/"CNAME").read_text().strip()!="bobmythos.fr": issues.append("Wrong CNAME")
 sitemap=(out/"sitemap.xml").read_text()
+sitemap_urls=set(re.findall(r"<loc>([^<]+)</loc>", sitemap))
 for path in expected:
-    if "https://bobmythos.fr"+path not in sitemap: issues.append("Sitemap missing: "+path)
+    public_url="https://bobmythos.fr"+path
+    if public_url in sitemap_urls:
+        continue
+    # Conserver les lecteurs historiques dans la recherche, tout en excluant
+    # du sitemap les URL non canoniques. La destination DOIT être indexée et
+    # l'archive HTML source DOIT toujours exister sur le disque.
+    canonical=canonical_target(out, path)
+    if canonical and canonical != public_url and canonical in sitemap_urls:
+        stats["historical_canonical_aliases"] += 1
+        continue
+    issues.append("Sitemap missing: "+path)
 stats["indexed"]=len(catalogue)
 stats["html_files"]=len(pages)
 page_ids = {}
