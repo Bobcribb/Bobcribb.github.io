@@ -291,6 +291,18 @@
           "path": "chapitres/origines-du-sacre/620-sippar-laine-shamash-misarum-ammi-ditana-creances.md",
           "request_sha256": "af0619df6c49264ffd088780c90ba87545a81b605d4f50ad7f2eec73330a368b",
           "initial_source_sha256": "681738aaa213e292c1d339f4d7ce14fa1b2fadcbac11380e8c9649437a67ee2f"
+        },
+        "4a61ce31-e824-4cf6-bf36-63d212d45ca2": {
+          "number": 621,
+          "path": "chapitres/origines-du-sacre/621-eteindre-dette-briser-tablette-quittance-double-creance.md",
+          "request_sha256": "05dbe1afc90bbd109c721251f446d60e29ea5309950ead7bf774c8341535e193",
+          "initial_source_sha256": "dab8c876a6d4c2774d2e926b045a4328317844539cb43405876b4a5de5b9d3bd"
+        },
+        "ce7dfb9a-3f0b-4a81-86f6-cbd49657e2ec": {
+          "number": 622,
+          "path": "chapitres/origines-du-sacre/622-serment-dette-paiement-preuve-temoins-divins.md",
+          "request_sha256": "07291e433590c9e4fae492d064a2f8b0eb75ff75cec78db357285c9f951365e2",
+          "initial_source_sha256": "37babdc5173909aab491e14fa01815f547a30a8cec1699e6271f575bced3e314"
         }
       }
     },
@@ -550,6 +562,18 @@
           "path": "chapitres/encyclopedie/chapitre-390-kairos-occasion-juste-moment-olympie-lysippe-art-action-philosophie.md",
           "request_sha256": "04de48344ad33343a7124a4d8d6546b34f869ab4c124742664f149c431bf6d0d",
           "initial_source_sha256": "86b06c861f84d81eebb14cc827e7350f63b3156745b09eaff148bc5d7577f419"
+        },
+        "c11dc93a-6fa2-435e-a6b4-833991659b42": {
+          "number": 391,
+          "path": "chapitres/encyclopedie/chapitre-391-aristee-abeilles-oliviers-ceos-olbia-giens-orphee-eurydice.md",
+          "request_sha256": "197abfd289d7c942f119dcab6b409109a81b545d3697975071ecd529ab462420",
+          "initial_source_sha256": "0a8b4a951ec90daf67fc47dfef50f325225c42e1e96b72bf1e84d0e077d28458"
+        },
+        "e3b50ab4-20ef-43f6-972e-8ef13c580c2a": {
+          "number": 392,
+          "path": "chapitres/encyclopedie/chapitre-392-horme-elan-impulsion-action-agora-stoiciens.md",
+          "request_sha256": "64c0718d540e8f48e2003291c05e137959a32ea4c463d98d6827c778d377e1e6",
+          "initial_source_sha256": "8acac8acbc71f449480406d5657e22ed1eeca95a719375a39db91cf8f6470231"
         }
       }
     },
@@ -730,6 +754,12 @@
           "path": "chapitres/comedies/volume-078-ameipsias-apokottabizontes-cottabe-banquet-jeu-justice.md",
           "request_sha256": "016245ecd108b40b518a017640206ccfe1de9c3a65bae83c12fc19a608f3ad7b",
           "initial_source_sha256": "a1ffa2ee52c3272f9cc9ffe16a1fdfc5e4049f81e4d726b380a95f70c53487d9"
+        },
+        "6b3e72d1-8f0c-4d9a-9235-0bd469e63a71": {
+          "number": 79,
+          "path": "chapitres/comedies/volume-079-apollophanes-kretes-culte-etranger-dialecte-myrte-vin-rire.md",
+          "request_sha256": "6be5a4839708782b9e66fee609cbb56eb81954ad3931a5b4625389503251385f",
+          "initial_source_sha256": "ec659c941339cfe20e03f1930351da12617826a8aea61b4c130e70737e23839e"
         }
       }
     },
@@ -940,6 +970,18 @@
           "path": "chapitres/tragedies/volume-ccxviii-pirithoos-pseudo-euripide-critias-heracles-thesee-eleusis-amitie-justice.md",
           "request_sha256": "2d69bd061715ca2f5bac5bd0e41e292f8b4b20a3fa6830857497d526af712e72",
           "initial_source_sha256": "e7d56f58b6976a22c37e328e3aef1cda631eb6b5a8abdec85a58361ac363c9fe"
+        },
+        "50b41d72-83a6-4ba1-a8fe-726cd3b95540": {
+          "number": 219,
+          "path": "chapitres/tragedies/volume-ccxix-euripide-peleus-purification-calomnie-pelion-chiron-thetis.md",
+          "request_sha256": "d4a2bebd5fdb7107b990e96885baa78c14994d5e1ff3580595928985b5f79d8f",
+          "initial_source_sha256": "04da3841e0b317df61b7614a605233916999752e6b4c582b12ba6da528c8d80e"
+        },
+        "f1d43c0a-2b5e-4783-95f2-2bc4d7f9e681": {
+          "number": 220,
+          "path": "chapitres/tragedies/volume-ccxx-sophocle-chryses-filiation-reconnaissance-hygin-pacuvius.md",
+          "request_sha256": "8cd3c143d714393124a9db80e1008f9b33e2c69f62ae4882db68adac04e5821d",
+          "initial_source_sha256": "f30fc934339307aa8c3bc50430d1205a6a4a74c47fe7cbdfd4f4a802bf2fedb2"
         }
       }
     },
@@ -1327,6 +1369,30 @@
           "path": "chapitres/comparatif/volume-ccv-ploutos-penia-travail-justice-theodicee-economique-388.md",
           "request_sha256": "f8513d81d288c272cb48800f0cfd9a3d8157a63e05de4b3160d0d0919cb9ab34",
           "initial_source_sha256": "c5b0e0edcec843b256eeaf279cbe1fe3e3d45e9c599cd5fe922fa6bb1af955fb"
+        },
+        "13bace85-91d4-43af-9dd2-a7bd28d9e410": {
+          "number": 206,
+          "path": "chapitres/comparatif/volume-ccvi-mc-035-gardiens-seuil-lamassu-sphinx-egypte-assyrie-grece-perse.md",
+          "request_sha256": "6d6e3916c00b727c18220c250eebf1c1cea197262aea9e9c7b69d01c3f8f7a31",
+          "initial_source_sha256": "99b0c674cbc1eba5bbd8ef934800aba906186174548bfa9a37df6a0312ed28fe"
+        },
+        "2f936c85-40d6-45eb-b3ef-9bcf7c917d38": {
+          "number": 207,
+          "path": "chapitres/comparatif/volume-ccvii-mc-038-messagers-divins-ninshubur-hermes-iris-agni-malak-thot-intercession.md",
+          "request_sha256": "b54fe791e9ef58f1caa8fab46c3dae634d54c90aa26eaf9b8d6d6efacd0b4b7b",
+          "initial_source_sha256": "6ab4729e8dbed8a0a028365aaf617b3826d22dd1ebc8a706d7e342eaaf10207b"
+        },
+        "d7a83c41-69b2-4f05-8e1d-0b2c7fa9e634": {
+          "number": 208,
+          "path": "chapitres/comparatif/volume-ccviii-paix-aristophane-sortie-guerre-rites-economie-demobilisation.md",
+          "request_sha256": "e9f5e76f7b5026c03dde84554d94231f6bbd4f079ca42adca927ba343265ad4e",
+          "initial_source_sha256": "ef45d6139d2688fd549676992c7a6765af1394e8232ad4a36f33b7d3fd116faa"
+        },
+        "d7a93e41-6790-4ee5-b6fa-18bb57c94132": {
+          "number": 209,
+          "path": "chapitres/comparatif/volume-ccix-mc-036-parler-aux-morts-lettres-necromancie-oracles-egypte-mesopotamie-grece-israel-shang.md",
+          "request_sha256": "721b5556ccae7e8c5f14c2506c17c334e971037d314986c98a094a8bfe0e315c",
+          "initial_source_sha256": "00a173376b5e92c2eaae6d0e1ce83555a83fb36caee4404670334ee8e4f89603"
         }
       }
     }

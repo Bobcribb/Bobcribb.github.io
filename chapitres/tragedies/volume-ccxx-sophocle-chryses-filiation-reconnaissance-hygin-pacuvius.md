@@ -1,0 +1,495 @@
+# MYTHOS — Encyclopédie des tragédies grecques — Volume CCXX (220)
+
+## Sophocle, *Chrysès* (Χρύσης) — Le prêtre, le fils caché, la reconnaissance et les métamorphoses d'un mythe troyen
+
+**Étude universitaire intégrale, philologique, historique et philosophique — œuvre perdue de Sophocle, genre exact débattu.**
+
+**État du dossier.** Le titre *Chrysès* est transmis pour une pièce perdue attribuée à Sophocle, mais on ignore si l'œuvre était une tragédie au sens strict ou éventuellement un drame satyrique. La référence scientifique principale est **Stefan Radt, Tragicorum Graecorum Fragmenta, vol. 4, Sophocles, fragments 726–730**, édition révisée et augmentée de 1999. Cinq fragments courts sont associés au titre ; ils sont très insuffisants pour reconstruire une action continue. L'édition commentée d'A. C. Pearson, *The Fragments of Sophocles*, vol. II, Cambridge, 1917, p. 327–330, est historiquement indispensable pour leurs témoins et leurs conjectures. Dans son livre *The Lost Plays of Greek Tragedy*, vol. II (2019), Matthew Wright souligne que les cinq fragments ne résolvent pas la question de l'identité du héros : le vieux prêtre d'Apollon de l'*Iliade* ou son petit-fils homonyme, fils de Chryséis dans un récit ultérieur.
+
+**Trois strates à ne jamais fusionner sans justification.** Premièrement, *Iliade* I : Chrysès, père de Chryséis, demande sa libération à Agamemnon, qui refuse ; Apollon frappe l'armée et la jeune femme est ensuite restituée. Deuxièmement, Hygin, *Fables* 120–121 : un jeune Chrysès, fils de Chryséis et d'Agamemnon, découvre que les fugitifs Oreste et Iphigénie sont ses demi-frère et demi-sœur ; il les aide finalement contre Thoas. Troisièmement, la pièce *Chrysès* de Sophocle : le titre et les cinq fragments sont attestés, mais **l'identification de son scénario à Hygin est une hypothèse**, non un résumé antique explicitement attribué à Sophocle. Une quatrième strate, la tragédie latine *Chryses* de Pacuvius, est une réception créatrice dont la relation exacte au grec perdu demeure débattue.
+
+**Problématique.** En quoi une identité cachée peut-elle renverser l'obligation d'obéir, de punir et de protéger ? Comment la mère détentrice d'un secret généalogique modifie-t-elle les alliances du fils, et quel rapport l'autorité du dieu Apollon entretient-elle avec l'autorité du roi ? Le commentaire utilisera Platon, Hegel, Nietzsche et Aristote comme comparaisons philosophiques modernes, jamais comme témoignages directs de la pensée du poète dans une pièce perdue.
+
+**Notation critique.** [F] = fragment textuel transmis sous le titre, avec sa référence Radt ; [S] = scholie ou lexicographe, parfois avec variante ou émendation ; [M] = récit mythographique extérieur au drame ; [C] = conjecture ou reconstruction moderne ; [P] = comparaison philosophique. Aucune scène, aucun personnage parlant ni aucun vers grec absent des éditions n'est fabriqué. Le texte ne réserve aucun numéro éditorial futur : seul le workflow GitHub dispose de cette compétence.
+
+### Sommaire
+
+1. Pourquoi *Chrysès* exige un volume indépendant
+2. L'homonymie : grand-père ou petit-fils ?
+3. Quels sont réellement les cinq fragments ?
+4. Fragment 726 : Hestia, le commencement rituel et la maison
+5. Fragment 727 : la « houe de Zeus » et la citation par Aristophane
+6. La scholie des *Oiseaux* 1240 et la date de 414
+7. Fragment 728 : le « morceau de chair » et le ton du drame
+8. Fragment 729 : le premier duvet de la barbe
+9. Fragment 730 : l'eschara et le bômos
+10. Le problème du genre : tragédie ou drame satyrique ?
+11. La pièce et sa datation : deux ordres d'influence possibles
+12. Homère, *Iliade* I : Chrysès l'aîné et la supplication
+13. Agamemnon, Chryséis et la crise du commandement
+14. Le prêtre d'Apollon et la puissance de l'oracle
+15. La restitution de Chryséis et les limites du récit homérique
+16. Hygin, *Fable* 120 : la fuite des Tauriens
+17. Hygin, *Fable* 121 : la naissance du jeune Chrysès
+18. La mère, le secret de paternité et le prestige divin
+19. La rencontre avec Oreste et Iphigénie
+20. Thoas : la revendication d'un pouvoir de restitution
+21. La reconnaissance des demi-frères : quelle valeur de preuve ?
+22. Fraternité retrouvée et renversement d'alliance
+23. Le meurtre de Thoas : dénouement chez Hygin, pas chez Sophocle
+24. L'île Sminthe, Chryse et la géographie instable
+25. La légende de Chrysopolis et l'autre fin possible
+26. Pacuvius, *Chryses* : l'adaptation latine n'est pas une copie
+27. Fortuna, religio et rationalité chez Pacuvius
+28. La discussion de la chronologie relative des œuvres
+29. Trois reconstructions concurrentes sans scènes inventées
+30. Le chœur et le décor : un silence qui compte
+31. Platon : la filiation, les signes et le devoir de vérité
+32. Hegel : la reconnaissance et la parenté redécouverte
+33. Nietzsche : identité, force, illusion et fidélité
+34. Aristote : anagnôrisis et péripétie sous condition
+35. Comparaison avec *Iphigénie en Tauride*, *Électre* et *Palamède*
+36. Images antiques : le cratère du Louvre et le témoignage visuel
+37. Tableau critique des sources et des hypothèses
+38. Bibliographie primaire et travaux universitaires
+39. Conclusion : ne pas confondre la vie du mythe et la scène perdue
+
+---
+
+### 1. Un titre certain, une intrigue qui ne l'est pas
+
+La pièce de Sophocle intitulée *Chrysès* appartient à la partie la plus fragile du théâtre grec. Elle est connue par des citations très brèves et par la discussion de titres dans des scholies. Le scénario n'est transmis par aucune *hypothesis* antique explicitement identifiée comme celle de Sophocle. La force du récit connu chez Hygin a conduit de nombreux historiens à lui attribuer ce scénario, mais la comparaison ne constitue pas une preuve documentaire directe.
+
+La prudence est d'autant plus nécessaire que deux personnages portent le même nom dans des traditions différentes : un prêtre âgé dont l'*Iliade* raconte le conflit avec Agamemnon, et un jeune homme que Hygin fait naître de Chryséis. La pièce pouvait raconter le premier, le second, ou exploiter leur relation. Il n'est pas certain qu'elle était même une tragédie, car plusieurs fragments possèdent un ton qui a été interprété comme comique ou satyrique.
+
+C'est précisément pourquoi MYTHOS doit traiter ce dossier. L'étude d'une œuvre perdue n'est pas seulement un exercice de restitution narrative ; elle est un exercice de critique des conditions dans lesquelles des noms et des événements circulent d'un texte à l'autre. Les témoignages sont peu nombreux, mais ils nous obligent à distinguer le travail du poète, celui des grammairiens et celui des lecteurs modernes.
+
+### 2. Deux Chrysès et plusieurs relations de parenté
+
+Le vieux Chrysès, prêtre d'Apollon, est le père de Chryséis, captive attribuée à Agamemnon lors du partage du butin. Chez Homère, son importance n'est pas celle d'un roi : il représente un lien religieux avec une divinité qui refuse l'humiliation de son serviteur. Le nom de Chrysès est associé à Chryse, lieu de culte d'Apollon en Troade, et aux épithètes du dieu.
+
+Le second Chrysès apparaît dans un récit mythographique qui prolonge l'aventure. Chryséis aurait été renvoyée enceinte d'Agamemnon ; pour éviter de révéler la paternité humaine, elle aurait déclaré que l'enfant était né d'Apollon. Le jeune homme ne connaîtrait donc pas sa vraie filiation lorsqu'il rencontrerait les deux enfants légitimes du roi, Oreste et Iphigénie. L'ignorance serait un facteur de danger et sa levée une cause de salut.
+
+Les deux histoires sont compatibles au niveau de la succession mythique, mais elles ne viennent pas du même témoin. La version d'Hygin ne peut être présumée présente chez Homère ; la situation dramatique de Sophocle n'est pas une somme automatique des deux. Le titre *Chrysès* ne fournit aucune indication sur lequel des homonymes occupait la première place.
+
+### 3. Les cinq fragments 726–730 Radt et leur nature
+
+Stefan Radt, *TrGF* 4, classe les fragments **726–730** sous le titre *Chrysès*. Ils survivent dans des scholies à Aristophane, des remarques de grammairiens et des lexiques. Leurs thèmes sont discontinus : une formule sur Hestia, une image de la « houe de Zeus », une périphrase familière liée à la chair, une notation de barbe naissante et un mot d'autel. Rien n'indique l'ordre original de ces passages.
+
+Cinq fragments ne signifient pas cinq scènes. Deux passages différents peuvent avoir appartenu à une seule prise de parole, tandis que des citations semblables pouvaient être séparées par de longues séquences chorales ou narratives. Certains témoins transmettent seulement des mots ; les variantes manuscrites rendent parfois incertaine une partie de la phrase.
+
+Les numéros de Radt sont ici ceux d'une édition critique de Sophocle, non ceux des fables d'Hygin. Un texte ancien cité par un grammairien se présente différemment d'un récit complet connu par un mythographe. La transmission des fragments doit être comprise avant toute tentative d'interprétation dramaturgique.
+
+Le commentaire d'A. C. Pearson, vol. II, p. 327–330, constitue une source précieuse pour l'histoire des lectures. Il est antérieur à plusieurs discussions modernes, mais il expose explicitement les divergences sur la datation, le genre et la relation aux pièces latines. Son avis n'est pas une autorité qui dispense de contrôler Radt.
+
+### 4. Fragment 726 : Hestia comme commencement rituel
+
+Le fragment **726 Radt**, attesté notamment dans une scholie aux *Guêpes* d'Aristophane, v. 846, et une scholie à Pindare, porte sur Hestia comme commencement de la vénération ou du sacrifice. Cette allusion inscrit le vocabulaire du foyer au seuil de l'action religieuse. Le nom de la déesse représente la continuité de la maison et de l'autel, mais la formule peut être également proverbiale.
+
+Pearson rapproche le fragment des usages grecs où l'on offre d'abord à Hestia, et de l'expression signifiant « commencer par Hestia », autrement dit commencer par le début. Cette valeur proverbiale complique l'interprétation : les mots pouvaient être prononcés lors d'un rituel réel dans la pièce, ou fonctionner comme comparaison pour une démarche correcte.
+
+Si le jeune Chrysès était effectivement prêtre d'Apollon, une invocation à Hestia pourrait paraître appropriée à un sanctuaire. Mais ce rapprochement est une conjecture. Rien ne démontre que le personnage accomplissait un sacrifice au moment de la citation ni qu'un autel était visible. Les scholies transmettent une formule, non une didascalie.
+
+La dimension philosophique du fragment est la place de l'ordre dans l'action humaine. Commencer par le foyer, c'est inscrire un acte dans une continuité reconnue ; le mythe du jeune homme dont la filiation est cachée pourrait mettre cette continuité en question. La connexion demeure interprétative.
+
+### 5. Fragment 727 : la houe de Zeus et la parodie
+
+Le fragment **727 Radt** est discuté dans une scholie aux *Oiseaux* d'Aristophane, v. 1240. Il contient l'image singulière d'un instrument de terrassement associé à Zeus et à un acte de renversement ou de destruction. Le mot grec *makella* désigne un outil proche de la houe ou de la pioche, employé pour rompre le sol ; l'assimilation à une « bêche » doit être comprise de façon approximative.
+
+La scholie attribue l'expression à Sophocle, mais les manuscrits présentent une leçon du titre qui a fait débat. Pearson suit l'émendation qui rattache la citation à *Chrysès*. Il rappelle également la proximité de l'image avec l'*Agamemnon* d'Eschyle, v. 525–526, où la destruction de Troie est pensée sous l'image d'un instrument de justice divine.
+
+L'enjeu philologique est donc triple : la leçon de la scholie, la relation à Eschyle et l'usage par Aristophane. La phrase pourrait relever d'un contexte grave ou paratragique, mais on ne connaît ni le sujet précis du verbe ni celui qui parle. Il serait donc abusif d'en faire une menace d'Apollon contre Agamemnon ou une prophétie particulière sur Thoas.
+
+Son importance se situe à la frontière des genres : la tragédie fournit à la comédie une image solennelle susceptible d'être déformée pour produire le rire.
+
+### 6. Les *Oiseaux* 1240 et le problème du terminus
+
+Les *Oiseaux* d'Aristophane ont été représentés en **414 av. J.-C.** Une scholie au vers 1240 voit dans l'expression qui y apparaît un écho d'une formule sophocléenne. Si la scholie a raison sur la direction de l'emprunt et l'identification de *Chrysès*, la pièce de Sophocle aurait nécessairement précédé 414.
+
+Il s'agit cependant d'un raisonnement conditionnel. Emily Kearns, dans son commentaire de l'*Iphigénie en Tauride* d'Euripide (Cambridge, 2023, introduction, p. 8–9), rappelle qu'une solution concurrente consiste à inverser la direction de l'imitation : Sophocle pourrait avoir réutilisé un motif déjà présent chez Aristophane, lui-même rapproché d'Eschyle. C. W. Marshall a défendu une telle possibilité en 2009.
+
+La date de *Chrysès* est donc loin d'être assurée par cette scholie. L'argument peut donner une borne ancienne si on admet l'identification, ou perdre sa valeur chronologique si l'ordre d'emprunt est différent. Une allusion supposée ne remplace pas une didascalie de concours.
+
+C'est un cas exemplaire des dangers de la chronologie fondée sur la réception. On ne doit pas transformer une relation textuelle discutée en « représenté en 415 » ou en « créé après 413 ». L'incertitude doit demeurer explicitement visible.
+
+### 7. Fragment 728 : la chair et l'étrangeté du ton
+
+Le fragment **728 Radt**, cité dans une scholie aux *Grenouilles* d'Aristophane, v. 191, conserve une périphrase utilisant le mot *kreas*, « chair » ou « morceau de viande », pour désigner une personne ou une partie du corps. Pearson signale le caractère familier et surprenant de cette expression dans un contexte tragique.
+
+Le problème n'est pas qu'un mot ordinaire serait interdit aux tragédies. Les poètes tragiques peuvent employer une langue concrète, et la violence des corps y possède une grande place. Mais certaines associations lexicales évoquent ici le registre comique ou satyrique. Pearson y voit un indice possible en faveur d'un drame satyrique.
+
+Ce jugement n'est pas une démonstration. Le fragment peut être détourné de son contexte, la citation peut être transmise avec des variantes, et la situation dramatique pouvait expliquer une expression atypique. Les lecteurs modernes ne possèdent pas le ton de la performance : une phrase prononcée sérieusement, ironiquement ou dans la bouche d'un personnage grotesque peut changer d'effet.
+
+Le dossier doit donc enregistrer cette anomalie comme argument de genre, non comme preuve définitive. En particulier, il serait abusif d'imaginer sans autre appui que des satyres chantaient autour de Chrysès.
+
+### 8. Fragment 729 : le premier duvet de la barbe
+
+Le fragment **729 Radt** est transmis par le lexique homérique d'Apollonios le Sophiste et rapproché d'une notice d'Hésychios. Il concerne les premiers poils apparaissant sur le menton, le duvet qui marque la transition entre l'adolescence et l'âge adulte. Pearson discute les différentes leçons du verbe et du substantif, montrant combien une microcitation peut être difficile à fixer.
+
+Cette allusion invite immédiatement à penser au jeune Chrysès, fils supposé d'Apollon chez Hygin, qui aurait atteint un âge où il pouvait agir en homme. Mais le fragment ne nomme pas son locuteur ni la personne dont il est question. La barbe pourrait être évoquée par un vieil homme, par le héros lui-même, dans une plaisanterie ou dans une comparaison.
+
+La dimension anthropologique est claire : le visage masculin est un signe visible d'âge et de statut social. Pourtant le récit de la paternité cachée met en question la valeur des apparences ; un homme peut présenter les signes de l'âge adulte sans connaître l'histoire de sa propre naissance.
+
+Ce rapprochement reste une interprétation, non la restitution d'une scène où la mère dévoilerait le secret en contemplant le visage de son fils.
+
+### 9. Fragment 730 : l'eschara et le bômos
+
+Le fragment **730 Radt** est une notice lexicographique qui rapproche le mot *eschara* d'un autel, *bômos*. Ammonios et Eustathe signalent l'emploi sophocléen dans *Chrysès*. Le lexique de l'autel était lié à la pratique sacrificielle et pouvait avoir des emplois divers selon le type de structure et de rituel.
+
+Il faut se garder de transformer le terme en indication scénographique. Une citation d'un mot peut servir à expliquer une désignation archaïque ; elle ne dit pas si un autel figurait sur scène, si l'action se situait dans un temple ou si un sacrifice s'accomplissait pendant la représentation.
+
+Ce fragment rejoint pourtant le 726 au niveau du champ religieux. Le vocabulaire d'Hestia et celui de l'autel sont cohérents avec un monde où l'autorité du prêtre et les rites occupent une place reconnue. C'est une compatibilité thématique, non un scénario.
+
+Une question intéressante subsiste : si la pièce racontait le conflit entre l'obligation d'hospitalité et l'ordre d'un pouvoir violent, l'autel aurait pu constituer un lieu de refuge. Mais sans témoin direct du geste de supplication, ce motif appartient au niveau de la reconstruction prudente.
+
+### 10. Était-ce nécessairement une tragédie ?
+
+L'attribution à Sophocle ne règle pas la classification de l'œuvre. Certains fragments possèdent un lexique inhabituel pour une tragédie sérieuse. Pearson relève que deux ou trois passages paraissent comiques, ce qui rend possible l'hypothèse d'un **drame satyrique**. La question doit être posée explicitement afin de ne pas transformer un titre transmis parmi les fragments de Sophocle en certitude générique.
+
+Le drame satyrique appartient au spectacle théâtral attique, mais il possède ses conventions propres : chœur de satyres, tonalité burlesque, détournement des récits héroïques, réconciliation ou inversion des valeurs. Des actions sérieuses pouvaient être réemployées dans un tel cadre.
+
+Il serait cependant non moins abusif de décréter que *Chrysès* était un drame satyrique. Aucun chœur de satyres n'est attesté directement dans les fragments survivants ; le ton de quelques citations peut résulter d'un effet particulier dans une pièce tragique.
+
+La position scientifique la plus défendable est donc : « œuvre dramatique perdue de Sophocle, habituellement étudiée avec les tragédies perdues, genre exact discuté ». Cette formule préserve l'intégrité du catalogue sans imposer une caractérisation définitive.
+
+### 11. L'ordre des œuvres de Sophocle et d'Euripide
+
+La datation du *Chrysès* est étroitement liée au débat sur l'*Iphigénie en Tauride* d'Euripide, souvent située autour de 414–413 av. J.-C., avec des réserves concernant l'année exacte. Si Sophocle avait composé *Chrysès* avant 414 et si le récit d'Hygin reproduisait sa pièce, une forme du voyage de retour d'Iphigénie et d'Oreste serait déjà accessible avant l'œuvre d'Euripide.
+
+Cette possibilité a conduit plusieurs chercheurs à envisager une influence de Sophocle sur Euripide. Mais Emily Kearns remarque que la fable d'Hygin se présente comme la **continuation** d'une histoire déjà résolue : Oreste et Iphigénie se sont échappés, Thoas revient les menacer, une nouvelle reconnaissance surmonte l'obstacle.
+
+Si ce récit est vraiment celui de Sophocle, il serait alors naturel de voir Sophocle prolongeant Euripide. Mais pour retenir ce scénario il faut relativiser ou inverser l'indice des *Oiseaux*. Ni la relation textuelle ni la datation ne sont assurées.
+
+La solution critique consiste à présenter deux modèles chronologiques concurrents, plutôt qu'à choisir définitivement celui qui produit la plus belle histoire des emprunts littéraires.
+
+### 12. L'*Iliade* I : l'origine homérique du prêtre
+
+Dans le premier chant de l'*Iliade*, Chrysès vient auprès des Achéens pour demander la libération de Chryséis, captive attribuée à Agamemnon. Il apporte une rançon et les signes de son statut de prêtre d'Apollon. Les autres Achéens approuvent l'idée de respecter le prêtre et d'accepter les présents, mais Agamemnon refuse et chasse le vieillard par des paroles menaçantes.
+
+Le conflit n'est pas une simple dispute privée. La demande du père fait apparaître une norme commune que le commandant suprême refuse de suivre. Chrysès se retire et prie Apollon, qui frappe l'armée d'une épidémie. La décision d'Agamemnon met ainsi en péril ceux qu'il commande.
+
+Homère offre une structure dramatique forte : le plus puissant des hommes refuse une norme de respect, tandis qu'un prêtre sans armée mobilise une puissance supérieure. Le récit peut être lu comme un conflit entre autorité politique et obligation religieuse.
+
+Mais la présence de ce conflit dans l'épopée n'implique pas qu'il était le sujet de la pièce perdue. Sophocle pouvait choisir le vieillard comme protagoniste, reprendre une scène homérique célèbre ou déplacer l'action vers la génération suivante.
+
+### 13. Agamemnon, Chryséis et les limites de la force
+
+Agamemnon traite Chryséis comme une part de butin, au milieu d'une logique militaire qui convertit des personnes capturées en objets de prestige et de répartition. La demande de Chrysès s'oppose à ce pouvoir d'appropriation : elle exige de reconnaître un lien familial antérieur à la victoire des Achéens.
+
+La crise met en relation plusieurs biens incompatibles : la réputation du chef, les décisions du partage, les obligations envers le prêtre et la sécurité du camp. En refusant, Agamemnon présente son autorité comme s'il n'avait pas à en rendre compte ; le résultat démontre au contraire sa dépendance à l'égard d'un ordre qui le dépasse.
+
+Chryséis, dans la version homérique, parle peu ou pas dans les passages centraux de la querelle. Ce silence narratif ne justifie pas l'invention de ses sentiments ou de ses discours dans la pièce de Sophocle. La figure féminine peut devenir importante dans les développements ultérieurs précisément parce qu'elle possède une information sur la filiation du jeune Chrysès.
+
+L'analyse ne doit pas transformer ce silence ancien en consentement. L'absence de parole dans un texte n'efface ni la condition captive ni les violences structurelles du partage.
+
+### 14. Apollon, Smintheus et la puissance d'un prêtre
+
+Le prêtre Chrysès sert Apollon, invoqué sous ses épiclèses locales, dont Smintheus. Dans l'*Iliade*, l'action du dieu répond à l'humiliation d'un serviteur. La peste sur l'armée fait apparaître une solidarité entre le prestige du dieu et celui d'un homme qui lui appartient rituellement.
+
+La présence de l'épiclèse Smintheus conduit vers Chryse et vers diverses localisations du culte sur la côte anatolienne ou les îles voisines. Strabon, dans sa *Géographie*, connaît plusieurs lieux associés à Apollon Smintheus, ce qui complique l'identification univoque de l'île Sminthe chez Hygin.
+
+Si Sophocle exploitait le grand-père prêtre, un sanctuaire d'Apollon pouvait jouer un rôle. Si l'action concernait son petit-fils, le même prestige religieux pouvait être revendiqué pour une raison plus problématique : le jeune homme croyait, selon Hygin, avoir été engendré par le dieu.
+
+Ce parallèle renforce le thème de l'identité, mais ne prouve pas que la pièce dramatise l'oracle ou l'invocation initiale. L'épiclèse appartient au mythe religieux ; son emploi scénique exact reste inconnu.
+
+### 15. Le retour de Chryséis chez son père
+
+Dans l'*Iliade* I, après l'épidémie, Agamemnon accepte de rendre Chryséis, tandis qu'il réclame une autre compensation. Le transfert provoque une nouvelle injustice envers Achille et ouvre la grande colère du poème. La restitution de la captive n'efface donc pas le système de compétition entre chefs ; elle déplace la violence et les pertes de prestige.
+
+Le récit homérique ne dit pas que Chryséis revient enceinte d'Agamemnon, ni qu'elle prétend avoir conçu de son dieu protecteur. Cette précision appartient au récit beaucoup plus tardif d'Hygin. L'inscrire dans un résumé d'Homère serait une erreur factuelle.
+
+La distinction est cruciale parce qu'elle permet de mesurer la créativité mythographique : une scène célèbre du début de l'épopée devient le point de départ d'une généalogie nouvelle. Un enfant non nommé dans le poème devient le héros d'une histoire qui relie la Troade à la fuite d'Oreste.
+
+Cette évolution témoigne de l'ouverture des traditions grecques à des continuations. Il ne s'agit pas d'un simple complément documentaire de l'épopée, mais d'une réécriture de ses conséquences.
+
+### 16. Hygin, *Fables* 120 : la sortie du pays taurique
+
+La *Fable* 120 d'Hygin résume l'action qui rapproche Oreste et Iphigénie du pays des Tauriens, où la prêtresse d'Artémis reconnaît son frère et contribue à lui éviter un sacrifice. Le récit correspond sur plusieurs points à l'*Iphigénie en Tauride* d'Euripide, mais il représente un abrégé mythographique et non sa traduction littérale.
+
+Selon Hygin, les fugitifs, ayant emporté l'image d'Artémis, naviguent vers l'île Sminthe, associée à Chrysès. La *Fable* 121 prend le relais et introduit une autre crise. C'est cette disposition qui a encouragé plusieurs savants à penser qu'Hygin conservait la matière de la pièce perdue de Sophocle.
+
+Mais le raisonnement comporte une lacune : Hygin ne nomme pas Sophocle comme sa source pour cette continuation. Il pouvait utiliser une tradition composée à partir de plusieurs œuvres, une tragédie latine ou une autre mise en récit.
+
+Le rapport entre les deux fables est donc narrativement cohérent, sans devenir une preuve d'attribution. La continuité d'un récit latin n'est pas la continuité d'une tétralogie grecque documentée.
+
+### 17. Hygin, *Fables* 121 : le jeune Chrysès
+
+La *Fable* 121 raconte qu'après sa restitution à son père, Chryséis donne naissance à un jeune garçon appelé Chrysès. Elle affirme être demeurée intacte de l'union avec Agamemnon et prétend que le père de l'enfant est Apollon. Lorsque les fugitifs Oreste et Iphigénie arrivent, le jeune Chrysès reçoit une demande de les remettre à Thoas.
+
+La situation s'inverse lorsque Chryséis apprend la véritable identité des voyageurs : ils sont fils et fille d'Agamemnon. Elle révèle alors au jeune Chrysès la paternité qu'elle avait cachée. Celui-ci découvre qu'il est leur demi-frère et cesse d'être simplement l'autorité locale qui doit décider de les livrer.
+
+Le récit aboutit à une alliance contre Thoas, et les fugitifs regagnent la Grèce avec l'image d'Artémis. Cette suite est riche en possibilités tragiques : la vérité cachée par la mère, le conflit entre obéissance publique et solidarité familiale, le renversement d'une décision et le danger d'une reconnaissance trop tardive.
+
+Tout ce développement est **attesté chez Hygin**, non dans les cinq fragments sophocléens. La distinction doit demeurer à chaque étape.
+
+### 18. Chryséis : une mère entre protection et secret
+
+Dans la tradition d'Hygin, Chryséis donne à son fils une filiation divine fictive. Le motif peut être interprété de plusieurs manières sans fixer définitivement sa psychologie : protection contre le déshonneur, souci de donner un statut honorable à l'enfant, crainte des conséquences politiques d'une paternité humaine ou relation privilégiée au sanctuaire d'Apollon.
+
+Le texte ne contient pas une confession intérieure de Chryséis qui nous permettrait de choisir une seule motivation. Il rapporte une parole et ses conséquences. La mère détient un savoir que son fils ne possède pas, et elle contrôle longtemps la façon dont il se représente lui-même.
+
+L'intérêt tragique d'une telle situation vient du conflit entre deux vérités sociales. Le jeune homme est élevé comme fils d'un dieu ; il est, selon la révélation maternelle, fils d'Agamemnon et frère de ceux qu'on lui demande de livrer. L'identité n'est pas seulement un fait biologique : elle détermine des obligations morales et politiques.
+
+Si Sophocle avait employé cette intrigue, Chryséis aurait pu disposer d'un rôle majeur. Mais nous n'avons pas le droit de lui inventer un long monologue ni de supposer sa présence sur scène à partir du seul récit mythographique.
+
+### 19. L'arrivée d'Oreste et d'Iphigénie
+
+Les fugitifs arrivent, chez Hygin, après avoir échappé à un danger au pays des Tauriens. Leur parcours exige le transport d'une image sacrée et les expose à la poursuite de Thoas. L'île Sminthe apparaît comme un nouvel obstacle au retour, et non comme un refuge définitivement acquis.
+
+Cette structure semble familière à qui lit les tragédies de reconnaissance : un personnage entre dans un espace étranger où son identité n'est pas connue, et sa sécurité dépend de la capacité d'autrui à identifier correctement sa parenté. La situation est dangereuse parce que les mêmes étrangers peuvent être considérés comme fugitifs, ennemis ou membres d'une famille.
+
+Le jeune Chrysès, en ignorant sa filiation, pourrait faire le mauvais choix sans nécessairement être un homme malveillant. La tragédie mettrait alors au premier plan les effets d'une erreur de connaissance, non un simple affrontement du bien et du mal.
+
+Mais l'hypothèse reste conditionnelle. Rien ne prouve que l'œuvre de Sophocle commençait après la fuite taurique ni que l'arrivée était montrée plutôt que racontée par un messager.
+
+### 20. Thoas et la souveraineté sur les étrangers
+
+Dans l'*Iphigénie en Tauride*, Thoas est le souverain qui contrôle l'accès au sanctuaire et les pratiques de sacrifice. La fuite d'Oreste et d'Iphigénie met en cause son autorité sur les captifs et sur l'image d'Artémis. Chez Hygin, il demeure un danger même après le départ des fugitifs : il cherche à les récupérer.
+
+L'ordre adressé au jeune Chrysès l'obligerait à décider de remettre des individus dont la situation réelle lui échappe. Obéir pourrait signifier reconnaître la souveraineté d'un autre roi ; refuser pourrait déclencher un conflit politique. La découverte de la fraternité change l'évaluation de cette obligation.
+
+Le problème moral est celui de la loyauté envers une autorité lorsque cette loyauté entre en contradiction avec des relations qui étaient inconnues au moment de la décision. Mais la parenté ne suffit pas nécessairement à résoudre la question politique : Thoas n'est pas représenté chez Hygin comme un juge impartial dont la requête s'annulerait automatiquement.
+
+Il ne faut pas inventer un duel de lois prononcé par Thoas et Chrysès dans la pièce perdue. Seul le récit mythographique fournit la structure générale de la confrontation.
+
+### 21. La reconnaissance et les preuves de parenté
+
+Chez Hygin, le dévoilement de la paternité de Chrysès fait passer les étrangers du statut de fugitifs à celui de proches. La reconnaissance repose principalement sur un savoir détenu par Chryséis, tandis que la question de son propre passé devient décisive. Le récit ne donne pas une scène longue d'établissement de preuves matérielles.
+
+Ce détail différencie le cas de celui de l'*Iphigénie en Tauride*, où Oreste et sa sœur se reconnaissent par des informations communes, des souvenirs familiaux et des objets évoqués. La reconnaissance de Chrysès serait plus fragile si elle ne dépendait que du témoignage d'une mère qui avait longtemps présenté une autre généalogie.
+
+Il existe donc un paradoxe éthique : celle qui avait menti pour construire l'identité sociale du fils devient celle qui énonce la vérité nécessaire à sa décision. Le jeune homme doit faire confiance à une parole qui révèle en même temps qu'une parole antérieure était fausse.
+
+L'hypothèse dramaturgique est féconde mais ne doit pas être transformée en scène de procès sur l'authenticité de la maternité. Aucun dialogue original n'est conservé.
+
+### 22. Filiation et renversement d'alliance
+
+La révélation maternelle, chez Hygin, entraîne le passage du jeune Chrysès d'une disposition à remettre les étrangers à une coalition avec Oreste. Il ne change pas simplement d'opinion politique ; il change de compréhension de son propre statut. Le devoir envers un roi étranger entre en compétition avec la solidarité envers des personnes qui lui sont désormais reconnues comme proches.
+
+Il serait pourtant faux de résumer la morale à une règle selon laquelle toute obligation familiale doit l'emporter sur toute règle publique. Le mythe offre un cas spécifique : les fugitifs sont eux-mêmes menacés, la décision initiale repose sur une ignorance cruciale et l'autorité de Thoas ne dispose pas d'une légitimité morale indépendante clairement établie.
+
+Le renversement possède un potentiel tragique puissant. La décision du jeune Chrysès pourrait devenir irrémédiable si la vérité était révélée trop tard. Chez Hygin, le secret est dévoilé avant qu'il ne livre les fugitifs, ce qui permet une issue différente.
+
+Aucune partie conservée du *Chrysès* de Sophocle ne confirme que la reconnaissance était son centre. La lecture relève d'un modèle plausible soutenu par une source extérieure.
+
+### 23. La mort de Thoas et les limites du dénouement
+
+Hygin raconte qu'après avoir appris leur parenté, le jeune Chrysès aide Oreste à tuer Thoas. Les fugitifs regagnent ensuite Mycènes avec l'image d'Artémis. Ce dénouement est plus violent que le départ de l'*Iphigénie en Tauride* d'Euripide, où la fuite reçoit finalement une sanction divine et un avenir cultuel.
+
+Le problème est de savoir si Hygin conserve une suite autonome d'une pièce latine ou grecque, une variation sur une histoire déjà connue, ou l'intrigue précise de *Chrysès* de Sophocle. La bibliographie propose plusieurs réponses ; aucune ne fait apparaître un fragment de Sophocle qui nomme directement le meurtre de Thoas.
+
+On ne doit donc pas publier sous le titre « fin certaine de Sophocle » une scène de duel entre Oreste et Thoas. Il serait également abusif de créer un exodos où Artémis annoncerait un nouveau culte sans témoin.
+
+L'intérêt comparatif demeure : la violence, dans un récit de reconnaissance, peut être présentée comme la conséquence d'une réparation familiale, tout en soulevant une question morale supplémentaire sur les moyens de la délivrance.
+
+### 24. Sminthe, Chryse et les pièges de la géographie
+
+Hygin parle de l'île Sminthe. La localisation est discutée depuis les commentateurs anciens : elle peut renvoyer au monde du culte d'Apollon Smintheus, à Chryse ou à un ensemble de toponymes de la côte anatolienne. Pearson rappelle que Strabon connaît plusieurs sanctuaires liés à cette épiclèse, et que l'identification à Ténédos a été défendue sans devenir nécessaire.
+
+Une recherche archéologique pourrait comparer les sites du culte d'Apollon Smintheus et les établissements de la Troade. Mais la géographie d'un récit mythographique ne suffit pas à prouver l'emplacement du décor sophocléen. Un dramaturge pouvait déplacer une tradition en fonction d'une logique poétique, sans viser une carte administrative.
+
+La proximité de Ténédos offre un écho aux autres récits troyens, notamment celui de Tennès déjà traité par MYTHOS. Les deux sujets ne doivent pourtant pas être fusionnés : un sanctuaire d'Apollon et un héros éponyme insulaire représentent des traditions distinctes.
+
+Dans l'iconographie, il faudra privilégier des vues et objets accompagnés de références institutionnelles, en précisant qu'ils illustrent un environnement culturel plutôt qu'une scénographie retrouvée.
+
+### 25. Chrysopolis : un autre destin de Chrysès
+
+Pearson rappelle une tradition tardive selon laquelle un Chrysès aurait fui après la mort d'Agamemnon, cherchant Iphigénie, et serait mort près du Bosphore, en un lieu appelé ensuite Chrysopolis. Cette variante associe le nom du héros à une étiologie urbaine et à la géographie de la mer Noire.
+
+Wilamowitz a envisagé que la pièce de Sophocle ait utilisé une telle tradition plutôt que l'histoire de la reconnaissance avec Oreste chez Hygin. L'argument était lié à une chronologie qui faisait *Chrysès* antérieur à l'*Iphigénie en Tauride*. La proposition doit être conservée comme hypothèse historique, non comme preuve du vrai sujet.
+
+Le récit illustre une liberté majeure des mythes grecs : le même nom peut conduire à une issue heureuse ou à une mort pendant l'exil, à un sanctuaire ou à une fondation urbaine. La transmission d'une variante tardive ne garantit pas son ancienneté, mais elle indique que plusieurs histoires pouvaient circuler.
+
+On ne peut donc pas déclarer que le *Chrysès* sophocléen avait nécessairement l'île Sminthe pour cadre, ni qu'il se terminait par le meurtre de Thoas. Les alternatives demeurent ouvertes.
+
+### 26. Pacuvius : une pièce latine distincte
+
+Marcus Pacuvius a composé une tragédie latine intitulée *Chryses*. Des fragments en sont conservés indirectement dans des textes latins et discutés dans les éditions des tragiques romains. Plusieurs chercheurs, à commencer par Naeke, ont supposé qu'il s'agissait d'une adaptation du *Chrysès* de Sophocle. D'autres, dont Wilamowitz, ont estimé qu'une source grecque postérieure à Euripide pouvait mieux expliquer l'histoire.
+
+La continuité des titres est un indice, pas un contrat de traduction. Les dramaturges romains remaniaient souvent leurs modèles : ils pouvaient combiner des pièces, déplacer des discours et ajouter des préoccupations philosophiques propres à leur public. On ne peut donc pas restaurer un fragment grec à partir d'une phrase latine sans le signaler comme conjecture.
+
+Les fragments pacuviens abordent notamment le hasard, la nature et la crainte religieuse. Ces thèmes ont suscité des analyses de leur influence éventuelle sur Lucrèce. La densité philosophique du texte latin ne prouve pas une densité identique dans le *Chrysès* de Sophocle.
+
+Le dossier MYTHOS doit préserver l'identité de trois œuvres ou traditions : *Chrysès* sophocléen, *Chryses* de Pacuvius et récit d'Hygin. Leurs relations font l'objet d'une enquête, non d'une fusion éditoriale.
+
+### 27. Fortuna et la critique de la superstition dans le théâtre latin
+
+Maria Elvira Consoli, « Il Chryses di Pacuvio nella tradizione indiretta e nelle Fabulae di Igino », *Frammenti sulla Scena* (2019), p. 148–176, a consacré une étude aux problèmes philosophiques de la tragédie latine. Elle souligne que Pacuvius donne une place importante à la réflexion sur Fortuna, la crainte religieuse et la conduite morale d'Oreste.
+
+La discussion de la nature et de l'univers dans les fragments latins a été rapprochée de Lucrèce, notamment de son *De rerum natura*. Les chercheurs débattent du rapport entre cette prose poétique latine, les fragments de Pacuvius et les textes grecs plus anciens. Il serait dangereux d'en conclure qu'un discours naturaliste analogue se trouvait forcément dans la pièce de Sophocle.
+
+La comparaison peut cependant éclairer une transformation de genre. Le théâtre latin réemploie un mythe grec de parenté et de danger pour poser des questions sur la fortune et la maîtrise de soi. Il transforme éventuellement une reconnaissance narrative en occasion d'instruction philosophique.
+
+Cette lecture de Pacuvius ne fixe pas le scénario grec, mais elle révèle comment le théâtre peut faire circuler des problèmes au-delà des langues, des cités et des siècles.
+
+### 28. Sophocle, Euripide et la réception aristophanienne
+
+La question de la chronologie ne concerne pas seulement une date. Elle détermine les relations possibles entre trois créateurs : Eschyle, dont l'image de la « houe de Zeus » est attestée dans l'*Agamemnon* ; Aristophane, qui en propose une expression parodique dans les *Oiseaux* ; Sophocle, auquel la scholie attribue une formule proche dans *Chrysès*.
+
+Deux chaînes de transmission sont possibles. Dans la première, Sophocle transforme l'image d'Eschyle, puis Aristophane détourne Sophocle ; *Chrysès* précéderait 414. Dans la seconde, Aristophane réemploie Eschyle, puis Sophocle reprend ou joue avec la formule ; le drame sophocléen pourrait être postérieur à 414 et même à l'*Iphigénie en Tauride*.
+
+Les fragments ne permettent pas de choisir exclusivement par le goût littéraire. Un scholiast peut avoir reconnu un écho réel mais inversé la direction de l'imitation ; il peut aussi avoir mal identifié le titre. De plus, l'expression solennelle pouvait circuler indépendamment dans une tradition poétique.
+
+La prudence s'étend au genre : une reprise parodique de la comédie n'implique pas que l'œuvre parodiée était elle-même comique ou satyrique.
+
+### 29. Trois reconstructions prudentes et non cumulatives
+
+**Modèle A : le prêtre de l'*Iliade*.** Sophocle aurait développé le conflit entre Chrysès l'aîné, Agamemnon et Apollon. Les fragments sur Hestia, l'autel et la destruction divine conviendraient à ce cadre. Cependant l'absence de répliques nommant la captive ou le chef interdit de fixer une telle intrigue.
+
+**Modèle B : le jeune Chrysès et la reconnaissance.** La pièce aurait raconté l'arrivée d'Oreste et d'Iphigénie, la révélation par Chryséis, le changement d'alliance du jeune prêtre et la lutte contre Thoas. Ce modèle possède une narration complète chez Hygin, mais aucune attestation directe dans les cinq fragments sophocléens.
+
+**Modèle C : une aventure satyrique ou un récit d'exil.** L'œuvre pourrait avoir exploité les aventures d'un jeune homme dans un cadre plus léger, voire satyrique, ou raconté la mort à Chrysopolis. Le vocabulaire du fragment 728 et la mention de la barbe au 729 donnent des arguments de tonalité ; la tradition de Chrysopolis fournit une alternative narrative. Rien ne prouve que ces éléments appartenaient à une même scène.
+
+Ces trois modèles doivent rester parallèles. Les combiner en une pièce où Chrysès prie Apollon, découvre sa barbe, reconnaît Oreste, tue Thoas et fonde Chrysopolis serait un montage moderne sans fondement.
+
+### 30. La distribution, le chœur et les objets scéniques
+
+Aucun témoignage n'établit le nom du chœur. Si le cadre était celui du camp achéen, on pourrait imaginer des soldats ; si celui d'un sanctuaire, des habitants ou des suppliants ; si la pièce était satyrique, un chœur de satyres serait possible. Mais une hypothèse de genre ne suffit pas à authentifier un chœur précis.
+
+On ignore aussi le nombre des acteurs, le lieu de la représentation et les accessoires. La citation d'un mot signifiant autel ne prouve pas l'existence d'un autel construit sur scène. La mention d'une barbe ne permet pas de décrire un masque. Une parole sur un instrument de destruction divin ne prouve pas qu'une machine à produire le tonnerre était utilisée.
+
+L'étude doit donc distinguer une reconstitution destinée à un spectacle contemporain, qui pourrait choisir librement ces éléments en les déclarant imaginaires, d'une reconstruction historique qui prétendrait restituer Sophocle.
+
+MYTHOS conserve cette frontière et ne publie aucune maquette 2,5D présentée comme la scène antique.
+
+### 31. Platon : la vérité de la filiation et les conditions d'un jugement
+
+Platon n'a laissé aucun commentaire identifié sur le *Chrysès* perdu. Le récit d'Hygin, analysé philosophiquement, soulève pourtant des questions qui peuvent être rapprochées du *Théétète* et du *Politique*. Le jeune prêtre agit sur la base d'une croyance concernant son origine ; son choix politique repose sur une connaissance partielle.
+
+La reconnaissance de sa vraie parenté change les obligations qu'il pense avoir. Mais la vérité ne devient pas automatiquement évidente : celui qui a cru posséder un père divin doit accepter la déclaration d'une mère qui avait longtemps entretenu une autre généalogie. Le problème est celui des preuves, des témoignages et de la confiance.
+
+Le *Politique* distingue l'art de gouverner de la simple possession de l'autorité. Thoas peut demander la restitution des fugitifs ; Chrysès doit décider si l'obéissance à cette demande est juste. La situation mythographique ne donne pas une définition platonicienne du droit, mais elle offre une occasion de demander à quelles conditions un ordre mérite d'être suivi.
+
+Il ne faut surtout pas attribuer à Sophocle ou à son personnage une théorie platonicienne formulée dans un texte du IVe siècle.
+
+### 32. Hegel : la reconnaissance et l'ordre familial
+
+La philosophie hégélienne de la reconnaissance permet d'interroger l'histoire du jeune Chrysès. Son identité sociale dépend initialement d'un récit de naissance fondé sur la divinité d'Apollon ; la révélation de la paternité d'Agamemnon le réinscrit dans une autre communauté, celle des Atrides.
+
+La transformation est plus qu'une découverte biologique. Elle modifie les relations de confiance, les conflits et les obligations, au moment précis où l'homme doit prendre une décision. Le fils cesse de voir les fugitifs comme des étrangers susceptibles d'être livrés à Thoas ; il les perçoit désormais comme liés à lui par la parenté.
+
+Hegel rappelle que la famille peut être un espace de solidarité mais aussi une source de contradictions éthiques. Une vérité familiale n'épuise pas toutes les obligations publiques. Il faudrait un drame complet pour savoir comment Sophocle avait éventuellement distribué les droits des personnages.
+
+La lecture reste donc explicitement conditionnelle à l'hypothèse d'Hygin. Elle ne constitue ni un commentaire historiquement attesté de Hegel sur *Chrysès*, ni la preuve du scénario grec.
+
+### 33. Nietzsche : se libérer d'une filiation prestigieuse ?
+
+Chez Nietzsche, les valeurs et les identités peuvent être interrogées comme des constructions historiques et affectives. La revendication d'une filiation divine confère au jeune Chrysès une autorité symbolique considérable. La révélation d'une paternité humaine et guerrière pourrait déstabiliser cette image de lui-même, tout en lui donnant de nouvelles possibilités d'action.
+
+Il serait erroné de supposer que la « vérité humaine » vaut nécessairement mieux que la « fiction divine » selon une morale nietzschéenne. La question porte plutôt sur la capacité de l'individu à interpréter une nouvelle connaissance, à ne plus dépendre d'un récit antérieur et à choisir ses liens.
+
+La décision de rompre avec Thoas pourrait représenter une réaffirmation de puissance, mais aussi un transfert de loyauté imposé par le sang. Les deux lectures sont possibles ; le récit ne donne pas une doctrine de l'autonomie.
+
+L'analyse n'attribue pas ces catégories à Sophocle ni à Pacuvius. Elle montre seulement comment une histoire de reconnaissance peut être relue à la lumière des interrogations modernes sur la vérité et la valeur.
+
+### 34. Aristote : anagnôrisis et péripétie
+
+Aristote distingue, dans la *Poétique* 11, la reconnaissance (*anagnôrisis*) et le renversement de situation (*peripeteia*). Le récit d'Hygin offre un exemple narratif remarquable : celui qui s'apprête à livrer des étrangers découvre qu'ils sont ses proches et devient leur allié. Le changement de connaissance entraîne un changement de décision, puis une action contre Thoas.
+
+Mais il faut distinguer la structure d'Hygin du texte de Sophocle. Le fait qu'un récit ait les qualités d'une intrigue tragique ne prouve pas qu'une tragédie perdue le représentait. La reconnaissance pouvait être développée, déplacée ou absente du drame que nous cherchons à comprendre.
+
+Dans l'*Iphigénie en Tauride*, Euripide organise une reconnaissance progressive et très développée entre Oreste et Iphigénie. La fable d'Hygin pourrait prolonger ce principe en faisant intervenir un nouveau frère, mais une imitation ne suffit pas à authentifier sa présence chez Sophocle.
+
+L'usage d'Aristote est donc méthodologique : il aide à expliquer pourquoi le récit de la paternité cachée paraît dramatiquement puissant, sans lui donner le statut d'une scène retrouvée.
+
+### 35. Comparaisons avec les autres tragédies du cycle
+
+L'*Iphigénie en Tauride* d'Euripide est le parallèle le plus direct pour le scénario d'Hygin. Oreste et sa sœur y échappent à la mise à mort grâce à la reconnaissance de leur parenté et à un plan de fuite. La continuation imaginaire dans l'île Sminthe produirait une nouvelle crise après une conclusion déjà apaisée.
+
+*Électre* de Sophocle et d'Euripide offre deux autres exemples de reconnaissance familiale, où un frère dont le sort est incertain revient dans une maison bouleversée par les crimes. Les motifs de preuve, de deuil et de confiance permettent des comparaisons, mais ils ne fournissent aucun vers pour le *Chrysès* perdu.
+
+*Palamède*, tragédie du cycle troyen, pose le problème des accusations injustes et de l'information manipulée. Le jeune Chrysès, qui doit choisir de livrer ou non les fugitifs, peut être mis en parallèle avec ces récits de décision fondée sur une vérité incomplète.
+
+Ces rapprochements sont internes à l'histoire du théâtre grec et ne justifient pas de compléter les lacunes par des extraits d'autres pièces.
+
+### 36. Iconographie archéologique : le cratère du Louvre CA 227
+
+Un cratère apulien à volutes, à figures rouges, **vers 360–350 av. J.-C.**, attribué au **Peintre d'Athènes 1714**, montre Chrysès suppliant Agamemnon de lui rendre Chryséis. Il est conservé au **Musée du Louvre**, Département des Antiquités grecques, étrusques et romaines, **inventaire CA 227**. La notice scientifique institutionnelle décrit sur la face A le vieux prêtre agenouillé, le roi assis, Chryséis et plusieurs assistants. Voir : https://collections.louvre.fr/ark:/53355/cl010274134 et le catalogue iconographique de l'Université d'Aix-Marseille : https://utpictura18.univ-amu.fr/notice/19302-chryses-supplie-agamemnon-lui-rendre-chryseis-peintre-dathenes-1714 .
+
+L'intérêt de l'objet est évident pour l'origine homérique du récit : il donne à voir, sous une forme sud-italienne tardive, une situation où le pouvoir royal et la supplication religieuse se rencontrent. Le prêtre est identifié comme Chrysès, le roi comme Agamemnon, et la captive appartient à l'ensemble représenté.
+
+Cependant le vase n'est pas une illustration de la pièce perdue de Sophocle. Il date d'une époque postérieure et représente la supplication homérique, non la reconnaissance d'Oreste et du jeune Chrysès. Il ne peut pas prouver quelle version le dramaturge choisit, ni quel décor il employa.
+
+La notice officielle précise aussi les restaurations et manques du vase. MYTHOS conserve cette information, plutôt que de présenter toute photographie comme la reproduction intacte d'une scène du Ve siècle. Aucune photographie n'est réhébergée sans vérification des droits ; le site renvoie à l'objet dans sa collection institutionnelle.
+
+### 37. Tableau des certitudes, attributions et reconstructions
+
+| Proposition | Témoignage | Statut |
+|---|---|---|
+| Sophocle possédait une œuvre intitulée *Chrysès*. | Scholies et fragments classés par Radt. | Attesté [F/S]. |
+| Son dossier comprend frr. 726–730 Radt. | *TrGF* 4, édition Radt. | Attesté comme classement critique. |
+| Le héros était certainement le jeune fils de Chryséis. | Hypothèse tirée d'Hygin. | Non démontré [C]. |
+| Le héros était certainement le vieux prêtre de l'*Iliade*. | Titre et parenté homérique. | Non démontré [C]. |
+| Le genre était nécessairement la tragédie. | Aucun témoignage générique décisif. | Discuté, drame satyrique possible. |
+| Fr. 726 mentionne Hestia et les rites de commencement. | Scholie aux *Guêpes* 846 ; Pindare. | Fragment attesté, contexte perdu. |
+| Fr. 727 possède une image de la « houe de Zeus ». | Scholie aux *Oiseaux* 1240. | Citation avec leçon discutée. |
+| *Chrysès* précède nécessairement 414. | Direction supposée de l'emprunt par Aristophane. | Hypothèse chronologique. |
+| Fr. 728 emploie une périphrase de « chair ». | Scholie aux *Grenouilles* 191. | Attesté, ton interprété diversement. |
+| Fr. 729 évoque le premier duvet de barbe. | Apollonios le Sophiste ; Hésychios. | Attesté, locuteur inconnu. |
+| Fr. 730 concerne un terme d'autel. | Ammonios ; Eustathe. | Attesté, scène de sacrifice inconnue. |
+| Hygin raconte la reconnaissance du jeune Chrysès. | *Fables* 120–121. | Attesté chez Hygin [M]. |
+| Hygin donne explicitement le scénario de Sophocle. | Aucun lien explicite dans la fable. | Non démontré [C]. |
+| Pacuvius composa une pièce *Chryses*. | Fragments latins et traditions de citation. | Attesté, relation exacte au grec discutée. |
+| Le cratère CA 227 montre la supplication homérique. | Louvre ; Utpictura18. | Attesté pour l'image, aucun lien direct au spectacle. |
+
+Cette matrice doit être maintenue lors des futures corrections. Une nouvelle proposition sur les fragments ne doit jamais supprimer la distinction entre texte ancien et hypothèse éditoriale.
+
+### 38. Bibliographie et sources contrôlées
+
+**Éditions des fragments de Sophocle**
+
+1. **Stefan Radt** (éd.), *Tragicorum Graecorum Fragmenta*, vol. 4, *Sophocles*, Göttingen, Vandenhoeck & Ruprecht, édition augmentée et corrigée **1999**, **fragments 726–730**, dossier *Chrysès*. Notice BnF : https://catalogue.bnf.fr/ark:/12148/cb41332839g .
+2. **A. C. Pearson** (éd.), *The Fragments of Sophocles*, vol. II, Cambridge University Press, **1917**, p. **327–330**, commentaire continu de *Chrysès* et des frr. 726–730 ; texte ancien numérisé : https://lexarithmos.app/academy/sophocles/works/pearson-fragments-vol2-1917-part-15/ .
+3. **Hugh Lloyd-Jones**, *Sophocles, Fragments*, Loeb Classical Library, Harvard University Press, **1996**, section *Chryses* ; édition bilingue à contrôler selon sa numérotation propre.
+4. **Jacques Jouanna**, *Sophocle*, Paris, Fayard, **2007**, bibliographie des pièces perdues et liste de *Chrysès* avec les frr. 726–730 Radt : https://www.bnfa.fr/livre?biblionumber=65368 .
+5. **Matthew Wright**, *The Lost Plays of Greek Tragedy*, vol. II, *Aeschylus, Sophocles and Euripides*, Londres, Bloomsbury Academic, **2019** (première publication 2018 selon certaines notices de tirage), rubrique « Chryses (TrGF 4 F726–30) », section Sophocle. La discussion souligne qu'aucune des deux identités possibles du héros ne peut être établie par les fragments.
+
+**Sources mythiques et texte de l'œuvre conservée voisine**
+
+6. **Homère**, *Iliade*, chant I, notamment vers 8–52 (supplication de Chrysès et peste), 93–120 (interprétation de Calchas) et 430–492 (restitution de Chryséis). Le récit ne donne pas une naissance du jeune Chrysès.
+7. **Hygin**, *Fables*, **120**, *Iphigenia Taurica*, et **121**, *Chryses* ; texte latin édité avec divisions par le Packhum Latin Library : https://latin.packhum.org/loc/1263/1/55/182-191 ; autre présentation : https://www.greekmythology.com/sources/hyginus/fabulae/112-124 .
+8. **Euripide**, *Iphigénie en Tauride*, texte grec et commentaire ; référence scientifique : Emily Kearns, éd., *Iphigenia in Tauris*, Cambridge Greek and Latin Classics, Cambridge University Press, **2023**, DOI https://doi.org/10.1017/9781107300842 . Les pages 8–9 de l'introduction évaluent l'hypothèse reliant Sophocle à Hygin.
+9. **Aristophane**, *Oiseaux*, **1240**, et scholie ancienne ; cette scholie est le témoin de la prétendue allusion au fr. 727 de Sophocle, mais le sens de la direction de l'emprunt reste débattu.
+10. **Aristophane**, *Guêpes*, **846**, et scholie sur Hestia (fr. 726) ; *Grenouilles*, **191**, et scholie (fr. 728).
+11. **Apollonios le Sophiste**, *Lexicon Homericum*, p. 91 dans l'édition de référence discutée par Pearson, pour le fragment 729 et le vocabulaire du duvet ; **Hésychios**, lexique, notice associée.
+12. **Ammonios**, *De adfinium vocabulorum differentia*, entrée *eschara/bômos* ; **Eustathe**, commentaire à l'*Odyssée*, pour le fragment 730.
+13. **Strabon**, *Géographie*, XIII, traditions du culte d'Apollon Smintheus et des lieux nommés Chryse ou liés au nom de Sminthe ; il s'agit de données géographiques et religieuses, non de témoignages de représentation sophocléenne.
+
+**Études sur l'intertextualité et les chronologies**
+
+14. **Emily Kearns** (éd.), *Euripides, Iphigenia in Tauris*, Cambridge University Press, **2023**, introduction p. 8–9, sur Hygin 121, le lien hypothétique avec *Chrysès* de Sophocle et l'argument de la scholie aux *Oiseaux*.
+15. **C. W. Marshall**, « The Date of Euripides' Iphigenia in Tauris », étude parue en **2009** et discutée par Kearns, sur la direction de l'imitation et la possibilité d'une pièce sophocléenne postérieure au drame euripidéen ; à contrôler dans une bibliographie complète avant de citer pagination et revue non établies ici.
+16. **Poulheria Kyriakou**, *A Commentary on Euripides' Iphigenia in Tauris*, Berlin–New York, de Gruyter, **2006**, introduction, sur Hygin, les hypothèses d'influence et le caractère non démontrable du modèle sophocléen.
+17. **Rosie Wyles**, « Greek Tragic Fragments with a Black Sea », dans David Braund, Edith Hall et Rosie Wyles (dir.), *Ancient Theatre and Performance Culture around the Black Sea*, Cambridge University Press, **2019**, p. **252–266** ; notice de dépôt institutionnel : https://kar.kent.ac.uk/63948/ . Le chapitre situe notamment *Chrysès* parmi les œuvres fragmentaires dont la géographie concerne la région pontique ou ses marges.
+
+**Pacuvius et les réécritures latines**
+
+18. **Marcus Pacuvius**, *Chryses*, fragments conservés dans les éditions des tragiques latins ; consulter **Gesine Manuwald** (éd.), *Roman Republican Theatre*, Cambridge University Press, 2011, et **Elisabeth Schierl** (éd.), *Die Tragödien des Pacuvius*, Berlin–New York, 2006, pour les fragments latins et les anciennes concordances Ribbeck.
+19. **Maria Elvira Consoli**, « Il Chryses di Pacuvio nella tradizione indiretta e nelle Fabulae di Igino. Tradizione e innovazione nei modelli di ricerca scientifica e didattica universitaria », *Frammenti sulla Scena*, **2019**, p. **148–176**, DOI https://doi.org/10.13135/2612-3908/3255 ; https://ojs.unito.it/index.php/fss/article/view/3255 .
+20. « Rationalism and the Theatre in Lucretius », *The Classical Quarterly*, sur les fragments de Pacuvius *Chryses*, les questions de philosophie naturelle et les réemplois par Lucrèce : https://www.cambridge.org/core/journals/classical-quarterly/article/rationalism-and-the-theatre-in-lucretius/79ACD46917BD3463375E46C3C02A328A .
+21. **Lucrèce**, *De rerum natura*, II, 991–1001 et V, 318–323 ; passages comparés avec Pacuvius dans l'étude citée, non preuves d'une source sophocléenne directe.
+
+**Philosophie et iconographie**
+
+22. **Platon**, *Théétète* et *Politique*, comparaison moderne sur la connaissance et l'obligation politique ; aucun commentaire antique de *Chrysès* connu.
+23. **Aristote**, *Poétique*, chapitre 11, *anagnôrisis* et *peripeteia* ; catégories comparatives appliquées au récit d'Hygin, non aux scènes directement conservées.
+24. **G. W. F. Hegel**, *Esthétique*, analyse de la parenté et de l'éthique tragique ; synthèse universitaire : https://plato.stanford.edu/entries/hegel-aesthetics/ .
+25. **Friedrich Nietzsche**, *La Naissance de la tragédie* (1872) et *La Généalogie de la morale* (1887) ; relectures conceptuelles, sans attribution au texte grec perdu.
+26. **Musée du Louvre**, cratère à volutes, **CA 227**, Peintre d'Athènes 1714, **vers 360–350 av. J.-C.**, représentation de la supplication de Chrysès à Agamemnon, notice officielle : https://collections.louvre.fr/ark:/53355/cl010274134 .
+27. **Utpictura18, Aix-Marseille Université**, notice **19302**, « Chrysès supplie Agamemnon de lui rendre Chryséis », datation, format et indication des sources littéraires : https://utpictura18.univ-amu.fr/notice/19302-chryses-supplie-agamemnon-lui-rendre-chryseis-peintre-dathenes-1714 .
+
+**Limitation éditoriale.** Les éditions de Sophocle, les sources latines et les reprises mythographiques sont toutes citées sous leur statut respectif. Le texte ne donne pas une prétendue transcription grecque continue. Les hypothèses relatives au genre et à la chronologie demeurent des propositions argumentées ; elles ne sont pas transformées en dates assurées, en actes reconstitués ou en attribution certaine de répliques.
+
+### 39. Conclusion — de la supplication à la reconnaissance, mais sans fausse certitude
+
+Le *Chrysès* de Sophocle demeure une énigme parce que son titre est certain tandis que le sujet même de l'œuvre ne l'est pas. Les cinq fragments conservés parlent d'Hestia, de la puissance imagée de Zeus, d'une périphrase corporelle, du premier duvet de barbe et d'un terme d'autel. Ils ne disent pas si Sophocle représentait le prêtre homérique qui implore Agamemnon, le fils de Chryséis raconté par Hygin, ou une autre variante. Leur tonalité soulève aussi la possibilité d'un drame satyrique.
+
+Le récit d'Hygin offre un extraordinaire modèle de reconnaissance familiale : un jeune homme croit être fils d'Apollon, découvre qu'il descend d'Agamemnon et que les personnes qu'on lui demande de livrer sont ses proches. La révélation modifie alors ses alliances et rend possible leur fuite. Mais le récit reste une source mythographique distincte du texte sophocléen ; l'assimiler sans réserve à la pièce serait commettre l'erreur que la recherche cherche précisément à éviter.
+
+Les discussions modernes sur la date et l'influence réciproque avec l'*Iphigénie en Tauride* sont tout aussi ouvertes. Une scholie à Aristophane a servi à faire de *Chrysès* une œuvre antérieure à 414 ; d'autres chercheurs ont montré que la direction de l'allusion pouvait être inverse. La réception latine par Pacuvius ajoute une couche philosophique sur la fortune et la superstition, sans permettre de reconstruire le grec d'origine.
+
+L'enseignement philosophique de ce dossier est moins un système que la reconnaissance d'un problème : la vérité d'une personne dépend de récits et de témoignages, et cette vérité peut déterminer ses obligations. Mais le savoir de l'historien demeure plus limité que celui du personnage d'Hygin : nous pouvons interpréter un récit complet sans posséder le drame auquel on l'a parfois attribué.
+
+**MYTHOS conserve donc une monographie autonome, sourcée, révisable, sans scènes grecques fabriquées ni illustration 2,5D.** Les références anciennes demeurent littérales ; les numéros propres au nouveau volume sont réservés exclusivement au système d'attribution atomique de GitHub.
+
+**Continuité documentaire.** Étude inédite contrôlée contre les manuscrits numérotés de la collection, les demandes en attente et la recherche du dépôt. Aucun brouillon privé, aucune source WordPress et aucune automatisation horaire n'ont été modifiés.

@@ -528,6 +528,18 @@
         "url": "/chapitres/encyclopedie/chapitre-390-kairos-occasion-juste-moment-olympie-lysippe-art-action-philosophie/",
         "title": "Chapitre 390 — KAIROS (Καιρός)",
         "source": "chapitres/encyclopedie/chapitre-390-kairos-occasion-juste-moment-olympie-lysippe-art-action-philosophie.md"
+      },
+      {
+        "number": 391,
+        "url": "/chapitres/encyclopedie/chapitre-391-aristee-abeilles-oliviers-ceos-olbia-giens-orphee-eurydice/",
+        "title": "Chapitre 391 — ARISTÉE (Ἀρισταῖος)",
+        "source": "chapitres/encyclopedie/chapitre-391-aristee-abeilles-oliviers-ceos-olbia-giens-orphee-eurydice.md"
+      },
+      {
+        "number": 392,
+        "url": "/chapitres/encyclopedie/chapitre-392-horme-elan-impulsion-action-agora-stoiciens/",
+        "title": "Chapitre 392 — Chapitre 392 — Hormè (Ὁρμή) : l'élan divin, l'impulsion et la responsabilité de l'action",
+        "source": "chapitres/encyclopedie/chapitre-392-horme-elan-impulsion-action-agora-stoiciens.md"
       }
     ],
     "tragedies": [
@@ -1244,6 +1256,18 @@
         "url": "/chapitres/tragedies/volume-ccxviii-pirithoos-pseudo-euripide-critias-heracles-thesee-eleusis-amitie-justice/",
         "title": "Volume CCXVIII (218) — Pirithoos (Πειρίθους / Πειρίθοος) — Descendre aux Enfers : la faute de l'ami, la puissance d'Héraclès et la possibilité de la grâce",
         "source": "chapitres/tragedies/volume-ccxviii-pirithoos-pseudo-euripide-critias-heracles-thesee-eleusis-amitie-justice.md"
+      },
+      {
+        "number": 219,
+        "url": "/chapitres/tragedies/volume-ccxix-euripide-peleus-purification-calomnie-pelion-chiron-thetis/",
+        "title": "Volume CCXIX (219) — Pélée d'Euripide — Purification, calomnie et justice : l'hôte sans défense, le mont Pélion et l'épreuve de la vertu",
+        "source": "chapitres/tragedies/volume-ccxix-euripide-peleus-purification-calomnie-pelion-chiron-thetis.md"
+      },
+      {
+        "number": 220,
+        "url": "/chapitres/tragedies/volume-ccxx-sophocle-chryses-filiation-reconnaissance-hygin-pacuvius/",
+        "title": "Volume CCXX (220) — Sophocle, Chrysès (Χρύσης) — Le prêtre, le fils caché, la reconnaissance et les métamorphoses d'un mythe troyen",
+        "source": "chapitres/tragedies/volume-ccxx-sophocle-chryses-filiation-reconnaissance-hygin-pacuvius.md"
       }
     ],
     "comparatif": [
@@ -2167,6 +2191,30 @@
         "url": "/chapitres/comparatif/volume-ccv-ploutos-penia-travail-justice-theodicee-economique-388/",
         "title": "Volume CCV (205) — Le juste pauvre et le riche injuste : Penia, les métiers et la théodicée économique dans le Ploutos d’Aristophane (388 av. J.-C.)",
         "source": "chapitres/comparatif/volume-ccv-ploutos-penia-travail-justice-theodicee-economique-388.md"
+      },
+      {
+        "number": 206,
+        "url": "/chapitres/comparatif/volume-ccvi-mc-035-gardiens-seuil-lamassu-sphinx-egypte-assyrie-grece-perse/",
+        "title": "Volume CCVI (206) — Dossier historique MC-035 — Les gardiens du seuil : lamassu, sphinx, lions et puissances protectrices, de l'Assyrie à l'Égypte, la Grèce et la Perse",
+        "source": "chapitres/comparatif/volume-ccvi-mc-035-gardiens-seuil-lamassu-sphinx-egypte-assyrie-grece-perse.md"
+      },
+      {
+        "number": 207,
+        "url": "/chapitres/comparatif/volume-ccvii-mc-038-messagers-divins-ninshubur-hermes-iris-agni-malak-thot-intercession/",
+        "title": "Volume CCVII (207) — MC-038 — Les messagers du sacré : Ninšubur, Hermès, Iris, Agni, le malʾāḵ biblique et Thot. Parole divine, intercession, diplomatie et médiation",
+        "source": "chapitres/comparatif/volume-ccvii-mc-038-messagers-divins-ninshubur-hermes-iris-agni-malak-thot-intercession.md"
+      },
+      {
+        "number": 208,
+        "url": "/chapitres/comparatif/volume-ccviii-paix-aristophane-sortie-guerre-rites-economie-demobilisation/",
+        "title": "Volume CCVIII (208) — Sortir de la guerre : La Paix d'Aristophane, le désarmement des activités, les rites d'Eirènè et la difficile naissance d'une économie civile (421 av. n. è.)",
+        "source": "chapitres/comparatif/volume-ccviii-paix-aristophane-sortie-guerre-rites-economie-demobilisation.md"
+      },
+      {
+        "number": 209,
+        "url": "/chapitres/comparatif/volume-ccix-mc-036-parler-aux-morts-lettres-necromancie-oracles-egypte-mesopotamie-grece-israel-shang/",
+        "title": "Volume CCIX (209) — MC-036 — Parler aux morts pour gouverner les vivants : lettres funéraires, nécromancie, oracles ancestraux et autorité du passé, de l'Égypte à la Chine des Shang",
+        "source": "chapitres/comparatif/volume-ccix-mc-036-parler-aux-morts-lettres-necromancie-oracles-egypte-mesopotamie-grece-israel-shang.md"
       }
     ],
     "comedies": [
@@ -2637,6 +2685,12 @@
         "url": "/chapitres/comedies/volume-078-ameipsias-apokottabizontes-cottabe-banquet-jeu-justice/",
         "title": "Volume LXXVIII (78) — Amipsias, Apokottabizontes (Ἀποκοτταβίζοντες) — le cottabe, le banquet et la politique du jeu",
         "source": "chapitres/comedies/volume-078-ameipsias-apokottabizontes-cottabe-banquet-jeu-justice.md"
+      },
+      {
+        "number": 79,
+        "url": "/chapitres/comedies/volume-079-apollophanes-kretes-culte-etranger-dialecte-myrte-vin-rire/",
+        "title": "Volume LXXIX (79) — Apollophanès, Krêtes (Κρῆτες, « Les Crétois ») — cultes étrangers, langues de la cité, satire du conseil, vin et rire",
+        "source": "chapitres/comedies/volume-079-apollophanes-kretes-culte-etranger-dialecte-myrte-vin-rire.md"
       }
     ],
     "origines-du-sacre": [
@@ -3659,6 +3713,18 @@
         "url": "/chapitres/origines-du-sacre/620-sippar-laine-shamash-misarum-ammi-ditana-creances/",
         "title": "Chapitre 620 — Vendre à crédit sous un édit de justice : Sippar, la laine du temple de Šamaš et les remises de dettes d'Ammi-ditana",
         "source": "chapitres/origines-du-sacre/620-sippar-laine-shamash-misarum-ammi-ditana-creances.md"
+      },
+      {
+        "number": 621,
+        "url": "/chapitres/origines-du-sacre/621-eteindre-dette-briser-tablette-quittance-double-creance/",
+        "title": "Chapitre 621 — Éteindre la dette : briser la tablette, délivrer quittance et empêcher la double créance",
+        "source": "chapitres/origines-du-sacre/621-eteindre-dette-briser-tablette-quittance-double-creance.md"
+      },
+      {
+        "number": 622,
+        "url": "/chapitres/origines-du-sacre/622-serment-dette-paiement-preuve-temoins-divins/",
+        "title": "Chapitre 622 — Jurer qu'on a payé : serments, témoins et preuves divines dans les litiges de dette",
+        "source": "chapitres/origines-du-sacre/622-serment-dette-paiement-preuve-temoins-divins.md"
       }
     ]
   },

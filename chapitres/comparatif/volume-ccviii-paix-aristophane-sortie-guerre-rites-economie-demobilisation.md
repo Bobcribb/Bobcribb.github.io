@@ -1,0 +1,712 @@
+# MYTHOS — Cycle comparatif universitaire — Volume CCVIII (208)
+
+## Sortir de la guerre : *La Paix* d'Aristophane, le désarmement des activités, les rites d'Eirènè et la difficile naissance d'une économie civile (421 av. n. è.)
+
+**Étude universitaire autonome — 4 novembre 2026.**  
+**Disciplines :** philologie grecque, histoire de la guerre du Péloponnèse, comédie attique, religion civique, histoire économique, anthropologie des transitions, philosophie du politique.  
+**Sources principales :** Aristophane, *Eirènè* (*La Paix*), v. 1–1359 ; Thucydide, *Histoire de la guerre du Péloponnèse*, II, 14–17 et V, 13–24 ; témoignages iconographiques postérieurs sur Eirènè et Ploutos, distingués de la scène de 421.  
+**Problème :** comment passe-t-on d'une société organisée pour faire la guerre à une société capable de vivre la paix ? L'accord diplomatique suffit-il lorsque les compétences, revenus, gestes rituels, habitudes et représentations de la collectivité restent orientés vers le conflit ?
+
+### Résumé
+
+Représentée aux Grandes Dionysies de 421 av. n. è., peu avant la conclusion de la paix dite de Nicias, *La Paix* d'Aristophane présente une situation inhabituelle : la solution désirée par le héros n'est pas une impossibilité politique absolue. Trygée, viticulteur athénien, monte vers les dieux sur un scarabée nourri d'excréments, découvre que la Guerre a enfermé la déesse Paix, puis entreprend de la libérer avec un groupe qui proclame représenter les Grecs. La délivrance d'Eirènè permet le retour du produit des champs, des fêtes et des rencontres ; elle rend inutiles — ou économiquement désastreux — certains métiers du conflit, tandis qu'un devin tente de détourner le sacrifice en faveur de la déesse retrouvée.
+
+Cette monographie ne recommence pas les intrigues de *La Paix*, déjà présentées dans les études dramaturgiques MYTHOS. Elle isole un problème de philosophie historique : **la paix n'est pas seulement l'absence des combats, mais une transition institutionnelle et matérielle conflictuelle**. Le changement est exposé par une série de conversions comiques : le fumier fait voler, une marmite devient image de destruction militaire, des Grecs doivent tirer ensemble sur des cordes, le retour de la récolte remplace la dévastation, un rite ordonne autrement les gestes de violence et les instruments d'armement deviennent meubles ou ustensiles. La requalification de ces objets constitue un programme esthétique de sortie de guerre, mais non une réforme historique effectivement votée.
+
+La thèse est précisément limitée. **[A]** Le texte donne un protagoniste, des scènes et des termes grecs contrôlables. **[A]** Thucydide documente les circonstances et les négociations de la paix de 421. **[I]** Les dispositifs comiques peuvent s'interpréter comme une réflexion sur le coût social de la reconversion des activités et des habitudes. **[H]** Les effets de la représentation sur les décisions des citoyens, l'identité réelle du public et les intentions intimes d'Aristophane ne sont pas démontrables par ces seules données. **[P]** Les concepts modernes de démobilisation, de transition et de sortie d'une économie de guerre permettent de poser des questions ; ils ne sont pas des institutions nommées comme telles par le dramaturge.
+
+La continuité du cycle MYTHOS est respectée. Le volume CXC étudiait Pseudo-Xénophon et la démocratie maritime ; CXCVI traitait de mythologie comparée hors de ce dossier ; CXCVII analysait la diplomatie privée des *Acharniens* ; CCI examinait la puissance financière et rituelle des femmes chez Aristophane ; CCIII la parabase et l'autorité du poète ; CCV la pauvreté et le travail dans *Ploutos*. La présente étude porte **non sur une paix individuelle, le gouvernement des femmes, la publicité poétique ou l'économie de la pauvreté**, mais sur la réorientation collective des moyens de vivre et de célébrer lorsqu'un conflit se termine. Ces ensembles ne sont ni fusionnés ni renommés.
+
+### Hiérarchie des preuves et langue
+
+- **[A] Attestation :** vers transmis, passage antique, donnée documentaire vérifiée ou notice bibliographique existante. Un dialogue prononcé par un personnage est attesté comme dialogue, non comme information neutre sur les faits.
+- **[I] Inférence :** conséquence historique ou politique argumentée ; elle reste distincte de la parole des auteurs.
+- **[H] Hypothèse :** datation fine, forme scénique exacte, identification de personnes, portée allégorique contestable, réactions du public, motivation des acteurs.
+- **[P] Comparaison :** concept actuel ou philosophie postérieure, sans influence historique postulée.
+- **[L] Limite :** ce que la documentation ne permet pas de conclure, notamment absence de comptes économiques, d'enregistrement du spectacle et de collation intégrale des manuscrits.
+
+Les brèves expressions grecques sont vérifiées dans le texte grec accessible d'Ad Fontes Library et dans la tradition éditoriale Hall–Geldart/Coulon signalée par le *Greek Drama Reader*. La traduction française est une reformulation analytique, non une restitution intégrale d'une édition sous droits. Les signes de lacune ou d'incertitude textuelle relevés dans le grec ne sont pas effacés au profit d'une assurance abusive. Les références aux chapitres scientifiques accessibles seulement par résumé sont distinguées des articles ouverts en texte intégral.
+
+---
+
+## I. La scène de 421 : une paix encore à faire
+
+### 1. Une représentation à la veille d'un accord [A]
+
+La pièce est présentée aux Grandes Dionysies du printemps 421 et obtient le deuxième prix. L'édition d'Alan H. Sommerstein situe sa production juste avant la paix de Nicias, tandis que Chiara Sulprizio souligne la proximité chronologique entre la représentation et la signature du traité. Il convient de dire **« dans un contexte de négociations très avancées »**, plutôt que d'affirmer que tous les spectateurs connaissaient le détail du traité futur. L'éventuelle adaptation du texte à l'évolution des pourparlers pendant les répétitions relève d'une hypothèse possible, pas d'un fait directement documenté.
+
+L'importance de cette situation est considérable : un dramaturge peut représenter par le merveilleux une décision que les négociations humaines rendent simultanément envisageable. Le rire anticipe le soulagement politique sans pouvoir garantir sa durée. La paix de théâtre et la paix des ambassadeurs se rencontrent dans le temps, non dans la procédure.
+
+### 2. La mort de Cléon et de Brasidas : un récit historique, pas une clé unique [A]
+
+Thucydide V, 16 relie la progression des démarches pacifiques à la mort de Cléon, du côté athénien, et de Brasidas, du côté spartiate, après Amphipolis en 422. Il met également en avant l'action de Nicias et de Plistoanax. Ce récit explique une conjoncture. Aristophane, de son côté, représente plus tôt dans la pièce Guerre et Vacarme à la recherche de pilons de nature politique : la possibilité de les identifier au souvenir des chefs de guerre participe de la satire.
+
+**[I]** Aucun individu ne suffit toutefois à expliquer la guerre du Péloponnèse. Les objectifs stratégiques, les alliés, les serments, les ressources et les revendications territoriales importent aussi. Faire disparaître deux meneurs ne résout pas mécaniquement les intérêts opposés. La comédie simplifie pour produire l'ouverture d'une chance ; l'historien restitue ce que la simplification rend invisible.
+
+### 3. Les traités : restituer un monde juridique [A]
+
+Thucydide V, 18 conserve les clauses d'une paix envisagée pour cinquante ans, portant sur la cessation des hostilités, la sécurité des sanctuaires panhelléniques et différentes restitutions. La précision des dispositions montre que la paix grecque n'était pas seulement une émotion heureuse ni la disparition spontanée des armées. Il faut négocier des lieux, des accès, des garanties et des relations entre alliés.
+
+**[I]** L'opposition entre la joie scénique et le détail juridique est structurante. *La Paix* personifie un bien commun ; le traité doit organiser des obligations entre communautés inégales. La première rend la paix désirable ; le second tente de la rendre applicable. Une monographie historique ne peut pas faire disparaître l'un de ces deux registres.
+
+### 4. L'année 421 n'efface pas la guerre passée [A/I]
+
+Dix années environ se sont écoulées depuis le début du conflit en 431. Les campagnes, les raids sur l'Attique, le déplacement des habitants vers l'espace urbain, les pertes humaines et les dépenses ont modifié les conditions de vie. Thucydide II, 14–17 décrit le déplacement pénible des ruraux et l'abandon de leurs terres à l'approche de l'invasion péloponnésienne ; le récit n'autorise pas une reconstruction homogène de chaque maison athénienne, mais il établit la profondeur sociale de la perturbation.
+
+**[I]** Une décision de paix intervient dans une société déjà transformée. Revenir aux champs n'est pas se réveiller dans l'état matériel exact d'avant-guerre : certains arbres ont été détruits, certaines familles endeuillées, certaines pratiques interrompues. L'imaginaire du retour peut donc exprimer une attente plus qu'une description de ce qui serait immédiatement possible.
+
+### 5. Les garanties d'un texte ne sont pas l'accomplissement de la paix [A/I]
+
+Thucydide V, 20–24 expose la conclusion de la paix et les arrangements complémentaires. La documentation montre également que des tensions subsistent autour des alliés et des restitutions. Il n'est pas nécessaire de raconter ici toute l'histoire ultérieure de la guerre pour constater une difficulté : un accord diplomatique n'unifie pas instantanément les préférences ni les intérêts de toutes les communautés concernées.
+
+**[I]** La comédie dramatise la résistance à la transition dans la traction des cordes et l'hostilité de certains métiers. Ce rapprochement demeure analytique. Il ne prouve pas que chaque caricature renvoie à une délégation précise des négociations ni que les conditions exactes du traité soient codées dans chaque vers.
+
+### 6. La fête civique comme lieu d'anticipation [A/I]
+
+Les Grandes Dionysies sont un concours public de théâtre, avec financement, chœurs, acteurs, spectateurs et reconnaissance civique. La présence possible de visiteurs étrangers et de représentants de cités alliées ajoute une portée particulière aux allusions panhelléniques, sans qu'on puisse dresser la liste des personnes ayant assisté à cette représentation. La scène s'adresse à une communauté imaginée plus large que le foyer d'un viticulteur.
+
+**[I]** Le théâtre ne conclut pas un traité ; il met en forme une attente commune. La représentation peut faire vivre à son public les étapes d'une résolution — ascension, révélation, coopération, restauration, banquet — avant qu'une procédure politique n'en ait garanti l'application.
+
+### 7. Pourquoi lire la paix comme « passage » ? [I]
+
+Stylianos Chronopoulos a proposé de comprendre *La Paix* comme un traitement du moment de transition, avec ses seuils, ses tensions et ses adversaires. La notion de **liminalité** peut désigner un temps où l'ordre ancien ne fonctionne plus pleinement sans que l'ordre nouveau soit stabilisé. L'employer ne signifie pas que la cité d'Athènes pratiquait un rite de passage au sens technique identique à ceux analysés par des anthropologues modernes.
+
+La pièce offre un terrain particulièrement approprié : la déesse est inaccessible, puis tirée du gouffre ; les Grecs sont divisés, puis semblent coopérer ; le monde militaire est rejeté, mais ses fournisseurs persistent ; la fête reprend, alors que tous les rapports de domination ne sont pas abolis. La transition est en partie réussie et en partie contestable.
+
+---
+
+## II. Philologie : les mots qui fabriquent la conversion
+
+### 8. *Eirènè* (Εἰρήνη) : état, relation, déesse [A]
+
+εἰρήνη peut désigner une situation de paix, un accord ou un ordre de non-hostilité selon le contexte. Dans la pièce, Eirènè est aussi une figure divine représentée sur scène ; la frontière entre notion et personne devient un instrument du merveilleux. Il faut éviter deux réductions : la déesse n'est pas simplement le traité de Nicias avec un costume, et le traité n'est pas l'effet surnaturel d'une apparition théâtrale.
+
+**[I]** La personnification rend matériellement disponible ce qui n'est d'ordinaire qu'une condition politique : le public peut voir qu'on retient la paix, qu'on la tire, qu'on la conduit chez soi. Le phénomène est intellectuellement puissant, puisqu'il transforme un rapport entre cités en être que la cité voudrait protéger.
+
+### 9. *Polemos* (Πόλεμος) et *Kydoimos* [A]
+
+Πόλεμος, la Guerre, devient dans l'intrigue une figure active et violente ; Κυδοιμός (*Kydoimos*) désigne Tumulte ou Vacarme. Leurs interactions avec les objets culinaires exploitent le décalage entre des forces qui détruisent des cités et les ustensiles d'une cuisine. Ce n'est pas une « mythologie officielle de la guerre » que le texte enregistre, mais une matérialisation satirique.
+
+**[I]** La violence politique est représentée comme quelqu'un qui prépare et mélange les ingrédients d'un repas. Les communautés et leurs souffrances cessent d'être des abstractions ; elles deviennent la matière manipulable d'un puissant. L'horreur peut être comprise sans narration d'une bataille précise.
+
+### 10. *Spondai* (σπονδαί) : libation et trêve [A/I]
+
+Le pluriel *spondai* peut renvoyer à des libations rituelles et à des accords de paix ou de trêve. Cette parenté n'implique pas que tout accord soit identique à un sacrifice. Elle indique que les gestes de garantie et le langage des relations politiques peuvent se recouper dans certains usages grecs. *La Paix* déploie plusieurs formes de rite et d'accord dont les valeurs ne se réduisent pas à « ne plus se battre ».
+
+**[I]** La langue permet de penser la paix comme relation instituée et rendue solennelle, non comme simple négation de la guerre. La précision philologique importe : une traduction qui ne conserve qu'un sens effacerait les résonances possibles.
+
+### 11. *Trygaios* (Τρυγαῖος) et la vendange [A/H]
+
+Le nom du héros se rattache à l'univers de la vendange et du vin, par rapprochement avec *trygê* et la famille de *tryx*. Le personnage est un cultivateur de vigne ; son nom concentre une identité productive qu'il transporte jusque dans le monde des dieux. Le commentaire pédagogique français d'Odysseum signale ce jeu onomastique et le contraste avec le trajet tragique de Bellérophon.
+
+**[H]** Une étymologie de scène n'est pas une démonstration sur chaque étape historique de formation du nom. Il suffit de constater que la résonance viticole est lisible pour comprendre sa fonction dramatique : celui qui veut restituer les saisons et le raisin porte dans son nom la possibilité du retour.
+
+### 12. *Opôra* (Ὀπώρα) : le fruit de la saison [A]
+
+Opôra peut désigner la période des fruits mûrs, les produits de la saison ou l'abondance selon les contextes. Dans la comédie, elle accompagne Eirènè, puis devient l'objet d'une union nuptiale avec Trygée. Elle n'est pas interchangeable avec la déesse elle-même. Une relation se construit entre la condition politique de paix et les productions agricoles qu'elle permet de préserver.
+
+**[I]** La différence est causale : cultiver exige du temps, une terre accessible, la sécurité des personnes et la possibilité d'attendre la récolte. L'abondance est l'issue espérée d'un processus, non le simple sourire des dieux à un banquet.
+
+### 13. *Theôria* (Θεωρία) : voir, voyager, participer à une fête [A]
+
+*Theôria* et *theôros* appartiennent au vocabulaire des déplacements et délégations vers des fêtes, concours ou sanctuaires ; la théôria comique est personnifiée comme compagne de la Paix et reconduite vers la cité. Les rapprochements avec le sens philosophique ultérieur de « contemplation » demandent de ne pas faire d'une même forme lexicale une catégorie intemporelle.
+
+**[I]** L'existence de Theôria montre que la paix n'est pas une activité réduite à la maison : elle rend possibles des voyages, une culture religieuse et festive, des déplacements sans menace. La joie du retour des fêtes dépend des routes et des relations entre cités.
+
+### 14. *Geôrgoi* et *ponos* : travailleurs de la terre [A/I]
+
+Le chœur rassemble des cultivateurs (*geôrgoi*), dont les désirs sont différents de ceux que la guerre pourrait enrichir. Il serait faux d'en faire l'ensemble du peuple athénien. Tous les citoyens ne travaillent pas la terre ; tous les travailleurs de la terre ne sont pas des citoyens ; les personnes esclavisées et d'autres dépendants participent aux productions agricoles.
+
+**[I]** Le chœur transforme un intérêt social situé en cause panhellénique. Le mécanisme est politiquement fécond et discutable : les ruraux parlent au nom du monde grec tout entier, comme si la sécurité de leurs activités révélait le véritable intérêt de chacun.
+
+### 15. *Koinon*, *homonoia* et la difficulté d'agir ensemble [I]
+
+Le vocabulaire du commun, de l'entraide et du partage traverse les invocations autour de la libération de la déesse. Il faut néanmoins distinguer les termes réellement prononcés dans chaque passage des catégories modernes d'« action collective » ou de « consensus ». Une tâche peut être accomplie ensemble sans qu'une communauté soit politiquement unanime.
+
+**[I]** La scène des cordes rend cette différence visible : les groupes ne tirent ni avec la même énergie ni dans la même direction. La coopération est un travail, pas une qualité morale déjà possédée.
+
+### 16. *Sphagia* et *thyô* : sacrifier n'est pas tuer à la guerre [A]
+
+Dans les vers 1018–1022, Trygée refuse d'ensanglanter l'autel d'Eirènè et recommande que l'immolation de la victime soit accomplie à l'intérieur. Le texte ne prouve pas l'abolition du sacrifice animal dans une religion réformée. Il indique un usage scénique singulier du vocabulaire et des gestes rituels, avec une tension entre représentation visible et action dissimulée.
+
+**[I]** Une lecture anti-sacrificielle immédiate risquerait de confondre la répulsion envers les violences de guerre avec la négation des pratiques cultuelles. Le grec permet de poser la question de la convenance du rite à la déesse sans annuler l'existence des pratiques sacrées.
+
+### 17. *Mant(e)is*, *chrêsmoi*, *Bacis* : prophétie et monopole du sens [A/I]
+
+Hiéroclès est un personnage qui mobilise une autorité mantique et cite des oracles attribués à la tradition de Bacis. Le problème n'est pas de décider que toute divination grecque était une fraude. La satire vise un individu dont les formules obscures servent, sur scène, à empêcher ou retarder l'accord. La notion d'« oracle » recouvre elle-même des dispositifs et des transmissions très divers.
+
+**[I]** La question politique est celle de la captation de l'autorité de la tradition : une voix peut invoquer le sacré pour empêcher la communauté de reconsidérer une décision. Le comique rend cette prétention contestable en la confrontant à la fête qui s'organise sous ses yeux.
+
+### 18. Du bronze à l'outil : mots, formes et usages [A/I]
+
+Les vendeurs de casques, de trompettes et de lances apparaissent dans la séquence de la reconversion finale. Le même métal peut avoir différents usages, mais le texte ne propose pas une technique industrielle de transformation à l'échelle d'une cité. Il imagine des substitutions grotesques : une cuirasse devient récipient commode, une trompette est déclassée, une lance peut servir d'autre instrument.
+
+**[I]** Le comique distingue implicitement **valeur matérielle**, **usage social** et **prix attendu**. Un objet bien fabriqué peut cesser d'être désirable lorsque la finalité collective qui l'employait disparaît.
+
+---
+
+## III. Le scarabée : la politique commence dans la matière dégradée
+
+### 19. L'ouverture au fumier [A]
+
+*La Paix* commence non par une déclaration du héros mais par deux serviteurs occupés à préparer la nourriture d'un grand scarabée. Les vers 1–15 installent le langage de l'excrément, du dégoût, du soin forcé et de la servitude. Ce début n'est pas un prélude anodin à une idée abstraite ; il donne à voir les conditions basses du grand projet qui suivra.
+
+**[I]** Une dramaturgie du salut politique commence par le travail physique de ceux qui sont subordonnés. Cette discordance est essentielle : les entreprises les plus nobles peuvent dépendre d'activités que la communauté méprise ou rend invisibles.
+
+### 20. Le travail servile soutient l'héroïsme [A/I]
+
+Les serviteurs fabriquent les boulettes, supportent l'odeur et commentent le comportement de leur maître. Trygée prend le rôle du voyageur héroïque, mais son envol n'existerait pas sans cette préparation. Le texte ne supprime donc pas, même dans son projet pacifique, la hiérarchie de la maison athénienne : les esclaves demeurent des personnes qui travaillent pour l'action du maître.
+
+**[I]** Ce constat empêche une lecture globale de la pièce comme utopie égalitaire. La paix promise à tous les Grecs peut s'appuyer sur des dépendances qui ne sont pas discutées comme telles. Le chœur célèbre la vie rurale sans faire de l'émancipation des travailleurs serviles son objet central.
+
+### 21. Bellérophon inversé [A]
+
+Trygée évoque le voyage vers le ciel et la tradition de Bellérophon ; aux vers 135–148, sa fille souligne la différence entre le scarabée et un coursier ailé, ainsi que le risque de ressembler à un héros tragique boiteux s'il chutait. La scène rappelle une matière mythique et une pratique de parodie d'Euripide, sans que la tragédie perdue de *Bellérophon* puisse être reconstituée à partir de ce seul passage.
+
+**[I]** L'épopée du héros sublime devient une ascension sur l'animal de l'ordure. La comédie transforme la hiérarchie des moyens : une bête basse, nourrie de déjections, permet d'atteindre la hauteur que le cheval héroïque incarnait autrement. Cette inversion ne rend pas le projet moins sérieux dans sa finalité.
+
+### 22. La *mêchanê* et l'épreuve des sens [H]
+
+La représentation de l'envol implique une technique scénique, souvent rapprochée de la grue de théâtre (*mêchanê*). Les détails de manipulation, la taille exacte de l'animal et l'organisation concrète des mouvements ne sont pas intégralement documentés. Des reconstitutions modernes peuvent rendre la scène intelligible sans être présentées comme l'unique manière historique dont elle fut jouée.
+
+**[I]** La machine souligne le pouvoir du théâtre : donner à un travailleur de la vigne les moyens d'approcher les dieux. La technologie dramatique produit une expérience spectaculaire de franchissement de frontières, pas une compétence divine réelle accordée au citoyen.
+
+### 23. Du déchet à l'élévation [I]
+
+Le scarabée se nourrit de matière rejetée. Le héros s'élève au moyen d'un organisme qui recycle le déchet, ce qui autorise une lecture prudente en termes de conversion. Ce serait aller trop loin que de voir dans les vers un traité antique sur l'économie circulaire ou l'écologie contemporaine. Le comique exploite d'abord le contraste des registres et l'absurdité matérielle de l'ascension.
+
+**[I]** La conversion peut néanmoins devenir un fil conducteur du dossier : une société ne change pas de finalité en supprimant tous ses objets, mais en inventant d'autres usages à ce qu'elle possède déjà. L'animal du fumier anticipe, comme image, les objets militaires déclassés du dénouement.
+
+### 24. L'héroïsme au service d'une activité ordinaire [I]
+
+Trygée ne demande pas à recevoir une couronne de vainqueur militaire. Il cherche à rétablir les conditions dans lesquelles cultiver, boire, voyager et célébrer redeviennent possibles. Sa mission est extraordinaire par les moyens, ordinaire par le but. La comédie inverse ainsi l'idéologie de la gloire : la vraie réussite serait de rendre inutile le spectacle héroïque de la guerre.
+
+**[I]** Cette formulation est notre lecture. Elle ne permet pas de déclarer que tous les Athéniens répudiaient l'idéal d'excellence militaire. Une société peut désirer le retour de ses activités ordinaires tout en estimant la compétence guerrière nécessaire à sa sécurité.
+
+### 25. Les filles de Trygée : le coût domestique du projet [A/I]
+
+Les filles s'inquiètent du voyage de leur père et de son mode d'ascension. La dimension familiale humanise l'entreprise et signale qu'une décision exceptionnelle mobilise des risques qui ne pèsent pas sur le seul héros. La vie rurale qui doit être restaurée est aussi celle d'une maison où des enfants attendent le retour d'un adulte.
+
+**[I]** La présence de ces personnages rend visible une perspective distincte de celle des stratèges et des négociateurs. La paix ne concerne pas seulement les grandes puissances : elle promet la prévisibilité des relations de soin, de nourriture et de filiation. Là encore, le texte ne fournit aucune statistique familiale.
+
+---
+
+## IV. La Guerre prépare un repas : une géopolitique culinaire
+
+### 26. Les cités comme ingrédients [A]
+
+Aux alentours des vers 230–288, Polemos veut broyer des cités et des groupes humains au moyen d'ustensiles culinaires. Les noms géographiques font surgir des lieux réels dans une fiction où le traitement des communautés ressemble à une recette. L'humour tient à la disproportion entre le sort de populations et la banalité d'un geste de cuisine.
+
+**[I]** Ce dispositif propose une critique des détenteurs de la violence : ils manipulent une matière qu'ils ne sont pas ceux à souffrir. La guerre apparaît comme un pouvoir d'extraction et de réduction, au sens littéral du broyage, sans que l'image suffise à expliquer toutes ses causes politiques.
+
+### 27. Les pilons manquants [A/I]
+
+La difficulté de Polemos à trouver des pilons aptes à poursuivre son opération permet des allusions aux morts de chefs de guerre. Le passage exploite des noms ou identifications que les commentateurs rapprochent notamment de Cléon et Brasidas. Mais l'intrigue n'établit pas une mécanique historique où la guerre ne pourrait plus exister une fois deux hommes morts.
+
+**[I]** Le moteur de la satire est une dépendance personnifiée : le système violent paraît incapable de fonctionner sans certains opérateurs. La comédie crée ainsi une occasion d'action. Trygée saisit un moment où le conflit semble temporairement privé de ses instruments.
+
+### 28. Une causalité commode, volontairement simplifiée [I]
+
+Thucydide reconnaît le poids des opposants à la paix, mais fournit un récit plus complexe des intérêts et des négociations. Le théâtre fait avancer l'histoire par la disparition des obstacles ; l'enquête historique doit examiner les alliés, les rapports de forces, les ressources, les occupations et les clauses. La simplicité de la cuisine n'est pas une faiblesse documentaire à corriger par un récit caché : elle est la forme comique choisie.
+
+**[I]** La pièce peut être lue comme une réflexion sur la fragilité d'un système dont les acteurs s'imaginent indispensables. Elle ne constitue pas une preuve de la théorie des « grands hommes » selon laquelle quelques personnalités suffisent toujours à produire ou arrêter la guerre.
+
+### 29. Le rire devant la destruction [I]
+
+Les menaces de Polemos deviennent risibles parce qu'elles empruntent à un cadre alimentaire. Le rire peut soulager l'angoisse de spectateurs fatigués par la guerre ; il peut aussi banaliser la souffrance de populations étrangères évoquées comme condiments. Le dramaturge ne permet pas de trancher ce conflit moral par un slogan pacifiste unique.
+
+**[I]** Le rire met à distance la violence, mais il peut la manipuler comme une image agréable. Une éthique de la lecture doit conserver cette ambivalence : la dénonciation n'efface pas la dimension potentiellement cruelle de la représentation.
+
+### 30. Un monde où les dieux ne gouvernent pas directement [A/I]
+
+Quand Trygée arrive, les dieux ne se présentent pas comme une administration disponible pour corriger immédiatement les décisions humaines. Hermès joue un rôle de médiateur et transmet un récit des raisons du départ de la Paix. La Guerre est installée à la place des anciennes puissances, ce qui rend le voyage du héros à la fois grave et absurde.
+
+**[I]** L'absence ou l'indifférence divine déplace la responsabilité vers les humains. Même si le monde comporte des personnifications mythiques, la délivrance exige une action collective. La comédie ne démontre pas une doctrine athée ; elle dramatise les effets politiques d'une assistance surnaturelle insuffisante.
+
+---
+
+## V. Tirer la déesse : coalition et dissensions entre Grecs
+
+### 31. Le chœur des cultivateurs représente-t-il l'ensemble des Grecs ? [A/I]
+
+Autour des vers 296–356, le chœur proclame une mobilisation en faveur de la paix et la fête qui l'accompagnera. Le discours appelle des hommes de différentes communautés à agir. **[I]** Cette représentation est largement agricole : les producteurs dont les terres ont souffert font de leur désir de revenir aux champs une cause de portée universelle.
+
+**[L]** Il ne faut pas convertir les membres du chœur en délégués officiellement choisis par chaque cité. Leur configuration est dramatique ; la représentation ne nous livre ni assemblée panhellénique authentique ni état exhaustif des opinions grecques.
+
+### 32. Le travail de traction comme image politique [A]
+
+Vers 458–520, Trygée, Hermès et le chœur tentent de tirer la Paix de sa prison au moyen de cordes. Les encouragements répétés, les hésitations, les gens qui tirent contre d'autres et le désordre du groupe font avancer l'épisode par gestes visibles. C'est un choix scénique remarquable : la réconciliation n'est pas obtenue par une formule de magie mais au prix d'une activité coordonnée.
+
+**[I]** L'action commune devient mesurable à la résistance matérielle. Un traité peut être signé par des représentants ; la représentation veut que la paix dépende de ceux qui vivent avec ses conséquences. La tension entre ces deux plans de légitimité mérite d'être conservée.
+
+### 33. Tirer et tirer à l'envers [A/I]
+
+Les vers 488–499 présentent explicitement la contrariété : certains participants allongent leurs efforts dans des directions incompatibles, si bien que le groupe tire sans produire de progrès. La scène ne cherche pas seulement à montrer l'inconstance des foules ; elle donne une forme physique à la coexistence d'intentions contradictoires.
+
+**[I]** Dans les négociations réelles, chaque partenaire peut vouloir la paix tout en exigeant des conditions inacceptables pour les autres. La traction en sens opposés constitue une image convaincante de cette difficulté. Elle ne doit pas être utilisée pour attribuer précisément chaque mouvement à une clause déterminée du traité de Nicias.
+
+### 34. Les accusations croisées [A]
+
+La scène mentionne Mégariens, Béotiens, Argiens, Lacédémoniens et Athéniens sous des traits comiques différents. Les groupes sont accusés de manque de coopération, d'opportunisme ou d'intérêt particulier. Les vers 473–485 et 500–507 fournissent un ensemble de répliques localisables, mais certains raccords textuels comportent des difficultés d'édition ; l'appareil complet n'a pas été collationné ici.
+
+**[I]** La comédie ne propose pas une table ethnographique des caractères nationaux. Elle exploite les stéréotypes utiles au rire et rend perceptible une difficulté diplomatique : même ceux qui pourraient profiter de la paix ne sont pas disposés à en supporter les mêmes coûts.
+
+### 35. Les fabricants d'armes empêchent-ils la paix ? [A/I]
+
+Au vers 480, un forgeron est accusé de retenir un groupe dans son effort de traction. La scène précède l'arrivée des marchands d'armement à la fin de la pièce, ce qui crée une continuité de thème. La possible résistance de certains producteurs à l'arrêt d'une guerre peut se comprendre par le revenu qu'ils tirent de commandes.
+
+**[L]** Nous ne possédons pas de comptabilité qui permettrait de démontrer que les fabricants athéniens ont historiquement bloqué le traité de 421. Le passage expose une logique d'intérêt théâtrale, non une enquête sur un lobby constitué.
+
+### 36. La dénonciation d'intérêts partisans [I]
+
+Trygée veut qu'on se mette enfin à tirer de concert. Pourtant le groupe n'est pas un sujet politique homogène. L'un espère récupérer ses terres, l'autre sauver son prestige, un troisième préserver un avantage militaire. La comédie répartit ces intérêts dans des personnages comiquement étiquetés, parce qu'un conflit complexe se prête mieux à la scène lorsqu'il reçoit des voix distinctes.
+
+**[I]** Ce procédé sert une pensée de la négociation : l'unité ne précède pas les discussions, elle doit être produite. Mais la pièce minimise aussi le problème de ce que chaque partenaire est prêt à céder, préférant une délivrance symbolique à une liste de concessions.
+
+### 37. La colère contre les bénéficiaires de guerre [A/I]
+
+Au voisinage des vers 445–452, les personnages dénoncent ceux qui souhaitent le combat pour tirer profit du commerce ou de fonctions liées au conflit. On y rencontre aussi la menace dirigée contre des personnes serviles prêtes à fuir, indice que la solidarité proclamée est socialement limitée. La scène mêle donc une volonté de délivrance et une violence punitive envers ceux qui n'entrent pas dans la communauté du « nous ».
+
+**[I]** Il est essentiel de ne pas effacer ce contraste. Une critique des profiteurs peut être juste et rester enfermée dans les préjugés de l'ordre social. Le monde pacifié d'Aristophane ne se confond pas avec une égalité universelle.
+
+### 38. Une délivrance qui n'est pas un contrat [A/I]
+
+La Paix surgit finalement de la prison avec ses compagnes. Ce spectacle donne une résolution visible à une période de peur. Il n'indique ni les clauses exactes d'un accord interétatique ni les mécanismes de contrôle des frontières. L'histoire du traité reste accessible dans Thucydide, non dans le geste de tirer une déesse.
+
+**[I]** Les deux sources répondent à des questions différentes. Le texte comique montre pourquoi et comment une collectivité veut se penser unie ; l'histoire documentaire demande par quelles procédures et conditions cette union pourrait durer.
+
+---
+
+## VI. Eirènè, Opôra, Theôria : les biens que rend possibles la paix
+
+### 39. Une déesse rendue visible [A]
+
+Trygée salue la déesse et ses compagnes après leur délivrance autour des vers 520–530. L'odeur de la Paix est associée à des fruits, à des réjouissances, aux Dionysies et à des musiques. L'opposition avec les équipements malodorants du soldat produit une véritable poétique des sens : la fin de la guerre n'est pas décrite seulement par des institutions mais par des expériences sensibles.
+
+**[I]** La comédie donne à éprouver une transformation du milieu. Ce qui était sac, onion, camp et fatigue devient saison, danse, nourriture et sociabilité. La politique y est pensée comme condition de possibilités quotidiennes.
+
+### 40. Le parfum contre le paquetage [A/I]
+
+Le bagage militaire, les odeurs d'aliments de campagne et l'encombrement des armes reviennent comme négatifs de la vie civile. Le texte utilise des sensations communes pour discréditer le monde guerrier. Il ne dit pas qu'une armée réelle est intrinsèquement incapable de défendre ses citoyens ; il en exagère les désagréments pour faire sentir l'urgence du retour.
+
+**[I]** Cette opposition permet d'étudier les affects politiques. Un citoyen peut soutenir une guerre au nom de la stratégie et, simultanément, détester la matérialité du service. La comédie fait passer au premier plan l'expérience ordinaire qui est souvent absente des récits de décisions.
+
+### 41. La récolte est un processus fragile [I]
+
+Opôra ne se présente pas comme un coffre plein de monnaie. Sa personnification renvoie au temps de maturation et à l'accès aux champs. La guerre interrompt les travaux, dégrade la sécurité des lieux, compromet des investissements dont les fruits n'arrivent que plus tard. Le fait que Trygée soit un cultivateur rend ces dépendances concrètes.
+
+**[I]** On peut parler d'« horizon économique » de la paix : la capacité de semer, de tailler, de récolter et de conserver exige une anticipation du futur. La comédie réclame la possibilité de cette anticipation, non une simple augmentation instantanée de la richesse.
+
+### 42. La fête ne se réduit pas à la consommation [A/I]
+
+Theôria représente le voyage festif, la célébration et le lien entre communautés religieuses. Les fêtes grecques impliquent des déplacements, des rassemblements, des sacrifices, des échanges et des dépenses. La paix peut rétablir l'accessibilité de certains itinéraires et la confiance nécessaire à la visite d'un sanctuaire.
+
+**[I]** Le bien commun n'est pas limité au produit agricole : il comprend la capacité de se réunir et de reconnaître des obligations communes. Le statut exact des délégations dépend des cités et des sanctuaires ; il ne doit pas être nivelé par une image poétique générale.
+
+### 43. La livraison de Theôria à la Boulè [A/I]
+
+Une séquence de la seconde partie de la pièce confie Theôria à un cadre civique, avec un langage volontairement érotisé. Il serait trompeur de transformer cette personnification féminine en déléguée autonome de l'Assemblée ou en témoignage sur l'émancipation des Athéniennes. L'objet de la scène est la jouissance collective de la fête et le jeu sur la disponibilité de son corps fictif.
+
+**[I]** Cette objectification témoigne des limites de l'utopie représentée. Les hommes citoyens reprennent le centre de l'action une fois la paix délivrée ; les figures féminines symbolisent des biens attendus sans disposer nécessairement de la parole politique que possèdent leurs bénéficiaires.
+
+### 44. La déesse muette et ses interprètes [A/I]
+
+Eirènè ne prononce pas un discours politique développé comme le ferait une héroïne qui expose un programme. Hermès et Trygée interprètent ses indications, ses reproches et ses désirs. La déesse est souvent l'objet d'une représentation médiatisée par ceux qui prétendent parler pour elle.
+
+**[I]** Ce mécanisme mérite attention : le bien commun est personnifié, puis son sens est défini par des interprètes. Il ne suffit pas d'affirmer « la Paix le veut » ; il faut demander qui a construit cette voix. Le théâtre rend visible une opération comparable à la personnification du peuple dans les discours politiques.
+
+### 45. Une paix qui reproche des occasions manquées [A]
+
+Aux vers 603–668, Hermès raconte les décisions et les fautes qui auraient conduit à la disparition de la déesse ; la Paix elle-même est présentée comme ayant tenté de revenir avec des trêves, mais ayant été repoussée à plusieurs reprises. Les paroles attribuées au dieu contiennent des allusions reconnaissables à la politique d'Athènes, à Périclès et au décret mégarien.
+
+**[I]** Le récit transforme le passé en histoire morale des occasions manquées. Il ne doit pas être confondu avec l'explication historiographique complète des causes de la guerre : Thucydide, Aristophane et la tradition postérieure répondent à des questions différentes et choisissent des responsabilités différentes.
+
+### 46. Périclès, Phidias et le décret mégarien : les limites du récit accusateur [A/H]
+
+Les vers 603–614 mettent en rapport, dans une généalogie comique des causes, l'affaire de Phidias, la peur de Périclès et la réglementation visant Mégare. Les désaccords sur la chronologie, les sources et les procédés de satire interdisent de lire cet enchaînement comme une preuve documentaire de motivation personnelle. Aristophane raconte une causalité politiquement intelligible mais dramatisée.
+
+**[I]** Le passage montre la puissance des explications de guerre par diversion : un dirigeant voudrait détourner l'attention de ses propres difficultés. Une enquête doit la confronter aux intérêts militaires, commerciaux et impériaux réellement en jeu, plutôt que la transformer en certitude sur les intentions de Périclès.
+
+### 47. Rouvrir l'agora [A/I]
+
+Dans la prière à Eirènè, aux vers 987–1016, Trygée demande la fin de l'hostilité, le retour de fruits, d'ail, de légumes, de volailles et de relations marchandes, notamment avec la Béotie. L'agora est imaginée comme lieu de circulation et d'abondance. Cette scène ne donne pas un relevé de prix ni un programme fiscal, mais une image sensorielle du commerce rétabli.
+
+**[I]** Le bénéfice de la paix est ici relationnel : le marché se peuple à nouveau de produits qui viennent de régions jusqu'alors séparées par la guerre. Le droit de circuler et la capacité de vendre deviennent des conditions de la vie commune.
+
+### 48. L'iconographie postérieure d'Eirènè et Ploutos : une comparaison sans anachronisme [A/L]
+
+Un groupe attribué à Céphisodote l'Ancien représente Eirènè portant l'enfant Ploutos ; des copies romaines et des témoignages antiques, dont Pausanias I, 8, 2, rendent l'œuvre accessible. Le Metropolitan Museum of Art et le Museum of Classical Archaeology de Cambridge situent l'original au IVe siècle av. n. è., généralement dans l'environnement des années 375–370. **Cette sculpture est donc postérieure à la comédie de 421** et n'est pas une photographie du décor d'Aristophane.
+
+**[I]** Le rapprochement reste éclairant : paix et prospérité y sont conçues comme une relation de protection et de croissance. Il serait faux d'affirmer que la statue de 421 reproduisait le groupe de Céphisodote, œuvre créée dans un contexte postérieur.
+
+---
+
+## VII. Le sacrifice d'Eirènè : traiter la violence dans un rite de paix
+
+### 49. Mettre en scène le rite plutôt que le citer [A/I]
+
+Les vers 940–1126 organisent le retour du sacrifice : préparation de l'autel, accessoires, prières, choix d'une victime, intervention d'un devin, contestation des paroles oraculaires et expulsion finale. Le rite n'est pas seulement un élément qui authentifie la vie religieuse ; il devient un espace dramatique de confrontation autour de la paix.
+
+**[I]** Une cérémonie peut produire la cohésion d'un groupe et servir de lieu à des conflits d'interprétation. La comédie fait apparaître ces dimensions ensemble. Elle ne prouve pas qu'un rite historique envers Eirènè ait eu exactement cette séquence en 421.
+
+### 50. Faut-il tuer devant une déesse pacifique ? [A]
+
+Aux vers 1018–1022, l'objection de Trygée est explicite : Eirènè ne se réjouit pas des immolations sanglantes, dit-il, et l'autel ne doit pas être souillé de sang ; il demande qu'on fasse à l'intérieur la mise à mort et qu'on ramène les parties nécessaires. **[A]** Ces paroles sont dans le texte grec ; **[I]** leur interprétation exige de distinguer refus de montrer le sang sur scène et condamnation générale du sacrifice.
+
+Mary C. English et Dustin W. Dixon ont souligné, dans leur étude sur les sacrifices de *La Paix* et des *Oiseaux*, la coexistence d'un jeu comique sur les conventions et d'un maintien de certaines bornes rituelles. Le résumé public ne permet pas d'attribuer à leur chapitre tous les détails de l'explication.
+
+### 51. Une frontière scénique et religieuse [I]
+
+Le transfert de l'immolation à l'intérieur n'abolit pas la victime ni la part offerte ; il transforme la visibilité du geste. Le même événement peut être connu du public sans être représenté devant ses yeux. **[I]** Cette mise à distance a plusieurs significations possibles : une décence scénique, une convenance à la déesse de Paix, un rire sur la ruse du héros ou un compromis entre les exigences du rite et les règles de la scène.
+
+Aucun de ces sens ne doit être déclaré exclusif sans examen. La force du passage réside dans la tension : la paix veut mettre fin à une violence, mais un sacrifice animal peut rester une action religieusement attendue.
+
+### 52. La prière fabrique un monde souhaité [A/I]
+
+Les vers 974–1016 constituent une prière où Trygée formule une paix qui se traduirait par la disponibilité de biens, la fin des querelles et la confiance entre Grecs. Il ne demande pas seulement un sentiment individuel de calme. Les requêtes portent sur des actes et des circulations concrètes.
+
+**[I]** Le rite articule représentation d'un ordre souhaitable et prescription collective : en priant, les personnages énoncent ce qui devrait revenir. Mais la parole de prière ne constitue pas la preuve que tous les objectifs seront atteints, pas plus que la signature d'un traité ne garantit sa pleine application.
+
+### 53. Hiéroclès entre dans le rite [A]
+
+Autour des vers 1045–1126, Hiéroclès arrive avec ses paroles de devin. Il tente de suspendre l'accord en invoquant des formules attribuées à Bacis et en prononçant des conditions invérifiables, exprimées dans une diction volontairement archaïsante. Trygée réagit par le rire, l'interruption, puis le rejet.
+
+**[I]** La confrontation n'est pas simplement entre « science » moderne et « religion » archaïque. Deux personnages mobilisent un univers religieux ; l'un organise une célébration de la Paix, l'autre prétend en condamner le moment au nom de l'oracle. Le conflit porte sur l'autorité de définir le rite.
+
+### 54. La fausse impossibilité : le loup et la brebis [A/I]
+
+Aux vers 1073–1079, Hiéroclès multiplie des conditions absurdes : la paix ne serait pas opportune avant des événements invraisemblables, notamment l'union du loup et de la brebis. Le procédé relève d'un langage d'énigme et de présage. Le héros refuse de se laisser enfermer dans une suite indéfinie de conditions.
+
+**[I]** Le comique fait reconnaître un problème de décision politique : si l'on ne peut agir qu'après avoir obtenu une certitude impossible, toute réforme peut être remise à jamais. Cela ne signifie pas qu'il faut ignorer les risques ; cela invite à distinguer prudence raisonnable et obstruction par l'impossible.
+
+### 55. Bacis, mantes et savoir religieux [L]
+
+Le nom de Bacis apparaît dans des collections et traditions oraculaires grecques ; leur transmission est complexe. L'utiliser dans la comédie ne permet pas d'établir que tous les devins d'Athènes partageaient le discours d'Hiéroclès. L'enquête ne doit pas confondre une figure théâtrale de charlatan et l'ensemble du personnel religieux, dont les fonctions varient selon les cités.
+
+**[I]** La critique d'un prétendu monopole de la révélation peut être profonde sans exiger l'idée que le dramaturge rejetait toute forme de divination. La fête d'Eirènè elle-même a lieu dans un monde où les dieux et leurs conventions sont pris au sérieux au niveau de la fiction.
+
+### 56. Le conflit sur la nourriture sacrificielle [A/I]
+
+Hiéroclès cherche également à participer au partage des victuailles ; le héros et son serviteur contestent son droit à la part. La dispute sur les viandes du sacrifice donne un intérêt très concret à la querelle des discours. Le devin ne fait pas seulement une prophétie : il entre dans un espace de redistribution religieuse.
+
+**[I]** La scène met en question les rapports entre autorité de parole et accès aux ressources. Celui qui prétend savoir ce que les dieux exigent pourrait tirer avantage du banquet qu'il perturbe. C'est une critique d'un personnage intéressé, non une démonstration que toute parole rituelle se réduit à une rente alimentaire.
+
+### 57. Expulser le devin : libération ou nouveau monopole ? [I]
+
+Hiéroclès est chassé de la célébration. Le public peut apprécier qu'un obstacle à la paix soit neutralisé ; mais il faut se demander qui décide désormais de ce qu'il est permis de dire. Trygée devient le gardien de l'orthodoxie comique du rite. Le rejet d'un faux savoir ne conduit pas automatiquement à une délibération sans violence.
+
+**[I]** Cette ambivalence réapparaît dans la rencontre avec les marchands d'armes. La victoire de la paix est représentée par des humiliations, des moqueries et des exclusions. Une monographie ne doit pas transformer le succès du héros en justification universelle de ses procédés.
+
+### 58. Le rite comme transition inachevée [I]
+
+English et Dixon décrivent, dans leur étude de 2024, la place des sacrifices comiques à des moments d'optimisme politique. Chronopoulos analyse de son côté la transition comme moment de tensions. Ces perspectives sont compatibles sans être identiques : le rite révèle les conflits qui survivent à la proclamation de la paix, et le théâtre fait de la célébration même un test de son avenir.
+
+**[I]** La paix n'est pas déjà stable parce qu'un autel est dressé. Elle doit triompher d'interprétations concurrentes, de promesses difficiles et de la réapparition d'intérêts particuliers.
+
+---
+
+## VIII. Après la guerre : les métiers qui gagnent, ceux qui perdent
+
+### 59. La fin du combat est une crise de demande [A/I]
+
+Les vers 1198–1264 mettent en scène des vendeurs et fabricants liés à des usages de guerre. Certains voient leurs marchandises invendables, tandis que les métiers agricoles retrouvent de l'intérêt. La scène est l'une des plus importantes pour une lecture économique de la transition, sans qu'elle fournisse des séries de prix ni une étude du secteur métallurgique athénien.
+
+**[I]** Une activité rentable pendant la guerre peut subir un choc quand le besoin militaire se réduit. Le caractère réjouissant de la paix pour une communauté n'implique donc pas un bénéfice uniforme pour chaque producteur. La comédie construit ce contraste à partir de vendeurs individuels, non de statistiques.
+
+### 60. Les fabrications agricoles reviennent [A/I]
+
+Le marchand de faucilles apparaît comme bénéficiaire de la perspective de retour aux travaux ruraux. Le comique oppose la vente des instruments de récolte à la mévente des objets destinés aux soldats. La relation semble immédiate : une société qui cesse de préparer des expéditions peut de nouveau investir dans la terre.
+
+**[I]** Le modèle est volontairement raccourci. Dans la réalité, les guerres n'interrompent pas absolument toute agriculture, pas plus que la paix ne supprime toute fabrication militaire. L'intérêt analytique se situe dans la **réorientation attendue** des usages et des commandes, non dans une séparation totale de deux économies.
+
+### 61. Les armuriers : malveillance ou dépendance ? [I]
+
+La pièce prend plaisir à ridiculiser les professionnels qui perdent un débouché. On pourrait lire leur désarroi comme simple punition de profiteurs. Une enquête sociale plus prudente distingue ceux qui auraient politiquement souhaité la poursuite des combats et ceux qui vivaient d'un métier légal dans un environnement de guerre. Le texte dramatique les confond parfois pour faire rire.
+
+**[I]** Une politique réelle de sortie de guerre aurait à traiter la subsistance des producteurs dont l'activité devient moins nécessaire. La comédie préfère l'humiliation du vendeur à la conception d'une politique de reconversion. Ce décalage est instructif : **le désir de paix ne résout pas spontanément ses coûts de transition**.
+
+### 62. La cuirasse devenue siège [A]
+
+Vers 1224–1238, une cuirasse coûteuse est tournée en dérision comme possible siège d'aisances. Le détournement réduit à une fonction scatologique l'objet qui donnait au combattant protection et prestige. Le vendeur proteste contre cette humiliation. Le gag n'est pas un conseil sérieux d'ingénierie domestique ; il matérialise la perte de valeur d'un équipement lorsque l'horizon de son usage change.
+
+**[I]** La cuirasse représente un capital spécialisé. Sa matière conserve une utilité éventuelle, mais sa forme n'est plus souhaitée. Le rire met donc en scène un problème d'**inadéquation entre forme productive et besoin collectif**.
+
+### 63. La trompette dans la nouvelle économie [A]
+
+Vers 1240–1249, la trompette, anciennement achetée pour des sommes importantes, reçoit des propositions de réemploi dans des jeux et des travaux ordinaires. Le comique affirme la supériorité des usages de fête sur les usages de campagne. L'instrument militaire est dégradé au profit d'un accessoire de plaisir ou de saison.
+
+**[I]** La réorientation des objets pose une question politique : qui décide de ce qu'une technique vaut lorsqu'on cesse d'admirer la finalité qu'elle servait ? Une trompette peut être parfaitement fonctionnelle et n'avoir plus de clients. Le prix n'exprime pas une qualité morale intrinsèque du fabricant.
+
+### 64. Le casque, la lance et les usages humiliants [A/I]
+
+La séquence multiplie les propositions de réemploi grotesque : certains équipements doivent devenir de modestes accessoires agricoles, ménagers ou festifs. La scène ne précise pas comment un atelier pourrait industriellement transformer tous ces articles. Elle produit une inversion symbolique : l'objet des exploits guerriers cesse d'être un signe de prestige.
+
+**[I]** Cette inversion rejoint l'ouverture au fumier. Au début, un déchet soutenait une action héroïque ; à la fin, un objet héroïque ne mérite plus qu'un usage de déchet. L'architecture comique peut ainsi être lue comme une histoire de la **valeur socialement attribuée aux matières**.
+
+### 65. Les gagnants de la paix ne sont pas les mêmes que les gagnants de la guerre [I]
+
+Les fabricants d'outils agricoles, les cultivateurs, les commerçants de produits alimentaires, les voyageurs et ceux qui veulent retrouver leur maison semblent prospérer dans l'utopie. Certains armuriers et devins sont déçus. Cette polarité ne constitue pas une distribution exhaustive des intérêts athéniens. Les soldats démobilisés, les veuves, les familles déplacées, les personnes esclavisées et les communautés alliées n'entrent pas toutes dans le récit avec leur expérience particulière.
+
+**[I]** La pièce nous permet de formuler un problème d'économie politique : une transition collectivement profitable peut être **distributivement conflictuelle**. Le bénéfice global supposé ne constitue pas une compensation automatique des pertes localisées.
+
+### 66. Une « reconversion » sans politique publique de reconversion [P]
+
+Le mot moderne de reconversion décrit la tentative de réaffecter savoir-faire, ateliers, métaux et travailleurs à de nouveaux usages. Aucun personnage ne propose un programme administratif de formation, de financement ou de revenu de remplacement pour les fabricants ruinés. La comédie ne doit donc pas recevoir une étiquette de « politique industrielle » avant l'heure.
+
+**[P]** L'analogie sert à comprendre pourquoi certains acteurs peuvent résister à une transformation dont le principe paraît désirable. La question dépasse la morale individuelle : une institution qui veut faire cesser une activité peut devoir inventer une solution pour ceux qui en dépendent.
+
+### 67. Les enfants chantent encore la guerre [A]
+
+Dans la séquence des vers 1265–1304, les enfants invités aux festivités emploient des vers épiques. Le fils de Lamaque chante des combats, des armes et des boucliers ; Trygée s'irrite de ces images dans le contexte retrouvé de la paix. Le jeu sur les vers d'Homère fait entendre un problème de transmission : l'imaginaire héroïque de la guerre survit dans les pratiques éducatives et les fêtes.
+
+**[I]** La démobilisation matérielle ne suffit pas à modifier immédiatement les répertoires de mémoire et les goûts poétiques. Le héros voudrait expulser l'image guerrière du banquet ; la culture qui le nourrit la fait revenir dans la bouche des enfants.
+
+### 68. Deux enfants, deux héritages [A/I]
+
+Les interventions des enfants ne reçoivent pas la même réaction : l'héritage d'un stratège et l'association à la réputation de fuite des armes de Cléonymos deviennent sources de plaisanteries distinctes. La comédie fait travailler la mémoire de personnes réelles et de clichés du théâtre. Les personnages ne doivent pas être assimilés à des biographies exactes de descendants historiques.
+
+**[I]** La scène juxtapose l'éducation guerrière héroïsante et le ridicule de la désertion. La paix n'efface pas seulement le besoin des armes ; elle change le contexte dans lequel le courage et la lâcheté peuvent être nommés. Les mots restent, les valeurs se déplacent.
+
+### 69. Retour au foyer, mais quel foyer ? [I]
+
+La pièce s'achève par la perspective d'une union avec Opôra, célébrée sur le mode d'un mariage. Le retour à la vie domestique est exalté après des années de déplacement et de violence. Chiara Sulprizio, dans son article consacré à la domesticité et à la guerre, invite à ne pas considérer ce retour comme une simple restitution transparente d'un état antérieur.
+
+**[I]** Le foyer célébré par Trygée peut être celui du maître, de l'époux et du propriétaire. Le bonheur d'un groupe ne rend pas automatiquement visibles les conditions de travail de tous ses membres. La continuité de la domination domestique constitue une limite réelle de l'utopie, même lorsqu'elle dénonce efficacement la guerre.
+
+### 70. Le mariage comme fermeture scénique [A/I]
+
+Les vers 1316–1359 associent les chants nuptiaux, la fécondité et la récolte à un nouveau cycle de vie. Le dénouement donne à l'œuvre une fin que l'histoire réelle ne garantit pas. Le mariage permet un point d'arrêt narratif ; il promet un temps reproductif et agricole là où la guerre menaçait la continuité des générations.
+
+**[I]** Le théâtre doit finir, tandis qu'un traité commence une longue période d'obligations. Cette différence des temporalités interdit de lire le bonheur nuptial comme garantie de cinquante années de paix effective.
+
+---
+
+## IX. Comparaisons : les autres comédies et le statut de l'exception de 421
+
+### 71. *Les Acharniens* (425) : un traité privé [A/I]
+
+Dans les *Acharniens*, Dicéopolis contracte une paix privée qui lui permet d'ouvrir un marché propre, tandis que la cité continue la guerre. Ce dispositif explore l'exclusion d'un individu des obligations collectives et la puissance du désir de vivre paisiblement. Le dossier CXCVII de MYTHOS a déjà étudié ses implications diplomatiques, civiques et économiques. Le présent volume ne les reprend pas en détail.
+
+**[I]** La différence sert à éclairer *La Paix*. Trygée cherche à restituer la déesse à la communauté entière et a besoin d'une coopération scénique. La paix change d'échelle : d'une exception individuelle, elle devient une possibilité collective, même si cette collectivité demeure inégale.
+
+### 72. *Lysistrata* (411) : un veto budgétaire [A/I]
+
+*Lysistrata* associe coalition féminine, interruption de l'intimité et maîtrise de l'Acropole et de ses ressources financières. Son contexte est postérieur de dix années à *La Paix*. L'étude MYTHOS sur l'autorité des femmes a déjà examiné le trésor et les rituels ; il n'est pas nécessaire de redonner ici les mêmes analyses des vers.
+
+**[I]** La comparaison précise un contraste : Trygée veut rendre aux cultivateurs les conditions d'une paix que l'on négocie ; Lysistrata bloque la possibilité de poursuivre la guerre en saisissant un outil financier. La seconde dramatise une action de contrainte que la première inscrit surtout dans une libération collective et festive.
+
+### 73. *Les Oiseaux* (414) : un sacrifice qui légitime une nouvelle cité [A/I]
+
+Dans les *Oiseaux*, la fondation de Néphélococcygie s'accompagne d'un sacrifice perturbé, et les dieux doivent être réordonnés selon l'ambition du héros. Mary C. English et Dustin W. Dixon ont rapproché cette scène de celle de *La Paix*, notamment pour le traitement des rites interrompus et leur accomplissement partiellement retiré à la vue du public.
+
+**[I]** La comparaison ne doit pas égaliser les projets. *La Paix* propose de libérer une condition de vie commune ; *Les Oiseaux* met en scène la conquête d'une autorité nouvelle qui peut devenir coercitive. Un rite comparable dans sa structure ne justifie pas une finalité identique.
+
+### 74. *Ploutos* (388) : richesse sans guerre ? [A/I]
+
+*Ploutos* explore la répartition injuste de la richesse et fait intervenir une personnification de la pauvreté. Le volume CCV de MYTHOS en a étudié les débats moraux et économiques. Il serait inexact de considérer cette pièce comme la continuation directe d'une « doctrine de la paix » formulée en 421.
+
+**[I]** Le lien utile est plus limité : dans *La Paix*, la prospérité dépend de la restauration de conditions de production et de circulation ; dans *Ploutos*, la justice semble exiger une réforme fantastique de la destination de la richesse. L'une traite d'abord la sécurité des moyens ; l'autre leur attribution.
+
+### 75. La parabase n'est pas la signature d'un programme [I]
+
+La pièce contient elle aussi des prises de parole chorales qui célèbrent le poète et ses adversaires. Le volume CCIII de MYTHOS a montré pourquoi un chœur prétendant parler au nom d'Aristophane ne devait pas être pris comme la confession exhaustive de l'auteur. La même prudence vaut pour la persona pacifiste de *La Paix*.
+
+**[I]** Il est admissible de dire que la comédie prend clairement plaisir au retour de la paix ; il est excessif d'en déduire un programme personnel indiscutable pour toutes les guerres et toutes les relations entre cités. Le plaisir dramaturgique, la position civique et la stratégie de concours se croisent sans se confondre.
+
+### 76. L'exception historique de *La Paix* [I]
+
+Sommerstein a noté une particularité : alors que plusieurs comédies résolvent par la fantaisie ce qui demeure presque impossible dans l'histoire, *La Paix* prend place au moment où un accord humain devient réellement probable. Les moyens restent surnaturels, mais l'objet de la demande touche au calendrier politique immédiat.
+
+**[I]** Cette particularité explique une tension distinctive : la pièce a la joie de l'anticipation et le risque du démenti futur. On peut y célébrer une issue proche sans que la représentation garantisse qu'elle durera. La comédie ne doit pas être réduite à un commentaire après coup d'un traité déjà éprouvé.
+
+---
+
+## X. Nietzsche, Hegel, Vernant, Détienne : quatre confrontations réglées
+
+### 77. Hegel : la paix n'est pas une simple préférence privée [P]
+
+Dans les *Principes de la philosophie du droit*, Hegel examine le rapport entre État, décision collective, relations internationales et guerre, notamment dans les paragraphes consacrés à la souveraineté extérieure. Les États n'y sont pas identiques à des particuliers réglant leurs conflits par une autorité juridique universelle absolument incontestée. Le contraste aide à poser une question : la paix désirée par Trygée peut-elle être garantie sans accords, institutions et engagements entre cités ?
+
+**[P]** Ce rapprochement ne constitue ni un accord doctrinal ni une généalogie. Hegel écrit dans un cadre conceptuel moderne que l'on ne peut superposer à la polis. Il sert à distinguer l'affect pacifique et les médiations politiques requises pour en soutenir l'effectivité.
+
+### 78. Hegel : une liberté qui doit devenir institution [P]
+
+Le bonheur agricole, la fête et les déplacements rétablis ne suffisent pas à produire durablement la sécurité. Une lecture inspirée de la notion hégélienne de médiation demande par quels dispositifs le souhait se transforme en règle, puis en pratique. Les clauses de Thucydide V, 18 apparaissent alors comme le contrepoint institutionnel aux gestes de Trygée.
+
+**[P]** Il ne s'agit pas de dire que la comédie serait « incomplète » parce qu'elle n'anticipe pas une philosophie de l'État du XIXe siècle. Son objet est une autre forme de vérité, sensible et théâtrale. La comparaison montre qu'un idéal et son application appartiennent à des registres distincts.
+
+### 79. Nietzsche : rendre suspect le prestige des valeurs guerrières [P]
+
+La pensée de Nietzsche sur l'évaluation, le courage, les pratiques agonistiques et les hiérarchies morales permet d'interroger l'inversion de prestige accomplie dans la pièce. Le casque, la cuirasse, la trompette et le chant de bataille cessent d'être admirables dans un contexte où leur utilité sociale est contestée. Ce changement de jugement peut être étudié comme transformation de valeurs.
+
+**[P]** Il serait abusif d'affirmer que Nietzsche aurait considéré *La Paix* comme une réfutation de la guerre ou qu'Aristophane annoncerait la critique nietzschéenne de la morale. La comparaison porte sur la possibilité de **réévaluer un objet lorsque le cadre social qui lui confère sa noblesse change**.
+
+### 80. Nietzsche : la fête, le rire et l'ambivalence de la victoire [P]
+
+Le retour des Dionysies, des plaisirs, du vin et des chants rappelle que l'expérience collective ne se limite pas au respect des obligations. Une société pacifiée peut réouvrir des espaces de dépense joyeuse et de jeu. Mais le rire de Trygée envers les armuriers et le devin n'est pas une fête universellement bienveillante : il humilie des perdants de la transition.
+
+**[P]** La notion nietzschéenne de l'affect de puissance peut ici poser une question sans servir de diagnostic psychologique. Les acteurs qui sortent gagnants d'un ordre peuvent éprouver du plaisir à ridiculiser ceux qui perdent leur prestige. La paix de théâtre contient donc encore des rapports de domination.
+
+### 81. Vernant : la cité, le sacrifice et la publicité [P]
+
+Jean-Pierre Vernant a montré l'importance des relations entre pratiques civiques, formes de parole et organisation du sacré dans le monde grec. Dans le cadre collectif *La Cuisine du sacrifice en pays grec*, dirigé avec Marcel Détienne, la réflexion sur les rites implique leur inscription sociale et politique. La scène de Trygée auprès de l'autel rend visible une question de cette famille : qui organise la distribution, avec quels gestes et au nom de quelle communauté ?
+
+**[P]** L'analogie ne fait pas de Vernant un commentateur secret de chacun des vers de la pièce. Elle interdit surtout de reléguer le sacrifice au rang de pure superstition placée à côté de la « vraie » politique. Le rite est une activité collective qui contribue à définir des relations et des frontières.
+
+### 82. Détienne : le devin, les dieux et les régimes de parole [P]
+
+Les recherches de Marcel Détienne sur les maîtres de vérité et sur les pratiques comparatives invitent à distinguer la source d'une prétention à dire vrai. Hiéroclès invoque des oracles, Hermès fait entendre la volonté d'Eirènè et Trygée parle au nom du salut des Grecs. Ces trois autorités ne reposent pas sur les mêmes supports.
+
+**[P]** L'enquête ne doit pas réduire tous les devins à des charlatans ni supposer une continuité historique directe avec les figures de l'époque archaïque étudiées par Détienne. Elle doit plutôt décrire **comment une parole obtient ou perd la capacité de différer une décision collective**.
+
+### 83. Comparer le rite, pas seulement les idées [P]
+
+Hegel aide à interroger les garanties institutionnelles ; Nietzsche, la transformation des jugements de valeur ; Vernant, le rôle du sacré dans la cité ; Détienne, la pluralité des autorités de parole. Ces perspectives ne s'additionnent pas en une théorie unifiée. Elles conduisent à poser des questions différentes aux mêmes scènes, qui doivent être reliées à des vers et à des conditions historiques précis.
+
+La comparaison échoue si elle fait disparaître le caractère comique de l'œuvre ou si elle attribue aux Athéniens des institutions qu'ils n'avaient pas. Elle réussit lorsqu'elle éclaire l'écart entre aspiration, pratique et domination.
+
+---
+
+## XI. Objections et contre-épreuves documentaires
+
+### 84. « La paix donne nécessairement la prospérité à tous » [I]
+
+Le texte met en scène une abondance de récoltes et de marchés, mais certains personnages en sont perdants. Les armuriers souffrent de la mévente, les serviteurs continuent à travailler sous l'autorité de leurs maîtres et les communautés ne disposent pas des mêmes ressources. La prospérité souhaitée est socialement située, même si la fête la proclame universelle.
+
+**[I]** La paix peut améliorer des conditions collectives sans rendre immédiatement juste toute répartition. Un accord de cessation des hostilités n'est pas un dispositif égalitaire de redistribution ni un inventaire des dégâts.
+
+### 85. « Les marchands d'armes ont provoqué la guerre » [L]
+
+Aristophane les rend ridicules et suggère un intérêt à sa prolongation. Cela ne suffit pas à établir l'existence d'un groupe professionnel ayant commandé la politique des cités. Des producteurs de biens militaires peuvent dépendre d'une guerre sans en être les causes. La différence entre **bénéficier**, **souhaiter** et **provoquer** une politique doit être préservée.
+
+**[I]** Cette distinction est nécessaire à toute économie politique sérieuse. La caricature éclaire des incitations possibles, mais ne remplace ni les archives de commandes ni l'étude des institutions militaires.
+
+### 86. « Le sacrifice d'Eirènè abolit la mise à mort » [A/L]
+
+Les vers 1018–1022 déplacent la mise à mort hors de la scène et montrent une convenance particulière du rite. Ils ne permettent pas d'attribuer aux Grecs de 421 une réforme générale des sacrifices envers tous les dieux. L'action fictionnelle se poursuit avec parts rituelles et nourriture sacrificielle. On ne doit ni nier l'importance du sang dans les pratiques grecques ni extrapoler à partir d'une scène burlesque.
+
+### 87. « Trygée propose la politique étrangère d'Aristophane » [L]
+
+Le héros est une persona scénique portée par une intrigue de concours. Il ne signe pas un traité ni ne possède une compétence diplomatique historique. Le poète peut soutenir l'espérance de paix et manipuler pour rire des objections de citoyens réels. Une lettre privée d'Aristophane exposant sa position exhaustive ne nous est pas fournie par cette pièce.
+
+**[I]** L'interprétation peut étudier l'effet public de la comédie, mais doit s'interdire une psychologie certaine de son auteur.
+
+### 88. « Tous les Grecs coopèrent également à la paix » [A/I]
+
+La scène des cordes montre explicitement des efforts inégaux et contrariés. Les accusations adressées à différents groupes représentent la persistance de dissensions dans une proclamation de concorde. Le succès final du dégagement de la déesse ne doit pas effacer ces résistances.
+
+**[I]** Le dramaturge semble construire une unité par la mise en scène de son impossibilité initiale. La politique de la paix n'est donc pas seulement volonté d'agir ensemble : elle contient le problème de la coordination entre intérêts divergents.
+
+### 89. « La paix fait revenir un passé intact » [I]
+
+Le retour au travail des champs, aux fêtes et aux mariages est présenté comme réparation. La guerre peut pourtant laisser des pertes irrécupérables ; le temps manqué ne peut pas être rendu intégralement. Chiara Sulprizio rappelle que la domesticité heureuse de la comédie doit être interrogée plutôt qu'acceptée comme restauration pure d'un ancien état.
+
+**[I]** La paix ouvre un avenir, mais ne retire pas du passé le conflit qui vient d'avoir lieu. Cette limite constitue l'une des questions les plus importantes de la lecture philosophique.
+
+### 90. « La statue d'Eirènè et Ploutos nous montre le décor de 421 » [A/L]
+
+Non. Les notices du Metropolitan Museum of Art et du musée de moulages de Cambridge situent le groupe de Céphisodote au IVe siècle et indiquent que les sculptures conservées sont des copies postérieures. Le groupe éclaire une histoire iconographique de la relation entre paix et prospérité ; il ne témoigne pas directement d'un accessoire utilisé lors de la représentation de 421.
+
+La distinction évite un anachronisme courant des dossiers illustrés. Une image superbe n'acquiert pas le statut de preuve d'un événement simplement parce qu'elle représente une idée semblable.
+
+### 91. « La politique de la pièce est historiquement confirmée par l'accord de Nicias » [I]
+
+L'accord et la pièce sont chronologiquement proches, mais cette proximité ne donne pas à Aristophane la responsabilité documentée des négociations. Les historiens doivent distinguer un climat politique favorable, une anticipation scénique, une éventuelle influence sur l'opinion et une décision institutionnelle. Les trois derniers liens demandent des preuves de nature différente.
+
+**[I]** La comédie montre ce qu'on peut désirer, non ce que les clauses garantissent. Sa force n'est pas de prévoir l'avenir de manière infaillible, mais de représenter ce qui serait perdu si l'on refusait la possibilité de sortir de la guerre.
+
+---
+
+## XII. Synthèse : une topologie des transitions
+
+### 92. Tableau des cinq conversions principales
+
+| Dispositif de *La Paix* | Référence principale | Monde de guerre | Monde de paix imaginé | Limite de preuve |
+|---|---|---|---|---|
+| Scarabée et fumier | v. 1–150 | Matière dégradée, service humiliant | L'ordure devient moyen d'ascension | Aucune économie « écologique » historique n'est décrite |
+| Marmite et pilons de Guerre | v. 230–288 | Cités réduites à des ingrédients | L'absence de pilon donne une ouverture à l'action | La guerre ne dépend pas historiquement de deux hommes seulement |
+| Cordes de délivrance | v. 458–520 | Acteurs qui tirent en sens contraire | Travail coordonné de libération | Ce n'est pas une conférence diplomatique réelle |
+| Rite d'Eirènè et oracle | v. 974–1126 | Autorités qui retardent l'accord | Prière et fête réorientées vers le retour | Le rituel fictif ne prouve aucune réforme de cultes |
+| Marchands, outils et enfants | v. 1198–1304 | Armes valorisées, épopée guerrière | Agriculture, fête, nouveaux usages | Aucun programme historique de reconversion n'est transmis |
+
+La matrice rend visible une unité interprétative, mais elle ne démontre pas qu'Aristophane ait conçu une théorie systématique de la démobilisation. Elle identifie des changements scéniques attestés, puis des questions historiques qu'ils permettent de poser.
+
+### 93. Le temps social de la paix [I]
+
+Le traité a une date ; la réparation des champs, le retour des marchés, la réouverture des fêtes et la transformation des métiers requièrent des durées différentes. Les chants épiques, de leur côté, continuent de transmettre la mémoire de la bataille. La pièce juxtapose ces temporalités, mais le dénouement les rapproche de manière fictionnelle.
+
+**[I]** Une théorie de la transition doit éviter deux simplifications inverses : croire que le traité change instantanément toute la société, ou penser qu'un conflit interminable rend toute paix sans valeur. Entre les deux se trouve la tâche de fabriquer des conditions nouvelles à partir d'habitudes anciennes.
+
+### 94. Les perdants de la sortie de guerre sont un problème politique [I]
+
+La comédie se réjouit des pertes des vendeurs d'armes ; l'historien peut comprendre le rire sans approuver d'avance une exclusion des personnes concernées. Une politique de cessation des combats peut être accompagnée de nouvelles conditions d'emploi et de subsistance pour ceux dont les ressources dépendaient de l'organisation militaire. Dans *La Paix*, cette question se présente comme une comédie du prix, du prestige et du réemploi.
+
+**[I]** Le problème survit au gag : une réorientation collective ne saurait être évaluée seulement par le gain de ses bénéficiaires les plus visibles. La transition produit des désaccords matériels qui ne disparaissent pas parce que le chœur se met à danser.
+
+### 95. Le sacré ne vient pas après la politique [I]
+
+La présence d'Hermès, d'Eirènè, du sacrifice et du devin interdit de concevoir la paix uniquement comme une relation entre magistrats. Les gestes rituels, les sanctuaires, les prières et les déplacements festifs forment une part de la vie civique antique. Ils peuvent accompagner une réforme des relations sans se substituer à ses clauses.
+
+**[I]** La comparaison entre *La Paix* et Thucydide ne demande donc pas de choisir entre superstition et rationalité. Elle permet d'étudier deux moyens de rendre la paix pensable : la garantie négociée et la transformation sensible de l'expérience collective.
+
+### 96. La paix comme problème de représentation [I]
+
+Une déesse peut être amenée sur scène, un marchand peut être humilié, un devin peut être réduit au silence et un enfant peut être empêché de chanter des exploits guerriers. Le théâtre accomplit ces changements en quelques heures. La communauté réelle n'en dispose pas de la même manière. La comédie rend la transformation visible et donne au public l'impression de l'avoir déjà vécue.
+
+**[I]** La réussite esthétique ne constitue pas une preuve d'application. La vérité propre de l'art est ici de montrer ensemble les obstacles et le désir d'une issue, non de garantir l'avenir des négociations.
+
+### 97. Conclusion générale
+
+*La Paix* propose une expérience singulière de l'histoire athénienne : l'accord diplomatique, encore incertain à la représentation, est figuré comme la libération matérielle d'une déesse ensevelie. Le monde de guerre repose sur des objets, des emplois, des paroles, des odeurs, des hiérarchies et des habitudes. Il ne disparaît pas avec la mort de deux chefs ni avec le premier cri de joie du chœur. Les Grecs doivent tirer ensemble malgré leurs dissensions ; les sacralités demandent une réinterprétation ; les vendeurs d'armes perdent leurs marchés ; les enfants continuent à connaître les chants de bataille.
+
+La thèse du dossier peut être formulée sans anachronisme causal : **la comédie rend la sortie de guerre intelligible comme un changement de finalité des activités sociales**. Les biens anciennement requis pour combattre peuvent perdre leur valeur, tandis que la terre, la fête et la circulation reviennent au centre de la vie. Ce passage est désiré mais inégal ; il réjouit les producteurs agricoles sans abolir la servitude ; il rend les voyages possibles sans effacer les intérêts des cités ; il ouvre un avenir sans réparer intégralement le passé.
+
+Il serait excessif d'attribuer à Aristophane une théorie moderne de l'économie de paix. Mais il serait tout aussi réducteur de voir dans la pièce une simple fantaisie de scarabée, de mariage et de bons repas. Les scènes constituent une enquête comique sur ce qu'une société doit apprendre à cesser de faire et à recommencer à faire pour que la paix soit autre chose qu'un mot. Le théâtre peut en offrir l'image ; les institutions, elles, doivent en éprouver la durée.
+
+**Continuité :** le dossier est entièrement autonome. Il préserve les études déjà attribuées sur Pseudo-Xénophon, les *Acharniens*, *Lysistrata*, la parabase et *Ploutos*, sans en répéter l'analyse propre. Aucune étude ultérieure n'est ici numérotée ou réservée.
+
+---
+
+## XIII. Appareil critique et bibliographie
+
+### A. Sources primaires vérifiées sur le web
+
+1. **Aristophane, *La Paix* (*Eirènè*)**, texte grec intégral dans Ad Fontes Library, https://adfonteslibrary.org/work-aristophanes-peace . Passages principaux : v. 1–15 (scarabée et serviteurs) ; 129–148 (référence à Bellérophon et voyage) ; env. 230–288 (Polemos et cuisine) ; 296–356 (chœur) ; 458–520 (traction et délivrance) ; 520–530 (Eirènè, Opôra et Theôria) ; 603–668 (récit des causes et occasions perdues) ; 974–1016 (prière) ; 1018–1022 (immolation déplacée) ; 1045–1126 (Hiéroclès) ; 1127–1150 (bonheur rural) ; 1198–1264 (métiers et instruments) ; 1265–1304 (enfants et poésie guerrière) ; 1316–1359 (mariage).
+2. **Aristophane, *La Paix***, éditions grecques identifiées par le *Greek Drama Reader* : Hall–Geldart (1906) et Coulon–van Daele (1924), avec références et comparaisons des traductions, https://greekdrama.johnhboyer.com/aristophanes/peace/ . Le portail donne la représentation aux Dionysies de 421 et le deuxième prix ; il ne remplace pas une collation des manuscrits.
+3. **Thucydide, *Histoire de la guerre du Péloponnèse***, II, 14–17 (déplacement des habitants de l'Attique), V, 13–16 (Amphipolis, Brasidas, Cléon, choix des négociateurs), V, 17–20 (traité de 421), V, 21–24 (suites des arrangements). Texte grec et traductions historiques sur Perseus/Scaife, notamment https://beta.perseus.tufts.edu/urn:cts:greekLit:tlg0003.tlg001.1st1K-eng1/chapter:5.16/ ; traduction du traité, https://www.livius.org/sources/content/thucydides-historian/peace-of-nicias/ . Les discours politiques rapportés par Thucydide ne sont pas des enregistrements sonores.
+4. **Aristophane, *Les Acharniens***, notamment v. 60–173 et 719–970 : comparaison avec la paix privée de Dicéopolis. https://adfonteslibrary.org/work-aristophanes-acharnians . Étude MYTHOS antérieure conservée, non reproduite.
+5. **Aristophane, *Lysistrata***, v. 172–179 et 488–501 : comparaison limitée avec le contrôle de l'Acropole et de l'argent de guerre. https://adfonteslibrary.org/work-aristophanes-lysistrata .
+6. **Aristophane, *Les Oiseaux***, passages de la fondation et de la cérémonie sacrificielle : comparaison des procédures rituelles et des finalités politiques. https://adfonteslibrary.org/work-aristophanes-birds .
+7. **Pausanias, *Description de la Grèce* I, 8, 2**, témoignage ultérieur sur l'image d'Eirènè et Ploutos attribuée à Céphisodote : à distinguer de l'accessoire théâtral supposé de 421. Notices institutionnelles : https://museum.classics.cam.ac.uk/collections/casts/eirene-and-ploutos et https://www.metmuseum.org/art/collection/search/247173 .
+
+### B. Éditions et recherche savante ; périmètre réellement consulté
+
+8. **Alan H. Sommerstein** (éd.), *Aristophanes: Peace*, Liverpool University Press/Aris & Phillips, deuxième édition, 2005. Notice et présentation historique disponibles sur JSTOR : https://www.jstor.org/stable/jj.37054001 . Le commentaire sous accès limité n'est pas déclaré intégralement lu.
+9. **Stylianos Chronopoulos**, « The Difficult Passage from War to Peace: Liminality, Transition, and Tensions in Aristophanes' *Peace* », dans Rachel Bruzzone (dir.), *Polemos and His Children: War, Its Repercussions, and Narrative in Ancient Greek Literature*, *Histos Supplement* 12 (2021), p. 63–85. Accès libre : https://histos.org/index.php/histos/article/download/39/33/42 . Texte et notice de l'article retrouvés ; approche de la transition comme moment de tensions.
+10. **Chiara Sulprizio**, « You Can't Go Home Again: War, Women and Domesticity in Aristophanes' Peace », *Ramus*, publication en ligne en 2014. Résumé scientifique vérifié : https://www.cambridge.org/core/journals/ramus/article/abs/you-cant-go-home-again-war-women-and-domesticity-in-aristophanes-peace/A230F75EFE06E155FB2217A770B2B648 . Le texte intégral sous abonnement n'est pas revendiqué comme lu.
+11. **Mary C. English et Dustin W. Dixon**, « Performing Ritual Sacrifice in Aristophanes' *Peace* and *Birds* », dans *The Spirit of Aristophanes: Essays in Honor of Jeffrey Henderson*, Edinburgh University Press, 2024, p. 38–48, DOI https://doi.org/10.3366/edinburgh/9781399511971.003.0003 . Résumé universitaire accessible dans Oxford Academic : https://academic.oup.com/edinburgh-scholarship-online/book/59338/chapter-abstract/499844038 . Référence aux scènes de sacrifice, aux interruptions et à la convention de mise à mort hors scène ; aucune appropriation de développements non visibles.
+12. **Albio Cesare Cassio**, *Commedia e partecipazione. La Pace di Aristofane*, Naples, Liguori, 1985. Existence et orientation du livre confirmées par le compte rendu d'Alfons Wouters, *Revue belge de philologie et d'histoire* 66/1 (1988), p. 113–114, https://www.persee.fr/doc/rbph_0035-0818_1988_num_66_1_6933_t1_0113_0000_2 . Le compte rendu n'est pas confondu avec l'ouvrage lui-même.
+13. **Ian C. Storey**, *Aristophanes: Peace*, Bloomsbury Classical Texts, 2019, notice bibliographique mentionnée notamment par Chronopoulos ; consultation de l'ouvrage complet non revendiquée.
+14. **Recherches d'histoire politique sur les négociations de 421**, Thucydide V, 13–24 demeure la source primaire retenue ; les reconstructions modernes sont confrontées à la chronologie plutôt qu'employées comme substituts documentaires.
+15. **Odysseum/Éduscol**, « Socrate, Trygée, Pisthétairos : la remise en cause des dieux dans les comédies d'Aristophane », étude pédagogique française sur le héros, son nom et la parodie de Bellérophon, https://odysseum.eduscol.education.fr/socrate-trygee-pisthetairos-la-remise-en-cause-des-dieux-dans-les-comedies-daristophane . Appui explicatif, non édition critique.
+16. **Museum of Classical Archaeology, University of Cambridge**, « Eirene and Ploutos », https://museum.classics.cam.ac.uk/collections/casts/eirene-and-ploutos ; **Metropolitan Museum of Art**, « Marble statue of Eirene », https://www.metmuseum.org/art/collection/search/247173 . Notices iconographiques institutionnelles vérifiées. Elles concernent des œuvres et copies postérieures à la pièce de 421.
+
+### C. Philosophie et méthode comparative
+
+17. **G. W. F. Hegel**, *Grundlinien der Philosophie des Rechts* (1821), notamment les développements sur la souveraineté extérieure et les relations des États ; renvoi conceptuel, non source sur la paix de Nicias.
+18. **Friedrich Nietzsche**, *Zur Genealogie der Moral* (1887) et travaux sur la culture grecque ; réflexion rétrospective sur les jugements de valeur, leur histoire et les hiérarchies de prestige, sans filiation établie avec Aristophane.
+19. **Jean-Pierre Vernant**, *Les Origines de la pensée grecque* (1962), *Mythe et pensée chez les Grecs* (1965) ; études des rapports entre pratiques civiques, parole et catégories religieuses.
+20. **Marcel Détienne**, *Les Maîtres de vérité en Grèce archaïque* (1967), *Comparer l'incomparable* (2000) ; méthode du comparatisme et des régimes de parole. **J.-P. Vernant et M. Détienne** (dir.), *La Cuisine du sacrifice en pays grec* (1979), ensemble pertinent pour différencier gestes rituels, organisation sociale et représentations du sacrifice.
+
+### D. Questions ouvertes et exclusions explicites
+
+- Aucun décompte des opinions de spectateurs ni aucune preuve de causalité directe entre la représentation et la conclusion du traité de Nicias ne sont disponibles.
+- Ni les serviteurs, ni les cultivateurs, ni les fabricants d'armes ne peuvent être traités comme échantillons statistiques représentatifs de groupes professionnels complets.
+- Les vers ne fournissent aucune réforme industrielle ou budgétaire destinée à reconvertir les armuriers ; les comparaisons modernes sont identifiées comme telles.
+- La scène d'immolation déplacée ne démontre pas l'abolition du sacrifice animal dans les rites athéniens.
+- L'explication d'Hermès sur Périclès, Phidias et Mégare est une narration comique politiquement située ; elle ne démontre pas à elle seule les intentions historiques du dirigeant.
+- Le groupe sculpté d'Eirènè et Ploutos attribué à Céphisodote est postérieur à 421 ; aucune image ancienne conservée ne garantit l'apparence exacte de la Paix sur la scène d'Aristophane.
+- Les rapprochements avec Hegel, Nietzsche, Vernant et Détienne sont interprétatifs et rétrospectifs ; les auteurs modernes ne sont pas des témoins des événements.
+- Le texte complet des commentaires savants sous abonnement et les variantes de tous les manuscrits anciens n'ont pas été collationnés de première main. Les conclusions ne doivent pas être présentées comme des découvertes philologiques fondées sur une inspection autoptique intégrale.
+
+**Note de numérotation concurrente :** cette étude ne porte aucun numéro canonique définitif tant que GitHub Actions n'a pas établi le manuscrit et son reçu dans le même commit. Les seules variables de numéro sont CCVIII et 208, limitées aux mentions de **cette nouvelle étude**. Les numéros de vers, références scientifiques, dates, noms de chapitres historiques et reçus des études antérieures restent fixes. L'enregistrement de la demande dans editorial/inbox est distinct d'une publication publique sur bobmythos.fr.
