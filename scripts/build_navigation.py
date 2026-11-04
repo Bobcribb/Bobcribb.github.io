@@ -643,13 +643,13 @@ def create_encyclopedia(entries):
     body='<h1>Grande encyclopédie MYTHOS</h1><p class="portal-lead">Catalogue général de tous les dossiers publics, organisé en collections distinctes. Chaque entrée a une cote de registre RG distincte des numéros éditoriaux ODS et AR-CO, sans effacement des textes, des sources ni des anciennes références scientifiques. Les manuscrits non encore importés ne sont pas présentés comme publiés.</p>'
     body+='<nav class="origins-toc" aria-label="Collections encyclopédiques"><h2>Collections</h2><ol>'+''.join(
         '<li><a href="#collection-'+code.lower()+'">'+esc(code+" · "+name)+" ("+str(len(groups[code]))+')</a></li>'
-        for code,name,_ in collections)+'</ul></nav>'
+        for code,name,_ in collections)+'</ol></nav>'
     for code,name,description in collections:
         rows=sorted(groups[code],key=lambda e:e["url"])
         body+='<section class="portal-section" id="collection-'+code.lower()+'"><h2>'+esc(name)+'</h2><p class="section-intro">'+esc(description)+'</p>'
         body+='<details class="library-details"><summary>Consulter les '+str(len(rows))+' entrées <span aria-hidden="true">＋</span></summary><ol class="chapter-list origins-index">'+''.join(
           '<li data-public-id="'+esc(assigned[e["url"]])+'"><span class="origin-id">'+esc(assigned[e["url"]])+'</span><a href="'+esc(e["url"])+'">'+esc(e["title"])+'</a></li>'
-          for e in rows)+'</ul></details></section>'
+          for e in rows)+'</ol></details></section>'
     body+=section("Règles de classement","Une URL ne figure qu'une fois dans le registre. Les cotes des collections sont indépendantes ; la numérotation scientifique historique est conservée dans les documents sources.",
       '<p>Le registre présente les pages effectivement indexées. La grande édition manuscrite des Origines du sacré, distincte des chapitres déjà publiés, sera intégrée seulement après comparaison de ses versions pour éviter les doublons.</p>')
     write("grande-encyclopedie",shell("Grande encyclopédie — catalogue général MYTHOS",body))
