@@ -20,7 +20,9 @@ permissions:
   id-token: write
 
 concurrency:
-  group: mythos-github-pages
+  # File dédiée à l’iconographie pour ne pas annuler indéfiniment les déploiements
+  # photoréalistes lorsqu’un cycle éditorial lourd occupe l’autre file.
+  group: mythos-photorealistic-pages
   cancel-in-progress: false
 
 jobs:
