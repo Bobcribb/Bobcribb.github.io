@@ -116,6 +116,35 @@ src="/assets/legacy-perspective.svg" alt=""><strong>Théâtre grec</strong></a>
                     self.assertIn('Homère, Hésiode et leur réception.',
                                   doc.get_text(' ', strip=True), name)
 
+    def test_unique_portal_descriptions_and_archaeological_webp_cover(self):
+        from apply_museum_design import picture
+        generic = 'MYTHOS — Encyclopédie des mythologies du monde : sources, peuples, récits, théâtre et philosophie.'
+        with TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            main = root/'index.html'
+            encyclopedia = root/'grande-encyclopedie/index.html'
+            encyclopedia.parent.mkdir(parents=True, exist_ok=True)
+            original = ('<html><head><title>MYTHOS</title><meta name="description" content="'+generic+'">'
+                        '</head><body><main><h1>MYTHOS</h1><p>Texte universitaire conservé.</p></main></body></html>')
+            main.write_text(original, encoding='utf-8')
+            encyclopedia.write_text(original, encoding='utf-8')
+            image = root/'assets/reconstitutions-3d/delphes-apollon-panorama.webp'
+            image.parent.mkdir(parents=True, exist_ok=True)
+            image.write_bytes(b'RIFFWEBP')
+            for _ in range(2):
+                self.assertEqual(apply(root), 2)
+                home = BeautifulSoup(main.read_text(encoding='utf-8'), 'html.parser')
+                book = BeautifulSoup(encyclopedia.read_text(encoding='utf-8'), 'html.parser')
+                d1 = home.select_one('meta[name="description"]')['content']
+                d2 = book.select_one('meta[name="description"]')['content']
+                self.assertNotEqual(d1, generic)
+                self.assertNotEqual(d2, generic)
+                self.assertNotEqual(d1, d2)
+                self.assertIn('Texte universitaire conservé.', home.get_text(' ', strip=True))
+                self.assertIn('Texte universitaire conservé.', book.get_text(' ', strip=True))
+                self.assertEqual(picture('/reconstitutions-antiquite/', root),
+                                 '/assets/reconstitutions-3d/delphes-apollon-panorama.webp')
+
 
 if __name__ == '__main__':
     unittest.main()

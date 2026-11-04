@@ -315,7 +315,14 @@ def audit(out):
             if target.is_dir() or not target.suffix:target=target/'index.html'
             error=None
             if not target.is_file():error='fichier absent'
-            elif parts.fragment and target in pages and unquote(parts.fragment) not in page_ids[target]:error='ancre absente'
+            elif (parts.fragment and target in pages
+                  and unquote(parts.fragment) not in page_ids[target]):
+                # This historical library uses #/accueil as a JS router path,
+                # not a missing HTML anchor. Keep real missing anchors visible.
+                router_hash = (rel == 'corpus/mythologie-grecque/archives/MYTHOS_bibliotheque_navigable.html'
+                               and target == page and parts.fragment.startswith('/'))
+                if not router_hash:
+                    error = 'ancre absente'
             checked+=1
             if error:
                 issue={'page':'/'+rel,'url':url,'problem':error}

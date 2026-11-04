@@ -118,6 +118,21 @@ class SiteAuditFixTests(unittest.TestCase):
         self.assertEqual(archive_heading.get_text(strip=True), 'Origines du sacré')
         self.assertIsNotNone(page.select_one('#numerotation-origines-du-sacre'))
 
+    def test_archived_spa_hash_is_not_misreported_as_missing_anchor(self):
+        from improve_reading import audit
+        self.write('catalog/entries.json', '{"entries": []}')
+        self.write('corpus/mythologie-grecque/archives/MYTHOS_bibliotheque_navigable.html',
+                   '<html><head><title>Bibliothèque</title></head><body>'
+                   '<a href="#/accueil">Accueil (route JS)</a>'
+                   '<script>window.addEventListener("hashchange", () => {})</script>'
+                   '<a href="#ancre-absente">Lien incorrect à signaler</a></body></html>')
+        report = audit(self.root)
+        self.assertEqual(report['status'], 'passed')
+        self.assertEqual(report['new_navigation_errors'], [])
+        self.assertEqual(report['legacy_link_issues'],
+                         [{'page': '/corpus/mythologie-grecque/archives/MYTHOS_bibliotheque_navigable.html',
+                           'url': '#ancre-absente', 'problem': 'ancre absente'}])
+
 
 if __name__ == '__main__':
     unittest.main()

@@ -32,11 +32,13 @@ PICTURES = {
  '/bibliotheque-egypte-ancienne/': 'mythos-papyrus-ani-pesee-coeur-british-museum.jpg',
  '/bibliotheque-mesopotamie/': 'gilgamesh-tablette-deluge-british-museum-babelstone.jpg',
  '/bibliotheque-perse-iran-ancien/': 'mythos-persepolis-apadana-delegations-pentocelo-2006.jpg',
- '/reconstitutions-antiquite/': 'mythos-e28094-illustration-du-sanctuaire-de-delphes.png',
+ '/reconstitutions-antiquite/': '/assets/reconstitutions-3d/delphes-apollon-panorama.webp',
 }
 
 def picture(url, root):
     name = PICTURES.get(url)
+    if name and name.startswith('/assets/reconstitutions-3d/') and name.endswith('.webp'):
+        return name if (root / name.lstrip('/')).is_file() else None
     if name and (root / 'media/2026/10' / name).is_file():
         return MEDIA + name
     return None
@@ -54,6 +56,18 @@ def header(url):
     return fragment('<header class="mythos-masthead"><a class="mythos-brand" href="/" aria-label="MYTHOS — Accueil">'+PILLAR+'<span>MYTHOS<small>ENCYCLOPÉDIE DES MYTHOLOGIES</small></span></a><nav class="mythos-primary-nav" aria-label="Navigation principale">'+links(NAV,True)+'</nav><div class="mythos-header-tools"><a class="mythos-search-link" href="/recherche/" aria-label="Rechercher dans MYTHOS">'+SEARCH+'</a><details class="mythos-menu"><summary aria-label="Ouvrir le menu"><span></span><span></span><span></span></summary><nav aria-label="Toutes les rubriques">'+links(MORE,True)+'</nav></details></div></header>').header
 
 PORTALS = {'/','/origines-du-sacre/','/mythologie-grecque/','/grece/','/grande-encyclopedie/','/theatre/','/philosophie/','/mythologie-comparee/','/dieux-et-deesses/','/heros-et-heroines/','/recits-mythologiques/','/civilisations/','/mythologies/','/reconstitutions-antiquite/','/rubriques/','/recherche/'}
+# Unique SEO descriptions for the six principal public portals.
+# Do not override article metadata or authored descriptions.
+GENERIC_DESCRIPTION = 'MYTHOS — Encyclopédie des mythologies du monde : sources, peuples, récits, théâtre et philosophie.'
+PORTAL_DESCRIPTIONS = {
+    '/': 'MYTHOS : encyclopédie des mythologies, théâtre grec, philosophie, sources et parcours de lecture.',
+    '/mythologie-grecque/': 'Mythologie grecque : dieux, héros, cycles, manuscrits universitaires et archives de MYTHOS.',
+    '/grande-encyclopedie/': 'Grande Encyclopédie mythologique grecque : chapitres, livres, sources, bibliographies et archives.',
+    '/origines-du-sacre/': 'Origines du sacré : 27 tomes, rites, archéologie et textes des religions anciennes.',
+    '/theatre/': 'Théâtre grec : tragédies, comédies, fragments, études philosophiques et bibliographies.',
+    '/philosophie/': 'Philosophie MYTHOS : études de l’Iliade, de l’Odyssée, de la Théogonie et des pensées antiques.',
+}
+
 
 def apply(root):
     root = Path(root)
@@ -69,6 +83,10 @@ def apply(root):
         url = '/' + (rel[:-10] if rel.endswith('index.html') else rel)
         portal_url = '/' if url == '/' else url.removesuffix('.html').rstrip('/') + '/'
         portal = portal_url in PORTALS or portal_url.startswith(('/parcours/', '/catalogue-integral/', '/etat-du-corpus/', '/methode-editoriale/'))
+        description = doc.head.select_one('meta[name="description"]')
+        if (description and description.get('content') == GENERIC_DESCRIPTION
+                and portal_url in PORTAL_DESCRIPTIONS):
+            description['content'] = PORTAL_DESCRIPTIONS[portal_url]
         # Idempotent: an already transformed static page keeps its hero and title.
         old_hero = doc.select_one('.mythos-banner')
         heading = old_hero.h1 if old_hero else doc.h1
