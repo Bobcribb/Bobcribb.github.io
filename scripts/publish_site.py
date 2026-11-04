@@ -35,7 +35,7 @@ def guard_render_commit(worktree, allocated=None):
         raise RuntimeError("Publication refusée : suppression de fichiers : " + deleted)
     paths = git(worktree, "diff", "--cached", "--name-only", "-z").stdout.split("\0")
     generated = {"search.json", "sitemap.xml", "robots.txt", "CNAME", ".nojekyll",
-                 "catalog/origines-continuity.json", "catalog/numbering.json", "catalog/publication-verification.json"}
+                 "catalog/origines-continuity.json", "catalog/numbering.json", "catalog/publication-verification.json", "catalog/entries.json", "catalog/reading-audit.json", "catalog/reading-pdfs.json"}
     for name in filter(None, paths):
         path = Path(name)
         html = (path.suffix == ".html" and not any(p.startswith(".") for p in path.parts)

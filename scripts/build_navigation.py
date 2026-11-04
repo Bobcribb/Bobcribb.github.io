@@ -871,27 +871,8 @@ def renovate_catalog(total):
     path.write_text(raw,encoding="utf-8")
 
 def renovate_search():
-    path=OUT/"recherche/index.html"
-    body=path.read_text(encoding="utf-8")
-    a=body.index('<article class="content">')
-    b=body.index('</article>',a)+len('</article>')
-    replacement='''<article class="content"><div class="eyebrow">INDEX · RECHERCHE</div>
-<h1>Rechercher dans MYTHOS</h1><p class="portal-lead">Un moteur unique pour les mythologies, les œuvres dramatiques, les analyses philosophiques et les civilisations du monde.</p>
-<input class="search" data-search placeholder="Ex. Chiron, Osiris, Aristophane, Chine, Nietzsche…" aria-label="Rechercher dans l'encyclopédie">
-<div class="results" data-results></div><h2>Parcourir plutôt que rechercher</h2>'''+cards([
-  ("/mythologies/","Mythologies","Les dieux et les récits du monde."),
-  ("/dieux-et-deesses/","Dieux et déesses","Panthéons et monographies."),
-  ("/heros-et-heroines/","Héros et héroïnes","Personnages des épopées."),
-  ("/recits-mythologiques/","Grands récits","Cosmogonies et cycles narratifs."),
-  ("/grece/","Grèce","Dieux, héros et sanctuaires grecs."),
-  ("/theatre/","Théâtre","Œuvres et analyses."),
-  ("/origines-du-sacre/","Origines du sacré","Sources et histoire comparée des religions."),
-  ("/philosophie/","Philosophie","Les grands problèmes et les penseurs."),
-  ("/civilisations/","Civilisations","Les cultures par continent.")
- ],"portal-grid-compact")+'</article>'
-    body=body[:a]+replacement+body[b:]
-    body=re.sub(r'<aside class="sidebar">[\s\S]*?</aside>','',body,count=1)
-    path.write_text(body,encoding="utf-8")
+    from improve_reading import search_form
+    write("recherche", shell("Rechercher dans MYTHOS", '<h1>Rechercher dans MYTHOS</h1><p>Combinez les mots et les filtres pour retrouver une étude.</p>'+search_form()))
 
 
 

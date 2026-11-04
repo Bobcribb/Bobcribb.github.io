@@ -17,7 +17,7 @@ permissions:
   id-token: write
 
 concurrency:
-  group: mythos-gallery-3d
+  group: mythos-github-pages
   cancel-in-progress: false
 
 jobs:
@@ -36,6 +36,10 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+      - name: Préparer le rendu PDF et les polices grecques
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y libpango-1.0-0 libpangoft2-1.0-0 fonts-dejavu-core fonts-urw-base35
       - name: Installer les dépendances de génération
         run: python -m pip install -r requirements.txt
       - name: Reconstruire toutes les pages du site sans éditer les sources
@@ -64,6 +68,10 @@ jobs:
           assert len(list(root.rglob('index.html')))>1000, 'Publication du corpus complet non garantie'
           print('MYTHOS :',len(items),'images WebP et notices présentes ; encyclopédie préservée.')
           PY
+      - name: Refuser de déployer un instantané devenu ancien
+        run: |
+          git fetch --no-tags origin refs/heads/main:refs/remotes/origin/main
+          test "$(git rev-parse HEAD)" = "$(git rev-parse refs/remotes/origin/main)" || { echo "main a évolué : la publication principale prendra le relais."; exit 1; }
       - name: Configurer GitHub Pages
         uses: actions/configure-pages@v5
       - name: Préparer les fichiers du site complet

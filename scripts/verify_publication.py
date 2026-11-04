@@ -49,7 +49,7 @@ def verify(root=Path("."), out=Path("_site")):
     for path, source_hash in report["preserved_source_sha256"].items():
         source = root / path
         assert hashlib.sha256(source.read_bytes()).hexdigest() == source_hash, path
-        url = "/" + source.with_suffix("").as_posix() + "/"
+        url = "/" + Path(path).with_suffix("").as_posix() + "/"
         if url in historical_redirects:
             # Source bytes remain archived; the complete destination is checked
             # separately. Historical redirect pages are intentionally unindexed.

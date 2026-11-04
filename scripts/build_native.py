@@ -332,6 +332,8 @@ def main():
     # Ancienne adresse de catalogue encore utilisée par des archives conservées.
     write("catalogue/index.html", '<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta http-equiv="refresh" content="0;url=/rubriques/"><link rel="canonical" href="https://bobmythos.fr/rubriques/"><title>Catalogue MYTHOS</title></head><body><p><a href="/rubriques/">Accéder au catalogue MYTHOS</a></p></body></html>')
     numbering = finish(OUT, ROOT, numbered_collections)
+    from improve_reading import prepare, enhance, audit
+    prepare(OUT, ROOT)
     n_indexed = reindex(chapters)
     navigation.finalize_navigation(n_indexed)
     print("Numérotation vérifiée :", numbering["renumbered_studies"], "études réconciliées ;", numbering["corrected_links"], "liens harmonisés")
@@ -339,7 +341,13 @@ def main():
     from apply_museum_design import apply as apply_museum_design
     n_styled = apply_museum_design(OUT)
     print(f"Identité muséale commune : {n_styled} pages HTML.")
+    enhance(OUT, ROOT)
+    from build_reading_pdfs import build as build_reading_pdfs
+    build_reading_pdfs(OUT)
     verify_sources(protected_sources)
+    from verify_publication import verify as verify_publication
+    verify_publication(ROOT, OUT)
+    audit(OUT)
     print(f"Galeries latérales ajoutées sur {n_illustrated} pages.")
     write(".nojekyll","")
     write("CNAME","bobmythos.fr\n")

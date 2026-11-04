@@ -1,0 +1,45 @@
+/* Shared discovery and reading layer, using the established ivory/gold palette. */
+[hidden]{display:none!important}
+.mythos-design .discovery-form,.mythos-design .home-search{margin:1.4rem auto 2rem;max-width:72rem}
+.discovery-form label,.home-search label{display:block;color:#ede1ca;font:600 .95rem/1.5 system-ui;margin-bottom:.5rem}
+.home-search>div{display:flex;gap:.6rem}
+.mythos-design input[type=search],.mythos-design select{min-height:48px;border:1px solid #a88c56;border-radius:5px;background:#12191a;color:#f5ebd9;font:1rem/1.5 system-ui;padding:.65rem .8rem;max-width:100%}
+.home-search input{width:100%;min-width:0}
+.mythos-design button{min-height:44px;padding:.6rem .9rem;border:1px solid #bfa16b;border-radius:5px;background:#1c2525;color:#f5e8ce;font:600 .9rem/1.4 system-ui;cursor:pointer}
+.mythos-design button:hover{background:#33403c}
+.mythos-design button:disabled{opacity:.45;cursor:default}
+.mythos-design :is(a,button,input,select,summary):focus-visible{outline:3px solid #f2d9a5;outline-offset:4px}
+.discovery-filters{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:.8rem;margin:1rem 0}
+.discovery-filters select{display:block;width:100%;margin-top:.35rem}
+.mythos-design .discovery-results{display:block!important}
+.search-result{padding:1.3rem 0;border-bottom:1px solid #514734;overflow-wrap:anywhere}
+.mythos-design .search-result h2{font:normal 1.45rem/1.35 Georgia,serif!important;margin:0 0 .5rem!important}
+.mythos-design .search-result h2 a{display:inline!important;padding:0!important;border:0!important;background:none!important}
+.search-result p{margin:.4rem 0!important;font-size:1rem!important}
+.mythos-design .search-result-meta{font:.85rem/1.6 system-ui!important;color:#cfbc99!important}
+.result-pagination{display:flex;align-items:center;justify-content:center;gap:1rem;margin:1.6rem 0}
+.reading-route{list-style:none;counter-reset:steps;padding:0!important;max-width:780px;margin:auto}
+.reading-route>li{counter-increment:steps;border-top:1px solid #766344;padding:1.4rem 0 1.4rem 3rem;position:relative}
+.reading-route>li:before{content:counter(steps,decimal-leading-zero);position:absolute;left:0;top:1.7rem;color:#d2b780;font:1.15rem Georgia,serif}
+.mythos-design .reading-route h2{font-size:1.55rem!important;margin:0 0 .5rem!important}
+.mythos-reader{margin:1.2rem 0;padding:1rem 0;border-block:1px solid #67583d;font:.9rem/1.5 system-ui;color:#dbcfb8}
+.mythos-design .mythos-reader p{font:.9rem/1.6 system-ui!important;margin:.2rem 0 .7rem!important}
+.reader-buttons{display:flex;flex-wrap:wrap;gap:.4rem}
+.reader-progress{display:block;width:100%;height:5px;margin-top:1rem;accent-color:#d6b575}
+.mythos-design .mythos-reading-toc{max-width:780px;margin:1.2rem auto 2rem;padding:1rem 1.2rem;background:#141c1c;border:1px solid #766344;border-radius:6px}
+.mythos-reading-toc summary{text-align:center;cursor:pointer;color:#f0dfbf;font:600 1rem/1.5 system-ui;min-height:36px}
+.mythos-reading-toc ol{text-align:left;padding-left:1.5rem;columns:1!important}
+.mythos-reading-toc li{margin:.4rem 0;line-height:1.6;overflow-wrap:anywhere}
+.epic-links,.reader-bottom{margin:1rem 0;padding:1rem 0;border-block:1px solid #67583d;line-height:1.9}
+.mythos-design [data-mythos-reader] :is(p,li,dd,blockquote){font-size:calc(1.06rem * var(--reading-scale,1))!important;line-height:1.85!important}
+.mythos-design [data-mythos-reader] :is(.mythos-reader,.mythos-reading-toc) :is(p,li){font-size:.95rem!important}
+[data-reading-section]{scroll-margin-top:1.5rem}
+body.mythos-design.mythos-focus :is(.mythos-banner,.mythos-masthead,.mythos-bottom-gallery,.mythos-original-intro,footer){display:none!important}
+body.mythos-design.mythos-focus main{padding-top:1rem!important}
+.editorial-sources{border-top:1px solid #a78c5a;margin-top:2rem;padding-top:1rem}
+.mythos-design td,.mythos-design th{overflow-wrap:anywhere}
+@media(max-width:700px){.discovery-filters{grid-template-columns:1fr 1fr}.home-search>div{flex-wrap:wrap}.home-search button{width:100%}.mythos-reading-toc{padding:.8rem}.reader-buttons button{flex:1 1 auto}.search-result{padding:1rem 0}}
+@media(max-width:420px){.discovery-filters{grid-template-columns:1fr}.result-pagination{gap:.5rem}}
+@media print{.mythos-reader,.mythos-reading-toc,.reader-bottom,.epic-links,footer,.mythos-masthead{display:none!important}.mythos-design [data-mythos-reader] :is(p,li,dd,blockquote){font-size:11pt!important;line-height:1.5!important}h2,h3{break-after:avoid}figure,table{break-inside:avoid}a{color:#111!important}body{background:white!important;color:#111!important}}
+/* The generated centered TOC replaces the older visible list, retaining its anchors. */
+.mythos-design [data-mythos-reader] > nav.philo-toc{display:none}
