@@ -35,6 +35,39 @@ class GreekFolderTests(unittest.TestCase):
                                       'Apollon et Zeus cités dans une comparaison', 'Chapitre universitaire')[0], folder)
         self.assertEqual(classify('/monographies/#oedipe', 'Œdipe', 'Section de livre')[0], 'familles')
 
+    def test_recent_published_monographs_have_a_precise_single_home(self):
+        # Classement des sujets et non des noms cités dans les développements.
+        # Les manuscrits et leurs cotes restent inchangés.
+        cases = {
+            '420-makaria-heraclides-sacrifice-volontaire-asile-athenes': 'familles',
+            '419-agdistis-phrygie-attis-cybele-pessinonte': 'divinites',
+            '418-eunostos-tanagra-myrtis-ochna-heroion-bois-sacre-interdit': 'cultes-sanctuaires',
+            '417-epimenide-crete-sommeil-purification-athenes-cylon': 'cultes-sanctuaires',
+            '416-eiresione-rameau-pyanepsies-apollon-prosperite': 'cultes-sanctuaires',
+            '415-alastor-vengeance-sang-atrides-erinyes-tragedie': 'familles',
+            '414-bendis-deesse-thrace-piree-bendideia-platon-associations-cultes': 'cultes-sanctuaires',
+            '413-couretes-corybantes-zeus-enfant-danse-armee-crete': 'cosmogonies',
+            '411-pothos-desir-absent-erotes-scopas-megare': 'divinites',
+            '410-telesphoros-pergame-guerison-enfant-capuchon-asclepios': 'cultes-sanctuaires',
+            '409-agathos-daimon-serpent-maison-alexandrie-prosperite': 'cultes-sanctuaires',
+            '408-asopos-dieu-fleuve-egine-zeus-filles-cites': 'divinites',
+            '407-cnossos-palais-minoen-archeologie-et-labyrinthe': 'sources-anciennes',
+            '404-zeus-meilichios-diasia-serpent-purification-athenes-selinonte': 'cultes-sanctuaires',
+        }
+        for slug, expected_folder in cases.items():
+            path = 'chapitre-' + slug
+            url = '/chapitres/encyclopedie/' + path + '/'
+            source = Path(__file__).resolve().parents[1] / 'chapitres/encyclopedie' / (path + '.md')
+            self.assertTrue(source.is_file(), 'Manuscrit public absent : ' + path)
+            dossier, section = classify(url, 'Chapitre : mythes, sources et bibliographie',
+                                        'Chapitre universitaire')
+            self.assertEqual(dossier, expected_folder, path)
+            self.assertNotEqual(section, 'Nouvelles études à classer', path)
+        # Toute autre étude vraiment inconnue demeure dans la file à classer.
+        self.assertEqual(classify('/chapitres/encyclopedie/chapitre-999-theme-inconnu/',
+                                  'Aucun sujet reconnu', 'Chapitre universitaire'),
+                         ('sources-anciennes', 'Nouvelles études à classer'))
+
     def test_one_home_per_destination_with_separate_book_sections(self):
         groups = [('Livres', 'grec-livres', [('/livre-thebes/', 'Thèbes')]),
                   ('Encore le livre', 'grec-dossiers', [('/livre-thebes/', 'Autre titre')])]
