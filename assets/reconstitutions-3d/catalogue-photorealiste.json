@@ -2,7 +2,7 @@
   "generated_at": "2026-11-04",
   "site": "bobmythos.fr",
   "method": "Illustrations photoréalistes interprétatives, textes et sources hors des pixels.",
-  "count": 32,
+  "count": 33,
   "entries": [
     {
       "id": "DEL-PAN-001",
@@ -620,6 +620,27 @@
       "provenance": "Création originale assistée par IA. Les institutions citées documentent les monuments sans valider les choix graphiques.",
       "sha256": "de0ee80dd2dd37e35510adefd72b6e56ec202d553f2194dba5f536b9a7aa5564",
       "scientific_notice": "/assets/reconstitutions-3d/notices/oropos-amphiaraion-sanctuaire-vue-ensemble.json"
+    },
+    {
+      "id": "NAX-SAN-001",
+      "slug": "naxos-sangri-demeter-temple-archaique",
+      "title": "Naxos — sanctuaire de Déméter à Sangri (Gyroulas)",
+      "period": "Vers 530 av. J.-C. — époque archaïque tardive",
+      "caption": "Reconstitution numérique photoréaliste, interprétative et non métrique du temple archaïque de Sangri, édifié en marbre naxien dans la plaine de Gyroulas.",
+      "commentary": "Sur une faible élévation de la plaine de Gyroulas, au sud de Sangri sur Naxos, s'élève un édifice entièrement construit en marbre, daté, selon les études, de 540–530 ou de 530–520 av. J.-C. Dédié vraisemblablement à Déméter et Korè, le sanctuaire comporte une salle cultuelle de plan presque carré, avec pronaos au sud, deux portes d'accès à la cella et une rangée transversale de cinq colonnes internes. La façade présentait également cinq colonnes, disposées entre les prolongements des murs (in antis) ; les fûts étaient lisses, les détails des chapiteaux largement peints, la toiture et ses tuiles façonnées dans le marbre de Naxos. L'édifice constitue un jalon important dans l'élaboration de la construction ionique et des corrections optiques. L'illustration privilégie une vue photoréaliste de volume, mais ne doit pas être assimilée à une anastylose numérique : le modèle représente quatre colonnes visibles en façade au lieu des cinq attestées, et l'entrée est stylisée ; il simplifie également la couverture, les proportions exactes et la topographie. Le sol, les murs extérieurs, l'orientation du point de vue, les collines et la mer éventuellement visibles sont des choix artistiques et non le résultat d'un relevé. L'institution citée documente le site, sans valider cette image.",
+      "certainty": "Élevée : emplacement, matériau, époque, plan carré et principe d’élévation. Moyenne : toiture, organisation de la cella. Faible : nombre de colonnes visible dans cette image (quatre et non cinq), proportions et paysage.",
+      "source_url": "https://cyclades.culture.gov.gr/en/location/the-archaeological-collection-and-the-archaeological-site-of-sangri-naxos/",
+      "secondary_sources": [
+        "https://www.gtp.gr/directory/archaeologicalsiteofsangri"
+      ],
+      "src": "/assets/reconstitutions-3d/naxos-sangri-demeter-temple-archaique.webp",
+      "width": 1600,
+      "height": 900,
+      "created_at": "2026-11-04",
+      "type": "panorama photoréaliste 3D interprétatif, non métrique",
+      "provenance": "Image originale assistée par IA ; les institutions citées documentent le monument mais ne valident pas cette image.",
+      "sha256": "aa5556e3a58307d5ffc27a48f38f33093823a574a05dd901a9d30f2ba3521079",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/naxos-sangri-demeter-temple-archaique.json"
     }
   ]
 }
