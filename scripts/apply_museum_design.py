@@ -227,6 +227,49 @@ def apply(root):
                     'a.portal-card[href="/grande-encyclopedie/"], '
                     'a.mythos-collection-card[href="/grande-encyclopedie/"]'):
                 duplicate.decompose()
+        # Sommaire de l'accueil : navigation interne vers les rubriques existantes,
+        # sans reproduire les textes, changer les cartes ni créer d'entrées de corpus.
+        # Cette passe est idempotente, y compris après deux reconstructions.
+        if url == '/':
+            for old in doc.select('nav.mythos-home-toc'):
+                old.decompose()
+            home_targets = (
+                ('Les collections', 'home-collections'),
+                ('Commencer une lecture', 'home-parcours'),
+                ('Trois œuvres à approfondir', 'home-oeuvres'),
+                ('Sanctuaires grecs en images', 'sanctuaires-en-images'),
+                ('Explorer les mondes anciens', 'home-civilisations'),
+                ('Une bibliothèque documentée', 'corpus-status'),
+            )
+            available = []
+            for title, anchor in home_targets:
+                section = next((
+                    s for s in doc.select('main section.portal-section')
+                    if s.find('h2') and s.find('h2').get_text(' ', strip=True) == title
+                ), None)
+                if section:
+                    if not section.get('id') and not doc.find(id=anchor):
+                        section['id'] = anchor
+                    if section.get('id'):
+                        available.append((title, section['id']))
+            if available:
+                toc = doc.new_tag('nav', attrs={
+                    'class': 'mythos-home-toc',
+                    'aria-label': 'Sommaire de la page d’accueil',
+                })
+                title = doc.new_tag('p', attrs={'class': 'mythos-home-toc-title'})
+                title.string = 'Sur cette page'
+                toc.append(title)
+                links = doc.new_tag('ul')
+                for label, anchor in available:
+                    li = doc.new_tag('li')
+                    link = doc.new_tag('a', href='#' + anchor)
+                    link.string = label
+                    li.append(link)
+                    links.append(li)
+                toc.append(links)
+                illustrated_directory = doc.select_one('.mythos-directory')
+                (illustrated_directory or banner).insert_after(toc)
         for card in doc.select('.portal-card'):
             # A gallery card can point to a verified photorealistic WebP outside
             # the collection-cover map. Preserve that authored photograph: an
