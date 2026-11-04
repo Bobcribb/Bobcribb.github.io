@@ -779,3 +779,63 @@ body.mythos-design .mythos-civilisation-credit div{
   body.mythos-design .mythos-civilisation-grid{grid-template-columns:minmax(0,1fr)}
   body.mythos-design .mythos-civilisation-link img{height:clamp(160px,48vw,260px)}
 }
+
+
+/* MYTHOS — parcours documentaires bidirectionnels, sans changement des études. */
+body.mythos-design .mythos-civilisation-study{
+  margin:0!important;
+  padding:0 clamp(12px,1.6vw,20px) 10px;
+}
+body.mythos-design .mythos-civilisation-study a{
+  display:block;
+  min-height:44px;
+  box-sizing:border-box;
+  padding:11px 14px;
+  border:1px solid #b29564;
+  background:#1b2728;
+  color:#f2d7a5!important;
+  font:600 14px/1.5 system-ui,sans-serif;
+  text-decoration:none!important;
+  overflow-wrap:anywhere;
+}
+body.mythos-design .mythos-civilisation-study a:is(:hover,:focus-visible){
+  background:#293634;
+  border-color:#efca92;
+  text-decoration:underline!important;
+}
+body.mythos-design .mythos-document-reciprocal{
+  display:flex;
+  flex-wrap:wrap;
+  align-items:center;
+  gap:10px 16px;
+  margin:clamp(24px,4vw,46px) auto;
+  padding:18px;
+  max-width:900px;
+  border-block:1px solid #90764e;
+  background:#121d1e;
+  color:#e5d2b4;
+}
+body.mythos-design .mythos-document-reciprocal span{
+  flex:1 1 100%;
+  font:600 14px/1.5 system-ui,sans-serif;
+}
+body.mythos-design .mythos-document-reciprocal a{
+  display:inline-flex;
+  align-items:center;
+  min-height:44px;
+  padding:9px 13px;
+  border:1px solid #806a49;
+  color:#f2d4a0!important;
+  text-underline-offset:3px;
+}
+@media(max-width:650px){
+  body.mythos-design .mythos-document-reciprocal{
+    display:grid;
+    grid-template-columns:minmax(0,1fr);
+    padding:15px 12px;
+  }
+  body.mythos-design .mythos-document-reciprocal a{overflow-wrap:anywhere}
+}
+@media print{
+  body.mythos-design .mythos-document-reciprocal{display:none!important}
+}
