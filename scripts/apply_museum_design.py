@@ -106,6 +106,21 @@ def apply(root):
                 href='https://bobmythos.fr' + quote(canonical_path, safe='/-._~')))
         doc.body['class'] = list(dict.fromkeys(doc.body.get('class',[]) + ['mythos-design', 'mythos-portal' if portal else 'mythos-reading']))
         doc.body['data-mythos-design'] = VERSION
+        # Les anciens dossiers emploient parfois « Revenir en haut » via #top
+        # sans cible réelle. L'ancre sur body reste stable après reconstruction
+        # et n'ajoute aucun élément visible au texte universitaire.
+        if doc.select_one('a[href="#top"]') and not doc.find(id='top'):
+            if not doc.body.get('id'):
+                doc.body['id'] = 'top'
+            else:
+                doc.body.insert(0, doc.new_tag('span', id='top'))
+        # Les trois éditions philosophiques possèdent un vrai H1 dans la
+        # bannière ET un titre dédié à l'impression. Réserver H1 au bandeau,
+        # conserver l'intitulé imprimé en H2 sans changer les paragraphes.
+        if rel in {'philosophie-iliade.html', 'philosophie-odyssee.html',
+                   'philosophie-theogonie.html'}:
+            for print_heading in doc.select('main h1.print-title'):
+                print_heading.name = 'h2'
         main = doc.main or doc.select_one('article, .container, .article-wrapper')
         if main and not main.get('id'):
             main['id'] = 'mythos-content' if doc.find(id='contenu') else 'contenu'
