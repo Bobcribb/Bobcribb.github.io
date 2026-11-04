@@ -107,5 +107,17 @@ class SiteAuditFixTests(unittest.TestCase):
         self.assertIn('dieu-zeus.html#source', (source/'corpus/mythologie-grecque/archives/book.html').read_text())
 
 
+    def test_origines_landing_keeps_single_primary_heading(self):
+        """The museum banner is H1; archive subsection is H2 after rebuild."""
+        page = BeautifulSoup((ROOT / 'origines-du-sacre/index.html').read_text(
+            encoding='utf-8'), 'html.parser')
+        self.assertEqual(len(page.select('h1')), 1)
+        self.assertIsNotNone(page.select_one('h1.mythos-banner-title'))
+        archive_heading = page.select_one('.origins-archives > h2')
+        self.assertIsNotNone(archive_heading)
+        self.assertEqual(archive_heading.get_text(strip=True), 'Origines du sacré')
+        self.assertIsNotNone(page.select_one('#numerotation-origines-du-sacre'))
+
+
 if __name__ == '__main__':
     unittest.main()
