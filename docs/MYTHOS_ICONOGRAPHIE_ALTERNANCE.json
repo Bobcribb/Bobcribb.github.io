@@ -5,52 +5,73 @@
   "branch": "main",
   "latest_session": {
     "date": "2026-11-04",
-    "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "previous_kind": "AUDIT ET CORRECTION",
-    "next_kind": "AUDIT ET CORRECTION",
-    "scope": "Trois monographies philosophiques existantes : Iliade, Odyssée, Théogonie",
-    "checked_pages": 3,
-    "source_illustrations_added": 3,
-    "html_figures_added": 3,
-    "figure_counts_before": {
-      "Iliade": 14,
-      "Odyssée": 13,
-      "Théogonie": 16
-    },
-    "figure_counts_after": {
+    "kind": "AUDIT ET CORRECTION",
+    "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "scope": "Audit ciblé du portail, des trois monographies philosophiques, de l'atlas et de la publication publique",
+    "audit_basis_commit": "dda90e0d3b5ca73cfe5646d4c5593f71f7e5c1d1",
+    "checked_html_pages": 8,
+    "checked_portal_routes": 21,
+    "checked_theatre_article_links": 10,
+    "monograph_figure_counts": {
       "Iliade": 15,
       "Odyssée": 14,
       "Théogonie": 17
     },
-    "source_references": [
-      "Homère, Iliade XXIII, 534–650",
-      "Homère, Odyssée II, 1–259",
-      "Hésiode, Théogonie 775–806"
-    ],
-    "new_asset_paths": [
-      "assets/philosophie/iliade-jeux-funebres-equite-20261104.svg",
-      "assets/philosophie/odyssee-assemblee-ithaque-20261104.svg",
-      "assets/philosophie/theogonie-serment-styx-20261104.svg"
-    ],
-    "modified_pages": [
-      "philosophie-iliade.html",
-      "philosophie-odyssee.html",
-      "philosophie-theogonie.html"
-    ],
-    "checks": "3 sources SVG et 3 pages relues après commit ; aucun id HTML dupliqué ni ancre interne manquante ; attribut alt et statut d’assistance IA présents ; aucune modification du texte des études hormis l’insertion des figures ; 3 textes > 53 000 mots chacun, pagination A4 non vérifiée.",
-    "public_deployment_status": "Vérifié le 4 novembre 2026 sur bobmythos.fr : le reçu public /catalog/publication-verification.json indique le commit source 226c1311b16c38dcf6fdc45726d4fb525dfadb4c ; les trois nouveaux chemins SVG répondent HTTP 404 et leurs nouvelles figures ne sont pas visibles sur les pages publiques. Les fichiers existent bien sur GitHub main. Déploiement de cette séance NON confirmé.",
-    "content_preserved": "Textes, sommaires, navigation, numérotations, registres éditoriaux, automatisations et fréquence inchangés.",
-    "commits": [
-      "950427b1c81f3d0ac2b8e6a6445a3a5b6697f8f0",
-      "e075f0a3700dd8686c6d5db38c73e8c9077b2d38",
-      "5cbb3d70927df225a75addc5175d3983ed288c64",
-      "8686fbba07263db9232d5e9386ad636b7892c600",
-      "6eec381c7f0f8c359a8d6bd9340fc8290a7adfec",
-      "b5dffea008ae86b7fa08b1c99fb1242842e66b92"
-    ]
+    "checks": "Sur les 8 fichiers HTML examinés: aucune ancre interne manquante et aucun id HTML dupliqué relevés. Sur les 3 monographies: 46 images avec alt; 7 ressources CSS/JS communes, 3 SVG récemment ajoutés et leurs chemins dans main existent. Les 21 routes de portail contrôlées possèdent un index.html; les 10 liens testés vers le théâtre grec existent. Les ressources photographiques binaires n'ont pas été validées pixel par pixel. Aucun correctif de contenu justifié par les anomalies recherchées dans cet échantillon.",
+    "public_deployment_status": "Vérification navigateur HTTPS du 4 novembre 2026: /catalog/publication-verification.json accessible et présentant source_commit dda90e0d3b5ca73cfe5646d4c5593f71f7e5c1d1 (égal à la tête de main lors du contrôle), github_run_id 41762166831, 1158 documents indexés, 27 archives et 110 médias vérifiés. /assets/philosophie/iliade-jeux-funebres-equite-20261104.svg s'affiche effectivement, plus de 404. Le chargement public des deux autres SVG n'a pas été testé individuellement. Il ne faut pas assimiler la modification de ce registre à un nouveau déploiement vérifié.",
+    "verified_errors_corrected": 0,
+    "content_preserved": "Aucune étude ni numérotation éditoriale modifiée, aucun registre d'attribution, workflow, programme, horaire ou planification modifié. Seul ce journal d'alternance est actualisé.",
+    "obstacles": "Pas d'exécution intégrale locale des tests Python ni d'audit exhaustif des milliers de liens/ressources. Contrôle public indépendant limité au reçu JSON et à un SVG. Les PDF A4 ont un audit documentaire préexistant, mais n'ont pas été rerendus ici."
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
   "history": [
+    {
+      "date": "2026-11-04",
+      "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "previous_kind": "AUDIT ET CORRECTION",
+      "next_kind": "AUDIT ET CORRECTION",
+      "scope": "Trois monographies philosophiques existantes : Iliade, Odyssée, Théogonie",
+      "checked_pages": 3,
+      "source_illustrations_added": 3,
+      "html_figures_added": 3,
+      "figure_counts_before": {
+        "Iliade": 14,
+        "Odyssée": 13,
+        "Théogonie": 16
+      },
+      "figure_counts_after": {
+        "Iliade": 15,
+        "Odyssée": 14,
+        "Théogonie": 17
+      },
+      "source_references": [
+        "Homère, Iliade XXIII, 534–650",
+        "Homère, Odyssée II, 1–259",
+        "Hésiode, Théogonie 775–806"
+      ],
+      "new_asset_paths": [
+        "assets/philosophie/iliade-jeux-funebres-equite-20261104.svg",
+        "assets/philosophie/odyssee-assemblee-ithaque-20261104.svg",
+        "assets/philosophie/theogonie-serment-styx-20261104.svg"
+      ],
+      "modified_pages": [
+        "philosophie-iliade.html",
+        "philosophie-odyssee.html",
+        "philosophie-theogonie.html"
+      ],
+      "checks": "3 sources SVG et 3 pages relues après commit ; aucun id HTML dupliqué ni ancre interne manquante ; attribut alt et statut d’assistance IA présents ; aucune modification du texte des études hormis l’insertion des figures ; 3 textes > 53 000 mots chacun, pagination A4 non vérifiée.",
+      "public_deployment_status": "Vérifié le 4 novembre 2026 sur bobmythos.fr : le reçu public /catalog/publication-verification.json indique le commit source 226c1311b16c38dcf6fdc45726d4fb525dfadb4c ; les trois nouveaux chemins SVG répondent HTTP 404 et leurs nouvelles figures ne sont pas visibles sur les pages publiques. Les fichiers existent bien sur GitHub main. Déploiement de cette séance NON confirmé.",
+      "content_preserved": "Textes, sommaires, navigation, numérotations, registres éditoriaux, automatisations et fréquence inchangés.",
+      "commits": [
+        "950427b1c81f3d0ac2b8e6a6445a3a5b6697f8f0",
+        "e075f0a3700dd8686c6d5db38c73e8c9077b2d38",
+        "5cbb3d70927df225a75addc5175d3983ed288c64",
+        "8686fbba07263db9232d5e9386ad636b7892c600",
+        "6eec381c7f0f8c359a8d6bd9340fc8290a7adfec",
+        "b5dffea008ae86b7fa08b1c99fb1242842e66b92"
+      ]
+    },
     {
       "date": "2026-11-04",
       "kind": "AUDIT ET CORRECTION",
