@@ -87,6 +87,18 @@ class MuseumNavigationTests(unittest.TestCase):
                     self.assertIn('Sources conservées.', doc.get_text(' ', strip=True))
 
 
+    def test_gallery_card_is_rebuilt_from_source_and_uses_a_local_webp(self):
+        from improve_reading import COLLECTIONS
+        from apply_museum_design import PICTURES
+        gallery = "/reconstitutions-photorealistes.html"
+        records = [item for item in COLLECTIONS if item[0] == gallery]
+        self.assertEqual(len(records), 1)
+        self.assertEqual(records[0][1], "Reconstitutions 3D")
+        self.assertIn("degrés de certitude", records[0][2])
+        self.assertEqual(PICTURES[gallery],
+                         "/assets/reconstitutions-3d/delphes-apollon-panorama.webp")
+        self.assertTrue((ROOT / PICTURES[gallery].lstrip("/")).is_file())
+
     def test_gallery_card_is_present_in_home_collections(self):
         # Verrouiller l'entrée illustrée du portail, et non seulement le menu.
         home = BeautifulSoup((ROOT / 'index.html').read_text(encoding='utf-8'), 'html.parser')
