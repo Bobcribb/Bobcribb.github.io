@@ -1,9 +1,9 @@
 {
   "status": "passed",
-  "indexed_entries": 1205,
-  "pages_scanned": 1251,
-  "readers_equipped": 875,
-  "links_checked": 89944,
+  "indexed_entries": 1214,
+  "pages_scanned": 1260,
+  "readers_equipped": 880,
+  "links_checked": 92061,
   "new_navigation_errors": [],
   "legacy_link_issues": []
 }

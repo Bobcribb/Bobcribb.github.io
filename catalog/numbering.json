@@ -1178,6 +1178,12 @@
         "url": "/chapitres/tragedies/volume-ccix-euripide-oeneus-vieillesse-usurpation-diomede/",
         "title": "Volume CCIX (209) — Euripide, Œnée (Oineus, Οἰνεύς) — Vieillesse humiliée, usurpation et justice des descendants",
         "source": "chapitres/tragedies/volume-ccix-euripide-oeneus-vieillesse-usurpation-diomede.md"
+      },
+      {
+        "number": 210,
+        "url": "/chapitres/tragedies/volume-ccx-euripide-thyeste-parole-banquet-pouvoir-astres/",
+        "title": "Volume CCX (210) — Euripide, Thyeste (Θυέστης) — Le pouvoir, la parole trompeuse et le banquet de la vengeance",
+        "source": "chapitres/tragedies/volume-ccx-euripide-thyeste-parole-banquet-pouvoir-astres.md"
       }
     ],
     "comparatif": [
@@ -1990,6 +1996,24 @@
         "url": "/chapitres/comparatif/volume-clxxxix-mc-025-maat-isfet-justice-verite-desordre-egypte-ancienne/",
         "title": "Volume CLXXXIX (189) — MC-025 — Maât et Isfet : justice, vérité et désordre dans l’Égypte ancienne",
         "source": "chapitres/comparatif/volume-clxxxix-mc-025-maat-isfet-justice-verite-desordre-egypte-ancienne.md"
+      },
+      {
+        "number": 190,
+        "url": "/chapitres/comparatif/volume-cxc-pseudo-xenophon-vieil-oligarque-democratie-maritime-et-comedie-politique-aristophane/",
+        "title": "Volume CXC (190) — Pseudo-Xénophon, le « Vieil Oligarque » et Aristophane : démocratie maritime, puissance du peuple et critique politique au théâtre",
+        "source": "chapitres/comparatif/volume-cxc-pseudo-xenophon-vieil-oligarque-democratie-maritime-et-comedie-politique-aristophane.md"
+      },
+      {
+        "number": 191,
+        "url": "/chapitres/comparatif/volume-cxci-doreen-massey-espace-relationnel-power-geometry-athenes-piree-delos/",
+        "title": "Volume CXCI (191) — Doreen Massey : espace relationnel, pouvoir, réseaux et lieux ouverts — Athènes, le Pirée, Délos et les géométries du monde grec",
+        "source": "chapitres/comparatif/volume-cxci-doreen-massey-espace-relationnel-power-geometry-athenes-piree-delos.md"
+      },
+      {
+        "number": 192,
+        "url": "/chapitres/comparatif/volume-cxcii-serments-traites-maledictions-garanties-divines-egypte-hatti-assyrie-grece/",
+        "title": "Volume CXCII (192) — Dossier historique MC-027 — Jurer devant les dieux : traités, malédictions et autorité politique de l'Égypte à la Grèce",
+        "source": "chapitres/comparatif/volume-cxcii-serments-traites-maledictions-garanties-divines-egypte-hatti-assyrie-grece.md"
       }
     ],
     "comedies": [
@@ -2394,6 +2418,18 @@
         "url": "/chapitres/comedies/volume-067-telekleides-sterrhoi-corps-travestissement-banquet-desir/",
         "title": "Volume LXVII (67) — Téléclidès, Sterrhoi (Στερροί, « Les Durs », « Les Hommes solides » ?) — corps, travestissement, banquet, désir et normes de virilité",
         "source": "chapitres/comedies/volume-067-telekleides-sterrhoi-corps-travestissement-banquet-desir.md"
+      },
+      {
+        "number": 68,
+        "url": "/chapitres/comedies/volume-068-ameipsias-konnos-socrate-musique-oracles-education/",
+        "title": "Volume LXVIII (68) — Amipsias, Konnos (Κόννος) — Socrate en scène, musique, pédagogie, oracle et contradictions de la cité (423 av. J.-C.)",
+        "source": "chapitres/comedies/volume-068-ameipsias-konnos-socrate-musique-oracles-education.md"
+      },
+      {
+        "number": 69,
+        "url": "/chapitres/comedies/volume-069-ameipsias-konnos-socrate-penseurs-musique-verite/",
+        "title": "Volume LXIX (69) — Amipsias, Konnos (Κόννος) — Socrate, les « penseurs », la musique et la vérité du savoir dans l'Athènes de 423",
+        "source": "chapitres/comedies/volume-069-ameipsias-konnos-socrate-penseurs-musique-verite.md"
       }
     ],
     "origines-du-sacre": [
@@ -3380,6 +3416,18 @@
         "url": "/chapitres/origines-du-sacre/614-terres-sacrees-rhamnonte-delos-baux-garanties-droit-romain/",
         "title": "Chapitre 614 — Louer sans vendre ? La terre de Némésis à Rhamnonte, les contrats d'Apollon à Délos et les limites de l'inaliénabilité sacrée",
         "source": "chapitres/origines-du-sacre/614-terres-sacrees-rhamnonte-delos-baux-garanties-droit-romain.md"
+      },
+      {
+        "number": 615,
+        "url": "/chapitres/origines-du-sacre/615-delos-amphictyons-arrieres-saisies-dettes-apollon/",
+        "title": "Chapitre 615 — Quand Apollon attend son argent : Délos, les intérêts impayés, les cautions et les comptes publics",
+        "source": "chapitres/origines-du-sacre/615-delos-amphictyons-arrieres-saisies-dettes-apollon.md"
+      },
+      {
+        "number": 616,
+        "url": "/chapitres/origines-du-sacre/616-epidaure-stele-sanctions-pasiteles-perillos-confiscations/",
+        "title": "Chapitre 616 — Réparer le tort fait au dieu : la stèle des sanctions d'Épidaure, la faute des artisans et la confiscation des biens",
+        "source": "chapitres/origines-du-sacre/616-epidaure-stele-sanctions-pasiteles-perillos-confiscations.md"
       }
     ]
   },

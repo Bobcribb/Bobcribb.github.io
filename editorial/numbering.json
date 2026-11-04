@@ -255,6 +255,18 @@
           "path": "chapitres/origines-du-sacre/614-terres-sacrees-rhamnonte-delos-baux-garanties-droit-romain.md",
           "request_sha256": "2a99155be8d70b7b36da57e1e187519d43787c0e8b81d2e67fb925f7952ee1e4",
           "initial_source_sha256": "7286ff10129d7f586df92e84c7317611d60a80f7b52c369fedfa19f509eb22b8"
+        },
+        "a4e2c9fd-95c5-44fd-ac1a-33a847fedf02": {
+          "number": 615,
+          "path": "chapitres/origines-du-sacre/615-delos-amphictyons-arrieres-saisies-dettes-apollon.md",
+          "request_sha256": "e936582ea04b81d1d9b72ed4db15294487b58b39d82304ad632d721f4a03a784",
+          "initial_source_sha256": "ed10baedaeec94ea0fe5ae20937530690666019e4f64f156983d02ca12772353"
+        },
+        "b7c165c2-1892-479c-b5ae-916a7cdb640e": {
+          "number": 616,
+          "path": "chapitres/origines-du-sacre/616-epidaure-stele-sanctions-pasiteles-perillos-confiscations.md",
+          "request_sha256": "c31d73c14ec2086447c64f8f6dae8afc5eddba5fb2c44466045138761ac60d99",
+          "initial_source_sha256": "10776c96b16378cc0f27df3ab667bdde636beb4250bdbfde3313a71c71464c64"
         }
       }
     },
@@ -616,6 +628,18 @@
           "path": "chapitres/comedies/volume-067-telekleides-sterrhoi-corps-travestissement-banquet-desir.md",
           "request_sha256": "1a7104895c1e97c262ea30ae8294b1dea0b4416b8bf830993de9410662fb1312",
           "initial_source_sha256": "60d2a8416479d67d35e61d5616c76326b3014e6c2546aa202c8bac6606fde1a3"
+        },
+        "ae0e05e6-e8e9-4db0-9a9b-73564c197a81": {
+          "number": 68,
+          "path": "chapitres/comedies/volume-068-ameipsias-konnos-socrate-musique-oracles-education.md",
+          "request_sha256": "ec2208ab405c1f88e2f16340b5bda4312e71affc0902a59fbb0e7882a84db3ed",
+          "initial_source_sha256": "d34a92eed5fbb6bb80636ea7afb004831acd006e937a617499e140627d030782"
+        },
+        "b7f0d3a2-4c6e-4f91-8d2b-3e5a7c9f1b24": {
+          "number": 69,
+          "path": "chapitres/comedies/volume-069-ameipsias-konnos-socrate-penseurs-musique-verite.md",
+          "request_sha256": "2c6333eeccf84e085526fc51c5bf5913759a16462f1f112c988dbbceadf80871",
+          "initial_source_sha256": "bcda0c9564c009e450fdd3ffc10a39830bd4dbe953aaa5cc9d307177a6f35257"
         }
       }
     },
@@ -772,6 +796,12 @@
           "path": "chapitres/tragedies/volume-ccix-euripide-oeneus-vieillesse-usurpation-diomede.md",
           "request_sha256": "4ccd1cd1790a0aaa33d9391df8a95d5883e9f3944b12f781fffc96df4206beb3",
           "initial_source_sha256": "7c651bb211b979ed415f4c91140b6ba158371b7246438aaae64fa5148c60771d"
+        },
+        "b72d98c4-0d71-4fa3-9c32-1486e02d75ab": {
+          "number": 210,
+          "path": "chapitres/tragedies/volume-ccx-euripide-thyeste-parole-banquet-pouvoir-astres.md",
+          "request_sha256": "f33847f3b7684e6f2cb3072dc9ac147a2178eddf404f8d884efd6f4be7187762",
+          "initial_source_sha256": "116f03071724624b51e8f336ea9cc5adf4ad688b0a1e164e1c1c17f76d56c4a0"
         }
       }
     },
@@ -1063,6 +1093,24 @@
           "path": "chapitres/comparatif/volume-clxxxix-mc-025-maat-isfet-justice-verite-desordre-egypte-ancienne.md",
           "request_sha256": "26ee24c94bd630e1aa053e4e942bc199205cf4de47a9a2a930941e8414f1fb19",
           "initial_source_sha256": "2628d49f6a2c804c505b6282703e748925e69cb638cb8b9a2c36a9f7e3d985dd"
+        },
+        "31d58b0c-9ac4-4b7d-8ed1-6840a32fd219": {
+          "number": 190,
+          "path": "chapitres/comparatif/volume-cxc-pseudo-xenophon-vieil-oligarque-democratie-maritime-et-comedie-politique-aristophane.md",
+          "request_sha256": "6de6f5cdc21eba388b240b2f0331fd13b5db709e34eac5ea6a3ba4be0af90a48",
+          "initial_source_sha256": "3e7a72a8029c60bfaf1a1f3196bf5556788034cd82429a29491271e7057ff800"
+        },
+        "7a1f4c92-3e68-4d5b-9c27-8f6a2b1d4e70": {
+          "number": 191,
+          "path": "chapitres/comparatif/volume-cxci-doreen-massey-espace-relationnel-power-geometry-athenes-piree-delos.md",
+          "request_sha256": "393cfff5e87eff461b46ffb238d2f1781680d99f9330256cd6532050d8bb948e",
+          "initial_source_sha256": "d048713afca07099845ffc9ebdf0e0aaf31624741f76c766823b0cdbe77e30fb"
+        },
+        "f53ca609-6e43-4477-bda1-292ae9fe31d4": {
+          "number": 192,
+          "path": "chapitres/comparatif/volume-cxcii-serments-traites-maledictions-garanties-divines-egypte-hatti-assyrie-grece.md",
+          "request_sha256": "d98ef09e064b93f4481ff73ca66ba1c5b33ed49808a43cbb479b78afb96ebc69",
+          "initial_source_sha256": "360dc3d8a8801da9fe15b7016ab7fba8faebda374a92c855e913b1f97d61b9cb"
         }
       }
     }
