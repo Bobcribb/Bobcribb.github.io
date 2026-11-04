@@ -23,6 +23,9 @@ COLLECTIONS = [
     ("/origines-du-sacre/", "Origines du sacré", "Rites, témoignages et histoire des religions."),
     ("/philosophie/", "Philosophie", "Œuvres, concepts et interprétations."),
     ("/mythologie-comparee/", "Mythologie comparée", "Comparer les traditions et leurs différences."),
+    ("/reconstitutions-photorealistes.html", "Reconstitutions 3D",
+     "Monuments antiques en vues photoréalistes, notices sourcées et degrés de certitude.",
+     "GALERIE ARCHÉOLOGIQUE"),
 ]
 EPICS = {
     "iliade": ("L’Iliade", "/iliade/", "Homère", "https://atlas.perseus.tufts.edu/library/urn%3Acts%3AgreekLit%3Atlg0012.tlg001/", "D. B. Monro et T. W. Allen (éd.), Homeri Opera, vol. 1–2, Oxford, Clarendon Press, 1908–1920. Texte grec et traductions dans Perseus."),
