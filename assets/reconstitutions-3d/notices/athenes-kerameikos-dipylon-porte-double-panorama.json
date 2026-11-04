@@ -1,0 +1,36 @@
+{
+  "id": "ATH-DIP-001",
+  "title": "Athènes — Dipylon du Céramique, la grande porte double",
+  "period": "Vers 300 av. J.-C. (après les réparations de 307–304 av. J.-C.)",
+  "caption": "Vue panoramique 3D photoréaliste interprétative depuis l’ouest : avant-cour ouverte, tours défensives et deux passages de la porte intérieure du Dipylon.",
+  "archaeological_context": "Le Dipylon, anciennement appelé portes Thriasiennes, constituait l’entrée monumentale du Céramique sur le chemin conduisant vers l’Académie. La fortification thémistocléenne fut édifiée après les guerres médiques, vers 479–478 av. J.-C. ; le système fut reconstruit notamment en 307–304 av. J.-C. Dans son état de la fin du IVe siècle, une grande cour rectangulaire demeurait OUVERTE vers l’ouest, entre deux bras fortifiés et deux paires de tours carrées ; à l’est, deux passages jumeaux permettaient d’entrer dans la cité. La fermeture maçonnée de la cour par deux ouvertures cintrées à l’ouest date d’une phase beaucoup plus tardive et ne figure volontairement PAS dans cette image. Les vestiges et la documentation archéologique permettent de restituer les grandes lignes de cet ensemble, sans établir la hauteur précise des tours, la forme des créneaux ou les matériaux de chaque parement à une date donnée. Les toits et fenêtres éventuelles, les détails des portes, la perspective sur l’Acropole, les textures, la végétation et l’éclairage sont des propositions visuelles conjecturales. Le nom « Dipylon » est attesté par une inscription seulement en 278/277 av. J.-C. : il est utilisé ici par commodité pour identifier le monument. Ce rendu n’est ni un relevé métrique, ni un document de fouille, ni une restitution officiellement validée par les institutions citées.",
+  "certainty": {
+    "high": "L’emplacement du Céramique, la cour rectangulaire ouverte vers l’ouest, les deux passages de la porte intérieure et les deux paires de tours carrées sont documentés par les vestiges. La reconstruction de 307–304 av. J.-C. est une phase identifiée.",
+    "medium": "Disposition spatiale générale des tours et des bras défensifs, apparence des murs après reconstruction.",
+    "low": "Crénelages, hauteur précise, parement de pierre, éventuelles couvertures, panneaux de portes, vues lointaines et paysage."
+  },
+  "method": "Reconstitution visuelle photoréaliste interprétative créée avec IA. Ni un relevé métrique ni un modèle archéologique validé.",
+  "dating": "Fin du IVe-début du IIIe siècle av. J.-C., évocation vers 300 av. J.-C.",
+  "sources": [
+    {
+      "authority": "Ancient Agora Kerameikos",
+      "title": "Entrance – Ancient Agora Kerameikos",
+      "url": "https://agorakerameikos.gr/en/archeological-sites/eisodos/"
+    },
+    {
+      "authority": "Eleni S. Banou & Leonidas K. Bournias, John S. Latsis Public Benefit Foundation",
+      "title": "Kerameikos (2014), « The Dipylon », p. 182–183",
+      "url": "https://www.latsis-foundation.org/content/elib/book_2/kerameikos_en.pdf"
+    },
+    {
+      "authority": "Hellenic Heritage",
+      "title": "Kerameikos: In the marble Elysium of art",
+      "url": "https://www.hh.gr/en/destinations/kerameikos/"
+    }
+  ],
+  "image": "/assets/reconstitutions-3d/athenes-kerameikos-dipylon-porte-double-panorama.webp",
+  "width": 1672,
+  "height": 941,
+  "sha256": "e01ad8ae0aa051442ce8c3844ce55be08805e87b27ddfba58b912eca957dd3f8",
+  "publication_status": "Prêt à publier. Ne déclarer publié qu’après vérification du fichier WebP depuis le domaine public et du rendu dans la galerie."
+}
