@@ -180,6 +180,12 @@ def apply(root):
             inner.append(intro)
         banner.append(inner)
         top.insert_after(banner)
+        # Respecter un seul titre H1 par page : les titres internes des études
+        # conservent leur texte, ancres et renvois bibliographiques. Seul le
+        # niveau sémantique change, jamais le contenu universitaire.
+        if main:
+            for inner_heading in main.select('h1'):
+                inner_heading.name = 'h2'
         # Keep all iconography; display it below the text as a horizontal gallery.
         for rail in doc.select('.mythos-visual-rail, .mythos-home-illustrations, .article-aside'):
             rail['class'] = list(dict.fromkeys(rail.get('class',[]) + ['mythos-bottom-gallery']))
