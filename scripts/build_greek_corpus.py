@@ -172,6 +172,58 @@ def page_title(path):
     e = d.find("h1") or d.title
     return e.get_text(" ",strip=True) if e else path.parent.name.replace("-"," ").title()
 
+
+# Dossiers documentaires : plages cohérentes avec les cycles effectivement
+# publiés. Une cote de dossier n'est ni un nouveau numéro, ni un manuscrit.
+CHAPTER_CYCLES = [
+    ("astres", "Astres et puissances célestes", 259, 260,
+     "Hélios, Astéria et les traditions divines du ciel."),
+    ("dynasties-attiques", "Lignées et origines mythiques de l’Attique", 305, 314,
+     "Pandion, Érechthée, les Cécropides et les récits fondateurs."),
+    ("thesee", "Thésée, Ariane et la royauté héroïque", 315, 326,
+     "Du labyrinthe aux usages politiques et religieux du héros."),
+    ("athenes-cultes", "Athènes : rois, institutions et cultes civiques", 327, 344,
+     "Dynasties, Athéna Polias, Panathénées, filiation et rites."),
+    ("apollon-sanctuaires", "Apollon : Délos, Delphes et sanctuaires", 345, 358,
+     "Naissances, oracles, concours, offrandes et géographie sacrée."),
+    ("pelion-heros", "Du Pélion aux Hespérides : héros et êtres hybrides", 359, 374,
+     "Nouvelles rédactions sur les centaures, les héros et leurs variantes."),
+    ("cosmogonies", "Cosmogonies et souveraineté divine", 375, 381,
+     "Nyx, les Titans, Typhon, les Géants, Prométhée et Pandore."),
+    ("rites-concepts", "Rites, personnifications et concepts moraux", 382, 388,
+     "Fortune, mariage, naissance, pudeur, pitié et parole publique."),
+]
+
+
+def chapter_dossiers(chapters):
+    """Répartir chaque manuscrit existant une seule fois, sans réécriture.
+
+    Les études nouvelles hors des cycles connus restent visibles dans une
+    catégorie de contrôle plutôt que d'être affectées arbitrairement.
+    """
+    buckets = {key: [] for key, _, _, _, _ in CHAPTER_CYCLES}
+    extra = []
+    seen_urls = set()
+    for number, _slug, url, title in chapters:
+        if url in seen_urls:
+            raise RuntimeError("Dossier grec : même URL deux fois : " + url)
+        seen_urls.add(url)
+        matches = [key for key, _, first, last, _ in CHAPTER_CYCLES
+                   if first <= number <= last]
+        if len(matches) > 1:
+            raise RuntimeError("Dossier grec : plages chevauchantes : " + str(number))
+        (buckets[matches[0]] if matches else extra).append((url, title))
+    result = [(key, label, description, buckets[key])
+              for key, label, _, _, description in CHAPTER_CYCLES
+              if buckets[key]]
+    if extra:
+        result.append(("autres-etudes", "Autres études numérotées publiées",
+                       "Textes existants hors des cycles déjà regroupés ; classement à préciser.",
+                       extra))
+    if sum(len(items) for _, _, _, items in result) != len(chapters):
+        raise RuntimeError("Dossier grec : perte de manuscrit pendant le classement")
+    return result
+
 def main(out, root):
     rewrites = rewritten_studies(root)
     path = out/"mythologie-grecque"/"index.html"
@@ -230,10 +282,31 @@ def main(out, root):
         return '<li><a href="'+escape(url,quote=True)+'">'+escape(title)+'</a></li>'
     menu=''.join('<a href="#'+key+'">'+escape(label)+' ('+str(len(items))+')</a>'
                  for label,key,items in dedup if items)
-    blocks=''.join('<section class="greek-corpus-group" id="'+key+'"><h3>'+escape(label)+
-                   ' <small>('+str(len(items))+')</small></h3><ol class="greek-corpus-links">'+
-                   ''.join(link(u,t) for u,t in items)+'</ol></section>'
-                   for label,key,items in dedup if items)
+    blocks = ''
+    for label, key, items in dedup:
+        if not items:
+            continue
+        if key == "grec-universitaire":
+            dossiers = chapter_dossiers(chapters)
+            navigation = '<nav class="greek-dossiers-toc" aria-label="Dossiers des chapitres universitaires">'+''.join(
+                '<a href="#grec-dossier-'+escape(slug, quote=True)+'">'+escape(title)+
+                ' ('+str(len(rows))+')</a>'
+                for slug, title, _, rows in dossiers)+'</nav>'
+            panels = ''.join(
+                '<details class="greek-book greek-dossier" id="grec-dossier-'+escape(slug, quote=True)+'">'+
+                '<summary>'+escape(title)+' — '+str(len(rows))+' chapitres</summary>'+
+                '<p class="section-intro">'+escape(description)+'</p>'+
+                '<ol class="greek-corpus-links">'+''.join(link(u,t) for u,t in rows)+'</ol></details>'
+                for slug, title, description, rows in dossiers)
+            blocks += ('<section class="greek-corpus-group" id="grec-universitaire">'+
+                       '<h3>'+escape(label)+' <small>('+str(len(items))+')</small></h3>'+
+                       '<p>Huit cycles documentaires issus des textes publiés : '
+                       'chaque étude garde sa cote et son adresse originale.</p>'+
+                       navigation+panels+'</section>')
+        else:
+            blocks += ('<section class="greek-corpus-group" id="'+key+'"><h3>'+escape(label)+
+                       ' <small>('+str(len(items))+')</small></h3><ol class="greek-corpus-links">'+
+                       ''.join(link(u,t) for u,t in items)+'</ol></section>')
     if any(v > 1 for v in numbers.values()):
         raise RuntimeError("Doublon dans le sommaire grec : " + str(dict(numbers)))
     missing = number_ranges(set(range(1, max(numbers)+1)) - set(numbers))
@@ -307,6 +380,14 @@ def main(out, root):
     .greek-corpus-group{padding:.85rem}.greek-corpus-toc a{flex:1 1 100%}}
     """
     css.string += " .greek-book{margin:.7rem 0;border-top:1px solid #6f5938;padding:.7rem 0}.greek-book summary{cursor:pointer;color:#e5c58d;padding:.5rem;font-size:1.1rem}.greek-book summary:focus-visible{outline:3px solid #ffe1a9}.greek-corpus-toc{justify-content:center} "
+    css.string += """ .greek-dossiers-toc{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,210px),1fr));gap:.65rem;margin:1.1rem 0}
+    .greek-dossiers-toc a{display:block;border:1px solid #806947;padding:.75rem;background:#141c1d;color:#ecd6aa;text-decoration:none;line-height:1.4}
+    .greek-dossiers-toc a:hover,.greek-dossiers-toc a:focus-visible{border-color:#dec08c;outline:2px solid #dec08c;outline-offset:2px}
+    .greek-dossier{scroll-margin-top:95px;border:1px solid #5c4d38;padding:.5rem .85rem;background:#101718}
+    .greek-dossier:target{outline:2px solid #d6b37d;outline-offset:3px}
+    .greek-dossier .section-intro{margin:.45rem 0 .8rem;color:#e3d1b6}
+    @media(max-width:700px){.greek-dossiers-toc{grid-template-columns:minmax(0,1fr)}.greek-dossier{padding:.5rem}}
+    """
     from build_navigation import shell
     portals = [
         ("mythologie-grecque", "Encyclopédie mythologique grecque"),
@@ -347,6 +428,18 @@ def verify(out, root):
         assert catalog, f'Sommaire grec absent : {page}'
         links = {a['href'] for a in catalog.select('a[href]')}
         assert expected <= links, f'Textes absents de {page} : {expected - links}'
+        scholarly = catalog.select_one('#grec-universitaire')
+        assert scholarly is not None, f'Dossiers universitaires absents : {page}'
+        university_links = [a['href'] for a in scholarly.select('ol.greek-corpus-links > li > a[href]')]
+        expected_chapters = {'/chapitres/encyclopedie/'+p.stem+'/'
+                             for p in (root/'chapitres/encyclopedie').glob('chapitre-*.md')}
+        assert len(university_links) == len(expected_chapters), f'Chapitre universitaire manquant ou répété : {page}'
+        assert set(university_links) == expected_chapters, f'Classement universitaire incomplet : {page}'
+        dossiers = scholarly.select('details.greek-dossier[id^="grec-dossier-"]')
+        assert len(dossiers) >= 1, f'Absence de dossiers thématiques : {page}'
+        dossier_ids = {d['id'] for d in dossiers}
+        assert len(dossier_ids) == len(dossiers), f'Dossiers à identifiants dupliqués : {page}'
+        assert {a['href'][1:] for a in scholarly.select('.greek-dossiers-toc a[href^="#"]')} == dossier_ids
         if rewrites:
             section = catalog.select_one('#grec-recritures')
             assert section, f'Parcours de réécriture absent : {page}'
