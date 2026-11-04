@@ -8,6 +8,10 @@
     "413651cd-856b-4dcf-b142-1aaf1045c5e2": {
       "request_sha256": "6c5d8c613d8786d4cf53c01069c151531eda97e9b03913cd16bb95334472aca4",
       "reason": "Collision MC-040 entre deux monographies contemporaines des repas divins et des offrandes cultuelles : première soumission d3b2ac71-0b94-4ca7-8d0c-5228719cb30e (« Nourrir les dieux », 60 133 caractères), puis cette seconde étude (« Les dieux ont-ils faim ? », 74 248 caractères). Conserver intégralement cette demande et ses sources dans inbox sans reçu ni numéro canonique ; ne pas attribuer un second MC-040 avant rapprochement philologique et archivage intégral comme complément ou clarification de son identité historique."
+    },
+    "39c4d20b-b0af-4f47-8e53-fd0b142fa86a": {
+      "request_sha256": "973350ca71283bf69464f8f43ca09323ef422a2b0a41b929e9a0a09173c615b4",
+      "reason": "Collision éditoriale : même comédie antique Apollophanès, Danaé, déjà soumise sous 4dd2a93f-8407-4ad6-9ee7-ff50448ae932. Conserver intacte cette seconde monographie de 46 841 caractères dans inbox, ne pas lui attribuer de numéro distinct avant rapprochement philologique avec la demande principale et archivage intégral comme complément critique. Aucun fragment de la Danaé d’Apollophanès n’est conservé ; ne pas confondre avec les Danaé tragiques ou les comédies homonymes d’autres auteurs."
     }
   }
 }
