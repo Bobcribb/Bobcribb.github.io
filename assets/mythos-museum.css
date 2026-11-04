@@ -216,3 +216,7 @@ body.mythos-reading .content a[href$=".pdf"]{text-decoration-thickness:1px;text-
 body.mythos-reading .content :is(blockquote,pre){max-width:100%}
 body.mythos-reading .content pre{overflow-x:auto;white-space:pre}
 @media(max-width:540px){body.mythos-reading .content :is(ul,ol){padding-inline-start:1.4em}body.mythos-reading .content blockquote{margin-inline:0;padding:1rem;border-left:2px solid #d2b07a}}
+
+/* Notices philologiques et bestiaire : position et surlignage des cibles profondes. */
+body.mythos-design :is(h3,details)[id]:target{outline:2px solid #d2b07a;outline-offset:5px;border-radius:2px}
+body.mythos-design details[id="kleos"] summary{cursor:pointer}
