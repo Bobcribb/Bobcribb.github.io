@@ -181,6 +181,11 @@ RELATED = [
   "/bibliotheque-mythologies-du-monde/civilisations-tartessos-turunuelo/"),
  ("Méditerranée des échanges — écritures, Étrusques et Mycéniens : étude intégrale",
   "/bibliotheque-mythologies-du-monde/mythos-mediterranee-ecritures-char-bronze-etrusques-tartessos-myceniens/"),
+ # Deux études publiques intégrales, nouvelle entrée documentaire sans recopie.
+ ("Empire kouchan et Gandhara — langues grecques et numismatique : étude intégrale",
+  "/bibliotheque-mythologies-du-monde/civilisations-empire-kouchan-gandhara/"),
+ ("Palmyre — inscriptions grecques et araméennes : étude intégrale",
+  "/bibliotheque-mythologies-du-monde/civilisations-palmyre-zenobie/"),
  ("Études d'histoire et de géographie grecque","/grece/"),
  ("Théâtre grec, corpus associé mais distinct","/theatre/"),
  ("Registre général des dossiers publiés","/grande-encyclopedie/registre-integral/"),
