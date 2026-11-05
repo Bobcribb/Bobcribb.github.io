@@ -4,7 +4,7 @@
 
 **Monographie universitaire originale — mythologie grecque en Grande-Grèce, histoire des cultes, épigraphie, histoire du sport, philologie et philosophie de la religion.**
 
-**Statut éditorial :** manuscrit intégral proposé à la file MYTHOS ; le numéro 441 est une variable de publication et non une attribution. Ce texte n'atteste ni intégration définitive au catalogue ni déploiement sur bobmythos.fr.
+**Statut éditorial :** étude attribuée au **chapitre 441** par le circuit GitHub Actions, avec reçu de publication enregistré dans `editorial/numbering.json` sous l'UUID `9ad28fe0-7b91-4a65-b814-3c9f21e7650c`. Cette attribution au dépôt ne dispense pas de contrôler séparément la page HTTPS publiée.
 
 **Périmètre :** Euthymos (Εὔθυμος), pugiliste de Locres Épizéphyrienne ; le Héros de Témésa ; les noms Polités, Alybas et Lycas ; les traditions sur le Caïkinos ; les cultes et images de Locres et de Témésa. L'étude n'est pas une répétition des dossiers encyclopédiques sur Achélôos, sur les cultes athéniens ou sur les sanctuaires de Béotie. Elle traite un complexe documentaire précis de l'Italie grecque.
 
@@ -324,4 +324,4 @@ La difficulté méthodologique demeure féconde. La base d'Olympie est certaine 
 
 ---
 
-**Note de continuité.** Ce manuscrit ne reprend ni le chapitre Hélios déjà présent dans l'encyclopédie ni les deux études d'Athéna Lindia. Les anciennes marques 134/135 ne constituent aucune réservation. Seul le reçu de l'allocateur peut remplacer la variable 441. L'archive de cette soumission doit être conservée intégralement, même en présence d'autres travaux concurrents.
+**Note de continuité.** Ce manuscrit ne reprend ni le chapitre Hélios déjà présent dans l'encyclopédie ni les deux études d'Athéna Lindia. Les anciennes marques 134/135 ne constituent aucune réservation. Le numéro canonique 441 est confirmé par le reçu de l'allocateur ; les anciens repères ne le déterminent pas. L'archive de cette soumission doit être conservée intégralement, même en présence d'autres travaux concurrents.
