@@ -236,6 +236,14 @@ def classify(url, title, kind):
             ('cultes-sanctuaires', 'Commagène — Nemrut Dağ, dieux et souveraineté'),
         'bibliotheque-mythologies-du-monde/civilisations-royaumes-greco-bactriens-indo-grecs':
             ('sources-anciennes', 'Royaumes gréco-bactriens — inscriptions, monnaies et échanges'),
+        'bibliotheque-mythologies-du-monde/civilisations-lydie-sardes-cresus':
+            ('sources-anciennes', 'Lydie — Hérodote, Crésus et monnaies archaïques'),
+        'bibliotheque-mythologies-du-monde/civilisations-phrygie-midas-gordion':
+            ('cultes-sanctuaires', 'Phrygie — Gordion, Matar et traditions de Midas'),
+        'bibliotheque-mythologies-du-monde/civilisations-thraces-odryses-kazanlak':
+            ('cultes-sanctuaires', 'Thrace — Kazanlak, royaume odryse et rites funéraires'),
+        'bibliotheque-mythologies-du-monde/civilisations-empire-seleucide-antiochos':
+            ('sources-anciennes', 'Empire séleucide — cités, inscriptions et chroniques'),
     }
     if slug in history_homes:
         return history_homes[slug]
@@ -363,6 +371,25 @@ HELLENISTIC_CONTACT_STUDIES = (
     ('/bibliotheque-mythologies-du-monde/civilisations-royaumes-greco-bactriens-indo-grecs/',
      'Bactriane et royaumes indo-grecs',
      'Numismatique, échanges, ruptures et pluralité de traditions religieuses.'),
+)
+
+
+# Quatre études civiles intégrales déjà publiées et vérifiées : accès croisé
+# aux contacts culturels sans les assimiler à une religion « grecque » unique.
+# Leurs URL et leurs textes restent dans la rubrique Civilisations.
+ANATOLIA_THRACE_STUDIES = (
+    ('/bibliotheque-mythologies-du-monde/civilisations-lydie-sardes-cresus/',
+     'Lydie — Sardes et Crésus',
+     'Hérodote, monnaies et représentations grecques du pouvoir lydien.'),
+    ('/bibliotheque-mythologies-du-monde/civilisations-phrygie-midas-gordion/',
+     'Phrygie — Midas et Gordion',
+     'Matar-Cybèle, archéologie du tumulus MM et récits tardifs.'),
+    ('/bibliotheque-mythologies-du-monde/civilisations-thraces-odryses-kazanlak/',
+     'Thraces — Odryses et Kazanlak',
+     'Sépultures, banquet funéraire et témoignages grecs sur les cultes.'),
+    ('/bibliotheque-mythologies-du-monde/civilisations-empire-seleucide-antiochos/',
+     'Empire séleucide — de Séleucos aux Antiochos',
+     'Cités hellénistiques, traditions mésopotamiennes et rois grecs.'),
 )
 
 
@@ -551,12 +578,14 @@ def build(out, groups, sections, books, root=None):
                     if any(row['url'] == url for row in rows)}
     contact_urls = {url for url, _, _ in HELLENISTIC_CONTACT_STUDIES
                     if any(row['url'] == url for row in rows)}
+    border_urls = {url for url, _, _ in ANATOLIA_THRACE_STUDIES
+                   if any(row['url'] == url for row in rows)}
     # Return links stay outside the article, leaving its scholarly text untouched.
     for row in rows:
         if (row['kind'] not in ('Chapitre universitaire', 'Livre', 'Notice', 'Étude')
                 and row['url'] not in ({DELPHES_STUDIES[0][0],
                                        APHRODITE_STUDIES[1][0],
-                                       APHRODITE_STUDIES[2][0]} | history_urls | contact_urls)):
+                                       APHRODITE_STUDIES[2][0]} | history_urls | contact_urls | border_urls)):
             continue
         page = out / row['url'].lstrip('/')
         if row['url'].endswith('/'):
@@ -698,6 +727,27 @@ def build(out, groups, sections, books, root=None):
                     'royaumes de Bactriane. Les sources, époques et pratiques '
                     'diffèrent : une analogie iconographique ou linguistique '
                     'n’est pas la preuve d’un culte identique.</p>'
+                    '<ul>' + links + '</ul></aside>', 'html.parser').aside
+                main.append(box)
+        if row['url'] in border_urls:
+            companions = [(url, title, context)
+                          for url, title, context in ANATOLIA_THRACE_STUDIES
+                          if url in border_urls and url != row['url']]
+            if companions:
+                links = ''.join(
+                    '<li><a href="' + escape(url, quote=True) + '">' +
+                    escape(title) + '</a><small>' + escape(context) +
+                    '</small></li>' for url, title, context in companions)
+                box = BeautifulSoup(
+                    '<aside class="greek-cross-readings" '
+                    'data-greek-cross-readings="frontieres" '
+                    'aria-label="Anatolie et Thrace : sources et contacts grecs">'
+                    '<h2>Aux frontières des mondes grecs : lectures croisées</h2>'
+                    '<p>Quatre études intégrales de périodes distinctes. Les '
+                    'témoignages grecs sur les Lydiens, Phrygiens et Thraces '
+                    'ne se confondent pas avec leurs propres pratiques ; '
+                    'les Séleucides appartiennent à une époque plus tardive. '
+                    'Aucune continuité cultuelle n’est présumée.</p>'
                     '<ul>' + links + '</ul></aside>', 'html.parser').aside
                 main.append(box)
         page.write_text(str(doc), encoding='utf-8')
@@ -842,6 +892,18 @@ def verify(out, expected_urls):
             actual = [a['href'] for a in panels[0].select('a[href]')]
             assert set(actual) == contact_urls - {url}, 'Lectures croisées incomplètes : ' + url
             assert len(actual) == len(set(actual)), 'Lien vers les contacts répété : ' + url
+    border_urls = {url for url, _, _ in ANATOLIA_THRACE_STUDIES
+                   if url in expected_urls}
+    if len(border_urls) > 1:
+        for url in border_urls:
+            page = out / url.lstrip('/') / 'index.html'
+            assert page.is_file(), 'Étude Anatolie/Thrace introuvable : ' + url
+            doc = BeautifulSoup(page.read_text(encoding='utf-8'), 'html.parser')
+            panels = doc.select('aside[data-greek-cross-readings="frontieres"]')
+            assert len(panels) == 1, 'Parcours frontières manquant ou dupliqué : ' + url
+            actual = [a['href'] for a in panels[0].select('a[href]')]
+            assert set(actual) == border_urls - {url}, 'Lectures frontières incomplètes : ' + url
+            assert len(actual) == len(set(actual)), 'Lien frontières répété : ' + url
     assert set(assignments) == set(expected_urls), 'Classement incomplet ou inattendu : '+str(set(assignments) ^ set(expected_urls))
     assert all(n == 1 for n in assignments.values()), 'Texte classé plusieurs fois dans les dossiers'
     print('Dossiers grecs vérifiés :', len(assignments), 'destinations uniques, tous les textes et toutes les sections accessibles')
