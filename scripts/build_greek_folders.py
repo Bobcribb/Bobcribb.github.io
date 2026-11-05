@@ -67,6 +67,10 @@ HERO_HOME = {
     'orphee': ('heros', 'Orphée et les passages vers l’au-delà'),
 }
 CHAPTER_RULES = [
+    # 426 : le manuscrit intégral et son reçu sont déjà publiés. L'épiclèse
+    # Amarysia renvoie au sanctuaire d'Amarynthos, pas à une déesse autonome.
+    (r'^artemis amarysia\b', 'sanctuaires',
+     'Amarynthos et Érétrie — Artémis Amarysia, fêtes et inscriptions'),
     # Étude intégrale 425 (Pausanias I, 15, 3 et I, 32, 5) : héros
     # attique de Marathon, non divinité et non source antique autonome.
     (r'^echetlos\b', 'heros', 'Marathon — Échétlos, araire et mémoire civique'),
@@ -257,6 +261,24 @@ MARATHON_STUDIES = (
      'Renommée publique et mémoire religieuse de Marathon.'),
 )
 
+# Parcours documentaire de quatre études intégrales déjà publiées. Les
+# épiclèses d'Artémis et les pratiques rituelles sont LOCALES : ce parcours
+# compare les témoignages sans prétendre à un rite panhellénique unique.
+ARTEMIS_STUDIES = (
+    ('/chapitres/encyclopedie/chapitre-426-artemis-amarysia-amarynthos-eretrie-sanctuaire-procession-epigraphie/',
+     'Chapitre 426 — Artémis Amarysia',
+     'Amarynthos et Érétrie : processions, droit civique, épigraphie.'),
+    ('/chapitres/encyclopedie/chapitre-398-artemis-soteira-megare-trezene-pellene-salut-cites/',
+     'Chapitre 398 — Artémis Sôteira',
+     'Mégare, Trézène et Pellène : protection, serments et mémoires locales.'),
+    ('/chapitres/encyclopedie/chapitre-395-britomartis-dictynna-crete-artemis-filets-minos/',
+     'Chapitre 395 — Britomartis et Dictynna',
+     'Crète : témoignages de Callimaque, Strabon et Pausanias.'),
+    ('/chapitres/encyclopedie/chapitre-424-dionysos-aisymnetes-patras-eurypyle-triklaria-fete-rites/',
+     'Chapitre 424 — Artémis Triklaria et Dionysos Aisymnètès',
+     'Patras : récit rituel et transformations de la mémoire sacrificielle.'),
+)
+
 RELATED_FOLDERS = {
     'cosmogonies': ['divinites', 'sources-anciennes', 'interpretations-philosophiques'],
     'divinites': ['cosmogonies', 'cultes-sanctuaires', 'heros'],
@@ -432,6 +454,8 @@ def build(out, groups, sections, books, root=None):
     # détermine si un lien réciproque peut être affiché.
     marathon_urls = {url for url, _, _ in MARATHON_STUDIES
                      if any(row['url'] == url for row in rows)}
+    artemis_urls = {url for url, _, _ in ARTEMIS_STUDIES
+                    if any(row['url'] == url for row in rows)}
     # Return links stay outside the article, leaving its scholarly text untouched.
     for row in rows:
         if row['kind'] not in ('Chapitre universitaire', 'Livre', 'Notice', 'Étude'):
@@ -473,6 +497,27 @@ def build(out, groups, sections, books, root=None):
                     'récit de Thésée, intervention de Pan et mémoire civique. '
                     'Chaque lien donne accès à une étude complète avec ses '
                     'sources, et non à un résumé de remplacement.</p>'
+                    '<ul>' + links + '</ul></aside>', 'html.parser').aside
+                main.append(box)
+        if row['url'] in artemis_urls:
+            companions = [(url, title, context)
+                          for url, title, context in ARTEMIS_STUDIES
+                          if url in artemis_urls and url != row['url']]
+            if companions:
+                # Ces lectures sont accolées à la page, hors du manuscrit.
+                # Les sources, la bibliographie et la cote ne changent pas.
+                links = ''.join(
+                    '<li><a href="' + escape(url, quote=True) + '">' +
+                    escape(title) + '</a><small>' + escape(context) +
+                    '</small></li>' for url, title, context in companions)
+                box = BeautifulSoup(
+                    '<aside class="greek-cross-readings" '
+                    'data-greek-cross-readings="artemis" '
+                    'aria-label="Cultes locaux d’Artémis : lectures croisées">'
+                    '<h2>Artémis et les cultes locaux : lectures croisées</h2>'
+                    '<p>Ces quatre études intégrales distinguent les lieux, '
+                    'les épiclèses et les sources antiques. Elles ne supposent '
+                    'ni rites identiques ni continuité historique universelle.</p>'
                     '<ul>' + links + '</ul></aside>', 'html.parser').aside
                 main.append(box)
         page.write_text(str(doc), encoding='utf-8')
@@ -560,12 +605,32 @@ def verify(out, expected_urls):
             actual = [a['href'] for a in panels[0].select('a[href]')]
             assert set(actual) == marathon_urls - {url}, 'Lectures croisées incomplètes : ' + url
             assert len(actual) == len(set(actual)), 'Lien Marathon répété : ' + url
+    artemis_urls = {url for url, _, _ in ARTEMIS_STUDIES if url in expected_urls}
+    if len(artemis_urls) > 1:
+        for url in artemis_urls:
+            path = out / url.lstrip('/') / 'index.html'
+            doc = BeautifulSoup(path.read_text(encoding='utf-8'), 'html.parser')
+            panels = doc.select('aside[data-greek-cross-readings="artemis"]')
+            assert len(panels) == 1, 'Parcours Artémis manquant ou dupliqué : ' + url
+            actual = [a['href'] for a in panels[0].select('a[href]')]
+            assert set(actual) == artemis_urls - {url}, 'Lectures Artémis incomplètes : ' + url
+            assert len(actual) == len(set(actual)), 'Lien Artémis répété : ' + url
     assert set(assignments) == set(expected_urls), 'Classement incomplet ou inattendu : '+str(set(assignments) ^ set(expected_urls))
     assert all(n == 1 for n in assignments.values()), 'Texte classé plusieurs fois dans les dossiers'
     print('Dossiers grecs vérifiés :', len(assignments), 'destinations uniques, tous les textes et toutes les sections accessibles')
 
 
 CSS = '''
+/* Parcs de lecture comparée : cartes tactiles, sans intervenir dans l'article. */
+.greek-cross-readings{border:1px solid #80633f;border-radius:6px;background:#10191c;padding:clamp(1rem,2vw,1.7rem);margin:2rem 0;color:#e9ddc8}
+.greek-cross-readings h2{font:400 clamp(1.4rem,2vw,1.85rem)/1.25 Georgia,serif;color:#efd3a0;margin:.2rem 0 .7rem}
+.greek-cross-readings p{max-width:76ch;line-height:1.65}
+.greek-cross-readings ul{list-style:none;padding:0;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:.7rem}
+.greek-cross-readings li{min-width:0;border:1px solid #655238;border-radius:4px;padding:.75rem;background:#172124}
+.greek-cross-readings a{display:flex;min-height:44px;align-items:center;color:#f4d69b;text-underline-offset:.2em;overflow-wrap:anywhere}
+.greek-cross-readings small{display:block;color:#d0c0a7;line-height:1.55;margin-top:.25rem}
+.greek-cross-readings a:hover,.greek-cross-readings a:focus-visible{color:#ffebc6;outline:2px solid #f0cb8d;outline-offset:3px}
+@media(max-width:700px){.greek-cross-readings ul{grid-template-columns:minmax(0,1fr)}}
 .greek-folder-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:1rem}
 .greek-folder-entry{min-width:0;display:flex;flex-direction:column;border:1px solid #785f3f;border-radius:5px;overflow:hidden;background:#101718}
 .greek-folder-link{min-width:0;display:flex;flex:1;flex-direction:column;padding:0 1.1rem 1rem;color:#f0e5d2!important;text-decoration:none}
