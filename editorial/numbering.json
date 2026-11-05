@@ -976,6 +976,12 @@
           "path": "chapitres/encyclopedie/chapitre-425-echetlos-echetlaios-heros-araire-marathon-memoire-stoa-poikile.md",
           "request_sha256": "77a4cda95c85c676e46301fa47b52cd31c6dd606ba6883f9dcb7379c810d3bfa",
           "initial_source_sha256": "0df07396ea60c30f08297aff01dad333c1a97814a2e2833b818f19c6b357c3a0"
+        },
+        "4e61ad87-26c1-4f10-b979-96d356a8a5ca": {
+          "number": 426,
+          "path": "chapitres/encyclopedie/chapitre-426-artemis-amarysia-amarynthos-eretrie-sanctuaire-procession-epigraphie.md",
+          "request_sha256": "3a1cb66c7a278d2c41eb714ecc547a55d0984770bc339258a28c47c0b7112403",
+          "initial_source_sha256": "977d066bc2f8a9b7f91668ba2adad0397a4cf572a78634b6c1b64d172e5451fd"
         }
       }
     },
@@ -2239,6 +2245,12 @@
           "path": "chapitres/comparatif/volume-ccxl-mc-060-quand-les-dieux-vieillissent-senescence-divine-immortalite-renouvellement-pouvoir.md",
           "request_sha256": "d0284c39073635b8177eb1abefec690e02c096538dfc6faa5be34bbb4a265418",
           "initial_source_sha256": "c7d6cf5a7389ee4668b9d71dd2fa666bc4b0c2f5c033d05bca00e7319df333f2"
+        },
+        "6a91c061-6b22-4c19-ae61-202611050061": {
+          "number": 241,
+          "path": "chapitres/comparatif/volume-ccxli-mc-061-quand-les-dieux-ne-savent-pas-ignorance-enquete-secret-limites-du-savoir-divin.md",
+          "request_sha256": "6d5847d6092bc6a660b9d2adb128f33798f07c2ef39943a373a54dc5053359ed",
+          "initial_source_sha256": "b68a8b0fb7b0479fd8f1bc681cc75f232c68457ac88e80f9e97835347c4e5ee4"
         }
       }
     }
