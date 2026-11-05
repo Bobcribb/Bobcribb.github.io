@@ -1,0 +1,42 @@
+{
+  "id": "PRI-ATH-001",
+  "slug": "priene-temple-athena-polias-chantier-vers-300-av-jc",
+  "title": "Priène — temple d’Athéna Polias, élévation ionique en chantier",
+  "period": "Évocation vers 300 av. J.-C. (fin IVe – début IIIe siècle av. J.-C. ; état de chantier non attesté à cette date)",
+  "image": "/assets/reconstitutions-3d/priene-temple-athena-polias-chantier-vers-300-av-jc.webp",
+  "caption": "Reconstitution visuelle photoréaliste du sanctuaire d’Athéna Polias à Priène, sur la pente du Mycale. Le temple ionique est montré avec la partie orientale élevée et une partie occidentale en travaux ; cette distribution précise n'est pas documentée pour l'an 300 av. J.-C.",
+  "commentary": "Priène, cité ionienne d’Asie Mineure située sur les pentes du Mycale, disposait d’un réseau de rues orthogonales et de terrasses monumentales. Le sanctuaire d’Athéna Polias domine l’un de ces replats. Le temple de marbre ionique, traditionnellement attribué à l’architecte Pythéos, est un périptère de six colonnes en façade et onze sur les longs côtés, organisé autour du naos. La construction commence au IVe siècle av. J.-C. ; une dédicace d’Alexandre est associée au sanctuaire et le gros œuvre du naos est attesté avant 323 av. J.-C., tandis que le péristyle a fait l’objet de longues campagnes de construction. La restitution illustre librement un chantier vers 300 av. J.-C., sans prouver l’état d’achèvement, la hauteur des colonnes, l’existence simultanée de parties couvertes et d’échafaudages, ni le détail des toitures. Le relief du Mycale et la disposition générale en terrasses sont attestés ; les bâtiments secondaires, l’horizon de la vallée du Méandre, les couleurs, les silhouettes, le mobilier et les engins de chantier sont des propositions graphiques. La géographie littorale a évolué depuis l’Antiquité par les dépôts alluviaux du Méandre : la vue paysagère n’est pas une restitution paléogéographique. Les sources scientifiques établissent l’histoire et l’architecture du monument, sans valider l’image numérique.",
+  "certainty": {
+    "high": "Existence du sanctuaire d’Athéna Polias à Priène, implantation sur la terrasse du Mycale, ordre ionique, plan périptère de six colonnes en façade et onze sur les longs côtés, construction commencée au IVe siècle av. J.-C. et attribuée dans la tradition à Pythéos.",
+    "medium": "Proportions générales et articulation naos–pronaos–opisthodome dérivées des relevés, utilisation du marbre local et poursuite de certaines campagnes au cours de l’époque hellénistique.",
+    "low": "État exactement visible vers 300 av. J.-C. ; avancement distinct des façades, charpente et couverture, échafaudages, décoration des corniches et frontons, couleurs, disposition des maisons voisines et du mobilier urbain, vêtements, végétation et topographie exacte de la vallée."
+  },
+  "sources": [
+    {
+      "label": "UNESCO — Archaeological Site of Priene, Liste indicative",
+      "url": "https://whc.unesco.org/en/tentativelists/6348"
+    },
+    {
+      "label": "Deutsches Archäologisches Institut / Wolf Koenigs, Der Athenatempel von Priene (2015), Archäologische Forschungen 33",
+      "url": "https://reichert-verlag.de/en/9783954900640_der_athenatempel_von_priene-detail/"
+    },
+    {
+      "label": "Bryn Mawr Classical Review — compte rendu scientifique du temple d’Athéna",
+      "url": "https://bmcr.brynmawr.edu/2017/2017.06.31"
+    },
+    {
+      "label": "Direction des musées de Turquie — site archéologique de Priène",
+      "url": "https://muze.gov.tr/muze-detay?DistId=MRK&SectionId=PRI02"
+    },
+    {
+      "label": "Priene Ancient City Site Presidency — présentation historique et planification urbaine",
+      "url": "https://priene.soke.bel.tr/en/about"
+    }
+  ],
+  "rights_and_method": "Création originale photoréaliste à apparence 3D, convertie en WebP sans titre, menu, légende ou filigrane dans les pixels ; non métrique, non photogrammétrique et non validée par les organismes cités. Les notices sont extérieures à l’image.",
+  "publication_status": "staged_on_GitHub_feature_branch; not_deployed_to_public_site",
+  "width": 1672,
+  "height": 941,
+  "sha256": "c517242babb0df409fa55647184ece77d1fc33d3fc957a1ca33a87cae00015ac",
+  "created_at": "2026-11-05"
+}
