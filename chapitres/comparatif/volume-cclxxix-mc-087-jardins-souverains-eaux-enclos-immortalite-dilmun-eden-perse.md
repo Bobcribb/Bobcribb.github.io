@@ -1,0 +1,543 @@
+# MYTHOS — Cycle universitaire de MYTHOLOGIE COMPARÉE — Volume CCLXXIX (279)
+
+## MC-087 — Enfermer l'abondance : jardins divins, enclos royaux, eau et accès à l'immortalité, de Dilmun à l'Éden, de Ninive aux *paradeisoi* perses et à la Grèce
+
+**Monographie universitaire originale en français — 5 novembre 2026.**  
+**Champs :** mythologie comparée, philologie sumérienne et hébraïque, assyriologie, égyptologie, histoire achéménide, études grecques, histoire de l'irrigation, archéologie des jardins, philosophie des religions et critique historiographique.  
+**Cote historique : MC-087.** Le numéro du volume est réservé à la procédure de GitHub Actions. Les variables 279 et CCLXXIX seront substituées uniquement par le mécanisme d'attribution sur la dernière branche main. Les séries automatiques existantes sont hors périmètre de cette intervention.  
+**Régime épistémique :** [A] attestation documentaire (le texte ou l'objet atteste une représentation, non un miracle) ; [L] philologie contrôlée ; [H] hypothèse ou controverse ; [C] comparaison circonscrite ; [P] analyse philosophique contemporaine ; [N] limite documentaire et réfutation d'une inférence insuffisante.
+
+### Résumé et thèse
+
+Un jardin antique n'est pas simplement une réunion d'arbres sacrés. Il est susceptible d'être un pays mythique à féconder, un verger royal irrigué, un parc de chasse, une image funéraire, un espace soumis à interdit ou un objet de métaphore philosophique. Les mêmes composantes apparentes — arbres, eau, enceinte, fruits, protection — organisent des relations différentes entre les êtres, les souverains, les morts et les dieux. À Dilmun, la terre dite pure a besoin d'eau. À Ninive, un roi peut mettre en scène sa capacité à canaliser l'eau. À Pasargades, la pierre et les fossés attestent un domaine aménagé. Le jardin de Nebamon est peint pour un contexte funéraire. Dans la Genèse, l'humain peut manger, mais pas de tout ; la garde du chemin de l'arbre de vie marque un seuil. Le jardin d'Alcinoos chez Homère porte des fruits toute l'année ; les jardins d'Adonis cités par Platon sont au contraire des plantations vite fanées. La même métaphore du « paradis » effacerait les écarts.
+
+**Thèse [P] :** l'enclos horticole est un lieu où l'abondance est *sélectionnée*, *administrée*, *représentée* ou *interdite*. L'analogie la plus robuste n'est pas l'existence d'un « jardin de vie » primordial chez toutes les civilisations, mais la mise en récit d'une contradiction : faire croître des ressources vitales suppose souvent de contrôler l'eau, les gestes et les droits d'accès. La méthode distingue les enclos construits des espaces narratifs, le vocabulaire indigène des traductions et la fonction politique de la fonction eschatologique.
+
+**Précaution de continuité :** le tome XXIX des *Origines du sacré* (chapitres 371–378) traite les arbres sacrés, les bois divins et les jardins d'immortalité ; le chapitre 534 traite les forêts sacrées. Le présent volume MC-087 ne les reproduit pas : il privilégie les dispositifs de culture, la maîtrise hydrique, l'exclusion, la propriété et la qualification historiographique des jardins royaux. Il se distingue également de MC-080 (distribution des domaines divins), MC-081 (soutiens du cosmos), MC-082 (couleurs du sacré), MC-083 (transferts de puissance), MC-084 (animaux des dieux), MC-085 (cote revendiquée par d'autres soumissions) et MC-086 (sujets soumis ou retenus en concurrence).
+
+## I. Un objet comparatif instable
+
+### 1. Le mot moderne « jardin » est trop large [L]
+
+Un jardin peut être potager, plantation, verger, promenade arborée, réserve de chasse ou espace de culture funéraire. La traduction française ne garantit pas que les termes anciens soient synonymes. Le grec *parádeisos* peut être un parc royal ; le grec *órchatos* un verger ; l'hébreu *gan* un jardin planté ; le terme *pardēs* est un emprunt lexical d'une autre histoire. [L] Il faut présenter les graphies originales et préciser la source, faute de quoi une traduction commode crée artificiellement une seule institution. Comparer les fonctions avant de comparer les noms est le préalable méthodologique du volume.
+
+### 2. Une enceinte n'est pas toujours un mur [A, P]
+
+La limite d'un jardin peut apparaître sous forme de clôture, de fossé, d'accès réglementé, de garde surnaturelle ou de simple séparation sociale. Dans l'*Odyssée* VII, 112–132, Homère mentionne explicitement une clôture ; en Genèse 3, 24, des chérubins gardent un chemin ; à Pasargades, les fouilles et prospections concernent l'aménagement d'un domaine réel. [P] Ces délimitations peuvent organiser la propriété, l'interdit ou la protection des plantes. Il faut éviter de transformer toute frontière narrative en mur de pierre et toute clôture agricole en prohibition religieuse.
+
+### 3. Différencier trois régimes de preuve [A]
+
+Le jardin de Dilmun est d'abord connu par un poème ; celui de Nebamon, par une peinture funéraire ; le complexe de Pasargades, par un ensemble archéologique comprenant canaux, bâtiments et traces de fossés. Ils ne possèdent pas le même accès au réel. Une proposition sur l'existence matérielle d'un canal doit s'appuyer sur des structures, non sur la seule représentation de l'eau dans un texte. Une proposition sur le sens religieux d'un lieu ne découle pas mécaniquement de sa forme. Les objets matériels permettent certaines conclusions que la littérature ne permet pas et réciproquement.
+
+### 4. L'eau n'est jamais une métaphore pure [P]
+
+La production des plantes dépend de la disponibilité de l'eau, mais un récit peut transformer ce fait en image de providence. [P] Le pouvoir hydraulique a au moins deux faces : technique, quand il détourne ou distribue un cours d'eau ; politique, quand il détermine qui peut bénéficier d'une canalisation. En Mésopotamie et dans le monde achéménide, les infrastructures permettent d'ordonner des domaines. La comparaison avec l'eau du jardin d'Éden concerne un motif narratif, non la preuve que ses quatre fleuves reflètent une même installation hydraulique.
+
+### 5. « Jardin d'immortalité » : la question à préciser [N]
+
+Un arbre qui pousse éternellement n'est pas nécessairement un arbre qui rend immortel ; un paradis royal où chassent des princes n'est pas un lieu des âmes après la mort ; une scène funéraire au bassin fleuri ne prouve pas une doctrine unique de la survie. [N] L'accès à l'arbre de vie constitue un problème explicite dans la Genèse, tandis que le verger d'Alcinoos est généreux sans abolir la mortalité du roi. La catégorie « immortalité » sera donc réservée aux passages où longévité, jeunesse ou survie après la mort deviennent explicitement pertinents.
+
+### 6. Le temps du jardin réel [A, P]
+
+Les arbres doivent être entretenus, taillés, remplacés ; les bassins s'envasent et les conduits se réparent. [P] Le jardin matériel apparaît comme une institution temporelle, ce que les poèmes peuvent masquer en représentant une fécondité inépuisable. L'historien doit reconstruire le travail et les approvisionnements, même lorsque les sources monarchiques ne louent que la beauté de l'ensemble. En sens inverse, une peinture peut faire voir des arbres d'espèces diverses sans prouver que les mêmes arbres étaient plantés ensemble à l'instant représenté.
+
+### 7. L'archéobotanique et sa limite [A, H]
+
+Graines, pollens, phytolithes, charbons et vestiges de fosses peuvent éclairer la végétation passée ; leur interprétation exige stratigraphie et datation. [H] Il est abusif de déduire un jardin sacré d'un noyau de datte isolé ou la présence d'un bois de cèdres de la représentation d'un arbre stylisé. L'archéologie des systèmes d'eau renseigne sur la possibilité de culture ; elle ne livre pas d'elle-même la signification symbolique de chaque plante. Une restitution photoréaliste devra déclarer les éléments certains et les choix hypothétiques.
+
+### 8. Deux anachronismes majeurs [N]
+
+Il serait trompeur d'appeler « Éden » tous les jardins du Proche-Orient ancien et de reconstruire partout le jardin en quatre quadrants connu de formes historiques plus tardives. [N] Les descriptions patrimoniales peuvent établir des filiations typologiques, mais n'autorisent pas à figer sans nuances deux millénaires d'architecture paysagère. De même, le terme « paradis » appliqué à un domaine achéménide ne lui attribue pas les représentations de l'au-delà des théologies chrétiennes. Le mot a voyagé ; ses sens se sont transformés.
+
+### 9. L'échelle change la question [P]
+
+Un petit jardin intime, un parc de chasse royal, une nécropole peinte et un domaine de plusieurs hectares n'organisent pas les mêmes relations sociales. [P] L'extension du jardin peut transformer la contemplation en gestion : conduire l'eau implique d'autres ressources que planter quelques graines dans des pots. Un jardin royal peut être une forme de commandement ; une plantation rituelle éphémère peut constituer un signe de deuil. Le comparatisme doit donc relever l'échelle spatiale de chaque dossier, sa durée, son utilisateur et la documentation de son entretien.
+
+### 10. La méthode de non-filiation [C]
+
+La rencontre de l'eau, du fruit et d'une interdiction dans deux traditions peut être une convergence fonctionnelle, un transfert textuel, une traduction transformée ou une ressemblance fortuite. [C] La seule ressemblance ne décide pas entre ces hypothèses. Nous privilégierons des détails distinctifs : ordre des actions, mots employés, datation des témoins, liens historiques, rôle des personnages et présence d'une institution politique. Le résultat comparatif peut légitimement être négatif : deux œuvres se ressemblent mais ne livrent aucun argument suffisant pour soutenir un emprunt direct.
+
+## II. Dilmun et la fertilité contestée
+
+### 11. La source sumérienne ETCSL 1.1.1 [A]
+
+Le poème *Enki et Ninḫursaĝa*, conservé par des témoins notamment paléo-babyloniens, décrit le pays de Dilmun comme pur dans ses lignes 1–4. L'édition de l'Electronic Text Corpus of Sumerian Literature de l'Université d'Oxford, composition 1.1.1, est la base de nos références de lignes. [N] Le poème ne porte pas en sumérien le titre français « Paradis primordial » et ses copies ne prouvent pas que la tradition ait été composée à la date précise de chaque tablette. La critique textuelle doit séparer écriture conservée et âge hypothétique d'un motif.
+
+### 12. La paix comme série de négations [A]
+
+Dans les lignes 11–28 du récit, certains animaux ne produisent pas leurs cris habituels et les prédateurs n'exercent pas leurs fonctions violentes ; maladies et vieillesse ne se manifestent pas selon les formules poétiques. [H] Il n'est pas établi que ces vers décrivent une création définitive d'espèces biologiques ou une immortalité universelle. Ils composent une représentation d'ordre inhabituel par l'absence de ce qui trouble la condition ordinaire. La pureté de Dilmun ne signifie pas que toutes les difficultés matérielles ont été résolues.
+
+### 13. Ninšikila pose la question de l'eau [A]
+
+Aux lignes 29–39, Ninšikila met en cause le don d'un pays privé d'eau douce efficace. Le problème est précis : un lieu favorable et pur reste insuffisant s'il ne permet pas de faire vivre une communauté. [P] Le mythe ne décrit pas simplement une félicité complète, il met en scène un défaut qui exige une réponse. Le modèle idyllique du « jardin originel déjà parfait » devrait être corrigé : la prospérité dépend d'un acte de transformation. La comparaison avec un parc royal irrigué pourra porter sur cette condition, non sur une technique identique.
+
+### 14. Enki promet des eaux souterraines [A]
+
+Les lignes 40–49 annoncent la montée et la distribution d'eau douce, la possibilité d'alimenter des bassins et la transformation de Dilmun en cité active. La traduction ETCSL signale certaines difficultés lexicales ; elles ne doivent pas disparaître sous une reformulation trop assurée. [C] Le passage permet de rapprocher le langage religieux du soin apporté aux ressources hydriques, mais il ne présente pas le plan cadastral d'un jardin à quatre bassins. L'organisation de l'eau apparaît comme une condition de la prospérité, à la fois matérielle et attribuée à la puissance divine.
+
+### 15. Dilmun est aussi un horizon de commerce [A]
+
+La promesse d'Enki fait de la cité un lieu de quais et d'échanges ; certaines variantes évoquent des produits de régions lointaines. [P] L'abondance n'est donc pas uniquement celle d'un potager sans habitants : le récit associe eaux et économie collective. Une lecture du « pays pur » comme retrait total du monde social manque cette dimension. Il faut toutefois éviter de confondre sans contrôle les échanges historiques du Golfe avec chacun des détails du poème. Un toponyme connu dans des archives commerciales ne rend pas littérale chaque scène mythique où il apparaît.
+
+### 16. Les plantes que consomme Enki [A]
+
+Aux lignes 190–219, Ninḫursaĝa fait croître plusieurs plantes dont les désignations botaniques restent parfois incertaines. Enki, accompagné d'Isimud, les fait identifier et les mange. Les traductions anglaises indiquent des alternatives et des points d'interrogation ; une étude scientifique doit conserver ces marques. [N] On ne peut pas en tirer un herbier de huit espèces modernes sûrement identifiées ni conclure que l'épisode se déroule dans un jardin architectural comparable à Pasargades. Le texte met en cause une croissance, une consommation et les conséquences d'un acte divin.
+
+### 17. La sanction de Ninḫursaĝa [A]
+
+Dans les lignes 220–227, Ninḫursaĝa maudit Enki et les dieux sont confrontés à une crise. Le récit n'offre pas le même cadre juridique que le commandement de Genèse 2, 16–17. [C] Une comparaison de fonctions peut confronter la consommation contestée de plantes et l'existence d'une restriction, mais une identité d'intrigue n'est pas démontrée. [P] Le jardin mythique peut montrer que la matière végétale est investie d'une autorité que même une puissance divine peut transgresser ; l'idée reste une lecture de la scène, non un code de propriété sumérien attesté.
+
+### 18. L'arbre d'Inanna : un autre jardin [A]
+
+Dans *Gilgameš, Enkidu et le monde souterrain*, ETCSL 1.8.1.4, lignes 27–46, Inanna recueille un arbre et le transplante dans son jardin pour qu'il fournisse un jour du bois destiné à des objets. Des êtres s'installent ensuite sur l'arbre et empêchent son exploitation. Le texte appartient à un autre dossier, déjà étudié dans les *Origines du sacré* 372. Nous l'utilisons pour distinguer plantation et usage : ici le jardin permet de préparer une transformation artisanale, non de donner un accès indéfini à une plante de rajeunissement.
+
+### 19. Gilgameš et la plante perdue [A]
+
+Dans la version standard de l'*Épopée de Gilgameš*, tablette XI, la plante recherchée pour renouveler la jeunesse est finalement prise par un serpent. Les subdivisions des lignes finales varient selon les éditions et restaurations ; Andrew George (2003) fournit une édition de référence. [N] La plante n'est pas un verger royal que le héros s'approprie durablement ; son échec ne prouve pas qu'un « jardin de dieux » matériel aurait existé à la périphérie d'Uruk. La comparaison est existentielle : une ressource qui promet de suspendre la fragilité humaine reste soustraite au protagoniste.
+
+### 20. Trois formes d'accès au végétal [C]
+
+Enki consomme les plantes de Ninḫursaĝa ; Inanna souhaite transformer le bois de son jardin ; Gilgameš perd une plante de jeunesse. [C] Les trois motifs montrent que la ressource végétale n'est pas toujours librement disponible, mais les moyens de son appropriation et les sanctions diffèrent. Une synthèse trop rapide créerait une doctrine sumérienne universelle du « fruit défendu ». La méthode consiste au contraire à distinguer source, héros, plante, acte et conséquence, puis à laisser la comparaison éclairer les différences de statut du vivant.
+
+## III. Jardins royaux néo-assyriens
+
+### 21. Le jardin construit par un royaume [A]
+
+Les inscriptions et programmes monumentaux néo-assyriens présentent le souverain comme organisateur de travaux hydrauliques, de plantations et d'aménagements palatiaux. Un jardin réel exige la mobilisation de matériaux et de main-d'œuvre. [P] La magnificence de la végétation ne peut être séparée des contraintes sociales et de la concentration des ressources. À la différence de la promesse divine faite à Dilmun, les structures assyriennes appartiennent à une administration historique. Mais l'inscription royale, tout comme le poème, sélectionne les aspects de l'activité qu'elle souhaite glorifier.
+
+### 22. Le réseau de Sennachérib [A]
+
+Le roi Sennachérib, au tournant des VIIIe–VIIe siècles av. n. è., développa les installations hydrauliques servant Ninive et ses environs. Des ouvrages majeurs, dont l'aqueduc de Jerwan, ont été étudiés archéologiquement. [H] Le lien précis entre une prise d'eau déterminée et chaque plantation figurée demande une reconstruction topographique. [P] Un canal royal traduit une capacité à transformer durablement l'environnement, mais son débit et son entretien ne peuvent être déduits d'une scène de banquet. Le récit du pouvoir a besoin de l'analyse des ouvrages.
+
+### 23. Reliefs de terrasses arborées [A]
+
+Des reliefs assyriens représentent des espaces plantés à différents niveaux, parfois avec des structures architecturales et des cours d'eau. Ces images documentent l'importance du jardin dans la culture visuelle de la cour ; elles ne constituent pas nécessairement des plans architecturaux à l'échelle. [H] Les arbres figurés selon une convention plastique ne doivent pas être identifiés à la légère jusqu'à l'espèce. Les restitutions numériques risquent d'ajouter des détails dont la source ne fournit ni la forme ni la datation. Une légende savante présentera l'objet conservé avant son éventuelle reconstruction.
+
+### 24. Assurbanipal et le banquet au jardin [A]
+
+La scène de banquet d'Assurbanipal et de sa reine, provenant de Ninive, associe treilles, mobilier, service et glorification du souverain. L'université de Cologne a consacré à cette scène un projet d'anastylose virtuelle. [A] Le relief antique et la reconstruction numérique ne sont pas le même objet. [P] Cette image de repos ne neutralise pas le contexte violent de la puissance assyrienne ; elle peut précisément faire de la sécurité du palais le produit d'une domination. Le jardin devient un lieu où la souveraineté s'expose sous une forme plaisante.
+
+### 25. L'animal et la plante dans le domaine royal [H]
+
+Des textes et images assyriens évoquent l'introduction de végétaux et d'animaux associés à des régions différentes. [H] Il serait séduisant de transformer chaque espèce en symbole d'une province conquise, mais la démonstration exige des noms, des provenances et des conditions de représentation sûres. Le jardin peut agir comme une collection impériale sans constituer un tableau encyclopédique identique dans chaque palais. Un arbre figuré ne permet pas d'inférer une plantation exacte, ni la présence simultanée d'une espèce venue de chaque partie de l'empire.
+
+### 26. La controverse des Jardins suspendus [H]
+
+Stephanie Dalley a proposé de situer l'origine de la tradition des Jardins suspendus à Ninive, à partir des travaux et représentations associés à Sennachérib. La question continue de faire débat. [H] Les descriptions classiques qui situent les jardins à Babylone ne sont pas des relevés contemporains des monuments attribués à Nabuchodonosor II ; leur confrontation avec les inscriptions et reliefs exige une discussion sur les dates, les auteurs et les transferts de mémoire. [N] Ni une localisation assurée à Ninive ni une identification archéologique incontestée à Babylone ne peuvent être annoncées sans qualification.
+
+### 27. Diodore II, 10 et Strabon XVI, 1, 5 [A]
+
+Ces auteurs transmettent des descriptions de jardins remarquables dans une littérature gréco-romaine postérieure aux règnes mésopotamiens concernés. [A] Ils attestent une tradition de prouesse horticole et technique, avec terrasses et élévation d'eau selon les textes. [N] Ils n'attestent pas directement, par une observation de fouille moderne, la forme de chaque terrasse antique. La critique documentaire doit distinguer le moment de composition du récit grec, la date supposée de sa référence historique et les hypothèses sur des édifices dont les vestiges ne sont pas toujours identifiés.
+
+### 28. Babylone et Ninive : ne pas fusionner deux dossiers [N]
+
+Babylone est une capitale babylonienne avec ses propres traditions, tandis que Ninive appartient à l'histoire impériale assyrienne. Une représentation de jardin à Ninive ne saurait être titrée « photographie du Jardin suspendu de Babylone ». [N] Les monuments, archives et souverains sont distincts. Le désaccord historiographique est un problème à expliquer, pas un motif pour effacer les provenances. Une illustration proposée à MYTHOS portera donc sa provenance archéologique réelle et distinguera l'édifice conservé de l'identification hypothétique aux Jardins suspendus.
+
+### 29. Le travail absent du relief [P]
+
+Le souverain reçoit le mérite d'avoir fait prospérer un jardin ; les cultivateurs, hydrauliciens et travailleurs affectés à son entretien apparaissent beaucoup moins dans la mémoire de la magnificence. [P] Le jardin royal est une forme de partage du prestige. Une analyse historique pourra mettre en regard le discours royal, les archives économiques et les traces de travaux, mais ne doit pas inventer un statut juridique individuel pour des travailleurs dont le texte ne parle pas. Le silence d'une image n'atteste pas l'inexistence des personnes qui rendent possible l'espace qu'elle montre.
+
+### 30. Le jardin est fragile, même lorsqu'il signifie le triomphe [P]
+
+L'irrigation exige une source durable ; une rupture de canal, une guerre ou l'abandon des bâtiments modifient rapidement un paysage cultivé. [P] Il existe une opposition entre la pérennité attribuée par le discours de gloire et la vulnérabilité matérielle d'un jardin. Une canalisation en pierre peut survivre quand les arbres et les usages ont disparu. Cet écart rappelle que l'archéologie conserve inégalement les composantes de l'objet étudié. L'historien doit se méfier des jardins « éternels » reconstruits à partir d'une seule image de règne.
+
+## IV. Égypte : posséder un jardin dans l'au-delà
+
+### 31. La peinture de Nebamon [A]
+
+Le British Museum conserve le fragment peint EA 37983 de la tombe-chapelle de Nebamon, vers 1350 av. n. è. Le bassin, les arbres fruitiers, les poissons et les oiseaux composent un jardin idéal. Le musée décrit une figure divine associée au sycomore offrant nourriture et boisson. [A] Cette image documente des aspirations funéraires et des conventions visuelles ; elle ne démontre pas qu'un domaine de cette forme exacte fut planté autour de la tombe. Les éléments sont représentés selon plusieurs points de vue, et non selon une perspective topographique moderne.
+
+### 32. Le bassin vu d'en haut [A]
+
+La surface de l'eau est montrée d'en haut, tandis que les arbres sont figurés en élévation. Cette composition convient à une description visuelle de la totalité des ressources plus qu'à un plan d'irrigation minutieux. [P] Une peinture peut rendre un jardin plus lisible en montrant simultanément ce qu'un œil placé à un point unique ne pourrait pas voir. Le choix artistique ne signifie pas une incapacité égyptienne à organiser réellement les jardins. Il produit un objet différent du relevé des canaux de Pasargades, que l'on doit comparer sans les substituer.
+
+### 33. Le sycomore qui nourrit et parle [A]
+
+La notice du British Museum signale une figure de déesse issue d'un arbre et un sycomore auquel sont attribuées des paroles adressées à Nebamon. Le rôle nourricier peut être mis en rapport avec des formes divines de Nut ou Hathor selon les contextes, mais les identifications doivent être localisées dans les textes et les images. [N] Un arbre dans une tombe ne prouve pas un culte uniforme de toutes les espèces arborées dans toute l'Égypte. Les modes de présence divine et les usages du végétal sont multiples et diachroniques.
+
+### 34. Le jardin funéraire n'est pas le seul paysage de l'au-delà [A]
+
+Les compositions liées au *Livre des morts*, notamment le chapitre 110, décrivent et représentent des champs, de l'eau et des travaux agricoles dans le *Champ des Roseaux*. Selon les manuscrits, les images varient. [N] Ce paysage ne peut être assimilé automatiquement au jardin privé figuré pour Nebamon. Il faut différencier horizon de survie posthume, propriété représentée et travaux liés à la subsistance dans l'autre monde. Une même tradition funéraire peut proposer plusieurs formes d'espace heureux, chacune dépendant du type de copie et de la personne qui la commande.
+
+### 35. L'image du jardin et les hiérarchies sociales [P]
+
+[P] Le jardin de Nebamon montre le bien-être d'un homme socialement situé. Les plantes et l'eau y sont abondantes, mais les conditions de production de cette prospérité disparaissent souvent derrière la figure du possesseur. Une étude du jardin réel réclamerait des archives et des vestiges ; la peinture nous renseigne d'abord sur le programme funéraire. Ce décalage est instructif pour comparer les jardins des rois assyriens : la gloire visuelle concentre des biens et peut masquer le travail qui les a produits.
+
+### 36. Ne pas projeter l'Éden biblique sur l'Égypte [N]
+
+La peinture n'énonce ni un interdit d'arbre de connaissance, ni une expulsion des premiers humains, ni un récit de quatre fleuves se divisant au-delà d'un jardin. [N] Nommer cet espace le « jardin d'Éden égyptien » serait une analogie moderne non démontrée par le témoin. La comparaison peut porter sur le désir d'une subsistance renouvelée dans un paysage de fraîcheur. Elle doit immédiatement préserver la spécificité du programme funéraire égyptien et la date de la peinture, antérieure de plusieurs siècles à certains contextes de rédaction des textes bibliques.
+
+## V. Iran achéménide : l'enclos comme art de gouverner
+
+### 37. L'étymologie de *parádeisos* [L]
+
+Le terme grec παράδεισος provient d'un mot iranien ancien de la famille de l'avestique *pairi.daēza-*, interprété comme espace encerclé ou enclos. Antonio Panaino, dans l'*Encyclopaedia Iranica*, distingue l'histoire linguistique du mot et les sens eschatologiques qui se développent ailleurs. [L] Un mot lié à une enceinte ne signifie pas nécessairement jardin céleste, et les occurrences avestiques n'ont pas partout une connotation idyllique. L'histoire du français « paradis » constitue une trajectoire de traduction et de réception, non un témoignage direct sur la doctrine des rois achéménides.
+
+### 38. Les occurrences avestiques doivent être contextualisées [A, L]
+
+La notice d'Antonio Panaino signale notamment *Vidēvdād* 3, 18 et 5, 49 pour la famille lexicale de *pairi.daēza*. Le sens d'enclos ou de séparation ne se réduit pas à l'image d'un verger de bonheur. [N] Il serait erroné de reconstruire à partir du seul mot un paradis des morts identifié au parc de Cyrus. Les langues iraniennes ont connu plusieurs vocabulaires et représentations de l'au-delà. La philologie d'un composé et l'histoire d'une institution religieuse ne constituent pas un seul type de preuve.
+
+### 39. Xénophon, *Économique* IV, 20–25 [A]
+
+Le passage rapporte que Cyrus le Jeune montra un parc à Lysandre à Sardes. Le visiteur admire l'ordonnance des arbres, la régularité des rangs et le parfum ; Cyrus attribue à son propre travail une partie de l'aménagement. [A] C'est bien le récit grec d'une visite et d'un discours sur l'excellence du souverain, pas un relevé exact des conversations tenues. [P] La beauté sert la pédagogie politique : celui qui dirige les autres affirme connaître aussi la peine de l'agriculture, même si sa propriété repose sur une organisation plus vaste que son seul effort.
+
+### 40. L'esthétique de la ligne droite [P]
+
+Le récit de Xénophon associe espacement des arbres, angles et odeurs plaisantes. [P] La régularité du jardin devient signe visible de maîtrise et de mesure ; la diversité des sensations marque un agrément raffiné. Mais l'ordre géométrique n'implique pas une doctrine unifiée d'un « jardin des quatre éléments » sous Cyrus. Il est préférable de regarder les termes exacts de Xénophon, puis les vestiges, plutôt que de transférer rétroactivement sur l'époque achéménide un modèle de jardin islamique connu par des monuments plus tardifs.
+
+### 41. Cyrus déclare avoir travaillé [A]
+
+Dans *Économique* IV, 22–24, Cyrus affirme avoir mesuré, organisé et en partie planté son jardin. La scène donne à l'effort du souverain une valeur de vertu. [P] L'idéologie royale met en avant le fait de produire personnellement un bien tout en conservant le privilège de la propriété du parc. Une lecture moderne peut en interroger le paradoxe. Elle ne doit cependant pas qualifier Cyrus de « jardinier égalitaire » ni inventer l'absence de travailleurs subalternes, car un dialogue littéraire valorisant un chef n'est pas un inventaire de son personnel.
+
+### 42. Xénophon, *Anabase* I, 2, 7–9 [A]
+
+À Célènes, Cyrus possède selon Xénophon un palais et un vaste parc habité d'animaux sauvages ; le prince y chasse à cheval, et le Méandre traverse le domaine. Le texte évoque également une revue de troupes dans le parc. [N] Le mot *parádeisos* ne signifie donc pas systématiquement lieu de paix où les animaux ne meurent jamais. L'espace peut articuler entraînement militaire, domination du vivant, circulation de l'eau et prestige dynastique. Cette attestation met en échec l'assimilation automatique entre paradis perse et séjour des bienheureux.
+
+### 43. Le parc peut être endommagé par la guerre [A, P]
+
+L'histoire de Pharnabaze et d'Agésilas dans les *Helléniques*, notamment IV, 1, 33, fournit matière à une étude des domaines perses touchés par la guerre. [H] La référence exacte doit être contrôlée dans l'édition suivie pour fixer le lieu et la nature de la destruction. [P] Un jardin royal placé sous le signe de la maîtrise ne résiste pas nécessairement à l'arrivée d'une armée ennemie. La valeur politique du paysage cultivé apparaît alors précisément parce qu'il peut devenir l'objet d'une atteinte stratégique.
+
+### 44. Pasargades : les jardins existent comme structures [A]
+
+Les fouilles et la documentation archéologique de Pasargades attestent un ensemble royal où palais, pavillons et jardins furent associés dans l'environnement de Cyrus II, au VIe siècle av. n. è. Les rapports de David Stronach et l'UNESCO en décrivent l'importance. [N] Les bassins et les canaux ne donnent pas automatiquement la liste des essences plantées ni la mesure exacte des perspectives d'origine. Une image numérique contemporaine peut proposer une hypothèse de restitution, mais elle doit être distinguée des vestiges observés.
+
+### 45. Le réseau des canaux de pierre [A]
+
+À Pasargades, des canalisations et bassins liés au jardin royal documentent la présence d'une conception spatiale où la maîtrise de l'eau est déterminante. [H] Le détail des phases d'usage et des parcours doit être revu avec les plans, les fouilles et les éventuelles modifications successives. [P] L'architecture permet ici de matérialiser une compétence monarchique dont les textes littéraires célèbrent plus librement la vertu. La méthode peut confronter un plan d'infrastructure à une scène racontée sans prétendre qu'ils décrivent la même visite de Lysandre.
+
+### 46. La prospection géophysique française [A]
+
+Le ministère français de la Culture décrit une prospection menée sur plus d'une centaine d'hectares au domaine de Pasargades. Au nord-est du jardin royal, des fossés orthogonaux apparaissent et sont interprétés avec prudence comme éléments d'irrigation ou de drainage de champs et de vergers. [H] Une anomalie géophysique ne livre pas le nom de la plante ni une certitude sur la date de chaque usage. La mission indique aussi qu'un complexe proche d'une tour aurait pu accueillir certains rites : cette possibilité ne doit pas être annoncée comme un sanctuaire confirmé.
+
+### 47. Plus vaste qu'un jardin d'agrément [A, C]
+
+Les structures de Pasargades suggèrent un domaine diversifié, comprenant résidences, terres cultivées, eaux distribuées et peut-être activités de cérémonie. [C] L'ensemble élargit la perspective donnée par l'image classique du jardin clos pour le plaisir des yeux. Une comparaison avec les parcs de chasse décrits par Xénophon demeure pertinente, mais aucune identité de fonction n'est assurée pour chaque espace. Il faut distinguer le jardin royal aménagé, l'ensemble des terres administrées et la représentation culturelle du « paradis perse ».
+
+### 48. Le patrimoine « quatre jardins » et son histoire [H]
+
+L'UNESCO présente Pasargades comme un prototype important de l'aménagement persan en quadrants, mais les jardins connus par des monuments médiévaux ou modernes ont leur propre histoire. [H] Une continuité de principe ne signifie pas que les mêmes noms, plantes, usages et formes religieuses ont été conservés sans variation depuis le VIe siècle av. n. è. Le vocabulaire patrimonial contemporain doit être utilisé comme description de valeur historique, et non comme certitude sur les intentions spirituelles de tous les architectes achéménides.
+
+### 49. Les semences et l'administration [A, H]
+
+Les études d'Amélie Kuhrt et de Maria Brosius utilisent les archives administratives perses pour éclairer les domaines, produits et déplacements de biens. [H] Il serait imprudent de transformer un document de semences retrouvé à Persépolis en preuve directe de la plantation d'une espèce précise dans le jardin de Pasargades plusieurs décennies plus tôt. La provenance et la date de chaque tablette sont nécessaires. L'intérêt de ces archives est de rendre visible le réseau économique que les descriptions édifiantes de princes cultivant les arbres peuvent laisser au second plan.
+
+### 50. Ce que l'enclos permet de montrer [P]
+
+[P] Le jardin royal réunit dans une portion de terre les effets de choix politiques : sélectionner les plantes, assigner des travailleurs, répartir l'eau, accueillir certains invités et tenir d'autres personnes à distance. Dans un récit de cour, l'ordre du jardin peut représenter la capacité à gouverner un territoire plus vaste. Cette hypothèse doit rester ouverte à d'autres usages, notamment agricoles, cynégétiques et récréatifs. Ce n'est pas une loi universelle selon laquelle tout jardin ancien serait une miniature délibérée de l'empire.
+
+## VI. Éden biblique : donner, interdire, exclure
+
+### 51. Genèse 2, 8 : un *gan* en Éden [A, L]
+
+Le texte hébreu affirme que YHWH-Dieu plante un *gan* en Éden. *Gan* désigne un jardin ; il n'est pas étymologiquement identique au mot iranien qui donnera le grec *parádeisos*. [L] Le terme « Éden » a suscité des analyses géographiques et littéraires que l'on doit dissocier des identifications populaires d'un jardin retrouvé. [N] Le texte ne permet pas de fixer une adresse archéologique certaine par simple rapprochement avec les grands fleuves de Mésopotamie. Il décrit d'abord un lieu narratif de vie et de relation avec la divinité.
+
+### 52. Genèse 2, 9 : arbres de vie et de connaissance [A]
+
+Le récit distingue des arbres nourriciers et les arbres de vie et de connaissance du bien et du mal. [N] Le fruit interdit n'y est pas expressément une pomme. Les représentations iconographiques ultérieures ont souvent construit cette association, mais elle ne doit pas être replacée artificiellement dans les mots hébreux. [P] L'arbre devient le point où l'abondance se différencie selon le droit d'usage : la possibilité matérielle de manger et la permission de le faire ne sont pas une seule chose.
+
+### 53. Genèse 2, 10–14 : les quatre bras du fleuve [A]
+
+Un cours d'eau arrose le jardin et se divise en quatre fleuves dont les noms sont transmis par le texte. Les équivalences proposées avec des rivières réelles font l'objet de débats de géographie historique et d'exégèse. [H] La présence de noms liés au Proche-Orient n'autorise pas la reconstruction d'une carte sûre du jardin mythique. Les quatre bras expriment l'abondance et l'extension de l'eau ; aucun plan exact de canaux achéménides ne peut être déduit de cette narration sans documents supplémentaires.
+
+### 54. Genèse 2, 15 : cultiver et garder [A, L]
+
+L'humain est placé dans le jardin pour le travailler et le garder, traduction habituelle des verbes hébreux *ʿābad* et *šāmar*. [L] Leur usage ailleurs dans la Bible permet des interprétations en termes de service et de garde ; certains commentateurs mettent l'accent sur un horizon sacerdotal. [H] Cette interprétation ne doit pas être présentée comme une évidence imposée par le seul verset. [P] Le travail est présent avant la transgression : le jardin ne correspond pas automatiquement à une existence sans responsabilité matérielle.
+
+### 55. Genèse 2, 16–17 : une économie de l'autorisation [A]
+
+La divinité donne largement accès aux arbres, puis limite la consommation par une interdiction singulière. La structure n'est pas celle d'une rareté générale : l'abondance existe, mais son usage n'est pas illimité. [P] Le jardin est ainsi un lieu normatif où l'humain découvre qu'une ressource accessible peut rester interdite. La comparaison avec un enclos royal doit rester fonctionnelle : l'autorité du récit de Genèse n'est pas un contrat de propriété achéménide, même si les deux mondes connaissent des frontières et des droits.
+
+### 56. Genèse 3 : la parole du serpent [A]
+
+La conversation avec le serpent trouble la définition de la règle et ses conséquences. [N] Le texte hébreu de Genèse 3, 1–7 n'identifie pas explicitement le serpent à Satan tel qu'il sera décrit dans des développements chrétiens ultérieurs. La réception religieuse possède son histoire légitime, mais elle n'est pas la langue initiale du passage. La question de l'arbre porte sur le savoir, la mort et l'autorité d'interpréter le commandement, non sur la simple beauté du paysage cultivé.
+
+### 57. Genèse 3, 22–24 : la frontière de l'immortalité [A]
+
+Après la transgression, les humains sont éloignés du jardin et les chérubins gardent la voie de l'arbre de vie. [P] L'exclusion donne à l'abondance une dimension existentielle : la possibilité de vivre indéfiniment n'est plus accessible. Il faut distinguer le gardien narratif d'une clôture de pierre ; le texte ne fournit pas un relevé d'architecture. [C] Le motif des fruits gardés peut être rapproché de celui des Hespérides, mais les rôles du serpent et les conséquences pour les personnages ne sont pas identiques.
+
+### 58. Pourquoi Dilmun n'est pas le texte de la Genèse [C, N]
+
+À Dilmun, la pureté du pays et la quête de l'eau sont premières ; la consommation des plantes par Enki conduit à une crise divine. Dans la Genèse, le jardin est planté et irrigué avant l'installation de l'humain, puis sa conduite entraîne une exclusion. [C] L'analogie des plantes, de l'eau et d'une limite est instructive. [N] Elle ne prouve pas que la Genèse serait une traduction directe du poème sumérien, ni que l'interdit de Genèse 2 aurait le même sens que la malédiction de Ninḫursaĝa. David M. Carr discute les précurseurs mésopotamiens avec une prudence plus utile que les tableaux d'identités toutes faites.
+
+### 59. Ézéchiel 28, 13 : l'Éden critique une grandeur [A]
+
+Dans l'oracle associé au souverain de Tyr, le langage d'un jardin de Dieu sert à évoquer un rang perdu et une chute. Le passage n'est pas une seconde carte géographique du jardin originel. [P] La beauté d'Éden devient une ressource critique : l'image de la plénitude souligne la vulnérabilité d'un pouvoir qui a pu se croire sans limite. La relation entre jardin et souveraineté se trouve inversée par rapport à l'éloge du parc de Cyrus ; l'arboriculture et les pierres précieuses appartiennent au répertoire du jugement prophétique.
+
+### 60. Ézéchiel 31 et 36 : chute et restauration [A]
+
+Ézéchiel 31 compare des arbres glorieux à ceux d'Éden dans un discours sur la puissance et son effondrement ; Ézéchiel 36, 35 décrit une terre restaurée semblable au jardin d'Éden. [P] Le même répertoire végétal peut exprimer le jugement et la reconstruction. Cette plasticité des usages empêche d'attribuer au mot « jardin » une seule valeur. La lecture du second texte ne doit pas faire oublier les habitants, les champs et les ruines auxquels la métaphore s'adresse : l'image de croissance sert aussi une parole politique et communautaire.
+
+### 61. Cantique 4, 12–16 : le jardin clos du désir [A]
+
+Le *Cantique des cantiques* emploie le jardin clos, les plantes odorantes, les sources et l'image de l'intimité. Au vers 13 apparaît le mot hébreu *pardēs*, emprunt lié au lexique iranien du parc ou de l'enclos. [L] La trajectoire linguistique ne démontre pas une réécriture des rites achéménides. [P] L'espace devient un langage de relation amoureuse et de contrôle de l'entrée, non un domaine de chasse ni le jardin de la première transgression. Une même histoire de mot peut servir des genres et des finalités divergents.
+
+### 62. Qohélet 2, 4–6 : jardins et déception [A]
+
+Le locuteur énumère ses constructions, jardins, plantations et bassins d'arrosage dans une méditation sur la valeur des réalisations humaines. Le terme *pardēs* se rencontre en 2, 5. [N] Il ne s'agit pas d'un inventaire horticole sûrement attribuable au règne historique de Salomon. [P] Le jardin devient preuve de richesse sans constituer un remède définitif à la finitude. La critique de l'accumulation renverse le programme de magnificence royale : posséder de beaux jardins ne donne pas nécessairement une vie plus sensée.
+
+### 63. Néhémie 2, 8 : le parc administré [A]
+
+Le texte nomme Asaph comme gardien d'un domaine royal d'où peut provenir le bois demandé. L'usage hébreu de *pardēs* se situe ici au niveau matériel et administratif, non dans un récit de vie après la mort. [C] Il rapproche par sa fonction certains espaces royaux perses, mais l'existence d'un mot emprunté ne prouve pas que toutes les pratiques de ces domaines étaient identiques. Une source narrative sur une demande de matériaux doit être lue pour les obligations qu'elle mentionne, pas comme description d'un paradis religieux.
+
+### 64. La Septante et le grand déplacement du mot [L]
+
+Dans les traductions bibliques grecques, *parádeisos* devient un terme pour le jardin d'Éden. Le choix lexical constitue une médiation fondamentale entre l'histoire du mot iranien et celle du récit hébreu. [L] Il ne signifie pas que le texte massorétique de Genèse 2 utilisait déjà *pardēs* pour le lieu de plantation. [P] La traduction crée une continuité culturelle nouvelle : le mot qui désignait aussi un parc de souverain peut entrer dans le vocabulaire de l'origine humaine et de la vie bienheureuse. Les lecteurs ultérieurs ont hérité de ce carrefour sémantique.
+
+### 65. Un bilan de philologie hébraïque [L, N]
+
+*Gan* et *pardēs* doivent rester deux entrées séparées de l'analyse. *Éden* doit être lu selon ses emplois et la syntaxe des passages ; l'emprunt iranien concerne une histoire de mots documentée par diverses langues. [N] La simple sonorité semblable entre deux termes n'est pas une preuve d'étymologie, ni la présence des fleuves une identification géographique sûre. L'édition MYTHOS devrait présenter côte à côte texte hébreu, grec de la Septante, traduction française et note chronologique, pour rendre visibles les opérations de traduction qui façonnent nos idées de paradis.
+
+## VII. Grèce : trois jardins, trois temps
+
+### 66. Alcinoos, *Odyssée* VII, 112–132 [A]
+
+Homère présente le verger royal des Phéaciens : poires, pommes, figues, oliviers, grenades, raisins, plates-bandes, eau et clôture. Les fruits se succèdent de façon merveilleuse tout au long de l'année. [N] Alcinoos est un souverain humain et ce jardin n'est pas présenté comme un mécanisme d'immortalité. [P] L'espace signale hospitalité, richesse et générosité des dieux envers le palais. La description littéraire n'est pas pour autant une preuve de saisonnalité botanique réelle dans une cité identifiable par les fouilles.
+
+### 67. Les mots du verger [L]
+
+Le grec ὄρχατος (*órchatos*) relève du vocabulaire du verger, et ἕρκος (*hérkos*) désigne un obstacle ou une clôture. Deux sources participent à l'irrigation et à l'approvisionnement des habitants. [L] Traduire simplement *paradis* ferait perdre la précision du jardinage homérique, tandis qu'imaginer les sources selon un plan d'irrigation fouillé transformerait une narration en archive technique. [P] La place du verger au seuil du palais suggère une maîtrise de l'abondance dont bénéficie aussi la communauté, sans que les relations d'accès soient identiques à celles d'un parc achéménide.
+
+### 68. Les deux sources du verger [A, C]
+
+La description distingue une source qui nourrit l'ensemble planté et une autre qui dessert la maison et les habitants. [C] Comme les eaux promises à Dilmun, ces sources lient prospérité et établissement humain ; mais aucune preuve ne permet d'établir un transfert direct de la structure des deux sources à la poésie grecque. [P] L'eau devient une manière de relier le souverain et son peuple : elle est incorporée au prestige royal sans être entièrement enfermée dans la possession du prince. C'est une lecture du récit, non une ordonnance de gestion civique conservée.
+
+### 69. Hésiode, *Théogonie* 215–216 : fruits gardés [A]
+
+Les Hespérides gardent les belles pommes d'or et les arbres fruitiers au-delà d'Océan. [L] Le grec *mêla* connaît des ambiguïtés selon les contextes ; les arbres porteurs de fruits expliquent la lecture commune des pommes, mais des discussions philologiques existent. Le lieu est aux limites de la géographie poétique, non une parcelle identifiée par une inscription cadastrale. [P] Là où Alcinoos possède une abondance hospitalière, les Hespérides représentent une abondance défendue, sous garde, difficilement accessible.
+
+### 70. Le serpent des Hespérides, *Théogonie* 333–335 [A]
+
+Hésiode décrit un être serpentiforme gardien des fruits précieux. [N] Le même animal biologique nominal ne suffit pas à identifier ce gardien au serpent parlant de Genèse 3. Le premier protège un bien d'accès exceptionnel ; le second intervient comme interlocuteur de la transgression humaine. [C] Leur rapprochement peut porter sur la figure de l'arbre et du seuil, mais ne démontre ni une identité de personnages ni une diffusion dans un sens fixé. La comparaison gagne davantage de cette différence de fonction que d'une fusion artificielle.
+
+### 71. Héraclès et la conquête des pommes [A]
+
+La *Bibliothèque* attribuée au Pseudo-Apollodore, II, 5, 11, rapporte un travail d'Héraclès relatif aux pommes d'or et à Atlas. Les variantes du récit ne doivent pas être aplaties en un seul itinéraire. [P] La ressource exceptionnelle est atteinte par une épreuve héroïque, non par la possession ordinaire d'un verger. Ce modèle diffère de l'expulsion des humains du jardin d'Éden après une transgression. La similitude d'un fruit gardé ne prouve pas une même conception de la condition humaine, de la faute ou de la rédemption.
+
+### 72. Les jardins d'Adonis, *Phèdre* 276b [A]
+
+Platon oppose les plantations rapides des jardins d'Adonis à la culture longue qui porte des fruits durables. Dans le dialogue, cette métaphore sert à distinguer les effets séduisants de l'écriture et l'enseignement véritablement vivant. [N] Platon ne donne pas un protocole exhaustif des rites d'Adonis dans toutes les cités grecques. [P] La plante devient un objet d'analyse du temps : une croissance rapide peut être plaisante et pourtant sans maturation profonde. Le jardin ne représente pas ici une éternité fertile mais la fragilité de l'apparence.
+
+### 73. Huit jours et huit mois [A, P]
+
+La différence entre la pousse rapide de huit jours et la maturation de huit mois structure la comparaison de Platon. [P] Ce contraste peut être confronté au verger homérique où les arbres semblent porter sans interruption. L'un représente le temps excessivement accéléré et l'autre un temps presque suspendu ; aucun ne correspond à la chronologie ordinaire d'un domaine agricole. Une histoire de l'imagination horticole doit donc être aussi une histoire des rythmes : l'abondance, la perte, la jeunesse et la fécondité ne mobilisent pas la même expérience du temps.
+
+### 74. Théocrite, *Idylle* 15, et les Adonies [A, H]
+
+La fête d'Adonis décrite par Théocrite à Alexandrie offre un dossier hellénistique sur chants, offrandes et célébration. Les reconstitutions modernes de jardins rituels doivent tenir compte des différences entre le poème, Platon et les pratiques historiques locales. [H] Il n'est pas démontré que toutes les étapes du rite soient demeurées identiques de la Grèce classique à l'Alexandrie des Ptolémées. Marcel Detienne a proposé une lecture influente des jardins d'Adonis ; son cadre interprétatif doit rester discuté et confronté aux attestations.
+
+### 75. Une comparaison grecque qui refuse l'unification [C]
+
+Le verger d'Alcinoos raconte l'abondance renouvelée ; les Hespérides gardent un fruit exceptionnel ; les jardins d'Adonis sont éphémères. [C] Il n'existe pas une seule fonction grecque du jardin. [P] Ces trois configurations donnent trois expériences du temps : continuité, inacessibilité et fugacité. Les mettre en rapport avec les jardins de Dilmun et de l'Éden éclaire des problèmes communs de vie et de frontière, mais ne permet pas de reconstruire un « mythe du jardin » grec unique auquel les autres cultures auraient emprunté.
+
+## VIII. Souveraineté, travail, savoir et interprétation philosophique
+
+### 76. Le jardin comme distributeur d'accès [P]
+
+Un jardin clos n'est pas seulement un paysage : il rend possible une relation d'inclusion et d'exclusion. [P] Dans les textes, l'accès peut être accordé par un roi, limité par un commandement, défendu par des êtres mythiques ou modifié par une sanction. Ces relations ne sont pas équivalentes juridiquement, mais elles soulignent une question comparée : qui décide que l'abondance peut être consommée ? La comparaison doit distinguer le privilège aristocratique, le droit de propriété, l'interdit religieux et la condition existentielle.
+
+### 77. La vertu royale et les ouvriers invisibles [P]
+
+Chez Xénophon, Cyrus affirme avoir planté une partie des arbres ; chez les Assyriens, les rois sont célébrés comme bâtisseurs. [P] Un jardin de pouvoir peut valoriser un auteur tout en laissant dans l'ombre les collectifs qui creusent les canaux, transportent les plants et assurent l'entretien. Cette question peut être soumise à l'histoire économique sans anachroniquement appliquer les catégories modernes de l'emploi à tous les travailleurs antiques. Les vestiges hydrauliques et les archives administratives sont indispensables pour dépasser le récit du grand homme cultivateur.
+
+### 78. Quatre temporalités de l'abondance [C]
+
+Le verger d'Alcinoos produit sans arrêt ; les jardins d'Adonis se fanent vite ; les jardins royaux doivent être entretenus ; le jardin funéraire de Nebamon représente une continuité désirée. [C] Ce n'est pas une même conception de l'éternité. [P] Les jardins fournissent un laboratoire philosophique du temps : parfois les saisons sont abolies par la poésie, parfois accélérées par le rite, parfois rendues administrables par le travail, parfois transcendées par l'image de l'au-delà. Le même décor de feuilles peut donc représenter des durées antagonistes.
+
+### 79. L'eau, entre don et contrôle [C, P]
+
+À Dilmun, la réponse divine apporte l'eau nécessaire ; à Pasargades, des vestiges prouvent une gestion matérielle de réseaux ; dans la Genèse, le jardin est irrigué par un fleuve qui se divise ; chez Homère, deux sources relient le verger et la maison. [P] L'eau apparaît comme condition de la vie et support possible d'autorité. [N] Aucun de ces exemples ne démontre à lui seul une relation hydraulique directe entre tous les auteurs. Le fait partagé est une dépendance écologique ; les régimes de justification sont distincts.
+
+### 80. Le jardin et la violence [P]
+
+La beauté du jardin d'Assurbanipal coexiste avec un programme monumental de domination ; les parcs perses peuvent servir à la chasse et à la guerre ; le jardin de la Genèse devient lieu de jugement et d'expulsion. [P] La félicité végétale ne signifie pas nécessairement absence de contrainte. Les jardins peuvent rendre le pouvoir attrayant tout en révélant un monopole d'accès. L'image contemporaine du jardin de paix est donc une interprétation possible, non la somme des fonctions documentées dans le corpus.
+
+### 81. La traduction comme événement historique [L]
+
+Le mouvement du mot iranien d'enclos vers le grec *parádeisos*, puis vers la traduction de l'Éden en grec, crée une histoire culturelle que les rapprochements de motifs ne suffisent pas à expliquer. [L] L'emprunt lexical est un fait philologique distinct de l'influence d'un jardin royal sur un récit religieux. Une lecture scientifique doit noter la première attestation disponible, l'écart chronologique et le contexte d'emploi de chaque terme. Le sens eschatologique du « paradis » ne se trouvait pas automatiquement fixé dans les premiers mots d'enclos.
+
+### 82. Le jardin comme modèle de cosmos [P]
+
+La symétrie d'un jardin aménagé peut être interprétée comme une réduction de l'ordre du monde ; certaines traditions de jardins persans plus tardives développent des symbolismes explicites. [P] Cependant, identifier une quadripartition archéologique ne permet pas d'attribuer immédiatement un système cosmologique unifié à Cyrus. Les jardins étudiés dans ce volume n'ont pas tous une structure à quatre secteurs. Il faut distinguer l'éventuelle symbolisation cosmique d'un plan et le simple besoin pratique de répartir une arrivée d'eau entre plusieurs parcelles.
+
+### 83. Cassirer et l'image productrice de sens [P]
+
+La philosophie des formes symboliques d'Ernst Cassirer permet de comprendre qu'un jardin mythique ne constitue pas un modèle agronomique raté ; il organise des relations entre eau, plante, seuil et puissance. Cette lecture peut éclairer l'Éden et Dilmun, mais elle ne remplace ni la recherche lexicale ni l'archéologie. [P] La notion de symbole doit conserver un sens précis : elle ne permet pas de traduire arbitrairement tout canal par une idée de salut ou toute clôture par un concept de propriété religieuse.
+
+### 84. Hegel et les histoires trop linéaires [P]
+
+Une philosophie de l'histoire qui placerait le « jardin mythique oriental » à l'origine d'un progrès menant vers un « jardin rationnel grec » ne résisterait pas au corpus. La Mésopotamie disposait de technologies hydrauliques, Xénophon écrivait des récits moraux, l'Égypte peignait des jardins funéraires, tandis que la Grèce poétique connaissait des fruits merveilleux et gardés. [P] Les pratiques coexistent, se croisent et se transforment sans ordre universel unique. L'analyse hégélienne peut servir d'objet de critique, non de chronologie archéologique.
+
+### 85. Nietzsche et la critique de la compensation [P]
+
+Il est possible de lire l'image du paradis comme promesse d'abolition de la peine, mais ce schéma n'est pas universel. Dans Genèse 2, 15, le travail du jardin précède la transgression ; chez Xénophon, l'effort agricole est une qualité du prince ; Qohélet constate que les plantations ne délivrent pas de la vanité. [P] Une méditation inspirée de Nietzsche doit donc affronter la pluralité de ces récits plutôt que leur attribuer une nostalgie religieuse identique. Le jardin n'est pas toujours la compensation imaginaire d'une vie humaine insatisfaisante.
+
+### 86. Foucault : le risque de l'hétérotopie automatique [P]
+
+Michel Foucault évoque les jardins dans sa réflexion sur les espaces autres. [P] Cette proposition contemporaine peut aider à analyser un lieu où des régions et des espèces sont mises en relation, mais ne prouve rien sur les intentions de Sennachérib ou de Cyrus. La transposition d'un concept du XXe siècle à un espace ancien doit être déclarée comme un travail d'interprétation. Elle deviendrait abusive si elle transformait toutes les plantations archéologiques en systèmes symboliques explicitement attestés.
+
+### 87. Detienne, les jardins d'Adonis et la comparaison limitée [P]
+
+Marcel Detienne a donné aux jardins d'Adonis une interprétation structurale majeure. [P] La méthode peut stimuler la comparaison des temporalités végétales, mais il faut éviter de projeter directement son modèle sur les parcs perses, les rituels égyptiens ou les plantes de Ninḫursaĝa. Un dispositif rituel grec ne constitue pas la clef universelle de toutes les religions horticoles. La comparaison doit pouvoir conclure à une différence irréductible, y compris lorsque deux cultures accordent une signification forte à la pousse d'un végétal.
+
+### 88. Descola et la pluralité des rapports aux plantes [P]
+
+Les travaux de Philippe Descola permettent d'interroger les frontières entre humains et autres vivants, mais les catégories contemporaines d'ontologie ne sont pas des termes des textes sumériens, hébreux ou grecs. [P] Un sycomore peint qui s'adresse à Nebamon ne joue pas le même rôle qu'un arbre de connaissance ou qu'une rangée de plantations calculée par Cyrus. La comparaison doit conserver les agents et les actes : nourrir, parler, permettre, interdire, produire. Elle ne gagne rien à nommer d'un seul mot tous les végétaux investis de sens.
+
+### 89. Une enquête falsifiable [H]
+
+Trois recherches peuvent réviser notre synthèse : une prospection plus précise du réseau horticole de Pasargades, l'identification de nouvelles archives sur les plantes et travailleurs des domaines achéménides, et une comparaison philologique des usages de *gan*, *pardēs* et *parádeisos* selon les manuscrits. [H] De même, une nouvelle étude des reliefs et inscriptions de Ninive peut faire évoluer l'hypothèse des Jardins suspendus. Une monographie universitaire n'est pas un point final : elle doit énoncer ce qui pourrait la contredire.
+
+### 90. Tableau des comparaisons [C]
+
+| Tradition | Type de témoin | Abondance | Eau | Accès | Interprétation à éviter |
+| --- | --- | --- | --- | --- | --- |
+| Dilmun, ETCSL 1.1.1 | récit sumérien | pays pur rendu fertile | eau douce promise | pouvoir des dieux | copie directe de l'Éden |
+| Ninive | inscriptions, reliefs, canaux | jardin royal | aménagements assyriens | cour royale | jardin suspendu identifié sans débat |
+| Égypte, Nebamon EA 37983 | peinture funéraire | paysage d'agrément et de subsistance | bassin figuré | scène du défunt | plan d'un jardin exactement fouillé |
+| Sardes, Xénophon IV | dialogue grec | arbres rangés et parfumés | non précisée | Cyrus et hôte | paradis des âmes |
+| Célènes, Xénophon I | histoire narrative | parc, chasse, animaux | Méandre | aristocratie et troupes | jardin sans mise à mort |
+| Pasargades | archéologie | domaine royal et plantations | fossés, canaux | administration impériale | plan horticole totalement connu |
+| Genèse 2–3 | récit biblique | arbres nourriciers et de vie | fleuve et bras | interdiction, chérubins | pomme et localisation certaine |
+| Cantique 4 | poésie amoureuse | parfum et plantations | sources | intimité | réplique littérale de la Genèse |
+| Alcinoos, Homère VII | épopée grecque | fruits toute l'année | deux sources | palais royal | immortalité humaine acquise |
+| Hespérides, Hésiode | théogonie | fruits gardés | non détaillée | gardiennes et serpent | identité certaine au serpent biblique |
+| Jardins d'Adonis, Platon | philosophie | végétation fugace | non documentée ici | expérience rituelle évoquée | jardin éternel |
+
+## IX. Documentation primaire, notices et philologie
+
+### 91. Sources sumériennes : références de lignes [A]
+
+**S01.** *Enki et Ninḫursaĝa*, ETCSL 1.1.1, lignes 1–4, 11–28, 29–49, 190–227. Édition universitaire, translittération et traduction : https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=t.1.1.1 . Les lacunes du texte et les points d'interrogation de l'identification botanique sont conservés.  
+**S02.** *Gilgameš, Enkidu et le monde souterrain*, ETCSL 1.8.1.4, lignes 27–46 : https://etcsl.orinst.ox.ac.uk/section1/tr1814.htm .  
+**S03.** *Épopée de Gilgameš*, tablette XI, épisode de la plante de jeunesse et du serpent, éd. Andrew R. George, Oxford University Press, 2003 ; le découpage en vers doit être vérifié dans cette édition avant toute citation littérale. La présence d'une plante rajeunissante ne prouve pas l'existence d'un jardin localisable.
+
+### 92. Sources néo-assyriennes et objets matériels [A]
+
+**S04.** Inscriptions royales de Sennachérib concernant le programme d'aménagement hydraulique de Ninive, série *Royal Inscriptions of the Neo-Assyrian Period* (RINAP) : préciser le numéro de texte individuel avant toute citation directe.  
+**S05.** Relief de la scène du jardin d'Assurbanipal à Ninive ; étude et anastylose virtuelle, Université de Cologne : https://archaeologie.phil-fak.uni-koeln.de/institut/fachgebiete/archaeoinformatik/projekte/die-gartenszene-des-assurbanipal-vituelle-anastylose-eines-neuassyrischen-reliefs . Ne pas confondre la sculpture originale et la restitution.  
+**S06.** Diodore II, 10 ; Strabon XVI, 1, 5 : descriptions tardives des Jardins suspendus, utilisées comme témoignages sur la tradition littéraire et non comme plan archéologique.  
+**S07.** Jerwan, vestiges du dispositif hydraulique de Sennachérib, documentation archéologique et publications de synthèse sur Ninive ; les mesures et datations précises dépendent des travaux consultés.
+
+### 93. Égypte et monde achéménide [A]
+
+**S08.** British Museum EA 37983, jardin de Nebamon, peinture funéraire thébaine, XVIIIe dynastie, vers 1350 av. n. è., notice institutionnelle : https://artsandculture.google.com/asset/nebamun%E2%80%99s-garden-fragment-of-a-scene-from-the-tomb-chapel-of-nebamun/mQHQ1FORXD3L-w .  
+**S09.** *Livre des morts* 110 : traditions de la campagne bienheureuse et des Champs des Roseaux ; comparer les recensions et les vignettes.  
+**S10.** Xénophon, *Économique* IV, 20–25, Cyrus et Lysandre au *parádeisos* de Sardes : https://beta.perseus.tufts.edu/urn%3Acts%3AgreekLit%3Atlg0032.tlg003.perseus-grc2%3A4/ .  
+**S11.** Xénophon, *Anabase* I, 2, 7–9, parc de chasse de Célènes : https://adfonteslibrary.org/work-xenophon-anabasis .  
+**S12.** Xénophon, *Helléniques* IV, 1, 33, domaines royaux et contexte militaire ; voir édition grecque de référence.  
+**S13.** Pasargades, canaux et prospection géophysique : https://archeologie.culture.gouv.fr/proche-orient/fr/pasargades ; https://whc.unesco.org/fr/list/1106/ .  
+**S14.** Avesta, occurrences de *pairi.daēza-* dans les sources relevées par Antonio Panaino, notamment *Vidēvdād* 3, 18 et 5, 49 : https://www.iranicaonline.org/articles/paradise/ .
+
+### 94. Textes bibliques et grecs [A]
+
+**S15.** Genèse 2, 8–17 ; 3, 1–7 et 22–24, texte hébreu massorétique et versions anciennes ; Ézéchiel 28, 13 ; 31, 8–9 ; 36, 35.  
+**S16.** Cantique des cantiques 4, 12–16 ; Qohélet 2, 4–6 ; Néhémie 2, 8, emplois hébreux du jardin ou du *pardēs*.  
+**S17.** Septante grecque, Genèse 2, 8–15 et 3, 23–24, emplois de *parádeisos* dans la traduction.  
+**S18.** Homère, *Odyssée* VII, 112–132, verger d'Alcinoos : https://www.greekmythology.com/sources/homer/odyssey/7-78-132 .  
+**S19.** Hésiode, *Théogonie* 215–216 et 333–335, Hespérides et gardien des fruits : https://adfonteslibrary.org/work-hesiod-theogony .  
+**S20.** Pseudo-Apollodore, *Bibliothèque* II, 5, 11, Héraclès, Atlas et les pommes.  
+**S21.** Platon, *Phèdre* 276b, jardins d'Adonis et durée de la culture : https://adfonteslibrary.org/work-plato-phaedrus .  
+**S22.** Théocrite, *Idylle* XV, fête d'Adonis à Alexandrie, à contextualiser comme texte hellénistique.
+
+## X. Bibliographie universitaire critique
+
+### 95. Assyriologie et monde sumérien
+
+1. Andrew R. George, *The Babylonian Gilgamesh Epic: Introduction, Critical Edition and Cuneiform Texts*, 2 vol., Oxford, Oxford University Press, 2003.
+2. Stephanie Dalley, *The Mystery of the Hanging Garden of Babylon: An Elusive World Wonder Traced*, Oxford, Oxford University Press, 2013 — thèse de localisation à discuter.
+3. John Malcolm Russell, *Sennacherib's Palace Without Rival at Nineveh*, Chicago, University of Chicago Press, 1991.
+4. Julian Reade, *Assyrian Sculpture*, Londres, British Museum Press, 1983.
+5. Joan Oates, *Babylon*, Londres, Thames & Hudson, 1986.
+6. Jeremy Black et Anthony Green, *Gods, Demons and Symbols of Ancient Mesopotamia*, Londres, British Museum Press, 1992.
+7. Thorkild Jacobsen, *The Treasures of Darkness: A History of Mesopotamian Religion*, New Haven, Yale University Press, 1976.
+8. Electronic Text Corpus of Sumerian Literature, Université d'Oxford, éditions numériques des compositions 1.1.1 et 1.8.1.4 : https://etcsl.orinst.ox.ac.uk/ .
+
+### 96. Égypte et empire achéménide
+
+9. Alix Wilkinson, *The Garden in Ancient Egypt*, Londres, Rubicon Press, 1998.
+10. Salima Ikram et Aidan Dodson, *The Mummy in Ancient Egypt*, Londres, Thames & Hudson, 1998, contextualisation des programmes funéraires.
+11. David Stronach, *Pasargadae: A Report on the Excavations Conducted by the British Institute of Persian Studies from 1961 to 1963*, Oxford, Clarendon Press, 1978.
+12. Pierre Briant, *Histoire de l'Empire perse : de Cyrus à Alexandre*, Paris, Fayard, 1996.
+13. Amélie Kuhrt, *The Persian Empire: A Corpus of Sources from the Achaemenid Period*, 2 vol., Londres, Routledge, 2007.
+14. Maria Brosius, *The Persians: An Introduction*, Londres, Routledge, 2006.
+15. Mehrdad Fakour, « Garden v. Achaemenid Period », *Encyclopaedia Iranica*, 2000 : https://www.iranicaonline.org/articles/garden-i/ .
+16. Antonio Panaino, « Paradise », *Encyclopaedia Iranica*, 2022 : https://www.iranicaonline.org/articles/paradise/ .
+17. Mohammad Gharipour, *Persian Gardens and Pavilions: Reflections in History, Poetry and the Arts*, Londres, I. B. Tauris, 2013.
+18. Ministère français de la Culture, « Pasargades », mission archéologique irano-française : https://archeologie.culture.gouv.fr/proche-orient/fr/pasargades .
+19. UNESCO, « Pasargades » et « Le Jardin persan » : https://whc.unesco.org/fr/list/1106/ ; https://whc.unesco.org/fr/list/1372/ . Les synthèses patrimoniales ne remplacent pas les publications de terrain.
+
+### 97. Bible, mythologie grecque et philosophie
+
+20. David M. Carr, *The Formation of Genesis 1–11: Biblical and Other Precursors*, Oxford, Oxford University Press, 2020, chapitre 2.
+21. Terje Stordalen, *Echoes of Eden: Genesis 2–3 and Symbolism of the Eden Garden in Biblical Hebrew Literature*, Louvain, Peeters, 2000.
+22. Nahum M. Sarna, *Genesis*, Jewish Publication Society Torah Commentary, Philadelphie, 1989.
+23. Richard J. Clifford, *Creation Accounts in the Ancient Near East and in the Bible*, Washington, Catholic Biblical Association, 1994.
+24. Edmée Kingsmill, *The Song of Songs and the Eros of God*, Oxford, Oxford University Press, 2009, chapitre « The Garden Temple ».
+25. Martin L. West, *Hesiod: Theogony*, Oxford, Clarendon Press, 1966.
+26. Alfred Heubeck, Stephanie West et J. B. Hainsworth, *A Commentary on Homer's Odyssey*, vol. I, Oxford, Clarendon Press, 1988.
+27. Marcel Detienne, *Les Jardins d'Adonis*, Paris, Gallimard, 1972.
+28. Timothy Gantz, *Early Greek Myth*, Baltimore, Johns Hopkins University Press, 1993.
+29. Jean-Pierre Vernant, *Mythe et pensée chez les Grecs*, Paris, Maspero, 1965.
+30. Ernst Cassirer, *Philosophie der symbolischen Formen*, II, *Das mythische Denken*, Berlin, Bruno Cassirer, 1925.
+31. Philippe Descola, *Par-delà nature et culture*, Paris, Gallimard, 2005.
+32. Jonathan Z. Smith, *Imagining Religion: From Babylon to Jonestown*, Chicago, University of Chicago Press, 1982.
+33. Friedrich Nietzsche, *Zur Genealogie der Moral*, Leipzig, 1887 — commentaire philosophique, non source ancienne.
+34. Michel Foucault, « Des espaces autres », conférence de 1967, publiée en 1984 — outil conceptuel postérieur aux civilisations étudiées.
+
+## XI. Iconographie savante : huit planches proposées, toutes à vérifier avant republication
+
+### 98. Planche 1 : Pasargades, prospection géophysique [A]
+
+**Source :** Ministère français de la Culture, mission irano-française « Shiraz », prospections autour du jardin royal et de la tour : https://archeologie.culture.gouv.fr/proche-orient/fr/pasargades . **Légende :** « Traces orthogonales d'aménagement pouvant correspondre à des fossés de drainage ou d'irrigation ; aucune espèce plantée ne peut être déduite directement de ces anomalies. » **Crédits :** mission archéologique et auteur de la carte, à relever dans la notice. Les droits de reproduction de la carte ne se confondent pas avec l'accessibilité de la page.
+
+### 99. Planche 2 : canaux de pierre à Pasargades [A]
+
+**Source archéologique :** site de Pasargades et description UNESCO : https://whc.unesco.org/fr/list/1106/ . **Source photographique possible :** https://www.livius.org/pictures/iran/pasargadae/pasargadae-water-conduits/ . **Légende :** « Canalisations de pierre du complexe royal ; les plantations visibles aujourd'hui et les jardins restitués numériquement ne sont pas des preuves directes de l'état précis du VIe siècle av. n. è. » Vérifier licence, auteur du cliché et conditions de reproduction avant intégration.
+
+### 100. Planche 3 : Nebamon, jardin de tombe [A]
+
+**Objet :** British Museum, EA 37983, XVIIIe dynastie, vers 1350 av. n. è. **Légende :** « Jardin idéal représenté pour le contexte funéraire de Nebamon ; le bassin et les arbres utilisent les conventions égyptiennes de composition. » **Source :** https://artsandculture.google.com/asset/nebamun%E2%80%99s-garden-fragment-of-a-scene-from-the-tomb-chapel-of-nebamun/mQHQ1FORXD3L-w . **Droits :** photographie © Trustees of the British Museum ; autorisation ou licence à contrôler avant publication d'une copie.
+
+### 101. Planche 4 : banquet royal dans le jardin d'Assurbanipal [A]
+
+**Objet :** relief néo-assyrien de Ninive, scène de jardin analysée par l'université de Cologne. **Légende :** « La végétation du palais participe à la mise en scène du repos et de l'autorité ; la reconstitution numérique ne doit pas être confondue avec la sculpture conservée. » **Source de recherche :** https://archaeologie.phil-fak.uni-koeln.de/institut/fachgebiete/archaeoinformatik/projekte/die-gartenszene-des-assurbanipal-vituelle-anastylose-eines-neuassyrischen-reliefs . Vérifier séparément crédits photographiques et droits de la reconstruction.
+
+### 102. Planche 5 : Dilmun, carte critique de l'eau [A, H]
+
+**Type :** carte documentaire originale montrant les régions historiques souvent associées à Dilmun et, séparément, la localisation littéraire du poème sumérien. **Légende :** « Dans *Enki et Ninḫursaĝa*, les eaux douces promises à Dilmun sont un motif religieux ; la carte n'affirme pas l'existence d'un jardin exactement localisé ». **Source primaire :** ETCSL 1.1.1, lignes 29–49, https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=t.1.1.1 . **Statut :** infographie contemporaine et non artefact ancien.
+
+### 103. Planche 6 : Éden, permission et seuil [A]
+
+**Type :** diagramme pédagogique original de Genèse 2, 8–17 et 3, 22–24 : plantation, irrigation, travail, interdiction, exclusion, garde. **Légende :** « Séquence narrative de l'accès au jardin ; ni le fruit identifié à une pomme ni un plan architectural à quatre carrés ne sont attestés par ces versets ». **Source :** édition critique du texte hébreu et comparaison avec la Septante grecque. La représentation ne doit pas être présentée comme une restitution archéologique de l'Éden.
+
+### 104. Planche 7 : les Hespérides et leurs fruits [A]
+
+**Type :** planche philologique contemporaine confrontant Hésiode, *Théogonie* 215–216 et 333–335, à une carte conceptuelle du bout du monde. **Légende :** « Arbres aux fruits d'or gardés au-delà d'Océan, selon Hésiode ; aucune localisation archéologique du verger n'est démontrée ». **Source :** https://adfonteslibrary.org/work-hesiod-theogony . Si une représentation antique est ajoutée, relever l'inventaire du musée, sa datation et la licence de photographie avant insertion.
+
+### 105. Planche 8 : trois mots, trois trajectoires [L]
+
+**Type :** schéma linguistique original : avestique *pairi.daēza-*, grec *parádeisos*, hébreu *gan* et *pardēs*, avec flèches distinctes pour emprunt linguistique et choix de traduction de la Septante. **Légende :** « L'histoire du terme paradis est documentée ; elle n'établit pas que tous les textes racontent le même jardin ». **Source :** Antonio Panaino, *Encyclopaedia Iranica*, https://www.iranicaonline.org/articles/paradise/ . La figure est une création savante contemporaine ; ne pas fabriquer une inscription antique non attestée.
+
+## XII. Bilan critique, limites et continuité
+
+### 106. Ce qui est attesté [A]
+
+Les lignes de Dilmun décrivent pureté puis demande d'eau ; la peinture EA 37983 représente un jardin dans un contexte funéraire ; les dispositifs hydrauliques de Pasargades sont archéologiquement documentés ; Xénophon décrit parcs et plantations d'élite ; la Genèse décrit plantation et restriction d'accès ; l'*Odyssée* offre un verger merveilleux ; Hésiode évoque des fruits gardés ; Platon oppose jardins éphémères et culture sérieuse. Les citations renvoient à des témoins de nature différente. Aucun de ces faits ne prouve l'existence empirique de l'immortalité ou de personnages divins.
+
+### 107. Ce qui reste débattu [H]
+
+La localisation des Jardins suspendus, la relation entre les jardins réels de Ninive et la tradition littéraire sur Babylone, le détail des plantations de Pasargades, l'identification botanique de plusieurs plantes sumériennes et les filiations précises entre récits anciens d'accès à la vie sont des questions ouvertes. Les synthèses éditoriales ne doivent pas effacer la force variable des arguments. La découverte d'une tablette, d'une structure hydraulique ou d'un texte intermédiaire pourrait corriger nos interprétations ; cette révisabilité fait partie de la méthode scientifique.
+
+### 108. Ce que la comparaison établit [C]
+
+La présence récurrente de ressources végétales, d'eau et de limites autorise à étudier des fonctions comparables : concentrer le vivant, rendre une prospérité visible, interdire certains usages, représenter une vie désirable. Elle n'autorise pas à poser une religion universelle de l'arbre de vie ni une origine commune imposée. Une particularité doit être conservée : le parc royal perse peut être une réserve de chasse, tandis que l'Éden construit un drame d'accès à la vie. Un mot partagé ou un arbre gardé ne supprime pas la différence de finalité.
+
+### 109. Questions à poursuivre [H, P]
+
+Quel est le rapport entre les espaces cultivés détectés à Pasargades et les domaines administrés par les archives perses ? Comment dater précisément les phases du système hydraulique de Ninive ? Dans quelles couches bibliques le terme *pardēs* se diffuse-t-il, et quelles fonctions prend-il à côté du plus ancien vocabulaire *gan* ? Quel statut faut-il accorder à la fertilité intemporelle d'Homère dans l'économie narrative de l'hospitalité ? Ces questions doivent être rattachées aux sources et non annoncées comme des énigmes déjà résolues.
+
+### 110. Conclusion philosophique : l'abondance possède un seuil [P]
+
+Le jardin, tel qu'il apparaît dans ce corpus, n'est pas un lieu identique reproduit de culture en culture. C'est une manière de rendre visibles des limites humaines et des pouvoirs : l'eau manque puis arrive ; le souverain plante et ordonne ; le défunt reçoit l'image d'une fraîcheur nourricière ; l'humain voit se fermer l'accès à l'arbre de vie ; le héros atteint un fruit exceptionnel ; le philosophe rappelle la fragilité des plantations accélérées. [P] La grandeur de l'image tient à sa contradiction : c'est dans le lieu imaginé comme celui de l'abondance sans fin que se révèlent avec le plus de netteté l'entretien, l'interdit, la perte et la vulnérabilité de toute prospérité.
+
+**Continuité MYTHOS :** cette livraison historique MC-087 est autonome, sourcée et approuvée pour la file éditoriale publique. Les éventuelles autres soumissions MC-085 et MC-086, les études déjà publiées, leurs références historiques et les planifications de l'utilisateur restent inchangées. L'existence de ce manuscrit en file GitHub ne constitue **pas** une annonce de publication sur bobmythos.fr, laquelle exige attribution canonique, résultat du workflow et contrôle public indépendant.

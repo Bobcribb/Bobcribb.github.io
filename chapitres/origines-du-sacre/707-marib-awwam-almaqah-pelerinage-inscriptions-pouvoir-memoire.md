@@ -1,0 +1,152 @@
+# Chapitre 707 — Entrer chez Almaqah : le sanctuaire d’ʾAwām à Maʾrib, pèlerinages, écritures votives et pouvoir sabéen
+
+*MYTHOS — Les origines du sacré, volume DCCVII. Étude universitaire originale ; archéologie des sanctuaires, épigraphie sudarabique, anthropologie du pèlerinage, histoire des royautés et comparaison philosophique. État bibliographique contrôlé au 5 novembre 2026.*
+
+## Résumé et position du problème
+
+À Maʾrib, dans le Yémen actuel, l’enceinte de ʾAwām — souvent appelée aujourd’hui *Maḥram Bilqīs* — se distingue moins par un symbole religieux unique que par la convergence de quatre institutions observables : le territoire du sanctuaire, les objets déposés, les inscriptions qui rendent ces dons intelligibles et les communautés qui les offrent. Le temple fut un grand lieu de culte d’ʾAlmaqah, divinité majeure de Saba. Cette affirmation est épigraphique et archéologique ; elle ne dépend ni de l’identification populaire à la reine de Saba, ni d’une reconstruction spéculative de ses rites.
+
+La question directrice est double. Comment un monument transforme-t-il un acte personnel — remercier, demander secours, acquitter une obligation — en mémoire publique durable ? Et comment cette mémoire intervient-elle dans la formation des pouvoirs et des appartenances collectives ? L’hypothèse défendue est que ʾAwām articule une économie de la relation divine et une économie de la preuve : la pierre et le bronze matérialisent des engagements, tandis que la monumentalité rend visible l’autorité d’une maison divine. Il s’agit d’une interprétation historienne ; elle ne présuppose ni que tout don est sincère, ni que toute inscription représente une pratique ordinaire.
+
+Le présent dossier distingue strictement les vestiges documentés, les lectures philologiques publiées, les rapprochements comparatifs et les inférences. Il n’attribue pas à des inscriptions non consultées des traductions littérales fictives. Les renvois aux corpora servent à contrôler les textes individuels avant toute citation ligne à ligne.
+
+## I. Un paysage historique : royaume, oasis et sanctuaires
+
+Saba fait partie des formations politiques de l’Arabie méridionale dont l’histoire se laisse retracer par l’écriture épigraphique, la géographie des oasis, les constructions et les circulations commerciales. Maʾrib en fut un centre majeur. Le paysage archéologique associe les vestiges de la ville, les ouvrages hydrauliques, les temples et les espaces de circulation. L’inscription UNESCO de 2023, « Landmarks of the Ancient Kingdom of Saba, Marib », reconnaît un ensemble de sept composants ; les sanctuaires d’ʾAwām et de Barʾān prennent sens au milieu d’un système politique et agro-hydraulique, non comme deux monuments isolés.
+
+Une erreur fréquente consiste à considérer l’oasis comme le simple arrière-plan utilitaire d’un « religieux » autosuffisant. Une autre erreur consisterait à faire de l’irrigation une explication économique exhaustive du culte. Les chaînes de travail qui rendent possible la construction et l’entretien d’une enceinte monumentale, les modalités de prélèvement sur les ressources et les institutions qui organisent les dédicaces sont certes interdépendantes ; l’on ne peut cependant les reconstituer toutes directement à partir des seuls reliefs ou des seuls textes.
+
+Les différentes phases de la culture sabéenne, étendues sur une longue durée, ne doivent pas être écrasées dans un présent intemporel. Des bâtiments peuvent avoir été réparés, des dédicaces réemployées, des fonctions déplacées. La datation d’une inscription n’est pas automatiquement celle de la fondation d’un temple ; celle d’un remblai n’est pas automatiquement celle d’un rite. Il faut toujours demander à quel état du sanctuaire chaque témoignage se rapporte.
+
+## II. Architecture de l’approche : l’enceinte, les piliers, les seuils
+
+Les fouilles de 1951-1952 par la mission de l’American Foundation for the Study of Man, racontées dans les archives exposées par le National Museum of Asian Art de la Smithsonian Institution, révélèrent, sous le sable, une salle à colonnes monumentales, des escaliers, des sculptures en bronze et en albâtre ainsi que de nombreuses inscriptions. Avant cette exploration, les extrémités de huit piliers et une partie de l’enceinte ovale apparaissaient en surface. Ce détail méthodologique compte : la physionomie du lieu fut reconstruite progressivement, et notre vision demeure conditionnée par la distribution des secteurs fouillés.
+
+L’enceinte ovale ne peut être réduite à une fortification. Elle délimite une zone qualifiée par le culte, organise l’accès et contribue à faire du parcours une expérience spatiale. À l’inverse, il serait imprudent de déduire du seul plan une succession universelle de purifications, de révélations et d’initiations. Les parcours effectifs doivent être étudiés au moyen des ouvertures, des surfaces de circulation, des aménagements, des inscriptions in situ et des changements de phase.
+
+L’étude géologique publiée par James A. Harrell en 2007 rappelle un fait essentiel : un sanctuaire est aussi un chantier. La provenance des pierres, leurs propriétés et leur sélection sont des archives de la décision technique. Le geste de délimiter une « maison du dieu » n’abolit pas le travail humain ; il en reconfigure le sens public. Les pierres ont été extraites, transportées et ajustées. Le prestige religieux ne dispense pas d’expliquer les capacités d’organisation matérielle.
+
+On peut donc distinguer trois échelles : **l’objet**, qui atteste une action précise ; **l’édifice**, qui autorise et ordonne des actions ; **le paysage**, qui relie l’édifice aux routes, aux ressources et aux populations. Une archéologie du sacré perd sa précision lorsqu’elle confond ces échelles.
+
+## III. Le nom d’ʾAlmaqah : prudence philologique
+
+Les inscriptions sabéennes identifient ʾAlmaqah comme le destinataire du culte et utilisent, selon les documents, une qualification locale du dieu. Daniel T. Potts rappelle en 2025 la formule transcrite *bʿl ʾwm*, « maître/seigneur d’ʾAwām ». La translittération est celle d’un groupe de consonnes écrit en ancien sudarabique ; la vocalisation du nom divin et de certains toponymes est une convention moderne. Le titre *bʿl* exprime ici une relation entre divinité et lieu, mais sa comparaison avec le *baʿal* de traditions nord-ouest sémitiques ne prouve ni un culte identique, ni une institution unique répandue de la Syrie au Yémen.
+
+La caractérisation d’ʾAlmaqah comme « dieu lunaire » figure dans des notices institutionnelles et une longue tradition savante. Elle n’autorise pas à interpréter toutes les inscriptions du dieu comme des liturgies lunaires. La constellation des emblèmes, les traditions iconographiques et les associations rituelles doit être évaluée dossier par dossier. La divinité que nomme la pierre n’est jamais une abstraction dont on pourrait prédire toutes les fonctions à partir d’une catégorie astrologique.
+
+La traduction en français de *« seigneur d’ʾAwām »* est une glose lexicale contrôlable ; les paragraphes de cette étude qui discutent la gratitude, la protection et la fidélité sont des analyses, non des traductions de lignes inédites. Cette distinction évite de transformer un modèle de recherche en « source primaire ».
+
+## IV. Les dédicaces : faire mémoire d’un événement, rendre un rapport visible
+
+À ʾAwām, la densité des objets et des inscriptions déposés montre que le sanctuaire n’était pas seulement un espace de réunion ; il constituait aussi un lieu d’accumulation de traces. Les dédicaces peuvent nommer des personnes, des appartenances, un destinataire divin ou des circonstances de l’offrande. Mais les corpus comportent des différences de conservation, de genre, de datation et de contexte. Il serait méthodologiquement fautif de ramener chaque dépôt à un formulaire standard ou d’utiliser les inscriptions les plus monumentales comme un sondage statistique sur l’ensemble des fidèles.
+
+La dédicace ajoute au don deux opérations spécifiques. Elle **attribue** publiquement une action à un agent et elle **prolonge** dans le temps la possibilité de reconnaître cette attribution. La relation avec le dieu cesse d’être seulement un événement oral ou fugitif : elle devient un fait inscriptionnel que d’autres lecteurs peuvent situer. La pierre assure une publicité durable sans garantir que tout le monde sache lire. L’efficacité sociale d’un texte peut passer par un scribe, un prêtre, un lecteur spécialisé ou un témoin.
+
+L’étude d’une inscription devrait toujours comprendre une fiche : support et dimensions, état des cassures, photographies, origine connue ou supposée, inventaire, paléographie, segmentation, translittération, traduction publiée, datation, lieu d’exposition et bibliographie des rééditions. Sans ces opérations, la citation d’un mot sacré risque de masquer la fragilité de son assise documentaire.
+
+Un cas instructif est l’inscription présentée par Potts dans *Arabian Archaeology and Epigraphy* en 2025, relative à un haut dignitaire et à des campagnes menées dans le « pays des Abyssins ». Elle témoigne de la possibilité d’articuler reconnaissance envers ʾAlmaqah, guerre et représentation du pouvoir. Elle possède aussi une histoire moderne de circulation marchande et de collection privée. Son étude oblige à séparer le contenu ancien, le contexte archéologique perdu ou non établi et les conditions actuelles d’accès au texte. Elle ne doit pas devenir une illustration générale de toutes les inscriptions de ʾAwām.
+
+## V. Pèlerinage : présence, circulation et temporalités
+
+La notion de pèlerinage désigne analytiquement le déplacement vers un lieu reconnu comme particulièrement pertinent pour rencontrer une puissance, accomplir une obligation ou obtenir une réponse. Appliquée à ʾAwām, elle est utile si elle demeure contrôlée par la topographie, les aménagements d’accès et les témoignages écrits. L’UNESCO évoque un parcours processionnel reliant plusieurs sanctuaires de Maʾrib. Il serait pourtant excessif de reconstruire sans preuve un calendrier annuel complet, des stations fixes pour toutes les époques ou les paroles prononcées pendant chaque procession.
+
+Le pèlerin accomplit une transformation spatiale : quitter la maison ou la communauté immédiate, suivre un itinéraire, franchir les limites du sanctuaire, accomplir un geste reconnu et repartir. Mais cette transformation n’implique pas nécessairement la séparation totale du profane et du sacré. Les marchés, les échanges de nouvelles, les affinités politiques et les obligations de parenté peuvent être présents autour de la fête. L’expérience d’une procession peut unir des personnes qui demeurent inégales quant aux ressources et aux droits.
+
+Les théories de Victor Turner sur la liminalité et la *communitas* fournissent une grille possible pour penser les passages collectifs. Elles ne sont pas une preuve que les fidèles sabéens vivaient une égalité provisoire. Ce point doit être décidé en fonction des statuts des donateurs et de la composition des pratiques observées, non par projection d’une théorie générale du rite.
+
+## VI. Qui est visible ? Royauté, dignitaires et personnes ordinaires
+
+Les inscriptions sont à la fois des données et des dispositifs de sélection sociale. Les personnes capables de commander un monument ou d’offrir un objet durable laissent plus facilement leur nom dans les corpus que celles qui participaient aux cérémonies sans acte épigraphique. Les lacunes matérielles ont donc une dimension politique. Il ne suffit pas de constater qu’un roi apparaît fréquemment pour conclure que le culte était exclusivement royal ; il ne suffit pas non plus de retrouver des donateurs non royaux pour décrire une égalité d’accès.
+
+La dédicace d’un souverain peut contribuer à construire sa légitimité : elle relie une décision politique à une puissance considérée comme supérieure aux hommes. Une inscription militaire qui remercie le dieu pour un retour sauf ne doit cependant pas être reformulée comme si l’historien constatait lui-même une intervention divine. Le texte affirme une relation de reconnaissance ; l’analyse étudie les usages de cette affirmation.
+
+Le sacré peut ainsi fonctionner comme **espace de négociation** entre différentes échelles d’autorité. La royauté cherche à parler au nom d’un collectif ; les groupes familiaux ou les notables rendent visibles leurs intérêts ; l’institution du sanctuaire maintient une mémoire qui dépasse une personne et un règne. L’historien n’a pas besoin de déclarer ces affirmations vraies ou fausses au sens théologique pour en établir les fonctions sociales.
+
+## VII. Don, contre-don et asymétrie divine
+
+Dans les sociétés humaines, la logique de l’offrande ne se résume pas à l’échange de deux marchandises. L’Essai sur le don de Marcel Mauss invite à penser la relation de prestation comme productrice d’obligations et de reconnaissance. Transposé aux dédicaces sudarabiques, ce cadre suggère d’analyser comment un acte d’offrande confirme ou réordonne une relation. La transposition comporte toutefois une limite capitale : un dieu n’est pas un partenaire économiquement symétrique et l’éventuelle réciprocité divine n’est pas mesurée par des quittances.
+
+Certaines inscriptions expriment une gratitude pour une faveur passée ; d’autres peuvent correspondre à une demande ou à l’accomplissement d’un vœu. La présence d’une offrande ne prouve donc pas un simple marché où l’humain paie et la divinité doit fournir une prestation équivalente. La durée et la publicité du dépôt peuvent elles-mêmes constituer une part essentielle de son efficacité sociale.
+
+Durkheim, dans *Les formes élémentaires de la vie religieuse* (1912), étudie le rapport entre pratiques collectives et production d’autorité symbolique. On peut éclairer par lui l’importance des assemblées et des signes de reconnaissance communs. Mais réduire ʾAlmaqah à un nom métaphorique de la société sabéenne dépasserait les preuves ; les fidèles historiques pouvaient tenir pour effective une puissance non réductible à l’ordre social. L’objet de l’historien est de respecter cette différence entre croyance attestée et modèle explicatif.
+
+## VIII. Les sources de l’histoire : ce que l’archéologie ne permet pas de dire
+
+Trois confusions doivent être évitées.
+
+**Première confusion : l’inscription et l’événement.** Une dédicace relate parfois une victoire ou une guérison ; elle atteste qu’un tel récit a été inscrit, non que tous ses détails soient vérifiés indépendamment. Une confrontation avec d’autres textes, la chronologie, la géographie et l’archéologie reste nécessaire.
+
+**Deuxième confusion : la pièce conservée et le corpus originel.** Les métaux se récupèrent, les pierres se réemploient, les objets quittent leur contexte. Les fouilles anciennes ne disposent pas toujours des enregistrements stratigraphiques exigés aujourd’hui. L’échantillon de dédicaces recueilli n’est pas nécessairement représentatif des dépôts de toute la durée d’usage.
+
+**Troisième confusion : le monument et sa mémoire récente.** Le nom *Maḥram Bilqīs*, renvoyant dans la tradition à la reine de Saba, témoigne d’une réception postérieure importante. Le récit biblique de la reine qui visite Salomon (1 Rois 10,1-13 ; parallèle en 2 Chroniques 9,1-12) et celui de la souveraine de Saba dans le Coran (sourate 27,20-44) appartiennent à leurs propres histoires textuelles. Ils ne documentent pas directement l’édification du sanctuaire ni un programme de culte à ʾAlmaqah. Les mettre en dialogue relève de l’histoire des représentations, pas de la preuve archéologique.
+
+## IX. Comparaisons contrôlées : Grèce, Mésopotamie, Égypte et Inde
+
+La Grèce offre le cas de sanctuaires fédérateurs dont les dédicaces gravées et les objets d’offrande rendent visibles des personnes, des cités et des expériences de conflit. À Delphes, l’inscription et le don peuvent participer d’une compétition entre communautés. La comparaison porte sur la **publicité votive** : elle ne postule aucune identité entre Apollon et ʾAlmaqah, ni entre les modalités de consultation oraculaire et les rites sabéens.
+
+La Mésopotamie fournit une riche documentation sur les inscriptions de fondation et les dédicaces de temples, notamment les cylindres de Gudea de Lagaš. Le point commun est le pouvoir de faire parler le bâtiment au nom d’un commanditaire. La différence est cruciale : les cylindres de Gudea relèvent d’un genre et d’un contexte politique déterminés, qui ne doivent pas être reconstruits pour Maʾrib en l’absence d’un équivalent textuel contrôlé.
+
+En Égypte, les grandes enceintes de temples et les inscriptions royales manifestent, elles aussi, un rapport entre souveraineté, ordre du monde et intervention des dieux. Les analyses de Jan Assmann sur la mémoire culturelle aident à penser le temps long des monuments. Pourtant les systèmes d’écriture, les institutions sacerdotales et les concepts du pouvoir ne se confondent pas d’une vallée à l’autre.
+
+En Inde, la présence durable d’offrandes et les circuits de pèlerinage offrent des analogies de méthode pour analyser les institutions qui organisent la rencontre des fidèles. On ne doit pas faire descendre les pratiques sudarabiques de rituels védiques sans preuve de transmission. Le comparatisme sérieux distingue analogie fonctionnelle, circulation historique démontrable et simple ressemblance iconographique.
+
+La Chine ancienne, avec les inscriptions sur bronze associées à la mémoire lignagère, invite à poser la question de la durée publique du nom du donateur. Elle rappelle en outre qu’un objet inscrit peut servir à des générations successives sans fixer à jamais le sens de son usage. Cette analogie historique n’implique aucune généalogie commune de l’écriture rituelle.
+
+## X. Vernant, Detienne, Dumézil : forces et limites des modèles
+
+Jean-Pierre Vernant a montré, pour la Grèce, que les représentations divines, les pratiques civiques et les régimes de pensée prennent sens dans leurs configurations sociales. Sa méthode conduit ici à ne pas séparer automatiquement les inscriptions religieuses de l’histoire de la cité et des pouvoirs. Marcel Detienne, par ses enquêtes sur les pratiques du sacrifice et les catégories grecques, encourage à commencer par les procédures locales plutôt que par une définition intemporelle du religieux. Cependant leurs terrains grecs ne sont pas des descriptions secondaires de Saba.
+
+La théorie indo-européenne des trois fonctions de Georges Dumézil ne doit pas devenir un outil d’attribution de fonctions à un dieu sémitique sur la seule base de ses relations au roi, à la guerre et à la prospérité. Une telle opération fabriquerait une continuité là où les preuves linguistiques manquent. Le comparatisme n’est fécond que lorsque les filiations qu’il propose peuvent être distinguées des typologies générales.
+
+## XI. Nietzsche, Hegel, Eliade et Girard : quatre interrogations, aucune clé universelle
+
+Nietzsche, notamment dans la *Généalogie de la morale*, ouvre une interrogation sur le rapport entre dette, mémoire et constitution de l’obligation. Appliquée à une dédicace, cette interrogation rappelle que remercier n’est pas seulement ressentir : c’est aussi instituer une trace, et parfois se lier devant autrui. Mais Nietzsche n’a pas décrit les archives d’ʾAwām ; il serait anachronique de transformer ses propositions généalogiques en explication directe d’un geste sabéen.
+
+Hegel permet de discuter les modes de reconnaissance et les formes de médiation institutionnelle. Il serait en revanche intenable d’imposer aux royaumes sudarabiques une place déterminée dans un schéma d’évolution de « l’Esprit » ; une telle classification hiérarchique ne remplace pas la lecture des inscriptions.
+
+Mircea Eliade aide à décrire la différence phénoménologique entre un lieu ordinaire et un lieu vécu comme centre du monde par des croyants. Sa distinction entre sacré et profane demeure heuristique si l’on n’oublie pas que les routes, les ressources et les échanges traversent ces espaces. René Girard a développé une explication du sacré par la violence et le mécanisme victimaire. Aucun inventaire de dons, aucune enceinte ovale, aucun titre d’ʾAlmaqah ne suffisent à confirmer à ʾAwām un événement sacrificiel fondateur de type girardien. L’hypothèse demanderait un dossier de preuves qui manque ici.
+
+La leçon commune de cette confrontation n’est pas de choisir un philosophe « gagnant », mais de déterminer quel genre de question chaque modèle aide à formuler et à partir de quelle source le modèle cesse d’être contrôlable.
+
+## XII. Patrimoine en danger et seconde vie des objets
+
+Le classement UNESCO du 25 janvier 2023 est intervenu dans le cadre d’une procédure d’urgence et s’accompagne d’une inscription sur la Liste du patrimoine mondial en péril. Il ne représente pas une validation de toutes les reconstructions historiques du culte. Le musée, l’inventaire épigraphique et les archives de fouilles ont ici un rôle documentaire majeur : ils permettent de préserver la connaissance lorsque les monuments, l’accès au terrain ou la provenance des objets sont menacés.
+
+La mise sur le marché d’une inscription provenant ou prétendument provenant du sanctuaire impose deux questions distinctes : que peut-on lire de l’ancienne dédicace ? que sait-on réellement de son extraction et de son parcours moderne ? La seconde peut limiter radicalement la première. L’acquisition d’une photographie ancienne ou la vérification d’un inventaire n’est pas un détail annexe ; elle peut modifier la valeur historique d’un document.
+
+Une publication scientifique responsable doit donc distinguer les objets dégagés in situ, les pièces trouvées dans les fouilles anciennes mais décontextualisées, les acquisitions de collection et les identifications conjecturales. Les images d’objets ne doivent pas être recopiées sans contrôle des droits et de la provenance.
+
+## XIII. Bilan : le sanctuaire comme archive sociale inégale
+
+ʾAwām donne un exemple particulièrement puissant d’institutionnalisation de la relation divine : un édifice durable, des parcours, des inscriptions, des donations et une mémoire politique. Il ne s’ensuit ni que la religion sabéenne était réduite à la politique, ni que toutes les communautés vivaient une expérience religieuse identique. L’enquête gagne en précision lorsque le sanctuaire est lu comme un ensemble stratifié de gestes et de traces.
+
+**Faits établis :** ʾAwām est un sanctuaire majeur d’ʾAlmaqah à Maʾrib ; sa monumentalité et ses inscriptions sont documentées ; les campagnes de fouille anciennes ont révélé objets, architecture et textes ; le bien de Maʾrib est inscrit au patrimoine mondial depuis janvier 2023.
+
+**Débats ouverts :** le détail de chaque phase architecturale ; les fonctions différenciées des espaces ; la sociologie des participants ; la place exacte des processions à différentes époques ; les rapports entre formulations votives et cérémonies orales.
+
+**Hypothèse proposée :** la publicité épigraphique transforme une relation individuelle avec le dieu en mémoire collective accessible, mais socialement sélective. Cette hypothèse est falsifiable par l’étude systématique des statuts de donateurs, des matériaux, de la provenance des objets et des variations chronologiques.
+
+## Dossier de sources primaires et protocole de lecture
+
+1. Inscriptions sabéennes de ʾAwām : consulter les fiches de la base DASI/CSAI (*Digital Archive for the Study of pre-Islamic Arabian Inscriptions*), en conservant chaque identifiant, sa transcription et sa bibliographie. La formule *bʿl ʾwm* est discutée dans Potts 2025 ; les exemples particuliers ne sont pas cités ici sans édition.
+2. Matériel et archives des campagnes 1951-1952 : Smithsonian, National Museum of Asian Art, exposition *Excavations: Awam Temple* ; confronter objets, photographie de fouille et inventaire.
+3. Réceptions littéraires à distinguer du corpus ancien : *1 Rois* 10,1-13 ; *2 Chroniques* 9,1-12 ; *Coran* 27,20-44.
+4. Enquête de provenance : identifier les témoignages modernes par dossiers d’acquisition et publication de chaque objet ; ne pas confondre leur date d’achat avec celle de leur découverte.
+
+## Bibliographie vérifiée et orientations de recherche
+
+- Smithsonian Institution, National Museum of Asian Art, « Excavations: Awam Temple », archive institutionnelle : https://asia-archive.si.edu/exhibition/awam-temple/
+- Harrell, James A., « Building and ornamental stones of the Awam (Mahram Bilqis) Temple in Marib, Yemen », *Arabian Archaeology and Epigraphy* 18/2, 2007, p. 182-192, DOI : https://doi.org/10.1111/j.1600-0471.2007.00280.x
+- Potts, Daniel T., « An Unpublished Inscription From the ʾAwām Sanctuary of ʾAlmaqah: New Evidence for a Royal *mqtwy* and Sabaean Campaigns in the ‘Land of the Abyssinians’ », *Arabian Archaeology and Epigraphy*, 2025, DOI : https://doi.org/10.1111/aae.12262
+- UNESCO, Centre du patrimoine mondial, « Hauts lieux de l'ancien royaume de Saba, Marib », dossier 1700, inscription 2023 : https://whc.unesco.org/fr/list/1700/
+- UNESCO, communiqué du 25 janvier 2023 sur l’inscription de Maʾrib : https://www.unesco.org/fr/articles/les-hauts-lieux-de-lancien-royaume-de-saba-marib-yemen-inscrits-au-patrimoine-mondial-de-lunesco
+- DASI, *Digital Archive for the Study of pre-Islamic Arabian Inscriptions*, projet dirigé par Alessandra Avanzini (catalogue de références et lectures) : https://dasi.cnr.it/
+- Simpson, St John (dir.), *Queen of Sheba: Treasures from Ancient Yemen*, British Museum Press, Londres, 2002. Ouvrage de synthèse et de catalogue, à confronter aux identifiants actuels d’inventaire.
+- Mauss, Marcel, *Essai sur le don*, *L’Année sociologique*, nouvelle série, 1, 1923-1924 [paru 1925].
+- Durkheim, Émile, *Les formes élémentaires de la vie religieuse*, Paris, Alcan, 1912.
+- Turner, Victor, *The Ritual Process: Structure and Anti-Structure*, 1969.
+- Vernant, Jean-Pierre, *Mythe et pensée chez les Grecs*, 1965 ; Detienne, Marcel et Vernant, Jean-Pierre (dir.), *La cuisine du sacrifice en pays grec*, 1979.
+- Dumézil, Georges, *Mythe et épopée*, t. I, 1968 ; Nietzsche, Friedrich, *Zur Genealogie der Moral*, 1887 ; Hegel, G. W. F., *Phänomenologie des Geistes*, 1807.
+- Eliade, Mircea, *Le sacré et le profane*, 1957 ; Girard, René, *La violence et le sacré*, 1972 ; Assmann, Jan, *Das kulturelle Gedächtnis*, 1992.
+
+*Note éditoriale : les parallèles philosophiques sont proposés comme instruments critiques, non comme sources sur les croyances sabéennes. Les indications de bibliographie secondaire ne se substituent jamais à l’édition du texte épigraphique examiné.*

@@ -256,7 +256,12 @@
     "703": "/chapitres/origines-du-sacre/703-hegra-nabateens-inscriptions-droits-tombeaux-amendes-neheme/",
     "704": "/chapitres/origines-du-sacre/704-dadan-lihyan-tombeaux-lions-epigraphie-funeraire-khuraybah/",
     "705": "/chapitres/origines-du-sacre/705-petra-nabateens-tombes-rupestres-north-ridge-inscriptions-necropolis/",
-    "706": "/chapitres/origines-du-sacre/706-khaybar-harrat-al-natah-tombes-alveolaires-stratigraphie-bronze/"
+    "706": "/chapitres/origines-du-sacre/706-khaybar-harrat-al-natah-tombes-alveolaires-stratigraphie-bronze/",
+    "707": "/chapitres/origines-du-sacre/707-marib-awwam-almaqah-pelerinage-inscriptions-pouvoir-memoire/",
+    "708": "/chapitres/origines-du-sacre/708-timna-hayd-ibn-aqil-stele-funeraires-qataban-noms-images/",
+    "709": "/chapitres/origines-du-sacre/709-ur-cimetiere-royal-puabi-pg800-pg789-pg1237-accompagnants-sacrifice/",
+    "710": "/chapitres/origines-du-sacre/710-oman-bat-al-khutm-al-ayn-hafit-umm-an-nar-tombes-tours-magan/",
+    "711": "/chapitres/origines-du-sacre/711-dilmun-bahrein-tumulus-royaux-morts-echanges-mesopotamie/"
   },
   "historical_aliases": {
     "/chapitres/origines-du-sacre/576-payer-pour-passer-tarifs-bacs-offrandes/": {
@@ -310,7 +315,7 @@
     "/chapitres/origines-du-sacre/576-payer-pour-passer-tarifs-bacs-offrandes/": "/chapitres/origines-du-sacre/annexe-576-payer-pour-passer-variante/",
     "/chapitres/origines-du-sacre/577-naufrages-secours-divins-survivants/": "/chapitres/origines-du-sacre/580-naufrages-secours-divins-survivants/"
   },
-  "last_numbered_chapter": 706,
+  "last_numbered_chapter": 711,
   "preserved_source_sha256": {
     "chapitres/origines-du-sacre/576-bacs-peages-offrandes-passage.md": "b6704b3484d0c9e0c2e80ea9bdb7e0efa7c6b9723b9b9134f3b7e09c8357e3b1",
     "chapitres/origines-du-sacre/577-monnaies-funeraires-charon-preuves-archeologiques.md": "b4a8e672fb28c90811f531e385cde4bd03aa9f8809613ca6cc8da44e78adf55b",
