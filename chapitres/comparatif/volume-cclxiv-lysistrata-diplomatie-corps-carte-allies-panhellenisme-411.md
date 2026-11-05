@@ -1,0 +1,448 @@
+# MYTHOS — Cycle comparatif universitaire — Volume CCLXIV (264)
+
+## Faire la paix sur un corps : diplomatie, mémoire panhellénique et oubli des alliés dans le dénouement de la *Lysistrata* d'Aristophane (411 av. notre ère)
+
+*Monographie universitaire autonome — 5 novembre 2026. Philologie grecque, histoire diplomatique, histoire de la démocratie athénienne, études théâtrales, philosophie politique et histoire des représentations du corps.*
+
+**Corpus principal :** Aristophane, *Lysistrata*, v. 1072–1188b (négociation), 1189–1320 environ (exodos, banquet et chants) ; pour les antécédents scéniques : v. 1–253, 387–613 et 829–1013. **Contrôles historiques :** Hérodote, *Histoires* V, 62–65 ; Thucydide, *Guerre du Péloponnèse* I, 102 ; IV, 3–41 ; V, 17–24 ; VIII, 1, 15 et 47–70. Les citations bibliographiques et renvois précis figurent en fin de chapitre.
+
+### Résumé scientifique
+
+La conclusion de la *Lysistrata* est souvent réduite à la victoire de femmes qui refusent les rapports sexuels jusqu'à la cessation de la guerre. Or ses vers diplomatiques posent un problème plus dérangeant : **comment une médiatrice peut-elle transformer une contrainte corporelle comique en accord politique, alors que les ambassadeurs se servent d'un corps féminin personnifiant la Réconciliation comme d'une carte des territoires et écartent presque aussitôt la consultation de leurs alliés ?** Le passage ne préfigure ni une institution internationale impartiale ni une libération durable des femmes. Il met en scène une concurrence entre mémoire des services rendus, exigence de paix, calcul des avantages stratégiques, appétits masculins et formalités rituelles.
+
+Ce dossier défend quatre propositions. **[A]** Lysistrata invoque des sacrifices partagés par les Grecs et deux épisodes historiques d'entraide entre Athéniens et Lacédémoniens. **[A]** Les négociateurs nomment Pylos, Échinous, le golfe Maliaque et des « jambes mégariennes » dans une scène dont la topographie est aussi obscène. **[A]** Lysistrata recommande la consultation des alliés, mais cette question est tournée en dérision par les ambassadeurs (v. 1176–1181). **[I]** Le dénouement révèle ainsi une contradiction structurelle : la paix est célébrée comme commune et fabriquée matériellement par un petit groupe qui dispose de la parole, des corps et des lieux au nom d'autres personnes.
+
+L'originalité de l'étude ne réside pas dans une réanalyse de la grève sexuelle ou de la saisie du trésor. Ces deux mécanismes ont été étudiés dans MYTHOS, volume CCI, *Du trésor sacré au gouvernement du commun*, de même que les assemblées féminines des *Thesmophories* et de l'*Assemblée des femmes*. Le présent chapitre étudie **la technologie particulière de la médiation** : gestes et discours par lesquels un conflit entre cités est rendu négociable ; l'emploi du corps de *Diallagê* comme surface territoriale ; le traitement burlesque du consentement des alliés ; le passage de l'hostilité à la communion festive. Les analyses des *Acharniens*, de *La Paix*, des *Cavaliers*, des *Guêpes*, des *Nuées*, des *Oiseaux* et de la parabase restent des points de comparaison, non des textes à résumer une seconde fois.
+
+### Protocole des preuves et avertissements
+
+**[A] Attestation :** présence explicite dans une source antique identifiée et localisée, ou existence contrôlée d'une édition ou étude moderne. Une parole de théâtre est attestée *comme parole de théâtre*, jamais comme délibération réellement tenue à Athènes. **[I] Interprétation :** conséquence argumentée des attestations, susceptible de débat. **[H] Hypothèse :** possibilité documentaire ou scénique qui n'est pas démontrée. **[P] Parallèle conceptuel :** confrontation rétrospective avec un philosophe, non influence historique. **[L] Limite :** absence de données ou désaccord textuel à conserver explicitement. Les traductions analytiques en français sont originales ; elles ne reproduisent pas de traduction moderne protégée. Les éditions commentées dont les métadonnées sont attestées ne sont pas présentées comme consultées intégralement quand elles ne l'ont pas été.
+
+## I. La situation de 411 : ce que voit une cité en guerre
+
+### 1. Une date transmise, un festival débattu [A/L]
+
+Une hypothèse antique de la *Lysistrata* situe la représentation sous l'archontat de Callias, soit en 412/411, normalement datée de **411**. Cela permet de placer l'œuvre dans la crise de la guerre ionienne, après l'échec sicilien. Cela **ne** fixe pas de façon incontestable le concours dramatique : les attributions aux Lénéennes ou aux Grandes Dionysies ont fait l'objet de discussions. L'étude d'Alan H. Sommerstein, « Aristophanes and the Events of 411 », *JHS* 97 (1977), 112–126, expose les indices et leur degré d'incertitude. Transformer l'hypothèse usuelle « Lénéennes » en donnée incontestable serait une faute méthodologique.
+
+Cette prudence a une conséquence politique. Le coup d'État des Quatre-Cents eut lieu en 411, mais il serait téméraire d'attribuer à une scène donnée une allusion directe à un événement postérieur au moment exact de sa représentation, si ce moment est discuté. La pièce appartient à un environnement de défaite, de désaffection des alliés et d'angoisse institutionnelle ; elle ne sert pas de chronique datée de chaque semaine de la révolution oligarchique.
+
+### 2. La Sicile ne produit pas automatiquement le pacifisme [A/I]
+
+Les livres VI–VII de Thucydide décrivent l'expédition et sa destruction ; le livre VIII inscrit les décisions athéniennes dans une situation financière et stratégique inédite. Les cités alliées ne forment pas une masse consentante ; certaines se soulèvent ou négocient ailleurs. La perspective d'une paix modifie donc les intérêts des alliés autant que ceux des puissances dirigeantes. Aristophane ne transforme pas cette situation en mémoire militaire exhaustive. Sa comédie simplifie pour faire surgir, au milieu de la catastrophe, une possibilité presque impossible : un accord décidé en quelques échanges.
+
+L'objet de cette monographie n'est pas de décider si Aristophane était partisan d'un traité précis avec Sparte. L'œuvre ne donne ni projet de décret, ni liste des négociateurs réels, ni répartition détaillée des concessions. Le texte fabrique un **contretemps comique** : la vitesse de l'accord final vient contredire l'obstination des vingt années de guerre.
+
+### 3. Avant la médiation : l'Acropole et le droit de gérer les ressources [A]
+
+La coalition féminine maîtrise fictivement l'Acropole et les ressources susceptibles de financer la guerre ; le magistrat réclame de l'argent pour la flotte dans les v. 387–613. L'enjeu institutionnel n'est pas seulement érotique : contrôler le trésor rend possible d'empêcher l'opération militaire. Thucydide VIII, 15, 1 fait état de la réserve extraordinaire de mille talents à laquelle les Athéniens recoururent durant la crise ; rapprocher ce contexte du drame est pertinent, mais identifier Lysistrata à une responsable historique déterminée demeure hypothétique.
+
+Le rapprochement entre Lysistrata et Lysimachè, prêtresse d'Athéna Polias, est étudié par Peter Thonemann, « Lysimache and Lysistrata », *JHS* 140 (2020), 128–142. L'argument n'est pas que le document antique nommerait la prêtresse derrière le masque comique : il propose une interprétation contextuelle de l'usage du trésor et du sanctuaire. Nous ne reprenons pas ce débat déjà analysé dans le volume CCI ; il situe simplement la condition matérielle qui rend le dénouement négociable.
+
+### 4. Pourquoi la dernière scène mérite une monographie autonome [I]
+
+Les vers 1072–1188b changent d'échelle. L'intrigue initiale visait à interrompre des pratiques masculines ; le dénouement prétend répartir des terres, restituer des positions, faire entrer des peuples dans une paix et recevoir des serments. Ce passage constitue une **miniature de diplomatie**, où le langage obscène ne remplace pas le langage politique : il le déforme et le rend visible.
+
+L'analyse est donc déplacée de la question « les femmes peuvent-elles gouverner ? » vers « **qui peut engager des cités et leurs alliés, et que vaut un consentement obtenu sous contrainte ?** ». Ces questions sont liées, mais non identiques. Elles justifient une nouvelle étude sans recycler le dossier antérieur.
+
+## II. Philologie de la médiation : *Diallagê*, discours, serment
+
+### 5. La paix n'a pas un seul mot grec [A/I]
+
+*Eirênê* (εἰρήνη) désigne la paix ; *spondai* (σπονδαί) renvoie à des libations et, selon le contexte, aux accords ou trêves qui en reçoivent la garantie. *Diallagê* (Διαλλαγή) appartient à la famille du rapprochement, de la réconciliation et de l'arrangement ; elle est également le nom de la figure scénique appelée auprès des négociateurs aux v. 1112 et suivants. Ces catégories ne se substituent pas l'une à l'autre. Être réconcilié sur scène, offrir des libations et mettre fin à une guerre sont des opérations distinctes que la comédie condense.
+
+Cette condensation produit un problème logique. L'envoyé lacédémonien se présente comme ambassadeur de la réconciliation (v. 1100–1102), mais ses intérêts ne sont pas nécessairement équivalents à ceux des citoyens, des alliés ou des populations dominées. Le terme de rapprochement a une dimension relationnelle ; il n'abolit pas la conflictualité des intérêts.
+
+### 6. Une figure allégorique, mais quel corps au juste ? [A/H]
+
+Une figure féminine nommée Réconciliation intervient dans l'action et sert de point de référence tactile et visuel pour les envoyés. Dans la plupart des lectures et mises en scène, elle apparaît comme un corps dénudé, présenté comme objet du désir des hommes et cartographie grotesque de leurs demandes. La pièce était jouée dans une pratique de rôles féminins confiés à des acteurs hommes ; **la forme exacte du costume, la nudité représentée ou simulée, l'éclairage et les gestes** ne peuvent cependant être restitués directement de façon photographique pour 411.
+
+Il importe donc de séparer : **[A]** une personnification dramatique de la réconciliation ; **[A]** des plaisanteries anatomiques et territoriales ; **[I]** la représentation du corps comme carte ; **[H]** la matérialité précise du vêtement, de la prothèse et des gestes. Une édition ou un spectacle moderne qui montre une nudité réelle n'est pas une preuve archéologique d'un même dispositif antique.
+
+### 7. L'appel du chœur : fabriquer une arbitre impossible [A/I]
+
+Au v. 1108 et suivants, le chœur appelle Lysistrata à conjuguer des qualités opposées : fermeté et souplesse, force et modestie, compétence et capacité de ménager autrui. La multiplicité contradictoire des épithètes remplace la définition d'une fonction. La médiatrice idéale devra tenir ensemble des intérêts incompatibles plutôt que réciter une règle déjà acceptée par tous.
+
+Ce portrait fait de la médiation une performance : le droit de parler au nom des adversaires est **produit sur scène** par la reconnaissance que lui prêtent ceux qui n'acceptaient pas auparavant son autorité. La fonction diplomatique n'est donc pas conférée par une élection de l'Assemblée historique. Elle surgit des nécessités de l'intrigue et de l'impuissance des diplomates masculins.
+
+### 8. Le geste qui accueille : hospitalité et contrainte [A/I]
+
+Lysistrata demande que les envoyés soient amenés sans brutalité, mais la scène autorise un geste obscène pour attirer ceux qui refusent de donner la main (v. 1112–1121). Hospitalité et contrainte sont nouées dans la même instruction. L'allégorie n'est pas pure abstraction : elle travaille sur les résistances matérielles d'individus qui ne souhaitent pas abandonner leur désir.
+
+L'ambivalence interdit de convertir la scène en modèle moderne de négociation non coercitive. Elle montre plutôt l'écart entre la politesse proclamée et l'instrument utilisé. Le corps, censé instituer la confiance, peut être réduit à un moyen de capturer le consentement.
+
+### 9. « Je suis une femme, mais j'ai de l'esprit » : une preuve paradoxale [A/I]
+
+Aux v. 1122–1127, Lysistrata affirme sa qualité de femme et son aptitude au jugement. Elle fonde son discernement sur sa capacité propre et sur les discours entendus de son père et de personnes plus âgées. La revendication intellectuelle est donc insérée dans une mémoire patriarcale ; elle ne dit pas que l'expérience féminine serait une essence supérieure qui remplacerait toute éducation.
+
+Le raisonnement a deux faces. Il réfute l'exclusion automatique de la femme du champ de la raison ; mais il demande reconnaissance à l'aide de formes de transmission qui restaient socialement dominées par les hommes. C'est une **stratégie rhétorique de crédibilité**, non une définition anthropologique intemporelle des sexes.
+
+### 10. Les verbes de l'échange : accorder et consulter [A]
+
+Le dénouement distingue les actions d'accorder, de céder, de débattre, de s'adresser aux alliés et de garantir par serment. La scène n'énonce pas une constitution fédérale ; elle met pourtant en contact des pratiques nécessaires à tout compromis. Une cession de territoire n'a pas la même portée qu'un partage d'opinion, et un serment commun n'est pas automatiquement l'assentiment de ceux qui n'ont pas été consultés.
+
+La traduction exige ici de conserver les différences : la réconciliation de personnes, la restitution d'un lieu, la délibération et la ratification sont quatre stades qu'une paraphrase « ils signent la paix » efface. L'étude du micro-vocabulaire explique pourquoi le rire final peut rester politiquement troublant.
+
+## III. Mémoire commune contre guerre commune : le discours panhellénique
+
+### 11. Une communauté rituelle sans État panhellénique [A/I]
+
+Au centre du reproche adressé aux deux camps, Lysistrata rappelle les autels où les Grecs accomplissent des rites apparentés : Olympie, les Pyles (Thermopyles), Pythô/Delphes et d'autres sanctuaires (v. 1128–1135). L'image repose sur une participation cultuelle partagée, non sur l'existence d'une assemblée unique des Grecs. Une communauté de pratiques ne se confond pas avec une souveraineté politique institutionnalisée.
+
+L'argument n'est pas « puisque vous avez les mêmes dieux, vous appartenez déjà à un même État ». Il dit plutôt : la violence entre communautés qui savent se reconnaître rituellement révèle un **défaut de cohérence morale** dans leur conduite. Le sanctuaire sert de mémoire de liens que l'intérêt militaire a rendus inopérants.
+
+### 12. *Xyngeneis* : la parenté comme ressource rhétorique [A/I]
+
+La comparaison des participants aux rites à des parents mobilise le vocabulaire de la proximité grecque. Cette parenté n'est pas une généalogie prouvant l'identité de toutes les cités. Elle donne au reproche une force affective : tuer des semblables est plus absurde que combattre des étrangers indifférenciés.
+
+Le terme ouvre également une difficulté. Si l'obligation de paix découle de la parenté supposée, qu'advient-il des personnes non rangées parmi les parents ? Cette limite fait partie de la thèse, non d'une objection qu'il faudrait effacer. Le panhellénisme comique n'est pas un universalisme politique pleinement constitué.
+
+### 13. L'« ennemi barbare » : l'unité se construit par son dehors [A/I]
+
+Le discours invoque la présence d'adversaires qualifiés de barbares alors que les cités grecques se détruisent mutuellement. La stratégie est historiquement située : les guerres médiques alimentent les souvenirs communs, et la guerre ionienne se déroule dans un système où la Perse soutient, finance ou influence certains acteurs. Mais l'usage scénique du dehors « barbare » ne permet pas de conclure à une coalition panhellénique réalisable et voulue par tous les Grecs de 411.
+
+Il faut résister au séduisant anachronisme d'une « Europe » opposée à une « Asie » identitaires. Le mot *barbaros* n'est ni un nom d'État moderne ni une description ethnique stable. L'argument de Lysistrata exclut au moment même où il unit : une **paix entre frères** peut préparer un autre front de guerre.
+
+### 14. Parenté rituelle et empire athénien [A/I]
+
+Les Grecs qui fréquentent les mêmes sanctuaires n'ont pas les mêmes moyens militaires ni la même puissance fiscale. Les membres dépendants de l'empire athénien connaissent les contraintes de tribut et de contrôle ; la domination lacédémonienne sur la Messénie constitue un autre système d'asymétrie. Un simple appel à la solidarité religieuse ne suffit donc pas à organiser la fin des violences.
+
+Cette tension explique la valeur du v. 1176 : **l'avis des alliés** réapparaît comme une question juridique et politique que le discours sur la fraternité tendait à simplifier. Les alliés n'ont pas été rassemblés autour des autels pour confirmer un traité imaginaire ; l'image rituelle n'absorbe pas leurs intérêts.
+
+### 15. Un passé montré comme réserve de dette [I]
+
+Le récit de Lysistrata construit une économie de prestations : vous vous êtes autrefois aidés ; en ravageant désormais vos anciennes terres alliées, vous manquez à la réciprocité. Ce n'est pas une preuve déductive de l'opportunité d'un traité. C'est une **technique de désamorçage** de l'hostilité présente par le rappel de l'obligation ancienne.
+
+La dette politique diffère de la dette privée : les bénéficiaires et les payeurs ont changé de générations, les cités ne sont pas des individus continus, et les responsabilités ne passent pas mécaniquement d'un ancêtre à chaque descendant. La comédie passe précisément sur ces ruptures : le temps long permet au médiateur de fabriquer une dette immédiatement exigible.
+
+## IV. Deux services historiques : le vrai, le sélectif et le comique
+
+### 16. Sparte et la fin des Pisistratides [A]
+
+Lysistrata rappelle aux Athéniens un secours lacédémonien contre le régime d'Hippias. Le dossier historique d'Hérodote V, 62–65 associe l'intervention spartiate à l'action des Alcméonides et de Delphes, à une première expédition malheureuse, puis à l'armée menée par Cléomène. L'expulsion des tyrans n'est donc pas, chez Hérodote, le simple don spontané d'une liberté athénienne par un bienfaiteur unique.
+
+La médiatrice sélectionne le fait diplomatiquement utile : **des Lacédémoniens ont combattu pour libérer Athènes**. La sélection n'est pas pure invention, mais elle atténue les conditions, les intérêts et les acteurs multiples de l'événement. Une comparaison intertextuelle doit laisser subsister cette différence entre mémoire persuasive et narration historiographique.
+
+### 17. Cimon à l'aide des Lacédémoniens [A]
+
+La réponse symétrique évoque l'appel désespéré de Sparte en difficulté devant la révolte des populations dominées, après un séisme, et l'arrivée de Cimon avec une force athénienne donnée comme quatre mille hoplites (v. 1137–1146). Thucydide I, 102 décrit l'envoi de l'expédition athénienne pour aider au siège et précise que les Lacédémoniens renvoyèrent finalement les Athéniens, tout en gardant les autres alliés, par inquiétude politique.
+
+La scène condense l'événement dans l'image d'un salut de la Laconie. Thucydide documente aussi le désaccord qui suivit. Ce n'est donc pas l'archive d'une alliance sans nuage : la comédie choisit **le moment de l'aide** et laisse à l'arrière-plan l'humiliation du renvoi.
+
+### 18. Pourquoi l'asymétrie est décisive [I]
+
+Le même récit veut produire deux obligations réciproques. Pourtant, l'intervention spartiate dans la chute des tyrans et la campagne de Cimon contre la révolte messénienne ne sont ni des opérations identiques ni des expériences équivalentes pour les populations concernées. Les Athéniens affranchis d'une tyrannie et les hilotes soumis à un ordre servile n'occupent pas la même place morale.
+
+Un discours de réconciliation qui parle uniquement des « deux grands peuples » efface ces tiers. La mémoire historiquement contrôlée ne diminue pas la puissance du reproche de Lysistrata ; elle révèle à quel prix le théâtre peut fabriquer une **histoire utilisable**.
+
+### 19. Qui a été « sauvé » ? [I/L]
+
+Dire qu'une intervention « sauva » une cité demeure ambigu : a-t-elle sauvé ses institutions, un régime, une population libre, une domination sur une population non libre ? Les quatre réponses ne sont pas interchangeables. Il n'est pas nécessaire d'attribuer cette objection moderne à Aristophane ; elle fait partie de la critique des catégories qu'un lecteur historien applique au matériau antique.
+
+L'historien peut attester l'intervention, l'intention vraisemblable et le récit de ses suites. Il ne peut pas attribuer un consentement unanime aux personnes absentes des textes. La sauvegarde de l'ordre spartiate et la sauvegarde d'habitants de Messénie ont pu être des intérêts contraires.
+
+### 20. Discours historique ou invective de négociatrice ? [I]
+
+Lysistrata revendique le droit de réprimander les deux camps. Son impartialité est principalement **performative** : elle parle aux uns, puis aux autres, et invoque contre chacun son propre passé. Ce geste est remarquable, car il refuse de fixer toute la responsabilité sur un seul adversaire. Mais l'impartialité du ton ne garantit pas celle des effets.
+
+L'intervention n'évalue pas symétriquement le tribut, le statut des hilotes, la souveraineté des alliés et les pertes civiles. Elle fait ce qu'un médiateur dramatique peut faire en quelques vers : construire un terrain de honte partagée assez efficace pour autoriser la négociation. C'est une force de la comédie et la limite d'une politique fondée sur cette comédie.
+
+## V. La paix sur la peau de *Diallagê* : corps et topographie
+
+### 21. Déplacement de l'argument : la carte succède à la mémoire [A/I]
+
+Après l'appel au passé, les envoyés passent à des demandes concrètes. La vertu des ancêtres ne suffit pas ; il faut nommer les lieux. Le changement de registre intervient autour des v. 1159–1172. L'héroïne ne peut imposer une paix simplement au moyen d'une leçon. Elle doit organiser l'échange des possessions.
+
+L'image scénique de la carte corporelle fait cohabiter deux réalités : des territoires stratégiques existants et une personne féminisée offerte au regard des délégués. La séparation moderne entre corps privé et frontière publique est ici délibérément suspendue, non parce que les Grecs ignoraient toute distinction, mais parce que le genre comique transforme une négociation en scène obscène.
+
+### 22. Pylos, un nom géographique lourd de guerre [A]
+
+La demande lacédémonienne porte expressément sur Pylos (v. 1162–1165). Thucydide IV, 3–41 raconte l'installation athénienne à Pylos, les combats autour de Sphactérie, la capture de soldats lacédémoniens et l'importance de la base pour les Messéniens. Au chapitre IV, 41, les envoyés spartiates cherchent précisément à reprendre Pylos et les prisonniers ; la cité athénienne négocie alors plus durement.
+
+Dans la pièce, Pylos n'est donc pas un site choisi au hasard pour produire une équivoque sexuelle. Il condense une humiliation militaire spartiate, une pression sur la Laconie et la question des Messéniens. Ce dernier élément disparaît facilement d'une lecture réduite au face-à-face entre Athènes et Sparte.
+
+### 23. La concession de Pylos n'est pas un traité de 411 [A/L]
+
+Lysistrata invite l'Athénien à céder ; celui-ci oppose d'abord une protestation. **Le texte comique atteste la négociation fictive, pas la cession historique de Pylos à cette date.** La comédie ignore les procédures et calendriers véritables d'un règlement diplomatique. Le lecteur ne doit pas convertir la trajectoire d'une scène de dix minutes en chronologie des événements militaires.
+
+La comparaison avec Thucydide est particulièrement instructive : un conflit réel dont les envoyés ont longtemps porté la demande revient sur la scène comme la pièce immédiatement négociable d'une réconciliation dont la motivation corporelle rend chaque jour moins supportable l'attente.
+
+### 24. Échinous et le golfe Maliaque : un inventaire qui n'est pas un plan [A/L]
+
+Aux v. 1168–1170, l'Athénien réclame notamment Échinous et le golfe Maliaque. Le toponyme *Echinous* renvoie à une localité du secteur maliaque ; le sens précis de certaines allusions géographiques, de leur forme et de leur adéquation à des détails du corps demeure débattu par les commentateurs. Le texte ne fournit pas une carte cadastrale ; il dispose une série de noms pour leurs effets de sonorité, de topographie et de double sens.
+
+L'analyse philologique doit identifier les mots **avant** de proposer des équivalences anatomiques. On peut démontrer que les interlocuteurs jouent de la géographie et du désir ; on ne peut pas garantir que chaque spectateur athénien projetait sur chaque toponyme un organe ou une frontière déterminés.
+
+### 25. Les « jambes mégariennes » : territoire, anatomie et équivoque [A/I]
+
+Le passage ajoute une désignation associant Mégare à des *skelê*, terme dont le sens de « jambes » nourrit le comique spatial (v. 1170–1172). Le renvoi aux « Longs Murs » ou à la topographie mégarienne peut être examiné, mais il serait prudent de ne pas fixer une identification unique sans discuter les éditions et le contexte. Lysistrata intervient pour empêcher la querelle sur ces jambes.
+
+La médiatrice agit alors moins comme cartographe que comme arbitre du **trop de précision** : chaque point du corps-territoire risque de rouvrir la dispute. Le dénouement ne nie pas la réalité matérielle des frontières ; il les soumet à une échelle de négociation où l'urgence du désir rend extravagante la persévérance des prétentions.
+
+### 26. Le corps féminin comme support, et non comme délégué [I]
+
+La Réconciliation ne reçoit pas une parole équivalente à celle des hommes qui désignent les territoires. Son corps sert de surface commune tandis que les ambassadeurs disposent des noms, des décisions et des objets de désir. Une telle asymétrie donne à voir un paradoxe du succès féminin : **une femme organise l'accord ; une autre figure de femme est utilisée comme chose négociée**.
+
+Il ne faut pas les confondre. Lysistrata possède le langage et l'initiative dramaturgique ; *Diallagê* est la ressource symbolique sur laquelle se matérialise la transaction. La comparaison entre leurs rôles éclaire davantage la distribution scénique de l'agence qu'une étiquette globale « pro-féministe » ou « misogyne ».
+
+### 27. Peut-on parler d'objectification ? [P/L]
+
+Le concept d'objectification est moderne. Il fournit néanmoins une grille descriptive circonscrite : une figure féminine est envisagée en fonction des désirs et revendications d'autres personnes, sans consentement verbal équivalent. Cela ne prouve pas que les spectateurs de 411 partageaient une théorie moderne du regard masculin ni que la pièce aurait un seul effet idéologique.
+
+La discussion contemporaine oppose des évaluations de l'humour obscène : François Pauw (2014/2015) insiste sur sa fonction carnavalesque et la fiction dramatique ; M. Lambert (2018/2019) réexamine les problèmes du regard, du genre et de l'usage du corps dans la scène de réconciliation. Il faut rapporter ces positions comme **débat de réception**, non comme des témoignages directs du public du Ve siècle.
+
+### 28. La scène est-elle radicale ou réparatrice ? [I]
+
+Deux lectures sont possibles sans qu'il faille en choisir arbitrairement une seule. **Lecture critique :** la scène dévoile la réduction du territoire à l'appétit des gouvernants et du corps féminin à la matière d'une transaction. **Lecture restauratrice :** la même scène ramène la paix, la fête et la réunion des couples, sans mettre en cause durablement les frontières du pouvoir civique masculin.
+
+Le mécanisme comique autorise leur coexistence. Le fait qu'une femme reçoive une autorité exceptionnelle n'implique pas que l'ordre ancien doive être juridiquement aboli ; le fait que la fin rétablisse l'ordre n'empêche pas que le rire ait provisoirement révélé l'arbitraire de ses exclusions.
+
+## VI. La question décisive : les alliés absents
+
+### 29. Lysistrata exige de consulter les alliés [A]
+
+Après le marchandage territorial, Lysistrata enjoint aux délégués de réfléchir et d'aller soumettre l'affaire à leurs alliés (v. 1175–1177). C'est peut-être l'énoncé institutionnel le plus important de toute la fin : les deux grands protagonistes ne sont pas les propriétaires exclusifs de la guerre ni des obligations qu'une paix distribue.
+
+La phrase rappelle que la cessation des hostilités implique plus de voix que celles des maîtres de la scène. Dans un système d'alliances hétérogènes, la consultation n'est pas une formalité ornementale. Elle concerne les obligations de campagnes, de tribut, de soutien et de renoncement.
+
+### 30. La réponse des envoyés convertit la procédure en désir [A]
+
+Les interlocuteurs écartent aussitôt la consultation en affirmant, sur le registre obscène, que leurs alliés partageront le même désir (v. 1178–1181). C'est un tour de force dramatique : la garantie de l'accord cesse d'être politique et devient une hypothèse de communauté corporelle. Chacun prête aux absents son propre appétit.
+
+Le point mérite une lecture au plus près. La médiatrice pose un problème de **représentation** ; les négociateurs répondent par une **projection**. Ils ne demandent pas aux alliés ce qu'ils préfèrent. Ils affirment savoir d'avance ce qu'ils voudront, parce que leur désir individuel leur paraît universel. La contradiction n'est pas accidentelle : elle est le ressort même du rire.
+
+### 31. L'universalité du besoin n'est pas l'universalité de la volonté [I]
+
+Deux individus peuvent éprouver un besoin comparable sans partager des objectifs politiques. Une cité alliée peut souhaiter la paix tout en refusant qu'une garnison lui soit imposée, qu'un tribut reste dû ou que son territoire soit échangé. Supposer une équivalence entre désir de retour à la vie ordinaire et adhésion à un arrangement concret revient à effacer le contenu institutionnel du consentement.
+
+Le texte dramatique fabrique une adhésion imaginaire parce qu'il ne peut réunir toutes les cités. Mais l'effet de cette économie théâtrale est philosophiquement significatif : la **simplification comique** montre comment le langage du bien commun peut tenir lieu de consentement des intéressés.
+
+### 32. Qui étaient les alliés, au juste ? [A/L]
+
+Il n'existait pas une liste homogène d'« alliés grecs » interchangeables. Athènes gouvernait un ensemble où se superposaient liens d'alliance, contributions, dépendances et révoltes. Sparte dirigeait une coalition de cités au statut propre. La guerre rendait leurs intérêts mouvants, parfois hostiles à ceux des puissances centrales. Thucydide VIII décrit une partie de ces fractures pendant la crise ionienne.
+
+Le passage n'identifie pas les porte-parole de chaque communauté ; sa plaisanterie ne vaut donc pas déclaration de politique étrangère effective des acteurs historiques. Ce silence renforce cependant notre question : **qui reste dehors quand deux puissances disent faire la paix « pour tous » ?**
+
+### 33. Les Messéniens, tiers de Pylos [I]
+
+Pylos permet d'observer concrètement l'exclusion. Thucydide IV, 41 montre que des Messéniens installés à Naupacte participent aux opérations depuis Pylos et que cette base est importante pour leurs rapports à la Laconie. Une concession entre Athènes et Sparte peut donc avoir des effets sur des personnes qui ne figurent pas parmi les deux délégations comiques.
+
+Lysistrata parle d'entente grecque ; la géographie révèle un conflit qui n'est pas seulement inter-civique, mais aussi travaillé par les rapports de domination et d'asservissement. Notre lecture rend ce **tiers absent** visible sans prétendre qu'Aristophane aurait organisé un exposé abolitionniste sur l'hilotisme.
+
+### 34. L'exemple de Carystos [A/I]
+
+Les envoyés citent les Carystiens dans l'échange plaisant sur les alliés (v. 1181). La mention est à la fois une allusion politique et un effet comique. Elle ne constitue pas la preuve que les habitants de Carystos auraient officiellement donné mandat aux Athéniens pour cet accord fictif. Le nom propre rend l'imposture plus frappante : une communauté identifiable entre dans le raisonnement sans jamais comparaître comme personne collective capable de parler.
+
+Le mécanisme est distinct du simple effacement anonyme. Nommer un allié peut donner une **impression de prise en compte** tout en gardant le monopole de sa représentation. L'allusion suffit à l'illusion d'universalité et ne fournit pas le moindre procès-verbal d'adhésion.
+
+### 35. Le traité des hommes et le serment des femmes [A/I]
+
+La scène finale ne se contente pas de poignées de main : Lysistrata prévoit un accueil, des purifications et des garanties mutuelles par serment (v. 1182–1185). Les femmes conservent pour un moment la gestion de l'hospitalité ; les hommes promettent de s'accorder et de rentrer. La comédie replace les pouvoirs féminins exceptionnels à la charnière d'une procédure.
+
+Les serments donnent un sens plus ferme au rapprochement que le seul désir. Mais le texte ne décrit pas les conditions d'exécution, les sanctions, les arbitres futurs ni le sort des alliés. La dramaturgie **produit la garantie en spectacle**, pas la longue architecture juridique d'une paix réelle.
+
+### 36. Consentement sous contrainte : une aporie plutôt qu'une solution [I]
+
+Les hommes négocient parce qu'une stratégie de privation affective et sexuelle les y pousse. Cela ne suffit pas à invalider tout compromis : les guerres se terminent souvent sous pression matérielle. Mais il serait également naïf de lire la scène comme une démonstration de consentement libre. Le ressort comique contient une contrainte dont l'intensité est exagérée.
+
+Une comparaison conceptuelle avec la théorie moderne de la négociation permet de distinguer **accord obtenu**, **volonté non forcée**, **justification publique** et **inclusion des tiers**. La pièce réussit le premier à ses propres conditions ; elle ne remplit pas nécessairement les trois autres. Cette distinction ne doit pas être attribuée au vocabulaire des Athéniens.
+
+## VII. Chœur, banquet et musique : comment fabriquer une fin commune
+
+### 37. Le banquet comme second traité [A/I]
+
+La scène prescrit une réception avec la nourriture conservée par les femmes et prévoit des échanges de promesses. Le banquet est plus qu'une récompense comique : il rassemble des corps qui se trouvaient auparavant face à face comme soldats ou adversaires. La convivialité stabilise temporairement une relation dont les règles écrites sont demeurées allusives.
+
+Ce n'est pourtant pas un mécanisme de représentation universelle. Les personnes admises au banquet ne sont pas identiques à toutes celles qui ont subi la guerre. La fête a une politique de l'intérieur et de l'extérieur : elle rapproche les convives, mais ne fait pas nécessairement de tous les absents des participants.
+
+### 38. Une hospitalité qui se donne et se retire [A/I]
+
+Dans les séquences chorales autour du dénouement, les promesses d'offrir biens, nourriture et accès au foyer sont travaillées par des retournements plaisants. L'invitation exhibe l'abondance puis fait sentir les conditions ou les limites de la générosité. Ce jeu s'accorde avec l'économie diplomatique de la pièce : la réciprocité s'affirme dans une parole dont la littéralité est aussitôt fragilisée.
+
+La morale d'une « communauté sans réserve » serait donc trop simple. Les objets de la fête — vêtements, nourriture, portes et récipients — prolongent le dossier du trésor et des territoires : ils rendent sensible la différence entre **ce qu'on prétend partager** et **ce que l'on met réellement à disposition**.
+
+### 39. Après le discours, les dialectes chantent [A]
+
+La dernière partie fait entendre le dialecte lacédémonien et des chants distinctifs ; le chœur évoque des figures et souvenirs héroïques, notamment les combats contre les Perses (v. 1247–1268) et des divinités associées aux festivités. La proximité des ennemis se donne ici sous une forme sonore. L'altérité ne disparaît pas : les voix demeurent reconnaissables.
+
+Cela est plus subtil qu'une simple fusion dans un langage unique. Une paix musicale peut reposer sur la **coordination de différences** sans leur abolition. Le texte grec dramatise l'écart entre les tours doriens et attiques ; ses graphies sont des conventions comiques de caractérisation dialectale, pas des transcriptions acoustiques exhaustives du parler spartiate.
+
+### 40. Philologie de la « voix spartiate » [A/L]
+
+Les formes dialectales associées aux messagers lacédémoniens sont importantes pour la scène : elles peuvent faire rire, donner du relief aux revendications et éviter de confondre les locuteurs. Il serait pourtant périlleux de les traiter sans réserve comme un enregistrement d'un Spartiate réel en 411. Aristophane écrit du dorien scénique dans un milieu d'énonciation attique ; l'orthographe et la transmission manuscrite affectent ce que nous lisons.
+
+Jeffrey Henderson, dans son édition commentée de la *Lysistrata* (Oxford, Clarendon Press, 1987), traite précisément les problèmes du dialecte spartiate. Une interprétation linguistique de détail doit se reporter à cette édition et à l'apparat ; notre analyse ne reconstitue pas une phonologie complète à partir de quelques plaisanteries.
+
+### 41. Artémision et Léonidas : mémoire d'une défense partagée [A/I]
+
+Le chant des Lacédémoniens rappelle les combats des Athéniens près de l'Artémision et celui de Léonidas contre les Perses (v. 1247–1262, selon la segmentation courante). Le rappel produit une réponse musicale au discours de Lysistrata sur la parenté rituelle. D'un côté, les sanctuaires communs ; de l'autre, une tradition de guerre contre l'ennemi extérieur.
+
+La composition est sélective. Les guerres médiques contiennent des alliances variables et des divergences stratégiques ; elles ne furent pas un récit homogène de coopération. Le chant **construit une mémoire commune** par montage des épisodes glorieusement compatibles.
+
+### 42. L'unité sans disparition de l'ennemi [I]
+
+Le thème musical final peut être entendu comme une promesse : les mêmes Grecs peuvent célébrer leurs exploits plutôt que leur guerre civile. Toutefois, son contenu défend la gloire de victoires armées ; la violence n'est pas abolie de l'horizon moral. Elle est réorientée vers une mémoire valorisée.
+
+Une étude strictement pacifiste du dénouement manque ce trait. Le passage demande la cessation d'une guerre particulière entre Grecs plus clairement qu'il ne condamne **toute guerre sans condition**. L'opposition entre solidarité panhellénique et adversaire « barbare » laisse cette ambiguïté ouverte.
+
+### 43. L'entrée en danse est-elle une ratification ? [I/L]
+
+La danse et le chant donnent à l'accord une apparence publiquement perceptible ; le spectacle les fait coïncider avec la fin de la comédie. Mais aucune source n'autorise à prendre la chorégraphie comme ratification institutionnelle formelle par des assemblées citoyennes. La fiction peut symboliser ce qu'une procédure diplomatique réelle aurait exigé autrement.
+
+Le dénouement substitue donc la **conclusion rituelle et esthétique** à la complexité historique. La comédie ne cache pas nécessairement ce remplacement : le public connaît l'écart entre le monde de la scène et le monde où la guerre se poursuit.
+
+### 44. Le retour des couples : une victoire qui se referme [A/I]
+
+À la fin de la négociation, chaque homme est invité à reprendre sa femme et à rentrer (v. 1186–1187). L'agencement devient symétrique et domestique. La grève a produit un résultat public, mais son succès peut s'accomplir dans la disparition de la coalition féminine exceptionnelle.
+
+Cette clôture n'annule pas l'intelligence de Lysistrata. Elle rappelle qu'une intrigue peut confier provisoirement à des personnes exclues de la décision une compétence décisive, puis renvoyer la décision ordinaire à ceux qui en étaient auparavant les détenteurs. L'émancipation scénique n'est pas automatiquement une nouvelle constitution.
+
+## VIII. Comparaisons internes à Aristophane : continuité sans répétition
+
+### 45. *Acharniens* : l'accord privé contre la paix publique [I]
+
+Dans les *Acharniens* de 425, Dicéopolis parvient à fabriquer une paix personnelle en dehors de la communauté politique. La transgression porte sur la légitimité d'un citoyen à se soustraire à une décision commune. Dans la *Lysistrata*, au contraire, la médiatrice prétend transformer la conduite de deux ensembles de cités. Le déplacement va **de la sécession à la médiation**.
+
+Comparer les deux n'implique pas de réécrire le dossier MYTHOS déjà consacré à la diplomatie privée. L'enjeu nouveau est l'inversion du problème de représentation : Dicéopolis est trop individuel pour engager les autres ; les ambassadeurs de la *Lysistrata* se comportent comme s'ils pouvaient engager trop facilement des absents.
+
+### 46. *La Paix* : libérer une puissance figurée, négocier un corps [I]
+
+Dans *La Paix* (421), l'opération dramatique passe par la délivrance d'une Paix personnifiée et par la restauration joyeuse d'activités agricoles, festives et économiques. La *Lysistrata* emploie elle aussi l'allégorie, mais la confie à une médiatrice qui organise un marchandage géographique. La première comédie élargit les bénéfices du retour à la vie ; la seconde concentre l'attention sur **qui consent aux clauses** et **qui sert de surface au partage**.
+
+Ces constats ne signifient pas qu'une pièce est politiquement « plus avancée » que l'autre. Leur comparaison dessine deux mécanismes de la paix comique : faire reparaître la possibilité de vivre et produire l'accord dans une négociation qui n'a rien d'innocent.
+
+### 47. *Oiseaux* : la cité réinventée et le rejet des contraintes [I]
+
+Dans les *Oiseaux*, Néphélococcygie cherche à contrôler les passages, les compétences et finalement les relations entre puissances divines. L'étude enregistrée en file éditoriale sur les v. 862–1057 examine les experts que le fondateur chasse ; une autre étude publiée porte sur les ambassadeurs et le droit de passage. Ici, le dispositif est presque inverse : Lysistrata invite des ennemis à passer du territoire et de l'hostilité vers un accord.
+
+Le parallèle est utile à condition d'éviter les emprunts thématiques : d'un côté, un fondateur tend à monopoliser la définition des règles ; de l'autre, une médiatrice dit consulter les alliés, avant que les envoyés ne réduisent la consultation à une plaisanterie. La question commune est celle du **pouvoir de décider pour autrui**, non celle d'un programme constitutionnel attribuable à l'auteur.
+
+### 48. *Assemblée des femmes* : décider au nom de tous [I]
+
+La comédie plus tardive met en scène un transfert du gouvernement et la collectivisation de biens et de règles. La comparaison avec la *Lysistrata* ne consiste pas à assimiler ces œuvres : l'une éprouve la légitimité d'une délégation politique fictive à travers un programme distributif ; l'autre éprouve l'autorité diplomatique à travers des concessions territoriales et la représentation des alliés.
+
+Le volume CCI a étudié le gouvernement du commun et ses limites. Notre chapitre ajoute la **dimension internationale et spatiale** de la décision : être maître de la caisse d'une cité ne donne pas compétence pour distribuer les lieux et les vies de toutes les communautés touchées par une guerre.
+
+### 49. *Grenouilles* : le salut de la cité sans garantie de bon jugement [I]
+
+Les *Grenouilles* (405) confient au choix de la poésie une portée civique et montrent le danger de croire que la qualité du jugement résout automatiquement une crise politique. Une livraison spécifique consacrée à Alcibiade et au lionceau figure déjà en file éditoriale ; elle n'est ni annoncée comme publiée ni reprise ici. La proximité conceptuelle reste limitée : la *Lysistrata* déplace la responsabilité de la décision de la délibération vers le besoin partagé.
+
+Le contraste rappelle qu'une œuvre peut demander à la communauté de **bien juger** et une autre lui faire imaginer une **issue rapide malgré le mauvais jugement ordinaire**. L'une et l'autre exposent les faiblesses du pouvoir collectif sans fournir une théorie démocratique unique.
+
+## IX. Quatre confrontations philosophiques bornées
+
+### 50. Hegel : la comédie et la disparition des puissances fixes [P]
+
+Dans la *Phénoménologie de l'esprit*, la réflexion sur la religion de l'art et la comédie conduit à considérer une subjectivité qui joue avec les puissances présentées comme indépendantes. Ce cadre permet de penser, par analogie, la manière dont les représentants de cités, le sanctuaire, la guerre et la dignité virile deviennent manipulables sur la scène de la *Lysistrata*. La comédie dissout provisoirement le sérieux de la souveraineté dans le mouvement des corps et de la parole.
+
+Il serait pourtant abusif d'affirmer que Hegel a commenté précisément les v. 1162–1181 de cette pièce ou qu'il fournit une théorie de la consultation des alliés. Le parallèle décrit une **structure de la représentation comique**, non une influence philologique ni une exégèse directe. La critique de la hiérarchie politique demeure celle que nous tirons du texte d'Aristophane.
+
+### 51. Nietzsche : la fête contre la domestication morale du rire [P]
+
+Dans *La Naissance de la tragédie* (1872), Nietzsche interroge la relation des Grecs au spectacle, au mythe, à la musique et aux puissances non rationnelles de la fête. Ses distinctions entre formes artistiques peuvent servir à empêcher une réduction de la *Lysistrata* à un manifeste pacifiste édifiant. Le corps et le chant ne sont pas l'illustration secondaire d'un principe politique ; ils produisent une expérience esthétique qui déstabilise l'argument.
+
+Mais il faut éviter deux assimilations. Premièrement, le traitement nietzschéen du chœur tragique ne s'applique pas automatiquement au chœur de la comédie ancienne. Deuxièmement, le rire obscène n'est pas, chez Aristophane, la preuve d'une volonté philosophique de dépasser la morale. Le rapprochement demeure heuristique, non doctrinal.
+
+### 52. Vernant : l'identité civique par la pratique et l'espace [P]
+
+Les travaux de Jean-Pierre Vernant sur l'émergence des formes de pensée et de parole dans la cité grecque invitent à ne pas séparer la politique de ses cadres spatiaux, rituels et relationnels. Dans la *Lysistrata*, les portes de l'Acropole, les autels panhelléniques, les territoires revendiqués et la table du banquet constituent des lieux où des personnes sont reconnues ou exclues d'une parole légitime.
+
+Ce parallèle n'autorise pas à citer Vernant comme témoin des détails de la négociation scénique, encore moins comme garant d'une interprétation féministe ou anti-impériale. Il aide à construire une question : **l'espace commun suffit-il à produire une communauté politique ?** La réponse négative est suggérée par la disparition de l'avis des alliés au moment même de la paix.
+
+### 53. Détienne : vérité de la parole et efficacité de la fiction [P]
+
+Marcel Détienne, dans *Les Maîtres de vérité dans la Grèce archaïque*, examine des régimes de parole investis d'une efficacité religieuse et sociale. La médiation de Lysistrata ressemble, sur un autre plan, à un discours qui fait advenir ce qu'il proclame : elle transforme la honte et la mémoire en conditions de l'accord. Son autorité n'est pourtant ni oraculaire ni la simple réédition d'une parole archaïque.
+
+La comparaison devient utile quand elle montre les risques de confusion entre **véracité**, **persuasion** et **autorisation**. Lysistrata peut s'appuyer sur des faits historiques partiels, obtenir l'adhésion des envoyés et laisser l'avis des alliés suspendu. Ces trois résultats ne sont pas équivalents. Détienne fournit un horizon de questionnement ; Aristophane, le matériau à interpréter.
+
+### 54. Habermas, Fraser et les absents : une comparaison supplémentaire [P/L]
+
+Une lecture contemporaine de la délibération peut demander quels acteurs sont concernés par une décision et lesquels peuvent en contester publiquement les clauses. Les approches d'Habermas et de Nancy Fraser permettent de distinguer la fabrication d'un consensus et l'inclusion effective de publics et contre-publics. Notre scène offre une **contre-épreuve comique** : on proclame l'unanimité présumée au moment même où les alliés cessent d'être invités à parler.
+
+Il ne s'ensuit pas qu'Aristophane aurait découvert une théorie moderne des droits démocratiques internationaux. Les catégories restent distinctes. L'analogie permet seulement d'identifier l'objet que le rire rend visible : **représenter n'est pas se substituer sans reste**.
+
+## X. Discussion critique : ce que le texte prouve et ce qu'il ne prouve pas
+
+### 55. Proposition forte : l'impartialité est une mise en scène [I]
+
+La médiatrice blâme les deux puissances et les ramène à des souvenirs communs. Cette double critique produit une forme d'impartialité nécessaire à la paix. Mais son résultat dépend des cadres choisis : deux camps principaux, une histoire des bienfaits réciproques, un espace panhellénique opposé à l'étranger et un petit nombre de concessions nommées.
+
+En termes d'analyse, l'impartialité scénique se mesure à la distribution des reproches, non à l'examen exhaustif de toutes les prétentions. Le moment où les alliés sont mentionnés, puis évacués, en expose les limites. La comédie ne fournit pas de protocole permettant de les corriger.
+
+### 56. Proposition forte : la matérialité du corps n'est pas un décor [I]
+
+Un raisonnement sur la paix pourrait être formulé sans la présence de *Diallagê*. Aristophane ne fait pas ce choix. Le corps disponible organise les demandes géographiques et fait surgir l'équivoque entre possession d'une terre et disponibilité d'une femme. L'argument politique devient visible comme commerce de parts et de surfaces.
+
+L'analyse ne se réduit donc pas à « la nudité fait rire ». Elle montre comment **le mode de représentation** infléchit le contenu du compromis. En construisant une carte corporelle, la pièce expose les appétits qui peuvent se dissimuler sous une politique apparemment raisonnable.
+
+### 57. Proposition limitée : aucune preuve d'une doctrine féministe moderne [L]
+
+Lysistrata obtient une compétence majeure ; son modèle de médiation est pourtant traversé par la coercition et la restitution finale des couples. Il n'y a pas de raison textuelle suffisante pour attribuer à Aristophane un programme d'égalité civique des femmes identique aux modèles modernes. Inversement, le retour du couple conjugal ne suffit pas à annuler la critique de l'autorité masculine.
+
+Le jugement historique doit conserver ensemble **possibilité dramatique d'une parole féminine**, **absence de participation féminine à l'Assemblée citoyenne historique**, et **variété des effets comiques et des réceptions**. Les catégories contemporaines sont des outils d'interrogation, non des verdicts qui remplacent l'analyse.
+
+### 58. Proposition limitée : aucune preuve d'un pacifisme absolu [L]
+
+L'appel panhellénique s'accompagne d'un dehors « barbare » et d'un chant héroïque guerrier. La pièce condamne donc puissamment une guerre qui déchire les cités grecques sans établir une interdiction inconditionnelle de toute violence. La stratégie féminine vise à obtenir la paix **ici et maintenant**, face à des adversaires précis, dans la fiction.
+
+L'historien ne doit pas lui prêter un projet de sécurité collective universelle ni un système de juridiction supranationale. L'absence de programme complet n'est pas une faiblesse littéraire : elle appartient à la forme d'une comédie dont l'efficacité passe par l'excès, l'ironie et l'abrègement.
+
+### 59. Le contre-argument le plus sérieux : tout cela n'est-il qu'une farce ? [I]
+
+On pourrait soutenir que les clauses territoriales et les alliés ne sont que prétextes aux jeux obscènes et qu'il n'existe donc aucune pensée politique dans leur séquence. L'objection rappelle à juste titre le danger de surinterprétation. Toutefois, elle n'explique pas pourquoi le texte insère des noms de lieux historiquement chargés, un rappel des pratiques religieuses communes, deux traditions d'entraide et la proposition explicite de consulter les alliés.
+
+L'interprétation la plus économique n'est ni celle d'un traité philosophique déguisé ni celle d'un rire dénué de politique. Le texte fait travailler des réalités diplomatiques **au moyen de la farce**. La farce ne désactive pas le sens ; elle met à l'épreuve la stabilité des mots « commun », « paix », « dette » et « accord ».
+
+### 60. Le second contre-argument : un accord rapide sauve effectivement des vies [I]
+
+Il serait également possible de répondre que toutes les procédures de consultation retardent la paix et que les ambassadeurs ont raison de court-circuiter les alliés si chacun désire la fin du conflit. La pièce rend cette solution profondément séduisante : la guerre paraît absurde et la paix immédiatement désirable. Une éthique de la responsabilité peut valoriser les résultats sur la perfection formelle.
+
+Cependant, l'efficacité proclamée ne permet pas de savoir **qui supporte le coût** des concessions. Le rire fait disparaître les retards ; il ne réfute pas l'objection de ceux dont le territoire, la sécurité ou les obligations seraient décidés sans leur accord. La grandeur du dénouement tient à ce qu'il donne force au désir de paix, tout en laissant une faille dans son universalité.
+
+### 61. Protocole de classement des énoncés [A/I/H/P/L]
+
+**Attesté par la pièce :** appel de Lysistrata ; figure de Réconciliation ; références à des sacrifices partagés ; évocation de l'aide spartiate contre les Pisistratides et de l'aide athénienne à Sparte ; marchandage de Pylos et de lieux mals déterminés ; demande de consulter les alliés ; réponse obscène ; serments, fête et chant. **Attesté par des historiens antiques :** intervention spartiate contre Hippias chez Hérodote ; intervention et renvoi des Athéniens chez Thucydide ; importance stratégique de Pylos chez Thucydide.
+
+**Interprétations défendues :** l'espace panhellénique est une solidarité sélective ; le corps de Réconciliation met en image l'asymétrie des décisions ; le désir des ambassadeurs remplace abusivement le consentement d'alliés absents ; le chant fabrique une mémoire réconciliatrice. **Hypothèses et débats :** vêtements, gestes et répartition scénique exacte de la figuration féminine ; compréhension de tous les jeux topographiques par le public de 411 ; identité historique de la figure de Lysistrata avec une prêtresse. **Parallèles modernes :** Hegel, Nietzsche, Vernant, Détienne, Fraser. Aucun de ces rapprochements ne vaut preuve d'une intention de l'auteur.
+
+## XI. Conclusion : l'alliance réconciliée, le consentement différé
+
+La *Lysistrata* ne se contente pas de rêver une paix. Elle expose la difficulté de **fabriquer un « nous » politique** dans une guerre où l'identité grecque n'abolit ni les intérêts stratégiques, ni la domination, ni les oppositions entre citoyens et non-citoyens. Elle montre, en un même mouvement, la force d'une médiatrice qui parvient à faire parler les ennemis et l'impuissance d'un compromis qui ne trouve pas le temps de faire parler ceux que les deux puissances représentent.
+
+Le discours historique fait naître une dette commune ; le corps de Réconciliation donne un support visible à son paiement ; le serment et la fête prétendent la garantir. Mais le moment le plus important est peut-être celui qui ne dure qu'un échange : **il faudrait aller consulter les alliés ; les hommes préfèrent présumer qu'ils sont déjà d'accord**. Là se lit la tension durable entre paix célébrée et paix consentie. La comédie nous fait rire parce que ce raccourci apporte exactement le dénouement désiré ; elle nous intéresse politiquement parce qu'il laisse ouverte la question de sa légitimité.
+
+Le cycle MYTHOS peut ainsi poursuivre ses recherches sans recommencer l'étude des organes institutionnels athéniens, du trésor de l'Acropole ou des causes générales de la guerre. La contribution propre de cette monographie est l'analyse d'une **diplomatie de la représentation**, où parole, mémoire, corps et territoire deviennent les instruments d'une paix souhaitable mais juridiquement incomplète.
+
+## XII. Sources primaires contrôlées
+
+1. **Aristophane**, *Lysistrata*, v. 1072–1188b et 1189–1320, plus les séquences du prologue, du conflit avec le magistrat et de la crise de Cinésias. Texte grec consultable avec numérotation ligne à ligne : [Ad Fontes Library, *Lysistrata*](https://adfonteslibrary.org/work-aristophanes-lysistrata) ; autre présentation grec/anglais d'après l'édition Hall–Geldart et la traduction de B. B. Rogers, avec segmentation en unités dramatiques : [GreekMythology, *Lysistrata*, texte intégral](https://www.greekmythology.com/sources/aristophanes/lysistrata) et [scène des ambassadeurs](https://www.greekmythology.com/sources/aristophanes/lysistrata/envoys-and-reconciliation). Ces interfaces offrent un texte de travail ; pour une variante ou un passage corrompu, contrôler l'apparat d'une édition critique.
+2. **Hérodote**, *Histoires* V, 62–65 : Alcméonides, Delphi, intervention spartiate et expulsion des Pisistratides. Texte et références : [Mouseia, livre V](https://mouseia.org/texts/herodotus/book-5), [GreekMythology, V, 62–65](https://www.greekmythology.com/sources/herodotus/histories/5-alcmaeonids-pisistratids-expelled).
+3. **Thucydide**, *Guerre du Péloponnèse* I, 102 : aide de Cimon puis renvoi des Athéniens par les Spartiates ; IV, 3–41, notamment IV, 41 : Pylos, garnison messénienne et demandes diplomatiques spartiates ; V, 17–24 : circonstances du traité de Nicias et ses conditions ; VIII, 1, 15, 47–70 : crise post-sicilienne, ressources et mutation du régime. Consultation de IV, 41 en texte avec parallèles de traductions : [Perseus, Thucydide IV, 41](https://beta.perseus.tufts.edu/urn:cts:greekLit:tlg0003.tlg001.perseus-eng4/chapter:4.41/).
+4. **Aristophane**, *Acharniens* (425), *Paix* (421), *Oiseaux* (414), *Thesmophories* (411), *Grenouilles* (405), *Assemblée des femmes* (début IVe siècle) : parallèles structurels uniquement. Les autres monographies MYTHOS conservent leur autonomie.
+
+## XIII. Bibliographie critique et philosophique
+
+### Éditions et critique du texte
+
+- Hall, F. W., et Geldart, W. M. (éd.), *Aristophanis Comoediae*, Oxford, Clarendon Press, 1906–1907 ; base de la numérotation du texte grec numérisé disponible en ligne.
+- Henderson, Jeffrey (éd.), *Aristophanes: Lysistrata*, Oxford, Clarendon Press, 1987. Existence, portée de l'étude du dialecte et données éditoriales confirmées par les notices critiques de *Revue des Études Grecques* 104 (1991), p. 643, et par des bibliographies universitaires. [Notice Persée](https://www.persee.fr/doc/reg_0035-2039_1991_num_104_497_2529_t2_0643_0000_2).
+- Sommerstein, Alan H. (éd. et trad.), *The Comedies of Aristophanes*, vol. 7, *Lysistrata*, Warminster, Aris & Phillips, 1990 ; réédition 1998, reprint révisé 2007. [BnF, notice bibliographique](https://catalogue.bnf.fr/ark:/12148/cb354198470) ; [Liverpool University Press/JSTOR](https://www.jstor.org/stable/jj.38238710).
+- Sommerstein, Alan H., « Aristophanes and the Events of 411 », *The Journal of Hellenic Studies* 97 (1977), p. 112–126, DOI [10.2307/631026](https://doi.org/10.2307/631026). Métadonnées et présentation des problèmes de datation vérifiées.
+- Thonemann, Peter, « Lysimache and Lysistrata », *The Journal of Hellenic Studies* 140 (2020), p. 128–142, DOI [10.1017/S0075426920000063](https://doi.org/10.1017/S0075426920000063). La proposition d'identification partielle avec la prêtresse et le contexte de réserve financière sont des thèses scientifiques, non des attestations narratives.
+
+### Corps, territoire, réception et mise en scène
+
+- Pauw, Francois, « Landscaping the Body: Anatomical-Geographical Bawdy in Aristophanes and Shakespeare, and Politically Incorrect Humour », *Akroterion* 59 (2014 ; publication numérique 2015), DOI [10.7445/59-0-942](https://doi.org/10.7445/59-0-942). Résumé et notice en libre accès, [revue](https://akroterion.journals.ac.za/pub/article/view/942).
+- Lambert, M., « Mapping Women's Bodies and the Male ‘Gaze’: Reconciliation in Aristophanes' *Lysistrata* », *Akroterion* 63 (2018 ; publication numérique 2019), DOI [10.7445/63-0-993](https://doi.org/10.7445/63-0-993). Résumé et notice en libre accès, [revue](https://akroterion.journals.ac.za/pub/article/view/993).
+- Orsini, Pierre, « Aristophane et le panhellénisme », *Revue des Études Anciennes* 40/1 (1938), p. 65–69, DOI [10.3406/rea.1938.2971](https://doi.org/10.3406/rea.1938.2971). Compte rendu historiographique montrant l'ancienneté des discussions sur le panhellénisme dans la pièce.
+
+### Perspectives philosophiques : ouvrages de confrontation, non « sources d'Aristophane »
+
+- Hegel, G. W. F., *Phänomenologie des Geistes* (1807), partie « Religion », sections relatives à la religion de l'art et à la comédie.
+- Nietzsche, Friedrich, *Die Geburt der Tragödie aus dem Geiste der Musik* (1872), à utiliser avec attention à la différence entre tragédie et comédie.
+- Vernant, Jean-Pierre, *Les Origines de la pensée grecque* (1962) ; études sur la cité, l'espace du politique et les modes de pensée.
+- Détienne, Marcel, *Les Maîtres de vérité dans la Grèce archaïque* (1967), sur les régimes historiques de l'énonciation efficace.
+- Habermas, Jürgen, *Theorie des kommunikativen Handelns* (1981) et travaux sur la délibération ; Fraser, Nancy, « Rethinking the Public Sphere » (1990), pour une confrontation conceptuelle sur la représentation des absents.
+
+### Contrôle documentaire
+
+La rédaction s'appuie directement sur les passages du grec numérisé et sur les sources historiques aux références indiquées ; les dates, titres et résumés des travaux modernes ont été confrontés à des pages de revues ou de catalogues. L'existence bibliographique d'un article n'implique pas une lecture intégrale de sa version sous abonnement. Les interprétations présentées comme [I], [H] ou [P] sont expressément séparées des attestations [A]. Aucune traduction moderne longue n'est reproduite. Les localisations de vers relèvent de la numérotation usuelle ; lorsque les sites découpent des demi-vers en « b », cette convention est signalée plutôt que confondue avec une variante originale. Aucune affirmation de publication sur bobmythos.fr ne résulte du seul enregistrement de la demande.

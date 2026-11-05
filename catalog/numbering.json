@@ -846,6 +846,30 @@
         "url": "/chapitres/encyclopedie/chapitre-443-artemis-orthia-sparte-lygos-masques-fouet-sanctuaire/",
         "title": "Chapitre 443 — Artémis Orthia à Sparte : le sanctuaire du Limnaion, les masques votifs, le fouet et la fabrication rituelle de la cité",
         "source": "chapitres/encyclopedie/chapitre-443-artemis-orthia-sparte-lygos-masques-fouet-sanctuaire.md"
+      },
+      {
+        "number": 444,
+        "url": "/chapitres/encyclopedie/chapitre-444-eros-thespies-pierre-aniconique-praxiteles-erotideia-phryne/",
+        "title": "Chapitre 444 — Éros à Thespies : la pierre aniconique, Praxitèle, Phryné, les Érotidies et la souveraineté des images",
+        "source": "chapitres/encyclopedie/chapitre-444-eros-thespies-pierre-aniconique-praxiteles-erotideia-phryne.md"
+      },
+      {
+        "number": 445,
+        "url": "/chapitres/encyclopedie/chapitre-445-hermes-kriophoros-tanagra-belier-epidemie-rites-calamis/",
+        "title": "Chapitre 445 — Hermès Kriophoros à Tanagra : le bélier, la maladie, le tour des remparts et l'éducation rituelle de la cité",
+        "source": "chapitres/encyclopedie/chapitre-445-hermes-kriophoros-tanagra-belier-epidemie-rites-calamis.md"
+      },
+      {
+        "number": 446,
+        "url": "/chapitres/encyclopedie/chapitre-446-artemis-tauropolos-halai-araphenides-oreste-sang-symbolique-tauropolia/",
+        "title": "Chapitre 446 — Artémis Tauropolos à Halai Araphénides : le sang symbolique, le retour d'Oreste, les Tauropolia et l'institution civique du rite",
+        "source": "chapitres/encyclopedie/chapitre-446-artemis-tauropolos-halai-araphenides-oreste-sang-symbolique-tauropolia.md"
+      },
+      {
+        "number": 447,
+        "url": "/chapitres/encyclopedie/chapitre-447-heracles-thasos-heros-dieu-melqart-rites-sacrificiels-herakleion/",
+        "title": "Chapitre 447 — Héraclès à Thasos : du héros au dieu, traditions phéniciennes, sacrifices et mémoire civique",
+        "source": "chapitres/encyclopedie/chapitre-447-heracles-thasos-heros-dieu-melqart-rites-sacrificiels-herakleion.md"
       }
     ],
     "tragedies": [
@@ -1824,6 +1848,12 @@
         "url": "/chapitres/tragedies/volume-cclvii-agathon-mysoi-mysiens-plutarque-645d-musique-chromatique-telephe/",
         "title": "Volume CCLVII (257) — Agathon, Les Mysiens (Μυσοί) — Le chant chromatique, Télèphe entre deux mondes et l'invention musicale de la tragédie",
         "source": "chapitres/tragedies/volume-cclvii-agathon-mysoi-mysiens-plutarque-645d-musique-chromatique-telephe.md"
+      },
+      {
+        "number": 258,
+        "url": "/chapitres/tragedies/volume-cclviii-agathon-telephe-trgf-f4-enigme-thesee-alphabet-mysie/",
+        "title": "Volume CCLVIII (258) — Agathon, Télèphe (Τήλεφος) — Écrire le nom de Thésée sans savoir lire : six vers, armes figurées, reconnaissance et pouvoir des signes",
+        "source": "chapitres/tragedies/volume-cclviii-agathon-telephe-trgf-f4-enigme-thesee-alphabet-mysie.md"
       }
     ],
     "comparatif": [
@@ -3053,6 +3083,54 @@
         "url": "/chapitres/comparatif/volume-cclvi-mc-076-quand-les-dieux-changent-d-avis-repentir-intercession-revocation-justice/",
         "title": "Volume CCLVI (256) — MC-076 — Quand les dieux changent d’avis : repentir, intercession, révocation et justice des décisions divines",
         "source": "chapitres/comparatif/volume-cclvi-mc-076-quand-les-dieux-changent-d-avis-repentir-intercession-revocation-justice.md"
+      },
+      {
+        "number": 257,
+        "url": "/chapitres/comparatif/volume-cclvii-mc-078-entraver-les-immortels-chaines-filets-captivite-divine-souverainete/",
+        "title": "Volume CCLVII (257) — MC-078 — Entraver les immortels : chaînes, filets, captivité divine et limites de la souveraineté, de l’Olympe à Babylone",
+        "source": "chapitres/comparatif/volume-cclvii-mc-078-entraver-les-immortels-chaines-filets-captivite-divine-souverainete.md"
+      },
+      {
+        "number": 258,
+        "url": "/chapitres/comparatif/volume-cclviii-mc-079-astres-obscurcis-eclipses-presages-rituels-raison-astronomique/",
+        "title": "Volume CCLVIII (258) — MC-079 — Quand les astres s'obscurcissent : éclipses, présages, rituels et raison astronomique, de la Mésopotamie à l'Inde, de la Grèce à la Chine et au monde maya",
+        "source": "chapitres/comparatif/volume-cclviii-mc-079-astres-obscurcis-eclipses-presages-rituels-raison-astronomique.md"
+      },
+      {
+        "number": 259,
+        "url": "/chapitres/comparatif/volume-cclix-etat-exception-souverainete-crise-constitutionnelle-schmitt-agamben/",
+        "title": "Volume CCLIX (259) — L'état d'exception : souveraineté, crise constitutionnelle et limites du pouvoir, de la Grèce antique à Schmitt et Agamben",
+        "source": "chapitres/comparatif/volume-cclix-etat-exception-souverainete-crise-constitutionnelle-schmitt-agamben.md"
+      },
+      {
+        "number": 260,
+        "url": "/chapitres/comparatif/volume-cclx-grenouilles-alcibiade-lionceau-dilemme-democratique-405/",
+        "title": "Volume CCLX (260) — Nourrir le lionceau ? Alcibiade, la décision démocratique et le risque du chef indispensable dans les Grenouilles d'Aristophane (405 avant notre ère)",
+        "source": "chapitres/comparatif/volume-cclx-grenouilles-alcibiade-lionceau-dilemme-democratique-405.md"
+      },
+      {
+        "number": 261,
+        "url": "/chapitres/comparatif/volume-cclxi-mc-077-parfum-du-sacre-odeurs-fumees-encens-offrandes-divines/",
+        "title": "Volume CCLXI (261) — MC-077 — Le parfum du sacré : fumées, résines, odeurs sacrificielles et présence divine, de la Mésopotamie à l’Égypte, d’Israël à la Grèce et à l’Inde",
+        "source": "chapitres/comparatif/volume-cclxi-mc-077-parfum-du-sacre-odeurs-fumees-encens-offrandes-divines.md"
+      },
+      {
+        "number": 262,
+        "url": "/chapitres/comparatif/volume-cclxii-mc-080-partager-le-monde-lots-divins-domaines-cosmiques-timai-juridictions-souverainete/",
+        "title": "Volume CCLXII (262) — MC-080 — Partager le monde : lots divins, domaines cosmiques, honneurs, charges et souveraineté distribuée, de Sumer et Babylone à la Grèce, à Israël, à l’Égypte et aux traditions indo-iraniennes",
+        "source": "chapitres/comparatif/volume-cclxii-mc-080-partager-le-monde-lots-divins-domaines-cosmiques-timai-juridictions-souverainete.md"
+      },
+      {
+        "number": 263,
+        "url": "/chapitres/comparatif/volume-cclxiii-oiseaux-fondation-poetes-oracles-geometres-inspecteurs-decrets-expertise-414/",
+        "title": "Volume CCLXIII (263) — Fonder une cité, chasser ses experts : poètes, oracles, géomètres, inspecteurs et vendeurs de décrets dans les Oiseaux d’Aristophane (414 av. J.-C.)",
+        "source": "chapitres/comparatif/volume-cclxiii-oiseaux-fondation-poetes-oracles-geometres-inspecteurs-decrets-expertise-414.md"
+      },
+      {
+        "number": 264,
+        "url": "/chapitres/comparatif/volume-cclxiv-lysistrata-diplomatie-corps-carte-allies-panhellenisme-411/",
+        "title": "Volume CCLXIV (264) — Faire la paix sur un corps : diplomatie, mémoire panhellénique et oubli des alliés dans le dénouement de la Lysistrata d'Aristophane (411 av. notre ère)",
+        "source": "chapitres/comparatif/volume-cclxiv-lysistrata-diplomatie-corps-carte-allies-panhellenisme-411.md"
       }
     ],
     "comedies": [
@@ -3733,6 +3811,24 @@
         "url": "/chapitres/comedies/volume-113-magnes-dionysos-premiere-seconde-version-authenticite-gastronomie-theatre/",
         "title": "Volume CXIII (113) — Magnès, Dionysos I et II (Διόνυσος αʹ et βʹ) : authenticité problématique, langage du malheur, cuisine et mémoire du théâtre ancien",
         "source": "chapitres/comedies/volume-113-magnes-dionysos-premiere-seconde-version-authenticite-gastronomie-theatre.md"
+      },
+      {
+        "number": 114,
+        "url": "/chapitres/comedies/volume-114-magnes-poastria-desherbeuse-proverbe-mysiens-travail-feminin/",
+        "title": "Volume CXIV (114) — Magnès, Poastria (Ποάστρια, « La Désherbeuse ») — Travail féminin, marginalisation proverbiale, politique du rire et limites d'une comédie perdue",
+        "source": "chapitres/comedies/volume-114-magnes-poastria-desherbeuse-proverbe-mysiens-travail-feminin.md"
+      },
+      {
+        "number": 115,
+        "url": "/chapitres/comedies/volume-115-magnes-barbitistai-joueurs-barbitos-musique-symposion-parabase-memoire/",
+        "title": "Volume CXV (115) — Magnès, Barbitistai (Βαρβιτισταί) — Les joueurs de barbitos : musique, concours, banquet, mémoire des poètes et fabrique des titres perdus",
+        "source": "chapitres/comedies/volume-115-magnes-barbitistai-joueurs-barbitos-musique-symposion-parabase-memoire.md"
+      },
+      {
+        "number": 116,
+        "url": "/chapitres/comedies/volume-116-magnes-batrachoi-grenouilles-choral-animal-parabase-historicite/",
+        "title": "Volume CXVI (116) — Magnès, Batrachoi (Βάτραχοι, « Les Grenouilles ») — Voix animales, mémoire de la scène archaïque et limites de la reconstruction",
+        "source": "chapitres/comedies/volume-116-magnes-batrachoi-grenouilles-choral-animal-parabase-historicite.md"
       }
     ],
     "origines-du-sacre": [
@@ -5169,6 +5265,42 @@
         "url": "/chapitres/origines-du-sacre/689-cyrus-darius-tombeaux-pasargades-naqsh-rostam-magies-souverainete/",
         "title": "Chapitre 689 — Chapitre 689 — Enterrer le roi, montrer l'empire : Cyrus, Darius, Pasargades et Naqš-e Rostam",
         "source": "chapitres/origines-du-sacre/689-cyrus-darius-tombeaux-pasargades-naqsh-rostam-magies-souverainete.md"
+      },
+      {
+        "number": 690,
+        "url": "/chapitres/origines-du-sacre/690-mausolee-halicarnasse-mausole-artemisia-architecture-heroisation/",
+        "title": "Chapitre 690 — Chapitre 690 — Le Mausolée d'Halicarnasse : architecture, dynastie et héroïsation",
+        "source": "chapitres/origines-du-sacre/690-mausolee-halicarnasse-mausole-artemisia-architecture-heroisation.md"
+      },
+      {
+        "number": 691,
+        "url": "/chapitres/origines-du-sacre/691-alexandre-tombeau-alexandrie-sema-soma-culte-memoire-dynastique/",
+        "title": "Chapitre 691 — Chapitre 691 — Le tombeau d'Alexandre à Alexandrie : corps royal, Sêma et mémoire du pouvoir",
+        "source": "chapitres/origines-du-sacre/691-alexandre-tombeau-alexandrie-sema-soma-culte-memoire-dynastique.md"
+      },
+      {
+        "number": 692,
+        "url": "/chapitres/origines-du-sacre/692-gordion-phrygie-tumulus-mm-t26-t52-cremation-banquet-midas/",
+        "title": "Chapitre 692 — Chapitre 692 — Bâtir la mémoire royale : les tumulus de Gordion, le banquet des morts et la crémation phrygienne de T26",
+        "source": "chapitres/origines-du-sacre/692-gordion-phrygie-tumulus-mm-t26-t52-cremation-banquet-midas.md"
+      },
+      {
+        "number": 693,
+        "url": "/chapitres/origines-du-sacre/693-necropoles-royales-kouchites-el-kourrou-nouri-meroe-rites-pyramides-souverainete/",
+        "title": "Chapitre 693 — Chapitre 693 — Les nécropoles royales de Kouch : El-Kourrou, Nouri et Méroé, pyramides et souveraineté des morts",
+        "source": "chapitres/origines-du-sacre/693-necropoles-royales-kouchites-el-kourrou-nouri-meroe-rites-pyramides-souverainete.md"
+      },
+      {
+        "number": 694,
+        "url": "/chapitres/origines-du-sacre/694-hittites-funerailles-royales-cth450-sallis-wastais-deification-rites/",
+        "title": "Chapitre 694 — Chapitre 694 — Quand le roi devient dieu : le šalliš waštaiš hittite, la crémation et l'institution du défunt royal (CTH 450)",
+        "source": "chapitres/origines-du-sacre/694-hittites-funerailles-royales-cth450-sallis-wastais-deification-rites.md"
+      },
+      {
+        "number": 695,
+        "url": "/chapitres/origines-du-sacre/695-aigai-vergina-necropole-royale-philippe-ii-philippe-iii-rituels-identifications/",
+        "title": "Chapitre 695 — Chapitre 695 — Aigai et les tombes royales de Macédoine : Philippe II, Perséphone, crémation et mémoire dynastique",
+        "source": "chapitres/origines-du-sacre/695-aigai-vergina-necropole-royale-philippe-ii-philippe-iii-rituels-identifications.md"
       }
     ]
   },

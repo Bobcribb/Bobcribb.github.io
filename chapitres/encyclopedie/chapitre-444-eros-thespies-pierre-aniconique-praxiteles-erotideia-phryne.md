@@ -1,0 +1,405 @@
+# MYTHOS — Encyclopédie mythologique grecque — Chapitre 444
+
+## Éros à Thespies : la pierre aniconique, Praxitèle, Phryné, les Érotidies et la souveraineté des images
+
+*Monographie universitaire intégrale — MYTHOS, collection « encyclopedie ». Histoire des religions grecques, philologie, mythographie, épigraphie, sculpture, concours civiques et philosophie du désir. État critique : 5 novembre 2026. Le numéro canonique est exclusivement réservé au système de publication GitHub Actions. Les dates des objets, récits et attestations ne sont pas interchangeables. Aucune reconstitution 2,5D n'est proposée.*
+
+### Résumé
+
+La cité béotienne de Thespies (Θέσπιαι) ne faisait pas seulement d’Éros une figure de la poésie amoureuse. Selon Pausanias (IX, 27, 1), elle le vénérait éminemment et conservait comme sa plus ancienne représentation une pierre non travaillée, ἀργὸς λίθος. Au IVe siècle avant notre ère, la renommée d’un Éros sculpté par Praxitèle, qui aurait été consacré par Phryné, transforma le lieu en destination de voyageurs et en enjeu de circulation d’œuvres d’art. Les sources distinguent ce marbre du bronze d’Éros attribué à Lysippe ; elles mentionnent aussi la copie offerte par Ménodore après les prélèvements impériaux. Parallèlement, les Érotidies, attestées par des inscriptions et par Plutarque, firent du dieu le patron d’un programme de compétitions athlétiques, équestres et, selon les phases, musicales. Éros se trouve donc au croisement du culte, de la pierre, du corps, de la ville, de la représentation et de l’histoire impériale.
+
+La question directrice n'est pas : « Quel mythe raconte Éros ? », mais : **comment une communauté donne-t-elle à une puissance du désir une forme cultuelle durable et comment cette forme survit-elle à la perte de ses images ?** La réponse exige une critique rigoureuse. L’ancienneté proclamée par Pausanias ne date pas la pierre ; les anecdotes concernant Phryné ne sont pas des procès-verbaux ; la visibilité d’une copie romaine ne prouve pas son identité avec un original disparu ; un concours organisé pour Éros n’est pas nécessairement une fête amoureuse au sens moderne. L’étude confronte les variations généalogiques (Hésiode, Olen, traditions orphiques, Platon), les testimonia latins et grecs (Cicéron, Strabon, Pline, Pausanias, Athénée), l'épigraphie thespienne et la recherche récente.
+
+**Thèse.** Thespies expose trois régimes de présence du dieu qu'il faut tenir distincts : la **présence rituelle** d’un support matériel ancien, la **présence artistique** d’images signées et copiées, et la **présence institutionnelle** de concours et de dédicaces. Leur histoire est faite de superpositions, de ruptures et de reconstructions ; aucune source n'autorise à les fondre dans un « culte originaire » resté immuable.
+
+**Périmètre.** Étude monographique du culte thespien, de ses œuvres, de sa mémoire et de sa réception. Les mythes généraux d’Éros ne sont convoqués que lorsqu’ils éclairent l’appropriation locale. Les autres dossiers MYTHOS sur la Béotie, notamment Apollon Ptoios et Poséidon Onchestios, sont complémentaires, non remplacés. Le chapitre consacré à Hélios (259) n'est ni réécrit ni reproduit.
+
+### Sommaire analytique
+
+1. Questions, sources et degrés de certitude ; 2. Thespies et l'Hélicon ; 3. Le nom Éros ; 4. Le lithos argos ; 5. Peut-on dater un culte par la pierre ? ; 6. Éros cosmogonique chez Hésiode ; 7. Les généalogies divergentes ; 8. Sappho et la puissance ambivalente ; 9. L'Éros de la tragédie ; 10. Praxitèle et la mutation des images ; 11. Phryné, donatrice et personnage littéraire ; 12. Strabon et Glycère ; 13. Lysippe ; 14. La constellation artistique de Thespies ; 15. Cicéron et l'inviolabilité cultuelle ; 16. Les déplacements impériaux ; 17. Ménodore et la copie ; 18. Typologie et incertitudes de la sculpture ; 19. Les Érotidies ; 20. Épigraphie et chronologies disputées ; 21. Les concurrents et les disciplines ; 22. Plutarque et l'espace public ; 23. Dévotions et élites ; 24. Éros et le pouvoir impérial ; 25. Comparaisons cultuelles ; 26. Platon ; 27. Aristote, Éros et la causalité ; 28. Questions de genre et de regard ; 29. Patrimoine et spoliation ; 30. Matrice probatoire ; 31. Chronologie ; 32. Propositions iconographiques ; 33. Glossaire grec ; 34. Bibliographie et corpus ; 35. Conclusion et pistes de recherche.
+
+---
+
+## 1. Corpus documentaire : ne pas confondre les témoins
+
+Une enquête sur Thespies commence par une précaution : l’expression « Éros de Thespies » peut désigner le dieu, un objet cultuel sans forme figurative, le marbre de Praxitèle, un bronze de Lysippe, l’œuvre de remplacement réalisée par Ménodore ou des sculptures impériales assimilées à l’un de ces modèles. Les confondre revient à écrire une histoire de l'art fictive. De même, les Érotidies ne sont pas une projection directe de la théologie d’Hésiode, et la tradition de Phryné relève à la fois de l'histoire des dédicaces et de l'anecdote biographique.
+
+On distinguera quatre classes de documents. **A — attestations explicites**, où un auteur ancien ou une inscription nomme un lieu, un objet ou une cérémonie : Pausanias IX, 27, 1-5 ; IX, 31, 3 ; Cicéron, *Verrines*, II, 4, 4 ; Strabon IX, 2, 25 ; Pline, *Histoire naturelle*, XXXVI, 21-22 ; inscriptions *I.Thespiai* 34, 175, 188, 269. **B — récits de transmission**, conservant des anecdotes ou généalogies dont la datation et la fonction doivent être interprétées : Pausanias I, 20, 1-2 ; Athénée XIII, 591a-b ; les hymnes perdus d'Olen rapportés par Pausanias. **C — images et rapprochements stylistiques**, pour lesquels toute identification d’une copie avec un chef-d'œuvre perdu reste une hypothèse contrôlable. **D — concepts comparatifs modernes**, utiles pour poser des questions, mais incapables d’ajouter des faits à la documentation.
+
+Les principales sources se contredisent parfois. Pour les comprendre, il faut considérer leur genre : Pausanias produit une périégèse religieuse du IIe siècle de notre ère ; Cicéron poursuit un prévenu et développe une norme morale de protection des biens sacrés ; Pline construit une histoire encyclopédique des grandes œuvres ; Strabon privilégie une géographie des réputations civiques ; Athénée transmet une collection de traditions érudites ; les inscriptions conservent des actes publics, non des explications mythologiques complètes. L'incompatibilité apparente des récits n'est pas à résoudre automatiquement par élimination d'une source : elle peut éclairer la fabrication de la mémoire.
+
+## 2. Thespies, l'Hélicon et la géographie d'un prestige
+
+Thespies est une cité de Béotie, au sud du massif de l’Hélicon, dans un territoire relié aux routes du golfe de Corinthe. Strabon (IX, 2, 25) distingue la cité, le pays thespien, Ascra — associée à Hésiode — et les sanctuaires des Muses dans l'environnement de l'Hélicon. Ces lieux ne doivent pas être rabattus sur un seul plan de sanctuaire : la ville, la vallée des Muses et les parcours de visiteurs appartiennent à des espaces proches mais distincts. Le port de Creusis appartient également à la géographie civique indiquée par le géographe.
+
+Le prestige panhellénique de la région repose sur des mémoires entrelacées. L'Hélicon renvoie aux Muses et à la parole d'Hésiode ; Thespies, aux yeux de plusieurs auteurs, se singularise par Éros ; les institutions civiques s'articulent à des concours qui attirent artistes, athlètes, délégués et bienfaiteurs. La présence d’un divin protecteur ne constitue donc pas un simple décor narratif. Elle participe à la manière dont une cité se rend identifiable dans un réseau de rivalités béotiennes, de mobilités grecques et de relations avec Rome.
+
+Strabon va jusqu'à donner de Thespies l'image d'une destination dont la statue est la principale raison de visite. Cette phrase est une évaluation rhétorique, non une mesure des activités économiques réelles ou un démenti de l'existence d'autres sanctuaires. La description de Pausanias (IX, 27, 5-8) suffit à montrer la richesse des lieux : sculptures, sanctuaire d'Aphrodite dite Mélainis, Héraclès, théâtre, agora et autres objets de mémoire. L'histoire d'Éros doit se situer dans ce tissu civique plus large.
+
+## 3. Philologie : Ἔρως, ἔρως, désir et divinité
+
+Ἔρως est le nom du dieu ; ἔρως est également un nom commun désignant le désir amoureux ou érotique selon les contextes. Le génitif est Ἔρωτος / ἔρωτος. Les verbes ἐράω et ἔραμαι expriment le désir ou l'amour ; ils appartiennent au même champ lexical sans qu'une étymologie historique puisse être déduite d'une simple ressemblance graphique. La racine indo-européenne exacte et l'histoire préhellénique du nom ne sont pas établies par le culte thespien. Il faut également séparer **ἵμερος** (élan désirant), **πόθος** (désir de l'absent), **φιλία** (attachement, amitié et relation), **πειθώ** (persuasion) et **ἀντέρως**, expression dont les emplois peuvent renvoyer au désir en retour ou à un autre principe de réciprocité. Ces termes ne forment pas une taxinomie antique constante.
+
+Un même vocable peut désigner la puissance qui précède les générations divines, l'expérience somatique d'un individu, l'être figuré avec ailes et armes, ou le dieu recevant des offrandes. Il ne faut pas postuler que ces usages ont toujours la même signification. Cette polysémie est précisément le problème que Thespies rend tangible : un nom de passion devient l'élément durable d'une topographie cultuelle et d'une série de magistratures agonistiques.
+
+L'appellation latine **Cupido**, employée chez Cicéron et Pline, appartient à un vocabulaire sémantiquement voisin, mais la traduction n'efface ni l'histoire grecque d'Éros ni la pluralité de ses représentations. Parler d'« Amour » dans les traductions anciennes facilite la lecture, mais peut induire une moralisation moderne : le dieu antique est aussi l'irruption violente du désir, l'instabilité et la force de désorganisation. Il n'est pas simplement un symbole de tendresse conjugale.
+
+## 4. Le témoignage fondamental : ἀργὸς λίθος
+
+Pausanias IX, 27, 1 écrit : « θεῶν δὲ οἱ Θεσπιεῖς τιμῶσιν Ἔρωτα μάλιστα » et nomme la plus ancienne effigie « ἀργὸς λίθος ». La traduction la moins trompeuse est « pierre non travaillée » ou « pierre brute ». Le terme ἀργός a des champs d'emploi variés ; dans ce contexte, il caractérise un objet sans élaboration sculpturale comparable aux images anthropomorphes. Le témoin est très précis sur la nature remarquable du support, non sur son origine géologique, sa découverte, son installation initiale ou sa date.
+
+Pausanias ajoute qu'il ignore qui a institué cette vénération singulière. Ce « je ne sais pas » est décisif. Il interdit d'attribuer l'origine du sanctuaire à un héros inventé ou à une migration certaine. Il s'oppose aussi à la tentation de faire de la pierre une preuve suffisante d'un culte néolithique, minoen ou « préhellénique ». L'ancienneté alléguée est une tradition de la cité constatée à l'époque impériale ; l'époque de la première consécration demeure inconnue. Il est possible qu'une pierre ait longtemps servi d'image cultuelle ; il n'est pas démontré que l'objet observé par Pausanias soit inchangé depuis la préhistoire.
+
+Dans la théorie de l'art, il serait tentant de présenter une progression simple allant de l'aniconisme à la sculpture mimétique. Une telle ligne « primitive → développée » est trop grossière. La pierre brute et une statue de Praxitèle peuvent coexister en remplissant des fonctions distinctes : ancrage local, référence d'ancienneté, support votif, prestige artistique, don public. L'apparition d'une image figurative ne supprime pas nécessairement les pouvoirs que les fidèles reconnaissent à un support non figuratif. Les catégories « aniconique », « bétyle » et « pierre météoritique » ne sont pas synonymes ; seul le premier rapprochement descriptif est prudent ici.
+
+## 5. Un objet et plusieurs temps du religieux
+
+La pierre est une énigme méthodologique. Le texte n'en fournit ni dimensions, ni forme, ni contexte stratigraphique, ni inscription dédicatoire. Aucune affirmation sur sa provenance, son mineral ou son orientation cultuelle ne peut donc être donnée comme un fait. L'archéologue rechercherait d'abord une identification de son emplacement, des dédicaces stratifiées, des phases de bâtiment et des marques d'intervention. Le philologue comparerait les usages de ἀργός et les désignations d'ἀγάλματα dans le livre IX. L'historien des religions analyserait pourquoi la communauté revendique une antériorité qui n'est pas justifiée par un mythe fondateur explicite.
+
+Il est légitime de proposer deux modèles non exclusifs. Dans le premier, une pierre ancienne a servi de point d'ancrage à des cérémonies et les sculptures sont venues enrichir l'espace sacré. Dans le second, la valorisation explicite de la pierre comme « plus ancienne image » s'est cristallisée au contact de statues prestigieuses, en particulier lorsque celles-ci sont devenues menacées par les prélèvements. Ni l'un ni l'autre ne doit être érigé en récit établi. Une inscription ou une fouille pourrait affiner ces modèles ; la rhétorique de l'ancienneté, seule, ne suffit pas.
+
+On prendra garde à ne pas importer sans examen les théories universalisantes sur des « pierres sacrées » qui auraient partout la même fonction. La comparaison de sanctuaires grecs, sémitiques ou iraniens est féconde si elle précise les opérations rituelles attestées ; elle devient trompeuse lorsqu'elle réduit des traditions historiquement différentes à une essence immuable du sacré.
+
+## 6. L'Éros cosmogonique de la Théogonie
+
+Dans la *Théogonie* attribuée à Hésiode, vers 116-122, surgissent d'abord Chaos, puis Gaia, Tartare et Éros. Il ne faut pas réduire cet Éros primordial au fils d'Aphrodite que représentent souvent les images hellénistiques. Il est présenté comme une puissance qui « délie les membres » et l'emporte sur l'intelligence et les desseins des dieux comme des mortels. Éros participe donc au récit de la production du monde et possède une portée qui précède l'ordre de la famille olympienne.
+
+Le problème textuel est important : l'Éros de la séquence cosmogonique n'est pas explicitement issu de l'union d'un père et d'une mère. À la différence de générations ultérieures, son apparition relève de l'énoncé de présences fondamentales. Les vers 201-206, où la naissance d'Aphrodite rassemble Éros et Himéros à sa suite, attestent un autre emploi narratif sans imposer une généalogie simple. Hésiode organise des fonctions cosmiques et des entourages divins ; les mythographes tardifs sont plus enclins à systématiser les parentés.
+
+L'association de Thespies à Hésiode est géographiquement remarquable : Ascra est située dans le voisinage de l'Hélicon, et Pausanias IX, 31, 3-5 rapporte plusieurs traditions locales concernant le poète, les concours et le contenu de son œuvre. Mais **proximité régionale ne signifie pas dépendance cultuelle prouvée** : la *Théogonie* ne raconte pas l'institution du sanctuaire thespien d'Éros. La mise en relation de l'Éros primordial et de la pierre constitue une lecture interprétative moderne, non un témoignage d'époque archaïque sur la religion des Thespiens.
+
+## 7. Généalogies en concurrence : Aphrodite, Ilithyie et poèmes rituels
+
+Pausanias IX, 27, 2 commence par constater l'opinion de ceux qui font d'Éros le plus jeune des dieux et le fils d'Aphrodite. Il lui oppose plusieurs traditions poétiques. Olen, poète tenu pour très ancien, aurait dit dans un hymne à Ilithyie que celle-ci était la mère d'Éros. Pamphos et Orphée auraient également composé des vers sur Éros, chantés lors de rites associés aux Lycomides. Ces compositions ne doivent pas être reconstituées comme si nous en possédions le texte intégral : leur contenu est transmis de façon fragmentaire et rétrospective.
+
+La maternité d'Ilithyie est un cas particulièrement instructif. Ilithyie intervient dans l'accouchement et la venue au monde ; l'attribution d'Éros à cette figure articule autrement le désir, la génération et la naissance. Elle ne doit pas être présentée comme la « vraie » parenté d'Éros contre Aphrodite, pas plus que l'Éros cosmogonique n'annule toutes les filiations postérieures. La poésie grecque multiplie les configurations selon les moments, les lieux, les cultes et les finalités narratives.
+
+Les Lycomides et les rites dont parle Pausanias ouvrent sur la médiation des traditions sacerdotales et des hymnes. Le périégète évoque une conversation avec un porteur de torche et choisit de ne pas la développer davantage. Ce geste signale une limite de transmission. Il serait illégitime de remplir ce silence par une initiation secrète thespienne inventée. Les vers évoqués ne sont d'ailleurs pas explicitement décrits comme chantés à Thespies. Un chapitre de religion locale doit savoir utiliser ces parallèles sans absorber toutes les pratiques grecques dans un même sanctuaire.
+
+## 8. Sappho : le désir comme expérience contradictoire
+
+À propos de Sappho, Pausanias IX, 27, 3 fait une remarque philologiquement capitale : les poèmes sur Éros sont multiples et ne s'accordent pas toujours entre eux. Il ne faut pas comprendre cette remarque comme une défaillance de la poétesse. L'expérience d'Éros peut être douce et douloureuse, féconde et dévastatrice, accueillie et subie. Le fragment 130 (numérotation Voigt), avec l'expression γλυκύπικρον (« doux-amer »), et le fragment 47, où l'amour secoue l'âme, montrent une force qui ne se laisse pas réduire à l'idéal de l'harmonie.
+
+Ce dossier sert à problématiser les figures sculptées. Une statue calme, juvénile et belle ne représente pas nécessairement un sentiment calme. La poétique du désir peut au contraire placer le spectateur devant une figure séduisante qui dissimule le pouvoir d'égarement du dieu. Mais faute de description détaillée du marbre thespien, nous ne pouvons transformer le lexique de Sappho en programme iconographique de Praxitèle. La convergence relève du champ conceptuel, non d'une filiation d'atelier démontrée.
+
+Sappho n'est pas un document sur le rituel des Érotidies. Sa valeur tient à la capacité de la parole lyrique à identifier une puissance irréductible à la simple filiation olympienne. Elle constitue l'une des réponses antiques à la question de savoir pourquoi une cité pouvait attribuer à Éros une dignité divine autonome.
+
+## 9. La tragédie : Éros, contrainte et responsabilité
+
+Dans *Antigone*, vers 781-800, Sophocle ouvre le troisième stasimon sur un Éros invaincu dans la lutte. Le dieu traverse les espaces sociaux, trouble la décision et déstabilise les hiérarchies du pouvoir ; le chant intervient après une confrontation où la loyauté familiale et la légitimité de la loi se trouvent en tension. Ce langage dramatique témoigne de la force du dieu dans l'imaginaire athénien du Ve siècle, sans attester un rite thespien.
+
+Dans *Hippolyte*, Euripide permet de mesurer la différence entre le contrôle rationnel de soi, l'excès de désir et la décision qui engage d'autres vies. Les interventions du chœur sur Éros (notamment v. 525-564) exposent une puissance inséparable d'Aphrodite et susceptible de défaire les frontières individuelles. L'usage tragique offre donc un contrepoint à la statuaire : le dieu n'est pas seulement le corps vu, mais l'événement qui affecte des corps et leurs relations.
+
+La comparaison doit rester historiquement disciplinée. Un public des concours thespien ne connaissait pas nécessairement ces textes de la même manière qu'un public athénien, et aucune inscription conservée n'atteste que l'on jouait précisément *Antigone* ou *Hippolyte* dans une cérémonie consacrée à l'Éros de Thespies. Les tragédies éclairent une grammaire grecque du désir ; elles ne permettent pas de reconstituer une liturgie locale.
+
+## 10. Praxitèle : l'image divine comme chef-d'œuvre civique
+
+Pausanias IX, 27, 3 attribue au sculpteur Praxitèle un Éros **en marbre pentélique**, réalisé avant le bronze de Lysippe. Cicéron (*Verrines* II, 4, 4) parle lui aussi d'un Cupidon **marmoreum** célèbre à Thespies. Ces témoignages relativement indépendants sont essentiels : il serait erroné de substituer systématiquement un original de bronze au marbre de Praxitèle. Les reconstructions modernes d'un Éros « praxitélien » en bronze peuvent concerner d'autres modèles ou des erreurs de transmission historiographique.
+
+La célébrité du sculpteur — également associé à l'Aphrodite de Cnide — a pu donner à l'œuvre une réputation débordant sa fonction cultuelle. Pline l'Ancien (*Histoire naturelle* XXXVI, 21-22) signale que l'on se rendait à Thespies pour voir le Cupidon, désormais présent dans les bâtiments d'Octavie à Rome au moment où il écrit. Le lieu de provenance devient ainsi une qualification de l'œuvre : « de Thespies » signifie autant une mémoire urbaine qu'une adresse matérielle momentanée.
+
+Il ne faut pas supposer que l'œuvre nous est matériellement parvenue. Les reconstructions se font par rapprochement de copies, de types statuaires et de descriptions littéraires qui restent très lacunaires. On connaît le matériau original par les textes, pas la totalité de sa pose, de sa chevelure, de son geste et de ses attributs. Même les mentions anciennes d'un arc, de flèches ou d'ailes peuvent relever d'un code iconographique général plutôt que d'un portrait exact de cette statue.
+
+## 11. Phryné : consécration, choix et récit exemplaire
+
+La tradition selon laquelle Praxitèle aurait offert à Phryné le choix d'une de ses œuvres est racontée par Pausanias I, 20, 1-2. Phryné aurait fait annoncer un faux incendie dans l'atelier ; l'inquiétude du sculpteur pour le Satyre et l'Éros aurait révélé quelles statues lui étaient les plus précieuses ; elle aurait alors choisi Éros. Athénée XIII, 591a-b rapporte le choix entre l'Éros et le Satyre de la rue des Trépieds et précise que Phryné aurait consacré l'Éros dans sa cité natale, Thespies. La scène met en mouvement trois volontés : celle du créateur qui protège sa renommée, celle de la femme qui impose un choix, celle d'une cité qui reçoit et sacralise l'objet.
+
+Le récit peut préserver le souvenir d'une véritable dédicace, mais ses détails dramatiques ne sont pas des faits vérifiés. Le faux incendie ressemble à une anecdote exemplaire sur le talent et la préférence secrète de l'artiste. La biographie de Phryné, courtisane célèbre, s'est trouvée construite et reconstruite par des auteurs pour qui beauté, désir, rhétorique et scandale faisaient partie du spectacle. Il faut donc distinguer la proposition historique « Phryné fut associée à la dédicace » du scénario littéraire « une fausse alerte lui fit choisir l'œuvre ».
+
+Il faut également refuser de réduire Phryné à un simple corps inspirant une statue. Dans le récit, elle est **donatrice**, donc participante active à la transformation d'un objet privé en bien consacré. Son sexe, son statut social et sa célébrité constituent des enjeux antiques de visibilité. Le mot ἑταίρα, souvent traduit par « courtisane », renvoie à une catégorie sociale et littéraire qu'il serait naïf d'interpréter comme un statut juridique uniforme. Le don offre une forme de participation à la mémoire publique, mais les traditions masculines qui le rapportent en filtrent la signification.
+
+## 12. La variante décisive : Strabon nomme Glycère
+
+Strabon IX, 2, 25 ne donne pas exactement la même histoire. Il attribue à **Glycère (Γλυκέρα)**, originaire de Thespies, la consécration de l'Éros reçu de Praxitèle. Cette version ne doit pas être effacée d'un trait de plume sous prétexte que Pausanias et Athénée nomment Phryné. Trois possibilités peuvent être envisagées : confusion d'une source de Strabon, contamination entre deux figures de courtisanes célèbres ou existence de récits localement concurrents. En l'absence d'une attestation décisive, aucune ne peut être démontrée.
+
+L'intérêt de cette variante est double. D'abord, elle démontre que la mémoire de l'œuvre s'accompagnait de récits mobiles sur la relation entre artiste, destinataire et cité. Ensuite, elle met en garde contre la tentation de lire une anecdote à travers un seul auteur. La convergence sur l'existence d'une œuvre célèbre et le fait d'une dédicace ne garantit pas l'identité personnelle du donateur dans toutes les sources.
+
+Dans l'appareil critique, il convient donc de présenter **Pausanias I, 20, 1-2 + Athénée XIII, 591a-b : Phryné**, **Strabon IX, 2, 25 : Glycère**, puis d'expliciter le niveau d'incertitude. Cette précaution vaut davantage qu'un récit synthétique artificiel qui prétendrait résoudre les divergences sans preuve. Elle rappelle que la prosopographie ancienne, même lorsqu'elle porte sur des figures très célèbres, reste traversée de motifs littéraires.
+
+## 13. Lysippe : un Éros différent, un support différent
+
+Pausanias IX, 27, 3 distingue sans ambiguïté l'Éros **de bronze** exécuté par Lysippe et le marbre plus ancien de Praxitèle. Les deux noms ne doivent jamais être inversés. Le premier est associé aux recherches du IVe siècle sur les proportions et le mouvement des figures ; le second, à la beauté et à la renommée des sculptures de marbre. La comparaison stylistique est légitime, mais elle doit reposer sur des œuvres conservées et attribuées selon des critères explicites.
+
+L'existence de plusieurs images d'Éros dans la même communauté contredit l'idée d'un sanctuaire à objet unique, où toute nouvelle représentation viendrait remplacer et abolir la précédente. La pluralité des images témoigne plutôt de différentes formes de dédicace, de prestige et de relation au public. Chaque sculpture a sa propre chaîne documentaire, son histoire matérielle et ses possibles répliques. Une copie romaine rattachée au type « Lysippe » ne peut être présentée comme une copie de Praxitèle par simple association du nom d'Éros.
+
+Le catalogue du Louvre relie ainsi un Éros archer d'époque impériale (Ma 448, Cp 6411) à un prototype attribué au bronze de Lysippe, tandis que des traditions autour de l'« Éros de Centocelle » se rattachent souvent à un prototype praxitélien. Ces rapprochements sont précieux pour illustrer la fortune des types, mais ils restent des **attributions de réception** et non des restes authentifiés des deux originaux thespien. Les restaurations modernes des marbres compliquent encore la lecture des poses.
+
+## 14. Thespies n'est pas le sanctuaire d'une seule statue
+
+Pausanias IX, 27, 5 évoque également une Aphrodite et une effigie de Phryné attribuées à Praxitèle. Il signale ailleurs un sanctuaire d'Aphrodite Mélainis, un théâtre, une agora, une statue d'Hésiode, une Nikè de bronze et un petit temple des Muses. Plus loin (IX, 27, 6-8) il décrit le sanctuaire d'Héraclès et la tradition d'une prêtresse restant vierge. Ces éléments font apparaître une constellation religieuse et civique plutôt qu'un mono-cultisme du désir.
+
+Aphrodite Mélainis, « la Noire », ne doit pas être expliquée mécaniquement comme l'envers nocturne de l'Éros de Praxitèle ; l'épiclèse est attestée, mais son interprétation locale ne peut être établie par une analogie libre. De même, le voisinage des images des Muses ne suffit pas à rendre les Érotidies identiques aux Mouseia. Les deux concours ont des histoires administratives distinctes, même si leurs programmes et financements ont parfois été réunis.
+
+Un véritable projet iconographique devrait respecter cette pluralité : plan de Thespies et des lieux de culte, distinction ville / Hélicon, tableau des sculptures, généalogie des traditions de consécration, et catalogue des inscriptions agonistiques. Une photographie générale du paysage ne démontrera pas, à elle seule, l'emplacement exact de la pierre aniconique.
+
+## 15. Cicéron : l'image consacrée et les limites du pillage
+
+Dans le quatrième livre de la seconde action contre Verrès, Cicéron (II, 4, 4) oppose la rapacité du gouverneur à des modèles de retenue. Il rappelle que Lucius Mummius, après les événements de 146 avant notre ère, aurait enlevé des statues non consacrées à Thespies, tout en épargnant le Cupidon de marbre de Praxitèle **parce qu'il était consacré** : « quod erat consecratus ». La formule est centrale. Le caractère religieux ne tient pas uniquement à la qualité esthétique ; il peut justifier une frontière normative entre une œuvre disponible pour le transfert et un objet soustrait au prélèvement.
+
+Cette narration appartient à une stratégie judiciaire. Cicéron veut rendre les abus de Verrès scandaleux en les opposant aux conduites d'hommes dont le prestige politique est incontesté. Il serait donc imprudent d'en déduire que le droit romain protégeait toujours les images sacrées ou que les conquérants les respectaient effectivement. Le même objet, plus tard, fut retiré par des empereurs selon la tradition. Le discours atteste l'existence d'une **norme invoquée**, non la permanence de son application.
+
+Cette différence est philosophiquement importante : une œuvre est physiquement transportable, mais sa consécration la rattache à un lieu et à une communauté. L'acte de déplacer ne modifie pas seulement un inventaire d'art ; il altère le système de relations entre offrande, cité et divinité. Le terme « spoliation » doit toutefois être employé analytiquement, en distinguant l'appropriation antique, les récits moralisés qui en sont faits et les débats contemporains de restitution.
+
+## 16. Caligula, Claude, Néron : une histoire de prises et de retours
+
+Pausanias IX, 27, 3-4 relate un déplacement de la célèbre statue vers Rome par Gaius, c'est-à-dire Caligula (37-41), sa restitution aux Thespiens sous Claude (41-54), puis son second enlèvement par Néron (54-68). Selon lui, l'image périt ensuite dans un incendie à Rome. Pline l'Ancien, qui meurt en 79, la mentionne dans les bâtiments d'Octavie. Il n'existe donc pas de contradiction nécessaire entre les deux auteurs : le constat de Pline peut précéder une destruction ultérieure.
+
+Il serait toutefois abusif de fixer, sans preuve supplémentaire, le jour, le lieu exact et les circonstances de l'incendie. On a parfois rapproché la perte de la statue des grands incendies de Rome, mais le témoignage cité ne suffit pas à dater exactement la disparition. La chronologie politique des règnes est solide ; les dates précises des mouvements de l'objet le sont moins. Les deux niveaux doivent rester distincts dans les légendes et les tableaux.
+
+Pausanias associe le sort du dieu à une appréciation morale des empereurs qui lui auraient porté atteinte. Son commentaire sur Caligula et Néron inscrit l'histoire d'un objet dans un récit de châtiment pour impiété. L'historien contemporain ne peut traiter cette causalité sacrée comme une explication factuelle de leurs morts. Il peut en revanche l'étudier comme une interprétation antique de la vulnérabilité du pouvoir politique lorsqu'il prétend disposer librement des biens des cités.
+
+## 17. Ménodore et la possibilité de remplacer l'irremplaçable
+
+Pausanias IX, 27, 4 affirme que l'Éros présent à Thespies à son époque a été réalisé par **Ménodore d'Athènes**, à l'imitation de l'œuvre de Praxitèle. Cette information donne au dossier sa portée philosophique. Une sculpture célèbre ne subsiste pas matériellement, mais son identité culturelle peut être maintenue par la production d'une nouvelle image, par le souvenir de son modèle et par les cérémonies qui continuent à l'entourer.
+
+La copie cultuelle n'est pas nécessairement une contrefaçon ou un simple objet inférieur. Le verbe de l'imitation indique une relation explicitement mémorielle : la nouvelle œuvre renvoie à celle qui manque. L'authenticité cultuelle peut ainsi reposer sur l'insertion de la statue dans un lieu, sur les dédicaces et sur les actes qui l'entourent, sans imposer une identité de matière. Mais il serait tout aussi faux d'affirmer que le remplacement a « effacé » la perte : la mention insistante par Pausanias du chef-d'œuvre disparu prouve le contraire.
+
+L'expérience de Thespies illustre une dissociation entre **originalité esthétique**, **continuité rituelle** et **mémoire civique**. Cette dissociation peut aider à penser des restitutions contemporaines, tout en interdisant de projeter directement des droits patrimoniaux modernes sur le IIe siècle de notre ère. L'important est la pluralité des valeurs attribuées aux objets, non une équivalence anachronique entre toutes les pratiques de conservation.
+
+## 18. Archéologie des copies : critères, restaurations et prudence
+
+L'Éros de Centocelle, connu notamment par un marbre antique au Vatican et par un moulage universitaire conservé au Museum of Classical Archaeology de Cambridge, appartient à la discussion des types associés à Praxitèle. Certaines notices le présentent comme reflet d'un original perdu. Ces identifications sont fondées sur l'analyse du style, des attitudes et de séries de répliques ; elles ne sont pas des inscriptions disant « ceci copie le marbre de Thespies ». En conséquence, toute légende doit adopter la formule « type parfois rapproché de l'Éros de Thespies » plutôt que « photographie de l'Éros de Praxitèle ».
+
+Le marbre impérial du Louvre, numéro Ma 448, est un cas différent : la notice de collection associe le type à un original attribué à Lysippe et précise qu'il s'agit d'une œuvre composite et fortement restaurée. L'iconographie d'un archer nu, doté d'ailes, appartient à un répertoire largement répandu ; les bras refaits, les éléments d'ailes rapportés ou les parties disparues empêchent de l'utiliser comme photographie documentaire immédiate de l'original béotien.
+
+On construira donc une critique visuelle en trois colonnes : **objet effectivement conservé** (lieu, matière, date, inventaire, interventions), **attribution proposée** (modèle, atelier, hypothèse) et **association cultuelle** (lien thespien textuellement attesté ou déduit). Ce dispositif, plus rigoureux qu'une galerie de belles images, permet de faire de l'iconographie une enquête et non une illustration naïve. Les matériaux modernes de restitution visuelle ne seront jamais présentés comme des vestiges.
+
+## 19. Les Érotidies : un dieu de l'amour et des épreuves agonistiques
+
+Les **Ἐρωτίδεια**, ou Érotidies selon la transcription française, forment l'autre grand pôle du culte thespien. Pausanias IX, 31, 3 indique que les Thespiens tiennent en l'honneur d'Éros des concours dotés de prix, concernant non seulement la musique mais aussi des athlètes. Plutarque (*Dialogue sur l'amour*, ouverture, 748e-749c selon la division usuelle) situe une conversation dans le voisinage de l'Hélicon alors que se célèbrent des fêtes du dieu et des Muses. Ces deux témoins littéraires prouvent que le concours n'était pas simplement une dénomination honorifique d'une statue.
+
+Les concours religieux grecs ne séparent pas nettement, comme le ferait une organisation moderne, culte, musique, sport, économie festive et politique de la représentation. Les agônes attirent et classent les concurrents, distribuent des honneurs, font circuler les familles de bienfaiteurs et articulent la cité à d'autres territoires. Le dieu n'est donc pas réductible à une compétence érotique privée : sa célébration contribue à l'organisation de la présence publique.
+
+La périodicité des fêtes apparaît notamment dans la tradition plutarquéenne ; elle ne doit pas conduire à construire un calendrier annuel complet à partir de quelques lignes. L'expression de fêtes quinquennales est habituellement interprétée selon le compte inclusif grec, avec un retour tous les quatre ans modernes. Les phases de célébration, les dénominations et la coexistence avec les Mouseia ont varié ; une périodicité observée ou racontée pour une phase ne vaut pas automatiquement pour toute l'histoire.
+
+## 20. Épigraphie : dates disputées et institution des concours
+
+Le corpus des inscriptions de Thespies, notamment l'édition de Paul Roesch (*I.Thespiai*), fournit des actes de reconnaissance, des listes de vainqueurs et des documents de financement. L'inscription honorifique pour Q. Bruttius Sura, *I.Thespiai* 34, généralement mise en rapport avec les événements militaires de 87-86 avant notre ère, mentionne les célébrations **dans un passage partiellement restitué**. Une partie de la formule des Érotidies et Mouseia résulte de propositions de lecture. Il faut donc distinguer ce que porte matériellement la pierre de ce que l'éditeur complète entre crochets.
+
+*IG* II² 1054, décret athénien évoquant une délégation de théores aux Érotidies et Romaia, constitue un point d'appui important mais controversé pour la chronologie initiale. Stephen Tracy et d'autres ont proposé une datation vers la fin du IIe siècle avant notre ère ; Denis Knoepfler a défendu une relecture plaçant l'organisation des concours après 86, dans le contexte romain. Albert Schachter, dans son étude de 2024 consacrée aux jeux de Thespies, reprend le débat et les limites de chaque reconstruction. Le désaccord porte donc sur la relation entre édition épigraphique, datation paléographique et récit historique des événements.
+
+La première attestation d'une fête ne prouve ni sa fondation ce jour-là, ni son existence dès l'époque archaïque. Un événement ancien peut être documenté tardivement ; inversement, une tradition de grande ancienneté peut couvrir une institution plus récente. La solution est d'attribuer à chaque inscription sa **fourchette chronologique**, son état de conservation et la part de restitution contenue dans le texte. Aucune datation absolument certaine de la fondation des Érotidies ne ressort de l'ensemble aujourd'hui disponible.
+
+## 21. Programme agonistique, vainqueurs et circulation méditerranéenne
+
+L'inscription *I.Thespiai* 175, ainsi que d'autres listes de vainqueurs, signale des configurations où se mêlent épreuves musicales, compétitions athlétiques et honneurs impériaux. La recherche d'Albert Schachter distingue des listes relativement informatives (*I.Thespiai* 175, 188) et d'autres fragmentaires (189-193), dont l'attribution exacte aux Érotidies n'est pas toujours assurée. On rencontre des ethnics reliant Thespies à d'autres villes de Béotie, à la Grèce continentale, à l'Asie Mineure et à l'Égypte romaine. Ces données documentent des déplacements de personnes ; elles ne démontrent pas que toutes ces cités partageaient un culte d'Éros identique.
+
+Il faut examiner le vocabulaire grec : **ἀγών**, compétition ; **ἀγωνοθέτης**, organisateur ou magistrat du concours ; **θεωρός**, envoyé chargé d'une mission sacrée ou festivalière ; **νίκη**, victoire ; **στέφανος**, couronne d'honneur. Ces termes signalent une institution distincte du simple pèlerinage individuel devant une statue. Les titulatures agonistiques évoluent également, notamment lorsque s'ajoutent Romaia ou Kaisareia.
+
+Le caractère sportif des Érotidies déjoue un préjugé moderne : pourquoi le désir présiderait-il à la course, à la lutte ou aux épreuves équestres ? Une réponse strictement psychologique serait réductrice. Dans le cadre grec, la compétition est une modalité d'exhibition de l'excellence, des corps formés, de l'effort public et de la reconnaissance. Le nom d'Éros organise le rapport symbolique à ces activités, sans fournir à lui seul une doctrine explicite de l'éducation physique.
+
+## 22. Plutarque : l'Éros des concours et celui du débat philosophique
+
+Le *Dialogue sur l'amour* (*Amatorius*, *Erotikos*) de Plutarque est conçu autour d'une discussion tenue au cours des fêtes d'Éros et des Muses, dans l'environnement de Thespies et de l'Hélicon. Le livre aborde notamment l'union d'Isménodora et du jeune Bacchon, puis un conflit de conceptions de l'amour, entre prestige des amours masculines, défense des relations conjugales et puissance divine d'Éros. Il met en scène la discussion de la loi, du désir, de l'âge, du consentement, de la réputation et de la stabilité des liens.
+
+Il s'agit d'un texte philosophico-littéraire, non d'une transcription de paroles prononcées exactement en ce lieu. Les délibérations sont ordonnées par la composition de Plutarque. Leur insertion dans l'espace d'une fête montre cependant comment l'écrivain a pu faire du culte thespien un cadre intellectuel apte à penser l'érotique, la vertu et l'institution du mariage. L'Éros civique devient ici le foyer d'une confrontation d'idées plus large que le seul rituel.
+
+Le rapprochement avec Platon ne signifie pas identité. Plutarque reprend et conteste des motifs platoniciens, mais élabore une philosophie plus attentive à la réciprocité conjugale et aux formes sociales de la fidélité. Pour comprendre la signification historique du dialogue, on doit tenir compte des normes de l'époque impériale et du caractère rhétorique de la scène. Le passage à un « culte antique de l'amour conjugal » serait une extrapolation.
+
+## 23. Les dédicaces : financer, réparer, honorer Éros
+
+Le sanctuaire a continué d'être un lieu d'intervention de personnes et de familles. L'inscription *I.Thespiai* 269, commentée par les études épigraphiques, est associée à la restauration d'éléments du sanctuaire d'Éros par Phileinos, membre d'une famille notable. La documentation laisse entrevoir des travaux, des donations et des actes de représentation publique. Elle ne suffit pas à dresser un inventaire complet des structures fouillées ni à reconstruire toutes les phases architecturales.
+
+La dédicace à Éros attribuée à Hadrien, *I.Thespiai* 270 dans la numérotation du corpus thespien, est liée par les études à une offrande issue d'une chasse à l'ourse. Ce document, exceptionnel dans son registre, oblige à distinguer les représentations modernes d'une divinité exclusivement associée aux amants de la variété antique des pratiques votives. Il doit être commenté à partir de son édition et de son support ; l'existence d'une dédicace ne permet pas de reconstituer sans indices un rite cynégétique régulier consacré au dieu.
+
+Une inscription ne vaut pas seulement pour son texte : provenance, pierre, état, lacunes, main du graveur, contexte de déplacement et conservation actuelle font partie de sa valeur probatoire. Pour chaque document, une publication rigoureuse devrait donner le sigle de corpus, le texte grec disponible, la traduction, une photographie autorisée ou un fac-similé et la note signalant les restitutions conjecturales.
+
+## 24. Romaia, Kaisareia : l'amour, la cité et le pouvoir romain
+
+La titulature des concours, associant parfois **Ἐρωτίδεια** à **Ῥωμαῖα** ou **Καισάρεια**, témoigne d'une transformation de l'horizon honorifique. Le dieu local n'est pas supprimé ; le programme est reformulé en rapport avec Rome ou le pouvoir impérial. Cela ne suffit pas à prouver que les participants adoptaient une théologie officielle de l'Empire. Les noms de fêtes sont à la fois religieux, honorifiques, diplomatiques et politiques.
+
+La cité de Thespies a connu des relations mouvantes avec les puissances dominantes, notamment dans le contexte des conflits mithridatiques. La reconnaissance de bienfaiteurs romains participe à ces stratégies de survie et de prestige. La proposition selon laquelle Sylla aurait restitué la statue et favorisé l'institution de nouveaux concours demeure une **hypothèse historiographique débattue**, et non un fait acquis. Elle doit être confrontée à la remarque de Cicéron concernant l'épargne de l'œuvre par Mummius.
+
+Le culte thespien offre ainsi un terrain d'étude des politiques du patrimoine ancien. Un objet consacré peut être présenté comme inaliénable dans un discours d'orateur, déplacé par un empereur, restitué par un successeur, puis remplacé par une imitation. La valeur religieuse de la statue ne supprime pas l'asymétrie de puissance entre la cité et Rome ; elle peut au contraire donner à cette asymétrie une visibilité exceptionnelle.
+
+## 25. Comparaisons grecques : Parium, Athènes et les autres Érotes
+
+Pausanias IX, 27, 1 compare la vénération thespienne à celle de **Parium** sur l'Hellespont ; Pline XXXVI, 22 connaît lui aussi un Cupidon de Praxitèle dans cette ville. La comparaison montre que le culte autonome d'Éros n'est pas une singularité absolue de Thespies. Mais les objets ne doivent pas être confondus : la provenance, la matérialité et le récit de chaque statue sont différents.
+
+On peut également évoquer le culte d'Éros dans les espaces gymniques athéniens, en particulier la tradition de l'autel près de l'Académie rapportée par Pausanias I, 30, 1. Ces lieux révèlent des configurations où le désir peut croiser l'éducation et les relations entre individus. Ils ne prouvent pas que Thespies pratiquait la même liturgie ou qu'un rite éphébique précis se cachait derrière les Érotidies.
+
+D'autres traditions font d'Éros un enfant d'Aphrodite, un compagnon de Dionysos, un principe cosmologique ou une pluralité d'Érotes ailés. La comparaison n'est probante que si l'on précise le type de source mobilisée : généalogie mythique, représentation vasculaire, hymne, épigramme, relief votif, texte philosophique ou inscription. L'identité du nom ne vaut pas identité des usages. Cette règle prémunit le dossier contre l'universalisme abstrait qui ferait d'Éros un « dieu de l'amour » partout et toujours identique à lui-même.
+
+## 26. Platon : l'ancien dieu et le démon intermédiaire
+
+Le *Banquet* de Platon offre un laboratoire essentiel de la pluralité des discours sur Éros. Phèdre (178a-c) insiste sur l'antiquité du dieu, mobilisant Hésiode et d'autres autorités. Pausanias (180d-185c), personnage du dialogue à ne pas confondre avec le périégète, distingue deux formes d'amour liées à deux Aphrodites. Aristophane (189c-193d) développe un récit de division des êtres et de recherche de l'autre moitié. Socrate, rapportant Diotime (201d-212a), propose un autre régime : Éros n'est plus un dieu parfaitement comblé mais un **δαίμων**, intermédiaire entre mortel et divin, fils de Poros et de Penia, orienté vers l'acquisition durable du bien.
+
+Cette scène philosophique n'explique pas le rituel thespien. Elle fournit des outils pour distinguer deux pôles que le sanctuaire met en présence : une puissance ancienne honorée comme divine et un désir vécu comme manque, mouvement et recherche. Le culte peut donner une forme stable à ce qui, dans les relations humaines, demeure fondamentalement instable. Mais une telle formulation constitue une **interprétation philosophique comparative**, pas une croyance explicitement attribuable aux officiants de Thespies.
+
+Dans le *Phèdre*, la manie inspirée et le désir de beauté jouent également un rôle. La lecture des statues sous le signe de la contemplation platonicienne est tentante : l'image attire le regard, celui-ci peut devenir point de départ d'une relation à la beauté. Cependant les textes ne garantissent pas que Praxitèle, Phryné ou les visiteurs aient conçu l'œuvre selon cette théorie. L'historien doit juxtaposer les questions sans transformer une affinité spéculative en dépendance historique.
+
+## 27. Aristote : le désir, principe de mouvement, et ses limites
+
+Dans *Métaphysique* A, 4 (984b, autour de 984b23-31), Aristote mentionne ceux qui ont fait du désir ou de l'amour une puissance explicative du mouvement et de l'ordre des êtres, en évoquant Hésiode et d'autres auteurs. La recherche d'un principe moteur ne coïncide pas avec l'histoire d'un culte, mais elle montre comment Éros pouvait devenir un concept dans l'examen philosophique des premières causes.
+
+Il est possible de comparer cette fonction causale à la création plastique : l'attention suscitée par une image met physiquement des visiteurs en mouvement, et les concours créent des parcours de déplacement, de compétition et de réputation. Il faut toutefois signaler le caractère métaphorique de cette analogie. Aristote ne parle pas ici du marbre de Thespies et n'en dérive aucune théorie de la sculpture religieuse.
+
+La distinction entre **cause ontologique**, **motif humain**, **institution rituelle** et **objet artistique** résume le problème central de ce dossier. Éros peut être traité comme condition de génération dans une cosmogonie, comme orientation du vivant dans la philosophie, comme figure agissante dans la littérature, et comme destinataire de cérémonies dans une ville historique. Le travail universitaire n'a pas pour mission d'écraser ces régimes sous un seul principe totalisant.
+
+## 28. Genre, désir et la politique antique du regard
+
+L'histoire des statues d'Éros mobilise de manière insistante le rapport entre création, désir et visibilité. Les récits sur Phryné, ses portraits et l'Aphrodite de Cnide construisent un univers dans lequel les corps féminins sont regardés, évalués et commentés. Mais le récit de la dédicace fait également apparaître une femme qui agit : elle choisit une œuvre et en oriente la destination cultuelle. Une analyse de genre doit conserver simultanément ces deux aspects, sans projeter sur la Grèce ancienne l'autonomie sociale ou les catégories contemporaines comme si elles étaient établies.
+
+Le corps masculin de l'Éros juvénile constitue un autre défi. Le jeune dieu peut être objet de beauté, détenteur d'une puissance qui désarme, figure d'un âge à la frontière de catégories modernes de masculinité et d'enfance. La variété des types grecs et romains empêche d'affirmer que tous les Érotes sont des enfants ailés. Le passage d'une image de jeune homme à des putti romains est une histoire iconographique complexe, non une métamorphose linéaire du seul chef-d'œuvre thespien.
+
+Une lecture sociale des concours peut examiner comment les corps deviennent publics et compétitifs sous la protection du dieu. Elle n'autorise cependant pas à inférer les identités, les expériences sexuelles ou les aspirations des athlètes individuels à partir du nom de la fête. L'enquête devra se limiter aux catégories d'épreuves, aux inscriptions et aux valeurs que les sources explicitent.
+
+## 29. Penser les images déplacées sans anachronisme
+
+La succession du marbre de Praxitèle, de ses voyages forcés, de sa disparition et d'une copie de remplacement offre un cas particulièrement dense pour penser les relations entre art et patrimoine. Le modèle moderne de « propriété culturelle » ne recouvre pas exactement les catégories antiques de consécration, de prestige de cité et de pouvoir souverain. L'exemple thespien oblige néanmoins à poser une question historique précise : **qu'est-ce qu'une communauté perd lorsque l'objet auquel elle rattache un dieu lui est retiré ?**
+
+Elle peut perdre une œuvre irremplaçable, un symbole de rang, une ressource d'attraction, un support de continuité et une partie de sa mémoire. Toutefois, les inscriptions, les célébrations et la copie de Ménodore attestent que la relation au dieu ne s'annule pas avec la disparition de l'original. La présence de la pierre brute renforce cette idée : rien ne prouve que le culte local dépende absolument d'une unique image figurative.
+
+L'histoire du dossier interroge aussi les musées contemporains. Les copies romaines identifiées par le style sont parfois présentées au public au moyen de légendes trop affirmatives. Il est préférable d'exposer un **degré de certitude** : objet conservé attesté ; modèle attribué ; destination thespienne du prototype possible ; lien au marbre exact non démontré. Cette pédagogie de l'incertitude accroît la valeur des œuvres au lieu de la diminuer.
+
+## 30. Matrice critique des preuves
+
+| Proposition | Source principale | Degré de certitude | Limite |
+|---|---|---|---|
+| Éros reçoit une vénération prééminente à Thespies | Pausanias IX, 27, 1 | Élevé pour le témoignage du IIe s. | Ne date pas la naissance du culte |
+| Une pierre brute est dite la plus ancienne image | Pausanias IX, 27, 1 | Élevé comme énoncé textuel | Provenance et objet conservé non identifiés |
+| Praxitèle créa un Éros en marbre pentélique | Pausanias IX, 27, 3 ; Cicéron II, 4, 4 | Élevé pour l'attribution antique et le matériau | Original perdu ; pose inconnue |
+| Lysippe créa un Éros en bronze | Pausanias IX, 27, 3 | Élevé pour le témoignage | Répliques discutées |
+| Phryné aurait consacré l'œuvre | Pausanias I, 20, 1-2 ; Athénée XIII, 591 | Tradition attestée | Motif de la ruse littérarisé |
+| Glycère l'aurait consacrée | Strabon IX, 2, 25 | Tradition concurrente attestée | Identité de la donatrice disputée |
+| Mummius respecta le marbre consacré | Cicéron II, 4, 4 | Témoignage rhétorique explicite | Utilisé comme argument judiciaire |
+| Gaius emporta, Claude restitua, Néron reprit | Pausanias IX, 27, 3 | Tradition antique cohérente | Chronologie fine des transports incertaine |
+| Une copie de Ménodore existait à Thespies | Pausanias IX, 27, 4 | Témoignage explicite | Objet matériel non identifié sûrement |
+| Des concours pour Éros eurent lieu | Pausanias IX, 31, 3 ; Plutarque ; inscriptions | Élevé | Fondation et programme variant selon les époques |
+| Les Érotidies existaient déjà au IIe s. av. J.-C. | IG II² 1054, selon une datation | Discuté | Datation et reconstructions épigraphiques |
+| Les types conservés reproduisent exactement Praxitèle | Études stylistiques | Hypothétique | Aucune identification épigraphique décisive |
+
+Cette matrice n'est pas une échelle mathématique de vérité. Elle associe chaque proposition à un genre de source et précise **ce que l'on sait, ce que l'on transmet et ce que l'on reconstruit**.
+
+## 31. Repères chronologiques contrôlés
+
+- **Époque archaïque / Ve siècle av. J.-C.** : rédaction et circulation des traditions poétiques mobilisées dans l'étude d'Éros ; l'ancienneté exacte du culte de la pierre de Thespies reste inconnue.
+- **IVe siècle av. J.-C.** : activité de Praxitèle et de Lysippe ; datation stylistique générale de leurs œuvres, sans précision absolue pour les deux Érotes thespiennes.
+- **146 av. J.-C.** : contexte des prélèvements de Mummius et de la rétrospective morale élaborée par Cicéron.
+- **Fin du IIe / Ier siècle av. J.-C.** : chronologies débattues des premiers témoignages épigraphiques sur les Érotidies, notamment IG II² 1054 et I.Thespiai 34.
+- **37-41 apr. J.-C.** : règne de Caligula ; premier prélèvement rapporté par Pausanias.
+- **41-54** : règne de Claude ; restitution rapportée.
+- **54-68** : règne de Néron ; second transfert rapporté.
+- **Avant 79** : Pline évoque à Rome le Cupidon de Thespies dans les bâtiments d'Octavie.
+- **IIe siècle apr. J.-C.** : Pausanias témoigne de la pierre, des traditions artistiques et du remplacement par Ménodore ; les concours sont encore intégrés à la mémoire religieuse.
+- **Période impériale** : inscriptions de magistrats, de vainqueurs et de bienfaiteurs ; phases de combinaison d'Érotidies, Mouseia, Romaia et Kaisareia.
+- **Époque moderne et contemporaine** : identification de types statuaires romains, études épigraphiques, débats sur les datations et l'histoire du sanctuaire ; aucune de ces interprétations ne reconstitue automatiquement l'original perdu.
+
+## 32. Programme iconographique scientifique — sans reconstitution 2,5D
+
+Les illustrations suivantes sont **proposées**, non jointes ni prétendues déjà publiées. Chaque intégration devra vérifier l'accès, la licence de reproduction, la légende, le crédit, l'objet d'inventaire et le contexte scientifique. Les images de restitution par IA, si elles sont un jour utilisées, devront être étiquetées explicitement comme hypothèses artistiques et jamais comme témoignages.
+
+**Figure 1 — Carte critique des espaces.** Thespies, Ascra, Hélicon, vallée des Muses et Creusis, avec échelle, topographie vérifiée et séparation ville / sanctuaires de montagne. Sources textuelles : Strabon IX, 2, 25 ; Pausanias IX, 27-31. Réalisation : carte originale à partir de données cartographiques dont les droits et provenances auront été contrôlés, sans localisation inventée de la pierre d'Éros.
+
+**Figure 2 — Le témoignage de la pierre brute.** Reproduction typographique courte du grec de Pausanias IX, 27, 1 : ἄγαλμα παλαιότατόν ... ἀργὸς λίθος, avec traduction analytique. Ne pas substituer la photographie d'une pierre quelconque et prétendre qu'il s'agit de l'objet thespien. La philologie elle-même constitue ici le document authentique.
+
+**Figure 3 — Praxitèle, l'original absent.** Schéma chronologique indiquant un marbre pentélique du IVe siècle attribué par les auteurs, les traditions de consécration Phryné / Glycère et les déplacements romains. Représenter l'original par une silhouette neutre « aspect non établi », et non par une image réaliste générée.
+
+**Figure 4 — Éros de Centocelle.** Photographie autorisée de l'original romain au Vatican, si une licence adéquate est trouvée, ou photographie autorisée du moulage numéro 229 du Museum of Classical Archaeology de Cambridge. Légende obligatoire : « Type romain rapproché par des études modernes d'un prototype praxitélien ; identification exacte avec l'Éros thespien non démontrée. » Notice de référence : https://museum.classics.cam.ac.uk/collections/casts/eros-centocelle.
+
+**Figure 5 — Éros archer du Louvre, Ma 448 / Cp 6411.** Marbre d'époque romaine impériale, œuvre composite avec restaurations importantes ; le catalogue le rattache à un original de Lysippe. Légende : « copie d'un type attribué à Lysippe, non marbre original de Praxitèle ; éléments rapportés et refaits ». Notice officielle : https://collections.louvre.fr/ark:/53355/cl010278055. Vérifier droits sur la photographie avant insertion.
+
+**Figure 6 — Inscription I.Thespiai 34.** Photographie, fac-similé ou fac-similé typographique du décret pour Q. Bruttius Sura, avec marquage des passages restitués entre crochets et note sur les datations. Édition et traduction accessibles via les collections épigraphiques grecques et https://www.attalus.org/docs/other/inscr_129.html.
+
+**Figure 7 — Tableau des concours.** Infographie documentaire originale mettant en regard les titres Érotidies / Romaia / Kaisareia / Mouseia, les inscriptions IG II² 1054, I.Thespiai 175, 188, 189-193 et les épisodes de combinaisons de programmes. Sources : Albert Schachter, « Local Games of Thespiai » (2024), p. 46-57. Reproduire les données et non la composition protégée de la publication.
+
+**Figure 8 — Phryné et Glycère, variantes.** Tableau à deux colonnes des attestations et de leur datation : Pausanias et Athénée d'une part, Strabon d'autre part. Éviter de présenter les tableaux académiques modernes ou les peintures tardives de Phryné comme des portraits antiques documentés.
+
+**Figure 9 — Une dédicace impériale à Éros.** Notice épigraphique d'I.Thespiai 269 (restauration) ou 270 (offrande associée à Hadrien), seulement après accès à une édition critique et à une photographie sourcée de la pierre. Signaler les lacunes, les restitutions et l'état de conservation.
+
+**Figure 10 — Chronologie des lieux et des images.** Bande datée distinguant les règnes impériaux, la mention de Pline, les sources pausaniennes, l'absence de datation du lithos et les hypothèses de reconstitution. Utiliser des mentions « attestation », « tradition », « hypothèse » dans chaque jalon.
+
+**Figure 11 — L'Hélicon archéologique.** Photographie contemporaine du paysage, localisée et créditée, pour montrer l'environnement des Muses ; légende prévenant explicitement que l'image ne constitue pas le site archéologiquement identifié du temple d'Éros.
+
+**Figure 12 — Comparaison des objets, pas fusion.** Trois encarts documentaires : pierre brute (témoignage textuel seulement), marbre de Praxitèle (perdu), bronze de Lysippe (perdu). Quatrième encart : copies romaines discutées. Un code graphique « original attesté / objet non conservé / copie possible » doit empêcher la lecture fallacieuse d'une succession d'objets authentifiés.
+
+Ces douze documents constituent un cahier des charges scientifique et documentaire. Aucun photomontage 2,5D ne doit être généré ni réintroduit.
+
+## 33. Glossaire philologique et termes techniques
+
+**Ἔρως / ἔρως** : dieu / désir, selon syntaxe et contexte ; la différence typographique majuscule/minuscule est une convention éditoriale moderne, non une distinction systématique des manuscrits anciens.
+
+**ἀργὸς λίθος** : pierre non travaillée ; la traduction « bétyle » constitue déjà une classification comparative et ne doit pas être confondue avec les mots précis de Pausanias.
+
+**ἄγαλμα** : objet d'honneur ou image consacrée, fréquemment représentation divine ; ne préjuge pas d'une statue anthropomorphe.
+
+**ἀνάθημα / ἀνατίθημι** : offrande consacrée / consacrer, déposer en offrande.
+
+**μαρμάρινος / λίθος Πεντελήσιος** : qualificatifs du marbre et du matériau pentélique ; utiles pour distinguer l'Éros de Praxitèle du bronze de Lysippe.
+
+**ἑταίρα** : compagne ou courtisane selon le genre et le contexte ; catégorie sociale à ne pas uniformiser.
+
+**ἀγών, ἀγωνοθέτης, θεωρός** : concours, magistrat organisateur, délégué à une célébration.
+
+**Ἐρωτίδεια, Μουσεῖα, Ῥωμαῖα, Καισάρεια** : noms de fêtes ou titulatures agonistiques ; l'orthographe épigraphique peut varier.
+
+**πόθος, ἵμερος, Πειθώ, Ἀντέρως** : désir de l'absent, élan, persuasion et réciprocité/retour du désir ; les définitions varient selon auteurs et époques.
+
+**δαίμων** : terme que Diotime applique à Éros dans le *Banquet*, désignant un intermédiaire entre les mortels et les dieux ; ne pas traduire automatiquement par « démon » au sens chrétien.
+
+**ἐπιγραφή, ἀποκατάστασις** : inscription ; restauration ou restitution, cette dernière pouvant également concerner le texte lacunaire d'une inscription.
+
+## 34. Corpus des sources primaires : références précises
+
+1. **Pausanias**, *Description de la Grèce* IX, 27, 1-5 : pierre d'Éros, parentés, Praxitèle, Lysippe, enlèvements et copie de Ménodore ; IX, 27, 6-8 : Héraclès thespien ; IX, 31, 3 : concours d'Éros et Mouseia ; I, 20, 1-2 : ruse de Phryné et choix de l'Éros. Texte grec et traduction en ligne : https://www.greekmythology.com/sources/pausanias/description-of-greece/9-27 ; corpus anglais Jones-Ormerod et éditions grecques critiques à contrôler pour les leçons.
+2. **Strabon**, *Géographie* IX, 2, 25 : Thespies, Hélicon, Ascra, réputation de la statue et **Glycère** comme donatrice. Texte grec : https://www.greekmythology.com/sources/strabo/geography/9-helicon-thespiae-plataeae.
+3. **Cicéron**, *In Verrem*, seconde action, II, 4, 4 : Cupidon's marble image, Mummius, consécration et justification morale du respect du sanctuaire. Texte latin : https://www.attalus.org/cicero/verres24.html.
+4. **Pline l'Ancien**, *Histoire naturelle* XXXVI, 20-23, en particulier 22 dans plusieurs divisions éditoriales : Cupidon de Praxitèle, Thespies, édifices d'Octavie, Parium. Latin et traduction : https://www.attalus.org/translate/pliny_hn36a.html.
+5. **Athénée**, *Deipnosophistes* XIII, 590f-591b : Phryné, récit biographique, dédicace et statut de l'œuvre ; XIII, 561e : traditions sur les Érotidies, selon la numérotation standard. Voir https://www.attalus.org/old/athenaeus13c.html.
+6. **Plutarque**, *Moralia*, *Amatorius* (*Erotikos*, *Dialogue sur l'amour*), ouverture 748e-749c, ainsi que le dialogue dans son ensemble : cadre des fêtes, problématisation philosophique du désir et des unions ; https://www.greekmythology.com/sources/plutarch/dialogue-on-love.
+7. **Hésiode**, *Théogonie* 116-122 : Éros parmi les premières présences cosmiques ; 188-206 : naissance d'Aphrodite, Éros et Himéros comme compagnons. Édition et traduction disponibles sur https://www.theoi.com/Text/HesiodTheogony.html.
+8. **Sappho**, fragments 47 et 130 dans l'édition Eva-Maria Voigt (1971) : secousse des sentiments et doux-amer ; la transmission fragmentaire impose le contrôle de la traduction et des leçons.
+9. **Sophocle**, *Antigone* 781-800 : ode à Éros invaincu.
+10. **Euripide**, *Hippolyte* 525-564 : intervention chorale sur Éros ; lecture à replacer dans la dramaturgie entière de la pièce.
+11. **Platon**, *Banquet* 178a-c, 180d-185c, 189c-193d, 201d-212a ; *Phèdre* 244a-257b : versions philosophico-mythiques du désir.
+12. **Aristote**, *Métaphysique* A, 4, 984b23-31 : Éros et les principes explicatifs du mouvement.
+13. **Épigraphie**, *I.Thespiai* 34 (décret pour Q. Bruttius Sura), 175, 188-193 (jeux), 269 (restauration), 270 (dédicace impériale), *IG* II² 1054 ; pour les restitutions et datations, consulter les éditions critiques, https://inscriptions.packhum.org/ et les dossiers publiés par HiSoMA. Une traduction du décret de Bruttius Sura : https://www.attalus.org/docs/other/inscr_129.html.
+14. **Stratification documentaire** : les témoignages de Pausanias et Pline sur la disparition de l'original ne donnent pas à eux seuls l'identité visuelle de copies impériales conservées ; les inscriptions décrivent des fêtes à leurs époques d'émission, non un programme valable depuis toujours.
+
+### Bibliographie critique sélective, commentée
+
+**Albert Schachter**, « Local Games of Thespiai », dans Sebastian Scharff (dir.), *Beyond the Big Four: Local Games in Ancient Greek Athletic Culture*, *Teiresias Supplements Online* 4, Münster, 2024, p. 46-57. Étude essentielle pour les inscriptions, l'organisation des Érotidies, leurs intitulés, le rapport aux Mouseia et les controverses de datation. DOI du volume : 10.17879/tso-2024-vol4 ; consultation : https://ejournals.uni-muenster.de/tso/issue/download/456/97.
+
+**Albert Schachter**, *Cults of Boiotia*, plusieurs volumes, Londres, Institute of Classical Studies, 1981-1994. Corpus fondamental pour la géographie cultuelle et la confrontation de la topographie, des inscriptions et de la tradition littéraire. Vérifier pour chaque référence spécialisée le volume et la pagination exacte avant toute note détaillée.
+
+**Paul Roesch**, *Les inscriptions de Thespies* (*I.Thespiai*), corpus épigraphique avec édition numérique préparée sous l'égide de HiSoMA. Base privilégiée pour les autopsies, restitutions de lettres, provenances et inscriptions liées aux fêtes.
+
+**Denis Knoepfler**, travaux de 1997 et travaux ultérieurs sur les Érotidies, la restitution présumée de la statue et la chronologie épigraphique. La reconstruction historique proposée est discutée dans Schachter 2024 et ne doit pas être adoptée comme une certitude.
+
+**Christel Müller**, étude de 2017 consacrée à la destinée romaine de Thespies et au contexte de sa reconnaissance politique ; discutée par Schachter 2024, notamment sur la datation des fêtes après 86 av. J.-C.
+
+**Stephen V. Tracy**, recherches sur les mains de graveurs athéniens et la datation de l'inscription *IG* II² 1054, notamment les propositions examinées dans Schachter 2024.
+
+**Konstantinos Kalliontzis**, recherches épigraphiques béotiennes sur les fêtes, inscriptions honorifiques et institutions ; à utiliser en relation avec les discussions des documents thespien.
+
+**Andrew Stewart**, *Greek Sculpture: An Exploration*, New Haven, Yale University Press, 1990 ; et *Art, Desire, and the Body in Ancient Greece*, Cambridge, Cambridge University Press, 1997. Études sur la statuaire, le corps et le désir, utiles à la lecture des types mais non substituables aux preuves d'identification d'originaux perdus.
+
+**Christine Mitchell Havelock**, *The Aphrodite of Knidos and Her Successors: A Historical Review of the Female Nude in Greek Art*, Ann Arbor, University of Michigan Press, 1995. Contexte critique pour Praxitèle, le regard et la tradition des modèles féminins ; ne pas assimiler automatiquement l'Éros thespien à une œuvre aphrodisienne.
+
+**Vinciane Pirenne-Delforge**, *L'Aphrodite grecque*, Athènes-Liège, Kernos Supplément 4, 1994. Recommandée pour la prudence méthodologique concernant les cultes, les épiclèses et la pluralité des figures du désir.
+
+**Anne Carson**, *Eros the Bittersweet*, Princeton, Princeton University Press, 1986. Lecture littéraire du désir comme manque, douceur et douleur ; pertinente pour Sappho, à maintenir distincte d'une enquête d'archéologie cultuelle.
+
+**Jean-Pierre Vernant**, *L'Individu, la mort, l'amour. Soi-même et l'autre en Grèce ancienne*, Paris, Gallimard, 1989. Perspective comparatiste pour les modes de constitution de soi et le désir ; ne fournit pas d'attestation spécifique de Thespies.
+
+**Museum of Classical Archaeology, University of Cambridge**, notice « Eros of Centocelle » : https://museum.classics.cam.ac.uk/collections/casts/eros-centocelle. Notice de moulage, non publication d'un original grec conservé.
+
+**Musée du Louvre**, notice d'objet Ma 448 / Cp 6411, « Éros » : https://collections.louvre.fr/ark:/53355/cl010278055. Documentation d'un marbre d'époque romaine, avec inventaire des restaurations et attribution typologique à Lysippe.
+
+### Lectures croisées et questions de recherche
+
+Trois problèmes demeurent ouverts. **Premièrement**, quel rapport spatial et cérémoniel unissait la pierre brute et les sculptures figuratives ? Le texte de Pausanias ne précise pas la disposition ni les gestes. **Deuxièmement**, quand les Érotidies ont-elles acquis leur forme agonistique attestée, et sous quels auspices politiques ? Les inscriptions sont plus sûres sur l'existence des institutions que sur leur première création. **Troisièmement**, quelle identité ontologique une cité attribuait-elle à une image de remplacement ? Ménodore reproduit un modèle perdu, mais la célébration du dieu ne se résume pas à une copie technique.
+
+Un programme de recherche devrait associer l'édition photographique des inscriptions, la critique des restitutions textuelles, un catalogue raisonné des types romains d'Éros, une étude topographique de la ville et un relevé de chaque étape des transferts impériaux rapportés. Il faudrait enfin confronter les résultats à l'histoire plus large du territoire béotien, sans confondre le culte local d'Éros avec ceux d'Aphrodite, d'Héraclès, des Muses ou les modèles philosophiques d'Éros.
+
+## 35. Conclusion : les trois présences d'Éros
+
+Éros, à Thespies, ne désigne pas un simple sujet de mythologie illustrée. La **pierre brute** dit une antériorité revendiquée et la permanence d'un lieu ; la **statue de Praxitèle** fait d'une cité un centre de renommée artistique et l'expose aux ambitions des puissants ; les **Érotidies** rendent tangible l'honneur dû au dieu dans le temps collectif, au moyen de concours, d'honneurs, de dons et d'inscriptions. L'association des trois ne produit pas un récit continu et homogène, mais un dossier où la mémoire cultuelle s'entretient par des objets différents, des mots différents et des pratiques qui changent.
+
+Les contradictions constituent une part positive de la connaissance : Phryné ou Glycère ; pierre primitive déclarée mais non datée ; original de marbre ou copies de types statuaires divers ; fondation des concours antérieure ou postérieure à 86 ; politique religieuse impériale et protection juridique invoquée du bien consacré. Les préserver dans une édition explicite n'est pas affaiblir l'histoire : c'est refuser de convertir les lacunes des sources en certitudes imaginaires.
+
+La leçon générale est celle d'une puissance divine qui déborde les représentations qui lui sont consacrées. Éros est désir dans les poèmes, principe dans les cosmologies, manque dans la philosophie, image dans la sculpture et institution dans la fête. À Thespies, il garde une existence publique lorsque les œuvres circulent ou disparaissent. **La continuité du dieu ne repose donc ni sur la permanence d'une statue, ni sur un seul mythe, mais sur la capacité d'une communauté à reconnaître, transmettre et réinventer ses relations cultuelles.**
+
+---
+
+*Note de continuité MYTHOS.* Cette monographie constitue une étude nouvelle sur Éros de Thespies, distincte des notices béotiennes et des chapitres de mythologie générale déjà existants. Aucun chapitre numéroté n'est créé par l'auteur ; le titre utilise exclusivement 444 jusqu'à l'attribution atomique par GitHub Actions. Les études 433 et 438 sur Athéna Lindia restent préservées, de même que Hélios 259. Ce dépôt ne modifie ni le registre de numérotation, ni les textes antérieurs, ni les planifications horaires, ni les médias du site. L'existence de ce JSON dans la file ne constitue pas la preuve d'une page publiquement déployée.

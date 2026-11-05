@@ -1,0 +1,281 @@
+# Chapitre 695 — Aigai et les tombes royales de Macédoine : Philippe II, Perséphone, crémation et mémoire dynastique
+
+*MYTHOS — Les Origines du sacré, volume DCXCV. Monographie universitaire : archéologie, philologie grecque, bioarchéologie, iconographie, anthropologie funéraire et philosophie de la souveraineté. Dossier critique actualisé au 5 novembre 2026.*
+
+## Résumé scientifique
+
+Les tombes royales d'Aigai, près de l'actuelle Vergina en Macédoine grecque, constituent un laboratoire exceptionnel pour comprendre la transition entre la mort d'un souverain, les cérémonies publiques, la conservation des restes, la représentation de la dynastie et les usages politiques de la mémoire. À la différence du tombeau d'Alexandre à Alexandrie, dont la localisation archéologique demeure inconnue, le Grand Tumulus d'Aigai abrite des architectures, peintures, objets et restes humains effectivement étudiables. Cette richesse ne supprime pas les débats : les individus associés aux tombes I et II ont fait l'objet d'attributions divergentes, nourries de travaux historiques, ostéologiques, radiocarbone et génétiques.
+
+La tradition muséale attribue généralement la tombe II à Philippe II, père d'Alexandre le Grand, mort assassiné en 336 av. J.-C. Une étude de 2023 plaidait pour placer Philippe II dans la tombe I et Philippe III Arrhidée dans la tombe II. Mais une enquête pluridisciplinaire parue en 2025 sur les restes de la tombe I les date de plusieurs décennies avant la mort de Philippe II et rejette cette identification précise. C'est une modification majeure de la discussion, sans que la date de la tombe I prouve à elle seule le nom de l'occupant de la tombe II. Le présent dossier confronte les preuves, sans trancher artificiellement les points encore débattus. Il forme un chapitre inédit sur les **rites et la mémoire des souverains macédoniens**, distinct des chapitres MYTHOS consacrés à Cyrus et Darius (689), au Mausolée d'Halicarnasse, au tombeau d'Alexandre et au culte d'Eukleia à Aigai (Encyclopédie grecque, chapitre 393).
+
+## 1. Méthode : quatre sortes d'archives
+
+On distinguera [A] les faits archéologiques ou les témoignages textuels explicitement identifiés, [D] les datations et interprétations discutées, [H] les propositions heuristiques de cette monographie, et [R] les usages modernes des découvertes et de leur mise en musée. L'architecture et le mobilier ne parlent pas spontanément comme un document rédigé : leurs associations doivent être établies par la stratigraphie, la taphonomie, les inventaires et les techniques de conservation.
+
+La seconde catégorie de preuves est littéraire : Diodore, Justin et les autres narrateurs décrivent événements et personnages avec des perspectives et des décalages chronologiques propres. La troisième est biologique : datations, isotopes, âge des os et analyses génétiques. La quatrième est historiographique : les attributions établies depuis les fouilles de Manolis Andronikos en 1977 ont produit une mémoire savante et publique qu'il convient d'étudier autant que de corriger. Aucun de ces registres ne suffit seul à donner un nom à une tombe.
+
+## 2. Aigai : de la capitale politique à la capitale ancestrale
+
+Aigai (Αἰγαί), dans la région d'Hémathie, fut un centre ancien de la royauté macédonienne. La ville se trouve dans un paysage défini par les reliefs des monts Piérie et le système fluvial de l'Haliacmon. Même après le développement de Pella comme centre majeur du royaume, Aigai conserva une forte valeur dynastique, religieuse et cérémonielle. La monumentalisation palatiale, les sanctuaires et la nécropole royale doivent être pensés conjointement.
+
+L'inscription de l'ensemble sur la Liste du patrimoine mondial de l'UNESCO (nº 780, 1996) souligne l'importance du palais, du théâtre, des sanctuaires d'Eukleia et de la Mère des dieux et des cimetières étendus. Le dossier détaillé compte plus de 500 tumuli sur la grande nécropole ; des présentations synthétiques plus anciennes évoquent plus de 300 monticules. Ces chiffres se rapportent à des périmètres et inventaires de description et ne doivent pas être utilisés comme des mesures contradictoires de la population antique.
+
+## 3. Dynastie des Téménides : noms, parentés et traditions
+
+La maison royale macédonienne est dite « argéade » ou « téménide ». Le deuxième terme renvoie à des traditions généalogiques qui la rattachent au héros Téménos et, par lui, à une descendance d'Héraclès. Chez Hérodote, *Histoires* VIII, 137–139, la narration des origines des souverains de Macédoine témoigne de cette construction identitaire. Elle doit être lue comme un récit historiographique doté d'une fonction de légitimation, non comme un relevé d'archives génétiques.
+
+Une nécropole dynastique, en rassemblant des générations de tombeaux, rend visible une généalogie que les textes présentent sous forme de récit. Le nom d'une tombe « de Philippe » dépend toutefois d'une attribution moderne : il ne devient pas une légende épigraphique ancienne parce qu'un guide touristique le répète.
+
+## 4. Du palais au théâtre : la mort de Philippe II en 336
+
+Diodore de Sicile, *Bibliothèque historique* XVI, 91, 2–95, 1, place l'assassinat de Philippe II dans le contexte des festivités dynastiques d'Aigai, à l'occasion du mariage de sa fille Cléopâtre avec Alexandre d'Épire. Le roi est tué à l'entrée du théâtre par Pausanias, membre de sa garde. Diodore, écrivant au Ier siècle avant notre ère, propose un récit développé des griefs personnels et des circonstances politiques.
+
+Le théâtre est donc un lieu de crise de la souveraineté : le corps du roi, au moment même où il est publiquement exposé dans une cérémonie, devient sans vie. L'identification de l'assassin et la chronologie générale sont bien transmises ; les motivations exactes, les complicités alléguées et la scénographie complète relèvent de sources plus difficiles à départager. Il est impropre de présenter les hypothèses de complot comme des conclusions archéologiques.
+
+## 5. La question des funérailles : rareté des descriptions directes
+
+La mort de Philippe II fournit un événement historique daté, mais les textes conservés ne donnent pas un protocole exhaustif de ses funérailles, étape par étape. La magnificence du dépôt de la tombe II a conduit à reconstruire des cérémonies comprenant crémation, recueil des os, couronnes, dépôt de vêtements et mobilier, fermeture du caveau, puis constitution du tumulus. Certaines étapes sont attestées par les objets et les restes ; d'autres relèvent d'une modélisation comparative.
+
+Les détails diffusés par des notices patrimoniales contemporaines peuvent être utiles, mais doivent être identifiés comme une **interprétation muséale** fondée sur l'attribution traditionnelle de la tombe II à Philippe. Une monographie scientifique doit conserver visible la condition : « si la tombe II contient Philippe II ». Les mises en scène contemporaines ne sauraient servir de preuve indépendante de cette attribution.
+
+## 6. Les tombes avant les rois : la longue histoire du cimetière
+
+La nécropole d'Aigai n'est pas née en 336 av. J.-C. Le site conserve de nombreux monticules de la fin de l'âge du Bronze et de l'âge du Fer, et une succession de secteurs funéraires qui remontent au premier millénaire avant notre ère. Les tombes du IVe siècle s'inscrivent donc dans un paysage funéraire déjà ancien.
+
+Cette ancienneté joue peut-être un rôle dans la capacité des derniers Argéades à présenter leur sépulture comme ancrée dans une terre des ancêtres. [H] On peut y voir une continuité fabriquée par la proximité spatiale, mais non une tradition cultuelle unique et ininterrompue depuis le XIe siècle. Les archéologues doivent distinguer les tombes primitives, les groupes aristocratiques et les ensembles construits spécialement pour la royauté tardive.
+
+## 7. Le Grand Tumulus : structure et dossier de fouille
+
+Le Grand Tumulus (*Megálē Toúmba*) abritait plusieurs constructions funéraires désignées dans la littérature moderne comme tombes I, II, III et IV, ainsi qu'un édifice interprété comme hérôon. Les grands dégagements de 1977–1978 dirigés par Manolis Andronikos ont porté à la connaissance du public des façades peintes, chambres et dépôts très bien conservés.
+
+Le tumulus de terre visible aujourd'hui comme abri muséal est une structure moderne de protection. L'UNESCO précise que le monticule antique n'est plus conservé dans son état d'origine et que la couverture contemporaine en restitue la forme. Il est donc essentiel, pour l'analyse iconographique, de distinguer l'état archéologique dégagé de l'expérience organisée par le musée.
+
+## 8. La tombe I et l'enlèvement de Perséphone
+
+La tombe I, souvent appelée « tombe de Perséphone », est une sépulture de type ciste, pillée dans l'Antiquité et conservant une peinture célèbre montrant l'enlèvement de Perséphone. Le récit mythologique évoque l'entrée violente dans le royaume d'Hadès et le cycle de séparation et de retour, sans que l'on puisse reconstituer toute la doctrine funéraire de ses commanditaires à partir d'une seule scène.
+
+La peinture constitue une source primaire sur l'art et l'imaginaire de la mort en Macédoine au IVe siècle av. J.-C. Son attribution à un atelier ou à un maître prestigieux ne saurait être prouvée par simple ressemblance avec des noms de peintres cités dans les textes tardifs. La photographie scientifique, les campagnes de conservation et l'étude des pigments sont indispensables.
+
+## 9. Le problème de l'occupant de la tombe I : version 2023
+
+Dans leur revue de 2023, Antonis Bartsiokas, Juan Luis Arsuaga et Nicholas Brandmeir plaidaient pour l'identification d'un homme de la tombe I à Philippe II, en rapprochant notamment une fusion au niveau du genou des blessures attribuées au roi par les témoignages historiques. Leur proposition attribuait la tombe II à Philippe III Arrhidée et à son épouse Eurydice.
+
+Il faut restituer cette hypothèse à sa date. La relation entre lésion et identité personnelle est indirecte : une pathologie peut être compatible avec un récit sans constituer une signature individuelle. Le sort de la tombe I a été considérablement reconsidéré par de nouvelles analyses en 2025 ; conserver l'hypothèse de 2023 comme certitude actuelle serait scientifiquement trompeur.
+
+## 10. Le tournant de 2025 : datation radiocarbone de la tombe I
+
+L'étude de Yannis Maniatis et collaborateurs, « New scientific evidence for the history and occupants of Tomb I », *Journal of Archaeological Science* 179 (2025), article 106234, DOI 10.1016/j.jas.2025.106234, a combiné radiocarbone, ADN ancien, isotopes du strontium, isotopes stables du carbone et de l'azote, analyses ostéologiques et odontologiques. Elle distingue des ossements adultes masculins, quelques éléments féminins et des restes non adultes dont la date ne correspond pas aux sépultures initiales.
+
+Les auteurs datent l'individu masculin principal entre 400 et 367 av. J.-C. en dates radiocarbone calibrées, avec un déplacement possible vers 388–356 av. J.-C. selon une correction considérée pour l'effet sur le collagène. Ils lui donnent un âge d'environ 25 à 35 ans. **Cette fourchette précède la mort de Philippe II en 336 av. J.-C.** L'étude conclut que l'identification des restes concernés à Philippe II, Cléopâtre et leur nourrisson n'est pas soutenable. Ce résultat ne prouve pas automatiquement l'identité de l'inhumé, encore moins par déduction directe le nom de la tombe II.
+
+## 11. Des os d'enfants datés de l'époque romaine : une leçon de stratigraphie
+
+L'analyse de 2025 signale que les restes non adultes et des os animaux retrouvés dans la tombe I appartiennent à des périodes bien postérieures aux inhumations adultes, s'étendant selon les échantillons de la fin de l'époque hellénistique à l'époque romaine. L'étude propose une plage de 150 av. J.-C. à 130 apr. J.-C. selon les datations.
+
+Ce fait démonte une ancienne reconstitution qui associait automatiquement tous les restes retrouvés à un groupe familial mort au même moment. Dans une chambre pillée et réaccessible, les dépôts peuvent résulter de plusieurs événements. La proximité spatiale de fragments osseux ne suffit pas à établir une contemporanéité biologique ni un lien de parenté.
+
+## 12. La tombe II : architecture et intégrité relative
+
+La tombe II présente une façade monumentale à ordonnance architecturale et une chambre principale avec antichambre. Dans les aménagements, des reliquaires d'or, un riche mobilier militaire, des couronnes, des vases et des objets de banquet ont été découverts. À la différence de la tombe I pillée, la tombe II conservait un ensemble exceptionnel de dépôts permettant de penser le programme funéraire dans sa globalité.
+
+L'intégrité archéologique est relative à des épisodes de fermeture et de réouverture déterminés ; elle ne signifie pas que la tombe fut scellée à jamais sans aucun remaniement depuis l'Antiquité. L'analyse des positions d'objets, des matériaux brûlés et des relations entre les chambres reste indispensable à toute inférence sur les gestes de déposition.
+
+## 13. La larnax d'or : os, contenant et souveraineté
+
+Le terme grec λάρναξ (*lárnax*) peut désigner un coffre, une caisse ou un contenant funéraire. Dans la tombe II d'Aigai, les coffres d'or ont servi de réceptacles à des ossements incinérés. La richesse du métal n'est pas une preuve d'identité : elle atteste des ressources mobilisées et le statut conféré à la personne défunte.
+
+La relation entre dépouille réduite à l'os et enveloppe somptueuse produit une opposition remarquable. [H] À mesure que le corps devient invisible, le contenant matérialise une autorité que la communauté veut rendre transmissible. Cependant, une interprétation précise du motif rayonnant des larnakes comme « emblème national » au sens moderne serait anachronique : il faut distinguer décoration antique et appropriations politiques contemporaines.
+
+## 14. Les couronnes de feuilles de chêne
+
+Le mobilier funéraire de la tombe II comprend des couronnes d'or travaillées en feuilles et glands de chêne. Le chêne évoque plusieurs associations religieuses et royales dans les traditions grecques, notamment Zeus et l'oracle de Dodone, mais la présence d'un motif végétal n'identifie pas automatiquement la divinité destinataire de la cérémonie.
+
+Une couronne peut fonctionner comme offrande, signe de prestige, accessoire d'une mise en scène du corps ou relique d'une cérémonie. Le contexte de découverte est décisif pour choisir entre ces possibilités. Une lecture du répertoire décoratif doit confronter objets analogues, positions et indices de port.
+
+## 15. Armes et souveraineté combattante
+
+Parmi les objets de la tombe II figurent une cuirasse de fer ornée d'or, des cnémides, un casque, des armes et un bouclier cérémoniel. La panoplie exprime visuellement une qualité combattante attendue de la royauté macédonienne. Elle n'est toutefois ni un portrait physiologique ni une preuve que chaque pièce fut portée par le défunt au cours d'une bataille particulière.
+
+Certains chercheurs ont avancé que des effets pourraient avoir appartenu à Alexandre lui-même avant leur dépôt ; de telles propositions dépendent des attributions de la tombe et des chronologies du mobilier. La provenance de l'armement dans la chambre est attestée ; son histoire biographique précise demeure une question et non un résultat établi.
+
+## 16. Banquet funéraire : vaisselle, lits et hiérarchies
+
+La vaisselle de banquet en argent, les éléments de couchage et les ornements d'ivoire appartiennent à un univers aristocratique où le partage de nourriture, de boisson et de richesse articule sociabilité et hiérarchie. En contexte funéraire, ces objets peuvent renvoyer à un repas accompli, à la possibilité d'un banquet de mémoire ou à une image du rang du mort.
+
+Sans résidus et associations précises, on ne doit pas affirmer qu'une coupe servit le jour de l'enterrement ni qu'un lit fut le lieu effectif d'une cérémonie. Les objets sont des documents sur les pratiques possibles et les signes de prestige. Leur interprétation dépend des traces d'usage, des dépôts et des circonstances de la fermeture.
+
+## 17. La frise de chasse : images du pouvoir et identification disputée
+
+La façade de la tombe II conserve une frise peinte de chasse, l'une des rares peintures monumentales macédoniennes de cette qualité. On y distingue des chasseurs à cheval et à pied, des chiens et des animaux dans un paysage. Les chercheurs ont proposé plusieurs identifications pour les figures principales, dont Philippe II, Alexandre, Philippe III Arrhidée ou Cassandre.
+
+Un article du *Journal of Roman Archaeology* rappelle l'absence de consensus sur l'identité du cavalier barbu et du jeune chasseur. La chasse peut fonctionner comme pratique aristocratique, emblème de courage, image de pouvoir ou tableau idéalisé : elle ne saurait être lue comme photographie d'un événement daté. Le contexte funéraire encourage une lecture politique, non une certitude prosopographique.
+
+## 18. Perséphone et les cultes de passage
+
+La peinture de la tombe I donne une place centrale à un épisode mythologique concernant Perséphone et Hadès. Dans les traditions grecques, la figure de Perséphone relie la mort, les saisons, la séparation d'une fille et de sa mère Déméter et divers rituels de passage. La représentation permet de reconnaître ce champ d'associations, mais ne révèle pas une théologie officielle de la dynastie dans un texte unique.
+
+L'anthropologie des images doit distinguer signification narrative et usage rituel. Un mythème représenté sur une paroi peut accompagner le mort sans prescrire des gestes précis à ses descendants. On ne déduit pas la participation à des mystères d'une peinture d'enlèvement ; ce serait attribuer à une image un pouvoir documentaire qu'elle ne possède pas.
+
+## 19. La tombe III : un jeune défunt royal ?
+
+La tombe III du Grand Tumulus, souvent désignée comme « tombe du Prince », est généralement rapprochée d'Alexandre IV, fils d'Alexandre le Grand et de Roxane. Cette identification s'accorde avec un décès au cours des luttes des successeurs et la mémoire d'une descendance argéade interrompue.
+
+L'expression « généralement attribuée » est préférable à une présentation comme épitaphe conservée. Le dossier réunit la chronologie des objets, les caractères de la tombe, les restes et les reconstructions historiques. Il faut distinguer l'âge estimé d'un squelette, la date de construction, celle du décès et celle d'une éventuelle réinhumation.
+
+## 20. Philippe III Arrhidée et Eurydice : mourir dans la guerre civile
+
+Philippe III Arrhidée et Adea Eurydice, figures royales contestées du temps des Diadoques, sont associés dans la tradition historique aux violences politiques de 317 av. J.-C. Leur mort est suivie de réaménagements et de gestes dynastiques concurrents. Selon les versions historiographiques, la mémoire de leurs dépouilles devient un moyen pour un nouveau pouvoir de se présenter comme respectueux des coutumes macédoniennes.
+
+L'incertitude sur l'identification de la tombe II ne rend pas cet arrière-plan inutile : elle impose seulement de ne pas utiliser la biographie d'Arrhidée pour dater un objet dont la provenance n'est pas clairement liée à lui. L'hypothèse d'une tombe II du couple fait partie de la discussion archéologique, non d'une évidence épigraphique.
+
+## 21. Diodore XIX, 52 : une réinhumation politique à Aigai
+
+Diodore, *Bibliothèque historique* XIX, 52, 5, rapporte que Cassandre enterra à Aigai Eurydice, Philippe [III] et Cynané selon la coutume des rois et organisa des jeux funèbres en l'honneur des morts. Le passage est capital parce qu'il documente une **action de légitimation par les funérailles**, indépendamment de toute attribution moderne d'une tombe particulière.
+
+Le mot traduit par « selon l'usage des rois » est un témoignage d'une norme telle que Diodore la comprend. Il ne fournit aucun plan du tombeau ni un inventaire des couronnes, des armes ou des peintures. Le rapprochement avec la tombe II doit donc être explicitement proposé comme inférence historiographique et non comme équivalence certaine.
+
+## 22. Les jeux funèbres : honorer, concurrencer, gouverner
+
+Dans le récit de Diodore XIX, 52, les concours funèbres suivent le dépôt des corps de la famille royale. Cette articulation entre cérémonie et mobilisation militaire est instructive : les funérailles peuvent participer à une restauration publique de la légitimité après une guerre civile.
+
+Le parallèle avec les jeux en l'honneur de Patrocle dans l'*Iliade* XXIII permet de réfléchir aux formes agonistiques de l'honneur rendu au mort, mais il ne démontre pas que les concours de Cassandre reproduisaient à l'identique le programme homérique. Un texte poétique archaïque et un récit historique d'époque tardive fournissent des registres différents.
+
+## 23. Le hérôon : marque d'honneur ou culte effectif ?
+
+Un petit bâtiment proche des tombes du Grand Tumulus a été interprété comme un *hērōon* (ἡρῷον), c'est-à-dire un espace monumentalisant la mémoire d'un mort susceptible d'honneurs exceptionnels. Sa présence soutient la question d'un culte héroïque associé à la dynastie, mais elle ne suffit pas à en décrire les officiants, la fréquence ou les rites précis.
+
+Il faut différencier la forme architecturale, la proximité spatiale et les traces d'activités effectivement attestées. Un hérôon peut faire partie de la mise en scène funéraire d'une lignée ; son utilisation régulière reste à prouver par des dépôts datés, des inscriptions ou des aménagements identifiables. L'indication « probablement destiné à honorer les morts » retenue par les notices patrimoniales est une formulation justifiée.
+
+## 24. Philippe II, corps et blessure : une critique de la preuve médico-légale
+
+Les récits biographiques évoquent des blessures de Philippe II, notamment des atteintes oculaires et aux membres. Une tentation méthodologique consiste à chercher une lésion osseuse « signature » et à faire de la concordance supposée une identification certaine. Or les restes incinérés sont fragmentaires et les os d'une tombe pillée ont pu être mélangés à d'autres dépôts.
+
+Les procédures de laboratoire peuvent établir des données de sexe biologique, âge probable, alimentation, mobilité ou date avec des marges d'erreur ; aucune ne transforme directement un caractère anatomique en nom propre. L'étude de 2025 de la tombe I montre pourquoi plusieurs techniques indépendantes sont nécessaires pour remettre en cause une attribution biographique fondée sur une lésion.
+
+## 25. Radiocarbone : date du corps, non date du monument
+
+Le radiocarbone mesure la composition isotopique d'un échantillon organique et permet, avec calibration, de proposer une fenêtre de datation. Dans la tombe I, les résultats reposent sur des os humains analysés après contrôle de la conservation et de la qualité du collagène. La date d'un échantillon concerne l'organisme dont il provient, non directement l'ensemble du tumulus ou la peinture du voisinage.
+
+Les marges de probabilité, les effets de réservoir liés au régime alimentaire, les contaminations et les remaniements doivent être discutés avant de rapprocher une plage calibrée d'une année historique précise. [H] La leçon générale est qu'une année de règne peut être infiniment plus précise que le signal d'une structure funéraire tout en étant insuffisante pour identifier son occupant.
+
+## 26. ADN ancien : parenté et identité ne sont pas synonymes
+
+L'ADN ancien permet parfois d'établir un sexe génétique, de distinguer des individus et d'évaluer des relations de parenté ; ses résultats dépendent de la préservation moléculaire, de la contamination et des modèles statistiques. Dans le cas du Grand Tumulus, l'étude récente portant sur la tombe I renforce la séparation entre les restes d'adultes et les dépôts tardifs.
+
+Pour identifier un roi individuel par son nom, il faudrait une chaîne de comparaison et de provenance indépendante, rarement disponible pour des personnages du IVe siècle avant notre ère. La catégorie « argéade » peut résulter d'une hypothèse contextuelle fondée sur la localisation du tombeau, non d'un profil d'ADN immédiatement lisible comme « Philippe II ».
+
+## 27. Isotopes et mobilité de l'élite
+
+Les isotopes du strontium peuvent documenter des environnements géologiques fréquentés au cours de l'enfance, sous réserve de référentiels locaux appropriés. L'article de 2025 indique que l'individu masculin de la tombe I aurait passé son enfance dans un environnement différent de celui de Vergina/Pella. Ce résultat est compatible avec la mobilité de certaines élites, mais ne détermine pas une ville de naissance unique.
+
+Une « origine étrangère » n'est pas équivalente à une identité politique non macédonienne. Les systèmes matrimoniaux, alliances, otages et déplacements de cour multipliaient les itinéraires possibles. Les isotopes apportent un élément indépendant au dossier historique ; ils ne remplacent ni l'épigraphie ni l'analyse dynastique.
+
+## 28. Les tombes des femmes de la dynastie
+
+Les ensembles funéraires d'Aigai incluent des sépultures de femmes de haut rang, dont les attributions doivent être évaluées individuellement. Eurydice, mère de Philippe II, apparaît dans un réseau de monuments et de dédicaces associé à la cour ; le chapitre MYTHOS 393 sur Eukleia étudie les bases votives portant son nom. Ici l'enjeu est différent : interroger le rôle des femmes dans la continuité familiale, la gestion des biens et la politique funéraire.
+
+La présence de restes féminins dans une chambre ou une antichambre n'autorise pas à assigner automatiquement l'identité d'une épouse connue. De même, l'expression « sacrifice de veuve » doit être réservée aux cas où une pratique est effectivement attestée : des reconstructions muséales peuvent présenter une femme accompagnant le roi dans la mort, mais elles ne transforment pas une hypothèse en règle générale.
+
+## 29. Entre dieux et ancêtres : Eukleia, la Mère et les morts
+
+Aigai conserve des sanctuaires d'Eukleia et de la Mère des dieux. Leur existence documente la pluralité religieuse de la capitale : la même ville peut abriter les honneurs aux dieux, les cérémonies dynastiques et des dispositifs honorifiques pour des souverains défunts. Il serait pourtant abusif de déclarer que tous les morts royaux furent considérés comme des dieux ou que chaque sanctuaire intervenait directement dans les obsèques.
+
+Les dédicaces à Eukleia, notamment celles liées à Eurydice, concernent la bonne renommée et le patronage cultuel. Leur analyse forme déjà une étude spécifique de l'Encyclopédie grecque ; la présente monographie l'utilise comme renvoi, sans duplication documentaire. [H] La cour peut faire circuler le prestige entre faveur divine et généalogie royale sans qu'une seule doctrine les unifie.
+
+## 30. Philologie des lieux et des pratiques
+
+Αἰγαί (*Aigaí*) est le toponyme antique ; Βεργίνα (*Vergína*) désigne la localité moderne. Τύμβος (*týmbos*) signifie notamment tertre funéraire et donne « tumulus » ; τάφος (*táphos*) est le tombeau et peut désigner l'enterrement ; πυρά (*pyrá*) la construction ou le feu d'un bûcher ; λάρναξ (*lárnax*) un coffre ou contenant funéraire ; ἡρῷον (*hērōon*) un monument dédié à un héros. Ces termes ne forment pas une séquence rituelle obligatoire.
+
+Leur emploi doit rester contextuel : un *týmbos* n'est pas une chambre souterraine, un *hērōon* n'est pas nécessairement une tombe à corps, et une *lárnax* peut avoir d'autres fonctions que recueillir des os. Pour la langue des sources, employer une édition critique et contrôler les leçons lorsqu'un mot grec sert d'argument archéologique.
+
+## 31. Dans les textes : Hérodote, Diodore et les limites de l'épopée
+
+Hérodote VIII, 137–139 préserve des traditions d'origine de la monarchie macédonienne. Diodore XVI, 91–95 fournit le récit de l'assassinat de Philippe ; Diodore XIX, 52, 5 transmet l'inhumation et les concours organisés par Cassandre. Ces textes parlent du royaume et de ses gestes funéraires, mais pas de tous les objets excavés sous le tumulus.
+
+L'*Iliade* XXIII–XXIV expose les funérailles et la restitution des morts héroïques dans un univers narratif antérieur ; elle est un terme de comparaison, non un formulaire utilisé par les Macédoniens. Le lecteur ne doit pas passer sans avertissement de la fonction poétique d'une scène homérique aux gestes d'une cérémonie du IVe siècle.
+
+## 32. Comparaison avec Halicarnasse et Alexandrie
+
+Le Maussolleion d'Halicarnasse déploie une monumentalité urbaine sculptée autour de la personne du dynaste carien ; le tombeau perdu d'Alexandre à Alexandrie est principalement connu par des récits de transferts, de visites et de représentations politiques. Aigai, en revanche, associe architecture retrouvée, peintures et corps identifiables au plan biologique, mais non toujours individuellement au plan historique.
+
+Ces asymétries de documentation invitent à une comparaison des procédures, non à une généralisation du culte royal. La Macédoine a des pratiques de crémation et de monumentalisation spécifiques ; ni la topographie du Sêma alexandrin ni le péristyle de Mausole n'expliquent mécaniquement le plan des caveaux d'Aigai.
+
+## 33. Comparaison avec Kouch et la Perse achéménide
+
+Les ensembles de Kouch, à El-Kourrou, Nouri et Méroé, associent superstructures pyramidales, chapelles, caveaux et titulatures variées. À Naqš-e Rostam, la façade rupestre de Darius inscrit sa théologie de la royauté et la domination impériale dans la pierre. À Aigai, les reliefs et peintures prennent un rôle plus visible que les longues inscriptions royales conservées.
+
+La différence n'autorise pas une hiérarchie des civilisations selon le « degré » de spiritualité de leurs tombes. Chacune règle de façon spécifique l'accès au mort, la visibilité de la lignée et la relation entre forme matérielle et parole politique. [H] Les funérailles royales constituent une technologie sociale de la durée plutôt qu'une tradition interculturelle homogène.
+
+## 34. Hegel : l'objectivation funéraire du pouvoir
+
+Une comparaison philosophique avec la pensée de Hegel permet de concevoir la tombe comme l'une des manières dont la personne mortelle du gouvernant devient un objet de mémoire collective. La souveraineté ne se confond plus avec le corps vivant : des institutions, des images et des récits la prolongent et la reconfigurent.
+
+La proposition n'est pas une interprétation que les élites macédoniennes auraient formulée en termes hégéliens. Elle aide à poser une question historiographique : une dynastie peut-elle prendre corps dans des monuments dont les visiteurs ultérieurs ignorent les identités exactes ? Les travaux de 2025 sur la tombe I invitent précisément à séparer mémoire politique et certitude prosopographique.
+
+## 35. Nietzsche : l'exemplarité ambiguë du grand mort
+
+Dans *De l'utilité et de l'inconvénient des études historiques pour la vie*, deuxième *Considération inactuelle*, Nietzsche distingue notamment histoire monumentale, antiquaire et critique. À Aigai, la « tombe de Philippe » est devenue un objet central de mémoire locale, nationale et européenne ; l'objet patrimonial risque parfois de paraître plus certain que les hypothèses scientifiques qui le fondent.
+
+L'histoire monumentale peut inspirer, mais aussi stabiliser des identités politiques simplificatrices. L'exigence critique consiste à permettre au public de comprendre pourquoi les étiquettes d'un musée sont parfois conventionnelles et pourquoi une conclusion de laboratoire peut modifier une attribution sans détruire la valeur artistique du monument.
+
+## 36. Anthropology de la crémation : faire disparaître, conserver, réintroduire
+
+La crémation transforme des corps en restes osseux ; ceux-ci peuvent être triés, nettoyés, enveloppés puis déposés dans un contenant. Chaque étape modifie le rapport social au défunt. La matière humaine ne disparaît pas entièrement, mais elle cesse d'être visible comme corps reconnaissable et devient objet de garde dynastique.
+
+Le dossier archéothanatologique doit distinguer indices de température, fractures, position des os, pigments et résidus de textiles. Une incinération ne signifie pas automatiquement que toutes les cultures partagent la même représentation de l'âme, ni que le feu « purifie » dans un sens universel. Ce dernier terme doit provenir d'un contexte rituel attesté plutôt que d'une lecture psychologique moderne.
+
+## 37. Patrimonialisation : un tumulus reconstruit pour protéger l'original
+
+Le Musée des tombeaux royaux d'Aigai présente les caveaux sous une structure évoquant une colline funéraire. Selon l'UNESCO, l'enveloppe est contemporaine, tandis que les intérieurs des tombeaux sont authentiques sous réserve des interventions minimales nécessaires à la stabilité et à la conservation. Cette différence doit figurer dans les légendes photographiques.
+
+L'aménagement change profondément l'expérience du visiteur : il ordonne un parcours entre stèles, mobilier non royal, images dynastiques et sépultures monumentales. [R] La scénographie produit donc un récit sur la Macédoine, dont il faut reconnaître la valeur pédagogique tout en rappelant les variantes des identifications.
+
+## 38. Une question éthique : les restes humains et les récits publics
+
+Un squelette ancien n'est pas uniquement un outil de preuve ; les prélèvements peuvent être destructifs, la conservation est difficile et les restes humains engagent des responsabilités patrimoniales. La transparence sur les méthodes, les dates, les autorisations et les marges d'incertitude est indispensable.
+
+Le public doit avoir accès à une version fidèle des recherches plutôt qu'à une alternance spectaculaire entre « preuve absolue » et « mystère entier ». Les deux attitudes nuisent au savoir : des corps ont été déposés, datés et étudiés ; des éléments d'identité restent néanmoins contestés.
+
+## 39. Protocole de preuve pour une identification future
+
+Pour associer définitivement une tombe à un souverain, il faudrait idéalement une conjonction de preuves indépendantes : inscriptions explicites et contextualisées, datation archéométrique compatible avec les dates historiques, cohérence de l'âge et du sexe biologiques, mobilier dont la chronologie ne dépend pas seulement de l'hypothèse initiale, et absence d'événement de réutilisation susceptible de mélanger les restes.
+
+Les données doivent être publiées avec leurs incertitudes et être réanalysables. À Aigai, la tombe I illustre la force d'un tel protocole : l'étude de 2025 corrige une construction fondée sur un rapprochement ostéologique avec Philippe II. La tombe II demeure un terrain où la convergence des données est plus informative qu'une déclaration isolée sur un visage peint ou une arme.
+
+## 40. Conclusions : la royauté ne cesse pas avec le roi
+
+Les tombes d'Aigai n'offrent pas une image immobile de la monarchie. Elles montrent des décisions funéraires, des sculptures et peintures destinées aux vivants, des corps préparés ou incinérés, des espaces parfois pillés et réutilisés, et des noms transmis par des traditions dont les relations aux objets matériels doivent être examinées. Elles disent le pouvoir après la mort, mais aussi la vulnérabilité de ses signes.
+
+Le bilan hiérarchise trois résultats. [A] Le Grand Tumulus, la tombe I avec peinture de Perséphone, la tombe II richement dotée et l'ensemble muséal sont documentés ; Diodore décrit la mort de Philippe en 336 et les funérailles organisées par Cassandre. [A] La recherche de 2025 exclut, sur sa base chronométrique, que les restes primaires examinés de la tombe I soient ceux de Philippe II. [D] L'identification personnelle des autres chambres reste matière à confrontation critique. [H] Dans cette pluralité, Aigai apparaît comme un lieu où une dynastie fut rendue durable par la combinaison de l'architecture, du rite et du récit.
+
+## Sources primaires : passages vérifiables
+
+1. Hérodote, *Histoires* VIII, 137–139 : tradition généalogique et origines des souverains macédoniens ; édition grecque et traductions à confronter dans Perseus Digital Library (Tufts). 2. Diodore de Sicile, *Bibliothèque historique* XVI, 91, 2–95, 1 : festivités d'Aigai, assassinat de Philippe et conséquences immédiates ; traduction et notes de Livius : https://www.livius.org/sources/content/diodorus/the-death-of-philip/.
+
+3. Diodore de Sicile, *Bibliothèque historique* XIX, 52, 5–6 : Cassandre, inhumation des dépouilles de Philippe III, Eurydice et Cynané à Aigai et concours funèbres ; transcription et traduction grec/anglais : https://reader.humanitext.ai/en/read/urn%3Acts%3AgreekLit%3Atlg0060.tlg001.humanitext-grc6%3A19.52.1-19.52.6. 4. Homère, *Iliade* XXIII, 108–257 et XXIV, 777–804 : crémation et funérailles héroïques ; comparaison poétique uniquement, non source macédonienne du IVe siècle.
+
+## Archéologie et histoire de l'art : corpus critique vérifié
+
+- Andronikos, Manolis, *Vergina: The Royal Tombs*, Athènes, Ekdotike Athenon, 1984 : compte rendu archéologique majeur des tombes et objets exhumés, à replacer dans l'état de la recherche de l'époque. - Hammond, N. G. L., « The Royal Tombs at Vergina: Evolution and Identities », *Annual of the British School at Athens* 86 (1991), p. 69–82, DOI 10.1017/S0068245400014908 : https://www.cambridge.org/core/journals/annual-of-the-british-school-at-athens/article/abs/royal-tombs-at-vergina-evolution-and-identities/ECD2BEA3291C2183B1B39DC799A24ECC.
+
+- « Archaeological Site of Aigai (modern name Vergina) », UNESCO World Heritage Centre, dossier n° 780 : https://whc.unesco.org/fr/list/780/ ; https://whc.unesco.org/en/list/780/. - Ministère grec de la Culture, projet « Aigai », Cultural Egnatia : https://culturalegnatia.culture.gov.gr/en/route-stops/aigai/ ; synthèse patrimoniale sur l'architecture, le musée et le mobilier, à distinguer des articles universitaires.
+
+## Travaux de 2023 à 2025 et débat historiographique
+
+- Bartsiokas, Antonis ; Arsuaga, Juan Luis ; Brandmeir, Nicholas, « The identification of the Royal Tombs in the Great Tumulus at Vergina, Macedonia, Greece: A comprehensive review », *Journal of Archaeological Science: Reports* 52 (décembre 2023), article 104279, DOI 10.1016/j.jasrep.2023.104279 : https://www.sciencedirect.com/science/article/pii/S2352409X23004546. Cette revue propose Philippe II dans la tombe I, Philippe III et Eurydice dans la tombe II ; cette position doit être confrontée aux résultats de 2025.
+
+- Maniatis, Yannis et al., « New scientific evidence for the history and occupants of Tomb I (“Tomb of Persephone”) in the Great Tumulus at Vergina », *Journal of Archaeological Science* 179 (juillet 2025), article 106234, DOI 10.1016/j.jas.2025.106234 : https://www.sciencedirect.com/science/article/pii/S0305440325000834. Étude de radiocarbone, ADN ancien, isotopes et ostéologie ; conclut à des individus adultes du premier IVe siècle avant notre ère et à des dépôts secondaires bien plus tardifs. - Étude de l'iconographie de la chasse et de ses limites prosopographiques, *Journal of Roman Archaeology*, Cambridge : https://www.cambridge.org/core/journals/journal-of-roman-archaeology/article/ptolemy-painting-alexanders-righthand-man-and-the-origins-of-the-alexander-mosaic/9FF6B7D885889E8C0899B92B3EB97696.
+
+- « Archaeological site of Aigai (Vergina) », présentation grecque UNESCO : https://www.greekunescomonuments.gr/en/monument/archaeological-site-of-aigai-vergina/. L'iconographie officielle suit le plus souvent l'identification traditionnelle de Philippe II à la tombe II ; une légende scientifique doit préciser ce caractère traditionnel et ne pas occulter les discussions.
+
+## Protocole iconographique MYTHOS : objets, sources, certitudes
+
+Toute image ajoutée devra indiquer : 1) la désignation scientifique du monument ou objet ; 2) le site et, si connu, le numéro de tombe ; 3) la datation et la méthode ; 4) l'institution et le crédit ; 5) le statut « vestige antique », « document ancien », « restauration » ou « restitution hypothétique » ; 6) le degré de certitude de l'identification personnelle. Privilégier les vues institutionnelles du Musée des tombeaux royaux d'Aigai, de la peinture de Perséphone, de la frise de chasse, des larnakes et des couronnes, sans détourner leurs droits de reproduction.
+
+Aucune image ne doit transformer la structure muséale moderne en monticule antique intact ; aucune représentation IA ne doit être décrite comme une photographie de fouille ; aucune restitution 2,5D ne doit être réintroduite. Le texte présent peut être publié sans image jusqu'à l'établissement des droits, provenances et crédits.
+
+## Références croisées au sein de MYTHOS
+
+- Origines du sacré, chapitre 689 : Cyrus et Darius, Pasargades et Naqš-e Rostam, comparaison des dispositifs funéraires royaux perses. - Monographie en cours d'attribution : Mausolée d'Halicarnasse, distinction entre tombe dynastique, forme architecturale et héroïsation. - Monographie en cours d'attribution : tombeau d'Alexandre à Alexandrie, circulation du cadavre et mémoire ptolémaïque. - Monographie en cours d'attribution : nécropoles royales de Kouch, El-Kourrou, Nouri et Méroé.
+
+- Encyclopédie de mythologie grecque, chapitre 393, Eukleia : sanctuaire d'Aigai et rôle d'Eurydice, mère de Philippe II. Ces dossiers sont autonomes : le présent article est centré sur l'**archéologie des sépultures macédoniennes et la critique des identifications**, non sur le culte d'Eukleia ni sur le récit politique d'Alexandre en Égypte.

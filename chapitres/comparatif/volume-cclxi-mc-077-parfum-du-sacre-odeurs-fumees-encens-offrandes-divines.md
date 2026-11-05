@@ -1,0 +1,450 @@
+# MYTHOS — Cycle universitaire de MYTHOLOGIE COMPARÉE — Volume CCLXI (261)
+
+## MC-077 — Le parfum du sacré : fumées, résines, odeurs sacrificielles et présence divine, de la Mésopotamie à l’Égypte, d’Israël à la Grèce et à l’Inde
+
+*Monographie universitaire originale — histoire comparée des religions, philologie, archéologie des matières odorantes, anthropologie sensorielle, philosophie du sacrifice.*
+
+**Identifiant historique :** MC-077, indépendant du numéro canonique du volume. **Champ :** traditions anciennes du Proche-Orient et de Méditerranée, avec une comparaison indienne strictement limitée aux témoins védiques. **Établissement critique :** 5 novembre 2026. **Statut documentaire :** texte public intégral proposé au circuit éditorial, sans présomption de mise en ligne avant attribution et déploiement vérifiés.
+
+### Résumé
+
+Pourquoi brûler quelque chose pour un destinataire que personne ne voit ? La réponse n'est pas universelle. Une fumée peut accompagner l'ascension d'une offrande, matérialiser un échange, purifier le lieu d'une rencontre, masquer le regard, composer une atmosphère, manifester la richesse d'un sanctuaire ou représenter, dans un récit, la faim de dieux privés de sacrifices. L'odeur peut être au premier plan — les dieux « sentent » le parfum du sacrifice après le déluge babylonien — ou n'être qu'un effet que le texte ne thématise pas. La recette d'un encens, la forme d'un brûle-parfum, le vocabulaire d'un poème et les obligations des prêtres ne sont donc pas des preuves interchangeables.
+
+L'enquête examine les récits du déluge dans l'*Épopée de Gilgameš* et la Genèse, l'équipement et les textes cultuels égyptiens, les prescriptions de l'Exode et du Lévitique, les représentations homériques et comiques du sacrifice, les objets gréco-italiques, ainsi que les limites d'une comparaison avec le feu védique. Les transitions entre ces corpus sont traitées comme des problèmes historiques, non comme la survivance d'une religion primitive unique. Le mot « encens » sera réservé, dans la mesure du possible, à une matière aromatique destinée à produire une fumée parfumée ; une combustion de graisse, une libation, une diffusion d'huile et une fumigation de purification seront distinguées.
+
+**Thèse.** L'odeur sacrée n'est pas un simple symbole de montée au ciel. Sa matérialité irréductible oblige à analyser ensemble un support végétal ou animal, une technique thermique, un espace institué, un destinataire et un langage d'évaluation. Dans certains textes, la communication est représentée comme une perception divine ; dans d'autres, comme une obligation cultuelle ou un signe de reconnaissance. Loin de se confondre avec une « théorie de la présence », ces opérations rendent visibles les conditions historiques de la relation au divin.
+
+---
+
+## I. Définir l'objet : une histoire des sens sans religion olfactive universelle
+
+### 1. L'odeur est un événement matériel
+
+Une odeur dépend d'une substance, d'un environnement, d'une température, d'un corps qui la perçoit et d'une convention de description. Les résines chauffées, les chairs brûlées, les liquides versés sur le feu et les végétaux jetés dans un brasier ne produisent ni le même phénomène ni la même valeur sociale. Un vase à ajours indique la possibilité d'une combustion contrôlée ; il n'indique pas à lui seul quel dieu était invoqué, si une prière était récitée ou si l'usage était privé, domestique ou public. L'archéologue ne peut pas substituer l'intitulé muséal « brûle-parfum » à une analyse de traces, d'emplacement et de contexte stratigraphique.
+
+Il faut différencier quatre dossiers : l'odeur émise par une offrande alimentaire ; la résine brûlée pour honorer une divinité ; la fumigation pratiquée à des fins protectrices ou purificatoires ; le parfum liquide, appliqué à une statue, un corps ou un tissu. Ces dossiers se rencontrent sans former une classe unique dans les sources. Les regroupements modernes sont utiles pour poser des questions comparatives mais risquent d'effacer les distinctions des acteurs.
+
+### 2. Un lexique avant toute interprétation
+
+En akkadien, *rīḫu* et les formes verbales associées à l'odorat renvoient au fait de sentir ; la séquence du *Gilgameš* babylonien emploie des formes d'un verbe signifiant percevoir une odeur et qualifie celle-ci de bonne ou douce. L'association narrative est précise ; la traduction « parfum » peut donner une noblesse moderne à une opération qui inclut une offrande brûlée. Les vocabulaires de fumigation et d'offrande doivent être étudiés séparément dans les dictionnaires akkadiens et leurs attestations datées.
+
+L'égyptien *snṯr* désigne des produits aromatiques ou leur emploi rituel selon les contextes. Il est tentant d'en proposer une étymologie religieuse immédiatement transparente ; il faut résister à l'idée que tout emploi du terme signifie littéralement « rendre divin ». Les inscriptions de temple et les listes de produits précisent parfois le geste, l'agent, l'objet de la présentation et la divinité. Les écritures égyptiennes ne se laissent pas réduire à une correspondance simple entre un mot et un objet de musée.
+
+L'hébreu biblique distingue *rêaḥ* (odeur), *qĕṭōret* (encens ou fumigation suivant le contexte), *lĕbōnāh* (substance résineuse traditionnellement rendue par « encens ») et la formule *rêaḥ nîḥōaḥ* appliquée à certaines offrandes. Cette dernière signifie conventionnellement une odeur agréable ou apaisante ; il serait inexact d'en déduire, sans autre texte, une physiologie du nez divin ou un besoin alimentaire. Les noms des quatre ingrédients de l'Exode ne doivent pas être ramenés sans réserve à des identifications botaniques modernes, notamment pour le composant traduit par « onyx » ou « ongle odorant ».
+
+Le grec *knísē* renvoie dans les scènes sacrificielles à l'odeur ou à la vapeur de graisse et de viande brûlées. *Thýmia* et *thymíama* appartiennent à un ensemble verbal lié à la fumigation ; les emplois et datations demandent une vérification dans le *LSJ* et les textes, plutôt qu'une étymologie improvisée à partir de *thymós*. Le *líbanos*, encens aromatique, n'épuise pas l'offrande grecque. Le latin *tūs* ou *thus* concerne l'encens, tandis que *suffītus* met l'accent sur la fumigation. Des ressemblances lexicales ne sont jamais des preuves suffisantes d'un emprunt cultuel.
+
+Le sanskrit védique *ghṛta* désigne le beurre clarifié offert au feu ; *agni* est à la fois le feu et le dieu qui le personnifie dans les hymnes. Le *dhūpa* de certaines pratiques indiennes ultérieures appartient à une histoire rituelle qu'on ne peut projeter sans démonstration sur toutes les strates du *Ṛgveda*. Une traduction occidentale indifférenciée par « encens » brouillerait la différence entre graisse, flamme, fumée et parfum.
+
+### 3. Quatre niveaux de preuve
+
+On distinguera systématiquement : **A — attestation primaire** (texte localisable, objet inventorié, provenance connue) ; **B — inférence historique contrainte** (fonction probable étayée par plusieurs indices) ; **C — hypothèse à tester** (identification botanique, voie d'échange, signification précise d'un geste) ; **D — lecture philosophique** (construction de sens explicitement moderne). Une théorie générale de l'odeur divine ne saurait être présentée comme une attestation A. Le fait qu'un auteur ancien parle d'un dieu qui sent n'établit pas davantage que tous les fidèles de sa culture partageaient une doctrine littérale de l'odorat divin.
+
+---
+
+## II. Mésopotamie : le parfum qui rappelle les dieux après le déluge
+
+### 4. Le moment décisif de *Gilgameš* XI
+
+Le récit babylonien du déluge constitue un cas particulièrement net. Dans la recension dite standard, après avoir survécu et constaté la décrue, Uta-napišti dresse une offrande au sommet d'une montagne. Le texte énumère des installations sacrificielles et des substances végétales, dont le roseau, le cèdre et le myrte suivant les traductions. Les dieux sentent alors la bonne odeur, puis se rassemblent autour du sacrificateur selon une comparaison volontairement déconcertante avec les mouches. Selon les systèmes de numérotation des éditions, ce passage se situe approximativement aux vers 155–169 de la tablette XI ; la comparaison des mouches se trouve vers 160–163. Pour une citation philologique, il faut indiquer l'édition utilisée et ne pas mêler silencieusement numérotation des témoins et numérotation reconstituée.
+
+La chaîne causale du passage est remarquable : destruction presque universelle, fin de la vie humaine ordinaire, cessation corrélative des rites, puis réapparition d'une offrande. L'odeur est donc davantage qu'un agrément. Elle manifeste le retour d'un service humain aux dieux et concentre la contradiction politique du récit : les puissances ayant provoqué la catastrophe retrouvent une dépendance envers ce qu'elles ont failli anéantir. Cela n'autorise pas à traduire la comparaison avec les mouches comme une simple satire moderne de la religion ; elle est d'abord un choix poétique à l'intérieur d'une économie divine particulière.
+
+Il existe une seconde tension, interne au récit. La grande déesse se souvient des morts et refuse que le responsable du déluge bénéficie tranquillement du retour du culte. La bonne odeur ne dispense pas les dieux de délibérer sur leur violence. **Attestation A :** odeur, rassemblement, discussion divine sont dans la narration. **Inférence B :** l'offrande représente la reprise d'un lien de dépendance. **Lecture D :** on peut y voir un modèle de la critique des souverains qui détruisent les conditions de leur propre pouvoir. Cette dernière proposition relève de la philosophie politique du récit, non d'une phrase explicite du scribe.
+
+### 5. *Atrahasis* : profondeur narrative et prudence intertextuelle
+
+Les traditions d'*Atrahasis* permettent de replacer le déluge dans un système où le travail humain allège la charge des dieux et où la catastrophe trouble l'équilibre de cette relation. Les passages conservés présentent des variantes et une tradition manuscrite complexe. La proximité de motifs avec *Gilgameš* ne doit ni effacer l'histoire rédactionnelle des deux poèmes ni autoriser la reconstitution libre de lignes perdues. Il est légitime d'évoquer leur parenté littéraire et religieuse ; il n'est pas légitime d'attribuer à une tablette lacunaire des mots connus seulement dans une autre rédaction.
+
+Ce point est méthodologiquement central. Le motif des divinités privées d'offrandes n'implique pas que tous les temples mésopotamiens concevaient les dieux comme des organismes biologiques dépendant matériellement de la nourriture humaine. Les listes administratives d'offrandes, les récits épiques, les hymnes et les lamentations opèrent dans des genres distincts. La bonne question n'est pas « les Babyloniens croyaient-ils que leurs dieux avaient faim ? », mais : quels textes représentent quelles formes de dépendance, avec quels effets narratifs et institutionnels ?
+
+### 6. Matières, chaleur et vocabulaire
+
+Le détail botanique est souvent oublié au profit de la formule des dieux autour du sacrifice. Or le récit installe une combustion : sélection de matières, disposition dans des récipients et production d'un effet perceptible. Le choix du cèdre peut faire signe vers le prestige et des régions forestières extérieures à la plaine alluviale ; il ne permet pas à lui seul de cartographier un chargement commercial particulier. Il serait également trompeur de présenter chaque brûlage de roseau comme une « offrande d'encens » au sens étroit. Des plantes odorantes et des combustibles peuvent être utilisés ensemble, avec des fonctions qu'un récit littéraire ne détaille pas.
+
+Un vrai programme philologique associerait les lignes de *Gilgameš* XI au *Chicago Assyrian Dictionary* et aux manuscrits translittérés de l'*Electronic Babylonian Library*, en enregistrant les formes de l'odorat, les qualificatifs du parfum et les lexèmes des végétaux. Les variantes importantes seraient signalées avant toute interprétation. Les transcriptions diffusées sur internet sont des outils, non des éditions critiques interchangeables avec celles d'Andrew R. George.
+
+### 7. Fumée et responsabilité
+
+La fumée joue ici un rôle paradoxal. Elle se dissipe, mais elle fait affluer les destinataires. Elle ne laisse presque rien d'elle-même, mais elle constitue l'événement qui modifie le cours de l'histoire. Le geste sacrificiel n'est pas uniquement la destruction d'un bien : il est la réouverture d'un monde social après une catastrophe. Le récit montre en outre qu'une réconciliation rituelle peut rester moralement incomplète ; la déesse conteste une distribution égale du bénéfice de l'offrande entre les puissances responsables et celles qui ne le sont pas.
+
+Il importe toutefois de refuser la fausse généralisation suivante : « la fumée vaut partout nourriture pour les dieux ». Le dossier mésopotamien fournit une configuration particulièrement explicite, non une loi comparative. Son intérêt est précisément de servir de cas-test pour les textes où l'odeur est conservée mais sa conséquence narrative transformée.
+
+---
+
+## III. La Genèse : une odeur semblable, une intrigue transformée
+
+### 8. Genèse 8,20–22
+
+Après la sortie de l'arche, Noé bâtit un autel et offre des holocaustes. La Genèse raconte que YHWH perçoit une odeur qualifiée d'agréable puis formule une résolution concernant la terre et les humains. Les références à fournir sont Genèse 8,20–22, suivies de l'alliance exposée en Genèse 9. La proximité de cette séquence avec le déluge mésopotamien est suffisamment précise pour constituer un objet d'histoire des traditions ; elle n'autorise pas, à elle seule, à trancher la direction de chaque emprunt rédactionnel, la date d'un passage ou l'existence d'une dépendance textuelle directe entre les deux versions accessibles aujourd'hui.
+
+Le contraste est plus intéressant que la ressemblance. Dans *Gilgameš*, une pluralité divine s'assemble, et la comparaison animale souligne l'urgence des destinataires. Dans la Genèse, l'odeur conduit à une décision formulée intérieurement par un seul Dieu ; aucune image de dieux affamés n'accompagne cette scène. Cette transformation peut être analysée comme une réorganisation théologique de motifs régionaux. Ce n'est pas la preuve que la Genèse aurait perdu tout anthropomorphisme : le texte dit bien que Dieu sent. La question de l'odeur n'est donc pas supprimée, mais recontextualisée dans un autre rapport entre création, responsabilité et promesse.
+
+### 9. La formule *rêaḥ nîḥōaḥ* : répétition et institution
+
+Les prescriptions sacrificielles utilisent de façon récurrente la formule conventionnellement traduite « odeur agréable à YHWH » : Lévitique 1,9.13.17 et plusieurs passages de Lévitique 2–3 en offrent des exemples. Elle s'applique à des gestes divers et ne doit pas être isolée d'une grammaire sacerdotale de l'agrément. L'odeur, dans ce langage, qualifie un acte réglé : les espèces, le moment, l'autel, les parts et les officiants importent. L'expression ne suffit pas à déduire une croyance simpliste selon laquelle le dieu consommerait le repas en respirant.
+
+Les discussions modernes sur la racine du second terme ne devraient pas faire de l'étymologie une théologie. Les jeux de mots possibles autour du nom Noé sont des questions littéraires ; ils ne transforment pas une formule attestée ailleurs en énoncé étymologique transparent. L'édition hébraïque doit rester visible à côté de la traduction et des variantes anciennes, notamment celles de la Septante.
+
+### 10. Exode 30,34–38 : composition et propriété du parfum
+
+Le passage prescrit une composition aromatique destinée au sanctuaire, associant quatre ingrédients dans les traductions habituelles : stacté, « onyx » odorant, galbanum et oliban. L'identification de chacun est l'objet d'une histoire exégétique et botanique ; on ne doit pas publier des équivalences latines comme s'il s'agissait d'analyses chimiques de prélèvements antiques. Le trait décisif du texte n'est pas seulement une recette. Une composition est réservée à un usage cultuel et sa reproduction à des fins de plaisir personnel est interdite. La distinction entre fragrance profane et matière sanctuarisée est fabriquée juridiquement.
+
+Cette exclusivité introduit une question politique : qui a le droit de produire la même odeur ? Le monopole rituel n'est pas réductible à la beauté d'un parfum. Dans une culture qui connaît les produits aromatiques domestiques et la distinction entre cultes légitimes et illégitimes, la recette définie par l'institution organise une différence perceptible. L'interdit ne signifie pas que toutes les substances odorantes sont sacrées ; il signifie que la composition prescrite est encadrée par une norme et un lieu.
+
+### 11. Exode 30,7–8 et Lévitique 16,12–13 : cadence et écran
+
+Le service régulier de l'encens, dans Exode 30,7–8, organise une temporalité répétée, associée au travail sacerdotal et à la maintenance du sanctuaire. Le rite ne raconte pas la découverte d'un dieu dans la fumée : il situe des gestes récurrents dans un ordre prescrit. En Lévitique 16,12–13, l'encens produit une nuée qui couvre un espace redoutable lié au propitiatoire. Ici la fumée peut empêcher un regard dangereux et contribuer à une procédure d'accès. L'enjeu est moins la « montée » que la médiation d'une proximité risquée.
+
+Le texte permet de décrire un écran rituel, non une chimie précise des substances brûlées. Si l'on veut analyser la densité, la couleur ou la composition de cette fumée, il faut recourir à des preuves indépendantes. Il serait également anachronique de supposer que tous les encensoirs conservés portent la même prescription. Les images tardives du culte juif ou chrétien ne sont pas des photographies du sanctuaire biblique.
+
+### 12. Nombres 16,46–48 : fumigation et frontière des vivants
+
+Dans le récit où Aaron intervient au cours d'une mortalité collective, l'encensoir se trouve lié à une action d'expiation ; l'officiant se tient entre les morts et les vivants. Ce passage ne doit pas être confondu avec la prescription quotidienne de l'encens. Le même instrument ou la même matière peut entrer dans une opération exceptionnelle de crise. Le rite n'est pas défini seulement par son objet matériel, mais par le contexte narratif et la fonction que le texte lui assigne.
+
+L'opposition entre gestes licites et gestes contestés structure d'ailleurs l'ensemble narratif de Nombres 16. Une lecture qui réduirait la scène à une « vertu médicale » de la fumée ferait disparaître ce conflit d'autorité. Les textes ne fournissent ni protocole microbiologique ni efficacité sanitaire contrôlée. Ils présentent un acte cultuel dans une histoire du jugement et de l'intercession.
+
+### 13. Les critiques prophétiques : une bonne odeur ne justifie pas tout
+
+Isaïe 1,13 s'en prend aux offrandes et à l'encens dans un cadre de dénonciation morale ; l'attaque ne prouve pas que l'encens aurait été un rite marginal ou aboli partout. Elle montre qu'une tradition peut faire l'objet d'une critique interne en raison de l'injustice des pratiquants. Les déploiements analogues d'Amos 5,21–24 concernent les célébrations et la justice ; chaque passage doit être lu dans son propre contexte, plutôt que cité comme hostilité intemporelle à toute matérialité rituelle.
+
+La tension mérite d'être formulée philosophiquement : une pratique techniquement conforme peut-elle demeurer religieusement défectueuse ? Le problème ne naît pas d'une opposition universelle entre « vraie spiritualité » et « cérémonies primitives » ; il se joue dans des textes où le culte et la conduite sociale appartiennent à une même tradition. Une morale de la fumée n'est donc pas imposée de l'extérieur : elle est disputée par les sources elles-mêmes.
+
+---
+
+## IV. Égypte : présenter l'encens, construire l'atmosphère divine
+
+### 14. Objets et images : le geste du don
+
+Un encensoir égyptien en métal peut avoir une forme allongée, terminée par une tête de faucon, avec une coupelle contenant la matière et un emplacement où l'on pouvait présenter celle-ci. La notice du Metropolitan Museum of Art pour l'encensoir inv. 41.2.2 précise ce dispositif et son lien iconographique au roi officiant. Elle permet une description fiable : une matière était offerte en direction de la divinité, l'objet combinait combustion, présentation et représentation royale. Elle n'autorise pas à reconstruire le texte exact récité par l'officiant qui aurait employé cet exemplaire.
+
+Le dispositif est instructif pour l'histoire du pouvoir. Dans l'idéologie du temple, le souverain apparaît comme celui qui assure les rites, même lorsque le fonctionnement réel dépend de nombreux spécialistes. La position du roi sur un objet n'est ni un cliché documentaire ni une preuve que la main du monarque manipulait effectivement l'encens à chaque service. Les inscriptions, l'architecture et les listes de personnels sont nécessaires pour passer de l'image à l'institution.
+
+### 15. La matière végétale, produit du commerce et de la conquête symbolique
+
+Les reliefs du portique de Pount au temple de Hatchepsout à Deir el-Bahari associent l'expédition à l'acquisition de produits et d'arbres précieux. Les arbres à résine et les aromates y occupent une place significative dans une mise en scène de richesse et d'ordre royal. La représentation n'est pourtant pas un inventaire photographique neutre d'une cargaison, et « Pount » ne désigne pas un emplacement géographique définitivement établi dans chaque débat savant. La provenance botanique d'un arbre figuré doit être traitée avec l'histoire des échanges et les contraintes iconographiques.
+
+La résine rend particulièrement nette la conversion d'un bien éloigné en matière liturgique. Entre l'arbre, la collecte, le transport, le dépôt, la combustion et l'image du temple s'intercalent des travailleurs, des institutions et des gestes de sélection. La notion de « don aux dieux » peut masquer cette histoire matérielle si elle est prise comme une explication totale. À l'inverse, réduire le culte à l'économie du luxe nierait la fonction normative des offrants et de leurs inscriptions.
+
+### 16. Une évidence archéologique à ne pas exagérer
+
+Le Metropolitan Museum conserve un brasero provenant de l'inhumation d'un enfant nommé Amenhotep, inv. 36.3.165, daté de l'époque d'Hatchepsout et Thoutmosis III. La notice indique une substance grisâtre cendreuse et l'interprète prudemment comme résidu d'encens ou d'une offrande brûlée lors des funérailles. C'est un exemple parfait de formulation archéologique mesurée. L'objet, la matière et le contexte sont attestés ; l'identification exacte du combustible et la totalité de la séquence liturgique restent ouvertes.
+
+Ce cas corrige deux confusions fréquentes. Premièrement, un objet funéraire associé à une combustion n'est pas automatiquement un témoin du service quotidien d'un grand temple. Deuxièmement, la catégorie « cendres d'encens » peut être une hypothèse raisonnable du conservateur, mais elle ne vaut pas, en l'absence d'analyse, détermination taxonomique jusqu'à l'espèce végétale. Il faut lire les adverbes et les réserves des inventaires, non les effacer dans une légende attractive.
+
+### 17. Une géographie des encensoirs
+
+Un encensoir en argent de Bubastis, inv. 07.228.183a–d du Metropolitan Museum, appartient à l'époque ptolémaïque. Son couvercle perforé indique un contrôle de l'échappement de la fumée, et la présence d'une chaîne contribue à sa description technique. Il serait erroné de l'utiliser sans date pour illustrer des prescriptions du Moyen Empire. La comparaison d'objets à plus d'un millénaire de distance doit d'abord observer leurs différences de matériau, mobilité, dépôt et contexte.
+
+La documentation égyptienne permet de décrire plusieurs régimes : présentation de l'encens devant une image divine, fumigation funéraire, dispositifs à couvercle, inscriptions royales et pratiques quotidiennes. Leur communauté de matière ne rend pas leurs usages identiques. Une « carte des senteurs égyptiennes » devrait différencier les lieux d'acquisition des résines, les lieux d'usage et les lieux de découverte des objets ; ce sont trois géographies distinctes.
+
+### 18. La faute de traduction : « parfumer » n'est pas toujours « diviniser »
+
+On rencontre parfois une interprétation selon laquelle la fumigation ferait littéralement d'une chose un dieu. Une analyse du vocabulaire et de la syntaxe des légendes doit précéder ce type d'affirmation. Même si les racines des termes et des jeux théologiques autorisent des rapprochements, le geste cultuel concret reste souvent une présentation, une purification ou une consécration, selon le passage. Les égyptologues distinguent la fonction d'une offrande de l'analyse étymologique de son nom.
+
+L'effet philosophique du parfum ne doit pas être confondu avec une propriété surnaturelle de la molécule. Dans le temple, l'efficacité est articulée à un lieu, un corps de spécialistes, des textes, des images et un ordre royal. La matière odorante intervient comme un élément indispensable de certaines opérations, mais ne suffit pas à expliquer à elle seule ce qu'est la présence divine dans les théologies égyptiennes.
+
+---
+
+## V. Monde grec : graisse sacrificielle, aromates et politique de la fumée
+
+### 19. La *knísē* homérique : une odeur de partage
+
+Les passages sacrificiels de l'*Iliade* et de l'*Odyssée* décrivent des opérations successives : mise à mort, préparation des parts, combustion, libations, consommation humaine, et parfois distribution honorifique. Le récit de sacrifice chez Nestor, dans *Odyssée* III, notamment la séquence autour des vers 430–463, montre la technicité collective d'un tel acte. L'odeur de graisse et les fumées n'absorbent pas toutes les autres opérations. Le rapprochement avec les fumées mésopotamiennes peut porter sur le sacrifice comme relation, mais ne doit pas supposer une théorie homogène de la digestion divine.
+
+Les expressions grecques relatives à la graisse qui brûle se lisent à l'intérieur d'une économie du partage. Le sacrifice ne consiste pas seulement à produire une odeur destinée au ciel ; il organise ce qui revient aux humains, ce qui est consumé, qui officie et dans quel ordre les participants se tiennent. L'analyse de la valeur du fumet exige donc les mêmes précautions que celle de la viande et des libations : genre littéraire, date de composition, rituels attestés ailleurs et biais du récit.
+
+### 20. Les *Oiseaux* d'Aristophane : bloquer le corridor des offrandes
+
+Dans les *Oiseaux*, joués en 414 avant notre ère, les oiseaux proposent de contrôler l'espace entre les hommes et les dieux. Dès l'argument exposé par Pisthétairos, approximativement vers 162–193, le passage des offrandes et de leur fumée devient un levier de souveraineté. Plus tard, l'intrigue révèle les conséquences de cette obstruction et met en scène une négociation avec les puissances célestes. Les répliques doivent être citées selon l'édition suivie et les vers réellement consultés ; une paraphrase moderne de la famine des dieux ne doit pas être déguisée en citation grecque.
+
+Le ressort comique fournit une expérience conceptuelle : le pouvoir d'interrompre un flux peut l'emporter sur la puissance de son destinataire. Mais c'est une construction théâtrale, pas un rapport sur la manière dont les Athéniens pensaient uniformément leurs dieux. L'enquête doit maintenir la différence entre une pratique rituelle, une croyance racontée, une fiction de scène et une critique de l'impérialisme. La comédie rend une relation matérielle politiquement visible en imaginant sa confiscation par un tiers.
+
+Une lecture comparée avec le déluge mésopotamien est séduisante : dans les deux récits, les dieux dépendent narrativement d'une offrande interrompue. Mais les mécanismes diffèrent. La catastrophe relève de la décision divine chez les Babyloniens ; le blocus résulte d'une stratégie humaine et aviaire dans la comédie attique. Aucun trajet d'influence directe n'est démontré par cette seule analogie. Il s'agit d'une comparaison de situations politiques construites par des œuvres, pas d'une chaîne généalogique prouvée.
+
+### 21. Le brûle-parfum grec n'est pas tout le sacrifice grec
+
+Le Metropolitan Museum conserve un *thymiaterion* grec d'Italie du Sud, inv. 26.60.74, daté d'environ 350–325 avant notre ère. La notice distingue sa fonction d'objet à encens, son matériau et sa décoration. Son existence atteste que les parfums brûlés avaient un outillage propre dans certains contextes grecs. Elle ne permet pas de relire tous les sacrifices homériques comme des rituels d'oliban : l'objet est postérieur et le contexte social particulier doit être documenté.
+
+L'histoire des résines importées, des huiles parfumées et des brûle-parfums demande de différencier banquet, culte civique, fête, dédicace, soin du corps et rite funéraire. Un petit objet de prestige peut circuler entre ces domaines. L'association générale de l'odeur agréable avec la faveur divine est insuffisante pour attribuer automatiquement une fonction religieuse à tous les récipients aromatiques.
+
+### 22. Adonis, myrrhe et jardins : une anthropologie à discuter
+
+Dans *Les Jardins d'Adonis*, Marcel Detienne a mis l'accent sur les réseaux de correspondances grecques entre aromates, croissance végétale, sexualité, mort et pratiques festives. Le livre demeure essentiel parce qu'il refuse d'isoler le parfum de catégories indigènes de cuisine et de reproduction. Il ne dispense cependant pas de refaire la chaîne des sources. Les textes mythographiques tardifs, les scènes attiques et les pratiques locales ne sont pas contemporains et n'expriment pas forcément un système grec totalement cohérent.
+
+La myrrhe appartient à des récits d'Adonis par l'intermédiaire d'une histoire de filiation et de métamorphose dont les variantes doivent être respectées. Les « jardins d'Adonis », cultures éphémères associées à une fête, ne sont pas des encensoirs. Les placer ensemble dans un même dossier vise à comprendre un imaginaire des aromates, et non à faire croire que le même rite combine systématiquement plante, jardin et fumée. L'attention à ces différences est une condition de la fécondité du modèle structural.
+
+### 23. Le rite grec à l'épreuve des évaluations divines
+
+F. S. Naiden a rappelé que les dieux grecs ne sont pas simplement des machines à accepter des offrandes ; les discours sur le sacrifice mobilisent des critères, une convenance et des normes. Son analyse permet de critiquer la réduction du sacrifice à une cuisine produisant automatiquement la faveur divine. On peut brûler ce qu'il faut et échouer à obtenir ce que l'on veut. La bonne odeur ne garantit pas la bonne relation. Des récits d'offrande refusée ou de faute cultuelle doivent alors être étudiés chacun dans leur contexte, et non alignés comme variantes d'une même morale universelle.
+
+Il faut également rendre à la technique sa place : le sacrifice implique des animaux, des artisans, des officiants, des assistants et des spectateurs. La fumée change avec le bois, le vent, l'humidité et l'organisation de l'autel. Une étude de l'olfaction divine qui omet le travail matériel ne comprendrait qu'une moitié des attestations.
+
+---
+
+## VI. Italie ancienne et monde romain : du *tūs* aux gestes de consécration
+
+### 24. Un vocabulaire latin pluriel
+
+Dans le monde latin, la fumigation peut constituer un acte distinct d'une offrande alimentaire. Le *tūs* est une substance odorante ; la fumée accompagnant sa combustion est réglée par des formes de prière et des cadres de compétence variables selon les cultes. Les sources romaines ne doivent pas être réduites à un « encens romain » intemporel. Les différences entre maison, autel public, honneur impérial, funérailles et banquet changent le sens de l'aromate.
+
+Les textes de Pline l'Ancien, notamment l'*Histoire naturelle* XII dans les développements consacrés à l'encens et à l'Arabie, offrent une documentation sur les substances, leur provenance et leur valeur. Pline écrit dans un monde impérial du Ier siècle de notre ère, avec ses savoirs, ses emprunts et ses intérêts encyclopédiques. Le prendre comme un observateur direct des plantations archaïques de la mer Rouge serait une erreur de méthode. Une histoire économique doit confronter ses indications aux inscriptions, aux routes maritimes, aux cargaisons et aux contextes de découverte.
+
+### 25. Les objets étrusques et italiques comme comparateurs
+
+Le Metropolitan Museum conserve un brûle-parfum de bronze étrusco-falisque, inv. 2000.456.2, daté vers 300 avant notre ère. Il associe des pieds zoomorphes, un support et un réceptacle destiné aux grains d'encens. La notice le rattache à un ensemble de produits d'Italie centrale. L'objet ne devient pas « romain » au seul motif qu'il est italien. Il documente une circulation de techniques et d'esthétiques dans une région située au contact d'autres traditions méditerranéennes.
+
+Comparer ce brûle-parfum à un *thymiaterion* grec n'est pas encore établir une filiation. Une étude des formes nécessiterait un corpus de dimensions, alliages, contextes funéraires, traces de combustion et dates. L'existence d'objets similaires dans plusieurs régions constitue une hypothèse de contacts ; il faut chercher aussi les procédés techniques, les importations et les adaptations locales. L'histoire du parfum ne se reconstruit pas à partir de silhouettes isolées.
+
+---
+
+## VII. Inde védique : une limite méthodologique volontaire
+
+### 26. Agni, le feu et la circulation des offrandes
+
+Le premier hymne du *Ṛgveda*, I,1, célèbre Agni comme officiant, médiateur et puissance participant au sacrifice. Le passage I,1,4 met en relation le sacrifice que protège ou accompagne Agni et son accès aux dieux. Ce dossier est particulièrement intéressant pour une comparaison fonctionnelle : un agent igné occupe une position intermédiaire entre les humains et les destinataires divins. Pourtant la médiation par le feu n'est pas une preuve que le texte décrit la même institution qu'un encensoir égyptien ou qu'une formule hébraïque d'odeur agréable.
+
+Les offrandes de beurre clarifié et la ritualité du feu se laissent documenter dans des ensembles védiques précis, mais une substance grasse versée au feu n'est pas une résine d'encens. Il faudrait rechercher séparément les vocabulaires de parfum, de fumée et d'offrande ; le passage de l'un à l'autre ne peut être décidé par l'intuition d'un traducteur moderne.
+
+### 27. Chronologie des combustions parfumées
+
+Le monde indien connaît de riches traditions de fumigation aromatique et d'offrandes odorantes. Les attestations de périodes différentes ne doivent pas être projetées sur les hymnes les plus anciens. Un chapitre comparatif responsable dira seulement que certaines opérations modernes semblent analogues, puis identifiera la stratification textuelle nécessaire avant tout rapprochement historique. Le corpus de base est le *Ṛgveda* dans l'édition et la traduction de Jamison et Brereton (2014), auquel s'ajoutent, si le projet s'élargit, des textes rituels datables et des données archéologiques indépendantes.
+
+L'Inde sert ici de **contre-épreuve**. La présence d'un feu médiateur sans attestation nécessaire de la même recette aromatique montre qu'une fonction comparable peut être réalisée par une matière différente. Ce résultat empêche une typologie évolutionniste selon laquelle toute religion commencerait par la fumée des sacrifices pour aboutir à l'encens pur, puis à une intériorité sans objet. Il ne s'agit pas d'une progression historique universelle.
+
+---
+
+## VIII. L'économie politique des aromates : routes, rareté et valeur
+
+### 28. L'odeur a une géographie inégale
+
+Certaines résines aromatiques proviennent d'arbres adaptés à des zones écologiques particulières. Leur déplacement suppose des opérations de collecte, séchage, tri, chargement, commerce, péage et redistribution. La présence d'un produit luxueux dans un temple ne signifie pas que son pouvoir religieux se réduit à son prix : la rareté matérielle peut augmenter la solennité, mais elle ne remplace pas la prescription ou la narration qui rend ce produit pertinent.
+
+La distinction entre résine du pays, produit importé et mélange composé est essentielle. Les appellations anciennes couvrent des familles de matières dont les identifications botaniques restent parfois disputées. Une méthode rigoureuse associe textes de provenance, identification archéobotanique, résidus chimiques lorsqu'ils existent, et critique des nomenclatures modernes. Une « route de l'encens » dessinée sur une carte sans dates unifie abusivement des circuits qui varient selon les siècles.
+
+### 29. Hatchepsout et l'affichage de la puissance royale
+
+L'expédition de Pount illustre la mise en scène politique d'une matière rare et recherchée. L'image du transport d'arbres ou de produits aromatiques est liée à un projet monarchique de prestige et de légitimité cultuelle. On peut poser l'hypothèse que la capacité du souverain à procurer des aromates renforçait la représentation de son service envers les dieux. Ce n'est pas une preuve qu'un seul circuit d'approvisionnement dominait toute l'Égypte ou que le récit serait entièrement descriptif.
+
+La question philosophique est celle de la **conversion des richesses** : le produit extrait, transporté et administré prend place dans une relation présentée comme divine. Cette conversion n'efface pas les travailleurs ni les conditions politiques du commerce. Une lecture contemporaine critique peut rendre ces médiations visibles sans prétendre restituer automatiquement la voix des personnes absentes des inscriptions royales.
+
+### 30. Le commerce de l'encens et les projections d'empire
+
+L'évocation de l'Arabie dans les sources grecques et latines doit être située chronologiquement. Les routes caravan ières et maritimes ne furent pas immuables ; les objets étrusques ou grecs conservés n'en livrent qu'une portion de l'histoire. De même, l'odeur du culte ne permet pas d'identifier à elle seule des rapports de domination. Certaines circulations correspondent au commerce, d'autres à la redistribution étatique ou aux dons diplomatiques. Le comparatiste doit refuser la fiction d'un « monopole de l'encens sacré » unique reliant Sumer, Thèbes, Jérusalem, Athènes et Rome pendant trois millénaires.
+
+Une enquête future pourrait constituer une base associant : nom antique et translittération, produit supposé, texte ou objet, date du témoin, lieu du témoin, lieu de provenance revendiqué, méthodes de détermination et degré de certitude. Sans cet appareil, la carte d'un produit devient facilement une carte imaginaire des influences religieuses.
+
+---
+
+## IX. Odeur, visibilité et frontière : ce que la fumée fait au temple
+
+### 31. Un même phénomène, trois fonctions
+
+Première fonction : **rendre l'acte perceptible**. Une fumée et son odeur signalent aux participants qu'une offrande a été brûlée. Deuxième fonction : **donner forme à l'accès**. La nuée du Lévitique contribue à un rapport réglé avec un espace dangereux. Troisième fonction : **qualifier le destinataire**. Dans *Gilgameš*, l'odorat des dieux déclenche leur retour vers le sacrificateur. Ces trois fonctions ne s'impliquent pas réciproquement. Une fumée peut se produire sans récit d'un dieu odorant ; une histoire de parfum peut exister sans illustration conservée d'un brûle-parfum.
+
+L'idée que la fumée « monte » est physiquement commode et symboliquement féconde, mais elle n'est pas une interprétation automatique de tout rite antique. Son mouvement réel dépend du vent et du bâtiment. Un temple possède des ouvertures, des cours et des zones fermées ; le lieu où l'encens est brûlé peut importer autant que la direction de la fumée. Il faut se méfier des visualisations modernes de spirales dorées qui recouvrent toutes les scènes de la même atmosphère spectaculaire.
+
+### 32. La présence n'est pas une propriété chimique
+
+Le langage de la « présence divine » est polysémique : image cultuelle honorée, lieu réservé, puissance agissante, épiphanie narrative ou relation instituée. Une odeur peut accompagner l'une de ces formes, mais n'est pas leur définition. Le parfum peut rendre sensible une relation sans être l'essence du dieu. C'est précisément pourquoi les textes exigent de distinguer odeur agréable, offrande acceptée, offrande licite et offrande efficace.
+
+Une philosophie de la médiation peut décrire le parfum comme un « entre-deux » : issu d'une matière solide ou liquide, il se diffuse, traverse des frontières et touche des personnes qui ne possèdent pas l'objet initial. Il serait pourtant abusif d'attribuer cette formulation à un prêtre babylonien ou à un auteur du Lévitique. Elle n'est qu'une construction contemporaine, heuristique pour mettre les sources en question.
+
+### 33. Le corps des officiants, l'espace des assistants
+
+Les mains qui déposent la résine, les yeux qui voient le récipient, les personnes qui sentent ou ne sentent pas la fumée et les spécialistes qui récitent les formules ne participent pas nécessairement de façon égale au rite. Les sources monumentales mettent souvent le roi au premier plan et laissent les travailleurs réels à l'arrière-plan. Les textes normatifs prescrivent un ordre mais ne décrivent pas toutes les exécutions effectives.
+
+Une histoire sensorielle doit éviter de prétendre retrouver les sensations individuelles des participants. Les odeurs antiques ne sont pas récupérables par une simple reconstitution numérique, pas plus qu'un brûle-parfum vide ne garantit la nature de ce qui y fut brûlé. Les analyses chimiques peuvent parfois reconnaître des molécules ou familles de résidus, mais leurs résultats demandent des contrôles de contamination et des analyses de vieillissement. Le geste passé reste un objet de recherche, non une expérience reconstituable intégralement.
+
+---
+
+## X. Comparaison des récits : le déluge, le blocus et la règle
+
+### 34. Trois modes de dépendance
+
+Le déluge babylonien met en scène des dieux qui redeviennent attentifs à l'odeur après une destruction presque complète. Les *Oiseaux* d'Aristophane mettent en scène un blocus volontaire des offrandes comme instrument de négociation. La réglementation de l'encens dans l'Exode définit au contraire des conditions licites de fabrication et d'usage. Trois questions sont ainsi posées : **que reçoit le dieu ?** ; **qui peut interrompre ce qu'il reçoit ?** ; **qui a compétence pour préparer l'offrande ?**
+
+La comparaison peut être menée au niveau des dispositifs sans postuler une transmission. Dans les deux premiers cas, un récit construit une dépendance susceptible de devenir un problème politique. Dans le troisième, un texte normatif règle la légitimité et la reproduction d'un produit. Toute conclusion sur l'existence d'une théologie de la fumée doit respecter ce changement de genre.
+
+### 35. La Genèse n'est pas un simple *Gilgameš* corrigé
+
+Il est facile d'affirmer que la version biblique « spiritualise » un motif ancien. La transformation est plus subtile : elle garde une action sensorielle attribuée à Dieu, mais la place dans une intrigue de promesse et de limitation de la violence. Le récit babylonien conserve une pluralité d'acteurs divins et la question de leur responsabilité différentielle. Les deux traditions réorganisent matériellement l'odeur, le survivant et les destinataires, mais elles ne se distinguent pas selon un axe simpliste matérialisme/spiritualité.
+
+La relation aux auteurs et aux rédactions est elle aussi asymétrique. La *Genèse* est un ensemble composite étudié par la critique biblique ; l'*Épopée de Gilgameš* possède plusieurs traditions et témoins mésopotamiens. On ne peut assigner une date de composition unique à toutes les strates sans justification. Le motif partagé fonde une enquête d'histoire des textes, non l'annonce d'un emprunt linéaire décidé d'avance.
+
+### 36. L'opération comparée n'est pas une identité des dieux
+
+Les dieux de la mythologie babylonienne ne sont pas « les mêmes » que le dieu de la Genèse, les divinités grecques ou Agni. Leur statut, leur nombre, les genres de textes qui les représentent et les institutions qui les honorent diffèrent. Les actes sont parfois comparables alors que les personnages ne le sont pas. Inversement, deux récits peuvent partager un lexique de fumée tout en produisant des effets théologiques divergents. L'exercice universitaire consiste à maintenir cette dissymétrie comme résultat, pas comme gêne à supprimer.
+
+---
+
+## XI. Contre-épreuves : odeur acceptée, odeur condamnée, odeur absente
+
+### 37. Une offrande bien faite peut être récusée
+
+Isaïe 1,13 suffit à falsifier la thèse selon laquelle l'odeur parfumée garantirait universellement la faveur divine. Les normes cultuelles et les jugements moraux peuvent entrer en conflit dans une tradition textuelle. Les récits grecs d'offrandes mal accueillies demandent chacun un contrôle documentaire analogue. La condamnation d'un geste peut venir de sa provenance, du statut de son officiant, d'une faute collective ou d'une intention jugée mauvaise ; le parfum comme tel n'en épuise pas l'explication.
+
+### 38. Les textes muets ne prouvent pas l'absence du rite
+
+Un hymne qui loue Agni sans nommer un encens n'établit pas que personne n'employait jamais de résines aromatiques dans le monde indien. Il établit seulement l'absence d'une attestation dans ce passage. Le raisonnement inverse est tout aussi dangereux : un récipient à couvercle ajouré ne prouve pas que les habitants du site possédaient une doctrine du « parfum divin ». La comparaison a besoin de cette discipline du silence.
+
+### 39. La proposition falsifiable
+
+Une hypothèse utile pourrait être : « les textes mettant le parfum au premier plan accompagnent souvent une situation d'adresse réglée à un destinataire surnaturel ». Pour l'éprouver, il faudrait recenser aussi les emplois profanes, les parfums de séduction, les odeurs de cuisine et les fumées protectrices non adressées à un dieu. Sans corpus négatif, le chercheur choisirait des exemples conformes à sa thèse et la rendrait irréfutable.
+
+L'objet « parfum du sacré » ne devrait donc jamais être un tableau d'exemples édifiants ; il est une proposition de travail contrôlable par des contre-exemples, des éditions critiques et des contextes archéologiques précis.
+
+---
+
+## XII. Historiographie : quatre manières de lire le sacrifice odorant
+
+### 40. Hubert et Mauss : le sacrifice comme procédure
+
+Henri Hubert et Marcel Mauss, dans leur *Essai sur la nature et la fonction du sacrifice* (1899), ont proposé de penser le sacrifice comme une procédure de transformations réglées, impliquant des médiations entre des agents et des domaines distincts. Leur modèle aide à décrire l'encens comme une opération plutôt que comme un signe abstrait. Il ne remplace pas l'étude historique des textes sumériens, hébraïques ou grecs ; sa généralité est précisément ce qui impose de revenir aux différences.
+
+### 41. Burkert : coût, violence et rite
+
+Walter Burkert a mis la mise à mort et la violence au centre de certaines reconstructions du sacrifice grec. La place des fumées doit être replacée dans cette discussion : réduire la victime à une odeur ferait disparaître la violence et le partage alimentaire ; à l'inverse, réduire toute offrande à une mise à mort ferait disparaître les fumigations sans animal. Une comparaison productive doit conserver les deux objections.
+
+### 42. Detienne et Vernant : cuisines, aromates, classification
+
+Les travaux de Marcel Detienne et Jean-Pierre Vernant sur la cuisine du sacrifice et les systèmes grecs de classification ont déplacé la question : pourquoi tel produit, à tel moment, en relation avec telle oppositon symbolique ? Leur apport est méthodologiquement décisif, mais l'extension du modèle grec à l'Égypte ou à l'Inde sans reprise des catégories locales serait une erreur. Un modèle structural doit être testé et non exporté comme une langue universelle.
+
+### 43. Naiden : critères d'acceptation et institution
+
+L'étude de F. S. Naiden rappelle qu'offrir ne signifie pas obtenir. Le sacrifice comporte une régulation sociale et une évaluation religieuse qui débordent la nature de la matière consumée. Les prescriptions sur la préparation de l'encens biblique offrent un terrain comparatif, mais l'histoire institutionnelle des prêtres hébreux ne doit pas être lue par analogie immédiate avec les sacrifices grecs. La comparaison fait apparaître un problème commun — la compétence de l'offrant — et plusieurs solutions historiques.
+
+### 44. Anthropologie des sens et critique des reconstructions
+
+Les travaux consacrés à l'histoire sensorielle ont utilement contesté la domination exclusive du visuel. Mais une reconstruction « immersive » du sanctuaire par une diffusion moderne de myrrhe ou d'oliban ne peut prétendre restaurer l'expérience antique. Les personnes, leurs habitudes olfactives, les conditions de ventilation et les recettes ont changé. L'outil muséal peut favoriser la pédagogie, à condition d'être clairement signalé comme hypothèse scénographique et non comme expérience archéologique observée.
+
+---
+
+## XIII. Dossiers primaires : localisations et questions de traduction
+
+### 45. Matrice de lecture des sources
+
+| Corpus | Passage ou témoin | Ce qui est attesté | Question ouverte |
+|---|---|---|---|
+| Mésopotamie | *Gilgameš* standard babylonien, tablette XI, env. 155–169 | Offrande, odeur perçue, rassemblement des dieux | Variantes, vocabulaire exact selon témoin |
+| Mésopotamie | *Atrahasis*, tablette III, tradition du déluge | Catastrophe et dépendance cultuelle dans une tradition apparentée | Reconstitutions des lacunes et relations rédactionnelles |
+| Bible | Genèse 8,20–22 | Holocaustes, odeur agréable, résolution divine | Histoire rédactionnelle et rapprochement avec *Gilgameš* |
+| Bible | Exode 30,7–8 ; 30,34–38 | Encens régulier, composition et usage réservés | Identité botanique de plusieurs ingrédients |
+| Bible | Lévitique 1,9.13.17 ; 16,12–13 | Formule de l'odeur agréable ; nuée protectrice | Rapport entre langage normatif et pratique historique |
+| Bible | Nombres 16,46–48 ; Isaïe 1,13 | Encens dans une crise ; dénonciation morale | Diversité des milieux et dates de rédaction |
+| Grèce | *Odyssée* III, env. 430–463 | Séquence collective sacrificielle | Rapport entre récit épique et pratiques historiques |
+| Grèce | Aristophane, *Oiseaux*, env. 162–193 et épisode du blocus | Interception comique des offrandes | Degré de satire politique et théologique |
+| Grèce | Objets *thymiateria*, inventaires archéologiques | Dispositifs spécialisés pour brûler des aromates | Fonction effective de chaque objet |
+| Égypte | Reliefs de Pount, Deir el-Bahari ; encensoirs conservés | Circulation figurée des aromates ; outils de présentation | Géographie du commerce et gestes spécifiques |
+| Italie | Pline, *Histoire naturelle* XII ; brûle-parfums étrusques | Discours antique sur les aromates ; matériel archéologique | Trajectoires des formes et produits |
+| Inde | *Ṛgveda* I,1, notamment 1 et 4 | Agni comme puissance médiatrice du sacrifice | Place chronologiquement différenciée de la fumigation aromatique |
+
+### 46. Exemple de glose critique : le « bon parfum » de *Gilgameš*
+
+Trois affirmations doivent rester séparées. **A :** le récit nomme une odeur perçue par les dieux et la qualifie positivement. **B :** sa place dans l'intrigue permet de lire l'offrande comme une restauration du lien entre survivant et panthéon. **D :** un lecteur moderne peut y discerner un conflit entre les besoins du pouvoir et les dégâts produits par ce pouvoir. La première proposition est textuelle ; la seconde est une interprétation narrative serrée ; la troisième est philosophique. Aucune ne suffit à identifier chimiquement tous les combustibles énumérés.
+
+### 47. Exemple de glose critique : *rêaḥ nîḥōaḥ*
+
+La locution appartient à un langage rituel répété. Une traduction littérale trop transparente risquerait de lui prêter une théorie psychologique de la détente divine ; une traduction purement abstraite masquerait son composant sensoriel. Le commentateur doit rendre visibles les deux aspects : mot d'odeur et formule conventionnelle d'agrément. Il faut citer l'hébreu, mentionner l'éventuelle variation de la Septante selon le passage et distinguer cette expression du vocabulaire spécifique de l'encens composé.
+
+### 48. Exemple de glose critique : les *Oiseaux*
+
+Le texte de la comédie construit une dépendance par la confiscation d'un passage aérien. La scène est attestée et le mécanisme narratif précis. Mais la thèse « les Grecs croyaient que leurs dieux mouraient de faim sans fumée » est trop large. L'humour transforme une relation cultuelle en stratégie de contrôle ; sa vérité historique est la possibilité d'en rire et d'en faire une métaphore politique, non une enquête doctrinale sur chaque Athénien.
+
+---
+
+## XIV. Inventaire d'illustrations institutionnelles et politique des droits
+
+Les objets suivants sont **recommandés** ; aucune image n'est incorporée dans ce fichier. Un lien vers une notice n'accorde pas automatiquement le droit de reproduire une photographie. L'éditeur devra contrôler pour chaque image la licence, le crédit, les éventuelles restrictions de téléchargement et la correspondance entre la photographie et l'objet inventorié. Les numéros ci-dessous permettent de retrouver les notices de façon reproductible. Aucun visuel 2,5D, faux fac-similé ou reconstruction présentée comme un objet réel n'est autorisé.
+
+1. **Égypte, encensoir en bronze, Metropolitan Museum of Art, 41.2.2.** Période tardive, 525–343 avant notre ère. Notice : https://www.metmuseum.org/art/collection/search/546100 . Légende proposée : « Encensoir à long manche, forme de bras et terminaison à tête de faucon ; la présentation de matière aromatique est figurée comme offrande royale. » Contrôler la politique Open Access du Met pour la photographie choisie, sa présence effective et la ligne de crédit.
+2. **Égypte, brasero de la sépulture d'Amenhotep, Met, 36.3.165.** Nouvel Empire, env. 1473–1458 avant notre ère. Notice : https://www.metmuseum.org/art/collection/search/548873 . Légende : « Brasero funéraire avec résidu cendreux, interprété prudemment comme encens ou offrande brûlée. » Ne pas modifier la réserve de la notice en identification certaine.
+3. **Égypte, brûle-parfum en argent avec chaîne, Met, 07.228.183a–d.** Époque ptolémaïque, 305–30 avant notre ère ; Tell Basta. Notice : https://www.metmuseum.org/art/collection/search/548219 . Illustrer le couvercle perforé ; la légende doit rappeler l'écart chronologique avec les scènes du Nouvel Empire.
+4. **Égypte, reliefs de l'expédition de Pount, temple d'Hatchepsout, Deir el-Bahari.** Pour un accès contrôlable à l'iconographie, comparer les publications de l'Egypt Exploration Society et la notice d'un moulage ancien conservé au Met, **08.204.1.11**, https://www.metmuseum.org/art/collection/search/591630 . Ce moulage est une œuvre du XXe siècle d'après un original du Nouvel Empire, non l'original lui-même : la légende doit absolument le préciser. Les droits de l'image du moulage ou des photographies du relief restent à vérifier.
+5. **Grèce d'Italie du Sud, *thymiaterion* en terre cuite, Met, 26.60.74.** Env. 350–325 avant notre ère ; production apulienne. Notice : https://www.metmuseum.org/art/collection/search/252538 . Montrer le rapport entre forme, support et brûlage d'encens ; ne pas l'étiqueter « ustensile sacrificiel homérique ».
+6. **Italie étrusco-falisque, brûle-parfum en bronze, Met, 2000.456.2.** Env. 300 avant notre ère ; pieds de cheval et oiseaux autour du récipient. Notice : https://www.metmuseum.org/art/collection/search/257529 ; la photographie principale est signalée *Public Domain* dans la notice consultée. Conserver le crédit Met et le numéro d'objet malgré cette indication.
+7. **Étrurie, brûle-parfum en bronze, Met, 1992.262.** Fin VIe–début Ve siècle avant notre ère. Notice : https://www.metmuseum.org/art/collection/search/256135 . Pour comparer des formes italiennes de dates différentes ; vérification des droits de la photo toujours requise.
+8. **Mésopotamie, tablette du déluge de *Gilgameš*, British Museum, K.3375.** Consulter les notices du British Museum et les éditions de l'*Electronic Babylonian Library* avant récupération d'une photographie. Point de méthode : K.3375 est un témoin manuscrit de la tablette XI, pas un « manuscrit originel » de l'épopée ; ne pas emprunter la photographie à un agrégateur sans contrôler son crédit et ses droits.
+9. **Égypte, brasero attribué à Khéty, musée du Louvre, E 10501 / AF 2885.** Notice : https://collections.louvre.fr/ark:/53355/cl010006751 . L'inventaire propose une désignation « brasero (?) ; coffret (?) ». Cette incertitude doit être visible dans la légende ; éviter de le représenter comme brûle-encens certain.
+10. **Cartes et schémas.** Proposer seulement des cartes éditoriales originales explicitant les lieux de production et de découverte avec sources distinctes et incertitudes datées. Un diagramme de combustion peut être élaboré comme schéma scientifique, mais ne sera ni qualifié de représentation antique ni rendu en 2,5D. Une frise chronologique distinguera composition supposée, témoin conservé et date de fabrication des objets.
+
+**Jeu minimal de métadonnées pour chaque média :** identifiant d'inventaire, établissement, titre, fonction déduite/attestée, matériau, date et incertitude, provenance connue, lieu de découverte, photographe, crédit obligatoire, licence de l'image, source URL institutionnelle, date de consultation, description alternative, justification de pertinence au passage. Ne pas afficher une vignette de musée comme si elle était libre de droits sans examen de la notice de l'image spécifique.
+
+---
+
+## XV. Bibliographie critique et annotée
+
+### A. Éditions et instruments de travail
+
+1. **George, Andrew R.**, *The Babylonian Gilgamesh Epic: Introduction, Critical Edition and Cuneiform Texts*, 2 vol., Oxford University Press, 2003. Édition fondamentale pour distinguer recension standard et témoins. Les lignes de la tablette XI doivent y être contrôlées avant traduction définitive.
+2. **Dalley, Stephanie**, *Myths from Mesopotamia: Creation, the Flood, Gilgamesh, and Others*, édition révisée, Oxford University Press, 2000. Traductions éclairant les rapports entre *Atrahasis* et les traditions du déluge ; ne remplace pas les éditions des tablettes.
+3. **Foster, Benjamin R.**, *Before the Muses: An Anthology of Akkadian Literature*, 3e édition, CDL Press, 2005. Contextualise les genres et les versions littéraires ; à confronter à George pour la philologie de *Gilgameš*.
+4. **The Assyrian Dictionary of the Oriental Institute of the University of Chicago**, Chicago, 1956–2010 (CAD). Instrument lexical pour l'odorat, les végétaux et les opérations rituelles ; chaque sens se juge par ses attestations datées.
+5. **Lichtheim, Miriam**, *Ancient Egyptian Literature*, vol. II, *The New Kingdom*, University of California Press, 1976. Point de départ pour les hymnes et textes royaux ; traduction à vérifier avec les publications des inscriptions.
+6. **Sethe, Kurt**, *Urkunden der 18. Dynastie* (*Urkunden des ägyptischen Altertums*, IV), Leipzig, publications échelonnées du début du XXe siècle. Corpus épigraphique à consulter pour la politique cultuelle du Nouvel Empire ; les éditions et renumérotations ultérieures sont indispensables.
+7. **Breasted, James Henry**, *Ancient Records of Egypt*, vol. II, University of Chicago Press, 1906. Traductions historiques des inscriptions royales, notamment sur l'expédition de Pount ; ouvrage à utiliser avec une distance critique et en confrontant l'épigraphie moderne.
+8. **Biblia Hebraica Stuttgartensia**, éd. Karl Elliger et Wilhelm Rudolph, Deutsche Bibelgesellschaft, édition de référence. Base pour les formes hébraïques ; séparer texte consonantique, vocalisation et appareil critique.
+9. **Koehler, Ludwig ; Baumgartner, Walter ; Stamm, Johann Jakob**, *The Hebrew and Aramaic Lexicon of the Old Testament* (HALOT), Brill, 1994–2000. Indispensable pour *rêaḥ*, *nîḥōaḥ*, *qĕṭōret* et *lĕbōnāh* ; aucune étymologie n'est une preuve rituelle suffisante.
+10. **Rahlfs, Alfred ; Hanhart, Robert** (éd.), *Septuaginta*, édition révisée, Deutsche Bibelgesellschaft, 2006. Contrôle des traductions grecques de la terminologie sacrificielle biblique et de leurs effets interprétatifs.
+11. **Hall, F. W. ; Geldart, W. M.** (éd.), *Aristophanis Comoediae*, vol. I, Oxford, Clarendon Press, 1906. Texte grec des *Oiseaux* accessible par Perseus : https://catalog.perseus.tufts.edu/catalog/urn:cts:greekLit:tlg0019.tlg006.perseus-grc2 ; utiliser une édition et une numérotation explicites pour les citations.
+12. **Murray, A. T.** (trad.), *Homer: The Odyssey*, Loeb Classical Library, Harvard University Press, 1919, et révisions. Pour les sacrifices de l'*Odyssée*, confronter le grec à une édition critique récente.
+13. **Liddell, Henry George ; Scott, Robert ; Jones, Henry Stuart**, *A Greek-English Lexicon*, 9e éd., Clarendon Press, 1940, suppléments. Pour *knísē*, *thymiáō*, *thymíama* et les distinctions lexicales.
+14. **Pliny the Elder**, *Natural History*, livre XII, éd. et trad. dans la Loeb Classical Library, Harvard University Press. Sources romaines sur les aromates et leur provenance ; ne pas convertir sa géographie impériale en carte du IIIe millénaire.
+15. **Jamison, Stephanie W. ; Brereton, Joel P.**, *The Rigveda: The Earliest Religious Poetry of India*, 3 vol., Oxford University Press, 2014. Référence pour la traduction située des hymnes à Agni ; garde contre la rétroprojection des pratiques indiennes tardives.
+
+### B. Études du sacrifice, des aromates et de la méthode
+
+16. **Hubert, Henri ; Mauss, Marcel**, « Essai sur la nature et la fonction du sacrifice », *L'Année sociologique* 2, 1899. Modèle analytique des procédures sacrificielles ; à traiter comme théorie comparatiste datée, non témoignage antique.
+17. **Burkert, Walter**, *Homo Necans: The Anthropology of Ancient Greek Sacrificial Ritual and Myth*, University of California Press, traduction anglaise 1983 (ouvrage allemand de 1972). Rend visible le problème de la violence ; discuté lorsque l'on étudie des fumigations sans victime.
+18. **Detienne, Marcel**, *Les Jardins d'Adonis. La mythologie des aromates en Grèce*, Gallimard, 1972. Analyse structurale des aromates, de la sexualité et de la végétation ; modèle d'interprétation puissant dont il faut vérifier corpus, dates et généralisations.
+19. **Detienne, Marcel ; Vernant, Jean-Pierre** (dir.), *La Cuisine du sacrifice en pays grec*, Gallimard, 1979. Les opérations de préparation et de partage éclairent la place des fumées ; l'extension hors de Grèce demande une démonstration autonome.
+20. **Naiden, F. S.**, *Smoke Signals for the Gods: Ancient Greek Sacrifice from the Archaic through Roman Periods*, Oxford University Press, 2013 (édition numérique parue le 21 décembre 2012). Approche des critères, normes et conditions d'acceptation ; ressource critique contre le schéma « fumée = succès automatique ».
+21. **Vernant, Jean-Pierre**, *Mythe et pensée chez les Grecs*, Maspero, 1965, rééditions. Utile pour les rapports entre classification, pratique sociale et pensée religieuse ; ne remplace pas l'édition des scènes homériques.
+22. **Smith, Jonathan Z.**, « In Comparison a Magic Dwells », dans *Imagining Religion: From Babylon to Jonestown*, University of Chicago Press, 1982. Alerte sur la fabrication du comparable ; la similarité d'une odeur ne suffit pas à démontrer la même institution.
+23. **Classen, Constance**, *Worlds of Sense: Exploring the Senses in History and Across Cultures*, Routledge, 1993. Aide à traiter les sens comme des configurations historiques ; prudence sur la restitution d'expériences disparues.
+24. **Howes, David** (dir.), *The Varieties of Sensory Experience: A Sourcebook in the Anthropology of the Senses*, University of Toronto Press, 1991. Outil méthodologique pour la comparaison sensorielle, sans prétention à expliquer tous les rituels anciens.
+25. **Harvey, Susan Ashbrook**, *Scenting Salvation: Ancient Christianity and the Olfactory Imagination*, University of California Press, 2006. Comparaison historiographique possible pour une période ultérieure ; ne doit pas être utilisée comme preuve directe du rite babylonien ou du sacerdoce biblique ancien.
+26. **Pline et les traditions d'histoire naturelle** : confronter systématiquement *Histoire naturelle* XII aux observations botaniques et archéologiques modernes avant de fixer l'identité des résines. L'auteur ancien est source sur ses propres catégories, non autorité taxonomique ultime.
+
+### C. Notices institutionnelles et ressources contrôlées
+
+27. **Metropolitan Museum of Art**, *Censer*, inv. 41.2.2, https://www.metmuseum.org/art/collection/search/546100 ; inventaire de référence pour la présentation de l'encens en Égypte tardive.
+28. **Metropolitan Museum of Art**, *Brazier from the Burial of Amenhotep*, inv. 36.3.165, https://www.metmuseum.org/art/collection/search/548873 ; important pour l'incertitude d'identification des résidus.
+29. **Metropolitan Museum of Art**, *Terracotta thymiaterion*, inv. 26.60.74, https://www.metmuseum.org/art/collection/search/252538 ; instrument grec d'Italie du Sud correctement daté.
+30. **Metropolitan Museum of Art**, *Bronze incense burner*, inv. 2000.456.2, https://www.metmuseum.org/art/collection/search/257529 ; objet étrusco-falisque, photographie signalée domaine public.
+31. **Musée du Louvre**, notice E 10501 / AF 2885, https://collections.louvre.fr/ark:/53355/cl010006751 ; exemple utile d'inventaire explicitement incertain sur la fonction.
+32. **Perseus Digital Library**, texte des *Oiseaux* dans l'édition Hall–Geldart, catalogue indiqué ci-dessus ; référencement éditorial du texte grec.
+33. **Livius**, dossier du déluge de *Gilgameš* avec numérotation de la tablette XI, https://www.livius.org/articles/misc/great-flood/flood3_t-gilgamesh/ ; auxiliaire de repérage à confronter à George et à la tablette.
+34. **Oxford Academic**, notice du livre de Naiden, https://academic.oup.com/book/12094 ; vérification bibliographique et présentation de la problématique.
+
+---
+
+## XVI. Protocole scientifique, hiérarchie des affirmations et limites
+
+### 49. Ce que le dossier établit
+
+**Attestations A.** Un passage du *Gilgameš* standard représente explicitement des dieux percevant une odeur avant de se rassembler. Genèse 8,20–22 représente une odeur perçue par YHWH et une résolution consécutive. Exode 30 encadre une préparation aromatique ; Lévitique 16 décrit une nuée produite au cours d'une procédure d'accès. Des encensoirs et brûle-parfums sont inventoriés dans les collections institutionnelles citées avec dates et matériaux. Les *Oiseaux* emploient le blocus des offrandes comme ressort d'une comédie.
+
+**Inférences B.** Il est raisonnable de voir dans ces phénomènes des manières de régler une relation entre offrants, objets et destinataires, mais il faut toujours préciser le genre de source. La réapparition du sacrifice après le déluge babylonien peut être comprise comme la restauration d'un échange ; la recette réservée de l'Exode peut être analysée comme un instrument de distinction institutionnelle ; le blocus comique est une fiction de contrôle d'un flux cultuel.
+
+**Hypothèses C.** L'identification exacte de certaines résines anciennes, la continuité d'une route commerciale, les conditions concrètes de fumigation et les influences littéraires directes sont des questions ouvertes. Les images d'arbres ou les noms antiques des produits ne règlent pas seuls la botanique. Les analogies entre Inde védique et Méditerranée n'impliquent pas de contact documenté.
+
+**Lectures D.** La fumée peut servir de modèle philosophique pour l'interdépendance du pouvoir, la conversion d'une richesse matérielle en offrande et le contrôle politique de l'accès au sacré. Ces propositions sont des outils de réflexion contemporains, non des citations ni des convictions unanimes des anciens.
+
+### 50. Interdits d'interprétation
+
+Ce manuscrit ne soutient ni une essence universelle des rites d'encens, ni l'existence d'une « énergie vibratoire odorante » commune à toutes les civilisations, ni la capacité de reconnaître chimiquement une résine à partir d'un vase sans analyse. Il ne confond pas matière grasse brûlée, oliban, myrrhe, parfum liquide et fumée de bois. Il ne transforme pas les répliques d'une comédie en relevés ethnographiques ; il ne fait pas des illustrations modernes de Pount des photographies de l'Égypte ancienne. Il ne présuppose pas que les traditions évoluent linéairement du « sacrifice grossier » au « culte spirituel ».
+
+### 51. Perspectives de recherche
+
+Un approfondissement pourrait prendre la forme d'un catalogue d'inscriptions nommant explicitement une substance aromatique, d'une enquête sur les traces organiques des encensoirs et d'un atlas diachronique des circulations. Le protocole devrait enregistrer les témoins négatifs, les datations indépendantes et le niveau de certitude de chaque identification. Le passage de la littérature aux matériaux réclamerait une équipe associant philologues, archéologues, spécialistes de l'archéobotanique et historiens des religions.
+
+On peut également confronter le rôle du parfum au son rituel déjà étudié dans MC-046 : les deux impliquent une diffusion matérielle et une performance réglée, mais ils possèdent des organes sensoriels, des techniques et des formes de mémoire distincts. Le renvoi n'autorise aucune fusion des dossiers. Les études MC-040 sur l'économie des offrandes, MC-064 sur les nourritures divines, MC-027 sur le serment et MC-073 sur le silence des dieux fournissent d'autres discussions connexes, sans remplacer l'analyse spécifique de l'odeur.
+
+## Conclusion : le sacré ne sent pas partout de la même manière
+
+L'odeur du sacrifice ne constitue pas une langue religieuse universelle. Elle appartient à des régimes historiques de préparation, de prescription, d'adresse et d'interprétation. Le récit babylonien du déluge dramatise le retour d'une relation devenue impossible ; la Genèse fait de l'odeur l'occasion d'une résolution divine d'un autre type ; l'Exode réserve une composition à un usage institutionnel ; le Lévitique fait place à une nuée qui règle l'accès ; Aristophane imagine qu'une ville des oiseaux peut interrompre un commerce céleste ; les objets égyptiens, grecs et étrusques documentent des techniques et des dates que les récits ne donnent pas.
+
+La comparaison est donc d'autant plus féconde qu'elle accepte des conclusions négatives. Elle peut montrer ce qui n'est pas équivalent : la *knísē* n'est pas le *qĕṭōret*, la graisse offerte à Agni n'est pas nécessairement l'oliban d'un brûle-parfum, la « bonne odeur » n'est pas l'approbation garantie d'un dieu. C'est dans la précision de ces distinctions que l'histoire comparée des religions découvre la véritable portée du parfum : non une essence intemporelle du divin, mais une matière fragile à travers laquelle des sociétés ont pensé la présence, l'obligation, la souveraineté et les limites de l'échange.
+
+*Fin de l'étude intégrale MC-077. Les références historiques MC et les numéros de sources anciennes restent littéraux ; seuls les emplacements de la numérotation canonique propre à cette livraison emploient CCLXI et 261. Aucun fichier déjà numéroté, reçu, registre, autre manuscrit, brouillon privé ou horaire d'automatisation n'est modifié par cette demande.*

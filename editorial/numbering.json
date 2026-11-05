@@ -705,6 +705,42 @@
           "path": "chapitres/origines-du-sacre/689-cyrus-darius-tombeaux-pasargades-naqsh-rostam-magies-souverainete.md",
           "request_sha256": "c4e4f1f88344c7e8085ae88f61849c53b1743f7d76311e3441bf1d68024bc0e0",
           "initial_source_sha256": "216ad7fc06dd9bf0670333205596aa98c9718d8748687a65d224868d2eb29b68"
+        },
+        "5c7cf210-3f89-469d-8f8b-6f0ec57d1e71": {
+          "number": 690,
+          "path": "chapitres/origines-du-sacre/690-mausolee-halicarnasse-mausole-artemisia-architecture-heroisation.md",
+          "request_sha256": "44055b71b20c3360b425b3bd88fdfb89e7cb794e30e24114c968c5f177f5ae4d",
+          "initial_source_sha256": "e31474cc4724f9df8632aa27d1c3e68541de341f37d7273c20187f15bf0f30fe"
+        },
+        "6b0f0e34-8258-49e3-969b-ec454bd8d579": {
+          "number": 691,
+          "path": "chapitres/origines-du-sacre/691-alexandre-tombeau-alexandrie-sema-soma-culte-memoire-dynastique.md",
+          "request_sha256": "f8758849d7194a0e7ae52f850c5035d276517ce7bd9cd704c0b8c7b3fefb8355",
+          "initial_source_sha256": "66dcd59e747651cc1eca0e45fc430acc1f64b089e8a6ab2597f894bd25f4a4d9"
+        },
+        "8c642fa5-6a5f-48d5-b57d-09ef60ee2902": {
+          "number": 692,
+          "path": "chapitres/origines-du-sacre/692-gordion-phrygie-tumulus-mm-t26-t52-cremation-banquet-midas.md",
+          "request_sha256": "b2c205f7bf7f8602d8b321bc1ea11d5ed8fa6104d081ead96279a0ef3fb2a58d",
+          "initial_source_sha256": "d48df3fca0bad417a9f8af847f62324313aa4bd3ab663335528ba77a586f0114"
+        },
+        "99bb22a1-4483-4edc-93a2-fc17ee6ba365": {
+          "number": 693,
+          "path": "chapitres/origines-du-sacre/693-necropoles-royales-kouchites-el-kourrou-nouri-meroe-rites-pyramides-souverainete.md",
+          "request_sha256": "4a1d0a47dd6d5574c739a668f6d6b9c5576893e673f5fc06825ded1edb7b96b1",
+          "initial_source_sha256": "748dc4b5cb3cab17c7a1e9d77818976df02d2cb8da3caf673bdca6b91bd5dd5d"
+        },
+        "a191e4ad-3a8b-4c4a-89bb-5d11ae447001": {
+          "number": 694,
+          "path": "chapitres/origines-du-sacre/694-hittites-funerailles-royales-cth450-sallis-wastais-deification-rites.md",
+          "request_sha256": "bc7a5530474f050d811e682c9f20af69bfc5ed8988ee12dd53fa1f4edc4cbd1f",
+          "initial_source_sha256": "e1d1375f51a2cdb8f28bf886054d73325fa7e9705c66690882dab0a564599885"
+        },
+        "d0c9a4f1-8b27-4edc-aafe-c0a51b846f23": {
+          "number": 695,
+          "path": "chapitres/origines-du-sacre/695-aigai-vergina-necropole-royale-philippe-ii-philippe-iii-rituels-identifications.md",
+          "request_sha256": "60cbe3122b6da0e2722386350dc787c2f5adc724ce2aa29f65c261892becb58e",
+          "initial_source_sha256": "8b4c366abc446cc8806ee9fc681e87a4537c3b7623121095c15e95f9392cdfcd"
         }
       }
     },
@@ -1282,6 +1318,30 @@
           "path": "chapitres/encyclopedie/chapitre-443-artemis-orthia-sparte-lygos-masques-fouet-sanctuaire.md",
           "request_sha256": "1f6fefb1767896ce0e31c2b566b87afc0ed3ba0d13b34899204bbd4c6f8b8bc0",
           "initial_source_sha256": "4b8a5679b42f568c1714d75d22f2899e1e3d312028341ad4a10ed457dd167736"
+        },
+        "647fa6cc-78b1-48e0-a561-a2037759382f": {
+          "number": 444,
+          "path": "chapitres/encyclopedie/chapitre-444-eros-thespies-pierre-aniconique-praxiteles-erotideia-phryne.md",
+          "request_sha256": "05c3c94849d23b839484b782ac4fe0bbfe0a31ae31631549628391f1ebd7005b",
+          "initial_source_sha256": "80d3fb916bae2a2eb3b403ac6069db6a0a873c7aec8498a9deebfd0abb81a84b"
+        },
+        "b7e2954a-65cf-4e86-9b74-e5d1b9a2f604": {
+          "number": 445,
+          "path": "chapitres/encyclopedie/chapitre-445-hermes-kriophoros-tanagra-belier-epidemie-rites-calamis.md",
+          "request_sha256": "603a41be49a7dc02edad786deb500b9fe5d20f18a718020216bf80128c5879a8",
+          "initial_source_sha256": "dad283b82641d174092c394ef28264728077568d823a390254ff48a9b1fba7ca"
+        },
+        "c9e4aa73-6928-448d-b90f-ef43c1a07d25": {
+          "number": 446,
+          "path": "chapitres/encyclopedie/chapitre-446-artemis-tauropolos-halai-araphenides-oreste-sang-symbolique-tauropolia.md",
+          "request_sha256": "3c5c4f3acb3da30afd85b3c982faacc89a004b218dabc82e536da1367f5de6dc",
+          "initial_source_sha256": "2b3b2574b3f76b0f3de6bc75fce8e698cb456a4d724170319c625b2a82e51210"
+        },
+        "e4f6c92a-8ab7-4f10-9d65-0c2b77e9a435": {
+          "number": 447,
+          "path": "chapitres/encyclopedie/chapitre-447-heracles-thasos-heros-dieu-melqart-rites-sacrificiels-herakleion.md",
+          "request_sha256": "cea8816a0984c8ec51f8e2f182e1d679fb9789d8d7c2a547dd4c7171ddfe3cf1",
+          "initial_source_sha256": "9404701c67c86291386783432ee348772b6849489d04e1203212576c82969789"
         }
       }
     },
@@ -1672,6 +1732,24 @@
           "path": "chapitres/comedies/volume-113-magnes-dionysos-premiere-seconde-version-authenticite-gastronomie-theatre.md",
           "request_sha256": "df7f01b78bd16b90579b6fc56d0cf7f6342a4776d8745327716c97384fd57e0b",
           "initial_source_sha256": "d097de8c778bfa36ace6c99aec2f0d0c4137d8760f3ff23e63c7273df163159f"
+        },
+        "451f59a9-c679-4399-a7d4-dc182568df00": {
+          "number": 114,
+          "path": "chapitres/comedies/volume-114-magnes-poastria-desherbeuse-proverbe-mysiens-travail-feminin.md",
+          "request_sha256": "a3d0cac0550d93108d5632be89e5afe580c487ade3809305ee30c3d3c91256ab",
+          "initial_source_sha256": "7cb8456dcc000499681975d395a42f50d5f48672fc0cc88f4a0bcc9e9d8012e5"
+        },
+        "b83c6ed0-929e-4f3e-9073-9f45e6c2b716": {
+          "number": 115,
+          "path": "chapitres/comedies/volume-115-magnes-barbitistai-joueurs-barbitos-musique-symposion-parabase-memoire.md",
+          "request_sha256": "6ecf98d1d95d0e790d2b94176c0ffadaf6a131ca9c9e27847d88e1745643036b",
+          "initial_source_sha256": "a4fde7b1ed3fb3ddda133ae0547720dcd7fda20432035e2bb45800b725af1e19"
+        },
+        "e8c744d3-ae31-4b77-bc56-bc1348ed9021": {
+          "number": 116,
+          "path": "chapitres/comedies/volume-116-magnes-batrachoi-grenouilles-choral-animal-parabase-historicite.md",
+          "request_sha256": "bacc2f786013dec29ea0e2d5ddac7e05d07d922dbaf0c36f72b0b0e9650aab34",
+          "initial_source_sha256": "4d4d385ea790e066823ce61d0983bc8ab42b2b3409dae41b4afd3844011054d5"
         }
       }
     },
@@ -2116,6 +2194,12 @@
           "path": "chapitres/tragedies/volume-cclvii-agathon-mysoi-mysiens-plutarque-645d-musique-chromatique-telephe.md",
           "request_sha256": "e436b22e97622573f44ab77a73cff3d049b1f64e4c22c2388d27f8ad2a7f0a44",
           "initial_source_sha256": "8bd76d5e16fb897aeeae564602d0203173fe221178c47b4af4503a49a60231b1"
+        },
+        "53bd28f5-628f-43e5-8923-11f805fe8269": {
+          "number": 258,
+          "path": "chapitres/tragedies/volume-cclviii-agathon-telephe-trgf-f4-enigme-thesee-alphabet-mysie.md",
+          "request_sha256": "fe796645aaa074e0448ca3e14563b400aba1aa636fc848962465e36ffb1f38b5",
+          "initial_source_sha256": "73f4d892eac1373991b83516841f804eaaa49405e690c73dd1ce63fec0701272"
         }
       }
     },
@@ -2809,6 +2893,54 @@
           "path": "chapitres/comparatif/volume-cclvi-mc-076-quand-les-dieux-changent-d-avis-repentir-intercession-revocation-justice.md",
           "request_sha256": "65225f4b2ab0b93e56cac6906edf197cf3fbdc456666b630aee49a8af1339f92",
           "initial_source_sha256": "ab70a02d4e5700596d11ad30aab09f2ea9fb940c597d334b47977c9628055ec6"
+        },
+        "1e78cdda-fd79-4dd8-8ff6-202611050078": {
+          "number": 257,
+          "path": "chapitres/comparatif/volume-cclvii-mc-078-entraver-les-immortels-chaines-filets-captivite-divine-souverainete.md",
+          "request_sha256": "9ed5c9f11c88991591cc3b93e29f29075ff5a7226bfdc168ffb9770f1fdd4fa6",
+          "initial_source_sha256": "63e3517e11b6393ea5592471a64e6dbe9812241f03a5e9fffc5a00eca337c66c"
+        },
+        "5f79a028-625e-4ca5-9a3e-202611050079": {
+          "number": 258,
+          "path": "chapitres/comparatif/volume-cclviii-mc-079-astres-obscurcis-eclipses-presages-rituels-raison-astronomique.md",
+          "request_sha256": "d8cde571a91c019e0d16ca924f3068451e7903695066de8001d9582538880312",
+          "initial_source_sha256": "64937b47b0799b7bf74387038f459a97b1b8b3ce92fe940823e55c08b717841c"
+        },
+        "7d2f9b80-5d0e-4e36-9a12-202611050257": {
+          "number": 259,
+          "path": "chapitres/comparatif/volume-cclix-etat-exception-souverainete-crise-constitutionnelle-schmitt-agamben.md",
+          "request_sha256": "c6f24d4218f8881c4bc495ca269f8c5a1fe9553ff8066c27910afb8a05a4bfc6",
+          "initial_source_sha256": "4f8967d084275d534a9d28e4fa84dfa272493f668122f6242dea2ad4795e0f00"
+        },
+        "8c4b7e92-6a0f-4d28-9e7c-573c2de981ab": {
+          "number": 260,
+          "path": "chapitres/comparatif/volume-cclx-grenouilles-alcibiade-lionceau-dilemme-democratique-405.md",
+          "request_sha256": "aa0919aff41cef9b9428169f5a88e02ae7905f4d21cfa178e7a2f65aae51a95f",
+          "initial_source_sha256": "fca0bd88ed438faf180c13c558964348999685a660ac7b4b156a4b65fabed4a2"
+        },
+        "9e762fc3-2e15-4d58-832a-7b01cb9bd077": {
+          "number": 261,
+          "path": "chapitres/comparatif/volume-cclxi-mc-077-parfum-du-sacre-odeurs-fumees-encens-offrandes-divines.md",
+          "request_sha256": "ae2fdbf95e98b1137cfebc9089c0039b0bca29dc703d91b88b7d9636dbff9ae4",
+          "initial_source_sha256": "3915b4a348caecfc09bcba8afa37e6015363b41935b83ff26052fc6719f041ce"
+        },
+        "aa742280-31e3-4e24-b991-c7f64e0f2080": {
+          "number": 262,
+          "path": "chapitres/comparatif/volume-cclxii-mc-080-partager-le-monde-lots-divins-domaines-cosmiques-timai-juridictions-souverainete.md",
+          "request_sha256": "961cf9d5e499ef5f8ebad5d5bce75edbd9adb2f5689bc9e9c9f0de0b0e91669a",
+          "initial_source_sha256": "a6e9493f36704eb398d8f645a363b2ee813c196c893739b1eda72f22777e5c15"
+        },
+        "d9a2b45e-6c17-4b9a-8ec5-6d5137f2960b": {
+          "number": 263,
+          "path": "chapitres/comparatif/volume-cclxiii-oiseaux-fondation-poetes-oracles-geometres-inspecteurs-decrets-expertise-414.md",
+          "request_sha256": "3e8df90f5428c0109f1421540c9c9844ef7ebb10e54e0e02119d0e5552d52b8d",
+          "initial_source_sha256": "20f3347f69be2d99f980752482fe77343980c104a105ab7d61b652dedae5a11a"
+        },
+        "e72d1a49-8f36-4b5d-9c70-4e6a2d9b1f53": {
+          "number": 264,
+          "path": "chapitres/comparatif/volume-cclxiv-lysistrata-diplomatie-corps-carte-allies-panhellenisme-411.md",
+          "request_sha256": "0fe0b4d1ae67421657da37987c0cbaac59a1245c45f015a251c67e20087a6ee1",
+          "initial_source_sha256": "42610cf008b353a0a0b3385c7bfc2813475c124b8f838d6625c16bac87e4162c"
         }
       }
     }
