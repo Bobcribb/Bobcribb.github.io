@@ -64,7 +64,9 @@ concurrency:
 jobs:
   publish:
     runs-on: ubuntu-24.04
-    timeout-minutes: 25
+    # Reconstruction, validations, PDFs et contrôles du site peuvent durer plus de 25 min.
+    # Conserver le traitement séquentiel et la validation avant le déploiement.
+    timeout-minutes: 45
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
