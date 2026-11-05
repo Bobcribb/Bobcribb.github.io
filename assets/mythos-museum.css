@@ -1276,3 +1276,66 @@ body.mythos-design .greek-cross-readings[data-greek-cross-readings="mediterranee
     font-size:clamp(1.25rem,5vw,1.5rem);line-height:1.4;
   }
 }
+
+/* MYTHOS 2026-11-05 — filtrage local des dossiers grecs (sans nouveau sommaire). */
+body.mythos-design .greek-folder-filter{
+  display:grid;
+  grid-template-columns:minmax(0,1fr) auto;
+  gap:10px 16px;
+  align-items:end;
+  width:min(100%,900px);
+  margin:18px 0 24px;
+  padding:clamp(15px,2.2vw,25px);
+  border:1px solid #806a46;
+  background:linear-gradient(115deg,#1a2527,#0b1214 80%);
+}
+body.mythos-design .greek-folder-filter[hidden],
+body.mythos-design .greek-folder-toc li[hidden],
+body.mythos-design section.portal-section[hidden],
+body.mythos-design .greek-folder-links>li[hidden]{
+  display:none!important;
+}
+body.mythos-design .greek-folder-filter label{
+  display:block;
+  grid-column:1/-1;
+  margin:0;
+  color:#f0dfc4;
+  font:18px/1.35 Georgia,serif;
+}
+body.mythos-design .greek-folder-filter input[type="search"]{
+  min-width:0;width:100%;min-height:48px;
+  padding:10px 14px;
+  border:1px solid #a98c60;
+  border-radius:0;
+  background:#090e10;color:#f4eadb;
+  font:16px/1.4 system-ui,sans-serif;
+}
+body.mythos-design .greek-folder-filter input::placeholder{color:#c5b8a5}
+body.mythos-design .greek-folder-filter button{
+  min-height:48px;padding:10px 16px;
+  border:1px solid #a98c60;
+  border-radius:0;
+  background:#27302e;color:#f4e1bc;
+  cursor:pointer;font:15px/1.35 system-ui,sans-serif;
+}
+body.mythos-design .greek-folder-filter button[hidden]{display:none!important}
+body.mythos-design .greek-folder-filter :is(input,button):focus-visible{
+  outline:3px solid #e9c791;outline-offset:3px;
+}
+body.mythos-design .greek-folder-filter output{
+  display:block;grid-column:1/-1;
+  color:#e2c28e;font:14px/1.5 system-ui,sans-serif;
+}
+@media(max-width:480px){
+  body.mythos-design .greek-folder-filter{grid-template-columns:minmax(0,1fr);padding:15px}
+  body.mythos-design .greek-folder-filter label,
+  body.mythos-design .greek-folder-filter output{grid-column:1}
+  body.mythos-design .greek-folder-filter button{width:100%}
+}
+@media print{
+  body.mythos-design .greek-folder-filter{display:none!important}
+  body.mythos-design .greek-folder-toc li[hidden],
+  body.mythos-design section.portal-section[hidden],
+  body.mythos-design .greek-folder-links>li[hidden]{display:list-item!important}
+  body.mythos-design section.portal-section[hidden]{display:block!important}
+}

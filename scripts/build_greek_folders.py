@@ -909,6 +909,15 @@ def build(out, groups, sections, books, root=None):
         body = '<nav aria-label="Fil d’Ariane"><a href="/mythologie-grecque/">Encyclopédie grecque</a> · <a href="'+BASE+'">Tous les dossiers</a></nav>'
         body += '<h1>'+escape(title)+'</h1><p class="portal-lead">'+escape(description)+'</p><p>'+escape(counts(members))+'.</p>'
         body += '<p>Choisissez un sous-dossier. Les liens ouvrent les textes complets ou la section exacte du livre indiqué.</p>'
+        body += ('<div class="greek-folder-filter" data-greek-folder-filter hidden>'
+                 '<label for="greek-folder-search">Filtrer les textes de ce dossier</label>'
+                 '<input type="search" id="greek-folder-search" autocomplete="off" '
+                 'placeholder="Auteur, divinité, lieu, thème…" '
+                 'aria-describedby="greek-folder-search-status">'
+                 '<button type="button" data-greek-filter-clear hidden>Effacer la recherche</button>'
+                 '<output id="greek-folder-search-status" data-greek-filter-count '
+                 'role="status" aria-live="polite"></output>'
+                 '</div>')
         body += '<nav class="greek-folder-toc" aria-label="Sous-dossiers"><ul>'+''.join(
             '<li><a href="#theme-'+str(i)+'">'+escape(name)+' ('+str(len(items))+')</a></li>'
             for i, (name, items) in enumerate(subsets.items(), 1))+'</ul></nav>'
@@ -928,7 +937,11 @@ def build(out, groups, sections, books, root=None):
         body += '<p><a href="'+BASE+'">Revenir aux dossiers thématiques</a> · <a href="/mythologie-grecque/#catalogue-complet">Catalogue intégral</a></p>'
         target = out / BASE.strip('/') / slug / 'index.html'
         target.parent.mkdir(parents=True, exist_ok=True)
-        target.write_text(render(title+' — dossier mythologique', body, description), encoding='utf-8')
+        # Purely presentational enhancement. All links remain in the source HTML.
+        # The deferred script acts only on this family index, never on manuscripts.
+        html = render(title+' — dossier mythologique', body, description)
+        html = html.replace('</body>', '<script defer src="/assets/greek-folder-filter.js"></script></body>')
+        target.write_text(html, encoding='utf-8')
     for legacy, current in LEGACY_FOLDERS.items():
         if not any(r['folder'] == current for r in rows):
             continue
