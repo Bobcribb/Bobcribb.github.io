@@ -1,0 +1,40 @@
+{
+  "id": "SEG-DOR-001",
+  "slug": "segesta-temple-dorique-inacheve-vers-420-av-jc",
+  "title": "Ségeste (Sicile) — temple dorique inachevé, vers 430–420 av. J.-C.",
+  "period": "Vers 430–420 av. J.-C. (construction dans le dernier tiers du Ve siècle ; projet demeuré inachevé)",
+  "caption": "Évocation photoréaliste interprétative du temple dorique inachevé de Ségeste, sur la colline située hors des murs de la cité élyme, peu après sa mise en place au Ve siècle av. J.-C. La toiture et la cella sont volontairement absentes, conformément à l'état archéologiquement documenté.",
+  "commentary": "Le temple inachevé de Ségeste est établi à l'extérieur des remparts de l'ancienne cité élyme, dans la Sicile occidentale. Bien que Ségeste ne fût pas à l'origine une polis grecque, cet édifice adopte un langage architectural dorique-sicéliote caractéristique des colonies grecques voisines. Le parc archéologique de la Région sicilienne situe sa construction vers 430–420 av. J.-C. et décrit un péristyle de six colonnes sur chaque petit côté et quatorze sur chaque long côté. La remarquable conservation des colonnes, de l'entablement et des frontons ne doit pas masquer l'inachèvement du chantier : les fûts demeurent sans cannelures, les finitions des degrés ne sont pas partout exécutées, et aucune cella ni couverture complète n'a été réalisée. La présence d'un ancien lieu de culte dans ce secteur n'autorise pas à attribuer fermement ce temple à une divinité particulière ; l'autel n'est pas identifié avec certitude. Une interruption du chantier est souvent rapprochée des troubles de la fin du Ve siècle, notamment ceux de 409–408 av. J.-C., mais d'autres explications architecturales ou cultuelles ont été discutées. L'illustration met en scène un état de construction plausible et non une photographie des ruines actuelles. Les figures, l'éclairage, les blocs de chantier, la patine reconstituée, l'aspect des joints, la perspective, la végétation et la phase précise de l'entablement sont des choix visuels non vérifiés. L'image ne remplace ni le relevé archéologique, ni la documentation des phases de construction, ni un modèle 3D métrique.",
+  "certainty": "Élevé : implantation sur la colline hors de Ségeste, construction dans la dernière partie du Ve siècle av. J.-C., ordre dorique, péristyle 6 × 14, absence de cella et de toiture achevées, fûts non cannelés. Moyen : datation resserrée vers 430–420 av. J.-C., succession des étapes de chantier et interprétation de son interruption. Faible : dédicace cultuelle, aspect exact des surfaces à une date donnée, personnages, pierre de chantier, lumière, couleur, végétation et détails du paysage.",
+  "source_url": "https://parchiarcheologici.regione.sicilia.it/segesta/siti-archeologici/area-archeologica-di-segesta/",
+  "secondary_sources": [
+    "https://parchiarcheologici.regione.sicilia.it/segesta/en/blog/2023/02/11/il-tempio-dorico-mai-terminato-di-segesta/",
+    "https://parchiarcheologici.regione.sicilia.it/en/parco-archeologico-segesta/",
+    "https://link.springer.com/article/10.1007/s11069-025-07631-3"
+  ],
+  "src": "/assets/reconstitutions-3d/segesta-temple-dorique-inacheve-vers-420-av-jc.webp",
+  "width": 1672,
+  "height": 941,
+  "created_at": "2026-11-05",
+  "type": "panorama numérique original à apparence 3D photoréaliste, interprétatif et non métrique",
+  "provenance": "Image originale créée par génération visuelle pour MYTHOS ; aucun menu, titre, étiquette ni filigrane incrusté. Les sources documentent l'archéologie sans valider le rendu. L'édifice appartient à la cité élyme de Ségeste et adopte le vocabulaire architectural grec dorique.",
+  "sha256": "bd0d58e30c14737e7d37eb53f2a381c1a5d9509f134dbd236f755c7b75f5e4f4",
+  "scientific_notice": "/assets/reconstitutions-3d/notices/segesta-temple-dorique-inacheve-vers-420-av-jc.json",
+  "image": "/assets/reconstitutions-3d/segesta-temple-dorique-inacheve-vers-420-av-jc.webp",
+  "scientific_sources": [
+    {
+      "label": "Parco archeologico di Segesta — Area archeologica di Segesta (Regione Siciliana)",
+      "url": "https://parchiarcheologici.regione.sicilia.it/segesta/siti-archeologici/area-archeologica-di-segesta/"
+    },
+    {
+      "label": "Parco archeologico di Segesta — Il tempio dorico, mai terminato (11 février 2023)",
+      "url": "https://parchiarcheologici.regione.sicilia.it/segesta/en/blog/2023/02/11/il-tempio-dorico-mai-terminato-di-segesta/"
+    },
+    {
+      "label": "Natural Hazards (2025) — Uncovering the traces of unknown earthquakes at Segesta (architecture du temple)",
+      "url": "https://link.springer.com/article/10.1007/s11069-025-07631-3"
+    }
+  ],
+  "methodology": "Vue photoréaliste hypothétique, ni relevé photogrammétrique, ni modèle 3D calculable ou validé par une institution. Les traits visuels documentés et conjecturaux sont distingués dans la notice.",
+  "publication_status": "committed_to_pull_request_branch_pending_public_https_verification"
+}
