@@ -4,9 +4,9 @@ Date du rapprochement : 5 novembre 2026. Objet commun : Athana / Athéna Lindia,
 
 ## Statut et protection des sources
 
-- **433 — monographie de référence et parcours extensif** : [manuscrit](/chapitres/encyclopedie/chapitre-433-athena-lindia-rhodes-chronique-lindos-anathemes-epiphanies-danaides.md) ; [lecture publique](/chapitres/encyclopedie/chapitre-433-athena-lindia-rhodes-chronique-lindos-anathemes-epiphanies-danaides/).
-- **438 — approfondissement critique des procédures documentaires et de la mémoire civique** : [manuscrit](/chapitres/encyclopedie/chapitre-438-athena-lindia-chronique-lindos-danaides-offrandes-epiphanies-memoire.md) ; [lecture publique](/chapitres/encyclopedie/chapitre-438-athena-lindia-chronique-lindos-danaides-offrandes-epiphanies-memoire/).
-- **Notice lisible** : [Concordance d'Athéna Lindia](/mythologie-grecque/concordance-athena-lindia/).
+- **433 — monographie de référence et parcours extensif** : [manuscrit](../chapitres/encyclopedie/chapitre-433-athena-lindia-rhodes-chronique-lindos-anathemes-epiphanies-danaides.md) ; [lecture publique](/chapitres/encyclopedie/chapitre-433-athena-lindia-rhodes-chronique-lindos-anathemes-epiphanies-danaides/).
+- **438 — approfondissement critique des procédures documentaires et de la mémoire civique** : [manuscrit](../chapitres/encyclopedie/chapitre-438-athena-lindia-chronique-lindos-danaides-offrandes-epiphanies-memoire.md) ; [lecture publique](/chapitres/encyclopedie/chapitre-438-athena-lindia-chronique-lindos-danaides-offrandes-epiphanies-memoire/).
+- **Notice lisible** : [Concordance d'Athéna Lindia](https://bobmythos.fr/mythologie-grecque/concordance-athena-lindia/).
 - **Problème historique** : [issue GitHub #42](https://github.com/Bobcribb/Bobcribb.github.io/issues/42).
 - **Reçu confirmé du 438** : UUID `d7e4c519-2986-4a75-9b46-6f41ce8b2605`, conservé dans `editorial/numbering.json`. Le 433 conserve son attribution existante ; aucune attribution nouvelle, modification du registre ou réémission de manuscrit.
 - Les deux sources Markdown intégrales, les bibliographies, les rendus historiques, les URLs et les archives restent inchangés quant à leur contenu scientifique. Les renvois de concordance s'ajoutent aux textes.
