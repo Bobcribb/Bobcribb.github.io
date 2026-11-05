@@ -60,13 +60,13 @@ class LongScholarlyTocTests(unittest.TestCase):
     def test_36_sections_integres_eros_thespies(self):
         source = (ROOT / 'chapitres/encyclopedie/'
                   'chapitre-444-eros-thespies-pierre-aniconique-praxiteles-erotideia-phryne.md')
-        self.assertGreater(len(re.findall(r'^##\\s+', source.read_text(encoding='utf-8'), re.M)), 32)
+        self.assertGreater(len(re.findall(r'^##\s+', source.read_text(encoding='utf-8'), re.M)), 32)
         self.check_toc('h2', 36)
 
     def test_39_sous_sections_artemis_orthia(self):
         source = (ROOT / 'chapitres/encyclopedie/'
                   'chapitre-443-artemis-orthia-sparte-lygos-masques-fouet-sanctuaire.md')
-        self.assertGreater(len(re.findall(r'^###\\s+', source.read_text(encoding='utf-8'), re.M)), 32)
+        self.assertGreater(len(re.findall(r'^###\s+', source.read_text(encoding='utf-8'), re.M)), 32)
         self.check_toc('h3', 39)
 
     def test_petits_sommaires_restent_deplies(self):
