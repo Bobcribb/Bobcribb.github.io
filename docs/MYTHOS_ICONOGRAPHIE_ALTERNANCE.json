@@ -5,54 +5,48 @@
   "branch": "main",
   "latest_session": {
     "date": "2026-11-05",
-    "kind": "AUDIT ET CORRECTION",
-    "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "scope": "Séance 53 : audit des neuf pages prioritaires, des médias, des tests et du manifeste HTTPS ; correction des déclencheurs et de la couverture de test du workflow d'intégrité.",
-    "basis_commit": "c8a468f5a76b3024f8833b3b8fe7be0c088dabbf",
-    "audit_evidence": {
-      "preceding_integral_audit_run": 42006483155,
-      "preceding_integral_audit_head": "90230c771394789fb2c9db7b218bc8abea18503a",
-      "preceding_integral_audit_result": "success",
-      "inspected_pages": [
-        "index.html",
-        "philosophie-iliade.html",
-        "philosophie-odyssee.html",
-        "philosophie-theogonie.html",
-        "livre-iliade-scenes/index.html",
-        "livre-odyssee/index.html",
-        "livre-hesiode/index.html",
-        "mythologie-grecque/index.html",
-        "reconstitutions-photorealistes.html"
-      ],
-      "pages_count": 9,
-      "same_page_fragment_links_checked": 555,
-      "duplicate_html_ids": 0,
-      "broken_same_page_fragments": 0,
-      "images_checked": 270,
-      "images_missing_alt": 0,
-      "responsive": "Neuf pages avec lang et viewport ; aucune preuve de rendu visuel multi-écrans pendant cette séance.",
-      "assets": "Les CSS/JS communs référencés par ces pages sont présents dans le dossier assets ; les trois WebP documentaires de la séance 52 sont présents sur main.",
-      "pagination": "Manifest catalog/reading-pdfs.json : 107 pages d'analyse Iliade, 101 Odyssée, 103 Théogonie ; PDF non modifiés.",
-      "served_public_manifest_commit": "c619d0c709f37a10555ef681bfec00b77ad2dc92",
-      "served_public_manifest_run": "42004049222"
-    },
-    "verified_defect": "Le workflow .github/workflows/audit-integrity.yml n'incluait pas scripts/audit_policy.py, les régressions test_audit_*.py ni CNAME dans ses filtres push ; des modifications isolées de ces éléments pouvaient contourner l'audit. Le job audit ne lançait pas les tests spécifiques de sa politique fail-closed.",
+    "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "previous_kind": "AUDIT ET CORRECTION",
+    "next_kind": "AUDIT ET CORRECTION",
+    "scope": "Séance 54 : quatre photographies muséales documentées réparties dans trois dossiers existants (Osiris, bibliothèque égyptienne, Gilgamesh), avec légendes de provenance et garde-fous automatisés.",
+    "basis_commit": "70cf84fa67d47a10b40c4ae45d7323ce2946b191",
+    "selection": "Priorité aux pages moins illustrées après vérification du catalogue de pagination des grandes monographies : Iliade 107, Odyssée 101, Théogonie 103 pages d'analyse.",
+    "figures": [
+      {
+        "page": "osiris-abydos-cultes-textes-funeraires/index.html",
+        "id": "icono-osiris-anubis-met-570675-20261105"
+      },
+      {
+        "page": "bibliotheque-egypte-ancienne/index.html",
+        "id": "icono-egypte-thot-maat-met-544093-20261105"
+      },
+      {
+        "page": "bibliotheque-egypte-ancienne/index.html",
+        "id": "icono-egypte-maat-met-551794-20261105"
+      },
+      {
+        "page": "gilgamesh-epopee-mort-deluge/index.html",
+        "id": "icono-gilgamesh-shamash-humbaba-sceau-met-327455-20261105"
+      }
+    ],
+    "asset_provenance": "Metropolitan Museum of Art, inventaires 04.2.430, 21.6.51, 26.7.992 et 1991.368.1 ; objets du domaine public documentés dans assets/illustrations-articles/sources-met.json et consultés dans les notices institutionnelles. Réemploi de quatre WebP déjà sous contrôle de somme SHA-256.",
+    "checks": "Lecture de main, AGENTS.md et docs/PUBLICATION_CONCURRENTE.md ; 4 fichiers WebP présents sur main ; une seule figure et source par image et par page ; identifiants HTML sans doublon ; textes sources préservés à l'identique en retirant les nouvelles figures ; test de régression ajouté. Pas d’ajout de synthèse IA, photomontage ni illustration 2,5D.",
     "changes": {
       "modified": [
-        ".github/workflows/audit-integrity.yml",
+        "osiris-abydos-cultes-textes-funeraires/index.html",
+        "bibliotheque-egypte-ancienne/index.html",
+        "gilgamesh-epopee-mort-deluge/index.html",
         "docs/MYTHOS_ICONOGRAPHIE_ALTERNANCE.json"
       ],
       "added": [
-        "tests/test_audit_workflow_coverage.py"
-      ],
-      "details": "Déclencher l'audit pour les modifications de la politique, de ses tests et du domaine ; exécuter les régressions du workflow et de la politique avant la reconstruction complète. Aucune fréquence ni planification changée."
+        "tests/test_audit_iconography_session54.py"
+      ]
     },
-    "preservation": "Aucun chapitre, registre de numérotation, manuscrit, texte universitaire, PDF, image, navigation ou horaire d'automatisation modifié.",
-    "publication_status": "Le manifeste HTTPS public indique toujours c619d0c7, antérieur aux dernières séances. Le commit de correction CI n'est pas une preuve de nouveau déploiement ; contrôler GitHub Actions et HTTPS après écriture.",
-    "limitations": "L'audit des neuf pages est statique ; les références scientifiques externes et l'affichage responsive complet ne sont pas certifiés. L'audit intégral réussi précède le nouveau commit, et ses nouvelles validations restent à consulter.",
+    "preserved": "Textes universitaires existants, renvois et navigation, sommaires, dossiers, registres de numérotation, automatisations, CSS/JS, PDFs, binaires médias et planification intacts.",
+    "publication_status": "Enregistrement sur main à vérifier après commit ; la version HTTPS ne peut être tenue pour publiée sans manifeste public récent et vérification des ressources.",
+    "limitations": "Les tests de régression locaux n'ont pas été exécutés pendant la construction via l'API GitHub ; contrôles CI et rendu responsive réel restent à observer.",
     "commits": [],
-    "commit_note": "L'identifiant SHA de cette transaction atomique est confirmé après relecture de main et des trois fichiers."
+    "commit_note": "SHA de commit confirmé par lecture ultérieure de main."
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
   "history": [
@@ -3119,6 +3113,51 @@
       "limitations": "L'audit des neuf pages est statique ; les références scientifiques externes et l'affichage responsive complet ne sont pas certifiés. L'audit intégral réussi précède le nouveau commit, et ses nouvelles validations restent à consulter.",
       "commits": [],
       "commit_note": "L'identifiant SHA de cette transaction atomique est confirmé après relecture de main et des trois fichiers."
+    },
+    {
+      "date": "2026-11-05",
+      "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "previous_kind": "AUDIT ET CORRECTION",
+      "next_kind": "AUDIT ET CORRECTION",
+      "scope": "Séance 54 : quatre photographies muséales documentées réparties dans trois dossiers existants (Osiris, bibliothèque égyptienne, Gilgamesh), avec légendes de provenance et garde-fous automatisés.",
+      "basis_commit": "70cf84fa67d47a10b40c4ae45d7323ce2946b191",
+      "selection": "Priorité aux pages moins illustrées après vérification du catalogue de pagination des grandes monographies : Iliade 107, Odyssée 101, Théogonie 103 pages d'analyse.",
+      "figures": [
+        {
+          "page": "osiris-abydos-cultes-textes-funeraires/index.html",
+          "id": "icono-osiris-anubis-met-570675-20261105"
+        },
+        {
+          "page": "bibliotheque-egypte-ancienne/index.html",
+          "id": "icono-egypte-thot-maat-met-544093-20261105"
+        },
+        {
+          "page": "bibliotheque-egypte-ancienne/index.html",
+          "id": "icono-egypte-maat-met-551794-20261105"
+        },
+        {
+          "page": "gilgamesh-epopee-mort-deluge/index.html",
+          "id": "icono-gilgamesh-shamash-humbaba-sceau-met-327455-20261105"
+        }
+      ],
+      "asset_provenance": "Metropolitan Museum of Art, inventaires 04.2.430, 21.6.51, 26.7.992 et 1991.368.1 ; objets du domaine public documentés dans assets/illustrations-articles/sources-met.json et consultés dans les notices institutionnelles. Réemploi de quatre WebP déjà sous contrôle de somme SHA-256.",
+      "checks": "Lecture de main, AGENTS.md et docs/PUBLICATION_CONCURRENTE.md ; 4 fichiers WebP présents sur main ; une seule figure et source par image et par page ; identifiants HTML sans doublon ; textes sources préservés à l'identique en retirant les nouvelles figures ; test de régression ajouté. Pas d’ajout de synthèse IA, photomontage ni illustration 2,5D.",
+      "changes": {
+        "modified": [
+          "osiris-abydos-cultes-textes-funeraires/index.html",
+          "bibliotheque-egypte-ancienne/index.html",
+          "gilgamesh-epopee-mort-deluge/index.html",
+          "docs/MYTHOS_ICONOGRAPHIE_ALTERNANCE.json"
+        ],
+        "added": [
+          "tests/test_audit_iconography_session54.py"
+        ]
+      },
+      "preserved": "Textes universitaires existants, renvois et navigation, sommaires, dossiers, registres de numérotation, automatisations, CSS/JS, PDFs, binaires médias et planification intacts.",
+      "publication_status": "Enregistrement sur main à vérifier après commit ; la version HTTPS ne peut être tenue pour publiée sans manifeste public récent et vérification des ressources.",
+      "limitations": "Les tests de régression locaux n'ont pas été exécutés pendant la construction via l'API GitHub ; contrôles CI et rendu responsive réel restent à observer.",
+      "commits": [],
+      "commit_note": "SHA de commit confirmé par lecture ultérieure de main."
     }
   ]
 }
