@@ -1,0 +1,20 @@
+{
+  "id": "R3D-010",
+  "slug": "corinthe-pirene-vue",
+  "title": "Corinthe — fontaine Pirène",
+  "period": "Évocation de l’époque romaine, Ier–IIe siècle apr. J.-C.",
+  "image": "/assets/reconstitutions-3d/corinthe-pirene-vue.webp",
+  "caption": "Corinthe — fontaine Pirène — restitution photoréaliste interprétative. Évocation de l’époque romaine, Ier–IIe siècle apr. J.-C.",
+  "commentary": "La fontaine Pirène fut remaniée pendant l’Antiquité ; cette composition à arcades ne peut être tenue pour une restitution exacte d’une phase chronologique précise.",
+  "certainty": {
+    "summary": "Élevé : existence de la fontaine ; moyen : phases romaines ; faible : disposition et élévation des arcades."
+  },
+  "sources": [
+    {
+      "label": "Source documentaire du catalogue MYTHOS",
+      "url": "https://www.ascsa.edu.gr/excavations/ancient-corinth/digital-corinth/3d-models/fountain-of-peirene-3d-model"
+    }
+  ],
+  "image_sha256": "7326882b28556b2d46e11821ac12d49ed2474fd6e7717d5b7e65ca92aa690bf9",
+  "rights_and_method": "Image numérique interprétative, non métrique ; les sources documentent le site ou monument, mais ne certifient pas les détails graphiques."
+}

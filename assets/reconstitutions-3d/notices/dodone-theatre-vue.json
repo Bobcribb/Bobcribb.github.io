@@ -1,0 +1,20 @@
+{
+  "id": "R3D-007",
+  "slug": "dodone-theatre-vue",
+  "title": "Dodone — grand théâtre",
+  "period": "Début du IIIe siècle av. J.-C.",
+  "image": "/assets/reconstitutions-3d/dodone-theatre-vue.webp",
+  "caption": "Dodone — grand théâtre — restitution photoréaliste interprétative. Début du IIIe siècle av. J.-C.",
+  "commentary": "Le grand théâtre de Dodone fut édifié dans le programme monumental de Pyrrhos ; le gradinage, les accès et l’environnement sont interprétés à partir du site archéologique.",
+  "certainty": {
+    "summary": "Élevé : localisation, fonction et chronologie ; moyen : forme générale ; faible : décor et états des bâtiments associés."
+  },
+  "sources": [
+    {
+      "label": "Source documentaire du catalogue MYTHOS",
+      "url": "https://culturalegnatia.culture.gov.gr/en/route-stops/dodona/"
+    }
+  ],
+  "image_sha256": "c6f223aa583e622e21f2171cae2f03b111320cbee3d1f2432df2a9c1479f4c80",
+  "rights_and_method": "Image numérique interprétative, non métrique ; les sources documentent le site ou monument, mais ne certifient pas les détails graphiques."
+}

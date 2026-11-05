@@ -1,0 +1,20 @@
+{
+  "id": "R3D-006",
+  "slug": "brauron-artemis-vue",
+  "title": "Brauron — temple d’Artémis",
+  "period": "Évocation du Ve siècle av. J.-C.",
+  "image": "/assets/reconstitutions-3d/brauron-artemis-vue.webp",
+  "caption": "Brauron — temple d’Artémis — restitution photoréaliste interprétative. Évocation du Ve siècle av. J.-C.",
+  "commentary": "Le sanctuaire d’Artémis à Brauron est attesté ; l’apparence détaillée du temple et de son environnement reste partiellement reconstruite.",
+  "certainty": {
+    "summary": "Élevé : existence du culte et du sanctuaire ; moyen : implantation ; faible : temple restitué, couleurs et objets."
+  },
+  "sources": [
+    {
+      "label": "Source documentaire du catalogue MYTHOS",
+      "url": "https://archaeologicalmuseums.culture.gov.gr/en/museum/5df34af3deca5e2d79e8c189/archaeological-museum-of-vravrona"
+    }
+  ],
+  "image_sha256": "f514cf92a7fac7f249b270b9da612f054765f19af30618ba2f44f41c047bd5ba",
+  "rights_and_method": "Image numérique interprétative, non métrique ; les sources documentent le site ou monument, mais ne certifient pas les détails graphiques."
+}

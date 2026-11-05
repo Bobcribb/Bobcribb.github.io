@@ -1,0 +1,20 @@
+{
+  "id": "ATH-001",
+  "slug": "athenes-acropole",
+  "title": "Athènes — Acropole classique",
+  "period": "Ve siècle av. J.-C.",
+  "image": "/assets/reconstitutions-3d/athenes-acropole.webp",
+  "caption": "Vue interprétative de l’Acropole classique d’Athènes.",
+  "commentary": "Le programme monumental athénien comprend le Parthénon et les autres sanctuaires ; leurs élévations et couleurs exactes ne sont pas entièrement documentées par l’illustration.",
+  "certainty": {
+    "summary": "Élevée : existence des monuments. Moyenne : volumes généraux. Faible : coloris, sculpture détaillée et paysage."
+  },
+  "sources": [
+    {
+      "label": "Source documentaire du catalogue MYTHOS",
+      "url": "https://whc.unesco.org/fr/list/404/"
+    }
+  ],
+  "image_sha256": "35d63742ac7ddca8cd19954f29e3cb5b426ec16b0b20fef3b76d3c27cf0a0254",
+  "rights_and_method": "Image numérique interprétative, non métrique ; les sources documentent le site ou monument, mais ne certifient pas les détails graphiques."
+}

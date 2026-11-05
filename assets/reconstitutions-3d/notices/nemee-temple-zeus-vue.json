@@ -1,0 +1,20 @@
+{
+  "id": "R3D-002",
+  "slug": "nemee-temple-zeus-vue",
+  "title": "Némée — temple de Zeus, façade",
+  "period": "Vers 330 av. J.-C.",
+  "image": "/assets/reconstitutions-3d/nemee-temple-zeus-vue.webp",
+  "caption": "Némée — temple de Zeus, façade — restitution photoréaliste interprétative. Vers 330 av. J.-C.",
+  "commentary": "Le temple monumental de Zeus appartient au programme de reconstruction du IVe siècle av. J.-C. ; les sculptures et la polychromie figurées sont conjecturales.",
+  "certainty": {
+    "summary": "Élevé : sanctuaire et chronologie ; moyen : ordre et gabarit ; faible : décor, pigments, personnages."
+  },
+  "sources": [
+    {
+      "label": "Source documentaire du catalogue MYTHOS",
+      "url": "https://nemeacenter.berkeley.edu/ancient-nemea/temple-zeus"
+    }
+  ],
+  "image_sha256": "7525d63b66e98e7a92ba0caab957171f5cd732f28d7660227322b072d6c7137d",
+  "rights_and_method": "Image numérique interprétative, non métrique ; les sources documentent le site ou monument, mais ne certifient pas les détails graphiques."
+}
