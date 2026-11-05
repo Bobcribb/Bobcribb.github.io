@@ -251,8 +251,13 @@ def install(root, out):
                 + note + '</section>', "html.parser")
             article.insert(1, section)
             page.write_text(str(doc), encoding="utf-8")
-    for suffix in ("catalog/numbering.json", "catalog/entries.json", "search.json"):
+    # The reading catalogue is created later by improve_reading.enhance().
+    # Mark indices already available; patch the complete catalogue in the
+    # final pass, after it has been generated from the fully decorated pages.
+    for suffix in ("catalog/numbering.json", "search.json"):
         _apply_json_index(root, out / suffix)
+    if (out / "catalog/entries.json").is_file():
+        _apply_json_index(root, out / "catalog/entries.json")
     report = {"version": 1, "registered_ancient_works": len(data["groups"]),
               "registered_monographs": sum(len(g["members"]) for g in data["groups"].values()),
               "groups": data["groups"]}
@@ -261,6 +266,13 @@ def install(root, out):
     target.write_text(json.dumps(report, ensure_ascii=False, indent=2) + "\n",
                       encoding="utf-8")
     return report
+
+
+def annotate_final_indices(root, out):
+    """Apply work identity to the final catalogue after reading metadata exists."""
+    root, out = Path(root), Path(out)
+    for suffix in ("catalog/numbering.json", "catalog/entries.json", "search.json"):
+        _apply_json_index(root, out / suffix)
 
 
 def blocks(doc):
