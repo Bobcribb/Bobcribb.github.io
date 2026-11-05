@@ -1233,3 +1233,24 @@ body.mythos-design .greek-cross-readings[data-greek-cross-readings="transmission
     font-size:clamp(1.25rem,5vw,1.5rem);line-height:1.4;
   }
 }
+
+/* MYTHOS — Hésiode et Kumarbi : parcours universitaire hors des manuscrits. */
+body.mythos-design .greek-cross-readings[data-greek-cross-readings="souverainete-cosmique"]{
+  border-inline-start:3px solid #d8b67a;
+  background:linear-gradient(115deg,#1b2527,#10191c 76%);
+  min-width:0;max-width:100%;
+}
+body.mythos-design .greek-cross-readings[data-greek-cross-readings="souverainete-cosmique"] h2{
+  border-bottom:1px solid #856c49;padding-bottom:.65rem;
+}
+body.mythos-design .greek-cross-readings[data-greek-cross-readings="souverainete-cosmique"] li{
+  min-width:0;overflow-wrap:anywhere;
+}
+@media(max-width:480px){
+  body.mythos-design .greek-cross-readings[data-greek-cross-readings="souverainete-cosmique"]{
+    padding:.85rem;margin-inline:0;
+  }
+  body.mythos-design .greek-cross-readings[data-greek-cross-readings="souverainete-cosmique"] h2{
+    font-size:clamp(1.25rem,5vw,1.5rem);line-height:1.4;
+  }
+}

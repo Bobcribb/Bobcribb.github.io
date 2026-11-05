@@ -253,6 +253,13 @@ def classify(url, title, kind):
         'bibliotheque-mythologies-du-monde/civilisations-histoire-hittites-anatolie':
             ('sources-anciennes', 'Hattousa — archives, Kumarbi et traditions de succession'),
     }
+    # Sources déjà publiées : seulement un rattachement thématique grec.
+    history_homes.update({
+        'bibliotheque-mythologies-du-monde/civilisations-hourrites-mittani-kumarbi':
+            ('sources-anciennes', 'Hourrites — tablettes de Kumarbi et archives du Mittani'),
+        'bibliotheque-mythologies-du-monde/mythos-comparatif-souverainete-cosmique-kumarbi-hesiode-pergame':
+            ('interpretations-philosophiques', 'Kumarbi et Hésiode — souveraineté cosmique en comparaison'),
+    })
     if slug in history_homes:
         return history_homes[slug]
     if slug.startswith('philosophie-'):
@@ -417,6 +424,21 @@ TRANSMISSION_STUDIES = (
     ('/bibliotheque-mythologies-du-monde/civilisations-histoire-hittites-anatolie/',
      'Hittites — Hattousa, Kumarbi et traditions anatoliennes',
      'Textes de succession divine, archives hittites et comparaison avec Hésiode.'),
+)
+
+
+# Les textes restent aux URL d'origine : une source grecque, deux études
+# comparatives déjà publiées. Les liens réciproques ne sont pas des doublons.
+COSMIC_STUDIES = (
+    ('/livre-hesiode/',
+     'Hésiode — Théogonie et condition humaine',
+     'Le récit grec de succession d’Ouranos, Cronos et Zeus.'),
+    ('/bibliotheque-mythologies-du-monde/civilisations-hourrites-mittani-kumarbi/',
+     'Hourrites et Mittani — le cycle de Kumarbi',
+     'Archives de Syrie et d’Anatolie et sources de l’âge du Bronze.'),
+    ('/bibliotheque-mythologies-du-monde/mythos-comparatif-souverainete-cosmique-kumarbi-hesiode-pergame/',
+     'Kumarbi, Hésiode et Pergame — lecture comparée',
+     'Comparaison des récits, des images et des lectures philosophiques.'),
 )
 
 
@@ -609,12 +631,14 @@ def build(out, groups, sections, books, root=None):
                    if any(row['url'] == url for row in rows)}
     transmission_urls = {url for url, _, _ in TRANSMISSION_STUDIES
                          if any(row['url'] == url for row in rows)}
+    cosmic_urls = {url for url, _, _ in COSMIC_STUDIES
+                   if any(row['url'] == url for row in rows)}
     # Return links stay outside the article, leaving its scholarly text untouched.
     for row in rows:
         if (row['kind'] not in ('Chapitre universitaire', 'Livre', 'Notice', 'Étude')
                 and row['url'] not in ({DELPHES_STUDIES[0][0],
                                        APHRODITE_STUDIES[1][0],
-                                       APHRODITE_STUDIES[2][0]} | history_urls | contact_urls | border_urls | transmission_urls)):
+                                       APHRODITE_STUDIES[2][0]} | history_urls | contact_urls | border_urls | transmission_urls | cosmic_urls)):
             continue
         page = out / row['url'].lstrip('/')
         if row['url'].endswith('/'):
@@ -800,6 +824,25 @@ def build(out, groups, sections, books, root=None):
                     'directe de chaque récit.</p><ul>' + links +
                     '</ul></aside>', 'html.parser').aside
                 main.append(box)
+        if row['url'] in cosmic_urls:
+            companions = [(url, title, context) for url, title, context
+                          in COSMIC_STUDIES if url in cosmic_urls and url != row['url']]
+            if companions:
+                links = ''.join(
+                    '<li><a href="' + escape(url, quote=True) + '">' +
+                    escape(title) + '</a><small>' + escape(context) +
+                    '</small></li>' for url, title, context in companions)
+                box = BeautifulSoup(
+                    '<aside class="greek-cross-readings" '
+                    'data-greek-cross-readings="souverainete-cosmique" '
+                    'aria-label="Hésiode et Kumarbi : sources et lectures comparées">'
+                    '<h2>Généalogies divines : Hésiode et Kumarbi</h2>'
+                    '<p>Trois lectures complètes : poème grec, archives '
+                    'hourrites et étude comparée. Une ressemblance ne prouve '
+                    'pas à elle seule une transmission directe ; sources et '
+                    'chronologies doivent être distinguées.</p>'
+                    '<ul>' + links + '</ul></aside>', 'html.parser').aside
+                main.append(box)
         page.write_text(str(doc), encoding='utf-8')
     for slug, title, description in FOLDERS:
         members = [r for r in rows if r['folder'] == slug]
@@ -966,6 +1009,17 @@ def verify(out, expected_urls):
             actual = [a['href'] for a in panels[0].select('a[href]')]
             assert set(actual) == transmission_urls - {url}, 'Parcours de transmission incomplet : ' + url
             assert len(actual) == len(set(actual)), 'Lien de transmission répété : ' + url
+    cosmic_urls = {url for url, _, _ in COSMIC_STUDIES if url in expected_urls}
+    if len(cosmic_urls) > 1:
+        for url in cosmic_urls:
+            page = out / url.lstrip('/') / 'index.html'
+            assert page.is_file(), 'Étude Hésiode/Kumarbi absente : ' + url
+            doc = BeautifulSoup(page.read_text(encoding='utf-8'), 'html.parser')
+            panels = doc.select('aside[data-greek-cross-readings="souverainete-cosmique"]')
+            assert len(panels) == 1, 'Parcours Hésiode/Kumarbi manquant ou dupliqué : ' + url
+            links = [a['href'] for a in panels[0].select('a[href]')]
+            assert set(links) == cosmic_urls - {url}, 'Renvois Hésiode/Kumarbi incomplets : ' + url
+            assert len(links) == len(set(links)), 'Renvoi Hésiode/Kumarbi dupliqué : ' + url
     assert set(assignments) == set(expected_urls), 'Classement incomplet ou inattendu : '+str(set(assignments) ^ set(expected_urls))
     assert all(n == 1 for n in assignments.values()), 'Texte classé plusieurs fois dans les dossiers'
     print('Dossiers grecs vérifiés :', len(assignments), 'destinations uniques, tous les textes et toutes les sections accessibles')

@@ -166,6 +166,11 @@ RELATED = [
  ("Étrusques — religion, cités et transferts iconographiques : étude intégrale", "/bibliotheque-mythologies-du-monde/civilisations-histoire-etrusques/"),
  ("Iran ancien — Achéménides, sources grecques et Persépolis : étude intégrale", "/bibliotheque-mythologies-du-monde/civilisations-histoire-iran-perse/"),
  ("Hittites — Hattousa, Kumarbi et relations égéennes : étude intégrale", "/bibliotheque-mythologies-du-monde/civilisations-histoire-hittites-anatolie/"),
+ # Deux études intégrales publiques, nouvelle entrée de lecture du catalogue grec.
+ ("Hourrites et Mittani — tablettes de Kumarbi et archives : étude intégrale",
+  "/bibliotheque-mythologies-du-monde/civilisations-hourrites-mittani-kumarbi/"),
+ ("Kumarbi, Hésiode et Pergame — souveraineté cosmique : étude intégrale",
+  "/bibliotheque-mythologies-du-monde/mythos-comparatif-souverainete-cosmique-kumarbi-hesiode-pergame/"),
  ("Études d'histoire et de géographie grecque","/grece/"),
  ("Théâtre grec, corpus associé mais distinct","/theatre/"),
  ("Registre général des dossiers publiés","/grande-encyclopedie/registre-integral/"),
