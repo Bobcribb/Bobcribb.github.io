@@ -44,112 +44,16 @@
     },
     "public_observation": "Lecture HTTPS effective sur bobmythos.fr : /catalog/publication-verification.json indiquait source_commit bd79dae1a0d6a1140f9d1d80e1fe1ad0defb4fb6, run 42052421794, 1565 documents indexés. Les trois pages /heros-achille/, /heros-hector/, /heros-penelope/ exposaient chacune l'identifiant figure de la séance 60, une légende et la mention assisté par IA ; les trois SVG étaient récupérables. Aucun déploiement de la correction de séance 61 présumé.",
     "ci_state": "Au contrôle, plusieurs publications plus récentes étaient annulées ou en attente ; le run de validation 42058430692 (commit cf9ba8cd) était en cours. Le succès du nouveau commit et de son déploiement reste à contrôler.",
-    "tests": "Contrôles statiques précommit de présence/unicité des filtres et du test ; suite Python complète et tests de navigateur à confirmer sur GitHub Actions.",
+    "tests": "CI PR n° 59 : régressions de workflow déclencheur réussies ; échec de trois tests d'alternance (history[-1] != latest_session) dans le premier commit, corrigé par insertion de la séance 61 à la fin chronologique de history, sans supprimer la séance 60.",
     "preservation": "Aucune modification de chapitre, de texte scientifique, de navigation, de numéro, de registre editorial/numbering.json, d'image ou d'automatisation. Aucun nouvel article ni média ajouté pendant la séance d'audit.",
     "limitations": "Audit ciblé de six pages et politique CI ; aucune vérification exhaustive du code HTML de toutes les pages ni de toutes les URL externes ; pas de rendu navigateur responsive dans cette séance.",
-    "commits": [],
-    "commit_note": "Commit atomique sur branche de correction ; SHA consultable sur la PR et dans l'historique GitHub. Ne pas considérer la présence sur GitHub comme une publication publique."
+    "commits": [
+      "5ee3f03f2d1e7a826c526716b6c6b22b8e3e89a6"
+    ],
+    "commit_note": "Correctif additionnel au journal après diagnostic CI : history est chronologique et doit se terminer par latest_session ; le SHA du commit final de journal est conservé dans l'historique GitHub."
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
   "history": [
-    {
-      "date": "2026-11-05",
-      "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-      "previous_kind": "AUDIT ET CORRECTION",
-      "next_kind": "AUDIT ET CORRECTION",
-      "scope": "Séance 60 : mise en contexte sans doublon de trois schémas universitaires 2D préexistants dans les monographies de personnages Achille, Hector et Pénélope, en complément des grandes études Iliade, Odyssée et Théogonie.",
-      "basis_commit": "c79f0721609df95d783187951888f51735487e06",
-      "files_modified": [
-        "heros-achille/index.html",
-        "heros-hector/index.html",
-        "heros-penelope/index.html",
-        "docs/MYTHOS_ICONOGRAPHIE_ALTERNANCE.json"
-      ],
-      "files_added": [
-        "tests/test_iconography_session60_hero_profiles.py"
-      ],
-      "figures": [
-        {
-          "page": "heros-achille/index.html",
-          "figure_id": "icono-achille-deux-destins-profil-s60-20261105",
-          "existing_asset": "assets/philosophie/iliade-achille-deux-destins.svg",
-          "primary_source": "https://www.theoi.com/Text/HomerIliad9.html",
-          "source_section": "L’ambassade et les deux destins",
-          "status": "Schéma interprétatif 2D contemporain assisté par IA ; aucune photographie d’artefact, aucune restitution 2,5D."
-        },
-        {
-          "page": "heros-hector/index.html",
-          "figure_id": "icono-hector-andromaque-devoirs-profil-s60-20261105",
-          "existing_asset": "assets/philosophie/iliade-hector-andromaque.svg",
-          "primary_source": "https://www.theoi.com/Text/HomerIliad6.html",
-          "source_section": "Hector dans Troie",
-          "status": "Schéma interprétatif 2D contemporain assisté par IA ; aucune photographie d’artefact, aucune restitution 2,5D."
-        },
-        {
-          "page": "heros-penelope/index.html",
-          "figure_id": "icono-penelope-lit-olivier-profil-s60-20261105",
-          "existing_asset": "assets/philosophie/odyssee-lit-olivier-signe-20261104.svg",
-          "primary_source": "https://www.theoi.com/Text/HomerOdyssey23.html",
-          "source_section": "Le lit d’olivier",
-          "status": "Schéma interprétatif 2D contemporain assisté par IA ; aucune photographie d’artefact, aucune restitution 2,5D."
-        }
-      ],
-      "precommit_audit": {
-        "pages_checked": 3,
-        "figures_added": 3,
-        "prior_and_new_ids_unique": true,
-        "all_internal_same_page_anchors_resolve": true,
-        "all_referenced_local_media_css_js_exist_on_main": true,
-        "per_page": [
-          {
-            "page": "heros-achille/index.html",
-            "html_length_before": 20184,
-            "html_length_after": 21148,
-            "image_count_before": 3,
-            "image_count_after": 4,
-            "existing_ids": 15,
-            "anchors": 12,
-            "local_resources": 11,
-            "missing_resources": 0,
-            "broken_anchors": 0
-          },
-          {
-            "page": "heros-hector/index.html",
-            "html_length_before": 40640,
-            "html_length_after": 41590,
-            "image_count_before": 1,
-            "image_count_after": 2,
-            "existing_ids": 14,
-            "anchors": 13,
-            "local_resources": 9,
-            "missing_resources": 0,
-            "broken_anchors": 0
-          },
-          {
-            "page": "heros-penelope/index.html",
-            "html_length_before": 32880,
-            "html_length_after": 33824,
-            "image_count_before": 1,
-            "image_count_after": 2,
-            "existing_ids": 14,
-            "anchors": 13,
-            "local_resources": 9,
-            "missing_resources": 0,
-            "broken_anchors": 0
-          }
-        ]
-      },
-      "pagination_a4_existing_evidence": {
-        "iliade_analyse_seule": 107,
-        "odyssee_analyse_seule": 101,
-        "theogonie_analyse_seule": 103,
-        "reference": "assets/philosophie/pagination-2026-11-04.json (rendu daté ; non recalculé dans cette séance)"
-      },
-      "preservation": "Textes scientifiques et paragraphes sources intacts ; aucune nouvelle étude numérotée, aucun registre de numérotation, menu, image existante, CSS, JS, PDF ou planification horaire modifié.",
-      "commits": [],
-      "public_status": "Publication publique non confirmée ; vérifier le prochain workflow GitHub Actions puis le reçu HTTPS et les trois pages publiques.",
-      "limitations": "Tests Python, rendu responsive sur navigateur réel et audit complet du site non exécutés pendant cette insertion ; les collisions MC-082 signalées par la séance 59 peuvent affecter GitHub Actions."
-    },
     {
       "date": "2026-11-04",
       "kind": "AUDIT ET CORRECTION",
@@ -3668,6 +3572,55 @@
       "commits": [],
       "public_status": "Publication publique non confirmée ; vérifier le prochain workflow GitHub Actions puis le reçu HTTPS et les trois pages publiques.",
       "limitations": "Tests Python, rendu responsive sur navigateur réel et audit complet du site non exécutés pendant cette insertion ; les collisions MC-082 signalées par la séance 59 peuvent affecter GitHub Actions."
+    },
+    {
+      "date": "2026-11-05",
+      "kind": "AUDIT ET CORRECTION",
+      "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "scope": "Séance 61 : contrôle post-iconographique des trois profils Achille, Hector, Pénélope et correction d'une lacune de déclenchement de l'audit GitHub Actions sur pull requests modifiant uniquement HTML, médias ou tests d'iconographie.",
+      "basis_commit": "77b1fbdc515bbf8481c3d0224ffc934d482d418b",
+      "files_modified": [
+        ".github/workflows/audit-integrity.yml",
+        "tests/test_audit_workflow_coverage.py",
+        "docs/MYTHOS_ICONOGRAPHIE_ALTERNANCE.json"
+      ],
+      "verified_issue": "Le workflow .github/workflows/audit-integrity.yml surveillait les changements HTML/assets/media en push sur main mais ne les incluait pas dans pull_request.paths ; une PR strictement iconographique pouvait être fusionnée sans audit d'intégrité préalable.",
+      "correction": "Harmoniser les déclencheurs push et pull_request pour HTML racine et profond, assets/**, media/**, tests/test_iconography_*.py et le journal d'alternance. Ajouter un test de régression garantissant leur présence dans les deux filtres ; conserver les étapes d'audit existantes.",
+      "precommit_audit": {
+        "repository_tree_entries": 5385,
+        "pages_checked": [
+          "heros-achille/index.html",
+          "heros-hector/index.html",
+          "heros-penelope/index.html",
+          "philosophie-iliade.html",
+          "philosophie-odyssee.html",
+          "philosophie-theogonie.html"
+        ],
+        "source_pages_existing": true,
+        "duplicate_ids_in_three_profiles": 0,
+        "missing_local_resources_or_assets_in_six_checked_pages": 0,
+        "broken_same_page_fragments_in_three_profiles": 0,
+        "verified_style_scripts": [
+          "assets/style.css",
+          "assets/mythos-refonte.css",
+          "assets/mythos-museum.css",
+          "assets/mythos-discovery.css",
+          "assets/search.js",
+          "assets/mythos-museum.js",
+          "assets/mythos-reading.js"
+        ],
+        "numbered_new_studies": 0
+      },
+      "public_observation": "Lecture HTTPS effective sur bobmythos.fr : /catalog/publication-verification.json indiquait source_commit bd79dae1a0d6a1140f9d1d80e1fe1ad0defb4fb6, run 42052421794, 1565 documents indexés. Les trois pages /heros-achille/, /heros-hector/, /heros-penelope/ exposaient chacune l'identifiant figure de la séance 60, une légende et la mention assisté par IA ; les trois SVG étaient récupérables. Aucun déploiement de la correction de séance 61 présumé.",
+      "ci_state": "Au contrôle, plusieurs publications plus récentes étaient annulées ou en attente ; le run de validation 42058430692 (commit cf9ba8cd) était en cours. Le succès du nouveau commit et de son déploiement reste à contrôler.",
+      "tests": "CI PR n° 59 : régressions de workflow déclencheur réussies ; échec de trois tests d'alternance (history[-1] != latest_session) dans le premier commit, corrigé par insertion de la séance 61 à la fin chronologique de history, sans supprimer la séance 60.",
+      "preservation": "Aucune modification de chapitre, de texte scientifique, de navigation, de numéro, de registre editorial/numbering.json, d'image ou d'automatisation. Aucun nouvel article ni média ajouté pendant la séance d'audit.",
+      "limitations": "Audit ciblé de six pages et politique CI ; aucune vérification exhaustive du code HTML de toutes les pages ni de toutes les URL externes ; pas de rendu navigateur responsive dans cette séance.",
+      "commits": [
+        "5ee3f03f2d1e7a826c526716b6c6b22b8e3e89a6"
+      ],
+      "commit_note": "Correctif additionnel au journal après diagnostic CI : history est chronologique et doit se terminer par latest_session ; le SHA du commit final de journal est conservé dans l'historique GitHub."
     }
   ]
 }
