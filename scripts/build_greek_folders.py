@@ -232,6 +232,10 @@ def classify(url, title, kind):
         LINDIA_438.strip('/'),
     }:
         return 'cultes-sanctuaires', 'Lindos (Rhodes) — Athéna Lindia et la Chronique'
+    # Notice de liaison non numérotée de l'issue #42 : même sous-dossier
+    # que ses deux manuscrits, une seule attribution documentaire.
+    if slug == LINDIA_NOTICE.strip('/'):
+        return 'cultes-sanctuaires', 'Lindos (Rhodes) — Athéna Lindia et la Chronique'
     # Mémoire de philosophie antique complet et déjà publié (PHY-SOC-2026-01).
     # Le mot « Delphes » ne doit pas le classer comme un compte rendu de culte.
     if slug == 'chapitres/philosophie/socrate-oracle-delphes-paradoxe-sagesse':

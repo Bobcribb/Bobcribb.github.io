@@ -143,6 +143,9 @@ def book_sections(out, slug):
 
 
 RELATED = [
+ # Issue #42 — notice non numerotee : destination classee une seule fois.
+ ("Concordance scientifique — Athena Lindia, chapitres 433 et 438",
+  "/mythologie-grecque/concordance-athena-lindia/"),
  ("Homère, l'Iliade : analyse philosophique","/philosophie-iliade.html"),
  ("Homère, l'Odyssée : analyse philosophique","/philosophie-odyssee.html"),
  ("Hésiode, Théogonie : analyse philosophique","/philosophie-theogonie.html"),

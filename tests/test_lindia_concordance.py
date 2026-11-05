@@ -19,6 +19,28 @@ class LindiaConcordanceTests(unittest.TestCase):
         self.assertEqual(classify(LINDIA_433, "", "Chapitre universitaire"),
                          classify(LINDIA_438, "", "Chapitre universitaire"))
 
+    def test_notice_is_indexed_once_with_both_original_studies(self):
+        from build_greek_corpus import RELATED
+        from build_greek_folders import inventory
+
+        matches = [(title, url) for title, url in RELATED if url == LINDIA_NOTICE]
+        self.assertEqual(len(matches), 1)
+        groups = [
+            ("Encyclopédie", "grec-universitaire", [
+                (LINDIA_433, "Chapitre 433"),
+                (LINDIA_438, "Chapitre 438"),
+            ]),
+            ("Concordances", "grec-liens", [(LINDIA_NOTICE, matches[0][0])]),
+        ]
+        rows = inventory(groups, [], [])
+        self.assertEqual({row["url"] for row in rows},
+                         {LINDIA_433, LINDIA_438, LINDIA_NOTICE})
+        self.assertEqual(len(rows), 3)
+        self.assertEqual({row["folder"] for row in rows}, {"cultes-sanctuaires"})
+        self.assertEqual(len({row["section"] for row in rows}), 1)
+        notice = next(row for row in rows if row["url"] == LINDIA_NOTICE)
+        self.assertEqual(notice["kind"], "Lecture associée")
+
     def test_search_retains_two_distinct_entries(self):
         entries = [
             {"url": LINDIA_433, "title": "Chapitre 433", "excerpt": ""},
