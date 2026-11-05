@@ -1183,3 +1183,31 @@ body.mythos-design .greek-cross-readings[data-greek-cross-readings="contacts"] l
     overflow-wrap:anywhere;
   }
 }
+
+
+/* Lectures croisées Anatolie/Thrace : quatre sources publiques conservées.
+   Accent doré, texte non abrégé et contrastes tactiles sur mobile. */
+body.mythos-design .greek-cross-readings[data-greek-cross-readings="frontieres"]{
+  border-inline-start:3px solid #d6ad70;
+  background:linear-gradient(115deg,#202628,#10191c 76%);
+  max-width:100%;min-width:0;
+}
+body.mythos-design .greek-cross-readings[data-greek-cross-readings="frontieres"] h2{
+  border-bottom:1px solid #806946;padding-bottom:.65rem;
+}
+body.mythos-design .greek-cross-readings[data-greek-cross-readings="frontieres"] li{
+  min-width:0;overflow-wrap:anywhere;
+}
+@media(max-width:700px){
+  body.mythos-design .greek-cross-readings[data-greek-cross-readings="frontieres"] h2{
+    font-size:clamp(1.25rem,5vw,1.55rem);line-height:1.4;
+  }
+}
+@media(max-width:480px){
+  body.mythos-design .greek-cross-readings[data-greek-cross-readings="frontieres"]{
+    padding:.85rem;margin-inline:0;
+  }
+  body.mythos-design .greek-cross-readings[data-greek-cross-readings="frontieres"] li{
+    padding:.65rem;
+  }
+}
