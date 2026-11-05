@@ -1423,3 +1423,12 @@ body.mythos-design #corpus-status [data-corpus-count]{
     max-width:100%;margin-inline:.1rem;padding:.5rem .65rem;
   }
 }
+
+/* CIV-01 — accès à la monographie intégrale depuis le portail des civilisations. */
+#etude-behistun { scroll-margin-top: 6rem; }
+#etude-behistun .portal-grid { grid-template-columns: minmax(0, 36rem); }
+#etude-behistun .mythos-card-image { display: block; width: 100%; aspect-ratio: 16 / 9; object-fit: cover; }
+#etude-behistun .portal-card:focus-visible { outline: 3px solid #efce90; outline-offset: 4px; }
+@media (max-width: 680px) {
+  #etude-behistun .portal-grid { grid-template-columns: minmax(0, 1fr); }
+}

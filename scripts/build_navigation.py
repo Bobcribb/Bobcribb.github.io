@@ -73,6 +73,10 @@ def card(url,title,description="",label="COLLECTION"):
     if url == "/reconstitutions-photorealistes.html":
         # Couverture du catalogue attestée sur main ; ne pas rétablir les SVG 2,5D.
         image = '<img class="mythos-card-image" src="/assets/reconstitutions-3d/delphes-apollon-panorama.webp" alt="Reconstitution photoréaliste interprétative du sanctuaire d’Apollon à Delphes" loading="lazy" decoding="async"/>'
+    if url == "/corpus/civilisations/perse-iran-ancien-behistun.html":
+        # Document CIV 01 déjà complet et conservé dans les archives publiques.
+        image = '<img alt="Relief de Darius Ier et inscription trilingue gravés sur la falaise de Behistun." class="mythos-card-image" loading="lazy" decoding="async" src="/media/2026/10/mythos-behistun-inscription-darius-mahdimanavimvi-2018.jpg"/>'
+        credit = '<span>Photo : Mahdimanavimvi (2018), CC BY-SA 4.0 ; références et crédits complets dans l’étude.</span>'
     if url == "/philosophie-eneide.html":
         # La photographie montre des vestiges de Troie VI, pas une scène de Virgile.
         # La générer avec son alt correct évite de le perdre à chaque reconstruction.
@@ -864,6 +868,14 @@ def create_philosophy(entries):
 def create_civilisations(entries, groups):
     body='<h1>Civilisations du monde</h1><p class="portal-lead">Explorer les contextes historiques dans lesquels prennent forme les mythes : sociétés, langues, cultes, archéologie et transmissions. Le classement par continent est un outil de navigation contemporain, pas une frontière culturelle antique.</p>'
     body+=section("Choisir un continent","Les dossiers géographiques sont classés sans effacer les circulations entre les mondes.",cards([(f"/civilisations/{k}/",name,f"{len(groups[k])} études. {description}","CONTINENT") for k,(name,description) in CONTINENTS.items()]))
+    body+=section("Monographie intégrale en accès direct",
+        "Une étude déjà conservée dans le corpus public, présentée sans réécriture et avec ses références scientifiques.",
+        '<div id="etude-behistun" class="mythos-full-study-feature">' + cards([
+            ("/corpus/civilisations/perse-iran-ancien-behistun.html",
+             "Behistun : Darius, l’inscription trilingue et la légitimation du pouvoir",
+             "CIV · 01 — Lire le texte universitaire intégral : philologie vieux-perse, élamite et babylonienne, relief, sources grecques, bibliographie et exercices. Aucun résumé de substitution.",
+             "CIV · 01 · TEXTE INTÉGRAL"),
+        ]) + '</div>')
     body+=section("Études transversales","Comparer les sources et les espaces.",cards([
       ("/bibliotheque-mythologies-du-monde/civilisations-histoire-encyclopedie-sommaire/","Sommaire historique","Panorama et méthode comparative."),
       ("/atlas-comparatif-mythes-cultes-pouvoirs-antiquite/","Atlas comparatif","Récits, territoires, cultes et pouvoir."),
