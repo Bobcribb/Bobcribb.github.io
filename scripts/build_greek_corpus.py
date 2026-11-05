@@ -160,6 +160,12 @@ RELATED = [
  ("Phrygie — Midas, Gordion et Matar-Cybèle : étude intégrale", "/bibliotheque-mythologies-du-monde/civilisations-phrygie-midas-gordion/"),
  ("Thraces — Odryses, Kazanlak et cultes : étude intégrale", "/bibliotheque-mythologies-du-monde/civilisations-thraces-odryses-kazanlak/"),
  ("Séleucides — Antiochos et sources du Proche-Orient : étude intégrale", "/bibliotheque-mythologies-du-monde/civilisations-empire-seleucide-antiochos/"),
+ # Quatre enquêtes intégrales déjà publiques dans Civilisations : histoire des
+ # transmissions et regards grecs, sans assimilation des traditions locales.
+ ("Égypte des Lagides — Alexandrie, Sérapis et Cléopâtre : étude intégrale", "/bibliotheque-mythologies-du-monde/civilisations-egypte-ptolemaique-alexandrie/"),
+ ("Étrusques — religion, cités et transferts iconographiques : étude intégrale", "/bibliotheque-mythologies-du-monde/civilisations-histoire-etrusques/"),
+ ("Iran ancien — Achéménides, sources grecques et Persépolis : étude intégrale", "/bibliotheque-mythologies-du-monde/civilisations-histoire-iran-perse/"),
+ ("Hittites — Hattousa, Kumarbi et relations égéennes : étude intégrale", "/bibliotheque-mythologies-du-monde/civilisations-histoire-hittites-anatolie/"),
  ("Études d'histoire et de géographie grecque","/grece/"),
  ("Théâtre grec, corpus associé mais distinct","/theatre/"),
  ("Registre général des dossiers publiés","/grande-encyclopedie/registre-integral/"),
