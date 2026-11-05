@@ -28,6 +28,21 @@
     if (!total) return;
     filter.hidden = false;
 
+    // Le lien partage uniquement le critère de lecture, jamais le contenu.
+    // Conserver tous les autres paramètres et l'ancre de sous-dossier.
+    const searchKey = 'filtre';
+    const fromURL = () => new URLSearchParams(window.location.search).get(searchKey) || '';
+    input.value = fromURL();
+    function remember() {
+      const url = new URL(window.location.href);
+      const query = input.value.trim();
+      if (query) url.searchParams.set(searchKey, query);
+      else url.searchParams.delete(searchKey);
+      const relative = url.pathname + url.search + url.hash;
+      const current = window.location.pathname + window.location.search + window.location.hash;
+      if (relative !== current) window.history.replaceState(window.history.state, '', relative);
+    }
+
     function update() {
       const terms = fold(input.value).split(' ').filter(Boolean);
       let visible = 0;
@@ -47,27 +62,38 @@
         : total + ' textes et sections disponibles';
       clear.hidden = !terms.length;
     }
-    input.addEventListener('input', update);
+    input.addEventListener('input', () => { update(); remember(); });
     input.addEventListener('keydown', event => {
       if (event.key === 'Escape' && input.value) {
         input.value = '';
         update();
+        remember();
         event.preventDefault();
       }
     });
     clear.addEventListener('click', () => {
       input.value = '';
       update();
+      remember();
       input.focus();
     });
-    window.addEventListener('hashchange', () => {
+    function restoreAnchor() {
       const target = window.location.hash.slice(1);
       if (target.startsWith('theme-') && document.getElementById(target)?.hidden) {
+        // Un lien de sommaire a toujours priorité sur un filtre mémorisé.
         input.value = '';
         update();
+        remember();
       }
+    }
+    window.addEventListener('hashchange', restoreAnchor);
+    window.addEventListener('popstate', () => {
+      input.value = fromURL();
+      update();
+      restoreAnchor();
     });
     update();
+    restoreAnchor();
   }
   if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', () => {
