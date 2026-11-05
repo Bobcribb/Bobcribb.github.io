@@ -412,6 +412,60 @@ def verify_public_receipt(base, root):
 
 
 
+
+BEHISTUN_PAGE = "/civilisations/"
+BEHISTUN_STUDY = "/corpus/civilisations/perse-iran-ancien-behistun.html"
+BEHISTUN_IMAGE = "/media/2026/10/mythos-behistun-inscription-darius-mahdimanavimvi-2018.jpg"
+
+
+def behistun_card_metadata(markup):
+    """The documented public CIV-01 card must keep its photograph and credit."""
+    doc = BeautifulSoup(markup, "html.parser")
+    cards = doc.select("#etude-behistun a.portal-card")
+    if len(cards) != 1 or cards[0].get("href") != BEHISTUN_STUDY:
+        raise ValueError("Carte scientifique Behistun absente, dupliquée ou mal reliée")
+    images = cards[0].select("img.mythos-card-image")
+    if len(images) != 1 or images[0].get("src") != BEHISTUN_IMAGE:
+        raise ValueError("Photographie Behistun absente, dupliquée ou remplacée")
+    alt = " ".join(images[0].get("alt", "").split())
+    caption = " ".join(cards[0].get_text(" ", strip=True).split())
+    if not alt or "CC BY-SA 4.0" not in caption or "bibliographie" not in caption.lower():
+        raise ValueError("Description, crédit ou bibliographie Behistun manquants")
+    return {"href": cards[0]["href"], "src": images[0]["src"],
+            "alt": alt, "caption": caption}
+
+
+def verify_public_behistun(base, root):
+    """Compare the deployed card and JPEG bytes with the current build."""
+    page = root / BEHISTUN_PAGE.lstrip("/") / "index.html"
+    image = root / BEHISTUN_IMAGE.lstrip("/")
+    expected = behistun_card_metadata(page.read_bytes())
+    local_photo = image.read_bytes()
+    if not local_photo.startswith(b"\\xff\\xd8\\xff"):
+        raise ValueError("Photographie source Behistun invalide : JPEG attendu")
+    expected_sha = hashlib.sha256(local_photo).hexdigest()
+    target = base.rstrip("/")
+    checks = []
+    try:
+        status, _, html = fetch(target + BEHISTUN_PAGE)
+        matches = status == 200 and behistun_card_metadata(html) == expected
+        checks.append({"url": BEHISTUN_PAGE, "valid": matches,
+                       "status": status, "card_matches_build": matches})
+    except Exception as error:
+        checks.append({"url": BEHISTUN_PAGE, "valid": False,
+                       "error": str(error)})
+    try:
+        status, _, actual_photo = fetch(target + BEHISTUN_IMAGE)
+        matches = (status == 200 and actual_photo.startswith(b"\\xff\\xd8\\xff")
+                   and hashlib.sha256(actual_photo).hexdigest() == expected_sha)
+        checks.append({"url": BEHISTUN_IMAGE, "valid": matches,
+                       "status": status, "sha256_matches_build": matches})
+    except Exception as error:
+        checks.append({"url": BEHISTUN_IMAGE, "valid": False,
+                       "error": str(error)})
+    return checks
+
+
 def verify_public_history(base, root):
     """Verify the deployed MC notices, complete texts and catalogue statuses."""
     from comparative_history import REPORT, url
@@ -493,13 +547,19 @@ def main():
     except Exception as error:
         recent_results=[{'url':'/figures-epiques/', 'valid':False,
                          'error':'Photographies patrimoniales : '+str(error)}]
+    try:
+        behistun_results=verify_public_behistun(args.base, Path('_site'))
+    except Exception as error:
+        behistun_results=[{'url': BEHISTUN_PAGE, 'valid': False,
+                           'error': 'Contrôle Behistun : '+str(error)}]
     history_results=verify_public_history(args.base, Path('_site'))
-    failures=[r for r in results+svg_results+figure_results+recent_results+history_results if not r['valid']]
+    failures=[r for r in results+svg_results+figure_results+recent_results+behistun_results+history_results if not r['valid']]
     report={'checked_at':datetime.now(timezone.utc).isoformat(),'base_url':args.base,
-            'checked':len(results)+len(svg_results)+len(figure_results)+len(recent_results)+len(history_results),
+            'checked':len(results)+len(svg_results)+len(figure_results)+len(recent_results)+len(behistun_results)+len(history_results),
             'historical_checks':history_results, 'epic_figure_checks':recent_results, 'patrimonial_figure_checks':recent_results,
             'receipt_matches_build':receipt_ok,'svg_checks':svg_results,
-            'figure_checks':figure_results,'failures':failures,'results':results}
+            'figure_checks':figure_results,'behistun_checks':behistun_results,
+            'failures':failures,'results':results}
     Path(args.output).write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n')
     print('Pages publiques vérifiées :',len(results),' ; erreurs :',len(failures))
     if failures:raise RuntimeError(json.dumps(failures[:10],ensure_ascii=False))
