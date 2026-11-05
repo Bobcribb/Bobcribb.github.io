@@ -81,6 +81,23 @@ class LongScholarlyTocTests(unittest.TestCase):
         self.assertIsNone(doc.select_one('nav.mythos-scholarly-toc'))
         self.assertIsNotNone(doc.article.select_one('nav[aria-label]'))
 
+    def test_sommaire_de_lecture_existant_n_est_pas_double(self):
+        doc = self.sample('h2', 36)
+        # Les outils de lecture servent déjà un sommaire natif sur Éros.
+        # Même sans ses liens, ce conteneur doit bloquer tout doublon.
+        authored = BeautifulSoup(
+            '<details class="mythos-reading-toc" data-reading-owned="true">'
+            '<summary>Sommaire de lecture · 36 sections</summary>'
+            '<p>Navigation déjà disponible dans le lecteur</p></details>',
+            'html.parser'
+        )
+        doc.article.insert(0, authored)
+        before = str(doc.article)
+        add_scholarly_toc(doc, doc.main, 'chapitres/encyclopedie/test/index.html')
+        self.assertEqual(len(doc.select('.mythos-reading-toc')), 1)
+        self.assertIsNone(doc.select_one('nav.mythos-scholarly-toc'))
+        self.assertEqual(str(doc.article), before)
+
     def test_habillage_accessible_mobile(self):
         css = (ROOT / 'assets/mythos-museum.css').read_text(encoding='utf-8')
         self.assertIn('.mythos-scholarly-toc-disclosure>summary', css)

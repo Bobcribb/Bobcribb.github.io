@@ -102,8 +102,13 @@ def add_scholarly_toc(doc, main, rel):
         return
     for old in main.select('nav.mythos-scholarly-toc'):
         old.decompose()
-    # Ne pas doubler un sommaire d'auteur, ni déplacer ses références.
-    if article.select_one('.toc, .article-toc, .table-of-contents, nav[aria-label*="ommaire"]'):
+    # Les sommaires d'auteur et de lecture (amélioration progressive)
+    # prévalent sur la navigation générée. Un long chapitre tel qu'Éros
+    # à Thespies possède déjà un details.mythos-reading-toc complet.
+    if article.select_one(
+        '.toc, .article-toc, .table-of-contents, .mythos-reading-toc, '
+        'nav[aria-label*="ommaire"]'
+    ):
         return
     # Les renvois internes rédigés à la main doivent rester les premiers
     # liens vers leurs cibles, sans interposition d'une navigation générée.
