@@ -164,17 +164,22 @@ class RecentFigurePublicationTests(unittest.TestCase):
             return (200, kind, self.assets[path])
         return (200, "text/html", self.pages[path])
 
-    def test_all_forty_nine_documentary_figures_and_six_pages_verified(self):
+    def test_all_fifty_six_documentary_figures_and_eleven_pages_verified(self):
         pages, assets = live.recent_figure_inventory(self.root)
-        self.assertEqual(len(pages), 6)
+        self.assertEqual(len(pages), 11)
         self.assertEqual(len(pages["livre-iliade-scenes/index.html"]), 5)
         self.assertEqual(len(pages["livre-odyssee/index.html"]), 6)
-        self.assertEqual(len(pages["livre-hesiode/index.html"]), 6)
+        self.assertEqual(len(pages["livre-hesiode/index.html"]), 7)
         self.assertEqual(len(pages["philosophie-iliade.html"]), 11)
         self.assertEqual(len(pages["philosophie-odyssee.html"]), 11)
         self.assertEqual(len(pages["philosophie-theogonie.html"]), 10)
-        self.assertEqual(len(assets), 36)
-        self.assertEqual(sum(len(items) for items in pages.values()), 49)
+        self.assertEqual(len(pages["iliade/index.html"]), 1)
+        self.assertEqual(len(pages["odyssee/index.html"]), 1)
+        self.assertEqual(len(pages["osiris-abydos-cultes-textes-funeraires/index.html"]), 1)
+        self.assertEqual(len(pages["bibliotheque-egypte-ancienne/index.html"]), 2)
+        self.assertEqual(len(pages["gilgamesh-epopee-mort-deluge/index.html"]), 1)
+        self.assertEqual(len(assets), 40)
+        self.assertEqual(sum(len(items) for items in pages.values()), 56)
         # Rembrandt est réutilisé entre l’étude philosophique et le livre.
         shared = "/assets/illustrations-articles/met-437394-aristote-homere-rembrandt.webp"
         self.assertIn(shared, assets)
@@ -186,7 +191,7 @@ class RecentFigurePublicationTests(unittest.TestCase):
         # therefore produces fewer network checks than figure occurrences.
         self.assertEqual(len(report), len(pages) + len(assets))
         self.assertTrue(all(item["valid"] for item in report))
-        self.assertEqual(sum(item.get("figures_verified", 0) for item in report), 49)
+        self.assertEqual(sum(item.get("figures_verified", 0) for item in report), 56)
 
     def test_session_52_three_philosophy_illustrations_are_required_on_https(self):
         """Reject an outdated public figure or altered bytes for each new study illustration."""

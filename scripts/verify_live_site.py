@@ -311,6 +311,22 @@ RECENT_FIGURES = (
      "/assets/illustrations-articles/met-254648-athena-chouette-bronze.webp"),
     ("philosophie-theogonie.html", "icono-theogonie-apollon-leto-zeus-met-246408-20261105",
      "/assets/illustrations-articles/met-246408-apollon-bronze-romain.webp"),
+    # Séance 54 (livraison et complément) : contrôle HTTP des notices et octets WebP.
+    ("osiris-abydos-cultes-textes-funeraires/index.html", "icono-osiris-anubis-met-570675-20261105",
+     "/assets/illustrations-articles/met-570675-anubis-statuette.webp"),
+    ("bibliotheque-egypte-ancienne/index.html", "icono-egypte-thot-maat-met-544093-20261105",
+     "/assets/illustrations-articles/met-544093-thot-ibis-plume-maat.webp"),
+    ("bibliotheque-egypte-ancienne/index.html", "icono-egypte-maat-met-551794-20261105",
+     "/assets/illustrations-articles/met-551794-maat-faience-bleue.webp"),
+    ("gilgamesh-epopee-mort-deluge/index.html", "icono-gilgamesh-shamash-humbaba-sceau-met-327455-20261105",
+     "/assets/illustrations-articles/met-327455-shamash-sceau-hematite.webp"),
+    ("iliade/index.html", "icono-iliade-apollon-peste-met-246408-s54-20261105",
+     "/assets/illustrations-articles/met-246408-apollon-bronze-romain.webp"),
+    ("odyssee/index.html", "icono-odyssee-hermes-calypso-met-246679-s54-20261105",
+     "/assets/illustrations-articles/met-246679-hermes-bronze-aile.webp"),
+    ("livre-hesiode/index.html", "icono-hesiode-athena-metis-met-254648-s54-20261105",
+     "/assets/illustrations-articles/met-254648-athena-chouette-bronze.webp"),
+
 
 )
 

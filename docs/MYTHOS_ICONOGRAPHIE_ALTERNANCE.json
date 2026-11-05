@@ -8,7 +8,7 @@
     "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
     "previous_kind": "AUDIT ET CORRECTION",
     "next_kind": "AUDIT ET CORRECTION",
-    "scope": "Séance 54 : quatre photographies muséales documentées réparties dans trois dossiers existants (Osiris, bibliothèque égyptienne, Gilgamesh), avec légendes de provenance et garde-fous automatisés.",
+    "scope": "Séance 54 : quatre photographies muséales documentées réparties dans trois dossiers existants (Osiris, bibliothèque égyptienne, Gilgamesh), avec légendes de provenance et garde-fous automatisés. Complément sur trois lecteurs : Iliade (Apollon), Odyssée (Hermès), Théogonie (Athéna), sans répéter ni incrémenter la séance.",
     "basis_commit": "70cf84fa67d47a10b40c4ae45d7323ce2946b191",
     "selection": "Priorité aux pages moins illustrées après vérification du catalogue de pagination des grandes monographies : Iliade 107, Odyssée 101, Théogonie 103 pages d'analyse.",
     "figures": [
@@ -27,26 +27,64 @@
       {
         "page": "gilgamesh-epopee-mort-deluge/index.html",
         "id": "icono-gilgamesh-shamash-humbaba-sceau-met-327455-20261105"
+      },
+      {
+        "page": "iliade/index.html",
+        "id": "icono-iliade-apollon-peste-met-246408-s54-20261105"
+      },
+      {
+        "page": "odyssee/index.html",
+        "id": "icono-odyssee-hermes-calypso-met-246679-s54-20261105"
+      },
+      {
+        "page": "livre-hesiode/index.html",
+        "id": "icono-hesiode-athena-metis-met-254648-s54-20261105"
       }
     ],
-    "asset_provenance": "Metropolitan Museum of Art, inventaires 04.2.430, 21.6.51, 26.7.992 et 1991.368.1 ; objets du domaine public documentés dans assets/illustrations-articles/sources-met.json et consultés dans les notices institutionnelles. Réemploi de quatre WebP déjà sous contrôle de somme SHA-256.",
-    "checks": "Lecture de main, AGENTS.md et docs/PUBLICATION_CONCURRENTE.md ; 4 fichiers WebP présents sur main ; une seule figure et source par image et par page ; identifiants HTML sans doublon ; textes sources préservés à l'identique en retirant les nouvelles figures ; test de régression ajouté. Pas d’ajout de synthèse IA, photomontage ni illustration 2,5D.",
+    "asset_provenance": "Metropolitan Museum of Art, inventaires 04.2.430, 21.6.51, 26.7.992 et 1991.368.1 ; objets du domaine public documentés dans assets/illustrations-articles/sources-met.json et consultés dans les notices institutionnelles. Réemploi de quatre WebP déjà sous contrôle de somme SHA-256. Complément : Met 96.9.401 (Apollon, époque romaine), 97.22.1 (Hermès, hellénistique tardif/impérial), 50.11.1 (Athéna, vers 460 av. n. è.), notices originales Met consultées et images WebP préexistantes, CC0.",
+    "checks": "Lecture de main, AGENTS.md et docs/PUBLICATION_CONCURRENTE.md ; 4 fichiers WebP présents sur main ; une seule figure et source par image et par page ; identifiants HTML sans doublon ; textes sources préservés à l'identique en retirant les nouvelles figures ; test de régression ajouté. Pas d’ajout de synthèse IA, photomontage ni illustration 2,5D. Complément : précontrôle sur main des trois sections, sources, dimensions, ID HTML, ancres et absence de double usage d'un média par page ; ajout de sept figures de la séance 54 à RECENT_FIGURES et régressions de cohérence. Vérification CI et HTTPS post-commit nécessaire.",
     "changes": {
       "modified": [
         "osiris-abydos-cultes-textes-funeraires/index.html",
         "bibliotheque-egypte-ancienne/index.html",
         "gilgamesh-epopee-mort-deluge/index.html",
-        "docs/MYTHOS_ICONOGRAPHIE_ALTERNANCE.json"
+        "docs/MYTHOS_ICONOGRAPHIE_ALTERNANCE.json",
+        "iliade/index.html",
+        "odyssee/index.html",
+        "livre-hesiode/index.html",
+        "scripts/verify_live_site.py",
+        "tests/test_verify_live_site_assets.py"
       ],
       "added": [
-        "tests/test_audit_iconography_session54.py"
+        "tests/test_audit_iconography_session54.py",
+        "tests/test_iconography_session54_epics_addendum.py"
       ]
     },
     "preserved": "Textes universitaires existants, renvois et navigation, sommaires, dossiers, registres de numérotation, automatisations, CSS/JS, PDFs, binaires médias et planification intacts.",
     "publication_status": "Enregistrement sur main à vérifier après commit ; la version HTTPS ne peut être tenue pour publiée sans manifeste public récent et vérification des ressources.",
     "limitations": "Les tests de régression locaux n'ont pas été exécutés pendant la construction via l'API GitHub ; contrôles CI et rendu responsive réel restent à observer.",
     "commits": [],
-    "commit_note": "SHA de commit confirmé par lecture ultérieure de main."
+    "commit_note": "SHA de commit confirmé par lecture ultérieure de main.",
+    "continuation": {
+      "type": "Complément de la séance 54 déjà publiée dans le journal (sans nouvelle séance)",
+      "date": "2026-11-05",
+      "epic_pages": [
+        "iliade/index.html",
+        "odyssee/index.html",
+        "livre-hesiode/index.html"
+      ],
+      "figures_added": 3,
+      "existing_museum_images_added_to_https_guard": 4,
+      "additional_https_guard_entries": 7,
+      "expected_https_verification": {
+        "pages": 11,
+        "unique_binary_assets": 40,
+        "documentary_figures": 56
+      },
+      "museum_sources": "https://www.metmuseum.org/art/collection/search/{246408,246679,254648}",
+      "publication": "Aucune attestation de déploiement public ; contrôles à observer sur Actions et HTTPS.",
+      "planning": "Aucune modification des planifications horaires"
+    }
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
   "history": [
@@ -3119,7 +3157,7 @@
       "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
       "previous_kind": "AUDIT ET CORRECTION",
       "next_kind": "AUDIT ET CORRECTION",
-      "scope": "Séance 54 : quatre photographies muséales documentées réparties dans trois dossiers existants (Osiris, bibliothèque égyptienne, Gilgamesh), avec légendes de provenance et garde-fous automatisés.",
+      "scope": "Séance 54 : quatre photographies muséales documentées réparties dans trois dossiers existants (Osiris, bibliothèque égyptienne, Gilgamesh), avec légendes de provenance et garde-fous automatisés. Complément sur trois lecteurs : Iliade (Apollon), Odyssée (Hermès), Théogonie (Athéna), sans répéter ni incrémenter la séance.",
       "basis_commit": "70cf84fa67d47a10b40c4ae45d7323ce2946b191",
       "selection": "Priorité aux pages moins illustrées après vérification du catalogue de pagination des grandes monographies : Iliade 107, Odyssée 101, Théogonie 103 pages d'analyse.",
       "figures": [
@@ -3138,26 +3176,64 @@
         {
           "page": "gilgamesh-epopee-mort-deluge/index.html",
           "id": "icono-gilgamesh-shamash-humbaba-sceau-met-327455-20261105"
+        },
+        {
+          "page": "iliade/index.html",
+          "id": "icono-iliade-apollon-peste-met-246408-s54-20261105"
+        },
+        {
+          "page": "odyssee/index.html",
+          "id": "icono-odyssee-hermes-calypso-met-246679-s54-20261105"
+        },
+        {
+          "page": "livre-hesiode/index.html",
+          "id": "icono-hesiode-athena-metis-met-254648-s54-20261105"
         }
       ],
-      "asset_provenance": "Metropolitan Museum of Art, inventaires 04.2.430, 21.6.51, 26.7.992 et 1991.368.1 ; objets du domaine public documentés dans assets/illustrations-articles/sources-met.json et consultés dans les notices institutionnelles. Réemploi de quatre WebP déjà sous contrôle de somme SHA-256.",
-      "checks": "Lecture de main, AGENTS.md et docs/PUBLICATION_CONCURRENTE.md ; 4 fichiers WebP présents sur main ; une seule figure et source par image et par page ; identifiants HTML sans doublon ; textes sources préservés à l'identique en retirant les nouvelles figures ; test de régression ajouté. Pas d’ajout de synthèse IA, photomontage ni illustration 2,5D.",
+      "asset_provenance": "Metropolitan Museum of Art, inventaires 04.2.430, 21.6.51, 26.7.992 et 1991.368.1 ; objets du domaine public documentés dans assets/illustrations-articles/sources-met.json et consultés dans les notices institutionnelles. Réemploi de quatre WebP déjà sous contrôle de somme SHA-256. Complément : Met 96.9.401 (Apollon, époque romaine), 97.22.1 (Hermès, hellénistique tardif/impérial), 50.11.1 (Athéna, vers 460 av. n. è.), notices originales Met consultées et images WebP préexistantes, CC0.",
+      "checks": "Lecture de main, AGENTS.md et docs/PUBLICATION_CONCURRENTE.md ; 4 fichiers WebP présents sur main ; une seule figure et source par image et par page ; identifiants HTML sans doublon ; textes sources préservés à l'identique en retirant les nouvelles figures ; test de régression ajouté. Pas d’ajout de synthèse IA, photomontage ni illustration 2,5D. Complément : précontrôle sur main des trois sections, sources, dimensions, ID HTML, ancres et absence de double usage d'un média par page ; ajout de sept figures de la séance 54 à RECENT_FIGURES et régressions de cohérence. Vérification CI et HTTPS post-commit nécessaire.",
       "changes": {
         "modified": [
           "osiris-abydos-cultes-textes-funeraires/index.html",
           "bibliotheque-egypte-ancienne/index.html",
           "gilgamesh-epopee-mort-deluge/index.html",
-          "docs/MYTHOS_ICONOGRAPHIE_ALTERNANCE.json"
+          "docs/MYTHOS_ICONOGRAPHIE_ALTERNANCE.json",
+          "iliade/index.html",
+          "odyssee/index.html",
+          "livre-hesiode/index.html",
+          "scripts/verify_live_site.py",
+          "tests/test_verify_live_site_assets.py"
         ],
         "added": [
-          "tests/test_audit_iconography_session54.py"
+          "tests/test_audit_iconography_session54.py",
+          "tests/test_iconography_session54_epics_addendum.py"
         ]
       },
       "preserved": "Textes universitaires existants, renvois et navigation, sommaires, dossiers, registres de numérotation, automatisations, CSS/JS, PDFs, binaires médias et planification intacts.",
       "publication_status": "Enregistrement sur main à vérifier après commit ; la version HTTPS ne peut être tenue pour publiée sans manifeste public récent et vérification des ressources.",
       "limitations": "Les tests de régression locaux n'ont pas été exécutés pendant la construction via l'API GitHub ; contrôles CI et rendu responsive réel restent à observer.",
       "commits": [],
-      "commit_note": "SHA de commit confirmé par lecture ultérieure de main."
+      "commit_note": "SHA de commit confirmé par lecture ultérieure de main.",
+      "continuation": {
+        "type": "Complément de la séance 54 déjà publiée dans le journal (sans nouvelle séance)",
+        "date": "2026-11-05",
+        "epic_pages": [
+          "iliade/index.html",
+          "odyssee/index.html",
+          "livre-hesiode/index.html"
+        ],
+        "figures_added": 3,
+        "existing_museum_images_added_to_https_guard": 4,
+        "additional_https_guard_entries": 7,
+        "expected_https_verification": {
+          "pages": 11,
+          "unique_binary_assets": 40,
+          "documentary_figures": 56
+        },
+        "museum_sources": "https://www.metmuseum.org/art/collection/search/{246408,246679,254648}",
+        "publication": "Aucune attestation de déploiement public ; contrôles à observer sur Actions et HTTPS.",
+        "planning": "Aucune modification des planifications horaires"
+      }
     }
   ]
 }
