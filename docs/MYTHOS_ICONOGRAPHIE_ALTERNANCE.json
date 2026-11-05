@@ -5,86 +5,61 @@
   "branch": "main",
   "latest_session": {
     "date": "2026-11-05",
-    "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "previous_kind": "AUDIT ET CORRECTION",
-    "next_kind": "AUDIT ET CORRECTION",
-    "scope": "Séance 54 : quatre photographies muséales documentées réparties dans trois dossiers existants (Osiris, bibliothèque égyptienne, Gilgamesh), avec légendes de provenance et garde-fous automatisés. Complément sur trois lecteurs : Iliade (Apollon), Odyssée (Hermès), Théogonie (Athéna), sans répéter ni incrémenter la séance.",
-    "basis_commit": "70cf84fa67d47a10b40c4ae45d7323ce2946b191",
-    "selection": "Priorité aux pages moins illustrées après vérification du catalogue de pagination des grandes monographies : Iliade 107, Odyssée 101, Théogonie 103 pages d'analyse.",
-    "figures": [
+    "kind": "AUDIT ET CORRECTION",
+    "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "scope": "Séance 55 : audit post-enrichissement de la séance 54, correction du renvoi Athéna Lindia 438 → 433 bloquant la CI et pérennisation de la régression d'alternance.",
+    "basis_commit": "ffca7824e14f049419964e15764edc32ba901802",
+    "audit_evidence": {
+      "initial_audit_run_id": 42016620956,
+      "initial_audit_head": "c94637cdda117e9a5eab24fe63a475c300f38963",
+      "later_audit_run_id": 42018083177,
+      "reported_html_files": 1566,
+      "reported_local_links_checked": 137004,
+      "reported_fragment_links_checked": 40683,
+      "audit_hard_errors": 0,
+      "audit_warnings": 1,
+      "diagnosed_failure": "Broken internal href, page 438 vers ../chapitre-433-athena-lindia-rhodes-chronique-lindos-anathemes-epiphanies-danaides.md. Le '../' sort du dossier encyclopedie et resolve_chapter_links conserve alors une URL .md impropre à la publication.",
+      "confirmed_source_present": "chapitres/encyclopedie/chapitre-433-athena-lindia-rhodes-chronique-lindos-anathemes-epiphanies-danaides.md",
+      "verified_reciprocal_link": "Le chapitre 433 renvoie déjà vers le lecteur HTML canonique 438.",
+      "session54_generator_run": 42016620923,
+      "session54_generator_result": "success",
+      "public_figure_check": "Les nouvelles figures Apollon (Iliade), Hermès (Odyssée), Athéna (livre Hésiode) sont présentes dans les trois pages HTTPS (élément figure avec id, alt, légende et lien de provenance). Les empreintes binaires HTTP restent à vérifier.",
+      "public_manifest_observed_source_commit": "c46ff854a9c173783ac0801b62fea22aed44750f",
+      "public_manifest_limit": "Le manifeste observé précède ce correctif de la séance 55 ; il ne prouve pas le déploiement du lien rectifié."
+    },
+    "corrections": [
       {
-        "page": "osiris-abydos-cultes-textes-funeraires/index.html",
-        "id": "icono-osiris-anubis-met-570675-20261105"
+        "source": "chapitres/encyclopedie/chapitre-438-athena-lindia-chronique-lindos-danaides-offrandes-epiphanies-memoire.md",
+        "action": "Remplacer uniquement '../chapitre-433-...md' par 'chapitre-433-...md', cible située dans le même répertoire ; numéro et texte universitaire conservés."
       },
       {
-        "page": "bibliotheque-egypte-ancienne/index.html",
-        "id": "icono-egypte-thot-maat-met-544093-20261105"
+        "source": "chapitres/encyclopedie/chapitre-438-athena-lindia-chronique-lindos-danaides-offrandes-epiphanies-memoire/index.html",
+        "action": "Corriger l'unique href vers l'URL publique canonique du chapitre 433 ; aucun autre HTML modifié."
       },
       {
-        "page": "bibliotheque-egypte-ancienne/index.html",
-        "id": "icono-egypte-maat-met-551794-20261105"
+        "source": "tests/test_iconography_session54_epics_addendum.py",
+        "action": "Vérifier la séance historique 54 par son enregistrement dans history plutôt que supposer que latest_session lui restera égal."
       },
       {
-        "page": "gilgamesh-epopee-mort-deluge/index.html",
-        "id": "icono-gilgamesh-shamash-humbaba-sceau-met-327455-20261105"
-      },
-      {
-        "page": "iliade/index.html",
-        "id": "icono-iliade-apollon-peste-met-246408-s54-20261105"
-      },
-      {
-        "page": "odyssee/index.html",
-        "id": "icono-odyssee-hermes-calypso-met-246679-s54-20261105"
-      },
-      {
-        "page": "livre-hesiode/index.html",
-        "id": "icono-hesiode-athena-metis-met-254648-s54-20261105"
+        "source": "tests/test_audit_lindia_crosslink.py",
+        "action": "Ajouter régressions sur cible existante, conversion Markdown→HTML, lien aller-retour des chapitres 433/438 et conservation des numéros."
       }
     ],
-    "asset_provenance": "Metropolitan Museum of Art, inventaires 04.2.430, 21.6.51, 26.7.992 et 1991.368.1 ; objets du domaine public documentés dans assets/illustrations-articles/sources-met.json et consultés dans les notices institutionnelles. Réemploi de quatre WebP déjà sous contrôle de somme SHA-256. Complément : Met 96.9.401 (Apollon, époque romaine), 97.22.1 (Hermès, hellénistique tardif/impérial), 50.11.1 (Athéna, vers 460 av. n. è.), notices originales Met consultées et images WebP préexistantes, CC0.",
-    "checks": "Lecture de main, AGENTS.md et docs/PUBLICATION_CONCURRENTE.md ; 4 fichiers WebP présents sur main ; une seule figure et source par image et par page ; identifiants HTML sans doublon ; textes sources préservés à l'identique en retirant les nouvelles figures ; test de régression ajouté. Pas d’ajout de synthèse IA, photomontage ni illustration 2,5D. Complément : précontrôle sur main des trois sections, sources, dimensions, ID HTML, ancres et absence de double usage d'un média par page ; ajout de sept figures de la séance 54 à RECENT_FIGURES et régressions de cohérence. Vérification CI et HTTPS post-commit nécessaire.",
-    "changes": {
-      "modified": [
-        "osiris-abydos-cultes-textes-funeraires/index.html",
-        "bibliotheque-egypte-ancienne/index.html",
-        "gilgamesh-epopee-mort-deluge/index.html",
-        "docs/MYTHOS_ICONOGRAPHIE_ALTERNANCE.json",
-        "iliade/index.html",
-        "odyssee/index.html",
-        "livre-hesiode/index.html",
-        "scripts/verify_live_site.py",
-        "tests/test_verify_live_site_assets.py"
-      ],
-      "added": [
-        "tests/test_audit_iconography_session54.py",
-        "tests/test_iconography_session54_epics_addendum.py"
-      ]
-    },
-    "preserved": "Textes universitaires existants, renvois et navigation, sommaires, dossiers, registres de numérotation, automatisations, CSS/JS, PDFs, binaires médias et planification intacts.",
-    "publication_status": "Enregistrement sur main à vérifier après commit ; la version HTTPS ne peut être tenue pour publiée sans manifeste public récent et vérification des ressources.",
-    "limitations": "Les tests de régression locaux n'ont pas été exécutés pendant la construction via l'API GitHub ; contrôles CI et rendu responsive réel restent à observer.",
+    "modified_files": [
+      "chapitres/encyclopedie/chapitre-438-athena-lindia-chronique-lindos-danaides-offrandes-epiphanies-memoire.md",
+      "chapitres/encyclopedie/chapitre-438-athena-lindia-chronique-lindos-danaides-offrandes-epiphanies-memoire/index.html",
+      "tests/test_iconography_session54_epics_addendum.py",
+      "docs/MYTHOS_ICONOGRAPHIE_ALTERNANCE.json"
+    ],
+    "added_files": [
+      "tests/test_audit_lindia_crosslink.py"
+    ],
+    "guards": "Aucun registre de numérotation, reçu, chapitre nouveau, file éditoriale, planification, image, stylesheet, PDF ni workflow modifié. Le texte académique est conservé caractère pour caractère hors destination du lien unique.",
+    "checks_before_commit": "Un seul lien à corriger dans le Markdown et dans le HTML, destination source et lecteur présents sur main, retour 433→438 contrôlé, licences patrimoniales des 3 images retrouvées dans le manifeste institutionnel.",
+    "validation_status": "Corrections vérifiées statiquement avant commit. Suite CI / audit d'intégrité et publication HTTPS à confirmer après commit.",
     "commits": [],
-    "commit_note": "SHA de commit confirmé par lecture ultérieure de main.",
-    "continuation": {
-      "type": "Complément de la séance 54 déjà publiée dans le journal (sans nouvelle séance)",
-      "date": "2026-11-05",
-      "epic_pages": [
-        "iliade/index.html",
-        "odyssee/index.html",
-        "livre-hesiode/index.html"
-      ],
-      "figures_added": 3,
-      "existing_museum_images_added_to_https_guard": 4,
-      "additional_https_guard_entries": 7,
-      "expected_https_verification": {
-        "pages": 11,
-        "unique_binary_assets": 40,
-        "documentary_figures": 56
-      },
-      "museum_sources": "https://www.metmuseum.org/art/collection/search/{246408,246679,254648}",
-      "publication": "Aucune attestation de déploiement public ; contrôles à observer sur Actions et HTTPS.",
-      "planning": "Aucune modification des planifications horaires"
-    }
+    "commit_note": "SHA consultable dans l'historique GitHub après transaction ; aucune revendication anticipée de déploiement public."
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
   "history": [
@@ -3234,6 +3209,64 @@
         "publication": "Aucune attestation de déploiement public ; contrôles à observer sur Actions et HTTPS.",
         "planning": "Aucune modification des planifications horaires"
       }
+    },
+    {
+      "date": "2026-11-05",
+      "kind": "AUDIT ET CORRECTION",
+      "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "scope": "Séance 55 : audit post-enrichissement de la séance 54, correction du renvoi Athéna Lindia 438 → 433 bloquant la CI et pérennisation de la régression d'alternance.",
+      "basis_commit": "ffca7824e14f049419964e15764edc32ba901802",
+      "audit_evidence": {
+        "initial_audit_run_id": 42016620956,
+        "initial_audit_head": "c94637cdda117e9a5eab24fe63a475c300f38963",
+        "later_audit_run_id": 42018083177,
+        "reported_html_files": 1566,
+        "reported_local_links_checked": 137004,
+        "reported_fragment_links_checked": 40683,
+        "audit_hard_errors": 0,
+        "audit_warnings": 1,
+        "diagnosed_failure": "Broken internal href, page 438 vers ../chapitre-433-athena-lindia-rhodes-chronique-lindos-anathemes-epiphanies-danaides.md. Le '../' sort du dossier encyclopedie et resolve_chapter_links conserve alors une URL .md impropre à la publication.",
+        "confirmed_source_present": "chapitres/encyclopedie/chapitre-433-athena-lindia-rhodes-chronique-lindos-anathemes-epiphanies-danaides.md",
+        "verified_reciprocal_link": "Le chapitre 433 renvoie déjà vers le lecteur HTML canonique 438.",
+        "session54_generator_run": 42016620923,
+        "session54_generator_result": "success",
+        "public_figure_check": "Les nouvelles figures Apollon (Iliade), Hermès (Odyssée), Athéna (livre Hésiode) sont présentes dans les trois pages HTTPS (élément figure avec id, alt, légende et lien de provenance). Les empreintes binaires HTTP restent à vérifier.",
+        "public_manifest_observed_source_commit": "c46ff854a9c173783ac0801b62fea22aed44750f",
+        "public_manifest_limit": "Le manifeste observé précède ce correctif de la séance 55 ; il ne prouve pas le déploiement du lien rectifié."
+      },
+      "corrections": [
+        {
+          "source": "chapitres/encyclopedie/chapitre-438-athena-lindia-chronique-lindos-danaides-offrandes-epiphanies-memoire.md",
+          "action": "Remplacer uniquement '../chapitre-433-...md' par 'chapitre-433-...md', cible située dans le même répertoire ; numéro et texte universitaire conservés."
+        },
+        {
+          "source": "chapitres/encyclopedie/chapitre-438-athena-lindia-chronique-lindos-danaides-offrandes-epiphanies-memoire/index.html",
+          "action": "Corriger l'unique href vers l'URL publique canonique du chapitre 433 ; aucun autre HTML modifié."
+        },
+        {
+          "source": "tests/test_iconography_session54_epics_addendum.py",
+          "action": "Vérifier la séance historique 54 par son enregistrement dans history plutôt que supposer que latest_session lui restera égal."
+        },
+        {
+          "source": "tests/test_audit_lindia_crosslink.py",
+          "action": "Ajouter régressions sur cible existante, conversion Markdown→HTML, lien aller-retour des chapitres 433/438 et conservation des numéros."
+        }
+      ],
+      "modified_files": [
+        "chapitres/encyclopedie/chapitre-438-athena-lindia-chronique-lindos-danaides-offrandes-epiphanies-memoire.md",
+        "chapitres/encyclopedie/chapitre-438-athena-lindia-chronique-lindos-danaides-offrandes-epiphanies-memoire/index.html",
+        "tests/test_iconography_session54_epics_addendum.py",
+        "docs/MYTHOS_ICONOGRAPHIE_ALTERNANCE.json"
+      ],
+      "added_files": [
+        "tests/test_audit_lindia_crosslink.py"
+      ],
+      "guards": "Aucun registre de numérotation, reçu, chapitre nouveau, file éditoriale, planification, image, stylesheet, PDF ni workflow modifié. Le texte académique est conservé caractère pour caractère hors destination du lien unique.",
+      "checks_before_commit": "Un seul lien à corriger dans le Markdown et dans le HTML, destination source et lecteur présents sur main, retour 433→438 contrôlé, licences patrimoniales des 3 images retrouvées dans le manifeste institutionnel.",
+      "validation_status": "Corrections vérifiées statiquement avant commit. Suite CI / audit d'intégrité et publication HTTPS à confirmer après commit.",
+      "commits": [],
+      "commit_note": "SHA consultable dans l'historique GitHub après transaction ; aucune revendication anticipée de déploiement public."
     }
   ]
 }
