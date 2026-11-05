@@ -1154,9 +1154,13 @@ def create_comparative_mythology(entries):
     # La taxonomie par mots-clés est une aide à la navigation, pas une liste exhaustive.
     # Conserver un lien pour chaque monographie comparative dont aucun axe ne reconnaît le titre.
     # Aucun manuscrit, numéro historique ou numéro canonique n'est modifié.
-    others = [e for e in entries
-              if e.get("url", "").startswith("/chapitres/comparatif/")
-              and e["url"] not in assigned]
+    others = []
+    seen = set(assigned)
+    for e in entries:
+        url = e.get("url", "")
+        if url.startswith("/chapitres/comparatif/") and url not in seen:
+            others.append(e)
+            seen.add(url)
     others.sort(key=lambda e: (e.get("title") or e["url"]).casefold())
     body+=('<section class="comparison-section" id="comparaison-autres">'
            '<h2>Autres monographies comparatives</h2>'
