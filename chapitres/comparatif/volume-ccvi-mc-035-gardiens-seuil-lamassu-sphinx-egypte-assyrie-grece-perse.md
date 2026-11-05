@@ -4,8 +4,8 @@
 
 **Rédaction :** 4 novembre 2026.  
 **Collection :** MYTHOS — mythologie comparée, philologie, archéologie de l'architecture, philosophie politique et histoire des religions.  
-**État :** manuscrit universitaire complet destiné à la publication par la file éditoriale GitHub. **L'enregistrement du présent fichier n'est ni l'attribution d'un numéro romain canonique ni la preuve de sa mise en ligne sur bobmythos.fr**.  
-**Continuité :** MC-024 à MC-034 doivent être recherchés dans la branche \`main\` avant toute numérotation ; MC-034 a reçu le volume canonique CCIV (204). Les dossiers comparatifs nouveaux sont identifiés par un code historique MC distinct du numéro romain attribué transactionnellement ; aucune renumérotation d'un texte ancien n'est demandée.
+**État éditorial vérifié :** attribution canonique CCVI (206) enregistrée dans `editorial/numbering.json` pour la demande historique MC-035 (UUID `13bace85-91d4-43af-9dd2-a7bd28d9e410`). **L'attribution GitHub et la présence au sommaire ne prouvent pas, à elles seules, le déploiement effectif sur bobmythos.fr.**  
+**Continuité :** la branche `main` et ses reçus transactionnels ont été consultés : MC-034 conserve le volume canonique CCIV (204), et le présent dossier MC-035 conserve CCVI (206). Le code historique MC reste distinct du numéro romain attribué ; aucune renumérotation d'un texte ancien n'est demandée.
 
 ### Résumé
 
