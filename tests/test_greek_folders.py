@@ -241,6 +241,83 @@ class GreekFolderTests(unittest.TestCase):
                     self.assertEqual(set(links), expected - {url})
                     self.assertEqual(len(links), 2)
 
+    def test_paphos_full_study_enters_greek_catalogue_without_copying_any_source(self):
+        from build_greek_folders import APHRODITE_STUDIES
+        from build_greek_corpus import RELATED
+        root = Path(__file__).resolve().parents[1]
+        urls = {url for url, _, _ in APHRODITE_STUDIES}
+        self.assertEqual(len(urls), 3)
+        paphos = APHRODITE_STUDIES[2][0]
+        self.assertIn(paphos, {url for _, url in RELATED})
+        self.assertEqual(
+            classify(paphos, 'Aphrodite citée dans plusieurs sources',
+                     'Lecture associée'),
+            ('cultes-sanctuaires', 'Palaepaphos — Aphrodite et histoire du sanctuaire'))
+        self.assertEqual(classify(APHRODITE_STUDIES[0][0],
+                                  'Monographie intégrale', 'Étude')[0], 'divinites')
+        self.assertEqual(classify(APHRODITE_STUDIES[1][0],
+                                  'Sappho', 'Dossier documentaire')[0], 'sources-anciennes')
+        for url in urls:
+            path = root / url.lstrip('/')
+            if url.endswith('/'):
+                path /= 'index.html'
+            self.assertTrue(path.is_file(), url)
+            html = path.read_text(encoding='utf-8')
+            self.assertGreater(len(html), 18000, url)
+            self.assertTrue('bibliograph' in html.lower() or
+                            'sources académiques' in html.lower(), url)
+
+    def test_aphrodite_paphos_sappho_links_are_reciprocal_and_idempotent(self):
+        from build_greek_folders import APHRODITE_STUDIES
+        with TemporaryDirectory() as temporary:
+            out = Path(temporary)
+            originals = {}
+            for url, title, _ in APHRODITE_STUDIES:
+                page = out / url.lstrip('/')
+                if url.endswith('/'):
+                    page /= 'index.html'
+                page.parent.mkdir(parents=True, exist_ok=True)
+                page.write_text(
+                    '<html><head><title>Étude intégrale</title></head><body>'
+                    '<main><article class="content"><h1>' + title + '</h1>'
+                    '<section><p>Source antique, appareil critique et bibliographie '
+                    'conservés. Aphrodite ≠ histoire du sanctuaire.</p></section>'
+                    '</article></main></body></html>', encoding='utf-8')
+                originals[url] = str(BeautifulSoup(page.read_text(encoding='utf-8'),
+                                                   'html.parser').article)
+            groups = [
+                ('Monographie', 'grec-monographies',
+                 [(APHRODITE_STUDIES[0][0], APHRODITE_STUDIES[0][1])]),
+                ('Dossier de sources', 'grec-dossiers',
+                 [(APHRODITE_STUDIES[1][0], APHRODITE_STUDIES[1][1])]),
+                ('Civilisation déjà publiée', 'grec-liens',
+                 [(APHRODITE_STUDIES[2][0], APHRODITE_STUDIES[2][1])]),
+            ]
+            urls = {u for u, _, _ in APHRODITE_STUDIES}
+            for _ in range(2):
+                rows = build(out, groups, [], [])
+                verify(out, urls)
+                self.assertEqual({r['url'] for r in rows}, urls)
+                self.assertEqual(len(rows), 3)
+                for url in urls:
+                    page = out / url.lstrip('/')
+                    if url.endswith('/'):
+                        page /= 'index.html'
+                    doc = BeautifulSoup(page.read_text(encoding='utf-8'),
+                                        'html.parser')
+                    self.assertEqual(str(doc.article), originals[url], url)
+                    self.assertEqual(len(doc.select('nav[data-greek-folder-nav]')), 1)
+                    boxes = doc.select('aside[data-greek-cross-readings="aphrodite"]')
+                    self.assertEqual(len(boxes), 1, url)
+                    links = [a['href'] for a in boxes[0].select('a[href]')]
+                    self.assertEqual(set(links), urls - {url})
+                    self.assertEqual(len(links), 2)
+            folder = BeautifulSoup(
+                (out / BASE.strip('/') / 'cultes-sanctuaires/index.html')
+                .read_text(encoding='utf-8'), 'html.parser')
+            self.assertIsNotNone(folder.select_one(
+                'a[data-greek-entry][href="' + APHRODITE_STUDIES[2][0] + '"]'))
+
     def test_one_home_per_destination_with_separate_book_sections(self):
         groups = [('Livres', 'grec-livres', [('/livre-thebes/', 'Thèbes')]),
                   ('Encore le livre', 'grec-dossiers', [('/livre-thebes/', 'Autre titre')])]
