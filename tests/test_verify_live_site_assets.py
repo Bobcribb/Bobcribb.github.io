@@ -164,17 +164,17 @@ class RecentFigurePublicationTests(unittest.TestCase):
             return (200, kind, self.assets[path])
         return (200, "text/html", self.pages[path])
 
-    def test_all_forty_documentary_figures_and_six_pages_verified(self):
+    def test_all_forty_three_documentary_figures_and_six_pages_verified(self):
         pages, assets = live.recent_figure_inventory(self.root)
         self.assertEqual(len(pages), 6)
         self.assertEqual(len(pages["livre-iliade-scenes/index.html"]), 4)
         self.assertEqual(len(pages["livre-odyssee/index.html"]), 5)
         self.assertEqual(len(pages["livre-hesiode/index.html"]), 5)
-        self.assertEqual(len(pages["philosophie-iliade.html"]), 9)
-        self.assertEqual(len(pages["philosophie-odyssee.html"]), 9)
-        self.assertEqual(len(pages["philosophie-theogonie.html"]), 8)
-        self.assertEqual(len(assets), 32)
-        self.assertEqual(sum(len(items) for items in pages.values()), 40)
+        self.assertEqual(len(pages["philosophie-iliade.html"]), 10)
+        self.assertEqual(len(pages["philosophie-odyssee.html"]), 10)
+        self.assertEqual(len(pages["philosophie-theogonie.html"]), 9)
+        self.assertEqual(len(assets), 35)
+        self.assertEqual(sum(len(items) for items in pages.values()), 43)
         # Rembrandt est réutilisé entre l’étude philosophique et le livre.
         shared = "/assets/illustrations-articles/met-437394-aristote-homere-rembrandt.webp"
         self.assertIn(shared, assets)
@@ -186,7 +186,7 @@ class RecentFigurePublicationTests(unittest.TestCase):
         # therefore produces fewer network checks than figure occurrences.
         self.assertEqual(len(report), len(pages) + len(assets))
         self.assertTrue(all(item["valid"] for item in report))
-        self.assertEqual(sum(item.get("figures_verified", 0) for item in report), 40)
+        self.assertEqual(sum(item.get("figures_verified", 0) for item in report), 43)
 
     def test_session_42_scientific_figures_fail_on_stale_page_or_tampered_webp(self):
         """Three Met notices and binary assets must appear unchanged on HTTPS."""
