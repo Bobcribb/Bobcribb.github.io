@@ -244,6 +244,14 @@ def classify(url, title, kind):
             ('cultes-sanctuaires', 'Thrace — Kazanlak, royaume odryse et rites funéraires'),
         'bibliotheque-mythologies-du-monde/civilisations-empire-seleucide-antiochos':
             ('sources-anciennes', 'Empire séleucide — cités, inscriptions et chroniques'),
+        'bibliotheque-mythologies-du-monde/civilisations-egypte-ptolemaique-alexandrie':
+            ('cultes-sanctuaires', 'Alexandrie — Sérapis, Isis et institutions lagides'),
+        'bibliotheque-mythologies-du-monde/civilisations-histoire-etrusques':
+            ('sources-anciennes', 'Étrurie — images grecques, divination et épigraphie'),
+        'bibliotheque-mythologies-du-monde/civilisations-histoire-iran-perse':
+            ('sources-anciennes', 'Iran achéménide — inscriptions royales et sources grecques'),
+        'bibliotheque-mythologies-du-monde/civilisations-histoire-hittites-anatolie':
+            ('sources-anciennes', 'Hattousa — archives, Kumarbi et traditions de succession'),
     }
     if slug in history_homes:
         return history_homes[slug]
@@ -390,6 +398,25 @@ ANATOLIA_THRACE_STUDIES = (
     ('/bibliotheque-mythologies-du-monde/civilisations-empire-seleucide-antiochos/',
      'Empire séleucide — de Séleucos aux Antiochos',
      'Cités hellénistiques, traditions mésopotamiennes et rois grecs.'),
+)
+
+
+# Quatre études publiques intégrales, chacune à son adresse patrimoniale.
+# La comparaison porte sur la réception et les sources, et n'affirme
+# ni filiation religieuse automatique ni équivalence des panthéons.
+TRANSMISSION_STUDIES = (
+    ('/bibliotheque-mythologies-du-monde/civilisations-egypte-ptolemaique-alexandrie/',
+     'Égypte ptolémaïque — Alexandrie et Sérapis',
+     'Dynastie lagide, pratiques religieuses égyptiennes et royauté hellénistique.'),
+    ('/bibliotheque-mythologies-du-monde/civilisations-histoire-etrusques/',
+     'Étrusques — cités, iconographie et divination',
+     'Écriture, représentations de mythes grecs et traditions rituelles locales.'),
+    ('/bibliotheque-mythologies-du-monde/civilisations-histoire-iran-perse/',
+     'Iran ancien — Achéménides et sources grecques',
+     'Archives impériales, Persépolis et regards d’Hérodote sur l’empire perse.'),
+    ('/bibliotheque-mythologies-du-monde/civilisations-histoire-hittites-anatolie/',
+     'Hittites — Hattousa, Kumarbi et traditions anatoliennes',
+     'Textes de succession divine, archives hittites et comparaison avec Hésiode.'),
 )
 
 
@@ -580,12 +607,14 @@ def build(out, groups, sections, books, root=None):
                     if any(row['url'] == url for row in rows)}
     border_urls = {url for url, _, _ in ANATOLIA_THRACE_STUDIES
                    if any(row['url'] == url for row in rows)}
+    transmission_urls = {url for url, _, _ in TRANSMISSION_STUDIES
+                         if any(row['url'] == url for row in rows)}
     # Return links stay outside the article, leaving its scholarly text untouched.
     for row in rows:
         if (row['kind'] not in ('Chapitre universitaire', 'Livre', 'Notice', 'Étude')
                 and row['url'] not in ({DELPHES_STUDIES[0][0],
                                        APHRODITE_STUDIES[1][0],
-                                       APHRODITE_STUDIES[2][0]} | history_urls | contact_urls | border_urls)):
+                                       APHRODITE_STUDIES[2][0]} | history_urls | contact_urls | border_urls | transmission_urls)):
             continue
         page = out / row['url'].lstrip('/')
         if row['url'].endswith('/'):
@@ -750,6 +779,27 @@ def build(out, groups, sections, books, root=None):
                     'Aucune continuité cultuelle n’est présumée.</p>'
                     '<ul>' + links + '</ul></aside>', 'html.parser').aside
                 main.append(box)
+        if row['url'] in transmission_urls:
+            companions = [(url, title, context) for url, title, context
+                          in TRANSMISSION_STUDIES
+                          if url in transmission_urls and url != row['url']]
+            if companions:
+                links = ''.join(
+                    '<li><a href="' + escape(url, quote=True) + '">' +
+                    escape(title) + '</a><small>' + escape(context) +
+                    '</small></li>' for url, title, context in companions)
+                box = BeautifulSoup(
+                    '<aside class="greek-cross-readings" '
+                    'data-greek-cross-readings="transmissions" '
+                    'aria-label="Transmissions et regards entre cultures antiques">'
+                    '<h2>Mondes grecs : transferts, lectures et sources</h2>'
+                    '<p>Quatre études universitaires intégrales : les Lagides '
+                    'd’Égypte, les Étrusques, l’empire perse et l’Anatolie '
+                    'hittite. Les rapprochements sont documentaires ; ils '
+                    'n’impliquent ni identité des cultes ni transmission '
+                    'directe de chaque récit.</p><ul>' + links +
+                    '</ul></aside>', 'html.parser').aside
+                main.append(box)
         page.write_text(str(doc), encoding='utf-8')
     for slug, title, description in FOLDERS:
         members = [r for r in rows if r['folder'] == slug]
@@ -904,6 +954,18 @@ def verify(out, expected_urls):
             actual = [a['href'] for a in panels[0].select('a[href]')]
             assert set(actual) == border_urls - {url}, 'Lectures frontières incomplètes : ' + url
             assert len(actual) == len(set(actual)), 'Lien frontières répété : ' + url
+    transmission_urls = {url for url, _, _ in TRANSMISSION_STUDIES
+                         if url in expected_urls}
+    if len(transmission_urls) > 1:
+        for url in transmission_urls:
+            page = out / url.lstrip('/') / 'index.html'
+            assert page.is_file(), 'Étude de transmission introuvable : ' + url
+            doc = BeautifulSoup(page.read_text(encoding='utf-8'), 'html.parser')
+            panels = doc.select('aside[data-greek-cross-readings="transmissions"]')
+            assert len(panels) == 1, 'Parcours de transmission manquant/dupliqué : ' + url
+            actual = [a['href'] for a in panels[0].select('a[href]')]
+            assert set(actual) == transmission_urls - {url}, 'Parcours de transmission incomplet : ' + url
+            assert len(actual) == len(set(actual)), 'Lien de transmission répété : ' + url
     assert set(assignments) == set(expected_urls), 'Classement incomplet ou inattendu : '+str(set(assignments) ^ set(expected_urls))
     assert all(n == 1 for n in assignments.values()), 'Texte classé plusieurs fois dans les dossiers'
     print('Dossiers grecs vérifiés :', len(assignments), 'destinations uniques, tous les textes et toutes les sections accessibles')
