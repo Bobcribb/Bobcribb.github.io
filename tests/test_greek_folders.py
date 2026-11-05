@@ -180,6 +180,64 @@ class GreekFolderTests(unittest.TestCase):
                     self.assertEqual(set(links), expected_urls - {url})
                     self.assertEqual(len(links), 3)
 
+    def test_delphes_philosophy_study_is_classified_and_linked_reciprocally(self):
+        from build_greek_folders import DELPHES_STUDIES
+        from build_greek_corpus import RELATED
+        root = Path(__file__).resolve().parents[1]
+        socrates = DELPHES_STUDIES[0][0]
+        self.assertIn(socrates, {url for _, url in RELATED})
+        self.assertEqual(
+            classify(socrates, 'Socrate et l’oracle de Delphes', 'Lecture associée'),
+            ('interpretations-philosophiques', 'Socrate — oracle, enquête et sagesse'))
+        self.assertTrue((root / 'assets/philosophie/'
+                         'socrate-oracle-delphes-paradoxe-sagesse-2026.pdf').is_file())
+        for url, _, _ in DELPHES_STUDIES:
+            source = root / (url.strip('/') + '.md')
+            manuscript = source.read_text(encoding='utf-8')
+            self.assertGreater(len(manuscript), 14000, str(source))
+            self.assertIn('bibliograph', manuscript.lower(), str(source))
+            self.assertTrue((root / url.strip('/') / 'index.html').is_file(), url)
+        with TemporaryDirectory() as temporary:
+            out = Path(temporary)
+            originals = {}
+            for url, title, _ in DELPHES_STUDIES:
+                page = out / url.strip('/') / 'index.html'
+                page.parent.mkdir(parents=True, exist_ok=True)
+                page.write_text(
+                    '<html><head><title>Étude</title></head><body><main>'
+                    '<article class="content"><h1>' + title + '</h1>'
+                    '<p>Texte intégral conservé, sources, bibliographie et annexes.</p>'
+                    '</article></main></body></html>', encoding='utf-8')
+                originals[url] = str(BeautifulSoup(page.read_text(encoding='utf-8'),
+                                                   'html.parser').article)
+            groups = [
+                ('Delphes', 'grec-universitaire',
+                 [(url, title) for url, title, _ in DELPHES_STUDIES[1:]]),
+                ('Philosophie', 'grec-liens',
+                 [(DELPHES_STUDIES[0][0], DELPHES_STUDIES[0][1])]),
+            ]
+            expected = {url for url, _, _ in DELPHES_STUDIES}
+            for _ in range(2):
+                rows = build(out, groups, [], [])
+                self.assertEqual({r['url'] for r in rows}, expected)
+                verify(out, expected)
+                folder = BeautifulSoup(
+                    (out / BASE.strip('/') /
+                     'interpretations-philosophiques/index.html').read_text(encoding='utf-8'),
+                    'html.parser')
+                self.assertIsNotNone(folder.select_one(
+                    'a[data-greek-entry][href="' + socrates + '"]'))
+                for url in expected:
+                    doc = BeautifulSoup((out / url.strip('/') / 'index.html')
+                                        .read_text(encoding='utf-8'), 'html.parser')
+                    self.assertEqual(str(doc.article), originals[url])
+                    self.assertEqual(len(doc.select('nav[data-greek-folder-nav]')), 1)
+                    panels = doc.select('aside[data-greek-cross-readings="delphes"]')
+                    self.assertEqual(len(panels), 1, url)
+                    links = [a['href'] for a in panels[0].select('a[href]')]
+                    self.assertEqual(set(links), expected - {url})
+                    self.assertEqual(len(links), 2)
+
     def test_one_home_per_destination_with_separate_book_sections(self):
         groups = [('Livres', 'grec-livres', [('/livre-thebes/', 'Thèbes')]),
                   ('Encore le livre', 'grec-dossiers', [('/livre-thebes/', 'Autre titre')])]
