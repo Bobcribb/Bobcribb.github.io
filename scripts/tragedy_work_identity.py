@@ -175,8 +175,13 @@ def _apply_json_index(root, path):
     rows = (data["collections"]["tragedies"] if path.name == "numbering.json"
             else data["entries"] if path.name == "entries.json" else data)
     annotate_search(root, rows)
-    path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n",
-                    encoding="utf-8")
+    # Preserve each generated index's serialization to avoid rewriting every
+    # unrelated record in the deployed catalogue on each hourly build.
+    if path.name == "numbering.json":
+        serialized = json.dumps(data, ensure_ascii=False, indent=2)
+    else:
+        serialized = json.dumps(data, ensure_ascii=False, separators=(",", ":"))
+    path.write_text(serialized + "\n", encoding="utf-8")
 
 
 def _note(key, group, members):
