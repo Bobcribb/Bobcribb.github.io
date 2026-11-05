@@ -84,6 +84,10 @@
     "b8500850-0bad-4085-8085-202611050085": {
       "request_sha256": "1126ce5bbb6cbda8ae180895317bdb8bb303aa1e3c1b8cc738e122a5bc371e0f",
       "reason": "Collision historique MC-085 vérifiée après le dépôt de la présente soumission (commit ec34260f5fe6834146ec580bf9343bf3c844a0cd, 5 novembre 2026 à 15:04 UTC). Une soumission antérieure, éditorialement réconciliée sous MC-085 au commit a8d3622d714cb488e051c276601c05aef47ca32b (15:02 UTC), porte sur « Accorder les jours : calendriers sacrés ». Préserver le présent manuscrit sur « Les dieux dorment-ils ? », son UUID et son empreinte SHA-256 sans attribution canonique sous MC-085 ; le même travail est réémis avec cote corrigée MC-086 dans la file, sous un UUID distinct. Ne pas créer deux volumes identifiés MC-085, ni modifier les sources originales, ni supprimer la demande en attente."
+    },
+    "b8600860-0bad-4086-8086-202611050086": {
+      "request_sha256": "000000008e37a60c70d6158100e91d88188ad67e6b82a97299236ee52273ac62",
+      "reason": "Contrôle approfondi anti-doublon du 5 novembre 2026 : ce texte « Les dieux dorment-ils ? » sous MC-086 reproduit presque exactement le sujet et les sources primaires d'un volume publié dans la collection sous MC-057, volume CCXXXVII (237), « Quand les dieux dorment : sommeil divin, veille cosmique, vulnérabilité du pouvoir et politique du réveil ». Ne pas allouer une seconde publication canonique pour un sujet déjà traité. Préserver ce manuscrit autonome, sa première erreur historique MC-085 également mise en attente et les empreintes intactes ; réattribuer MC-086 à une étude distincte « L'empreinte des dieux : pas, traces, lieux et présence » sous un nouveau UUID. Ne toucher ni MC-057 ni MC-085 ni les autres séries MYTHOS."
     }
   }
 }
