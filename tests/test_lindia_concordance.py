@@ -8,6 +8,7 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "scripts"))
 from build_greek_folders import classify, LINDIA_433, LINDIA_438, LINDIA_NOTICE
 from build_native import annotate_lindia_search
+from build_greek_corpus import primary_folder_urls
 
 class LindiaConcordanceTests(unittest.TestCase):
     def test_same_thematic_section_and_unique_urls(self):
@@ -18,6 +19,16 @@ class LindiaConcordanceTests(unittest.TestCase):
             self.assertIn("Lindos", section)
         self.assertEqual(classify(LINDIA_433, "", "Chapitre universitaire"),
                          classify(LINDIA_438, "", "Chapitre universitaire"))
+
+    def test_concordance_is_a_secondary_link_not_a_third_thematic_assignment(self):
+        """Two primary monographs; their shared notice remains independently readable."""
+        catalogue = {LINDIA_433, LINDIA_438, LINDIA_NOTICE}
+        self.assertEqual(primary_folder_urls(catalogue), {LINDIA_433, LINDIA_438})
+        self.assertEqual(
+            primary_folder_urls(catalogue | {"#concordance-athena-lindia",
+                                            "https://example.org/ancient-source"}),
+            {LINDIA_433, LINDIA_438},
+        )
 
     def test_search_retains_two_distinct_entries(self):
         entries = [
