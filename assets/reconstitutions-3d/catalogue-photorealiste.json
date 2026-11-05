@@ -2,7 +2,7 @@
   "generated_at": "2026-11-05",
   "site": "bobmythos.fr",
   "method": "Illustrations photoréalistes interprétatives, textes et sources hors des pixels.",
-  "count": 52,
+  "count": 53,
   "entries": [
     {
       "id": "DEL-PAN-001",
@@ -1083,6 +1083,46 @@
       "provenance": "Image originale produite pour MYTHOS par génération d’image et conversion WebP, sans menus, texte, titre ni filigrane dans les pixels. Les organismes et travaux cités documentent le temple ; ils ne valident pas ce rendu.",
       "sha256": "69b757d1ab9213186cacd7ebe27882c096fb639c7d2ee7074766289a2629602d",
       "scientific_notice": "/assets/reconstitutions-3d/notices/selinonte-temple-e-vers-450-av-jc.json"
+    },
+    {
+      "id": "PAE-HER-II-001",
+      "slug": "paestum-poseidonia-second-temple-hera-vers-460-av-jc",
+      "title": "Paestum (Poseidonia) — second temple d’Héra, dit temple de Neptune, vers 460 av. J.-C.",
+      "period": "Vers 460 av. J.-C. (achèvement du monument selon le parc archéologique ; restitution non métrique de la phase grecque classique).",
+      "caption": "Vue numérique photoréaliste interprétative du second temple d’Héra de Poseidonia-Paestum (dit « temple de Neptune »), en Campanie, avec restitution hypothétique de la toiture et des surfaces peintes.",
+      "commentary": "Dans la cité grecque de Poseidonia (future Paestum), le monument traditionnellement appelé « temple de Neptune » ou « second temple d’Héra » constitue l’un des grands exemples d’architecture dorique d’Occident. Le parc archéologique date son achèvement d’environ 460 av. J.-C. Son péristyle présente six colonnes sur les petits côtés et quatorze sur les longs côtés ; l’entablement comporte architrave, triglyphes et métopes non sculptées, peut-être peintes. Derrière le pronaos se trouve la cella à murs de pierre, divisée à l’origine en trois nefs par deux rangées superposées de colonnes doriques ; l’opisthodome est accessible de l’extérieur. Les vestiges monumentaux autorisent une restitution du volume général, non l’assurance sur les toitures complètes et leurs couleurs. Le nom traditionnel de « Neptune » ne constitue pas une preuve d’une dédicace à Poséidon ; l’expression « second temple d’Héra » reste un usage de l’historiographie et ne doit pas être lue comme une inscription dédicatoire certaine. Les joints, nuances du calcaire, pigments, tuiles, couronnement, parvis, aménagements paysagers et personnages sont des choix d’interprétation visuelle. Le modèle figuré n’est pas une photogrammétrie, et la projection ne garantit ni les dimensions, ni le nombre de colonnes visibles selon la perspective, ni les détails d’exécution antique. Le décor humain et l’atmosphère sont évocateurs, sans prétention documentaire.",
+      "certainty": "Élevé : localisation à Poseidonia-Paestum, édifice périptère dorique conservé, disposition 6 × 14 du péristyle, chronologie générale du milieu du Ve siècle av. J.-C. et éléments d’entablement. Moyen : organisation interne reconstruite à partir des vestiges, enduits et couleurs générales, élévation proposée de la couverture. Faible : détail exact des tuiles et pigments, toiture intégralement restituée, fronton, aménagements des alentours, personnages, paysage et lumière, attribution cultuelle précise.",
+      "source_url": "https://parchipaestumvelia.cultura.gov.it/en/scopri-i-parchi/archeological-area-of-paestum/",
+      "secondary_sources": [
+        "https://parchipaestumvelia.cultura.gov.it/en/the-story-of-paestum/",
+        "https://www.cambridge.org/core/journals/journal-of-hellenic-studies/article/abs/second-temple-of-hera-at-paestum-and-the-pronaos-problem/D4526A7539811A59341516CE34C59185",
+        "https://parchipaestumvelia.cultura.gov.it/scopri-i-parchi/area-archeologica-di-paestum/"
+      ],
+      "src": "/assets/reconstitutions-3d/paestum-poseidonia-second-temple-hera-vers-460-av-jc.webp",
+      "image": "/assets/reconstitutions-3d/paestum-poseidonia-second-temple-hera-vers-460-av-jc.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-05",
+      "type": "vue de synthèse photoréaliste à apparence 3D, interprétative et non métrique",
+      "provenance": "Image originale générée pour MYTHOS et transcodée en WebP. Sans menu, texte, bouton, légende ni filigrane dans les pixels. Les institutions et travaux cités documentent le monument ; ils ne valident pas cette image.",
+      "sha256": "59cc41086c3d63dd17214b8bcd2981d961bba8f301ffa608796d9f33d0e1dcc0",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/paestum-poseidonia-second-temple-hera-vers-460-av-jc.json",
+      "scientific_sources": [
+        {
+          "label": "Parchi Archeologici di Paestum & Velia — Archaeological Area of Paestum (Temple of Neptune, plan et chronologie)",
+          "url": "https://parchipaestumvelia.cultura.gov.it/en/scopri-i-parchi/archeological-area-of-paestum/"
+        },
+        {
+          "label": "Parchi Archeologici di Paestum & Velia — The Story of Paestum (fondation de Poseidonia)",
+          "url": "https://parchipaestumvelia.cultura.gov.it/en/the-story-of-paestum/"
+        },
+        {
+          "label": "J. J. Coulton (1975), « The second temple of Hera at Paestum and the Pronaos problem », Journal of Hellenic Studies 95, p. 13–24",
+          "url": "https://www.cambridge.org/core/journals/journal-of-hellenic-studies/article/abs/second-temple-of-hera-at-paestum-and-the-pronaos-problem/D4526A7539811A59341516CE34C59185"
+        }
+      ],
+      "methodology": "Restitution illustrée à apparence 3D, non photogrammétrique et non métrique. Péristyle et grandes masses d’après les vestiges et le parc archéologique. Décors, toiture complète, pigments, personnages et terrain hypothétiques.",
+      "publication_status": "committed_to_pull_request_branch_pending_public_https_verification"
     }
   ]
 }
