@@ -1,0 +1,261 @@
+# MYTHOS — Chapitre 429 : Apollon Smintheus (Ἀπόλλων Σμινθεύς)
+
+## Le dieu des souris en Troade : peste homérique, généalogies de fondation et archéologie de Gülpınar
+
+*Grande Encyclopédie universitaire de mythologie grecque — monographie critique ; sources primaires, philologie, histoire des cultes, archéologie, philosophie et bibliographie.*
+
+**Précaution documentaire :** Les sources homériques, géographiques, naturalistes et archéologiques sont d’époques différentes ; leurs différences ne sont pas artificiellement harmonisées. Les faits de culte attestés ne sont pas confondus avec les reconstructions hypothétiques.
+
+## 1. Résumé et position du problème
+
+Le premier chant de l’Iliade s’ouvre par un conflit sur la restitution de Chryséis. Son père Chrysès, prêtre d’Apollon, appelle le dieu « Smintheus » ; en réponse à l’humiliation subie, une maladie dévaste le camp achéen. Cette invocation est le plus ancien témoignage littéraire majeur d’une épiclèse associée à des sanctuaires de Troade, à la souris et à la protection — ou à la destruction — des récoltes. Or le dieu qu’on représente debout sur un petit animal est aussi celui qui frappe à distance de ses flèches. Le problème n’est pas seulement zoologique : il concerne l’articulation de la puissance divine, de la violence politique et de l’économie des communautés.
+
+Cette monographie distingue quatre ensembles documentaires : la poétique archaïque de l’Iliade ; les explications géographiques et étiologiques conservées chez Strabon ; le témoignage tardif d’Élien sur les souris sacrées et les récits de fondation ; enfin l’archéologie du Smintheion de Gülpınar, dont le grand temple visible appartient surtout à l’époque hellénistique. Aucune de ces catégories ne constitue la traduction automatique des autres. Les rapprochements entre maladie humaine, nuisibles agricoles et religion locale resteront des hypothèses historiques hiérarchisées.
+
+## 2. Établissement du corpus et chronologies
+
+Le dossier primaire commence par Homère, Iliade I, 8-52 et 430-487, où apparaît la prière du prêtre de Chrysé ; il comprend ensuite Strabon, Géographie XIII, 1, 47-49, pour les lieux, l’image cultuelle et les variantes migratoires ; Élien, De la nature des animaux XII, 5, pour les souris entretenues au sanctuaire, les explications agricoles et le récit des colons crétois ; Pline l’Ancien, Histoire naturelle V, 123, pour le temple de « Zmintheus » ; enfin les notices lexicales et scholies homériques, dont les attributions exactes doivent être établies édition par édition. Les monnaies des cités de Troade et les objets de fouilles constituent un corpus d’un autre ordre.
+
+L’Iliade, issue d’une tradition épique fixée à l’époque archaïque, ne décrit pas un monument hellénistique. Strabon écrit à la charnière du Ier siècle avant et du Ier siècle de notre ère ; Élien, beaucoup plus tard, transmet des renseignements où l’observation peut être combinée à la compilation. Une inscription ou une monnaie doit être datée d’après sa propre documentation, non d’après la date supposée de l’événement légendaire qu’elle évoque.
+
+## 3. Le texte homérique : l’invocation de Chrysès
+
+Dans Iliade I, 37-42, Chrysès s’adresse au dieu sous une suite de désignations locales : protecteur de Chrysé, de Killa et de Ténédos, puis « Σμινθεῦ ». La syntaxe est importante. Le vocatif relie une épiclèse rare à trois lieux précis du nord-est de l’Égée ; le poète n’explique pas le mot. Il fait entendre une parole religieuse localisée sans l’interrompre par une étymologie. Les vers 43-52 décrivent la réponse divine : Apollon descend de l’Olympe, son arc retentit et les traits frappent d’abord les bêtes de bât et les chiens avant les hommes. Les bûchers mortuaires se multiplient.
+
+La colère n’est donc pas déclenchée par un phénomène naturel anonyme. Dans l’économie narrative de l’épopée, elle sanctionne une décision humaine : Agamemnon a refusé la rançon et insulté un prêtre. Les flèches du dieu traduisent une violence qui renverse la disproportion entre pouvoir militaire et statut du suppliant. Il importe de ne pas écrire qu’Homère explique déjà Smintheus par un rat ou par une souris : cette étiologie est explicitée par d’autres sources.
+
+## 4. Chryséis, la rançon et l’économie de l’honneur
+
+Le conflit originel oppose la puissance royale à une relation cultuelle. Chrysès vient avec une rançon et les insignes de sa fonction sacerdotale (Iliade I, 12-21). Les soldats souhaitent accepter, mais Agamemnon refuse. La maladie impose à l’assemblée achéenne de rouvrir ce qu’une décision unilatérale avait clos. Calchas révèle ensuite la cause de la colère (I, 69-100), sous la protection demandée à Achille. Le devin doit parler dans un espace de pouvoir risqué : la vérité religieuse peut mettre en cause le commandant.
+
+Le retour de Chryséis et le sacrifice offert à Apollon (I, 430-487) rétablissent une relation. Cette séquence permet de distinguer l’étiologie cultuelle — pourquoi le dieu frappe-t-il ? — et l’étiologie politique — quelle décision doit être corrigée ? Le sanctuaire de Smintheus n’est pas seulement l’arrière-plan d’un récit de peste : il sert de point d’articulation entre la justice de la restitution, la parole du prêtre et la capacité du dieu à suspendre la guerre en rendant les corps vulnérables.
+
+## 5. Philologie de Σμινθεύς et de σμίνθος
+
+La forme homérique « Σμινθεῦ » est le vocatif de Σμινθεύς. Le suffixe -εύς peut exprimer des attaches locales ou collectives ; il ne suffit pas, à lui seul, à fixer la valeur première du radical. Des auteurs antiques et des lexicographes rapprochent le nom de « σμίνθος », terme régional ou dialectal utilisé pour désigner une souris. L’étymologie ancienne « dieu des souris » explique commodément certaines images, mais la présence du mot dans la tradition grammaticale ne constitue pas une preuve d’une racine grecque transparente, ni de son caractère originel.
+
+Une interprétation toponymique rattache au contraire l’épiclèse à un lieu ou à un territoire de la Troade. Strabon XIII, 1, 48 signale précisément plusieurs sites nommés Sminthia. Les deux lectures ne s’excluent pas nécessairement : un nom local peut être expliqué secondairement par un animal et recevoir ensuite un programme iconographique. Plusieurs hypothèses linguistiques modernes discutent des contacts anatoliens et d’anciennes formes anthroponymiques ; leur degré de certitude reste inférieur à celui de la présence assurée du vocatif dans l’Iliade.
+
+## 6. L’épiclèse dans une géographie de l’Égée
+
+L’énumération homérique Chrysé–Killa–Ténédos introduit une véritable carte rituelle. Chrysé est associée au sanctuaire et à son prêtre ; Killa relève de la géographie cultuelle de Troade ; Ténédos donne une dimension insulaire à la puissance du dieu. Strabon XIII, 1, 47-49 discute plusieurs lieux appelés Chrysé et la réorganisation des cités autour d’Alexandreia de Troade. Il serait imprudent de poser une identité automatique entre chaque nom de l’Iliade et un point unique de la topographie conservée : les déplacements de population, la réutilisation des noms et la chronologie des établissements compliquent l’équation.
+
+L’épithète peut ainsi fonctionner à deux échelles : désigner le dieu d’un sanctuaire précis et rendre reconnaissable, dans une épopée panhellénique, une manifestation régionale d’Apollon. Ce passage du local au commun n’efface pas la singularité de la Troade. Au contraire, la rareté du nom semble destinée à lui laisser une saveur étrangère ou ancienne pour l’auditoire.
+
+## 7. Strabon : le récit des Teucriens et des « nés de la terre »
+
+Dans Géographie XIII, 1, 48, Strabon rapporte qu’un groupe de Teucriens venu de Crète reçut un oracle : il devait s’établir là où des êtres « nés de la terre » l’attaqueraient. Aux environs d’Hamaxitos, une multitude de souris des champs aurait rongé, durant la nuit, les parties de cuir des armes et des équipements. Les voyageurs interprétèrent cet événement comme l’accomplissement de la prophétie et s’installèrent sur place. Le motif est une énigme oraculaire résolue par un détail inattendu : les adversaires promis ne sont pas des guerriers, mais des animaux minuscules.
+
+Strabon associe au récit le nom de Callinos, ancien poète élégiaque, comme témoin de traditions sur les Teucriens. Cette mention ne donne pas accès à une version intégrale conservée de Callinos : les termes exacts de la légende nous parviennent par une médiation beaucoup plus tardive. Strabon signale aussi une autre origine, attique, attribuée à un Teucros venu d’un dème d’Attique. Il faut donc préserver la pluralité des ascendances imaginées plutôt que reconstruire une migration unique et certaine.
+
+## 8. La variante attique et les généalogies concurrentes
+
+Après le récit crétois, Strabon XIII, 1, 48 évoque une tradition qui fait venir Teucros d’Attique, du territoire associé au dème de Troes. La proximité supposée des Troyens avec les Athéniens était encore appuyée par des généalogies qui faisaient jouer un rôle fondateur à Érichthonios. La coexistence de ces traditions est un indice précieux : l’origine d’un culte peut devenir le lieu d’un débat sur l’identité collective et sur les liens entre communautés.
+
+La méthode consiste à identifier le public potentiel de chaque récit sans lui attribuer une intention politique certaine. Une tradition crétoise peut souligner la migration et la consultation delphique ; une tradition attique peut fonder une parenté prestigieuse. La version homérique, quant à elle, ne raconte aucune de ces fondations dans son invocation à Smintheus. Il s’agit de strates de narration distinctes, non des chapitres successifs d’une biographie historique vérifiable.
+
+## 9. Héraclide du Pont : le respect des souris
+
+Strabon XIII, 1, 48 transmet sous le nom d’Héraclide du Pont un renseignement différent : les souris fréquentant le temple étaient regardées comme sacrées, ce qui expliquerait que l’image divine ait été conçue avec une souris placée sous le pied. L’animal n’est plus d’abord un envahisseur qui ronge les armes, mais un être intégré au paysage du sanctuaire. La formule « sous le pied » ouvre d’ailleurs plusieurs questions : elle peut exprimer une domination, une relation protectrice ou une caractéristique visuelle simplement distinctive.
+
+Le mot « sacré » ne signifie pas qu’il serait interdit à tous les individus de chasser tout rongeur dans la région ; il qualifie une relation rituelle telle que la source la présente. Il serait tout aussi excessif de conclure à un « totémisme » universel, catégorie souvent employée dans l’historiographie ancienne mais désormais maniée avec prudence. Il faut d’abord établir qui vénère quoi, dans quel lieu, avec quels gestes et selon quel témoin.
+
+## 10. Élien : les souris entretenues dans le sanctuaire
+
+Élien, De la nature des animaux XII, 5, explique que, selon la tradition de la région d’Hamaxitos, on nomme Apollo Smintheus parce que « sminthos » désigne une souris dans des parlers locaux. Il ajoute que des souris apprivoisées étaient nourries aux frais de la collectivité et que des souris blanches vivaient sous l’autel ; une représentation du petit animal se trouvait aussi près du trépied d’Apollon. La notice offre l’image saisissante d’un sanctuaire où un animal généralement nuisible bénéficie d’une protection spécifique.
+
+Élien écrit plusieurs siècles après l’époque archaïque ; sa compilation juxtapose souvent traditions, descriptions et anecdotes. Le témoignage doit donc être utilisé comme attestation d’un discours ancien sur les souris sacrées, non comme registre continu d’élevage depuis le temps de la guerre de Troie. La présence de souris blanches a pu jouer un rôle dans l’imaginaire de la distinction rituelle, mais les sources disponibles ne donnent pas un règlement cultuel détaillé permettant d’en déduire les espèces exactes, l’alimentation ou l’organisation quotidienne.
+
+## 11. Élien : les récoltes protégées et l’oracle
+
+Dans le même passage, Élien XII, 5 rapporte un autre récit : des souris auraient ravagé les récoltes en coupant les plantes avant leur maturité ; consulté, Apollon delphique aurait prescrit des sacrifices à Apollon Smintheus, après lesquels les champs auraient retrouvé leur fécondité. L’Apollon de l’Iliade déclenche une maladie contre les Achèens, tandis que celui de cette étiologie rurale protège la nourriture des communautés contre les rongeurs. Il n’est pas nécessaire de choisir l’un et de supprimer l’autre : les dieux grecs peuvent posséder des capacités redoutables et bénéfiques sans être distribués en catégories morales exclusives.
+
+La fonction agricole est ici rapportée par une source explicite ; elle ne doit pas être projetée rétrospectivement sur toute scène où apparaît un rat ou une souris. De même, la relation entre rongeurs, dégradation des réserves et maladie est plausible dans de nombreux contextes historiques, mais rien dans ces seuls témoignages ne permet d’identifier un agent infectieux précis dans l’Iliade.
+
+## 12. Élien et l’oracle de fondation
+
+Élien XII, 5 raconte lui aussi l’arrivée de colons crétois et l’oracle des « nés de la terre ». Les souris rongent les attaches de leurs boucliers et les cordes de leurs arcs ; les nouveaux venus, incapables de poursuivre aisément leur route ou leur combat, s’établissent à cet endroit et bâtissent un sanctuaire. Le récit présente des correspondances avec Strabon, mais le compilateur insiste à sa manière sur la ruse oraculaire et sur l’apparition inattendue des animaux.
+
+Ces correspondances autorisent à parler d’une famille de variantes, non à postuler que Strabon et Élien décrivent un seul événement factuel. Les variantes peuvent dépendre de chaînes textuelles communes ou de traditions locales adaptées. Sans preuve indépendante, il n’est pas possible de déterminer la date d’une prétendue colonisation crétoise à partir de la seule histoire des boucliers rongés. La vertu documentaire du mythe réside surtout dans les façons de légitimer l’implantation humaine par une interprétation religieuse du paysage.
+
+## 13. Une maladie homérique sans diagnostic rétrospectif
+
+Au début de l’Iliade, le poème nomme la dévastation par le vocabulaire du fléau et montre les morts se multiplier. Il mentionne les chiens et les mulets atteints avant les hommes, mais ne donne ni courbe épidémique, ni description clinique, ni observation d’un vecteur animal qui permettrait un diagnostic moderne. Assimiler d’emblée la crise à une maladie transmise par les rats reviendrait à confondre l’épiclèse telle que l’expliquent des auteurs tardifs et la logique narrative propre au poème.
+
+On peut étudier le rapport général entre ravage agricole, peur de la contagion et culte apollinien. Cependant, la peste de l’Iliade est d’abord une action divine rapportée par un texte épique. La prudence est particulièrement importante : identifier une espèce de microorganisme à partir d’un récit antique sans symptômes suffisants produirait une précision factice. Le chapitre privilégie une histoire des représentations de la crise plutôt qu’une étiologie biomédicale impossible à démontrer.
+
+## 14. Apollon, dieu de la distance et de la mesure
+
+Les flèches d’Apollon frappent à distance. Ce trait constitue une structure importante de son pouvoir narratif : le prêtre implore, le dieu entend, et le camp est touché sans combat singulier. Plus tard, le sacrifice et le chant rétablissent une relation favorable entre humains et divinité. Ce dispositif met en scène la distance physique et morale : le dieu ne se réduit pas à un interlocuteur avec lequel on négocierait de puissance égale à puissance égale.
+
+Apollon Smintheus permet ainsi d’étudier l’articulation entre éloignement et proximité. Le dieu est distant par ses projectiles et proche par son sanctuaire et par son nom local. Le culte fixe dans un lieu déterminé une puissance qui peut agir sans y être enfermée. Cette lecture n’autorise pas à identifier automatiquement les symboles du dieu — arc, souris, trépied, laurier — dans tous les contextes : chaque attribut possède une histoire propre et plusieurs peuvent coexister avec des significations variables.
+
+## 15. Les lieux : Chrysa, Hamaxitos et Gülpınar
+
+Le Smintheion visible près de Gülpınar, dans la région d’Ayvacık (province de Çanakkale, Turquie), est identifié comme un grand sanctuaire d’Apollon Smintheus de la Troade. La géographie de Strabon invite cependant à ne pas effacer les distinctions entre l’ancienne Chrysé, la Chrysé de son époque, Hamaxitos et le sanctuaire que les textes nomment Sminthion. Ces désignations se rattachent à des trajectoires d’occupation et de regroupements civiques qui ne se superposent pas parfaitement.
+
+La localisation du site actuel repose sur les vestiges du temple, les témoignages géographiques, les trouvailles et les traditions de recherche archéologique. Il ne s’ensuit pas que l’autel décrit par l’épopée ait été retrouvé ni que le temple visible serait une construction contemporaine d’Homère. Un plan scientifique doit préciser la date des phases architecturales et différencier l’identification du site de la localisation de chaque épisode littéraire.
+
+## 16. Le temple hellénistique et son architecture
+
+Les publications consacrées au site décrivent un grand temple ionique à plan pseudodiptère, aux dimensions approximatives de 22,4 sur 40,3 mètres, avec huit colonnes sur les façades et quatorze sur les côtés selon les restitutions communément présentées. L’édifice visible est généralement daté du IIe siècle avant notre ère. Les colonnes et les fragments décoratifs témoignent d’un programme architectural ambitieux dans un territoire en relation avec Alexandreia de Troade.
+
+Ces données doivent être citées comme résultats ou restitutions archéologiques, non comme chiffres inférés de l’Iliade. La date de l’édifice monumental ne date pas le commencement du culte, et l’ancienneté supposée du culte ne date pas tous les murs conservés. Les travaux du sanctuaire ont connu des phases de dégagement et de restauration ; les photographies peuvent donc présenter à la fois des blocs en place, des éléments réassemblés et des volumes restitués. Une iconographie honnête indique ces statuts distincts.
+
+## 17. La rue sacrée, les thermes et les infrastructures
+
+Les recherches à Gülpınar ne se limitent pas au temple. Elles ont mis en évidence une voie sacrée, des espaces bâtis et des structures hydrauliques ; le paysage de l’époque romaine comprend des thermes, des réseaux d’eau et des aménagements d’accueil. Ces installations renseignent sur la fréquentation du site et sur ses transformations, sans signifier que chaque bâtiment était réservé exclusivement aux prêtres. Les espaces religieux étaient aussi des lieux de circulation, de sociabilité et d’activités économiques.
+
+L’analyse d’ensemble doit distinguer le sanctuaire comme institution cultuelle et le site comme complexe urbain ou périurbain vivant. Elle doit également éviter d’appeler « bains de purification » tous les bâtiments thermaux sans preuve précise d’une utilisation rituelle ; l’eau peut servir aux usages ordinaires aussi bien qu’aux pratiques religieuses. Les notices du ministère turc de la Culture et les rapports de fouilles fournissent une base descriptive plus sûre que les restitutions touristiques non sourcées.
+
+## 18. Des frises de l’Iliade dans l’architecture du culte
+
+Le grand temple possédait un décor sculpté comprenant des épisodes de l’Iliade. L’intérêt du phénomène réside dans la proximité entre un dieu homérique explicitement invoqué en ouverture du poème et un sanctuaire monumental hellénistique qui adopte des scènes de cette épopée dans son programme visuel. Il s’agit d’une appropriation historique de la tradition héroïque par une communauté et par des commanditaires, non d’une preuve que les événements de l’Iliade se seraient déroulés sur place comme ils sont racontés.
+
+Le travail scientifique consiste à identifier chaque relief par un catalogue, son emplacement archéologique, sa restauration éventuelle et le degré de certitude de son interprétation. Certaines scènes peuvent rester discutées. Les images publiques doivent porter une légende qui distingue bloc antique conservé, partie moderne réassemblée et restitution graphique. La frise construit un discours religieux et culturel complexe : la présence d’Apollon dans l’épopée sert aussi à inscrire un lieu de Troade dans l’héritage littéraire grec.
+
+## 19. La statue attribuée à Scopas
+
+Strabon XIII, 1, 48 attribue à Scopas de Paros l’image d’Apollon Smintheus, associée à une souris située sous le pied de la divinité. Le témoignage est précieux pour l’histoire de l’iconographie et de la sculpture grecque. Il ne suffit cependant pas à identifier avec certitude tous les fragments sculptés de Gülpınar comme les morceaux de cette statue, ni à dater chaque élément du temple d’après la période d’activité de Scopas.
+
+Une difficulté chronologique doit être explicitée : le sculpteur du IVe siècle avant notre ère et le grand temple généralement daté du IIe siècle ne sont pas contemporains. Plusieurs explications sont envisageables — déplacement, conservation ou réemploi d’une image plus ancienne, traditions d’attribution, changement de bâtiment — mais aucune ne doit être transformée en certitude faute de documentation spécifique. L’objet de la source est une tradition sur une œuvre, pas un rapport moderne de fouilles.
+
+## 20. Les monnaies et la souris sous le pied du dieu
+
+Des émissions monétaires de la Troade, notamment associées à Alexandreia Troas, montrent un Apollon tenant ses attributs, parfois avec une souris sous le pied. La monnaie est un témoin différent d’un récit : elle diffuse à grande échelle un symbole civique lisible dans la circulation commerciale. Elle peut confirmer que l’association visuelle d’Apollon et de la souris avait une valeur publique et identitaire à une époque déterminée.
+
+L’analyse numismatique exige cependant un contrôle du type, de la cité émettrice, de la datation et de l’exemplaire réellement photographié. L’image d’une pièce romaine ne doit pas illustrer sans commentaire un rite archaïque ; un revers monétaire n’est pas une photographie de statue. Lorsqu’un rapprochement avec la sculpture de Scopas est proposé, il s’agit d’une comparaison iconographique, dont la fidélité formelle reste à mesurer. Aucun dessin moderne ne doit être présenté comme reproduction exacte de l’original perdu.
+
+## 21. Les figurines et les dangers de l’identification automatique
+
+Le sanctuaire a livré notamment des terres cuites et de petits objets de périodes différentes. Leur présence atteste des pratiques de dépôt, des usages et des occupations à reconstituer selon les contextes stratigraphiques. En revanche, une figurine de souris découverte sans provenance cultuelle sûre ne peut être automatiquement déclarée « offrande à Smintheus ». Philip Kiernan a montré, dans une étude de l’American Journal of Archaeology (118, 2014, p. 601-626), que de nombreuses souris de bronze hellénistiques ou romaines anciennement liées à Apollon appartenaient en réalité à des lampes ou à des supports d’éclairage.
+
+Cette mise au point est méthodologiquement décisive. L’iconographie se reconstruit à partir de l’objet complet, de ses traces d’attache et du lieu de découverte ; le symbole pris isolément peut tromper. Le chapitre écarte donc les séries de « souris sacrées » sans inventaire, provenance ni description du dispositif matériel. Il propose, lorsqu’une image est incertaine, une légende explicite « rapprochement iconographique non démontré » plutôt que l’affirmation d’un culte.
+
+## 22. Le site chalcolithique et la fausse continuité
+
+Les fouilles de Gülpınar ont également révélé des traces d’occupation préhistorique, notamment chalcolithique. Ce fait est intéressant pour l’histoire très longue du lieu, mais il ne prouve pas que l’on y vénérait déjà Apollon Smintheus au Ve millénaire avant notre ère. Les périodes, systèmes religieux et formes architecturales concernées sont séparés par des durées considérables.
+
+Il faut se méfier du raisonnement qui transforme la coïncidence spatiale en continuité cultuelle. Pour établir une permanence, il faudrait une chaîne documentaire ou matérielle : lieux de rite successifs, inscriptions, objets cultuels contextualisés et transformations interprétables. À défaut, on peut écrire que le site possède une occupation très ancienne et un sanctuaire grec hellénistique, mais non que le sanctuaire est « néolithique ». Cette distinction est essentielle à la fiabilité des notices MYTHOS et à la protection du lecteur contre les récits d’antiquité spectaculaire non fondés.
+
+## 23. Le culte entre territoire agricole et cité
+
+L’explication antique par les souris qui détruisent les moissons rattache Smintheus aux risques matériels de la vie rurale. Les réserves de céréales, les semences, les récoltes et les équipements agricoles constituent une infrastructure de subsistance ; une divinité qui menace ou protège ce système peut être invoquée dans un cadre collectif. Le sanctuaire monumental, toutefois, dépasse la ferme isolée : il participe à l’affirmation de communautés et à leurs réseaux religieux.
+
+La tension entre protection agricole et prestige civique ne doit pas être résolue par une succession imaginaire où le « petit dieu paysan » aurait nécessairement été remplacé par un « grand dieu urbain ». Faute d’attestations continues, les fonctions peuvent avoir coexisté, s’être transformées ou avoir été mises en avant différemment selon les sources. Il s’agit ici d’une hypothèse de sociologie religieuse, non d’une évolution démontrée pour chaque siècle du Smintheion.
+
+## 24. Rites : ce que les sources permettent réellement de dire
+
+Homère décrit la supplication de Chrysès, puis des sacrifices, des libations et des chants destinés à honorer Apollon après le retour de Chryséis. Élien évoque la nourriture fournie aux souris sacrées et des sacrifices prescrits contre un fléau agricole. Strabon documente surtout la topographie et la représentation divine. Le croisement de ces témoignages permet d’identifier plusieurs types d’actes religieux — prière, offrande, chant, protection d’animaux, consultation oraculaire légendaire — mais pas un protocole universel valable pour toutes les phases du sanctuaire.
+
+Aucune source invoquée ici ne justifie de reconstruire une liturgie quotidienne détaillée, le statut des prêtres à chaque époque ou un calendrier complet de célébrations à Gülpınar. Les analogies avec d’autres cultes d’Apollon peuvent servir à proposer des questions de recherche ; elles ne remplacent pas l’épigraphie locale. Une reconstitution scientifique doit indiquer quelles actions sont attestées au Smintheion et lesquelles dérivent de pratiques grecques mieux documentées ailleurs.
+
+## 25. La question des fêtes et de la circulation du culte
+
+Strabon XIII, 1, 48 note l’existence de plusieurs lieux portant des noms liés à Sminthos ou Sminthia, notamment dans l’espace égéen. La documentation postérieure associe également à certains contextes des fêtes dites Sminthia. Cette diffusion des désignations invite à réfléchir aux réseaux maritimes entre Troade, îles et cités, mais elle ne garantit pas l’identité des rites célébrés partout.
+
+Une épiclèse voyage plus facilement qu’un système liturgique complet ; elle peut se maintenir comme nom local alors que les institutions changent. Il faut distinguer la mention d’un toponyme, le témoignage d’une fête et l’existence archéologiquement attestée d’un temple. Le chapitre propose un inventaire critique des lieux avant toute carte de « diffusion » présentée comme définitive. Les traditions relatives à Rhodes, par exemple, demandent une analyse autonome de leurs textes et de leur chronologie.
+
+## 26. Animal vénéré, animal redouté : une fausse contradiction
+
+À première vue, il semble contradictoire qu’une communauté demande au dieu de la délivrer des souris tout en nourrissant des souris dans son temple. Cette contradiction naît surtout de notre volonté de faire correspondre un animal à une fonction morale unique. Le même être peut être destructeur dans les champs et porteur de sacralité dans l’enceinte cultuelle ; une divinité peut être invoquée pour contenir une puissance dont elle demeure la garante.
+
+Le raisonnement religieux peut ainsi produire une économie du contrôle plutôt qu’une opposition binaire entre « nuisible » et « bénéfique ». Cette interprétation doit rester modeste : nous ignorons la manière dont les personnes fréquentant le sanctuaire décrivaient elles-mêmes la relation exacte entre les animaux de l’autel et ceux des récoltes. L’explication ne doit pas effacer la spécificité des récits anciens, qui ne formulent pas tous la même théorie.
+
+## 27. Comparaison : Apollon et les autres domaines apolliniens
+
+Dans de nombreux contextes grecs, Apollon est associé à la maladie, à la guérison, à la divination, aux fondations et à l’ordre rituel. Smintheus combine plusieurs de ces domaines à partir d’un ancrage régional singulier. La comparaison avec Apollon Pythios aide à comprendre pourquoi un oracle peut légitimer un établissement ; celle avec d’autres formes guérisseuses du dieu aide à saisir l’ambivalence des fléaux. Mais le culte de Smintheus n’est ni une simple copie de Delphes ni un équivalent exact d’Asclépios.
+
+Il faut traiter les épiclèses comme des dossiers situés : elles désignent des puissances reconnues au travers de configurations locales, pas autant de « personnalités » complètement séparées ni un système philosophique unique déjà constitué. L’Apollon d’un texte épique ne se laisse pas réduire à la fonction agricole d’une tradition tardive. Cette pluralité est une caractéristique fondamentale de la religion grecque telle que la documentent ses sources.
+
+## 28. Comparaison : Érechthée, l’animal autochtone et la terre
+
+Le récit oraculaire fait des souris des êtres « nés de la terre » : le terme modifie la perception des fondateurs, qui s’attendaient peut-être à des ennemis humains. On peut rapprocher cette ambivalence des récits grecs d’autochtonie, où l’origine terrestre peut fonder la relation entre une communauté et son territoire. Cependant, l’analogie ne prouve aucun emprunt à un cycle athénien particulier. Dans Strabon, le motif a une fonction narrative immédiate : révéler le bon endroit grâce à une interprétation inattendue de la parole divine.
+
+Le récit suggère une réflexion sur le pouvoir de nommer un territoire. Les souris ne sont pas seulement un incident, mais les agents qui rendent identifiable le site voulu par l’oracle. La cité naît, dans la logique du mythe, lorsque les migrants reconnaissent dans la vulnérabilité de leurs équipements l’indice d’un ordre supérieur. Cette interprétation anthropologique ne remplace pas l’étude historique des établissements réels.
+
+## 29. Comparaison mésopotamienne : fléaux et régulation
+
+Les traditions de Mésopotamie connaissent des divinités qui peuvent envoyer des maladies, défaire l’ordre des vivants ou contribuer à restaurer la santé. Cette dualité générale offre un terrain de comparaison avec les flèches d’Apollon et son pouvoir de mettre fin à une crise. Nergal, par exemple, possède des associations à la destruction et à la maladie dans plusieurs contextes ; pourtant, il serait méthodologiquement invalide d’en faire l’« origine » d’Apollon Smintheus sur la seule base d’une ressemblance fonctionnelle.
+
+La comparaison doit mobiliser des textes précisément datés, des langues, des médiations culturelles et, si l’on veut soutenir une transmission, des indices de contact localisés. Les sociétés anatoliennes ont été en interaction avec plusieurs sphères religieuses, mais une parenté de motifs ne fournit pas la preuve d’un emprunt direct. Le résultat le plus solide est typologique : des systèmes religieux différents peuvent penser la même puissance divine comme menace et comme ressource.
+
+## 30. Comparaison égyptienne : animaux et statut rituel
+
+Dans la religion égyptienne, plusieurs espèces animales peuvent être associées à des puissances divines et bénéficier de pratiques rituelles particulières. Une comparaison contrôlée avec les souris d’Apollon permet d’interroger la distinction entre l’animal ordinaire et l’animal situé dans un contexte sacré. Elle ne doit cependant pas affirmer qu’un culte égyptien aurait « inspiré » Smintheus : les chronologies, les taxonomies sacrées et les institutions sont différentes.
+
+Les recherches comparatives s’attachent d’abord aux modalités concrètes : animal vivant ou image, sanctuaire ou environnement quotidien, protection, entretien, sacrifice ou interdiction. Les souris de l’autel selon Élien et les animaux sacrés attestés dans certains temples égyptiens ne relèvent pas nécessairement du même régime cultuel. L’utilité de la comparaison est de rendre visible la diversité des rapports entre humains, animaux et divinités, non d’effacer cette diversité.
+
+## 31. Comparaison avec les récits de colonisation
+
+L’oracle qui désigne un lieu d’installation à travers un signe énigmatique apparaît dans plusieurs traditions grecques de fondation. Les colons découvrent parfois leur destination par un animal, une rencontre insolite ou une formule ambiguë. Le motif d’Hamaxitos appartient à cette famille narrative, mais son efficacité particulière réside dans l’identité des « agresseurs » : les souris attaquent le cuir plutôt que les corps, convertissant une dégradation technique en accomplissement religieux.
+
+L’historien doit séparer un récit d’autorisation divine, construit ou transmis pour expliquer une identité collective, d’une chronologie des migrations. Aucun oracle anciennement formulé n’est conservé ici sous la forme d’une archive contemporaine de la fondation supposée. Le récit demeure précieux parce qu’il indique comment la communauté racontait ou pouvait raconter l’appropriation d’une terre.
+
+## 32. Platon : le désordre et les conditions de la cité
+
+Une lecture philosophique comparée peut prendre appui sur Platon, Lois, livre I et livre X, pour étudier le rôle d’une réglementation partagée et les relations entre cité, divinité et responsabilité. Il serait abusif de dire que Platon explique Apollon Smintheus ou commente les souris d’Hamaxitos. Son intérêt est plutôt conceptuel : le mythe met en scène une décision collective guidée par une parole tenue pour autorisée, tandis que la philosophie politique questionne les conditions d’une norme commune.
+
+Dans l’Iliade, le refus d’Agamemnon détruit temporairement la communauté combattante ; les sacrifices accompagnent ensuite le rétablissement des relations. La lecture platonicienne aide à formuler des questions : la cohésion repose-t-elle sur la reconnaissance d’une loi transcendante, sur la prudence des dirigeants ou sur des pratiques communes ? Le texte homérique ne fournit pas une réponse systématique. Il dramatise un problème de commandement dont les conceptions ultérieures de la justice éclairent certains aspects sans s’y substituer.
+
+## 33. Aristote : causes et connaissances
+
+Aristote, Physique II, 3, distingue plusieurs manières de rendre compte d’un phénomène en identifiant ses causes. L’application comparée au récit de Smintheus n’a rien d’une réfutation moderne du mythe. Elle permet de séparer différents niveaux d’explication : la cause narrative du fléau est la colère divine ; la cause morale en est l’humiliation du prêtre ; la cause du choix d’un site dans le récit de fondation est l’interprétation d’un oracle ; la cause biologique d’une mortalité réelle, si l’on voulait l’étudier, demanderait d’autres données.
+
+Confondre ces plans produirait de faux savoirs : le sanctuaire ne démontre pas l’existence d’une épidémie particulière, et l’épidémie homérique ne prouve pas qu’une population de souris y était présente à l’époque du poème. La philosophie des causes contribue ici à clarifier les formes de vérité propres à la poésie, à l’histoire, à la géographie et à l’archéologie.
+
+## 34. Hegel : l’universalité dans le particulier
+
+Une interprétation inspirée de Hegel peut examiner comment une puissance reconnue localement acquiert un sens plus universel dans une œuvre littéraire. Le nom obscur de Smintheus traverse l’épopée et entre dans la mémoire d’un public grec bien plus large que les habitants de la Troade ; le particulier religieux devient un élément intelligible d’un conflit sur l’autorité et la justice. Cependant, aucune dialectique hégélienne ne doit être attribuée au prêtre homérique ni aux responsables du sanctuaire.
+
+La tension la plus productive concerne l’apparente contradiction entre le dieu qui détruit et celui qui protège : la même puissance révèle l’insuffisance d’un ordre humain qui croyait pouvoir ignorer les obligations de la supplication. La réconciliation ne résulte pas d’une abstraction, mais d’actes matériels — restitution, prières, offrandes et reconnaissance de l’offense. Cette lecture constitue une construction philosophique contemporaine de l’enquête, non une doctrine explicitée dans les sources grecques.
+
+## 35. Nietzsche : l’illusion d’un Apollon exclusivement lumineux
+
+Nietzsche distingue, dans La Naissance de la tragédie, des dimensions apolliniennes et dionysiaques de l’expérience grecque. Il serait pourtant faux d’utiliser la figure de l’Apollon lumineux et mesuré pour effacer les flèches meurtrières du premier chant de l’Iliade. L’histoire religieuse impose de reconnaître un dieu capable d’envoyer un fléau, de défendre un prêtre humilié et d’être invoqué par des agriculteurs contre la destruction des récoltes.
+
+L’intérêt de la comparaison nietzschéenne réside dans l’écart entre une construction philosophique des puissances esthétiques et la complexité empirique des cultes. Apollon Smintheus résiste à l’image scolaire d’une divinité uniquement harmonieuse. La présence d’un petit animal sous le pied de sa statue oblige aussi à regarder le corps et la matérialité du culte, dimensions que la réduction des dieux à des principes abstraits peut manquer.
+
+## 36. Anthropologie critique de l’animal sacré
+
+L’historiographie ancienne a parfois interprété les cultes de souris à partir de grandes théories universelles du totémisme ou de l’« animal primitif » derrière la divinité olympienne. Ces modèles ont joué un rôle dans l’histoire de la discipline, mais leurs usages trop généraux effacent les lieux, les dates et les institutions. Le témoignage d’Élien ne permet pas de conclure à une transformation linéaire d’une souris-divinité en Apollon anthropomorphe.
+
+Une anthropologie historique plus rigoureuse part des relations observables : conserver des souris sous l’autel, raconter une invasion des champs, représenter une souris sur une monnaie ou placer l’animal sous le pied du dieu. Chaque situation est différente. La catégorie d’« animal sacré » est utile si elle est définie par l’action et par le contexte, plutôt que traitée comme une essence éternelle. Les travaux récents sur les bronzes de souris invitent en outre à vérifier les usages profanes avant toute conclusion religieuse.
+
+## 37. Iconographie raisonnée : principes éditoriaux
+
+Les illustrations destinées à MYTHOS doivent provenir de notices institutionnelles, de rapports archéologiques ou de photographies disposant d’une licence explicite. La photographie officielle du Smintheion publiée par les musées turcs donne le contexte architectural ; des vues de la voie sacrée et des thermes permettent de comprendre l’étendue du complexe ; les reliefs homériques documentés montrent la réception de l’épopée ; une monnaie cataloguée illustre l’association du dieu et de la souris. Toute image doit porter quatre métadonnées au minimum : provenance, datation, détenteur ou institution, statut d’interprétation.
+
+Il est interdit de remplacer une pièce disparue par une reconstruction prétendument photographique sans signaler son caractère hypothétique. Les anciennes vues vectorielles 2,5D ne seront pas réintroduites. Une reconstitution photoréaliste, si elle est utilisée, doit être intitulée « restitution hypothétique », distinguer les éléments directement attestés et présenter les sources de son modèle archéologique.
+
+## 38. Seize propositions iconographiques documentaires
+
+1. Carte de la Troade situant Chrysé, Hamaxitos, Gülpınar et Alexandreia Troas, avec réserves de localisation. 2. Carte des lieux nommés par la prière homérique : Chrysé, Killa, Ténédos. 3. Photographie institutionnelle du temple de Gülpınar avec indication des remontages. 4. Plan stratifié du complexe hellénistique et romain. 5. Détail d’une colonne ionique du grand temple. 6. Vue de la voie sacrée. 7. Installations d’eau et bains romains. 8. Relief homérique catalogué, conservé dans le contexte du Smintheion. 9. Dessin technique de ce relief montrant les parties restaurées. 10. Monnaie d’Alexandreia Troas comportant Apollon et la souris, avec référence numismatique exacte. 11. Extrait d’édition critique de l’Iliade I, 37-52. 12. Extrait de Strabon XIII, 1, 48 avec les variantes de Teucros. 13. Schéma de transmission des témoignages de Callinos, Héraclide, Strabon et Élien. 14. Tableau chronologique de l’occupation chalcolithique et des monuments hellénistiques, sans prétention de continuité cultuelle. 15. Photographie de terre cuite publiée avec provenance stratigraphique. 16. Comparaison critique entre souris de lampes et souris sur monnaies cultuelles, à partir de Kiernan.
+
+Chaque proposition est un cahier des charges : aucune image nouvelle n’est prétendue téléchargée ou intégrée par la présente étude.
+
+## 39. Tableau des attestations et des incertitudes
+
+Attestations littéraires fortes : Homère, Iliade I, 39, emploie « Smintheus » ; Strabon XIII, 1, 48 décrit une image d’Apollon avec une souris et transmet plusieurs récits ; Élien XII, 5 parle de souris entretenues et de traditions agricoles. Attestations archéologiques fortes : temple hellénistique et aménagements postérieurs au Smintheion de Gülpınar ; décor sculpté associé à l’Iliade ; émissions monétaires locales à iconographie apollinienne. Propositions interprétatives : l’étymologie première du nom, les liens exacts entre animal sacré et protection des récoltes, les motivations des commanditaires des reliefs, la correspondance entre statue littéraire et fragments conservés.
+
+Énoncés à écarter faute de preuve : une identification biomédicale certaine de la peste homérique ; un sanctuaire de Smintheus établi au Chalcolithique ; une statue de Scopas retrouvée intégralement ; une liturgie unique inchangée de l’époque de la guerre de Troie à l’Empire romain ; l’identification de toute petite sculpture de souris à une offrande cultuelle. Cette hiérarchie des preuves doit guider les légendes, cartes et synthèses de la publication.
+
+## 40. Interprétation de synthèse : une puissance de réparation
+
+Le dossier révèle une figure divine dont l’action ne se comprend pas seulement par l’opposition entre maladie et guérison. Dans l’Iliade, une communauté armée doit reconnaître qu’elle a méprisé un prêtre et accepter la restitution. Dans les récits agricoles, des cultivateurs demandent à être délivrés d’une menace produite par de petits animaux. Dans les histoires de fondation, une migration trouve son terme lorsqu’un oracle est correctement interprété. Le même nom local reçoit ainsi des usages symboliques divers : sanction, protection, indication du lieu et inscription dans une mémoire commune.
+
+Ce n’est pas une biographie continue d’Apollon Smintheus que les sources autorisent, mais une histoire de ses représentations. Son intérêt théorique tient à la place de la faiblesse : un vieil homme humilié, des souris minuscules, des communautés dépendantes de leurs moissons peuvent susciter l’intervention d’une puissance supérieure à l’ordre militaire. La grandeur du dieu se mesure précisément à sa capacité d’agir là où les humains considéraient les choses trop petites ou les personnes trop peu puissantes pour compter.
+
+## 41. Bibliographie primaire, traductions et éditions
+
+Homère, Iliade I, 8-52 ; I, 69-100 ; I, 430-487 (établir les citations grecques à partir d’une édition critique de référence, par exemple M. L. West, Teubner, 1998-2000). Strabon, Géographie XIII, 1, 47-49, particulièrement XIII, 1, 48 (éd. et trad. H. L. Jones, Loeb Classical Library, vol. 6 ; texte accessible : https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Strabo/13A3%2A.html). Élien, De la nature des animaux XII, 5 (trad. A. F. Scholfield, Loeb Classical Library). Pline l’Ancien, Histoire naturelle V, 123. Héraclide du Pont, témoignage indirect conservé par Strabon XIII, 1, 48. Callinos, témoignage indirect relatif aux Teucriens chez Strabon : ne pas citer comme texte indépendant intégralement conservé. Apollonios le Sophiste, Lexique homérique, s.v. « Σμινθεύς » : vérifier la tradition de variantes dans l’édition philologique choisie. Scholies à l’Iliade I, 39, à consulter selon la recension et l’apparat de l’édition.
+
+## 42. Bibliographie scientifique et ressources archéologiques
+
+Walter Burkert, Greek Religion, trad. J. Raffan, Harvard University Press, 1985. Robert Parker, On Greek Religion, Cornell University Press, 2011. Fritz Graf, Apollo, Routledge, 2009. Marcel Detienne, Apollon le couteau à la main, Gallimard, 1998. Philip Kiernan, « The Bronze Mice of Apollo Smintheus », American Journal of Archaeology 118/4, 2014, p. 601-626, DOI 10.3764/aja.118.4.0601 (https://www.journals.uchicago.edu/doi/10.3764/aja.118.4.0601). Erhan Öztepe, « Smintheion'dan Bir Grup Pişmiş Toprak Heykelcik », Belleten 67/248, 2003, p. 77-92, DOI 10.37879/belleten.2003.77 (https://belleten.gov.tr/ozet/3577/tur). Département d’archéologie de l’université Ondokuz Mayıs, « Apollon Smintheion Kazıları » (https://ark-itbf.omu.edu.tr/en/ara%C5%9Ftirmalar/kazilar/apollon-smintheion-kazilari). Ministère turc de la Culture et du Tourisme, fiche « Apollon Smintheus Kutsal Alanı » (https://kulturportali.gov.tr/turkiye/canakkale/gezilecekyer/gulpinar-apollon-smitheus-kutsal-alani). Site officiel des musées turcs, « Apollon Smintheion Örenyeri » (https://muze.gov.tr/muze-detay?DistId=MRK&SectionId=CSM01). Pour la philologie des épiclèses anatoliennes, examiner les travaux de Mary R. Bachvarova et de Christopher A. Faraone signalés dans la discussion « The Anatolian Connection: Traditional Epithets of Apollo in the Iliad » (https://web.sas.upenn.edu/discentes/2023/07/23/the-anatolian-connection-traditional-epithets-of-apollo-in-the-iliad/) ; vérifier indépendamment les références précises avant citation spécialisée.
+
+## 43. Pistes de recherche et précautions de publication
+
+Trois travaux prolongeraient utilement ce chapitre : (a) établir un dossier philologique des occurrences de Σμινθεύς et des toponymes Sminthia, en distinguant apparat ancien et travaux modernes ; (b) constituer un catalogue des types monétaires d’Alexandreia Troas et des autres cités attestant réellement l’animal, avec photographies et inventaires ; (c) relier chaque relief homérique du Smintheion à son rapport de fouilles et à son état de conservation. Ces chantiers nécessitent une documentation locale détaillée et ne sont pas présentés comme déjà accomplis.
+
+Le texte peut être publié comme une monographie autonome d’une épiclèse apollinienne. Les études générales de l’Iliade, de Chrysès et d’Apollon doivent faire l’objet de renvois croisés, non d’une reprise intégrale. Le numéro éditorial sera attribué exclusivement par le processus transactionnel MYTHOS, sans promesse de date, de volume ou de chapitre futur. Toute rectification postérieure suivra le chemin publié et le numéro alors effectivement attribué.
