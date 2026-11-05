@@ -1,9 +1,20 @@
 {
   "status": "passed",
-  "indexed_entries": 1416,
-  "pages_scanned": 1473,
-  "readers_equipped": 1019,
-  "links_checked": 125119,
+  "indexed_entries": 1419,
+  "pages_scanned": 1476,
+  "readers_equipped": 1022,
+  "links_checked": 125413,
   "new_navigation_errors": [],
-  "legacy_link_issues": []
+  "legacy_link_issues": [
+    {
+      "page": "/chapitres/comedies/volume-101-philyllios-eunikos-anteia-attribution-hetaire-baiser-chytra-pollux/index.html",
+      "url": "/chapitres/comedies/volume-100-philyllios-aigeus-poisson-ancetre-analphiton-thesee-reconnaissance.md",
+      "problem": "fichier absent"
+    },
+    {
+      "page": "/chapitres/comedies/volume-101-philyllios-eunikos-anteia-attribution-hetaire-baiser-chytra-pollux/index.html",
+      "url": "/chapitres/comedies/volume-099-philonikos-poete-comique-victoire-leneennes-inscription-ig2325-memoire.md",
+      "problem": "fichier absent"
+    }
+  ]
 }

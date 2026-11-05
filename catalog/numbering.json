@@ -1604,6 +1604,12 @@
         "url": "/chapitres/tragedies/volume-ccxlii-sophocle-tyndareos-fortune-vieillesse-helene-serment-aphrodite-famille/",
         "title": "Volume CCXLII (242) — Sophocle, Tyndareos (Τυνδάρεως) — La fortune du roi de Sparte, le serment d’Hélène et les limites de la puissance paternelle",
         "source": "chapitres/tragedies/volume-ccxlii-sophocle-tyndareos-fortune-vieillesse-helene-serment-aphrodite-famille.md"
+      },
+      {
+        "number": 243,
+        "url": "/chapitres/tragedies/volume-ccxliii-sophocle-hydrophoroi-porteuses-eau-semele-dionysos-fontaines-rite-genre-incertain/",
+        "title": "Volume CCXLIII (243) — Sophocle, Les Porteuses d'eau — Hydrophoroi (Ὑδροφόροι) : eau, chœur, travail féminin et incertitudes d'une tragédie perdue",
+        "source": "chapitres/tragedies/volume-ccxliii-sophocle-hydrophoroi-porteuses-eau-semele-dionysos-fontaines-rite-genre-incertain.md"
       }
     ],
     "comparatif": [
@@ -3345,6 +3351,12 @@
         "url": "/chapitres/comedies/volume-100-philyllios-aigeus-poisson-ancetre-analphiton-thesee-reconnaissance/",
         "title": "Volume C (100) — Philyllios, Aigeus (Αἰγεύς) : le grand-père poisson, la pénurie d’orge et les incertitudes de la reconnaissance",
         "source": "chapitres/comedies/volume-100-philyllios-aigeus-poisson-ancetre-analphiton-thesee-reconnaissance.md"
+      },
+      {
+        "number": 101,
+        "url": "/chapitres/comedies/volume-101-philyllios-eunikos-anteia-attribution-hetaire-baiser-chytra-pollux/",
+        "title": "Volume CI (101) — Anteia (Ἄντεια) — Philyllios ou Eunikos/Ainikos : une attribution incertaine, une courtisane nommée et le baiser de la marmite",
+        "source": "chapitres/comedies/volume-101-philyllios-eunikos-anteia-attribution-hetaire-baiser-chytra-pollux.md"
       }
     ],
     "origines-du-sacre": [
@@ -4589,6 +4601,12 @@
         "url": "/chapitres/origines-du-sacre/657-parts-sacerdotales-milet-aixone-geras-peaux-litiges/",
         "title": "Chapitre 657 — Disputer la part, définir le droit : Milet, Aixonè, langues, peaux, géra et prestations sacerdotales",
         "source": "chapitres/origines-du-sacre/657-parts-sacerdotales-milet-aixone-geras-peaux-litiges.md"
+      },
+      {
+        "number": 658,
+        "url": "/chapitres/origines-du-sacre/658-andania-reglement-mysteres-amendes-comptes-serments/",
+        "title": "Chapitre 658 — Quand le rite devient justiciable : Andania, serments, amendes, comptes et sauvegarde des mystères",
+        "source": "chapitres/origines-du-sacre/658-andania-reglement-mysteres-amendes-comptes-serments.md"
       }
     ]
   },

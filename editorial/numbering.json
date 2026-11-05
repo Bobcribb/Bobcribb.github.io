@@ -513,6 +513,12 @@
           "path": "chapitres/origines-du-sacre/657-parts-sacerdotales-milet-aixone-geras-peaux-litiges.md",
           "request_sha256": "9f70011c8a99e8e776dead438da5223c49a5961b7e21dbe7f8f7b482d8af507e",
           "initial_source_sha256": "aaa98445d6ede08202e2dd0041599d53aded4f0f701d17690c099eabd854fe61"
+        },
+        "71a646d3-08e0-430e-8aae-55f49785f531": {
+          "number": 658,
+          "path": "chapitres/origines-du-sacre/658-andania-reglement-mysteres-amendes-comptes-serments.md",
+          "request_sha256": "fa1ef9f69ce5f090c85686fc424a52400816d2588f6a674f212b44d2c543b1c9",
+          "initial_source_sha256": "27a63cbc3d2de394c03c0f87d78aaa72d3fc6d45f89745a419a8051e82987b35"
         }
       }
     },
@@ -1300,6 +1306,12 @@
           "path": "chapitres/comedies/volume-100-philyllios-aigeus-poisson-ancetre-analphiton-thesee-reconnaissance.md",
           "request_sha256": "2fc125defed861f786285b7798f3f772a724953839c1939c1d9f90faea2928c3",
           "initial_source_sha256": "a58f003cfb8d4944042d4ffbaf7a65d6ea4c20f81d5daf632c2baaac889772b2"
+        },
+        "29e8c48c-1465-43bf-9706-2c3f23fc8f26": {
+          "number": 101,
+          "path": "chapitres/comedies/volume-101-philyllios-eunikos-anteia-attribution-hetaire-baiser-chytra-pollux.md",
+          "request_sha256": "00ebd9fd029bf9fa95d36c998b4c927f452f81400b85a904572543da758f2066",
+          "initial_source_sha256": "386a893d18061d92426582804221386f67c03e53801a2dafcad188462a19e5e9"
         }
       }
     },
@@ -1654,6 +1666,12 @@
           "path": "chapitres/tragedies/volume-ccxlii-sophocle-tyndareos-fortune-vieillesse-helene-serment-aphrodite-famille.md",
           "request_sha256": "c5807e72c26d45630aba21d8740ce1c7e6ccfbeec6bb38f6fa7b763ca72fcb0e",
           "initial_source_sha256": "c90e3ef78a81e056b530f0b59b7e504d36f38e2e177103318c9e33b706275fab"
+        },
+        "d6bb8a05-9f24-4e6a-a755-85e62e9512d4": {
+          "number": 243,
+          "path": "chapitres/tragedies/volume-ccxliii-sophocle-hydrophoroi-porteuses-eau-semele-dionysos-fontaines-rite-genre-incertain.md",
+          "request_sha256": "f682957582be48426004fb9de043fb60f8395471cce818d706ce5bdbc9f27d14",
+          "initial_source_sha256": "a5b7693e4e14bd415d708f917ba5b4cb6ef743adf0e91c3bbfd1e7a063436235"
         }
       }
     },
