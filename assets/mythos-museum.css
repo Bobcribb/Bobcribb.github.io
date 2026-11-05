@@ -1360,3 +1360,19 @@ body.mythos-design .greek-cross-readings[data-greek-cross-readings="orient-helle
     font-size:clamp(1.25rem,5vw,1.5rem);line-height:1.4;
   }
 }
+
+/* MYTHOS — navigation rapide des études récentes, noir/or et mobile.
+   Liens internes exclusivement vers les cinq cartes et textes attribués. */
+body.mythos-design .mythos-recent-jump{margin:0 0 1.35rem;padding:0 0 .85rem;border-bottom:1px solid #765f43;max-width:100%}
+body.mythos-design .mythos-recent-jump ul{display:flex;flex-wrap:wrap;gap:.55rem;margin:0;padding:0;list-style:none}
+body.mythos-design .mythos-recent-jump li{margin:0;padding:0;min-width:0}
+body.mythos-design .mythos-recent-jump a{display:flex;align-items:center;min-height:44px;padding:.55rem .9rem;border:1px solid #987c55;border-radius:4px;background:#152024;color:#efd7aa;text-decoration:none;font:15px/1.4 system-ui,sans-serif;overflow-wrap:normal}
+body.mythos-design .mythos-recent-jump a:hover{background:#27322e;color:#fff0d1}
+body.mythos-design .mythos-recent-jump a:focus-visible{outline:3px solid #f3d59b;outline-offset:3px}
+body.mythos-design #home-etudes-recentes .portal-card[id^="etude-recente-"]{scroll-margin-top:95px}
+body.mythos-design #home-etudes-recentes .portal-card[id^="etude-recente-"]:target{outline:3px solid #e9c791;outline-offset:3px}
+@media(max-width:700px){
+  body.mythos-design .mythos-recent-jump ul{flex-wrap:nowrap;overflow-x:auto;scroll-snap-type:x proximity;overscroll-behavior-inline:contain;padding:.25rem .1rem .7rem}
+  body.mythos-design .mythos-recent-jump li{flex:0 0 auto;scroll-snap-align:start}
+  body.mythos-design .mythos-recent-jump a{min-height:48px}
+}
