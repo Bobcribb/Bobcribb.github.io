@@ -994,6 +994,12 @@
           "path": "chapitres/encyclopedie/chapitre-426-artemis-amarysia-amarynthos-eretrie-sanctuaire-procession-epigraphie.md",
           "request_sha256": "3a1cb66c7a278d2c41eb714ecc547a55d0984770bc339258a28c47c0b7112403",
           "initial_source_sha256": "977d066bc2f8a9b7f91668ba2adad0397a4cf572a78634b6c1b64d172e5451fd"
+        },
+        "e2f6ac4b-9b31-4a2c-8a69-d71d3525b8c0": {
+          "number": 427,
+          "path": "chapitres/encyclopedie/chapitre-427-iamos-iamides-apollon-evadne-mantique-olympie-pindare.md",
+          "request_sha256": "2062d0bf74d4304017df96f8785950fbcb6898c5aded15082e678d089477911e",
+          "initial_source_sha256": "4692e76f189dd5e187ff825d307c1fc6a8e986662570f0421047a2fdf20ab2e8"
         }
       }
     },
