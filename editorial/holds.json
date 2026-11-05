@@ -24,6 +24,10 @@
     "d5cc1ed0-5698-4dbb-9115-29e948eb3874": {
       "request_sha256": "af5c6a2f62ad2fb459d3ada8c1a2acfb2143742ad257c5716b8bf5c0cfb49a71",
       "reason": "Collision documentaire contrôlée le 5 novembre 2026 : la même loi funéraire d’Ioulis (Céos/Kéa), déjà soumise dans la demande 9a0873be-5f44-4d99-b4a3-4f890a026f71, est traitée dans deux monographies intégrales distinctes. Préserver ce second manuscrit de 32 857 caractères, son appareil critique et ses sources sans lui attribuer un second numéro autonome. Réconcilier les variantes puis publier, si justifié, un complément non numéroté avec renvois réciproques à l’étude principale. Ne pas supprimer ou réémettre cette demande sous un autre UUID."
+    },
+    "aae9117a-f792-44e3-8f56-4bb8129c7541": {
+      "request_sha256": "de5e0289762bf757b25106229dcb74d4725d7abf5133b61d5554886dc88e3f61",
+      "reason": "Collision documentaire confirmée le 5 novembre 2026 : les deux manuscrits intégraux 0fc9b192-8a44-4305-9982-816a22dfec74 (34 976 caractères) et aae9117a-f792-44e3-8f56-4bb8129c7541 (37 531 caractères) étudient la même inscription funéraire des Labyades de Delphes, CID I, 9 / CGRN 82. Première demande destinée à l'attribution canonique : 0fc9b192-8a44-4305-9982-816a22dfec74. Conserver intégralement ce second manuscrit et son appareil critique dans editorial/inbox, sans lui donner un second numéro indépendant avant comparaison philologique puis archivage comme complément critique au numéro de l'étude principale. Ne supprimer ni réémettre aucune des deux demandes ; ne modifier aucun reçu attribué."
     }
   }
 }
