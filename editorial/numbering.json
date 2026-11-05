@@ -837,6 +837,18 @@
           "path": "chapitres/origines-du-sacre/711-dilmun-bahrein-tumulus-royaux-morts-echanges-mesopotamie.md",
           "request_sha256": "90c12b983f1ef07693aedc8dbcebe45831c6c647506afea5d9bcb5086da4dd04",
           "initial_source_sha256": "32d49df67981438b1480a45031f3d24b4b92fea4bb83fa2fb69c27b612797428"
+        },
+        "b3a68e74-6f29-4ca5-a1d4-e53f0c983210": {
+          "number": 712,
+          "path": "chapitres/origines-du-sacre/712-hili-jebel-hafeet-tombes-collectives-orix-feu-rituels-bronze.md",
+          "request_sha256": "bddefef77a51961a2ae5965579efd50d935da0b40383a49446bbb1def578b192",
+          "initial_source_sha256": "cad5648321328c2743e87dbd2b1b4ef1d0f39c6272337197566293bd69235475"
+        },
+        "d986a452-3c4e-47e4-9b0c-6a4a2b0d731f": {
+          "number": 713,
+          "path": "chapitres/origines-du-sacre/713-abydos-premiere-dynastie-tombes-subsidiaires-sacrifice-royal-campbell-2026.md",
+          "request_sha256": "6bb027597d90f3f4b61ca25bb955f941cca28f6e71d478193d188c9713e9eaa2",
+          "initial_source_sha256": "5f4af3fd95be851162d76fb8a460f442ce3953a405a5ad8c79b232da487a1523"
         }
       }
     },
@@ -3211,6 +3223,24 @@
           "path": "chapitres/comparatif/volume-cclxxix-mc-087-jardins-souverains-eaux-enclos-immortalite-dilmun-eden-perse.md",
           "request_sha256": "ce846abe672f0955e9f5d3e4df871018af4ee4b96e437748a61778091ac3fd8a",
           "initial_source_sha256": "da33a04052965836e0ebd6ab310085115f105200de120f55290c40485b7934ed"
+        },
+        "a69fc47e-0283-44f7-bab8-72c3bf647f12": {
+          "number": 280,
+          "path": "chapitres/comparatif/volume-cclxxx-grenouilles-choeur-batraciens-chant-rame-dionysos-anthesteries-405.md",
+          "request_sha256": "71e4e35fe218215ad43ed33100be27e2c10366d76b19d05a70116ddbc4d03191",
+          "initial_source_sha256": "8bfbdfadbcb431aec3077bdc536f27f8436e7b4ba95336f77ed1569c2120b3f3"
+        },
+        "c0890e8a-9b4d-4c89-8da9-202611050089": {
+          "number": 281,
+          "path": "chapitres/comparatif/volume-cclxxxi-mc-089-sel-des-dieux-natron-mola-salsa-alliance-purification-conservation.md",
+          "request_sha256": "02ba11dc1a7de7910d70fe4ef1de6532ecc2602645c44995242e36de2b86217a",
+          "initial_source_sha256": "e0304e1461774e73acf01fef205d5ae66e085b4d8bfee3bd4af5a068e5fdf701"
+        },
+        "c4d5900e-fc56-4a9e-84d1-d9a0c7816e30": {
+          "number": 282,
+          "path": "chapitres/comparatif/volume-cclxxxii-mc-090-oreilles-des-dieux-ex-voto-auriculaires-prieres-entendues-ptah-amon-epekoos.md",
+          "request_sha256": "d72257c68611dec804cac19b1b0b285096818c6a11f54168181d03eea5bb6a3c",
+          "initial_source_sha256": "0650d726b42fe555fb03fac79e345633226ece3853196908c64baa9c2b4cce75"
         }
       }
     }

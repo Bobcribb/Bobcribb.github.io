@@ -1,0 +1,312 @@
+# MYTHOS — Les Origines du sacré — Chapitre 713
+
+## Abydos avant les pyramides : tombes subsidiaires, souveraineté, sacrifices de l'entourage et nouvelle enquête médico-légale sur les premiers rois d'Égypte
+
+*Monographie universitaire originale — volume DCCXIII. Égypte des premières dynasties, archéologie des complexes mortuaires d'Umm el-Qaab, enclos de la nécropole nord, épigraphie protodynastique, bioarchéologie et philosophie comparative de la violence rituelle. Documentation scientifique actualisée au 5 novembre 2026, notamment Roselyn A. Campbell, 5 octobre 2026. Demande destinée à la file de publication de GitHub sans réservation de numéro.*
+
+### Résumé et question centrale
+
+À Abydos, les tombes des souverains de la Ire dynastie, approximativement autour de 3100–2900 avant notre ère suivant les systèmes chronologiques, sont entourées d'une multitude de petites sépultures appartenant à des personnes dont certaines occupaient probablement des positions au sein de la maison royale. À plus d'un kilomètre de distance, dans la nécropole nord, des enclos funéraires en brique crue associés aux mêmes règnes possèdent eux aussi des tombes subsidiaires. Cette organisation n'est pas la simple juxtaposition d'un tombeau et d'un cimetière : elle révèle une topographie politique et rituelle dans laquelle la mort du souverain paraît déterminer le traitement et la position d'autres individus. Les fouilles de Flinders Petrie, les campagnes du North Abydos Project et les travaux de Laurel Bestock permettent de définir les contextes architecturaux [1–4].
+
+L'hypothèse de *retainer sacrifice* — la mise à mort d'individus de l'entourage au moment des funérailles royales — est discutée depuis les premières fouilles. Sa plausibilité reposait initialement sur la densité, les positions et les fermetures rapprochées des tombes, sans indices anatomiques suffisamment reconnus. Une recherche publiée le 5 octobre 2026 par Roselyn A. Campbell dans *Frontiers in Environmental Archaeology* renouvelle le dossier : parmi 46 crânes conservés provenant de sépultures subsidiaires associées aux enclos funéraires de Djer, Djet et Meretneith, 18 présentent des traumatismes périmortem potentiellement létaux, soit 39 % de cet échantillon [5]. Ce résultat ne démontre pas la modalité de décès de toutes les personnes enterrées ni un massacre généralisé ; il justifie en revanche une réévaluation substantielle de l'interprétation historique de la violence dans la première royauté égyptienne.
+
+L'objectif de la monographie est de traiter les tombes, les enclos, les personnes, les objets et les blessures comme des preuves différenciées. Il faut expliquer à la fois pourquoi l'on associe ces morts au pouvoir royal et pourquoi l'expression « sacrifice humain » requiert une définition rigoureuse. Les comparaisons avec Ur, étudié dans un autre dossier MYTHOS, avec la Chine ancienne ou avec les systèmes funéraires de régions africaines ne peuvent remplacer les sources d'Abydos. Les travaux de Durkheim, Vernant, Detienne, Girard, Nietzsche et Hegel servent ici à expliciter les enjeux de mémoire, d'autorité et de violence, non à prêter aux Égyptiens des discours sans attestation.
+
+### 1. Abydos : distinguer Umm el-Qaab et la nécropole nord
+
+Abydos n'est pas seulement un sanctuaire célèbre de l'Osiris des périodes pharaoniques ultérieures. Son histoire commence bien avant les temples du Moyen et du Nouvel Empire. Dans la zone appelée aujourd'hui Umm el-Qaab, au désert bas, une tradition d'inhumations d'élites précède la Ire dynastie et se transforme avec la montée de la monarchie. Les tombes royales sont construites en chambres souterraines de brique crue et de bois, avec des magasins destinés à des objets et à des provisions funéraires [2].
+
+La nécropole nord est un second secteur, distinct mais lié, où des enceintes monumentales de brique crue, de formes rectangulaires et à façades nichées, furent bâties dans le cadre des pratiques funéraires des premiers rois. Les inscriptions et la topographie permettent de relier plusieurs enclos à des souverains connus, sans que tous les édifices soient attribuables de manière identique. Le déplacement entre les deux zones reste une question historique : rien ne permet de restituer exactement chaque procession, mais l'existence de deux ensembles fonctionnellement associés est solide.
+
+La distance entre tombe et enclos interdit la simplification de la « tombe-palais » unique. On doit distinguer le lieu du dépôt du corps et celui d'activités commémoratives ou cérémonielles probablement menées à la surface. Leurs histoires architecturales se chevauchent sans se confondre.
+
+### 2. Le contexte de la formation de l'État égyptien
+
+La Ire dynastie appartient aux premières formes d'un pouvoir qui cherche à unir et administrer la vallée du Nil. La continuité entre les élites tardives prédynastiques d'Abydos et les souverains archaïques est mise en évidence par l'archéologie des tombes, la croissance de leur échelle et l'apparition de signes royaux [2–4]. Il serait cependant abusif d'imaginer un État parfaitement uniforme dès le commencement de la dynastie.
+
+La construction d'un tombeau royal n'est pas uniquement une manifestation de croyances : elle mobilise matériaux, main-d'œuvre, production agricole, stockage et techniques d'enregistrement. La disposition de nombreuses sépultures subsidiaires suggère que l'autorité du souverain s'étendait au-delà de sa propre dépouille et impliquait certains membres d'un appareil social.
+
+L'étendue du pouvoir royal et ses modalités exactes de contrainte varient au fil des règnes. On ne peut déduire de la monumentalité funéraire une centralisation absolue. Mais la capacité de réaliser simultanément des chambres, de tracer des enceintes et de réunir des biens est un indice important d'organisation politique.
+
+### 3. Philologie : nom royal, *serekh*, titres et silence rituel
+
+Le *serekh* est une convention graphique liée à la représentation du nom royal, souvent associée à une façade de palais surmontée du faucon d'Horus. Les signes des premières dynasties constituent des attestations épigraphiques de souveraineté, mais leur lecture demande le respect des formes et périodes. La présence d'un nom royal sur un objet n'est pas automatiquement une inscription donnant le nom de la personne enterrée à proximité.
+
+Les stèles de tombes subsidiaires portent parfois des noms personnels et des titres de fonctions. Elles permettent de reconnaître des administrateurs, artisans et individus rattachés à la maison royale. La terminologie sociale demeure partiellement incertaine, et une traduction approximative en « serviteur », « épouse », « concubine » ou « ministre » risque de projeter des hiérarchies et des rôles ultérieurs sur des titulatures encore en cours de formation [5].
+
+Les textes contemporains conservés ne comprennent pas un manuel décrivant la mise à mort rituelle des accompagnants. Les grands corpus doctrinaux funéraires que l'on connaît mieux pour d'autres époques ne peuvent pas être transportés rétroactivement vers le tombeau de Djer. La philologie permet de définir certaines identités ; elle ne ressuscite pas les paroles exactes du rite.
+
+### 4. Les premières fouilles de Petrie : force documentaire et biais
+
+William Matthew Flinders Petrie fouilla les tombes des premières dynasties au tournant de 1900–1901 et publia avec Francis Llewellyn Griffith les volumes *The Royal Tombs of the First Dynasty* et *The Royal Tombs of the Earliest Dynasties* [1]. Les fouilles et relevés des enclos et des sépultures subsidiaires furent repris dans les années 1920, avec des plans, photographies, inventaires d'objets et relevés d'inscriptions.
+
+Le travail de Petrie reste fondamental car il donne les provenances historiques de nombreuses trouvailles. Mais ses interprétations des sexes, rôles et traumatismes reposaient sur des connaissances anatomo-pathologiques différentes des nôtres. La présomption selon laquelle une tombe avec des parures « féminines » devait appartenir à une concubine de harem relève d'une grille sociale et parfois orientaliste, critiquée par les études récentes [5].
+
+La différence entre rapport de fouille et vérité définitive est décisive. Un dessin de chambre fournit une source primaire utile même lorsque le commentaire du fouilleur sur l'identité ou la mort de son occupant doit être révisé. Les archives anciennes sont irremplaçables et historiquement situées.
+
+### 5. Les complexes d'Aha : plusieurs constructions et non un modèle figé
+
+Aha, souverain des débuts de la Ire dynastie, possède des ensembles funéraires dont les rapports entre tombes et enclos ont été éclairés par les travaux de Laurel Bestock et du North Abydos Project. Bestock a notamment publié *The Development of Royal Funerary Cult at Abydos: Two Funerary Enclosures from the Reign of Aha* (2009) [3]. Les différences de taille et de disposition des premiers enclos montrent un développement architectural qui n'est pas simplement la répétition d'un schéma immuable.
+
+Les sépultures subsidiaires associées au règne d'Aha sont moins nombreuses que celles de certains successeurs. L'article de Campbell évoque une progression du phénomène de Aha vers les ensembles suivants, avant une réduction graduelle et sa disparition dans les pratiques connues de la IIe dynastie [5]. Mais il faut éviter de lire cette évolution comme un simple accroissement puis déclin du « fanatisme religieux » : elle peut refléter des transformations institutionnelles, de modalités d'enterrement ou de représentation du pouvoir.
+
+L'existence de plusieurs enclos et de variations internes invite à examiner les séquences de construction, les portes et les traces d'activité. Une petite taille n'implique pas automatiquement une faible importance rituelle ; les changements de programme architectural peuvent être liés à des usages encore imparfaitement connus.
+
+### 6. Djer : multiplication des sépultures et visibilité du pouvoir
+
+Le complexe funéraire de Djer possède l'un des plus grands ensembles de tombes subsidiaires de la Ire dynastie. Une synthèse du Chicago Oriental Institute et des travaux sur la formation de l'État donne quelque 318 sépultures associées à son tombeau principal à Umm el-Qaab [6–7]. Il faut distinguer ce groupe des tombes associées à l'enclos de la nécropole nord, qui relèvent d'un autre espace de documentation.
+
+Le décompte 318 est un nombre archéologique relatif à un contexte déterminé, non une statistique sur toutes les personnes tuées durant le règne. Certaines chambres peuvent avoir été perturbées ou avoir contenu des dépôts difficiles à caractériser. Leur proximité avec la tombe principale et leur disposition soutiennent une relation funéraire ; le degré de simultanéité doit être évalué sur les fermetures et les observations de terrain.
+
+Des stèles permettent de relier certaines personnes à des fonctions. La multiplication des tombes n'implique pas que tous les morts étaient des « esclaves ». Elle révèle plutôt une diversité de rôles possibles au sein de la maison royale, dont le traitement funéraire était subordonné à un programme centré sur le souverain.
+
+### 7. Djet : disposition ordonnée et attributions épigraphiques
+
+Les enclos attribués au règne de Djet comprennent des séries de petites tombes formant des rectangles et des passages orientés. Les travaux de Bestock discutent des objets porteurs du *serekh* de Djet et de quelques références au règne de Djer découvertes dans le voisinage [2]. L'attribution repose donc sur un faisceau comprenant inscriptions, proximité, quantités et chronologie. Elle n'est pas déduite d'un seul plan géométrique.
+
+La disposition des graves semble ménager certains axes en relation avec les portes, notamment des ouvertures orientales. On peut y voir une organisation cérémonielle vraisemblable, mais il serait excessif de reconstruire la succession exacte des gestes accomplis. La topographie témoigne d'une norme de mise en place des morts ; la liturgie de cette norme est perdue.
+
+Dans un débat sur le sacrifice humain, le caractère organisé des sépultures est important, mais non suffisant. Les corps peuvent être disposés après leur décès, et une organisation en rangs ne prouve ni consentement ni mode de mort. C'est le croisement avec les données anatomiques qui transforme le dossier.
+
+### 8. Meretneith : autorité féminine et ambiguïtés d'une catégorie royale
+
+Meretneith dispose d'une tombe monumentale et d'un enclos funéraire à Abydos, situation exceptionnelle pour une femme au sein des premiers complexes royaux [2–4]. Une équipe germano-autrichienne dirigée par Christiana Köhler a repris l'étude de sa tombe, notamment en mettant en évidence des restes de vin d'environ cinq millénaires et d'autres dépôts, comme l'a présenté l'Université de Vienne en octobre 2023 [8].
+
+Le nom Meretneith peut être rendu comme « Aimée de Neith », mais la présence d'un nom théophore ne donne pas à elle seule la fonction cérémonielle de la tombe. Son rôle politique — probablement régente, éventuellement détentrice d'un pouvoir souverain plus étendu — demeure débattu. Les expressions médiatiques « première femme pharaon » ou « première reine régnante » sont des hypothèses, pas des titres historiques directement attestés sous leur forme tardive.
+
+Les sépultures subsidiaires liées à Meretneith permettent également de discuter la place de la maison royale sous une figure féminine. Il serait erroné de ramener l'ensemble à une opposition moderne entre pouvoir masculin et féminin : les institutions, filiations et titres de l'époque doivent être reconstruits à partir de documents datés.
+
+### 9. Den, Semerkhet et Qa'a : réduction d'une pratique
+
+La densité des tombes subsidiaires tend à diminuer après les règnes les mieux représentés. La synthèse de l'Oriental Institute signale que la pratique se poursuit jusqu'à Qa'a, dernier souverain de la Ire dynastie, puis disparaît des grands complexes royaux connus [6]. La transformation doit être étudiée en rapport avec les changements de plan des tombes, des enclos et de la représentation du pouvoir.
+
+Une baisse du nombre des tombes autour du souverain n'établit pas nécessairement une conversion éthique ou un rejet idéologique du sacrifice. Elle peut résulter d'une transformation du rite, de formes nouvelles de représentation de l'entourage ou de modifications dans les méthodes de dépôt. Les données ne permettent pas toujours de choisir entre ces scénarios.
+
+Il convient également de distinguer les sépultures à véritables restes humains de chambres servant de magasins ou de dépôts d'objets, et des ensembles associés à des animaux. Certains secteurs de la nécropole nord ont livré des ânes ; ils ne doivent pas entrer dans un simple décompte des « victimes humaines » [6].
+
+### 10. Enclos, passages, portes et espaces cérémoniels
+
+Les enclos funéraires de la nécropole nord sont de grands rectangles de brique crue dont les murs présentent parfois des niches et des banquettes basses. Ils possèdent plusieurs accès et des espaces intérieurs relativement ouverts. Les études de Bestock montrent que les sépultures subsidiaires peuvent ménager des interruptions en relation avec les portes [2].
+
+La présence de cours ouvertes rend plausible une activité cérémonielle rassemblant des participants. Pourtant, la fonction précise de ces activités reste indéterminée. Les enclos ne sont pas les équivalents directs de temples mortuaires du Nouvel Empire, ni de lieux de réunion dont le programme complet aurait été enregistré.
+
+L'architecture fait apparaître une séparation entre espaces, qui peut être analysée à partir des dimensions, des ouvertures et des relations aux tombes. Le passage de l'analyse spatiale à l'affirmation d'un rite précis exige des traces d'offrandes, de foyers, d'activité, voire des inscriptions. Les portes constituent une donnée ; les paroles prononcées à l'entrée ne le sont pas.
+
+### 11. Le Shunet el-Zebib et l'histoire longue de l'architecture royale
+
+L'enclos de Khasekhemwy, à la fin de la IIe dynastie, connu comme Shunet el-Zebib, est important pour comprendre l'histoire ultérieure des enclos et des espaces mortuaires [2]. Sa taille, ses murs massifs et sa conservation en font un repère majeur pour l'architecture de terre crue. Les rapprochements avec le complexe de la pyramide à degrés de Djéser à Saqqara ont été discutés à partir des proportions, des portes et des façades.
+
+Il serait faux d'en déduire que tous les enclos de la Ire dynastie étaient des pyramides en miniature. La relation historique entre architecture funéraire d'Abydos et programmes de la IIIe dynastie reste une question de continuité et de transformation, non d'identité. Les innovations de Djéser s'inscrivent dans une histoire plus longue, mais possèdent leurs particularités de matériaux et de plan.
+
+Le Shunet el-Zebib montre en outre que l'histoire des premiers enclos ne doit pas être réduite à la présence ou à l'absence de tombes subsidiaires. Les significations de l'architecture peuvent survivre à une pratique funéraire particulière.
+
+### 12. Qu'est-ce qu'une sépulture subsidiaire ?
+
+Une sépulture subsidiaire est une petite tombe disposée en relation avec un complexe funéraire dominant. Le terme est descriptif : il caractérise la place et la dépendance topographique, non le statut juridique exact de l'individu enterré. Certaines contenaient des cercueils de bois ou des corps enveloppés, accompagnés de céramiques, d'objets de cuivre ou de pierre [5–6].
+
+Les inscriptions permettent parfois de nommer une personne et d'identifier un métier ou une charge. L'absence de nom ne fait pas d'elle un « esclave anonyme » au sens institutionnel. En particulier, les catégories de cour, d'entourage domestique, d'artisans et d'administrateurs peuvent se recouper.
+
+La hiérarchisation des tombes secondaires, la taille des chambres, la position par rapport au souverain et la richesse des dépôts ouvrent la possibilité de différences de statut internes. Une cour n'est pas un groupe social indifférencié.
+
+### 13. Le débat ancien : simultanéité, sacrifice et insuffisance des blessures connues
+
+Le nombre élevé d'inhumations groupées a conduit les premiers fouilleurs à envisager que des accompagnants aient été mis à mort lorsque mourait le roi. Cette hypothèse se fondait sur la construction et la fermeture de séries de tombes qui paraissaient contemporaines. Cependant, Petrie ne disposait pas de critères fiables pour reconnaître de nombreux types de traumatisme périmortem sur os secs, et il ne décrivit pas une série de blessures mortelles claires.
+
+Une hypothèse adverse considérait que plusieurs morts pouvaient avoir été réunis sans sacrifice, par exemple au terme d'une autre séquence temporelle ou à partir de corps déjà décédés. Un dépôt organisé peut donner l'illusion de simultanéité si les phases ne sont pas reconnues. La difficulté historique était de trouver un indice indépendant de la seule géométrie.
+
+Les méthodes médico-légales modernes ont rouvert le problème. Au lieu de demander seulement « les tombes semblent-elles contemporaines ? », elles permettent d'interroger les fractures, leur cicatrisation ou absence de cicatrisation, les caractéristiques des coups et les effets de la décomposition. Cette évolution ne fait pas disparaître les limites des collections excavées au début du XXe siècle.
+
+### 14. Les crânes conservés et le corpus de Campbell
+
+Dans l'étude publiée le 5 octobre 2026, Roselyn A. Campbell revient sur une collection de crânes conservée à l'Université de Cambridge, au sein de la Duckworth Collection [5]. Les éléments proviennent de sépultures subsidiaires autour des enclos funéraires de Djer, Djet et Meretneith, fouillées par Petrie dans les années 1920. Le corpus comporte 46 crânes, hors deux individus représentés seulement par des mandibules.
+
+Le petit nombre de restes conservés est un fait déterminant. Les 46 crânes ne représentent pas tous les défunts des enclos, encore moins ceux de chaque tombe royale d'Umm el-Qaab. Selon Campbell, les crânes disponibles correspondent à environ 5 à 15 % des populations funéraires estimées de chacun des enclos concernés [5]. Une statistique établie sur ce matériel ne doit pas être convertie sans précaution en taux pour la totalité de la Ire dynastie.
+
+L'échantillon a subi de nombreux biais : perturbations avant les fouilles, sélection historique des restes prélevés, transports, pertes et traitement de conservation. La méthode doit faire apparaître ces limites avant d'énoncer toute conclusion générale.
+
+### 15. Dix-huit traumatismes : ce que signifie 39 %
+
+L'article de Campbell rapporte des indices de traumatisme crânien périmortem potentiellement létal sur 18 des 46 crânes conservés, soit environ 39 % [5]. Les lésions comprennent principalement des fractures linéaires de la voûte crânienne, ainsi que certains traumatismes par arme ou outil tranchant, dont une blessure pénétrante et une atteinte située vers l'orbite. L'interprétation médico-légale suggère des coups pouvant provoquer une perte de connaissance, des saignements internes et la mort.
+
+La notion de *périmortem* signifie que l'os a été fracturé autour du moment de la mort, selon des critères taphonomiques et biomécaniques. Elle ne désigne pas nécessairement la minute exacte du décès ni le lieu où celui-ci survint. La prudence impose de distinguer traumatisme constaté, cause probable de décès et identification d'une procédure rituelle. Les deux premiers peuvent être soutenus anatomiquement ; la troisième requiert la combinaison du contexte.
+
+Il faut aussi rappeler que l'absence de lésion sur les autres crânes ne prouve pas une mort naturelle. L'asphyxie, la strangulation ou certaines formes d'empoisonnement peuvent ne pas laisser de traces osseuses facilement identifiables. Mais proposer ces mécanismes comme possibles ne revient pas à les attester. La force des données de 2026 tient à ce qu'elles fournissent enfin un indice positif de violence pour une partie de l'échantillon.
+
+### 16. Les blessures ante mortem et la vie avant le rite
+
+Campbell distingue les lésions dont les traces suggèrent une guérison ancienne de celles qui semblent contemporaines de la mort [5]. Cette différence empêche de faire de tout signe de violence une preuve d'exécution funéraire. Une blessure cicatrisée renseigne une vie antérieure et peut avoir des causes variées : accident, conflit, violence domestique, activité professionnelle.
+
+Les os peuvent également révéler des signes de stress biologique, de maladies et de conditions de vie. Ces données sont précieuses pour discuter si les personnes inhumées avaient eu un accès différencié aux ressources pendant l'enfance et l'âge adulte. Toutefois, les crânes seuls sont moins informatifs que des squelettes complets, notamment pour la détermination de certaines caractéristiques biologiques.
+
+Une archéologie du sacrifice doit être aussi une archéologie de la vie de ses victimes possibles. Réduire ces personnes à leur dernier geste supposé ferait disparaître leurs trajectoires, leurs tâches et leurs différences.
+
+### 17. Sexe, genre et biais de l'ancienne égyptologie
+
+Petrie classait parfois les individus selon des objets ou des noms qu'il interprétait comme marqueurs féminins ou masculins. La biométrie moderne des crânes a permis à Campbell de réexaminer plusieurs identifications, sans supprimer toutes les incertitudes [5]. Les os du bassin seraient plus fiables pour certaines estimations de sexe, mais ils n'ont pas été conservés de manière comparable dans cet échantillon.
+
+Une « reine », une « dame », une « compagne » ou une « concubine » ne sont pas des synonymes. Les titres des premiers temps égyptiens ne doivent pas être traduits en fonction de stéréotypes de palais oriental. Les sépultures subsidiaires peuvent contenir des hommes et des femmes de fonctions variées ; aucune représentation uniforme d'un harem ne rend compte de la diversité du matériel.
+
+La distinction entre sexe biologique estimé, identité sociale et fonction politico-religieuse est essentielle. Même une estimation anatomique sûre ne dirait pas si la personne était libre, servante, administratrice ou membre de la parenté royale. Les inscriptions et le contexte doivent compléter l'ostéologie.
+
+### 18. La paraffine de Petrie : l'archive matérielle transforme la preuve
+
+Les collections anciennes ont été souvent stabilisées avec de la paraffine et d'autres produits. Campbell signale que certains crânes d'Abydos conservent des couches épaisses de cire, parfois mêlées à du sable ou du sédiment, qui masquent les surfaces et compliquent l'analyse des fractures [5]. Le même geste de conservation qui permit à un objet fragile de survivre peut donc entraver sa lecture scientifique un siècle plus tard.
+
+Cela impose une réflexion sur la traçabilité : la provenance de la tombe, l'état au moment de la découverte, les traitements, les déplacements et les photographies de laboratoire doivent accompagner les conclusions. Une fracture visible aujourd'hui peut être ancienne ou résulter d'un dommage postérieur ; sa classification exige une comparaison méthodique des surfaces et des circonstances.
+
+La révision des collections anciennes n'est pas une dévalorisation des fouilleurs. Elle démontre que la connaissance avance en utilisant des méthodes et des questions auxquelles les archives de l'époque ne pouvaient pas entièrement répondre.
+
+### 19. La question du consentement : un silence qu'il faut maintenir
+
+La présence de traumatismes potentiellement létaux dans des tombes subsidiaires ne démontre rien sur l'adhésion des personnes concernées à l'acte qui a entraîné leur mort. Un discours de sacrifice « volontaire » peut être imposé par les élites ou déduit par l'observateur moderne d'un ordre apparent des dépôts. Sans document explicite, attribuer un consentement individuel serait inventer une source.
+
+Il serait tout aussi abusif de décrire, pour chaque individu, un mode d'exécution ou une scène de violence détaillée non attestée. Les données permettent d'affirmer que certaines personnes ont vraisemblablement subi des coups proches de la mort ; la relation entre ces coups et la cérémonie funéraire relève d'une interprétation très fortement soutenue par leur contexte.
+
+La réflexion historique doit distinguer décès violent, acte rituel et institution sociale. Une même opération peut comporter de la coercition, de la mise en scène et des justifications religieuses sans que nous possédions la formulation verbale de ces justifications.
+
+### 20. À quoi sert la mise à mort d'un entourage ?
+
+Plusieurs hypothèses ont été proposées pour comprendre l'inhumation d'accompagnants près du souverain. La première suppose le transfert vers le monde des morts d'une maison royale idéalisée, avec ses fonctions et services. La deuxième y voit une démonstration de pouvoir sur des personnes, capable de matérialiser la hiérarchie au moment d'une succession. La troisième interroge une fonction de protection ou de continuité rituelle pour le roi.
+
+Ces propositions ne sont pas exclusives ; elles ne sont pas toutes démontrées avec le même degré de précision. Le rapprochement avec des pratiques funéraires plus tardives où les objets figurent des serviteurs ne prouve pas directement que le rite de la Ire dynastie poursuivait la même fin. Il faut rappeler que les textes de l'époque ne nous donnent pas l'explication indigène.
+
+L'architecture peut représenter une maison du pouvoir dans la mort ; elle peut aussi contribuer à faire apparaître un nouveau souverain parmi les vivants. La mise à mort de certains membres de l'entourage pourrait avoir transformé les relations institutionnelles et symboliques de la cour. Cette hypothèse doit être soutenue par les données de rang et de chronologie, non considérée comme acquise.
+
+### 21. Le contraste avec Ur : comparaison contrôlée et différences de contextes
+
+Le cimetière royal d'Ur, déjà étudié dans cette collection, présente lui aussi des sépultures exceptionnelles accompagnées de groupes de personnes. L'étude des crânes de deux accompagnants à Ur a conduit à discuter des coups à la tête et de la préparation des corps. La comparaison avec Abydos est pertinente sur les méthodes : nature du traumatisme, association architecturale, ordonnancement des corps, statut des objets et limites de l'échantillon.
+
+Elle est toutefois trompeuse si l'on suppose une même tradition d'exécution. À Ur, les ensembles PG 800, PG 789 et PG 1237 possèdent leurs formes, objets et contextes ; à Abydos, la séparation entre tombes royales et enclos cérémoniels, les rangées de sépultures secondaires et les premières écritures royales construisent un système distinct. Il n'y a pas de preuve qu'Ur ait « emprunté » ce rite à Abydos.
+
+L'historien doit résister à la recherche de scènes équivalentes. Deux sociétés peuvent associer la mort du puissant à celle d'accompagnants sans partager ni le mode opératoire, ni la théologie, ni l'organisation sociale.
+
+### 22. L'Afrique nilotique : comparer Kerma et l'Égypte sans effacer les différences
+
+Des ensembles funéraires associés au royaume de Kerma et à d'autres régions du Nil ont été étudiés en relation avec les morts accompagnant des personnes de haut rang. Les comparaisons avec Abydos peuvent être utiles pour poser des questions sur la dépendance sociale, les architectures périphériques et les pratiques de prestige. Les chronologies sont cependant différentes et les contextes politiques ne peuvent être fusionnés sous l'étiquette « sacrifice africain ».
+
+Une région entière ne constitue pas une seule tradition. La Nubie et l'Égypte ont connu des contacts, des conflits et des développements institutionnels distincts. Une similitude de sépulture doit être étudiée avec les éléments matériels propres au site et des sources datées.
+
+L'anthropologie comparée gagne à définir un ensemble de variables plutôt qu'à assimiler la violence funéraire à une caractéristique transhistorique du continent.
+
+### 23. La Chine ancienne et les tombes accompagnées : un autre régime documentaire
+
+Les sépultures et fosses de certaines dynasties chinoises historiquement attestées offrent des exemples où l'archéologie de la mise à mort peut être confrontée à une documentation écrite ou divinatoire plus abondante. Les pratiques varient considérablement selon les périodes et les contextes. On ne peut traiter l'ensemble des « sacrifices chinois » comme un système unique.
+
+Le rapprochement méthodologique porte sur l'enquête : diagnostic des blessures, nombre de morts, disposition des fosses, statut du défunt principal et inscriptions éventuelles. Il ne prouve aucune diffusion de rite entre le Nil et la Chine. L'analogie ne doit pas effacer les différences de chronologie de plusieurs siècles ou millénaires.
+
+Cette comparaison montre aussi que des pratiques similaires en apparence peuvent être expliquées par des textes fort différents : fondation d'un bâtiment, culte ancestral, souveraineté militaire ou funérailles. À Abydos, l'absence d'un texte de mise à mort impose plus de réserve.
+
+### 24. Inde, Iran, mondes grecs et américains : pourquoi le comparatisme ne doit pas devenir une généalogie
+
+Les textes de l'Inde védique sur les rites funéraires ou sacrificiels ne permettent pas de traduire les sépultures subsidiaires d'Abydos. Les pratiques iraniennes de pureté ou les textes avestiques appartiennent à d'autres horizons et ne justifient pas de reconstruire un « interdit du cadavre » spécifique à la Ire dynastie. De même, les conceptions grecques de l'Hadès, des héros et des offrandes aux morts ne décrivent pas les intentions des premiers souverains égyptiens.
+
+Pour les Amériques, des situations de morts accompagnant des élites ou d'inhumations collectives peuvent servir de comparaison seulement si elles sont datées, documentées et contextualisées. Les expliquer par un « archétype universel du sacrifice » déplacerait la question au lieu de la résoudre.
+
+Le bon comparatisme distingue l'événement funéraire, le rapport au pouvoir, les signes matériels de mise à mort et le discours de légitimation. Il conserve les écarts lorsqu'une source manque. La forme apparente d'un rite n'en définit pas automatiquement la croyance.
+
+### 25. Durkheim : le sacré comme ordre social, mais quel ordre ?
+
+Émile Durkheim a analysé les rites comme des dispositifs par lesquels une société se représente et renforce certaines distinctions. Les enclos d'Abydos permettent d'examiner comment la mort royale pourrait mobiliser la cour, les travailleurs et les dépendants dans un même programme de mémoire et d'autorité.
+
+Mais une lecture exclusivement consensuelle serait problématique si les lésions démontrent des mises à mort violentes. La cérémonie collective peut produire ou reproduire un ordre social inégal, sans que toutes les personnes y participent librement. Le « sacré » n'est donc pas automatiquement une expérience partagée dans l'adhésion.
+
+La force d'une approche sociologique est de poser des questions au-delà de la théologie : qui construisait, organisait, ordonnait et bénéficiait du programme funéraire ? Elle doit pourtant rester limitée par les traces disponibles : l'existence d'un rite commun n'autorise pas à inventer les croyances de chaque participant.
+
+### 26. Vernant et Detienne : comparer le sacrifice plutôt que le déclarer universel
+
+Jean-Pierre Vernant et Marcel Detienne ont montré comment les sacrifices grecs de l'époque historique se comprennent par leurs procédures, leurs partages et leurs relations aux institutions civiques. Leur méthode invite à décomposer les funérailles d'Abydos en opérations : décès du souverain, éventuelles mises à mort, préparation des corps, dépôt, fermeture, gestes autour de l'enclos et entretien de la mémoire.
+
+Il n'y a aucune raison de chercher à Abydos une découpe des viandes comparable au sacrifice animal grec. Le mot « sacrifice » recouvre des pratiques très éloignées ; il ne doit pas faire disparaître leur particularité. La violence potentiellement létale, lorsqu'elle est constatée, appartient ici à des personnes associées à la maison royale et à un contexte funéraire.
+
+Le comparatisme de Detienne invite à demander non pas « d'où vient le sacrifice humain ? » comme s'il possédait une essence unique, mais « comment des sociétés instituent-elles, documentent-elles et justifient-elles la mise à mort d'accompagnants dans une sépulture de pouvoir ? ». Cette question ouvre la comparaison tout en maintenant l'absence de discours conservé.
+
+### 27. Girard : la victime est-elle un bouc émissaire ?
+
+Le modèle du mécanisme victimaire de René Girard relie certaines mises à mort rituelles à la résolution d'une crise de violence mimétique. Les tombes subsidiaires d'Abydos livrent des données de violence et de hiérarchie, mais pas de récit montrant que les victimes furent désignées comme responsables d'une crise puis éliminées pour restaurer la paix. Leur relation au souverain est le fait le mieux établi.
+
+Il serait donc erroné de les qualifier automatiquement de « boucs émissaires ». Une mise à mort funéraire peut manifester la possession de personnes par une institution, la continuité d'un entourage ou un dispositif de transition dynastique. Ces possibilités peuvent impliquer une violence ritualisée sans correspondre au mécanisme décrit par Girard.
+
+La théorie apporte une question sur le rapport entre violence et ordre ; elle ne doit pas être utilisée comme document primaire sur les croyances de la Ire dynastie.
+
+### 28. Nietzsche, Hegel et l'asymétrie de la mémoire
+
+L'histoire monumentale, au sens où Nietzsche discute ses usages dans la seconde *Considération inactuelle*, invite à examiner comment un ordre social inscrit la grandeur de certains morts tout en laissant d'autres sans mémoire individuelle comparable. Les souverains d'Abydos portent des noms, possèdent de grandes architectures et font l'objet de traditions ultérieures ; plusieurs accompagnants ne sont connus que par une place dans une rangée ou par une lésion osseuse.
+
+Ce contraste pose une question de philosophie de l'histoire : qui devient sujet du récit et qui reste matière d'un monument ? L'étude ne doit pas se limiter à une histoire héroïque des premiers pharaons. Les individus anonymes constituent eux aussi des sources de l'histoire du pouvoir.
+
+Les analyses hégéliennes de la reconnaissance et de la mort peuvent aider à formuler cette différence entre une personne reconnue comme souverain et des personnes placées dans un rapport de dépendance. Mais elles ne permettent pas de reconstituer la conscience religieuse des acteurs. La philosophie éclaire la question ; l'ostéologie et l'archéologie établissent les faits.
+
+### 29. Une critique de l'idée de progrès moral linéaire
+
+La disparition progressive des tombes subsidiaires de grande ampleur après la Ire dynastie ne doit pas être racontée mécaniquement comme la victoire du progrès moral sur une barbarie primitive. Les pratiques funéraires peuvent changer en fonction de l'institution monarchique, de modes nouveaux de représentation des dépendants ou de transformations économiques et religieuses.
+
+Un objet de substitution ne remplace pas nécessairement, de manière démontrable, une personne précédemment mise à mort. Pour établir une substitution, il faudrait une série de documents montrant un passage de procédure à une autre, avec une chronologie solide. Les objets funéraires ultérieurs ne doivent pas être assimilés automatiquement à des « serviteurs vivants remplacés » dans toutes les tombes.
+
+L'enquête historique conserve donc son indépendance vis-à-vis de récits évolutionnistes où la civilisation progresserait nécessairement d'une religion sanglante vers une religion symbolique. Les sociétés sont plus diverses et leurs institutions ne suivent pas une unique ligne.
+
+### 30. Les controverses méthodologiques de la bioarchéologie
+
+L'étude de Campbell offre une réévaluation puissante, mais sa force dépend aussi de ses limites clairement indiquées. Les crânes ne constituent pas une série exhaustive, les os du reste du corps sont souvent indisponibles, les traitements historiques compliquent l'observation des surfaces et les personnes représentées ne forment pas nécessairement un échantillon aléatoire des tombes.
+
+L'estimation du sexe à partir du crâne n'a pas la même fiabilité que celle du bassin. La classification des fractures périmortem peut également rencontrer des ambiguïtés lorsque les conditions de conservation ont été perturbées. La causalité précise de la mort n'est pas toujours identifiable, même lorsqu'un coup violent est reconnu.
+
+Le nombre 18 sur 46 ne doit pas être résumé par « 39 % de tous les serviteurs furent sacrifiés ». Il désigne une fréquence de traumatismes compatibles avec des violences potentiellement létales dans une collection particulière. Le contexte funéraire soutient ensuite l'interprétation de mise à mort rituelle d'une partie des accompagnants. La distinction entre observation et inférence doit rester explicite.
+
+### 31. État des connaissances : quatre catégories
+
+**Faits établis.** Abydos possède des tombes royales de la Ire dynastie à Umm el-Qaab et des enclos cérémoniels dans la nécropole nord ; les deux secteurs possèdent de nombreuses sépultures subsidiaires ; des stèles et objets donnent des noms royaux et certains noms de personnes ; le phénomène varie au fil des règnes ; 46 crânes issus de trois enclos ont été réexaminés et 18 présentent des lésions périmortem potentiellement létales dans la recherche rapportée en 2026.
+
+**Interprétations solides mais soumises aux preuves.** Une partie des accompagnants a probablement été mise à mort dans le cadre des pratiques funéraires de la monarchie archaïque ; les rangées de sépultures constituent un programme politique et cérémoniel ; les enclos étaient employés pour des activités liées au culte mortuaire royal.
+
+**Controverses.** Modalité de décès des personnes sans lésion osseuse visible ; proportion réelle de victimes dans la population initiale ; rôle précis des individus enterrés ; chronologie fine des fermetures ; portée politique du titre et de la position de Meretneith ; relation exacte des premiers enclos avec les temples mortuaires ultérieurs.
+
+**Non attesté.** Une formule d'exécution royale ; le consentement libre de chaque accompagnant ; l'identité des officiants et leur rôle juridique ; un dieu unique destinataire de toutes les morts ; une procédure universelle identique à Ur, en Nubie, en Chine ou ailleurs.
+
+### 32. Programme de recherche et de conservation
+
+La priorité est d'accroître la contextualisation des collections anciennes par les archives, les photographies et les inventaires, puis de comparer les traumatismes avec les conditions de conservation. De nouvelles analyses pourraient examiner les zones de fracture, leurs orientations, les signes de cicatrisation et les altérations postérieures, à condition de respecter les contraintes éthiques et patrimoniales.
+
+Les analyses spatiales devraient distinguer tombes subsidiaires entourant une chambre royale et tombes associées à un enclos cérémoniel, en évitant de fusionner les effectifs. La révision des lectures épigraphiques doit accompagner toute proposition sur les fonctions administratives et les identités sociales. L'archéologie de la brique crue permet d'étudier les transformations de murs, passages et portes.
+
+La diffusion publique des données doit protéger les restes humains et préciser le statut de chaque image. Un dessin de Petrie est une source historique de terrain, une reconstruction récente est une hypothèse, une photographie d'ossements est un témoignage matériel soumis à des règles de publication. Aucune ne doit être utilisée pour illustrer gratuitement une scène de meurtre reconstituée.
+
+### Conclusion générale
+
+Les premières dynasties égyptiennes montrent comment un pouvoir politique peut organiser les morts autour du corps du souverain et transformer une nécropole en paysage de souveraineté. Les enclos, les sépultures subsidiaires et les premiers noms écrits fournissent des témoignages précis, mais discontinus, sur les relations entre cour et monarchie. Les progrès récents de la bioarchéologie rendent l'interprétation des mises à mort rituelles nettement plus plausible qu'elle ne l'était lorsqu'elle reposait presque exclusivement sur la disposition des tombes.
+
+Les dix-huit crânes traumatisés analysés parmi quarante-six ne doivent être ni ignorés ni transformés en preuve d'une procédure uniforme. L'enquête scientifique requiert des nombres situés, des blessures correctement identifiées et une distinction de genre documentaire. La violence peut être au cœur d'un ordre cérémoniel sans que nous puissions traduire la totalité de son discours religieux.
+
+La prochaine étape de l'histoire comparée des origines du sacré consiste à étudier les transformations des offrandes et des représentations de l'entourage royal, de la Ire aux IIIe–IVe dynasties, sans prétendre démontrer a priori qu'un objet remplaça systématiquement une vie humaine. Une telle étude doit être fondée sur des ensembles archéologiques précis, non sur une théorie générale du « progrès » du rite.
+
+### Sources primaires et bibliographie critique vérifiée
+
+**Fouilles anciennes et corpus archéologiques :**
+
+1. W. M. Flinders Petrie, avec F. Ll. Griffith, [*The Royal Tombs of the First Dynasty*, part I (1900), et *The Royal Tombs of the Earliest Dynasties*, part II (1901)](https://library.si.edu/digital-library/book/royaltombsfirst1petr), Egypt Exploration Fund ; [volume II](https://library.si.edu/digital-library/book/royaltombsfirst2petr). Premiers rapports de terrain et épigraphie ; les interprétations doivent être confrontées aux réexamens modernes.
+2. Laurel D. Bestock, [« The Early Dynastic Funerary Enclosures of Abydos »](https://doi.org/10.3406/arnil.2008.956), *Archéo-Nil* 18 (2008), p. 42–59. Plans, inscriptions, topographie et programmes d'enclos de la nécropole nord.
+3. Laurel D. Bestock, *The Development of Royal Funerary Cult at Abydos: Two Funerary Enclosures from the Reign of Aha*, *Menes* 6, Harrassowitz, Wiesbaden, 2009. Étude des premières enceintes et de la genèse d'un ensemble cultuel royal.
+4. David O'Connor, *Abydos: Egypt's First Pharaohs and the Cult of Osiris*, Thames & Hudson, 2009. Synthèse scientifique de l'archéologie des premières dynasties et de la longue durée du site.
+5. Roselyn A. Campbell, [« New data from old bones: using bioarchaeology and forensics to reassess legacy data from ancient Abydos, Egypt »](https://doi.org/10.3389/fearc.2026.1858940), *Frontiers in Environmental Archaeology* 5, article 1858940, **5 octobre 2026**, corrigé le 12 octobre 2026. Publication principale sur les 46 crânes, le traumatisme périmortem, la paléopathologie et les biais des collections anciennes.
+6. The Oriental Institute / University of Chicago, *[Before the Pyramids: The Origins of Egyptian Civilization](https://isac.uchicago.edu/publications/before-pyramids-origins-egyptian-civilization)*, sous la direction d'Emily Teeter, 2011, rubrique « Subsidiary Burials of the First Dynasty », catalogue des sépultures et contexte des tombeaux royaux.
+7. Alice Stevenson, [« The Egyptian Predynastic and State Formation »](https://doi.org/10.1007/s10814-016-9094-7), *Journal of Archaeological Research* 24 (2016), p. 421–468, synthèse sur la formation de l'État, les tombes royales et les accompagnants.
+8. Université de Vienne, [« 5,000-year-old wine for Egyptian queen »](https://www.univie.ac.at/en/news/press-room/press-releases/detail/5000-year-old-wine-for-egyptian-queen), 9 octobre 2023, résultats de la mission dirigée par Christiana Köhler sur le complexe de Meretneith ; les hypothèses de règne féminin demeurent discutées.
+9. Roselyn A. Campbell, travaux antérieurs de 2019 sur les collections crâniennes d'Abydos, tels que présentés et référencés dans Campbell (2026) ; ne pas leur attribuer des données non publiées.
+
+**Textes et méthodes :**
+
+10. Émile Durkheim, *Les Formes élémentaires de la vie religieuse*, 1912.
+11. Jean-Pierre Vernant, *Mythe et société en Grèce ancienne*, 1974 ; Marcel Detienne et Jean-Pierre Vernant (dir.), *La Cuisine du sacrifice en pays grec*, 1979 ; Marcel Detienne, *Comparer l'incomparable*, 2000.
+12. René Girard, *La Violence et le Sacré*, 1972 ; Mircea Eliade, *Le Sacré et le Profane*, 1957.
+13. Friedrich Nietzsche, *De l'utilité et de l'inconvénient de l'histoire pour la vie*, deuxième *Considération inactuelle*, 1874 ; G. W. F. Hegel, *Leçons sur la philosophie de l'histoire* et *Leçons sur l'esthétique*, éditions posthumes.
+
+**Principe de preuve.** Les relevés de Petrie, les inscriptions et les contextes de tombes sont des sources primaires de terrain ; les études contemporaines de Bestock et Campbell interprètent les données à l'aide d'autres méthodes. Les textes religieux égyptiens postérieurs ne constituent pas automatiquement des descriptions de la liturgie des enclos de la Ire dynastie. La philologie doit expliciter la provenance et la date de chaque mot ancien.
+
+### Iconographie scientifique et légendes
+
+- **Plan des tombes royales d'Umm el-Qaab et des enclos de la nécropole nord**, Bestock (2008), figures 1–2 : « Deux espaces monumentaux distincts ; emplacement des rangées de sépultures subsidiaires et des enclos. »
+- **Relevés et stèles de tombes subsidiaires**, Petrie, *Royal Tombs*, volumes I–II ; Smithsonian Libraries, exemplaires numérisés avec mention de domaine public pour l'édition conservée : « Document historique de fouille, lecture épigraphique à confronter aux éditions modernes. »
+- **Photographies des fouilles et de conservation**, North Abydos Project et archives institutionnelles, sous réserve d'autorisations de republication : « Sépultures et briques crues ; état de conservation différent de celui du début du IIIe millénaire. »
+- **Analyse comparative des traumatismes**, Campbell (2026), planches ou figure scientifique selon la licence originale : « Lésions périmortem reconnues dans l'échantillon de 46 crânes ; aucun chiffre ne doit être extrapolé automatiquement à toutes les sépultures subsidiaires. »
+- **Ensemble de Meretneith et mobilier de vin**, Université de Vienne (2023), photos du projet avec crédits : « Sépulture féminine de très haut rang ; statut politique exact objet de débats. »
+
+Ne pas fabriquer d'illustration pseudo-archéologique présentée comme une photographie, de légende affirmant une scène d'exécution imaginaire, ni de numéro définitif. Les droits, auteurs et licences des images seront vérifiés avant leur intégration effective au site.

@@ -1,0 +1,611 @@
+# MYTHOS — Cycle universitaire de MYTHOLOGIE COMPARÉE — Volume CCLXXXI (281)
+
+## MC-089 — Le sel des dieux : purification, offrande, alliance et conservation, de l’Égypte à l’Assyrie, d’Israël à Rome
+
+**Monographie universitaire originale — 5 novembre 2026.**  
+**Disciplines :** histoire comparée des religions ; philologie hébraïque, latine et grecque ; assyriologie ; égyptologie ; histoire des techniques minérales ; histoire de l'alimentation ; droit rituel ; philosophie du temps, des corps et de l'obligation.  
+**Corpus principal :** SAA 20 037, VAT 8005, droit 17–20 et revers 22–23 ; Hérodote, *Histoires* II, 86–88 ; cache d'embaumement KV54, objet Met 1988.437.2 ; Lévitique 2, 13 ; Nombres 18, 19 ; 2 Chroniques 13, 5 ; Ézéchiel 43, 24 ; 2 Rois 2, 19–22 ; Juges 9, 45 ; Genèse 19, 26 ; Virgile, *Énéide* II, 133 et IV, 517 ; Servius augmenté, commentaire aux *Bucoliques* VIII, 82 ; Pline l'Ancien, *Histoire naturelle* XXXI, passage sur les usages cultuels du sel ; Porphyre, *De l'abstinence* II, 5, 17, 20, 33–34 ; textes de réception chrétienne Matthieu 5, 13 et Marc 9, 49–50.
+
+**Méthode et statut.** [A] = attestation textuelle, épigraphique ou matérielle précisément localisée ; [L] = analyse philologique ; [H] = hypothèse historique ou interprétation discutée ; [C] = comparaison limitée qui ne présume pas d'un transfert ; [P] = lecture philosophique explicitement contemporaine ; [N] = limite négative de la preuve. Les textes religieux attestent des représentations et des prescriptions, non la réalité empirique de leurs effets miraculeux. Les dates suivent les notices muséales lorsque celles-ci constituent le repère de l'objet.
+
+**Principe éditorial.** MC-089 est un identifiant historique de série ; le numéro canonique du volume n'est pas décidé par l'auteur. Les variables 281 et CCLXXXI sont destinées à l'attribution transactionnelle après relecture de la dernière branche main. Le présent manuscrit n'affirme pas son déploiement sur bobmythos.fr. Il préserve sans modification les autres travaux et planifications.
+
+### Résumé analytique
+
+Le « sel » n'est pas un objet unique dans les religions anciennes. Le chlorure de sodium utilisé pour assaisonner du pain ou une viande n'est pas le mélange naturel de carbonates et de bicarbonates qu'on appelle natron et que des Égyptiens employèrent dans la dessiccation et certains rites de purification. Un texte néo-assyrien prescrit de déposer du sel à une table et sur des aliments destinés à des divinités ; le Lévitique demande du sel avec les offrandes et parle d'un « sel de l'alliance » ; les livres des Nombres et des Chroniques emploient l'expression « alliance de sel » pour des obligations durables ; la tradition romaine conserve une préparation spéciale de grain et de sel, *mola salsa*, attribuée aux Vestales ; des textes philosophiques grecs valorisent l'offrande peu coûteuse sans fournir une doctrine universelle du sel.
+
+La comparaison est instructive **à condition de maintenir les différences de matière, de geste, d'agent et de fonction**. Dans l'embaumement, une substance minérale contribue à extraire l'humidité du corps ; dans une offrande, elle s'intègre à une prescription adressée à des puissances ; dans une alliance, le sel devient mot d'une obligation ; dans la destruction de Sichem, il marque la violence d'un vainqueur ; dans le récit d'Élisée, il est l'instrument narratif d'une guérison d'eau ; au sein du rite romain, il participe à la transformation d'une céréale en matière sacrificielle. « Purifier », « conserver », « saler » et « sanctifier » sont des opérations dont le rapprochement ne fait pas des synonymes.
+
+**Proposition philosophique [P].** Le sel donne une forme matérielle à plusieurs opérations de frontière : séparer humidité et corps ; distinguer nourriture ordinaire et offrande ; marquer une relation durable ; qualifier un espace comme dévasté ; répartir les tâches entre spécialistes. Sa puissance symbolique peut tenir à la combinaison de modestie apparente et de nécessités ordinaires, mais l'historien ne doit jamais transformer cette hypothèse en explication des croyances de toutes les sociétés. Les sources permettent de penser des usages, pas de décréter une « religion primitive du sel ».
+
+**Continuité et non-duplication.** *Origines du sacré*, chapitre 645, étudie le natron et les temps de dessiccation ; chapitre 653, les rites de *tākultu* assyriens ; chapitre 448, les Vestales ; chapitre 559, diverses purifications. MC-040 et MC-064 concernent les repas et offrandes divines. MC-089 n'est pas une réécriture de ces études : il analyse **les divergences de sens produites par l'emploi de substances minérales comparables dans des actes juridiques, alimentaires, funéraires et cultuels**. Les études existantes restent dans leur périmètre et seront seulement citées.
+
+## I. L'épreuve de l'équivalence : sels, matières et gestes
+
+### 1. Pourquoi le pluriel « sels » s'impose [A]
+
+Le chlorure de sodium, le natron naturel et des mélanges destinés à la conservation ne sont pas des matières interchangeables. Le natron égyptien comprend principalement des carbonates et bicarbonates de sodium, avec d'autres composants selon le gisement ; les analyses des dépôts varient. [N] Il serait abusif de décrire une expérience utilisant du sel de table comme reproduction d'un rite au natron ou d'en conclure que les résultats physiques seraient identiques. La composition du réactif est une donnée de l'histoire des techniques, pas un détail que le terme « sel » permettrait d'ignorer.
+
+### 2. Le lexème ne suffit pas à identifier le minéral [L]
+
+Le français traduit souvent de manière commode plusieurs termes anciens par « sel », tandis que d'autres textes désignent précisément le natron ou une solution purificatrice. Le grec νίτρον (*nítron*) de la description d'Hérodote n'est pas automatiquement le nitrate de potassium que des traductions anciennes appellent parfois « salpêtre ». L'hébreu מֶלַח (*melaḥ*) relève de la catégorie alimentaire et sacrificielle du sel. Le latin *sal* peut désigner la matière d'assaisonnement ; *mola salsa* renvoie à une préparation. [L] La langue indique une catégorie d'usage qu'une analyse minéralogique peut affiner, non remplacer.
+
+### 3. Matière identifiable, effet supposé, sens rituel [A, P]
+
+Une poudre peut avoir une composition chimique contrôlable ; un texte peut lui attribuer un effet purificatoire ou un pouvoir d'alliance ; une institution peut exiger son emploi. Ces propositions ne sont pas du même type. [P] La science des matériaux traite d'humidité et de réactions ; l'histoire des religions traite des situations dans lesquelles des humains qualifient une matière de nécessaire. Aucune loi chimique ne permet de déduire la légitimité d'un prêtre ; aucune prescription de prêtre ne prouve à elle seule un effet physico-chimique uniforme.
+
+### 4. Quatre verbes qui résistent à la généralisation [L]
+
+Saler un pain, répandre du sel sur un autel, traiter un cadavre au natron et désigner une promesse comme « alliance de sel » sont quatre actes. Le premier peut aussi participer à un rite, mais il reste matériellement différent du troisième ; le quatrième peut être une métaphore sans dispersion de grains de sel dans la scène racontée. [N] Traduire l'ensemble par « purifier avec le sel » reviendrait à supprimer l'objet historique de l'enquête. La comparaison doit suivre le verbe et son complément, puis seulement proposer une signification.
+
+### 5. Un geste quotidien devient-il sacré automatiquement ? [N]
+
+Le sel intervient dans des cuisines, des ateliers, des échanges et des administrations sans que chaque usage soit religieux. À l'inverse, la présence d'un ingrédient familier au sein d'un acte cultuel peut lui donner un statut prescrit. [N] Une salière domestique ou une mine ancienne ne constituent pas des preuves de sacrifice. Pour inférer un rituel, il faut des textes, des contextes archéologiques ou des associations suffisantes avec les lieux et gestes pertinents. L'archéologie du sel ne devient pas spontanément une archéologie de la religion.
+
+### 6. Pureté, stérilité, conservation : des valeurs divergentes [C]
+
+Le même mot « sel » peut apparaître dans une formule de permanence, un récit de guérison ou une image de désolation. Ce ne sont pas des versions d'une signification fondamentale nécessairement positive. [C] La comparaison sera plus robuste si elle documente les oppositions : le sel qui accompagne des offrandes dans Lévitique 2, 13 n'a pas le même rôle narratif que celui qui marque le site de Sichem détruite en Juges 9, 45. Une théorie symbolique incapable de rendre compte de cette divergence est trop générale pour être utile.
+
+### 7. Le problème de la preuve négative [N]
+
+Les textes rituels décrivent de manière inégale les ingrédients. L'absence de sel dans une formule connue ne prouve pas qu'aucun participant n'en possédait ni que le rituel interdisait ce matériau. À l'inverse, si un manuel prescrit expressément du sel, on ne peut supposer qu'il était présent dans toutes les cérémonies sans autre preuve. [N] La discipline de l'enquête est de limiter les affirmations à ce que permettent les passages. Les reconstructions universelles comblent trop facilement les silences documentaires.
+
+### 8. Un critère comparatif à six variables [C]
+
+Pour chaque document, nous noterons le terme original, le matériau le plus probable, le geste attesté, le destinataire, le contexte institutionnel et la fonction explicitement énoncée. Nous ajouterons la datation du témoin et son rapport à une éventuelle tradition plus ancienne. [C] Ce tableau empêchera la confusion entre un nom de substance, une opération et une interprétation moderne. Une valeur « inconnue » doit être conservée lorsqu'aucune source fiable ne permet de remplir la case.
+
+### 9. Les risques du diffusionnisme minéral [H]
+
+L'emploi du sel dans plusieurs sociétés ne prouve aucune origine commune de rites. Les pratiques de conservation, de traitement alimentaire et d'échanges peuvent répondre à des conditions matérielles comparables ; les réseaux de commerce peuvent aussi transmettre produits et savoir-faire. [H] Pour démontrer un emprunt religieux précis, il faudrait connaître les acteurs, la chronologie, les noms et les opérations. La seule présence d'une matière indispensable au vivant n'est pas une signature de filiation culturelle.
+
+### 10. Les objets photographiables et leur piège [N]
+
+Un sac de natron conservé à New York et un texte latin sur la farine salée ne constituent pas la même sorte d'archive. Le premier permet de photographier le contenant et sa matière ; le second reconstruit une recette rituelle à travers une tradition écrite tardive. [N] Présenter côte à côte des images sans mention des différences produirait une fausse uniformité visuelle. Une monographie illustrée devra séparer « artefact ancien », « texte ancien », « photographie de fouille », « reconstruction historique » et « schéma pédagogique moderne ».
+
+## II. Égypte : le natron entre dessiccation, purification et mémoire du corps
+
+### 11. La nature du natron [A]
+
+Le Metropolitan Museum of Art décrit le natron comme un matériau minéral naturel provenant notamment de la région du Ouadi Natroun, à l'ouest du delta du Nil. La composition de ces dépôts dépend des conditions géologiques et des prélèvements. Il est employé pour la dessiccation des corps dans l'embaumement. [N] « Natron » n'est donc pas le nom d'un sel alimentaire pur ; son histoire technique engage carbonate, bicarbonate et autres composants. Les appellations des anciens et les formules des chimistes ne doivent pas être confondues.
+
+### 12. La cache KV54 : lieu et provenance [A]
+
+Dans la Vallée des Rois, Theodore M. Davis et ses équipes découvrirent en 1907–1908 une fosse près de la tombe de Séthi Ier, désignée KV54. Son contenu comprenait notamment des jarres, textiles et petits sacs de natron. La fouille fut d'abord interprétée de manière erronée ; Herbert Winlock reconnut plus tard le lien du dépôt avec les restes de l'embaumement de Toutankhamon. Le site KV54 n'est pas la tombe KV62. [A] Cette distinction de contexte est déterminante : l'objet témoigne d'un processus et de ses restes, non du mobilier déposé dans la chambre funéraire du jeune roi.
+
+### 13. Le sac 1988.437.2 : matière en contexte [A]
+
+Le Metropolitan Museum conserve un sac de lin rempli de natron, numéro d'inventaire **1988.437.2**, daté du règne de Toutankhamon, environ 1328–1318 av. n. è. selon la notice actuelle. Ses dimensions sont d'environ 8,5 × 6,6 × 3,6 cm. [A] L'objet matérialise une quantité transportable et conservée dans un contexte funéraire. [N] Il ne prouve pas que tout le natron employé pour l'embaumement fut apporté dans des sacs de cette forme, ni que les gestes de chaque spécialiste sont directement visibles à partir de ce seul contenant.
+
+### 14. Un objet de déchet peut être une grande archive [A, P]
+
+La cache contient des matériaux que les préparateurs n'ont pas nécessairement destinés à être contemplés comme les trésors funéraires. [P] Elle montre combien l'histoire des techniques rituelles dépend parfois des restes d'opérations : sachets, tissus, matières devenues résidus. L'archéologie recueille ce qui subsiste, non ce que l'institution aurait choisi de publier. La présence d'une matière dans un dépôt permet de définir sa participation à une pratique, sans restituer automatiquement chaque étape de celle-ci.
+
+### 15. La capacité de dessiccation [A]
+
+Le natron contribue à retirer de l'eau des tissus, ce qui peut freiner certaines dégradations biologiques. Les traitements des corps mobilisaient aussi d'autres substances, techniques et durées. [N] Le nom de natron ne signifie pas « stérilisation absolue » ; le résultat dépend des quantités, de l'humidité, des tissus et des conditions de conservation. L'expérience de laboratoire moderne peut éclairer ces mécanismes, mais doit préciser le matériau analysé et les limites de transposition vers un corps ancien traité selon un rituel complet.
+
+### 16. Hérodote, *Histoires* II, 86 : une norme de durée [A]
+
+Hérodote rapporte qu'un procédé d'embaumement élaboré inclut le traitement du corps au *nítron* pendant soixante-dix jours, avant lavage, bandelettes et dépôt. [A] C'est une description antique de ce que l'auteur a appris ou rapporté, non une mesure prise sur toutes les momies de toutes les périodes. Les variantes de traduction peuvent employer un mot qui induit en erreur sur la composition minérale. [N] Le passage ne justifie pas d'écrire « chaque Égyptien fut salé soixante-dix jours » : les traitements et les moyens disponibles étaient très inégaux.
+
+### 17. La source grecque et la matière égyptienne [L]
+
+Le mot grec νίτρον (*nítron*) de la tradition hér o dotéenne a été traduit de diverses façons dans les langues modernes. Il ne doit pas être assimilé mécaniquement à un produit de laboratoire moderne portant un nom ressemblant. Le travail philologique consiste à replacer l'expression dans le protocole que décrit l'auteur, puis à la confronter aux substances retrouvées. [L] La traduction d'un lexème est une opération historique ; la détermination d'une formule chimique est une opération analytique. Les deux peuvent se corriger, mais ne se remplacent pas.
+
+### 18. Le rituel ne se résume pas au séchage [A]
+
+Les prescriptions funéraires et l'archéologie égyptienne associent traitement du corps, textiles, baumes, résines, formules et gestes d'identification. Le natron joue un rôle important sans contenir à lui seul la doctrine de la survie. [C] Comparer l'embaumement au sel de l'alliance ne revient pas à établir un lien rituel : la première pratique transforme physiquement un corps, la seconde est une qualification juridique et religieuse. [P] L'idée de « préserver » permet une question comparative, mais pas une identité de sens.
+
+### 19. Une matière de purification distincte de la nourriture [A]
+
+Le Global Egyptian Museum rappelle que le natron servait également à des gestes de purification, dans la vie quotidienne et dans des rites, ainsi qu'à diverses préparations techniques. [N] Il ne s'ensuit pas que chaque purification égyptienne consistait à traiter un corps mort ni que les prêtres utilisaient le même dosage de natron que les embaumeurs. La diversité des contextes doit être respectée. Une solution de nettoyage, une matière dessiccante et une offrande alimentaire sont des objets de pratiques distincts, même lorsque le mot de la pureté les rapproche.
+
+### 20. L'eau et le natron : une articulation, pas une opposition [A]
+
+Dans certains contextes de purification, le natron peut être combiné à l'eau. Dans la conservation funéraire, on étudie au contraire son aptitude à extraire l'humidité des tissus. [P] Cette apparente contradiction disparaît lorsqu'on cesse de demander à la substance une seule fonction : sa participation à un geste dépend de la procédure. [N] Le fait qu'une solution serve à nettoyer ne suffit pas à prouver un « baptême au natron » uniforme ni à fonder une équivalence théologique entre les eaux de la Bible et les techniques de la vallée du Nil.
+
+### 21. « Purifier » est un verbe institutionnel [P]
+
+[P] Le même résultat visible — une surface nettoyée — peut avoir des significations différentes selon qu'il s'agit de préparer une personne à entrer au sanctuaire, de traiter un défunt ou d'accomplir un geste de protection. Dans un système cultuel, la pureté n'est pas uniquement mesurable en laboratoire ; elle peut dépendre d'une règle, d'une fonction et d'un moment. Cette distinction philosophique n'affirme aucune efficacité surnaturelle. Elle empêche de confondre l'étude des substances et l'étude des normes de ceux qui les utilisent.
+
+### 22. Le temps des momies et le temps du rituel [C]
+
+Une période de soixante-dix jours rapportée par un auteur ancien, une durée expérimentale de dessiccation et le temps réellement consacré aux opérations d'une maison d'embaumement ne constituent pas trois mesures interchangeables. [C] La comparaison avec la permanence promise par le « sel de l'alliance » est également limitée : un calendrier technique n'est pas une éternité symbolique. Les études de laboratoire discutées dans *Origines du sacré* 645 sont le lieu de l'analyse détaillée des conditions ; le présent volume conserve cette séparation.
+
+### 23. La portée sociale de la conservation [A, P]
+
+Le matériel nécessaire à l'embaumement dépend de réseaux d'approvisionnement, de personnels et de ressources. [P] Dans l'histoire sociale, la conservation du corps mobilise la capacité d'une institution à procurer une matière, à disposer d'un espace et à contrôler les gestes. La survie souhaitée ne doit pas cacher les inégalités de moyens : le luxe royal ne prouve pas un traitement identique pour tous les morts. Une étude politique du natron interroge ceux qui l'extraient et le transportent aussi bien que les représentations religieuses qui justifient son emploi.
+
+### 24. Bilan égyptien : préserver n'est pas promettre éternité [C]
+
+Le natron fournit un cas matériel de conservation et de purification. [C] Son rapprochement avec des textes bibliques qui parlent d'obligations durables ne tient qu'à une analogie d'interprétation moderne, et ne permet pas de reconstruire une histoire unique de l'éternité. [P] Il est possible de penser la vulnérabilité du corps à travers la technique de dessiccation, sans en déduire que les croyants étaient convaincus de l'infaillibilité du minéral. Le dossier égyptien enseigne ainsi à distinguer procédé efficace dans certaines conditions et valeur religieuse donnée à un corps préservé.
+
+## III. Assyrie : assaisonner la table des dieux
+
+### 25. Un témoin spécifique : SAA 20 037 [A]
+
+Dans *Assyrian Royal Rituals and Cultic Texts*, volume SAA 20 (2017), le texte 037, identifié VAT 8005 et associé à Assur, prescrit des opérations de service devant plusieurs divinités. L'édition SAAo/Oracc est la source à citer. [A] Il s'agit d'une tablette rituelle, non d'un récit général sur les origines du sel. Le statut du témoin est important : des parties du texte sont endommagées, et les restitutions modernes doivent rester marquées comme telles. Le dossier spécialisé figure dans *Origines du sacré* 653.
+
+### 26. Le pain salé : droit 17–20 [A]
+
+Aux lignes 17–20 de l'avers de SAA 20 037, le texte associe la préparation de la table, la présentation de pain et le sel déposé sur celui-ci. [A] Une instruction de ce type fait du geste alimentaire un acte rituel, parce qu'elle précise l'ordre et les destinataires. [N] Elle ne démontre pas que les Assyriens considéraient le sel comme indispensable à toute alliance, ni que les dieux recevaient leur nourriture selon une physiologie humaine. La table est une structure d'hospitalité et de présentation aux puissances nommées.
+
+### 27. La viande salée : revers 22–23 [A]
+
+Au revers, lignes 22–23, l'édition mentionne une action de salage de viande déjà cuite devant une déesse dont le nom est en partie restauré. [A] Le traitement d'un aliment préparé importe plus ici que l'idée générale d'un « sel purificateur ». [N] Il serait erroné de transcrire sans signalement les signes restaurés comme s'ils étaient tous visibles sur la tablette, ou de déduire une recette d'assaisonnement pour la vie quotidienne. Le texte situe un acte à l'intérieur d'une séquence cultuelle.
+
+### 28. Le sel répandu et la parole prononcée [A]
+
+D'autres lignes du même témoin associent les opérations de dispersion de sel, les paroles d'invocation et la préparation du lieu. [P] L'assaisonnement peut être à la fois matériel et performatif : un geste ordinaire est repris dans une suite de prescriptions qui l'adresse à une puissance. Cette analyse ne signifie pas que le sel, seul, « crée » le sacré. Elle décrit le rôle d'une matière au sein d'un montage d'objets, de noms, de paroles et de positions dans l'espace.
+
+### 29. Le pain n'est pas l'alliance [N]
+
+Le fait que SAA 20 037 mentionne du sel sur du pain ne permet pas de conclure à une « alliance de sel » comparable à celle que formule Nombres 18, 19. [N] La comparaison doit distinguer signification explicitement nommée et analogie que construit le chercheur. Dans le texte hébreu, une relation durable est qualifiée de telle ; dans le manuel assyrien, les instructions concernent une opération du service des dieux. La proximité matérielle peut stimuler une enquête sur les contacts, mais ne vaut pas preuve d'un emprunt.
+
+### 30. Le banquet des dieux et son organisation [A]
+
+Les *tākultu* assyriens réunissent noms de dieux, offrandes, lieux et gestes dans des manuels de service. La racine akkadienne liée à la nourriture aide à comprendre l'appellation conventionnelle de « banquet divin ». [L] Un banquet n'est pas une cérémonie universelle en soi : les textes distinguent les destinataires et les étapes. [P] Le sel y participe à la transformation d'un aliment en offrande nommée. Mais une interprétation trop abstraite perdrait le caractère prescriptif et particulier de chaque tablette.
+
+### 31. Le roi, les scribes et le détail minéral [P]
+
+[P] Un texte rituel qui précise où déposer du sel manifeste la volonté institutionnelle de reproduire correctement les gestes. Il ne s'agit pas simplement d'une intention pieuse laissée à l'improvisation : la mémoire écrite devient un instrument de contrôle. L'analyse comparée peut rapprocher cette précision des règles du Lévitique, tout en reconnaissant des cadres politiques, théologiques et documentaires différents. L'ordre des opérations ne prouve pas un type d'État religieux identique dans toutes les sociétés utilisant des écritures rituelles.
+
+### 32. Les dimensions alimentaires et conservatoires [H]
+
+On peut supposer que les propriétés gustatives et certaines propriétés conservatoires du sel rendaient son emploi compréhensible dans les cuisines assyriennes. [H] Il n'est pas démontré que chaque ligne du manuel ait été pensée par les scribes comme une méditation sur l'incorruptibilité. La fonction de salage des aliments n'a pas besoin d'une théorie symbolique unique pour exister. Une reconstruction historique doit utiliser les textes de cuisine et d'administration, plutôt que d'attribuer a posteriori aux officiants une intention métaphysique dont ils ne parlent pas.
+
+### 33. Le corps matériel du rituel [A]
+
+Les tables, récipients, pains, viandes, encensoirs et boissons appartiennent à la même économie de service décrite par la série de textes. [A] Le sel intervient parmi d'autres éléments. [N] Isoler une ligne et écrire que « tout le rituel assyrien était fondé sur le sel » ferait disparaître les proportions documentaires et les autres agents. Une monographie thématique doit reconnaître les effets de son propre cadrage : s'intéresser au sel ne signifie pas que le sel était toujours l'ingrédient le plus important pour les praticiens.
+
+### 34. Conservation du texte et conservation de l'ordre [P]
+
+[P] Le manuel écrit rend possible le rappel de certains gestes après la disparition des personnes qui les ont accomplis. Cette permanence documentaire n'est pourtant pas comparable physiquement à la dessiccation d'une momie. L'analogie de la « conservation » n'est qu'une lecture philosophique : les mots et les corps ne sont pas préservés par les mêmes processus. Il est utile de poser cette distinction parce que le sel est souvent utilisé comme métaphore générale de durée. Les pratiques historiques obligent à spécifier ce qui dure et comment.
+
+### 35. Le prix de l'offrande et l'infrastructure du temple [A, P]
+
+Une offrande correctement présentée suppose un approvisionnement de pain, de viande et d'assaisonnements. [P] Le culte requiert des ressources et une division du travail qui peuvent être organisées par des temples et par la royauté. Mais SAA 20 037, pris isolément, ne fixe pas un prix de marché ni une rémunération précise pour le salage. Il faudrait d'autres archives économiques pour étudier les quantités, les livraisons et les personnes. Cette distinction protège la rigueur des conclusions sociales tirées de manuels avant tout cérémoniels.
+
+### 36. Comparaison interne : SAA 20 038 et 040 [A, C]
+
+Les autres textes de la série, notamment SAA 20 038 relatif à Sennachérib et SAA 20 040 relatif à Assurbanipal, documentent d'autres arrangements d'offrandes et de listes divines. [C] Ils permettent de situer le texte 037 dans une culture savante de l'administration rituelle, sans autoriser à inventer dans chaque tablette le même salage si les lignes ne l'énoncent pas. L'analogie à l'intérieur d'une série documentaire doit rester aussi prudente que l'analogie entre civilisations.
+
+### 37. Une limite chronologique [N]
+
+Le corpus de SAA 20 concerne des traditions et des manuscrits assyriens particuliers, transmis et édités à partir de témoins identifiables. [N] Son contenu ne doit pas être projeté sans preuves sur toutes les cérémonies mésopotamiennes du IIIe millénaire av. n. è. La Mésopotamie a connu des villes, dynasties et pratiques multiples. Le mot « assyrien » n'est pas interchangeable avec « sumérien » ou « babylonien » ; une comparaison du sel antique devient trompeuse lorsqu'elle efface les situations institutionnelles derrière un « Orient » unique.
+
+### 38. Bilan assyrien : la technique du geste prescrit [C]
+
+L'Assyrie fournit un cas particulièrement précis de sel intégré à la présentation de nourriture. [C] Il s'oppose au natron égyptien par la matière probable et par la fonction, et au « sel de l'alliance » par le registre du langage. [P] La leçon n'est pas qu'un sel sacré universel se diffuse de temple en temple, mais qu'une substance familière peut entrer dans une grammaire prescrite où le lieu, le destinataire et la parole définissent l'acte.
+
+## IV. Bible hébraïque : assaisonner, obliger, guérir, dévaster
+
+### 39. Lévitique 2, 13, la prescription centrale [A]
+
+Le texte demande d'assaisonner les offrandes végétales avec du sel et de ne pas laisser manquer « le sel de l'alliance de ton Dieu ». Il ajoute une formulation générale relative au sel dans les offrandes. [A] Il s'agit d'une prescription normative, non d'un relevé photographique de tous les sacrifices de chaque siècle. [L] L'hébreu *melaḥ* désigne le sel ; les constructions du verset articulent la matière et le nom de l'alliance. L'édition devra présenter séparément l'hébreu, la traduction et les questions de portée de chaque proposition.
+
+### 40. מֶלַח : *melaḥ* et la famille lexicale [L]
+
+Le nom hébreu מֶלַח (*melaḥ*) signifie « sel ». Le dictionnaire Brown–Driver–Briggs consigne les emplois alimentaires, sacrificiels et géographiques, ainsi que l'expression « alliance de sel ». [L] L'identité du mot dans plusieurs textes permet de rapprocher leur lexique ; elle ne suffit pas à attribuer la même fonction à chaque occurrence. Le terme de minéral peut être employé dans une description de territoire salé, un récit de transformation et une règle de sacrifice. Une lecture philologique doit suivre la syntaxe et le genre.
+
+### 41. « Sel de l'alliance » et « alliance de sel » [L]
+
+Lévitique 2, 13 parle du « sel de l'alliance », alors que Nombres 18, 19 et 2 Chroniques 13, 5 emploient une formule interprétée « alliance de sel ». La distinction dans l'ordre des mots et le contexte ne disparaît pas lorsqu'on les traduit tous par « alliance de sel ». [L] Le premier relie le geste d'offrande à l'alliance ; les autres utilisent l'expression dans des promesses de durée associées au service sacerdotal ou à la royauté. Le rapprochement ne décide pas à lui seul du sens exact de la métaphore.
+
+### 42. La valeur du sel ne prouve pas la théorie de la conservation [H]
+
+Une interprétation fréquente explique l'« alliance de sel » par la capacité du sel à conserver des aliments, et donc par une image d'incorruptibilité. [H] Cette lecture est plausible, mais le texte ne fournit pas toujours lui-même une exégèse de ce type. Une autre piste souligne le partage de la nourriture et la stabilité d'une relation institutionnelle. Il convient de conserver la pluralité des explications, de citer les exégètes et de ne pas faire d'une expérience chimique moderne la cause prouvée de la métaphore biblique.
+
+### 43. Nombres 18, 19 : une obligation sacerdotale [A]
+
+Dans ce verset, les parts sacrées mises à part sont promises à Aaron et à sa descendance selon un statut durable, qualifié d'« alliance de sel ». [A] L'objet principal du passage est la répartition de ressources et de droits à des bénéficiaires, non la description d'un salage en cuisine. [P] La matière devient un langage d'obligation institutionnelle. Le vocabulaire de permanence n'abolit pas la nécessité d'étudier le contexte rédactionnel et les pratiques d'allocation. La formulation normative ne prouve pas que chaque prêtre ait reçu exactement les mêmes biens à toutes les périodes.
+
+### 44. 2 Chroniques 13, 5 : la royauté de David [A]
+
+Le discours attribué au roi Abija évoque la royauté donnée à David et à ses fils par une « alliance de sel ». [A] Dans le contexte littéraire des Chroniques, il s'agit de légitimer un ordre dynastique au sein d'un argument politique et religieux. [N] Le verset ne décrit pas une cérémonie de salage physiquement accomplie par David. L'alliance est nommée au moyen de la matière ; son utilisation comme preuve de pérennité dynastique relève d'une tradition historiographique distincte du code sacerdotal de Lévitique.
+
+### 45. Ézéchiel 43, 24 : le sel avant l'offrande [A]
+
+Le passage relatif à la consécration de l'autel prescrit l'application de sel sur les victimes avant leur présentation en holocauste. [A] Le sel intervient ici dans une séquence cultuelle où des acteurs et des moments sont déterminés. [C] On peut le confronter à la tablette assyrienne qui mentionne du sel sur du pain et sur de la viande cuite, mais les destinataires et les règles diffèrent. Une similitude matérielle ne donne pas la preuve que le chapitre d'Ézéchiel transcrit SAA 20 037.
+
+### 46. Le texte normatif et le rite réellement exécuté [N]
+
+Un code peut énoncer ce qu'il faut faire sans décrire les écarts, les variations locales ni les contestations. [N] Il serait abusif de transformer la phrase « avec toute offrande tu offriras du sel » en preuve archéologique directe de la salinité de chaque foyer sacrificiel retrouvé. La réalisation d'un rite dépend de personnes, de lieux et de périodes. Les codes sont des sources essentielles pour les normes ; ils ne sont pas des photographies des gestes. Ce rappel est particulièrement important lorsque les prescriptions bibliques sont comparées à des tablettes assyriennes.
+
+### 47. 2 Rois 2, 19–22 : l'eau de Jéricho [A]
+
+Élisée demande un récipient neuf avec du sel, jette le sel vers la source et annonce la guérison des eaux. Le récit présente un prodige accompli par l'intervention divine. [A] Il atteste une tradition dans laquelle le sel devient l'instrument visible d'un changement d'état de l'eau. [N] Il ne prouve pas scientifiquement qu'ajouter du chlorure de sodium assainit une eau insalubre ou augmente sa qualité agronomique. La signification du geste appartient d'abord à la narration prophétique et à son vocabulaire de guérison.
+
+### 48. Le sel dans l'eau : une limite de causalité [P]
+
+[P] Le contraste entre la matière jetée et la transformation annoncée permet au récit de marquer un acte prophétique. Une lecture strictement chimique serait impropre, tout comme une histoire des sciences qui attribuerait aux anciens une méthode confirmée de potabilisation par sel de cuisine. La différence entre le résultat raconté et ce que nous pouvons observer expérimentalement doit être préservée. Le cas peut être comparé à des purifications au natron, à condition de ne pas confondre substance, méthode et causalité religieuse.
+
+### 49. Juges 9, 45 : Sichem semée de sel [A]
+
+Le texte raconte qu'Abimélek détruit Sichem puis répand ou sème du sel sur la ville. [A] Dans ce cadre de guerre, la matière participe à une représentation de dévastation et de condamnation. [H] Les interprétations modernes discutent si la fonction principale est symbolique, économique, agricole ou une combinaison ; le passage ne permet pas de calculer les quantités nécessaires à une salinisation permanente du sol. [N] Il serait erroné d'en déduire que le salage des ruines était pratiqué universellement par toutes les armées antiques.
+
+### 50. Le sel n'est pas toujours une bénédiction [C]
+
+Lévitique 2, 13 en fait un élément nécessaire aux offrandes ; 2 Rois 2 le présente comme instrument de guérison ; Juges 9 le place dans une scène de destruction. [C] Une théorie où le sel serait par nature « pur et bienfaisant » échoue dès qu'on rapproche ces textes d'un même corpus. [P] Le sens dépend de l'acte et de la relation qui l'entoure. Une matière peut représenter permanence ou désolation, et les cultures n'ont pas à résoudre ces valeurs en une essence symbolique unique.
+
+### 51. Genèse 19, 26 : la femme de Lot [A]
+
+Le texte dit que la femme de Lot, se retournant, devient une colonne de sel. [A] Il s'agit d'un récit de transformation et de jugement inscrit dans une géographie narrative proche de la région de la mer Morte. [N] Il ne prouve ni l'identité matérielle d'une colonne naturelle visible aujourd'hui ni une transformation physique d'une personne. Les interprétations géologiques et les dénominations touristiques appartiennent à une histoire de réception qu'il faut distinguer de la scène biblique elle-même.
+
+### 52. 2 Chroniques et Genèse : deux emplois incompatibles avec l'uniformité [C]
+
+Le sel qui qualifie une promesse dynastique et le sel qui marque une catastrophe humaine n'ont pas la même fonction. [C] La comparaison est précisément féconde parce qu'elle empêche de réduire le terme à « fidélité éternelle ». [P] Le pouvoir du langage minéral est sa capacité à évoquer durée et irréversibilité dans des contextes moraux opposés. Cette proposition relève de la lecture philosophique ; les auteurs anciens n'expriment pas nécessairement une théorie générale de la fixité comme concept.
+
+### 53. La mer Salée : un nom géographique, pas un rite [A]
+
+Les textes bibliques emploient le nom de mer du Sel et des lieux salés. [N] Cette désignation géographique ne démontre pas que chaque étendue d'eau saumâtre était un sanctuaire ni qu'un rite spécifique s'y déroulait. Une histoire du milieu physique doit être distinguée des récits de destruction et de guérison qui s'y rattachent. L'environnement de la mer Morte peut favoriser certaines associations, mais il ne constitue pas une preuve mécanique de l'origine de tous les usages bibliques du mot *melaḥ*.
+
+### 54. La relecture rabbinique est une autre strate [H]
+
+Les commentaires juifs postérieurs, notamment la tradition de la Genèse Rabbah et les interprétations de Rachi, proposent des développements sur l'hospitalité et le sel dans le récit de la femme de Lot. [H] Ils attestent une histoire de réception, et non les intentions directement documentées du rédacteur de Genèse 19. Les intégrer à MYTHOS est utile si leur date et leur genre sont explicités. Ils ne doivent pas servir à reconstituer sans intermédiaire des coutumes de la société du deuxième millénaire av. n. è.
+
+### 55. La diversité des livres bibliques [A, N]
+
+Lévitique, Nombres, Chroniques, Rois, Juges et Genèse appartiennent à des genres et à des histoires rédactionnelles différents. [N] Parler d'une « doctrine biblique unique du sel » efface ces divergences : code sacrificiel, légitimation sacerdotale, rhétorique dynastique, récit prophétique, chronique de guerre et narration des origines ne produisent pas la même opération. Une étude historique doit citer chaque passage et retenir les distinctions. C'est précisément le bénéfice de l'analyse comparée à l'intérieur d'un corpus lui-même pluriel.
+
+### 56. « Alliance » et permanence politique [P]
+
+[P] Le sel peut devenir une manière de dire qu'un lien ne doit pas être rompu, mais cette signification n'est pas une loi des substances. Une institution choisit des formes matérielles et verbales pour rendre des engagements intelligibles. La « permanence » de l'alliance concerne alors des droits, des devoirs et une mémoire, et non la durée de conservation d'un morceau de viande. On peut rapprocher le thème de la stabilité politique sans confondre contrat légal, déclaration religieuse et propriété chimique.
+
+### 57. Le sel comme signe d'une frontière morale [P]
+
+[P] Le même matériau se rencontre sur les limites entre offrande et repas, eau malade et eau guérie, ville habitée et ville détruite, promesse pérenne et condition brisée. Ce rapprochement est analytique ; aucune source ne l'érige explicitement en système. L'intérêt n'est pas de multiplier les « symboles » en liste, mais d'identifier les décisions et les actes qui donnent au sel une place. En ce sens, les usages bibliques sont une objection particulièrement forte à une théorie universelle des éléments naturellement sacrés.
+
+### 58. Bilan biblique : le sens n'est pas une propriété du minéral [C]
+
+Les énoncés montrent diverses transformations : assaisonner, promettre, verser, guérir, dévaster, devenir colonne. [C] Ces gestes ne se laissent pas réduire à un rite originaire unique. [P] La présence du sel comme langage de durée ou de destruction permet de réfléchir aux formes de l'obligation et de la mémoire. Les traditions interprétatives sont des objets historiques supplémentaires, non des preuves automatiques des intentions du texte initial. Un dictionnaire donne les usages d'un mot ; il ne remplace pas l'histoire de chaque énoncé.
+
+## V. Rome : les Vestales, la *mola salsa* et la pureté du geste
+
+### 59. *Mola salsa* : le nom d'une préparation [L]
+
+La locution latine *mola salsa* désigne une préparation rituelle à base de grain moulu et de sel, non simplement une salière ni une meule. [L] *Mola* renvoie ici au produit de mouture et *salsa* à la qualification par le sel. Le rapprochement traditionnel avec le verbe *immolare* appartient à l'histoire de la langue religieuse et à l'étymologie antique ; il doit être confronté aux dictionnaires latins modernes et ne peut être utilisé sans réserve pour prétendre que toute immolation impliqua matériellement exactement la même recette.
+
+### 60. Le dossier de Servius augmenté aux *Bucoliques* VIII, 82 [A]
+
+Le commentaire antique et médiéval transmis sous le nom de Servius, avec une tradition de gloses augmentées souvent appelée Servius Danielis, explique le vers de Virgile concernant la farine rituelle. Il décrit les préparations des Vestales, qui recueillent des épis d'épeautre, les grillent, les broient et mêlent le produit à des sels préparés. [A] C'est un témoignage érudit tardif sur des pratiques romaines, non un protocole daté des origines de la cité. La distinction entre commentaire conservé et pratique archaïque supposée doit rester visible.
+
+### 61. Les Vestales et la spécialisation du travail [A]
+
+Le commentaire attribue aux Vestales un rôle dans la récolte, la transformation et la préparation de la matière sacrificielle. Il évoque plusieurs dates de confection de la *mola* au fil de l'année. [P] Le travail des prêtresses donne au geste de saler une dimension institutionnelle : la valeur du produit dépend de l'identité de celles qui l'ont préparé et de sa place dans un rite reconnu. Cela ne permet pas de conclure que toute femme romaine ou toute prêtresse avait accès à la même compétence.
+
+### 62. La chronologie du commentaire [H]
+
+La tradition augmentée de Servius décrit des fêtes et des opérations qui peuvent conserver des matériaux plus anciens ; mais une description tardive ne prouve pas une continuité inchangée de toutes les étapes pendant un millénaire. [H] Les historiens doivent comparer les calendriers, les textes de Feste et les données sur les Vestales. Une présentation sans date parlerait trompeusement comme si l'on avait filmé une cérémonie au temps de Romulus. Les traditions religieuses romaines connaissent des transformations et des relectures savantes.
+
+### 63. Les trois occasions de production selon la glose [A]
+
+Le commentaire à *Bucoliques* VIII, 82 évoque la confection de la *mola* aux Lupercales, aux fêtes de Vesta et aux ides de septembre. [A] La liste appartient à la tradition du texte étudié. [N] Elle ne signifie pas que toutes les offrandes entre ces dates se passaient de farine salée ni que tous les calendriers cultuels romains furent immuables. Il faut distinguer moment de préparation d'un ingrédient et nombre de cérémonies auxquelles il peut participer par la suite.
+
+### 64. Le sel cuit et le sel dur [A, L]
+
+La glose mentionne des sels préparés de diverses façons, notamment *sal coctus* et *sal durus*, dans la fabrication de la matière sacrée. [L] Les équivalents « sel cuit » et « sel dur » sont des traductions de travail, non des analyses chimiques d'échantillons. [N] Aucun sac de natron de KV54 ne peut illustrer cette préparation sans signaler l'écart entre l'Égypte du Nouvel Empire et une prescription romaine à base de céréales et de sel. Les noms voisins de minéraux ne suffisent pas à identifier leurs fonctions.
+
+### 65. Virgile, *Bucoliques* VIII, 82 [A]
+
+Le vers évoque le geste de répandre de la *mola* dans un contexte rituel et magique propre au poème. [A] Il témoigne de l'intelligibilité du terme et du geste pour des lecteurs romains de l'époque augustéenne. Le commentaire de Servius enrichit cette occurrence d'informations sur les Vestales ; il ne faut pas les attribuer à la lettre du vers lui-même. [P] La matière apparaît comme moyen de rendre un acte reconnaissable comme rituel au sein d'une scène littéraire.
+
+### 66. *Énéide* II, 133 et IV, 517 [A]
+
+Virgile emploie des expressions liées aux fruits salés et à la *mola* dans des scènes d'offrandes et d'invocations. [A] La source poétique confirme la familiarité de ce matériau dans le langage cultuel romain ; elle ne donne pas une recette complète à chaque fois. [N] On ne doit pas traiter un personnage de l'épopée comme témoin oculaire d'une cérémonie historique datable, ni mélanger la topographie mythique de Troie ou de Carthage avec l'archéologie de la Rome augustéenne sans discussion.
+
+### 67. Pline l'Ancien, *Histoire naturelle* XXXI [A]
+
+Dans le livre XXXI consacré notamment au sel et à ses variétés, Pline souligne la place importante du sel dans les actes religieux romains et son association à la farine salée. [A] Le passage atteste une manière romaine de décrire l'importance du matériau. [N] La formule élogieuse selon laquelle les offrandes se font avec la *mola salsa* ne doit pas être transformée en relevé exhaustif démontrant qu'aucune exception n'a jamais existé dans chaque cité de l'empire. Pline écrit aussi comme encyclopédiste et moraliste de son époque.
+
+### 68. La *mola salsa* n'est pas la même chose qu'une victime [A]
+
+La farine salée peut entrer dans des actes sacrificiels qui comportent ou non des animaux selon le contexte. Elle ne constitue pas elle-même la mise à mort. [P] Un geste de dispersion ou de dépôt peut être interprété comme qualification de l'acte, mais il faut distinguer l'ingrédient, l'animal, l'autel, l'officiant et les paroles. Les prescriptions romaines ne se superposent pas au Lévitique, même si les deux connaissent du sel dans l'offrande. Une proximité matérielle ne donne pas une identité institutionnelle.
+
+### 69. Le rôle de Vesta [A, P]
+
+Les Vestales sont liées à l'entretien du feu et à d'autres obligations cultuelles, dont certaines préparations de matière rituelle. [P] La rencontre du feu, du grain et du sel dans un processus de préparation est un bon exemple d'activité réglée par une institution, non une combinaison d'éléments dont la signification naîtrait spontanément. La comparaison avec l'Assyrie fait apparaître la spécialisation du geste et sa reproduction ; elle ne permet pas de reconstruire un ancêtre commun du clergé romain et des serviteurs des dieux assyriens.
+
+### 70. Une approche du « propre » et du « pur » [P]
+
+[P] La préparation d'un ingrédient par des officiantes qualifiées transforme un produit alimentaire en support approprié à une activité cultuelle. Les règles de pureté peuvent tenir à l'identité de l'acteur, à la chaîne opératoire et au moment du calendrier. Ce n'est pas une « purification chimique » du grain dont l'archéologie aurait démontré la nécessité. L'historien doit distinguer le rôle d'un traitement matériel de la qualification d'une offrande comme recevable par l'institution religieuse.
+
+### 71. Le rite n'est pas un simple conservatisme [H]
+
+Les traditions romaines aiment expliquer l'ancienneté de certaines préparations par la continuité avec les ancêtres. [H] Cette représentation ne prouve pas que toutes les pratiques aient été identiques avant et après les grandes transformations sociales de la République et de l'Empire. Les textes dont nous disposons sont composés et transmis à des dates précises. Une histoire du sel romain doit donc étudier la manière dont les antiquaires décrivent un idéal d'ancienneté tout en se souvenant qu'ils sont eux-mêmes des auteurs historiquement situés.
+
+### 72. Le rapport au sacrifice animal [C]
+
+Dans des rituels où la *mola salsa* est utilisée lors d'une immolation, le geste peut précéder une mise à mort et l'inscrire dans un protocole d'offrande. [C] En Assyrie, SAA 20 037 signale le sel sur du pain et de la viande déjà cuite. L'opération comparée « sel + nourriture + divinité » ne décrit donc pas la même séquence temporelle. [P] Le sel n'a pas besoin d'un sens abstrait unique pour fonctionner à différents moments du passage entre aliment et offrande.
+
+### 73. Vestales et mémoire de la cité [P]
+
+[P] Confier la préparation à un collège reconnu donne au produit une fonction de liaison entre foyer public, calendrier et gestes collectifs. Le sel peut être une matière banale devenue rare dans le contexte cérémoniel non parce qu'il est intrinsèquement miraculeux, mais parce que sa préparation est réglée. Cette proposition ne doit pas effacer le rang social et les contraintes imposées aux Vestales. Une histoire du rituel exige de considérer l'autorité des officiantes aussi bien que les matières qu'elles manipulent.
+
+### 74. Une mise en garde sur l'étymologie d'« immolation » [L, N]
+
+L'association entre *immolare* et *mola* est ancienne et significative pour les explications latines des rites ; toutefois, l'histoire d'un verbe ne donne pas le déroulement complet de chaque sacrifice auquel il peut référer. [N] L'étymologie ne constitue pas un procès-verbal. Elle renseigne sur les manières de nommer et d'expliquer un geste. Cette réserve vaut également pour « sacrifice », « purification » et « sanctification » : un terme peut se généraliser au-delà de son contexte originel sans conserver partout une matière visible.
+
+### 75. Bilan romain : saler pour faire un acte [P]
+
+[P] La force comparative de la *mola salsa* est de montrer qu'un ingrédient familier peut appartenir à une procédure dont la légitimité dépend d'un calendrier et d'un groupe de spécialistes. Elle ne prouve ni une doctrine de l'incorruptibilité ni une origine universelle du sel sacré. Le contraste avec l'Égypte et le monde biblique est éclairant : le rite romain se concentre sur une préparation ; l'embaumement sur un traitement du corps ; l'alliance hébraïque sur une relation normative nommée.
+
+## VI. Un contrepoint grec : frugalité et économie des offrandes
+
+### 76. Pourquoi la Grèce ne fournit pas le même dossier [N]
+
+Les sources grecques connaissent des matériaux, des céréales et des gestes rituels variés, mais il faut se garder de leur attribuer un équivalent intégral de la *mola salsa* romaine sous prétexte que la Grèce utilise aussi le sel pour la nourriture. [N] La comparaison impose de respecter les termes et les institutions propres. Le contrepoint grec est surtout utile pour poser la question de la valeur d'une offrande simple et des conditions d'une vie pieuse, sans transformer toutes les offrandes de farine en rite de salage.
+
+### 77. Porphyre, *De l'abstinence* II, 5 [A]
+
+Porphyre, philosophe néoplatonicien du IIIe siècle de notre ère, conserve une discussion sur les premières offrandes et le développement de sacrifices plus coûteux, en citant notamment Théophraste. [A] Ce témoignage éclaire une tradition philosophique tardive qui réfléchit à la simplicité des matériaux offerts. [H] Il ne faut pas projeter cette théorie sur l'ensemble du monde grec archaïque comme description directement vérifiée de son histoire. Porphyre construit un argument éthique à partir de pratiques et d'auteurs antérieurs.
+
+### 78. Porphyre II, 17 : la modicité de l'offrande [A]
+
+Le philosophe rapporte des anecdotes dans lesquelles une offrande peu coûteuse peut être jugée plus agréable aux dieux que de grandes dépenses sacrificielles. [A] Ces récits appartiennent à une rhétorique de la piété et de la mesure. [P] Ils permettent de penser un contraste avec les mises en scène monarchiques de magnificence sans prouver que les pratiquants de toutes les cités préféraient les mêmes ingrédients. Le sel n'est pas nécessairement l'objet de ces exemples ; le rapprochement concerne la valeur de substances ordinaires dans un acte religieux.
+
+### 79. Porphyre II, 20 : les prémices [A]
+
+Le passage insiste sur la présentation de petites parts de nourriture avant qu'elles ne soient consommées. [C] On peut comparer cette logique de prémices avec des prescriptions de sel sur les offrandes, mais l'objet de Porphyre est d'abord la relation entre richesse matérielle, vertu et acceptabilité religieuse. Le philosophe ne donne pas un manuel du tākultu assyrien ni un commentaire sur Lévitique 2, 13. [N] La présence de fruits, de galettes ou de pains dans plusieurs sociétés ne démontre pas un protocole commun de conservation au sel.
+
+### 80. Porphyre II, 33–34 : purifier l'intention [A, P]
+
+Le texte défend l'idée qu'une offrande appropriée et la disposition de la personne importent davantage que l'accumulation de richesses. [P] Cette réflexion déplace le centre de gravité de l'acte de la matière vers l'éthique. Elle permet de poser une question aux autres corpus sans leur imposer la réponse : le salage du pain assyrien est-il exclusivement un signe de bonne technique, ou prend-il place dans un ensemble de normes ? Les documents assyriens ne répondent pas automatiquement avec les catégories néoplatoniciennes.
+
+### 81. La valeur du grain [C]
+
+Le grain est présent dans des offrandes grecques, romaines et proche-orientales, mais sa préparation et ses destinataires diffèrent. [C] L'emploi de la matière n'est pas la preuve d'une origine commune de tous les sacrifices céréaliers. Une étude plus précise demanderait de confronter les attestations locales des règles et des gestes, l'histoire des récoltes et le vocabulaire des prémices. Cette discipline comparative évite de fabriquer un prétendu « rite méditerranéen de sel et d'orge » uniforme à partir de quelques sources éloignées.
+
+### 82. Le philosophe et le prêtre ne parlent pas du même lieu [P]
+
+[P] Porphyre argumente sur la meilleure manière de vivre et d'offrir ; un manuel assyrien prescrit des gestes dans des lieux déterminés ; une description romaine explique la compétence d'officiantes spécialisées. Les perspectives ne se substituent pas. Le philosophe peut critiquer la dépense spectaculaire, mais il ne révèle pas pour autant le sens caché de chaque rite. La comparaison gagne à distinguer discours normatif général, règlement local, tradition littéraire et archive matérielle.
+
+## VII. Comparaisons encadrées : permanence, séparation, destruction
+
+### 83. La notion de frontière [P]
+
+[P] Le sel peut apparaître aux frontières de plusieurs transformations : une nourriture entre dans un régime d'offrande ; un corps est soustrait partiellement à la décomposition ; une source est déclarée guérie ; un espace détruit reçoit une marque ; une institution déclare la durée de ses engagements. Cette grille n'est pas une théorie indigène universelle. Elle permet d'organiser les questions, mais chaque preuve doit rester rapportée à son texte et à son geste. La notion de frontière est un outil, non un secret métaphysique du minéral.
+
+### 84. La « pureté » comporte des régimes différents [C]
+
+Le natron du traitement funéraire et la matière préparée par les Vestales peuvent être associés à la notion de pureté dans des contextes distincts. [C] La première pratique met en jeu des propriétés matérielles identifiables et un programme funéraire ; la seconde, des règles d'office et une matière sacrificielle. La comparaison ne permet pas de reconstruire un transfert de techniques entre ces traditions. [P] L'histoire du pur doit être une histoire des normes, pas simplement une histoire de solutions nettoyantes.
+
+### 85. La permanence n'est pas un seul effet [C]
+
+Un corps partiellement conservé, une alliance qualifiée de durable et une préparation rituelle reproduite annuellement ne persistent pas de la même façon. [C] Dans un cas, une matière agit sur l'humidité ; dans le deuxième, le langage engage des groupes et des descendants ; dans le troisième, un collège sacerdotal transmet une procédure. [P] La notion de durée est utile précisément parce qu'elle révèle les mécanismes dissemblables de la permanence : chimie, mémoire institutionnelle et répétition pratique.
+
+### 86. La malédiction de Sichem est une limite décisive [N]
+
+Toute synthèse qui décrit le sel comme nécessairement purificateur ou protecteur doit expliquer Juges 9, 45, où la matière est associée à la destruction. [N] Il est faux de résoudre le contraste en affirmant sans preuve que répandre du sel guérissait toujours la terre et que Sichem serait un rite de renaissance. Il faut accepter que l'emploi peut être hostile ou marquer une désolation. Une comparaison exige de laisser les valeurs opposées apparaître dans les sources.
+
+### 87. Sel biblique et sel assyrien : une parenté possible ? [H]
+
+Les relations historiques entre sociétés du Proche-Orient rendent légitime l'étude de circulations de pratiques rituelles et d'aliments. [H] Mais aucune identité de formule entre SAA 20 037 et Lévitique 2, 13 n'a été démontrée par les seules données ici réunies. Le texte assyrien fournit une action de salage alimentaire, le texte lévitique une prescription intégrée à une relation d'alliance. Une étude de transmission exigerait des intermédiaires, des mots comparables et une chronologie suffisamment établie.
+
+### 88. Le sel ne suffit pas à faire une alliance [P]
+
+[P] Dans Nombres 18, 19, l'obligation relève de la parole institutionnelle ; le sel est un moyen de la qualifier. Il n'existe pas de preuve que le dépôt de sel soit à lui seul une technique juridique capable de garantir tout accord. De même, saupoudrer de la farine romaine en dehors de son contexte ne reproduirait pas automatiquement la cérémonie des Vestales. Le sens vient d'un ensemble de paroles, personnes et actes. La matière est un médiateur, non un substitut de l'institution.
+
+### 89. Un matériau modeste, des circuits complexes [P]
+
+[P] Le sel peut sembler commun, mais son extraction, son transport, sa conservation et sa distribution impliquent un travail collectif et des contraintes d'approvisionnement. Le natron ne se trouve pas partout ; certains sels sont produits par évaporation ; les usages varient selon l'environnement. Il est possible d'interroger la matérialité économique de l'offrande, mais les textes étudiés ne permettent pas de calculer les volumes commerciaux et les prix de chaque ville sans autres archives. Le choix d'un ingrédient rituel présuppose une disponibilité à reconstituer.
+
+### 90. Le langage de la stabilité et ses dangers [P]
+
+[P] Une matière qui semble aider à empêcher une altération peut devenir métaphore de fidélité, mais la politique peut se servir de cette métaphore pour légitimer un ordre contestable. L'« alliance de sel » de 2 Chroniques 13, 5 intervient dans un discours de souveraineté ; elle ne constitue pas une approbation historienne de ce programme. La philosophie politique peut étudier les usages de l'image de permanence sans transformer le texte en traité neutre de droit constitutionnel.
+
+### 91. L'opposition à la corruption ne se lit pas partout [N]
+
+Le mot moderne « incorruptible » est tentant devant le sel, mais on ne doit pas l'attribuer à un scribe assyrien qui décrit simplement un aliment salé, ni à un passage prophétique qui mentionne une source guérie. [N] Les sources anciennes ont des catégories propres. Une interprétation symbolique qui prédétermine toutes les occurrences à partir d'une propriété de conservation commettrait un raisonnement circulaire : elle chercherait partout ce qu'elle avait posé au départ. Les écarts de fonction sont les meilleures objections à cette méthode.
+
+### 92. Le rôle du corps [P]
+
+[P] Le sel peut toucher un cadavre, du pain, de la viande, de l'eau, la terre d'une ville, le grain des Vestales. Ces supports ne sont pas indifférents. La matière est appropriée à une action par le type de corps ou de support sur lequel elle intervient. L'analogie entre un corps humain et une terre dévastée peut être suggestive, mais ne doit pas se substituer à une source. Le philosophe doit expliquer pourquoi une comparaison de gestes est légitime et quelles conclusions restent interdites.
+
+### 93. Le sacré ne réside pas dans une formule chimique [P]
+
+[P] Une composition de carbonate et de bicarbonate est décrite par des propriétés que l'on peut tester ; la qualification d'une offrande comme acceptable résulte d'une norme et d'une institution. On ne peut déduire la seconde de la première. Cette conclusion n'implique pas que les acteurs anciens ignoraient les effets du matériau : ils pouvaient observer assèchement, conservation et modification des aliments. Elle signifie que l'histoire du rituel exige de comprendre les conditions sociales dans lesquelles une observation matérielle devient signification.
+
+### 94. Cassirer et la forme symbolique [P]
+
+Ernst Cassirer permet de penser qu'une matière ordinaire acquiert une place dans l'organisation de l'expérience. [P] Un grain de sel peut être moins important par sa masse que par la relation qu'il manifeste. Mais cette proposition demeure un outil contemporain ; elle ne prouve pas que chaque salage assyrien avait pour sens la durée d'une alliance ou que chaque Égyptien concevait le natron comme une métaphore de vérité. Le concept de symbole doit rester soumis à l'observation des textes, des gestes et des objets.
+
+### 95. Durkheim, règle et séparation [P]
+
+La réflexion de Durkheim sur le sacré et le profane aide à interroger les catégories d'accès et de prescription. [P] La *mola salsa* produite par les Vestales peut devenir un exemple de préparation confiée à des agents qualifiés. Mais les oppositions de Durkheim ne fournissent pas une description exhaustive de toutes les sociétés ; il serait abusif d'en déduire que chaque morceau de sel est « sacré » une fois introduit dans un espace cultuel. L'histoire réclame les modalités locales de la qualification.
+
+### 96. Nietzsche, la mémoire de l'obligation [P]
+
+Dans la deuxième dissertation de la *Généalogie de la morale*, Nietzsche réfléchit aux techniques par lesquelles des obligations et des promesses se gravent dans la mémoire des humains. [P] Cette perspective offre un contrepoint au vocabulaire de l'« alliance de sel » ; elle ne doit pas être présentée comme son origine historique ou son explication indigène. Il n'existe pas de chaîne documentaire reliant directement l'expression des Chroniques à la philosophie de Nietzsche. Le rapprochement questionne la violence et la durée possibles des engagements, sans nier la particularité du texte biblique.
+
+### 97. Hegel et le risque de l'histoire universelle [P]
+
+Une histoire des religions qui ferait du « sel matériel de l'Égypte » un premier stade et du « sel spirituel de l'alliance » un stade supérieur reconduirait une hiérarchie spéculative injustifiée. L'Assyrie, Rome et Israël ancien connaissent des fonctions juridiques, rituelles et matérielles diverses qui ne forment pas une succession unique. [P] La comparaison devrait plutôt montrer leur coexistence et leurs transformations. La philosophie de l'histoire est ici un objet de débat critique, non une méthode pour dater l'évolution nécessaire de toutes les croyances.
+
+### 98. Mary Douglas et la logique du pur [P]
+
+Les analyses de Mary Douglas sur pureté et danger invitent à étudier les classifications sociales et les frontières du corps. [P] Elles permettent de poser une question importante : quand un matériau utilisé pour nettoyer ou préserver devient-il conforme à une norme rituelle ? Mais un modèle anthropologique de classement ne prouve ni la composition chimique du natron de KV54 ni l'emploi de sel dans une cérémonie assyrienne précise. Le travail comparatif doit conserver les compétences distinctes de l'anthropologie, de la philologie et de la science des matériaux.
+
+### 99. Le paradoxe du sel : permanence et désert [P]
+
+[P] La capacité d'une substance à limiter certaines dégradations et son association possible à des sols improductifs font du sel un candidat séduisant pour une méditation sur la vie et la destruction. Mais le paradoxe ne doit pas devenir une théorie étymologique de tous les textes. Il est une lecture issue de leur rapprochement. La force de MC-089 tient dans le refus d'attribuer cette interprétation à chaque auteur ancien : certaines sources parlent d'alliance, d'autres de viande, d'autres de ruines, et toutes méritent de conserver leur propre horizon.
+
+### 100. Une comparaison qui accepte de s'arrêter [C]
+
+Lorsque les documents ne montrent pas de filiation historique, la conclusion scientifique est une convergence de fonctions ou une similitude de matière, pas la révélation d'un rite primordial. [C] Cette retenue n'appauvrit pas l'étude ; elle rend les questions plus nettes. Pourquoi les scribes ont-ils prescrit un détail alimentaire ? Pourquoi la Bible a-t-elle choisi ce nom minéral pour désigner une promesse ? Pourquoi une institution romaine a-t-elle confié à des prêtresses la préparation d'une farine salée ? Pourquoi une technique égyptienne a-t-elle été associée à des gestes funéraires ? Les réponses ne s'unifient pas d'avance.
+
+## VIII. Tableau critique des témoins et des différences
+
+### 101. Tableau synoptique [C]
+
+| Aire et référence | Matériau | Acte attesté | Fonction principalement documentée | Ce qui ne suit pas |
+| --- | --- | --- | --- | --- |
+| Égypte, KV54, Met 1988.437.2 | Natron naturel | Sacs associés à l'embaumement | Dessiccation et préparation funéraire | Une recette de sel de table |
+| Hérodote II, 86 | *Nítron* | Traitement du corps sur une durée annoncée | Description grecque d'un procédé | Durée prouvée pour chaque momie |
+| Assyrie, SAA 20 037, droit 17–20 | Sel de service | Saler du pain | Acte dans une séquence cultuelle | Alliance de sel assurée |
+| Assyrie, SAA 20 037, revers 22–23 | Sel | Saler de la viande cuite | Présentation rituelle | Rite universel mésopotamien |
+| Lévitique 2, 13 | *Melaḥ* | Ajouter du sel à l'offrande | Prescription et alliance | Salinité prouvée de chaque autel fouillé |
+| Nombres 18, 19 | Alliance « de sel » | Qualifier une obligation | Part des prêtres et permanence normative | Cérémonie physique décrite |
+| 2 Chroniques 13, 5 | « Alliance de sel » | Légitimer une dynastie | Discours royal | Rite davidique de salage prouvé |
+| 2 Rois 2, 19–22 | Sel | Jeter à une source | Guérison racontée | Désinfection moderne prouvée |
+| Juges 9, 45 | Sel | Répandre dans une ville détruite | Dévastation et condamnation | Pratique militaire universelle |
+| Genèse 19, 26 | Colonne de sel | Transformation narrative | Jugement | Identification géologique certaine |
+| Rome, Servius à Bucoliques VIII, 82 | *Mola salsa* | Préparer grain et sel | Matière sacrificielle sous compétence sacerdotale | Recette invariable depuis Romulus |
+| Rome, Pline XXXI | Sel et farine | Valoriser la présence rituelle du sel | Encyclopédie des usages | Loi universelle sans exception |
+| Grèce, Porphyre II, 17 et 20 | Prémices et aliments | Offrandes simples | Critique philosophique du luxe | Rite grec du sel identique à Rome |
+
+### 102. Le critère de la matérialité [C]
+
+Les objets effectivement conservés permettent de répondre à des questions de matière, de lieu et de contexte. Les textes normatifs permettent de répondre à des questions de prescriptions et de vocabulaire. Les récits mythiques permettent de connaître les valeurs attribuées à des événements racontés. [C] La combinaison de ces sources est féconde si elle conserve leurs différences. L'absence d'un objet archéologique correspondant à la *mola salsa* du commentaire tardif ne signifie pas que la tradition n'existait pas ; elle limite les détails matériels que nous pouvons affirmer.
+
+### 103. Le critère de la personne autorisée [C]
+
+Dans le rite romain, les Vestales sont des préparatrices reconnues ; dans SAA 20 037, la prescription suppose des agents cultuels et un destinataire divin nommé ; dans Nombres 18, 19, la qualification d'alliance concerne une distribution à une famille sacerdotale ; dans l'embaumement, des spécialistes traitent le corps. [C] Les institutions diffèrent, mais elles montrent une variable à analyser : qui possède la compétence d'appliquer la substance ? Les réponses doivent rester propres à chaque contexte, non fusionnées en une catégorie intemporelle de « prêtres du sel ».
+
+### 104. Le critère de l'effet déclaré [C]
+
+Le rite assyrien prescrit une action ; Lévitique nomme un lien avec l'alliance ; le récit d'Élisée annonce une guérison ; Juges décrit une destruction ; Hérodote raconte un procédé ; le musée décrit un objet. [C] Seule la spécification de l'effet déclaré empêche de projeter partout « purification ». L'analyste ne doit pas transformer une fonction supposée en intention attestée. Une hypothèse sur la symbolique de la durée doit rester distincte d'une opération de séchage effectivement observée.
+
+## IX. Répertoire des sources primaires et des objets
+
+### 105. Mésopotamie, Égypte et textes de la matière [A]
+
+**P01.** SAA 20 037, *Temple Service Rites for All Assyria*, VAT 8005 / PKT 10–11, SAAo P336311 : avers 17–20, revers 22–23 ; édition Simo Parpola, *Assyrian Royal Rituals and Cultic Texts*, SAA 20 (Helsinki, 2017). Accès documentaire : https://tianmu.org/good-work-library/assyrian/state-archives-of-assyria/assyrian-royal-rituals-and-cultic-texts-state-archives-of-assyria-20 . La reproduction secondaire ne dispense pas de la consultation d'Oracc.  
+**P02.** Hérodote, *Histoires* II, 86–88 : description du processus d'embaumement et du *nítron* : https://lexundria.com/hdt/2.86/mcly ; confronter le grec et les variantes de traduction.  
+**P03.** Metropolitan Museum of Art, *Bag of Natron from Tutankhamun's Embalming Cache*, objet 1988.437.2, KV54 : https://www.metmuseum.org/art/collection/search/587568 . Notice de provenance et datation institutionnelles.  
+**P04.** Metropolitan Museum of Art, *Tutankhamun's Funeral*, essai de musée sur KV54, sacs de natron, textiles, opérations d'embaumement : https://www.metmuseum.org/es/essays/tutankhamuns-funeral .  
+**P05.** British Museum, natron en sac de lin EA47807 : https://www.britishmuseum.org/collection/object/Y_EA47807 ; une autre collection et un autre contexte, non un duplicata de l'objet du Metropolitan Museum.  
+**P06.** *Origines du sacré* MYTHOS, chapitre 645, natron et dessiccation ; chapitre 653, *tākultu*, SAA 20 037/038/040, source interne de continuité, sans réécriture des deux manuscrits.
+
+### 106. Bible hébraïque : références localisées [A]
+
+**P07.** Lévitique **2, 13**, prescription de sel des offrandes, expression « sel de l'alliance ». Texte hébreu et traductions : https://www.sefaria.org/Leviticus.2.13 .  
+**P08.** Nombres **18, 19**, droit sacerdotal qualifié d'« alliance de sel » : https://www.sefaria.org/Numbers.18.19 .  
+**P09.** 2 Chroniques **13, 5**, promesse davidique dans le discours d'Abija : https://www.sefaria.org/II_Chronicles.13.5 .  
+**P10.** Ézéchiel **43, 24**, salage des victimes avant l'offrande : https://www.sefaria.org/Ezekiel.43.24 .  
+**P11.** 2 Rois **2, 19–22**, le sel et la source d'Élisée : https://www.sefaria.org/II_Kings.2.19-22 .  
+**P12.** Juges **9, 45**, Sichem détruite et semée de sel : https://www.sefaria.org/Judges.9.45 .  
+**P13.** Genèse **19, 26**, femme de Lot changée en colonne de sel : https://www.sefaria.org/Genesis.19.26 .  
+**P14.** Dictionnaire philologique : Brown–Driver–Briggs, *Hebrew and English Lexicon*, art. מֶלַח, repères de graphies et emplois : https://biblehub.com/hebrew/4417.htm . Source secondaire lexicographique, distincte des versets eux-mêmes.
+
+### 107. Rome, Grèce et réceptions [A]
+
+**P15.** Virgile, *Bucoliques* **VIII, 82**, geste de la *mola* ; voir édition latine de référence.  
+**P16.** Servius augmenté / Servius Danielis, commentaire à *Bucoliques* **VIII, 82**, procédures des Vestales, farine et sel : https://latin.packhum.org/loc/2349/6/529 . Le passage est un commentaire transmis tardivement, non une inscription républicaine.  
+**P17.** Virgile, *Énéide* **II, 133** et **IV, 517**, matériaux et gestes cultuels ; textes latins à consulter dans une édition critique.  
+**P18.** Pline l'Ancien, *Histoire naturelle* **XXXI**, sections consacrées au sel et à sa place dans la *mola salsa* : https://falsafa.ai/works/pliny-the-elder-naturalis-historia-631445/31/translation/ . Numérotation des sections à fixer selon édition avant citation littérale.  
+**P19.** Porphyre, *De l'abstinence* **II, 5 ; II, 17 ; II, 20 ; II, 33–34**, simplicité de l'offrande, prémices et piété : https://adfonteslibrary.org/work-porphyry-on-abstinence . Le texte est tardif ; ce n'est pas une édition des rituels grecs archaïques.  
+**P20.** Matthieu **5, 13** ; Marc **9, 49–50**, emplois du sel dans la littérature chrétienne ancienne. Les variantes de Marc 9, 49 et le sens des formules sont à examiner par critique textuelle ; ces versets constituent un dossier de réception, non une explication originelle du Lévitique.
+
+## X. Bibliographie universitaire et débats historiographiques
+
+### 108. Égypte, chimie des matériaux et archive funéraire [B]
+
+1. H. E. Winlock, *Materials Used at the Embalming of King Tut-ankh-Amun*, New York, Metropolitan Museum of Art, 1941 — étude classique de la cache KV54.
+2. Dorothea Arnold (dir.), *Tutankhamun's Funeral*, New York, Metropolitan Museum of Art, 2010 — catalogue et contextualisation du dépôt.
+3. Salima Ikram et Aidan Dodson, *The Mummy in Ancient Egypt: Equipping the Dead for Eternity*, Londres, Thames & Hudson, 1998 — approches archéologiques et rituelles.
+4. Alfred Lucas et John R. Harris, *Ancient Egyptian Materials and Industries*, 4e éd., Londres, Edward Arnold, 1962 — minéraux et techniques, à compléter par les analyses récentes.
+5. Paul T. Nicholson et Ian Shaw (dir.), *Ancient Egyptian Materials and Technology*, Cambridge, Cambridge University Press, 2000 — travaux sur matériaux.
+6. Stephen Buckley et Richard Evershed, « Organic Chemistry of Embalming Agents in Pharaonic Egypt », *Nature* 413 (2001), 837–841 — agents organiques, contrepoint au natron.
+7. Metropolitan Museum, notice de l'objet **1988.437.2** : https://www.metmuseum.org/art/collection/search/587568 .
+8. Global Egyptian Museum, notice technique « Natron » : https://globalegyptianmuseum.org/glossary.aspx?id=258 .
+9. MYTHOS, *Origines du sacré* 645 : étude spécialisée de la durée de dessiccation et des expériences modernes, renvoi documentaire sans duplication.
+
+### 109. Proche-Orient, Bible hébraïque et comparatisme [B]
+
+10. Simo Parpola, *Assyrian Royal Rituals and Cultic Texts*, *State Archives of Assyria* 20, Helsinki, 2017 — édition principale pour SAA 20 037.
+11. Benjamin R. Foster, *Before the Muses: An Anthology of Akkadian Literature*, 3e éd., Bethesda (Maryland), CDL Press, 2005 — contexte des genres littéraires.
+12. W. G. Lambert, *Babylonian Creation Myths*, Winona Lake (Indiana), Eisenbrauns, 2013 — horizon des traditions divines, non édition du *tākultu*.
+13. Walter Burkert, *The Orientalizing Revolution: Near Eastern Influence on Greek Culture in the Early Archaic Age*, Cambridge (Mass.), Harvard University Press, 1992 — méthode des transferts historiques, à manier avec précision.
+14. Jacob Milgrom, *Leviticus 1–16*, *Anchor Bible* 3, New York, Doubleday, 1991 — analyse savante du sel sacrificiel de Lévitique 2, 13.
+15. Jacob Milgrom, *Numbers*, Philadelphie, Jewish Publication Society, 1990 — commentaire de Nombres 18.
+16. Baruch A. Levine, *Leviticus*, *JPS Torah Commentary*, Philadelphie, Jewish Publication Society, 1989 — explication des offrandes et de leur lexique.
+17. Nahum M. Sarna, *Genesis*, *JPS Torah Commentary*, Philadelphie, Jewish Publication Society, 1989 — commentaire de Genèse 19 et précautions d'histoire.
+18. Sara Japhet, *I & II Chronicles: A Commentary*, Louisville (Kentucky), Westminster John Knox Press, 1993 — critique littéraire et idéologie dynastique.
+19. Mordechai Cogan et Hayim Tadmor, *II Kings*, *Anchor Bible* 11, New York, Doubleday, 1988 — contexte du récit d'Élisée.
+20. Jewish Theological Seminary, « A Covenant of Salt », https://www.jtsa.edu/torah/a-covenant-of-salt/ — synthèse exégétique de l'alliance, distincte des sources primaires.
+21. Brown–Driver–Briggs, *A Hebrew and English Lexicon of the Old Testament*, Oxford, Clarendon Press, 1906, art. מֶלַח — philologie du terme.
+22. Jonathan Z. Smith, *Imagining Religion: From Babylon to Jonestown*, Chicago, University of Chicago Press, 1982 — méthode comparatiste.
+
+### 110. Rome, Grèce, histoire du sacrifice et philosophie [B]
+
+23. John Scheid, *Quand faire, c'est croire. Les rites sacrificiels des Romains*, Paris, Aubier, 2005 — ritualisme romain et cadre institutionnel.
+24. John Scheid, *An Introduction to Roman Religion*, Bloomington, Indiana University Press, 2003 — traduction d'une synthèse sur la religion civique.
+25. Mary Beard, John North et Simon Price, *Religions of Rome*, 2 vol., Cambridge, Cambridge University Press, 1998 — pluralité des contextes romains.
+26. Georges Dumézil, *La Religion romaine archaïque*, Paris, Payot, 1966 — historiographie des institutions à critiquer et contextualiser.
+27. Kurt Latte, *Römische Religionsgeschichte*, Munich, C. H. Beck, 1960 — texte de référence historique à confronter aux travaux récents.
+28. Walter Burkert, *Greek Religion*, Cambridge (Mass.), Harvard University Press, 1985 — sacrifices grecs, contrepoint et non analogie forcée.
+29. Robert Parker, *Miasma: Pollution and Purification in Early Greek Religion*, Oxford, Clarendon Press, 1983 — distinction entre pollution rituelle et nettoyage.
+30. Porphyre, *De abstinentia*, éd. et trad. Jean Bouffartigue et Michel Patillon, *De l'abstinence*, Paris, Les Belles Lettres, 1977–1995 — philosophie tardive de l'offrande.
+31. Marcel Mauss et Henri Hubert, « Essai sur la nature et la fonction du sacrifice », *L'Année sociologique*, 1899 — modèle anthropologique, non preuve directe des rites spécifiques.
+32. Mary Douglas, *Purity and Danger: An Analysis of Concepts of Pollution and Taboo*, Londres, Routledge, 1966 — théorie de la pureté, à ne pas rétroprojeter mécaniquement.
+33. Émile Durkheim, *Les Formes élémentaires de la vie religieuse*, Paris, Alcan, 1912 — concepts de séparation et d'institution.
+34. Ernst Cassirer, *Philosophie der symbolischen Formen*, II : *Das mythische Denken*, Berlin, Bruno Cassirer, 1925 — formes symboliques comme grille de réflexion.
+35. Friedrich Nietzsche, *Zur Genealogie der Moral*, Leipzig, 1887, deuxième dissertation — mémoire de l'obligation, contrepoint philosophique moderne.
+36. G. W. F. Hegel, *Vorlesungen über die Philosophie der Religion*, éditions posthumes — philosophie de la religion, outil critique et non chronologie empirique des cultes.
+
+## XI. Iconographie proposée : huit pièces et leur statut documentaire
+
+### 111. Planche A — Le natron de KV54 [A]
+
+**Objet :** Metropolitan Museum, sac de natron de la cache d'embaumement de Toutankhamon, n° **1988.437.2**, Nouvel Empire, XVIIIe dynastie, vers 1328–1318 av. n. è. **Légende scientifique :** « Petit sac de lin rempli de natron, provenant de KV54, dépôt de matériel lié à la préparation funéraire de Toutankhamon ; KV54 n'est pas la chambre funéraire KV62. » **Source :** https://www.metmuseum.org/art/collection/search/587568 . **Droits :** vérifier l'indication Open Access du cliché correspondant et inscrire le crédit du musée ; le récit de provenance ne dispense pas de ce contrôle.
+
+### 112. Planche B — Un autre sac de natron [A]
+
+**Objet :** British Museum, EA47807, contenant en lin et natron sur un support de terre cuite. **Légende :** « La matière minérale est conservée dans un emballage matériel ; son contexte et son inventaire diffèrent du sac 1988.437.2 du Metropolitan Museum. » **Source :** https://www.britishmuseum.org/collection/object/Y_EA47807 . **Droits :** suivre les conditions du British Museum ; ne pas transférer automatiquement la licence du Met à une image de Londres.
+
+### 113. Planche C — Assur, tablette VAT 8005 [A]
+
+**Objet documentaire :** tablette SAA 20 037, VAT 8005, ancienne référence PKT 10–11, texte sur le service des dieux. **Légende :** « Le manuel néo-assyrien prescrit notamment du sel sur le pain (avers 17–20) et de la viande cuite (revers 22–23), sous réserve des restitutions signalées par l'éditeur. » **Source :** SAAo/Oracc, identifiant P336311, et édition SAA 20. Ne pas substituer une photographie générique de tablette cunéiforme à ce témoin sans vérification de la cote et des droits.
+
+### 114. Planche D — Un verset hébreu et trois usages [L]
+
+**Support :** figure éditoriale originale présentant מֶלַח (*melaḥ*) et les trois passages Lévitique 2, 13 ; Nombres 18, 19 ; 2 Chroniques 13, 5. **Légende :** « Le même lexème participe à une prescription d'offrande et à des formules d'obligation sacerdotale et dynastique ; la ressemblance lexicale ne prouve pas le même geste rituel dans les trois cas. » **Source :** texte hébreu de la Bible, éditions savantes, liens P07–P09. **Statut :** infographie contemporaine, non artefact ancien.
+
+### 115. Planche E — Le sel et les contraires bibliques [C]
+
+**Support :** tableau analytique original opposant Élisée à la source (2 Rois 2, 19–22), Sichem détruite (Juges 9, 45) et la femme de Lot (Genèse 19, 26). **Légende :** « Guérir, marquer la désolation et raconter une transformation ne constituent pas un rite unique du sel. » **Sources :** textes massorétiques et traductions critiques. Une photographie de la mer Morte ne doit pas être présentée comme preuve de la colonne de la femme de Lot.
+
+### 116. Planche F — Rome : la farine salée expliquée [L]
+
+**Support :** composition pédagogique contemporaine montrant un épi de céréale, la mouture et l'ajout de sels, selon Servius augmenté, *Bucoliques* VIII, 82. **Légende :** « *Mola salsa* : préparation cultuelle associée aux Vestales dans une tradition de commentaire tardive ; le dessin ne restitue pas une recette antique mesurée. » **Source :** texte latin, https://latin.packhum.org/loc/2349/6/529 . Les objets figurés seront schématiques et ne seront pas présentés comme des outils archéologiques précisément identifiés.
+
+### 117. Planche G — Trois matières, trois fonctions [C]
+
+**Support :** triptyque documentaire original : natron naturel en sachet, sel alimentaire en grain et farine salée romaine reconstruite. **Légende :** « Une apparence de poudre blanche ne suffit pas à identifier matière, technique ou fonction rituelle ; natron, chlorure de sodium et mélange de farine salée ne sont pas interchangeables. » **Sources :** Met 1988.437.2, texte de SAA 20 037, Servius aux *Bucoliques* VIII, 82. **Statut :** juxtaposition pédagogique moderne, dont les photographies requièrent des droits séparés.
+
+### 118. Planche H — Chronologie critique des témoins [A, H]
+
+**Support :** frise universitaire originale situant l'objet de KV54 au XIVe siècle av. n. è., les textes assyriens du Ier millénaire, les rédactions bibliques selon plages débattues, les auteurs latins d'époque augustéenne et impériale, et Porphyre au IIIe siècle de notre ère. **Légende :** « La date d'un objet, celle d'un manuscrit conservé, celle d'un rite rapporté et celle de la rédaction d'un texte sont différentes. » Les datations incertaines apparaîtront sous forme de plages, non d'années arbitraires.
+
+## XII. Conclusion épistémique et continuité de MYTHOS
+
+### 119. Ce qui est solidement attesté [A]
+
+Un sac de natron provenant de KV54 est conservé au Met ; Hérodote décrit un traitement d'embaumement au *nítron* ; un manuel assyrien SAA 20 037 prescrit du sel sur des aliments cultuels ; Lévitique 2, 13 exige du sel pour l'offrande ; Nombres et Chroniques emploient « alliance de sel » ; les livres des Rois et des Juges relatent des gestes de sel à valeurs divergentes ; la tradition de Servius décrit la préparation de *mola salsa* par les Vestales ; Pline souligne l'importance religieuse du sel. Ces attestations ne prouvent pas une doctrine unique ni l'effet miraculeux d'un geste.
+
+### 120. Ce qui reste une hypothèse [H]
+
+La motivation initiale de l'expression « alliance de sel », les transmissions précises entre traditions de salage proche-orientales, la continuité exacte des opérations des Vestales depuis les périodes archaïques, et les détails de nombreux usages égyptiens du natron doivent être examinés comme des problèmes historiographiques. Une propriété de conservation fournit une explication possible mais non suffisante d'un langage de permanence. De même, les gloses tardives peuvent préserver des traditions sans constituer des témoignages directs de leur origine.
+
+### 121. Ce que la comparaison n'autorise pas [N]
+
+On ne peut identifier natron et sel de table, déduire une alliance de sel de toute viande salée, qualifier toute source ancienne de « purifiée scientifiquement » par un miracle raconté, établir une filiation entre Assur et Rome par la présence de grain et de sel, ou présenter la *mola salsa* comme recette parfaitement connue de chaque siècle. [N] Le recours aux sciences des matériaux doit accroître la précision des analyses, non fabriquer la preuve de causalités surnaturelles ou de significations symboliques universelles.
+
+### 122. Une philosophie de la substance modeste [P]
+
+[P] Le sel apparaît comme un excellent révélateur des limites du comparatisme : il est assez commun pour susciter des rapprochements, assez matériel pour permettre des analyses chimiques, assez chargé de normes pour devenir métaphore d'alliance, et assez ambigu pour accompagner aussi la dévastation. Sa signification ne précède pas les gestes ; elle se construit dans la relation entre matière, parole, corps, institution et temps. La pureté, la durée ou la destruction ne sont pas inscrites comme une doctrine dans le cristal ; elles sont attribuées selon les situations historiquement attestées.
+
+### 123. Programme de vérification future [H]
+
+Pour progresser au-delà de cette synthèse, il faudra confronter les translittérations complètes de VAT 8005 à son fac-similé, préciser les variantes et lectures de Servius Danielis, analyser les emplois hébreux de מֶלַח dans les traditions textuelles, et comparer les échantillons de natron de plusieurs contextes datés. Chacun de ces chantiers exige un travail distinct : collation philologique, histoire de la transmission, exégèse littéraire, science des matériaux. La monographie doit rendre ces prochaines étapes identifiables sans les présenter comme déjà accomplies.
+
+### 124. Orientation de publication [A, N]
+
+Le manuscrit doit conserver son corpus primaire, ses 36 références bibliographiques, le tableau des fonctions et les huit propositions iconographiques avec leur degré de certitude. Les renvois aux *Origines du sacré* 448, 559, 645 et 653 ainsi qu'à MC-040 et MC-064 seront des liens croisés, sans réécriture ni suppression des études sources. Les photographies seront intégrées seulement après vérification des droits et des notices institutionnelles. Aucun fichier de registre de numérotation, aucune collection externe et aucune programmation horaire ne doit être changé par cette soumission.
+
+### 125. Conclusion générale [P]
+
+La matière qui conserve un corps n'est pas la même que celle qui qualifie une offrande, et le sel d'une promesse n'agit pas dans une alliance comme le natron dans des tissus. Les textes anciens placent le sel au seuil d'actions différentes : préparer le mort, servir les dieux, annoncer une obligation, raconter un prodige, marquer une ville détruite, fabriquer une farine rituelle. Ces usages obligent à penser le sacré non comme une qualité naturelle permanente d'une substance, mais comme une relation réglée entre corps, geste et parole. Le comparatisme gagne à conserver toutes ces différences. **L'unité du sujet n'est pas une essence du sel ; elle est la question des opérations humaines qui lui donnent une place.**
+
+**Statut éditorial final :** la cote MC-089 n'est pas un reçu d'attribution canonique. Seul le workflow transactionnel peut choisir le volume définitif et produire une publication réelle sur bobmythos.fr. Cette monographie est approuvée pour soumission dans la file publique GitHub ; sa présence éventuelle dans la file ne constitue jamais à elle seule une preuve de publication.
