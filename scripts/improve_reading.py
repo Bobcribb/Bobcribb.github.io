@@ -309,7 +309,23 @@ def add_reading(doc, url, entry):
             while candidate in used: candidate+='-suite'
             h['id']=candidate;used.add(candidate)
         h['data-reading-section']='true'
-    toc='<details class="mythos-reading-toc" data-reading-owned="true"><summary>Sommaire de lecture · '+str(len(headings))+' sections</summary><ol>'+''.join('<li><a href="#'+escape(h['id'],quote=True)+'">'+escape(h.get_text(' ',strip=True))+'</a></li>' for h in headings)+'</ol></details>'
+
+    def toc_label(heading):
+        """Contextualize repeated scientific notes without changing source headings."""
+        label = heading.get_text(' ', strip=True)
+        if label == 'Commentaire scientifique':
+            card = heading.find_parent('article', class_='r3d-card')
+            if card is not None:
+                caption = card.select_one('figcaption strong')
+                if caption is not None:
+                    subject = caption.get_text(' ', strip=True)
+                    if subject:
+                        return subject + ' — ' + label
+        return label
+
+    gallery_toc = any(h.find_parent('article', class_='r3d-card') is not None for h in headings)
+    toc_class = 'mythos-reading-toc mythos-gallery-toc' if gallery_toc else 'mythos-reading-toc'
+    toc='<details class="'+toc_class+'" data-reading-owned="true"><summary>Sommaire de lecture · '+str(len(headings))+' sections</summary><ol>'+''.join('<li><a href="#'+escape(h['id'],quote=True)+'">'+escape(toc_label(h))+'</a></li>' for h in headings)+'</ol></details>'
     toolbar='''<div class="mythos-reader" data-reading-owned="true"><p>Lecture : environ '''+str(entry['minutes'])+''' min · <a href="/methode-editoriale/">Sources et méthode</a></p><div class="reader-buttons" hidden><button type="button" data-reader="smaller" aria-label="Réduire la taille du texte">A−</button><button type="button" data-reader="larger" aria-label="Agrandir la taille du texte">A+</button><button type="button" data-reader="focus" aria-pressed="false">Lecture épurée</button><button type="button" data-reader="previous">Section précédente</button><button type="button" data-reader="next">Section suivante</button><button type="button" data-reader="print">Imprimer / PDF</button></div><progress class="reader-progress" max="100" value="0" aria-label="Progression dans l’étude" hidden></progress></div>'''
     article.insert(0,fragment(toc));article.insert(0,fragment(toolbar))
     foot='<nav class="reader-bottom" data-reading-owned="true" aria-label="Poursuivre la lecture"><a href="#'+escape(headings[0]['id'],quote=True)+'">Revenir au début de l’étude</a> · <a href="/parcours/">Choisir un parcours</a> · <a href="/catalogue-integral/">Catalogue intégral</a></nav>'
