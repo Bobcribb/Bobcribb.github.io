@@ -109,15 +109,23 @@ def add_scholarly_toc(doc, main, rel):
     # liens vers leurs cibles, sans interposition d'une navigation générée.
     if article.select_one('a[href^="#"]'):
         return
-    headings = [node for node in article.find_all('h2')
+    def eligible_headings(level):
+        return [node for node in article.find_all(level)
                 if not node.find_parent(['nav', 'aside', 'footer'])
                 and node.get_text(' ', strip=True)]
+    headings = eligible_headings('h2')
+    # Certaines éditions ont un titre H2 suivi d'un plan scientifique H3.
+    # Ne pas leur refuser un sommaire complet au seul motif de ce balisage.
+    if len(headings) < 3:
+        subheadings = eligible_headings('h3')
+        if len(subheadings) >= 3:
+            headings = subheadings
     if any(re.match(r"^(sommaire|table des mati[eè]res|plan de .{0,5}étude)\b",
                     node.get_text(' ', strip=True), re.I) for node in headings):
         return
-    # Sommaires compacts : conserver les plans détaillés déjà rédigés au-delà
-    # de 32 rubriques, plutôt que les remplacer par une liste tronquée.
-    if not 3 <= len(headings) <= 32:
+    # Les très longues études reçoivent un sommaire repliable, jamais tronqué.
+    # Les sommaires d'auteur restent prioritaires (voir contrôle ci-dessus).
+    if len(headings) < 3:
         return
     existing = {node.get('id') for node in doc.find_all(id=True)}
     targets = []
@@ -150,7 +158,17 @@ def add_scholarly_toc(doc, main, rel):
         link.string = title
         item.append(link)
         ordered.append(item)
-    toc.append(ordered)
+    if len(targets) > 32:
+        disclosure = doc.new_tag('details', attrs={
+            'class': 'mythos-scholarly-toc-disclosure',
+        })
+        summary = doc.new_tag('summary')
+        summary.string = f'Afficher les {len(targets)} sections de l’étude'
+        disclosure.append(summary)
+        disclosure.append(ordered)
+        toc.append(disclosure)
+    else:
+        toc.append(ordered)
     main.insert(0, toc)
 
 

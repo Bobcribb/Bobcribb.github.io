@@ -1450,3 +1450,31 @@ body.mythos-design #corpus-status [data-corpus-count]{
 .origins-research-archive a{color:#e9d6b2;overflow-wrap:anywhere;text-underline-offset:3px}
 @media(max-width:850px){.origins-research-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:600px){.origins-research-grid{grid-template-columns:1fr}.origins-research-archive ol{columns:1}.origins-research-index{padding:1rem}}
+
+/* Sommaires universitaires de plus de 32 sections : repliables et non tronqués. */
+body.mythos-reading .mythos-scholarly-toc-disclosure>summary{
+  min-height:48px;
+  padding:10px 14px;
+  cursor:pointer;
+  color:#ead7b2;
+  background:#172022;
+  border:1px solid #87704e;
+  font:600 16px/1.6 Georgia,'Times New Roman',serif;
+}
+body.mythos-reading .mythos-scholarly-toc-disclosure[open]>summary{
+  margin-bottom:20px;
+  border-color:#d2b07a;
+}
+body.mythos-reading .mythos-scholarly-toc-disclosure>summary:hover{
+  background:#202b2c;
+}
+body.mythos-reading .mythos-scholarly-toc-disclosure>summary:focus-visible{
+  outline:2px solid #e9c791;
+  outline-offset:4px;
+}
+@media(max-width:700px){
+  body.mythos-reading .mythos-scholarly-toc-disclosure>summary{
+    padding:12px;
+    min-height:48px;
+  }
+}
