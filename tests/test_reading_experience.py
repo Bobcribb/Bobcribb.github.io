@@ -41,7 +41,8 @@ class ReadingTests(unittest.TestCase):
         self.assertIsNone(doc.select_one('nav.mythos-scholarly-toc'))
         self.assertEqual(before, authored_blocks(doc))
         self.assertEqual(1, len(doc.select('.mythos-reading-toc')))
-        doc.select_one('article.content p').decompose()
+        # Ne pas effacer le premier <p> du bandeau de lecture : retirer la prose d'auteur.
+        doc.select_one('article.content > p').decompose()
         self.assertNotEqual(before, authored_blocks(doc))
 
     def test_gallery_toc_identifies_each_monument_without_rewriting_scientific_text(self):
