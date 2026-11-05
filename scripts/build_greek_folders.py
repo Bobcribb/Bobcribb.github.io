@@ -70,6 +70,19 @@ HERO_HOME = {
     'orphee': ('heros', 'Orphée et les passages vers l’au-delà'),
 }
 CHAPTER_RULES = [
+    # Monographies intégrales déjà déposées en file : leur classement
+    # ne s'applique qu'après attribution par Actions et création du chapitre.
+    # Jamais de numéro inventé, jamais de lien vers un manuscrit non publié.
+    (r'^athena chalkioikos\b', 'sanctuaires',
+     'Sparte — Athéna Chalkioikos, acropole et droit d’asile'),
+    (r'^apollon ismenios\b', 'sanctuaires',
+     'Thèbes — Apollon Isménios, trépieds et Daphnéphories'),
+    (r'^apollon amyklaios\b', 'sanctuaires',
+     'Amyclées — Apollon, Hyakinthos et Hyakinthies'),
+    (r'^trophonios lebadee\b', 'sanctuaires',
+     'Lébadée — Trophonios, descente oraculaire, Léthé et Mnémosyne'),
+    (r'^helene menelas menelaion\b', 'sanctuaires',
+     'Thérapné — Hélène, Ménélas et culte héroïque'),
     # Études intégrales déjà déposées dans editorial/inbox : aucun numéro
     # anticipé. Dès l’attribution par Actions, rattacher les pages au
     # sanctuaire local correspondant, sans déplacer leur manuscrit.
@@ -532,6 +545,25 @@ EASTERN_CONTACT_STUDIES = (
 )
 
 
+
+# Quatre monographies grecques intégrales déjà publiées dans le dépôt.
+# Les cultes de Béotie et des confins d'Oropos restent historiquement distincts ;
+# le parcours signale des voisinages documentaires, non une religion uniforme.
+BOEOTIA_STUDIES = (
+    ('/chapitres/encyclopedie/chapitre-442-poseidon-onchestios-onchestos-chars-sans-conducteur-federation-beotie/',
+     'Chapitre 442 — Poséidon Onchestios à Onchestos',
+     'Sanctuaire, chars sans conducteur et mémoire fédérale béotienne.'),
+    ('/chapitres/encyclopedie/chapitre-444-eros-thespies-pierre-aniconique-praxiteles-erotideia-phryne/',
+     'Chapitre 444 — Éros à Thespies',
+     'Pierre aniconique, Praxitèle, Phryné et concours des Érotidies.'),
+    ('/chapitres/encyclopedie/chapitre-445-hermes-kriophoros-tanagra-belier-epidemie-rites-calamis/',
+     'Chapitre 445 — Hermès Kriophoros à Tanagra',
+     'Bélier, mémoire d’une épidémie et rituels de protection civique.'),
+    ('/chapitres/encyclopedie/chapitre-448-amphiaraos-amphiareion-oropos-devin-incubation-guerison-epigraphie/',
+     'Chapitre 448 — Amphiaraos à Oropos',
+     'Oracle, incubation et guérisons aux frontières de Béotie et d’Attique.'),
+)
+
 RELATED_FOLDERS = {
     'cosmogonies': ['divinites', 'sources-anciennes', 'interpretations-philosophiques'],
     'divinites': ['cosmogonies', 'cultes-sanctuaires', 'heros'],
@@ -738,6 +770,8 @@ def build(out, groups, sections, books, root=None):
     # détermine si un lien réciproque peut être affiché.
     marathon_urls = {url for url, _, _ in MARATHON_STUDIES
                      if any(row['url'] == url for row in rows)}
+    beotia_urls = {url for url, _, _ in BOEOTIA_STUDIES
+                    if any(row['url'] == url for row in rows)}
     artemis_urls = {url for url, _, _ in ARTEMIS_STUDIES
                     if any(row['url'] == url for row in rows)}
     delphes_urls = {url for url, _, _ in DELPHES_STUDIES
@@ -802,6 +836,29 @@ def build(out, groups, sections, books, root=None):
                     'récit de Thésée, intervention de Pan et mémoire civique. '
                     'Chaque lien donne accès à une étude complète avec ses '
                     'sources, et non à un résumé de remplacement.</p>'
+                    '<ul>' + links + '</ul></aside>', 'html.parser').aside
+                main.append(box)
+        if row['url'] in beotia_urls:
+            companions = [(url, title, context) for url, title, context
+                          in BOEOTIA_STUDIES
+                          if url in beotia_urls and url != row['url']]
+            if companions:
+                # Ne pas insérer de prose dans l'article universitaire.
+                links = ''.join(
+                    '<li><a href="' + escape(url, quote=True) + '">' +
+                    escape(title) + '</a><small>' + escape(context) +
+                    '</small></li>' for url, title, context in companions)
+                box = BeautifulSoup(
+                    '<aside class="greek-cross-readings" '
+                    'data-greek-cross-readings="beotie" '
+                    'aria-label="Cultes de Béotie : études universitaires croisées">'
+                    '<h2>Sanctuaires de Béotie : quatre enquêtes distinctes</h2>'
+                    '<p>Onchestos, Thespies, Tanagra et Oropos ont des cultes, '
+                    'témoignages et histoires institutionnelles différents. '
+                    'Oropos est un espace frontalier disputé ; la proximité '
+                    'des lieux ne prouve ni origine ni rituel commun. '
+                    'Chaque lien ouvre la monographie intégrale, avec ses '
+                    'sources et sa bibliographie.</p>'
                     '<ul>' + links + '</ul></aside>', 'html.parser').aside
                 main.append(box)
         if row['url'] in artemis_urls:
@@ -1173,6 +1230,18 @@ def verify(out, expected_urls):
             actual = [a['href'] for a in panels[0].select('a[href]')]
             assert set(actual) == marathon_urls - {url}, 'Lectures croisées incomplètes : ' + url
             assert len(actual) == len(set(actual)), 'Lien Marathon répété : ' + url
+    beotia_urls = {url for url, _, _ in BOEOTIA_STUDIES
+                    if url in expected_urls}
+    if len(beotia_urls) > 1:
+        for url in beotia_urls:
+            page = out / url.lstrip('/') / 'index.html'
+            assert page.is_file(), 'Monographie béotienne absente : ' + url
+            doc = BeautifulSoup(page.read_text(encoding='utf-8'), 'html.parser')
+            panels = doc.select('aside[data-greek-cross-readings="beotie"]')
+            assert len(panels) == 1, 'Parcours Béotie absent ou dupliqué : ' + url
+            links = [a['href'] for a in panels[0].select('a[href]')]
+            assert set(links) == beotia_urls - {url}, 'Renvois béotiens incomplets : ' + url
+            assert len(links) == len(set(links)), 'Renvoi béotien dupliqué : ' + url
     artemis_urls = {url for url, _, _ in ARTEMIS_STUDIES if url in expected_urls}
     if len(artemis_urls) > 1:
         for url in artemis_urls:
