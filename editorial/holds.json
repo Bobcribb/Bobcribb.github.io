@@ -36,6 +36,10 @@
     "c871f2ab-17dc-41ad-b368-05c6e637a2f9": {
       "request_sha256": "fe1703dbe58927d9df22e213275bb2fd34113487b39c54a71d03162127c76936",
       "reason": "Collision éditoriale sur les Suppliantes d'Euripide : première étude f673cbd2-2f14-4f8a-90ad-6873f0c91b42 créée le 5 novembre 2026 à 09:26:09 UTC (32 194 caractères) ; seconde demande c871f2ab-17dc-41ad-b368-05c6e637a2f9 créée à 09:33:51 UTC (30 641 caractères), même corpus et même problème du droit de récupération des corps. Conserver intégralement ce second manuscrit en attente, sans numéro propre, puis envisager un complément critique après confrontation des textes. Préserver les demandes et leurs archives."
+    },
+    "1fb9e074-3a61-41e4-9e74-202611050074": {
+      "request_sha256": "e769c5aabf2a8d76317f7ea404d7015ca0f552f7fd5696f391d8f3d5c4a149f0",
+      "reason": "Collision historique MC-074 détectée immédiatement le 5 novembre 2026 : une demande concurrente ANTÉRIEURE a déjà déposé l'étude « Armer les dieux : armes forgées, artisans divins, violence souveraine et limites de la puissance » sous 0f7bc4a2-73ce-4da2-93fa-202611050074 (commit e76439a1a1b6, 119 767 caractères de Markdown). Cette demande POSTÉRIEURE 1fb9e074-3a61-41e4-9e74-202611050074 (commit 519646b88b44, 77 936 caractères Markdown, 96 sections) porte sur un sujet distinct : « Sous le regard des dieux ». La conserver intégralement, verrouillée par SHA-256, hors attribution sous MC-074 ; ne ni l'effacer ni la numérotér. Le texte réconcilié sera soumis sous MC-075, nouvel UUID 2fb9e075-3a61-41e4-9e75-202611050075 et nouveau slug, sans suppression ni altération de cet original. Éviter toute seconde attribution MC-074 ; respecter les autres demandes et numéros canoniques."
     }
   }
 }
