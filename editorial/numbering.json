@@ -1276,6 +1276,12 @@
           "path": "chapitres/encyclopedie/chapitre-442-poseidon-onchestios-onchestos-chars-sans-conducteur-federation-beotie.md",
           "request_sha256": "58800ef6e8c2e4787045ef251493262f640f5d550f3186022ef49920897ae4c8",
           "initial_source_sha256": "73101506faefee60ec415efa0487326fe4ccc37dc699e23dbeec5c52141877a6"
+        },
+        "8c1e6f93-71b4-44a3-9cd2-202611050443": {
+          "number": 443,
+          "path": "chapitres/encyclopedie/chapitre-443-artemis-orthia-sparte-lygos-masques-fouet-sanctuaire.md",
+          "request_sha256": "1f6fefb1767896ce0e31c2b566b87afc0ed3ba0d13b34899204bbd4c6f8b8bc0",
+          "initial_source_sha256": "4b8a5679b42f568c1714d75d22f2899e1e3d312028341ad4a10ed457dd167736"
         }
       }
     },
@@ -2797,6 +2803,12 @@
           "path": "chapitres/comparatif/volume-cclv-mc-073-quand-les-dieux-se-taisent-prieres-sans-reponse-ecoute-divine-attente-justice.md",
           "request_sha256": "b6cb27f2c6fc6db3a819372a39cc6753bf20addca7574b4f8c45f82fa216f9dc",
           "initial_source_sha256": "469aebf117094694bbe7cd718dd8aa7e254735a0ffc5cf310ad8a2dd0c54b35c"
+        },
+        "f4e6d076-5a7b-4a31-8c26-202611050076": {
+          "number": 256,
+          "path": "chapitres/comparatif/volume-cclvi-mc-076-quand-les-dieux-changent-d-avis-repentir-intercession-revocation-justice.md",
+          "request_sha256": "65225f4b2ab0b93e56cac6906edf197cf3fbdc456666b630aee49a8af1339f92",
+          "initial_source_sha256": "ab70a02d4e5700596d11ad30aab09f2ea9fb940c597d334b47977c9628055ec6"
         }
       }
     }
