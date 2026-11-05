@@ -411,6 +411,18 @@ def apply(root):
                         and image_path.lower().endswith(('.jpg', '.jpeg', '.png', '.webp'))
                         and (root / image_path.lstrip('/')).is_file()):
                     continue
+                # CIV-01 : la carte de Behistun porte une vraie photographie
+                # archéologique locale, avec crédit et licence dans la carte.
+                # Un habillage ultérieur ne doit pas la supprimer silencieusement.
+                if (card.get('href') ==
+                        '/corpus/civilisations/perse-iran-ancien-behistun.html'
+                        and image_path ==
+                        '/media/2026/10/mythos-behistun-inscription-darius-mahdimanavimvi-2018.jpg'):
+                    if not (root / image_path.lstrip('/')).is_file():
+                        raise RuntimeError('Photographie de Behistun manquante : CIV-01')
+                    authored['alt'] = ('Relief de Darius Ier et inscription trilingue '
+                                      'gravés sur la falaise de Behistun.')
+                    continue
                 # La Galigo: archive photographique de Leyde, conservée avec
                 # crédit et licence dans la carte de la bibliothèque.
                 # Ne conserver aucun SVG 2,5D ni image externe arbitraire.
