@@ -64,3 +64,42 @@ body.mythos-design.mythos-focus main{padding-top:1rem!important}
 .mythos-design .greek-cross-readings li a:focus-visible{outline:3px solid #f4d394;outline-offset:2px}
 .mythos-design .greek-cross-readings li small{display:block;margin:0;padding:0 1rem .9rem;color:#d4c6a8;font:.85rem/1.55 system-ui;overflow-wrap:anywhere}
 @media(max-width:700px){.mythos-design .greek-cross-readings{padding:1rem .8rem;margin:1.5rem .5rem}.mythos-design .greek-cross-readings ul{grid-template-columns:1fr}}
+
+
+/* Catalogue 3D : sommaire contextualise, lisible au doigt et au clavier. */
+body.mythos-design .mythos-gallery-toc{
+  max-width:1020px;
+  border-color:#9c8158;
+  background:linear-gradient(135deg,#172021,#0e1516);
+}
+body.mythos-design .mythos-gallery-toc[open]>ol{
+  display:grid;grid-template-columns:repeat(2,minmax(0,1fr));
+  column-gap:clamp(12px,2.2vw,26px);row-gap:3px;
+  max-height:min(70vh,760px);
+}
+body.mythos-design .mythos-gallery-toc li{
+  min-width:0;overflow-wrap:anywhere;
+}
+body.mythos-design .mythos-gallery-toc li>a{
+  min-height:48px;height:100%;
+  padding:.65rem .7rem;
+  border-inline-start:2px solid #9a8053;
+  border-bottom-color:#514534;
+  line-height:1.45;
+}
+body.mythos-design .mythos-gallery-toc li>a:hover{
+  border-inline-start-color:#e5c28b;
+  background:#263132;
+}
+@media(max-width:700px){
+  body.mythos-design .mythos-gallery-toc[open]>ol{
+    grid-template-columns:minmax(0,1fr);
+    max-height:65vh;
+  }
+  body.mythos-design .mythos-gallery-toc li>a{
+    min-height:48px;padding:.7rem .5rem;
+  }
+}
+@media print{
+  body.mythos-design .mythos-gallery-toc{display:none!important}
+}
