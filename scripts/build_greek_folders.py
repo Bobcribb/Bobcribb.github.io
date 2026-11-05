@@ -16,6 +16,9 @@ import unicodedata
 from bs4 import BeautifulSoup
 
 BASE = '/mythologie-grecque/dossiers/'
+LINDIA_433 = '/chapitres/encyclopedie/chapitre-433-athena-lindia-rhodes-chronique-lindos-anathemes-epiphanies-danaides/'
+LINDIA_438 = '/chapitres/encyclopedie/chapitre-438-athena-lindia-chronique-lindos-danaides-offrandes-epiphanies-memoire/'
+LINDIA_NOTICE = '/mythologie-grecque/concordance-athena-lindia/'
 FOLDERS = [
     ('cosmogonies', 'Cosmogonies', 'Naissance du monde, générations divines, Hésiode et souveraineté de Zeus.'),
     ('divinites', 'Divinités', 'Olympiens, dieux des Enfers, puissances de la nature et personnifications.'),
@@ -222,6 +225,13 @@ def classify(url, title, kind):
     old, section = _classify_subject(url, title, kind)
     slug = urlsplit(url).path.strip('/').removesuffix('.html')
     subject = normalized(re.sub(r'^chapitre-\d+-', '', slug.split('/')[-1]))
+    # Issue #42 : même sanctuaire, même Chronique, deux études canoniques
+    # distinctes regroupées dans le même sous-dossier ; aucune renumérotation.
+    if slug in {
+        LINDIA_433.strip('/'),
+        LINDIA_438.strip('/'),
+    }:
+        return 'cultes-sanctuaires', 'Lindos (Rhodes) — Athéna Lindia et la Chronique'
     # Mémoire de philosophie antique complet et déjà publié (PHY-SOC-2026-01).
     # Le mot « Delphes » ne doit pas le classer comme un compte rendu de culte.
     if slug == 'chapitres/philosophie/socrate-oracle-delphes-paradoxe-sagesse':
@@ -1001,6 +1011,22 @@ def build(out, groups, sections, books, root=None):
                 context = row['kind'] + (' · '+row['book'] if row['book'] else '')
                 body += '<li><a data-greek-entry="'+escape(row['kind'], quote=True)+'" href="'+escape(row['url'], quote=True)+'">'+escape(row['title'])+'</a><small>'+escape(context)+'</small></li>'
             body += '</ol></section>'
+        # Notice commune sans ajouter de troisième entrée à l'inventaire.
+        if slug == 'cultes-sanctuaires' and {LINDIA_433, LINDIA_438}.issubset(
+                {member['url'] for member in members}):
+            body += (
+                '<aside class="greek-related" data-lindia-concordance="433-438">'
+                '<h2>Chronique de Lindos : deux lectures complémentaires</h2>'
+                '<p>Chapitre 433 : culte local, traditions fondatrices, catalogue '
+                'des offrandes, épiphanies et archéologie ; chapitre 438 : '
+                'enquête épigraphique, fabrication des preuves et mémoire civique. '
+                'Même inscription Lindos II, 2 / SIG³ 725 : ni nouvelle attribution '
+                'ni deuxième sanctuaire.</p><ul>'
+                '<li><a href="' + LINDIA_433 + '">433 — Dossier de référence</a></li>'
+                '<li><a href="' + LINDIA_438 + '">438 — Analyse critique de la mémoire</a></li>'
+                '<li><a href="' + LINDIA_NOTICE + '">Concordance documentée</a></li>'
+                '</ul></aside>'
+            )
         body += '<aside class="greek-related"><h2>Renvois vers les thèmes associés</h2><ul>' + ''.join(
             '<li><a href="'+BASE+related+'/">'+escape(FOLDER_TITLES[related])+'</a></li>'
             for related in RELATED_FOLDERS[slug]

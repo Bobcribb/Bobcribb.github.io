@@ -337,7 +337,12 @@ def main(out, root):
         link="/chapitres/encyclopedie/"+src.stem+"/"
         if not present(out,link):
             raise RuntimeError("Chapitre universitaire non rendu : "+link)
-        chapters.append((no,src.stem,link,"Chapitre "+str(no)+" — "+scholarly_title(src)))
+        display_title = "Chapitre " + str(no) + " — " + scholarly_title(src)
+        if no == 433:
+            display_title += " [référence : culte, offrandes et archéologie]"
+        elif no == 438:
+            display_title += " [analyse : enquête épigraphique et mémoire civique]"
+        chapters.append((no, src.stem, link, display_title))
         numbers[no]+=1
     chapters.sort(key=lambda x:(x[0],x[1]))
     if len(chapters)<50: raise RuntimeError("Corpus grec incomplet dans le dépôt")
@@ -438,6 +443,15 @@ def main(out, root):
     <p>Un sommaire unique vers les textes intégraux existants, les volumes historiques,
     les études universitaires, les dieux, les héros, les cycles, la philologie et les atlas.
     Les études intégrales sont conservées ; les anciennes adresses suivent les références corrigées.</p></div>
+    <aside class="greek-corpus-group" id="concordance-athena-lindia" aria-label="Concordance des études d'Athéna Lindia">
+    <h3>Athéna Lindia et la Chronique de Lindos : deux études complémentaires</h3>
+    <p>Les chapitres 433 et 438 étudient un même sanctuaire et une même inscription
+    (<em>Lindos II, 2</em> / <em>SIG</em>³ 725). Ils ne désignent pas deux cultes distincts :
+    le <a href="/chapitres/encyclopedie/chapitre-433-athena-lindia-rhodes-chronique-lindos-anathemes-epiphanies-danaides/">chapitre 433</a> expose de façon extensive les traditions,
+    les dons, les apparitions et l'archéologie ; le <a href="/chapitres/encyclopedie/chapitre-438-athena-lindia-chronique-lindos-danaides-offrandes-epiphanies-memoire/">chapitre 438</a>
+    approfondit l'enquête documentaire, la crédibilité des témoignages et la construction
+    civique du passé. <a href="/mythologie-grecque/concordance-athena-lindia/">Lire la concordance et ses références</a>.</p>
+    </aside>
     <p class="greek-corpus-status">''' + str(len(books)) + ''' livres et parcours ; '''+str(section_count)+''' sections accessibles directement ; '''+ str(len(chapters)) + ''' chapitres universitaires numérotés ;
     '''+str(len(archives))+''' accès aux archives ; '''+str(len(gods))+''' notices de dieux ;
     '''+str(len(heroes))+''' notices de héros. Inventaire vérifié des fichiers disponibles,
