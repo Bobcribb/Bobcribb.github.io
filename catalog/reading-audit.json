@@ -1,9 +1,15 @@
 {
   "status": "passed",
-  "indexed_entries": 1503,
-  "pages_scanned": 1560,
-  "readers_equipped": 1092,
-  "links_checked": 134705,
+  "indexed_entries": 1507,
+  "pages_scanned": 1564,
+  "readers_equipped": 1095,
+  "links_checked": 135114,
   "new_navigation_errors": [],
-  "legacy_link_issues": []
+  "legacy_link_issues": [
+    {
+      "page": "/chapitres/encyclopedie/chapitre-438-athena-lindia-chronique-lindos-danaides-offrandes-epiphanies-memoire/index.html",
+      "url": "../chapitre-433-athena-lindia-rhodes-chronique-lindos-anathemes-epiphanies-danaides.md",
+      "problem": "fichier absent"
+    }
+  ]
 }

@@ -1812,6 +1812,12 @@
         "url": "/chapitres/tragedies/volume-cclvi-agathon-thyeste-curetes-pronax-amphithea-sicyone-fragment-3/",
         "title": "Volume CCLVI (256) — Agathon, Thyeste (Θυέστης) — Les Courètes, la chevelure coupée et la violence des Atrides : étude philologique, reconstruction critique et philosophie du nom",
         "source": "chapitres/tragedies/volume-cclvi-agathon-thyeste-curetes-pronax-amphithea-sicyone-fragment-3.md"
+      },
+      {
+        "number": 257,
+        "url": "/chapitres/tragedies/volume-cclvii-agathon-mysoi-mysiens-plutarque-645d-musique-chromatique-telephe/",
+        "title": "Volume CCLVII (257) — Agathon, Les Mysiens (Μυσοί) — Le chant chromatique, Télèphe entre deux mondes et l'invention musicale de la tragédie",
+        "source": "chapitres/tragedies/volume-cclvii-agathon-mysoi-mysiens-plutarque-645d-musique-chromatique-telephe.md"
       }
     ],
     "comparatif": [
@@ -3709,6 +3715,12 @@
         "url": "/chapitres/comedies/volume-112-magnes-lydoi-lydiens-parfum-songes-purification-comedie-ancienne/",
         "title": "Volume CXII (112) — Magnès (Magnes), Lydoi (Λυδοί, « Les Lydiens ») — Parfum, interprétation des songes, désenvoûtement et fabrication comique de l'altérité",
         "source": "chapitres/comedies/volume-112-magnes-lydoi-lydiens-parfum-songes-purification-comedie-ancienne.md"
+      },
+      {
+        "number": 113,
+        "url": "/chapitres/comedies/volume-113-magnes-dionysos-premiere-seconde-version-authenticite-gastronomie-theatre/",
+        "title": "Volume CXIII (113) — Magnès, Dionysos I et II (Διόνυσος αʹ et βʹ) : authenticité problématique, langage du malheur, cuisine et mémoire du théâtre ancien",
+        "source": "chapitres/comedies/volume-113-magnes-dionysos-premiere-seconde-version-authenticite-gastronomie-theatre.md"
       }
     ],
     "origines-du-sacre": [
@@ -5133,6 +5145,18 @@
         "url": "/chapitres/origines-du-sacre/687-videvdad-nasu-sagdid-barasnom-cadavres-feu-eau-terre-iran/",
         "title": "Chapitre 687 — Chapitre 687 — La mort qui souille le monde : Nasu, sagdīd et barašnom dans le Vidēvdād iranien",
         "source": "chapitres/origines-du-sacre/687-videvdad-nasu-sagdid-barasnom-cadavres-feu-eau-terre-iran.md"
+      },
+      {
+        "number": 688,
+        "url": "/chapitres/origines-du-sacre/688-ossuaires-sogdiane-chorasmie-astodan-tok-kala-panjikent/",
+        "title": "Chapitre 688 — Chapitre 688 — Après la chair, les os : astōdān, ossuaires de Sogdiane et de Chorasmie",
+        "source": "chapitres/origines-du-sacre/688-ossuaires-sogdiane-chorasmie-astodan-tok-kala-panjikent.md"
+      },
+      {
+        "number": 689,
+        "url": "/chapitres/origines-du-sacre/689-cyrus-darius-tombeaux-pasargades-naqsh-rostam-magies-souverainete/",
+        "title": "Chapitre 689 — Chapitre 689 — Enterrer le roi, montrer l'empire : Cyrus, Darius, Pasargades et Naqš-e Rostam",
+        "source": "chapitres/origines-du-sacre/689-cyrus-darius-tombeaux-pasargades-naqsh-rostam-magies-souverainete.md"
       }
     ]
   },
