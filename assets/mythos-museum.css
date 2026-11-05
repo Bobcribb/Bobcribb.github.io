@@ -1088,3 +1088,14 @@ body.mythos-design #home-oeuvres .mythos-four-works-grid .portal-card .card-indi
     grid-template-columns:repeat(2,minmax(0,1fr))!important;
   }
 }
+
+/* Lectures croisées des études grecques : hors manuscrit, avec cibles tactiles. */
+body.mythos-design .greek-cross-readings{border:1px solid #80633f;border-radius:6px;background:#10191c;padding:clamp(1rem,2vw,1.7rem);margin:2rem 0;color:#e9ddc8}
+body.mythos-design .greek-cross-readings h2{font:400 clamp(1.4rem,2vw,1.85rem)/1.25 Georgia,serif;color:#efd3a0;margin:.2rem 0 .7rem}
+body.mythos-design .greek-cross-readings p{max-width:76ch;line-height:1.65}
+body.mythos-design .greek-cross-readings ul{list-style:none;padding:0;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:.7rem}
+body.mythos-design .greek-cross-readings li{min-width:0;border:1px solid #655238;border-radius:4px;padding:.75rem;background:#172124}
+body.mythos-design .greek-cross-readings a{display:flex;min-height:44px;align-items:center;color:#f4d69b;text-underline-offset:.2em;overflow-wrap:anywhere}
+body.mythos-design .greek-cross-readings small{display:block;color:#d0c0a7;line-height:1.55;margin-top:.25rem}
+body.mythos-design .greek-cross-readings a:hover,body.mythos-design .greek-cross-readings a:focus-visible{color:#ffebc6;outline:2px solid #f0cb8d;outline-offset:3px}
+@media(max-width:700px){body.mythos-design .greek-cross-readings ul{grid-template-columns:minmax(0,1fr)}}
