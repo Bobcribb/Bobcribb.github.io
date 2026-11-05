@@ -5,63 +5,62 @@
   "branch": "main",
   "latest_session": {
     "date": "2026-11-05",
-    "kind": "AUDIT ET CORRECTION",
-    "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "scope": "Séance 43 : correction de deux liens documentaires .md cassés dans le volume CI (101), source et rendu ; nouveau test de non-régression. Audit ciblé de 7 pages et suivi des derniers workflows.",
-    "basis_commit": "b6cd7522b3a49c9a8c5001155b18687df1477b57",
-    "source_checks": {
-      "official_instructions": "AGENTS.md et docs/PUBLICATION_CONCURRENTE.md lus sur main ; aucune nouvelle étude numérotée",
-      "audit_run": "41952993642 : success, HARD ERRORS 0, WARNINGS 2 (volume 101 liens .md sur le site)",
-      "published_run": "41955356964 : success ; le runner rapporte la publication de chaque image et notice et le contrôle responsive public",
-      "latest_public_receipt_on_main": "catalog/publication-verification.json : source 7310586e543b9b32b493d1fda3b0cc844f6c121e ; run 41955356964 ; 1425 documents, 27 tomes, 110 médias",
-      "independent_https": "Accès HTTPS direct à bobmythos.fr indisponible depuis cet environnement ; seules les vérifications du runner GitHub sont confirmées",
-      "page_audit": {
-        "html_pages": 7,
-        "html_ids": 531,
-        "same_page_anchors": 435,
-        "image_tags": 145,
-        "duplicate_ids": 0,
-        "broken_same_page_anchors": 0,
-        "missing_img_alt": 0,
-        "missing_local_css_js": 0,
-        "missing_local_media": 0
+    "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "previous_kind": "AUDIT ET CORRECTION",
+    "next_kind": "AUDIT ET CORRECTION",
+    "scope": "Séance 44 : ajout de trois figures sourcées aux monographies Iliade (Apollon), Odyssée (Athéna) et Théogonie (Hécate), sans ajouter de média ni altérer les analyses. Figures de périodes différentes du texte, statut IA explicite. Tests de publication HTTPS renforcés.",
+    "basis_commit": "03a03499aeb07e673df25784abfe20cb4e7d5fa3",
+    "verified_provenance": [
+      {
+        "page": "philosophie-iliade.html",
+        "id": "icono-iliade-apollon-patrocle-tete-chypre-20261105",
+        "object": "Met 74.51.2815, tête d'Apollon, Chypre, Ier s. av. J.-C.",
+        "url": "https://www.metmuseum.org/art/collection/search/242366",
+        "src": "/assets/illustrations-articles/met-242366-apollon-tete-chypre.webp"
       },
-      "page_scope": [
-        "index.html",
-        "livre-iliade-scenes/index.html",
-        "livre-odyssee/index.html",
-        "livre-hesiode/index.html",
-        "philosophie-iliade.html",
-        "philosophie-odyssee.html",
-        "philosophie-theogonie.html"
-      ],
-      "pdf_pagination": "Manifeste daté 2026-11-04 : Iliade 122 pages, Odyssée 116, Théogonie 117 ; pas de nouveau rendu ni de contrôle visuel"
+      {
+        "page": "philosophie-odyssee.html",
+        "id": "icono-odyssee-athena-navale-lecythe-brygos-20261105",
+        "object": "Met 25.189.1, lécythe attique, Peintre de Brygos, vers 480–470 av. J.-C.",
+        "url": "https://www.metmuseum.org/art/collection/search/251932",
+        "src": "/media/2026/10/mythos-athena-lecythe-brygos-aplaste-met-25-189-1.jpg"
+      },
+      {
+        "page": "philosophie-theogonie.html",
+        "id": "icono-theogonie-hecate-hekatation-romain-20261105",
+        "object": "Met 1987.11.2, Hécate triple et Charites, sculpture romaine Ier–IIe s. apr. J.-C.",
+        "url": "https://www.metmuseum.org/art/collection/search/255881",
+        "src": "/media/2026/10/mythos-hecate-triple-graces-met-1987-11-2.jpg"
+      }
+    ],
+    "structural_checks": {
+      "before_ids": 348,
+      "after_ids": 351,
+      "before_images": 88,
+      "after_images": 91,
+      "same_page_anchors": 335,
+      "duplicate_ids": 0,
+      "broken_anchors": 0,
+      "missing_alt": 0,
+      "media_paths_exist_on_main": true,
+      "photo_files_added": 0,
+      "verified_figures_before": 34,
+      "verified_figures_after": 37,
+      "unique_media_before": 26,
+      "unique_media_after": 29,
+      "regression_test": "session_44_met_museum_figures_and_media_are_required"
     },
-    "corrections": {
-      "files": [
-        "chapitres/comedies/volume-101-philyllios-eunikos-anteia-attribution-hetaire-baiser-chytra-pollux.md",
-        "chapitres/comedies/volume-101-philyllios-eunikos-anteia-attribution-hetaire-baiser-chytra-pollux/index.html",
-        "tests/test_comedy_reference_links.py"
-      ],
-      "broken_old_targets": [
-        "/chapitres/comedies/volume-100-philyllios-aigeus-poisson-ancetre-analphiton-thesee-reconnaissance.md",
-        "/chapitres/comedies/volume-099-philonikos-poete-comique-victoire-leneennes-inscription-ig2325-memoire.md"
-      ],
-      "canonical_targets": [
-        "/chapitres/comedies/volume-100-philyllios-aigeus-poisson-ancetre-analphiton-thesee-reconnaissance/",
-        "/chapitres/comedies/volume-099-philonikos-poete-comique-victoire-leneennes-inscription-ig2325-memoire/"
-      ],
-      "number_of_replacements": 4,
-      "markdown_and_published_html_corrected": true,
-      "added_regression_test": "test_volume_101_documentary_links_resolve_to_public_html",
-      "source_text_preserved": true
+    "previous_workflow_status": {
+      "audit_run_41958112163": "success",
+      "generator_run_41958112185": "success",
+      "pages_run_41958112227": "cancelled"
     },
-    "limitations": "L'audit complet le plus récent précède la correction. Les tests intégraux, la validation responsive du prochain déploiement et l'inspection HTTPS directe après le présent commit restent à confirmer ; surveiller les résultats Actions.",
-    "preservation": "Textes scientifiques hors correction des quatre destinations, numéros de collection, registres, navigation, iconographie et planifications horaires inchangés.",
-    "publication_status": "Commit non encore effectué au moment de cette entrée ; ne pas annoncer ce correctif comme publié avant preuve GitHub Actions et HTTPS.",
+    "preservation": "Toutes les analyses, navigations, registres de numérotation, autres automatisations, fichiers binaires et planifications horaires préservés ; aucun chapitre numéroté créé.",
+    "pagination": "Manifeste précédent indiquant 122/116/117 pages ; pas de nouvelle pagination ni contrôle visuel PDF.",
+    "publication_status": "Commit GitHub à vérifier après écriture ; aucun déploiement public revendiqué avant résultat des workflows et contrôle HTTPS.",
+    "limitations": "Un audit exhaustif du site, le rendu responsive réel et le contrôle indépendant des PDF ne sont pas effectués dans cette séance iconographique. Vérifications du déploiement GitHub Pages à poursuivre.",
     "commits": [],
-    "commit_note": "Le SHA du commit atomique est connu après écriture ; consulter main et GitHub Actions."
+    "commit_note": "Le SHA du commit atomique ne peut être encodé dans le commit lui-même ; consulter l'API GitHub."
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
   "history": [
@@ -2360,6 +2359,65 @@
       "publication_status": "Commit non encore effectué au moment de cette entrée ; ne pas annoncer ce correctif comme publié avant preuve GitHub Actions et HTTPS.",
       "commits": [],
       "commit_note": "Le SHA du commit atomique est connu après écriture ; consulter main et GitHub Actions."
+    },
+    {
+      "date": "2026-11-05",
+      "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "previous_kind": "AUDIT ET CORRECTION",
+      "next_kind": "AUDIT ET CORRECTION",
+      "scope": "Séance 44 : ajout de trois figures sourcées aux monographies Iliade (Apollon), Odyssée (Athéna) et Théogonie (Hécate), sans ajouter de média ni altérer les analyses. Figures de périodes différentes du texte, statut IA explicite. Tests de publication HTTPS renforcés.",
+      "basis_commit": "03a03499aeb07e673df25784abfe20cb4e7d5fa3",
+      "verified_provenance": [
+        {
+          "page": "philosophie-iliade.html",
+          "id": "icono-iliade-apollon-patrocle-tete-chypre-20261105",
+          "object": "Met 74.51.2815, tête d'Apollon, Chypre, Ier s. av. J.-C.",
+          "url": "https://www.metmuseum.org/art/collection/search/242366",
+          "src": "/assets/illustrations-articles/met-242366-apollon-tete-chypre.webp"
+        },
+        {
+          "page": "philosophie-odyssee.html",
+          "id": "icono-odyssee-athena-navale-lecythe-brygos-20261105",
+          "object": "Met 25.189.1, lécythe attique, Peintre de Brygos, vers 480–470 av. J.-C.",
+          "url": "https://www.metmuseum.org/art/collection/search/251932",
+          "src": "/media/2026/10/mythos-athena-lecythe-brygos-aplaste-met-25-189-1.jpg"
+        },
+        {
+          "page": "philosophie-theogonie.html",
+          "id": "icono-theogonie-hecate-hekatation-romain-20261105",
+          "object": "Met 1987.11.2, Hécate triple et Charites, sculpture romaine Ier–IIe s. apr. J.-C.",
+          "url": "https://www.metmuseum.org/art/collection/search/255881",
+          "src": "/media/2026/10/mythos-hecate-triple-graces-met-1987-11-2.jpg"
+        }
+      ],
+      "structural_checks": {
+        "before_ids": 348,
+        "after_ids": 351,
+        "before_images": 88,
+        "after_images": 91,
+        "same_page_anchors": 335,
+        "duplicate_ids": 0,
+        "broken_anchors": 0,
+        "missing_alt": 0,
+        "media_paths_exist_on_main": true,
+        "photo_files_added": 0,
+        "verified_figures_before": 34,
+        "verified_figures_after": 37,
+        "unique_media_before": 26,
+        "unique_media_after": 29,
+        "regression_test": "session_44_met_museum_figures_and_media_are_required"
+      },
+      "previous_workflow_status": {
+        "audit_run_41958112163": "success",
+        "generator_run_41958112185": "success",
+        "pages_run_41958112227": "cancelled"
+      },
+      "preservation": "Toutes les analyses, navigations, registres de numérotation, autres automatisations, fichiers binaires et planifications horaires préservés ; aucun chapitre numéroté créé.",
+      "pagination": "Manifeste précédent indiquant 122/116/117 pages ; pas de nouvelle pagination ni contrôle visuel PDF.",
+      "publication_status": "Commit GitHub à vérifier après écriture ; aucun déploiement public revendiqué avant résultat des workflows et contrôle HTTPS.",
+      "limitations": "Un audit exhaustif du site, le rendu responsive réel et le contrôle indépendant des PDF ne sont pas effectués dans cette séance iconographique. Vérifications du déploiement GitHub Pages à poursuivre.",
+      "commits": [],
+      "commit_note": "Le SHA du commit atomique ne peut être encodé dans le commit lui-même ; consulter l'API GitHub."
     }
   ]
 }

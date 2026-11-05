@@ -270,6 +270,14 @@ RECENT_FIGURES = (
      "/assets/illustrations-articles/met-252960-oreste-sarcophage-orestie.webp"),
     ("philosophie-theogonie.html", "icono-theogonie-eros-psyche-met-247480-20261105",
      "/assets/illustrations-articles/met-247480-eros-psyche-terre-cuite.webp"),
+
+    # Séance 44 : trois documents institutionnels, deux JPEG antiques et un WebP.
+    ("philosophie-iliade.html", "icono-iliade-apollon-patrocle-tete-chypre-20261105",
+     "/assets/illustrations-articles/met-242366-apollon-tete-chypre.webp"),
+    ("philosophie-odyssee.html", "icono-odyssee-athena-navale-lecythe-brygos-20261105",
+     "/media/2026/10/mythos-athena-lecythe-brygos-aplaste-met-25-189-1.jpg"),
+    ("philosophie-theogonie.html", "icono-theogonie-hecate-hekatation-romain-20261105",
+     "/media/2026/10/mythos-hecate-triple-graces-met-1987-11-2.jpg"),
 )
 
 
