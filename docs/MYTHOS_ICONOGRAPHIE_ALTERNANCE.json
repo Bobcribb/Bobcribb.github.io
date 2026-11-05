@@ -5,60 +5,54 @@
   "branch": "main",
   "latest_session": {
     "date": "2026-11-05",
-    "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "previous_kind": "AUDIT ET CORRECTION",
-    "next_kind": "AUDIT ET CORRECTION",
-    "scope": "Séance 56 : trois diagrammes vectoriels 2D sourcés (Scamandre, Οὖτις, déesses et mortels), sans retouche des textes préexistants.",
-    "basis_commit": "639cc45007fcb9c21000cc539b436496caa2d582",
-    "figures": [
-      {
-        "page": "philosophie-iliade.html",
-        "asset": "assets/philosophie/iliade-scamandre-limite-s56-20261105.svg",
-        "id": "icono-iliade-scamandre-limite-s56-20261105",
-        "source": "Homère, Iliade XXI, v. 201–224, 225–350, 351–384",
-        "source_url": "https://www.theoi.com/Text/HomerIliad21.html",
-        "statut": "diagramme original 2D contemporain réalisé avec assistance IA ; aucun artefact antique"
+    "kind": "AUDIT ET CORRECTION",
+    "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "scope": "Séance 57 : audit post-iconographie des trois monographies ; corriger la régression de test qui figeait la séance 56 comme dernière et empêchait les séances ultérieures.",
+    "basis_commit": "084b37ef605b1544a747e150614ebea8f26c0e4d",
+    "audit_evidence": {
+      "checked_pages": [
+        "philosophie-iliade.html",
+        "philosophie-odyssee.html",
+        "philosophie-theogonie.html"
+      ],
+      "checked_html_pages": 3,
+      "checked_internal_anchors": 335,
+      "broken_same_page_fragments": 0,
+      "duplicate_html_ids": 0,
+      "checked_img_elements": 103,
+      "missing_img_alt": 0,
+      "css_references_per_page": 6,
+      "js_references_per_page": 2,
+      "css_and_js_resources": "Les six feuilles CSS et les deux scripts JS communs des trois pages existent sur main ; syntaxe JavaScript et rendu navigateur non exécutés localement.",
+      "new_svg_paths": [
+        "assets/philosophie/iliade-scamandre-limite-s56-20261105.svg",
+        "assets/philosophie/odyssee-outis-metis-s56-20261105.svg",
+        "assets/philosophie/theogonie-deesses-mortels-s56-20261105.svg"
+      ],
+      "new_svg_check": "Les trois SVG existent sur main, possèdent <svg>, title, desc, vue 1200×650 ; figure, alt, légende, lien scientifique et statut IA uniques dans leurs pages.",
+      "pagination_analyses_a4": {
+        "iliade": 107,
+        "odyssee": 101,
+        "theogonie": 103
       },
-      {
-        "page": "philosophie-odyssee.html",
-        "asset": "assets/philosophie/odyssee-outis-metis-s56-20261105.svg",
-        "id": "icono-odyssee-outis-metis-s56-20261105",
-        "source": "Homère, Odyssée IX, v. 364–414 et 500–536",
-        "source_url": "https://dcc.dickinson.edu/homer-odyssey/intro/essays-book-9",
-        "statut": "diagramme original 2D contemporain réalisé avec assistance IA ; aucun artefact antique"
-      },
-      {
-        "page": "philosophie-theogonie.html",
-        "asset": "assets/philosophie/theogonie-deesses-mortels-s56-20261105.svg",
-        "id": "icono-theogonie-deesses-mortels-s56-20261105",
-        "source": "Hésiode, Théogonie, v. 1003–1018 (passage discuté)",
-        "source_url": "https://www.theoi.com/Text/HesiodTheogony.html",
-        "statut": "diagramme original 2D contemporain réalisé avec assistance IA ; aucun artefact antique"
-      }
-    ],
-    "analysis_only_a4_pages": {
-      "iliade": 107,
-      "odyssee": 101,
-      "theogonie": 103
+      "domain_record": "CNAME = bobmythos.fr",
+      "latest_known_integral_audit_run": 42029423261,
+      "latest_known_integral_audit_result": "success",
+      "earlier_publish_failure_run": 42027334005,
+      "earlier_publish_failure_reason": "Contrôle de classement de la notice secondaire Athéna Lindia ; correctif distinct déjà arrivé sur main au commit 9afd79afaa2a.",
+      "deployment": "Aucun nouveau déploiement HTTPS confirmé : vérification directe du domaine indisponible ; plusieurs actions de publication en attente/en cours au contrôle."
     },
-    "precommit_verifications": "AGENTS et protocole relus ; trois paragraphes existants vérifiés ; aucun ID dupliqué ; insertion unique, texte préexistant conservé ; ressources SVG prévues dans le même commit ; métadonnées titre, description, statut IA et liens scientifiques.",
+    "verified_defect": "tests/test_iconography_session56_epic_diagrams.py compare latest_session à la séance 56 par position [-1] ; consigner la séance 57 provoque inévitablement un échec du test_alternation_and_minimum_a4 dans le workflow de publication.",
+    "correction": "Le contrôle retrouve une unique séance 56 par son scope historique, valide son prédécesseur et son successeur sans exiger qu'elle reste la dernière. Le test général d'alternance reste inchangé.",
     "modified_files": [
-      "philosophie-iliade.html",
-      "philosophie-odyssee.html",
-      "philosophie-theogonie.html",
+      "tests/test_iconography_session56_epic_diagrams.py",
       "docs/MYTHOS_ICONOGRAPHIE_ALTERNANCE.json"
     ],
-    "added_files": [
-      "assets/philosophie/iliade-scamandre-limite-s56-20261105.svg",
-      "assets/philosophie/odyssee-outis-metis-s56-20261105.svg",
-      "assets/philosophie/theogonie-deesses-mortels-s56-20261105.svg",
-      "tests/test_iconography_session56_epic_diagrams.py"
-    ],
-    "preservation": "Aucune modification de chapitre numéroté, registre, inbox, menu, automatisation, CSS/JS, image existante ou PDF.",
-    "public_status": "Déploiement GitHub Pages à contrôler ; commit GitHub ne prouve pas la disponibilité HTTPS.",
-    "ci_status": "Tests Python ajoutés et validations statiques; exécution Actions à confirmer.",
+    "preserved": "Aucun texte universitaire, chapitre, numéro, registre, inbox, navigation, CSS/JS, SVG, médias, PDF ou planification horaire modifié.",
     "commits": [],
-    "commit_note": "SHA accessible dans l'historique GitHub."
+    "publication_status": "Commit GitHub à contrôler après transaction ; aucun déploiement public certifié.",
+    "limitations": "Audit statique ciblé, non audit navigateur global. Les liens externes et la publication HTTPS ne sont pas confirmés ; attendre les résultats des Actions en cours."
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
   "history": [
@@ -3323,6 +3317,57 @@
       "ci_status": "Tests Python ajoutés et validations statiques; exécution Actions à confirmer.",
       "commits": [],
       "commit_note": "SHA accessible dans l'historique GitHub."
+    },
+    {
+      "date": "2026-11-05",
+      "kind": "AUDIT ET CORRECTION",
+      "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "scope": "Séance 57 : audit post-iconographie des trois monographies ; corriger la régression de test qui figeait la séance 56 comme dernière et empêchait les séances ultérieures.",
+      "basis_commit": "084b37ef605b1544a747e150614ebea8f26c0e4d",
+      "audit_evidence": {
+        "checked_pages": [
+          "philosophie-iliade.html",
+          "philosophie-odyssee.html",
+          "philosophie-theogonie.html"
+        ],
+        "checked_html_pages": 3,
+        "checked_internal_anchors": 335,
+        "broken_same_page_fragments": 0,
+        "duplicate_html_ids": 0,
+        "checked_img_elements": 103,
+        "missing_img_alt": 0,
+        "css_references_per_page": 6,
+        "js_references_per_page": 2,
+        "css_and_js_resources": "Les six feuilles CSS et les deux scripts JS communs des trois pages existent sur main ; syntaxe JavaScript et rendu navigateur non exécutés localement.",
+        "new_svg_paths": [
+          "assets/philosophie/iliade-scamandre-limite-s56-20261105.svg",
+          "assets/philosophie/odyssee-outis-metis-s56-20261105.svg",
+          "assets/philosophie/theogonie-deesses-mortels-s56-20261105.svg"
+        ],
+        "new_svg_check": "Les trois SVG existent sur main, possèdent <svg>, title, desc, vue 1200×650 ; figure, alt, légende, lien scientifique et statut IA uniques dans leurs pages.",
+        "pagination_analyses_a4": {
+          "iliade": 107,
+          "odyssee": 101,
+          "theogonie": 103
+        },
+        "domain_record": "CNAME = bobmythos.fr",
+        "latest_known_integral_audit_run": 42029423261,
+        "latest_known_integral_audit_result": "success",
+        "earlier_publish_failure_run": 42027334005,
+        "earlier_publish_failure_reason": "Contrôle de classement de la notice secondaire Athéna Lindia ; correctif distinct déjà arrivé sur main au commit 9afd79afaa2a.",
+        "deployment": "Aucun nouveau déploiement HTTPS confirmé : vérification directe du domaine indisponible ; plusieurs actions de publication en attente/en cours au contrôle."
+      },
+      "verified_defect": "tests/test_iconography_session56_epic_diagrams.py compare latest_session à la séance 56 par position [-1] ; consigner la séance 57 provoque inévitablement un échec du test_alternation_and_minimum_a4 dans le workflow de publication.",
+      "correction": "Le contrôle retrouve une unique séance 56 par son scope historique, valide son prédécesseur et son successeur sans exiger qu'elle reste la dernière. Le test général d'alternance reste inchangé.",
+      "modified_files": [
+        "tests/test_iconography_session56_epic_diagrams.py",
+        "docs/MYTHOS_ICONOGRAPHIE_ALTERNANCE.json"
+      ],
+      "preserved": "Aucun texte universitaire, chapitre, numéro, registre, inbox, navigation, CSS/JS, SVG, médias, PDF ou planification horaire modifié.",
+      "commits": [],
+      "publication_status": "Commit GitHub à contrôler après transaction ; aucun déploiement public certifié.",
+      "limitations": "Audit statique ciblé, non audit navigateur global. Les liens externes et la publication HTTPS ne sont pas confirmés ; attendre les résultats des Actions en cours."
     }
   ]
 }

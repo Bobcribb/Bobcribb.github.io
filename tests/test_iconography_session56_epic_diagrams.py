@@ -31,9 +31,19 @@ class Iconography56(unittest.TestCase):
     def test_alternation_and_minimum_a4(self):
         d=json.loads((ROOT/"docs/MYTHOS_ICONOGRAPHIE_ALTERNANCE.json").read_text(encoding="utf-8"))
         self.assertEqual(d["latest_session"],d["history"][-1])
-        self.assertEqual(d["history"][-2]["kind"],"AUDIT ET CORRECTION")
-        self.assertEqual(d["latest_session"]["kind"],"ENRICHISSEMENT ICONOGRAPHIQUE")
-        self.assertEqual(d["latest_session"]["next_kind"],"AUDIT ET CORRECTION")
+        # Vérifier la séance 56 à sa position historique : latest_session
+        # doit évoluer à chaque nouvelle heure sans invalider ce test.
+        matches = [(i, entry) for i, entry in enumerate(d["history"])
+                   if entry.get("scope", "").startswith("Séance 56 :")]
+        self.assertEqual(len(matches), 1, "Une seule séance 56 doit être consignée")
+        position, session56 = matches[0]
+        self.assertGreater(position, 0)
+        self.assertEqual(d["history"][position - 1]["kind"], "AUDIT ET CORRECTION")
+        self.assertEqual(session56["kind"], "ENRICHISSEMENT ICONOGRAPHIQUE")
+        self.assertEqual(session56["previous_kind"], "AUDIT ET CORRECTION")
+        self.assertEqual(session56["next_kind"], "AUDIT ET CORRECTION")
+        if position + 1 < len(d["history"]):
+            self.assertEqual(d["history"][position + 1]["kind"], "AUDIT ET CORRECTION")
         p=json.loads((ROOT/"assets/philosophie/pagination-2026-11-04.json").read_text(encoding="utf-8"))
         for k in ("iliade","odyssee","theogonie"):
             self.assertGreaterEqual(p["studies"][k]["analyse-seule_pages"],10)
