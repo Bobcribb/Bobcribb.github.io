@@ -446,6 +446,10 @@ def main():
     from theatre_fragment_index import install as install_theatre_fragment_index
     print('Théâtre — éditions fragmentaires documentées :',
           install_theatre_fragment_index(ROOT, OUT))
+    # Notices de concordance après les outils de lecture, hors manuscrits.
+    from editorial_concordances import install as install_editorial_concordances
+    print('Concordances canoniques et Laconie :',
+          install_editorial_concordances(ROOT, OUT))
     # Ce panneau est bâti uniquement sur les allocations reçues et les pages
     # intégrales du rendu ; aucune nouvelle cote ni copie d'étude n'est créée.
     from recent_studies import install as install_recent_studies

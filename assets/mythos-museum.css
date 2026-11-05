@@ -1491,3 +1491,46 @@ body.mythos-design .greek-cross-readings[data-greek-cross-readings="beotie"] li{
     padding:1rem;
   }
 }
+
+/* Concordances : panneaux scientifiques externes, noir et or. */
+body.mythos-design .mythos-concordance{
+  padding:clamp(16px,2vw,28px);
+  margin:24px 0;
+  background:#111a1d;
+  color:#f0e7d7;
+  border:1px solid #816b47;
+  border-inline-start:3px solid #d2b07a;
+  border-radius:6px;
+}
+body.mythos-design .mythos-concordance h2{color:#e8c58b;font-size:clamp(23px,2.4vw,31px)}
+body.mythos-design .mythos-concordance ul{
+  display:grid;
+  grid-template-columns:repeat(2,minmax(0,1fr));
+  gap:12px;
+  list-style:none;
+  padding:0;
+}
+body.mythos-design .mythos-concordance li{
+  border:1px solid #635238;
+  background:#172124;
+  padding:12px;
+  min-width:0;
+}
+body.mythos-design .mythos-concordance a{
+  display:block;
+  min-height:44px;
+  color:#f0d39c;
+  overflow-wrap:anywhere;
+}
+body.mythos-design .mythos-concordance small{
+  display:block;
+  color:#d6cbb6;
+}
+body.mythos-design .mythos-concordance a:focus-visible{
+  outline:2px solid #efc98b;
+  outline-offset:3px;
+}
+@media(max-width:700px){
+  body.mythos-design .mythos-concordance{padding:16px}
+  body.mythos-design .mythos-concordance ul{grid-template-columns:1fr}
+}
