@@ -621,16 +621,6 @@ def verify(out, expected_urls):
 
 
 CSS = '''
-/* Parcs de lecture comparée : cartes tactiles, sans intervenir dans l'article. */
-.greek-cross-readings{border:1px solid #80633f;border-radius:6px;background:#10191c;padding:clamp(1rem,2vw,1.7rem);margin:2rem 0;color:#e9ddc8}
-.greek-cross-readings h2{font:400 clamp(1.4rem,2vw,1.85rem)/1.25 Georgia,serif;color:#efd3a0;margin:.2rem 0 .7rem}
-.greek-cross-readings p{max-width:76ch;line-height:1.65}
-.greek-cross-readings ul{list-style:none;padding:0;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:.7rem}
-.greek-cross-readings li{min-width:0;border:1px solid #655238;border-radius:4px;padding:.75rem;background:#172124}
-.greek-cross-readings a{display:flex;min-height:44px;align-items:center;color:#f4d69b;text-underline-offset:.2em;overflow-wrap:anywhere}
-.greek-cross-readings small{display:block;color:#d0c0a7;line-height:1.55;margin-top:.25rem}
-.greek-cross-readings a:hover,.greek-cross-readings a:focus-visible{color:#ffebc6;outline:2px solid #f0cb8d;outline-offset:3px}
-@media(max-width:700px){.greek-cross-readings ul{grid-template-columns:minmax(0,1fr)}}
 .greek-folder-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:1rem}
 .greek-folder-entry{min-width:0;display:flex;flex-direction:column;border:1px solid #785f3f;border-radius:5px;overflow:hidden;background:#101718}
 .greek-folder-link{min-width:0;display:flex;flex:1;flex-direction:column;padding:0 1.1rem 1rem;color:#f0e5d2!important;text-decoration:none}
