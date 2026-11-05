@@ -20,6 +20,10 @@
     "aae9117a-f792-44e3-8f56-4bb8129c7541": {
       "request_sha256": "de5e0289762bf757b25106229dcb74d4725d7abf5133b61d5554886dc88e3f61",
       "reason": "Collision documentaire confirmée le 5 novembre 2026 : les deux manuscrits intégraux 0fc9b192-8a44-4305-9982-816a22dfec74 (34 976 caractères) et aae9117a-f792-44e3-8f56-4bb8129c7541 (37 531 caractères) étudient la même inscription funéraire des Labyades de Delphes, CID I, 9 / CGRN 82. Première demande destinée à l'attribution canonique : 0fc9b192-8a44-4305-9982-816a22dfec74. Conserver intégralement ce second manuscrit et son appareil critique dans editorial/inbox, sans lui donner un second numéro indépendant avant comparaison philologique puis archivage comme complément critique au numéro de l'étude principale. Ne supprimer ni réémettre aucune des deux demandes ; ne modifier aucun reçu attribué."
+    },
+    "5f61b273-21a6-41b5-9f08-5e9d6fbe4a21": {
+      "request_sha256": "13d48d73369b46b5606969b614d4a70ca42ed1e1e556fe77486ac3a7579835f1",
+      "reason": "Collision éditoriale vérifiée sur main le 5 novembre 2026 : Philyllios, Phreōrychos (Φρεωρύχος), fr. *17–18 K.-A., fait l'objet de deux monographies intégrales distinctes. Première soumission canonique (08:33:01 UTC, commit 74c8ace, 55 421 caractères Markdown) : 0c667dac-3e69-4d15-9988-1b04e9f5a179. Seconde soumission (08:35:19 UTC, commit a5792e4, 61 721 caractères Markdown) : 5f61b273-21a6-41b5-9f08-5e9d6fbe4a21. Conserver intégralement le second texte, ses quatre scènes originales, son appareil critique et ses références dans editorial/inbox, sans numéro indépendant ni nouvel UUID. Après attribution du premier, effectuer un rapprochement philologique et, si pertinent, archiver le second comme complément critique non numéroté avec renvois au volume canonique. Ne modifier aucune demande ni attribution déjà publiée."
     }
   }
 }
