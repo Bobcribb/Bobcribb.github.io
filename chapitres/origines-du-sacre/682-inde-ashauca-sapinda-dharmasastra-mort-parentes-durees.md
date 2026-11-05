@@ -1,0 +1,265 @@
+# Chapitre 682 — La parenté à l'épreuve de la mort : āśauca, sapiṇḍa et durée de l'impureté dans les Dharmaśāstra indiens
+
+*MYTHOS — Les Origines du sacré, volume DCLXXXII. Monographie universitaire originale. Histoire des religions de l'Inde, philologie sanskrite, critique des textes normatifs, anthropologie de la parenté et philosophie du temps rituel. Documentation vérifiée le 5 novembre 2026. Texte public destiné à la file d'attribution concurrente.*
+
+## Résumé scientifique
+
+Pourquoi un décès atteint-il rituellement ceux qui n'ont pas touché le cadavre ? Comment une règle de dix jours peut-elle être modulée par la naissance, le statut, la distance, la transmission de la nouvelle, l'âge du défunt ou l'engagement sacrificiel d'un parent ? La littérature brahmanique du *dharma* permet d'étudier la mort non comme une impureté physique uniforme, mais comme un événement qui modifie momentanément la place des vivants dans un ensemble de relations. Le *Gautama-Dharmasūtra* XIV et le *Mānava-Dharmaśāstra* V, 58–104, constituent ici les deux témoins principaux. Leur rapprochement éclaire la distinction entre l'impureté produite par le cadavre, l'impureté liée à un décès dans la parenté et les restrictions qui rendent visible une période de transition.
+
+Le dossier résiste à quatre simplifications : traduire *āśauca* par « saleté » ; transformer des prescriptions de lettrés en photographie de l'Inde ancienne ; confondre l'horizon brahmanique avec l'ensemble des traditions du sous-continent ; exporter sans critique des modèles de « pollution » de la Grèce ou du Lévitique. L'enquête sépare faits textuels contrôlables, divergences d'interprétation et hypothèses anthropologiques.
+
+## 1. Problématique : qui devient impur lorsque quelqu'un meurt ?
+
+La mort rompt une relation à la personne et crée des obligations envers ce qu'elle laisse : corps, biens, maison, parenté, ancêtres, mémoire. Dans les corpus brahmaniques, un parent peut subir une période d'impureté sans se trouver à proximité du défunt. Cette situation suffit à invalider l'explication exclusivement hygiéniste. L'enjeu premier est la requalification rituelle de certains vivants à raison d'un événement familial. Les dispositions du *dharma* inscrivent ce changement dans des durées et des procédures de retour à l'ordinaire. Elles organisent non seulement le traitement des restes, mais la circulation d'une information : savoir qu'un décès a eu lieu peut devenir juridiquement et rituellement pertinent.
+
+Leur portée est aussi politique. Un texte normatif définit qui compte comme apparenté, à quelle distance s'étend une solidarité de deuil, qui peut poursuivre des services sacerdotaux, et quelles activités doivent être suspendues. La règle exhibe une représentation du lien social. Elle ne prouve pas, pour autant, que toutes les familles de toutes les régions l'aient suivie.
+
+## 2. Corpus, datation et précautions de méthode
+
+Les *Dharmasūtra* sont des textes prescriptifs sanskrits en prose aphoristique, rédigés et transmis dans des milieux savants différents. Il serait erroné de les traiter comme les articles d'un code étatique unique. Les recherches rassemblées par Patrick Olivelle montrent la pluralité de leurs voix, de leurs arrangements et de leurs contextes scolaires. Le *Mānava-Dharmaśāstra*, souvent appelé « Lois de Manu », appartient à une autre configuration littéraire et à une histoire textuelle plus longue ; son édition critique tient compte des variantes manuscrites.
+
+Nous retenons trois niveaux de preuve. Niveau A : l'existence et le contenu d'une prescription dans un passage identifié. Niveau B : l'interprétation de la fonction de cette prescription, négociable en confrontant plusieurs passages. Niveau C : l'inférence concernant les pratiques sociales historiques, qui demande des sources indépendantes. Un énoncé de niveau A n'autorise jamais automatiquement une conclusion de niveau C.
+
+## 3. Lexique : śauca, āśauca, aśuddhi
+
+La famille lexicale de *śuci* et *śauca* renvoie à une qualité de pureté ou de propreté définie selon les situations. Le préfixe privatif d'*a-śauca* désigne une condition de non-pureté, sans décrire nécessairement une matière contaminante. *Aśuddhi*, construit sur l'idée de purification et de pureté, peut désigner un état voisin, mais les synonymes apparents ne permettent pas de reconstruire une doctrine uniforme.
+
+Il faut garder la traduction « impureté » comme outil, non comme cause explicative. Les catégories sanskrites ne recouvrent pas terme à terme les notions grecques de *miasma*, hébraïques de *ṭum'ah*, avestiques de *nasu* ni les catégories modernes de souillure biologique. Leur comparaison n'est utile que si l'on distingue le déclencheur, les personnes affectées, les opérations prescrites et les effets de la restriction.
+
+## 4. Śāvāśauca et sūtaka : mort et naissance
+
+La formule *śāvam āśaucam* dans *Manu* V, 59 précise l'impureté « liée au cadavre » ou « liée à un décès », selon le contexte d'énonciation. Le terme *sūtaka* concerne un événement de naissance. Le voisinage des deux dossiers dans les textes montre une symétrie formelle : des transitions de statut appellent un encadrement temporaire. Mais une naissance n'est ni une petite mort ni une faute à expier. Le même mécanisme de retrait rituel peut être appliqué à des événements opposés parce qu'ils modifient tous deux la structure d'un foyer.
+
+Dans *Gautama* XIV, 14–16, des règles concernant la mort sont explicitement rapprochées de la naissance, avec des variantes sur les personnes concernées. Le motif intéressant est moins l'identité des deux événements que la capacité d'une institution à réguler les transformations de parenté au moyen du temps.
+
+## 5. Sapiṇḍa : l'appartenance qui étend la conséquence
+
+Le terme *sapiṇḍa* désigne une relation de parenté rituelle dont les limites varient selon les textes et les contextes. Il est tentant d'en donner la simple traduction « ceux qui partagent les boulettes de riz offertes aux ancêtres ». Cette étymologie fonctionnelle peut éclairer une partie des systèmes, mais elle n'épuise pas l'histoire juridique ni les débats exégétiques. La proximité généalogique, les formes de transmission et la délimitation du cercle des parents n'ont pas partout les mêmes effets.
+
+Le *Gautama-Dharmasūtra* XIV, 13 évoque la limite du lien *sapiṇḍa* au cinquième ou au septième ascendant selon les positions rapportées. *Manu* V, 60 énonce une limite au septième. Ces indications ne sauraient être transformées en un arbre généalogique universel valable pour toutes les époques. Elles montrent plutôt que la règle doit tracer une frontière entre proches et autres proches.
+
+## 6. Le passage-pivot : Manu V, 59
+
+Le texte sanskrit de *Manu* V, 59 commence par « daśāhaṃ śāvam āśaucaṃ sapiṇḍeṣu vidhīyate ». Sa première proposition établit un délai de dix jours pour l'impureté funéraire affectant les *sapiṇḍa*. Le reste du vers mentionne des alternatives liées notamment au rassemblement des ossements et à des durées plus courtes. Le vers n'exprime donc pas une simple constante arithmétique : il introduit une norme accompagnée de modalités.
+
+Deux conséquences s'imposent. D'abord, on ne peut extraire « dix jours » du système de qualifications qui suit. Ensuite, le texte se lit dans son chapitre, où apparaissent des différences selon le défunt, la parenté, les gestes accomplis et la réception de la nouvelle. Une lecture isolée du vers fausserait la logique de casuistique.
+
+## 7. Gautama XIV, 1–5 : diversité des durées et hiérarchie
+
+Le *Gautama-Dharmasūtra* XIV, 1 indique, dans une traduction anglaise ancienne consultable, que des *sapiṇḍa* deviennent impurs durant dix jours et nuits, sous réserve d'exceptions. Les aphorismes suivants donnent des durées différenciées pour les groupes sociaux normativement définis comme *kṣatriya*, *vaiśya* et *śūdra*. Ce dispositif inscrit la temporalité dans une hiérarchie de statuts.
+
+L'historien doit distinguer ce que l'auteur prescrit et ce que les individus font. La série de durées est une preuve du classement social dans une tradition brahmanique, non une enquête de terrain sur tous les morts de l'Inde ancienne. Elle révèle aussi que le rituel participe à la production d'une différence sociale : deux familles confrontées au même fait biologique peuvent être soumises, dans l'économie du texte, à des calendriers distincts.
+
+## 8. Le calendrier comme technologie institutionnelle
+
+Une durée n'est pas seulement un nombre de jours. Elle marque le commencement d'un état, sa progression et sa clôture. Le deuil peut être vécu comme indéfini ; l'impureté rituelle, elle, reçoit un terme calculable. Cette différence permet le retour aux activités ordinaires sans prétendre abolir le chagrin.
+
+La règle devient particulièrement importante lorsqu'elle rencontre un second événement. Les aphorismes de *Gautama* XIV, 6–8 discutent la survenue d'un autre décès pendant une première période d'impureté et les prolongations possibles. L'impureté a donc une arithmétique juridique. Cette arithmétique oblige à reconnaître qu'une famille n'entre pas dans un simple état psychologique : elle occupe une situation définie par rapport au temps public du rite.
+
+## 9. Le cas du second décès : l'événement qui se superpose
+
+Un système cohérent doit répondre à une question difficile : si la première impureté n'est pas terminée lorsqu'un autre parent meurt, faut-il recommencer intégralement ? Les règles de *Gautama* examinées plus haut proposent des distinctions selon le moment où survient la nouvelle mort. Le droit rituel n'est donc pas une juxtaposition de tabous, mais un ensemble de procédures traitant les chevauchements.
+
+La valeur anthropologique de ce passage est considérable. Le calendrier impose une continuité malgré les aléas de la vie. Il rend pensable l'enchaînement des pertes sans que le groupe soit enfermé dans une suspension perpétuelle. Toutefois, il serait abusif d'attribuer aux rédacteurs une préoccupation moderne d'efficacité administrative : notre lecture fonctionnelle est une hypothèse, non un motif explicitement attesté.
+
+## 10. La nouvelle venue de loin : Manu V, 74–77
+
+Les passages *Manu* V, 74–77 distinguent l'événement appris rapidement de celui dont la nouvelle arrive après plusieurs jours ou même longtemps après le décès. Une période peut être réduite à la fraction restante ; après un délai plus long, les mesures prévues diffèrent. Le système ne repose donc pas seulement sur un contact avec une dépouille, mais sur la position du parent dans un réseau d'information.
+
+La distance géographique devient un opérateur rituel indirect. Le temps écoulé entre la mort et sa connaissance affecte la durée du retrait. Ce cas interdit de reconstruire une « substance » qui se déplacerait automatiquement d'un corps vers une famille. La nouvelle reconfigure le statut de celui qui apprend. Il serait excessif d'y voir un mécanisme purement symbolique : les exigences de la vie domestique et des voyages peuvent également avoir compté.
+
+## 11. Contact corporel et effet de parenté : deux mécanismes
+
+La parenté suffit parfois à entraîner une période de restriction ; porter un cadavre introduit un autre problème. *Gautama* XIV, 23–30 distingue des circonstances du transport du corps, des liens avec le défunt et des opérations de purification. L'aphorisme XIV, 30 associe à certains contacts une ablution, sans que cette mesure soit assimilable au long retrait imposé à tous les parents.
+
+Nous devons donc séparer deux questions : quelle personne est affectée parce que la mort frappe son groupe, et quelle personne est affectée parce qu'elle a touché ou transporté une dépouille ? Ces deux logiques peuvent se recouper mais elles ne sont pas identiques. Le vocabulaire « impureté du cadavre » les masque parfois.
+
+## 12. Services rituels et exceptions de Gautama XIV, 1
+
+La première règle de *Gautama* XIV mentionne des exceptions relatives à certains officiants, à des initiés à un sacrifice solennel et à des étudiants. Il faut lire ces cas comme des tensions entre devoirs concurrentiels : parenté d'un côté, continuité d'une activité rituelle de l'autre. Une norme ne peut fonctionner qu'en classant ses propres exceptions.
+
+La comparaison avec Lévitique 21 serait trompeuse si elle affirmait une identité. Dans le texte hébraïque, la différenciation touche notamment les prêtres et les proches dont le décès permet un contact autrement proscrit ; dans *Gautama*, l'articulation des exemptions dépend de situations particulières de formation et d'engagement sacrificiel. Le point commun formel est la coexistence d'obligations ; les institutions ne sont pas interchangeables.
+
+## 13. Enfants morts, âge social et traitements distincts
+
+*Manu* V, 67–70 introduit des distinctions selon des rites déjà accomplis par l'enfant, dont la tonsure et la dation du nom, et prévoit des modalités funéraires particulières. La différence ne signifie pas que la peine de la famille serait mesurée par l'âge ; elle résulte d'une catégorisation normative de l'appartenance sociale et rituelle.
+
+Ce passage exige une prudence éthique. Traduire un règlement ancien par « l'enfant compte moins » serait une inférence trop rapide, même si les normes instituent objectivement des hiérarchies de traitement. Pour comprendre celles-ci, il faut étudier séparément les cycles de vie, l'accès aux rites, les pratiques matérielles de sépulture et les sentiments qui ne laissent pas toujours de trace documentaire.
+
+## 14. Mort, initiation et personne rituelle
+
+Les traitements différenciés des défunts selon les cérémonies accomplies suggèrent que la personne n'est pas seulement définie par l'âge biologique. L'appartenance à une séquence de rites de passage, ses obligations et les attentes du groupe peuvent être déterminantes. Ainsi, le droit du deuil n'est pas simplement réactif : il récapitule l'histoire rituelle du défunt.
+
+Ce constat peut être mis en rapport avec la notion de *saṃskāra*, sans affirmer que toutes les règles anciennes relèvent d'un système parfaitement codifié de « seize sacrements ». Le nombre, la liste et les théories des rites de cycle de vie sont eux-mêmes historiques. Il faut donc éviter d'importer dans un passage ancien une synthèse plus tardive.
+
+## 15. Le corps, le feu, les restes
+
+La crémation occupe une place importante dans de nombreuses traditions brahmaniques et hindoues, sans constituer une pratique uniforme ni intemporelle. Le *Ṛgveda* X, 16 s'adresse au feu dans un contexte funéraire ; X, 18 comporte des paroles relatives au mort et à la terre. Les textes ne sont pas une description complète d'une cérémonie à une date déterminée. Les prescriptions ultérieures des *Gṛhyasūtra* et *Dharmaśāstra* multiplient les distinctions.
+
+L'analyse doit donc distinguer combustion, collecte des restes, dons, libations et retour des vivants à leur régime habituel. L'un de ces gestes n'explique pas les autres. Une croyance générale sur le destin du mort n'autorise pas à reconstruire automatiquement chaque procédure matérielle.
+
+## 16. Les ossements : l'incertitude sur la séquence pratique
+
+*Manu* V, 59 évoque explicitement la collecte des ossements dans la discussion des durées. C'est une attestation du lien textuel entre traitement des restes et calcul de l'état rituel. Elle ne fournit pas, à elle seule, la chronologie précise d'un rite exécuté dans chaque communauté. Les traditions ultérieures de collecte, de dépôt et de dispersion montrent combien le traitement des restes a varié dans l'espace et le temps.
+
+La tentation archéologique serait de chercher un type d'urne et de lui attribuer immédiatement la procédure décrite. Une urne, des os brûlés ou une fosse constituent d'abord des données matérielles. Pour les lier à un texte, il faut une chronologie compatible, un contexte culturel démontré et des indices convergents ; la seule présence du feu ne suffit jamais.
+
+## 17. Le repas, le couchage, l'abstinence
+
+*Manu* V, 73 prescrit, dans les traductions courantes, des restrictions alimentaires et des habitudes de couchage pendant une période de deuil. La nourriture, la texture du lieu de sommeil et la séparation éventuelle des activités ordinaires marquent corporellement la transition. Ce sont des gestes dont la force dépend de leur caractère public et répétable.
+
+On peut parler d'une pédagogie somatique de la parenté : l'événement est inscrit dans les rythmes de la journée. Cette formulation relève d'une interprétation anthropologique. Le texte, pour sa part, indique des conduites prescrites ; il ne délivre pas un traité de psychologie du chagrin.
+
+## 18. Deuil, abstention, réintégration
+
+Il est analytique de distinguer les signes de deuil et les conditions techniques de purification. Une famille peut porter le deuil longtemps après avoir retrouvé un accès rituel à certaines activités ; inversement, une restriction rituelle n'implique pas que les sentiments soient réglementés par une seule horloge. Les textes peuvent juxtaposer règles relatives à l'impureté, à l'offrande aux ancêtres et aux obligations familiales.
+
+L'historien doit refuser la formule : « dix jours de deuil, puis les morts sont oubliés ». Elle confond la clôture d'une situation institutionnelle avec la disparition de la mémoire. Les obligations envers les ancêtres peuvent au contraire prolonger les relations après la phase initiale.
+
+## 19. Les femmes dans une archive de prescriptions masculines
+
+Les Dharmaśāstra se présentent majoritairement à travers les catégories et préoccupations des milieux savants masculins. Leurs règles sur la naissance et la mort affectent pourtant les femmes comme mères, filles, épouses et parentes. L'absence de voix directes féminines dans un passage normatif ne démontre ni une absence de pratique ni une identité de comportement avec les préceptes énoncés.
+
+Pour reconstruire les expériences vécues, il faudrait croiser d'autres genres de sources, des traditions régionales et, pour des périodes beaucoup plus récentes, l'ethnographie. Les solutions offertes par la littérature juridique ne sont qu'un aspect de la vie des familles. C'est une limite structurelle du corpus, non une lacune à combler par invention.
+
+## 20. Hiérarchies de varṇa et critique historique
+
+Les différences de délai mentionnées par *Gautama* ne sont pas un détail neutre : elles inscrivent des distinctions hiérarchiques dans l'expérience normative de la mort. On peut étudier comment le temps devient un instrument de catégorisation de groupes sans réifier les *varṇa* comme castes empiriques homogènes. Les classifications brahmaniques et la multiplicité des groupes sociaux historiques ne se confondent pas.
+
+Louis Dumont a proposé une analyse influente de la hiérarchie et de la pureté dans les sociétés indiennes. Son modèle doit aujourd'hui être mobilisé comme un programme de comparaison discuté, non comme la preuve qu'un même principe explique toute l'Inde à travers les siècles. Une lecture historique attentive aux régions, aux genres et aux écarts entre normes et usages évite cette généralisation.
+
+## 21. L'archéologie : ce que révèle une sépulture et ce qu'elle tait
+
+Les recherches archéologiques sur le sous-continent documentent une pluralité d'inhumations, de crémations, de dépôts secondaires et de mémoriaux dans des contextes chronologiques distincts. Ces résultats permettent d'étudier traitements des corps, différenciations de statut, distribution des objets et transformations des pratiques. Mais les corpus sanskrits normatifs ne sont pas une légende explicative universelle apposée sur tout assemblage funéraire.
+
+L'hypothèse « telle fosse matérialise *Manu* V, 59 » ne devient recevable que si une datation, une provenance et des concordances précises la soutiennent. L'absence d'un rite dans le sol ne prouve pas qu'il n'a pas existé ; un rite sans dépôt durable peut disparaître presque intégralement de l'enregistrement. L'archéologie impose ici d'abord une discipline de l'inférence négative.
+
+## 22. Les textes comme archives de désaccords
+
+Loin de présenter un monolithe, les normes rapportent parfois des variantes de durée ou de critères. Celles-ci ne doivent pas être harmonisées pour produire une loi idéalement parfaite. Une divergence est elle-même un fait documentaire : des milieux de transmission ont envisagé plusieurs solutions à une même situation. La présence de choix signale une pluralité de compétences et de traditions.
+
+L'édition critique de Patrick Olivelle invite à suivre la texture des manuscrits, les transformations du vocabulaire et les divergences des écoles. Les mots ne traversent pas les siècles dans un sens invariant. L'historien perd des informations quand il remplace cette histoire par l'illusion d'un « hindouisme classique » parlant d'une voix unique.
+
+## 23. Comparaison I — Nombres 19 et les instruments de purification
+
+La vache rousse de Nombres 19 fournit, dans un corpus israélite ancien, un dispositif particulièrement développé de production d'une eau lustrale à partir de cendres, avec des règles pour l'exposition à la mort. Il serait méthodologiquement fautif de présenter les prescriptions de *Manu* comme une variante de ce dispositif : les agents, les matériaux et les conditions d'activation ne correspondent pas.
+
+La comparaison utile distingue trois axes : l'état défini par le groupe, l'opération qui transforme cet état et l'institution qui rend la transformation valide. Dans les deux traditions, la mort peut empêcher temporairement certains actes. Mais l'Inde brahmanique ici étudiée formule des délais liés à la parenté et aux informations reçues ; la loi sacerdotale hébraïque développe ses propres procédures de purification. La ressemblance n'autorise pas un emprunt historique.
+
+## 24. Comparaison II — Grèce, Ioulis et proximité du mort
+
+Les règlements funéraires grecs de Ioulis à Céos et d'autres cités mettent en relation maison, traitement du corps, participants et retour à une situation de pureté. L'espace domestique y occupe une place structurante. Les textes grecs permettent donc de poser, sans les résoudre de manière identique, des questions proches de celles des Dharmaśāstra : qui doit se retirer, qui doit se purifier et quels gestes sont requis ?
+
+La différence documentaire est essentielle. Une loi civique gravée, localisable et datable, et un traité prescriptif transmis dans des traditions manuscrites ne prouvent pas la même chose. Même le mot général « purification » désigne des mécanismes distincts. Les chapitres MYTHOS consacrés à Ioulis et aux normes de deuil grecques doivent servir de points de comparaison, non de canevas permettant de réécrire l'Inde.
+
+## 25. Comparaison III — Iran et protection des éléments
+
+Le *Vidēvdād* zoroastrien, dans ses passages sur la Nasu et les cadavres, oblige à protéger notamment la terre, l'eau et le feu contre la pollution funéraire. La doctrine de la souillure y possède ses configurations narratives et rituelles. Notre corpus indien, au contraire, insiste dans les passages retenus sur la durée de l'impureté des personnes et les ramifications de parenté.
+
+Les deux traditions ont des héritages indo-iraniens complexes, mais un vocabulaire voisin ne prouve pas que telle règle serait issue d'un rite commun. Tout scénario de filiation demande une analyse philologique et historique indépendante. La prudence est d'autant plus nécessaire que nos textes sont d'époques, de genres et de transmissions différents.
+
+## 26. Comparaison IV — Chine, vêtements et degrés de deuil
+
+Dans le *Yili* chinois, le chapitre *Sangfu* élabore une classification visible des obligations de deuil à travers les tenues, les matières et les relations. À première vue, l'Inde et la Chine construisent toutes deux des différences de durée fondées sur la parenté. Mais cette analogie formelle masque une divergence : la gradation chinoise des vêtements de deuil ne doit pas être identifiée d'emblée à l'impureté indienne d'*āśauca*.
+
+Le dossier chinois appelle une étude autonome portant sur le texte des catégories, l'architecture du rite et la philosophie de la forme. Comparer sans traduire toutes les pratiques dans une seule ontologie de la contamination permet de conserver à chaque tradition son intelligibilité.
+
+## 27. Durkheim : le collectif et l'individu
+
+La sociologie d'Émile Durkheim offre un point de départ : les classifications et obligations collectives agissent sur les états et les conduites individuelles. La règle relative au décès rend manifeste qu'un événement privé peut produire une conséquence sociale partagée. Mais le langage durkheimien ne suffit pas à expliquer pourquoi les durées diffèrent, ni comment le corpus indien construit spécifiquement parenté et compétence rituelle.
+
+La valeur de cette confrontation est heuristique, non probatoire. Durkheim n'est pas un témoin du *Gautama-Dharmasūtra* ; il aide à formuler une question sur la force collective d'une prescription.
+
+## 28. Mary Douglas : danger, ordre et frontières
+
+*Purity and Danger* a montré la fécondité d'une analyse de la pollution comme trouble d'un système classificatoire plutôt que comme simple hygiène. Appliquée à *āśauca*, cette intuition conduit à considérer la mort comme modification d'une frontière entre activités recevables et temporairement suspendues. Elle éclaire le paradoxe d'une famille concernée sans contact matériel.
+
+Le risque est de transformer la théorie en formule universelle. Certaines prescriptions peuvent impliquer des représentations matérielles de la pureté, des enjeux de statut, des calculs temporels et des impératifs sacrificiels. Aucune hypothèse classificatoire ne doit effacer cette hétérogénéité.
+
+## 29. Dumézil : comparaison contrôlée et piège de l'origine unique
+
+L'œuvre de Georges Dumézil a attiré l'attention sur les possibilités de comparaison entre héritages indo-européens. Elle incite à examiner avec rigueur les structures, les lexiques et les fonctions, mais elle ne permet pas de déclarer que les règles de *Gautama* dérivent de quelque rite indo-européen primordial. Une parenté de langues n'établit pas automatiquement une identité de normes funéraires.
+
+L'hypothèse génétique exigerait des correspondances précises, anciennes et indépendantes. Faute de cela, la comparaison entre Inde, Grèce et Iran doit rester typologique. La prudence de méthode protège contre la rétroprojection de catégories tardives dans une préhistoire imaginaire.
+
+## 30. Vernant et Detienne : gestes, institutions et pratiques
+
+Les études de Jean-Pierre Vernant et Marcel Detienne sur les pratiques religieuses grecques rappellent qu'un rite se comprend dans un ensemble de positions sociales, de gestes et de rapports à la communauté. Cet acquis comparatif aide à ne pas isoler l'ablution, l'interdit alimentaire ou la collecte des restes de leur configuration. Il serait néanmoins anachronique de plaquer le schéma du sacrifice civique grec sur tous les règlements de l'Inde.
+
+La bonne comparaison conserve la spécificité des genres : poème rituel, aphorisme juridique, règlement de cité ou traité philosophique. Elle ne remplace pas l'analyse interne du document.
+
+## 31. Girard et Eliade : pouvoirs et limites de deux grandes théories
+
+René Girard a travaillé sur la violence, la crise et le mécanisme victimaire. Sa perspective peut susciter des interrogations sur la manière dont un groupe gère une perturbation collective. Toutefois, aucune prescription étudiée ici ne permet d'affirmer qu'un mécanisme de bouc émissaire gouverne l'*āśauca*. Déduire une violence originelle d'une période de restriction serait gratuit.
+
+Mircea Eliade a privilégié les structures du sacré et la répétition rituelle. Cette approche peut inspirer l'étude du passage d'un temps exceptionnel à un temps restauré, mais elle tend à lisser les écarts d'époque et de statut. Les variantes des Dharmaśāstra résistent précisément à une image immobile de « l'homme religieux ».
+
+## 32. Hegel et Nietzsche : philosophie sans preuve philologique
+
+La philosophie hégélienne de l'institution et de la reconnaissance invite à considérer comment une obligation acquiert une existence objective dans le groupe. Mais les jugements généraux de Hegel sur les civilisations orientales ne peuvent pas servir de description fiable des pratiques indiennes. Une étude contemporaine doit distinguer la puissance d'une question philosophique de la datation et de la lecture des sources.
+
+Nietzsche, en interrogeant la généalogie des valeurs, la discipline des corps et l'émergence des obligations, fournit un autre langage critique. Là encore, l'analyse ne doit pas prétendre qu'un aphorisme sanskrit illustre une théorie nietzschéenne préétablie. On gagne à confronter les questions plutôt qu'à forcer la réponse.
+
+## 33. L'enquête ethnographique : continuités et transformations
+
+L'étude de Jonathan P. Parry, *Death in Banaras* (1994), porte sur des pratiques et des spécialistes religieux observés dans un contexte contemporain. Elle démontre l'importance des professionnels des funérailles, de la ville sainte, des relations économiques et de l'interprétation de la bonne mort. Elle ne saurait constituer un enregistrement direct de rites remontant aux Dharmaśāstra anciens.
+
+Son apport est surtout de défaire l'équivalence entre règle écrite et pratique. Les acteurs négocient leurs obligations, et le rite intervient dans des relations concrètes. Une histoire longue du deuil en Inde doit donc assumer les discontinuités aussi bien que les mémoires.
+
+## 34. Les cas limites comme révélateurs
+
+Il est souvent plus éclairant de partir d'une exception que de réciter une règle générale. Un enfant mort avant un rite de cycle de vie ; un parent apprenant tardivement un décès ; un officiant déjà engagé dans un sacrifice ; un porteur de cadavre qui n'est pas parent ; deux décès successifs : chaque cas déplace l'axe de la norme. Il devient impossible de réduire l'impureté à une propriété chimique du mort.
+
+Ces cas obligent également à reconnaître des responsabilités simultanées et parfois antagonistes : faire son deuil, ne pas négliger un sacrifice, assurer les rites d'un enfant, reprendre la vie collective. L'institution n'abolit pas ces tensions ; elle produit des solutions prescriptives.
+
+## 35. Tableau raisonné des attestations
+
+- **Gautama XIV, 1–5 — [A]** : durées différenciées et exceptions ; **[B]** : le statut commande l'étendue de la suspension ; **[C]** : application uniforme à toute la population, non démontrée.
+- **Gautama XIV, 6–8 — [A]** : règles relatives à des décès survenus pendant une première période ; **[B]** : résolution de conflits de calendrier ; **[C]** : intention administrative explicite, non démontrée.
+- **Gautama XIV, 23–30 — [A]** : distinction des porteurs et des contacts ; **[B]** : coexistence de l'impureté par parenté et par geste ; **[C]** : théorie d'une substance contagieuse unique, non démontrée.
+- **Manu V, 59–60 — [A]** : délai pour les *sapiṇḍa*, variantes et limites de parenté ; **[B]** : formalisation d'un cercle d'obligation ; **[C]** : généalogie universelle de la famille indienne, non démontrée.
+- **Manu V, 67–70 — [A]** : différences liées à l'âge et aux rites de l'enfant ; **[B]** : inscription des funérailles dans un cycle de vie ; **[C]** : mesure immédiate de l'affection parentale, non démontrée.
+- **Manu V, 73–77 — [A]** : conduite corporelle et information tardive ; **[B]** : temporalisation publique de la perte ; **[C]** : modèle psychologique unique du deuil, non démontré.
+
+## 36. Une théorie du seuil plutôt qu'une théorie de la saleté
+
+Le résultat principal est qu'un décès modifie temporairement des droits d'agir, d'offrir, d'étudier et de participer. Une catégorie de parenté met en relation la personne et le groupe ; un intervalle suspend certains gestes ; des conditions de clôture rendent possible la réintégration. Ce système n'est pas nécessairement cohérent en tout lieu et à toute époque, mais les passages étudiés montrent qu'il est construit par des différences contrôlées.
+
+Le mot « seuil » convient parce qu'il désigne une transformation réglée, non parce qu'il révélerait un secret unique de toutes les religions. Son intérêt est descriptif : il oblige à poser quatre questions documentaires — à qui, à cause de quoi, pour combien de temps et par quelle procédure ? Les réponses sont historiques et spécifiques.
+
+## 37. Controverses ouvertes
+
+Plusieurs problèmes demeurent débattus : la chronologie relative des rédactions et des couches d'exégèse ; la place respective des écoles du *dharma* et des pratiques régionales ; l'étendue effective de *sapiṇḍa* selon les contextes ; la manière de comprendre les différentes durées et les exceptions ; la relation entre rites de sépulture et offrandes aux ancêtres ; la part des femmes et des autres acteurs dans les usages que les textes de lettrés décrivent mal.
+
+Une monographie responsable ne convertit pas ces difficultés en certitudes. Une édition de source, une enquête archéologique et une ethnographie n'ouvrent pas les mêmes fenêtres chronologiques. La concordance d'un vocabulaire moderne de « pureté » ne remplace pas ces vérifications.
+
+## 38. Conclusion : compter les jours, définir les proches
+
+Les textes brahmaniques étudiés organisent la mort en inscrivant la parenté dans le temps. L'impureté rituelle n'est pas réductible à un contact matériel ; la réception tardive d'une nouvelle suffit parfois à modifier une situation. Les dérogations, les durées variables, l'attention aux étapes du cycle de vie et les procédés de retour montrent le caractère institutionnel de ces prescriptions.
+
+Cette conclusion n'autorise pas un portrait intemporel de l'Inde. Elle établit la portée de deux témoins majeurs et les limites des inférences que l'on peut en tirer. Une comparaison avec le *Yili* chinois, menée à partir de ses propres catégories, fait apparaître une question plus vaste : comment les sociétés rendent-elles visibles la proximité et la distance des survivants par des durées, des vêtements, des nourritures et des obligations ?
+
+## Sources primaires et outils de lecture
+
+1. *Gautama-Dharmasūtra*, XIV, 1–30 : édition et traduction à confronter à Patrick Olivelle (1999) ; accès au découpage des aphorismes et à une traduction anglaise ancienne : https://www.wisdomlib.org/hinduism/book/gautama-dharmasutra/d/doc116314.html
+2. *Mānava-Dharmaśāstra* (*Manusmṛti*), V, 58–104, particulièrement V, 59–60, 67–70, 73–77. Pour le texte sanskrit et une lecture de V, 59 : https://www.siva.sh/manusmriti/5/56-60 ; édition critique : Olivelle (2004/2005).
+3. *Ṛgveda* X, 16 et X, 18, hymnes funéraires ; leur comparaison avec les prescriptions juridiques est un rapprochement de genres différents, sans postuler une continuité pratique ininterrompue.
+4. Pour la comparaison : *Bible hébraïque*, Nombres 19 ; Lévitique 21 ; *Yili*, *Sangfu*, https://ctext.org/yili/sang-fu ; réglementations funéraires grecques étudiées dans les précédents dossiers MYTHOS.
+
+## Bibliographie critique vérifiée
+
+- Olivelle, Patrick (trad. et dir.), *Dharmasūtras: The Law Codes of Āpastamba, Gautama, Baudhāyana, and Vasiṣṭha*, Oxford, Oxford University Press, 1999. Notice : https://wellcomecollection.org/works/st8u3zzb
+- Olivelle, Patrick, *Manu's Code of Law: A Critical Edition and Translation of the Mānava-Dharmaśāstra*, Oxford, Oxford University Press, 2004/2005. Notice éditoriale et DOI : https://doi.org/10.1093/oso/9780195171464.001.0001
+- Kane, Pandurang Vaman, *History of Dharmaśāstra (Ancient and Mediaeval Religious and Civil Law in India)*, plusieurs volumes, Poona, Bhandarkar Oriental Research Institute, éditions échelonnées. Notice : https://www.rijksmuseum.nl/en/collection/publication/History-of-Dharmasastra-ancient-and-medival-religious-and-civil-law-in-India--c6f8b2e489c44b947bc92414cf180ac0
+- Parry, Jonathan P., *Death in Banaras*, Cambridge, Cambridge University Press, 1994. Notice : https://books.google.com/books?id=uGVgQgAACAAJ
+- Douglas, Mary, *Purity and Danger: An Analysis of Concepts of Pollution and Taboo*, Londres, Routledge & Kegan Paul, 1966.
+- Dumont, Louis, *Homo hierarchicus : le système des castes et ses implications*, Paris, Gallimard, 1966.
+- Durkheim, Émile, *Les Formes élémentaires de la vie religieuse*, Paris, Alcan, 1912.
+- Eliade, Mircea, *Le Sacré et le Profane*, Paris, Gallimard, 1965 (édition française).
+- Girard, René, *La Violence et le Sacré*, Paris, Grasset, 1972.
+- Parker, Robert, *Miasma: Pollution and Purification in Early Greek Religion*, Oxford, Clarendon Press, 1983.
+- Detienne, Marcel, et Vernant, Jean-Pierre (dir.), *La Cuisine du sacrifice en pays grec*, Paris, Gallimard, 1979.
+
+## Note de publication et de continuité
+
+Ce manuscrit ne reprend ni la monographie sur Nombres 19, ni les deux demandes en attente consacrées à Lévitique 21, ni l'étude avestique du *Vidēvdād*. Son objet propre est le rôle du *dharma* dans la délimitation du cercle familial, la variation des durées et la clôture de l'*āśauca*. Il ne porte aucun numéro préattribué : les seuls marqueurs de l'identité éditoriale de cette étude sont 682 et DCLXXXII. Les numéros de versets, de sections, les dates historiques et les références bibliographiques demeurent littéraux.

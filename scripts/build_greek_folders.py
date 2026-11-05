@@ -612,6 +612,23 @@ def folder_artworks(root, out, families):
     return images
 
 
+def preview_readings(members, limit=3):
+    """Up to three existing canonical readings, never manuscript copies."""
+    chosen = []
+    for kind in ('Chapitre universitaire', 'Livre', 'Étude', 'Dossier documentaire'):
+        row = next((r for r in members if r['kind'] == kind and r not in chosen), None)
+        if row:
+            chosen.append(row)
+            if len(chosen) == limit:
+                return chosen
+    for row in members:
+        if row not in chosen:
+            chosen.append(row)
+            if len(chosen) == limit:
+                break
+    return chosen
+
+
 def cards_html(rows, artworks=None):
     artwork = artworks or {}
     cards = []
@@ -629,6 +646,16 @@ def cards_html(rows, artworks=None):
                   '<p>Repère iconographique de ce thème, et non preuve '
                   'historique de tous ses récits.</p><div>' +
                   record["caption_html"] + '</div></details>' if record else '')
+        # Les liens de lecture restent distincts du lien principal de la carte.
+        featured = ''.join(
+            '<li><a data-greek-feature="true" href="' +
+            escape(r['url'], quote=True) + '">' + escape(r['title']) +
+            '</a><small>' + escape(r['kind']) + '</small></li>'
+            for r in preview_readings(members))
+        reading_nav = ('<nav class="greek-folder-reading-preview" aria-label="Lectures directes : ' +
+                       escape(title, quote=True) +
+                       '"><h3>Accès directs aux textes</h3><ol>' +
+                       featured + '</ol></nav>')
         cards.append(
             '<div class="greek-folder-entry"><a class="greek-folder-link" href="' +
             BASE + slug + '/">' + image +
@@ -637,7 +664,7 @@ def cards_html(rows, artworks=None):
             escape(description) + '</span><small>' +
             escape(counts(members, compact=True)) +
             '</small><span class="greek-folder-arrow" aria-hidden="true">→</span></a>' +
-            credit + '</div>')
+            reading_nav + credit + '</div>')
     return '<div class="portal-grid greek-folder-grid">' + ''.join(cards) + '</div>'
 
 
@@ -1008,6 +1035,15 @@ def verify(out, expected_urls):
     root = out / BASE.strip('/')
     assignments, cache = Counter(), {}
     index = BeautifulSoup((root / 'index.html').read_text(encoding='utf-8'), 'html.parser')
+    # Des accès secondaires ne sont jamais de nouvelles attributions.
+    for card in index.select('.greek-folder-entry'):
+        primary = card.select_one('a.greek-folder-link')
+        preview = card.select_one('nav.greek-folder-reading-preview')
+        assert primary and preview and primary.find('a') is None, 'Carte invalide'
+        links = [a['href'] for a in preview.select('a[data-greek-feature]')]
+        assert 1 <= len(links) <= 3, 'Nombre de lectures invalide'
+        assert len(set(links)) == len(links), 'Lecture répétée'
+        assert set(links).issubset(set(expected_urls)), 'Lecture absente de l’inventaire'
     for page in root.glob('*/index.html'):
         if page.parent.name in LEGACY_FOLDERS:
             current = LEGACY_FOLDERS[page.parent.name]
@@ -1174,6 +1210,14 @@ CSS = '''
 .greek-folder-link small{color:#c8b995;font:.78rem/1.5 system-ui;margin-top:.65rem}
 .greek-folder-arrow{color:#e3be7d;margin-top:.4rem;align-self:flex-end}
 .greek-folder-link:hover,.greek-folder-link:focus-visible{background:#182125;outline:2px solid #e5c38d;outline-offset:-2px}
+.greek-folder-reading-preview{padding:1rem 1.1rem;border-top:1px solid #665236;background:#131d1f;overflow-wrap:anywhere}
+.greek-folder-reading-preview h3{font:1rem/1.35 Georgia,serif;color:#eacb93;margin:0 0 .55rem}
+.greek-folder-reading-preview ol{list-style:none;margin:0;padding:0}
+.greek-folder-reading-preview li{border-top:1px solid #443b2f;padding:.3rem 0;min-width:0}
+.greek-folder-reading-preview a{display:flex;align-items:center;min-height:44px;line-height:1.5;color:#f1e2c4;text-decoration:underline;text-underline-offset:.2em;overflow-wrap:anywhere}
+.greek-folder-reading-preview a:hover{color:#ffe3aa}
+.greek-folder-reading-preview a:focus-visible{outline:3px solid #e9c791;outline-offset:3px}
+.greek-folder-reading-preview small{display:block;color:#bcad93;font:.75rem/1.4 system-ui,sans-serif;padding-bottom:.2rem}
 .greek-folder-credit{border-top:1px solid #5d4e3a;padding:.45rem 1rem .75rem;color:#d7cab2;font:13px/1.5 Georgia,serif;overflow-wrap:anywhere}
 .greek-folder-credit summary{display:list-item;min-height:44px;box-sizing:border-box;padding:.65rem .2rem;color:#ead0a4;cursor:pointer;overflow-wrap:anywhere}
 .greek-folder-credit p{font-size:.8rem;margin:.55rem 0}
@@ -1196,7 +1240,7 @@ CSS = '''
 .greek-folder-toc a:focus-visible,.greek-folder-links a:focus-visible,.greek-complete-catalogue>summary:focus-visible{outline:3px solid #f8dc9c;outline-offset:4px}
 @media(max-width:1050px){.greek-folder-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:700px){.greek-folder-grid,.greek-folder-links{grid-template-columns:1fr}.greek-folder-toc ul{display:block}.greek-folder-toc li{margin-bottom:.5rem}.greek-folder-toc a{width:100%}}
-@media(max-width:400px){.greek-folder-link{padding:0 .85rem .9rem}.mythos-design .greek-folder-link>.greek-folder-illustration{width:calc(100% + 1.7rem)!important;margin:0 -.85rem .75rem!important;height:110px!important}.greek-folder-link strong{font-size:1.16rem}.greek-folder-credit{padding:.6rem .85rem}}
+@media(max-width:400px){.greek-folder-link{padding:0 .85rem .9rem}.mythos-design .greek-folder-link>.greek-folder-illustration{width:calc(100% + 1.7rem)!important;margin:0 -.85rem .75rem!important;height:110px!important}.greek-folder-link strong{font-size:1.16rem}.greek-folder-credit{padding:.6rem .85rem}.greek-folder-reading-preview{padding:.85rem}}
 /* Mobile : titres de sous-dossiers longs, dont les épiclèses cultuelles. */
 @media(max-width:480px){
   .greek-folder-toc a,.greek-folder-links a{

@@ -1,0 +1,452 @@
+# MYTHOS — Cycle universitaire de mythologie comparée — Volume CCLV (255)
+
+## MC-073 — Quand les dieux se taisent : prières sans réponse, écoute divine, attente et crise de la justice
+
+**Étude universitaire originale — 5 novembre 2026.**  
+**Domaines :** sumérologie et assyriologie ; hittitologie ; égyptologie ; philologie grecque et hébraïque ; études védiques et confucéennes ; histoire des religions ; herméneutique, philosophie du langage et philosophie politique.  
+**Statut :** manuscrit intégral déposé en file éditoriale ; le nombre canonique et son équivalent romain sont attribués exclusivement par le mécanisme transactionnel du dépôt. La présence de ce fichier ne vaut pas preuve de publication sur bobmythos.fr. Aucune figure suggérée ci-dessous n’est déclarée effectivement intégrée.
+
+**Réconciliation documentaire (5 novembre 2026).** Cette soumission autonome sous MC-073 est issue du manuscrit non attribué « Quand les dieux se taisent » déposé avec la cote concurrente MC-072. Les **60 développements analytiques**, la liste de **18 sources primaires** et les **33 références bibliographiques** sont conservés ; seules l’identité historique, la notice de continuité et la présente note de provenance sont actualisées. Le fichier source original reste intact et verrouillé dans `editorial/holds.json`. Le précédent MC-072 de date antérieure est consacré aux dieux déguisés ; ces deux sujets sont distincts. La présence en file ne prouve ni attribution romaine ni publication sur le site.
+
+### Résumé
+
+Pourquoi un humain continue-t-il de s’adresser à une divinité lorsque celle-ci semble ne rien répondre ? La question ne se réduit ni à une prétendue « absence de Dieu » universelle, ni à la théodicée abstraite. Le silence est une situation relationnelle définie par une attente : quelqu’un a parlé, prié, appelé, accompli un rite ou demandé un jugement ; le résultat recherché n’est pas venu, ou n’a pas été reconnu comme réponse. Cette étude prend pour objet l’écart entre **l’acte de solliciter**, les **critères culturels d’une réponse** et la **représentation de l’autorité divine**. Une divinité peut entendre sans agir, agir sans parler, répondre par un médiateur, différer l’intervention, rester inaccessible ou être accusée de ne pas écouter. Ces scénarios ne sont pas synonymes.
+
+Le corpus compare la composition sumérienne *Un homme et son dieu* (ETCSL 5.2.4), les œuvres akkadiennes *Ludlul bēl nēmeqi* et *Théodicée babylonienne*, les prières de peste de Muršili II (CTH 378), les stèles égyptiennes de l’écoute d’Amon-Rê, l’*Iliade* I et l’*Ion* d’Euripide, plusieurs psaumes, Job et Habacuc, le *Ṛgveda* VII.86 et les *Entretiens* de Confucius XVII.19. Le rapprochement met en regard des catégories dissemblables : dieux personnels, souveraineté rituelle, Dieu de l’alliance, Varuṇa, Tian. Aucun de ces ensembles n’est déclaré descendant d’une source unique. L’analyse distingue systématiquement description des témoignages, histoire de leur transmission, hypothèses comparatives et lectures philosophiques modernes.
+
+**Thèse limitée :** le silence divin des textes anciens est rarement un « vide » de signification. Il peut signaler une rupture de protection, une énigme rituelle, une plainte légitime, une faute du souverain, une médiation insuffisante, un conflit sur les normes de justice ou, dans certains systèmes, une action cosmique qui n’a pas besoin de discours. Mais les traditions étudiées n’attribuent ni la même responsabilité aux dieux, ni la même dignité à la protestation humaine.
+
+### Protocole de preuve et limites
+
+- **[A] Attestation :** fait textuel ou matériel dont la source antique et le passage sont identifiés. L’attestation porte sur **ce que dit ou montre le document**, pas sur une intervention divine établie par l’historien.
+- **[T] Critique du texte :** traduction contestable, lacune, statut d’une copie, attribution, datation, genre, différence de manuscrit, problème lexical ou philologique.
+- **[I] Inférence :** reconstruction historique, sociale ou institutionnelle raisonnable mais non directement attestée.
+- **[H] Hypothèse :** analogie comparative ou possibilité de contact culturel non démontrée ; il faut préciser des conditions de réfutation.
+- **[P] Philosophie :** conceptualisation moderne employée comme instrument critique ; elle n’est ni une source antique ni une opinion tacitement imputable aux acteurs.
+
+Le corpus distingue le **texte composé**, ses **copies conservées**, la **date de la scène racontée**, le **lieu d’usage** et l’**édition moderne**. Un texte babylonien conservé dans une copie néo-assyrienne n’a pas nécessairement été inventé au VIIe siècle ; un poème tragique grec joué devant des spectateurs athéniens ne constitue pas un compte rendu de croyance populaire ; une stèle votive qui remercie Amon d’avoir écouté n’est pas un sondage sur toutes les prières non exaucées.
+
+### Contrôle de continuité MYTHOS au dépôt initial
+
+La branche principale de *Bobcribb/Bobcribb.github.io* a été vérifiée avant cette soumission : le dernier volume comparatif muni d’un reçu canonique dans *editorial/numbering.json* était **MC-067, CCXLVII (247), « Quand les dieux se marient »**. Des travaux ultérieurs étaient présents comme manuscrits non attribués : MC-068 (architecture divine), MC-069 (traductions des noms divins), MC-070 (nommer les dieux), MC-071 (scribes des dieux). Un autre manuscrit se présentant comme MC-069, consacré au souffle, subsiste sous le nom non-UUID *20261105-mc-069-souffle-vent-vie-philologie.json* ; un correctif de quarantaine par empreinte a été intégré au script éditorial afin d’en préserver le contenu tout en empêchant une allocation aveugle. **Ce travail ne le réémet pas, ne le renomme pas, ne l’efface pas et ne prétend pas résoudre sa collision historique.**
+
+Le contrôle initial de l’index GitHub avait manqué une soumission concurrente MC-072 : l’inspection directe des commits a depuis confirmé la demande **2dd43092-7702-43b9-95a7-202611050072**, antérieure et consacrée aux dieux déguisés (commit `1ca2269c8c324c35f0a3755fee5865c89ddbcfe4`, 5 novembre 2026 à 09:29:33 UTC). La présente monographie sur le silence divin porte donc désormais l’identité distincte **MC-073** ; le manuscrit original 672c0f11-3812-4ac1-987e-119ca0572072 reste intégralement conservé, sous empreinte de garde, sans seconde attribution MC-072. La présente étude se distingue de MC-030 (le juste souffrant), MC-033 (dieux absents), MC-051 (oracles), MC-061 (limites du savoir divin), MC-062 (mensonge), et du chapitre 588 d’*Origines du sacré* (silence oraculaire). Son unité d’enquête est **l’adresse humaine à une puissance dont la réponse n’arrive pas selon les critères du locuteur**, non une nouvelle théodicée générale, une typologie des oracles ou une réédition d’une étude existante. Ces constats sont datés et doivent être réexaminés au moment de l’attribution.
+
+---
+
+# Première partie — Définir une absence de réponse sans l’inventer
+
+### 1. Le silence comme relation et non comme propriété essentielle du dieu
+
+[A] Plusieurs textes mettent une plainte dans la bouche d’un individu dont la prière semble privée d’effet. [T] Le verbe « entendre » peut viser la perception, l’attention, l’accueil favorable ou l’intervention concrète ; les traditions n’emploient pas les mêmes équivalents. [I] Le lecteur moderne qui appelle « silence » à la fois l’absence de voix audible, la suspension d’un oracle et la persistance de la maladie transforme trois situations en une abstraction. [P] On peut définir rigoureusement un silence relatif : un agent adresse une demande à un destinataire auquel il attribue la capacité d’agir ; il ne dispose pas d’un signe admis comme réponse dans la fenêtre temporelle attendue. La définition ne préjuge ni de l’existence ni de l’inexistence du destinataire.
+
+### 2. Cinq variables de comparaison
+
+Le protocole retient cinq variables : **qui parle ?** — sujet vulnérable, prêtre, poète, roi, chœur ou témoin ; **à qui ?** — dieu personnel, divinité civique, assemblée divine, puissance liée à une alliance, principe cosmique ; **par quel canal ?** — lamentation, hymne, liturgie, stèle, rêve, divination, oracle, rite ; **quel signe compterait comme réponse ?** — guérison, parole, prospérité, restauration du droit, oracle favorable, simple attention ; **qui décide qu’une réponse a eu lieu ?** — le bénéficiaire, un spécialiste, un narrateur, l’institution ou la postérité. [H] Deux scènes ne sont comparables à ce titre qu’après avoir répondu à ces questions ; la présence commune d’un « dieu » ne suffit pas.
+
+### 3. Le temps de l’attente : durée vécue et formule littéraire
+
+[A] « Jusqu’à quand ? » est une structure répétée dans les lamentations bibliques ; Muršili évoque une mortalité qui dure depuis des années ; des compositions mésopotamiennes suivent le parcours du malade puis de sa guérison. [T] La durée n’est pas toujours une mesure chronométrique vérifiable : les chiffres royaux peuvent fonctionner comme argument rhétorique. [I] Plus le temps de l’épreuve s’allonge, plus la prière peut prendre la forme d’une procédure accusatoire. [P] La durée devient un instrument d’évaluation du lien : l’autorité n’est plus seulement jugée à ses promesses, mais à ce qu’elle rend effectivement possible pour celui qui attend.
+
+### 4. Les objections qu’un comparatisme doit conserver
+
+Un dieu personnel de la cité d’Ur n’est pas le Dieu d’Israël ; Varuṇa n’est pas un « Juge suprême » universel au sens de la théologie occidentale tardive ; *Tian* n’est pas automatiquement un sujet parlant ; une image d’oreilles sacrées ne prouve pas que la divinité ait physiquement entendu. [H] Le seul universel envisageable est ici un dispositif anthropologique minimal : un langage d’appel et une incertitude sur sa réception. Même cet énoncé doit être circonscrit aux sources examinées ; le réduire à la psychologie du « croyant primitif » serait anachronique.
+
+# Deuxième partie — Sumer : « Un homme et son dieu » et le passage de l’attente à la grâce
+
+### 5. Identifier le dossier ETCSL 5.2.4
+
+[A] Le corpus électronique d’Oxford, *The Electronic Text Corpus of Sumerian Literature*, publie *A man and his god*, code **t.5.2.4**, avec sections et lignes. Référence de consultation : https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=t.5.2.4&charenc=j . [T] La ponctuation, la segmentation des unités et plusieurs choix de traduction sont éditoriaux ; les ellipses et points d’interrogation y signalent de vraies incertitudes. Le lecteur doit considérer le poème comme une composition littéraire transmise par des témoins écrits, non comme la transcription immédiate d’une prière privée recueillie sur le terrain.
+
+### 6. La première personne ne supprime pas le cadre didactique
+
+[A] Les vers 1–9 prescrivent la louange et introduisent la fonction du chant de lamentation ; les vers 10–17 présentent un jeune homme souffrant, présenté comme n’ayant pas délibérément commis de violence mauvaise. [I] La scène déplace la question : le malheur ne se laisse pas déduire simplement d’une faute manifeste. [T] Le narrateur littéraire construit l’innocence relative du personnage ; il ne fournit pas un dossier judiciaire permettant d’établir l’absence absolue de toute transgression. Cette restriction est décisive pour ne pas assimiler automatiquement le poème au modèle de Job.
+
+### 7. Une prière distribuée entre des voix
+
+[A] Aux vers 18–24 et 64–68, le souffrant souhaite que sa mère, sa sœur, son épouse et le chanteur spécialisé portent l’histoire de sa peine devant la divinité. [I] Le recours à des voix multiples fait de l’épreuve privée une affaire de parenté et de compétence rituelle. [T] La figure du chanteur *balaĝ* signale un genre et un savoir-faire, sans autoriser l’identification mécanique de chaque instrument, performance ou mélodie. [P] L’appel n’est pas une pure intériorité : sa légitimité résulte de la publicité du récit, de la répétition et de l’aptitude des autres à rendre la détresse audible.
+
+### 8. Une nuit au milieu du jour
+
+[A] Aux vers 69–74, le monde peut être lumineux pour le pays alors que le jour est « noir » pour le personnage. Les vers 75–81 exposent de mauvais rêves et l’emprise de la lamentation. [T] L’expression de l’obscurité est affective et littéraire ; elle ne prouve ni une éclipse réelle ni une théorie cosmologique du mal. [I] Le silence de la divinité est ici perçu dans l’expérience de la désorientation : la société continue, mais le souffrant se vit séparé de ses régularités. La comparaison avec les psaumes est possible au niveau de la rhétorique de l’écart, et non comme preuve d’emprunt.
+
+### 9. « Pour combien de temps ? » : l’adresse n’est pas rompue
+
+[A] Aux vers 97–105, le personnage reproche à son dieu de ne plus se préoccuper de lui et de ne pas le guider ; aux vers 106–119, il demande compassion et reconsidération. [I] La plainte ne signifie pas un abandon de la relation : elle suppose au contraire que l’interlocuteur pourrait restaurer sa faveur. [T] Les paroles s’insèrent dans un texte au vocabulaire parfois incertain, avec des lacunes dans le voisinage ; une lecture qui en ferait un traité cohérent de culpabilité serait abusive. La révolte reste enveloppée dans les formes reconnues de la supplication.
+
+### 10. La réponse se trouve dans le dénouement, non dans l’expérience initiale
+
+[A] Aux vers 120–129, le narrateur affirme que le dieu a **entendu les pleurs** de l’homme, accueilli ses paroles et éloigné son affliction ; les vers 130–146 mettent en scène le retour de la faveur et de la louange. [T] Ce dénouement est une affirmation textuelle : l’historien constate une narration de guérison et de réconciliation, non une causalité surnaturelle démontrée. [P] Le poème fabrique une temporalité asymétrique : au moment de la souffrance, l’audibilité est en question ; à la fin, le narrateur peut réinterpréter rétroactivement l’appel comme entendu. Il faut résister à la tentation d’effacer le doute antérieur au nom de l’issue favorable.
+
+# Troisième partie — Babylone : la sagesse devant une puissance difficile à interpréter
+
+### 11. *Ludlul bēl nēmeqi* : un livre composite
+
+[A] Le poème akkadien, généralement désigné par son incipit *Ludlul bēl nēmeqi* (« Je veux louer le seigneur de sagesse »), porte sur les épreuves de Šubši-mešrê-Šakkan et son retour à une situation favorable attribué à Marduk. [T] L’œuvre est connue par une reconstruction à partir de tablettes et fragments de plusieurs provenances ; **le découpage en cinq tablettes utilisé par l’édition d’Alan Lenzi (2023) ne doit pas être confondu avec toutes les présentations anciennes en quatre tablettes**. Les indications de vers doivent être contrôlées dans l’édition adoptée. Voir W. G. Lambert, *Babylonian Wisdom Literature* (1960), pp. 21–62 ; T. Oshima (2014) et A. Lenzi (2023).
+
+### 12. Être délaissé n’est pas conclure à l’inexistence des dieux
+
+[A] Le narrateur décrit perte de statut, maladie, exclusion et incapacité à comprendre les raisons de l’hostilité qui l’entoure ; la fin du poème attribue à Marduk l’inversion de sa condition. [T] « Abandon », « colère » et « silence » appartiennent à des niveaux interprétatifs différents : la rupture de protection n’équivaut pas forcément à l’absence de tout message. [I] L’un des enjeux du poème est la difficulté de relier la conduite rituelle réputée juste à une expérience réellement supportable. [P] La justice divine n’est pas réfutée par le récit ; elle est rendue opaque du point de vue d’un individu loyal qui ne peut obtenir l’explication attendue.
+
+### 13. Les spécialistes et l’échec de la médiation
+
+[A] Le texte met en scène les professionnels capables de diagnostiquer, d’interpréter et de traiter le malheur — notamment les pratiques associées à la divination et à l’exorcisme. [I] Lorsque des spécialistes échouent à rendre intelligible une crise, le défaut de réponse devient aussi crise d’expertise. [T] Traduire tous les offices par « prêtres » effacerait des fonctions rituelles et techniques distinctes ; les désignations akkadiennes exigent consultation du contexte et du lexique. [P] L’énigme n’est donc pas seulement métaphysique : elle atteint la fiabilité des institutions chargées de traduire l’intention divine en savoir pratique.
+
+### 14. Les bonnes actions n’achètent pas la lisibilité du destin
+
+[A] La recension discutée par les historiens de la sagesse insiste sur le respect des rites et de la royauté, mais le personnage ne déduit pas de ces accomplissements une immunité contre l’épreuve. [T] Il ne faut pas attribuer à une formule isolée une doctrine uniforme des Babyloniens. [I] Le texte valorise une attitude de persévérance et de reconnaissance sans fournir une correspondance simple entre rite, mérite et résultat. Une conséquence historiographique en découle : parler d’une « économie mécanique de la récompense » pour résumer les religions mésopotamiennes serait une caricature contredite par ce type de littérature.
+
+### 15. *La Théodicée babylonienne* et le débat humain
+
+[A] La *Théodicée babylonienne* organise une dispute entre un souffrant et un interlocuteur, à travers un poème savant de tradition akkadienne ; consulter Lambert (1960), pp. 63–91, et Oshima (2014). Le *Cuneiform Commentaries Project* de Yale répertorie un témoin-commentaire du dossier sous **CCP 1.4, BM 66882 et joints** : https://ccp.yale.edu/P404917 . [T] Ce témoin n’est pas à lui seul « la Théodicée entière » ; il faut distinguer le texte-base, son commentaire et les fragments assemblés. [I] Le débat révèle une alternative au silence divin : les humains discutent et produisent des justifications alors même que l’autorité divine n’intervient pas comme interlocuteur explicite du dialogue.
+
+### 16. Deux formes du différé babylonien
+
+Dans *Ludlul*, l’épreuve s’oriente narrativement vers un renversement attribué à Marduk ; dans la *Théodicée*, la forme dialoguée rend le désaccord intellectuel lui-même central. [H] Il est pertinent de comparer les œuvres comme deux régimes de traitement d’une plainte, mais non de les ranger sur un parcours évolutif allant de « superstition » à « philosophie ». [P] Le lecteur découvre deux questions irréductibles : **comment recommencer à vivre ?** et **comment juger un ordre qui permet ce qui paraît injuste ?** L’une appelle un dénouement, l’autre met en jeu les conditions de la discussion.
+
+### 17. Critique historiographique : Job n’est pas une copie mésopotamienne
+
+[A] Les traditions bibliques et mésopotamiennes possèdent un dossier majeur de plainte et de justification. [H] Le rapprochement thématique ne suffit jamais à prouver une dépendance littéraire directe ; pour la soutenir il faudrait identifier une séquence commune spécifique, des formules difficilement fortuites, une chronologie plausible et des milieux de transmission. [T] Les reconstructions des textes cunéiformes ont évolué avec les nouveaux joints et éditions ; une comparaison fondée sur la seule traduction de 1960 doit être reprise à la lumière des travaux récents. La prudence est d’autant plus nécessaire que les lectures modernes de la « souffrance innocente » doivent beaucoup aux débats théologiques postérieurs.
+
+# Quatrième partie — Hatti : Muršili II et le coût politique d’une réponse tardive
+
+### 18. Les prières de peste sont des actes royaux
+
+[A] Les prières attribuées à **Muršili II**, roi hittite du XIVe siècle avant notre ère, sont identifiées notamment sous **CTH 378.I–IV** ; la « deuxième » prière de peste au dieu de l’Orage de Hatti porte la cote **CTH 378.II**, avec témoins **KUB 14.8**, **KUB 14.11 + 650/u** et **KUB 14.10 + KUB 26.86**. Références : Itamar Singer, *Hittite Prayers* (2002), texte 11, pp. 57–61 ; Université du Texas, *Hittite Online*, leçon 8 : https://lrc.la.utexas.edu/eieol/hitol/80 . [T] Les copies conservées et leur ordre n’autorisent pas à reconstituer sans réserve la chronologie des différentes prières.
+
+### 19. Vingt ans de malheur comme accusation contrôlée
+
+[A] Dans CTH 378.II, §1, la parole royale évoque la mortalité prolongée dans le royaume et demande pourquoi les dieux la laissent durer. [I] Le locuteur parle comme responsable des cultes et du pays : une catastrophe démographique met simultanément en péril les corps, les productions, l’armée et l’entretien des sanctuaires. [T] La mention d’environ vingt ans est un argument énoncé dans une prière royale, non un bilan épidémiologique validé indépendamment. [P] L’expression « jusqu’à quand » prend ici une dimension de gouvernement : obtenir une réponse signifie rendre de nouveau administrable la relation entre communauté, souverain et dieux.
+
+### 20. Chercher la faute dans les archives
+
+[A] Dans CTH 378.II, §§3–5, le texte fait intervenir d’anciennes tablettes et la question de manquements cultuels ou diplomatiques ; l’interprétation d’un traité violé, lié à Kurustamma, occupe une place importante. [I] La mémoire documentaire permet au roi de déplacer la recherche d’une cause : le danger présent doit être relié à une transgression passée, même si le souverain actuel n’en était pas l’auteur. [T] Les spécialistes débattent de l’ordre relatif des prières et des faits évoqués ; la scène n’autorise pas une reconstruction univoque de tout le dossier égypto-hittite. [P] L’archive devient un instrument pour forcer une réponse : l’homme questionne les dieux à travers des traces anciennes d’engagements humains.
+
+### 21. Hériter de la faute, plaider pour les vivants
+
+[A] CTH 378.II, §§7–9, est classiquement rapproché de la question de la faute du père et de la possibilité d’obtenir pardon. [I] La prière royale combine aveu, défense et négociation : si la population disparaît, les dieux perdent aussi des agents capables d’assurer leurs rites. [P] La relation n’est ni un contrat moderne entre égaux ni une soumission sans parole. Le roi oppose aux dieux un raisonnement sur la continuité du culte, c’est-à-dire sur l’intérêt réciproque supposé des puissances et de la cité. Sa plainte reste prise dans le langage des devoirs, non dans le refus de ces devoirs.
+
+### 22. Ne pas transformer la prière en rapport sur une épidémie
+
+[T] Les récits de peste hittites n’établissent pas par eux-mêmes un agent pathogène déterminé ; l’historien moderne ignore de nombreux paramètres sanitaires. [I] Le discours attribue la catastrophe à des causes religieuses et politiques selon les ressources du pouvoir hittite. [H] Les analogies avec les plaies bibliques ou les épisodes grecs de peste ne prouvent aucun emprunt ; seules les situations textuelles précises peuvent être rapprochées. La valeur de cette étude tient dans l’observation d’une stratégie d’interpellation : demander des comptes au divin tout en légitimant l’action du souverain.
+
+# Cinquième partie — Égypte : fabriquer des conditions d’écoute
+
+### 23. Le contre-exemple méthodologique : Amon « qui entend »
+
+[A] Une documentation égyptienne du Nouvel Empire associe des sanctuaires et stèles votives à l’écoute divine. L’épithète habituellement translittérée **sḏm nḥt** est rendue, selon les conventions éditoriales et les contextes, par « celui qui entend les prières » ou formule proche ; voir UCL *Digital Egypt*, dossier des stèles à oreilles : https://www.ucl.ac.uk/museums-static/digitalegypt/memphis/westhallfinds.html . [T] La transcription et la segmentation de cette expression doivent être vérifiées sur la stèle concernée ; il ne faut pas imposer une version graphémique uniforme à tous les monuments. [I] La présence de tels supports prouve l’importance culturelle de l’accès à un dieu censé écouter, non la réalisation effective de chaque demande.
+
+### 24. La stèle de Bay : six oreilles pour rendre la demande visible
+
+[A] Au Musée égyptien du Caire, la **stèle JE 43566**, issue de Deir el-Médineh, datée de la XXe dynastie, montre l’artisan Bay agenouillé devant **trois paires d’oreilles** et deux représentations d’Amon-Rê en bélier. Notice du *Global Egyptian Museum* : https://globalegyptianmuseum.org/detail.aspx?id=14909 . [T] Le dispositif graphique doit être décrit selon ce qu’il donne réellement à voir : nombre d’oreilles, geste d’adoration, formes divines, inscription, lieu. On ne doit pas lui ajouter fictivement un épisode de guérison précis. [I] L’objet rend tangible une médiation : la plainte personnelle accède à un espace cultuel où l’attention du dieu est figurée et espérée.
+
+### 25. La stèle Berlin 20377 et la gratitude
+
+[A] La **stèle Berlin 20377**, rattachée au dessinateur **Nebrê** et à la piété envers Amon-Rê, constitue un autre dossier majeur de prière et de remerciement. Référence documentaire : Cannelle Yengué Tchamba, *Étude textuelle de la stèle Berlin 20377*, mémoire de master, Université de Liège, 2024 : https://matheo.uliege.be/handle/2268.2/21867 . [T] L’enregistrement d’une action de grâce ne permet pas d’accéder aux prières qui, dans le même milieu, seraient restées sans suite ; la documentation votive est structurellement sélective. [I] L’historien doit prendre au sérieux cette dissymétrie archivistique : les supports conservés célèbrent surtout le succès et ne constituent pas un échantillon représentatif des expériences d’échec.
+
+### 26. Karnak et l’espace de la réception divine
+
+[A] Laetitia Gallet documente le **temple oriental d’Amon-Rê-qui-entend-les-prières**, à Karnak, et son réaménagement sous Ramsès II, en particulier entre ses années 40 et 46. Référence : *Karnak: the Temple of Amun-Ra-Who-Hears-Prayers* (2013), https://escholarship.org/uc/item/3h92j4bj . [I] La topographie de l’écoute montre que la possibilité de parler à la divinité est aussi médiatisée par une architecture et par des hiérarchies d’accès. [T] On ne peut déduire de cet espace un statut égal pour toutes les catégories de fidèles ni reconstituer un rituel unique à partir de son nom.
+
+### 27. Le silence égyptien n’est pas l’absence de témoignages d’écoute
+
+[H] On pourrait croire que l’Égypte fournit peu de dossiers de « silence » parce que ses monuments parlent volontiers d’un dieu bienveillant ; cette conclusion confondrait **un biais de conservation** avec une propriété de la religion. [A] Les objets de gratitude et les représentations d’oreilles ont existé ; [I] leur fonction discursive était précisément de rendre l’écoute divine imaginable et socialement reconnue. [P] Dans ce cas, le silence est surtout perceptible par contraste : le fidèle cherche les conditions dans lesquelles sa parole ne serait plus perdue. Le non-dit des demandes infructueuses doit rester non documenté, et non être inventé pour remplir une symétrie comparative.
+
+# Sixième partie — Grèce : l’oracle répond, mais le dieu ne rend pas toujours de comptes
+
+### 28. *Iliade* I : l’efficacité narrative de l’appel
+
+[A] Dans *Iliade* I, 33–52, Chrysès appelle Apollon et le dieu déclenche une peste dans le camp achéen ; le récit relie rapidement prière, accueil de la demande et action. [T] Le chant épique met en scène une efficacité narrative, non une procédure cultuelle universelle. [I] Le contraste avec les prières prolongées d’autres traditions fait apparaître l’importance du genre : un poète peut choisir de rendre visible une réponse divine pour établir une causalité dramatique. [P] Le problème de la prière sans réponse ne peut être étudié sans garder sous les yeux les textes où la réponse existe, car la plainte suppose un horizon d’efficacité culturellement concevable.
+
+### 29. *Ion* d’Euripide : qui juge les dieux ?
+
+[A] Dans l’*Ion*, Créuse attribue à Apollon une violence sexuelle et l’abandon d’un enfant ; le drame met en question le comportement du dieu et la fiabilité de son oracle. Aux vers **329–383**, la demande d’information sur l’enfant s’exprime indirectement ; aux vers **429–451**, Ion critique l’injustice des dieux qui donnent des lois aux humains sans toujours les observer. Texte à contrôler dans une édition grecque de référence ; traduction consultable à https://adfonteslibrary.org/work-euripides-ion . [T] Parler ici de « silence » ne signifie pas qu’Apollon n’a aucun oracle : au contraire, l’oracle existe, mais l’explication que Créuse exige n’est pas immédiatement fournie.
+
+### 30. La protestation de Créuse n’est pas une démonstration d’athéisme
+
+[A] L’*Ion* donne à entendre une accusation de la part d’une victime et de ceux qui l’écoutent ; la protestation porte sur l’écart entre les prescriptions morales et les actions attribuées à la divinité. [I] La scène produit un enjeu civique devant un public de théâtre : la justice des dieux devient objet de discussion, et non simple présupposé. [T] On ne peut inférer de la voix d’un personnage la conviction religieuse personnelle d’Euripide, encore moins celle de tous les Athéniens. [P] Le tragique autorise une interrogation spécifique : non seulement « le dieu me répond-il ? », mais « une réponse non justifiable mérite-t-elle le nom de justice ? ».
+
+### 31. Une information tardive peut prolonger le soupçon
+
+[A] Dans *Ion* **1530–1550**, le statut de la réponse d’Apollon et la paternité d’Ion font l’objet d’un doute explicite, avant les clarifications dramatiques de la fin. [T] L’intrigue produit des écarts entre vérité, interprétation et communication ; il serait réducteur de les assimiler tous à un mensonge divin. [I] L’existence d’un oracle ne dispense pas le destinataire d’un travail herméneutique. [P] On rencontre ici une figure de silence particulièrement significative : le locuteur divin n’est pas nécessairement muet, mais refuse, délègue ou diffère la **justification directe** qui permettrait aux humains de comprendre pourquoi ils ont été traités ainsi.
+
+### 32. La fin tragique et ses limites
+
+[A] L’intervention finale d’Athéna dans l’*Ion* appartient à un dispositif dramatique où un autre personnage divin peut rendre intelligible ce qu’Apollon n’explique pas directement. [T] Une clôture dramatique n’efface pas rétroactivement toute la portée de la critique formulée au cours de la pièce. [P] La médiation impose une question à la philosophie du langage : si un message est vrai, mais transmis d’une manière qui rend sa portée opaque aux destinataires, a-t-il rempli sa fonction de réponse ? [I] La tragédie distingue la connaissance détenue par une puissance de l’obligation éventuelle d’en rendre compte aux victimes.
+
+### 33. Deux refus d’un universalisme facile
+
+Le dieu de la prière de Chrysès agit avec une efficacité terrifiante ; Apollon dans l’*Ion* garde une responsabilité problématique malgré les mécanismes de révélation. [H] Conclure que « les Grecs croyaient tantôt aux prières, tantôt à leur inefficacité » serait une simplification : l’épopée et la tragédie répondent à des situations littéraires et sociales différentes. [I] Le rapprochement révèle surtout des règles variables d’attribution d’autorité : Apollon peut être parfaitement audible lorsqu’il venge son prêtre et néanmoins discutable lorsqu’il s’agit de répondre à une femme lésée.
+
+# Septième partie — Textes hébreux : cri, audition, protestation et réponse non attendue
+
+### 34. Le lexique de l’appel
+
+[T] La racine hébraïque **šmʿ** (« entendre, écouter, prêter attention, parfois obéir selon les contextes »), les verbes de cri ou d’appel, la racine **ʿnh** (« répondre ») et certains usages de **ḥrš** (« garder le silence ») n’entrent pas dans une correspondance un à un avec les mots grecs, akkadiens ou égyptiens. L’expression française « ne répond pas » peut traduire plusieurs opérations distinctes. [A] Les références **Psaume 22,2–3 ; 28,1 ; Job 30,20 ; Habacuc 1,2** offrent une base de comparaison. [T] Les numérotations des psaumes diffèrent entre traditions hébraïque, grecque, latine et éditions modernes ; toujours préciser le système utilisé.
+
+### 35. Psaume 22 : le scandale d’une proximité impossible
+
+[A] Les premiers vers du **Psaume 22** mettent en scène un appel dans lequel le locuteur éprouve la distance de son Dieu ; la plainte est enchâssée dans une composition qui évolue vers la louange. [T] L’exégèse doit tenir compte du genre poétique et des mouvements internes du psaume ; extraire la seule phrase initiale pour bâtir une doctrine entière de la déréliction serait insuffisant. [I] La relation d’alliance et la mémoire des délivrances passées peuvent nourrir la protestation. [P] L’autorité divine est interrogée à partir de sa propre histoire de fiabilité : ce n’est pas une puissance inconnue que l’on appelle, mais un destinataire dont l’action antérieure rend l’absence présente plus douloureuse.
+
+### 36. Psaume 88 : l’absence de résolution facile
+
+[A] Le **Psaume 88** est singulier par la persistance de son atmosphère de détresse, notamment **88,13–18** dans la numérotation courante. [T] Les reconstructions de sa structure et certaines expressions du texte hébreu demeurent discutées ; ne pas lui greffer un dénouement triomphal absent de sa surface littéraire. [I] La survie d’un tel poème dans un recueil de prière montre que la communauté a conservé un langage pour une plainte non résolue. [P] La fidélité au rite n’implique donc pas nécessairement la fabrication d’un happy end : une tradition peut canoniser la persistance de l’interrogation.
+
+### 37. Job : parler au juge qui ne répond pas
+
+[A] **Job 30,20** accuse Dieu de ne pas répondre à l’appel ; **Job 23,8–9** décrit la recherche infructueuse de sa présence ; **Job 38–42** construit une réponse au milieu d’un déploiement cosmique. [T] L’ouvrage comprend prologue, dialogues poétiques et épilogue, dont les fonctions ne sont pas interchangeables ; la question de sa composition demeure débattue. [I] Les amis de Job tentent de restaurer l’intelligibilité d’un ordre moral par la répétition de formules explicatives ; Job refuse ces explications insuffisantes. [P] La réponse finale ne livre pas à Job un compte rendu circonstancié des raisons de toutes ses pertes. C’est pourquoi « Dieu finit par parler » n’équivaut pas à « toute objection a reçu une justification proportionnée ».
+
+### 38. Habacuc : la violence sociale comme objet de la prière
+
+[A] **Habacuc 1,2–4** met au centre une plainte sur la violence, l’absence d’intervention et la perversion du droit ; la suite organise une attente et des réponses oraculaires, notamment **2,1–4**. [I] L’appel dépasse la souffrance individuelle pour viser le désordre public. [T] Le passage ne doit pas être dissocié de son contexte littéraire ni transformé en chronique détaillée d’un épisode précis sans arguments historiques supplémentaires. [P] Il fournit l’un des tests les plus forts de l’idée de justice différée : combien de temps peut-on demander à une communauté de tenir pour juste un ordre dont les victimes n’observent pas la restauration ?
+
+### 39. Élie et les prophètes de Baal : un silence raconté contre autrui
+
+[A] **1 Rois 18,26–29** décrit l’absence de réponse de Baal dans une confrontation polémique, alors que **18,36–39** met en scène la réponse du Dieu d’Israël. [T] Il s’agit d’un récit partisan transmis par un milieu hostile au culte rival, non d’une enquête ethnographique neutre sur ce que les dévots de Baal avaient vécu. [I] La non-réponse sert ici à classer et à délégitimer des pratiques religieuses concurrentes. [P] Il faut distinguer le **silence éprouvé par un croyant de sa propre divinité** du **silence attribué à la divinité d’autrui pour la disqualifier**. La comparaison sans cette distinction reconduirait le jugement du narrateur comme fait historique.
+
+### 40. *Deus absconditus* et décalage des langues
+
+[A] **Isaïe 45,15** évoque Dieu qui se cache ; le contexte contient des affirmations de souveraineté, de salut et de reconnaissance du Dieu d’Israël. [T] Le verbe évoquant la dissimulation n’est pas un simple synonyme de « ne pas entendre les prières ». [I] L’existence d’une tradition biblique de retrait ou de manifestation voilée est attestée ; elle n’établit pas que tout silence soit volontaire. [P] Le concept moderne de *Deus absconditus* peut être mobilisé pour comparer les registres du caché, mais uniquement comme un modèle second, et non comme la signification exhaustive de tous ces passages.
+
+# Huitième partie — Inde védique et Chine ancienne : les limites mêmes de la catégorie « réponse »
+
+### 41. Varuṇa : la proximité incertaine dans le *Ṛgveda*
+
+[A] L’hymne **Ṛgveda VII.86**, attribué traditionnellement au cercle de Vasiṣṭha et adressé à Varuṇa, comprend huit strophes. Le vers **VII.86.2** interroge l’accès favorable au dieu ; **VII.86.8** réitère l’espoir de protection. Texte sanskrit et translittération : https://www.vedicsamhita.in/vedas/rigveda/7/86 ; édition et traduction savante à comparer avec S. W. Jamison et J. P. Brereton (2014). [T] Les graphies, les accents védiques, les interrogations du texte et la valeur contextuelle de la proximité ne sont pas réductibles au mot français « silence ». [I] Le problème est la disponibilité d’une relation juste au dieu, et non une déclaration générale que tous les dieux ne parleraient jamais.
+
+### 42. Faute et sollicitation : rapprochement contrôlé
+
+[H] On peut mettre en regard la demande de faveur de Varuṇa, la supplication sumérienne et le discours de Muršili II sous l’angle d’une possible rupture du rapport correct. Mais le **ṛta** védique, la faute hittite de traité et les formulations mésopotamiennes de péché ne sont pas des catégories interchangeables. [T] Les contextes rituels et les genres diffèrent, tout comme les moyens textuels de formuler la faute. [P] Le thème commun est moins un code moral identique qu’une question sur l’accessibilité de la norme : comment savoir ce qui convient à une puissance si l’échec d’une requête peut recevoir des explications multiples ?
+
+### 43. Le contre-contrôle du *Ṛgveda* X.129
+
+[A] Le célèbre hymne **Ṛgveda X.129**, surtout son dernier vers, interroge la connaissance de l’origine cosmique et laisse une place à l’incertitude. [T] Ce dossier n’est pas une lamentation de fidèle devant une prière non exaucée. Il doit apparaître comme **contrôle négatif** : l’ignorance éventuelle d’un dieu n’est pas le silence d’un destinataire auquel quelqu’un demande secours. [I] Sa présence empêche d’étendre illégitimement une typologie des appels vers une métaphysique générale de l’inconnaissable. L’historiographie attentive aux genres saura mieux comparer ce qui ne se confond pas.
+
+### 44. *Entretiens* XVII.19 : le Ciel n’a pas besoin de parler
+
+[A] Dans les *Entretiens* de Confucius **XVII.19**, la question « 天何言哉 ? » (*Tiān hé yán zāi ?*, « Que dit le Ciel ? ») s’accompagne d’une observation du cycle des saisons et de la croissance des êtres. [T] *Tiān* ne peut être uniformément traduit par « le Dieu » ; la notion de Ciel varie dans les usages chinois anciens, et l’énoncé est transmis dans un recueil de paroles et de traditions rédactionnelles. [I] Ici, le non-discours peut être posé comme attribut positif de l’ordre observable, et non seulement comme crise affective de la prière. [P] Ce texte fait voler en éclats une catégorie trop facile : si le Ciel « ne parle pas » et que l’ordre se poursuit, l’absence d’énoncé n’implique pas absence d’efficacité.
+
+### 45. La limite religieuse de l’analogie chinoise
+
+[H] Comparer l’énoncé confucéen avec Job ou l’*Ion* peut éclairer la différence entre parole, manifestation et justification, mais non établir une identité de « dieu silencieux » à travers toutes les civilisations. [T] Les usages de *Tiān* entre les Zhou et l’époque impériale ne doivent pas être fusionnés ; *Les Entretiens* eux-mêmes demandent une attention à leur stratification. [P] Ce contrôle négatif est philosophiquement fécond : un ordre juste pourrait être pensé soit comme la réponse d’un sujet souverain, soit comme la régularité impersonnelle ou semi-personnelle du monde. Le comparatisme doit maintenir ces possibilités distinctes.
+
+# Neuvième partie — Synthèse interculturelle et discussion critique
+
+### 46. Matrice des réponses et non-réponses
+
+| Corpus | Qui demande ? | Quel type de réponse est attendu ? | Ce que le témoignage montre | Risque d’interprétation |
+|---|---|---|---|---|
+| ETCSL 5.2.4 | Souffrant et proches | Attention, soulagement | Lamentation puis dieu présenté comme ayant entendu | Transformer le dénouement en preuve causale |
+| *Ludlul* | Affligé respectueux du culte | Comprendre l’épreuve, être délivré | Malheur opaque puis restauration | Confondre toutes les recensions |
+| *Théodicée babylonienne* | Deux débatteurs | Explication du malheur | Argumentation humaine | Faire parler un dieu absent du dialogue |
+| CTH 378.II | Roi hittite | Fin de peste et faveur | Requête politique et cultuelle prolongée | Lire la peste comme diagnostic médical moderne |
+| Stèle JE 43566 | Artisan Bay | Écoute d’Amon-Rê | Image votive de l’attention | Inventer les prières non exaucées |
+| *Iliade* I | Prêtre Chrysès | Vengeance divine | Action immédiate dans le récit | Traiter l’épopée comme protocole historique |
+| *Ion* | Créuse, Ion | Vérité, reconnaissance, justice | Critique puis médiations narratives | Confondre oracle, pardon et justification |
+| Psaumes 22 et 88 | Prière individuelle communautarisée | Salut et proximité | Plainte, issues littéraires différentes | Supprimer les différences entre psaumes |
+| Job 30 ; 38–42 | Juste souffrant | Réponse proportionnée au mal | Interpellation puis théophanie | Affirmer que la justification attendue est donnée |
+| Hab 1–2 | Prophète | Protection du droit | Contestation et attente | Réduire le texte à un malaise individuel |
+| RV VII.86 | Poète s’adressant à Varuṇa | Faveur et proximité | Interrogations et supplication | Traduire la relation en théologie occidentale |
+| *Entretiens* XVII.19 | Maître et disciple | Interpréter le Ciel | Non-discours et régularités | Personnifier automatiquement *Tiān* |
+
+### 47. Trois distinctions qui changent la conclusion
+
+Première distinction : **ne pas entendre** n’est pas **ne pas agir**. Une faveur peut manquer sans que le texte accuse explicitement une surdité. Deuxième distinction : **une parole divine** n’est pas nécessairement **une explication**. L’oracle, le songe ou la théophanie peut réorienter l’action sans répondre aux objections morales. Troisième distinction : **un auteur représente le silence** ; cette représentation ne constitue pas un enregistrement objectif de la pratique divine. [I] L’histoire des religions peut examiner des normes d’attente et d’interprétation ; elle n’a pas les moyens de vérifier directement la métaphysique des réponses divines.
+
+### 48. L’archive favorise les réponses spectaculaires
+
+[I] Les objets votifs conservent des remerciements, les récits construisent des dénouements et les textes royaux exposent les justifications nécessaires à l’autorité ; les invocations qui n’ont produit aucun monument identifiable sont bien moins facilement traçables. [H] Il est plausible que l’échec banal de la prière soit sous-représenté, mais sa fréquence, ses formes sociales et sa distribution ne peuvent être chiffrées à partir des seuls ensembles étudiés. [P] Il faut résister à la projection contemporaine selon laquelle toute prière non confirmée entraînerait soit incroyance, soit irrationalité. Les témoins peuvent conserver une relation religieuse sans résoudre la question de son efficacité.
+
+### 49. Le rôle des médiateurs et de la compétence
+
+[A] Le chanteur sumérien, l’expert babylonien, le scribe ou officiant hittite, le cadre votif égyptien et l’oracle grec occupent des places différentes dans la transmission de l’appel. [I] Une réclamation adressée aux dieux dépend souvent de spécialistes, de lieux, de formes textuelles et de ressources matérielles. [P] Une philosophie du silence exclusivement centrée sur la conscience individuelle masquerait cette organisation. Les supports matériels conditionnent ce qui peut être entendu, reconnu, écrit, diffusé et mémorisé. [H] Cette proposition n’implique pas que les cultures partagent une théorie générale de l’intercession ; les chaînes de médiation doivent être documentées séparément.
+
+### 50. Inégalités sociales de la plainte
+
+[I] Les sources étudiées ne sont pas équivalentes socialement : Muršili parle avec l’autorité d’un souverain, Créuse est un personnage aristocratique de tragédie, les scribes connaissent des genres savants, Bay dispose d’un support votif, les textes de sagesse appartiennent à des réseaux lettrés. [P] Qui peut demander publiquement pourquoi un dieu tarde à répondre ? La question est politique. [T] Les archives disponibles ne permettent pas d’inférer immédiatement la voix des travailleurs sans inscription, des personnes dépendantes ou des catégories exclues des monuments. Il faut noter cette absence documentaire au lieu de la peupler de témoignages imaginaires.
+
+### 51. La fausse alternative entre peur et liberté
+
+Une lecture évolutionniste opposerait un fidèle ancien soumis à une divinité indiscutable et un sujet moderne capable de critique. Les documents contredisent cette histoire trop simple. [A] Muršili argumente, Job conteste, l’*Ion* accuse et les suppliants mésopotamiens décrivent des exigences de justice et de restauration. [T] Cette possibilité de parler ne signifie pas pour autant émancipation au sens des sociétés modernes. [P] On peut analyser des **formes réglées de contradiction** au sein même des relations religieuses, sans faire de chaque protestation ancienne un manifeste antireligieux.
+
+### 52. Transmission culturelle : ce qu’il faudrait démontrer
+
+[H] Les aires hittite, mésopotamienne et levantine ont connu des contacts ; c’est une condition de possibilité générale, non une preuve de transmission d’un motif précis. Pour soutenir un emprunt, il faudrait : un témoin datable antérieur ; une configuration verbale ou narrative spécifique ; un canal connu de circulation ; des différences explicables par réécriture. Les comparaisons avec l’Inde védique et la Chine confucéenne ont ici surtout une valeur **typologique et critique**. Aucun arbre généalogique des « religions du silence » ne peut être extrait de la matrice de cette étude.
+
+# Dixième partie — Philosophie : penser la réponse sans nier la singularité des sources
+
+### 53. De la demande au langage : Austin
+
+[P] J. L. Austin (*How to Do Things with Words*, 1962) aide à distinguer les conditions de réussite d’un acte verbal de l’obtention empirique de ses effets. Une prière peut être correctement formulée comme requête sans obtenir ce qu’elle demande ; son efficacité éventuelle dépend d’un cadre de reconnaissance extérieur à la seule grammaire. [T] Il ne s’agit pas d’affirmer qu’Austin aurait étudié systématiquement les prières sumériennes ou hittites. La théorie des actes de langage est un outil analytique, utile surtout pour éviter la confusion entre **adresse**, **réception**, **conséquence** et **validation**.
+
+### 54. Ricœur : la plainte et la pluralité des interprétations
+
+[P] Les analyses de Paul Ricœur sur le symbole, le mal et l’interprétation permettent de lire la plainte sans la rabattre sur une causalité naturelle ou une psychologie de compensation. Une histoire peut articuler responsabilité, épreuve, faute possible, pardon et réparation sans réduire l’ensemble à une proposition testable. [T] C’est une lecture philosophique moderne ; elle ne remplace pas l’établissement des variantes dans ETCSL ou des manuscrits de Job. [I] L’intérêt comparatif réside dans le maintien d’une distance : ce que le locuteur **dit** qu’il lui arrive diffère de la causalité que l’éditeur ou l’historien peut démontrer.
+
+### 55. Hegel : la tentation de transformer les religions en étapes
+
+[P] Les *Leçons sur la philosophie de la religion* de Hegel offrent un langage pour penser la manifestation du divin et le travail de médiation. Mais construire un classement où le silence des dieux « orientaux » serait dépassé par une révélation grecque ou biblique recyclerait une téléologie historiquement contestable. [T] Les leçons hégéliennes sont des cours transmis par une histoire éditoriale complexe et posthume ; on doit identifier l’édition citée avant tout emploi précis. Le présent dossier préfère utiliser Hegel **contre** la tentation d’une immédiateté du sens, non pour ordonner les corpus en degrés d’un progrès spirituel.
+
+### 56. Nietzsche : le silence ne signifie pas encore la mort de Dieu
+
+[P] *Le Gai Savoir*, §125, formule en 1882 un diagnostic moderne sur la disparition d’un horizon de valeurs et de certitudes. L’appliquer directement à Job, à Muršili ou à l’*Ion* serait un anachronisme : aucun de ces textes n’énonce simplement la « mort de Dieu » nietzschéenne. Le point de rencontre demeure une question : que devient la source de la norme lorsque l’expérience humaine ne reçoit pas de justification suffisante ? [H] On peut rapprocher des problèmes de légitimité, non des doctrines identiques de sécularisation.
+
+### 57. Camus et l’exigence de clarté
+
+[P] Dans *Le Mythe de Sisyphe* (1942), Camus travaille le rapport entre la demande humaine de raison et un monde qui ne fournit pas l’explication espérée. Le « silence du monde » n’est pourtant pas le silence rituel d’Amon-Rê ni l’absence de réponse de l’oracle. [T] La catégorie de l’absurde dépend de conditions philosophiques et historiques qui ne sont pas celles de Sumer ou de Hatti. [I] L’intérêt est méthodologique : l’historien peut reconnaître qu’un texte antique représente une disproportion entre attente et monde sans lui attribuer la philosophie camusienne.
+
+### 58. Simone Weil et la prudence devant la souffrance
+
+[P] *Attente de Dieu*, textes publiés après la mort de Simone Weil, peut éclairer une conception de l’attente qui ne se réduit pas au calcul d’une récompense. La notion d’attention invite à écouter ce qu’énonce le souffrant avant de lui imposer une explication. [T] Ce rapprochement n’établit aucune influence entre Weil et les prières de Muršili, ni une identité de doctrine. [I] Il fonctionne comme règle critique contemporaine : ne pas parler à la place du sujet des textes quand celui-ci maintient sa plainte.
+
+### 59. Une philosophie non apologétique de la réponse
+
+[P] La question « les dieux ont-ils véritablement répondu ? » relève d’une décision métaphysique que les sources historiques ne tranchent pas. Une monographie universitaire ne peut ni certifier une guérison divine, ni en démontrer l’impossibilité à partir du silence de ses archives. Elle peut en revanche rendre rigoureuse la question de l’**imputabilité** : à quelles conditions une parole ou une action est-elle reconnue comme réponse ? Quelles institutions valident cette reconnaissance ? Qui subit les effets d’une décision divine présentée comme juste ? Loin d’effacer les traditions, l’analyse sépare exactement le contenu religieux des assertions historiennes.
+
+### 60. Conclusion : le silence ne dit pas une seule chose
+
+Le silence divin n’existe pas ici comme une catégorie simple et stable. Le suppliant sumérien reçoit une réponse narrative après avoir cru perdu le lien ; le souffrant babylonien interroge une justice difficile à lire ; le roi hittite mobilise les archives et les rites pour plaider une crise collective ; le dévot égyptien représente matériellement la capacité d’écoute ; le théâtre grec met en procès une explication insuffisante ; Job distingue réponse et justification ; Habacuc appelle une restauration du droit ; Varuṇa est sollicité dans un idiome védique particulier ; le *Tiān* confucéen peut ne pas parler tout en laissant se déployer les saisons. L’étude ne conclut ni à la surdité générale des dieux, ni à la preuve de leur bienveillance. Elle établit **une histoire différenciée des manières humaines de rendre l’absence de réponse pensable, contestable et parfois habitable**.
+
+---
+
+# Onzième partie — Dossier des sources primaires
+
+**S01. Sumer, *Un homme et son dieu* (ETCSL 5.2.4).** 1–9 (exorde), 10–17 (épreuve), 18–24 et 64–68 (intercession), 69–81 (désorientation), 97–119 (plainte), 120–146 (réponse et restauration). Édition et traduction en ligne : https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=t.5.2.4&charenc=j . Les lacunes imprimées doivent être maintenues.
+
+**S02. Babylone, *Ludlul bēl nēmeqi*.** Incipit et évolution de Šubši-mešrê-Šakkan ; comparaison contrôlée des divisions et restitutions selon Lambert 1960, Oshima 2014, Lenzi 2023. Ne pas reporter les lignes d’une édition sur une autre sans concordance.
+
+**S03. Babylone, *Théodicée babylonienne*.** Dialogue du souffrant et de son interlocuteur, dans Lambert 1960, 63–91 et Oshima 2014. Témoin d’étude associé au commentaire CCP 1.4 / BM 66882 (joints) : https://ccp.yale.edu/P404917 .
+
+**S04. Hatti, Muršili II, CTH 378.II.** KUB 14.8 ; KUB 14.11 + 650/u ; KUB 14.10 + KUB 26.86. §§1 et 3–11. Edition et bibliographie dans Singer 2002, texte 11 ; support de philologie hittite : https://lrc.la.utexas.edu/eieol/hitol/80 .
+
+**S05. Hatti, CTH 378.I, III, IV.** Prière à l’assemblée divine et autres versions des prières de peste, à confronter sans présupposer leur succession chronologique. Singer 2002, nos 10, 12 et 13.
+
+**S06. Égypte, stèle votive de Bay, Caire JE 43566.** XXe dynastie, Deir el-Médineh ; Bay, Amon-Rê bélier et trois paires d’oreilles. Catalogue : https://globalegyptianmuseum.org/detail.aspx?id=14909 .
+
+**S07. Égypte, stèle Berlin 20377.** Dédicace de Nebrê à Amon-Rê ; étude du texte et du support : Université de Liège, https://matheo.uliege.be/handle/2268.2/21867 .
+
+**S08. Égypte, stèles à oreilles.** Ensemble typologique, UCL *Digital Egypt* : https://www.ucl.ac.uk/museums-static/digitalegypt/memphis/westhallfinds.html . Ne pas confondre ce corpus avec une composition littéraire unique.
+
+**S09. Grèce, Homère, *Iliade* I, 33–52.** Appel de Chrysès, réponse d’Apollon, intervention contre le camp achéen.
+
+**S10. Grèce, Euripide, *Ion* 329–383 ; 429–451 ; 941–955 ; 1530–1550 ; scène finale.** Texte grec à confronter aux éditions critiques et traductions : https://adfonteslibrary.org/work-euripides-ion .
+
+**S11. Bible hébraïque, Psaumes 13, 22, 28, 88.** Prière, plainte, audition et réponse ; tenir compte de la numérotation et des genres.
+
+**S12. Bible hébraïque, Job 19,7 ; 23,8–9 ; 30,20 ; 38–42.** Recherche de Dieu, accusation d’absence de réponse, théophanie.
+
+**S13. Bible hébraïque, Habacuc 1,2–4 ; 2,1–4.** Violence, durée de la plainte, attente d’une réponse.
+
+**S14. Bible hébraïque, 1 Rois 18,26–29 et 36–39.** Récit de polémique interreligieuse, non compte rendu neutre.
+
+**S15. Bible hébraïque, Isaïe 45,15.** Dieu qui se cache ; ne pas confondre dissimulation et absence d’audition.
+
+**S16. Inde, *Ṛgveda* VII.86.2, VII.86.8.** Varuṇa, demande de faveur et proximité ; https://www.vedicsamhita.in/vedas/rigveda/7/86 .
+
+**S17. Inde, *Ṛgveda* X.129.7.** Texte de contrôle négatif sur l’incertitude cosmique, qui ne doit pas être amalgamé à une prière sans réponse.
+
+**S18. Chine, *Lúnyǔ* (*Entretiens*) XVII.19.** 天何言哉 ; Ciel, saisons, croissance ; vérifier les variantes et les traductions contextuelles.
+
+# Douzième partie — Bibliographie raisonnée
+
+## Éditions, traductions et instruments philologiques
+
+1. *Electronic Text Corpus of Sumerian Literature* (ETCSL), University of Oxford, texte 5.2.4, « A man and his god » ; https://etcsl.orinst.ox.ac.uk/ .
+2. Lambert, Wilfred G., *Babylonian Wisdom Literature*, Oxford, Clarendon Press, 1960, spécialement pp. 21–91. Texte de référence dont les reconstitutions doivent être confrontées aux éditions suivantes.
+3. Oshima, Takayoshi, *Babylonian Poems of Pious Sufferers: Ludlul Bēl Nēmeqi and the Babylonian Theodicy*, Tübingen, Mohr Siebeck, 2014.
+4. Lenzi, Alan, *Suffering in Babylon: Ludlul bēl nēmeqi and the Scholars, Ancient and Modern*, *Orbis Biblicus et Orientalis*, 300, 2023 ; présentation : https://www.peeters-leuven.be/detail.php?id=8608 .
+5. *Cuneiform Commentaries Project*, Yale University, notice CCP 1.4 (*Theodicy*) : https://ccp.yale.edu/P404917 .
+6. Singer, Itamar, *Hittite Prayers*, éd. Harry A. Hoffner Jr., *Writings from the Ancient World* 11, Society of Biblical Literature, 2002, notamment CTH 378.
+7. Kimball, Sara E., Winfred P. Lehmann et Jonathan Slocum, *Hittite Online*, University of Texas, leçon 8, https://lrc.la.utexas.edu/eieol/hitol/80 .
+8. Lichtheim, Miriam, *Ancient Egyptian Literature*, vol. II, *The New Kingdom*, University of California Press, 1976.
+9. Homère, *Iliade*, chant I, édition critique grecque à indiquer lors de la mise en page définitive.
+10. Euripide, *Ion*, texte grec et apparat à confronter avec une édition critique ; archive de consultation : https://adfonteslibrary.org/work-euripides-ion .
+11. Biblia Hebraica Stuttgartensia (BHS), édition de référence pour les livres bibliques ; comparer les témoins de la Septante lorsque la numérotation ou les leçons divergent.
+12. Jamison, Stephanie W., et Joel P. Brereton, *The Rigveda: The Earliest Religious Poetry of India*, 3 vol., Oxford University Press, 2014.
+13. Confucius, *Analects*, trad. et commentaires Edward Slingerland, Hackett Publishing, 2003 ; confronter les caractères chinois et les commentaires anciens.
+
+## Travaux d’histoire des religions et de critique comparatiste
+
+14. Assmann, Jan, *The Search for God in Ancient Egypt*, Cornell University Press, 2001.
+15. Baines, John, « Practical Religion and Piety », dans les travaux sur la pratique religieuse égyptienne ; vérifier l’édition bibliographique complète avant citation paginée.
+16. Gallet, Laetitia, « Karnak: the Temple of Amun-Ra-Who-Hears-Prayers », 2013, https://escholarship.org/uc/item/3h92j4bj .
+17. Yengué Tchamba, Cannelle, *Étude textuelle de la stèle Berlin 20377 : une prière de remerciement du dessinateur Nebrê à Amon-Rê*, mémoire de master, Université de Liège, 2024, https://matheo.uliege.be/handle/2268.2/21867 .
+18. Parker, Robert, *Polytheism and Society at Athens*, Oxford University Press, 2005.
+19. Burkert, Walter, *Greek Religion*, traduction anglaise, Harvard University Press, 1985.
+20. Vernant, Jean-Pierre, *Mythe et pensée chez les Grecs*, 1965, éditions ultérieures.
+21. Loraux, Nicole, *La Voix endeuillée. Essai sur la tragédie grecque*, Gallimard, 1999.
+22. Newsom, Carol A., *The Book of Job: A Contest of Moral Imaginations*, Oxford University Press, 2003.
+23. Crenshaw, James L., *Defending God: Biblical Responses to the Problem of Evil*, Oxford University Press, 2005.
+24. Smith, Jonathan Z., *Drudgery Divine: On the Comparison of Early Christianities and the Religions of Late Antiquity*, University of Chicago Press, 1990. Guide méthodologique contre les analogies sans contrôle.
+
+## Philosophie et anthropologie de l’adresse
+
+25. Austin, John L., *How to Do Things with Words*, Oxford, Clarendon Press, 1962.
+26. Ricœur, Paul, *La Symbolique du mal*, Aubier, 1960.
+27. Ricœur, Paul, *Le Conflit des interprétations*, Seuil, 1969.
+28. Hegel, G. W. F., *Vorlesungen über die Philosophie der Religion* (*Leçons sur la philosophie de la religion*), cours publiés après sa mort ; citer l’édition choisie dans toute analyse détaillée.
+29. Nietzsche, Friedrich, *Die fröhliche Wissenschaft* (*Le Gai Savoir*), §125, édition de 1882.
+30. Camus, Albert, *Le Mythe de Sisyphe*, Gallimard, 1942.
+31. Weil, Simone, *Attente de Dieu*, publication posthume, 1950.
+32. Bell, Catherine, *Ritual Theory, Ritual Practice*, Oxford University Press, 1992.
+33. Asad, Talal, *Genealogies of Religion: Discipline and Reasons of Power in Christianity and Islam*, Johns Hopkins University Press, 1993.
+
+**Note sur la bibliographie :** les références identifiées à une œuvre ou à une notice institutionnelle ont été contrôlées au niveau du titre et de la source. Les bibliographies anciennes et les éditions de textes fragmentaires n’autorisent pas à inventer des numéros de vers, des pages ou des photographies non vérifiés. Les points nécessitant encore un travail d’édition définitive sont signalés comme tels ; ils ne constituent pas de fausses vérifications.
+
+# Treizième partie — Programme iconographique critique (suggestions sourcées, images non insérées)
+
+**Fig. 1 — Stèle de Bay à six oreilles.** JE 43566, Musée égyptien du Caire, XXe dynastie. Montrer la totalité de la stèle puis un détail des oreilles ; **légende scientifique :** « Matérialisation votive de l’écoute d’Amon-Rê, non photographie d’une réponse divine ». Source : *Global Egyptian Museum*, https://globalegyptianmuseum.org/detail.aspx?id=14909 . Vérifier les droits de reproduction avant intégration.
+
+**Fig. 2 — Photographie et plan du secteur oriental de Karnak.** Temple d’Amon-Rê-qui-entend-les-prières, étudié par Laetitia Gallet (2013), https://escholarship.org/uc/item/3h92j4bj . La légende doit distinguer les phases de construction et les reconstructions proposées. Ne pas présenter une illustration moderne comme un état antique certifié.
+
+**Fig. 3 — Berlin 20377, stèle de Nebrê.** Reproduction du monument et fac-similé de l’inscription, sous réserve de photographie autorisée et de référence muséale ; le mémoire de l’Université de Liège documente le texte, https://matheo.uliege.be/handle/2268.2/21867 .
+
+**Fig. 4 — Stèles égyptiennes à oreilles : corpus comparatif.** Illustrations matérielles de plusieurs objets datés, d’après le dossier UCL *Digital Egypt*, https://www.ucl.ac.uk/museums-static/digitalegypt/memphis/westhallfinds.html . Ne pas additionner les oreilles comme si leur nombre traduisait un degré quantifié de faveur.
+
+**Fig. 5 — Tablette de *Ludlul bēl nēmeqi*.** Identifier précisément avant reproduction le témoin **K.2518 + DT.358**, connu dans les catalogues photographiques liés au British Museum ; ne pas attribuer à ce fragment le texte total de l’œuvre. Vérifier la source muséale et ses conditions de réutilisation.
+
+**Fig. 6 — Tablette/commentaire de la *Théodicée*.** Source cataloguée **BM 66882 et joints**, CCP 1.4, https://ccp.yale.edu/P404917 . Légende critique : distinguer le commentaire du poème sur lequel il porte.
+
+**Fig. 7 — Témoins de la prière de peste de Muršili.** Reproductions de **KUB 14.8** et, si disponibles sous licence, d’autres joints de CTH 378.II ; cote et concordance à vérifier contre Itamar Singer (2002). Interdire une reconstitution graphique prétendument fac-similé si elle combine des témoins sans le signaler.
+
+**Fig. 8 — Carte scientifique de Hatti et de l’aire de Kurustamma.** Carte éditoriale originale fondée sur le dossier CTH 378 et des études de géographie historique ; marquer les limites de localisation comme incertaines. Aucune carte de l’Empire hittite moderne ne doit être étiquetée comme « carte de Muršili ».
+
+**Fig. 9 — *Ion* : scène et topographie de Delphes.** Photographier, depuis une source institutionnelle, l’espace archéologique du sanctuaire d’Apollon à Delphes ; la légende doit rappeler que le lieu n’est pas une illustration documentaire d’une scène particulière de la tragédie. Sources à sélectionner dans les catalogues du ministère grec de la Culture ou de l’UNESCO après contrôle des droits.
+
+**Fig. 10 — *Iliade* I : disposition des épisodes.** Diagramme inédit « prière de Chrysès → écoute narrative d’Apollon → intervention » ; citer Homère, I, 33–52. Porter la mention « schéma de lecture moderne, sans prétention iconographique antique ».
+
+**Fig. 11 — Diagramme du *Ion*.** Cartographie critique des informations disponibles à Créuse, Ion, Apollon et Athéna dans les passages 329–383, 429–451, 1530–1550 et la fin. Citer l’édition grecque retenue. Le diagramme ne doit pas aplanir les tensions du dénouement.
+
+**Fig. 12 — Tableau des verbes hébreux de l’audition.** Schéma de philologie comparée **šmʿ / ʿnh / ḥrš** à partir de passages explicitement cités. Afficher les caractères hébreux en sens droite-vers-gauche et les formes massorétiques contrôlées dans l’édition choisie. Une traduction française ne suffit pas comme fac-similé.
+
+**Fig. 13 — *Ṛgveda* VII.86.** Disposer texte en devanāgarī, translittération scientifique et traduction indépendante du vers 2. Source textuelle : https://www.vedicsamhita.in/vedas/rigveda/7/86 . Signaler que les manuscrits illustrant le texte sont plus tardifs que sa composition orale.
+
+**Fig. 14 — *Entretiens* XVII.19.** Diagramme autour de **天何言哉** et de la mention des saisons ; source chinoise à identifier selon l’édition établie. Ne pas présenter un portrait traditionnel de Confucius comme photographie d’époque.
+
+**Fig. 15 — Frise chronologique différenciée.** Représenter séparément dates estimées des compositions, copies matérielles et éditions modernes, avec incertitudes graphiques. Sources : ETCSL ; Lambert, Oshima, Lenzi ; Singer ; BHS ; Jamison–Brereton ; notices égyptiennes.
+
+**Fig. 16 — Matrice « entendre / parler / agir / justifier ».** Graphique analytique original qui illustre des combinaisons attestées sans hiérarchie normative entre cultures. Sources : textes primaires S01–S18.
+
+**Fig. 17 — Le biais votif.** Graphique épistémologique des témoignages documentés de gratitude face aux demandes dont aucune trace n’a survécu ; ne pas utiliser de pourcentages inventés. Source de l’argument : notices égyptiennes et programme comparatif de la présente étude.
+
+**Fig. 18 — Arbre de décision éditorial.** « Attestation → philologie → contexte → hypothèse → interprétation » : schéma méthodologique original pour l’ensemble du corpus MYTHOS, avec exemples courts dont les références sont contrôlées.
+
+**Règle iconographique :** l’existence d’une notice ne suffit pas à autoriser le téléchargement ou la republication d’une photographie. Pour chaque image retenue, enregistrer auteur/photographe, institution, numéro d’inventaire, lieu, date, URL source, licence ou autorisation et éventuel traitement. Ne pas réintroduire d’images génériques, de diagrammes pseudo-archéologiques en 2,5D, de reconstitutions non distinguées des originaux ni de légendes affirmant des faits non visibles.
+
+# Quatorzième partie — Tableau de traçabilité et contrôle final
+
+| Proposition | Statut | Appui principal | Limite |
+|---|---|---|---|
+| Le suppliant sumérien croit ne pas recevoir l’attention qu’il espère | [A] | ETCSL 5.2.4, 97–119 | Traduction lacunaire selon lignes |
+| Le même poème raconte une écoute et une restauration | [A] | ETCSL 5.2.4, 120–146 | Causalité religieuse racontée, non prouvée |
+| La reconstruction de *Ludlul* est composite | [T] | Lambert 1960 ; Oshima 2014 ; Lenzi 2023 | Versions divergentes et lacunes |
+| La plainte de Muršili implique archives et responsabilités royales | [A]/[I] | CTH 378.II, §§1–11 | Chronologie des prières discutée |
+| Les oreilles de JE 43566 figurent l’écoute d’Amon-Rê | [A] | Global Egyptian Museum JE 43566 | Pas de preuve de réalisation de toutes les prières |
+| *Ion* critique la conduite divine | [A] | Euripide, *Ion* 429–451 | Fiction dramatique et énonciation située |
+| Job se plaint de ne pas recevoir de réponse | [A] | Job 30,20 | Traduction et composition à examiner |
+| La théophanie de Job équivaut à une justification exhaustive | **Non établi** | Job 38–42 | Lecture théologique débattue |
+| Varuṇa est sollicité pour restaurer la proximité | [A]/[T] | RV VII.86.2, 8 | Pas de doctrine universelle du silence |
+| *Tiān* en *Entretiens* XVII.19 ne parle pas comme une personne de l’*Ion* | [A]/[T] | *Lúnyǔ* XVII.19 | Sémantique historique du Ciel |
+| Toutes ces traditions descendent d’un prototype de « dieu silencieux » | **Hypothèse non soutenue** | Aucun dossier de transmission suffisant | Ne pas revendiquer de généalogie |
+
+**Bilan des limites et décisions éditoriales.** Ce dossier ne propose pas une nouvelle édition diplomatique des tablettes, ni une enquête archéologique de terrain ; il rassemble des sources primaires localisées, des comparaisons soumises à contrôle et des lectures philosophiques explicitement modernes. Les images sont des **propositions sourcées**, non des fichiers insérés. Les manuscrits précédents et les autres séries MYTHOS restent inchangés. La validation de GitHub Actions, la numérotation romaine effective, le rendu HTML et la visibilité sur bobmythos.fr doivent être vérifiés séparément : **la soumission de ce document ne constitue pas la preuve de leur succès**.

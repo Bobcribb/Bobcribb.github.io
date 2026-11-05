@@ -1,0 +1,286 @@
+# Chapitre 684 — Les cinq degrés de deuil en Chine ancienne : vêtements, parenté, durée et autorité du rite, du *Yili* à Mawangdui
+
+*MYTHOS — Les Origines du sacré, volume DCLXXXIV. Étude universitaire originale : sinologie classique, philologie chinoise, archéologie des manuscrits, anthropologie de la parenté, philosophie confucéenne et comparaison des institutions funéraires. Texte public approuvé pour soumission ; état documentaire contrôlé le 5 novembre 2026.*
+
+## Résumé et thèse
+
+Le deuil, tel que le conçoit la littérature rituelle chinoise ancienne, ne se laisse pas réduire à l'expression spontanée d'un chagrin. Il constitue également une architecture de différences. La fibre, la coupe, le bandeau, le bâton, le lieu de résidence, la nourriture et le nombre de mois prescrits expriment le rang relatif d'une relation et l'inscription du survivant dans un réseau familial et politique. La section *Sangfu* 喪服 (« vêtements de deuil ») du *Yili* 儀禮 offre le témoignage normatif essentiel ; le *Liji* 禮記, les *Entretiens* XVII, 21 et le *Xunzi* 荀子, « Lilun » 禮論, montrent que ce dispositif était aussi objet de justification et de débat.
+
+Une donnée archéologique empêche d'identifier sans médiation l'ordre des classiques à la pratique historique : le diagramme de deuil sur soie provenant de la tombe 3 de Mawangdui, datée de 168 av. n. è., présente une classification réelle mais non parfaitement superposable à celle des textes reçus. Guolong Lai a montré les enjeux de parenté, de cosmologie et de transmission de ce document. L'enquête distingue donc [A] le texte normatif attesté, [B] les interprétations historiographiques et [C] les hypothèses qui demandent encore vérification.
+
+## 1. Pourquoi les vêtements sont-ils des archives ?
+
+Une étoffe conserve moins bien qu'une inscription sur pierre, mais elle peut être décrite dans un langage de précision. *Sangfu* ne nomme pas simplement une « robe noire » ou un emblème universel de tristesse : il répartit les relations selon plusieurs catégories vestimentaires. Une même mort ne crée donc pas le même devoir pour tous les survivants. La question n'est pas seulement « qui souffre ? », mais « qui doit rendre visible un rapport et sous quelle forme ? ».
+
+Le document construit une cartographie de la parenté qui est aussi une cartographie de l'autorité. Il distingue les parents proches, les parents plus éloignés, les enfants n'ayant pas atteint certaines étapes de l'existence, les femmes mariées ou non, les héritiers et les dépendants, les souverains et ceux qui leur doivent service. Cette classification n'est pas l'énoncé intemporel d'une psychologie chinoise ; elle traduit les priorités d'un milieu de transmission rituelle.
+
+## 2. Corpus et statut documentaire
+
+Le *Yili*, traité rituel ancien transmis et commenté sur de nombreux siècles, est au centre de l'enquête. On le confronte à trois dossiers distincts : le *Liji*, notamment « Sannian wen » 三年問 (« Questions sur les trois années »), « Wen sang » 問喪 et « Ben sang » 奔喪 ; les *Entretiens* XVII, 21 ; le *Xunzi*, « Lilun ». Ces témoins sont de genres et de traditions rédactionnelles différents. Ils ne sauraient être regroupés en un « code confucéen » unique, rédigé et appliqué d'un seul mouvement.
+
+Le texte du *Yili* est consultable sur le Chinese Text Project à l'adresse https://ctext.org/yili/sang-fu . Les subdivisions, les leçons et les traductions affichées y dépendent d'éditions et d'outils distincts ; l'anglais proposé automatiquement sur certaines pages ne doit pas tenir lieu d'édition scientifique. Les citations chinoises ci-dessous, limitées à quelques segments identifiables, renvoient à la section et non à une numérotation moderne fictive.
+
+## 3. La catégorie la plus lourde : *zhancui* 斬衰
+
+L'ouverture du chapitre énumère les composantes du *zhancui* : « 喪服，斬衰裳，苴絰杖，絞帶，冠繩纓，菅屨者 ». Les termes désignent un ensemble de pièces et d'accessoires, dont la forme générale évoque un vêtement grossier à bords coupés sans le soin d'une finition ordinaire, accompagné d'éléments de coiffure, de ceinture, de chaussure et, dans certains cas, d'un bâton. La matérialité est inséparable de la prescription.
+
+Il serait anachronique de traduire *zhancui* par « habit pauvre », comme si le porteur changeait effectivement de classe sociale. La dégradation voulue du vêtement signale une suspension des apparences ordinaires et marque la gravité de la relation. Le signe est social parce qu'il est lisible et partagé ; le textile devient la surface où s'inscrit une obligation.
+
+## 4. *Qicui* 齊衰 : seconde catégorie et variations internes
+
+Le *Yili* distingue également *qicui* 齊衰. L'interprétation habituelle oppose ici un vêtement aux bords travaillés ou alignés à la rude coupe du *zhancui*. Pourtant la catégorie ne se traduit pas simplement par un rang fixe et sans exception : elle comporte des durées et des conditions différentes. Le texte distingue notamment des cas relatifs à la mère selon le décès ou la survie du père.
+
+La portée historique de cette distinction est majeure. Elle n'énonce pas que l'affection d'un enfant serait mesurable en mois ; elle ordonne des obligations de représentation familiale. Mais la règle fait apparaître sans détours une asymétrie : la position de la mère est rapportée à l'organisation patriarcale de la maison et à des situations successorales.
+
+## 5. Les cinq grades : une typologie, non une formule magique
+
+La tradition parle classiquement de cinq grandes catégories : *zhancui* 斬衰, *qicui* 齊衰, *dagong* 大功, *xiaogong* 小功 et *sima* 緦麻. Elles diffèrent par la forme, la densité du tissu, les accessoires, la parenté concernée et la durée des obligations. Le système comporte des subdivisions et des exceptions ; le récit scolaire des « cinq degrés » ne doit jamais effacer les cas particuliers.
+
+Un tableau simplifié aide à s'orienter : l'ordre symbolique va du plus sévère au moins sévère, avec des séquences typiques allant du deuil conventionnel de « trois ans » à des durées d'un an, neuf mois, cinq mois ou trois mois. Mais l'unité de classement n'est pas seulement la durée. La tenue, les liens de parenté, l'âge et la relation aux charges publiques interviennent simultanément.
+
+## 6. Le paradoxal deuil de « trois ans »
+
+La formule « trois ans » a une valeur canonique qui ne se réduit pas à trente-six mois révolus. « Sannian wen » indique que cette période s'achève à la fin du vingt-cinquième mois selon le calcul rituel exposé. Cette précision importe : transposer mécaniquement une expression ancienne en unités administratives modernes conduirait à une erreur de chronologie.
+
+Le passage justifie l'arrêt du deuil par une distinction remarquable entre la persistance de la douleur et la reprise des affaires des vivants. Le sentiment peut durer ; la forme institutionnelle doit connaître une limite. La règle ne nie donc pas nécessairement la profondeur du chagrin : elle introduit un terme public à ses manifestations prescrites.
+
+## 7. Les fibres comme grammaire sociale
+
+Le langage du *Sangfu* est précis au sujet des textiles. Les grades comportent des degrés de finesse ou de grossièreté qui ne relèvent pas d'une fantaisie décorative. Porter une matière moins travaillée peut marquer une relation plus intense ; l'absence de luxe devient une valeur. L'ordre du rituel inverse ponctuellement les hiérarchies de prestige vestimentaire.
+
+Les annotations techniques conservées dans la tradition permettent d'examiner les mesures et les méthodes de confection. On doit toutefois éviter de présenter une restitution textile exacte tant que la chaîne entre terme ancien, commentaire et objet archéologique n'est pas démontrée. Un dessin de costume moderne peut expliquer une hypothèse, mais ne remplace pas un vêtement fouillé et daté.
+
+## 8. Un vêtement n'est pas une essence
+
+Les cinq grades n'expriment pas une substance invisible plus ou moins contagieuse. Ils définissent une manière d'agir, d'apparaître et de se retirer. Une proximité généalogique peut coïncider avec une obligation plus forte, mais celle-ci dépend aussi des rôles institués. Ce point interdit la confusion avec le terme sanskrit *āśauca*, qui décrit, dans les sources du *dharma*, une condition d'impureté rituelle réglée par des durées.
+
+La Chine ancienne du *Yili* n'est pas dépourvue de pratiques de purification ou de précautions autour du corps ; simplement, les cinq grades du *Sangfu* ne doivent pas être expliqués d'emblée comme une doctrine de la pollution cadavérique. Le noyau documentaire de cette monographie concerne l'objectivation des liens.
+
+## 9. La mère lorsque le père vit ou est décédé
+
+Le *Yili* distingue explicitement, parmi les configurations de *qicui*, les cas où le père est décédé et ceux où il est vivant. Cette opposition a été particulièrement discutée par les historiens de la famille chinoise. Elle rend lisible un principe patriarcal de médiation : la manière de manifester l'obligation envers une personne dépend de la relation du survivant au chef de la maisonnée.
+
+Constater cette asymétrie n'implique pas qu'une enfant aimait moins sa mère lorsque son père vivait. La règle porte sur une visibilité institutionnelle, non sur une mesure psychique. L'historien ne peut pas utiliser une durée prescrite comme instrument direct d'évaluation des sentiments privés.
+
+## 10. Filles mariées et filles résidant dans la maison paternelle
+
+Le chapitre *Sangfu* distingue l'état matrimonial et la résidence. On y rencontre, pour une fille non mariée demeurant dans la maison du père, une prescription relative au deuil de celui-ci ; le texte envisage également le cas d'une femme mariée revenue au foyer paternel. L'enjeu est le changement d'appartenance sociale et familiale associé au mariage.
+
+Ces règles ont été réinterprétées dans la tradition exégétique et juridique. Les transformer en description univoque du destin des femmes dans « la Chine antique » effacerait les variantes régionales et chronologiques. Les textes normatifs révèlent d'abord les tensions de la filiation dans le langage des rites.
+
+## 11. L'épouse et le mari : expression d'une asymétrie
+
+Dans l'ouverture de *Sangfu*, le deuil d'une épouse pour son mari est placé parmi les obligations les plus solennelles ; les prescriptions concernant un mari et son épouse ne se reflètent pas simplement comme dans un miroir. Cette dissymétrie manifeste une structure sociale d'autorité au moins autant qu'une relation conjugale.
+
+La comparaison avec les modèles modernes d'égalité ne doit ni masquer ni justifier le fait historique : les textes hiérarchisent les rôles. Une analyse historique peut décrire le mécanisme et en discuter les implications sans prétendre que toutes les communautés et toutes les époques l'auraient appliqué à l'identique.
+
+## 12. Le souverain comme parent symbolique
+
+Certaines relations politiques apparaissent dans les catégories du *Yili* : des obligations envers un souverain ou un maître peuvent recevoir des manifestations analogues aux relations de parenté. Cette transposition permet de comparer des liens sans les confondre. Le vêtement rend visible une hiérarchie politique dans le même système de signes que les obligations familiales.
+
+Une telle continuité est centrale pour la philosophie du *li* 禮. Elle permet de comprendre comment une autorité est rendue tangible par les gestes de ses dépendants. Mais ce dispositif ne signifie pas que l'État soit une famille biologique ; il produit une analogie normative dont les effets et les limites demeurent discutables.
+
+## 13. *Dagong* 大功 : deuil intermédiaire et parentés complexes
+
+Les passages consacrés au *dagong* énumèrent différentes catégories d'enfants morts prématurément, de neveux, de cousins et de parents par alliance. Le texte varie selon l'âge rituel, la relation et la place dans la famille. C'est une casuistique, pas un simple tableau concentrique où chaque degré de généalogie correspond mécaniquement à une étoffe.
+
+La traduction du caractère *gong* par « travail » et de l'ensemble par « grande œuvre » ne renseigne pas directement sur la portée du terme technique. L'étude philologique doit reconstituer son emploi dans les traditions du vêtement ; une étymologie isolée ne suffit pas.
+
+## 14. *Xiaogong* 小功 : cinq mois et parenté plus distante
+
+Le *Sangfu* mentionne le *xiaogong* 小功 avec des durées typiques de cinq mois. Les listes de parents concernés montrent la granularité du système : cousins, enfants de parents alliés, situations où un décès précoce modifie le grade. À nouveau, les liens matrimoniaux et la résidence peuvent compliquer l'ordre généalogique.
+
+La conclusion n'est pas que les émotions seraient moins « vraies » au cinquième mois, mais que l'institution borne les gestes par lesquels le groupe reçoit l'événement. Les prescriptions servent aussi à organiser les relations entre vivants encore engagés dans d'autres obligations.
+
+## 15. *Sima* 緦麻 : trois mois et limite extérieure de l'obligation
+
+Le grade *sima* 緦麻, habituellement associé à une toile légère et à la durée de trois mois, établit une limite basse parmi les catégories canoniques. Cette limite n'est pas synonyme d'indifférence ; elle signale un devoir de forme réduite. Elle rend visible la différence entre appartenir au cercle des obligations rituelles et ne pas y appartenir.
+
+Ce « bord du système » est anthropologiquement instructif. Toute classification doit définir son dehors. La limite transforme la proximité en une grandeur susceptible de prescriptions — un processus qui peut se révéler plus important que les cas centraux lorsqu'on étudie les mariages, les adoptions ou les migrations.
+
+## 16. La mort des jeunes et les catégories de *shang* 殤
+
+Le *Yili* reconnaît diverses catégories de décès prématurés, désignées par *shang* 殤. L'âge du défunt et sa place dans le cycle de vie peuvent modifier la durée et le vêtement. Les passages *dagong* et *xiaogong* font apparaître explicitement ces différenciations.
+
+Il faut distinguer statut rituel et valeur humaine : une période plus courte ne prouve ni un attachement plus faible ni une moindre souffrance des parents. Elle témoigne des catégories que les compilateurs ont jugées pertinentes pour les obligations. Une histoire sociale de l'enfance et du deuil doit confronter ces prescriptions à l'archéologie et à des sources narratives.
+
+## 17. Les marques du corps : coiffure, ceinture, bâton
+
+Les vêtements ne sont qu'une partie du système. Coiffures, attaches, bâtons et chaussures peuvent signaler la condition du survivant. Les gestes sont publics, donc contrôlables par autrui. Le deuil modifie la manière de se présenter, de se déplacer et d'habiter l'espace.
+
+La précision matérielle distingue ces règles d'une simple injonction morale à être triste. Le rite fournit des actes observables. Il lie intériorité et extériorité mais ne permet pas de déduire automatiquement la première de la seconde : un vêtement conforme peut être porté sans douleur ressentie, et une peine réelle peut ne pas trouver la forme prescrite.
+
+## 18. « Wen sang » 問喪 : le corps souffrant comme argument
+
+Le *Liji*, « Wen sang », commence par décrire les transformations corporelles du deuil parental : pieds nus, gestes de lamentation, refus de boire et manger, voisinage nourrissant la personne affectée. Le passage établit un lien étroit entre blessure intérieure et altération des comportements extérieurs.
+
+Il s'agit toutefois d'une formulation idéalisée qui pense le deuil comme une conduite exemplaire. L'ethnographe ne doit pas y lire la description statistique des réactions réelles. Les corps ont des histoires ; le texte fournit un modèle de comportement et de légitimation des restrictions.
+
+## 19. « Ben sang » 奔喪 : le voyage du survivant
+
+La section « Ben sang » du *Liji* prévoit la conduite de celui qui apprend le décès d'un proche éloigné et se met en route. Elle mentionne les lamentations au moment de recevoir la nouvelle, le départ, les étapes et l'entrée dans le territoire familial. L'information peut ainsi déclencher une séquence rituelle avant tout contact avec le corps.
+
+C'est un point de comparaison précis avec les règles indiennes sur la réception tardive d'une nouvelle mortuaire. Mais le *Liji* ne donne pas la même explication ni les mêmes opérations que *Manu* V, 74–77. La comparaison porte sur l'importance normative de l'information et de la distance, non sur une origine historique commune démontrée.
+
+## 20. « Sannian wen » 三年問 : pourquoi une durée doit-elle finir ?
+
+La section du *Liji* traite explicitement de la durée dite de trois ans. Elle la présente comme une forme ajustée à l'intensité de l'affection et à la nécessité d'un ordre collectif, puis précise le terme de vingt-cinq mois. Le passage admet que la tristesse ne s'éteint pas avec le règlement vestimentaire.
+
+Cette idée constitue une philosophie institutionnelle du deuil : la communauté ne peut ni exiger la disparition des sentiments ni rester sans limite dans leur expression prescrite. Le rite trace une ligne qui fait passer de la rupture à la continuation, sans prétendre résoudre l'énigme de la mort.
+
+## 21. *Lunyu* XVII, 21 : Zai Wo et le débat sur un an
+
+Dans les *Entretiens* XVII, 21, Zai Wo conteste la longueur du deuil parental : selon lui, une année suffit, et trois années d'abstention risquent de compromettre l'apprentissage des rites et de la musique. Le maître répond en interrogeant l'aisance morale de son disciple à reprendre nourriture raffinée, vêtements et confort. Le débat se clôt par le rappel d'une dépendance de l'enfant aux soins de ses parents pendant les premières années.
+
+Ce passage n'est pas une preuve d'un consensus immémorial. Sa force réside dans le fait qu'il conserve une objection : le rituel a une durée contestable, et cette durée appelle une justification éthique. Il rappelle que les traditions dites « confucéennes » transmettent également des discussions internes.
+
+## 22. Xunzi, « Lilun » : de l'affect à la forme
+
+Le chapitre « Lilun » du *Xunzi* explique le deuil prolongé par la mise en forme des sentiments et la distinction des relations. L'expression « 稱情而立文 » articule, de manière compacte, l'ajustement à l'affect et l'établissement de formes. Les rites ne sont ni le déversement sans contrôle de la douleur ni l'artifice sans fondement : ils disciplinent la manière d'accorder émotion et société.
+
+L'emploi philosophique de ce texte réclame attention à la stratification de la transmission. Il serait abusif de faire parler Xunzi comme un archéologue contemporain décrivant les usages d'une région. Son argument est normatif et polémique, orienté vers l'ordre social.
+
+## 23. La proximité et la différence chez Xunzi
+
+Le même développement fait des degrés de parenté et de rang les critères d'un ordonnancement. Les cérémonies ne sont donc pas seulement réparatrices : elles reproduisent des hiérarchies. Le proche reçoit une visibilité plus intense que le distant ; le souverain et le parent peuvent être pensés par une analogie contrôlée.
+
+Cette défense fournit à l'historien une prise critique. Si le rituel « réalise » le lien, il peut aussi naturaliser une distribution inégale de l'autorité. On ne peut évacuer les asymétries de genre, de génération et de statut politique au nom d'une philosophie abstraite de l'harmonie.
+
+## 24. Du textile au schéma : Mawangdui, tombe 3
+
+Un document sur soie provenant de la tombe 3 de Mawangdui, datée de 168 av. n. è., présente un diagramme du système de deuil. Il est fondamental que ce ne soit pas simplement une copie de la liste reçue du *Yili*. La recherche de Guolong Lai souligne la spécificité de sa structure, des termes de parenté et des correspondances cosmologiques.
+
+La datation de la tombe constitue un repère indépendant de l'histoire des manuscrits transmis. Elle ne date pas la création de la doctrine du deuil ni chaque couche du *Yili*. Son importance est de matérialiser un état historique de la réflexion sur la parenté et les grades dans le monde des Han occidentaux.
+
+## 25. Les différences de Mawangdui ne sont pas des fautes
+
+Guolong Lai montre que le diagramme classe les cinq degrés de deuil d'une manière comparable, mais non identique, à certaines dispositions des textes reçus, notamment pour les filles mariées hors du groupe et leurs enfants. Cette divergence est un résultat, non une anomalie à effacer.
+
+La démarche scientifique consiste à demander : le manuscrit documente-t-il une tradition régionale, une phase historique, un modèle cosmologique spécifique ou une autre logique de classification ? Les réponses ne sont pas équivalentes et aucune ne doit être imposée avant une analyse de l'inscription, du support et des comparaisons.
+
+## 26. La tombe comme contexte de la pensée rituelle
+
+Le document de Mawangdui est conservé parce qu'il fut déposé dans une tombe. Son contexte archéologique ne signifie pas nécessairement qu'il fut composé spécialement pour le mort. Les objets dans les ensembles funéraires peuvent avoir plusieurs biographies : savoir transmis, équipement symbolique, outil de classement, marque de statut ou dépôt remanié.
+
+L'archéologue distingue l'usage avant dépôt de la fonction dans le dépôt. La présence d'un diagramme funéraire dans une tombe est une attestation précieuse d'un intérêt pour ces classifications ; elle ne démontre pas comment une famille précise porta ses vêtements de deuil.
+
+## 27. Tianma-Qucun : la nécropole et ses communautés
+
+Yitzchak Jaffe et Bin Cao ont étudié les pratiques mortuaires du cimetière de Tianma-Qucun, en contexte des Zhou occidentaux, avec une attention aux relations entre nobles et autres segments de la communauté. Leur approche rappelle que les différences matérielles de tombes ne doivent pas être comprises seulement à travers des textes rituels postérieurs.
+
+Un cimetière est un ensemble de choix accumulés, soumis à des écarts locaux et à des contraintes de ressources. Aucun assemblage funéraire ne « prouve » directement l'emploi d'un grade de toile du *Yili* sans argument indépendant. Cette étude archéologique aide ainsi à séparer normes textuelles et pratiques documentées par les objets.
+
+## 28. La critique de l'illusion d'un rite immuable
+
+Patricia Buckley Ebrey a montré, dans *Confucianism and Family Rituals in Imperial China* (1991), comment les textes sur les rites familiaux furent composés, transmis et réutilisés au cours de l'histoire impériale. Les manuels tardifs ne sont donc pas la simple conservation mécanique d'une pratique du premier millénaire avant notre ère.
+
+Le manuel associé à Zhu Xi, traduit par Ebrey dans *Chu Hsi's Family Rituals* (1991), appartient à l'histoire médiévale et impériale de la reformulation des rites. On ne peut l'utiliser comme photographie immédiate des funérailles sous les Zhou. Son utilité est comparative et diachronique : il montre les possibilités de réappropriation des anciennes catégories.
+
+## 29. Miranda Brown : rite prescrit et sens pratique
+
+Une étude de Miranda Brown sur les pratiques de deuil des Han, menée avec Anna-Alexandra Fodde-Reguer, remet en question l'opposition simple entre règle fixe et transgression. À partir de discussions attribuées à Ying Shao, elle souligne une sensibilité à l'ajustement des conduites et aux usages sociaux plutôt qu'à un code universel immobile.
+
+Cela ne signifie pas que les prescriptions sont insignifiantes. Elles sont des ressources auxquelles les acteurs recourent, qu'ils évaluent et interprètent. Une théorie du sacré qui ignorerait l'indétermination du quotidien rendrait méconnaissable la vie historique du rite.
+
+## 30. Le débat sur la dépense funéraire : Mozi et les oppositions
+
+Le coût du deuil fut critiqué dans certaines traditions anciennes, notamment autour des textes mohistes et des débats sur la frugalité funéraire. Jeffrey Riegel, dans son étude des traités du *Lüshi chunqiu* sur la modération des sépultures, rappelle que le luxe des morts fut un enjeu intellectuel conflictuel.
+
+Une approche qui ne lirait que les défenseurs des grands rites restituerait une histoire amputée de ses oppositions. L'exigence de vestiges, de vêtements, de temps et de personnel peut peser sur les vivants. Les débats sur la juste dépense montrent la concurrence entre honorabilité, économie et autorité doctrinale.
+
+## 31. Le rituel et la stratification sociale
+
+Le *Sangfu* classe des rapports ; mais sa réalisation matérielle dépend aussi de la possibilité d'obtenir des textiles, de consacrer du temps et de suspendre des fonctions. On ne peut présumer que tous les groupes disposaient des mêmes moyens. Les obligations théoriques ne sont pas des descriptions complètes des ressources.
+
+La présence de titres et de charges dans les listes rituelles appelle une étude des relations entre élites et non-élites. L'archéologie des cimetières peut apporter des indications sur la diversité des investissements funéraires, mais la pauvreté d'une tombe ne mesure pas la « faiblesse du deuil » des survivants.
+
+## 32. Comparaison I : *āśauca* brahmanique et grades chinois
+
+Dans *Manu* V, 59–60 et *Gautama-Dharmasūtra* XIV, la mort peut entraîner une période de non-pureté pour les personnes désignées par la parenté. Dans le *Yili*, la section *Sangfu* développe d'abord une modulation des vêtements, des accessoires et des devoirs de deuil. Dans les deux cas, la relation détermine une partie des conséquences.
+
+La divergence est aussi importante que la similitude. Le dispositif indien examine notamment le retour à l'état permettant certaines activités rituelles ; le dispositif chinois fait de la forme vestimentaire un langage de hiérarchie. L'analogie n'établit ni emprunt ni origine commune. Elle incite à distinguer les composantes d'une obligation de deuil.
+
+## 33. Comparaison II : lois grecques de Ioulis et de Gambreion
+
+Les règlements grecs relatifs aux funérailles, aux dépenses et à certaines conduites des survivants montrent qu'un groupe politique peut limiter ou ordonner des expressions de deuil. La loi de Gambreion et les dispositions d'Ioulis offrent des contrepoints institutionnels aux traditions chinoises.
+
+Les sources ne jouent toutefois pas le même rôle : inscription civique datée et localisée d'un côté, littérature rituelle classique transmise par des exégètes de l'autre. Les apparentes analogies ne prennent un sens qu'après avoir précisé quel type de preuve chaque support autorise.
+
+## 34. Comparaison III : Égypte, Mésopotamie et mémoire domestique
+
+Les traditions égyptiennes et mésopotamiennes révèlent des obligations envers les morts et les ancêtres dont les formes varient considérablement. Les offrandes égyptiennes, les lamentations et certains dossiers mésopotamiens de *kispu* ne constituent pas des « cinq grades » équivalents à ceux du *Yili*. Il faut préserver la diversité des opérations et des institutions.
+
+Une comparaison productive demanderait qui fournit la nourriture, qui prononce les paroles, qui est lié par un devoir de filiation et comment les rituels peuvent renforcer une succession. L'étiquette « culte des ancêtres » serait trop générale si elle masquait les modalités de financement, d'entretien et de sélection des défunts commémorés.
+
+## 35. Durkheim : la forme collective du sentiment
+
+Durkheim aide à comprendre comment un fait familial mobilise des conduites collectives. La douleur n'est pas annulée par la convention ; elle reçoit une grammaire de manifestations partagées. Le deuil devient ainsi une situation qui engage plus que la conscience individuelle.
+
+Mais le modèle sociologique ne dispense pas de déchiffrer les textes. Les cinq catégories, leurs variantes et les controverses sur leur durée ne découlent pas mécaniquement d'une « société » abstraite. Elles possèdent une histoire textuelle et matérielle précise.
+
+## 36. Vernant, Detienne et la pluralité des régimes rituels
+
+Les travaux de Vernant et Detienne sur la religion civique grecque invitent à penser les gestes dans l'architecture des institutions plutôt qu'en objets isolés. Ils offrent une méthode, non un modèle grec exportable. Le système chinois de parenté, le rapport entre *li* et gouvernement, et la structuration textile du deuil ne s'expliquent pas par les bouphonies athéniennes ni par les sacrifices grecs.
+
+La comparaison doit conserver l'asymétrie des archives et la spécificité des textes. Une pratique antérieure décrite par un traité tardif ne doit pas recevoir automatiquement la datation que le traité revendique.
+
+## 37. Dumézil, Eliade et Girard : ce qu'ils permettent et ne prouvent pas
+
+La comparaison structurale de Dumézil rappelle l'intérêt des séries ordonnées, mais aucune filiation indo-européenne ne saurait expliquer génétiquement les cinq degrés chinois. La morphologie du sacré d'Eliade peut éclairer le passage du temps exceptionnel au temps ordinaire ; elle devient insuffisante si elle escamote les conflits sociaux et les différences d'époque.
+
+Quant à Girard, son intérêt pour la crise collective et la violence ne fournit pas la preuve d'une victime substitutive à l'origine des vêtements de deuil. Aucun des passages retenus n'établit un mécanisme de bouc émissaire. La prudence interdit de transformer des outils théoriques en reconstructions historiques non étayées.
+
+## 38. Hegel et Nietzsche : institution, corps, hiérarchie
+
+Une question hégélienne consiste à examiner comment l'obligation devient objective : le vêtement d'une personne fait voir une relation qui dépasse son seul état affectif. Cependant les généralisations historiques de Hegel sur « l'Orient » ne doivent pas être reproduites comme diagnostics empiriques de la Chine ancienne.
+
+La généalogie nietzschéenne de la morale incite à étudier discipline des corps, ascèse et transformation des valeurs. Elle met en question les fins que les prescriptions attribuent à la douleur. Mais ce langage critique ne remplace ni les termes chinois ni l'examen des preuves archéologiques.
+
+## 39. Les deux limites de l'analyse contemporaine
+
+Première limite : un système normatif peut réduire la pluralité des pratiques à une image scolaire ordonnée. Les manuscrits archéologiques prouvent déjà que les classements ont eu des états différents. Deuxième limite : parler de « deuil chinois » en général absorbe des traditions bouddhiques, taoïstes, locales et modernes dans la seule catégorie confucéenne.
+
+Le problème est méthodologique et éthique. Il faut regarder les personnes que les textes rendent silencieuses, les relations que les classifications subordonnent, et les usages dont la documentation élitaire ne parle pas. L'histoire de la Chine ancienne n'est pas l'histoire d'un ensemble de prescriptions sans acteurs.
+
+## 40. Synthèse des preuves : quatre tableaux distincts
+
+**[A : texte primaire attesté]** Le *Yili*, « Sangfu », classe les devoirs par vêtements, statuts et durées. Le *Liji*, « Sannian wen », expose la justification et le terme du deuil dit de trois ans. *Lunyu* XVII, 21 conserve une controverse sur cette durée. Le *Xunzi*, « Lilun », théorise la forme rituelle comme ajustement à la nature du sentiment et distinction des rapports.
+
+**[A : preuve archéologique]** Le diagramme de Mawangdui, tombe 3, est daté du contexte de sépulture de 168 av. n. è. Les travaux de Guolong Lai documentent ses différences par rapport aux systèmes reçus.
+
+**[B : interprétations étayées]** Les vêtements rendent publics les relations ; les durées organisent la clôture de l'obligation ; l'ordre ritualisé participe à la hiérarchie familiale et politique.
+
+**[C : hypothèses à vérifier]** La proportion réelle de familles suivant chaque prescription, la distribution régionale des variantes et l'existence d'échanges historiques précis avec des systèmes indiens ne peuvent être déduites des analogies générales.
+
+## Conclusion : des étoffes qui font tenir la parenté
+
+Les cinq degrés de deuil sont une technique d'écriture sociale : le vêtement fait voir des proximités, des hiérarchies et des obligations dans des corps vivants. La notion de *li* n'est ici ni simple beauté des cérémonies ni simple discipline imposée : elle articule conflit potentiel des émotions, ordre de la maison et présence du pouvoir.
+
+La source normative ne doit jamais devenir le substitut de l'histoire. L'évidence matérielle de Mawangdui oblige à reconnaître des variantes anciennes ; les études de la transmission impériale démontrent des relectures continuelles. Le résultat scientifique est précisément cette double constatation : les rites prescrivent des frontières entre proches, mais leurs propres frontières changent.
+
+## Sources primaires contrôlées
+
+1. *Yili* 儀禮, « Sangfu » 喪服, texte chinois, catégories des vêtements, rapports de parenté, durées : https://ctext.org/yili/sang-fu .
+2. *Liji* 禮記, « Sannian wen » 三年問, la durée de vingt-cinq mois et la logique du retour à la vie : https://ctext.org/liji/san-nian-wen .
+3. *Liji* 禮記, « Wen sang » 問喪, manifestations corporelles et deuil parental : https://ctext.org/liji/wen-sang .
+4. *Liji* 禮記, « Ben sang » 奔喪, conduite du survivant qui apprend une mort à distance : https://ctext.org/liji/ben-sang .
+5. *Liji* 禮記, « Sangfu xiaoji » 喪服小記, compléments de casuistique : https://ctext.org/liji/sang-fu-xiao-ji .
+6. *Lunyu* 論語, XVII, 21 (tradition « Yang Huo »), l'échange avec Zai Wo : https://ctext.org/analects/yang-huo .
+7. *Xunzi* 荀子, « Lilun » 禮論, l'ajustement de l'affect et de la forme : https://ctext.org/xunzi/li-lun .
+
+## Bibliographie universitaire, notices et accès vérifiés
+
+- Lai, Guolong, « The Diagram of the Mourning System from Mawangdui », *Early China* (notice et résumé analytique Cambridge Core) : https://www.cambridge.org/core/journals/early-china/article/abs/diagram-of-the-mourning-system-from-mawangdui/DAA0F22285438C95A34427AFEFA77286 .
+- Ebrey, Patricia Buckley, *Confucianism and Family Rituals in Imperial China: A Social History of Writing about Rites*, Princeton, Princeton University Press, 1991. DOI et notice : https://doi.org/10.1515/9781400862351 .
+- Ebrey, Patricia Buckley (trad.), *Chu Hsi's Family Rituals: A Twelfth-Century Chinese Manual for the Performance of Cappings, Weddings, Funerals, and Ancestral Rites*, Princeton, Princeton University Press, 1991 ; recension dans *Archives de sciences sociales des religions* (1992) : https://www.persee.fr/doc/assr_0335-5985_1992_num_80_1_1565_t1_0304_0000_3 .
+- Brown, Miranda, et Anna-Alexandra Fodde-Reguer, « Rituals without Rules: Han Dynasty Mourning Practices Revisited », dans *Behaving Badly in Early and Medieval China*, 2017, p. 91–105 : https://doi.org/10.21313/hawaii/9780824867812.003.0005 .
+- Jaffe, Yitzchak, et Bin Cao, « Communities of Mortuary Practice: A Renewed Study of the Tianma-Qucun Western Zhou Cemetery », *Cambridge Archaeological Journal*, 2017, résumé : https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/abs/communities-of-mortuary-practice-a-renewed-study-of-the-tianmaqucun-western-zhou-cemetery/07548D83E95D3DF63327DB07300AD98F .
+- Riegel, Jeffrey, « Do Not Serve the Dead as You Serve the Living: The Lüshi chunqiu Treatises on Moderation in Burial », *Early China*, Cambridge Core : https://www.cambridge.org/core/journals/early-china/article/abs/do-not-serve-the-dead-as-you-serve-the-living-the-lushi-chunqiu-treatises-on-moderation-in-burial/59BC064E32A85E7D96C36B91D2240F36 .
+- Durkheim, Émile, *Les Formes élémentaires de la vie religieuse*, 1912.
+- Douglas, Mary, *Purity and Danger*, 1966.
+- Detienne, Marcel, et Jean-Pierre Vernant (dir.), *La Cuisine du sacrifice en pays grec*, 1979.
+- Girard, René, *La Violence et le Sacré*, 1972.
+- Eliade, Mircea, *Le Sacré et le Profane*, 1957 (pour l'édition originale française).
+- Dumézil, Georges, *Mythe et Épopée*, 1968–1973.
+
+*Continuité éditoriale : étude autonome de la gradation chinoise du deuil, distincte des chapitres déjà attribués sur la Grèce funéraire, des monographies bibliques et avestiques en attente, et de la nouvelle monographie sur l'āśauca indien. Aucun numéro canonique n'est préempté ; les variables 684 et DCLXXXIV sont réservées à la seule présente étude. Les références antiques et les dates citées conservent leur valeur propre.*

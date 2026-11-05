@@ -822,6 +822,24 @@
         "url": "/chapitres/encyclopedie/chapitre-439-apollon-karneios-karneia-sparte-thera-cyrene-messene-rites-musique/",
         "title": "Chapitre 439 — Chapitre 439 — Apollon Karneios : les Karneia de Sparte, la mémoire des Doriens et les routes de Théra à Cyrène",
         "source": "chapitres/encyclopedie/chapitre-439-apollon-karneios-karneia-sparte-thera-cyrene-messene-rites-musique.md"
+      },
+      {
+        "number": 440,
+        "url": "/chapitres/encyclopedie/chapitre-440-zeus-diktaios-palaikastro-hymne-megistos-kouros-ganos-sanctuaire/",
+        "title": "Chapitre 440 — Chapitre 440 — Zeus Diktaios à Palaikastro : l'Hymne du plus grand Kouros, l'éclat du monde et les frontières du sacré crétois",
+        "source": "chapitres/encyclopedie/chapitre-440-zeus-diktaios-palaikastro-hymne-megistos-kouros-ganos-sanctuaire.md"
+      },
+      {
+        "number": 441,
+        "url": "/chapitres/encyclopedie/chapitre-441-euthymos-locres-temesa-heros-polites-alybas-lycas-heroisation/",
+        "title": "Chapitre 441 — Euthymos de Locres et le Héros de Témésa : l'athlète, le mort vengeur, les jeunes filles et l'invention d'un culte",
+        "source": "chapitres/encyclopedie/chapitre-441-euthymos-locres-temesa-heros-polites-alybas-lycas-heroisation.md"
+      },
+      {
+        "number": 442,
+        "url": "/chapitres/encyclopedie/chapitre-442-poseidon-onchestios-onchestos-chars-sans-conducteur-federation-beotie/",
+        "title": "Chapitre 442 — Chapitre 442 — Poséidon Onchestios : le bois sacré, les chars sans conducteur et l'autorité fédérale de Béotie",
+        "source": "chapitres/encyclopedie/chapitre-442-poseidon-onchestios-onchestos-chars-sans-conducteur-federation-beotie.md"
       }
     ],
     "tragedies": [
@@ -1782,6 +1800,18 @@
         "url": "/chapitres/tragedies/volume-ccliv-agathon-antheus-anthos-invention-aristote-poetique-1451b-parthenios-antoninus/",
         "title": "Volume CCLIV (254) — Agathon, Antheus ou Anthos (Ἀνθεύς / Ἄνθος) — L'invention d'une tragédie sans mythe : poétique du possible, désir, hospitalité et limites de la reconstruction",
         "source": "chapitres/tragedies/volume-ccliv-agathon-antheus-anthos-invention-aristote-poetique-1451b-parthenios-antoninus.md"
+      },
+      {
+        "number": 255,
+        "url": "/chapitres/tragedies/volume-cclv-agathon-thyeste-fragment-3-curetes-amphithea-cheveux-etymologie-atreides/",
+        "title": "Volume CCLV (255) — Agathon, Thyeste (Θυέστης) — Les Curètes, la chevelure perdue et l’énigme de la parenté : fragments, étymologie dramatique, pouvoir et vengeance des Atrides",
+        "source": "chapitres/tragedies/volume-cclv-agathon-thyeste-fragment-3-curetes-amphithea-cheveux-etymologie-atreides.md"
+      },
+      {
+        "number": 256,
+        "url": "/chapitres/tragedies/volume-cclvi-agathon-thyeste-curetes-pronax-amphithea-sicyone-fragment-3/",
+        "title": "Volume CCLVI (256) — Agathon, Thyeste (Θυέστης) — Les Courètes, la chevelure coupée et la violence des Atrides : étude philologique, reconstruction critique et philosophie du nom",
+        "source": "chapitres/tragedies/volume-cclvi-agathon-thyeste-curetes-pronax-amphithea-sicyone-fragment-3.md"
       }
     ],
     "comparatif": [
@@ -2987,6 +3017,24 @@
         "url": "/chapitres/comparatif/volume-cclii-mc-072-quand-les-dieux-se-deguisent-epiphanies-hospitalite-tromperie-reconnaissance/",
         "title": "Volume CCLII (252) — MC-072 — Quand les dieux se déguisent : épiphanies, hospitalité, tromperie et reconnaissance des puissances divines",
         "source": "chapitres/comparatif/volume-cclii-mc-072-quand-les-dieux-se-deguisent-epiphanies-hospitalite-tromperie-reconnaissance.md"
+      },
+      {
+        "number": 253,
+        "url": "/chapitres/comparatif/volume-ccliii-mc-074-armer-les-dieux-armes-forgees-artisans-divins-violence-souveraine/",
+        "title": "Volume CCLIII (253) — MC-074 — Armer les dieux : armes forgées, artisans divins, violence souveraine et limites de la puissance",
+        "source": "chapitres/comparatif/volume-ccliii-mc-074-armer-les-dieux-armes-forgees-artisans-divins-violence-souveraine.md"
+      },
+      {
+        "number": 254,
+        "url": "/chapitres/comparatif/volume-ccliv-mc-075-sous-le-regard-des-dieux-soleil-temoins-invisibles-yeux-protecteurs-responsabilite-souverains/",
+        "title": "Volume CCLIV (254) — MC-075 — Sous le regard des dieux : soleil, témoins invisibles, yeux protecteurs et responsabilité des souverains",
+        "source": "chapitres/comparatif/volume-ccliv-mc-075-sous-le-regard-des-dieux-soleil-temoins-invisibles-yeux-protecteurs-responsabilite-souverains.md"
+      },
+      {
+        "number": 255,
+        "url": "/chapitres/comparatif/volume-cclv-mc-073-quand-les-dieux-se-taisent-prieres-sans-reponse-ecoute-divine-attente-justice/",
+        "title": "Volume CCLV (255) — MC-073 — Quand les dieux se taisent : prières sans réponse, écoute divine, attente et crise de la justice",
+        "source": "chapitres/comparatif/volume-cclv-mc-073-quand-les-dieux-se-taisent-prieres-sans-reponse-ecoute-divine-attente-justice.md"
       }
     ],
     "comedies": [
@@ -5043,6 +5091,48 @@
         "url": "/chapitres/origines-du-sacre/680-euripide-suppliantes-eleusis-corps-argiens-thesee-droit-sepulture/",
         "title": "Chapitre 680 — Chapitre 680 — Rendre les morts à leurs proches : les Suppliantes d'Euripide, Éleusis et le droit de reprendre les corps",
         "source": "chapitres/origines-du-sacre/680-euripide-suppliantes-eleusis-corps-argiens-thesee-droit-sepulture.md"
+      },
+      {
+        "number": 681,
+        "url": "/chapitres/origines-du-sacre/681-nombres-19-vache-rousse-cendres-eau-lustrale-mort-impurete/",
+        "title": "Chapitre 681 — Chapitre 681 — Purifier sans effacer la mort : la vache rousse de Nombres 19, les cendres et l'eau lustrale",
+        "source": "chapitres/origines-du-sacre/681-nombres-19-vache-rousse-cendres-eau-lustrale-mort-impurete.md"
+      },
+      {
+        "number": 682,
+        "url": "/chapitres/origines-du-sacre/682-inde-ashauca-sapinda-dharmasastra-mort-parentes-durees/",
+        "title": "Chapitre 682 — Chapitre 682 — La parenté à l'épreuve de la mort : āśauca, sapiṇḍa et durée de l'impureté dans les Dharmaśāstra indiens",
+        "source": "chapitres/origines-du-sacre/682-inde-ashauca-sapinda-dharmasastra-mort-parentes-durees.md"
+      },
+      {
+        "number": 683,
+        "url": "/chapitres/origines-du-sacre/683-chine-yili-sangfu-cinq-degres-deuil-liji-xunzi-parents/",
+        "title": "Chapitre 683 — Chapitre 683 — Porter le chagrin : les cinq degrés de deuil, la parenté et le retour aux vivants dans la Chine ancienne",
+        "source": "chapitres/origines-du-sacre/683-chine-yili-sangfu-cinq-degres-deuil-liji-xunzi-parents.md"
+      },
+      {
+        "number": 684,
+        "url": "/chapitres/origines-du-sacre/684-chine-yili-sangfu-cinq-degres-vetements-deuil-mawangdui-xunzi/",
+        "title": "Chapitre 684 — Chapitre 684 — Les cinq degrés de deuil en Chine ancienne : vêtements, parenté, durée et autorité du rite, du Yili à Mawangdui",
+        "source": "chapitres/origines-du-sacre/684-chine-yili-sangfu-cinq-degres-vetements-deuil-mawangdui-xunzi.md"
+      },
+      {
+        "number": 685,
+        "url": "/chapitres/origines-du-sacre/685-egypte-herodote-embaumement-saqqara-antiu-sefet-papyrus-rituel/",
+        "title": "Chapitre 685 — Chapitre 685 — Fabriquer un corps durable : l'embaumement égyptien entre Hérodote, papyrus rituels et laboratoire de Saqqara",
+        "source": "chapitres/origines-du-sacre/685-egypte-herodote-embaumement-saqqara-antiu-sefet-papyrus-rituel.md"
+      },
+      {
+        "number": 686,
+        "url": "/chapitres/origines-du-sacre/686-levitique-21-pretres-morts-proches-grand-pretre-ezechiel-44/",
+        "title": "Chapitre 686 — Chapitre 686 — Qui peut toucher ses morts ? Lévitique 21, les prêtres d'Israël et la frontière entre famille et sanctuaire",
+        "source": "chapitres/origines-du-sacre/686-levitique-21-pretres-morts-proches-grand-pretre-ezechiel-44.md"
+      },
+      {
+        "number": 687,
+        "url": "/chapitres/origines-du-sacre/687-videvdad-nasu-sagdid-barasnom-cadavres-feu-eau-terre-iran/",
+        "title": "Chapitre 687 — Chapitre 687 — La mort qui souille le monde : Nasu, sagdīd et barašnom dans le Vidēvdād iranien",
+        "source": "chapitres/origines-du-sacre/687-videvdad-nasu-sagdid-barasnom-cadavres-feu-eau-terre-iran.md"
       }
     ]
   },
