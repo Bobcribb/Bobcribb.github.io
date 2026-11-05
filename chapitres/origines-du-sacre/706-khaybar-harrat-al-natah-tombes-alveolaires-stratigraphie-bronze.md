@@ -1,0 +1,309 @@
+# Chapitre 706 — Entre les avenues et la ville : les tombeaux de Harrat al-Natah à Khaybar, stratigraphie, petits caveaux et transformations funéraires de l'âge du Bronze
+
+*MYTHOS — Les Origines du sacré, volume DCCVI. Monographie universitaire publique en français. Archéologie stratigraphique et funéraire, géoarchéologie des basaltes, études des os humains, typologie des sépultures, chronométrie radiocarbone, histoire des communautés de l'Arabie du Nord-Ouest, anthropologie religieuse et philosophie comparée. État documentaire : 5 novembre 2026. Les recherches publiées en septembre 2026 sont intégrées.*
+
+## Résumé scientifique
+
+Sur le plateau basaltique de Harrat al-Natah, au nord de l'oasis de Khaybar, les sépultures de l'âge du Bronze ne forment pas une seule tradition immuable. Une enquête récente, conduite par Noisette Bec Drelon, Modwene Poulmarc'h, Hala Alarashi, Shadi Shabo, Kévin Guadagnini, Munirah AlMushawh, Guillaume Charloux et Rémy Crassard, a étudié stratigraphiquement cinq tombeaux rapprochés. Leurs rapports mutuels éclairent le recouvrement des types à queue trapézoïdale, des petites tours satellites et de petites tombes dites « alvéolaires » construites en groupes. Les dernières peuvent réoccuper ou recouper des constructions antérieures. L'enquête oblige à distinguer **date de construction, date du corps, date de fermeture et date de réemploi**.
+
+L'ouvrage confronte ces cinq tombes aux inventaires régionaux, aux résultats de la chrono-typologie de Thomas et collaborateurs (2025), aux recherches sur les avenues funéraires de Dalton et collaborateurs (2022), à la fouille de l'établissement fortifié d'al-Natah (Charloux et al., 2024) et aux données céramologiques de Shabo et collaborateurs (2025). Les parallèles grecs, égyptiens, mésopotamiens, iraniens, indiens, chinois, africains et américains sont mobilisés comme contraste méthodologique, sans prétendre que les bâtisseurs de Khaybar possédaient les doctrines rituelles connues dans ces civilisations plus tardives.
+
+**Grille documentaire.** [A] donnée attestée et localisée dans une publication ; [D] proposition débattue ou modèle de périodisation ; [H] hypothèse proposée sans attestation directe. Les auteurs du Bronze ancien à Khaybar ne nous ont pas laissé de traité funéraire déchiffré : les « sources primaires » sont ici les structures, les dépôts, les os, les mesures et les résultats de laboratoire, non des citations littéraires fabriquées.
+
+## 1. Une énigme chronologique sur le plateau
+
+Une vue aérienne de Khaybar révèle une multitude de petits reliefs pierreux, de cercles, de constructions radiales et de monuments allongés. L'œil moderne peut imaginer une progression simple allant de cairns rudimentaires à des tombes de plus en plus élaborées, puis à des sépultures plus discrètes. Or cette histoire linéaire résiste mal à l'excavation. Dans un même passage, un tombeau peut être édifié à proximité d'un monument antérieur et changer l'agencement des parcours ; ailleurs, plusieurs classes de sépultures paraissent contemporaines.
+
+Le problème scientifique n'est pas de choisir une photographie représentative : il est de reconstruire les rapports entre des opérations successives. Quel mur recouvre un autre ? Quelle dalle fut posée avant un effondrement ? Une chambre contient-elle le corps du fondateur ou celui d'un visiteur plusieurs siècles plus tard ? Le débat porte moins sur la beauté des monuments que sur la force chronologique de chaque indice.
+
+## 2. Les deux laboratoires de terrain : AAKSA et Khaybar LDAP
+
+Les projets internationaux et saoudo-étrangers ne constituent pas une enquête unique. L'AAKSA, associé notamment à l'University of Western Australia et à des équipes de la Royal Commission for AlUla, a développé la reconnaissance des monuments par télédétection et des datations de sépultures dans les comtés d'AlUla et de Khaybar. Le Prehistoric AlUla and Khaybar Excavation Project a prolongé ces travaux par l'étude d'un échantillon de tombes.
+
+Le Khaybar Longue Durée Archaeological Project (LDAP), porté dans un cadre franco-saoudien, a approfondi les structures du plateau d'al-Natah et les relations entre la nécropole et la ville fortifiée. L'article publié en septembre 2026 est fondé sur cinq tombes fouillées dans un groupe cohérent. Il ne représente pas une fouille exhaustive des milliers de monuments recensés.
+
+## 3. Une question d'échelle statistique
+
+Le programme Khaybar LDAP signale plus de 14 000 structures détectées par reconnaissance aérienne dans sa zone d'étude, et plus d'un millier de tombes décrites sur le terrain durant les premières campagnes. Environ soixante ont été fouillées dans le cadre des travaux rapportés en 2026, mais l'article approfondi porte sur cinq exemples seulement.
+
+Ces différents niveaux ne sont pas interchangeables. Un objet reconnu sur photographie aérienne peut rester une interprétation provisoire ; un monument relevé au sol possède une existence architecturale mieux assurée ; une tombe excavée peut fournir un dépôt stratigraphique ou des os datables. [H] La représentativité des cinq tombes exige d'être testée par l'extension de la fouille à d'autres quartiers de nécropole.
+
+## 4. La géologie : le basalte est une contrainte, pas un décor
+
+La Harrat Khaybar est un paysage volcanique marqué par des coulées de basalte d'âges différents, des reliefs bas, des dépressions et des surfaces pierreuses. Des blocs locaux peuvent servir à monter des parements à sec ou à former des couvertures de chambres. Le comportement mécanique et l'état de fracture de la roche déterminent les techniques disponibles.
+
+Un tombeau dont le mur externe est constitué de blocs équarris demande un travail différent d'un cairn fait de pierres ramassées. Pourtant, davantage de travail ne signifie pas nécessairement un rang « royal ». Il faut comparer volumes, granulométrie, choix des blocs, préparation des assises et emplacement. [H] L'histoire technique pourrait montrer plusieurs ateliers ou traditions de construction, mais leurs identités restent inconnues.
+
+## 5. Nommer avant de classer : la série des types
+
+Les auteurs de 2026 distinguent notamment des tombes sans queue de type 1, des grands tombeaux à queue trapézoïdale de type 2a, des structures à anneau et queue sans chambre centrale de type 2b, et des ensembles à queue rectiligne de type 3. À l'intérieur du premier type, ils identifient de petites tombes alvéolaires accolées (1a), des tours satellites de petit diamètre (1b) et des tours classiques (1c).
+
+La nomenclature est un outil descriptif, non une taxinomie biologique. Les catégories se définissent par la taille, les parements, le mode de couverture et la relation au voisinage. Elle n'autorise pas à conclure qu'à chaque type correspond une ethnie ou une caste funéraire. Les correspondances entre cette classification et celle de Thomas et collaborateurs (2025) demandent un tableau explicite.
+
+## 6. Les tombeaux à queue trapézoïdale : tête et appendice
+
+Le type 2a associe une composante funéraire et un dispositif extérieur de murs formant une queue élargie, souvent trapézoïdale. Les grands monuments de ce type occupent une place remarquable dans le paysage des « avenues funéraires ». Leur longueur peut atteindre plusieurs dizaines de mètres. Leurs alignements prennent sens par rapport aux passages et aux autres tombes.
+
+[A] La forme et les traces de construction sont visibles en relevé. [D] Leur fonction exacte — marquage territorial, visibilité de l'ancêtre, accompagnement processionnel, représentation collective — reste discutée. La présence d'une queue ne prouve pas qu'une procession y empruntait une voie liturgique prédéfinie.
+
+## 7. Les monuments sans chambre : le problème du type 2b
+
+Des constructions apparentées aux pendentifs comportent anneau et queue, mais ne possèdent pas de chambre centrale identifiable. Dans la typologie de Khaybar, elles sont répertoriées sous le type 2b. Plusieurs interprétations demeurent possibles : monument commémoratif dépourvu de sépulture, projet inachevé, destruction d'un dispositif disparu ou type dont la fonction était autre.
+
+Il faut résister à une alternative précipitée entre « tombe » et « sanctuaire ». L'absence d'ossements ne prouve pas un cénotaphe, surtout lorsqu'aucune fouille n'a testé l'intérieur. [H] Ces structures imposent d'étudier les actes de mémoire qui peuvent entourer la mort sans nécessairement abriter le corps, mais cette hypothèse demeure ouverte.
+
+## 8. Une avenue d'environ 267 mètres
+
+Les cinq tombes étudiées en 2026 se situent le long d'un passage est-ouest décrit comme une avenue funéraire d'environ 267 mètres, sur la partie nord du plateau. Le tracé rejoint une voie plus longue d'orientation générale nord-est/sud-ouest. Les queues des monuments proches peuvent se faire face et délimiter un espace central de circulation.
+
+[A] Les orientations, longueurs et rapports de voisinage sont observables sur les plans de la publication. [D] L'organisation globale a pu répondre à un projet coordonné, mais un paysage construit durant plusieurs siècles ne suppose pas un plan directeur fixé en un seul jour. La disposition visible est le produit d'accumulations et de réaménagements.
+
+## 9. KH00811 : une petite tour à queue courte
+
+Le monument KH00811 appartient à une catégorie de petite tour satellite munie d'une queue courte. La chambre était couverte, et sa fouille a permis de documenter un pavement de petits galets. Les détails de construction — grands blocs à l'assise, couverture et parement — sont analysés en relation avec ses voisins.
+
+Un pavement peut attester une intention de préparer le fond de la chambre ; il ne documente pas à lui seul le tapis funéraire, le vêtement, les paroles prononcées ou le statut du défunt. Les gestes de dépôt, lorsqu'ils ne laissent pas de trace spécifique, demeurent incertains. C'est une raison supplémentaire de limiter la reconstitution à ce que permettent les couches.
+
+## 10. KH00812 et KH01557 : deux petites alvéoles accolées
+
+Le dégagement de la zone proche de KH00811 a révélé KH00812 et KH01557, deux structures contiguës interprétées comme des petites tombes alvéolaires. Elles se distinguent par des chambres de dimension réduite, des blocs soigneusement disposés et des dispositifs de couverture en encorbellement. Leur rapprochement est un fait spatial qui s'inscrit dans une séquence de transformation de la nécropole.
+
+La proximité peut suggérer des relations entre défunts, voire un groupe de parenté, mais la preuve biologique manque. [H] L'agrégation de petites unités pourrait refléter un choix de mémoire collective différent de l'ancienne monumentalité des longs pendentifs ; elle ne prouve pas la nucléarisation des familles ni une évolution psychologique vers l'intimité.
+
+## 11. KH01558 : la monumentalité antérieure réinvestie
+
+Le grand monument à queue KH01558 présente des rapports de recouvrement avec les petites tombes adjacentes. L'article de 2026 expose plusieurs scénarios de construction ; il indique que les plus petites structures alvéolaires ont remanié ou recouvert une partie du dispositif antérieur. Le plan du monument de grande taille avait pu accueillir plusieurs chambres ou dispositifs d'inhumation.
+
+Cette superposition est une preuve plus forte d'antériorité relative qu'une simple comparaison stylistique. Si un mur en recouvre un autre, leur ordre peut être établi sans supposer que les formes simples sont nécessairement plus anciennes. En revanche, dater l'intervalle entre les opérations exige des matériaux chronométriques adéquats.
+
+## 12. KH00813 : la preuve imparfaite des monuments perturbés
+
+KH00813 figure parmi les tombes fouillées pour examiner l'architecture et rechercher les restes de dépôts funéraires malgré des perturbations. Sa construction contribue à définir les formes de tours satellites, mais une partie des contenus était altérée. Une couche déplacée peut conserver de la matière ancienne tout en ayant perdu sa relation d'origine au geste.
+
+L'archéologue distingue le contexte primaire, où un objet reste dans sa position de dépôt, du contexte secondaire, remanié, et du simple objet de surface. Il serait erroné de reconstituer un mobilier cérémoniel complet à partir d'un petit objet découvert dans un niveau de destruction. La perte documentaire doit être inscrite dans l'analyse, non masquée par un récit spectaculaire.
+
+## 13. Trois classes de tours, un paysage diversifié
+
+Les tours alvéolaires (1a) ne sont pas de petites versions simplifiées des tours classiques (1c). Elles se caractérisent par leur dimension réduite, l'organisation en groupes et les dispositions particulières du parement et de la couverture. Les tours satellites (1b) ont une relation spatiale plus directe aux grands pendentifs, souvent placées près de leur anneau ou le long de leur queue.
+
+Cette différenciation a une conséquence méthodologique : le groupe des « petites tombes » n'est pas homogène. Deux formes de diamètre comparable peuvent correspondre à des traditions techniques distinctes. [D] Leur coexistence ou succession demande l'examen des articulations de murs et des dates obtenues sur les dépôts, non le recours à une classification esthétique.
+
+## 14. L'antériorité par la stratigraphie, non par la silhouette
+
+La proposition essentielle du dossier de 2026 est que les petites alvéoles accolées sont postérieures aux grandes tombes à queue qu'elles peuvent affecter. Certaines petites tours satellites occupent une position chronologique plus complexe, parfois associées aux grands monuments, parfois insérées dans des phases de modification. L'évolution ne se réduit donc pas à « grande tombe puis petite tombe » dans tous les cas.
+
+Le vocabulaire d'antériorité relative doit être soigneusement distingué d'une date absolue. Un recouvrement démontre un ordre ; le radiocarbone resserre une fourchette ; les matériaux de réemploi peuvent la brouiller. Le modèle doit être présenté comme une chronologie de travail susceptible de révision.
+
+## 15. Le troisième millénaire : grandes sépultures et routes visibles
+
+La première moitié du IIIe millénaire avant notre ère a vu se développer des cairns annulaires, des tours et des monuments à queue qui jalonnent des tracés de passage. Les travaux de Kennedy et de Thomas fournissent des séries radiocarbone attestant une tradition de pendentifs dès les périodes anciennes de ce millénaire. Dans la région d'al-Natah, des formes monumentales ont été maintenues ou utilisées durant plusieurs siècles.
+
+Le fait qu'un type apparaisse à telle date ne signifie pas qu'il disparaît dès qu'un autre existe. [D] Certaines dates tardives sur des monuments anciens peuvent correspondre à des réutilisations plutôt qu'à une nouvelle campagne de construction. La distinction est essentielle pour toute carte animée ou frise chronologique de MYTHOS.
+
+## 16. La transition vers 2200–1900 avant notre ère
+
+Les auteurs de 2026 proposent qu'entre environ 2200 et 1900 av. J.-C. des petites tours satellites furent construites à proximité de grands monuments à queue. Cette phase densifie certains passages par accumulation d'unités. Les séquences de datation restent à affiner, mais le modèle intègre à la fois les constructions autonomes et les réemplois.
+
+Le même espace peut ainsi exprimer plusieurs générations de décisions. [H] La présence de tombes satellites évoque la possibilité de rattacher de nouvelles morts à des monuments anciens prestigieux, sans qu'il soit démontré que les défunts appartenaient au même lignage. L'hypothèse de parenté demeure l'une des pistes proposées par les chercheurs, non une conclusion ostéologique acquise.
+
+## 17. Entre 1900 et 1800 : la question alvéolaire
+
+Le texte de 2026 fait commencer surtout au début du IIe millénaire l'essor des petites tombes alvéolaires regroupées, avec des propositions de dates initiales pouvant varier selon les séquences et contextes, et des usages qui se prolongent plus tard dans ce millénaire. Les auteurs évoquent des clusters comprenant plusieurs chambres, parfois nombreuses, concentrés dans la zone nord du plateau.
+
+Ces structures ne peuvent pas être qualifiées d'« innovations nationales nabatéennes » : elles précèdent de très nombreux siècles les royaumes de Dadan et les Nabatéens. Elles témoignent d'une histoire funéraire pré-épigraphique locale, interprétable par les relations de construction et les échantillons datés, non par des lois beaucoup plus tardives.
+
+## 18. Une chronologie chevauchante, pas trois civilisations
+
+Le modèle n'impose pas trois populations exclusives, chacune remplaçant la précédente après adoption d'une architecture nouvelle. Les phases peuvent se chevaucher, les monuments être réutilisés, les traditions varier selon la zone de l'oasis et des groupes contemporains choisir différentes formes.
+
+[H] La diversité peut traduire plusieurs stratégies de mémoire au sein d'une communauté en transformation ; elle pourrait aussi refléter l'arrivée de groupes distincts ou une pluralité de traditions. Sans comparaisons anthropologiques et génomiques suffisantes, ces scénarios ne doivent pas être hiérarchisés par préférence personnelle.
+
+## 19. Pourquoi dater les os et non les murs ?
+
+Un parement basaltique ne fournit généralement pas un âge radiocarbone direct. Les matières organiques trouvées dans une chambre, dont les os humains, offrent des points de datation. Mais ces points se rapportent d'abord à la mort et au dépôt des personnes échantillonnées. Un monument peut avoir été bâti plus tôt et utilisé plus tard.
+
+La chronologie repose ainsi sur la combinaison d'une date de corps, d'un rapport stratigraphique et d'une phase de construction. La précision apparente d'un intervalle calibré ne doit jamais devenir « date de construction de la tombe » sans justification. Les structures KH00811–KH01558 illustrent ce problème à chaque étape.
+
+## 20. Radiocarbone : ce que signifie l'intervalle calibré
+
+Une mesure d'activité du carbone 14 ne se transforme pas automatiquement en année calendaire. Elle est calibrée à l'aide de courbes et peut couvrir des intervalles étendus. Les ensembles publiés en 2025 distinguent des fourchettes à deux écarts-types (2σ) et discutent des difficultés liées à la conservation des os en milieu aride.
+
+Les altérations de l'apatite osseuse constituent un enjeu lorsque le collagène n'est pas conservé. Les auteurs de 2025 recourent à des contrôles physicochimiques, notamment l'infrarouge, et écartent certaines valeurs. [D] Les modèles sont alors robustes dans certaines comparaisons et prudents pour les premières apparitions absolues. Un résultat anciennement interprété comme une date de construction peut être révisé par une stratigraphie nouvelle.
+
+## 21. La taphonomie : les morts ne restent pas toujours en place
+
+Les caveaux ont pu être pillés, ouverts pour de nouvelles inhumations, effondrés ou perturbés par des agents naturels. Le nombre minimal d'individus peut être déterminé par des pièces diagnostiques conservées, mais cette estimation ne représente pas nécessairement le nombre total des défunts déposés au cours des siècles.
+
+[H] L'absence de mobilier d'apparat ou de sépulture intacte peut résulter d'un traitement ancien du corps aussi bien que de pertes postérieures. On ne peut pas conclure à une austérité volontaire à partir d'une tombe qui a été fouillée clandestinement avant l'arrivée des archéologues. Le statut exact du dépôt doit être intégré à chaque argument.
+
+## 22. La préparation d'un sol de galets
+
+Dans les chambres de KH00811 et d'autres tombes, l'étude de 2026 documente des pavements de galets ou leurs traces. Ce choix matérialise une intervention sur le lieu de dépôt : le sol naturel est aménagé avant ou pendant son usage funéraire. Il peut servir à isoler la dépouille de la surface rocheuse ou à stabiliser un emplacement.
+
+L'objectif exact n'est pas écrit sur les pierres. [H] Un pavement peut avoir des fonctions pratiques et symboliques simultanées. Il serait abusif de le déclarer « lit du défunt » dans un sens rituel précisément établi sans traces d'un support organique ou contexte comparatif solide.
+
+## 23. Les perles : six petits objets, plusieurs questions
+
+L'article de 2026 recense six perles retrouvées dans trois des cinq tombes étudiées. Quatre proviennent de KH01557 et comprennent des matières de couleurs différentes : amazonite bleue et verte, pierre claire carbonatée et cornaline orangée. KH00812 a livré la partie supérieure perforée d'une coquille de Conus.
+
+Ces objets attestent la présence de matériaux sélectionnés et travaillés. Mais leur nombre est trop faible pour définir une parure standard de toute la nécropole. On ignore dans plusieurs cas leur position initiale sur le corps ; il pourrait s'agir de pendentifs, d'éléments de collier ou de dépôts secondaires. Aucun symbole religieux particulier ne peut être assigné automatiquement à la couleur verte ou bleue.
+
+## 24. Les bijoux et la circulation des matières
+
+Cornaline, amazonite et coquilles appartiennent à des chaînes d'approvisionnement qu'il serait utile d'étudier par pétrographie et provenance. Leur présence peut traduire des échanges de longue distance, des déplacements de personnes ou des matières déjà anciennes remployées. Elle ne prouve pas une route unique ni un commerce contrôlé par une institution spécifique.
+
+[D] L'identification minéralogique de quelques perles ne suffit pas à établir leur carrière d'origine sans analyses complémentaires. [H] Ces petits objets pourraient illustrer la circulation de matières et de signes de prestige au même moment que la construction de sépultures monumentales. Le raisonnement demeure une invitation à l'enquête, non une démonstration.
+
+## 25. Un monde funéraire pauvre en céramique ?
+
+La publication de Shabo et collaborateurs (2025), fondée sur les fouilles de Khaybar, distingue les assemblages domestiques du site fortifié et les objets des tombes. Les grandes sépultures du IIIe millénaire livrent souvent peu de vases en contexte primaire ; des fragments céramiques peuvent provenir de niveaux de ruine ou de réemplois. Certaines tombes à degrés plus tardives paraissent présenter des formes de dépôts différentes.
+
+Cette observation ne signifie pas que les défunts ne recevaient aucune nourriture ou offrande. Les matériaux organiques se conservent mal ; un récipient pouvait être emporté après la cérémonie. Le bon résultat est négatif et circonscrit : **les données actuellement examinées ne documentent pas une obligation générale de déposer des poteries dans les tombes monumentales les plus anciennes**.
+
+## 26. Le fort d'al-Natah : contexte social, non propriétaire des tombes
+
+Le site fortifié d'al-Natah, étudié par Charloux et collaborateurs (2024), occupe environ 2,6 hectares et conserve des traces de constructions, de rues et de zones fonctionnelles. Les datations situent son établissement entre environ 2400 et 2000 av. J.-C., avec une occupation prolongée au cours du IIe millénaire. Il fournit un contexte de sédentarisation progressive dans l'oasis de Khaybar.
+
+Mais les tombes des avenues environnantes ont une histoire qui peut précéder cette occupation et lui survivre. [H] Une partie des groupes qui fréquentaient les avenues pourrait avoir participé aux communautés sédentaires d'al-Natah ; il serait excessif de dire que chaque sépulture appartenait aux habitants de cette seule ville fortifiée.
+
+## 27. L'enceinte et les monuments antérieurs
+
+Les observations de la zone d'al-Natah montrent que des éléments de fortification et des aménagements ultérieurs recoupent ou réemploient des zones préalablement structurées par les grands tombeaux. Ce rapport stratigraphique inscrit la nécropole dans l'histoire politique et matérielle de l'oasis, et non dans un domaine séparé pour toujours des vivants.
+
+Une enceinte peut exprimer de nouvelles priorités : contrôler un accès, organiser une communauté ou renforcer une protection. Sa construction près de tombes anciennes ne signifie pas nécessairement que celles-ci furent volontairement profanées. [H] Le changement des circulations peut transformer la visibilité des ancêtres sans abolir leur mémoire.
+
+## 28. Un débat sur l'urbanisation plutôt qu'un récit d'inévitable progrès
+
+Le terme « ville » appliqué à al-Natah est débattu dans l'article même de Charloux et collaborateurs : la concentration de bâtiments, l'organisation de rues et les structures de défense justifient une réflexion sur un urbanisme de petite échelle. Le développement de formes plus sédentaires ne doit pas être présenté comme l'aboutissement inéluctable d'une humanité nomade.
+
+Les formes funéraires ne fournissent aucun baromètre automatique du « niveau de civilisation ». Une nécropole monumentale peut accompagner des communautés mobiles ; des tombes discrètes peuvent appartenir à une société complexe. La juxtaposition de l'enceinte et des tombes impose une histoire de configurations économiques et sociales variables.
+
+## 29. La parenté : une question, pas un résultat génétique
+
+L'agrégation des petites tombes autour de grands monuments suggère une possible organisation par descendants ou groupes associés. Toutefois, l'état fragmentaire des os et les réemplois ne permettent pas, à eux seuls, de démontrer le degré de parenté entre personnes. Même des liens génétiques, s'ils étaient obtenus, ne suffiraient pas à reconstruire les obligations rituelles.
+
+L'anthropologie distingue parenté biologique, filiation reconnue, cohabitation et appartenance institutionnelle. [H] La relation spatiale peut représenter une volonté de rattachement à des prédécesseurs, sans prouver la définition d'un lignage patrilinéaire. Le mot « ancêtre » sera donc employé comme hypothèse relationnelle, jamais comme attribution d'identité.
+
+## 30. Les enfants et les adultes : représentativité incertaine
+
+La détermination du nombre minimal d'individus et des classes d'âge peut contribuer à l'étude des pratiques de sélection funéraire. Dans les tombes perturbées, les os d'enfants, plus fragiles et de taille réduite, sont parfois moins bien représentés. La rareté d'un âge observé n'établit pas nécessairement une règle d'exclusion.
+
+[D] Pour savoir si certains monuments étaient réservés à des personnes particulières, il faudrait une série suffisamment large de dépôts primaires datés. [H] Les distinctions architecturales pourraient correspondre à des différences de place sociale ou de cycle de vie, mais aucune règle de ce genre n'est documentée de façon générale pour Khaybar.
+
+## 31. Le temps et la monumentalité : préserver ou réemployer ?
+
+La construction d'une longue queue demande une mobilisation de travail supérieure à celle d'une petite chambre. La persistance visible d'un monument peut encourager son réemploi et augmenter sa charge mémorielle. Mais cette même visibilité facilite le prélèvement de pierres, les réutilisations et les pillages, compliquant le travail archéologique.
+
+[H] Le passage à des groupes d'alvéoles pourrait manifester un nouvel équilibre entre mémorial collectif et individualisation des places, ou simplement de nouveaux moyens matériels. Une explication ne doit pas être privilégiée sans confrontation à la quantité de travail et à la séquence de construction.
+
+## 32. Les différences régionales : AlUla n'est pas Khaybar
+
+Les recherches de Thomas et collaborateurs (2025) montrent que certaines formes annulaires sont fréquentes à AlUla mais plus rares à Khaybar, où des cairns annelés remplis et des pendentifs à queue trapézoïdale occupent d'importantes concentrations. Les types « à rayons » apparaissent, dans le corpus étudié, surtout dans les badlands orientales d'AlUla.
+
+La différence formelle peut traduire des traditions locales, des contraintes de matériaux ou des préférences de groupes, non la frontière de deux peuples assurément distincts. Les modèles élaborés sur le seul plateau d'al-Natah doivent ainsi rester limités à cette zone avant d'être étendus à l'ensemble de l'Arabie du Nord-Ouest.
+
+## 33. Les monuments de 2900 à 2500 : des comparaisons difficiles
+
+La chrono-typologie de 2025 relève des cairns annulaires remplis datés autour du début du IIIe millénaire, puis des pendentifs diversifiés. Les deux familles existent parfois sur les mêmes paysages et ne correspondent pas à une alternance mécanique. La publication de 2026 renforce l'attention aux recouvrements spatiaux et aux traditions contemporaines.
+
+Il serait anachronique de qualifier ces monuments de « nabatéens primitifs ». Ils précèdent de plus de deux millénaires les grandes façades gravées de Hégra. Aucune filiation directe n'est démontrée entre les sépultures du Bronze ancien et les inscriptions juridiques du Ier siècle de notre ère.
+
+## 34. Grèce, Égypte et Mésopotamie : comparer des opérations, pas des mythes
+
+Les tombes de l'âge du Bronze grec, les cimetières égyptiens de l'Ancien et du Moyen Empire et les sépultures de Mésopotamie montrent des configurations variables de chambre, dépôt et mémoire. Leurs textes et objets offrent parfois un accès aux rites que l'Arabie pré-épigraphique ne livre pas. La comparaison peut porter sur la relation entre durée d'utilisation, accès aux morts et emplacement des objets.
+
+Elle devient illégitime si l'on projette sur KH00811 le mythe égyptien d'Osiris, le *kispum* babylonien ou les conceptions homériques des morts. Les institutions ne sont pas interchangeables. Leur mise en rapport sert à mesurer les limites des sources, non à combler l'absence de textes locaux.
+
+## 35. Iran, Inde et Chine : des archives de nature différente
+
+Les textes iraniens zoroastriens, les Dharmaśāstra et les traités chinois de deuil détaillent interdictions, durées et obligations. Mais ils sont historiquement très éloignés des sépultures de Khaybar et appartiennent à des traditions documentaires distinctes. Un trou de mur ne se traduit pas en impureté (*āśauca*) et un cercle de pierre n'équivaut pas à un degré de vêtement (*sangfu*).
+
+La comparaison utile s'attache à définir des questions transversales : qui prépare le corps, qui conserve le lieu, comment un groupe clôt la période de transition ? À Khaybar, certaines réponses restent impossibles. Ce constat doit être enregistré plutôt que remplacé par une philosophie générale du sacré.
+
+## 36. Afrique et Amériques : des hiérarchies sans généalogie commune
+
+Les nécropoles de Nubie ancienne, les tumulus des régions africaines et certaines tombes monumentales des Amériques montrent que la dépense de travail pour les morts peut être socialement significative. Mais une analogie entre dimensions ne prouve ni contact historique ni organisation politique identique. Des sociétés peuvent créer indépendamment des monuments puissamment visibles.
+
+L'archéologie comparative doit spécifier la chronologie, la nature des restes, les conditions environnementales et le rapport aux établissements. [H] La monumentalisation des morts peut contribuer à la mémoire collective et au contrôle symbolique d'un espace ; cette proposition n'est pas une loi anthropologique à appliquer sans preuve.
+
+## 37. Durkheim et Douglas : le groupe qui institue la frontière
+
+Émile Durkheim invite à considérer les pratiques collectives plutôt qu'une psychologie universelle de la mort. Mary Douglas a montré l'importance des classifications, notamment des séparations entre états et espaces. Ces théories permettent de demander ce qu'une chambre fermée, une queue visible et un regroupement de tombes font à la relation entre morts et vivants.
+
+Aucune découverte ne démontre toutefois que la fermeture de KH00811 répondait à une doctrine locale de pollution. [H] Le monument matérialise une séparation et peut rendre visible une appartenance, mais le sens rituel précis n'est pas restituable par la théorie seule.
+
+## 38. Vernant, Detienne et la prudence philologique
+
+L'approche historique de Vernant et Detienne, attentive aux rites en contexte et aux structures des relations sociales, encourage à ne pas transformer un motif ou un objet isolé en explication universelle. Leur domaine d'enquête principal fut le monde grec, dont les textes permettent de formuler des distinctions parfois impossibles pour Khaybar.
+
+L'absence d'écriture connue dans le corpus étudié impose donc une discipline particulière : « sacrifice », « purification », « ancêtre », « dieu » et « sanctuaire » ne doivent pas devenir des mots de traduction fictifs. Ce sont des catégories analytiques à employer avec prudence lorsqu'aucune formule locale ne permet de les vérifier.
+
+## 39. Dumézil, Eliade, Girard : refuser les raccourcis
+
+Les comparaisons de Georges Dumézil sur des systèmes indo-européens ne prouvent rien sur les bâtisseurs des tombes d'al-Natah. La notion de hiérophanie chez Eliade peut aider à interroger les lieux investis d'une valeur religieuse, mais elle ne démontre pas qu'une avenue de tombeaux était un « axe du monde ». La théorie de Girard sur la violence sacrificielle n'explique pas des pierres sèches sans indice d'une mise à mort rituelle.
+
+Ces auteurs ont leur place dans une histoire critique des interprétations. Ils ne doivent pas remplacer la stratigraphie ni offrir un vocabulaire permettant de faire passer une fiction pour une découverte.
+
+## 40. Nietzsche et Hegel : mémoire, durée, institutions
+
+Nietzsche propose des questions sur la fabrication des obligations et la mémoire collective ; Hegel, sur l'objectivation de relations dans des institutions durables. Le tombeau construit longtemps avant l'inhumation d'un descendant peut stimuler une réflexion sur ce qui survit à une personne. Mais les philosophies du XIXe siècle ne fournissent aucune information directe sur la manière dont les bâtisseurs de Khaybar se représentaient leurs morts.
+
+La bonne pratique consiste à distinguer question philosophique et preuve historique. [H] Une communauté peut faire durer un lien social en le matérialisant dans un monument, tandis que son usage évolue avec les générations. Cette possibilité ne dit rien d'une doctrine locale explicite de la survie.
+
+## 41. Les questions encore ouvertes
+
+La publication de 2026 laisse plusieurs débats légitimes : le statut exact des petites tours satellites ; la diversité des groupes d'alvéoles ; la chronologie de leur apparition ; la relation des dépôts aux monuments voisins ; la provenance des perles ; l'existence de liens biologiques entre défunts ; le rapport précis entre changement funéraire et occupation du site fortifié.
+
+Un travail futur devra conjuguer fouille extensive, analyse des sédiments, datation d'un plus grand nombre d'individus, études bioarchéologiques et relevé des volumes construits. La convergence de plusieurs indices n'abolira pas toutes les incertitudes, mais elle pourra transformer des scénarios actuels en hypothèses mieux testées.
+
+## 42. Grille de contrôle des preuves
+
+| Objet | Preuve [A] | Débat [D] | Hypothèse [H] |
+|---|---|---|---|
+| Harrat al-Natah | Plateau basaltique, nécropoles et site fortifié | Séquences d'occupation | Identité sociale des bâtisseurs |
+| KH00811 | Petite tour avec queue courte et chambre aménagée | Date exacte du premier usage | Rapport de descendance avec les grandes tombes |
+| KH00812 et KH01557 | Alvéoles contiguës, architecture de petits blocs | Moment de constitution de l'ensemble | Groupe familial au sens biologique |
+| KH01558 | Grand monument à queue affecté par des constructions | Phases détaillées de remaniement | Mémorial d'un fondateur |
+| KH00813 | Éléments d'architecture et dépôts perturbés | Modalités de réouverture | Rites non observés |
+| Six perles | Objets en pierres et coquille répartis dans trois tombes | Positions d'origine et provenance | Valeur protectrice des couleurs |
+| Établissement d'al-Natah | Zone fortifiée d'environ 2,6 ha, datations Bronze | Relations exactes avec chaque ensemble | Ville propriétaire de toutes les tombes |
+| Chronologie 2026 | Superpositions et datations des restes | Première apparition des types | Substitution complète de populations |
+
+## 43. Conclusion : les morts changent avec le paysage des vivants
+
+À Khaybar, l'archéologie de Harrat al-Natah montre que la mémoire funéraire a une histoire faite de constructions, de réemplois, de superpositions et de changements d'échelle. Des grands pendentifs du IIIe millénaire aux petites alvéoles regroupées du IIe millénaire, il n'y a pas une chaîne simple de remplacement, mais des relations complexes entre formes contemporaines ou successives.
+
+La publication de 2026 renouvelle la connaissance du sacré en rendant visible ce que les plans généraux ne pouvaient montrer : le rapport réel entre les murs et les dépôts. La meilleure interprétation ne prétend pas reconstituer la parole des défunts ; elle établit quels gestes de construction et de réutilisation sont attestés, puis formule des questions sur le changement des appartenances. Une archéologie rigoureuse des origines du sacré doit accepter que la matérialité conserve des relations sans nécessairement conserver leurs noms.
+
+## Sources primaires, données archéologiques et méthodes de vérification
+
+**P1.** Tombes KH00811, KH00812, KH00813, KH01557 et KH01558 ; plans, coupes, photographies, mobilier, datations et scénarios de phasage : Bec Drelon et collaborateurs (2026), sections 2–8, figures 2–10, publication scientifique en libre accès. https://doi.org/10.1016/j.jasrep.2026.105812
+
+**P2.** Comparaisons et dates calibrées de tombes IDIHA-F, tableau 1, méthodologie de prélèvement d'os et analyses infrarouges : Thomas et collaborateurs (2025), *Arabian Archaeology and Epigraphy*, 36/1, p. 52–69. https://doi.org/10.1111/aae.12267
+
+**P3.** Site fortifié d'al-Natah et sa relation aux avenues funéraires : Charloux et collaborateurs (2024), *PLOS ONE*, figures et discussion des datations. https://doi.org/10.1371/journal.pone.0309963
+
+**P4.** Céramique domestique et funéraire de l'oasis et du site fortifié : Shabo et collaborateurs (2025), *Arabian Archaeology and Epigraphy*, étude des pâtes et contextes. https://doi.org/10.1111/aae.70003
+
+**P5.** Reconnaissance des avenues et monuments de l'Arabie du Nord-Ouest : Dalton et collaborateurs (2022), *The Holocene*, 32/3, p. 183–199, cartes et modalités de repérage. https://doi.org/10.1177/09596836211060497
+
+## Bibliographie scientifique et philosophique vérifiable
+
+1. Bec Drelon, Noisette, Modwene Poulmarc'h, Hala Alarashi, Shadi Shabo, Kévin Guadagnini, Munirah AlMushawh, Guillaume Charloux et Rémy Crassard, « Stratigraphic and chronological evidence for overlapping Bronze Age tomb types in the Khaybar region, Saudi Arabia », *Journal of Archaeological Science: Reports*, 73 (septembre 2026), article 105812, https://doi.org/10.1016/j.jasrep.2026.105812.
+2. Thomas, Hugh, Jane McMahon, Lauren Swift, Daniel Franklin, Fahad Bagdadi, Rudolph Alagich et Melissa Kennedy, « The Bronze Age Tombs of Northwest Arabia: A Chrono-Typological Study From AlUla and Khaybar, Saudi Arabia », *Arabian Archaeology and Epigraphy* 36/1 (2025), p. 52–69, https://doi.org/10.1111/aae.12267.
+3. Kennedy, Melissa A., Jane McMahon, Hugh Thomas, David D. Boyer, Rebecca Repper, Matthew Dalton et Khalid AlKhaldi, « Dating the pendant burials of north-west Arabia », *Arabian Archaeology and Epigraphy* 32, supplément 1 (2021), p. 183–197, https://doi.org/10.1111/aae.12199.
+4. Dalton, Matthew, et collaborateurs, « The Middle Holocene ‘funerary avenues’ of north-west Arabia », *The Holocene* 32/3 (2022), p. 183–199, https://doi.org/10.1177/09596836211060497.
+5. Charloux, Guillaume, et collaborateurs, « A Bronze Age town in the Khaybar walled oasis: Debating early urbanization in Northwestern Arabia », *PLOS ONE* 19 (2024), https://doi.org/10.1371/journal.pone.0309963.
+6. Shabo, Shadi, et collaborateurs, « Ceramic Production at the Khaybar Walled Oasis During the Mid/Late Third–Early Second Millennium BCE », *Arabian Archaeology and Epigraphy* (2025), https://doi.org/10.1111/aae.70003.
+7. Durkheim, Émile, *Les Formes élémentaires de la vie religieuse*, Paris, Alcan, 1912.
+8. Douglas, Mary, *Purity and Danger*, Londres, Routledge & Kegan Paul, 1966.
+9. Vernant, Jean-Pierre, et Marcel Detienne (dir.), *La Cuisine du sacrifice en pays grec*, Paris, Gallimard, 1979.
+10. Dumézil, Georges, *Mythe et épopée*, Paris, Gallimard, 1968–1973.
+11. Hegel, G. W. F., *Grundlinien der Philosophie des Rechts*, Berlin, 1821.
+12. Nietzsche, Friedrich, *Zur Genealogie der Moral*, Leipzig, 1887.
+13. Eliade, Mircea, *Le Sacré et le Profane*, Paris, Gallimard, 1965 (édition française).
+14. Girard, René, *La Violence et le Sacré*, Paris, Grasset, 1972.
+
+## Continuité éditoriale
+
+Cette étude est spécifiquement consacrée au chantier stratigraphique des cinq tombes de Harrat al-Natah, à la nouveauté scientifique des catégories 1a et 1b, aux relations architecturales de recouvrement et au voisinage de la ville fortifiée. Elle n'est ni une reprise du dossier archéologique sur Taymāʾ (déjà en attente), ni une étude des inscriptions de Hégra, ni une histoire générale des avenues funéraires et de la mobilité régionale. Son numéro canonique n'est présent que par les variables 706 et DCCVI, qui ne concernent que cette étude ; dates radiocarbone, identifiants de tombes et numéros de sections restent invariants.

@@ -1,0 +1,336 @@
+# MYTHOS — Encyclopédie universitaire de mythologie grecque — Chapitre 449
+
+## Athéna Chalkioikos à Sparte : la Maison de bronze, Gitiadas, les cloches votives et le droit d'asile face aux éphores
+
+*Étude universitaire approfondie et originale — mythologie, philologie, épigraphie laconienne, archéologie, histoire religieuse, droit sacré et philosophie des institutions. Documentation contrôlée le 5 novembre 2026. Le signe 449 est une variable éditoriale et ne réserve aucun numéro.*
+
+### Résumé et thèse
+
+Sur l'acropole de Sparte, Athéna recevait les titres de **Poliouchos**, « gardienne de la cité », et de **Chalkioikos**, « de la Maison de bronze ». Pausanias (III, 17, 2-3) attribue à l'artiste spartiate Gitiadas une statue et un décor métallique ornés de mythes qui faisaient coexister Héraclès, les Dioscures, Persée et les dieux olympiens. Les fouilles de la British School at Athens ont mis au jour des dépôts géométriques, des inscriptions, des armes, des statuettes et, fait remarquable, des dizaines de cloches votives. L'acropole était ainsi un lieu d'images, de musique, de gestes de dévotion et de mémoire publique, non la simple citadelle d'une population réputée guerrière.
+
+Mais cette protectrice civique fut aussi impliquée dans une contradiction politique profonde. Thucydide I, 134-135 raconte que Pausanias, le commandant vainqueur de Platées, chercha refuge dans l'enceinte du sanctuaire pour échapper aux éphores. Ceux-ci le laissèrent mourir après l'avoir enfermé ; Delphes prescrivit des réparations, notamment des images de bronze. Le matériau qui manifestait l'honneur divin devint également un instrument de compensation pour une vie supprimée.
+
+**Thèse : la Maison de bronze met en scène les limites de l'autorité civique.** Son architecture et ses objets affirmaient la permanence d'Athéna et de la communauté ; l'histoire de Pausanias montre qu'une polis pouvait entrer en conflit avec l'inviolabilité qu'elle-même reconnaissait. L'étude distingue les traditions mythiques, les attestations matérielles et les hypothèses modernes, sans prétendre convertir les lacunes du dossier en certitudes.
+
+### 1. Périmètre : un sanctuaire, non une nouvelle biographie d'Athéna
+
+Cette monographie porte sur l'acropole spartiate et son système de cultes. Elle ne répète pas les notices consacrées à Athéna Aléa, Athéna Itonia, Athéna Lindia ou Artémis Orthia. Les études MYTHOS sur Apollon Amyklaios et Hélène-Ménélas au Ménélaion concernent d'autres lieux et d'autres dispositifs religieux, même si la comparaison laconienne peut éclairer les distinctions entre mémoire, histoire et culte.
+
+Trois ensembles de sources seront maintenus séparés. Les récits d'origine, attribuant le sanctuaire à Tyndare et aux Dioscures, appartiennent à la mémoire mythique. Les textes de Thucydide, Polybe et Pausanias donnent des événements ou traditions, transmis selon les finalités de chaque auteur. Les objets, inscriptions et relevés de fouilles établissent des pratiques et des phases matérielles mais ne décrivent pas automatiquement les pensées des dédicants.
+
+L'enjeu historiographique est important : le cliché moderne d'une Sparte dédaignant les arts se heurte à la richesse des trouvailles métalliques et figurées. Mais la réaction contraire, imaginant une Sparte identique à Athènes, serait tout aussi simplificatrice. Les sanctuaires de chaque cité demandent une enquête autonome.
+
+### 2. La colline et la ville : comprendre « acropole » à Sparte
+
+Pausanias III, 17, 1 observe que Sparte ne possède pas de citadelle aussi ostensiblement élevée que la Cadmée de Thèbes ou la Larissa d'Argos. Une des collines de la ville, la plus haute, porte néanmoins le nom d'acropole. Cette remarque prévient une comparaison fautive avec l'Acropole athénienne : le terme désigne une relation topographique et institutionnelle, pas un modèle architectural unique.
+
+Thucydide I, 10, 2 affirme qu'un observateur du futur pourrait sous-estimer la puissance ancienne de Sparte à partir de ses seules ruines. Sa phrase n'établit pas l'absence de grands sanctuaires ; elle porte sur la différence entre la puissance historique d'une polis et la surface de ses monuments visibles. Les fouilles ont précisément montré sur l'acropole un ensemble de terrasses, murs, bâtiments et objets qui ne cadrent pas avec la notion d'une ville totalement dénuée d'investissements artistiques.
+
+Le théâtre installé sur la pente à l'époque romaine a effacé ou déplacé des structures plus anciennes. Les fondations visibles aujourd'hui ne constituent donc pas un plan intégral de la ville archaïque. Une photographie du site doit être légendée avec date, orientation et avertissement sur les remaniements.
+
+### 3. Philologie de Chalkioikos : la maison et le métal
+
+L'épithète Χαλκίοικος (Chalkíoikos) associe χαλκός, métal cuivreux ou bronze selon le contexte, à οἶκος, maison ou demeure. La traduction « celle de la Maison de bronze » exprime l'idée essentielle sans suggérer que toutes les structures porteuses étaient coulées en métal. La dénomination peut renvoyer à des revêtements de bronze, à une image sacrée métallique ou à des associations plus larges entre matériau et prestige.
+
+Pausanias III, 17, 2 rapporte que le temple et la statue furent réalisés avec une présence remarquable du bronze. Les glossateurs tardifs transmettent d'autres étiologies. La *Souda*, à Χαλκίοικος, évoque la demeure métallique, la stabilité de l'installation et une prétendue fondation par des exilés chalcidiens. Hésychios donne les formes apparentées Χαλκίναος et Χαλκηδάνη. Il faut distinguer l'existence de ces explications de leur valeur historique : le rapprochement avec les Chalcidiens ne constitue pas une fondation archéologiquement démontrée.
+
+Guy Dickins (1907) considère le nom comme une désignation liée surtout au décor matériel du sanctuaire ; la réévaluation de Rita Sassu (2024) envisage aussi des connotations techniques et économiques. La philologie ne tranche pas seule entre ces propositions : elle fixe le champ sémantique, tandis que l'archéologie doit établir la nature du bronze présent.
+
+### 4. Poliouchos : la communauté gardée par une déesse
+
+Πολιοῦχος, Poliouchos, signifie « celle qui tient ou protège la cité ». Ce titre exprime une compétence civique ; il n'est ni exclusif à Sparte ni identique, dans tous ses effets, aux épiclèses athéniennes. Pausanias III, 17, 2 associe les deux titres dans la présentation d'un même ensemble sacré.
+
+La stèle de Damonon, **IG V 1, 213**, apporte une donnée plus ancienne que le Périégète : elle mentionne Athéna Poliouchos dans le contexte de la publicité des succès agonistiques. Le fait que la déesse protège la cité n'empêche donc pas que son sanctuaire expose des noms personnels, des compétitions et des distinctions reconnues.
+
+Faut-il répartir les deux épiclèses entre deux bâtiments, l'un consacré à Poliouchos, l'autre à Chalkioikos ? Certains modèles architecturaux ont envisagé cette solution, mais elle reste hypothétique. Les titres ne constituent pas une preuve d'une répartition spatiale nette. De même, une déesse garante du corps civique ne se réduit pas à la surveillance militaire : les inscriptions et les objets montrent d'autres dimensions de la relation religieuse.
+
+### 5. Les poèmes d'Alcman et les limites des fragments
+
+Alcman, poète de l'horizon archaïque spartiate, intervient dans le dossier par deux fragments discutés dans la littérature savante : **fr. 43 Page–Davies = 43 Calame**, et **fr. 87c Page–Davies = 112 Calame**, selon la concordance citée par Sassu (2024, p. 15-16). Le témoignage poétique est précieux mais fragmentaire.
+
+Un fragment transmis par un grammairien n'est pas la reconstitution d'un hymne entier. Le classement numérique varie selon les éditeurs et le contexte originel de la performance peut manquer. Il serait fautif d'inventer des vers manquants ou d'utiliser la date générale du poète pour dater une architecture précisément.
+
+Ces traces permettent néanmoins de prendre au sérieux la coexistence de cultes, de chants et de fabrication artistique dans la Sparte archaïque. La distinction simplificatrice entre Athènes qui créerait des images et Sparte qui se consacrerait seulement à la guerre ne résiste pas aux témoignages matériels et poétiques disponibles.
+
+### 6. Tyndare et les Dioscures : histoire de fondation et butin d'Aphidna
+
+Selon Pausanias III, 17, 2, le roi mythique Tyndare commença la construction du sanctuaire. Après sa mort, ses enfants auraient voulu achever l'entreprise grâce aux dépouilles d'Aphidna, mais le projet serait resté inachevé avant une réalisation plus tardive. La tradition introduit dans le sanctuaire les grandes figures généalogiques de Laconie : Tyndare, Hélène, Castor et Polydeucès.
+
+L'épisode d'Aphidna renvoie aux traditions sur l'enlèvement d'Hélène par Thésée, la réaction des Dioscures et les incursions en Attique (Plutarque, *Thésée* 31-34 ; comparer Hérodote IX, 73). Dans le récit, les biens pris à l'ennemi deviennent une ressource de consécration. Le butin peut servir à fonder ou embellir la demeure d'une divinité protectrice.
+
+Il serait pourtant méthodologiquement erroné d'identifier un chantier du sanctuaire au règne historique de Tyndare. L'histoire de fondation associe mémoire dynastique et légitimation d'un lieu ; les couches fouillées suivent leur propre chronologie.
+
+### 7. Gitiadas, sculpteur et poète spartiate
+
+Pausanias III, 17, 2 nomme **Gitiadas** (Γιτιάδας), un Spartiate, comme auteur des éléments de bronze et de l'image de la déesse. Il précise que l'artiste composait aussi des chants dorien-laconiens, dont un hymne à Athéna. Une figure créatrice apparaît ainsi à l'intersection de la poésie, des techniques métalliques et de l'honneur religieux.
+
+Le témoignage est rare ; il n'autorise pas à restituer le texte perdu de l'hymne. Gitiadas est également associé, par Pausanias III, 18, 7-8, à des œuvres de bronze à Amyclées. La proximité thématique et géographique confirme que le travail des artistes se déployait sur plusieurs sites, mais elle ne prouve pas l'identité des ateliers pour tous les objets attribués à l'époque archaïque.
+
+Il reste difficile de fixer une chronologie unique pour l'ensemble des œuvres. La datation stylistique, les traditions littéraires et les phases de construction ne coïncident pas toujours. Il faut parler d'attribution antique et d'hypothèses de datation, non d'une signature archéologiquement conservée sur toutes les pièces.
+
+### 8. Les panneaux de bronze et le programme mythologique
+
+Pausanias III, 17, 3 énumère des scènes figurées sur le bronze : travaux et exploits d'Héraclès, naissance d'Athéna, Persée et les Gorgones, enlèvement des filles de Leucippe par les Dioscures, traditions concernant Héphaïstos, mariage ou union de Poséidon et d'Amphitrite. Il donne une sélection, pas un plan mural complet.
+
+Les images pouvaient articuler plusieurs dimensions de la communauté : force héroïque, alliances divines, mariages, origine d'Athéna et mémoire laconienne. L'enlèvement des Leucippides rapproche les Dioscures des relations de parenté et de l'organisation des unions. Les scènes d'Héraclès invitent à penser l'ordre affrontant des puissances menaçantes.
+
+Mais l'interprétation d'un répertoire figuré n'autorise pas à attribuer un « rite de passage » précis à chaque tableau. Le récit artistique et la cérémonie collective peuvent se croiser sans être identiques. Les plaques de bronze conservées, avec leurs traces de fixation, soutiennent l'existence d'un décor métallique ; elles ne permettent pas toutes de réidentifier les scènes mentionnées par Pausanias.
+
+### 9. Le bronze comme technique, valeur et offrande
+
+Les objets de bronze supposent l'approvisionnement en cuivre et étain, l'activité d'artisans, la fabrication de moules ou de feuilles travaillées et, dans le cas de plaques murales, des systèmes d'attache. Les fragments de métal et les clous retrouvés dans l'acropole font écho au récit de Pausanias, mais ils ne constituent pas le bâtiment complet.
+
+Une substance précieuse peut remplir plusieurs fonctions : honorifique, figurative, sonore, rituelle, économique. Le métal votif peut être ensuite refondu, déplacé, réemployé ou déposé dans des contextes secondaires. Il ne faut pas confondre l'inventaire archéologique actuel avec la totalité des richesses consacrées au sanctuaire pendant plusieurs siècles.
+
+Le bronze donne aussi une durée visible aux images. Cette permanence relative mérite réflexion philosophique : l'objet conserve le nom d'un donateur ou une forme divine au-delà de son existence individuelle. Mais le matériau n'est pas un témoignage direct d'une croyance précise en une « immortalité du bronze ». La durée est une propriété technique transformée par des usages humains.
+
+### 10. Les niveaux géométriques : une pratique avant le décor monumental
+
+Les fouilles menées par Guy Dickins en 1907-1908 ont reconnu un niveau géométrique couvrant une partie importante du périmètre. Des traces de combustion, des restes animaux et des structures simples sont interprétés comme indices d'activités rituelles. Le sanctuaire possède donc une histoire matérielle antérieure à ses grands aménagements.
+
+L'existence de pratiques anciennes ne garantit pas que la Maison de bronze ait porté dès l'origine toutes les épiclèses, tous les cultes secondaires et tous les dispositifs que Pausanias verra plusieurs siècles après. Il faut séparer l'âge du terrain consacré, celui des premières offrandes, celui du décor métallique et celui des récits.
+
+Le rapport de Dickins, *Annual of the British School at Athens* 13 (1907), p. 137-154, et sa continuation dans le volume 14 (1908), p. 142-146, sont fondamentaux mais doivent être utilisés en tenant compte des limites des méthodes de fouille anciennes. L'archéologie n'est pas un enregistrement brut : le plan et la datation dépendent d'observations et de raisonnements révisables.
+
+### 11. Les campagnes de 1924-1928 : péribole, terrasses, bâtiments
+
+Les enquêtes d'A. M. Woodward, de M. B. Hobling et de leurs collègues ont étendu la recherche aux secteurs méridionaux. On y a identifié des éléments de péribole, des terrasses, un portique et les traces d'un édifice distinct. La construction du théâtre romain a modifié ou recouvert des états plus anciens.
+
+La synthèse de Rita Sassu (2024, p. 19-27) souligne un point essentiel : le temple principal d'Athéna ne peut pas encore être situé avec une certitude absolue à partir des vestiges visibles. Une construction méridionale était peut-être un sanctuaire secondaire ; certains chercheurs l'ont rapprochée du petit bâtiment où Pausanias le Régent trouva refuge, selon Thucydide. Mais la localisation demeure une hypothèse.
+
+Des fragments de tuiles portant le nom d'Athéna et des éléments d'ordre dorique nourrissent l'étude du bâtiment archaïque. Ils ne suffisent pas à imposer une restitution définitive. Toute vue 3D photoréaliste destinée à MYTHOS devra distinguer les parties fouillées, les volumes proposés et les zones où le plan reste indéterminé. Aucune restitution 2,5D ne doit être réintroduite.
+
+### 12. Armes, bijoux, bronzes et céramiques : une économie du don variée
+
+Le sanctuaire a fourni des statuettes, terres cuites, céramiques, instruments, fragments architecturaux, pointes de lance, broches de fer et objets de parure. Les dépôts invitent à nuancer l'image d'une dévotion entièrement guerrière. Une même enceinte pouvait réunir des offrandes liées à des usages corporels, à la protection, au prestige et à la mémoire.
+
+Des scories, des objets en fer et des traces de combustion évoquent des activités de travail du métal. Il ne faut cependant pas inventer à partir d'une fosse un arsenal permanent ou une manufacture publique. De même, l'existence d'une amphore panathénaïque parmi les trouvailles atteste la circulation d'un objet ; elle n'implique pas que les fêtes d'Athéna à Sparte copiaient exactement les Panathénées d'Athènes.
+
+Les objets ne témoignent pas tous de la même catégorie sociale. Une arme miniature n'a pas nécessairement été offerte par un hoplite ; un objet de parure n'a pas nécessairement été consacré par sa propriétaire. L'inscription et le contexte archéologique peuvent parfois préciser une pratique, mais les généralisations automatiques sont dangereuses.
+
+### 13. Les cloches votives : le son comme question historique
+
+Le dossier le plus singulier concerne les cloches votives. Dans la synthèse de Sassu (2024, p. 28-30), **trente-quatre cloches de bronze**, dont **sept portant une dédicace à Athéna**, sont signalées, ainsi que **plus d'une centaine de pièces comparables en argile**. Ce décompte décrit un corpus archéologique, non l'ensemble des objets qui furent jamais offerts.
+
+Plusieurs interprétations sont en débat. Les cloches auraient pu évoquer le choc des armes, le son des ateliers métallurgiques ou une fonction de protection apotropaïque. Certaines portent des noms de dédicantes, ce qui interdit de réduire l'ensemble à la seule expérience masculine du combat. L'analyse de Gagliano (2015) et les discussions de Villing invitent à conserver ces pistes comme des possibilités non exclusives.
+
+Le point de méthode est décisif : un objet capable de sonner n'est pas la preuve qu'il sonnait à chaque cérémonie. Les cloches miniatures et les exemplaires incomplets exigent une étude technique. L'image d'une « procession sonore de toutes les cloches » serait séduisante, mais elle n'est pas attestée par un texte rituel complet.
+
+### 14. Genre, statut social et offrandes privées
+
+L'abondance des petits objets remet en cause l'assimilation de la religion spartiate à la seule formation militaire des hommes. Des noms de femmes dans les dédicaces et la présence de miroirs, parures ou fusaïoles indiquent un espace cultuel socialement plus diversifié. Mais il faut distinguer le sexe ou le statut du dédicant explicitement inscrit de celui que l'on suppose à partir de la typologie.
+
+La protection des femmes et des enfants est une hypothèse examinée par la littérature actuelle ; elle trouve des indices dans les catégories d'offrandes, sans pouvoir devenir une « fonction de déesse mère » prétendument établie. Athéna demeure une divinité à compétences multiples, associée à la cité, aux artisans, à la protection et aux conflits.
+
+Un don modeste n'est pas moins religieux qu'une grande statue. Les petites cloches permettent de retrouver l'échelle individuelle de relations que les monuments politiques tendent à masquer. Mais l'archéologue peut enregistrer un acte de consécration, non lire intégralement l'émotion ou la demande qui l'accompagnait.
+
+### 15. Damonon, IG V 1, 213 : gagner, inscrire, consacrer
+
+La stèle de Damonon et de son fils Énymacratidas énumère des victoires dans différents concours et fournit un précieux témoignage de la culture agonistique de Sparte. La mention d'Athéna Poliouchos dans ce contexte rattache publicité du succès et horizon sacré. Il faut cependant distinguer le lieu de dédicace du lieu de toutes les compétitions énumérées.
+
+L'inscription démontre qu'une communauté réputée effacer l'individu pouvait immortaliser des noms et des accomplissements. Cette représentation publique n'annule pas les valeurs collectives ; elle en fait apparaître les distinctions admises. La recherche de Paul Christesen sur la stèle permet d'approfondir la question des compétitions, de leurs dates et de leur interprétation.
+
+Le dialecte et la chronologie du document doivent être établis à partir de l'édition épigraphique (IG V 1, 213), non d'une traduction vulgarisée. Aucune paraphrase ne remplace la lecture des lignes réellement conservées et des restitutions marquées comme telles.
+
+### 16. Athanaia et Promacheia : fêtes liées mais non identiques par défaut
+
+Les **Athanaia** sont connus notamment par **IG V 1, 777**, inscription évoquant les victoires d'un athlète nommé Aiglatas. Le nom fournit un témoin de concours liés à Athéna ; il ne suffit pas à reconstruire exactement leur calendrier, leur parcours ou leur relation aux Panathénées.
+
+Les **Promacheia** sont décrits par Sosibios dans un fragment cité par Athénée, *Deipnosophistes* XV, 674a-b (**FGrHist 595 F 4** selon la numérotation traditionnelle). Le texte oppose des jeunes du territoire périèque portant des couronnes ou des coiffures distinctives à ceux de l'agôgè qui se présentent sans ces couronnes.
+
+Cette distinction rituelle donne à voir une société différenciée : catégories de jeunes, appartenance civique, éducation et visibilité publique. Elle ne permet pas de réduire les périèques à une formule sociale unique, ni de décider que tous les garçons participaient partout de la même manière.
+
+Les hypothèses rapprochant Athanaia et Promacheia doivent être annoncées comme des hypothèses. Un même destinataire divin peut recevoir plusieurs fêtes distinctes. Confondre les célébrations pour produire une narration homogène ferait disparaître une information historique importante.
+
+### 17. Polybe IV, 35 : meurtre politique pendant un sacrifice
+
+Polybe IV, 35 rapporte qu'en **220 av. J.-C.**, lors d'une crise politique, des éphores furent attaqués pendant une cérémonie sacrificielle liée au sanctuaire de la Maison de bronze. La recherche moderne discute l'identification de cette cérémonie avec l'une des fêtes d'Athéna et souligne la présence d'un rassemblement armé et d'un sacrifice traditionnel.
+
+L'événement manifeste la portée politique d'un lieu religieux. Il ne prouve pas que la violence fût un rite ni que le sanctuaire l'autorisait. Au contraire, le caractère solennel du contexte rend la rupture plus spectaculaire. Un espace qui ordonne publiquement les participants devient le théâtre de la contestation de l'autorité.
+
+Le récit de Polybe doit être rapporté à la Sparte hellénistique, non projeté sur toutes les périodes du sanctuaire. Il ne doit pas davantage être fusionné avec l'affaire du Régent Pausanias : l'une concerne un meurtre pendant le sacrifice, l'autre la mise à mort indirecte d'un suppliant.
+
+### 18. Pausanias le Régent : du vainqueur à Platées au fugitif
+
+Le Pausanias de Thucydide n'est pas le Périégète du IIe siècle de notre ère. Le premier est le commandant lacédémonien associé à la victoire de Platées en **479 av. J.-C.**, devenu ensuite objet de soupçons de contacts avec le Grand Roi de Perse et d'intentions politiques dangereuses. Thucydide I, 128-133 raconte l'enquête, les lettres et les témoignages qui conduisent les éphores à vouloir l'arrêter.
+
+Le récit thucydidéen n'est pas la transcription intégrale d'un procès ni la preuve que toutes les accusations étaient factuellement exactes. C'est une reconstruction historiographique avec une perspective sur le pouvoir, la trahison et l'enquête. Ce qui importe ici est la séquence du refuge.
+
+Pausanias aperçoit le danger, court vers le sanctuaire d'Athéna Chalkioikos et se retire dans un petit bâtiment. Ce geste mobilise un droit ou une attente religieuse : le suppliant espère que l'enceinte interdira une prise par la violence. Les magistrats cherchent, de leur côté, à imposer la force coercitive de la communauté.
+
+### 19. Thucydide I, 134 : une frontière manipulée
+
+Selon Thucydide I, 134, 1-4, les éphores retirent la toiture du petit bâtiment, ferment les accès et laissent Pausanias s'épuiser. Avant qu'il n'expire à l'intérieur, ils le font sortir : il meurt presque aussitôt hors du lieu sacré. La distinction entre intérieur et extérieur révèle l'importance de la frontière religieuse.
+
+Le mot grec **οἴκημα** signifie une pièce ou un bâtiment ; il ne garantit pas l'identification avec le temple principal ni avec la structure méridionale fouillée au XXe siècle. Les restitutions architecturales doivent indiquer cette limite. La scène peut être expliquée sans inventer le plan exact des portes et des murs.
+
+Le paradoxe est politique : les magistrats reconnaissent suffisamment la gravité de l'interdit pour éviter en apparence une mort dans le sanctuaire, tout en organisant la mort de celui qui s'y réfugie. L'effort pour respecter la lettre d'une frontière devient le moyen d'en contourner la finalité.
+
+Le cas n'établit ni un droit d'asile absolu parfaitement appliqué en Grèce, ni l'absence de toute règle sacrée. Il montre une norme suffisamment forte pour faire naître des stratégies de contournement et, ensuite, une demande de réparation.
+
+### 20. Philologie religieuse : hikétēs, asylia, agos
+
+Le terme **ἱκέτης** désigne le suppliant ; **ἱκεσία**, la supplication ; **ἄσυλος**, ce qui est inviolable ; **ἄγος**, selon les contextes, la faute ou la souillure sacrale. Ces termes doivent être vérifiés dans chaque source : ils ne constituent pas les articles d'un code juridique uniforme. L'expression « asile politique » est utile comme comparaison contemporaine, mais elle doit rester explicitement anachronique.
+
+Thucydide I, 128, 2-3 et I, 135 montre comment des fautes anciennes commises à l'égard de lieux sacrés peuvent entrer dans les controverses entre cités. La souillure collective n'est pas une psychologie de culpabilité privée ; elle peut devenir une accusation publique pesant sur l'ensemble d'une communauté.
+
+Le traitement de Pausanias distingue la sanction coercitive, la protection religieuse et la réparation rituelle. Ces trois registres se rencontrent sans se fondre. L'histoire religieuse gagne à maintenir ce conflit plutôt qu'à décider que l'un serait « rationnel » et l'autre « superstitieux ».
+
+### 21. Delphes et les deux statues de bronze : remplacer sans ressusciter
+
+Dans la suite de Thucydide I, 134, 4-135, et chez Pausanias III, 17, 7, la mort du Régent suscite une intervention oraculaire. Delphes demande un traitement approprié du mort et la compensation due à la déesse ; deux statues de bronze sont érigées à titre de substitution.
+
+Le métal prend ici un sens différent de celui d'une offrande ordinaire. Les images matérialisent une dette créée par une faute. Elles ne ressuscitent pas le mort, ne réparent pas au sens moderne toutes les conséquences de l'acte et ne constituent pas nécessairement des portraits identifiables selon les critères de l'art romain.
+
+L'oracle d'Apollon prescrit une réponse dans le sanctuaire d'Athéna. Ce croisement ne suppose pas un système centralisé de prêtres du polythéisme. Il témoigne des possibilités d'arbitrage rituel et de la puissance normative reconnue à Delphes.
+
+Philosophiquement, la substitution montre que la communauté peut admettre publiquement un manque irréversible. Les corps de bronze sont des signes de la transgression et de sa reconnaissance, non un échange économique prouvant que deux statues « valent » la vie d'un homme.
+
+### 22. Pouvoir des éphores et limite sacrée de la cité
+
+La question de fond est celle de l'autorité. Les éphores pensent défendre la communauté contre un personnage dangereux ; leurs moyens offensent cependant le sanctuaire qui protège cette même communauté. La décision publique ne se légitime donc pas simplement parce qu'elle est prise par des magistrats.
+
+L'idée moderne de « raison d'État » peut servir d'outil comparatif, à condition de rappeler qu'il n'existait pas à Sparte d'État-nation souverain au sens contemporain. Les autorités évoluaient dans un ensemble de charges, de traditions et de relations religieuses propres à la polis.
+
+Le sanctuaire devient un lieu où la cité rencontre ses propres limites. On ne doit pas transformer Thucydide en philosophe constitutionnel qui aurait formulé expressément une doctrine de séparation des pouvoirs. Son récit donne néanmoins à penser la différence entre la capacité de contraindre un homme et la légitimité religieuse de la contrainte.
+
+Cette lecture évite deux excès : faire de Sparte une communauté d'une piété toujours exemplaire, ou réduire ses normes sacrées à de simples instruments cyniques parce qu'elles furent violées.
+
+### 23. Athéna, Aphrodite Areia et la pluralité de l'acropole
+
+Pausanias III, 17, 5 évoque un sanctuaire d'**Aphrodite Areia** (« guerrière ») derrière celui d'Athéna. D'autres attestations concernent Aphrodite **Basilis** et **Ambologera**. Les objets et épiclèses montrent un environnement religieux pluriel, difficile à réduire à l'opposition moderne entre « déesse de l'amour » et « déesse de la guerre ».
+
+La présence d'Aphrodite armée ou de témoignages à caractère martial ne signifie pas que toutes les pratiques de son culte furent militaires. Les fonctions des dieux sont flexibles et les communautés leur donnent des configurations locales.
+
+Le voisinage de Zeus, des Muses, des Dioscures, de Poséidon et des personnifications Thanatos et Hypnos (Pausanias III, 17-18) renforce cette complexité. Une topographie de cultes ne constitue pas une seule doctrine ; elle rassemble des puissances qui répondent à des situations humaines distinctes.
+
+Les hypothèses reliant le décor des Dioscures et des Leucippides à des rites de mariage ou de passage doivent être conservées comme interprétations argumentées, non comme description assurée de cérémonies accomplies au pied de chaque panneau.
+
+### 24. Les Muses et l'atelier : une Sparte artistique
+
+Pausanias III, 17, 5 associe les Muses au secteur d'Athéna. La tradition de Gitiadas, poète et artisan, ainsi que les figurines de musiciens retrouvées sur l'acropole, invitent à discuter les pratiques sonores et artistiques sans reprendre les représentations caricaturales d'une Sparte hostile à toute création.
+
+L'art pouvait participer à l'autorité collective : un hymne rassemblait les voix, une statue rendait visible un destinataire divin et une inscription conservait la mémoire d'une réussite. Toutefois, les textes ne permettent pas de reconstituer le morceau musical effectivement chanté pendant chaque cérémonie.
+
+Le rapprochement avec Athéna **Erganè**, protectrice des métiers, doit être fondé sur les témoignages locaux et sur l'archéologie de la production métallique ; il ne suffit pas de savoir qu'Athéna est associée aux artisans ailleurs en Grèce pour attribuer à Sparte un calendrier précis de fêtes du travail.
+
+### 25. Zeus Hypatos et Athéna Ophthalmitis : d'autres traditions du regard
+
+Pausanias III, 17, 6 mentionne une image ancienne de **Zeus Hypatos**, le « Très-Haut », réalisée selon une technique de bronze martelé. L'appréciation antique d'ancienneté ne constitue pas une datation stratigraphique ; elle doit être comparée aux objets techniquement identifiés.
+
+Pausanias III, 18, 2 et Plutarque, *Lycurgue* 11, donnent également des traditions autour d'Athéna **Ophthalmitis**, « de l'œil », et de la blessure de Lycurgue, frappé par Alcandre puis protégé d'une mutilation plus grave. Le récit relève de l'étiologie religieuse : il explique une dénomination par une expérience fondatrice.
+
+La comparaison avec le refuge du Régent Pausanias est éclairante. Dans les traditions, deux figures d'autorité peuvent se tourner vers Athéna face à une violence. L'une est associée au salut du regard, l'autre à une mort provoquée par des magistrats. Il serait abusif de transformer ces récits en une règle simple sur le sort de tout suppliant.
+
+### 26. La Maison de bronze comme trésor : une hypothèse économique
+
+Rita Sassu (2024, p. 30-31) envisage que l'accumulation de bronze et d'autres métaux puisse signaler une fonction de réserve collective, en parallèle avec les activités religieuses. L'hypothèse mérite attention : dans plusieurs sanctuaires grecs, les objets consacrés représentent une richesse durable et peuvent entrer dans des systèmes complexes d'inventaire.
+
+Mais les preuves d'une « banque sacrée » à Sparte ne sont pas établies par une seule concentration d'offrandes. Il faudrait des comptes explicites, des installations de stockage sans équivoque ou des documents attestant la gestion des dépôts pour le compte des institutions. Les métaux votifs peuvent s'accumuler sans constituer un trésor d'État administré.
+
+La comparaison avec l'acropole athénienne et l'Héraion de Samos sert à poser des questions, non à transférer directement les réponses. Il faut aussi tenir compte de la diversité des pratiques monétaires dans la Grèce archaïque et classique.
+
+### 27. Trois problèmes philosophiques
+
+**La présence :** un objet métallique, une statue ou une inscription donne une matérialité durable à la relation entre communauté et dieu. La présence cultuelle ne se confond pourtant pas avec la matière seule : elle dépend d'une reconnaissance, de gestes et de récits.
+
+**La limite :** le sanctuaire révèle que la force des autorités ne suffit pas à créer la légitimité. La tentative des éphores d'éviter une mort « dedans » sans renoncer à provoquer cette mort manifeste une tension entre forme juridique et finalité religieuse. La critique de cette tension est une lecture philosophique contemporaine, non un discours explicitement attribué à Thucydide.
+
+**La substitution :** les statues prescrites après la mort de Pausanias ne compensent pas biologiquement le vivant. Elles exposent une dette et constituent une forme de réparation symbolique. Il serait trompeur de les traiter comme des équivalents marchands d'une existence humaine.
+
+Ces analyses peuvent dialoguer avec des réflexions modernes sur l'institution, la reconnaissance ou la souveraineté ; elles ne doivent pas devenir une projection de Hegel ou de Nietzsche dans les intentions supposées de Gitiadas.
+
+### 28. Comparaisons prudentes : Athènes, Samos et les sanctuaires laconiens
+
+À Athènes, l'acropole unit Athéna Polias, les grands programmes figurés, des offrandes et des trésors documentés. La ressemblance fonctionnelle ne permet pas de supposer une architecture ou une organisation du culte identique à Sparte. La comparaison doit porter sur des dispositifs précis — temple, autel, dépôt, inscription — et des dates concordantes.
+
+Les cloches votives d'Athéna Chalkioikos sont comparables par leur type à des exemplaires de l'Héraion de Samos. La similitude d'objet ne prouve ni une liturgie commune ni une généalogie unique des déesses. Les échanges artisanaux et la circulation des formes peuvent suffire à expliquer certains rapprochements.
+
+Enfin, l'acropole spartiate ne se confond pas avec le sanctuaire d'Artémis Orthia, l'Amyklaion ou le Ménélaion. Les pratiques y sont distinctement attestées ; comparer les identités locales des bénéficiaires du culte n'implique pas un parcours cultuel commun dont aucune source ne donnerait le tracé.
+
+### 29. Chronologie raisonnée
+
+| Période | Document ou événement | Limite |
+|---|---|---|
+| Époque géométrique | Dépôts et indices rituels sur l'acropole | Ne documentent pas tout le programme monumental |
+| Époque archaïque | Développement du sanctuaire ; traditions d'Alcman et attribution à Gitiadas | Chronologie exacte des œuvres et fragments débattue |
+| VIe–Ve siècles av. J.-C. | Bronzes, cloches, inscriptions, inscriptions de concours | Les pièces n'ont pas toutes un contexte intact |
+| Ve siècle av. J.-C. | Damonon et mémoire agonistique ; événements liés à Pausanias le Régent | Sources de nature différente |
+| Après l'affaire de Pausanias | Prescription delphique et statues réparatrices selon Thucydide | Restitution matérielle et emplacement précis incertains |
+| 220 av. J.-C. | Meurtre des éphores pendant un sacrifice, Polybe IV, 35 | Identification précise de la fête non assurée |
+| IIe siècle apr. J.-C. | Description de Pausanias le Périégète | Témoin tardif de traditions et de monuments parfois anciens |
+| 1907–1908 | Campagnes de Guy Dickins | Interprétations à confronter aux fouilles ultérieures |
+| 1924–1928 | Campagnes Woodward-Hobling et études des objets | Remaniements romains et localisation du temple principal discutés |
+| 2024 | Synthèse de Rita Sassu | Mise en ordre de plusieurs hypothèses, non clôture de la recherche |
+
+### 30. Sources primaires et corpus épigraphique
+
+1. **Pausanias, *Description de la Grèce* III, 17, 1-9 ; III, 18, 1-2** : géographie de l'acropole, épiclèses d'Athéna, Tyndare, Gitiadas, scènes figurées, autres cultes, affaire du Régent, Athéna Ophthalmitis. Texte ancien en ligne : https://www.theoi.com/Text/Pausanias3B.html .
+2. **Thucydide, *Guerre du Péloponnèse* I, 10, 2 ; I, 128-135, spécialement I, 134, 1-4** : morphologie de Sparte ; accusations contre Pausanias, refuge, mise à mort et réparation. Traduction éditée : https://cts.perseids.org/read/greekLit/tlg0003/tlg001/1st1K-eng1/1.134.1-1.134.4 .
+3. **Polybe, *Histoires* IV, 35** : crise politique de 220 av. J.-C. et violence pendant une cérémonie sacrificielle sur l'acropole.
+4. **Sosibios, FGrHist 595 F 4**, cité par **Athénée, *Deipnosophistes* XV, 674a-b** : Promacheia et couronnes différenciées des jeunes.
+5. **Alcman, frr. 43 et 87c Page–Davies**, concordance **43 et 112 Calame** : témoignages fragmentaires et difficultés de transmission.
+6. **Plutarque, *Thésée* 31-34**, **Plutarque, *Lycurgue* 6 et 11** : Aphidna, traditions institutionnelles et Athéna protectrice du regard.
+7. **Hérodote IX, 73** : traditions et souvenirs concernant Aphidna et les rapports de l'Attique avec les Dioscures.
+8. **IG V 1, 213** (Damonon), **IG V 1, 777** (Athanaia), **IG V 1, 5**, l. 15 (mention de la Maison de bronze dans le contexte d'une inscription de proxénie), **SEG 2, 133-136, 151 ; SEG 11, 670** (dossier discuté pour Aphrodite Basilis). Il faut vérifier les lectures, restaurations et numéros dans les éditions, car une cote n'est pas une traduction.
+9. **Souda, s.v. Χαλκίοικος** ; **Hésychios, s.v. Χαλκίναος et Χαλκηδάνη** : formes grecques et étiologies concurrentes.
+10. **Inscriptions votives sur bronze, céramique, tuile estampillée et objets métalliques de l'acropole**, publiées dans l'*Annual of the British School at Athens*. Elles attestent des gestes matériels et ne doivent pas être confondues avec les récits mythiques.
+
+### 31. Bibliographie scientifique critique
+
+- **Sassu, Rita**, « The Acropolis of Sparta: the Cult of Athena and Other Gods », dans Giorgio Piras et Rita Sassu (dir.), *The Historical Review of Sparta*, Sapienza Università Editrice, **2024**, p. **11-40**. DOI de l'ouvrage : **10.13133/9788893773607**. Synthèse récente essentielle, accessible en PDF institutionnel : https://www.editricesapienza.it/sites/default/files/6371_9788893773607_THROS_2024_eBook.pdf .
+- **Dickins, Guy**, « Excavations at Sparta, 1907: § 7. The Hieron of Athena Chalkioikos », *Annual of the British School at Athens* **13** (1907), p. **137-154**. DOI **10.1017/S0068245400002860**.
+- **Dickins, Guy**, « Excavations at Sparta, 1908: § 6. The Hieron of Athena Chalkioikos », *ABSA* **14** (1908), p. **142-146**. DOI **10.1017/S0068245400003166**.
+- **Hondius, J. J. E., et Woodward, A. M.**, « I. Inscriptions », *ABSA* **24** (1921), p. **88-143**. DOI **10.1017/S0068245400010108**. Dédicaces de Chalkioikos et d'Orthia classées séparément.
+- **Woodward, A. M., et Hobling, M. B.**, « Excavations at Sparta, 1924-25: §4. The Acropolis. The Site », *ABSA*, rapport original des campagnes de 1924-1925 ; notice bibliographique : https://www.cambridge.org/core/journals/annual-of-the-british-school-at-athens/article/abs/excavations-at-sparta-192425-4the-acropolis-the-site/5EFF31D036E0D83E7CC8083E155102B3 .
+- **Woodward, A. M.**, « Excavations at Sparta, 1924-1928: I. The Theatre: Architectural Remains », *ABSA* **30** (1930), p. **151-240**. DOI **10.1017/S0068245400011539** ; lire avec les travaux complémentaires sur les inscriptions et le sanctuaire.
+- **Gagliano, E.**, « Μία χάλκειη κώδων νεά : Il suono di Athena. Realia e culto di Athena Chalkioikos a Sparta », *Annuario della Scuola Archeologica Italiana di Atene* **93** (2015), p. **81-112** d'après la notice bibliographique. Analyse des cloches, des objets et de la dimension sonore ; contrôler l'exemplaire pour une citation littérale.
+- **Richer, Nicolas**, *La religion des Spartiates : croyances et cultes dans l'Antiquité*, Paris, Les Belles Lettres, **2012**. Ouvrage de référence pour le système rituel lacédémonien.
+- **Christesen, Paul**, *A New Reading of the Damonon Stele*, **2019**, pour les enjeux de l'épigraphie agonistique.
+- **Cartledge, Paul**, « Sparta and Samos in the Archaic Period: a 'Special Relationship'? », *Classical Quarterly* **32** (1982), p. **243-265**. Cadre comparatif, non preuve d'une cérémonie identique.
+- **Piccirilli, Luigi**, « Il santuario, la funzione guerriera della dea, la regalità: il caso di Athena Chalkioikos », dans Marta Sordi (dir.), *I santuari e la guerra nel mondo classico*, Milan, **1984**, p. **3-19**.
+- **Powell, Anton** (dir.), *A Companion to Sparta*, Wiley-Blackwell, **2018**, deux volumes. Approches critiques des institutions.
+- **British School at Athens**, « Sparta Begins: 1906-1910 BSA Sparta Excavations in the SPHS Collection », **24 février 2022** : https://www.bsa.ac.uk/2022/02/24/sparta-begins-1906-1910-bsa-sparta-excavations-in-the-sphs-collection/ .
+- **British School at Athens**, « Return to Sparta: the 1924-1927 BSA Excavations at Sparta in the SPHS Collection », **31 mars 2022** : https://www.bsa.ac.uk/2022/03/31/return-to-sparta/ .
+- **BSA Digital Collections**, « Excavations at Sparta, 1907 », notice de terrain : https://digital.bsa.ac.uk/fieldwork.php?project=167 .
+- **Villing, Alexandra**, travaux de **2002** sur les cloches dans les cultes grecs, cités dans Sassu 2024, p. 28-30 : vérifier le titre et la pagination de l'édition effectivement consultée avant toute citation directe.
+
+### 32. Propositions iconographiques scientifiques pour MYTHOS
+
+**Planche A : vestiges réels.** Photographie actuelle de l'acropole spartiate avec orientation, date et indication des parties antiques conservées. Le fichier Wikimedia Commons intitulé « Temple of Athena Chalkioikos 02.jpg » peut servir de point de départ après contrôle de sa licence et de ses métadonnées. Légende obligatoire : « L'emplacement exact du temple principal demeure discuté ».
+
+**Planche B : plan des phases de fouilles.** Dessin scientifique original confrontant les relevés de Dickins, de Woodward et la synthèse de Sassu (2024, fig. 2). Colorer séparément les éléments attestés, les hypothèses et les remaniements romains. Ne jamais présenter un plan composite comme une photographie de l'état du Ve siècle.
+
+**Planche C : tuiles portant le nom d'Athéna.** Photographie archéologique institutionnelle, transcription paléographique et échelle. Indiquer ce qui est lu et ce qui est restitué, sans inventer de séquence complète.
+
+**Planche D : cloches votives.** Illustrer plusieurs exemplaires en bronze et terre cuite, avec inventaire de musée, dimensions et éventuelle dédicace. Séparer les objets réellement sonores des miniatures.
+
+**Planche E : figurines d'Athéna Promachos et armes votives.** Photographier ou reproduire sous licence des pièces identifiées du Musée archéologique de Sparte. Une figurine armée n'est pas nécessairement la copie réduite exacte de la statue de Gitiadas.
+
+**Planche F : le programme figuré de Pausanias.** Infographie moderne listant les mythes sur les panneaux de bronze, avec références à III, 17, 3. Éviter tout faux relevé affirmant connaître l'emplacement de chaque scène.
+
+**Planche G : le musicien ou « trompettiste » de l'acropole.** Utiliser, après vérification des droits, la photographie historique BSA SPHS 01/4459.9144. Mentionner l'incertitude sur l'identification instrumentale et ne pas attribuer l'objet à Gitiadas.
+
+**Planche H : l'affaire du Régent.** Schéma topographique non spectaculaire distinguant enceinte, autel, bâtiment possible et lieu de décès selon Thucydide. Si une restitution photoréaliste est produite, afficher clairement qu'il s'agit d'une hypothèse ; ne pas ressusciter les anciennes images 2,5D.
+
+Chaque image doit porter source institutionnelle, auteur, licence, datation, provenance, niveau de certitude, légende scientifique et texte alternatif. Une image narrative n'est jamais une photographie du rituel antique.
+
+### 33. Problèmes ouverts et programme de contrôle
+
+La première question concerne l'architecture : le temple principal est-il dans une zone encore insuffisamment explorée et quelle construction pouvait constituer l'oikema de Thucydide ? La seconde touche aux cloches : peut-on établir des associations chronologiques entre noms inscrits, techniques de fabrication et autres objets votifs ? La troisième porte sur les fêtes : quelles inscriptions permettraient de distinguer plus précisément Athanaia et Promacheia ?
+
+Une quatrième question est économique : quelles données nouvelles seraient nécessaires pour confirmer un véritable stockage collectif de métaux dans le sanctuaire ? La cinquième concerne les représentations : les images de bronze de Gitiadas permettaient-elles de rendre visible une conception spécifique de la communauté lacédémonienne, et comment éviter de confondre l'interprétation moderne avec l'intention antique ?
+
+Ces incertitudes ne constituent pas des défauts à masquer. Elles déterminent les conditions d'un savoir universitaire révisable. Le chapitre pourra être enrichi à son chemin et numéro actuels après attribution, mais ne doit jamais être redéposé sous une nouvelle identité pour contourner une erreur ou une concurrence.
+
+### Conclusion
+
+La Maison de bronze d'Athéna révèle une Sparte de bronziers, de poètes, de dédicantes, d'athlètes et de magistrats autant que de soldats. Les récits de fondation attribuent au sanctuaire une généalogie héroïque ; les fouilles attestent un lieu cultuel complexe ; les inscriptions témoignent de gestes collectifs et individuels ; les cloches ajoutent une interrogation sur les formes sonores de la présence divine.
+
+L'affaire de Pausanias le Régent en constitue l'épreuve la plus aiguë. Pour défendre l'ordre de la cité, des magistrats ont contourné la protection d'un suppliant, puis la communauté a dû reconnaître une faute et répondre par une réparation prescrite. Athéna Poliouchos n'est donc pas seulement la déesse qui rend le pouvoir visible : elle marque aussi un domaine où ce pouvoir peut se découvrir coupable.
+
+La meilleure histoire de ce sanctuaire n'efface ni les contradictions des sources, ni les incertitudes du terrain. Elle décrit ce qui est attesté, puis explique pourquoi les questions encore ouvertes importent pour comprendre le polythéisme grec, la mémoire politique et la puissance des objets sacrés.
+
+---
+
+*Notice éditoriale. Collection : encyclopedie. Aucun numéro n'est réservé par une ancienne cote 134/135, par ce manuscrit ou par son dépôt. L'intégration doit passer uniquement par la file JSON à UUID unique ; l'attribution et le déploiement public doivent être contrôlés séparément. Aucune planification horaire n'est modifiée.*

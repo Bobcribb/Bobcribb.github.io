@@ -876,6 +876,36 @@
         "url": "/chapitres/encyclopedie/chapitre-448-amphiaraos-amphiareion-oropos-devin-incubation-guerison-epigraphie/",
         "title": "Chapitre 448 — Amphiaraos et l'Amphiaréion d'Oropos : le devin englouti, le sommeil guérisseur et les frontières du savoir",
         "source": "chapitres/encyclopedie/chapitre-448-amphiaraos-amphiareion-oropos-devin-incubation-guerison-epigraphie.md"
+      },
+      {
+        "number": 449,
+        "url": "/chapitres/encyclopedie/chapitre-449-athena-chalkioikos-sparta-acropole-gitiadas-bronze-asylie/",
+        "title": "Chapitre 449 — Athéna Chalkioikos à Sparte : la Maison de bronze, Gitiadas, les cloches votives et le droit d'asile face aux éphores",
+        "source": "chapitres/encyclopedie/chapitre-449-athena-chalkioikos-sparta-acropole-gitiadas-bronze-asylie.md"
+      },
+      {
+        "number": 450,
+        "url": "/chapitres/encyclopedie/chapitre-450-trophonios-lebadee-descente-oraculaire-lethe-mnemosyne-herkyna/",
+        "title": "Chapitre 450 — Trophonios de Lébadée : descendre sous terre pour connaître l'avenir — l'oubli, la mémoire, la révélation et le pouvoir de l'oracle",
+        "source": "chapitres/encyclopedie/chapitre-450-trophonios-lebadee-descente-oraculaire-lethe-mnemosyne-herkyna.md"
+      },
+      {
+        "number": 451,
+        "url": "/chapitres/encyclopedie/chapitre-451-apollon-ismenios-thebes-ismenton-melia-trepieds-daphnephorie-oracle/",
+        "title": "Chapitre 451 — Apollon Isménios à Thèbes : l’oracle des sacrifices, les trépieds de mémoire, la nymphe Mélia et la procession du laurier",
+        "source": "chapitres/encyclopedie/chapitre-451-apollon-ismenios-thebes-ismenton-melia-trepieds-daphnephorie-oracle.md"
+      },
+      {
+        "number": 452,
+        "url": "/chapitres/encyclopedie/chapitre-452-helene-menelas-menelaion-therapne-epigraphie-cultes-memoire/",
+        "title": "Chapitre 452 — Hélène et Ménélas au Ménélaion de Thérapné : mémoire mycénienne, culte héroïque, épiphanie et souveraineté lacédémonienne",
+        "source": "chapitres/encyclopedie/chapitre-452-helene-menelas-menelaion-therapne-epigraphie-cultes-memoire.md"
+      },
+      {
+        "number": 453,
+        "url": "/chapitres/encyclopedie/chapitre-453-apollon-amyklaios-hyakinthos-amyklaion-hyakinthies-bathykles/",
+        "title": "Chapitre 453 — Apollon Amyklaios et Hyakinthos : le trône, le tombeau et les Hyakinthies au sanctuaire d'Amyclées",
+        "source": "chapitres/encyclopedie/chapitre-453-apollon-amyklaios-hyakinthos-amyklaion-hyakinthies-bathykles.md"
       }
     ],
     "tragedies": [
@@ -3155,6 +3185,54 @@
         "url": "/chapitres/comparatif/volume-cclxvii-mc-081-porter-le-ciel-atlas-shou-skambha-cosmographies-architecture-du-monde/",
         "title": "Volume CCLXVII (267) — MC-081 — Porter le ciel : Atlas, Shou, Skambha et les soutiens du cosmos, de Sumer au monde maya",
         "source": "chapitres/comparatif/volume-cclxvii-mc-081-porter-le-ciel-atlas-shou-skambha-cosmographies-architecture-du-monde.md"
+      },
+      {
+        "number": 268,
+        "url": "/chapitres/comparatif/volume-cclxviii-mc-083-ravir-sans-posseder-feu-me-soma-plante-jeunesse-transferts-divins/",
+        "title": "Volume CCLXVIII (268) — Transferts de puissance, droit de donner et limites de l'appropriation dans les mythes grecs, sumériens, védiques et babyloniens",
+        "source": "chapitres/comparatif/volume-cclxviii-mc-083-ravir-sans-posseder-feu-me-soma-plante-jeunesse-transferts-divins.md"
+      },
+      {
+        "number": 269,
+        "url": "/chapitres/comparatif/volume-cclxix-grenouilles-iacchos-choeur-inities-purete-rituelle-citoyennete-405/",
+        "title": "Volume CCLXIX (269) — Qui peut entrer dans le chœur ? Iacchos, les initiés et la purification politique dans les Grenouilles d’Aristophane (405 av. notre ère)",
+        "source": "chapitres/comparatif/volume-cclxix-grenouilles-iacchos-choeur-inities-purete-rituelle-citoyennete-405.md"
+      },
+      {
+        "number": 270,
+        "url": "/chapitres/comparatif/volume-cclxx-mc-085-accorder-les-jours-calendriers-sacres-epagomenes-intercalation-temps-rituel/",
+        "title": "Volume CCLXX (270) — MC-085 — Accorder les jours : calendriers sacrés, jours épagomènes, lunes intercalaires et souveraineté du temps",
+        "source": "chapitres/comparatif/volume-cclxx-mc-085-accorder-les-jours-calendriers-sacres-epagomenes-intercalation-temps-rituel.md"
+      },
+      {
+        "number": 271,
+        "url": "/chapitres/comparatif/volume-cclxxi-mc-084-animaux-divins-montures-emblemes-incarnations-souverainete/",
+        "title": "Volume CCLXXI (271) — MC-084 — Les animaux des dieux : montures, emblèmes, manifestations et souveraineté, du lion d'Inanna à Garuḍa, d'Horus aux chevaux de Poséidon",
+        "source": "chapitres/comparatif/volume-cclxxi-mc-084-animaux-divins-montures-emblemes-incarnations-souverainete.md"
+      },
+      {
+        "number": 272,
+        "url": "/chapitres/comparatif/volume-cclxxii-grenouilles-balance-vers-mesure-poesie-echec-critique-jugement-405/",
+        "title": "Volume CCLXXII (272) — Peser la poésie, juger la cité : la balance des vers et l'échec de l'expertise dans les Grenouilles d'Aristophane (405 av. notre ère)",
+        "source": "chapitres/comparatif/volume-cclxxii-grenouilles-balance-vers-mesure-poesie-echec-critique-jugement-405.md"
+      },
+      {
+        "number": 273,
+        "url": "/chapitres/comparatif/volume-cclxxiii-grenouilles-iacchos-inities-purete-exclusions-politiques-memoire-eleusis-405/",
+        "title": "Volume CCLXXIII (273) — Qui peut chanter dans l'Hadès ? Iacchos, initiation, pureté de l'esprit et frontières de la communauté dans les Grenouilles d'Aristophane (405 av. n. è.)",
+        "source": "chapitres/comparatif/volume-cclxxiii-grenouilles-iacchos-inities-purete-exclusions-politiques-memoire-eleusis-405.md"
+      },
+      {
+        "number": 274,
+        "url": "/chapitres/comparatif/volume-cclxxiv-lysistrata-myrrhine-cinesias-lit-serment-apate-homere-negociation-411/",
+        "title": "Volume CCLXXIV (274) — Gouverner le désir par le délai : Myrrhinè, Cinésias, le lit improvisé et la ruse d'Héra dans la Lysistrata d'Aristophane (411 av. notre ère)",
+        "source": "chapitres/comparatif/volume-cclxxiv-lysistrata-myrrhine-cinesias-lit-serment-apate-homere-negociation-411.md"
+      },
+      {
+        "number": 275,
+        "url": "/chapitres/comparatif/volume-cclxxv-mc-082-couleurs-du-sacre-pigments-corps-divins-polychromie-egypte-mesopotamie-grece-perse-israel-inde/",
+        "title": "Volume CCLXXV (275) — MC-082 — Les couleurs du sacré : pigments, corps divins, matériaux précieux et polychromie, de l’Égypte à la Mésopotamie, de la Grèce à la Perse, d’Israël à l’Inde védique",
+        "source": "chapitres/comparatif/volume-cclxxv-mc-082-couleurs-du-sacre-pigments-corps-divins-polychromie-egypte-mesopotamie-grece-perse-israel-inde.md"
       }
     ],
     "comedies": [
@@ -3859,6 +3937,30 @@
         "url": "/chapitres/comedies/volume-117-magnes-ornithes-oiseaux-ailes-scholie-presage-transmission/",
         "title": "Volume CXVII (117) — Magnès, Ornithes (Ὄρνιθες, « Les Oiseaux ») : une pièce perdue entre mémoire du chœur, interprétation des scholies et politique du visible",
         "source": "chapitres/comedies/volume-117-magnes-ornithes-oiseaux-ailes-scholie-presage-transmission.md"
+      },
+      {
+        "number": 118,
+        "url": "/chapitres/comedies/volume-118-magnes-fragments-incertains-7-8-amphoriskos-aprostomon-photios-pollux/",
+        "title": "Volume CXVIII (118) — Magnès, fragments de pièces indéterminées 7–8 K.-A. : l'amphoriskos, l'épée « sans tranchant » et la vie des mots sauvés par les lexiques",
+        "source": "chapitres/comedies/volume-118-magnes-fragments-incertains-7-8-amphoriskos-aprostomon-photios-pollux.md"
+      },
+      {
+        "number": 119,
+        "url": "/chapitres/comedies/volume-119-magnes-pytakides-fragment-6-serment-nunde-titakides-photios/",
+        "title": "Volume CXIX (119) — Magnès, Pytakidēs (Πυτακίδης) — Le serment retourné, le temps des mots et l'identité incertaine d'une comédie perdue",
+        "source": "chapitres/comedies/volume-119-magnes-pytakides-fragment-6-serment-nunde-titakides-photios.md"
+      },
+      {
+        "number": 120,
+        "url": "/chapitres/comedies/volume-120-magnes-psenes-figues-caprification-symbiose-scholies/",
+        "title": "Volume CXX (120) — Magnès, Psēnes (Ψῆνες, « Les Guêpes du figuier ») : la caprification, les voix animales et l'authenticité incertaine d'un titre comique",
+        "source": "chapitres/comedies/volume-120-magnes-psenes-figues-caprification-symbiose-scholies.md"
+      },
+      {
+        "number": 121,
+        "url": "/chapitres/comedies/volume-121-menandros-ii-souda-589-homonymie-ancien-sans-fragments/",
+        "title": "Volume CXXI (121) — Ménandre II (Μένανδρος ὁ ἀρχαῖος) : l'autre Ménandre, l'homonymie des poètes, la Souda et l'histoire d'une œuvre sans fragments",
+        "source": "chapitres/comedies/volume-121-menandros-ii-souda-589-homonymie-ancien-sans-fragments.md"
       }
     ],
     "origines-du-sacre": [
@@ -5343,6 +5445,60 @@
         "url": "/chapitres/origines-du-sacre/697-palmyre-tours-hypogees-trois-freres-portraits-inscriptions-maison-eternite/",
         "title": "Chapitre 697 — Habiter l'éternité à Palmyre : tours funéraires, hypogées, « maison pour toujours », portraits et droit des tombeaux dans la Syrie romaine",
         "source": "chapitres/origines-du-sacre/697-palmyre-tours-hypogees-trois-freres-portraits-inscriptions-maison-eternite.md"
+      },
+      {
+        "number": 698,
+        "url": "/chapitres/origines-du-sacre/698-khaybar-alula-avenues-funeraires-tombes-pendentifs-bronze/",
+        "title": "Chapitre 698 — Les avenues funéraires de Khaybar et d'al-ʿUlā : tombes à pendentifs, routes pastorales et mémoire territoriale dans l'Arabie du Bronze",
+        "source": "chapitres/origines-du-sacre/698-khaybar-alula-avenues-funeraires-tombes-pendentifs-bronze.md"
+      },
+      {
+        "number": 699,
+        "url": "/chapitres/origines-du-sacre/699-arabie-avenues-funeraires-oasis-khaybar-alula-mobilite-pastorale/",
+        "title": "Chapitre 699 — Chapitre 699 — Routes bordées de morts : avenues funéraires, oasis, eau et mobilité pastorale dans l'Arabie du Nord-Ouest de l'âge du Bronze",
+        "source": "chapitres/origines-du-sacre/699-arabie-avenues-funeraires-oasis-khaybar-alula-mobilite-pastorale.md"
+      },
+      {
+        "number": 700,
+        "url": "/chapitres/origines-du-sacre/700-tayma-rujum-sasa-al-nasim-sepultures-bronze-arabie/",
+        "title": "Chapitre 700 — Chapitre 700 — Rujum Saʿsaʿ et al-Nasīm : les paysages funéraires de l'âge du Bronze à Taymāʾ",
+        "source": "chapitres/origines-du-sacre/700-tayma-rujum-sasa-al-nasim-sepultures-bronze-arabie.md"
+      },
+      {
+        "number": 701,
+        "url": "/chapitres/origines-du-sacre/701-mustatils-harrat-khaybar-alula-cornes-ruminants-offrandes-neolithique/",
+        "title": "Chapitre 701 — Les mustatils du Harrat Khaybar et d'al-ʿUlā : architectures néolithiques, cornes de ruminants et offrandes aux puissances inconnues",
+        "source": "chapitres/origines-du-sacre/701-mustatils-harrat-khaybar-alula-cornes-ruminants-offrandes-neolithique.md"
+      },
+      {
+        "number": 702,
+        "url": "/chapitres/origines-du-sacre/702-al-bad-mughayir-shuayb-asifir-necropoles-nabateennes-architecture/",
+        "title": "Chapitre 702 — Chapitre 702 — Façonner la montagne pour les morts : Mughāyir Shuʿayb et al-Aṣīfir, les nécropoles nabatéennes d'al-Badʿ",
+        "source": "chapitres/origines-du-sacre/702-al-bad-mughayir-shuayb-asifir-necropoles-nabateennes-architecture.md"
+      },
+      {
+        "number": 703,
+        "url": "/chapitres/origines-du-sacre/703-hegra-nabateens-inscriptions-droits-tombeaux-amendes-neheme/",
+        "title": "Chapitre 703 — Chapitre 703 — Écrire le droit des morts : Hégra, tombeaux nabatéens, propriété familiale et sanctions sacrées",
+        "source": "chapitres/origines-du-sacre/703-hegra-nabateens-inscriptions-droits-tombeaux-amendes-neheme.md"
+      },
+      {
+        "number": 704,
+        "url": "/chapitres/origines-du-sacre/704-dadan-lihyan-tombeaux-lions-epigraphie-funeraire-khuraybah/",
+        "title": "Chapitre 704 — Chapitre 704 — Les lions gardent-ils les morts ? Dadan, Liḥyān, inscriptions funéraires et nécropole rupestre d'al-Khuraybah",
+        "source": "chapitres/origines-du-sacre/704-dadan-lihyan-tombeaux-lions-epigraphie-funeraire-khuraybah.md"
+      },
+      {
+        "number": 705,
+        "url": "/chapitres/origines-du-sacre/705-petra-nabateens-tombes-rupestres-north-ridge-inscriptions-necropolis/",
+        "title": "Chapitre 705 — Chapitre 705 — Habiter la roche après la mort : Pétra, nécropoles nabatéennes, parenté, corps et architectures de mémoire",
+        "source": "chapitres/origines-du-sacre/705-petra-nabateens-tombes-rupestres-north-ridge-inscriptions-necropolis.md"
+      },
+      {
+        "number": 706,
+        "url": "/chapitres/origines-du-sacre/706-khaybar-harrat-al-natah-tombes-alveolaires-stratigraphie-bronze/",
+        "title": "Chapitre 706 — Chapitre 706 — Entre les avenues et la ville : les tombeaux de Harrat al-Natah à Khaybar, stratigraphie, petits caveaux et transformations funéraires de l'âge du Bronze",
+        "source": "chapitres/origines-du-sacre/706-khaybar-harrat-al-natah-tombes-alveolaires-stratigraphie-bronze.md"
       }
     ]
   },
