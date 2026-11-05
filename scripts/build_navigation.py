@@ -378,6 +378,60 @@ def numbered_works(items, kind):
         for e in items
     )+'</ul>'
 
+def origins_additional_index(by_number, source_root=Path("."), rendered_root=OUT):
+    """Index all subsequent attributed manuscripts without copying or renumbering them."""
+    source_root, rendered_root = Path(source_root), Path(rendered_root)
+    studies = []
+    for number in sorted((n for n in by_number if n >= 491), reverse=True):
+        entry = by_number[number]
+        url = entry["url"]
+        if not url.startswith(f"/chapitres/origines-du-sacre/{number}-") or not url.endswith("/"):
+            raise RuntimeError(f"Origines du sacré : URL canonique incohérente {number}: {url}")
+        source = source_root / (url.strip("/") + ".md")
+        reader = rendered_root / url.strip("/") / "index.html"
+        if not source.is_file() or not reader.is_file():
+            raise RuntimeError(f"Origines du sacré : texte intégral ou lecteur absent : {url}")
+        markdown = source.read_text(encoding="utf-8")
+        if len(markdown) < 2000:
+            raise RuntimeError(f"Origines du sacré : étude anormalement courte : {url}")
+        h1 = re.search(r"(?m)^#\s+(.+)$", markdown)
+        h2 = re.search(r"(?m)^##\s+(.+)$", markdown)
+        scientific = re.match(rf"(?i)^Chapitre\s+{number}\s*[—:-]\s*(.+)$", h1.group(1)) if h1 else None
+        if scientific:
+            title = scientific.group(1)
+        elif h2:
+            title = h2.group(1)
+        else:
+            title = entry.get("title", "")
+        title = re.sub(r"[`*_]", "", title).strip()
+        if not title or re.match(r"(?i)^résumé(?:\s+scientifique)?$", title):
+            raise RuntimeError(f"Origines du sacré : titre scientifique absent : {url}")
+        studies.append((number, url, title))
+    if not studies:
+        return ""
+    featured, archived = studies[:6], studies[6:]
+    cards = "".join(
+        '<a class="origins-research-card" href="' + esc(url) + '">'
+        '<span>CHAPITRE ' + str(number) + '</span><strong>' + esc(title) + '</strong>'
+        '<small>Étude intégrale · sources et bibliographie</small></a>'
+        for number, url, title in featured)
+    accordions = []
+    for offset in range(0, len(archived), 25):
+        group = archived[offset:offset+25]
+        items = "".join('<li><a href="' + esc(url) + '">Chapitre ' + str(n) +
+                        ' — ' + esc(title) + '</a></li>' for n, url, title in group)
+        accordions.append(
+            '<details class="origins-research-archive"><summary>Chapitres '
+            + str(group[-1][0]) + "–" + str(group[0][0])
+            + " · " + str(len(group)) + " études</summary><ol>" + items + "</ol></details>")
+    return ('<section class="portal-section origins-research-index" '
+            'id="origines-etudes-complementaires"><h2>Études universitaires complémentaires</h2>'
+            '<p class="section-intro">' + str(len(studies))
+            + ' chapitres attribués depuis le chapitre 491 ; textes intégraux disponibles, '
+            'sans réédition ni doublon. Les six plus récents sont accessibles directement.</p>'
+            '<div class="origins-research-grid">' + cards + "</div>"
+            + "".join(accordions) + "</section>")
+
 def create_origins(entries):
     """Catalogue exhaustif des 48 chapitres présents (443 à 490), sans doubler les textes."""
     corpus=[e for e in entries if e["url"].startswith("/chapitres/origines-du-sacre/")]
@@ -493,7 +547,7 @@ def create_origins(entries):
     volumes_html = '<section class="origins-volumes"><h2>Les 27 tomes — édition intégrale</h2><p>Vingt-sept volumes pour explorer les origines du sacré, de la préhistoire aux grandes civilisations, à travers les mythes, les rites, les dieux et les sociétés.</p><div class="origins-volume-grid">'+''.join('<a class="origins-volume" href="'+esc(url)+'"><span class="origins-volume-copy"><strong>'+esc(label)+'</strong><span class="origins-volume-title">'+esc(title)+'</span><span class="origins-volume-read" aria-label="Lire '+esc(label)+'">→</span></span></a>' for url,label,title in integral_volumes)+'</div></section>'
     dossier_images = [("mythos-demeter-porcelet-terre-cuite-athenes-cma-1926-521.jpg","Rites et sacrifices"),("mythos-bronze-artemision-zeus-ou-poseidon.jpg","Les grandes divinités"),("delphes-temple-apollon-bernard-gagnon.jpg","Lieux sacrés"),("mythos-dionysos-kylix-brygos-bnf-576.jpg","Sociétés et cultures"),("mythos-ounas-chambre-funeraire-vincent-brown.jpg","Pratiques funéraires")]
     dossier_preview = '<section class="origins-dossier-preview"><div class="origins-dossier-summary"><h2>Dossiers thématiques historiques</h2><p>48 dossiers conservés</p><p>Une sélection de dossiers pour approfondir les grandes thématiques : rites, divinités, sociétés, lieux sacrés, pratiques funéraires, et bien plus encore.</p><a class="origins-dossier-button" href="#dossiers-historiques">Accéder aux 48 dossiers →</a></div><div class="origins-dossier-gallery">'+''.join('<figure><img src="/media/2026/10/'+esc(img)+'" alt="'+esc(caption)+'" loading="lazy"><figcaption>'+esc(caption)+'</figcaption></figure>' for img,caption in dossier_images)+'</div></section>'
-    body = hero+volumes_html+dossier_preview+'<div class="origins-archives">'+body+'</div>'
+    body = hero+volumes_html+origins_additional_index(by_number)+dossier_preview+'<div class="origins-archives">'+body+'</div>'
     write("origines-du-sacre",shell("Origines du sacré — 27 tomes intégraux et dossiers thématiques MYTHOS",body).replace("<body>", '<body class="origins-landing">'))
 
 

@@ -1432,3 +1432,21 @@ body.mythos-design #corpus-status [data-corpus-count]{
 @media (max-width: 680px) {
   #etude-behistun .portal-grid { grid-template-columns: minmax(0, 1fr); }
 }
+
+/* Accès aux monographies réellement attribuées après les 48 dossiers historiques. */
+.origins-research-index{margin:2rem 0;padding:clamp(1.15rem,3vw,2rem);border:1px solid #8c7149;border-radius:8px;background:#101719;color:#eddfc5}
+.origins-research-index h2{color:#e7c68c}
+.origins-research-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:.85rem;margin:1.25rem 0}
+.origins-research-card{min-width:0;display:flex;flex-direction:column;gap:.6rem;padding:1.1rem;border:1px solid #79613f;border-radius:6px;background:#172023;text-decoration:none;color:#efe5d0;overflow-wrap:anywhere}
+.origins-research-card>span{font:700 .73rem/1.45 system-ui;letter-spacing:.09em;color:#d4b77b}
+.origins-research-card strong{font:1.13rem/1.42 Georgia,serif;color:#f6ddaa}
+.origins-research-card small{font:.85rem/1.5 system-ui;color:#d5c7ab;margin-top:auto}
+.origins-research-card:hover,.origins-research-card:focus-visible{background:#202d30;outline:3px solid #e5c084;outline-offset:2px}
+.origins-research-archive{margin:.6rem 0;border:1px solid #5c4b35;border-radius:5px;background:#151d1f}
+.origins-research-archive summary{min-height:44px;padding:.85rem;cursor:pointer;color:#f1d49b;font-weight:650}
+.origins-research-archive summary:focus-visible,.origins-research-archive a:focus-visible{outline:3px solid #e5c084;outline-offset:2px}
+.origins-research-archive ol{padding:0 1.1rem 1rem 2.5rem;columns:2;column-gap:2rem}
+.origins-research-archive li{break-inside:avoid;padding:.35rem 0}
+.origins-research-archive a{color:#e9d6b2;overflow-wrap:anywhere;text-underline-offset:3px}
+@media(max-width:850px){.origins-research-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:600px){.origins-research-grid{grid-template-columns:1fr}.origins-research-archive ol{columns:1}.origins-research-index{padding:1rem}}
