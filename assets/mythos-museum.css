@@ -120,7 +120,7 @@ body.mythos-design .mythos-bottom-gallery[data-editorial-gallery="subject-v2"] i
 
 body.mythos-design.origins-landing main.layout.portal-layout.visual-rails-active{width:100%!important;max-width:none!important;padding:0 0 60px!important}
 
-@media(max-width:700px){body.mythos-design .mythos-banner{min-height:340px!important;padding:150px 18px 28px!important;background-size:auto 160px!important;background-position:center top!important;background-color:#090e10!important}.mythos-banner::before{background:linear-gradient(180deg,transparent 90px,#090e10 160px)!important}}
+@media(max-width:700px){body.mythos-design .mythos-banner{min-height:340px!important;padding:150px 18px 28px!important;background-size:100% auto!important;background-position:center top!important;background-color:#090e10!important}.mythos-banner::before{background:linear-gradient(180deg,transparent 90px,#090e10 160px)!important}}
 
 /* MYTHOS responsive/accessibility pass — 2026-11-04: editorial navigation. */
 /* The heading of a long scholarly table of contents is centred without
