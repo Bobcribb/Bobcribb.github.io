@@ -1136,7 +1136,10 @@ def create_comparative_mythology(entries):
       ("/bibliotheque-perse-iran-ancien/","Perse et Iran","Textes et traditions iraniennes."),
       ("/bibliotheque-mythologies-du-monde/mythologie-inde-vedas-puranas-vishnu-shiva-devi/","Inde","Veda et Purāṇa."),
       ("/mythologies/","Autres traditions","Chine, Japon et Amériques.")]))
-    body+='<nav class="comparison-toc" aria-label="Axes de comparaison">'+''.join('<a href="#comparaison-'+str(i)+'">'+esc('MC-'+str(i).zfill(2)+' · '+title)+'</a>' for i,(title,_) in enumerate(topics,1))+'</nav>'
+    body+=('<nav class="comparison-toc" aria-label="Axes de comparaison">'
+           + ''.join('<a href="#comparaison-'+str(i)+'">'+esc('MC-'+str(i).zfill(2)+' · '+title)+'</a>'
+                     for i,(title,_) in enumerate(topics,1))
+           + '<a href="#comparaison-autres">Autres monographies comparatives</a></nav>')
     body+=section('Dossier approfondi', 'Georges Dumézil : trifonctionnalité, textes, comparaisons et critiques.', cards([('/mythologie-comparee/dumezil/','MC-07.01 · Georges Dumézil','Étude universitaire en neuf chapitres.')]))
     assigned=set()
     for i,(title,pattern) in enumerate(topics,1):
@@ -1148,6 +1151,21 @@ def create_comparative_mythology(entries):
                 assigned.add(url)
         found.sort(key=lambda e:e.get("title","").casefold())
         body+='<section class="comparison-section" id="comparaison-'+str(i)+'"><h2>'+esc(title)+'</h2><p class="small-note">'+str(len(found))+' études répertoriées.</p><ul class="comparison-documents">'+''.join('<li><a href="'+esc(e["url"])+'">'+esc(e.get("title") or e["url"])+'</a></li>' for e in found)+'</ul></section>'
+    # La taxonomie par mots-clés est une aide à la navigation, pas une liste exhaustive.
+    # Conserver un lien pour chaque monographie comparative dont aucun axe ne reconnaît le titre.
+    # Aucun manuscrit, numéro historique ou numéro canonique n'est modifié.
+    others = [e for e in entries
+              if e.get("url", "").startswith("/chapitres/comparatif/")
+              and e["url"] not in assigned]
+    others.sort(key=lambda e: (e.get("title") or e["url"]).casefold())
+    body+=('<section class="comparison-section" id="comparaison-autres">'
+           '<h2>Autres monographies comparatives</h2>'
+           '<p class="small-note">' + str(len(others)) +
+           ' études intégrales non couvertes par les huit regroupements thématiques.</p>'
+           '<ul class="comparison-documents">' + ''.join(
+               '<li><a href="' + esc(e["url"]) + '">' +
+               esc(e.get("title") or e["url"]) + '</a></li>' for e in others
+           ) + '</ul></section>')
     body+='<p class="small-note">Index thématique automatique : les textes originaux restent intacts. La comparaison ne prouve pas à elle seule une filiation historique.</p>'
     write("mythologie-comparee",shell("Mythologie comparée — études et méthodes",body))
 
