@@ -108,6 +108,70 @@ class GreekFolderTests(unittest.TestCase):
             self.assertEqual(actual, expected, slug)
             self.assertNotEqual(actual[1], 'Nouvelles études à classer')
 
+    def test_artemis_amarysia_has_attribution_and_precise_thematic_home(self):
+        import json
+        from build_greek_folders import ARTEMIS_STUDIES
+        root = Path(__file__).resolve().parents[1]
+        register = json.loads((root / 'editorial/numbering.json').read_text(encoding='utf-8'))
+        allocations = register['collections']['encyclopedie']['allocations']
+        all_paths = {entry['path']: entry['number'] for entry in allocations.values()}
+        expected_section = 'Amarynthos et Érétrie — Artémis Amarysia, fêtes et inscriptions'
+        for url, title, _ in ARTEMIS_STUDIES:
+            manuscript_path = url.strip('/') + '.md'
+            source = root / manuscript_path
+            self.assertTrue(source.is_file(), manuscript_path)
+            manuscript = source.read_text(encoding='utf-8')
+            self.assertGreater(len(manuscript), 7000, manuscript_path)
+            self.assertIn('bibliograph', manuscript.lower(), manuscript_path)
+            self.assertTrue((root / url.strip('/') / 'index.html').is_file(), url)
+            self.assertIn(manuscript_path, all_paths)
+            self.assertIn('Chapitre ' + str(all_paths[manuscript_path]), title)
+        amarysia = ARTEMIS_STUDIES[0][0]
+        self.assertEqual(all_paths[amarysia.strip('/') + '.md'], 426)
+        self.assertEqual(classify(amarysia, 'Un autre dieu mentionné dans le texte',
+                                  'Chapitre universitaire'),
+                         ('cultes-sanctuaires', expected_section))
+
+    def test_artemis_cross_readings_are_reciprocal_and_do_not_change_sources(self):
+        from build_greek_folders import ARTEMIS_STUDIES
+        with TemporaryDirectory() as temporary:
+            out = Path(temporary)
+            articles = {}
+            for url, title, _ in ARTEMIS_STUDIES:
+                page = out / url.strip('/') / 'index.html'
+                page.parent.mkdir(parents=True)
+                page.write_text('<html><head><title>Étude</title></head><body>'
+                                '<main><article class="content"><h1>' + title + '</h1>'
+                                '<section id="sources"><h2>Sources</h2><p>'
+                                'Témoignages distincts, bibliographie complète.'
+                                '</p></section></article></main></body></html>',
+                                encoding='utf-8')
+                articles[url] = str(BeautifulSoup(page.read_text(encoding='utf-8'),
+                                                  'html.parser').article)
+            groups = [('Études vérifiées', 'grec-universitaire',
+                       [(url, title) for url, title, _ in ARTEMIS_STUDIES])]
+            expected_urls = {url for url, _, _ in ARTEMIS_STUDIES}
+            for _ in range(2):
+                rows = build(out, groups, [], [])
+                verify(out, expected_urls)
+                self.assertEqual({r['url'] for r in rows}, expected_urls)
+                folder = BeautifulSoup(
+                    (out / BASE.strip('/') / 'cultes-sanctuaires/index.html')
+                    .read_text(encoding='utf-8'), 'html.parser')
+                amarysia_url = ARTEMIS_STUDIES[0][0]
+                self.assertIsNotNone(folder.select_one(
+                    'a[data-greek-entry][href="' + amarysia_url + '"]'))
+                for url in expected_urls:
+                    page = out / url.strip('/') / 'index.html'
+                    doc = BeautifulSoup(page.read_text(encoding='utf-8'), 'html.parser')
+                    self.assertEqual(str(doc.article), articles[url])
+                    self.assertEqual(len(doc.select('nav[data-greek-folder-nav]')), 1)
+                    panels = doc.select('aside[data-greek-cross-readings="artemis"]')
+                    self.assertEqual(len(panels), 1, url)
+                    links = [a['href'] for a in panels[0].select('a[href]')]
+                    self.assertEqual(set(links), expected_urls - {url})
+                    self.assertEqual(len(links), 3)
+
     def test_one_home_per_destination_with_separate_book_sections(self):
         groups = [('Livres', 'grec-livres', [('/livre-thebes/', 'Thèbes')]),
                   ('Encore le livre', 'grec-dossiers', [('/livre-thebes/', 'Autre titre')])]
