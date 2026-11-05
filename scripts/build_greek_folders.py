@@ -67,6 +67,9 @@ HERO_HOME = {
     'orphee': ('heros', 'Orphée et les passages vers l’au-delà'),
 }
 CHAPTER_RULES = [
+    # Étude intégrale 425 (Pausanias I, 15, 3 et I, 32, 5) : héros
+    # attique de Marathon, non divinité et non source antique autonome.
+    (r'^echetlos\\b', 'heros', 'Marathon — Échétlos, araire et mémoire civique'),
     # Études déjà publiées 398 et 424 : le sujet est le sanctuaire local,
     # non l'appartenance générale d'Artémis/Dionysos au panthéon olympien.
     # Liens de retour et sommaires régénérés sans réécrire les manuscrits.
@@ -231,6 +234,25 @@ def classify(url, title, kind):
                    'odyssee': 'Odyssée', 'atrides': 'Atrides', 'thebes': 'Thèbes'}[old] + ' — ' + section
     return mapping[old], section
 
+
+# Lectures croisées entre quatre études intégrales, déjà attribuées dans
+# le registre canonique. Elles restent dans leurs familles primaires ; ces
+# liens sont des renvois complémentaires, jamais de nouvelles attributions.
+# Ne pas y substituer des résumés ou modifier le contenu scientifique.
+MARATHON_STUDIES = (
+    ('/chapitres/encyclopedie/chapitre-425-echetlos-echetlaios-heros-araire-marathon-memoire-stoa-poikile/',
+     'Chapitre 425 — Échétlos et Échétlaios',
+     'Apparition héroïque, Stoa Poikilè et mémoire de la bataille.'),
+    ('/chapitres/encyclopedie/chapitre-326-hecale-taureau-marathon/',
+     'Chapitre 326 — Hécalé et le taureau de Marathon',
+     'Thésée, hospitalité et mémoire cultuelle attique : autre tradition.'),
+    ('/chapitres/encyclopedie/chapitre-371-pan-nouvelle-etude/',
+     'Chapitre 371 — Pan',
+     'Le dieu Pan et le coureur athénien : un témoignage distinct.'),
+    ('/chapitres/encyclopedie/chapitre-393-eukleia-bonne-renommee-artemis-mariage-marathon-aigai-eurydice/',
+     'Chapitre 393 — Eukleia',
+     'Renommée publique et mémoire religieuse de Marathon.'),
+)
 
 RELATED_FOLDERS = {
     'cosmogonies': ['divinites', 'sources-anciennes', 'interpretations-philosophiques'],
@@ -402,6 +424,11 @@ def build(out, groups, sections, books, root=None):
     (out / BASE.strip('/')).mkdir(parents=True, exist_ok=True)
     index = '<h1>Les dossiers de l’encyclopédie grecque</h1><p><a href="/mythologie-grecque/">Encyclopédie grecque</a></p>' + overview(rows, artworks)
     (out / BASE.strip('/') / 'index.html').write_text(render('Dossiers thématiques de l’encyclopédie grecque', index), encoding='utf-8')
+    # Le circuit Marathon est ajouté autour des études *existantes*.
+    # La présence dans l'inventaire, et non une hypothèse tirée du slug,
+    # détermine si un lien réciproque peut être affiché.
+    marathon_urls = {url for url, _, _ in MARATHON_STUDIES
+                     if any(row['url'] == url for row in rows)}
     # Return links stay outside the article, leaving its scholarly text untouched.
     for row in rows:
         if row['kind'] not in ('Chapitre universitaire', 'Livre', 'Notice', 'Étude'):
@@ -413,7 +440,7 @@ def build(out, groups, sections, books, root=None):
         main = doc.main
         if main is None:
             continue  # Minimal test fixtures may only contain a heading.
-        for old in doc.select('[data-greek-folder-nav]'):
+        for old in doc.select('[data-greek-folder-nav], [data-greek-cross-readings]'):
             old.decompose()
         folder = row['folder']
         subsection_url = subsection_urls[(folder, row['section'])]
@@ -423,6 +450,28 @@ def build(out, groups, sections, books, root=None):
                             +escape(subsection_url, quote=True)+'">Sous-dossier : '
                             +escape(row['section'])+'</a></nav>', 'html.parser').nav
         main.insert(0, nav)
+        if row['url'] in marathon_urls:
+            companions = [(url, title, context)
+                          for url, title, context in MARATHON_STUDIES
+                          if url in marathon_urls and url != row['url']]
+            if companions:
+                # Hors de l'article : le manuscrit, ses citations et ses
+                # bibliographies demeurent strictement intacts.
+                links = ''.join(
+                    '<li><a href="' + escape(url, quote=True) + '">' +
+                    escape(title) + '</a><small>' + escape(context) +
+                    '</small></li>' for url, title, context in companions)
+                box = BeautifulSoup(
+                    '<aside class="greek-cross-readings" '
+                    'data-greek-cross-readings="marathon" '
+                    'aria-label="Études croisées sur Marathon">'
+                    '<h2>Marathon : lectures croisées</h2>'
+                    '<p>Quatre enquêtes distinctes : apparition héroïque, '
+                    'récit de Thésée, intervention de Pan et mémoire civique. '
+                    'Chaque lien donne accès à une étude complète avec ses '
+                    'sources, et non à un résumé de remplacement.</p>'
+                    '<ul>' + links + '</ul></aside>', 'html.parser').aside
+                main.append(box)
         page.write_text(str(doc), encoding='utf-8')
     for slug, title, description in FOLDERS:
         members = [r for r in rows if r['folder'] == slug]
@@ -496,6 +545,18 @@ def verify(out, expected_urls):
                 if target not in cache:
                     cache[target] = BeautifulSoup(target.read_text(encoding='utf-8'), 'html.parser')
                 assert cache[target].find(id=unquote(parsed.fragment)), 'Section introuvable : '+url
+    # Les liens transversaux sont contrôlés séparément : ils ne comptent
+    # jamais comme de secondes affectations éditoriales.
+    marathon_urls = {url for url, _, _ in MARATHON_STUDIES if url in expected_urls}
+    if len(marathon_urls) > 1:
+        for url in marathon_urls:
+            path = out / url.lstrip('/') / 'index.html'
+            doc = BeautifulSoup(path.read_text(encoding='utf-8'), 'html.parser')
+            panels = doc.select('aside[data-greek-cross-readings="marathon"]')
+            assert len(panels) == 1, 'Parcours Marathon manquant ou dupliqué : ' + url
+            actual = [a['href'] for a in panels[0].select('a[href]')]
+            assert set(actual) == marathon_urls - {url}, 'Lectures croisées incomplètes : ' + url
+            assert len(actual) == len(set(actual)), 'Lien Marathon répété : ' + url
     assert set(assignments) == set(expected_urls), 'Classement incomplet ou inattendu : '+str(set(assignments) ^ set(expected_urls))
     assert all(n == 1 for n in assignments.values()), 'Texte classé plusieurs fois dans les dossiers'
     print('Dossiers grecs vérifiés :', len(assignments), 'destinations uniques, tous les textes et toutes les sections accessibles')
