@@ -2,7 +2,7 @@
   "generated_at": "2026-11-05",
   "site": "bobmythos.fr",
   "method": "Illustrations photoréalistes interprétatives, textes et sources hors des pixels.",
-  "count": 51,
+  "count": 52,
   "entries": [
     {
       "id": "DEL-PAN-001",
@@ -1059,6 +1059,30 @@
       "provenance": "Image numérique originale générée pour MYTHOS, sans menu ni texte incrusté. Restitution hypothétique et non relevé métrique ; les organismes cités documentent le monument mais ne valident pas cette image.",
       "sha256": "1d50c4c2e3c6d718a99771c38a80c9d394b753aeec645f5a760182602cf69bc1",
       "scientific_notice": "/assets/reconstitutions-3d/notices/akragas-temple-dit-concorde-vers-430-av-jc.json"
+    },
+    {
+      "id": "SEL-E-001",
+      "slug": "selinonte-temple-e-vers-450-av-jc",
+      "title": "Sélinonte (Sicile) — temple E, dit Héraion, vers 460–450 av. J.-C.",
+      "period": "Vers 460–450 av. J.-C. ; restitution interprétative d’une phase classique du temple E (E3). Les chronologies stratigraphiques publiées diffèrent légèrement.",
+      "caption": "Restitution photoréaliste numérique hypothétique du temple E, dit Héraion, sur la colline orientale de Sélinonte (ancienne Selinous), au milieu du Ve siècle av. J.-C.",
+      "commentary": "Le temple E se trouve sur la colline orientale de Sélinonte, où se dressaient aussi les temples F et G. Le bâtiment classique E3, généralement daté vers 460–450 av. J.-C., présente un péristyle dorique de six colonnes sur les petits côtés et quinze sur les côtés longs. Le stylobate mesure environ 25,3 × 67,8 m dans une étude récente. L’attribution à Héra bénéficie d’un dossier épigraphique et iconographique, mais l’image ne représente aucun acte rituel particulier. Les métopes figurées attribuées au temple sont étudiées notamment par Clément Marconi et Pierre Lévêque ; leur détail n’est pas reproduit par la présente image. Le rendu propose un édifice intégral avec toiture, entablement, enduits, rehauts colorés et un paysage d’arrière-plan. Ce sont des choix de visualisation plausibles mais non certifiés dans leurs détails. Une anastylose moderne, parfois discutée, a rétabli une grande partie de la colonnade visible aujourd’hui. Cette vue ne représente pas cette restauration moderne et ne peut pas être utilisée pour des mesures architecturales. La représentation est une image de synthèse photoréaliste interprétative, et non un modèle 3D géométrique vérifié ou un relevé photogrammétrique.",
+      "certainty": "Élevé : localisation sur la colline orientale de Sélinonte ; existence de la phase classique E3 ; plan périptère dorique 6 × 15 et contexte du Ve siècle. Moyen : datation fine vers 460–450 av. J.-C., dimensions de l’édifice, association à Héra selon les études et restitution générale des élévations. Faible : forme détaillée de la toiture et des couronnements, motifs exacts de la peinture, couleurs et vieillissement des surfaces, détails des métopes non figurées, mobilier, tenues, végétation, vues panoramiques et lumière.",
+      "source_url": "https://parchiarcheologici.regione.sicilia.it/selinunte-cave-cusa-pantelleria/siti-archeologici/area-archeologica-di-selinunte/",
+      "secondary_sources": [
+        "https://journals-test.uio.no/acta/en/article/view/10480",
+        "https://www.persee.fr/doc/dha_0755-7256_1996_num_22_2_2297",
+        "https://www.treccani.it/enciclopedia/selinunte_%28Enciclopedia-Italiana%29/",
+        "https://parchiarcheologici.regione.sicilia.it/archivio-news/page/138/"
+      ],
+      "src": "/assets/reconstitutions-3d/selinonte-temple-e-vers-450-av-jc.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-05",
+      "type": "vue architecturale photoréaliste numérique interprétative à apparence 3D, non métrique",
+      "provenance": "Image originale produite pour MYTHOS par génération d’image et conversion WebP, sans menus, texte, titre ni filigrane dans les pixels. Les organismes et travaux cités documentent le temple ; ils ne valident pas ce rendu.",
+      "sha256": "69b757d1ab9213186cacd7ebe27882c096fb639c7d2ee7074766289a2629602d",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/selinonte-temple-e-vers-450-av-jc.json"
     }
   ]
 }
