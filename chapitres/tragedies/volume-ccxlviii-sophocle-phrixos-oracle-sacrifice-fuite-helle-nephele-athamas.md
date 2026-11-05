@@ -1,0 +1,460 @@
+# MYTHOS — Encyclopédie des tragédies grecques — Volume CCXLVIII (248)
+
+## Sophocle, *Phrixos* (Φρίξος) — Le fils promis au sacrifice : oracle, pouvoir domestique, fuite et responsabilité collective
+
+**Monographie philologique et philosophique. Édition publique intégrale, 5 novembre 2026.**
+
+**Dossier antique :** Sophocle, *Phrixos*, pièce perdue ; **TrGF 4, F 721–723a** (Stefan Radt, *Tragicorum Graecorum Fragmenta*, IV², *Sophocles*, 1999). Les trois citations de l'édition Pearson concernent Étienne de Byzance, l’*Etymologicum Gudianum* et l’Antiatticiste. **Les données propres à F 723a dans l’édition Radt demandent une confrontation directe avec l’apparat imprimé avant toute transcription ou interprétation ponctuelle : aucun vers ni témoin supplémentaire ne sont ici fabriqués.** Datation, composition du chœur, scène initiale, distribution, nombre d’actes, dénouement et nature précise du genre dramatique : non conservés.
+
+**Thèse.** Le *Phrixos* de Sophocle doit être étudié non comme un scénario que la mythographie nous permettrait de reconstituer, mais comme le point de rencontre, opaque, de plusieurs traditions sur une victime désignée : l’enfant exposé par sa famille, l’oracle transformé en pouvoir politique, le salut qui coûte la vie à une sœur et les répercussions du meurtre empêché sur les générations futures. Aucun fragment proprement sophocléen ne permet de fixer laquelle de ces configurations occupait la scène. Le travail critique consiste à conserver ce manque tout en comprenant la richesse du champ tragique possible.
+
+---
+
+# I. Constitution du dossier : une œuvre attestée et un drame presque entièrement perdu
+
+### 1. Pourquoi *Phrixos* vient après *Phénix* dans le chantier critique
+
+Dans l’ordre alphabétique des titres de Sophocle établi par Radt et repris dans la synthèse de Matthew Wright, *Phénix* occupe F 718–720, *Phrixos* F 721–723a, puis viennent *Les Phrygiens* F 724–725 et *Chrysès* F 726–730. Cet ordre est un **classement moderne des témoins**, pas une chronologie des représentations. Aucun auteur antique ne nous dit que les quatre drames furent joués à la suite ou se répondaient comme une tétralogie. La présente étude porte exclusivement sur *Phrixos* et non sur les deux *Phrixos* d’Euripide, les *Athamas* sophocléens ou les œuvres portant un titre semblable.
+
+L’objet mérite une étude autonome précisément parce que le mythe se laisse facilement absorber par les drames voisins. Regrouper sans distinction tous les fragments relatifs à Athamas et aux enfants de Néphélé reviendrait à faire disparaître le système des titres transmis. Le plan ici adopté sépare donc le témoin textuel, la tradition de l’histoire mythique, les reconstructions dramaturgiques concurrentes et les interprétations philosophiques.
+
+### 2. Une existence documentaire, non un texte suivi
+
+Il existe un titre *Phrixos* attribué à Sophocle par la tradition des citations savantes. En revanche, il n’existe ni papyrus narratif continu, ni argument ancien suffisamment complet, ni liste garantie de personnages, ni didascalie de concours. Ce déséquilibre crée une situation critique particulière : la personnalité du héros est célèbre, mais celle de la pièce demeure presque inconnue. Une monographie est légitime à condition de ne jamais convertir la célébrité du personnage en connaissance de l’action.
+
+L’édition de référence est Radt, *TrGF* 4², F 721–723a. L’apparat plus ancien est accessible dans A. C. Pearson, *The Fragments of Sophocles*, volume II (1917), p. 322–326 environ, sous le titre *Phrixus* ; les références de ses fragments 721, 722 et 723 correspondent à **sa propre numérotation** et sont à confronter aux additions postérieures de Radt. La concordance des bornes ne prouve pas qu’un ajout, F 723a, possède la même histoire éditoriale que les précédents.
+
+### 3. Une hiérarchie explicite des preuves
+
+Nous adopterons quatre mentions : **[A] attestation de citation**, lorsque le citateur ancien nomme Sophocle ou *Phrixos* ; **[B] récit extérieur**, lorsqu’Hérodote, Pseudo-Apollodore, Hygin ou Apollonios racontent Phrixos sans reproduire la pièce ; **[C] conjecture philologique**, lorsqu’on distribue les éléments d’un récit entre des scènes possibles ; **[D] commentaire philosophique**, lorsqu’une catégorie de Hegel, Nietzsche, Platon ou Aristote sert à poser un problème, sans prétendre décrire ce que pensait Sophocle.
+
+La gradation n’exprime pas une échelle simple de valeur culturelle. Hérodote peut être historiquement très ancien et extrêmement précieux ; son témoignage est néanmoins extérieur au texte de Sophocle. Un lexicographe tardif peut fournir une attestation directe d’un mot de la pièce, tout en nous apprenant moins qu’Hérodote sur le contexte mythique. Ce sont deux dimensions de la preuve différentes : provenance textuelle et puissance explicative.
+
+### 4. Pourquoi la numérotation ne doit pas être confondue avec des vers
+
+F 721, F 722 et F 723 ne signifient pas vers 721, 722 et 723 du *Phrixos*. Ce sont des entrées dans une collection moderne de fragments. Le même numéro 721 renvoie ailleurs au vers 721 du *Philoctète* conservé ; la coïncidence ne possède aucune signification philologique. De même, l’ordre des fragments chez Radt n’établit pas l’ordre de leurs interventions sur scène. On ne peut donc ni annoncer le premier épisode d’après F 721, ni déduire que F 722 précédait F 723 dans une action.
+
+L’extension « a » dans F 723a signale une distinction éditoriale dans l’ensemble critique. Faute d’accès direct à la notice complète et à son appareil, il serait frauduleux de l’identifier à un mot précis, un vers, un locuteur ou un papyrus. Nous conservons la cote intégrale pour ne pas le supprimer silencieusement et indiquons expressément la limite de l’examen.
+
+### 5. Chronologie impossible et prudence de la datation
+
+Sophocle vécut au Ve siècle avant notre ère et écrivit de nombreuses pièces mythologiques. Rien n’autorise à dater *Phrixos* par l’âge présumé du héros, la date des *Athamas*, l’antériorité du récit d’Hérodote ou une analogie stylistique reconstruite. Un emprunt conjectural à une autre tragédie, même plausible, ne suffit pas à établir l’ordre de deux œuvres perdues. La datation reste donc indéterminée.
+
+La question de la distinction tragédie/drame satyrique n’est pas résolue par une simple intuition sur le bélier merveilleux. Les animaux parlants, les envols miraculeux ou les interventions divines ne sont pas réservés au drame satyrique. Pearson rapporte que des philologues ont envisagé une attribution satyrique dans certaines reconstructions, mais sans preuve décisive. Le terme de « tragédie perdue » est ici un classement de travail, non la démonstration indépendante d’une forme précise de spectacle.
+
+---
+
+# II. Le noyau textuel : l’étrangeté des trois citations anciennes
+
+### 6. F 721 — Étienne de Byzance et le vocabulaire de la périphérie
+
+Le fragment F 721 (numéro également présent chez Pearson) est cité par **Étienne de Byzance, *Ethnika*, au lemme *asty***, dans une discussion sur l’emploi d’un mot apparenté à la périphérie d’une ville. Pearson renvoie à la pagination ancienne, p. 140, et transcrit un morceau de vers très problématique, dont la syntaxe ne lui paraît pas suffisamment intelligible dans l’état transmis. Les commentaires discutent notamment l’association entre « limites », « chemin » et « région suburbaine ».
+
+Nous ne reproduisons pas ici une phrase grecque recomposée, car les tentatives de restitution sont précisément le problème à examiner. Fait assuré : un grammairien convoque Sophocle, *Phrixos*, comme autorité sur un usage lexical. Fait non assuré : ce chemin conduirait vers l’autel de Phrixos, vers un refuge, vers Colchide ou vers quelque entrée de palais. Dans une tragédie, la limite d’une ville peut apparaître comme description, métaphore ou souvenir, sans définir le lieu concret de l’action.
+
+### 7. Les corrections de F 721 et le risque de reconstruire un paysage
+
+Pearson examine plusieurs corrections anciennes, dont des propositions d’Ellendt et de Hartung. Le problème ne consiste pas seulement à reconnaître un substantif mal lu : le rapport grammatical des termes est lui-même discuté. Choisir une correction parce qu’elle s’insère dans une hypothèse de voyage serait un cercle logique : l’action supposée servirait à établir le texte qui, à son tour, serait présenté comme preuve de l’action.
+
+Une édition critique responsable doit donc distinguer **lection transmise**, **émendation conjecturale** et **traduction interprétative**. La première n’est pas forcément compréhensible ; la deuxième n’est pas le texte garanti de Sophocle ; la troisième ne saurait effacer son degré d’incertitude. Pour *Phrixos*, nous pouvons seulement conclure qu’un terme topographique intéressant les lexicographes figurait dans une citation attribuée à cette œuvre.
+
+### 8. F 722 — l’*Etymologicum Gudianum* et le cri animal
+
+F 722 nous arrive par l’**Etymologicum Gudianum**, p. 330, 43 dans la référence donnée par Pearson, et par des témoins parallèles discutés dans l’apparat. Le passage s’inscrit dans une notice relative à une famille de mots évoquant des cris ou des plaintes semblables à ceux d’un chien. Pearson signale expressément un état **corrompu** de la citation ; diverses émendations modernes ont cherché à restituer le verbe, l’adverbe et le participe.
+
+Ce n’est pas un détail innocent. Un interprète pressé reconnaîtrait dans ce fragment les cris d’un enfant conduit au sacrifice, d’un bélier merveilleux ou d’une victime blessée. Aucun de ces sujets n’est identifié par le fragment. Le lexicographe s’intéresse d’abord à une forme de langue. La valeur sonore d’un verbe peut traverser des situations multiples. Nous retenons l’existence d’une expression expressive, non un événement dramatique déterminé.
+
+### 9. F 722 — phonétique, onomatopée et rhétorique tragique
+
+Les rapprochements rapportés par Pearson concernent la façon de désigner des sons rauques, plaintifs, perçants ou inarticulés. La question est à la fois lexicale et esthétique : la tragédie a-t-elle pu représenter un cri si proche de l’animalité qu’il trouble la frontière entre langage humain et voix non articulée ? Oui, c’est une interrogation féconde. Mais elle ne permet pas d’assigner ces mots à Phrixos, Hellé, Athamas, Inô ou au bélier.
+
+Il faut garder distincte une proposition de lecture [D] : une menace extrême peut faire défaillir la parole articulée, ramenant l’être humain vers le cri. Cette proposition éclaire une possibilité de la tragédie en général ; elle ne constitue pas une exégèse assurée de F 722. Même lorsque des éditions acceptent une restitution, une phrase brève et isolée n’indique pas à elle seule le personnage qui parle.
+
+### 10. F 723 — l’Antiatticiste et l’adjectif *aphelēs*
+
+Pour F 723, Pearson cite l’**Antiatticiste**, dans les *Anecdota Graeca* édités par Bekker, p. 83, 23, où figure l’adjectif grec *aphelēs* attribué à Sophocle dans *Phrixos*. L’atticisme tardif cherchait à distinguer les usages autorisés des emplois contestés. Selon le contexte, la famille lexicale peut évoquer la simplicité, l’absence de recherche ou de sophistication, avec des valeurs divergentes selon l’époque et l’environnement.
+
+Le témoin ne conserve pas une prédication complète, encore moins le sujet qu’aurait qualifié l’adjectif. Identifier *aphelēs* à la naïveté de Phrixos, à la sincérité d’Hellé, à la simplicité de Néphélé ou à la rouerie d’Inô serait inventer la grammaire absente. L’intérêt vérifiable du fragment concerne la réception de Sophocle comme autorité linguistique. Le jugement moral reste indéterminé.
+
+### 11. Du mot isolé à la tentation de raconter
+
+Les trois entrées sont frappantes par leur disparité : espace suburbain, cri comparable à celui d’un animal, qualité de simplicité. Un lecteur peut imaginer une intrigue cohérente : un innocent simple quitte les abords d’une ville au milieu de plaintes pour échapper à la mort. Cette cohérence est une **composition moderne**, sans support syntaxique entre les citations. Rien n’indique que les mots aient été prononcés dans le même épisode, par le même personnage ou dans le même lieu.
+
+Ce cas démontre la puissance trompeuse du montage philologique. Trois fragments éloignés par leur réception deviennent, lorsqu’on les juxtapose dans une page, les éléments d’une scène potentielle. Or le classement les a seulement réunis parce que des érudits anciens leur ont donné le même titre. L’analyse doit déconstruire sa propre envie d’organiser et préserver les blancs.
+
+### 12. F 723a — signalement d’une lacune de vérification
+
+La synthèse de Wright enregistre le dossier sophocléen comme **TrGF 4 F 721–723a**. Cette plage est confirmée par sa table des matières, indépendante du vieux volume de Pearson. En revanche, le texte et la provenance de l’élément complémentaire **F 723a** n’ont pas pu être contrôlés ici sur l’appareil de Radt ; ils ne sont donc pas reproduits ni dotés d’un contenu conjectural. Il ne serait pas correct de traiter l’édition de 1917 comme si elle avait déjà intégré les ajouts de 1999.
+
+La tâche philologique encore ouverte est circonscrite : relever directement la notice F 723a dans Radt IV², contrôler si elle consiste en citation, en testimonium ou en attribution incertaine, puis confronter la concordance à Lloyd-Jones. L’existence de cette vérification à faire ne bloque pas l’analyse du mythe, à condition de ne pas présenter comme « texte sophocléen » ce qui n’a pas été vu.
+
+### 13. La transmission indirecte comme portrait des intérêts des Anciens
+
+Étienne de Byzance, l’*Etymologicum Gudianum* et l’Antiatticiste n’étaient pas des historiens de la mise en scène de Sophocle. Leurs préoccupations étaient topographiques, étymologiques et grammaticales. Les noms célèbres leur servaient d’exemples linguistiques. Notre œuvre survit donc au filtre d’une érudition qui privilégiait la rareté lexicale sur le déroulement du drame.
+
+La survivance sélective explique qu’une scène capitale ait pu disparaître sans laisser une seule ligne, tandis qu’une désignation peu importante aurait traversé les siècles. Il faut se garder de la théorie selon laquelle la fréquence des citations révélerait la place d’un motif dans une pièce : elle révèle souvent d’abord la place de ce motif dans les curiosités des compilateurs.
+
+---
+
+# III. La matière mythique : Athamas, Néphélé, Inô, Phrixos et Hellé
+
+### 14. La généalogie d’une maison en crise
+
+Dans le récit de **Pseudo-Apollodore, *Bibliothèque* I, 9, 1**, Athamas règne en Béotie. Il a de Néphélé deux enfants, Phrixos et Hellé, puis épouse Inô, mère de Léarchos et Mélicerte. La crise prend la forme d’une famille recomposée où le rang des enfants n’est plus protégé par une seule alliance. La nouvelle épouse prend, dans cette version, l’initiative d’une entreprise mortelle contre les premiers enfants.
+
+Ce récit reste [B] : il est tardif dans sa compilation, même s’il met en œuvre des traditions plus anciennes. Il n’est pas le résumé d’une pièce de Sophocle. Pour comprendre la possibilité tragique du sujet, toutefois, il révèle une contradiction structurelle : le roi doit protéger ses enfants et garantir le bien de son peuple, mais la manipulation de l’institution oraculaire rend ces deux exigences apparemment incompatibles.
+
+### 15. Le blé desséché : fabriquer la catastrophe publique
+
+Pseudo-Apollodore raconte qu’Inô convainc les femmes de dessécher le grain destiné aux semailles. Les récoltes échouent ; la famine ou la stérilité des champs menace la collectivité. Il ne s’agit plus d’une simple jalousie privée : la rivalité domestique fabrique un désastre qui exige une décision publique. La violence résulte d’une instrumentalisation en chaîne : manipulation du travail agricole, production d’un manque, demande de réponse divine, désignation d’un individu sacrifiable.
+
+Une lecture contemporaine pourrait y voir une critique de la captation des institutions par un intérêt familial. Pourtant, aucune ligne conservée du *Phrixos* ne confirme que Sophocle ait exposé cette machination. Elle appartient à Pseudo-Apollodore, pas à un prologue sophocléen vérifié. Le récit sert à cartographier une hypothèse dramatique : quelle autorité peut encore décider correctement lorsque l’information qui la fonde est falsifiée ?
+
+### 16. L’oracle détourné : fraude et légitimité
+
+Athamas envoie consulter Delphes. Dans la version de Pseudo-Apollodore, Inô corrompt les messagers et les pousse à faire croire que la terre redeviendra fertile si Phrixos est offert en sacrifice à Zeus. La parole divine est ainsi mise en scène **comme parole humaine falsifiée**. L’ordre meurtrier ne vient pas d’Apollon dans ce récit, mais de ceux qui s’en réclament. Cette distinction importe à toute analyse de la justice religieuse antique.
+
+Si Sophocle avait représenté ce noyau, le drame aurait pu faire surgir une opposition entre autorité formelle et vérité effective : le souverain entend-il une injonction divine ou l’expression d’une coalition domestique ? Nous ne savons pas si le public de la pièce était informé de la fraude avant Athamas, ni si une reconnaissance mettait fin à la tromperie. L’hypothèse d’une ironie dramatique reste [C], non [A].
+
+### 17. La collectivité exige une victime
+
+Selon Pseudo-Apollodore, Athamas cède à la pression des habitants et conduit Phrixos à l’autel. Le père est donc situé au point de convergence de deux systèmes de devoir : l’obligation de préserver son enfant et la responsabilité envers une communauté en danger. La présence d’une pression collective rend sa faute moins simple à décrire qu’un acte de cruauté gratuite, mais elle ne dissout pas sa responsabilité.
+
+Le même motif rappelle que le « sacrifice » dans les récits grecs peut être un choix politique réinterprété en nécessité religieuse. Il ne faut pourtant pas traiter les mythes comme des comptes rendus ethnographiques de cérémonies réellement pratiquées. Les récits de victimes humaines, de substitution animale et d’intervention divine exigent des distinctions de date, de lieu et de statut documentaire.
+
+### 18. Le bélier d’or : salut ou transfert du désastre ?
+
+Néphélé intervient dans la version de Pseudo-Apollodore et procure à ses enfants un bélier à toison d’or reçu d’Hermès. L’animal les emporte au-delà des terres et des mers. L’extraordinaire est ici moins un ornement qu’une solution à une impossibilité politique : l’institution terrestre qui devait préserver la vie s’apprête à tuer ; le salut vient d’une puissance qui échappe à cette institution.
+
+Mais le bélier n’est pas garanti dans le *Phrixos* de Sophocle. Sa présence sur une éventuelle scène aurait suscité des difficultés techniques intéressantes — récit de messager, machinerie, représentation symbolique — dont nous ne savons rien. Une reconstruction responsable pourra évoquer ces choix comme alternatives. Elle ne peut annoncer ni vol scénique ni machinerie particulière comme des événements attestés.
+
+### 19. Hellé et le prix du sauvetage
+
+Au-dessus du détroit, Hellé tombe et périt ; le lieu reçoit selon la tradition le nom d’Hellespont. Phrixos est sauvé, mais le salut commun échoue : deux enfants s’enfuient, un seul parvient à destination. Cette dissymétrie a une force tragique considérable. L’évasion ne s’achève pas par un rétablissement intégral du monde, mais par une perte dont le nom s’inscrit dans la géographie.
+
+La tentation est grande d’écrire une lamentation de Phrixos sur Hellé ou de placer un chœur au bord du détroit. Aucun fragment ne l’autorise. On peut cependant étudier [D] la manière dont la mythologie traduit une mort individuelle en nom de lieu : une catastrophe familiale devient mémoire collective. Le cas rappelle qu’une étiologie géographique n’est pas une indication de scène.
+
+### 20. Colchide, Æétès et le don ambigu de la toison
+
+Dans Pseudo-Apollodore, Phrixos arrive chez les Colchidiens, sous le règne d’Æétès, et épouse Chalciopé. Il sacrifie le bélier à Zeus et remet la toison au roi, qui la suspend dans le bois d’Arès. Le moyen de sauvetage devient offrande et objet précieux. Le récit relie la fuite d’un enfant menacé au trésor qui provoquera plus tard la quête des Argonautes.
+
+L’animal sauve et meurt ; la toison circule et devient convoitise. On peut analyser cette transformation comme le passage d’un objet vital à un signe de pouvoir et de prestige, sans déduire qu’elle formait le dénouement de *Phrixos*. Le titre du drame pourrait viser le jeune fugitif, l’adulte installé au loin ou un héros dont l’absence conditionne les événements ultérieurs.
+
+### 21. Les fils de Phrixos et le retour du récit
+
+Pseudo-Apollodore attribue à Phrixos et Chalciopé quatre fils : Argos, Mélas, Phrontis et Cytissoros. **Apollonios de Rhodes, *Argonautiques* II**, raconte la rencontre des Argonautes avec les fils de Phrixos lors de leur voyage. Les versions ne se superposent pas toujours dans chaque détail. La fonction structurante de cette génération est néanmoins claire : l’exilé n’est pas coupé définitivement de la Grèce, et ses descendants peuvent réactiver le lien avec la patrie paternelle.
+
+L’enfant chassé par une crise de succession devient ainsi l’origine d’une nouvelle filiation dont le retour bouleverse la première maison. Toute hypothèse d’un *Phrixos* consacré à la réintégration familiale doit cependant reconnaître la faiblesse de son fondement direct. C’est le champ du mythe, et non les fragments A, qui rend possible cette perspective.
+
+---
+
+# IV. Hérodote : le sacrifice évité laisse une dette
+
+### 22. Pourquoi Hérodote VII, 197 est décisif
+
+**Hérodote, *Enquête* VII, 197**, rapporte, à propos d’Halos et du sanctuaire de Zeus Laphystios, une tradition concernant Athamas, Phrixos et la descendance de Cytissoros. Ce témoignage est particulièrement important parce qu’il documente, dans un contexte d’enquête historique, une mémoire locale articulant oracle, interdit et mise en péril d’un descendant. Il est indépendant de la transmission des fragments sophistiquement extraits par les lexicographes.
+
+La place de ce récit dans la description de la marche de Xerxès n’en fait pas un résumé de Sophocle. Hérodote transmet ce que les guides locaux disent au voyageur. Sa valeur est de révéler un autre agencement du mythe, centré non sur la seule fuite de Phrixos mais sur l’héritage religieux laissé par un sacrifice empêché.
+
+### 23. Cytissoros sauve Athamas : une intervention punie
+
+La version rapportée par Hérodote indique qu’Athamas doit être sacrifié pour purifier la région. Cytissoros, fils de Phrixos, survient de Colchide et empêche la mise à mort. Or le sauvetage attire la colère divine sur les descendants du sauveur. Une intuition morale moderne attendrait la récompense de la vie sauvée ; le récit local expose au contraire un ordre cultuel dans lequel le salut d’un individu peut provoquer un déséquilibre transmissible.
+
+Ce paradoxe offre une matière tragique majeure : être juste envers un père ou un aïeul peut signifier transgresser ce que la communauté tient pour un ordre religieux. On ne sait pas si Sophocle développa cette variante dans *Phrixos*, dans l’un des *Athamas*, ou jamais. Pearson rapproche certaines traditions des *Athamas* ; l’assimilation automatique de toute l’histoire à *Phrixos* serait injustifiée.
+
+### 24. L’interdit du prytanée et l’autorité de la maison
+
+Hérodote décrit une interdiction touchant l’aîné d’une lignée : l’accès à l’édifice civique est dangereux, car le descendant qui y pénètre ne peut ressortir librement avant la procession sacrificielle. Le récit rassemble espace civique, parenté, rite et menace. La cité n’est pas l’opposé de la famille : elle encadre la dette supposée de celle-ci.
+
+La perspective est précieuse pour comprendre l’une des questions que poserait une tragédie sur Phrixos : l’hérédité d’une faute est-elle une justice ou la prolongation impersonnelle d’une violence ? Pourtant, la présence de cette coutume racontée par Hérodote ne prouve ni la réalité d’un sacrifice pratiqué au temps de Sophocle ni son utilisation dramaturgique. Nous analysons les formes du discours rituel tel qu’Hérodote le rapporte.
+
+### 25. Trois logiques concurrentes du sacrifice
+
+Il faut distinguer le sacrifice **ordonné faussement** par des messagers corrompus dans Pseudo-Apollodore, celui **destiné à Athamas** dans la tradition d’Halos rapportée par Hérodote, et le sacrifice **du bélier sauveur** en Colchide. Ces actions ne sont pas interchangeables. Leur objet, leur acteur, leur justification et leur valeur morale diffèrent. Une monographie qui les fonde en une seule scène du *Phrixos* détruit précisément la pluralité des versions.
+
+Le point d’unité est une question, non un épisode : qui possède la compétence légitime pour identifier une victime ? L’oracle, la communauté, le roi, la famille, le sauveteur et le dieu se disputent un pouvoir sur le vivant. Cette unité problématique autorise l’analyse comparée, mais non le montage d’un scénario prétendument restitué.
+
+---
+
+# V. Autres versions : la calomnie sexuelle et les frontières du récit
+
+### 26. La tradition de Démodicé
+
+Une branche du dossier, discutée longuement par Pearson à la suite des mythographes, fait intervenir Démodicé, épouse de Créthée, qui désire Phrixos et le calomnie après son refus. Cette structure rappelle d’autres récits grecs de proposition sexuelle rejetée et de fausse accusation. Son intérêt est réel : au lieu de l’échec des semailles et du faux oracle, elle met l’innocence du héros à l’épreuve d’un conflit familial porté devant une autorité masculine.
+
+Pearson examine la possibilité que Sophocle ait traité cette version dans *Phrixos*, mais il refuse de transformer l’hypothèse en certitude. Les trois fragments plus anciens qu’il présente ne la confirment pas directement. Toute comparaison avec *Phèdre* ou *Hippolyte* doit donc être marquée [C] et non [A] ; la ressemblance d’un schéma narratif n’établit pas une dépendance chronologique.
+
+### 27. Démodicé, Phèdre et la « femme de Putiphar »
+
+Le motif comparatif souvent nommé « femme de Putiphar » — accusation portée contre un homme qui a refusé une avance — se rencontre dans des traditions très différentes. On peut évoquer Joseph dans la *Genèse* XXXIX, Bellérophon dans l’*Iliade* VI, ainsi que divers récits de Phèdre. Mais cette typologie moderne n’établit aucune filiation directe entre les textes ni aucune antériorité mesurable de la pièce de Sophocle.
+
+Une analyse critique doit éviter deux écueils : universaliser le motif jusqu’à effacer les différences, ou supposer qu’une accusation féminine serait automatiquement mensongère dans la tragédie étudiée. Dans chaque tradition, les preuves, les rapports de pouvoir, la position sociale de l’accusatrice et les conséquences de l’accusation divergent. La comparaison est heuristique tant qu’elle demeure limitée.
+
+### 28. La version d’Inô n’innocente pas mécaniquement Athamas
+
+Si Inô agit par jalousie et si les messagers falsifient la réponse oraculaire, Athamas se trouve lui-même trompé. Cela ne le rend pourtant pas automatiquement innocent. La tradition pseudo-apollodorienne souligne qu’il accepte de conduire son fils à la mort sous la pression du groupe. Il existe une différence fondamentale entre **ignorer la falsification** et **renoncer à examiner l’ordre de tuer**.
+
+Une tragédie peut précisément rendre cette différence visible, en confrontant la perception subjective du devoir et les conséquences objectives d’une décision. Mais il demeure possible que Sophocle ait retenu une version où Athamas agit avec des intentions différentes. Aucune accusation, aucun aveu, aucun plaidoyer ne nous ont été transmis pour *Phrixos*.
+
+### 29. Néphélé et l’ambiguïté du secours maternel
+
+Le nom Néphélé signifie « nuage » dans le grec courant, et le personnage appartient à l’imaginaire des puissances divines ou surnaturelles. Dans Pseudo-Apollodore, elle protège ses enfants en leur procurant le bélier. Le salut vient de la mère écartée par le nouveau mariage d’Athamas. Une interprétation politique verrait dans cette figure la persistance d’une légitimité que le roi croyait pouvoir remplacer.
+
+Cette lecture reste [D]. Elle n’établit ni la présence de Néphélé comme personnage joué sur scène, ni une théophanie, ni une voix divine à la fin de l’œuvre. Le secours maternel pourrait être rapporté par un messager ou ne pas entrer dans l’action retenue par Sophocle. La philologie impose ici le conditionnel.
+
+---
+
+# VI. Quatre reconstructions dramaturgiques sans scènes inventées
+
+### 30. Reconstruction A : la crise des semailles et l’oracle falsifié
+
+**Hypothèse [C].** *Phrixos* pourrait avoir représenté un conflit situé avant l’évasion : les récoltes échouent, l’autorité politique consulte Delphes, les messagers rapportent une réponse trompeuse, le roi fait face à un choix et l’innocence du fils est compromise. La révélation de la machination ou l’intervention de Néphélé aurait pu fournir un basculement.
+
+**Avantages :** ce scénario permet une articulation tragique forte entre famille, famine, pression populaire et sacrifice. **Limites :** il repose sur Pseudo-Apollodore ; ni une réplique sur le blé, ni un dialogue avec les messagers, ni le nom d’Inô ne subsistent dans les fragments cités. Il serait fautif d’écrire une scène de corruption ou de l’annoncer comme « probable » sans autre argument.
+
+### 31. Reconstruction B : la calomnie et l’innocent persécuté
+
+**Hypothèse [C].** La pièce pourrait avoir privilégié la tradition de Démodicé : le désir refusé produit une accusation, le pouvoir familial donne crédit au mensonge, et Phrixos doit fuir ou défendre son innocence. Cette version fait du rapport entre témoignage et vérité l’axe du drame.
+
+**Avantages :** elle correspond à une tradition mythographique et à un type d’intrigue dramatique attesté ailleurs. **Limites :** elle n’est pas garantie pour Sophocle. Les analogies avec Bellérophon, Hippolyte ou Joseph établissent un faisceau comparatif, non une attribution. L’identité exacte de l’accusatrice, le père qui juge et le dénouement restent hors de portée.
+
+### 32. Reconstruction C : le retour d’exil ou la réparation tardive
+
+**Hypothèse [C].** Le drame pourrait avoir été centré sur les conséquences de la fuite : le retour de nouvelles de Colchide, la reconnaissance de l’innocence ou le conflit autour d’un père menacé. Pearson discute l’idée d’un retour de Phrixos et d’une réhabilitation. On pourrait alors imaginer une action tardive où le personnage eponyme est confronté à ceux qui l’ont condamné.
+
+**Avantages :** le scénario s’accorde à une dramaturgie de l’information retardée et de la reconnaissance. **Limites :** le trajet de retour de Phrixos et sa participation directe aux épisodes sacrificiels ne se déduisent pas des trois fragments ; Hérodote privilégie Cytissoros, son fils, pour le sauvetage d’Athamas. Confondre père et fils détruirait l’identité de la variante.
+
+### 33. Reconstruction D : la péripétie avant un *Athamas* distinct
+
+**Hypothèse [C].** Une autre possibilité est que *Phrixos* ait représenté la première phase du cycle — menace et salut des enfants — et l’un des *Athamas* la punition ultérieure du père. Pearson signale cette piste, sans la présenter comme solution acquise. Cette organisation thématique pourrait expliquer la coexistence de plusieurs titres sur une famille mythique.
+
+**Limites décisives :** il n’existe pas de preuve de représentation commune, de tétralogie, de suite scénaristique directe ou d’ordre chronologique des pièces. Les mêmes dramaturges ont pu traiter plusieurs fois une matière sans construire un cycle suivi. Une parenté de sujets ne suffit pas à donner un ordre d’exécution antique.
+
+### 34. Critères de préférence et suspension du jugement
+
+Pour départager ces hypothèses, il faudrait des indications sur un personnage parlant, un nom propre dans un fragment, une scholie reliant un épisode précis à *Phrixos*, un papyrus d’argument, ou des indices lexicaux vraiment exclusifs. Nous ne disposons pas, à cette étape, de tels éléments. Le principe méthodologique est donc **l’équipossibilité contrôlée** : certaines reconstructions sont mythologiquement plus familières, aucune n’est philologiquement prouvée.
+
+Une reconstruction n’est pas meilleure parce qu’elle se lit comme une tragédie complète. La complétude narrative peut être un produit de l’imagination de l’éditeur. L’objectif scientifique est de mesurer à quelles affirmations chaque hypothèse autorise le lecteur, puis de s’arrêter avant de franchir la limite du document.
+
+### 35. Ce que l’on ignore du chœur et de la scénographie
+
+Il est impossible de désigner le chœur de *Phrixos* : femmes béotiennes, vieillards, serviteurs, compagnons, Colchidiens ou figures satyriques sont des possibilités sans preuve. L’existence d’un bélier dans le récit ne démontre ni masque animal ni animal scénique. La chute d’Hellé ne démontre pas une scène marine représentée ; le retour d’exil ne démontre pas une scène de reconnaissance.
+
+Ce silence interdit les « dialogues restitués » qui mélangeraient vers antiques et création moderne sans signalement. Le seul usage acceptable d’une scène hypothétique dans une édition scientifique serait de l’appeler explicitement fiction de recherche et de ne jamais la citer comme un document de Sophocle. La présente monographie ne produit aucune scène ni aucune parole inventées.
+
+---
+
+# VII. Analyses philosophiques : le devoir, la violence et la connaissance
+
+### 36. Hegel : devoir familial contre universalité politique
+
+Dans les *Principes de la philosophie du droit* (§§ 158–181 et, pour l’État, les sections suivantes), Hegel examine la famille, la société civile et l’ordre politique comme des sphères de l’éthicité qui possèdent des logiques distinctes. Appliquée **rétrospectivement** au récit de Phrixos, cette distinction permet de poser un problème : Athamas doit-il être juge comme père ou comme souverain lorsqu’un oracle allégué exige son fils ?
+
+La force tragique serait, non la rencontre du bien et d’un mal trivial, mais la difficulté de penser ensemble deux obligations dont chacune prétend s’imposer sans reste. Toutefois, dans la version de Pseudo-Apollodore, l’oracle est falsifié : l’opposition ne doit donc pas être romantisée comme un conflit de deux droits également fondés. Une prétendue loi supérieure peut être le produit d’une manœuvre. Hegel nous aide à formuler la structure du conflit ; il ne fournit pas le scénario de Sophocle.
+
+### 37. Hegel : reconnaissance et non-reconnaissance du fils
+
+La *Phénoménologie de l’esprit*, dans la dialectique de la reconnaissance, montre que l’identité humaine n’est pas seulement un attribut intérieur : elle dépend d’un rapport où les consciences se reconnaissent. Phrixos, si on le considère sous l’angle de l’enfant désigné comme victime, risque de perdre sa qualité de sujet pour devenir un instrument de salut public. La communauté ne lui adresse plus une parole, elle le traite comme moyen sacrificiel.
+
+Cette lecture est philosophiquement féconde, mais elle ne transforme pas le jeune héros en protagoniste d’une scène de confrontation attestée. L’analogie est plus précise si elle distingue l’expulsion symbolique de la non-reconnaissance sociale, la menace matérielle du sacrifice et la reconnaissance ultérieure éventuelle — non documentée dans l’œuvre.
+
+### 38. Hegel et le faux tragique de l’oracle corrompu
+
+Il serait simpliste de déclarer toute autorité ancestrale « vraie » parce qu’elle se présente comme sacrée. Chez Pseudo-Apollodore, la parole sacrée a été usurpée. Si l’on applique un vocabulaire hégélien, le pouvoir institué a perdu l’accord entre sa prétention universelle et l’intérêt réel qui le commande. L’oracle falsifié fonctionne alors comme masque d’une volonté particulière.
+
+Cette analyse invite à regarder la tragédie possible de Phrixos sous un angle politique : une cité peut produire elle-même la nécessité d’un sacrifice par ignorance de ses mécanismes d’information. Le commentaire reste une interrogation [D], non une attribution à Sophocle d’une critique théorique de la religion ou d’une philosophie moderne de l’État.
+
+### 39. Nietzsche : la généalogie de la dette
+
+Dans la *Généalogie de la morale*, deuxième dissertation, Nietzsche étudie les rapports entre dette, obligation, mémoire et peine. La tradition rapportée par Hérodote est un cas particulièrement stimulant : la descendance de Cytissoros hérite de la colère divine précisément parce que son ancêtre a empêché le sacrifice d’Athamas. La dette est sans rapport simple avec une faute morale individuelle.
+
+Une lecture nietzschéenne permet de demander comment une communauté en vient à considérer une violence rituelle comme légitime et comment elle transmet cette obligation. Mais il serait historiquement erroné de présenter Hérodote comme un disciple avant la lettre de Nietzsche. Le texte antique propose un récit local ; le philosophe contemporain permet d’en examiner un mécanisme conceptuel.
+
+### 40. Nietzsche : la cruauté et la rationalisation du sacrifice
+
+La même dissertation interroge le plaisir attaché à la punition, l’écriture corporelle de la mémoire et la transformation de la souffrance en signification. Dans l’histoire de Phrixos, le malheur agricole devient le signe qu’un enfant doit mourir ; la souffrance est présentée comme remède. La violence n’apparaît plus comme une fin, mais comme la solution prétendue d’une crise.
+
+Cela ne suffit pas à démontrer que le motif antique est une justification universelle de la cruauté. Il faut distinguer la version qui dénonce l’oracle mensonger, celle qui exprime une obligation cultuelle héritée et les contextes historiques de la narration. Une lecture qui confond toutes ces versions rendrait Nietzsche décoratif plutôt que critique.
+
+### 41. Nietzsche : innocence de la victime et nécessité racontée
+
+La figure du garçon menacé invite à opposer innocence personnelle et attribution d’une responsabilité collective. L’innocence ne sauve pas nécessairement une victime lorsque le corps social exige un signe visible de purification. Cette situation ouvre une critique de la manière dont un groupe choisit de résoudre une incertitude en la fixant sur une personne.
+
+Le commentaire ne doit pas escamoter la donnée narrative la plus embarrassante : le salut de Phrixos, dans certaines traditions, coexiste avec la mort d’Hellé. La sortie du mécanisme sacrificiel ne produit pas un happy end ; elle maintient une souffrance non réparée. L’analyse philosophique est plus honnête lorsqu’elle conserve cette dissymétrie.
+
+### 42. Platon : savoir, opinion et autorité oraculaire
+
+Le *Gorgias* de Platon, notamment 454e–455a, distingue des formes de persuasion capables de produire une croyance et une instruction conduisant à la connaissance. La fraude aux messagers dans Pseudo-Apollodore met en lumière un problème analogue : une parole peut être tenue pour vraie en raison de son origine supposée, alors même que sa fabrication demeure cachée.
+
+Le roi et le peuple doivent décider sans maîtriser le processus qui a transformé une réponse en ordonnance. Le récit peut ainsi être étudié comme tragédie potentielle de la médiation de l’information. Cela ne signifie pas que Sophocle ait écrit un débat platonicien sur l’épistémologie ; les fragments du *Phrixos* n’en attestent aucun.
+
+### 43. Platon : la cité peut-elle sacrifier un innocent ?
+
+Dans la *République*, livres II–IV, Platon examine les conditions d’une cité juste et l’organisation du bien commun. Le cas Phrixos soulève une question distincte : une collectivité peut-elle exiger la disparition d’un membre pour sauver sa propre continuité ? Une réponse abstraite serait insuffisante. Si la menace de famine est réelle mais la cause religieuse inventée, le calcul du sacrifice repose sur un faux savoir.
+
+La réflexion permet de préciser les trois niveaux de responsabilité : les auteurs de la fraude, les gouvernants qui exécutent une instruction, et la collectivité qui préfère une victime au doute. Ces niveaux ne se recouvrent pas. Ils devraient être séparés dans toute étude de la faute tragique, même lorsque l’on n’a plus le texte de la pièce.
+
+### 44. Platon : la parole de l’enfant absent
+
+Dans de nombreux récits sacrificiels, l’enfant est l’objet de paroles prononcées par d’autres : parent, devin, cité, ambassadeur. Nous ignorons si *Phrixos* lui donnait une voix développée. Cette ignorance impose une limite à toute approche philosophique de sa subjectivité. Le dossier ne contient ni plaidoyer conservé ni délibération personnelle vérifiée.
+
+La question du point de vue demeure pourtant essentielle. Si le public connaissait d’avance la fraude, le drame aurait pu produire une distance entre le savoir du spectateur et celui du souverain ; s’il l’ignorait, le dévoilement aurait changé l’appréciation morale de l’ordre sacrificiel. Ces possibilités correspondent à des formes dramaturgiques, non à des scènes attestées.
+
+### 45. Aristote : intrigue, reconnaissance et vraisemblance
+
+La *Poétique* d’Aristote (§§ 9, 11 et 14–15) distingue la succession d’événements de leur articulation causale, ainsi que reconnaissance et renversement de fortune. Le mythe de Phrixos possède plusieurs points potentiels de retournement : la découverte de la fraude oraculaire, l’intervention du bélier, la survie du fils, le sort d’Hellé, l’arrivée de nouvelles de Colchide.
+
+Il serait incorrect de décider qu’une de ces péripéties structurait la pièce simplement parce qu’elle ressemble à une tragédie « bien faite ». Le raisonnement aristotélicien est un outil pour comparer des **possibles**. Il ne permet pas de fournir a posteriori une intrigue que Sophocle aurait nécessairement choisie. La vraisemblance n’est pas une attestation.
+
+### 46. Le héros et l’erreur : la *hamartia* ne doit pas être plaquée
+
+Une lecture rapide chercherait la faute tragique chez Athamas : il écoute un oracle, donc se trompe ; ou chez Inô : elle complote, donc déclenche la catastrophe. Or les versions ont des responsabilités différentes. Dans celle de Démodicé, la calomnie modifie le centre du conflit ; dans celle d’Hérodote, le sauveur Cytissoros produit une dette religieuse postérieure. Il est risqué d’imposer une seule *hamartia* à un ensemble de récits hétérogènes.
+
+La catégorie aristotélicienne ne transforme pas le dossier en parabole sur un défaut personnel universel. Elle oblige au contraire à demander qui fait quoi, avec quel savoir et sous quelle contrainte. Puisque le texte de Sophocle manque, la réponse reste conditionnelle.
+
+### 47. La tragédie ne délivre pas forcément une réconciliation
+
+La tentation hégélienne ou morale serait de terminer sur un retour du fils et une restauration de la maisonnée. Mais le mythe conserve Hellé morte, le bélier sacrifié, la toison convoitée, des générations sous interdit. La réparation n’est donc pas totale dans l’ensemble des versions anciennes. Le conflit initial peut produire de nouveaux conflits au lieu de les abolir.
+
+Cette absence de clôture globale n’est pas une preuve que Sophocle ait choisi un dénouement pessimiste. Une pièce antique peut offrir une fin locale tout en laissant intacte l’histoire mythique plus large. Le critique doit résister à l’envie de transformer une conclusion philosophique sur la violence en donnée de dramaturgie.
+
+---
+
+# VIII. Comparaisons mythologiques contrôlées
+
+### 48. Iphigénie et Phrixos : victimes promises, versions distinctes
+
+L’Iphigénie des traditions tragiques fournit une comparaison évidente : une jeune personne est menacée au nom de la réussite collective, un père se trouve impliqué dans la décision, des versions décrivent un salut divin. Mais les cadres causaux ne sont pas identiques. À Aulis, la flotte et l’expédition guerrière constituent l’enjeu central ; pour Phrixos, dans Pseudo-Apollodore, c’est la fertilité agricole et la fraude aux oracles.
+
+Il ne faut pas postuler un lien de dépendance entre *Phrixos* et l’*Iphigénie à Aulis* d’Euripide. Aucune des citations sophocléennes ne prouve que le dramaturge ait construit une scène sacrificielle parallèle. La comparaison vaut pour les structures de choix, de substitution et de contrainte.
+
+### 49. Isaac et le bélier : analogie sans filiation démontrée
+
+La *Genèse* XXII présente une mise à l’épreuve d’Abraham et une substitution par un animal. Le rapprochement avec le bélier associé à Phrixos peut aider à réfléchir à la logique de la substitution sacrificielle. Mais dans le récit grec, l’animal est d’abord **véhicule de fuite**, puis il est lui-même sacrifié en Colchide ; l’économie narrative ne coïncide pas avec celle du texte biblique.
+
+On ne peut déduire une influence d’un récit sur l’autre de la seule présence d’un enfant menacé et d’un bélier. Les datations des traditions orales, les transformations textuelles et les voies de circulation nécessiteraient une démonstration indépendante. La comparaison se limite ici à des questions de structure.
+
+### 50. Bellérophon, Hippolyte et l’accusation mensongère
+
+La branche de Démodicé se rapproche du récit de Bellérophon dans l’*Iliade* VI et de certaines traditions de Phèdre. Le refus d’une proposition sexuelle peut être réécrit en offense et provoquer la condamnation d’un innocent. Cette structure met en jeu le crédit accordé à l’accusation et la vulnérabilité du sujet sans accès à une preuve reconnue.
+
+Dans chaque cas, la place de l’accusateur, du père, du roi et du témoin diffère. Utiliser un motif comparatif comme modèle absolu risque d’effacer les conflits propres aux familles et aux cités. Pour *Phrixos*, faute de texte dramatique continu, la prudence doit être maximale.
+
+### 51. Jason et la toison : prémisse narrative, non acte perdu
+
+La quête des Argonautes fait de la toison un objet à acquérir, mais cette quête est postérieure aux aventures de Phrixos dans l’ordre mythique. Lier l’ensemble des histoires est légitime : Pseudo-Apollodore et Apollonios établissent ces continuités. Toutefois, aucun fragment n’atteste que Jason ait figuré dans le *Phrixos* de Sophocle.
+
+Le critique ne doit pas transformer une antécédence mythique en préquel théâtral conçu comme tel. Le personnage éponyme d’une tragédie perdue pourrait avoir occupé un segment du récit bien différent de celui que les lectures modernes trouvent le plus célèbre.
+
+### 52. La vie de l’exilé et la carte grecque des confins
+
+De Béotie en Colchide, le voyage de Phrixos traverse un espace qui associe catastrophe et fondation d’un nouveau lien de parenté. La chute d’Hellé inscrit la perte dans le détroit. Colchide devient lieu de l’accueil et d’une continuité familiale. Cette géographie mythique peut nourrir une réflexion sur l’exil non choisi et sur la possibilité de refaire une vie ailleurs.
+
+La localisation ne doit pas être lue comme un itinéraire historique d’émigration, ni comme une carte que Sophocle aurait décrite. Le fragment topographique F 721 n’autorise pas à tracer un parcours exact. La géographie du mythe est une construction narrative, où les lieux sont associés à des événements et à des noms.
+
+---
+
+# IX. Iconographie et réception matérielle
+
+### 53. Une image sourcée, mais non une scène de Sophocle
+
+Une nestoris lucanienne à figures rouges, datée vers **350–340 av. notre ère**, attribuée au **Peintre des Choéphores**, est conservée aux **Harvard Art Museums sous l’inventaire 1960.367**. La notice iconographique du dossier Theoi présente une scène associée à Phrixos, Hellé et au bélier d’or ; elle signale aussi une autre identification possible autour du sacrifice du bélier en Colchide. Cette incertitude d’interprétation ne doit pas être effacée.
+
+Le vase est postérieur au Ve siècle et son décor appartient à la réception figurée du mythe. Il ne prouve aucune scénographie, aucun costume, aucun chœur et aucun emploi d’une machine chez Sophocle. **Référence de consultation :** https://www.theoi.com/Gallery/M29.1.html ; inventaire à recouper avec le catalogue institutionnel des Harvard Art Museums avant tout emprunt d’image. Aucune photographie sous droit incertain n’est intégrée à la présente étude.
+
+### 54. Fresques romaines et longévité du récit
+
+La réception de Phrixos et d’Hellé s’étend jusqu’aux images romaines : des peintures de Pompéi attestent l’intérêt persistant pour l’épisode de la traversée et de la chute d’Hellé. Ces images permettent d’étudier la manière dont les artistes fixent un instant que les récits développent dans le temps. Elles ne constituent pas des témoins contemporains d’une représentation athénienne du *Phrixos*.
+
+Un commentaire d’image scientifique doit préciser le lieu de conservation, la date, l’état de restauration, la distinction entre identification certaine et identification interprétative. Le seul fait qu’un tableau représente le bélier ne permet pas de lui attribuer le récit d’un auteur précis.
+
+### 55. Le bélier et la scène antique : quatre solutions possibles
+
+Si — et seulement si — le bélier intervenait dans la pièce, un dramaturge disposait de plusieurs moyens : un récit par un personnage, une description chorale, un accessoire signifiant l’animal ou une intervention visuelle plus développée. Aucune de ces solutions n’est directement attestée. La présence de machineries dans le théâtre grec en général ne suffit pas pour soutenir une restitution spectaculaire du vol de Phrixos.
+
+Le commentateur doit surtout résister à la technologie rétrospective : reconstruire une image 3D du bélier n’établit pas une antiquité de ses détails. Une reconstitution muséale peut être utile comme **visualisation explicitement hypothétique**, avec notice de preuves et séparation stricte entre objet antique et invention moderne. Ici, nous préférons documenter les images existantes.
+
+---
+
+# X. Le statut de Sophocle au milieu de plusieurs œuvres homonymes
+
+### 56. Les deux *Athamas* de Sophocle
+
+La tradition attribue aussi à Sophocle deux drames intitulés *Athamas*. Pearson traite en détail les variantes de sacrifice et de salut du père. Il serait méthodologiquement fautif de transférer les indications relatives à l’un des *Athamas* dans *Phrixos* uniquement parce qu’Athamas est le père de Phrixos. Une personne mythologique peut traverser plusieurs œuvres de configurations différentes.
+
+Ces dossiers exigent des renvois croisés, non une fusion. Une future édition synoptique pourra juxtaposer les témoignages dans des colonnes séparées pour distinguer personnage, pièce, citateur, époque et conjecture. Le classement de Radt fournit les cotes de cette opération.
+
+### 57. Les *Phrixos* d’Euripide : différence des auteurs et des versions
+
+Euripide a laissé deux dossiers connus comme *Phrixos* I et II, rassemblés dans **TrGF 5** sous des références distinctes de celles de Sophocle. MYTHOS les a déjà étudiés séparément. Cela n’autorise ni à considérer leur distribution comme celle du *Phrixos* sophocléen, ni à transférer leurs répliques au texte perdu de Sophocle.
+
+L’homonymie des titres témoigne de l’intérêt dramatique du sujet, pas d’une identité d’intrigue. Les dramaturges pouvaient reprendre un noyau célèbre en modifiant l’époque choisie, la responsabilité des personnages ou l’importance donnée au merveilleux. La différence d’auteur est un fait, le contenu exact de la comparaison reste une enquête.
+
+### 58. Les tragédies perdues comme réseau, non comme roman continu
+
+Le corpus fragmentaire invite souvent à combler les silences par la connaissance de l’épopée et des mythographes. L’effet cumulé devient alors celui d’un « roman » cohérent construit entre des œuvres disparues. Le théâtre athénien ne fonctionnait pourtant pas nécessairement par continuité des épisodes d’un auteur à l’autre. Une pièce pouvait commencer très tard dans une histoire ou modifier les liens familiaux présupposés.
+
+Pour cette raison, *Phrixos* doit être conservé comme unité autonome malgré son extrême pauvreté documentaire. L’encyclopédie distingue ce que nous savons d’une pièce de ce que nous savons du mythe dans lequel elle puise.
+
+---
+
+# XI. Bilan, questions ouvertes, bibliographie et instruments de vérification
+
+### 59. Les propositions qui peuvent être tenues pour établies
+
+**[A]** Une œuvre nommée *Phrixos* est attribuée à Sophocle dans la tradition érudite. **[A]** Radt classe son dossier en TrGF 4 F 721–723a ; Pearson imprime et discute les citations 721 à 723, sans pouvoir nous restituer le drame. **[A]** Les trois lemmes anciens étudiés par Pearson portent sur le vocabulaire d’un environnement topographique, sur une forme sonore ou expressive, et sur un adjectif intéressant la norme attique.
+
+**[B]** Plusieurs traditions racontent la menace sacrificielle contre Phrixos, l’action d’Inô, le secours de Néphélé, la fuite sur le bélier, la mort d’Hellé et l’installation en Colchide. **[B]** Hérodote atteste une autre tradition associant Athamas, Cytissoros et un interdit religieux local. **[C]** Aucun de ces récits extérieurs ne peut être adopté comme intrigue sophocléenne certaine.
+
+### 60. Les propositions qui doivent rester inconnues
+
+Nous ignorons la date de représentation, l’ordre des épisodes, l’identité du chœur, les rôles effectivement présents, le lieu scénique, les modalités d’apparition du bélier, les causes exactes de la menace, le sort réservé à Hellé dans la pièce et l’identité des figures responsables de sa crise. Nous ignorons si l’action avait lieu avant ou après la fuite. Nous ignorons si Sophocle reprenait le récit de fraude agricole ou celui de calomnie sexuelle.
+
+Les lacunes ne sont pas des invitations à fabriquer. Le fait de refuser une réponse n’appauvrit pas l’étude : il protège la possibilité d’une découverte future qui viendrait contredire nos reconstructions.
+
+### 61. Questions philologiques prioritaires pour une révision future
+
+Le premier contrôle complémentaire concerne la notice **F 723a** de Radt IV², dont l’appareil doit être lu directement avant toute transcription. Le second concerne l’état des témoins de F 722 et la façon dont les différentes corrections modernes sont présentées. Le troisième concerne l’histoire exacte de l’attribution des citations à la pièce : un manuscrit nomme-t-il *Phrixos*, ou l’éditeur rétablit-il le titre d’après un lemme ?
+
+Une autre enquête pourrait comparer la totalité des textes extérieurs sur Démodicé, les rites de Zeus Laphystios et la descendance de Phrixos, en maintenant des tableaux de dates et de variantes. Aucune de ces tâches ne permet de modifier le numéro éditorial d’un volume déjà publié ; ce sont des possibilités de correction à numéro constant.
+
+### 62. Conclusion : la victime, la cité et le silence des fragments
+
+*Phrixos* représente un cas limite de l’histoire de la tragédie : un récit mythique extraordinairement fertile, et un texte dramatique presque entièrement inaccessible. Le conflit potentiel porte sur l’invention d’une nécessité sacrificielle, l’exercice du pouvoir paternel, la mise en danger d’une personne innocente et l’héritage d’une dette religieuse. Mais l’œuvre ne doit pas être présentée comme si elle développait nécessairement tous ces thèmes.
+
+La réflexion la plus solide naît de la résistance à la reconstruction facile. Le bélier qui sauve un enfant ne répare pas la mort d’Hellé ; le retour d’une lignée ne supprime pas toutes les obligations ; le nom prestigieux de l’oracle ne garantit pas l’intégrité d’un message. Ces contradictions expliquent la puissance théorique du mythe. Ce que Sophocle en fit sur scène reste inconnu, et ce silence est un résultat philologique à conserver.
+
+---
+
+## Sources primaires et éditions critiques vérifiées
+
+1. **Sophocle**, *Phrixos*, **TrGF 4 F 721–723a**, dans Stefan **Radt** (éd.), *Tragicorum Graecorum Fragmenta*, vol. 4, *Sophocles*, 2e éd., Göttingen, Vandenhoeck & Ruprecht, 1999. Référence canonique de numérotation. La notice F 723a reste à collationner directement avant transcription.
+2. **A. C. Pearson** (éd.), *The Fragments of Sophocles*, vol. II, Cambridge University Press, 1917, dossier *Phrixus*, p. 322–326 environ, fragments 721–723, commentaires et conjectures. Consultation : https://lexarithmos.app/academy/sophocles/works/pearson-fragments-vol2-1917-part-15/ . L’OCR consultable ne remplace pas l’édition imprimée pour l’établissement exact du grec.
+3. **Hugh Lloyd-Jones** (éd. et trad.), *Sophocles: Fragments*, Loeb Classical Library 483, Harvard University Press, 1996. Instrument de confrontation critique ; les formulations grecques ne sont pas reproduites ici sans vérification de page.
+4. **Étienne de Byzance**, *Ethnika*, s.v. *asty*, cité par Pearson pour F 721. Transmission lexicographique ; référence ancienne p. 140 chez Pearson.
+5. **Etymologicum Gudianum**, p. 330, 43 dans la référence de Pearson, pour F 722 ; le texte est signalé comme corrompu.
+6. **Antiatticista**, dans Bekker, *Anecdota Graeca*, p. 83, 23, pour F 723, adjectif *aphelēs*.
+7. **Hérodote**, *Histoires* VII, 197, récit local d’Halos sur Athamas et les descendants de Cytissoros. Consultation en grec et anglais : https://sacred-texts.com/cla/hh/hh7190.htm ; autre édition : https://lexundria.com/hdt/7/mcly .
+8. **Pseudo-Apollodore**, *Bibliothèque* I, 9, 1, Phrixos, Hellé, Néphélé, Inô, Æétès et la toison. Texte et traduction de travail : https://www.theoi.com/Text/Apollodorus1.html .
+9. **Apollonios de Rhodes**, *Argonautiques*, livre II, récit de la rencontre avec les fils de Phrixos ; il s’agit d’un témoin extérieur à la pièce perdue.
+10. **Homère**, *Iliade* VI, épisode de Bellérophon utilisé seulement comme parallèle de calomnie dans les mythes.
+11. **Platon**, *Gorgias* 454e–455a ; *République*, livres II–IV. Ces références fondent les comparaisons conceptuelles, non une dépendance de Sophocle.
+12. **Aristote**, *Poétique*, chapitres 9, 11, 14 et 15, sur intrigue, reconnaissance, action et vraisemblance.
+
+## Bibliographie secondaire
+
+13. **Matthew Wright**, *The Lost Plays of Greek Tragedy*, vol. II, *Aeschylus, Sophocles and Euripides*, Bloomsbury Academic, 2019 (édition et catalogues selon tirage), entrée *Phrixus (TrGF 4 F 721–723a)*. La table des matières est consultable : https://www.kriso.ee/lost-plays-greek-tragedy-volume-2-db-9781474276467.html .
+14. **Richard C. Jebb**, **W. G. Headlam** et **A. C. Pearson**, *The Fragments of Sophocles*, Cambridge University Press, édition originale en trois volumes, 1917 ; réimpression numérique Cambridge, 2010. Introduction aux variantes d’Athamas et de Phrixos : https://www.cambridge.org/core/books/abs/fragments-of-sophocles/fragments-of-named-plays-introductions-text-and-notes/905A0605FF48851D28C94EB6B7C22F25 .
+15. **A. C. Pearson**, vol. II, loc. cit., pour l’histoire précise des reconstructions de Welcker, Ahrens et des discussions lexicales de F 721–723.
+16. **G. W. F. Hegel**, *Phénoménologie de l’esprit* (1807), passage sur la reconnaissance ; *Principes de la philosophie du droit* (1821), sections sur la famille et l’État. Lectures philosophiques rétrospectives.
+17. **Friedrich Nietzsche**, *La Généalogie de la morale* (1887), deuxième dissertation. Analyse conceptuelle de la dette, du châtiment et de la cruauté ; non une source antique.
+18. **Robert L. Fowler**, *Early Greek Mythography*, vol. II, *Commentary*, Oxford University Press, 2013, instrument de comparaison entre mythographes et traditions anciennes. Ne vaut pas édition de *Phrixos*.
+19. **Timothy Gantz**, *Early Greek Myth: A Guide to Literary and Artistic Sources*, Johns Hopkins University Press, 1993, instrument de repérage des variantes littéraires et figurées ; à consulter pour toute extension de l’iconographie.
+
+## Dossier iconographique contrôlé
+
+**Nestoris lucanienne à figures rouges, v. 350–340 av. n. è., attribuée au Peintre des Choéphores, Harvard Art Museums, inv. 1960.367.** Identification iconographique de l’épisode de Phrixos et du bélier, avec réserve sur la scène exacte. Notice de repérage : https://www.theoi.com/Gallery/M29.1.html . **Statut :** témoin de la réception antique du mythe ; **non** témoin d’une mise en scène du *Phrixos* de Sophocle. Aucun fichier image n’est repris sans vérification de licence et de notice institutionnelle.
+
+---
+
+*Note éditoriale MYTHOS : les variables CCXLVIII et 248 désignent exclusivement le numéro canonique qui sera attribué à **cette** monographie par la file de publication. Les cotes TrGF, les livres antiques, les pages, les dates et les numéros d’inventaire sont des références scientifiques immuables. Le présent document est un texte universitaire public achevé, non un brouillon WordPress.*

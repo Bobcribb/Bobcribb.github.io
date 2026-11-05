@@ -1798,6 +1798,12 @@
           "path": "chapitres/tragedies/volume-ccxlvii-sophocle-phenix-amy-ntor-fragments-718-720-filiation-exil-parole.md",
           "request_sha256": "2d014dc6e52fe0703013322cd0b92199631f2e23b14c7664c8635898098b3819",
           "initial_source_sha256": "11d88fed5a0dd18a7cc29b970615a16cafa2345bfc6aad73e46aae56772b338b"
+        },
+        "e6a4c210-5f3b-4a81-9c76-2d8f4e0b6137": {
+          "number": 248,
+          "path": "chapitres/tragedies/volume-ccxlviii-sophocle-phrixos-oracle-sacrifice-fuite-helle-nephele-athamas.md",
+          "request_sha256": "13f64d1366e246e95999ad99b7723878e4ac85399b7f04e442a45925dc6aa9fc",
+          "initial_source_sha256": "edbc276c42075762c572a5849743c57467272fadae7ede8b788c6feb404f87bc"
         }
       }
     },
