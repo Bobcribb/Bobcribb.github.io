@@ -320,6 +320,74 @@ class GreekFolderTests(unittest.TestCase):
             self.assertIsNotNone(folder.select_one(
                 'a[data-greek-entry][href="' + APHRODITE_STUDIES[2][0] + '"]'))
 
+
+    def test_three_historical_studies_are_complete_sources_in_greek_catalogue(self):
+        from build_greek_corpus import RELATED
+        from build_greek_folders import HISTORY_STUDIES
+        root = Path(__file__).resolve().parents[1]
+        expected_homes = [
+            ('sources-anciennes', 'Égée du Bronze — archéologie, linéaire A et B'),
+            ('sources-anciennes', 'Histoire des cités grecques — institutions et témoignages'),
+            ('cultes-sanctuaires', 'Pergame — Grand Autel, Gigantomachie et royauté'),
+        ]
+        self.assertEqual(len(HISTORY_STUDIES), 3)
+        self.assertEqual(len({url for url, _, _ in HISTORY_STUDIES}), 3)
+        related_urls = {url for _, url in RELATED}
+        for (url, title, context), expected in zip(HISTORY_STUDIES, expected_homes):
+            self.assertIn(url, related_urls)
+            self.assertEqual(classify(url, 'Zeus mentionné en passant',
+                                      'Lecture associée'), expected)
+            path = root / url.lstrip('/') / 'index.html'
+            self.assertTrue(path.is_file(), url)
+            source = path.read_text(encoding='utf-8')
+            self.assertGreater(len(source), 15000, url)
+            self.assertIn('bibliograph', source.lower(), url)
+            self.assertIn('<article', source)
+            self.assertTrue(context and title)
+
+    def test_historical_sources_crosslinks_are_reciprocal_and_idempotent(self):
+        from build_greek_folders import HISTORY_STUDIES
+        with TemporaryDirectory() as temporary:
+            out = Path(temporary)
+            originals = {}
+            for url, title, _ in HISTORY_STUDIES:
+                page = out / url.lstrip('/') / 'index.html'
+                page.parent.mkdir(parents=True, exist_ok=True)
+                page.write_text(
+                    '<html><body><main><article class="content">'
+                    '<h1>' + title + '</h1><p id="preuve">'
+                    'Tablette PY Jn 829 ; ἱστορία ; sources et bibliographie '
+                    'intégrales.</p></article></main></body></html>',
+                    encoding='utf-8')
+                originals[url] = str(BeautifulSoup(
+                    page.read_text(encoding='utf-8'), 'html.parser').article)
+            groups = [('Histoire grecque', 'grec-liens',
+                       [(url, title) for url, title, _ in HISTORY_STUDIES])]
+            urls = {url for url, _, _ in HISTORY_STUDIES}
+            for _ in range(2):
+                rows = build(out, groups, [], [])
+                verify(out, urls)
+                self.assertEqual(len(rows), 3)
+                self.assertEqual({r['url'] for r in rows}, urls)
+                for url in urls:
+                    doc = BeautifulSoup(
+                        (out / url.lstrip('/') / 'index.html')
+                        .read_text(encoding='utf-8'), 'html.parser')
+                    self.assertEqual(str(doc.article), originals[url])
+                    self.assertEqual(len(doc.select('nav[data-greek-folder-nav]')), 1)
+                    panels = doc.select('aside[data-greek-cross-readings="chronologie"]')
+                    self.assertEqual(len(panels), 1)
+                    actual = [a['href'] for a in panels[0].select('a[href]')]
+                    self.assertEqual(set(actual), urls - {url})
+                    self.assertEqual(len(actual), 2)
+            for folder in ('sources-anciennes', 'cultes-sanctuaires'):
+                self.assertTrue((out / BASE.strip('/') / folder /
+                                 'index.html').is_file())
+            css = (Path(__file__).resolve().parents[1] /
+                   'assets/mythos-museum.css').read_text(encoding='utf-8')
+            self.assertIn('data-greek-cross-readings="chronologie"', css)
+            self.assertIn('@media(max-width:480px)', css)
+
     def test_one_home_per_destination_with_separate_book_sections(self):
         groups = [('Livres', 'grec-livres', [('/livre-thebes/', 'Thèbes')]),
                   ('Encore le livre', 'grec-dossiers', [('/livre-thebes/', 'Autre titre')])]
