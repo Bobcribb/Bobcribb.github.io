@@ -164,17 +164,17 @@ class RecentFigurePublicationTests(unittest.TestCase):
             return (200, kind, self.assets[path])
         return (200, "text/html", self.pages[path])
 
-    def test_all_thirty_one_documentary_figures_and_six_pages_verified(self):
+    def test_all_thirty_four_documentary_figures_and_six_pages_verified(self):
         pages, assets = live.recent_figure_inventory(self.root)
         self.assertEqual(len(pages), 6)
         self.assertEqual(len(pages["livre-iliade-scenes/index.html"]), 4)
         self.assertEqual(len(pages["livre-odyssee/index.html"]), 5)
         self.assertEqual(len(pages["livre-hesiode/index.html"]), 5)
-        self.assertEqual(len(pages["philosophie-iliade.html"]), 6)
-        self.assertEqual(len(pages["philosophie-odyssee.html"]), 6)
-        self.assertEqual(len(pages["philosophie-theogonie.html"]), 5)
-        self.assertEqual(len(assets), 24)
-        self.assertEqual(sum(len(items) for items in pages.values()), 31)
+        self.assertEqual(len(pages["philosophie-iliade.html"]), 7)
+        self.assertEqual(len(pages["philosophie-odyssee.html"]), 7)
+        self.assertEqual(len(pages["philosophie-theogonie.html"]), 6)
+        self.assertEqual(len(assets), 26)
+        self.assertEqual(sum(len(items) for items in pages.values()), 34)
         # Rembrandt est réutilisé entre l’étude philosophique et le livre.
         shared = "/assets/illustrations-articles/met-437394-aristote-homere-rembrandt.webp"
         self.assertIn(shared, assets)
@@ -186,7 +186,34 @@ class RecentFigurePublicationTests(unittest.TestCase):
         # therefore produces fewer network checks than figure occurrences.
         self.assertEqual(len(report), len(pages) + len(assets))
         self.assertTrue(all(item["valid"] for item in report))
-        self.assertEqual(sum(item.get("figures_verified", 0) for item in report), 31)
+        self.assertEqual(sum(item.get("figures_verified", 0) for item in report), 34)
+
+    def test_session_42_scientific_figures_fail_on_stale_page_or_tampered_webp(self):
+        """Three Met notices and binary assets must appear unchanged on HTTPS."""
+        additions = (
+            ("philosophie-iliade.html", "icono-iliade-enee-limoges-reception-met-199612-20261105",
+             "/assets/illustrations-articles/met-199612-enee-fuite-troie-email.webp"),
+            ("philosophie-odyssee.html", "icono-odyssee-ariane-thesee-met-245585-20261105",
+             "/assets/illustrations-articles/met-245585-thesee-ariane-sarcophage.webp"),
+            ("philosophie-theogonie.html", "icono-theogonie-tyche-oceanide-met-246414-20261105",
+             "/assets/illustrations-articles/met-246414-tyche-fortuna-bronze.webp"),
+        )
+        for page, fid, src in additions:
+            with self.subTest(page=page):
+                self.assertEqual(live.RECENT_FIGURES.count((page, fid, src)), 1)
+                def stale_fetch(url):
+                    path = url.split("https://example.test", 1)[-1]
+                    if path == "/" + page:
+                        return (200, "text/html", self.pages[path].replace(
+                            fid.encode("utf-8"), b"old-page-without-met-notice"))
+                    if path == src:
+                        return (200, "image/webp", self.assets[path] + b"tampered")
+                    return self.fetch(url)
+                with patch.object(live, "fetch", side_effect=stale_fetch):
+                    report = live.verify_recent_public_figures(
+                        "https://example.test", self.root)
+                failures = {item["url"] for item in report if not item["valid"]}
+                self.assertEqual(failures, {"/" + page, src})
 
     def test_stale_odyssey_figure_and_tampered_jpeg_are_detected(self):
         def stale_fetch(url):
@@ -287,7 +314,7 @@ class RecentFigurePublicationTests(unittest.TestCase):
         self.assertEqual({entry["url"] for entry in checked if not entry["valid"]}, {
             "/livre-hesiode/index.html", hermes,
         })
-        self.assertEqual(len(live.RECENT_FIGURES), 31)
+        self.assertEqual(len(live.RECENT_FIGURES), 34)
 
     def test_newest_met_book_figures_are_required_and_image_bytes_must_match(self):
         """Audit each new book figure against stale HTML and altered WebP."""

@@ -256,6 +256,13 @@ RECENT_FIGURES = (
      "/assets/illustrations-articles/met-246679-hermes-bronze-aile.webp"),
     ("philosophie-theogonie.html", "icono-theogonie-meduse-pegase-lecythe-met-247488-20261104",
      "/assets/illustrations-articles/met-247488-persee-meduse-pegase.webp"),
+    # Séance 42 : réemploi sourcé du Met, figures authentiques et distinction du récit.
+    ("philosophie-iliade.html", "icono-iliade-enee-limoges-reception-met-199612-20261105",
+     "/assets/illustrations-articles/met-199612-enee-fuite-troie-email.webp"),
+    ("philosophie-odyssee.html", "icono-odyssee-ariane-thesee-met-245585-20261105",
+     "/assets/illustrations-articles/met-245585-thesee-ariane-sarcophage.webp"),
+    ("philosophie-theogonie.html", "icono-theogonie-tyche-oceanide-met-246414-20261105",
+     "/assets/illustrations-articles/met-246414-tyche-fortuna-bronze.webp"),
     # Notices patrimoniales documentées du 5 novembre 2026 (séance 40).
     ("philosophie-iliade.html", "icono-iliade-aphrodite-hera-met-253504-20261105",
      "/assets/illustrations-articles/met-253504-aphrodite-bronze.webp"),

@@ -5,63 +5,85 @@
   "branch": "main",
   "latest_session": {
     "date": "2026-11-05",
-    "kind": "AUDIT ET CORRECTION",
-    "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "scope": "Séance 41 : revue de l'état réel main et des workflows de la séance iconographique 40 ; correction de deux liens internes cassés vers le sommaire des comédies grecques dans les manuscrits existants XCVIII (98) et XCIX (99), et leurs pages HTML. Contrôle ciblé des sept pages prioritaires et de leurs CSS/JS ; conservation intégrale des textes.",
-    "basis_commit": "325055084689702d04130000eabe6adec10faf12",
-    "verified_anomalies": {
-      "audit_workflow": "41936901298, résultat success mais 0 erreur bloquante et 2 avertissements liens internes cassés",
-      "broken_target": "/comedies-grecques/",
-      "existing_target": "/comedies-grecques-aristophane-menandre/",
-      "missing_path_verified": "comedies-grecques/index.html absent sur main",
-      "valid_path_verified": "comedies-grecques-aristophane-menandre/index.html présent sur main",
-      "warned_pages": [
-        "chapitres/comedies/volume-098-nikochares-fragments-incertains-18-28-ivresse-sommeil-mer-sphinx-marche-langue/index.html",
-        "chapitres/comedies/volume-099-philonikos-poete-comique-victoire-leneennes-inscription-ig2325-memoire/index.html"
-      ]
-    },
-    "corrections": {
-      "modified_files": [
-        "chapitres/comedies/volume-098-nikochares-fragments-incertains-18-28-ivresse-sommeil-mer-sphinx-marche-langue.md",
-        "chapitres/comedies/volume-098-nikochares-fragments-incertains-18-28-ivresse-sommeil-mer-sphinx-marche-langue/index.html",
-        "chapitres/comedies/volume-099-philonikos-poete-comique-victoire-leneennes-inscription-ig2325-memoire.md",
-        "chapitres/comedies/volume-099-philonikos-poete-comique-victoire-leneennes-inscription-ig2325-memoire/index.html"
+    "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "previous_kind": "AUDIT ET CORRECTION",
+    "next_kind": "AUDIT ET CORRECTION",
+    "scope": "Séance 42 : 3 notices iconographiques Met ajoutées aux monographies philosophiques Iliade, Odyssée, Théogonie ; réemploi de fichiers déjà dans le dépôt sans nouveau binaire. Récits et datations distingués ; aucune modification de texte universitaire ni de numérotation.",
+    "basis_commit": "e3a1e3a39cc109ef973adead10fdcef060a8155a",
+    "figures_added": [
+      {
+        "page": "philosophie-iliade.html",
+        "section": "iliade-long-b12",
+        "id": "icono-iliade-enee-limoges-reception-met-199612-20261105",
+        "src": "/assets/illustrations-articles/met-199612-enee-fuite-troie-email.webp",
+        "met_object_id": 199612,
+        "museum_url": "https://www.metmuseum.org/art/collection/search/199612"
+      },
+      {
+        "page": "philosophie-odyssee.html",
+        "section": "odyssee-long-b01",
+        "id": "icono-odyssee-ariane-thesee-met-245585-20261105",
+        "src": "/assets/illustrations-articles/met-245585-thesee-ariane-sarcophage.webp",
+        "met_object_id": 245585,
+        "museum_url": "https://www.metmuseum.org/art/collection/search/245585"
+      },
+      {
+        "page": "philosophie-theogonie.html",
+        "section": "theogonie-long-a11",
+        "id": "icono-theogonie-tyche-oceanide-met-246414-20261105",
+        "src": "/assets/illustrations-articles/met-246414-tyche-fortuna-bronze.webp",
+        "met_object_id": 246414,
+        "museum_url": "https://www.metmuseum.org/art/collection/search/246414"
+      }
+    ],
+    "checks_before_commit": {
+      "metrics": [
+        {
+          "page": "philosophie-iliade.html",
+          "figure_id": "icono-iliade-enee-limoges-reception-met-199612-20261105",
+          "html_ids": 116,
+          "internal_anchors": 111,
+          "images": 30,
+          "duplicate_ids": 0,
+          "broken_anchors": 0,
+          "missing_alt": 0
+        },
+        {
+          "page": "philosophie-odyssee.html",
+          "figure_id": "icono-odyssee-ariane-thesee-met-245585-20261105",
+          "html_ids": 115,
+          "internal_anchors": 111,
+          "images": 29,
+          "duplicate_ids": 0,
+          "broken_anchors": 0,
+          "missing_alt": 0
+        },
+        {
+          "page": "philosophie-theogonie.html",
+          "figure_id": "icono-theogonie-tyche-oceanide-met-246414-20261105",
+          "html_ids": 117,
+          "internal_anchors": 113,
+          "images": 29,
+          "duplicate_ids": 0,
+          "broken_anchors": 0,
+          "missing_alt": 0
+        }
       ],
-      "old_href": "/comedies-grecques/",
-      "new_href": "/comedies-grecques-aristophane-menandre/",
-      "occurrences_replaced": 4,
-      "source_markdown_and_rendered_html_updated": true,
-      "full_scientific_text_preserved": true,
-      "numbering_preserved": true
+      "figures_before": 31,
+      "figures_after": 34,
+      "unique_media_before": 24,
+      "unique_media_after": 26,
+      "photo_files_added": 0,
+      "media_paths_verified": 3,
+      "numbering_unchanged": true
     },
-    "targeted_checks": {
-      "html_pages": 7,
-      "html_ids": 528,
-      "internal_anchors": 435,
-      "image_tags": 142,
-      "duplicate_ids": 0,
-      "broken_same_page_anchors": 0,
-      "images_missing_alt": 0,
-      "css_js_distinct": 10,
-      "missing_css_js_sources": 0,
-      "recent_museum_figures_on_main": 3,
-      "figure_source_notes_and_ai_status_present": true
-    },
-    "cicd": {
-      "session_40_publication_run": "41936901317 failure ; test d'inventaire obsolète exigeait 31 résultats au lieu de 6 pages + 24 médias uniques = 30",
-      "session_40_validation_run": "41936901333 failure ; problème distinct de la file de publication à revérifier",
-      "latest_observed_successful_publish": "41940479297 success ; ne prouve pas à lui seul la disponibilité publique HTTPS",
-      "newer_publish_run": "41941964494 : job publish success (état d'exécution à confirmer) ; public HTTPS non vérifiable depuis cet environnement",
-      "source_publication_receipt": "catalog/publication-verification.json présent sur main ; preuve publique non obtenue"
-    },
-    "scientific_method": "Les notices des trois dernières figures muséales (Aphrodite, sarcophage d'Oreste, Éros/Psyché) ont été relues dans les pages source : légende, datation, source Met et statut explicite non IA présents. Disponibilité de chaque référence externe non attestée.",
-    "pagination": "catalog/reading-pdfs.json : Iliade 122 pages dont 107 d'analyse, Odyssée 116 dont 101, Théogonie 117 dont 103 ; contrôle du manifeste uniquement, aucune nouvelle inspection visuelle.",
-    "obstacles": "bobmythos.fr inaccessible via outils Web de cette séance ; ne pas revendiquer un déploiement. L'audit CI 41936901298 précède ce correctif et doit être répété sur le nouveau commit. Aucun test responsive interactif effectué dans cette séance.",
-    "preservation": "Aucun nouveau manuscrit numéroté, aucun registre, média, texte universitaire, menu, workflow ou automatisation horaire modifié. AGENTS.md et docs/PUBLICATION_CONCURRENTE.md relus.",
-    "publication_status": "Commit GitHub en cours, publication HTTPS non confirmée ; relire GitHub Actions et le reçu public avant toute annonce.",
+    "scientific_distinctions": "Énée et la chute de Troie relèvent d'Énéide II, non de l'Iliade ; Ariane est mentionnée en Odyssée XI mais le relief romain suit une tradition différente ; Tychè figure parmi les Océanides de Théogonie 360 et sa statuette gréco-romaine est beaucoup plus tardive.",
+    "tests": "Trois ajouts à RECENT_FIGURES ; tests du nombre de pages, 34 figures, 26 médias uniques et régression de page publique obsolète/fichier WebP altéré. Les suites complètes CI, le responsive interactif et le PDF n'ont pas été exécutés localement ; vérification GitHub Actions requise.",
+    "pagination": "Manifest 122/116/117 pages PDF et 107/101/103 pages d'analyse ; aucun PDF modifié ni visuellement contrôlé.",
+    "preservation": "AGENTS.md et docs/PUBLICATION_CONCURRENTE.md relus ; tous les textes, images existantes, navigation, numérotation, registres et plannings horaires préservés.",
+    "publication_status": "Commit en dépôt uniquement ; public HTTPS non confirmé, reçu distant inaccessible au contrôle préalable.",
     "commits": [],
-    "commit_note": "Le SHA de ce commit atomique figure dans le bilan externe ; un commit ne peut inclure son propre SHA."
+    "commit_note": "Le commit atomique ne peut inclure son SHA ; vérifier par API GitHub après mise à jour de main."
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
   "history": [
@@ -2218,6 +2240,88 @@
       "publication_status": "Commit GitHub en cours, publication HTTPS non confirmée ; relire GitHub Actions et le reçu public avant toute annonce.",
       "commits": [],
       "commit_note": "Le SHA de ce commit atomique figure dans le bilan externe ; un commit ne peut inclure son propre SHA."
+    },
+    {
+      "date": "2026-11-05",
+      "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "previous_kind": "AUDIT ET CORRECTION",
+      "next_kind": "AUDIT ET CORRECTION",
+      "scope": "Séance 42 : 3 notices iconographiques Met ajoutées aux monographies philosophiques Iliade, Odyssée, Théogonie ; réemploi de fichiers déjà dans le dépôt sans nouveau binaire. Récits et datations distingués ; aucune modification de texte universitaire ni de numérotation.",
+      "basis_commit": "e3a1e3a39cc109ef973adead10fdcef060a8155a",
+      "figures_added": [
+        {
+          "page": "philosophie-iliade.html",
+          "section": "iliade-long-b12",
+          "id": "icono-iliade-enee-limoges-reception-met-199612-20261105",
+          "src": "/assets/illustrations-articles/met-199612-enee-fuite-troie-email.webp",
+          "met_object_id": 199612,
+          "museum_url": "https://www.metmuseum.org/art/collection/search/199612"
+        },
+        {
+          "page": "philosophie-odyssee.html",
+          "section": "odyssee-long-b01",
+          "id": "icono-odyssee-ariane-thesee-met-245585-20261105",
+          "src": "/assets/illustrations-articles/met-245585-thesee-ariane-sarcophage.webp",
+          "met_object_id": 245585,
+          "museum_url": "https://www.metmuseum.org/art/collection/search/245585"
+        },
+        {
+          "page": "philosophie-theogonie.html",
+          "section": "theogonie-long-a11",
+          "id": "icono-theogonie-tyche-oceanide-met-246414-20261105",
+          "src": "/assets/illustrations-articles/met-246414-tyche-fortuna-bronze.webp",
+          "met_object_id": 246414,
+          "museum_url": "https://www.metmuseum.org/art/collection/search/246414"
+        }
+      ],
+      "checks_before_commit": {
+        "metrics": [
+          {
+            "page": "philosophie-iliade.html",
+            "figure_id": "icono-iliade-enee-limoges-reception-met-199612-20261105",
+            "html_ids": 116,
+            "internal_anchors": 111,
+            "images": 30,
+            "duplicate_ids": 0,
+            "broken_anchors": 0,
+            "missing_alt": 0
+          },
+          {
+            "page": "philosophie-odyssee.html",
+            "figure_id": "icono-odyssee-ariane-thesee-met-245585-20261105",
+            "html_ids": 115,
+            "internal_anchors": 111,
+            "images": 29,
+            "duplicate_ids": 0,
+            "broken_anchors": 0,
+            "missing_alt": 0
+          },
+          {
+            "page": "philosophie-theogonie.html",
+            "figure_id": "icono-theogonie-tyche-oceanide-met-246414-20261105",
+            "html_ids": 117,
+            "internal_anchors": 113,
+            "images": 29,
+            "duplicate_ids": 0,
+            "broken_anchors": 0,
+            "missing_alt": 0
+          }
+        ],
+        "figures_before": 31,
+        "figures_after": 34,
+        "unique_media_before": 24,
+        "unique_media_after": 26,
+        "photo_files_added": 0,
+        "media_paths_verified": 3,
+        "numbering_unchanged": true
+      },
+      "scientific_distinctions": "Énée et la chute de Troie relèvent d'Énéide II, non de l'Iliade ; Ariane est mentionnée en Odyssée XI mais le relief romain suit une tradition différente ; Tychè figure parmi les Océanides de Théogonie 360 et sa statuette gréco-romaine est beaucoup plus tardive.",
+      "tests": "Trois ajouts à RECENT_FIGURES ; tests du nombre de pages, 34 figures, 26 médias uniques et régression de page publique obsolète/fichier WebP altéré. Les suites complètes CI, le responsive interactif et le PDF n'ont pas été exécutés localement ; vérification GitHub Actions requise.",
+      "pagination": "Manifest 122/116/117 pages PDF et 107/101/103 pages d'analyse ; aucun PDF modifié ni visuellement contrôlé.",
+      "preservation": "AGENTS.md et docs/PUBLICATION_CONCURRENTE.md relus ; tous les textes, images existantes, navigation, numérotation, registres et plannings horaires préservés.",
+      "publication_status": "Commit en dépôt uniquement ; public HTTPS non confirmé, reçu distant inaccessible au contrôle préalable.",
+      "commits": [],
+      "commit_note": "Le commit atomique ne peut inclure son SHA ; vérifier par API GitHub après mise à jour de main."
     }
   ]
 }
