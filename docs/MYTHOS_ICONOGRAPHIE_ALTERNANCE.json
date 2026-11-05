@@ -5,54 +5,67 @@
   "branch": "main",
   "latest_session": {
     "date": "2026-11-05",
-    "kind": "AUDIT ET CORRECTION",
-    "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "scope": "Séance 57 : audit post-iconographie des trois monographies ; corriger la régression de test qui figeait la séance 56 comme dernière et empêchait les séances ultérieures.",
-    "basis_commit": "084b37ef605b1544a747e150614ebea8f26c0e4d",
-    "audit_evidence": {
-      "checked_pages": [
-        "philosophie-iliade.html",
-        "philosophie-odyssee.html",
-        "philosophie-theogonie.html"
-      ],
-      "checked_html_pages": 3,
-      "checked_internal_anchors": 335,
-      "broken_same_page_fragments": 0,
-      "duplicate_html_ids": 0,
-      "checked_img_elements": 103,
-      "missing_img_alt": 0,
-      "css_references_per_page": 6,
-      "js_references_per_page": 2,
-      "css_and_js_resources": "Les six feuilles CSS et les deux scripts JS communs des trois pages existent sur main ; syntaxe JavaScript et rendu navigateur non exécutés localement.",
-      "new_svg_paths": [
-        "assets/philosophie/iliade-scamandre-limite-s56-20261105.svg",
-        "assets/philosophie/odyssee-outis-metis-s56-20261105.svg",
-        "assets/philosophie/theogonie-deesses-mortels-s56-20261105.svg"
-      ],
-      "new_svg_check": "Les trois SVG existent sur main, possèdent <svg>, title, desc, vue 1200×650 ; figure, alt, légende, lien scientifique et statut IA uniques dans leurs pages.",
-      "pagination_analyses_a4": {
-        "iliade": 107,
-        "odyssee": 101,
-        "theogonie": 103
+    "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "previous_kind": "AUDIT ET CORRECTION",
+    "next_kind": "AUDIT ET CORRECTION",
+    "scope": "Séance 58 : trois documents iconographiques antiques documentés pour Iliade XXIII (Sophilos), Odyssée VIII (citharède du Peintre de Berlin) et Théogonie 886–926 (naissance figurée d’Athéna).",
+    "basis_commit": "6c630a5c7b111d8f00eb5b95a873bd28ea9a1506",
+    "new_figures": [
+      {
+        "page": "philosophie-iliade.html",
+        "section": "lecture-section-39",
+        "id": "icono-iliade-sophilos-jeux-patrocle-s58-20261105",
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Sophilos_-_ABV_39_16_-_funerary_games_of_Patroklos_-_animal_friezes_-_Athens_NM_15499.jpg?width=1200",
+        "object": "Athènes, Musée archéologique national, inv. A 15499",
+        "dating": "céramique attique antique, 580–570 av. J.-C.",
+        "mode": "document antique authentique, photographie non générée par IA"
       },
-      "domain_record": "CNAME = bobmythos.fr",
-      "latest_known_integral_audit_run": 42029423261,
-      "latest_known_integral_audit_result": "success",
-      "earlier_publish_failure_run": 42027334005,
-      "earlier_publish_failure_reason": "Contrôle de classement de la notice secondaire Athéna Lindia ; correctif distinct déjà arrivé sur main au commit 9afd79afaa2a.",
-      "deployment": "Aucun nouveau déploiement HTTPS confirmé : vérification directe du domaine indisponible ; plusieurs actions de publication en attente/en cours au contrôle."
-    },
-    "verified_defect": "tests/test_iconography_session56_epic_diagrams.py compare latest_session à la séance 56 par position [-1] ; consigner la séance 57 provoque inévitablement un échec du test_alternation_and_minimum_a4 dans le workflow de publication.",
-    "correction": "Le contrôle retrouve une unique séance 56 par son scope historique, valide son prédécesseur et son successeur sans exiger qu'elle reste la dernière. Le test général d'alternance reste inchangé.",
+      {
+        "page": "philosophie-odyssee.html",
+        "section": "lecture-section-25",
+        "id": "icono-odyssee-berlin-cithare-demodocos-s58-20261105",
+        "src": "https://images.metmuseum.org/CRDImages/gr/original/DT374582.jpg",
+        "object": "Metropolitan Museum of Art, inv. 56.171.38",
+        "dating": "amphore attique antique, vers 490 av. J.-C.",
+        "mode": "document antique authentique, photographie non générée par IA"
+      },
+      {
+        "page": "philosophie-theogonie.html",
+        "section": "lecture-section-39",
+        "id": "icono-theogonie-athena-naissance-metis-s58-20261105",
+        "src": "https://images.metmuseum.org/CRDImages/gr/original/DT10998.jpg",
+        "object": "Metropolitan Museum of Art, inv. 06.1097",
+        "dating": "coupe attique antique, vers 550 av. J.-C.",
+        "mode": "document antique authentique, photographie non générée par IA"
+      }
+    ],
+    "new_files": [
+      "tests/test_iconography_session58_documentary_artifacts.py"
+    ],
     "modified_files": [
-      "tests/test_iconography_session56_epic_diagrams.py",
+      "philosophie-iliade.html",
+      "philosophie-odyssee.html",
+      "philosophie-theogonie.html",
       "docs/MYTHOS_ICONOGRAPHIE_ALTERNANCE.json"
     ],
-    "preserved": "Aucun texte universitaire, chapitre, numéro, registre, inbox, navigation, CSS/JS, SVG, médias, PDF ou planification horaire modifié.",
+    "audit_evidence": {
+      "html_pages_checked": 3,
+      "images_before": 103,
+      "images_after": 106,
+      "new_images": 3,
+      "same_page_links_checked": 335,
+      "broken_internal_anchors": 0,
+      "duplicate_html_ids": 0,
+      "img_without_alt": 0,
+      "original_html_preserved_except_figures": true,
+      "image_deduplication": "Chaque nouvelle figure et chaque URL image n'apparaît qu'une fois dans sa page.",
+      "institutional_sources": "Ministère hellénique de la Culture (Sophilos) ; Metropolitan Museum of Art, notices 254896 et 247515 ; Commons CC BY-SA 4.0 pour la photographie de Sophilos.",
+      "preserved": "Aucun texte existant, numéro, registre éditorial, chemin de chapitre, menu, CSS/JS, planification horaire modifié.",
+      "tests": "Vérifications statiques effectuées avant commit ; tests Python complets et HTTPS public à confirmer avec GitHub Actions."
+    },
+    "limitations": "Trois images sont servies par des institutions externes (Wikimedia Commons ou The Met) ; disponibilité CDN et rendu responsive public non attestés par le contrôle statique. Aucun PDF A4 régénéré (dernier inventaire : 107/101/103 pages).",
     "commits": [],
-    "publication_status": "Commit GitHub à contrôler après transaction ; aucun déploiement public certifié.",
-    "limitations": "Audit statique ciblé, non audit navigateur global. Les liens externes et la publication HTTPS ne sont pas confirmés ; attendre les résultats des Actions en cours."
+    "publication_status": "Sources GitHub proposées ; la publication HTTPS n'est pas annoncée avant contrôle indépendant."
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
   "history": [
@@ -3368,6 +3381,70 @@
       "commits": [],
       "publication_status": "Commit GitHub à contrôler après transaction ; aucun déploiement public certifié.",
       "limitations": "Audit statique ciblé, non audit navigateur global. Les liens externes et la publication HTTPS ne sont pas confirmés ; attendre les résultats des Actions en cours."
+    },
+    {
+      "date": "2026-11-05",
+      "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "previous_kind": "AUDIT ET CORRECTION",
+      "next_kind": "AUDIT ET CORRECTION",
+      "scope": "Séance 58 : trois documents iconographiques antiques documentés pour Iliade XXIII (Sophilos), Odyssée VIII (citharède du Peintre de Berlin) et Théogonie 886–926 (naissance figurée d’Athéna).",
+      "basis_commit": "6c630a5c7b111d8f00eb5b95a873bd28ea9a1506",
+      "new_figures": [
+        {
+          "page": "philosophie-iliade.html",
+          "section": "lecture-section-39",
+          "id": "icono-iliade-sophilos-jeux-patrocle-s58-20261105",
+          "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Sophilos_-_ABV_39_16_-_funerary_games_of_Patroklos_-_animal_friezes_-_Athens_NM_15499.jpg?width=1200",
+          "object": "Athènes, Musée archéologique national, inv. A 15499",
+          "dating": "céramique attique antique, 580–570 av. J.-C.",
+          "mode": "document antique authentique, photographie non générée par IA"
+        },
+        {
+          "page": "philosophie-odyssee.html",
+          "section": "lecture-section-25",
+          "id": "icono-odyssee-berlin-cithare-demodocos-s58-20261105",
+          "src": "https://images.metmuseum.org/CRDImages/gr/original/DT374582.jpg",
+          "object": "Metropolitan Museum of Art, inv. 56.171.38",
+          "dating": "amphore attique antique, vers 490 av. J.-C.",
+          "mode": "document antique authentique, photographie non générée par IA"
+        },
+        {
+          "page": "philosophie-theogonie.html",
+          "section": "lecture-section-39",
+          "id": "icono-theogonie-athena-naissance-metis-s58-20261105",
+          "src": "https://images.metmuseum.org/CRDImages/gr/original/DT10998.jpg",
+          "object": "Metropolitan Museum of Art, inv. 06.1097",
+          "dating": "coupe attique antique, vers 550 av. J.-C.",
+          "mode": "document antique authentique, photographie non générée par IA"
+        }
+      ],
+      "new_files": [
+        "tests/test_iconography_session58_documentary_artifacts.py"
+      ],
+      "modified_files": [
+        "philosophie-iliade.html",
+        "philosophie-odyssee.html",
+        "philosophie-theogonie.html",
+        "docs/MYTHOS_ICONOGRAPHIE_ALTERNANCE.json"
+      ],
+      "audit_evidence": {
+        "html_pages_checked": 3,
+        "images_before": 103,
+        "images_after": 106,
+        "new_images": 3,
+        "same_page_links_checked": 335,
+        "broken_internal_anchors": 0,
+        "duplicate_html_ids": 0,
+        "img_without_alt": 0,
+        "original_html_preserved_except_figures": true,
+        "image_deduplication": "Chaque nouvelle figure et chaque URL image n'apparaît qu'une fois dans sa page.",
+        "institutional_sources": "Ministère hellénique de la Culture (Sophilos) ; Metropolitan Museum of Art, notices 254896 et 247515 ; Commons CC BY-SA 4.0 pour la photographie de Sophilos.",
+        "preserved": "Aucun texte existant, numéro, registre éditorial, chemin de chapitre, menu, CSS/JS, planification horaire modifié.",
+        "tests": "Vérifications statiques effectuées avant commit ; tests Python complets et HTTPS public à confirmer avec GitHub Actions."
+      },
+      "limitations": "Trois images sont servies par des institutions externes (Wikimedia Commons ou The Met) ; disponibilité CDN et rendu responsive public non attestés par le contrôle statique. Aucun PDF A4 régénéré (dernier inventaire : 107/101/103 pages).",
+      "commits": [],
+      "publication_status": "Sources GitHub proposées ; la publication HTTPS n'est pas annoncée avant contrôle indépendant."
     }
   ]
 }
