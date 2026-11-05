@@ -23,16 +23,16 @@ Photographie ponctuelle de `editorial/inbox/`, `editorial/holds.json` et `editor
 
 ## Correctifs fonctionnels et visuels
 
-1. **Concordance Athéna Lindia :** dans `chapitres/encyclopedie/chapitre-438-athena-lindia-chronique-lindos-danaides-offrandes-epiphanies-memoire.md`, le renvoi du chapitre 438 vers le 433 emploie désormais l'URL HTTPS de lecteur, sans `.md`. Le corps scientifique, les 22 sections, les sources et la bibliographie ne sont pas résumés ni remplacés.
+1. **Concordance Athéna Lindia :** un commit concurrent sur `main`, intervenu pendant la préparation de cette branche, a remplacé le lien `../chapitre-433-….md` par un chemin de Markdown que le générateur résout vers le lecteur HTML canonique ; il a ajouté `tests/test_audit_lindia_crosslink.py`. Lors de la réconciliation, **la version de `main` est conservée** ; cette intervention ne réécrit plus le chapitre 438.
 2. **Titres des dernières études :** `scripts/recent_studies.py` reconnaît les titres `# Chapitre N — ...` dans les cinq collections, y compris les Origines du sacré. L'accueil n'utilise plus le premier `## Résumé scientifique` comme titre lorsque le H1 est descriptif.
 3. **Sommaire rapide :** un sous-menu relié aux cinq cartes de la page d'accueil donne des ancres stables, utilisables au clavier et en tactile. Sur petit écran, les liens se parcourent horizontalement ; largeur des cibles et surlignage de la carte visée sont assurés par `assets/mythos-museum.css`.
-4. **Tests :** `tests/test_recent_studies.py` vérifie les titres, l'idempotence du sommaire et le lien canonique entre les chapitres 438 et 433.
+4. **Tests :** `tests/test_recent_studies.py` vérifie les titres et l'idempotence du sommaire. Le lien canonique entre 438 et 433 est couvert par le test concurrent `tests/test_audit_lindia_crosslink.py` déjà sur `main`.
 
 Aucun nouveau visuel vectoriel en perspective 2,5D n'est ajouté. Les images et reconstitutions photoréalistes, notices et crédits préexistants restent inchangés. Aucun texte, numéro, reçu, archive, workflow ni programmation horaire n'est supprimé ou renuméroté.
 
 ## Vérifications à effectuer après fusion
 
 - Exécuter `python -m unittest discover -s tests -v`, `python scripts/build_native.py`, `python scripts/verify_publication.py` dans les Actions de la branche principale.
-- Vérifier la disparition de l'avertissement Athéna Lindia dans l'audit `scripts/audit_integrity.py`.
+- Vérifier la disparition de l'avertissement Athéna Lindia (correctif concurrent préservé) dans l'audit `scripts/audit_integrity.py`.
 - Confirmer l'exécution GitHub Pages jusqu'au statut réussi, puis comparer le `source_commit` du manifeste public au commit réellement publié ; contrôler les URLs des lecteurs 433 et 438, le titre réel de l'étude récente et le sous-sommaire sur mobile.
 - Ne déclarer **publication confirmée** qu'après vérification du site public et du manifeste, pas après le seul commit GitHub.
