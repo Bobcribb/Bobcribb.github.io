@@ -986,13 +986,37 @@ def build(out, groups, sections, books, root=None):
                     '<ul>' + links + '</ul></aside>', 'html.parser').aside
                 main.append(box)
         page.write_text(str(doc), encoding='utf-8')
+    active_families = [(family_slug, family_title) for family_slug, family_title, _ in FOLDERS
+                       if any(row['folder'] == family_slug for row in rows)]
     for slug, title, description in FOLDERS:
         members = [r for r in rows if r['folder'] == slug]
         if not members:
             continue
         subsets = subsets_by_folder[slug]
+        position = next(i for i, (family_slug, _) in enumerate(active_families)
+                        if family_slug == slug)
+        previous_family = active_families[position - 1] if position else None
+        next_family = active_families[position + 1] if position + 1 < len(active_families) else None
         body = '<nav aria-label="Fil d’Ariane"><a href="/mythologie-grecque/">Encyclopédie grecque</a> · <a href="'+BASE+'">Tous les dossiers</a></nav>'
         body += '<h1>'+escape(title)+'</h1><p class="portal-lead">'+escape(description)+'</p><p>'+escape(counts(members))+'.</p>'
+        # This is family-level pagination, not chapter numbering. Source
+        # manuscripts, canonical chapter slugs and editorial numbers remain intact.
+        previous_link = (
+            '<a data-greek-family-link="previous" href="'+BASE+previous_family[0]+'/">'
+            '← '+escape(previous_family[1])+'</a>'
+            if previous_family else '')
+        next_link = (
+            '<a data-greek-family-link="next" href="'+BASE+next_family[0]+'/">'
+            +escape(next_family[1])+' →</a>'
+            if next_family else '')
+        body += (
+            '<nav class="greek-family-progress" data-greek-family-nav '
+            'aria-label="Parcourir les familles de l’encyclopédie grecque">'
+            '<p>Famille '+str(position+1)+' sur '+str(len(active_families))+'</p>'
+            '<div class="greek-family-progress-links">'
+            +previous_link+
+            '<a data-greek-family-link="index" href="'+BASE+'">Toutes les familles</a>'
+            +next_link+'</div></nav>')
         body += '<p>Choisissez un sous-dossier. Les liens ouvrent les textes complets ou la section exacte du livre indiqué.</p>'
         body += ('<div class="greek-folder-filter" data-greek-folder-filter hidden>'
                  '<label for="greek-folder-search">Filtrer les textes de ce dossier</label>'
@@ -1084,6 +1108,24 @@ def verify(out, expected_urls):
             continue
         assert index.select_one('a[href="'+BASE+page.parent.name+'/"]'), 'Dossier orphelin : '+str(page)
         doc = BeautifulSoup(page.read_text(encoding='utf-8'), 'html.parser')
+        # Every thematic dossier has exactly one navigable position in the
+        # eight-family sequence. The first and last have no dead-end arrows.
+        active_families = [slug for slug, _, _ in FOLDERS
+                           if index.find('a', href=BASE+slug+'/')]
+        current = page.parent.name
+        assert current in active_families, 'Famille non inventoriée : '+current
+        position = active_families.index(current)
+        switches = doc.select('nav[data-greek-family-nav]')
+        assert len(switches) == 1, 'Navigation des familles manquante ou dupliquée'
+        nav = switches[0]
+        assert nav.find('a', attrs={'data-greek-family-link': 'index'}, href=BASE)
+        previous = nav.find('a', attrs={'data-greek-family-link': 'previous'})
+        following = nav.find('a', attrs={'data-greek-family-link': 'next'})
+        assert (previous['href'] if previous else None) == (
+            BASE+active_families[position-1]+'/' if position else None), 'Famille précédente incorrecte'
+        assert (following['href'] if following else None) == (
+            BASE+active_families[position+1]+'/' if position+1<len(active_families) else None), 'Famille suivante incorrecte'
+        assert 'Famille '+str(position+1)+' sur '+str(len(active_families)) in nav.get_text(' ', strip=True)
         for link in doc.select('a[data-greek-entry]'):
             url = link['href']
             assignments[url] += 1
@@ -1240,6 +1282,14 @@ def verify(out, expected_urls):
 
 
 CSS = '''
+/* Parcours séquentiel des huit familles, sans copie de manuscrit. */
+.greek-family-progress{margin:1.15rem 0 1.7rem;padding:1rem 1.15rem;border:1px solid #8b724d;border-inline-start:4px solid #d2b07a;background:linear-gradient(120deg,#182224,#0b1214)}
+.greek-family-progress p{margin:0 0 .6rem;color:#f1d7a8;font:600 .8rem/1.5 system-ui,sans-serif;letter-spacing:.065em;text-transform:uppercase}
+.greek-family-progress-links{display:flex;flex-wrap:wrap;gap:.55rem}
+.greek-family-progress-links a{display:inline-flex;align-items:center;justify-content:center;min-height:48px;max-width:100%;padding:.65rem .9rem;border:1px solid #806845;background:#141e20;color:#f3dfb9;text-decoration:none;text-align:center;line-height:1.4;overflow-wrap:anywhere}
+.greek-family-progress-links a:hover{background:#273433;border-color:#e3be83}
+.greek-family-progress-links a:focus-visible{outline:3px solid #f3d69b;outline-offset:3px}
+@media(max-width:600px){.greek-family-progress{padding:.85rem}.greek-family-progress-links{display:grid;grid-template-columns:minmax(0,1fr)}.greek-family-progress-links a{width:100%}}
 .greek-folder-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:1rem}
 .greek-folder-entry{min-width:0;display:flex;flex-direction:column;border:1px solid #785f3f;border-radius:5px;overflow:hidden;background:#101718}
 .greek-folder-link{min-width:0;display:flex;flex:1;flex-direction:column;padding:0 1.1rem 1rem;color:#f0e5d2!important;text-decoration:none}
