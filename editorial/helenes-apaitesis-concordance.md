@@ -19,6 +19,10 @@ Le titre grec distingue la demande de restitution d’Hélène d’autres titres
 
 Le témoignage homérique sur l’ambassade auprès de Troie et les traditions relatives à Anténor permettent des comparaisons, non la restitution sûre du déroulement scénique de Sophocle. Aucun dialogue perdu n’est présenté comme authentique.
 
+## Convergence des contrôles éditoriaux
+
+L'anomalie parallèle concernant *Hermione* de Sophocle (volumes CCXXXI et CCXXXII) relève de l'[issue n° 23](https://github.com/Bobcribb/Bobcribb.github.io/issues/23). Les deux cas relèvent du même principe : **les numéros de monographie n'établissent pas le nombre de tragédies antiques**. Cette concordance ne renomme pas et ne modifie pas les études d'*Hermione* ; les contrôles historiques de numérotation et de demandes concurrentes restent communs et inchangés.
+
 ## Protocole de conservation et de recherche
 
 Le registre de concordance `editorial/tragedy-works.json` rattache les deux UUID et leurs numéros à une identité canonique `sophocle:helenes-apaitesis`. Les lecteurs et sommaires distinguent explicitement la monographie de référence et le complément ; la recherche retrouve les variantes françaises, le titre grec et sa translittération. L’attribution d’un troisième numéro autonome au même titre, même avec un nouveau slug ou un nouvel UUID, est bloquée avant publication.
