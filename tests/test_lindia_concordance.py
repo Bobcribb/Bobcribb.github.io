@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "scripts"))
-from build_greek_folders import classify, LINDIA_433, LINDIA_438, LINDIA_NOTICE
+from build_greek_folders import classify, LINDIA_433, LINDIA_438, LINDIA_NOTICE, inventory
 from build_native import annotate_lindia_search
 from build_greek_corpus import primary_folder_urls
 
@@ -29,6 +29,22 @@ class LindiaConcordanceTests(unittest.TestCase):
                                             "https://example.org/ancient-source"}),
             {LINDIA_433, LINDIA_438},
         )
+
+    def test_inventory_excludes_concordance_from_primary_classification(self):
+        """L'index de lecture conserve la notice sans ajouter une troisième étude."""
+        rows = inventory([
+            ("Monographies de Lindos", "grec-universitaire", [
+                (LINDIA_433, "Chapitre 433"),
+                (LINDIA_438, "Chapitre 438"),
+            ]),
+            ("Notice de rapprochement", "grec-liens", [
+                (LINDIA_NOTICE, "Concordance 433 et 438"),
+            ]),
+        ], [], [])
+        self.assertEqual({row["url"] for row in rows}, {LINDIA_433, LINDIA_438})
+        self.assertTrue(all(row["folder"] == "cultes-sanctuaires" for row in rows))
+        self.assertEqual(len(rows), 2)
+        self.assertNotIn(LINDIA_NOTICE, {row["url"] for row in rows})
 
     def test_search_retains_two_distinct_entries(self):
         entries = [

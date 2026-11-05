@@ -540,6 +540,10 @@ def inventory(groups, sections, books):
     rows, seen = [], set()
 
     def add(url, title, kind, book=None):
+        # La concordance 433/438 est un renvoi secondaire conservé, pas une
+        # troisième monographie autonome à affecter dans les dossiers.
+        if url == LINDIA_NOTICE:
+            return
         if url in seen:
             return
         seen.add(url)
