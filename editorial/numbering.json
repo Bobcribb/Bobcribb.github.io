@@ -1330,6 +1330,12 @@
           "path": "chapitres/comedies/volume-101-philyllios-eunikos-anteia-attribution-hetaire-baiser-chytra-pollux.md",
           "request_sha256": "00ebd9fd029bf9fa95d36c998b4c927f452f81400b85a904572543da758f2066",
           "initial_source_sha256": "386a893d18061d92426582804221386f67c03e53801a2dafcad188462a19e5e9"
+        },
+        "1e4a9fbb-629a-49d5-a8f7-9d8677632ff5": {
+          "number": 102,
+          "path": "chapitres/comedies/volume-102-philyllios-atalante-titre-souda-attribution-douteuse-chasse-course-mythes.md",
+          "request_sha256": "0a03b8ea71b934a66ac10d94a89c4b5bad8fd6624c2e00f1e412f6fe222b6962",
+          "initial_source_sha256": "9263d887fd89fa81760be9f598394e9c75bdac614429293041c4d4850d938817"
         }
       }
     },
@@ -1690,6 +1696,12 @@
           "path": "chapitres/tragedies/volume-ccxliii-sophocle-hydrophoroi-porteuses-eau-semele-dionysos-fontaines-rite-genre-incertain.md",
           "request_sha256": "f682957582be48426004fb9de043fb60f8395471cce818d706ce5bdbc9f27d14",
           "initial_source_sha256": "a5b7693e4e14bd415d708f917ba5b4cb6ef743adf0e91c3bbfd1e7a063436235"
+        },
+        "c3f2dd09-9460-4544-8ee7-5f167c6ecb15": {
+          "number": 244,
+          "path": "chapitres/tragedies/volume-ccxliv-sophocle-phaiakes-pheaciens-alcinoos-arete-nausicaa-argonautes-titre-incertain.md",
+          "request_sha256": "84fb152cec18a1f9aeb09d2079570e932d6c9b59ce90aec83d49d5e90057d7aa",
+          "initial_source_sha256": "9da3d9f19e9d10517e083a1ffacc4530bdfd03f152ad57bfcaf9a626d9faf536"
         }
       }
     },

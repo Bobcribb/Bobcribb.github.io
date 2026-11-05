@@ -1,9 +1,9 @@
 {
   "status": "passed",
-  "indexed_entries": 1423,
-  "pages_scanned": 1480,
-  "readers_equipped": 1024,
-  "links_checked": 125794,
+  "indexed_entries": 1425,
+  "pages_scanned": 1482,
+  "readers_equipped": 1026,
+  "links_checked": 125992,
   "new_navigation_errors": [],
   "legacy_link_issues": [
     {
@@ -14,6 +14,11 @@
     {
       "page": "/chapitres/comedies/volume-101-philyllios-eunikos-anteia-attribution-hetaire-baiser-chytra-pollux/index.html",
       "url": "/chapitres/comedies/volume-099-philonikos-poete-comique-victoire-leneennes-inscription-ig2325-memoire.md",
+      "problem": "fichier absent"
+    },
+    {
+      "page": "/chapitres/comedies/volume-102-philyllios-atalante-titre-souda-attribution-douteuse-chasse-course-mythes/index.html",
+      "url": "/comedies-grecques/",
       "problem": "fichier absent"
     }
   ]
