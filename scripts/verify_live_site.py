@@ -303,6 +303,15 @@ RECENT_FIGURES = (
     ("livre-hesiode/index.html", "icono-hesiode-dionysos-genealogie-met-256902-20261105",
      "/assets/illustrations-articles/met-256902-dionysos-medaillon-bois.webp"),
 
+    # Séance 52 : trois figures sur les monographies ; même exigence HTTPS
+    # de notice conservée et de fichier binaire conforme au commit source.
+    ("philosophie-iliade.html", "icono-iliade-redon-bellerophon-glaucos-met-459400-20261105",
+     "/assets/illustrations-articles/met-459400-redon-bellerophon-pegase.webp"),
+    ("philosophie-odyssee.html", "icono-odyssee-athena-telemachie-met-254648-20261105",
+     "/assets/illustrations-articles/met-254648-athena-chouette-bronze.webp"),
+    ("philosophie-theogonie.html", "icono-theogonie-apollon-leto-zeus-met-246408-20261105",
+     "/assets/illustrations-articles/met-246408-apollon-bronze-romain.webp"),
+
 )
 
 

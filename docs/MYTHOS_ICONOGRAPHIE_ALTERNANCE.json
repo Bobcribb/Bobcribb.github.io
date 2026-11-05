@@ -5,66 +5,89 @@
   "branch": "main",
   "latest_session": {
     "date": "2026-11-05",
-    "kind": "AUDIT ET CORRECTION",
-    "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "scope": "Séance 51 : audit intégral de référence GitHub Actions, contrôle de neuf pages prioritaires et de l'état HTTPS ; correction de la politique fail-open : les liens cassés et erreurs HTML signalés comme avertissements doivent faire échouer la CI.",
-    "basis_commit": "1f906b34f578abfe7e72d1786a4ba8a66a1788ff",
-    "audit_evidence": {
-      "github_actions_audit_success_run": 41996627885,
-      "run_head": "930e7b4b178bff4582edd7fad3ffeff258985e02",
-      "html_files": 1525,
-      "indexed_documents": 1468,
-      "media_files": 110,
-      "local_links_checked": 132604,
-      "fragments_checked": 39110,
-      "hard_errors": 0,
-      "warnings": 0,
-      "current_main_pages_checked": [
-        "index.html",
+    "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "previous_kind": "AUDIT ET CORRECTION",
+    "next_kind": "AUDIT ET CORRECTION",
+    "scope": "Séance 52 : insertion de trois figures documentaires Met sourcées au niveau des analyses développées des monographies Iliade VI (Bellérophon), Odyssée I–IV (Athéna, Télémachie), Théogonie 918–920 (Apollon, Léto).",
+    "basis_commit": "1b5b2814f6b1b06d1d5ac854dd5074bd48a5fb7b",
+    "modified_pages": [
+      "philosophie-iliade.html",
+      "philosophie-odyssee.html",
+      "philosophie-theogonie.html"
+    ],
+    "new_figures": [
+      {
+        "page": "philosophie-iliade.html",
+        "id": "icono-iliade-redon-bellerophon-glaucos-met-459400-20261105",
+        "section": "lecture-section-24",
+        "asset": "/assets/illustrations-articles/met-459400-redon-bellerophon-pegase.webp",
+        "met_object_id": 459400,
+        "accession": "1975.1.686",
+        "date": "vers 1888",
+        "status": "dessin d'Odilon Redon, réception moderne non générée par IA ; Pégase ne figure pas dans l'Iliade VI",
+        "source": "https://www.metmuseum.org/art/collection/search/459400"
+      },
+      {
+        "page": "philosophie-odyssee.html",
+        "id": "icono-odyssee-athena-telemachie-met-254648-20261105",
+        "section": "lecture-section-3",
+        "asset": "/assets/illustrations-articles/met-254648-athena-chouette-bronze.webp",
+        "met_object_id": 254648,
+        "accession": "50.11.1",
+        "date": "vers 460 av. J.-C.",
+        "status": "statue grecque antique authentique, photographie non générée par IA ; ne représente pas Télémaque",
+        "source": "https://www.metmuseum.org/art/collection/search/254648"
+      },
+      {
+        "page": "philosophie-theogonie.html",
+        "id": "icono-theogonie-apollon-leto-zeus-met-246408-20261105",
+        "section": "lecture-section-40",
+        "asset": "/assets/illustrations-articles/met-246408-apollon-bronze-romain.webp",
+        "met_object_id": 246408,
+        "accession": "96.9.401",
+        "date": "Ier–IIe siècle apr. J.-C.",
+        "status": "statuette romaine antique authentique, photographie non générée par IA ; ne représente pas la naissance du dieu",
+        "source": "https://www.metmuseum.org/art/collection/search/246408"
+      }
+    ],
+    "checks": {
+      "existing_pages": "3 HTML présents sur main ; trois médias WebP recensés dans assets/illustrations-articles/sources-met.json et avec licence CC0 ; métadonnées institutionnelles revérifiées.",
+      "html": "Un seul id et img créé sur chaque page. Contrôles pré-commit : 34, 33, 33 images ; aucun identifiant HTML, image source ou ancre locale dupliqué/cassé.",
+      "new_files": "Aucun média ajouté, trois réemplois de médias existants, deux médias déjà suivis par l'outil HTTPS ; un nouveau digest attendu.",
+      "publication_regression": "RECENT_FIGURES étendu de 46 à 49 figures réparties sur six pages, 36 fichiers médias distincts ; tests de vérification d'un HTML public périmé et d'une altération des binaires.",
+      "pagination": [
+        {
+          "work": "L’Iliade",
+          "analysis_pages": 107,
+          "target_reached": true
+        },
+        {
+          "work": "L’Odyssée",
+          "analysis_pages": 101,
+          "target_reached": true
+        },
+        {
+          "work": "La Théogonie",
+          "analysis_pages": 103,
+          "target_reached": true
+        }
+      ],
+      "documentation": "Date, numéro d'inventaire, contexte iconographique et différence entre oeuvre réelle, récit antique et création IA consignés dans les trois légendes."
+    },
+    "changes": {
+      "modified": [
         "philosophie-iliade.html",
         "philosophie-odyssee.html",
         "philosophie-theogonie.html",
-        "livre-iliade-scenes/index.html",
-        "livre-odyssee/index.html",
-        "livre-hesiode/index.html",
-        "mythologie-grecque/index.html",
-        "reconstitutions-photorealistes.html"
+        "scripts/verify_live_site.py",
+        "tests/test_verify_live_site_assets.py"
       ],
-      "current_main_local_ids": "Zéro identifiant HTML dupliqué et aucune ancre interne de page manquante dans les neuf pages prioritaires ; aucune image sans alt, présence des balises viewport/langue et du CSS de site.",
-      "source_media": "Trois WebP institutionnels de la séance 50 présents sur main ; figures uniques dans les trois livres.",
-      "domain_check": "https://bobmythos.fr/ répond ; accueil, livres, entrée mythologie grecque et galerie accessibles ; redirection canonique HTTPS et viewport/langue présents ; absence du menu Grande Encyclopédie en doublon observée.",
-      "observed_public_manifest": "7da6b10c5a90fb0b8ec9b4c814383251e2423917",
-      "observed_public_run": 41987596536,
-      "observed_public_images": {
-        "iliad": 11,
-        "odyssey": 12,
-        "hesiod": 10
-      },
-      "expected_local_images": {
-        "iliad": 12,
-        "odyssey": 13,
-        "hesiod": 11
-      },
-      "recent_ci_failure": "Runs 41996788525, 41996998328 et 41997170564 : collision MC-069 à l'étape editorial_queue.py apply ; commit 5cc2a5af... plus récent a reclassé la soumission concurrente des dieux scribes en MC-071 ; la CI de cette correction est en cours à l'instant de la séance."
+      "unchanged": "Texte scientifique, pagination PDF, navigation, registres de numérotation, dossiers chapitres, editorial/inbox, workflows et fréquences inchangés."
     },
-    "verified_defect": "scripts/audit_integrity.py affichait « Core integrity: PASS » et sortait 0 malgré des avertissements de ressources ou liens internes cassés ; le workflow d'audit l'exécute sans vérification explicite du compteur WARNINGS. Une future régression pouvait donc afficher une CI verte en présence d'une ancre cassée.",
-    "changes": {
-      "modified": [
-        "scripts/audit_integrity.py"
-      ],
-      "added": [
-        "scripts/audit_policy.py",
-        "tests/test_audit_policy.py"
-      ],
-      "assertion": "publication_audit_fails(issues,warnings) retourne vrai pour toute erreur et tout avertissement contrôlé ; sortie de code 1 à la fin du scanner, en préservant le rapport et les statistiques.",
-      "tests": "Six groupes de régressions couvrant rendu propre, erreurs dures, liens, images/CSS/JS, srcset, fragments, doublons HTML, title, liens dangereux et dépendance WordPress.",
-      "preserved": "Aucune modification des pages, sources scientifiques, schémas 2.5D, médias, navigation, numérotation, editorial/inbox, registre ni automatisations."
-    },
-    "publication_status": "Version source non encore attestée sur bobmythos.fr. Le déploiement HTTPS reste antérieur au commit 7b565bcd... de la séance 50 ; les trois nouvelles figures n'apparaissent pas sur les livres publics. Le workflow de publication est concurrent avec d'autres validations, aucune annonce de mise en ligne du présent correctif.",
-    "limitations": "L'audit statique des neuf pages n'est pas une capture responsive en navigateur et ne vérifie pas tous les liens scientifiques externes ; le seul audit intégral réussi cité porte sur le commit 930e7b4b..., donc antérieur à main. Les tests complets du nouveau commit restent à confirmer après enregistrement.",
+    "publication_status": "A confirmer par vérification HTTPS post-commit ; un commit GitHub n'est pas une publication publique.",
+    "limitations": "Contrôle de sources et HTML ciblé, sans audit bibliographique exhaustif ni captures responsive multi-écrans ; résultats CI et version publique à relire après enregistrement.",
     "commits": [],
-    "commit_note": "Commit atomique du correctif, de sa régression et du journal ; SHA à relire sur GitHub."
+    "commit_note": "Lire SHA de commit et les fichiers modifiés après l'actualisation atomique de main."
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
   "history": [
@@ -2994,6 +3017,92 @@
       "limitations": "L'audit statique des neuf pages n'est pas une capture responsive en navigateur et ne vérifie pas tous les liens scientifiques externes ; le seul audit intégral réussi cité porte sur le commit 930e7b4b..., donc antérieur à main. Les tests complets du nouveau commit restent à confirmer après enregistrement.",
       "commits": [],
       "commit_note": "Commit atomique du correctif, de sa régression et du journal ; SHA à relire sur GitHub."
+    },
+    {
+      "date": "2026-11-05",
+      "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "previous_kind": "AUDIT ET CORRECTION",
+      "next_kind": "AUDIT ET CORRECTION",
+      "scope": "Séance 52 : insertion de trois figures documentaires Met sourcées au niveau des analyses développées des monographies Iliade VI (Bellérophon), Odyssée I–IV (Athéna, Télémachie), Théogonie 918–920 (Apollon, Léto).",
+      "basis_commit": "1b5b2814f6b1b06d1d5ac854dd5074bd48a5fb7b",
+      "modified_pages": [
+        "philosophie-iliade.html",
+        "philosophie-odyssee.html",
+        "philosophie-theogonie.html"
+      ],
+      "new_figures": [
+        {
+          "page": "philosophie-iliade.html",
+          "id": "icono-iliade-redon-bellerophon-glaucos-met-459400-20261105",
+          "section": "lecture-section-24",
+          "asset": "/assets/illustrations-articles/met-459400-redon-bellerophon-pegase.webp",
+          "met_object_id": 459400,
+          "accession": "1975.1.686",
+          "date": "vers 1888",
+          "status": "dessin d'Odilon Redon, réception moderne non générée par IA ; Pégase ne figure pas dans l'Iliade VI",
+          "source": "https://www.metmuseum.org/art/collection/search/459400"
+        },
+        {
+          "page": "philosophie-odyssee.html",
+          "id": "icono-odyssee-athena-telemachie-met-254648-20261105",
+          "section": "lecture-section-3",
+          "asset": "/assets/illustrations-articles/met-254648-athena-chouette-bronze.webp",
+          "met_object_id": 254648,
+          "accession": "50.11.1",
+          "date": "vers 460 av. J.-C.",
+          "status": "statue grecque antique authentique, photographie non générée par IA ; ne représente pas Télémaque",
+          "source": "https://www.metmuseum.org/art/collection/search/254648"
+        },
+        {
+          "page": "philosophie-theogonie.html",
+          "id": "icono-theogonie-apollon-leto-zeus-met-246408-20261105",
+          "section": "lecture-section-40",
+          "asset": "/assets/illustrations-articles/met-246408-apollon-bronze-romain.webp",
+          "met_object_id": 246408,
+          "accession": "96.9.401",
+          "date": "Ier–IIe siècle apr. J.-C.",
+          "status": "statuette romaine antique authentique, photographie non générée par IA ; ne représente pas la naissance du dieu",
+          "source": "https://www.metmuseum.org/art/collection/search/246408"
+        }
+      ],
+      "checks": {
+        "existing_pages": "3 HTML présents sur main ; trois médias WebP recensés dans assets/illustrations-articles/sources-met.json et avec licence CC0 ; métadonnées institutionnelles revérifiées.",
+        "html": "Un seul id et img créé sur chaque page. Contrôles pré-commit : 34, 33, 33 images ; aucun identifiant HTML, image source ou ancre locale dupliqué/cassé.",
+        "new_files": "Aucun média ajouté, trois réemplois de médias existants, deux médias déjà suivis par l'outil HTTPS ; un nouveau digest attendu.",
+        "publication_regression": "RECENT_FIGURES étendu de 46 à 49 figures réparties sur six pages, 36 fichiers médias distincts ; tests de vérification d'un HTML public périmé et d'une altération des binaires.",
+        "pagination": [
+          {
+            "work": "L’Iliade",
+            "analysis_pages": 107,
+            "target_reached": true
+          },
+          {
+            "work": "L’Odyssée",
+            "analysis_pages": 101,
+            "target_reached": true
+          },
+          {
+            "work": "La Théogonie",
+            "analysis_pages": 103,
+            "target_reached": true
+          }
+        ],
+        "documentation": "Date, numéro d'inventaire, contexte iconographique et différence entre oeuvre réelle, récit antique et création IA consignés dans les trois légendes."
+      },
+      "changes": {
+        "modified": [
+          "philosophie-iliade.html",
+          "philosophie-odyssee.html",
+          "philosophie-theogonie.html",
+          "scripts/verify_live_site.py",
+          "tests/test_verify_live_site_assets.py"
+        ],
+        "unchanged": "Texte scientifique, pagination PDF, navigation, registres de numérotation, dossiers chapitres, editorial/inbox, workflows et fréquences inchangés."
+      },
+      "publication_status": "A confirmer par vérification HTTPS post-commit ; un commit GitHub n'est pas une publication publique.",
+      "limitations": "Contrôle de sources et HTML ciblé, sans audit bibliographique exhaustif ni captures responsive multi-écrans ; résultats CI et version publique à relire après enregistrement.",
+      "commits": [],
+      "commit_note": "Lire SHA de commit et les fichiers modifiés après l'actualisation atomique de main."
     }
   ]
 }
