@@ -88,6 +88,10 @@
     "b8600860-0bad-4086-8086-202611050086": {
       "request_sha256": "3682ec0fe4728e28c6328c4743eb15222a63d8cb49b923bcb5f65e225c742045",
       "reason": "Contrôle approfondi anti-doublon du 5 novembre 2026 : ce texte « Les dieux dorment-ils ? » sous MC-086 reproduit presque exactement le sujet et les sources primaires d'un volume publié dans la collection sous MC-057, volume CCXXXVII (237), « Quand les dieux dorment : sommeil divin, veille cosmique, vulnérabilité du pouvoir et politique du réveil ». Ne pas allouer une seconde publication canonique pour un sujet déjà traité. Préserver ce manuscrit autonome, sa première erreur historique MC-085 également mise en attente et les empreintes intactes ; réattribuer MC-086 à une étude distincte « L'empreinte des dieux : pas, traces, lieux et présence » sous un nouveau UUID. Ne toucher ni MC-057 ni MC-085 ni les autres séries MYTHOS."
+    },
+    "b108f96e-6913-43c9-a67e-4241876dbf01": {
+      "request_sha256": "ae53a58a1f08044735020ed92407ebe4e1b16aace7b1962007e2b00756125c72",
+      "reason": "Collision éditoriale constatée le 5 novembre 2026 dans MYTHOS Origines du sacré : le sujet « Lions, noms et tombeaux de Dadan : mourir dans l'oasis de Liḥyān » (UUID b108f96e-6913-43c9-a67e-4241876dbf01, 35 602 caractères Markdown ; commit c3e2aaf à 14:24:06 UTC) recouvre largement le manuscrit antérieur « Les lions gardent-ils les morts ? Dadan, Liḥyān, inscriptions funéraires et nécropole rupestre d'al-Khuraybah » (UUID 7ba192cd-6d8e-4f31-9e8a-5c2df071e9b2, 41 233 caractères Markdown ; commit 02c53a9 à 14:20:08 UTC). Les deux textes traitent Dadan, les tombes aux lions, l'épigraphie et l'histoire funéraire. Préserver intégralement cette seconde étude et ses références dans editorial/inbox sans lui donner un second numéro indépendant. Après attribution du premier manuscrit canonique, envisager un rapprochement philologique et son archivage comme complément critique non numéroté. Ne jamais supprimer les textes, modifier une demande publiée, réutiliser un UUID ni altérer les reçus."
     }
   }
 }
