@@ -52,3 +52,15 @@ body.mythos-design.mythos-focus main{padding-top:1rem!important}
 @media print{.mythos-reader,.mythos-reading-toc,.reader-bottom,.epic-links,footer,.mythos-masthead{display:none!important}.mythos-design [data-mythos-reader] :is(p,li,dd,blockquote){font-size:11pt!important;line-height:1.5!important}h2,h3{break-after:avoid}figure,table{break-inside:avoid}a{color:#111!important}body{background:white!important;color:#111!important}}
 /* The generated centered TOC replaces the older visible list, retaining its anchors. */
 .mythos-design [data-mythos-reader] > nav.philo-toc{display:none}
+
+/* Parcours universitaire transversal : aucune image vectorielle ni réécriture
+   des textes sources ; liens directs vers quatre études attribuées. */
+.mythos-design .greek-cross-readings{max-width:1050px;margin:2.5rem auto;padding:1.25rem 1.4rem;border:1px solid #947648;border-radius:5px;background:#10191b;color:#eee0c6}
+.mythos-design .greek-cross-readings h2{margin:0 0 .7rem;color:#edd2a0;font:1.45rem/1.3 Georgia,serif}
+.mythos-design .greek-cross-readings p{max-width:75ch;line-height:1.65;margin:0 0 1.1rem}
+.mythos-design .greek-cross-readings ul{list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:.8rem}
+.mythos-design .greek-cross-readings li{min-width:0;border:1px solid #5d4b32;border-radius:4px;background:#162024}
+.mythos-design .greek-cross-readings li a{display:flex;align-items:center;min-height:44px;box-sizing:border-box;padding:.7rem 1rem;color:#f5dca5;text-underline-offset:.2em;overflow-wrap:anywhere}
+.mythos-design .greek-cross-readings li a:focus-visible{outline:3px solid #f4d394;outline-offset:2px}
+.mythos-design .greek-cross-readings li small{display:block;margin:0;padding:0 1rem .9rem;color:#d4c6a8;font:.85rem/1.55 system-ui;overflow-wrap:anywhere}
+@media(max-width:700px){.mythos-design .greek-cross-readings{padding:1rem .8rem;margin:1.5rem .5rem}.mythos-design .greek-cross-readings ul{grid-template-columns:1fr}}
