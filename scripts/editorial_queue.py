@@ -111,8 +111,9 @@ def validate(root, data=None):
     load_holds(root, request_ids)
     from comparative_history import validate as validate_history
     validate_history(root)
-    from tragedy_work_identity import validate as validate_tragedy_identity
-    validate_tragedy_identity(root)
+    if (root / "editorial/tragedy-works.json").is_file():
+        from tragedy_work_identity import validate as validate_tragedy_identity
+        validate_tragedy_identity(root)
     return data
 
 
@@ -211,8 +212,9 @@ def apply(root):
         planned.append((target, encoded))
     from comparative_history import validate as validate_history
     validate_history(root, planned)
-    from tragedy_work_identity import validate as validate_tragedy_identity
-    validate_tragedy_identity(root, planned)
+    if (root / "editorial/tragedy-works.json").is_file():
+        from tragedy_work_identity import validate as validate_tragedy_identity
+        validate_tragedy_identity(root, planned)
     for target, encoded in planned:
         (root / target).parent.mkdir(parents=True, exist_ok=True)
         with (root / target).open("xb") as stream:
