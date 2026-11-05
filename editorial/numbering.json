@@ -958,6 +958,12 @@
           "path": "chapitres/encyclopedie/chapitre-424-dionysos-aisymnetes-patras-eurypyle-triklaria-fete-rites.md",
           "request_sha256": "c718ee20ff25f45db6b18401a5eae986460c7d0805178f66fe35ffd13fcee4b7",
           "initial_source_sha256": "e4c7be45e7556a985c7071e23ce82cf8be7761e22ff4c28ec861de9828dffff1"
+        },
+        "b4737c3e-a31d-4a71-934f-a4ce5b2ed061": {
+          "number": 425,
+          "path": "chapitres/encyclopedie/chapitre-425-echetlos-echetlaios-heros-araire-marathon-memoire-stoa-poikile.md",
+          "request_sha256": "77a4cda95c85c676e46301fa47b52cd31c6dd606ba6883f9dcb7379c810d3bfa",
+          "initial_source_sha256": "0df07396ea60c30f08297aff01dad333c1a97814a2e2833b818f19c6b357c3a0"
         }
       }
     },
@@ -2203,6 +2209,12 @@
           "path": "chapitres/comparatif/volume-ccxxxix-mc-059-quand-les-dieux-naissent-theogonies-filiation-autogenese-souverainete.md",
           "request_sha256": "056989621e0c79502eda7501b1bb05e4c9587d88abec98d6edaab2237218bdfb",
           "initial_source_sha256": "dfed2107ce0a1db6c2ac1db4e88ce439b7f06aa780d7f226f2fe3066eceadd9f"
+        },
+        "76b9d460-5557-4c4b-96e6-60ac00300060": {
+          "number": 240,
+          "path": "chapitres/comparatif/volume-ccxl-mc-060-quand-les-dieux-vieillissent-senescence-divine-immortalite-renouvellement-pouvoir.md",
+          "request_sha256": "d0284c39073635b8177eb1abefec690e02c096538dfc6faa5be34bbb4a265418",
+          "initial_source_sha256": "c7d6cf5a7389ee4668b9d71dd2fa666bc4b0c2f5c033d05bca00e7319df333f2"
         }
       }
     }

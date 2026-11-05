@@ -1,0 +1,211 @@
+# Chapitre 425 — Échétlos et Échétlaios : le héros à l'araire, Marathon et la mémoire religieuse d'Athènes
+
+*MYTHOS — Grande Encyclopédie de la mythologie grecque. Monographie universitaire, sources primaires, débats historiographiques, archéologie, philosophie et iconographie.*
+
+**Notice philologique.** Ἔχετλος / Ἐχετλαῖος ; Attique, plaine de Marathon ; cadre historique 490 av. n. è. ; traditions connues principalement par Pausanias.
+
+**Critère de certitude.** Les faits archéologiques, les textes conservés et les propositions d'interprétation sont explicitement distingués.
+
+## 01. Problème historique et objet de l'enquête
+
+Échétlos, également appelé Échétlaios, n'est pas un général oublié de Marathon ni un agriculteur dont l'identité civile nous aurait été transmise. C'est, dans l'état des témoignages, un **héros d'apparition** : un homme inconnu, vêtu comme un paysan, aurait combattu les Perses avec un instrument agricole puis disparu ; un oracle aurait demandé qu'on le célèbre comme héros. La source narrative centrale est Pausanias, *Description de la Grèce*, I, 32, 5, rédigée plus de six siècles après la bataille de 490 avant notre ère. La même œuvre, I, 15, 3, mentionne sa présence dans une grande peinture publique à Athènes. L'étude doit tenir ensemble trois temporalités : l'événement militaire, l'élaboration de sa mémoire dans l'Athènes classique, et la consignation de traditions locales par un voyageur d'époque impériale. L'objectif n'est pas de démontrer matériellement l'épiphanie, mais d'étudier pourquoi une cité pouvait reconnaître la protection divine dans la figure d'un travailleur des champs. Ce cas éclaire la religion héroïque, la politique des images, la sacralisation du territoire et les limites de l'histoire événementielle.
+
+## 02. Position dans MYTHOS et délimitation
+
+Cette monographie n'est ni une nouvelle biographie de Miltiade, ni une étude générale du dieu Pan, ni un récit complet des guerres médiques. Les chapitres MYTHOS déjà consacrés à Pan, aux héros attiques et aux cultes de protection restent distincts et sont à consulter en parallèle. Le sujet est l'individualisation religieuse d'un protecteur de Marathon à partir d'un outil agricole. Le dossier ne suppose aucune parenté généalogique d'Échétlaios avec Héraclès, Thésée ou les dieux du sol : aucun texte ancien pertinent ne la fournit. Il ne suppose pas davantage l'existence d'une fête annuelle connue, d'un sacerdoce propre, d'un temple identifié ou d'une statue conservée. Une enquête doit résister à la tentation de remplir par une imagination séduisante les silences documentaires.
+
+## 03. Le nom : Ἔχετλος et Ἐχετλαῖος
+
+Pausanias emploie deux formes qu'il faut conserver : **Ἔχετλος** (*Échétlos*) dans le récit du décor peint de la Stoa Poikilè, I, 15, 3, et **Ἐχετλαῖος** (*Échétlaios*) dans le récit du champ de bataille, I, 32, 5. Le grec **ἐχέτλη** désigne une partie de l'araire, en particulier son manche ou timon selon les traditions lexicographiques et les traductions. Le rapport sémantique entre l'instrument agricole et le nom héroïque est ainsi très vraisemblable ; il fonctionne comme un nom descriptif, « celui de l'araire ». On évitera pourtant d'en tirer une certitude sur le nom originel d'un combattant humain. La translittération varie : Echetlus, Echetlos, Échétlos, Echetlaeus, Échétlaios. Les variations modernes ne constituent pas six personnages différents. Réciproquement, un homonyme appelé Echetlos dans un récit thébain tardif ne doit pas être identifié par principe au héros de Marathon.
+
+## 04. L'araire et le piège d'une traduction trop précise
+
+Le mot **ἄροτρον**, employé dans le récit de Pausanias, se traduit normalement par « araire » ou « charrue » dans un sens large. Les traductions françaises courantes choisissent « charrue », mais l'outil antique ne se confond pas nécessairement avec la lourde charrue médiévale à versoir. L'ἐχέτλη est une pièce de préhension ou de conduite associée à l'instrument. Dire « il tua avec un soc d'acier » serait une invention : la source ne permet pas de déterminer la composition, la forme exacte ni le geste technique employé. La traduction éditoriale retiendra de préférence « un araire », avec note explicative. La différence importe : l'arme improvisée ne renvoie pas à une technologie mystérieuse, mais à un instrument du travail de la terre rendu exceptionnel par son emploi militaire.
+
+## 05. Pausanias I, 32, 5 : un récit bref mais structuré
+
+Pausanias rapporte que pendant l'affrontement apparaît un homme ayant **l'apparence** et **l'équipement** d'un paysan. Il tue de nombreux ennemis avec un araire ; après le combat, il devient introuvable. Les Athéniens consultent la divinité oraculaire, qui ne révèle pas une identité civile ou familiale, mais ordonne des honneurs héroïques pour Échétlaios. On distingue cinq moments narratifs : apparition ; action décisive ; disparition ; interrogation des survivants ; reconnaissance religieuse. Le récit ne mentionne ni paroles prononcées par l'apparition, ni blessure, ni retour au foyer. Ce laconisme n'est pas une lacune à combler par un roman historique : c'est précisément ce qui permet la conversion du paysan anonyme en puissance localisée. Formule méthodologique essentielle : Pausanias écrit « ils disent » ; il transmet une tradition plutôt qu'il ne certifie le déroulement de l'événement.
+
+## 06. L'oracle comme opérateur de reconnaissance
+
+Le motif de la consultation oraculaire est décisif. Le groupe des survivants ne sait pas à quel nom rattacher l'aide reçue. L'oracle ne résout pas une énigme policière ; il institue, dans le récit, la bonne manière de se conduire envers la puissance apparue. La connaissance recherchée est pratique et religieuse : quels honneurs rendre ? La séquence montre la différence entre une identité historique documentée par témoins et une identité cultuelle autorisée par un verdict sacré. Pausanias ne reproduit pas un texte oraculaire versifié, ne date pas le voyage au sanctuaire et ne précise pas formellement l'institution consultée à cet endroit. Il serait imprudent d'inventer une inscription delphique ou un dossier d'archives pour ce prétendu oracle. Une lecture comparative peut rapprocher cette scène d'autres récits de fondation de cultes, à condition de ne pas transformer chaque consultation en fait archéologiquement établi.
+
+## 07. 490 avant notre ère : le cadre militaire et ses limites
+
+La bataille de Marathon oppose les forces athéniennes et leurs alliés platéens à une expédition achéménide. Hérodote, *Histoires*, VI, 102-117, constitue la narration ancienne principale pour les mouvements et le combat. Son témoignage doit être replacé dans son propre projet d'enquête, lui aussi postérieur à la bataille. La plaine de Marathon, les voies de circulation et les secteurs marécageux sont importants pour toute reconstruction du terrain. Néanmoins, les interprétations modernes divergent sur plusieurs détails de la disposition des armées. La monographie sur Échétlaios ne doit pas dépendre d'une reconstitution tactique unique et contestée. Rien ne prouve que le personnage ait figuré dans la liste des combattants, ni qu'un usage de l'araire comme arme ait été observé en 490. Le langage militaire du mythe n'autorise pas à corriger les sources historiques en leur ajoutant ce que leurs auteurs ne mentionnent pas.
+
+## 08. Hérodote : une absence significative, mais non décisive
+
+Hérodote raconte Marathon au livre VI sans mentionner Échétlaios. Cette absence interdit de le présenter comme un acteur confirmé par la source narrative la plus ancienne. Elle ne prouve pourtant ni que la tradition n'existait pas au Ve siècle ni qu'elle fut créée intégralement à l'époque de Pausanias. La mémoire figurée de Marathon, connue par une peinture classique perdue et décrite plus tard, peut attester une circulation plus ancienne de la figure. La chronologie des attestations doit donc distinguer la date de l'œuvre évoquée de celle de sa description conservée. On ne possède ni procès-verbal d'apparition datant de 490, ni document qui permettrait de dater exactement la naissance du culte. Dire « Échétlaios a été inventé par Pausanias » serait aussi peu fondé que « Échétlaios a réellement tué des Perses ». L'historien conserve entre ces deux affirmations l'espace de l'hypothèse.
+
+## 09. Hérodote VI, 117 : le soldat Épizélos et l'énigme de la vision
+
+Hérodote rapporte qu'Épizélos, fils de Couphagoras, combattit courageusement à Marathon mais devint soudain aveugle sans avoir subi de blessure visible. Le récit transmis à Hérodote évoque un guerrier gigantesque et barbu, dont la barbe ombrageait le bouclier ; cette apparition aurait tué le voisin du combattant. Il ne s'agit pas d'Échétlaios dans le texte d'Hérodote. L'un porte l'équipement d'un hoplite et provoque une perte de vision ; l'autre a une allure paysanne, manie l'araire et est reconnu par un oracle. Ce sont **deux traditions distinctes** de manifestation extraordinaire au combat. Leur rapprochement est néanmoins légitime pour étudier la perception du champ de bataille, les souvenirs de choc extrême et le langage de l'épiphanie. Une hypothèse clinique moderne sur l'aveuglement d'Épizélos ne démontrerait pas la nature de l'apparition.
+
+## 10. Le dieu Pan et la séquence des aides surnaturelles
+
+Hérodote, VI, 105-106, raconte que le messager athénien Philippidès ou Phidippidès rencontre Pan sur la route de Sparte ; le dieu se plaint de ne pas être honoré malgré son aide passée et future. Le récit fournit un cas plus explicite de relation entre promesse divine, victoire et fondation de pratiques cultuelles. L'étude d'Échétlaios gagne à l'utiliser comme contrepoint : Pan possède une identité divine déjà reconnue ; le paysan de Marathon doit recevoir un nom après sa disparition. Dans les deux cas, la victoire devient lisible à travers des relations nouées entre humains et puissances non humaines. Mais on ne doit pas créer une « triade officielle » Pan–Thésée–Échétlaios : les textes ne présentent pas un tel ensemble cultuel. Les convergences relèvent de la mémoire religieuse du même conflit.
+
+## 11. Thésée à Marathon : un autre modèle d'intervention
+
+Plutarque, *Vie de Thésée*, 35, 5, rapporte que plusieurs combattants pensèrent voir Thésée en armes, courant au premier rang contre l'ennemi. Pausanias, I, 15, 3, le décrit dans la peinture de Marathon comme surgissant de la terre. Le mythe d'une intervention de Thésée autorise une mémoire héroïque où le passé fondateur d'Athènes entre dans une bataille historique. Échétlaios, au contraire, n'arrive pas pour rappeler son prestige dynastique : son nom est dérivé d'un outil paysan. Cette dissymétrie permet de distinguer deux figures de défense : le fondateur déjà nommé, et l'inconnu nommé après son action. La comparaison ne doit pas effacer leurs fonctions spécifiques ni affirmer qu'ils furent vus par les mêmes témoins.
+
+## 12. La Stoa Poikilè : la mémoire peinte au cœur de la cité
+
+La Stoa Poikilè, « Portique peint », se trouvait dans l'Agora d'Athènes. Pausanias I, 15, 1-4 décrit ses peintures et mentionne parmi elles une représentation de Marathon. Le tableau associe les Athéniens, les Platéens, les Perses, des commandants connus et plusieurs figures divines ou héroïques. Échétlos y est nommé à côté de Callimaque et de Miltiade. Ce dispositif urbain est essentiel : une tradition née ou située sur le terrain d'une bataille était exposée aux regards d'habitants et de visiteurs au centre de la cité. L'image ne racontait pas seulement une bataille ; elle sélectionnait des présences jugées dignes d'être retenues. La juxtaposition des mortels et des immortels n'oblige pas à penser que les commandants historiques et l'apparition furent représentés avec une même convention graphique. Le tableau est perdu ; sa composition exacte doit rester incertaine.
+
+## 13. L'attribution de la peinture : distinguer témoignage et reconstruction
+
+La bataille de Marathon fut associée dans la tradition à la grande peinture publique du Ve siècle, parfois attribuée à Panainos, parfois discutée dans les travaux sur Mikon et Polygnote. Ces questions d'attribution et de datation ne sont pas définitivement résolues par la seule lecture de Pausanias. La présente étude n'affirmera donc pas que l'on conserve « la fresque de Panainos », encore moins une photographie du détail représentant Échétlaios. Les reproductions modernes de scènes de bataille, les reliefs étrusques et les dessins de restitution ne sont pas des substituts transparents à une peinture antique perdue. Pour MYTHOS, une restitution éventuelle doit être légendée « hypothèse visuelle », avec les passages de Pausanias qui la motivent et les incertitudes qui l'affectent.
+
+## 14. De la peinture civique au récit local
+
+Le même Pausanias rencontre le héros une première fois dans la description d'un monument athénien, puis de nouveau lors de son parcours à Marathon. Cette double occurrence mérite une analyse narrative. Dans l'Agora, le héros appartient à l'ensemble monumental qui donne une forme officielle ou publique à la mémoire athénienne. Dans la plaine, il est expliqué par un récit local d'intervention et par une injonction oraculaire. Le premier contexte privilégie la **visibilité** ; le second, l'**étiologie** du culte. L'enquête s'intéresse à la relation entre ces lieux plutôt qu'à la quête d'une « version originale » absolument pure. La même figure peut avoir été comprise différemment par des visiteurs de l'Agora, des habitants de Marathon ou des commentateurs plus tardifs.
+
+## 15. Marathon comme paysage religieux
+
+Pausanias I, 32, 3-7 décrit un paysage mémoriel dense : sépultures des Athéniens et des Platéens, morts héroïsés, héros éponyme Marathon, Héraclès, récits de bruits nocturnes et, ensuite, l'apparition du paysan armé de l'araire. La plaine ne constitue donc pas un décor neutre. Les tumulus, les routes, les eaux et les limites du territoire participent à la façon dont les vivants donnent une place durable aux morts et aux protecteurs. Il serait néanmoins trompeur de convertir chaque élément de cette description en repère archéologique exactement identifié aujourd'hui. La topographie de Pausanias est une source historique parmi d'autres, à confronter au terrain, à la stratigraphie et aux publications de fouilles.
+
+## 16. La tombe des 192 Athéniens et le témoignage matériel
+
+Le tumulus des combattants athéniens demeure l'un des monuments les plus célèbres de Marathon. L'institution grecque chargée du patrimoine confirme la conservation du tertre funéraire et la présentation au musée local d'objets liés au champ de bataille. Ces données attestent un traitement monumental et mémoriel des morts de 490 ; elles n'attestent pas l'existence matérielle d'Échétlaios. La proposition consistant à placer « sa tombe » dans le tumulus est historiquement invérifiable : le héros du récit **disparaît**. Il ne faut pas non plus confondre la tombe collective avec les vestiges d'un temple particulier. Dans un article illustré, la photographie du tertre doit recevoir une légende nette : « monument des morts de Marathon, contexte historique du récit d'Échétlaios, et non sanctuaire identifié du héros ».
+
+## 17. Le trophée et l'archéologie de la victoire
+
+Pausanias I, 32, 5 mentionne un trophée de pierre blanche sur le terrain. Des fragments d'un monument de victoire du site sont documentés et exposés ou interprétés dans le cadre de la recherche archéologique sur Marathon. Les vestiges permettent d'étudier la mise en monument d'un succès militaire. Rien, en revanche, ne les transforme automatiquement en ex-voto particulier à Échétlaios. Le trophée signifie la victoire ; le culte du héros répond à une autre opération de mémoire. Ces deux formes de reconnaissance peuvent coexister, mais leur association narrative ne prouve pas un même commanditaire, une même date ou un même programme monumental.
+
+## 18. Le statut cultuel : héros, et non dieu olympien
+
+La consigne oraculaire rapportée par Pausanias appelle Échétlaios un **héros**. Dans la religion grecque, la catégorie des héros ne se résume ni à la mort glorieuse ni à l'apothéose olympienne. Des héros peuvent être des ancêtres, des fondateurs, des puissances localisées ou des morts remarquables auxquels on rend des honneurs spécifiques. Les rituels varient selon les lieux et les périodes ; il serait faux d'assigner à tout héros un unique type de sacrifice, nécessairement « chthonien ». Dans le cas d'Échétlaios, nous connaissons le commandement d'honorer, mais pas le calendrier détaillé, le personnel sacerdotal ni les substances sacrificielles. L'appellation de « dieu de la charrue » gommerait la spécificité du dossier.
+
+## 19. Le travail agricole comme ressource de puissance
+
+Pourquoi l'outil agricole, et non la lance ? Une hypothèse interprétative est que la figure transforme l'expérience de défense territoriale en symbole concret : le même sol qui nourrit est celui qu'on doit protéger. L'araire, qui ouvre la terre pour semer, devient dans le récit un instrument de combat. Pourtant cette lecture reste une **interprétation** ; Pausanias ne propose pas explicitement une théorie de la citoyenneté paysanne. Il convient d'éviter les clichés sur une armée athénienne exclusivement composée de petits propriétaires libres. La composition socio-économique des forces et le rapport entre citoyens, résidents et alliés constituent des questions distinctes. L'emblème paysan peut exalter la terre civique sans fournir une statistique sociale des combattants.
+
+## 20. Le paysan et le hoplite : deux régimes de visibilité
+
+La représentation dominante du combattant grec classique est celle de l'hoplite équipé. Échétlaios se signale précisément par un équipement étranger à cette norme : son « costume » rustique est suffisamment frappant pour que les narrateurs en fassent un critère d'identification. Il donne à voir un renversement des hiérarchies de prestige. Un personnage sans panoplie militaire obtient, dans la mémoire, une efficacité surhumaine. Le récit ne signifie pas nécessairement une critique sociale explicite du commandement aristocratique : la même peinture qui l'accueillait exaltait également Miltiade et Callimaque. Il est plus rigoureux d'y discerner la coexistence d'emblèmes : chef militaire, allié civique, dieu protecteur et paysan anonyme héroïsé.
+
+## 21. La disparition et la logique de l'épiphanie
+
+Dans la tradition grecque, une présence divine peut se manifester brièvement et demeurer ensuite inaccessible. L'apparition d'Échétlaios n'est pas suivie d'un retour à une maison ou d'une reconnaissance de parenté. La disparition marque la frontière entre le groupe humain observable et la puissance qui s'est révélée. On peut rapprocher, avec prudence, cette construction des épiphanies homériques : dans l'*Iliade* V, 121-132, Athéna modifie la capacité de Diomède à distinguer les dieux des hommes. La comparaison concerne les conditions de visibilité du surnaturel ; elle ne démontre pas un emprunt textuel direct par la tradition de Marathon. Dans les deux cas, la perception n'est pas neutre : elle dépend d'un statut, d'un moment et de puissances qui décident de se montrer.
+
+## 22. L'invisible et le visible : le paradoxe d'un héros représenté
+
+L'épisode comporte une tension importante. Celui qu'aucun survivant ne peut retrouver est ensuite visible dans une image publique. La peinture n'abolit pas l'absence : elle lui attribue une forme stable, accessible et partageable. Cette opération est fondamentale pour comprendre une part de la religion civique grecque. Les images ne sont pas de simples « photographies du miracle ». Elles permettent à une collectivité de maintenir un rapport avec une puissance dont l'intervention est supposée, mais dont l'accès demeure incertain. On évitera cependant d'identifier toute peinture héroïque à une image de culte : tableau commémoratif, offrande, statue et objet rituel répondent à des usages différents.
+
+## 23. Héroïsation des morts et singularité d'Échétlaios
+
+Pausanias distingue les morts de Marathon honorés comme héros, le héros éponyme Marathon, Héraclès et Échétlaios. Ce regroupement n'implique pas que toutes ces figures possèdent le même statut. Les morts de guerre ont des tombes, des noms de tribus et une mémoire collective. Échétlaios n'a pas de dépouille localisée par la tradition ; son culte procède d'une identification oraculaire. La différence éclaire plusieurs façons d'accéder au statut héroïque : par une sépulture civique, par l'ancienneté mythique d'un lieu ou par une épiphanie. Le chapitre ne doit pas appliquer mécaniquement à l'un la documentation matérielle de l'autre.
+
+## 24. Le conflit contre les Perses et la fabrique d'un récit civique
+
+Après 490, la victoire de Marathon devient une ressource puissante de mémoire politique athénienne. Le récit d'Échétlaios en est un élément, non l'unique centre. Dans la représentation du portique, le combat peut être lu comme un événement où la cité reçoit l'appui de ses dieux et de ses héros tout en célébrant ses commandants et ses alliés. Il convient de rappeler que les représentations d'Athènes après les guerres médiques ont été travaillées par les rivalités internes et par des ambitions impériales ultérieures. L'héroïsation du paysan ne doit donc pas être transformée en récit innocent d'une unanimité démocratique sans tensions. Elle est un instrument symbolique possible de cohésion ; son efficacité sociale exacte n'est pas mesurable.
+
+## 25. La place des Platéens : mémoire et effacement
+
+Pausanias mentionne explicitement les Béotiens de Platées dans la peinture de Marathon (I, 15, 3) et leur tombe dans le paysage (I, 32, 3). Cette précision est importante pour éviter une lecture strictement athénocentrée du combat. Le mythe d'Échétlaios privilégie la protection d'un territoire et d'une communauté, mais le souvenir de la bataille appartient aussi à des alliés. Une étude critique doit interroger la manière dont les peintures civiques répartissent visibilité et prestige entre le centre politique qui les commande et les partenaires qui ont contribué à la victoire. Le paysan héroïque n'est pas une preuve que les alliés furent oubliés ; la source les fait au contraire apparaître dans un même ensemble visuel.
+
+## 26. La mémoire des vaincus et les limites de la catégorie « barbares »
+
+Pausanias utilise pour les ennemis un vocabulaire grec traditionnel dans lequel « barbares » désigne les non-Grecs. Il ne faut pas le reproduire sans guillemets comme catégorie anthropologique moderne. L'empire achéménide était un ensemble politique plurilingue et complexe ; ses combattants ne se réduisent pas aux silhouettes stéréotypées de la peinture civique athénienne. L'objet de cette étude est la tradition grecque et ses constructions mémorielles, non une description neutre de l'armée perse. Le récit qui fait massacrer des ennemis par une figure surnaturelle constitue aussi un discours sur la violence légitimée par la défense de la cité. Le traiter avec rigueur exige de conserver cette asymétrie de perspective.
+
+## 27. Le héros agrarien et Bouzyges : une analogie contrôlée
+
+Bouzyges, « celui qui attelle les bœufs », relève de traditions athéniennes relatives au premier labour et à l'agriculture. Sa proximité thématique avec Échétlaios est manifeste : les deux figures mobilisent le vocabulaire du travail de la terre. Mais aucune source exploitée ici n'autorise à dire qu'Échétlaios est son fils, son double cultuel ou une épiclèse certaine de Bouzyges. Des rapprochements iconographiques ou fonctionnels ont été proposés dans la recherche ; ils restent des hypothèses. La distinction méthodologique est exemplaire : deux personnages partageant un attribut ne deviennent pas automatiquement une seule divinité. Les cultes grecs sont riches en correspondances partielles, qui n'impliquent pas de fusion généalogique.
+
+## 28. Les reliefs funéraires étrusques : un problème iconographique
+
+Des urnes funéraires étrusques montrent des scènes violentes où un personnage manie un outil agricole ou un objet ressemblant à un araire contre des combattants. L'identification de ce personnage à Échétlaios a été proposée historiquement. Mais l'**Enciclopedia dell'Arte Antica** de Treccani souligne les fortes réserves qui affectent cette attribution et l'enracinement probable des images dans d'autres traditions étrusques. Il serait donc fautif de présenter une de ces urnes comme « preuve que le paysan de Marathon était représenté en Étrurie ». Les scènes peuvent éclairer une famille de motifs visuels, pas confirmer le nom du protagoniste. Pour MYTHOS, elles n'entreront dans la galerie qu'avec un cartel : « scène étrusque jadis rapprochée d'Échétlaios ; identification controversée ».
+
+## 29. Les limites de la restitution visuelle
+
+Les matériaux de l'araire, la couleur des vêtements, l'âge et les traits du visage du héros ne sont pas spécifiés avec exactitude. Une reconstitution dite photoréaliste du champ de bataille peut représenter une hypothèse historique sur le paysage ou l'équipement, mais elle ne peut jamais transformer en photographie documentaire une épiphanie mythique. Il convient de distinguer trois niveaux : image d'un artefact antique authentifié ; dessin analytique indiquant les éléments transmis par les textes ; illustration libre explicitement signalée comme telle. Une figure générée ne doit pas être présentée sous le titre « fresque retrouvée » ni confondue avec le tableau perdu de la Stoa Poikilè. Aucune ancienne illustration 2,5D ne doit être réintroduite.
+
+## 30. Religion, souvenir et cognition collective
+
+La mémoire d'une bataille est transmise par les récits, les monuments, les performances et les pratiques cultuelles. Ces médias n'ont pas la même fonction. Le témoignage personnel d'Épizélos, conservé par Hérodote, concerne une expérience individuelle extraordinaire ; la peinture de Marathon, visible en ville, suppose une construction collective ; l'instruction oraculaire attribuée à Échétlaios prescrit une conduite religieuse. Leur comparaison fait apparaître une chaîne : événement, interprétation, institution, répétition. La chaîne n'est pas un processus mécanique entièrement reconstituable ; chaque maillon peut avoir été transformé par des intérêts, par des oublis et par des relectures. Une bonne histoire religieuse ne cherche pas à choisir définitivement entre « pure hallucination » et « miracle vérifié » lorsque la documentation ne le permet pas.
+
+## 31. Platon : le héros comme objet d'honneur et de mémoire
+
+Dans les *Lois* IV, 716e-717c, Platon ordonne une réflexion sur les honneurs dus aux dieux, aux démons, aux héros et aux ancêtres. Le texte n'évoque pas Échétlaios. Il éclaire cependant l'existence d'une pensée grecque distinguant plusieurs catégories de puissances honorables, ainsi que le caractère normatif des gestes de piété. En appliquant ce cadre au paysan de Marathon, on peut poser une question théorique : qu'est-ce qu'une communauté fait lorsqu'elle institue un nouveau destinataire d'honneurs ? Elle ne rédige pas une biographie ; elle reconnaît une relation de dette et met en place des conduites susceptibles de la maintenir. Il faut signaler que cette lecture relève de la comparaison philosophique, non d'une interprétation directement formulée par Platon du culte local.
+
+## 32. Aristote : action, honneur et causalité
+
+L'*Éthique à Nicomaque*, III, 1, 1110a, distingue les actes volontaires, involontaires et mixtes sous contrainte ; ce cadre n'explique pas directement l'épiphanie, mais il aide à interroger les responsabilités des combattants et les conventions de l'éloge public. Plus directement, la *Poétique* invite à distinguer les formes du récit et leurs exigences de vraisemblance de l'énoncé historique d'événements singuliers (1451a36-b11). À ce titre, le mythe d'Échétlaios peut être étudié pour la logique de son intrigue : un inconnu devient connaissable par ses actes et son absence. Ce n'est pas un argument pour nier tout substrat historique ; c'est une invitation à ne pas appliquer au récit religieux les mêmes critères qu'à un inventaire de troupes.
+
+## 33. Hegel : le travail et la défense d'un monde humain
+
+Une lecture contemporaine inspirée de Hegel peut rapprocher l'araire de la transformation du monde naturel par l'activité humaine. Dans la *Phénoménologie de l'esprit*, la dialectique du travail montre comment l'action sur la matière participe à la formation de la conscience. Chez Échétlaios, l'outil qui devait transformer le sol se transforme en instrument de défense. La comparaison est suggestive, mais strictement heuristique : Hegel ne commente pas ce passage de Pausanias et il serait abusif de présenter le paysan comme une préfiguration consciente de sa philosophie. Le contraste permet surtout de penser que le récit met en scène la vulnérabilité d'un monde habité : défendre une communauté, c'est aussi protéger les conditions matérielles de son existence.
+
+## 34. Nietzsche : violence, monument et sélection des souvenirs
+
+Dans la deuxième des *Considérations inactuelles*, « De l'utilité et de l'inconvénient de l'histoire pour la vie », Nietzsche distingue notamment l'histoire monumentale et les usages vitaux du passé. La victoire de Marathon, peinte sur un portique, fournit un excellent terrain pour examiner la manière dont le souvenir d'un exploit devient modèle et ressource politique. Échétlaios est un acteur paradoxal de cette monumentalisation : il devient célébré précisément parce qu'il n'a ni lignée ni biographie à transmettre. La lecture nietzschéenne n'implique ni admiration automatique de la violence ni réduction de tout culte à la propagande. Elle permet de questionner ce que la mémoire exalte, ce qu'elle simplifie et ce qu'elle laisse hors de son champ.
+
+## 35. La cité, le territoire et la souveraineté de ses limites
+
+Le paysan au combat incarne possiblement une relation directe entre le sol cultivé et l'espace menacé. Cette lecture intéresse une philosophie politique de la frontière : le territoire civique n'est pas seulement une superficie contrôlée, il est un monde de pratiques, de morts, de cultes et de récits. Mais il serait historiquement inexact d'attribuer à Pausanias une théorie juridique de la souveraineté territoriale. Une analyse prudente distinguera le mythe, les pratiques athéniennes de délimitation des terres, la religion des dèmes et nos catégories contemporaines. L'apparition peut être comprise comme une image de protection de la terre sans devenir une « divinité nationale » au sens moderne.
+
+## 36. Comparaison avec les guerriers divins : analogies sans généalogie
+
+Les traditions grecques et méditerranéennes offrent d'autres récits où une puissance non humaine intervient dans une bataille. Les poèmes homériques représentent fréquemment des dieux agissant aux côtés des héros, parfois sous apparence humaine. Des récits du Proche-Orient ancien mettent également des interventions divines au service de souverains ou de villes. Le rapprochement concerne le mécanisme narratif : une victoire humaine est interprétée comme soutenue par une puissance supérieure. Il ne suffit pas à prouver un emprunt de Marathon à un texte mésopotamien particulier, ni à identifier Échétlaios avec un guerrier divin anatolien. Les comparaisons sérieuses exigent la documentation d'une transmission, une chronologie compatible et une similitude précise allant au-delà du thème générique « dieu aide l'armée ».
+
+## 37. Comparaison avec les héros locaux et les fondateurs
+
+La Grèce possède de nombreux héros localisés, tels que les éponymes de dèmes et les protecteurs attachés à des sanctuaires. Échétlaios se distingue par l'absence de généalogie développée et par son identité révélée après le combat. Les éponymes et les morts honorés sont utiles comme termes de comparaison, mais leurs cultes ne sont pas interchangeables. Le fait qu'un héros protège une terre ne suffit pas à montrer qu'il fut originellement un dieu de fertilité. La recherche sur la religion héroïque invite plutôt à examiner les relations concrètes entre un nom, un lieu, un récit et des gestes attestés. Dans le cas présent, la première et la troisième composantes sont relativement claires ; les détails de la quatrième restent inconnus.
+
+## 38. Cultes et sacrifices : ce que le texte n'autorise pas à inventer
+
+La mention par Pausanias de l'ordre d'« honorer comme héros » est positive et importante. Elle ne précise pourtant pas le type de victime, la date d'une fête, l'emplacement d'un autel, les charges sacerdotales ou l'existence d'une procession. Aucune image trouvée dans une galerie en ligne ne devrait être présentée comme celle d'un « prêtre d'Échétlaios » sans preuve. Pour approfondir le culte, il faudrait relever les inscriptions du secteur, vérifier les inventaires archéologiques et étudier les sources topographiques. En leur absence, la formule correcte est : **culte héroïque rapporté par Pausanias, modalités rituelles non documentées**. Cette limitation constitue un résultat critique, non un défaut à dissimuler.
+
+## 39. Archéologie de la Stoa Poikilè : ce qui est conservé
+
+Les fouilles de l'Agora d'Athènes ont identifié et étudié des vestiges architecturaux associés à la Stoa Poikilè. Les travaux de l'American School of Classical Studies at Athens, notamment le bilan de la campagne 2008 publié en 2009, décrivent les recherches sur la partie orientale du bâtiment et des éléments de son mur arrière et de sa colonnade. Ces traces ont une valeur archéologique réelle. En revanche, elles n'autorisent pas l'affirmation selon laquelle un panneau conservé représenterait aujourd'hui Échétlaios. Le décor peint est connu avant tout par des témoignages anciens et par des débats savants. Une photographie de ruines pourra illustrer le contexte architectural, mais elle ne sera jamais légendée « peinture d'Échétlaios ».
+
+## 40. Confrontation des attestations : tableau raisonné
+
+| Source | Datation et genre | Information | Ce qui n'est pas établi |
+| --- | --- | --- | --- |
+| Hérodote, *Histoires* VI, 105-117 | Ve s. av. n. è., enquête historique | Marathon, Pan, récit d'Épizélos | Pas de mention d'Échétlaios |
+| Peinture de la Stoa Poikilè, décrite par Pausanias I, 15, 3 | Œuvre classique perdue, description du IIe s. de n. è. | Échétlos parmi les figures de Marathon | Composition matérielle exacte et portrait conservé |
+| Plutarque, *Thésée* 35, 5 | Époque impériale, biographie | Apparition de Thésée selon la mémoire des combattants | Identité avec Échétlaios |
+| Pausanias I, 32, 5 | IIe s. de n. è., pérégèse | Paysan, araire, disparition, prescription d'honneurs | Date et modalités des rites |
+| Tumulus et trophée de Marathon | Vestiges antiques étudiés par l'archéologie | Mémoire matérielle de la victoire | Sanctuaire ou tombe d'Échétlaios |
+
+La grille sépare explicitement **attestation** et **inférence**. Elle doit être mise à jour si une inscription ou une publication archéologique apportait de nouveaux éléments.
+
+## 41. Questions ouvertes pour la recherche
+
+Plusieurs problèmes restent légitimes : le nom Échétlaios fut-il donné pour la première fois à l'occasion d'une peinture, d'un rituel ou d'un récit local ? Le motif du paysan aurait-il évoqué des cérémonies de labour ou simplement l'idéal de défense de la terre ? À quelle période a-t-on commencé à attribuer le récit à un oracle ? Quelle place la figure occupait-elle sur la peinture aujourd'hui perdue ? Comment les habitants de Marathon et les citoyens qui passaient dans l'Agora différaient-ils dans leur manière de reconnaître le héros ? Aucune de ces questions ne doit recevoir une réponse inventée. Les pistes de travail recommandées sont : comparaison des éditions du grec ; étude des fragments iconographiques avec inventaires ; bibliographie des fouilles de l'Agora ; cartographie critique du paysage mémoriel ; analyse du vocabulaire des épiphanies chez Hérodote et Pausanias.
+
+## 42. Bibliographie primaire et traductions
+
+1. **Pausanias**, *Description de la Grèce* I, 15, 3 ; I, 32, 3-7, notamment I, 32, 5. Édition et traduction W. H. S. Jones, *Description of Greece*, Loeb Classical Library, livres I-II ; consulter également le grec.
+2. **Hérodote**, *Histoires* VI, 102-117, particulièrement VI, 105-106 (Pan), VI, 112-116 (combat), VI, 117 (Épizélos). Traduction critique selon l'édition choisie.
+3. **Plutarque**, *Vie de Thésée* 35, 5, sur la vision du héros à Marathon ; éd. et trad. Bernadotte Perrin, *Plutarch's Lives*, Loeb Classical Library, vol. I.
+4. **Homère**, *Iliade* V, 121-132, perception des dieux par Diomède : comparaison littéraire seulement.
+5. **Platon**, *Lois* IV, 716e-717c, place des honneurs héroïques ; **Aristote**, *Poétique* 1451a36-b11, différence des récits poétique et historique.
+
+Portails de contrôle : [Pausanias I, 15](https://www.greekmythology.com/sources/pausanias/description-of-greece/1-15), [Pausanias I, 32](https://www.greekmythology.com/sources/pausanias/description-of-greece/1-32), [Hérodote VI](https://mouseia.org/texts/herodotus/book-6), [Plutarque, Thésée 35](https://lexundria.com/plut_thes/35/prr).
+
+## 43. Bibliographie critique et ressources archéologiques
+
+- Robert **Parker**, *Athenian Religion: A History*, Oxford, Clarendon Press, 1996 : contexte de la religion civique athénienne.
+- Robert **Parker**, *Polytheism and Society at Athens*, Oxford, Oxford University Press, 2005 : pluralité des cultes, héros et institutions.
+- Walter **Burkert**, *Greek Religion*, trad. J. Raffan, Cambridge (Mass.), Harvard University Press, 1985 : catégories et pratiques religieuses.
+- Susan E. **Alcock**, *Archaeologies of the Greek Past: Landscape, Monuments, and Memories*, Cambridge, Cambridge University Press, 2002 : mémoire et paysage monumental.
+- John McK. **Camp**, *The Archaeology of Athens*, New Haven, Yale University Press, 2001 : contexte urbain et monuments.
+- A. **Comotti**, « Echetlos », *Enciclopedia dell'Arte Antica*, 1960 : discussion critique des identifications étrusques, [Treccani](https://www.treccani.it/enciclopedia/echetlos_%28Enciclopedia-dell%27-Arte-Antica%29/).
+- Gregory **Nagy**, « Eight glimpses of Marathon in Scroll 1 of Pausanias », *Classical Inquiries*, Center for Hellenic Studies, [en ligne](https://classical-inquiries.chs.harvard.edu/eight-glimpses-of-marathon-in-scroll-1-of-pausanias/).
+- American School of Classical Studies at Athens, « The Athenian Agora's 2008 Season: Preliminary Results », 27 mars 2009 : [bilan des fouilles de la Stoa Poikilè](https://www.ascsa.edu.gr/news/newsDetails/agora-2008-season).
+- Ministère grec de la Culture, [Musée archéologique de Marathon](https://archaeologicalmuseums.culture.gov.gr/en/museum/5df34af3deca5e2d79e8c18a/archaeological-museum-of-marathon) ; portail patrimonial [Hellenic Heritage](https://www.hh.gr/en/destinations/marathon/).
+
+Les publications de synthèse sont des outils de contextualisation ; elles ne doivent pas être citées comme attestations directes d'un rituel absent des sources.
+
+## 44. Programme iconographique : douze documents justifiés
+
+**01. Carte topographique de l'Attique orientale**, avec Marathon, Athènes, les voies et l'Agora ; échelle et source géographique. **02. Vue générale de la plaine de Marathon**, photographie contemporaine avec date et crédit. **03. Tumulus des Athéniens**, photographie du monument et notice du ministère grec, sans attribution à Échétlaios. **04. Fragments du trophée de Marathon**, photographies du musée avec numéro d'inventaire et droits. **05. Musée archéologique de Marathon**, vue des collections relatives au combat, sans sous-entendre qu'un objet y représente le héros. **06. Fouilles de la Stoa Poikilè**, photographie institutionnelle de l'American School. **07. Plan de l'Agora d'Athènes** situant la Stoa, avec référence scientifique. **08. Fac-similé ou page d'une édition grecque de Pausanias I, 15 et 32**, citation bibliographique et droits vérifiés. **09. Équipement d'un hoplite**, artefact authentifié, pour contraste avec le paysan du récit. **10. Araire grec ou modèle technique fondé sur des preuves**, légendé « comparaison, non objet d'Échétlaios ». **11. Relève d'urne étrusque avec personnage à outil agricole**, accompagnée de la mention « identification contestée ». **12. Tableau synoptique des épiphanies de Marathon** (Pan, Thésée, apparition d'Épizélos, Échétlaios), entièrement original. Pour chaque image : autorité, provenance, datation, musée ou dépôt, licence, URL de notice, degré d'identification et alternative textuelle. Aucune perspective vectorielle 2,5D.
+
+## 45. Conclusion générale
+
+Échétlaios est moins un combattant dont nous pourrions reconstruire la vie qu'un cas exceptionnel de **fabrication religieuse de la mémoire**. Le récit commence avec un outil ordinaire et finit avec une injonction d'honorer un héros. Entre les deux s'ouvrent les questions essentielles : comment une cité interprète-t-elle une victoire ? Quelles présences accepte-t-elle d'inscrire à côté des morts documentés et des commandants connus ? Pourquoi la figure d'un paysan inconnu peut-elle prendre place dans une peinture publique où paraissent Thésée, Athéna et Héraclès ? La réponse exige plusieurs niveaux de preuve. Pausanias atteste une tradition et une prescription de culte ; la Stoa Poikilè atteste la place publique ancienne accordée au personnage ; l'archéologie atteste la monumentalisation de Marathon, mais ni la réalité de l'apparition ni un temple du héros. L'araire donne au récit son image la plus forte : la terre nourricière devient, dans la mémoire d'un danger extrême, le signe d'une force de défense. La valeur universitaire de cette histoire repose sur la distinction maintenue entre ce que les Grecs disaient, ce qu'ils honoraient et ce que nous pouvons aujourd'hui établir.
