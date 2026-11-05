@@ -2,7 +2,7 @@
   "generated_at": "2026-11-05",
   "site": "bobmythos.fr",
   "method": "Illustrations photoréalistes interprétatives, textes et sources hors des pixels.",
-  "count": 49,
+  "count": 50,
   "entries": [
     {
       "id": "DEL-PAN-001",
@@ -1012,6 +1012,30 @@
       "provenance": "Création originale photoréaliste à apparence 3D, convertie en WebP sans titre, menu, légende ou filigrane dans les pixels ; non métrique, non photogrammétrique et non validée par les organismes cités. Les notices sont extérieures à l’image.",
       "sha256": "c517242babb0df409fa55647184ece77d1fc33d3fc957a1ca33a87cae00015ac",
       "scientific_notice": "/assets/reconstitutions-3d/notices/priene-temple-athena-polias-chantier-vers-300-av-jc.json"
+    },
+    {
+      "id": "ASS-ATH-001",
+      "slug": "assos-temple-athena-acropole-archaique-vers-530-av-jc",
+      "title": "Assos — temple d’Athéna, acropole dorique archaïque",
+      "period": "Évocation vers 530 av. J.-C. (temple daté approximativement de 540–530 av. J.-C. ; état interprétatif)",
+      "caption": "Vue photoréaliste interprétative du temple d’Athéna au sommet de l’acropole d’Assos, en Troade, dominant la mer Égée et l’île de Lesbos. L’image représente un monument complet par hypothèse, et non un état archéologique observé.",
+      "commentary": "Le temple d’Athéna, établi au sommet de l’acropole d’Assos (actuel Behramkale, Turquie), date approximativement de 540–530 av. J.-C. Il s’agit d’un monument dorique périptère de six colonnes en façade et treize sur les longs côtés, implanté sur une plate-forme d’environ 14,03 × 30,31 m selon les dimensions publiées dans Perseus. Le gros œuvre utilise une roche locale, l’andésite, caractéristique du substrat volcanique du site, et non un marbre blanc uniforme. Le pronaos est orienté à l’est. L’entablement associe au système dorique un décor de reliefs d'inspiration ionienne, particularité importante de ce monument archaïque. Des fragments sculptés sont conservés dans plusieurs musées. Cette restitution cherche à rendre lisibles la disposition périptère, les matériaux et la topographie dominante du sanctuaire. L’état entier du toit, les figures du fronton, la restitution des reliefs, les pigments, les aménagements de l’autel, les vêtements, les habitations visibles sur les terrasses inférieures, le port, les embarcations, l’atmosphère et le panorama exact depuis la caméra sont conjecturaux. L’état visible aujourd’hui inclut des restaurations modernes ; il ne constitue pas une preuve de l’aspect complet de l’édifice au VIe siècle av. J.-C. Il s’agit d’une image numérique non métrique et non d’un modèle scientifique validé.",
+      "certainty": "Élevé : Existence et localisation du temple sur l’acropole d’Assos ; chronologie générale vers 540–530 av. J.-C. ; ordre dorique, péristyle 6 × 13, construction en andésite et site élevé dominant la mer. Moyen : Dimensions générales du stylobate, orientation et organisation du pronaos, composition de l’entablement dorique avec reliefs de tradition ionienne ; lignes d’élévation reconstruites à partir des vestiges et études. Faible : État complet du toit vers 530 av. J.-C., iconographie et position précise des figures sculptées, décors peints, mobilier et statuaires cultuelles, paysage urbain, position de la caméra, scène humaine et vue portuaire.",
+      "source_url": "https://whc.unesco.org/en/tentativelists/6242",
+      "secondary_sources": [
+        "https://perseus-aa.github.io/items/aa_31.html",
+        "https://turkishmuseums.kprod.kultur.gov.tr/museum/detail/2019-canakkale-assos-archaeological-site/2019/4",
+        "https://www.archaeological.org/temple-of-athena-at-assos-2008-report/",
+        "https://canakkale.ktb.gov.tr/TR-70512/assos-oren-yeri.html"
+      ],
+      "src": "/assets/reconstitutions-3d/assos-temple-athena-acropole-archaique-vers-530-av-jc.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-05",
+      "type": "panorama 3D photoréaliste interprétatif non métrique",
+      "provenance": "Image originale générée numériquement pour MYTHOS, sans titre, menu, légende ni filigrane incrusté ; photoréalisme interprétatif à apparence 3D, non métrique. Les organismes cités documentent le site et n’ont ni validé ni approuvé cette image.",
+      "sha256": "5d55d55c30205ac49728ebb8ba729f6dfad7b63f5015b61bd71c8667679a754c",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/assos-temple-athena-acropole-archaique-vers-530-av-jc.json"
     }
   ]
 }
