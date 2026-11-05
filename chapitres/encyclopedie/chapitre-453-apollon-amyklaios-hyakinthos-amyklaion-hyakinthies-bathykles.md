@@ -2,7 +2,7 @@
 
 ## Apollon Amyklaios et Hyakinthos : le trône, le tombeau et les Hyakinthies au sanctuaire d'Amyclées
 
-*Monographie universitaire originale — histoire des religions grecques, philologie, récits mythiques, épigraphie, archéologie, histoire politique et philosophie du rite. État documentaire : 5 novembre 2026. Le numéro de cette étude est attribué exclusivement par le système de publication ; aucune cote ancienne ou annonce de continuité ne vaut réservation.*
+*Monographie universitaire originale — histoire des religions grecques, philologie, récits mythiques, épigraphie, archéologie, histoire politique et philosophie du rite. État documentaire : 5 novembre 2026. Cote canonique : chapitre 453, attribué par GitHub Actions ; aucune cote ancienne ou annonce de continuité ne vaut réservation.*
 
 ### Résumé et problématique
 

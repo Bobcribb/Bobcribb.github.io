@@ -2,7 +2,7 @@
 
 ## Hélène et Ménélas au Ménélaion de Thérapné : mémoire mycénienne, culte héroïque, épiphanie et souveraineté lacédémonienne
 
-*Monographie originale. Histoire des religions grecques, textes et fragments, épigraphie dialectale, archéologie, traditions narratives et philosophie de la mémoire. État de la documentation : 5 novembre 2026. La désignation « chapitre 452 » est une variable de publication, nullement une réservation de numéro.*
+*Monographie originale. Histoire des religions grecques, textes et fragments, épigraphie dialectale, archéologie, traditions narratives et philosophie de la mémoire. État de la documentation : 5 novembre 2026. Cote canonique : chapitre 452, attribué par GitHub Actions et inscrit dans le registre éditorial.*
 
 ### Résumé
 
@@ -315,4 +315,4 @@ L'édifice n'est pas une preuve matérielle de l'existence biographique du coupl
 
 ---
 
-*Notice éditoriale : manuscrit destiné à la collection « encyclopedie ». Numéro canonique à attribuer par GitHub Actions seulement. La publication publique et la présence dans l'index du site doivent être vérifiées séparément. Ne pas interpréter les anciennes cotes 134/135 comme des réservations.*
+*Notice éditoriale : manuscrit destiné à la collection « encyclopedie ». Numéro canonique attribué : chapitre 452, selon le reçu GitHub Actions. La première publication publique a été vérifiée ; les mises à jour du catalogue restent à contrôler séparément. Ne pas interpréter les anciennes cotes 134/135 comme des réservations.*

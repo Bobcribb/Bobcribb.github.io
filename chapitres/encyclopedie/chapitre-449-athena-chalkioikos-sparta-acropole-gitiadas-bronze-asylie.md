@@ -2,7 +2,7 @@
 
 ## Athéna Chalkioikos à Sparte : la Maison de bronze, Gitiadas, les cloches votives et le droit d'asile face aux éphores
 
-*Étude universitaire approfondie et originale — mythologie, philologie, épigraphie laconienne, archéologie, histoire religieuse, droit sacré et philosophie des institutions. Documentation contrôlée le 5 novembre 2026. Le signe 449 est une variable éditoriale et ne réserve aucun numéro.*
+*Étude universitaire approfondie et originale — mythologie, philologie, épigraphie laconienne, archéologie, histoire religieuse, droit sacré et philosophie des institutions. Documentation contrôlée le 5 novembre 2026. Cote canonique : chapitre 449, attribué par GitHub Actions et consigné dans editorial/numbering.json.*
 
 ### Résumé et thèse
 
@@ -333,4 +333,4 @@ La meilleure histoire de ce sanctuaire n'efface ni les contradictions des source
 
 ---
 
-*Notice éditoriale. Collection : encyclopedie. Aucun numéro n'est réservé par une ancienne cote 134/135, par ce manuscrit ou par son dépôt. L'intégration doit passer uniquement par la file JSON à UUID unique ; l'attribution et le déploiement public doivent être contrôlés séparément. Aucune planification horaire n'est modifiée.*
+*Notice éditoriale. Collection : encyclopedie. La cote canonique actuelle est le chapitre 449, attribué par GitHub Actions ; les anciennes cotes 134/135 ne constituent pas des attributions. Le déploiement initial a été vérifié sur bobmythos.fr ; les mises à jour ultérieures restent soumises à un contrôle distinct. Aucune planification horaire n'est modifiée.*
