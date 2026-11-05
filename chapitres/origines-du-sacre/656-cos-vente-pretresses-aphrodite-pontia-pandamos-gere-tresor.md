@@ -1,0 +1,264 @@
+# MYTHOS — Les Origines du sacré — Tome DCLVI, chapitre 656
+## Acheter une prêtrise, administrer un culte : Cos, Aphrodite Pandamos et Pontia, *géra*, obligations et comptes sacrés
+
+*Étude universitaire de droit religieux grec, d'épigraphie de Cos et de philosophie politique. Textes principaux : IG XII 4, 1, 302 (Aphrodite Pandamos), IG XII 4, 1, 319 (Aphrodite Pontia), ensemble CGRN 220 ; comparaison : IG XII 4, 1, 306 (prêtrise du roi Eumène II). Les lectures françaises qui suivent reformulent les clauses des éditions de l'Académie de Berlin : elles ne constituent pas une nouvelle édition critique.*
+
+### 656.1 — De la peau vendue au sacerdoce acheté
+
+L'étude précédente a examiné comment la cité d'Athènes transformait une peau sacrificielle en recette comptable. Cos, à l'époque hellénistique, offre un dispositif différent : certains sacerdoces sont vendus sous des conditions écrites et donnent accès à des droits religieux, à des prestations matérielles et parfois à des revenus.
+
+Il ne faut pas comprendre « acheter une prêtrise » comme acheter le dieu, la foi ou l'intégralité d'un sanctuaire. L'objet juridique est une fonction définie par la cité. Elle comprend des obligations cultuelles, des modalités de nomination, des exclusions ou exigences personnelles, des droits sur certaines prestations, des contrôles et des sanctions. Le langage du marché sert à répartir une charge et à organiser des droits ; il ne constitue pas une description exhaustive de l'expérience religieuse du titulaire.
+
+Cos est exceptionnellement bien documentée par des inscriptions des IVe–Ier siècles avant notre ère. Cette richesse ne doit pas être convertie en représentativité universelle du monde grec. Les ventes de sacerdoces sont surtout bien attestées dans certaines cités d'Asie Mineure et des îles, sans constituer un modèle unique de tous les polythéismes grecs.
+
+### 656.2 — Une île, une cité, plusieurs niveaux de culte
+
+Le synœcisme de Cos en 366 av. n. è. transforme la structure politique de l'île et réorganise l'articulation entre cité et dèmes. Stéphanie Paul a souligné que le panthéon local se comprend à travers des relations entre cultes de la cité, de villages et de sanctuaires spécialisés. Les prescriptions hellénistiques ne surgissent donc pas dans un vide religieux : elles codifient et redéploient des pratiques dont certaines se présentent comme anciennes.
+
+L'analyse doit distinguer une inscription, sa date et l'ancienneté qu'elle revendique pour des pratiques. Une réglementation de la fin du IIe siècle peut citer des usages antérieurs sans permettre de dater leur origine. Les périodes d'intensification épigraphique sont aussi des périodes où les institutions souhaitent rendre publiques des règles, sans que chaque pratique publique soit née au moment de sa gravure.
+
+### 656.3 — La topographie : ville, port et Asclépiéion
+
+Le culte d'Aphrodite se déploie sous différentes épiclèses. *Pandamos* renvoie à une relation civique large ; *Pontia* met en évidence les rapports à la mer et à ceux qui naviguent. Ces rapprochements sont fondés sur le contexte et les prescriptions, pas sur une définition intemporelle de la nature divine.
+
+Le dossier épigraphique situe la réglementation de Pandamos dans la ville de Cos, tandis que la pièce aujourd'hui appelée IG XII 4, 1, 319 a été trouvée dans le contexte de l'Asclépiéion. La provenance de la pierre n'est pas automatiquement le lieu originel de son exposition. Des inscriptions peuvent être déplacées, utilisées en remploi et gravées sur des supports réutilisés.
+
+Le livre de Stéphanie Paul souligne la place de sanctuaires d'Aphrodite dans l'espace du port. La documentation associe la protection de la navigation à la déesse Pontia ; elle ne prouve pas que chaque marin avait une relation exclusive à ce sanctuaire.
+
+### 656.4 — Corpus principal : deux textes qui se répondent
+
+IG XII 4, 1, 302 est un règlement sur la vente de la prêtrise d'Aphrodite Pandamos, placé peu après 198 av. n. è. dans l'édition numérique des *Inscriptiones Graecae*. IG XII 4, 1, 319, attribué à la fin du IIe siècle, concerne Aphrodite Pontia et ses prescriptions de droits, offrandes et finances. Le projet *Collection of Greek Ritual Norms* rassemble un dossier connexe sous la référence CGRN 220.
+
+Leur mise en relation éclaire des mécanismes institutionnels, mais il faut préserver l'individualité des pièces et la chronologie des éditions. Une clause attestée dans 319 ne doit pas être attribuée automatiquement à 302. Les deux épiclèses n'autorisent pas à faire un collage indifférencié. La cohérence du culte est une question historique, non une permission de supprimer les divergences documentaires.
+
+### 656.5 — *Hiérōsynē* : une fonction cultuelle et un droit conditionnel
+
+Le grec *hierōsynē*, « prêtrise », renvoie ici à une charge reconnue. La prêtrise peut être vendue par des magistrats — les *pōlētaí* mentionnés dans IG XII 4, 1, 302 — puis détenue dans les conditions explicitement prévues. La transaction crée une relation juridiquement formulée entre l'acquéreur, la cité et le service de la déesse.
+
+Contrairement à une idée moderne qui opposerait purement le religieux et le marchand, les rédacteurs ne manifestent pas de gêne à préciser prix, échéances et sanction. Cela ne signifie pas que les Égyptiens, les Athéniens et les Coans avaient la même conception de la propriété des charges. Chaque institution possède ses modalités propres et ses contraintes.
+
+### 656.6 — Qui peut devenir prêtresse ?
+
+La clause IG XII 4, 1, 302, lignes 5–8, présente la vente à une femme qui doit être en bonne santé, physiquement entière et adulte ; elle prévoit l'exercice de la prêtrise à vie. La sélection comprend donc des critères d'aptitude et de durée qui échappent à la seule capacité financière.
+
+Ces exigences corporelles doivent être décrites sans les naturaliser ni les transformer en recommandations contemporaines. Elles sont des normes de la cité hellénistique, liées à ses représentations de la fonction sacrée. Elles ne fournissent pas la liste complète des compétences pratiques de la titulaire.
+
+Le caractère viager transforme le calcul économique : un prix d'achat peut ouvrir à des revenus pendant une durée inconnue au moment de la vente. On peut parler de risque économique, mais le dossier ne permet pas de calculer un rendement moyen sans connaître les sommes réelles encaissées et les coûts de chaque exercice.
+
+### 656.7 — Le paiement par versements
+
+IG XII 4, 1, 302, lignes 9–14, prévoit quatre versements du prix adjugé, répartis selon les mois et les magistratures. Ce détail est fondamental. La vente d'une prêtrise n'est pas une simple proclamation d'honneur : elle produit une créance juridiquement surveillée et un calendrier de paiements.
+
+Le nom des mois coans ne doit pas être remplacé par des mois grégoriens modernes. Le fonctionnement du calendrier civique constitue une donnée du texte. Les versements font également apparaître le lien entre temps administratif et temps rituel.
+
+Une étude des prix demanderait la pierre complète, la prosopographie de l'adjudicataire et d'autres contrats. Le texte permet d'affirmer l'existence d'un paiement échelonné, non le montant d'un « salaire annuel » que la prêtresse aurait reçu en échange.
+
+### 656.8 — Le mariage et le culte d'Aphrodite Pandamos
+
+Le règlement IG XII 4, 1, 302, lignes 15–23, associe les honneurs rendus à la déesse aux femmes qui se marient. Il mentionne plusieurs catégories de femmes et prescrit une offrande après le mariage, dans un délai déterminé. Il évoque aussi des commerçants et propriétaires de navires.
+
+Le texte montre que les bénéficiaires et les redevables ne se réduisent pas aux seuls titulaires de la pleine citoyenneté. Les catégories sociales de l'inscription méritent une étude linguistique précise ; les traductions des termes de statut ne sont pas entièrement transparentes. On ne doit pas convertir des catégories civiques antiques en identités sociales modernes sans commentaire.
+
+L'obligation rituelle participe ici à la définition publique de transitions de la vie : mariage et départ maritime deviennent occasions de reconnaissance cultuelle. Le lien entre Aphrodite et la cité est institutionnel autant que poétique.
+
+### 656.9 — L'amende de dix drachmes : une prêtrise dotée de moyens juridiques
+
+Dans IG XII 4, 1, 302, lignes 24–26, les personnes qui ne respectent pas l'obligation sacrificielle sont exposées à une pénalité de dix drachmes envers la prêtresse. Le texte précise que le recouvrement doit s'effectuer selon une procédure analogue à celle d'un jugement.
+
+La portée du passage dépasse la somme indiquée. La prêtresse n'est pas seulement la destinataire d'une faveur personnelle : elle est autorisée à faire valoir une obligation que la cité a rendue opposable. La religion ne fonctionne donc pas hors du droit ; certaines prescriptions rituelles prennent la forme d'un droit d'action.
+
+Il faut toutefois distinguer le droit écrit et l'efficacité de son exercice. Nous ne possédons pas ici des dossiers de poursuites individuels prouvant que chaque infraction fut effectivement sanctionnée.
+
+### 656.10 — Le vocabulaire de l'obligation : sacrifier, offrir, payer
+
+Une inscription de vente sacerdotale utilise plusieurs verbes : sacrifier, déposer une part, verser une somme, recouvrer une amende. Ces actions ne sont pas interchangeables. Une offrande à la déesse, une prestation personnelle à la prêtresse et une recette destinée au sanctuaire ne sont pas la même chose.
+
+La distinction permet d'éviter l'erreur consistant à additionner tout ce qui entre au sanctuaire comme si une unique caisse en recevait la pleine propriété. Les recettes d'une charge peuvent inclure des droits personnels, alors qu'une autre partie demeure affectée aux besoins du culte. L'épigraphie coane est particulièrement utile parce qu'elle formule ces différences dans les clauses elles-mêmes.
+
+### 656.11 — Aphrodite Pontia et le retour de mer
+
+IG XII 4, 1, 319, lignes 5–9, associe une obligation à ceux qui servent sur de grands navires de guerre lorsqu'ils terminent leur navigation. Le texte prévoit un sacrifice d'une victime adulte d'une valeur définie, ou une substitution pécuniaire liée aux *géra*.
+
+Le port apparaît comme lieu d'articulation entre risque maritime, communauté militaire, rite et comptabilité. Le geste de remercier Aphrodite Pontia est rendu obligatoire pour un groupe identifié. Il ne s'agit ni d'un récit mythique où la déesse calme une tempête, ni d'une liste des accidents réellement évités.
+
+L'hypothèse d'une économie votive du retour est pertinente, mais les inscriptions ne permettent pas de calculer combien de traversées de guerre ont donné lieu à chaque forme de règlement.
+
+### 656.12 — Quinze drachmes et une drachme : des destinataires distincts
+
+Le même règlement, IG XII 4, 1, 319, lignes 8–9, prévoit, dans l'option de substitution au sacrifice, quinze drachmes versées à la prêtresse et une drachme dans un tronc du sanctuaire. C'est une preuve particulièrement claire de la distinction entre droit personnel et affectation cultuelle.
+
+Les sommes correspondent à une clause spécifique, non à un tarif de toutes les cérémonies maritimes coanes. Leur juxtaposition autorise néanmoins une question générale : pourquoi deux bénéficiaires sont-ils nommés pour le même événement rituel ?
+
+La réponse immédiate est institutionnelle : la fonction de la prêtresse et les besoins du lieu divin ne sont pas juridiquement fusionnés. La reconnaissance d'un droit d'office coexiste avec l'entretien d'un fonds sacré.
+
+### 656.13 — Le tronc du sanctuaire et son échelle de versements
+
+IG XII 4, 1, 319, lignes 10–13, fixe des contributions différentes selon la victime : deux drachmes pour un bovin, une drachme pour certaines victimes adultes, trois oboles pour des victimes non adultes et une obole pour un oiseau. Le barème prend en compte la nature ou le statut de l'animal.
+
+Il serait erroné d'y voir un tableau du prix de vente des victimes. Ce sont des versements rituels liés au sacrifice, non nécessairement leur coût total. La lecture doit tenir compte des catégories lexicales, des lacunes et des particularités locales de comptage.
+
+Le tarif montre néanmoins que les rédacteurs souhaitaient réduire les ambiguïtés. L'énumération précise met à disposition des pratiquants une norme contrôlable et des responsables une base de vérification.
+
+### 656.14 — Location de la perception : le droit de recouvrer une créance
+
+Les lignes 14–15 du règlement de Pontia permettent à la prêtresse de mettre en location la perception de certaines recettes, et accordent au preneur le pouvoir de recouvrement prévu pour elle. Cette clause est frappante : le droit religieux peut lui-même être administré par délégation.
+
+Elle ne prouve pas que chaque prêtresse pratiquait effectivement cette location, ni que le preneur était nécessairement un « fermier d'impôt » au sens des institutions romaines tardives. Elle atteste une possibilité organisée juridiquement, dont les conséquences économiques pouvaient dépendre de la situation locale.
+
+La délégation ne dissout pas le caractère sacré de la prestation : elle transfère un pouvoir opérationnel sur des sommes définies, dans des limites fixées par la réglementation.
+
+### 656.15 — Deux clefs, deux responsabilités
+
+IG XII 4, 1, 319, lignes 16–20, confie aux responsables civiques le contrôle des clefs des troncs. Leur ouverture annuelle intervient avec la prêtresse. La moitié des sommes revient à la titulaire ; l'autre moitié doit être transférée à une banque publique au compte de la déesse, puis inscrite dans les archives.
+
+La procédure assure une forme de contrôle croisé. Elle sépare collecte, ouverture, répartition et enregistrement. L'organisation ne dépend pas de la confiance personnelle accordée à un seul acteur. Elle produit une mémoire vérifiable de la recette.
+
+Le terme grec *thēsaurós* peut désigner ici un coffre ou tronc destiné à recueillir des offrandes monétaires ; il ne faut pas toujours le traduire comme s'il s'agissait d'un trésor monumental ou d'un édifice de dépôt comparable aux *thēsauroí* de Delphes.
+
+### 656.16 — La moitié sur le compte de la déesse
+
+Le texte de Pontia, lignes 18–22, prescrit l'envoi de la moitié des sommes à la banque publique, sur un compte désigné comme celui de la déesse. Il réserve ce fonds à des constructions décidées par l'assemblée et à des réparations du sanctuaire.
+
+Le caractère saisissant de la formule tient à l'articulation entre autorité divine et gestion civique. Le compte « de la déesse » constitue une affectation juridiquement et religieusement spécifiée ; la cité décide cependant des travaux dans des limites prescrites.
+
+Il faut éviter deux caricatures. Ce n'est pas simplement la « privatisation » d'un sanctuaire au bénéfice de la prêtresse, puisque les fonds sont divisés et contrôlés. Ce n'est pas non plus une mise sous tutelle intégrale du divin par la cité, puisque l'usage est limité à des besoins cultuels et protégé par des sanctions.
+
+### 656.17 — Interdire le détournement des fonds
+
+Les lignes 22–23 et suivantes d'IG XII 4, 1, 319 établissent une sanction contre la tentative d'affecter les fonds des troncs à d'autres usages. Elles témoignent d'un effort pour empêcher que les ressources soient réorientées par une décision ultérieure sans respecter la destination prévue.
+
+L'inscription ne permet pas d'affirmer qu'il y avait déjà eu détournement. Une clause préventive n'est pas le constat d'un crime. Elle indique seulement que les rédacteurs estimaient utile d'encadrer une possibilité de réallocation.
+
+Cette vigilance rapproche les comptes de sanctuaires des mécanismes ordinaires de contrôle civique tout en conservant la finalité religieuse particulière des ressources.
+
+### 656.18 — Une comparaison interne : la prêtrise d'Eumène II
+
+IG XII 4, 1, 306, lignes 5–8, relatif à la vente du sacerdoce lié au roi Eumène II, prévoit pour l'acquéreur la peau des victimes et, dans un cas défini, une jambe. Les mêmes lignes énoncent la participation aux gestes sacrificiels.
+
+Ce texte complète le dossier sans se confondre avec celui d'Aphrodite. Il documente explicitement la place de la peau dans les droits d'un sacerdoce vendu ; il rappelle ainsi que les *géra* pouvaient être à la fois matériels, honorifiques et organisés contractuellement.
+
+L'exemple offre une transition avec l'étude athénienne des peaux : Athènes atteste des comptes de ventes publiques ; Cos atteste aussi des droits conférés aux détenteurs d'une prêtrise. Il serait abusif de considérer que toutes les peaux de tous les cultes coans revenaient toujours au prêtre.
+
+### 656.19 — Être honoré, être payé, être responsable
+
+La prêtrise n'est pas seulement une source de revenus. Les textes associent parfois à la fonction des gestes rituels à accomplir, des privilèges de préséance et des signes honorifiques. Pour Eumène II, IG XII 4, 1, 306 évoque notamment des honneurs liés aux cérémonies.
+
+Le vocabulaire de l'« investissement » peut être utilisé prudemment pour décrire l'achat de la charge, mais il manquerait l'essentiel s'il réduisait le sacerdoce à un actif financier. La fonction exige une présence, des compétences, une reconnaissance et le respect de normes publiques.
+
+La vente n'est donc pas l'opposé logique de la consécration : ces deux opérations peuvent former des conditions successives d'une même institution.
+
+### 656.20 — La hiérarchie des droits : *nomos*, *diagrapha*, usages antérieurs
+
+Les règlements de Cos utilisent le mot *diagrapha* pour désigner des clauses écrites et renvoient parfois à des prescriptions antérieures ou à ce qui se pratique selon les usages. La distinction entre loi, convention de vente et coutume pose un problème central : quelle source fait autorité lorsqu'un rite doit être accompli ?
+
+Il serait simpliste d'imaginer qu'une inscription nouvelle annule toutes les normes qui la précèdent. Les textes coans se réfèrent eux-mêmes à des formulations plus anciennes. Ils montrent une stratification des normes, où les prescriptions écrites contemporaines précisent certains aspects sans reconstruire l'ensemble du culte.
+
+L'analyse juridique doit s'efforcer de définir le rang et le domaine de chaque texte plutôt que de traduire toutes ces catégories par « loi sacrée ».
+
+### 656.21 — Le contrat et la visibilité du droit
+
+La stèle sert à faire connaître les conditions de la prêtrise au-delà du cercle de ses titulaires. Les obligations des gens de mer, les droits sur les recettes et l'ouverture des troncs exigent que plusieurs acteurs puissent invoquer des règles communes.
+
+La publication matérielle de la norme n'établit pas qu'elle était lisible par tout habitant, mais elle rend l'énoncé accessible à une communauté de lecteurs, de responsables et d'interprètes. Elle crée aussi une preuve durable en cas de conflit.
+
+Le support épigraphique contribue ainsi au pouvoir du contrat : il n'explique pas seulement ce que fait la prêtresse ; il donne une forme publique aux droits que la cité entend reconnaître.
+
+### 656.22 — Comparer avec Erchia et les comptes d'Athènes
+
+Le calendrier d'Erchia organisait des dépenses et des pratiques ; les comptes attiques de peaux convertissaient certains produits du sacrifice en recettes ; les contrats de Cos définissent des droits liés à une charge et à une destination des sommes.
+
+La comparaison montre trois opérations distinctes : prévoir, enregistrer et attribuer. Un même culte peut les réunir, mais les documents disponibles privilégient l'une ou l'autre. Aucune de ces fonctions ne peut être réduite à une « religion des prêtres » immuable.
+
+Le dossier coan permet aussi de corriger une lecture trop strictement étatique du sacrifice grec : la prêtresse dispose de certains droits propres et peut même déléguer la perception, sous le contrôle de règles civiques.
+
+### 656.23 — Femmes, agents et autorité publique
+
+Les inscriptions d'Aphrodite mettent une prêtresse au centre d'un système d'obligations et de revenus. Sa présence contraste avec les récits littéraires souvent dominés par des autorités masculines. Le document ne donne pas pour autant une mesure générale de la participation politique des femmes à Cos.
+
+La capacité d'exercer un pouvoir religieux précis, d'en recouvrer certaines prestations et d'être présente lors de l'ouverture des troncs ne signifie pas une citoyenneté identique à celle des magistrats. Elle témoigne plutôt d'une répartition différenciée de compétences, que l'enquête historique doit restituer sans l'aplatir.
+
+Cette distinction entre capacité cultuelle et statut civique est un des apports majeurs de l'épigraphie à l'histoire des femmes dans le monde grec.
+
+### 656.24 — Durkheim : la régulation du sacré par la collectivité
+
+Dans une perspective durkheimienne, la cité ne se contente pas de partager des croyances : elle définit des prestations, des dates, des sanctions et des offices. La fonction sacerdotale n'est pas seulement une expérience personnelle ; elle prend place dans des relations sociales obligatoires.
+
+Mais l'inscription empêche d'absolutiser la société comme sujet unique. Elle répartit au contraire la capacité d'agir entre assemblée, magistrats, prêtresse, voyageurs et éventuels preneurs de la perception. Le sacré apparaît comme un ordre de relations plutôt que comme la propriété d'un seul groupe.
+
+### 656.25 — Vernant et Detienne : une pluralité de pratiques
+
+Les analyses de Vernant et Detienne sur le polythéisme grec invitent à considérer ensemble gestes, institutions et représentations. Le cas de Cos confirme que les dieux sont reconnus dans des pratiques différenciées : mariage, navigation, honneurs, offrandes, perception de ressources.
+
+La méthode comparatiste interdit de transformer Aphrodite en principe abstrait unique. Pandamos et Pontia sont des désignations cultuelles dont la signification dépend des contextes, des acteurs et de la cité. Il faut résister à la réduction psychologique du culte à la « déesse de l'amour », qui effacerait précisément les obligations maritimes et civiques.
+
+### 656.26 — Hegel : l'institution comme médiation
+
+Une lecture hégélienne peut poser que les droits d'une fonction ne sont pas naturels : ils sont reconnus et précisés par des institutions. Le cas de la prêtresse montre comment une capacité religieuse se présente sous une forme juridique publique.
+
+Ce rapprochement ne doit pas faire des Coans des lecteurs de Hegel. Il permet de formuler une distinction moderne entre la volonté subjective de servir un dieu et l'ordre objectif des droits et obligations qui rend ce service socialement reconnu.
+
+L'achat ne constitue pas, à lui seul, la légitimité sacrée : il s'inscrit dans un processus où l'assemblée, la règle et les rites conditionnent l'exercice de la fonction.
+
+### 656.27 — Nietzsche : prix et valeur ne sont pas identiques
+
+Nietzsche met en question les origines des équivalences morales et les rapports entre promesse, obligation et dette. Les clauses coanes invitent à distinguer l'argent payé pour une charge de la valeur religieuse de la relation à la déesse.
+
+Le prix de vente est mesurable ; l'honneur du culte ne se convertit pas intégralement en drachmes. La pénalité n'est pas la définition de ce que « vaut » Aphrodite, mais le moyen de sanctionner une obligation instituée. L'analyse philosophique sert ici à empêcher une confusion entre tarif et signification.
+
+### 656.28 — Girard et Eliade : ce que le dossier ne permet pas
+
+René Girard pourrait faire interroger la violence du sacrifice ; Mircea Eliade, la transformation d'un espace portuaire en lieu religieux. Mais les clauses étudiées ne contiennent pas un récit de victime émissaire ni une description de hiérophanie originaire.
+
+Il serait intellectuellement artificiel d'attribuer aux contrats une démonstration de leurs théories. Leur pertinence éventuelle se limite à des questions générales, à confronter aux données épigraphiques sans prétendre les déduire d'elles.
+
+### 656.29 — Comparaisons non fusionnelles : Égypte, Babylonie, Iran, Inde, Chine
+
+Les dossiers d'Abousir et d'Uruk attestent des formes de service sacerdotal, de ration, de compte et de rétribution. Leur rapprochement avec Cos porte sur l'organisation du travail cultuel et l'affectation de ressources, non sur une vente identique des sacerdoces.
+
+L'Iran ancien, les corpus sanskrits de sacrifices et les rituels chinois connaissent d'autres rapports entre office, compétence et obligation. En l'absence d'un dossier local directement comparable, il faut renoncer à postuler des « marchés universels de la prêtrise ». La diversité institutionnelle doit primer l'analogie.
+
+Cette méthode s'applique aux sociétés africaines et américaines, dont l'histoire des charges rituelles ne peut être réduite aux catégories de l'État grec ni du temple mésopotamien. Comparer, ici, signifie formuler des variables contrôlables, non effacer les différences.
+
+### 656.30 — Reconstituer l'économie d'une prêtrise : ce qui manque
+
+Un calcul de rentabilité réclamerait au moins le prix effectivement payé, la fréquence des obligations, le volume de chaque catégorie de sacrifice, la part effectivement recouvrée, les dépenses de fonctionnement, les exemptions et la durée d'exercice. Les inscriptions ne livrent pas nécessairement tous ces éléments.
+
+On peut proposer un modèle qualitatif : *dépense initiale + obligations de service* d'un côté ; *parts matérielles + versements + honneurs* de l'autre. Mais le modèle ne doit pas se transformer en bilan chiffré inventé. Une prêtrise peut aussi présenter des avantages non monétaires ou entraîner des coûts non visibles.
+
+La meilleure hypothèse historique reste conditionnelle : les acheteurs jugeaient probablement l'office désirable pour des raisons multiples, qui ne sont pas intégralement observables dans le contrat.
+
+### 656.31 — Faits attestés, controverses, hypothèses
+
+**Attesté :** IG XII 4, 1, 302 prévoit la vente de la prêtrise d'Aphrodite Pandamos, des critères pour l'acquéreuse, l'exercice viager, un paiement échelonné et une sanction de dix drachmes contre certains manquements. IG XII 4, 1, 319 distingue les versements dus à la prêtresse et ceux du tronc ; il prévoit leur collecte, la possible délégation, l'ouverture avec des magistrats, le partage des recettes et l'affectation du compte de la déesse. IG XII 4, 1, 306 accorde la peau parmi les droits d'un autre sacerdoce vendu.
+
+**Débattu ou limité :** prix réellement obtenu pour les charges concernées, fréquence des paiements, relation précise de la prêtrise aux différentes catégories civiques, localisation d'exposition originelle des pierres, effectivité des amendes, part des traditions antérieures et date exacte de certaines prescriptions.
+
+**Hypothèses testables :** confronter les textes à toutes les ventes de sacerdoces coanes, étudier les noms de magistrats, reconstituer la chronologie des copies, examiner la topographie portuaire, comparer les frais de réparation des sanctuaires et vérifier les restitutions de clauses lacunaires dans la nouvelle édition *Inscriptiones Graecae*.
+
+### 656.32 — Conclusion : la religion comme droit administré, non comme marchandise pure
+
+Les inscriptions de Cos n'opposent pas le rite et l'argent. Elles règlent au contraire leurs relations. L'achat d'une charge, le droit de la prêtresse, la perception des offrandes, la protection du compte divin et la décision civique de réparer le sanctuaire composent une architecture institutionnelle.
+
+Cette architecture invite à dépasser deux simplifications opposées : la prêtrise ne serait que vocation spirituelle sans conditions matérielles ; elle ne serait qu'investissement rapportant des revenus. Les textes montrent un office à la fois sacré, contractuel, public et économiquement situé.
+
+Le prochain dossier devra déplacer la question vers les conflits que ces règles préviennent : que se passe-t-il lorsqu'une part, une recette, une peau ou une offre rituelle est contestée ? Les sanctions et procédures d'arbitrage constituent le prolongement logique de cette enquête.
+
+### Sources primaires et éditions en ligne contrôlées
+
+- **[P1] IG XII 4, 1, 302**, règlement sur la vente de la prêtrise d'Aphrodite Pandamos, Cos, peu après 198 av. n. è. Édition de la Berlin-Brandenburgische Akademie der Wissenschaften, texte grec et traduction Kent Rigsby : https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XII%204,%201,%20302 .
+- **[P2] IG XII 4, 1, 319**, règlement d'Aphrodite Pontia, fin du IIe siècle av. n. è. Texte et traduction dans *Inscriptiones Graecae* : https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XII%204,%201,%20319 .
+- **[P3] CGRN 220**, dossier de vente sacerdotale d'Aphrodite Pandamos et Pontia à Cos, *Collection of Greek Ritual Norms* : http://cgrn.ulg.ac.be/file/220/ . Le projet constitue un dossier éditorial moderne : pour les clauses citées ici, les contrôles reposent aussi sur les deux inscriptions [P1] et [P2].
+- **[P4] IG XII 4, 1, 306**, vente du sacerdoce relatif à Eumène II, droits sur les peaux et les parts, Cos, première moitié du IIe siècle : https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XII%204,%201,%20306 .
+- **[P5] IG XII 4, 1, 331**, vente de la prêtrise d'Hermès Enagonios ; témoin complémentaire de la variété coane, non source de la réglementation d'Aphrodite : https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XII%204,%201,%20331 .
+
+### Bibliographie universitaire vérifiée et portée des travaux
+
+- **[R1]** Stéphanie Paul, *Cultes et sanctuaires de l'île de Cos*, *Kernos*, supplément 28, Liège, Presses universitaires de Liège, 2013, 442 p., ISBN 978-2-87562-029-3. Éditeur : https://presses.uliege.be/produit/cultes-et-sanctuaires-de-lile-de-cos/ ; DOI de l'édition OpenEdition : 10.4000/books.pulg.17308 . Étude centrale sur la configuration du panthéon, les cultes et les institutions de l'île.
+- **[R2]** Erica Morais-Angliker, compte rendu de Stéphanie Paul, *Bryn Mawr Classical Review*, 2014.09.64 : https://bmcr.brynmawr.edu/2014/2014.09.64/ . Présentation critique des apports et des limites du dossier.
+- **[R3]** *Collection of Greek Ritual Norms*, projet dirigé notamment par Vincianne Pirenne-Delforge, Jan-Mathieu Carbon et collaborateurs ; présentation institutionnelle du Collège de France : https://www.fondation-cdf.fr/programmes/collection-of-greek-ritual-norms-cgrn/ .
+- **[R4]** Robert Parker, *On Greek Religion*, Ithaca/Londres, Cornell University Press, 2011. Mise en contexte des normes rituelles, de la diversité des cultes et des prescriptions écrites.
+- **[R5]** T. S. F. Jim, *Sharing with the Gods: Aparchai and Dekatai in Ancient Greece*, Oxford, 2014. Analyse des formes de dons et des parts, en complément des contrats de charges.
+- **[R6]** Jean-Pierre Vernant et Marcel Detienne (dir.), *La Cuisine du sacrifice en pays grec*, Paris, 1979 ; Marcel Detienne, *Comparer l'incomparable*, Paris, 2000. Outils pour délimiter le comparable.
+- **[R7]** Émile Durkheim, *Les Formes élémentaires de la vie religieuse* ; G. W. F. Hegel, *Principes de la philosophie du droit* ; Friedrich Nietzsche, *La Généalogie de la morale* ; René Girard, *La Violence et le Sacré* ; Mircea Eliade, *Le Sacré et le profane*. Références exclusivement conceptuelles : elles ne fournissent ni tarifs ni traductions des stèles coanes.
+
+**Note de méthode :** chaque chiffre et chaque condition juridique évoqués sont rapportés à l'inscription pertinente. Aucune rentabilité de sacerdoce, aucune fréquence d'infraction ni aucun montant total de recettes annuelles ne sont inventés. La provenance archéologique des stèles n'est pas confondue avec leur emplacement cultuel originel.

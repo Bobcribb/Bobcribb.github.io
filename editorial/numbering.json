@@ -495,6 +495,18 @@
           "path": "chapitres/origines-du-sacre/654-erchia-calendrier-sacrificiel-prix-peaux-repas-attiques.md",
           "request_sha256": "84227c0bf90d553483a9d7439323aebc99f2cb2f22a728d9c688648f300dda0c",
           "initial_source_sha256": "05046c67700d9fd328215b45a47775eb4e05c322aafe28ac6ca5ba65c2cc1052"
+        },
+        "49e31f74-7b59-4dbf-8952-6e410c73a6d2": {
+          "number": 655,
+          "path": "chapitres/origines-du-sacre/655-athenes-dermatikon-comptes-peaux-sacrificielles-lycurgue.md",
+          "request_sha256": "1bfaeee5c680f12dde627a48892a33e5ac45c341ed261d4a0420291e69e711d5",
+          "initial_source_sha256": "31c8f305d2503d2a505a8f46fa7174f45773461c840894430430f4a056deaa17"
+        },
+        "c84e159a-06d3-457e-a2e3-5d7b1249cf80": {
+          "number": 656,
+          "path": "chapitres/origines-du-sacre/656-cos-vente-pretresses-aphrodite-pontia-pandamos-gere-tresor.md",
+          "request_sha256": "fe1c7ca69f033f8450cc999703d1203f28a2c26b5cae4d81b254664c3412467b",
+          "initial_source_sha256": "93b18985241b8a2733e471a6c820cc06c76a9066537dc7aa1a300b6306757e3c"
         }
       }
     },
