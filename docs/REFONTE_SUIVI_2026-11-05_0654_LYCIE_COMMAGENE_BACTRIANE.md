@@ -23,3 +23,15 @@ La charte muséale noir, ivoire et or est conservée. Le parcours bénéficie d'
 Le nouveau test `test_hellenistic_contacts_integral_sources_classification_and_reciprocity` contrôle la présence des articles complets, leurs références, leur classement unique, la conservation de l'article avant/après deux reconstructions, le fil d'Ariane, l'absence de doublon, les trois liens réciproques et les styles communs.
 
 **Statut au moment de la rédaction** : contrôle de sources et préparation des modifications. La publication publique sera confirmée seulement après la réussite du workflow et la consultation du reçu `/catalog/publication-verification.json` et des pages HTTPS. Les textes, registres, archives et autres automatisations sont inchangés.
+
+## Commits et validation effective
+
+- `2555432eac3bcdffb91229cfcebfeefbf0059e2d` : référencement des trois textes, quatre parcours réciproques, classement, style et tests, dans un seul commit atomique.
+- `57f81890f4a4f2f4d3c99b1a107e1e8cc6e7461d` : correction du test obsolète des figures récentes. Celui-ci exigeait exactement 37 notices alors que 40 sont désormais documentées. La correction conserve l'exigence de présence des figures et ajoute un contrôle d'unicité des entrées.
+- `2803e3247c05443dc3d01ab67368654a693bc8d8` : amélioration spécifique des titres et liens sur écran mobile, et déclenchement du workflow de publication (les changements CSS sont inclus par la liste de chemins GitHub Actions).
+
+Contrôles effectués après écriture : `main` contient les modifications ; les trois fichiers HTML sources conservent leurs blobs originaux `0bcf1e10be61d8348ab50b1613caacdd82cc1967`, `79f02cbecd98edfa9563c49a1c9c412d203c87f8` et `a69fca5738dfc17f9811cbce63eb6add3b3afe14`.
+
+Les tests unitaires du workflow de validation `41977532452` (correctif inclus) et ceux du workflow de publication `41977662548` ont franchi leur étape de vérification des régressions. Lors du dernier contrôle, la génération du site et la synchronisation se poursuivaient : **aucun succès de déploiement public ni nouveau reçu n'est encore revendiqué**. Reçu GitHub précédent : 1 443 documents indexés, 27 archives et 110 médias au commit source `9c0063cd9e4c229ed5a95c096d0ba8948de58dcf`.
+
+Consulter les journaux : `https://github.com/Bobcribb/Bobcribb.github.io/actions/runs/41977532452` et `https://github.com/Bobcribb/Bobcribb.github.io/actions/runs/41977662548`. 
