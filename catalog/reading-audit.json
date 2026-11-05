@@ -3,21 +3,11 @@
   "indexed_entries": 1449,
   "pages_scanned": 1506,
   "readers_equipped": 1046,
-  "links_checked": 128556,
+  "links_checked": 128604,
   "new_navigation_errors": [],
   "legacy_link_issues": [
     {
-      "page": "/chapitres/comedies/volume-104-philyllios-dodekate-anthesteries-choes-amphore-metrete-paratragedie/index.html",
-      "url": "/comedies-grecques/",
-      "problem": "fichier absent"
-    },
-    {
       "page": "/chapitres/comedies/volume-106-philyllios-herakles-dorpia-apaturies-protenthai-phratries/index.html",
-      "url": "/comedies-grecques/",
-      "problem": "fichier absent"
-    },
-    {
-      "page": "/chapitres/comedies/volume-105-philyllios-helene-attribution-incertaine-eidolon-guerre-reconnaissance/index.html",
       "url": "/comedies-grecques/",
       "problem": "fichier absent"
     }
