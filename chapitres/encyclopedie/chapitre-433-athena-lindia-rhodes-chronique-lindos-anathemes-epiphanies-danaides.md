@@ -1,6 +1,6 @@
 # Chapitre 433 — Athéna Lindia : la Chronique de Lindos, les offrandes perdues et les épiphanies de la déesse
 
-*MYTHOS — Grande Encyclopédie de la mythologie grecque. Monographie universitaire originale en français. Collection : encyclopedie. Texte public soumis à la procédure concurrente, sans numéro préattribué. Dossier scientifique clos pour cette livraison le 5 novembre 2026.*
+*MYTHOS — Grande Encyclopédie de la mythologie grecque. Monographie universitaire originale en français. Collection : encyclopedie. Texte public attribué au **chapitre 433** ; numéro et chemin canoniques conservés. Dossier scientifique clos pour cette livraison le 5 novembre 2026.*
 
 ## Résumé
 
@@ -464,4 +464,8 @@ L’acte possède plusieurs significations. Sur le plan religieux, il affirme qu
 
 La méthode historique ne peut accepter sans examen chaque présence héroïque ou chaque miracle ; elle peut en revanche reconnaître leur puissance dans la culture civique. Lindos apparaît ainsi comme un lieu où la religion n’est ni simplement mythe ni simplement administration. La déesse, les offrandes, les archives et l’architecture forment ensemble une communauté d’expérience et de mémoire. Le texte de 99 av. J.-C. n’a pas effacé la perte des objets ; il l’a transformée en une manière nouvelle de faire exister le sanctuaire dans le temps.
 
-*Fin du manuscrit universitaire intégral. Aucun numéro canonique n’est revendiqué ; le workflow GitHub Actions déterminera exclusivement toute attribution selon la branche main.*
+*Fin du manuscrit universitaire intégral. Chapitre 433 attribué et conservé à son adresse canonique sur `main` ; les procédures d'attribution restent obligatoires pour toute nouvelle étude.*
+
+### Note de concordance : les deux études d'Athéna Lindia
+
+Cette monographie **433** constitue le dossier encyclopédique **extensif** du sanctuaire de Lindos : 64 sections d'analyse sur les auteurs de la Chronique, ses dons, les témoins, les cultes, les sources historiques et les traditions philosophiques. Elle doit être lue en regard du [chapitre 438, « Athéna Lindia et la Chronique de Lindos : ... la fabrication savante du passé »](../chapitre-438-athena-lindia-chronique-lindos-danaides-offrandes-epiphanies-memoire.md), qui développe une synthèse documentaire de 22 sections sur la mémoire épigraphique, les limites des preuves et la comparaison des archives sacrées. Les deux monographies ont des recouvrements assumés, sont conservées intégralement, et ne constituent **ni deux déesses différentes, ni deux inscriptions distinctes**. Voir [l'issue de concordance n° 42](https://github.com/Bobcribb/Bobcribb.github.io/issues/42) ; les numéros historiques 433 et 438 ne sont ni fusionnés ni renumérotés.
