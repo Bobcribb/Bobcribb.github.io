@@ -271,6 +271,14 @@ RECENT_FIGURES = (
     ("philosophie-theogonie.html", "icono-theogonie-eros-psyche-met-247480-20261105",
      "/assets/illustrations-articles/met-247480-eros-psyche-terre-cuite.webp"),
 
+    # Séance 46 : trois photographies archéologiques déjà hébergées ;
+    # inclure les notices et empreintes binaires dans la validation HTTPS.
+    ("philosophie-iliade.html", "icono-iliade-thetis-armure-deepdene-met-254187-20261105",
+     "/media/2026/10/mythos-helene-menelas-stamnos-deepdene-met-41-162-20.jpg"),
+    ("philosophie-odyssee.html", "icono-odyssee-artemision-zeus-poseidon-attribution-20261105",
+     "/media/2026/10/mythos-bronze-artemision-zeus-ou-poseidon.jpg"),
+    ("philosophie-theogonie.html", "icono-theogonie-poseidon-berlin-met-254184-20261105",
+     "/media/2026/10/met-poseidon-berlin-painter-41-162-17.jpg"),
     # Séance 44 : trois documents institutionnels, deux JPEG antiques et un WebP.
     ("philosophie-iliade.html", "icono-iliade-apollon-patrocle-tete-chypre-20261105",
      "/assets/illustrations-articles/met-242366-apollon-tete-chypre.webp"),

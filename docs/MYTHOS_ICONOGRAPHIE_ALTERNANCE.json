@@ -5,67 +5,114 @@
   "branch": "main",
   "latest_session": {
     "date": "2026-11-05",
-    "kind": "AUDIT ET CORRECTION",
-    "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "scope": "Séance 45 : audit de sept pages prioritaires, étude des avertissements de l'audit intégral du 5 novembre et correction de deux liens de sommaire cassés dans les comédies 102 et 103, chacun dans son manuscrit et sa page HTML ; test de non-régression ajouté.",
-    "basis_commit": "f7bb5cee65a0d7a11cf7efa7de69b8e0972e8a9a",
-    "audit_ci": {
-      "run": "41965451828",
-      "date": "2026-11-05",
-      "pages_scanned": 1489,
-      "hard_errors": 0,
-      "warnings": 2,
-      "broken_pages": [
-        "chapitres/comedies/volume-102-philyllios-atalante-titre-souda-attribution-douteuse-chasse-course-mythes/index.html",
-        "chapitres/comedies/volume-103-philyllios-auge-telephos-banquet-pannychis-pain-chanson-paratragedie/index.html"
+    "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "previous_kind": "AUDIT ET CORRECTION",
+    "next_kind": "AUDIT ET CORRECTION",
+    "scope": "Séance 46 : réemploi de trois photographies d'objets antiques déjà présents dans le dépôt, avec attribution prudente, légendes, datations, droit des images, statut non IA et lien institutionnel dans les monographies Iliade, Odyssée, Théogonie. Aucune étude numérotée ni nouvelle ressource binaire.",
+    "basis_commit": "9c0bfeecf9303cd499d8a29dd75a9039b8068079",
+    "figures_added": [
+      {
+        "page": "philosophie-iliade.html",
+        "section": "lecture-section-37",
+        "id": "icono-iliade-thetis-armure-deepdene-met-254187-20261105",
+        "src": "/media/2026/10/mythos-helene-menelas-stamnos-deepdene-met-41-162-20.jpg"
+      },
+      {
+        "page": "philosophie-odyssee.html",
+        "section": "lecture-section-23",
+        "id": "icono-odyssee-artemision-zeus-poseidon-attribution-20261105",
+        "src": "/media/2026/10/mythos-bronze-artemision-zeus-ou-poseidon.jpg"
+      },
+      {
+        "page": "philosophie-theogonie.html",
+        "section": "lecture-section-31",
+        "id": "icono-theogonie-poseidon-berlin-met-254184-20261105",
+        "src": "/media/2026/10/met-poseidon-berlin-painter-41-162-17.jpg"
+      }
+    ],
+    "archaeological_notices": [
+      "Iliade XVIII : stamnos du Peintre de Deepdene, Met 41.162.20a-b (470–460 av. J.-C.), guerrier éventuellement Achille, Thétis, Ménélas et Hélène ; ne représente pas directement le bouclier homérique.",
+      "Odyssée V : bronze du cap Artémision, musée national archéologique d'Athènes X 15161 (vers 460 av. J.-C.) ; identification Zeus/Poséidon discutée, photographie George E. Koronaios 2018 sous CC BY-SA 4.0.",
+      "Théogonie 453–458 : amphore attribuée au Peintre de Berlin, Met 41.162.17 (470–465 av. J.-C.), Poséidon ; ne montre pas Cronos engloutissant les enfants."
+    ],
+    "checks_before_commit": {
+      "pages": 3,
+      "before": [
+        {
+          "path": "philosophie-iliade.html",
+          "ids": 115,
+          "anchors": 111,
+          "images": 31,
+          "duplicate_ids": 0,
+          "broken_anchors": 0,
+          "imgs_missing_alt": 0
+        },
+        {
+          "path": "philosophie-odyssee.html",
+          "ids": 114,
+          "anchors": 111,
+          "images": 30,
+          "duplicate_ids": 0,
+          "broken_anchors": 0,
+          "imgs_missing_alt": 0
+        },
+        {
+          "path": "philosophie-theogonie.html",
+          "ids": 118,
+          "anchors": 113,
+          "images": 30,
+          "duplicate_ids": 0,
+          "broken_anchors": 0,
+          "imgs_missing_alt": 0
+        }
       ],
-      "broken_href": "/comedies-grecques/",
-      "correct_destination": "/comedies-grecques-aristophane-menandre/",
-      "correct_destination_file": "comedies-grecques-aristophane-menandre/index.html"
-    },
-    "targeted_checks": {
-      "pages": 7,
-      "html_ids": 534,
-      "same_page_anchors": 435,
-      "image_tags": 148,
-      "duplicate_ids": 0,
-      "broken_same_page_anchors": 0,
-      "images_without_alt": 0,
-      "css_js_distinct": 10,
-      "css_js_paths_found": 10
-    },
-    "corrections": {
-      "modified_existing_files": [
-        "chapitres/comedies/volume-102-philyllios-atalante-titre-souda-attribution-douteuse-chasse-course-mythes.md",
-        "chapitres/comedies/volume-102-philyllios-atalante-titre-souda-attribution-douteuse-chasse-course-mythes/index.html",
-        "chapitres/comedies/volume-103-philyllios-auge-telephos-banquet-pannychis-pain-chanson-paratragedie.md",
-        "chapitres/comedies/volume-103-philyllios-auge-telephos-banquet-pannychis-pain-chanson-paratragedie/index.html"
+      "after": [
+        {
+          "path": "philosophie-iliade.html",
+          "ids": 116,
+          "anchors": 111,
+          "images": 32,
+          "duplicate_ids": 0,
+          "broken_anchors": 0,
+          "imgs_missing_alt": 0
+        },
+        {
+          "path": "philosophie-odyssee.html",
+          "ids": 115,
+          "anchors": 111,
+          "images": 31,
+          "duplicate_ids": 0,
+          "broken_anchors": 0,
+          "imgs_missing_alt": 0
+        },
+        {
+          "path": "philosophie-theogonie.html",
+          "ids": 119,
+          "anchors": 113,
+          "images": 31,
+          "duplicate_ids": 0,
+          "broken_anchors": 0,
+          "imgs_missing_alt": 0
+        }
       ],
-      "old_href": "/comedies-grecques/",
-      "new_href": "/comedies-grecques-aristophane-menandre/",
-      "replaced_href_total": 4,
-      "regression_test": "tests/test_comedy_reference_links.py",
-      "regression_test_method": "test_volumes_102_and_103_use_existing_comedy_overview",
-      "scientific_text_preserved": true,
-      "numbering_preserved": true
+      "missing_selected_local_media": 0,
+      "new_binary_files": 0,
+      "source_links_checked": "Met 254187, Met 254184 et ministère grec de la Culture ; licence photo Artémision Commons",
+      "added_figure_count": 3
     },
-    "publication_followup": {
-      "generator_run_for_prior_iconography": "41964620138 : success",
-      "latest_publish_workflow": "41968180899 : success",
-      "public_pages_tested_by_runner": 1444,
-      "runner_public_pages_errors": 0,
-      "webp_integrity_by_runner": "45/45",
-      "responsive": "runner returned success",
-      "latest_public_receipt_on_main": "catalog/publication-verification.json : source bdaf26fd488b1213a4537ac84365559c137f2a18, run 41968180899 ; 1437 indexed documents, 27 archives, 110 media",
-      "independent_https": "bobmythos.fr inaccessible via independent Web tool"
+    "publication_guard": {
+      "figures_before": 37,
+      "figures_after": 40,
+      "unique_media_before": 29,
+      "unique_media_after": 32,
+      "stale_html_and_tampered_jpeg_test": "tests/test_verify_live_site_assets.py::RecentFigurePublicationTests.test_session_46_three_archaeological_figures_are_required_on_public_site"
     },
-    "pagination": "Manifest 2026-11-04 : Iliade 122 p., Odyssée 116 p., Théogonie 117 p. ; aucun nouveau rendu PDF ni contrôle visuel.",
-    "limits": "L'audit CI précède le correctif, dont les tests Actions et la publication restent à confirmer. Contrôle externe du domaine et audit exhaustif des références externes non réalisables ici.",
-    "preservation": "Aucune nouvelle étude numérotée, aucun registre, manuscrit universitaire de fond, image, menu, règle de publication, workflow ni horaire d'automatisation modifié. AGENTS.md et docs/PUBLICATION_CONCURRENTE.md relus sur main.",
-    "publication_status": "Corrections prêtes pour commit GitHub ; mise en production non attestée avant tests CI et déploiement.",
+    "pagination": "Manifeste catalog/reading-pdfs.json : Iliade 122 pages PDF, Odyssée 116, Théogonie 117 ; pages d'analyse seule 107/101/103. Aucun PDF ni texte de fond modifié, aucun rendu visuel nouveau.",
+    "preservation": "AGENTS.md et docs/PUBLICATION_CONCURRENTE.md relus sur main. Navigation, textes scientifiques, numérotation, registres, images existantes, programmes et horaires d'automatisation inchangés.",
+    "publication_status": "Commit source à valider sur GitHub Actions ; publication publique HTTPS bobmythos.fr non attestée indépendamment (outil Web indisponible).",
+    "limits": "Tests Python locaux et inspection responsive interactive non exécutés depuis cet environnement ; workflows CI et reçu public à confirmer.",
     "commits": [],
-    "commit_note": "Le SHA du commit atomique est renseigné par GitHub après sa création et ne peut figurer dans son propre contenu."
+    "commit_note": "Le SHA du commit atomique ne peut pas se trouver dans son propre JSON ; le lire depuis GitHub après enregistrement."
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
   "history": [
@@ -2487,6 +2534,117 @@
       "publication_status": "Corrections prêtes pour commit GitHub ; mise en production non attestée avant tests CI et déploiement.",
       "commits": [],
       "commit_note": "Le SHA du commit atomique est renseigné par GitHub après sa création et ne peut figurer dans son propre contenu."
+    },
+    {
+      "date": "2026-11-05",
+      "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "previous_kind": "AUDIT ET CORRECTION",
+      "next_kind": "AUDIT ET CORRECTION",
+      "scope": "Séance 46 : réemploi de trois photographies d'objets antiques déjà présents dans le dépôt, avec attribution prudente, légendes, datations, droit des images, statut non IA et lien institutionnel dans les monographies Iliade, Odyssée, Théogonie. Aucune étude numérotée ni nouvelle ressource binaire.",
+      "basis_commit": "9c0bfeecf9303cd499d8a29dd75a9039b8068079",
+      "figures_added": [
+        {
+          "page": "philosophie-iliade.html",
+          "section": "lecture-section-37",
+          "id": "icono-iliade-thetis-armure-deepdene-met-254187-20261105",
+          "src": "/media/2026/10/mythos-helene-menelas-stamnos-deepdene-met-41-162-20.jpg"
+        },
+        {
+          "page": "philosophie-odyssee.html",
+          "section": "lecture-section-23",
+          "id": "icono-odyssee-artemision-zeus-poseidon-attribution-20261105",
+          "src": "/media/2026/10/mythos-bronze-artemision-zeus-ou-poseidon.jpg"
+        },
+        {
+          "page": "philosophie-theogonie.html",
+          "section": "lecture-section-31",
+          "id": "icono-theogonie-poseidon-berlin-met-254184-20261105",
+          "src": "/media/2026/10/met-poseidon-berlin-painter-41-162-17.jpg"
+        }
+      ],
+      "archaeological_notices": [
+        "Iliade XVIII : stamnos du Peintre de Deepdene, Met 41.162.20a-b (470–460 av. J.-C.), guerrier éventuellement Achille, Thétis, Ménélas et Hélène ; ne représente pas directement le bouclier homérique.",
+        "Odyssée V : bronze du cap Artémision, musée national archéologique d'Athènes X 15161 (vers 460 av. J.-C.) ; identification Zeus/Poséidon discutée, photographie George E. Koronaios 2018 sous CC BY-SA 4.0.",
+        "Théogonie 453–458 : amphore attribuée au Peintre de Berlin, Met 41.162.17 (470–465 av. J.-C.), Poséidon ; ne montre pas Cronos engloutissant les enfants."
+      ],
+      "checks_before_commit": {
+        "pages": 3,
+        "before": [
+          {
+            "path": "philosophie-iliade.html",
+            "ids": 115,
+            "anchors": 111,
+            "images": 31,
+            "duplicate_ids": 0,
+            "broken_anchors": 0,
+            "imgs_missing_alt": 0
+          },
+          {
+            "path": "philosophie-odyssee.html",
+            "ids": 114,
+            "anchors": 111,
+            "images": 30,
+            "duplicate_ids": 0,
+            "broken_anchors": 0,
+            "imgs_missing_alt": 0
+          },
+          {
+            "path": "philosophie-theogonie.html",
+            "ids": 118,
+            "anchors": 113,
+            "images": 30,
+            "duplicate_ids": 0,
+            "broken_anchors": 0,
+            "imgs_missing_alt": 0
+          }
+        ],
+        "after": [
+          {
+            "path": "philosophie-iliade.html",
+            "ids": 116,
+            "anchors": 111,
+            "images": 32,
+            "duplicate_ids": 0,
+            "broken_anchors": 0,
+            "imgs_missing_alt": 0
+          },
+          {
+            "path": "philosophie-odyssee.html",
+            "ids": 115,
+            "anchors": 111,
+            "images": 31,
+            "duplicate_ids": 0,
+            "broken_anchors": 0,
+            "imgs_missing_alt": 0
+          },
+          {
+            "path": "philosophie-theogonie.html",
+            "ids": 119,
+            "anchors": 113,
+            "images": 31,
+            "duplicate_ids": 0,
+            "broken_anchors": 0,
+            "imgs_missing_alt": 0
+          }
+        ],
+        "missing_selected_local_media": 0,
+        "new_binary_files": 0,
+        "source_links_checked": "Met 254187, Met 254184 et ministère grec de la Culture ; licence photo Artémision Commons",
+        "added_figure_count": 3
+      },
+      "publication_guard": {
+        "figures_before": 37,
+        "figures_after": 40,
+        "unique_media_before": 29,
+        "unique_media_after": 32,
+        "stale_html_and_tampered_jpeg_test": "tests/test_verify_live_site_assets.py::RecentFigurePublicationTests.test_session_46_three_archaeological_figures_are_required_on_public_site"
+      },
+      "pagination": "Manifeste catalog/reading-pdfs.json : Iliade 122 pages PDF, Odyssée 116, Théogonie 117 ; pages d'analyse seule 107/101/103. Aucun PDF ni texte de fond modifié, aucun rendu visuel nouveau.",
+      "preservation": "AGENTS.md et docs/PUBLICATION_CONCURRENTE.md relus sur main. Navigation, textes scientifiques, numérotation, registres, images existantes, programmes et horaires d'automatisation inchangés.",
+      "publication_status": "Commit source à valider sur GitHub Actions ; publication publique HTTPS bobmythos.fr non attestée indépendamment (outil Web indisponible).",
+      "limits": "Tests Python locaux et inspection responsive interactive non exécutés depuis cet environnement ; workflows CI et reçu public à confirmer.",
+      "commits": [],
+      "commit_note": "Le SHA du commit atomique ne peut pas se trouver dans son propre JSON ; le lire depuis GitHub après enregistrement."
     }
   ]
 }
