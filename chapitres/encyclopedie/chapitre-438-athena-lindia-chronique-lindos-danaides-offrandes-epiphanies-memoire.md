@@ -3,7 +3,7 @@
 ## Athéna Lindia et la Chronique de Lindos : le sanctuaire, les offrandes disparues, les épiphanies et la fabrication savante du passé
 
 **Dossier universitaire : mythologie grecque, religion civique, épigraphie, histoire culturelle et archéologie de Rhodes.**  
-**Statut documentaire :** étude nouvelle, destinée à l'attribution ultérieure par la file éditoriale ; le numéro ci-dessus demeure une variable, et non une attribution anticipée.  
+**Statut documentaire :** étude **attribuée au chapitre 438** sur la branche `main` ; le reçu officiel de `editorial/numbering.json` correspond à l'UUID `d7e4c519-2986-4a75-9b46-6f41ce8b2605`. La vérification du déploiement HTTPS est une opération distincte.  
 **Délimitation :** cette monographie porte sur Athana Lindia et l'inscription dite *Chronique de Lindos*. Elle ne remplace ni le chapitre déjà publié sur Hélios, ni les études sur Athéna Aléa, Athéna Itonia, l'iconographie générale d'Athéna ou les reconstitutions de l'acropole.
 
 ### Résumé
@@ -283,4 +283,8 @@ Le dossier se résume donc en une proposition : **à Lindos, la religion produit
 
 ---
 
-**MYTHOS — Note de continuité éditoriale.** Aucun ancien repère « 134/135 » n'est utilisé pour attribuer un numéro ; 438 doit être rempli exclusivement par le circuit atomique de publication. Une livraison enregistrée dans la file n'est ni une attribution canonique ni une preuve de déploiement public.
+**MYTHOS — Note de continuité éditoriale.** Les anciens repères « 134/135 » n'ont attribué aucun numéro. **Le chapitre 438 a été attribué par le circuit atomique, avec reçu enregistré sur main** ; cette attribution ne suffit pas à prouver le déploiement HTTPS public.
+
+### Concordance éditoriale : chapitre 433 et chapitre 438
+
+Le [chapitre 433, « Athéna Lindia : la Chronique de Lindos, les offrandes perdues et les épiphanies »](../chapitre-433-athena-lindia-rhodes-chronique-lindos-anathemes-epiphanies-danaides.md) traite **le même sanctuaire et la même inscription** (*Lindos II, 2* / *SIG*³ 725) que cette étude 438. Le chapitre 433 constitue le dossier **extensif**, subdivisé en 64 sections, sur le décret, les attributions d'offrandes, les épiphanies, les données archéologiques et les lectures philosophiques ; le présent chapitre 438 organise en 22 sections une **synthèse critique** de la fabrication du passé par l'inscription et de ses limites probatoires. Cette distinction de fonction n'efface pas les recouvrements : les deux études sont conservées intégralement et nécessitent des renvois dans les sommaires et les dossiers thématiques. Aucune nouvelle attribution ni fusion de numéros n'est impliquée. [Issue de concordance n° 42](https://github.com/Bobcribb/Bobcribb.github.io/issues/42).
