@@ -43,7 +43,7 @@
       "duplicate_ids": 0,
       "broken_same_page_anchors": 0,
       "images_missing_alt": 0,
-      "css_js_distinct": 11,
+      "css_js_distinct": 10,
       "missing_css_js_sources": 0,
       "recent_museum_figures_on_main": 3,
       "figure_source_notes_and_ai_status_present": true
@@ -2199,7 +2199,7 @@
         "duplicate_ids": 0,
         "broken_same_page_anchors": 0,
         "images_missing_alt": 0,
-        "css_js_distinct": 11,
+        "css_js_distinct": 10,
         "missing_css_js_sources": 0,
         "recent_museum_figures_on_main": 3,
         "figure_source_notes_and_ai_status_present": true
