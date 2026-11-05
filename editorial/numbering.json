@@ -561,6 +561,12 @@
           "path": "chapitres/origines-du-sacre/665-dracon-ig-i3-104-homicide-exil-reconciliation-ephetes.md",
           "request_sha256": "007c49cd9ce6b0d1059b74c23b5d1b20798e635219fa9a336ecde3866321617b",
           "initial_source_sha256": "4306e6a84848df248ec0ceb298fb390f26e8ef60fc119448ab4a4fd0896ce973"
+        },
+        "a19cc89f-d421-476e-b082-620bf834a8ef": {
+          "number": 666,
+          "path": "chapitres/origines-du-sacre/666-cylon-alcmeonides-suppliants-asile-phaleron-isotopes.md",
+          "request_sha256": "cf8793d9c7d0db52f2289bbc719df2f52d467a9b13948bbe611e0a802e6691ed",
+          "initial_source_sha256": "8f067ac1e07966e8edce110e197a6b316921b3bc098078ba8a5412915886e63e"
         }
       }
     },
@@ -1396,6 +1402,12 @@
           "path": "chapitres/comedies/volume-104-philyllios-dodekate-anthesteries-choes-amphore-metrete-paratragedie.md",
           "request_sha256": "9ea0b9d8e17302cebb8868daf4586fbc77c96bb8c9b6c4a920a78f5f73a908cb",
           "initial_source_sha256": "bd133f051c1d8ac474ebb8d348cf7fffceebbf4aa840d052a9bbe80abe992eff"
+        },
+        "0a791b32-7d25-4b6f-8cb1-52f0d1a907e6": {
+          "number": 105,
+          "path": "chapitres/comedies/volume-105-philyllios-helene-attribution-incertaine-eidolon-guerre-reconnaissance.md",
+          "request_sha256": "cc330bee8edb740875cbc34490fbc241a845828a7328e79b2eb9a3858c84442e",
+          "initial_source_sha256": "bac55d447e9dbfa3be42f806dfb61608d763182e1153069ddc343a69089273d3"
         }
       }
     },
@@ -1774,6 +1786,12 @@
           "path": "chapitres/tragedies/volume-ccxlvi-sophocle-phinee-a-b-enfants-aveugles-harpyes-asclepios-devoir-justice.md",
           "request_sha256": "ee5c51f7e876d1072dcd9aee307bcf4955be131512c48d617a38bb9f490ddaa3",
           "initial_source_sha256": "b7e70c3ed2d731e4649e9c127540772890e3b9f902daf112c996ed2c0d80ae8f"
+        },
+        "0c9bd531-7d72-482d-8b2d-6a90e7b34fac": {
+          "number": 247,
+          "path": "chapitres/tragedies/volume-ccxlvii-sophocle-phenix-amy-ntor-fragments-718-720-filiation-exil-parole.md",
+          "request_sha256": "2d014dc6e52fe0703013322cd0b92199631f2e23b14c7664c8635898098b3819",
+          "initial_source_sha256": "11d88fed5a0dd18a7cc29b970615a16cafa2345bfc6aad73e46aae56772b338b"
         }
       }
     },

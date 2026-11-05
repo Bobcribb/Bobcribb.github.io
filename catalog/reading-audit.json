@@ -1,13 +1,18 @@
 {
   "status": "passed",
-  "indexed_entries": 1440,
-  "pages_scanned": 1497,
-  "readers_equipped": 1038,
-  "links_checked": 127594,
+  "indexed_entries": 1443,
+  "pages_scanned": 1500,
+  "readers_equipped": 1040,
+  "links_checked": 127883,
   "new_navigation_errors": [],
   "legacy_link_issues": [
     {
       "page": "/chapitres/comedies/volume-104-philyllios-dodekate-anthesteries-choes-amphore-metrete-paratragedie/index.html",
+      "url": "/comedies-grecques/",
+      "problem": "fichier absent"
+    },
+    {
+      "page": "/chapitres/comedies/volume-105-philyllios-helene-attribution-incertaine-eidolon-guerre-reconnaissance/index.html",
       "url": "/comedies-grecques/",
       "problem": "fichier absent"
     }

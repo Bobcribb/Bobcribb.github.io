@@ -215,7 +215,8 @@
     "662": "/chapitres/origines-du-sacre/662-cyrene-loi-cathartique-apollon-souillure-expiation-suppliants/",
     "663": "/chapitres/origines-du-sacre/663-selinonte-elaster-purification-tablette-plomb-reintegration/",
     "664": "/chapitres/origines-du-sacre/664-delos-rhenee-purification-tombes-naissances-souverainete-athenienne/",
-    "665": "/chapitres/origines-du-sacre/665-dracon-ig-i3-104-homicide-exil-reconciliation-ephetes/"
+    "665": "/chapitres/origines-du-sacre/665-dracon-ig-i3-104-homicide-exil-reconciliation-ephetes/",
+    "666": "/chapitres/origines-du-sacre/666-cylon-alcmeonides-suppliants-asile-phaleron-isotopes/"
   },
   "historical_aliases": {
     "/chapitres/origines-du-sacre/576-payer-pour-passer-tarifs-bacs-offrandes/": {
@@ -269,7 +270,7 @@
     "/chapitres/origines-du-sacre/576-payer-pour-passer-tarifs-bacs-offrandes/": "/chapitres/origines-du-sacre/annexe-576-payer-pour-passer-variante/",
     "/chapitres/origines-du-sacre/577-naufrages-secours-divins-survivants/": "/chapitres/origines-du-sacre/580-naufrages-secours-divins-survivants/"
   },
-  "last_numbered_chapter": 665,
+  "last_numbered_chapter": 666,
   "preserved_source_sha256": {
     "chapitres/origines-du-sacre/576-bacs-peages-offrandes-passage.md": "b6704b3484d0c9e0c2e80ea9bdb7e0efa7c6b9723b9b9134f3b7e09c8357e3b1",
     "chapitres/origines-du-sacre/577-monnaies-funeraires-charon-preuves-archeologiques.md": "b4a8e672fb28c90811f531e385cde4bd03aa9f8809613ca6cc8da44e78adf55b",
