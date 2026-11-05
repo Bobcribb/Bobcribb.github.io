@@ -32,6 +32,37 @@ class BehistunPortalTests(unittest.TestCase):
         self.assertTrue(article.select_one("figure[data-media-id='mythos-behistun-inscription-darius-mahdimanavimvi-2018']"))
         self.assertTrue(article.select_one("aside.article-toc"))
 
+    def test_museum_twice_preserves_local_behistun_photo(self):
+        from tempfile import TemporaryDirectory
+        from scripts.apply_museum_design import apply
+
+        markup = ('<html><head><title>Bibliothèque des civilisations</title></head>'
+                  '<body><main><h1>Civilisations</h1><section id="etude-behistun">'
+                  '<a class="portal-card" href="' + SOURCE_URL + '">'
+                  '<img class="mythos-card-image" src="' + IMAGE_URL + '" alt="">'
+                  '<strong>Behistun</strong><span>Photo : Mahdimanavimvi (2018), '
+                  'CC BY-SA 4.0, sources et bibliographie.</span>'
+                  '</a></section></main></body></html>')
+        with TemporaryDirectory() as temp:
+            root = Path(temp)
+            local_image = root / IMAGE_URL.lstrip("/")
+            local_image.parent.mkdir(parents=True)
+            local_image.write_bytes(b"documentary-photograph")
+            page = root / "civilisations/index.html"
+            page.parent.mkdir(parents=True)
+            page.write_text(markup, encoding="utf-8")
+            for _ in range(2):
+                self.assertEqual(apply(root), 1)
+                document = BeautifulSoup(page.read_text(encoding="utf-8"), "html.parser")
+                card = document.select_one("#etude-behistun .portal-card")
+                self.assertEqual([image["src"] for image in card.select("img")], [IMAGE_URL])
+                self.assertIn("Relief de Darius", card.img["alt"])
+                self.assertIn("CC BY-SA 4.0", card.get_text(" ", strip=True))
+                self.assertIn("bibliographie", card.get_text(" ", strip=True))
+            local_image.unlink()
+            with self.assertRaisesRegex(RuntimeError, "Photographie de Behistun manquante"):
+                apply(root)
+
     def test_generator_keeps_link_and_mobile_layout(self):
         source = (ROOT / "scripts/build_navigation.py").read_text(encoding="utf-8")
         css = (ROOT / "assets/mythos-museum.css").read_text(encoding="utf-8")
