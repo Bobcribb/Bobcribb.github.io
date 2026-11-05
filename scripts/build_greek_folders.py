@@ -69,7 +69,10 @@ HERO_HOME = {
 CHAPTER_RULES = [
     # Étude intégrale 425 (Pausanias I, 15, 3 et I, 32, 5) : héros
     # attique de Marathon, non divinité et non source antique autonome.
-    (r'^echetlos\\b', 'heros', 'Marathon — Échétlos, araire et mémoire civique'),
+    (r'^echetlos\b', 'heros', 'Marathon — Échétlos, araire et mémoire civique'),
+    # Étude intégrale antérieure 326 : Hécalé accueille Thésée à Marathon.
+    # Conservation de sa cote historique et de ses références à Callimaque.
+    (r'^hecale\b', 'heros', 'Hécalé — Thésée, hospitalité et mémoire attique'),
     # Études déjà publiées 398 et 424 : le sujet est le sanctuaire local,
     # non l'appartenance générale d'Artémis/Dionysos au panthéon olympien.
     # Liens de retour et sommaires régénérés sans réécrire les manuscrits.
