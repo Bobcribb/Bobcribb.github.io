@@ -21,6 +21,7 @@ class ComparativePortalCoverageTests(unittest.TestCase):
         entries = [
             {"url": mc070, "title": "MC-070 — Nommer les dieux : les cinquante noms de Marduk"},
             {"url": mc071, "title": "MC-071 — Qui écrit pour les dieux ? Nisaba, Nabû, Thot et Seshat"},
+            {"url": mc071, "title": "Doublon de catalogue à ignorer"},
             {"url": unrelated, "title": "Notice sans rapport"},
         ]
         with patch.object(navigation, "write") as write:
