@@ -1,0 +1,327 @@
+# MYTHOS — Encyclopédie de la mythologie grecque — Chapitre 441
+
+## Euthymos de Locres et le Héros de Témésa : l'athlète, le mort vengeur, les jeunes filles et l'invention d'un culte
+
+**Monographie universitaire originale — mythologie grecque en Grande-Grèce, histoire des cultes, épigraphie, histoire du sport, philologie et philosophie de la religion.**
+
+**Statut éditorial :** manuscrit intégral proposé à la file MYTHOS ; le numéro 441 est une variable de publication et non une attribution. Ce texte n'atteste ni intégration définitive au catalogue ni déploiement sur bobmythos.fr.
+
+**Périmètre :** Euthymos (Εὔθυμος), pugiliste de Locres Épizéphyrienne ; le Héros de Témésa ; les noms Polités, Alybas et Lycas ; les traditions sur le Caïkinos ; les cultes et images de Locres et de Témésa. L'étude n'est pas une répétition des dossiers encyclopédiques sur Achélôos, sur les cultes athéniens ou sur les sanctuaires de Béotie. Elle traite un complexe documentaire précis de l'Italie grecque.
+
+### Résumé
+
+Le pugiliste Euthymos fut un vainqueur olympique historique de la première moitié du Ve siècle av. J.-C., attesté par une base de statue et par les traditions de listes agonistiques. Un second Euthymos, construit par la mémoire mythique, était tenu pour fils d'un fleuve, vainqueur d'un mort dangereux, sauveur d'une jeune femme et bénéficiaire d'honneurs réservés d'ordinaire aux puissances surhumaines. Les deux figures ne doivent être ni séparées absolument ni confondues sans examen. Chez Pausanias, un compagnon d'Ulysse, lapidé à Témésa après une agression sexuelle, revient tourmenter la communauté ; Delphes prescrirait sa propitiation par un sanctuaire et la remise annuelle d'une jeune fille. Euthymos le combat et délivre la cité. Strabon inscrit l'affaire dans l'histoire de la conquête locrienne de Témésa et nomme le mort Polités. Une diégèse de Callimaque, conservée sur papyrus, révèle des détails rituels que Pausanias ne transmet pas. La Souda lui donne encore le nom d'Alybas ; une peinture décrite par Pausanias portait celui de Lycas. Enfin, une inscription olympique remaniée, une notice de Pline sur une consécration du vivant de l'athlète et des ex-voto de Locres introduisent des preuves d'une tout autre nature.
+
+**Question directrice :** comment une victoire athlétique put-elle être convertie en autorité cultuelle, et comment le récit de la défaite d'un mort dangereux légitima-t-il un ordre rituel, social et territorial nouveau ?
+
+**Proposition :** le dossier ne prouve ni un sacrifice humain annuel historique ni un événement surnaturel. Il montre les procédures par lesquelles une communauté relie le prestige vérifiable d'un champion, la mémoire d'un sanctuaire, la maîtrise d'un territoire et l'exigence de protection collective. Les hypothèses modernes concernant le « remplacement » d'un culte par un autre seront présentées comme hypothèses, non comme faits acquis.
+
+### 1. La méthode : établir des degrés de preuve
+
+L'étude part de cinq ensembles qu'il faut garder distincts. Premièrement, les traces matérielles : la base de statue d'Olympie, sa dédicace et son remaniement, puis les terres cuites de Locres. Deuxièmement, la chronologie des concours : les Olympiades des années 484, 480, 476 et 472 avant notre ère, contrôlées par les listes et les récits. Troisièmement, la tradition locale sous plusieurs états littéraires, de Callimaque à Pausanias, de Strabon à la Souda. Quatrièmement, les lieux : Locres Épizéphyrienne, Témésa, le fleuve Caïkinos et les lieux saints susceptibles d'avoir accueilli des rites. Cinquièmement, les interprétations modernes, dont l'hypothèse de Bruno Currie sur une héroïsation active et la réorganisation d'un culte plus ancien.
+
+Une inscription atteste une formule gravée et l'existence d'une dédicace ; elle ne garantit pas que tous les épisodes d'un récit soient historiques. Un passage de Pausanias atteste ce que le voyageur savait, voyait ou disait avoir entendu au IIe siècle de notre ère ; il ne date pas, par sa seule présence, un rite du Ve siècle av. J.-C. Une convergence de deux auteurs tardifs peut relever d'un fonds de traditions partagé plutôt que de deux confirmations indépendantes. Un ex-voto figurant un taureau à tête humaine identifie un langage iconographique ; son contexte matériel demeure nécessaire pour décider de l'usage cultuel. Cette hiérarchie des dossiers évite d'écrire une biographie continue à partir de pièces de dates et de statuts différents.
+
+### 2. Locres Épizéphyrienne et Témésa : un espace de contacts
+
+Locres Épizéphyrienne, sur la côte ionienne de la Calabre actuelle, était une cité grecque d'Italie méridionale, engagée dans des relations changeantes avec Rhégion, Crotone et les communautés de l'intérieur. Témésa, connue aussi sous la forme Tempsa, appartenait à l'horizon tyrrhénien du sud de la péninsule. La localisation exacte du noyau urbain antique et les liens de chaque site fouillé avec le nom transmis exigent une documentation archéologique datée ; on ne saurait placer à volonté le sanctuaire du « Héros » sur une carte moderne.
+
+Strabon, *Géographie* VI, 1, 5 (C 255), fait intervenir des Ausones, des Étoliens conduits par Thoas et des Bruttiens. Il rapporte que les Locriens Épizéphyriens s'emparèrent de la ville avant la victoire prêtée à leur pugiliste. Cette succession ethnographique est celle d'un géographe écrivant bien après les événements allégués : elle constitue une tradition de fondation et de conquête, non une stratigraphie humaine démontrée. L'intérêt du récit n'en est pas moindre. Il relie une occupation territoriale à la neutralisation d'un pouvoir surnaturel dont la population devait supporter l'exaction.
+
+L'économie du lieu importe. Strabon discute des mines de cuivre et cite la visite de marchands homériques à « Témésa ». Un paysage de ressources minérales, de ports, de sanctuaires et de routes explique que plusieurs communautés aient eu intérêt à s'approprier le passé du site. Il serait toutefois abusif de dériver directement le combat d'Euthymos d'une guerre des mines : aucun témoignage ne formule une telle causalité.
+
+### 3. De l'homme historique au fils du fleuve
+
+Pausanias, *Description de la Grèce* VI, 6, 4-5, insère Euthymos dans une séquence consacrée aux statues d'athlètes. Il explique qu'un fleuve nommé Caïkinos (Καικῖνος, avec variations de transcription) sépare certains espaces du territoire locrien et de celui de Rhégion. Il rapporte une tradition selon laquelle Euthymos descendrait de ce fleuve. Le texte juxtapose ainsi une généalogie locale surnaturelle et une carrière historique.
+
+Sur la base dédicatoire d'Olympie, l'athlète est au contraire fils d'Astyclès. Le contraste entre généalogie civique et paternité fluviale ne signifie pas nécessairement que l'une aurait « remplacé » l'autre dans l'esprit de tous les habitants. Les deux régimes de filiation peuvent répondre à des questions différentes : le père humain inscrit l'individu dans une famille ; le père-fleuve l'inscrit dans un espace, une frontière et une continuité religieuse. La généalogie du fleuve ne doit pas être traduite en certitude biologique, ni interprétée comme une preuve que l'homme était déjà considéré comme dieu à sa naissance.
+
+Le nom Εὔθυμος est construit sur le préfixe εὖ, « bien », et θυμός, terme dont l'éventail va de l'élan intérieur à l'affectivité et au courage. Son analyse lexicale aide à comprendre sa forme, mais ne fournit aucune preuve qu'il ait été nommé ainsi en raison de sa destinée héroïque. Une étymologie a posteriori ne saurait servir à dater la naissance d'un culte.
+
+### 4. Les victoires olympiques et l'adversaire Théagénès
+
+Le témoignage de Pausanias VI, 6, 5-6 attribue à Euthymos une victoire en pugilat à la 74e Olympiade (484 av. J.-C.). À la 75e (480), il fut vaincu par Théagénès de Thasos, qui cherchait à gagner à la fois le pugilat et le pancrace. Les hellanodices punirent le Thasien : selon le récit, l'entrée dans le combat fut jugée inspirée par l'hostilité personnelle, au détriment de l'équité du concours. Théagénès acquitta la sanction et ne se présenta pas au pugilat de la 76e Olympiade (476). Euthymos l'emporta alors, puis à la 77e (472).
+
+Le document matériel associé à l'athlète est la base de sa statue à Olympie, classée notamment *Inschriften von Olympia* 144, *Carmina Epigraphica Graeca* I, 399, et *Inscrizioni Agonistiche Greche* 13. Des listes de vainqueurs sur papyrus, dont *P.Oxy.* 222, fournissent un autre type de documentation, soumis au contrôle des restitutions. Il est donc justifié de parler d'un champion historique ; il ne l'est pas de déduire de la précision de ce palmarès la véracité du combat nocturne contre un revenant.
+
+Ce voisinage est intellectuellement décisif. Le même nom, reconnu par les Jeux panhelléniques, apparaît ensuite comme protagoniste d'un mythe local. La réputation produite à Olympie offrait à la communauté de Locres une ressource de prestige susceptible de nourrir d'autres récits. L'athlète n'est pas un héros simplement parce qu'il gagne : sa figure devient héroïque quand sa puissance est pensée comme agissant au-delà du stade et continuant d'affecter la collectivité.
+
+### 5. La base d'Olympie : inscription, artiste et remaniement
+
+Pausanias VI, 6, 6 attribue la statue d'Euthymos à Pythagoras, sculpteur actif dans le monde grec occidental et distinct du philosophe de Samos. L'inscription conservée permet de restituer une dédicace au nom d'Euthymos, fils d'Astyclès, vainqueur trois fois à Olympie ; elle nomme également Pythagoras comme auteur. La formulation se présente en plusieurs couches textuelles et ne doit pas être lue comme un bloc gravé d'un seul jet.
+
+Une zone de la pierre a été arasée et regravée. La formule comprenant βροτοῖς, « pour les mortels », prend, dans la lecture défendue par certains historiens, une résonance particulière : l'image du champion se donne à voir aux humains, comme si son dédicant revendiquait une place qui n'était plus celle d'un simple mortel. Mais la pierre n'explique pas à elle seule l'intention du remaniement. La partie effacée ne peut être reconstituée sur la seule base d'une hypothèse psychologique.
+
+La philologie épigraphique doit donc enregistrer quatre faits distincts : l'existence de la base ; le patronyme Astyclès ; la mention des victoires et de l'artiste ; l'altération matérielle d'une portion du texte. Une cinquième proposition — « le remaniement fut conçu comme une déclaration d'immortalité » — appartient à l'analyse et demeure discutable. Pour une présentation accessible, on consultera l'exposé de Stephen G. Miller publié par l'Académie internationale olympique, ainsi que les corpus épigraphiques cités plus haut.
+
+### 6. Le récit de Pausanias : de la faute à la vengeance du mort
+
+Pausanias VI, 6, 7-11 transmet un récit complexe. Après la guerre de Troie, Ulysse aurait été poussé vers Témésa avec ses compagnons. L'un des marins, ivre, y aurait commis une agression sexuelle contre une jeune fille. Les habitants le lapidèrent. Ulysse repartit, indifférent au sort du compagnon. Mais le mort ne cessa d'assaillir les habitants, jeunes et vieux, au point que ceux-ci projetèrent de quitter leur terre.
+
+Selon le récit, une réponse delphique leur interdit de fuir. Ils doivent ériger un enclos et un temple en l'honneur de celui que le texte finit par appeler « le Héros », et lui offrir chaque année la plus belle jeune fille comme épouse. L'exigence rituelle détourne la violence du fantôme vers une prestation récurrente. Il faut noter que Pausanias décrit une logique mythique de propitiation ; il ne rapporte pas une enquête historique établissant que de tels transferts de personnes ont eu lieu chaque année.
+
+À son arrivée, Euthymos apprend le rite, entre dans le sanctuaire et voit la jeune fille promise au revenant. Il éprouve d'abord de la pitié, puis de l'amour. Elle promet de l'épouser s'il la délivre. Le pugiliste revêt ses armes, affronte le mort et triomphe. Le Héros est expulsé du pays et disparaît dans la mer ; Euthymos se marie, la population est libérée. Pausanias ajoute que l'athlète atteignit une extrême vieillesse sans mourir de la manière ordinaire, puis évoque une image du revenant qu'il a vue.
+
+Le récit ne glorifie pas seulement la force. Il propose un passage d'une dette collective imposée par la peur à une relation conjugale réorganisée par la victoire du protecteur. Sa structure narrative est efficace parce qu'elle transforme une cité captive d'une puissance ancienne en une cité capable de vivre sans tribut.
+
+### 7. Trois temporalités, et non une histoire continue
+
+Le récit commence dans le temps mythique d'Ulysse, situe son dénouement dans le temps historique d'un champion du Ve siècle av. J.-C. et nous est principalement transmis par des auteurs des époques hellénistique, romaine et byzantine. Ces temporalités se touchent dans la narration sans se confondre dans l'histoire.
+
+Pausanias ne peut donner la date de l'arrivée d'Ulysse à Témésa ; ce voyage relève d'une géographie légendaire des retours de Troie. La présence d'Euthymos, elle, possède un horizon biographique documentable. Le récit établit une connexion rétrospective entre deux univers, en imaginant qu'une dette originaire a pu attendre des générations avant d'être abolie. C'est précisément cette discontinuité qu'il convient d'analyser : le héros humain sert de médiateur entre une faute très ancienne et une libération territoriale récente.
+
+La chronologie de l'attestation ne fixe pas la date de création du conte. Une version conservée à l'époque de Pausanias peut contenir des éléments plus anciens ; elle ne saurait néanmoins être reportée intégralement à l'époque d'Euthymos sans argument indépendant. La présence d'un sanctuaire archéologique archaïque à proximité ne suffirait pas à démontrer que toutes les séquences de la légende existaient déjà à cette date.
+
+### 8. Strabon : le nom de Polités et la prise de Témésa
+
+Strabon VI, 1, 5 appelle le revenant Πολίτης, Polités, un compagnon d'Ulysse. Il situe son hérôon dans un bois d'oliviers sauvages. Le compagnon aurait été tué par ruse par les habitants qualifiés de « barbares » ; devenu animé d'une colère funeste, il imposait un tribut aux communautés voisines sur ordre oraculaire. Le passage connaît même une formule proverbiale évoquant le « Héros de Témésa » comme une puissance particulièrement difficile à supporter.
+
+Strabon ne raconte pas avec le même détail l'agression sexuelle et le mariage libérateur. Il affirme en revanche explicitement que, lorsque les Locriens Épizéphyriens prirent la ville, le pugiliste Euthymos vainquit Polités et obtint l'abolition du tribut. Cette différence de cadrage mérite davantage qu'une mention de variante : l'épisode s'intègre ici au transfert d'autorité sur le territoire. Le nouvel occupant n'affirme pas seulement sa supériorité militaire ; l'un de ses champions défait le protecteur hostile lié à l'ordre antérieur.
+
+Le nom Polités ne doit pas être automatiquement injecté dans chaque autre source. Un témoin peut désigner le mort seulement par sa fonction, un autre par son statut homérique, un troisième par une légende iconographique. Ces divergences peuvent correspondre à plusieurs traditions locales, à des harmonisations tardives ou à des choix narratifs d'auteur. En l'absence d'un texte contemporain, l'hypothèse d'une identité absolument fixe demeure non démontrée.
+
+### 9. Callimaque et le papyrus : la variante que l'on ne doit pas effacer
+
+Le dossier callimachéen est essentiel parce qu'il empêche de réduire toute l'affaire à la version de Pausanias. Dans les *Aitia*, le fragment 98 de l'édition Harder concerne Euthymos ; l'explication en prose conservée dans la *Diegesis* (99a Harder ; *P.Mil.Vogl.* I 18, col. IV, lignes 5-17, avec lacunes) précise que le « héros », resté d'un navire d'Ulysse, exigeait un tribut des habitants de Témésa et des environs.
+
+La diégèse évoque un lit et une jeune fille d'âge nubile. Les personnes qui déposent l'offrande doivent repartir sans se retourner. Le lendemain, les parents reviennent recevoir la jeune fille en tant que femme. Il s'agit d'un détail capital : la formulation ne permet ni de présumer sa mort ni de dissoudre la violence symbolique de la contrainte. L'enjeu est ici un rite présenté comme union forcée avec un être surnaturel, non un sacrifice sanglant assuré. Euthymos met fin au tribut ; les derniers éléments du passage sont lacunaires.
+
+Il faut également distinguer le poème de Callimaque de l'explication transmise avec lui. La *Diegesis* est un témoin érudit du récit, pas un duplicata versifié de l'original. Une traduction actuelle devra signaler les restitutions entre crochets et la rupture du texte. L'édition pédagogique de Susan Stephens, *Dickinson College Commentaries*, donne le grec, l'état des lacunes, l'identification du papyrus et la concordance des éditions. Les variations de numérotation entre Harder, Pfeiffer et Massimilla doivent être vérifiées avant d'abréger une cote bibliographique.
+
+### 10. Témésa et Tamassos : une incertitude homérique féconde
+
+Dans l'*Odyssée* I, 180-184, Athéna, déguisée en Mentès, parle d'un voyage commercial pour échanger du fer contre du bronze ; la destination est transmise sous le nom de Témésa. Strabon VI, 1, 5 discute l'identification avec la cité italienne et signale l'autre possibilité, Tamassos de Chypre. Cette homonymie a fourni aux traditions locales une occasion de rattacher les routes d'Ulysse et les circuits du métal à l'histoire de la Grande-Grèce.
+
+Il ne faut pas présenter la mention homérique comme une preuve que le poète connaissait nécessairement la Témésa calabraise. La question géographique dépend de la tradition manuscrite, des possibilités commerciales envisagées pour l'époque de composition et de l'exégèse antique. Le désir de localiser exactement tous les toponymes de l'épopée peut faire oublier la mobilité propre à ses espaces narratifs.
+
+Une carte académique utile distinguera donc trois plans : ce que l'*Odyssée* dit littéralement ; ce que Strabon en infère ; et la localisation des sites archéologiques modernes. Cette distinction vaut également pour les autres escales occidentales d'Ulysse. Le « retour » du héros troyen a servi à organiser de nombreuses mémoires locales sans qu'on puisse les transformer toutes en itinéraire historique.
+
+### 11. La peinture vue par Pausanias : Lycas et le paysage du revenant
+
+Pausanias VI, 6, 11 est particulièrement rare : le narrateur dit avoir vu une représentation de l'histoire, qui imitait une peinture ancienne. On y distinguait un jeune homme nommé Sybaris, un fleuve Calabros, une source Lyca, Témésa, un hérôon et un être monstrueux au centre. Le revenant, noir, terrifiant, vêtu d'une peau de loup, y portait le nom de Lycas.
+
+On ne possède pas nécessairement cette peinture elle-même ; on possède sa description. En conséquence, il serait scientifiquement faux de présenter une reconstitution moderne comme photographie de l'œuvre antique. Il serait tout aussi imprudent d'affirmer que la peinture datait exactement du temps d'Euthymos : les mots par lesquels Pausanias qualifie son modèle peuvent se comprendre comme une imitation de peinture ancienne ou un ouvrage de facture archaïsante, selon l'interprétation.
+
+Le costume lupin est une donnée textuelle attestée. La présence des figures fluviales et de la source suggère que le paysage était un acteur du récit, mais la signification de chacun de ces personnages demeure discutée. Lycas n'est pas nécessairement un simple surnom populaire de Polités. L'iconographie antique constitue ici un témoin autonome que la lecture doit confronter à Strabon et à la Souda au lieu de rabattre silencieusement leurs noms sur une « version canonique ».
+
+### 12. Alybas dans la Souda : une tradition lexicographique tardive
+
+La *Souda*, lexique byzantin, s.v. Εὔθυμος (ε 3510 dans l'édition Adler), résume la compétition d'Euthymos avec Théagénès et la délivrance de Témésa. Elle identifie cette fois l'adversaire comme Alybas (Ἀλύβας), tandis que Strabon dit Polités et que la peinture décrite par Pausanias donne Lycas. Cette liste de noms n'est pas un inventaire des trois noms successifs d'une unique personne historiquement identifiable.
+
+Le lexicographe peut combiner une tradition dérivée de Pausanias avec d'autres notices, ou préserver une variante dont le chemin nous échappe. La date tardive du lexique interdit de le traiter comme un témoin direct du Ve siècle. Son intérêt est philologique : il montre que le nom propre n'était pas stabilisé dans toute la réception, alors même que la fonction narrative du mort — imposer un tribut et être vaincu — demeurait reconnaissable.
+
+La forme Alybas a parfois favorisé des hypothèses de généalogie ou de topographie. De telles identifications exigent des chaînes de témoignages explicites. Un nom similaire dans une autre légende ne suffit pas. Pour une édition MYTHOS, l'appareil des variantes doit conserver trois entrées séparées : **Polités = Strabon** ; **Lycas = légende de l'image vue par Pausanias** ; **Alybas = Souda** ; **« le Héros » anonyme = récit de Pausanias et diégèse callimachéenne**.
+
+### 13. Hērōs, daimōn, nekros : les mots de la puissance du mort
+
+Le texte grec permet d'éviter les catégories trop modernes. Ἥρως signifie ici, dans plusieurs occurrences, une puissance honorée localement ; il ne veut pas dire automatiquement « homme moralement admirable ». Δαίμων peut désigner une puissance agissante sans être l'équivalent exact du « démon » chrétien. Le mort violent et revenant du récit ne doit pas être transformé en Satan grec ; il appartient à un paysage religieux où les morts et les héros peuvent à la fois protéger, menacer et recevoir des cultes.
+
+La désignation « le Héros » fonctionne presque comme un titre. Elle peut rendre le personnage plus terrible, parce qu'elle désigne son pouvoir public plutôt que sa biographie privée. Lorsque Strabon lui attribue un nom homérique, il le réinscrit dans l'économie des récits du nostos ; lorsque la Souda le nomme Alybas, elle privilégie une autre tradition d'identification. Le statut rituel n'est pas suspendu à l'accord des noms.
+
+La notion d'ἱλάσκεσθαι, « se rendre favorable, apaiser », éclaire la logique de la propitiation. Les habitants ne déclarent pas le revenant innocent de son crime : ils cherchent à interrompre les effets de sa colère. Le sacrifice, l'offrande, le sanctuaire et le serment sont ici des technologies sociales de relation à une puissance réputée dangereuse. L'historien doit décrire leur fonction narrative sans les approuver moralement ni supposer que tous les Grecs partageaient la même doctrine sur les morts.
+
+### 14. La jeune fille : mariage imposé, consentement et limites documentaires
+
+Le tribut féminin constitue le centre éthique le plus difficile du récit. Dans Pausanias, la première victime subit une violence sexuelle ; l'agresseur est mis à mort ; puis les générations suivantes sont exposées à une nouvelle contrainte par le culte du mort. Dans la *Diegesis* de Callimaque, le lit, la jeune fille à marier, l'interdiction de regarder derrière soi et son retour comme femme dessinent un langage nuptial. Le récit transforme ainsi le corps féminin en lieu d'inscription d'une dette collective.
+
+Il serait erroné de parler sans qualification d'un sacrifice humain annuel. Aucune preuve archéologique vérifiée n'établit une mise à mort répétée dans le sanctuaire de Témésa, et l'exposé callimachéen rend précisément cette conclusion problématique. Inversement, l'absence de meurtre explicitement décrit ne permet pas de rendre l'épisode anodin. Le vocabulaire d'épouse peut recouvrir dans le récit une relation imposée, et la terreur collective ne constitue pas un consentement individuel.
+
+La jeune fille de Pausanias promet d'épouser Euthymos s'il la sauve. Ce serment fait d'elle un sujet de parole dans la logique narrative, mais son choix demeure situé entre deux alternatives inégales : l'union au revenant ou l'union au sauveur. Une lecture moderne attentive à la domination ne doit ni ignorer sa promesse ni transformer celle-ci en liberté sans contrainte. L'historien de la religion étudie la manière dont un mythe justifie la protection de la cité en déplaçant la propriété symbolique du corps féminin.
+
+### 15. Le duel : de la boxe au combat armé
+
+Le pugiliste combat d'ordinaire avec des mains et des corps soumis aux règles agonistiques. Chez Pausanias VI, 6, 9, Euthymos s'équipe pour affronter le revenant. Le passage du pugilat à la lutte armée marque une amplification mythique de sa capacité. Le champion n'affronte plus un adversaire humain inscrit à une épreuve ; il défie un être dont la cité entière redoute le pouvoir.
+
+La victoire sportive, vérifiable dans son principe, est convertie en victoire ontologique : un vivant repousse un mort qui ne cessait d'agir dans le monde des vivants. Le récit se sert ainsi du capital d'autorité de l'athlète pour résoudre un problème que les institutions ordinaires ne parviennent pas à surmonter. La puissance corporelle devient puissance de déliaison ; elle rompt une obligation rituelle passée pour nécessaire.
+
+Cette transformation ne fait pas du pugilat un rite initiatique universel. Aucun témoignage ne démontre que les championnats olympiques étaient conçus comme préparation à la chasse aux fantômes. Il s'agit d'un transfert littéraire et cultuel propre à Euthymos, comparable à d'autres exploits de héros, mais irréductible à une loi générale du sport grec.
+
+### 16. Héraclès contre Achélôos : une comparaison précise, non une filiation prouvée
+
+L'hypothèse formulée par Bruno Currie rapproche le combat d'Euthymos de la lutte d'Héraclès contre le dieu-fleuve Achélôos pour Déjanire. La comparaison possède des éléments structurels : un héros combattant, un adversaire lié à l'eau, un enjeu nuptial et la redistribution de la puissance locale. Sophocle, *Trachiniennes* 9-21, permet de contrôler dans une source grecque classique la place des métamorphoses fluviales et de l'affrontement pour une femme.
+
+Cette parenté formelle n'est pas une preuve d'emprunt direct. Les récits peuvent combiner indépendamment des motifs religieux fréquents, tandis que les images de fleuves anthropocéphales appartiennent à un répertoire méditerranéen plus large. Pour conclure à une imitation délibérée d'Héraclès, il faut expliquer par quels milieux, images ou textes cette mémoire a pu être mobilisée à Locres et à Témésa. Currie propose un modèle historiquement argumenté ; le dossier MYTHOS le présente comme une interprétation majeure, susceptible d'être discutée.
+
+La différence est tout aussi intéressante que la ressemblance. Achélôos est un dieu-fleuve explicitement présent dans un ensemble de mythes ; le Héros de Témésa est présenté comme un mort humain devenu dangereux et honoré. Assimiler les deux sans réserve effacerait précisément la question de l'héroïsation que le récit d'Euthymos permet d'étudier.
+
+### 17. Pline l'Ancien : une consécration du vivant
+
+Pline, *Histoire naturelle* VII, 152, fournit un témoignage très spécifique : Euthymos aurait reçu une consécration alors qu'il vivait encore et savait ce qui lui arrivait. Le passage affirme que ses statues de Locres et d'Olympie furent frappées de la foudre le même jour, événement que Callimaque aurait trouvé étonnant ; un oracle aurait prescrit des sacrifices à Euthymos, accomplis de son vivant puis après sa mort.
+
+Il est indispensable de distinguer la proposition rapportée par Pline du fait qu'une société du Ve siècle ait réellement organisé ces sacrifices. Pline écrit au Ier siècle de notre ère et transmet notamment une tradition callimachéenne ; il n'est pas le témoin oculaire des deux foudroiements. Son récit prouve que la consécration d'un champion vivant était pensable, racontable et mémorable. Il ne prouve pas la date précise ni le protocole complet de tous les rites.
+
+Une tension avec Pausanias est particulièrement révélatrice. Celui-ci transmet une tradition selon laquelle Euthymos échappa à la mort ordinaire et disparut ; Pline distingue explicitement les sacrifices de son vivant et après sa mort. Les textes ne forment donc pas un dossier biographique parfaitement univoque. Ils participent tous deux à la singularisation d'un homme dont le destin excéderait celui d'un athlète ordinaire, mais ne racontent pas sa fin de la même manière.
+
+### 18. La foudre, les statues et le passage à une personne sacrée
+
+Le prodige des deux statues frappées simultanément fonctionne, dans la tradition recueillie par Pline, comme une validation divine. Le champion dispose de deux ancrages symboliques : Olympie, centre panhellénique de son renom ; Locres, cité qui reçoit son prestige. La foudre relie ces deux espaces et rend légitime le changement de statut. La consultation oraculaire transforme ensuite le signe en décision rituelle.
+
+La matérialité de la base d'Olympie ne doit pas être confondue avec le récit de foudre. La pierre gravée peut être étudiée indépendamment de la véracité du prodige. L'interprétation des traces d'arasement comme allusion à l'immortalité, déjà évoquée, représente une troisième opération : celle d'un historien moderne reliant l'épigraphie aux discours littéraires sur la consécration. Les trois couches ne sont pas interchangeables.
+
+Une histoire des religions exige ici une distinction entre **prodigium raconté**, **objet inscrit conservé** et **culte attesté par une pratique**. Leur conjonction peut rendre une reconstruction plausible ; elle ne permet pas de combler toutes les lacunes. Le mythe expose en tout cas une idée décisive : le passage à la condition héroïque n'est pas seulement une qualité personnelle, il suppose des témoins, des rites et une reconnaissance collective.
+
+### 19. Les terres cuites de Locres : un taureau à tête humaine nommé Euthymos
+
+À Locres, le sanctuaire des Nymphes dit Grotta Caruso a livré un ensemble important de terres cuites figurées, étudiées notamment par F. Costabile et par Bruno Currie. Certaines montrent un bovin à tête humaine juvénile, parfois associé à une représentation des Nymphes et à des dispositifs d'offrande. Une inscription liée à cette iconographie comporte le nom d'Euthymos accompagné d'une qualification sacrée, dont la lecture exacte et l'accord grammatical ont fait l'objet de discussions.
+
+Cette documentation date principalement de l'époque classique tardive, notamment du IVe siècle avant notre ère pour les types les plus discutés. Elle ne doit pas être projetée sans transition dans les décennies des victoires olympiques. Son intérêt est toutefois considérable : le nom d'Euthymos appartient à une image qui reprend le langage des dieux-fleuves anthropocéphales. Le champion historique paraît ainsi intégré à une iconographie religieuse distincte de son portrait d'athlète.
+
+Une interprétation minoritaire, mentionnée par la recherche, avait envisagé de voir dans le nom un simple dédicant plus tardif plutôt que l'identité de la figure taurine. L'analyse du dispositif figuré et de ses parallèles a renforcé l'identification au champion héroïsé, sans rendre inutiles les contrôles épigraphiques. Dans le projet iconographique MYTHOS, il faudra présenter les photographies de ces terres cuites avec inventaire, provenance, lieu de conservation et date, sans prétendre qu'elles figurent le combat de Témésa.
+
+### 20. Le fleuve, les Nymphes et la transformation d'Euthymos
+
+Pourquoi un taureau à visage humain ? Dans l'iconographie grecque, les cours d'eau reçoivent souvent une forme bovine, masculine ou mixte. Le motif relie fertilité, mobilité, force et puissance de la terre irriguée. Sa présence auprès des Nymphes n'est pas surprenante : les eaux courantes, les grottes et les sources constituent des lieux privilégiés de relations rituelles. L'association autorise à penser qu'Euthymos a pu recevoir une identité locale de puissance fluviale.
+
+Il faut néanmoins refuser une phrase du type « Euthymos s'est réellement changé en fleuve » en tant qu'énoncé historique. Une image religieuse n'est pas une photographie d'une métamorphose. Elle peut exprimer l'assimilation du champion à un pouvoir du paysage, ou le faire participer d'un sanctuaire déjà attaché aux Nymphes et à l'eau. Le fait que Pausanias lui attribue un père-fleuve rend cette lecture cohérente ; il ne suffit pas à établir toutes les étapes chronologiques de l'assimilation.
+
+Les recherches de Currie suggèrent que le culte d'Euthymos a pu se greffer sur un autre culte héroïque ou en prendre certains attributs. Ce scénario offre un modèle dynamique : le vainqueur n'abolit pas toute religion antérieure, il reconfigure les relations cultuelles. Une preuve de culte à Grotta Caruso ne localise cependant pas automatiquement le sanctuaire du Héros de Témésa, autre lieu dont l'identification demeure débattue.
+
+### 21. Campora San Giovanni : le sanctuaire découvert et le sanctuaire supposé
+
+Dans le territoire associé par plusieurs historiens à Témésa, des recherches archéologiques à Imbelli, près de Campora San Giovanni, ont identifié les traces d'un édifice sacré archaïque. Les travaux de G. F. La Torre ont contribué à discuter son architecture, sa chronologie, ses destructions et ses rapports possibles avec la tradition de Polités. Les notices archéologiques soulignent l'intérêt d'un rapprochement entre ce lieu, la zone des anciens cours d'eau et le hérôon décrit par Strabon.
+
+L'identification avec « le temple du Héros » n'est cependant pas une équivalence démontrée par une inscription portant son nom. L'absence d'un témoignage nominatif sûr invite à parler de **candidat topographique**, non de monument identifié avec certitude. La tentation est grande, en présence d'un mythe bien connu, d'attribuer à chaque vestige proche le personnage du texte. Ce serait inverser le raisonnement archéologique : l'objet matériel doit d'abord être décrit par ses propres caractères.
+
+Un dossier de site complet devrait inclure un plan stratigraphique, le catalogue des mobiliers, les propositions de datation, la relation avec les paysages anciens et une carte de l'ensemble des implantations possibles. Les hypothèses reliant une destruction du sanctuaire à la conquête locrienne ou à un changement de régime cultuel sont intéressantes, mais leur statut doit rester interprétatif tant qu'une chaîne de preuves indépendante n'est pas établie.
+
+### 22. L'appropriation politique de la mémoire sacrée
+
+Chez Strabon, la prise de Témésa par les Locriens et la victoire d'Euthymos se répondent. La cité conquérante dispose désormais d'un champion qui neutralise la puissance exigeant un tribut. On peut analyser cette structure comme une légitimation du pouvoir locrien : l'ordre nouveau n'est pas présenté seulement comme vainqueur des hommes, mais comme libérateur des hommes contre une créance imposée par le monde des morts.
+
+Le raisonnement n'autorise pas à qualifier automatiquement l'ensemble de « propagande officielle ». Nous ne possédons pas le texte d'un décret locrien prescrivant la diffusion de cette légende au moment de l'expansion territoriale. L'interprétation politique est fondée sur la cohérence du récit et sur la présence explicite de l'occupation locrienne chez Strabon. Elle demeure à éprouver contre les datations et les interactions entre populations grecques et non grecques.
+
+L'épisode montre aussi un paradoxe. Le mort offensé apparaît dans une tradition où la communauté a exercé une punition violente à la suite de son crime. Sa vengeance devient pourtant la source d'une tyrannie sacrée. Euthymos, en supprimant le tribut, rétablit une vie collective plus acceptable, mais l'autorité salvatrice est transférée à un individu lui-même susceptible de recevoir des honneurs extraordinaires. La libération n'abolit pas le pouvoir personnel ; elle le refonde sous un autre visage.
+
+### 23. Théagénès et Cléomédès : comparaison contrôlée des athlètes héroïsés
+
+Pausanias VI, 11, 2-9 raconte la tradition de Théagénès de Thasos, dont la statue, après une série d'événements, aurait reçu des honneurs cultuels. Le dossier est particulièrement proche de celui d'Euthymos en raison de leur rivalité sportive ; il en diffère parce que le culte est rattaché à la mémoire d'une statue agissante après la mort. Des indices matériels de cultes de Théagénès ont été étudiés à Thasos. Cette comparaison montre que la célébrité agonistique n'explique pas à elle seule l'héroïsation : elle doit se combiner avec l'intervention d'un oracle, d'une image ou d'une communauté.
+
+L'exemple de Cléomédès d'Astypalée (*Pausanias* VI, 9, 6-8) complique encore le modèle. Le pugiliste, exclu après avoir causé la mort d'un adversaire, commet un acte atroce à son retour. Il disparaît ensuite d'un coffre et une réponse delphique recommande des honneurs héroïques. L'héroïsation antique ne correspond donc pas à l'attribution d'une vertu exemplaire telle que la définirait une morale contemporaine. Elle peut représenter une négociation avec une puissance ressentie comme hors norme, même lorsqu'elle est profondément inquiétante.
+
+La comparaison doit maintenir trois dossiers distincts : Euthymos, libérateur de Témésa ; Théagénès, statue et culte à Thasos ; Cléomédès, violence et disparition à Astypalée. Les mettre en série n'est pas prétendre qu'ils relevaient d'un rite d'héroïsation unique et obligatoire. L'intérêt comparatif tient à la pluralité des voies par lesquelles un homme remarquable, dangereux ou salvateur peut devenir destinataire d'honneurs religieux.
+
+### 24. Philosophie I : la puissance contre la norme
+
+L'opposition entre la force du champion et la force du revenant semble, à première vue, simple : l'une est juste et l'autre abusive. Mais le récit résiste à une lecture binaire. Le revenant a été lapidé après une violence commise ; il répond par une vengeance qui excède toutes les proportions. Un oracle transforme ensuite sa colère en obligation cultuelle. Le problème central est celui de la **mesure** : comment une communauté passe-t-elle d'une réaction punitive à une contrainte perpétuelle, puis à une libération ?
+
+Une lecture philosophique peut mobiliser les catégories de justice corrective, de dette et de proportion sans prétendre que Pausanias expose Aristote. Dans l'*Éthique à Nicomaque* V, 2-5, Aristote distingue des modalités de justice et discute les relations entre dommage, réparation et égalité. Cette grille ne date pas le mythe et ne lui prête pas une intention aristotélicienne ; elle permet de formuler sa difficulté : la vengeance illimitée du mort se substitue à toute réparation proportionnée, tandis que la victoire d'Euthymos arrête cette extension.
+
+La cité de Témésa est décrite comme impuissante devant une exigence sanctifiée par son ancien oracle. L'intervention du pugiliste apparaît comme une justice par la force quand les procédures rituelles ont cessé d'être protectrices. Mais cette sortie est elle-même ambiguë : la puissance qui délivre la communauté est extraordinairement personnelle. Le récit travaille donc une limite de l'ordre institutionnel : il a besoin d'une exception pour mettre fin à l'exception destructrice.
+
+### 25. Philosophie II : reconnaissance, gloire et communauté
+
+Le champion olympique n'existe socialement comme vainqueur qu'à travers un dispositif de reconnaissance : juges, concours, inscription, couronne, image et mémoire. L'héroïsation ajoute d'autres institutions, religieuses cette fois : un sanctuaire, des ex-voto, des récits de prodiges, des sacrifices. Les deux systèmes transforment un acte ou un individu en valeur reconnue par la communauté. Cependant ils ne se confondent pas : la victoire agonistique appartient à une compétition réglée, le culte implique une relation durable avec une puissance.
+
+On pourrait rapprocher cette mutation de certaines analyses modernes de la reconnaissance chez Hegel, notamment le problème de la médiation sociale de l'identité dans la *Phénoménologie de l'esprit*. Ce rapprochement n'est **pas** une généalogie historique : ni Locres ni Callimaque ne « préfigurent » une thèse hégélienne déterminée. L'intérêt est méthodologique. Il rappelle qu'un individu n'acquiert pas un statut public exclusivement par sa force personnelle ; des institutions et des récits doivent la reconnaître, la transmettre et la rendre utilisable par d'autres.
+
+Une autre lecture, empruntant à Nietzsche une interrogation sur l'origine et la valeur des idéaux, demanderait quelles forces sociales gagnent à présenter une domination comme une protection. Là encore, il ne faut pas attribuer à Nietzsche une interprétation qu'il n'a pas écrite d'Euthymos. La lecture généalogique peut mettre en question l'innocence des récits de fondation, mais elle ne se substitue ni à la datation de l'inscription ni à la critique des textes.
+
+### 26. Philosophie III : le corps féminin comme prix de la paix
+
+L'objet rituel remis au revenant n'est pas un objet : c'est une jeune fille. La catégorie de « mariage » sert ici à stabiliser une relation entre humains et puissance surnaturelle, mais elle peut masquer une asymétrie radicale. La communauté achète sa tranquillité en exposant la liberté de l'une de ses membres. Cette structure donne au combat d'Euthymos son intensité morale, tout en conservant la voix de la jeune femme dans une position subordonnée.
+
+La lecture critique ne doit pas inventer un rituel de prostitution sacrée, notion controversée et historiquement chargée, à partir d'une diégèse fragmentaire. Elle peut en revanche analyser la substitution narrative qui mène du lit du mort à l'union avec le champion. Dans les deux cas, la jeune fille est placée au centre d'une décision qui concerne la communauté entière ; le récit change l'issue du conflit sans interroger tous les présupposés de cette mise à disposition.
+
+Pour MYTHOS, cette question doit être discutée de façon autonome : **qui consent, qui promet, qui ordonne, qui bénéficie de la cessation du tribut ?** La tradition ne nous livre pas le témoignage de femmes de Témésa ayant pratiqué ce rite ; elle livre une fiction religieuse masculine dont les catégories de dette, d'honneur et de mariage doivent être examinées comme telles. La comparaison avec les récits de sacrifices de filles en mythologie grecque peut être éclairante sur le plan narratif, à condition de ne pas fabriquer une pratique historique commune.
+
+### 27. Comparer avec prudence : morts dangereux et cultes réorganisés
+
+Les traditions grecques connaissent d'autres morts dont la présence devient dangereuse et dont l'apaisement exige des rites. On songe à certaines catégories de héros locaux, de morts sans sépulture et de puissances souterraines. L'*Odyssée* XI, 51-83, avec l'ombre d'Elpénor réclamant une sépulture, offre un exemple homérique précis de devoir envers un défunt ; mais Elpénor ne contraint pas sa communauté au même tribut sexuel que le mort de Témésa. L'analogie vaut pour la nécessité de traiter la relation aux morts, non pour l'identité des cultes.
+
+On peut également rapprocher Euthymos d'autres héros sportifs honorés dans le monde grec. La comparaison avec Théagénès et Cléomédès, fondée sur les passages de Pausanias, est plus solide qu'un parallèle général avec des « chamans » ou « dieux guerriers » supposés universels. Les catégories modernes « survivance », « démon archaïque », « substitution sacrificielle » ou « lutte de civilisations » ne doivent pas être imposées au dossier sans distinguer leurs niveaux d'applicabilité.
+
+La démarche comparative proposée procède en trois étapes : décrire chaque rituel selon son vocabulaire et son corpus ; relever les analogies structurales ; chercher, seulement ensuite, des chaînes historiques de contact ou de transmission. Elle ne pose ni une diffusion d'un unique mythe méditerranéen ni l'existence d'un rite commun de livraison de jeunes filles aux démons. La prudence historique accroît ici l'intérêt philosophique au lieu de l'appauvrir.
+
+### 28. La chronologie des témoins et les anachronismes à éviter
+
+**Première moitié du Ve siècle av. J.-C. :** carrière sportive d'Euthymos, avec victoires olympiques rapportées et base dédicatoire. Cela fonde l'historicité du champion, non celle du duel surnaturel.
+
+**IVe siècle av. J.-C. et périodes voisines :** représentations votives de Locres, notamment à Grotta Caruso ; leur typologie et leurs dates se discutent au niveau des objets, du contexte de découverte et des inscriptions.
+
+**Époque hellénistique :** Callimaque traite l'histoire dans les *Aitia* ; le fragment et la *Diegesis* nous parviennent dans une transmission papyrologique plus tardive. On ne peut confondre la date de composition et celle du papyrus.
+
+**Ier siècle av. J.-C. – Ier siècle apr. J.-C. :** Strabon et Pline transmettent des états importants de la tradition, avec accent respectif sur le contrôle territorial et la consécration extraordinaire.
+
+**IIe siècle apr. J.-C. :** Pausanias, décrivant Olympie, réunit récit agonistique, traditions locales et souvenir d'une image.
+
+**Époque byzantine :** la Souda enregistre un résumé et le nom Alybas. Sa valeur dépend de sa relation aux sources antérieures.
+
+Un tableau de publication devra distinguer pour chaque élément le **fait antique concerné**, la **date du témoignage conservé**, la **nature du support**, le **degré de certitude** et la **question demeurée ouverte**. Cette présentation serait plus fidèle à l'état des connaissances qu'une chronologie linéaire d'événements surnaturels.
+
+### 29. Dossier philologique : six entrées indispensables
+
+**Εὔθυμος — Euthymos.** Nom personnel du champion, avec orthographes latines Euthymus ; ne pas confondre avec Euthykles de Locres, autre figure parfois évoquée parmi les athlètes honorés.
+
+**Ἥρως — Hērōs.** « Héros », parfois employé comme désignation propre du mort de Témésa. Sa dimension religieuse ne présuppose pas une vertu morale exemplaire.
+
+**Δαίμων — Daimōn.** Puissance agissante dans la tradition du revenant ; le traduire par « démon » exige une note sur la différence avec les catégories chrétiennes modernes.
+
+**Ἡρῷον — Hērōion.** Édifice ou lieu consacré à un héros. L'emploi chez Strabon ne suffit pas à identifier un bâtiment archéologique particulier.
+
+**Δασμός — Dasmos.** Tribut, terme important dans le passage de Strabon et la diégèse callimachéenne ; sa valeur met l'accent sur l'exaction récurrente, et pas seulement sur le don pieux.
+
+**Παρθένος — Parthenos.** Jeune fille, ici dans un dispositif nuptial contraint. La valeur sexuelle ou matrimoniale précise dépend du contexte ; une traduction par « vierge » ne donne pas, à elle seule, une description anthropologique d'un rite historique.
+
+Le nom du revenant doit rester distribué entre les témoins : Polités chez Strabon ; Lycas dans la peinture décrite par Pausanias ; Alybas dans la Souda ; anonyme dans les passages narratifs de Pausanias et la diégèse des *Aitia*. Aucun choix arbitraire ne doit écraser cette pluralité.
+
+### 30. Conclusion : une cité peut-elle délivrer ses morts ?
+
+Euthymos offre un cas particulièrement riche parce qu'il met en relation trois régimes de preuve : l'inscription du vainqueur, l'image cultuelle du héros et le récit de la délivrance. L'homme qui a gagné au stade entre dans une mémoire où il peut combattre le mort, épouser la jeune fille promise, libérer une ville et finir par recevoir des honneurs extraordinaires. Il ne s'agit ni d'une simple biographie romancée ni d'une certitude sur les pratiques de Témésa : c'est le travail social et religieux qui convertit une gloire humaine en capacité de protection.
+
+Le récit porte cependant une violence que son dénouement heureux ne doit pas masquer. Un premier crime sexuel, une lapidation, une vengeance collective et une obligation nuptiale imposée deviennent les conditions d'un ordre que le champion vient abolir. La paix nouvelle repose sur la victoire d'une figure à son tour extraordinaire. Ainsi la cité ne cesse pas de se rapporter à des puissances : elle remplace un lien de crainte par un lien de reconnaissance et peut-être de culte.
+
+La difficulté méthodologique demeure féconde. La base d'Olympie est certaine ; les événements miraculeux relèvent de traditions ; les terres cuites attestent un horizon religieux mais non tout le récit ; le sanctuaire de Témésa reste topographiquement débattu. La véritable richesse de ce mythe n'est pas d'abolir ces distinctions, mais de montrer comment elles furent articulées pour fabriquer une autorité.
+
+### 31. Sources primaires, éditions et instruments de travail
+
+1. **Homère**, *Odyssée* I, 180-184 : voyage vers Témésa/Tamassos et circulation du métal. Lire le texte grec et les variantes géographiques avant toute identification topographique.
+2. **Pausanias**, *Description de la Grèce* VI, 6, 4-11 : filiation fluviale, palmarès, duel contre le Héros, mariage, disparition et tableau de Lycas ; VI, 9, 6-8 : Cléomédès ; VI, 11, 2-9 : Théagénès. Texte grec et traduction consultables à https://www.theoi.com/Text/Pausanias6A.html et dans les éditions critiques de la *Periegesis*.
+3. **Strabon**, *Géographie* VI, 1, 5 (C 255-256) : Témésa, Polités, hérôon sous les oliviers sauvages, tribut et prise par les Locriens. Texte et traduction, Perseus : https://beta.perseus.tufts.edu/urn:cts:greekLit:tlg0099.tlg001.perseus-eng3/section:6.1.5/
+4. **Callimaque**, *Aitia* IV, fr. 98 Harder et *Diegesis* fr. 99a Harder, *P.Mil.Vogl.* I 18, col. IV, 5-17 : récit du lit, de la jeune fille et du tribut, avec lacunes. Édition pédagogique du grec et notice de S. Stephens : https://dcc.dickinson.edu/pl/callimachus-aetia/book-4/euthymus-locri . Contrôler les concordances Pfeiffer et Massimilla.
+5. **Pline l'Ancien**, *Histoire naturelle* VII, 152 : Euthymos honoré vivant, images frappées par la foudre et sacrifices prescrits. Texte latin : https://penelope.uchicago.edu/Thayer/L/Roman/Texts/Pliny_the_Elder/7*.html .
+6. **Élien**, *Histoire variée* VIII, 18 : tradition sur Euthymos et sa sortie du destin commun ; vérifier toute citation exacte dans une édition grecque avant reproduction.
+7. **Souda**, s.v. Εὔθυμος, ε 3510 Adler : Euthymos et le nom Alybas ; traduction et notes du projet Suda On Line : https://cs.uky.edu/~raphael/sol/sol-entries/epsilon/3510 .
+8. **Sophocle**, *Trachiniennes* 9-21 : Déjanire, Achélôos et Héraclès, pour le parallèle structural seulement.
+9. **Épigraphie**, *Inschriften von Olympia* 144 ; *Carmina Epigraphica Graeca* I, 399 ; *Inscrizioni Agonistiche Greche* 13 : base d'Euthymos ; comparer les lectures de la zone arasée et des ajouts. **Papyrologie**, *P.Oxy.* 222, col. I : liste de vainqueurs et propositions de restitution.
+10. **Épigraphie religieuse locrienne**, *Supplementum Epigraphicum Graecum* 42, 906 : dossier des objets de Grotta Caruso ; contrôler directement les légendes, datations et lectures des catalogues avant reproduction d'une inscription.
+
+### 32. Bibliographie raisonnée et liens vérifiables
+
+- **Currie, Bruno** (2002), « Euthymos of Locri: A Case Study in Heroization in the Classical Period », *Journal of Hellenic Studies* 122, p. 24-44, DOI 10.2307/3246203. Étude fondamentale de la carrière, des traditions, des ex-voto et de l'hypothèse d'un transfert cultuel : https://www.cambridge.org/core/journals/journal-of-hellenic-studies/article/abs/euthymos-of-locri-a-case-study-in-heroization-in-the-classical-period/541103B1E360177929CD16EE86205687 .
+- **Costabile, Felice, et al.** (1991), *I ninfei di Locri Epizefiri*, Catanzaro. Documentation archéologique de Grotta Caruso, des reliefs et des lectures d'inscriptions. Consulter les planches dans l'édition matérielle.
+- **La Torre, Gioacchino Francesco** (2002), *Un tempio arcaico nel territorio dell'antica Temesa. L'edificio sacro in località Imbelli di Campora San Giovanni*. Dossier de fouilles nécessaire à toute discussion du sanctuaire supposé de Polités ; notice critique sur Persée : https://www.persee.fr/doc/antiq_0770-2817_2005_num_74_1_2584_t2_0624_0000_2 .
+- **Mele, Alfonso** (1983), « L'eroe di Temesa tra Ausoni e Greci », dans les travaux collectifs sur les contacts et les cultes héroïques de Grande-Grèce, p. 848-888. À lire pour les enjeux territoriaux et les traditions d'interprétation.
+- **Stephens, Susan** (2015), *Callimachus: Aetia*, Dickinson College Commentaries, notice « Euthymus of Locri ». Utile pour le texte papyrologique, les concordances et la prudence envers les lacunes : https://dcc.dickinson.edu/pl/callimachus-aetia/book-4/euthymus-locri .
+- **Miller, Stephen G.** (2018/2019), « Athletes as Celebrities in Ancient Greece », conférence publiée par l'Académie internationale olympique : https://www.ioa.org.gr/post/athletes-as-celebrities-in-ancient-greece . Présentation de la base, de sa rasura et du rapport entre célébrité et honneurs héroïques.
+- **Moretti, Luigi** (1957), *Olympionikai, i vincitori negli antichi agoni olimpici*. Instrument prosopographique à confronter aux listes papyrologiques et épigraphiques.
+- **Miller, Stephen G.** (2004), *Ancient Greek Athletics*, New Haven/Londres. Contexte institutionnel, agonistique et monumental des vainqueurs.
+- **Ekroth, Gunnel** (2002), *The Sacrificial Rituals of Greek Hero-Cults in the Archaic to the Early Hellenistic Periods*, Liège. Pour éviter de définir le culte héroïque par une seule forme de sacrifice.
+- **Parker, Robert** (2011), *On Greek Religion*, Ithaca/Londres. Méthode de lecture du polythéisme, des puissances locales et des pratiques rituelles.
+- **Graf, Fritz** (1985), *Nordionische Kulte*, Rome. Pour la méthode de contextualisation régionale des cultes, non comme témoignage direct sur Témésa.
+- **Ebert, Joachim** (1972), *Griechische Epigramme auf Sieger an gymnischen und hippischen Agonen*, Berlin. Corpus et méthode pour la poésie agonistique inscrite.
+
+**Précision bibliographique :** les références à Élien, aux catalogues de terres cuites et aux éditions épigraphiques sont des pistes de consultation éditoriale à vérifier contre les imprimés ou leurs reproductions autorisées ; aucune lecture conjecturale de pierre ou de papyrus n'est ici annoncée comme découverte nouvelle. Les formulations françaises du présent dossier sont des paraphrases originales et non la reproduction d'une traduction récente protégée.
+
+### 33. Proposition d'appareil iconographique MYTHOS
+
+**Planche A — « De Locres à Témésa ».** Carte topographique de la Calabre et de l'Italie méridionale, avec Locres Épizéphyrienne, Rhégion, l'horizon du Caïkinos et les hypothèses de localisation de Témésa. Distinguer par la légende « lieu établi », « localisation discutée » et « trajet mythique » ; éviter toute route fictive attribuée à Ulysse.
+
+**Planche B — « Le nom du champion dans la pierre ».** Reproduction autorisée de la base inscrite d'Euthymos à Olympie, détail épigraphique de la zone arasée, transcription diplomatique et traduction critique. Notice de référence : *IvO* 144 / *CEG* I 399 ; vérifier le propriétaire des photographies et les droits de réutilisation.
+
+**Planche C — « Le temps d'un champion ».** Frise des Olympiades 484, 480, 476 et 472 av. J.-C., avec l'affrontement contre Théagénès et un volet indépendant pour les témoins littéraires. Ne pas inscrire de date inventée pour le duel surnaturel.
+
+**Planche D — « Le dieu-fleuve à Locres ».** Photographie documentaire d'une terre cuite de Grotta Caruso montrant la forme anthropocéphale et les Nymphes, avec référence au catalogue de Costabile, date proposée, contexte archéologique et lecture épigraphique prudente. Ne pas la légender comme scène du combat à Témésa.
+
+**Planche E — « Callimaque : une histoire lacunaire ».** Fac-similé ou relevé autorisé de *P.Mil.Vogl.* I 18, col. IV, avec encadrement des lignes 5-17 et transcription signalant les lacunes. Crédit à la bibliothèque ou à l'institution détentrice à confirmer.
+
+**Planche F — « Quatre noms pour le revenant ».** Diagramme philologique distinguant le Héros anonyme (Pausanias/diégèse), Polités (Strabon), Lycas (peinture décrite par Pausanias) et Alybas (Souda). Aucune fusion sans preuve ; citer chaque passage.
+
+**Planche G — « Imbelli : un sanctuaire, une attribution discutée ».** Plan de fouilles et photographies autorisées de Campora San Giovanni, avec deux légendes séparées : vestiges attestés ; identification hypothétique au sanctuaire du Héros.
+
+**Planche H — « Euthymos face au revenant ».** Reconstitution artistique contemporaine éventuellement photoréaliste, non métrique, explicitement signalée comme **interprétation moderne d'un récit littéraire**. Ni la peau de loup de Lycas ni le décor supposé de Témésa ne doivent être présentés comme une restitution archéologique certaine. Ne réintroduire aucune illustration vectorielle en perspective 2,5D.
+
+**Crédits et intégration :** chaque image éventuelle requiert auteur, établissement conservateur, inventaire, date, licence ou autorisation vérifiable, texte alternatif et légende scientifique. Une proposition d'image n'est pas une image acquise ni intégrée au site.
+
+---
+
+**Note de continuité.** Ce manuscrit ne reprend ni le chapitre Hélios déjà présent dans l'encyclopédie ni les deux études d'Athéna Lindia. Les anciennes marques 134/135 ne constituent aucune réservation. Seul le reçu de l'allocateur peut remplacer la variable 441. L'archive de cette soumission doit être conservée intégralement, même en présence d'autres travaux concurrents.

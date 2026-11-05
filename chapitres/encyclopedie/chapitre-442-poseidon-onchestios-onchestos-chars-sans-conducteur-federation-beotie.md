@@ -1,0 +1,505 @@
+# Chapitre 442 — Poséidon Onchestios : le bois sacré, les chars sans conducteur et l'autorité fédérale de Béotie
+
+*MYTHOS — Grande Encyclopédie de la mythologie grecque. Étude universitaire approfondie, rédigée en français pour la collection « encyclopedie ». Manuscrit public sans numéro canonique prédéterminé. État documentaire : 5 novembre 2026.*
+
+## Résumé scientifique
+
+Le sanctuaire de Poséidon à Onchestos, dans la Béotie centrale, est l'un des rares sites cultuels expressément nommés par l'« Iliade » : au livre II, vers 506, le Catalogue des vaisseaux le qualifie de bois éclatant consacré au dieu. L'« Hymne homérique à Apollon » (229-238) y situe un comportement extraordinaire des conducteurs de chars : ils descendent de leur véhicule, laissent avancer les chevaux sans guide, prennent soin des animaux si le char se brise et abandonnent alors le véhicule au dieu. La forme précise de l'action et son sens demeurent discutés. Faut-il y reconnaître un sacrifice, une épreuve d'attelage, un accident routier converti en rite, une dédicace conditionnelle ou la mémoire idéalisée d'une pratique équestre ancienne ?
+
+L'histoire du sanctuaire ne se réduit pas à cette énigme. L'« Hymne homérique à Hermès » (87-93, 184-203) inscrit Onchestos dans le vol des troupeaux d'Apollon et dans un récit sur le témoignage et le silence. Pausanias (IX, 26, 5) rattache l'endroit à un héros Onchestos, fils de Poséidon, tout en décrivant un temple, une statue et un bois sacré à son époque. Strabon (IX, 2, 33) insiste sur la fonction de réunion du lieu et soutient au contraire qu'il est dépourvu d'arbres. Un fragment de Pindare (94b, 38-49 dans la numérotation usuelle) relie les victoires hippiques d'Onchestos à la visibilité des familles et de leurs relations intercommunautaires.
+
+La documentation archéologique a été profondément renouvelée depuis 2014 par un programme mené sous les auspices de la Société archéologique d'Athènes, en collaboration avec l'Éphorie de Béotie et l'université Columbia. Les recherches distinguent les secteurs A et B, des bâtiments de dates diverses, des objets équestres, des armes, de la céramique, des monnaies, des éléments de décor architectural et des inscriptions. Parmi celles-ci, SEG 27.60 fait voir le rôle du koinon béotien dans l'octroi de la proxénie. Le sanctuaire fut un lieu de religion et de représentation des institutions, surtout à la fin de l'époque classique et pendant l'époque hellénistique.
+
+La présente monographie refuse deux raccourcis : elle ne transforme pas l'épisode du char en preuve d'un cérémonial identique à toutes les époques, et ne suppose pas que le centre fédéral attesté aux IVe–IIe siècles avant notre ère possédait déjà le même statut à l'âge héroïque. La recherche doit distinguer l'image poétique, les pratiques matérielles, les récits de fondation et l'évolution des pouvoirs politiques.
+
+## 1. Objet et méthode : pourquoi une étude autonome d'Onchestos ?
+
+Poséidon est souvent réduit dans les synthèses générales aux domaines marins et aux tremblements de terre. Cette réduction laisse de côté ses relations aux chevaux, aux attelages, à la circulation et à certains modes de souveraineté territoriale. À Onchestos, les sources privilégient précisément ces dimensions : le dieu règne sur un bois sacré intérieur des terres, tandis que ses espaces accueillent des conducteurs de chars, des athlètes et, dans une phase ultérieure, des représentants de la fédération béotienne.
+
+L'étude se distingue ainsi des dossiers de Poséidon marin, des chevaux divins et des mythes de fondation déjà présents dans MYTHOS. Son objet n'est pas d'ajouter un nouveau portrait générique du dieu, mais de comprendre comment une épiclèse locale, « Onchestios », se forme dans la longue durée. Une même appellation peut exprimer simultanément un lieu, un ensemble de traditions poétiques et un usage institutionnel ; ces trois composantes exigent des preuves différentes.
+
+## 2. La hiérarchie des preuves
+
+Une source littéraire atteste qu'un écrivain ancien a voulu raconter ou évoquer un lieu. Une inscription atteste un énoncé gravé avec une forme linguistique et, si elle est conservée, un contexte matériel identifiable. Un bâtiment daté permet d'affirmer la présence d'un dispositif architectural, mais non le détail d'un rite qui n'a laissé aucune trace. Un modèle historique rapproche ces informations en exprimant explicitement ses hypothèses.
+
+La méthode interdit de transformer les verbes conditionnels de l'Hymne en description d'une obligation régulièrement accomplie. Elle interdit aussi de qualifier de « temple mycénien démontré » une architecture archaïque en invoquant l'ancienneté probable d'un culte. Les chronologies du Bronze récent, de l'époque géométrique, des VIe–Ve siècles, des IVe–IIe siècles et de la période impériale doivent demeurer distinctes.
+
+## 3. Le paysage : au contact de deux bassins béotiens
+
+Onchestos se situe dans la région de Steni Mavrommatiou, entre Thèbes à l'est et Haliarte à l'ouest, au voisinage de la zone anciennement liée au lac Copaïs. L'espace occupe un passage entre les bassins de Béotie occidentale et orientale. La topographie facilite les déplacements des personnes et des biens, et rend plausible l'importance d'un sanctuaire situé sur un axe de circulation régional.
+
+La position n'établit pourtant pas, à elle seule, que les chars étaient consacrés en passant au sommet d'une pente. Une analyse précise des itinéraires, des inclinaisons, de la voirie antique et des aménagements doit précéder toute explication purement géographique du rite homérique. Le changement moderne des paysages lacustres rend également nécessaire de cartographier séparément l'environnement antique et l'état contemporain du terrain.
+
+## 4. L'épiclèse Ὀγχήστιος : une forme locale, non une seconde mer
+
+Le titre Poséidon Onchestios (Ποσειδῶν Ὀγχήστιος) indique un lien au lieu nommé Onchestos (Ὀγχηστός), tandis que les poèmes archaïques qualifient surtout le sanctuaire comme appartenant à Poséidon. Il ne convient pas d'inventer un « Onchestios » indépendant du dieu sous prétexte que l'épiclèse est attestée au nominatif dans la tradition moderne.
+
+Les formes grecques, les accents et les translittérations « Onchestos », « Onchestus » ou « Onkhestos » appartiennent à des habitudes différentes. Il faut les normaliser pour les index tout en conservant l'orthographe des inscriptions et des éditions dans le corps philologique. La racine du toponyme n'offre pas une étymologie certaine du rite du char ; le rapprochement sonore éventuel ne vaut pas preuve historique.
+
+## 5. Le héros Onchestos : une mémoire de fondation
+
+Pausanias IX, 26, 5 rapporte que les habitants croyaient qu'Onchestos, fils de Poséidon, avait vécu à cet endroit. La formule établit une filiation explicite entre le dieu honoré et un personnage éponyme. Dans une autre tradition, Étienne de Byzance, « Ethnika », p. 401, lignes 13 et suivantes, cite Hésiode à propos d'une fondation du bois par Onchestos associé à Boiotos. La lecture de cette parenté doit être replacée dans l'édition des fragments hésiodesques.
+
+Ces témoignages ne fournissent pas deux actes de naissance compatibles que l'on pourrait assembler automatiquement. Ils documentent plusieurs formes de légitimation du lieu par une généalogie. L'étiologie attache le territoire à une descendance prestigieuse ; elle ne permet pas de dater historiquement la première construction du temple ni de prouver l'existence civile du héros.
+
+## 6. Une troisième tradition : Onchestos et Athamas ?
+
+Des présentations modernes de l'histoire du sanctuaire mentionnent encore un Onchestos lié à Athamas. Il faut signaler cette tradition sans la faire disparaître, mais ne pas l'attribuer de manière indue à Pausanias IX, 26, 5, qui parle explicitement d'un fils de Poséidon. La chaîne antique de transmission exacte de l'autre généalogie doit être contrôlée avant de lui donner valeur d'attestation primaire autonome.
+
+Une synthèse rigoureuse n'oblige pas les traditions à s'accorder. L'identité du fondateur éponyme peut se transformer lorsque le récit passe d'un poète à un géographe ou à un lexicographe. La forme « fils de Poséidon » reste l'assertion directement vérifiable du passage de Pausanias et doit être privilégiée dans une notice de première lecture.
+
+## 7. Homère, « Iliade » II, 494-510 : le site dans le Catalogue des vaisseaux
+
+Au vers 506, le Catalogue des vaisseaux cite Onchestos parmi les lieux béotiens : la formule Ὀγχηστὸν θ' ἱερόν, Ποσιδήϊον ἀγλαὸν ἄλσος qualifie l'endroit de lieu sacré et de bois éclatant de Poséidon. Elle se distingue des simples listes de bourgs : une puissance religieuse est expressément attachée au toponyme.
+
+Cette présence dans l'épopée n'est pas une preuve que le bâtiment fouillé date de la guerre de Troie. Elle prouve que la tradition épique, telle qu'elle nous est transmise, associait Onchestos au dieu et à un *alsos*, terme dont l'usage fera précisément débat chez Strabon. La singularité de l'éloge mérite attention, mais ne doit pas être transformée en certification topographique de l'âge du bronze.
+
+## 8. *Alsos*, le bois sacré : réalité végétale et catégorie poétique
+
+Le mot ἄλσος désigne souvent un bois ou un bosquet consacré, mais il peut aussi fonctionner comme une expression conventionnelle du lieu sacré dans un poème. La formule « éclatant bosquet » participe de la poésie héroïque autant que de la description d'un paysage. L'existence de végétation au moment de la composition du poème ne peut être déterminée à partir d'un mot isolé.
+
+Strabon conteste plus tard la literalité de l'expression. Le même terme ouvre donc un conflit de lecture : faut-il croire que le poète connaît les arbres d'Onchestos ou qu'il enrichit un temple dépourvu d'arbres d'une épithète consacrée ? Le dossier ne se résout pas en choisissant arbitrairement entre le végétal et le littéraire. Un bois peut avoir existé puis décliné ; un poème peut également employer une convention.
+
+## 9. L'*Hymne homérique à Apollon* : Onchestos sur la route de Delphes
+
+L'*Hymne à Apollon*, 229-238, fait passer le dieu par Onchestos alors qu'il cherche un lieu où établir un oracle. Ce passage intervient après des noms de régions et de villes béotiennes et avant la rivière Céphise. Le sanctuaire appartient donc au paysage des déplacements divins : Apollon traverse le bois de son parent Poséidon avant de poursuivre sa route.
+
+Le texte ne prétend pas qu'Apollon institue lui-même le culte des chars. Il le présente comme un état du lieu déjà connu, intégré à un itinéraire prestigieux. La narration valorise Onchestos comme arrêt remarquable, sans faire du temple de Poséidon une annexe du sanctuaire delphique.
+
+## 10. Un premier geste : le jeune cheval sous le poids du char
+
+Le poème évoque un *neodmès pôlos*, un jeune cheval récemment dompté ou dressé, qui reprend souffle sous l'effort de tirer un beau char. Cette précision animale empêche de traiter l'épisode comme une simple allégorie de la puissance guerrière : le corps du cheval, son apprentissage et sa fatigue ont une place dans la description.
+
+La traduction doit tenir compte du fait que la scène évoque aussi, un peu plus loin, des chevaux au pluriel. Il n'est pas sûr que l'ensemble concerne un attelage à un seul cheval. Annette Teffeteller considère que le pluriel peut décrire un attelage à deux chevaux tout en conservant une épreuve portant particulièrement sur un jeune animal. La nuance importe autant pour le vocabulaire hippique que pour la reconstruction visuelle.
+
+## 11. Un second geste : le conducteur descend
+
+Le conducteur, qualifié de bon ou habile, quitte son char et poursuit la route à pied. L'acte est surprenant car le véhicule continue à se déplacer sans conducteur. Le poème ne précise pas dans quel sens exact les chevaux se dirigent ni quelles mesures de sécurité sont prises en amont.
+
+Le geste peut être un élément d'épreuve, une convention du sanctuaire ou la description idéalisée d'un franchissement difficile. Pour l'historien, la formule « l'habileté du conducteur » interdit d'interpréter sa descente comme une simple panique devant un accident. Il obéit à un comportement auquel le texte reconnaît une signification propre.
+
+## 12. Le char vide : une expérience du risque
+
+Les animaux entraînent pendant un temps le véhicule privé de direction humaine. Le grondement et les secousses du char soulignent le caractère spectaculaire du moment. La conduite abandonnée au mouvement animal peut être interprétée comme mise à l'épreuve de la relation entre domptage et autonomie.
+
+Mais le poème ne dit pas explicitement « on teste les chevaux pour connaître la volonté de Poséidon ». Cette fonction doit être construite comme hypothèse. Le rite, s'il s'agit d'un rite, est décrit par ses gestes plutôt que par un règlement écrit : abandon, parcours, dommage possible, soin des chevaux, sort du véhicule et prière finale.
+
+## 13. Le conditionnel de la rupture : *ei de ken*
+
+Aux vers 235-236, le poème envisage l'hypothèse où le char serait abîmé dans le bois. Le tour conditionnel est décisif. La destruction n'est pas présentée comme un résultat obligatoire de chaque passage. Elle peut survenir ; elle produit alors un traitement particulier du véhicule.
+
+Une image représentant à chaque célébration une ruine rituelle systématique trahirait ce caractère conditionnel. Il faut distinguer le fait de laisser avancer un char sans conducteur et l'événement éventuel de sa rupture. Le texte fait de l'échec matériel un cas doté d'une signification religieuse, sans montrer qu'il était toujours recherché.
+
+## 14. *Koméousi* : les chevaux sont pris en charge
+
+Lorsque le char est endommagé, les humains prennent soin des chevaux. Le détail marque une séparation entre l'animal vivant et l'objet technique. Le véhicule peut demeurer sur place, tandis que les animaux ne sont pas sacrifiés ou laissés à l'abandon dans le passage conservé.
+
+Cette distinction est importante pour l'histoire des rapports entre hommes, bêtes et dieux. Poséidon ne réclame pas automatiquement la mort des chevaux. Un sacrifice du char, ou plus prudemment son abandon à la puissance divine, peut se concevoir sans immolation des animaux. En l'absence de traces matérielles de cette scène, il serait imprudent d'en déduire une règle universelle de sacrifice hippique.
+
+## 15. *Klinantes*: coucher, incliner ou remettre le char ?
+
+Le participe grec κλίναντες, au vers 236, a reçu des interprétations divergentes : mettre le char sur le côté, l'incliner ou le redresser avant de le laisser. La traduction dépend du contexte précis de la rupture, des gestes d'un attelage et des usages du verbe dans la poésie ancienne.
+
+Teffeteller a argumenté pour une solution où le véhicule brisé est remis dans une position déterminée et laissé sur place, tandis que les animaux sont pris en charge. La discussion de Gilbert Roux et Albert Schachter montre que la philologie n'est pas un simple embellissement : elle détermine le geste même que les reconstructions prétendent représenter. Un dessin scientifique doit donc présenter les options plutôt qu'une posture arbitrairement arrêtée.
+
+## 16. *Hosiè*: ce qui est rituellement convenable
+
+Le vers 237 emploie ὁσίη pour qualifier la pratique établie. Le mot ne signifie pas seulement « habitude » au sens banal ; il relève des choses conformes aux prescriptions ou à l'ordre reconnu du sacré. La phrase fait du comportement une norme ancienne dont la validité dépasse la circonstance immédiate.
+
+L'expression ne fournit cependant aucune date de fondation. « Depuis le commencement » peut être une formule poétique d'ancienneté. Une présentation universitaire ne doit pas convertir la croyance du texte en continuité archéologiquement démontrée depuis l'époque mycénienne. Ce sont deux niveaux de temps différents : l'âge revendiqué par le rite et l'âge attesté par les objets.
+
+## 17. *Díphron de theoû ... moîra phylássei*: un véhicule consacré ?
+
+Le dernier vers affirme que le char relève désormais d'une part ou d'un lot réservé au dieu, selon les différentes lectures proposées. Ce passage fonde l'interprétation d'une dédicace conditionnelle : l'objet endommagé ne serait plus simplement la propriété du conducteur et resterait dans le sanctuaire sous la garde de Poséidon.
+
+Il serait toutefois excessif de traduire tout le mouvement comme un contrat juridique complet dont nous connaîtrions les formes. Le poème ne mentionne ni décret, ni taxe, ni prêtre chargé de récupérer les épaves. Le champ lexical de la part divine autorise une réflexion sur la transformation du bien privé en offrande, non une reconstitution administrative exhaustive.
+
+## 18. Sokolowski : l'idée d'un rite spécifique
+
+Franciszek Sokolowski, « On the Episode of Onchestus in the Homeric Hymn to Apollo » (1960), a consacré une analyse particulière au passage. Son intérêt tient à l'effort pour prendre les mots du poème au sérieux comme indices d'une pratique religieuse plutôt que comme une description incompréhensible.
+
+La bibliographie postérieure a multiplié les interprétations. Il faut éviter de présenter le débat comme clos en 1960 : la description des gestes demeure lacunaire et les divergences de traduction exigent un examen renouvelé. Les hypothèses modernes ne constituent pas des attestations antiques supplémentaires ; elles cherchent à expliquer les mêmes dix vers.
+
+## 19. Roux : l'attelage dans une interprétation ritualisée
+
+Gilbert Roux, dans un article de la *Revue des études grecques* (1964), a proposé une lecture attentive de certains passages de l'*Hymne à Apollon*. Le rite d'Onchestos peut être compris comme une mise en scène de l'épreuve et du don du char à Poséidon. Une telle interprétation insiste sur la cohérence d'un geste qui paraît inhabituel à un lecteur moderne.
+
+Cette cohérence ne règle pas toutes les difficultés : quelle part du geste est préparée, que fait-on des véhicules non endommagés, et comment les animaux sont-ils ramenés ? La source ne donne pas de réponses complètes. Le raisonnement de Roux doit être confronté à ceux qui privilégient la topographie et la valeur conditionnelle du passage.
+
+## 20. Schachter : la topographie contre la cérémonie spectaculaire
+
+Albert Schachter a réexaminé les vers 231-238 dans un article du *Bulletin of the Institute of Classical Studies* 23 (1976), puis dans *Cults of Boiotia*, II (1986). Son approche cherche à expliquer le comportement des conducteurs à partir des conditions de passage dans le paysage et des contraintes de la route, plutôt que d'inventer un festival où tout participant lancerait un char au hasard.
+
+La proposition a valeur de rappel méthodologique : l'explication peut se trouver dans une pratique répétée de transport, progressivement investie d'une signification religieuse. Cependant, réduire l'épisode à une conduite routière ordinaire risque d'amoindrir la force du vocabulaire de la *hosiè* et de la part divine. Le débat ne peut se résoudre sans réexaminer ensemble paysage, syntaxe et institutions.
+
+## 21. Teffeteller : un attelage double et une possible mémoire guerrière
+
+Annette Teffeteller, *Journal of Hellenic Studies* 121 (2001), p. 159-166, propose une solution qui maintient l'idée d'une épreuve ritualisée d'un attelage, éventuellement liée aux traditions militaires de l'âge du bronze. Elle insiste sur les pluriels de la description et sur la possibilité de laisser au dieu le char endommagé, les chevaux étant retirés.
+
+La profondeur mycénienne du rite demeure une hypothèse, non une datation fournie par les fouilles. La présence de chars dans la guerre mycénienne ne prouve pas que le passage homérique conserve intact un cérémonial de cette époque. L'étude retient la valeur philologique de la proposition tout en maintenant la distinction entre parallèle technique et continuité rituelle démontrée.
+
+## 22. Un parallèle babylonien : analogie plutôt que filiation
+
+Teffeteller note qu'un parallèle rituel babylonien pourrait suggérer une origine orientale ou une logique non strictement militaire. Cette remarque est intéressante parce qu'elle invite à ne pas exclure d'emblée les échanges de formes rituelles en Méditerranée et au Proche-Orient ancien.
+
+Mais une analogie ne démontre pas qu'un rite babylonien ait été transmis à Onchestos. Il faudrait établir un calendrier compatible, des intermédiaires, des descriptions correspondantes et un vocabulaire commun suffisamment spécifique. Une proposition comparative prudente signale le rapprochement et les preuves manquantes au lieu de faire du char béotien une pratique importée par définition.
+
+## 23. L'*Hymne homérique à Hermès* : un autre Onchestos
+
+L'*Hymne à Hermès* mentionne Onchestos aux vers 87-93 et 184-203. Le jeune Hermès, ayant dérobé les vaches d'Apollon, passe par la région, où un vieux cultivateur peut observer son trajet. Lorsque le dieu trompé revient à la recherche de ses animaux, il retrouve ce témoin dans le voisinage du bois sacré de Poséidon.
+
+Ici le sanctuaire fonctionne comme étape d'une circulation pastorale et d'une enquête divine. Aucun char abandonné n'est mentionné. La même localité peut servir de cadre à plusieurs histoires sans qu'elles relèvent d'un rite identique. La poétique du lieu relie néanmoins le caractère sacré, la route et les déplacements.
+
+## 24. Les conseils d'Hermès à l'ancien cultivateur
+
+Dans le passage 87-93, Hermès avertit l'homme de ne pas dire ce qu'il a vu et de ne pas se souvenir de ce qu'il a entendu. Le motif met en scène une tentative de contrôler l'information : le voleur ne peut empêcher tous les témoins d'exister, mais il peut chercher à orienter leur parole.
+
+Le détail n'établit pas un interdit de silence imposé aux dévots d'Onchestos. Il appartient à l'action du jeune Hermès. Les histoires de lieux sacrés peuvent employer la même géographie pour différentes intrigues, et l'historien doit résister à la tentation d'en déduire une doctrine initiatique de secret dans le sanctuaire de Poséidon.
+
+## 25. Apollon, la preuve et le témoin incertain
+
+Aux vers 184-203 du même hymne, Apollon interroge l'ancien homme pour retrouver ses troupeaux. Le témoin reconnaît la difficulté de raconter tout ce que ses yeux ont vu. L'épisode exploite la distance entre perception et témoignage, alors que les dieux disposent de puissances que les humains ne contrôlent pas.
+
+Le parallèle avec le rite du char est conceptuel : dans un cas, l'humain abandonne la conduite ; dans l'autre, il ne possède pas pleinement la maîtrise de sa parole. Mais cette mise en relation est une lecture moderne, non une doctrine élaborée par les poètes anciens. Chaque scène doit conserver son contexte narratif.
+
+## 26. Poséidon Gaiaochos : le dieu qui tient la terre
+
+Dans l'*Hymne à Hermès*, Poséidon reçoit le qualificatif Γαιήοχος, souvent rendu par « celui qui tient la terre ». L'expression ne l'identifie pas exclusivement aux séismes : elle renvoie à une souveraineté profonde et large sur le sol, dans un espace où le dieu est honoré loin des rivages maritimes.
+
+Ce vocabulaire permet de corriger l'idée que le sanctuaire béotien serait « paradoxal » parce que Poséidon gouvernerait seulement la mer. La religion grecque ne délimite pas les dieux selon un dictionnaire unique. La relation de Poséidon aux chevaux, aux tremblements de terre et à des territoires intérieurs correspond à plusieurs de ses fonctions attestées ailleurs.
+
+## 27. Pindare, fragment 94b : les victoires sur des chevaux rapides
+
+Le fragment pindarique 94b, vers 38-49 dans les éditions qui conservent cette numérotation, évoque des succès liés à des chevaux rapides « sur les rivages d'Onchestos », dans une suite de louanges qui comprennent les relations de proxénie et d'autres lieux de concours. Le texte est fragmentaire et comporte des restitutions.
+
+Ce passage montre l'importance d'Onchestos dans une géographie des honneurs équestres. Il ne donne pas le programme complet des compétitions ni leur déroulement annuel. Le rapprochement avec l'*Hymne à Apollon* doit se limiter à la présence d'un même univers hippique, non à l'identification certaine du concours pindarique avec l'épreuve poétique des chars sans conducteur.
+
+## 28. Concours, honneurs et représentation des familles
+
+La poésie de Pindare situe les succès sportifs dans un monde de familles reconnues publiquement, de réseaux d'hospitalité et de cités. Les victoires de chevaux ou de chars peuvent donc produire une mémoire durable, particulièrement lorsque les poètes les transmettent.
+
+Il serait pourtant faux de réduire le sanctuaire à un hippodrome réservé à une élite. Les objets de fouille et les inscriptions documentent aussi des gestes de dévotion et des activités fédérales. La compétition sportive est une des fonctions du lieu ; elle n'en absorbe pas l'ensemble. L'histoire de la fréquentation exige une analyse sociale différenciée.
+
+## 29. Les concours et le danger d'une restitution trop précise
+
+On ne connaît pas la totalité des épreuves ni le calendrier de chaque édition des concours d'Onchestos. Les sources poétiques évoquent des victoires, l'archéologie signale des objets associés au monde équestre, mais ces éléments ne permettent pas de dessiner les limites d'une piste hippique avec ses bornes comme si elle avait été fouillée.
+
+Une reconstitution photographique ou 3D doit montrer les zones effectivement identifiées et réserver les compétitions à une illustration clairement interprétative. L'exigence d'exactitude est d'autant plus importante que le rite des chars invite à des représentations spectaculaires qui pourraient donner une illusion de preuve.
+
+## 30. Strabon IX, 2, 33 : un sanctuaire de réunion
+
+Strabon situe Onchestos dans le territoire d'Haliarte, près du Copaïs et de la plaine ténérique. Il explique qu'une assemblée de type amphictyonique se réunissait à cet endroit. Cette désignation est importante, mais elle n'équivaut pas automatiquement à une institution fédérale de même forme à toutes les époques.
+
+Le lieu peut accueillir des rencontres religieuses et politiques sans être la capitale administrative d'un État ininterrompu. La distinction entre amphictyonie, confédération, ligue et assemblée doit être établie à partir des documents datés. Le témoignage géographique de Strabon constitue un jalon essentiel de la mémoire de l'importance fédérale du sanctuaire.
+
+## 31. Le bois sans arbres : Strabon contre la poésie
+
+Strabon précise que le site qu'il décrit est dépourvu d'arbres, bien que les poètes parlent d'un « bois ». Il explique cette contradiction en disant que les poètes utilisent fréquemment l'expression *alsos* pour embellir leurs descriptions. Il reproche également à Alcée de situer Onchestos trop près des contreforts de l'Hélicon.
+
+Ce passage ne prouve pas que l'Iliade mentait. L'état d'un sanctuaire peut changer pendant des siècles ; des arbres peuvent être abattus, brûlés ou replantés. Strabon, de son côté, écrit comme géographe critique des poètes. Il défend une manière d'observer le terrain contre le prestige du vers, et son témoignage doit être replacé dans ce projet intellectuel.
+
+## 32. Alcée et les limites de la géographie poétique
+
+Strabon cite Alcée comme exemple d'auteur plaçant mal Onchestos par rapport à l'Hélicon. Le fragment 425 dans une numérotation moderne est connu indirectement par cet usage polémique. L'historien ne possède pas nécessairement tout le contexte original du poème.
+
+La critique de Strabon révèle que la géographie sacrée peut devenir matière de controverse entre auteurs anciens. Un vers exprimant une proximité symbolique ne se convertit pas toujours en mesure de distance. Il faut donc éviter d'utiliser la poésie comme un relevé cadastral tout en reconnaissant sa valeur pour l'histoire de la réputation du lieu.
+
+## 33. Pausanias IX, 26, 5 : temple, image et bois à l'époque impériale
+
+Pausanias décrit les ruines de la ville et affirme qu'il restait à son époque un temple, une image de Poséidon Onchestios et un bois sacré. Cette observation intervient plusieurs générations après Strabon. Les deux auteurs sont en désaccord sur la végétation, sans nécessairement se contredire sur l'existence du temple.
+
+Le voyageur ne fournit ni plan de l'édifice ni description complète de la statue. Il serait incorrect d'en conclure que les colonnes actuellement fouillées sont celles qu'il a vues, ou que l'image cultuelle avait une posture déterminée. La documentation romaine doit être associée aux phases archéologiques avec prudence.
+
+## 34. Deux Onchestos : sanctuaire et habitat
+
+Pausanias distingue une ville en ruine et le temple encore visible. Les recherches archéologiques récentes identifient des zones de bâtiments religieux et de possibles espaces civiques, mais l'étendue exacte de l'habitat reste une question. Il importe de ne pas confondre tous les vestiges avec ceux du temple.
+
+Cette distinction modifie la représentation de l'espace. Un lieu de réunion fédérale peut posséder des structures qui n'étaient pas toutes consacrées au culte direct de Poséidon. Certains bâtiments accueillaient des activités administratives ou de réception ; d'autres pouvaient avoir une fonction cultuelle ou de stockage. La recherche doit conserver ces hypothèses ouvertes.
+
+## 35. Les fouilles anciennes : campagnes de sauvetage
+
+Des investigations sporadiques ont eu lieu en 1964, 1973 et 1991, avant le programme systématique commencé en 2014. Les travaux de T. G. Spyropoulos et des équipes de l'Éphorie ont livré des éléments architecturaux et épigraphiques qui ont contribué à identifier le sanctuaire.
+
+Leur caractère ponctuel a longtemps limité la connaissance de l'organisation générale du site. Les publications initiales doivent être lues avec les rapports ultérieurs : une hypothèse sur la fonction d'un mur peut changer lorsque la fouille révèle une cour, une entrée ou des pièces adjacentes. La science de terrain est cumulative mais aussi révisable.
+
+## 36. Le nouveau programme d'Onchestos depuis 2014
+
+L'Onchestos Excavation Project de l'université Columbia, dirigé par Ioannis Mylonopoulos sous les auspices de la Société archéologique d'Athènes et en coopération avec l'Éphorie des antiquités de Béotie, a débuté le 2 juin 2014. Il examine des secteurs distincts désignés A et B, combinant prospection géophysique, fouille, étude des structures et catalogage des objets.
+
+L'ampleur du programme est une donnée importante, mais les textes de présentation ne remplacent pas les rapports définitifs. À chaque étape, les fonctions attribuées à certains édifices restent provisoires. L'étude de 2026 ne prétend pas que tous les problèmes topographiques sont résolus ni que le sanctuaire a livré la matérialisation du rite des chars de l'Hymne.
+
+## 37. Le secteur A : temple, édifice trapézoïdal et possible bouleutérion
+
+Les notices de l'École française d'Athènes pour 2016-2017 signalent dans le secteur A un bâtiment interprété comme un possible bouleutérion, une construction trapézoïdale avec foyer et base centrale, ainsi qu'un édifice oriental qui semble correspondre à un temple. Les campagnes ont dégagé des assises de calcaire, des monnaies et des objets métalliques.
+
+Le vocabulaire doit rester conditionnel. « Interprété comme bouleutérion » n'est pas synonyme de « salle de l'assemblée fédérale indiscutablement identifiée ». Les bâtiments peuvent avoir changé de fonction. Les hypothèses sur l'usage du foyer et de la base exigent une analyse de leur contexte stratigraphique et des comparaisons architecturales.
+
+## 38. Le secteur B : portique, édifice orthogonal et structure circulaire
+
+Le secteur B a livré un portique, des pièces adjacentes, de grands éléments d'architecture ionique et la trace d'une structure circulaire monumentale reconnue par la prospection. La fonction exacte de cet édifice circulaire ne peut être déterminée à partir de son diamètre et de ses colonnes seulement. Son caractère exceptionnel en fait un objet de recherche, non une raison de lui attribuer un rite mystérieux.
+
+Les vestiges d'un grand bâtiment orthogonal sont également documentés par les notices de 2017. Ils pourraient appartenir à un complexe public ou cultuel dont l'évolution reste en cours d'analyse. La reconstitution doit distinguer les éléments directement fouillés, les compléments géométriques et les restitutions fondées sur des parallèles.
+
+## 39. La chronologie des édifices : archaïsme et réorganisation
+
+Les responsables des fouilles ont proposé pour une partie du noyau monumental une origine au VIe siècle avant notre ère, suivie d'agrandissements vers la fin du IVe, peut-être après 338. Cette chronologie correspond à l'essor du sanctuaire et à son rôle dans les structures régionales de la Béotie.
+
+Il serait néanmoins dangereux d'en déduire que tout bâtiment fondé au VIe siècle a conservé la même fonction jusqu'à l'époque romaine. La réorganisation politique de la région peut entraîner de nouveaux besoins d'accueil, de stockage, de réunion et de visibilité monumentale. L'histoire architecturale doit suivre les phases sans les fusionner.
+
+## 40. Le mobilier : objets équestres et réalité du culte
+
+Les campagnes ont livré du matériel associé aux chevaux et à l'équipement équestre, en plus de nombreuses monnaies, armes, céramiques, bijoux et éléments de toiture. Cette présence rend particulièrement intéressante la confrontation avec les textes sur les attelages et les concours hippiques.
+
+Mais la découverte d'un harnachement ne démontre pas que le char du rite homérique s'est brisé à cet endroit. Il faut connaître la date, le contexte et l'état de chaque objet. Le même sanctuaire pouvait recevoir les dons d'un cavalier, d'un vainqueur de concours ou d'un militaire ; seule une dédicace explicite ou une association stratigraphique solide peut préciser la fonction.
+
+## 41. L'épée ployée et la formule *hieron*
+
+Les communications de Columbia signalent la découverte d'une épée rituellement courbée, portant une abréviation du mot grec *hieron*, « sacré ». Cette pièce fournit un exemple concret de transformation du statut d'un objet : une arme qui pourrait servir au combat est rendue impropre à cet usage puis intégrée à l'espace du sanctuaire.
+
+La relation avec Poséidon doit être située dans la culture votive du lieu ; rien ne permet d'affirmer que les armes pliées reproduisaient le sort des chars brisés. Les deux motifs peuvent être rapprochés au niveau de la transformation d'un bien utilisable en don à une puissance divine, mais leur identité cérémonielle n'est pas attestée.
+
+## 42. Les monnaies : réseaux et chronologie, non registre complet des pèlerins
+
+Les inventaires de la campagne d'étude de 2018 mentionnent des monnaies de plusieurs ateliers, notamment Sicyone, Chalcis, Thespies, Phlionte et la Macédoine. Ces pièces éclairent la circulation monétaire, la fréquentation régionale et les phases d'activité du sanctuaire.
+
+Toute monnaie trouvée à Onchestos ne représente pas nécessairement une offrande directement consacrée à Poséidon : certaines peuvent résulter d'activités ordinaires, de pertes ou de dépôts secondaires. La provenance d'une pièce n'identifie pas non plus l'origine personnelle du porteur. L'interprétation doit combiner contexte, quantité, usure et datation.
+
+## 43. Les céramiques miniatures et le geste d'offrande
+
+La campagne d'étude de 2019 a identifié des vases miniatures, parmi lesquels un cratère en calice, des canthares et des coupes à carène, ainsi que des récipients de stockage. Le caractère miniaturisé d'un objet peut signaler un usage votif spécifique plutôt qu'une simple version économique d'un récipient courant.
+
+Le site offre ainsi une gamme de dons qui dépasse largement les chevaux et les chars. Une monographie réduite à l'épisode homérique ferait disparaître l'essentiel de la piété ordinaire. Les formes de céramique permettent d'enquêter sur des repas, libations et gestes d'exposition, sans autoriser la reconstitution complète des paroles rituelles.
+
+## 44. Les décors architecturaux : couleurs du sanctuaire
+
+Les fouilles ont documenté des éléments de sima, d'antéfixes et de tuiles comportant des décors floraux et géométriques, parfois peints en noir, blanc et rouge sur fond clair. Ces découvertes rappellent que les bâtiments antiques n'étaient pas de simples surfaces de pierre nue.
+
+Une restitution photoréaliste peut s'appuyer sur ces fragments pour proposer une gamme de couleurs, mais elle ne doit pas répartir arbitrairement les motifs sur toutes les façades. Les éléments de toiture identifiés appartiennent à des structures précises qu'il faut dater et localiser. Le traitement muséal doit distinguer la couleur conservée et l'étendue hypothétique du décor.
+
+## 45. La base ionique et les hypothèses architecturales
+
+Le rapport de 2017 mentionne un tambour inférieur de colonne ionique avec sa base, découvert dans le secteur B. Ces restes aident à comprendre les dimensions et les ordres employés dans les grandes constructions. La découverte d'un élément ionique n'implique pas que le temple principal de Poséidon possédait nécessairement un ordre ionique complet.
+
+Les architectures religieuses pouvaient combiner plusieurs styles dans un même complexe. Les blocs réemployés ajoutent encore des difficultés d'attribution. Toute élévation scientifique devra donc partir d'un inventaire des éléments conservés et non d'une image générique de temple grec décorée d'après le goût moderne.
+
+## 46. Une archive numérique des fouilles
+
+Pendant l'année 2020, la campagne de terrain fut annulée à cause de la pandémie, mais l'équipe poursuivit le travail de catalogage. Le site officiel recense 3 538 photographies de tranchées, 13 715 photographies d'objets et 2 466 plans ou entrées de carnets, soit 19 719 notices liées dans la base documentaire au début de 2021.
+
+Ce bilan souligne une dimension fondamentale de l'archéologie : la connaissance dépend de la gestion méthodique des preuves, et pas uniquement de la découverte spectaculaire. MYTHOS devrait reprendre ce principe en conservant, pour chaque image, le lieu, la structure, le contexte, l'inventaire et la bibliographie, plutôt qu'une légende sommaire sur un « mystère des chars ».
+
+## 47. La fédération béotienne : un changement d'échelle politique
+
+À la fin du IVe siècle avant notre ère, Onchestos acquiert une position majeure dans l'organisation de la confédération béotienne, spécialement dans les décennies qui suivent la bataille de Chéronée et la destruction de Thèbes. Les sources épigraphiques désignent des magistrats fédéraux et des décisions du *koinon* dans ce cadre.
+
+Il importe de distinguer le sanctuaire traditionnel du nouvel usage institutionnel. Un lieu capable de réunir plusieurs communautés devient particulièrement approprié à l'affichage des décisions communes, sans que tous les rites antérieurs soient abolis. La transformation est une superposition historique de fonctions, non la naissance instantanée d'un sanctuaire entièrement politique.
+
+## 48. Le terme *koinon* : association et autorité collective
+
+Le mot κοινόν, employé dans les inscriptions, renvoie à une communauté politique organisée. La présence d'un décret fédéral à Onchestos montre qu'une décision pouvait être prise et affichée sous une identité collective dépassant chaque cité. Ce vocabulaire est plus précis que la projection d'un « État-nation béotien » sur l'Antiquité.
+
+Les fédérations grecques réunissaient des cités dont les intérêts n'étaient pas toujours harmonieux. Un sanctuaire commun ne supprimait pas les rivalités, mais pouvait fournir un lieu et un langage partagés. L'histoire du pouvoir fédéral exige une analyse des institutions, des magistratures, des votes et des changements d'alliances.
+
+## 49. SEG 27.60 : un décret de proxénie fédéral
+
+La stèle SEG 27.60, datée de la fin du IVe siècle avant notre ère, est présentée par le projet de fouilles comme une décision de proxénie pour l'Athénien Kallipidas, fils de Théocleidès. Elle porte l'indication d'un archonte et une formule de décision du *koinon* béotien. Le bénéficiaire reçoit le statut de proxène et de bienfaiteur pour lui et ses descendants, avec des privilèges partiellement conservés.
+
+Le document transforme un lien personnel en reconnaissance publique. Sa présence dans le dossier d'Onchestos manifeste l'usage d'un sanctuaire comme lieu d'inscription des relations diplomatiques. Elle ne dit pas que Poséidon en personne a rendu le jugement ; la décision est celle d'une institution humaine qui s'exprime dans un espace sacré.
+
+## 50. La proxénie : hospitalité, diplomatie, mémoire
+
+La proxénie grecque est une forme d'honneur et de responsabilité attribuée à une personne étrangère à la cité ou à la communauté qui la récompense. Elle sert à représenter et faciliter des relations d'hospitalité, de secours et de coopération. À Onchestos, la dédicace de tels décrets associe la crédibilité politique du *koinon* à la visibilité religieuse d'un lieu prestigieux.
+
+Il faut éviter de traduire le proxène comme « ambassadeur » de manière entièrement moderne. Les relations qu'il entretient sont personnelles, civiques et institutionnelles, mais ne correspondent pas au fonctionnement d'une ambassade permanente contemporaine. L'inscription rend visible une économie des honneurs plus qu'une bureaucratie internationale uniforme.
+
+## 51. SEG 26.573 : la question de la provenance
+
+Un autre décret de proxénie du *koinon*, SEG 26.573, datant autour de 300 avant notre ère, a suscité un débat de provenance : Denis Knoepfler a proposé qu'il provienne du sanctuaire d'Onchestos plutôt que de celui d'Athéna Itonia. Le site officiel de fouilles signale explicitement ce désaccord.
+
+Il serait malhonnête de le citer comme une preuve définitivement localisée à Onchestos. Ce dossier illustre au contraire la difficulté de reconstruire les lieux de décision lorsque les stèles ont été déplacées ou lorsque la provenance ancienne est mal connue. La critique épigraphique doit mettre en regard les hypothèses concurrentes.
+
+## 52. Jetons de vote en bronze et en plomb
+
+Le projet d'Onchestos mentionne des jetons métalliques, notamment de bronze et de plomb, interprétés comme des objets utilisés dans la procédure de vote. Ils apportent une dimension matérielle à l'histoire du gouvernement fédéral : l'autorité publique pouvait laisser des traces de gestes modestes, très différents des grandes stèles.
+
+Il faut toutefois distinguer l'identification fonctionnelle d'un type d'objet du récit détaillé d'une séance d'assemblée. La présence de jetons ne suffit pas à déterminer qui votait, comment les suffrages étaient comptés et quelles décisions furent prises. Les inscriptions et les plans architecturaux doivent compléter cette enquête.
+
+## 53. La grande salle : bouleutérion ou bâtiment polyvalent ?
+
+Plusieurs constructions monumentales ont été interprétées comme lieux de réunion des représentants du *koinon*. Le vocabulaire de « bouleutérion » apparaît dans des rapports, parfois avec un point d'interrogation. Les plans, les fondations et les annexes ont conduit à réviser des hypothèses à mesure que les secteurs étaient fouillés.
+
+Une salle pouvant recevoir une assemblée n'est pas automatiquement un parlement au sens moderne. Ses fonctions peuvent être diverses, notamment recevoir des délégations, stocker des offrandes, accueillir des repas ou permettre des délibérations. La chronologie de ses agrandissements doit être confrontée au statut politique d'Onchestos sans reconstituer des séances précises non attestées.
+
+## 54. Le sanctuaire, la souveraineté et les dépendances territoriales
+
+Les traditions situent Onchestos dans la sphère d'Haliarte, mais son contrôle effectif a pu évoluer avec l'influence de Thèbes, la réorganisation après Chéronée et les guerres macédoniennes. Un lieu religieux commun peut être administré dans des conditions variables, parfois plus directement liées à une cité, parfois à un organisme fédéral.
+
+La recherche doit donc refuser une chronologie simpliste selon laquelle le sanctuaire aurait toujours appartenu à la même puissance. Les textes géographiques tardifs et les décrets de dates différentes éclairent plusieurs états institutionnels. Une carte unique de la « souveraineté d'Onchestos » risquerait de masquer ces transformations.
+
+## 55. Les événements de 171 av. J.-C. et la crise du *koinon*
+
+La crise de la troisième guerre de Macédoine et les affrontements de 171 av. J.-C. marquent une rupture majeure dans la région d'Haliarte. Le projet de fouilles considère probable que le sanctuaire ait subi des dommages au moment où la ville fut frappée. La dissolution ou la transformation des institutions fédérales change ensuite les conditions de son usage.
+
+Il ne faut pas présenter comme constat stratigraphique certain un incendie précis attribué à un légionnaire identifié si le dossier ne l'atteste pas. Les effets politiques de la guerre sont assurés à grande échelle ; la datation des destructions locales exige des couches documentées et des publications de terrain.
+
+## 56. Le sanctuaire après la conquête romaine
+
+Les sources littéraires et archéologiques indiquent que la vie du site ne s'achève pas instantanément avec les bouleversements des IIe et Ier siècles avant notre ère. Strabon connaît encore le temple et discute le bois ; Pausanias, à l'époque impériale, voit temple, image et végétation. Les modalités de fréquentation ne sont pas pour autant connues avec la même précision qu'à l'époque des décrets fédéraux.
+
+Cette longue survie montre qu'une institution religieuse peut traverser le déclin de sa fonction politique initiale. La notion de continuité doit être limitée à ce qui est attesté : présence de monuments, mentions littéraires, éventuelle activité votive. On ne peut supposer que l'ancienne assemblée fédérale continuait à se réunir dans les mêmes formes sous l'Empire.
+
+## 57. Les derniers horizons archéologiques et le changement des usages
+
+Pour la période tardo-romaine et byzantine, les présentations du projet soulignent surtout des traces d'activité agricole. Le retour des terres à des usages productifs ne signifie pas que tout souvenir du sanctuaire fut immédiatement effacé. Il indique que les fonctions matérielles documentées ne sont plus celles de la grande activité classique et hellénistique.
+
+L'archéologue doit distinguer l'abandon d'un bâtiment, l'utilisation du terrain, la mémoire d'un nom et les éventuels réemplois de pierres. Un même lieu peut connaître plusieurs vies sans qu'elles appartiennent toutes au même culte. Le texte de Pausanias reste une photographie littéraire d'une époque, non la dernière étape obligée du parcours religieux.
+
+## 58. Platon : la maîtrise des attelages et la maîtrise de l'âme
+
+Dans le *Phèdre* 246a-254e, Platon emploie l'image de l'attelage et de ses chevaux pour construire une analyse philosophique de l'âme, de ses tensions et du désir. Il serait erroné de présenter le rite d'Onchestos comme l'origine démontrée de cette allégorie. Les deux textes appartiennent à des genres et à des projets distincts.
+
+Le rapprochement reste fécond au niveau conceptuel : le char représente une technique de contrôle dans laquelle un conducteur doit coordonner des forces partiellement indépendantes. À Onchestos, le conducteur descend et la coordination peut échouer ; chez Platon, le conflit des chevaux devient une question de direction intérieure. La comparaison révèle deux usages différents d'un même objet culturel.
+
+## 59. Aristote : action délibérée et conséquences imprévues
+
+Dans l'*Éthique à Nicomaque* III, 1-3, Aristote distingue les actions volontaires, involontaires et délibérées. L'épisode des chars permet de poser une question qui n'est pas formulée par le poème en termes aristotéliciens : que signifie accepter une règle dont le résultat matériel peut être accidentel ?
+
+Le conducteur choisit de descendre ; le char peut se briser ou ne pas se briser. La conséquence ne se confond donc pas avec l'intention initiale. Cette lecture éclaire une structure du rite, sans attribuer aux participants antiques une doctrine philosophique systématique de la responsabilité. L'éthique moderne doit rester une seconde couche d'analyse, non une traduction du mot *hosiè*.
+
+## 60. Hegel : l'objet privé devient objet de reconnaissance commune
+
+Une perspective hégélienne peut analyser le passage d'un bien d'usage, le char, à un objet remis au dieu et conservé dans un espace partagé. La valeur n'est plus celle de son efficacité technique : la communauté lui reconnaît un statut symbolique. L'offrande peut ainsi être pensée comme objectivation d'une relation avec une puissance.
+
+Cette lecture demeure explicitement moderne. L'*Hymne à Apollon* ne décrit pas une théorie de la propriété ou de l'Esprit. L'historien doit préciser ce que dit le vers 238 et où commencent les interprétations philosophiques. La force du rapprochement tient précisément à la différence entre une scène poétique concrète et un concept général de reconnaissance.
+
+## 61. Nietzsche : l'accident transformé en valeur
+
+Une lecture inspirée par Nietzsche pourrait interroger la manière dont une communauté transforme une perte matérielle en acte doté de sens. Le char brisé n'est plus seulement un échec technique ; il devient éventuellement la part du dieu. Une situation qui aurait pu être vécue comme désordre reçoit une interprétation normative.
+
+Il serait simpliste d'y voir une volonté de masquer une catastrophe ou une ruse sacerdotale démontrée. Le texte ne donne pas accès aux motivations psychologiques des acteurs. La généalogie critique sert à poser la question de la création des valeurs rituelles, pas à inventer une intention manipulatrice.
+
+## 62. Le cheval dans les religions grecques : une pluralité de fonctions
+
+Poséidon est associé dans de nombreux cultes aux chevaux, aux attelages et à la puissance du sol. À Onchestos, cette association prend une forme particulièrement localisée. Les chevaux servent à la fois d'animaux de traction et de signes de prestige, et l'expérience du jeune animal peut acquérir une valeur religieuse.
+
+Il faut éviter de faire de toute image hippique grecque un document sur Poséidon Onchestios. Les chevaux de guerre, les concours, les dédicaces et les mythes de naissance relèvent de traditions diverses. Le dossier d'Onchestos doit être fondé sur les documents provenant du site ou le nommant expressément.
+
+## 63. Comparaison avec Athéna Itonia : les lieux du *koinon*
+
+Le sanctuaire d'Athéna Itonia à Coronée a joué un rôle dans les rassemblements des Béotiens, notamment les Pamboiotia. Onchestos représente un autre centre de visibilité régionale, fortement lié au pouvoir fédéral à une période distincte. Il serait erroné de les fondre dans une unique capitale religieuse.
+
+La comparaison sert à examiner les changements d'échelle de l'autorité. Une même région peut reconnaître plusieurs lieux communs, dont les fonctions et les pouvoirs se réorganisent suivant les périodes. Les décrets de proxénie, les fêtes et les structures architecturales offrent des indices complémentaires sans établir une continuité institutionnelle homogène.
+
+## 64. Comparaison avec Apollon Ptoios : voix divine et espace politique
+
+Apollon Ptoios, dans la même région, possède une tradition oraculaire et des inscriptions de trépieds associées au *koinon*. À Onchestos, les textes archaïques privilégient la pratique des chars et les sources hellénistiques l'activité fédérale. Les deux sanctuaires mettent en relation un prestige religieux ancien et des formes plus récentes d'autorité intercommunautaire.
+
+Le rapprochement ne démontre aucune décision commune prise simultanément aux deux lieux. Il ouvre plutôt une question : comment un pouvoir fédéral réinvestit-il des sanctuaires dont la réputation précède l'institution qui les utilise ? Les objets consacrés et les textes gravés donnent une matérialité différente à cette même dynamique d'appropriation.
+
+## 65. Comparaison avec le sanctuaire de Poséidon à Calaurie
+
+Le sanctuaire de Poséidon à Calaurie, sur l'île de Poros, est associé dans les sources à une amphictyonie réunissant plusieurs communautés. Ce dossier offre un parallèle pour la relation entre Poséidon, un sanctuaire d'importance interrégionale et des formes de coopération. Il ne s'ensuit pas que les institutions aient été identiques.
+
+À Calaurie, comme à Onchestos, il faut déterminer ce que les termes antiques de regroupement politique recouvrent réellement. Une comparaison contrôlée porte sur les lieux de réunion, les dédicaces et les changements territoriaux. L'idée d'une « amphictyonie posidonienne » uniforme à travers la Grèce reste une généralisation non démontrée.
+
+## 66. Poséidon Helikonios : une hypothèse de relation historique
+
+Certains chercheurs ont envisagé un lien entre le Poséidon béotien et des cultes ioniens de Poséidon Helikonios. Cette hypothèse fait intervenir des traditions de migrations, de routes et de noms sacrés. Elle ne signifie pas que le culte ionien dérive mécaniquement d'Onchestos par une chaîne documentée sans lacunes.
+
+La recherche devrait confronter les attestations les plus anciennes de chaque épiclèse, l'onomastique et les contextes matériels. En l'absence de telles correspondances précises, le rapprochement demeure une possibilité historique signalée par la littérature savante et non la thèse centrale du chapitre.
+
+## 67. Comparaison avec les rites du Proche-Orient
+
+Le possible parallèle babylonien évoqué dans l'étude de Teffeteller rappelle l'existence de rites complexes où des véhicules et des animaux jouent un rôle dans la relation aux dieux. Mais les pratiques du Proche-Orient ancien ne forment pas un bloc uniforme, et une analogie technique ne prouve pas la transmission directe à la Béotie.
+
+Il convient de distinguer les gestes : donner un véhicule à une divinité, utiliser un char dans une procession, faire avancer des chevaux sans conducteur, solliciter un présage. Ces actes peuvent se combiner sans avoir la même origine. La comparaison est un outil de questionnement, pas une démonstration généalogique.
+
+## 68. Le politique et le religieux : une fausse opposition
+
+L'évolution d'Onchestos illustre la difficulté moderne à séparer culte et gouvernement comme s'ils occupaient deux domaines étanches. Un sanctuaire consacré à Poséidon peut accueillir une assemblée fédérale ; des décrets peuvent être gravés là où les humains remercient une puissance divine. La présence d'une décision politique ne réduit pas le dieu à un emblème vide.
+
+Inversement, l'ancienneté du culte ne prouve pas que les institutions fédérales étaient dictées par le dieu. Les Béotiens agissaient à travers des magistratures, des décisions et des procédures. Le sanctuaire rendait leur action visible dans un espace partagé, tout en conservant une histoire religieuse propre.
+
+## 69. Tableau des principales attestations
+
+| Source | Date ou horizon | Ce qu'elle atteste | Ce qu'elle ne démontre pas |
+| --- | --- | --- | --- |
+| *Iliade* II, 506 | Tradition épique archaïque | Onchestos, bois éclatant consacré à Poséidon | Temple matériel de l'âge du bronze |
+| *Hymne à Apollon* 229-238 | Tradition poétique archaïque | Jeune cheval, char sans conducteur, véhicule éventuellement abandonné au dieu | Date de fondation ni déroulement exhaustif d'une fête |
+| *Hymne à Hermès* 87-93 ; 184-203 | Tradition poétique archaïque | Onchestos dans le vol des troupeaux et la recherche d'Apollon | Interdit de silence rituel à Onchestos |
+| Pindare, fr. 94b, 38-49 | Ve siècle av. J.-C., fragment | Prestige de victoires hippiques au voisinage du sanctuaire | Programme complet des concours |
+| Étienne de Byzance, *Ethnika* p. 401 | Compilation tardive de tradition hésiodesque | Étiologie du lieu par l'éponyme Onchestos | Chronologie historique de la fondation |
+| Strabon IX, 2, 33 | Époque augustéenne | Sanctuaire, espace de réunion, absence d'arbres selon le géographe | Absence de bois à toutes les époques |
+| Pausanias IX, 26, 5 | IIe siècle apr. J.-C. | Héros fils de Poséidon, temple, image et bois à son époque | Dimensions de la statue ou état de l'époque archaïque |
+| SEG 27.60 | Fin IVe siècle av. J.-C. | Décret de proxénie fédéral avec noms d'archonte et de bénéficiaire | Définition de toutes les compétences du *koinon* |
+| SEG 26.573 | Autour de 300 av. J.-C. | Un autre décret fédéral, provenance discutée | Provenance certaine d'Onchestos |
+| Fouilles 2014-2017 | Édifices archaïques à hellénistiques | Structures, monnaies, armes, céramiques, bases et éléments de temple | Reconstitution directe de l'épreuve des chars |
+| Campagnes d'étude 2018-2020 | Travail documentaire moderne | Inventaires de métal, céramique et architecture, base de données | Achèvement définitif de l'étude du site |
+
+## 70. Bibliographie primaire et épigraphique
+
+- **Homère**, *Iliade* II, 494-510, particulièrement le vers 506 : « Onchestos, le bois éclatant de Poséidon ». Texte grec disponible dans le corpus de l'Onchestos Excavation Project : https://onchestos.mcah.columbia.edu/literary-reference/hom-il-2
+- **Hymne homérique à Apollon**, 229-238 : épisode du jeune cheval, du char sans conducteur et du véhicule laissé au dieu. Texte grec et traduction de travail : https://onchestos.mcah.columbia.edu/literary-reference/hymn-hom-ap
+- **Hymne homérique à Hermès**, 87-93 ; 184-203 : rencontre du cultivateur, vol des troupeaux et passage d'Apollon. https://onchestos.mcah.columbia.edu/literary-reference/hymn-hom-merc
+- **Pindare**, fr. 94b, 38-49, fragment de *parthénée* selon la classification retenue : victoires hippiques, relations de proxénie, Onchestos et sanctuaire d'Itonia. https://onchestos.mcah.columbia.edu/literary-reference/pind-fr-94b
+- **Strabon**, *Géographie* IX, 2, 33 : emplacement, espace de réunion, bois sans arbres et critique d'Alcée. https://onchestos.mcah.columbia.edu/literary-reference/str-9233-alc-frag-425
+- **Pausanias**, *Description de la Grèce* IX, 26, 5 : Onchestos, fils de Poséidon, et sanctuaire encore visible. https://onchestos.mcah.columbia.edu/literary-reference/paus9265
+- **Étienne de Byzance**, *Ethnika*, page 401, lignes 13 et suivantes : Onchestos, lien avec Boiotos et attribution à Hésiode ; fragment indirect, à ne pas citer comme manuscrit hésiodesque continu. https://onchestos.mcah.columbia.edu/literary-reference/steph-byz-401
+- **SEG 27.60**, décret fédéral de proxénie pour Kallipidas, fin du IVe siècle av. J.-C. : https://onchestos.mcah.columbia.edu/inscriptions/onchestos-poseidonion-federal-proxeny-decree-athenian-kallipidas
+- **SEG 26.573**, autre décret de proxénie du *koinon* béotien, provenance discutée ; la notice officielle signale le désaccord entre les localisations à Athéna Itonia et Onchestos. https://onchestos.mcah.columbia.edu/inscriptions/onchestos-proxeny-decree-boeotian-koinon
+- **IG VII, 1747** et **IG IX² 1, 170**, autres attestations relatives aux magistratures et institutions fédérales à situer dans les éditions épigraphiques et leurs datations propres.
+
+## 71. Bibliographie scientifique et archéologique
+
+- **Franciszek Sokolowski**, « On the Episode of Onchestus in the Homeric Hymn to Apollo », *Transactions and Proceedings of the American Philological Association* 91 (1960), p. 376-380.
+- **Gilbert Roux**, « Sur deux passages de l'Hymne homérique à Apollon », *Revue des études grecques* 77 (1964), p. 1-22.
+- **Albert Schachter**, « Homeric Hymn to Apollo, lines 231-8 (The Onchestos Episode): Another Interpretation », *Bulletin of the Institute of Classical Studies* 23 (1976), p. 102-114.
+- **Albert Schachter**, *Cults of Boiotia*, vol. 2, *Herakles to Poseidon*, Londres, 1986, dossier d'Onchestos et étude des fonctions béotiennes de Poséidon.
+- **Annette Teffeteller**, « The Chariot Rite at Onchestos: Homeric Hymn to Apollo 229–38 », *Journal of Hellenic Studies* 121 (2001), p. 159-166. DOI : https://doi.org/10.2307/631835
+- **Yannis Z. Tzifopoulos**, « Hermes and Apollo at Onchestos in the Homeric Hymn to Hermes: The Poetics and Performance of Proverbial Communication », *Mnemosyne* 53/2 (2000), p. 148-163.
+- **R. Étienne et D. Knoepfler**, *Hyettos de Béotie et la chronologie des archontes fédéraux entre 250 et 171 av. J.-C.*, *BCH Supplément* 3, Paris–Athènes, 1976.
+- **Paul Roesch**, *Études béotiennes*, Paris, 1982 : institution fédérale, topographie et décrets béotiens.
+- **Albert Schachter**, « Gods in the Service of the State: The Boiotian Experience », dans *Federazioni e federalismo nell'Europa antica*, Milan, 1994, p. 67-85.
+- **Peter Funke**, « Greek Amphiktyonies: An Experiment in Transregional Governance », dans *A Companion to Ancient Greek Government*, 2013, p. 451-465.
+- **Jeremy McInerney**, « Polis and Koinon: Federal Government in Greece », même ouvrage, 2013, p. 466-479.
+- **Hans Beck et Angela Ganter**, « Boiotia and the Boiotian Leagues », dans *Federalism in Greek Antiquity*, Cambridge, 2015, p. 132-157.
+- **Ioannis Mylonopoulos**, rapports du projet « Excavation of the Sanctuary of Poseidon in Boeotian Onchestos », *Praktika* de la Société archéologique d'Athènes pour les campagnes de 2014 et 2015 ; textes recensés dans la bibliographie du projet Columbia.
+- **Catherine Bouras**, notices « Onchestos – 2016 » et « Onchestos – 2017 », *Chronique des fouilles en ligne* (EFA/BSA) : https://chronique.efa.gr/?id=6880&r=report et https://chronique.efa.gr/?id=6616&r=report
+- **Onchestos Excavation Project**, historique et rapports de campagnes, direction Ioannis Mylonopoulos, université Columbia et partenaires grecs : https://onchestos.mcah.columbia.edu/history-sanctuary ; https://onchestos.mcah.columbia.edu/onchestos-excavation-project
+- **Onchestos Excavation Project**, campagne d'étude 2018 et catalogue des objets : https://onchestos.mcah.columbia.edu/2018-campaign ; campagne 2019 : https://onchestos.mcah.columbia.edu/2019-campaign ; documentation 2020 : https://onchestos.mcah.columbia.edu/2020-campaign
+- **Columbia University News**, Eve Glasberg, « Columbia’s First Excavation in Greece Focuses on a Sanctuary of Poseidon », 29 août 2017 : état des découvertes et interprétations de l'équipe. https://news.columbia.edu/news/columbias-first-excavation-greece-focuses-sanctuary-poseidon
+
+Ces références forment un dossier contrôlable. Les hypothèses de datation et de fonction architecturale mentionnées dans les premières communications ne doivent pas être présentées comme les conclusions définitives de futures fouilles.
+
+## 72. Programme iconographique : dix-huit documents distincts et sourcés
+
+1. Carte de Béotie situant Thèbes, Haliarte, Lébadée, Copaïs et Onchestos avec distinction du lac antique et des paysages modernes.
+2. Photographie institutionnelle du paysage et du sanctuaire dans le secteur de Steni Mavrommatiou, avec crédit du projet Columbia.
+3. Plan schématique des secteurs A et B établi à partir des plans officiels, sans inventer un trajet certain entre les espaces.
+4. Vue aérienne du secteur A montrant les structures effectivement fouillées.
+5. Vue aérienne du secteur B et localisation de la structure circulaire, sans identification fonctionnelle non attestée.
+6. Photographie des fondations d'un bâtiment considéré comme possible temple, avec référence exacte du rapport d'opération.
+7. Détail du tambour inférieur de colonne ionique trouvé en 2017 et de sa base, avec localisation et contexte.
+8. Plan phasé des bâtiments des VIe et IVe siècles avant notre ère, indiquant avec une trame différente les niveaux supposés.
+9. Planche philologique de l'*Iliade* II, 506 et des *Hymnes homériques*, distinguant les emplois du terme *alsos*.
+10. Tableau de traduction des verbes essentiels du rite du char : descendre, briser, prendre soin, incliner, laisser et prier.
+11. Schéma interprétatif de l'attelage du passage homérique ; restituer le jeune cheval et les autres animaux sans figer le nombre au-delà des lectures possibles.
+12. Deux versions comparées du traitement du char : véhicule couché ou redressé ; mention expresse du désaccord philologique.
+13. Photographie d'un objet équestre réellement trouvé à Onchestos, avec inventaire et datation contrôlés.
+14. Photographie de l'épée courbée à inscription sacrée, avec attribution institutionnelle précise et autorisation de reproduction.
+15. Images d'éléments de sima et d'antéfixes peints, avec restitution de la seule couleur attestée.
+16. Édition épigraphique lisible de SEG 27.60 et explication du mot *koinon* et du statut de proxène.
+17. Frise des changements politiques entre l'époque archaïque, Chéronée, 335, 171, 146 et l'Empire, différenciant dates politiques et phases archéologiques.
+18. Reconstitution photoréaliste *hypothétique* de la zone de passage devant le sanctuaire, sans représenter une cérémonie du char comme une scène directement vérifiée.
+
+Les photographies et figures institutionnelles resteront liées à leurs sources et droits de reproduction. Les reconstitutions seront explicitement qualifiées d'interprétatives et ne devront pas réintroduire les anciennes vues vectorielles en perspective 2,5D. Une image ne prouvera jamais par elle-même l'étymologie du nom, l'authenticité d'une généalogie ou la présence d'un rite.
+
+## Conclusion générale : le dieu, le véhicule et la communauté
+
+Onchestos illustre la force d'un paysage sacré dans lequel les humains reconnaissent une puissance capable de transformer des déplacements ordinaires en actes religieux. L'épisode du char reste étonnant parce qu'il organise une suspension temporaire de la maîtrise : le conducteur quitte son poste, les chevaux avancent sans guide et le véhicule peut devenir la part du dieu. Une traduction trop sûre en effacerait la pluralité des possibles. Le poème donne les gestes, pas un manuel de rite.
+
+L'autre singularité du sanctuaire est sa capacité à changer d'échelle. Nommé dès la tradition épique, il apparaît dans la poésie lyrique comme lieu de victoires hippiques, puis dans les inscriptions et l'architecture comme espace de décision et d'honneur fédéral. Ce changement ne suppose pas une rupture totale : des usages religieux anciens peuvent rendre un lieu plus apte à représenter une communauté politique. Mais il ne doit pas être projeté dans l'âge héroïque au mépris de la chronologie.
+
+Les divergences entre Strabon et Pausanias sur le bois sacré, entre les généalogies du héros et entre les lectures modernes des vers homériques ne sont pas des imperfections à masquer. Elles constituent les limites et la richesse de notre savoir. La rigueur consiste à distinguer ce qu'un auteur a dit, ce qu'un monument rend visible et ce que l'analyse peut proposer sous condition. C'est à cette exigence que doit répondre la Grande Encyclopédie de MYTHOS.
+
+*Fin du manuscrit public intégral. Le numéro 442 demeure un emplacement éditorial : seule la transaction GitHub Actions peut procéder à une attribution canonique et à sa vérification.*

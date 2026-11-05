@@ -651,6 +651,48 @@
           "path": "chapitres/origines-du-sacre/680-euripide-suppliantes-eleusis-corps-argiens-thesee-droit-sepulture.md",
           "request_sha256": "91c43d33d2e24b5bcac32390ef062cfae7181f55ef71354e922baba081f35ad6",
           "initial_source_sha256": "c51091152ea76456a560360350e8691cecd41a59f4d5713b6db312f7c95c00b8"
+        },
+        "2f6e713b-55a4-4a8e-b8d6-c7a0f218c951": {
+          "number": 681,
+          "path": "chapitres/origines-du-sacre/681-nombres-19-vache-rousse-cendres-eau-lustrale-mort-impurete.md",
+          "request_sha256": "a6eae02dfcf89f510ad6751d5d3bf5b594c33b7de355a919f3fb1c8d12263f3b",
+          "initial_source_sha256": "84a6f7c4e4d121c1a7c2006425a72121ecd316d13e56614c86a076da15cfd911"
+        },
+        "3af964b1-dc20-4ebe-88b7-734ae289c061": {
+          "number": 682,
+          "path": "chapitres/origines-du-sacre/682-inde-ashauca-sapinda-dharmasastra-mort-parentes-durees.md",
+          "request_sha256": "28b279b634e3ef971feb3944d7f2bf7064c56953211fe13de966ace239033d34",
+          "initial_source_sha256": "0d0059c552c138e34e41a13d6163781c906050c78ab16cf165b053b04f80509c"
+        },
+        "3af964b1-dc20-4ebe-88b7-734ae289c062": {
+          "number": 683,
+          "path": "chapitres/origines-du-sacre/683-chine-yili-sangfu-cinq-degres-deuil-liji-xunzi-parents.md",
+          "request_sha256": "c18ba7fbc236eb5478fb3a9946b78a5de80dd6a59014d86bf5e5759d2e563a52",
+          "initial_source_sha256": "a1f4a5aea462153424fcc7b8fae7b6dff4a2506d45b5bf1267b61fdedcbff411"
+        },
+        "ce94b6f0-3835-4f2f-96cb-075d39183ee5": {
+          "number": 684,
+          "path": "chapitres/origines-du-sacre/684-chine-yili-sangfu-cinq-degres-vetements-deuil-mawangdui-xunzi.md",
+          "request_sha256": "f0b9490df667171d796b267fc8c565abdc364252d64c6d18d0ddf37bbfd89296",
+          "initial_source_sha256": "b7ba8381ac69edfbd91ea20addffd47e65d7296a3c79de8eef7c4897a8eb4514"
+        },
+        "d6a3f811-37f0-4f62-b7ec-57d99b80ad6e": {
+          "number": 685,
+          "path": "chapitres/origines-du-sacre/685-egypte-herodote-embaumement-saqqara-antiu-sefet-papyrus-rituel.md",
+          "request_sha256": "0994a78ce39a84311afdf9d75ddfd9aea27c43dbdacb736fd183cfb7d391ff67",
+          "initial_source_sha256": "8274e6aec2390d3082e639061c3acdab868a08e3aa85b701013796b31e0fa954"
+        },
+        "df30ec7a-2be4-4ac3-a3f1-1d872ff07359": {
+          "number": 686,
+          "path": "chapitres/origines-du-sacre/686-levitique-21-pretres-morts-proches-grand-pretre-ezechiel-44.md",
+          "request_sha256": "813d4f2ed5599c867c5599d089fd8aecdfe78b96b694c49e3ab1f49ac722b366",
+          "initial_source_sha256": "cacd5cc475d556d05cd53ede44d242831c5f892ca7e59aad43bb629214933c52"
+        },
+        "e45c387a-7863-46a0-ac87-3b7e23f15990": {
+          "number": 687,
+          "path": "chapitres/origines-du-sacre/687-videvdad-nasu-sagdid-barasnom-cadavres-feu-eau-terre-iran.md",
+          "request_sha256": "0cce449896881d08ff97dcdc075c54b58328146a8ba27233b7c5a33f66e83d08",
+          "initial_source_sha256": "1816d70eb8717c27408a4dc706e4ecc18e2d23cbd076837026d904b181e970cb"
         }
       }
     },
@@ -1204,6 +1246,24 @@
           "path": "chapitres/encyclopedie/chapitre-439-apollon-karneios-karneia-sparte-thera-cyrene-messene-rites-musique.md",
           "request_sha256": "d723ff2363c6b02b9e554223d2fde5ac06f4cdebd1d9c355eb34c1f861dd3bcd",
           "initial_source_sha256": "1a6fb310d20cfbdbbc21fbb7e412e99ea0e58a25ce64c10bbfee21aa872353c2"
+        },
+        "5be77924-3cef-4c18-9d27-c9a5540b34ab": {
+          "number": 440,
+          "path": "chapitres/encyclopedie/chapitre-440-zeus-diktaios-palaikastro-hymne-megistos-kouros-ganos-sanctuaire.md",
+          "request_sha256": "a28accce5930908381bd6963602d3abd2f410fdcf88c3f795cca5f7cb5f3e697",
+          "initial_source_sha256": "9b385f3cb20f0ace39ec1737e1d4b62214a535cd43849ef770a16067e98d7e1b"
+        },
+        "9ad28fe0-7b91-4a65-b814-3c9f21e7650c": {
+          "number": 441,
+          "path": "chapitres/encyclopedie/chapitre-441-euthymos-locres-temesa-heros-polites-alybas-lycas-heroisation.md",
+          "request_sha256": "c537ff6929c0172da30799fb7968d7e40133871285aecbcf8923082f8ec824b2",
+          "initial_source_sha256": "3a7336611b0b6bd5e12d5584d299482db781ba40fdb2076e0d979c5824430306"
+        },
+        "b671b51a-3620-4fea-bcd9-6e742a588d35": {
+          "number": 442,
+          "path": "chapitres/encyclopedie/chapitre-442-poseidon-onchestios-onchestos-chars-sans-conducteur-federation-beotie.md",
+          "request_sha256": "58800ef6e8c2e4787045ef251493262f640f5d550f3186022ef49920897ae4c8",
+          "initial_source_sha256": "73101506faefee60ec415efa0487326fe4ccc37dc699e23dbeec5c52141877a6"
         }
       }
     },
@@ -2014,6 +2074,18 @@
           "path": "chapitres/tragedies/volume-ccliv-agathon-antheus-anthos-invention-aristote-poetique-1451b-parthenios-antoninus.md",
           "request_sha256": "708bc70b73a340625acd014592f803560089080fffc97fd1c0b17768a0f93093",
           "initial_source_sha256": "0e9f31ebfb97093b49a970364ab2e8a37f814703ec96e06b0b0ad635ddd17bbf"
+        },
+        "7cb46d08-199d-4f47-a566-cd9e082a7e40": {
+          "number": 255,
+          "path": "chapitres/tragedies/volume-cclv-agathon-thyeste-fragment-3-curetes-amphithea-cheveux-etymologie-atreides.md",
+          "request_sha256": "33594827604c7297d1a843900ac89be8b3f4445d38aa52b7393082f07091601a",
+          "initial_source_sha256": "44d9c73ce0e761965196d6743eecea6ee059451fd0aea4d89cd777ae5249d44d"
+        },
+        "c9e2f74b-65ad-4d7c-9b36-cfbf72a80e91": {
+          "number": 256,
+          "path": "chapitres/tragedies/volume-cclvi-agathon-thyeste-curetes-pronax-amphithea-sicyone-fragment-3.md",
+          "request_sha256": "bf42c1e99c2595b478b07800efe41ae664d1f3fac097b6c0162a31671772a1a2",
+          "initial_source_sha256": "a3f60a3e95b5667fe20b52aa8382e9078ed0e0d9ea6cef0bdc931468c96a3425"
         }
       }
     },
@@ -2683,6 +2755,24 @@
           "path": "chapitres/comparatif/volume-cclii-mc-072-quand-les-dieux-se-deguisent-epiphanies-hospitalite-tromperie-reconnaissance.md",
           "request_sha256": "16d48859519110538c8abfb21ab31e2ef30ba70d4505e8644a94fb2598d4c67d",
           "initial_source_sha256": "d3cd5d1b63a365fa3813aeb4e3d6ce033f7d41ea509de8d99256d340c8f28a07"
+        },
+        "0f7bc4a2-73ce-4da2-93fa-202611050074": {
+          "number": 253,
+          "path": "chapitres/comparatif/volume-ccliii-mc-074-armer-les-dieux-armes-forgees-artisans-divins-violence-souveraine.md",
+          "request_sha256": "1e556d9597c43cb69321332eb919244ceb952be41aaa2de71ce7458a1b0333d7",
+          "initial_source_sha256": "f90a2c699b35c2305f53b5dd79c12004a823fb5e467f77791fb0e342dd8d78d7"
+        },
+        "2fb9e075-3a61-41e4-9e75-202611050075": {
+          "number": 254,
+          "path": "chapitres/comparatif/volume-ccliv-mc-075-sous-le-regard-des-dieux-soleil-temoins-invisibles-yeux-protecteurs-responsabilite-souverains.md",
+          "request_sha256": "f217592333efd5f048456fa22a05a1599c8496149de151662d7d73e33bea9cde",
+          "initial_source_sha256": "2b567909f351db62d422f8bcb69e7585a0dfdaf466c5841cba5bfa3a4d42fb69"
+        },
+        "4fc80e73-a29b-4fa0-9b23-202611050073": {
+          "number": 255,
+          "path": "chapitres/comparatif/volume-cclv-mc-073-quand-les-dieux-se-taisent-prieres-sans-reponse-ecoute-divine-attente-justice.md",
+          "request_sha256": "b6cb27f2c6fc6db3a819372a39cc6753bf20addca7574b4f8c45f82fa216f9dc",
+          "initial_source_sha256": "469aebf117094694bbe7cd718dd8aa7e254735a0ffc5cf310ad8a2dd0c54b35c"
         }
       }
     }
