@@ -1012,6 +1012,12 @@
           "path": "chapitres/encyclopedie/chapitre-427-iamos-iamides-apollon-evadne-mantique-olympie-pindare.md",
           "request_sha256": "2062d0bf74d4304017df96f8785950fbcb6898c5aded15082e678d089477911e",
           "initial_source_sha256": "4692e76f189dd5e187ff825d307c1fc6a8e986662570f0421047a2fdf20ab2e8"
+        },
+        "f4b9e7a6-3c85-4d1a-b270-9e74f619ac32": {
+          "number": 428,
+          "path": "chapitres/encyclopedie/chapitre-428-hera-akraia-perachora-corinthe-medee-oracle-sanctuaire.md",
+          "request_sha256": "c4d661232240cec7a1d8dd76860b1db42e35aa172d284b5e18574e68df4e165a",
+          "initial_source_sha256": "39d017ce4e43a0e3f36718b04dd9523dae4ad5cf2ac41892b17bbeda78dbb63c"
         }
       }
     },
@@ -2311,6 +2317,12 @@
           "path": "chapitres/comparatif/volume-ccxlii-mc-062-quand-les-dieux-mentent-tromperie-verite-serments-parole-divine.md",
           "request_sha256": "2ea27bd3ebd188561408e66165148291348fd93d58e8ab7c51ff94505525b271",
           "initial_source_sha256": "4741798e9b0e245bdaa6014452f8a187a1f3cf365091495e6d982fdaa4596209"
+        },
+        "c063a202-6e8c-4c63-b363-202611050063": {
+          "number": 243,
+          "path": "chapitres/comparatif/volume-ccxliii-mc-063-quand-les-dieux-saignent-blessure-divine-corps-vulnerables-soins-souverainete.md",
+          "request_sha256": "49eff5f0b889e554f82222d143bc39df00364c1846d0eb5b943ec729e9995c9e",
+          "initial_source_sha256": "f5fbe5553eae0f47edb41c2bc19db504d27b43754921638df89b6b6af79d7bfb"
         }
       }
     }

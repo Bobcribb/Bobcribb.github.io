@@ -1,0 +1,652 @@
+# MYTHOS — Cycle universitaire de MYTHOLOGIE COMPARÉE — Volume CCXLIII (243)
+
+## MC-063 — Quand les dieux saignent : blessure divine, corps vulnérables, réparation et souveraineté
+
+**Monographie universitaire originale — 5 novembre 2026.**
+
+**Question directrice.** Que devient l'idée de divinité lorsqu'un dieu est atteint, mutilé, soigné, diminué ou se blesse volontairement ? La blessure d'un immortel ne se confond ni avec sa mort, ni avec sa vieillesse, ni avec une simple peine morale. Dans les œuvres antiques, le corps divin peut manifester à la fois une puissance supérieure et la possibilité d'une atteinte. Cette monographie suit les formes, les agents, les traitements, les usages sociaux et les limites de cette vulnérabilité, au lieu de constituer une mythologie universelle du « dieu souffrant ».
+
+**Contrôle de continuité.** Contrôle réalisé le 5 novembre 2026 sur la branche principale du dépôt Bobcribb/Bobcribb.github.io : MC-062, « Quand les dieux mentent », existe en manuscrit canonique et page HTML sous le volume CCXLII (242), après MC-061 (CCXLI). Une recherche de MC-063 n'a pas retourné de résultat. Le volume MC-024 (« Amon, Rê et Aton ») est antérieurement identifié au volume CLXXXI ; les conflits historiques autour de MC-025 ne sont ni réattribués ni réécrits. Le présent manuscrit reçoit uniquement l'identifiant de série MC-063 : le numéro romain définitif doit être alloué par le pipeline éditorial.
+
+**Périmètre et renvois.** MC-053 a étudié les soins, MC-058 les morts divines, MC-059 les naissances, MC-060 le vieillissement, MC-061 les limites de la connaissance et MC-062 la tromperie. Ici, l'objet spécifique est la lésion corporelle divine comme opérateur narratif, rituel et politique. L'analyse du sacrifice, des yeux, de la castration et des soins est donc subordonnée à cette question ; les dossiers précédents ne sont pas reproduits.
+
+**Protocole des preuves.** [A] = texte ou objet antique attesté, avec localisation contrôlable ; [T] = observation philologique ou narratologique ; [I] = inférence historique explicitement limitée ; [H] = hypothèse comparative ou de transmission qui reste à démontrer ; [P] = proposition philosophique actuelle. Une citation d'un récit n'établit pas les croyances de tous les habitants d'une civilisation. Les paraphrases françaises sont originales, sans prétention d'édition critique. Les numérotations varient selon éditions, recensions et traductions ; la localisation est indiquée au plus près.
+
+---
+
+
+## I. Problèmes conceptuels et méthode
+
+
+### 1. L'immortalité n'est pas l'invulnérabilité
+
+[T] Dans la langue ordinaire, les deux notions s'associent ; dans les récits, elles se séparent. Une divinité immortelle peut connaître douleur, humiliation, plaie ou perte d'un organe sans franchir le seuil de la mort. L'Iliade V fournit un véritable laboratoire de cette distinction : Aphrodite saigne, Arès réclame un traitement et le récit ne met pas en cause leur persistance divine. [P] Le concept analytique de vulnérabilité désigne la possibilité d'être affecté ; il n'implique pas une égalité des puissances entre blessés. Une immortelle ne meurt pas comme un soldat, mais le récit lui donne un corps exposé.
+
+
+### 2. Cinq formes de l'atteinte
+
+[T] Il faut dissocier la plaie ponctuelle, la mutilation durable, l'arrachement réparé, la douleur répétitive et le sacrifice volontaire d'une partie de soi. L'ichôr d'Aphrodite relève du premier type ; l'œil d'Horus passe par l'arrachement puis la réparation ; l'œil remis en gage par Óðinn relève de la perte consentie ; le foie de Prométhée subit une violence cyclique. Ce classement par opérations vaut davantage qu'un inventaire de dieux « infirmes ». Les textes peuvent décrire plusieurs modalités à la fois, et tous ne précisent pas l'intensité de la douleur.
+
+
+### 3. Corps de récit, corps cultuel et corps de doctrine
+
+[T] Trois niveaux ne doivent jamais être confondus. Le corps narratif est celui qu'une épopée peut transpercer ; le corps rituel est activé par un signe, une offrande, une formule ou une image ; le corps doctrinal correspond à une proposition abstraite sur la nature d'un dieu. Entre les trois, des transferts existent mais ne sont pas automatiques. Une amulette œil-oudjat ne démontre pas que son propriétaire croyait littéralement à un même déroulement du combat d'Horus ; elle atteste au moins une matérialisation protectrice d'un motif divin.
+
+
+### 4. Les erreurs du comparatisme
+
+[H] Une similitude morphologique — œil perdu, membre atteint, sang qui coule — ne prouve ni emprunt culturel ni structure psychique intemporelle. La proximité de l'Anatolie, de l'Égée et de la Mésopotamie justifie d'étudier les médiations historiques, mais pas d'inventer un trajet précis. Entre l'Inde ancienne, l'Islande médiévale et l'Égypte pharaonique, la distance documentaire est plus grande encore. Nous préférons une comparaison contrôlée des fonctions : contestation de souveraineté, mise en ordre du sacrifice, réparation, connaissance, protection et distinction des conditions corporelles.
+
+
+### 5. Qui parle de la blessure ?
+
+[T] La blessure d'Arès est rapportée par un narrateur épique, celle de Prajāpati par une prose rituelle expliquant une portion sacrificielle, celle d'Óðinn dans le Hávamál par un « je » poétique, celle d'Horus par un récit hiératique et plusieurs corpus rituels. Une première personne de dieu n'a pas la même valeur qu'une inscription de dévotion. La différence de genre rend impropre toute formule selon laquelle « les anciens croyaient unanimement que les dieux pouvaient saigner ». Nous parlerons de conventions textuelles et de pratiques attestées, puis de leurs usages probables.
+
+
+### 6. La chronologie des témoins
+
+[T] Les épopées homériques furent fixées dans un long processus de tradition et de transmission ; les textes des pyramides égyptiens précèdent de plus d'un millénaire le récit ramesside des Contestations d'Horus et de Seth ; les Brāhmaṇa appartiennent à une longue élaboration védique ; le Hávamál nous parvient surtout par un manuscrit islandais du XIIIe siècle. La date du témoin matériel, la période de composition supposée et la datation du récit mythique ne sont pas interchangeables. Chaque comparaison doit annoncer de quel niveau chronologique elle traite.
+
+
+### 7. La nature des localisations
+
+[T] Pour Homère et Hésiode, les chants et vers sont repérables dans les éditions philologiques ; pour l'Égypte, l'inventaire et les pages du papyrus sont prioritaires ; pour les Brāhmaṇa, les subdivisions kāṇḍa/adhyāya/brāhmaṇa/paragraphe permettent la vérification ; pour l'Anatolie, le numéro de catalogue CTH et les fragments valent mieux qu'une citation inventée ; pour les sources nordiques, les strophes et chapitres sont signalés avec une réserve sur les éditions. Cette dissymétrie des références est une précaution, non un défaut du corpus.
+
+
+## II. Le sang des immortels : Homère, Iliade V
+
+
+### 8. Aphrodite dans la mêlée
+
+[A] Iliade V, 311-351 : Aphrodite soustrait Énée, son fils, à la fureur de Diomède ; le guerrier, distinguant les divinités combattantes de celle qu'il juge vulnérable, atteint sa main. L'enjeu ne se résume pas au courage d'un mortel qui « bat une déesse » : Aphrodite intervient comme mère et protectrice, tandis que l'aristeia de Diomède est amplifiée par l'assistance d'Athéna. [T] Le texte décrit un contact précis entre la pointe d'une arme, la peau et le vêtement divin fabriqué par les Charites. La matière sublime du vêtement n'empêche pas la blessure.
+
+
+### 9. Le mot ichôr
+
+[A] Iliade V, 339-342 : à la lésion s'écoule l'ichôr (ἰχώρ), qualifié de liquide propre aux dieux. Homère oppose le régime alimentaire divin aux aliments humains et emploie l'adjectif « sans sang » au sens d'une différence physiologique. [T] Traduire systématiquement ichôr par « sang doré » serait une amplification non fondée : le passage ne lui assigne aucune couleur. Il ne dit pas non plus que ce liquide serait un poison pour les hommes. On rencontre dans les traductions « sang immortel », mais il s'agit d'un équivalent fonctionnel, non d'une identité avec le sang humain.
+
+
+### 10. Immortalité définie par l'alimentation
+
+[A] Le raisonnement narratif du vers 341, « ils ne mangent pas de pain, ne boivent pas de vin », associe l'ichôr à un régime divin distinct. [T] Cette étiologie en quelques vers ne constitue pas un traité d'anatomie et ne peut être exportée sans preuve vers toute la littérature grecque. [P] Elle propose cependant une séparation remarquable : le divin n'est pas désincarné, il est incarné autrement. L'altérité ne supprime pas l'affectabilité ; elle la redistribue sur une autre économie du vivant. Les blessures sont donc de véritables événements narratifs, et non des contradictions à éliminer.
+
+
+### 11. La plainte d'Aphrodite
+
+[A] Iliade V, 352-378 : la déesse se retire, secourue par Iris et Arès, puis se plaint à sa mère Dioné. [T] Le réseau familial importe autant que la lésion : la souffrance conduit à demander assistance, à qualifier l'agression et à reformuler le périmètre légitime de l'action de Diomède. La déesse subit une double atteinte, au corps et à son domaine d'autorité. [P] La vulnérabilité divine rappelle qu'une puissance n'est pas absolue hors de sa sphère d'intervention ; la souveraineté de Zeus ne transforme pas chaque membre de sa famille en invincible.
+
+
+### 12. Dioné : soin et récits de précédents
+
+[A] Iliade V, 381-417 : Dioné console Aphrodite en rappelant d'autres dieux frappés par des mortels. Elle mentionne notamment le châtiment d'Arès par les Aloades (V, 385-391), et Héra ainsi qu'Hadès blessés par Héraclès (V, 392-402). Elle essuie la plaie et fait cesser la douleur (V, 416-417). [T] Le mythe inséré fonctionne comme mémoire d'une série : le scandale apparent n'est pas unique. [P] Pour la déesse, le traitement est aussi une restauration de place dans un ordre divin traversé de conflits.
+
+
+### 13. Hadès, un blessé inattendu
+
+[A] Iliade V, 395-402 : Héraclès atteint Hadès d'une flèche à Pylos, provoquant une douleur qu'il faut soigner sur l'Olympe. [T] Un dieu associé au séjour des morts ne doit pas être assimilé à un dieu mort. Son corps demeure susceptible d'une lésion située, en particulier à l'épaule. L'exemple déjoue l'alternative populaire entre divinité intangible et divinité mortelle. [I] La présence de cet épisode dans la bouche de Dioné suggère un répertoire ancien de blessures divines, mais le témoignage homérique ne permet pas de reconstituer avec certitude toutes les versions antérieures.
+
+
+### 14. Héra et l'épaisseur des violences
+
+[A] Dans le même discours, une flèche d'Héraclès frappe Héra (Iliade V, 392-394). La déesse des unions légitimes apparaît parmi les cibles d'une violence héroïque. [T] Un épisode rapporté, non représenté directement, n'a pas le même statut narratif que l'attaque contre Aphrodite décrite sous les yeux de l'auditoire. La juxtaposition produit pourtant un effet précis : les dieux peuvent ressentir la douleur sans perdre leur identité ni leur rang. [P] L'autorité demeure exposée au dommage même lorsqu'elle possède des moyens supérieurs de le surmonter.
+
+
+### 15. Arès atteint avec l'aide d'Athéna
+
+[A] Iliade V, 855-870 : Diomède blesse Arès, aidé d'Athéna, puis le dieu rejoint Zeus et lui montre l'ichôr qui coule. [T] La plaie ne peut servir de preuve d'une victoire humaine indépendante des dieux : elle a été rendue possible par une intervention divine. La querelle est en partie une guerre entre puissances olympiennes médiatisée par un corps de héros. [I] Le récit permet à l'auditoire de mesurer la hiérarchie des forces tout en affirmant que la rage guerrière, même divinisée, n'échappe pas à une limite.
+
+
+### 16. L'ichôr d'Arès et la visibilité de la plaie
+
+[A] Iliade V, 870-889 : Arès met son dommage en accusation devant Zeus. [T] La plaie devient un argument politique ; elle n'est plus seulement une sensation. Arès souhaite tirer de l'atteinte un jugement sur le comportement d'Athéna et des hommes. Zeus répond en critiquant la conduite du dieu de la guerre. Le statut divin du plaignant ne fait donc pas de son interprétation une vérité souveraine. [P] Blessure et légitimité du grief doivent être distinguées : le dommage constitue un fait de récit, son attribution morale reste conflictuelle.
+
+
+### 17. Paiéon, thérapeute des dieux
+
+[A] Iliade V, 899-904 : sur l'ordre de Zeus, Paiéon applique des remèdes à Arès ; le retour rapide à l'intégrité est comparé à la coagulation du lait par le suc de figue. Le texte explique l'efficacité par la nature non mortelle d'Arès. [T] Le nom de Paiéon n'autorise pas à l'identifier sans réserve à l'Apollon guérisseur de toutes les époques ; des rapprochements historiques existent, mais les contextes textuels déterminent la prudence. [P] Même le soin des dieux implique ici une technique, un agent distinct et une décision d'autorité.
+
+
+### 18. La comparaison technique du caillage
+
+[A] Le procédé de la coagulation (Iliade V, 902-904) emprunte une expérience reconnaissable dans le monde domestique. [T] Un objet familier sert à figurer un événement impossible à observer empiriquement, la guérison rapide d'un dieu. Cela ne veut pas dire que le poète décrit une pratique pharmacologique appliquée aux humains : la comparaison est poétique. [P] Le récit fait tenir ensemble différence ontologique et continuité analogique. Le corps divin est suffisamment autre pour guérir vite, suffisamment comparable pour que l'image d'une matière transformée rende sa guérison intelligible.
+
+
+### 19. Douleur, masculinité héroïque et ironie
+
+[T] Les cris, plaintes et reproches des dieux atteints contrastent avec les attentes imposées aux héros. Le poème ne se contente pas de ridiculiser les dieux : Aphrodite agit pour sauver, Arès pour combattre et leurs souffrances s'insèrent dans les antagonismes olympiens. [P] Comparer leurs plaintes avec l'éthique humaine de l'endurance est une opération littéraire fructueuse, à condition d'éviter les jugements simplistes sur une supposée lâcheté essentielle du féminin et du masculin. L'ironie homérique peut fragiliser un prestige local sans abolir la sacralité des personnages.
+
+
+### 20. Intervention humaine ou droit divin ?
+
+[A] Iliade V, 127-132 : Athéna autorise Diomède à reconnaître les dieux et à frapper Aphrodite, mais lui défend d'affronter les autres puissances. [T] Ce mandat préalable signifie que l'acte n'est pas un programme général de guerre humaine contre les Olympiens. Il vaut à l'intérieur d'une configuration exceptionnelle. [P] Il existe une différence majeure entre rendre un dieu vulnérable et rendre un dieu justiciable d'une souveraineté humaine autonome. Le récit invente la première possibilité tout en maintenant largement l'asymétrie politique entre dieux et mortels.
+
+
+### 21. Artemis battue sans plaie attestée
+
+[A] Iliade XXI, 479-513 : Héra humilie Artémis, la frappe avec son propre arc et disperse ses flèches ; Artémis rejoint Zeus en pleurant. [T] Il serait abusif de conclure de toute violence divine à un écoulement d'ichôr. Le passage n'offre pas cette donnée. Il rend cependant visible une autre atteinte corporelle et sociale : le geste infligé à une divinité dans un conflit de rang. [P] Humiliation, lésion et perte durable de faculté appartiennent à des registres voisins, mais leur confusion ferait perdre l'intérêt distinctif de chaque épisode.
+
+
+## III. Corps abîmés, travail et châtiment en Grèce
+
+
+### 22. Héphaïstos : deux récits de chute
+
+[A] Iliade I, 586-594 : Héphaïstos raconte avoir été projeté par Zeus et recueilli à Lemnos ; Iliade XVIII, 394-405 : il évoque une chute liée à Héra, qui aurait voulu dissimuler sa claudication, et le secours de Thétis et d'Eurynomé. [T] Ces traditions ne sont pas identiques. Il serait artificiel de les harmoniser en une chronologie unique où les deux parents causeraient successivement la même infirmité. [I] Leur coexistence montre que les traditions épiques n'étaient pas contraintes par une biographie divine uniforme.
+
+
+### 23. Être boiteux et être créateur
+
+[A] Iliade XVIII, 410-422 décrit les déplacements difficiles d'Héphaïstos et des servantes d'or dotées de capacités animées. [T] Le texte associe une différence corporelle durable à une compétence technique extraordinaire, sans établir une loi générale d'équivalence entre handicap et génie. [P] Une lecture contemporaine attentive à l'histoire du handicap peut poser une question décisive : pourquoi un dieu est-il dévalorisé pour une caractéristique physique alors même qu'il produit les objets les plus sophistiqués des dieux ? Cette question appartient à notre analyse, non à un manifeste politique explicitement formulé par Homère.
+
+
+### 24. Artisanat et réparation des mondes
+
+[A] Les réalisations d'Héphaïstos, notamment le bouclier d'Achille (Iliade XVIII, 468-617), associent métal, mouvement et cosmologie. [T] La blessure physique ne suffit pas à expliquer à elle seule sa fonction de forgeron : celle-ci a ses histoires cultuelles et économiques. Mais le rapprochement littéraire entre mouvement entravé et maîtrise de la fabrication renouvelle la notion de puissance. [P] Un dieu peut ne pas dominer par son propre corps et cependant devenir indispensable à l'ordre visible ; la capacité de faire remplace la capacité de triompher par force.
+
+
+### 25. La scène du retour d'Héphaïstos
+
+[A] Un cratère attique attribué à Lydos, vers 550 av. n. è., conservé au Metropolitan Museum (notice 253349), représente son retour à l'Olympe accompagné de Dionysos. [T] Cette œuvre n'illustre pas une scène homérique précise ; elle témoigne d'un autre faisceau narratif, celui de l'exclusion puis de la réintégration. La lecture du musée souligne d'ailleurs que la claudication n'est pas nécessairement montrée visuellement. [I] L'écart entre texte et image interdit d'identifier l'absence de déformation figurée à l'absence de la caractéristique dans l'imaginaire.
+
+
+### 26. Prométhée : une blessure qui recommence
+
+[A] Théogonie 521-529 : Zeus fixe Prométhée à un supplice où un aigle consomme son foie immortel ; la partie mangée repousse pendant la nuit, jusqu'à l'intervention d'Héraclès. [T] Le terme narratif essentiel est la répétition. Le foie régénéré ne rend pas la souffrance fictive ; il la rend reconductible. Le dieu ou Titan n'a pas besoin de mourir pour être soumis à une peine potentiellement interminable. [P] La figure inverse la valeur habituelle de la guérison : le renouvellement corporel fournit la condition de la perpétuation punitive.
+
+
+### 27. La catégorie de Titan
+
+[T] Prométhée est un descendant de Japet et un Titan dans la généalogie hésiodique. Le désigner sans distinction comme un « dieu olympien » serait inexact. [A] Théogonie 507-616 situe son action dans la crise du partage entre Zeus, dieux et mortels. [I] Le schéma du conflit des générations, de la ruse sacrificielle et du supplice doit être replacé dans cette cosmologie en construction. [P] La souffrance du corps n'y prouve pas un principe moral moderne selon lequel toute transgression mérite peine ; elle rend sensible la difficulté de penser une autorité qui instaure le partage des conditions.
+
+
+### 28. Le foie n'est pas simplement un organe médical
+
+[T] L'identification anatomique du foie ne suffit pas à expliquer sa fonction symbolique. Dans diverses cultures antiques, les viscères relèvent de plusieurs dispositifs de connaissance et de sensibilité, mais on ne saurait en déduire une origine unique du supplice hésiodique dans l'hépatoscopie mésopotamienne. [H] Un rapprochement entre représentations viscérales et lecture des signes est une piste, non une chaîne de transmission établie. [P] Le foie qui repousse transforme une ressource d'immortalité en instrument de puissance punitive : cela importe plus que la spéculation sur une hypothétique médecine de la régénération.
+
+
+### 29. Une seconde source, un second Prométhée
+
+[A] Le Prométhée enchaîné transmis sous le nom d'Eschyle met au premier plan la parole de résistance et la souffrance infligée au bienfaiteur des hommes ; son attribution exacte à Eschyle est discutée. [T] Ses accents politiques ne doivent pas être projetés directement sur Hésiode. Le texte dramatique donne à la blessure et aux chaînes une autre fonction : manifester l'antagonisme entre justice revendiquée et souveraineté de Zeus. [P] Lire le Prométhée tragique comme modèle intemporel de résistance à l'oppression est possible, à condition d'indiquer l'écart entre lecture actuelle et situation textuelle ancienne.
+
+
+### 30. La mutilation d'Ouranos
+
+[A] Théogonie 154-210 : Cronos tranche les parties génitales d'Ouranos ; le sang versé et l'organe jeté dans la mer produisent des êtres et, pour la mousse marine, la naissance d'Aphrodite. [T] La mutilation remplit ici une fonction de différenciation des générations et de création, non de soin. Elle touche un être primordial sans que le récit propose une clinique de sa guérison. [I] Le motif a des comparanda anatoliens, mais ses configurations textuelles ne se superposent pas. [P] Une rupture de corps marque littérairement le passage d'un ordre de domination à un ordre de succession.
+
+
+## IV. Égypte : œil arraché, œil rendu, puissance transférée
+
+
+### 31. Plusieurs yeux d'Horus
+
+[T] La « légende de l'œil d'Horus » ne se réduit pas à un texte unique. Textes des Pyramides, Textes des Sarcophages, Livre des Morts, textes narratifs ramessides et inscriptions de temples tardifs en proposent des combinaisons variées. [I] Leur mise en série permet d'étudier une transformation des usages, mais non de reconstituer un récit-source original intact. Les yeux peuvent valoir organes blessés, dons au défunt, puissances lunaires ou signes protecteurs. L'érudition doit distinguer ces registres au lieu de produire une fiction linéaire par collage de fragments.
+
+
+### 32. Le récit ramesside : le double arrachement
+
+[A] Papyrus Chester Beatty I, recto, pages 10, lignes 2-5 environ, Contestations d'Horus et de Seth : Seth rencontre Horus endormi et lui arrache les deux yeux, qu'il enterre ; les globes sont associés à des plantes apparues sur la montagne. [T] Il faut préciser « deux yeux » ici, plutôt que répéter la formule simplifiée d'un unique œil perdu. Le papyrus hiératique est un témoin de la XXe dynastie ; il ne constitue ni la source de toutes les variantes ni une transcription de l'ensemble du culte d'Horus.
+
+
+### 33. Hathor, gazelle et guérison
+
+[A] Chester Beatty I, recto, p. 10, lignes 6-10 : Hathor découvre Horus, prend du lait à une gazelle et l'applique aux yeux ; Horus recouvre la vue. [T] Le détail concret du lait est une donnée du récit et non une ordonnance médicale reconstituable. La guérison ne se réduit pas à « Thot rapporte l'œil », formule issue d'autres traditions. [P] Dans ce témoin, le rétablissement de la vision fait intervenir une déesse distincte du blessé et un élément animal ; la recomposition du pouvoir est une relation de soin.
+
+
+### 34. La cécité comme crise politique
+
+[A] Les Contestations mettent en jeu la revendication par Horus de l'héritage d'Osiris et la rivalité de Seth devant un conseil divin. [T] La perte des yeux touche donc un prétendant à la souveraineté, non un personnage choisi au hasard. [I] Le rapprochement entre restauration oculaire et rétablissement des capacités royales est solide comme lecture interne de ce récit ; il serait excessif de le transformer en description d'une cérémonie effective de couronnement. [P] L'œil reconquis figure la possibilité d'une autorité remise en état après la violence concurrente.
+
+
+### 35. Oudjat : rendre entier
+
+[T] Le signe égyptien généralement transcrit wḏꜣt (oudjat, wedjat) est lié à l'idée d'un œil intègre ou sain ; il ne faut pas le prendre pour une simple graphie signifiant « œil blessé ». [A] Les amulettes-oudjat attestées matériellement à de nombreuses périodes emploient ce signe dans des contextes de protection. [I] Le passage de la blessure mythique à la totalité protectrice constitue un mécanisme culturel plausible et documentable. [P] L'objet ne célèbre pas l'absence historique de dommage ; il mobilise symboliquement une intégrité capable d'être retrouvée.
+
+
+### 36. L'œil offert dans les textes funéraires
+
+[A] Les Textes des Pyramides décrivent à plusieurs reprises l'œil d'Horus apporté ou donné au roi défunt, notamment dans les formules d'offrande rituelle ; consulter les « Utterances » et les éditions de Sethe, Faulkner et Allen selon chaque tombe. [T] L'énoncé d'offrande ne doit pas être converti en épisode narratif complet avec Seth, lait et concours royal. [I] Son importance réside dans l'incorporation d'une puissance divine restauratrice aux pratiques funéraires. Les références exactes de chaque formule doivent être établies depuis le témoin cité et non par renvoi vague à « la mythologie égyptienne ».
+
+
+### 37. Le conflit des organes
+
+[A] Dans plusieurs traditions égyptiennes, l'œil atteint d'Horus est mis en rapport avec les testicules blessés ou perdus de Seth. [T] Les attestations ne doivent pas être combinées comme si chaque récit ramesside racontait la totalité du couple œil/testicules. [I] Le couple des blessures suggère une opposition entre capacité de voir, fécondité et autorité, mais le sens précis varie selon les textes. [P] C'est moins une physiologie générale des dieux qu'une grammaire de la rivalité : l'adversaire peut attaquer la faculté corporelle qui fait signe vers sa fonction sociale.
+
+
+### 38. Le rôle de Thot
+
+[A] Dans de nombreuses compositions égyptiennes, Thot est associé au rétablissement ou à l'apport de l'œil d'Horus ; les différentes attestations exigent de spécifier le témoin. [T] Les versions qui mettent en scène Hathor ne deviennent pas pour autant des épisodes erronés ; le dossier est pluriel. [I] Cette pluralité prouve l'existence d'une circulation et d'une réélaboration des motifs au sein de la tradition égyptienne, non une dégradation d'un original perdu. [P] L'œil requiert une médiation de restauration : guérison, mise en parole et comptabilité symbolique peuvent être plusieurs langues d'une même opération de recomposition.
+
+
+### 39. Géométrie de l'œil : une prudence
+
+[T] La célèbre équivalence populaire entre les éléments graphiques de l'oudjat et les fractions 1/2, 1/4, 1/8, etc., doit être traitée avec prudence. Les fonctions des fractions de grain et l'histoire du signe sont complexes ; la reconstitution graphique moderne n'est pas une preuve suffisante d'une théologie des « six sens ». [I] Il serait dommage que l'illustration d'une amulette soutienne une formule numérologique invérifiée. Dans MYTHOS, chaque diagramme devra distinguer la présence archéologique du motif, les usages métrologiques de signes proches et les hypothèses modernes qui les rapprochent.
+
+
+### 40. L'amulettte et les usages sociaux
+
+[A] British Museum, objet EA18251 : petite amulette d'œil-oudjat en or ; objets EA29222 et EA7312 : autres variantes matérielles cataloguées. [T] Une amulette est une chose fabriquée, située dans des pratiques du corps et de la protection. Sa légende de musée peut documenter matériau, dimensions et provenance, non l'intention psychologique exacte de chaque porteur antique. [I] L'emploi répété d'un œil intact comme objet portable élargit la blessure divine au registre de la prophylaxie humaine. [P] Le corps mythique blessé devient un réservoir de puissance pour protéger des corps mortels.
+
+
+### 41. Rê et le venin : renvoi contrôlé
+
+[A] Le récit de la blessure infligée à Rê par le serpent façonné par Isis, pour obtenir son nom secret, est étudié en MC-062 sous l'angle du secret et de la ruse. [T] Ici, il peut seulement servir de contrepoint : une atteinte corporelle révèle une vulnérabilité et conditionne une transaction portant sur l'information. [P] Une puissance solaire blessée ne cesse pas nécessairement d'être cosmique, mais découvre une dépendance circonstancielle. Le développement intégral de ce récit n'est pas répété afin de préserver la spécialisation documentaire de chaque volume.
+
+
+## V. Inde védique : blessures divines et réparation du sacrifice
+
+
+### 42. Le dossier du Śatapatha Brāhmaṇa
+
+[A] Śatapatha Brāhmaṇa, recension Mādhyandina, I.7.4.1-8 : la transgression de Prajāpati suscite la colère des dieux, qui chargent Rudra de le frapper ; une explication rituelle s'articule à la blessure et à la gestion de ce qui est retiré. [T] Il ne s'agit pas d'une épopée comparable à l'Iliade. Le passage constitue une étiologie d'opérations sacrificielles ; son rapport au corps divin est indissociable de la précision des gestes rituels. [P] Il pense le dommage comme anomalie susceptible d'être réinscrite dans un ordre d'offrande.
+
+
+### 43. Prajāpati, désir et faute
+
+[A] Śatapatha Brāhmaṇa I.7.4.1-3 : Prajāpati désire sa propre fille, présentée comme Ciel ou Aurore, et s'unit à elle ; les dieux jugent l'acte transgressif. [T] La qualification de la transgression appartient au texte et doit être explicitement rapportée à sa scène, plutôt qu'attribuée à une morale indienne intemporelle. [I] Le récit met une frontière au comportement du créateur lui-même : son statut ne dispense pas de la réaction des autres dieux. [P] L'origine du monde n'abolit pas la question du juste ; une autorité créatrice peut devenir objet de correction.
+
+
+### 44. Rudra transperce le créateur
+
+[A] I.7.4.3 : sur ordre des dieux, Rudra décoche une flèche contre Prajāpati. [T] Rudra est ici le dieu archétypique de l'atteinte et des dangers ; l'identification avec le Śiva de toutes les littératures postérieures serait anachronique. [P] Le geste introduit une dissociation philosophique : la souveraineté généalogique n'est pas l'absence de sanction. Les dieux exercent un contrôle sur celui qui a créé, et le « père » devient objet d'un geste violent supposé protéger la norme. La scène invite à penser un pouvoir divin pluriel plutôt qu'une hiérarchie indiscutée.
+
+
+### 45. La pointe retirée
+
+[A] I.7.4.4-5 : lorsque la colère divine cesse, Prajāpati est soigné et la pointe de la flèche est retirée ; le texte rapproche Prajāpati du sacrifice. [T] Soigner n'efface pas simplement la faute : le geste s'accompagne d'un problème concernant la part arrachée. [P] La blessure fonde une difficulté d'intégration : comment un ensemble peut-il redevenir entier lorsqu'un fragment s'en détache ? La réponse rituelle est une opération sur une part, pas l'énoncé d'une morale universelle où « souffrir purifie ».
+
+
+### 46. Bhaga perd la vue
+
+[A] I.7.4.6-7 : une portion associée au dommage est proposée à Bhaga ; elle lui brûle les yeux. L'épisode explique la cécité de ce dieu dans le cadre de l'étiologie sacrificielle. [T] Ce n'est pas l'œil d'Horus : l'organe atteint paraît similaire, mais la causalité diffère totalement. [I] L'imbrication entre réception de l'offrande et blessure exprime l'inadaptation d'un résidu encore dangereux à un certain destinataire divin. [P] Le regard détruit renvoie ici à une puissance rituelle mal stabilisée, non à une simple défaite militaire.
+
+
+### 47. Pūṣan perd ses dents
+
+[A] I.7.4.8 : une nouvelle présentation à Pūṣan entraîne la perte de ses dents ; d'autres opérations permettent finalement de traiter la portion. [T] Les dents se distinguent de l'œil et de la plaie par leurs usages alimentaires et leur visibilité. Une pratique rituelle peut recevoir une explication par une anomalie corporelle divine. [P] Le récit ne glorifie pas une essence de « dieu estropié » ; il répartit les dommages comme autant d'indices de la résistance d'une matière sacrificielle à son intégration. La réparation devient une négociation pratique.
+
+
+### 48. Les mots du soin
+
+[T] Pour vérifier le texte sans écraser la sémantique, relever dans l'édition sanskrite les formes du verbe de percer (racine vyadh), du champ de l'apaisement (śam) et le nom de la portion sacrificielle (prāśitra). Les transcriptions latines varient entre traditions éditoriales, particulièrement pour les consonnes rétroflexes et aspirées. [A] Eggeling, Sacred Books of the East, vol. 12 (1882), offre une traduction ancienne consultable ; elle doit être confrontée au sanskrit et à l'histoire des recensions. [P] La philologie évite de réduire le récit à un « dieu qui soigne un autre » en effaçant le protocole rituel.
+
+
+### 49. L'erreur de projection sur Śiva
+
+[T] On rencontre dans des sources puraniques beaucoup plus tardives le motif de la mutilation de Bhaga et de Pūṣan lors du sacrifice de Dakṣa, lié à Śiva et à ses agents. Ce corpus ne doit pas être présenté comme le simple commentaire intemporel de I.7.4. [I] Les continuités religieuses sont importantes, mais les réélaborations sont précisément ce qu'une histoire doit expliquer. [P] Un mythe qui migre d'une économie sacrificielle vers une dramaturgie de dévotion modifie la relation entre blessure et autorité. Le même organe atteint ne porte pas nécessairement la même signification.
+
+
+## VI. Anatolie et Syrie du Nord : mutiler pour succéder
+
+
+### 50. Le chant de Kumarbi, témoin fragmentaire
+
+[A] Le récit de succession céleste connu sous le titre de Chant de Kumarbi ou Royauté dans le ciel est transmis en hittite sur des tablettes de Hattusa ; il relève du catalogue CTH 344 et porte un héritage hourrite. [T] Son état fragmentaire exige de signaler les lacunes : les reconstructions modernes fluidifient parfois la narration. [I] Sa présence en Anatolie du IIe millénaire av. n. è. permet de discuter des relations interculturelles de l'Égée et du Proche-Orient, mais ne fournit pas à elle seule la chaîne exacte d'emprunt d'Hésiode.
+
+
+### 51. Anu mutilé
+
+[A] CTH 344, épisode de renversement d'Anu : Kumarbi saisit son prédécesseur et lui arrache les parties génitales avec les dents ; l'ingestion rend Kumarbi porteur de futures divinités, dont le dieu de l'orage Teššub. [T] Cette mutilation articule succession politique et engendrement. Elle n'est pas une variation du traitement de la main d'Aphrodite. [P] Le pouvoir se transmet par une violence dont les conséquences excèdent l'intention du vainqueur : en blessant Anu, Kumarbi intériorise ce qui annonce son propre dépassement.
+
+
+### 52. Ouranos et Anu : ressemblances, différences
+
+[A] Hésiode, Théogonie 154-210, et CTH 344 donnent tous deux à une blessure des organes génitaux une place dans un changement de souveraineté. [T] Chez Hésiode, Cronos utilise un instrument tranchant, et les effets généalogiques diffèrent ; dans Kumarbi, l'ingestion provoque une gestation chez l'agresseur. [H] Une histoire de contacts orientaux et grecs est plausible au regard des circulations anciennes ; il faut la développer avec des mécanismes attestés et non en remplaçant les différences par un archétype de la « castration du ciel ». [P] Le comparatisme est ici une théorie de transformations, non une liste d'identités.
+
+
+### 53. Écarter les parallèles purement visuels
+
+[T] Des reliefs anatoliens peuvent figurer des dieux armés ou des successions, mais aucune scène ne doit être légendée « Anu mutilé » sans attribution iconographique documentée. [I] La relation entre iconographie de Teššub et texte de Kumarbi demande une enquête distincte sur dates, supports, lieux et identifications. [P] L'illustration universitaire a deux obligations : montrer une chose réellement attestée et dire ce que celle-ci ne montre pas. Un « dessin explicatif contemporain » pourrait être utile, à condition d'être explicitement qualifié de reconstitution interprétative.
+
+
+## VII. Mondes nordiques : donner un œil, recevoir des signes
+
+
+### 54. Óðinn et Mímisbrunnr
+
+[A] Völuspá, strophes généralement numérotées 28-29 selon les éditions, et Snorri Sturluson, Gylfaginning 15 : l'œil d'Óðinn est associé au puits de Mímir ; la prose de Snorri précise le gage remis en échange d'une boisson liée à la sagesse. [T] La Völuspá évoque et dévoile un secret sans raconter toute la scène ; Snorri met en intrigue les conditions de l'échange. [I] La tradition a plusieurs niveaux de mise en texte, et il serait peu exact d'affirmer que le poème raconte lui-même en détail l'arrachement physique de l'œil.
+
+
+### 55. Le gage ne vaut pas une blessure de combat
+
+[T] Une dépossession consentie contre un avantage cognitif est une opération distincte de la cécité infligée à Horus par un adversaire. Aucune guérison oculaire n'est décrite comme terme du contrat d'Óðinn. [P] Le dieu accepte de perdre pour savoir : la diminution d'une faculté sensible est mise en relation avec l'accroissement d'une puissance interprétative. Il ne faut ni présenter cette relation comme une loi anthropologique universelle ni oublier que la source de sagesse et les droits de Mímir appartiennent à un monde mythique historiquement spécifique.
+
+
+### 56. Hávamál : géiri undaðr
+
+[A] Hávamál 138-141 dans la numérotation courante : le locuteur dit avoir été suspendu neuf nuits, blessé par une lance (vieux norrois geiri undaðr) et consacré à Óðinn, lui-même à lui-même ; la scène précède la prise des runes. [T] Certaines éditions et traductions anciennes font varier la numérotation d'une unité. Le mot undaðr indique la blessure, non un écoulement d'un liquide équivalent à l'ichôr homérique. [P] L'épreuve corporelle rend l'obtention du signe irréductible à une instruction intellectuelle abstraite.
+
+
+### 57. La source médiévale ne doit pas disparaître
+
+[T] Le Hávamál est conservé principalement par le Codex Regius de la poésie eddique, manuscrit islandais médiéval ; Snorri compose sa prose dans un autre environnement chrétien du XIIIe siècle. Il ne suffit pas d'annoncer « une religion viking millénaire » pour résoudre ce problème de transmission. [I] Des motifs plus anciens peuvent être présents, mais leur date exacte ne se déduit pas mécaniquement de la copie. [P] Comparer la blessure d'Óðinn à la crucifixion chrétienne peut produire des questions sur réception et sacrifice ; affirmer une dépendance directe sans dossier historique serait une erreur.
+
+
+### 58. La parole blessée et le savoir
+
+[A] Le dispositif poétique associe épreuve, absence d'eau et de nourriture, cri et appropriation des runes (Hávamál 138-139). [T] Le contexte n'offre pas un protocole médical de guérison ni l'identité précise du bois à partir de chaque seule strophe. [P] Le savoir apparaît comme événement transformant un sujet, et non comme possession tranquille d'un maître omniscient. Le corps atteint sert d'interface entre puissance, privation et technique symbolique. La comparaison avec MC-061 est légitime, mais l'objet nouveau est le prix corporel plutôt que la connaissance divine en général.
+
+
+### 59. Baldr : distinguer atteinte mortelle et lésion
+
+[A] Les traditions de Baldr, notamment Gylfaginning 49, mettent en scène un coup mortel et ses conséquences collectives. [T] Ce cas relève au premier chef de MC-058 sur la mort divine ; l'intégrer sans limite dans une histoire des blessures empêcherait de distinguer les seuils. [I] Le dossier montre seulement que les traditions nordiques ne présupposent pas une inviolabilité absolue de tous les dieux. [P] Là où l'Iliade sépare blessure et mortalité, le récit de Baldr révèle une autre configuration du danger : la protection peut échouer de façon irréversible dans un horizon eschatologique.
+
+
+## VIII. Un autre point de vue : traditions mésopotamiennes et contre-exemples
+
+
+### 60. Absence de témoignage n'est pas immunité
+
+[T] Les grands textes mésopotamiens offrent de nombreuses scènes de violence, de mort ou de démembrement, mais ne fournissent pas nécessairement un équivalent strict de la scène homérique d'ichôr soigné. Il est peu méthodique de produire à tout prix une déesse saignant ou un baume appliqué à un dieu pour rendre symétrique notre tableau. [I] Le choix des genres conservés, l'état fragmentaire des tablettes et la diversité des langues (sumérien et akkadien) infléchissent ce que nous pouvons observer. Un silence documentaire est un résultat provisoire, pas la preuve d'une croyance contraire.
+
+
+### 61. Inanna au monde d'en bas : limite du sujet
+
+[A] La Descente d'Inanna dans le monde d'en bas raconte sa mise en dépouille et sa récupération, dans les versions sumériennes ; la Descente d'Ištar est conservée en akkadien avec d'autres éléments. [T] Le traitement principal est la mort ou l'état assimilé au cadavre, plutôt qu'une plaie localisée et réparée. Cette documentation demeure fondamentale mais est étudiée dans MC-058. [P] La différence entre blessure et mort garantit une comparaison plus rigoureuse : nommer tous les récits de privation « corps blessés » ôterait à la catégorie tout contenu discriminant.
+
+
+### 62. Tiāmat : violence cosmique et corps producteur
+
+[A] Enūma eliš IV décrit la victoire de Marduk sur Tiāmat et le partage de son corps dans la réorganisation cosmique. [T] Il s'agit de mort et de partition créatrice, non d'une convalescence divine ou du sang ichôr. [I] Les parallèles de violence anatomique avec Ouranos ou Anu sont interprétables, mais la fonction cosmogonique spécifique et les contextes d'affirmation de Marduk doivent rester au premier plan. [P] Une anatomie mythique peut devenir architecture cosmique ; elle n'est pas ipso facto représentation de souffrance subjective.
+
+
+### 63. L'Epopée d'Erra et la perte d'éclat
+
+[A] Certains récits mésopotamiens associent crise du culte, détérioration des images et retrait ou trouble de la présence divine ; les textes d'Erra requièrent une analyse propre de leurs tablettes et de la restauration de l'ordre. [T] Une statue qui perd son éclat, ou un sanctuaire dévasté, ne sont pas automatiquement le corps biologique blessé d'un dieu. Le dossier se raccorde plutôt aux études MC-047 à MC-050 sur images et présence. [I] Le rapprochement est heuristique seulement s'il respecte la médiation matérielle entre divinité et statue.
+
+
+## IX. Philologie comparée des blessures
+
+
+### 64. Ichôr, haima, anaimones
+
+[A] Le passage-clef de l'Iliade V distingue ἰχώρ (ichôr), αἷμα (haima, sang, dans le vocabulaire grec large) et les dieux décrits par ἀναίμονες, « sans sang » au regard du régime mortel. [T] Une analyse lexicale doit décrire les emplois effectifs, non construire un organisme doctrinal homogène. L'ichôr homérique du chant V ne légitime ni les récits populaires sur un sang systématiquement « doré », ni la transposition automatique aux mythes égyptiens ou hindous. [P] La traduction doit préserver l'étrangeté plutôt que l'effacer sous une biologie imaginaire moderne.
+
+
+### 65. Wḏꜣt, vision et état intègre
+
+[T] Le nom égyptien de l'œil-oudjat, souvent transcrit wḏꜣt, est lié au champ de la bonne intégrité, tandis que le signe de l'œil s'emploie de manière plus large en écriture et en image. [A] Les notices muséales permettent d'identifier certains objets matériellement ; les éditions des corpus expliquent les divers emplois rituels. [P] On ne traduit pas wḏꜣt par ichôr : l'un sert d'objet/signe de restauration, l'autre désigne un liquide de blessure. Leur seul invariant est la relation narrative entre une divinité et une perturbation du corps.
+
+
+### 66. Vyadh et śam : atteinte et apaisement
+
+[T] Dans le Śatapatha Brāhmaṇa I.7.4, la famille verbale de la perforation et les formes relatives à l'apaisement ne décrivent pas un sang particulier. [A] Le sanskrit doit être vérifié sur édition établie, par exemple en contrôlant les formes de vivyādha et śānta dans ce contexte. [P] La réparation y est écrite dans la syntaxe de la transformation rituelle : arrêter la colère, retirer la pointe, traiter la portion et stabiliser l'offrande. Le seul français « soigner » peut cacher cette série d'opérations, qui ne se réduit pas à la médecine.
+
+
+### 67. Vieux norrois : gage, lance, blessure
+
+[A] geiri undaðr dans le Hávamál désigne le sujet atteint par une lance ; la description de la mise en gage d'un œil se transmet par un autre ensemble textuel. [T] Les expressions ne constituent pas un vocabulaire unique de « sacrifice sanglant des dieux ». [P] Un comparatisme fondé sur la perte d'un organe et la quête d'une puissance est recevable ; il devient trompeur s'il substitue une prétendue même racine linguistique aux mots et traditions effectivement employés. L'absence de vocabulaire cognat prouvé interdit les pseudo-étymologies indo-européennes.
+
+
+### 68. Corps et métal dans les traductions
+
+[T] L'anatomie mythique touche parfois des matières de substitution : armes, objets de soin, liquide divin, lait ou amulette. Aucun de ces éléments n'implique l'existence de pratiques techniques identiques entre les sociétés étudiées. L'analyse matérielle doit distinguer un objet archéologique, une métaphore narrative et un instrument de rite. [P] La matérialité ne fait pas disparaître le symbolique ; elle permet de demander comment les représentations de lésions sont devenues manipulables par la parole, l'image, la guérison ou l'usage quotidien.
+
+
+## X. Historiographie critique
+
+
+### 69. L'héritage de Frazer et ses limites
+
+[T] Les comparaisons anciennes de dieux souffrants se sont parfois inscrites dans les théories généralistes de la mort et de la renaissance végétales associées à J. G. Frazer. Cette catégorie est insuffisante pour traiter l'ichôr d'Aphrodite, la cécité de Bhaga ou l'œil consenti d'Óðinn : aucune de ces scènes ne décrit automatiquement le cycle annuel des plantes. [I] Le désir d'une explication commune a eu une fonction historique dans l'histoire des religions, mais sa valeur explicative doit être vérifiée dossier par dossier. Voir le débat traité plus largement en MC-058.
+
+
+### 70. L'orientalisation du mythe grec
+
+[T] M. L. West, Walter Burkert et Carolina López-Ruiz ont montré l'importance de l'examen des relations anciennes entre traditions grecques et orientales. [I] L'existence de contacts ne détermine pas automatiquement un emprunt d'un passage à un autre. Pour Ouranos et Anu, il faut conserver la chronologie des témoins, les différences de structure et le problème des médiateurs linguistiques. [H] On peut étudier la circulation d'un complexe de motifs de succession divine sans pouvoir choisir un trajet unique. Le modèle de réseau est généralement moins arbitraire que le récit d'une influence linéaire assurée.
+
+
+### 71. Les différentes éditions d'un même mythe
+
+[T] La critique textuelle ne permet pas toujours une version totale de l'histoire d'Horus ou de Prométhée. Les variantes, remaniements, silences et lacunes sont des faits à interpréter. [I] L'éditeur universitaire devrait conserver dans ses notes les coordonnées de la source spécifique, et inscrire « version » plutôt que « récit original » lorsqu'il regroupe plusieurs témoignages. [P] Une mythologie qui assume ses transformations devient historiquement plus intelligible qu'un recueil de résumés harmonisés : elle rend visible le travail des sociétés sur leurs propres figures.
+
+
+### 72. Contre la médecine rétrospective
+
+[T] L'ichôr homérique, le lait de gazelle d'Hathor et le prāśitra védique ne doivent pas être identifiés aux remèdes d'une médecine anatomique universelle. On peut comparer leurs modes de fonctionnement dans le récit, pas recommander une thérapeutique ni reconstruire sans témoin des pharmacopées. [I] Les continuités entre religion, soin et connaissance empirique diffèrent selon contextes et périodes. [P] Le danger est de transformer le corps mythique en dossier clinique et d'expliquer sa guérison comme si la fiction devait satisfaire les règles de la physiologie contemporaine.
+
+
+### 73. Le handicap sans anachronisme
+
+[T] La boiterie d'Héphaïstos est textuellement attestée, mais nos catégories de handicap, capacitisme, réparation ou inclusion sont contemporaines. [P] Elles peuvent fournir une interrogation critique sur les rapports entre dignité, technique et norme corporelle. [I] Elles ne suffisent pas à attribuer aux Grecs des politiques sociales modernes ni une interprétation univoque de la différence corporelle. Les récits d'exclusion et de retour éclairent néanmoins une tension profonde : l'anomalie corporelle ne supprime pas la puissance, mais peut affecter la reconnaissance publique.
+
+
+## XI. Théorie comparative : cinq régimes de vulnérabilité
+
+
+### 74. Blesser pour vaincre
+
+[A] Diomède et l'aide d'Athéna atteignent Arès, tandis que Cronos s'en prend au corps d'Ouranos ; ces deux violences servent cependant des configurations différentes. [T] La blessure militaire du chant V est suivie d'un soin et d'un jugement familial ; la mutilation théogonique transforme la succession. [P] Le corps touché peut signifier qu'un pouvoir est contestable, mais le type de contestation varie : compétition à l'intérieur de l'Olympe d'un côté, renversement générationnel de l'autre. Une théorie comparative solide conserve cette bifurcation.
+
+
+### 75. Blesser pour réguler
+
+[A] Prajāpati est frappé après une transgression jugée par les dieux ; la blessure s'inscrit ensuite dans le rite. [T] La scène ne correspond pas au cas où un héros gagne momentanément un combat, ni à celui où un père céleste est démembré pour laisser place à de nouvelles générations. [P] Elle pose l'idée qu'une autorité créatrice peut être soumise à un ordre normatif collectif. Une telle idée n'est pas « la constitution des dieux » au sens moderne, mais elle distingue l'ordre d'une volonté sans limite.
+
+
+### 76. Blesser pour savoir
+
+[A] Óðinn remet un œil en gage et se trouve blessé par une lance dans deux ensembles eddiques distincts. [T] La première scène concerne le coût d'un accès à la source de Mímir ; la seconde l'acquisition des runes. Il ne faut pas les fusionner en une unique intervention chirurgicale du savoir. [P] Elles associent cependant l'épreuve à une augmentation de puissance cognitive. Le dieu connaît par une expérience dont il garde une marque corporelle, et non par la simple omniscience théologique que d'autres traditions attribuent à Dieu.
+
+
+### 77. Blesser pour protéger
+
+[A] L'œil-oudjat est attesté en égyptien comme marqueur d'intégrité et dans des amulettes. [T] La chaîne entre une violence mythique et un usage protecteur n'est pas identique dans chaque objet, mais elle rend historiquement visible un changement de registre : du corps du dieu à celui de l'utilisateur. [P] La blessure restaurée devient un signe positif précisément parce qu'elle contient la mémoire d'un dommage surmontable. Elle ne signifie pas que la vie humaine échappe à la souffrance, mais que le rite peut rendre manipulable une promesse de totalité.
+
+
+### 78. Blesser pour punir
+
+[A] Le foie régénéré de Prométhée permet la répétition de son supplice. [T] La situation diffère du soin de Paiéon : le retour à l'intégrité n'est pas nécessairement une faveur. [P] Une technologie de réparation peut être liée à une structure de domination lorsqu'elle rétablit l'objet de la peine pour mieux reconduire le dommage. Cette contradiction distingue les récits antiques de toute philosophie simple où guérison signifierait toujours libération. Elle oblige à examiner le sujet qui décide du soin et la finalité assignée à son corps.
+
+
+### 79. Une matrice des opérations
+
+[T] Les cinq régimes sont des types idéaux et non des classifications closes : compétitif (Iliade V), normatif-rituel (Prajāpati), épistémique (Óðinn), prophylactique (œil-oudjat), pénal (Prométhée). Les scènes de succession violente de Kumarbi et d'Ouranos ajoutent une dimension généalogique qui traverse plusieurs registres. [P] Toute typologie est un outil de lecture : elle s'améliore lorsqu'elle produit des différences contrôlables et révèle ses propres limites. Elle échoue lorsqu'elle prétend énoncer le « sens » secret de chaque culture.
+
+
+## XII. Lectures philosophiques explicitement contemporaines
+
+
+### 80. Platon : conflit entre poète et théologien
+
+[A] République II, 377e-383c, critique plusieurs récits sur les dieux et pose des critères de bonté et de stabilité divines. [T] Ce programme philosophique n'est pas une description neutre des pratiques religieuses de tous les Grecs. [P] L'idée d'un dieu parfait rend suspectes les scènes d'humiliation ou de cruauté ; en retour, les textes homériques mettent en évidence la richesse des puissances affectables. Notre lecture ne tranche pas « qui a raison » : elle situe la blessure à la frontière d'une poétique du conflit et d'une théologie normative.
+
+
+### 81. Aristote : la puissance ne se réduit pas à l'intégrité
+
+[P] La distinction aristotélicienne entre puissance et acte peut servir de discipline conceptuelle : un dommage n'est pas en soi un critère universel du degré ontologique d'un être. Les dieux homériques ne relèvent cependant pas directement de la théologie du Premier moteur de Métaphysique Λ, 1072b. [T] Mettre les deux textes sur le même plan serait fabriquer un consensus grec inexistant. Une discussion philosophique sérieuse reconnaît que les récits sont des œuvres situées, alors que les concepts métaphysiques visent un autre genre de justification.
+
+
+### 82. Hegel : négativité et médiation
+
+[P] Avec prudence, le vocabulaire hégélien de la négativité permet d'interroger une puissance qui ne s'affirme qu'à travers un dommage et une médiation : l'œil d'Horus est restitué, l'ordre sacrificiel reconfigure la part arrachée de Prajāpati. [T] Il ne s'agit pas d'affirmer qu'Hegel aurait « expliqué » ces mythes par avance. La souffrance n'est pas mécaniquement un progrès dialectique ; l'ichôr d'Arès peut servir un conflit comique et politique sans ouvrir une histoire universelle de la reconnaissance. [P] La négation change de sens selon ce qu'elle transforme.
+
+
+### 83. Nietzsche : Prométhée et l'ambivalence de la grandeur
+
+[A] La Naissance de la tragédie, notamment §9, propose une lecture moderne de Prométhée, du crime et du conflit entre puissances. [P] Cette réflexion permet de demander si le caractère créateur d'un acte peut coexister avec son prix douloureux, sans présenter la douleur comme une justification morale automatique. [T] Les textes hésiodique et dramatique ne parlent pas d'une même voix ; la lecture nietzschéenne est un troisième objet, historiquement situé au XIXe siècle. [P] La blessure peut devenir signe de tension entre audace, loi et possibilité de dépasser un ordre établi.
+
+
+### 84. Ricœur : la symbolique du mal
+
+[P] La Symbolique du mal (1960) de Paul Ricœur offre une méthode de prudence : le mythe donne à penser au lieu de fournir directement une thèse conceptuelle. La blessure de Prajāpati n'est pas une preuve expérimentale que toute faute cause lésion ; elle rend narrable un rapport complexe entre acte, jugement, expiation et réintégration. [T] Le contexte rituel védique ne se confond pas avec les traditions que Ricœur analyse. [P] L'intérêt est herméneutique : ne pas réduire un symbole à un diagnostic, ni interpréter le récit comme un code moral déjà traduit.
+
+
+### 85. Canguilhem : normalité et pouvoir de vivre
+
+[P] Dans Le Normal et le Pathologique, Georges Canguilhem distingue notamment santé et simple conformité statistique. Ce cadre peut poser une question critique sur Héphaïstos : quelle mesure du corps fait paraître le dieu déficient, et pourquoi ses aptitudes créatrices invalident-elles une hiérarchie simpliste ? [T] On ne doit pas en inférer que les Grecs possédaient la médecine philosophique de Canguilhem. L'outil contemporain permet seulement de lire l'écart entre blessure, capacité, norme imposée et possibilité de produire un monde d'objets.
+
+
+### 86. Judith Butler : vulnérabilité et reconnaissance
+
+[P] Les travaux de Judith Butler sur la vulnérabilité et les cadres de reconnaissance permettent d'interroger l'inégale valeur attribuée aux souffrances. Aphrodite, Arès, Héphaïstos et Prométhée ne sont pas accueillis de la même manière par leurs proches ou leurs juges. [T] Les rapports antiques entre mortels et immortels ne reproduisent pas des structures sociales contemporaines ; une analogie politique ne doit pas dissimuler la différence historique. [P] L'essentiel est la question des institutions du regard : une blessure ne devient grief public que si quelqu'un l'entend, l'atteste et reconnaît sa portée.
+
+
+### 87. La souveraineté blessée n'est pas la souveraineté finie
+
+[P] L'ensemble du corpus invite à refuser deux raccourcis opposés : « un dieu blessé est un dieu faux » et « un dieu blessé est plus humain donc plus vrai ». Les deux propositions supposent une définition universelle de Dieu dont nous ne disposons pas pour des religions différentes. [T] Les personnages anciens portent des titres, des fonctions et des relations qui n'entrent pas facilement dans un cadre monothéiste unifié. [P] La souveraineté blessée désigne ici une question : comment autorité, intégrité et dépendance coexistent-elles dans une figure que le récit dit supérieure aux hommes ?
+
+
+## XIII. Dossier de sources primaires : localisation et contrôle
+
+
+### 88. Homère, Iliade : unités vérifiables
+
+[A] Iliade I, 586-594 (chute d'Héphaïstos) ; V, 127-132 (instructions d'Athéna à Diomède), V, 311-351 (Aphrodite blessée et ichôr), V, 381-417 (précédents et apaisement par Dioné), V, 855-906 (Arès atteint puis guéri), XVIII, 394-422 (autre récit d'Héphaïstos), XXI, 479-513 (Artémis humiliée). Éditions de travail : Homeri Ilias, éd. M. L. West, Teubner, 1998-2000 ; traduction A. T. Murray, Loeb, revue et contextualisée ; consultation numérique Perseus/Tufts : https://www.perseus.tufts.edu/ et texte Iliade V : https://www.theoi.com/Text/HomerIliad5.html. [T] Les numéros renvoient aux vers grecs, non aux lignes d'une page web.
+
+
+### 89. Hésiode et théâtre : unités vérifiables
+
+[A] Hésiode, Théogonie 154-210 (Ouranos), 507-616 et surtout 521-529 (Prométhée et foie régénéré). Texte et traduction contrôlables au Center for Hellenic Studies de Harvard : https://chs.harvard.edu/primary-source/hesiod-theogony-sb/. [A] Prométhée enchaîné, attribué traditionnellement à Eschyle ; ne pas masquer le débat sur l'attribution dans la notice. [T] Les lectures du drame doivent être reconstruites dans le détail des épisodes, non comme explication automatique de la version hésiodique.
+
+
+### 90. Égypte : inventaires et édition
+
+[A] Papyrus Chester Beatty I, recto, p. 10, lignes 2-10, épisode de Seth, Horus et Hathor dans les Contestations ; édition de A. H. Gardiner, The Library of A. Chester Beatty: Description of a Hieratic Papyrus with a Mythological Story, Love-Songs, and Other Miscellaneous Texts, Oxford, 1931. Notice/édition conservée par la Chester Beatty Library : https://chesterbeatty.ie/assets/uploads/2018/11/The-Library-of-A.-Chestera-Beatty-Description-of-a-Hieratic-Papyrus-with-a-Mythological-Story-Love-Songs-and-Other-Miscellaneous-Texts.pdf. [T] Les Textes des Pyramides et les offrandes d'œil doivent être cités par numéro de formule et pyramide dans tout approfondissement ponctuel ; une comparaison intertextuelle ne dispense pas de cette précision.
+
+
+### 91. Inde : subdivisions et édition
+
+[A] Śatapatha Brāhmaṇa Mādhyandina I.7.4.1-8 ; traduction J. Eggeling, Sacred Books of the East 12, Oxford, 1882, avec texte sanskrit contrôlable par les éditions de recension. Lecture de contrôle de la version anglaise : https://www.wisdomlib.org/hinduism/book/satapatha-brahmana-english/d/doc63143.html ; voir aussi l'édition numérisée : https://druvx13.github.io/Hinduism/sbr/sbe12/sbe1233.htm. [T] Signaler les divergences de numérotation lorsqu'on passe aux éditions Kāṇva ou aux récits puraniques ; ne pas attribuer rétrospectivement la totalité du récit à Śiva sans analyse de transmission.
+
+
+### 92. Anatolie : un témoin, une édition critique
+
+[A] Chant de Kumarbi / Royauté dans le ciel, CTH 344, fragments hittites de Hattusa ; analyse à confronter avec H. A. Hoffner Jr., Hittite Myths, 2e éd., Scholars Press, 1998, chapitres sur les cycles de Kumarbi. [T] Les restitutions en crochets et les passages manquants doivent être maintenus lors d'une édition exhaustive ; le résumé comparatif ne remplace pas la translittération de tablette. Pour une localisation secondaire et une présentation signalant les lacunes : https://mythosatlas.com/stories/song-of-kumarbi ; cette page est une reformulation moderne, non une édition critique.
+
+
+### 93. Scandinavie : poème et prose séparés
+
+[A] Poetic Edda, Hávamál 138-141 selon la numérotation éditoriale courante, et Völuspá 28-29 ; Snorri Sturluson, Edda, Gylfaginning 15 et 49. Éditions de référence : Gustav Neckel / Hans Kuhn, Edda, Heidelberg ; Carolyne Larrington, The Poetic Edda, Oxford, 2014 ; Anthony Faulkes, Edda: Prologue and Gylfaginning, Viking Society, 2005. [T] Les repères strophiques de traductions anciennes peuvent diverger ; « geiri undaðr » est vérifiable dans la langue originale. Le Codex Regius ne doit pas être confondu avec un manuscrit du temps de la conversion scandinave.
+
+
+## XIV. Bibliographie critique commentée
+
+
+**Sélection bibliographique** (les ouvrages modernes fondent le contexte, non les attestations antiques ; les références critiques ne sont pas des légendes d'images) :
+
+1. Allen, James P. The Ancient Egyptian Pyramid Texts. 2e éd. Society of Biblical Literature, 2015. Édition/traduction de référence pour les formules funéraires.
+
+2. Assmann, Jan. Death and Salvation in Ancient Egypt. Cornell University Press, 2005. Culture funéraire et puissance du rétablissement.
+
+3. Baines, John. Visual and Written Culture in Ancient Egypt. Oxford University Press, 2007. Méthode de contextualisation de l'image.
+
+4. Beckman, Gary. « The Religion of the Hittites », The Biblical Archaeologist 52, nos 2-3 (1989), p. 98-108, DOI 10.2307/3210202. Contexte religieux de l'Anatolie hittite.
+
+5. Burkert, Walter. The Orientalizing Revolution: Near Eastern Influence on Greek Culture in the Early Archaic Age. Harvard University Press, 1992. Contacts et comparaison critique.
+
+6. Butler, Judith. Precarious Life: The Powers of Mourning and Violence. Verso, 2004. Outil philosophique contemporain, pas source antique.
+
+7. Canguilhem, Georges. Le Normal et le Pathologique. PUF, 1966 (travaux initiaux 1943). Norme, santé et capacité.
+
+8. Clay, Jenny Strauss. The Wrath of Athena: Gods and Men in the Odyssey. Princeton University Press, 1983. Configuration des rapports divins et humains.
+
+9. de Velde, Herman te. Seth, God of Confusion. Brill, 1967. Conflits et polyvalence de Seth.
+
+10. Doniger O'Flaherty, Wendy. The Origins of Evil in Hindu Mythology. University of California Press, 1976. Prudence comparative sur faute et divinité.
+
+11. Eggeling, Julius, trad. The Śatapatha-Brāhmaṇa, Part I. Sacred Books of the East 12, Clarendon Press, 1882. Traduction historique à contrôler.
+
+12. Faulkes, Anthony, éd. Snorri Sturluson: Edda, Prologue and Gylfaginning. Viking Society for Northern Research, éd. révisée, 2005.
+
+13. Frazer, James George. The Golden Bough. Éditions successives à partir de 1890. Importance historiographique et limites.
+
+14. Gardiner, Alan H. The Library of A. Chester Beatty: Description of a Hieratic Papyrus with a Mythological Story, Love-Songs, and Other Miscellaneous Texts. Oxford University Press, 1931.
+
+15. Griffiths, J. Gwyn. The Conflict of Horus and Seth. Liverpool University Press, 1960. Analyse des variantes égyptiennes.
+
+16. Hegel, G. W. F. Wissenschaft der Logik / Science de la logique, 1812-1816. Cadre herméneutique, non preuve historique.
+
+17. Hesiod. Theogony, éd. M. L. West. Oxford University Press, 1966. Texte, variantes et commentaire.
+
+18. Hoffner, Harry A. Jr. Hittite Myths. 2e éd. Scholars Press, 1998. Textes d'Anatolie ancienne.
+
+19. Homer. Ilias, éd. Martin L. West. Teubner, 1998-2000. Établissement du texte et apparat critique.
+
+20. Jamison, Stephanie W., et Joel P. Brereton. The Rigveda: The Earliest Religious Poetry of India. Oxford University Press, 2014. Contexte religieux védique.
+
+21. Larrington, Carolyne, trad. The Poetic Edda. Oxford University Press, éd. révisée, 2014. Traduction et commentaires.
+
+22. Lichtheim, Miriam. Ancient Egyptian Literature, vol. II: The New Kingdom. University of California Press, 1976. Traduction et présentation des Contestations.
+
+23. Lindow, John. Norse Mythology: A Guide to the Gods, Heroes, Rituals, and Beliefs. Oxford University Press, 2001. Repères de transmission.
+
+24. López-Ruiz, Carolina. When the Gods Were Born: Greek Cosmogonies and the Near East. Harvard University Press, 2010. Transformations comparables.
+
+25. Nagy, Gregory. The Best of the Achaeans: Concepts of the Hero in Archaic Greek Poetry. Johns Hopkins University Press, 1979. Le cadre héroïque grec.
+
+26. Nietzsche, Friedrich. Die Geburt der Tragödie, 1872, §9. Lecture moderne du conflit prométhéen.
+
+27. Pinch, Geraldine. Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions of Ancient Egypt. Oxford University Press, 2002.
+
+28. Ricœur, Paul. Finitude et culpabilité, t. II : La Symbolique du mal. Aubier, 1960. Méthode philosophique de lecture des mythes.
+
+29. Smith, Jonathan Z. Drudgery Divine: On the Comparison of Early Christianities and the Religions of Late Antiquity. University of Chicago Press, 1990. Critique de comparaisons non contrôlées.
+
+30. Vernant, Jean-Pierre. Mythe et pensée chez les Grecs. Maspero, 1965. Pour les catégories grecques du récit et du social.
+
+31. West, Martin L. The East Face of Helicon: West Asiatic Elements in Greek Poetry and Myth. Oxford University Press, 1997. Parallèles gréco-orientaux.
+
+32. West, Martin L. The Making of the Iliad: Disquisition and Analytical Commentary. Oxford University Press, 2011. Problèmes de composition homérique.
+
+33. Wilkinson, Richard H. The Complete Gods and Goddesses of Ancient Egypt. Thames & Hudson, 2003. Iconographie et typologies divines.
+
+34. Yoffee, Norman (dir.). Myths of the Archaic State. Cambridge University Press, 2005. Comparaisons prudentes du lien entre récits et pouvoir.
+
+
+## XV. Programme iconographique sourcé et règles d'intégration
+
+
+**I01 — Œil-oudjat en or, British Museum, EA18251** — Source : https://www.britishmuseum.org/collection/object/Y_EA18251 ; Document matériel de protection. Légende : amulette d'or en forme d'œil-oudjat ; ne pas la décrire comme représentation de Seth arrachant l'œil. Demander/contrôler les droits de réemploi de la photographie du musée.
+
+
+**I02 — Œil-oudjat polychrome, British Museum, EA29222** — Source : https://www.britishmuseum.org/collection/object/Y_EA29222 ; Montrer la diversité matérielle du motif. Comparaison typologique, aucune prétention de provenance mythique précise.
+
+
+**I03 — Œil-oudjat en matière vitreuse, British Museum, EA7312** — Source : https://www.britishmuseum.org/collection/object/Y_EA7312 ; Comparer couleur, taille, perforation et usage possible ; recouper date et provenance sur la notice au moment de l'intégration.
+
+
+**I04 — Retour d'Héphaïstos, cratère attique de Lydos, Metropolitan Museum, notice 253349** — Source : https://www.metmuseum.org/art/collection/search/253349 ; Scène de réintégration à l'Olympe ; ne pas la présenter comme illustration littérale de la chute dans Iliade I ou XVIII. Consulter l'éligibilité Open Access sur la notice.
+
+
+**I05 — Plaque de texte de l'Iliade V, vers 334-342** — Source : https://www.theoi.com/Text/HomerIliad5.html ; Créer une planche typographique originalement composée : grec, translittération, traduction française de travail. Pas d'image photographique d'une édition sous droits.
+
+
+**I06 — Papyrus Chester Beatty I, Contestations d'Horus et de Seth** — Source : https://chesterbeatty.ie/ ; Image d'un passage hieratique seulement après identification du feuillet précis et autorisation éventuelle ; le site d'institution sert à localiser le fonds, non à prouver l'accessibilité d'un cliché réutilisable.
+
+
+**I07 — Schéma synoptique d'Horus en trois versions** — Source : https://chesterbeatty.ie/assets/uploads/2018/11/The-Library-of-A.-Chestera-Beatty-Description-of-a-Hieratic-Papyrus-with-a-Mythological-Story-Love-Songs-and-Other-Miscellaneous-Texts.pdf ; Illustration créée par MYTHOS, à trois colonnes : récit ramesside, formules funéraires, objets-oudjat. Chaque flèche porte une attestation ; ne pas fusionner les variantes.
+
+
+**I08 — Planche « blessures » de l'Iliade V** — Source : https://beta.perseus.tufts.edu/urn:cts:greekLit:tlg0012.tlg001.perseus-eng3:5.899/ ; Diagramme documentaire : Aphrodite-Dioné, Arès-Paiéon, Hadès-Paiéon. Mentionner qu'aucun texte ne qualifie l'ichôr de « doré ».
+
+
+**I09 — Chaîne rituelle du Śatapatha Brāhmaṇa I.7.4** — Source : https://www.wisdomlib.org/hinduism/book/satapatha-brahmana-english/d/doc63143.html ; Schéma original : Prajāpati / Rudra / portion / Bhaga / Pūṣan / apaisement. Référence textuelle à chaque étape ; aucune reconstitution d'une cérémonie précisément datée.
+
+
+**I10 — Le supplice de Prométhée dans Hésiode** — Source : https://chs.harvard.edu/primary-source/hesiod-theogony-sb/ ; Planche de lignes 520-529, non une image générique d'un homme enchaîné. Pour une céramique antique, rechercher inventaire muséal et attribution avant de sélectionner une photographie.
+
+
+**I11 — Carte critique Hattusa / mer Égée** — Source : https://mythosatlas.com/stories/song-of-kumarbi ; Carte géographique originale avec lieux connus et zones de circulation présumées clairement signalées comme hypothétiques. Ne dessiner aucune « route d'emprunt » démontrée sans preuve.
+
+
+**I12 — Carte des témoins nordiques** — Source : https://www.vsnrweb-publications.org.uk/ ; Carte documentaire des manuscrits, de l'Islande et de la tradition eddique, distincte de la géographie mythique d'Yggdrasill.
+
+
+**I13 — Tableau de philologie comparée** — Source : https://www.perseus.tufts.edu/ ; Grec ichôr, égyptien wḏꜣt, sanskrit vivyādha et śānta, norrois geiri undaðr ; police Unicode et relecture scientifique, sans faux hiéroglyphes ou runes décoratives.
+
+
+**I14 — Figure des cinq régimes de vulnérabilité** — Source : https://chs.harvard.edu/primary-source/hesiod-theogony-sb/ ; Infographie originale : combat, rite, connaissance, protection, peine. Chaque branche ancrée dans un texte précis et précédée de la mention « modélisation comparative moderne ».
+
+
+## XVI. Conclusion et limites de la livraison
+
+
+Les récits réunis ne disent pas « la même chose » dans plusieurs langues. L'ichôr d'Aphrodite n'est pas l'œil-oudjat ; la flèche de Rudra n'est pas le gage d'Óðinn ; le foie de Prométhée n'a pas la même fonction que la mutilation d'Anu. Pourtant, ils permettent de tester une hypothèse commune et falsifiable : **la lésion d'un corps divin sert à mettre en relation la puissance avec une limite**, sans transformer nécessairement son possesseur en mortel.
+
+[A] L'Iliade distingue explicitement la physiologie divine et la mortalité humaine ; l'Égypte atteste de multiples œils restaurés et des amulettes de protection ; le Brāhmaṇa relie la blessure d'un créateur au problème d'une offrande à pacifier ; les textes nordiques inscrivent des pertes corporelles dans l'accès au savoir ; le monde hourrite transmis en hittite lie une mutilation à l'épreuve de la royauté. [I] Les contacts documentables ne suffisent pas toujours à choisir une origine commune. [P] Les catégories de norme, négativité, connaissance et vulnérabilité éclairent les textes uniquement si elles restent identifiées comme lectures modernes.
+
+**Résultat philosophique.** Un être peut être supérieur à l'homme par son rang, sa durée ou son pouvoir et néanmoins dépendre d'un autre pour guérir, savoir, être réintégré ou faire reconnaître sa plainte. Une métaphysique de l'invulnérabilité ne recouvre donc qu'une partie des imaginaires du divin ; une mythologie de la « souffrance universelle » en recouvre une autre, trop extensive. Ce qui importe historiquement est le type de relation rendu possible par chaque blessure.
+
+**Lacunes ouvertes** : collation ligne par ligne des différentes formules des Textes des Pyramides relatives à l'œil, translittération intégrale du passage CTH 344 à partir de l'édition scientifique, vérification par manuscrit du détail des variantes nordiques et comparaison des recensions du Brāhmaṇa. Ces travaux exigent des éditions critiques et ne sont pas tenus pour accomplis ici. Cette livraison fournit un dossier raisonné mais n'est pas une édition diplomatique de l'ensemble des textes.
+
+**État éditorial de ce fichier :** manuscrit pour editorial/inbox. Aucun numéro romain n'est prédéterminé ; le pipeline assure les allocations. Les objets et documents iconographiques sont des propositions vérifiables, non des images intégrées à bobmythos.fr. Aucune autre série automatique MYTHOS ni aucune planification n'est modifiée.
