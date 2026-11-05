@@ -1,0 +1,38 @@
+{
+  "id": "DID-APO-001",
+  "slug": "didymes-temple-apollon-chantier-hellenistique-vers-200-av-jc",
+  "title": "Didymes — temple d’Apollon, chantier hellénistique et adyton à ciel ouvert",
+  "period": "Évocation vers 200 av. J.-C. (chantier des IIIe–IIe siècles av. J.-C. ; état architectural hypothétique)",
+  "image": "/assets/reconstitutions-3d/didymes-temple-apollon-chantier-hellenistique-vers-200-av-jc.webp",
+  "caption": "Panorama photoréaliste interprétatif du Didyméion au cours d’un chantier hellénistique : monument ionique à double colonnade, cour sacrée à ciel ouvert et édicule intérieur. La disposition exacte des éléments vers 200 av. J.-C. n’est pas établie.",
+  "commentary": "À Didymes, près de Milet sur la côte occidentale de l’Asie Mineure, le sanctuaire oraculaire d’Apollon abritait un grand temple ionique reconstruit à partir de la fin du IVe siècle av. J.-C. Les rapports de chantier grecs des IIIe–IIe siècles av. J.-C. étudiés par l’Institut archéologique autrichien et le Deutsches Archäologisches Institut documentent un programme monumental resté inachevé au terme de plusieurs siècles de travaux. Le plan du temple associe une colonnade périphérique double, un pronaos monumental et un adyton ouvert au ciel, avec un édicule cultuel intérieur. L’image illustre librement une phase de construction vers 200 av. J.-C. et ne prétend pas restituer le degré réel d’achèvement à cette date. Les hauteurs des colonnes figurées, leur nombre déjà dressé, les échafaudages, engins de levage, blocs en attente, accès, naiskos, statue de culte, rituels, végétation, terrain et horizon côtier sont des propositions graphiques. Les inscriptions comptables et les vestiges archéologiques documentent la longue histoire du chantier, mais ne valident ni cette composition particulière ni ses détails visuels. Cette création est une image numérique à apparence 3D, non un modèle archéologique métrique.",
+  "certainty": {
+    "high": "Existence de l’oracle et du grand sanctuaire d’Apollon à Didymes ; programme de construction hellénistique ; plan ionique monumental à double péristyle et adyton ouvert ; durée exceptionnelle du chantier, demeuré inachevé.",
+    "medium": "Organisation relative des grands espaces, présence d’un édicule cultuel dans l’adyton, emploi de marbre et de dispositifs de chantier à l’époque hellénistique.",
+    "low": "Degré précis de construction vers 200 av. J.-C., nombre et hauteur des colonnes dressées, position des grues et échafaudages, taille de l’édicule, statue et rites, polychromie, détails des toitures, relief exact, végétation et vue sur la mer."
+  },
+  "sources": [
+    {
+      "label": "Institut archéologique autrichien (ÖAW/ÖAI) — rapports de construction du temple de Didymes",
+      "url": "https://www.oeaw.ac.at/en/oeai/research/classical-studies/history-of-ancient-law-and-papyrology/new-edition-of-the-building-reports-from-didyma"
+    },
+    {
+      "label": "Deutsches Archäologisches Institut — chantier du temple, fouilles 2021–2022 (2023)",
+      "url": "https://publications.dainst.org/journals/efb/article/view/4075"
+    },
+    {
+      "label": "Perseus — Didyma, sanctuaire et architecture",
+      "url": "https://perseus-aa.github.io/items/aa_3921.html"
+    },
+    {
+      "label": "Journal of Hellenic Studies — le temple d’Apollon et sa fonction",
+      "url": "https://www.cambridge.org/core/journals/journal-of-hellenic-studies/article/abs/temple-of-apollo-at-didyma-the-building-and-its-function/2A035720615E1A158D935BA960C4052B"
+    }
+  ],
+  "width": 1672,
+  "height": 941,
+  "sha256": "4b4843435ec2c6bc7d62a3867ec59e2416f49649ed06e63b6a90ebf772320e90",
+  "created_at": "2026-11-05",
+  "publication_status": "committed_to_GitHub; public_URL_pending_independent_verification",
+  "rights_and_method": "Image originale générée numériquement, convertie en WebP sans menu ni texte dans les pixels. Illustration interprétative à apparence 3D, non relevé photogrammétrique ni modèle métrique. Aucun organisme cité ne valide cette scène ni la chronologie exacte des détails figurés."
+}
