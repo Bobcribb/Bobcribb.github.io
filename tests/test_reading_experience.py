@@ -124,6 +124,32 @@ class ReadingTests(unittest.TestCase):
             self.assertEqual(article['excerpt'],'Le sanctuaire se trouve dans le Péloponnèse.')
             self.assertIn('data-reading-owned', (out/'sanctuaire.html').read_text())
 
+    def test_compact_search_keeps_facets_and_deep_heading_terms(self):
+        import json
+        from improve_reading import compact_search_index
+        full = [{
+            'id': 'MYT-1', 'url': '/etude/', 'title': 'Œdipe et Hésiode',
+            'excerpt': 'Comparaison des sources grecques.',
+            'headings': 'Cosmogonie égyptienne et Théogonie ' * 28,
+            'collection': 'Encyclopédie grecque', 'minutes': 12,
+            'authors': ['Hésiode'], 'works': ['Théogonie'],
+            'themes': ['Création du monde'], 'civilizations': ['Grèce'],
+            'text_sha256': 'a' * 64, 'source_sha256': 'b' * 64,
+            'source': 'chapitres/encyclopedie/etude.md',
+        }]
+        light = compact_search_index(full)
+        self.assertEqual(len(light), 1)
+        item = light[0]
+        self.assertEqual(item['url'], '/etude/')
+        self.assertEqual(item['works'], ['Théogonie'])
+        self.assertEqual(item['civilizations'], ['Grèce'])
+        self.assertIn('oedipe', item['search_text'])
+        self.assertIn('egyptienne', item['search_text'])
+        self.assertIn('hesiode', item['search_text'])
+        self.assertNotIn('source_sha256', item)
+        self.assertNotIn('headings', item)
+        self.assertLess(len(json.dumps(light)), len(json.dumps(full)))
+
     def test_no_false_author_from_article_prose(self):
         doc=self.document();doc.p.string='Nietzsche et Hegel commentent des mythes.'
         entry=metadata({'url':'/sources/','title':'Sources anciennes','excerpt':''},doc)
