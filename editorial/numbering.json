@@ -3241,6 +3241,12 @@
           "path": "chapitres/comparatif/volume-cclxxxii-mc-090-oreilles-des-dieux-ex-voto-auriculaires-prieres-entendues-ptah-amon-epekoos.md",
           "request_sha256": "d72257c68611dec804cac19b1b0b285096818c6a11f54168181d03eea5bb6a3c",
           "initial_source_sha256": "0650d726b42fe555fb03fac79e345633226ece3853196908c64baa9c2b4cce75"
+        },
+        "7c90ba20-60e5-454a-8a3c-202611050091": {
+          "number": 283,
+          "path": "chapitres/comparatif/volume-cclxxxiii-mc-091-jeu-sacre-senet-ur-des-mahabharata-voluspa-popol-vuh.md",
+          "request_sha256": "e4e14678b76f262f8af7a84558cde558923d970c795339d79a67a6329ea2a74f",
+          "initial_source_sha256": "2d8f57945d416bb0b24cfffd20fa2baa517c75c154c48dfa6d5eed3ca95cb060"
         }
       }
     }
