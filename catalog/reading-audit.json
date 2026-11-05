@@ -5,16 +5,5 @@
   "readers_equipped": 1017,
   "links_checked": 124847,
   "new_navigation_errors": [],
-  "legacy_link_issues": [
-    {
-      "page": "/chapitres/comedies/volume-099-philonikos-poete-comique-victoire-leneennes-inscription-ig2325-memoire/index.html",
-      "url": "/comedies-grecques/",
-      "problem": "fichier absent"
-    },
-    {
-      "page": "/chapitres/comedies/volume-098-nikochares-fragments-incertains-18-28-ivresse-sommeil-mer-sphinx-marche-langue/index.html",
-      "url": "/comedies-grecques/",
-      "problem": "fichier absent"
-    }
-  ]
+  "legacy_link_issues": []
 }
