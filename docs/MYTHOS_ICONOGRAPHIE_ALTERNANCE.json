@@ -5,45 +5,117 @@
   "branch": "main",
   "latest_session": {
     "date": "2026-11-05",
-    "kind": "AUDIT ET CORRECTION",
-    "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "scope": "Séance 47 : audit GitHub Actions et correction de deux liens internes cassés dans les comédies CIV (104) et CV (105), en Markdown et HTML ; test de non-régression étendu, textes universitaires et numéros inchangés.",
-    "audit_evidence": {
-      "github_actions_run": 41977662560,
-      "audit_status": "success (0 erreur bloquante, 2 avertissements sur les liens des comédies 104/105)",
-      "pages_scanned": 1501,
-      "indexed_documents": 1444,
-      "local_links_checked": 129680,
-      "fragment_links_checked": 37992,
-      "broken_href": "/comedies-grecques/",
-      "canonical_href": "/comedies-grecques-aristophane-menandre/",
-      "targeted_html_pages": 5,
-      "targeted_html_ids": 496,
-      "targeted_same_page_anchors": 465,
-      "targeted_images": 106,
-      "targeted_duplicate_ids": 0,
-      "targeted_broken_same_page_anchors": 0,
-      "targeted_img_missing_alt": 0,
-      "basis": "Contrôles des pages philosophie-iliade.html, philosophie-odyssee.html, philosophie-theogonie.html et volumes 104 et 105."
+    "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "previous_kind": "AUDIT ET CORRECTION",
+    "next_kind": "AUDIT ET CORRECTION",
+    "scope": "Séance 48 : trois figures muséales distinctes, contextualisées et réutilisées sans créer de média : Iphigénie à Aulis (réception tragique, Iliade/Agamemnon), Héraclès et Antée (réception XVIIe s. et Nekuia d’Homère), Dionysos (médaillon hellénistique et Théogonie 940–942).",
+    "basis_commit": "22970d3846d4b8461f576258d5242d8a0589d1ab",
+    "verified_sources": [
+      {
+        "page": "philosophie-iliade.html",
+        "section": 14,
+        "id": "icono-iliade-iphigenie-aulis-bol-met-253340-20261105",
+        "src": "/assets/illustrations-articles/met-253340-iphigenie-aulis-bol-megarien.webp",
+        "source_url": "https://www.metmuseum.org/art/collection/search/253340",
+        "museum_object_id": 253340,
+        "object_status": "Bol hellénistique authentique (IIe s. av. J.-C.) ; représentation d’une tragédie, non scène directe de l’Iliade ; photographie non IA"
+      },
+      {
+        "page": "philosophie-odyssee.html",
+        "section": 29,
+        "id": "icono-odyssee-heracles-antee-bronze-reception-met-203927-20261105",
+        "src": "/assets/illustrations-articles/met-203927-heracles-antee-bronze.webp",
+        "source_url": "https://www.metmuseum.org/art/collection/search/203927",
+        "museum_object_id": 203927,
+        "object_status": "Bronze historique nord-italien (composition XVIIe s. ou après), non antique ; iconographie différente de l’Odyssée XI ; photographie non IA"
+      },
+      {
+        "page": "philosophie-theogonie.html",
+        "section": 41,
+        "id": "icono-theogonie-dionysos-medaillon-bois-met-256902-20261105",
+        "src": "/assets/illustrations-articles/met-256902-dionysos-medaillon-bois.webp",
+        "source_url": "https://www.metmuseum.org/art/collection/search/256902",
+        "museum_object_id": 256902,
+        "object_status": "Médaillon antique grec authentique (IIe s. av. J.-C.), postérieur à Hésiode ; photographie patrimoniale non IA"
+      }
+    ],
+    "targeted_checks": [
+      {
+        "page": "philosophie-iliade.html",
+        "section": 14,
+        "src": "/assets/illustrations-articles/met-253340-iphigenie-aulis-bol-megarien.webp",
+        "before": {
+          "ids": 118,
+          "duplicates": 0,
+          "anchors": 111,
+          "broken": [],
+          "images": 32,
+          "missing_alt": 0
+        },
+        "after": {
+          "ids": 119,
+          "duplicates": 0,
+          "anchors": 111,
+          "broken": [],
+          "images": 33,
+          "missing_alt": 0
+        }
+      },
+      {
+        "page": "philosophie-odyssee.html",
+        "section": 29,
+        "src": "/assets/illustrations-articles/met-203927-heracles-antee-bronze.webp",
+        "before": {
+          "ids": 117,
+          "duplicates": 0,
+          "anchors": 111,
+          "broken": [],
+          "images": 31,
+          "missing_alt": 0
+        },
+        "after": {
+          "ids": 118,
+          "duplicates": 0,
+          "anchors": 111,
+          "broken": [],
+          "images": 32,
+          "missing_alt": 0
+        }
+      },
+      {
+        "page": "philosophie-theogonie.html",
+        "section": 41,
+        "src": "/assets/illustrations-articles/met-256902-dionysos-medaillon-bois.webp",
+        "before": {
+          "ids": 119,
+          "duplicates": 0,
+          "anchors": 113,
+          "broken": [],
+          "images": 31,
+          "missing_alt": 0
+        },
+        "after": {
+          "ids": 120,
+          "duplicates": 0,
+          "anchors": 113,
+          "broken": [],
+          "images": 32,
+          "missing_alt": 0
+        }
+      }
+    ],
+    "regression": {
+      "script": "scripts/verify_live_site.py",
+      "test": "tests/test_verify_live_site_assets.py::RecentFigurePublicationTests.test_session_48_three_museum_objects_are_required_with_original_webp",
+      "verify_webp_on_deploy": true,
+      "new_binary_files": 0
     },
-    "corrections": {
-      "modified_paths": [
-        "chapitres/comedies/volume-104-philyllios-dodekate-anthesteries-choes-amphore-metrete-paratragedie.md",
-        "chapitres/comedies/volume-104-philyllios-dodekate-anthesteries-choes-amphore-metrete-paratragedie/index.html",
-        "chapitres/comedies/volume-105-philyllios-helene-attribution-incertaine-eidolon-guerre-reconnaissance.md",
-        "chapitres/comedies/volume-105-philyllios-helene-attribution-incertaine-eidolon-guerre-reconnaissance/index.html"
-      ],
-      "references_replaced": 4,
-      "regression_test": "tests/test_comedy_reference_links.py::test_volumes_104_and_105_use_existing_comedy_overview",
-      "numbering_changed": false,
-      "scholarly_text_changed": false
-    },
-    "publication": "Les chemins et sources GitHub sont corrigés ; la publication sur bobmythos.fr n'est pas confirmée. Le domaine est inaccessible depuis la vérification Web indépendante.",
-    "limitations": "Le dernier audit intégral et les tests CI disponibles précèdent ce correctif ; les suites Python, les contrôles responsive navigateur et la validation HTTPS de ce commit doivent être confirmés sur Actions et par une consultation publique.",
-    "preservation": "Aucune étude numérotée créée, aucun registre d'attribution, texte scientifique hors correction des liens, menu, image, CSS, JS, automatisation ni planification horaire modifiés. AGENTS.md et docs/PUBLICATION_CONCURRENTE.md lus sur main.",
+    "pagination": "Manifeste catalog/reading-pdfs.json sur main : Iliade 122 pages PDF, Odyssée 116, Théogonie 117 (analyses seules 107, 101, 103) ; aucune modification des PDF ni re-paginations.",
+    "preservation": "Textes, numérotation, navigation, autres automatisations et horaires inchangés. AGENTS.md et docs/PUBLICATION_CONCURRENTE.md lus avant intégration ; aucune étude numérotée créée, aucun registre modifié.",
+    "publication": "Aucune affirmation de publication publique sans confirmation d’un workflow et contrôle HTTPS du commit.",
+    "limitations": "Contrôles de structure ciblés ; les tests Python, le responsive navigateur et le déploiement restent à confirmer par CI. Le site public ne répond pas au contrôle HTTPS externe.",
     "commits": [],
-    "commit_note": "Le SHA du commit atomique ne peut être incorporé dans le journal qu'il commite ; le lire dans le journal des commits GitHub."
+    "commit_note": "Le SHA du commit qui enregistre ce journal se trouve dans l’API GitHub, pas dans son contenu."
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
   "history": [
@@ -2618,6 +2690,120 @@
       "preservation": "Aucune étude numérotée créée, aucun registre d'attribution, texte scientifique hors correction des liens, menu, image, CSS, JS, automatisation ni planification horaire modifiés. AGENTS.md et docs/PUBLICATION_CONCURRENTE.md lus sur main.",
       "commits": [],
       "commit_note": "Le SHA du commit atomique ne peut être incorporé dans le journal qu'il commite ; le lire dans le journal des commits GitHub."
+    },
+    {
+      "date": "2026-11-05",
+      "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "previous_kind": "AUDIT ET CORRECTION",
+      "next_kind": "AUDIT ET CORRECTION",
+      "scope": "Séance 48 : trois figures muséales distinctes, contextualisées et réutilisées sans créer de média : Iphigénie à Aulis (réception tragique, Iliade/Agamemnon), Héraclès et Antée (réception XVIIe s. et Nekuia d’Homère), Dionysos (médaillon hellénistique et Théogonie 940–942).",
+      "basis_commit": "22970d3846d4b8461f576258d5242d8a0589d1ab",
+      "verified_sources": [
+        {
+          "page": "philosophie-iliade.html",
+          "section": 14,
+          "id": "icono-iliade-iphigenie-aulis-bol-met-253340-20261105",
+          "src": "/assets/illustrations-articles/met-253340-iphigenie-aulis-bol-megarien.webp",
+          "source_url": "https://www.metmuseum.org/art/collection/search/253340",
+          "museum_object_id": 253340,
+          "object_status": "Bol hellénistique authentique (IIe s. av. J.-C.) ; représentation d’une tragédie, non scène directe de l’Iliade ; photographie non IA"
+        },
+        {
+          "page": "philosophie-odyssee.html",
+          "section": 29,
+          "id": "icono-odyssee-heracles-antee-bronze-reception-met-203927-20261105",
+          "src": "/assets/illustrations-articles/met-203927-heracles-antee-bronze.webp",
+          "source_url": "https://www.metmuseum.org/art/collection/search/203927",
+          "museum_object_id": 203927,
+          "object_status": "Bronze historique nord-italien (composition XVIIe s. ou après), non antique ; iconographie différente de l’Odyssée XI ; photographie non IA"
+        },
+        {
+          "page": "philosophie-theogonie.html",
+          "section": 41,
+          "id": "icono-theogonie-dionysos-medaillon-bois-met-256902-20261105",
+          "src": "/assets/illustrations-articles/met-256902-dionysos-medaillon-bois.webp",
+          "source_url": "https://www.metmuseum.org/art/collection/search/256902",
+          "museum_object_id": 256902,
+          "object_status": "Médaillon antique grec authentique (IIe s. av. J.-C.), postérieur à Hésiode ; photographie patrimoniale non IA"
+        }
+      ],
+      "targeted_checks": [
+        {
+          "page": "philosophie-iliade.html",
+          "section": 14,
+          "src": "/assets/illustrations-articles/met-253340-iphigenie-aulis-bol-megarien.webp",
+          "before": {
+            "ids": 118,
+            "duplicates": 0,
+            "anchors": 111,
+            "broken": [],
+            "images": 32,
+            "missing_alt": 0
+          },
+          "after": {
+            "ids": 119,
+            "duplicates": 0,
+            "anchors": 111,
+            "broken": [],
+            "images": 33,
+            "missing_alt": 0
+          }
+        },
+        {
+          "page": "philosophie-odyssee.html",
+          "section": 29,
+          "src": "/assets/illustrations-articles/met-203927-heracles-antee-bronze.webp",
+          "before": {
+            "ids": 117,
+            "duplicates": 0,
+            "anchors": 111,
+            "broken": [],
+            "images": 31,
+            "missing_alt": 0
+          },
+          "after": {
+            "ids": 118,
+            "duplicates": 0,
+            "anchors": 111,
+            "broken": [],
+            "images": 32,
+            "missing_alt": 0
+          }
+        },
+        {
+          "page": "philosophie-theogonie.html",
+          "section": 41,
+          "src": "/assets/illustrations-articles/met-256902-dionysos-medaillon-bois.webp",
+          "before": {
+            "ids": 119,
+            "duplicates": 0,
+            "anchors": 113,
+            "broken": [],
+            "images": 31,
+            "missing_alt": 0
+          },
+          "after": {
+            "ids": 120,
+            "duplicates": 0,
+            "anchors": 113,
+            "broken": [],
+            "images": 32,
+            "missing_alt": 0
+          }
+        }
+      ],
+      "regression": {
+        "script": "scripts/verify_live_site.py",
+        "test": "tests/test_verify_live_site_assets.py::RecentFigurePublicationTests.test_session_48_three_museum_objects_are_required_with_original_webp",
+        "verify_webp_on_deploy": true,
+        "new_binary_files": 0
+      },
+      "pagination": "Manifeste catalog/reading-pdfs.json sur main : Iliade 122 pages PDF, Odyssée 116, Théogonie 117 (analyses seules 107, 101, 103) ; aucune modification des PDF ni re-paginations.",
+      "preservation": "Textes, numérotation, navigation, autres automatisations et horaires inchangés. AGENTS.md et docs/PUBLICATION_CONCURRENTE.md lus avant intégration ; aucune étude numérotée créée, aucun registre modifié.",
+      "publication": "Aucune affirmation de publication publique sans confirmation d’un workflow et contrôle HTTPS du commit.",
+      "limitations": "Contrôles de structure ciblés ; les tests Python, le responsive navigateur et le déploiement restent à confirmer par CI. Le site public ne répond pas au contrôle HTTPS externe.",
+      "commits": [],
+      "commit_note": "Le SHA du commit qui enregistre ce journal se trouve dans l’API GitHub, pas dans son contenu."
     }
   ]
 }

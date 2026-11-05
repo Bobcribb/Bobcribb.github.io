@@ -286,6 +286,14 @@ RECENT_FIGURES = (
      "/media/2026/10/mythos-athena-lecythe-brygos-aplaste-met-25-189-1.jpg"),
     ("philosophie-theogonie.html", "icono-theogonie-hecate-hekatation-romain-20261105",
      "/media/2026/10/mythos-hecate-triple-graces-met-1987-11-2.jpg"),
+    # Séance 48 : objets documentés, provenance institutionnelle et empreintes identiques au build.
+    ("philosophie-iliade.html", "icono-iliade-iphigenie-aulis-bol-met-253340-20261105",
+     "/assets/illustrations-articles/met-253340-iphigenie-aulis-bol-megarien.webp"),
+    ("philosophie-odyssee.html", "icono-odyssee-heracles-antee-bronze-reception-met-203927-20261105",
+     "/assets/illustrations-articles/met-203927-heracles-antee-bronze.webp"),
+    ("philosophie-theogonie.html", "icono-theogonie-dionysos-medaillon-bois-met-256902-20261105",
+     "/assets/illustrations-articles/met-256902-dionysos-medaillon-bois.webp"),
+
 )
 
 

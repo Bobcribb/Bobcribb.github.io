@@ -550,5 +550,34 @@ class RecentFigurePublicationTests(unittest.TestCase):
             live.recent_figure_inventory(self.root)
 
 
+    def test_session_48_three_museum_objects_are_required_with_original_webp(self):
+        """La notice publique et le WebP doivent être identiques aux sources de main."""
+        additions = (
+            ("philosophie-iliade.html", "icono-iliade-iphigenie-aulis-bol-met-253340-20261105",
+             "/assets/illustrations-articles/met-253340-iphigenie-aulis-bol-megarien.webp"),
+            ("philosophie-odyssee.html", "icono-odyssee-heracles-antee-bronze-reception-met-203927-20261105",
+             "/assets/illustrations-articles/met-203927-heracles-antee-bronze.webp"),
+            ("philosophie-theogonie.html", "icono-theogonie-dionysos-medaillon-bois-met-256902-20261105",
+             "/assets/illustrations-articles/met-256902-dionysos-medaillon-bois.webp"),
+        )
+        for page, fid, source in additions:
+            with self.subTest(page=page):
+                self.assertEqual(live.RECENT_FIGURES.count((page, fid, source)), 1)
+
+                def stale_fetch(url):
+                    path = url.split("https://example.test", 1)[-1]
+                    if path == "/" + page:
+                        return (200, "text/html", self.pages[path].replace(
+                            fid.encode("utf-8"), b"figure-absente-de-la-publication"))
+                    if path == source:
+                        return (200, "image/webp", self.assets[path] + b"tampered")
+                    return self.fetch(url)
+
+                with patch.object(live, "fetch", side_effect=stale_fetch):
+                    report = live.verify_recent_public_figures("https://example.test", self.root)
+                self.assertEqual({r["url"] for r in report if not r["valid"]},
+                                 {"/" + page, source})
+
+
 if __name__ == "__main__":
     unittest.main()
