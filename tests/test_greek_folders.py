@@ -24,6 +24,9 @@ class GreekFolderTests(unittest.TestCase):
                       shared_css)
         self.assertIn('@media(max-width:700px){body.mythos-design .greek-cross-readings ul',
                       shared_css)
+        self.assertIn('data-greek-cross-readings="delphes"', shared_css)
+        self.assertIn('border-inline-start:3px solid #d0aa68', shared_css)
+        self.assertIn('@media(max-width:480px)', shared_css)
 
     def test_single_greek_encyclopedia_entry_in_both_menus(self):
         from apply_museum_design import header
