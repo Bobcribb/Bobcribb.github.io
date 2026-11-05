@@ -73,7 +73,7 @@ def latest_verified(root, output):
                 continue
             # L'encyclopédie place le titre scientifique en H1 (par exemple,
             # « Chapitre 409 — Agathos Daimôn ») et les sections en H2.
-            # Dans les quatre autres collections, le titre est généralement
+            # Quand le H1 est générique, le titre est généralement
             # le premier H2, après un H1 décrivant le cycle et son numéro.
             first_h1 = re.search(r'(?m)^#\s+(.+)$', markdown)
             first_h2 = re.search(r'(?m)^##\s+(.+)$', markdown)
