@@ -146,6 +146,7 @@ RELATED = [
  ("Homère, l'Iliade : analyse philosophique","/philosophie-iliade.html"),
  ("Homère, l'Odyssée : analyse philosophique","/philosophie-odyssee.html"),
  ("Hésiode, Théogonie : analyse philosophique","/philosophie-theogonie.html"),
+ ("Socrate, Delphes et la sagesse : mémoire universitaire intégral (PHY-SOC-2026-01)","/chapitres/philosophie/socrate-oracle-delphes-paradoxe-sagesse/"),
  ("Études d'histoire et de géographie grecque","/grece/"),
  ("Théâtre grec, corpus associé mais distinct","/theatre/"),
  ("Registre général des dossiers publiés","/grande-encyclopedie/registre-integral/"),
