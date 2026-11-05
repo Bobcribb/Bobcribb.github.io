@@ -27,7 +27,7 @@ class MarathonCrossReadingTests(unittest.TestCase):
         for url, heading, context in MARATHON_STUDIES:
             with self.subTest(heading=heading):
                 path = ROOT / url.lstrip('/')
-                source = path.parent.with_suffix('.md')
+                source = path.with_suffix('.md')
                 self.assertTrue(source.is_file(), 'Manuscrit introuvable : ' + str(source))
                 self.assertTrue((path / 'index.html').is_file(), 'HTML absent : ' + url)
                 manuscript = source.read_text(encoding='utf-8')
