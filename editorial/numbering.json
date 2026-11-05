@@ -585,6 +585,12 @@
           "path": "chapitres/origines-du-sacre/669-thargelies-athenes-pharmakoi-hipponax-harpocration-purification-civique.md",
           "request_sha256": "b5ebb4992e35aac6697cc48ccd955041536c10781348ca85228f7829da68b4a8",
           "initial_source_sha256": "ca18de49a38005bebee49f8ac88c8c6dbfca0cbff270663281c90fc09388640b"
+        },
+        "f51d326d-8d4d-49ca-a691-51f23674bb64": {
+          "number": 670,
+          "path": "chapitres/origines-du-sacre/670-hatti-cth-446-purifier-maison-sang-dieux-anciens-trameri.md",
+          "request_sha256": "e6eb6d14b36d2aedf313ca70f0b91035be7b52a7b6569769ed04649ca49dab6d",
+          "initial_source_sha256": "f1cd79760aefe808eb1cc1947eb924837dcc7b1e63889d78726afe48435756fa"
         }
       }
     },
@@ -1444,6 +1450,12 @@
           "path": "chapitres/comedies/volume-106-philyllios-herakles-dorpia-apaturies-protenthai-phratries.md",
           "request_sha256": "3f4bd490f7a055afdb9938842f12d0111aee067cdcf973c474bdd4826a0c7616",
           "initial_source_sha256": "37dbd4262f6329586241a995c8967e24a306ac518950f1a2830499765bc853a6"
+        },
+        "c19d7a6b-1e25-4c9a-b7d1-05a5bcd90701": {
+          "number": 107,
+          "path": "chapitres/comedies/volume-107-philyllios-plyntriai-nausikaa-lessive-laispodias-scholie-odyssee.md",
+          "request_sha256": "4fc01713de481248bdf6b130b8a87ec95d73a8c3d3536007ba5ad06885ca0d06",
+          "initial_source_sha256": "e2ff7c1aca47aa7ac6c60224857c34e6bd84cd71e45ffd0da2d97bc6ac275f01"
         }
       }
     },
@@ -1834,6 +1846,12 @@
           "path": "chapitres/tragedies/volume-ccxlviii-sophocle-phrixos-oracle-sacrifice-fuite-helle-nephele-athamas.md",
           "request_sha256": "13f64d1366e246e95999ad99b7723878e4ac85399b7f04e442a45925dc6aa9fc",
           "initial_source_sha256": "edbc276c42075762c572a5849743c57467272fadae7ede8b788c6feb404f87bc"
+        },
+        "79de4eab-1f83-4d58-946e-65ea7c88f3d2": {
+          "number": 249,
+          "path": "chapitres/tragedies/volume-ccxlix-sophocle-phrygiens-ares-guerre-hymenee-silence-achille-fragments-724-725.md",
+          "request_sha256": "93fa62c09daebcfdd5db377cf9acfe3fbb90d8fa8a511b64f80771686d790723",
+          "initial_source_sha256": "a8501ac3da73adf8473e61e66455b1c6b2c0a70b91ce87bece87ce31c11cd5f6"
         }
       }
     },

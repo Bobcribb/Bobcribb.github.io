@@ -1,0 +1,210 @@
+# Chapitre 670 — Purifier une maison du sang : le rituel hittite CTH 446 et les dieux anciens
+
+*MYTHOS — Les Origines du sacré, volume DCLXX. Monographie universitaire sur le Hatti, la philologie cunéiforme, les rites du sang et les représentations de l'habitation. État de vérification : 5 novembre 2026.*
+
+## Résumé
+
+Comment une maison devient-elle inhabitable, non par l'effondrement de ses murs, mais parce qu'un événement a rompu l'ordre de ses occupants ? Le texte rituel hittite connu sous le numéro **CTH 446** prescrit, sur une période de **deux jours**, une série d'actions et de récitations visant à dégager une habitation de souillures, en particulier de celle que désigne le **sang**. Des divinités anciennes du monde souterrain, rattachées à un milieu religieux hurro-hittite, sont appelées à contribuer à cette opération. Ce dossier porte sur un manuscrit rituel identifiable, ses copies cunéiformes, ses difficultés d'interprétation, ses mécanismes de purification et le statut de la maison comme espace religieux.
+
+Il prolonge l'étude MYTHOS sur l'expulsion civique aux Thargélies en changeant radicalement d'échelle : non plus la cité qui mène un humain à sa frontière, mais l'habitation dont on veut retirer une impureté. Il ne reprend pas le dossier comparatif MC-052 sur le détournement des mauvais présages ou le roi substitut, et n'assimile pas CTH 446 aux autres rituels hittites CTH 394 et CTH 407. Les parallèles grec, mésopotamien, égyptien, israélite, indien et chinois servent d'outils de contraste et non de preuve de descendance.
+
+**Code d'évidence : [A]** proposition attestée par un texte identifié ou par une édition critique ; **[C]** hypothèse discutée dans la recherche ; **[H]** lecture interprétative proposée ici. Les références à un texte non collationné sur les tablettes sont données selon l'édition secondaire, sans citations cunéiformes prétendument littérales ni numéros de lignes inventés.
+
+## 1. La maison : un objet social plutôt qu'une simple architecture
+
+Une habitation peut être construite en pierres, briques, bois et terre, mais sa stabilité symbolique repose sur un réseau d'occupants, de liens de parenté, de travaux, de biens et d'obligations. Pour comprendre un rituel purificatoire domestique, il faut partir de cette double matérialité. Les murs séparent un dedans et un dehors ; l'organisation des gestes quotidiens fait de ce dedans un espace habité et reconnu. Un acte grave survenu dans la maison peut alors affecter à la fois les personnes, les relations et le lieu.
+
+[A] CTH 446 présente une prescription visant une maison souillée. Le texte n'autorise pas, à lui seul, la description archéologique d'une maison précise où la cérémonie aurait été accomplie. [H] On peut interpréter l'opération comme une « réouverture » de l'espace au séjour ordinaire : l'habitation doit devenir à nouveau praticable. Cette lecture ne suppose pas qu'on trouve une couche archéologique de saleté ni qu'une épidémie fut objectivement éliminée.
+
+## 2. Qu'est-ce que CTH 446 ?
+
+Le sigle **CTH** renvoie au *Catalogue des textes hittites*, organisé à l'origine par Emmanuel Laroche et développé par la recherche. Le numéro 446 est une **identité de composition**, non le numéro d'une pierre gravée unique. Il permet de regrouper plusieurs témoins, duplicats, fragments et copies d'un ensemble rituel. La matérialité est celle de tablettes cunéiformes transmises par le travail des scribes, non d'un livre intact découvert ouvert à la même page.
+
+L'édition de référence récente est **Andrea Trameri, *Purifying a House from Blood: A Hittite Ritual for the Ancient Gods (CTH 446)*, Lockwood Press, 2022**. Son plan éditorial distingue paléographie, contenu, édition philologique, contexte, finalité et débat sur la nature littéraire de la composition. Une monographie actuelle ne peut traiter comme acquises les restitutions d'une tradition critique antérieure sans examiner cette réédition.
+
+## 3. Les principaux témoins de tablettes
+
+[A] Une présentation spécialisée du dossier distingue notamment **KUB 7.41** (témoin A), **KBo 10.45 + KBo 46.54 + ABoT 2.30** (témoin B) et **KUB 41.8 + KBo 48.89 + KBo 58.14** (témoin C), outre plusieurs témoins plus fragmentaires. Cette nomenclature illustre l'existence d'une transmission multiple et non celle d'un exemplaire rituel conservé sans lacune. Voir Nino Charekishvili, « CTH 446 – The Ritual of Purifying the House and Invoking the Deities of the Underworld », *History, Archaeology, Ethnology* VIII (2022).
+
+Ces identifiants doivent être conservés exactement dans les renvois bibliographiques. **Nous ne prétendons pas** que chaque clause interprétée dans les pages suivantes figure à la même ligne de chacun de ces témoins ; pour cela il faudrait collationner translittération, apparat critique et concordance de Trameri, chap. 3, p. 41–130. De même, un numéro de tablette n'est pas une localisation archéologique détaillée : il ne renseigne pas automatiquement la pièce, la strate et les circonstances de trouvaille.
+
+## 4. Deux jours : le rite comme séquence temporelle
+
+[A] Les descriptions scientifiques de CTH 446 précisent que les prescriptions se déploient **sur deux jours**. Cette durée est importante, parce qu'elle interdit d'imaginer la purification comme un geste unique suffisant à lui seul. Le texte combine actions et paroles ; la temporalité du rite produit une succession ordonnée d'étapes. Les opérations ne sont pas nécessairement interchangeables, et les contraintes de préparation des officiants peuvent peser sur le déroulement.
+
+[C] Le détail chronologique de chaque séquence, son éventuelle répétition et les variantes d'un témoin à l'autre relèvent de l'édition philologique. Sans la collation de toutes les tablettes, il serait téméraire d'attribuer une heure précise à une libation ou de distribuer arbitrairement chaque récitation au premier ou au second jour. L'important est d'observer ce que fait une procédure sur deux journées : elle maintient la maison dans un état rituellement particulier jusqu'au terme de l'opération.
+
+## 5. Le sang : de la substance à la faute
+
+Dans le vocabulaire hittite, *ešḫar-* renvoie au sang. Les recherches sur CTH 446 interprètent la souillure du « sang » principalement en relation avec un **sang versé**, éventuellement un homicide ayant eu lieu dans le bâtiment ou impliquant ses habitants. Cette précision décisive empêche de comprendre automatiquement la contamination comme tache biologique visible sur un sol. La documentation ne fournit pas un rapport médico-légal sur un décès identifié.
+
+Le mot peut fonctionner par métonymie : une substance désigne une action et les conséquences sociales de cette action. [C] Selon le contexte, l'historien doit examiner si l'interprétation criminelle est préférable à d'autres formes de souillure. Le dossier évoque également d'autres causes possibles de l'impureté. Il ne faut donc pas construire une doctrine unique de « culpabilité par le sang » à partir d'une composition dont l'enjeu est aussi l'élimination d'un ensemble de troubles rituels.
+
+## 6. Le meurtre et le bâtiment : qui est atteint ?
+
+Si un homicide a souillé la maison, plusieurs configurations sont concevables : un meurtre commis sur place, une violence liée à un occupant ou la transmission d'une conséquence religieuse à une famille. [A] La recherche récente souligne que le texte ne fixe pas nécessairement une seule de ces situations. [H] Une hypothèse prudente est que la maison, comme lieu de relations durables, peut rester religieusement affectée après la disparition matérielle du sang et des acteurs directs.
+
+Cette conception n'est pas identique à une responsabilité pénale collective. Le rituel n'établit pas, à notre connaissance, la culpabilité de tous les occupants ; il leur fournit un moyen d'agir sur l'état de leur milieu de vie. Comparer l'impureté domestique à une peine capitale judiciaire introduirait un anachronisme. Le processus est une intervention sur une relation entre espace, personnes et puissances divines.
+
+## 7. Les dieux anciens : agents de l'enlèvement
+
+[A] CTH 446 invoque les **« dieux anciens »**, puissances chthoniennes de l'horizon hurro-hittite. Cette catégorie doit être comprise selon ses attestations propres : elle n'est pas une liste grecque des Titans, ni une classe universelle de « dieux primitifs ». Leur relation au monde d'en bas est pertinente parce que la purification met en jeu un déplacement du mal hors du monde habité. Le texte offre ainsi une géographie religieuse opératoire sans donner une carte de l'au-delà.
+
+[H] L'appel aux dieux du dessous peut signifier que certaines puissances disposent de la compétence rituelle pour recevoir ce que les humains ne doivent plus garder. Cela ne prouve pas qu'elles soient exclusivement maléfiques. Une divinité liée au monde inférieur peut être protectrice dans un dispositif précis. La traduction « anciens » risque d'évoquer une chronologie évolutionniste, alors qu'il s'agit ici d'un groupe de figures avec leur propre histoire cultuelle.
+
+## 8. Le monde inférieur : destination sans géographie moderne
+
+Les rites hittites présentent des relations variées entre terre, ciel, eaux et monde souterrain. Dans certaines procédures, l'appel aux puissances d'en bas s'accompagne d'offrandes et de dispositifs qui mettent en contact un lieu humain et un domaine chthonien. Il ne faut toutefois pas transférer au texte CTH 446 le détail d'une fosse, d'un canal ou d'un trajet précis provenant d'un autre texte sans référence correspondante.
+
+L'opposition dedans/dehors d'une maison peut croiser une opposition haut/bas. La première s'observe à l'échelle sociale et architecturale ; la seconde relève d'une cosmographie religieuse. [H] Leur articulation fournit une manière de penser l'évacuation du trouble : ce qui a envahi l'espace habité est dirigé vers des destinataires rituels extérieurs à sa vie ordinaire. Cette formulation analytique reste distincte de la parole exacte d'un officiant hittite.
+
+## 9. Instructions, récitations, efficacité
+
+[A] L'édition décrit une **suite de gestes et de récitations**. En philologie des rituels, la distinction importe : le texte prescrit ce qu'on fait et ce qu'on dit, et peut attribuer une efficacité à leur coordination. Réduire la cérémonie à une magie verbale serait aussi insuffisant que d'y voir une manipulation matérielle privée de sens. Les mots peuvent définir les destinataires et le statut de l'impureté, tandis que les actions rendent sensible une transformation.
+
+Une composition écrite n'est pourtant pas un enregistrement sonore de performance. Le scribe peut conserver un idéal, une variante ou une compilation destinée à être réutilisée. Les noms d'officiants, les quantités d'offrandes et la répétition de formules relèvent d'une enquête de détail sur les témoins. Aucune séquence que nous n'avons pu vérifier dans l'édition ne sera ici recréée en « formule hittite » fictive.
+
+## 10. La présence de plusieurs traditions religieuses
+
+Le monde hittite impérial ne doit pas être traité comme un ensemble culturel homogène. Les textes conservés à travers l'Anatolie font interagir idiomes, divinités et spécialistes issus d'horizons anatoliens, hourrites et mésopotamiens. CTH 446 est remarquable par cette pluralité. [A] L'édition récente discute son caractère composite et l'origine des parties de la composition. [C] La pluralité de motifs ne suffit pas à démontrer une création artificielle sans usage pratique.
+
+La question comparative n'est pas seulement celle des « influences ». Un scribe peut emprunter un nom divin ou un geste et l'intégrer à une procédure locale qui le transforme. Une catégorie empruntée peut acquérir de nouvelles fonctions. C'est pourquoi nous ne traduisons pas automatiquement « dieux anciens » par le nom d'une classe divine mésopotamienne particulière : l'équivalence doit être établie au cas par cas, en confrontant les orthographes et les listes de dieux.
+
+## 11. Littérature ou rituel pratiqué ?
+
+[C] L'une des grandes controverses, reprise dans le chapitre 6 de Trameri, oppose l'idée d'une **composition exceptionnellement érudite**, peut-être largement littéraire, à celle d'un véritable texte de pratique enrichi par une tradition scribale. Marie-Claude Trémouille a attiré l'attention sur sa sophistication et la densité des traditions différentes. D'autres spécialistes ont souligné que des révisions et compilations peuvent rendre un texte difficile sans l'éloigner nécessairement de son emploi religieux.
+
+Il faut éviter la fausse alternative. Un rituel prescriptif peut être transmis dans une école de scribes ; une performance peut dépendre de savoirs savants ; un texte conçu pour l'action peut être littérairement élaboré. Nous ne possédons pas le calendrier des cérémonies réellement accomplies suivant CTH 446. Une attestation de prescriptif n'est donc ni la preuve d'une exécution historique datable ni la preuve de son impossibilité.
+
+## 12. La paléographie et la matérialité du savoir
+
+Le chapitre initial de Trameri est consacré aux tablettes, à la datation et à la paléographie. Cette place n'est pas un luxe éditorial : l'identité d'une main, la copie d'un passage et les conventions orthographiques conditionnent le degré de confiance que l'on peut accorder à une lecture. Un rituel « hittite » peut transmettre une tradition plus ancienne dans une copie tardive. L'âge d'un objet écrit et l'âge d'une pratique ne coïncident pas nécessairement.
+
+Les reconstructions anciennes ont parfois traité les textes religieux comme des fenêtres transparentes vers des cérémonies immémoriales. Une étude matérielle rappelle que des écoles de scribes ont sélectionné, organisé et conservé les compositions. [H] La survie de plusieurs témoins d'un rituel complexe peut indiquer l'intérêt durable porté à sa transmission ; elle ne donne pas, à elle seule, la fréquence des purifications domestiques.
+
+## 13. Les catalogues : CTH, KUB, KBo et ABoT
+
+Les sigles **KUB** (*Keilschrifturkunden aus Boghazköi*), **KBo** (*Keilschrifttexte aus Boghazköi*) et **ABoT** désignent des séries de publication de textes cunéiformes. Ils ne sont pas des « chapitres » successifs du texte rituel. Un assemblage avec le signe « + » indique des joints, rapprochements ou appartenances éditoriales signalées dans une nomenclature critique. La numérotation du catalogue CTH classe des compositions ; celle des séries désigne des pièces publiées.
+
+Cette distinction protège contre des erreurs courantes : citer KUB 7.41 comme si le texte complet était entièrement lisible sur cette seule tablette, attribuer un passage d'une reconstruction composite à un objet sans vérifier sa préservation, ou confondre un signe de joint avec une preuve de fouille simultanée. La recherche doit rendre auditables les références, surtout lorsque la conclusion porte sur un détail rituel.
+
+## 14. Les gestes et l'architecture domestique
+
+Le rite concerne une maison et doit donc être rapproché des usages réels de l'espace : seuils, cours, pièces, lieux de stockage et lieux de cuisson, relations avec les voisins et circulation des invités. Ces catégories spatiales sont des **possibilités architecturales générales** du Proche-Orient ancien, et non un plan localisé d'une maison où CTH 446 aurait été réalisé. Une reconstitution ne doit pas placer automatiquement des officiants sur une toiture ou autour d'un foyer sans passage correspondant.
+
+[H] On peut néanmoins avancer que toute procédure de purification d'une habitation redéfinit les rapports entre intérieur domestique et extérieur social. L'espace habité doit accueillir à nouveau les gestes ordinaires. Si la souillure est associée à un meurtre, le rite ne supprime ni la mémoire du disparu ni les conséquences civiles de la violence ; il propose une solution dans un autre ordre d'action. Cette pluralité des ordres d'action est au cœur de l'anthropologie de la maison.
+
+## 15. Éviter la surinterprétation archéologique
+
+Les maisons fouillées à Ḫattuša et sur d'autres sites anatoliens permettent d'étudier le bâti, les objets domestiques et les distributions spatiales. Mais [A] nous ne possédons pas de « maison de CTH 446 » identifiée sans ambiguïté par le texte. Des tessons, ossements ou résidus brûlés ne deviennent pas les déchets de ce rituel par la seule similarité de leur catégorie. L'identification demanderait une inscription, un contexte exceptionnel ou une combinaison de critères indépendants.
+
+L'archéologie peut pourtant formuler de bonnes questions : quelles pratiques laissent des dépôts clos ? Quels matériaux se conservent ? Quelle part des actions rituelles ne laisserait aucune trace ? Comment distinguer un sol rechargé d'une purification ? Une réponse honnête précisera que les textes rituels documentent d'abord un **savoir prescrit** et que l'archive matérielle doit être interprétée avec ses propres contraintes.
+
+## 16. La pureté : absence de saleté ou restauration de relations ?
+
+Les sciences modernes distinguent une contamination chimique, biologique ou pathogène. Les rituels anciens emploient des catégories qui ne leur correspondent pas directement. Dire « souillure » n'affirme pas la présence de microbes ; dire « purification » ne prétend pas que les gestes décrits sont médicalement efficaces. CTH 446 suppose une atteinte à l'ordre de relations entre humains, divinités et lieu.
+
+Cette distinction est essentielle pour éviter deux préjugés symétriques : ridiculiser les anciens parce qu'ils ne pratiquaient pas la désinfection contemporaine, ou leur attribuer par avance une compréhension sanitaire scientifiquement validée. Les rites peuvent avoir des effets sociaux et psychologiques même si leur justification cosmologique ne se laisse pas traduire en termes biomédicaux. L'historien étudie la rationalité située de l'action et les fins qu'elle prétend atteindre.
+
+## 17. Déplacer le mal : transfert, enlèvement, restitution
+
+Les descriptions de CTH 446 insistent sur le retrait de l'impureté et la mobilisation de puissances du monde inférieur. Le transfert est une **catégorie analytique** utile : on peut penser le trouble comme placé sur un support ou adressé à un destinataire. Mais il faut s'assurer que le texte lui-même donne un équivalent rituel ou verbal du passage de A vers B. Toutes les purifications ne disposent pas d'un bouc, d'une figurine ou d'un objet substitutif.
+
+[C] Dans certaines familles de rituels hittites, un animal peut transporter des souillures ; d'autres textes recourent à des substituts représentant une personne. **CTH 446 ne doit pas être simplifié en l'un ou l'autre dispositif** sans lecture du passage concerné. Les notions de transport et de substitution sont proches mais non équivalentes : déplacer une nuisance n'implique pas que le porteur occupe juridiquement ou religieusement la place de la personne menacée.
+
+## 18. Une comparaison limitée avec la Grèce
+
+Les dossiers grecs de Sélinonte, de Cyrène et des *pharmakoi* montrent plusieurs traitements de la souillure : consultation d'une loi cathartique, sacrifice réparateur, séparation par expulsion. Dans CTH 446, c'est une **habitation** qui est rendue à son état rituel approprié au moyen d'une procédure écrite en hittite. On peut comparer la logique d'un seuil : d'un côté, la cité fait sortir un être humain ; de l'autre, une habitation cesse d'être le lieu d'un trouble rituel.
+
+Mais la documentation est dissymétrique : pour Athènes, notices et poésie ; pour Hatti, tablettes normatives de spécialistes. La comparaison doit donc porter sur des **problèmes documentaires parallèles**, non sur des scènes prétendument interchangeables. Dire que le *pharmakos* était « un CTH 446 sur deux jambes » serait un raccourci sans fondement, qui effacerait le statut des acteurs et le vocabulaire indigène.
+
+## 19. Lévitique 16 : proximité du retrait, différence de structure
+
+Le texte hébreu **Lévitique 16, 7–10 et 20–22** décrit deux boucs tirés au sort, l'un pour YHWH et l'autre envoyé vivant dans le désert après une confession des fautes. On y voit un traitement rituel de l'impureté collective et un déplacement vers un espace extérieur. Cependant il s'agit du sanctuaire et d'Israël, dans une composition sacerdotale hébraïque qui ne doit pas être prise pour une copie hittite. Le débat sur *Azazel* — puissance, lieu ou terme d'expulsion — appartient à son propre dossier philologique.
+
+La comparaison montre seulement que des traditions du Proche-Orient ont conceptualisé la souillure comme pouvant être retirée d'un ensemble humain ou spatial. L'apparente ressemblance ne prouve ni influence directe ni identité de sens. L'étude comparée MC-052 de MYTHOS a déjà établi l'ampleur de ce champ ; le présent volume concentre sa démonstration sur l'unité textuelle CTH 446.
+
+## 20. En Mésopotamie : purifier, annuler, conjurer
+
+Des rituels akkadiens contre les mauvais présages, dont les procédures *namburbi*, visent à prévenir la réalisation d'un mal annoncé. D'autres ensembles, tels *Maqlû*, traitent les attaques imputées à la sorcellerie ; les lettres relatives au roi substitut documentent une logique royale spécifique. Chacun possède ses textes, ses professionnels et ses circonstances. Rien n'autorise à réduire l'ensemble à « enlever le sang d'une maison ».
+
+CTH 446 appartient à un autre système linguistique et politique, même si son milieu lettré a été en dialogue avec des traditions mésopotamiennes. Ce point permet d'affiner une typologie : **neutraliser un mauvais présage**, **écarter une puissance hostile**, **purifier une demeure déjà atteinte** et **substituer un destinataire à une victime** sont quatre actes conceptuellement distinguables. Une étude de l'origine du sacré gagne à séparer les verbes d'action avant de comparer leurs répertoires.
+
+## 21. En Égypte : lieux dangereux et matérialité des noms
+
+Les figurines dites d'exécration égyptiennes peuvent inscrire des noms de puissances ou d'ennemis pour agir rituellement sur eux. Leurs textes et supports matériels ne sont pas des instructions pour laver une maison ensanglantée. La comparaison est utile précisément dans cette différence : l'Égypte montre des opérations où la nomination et la manipulation d'un support visent des entités déterminées ; CTH 446 mobilise une composition prescriptive adressée à une habitation affectée.
+
+Les lieux égyptiens de culte funéraire entretiennent également un rapport complexe à la mort et à la continuité de la maison des vivants, mais ce voisinage ne signifie pas une doctrine identique de la pollution par le sang. La comparaison philologique exigerait des mots égyptiens précis et des contextes de leur emploi. Un vocabulaire français commun de « purification » doit rester un outil provisoire.
+
+## 22. Afrique, Chine et Inde : les catégories à ne pas universaliser
+
+Les traditions d'Afrique, de Chine et de l'Inde possèdent des rites de renouvellement, des gestes de séparation et des régulations de la relation aux ancêtres. Mais il serait trompeur de les absorber dans un scénario unique où « la communauté transfère toujours ses fautes sur un porteur ». Les corpus védiques discutent l'ordre rituel à travers des sacrifices, des formules et des obligations distinctes ; les textes classiques chinois traitent les rites ancestraux et l'ordre des familles dans leurs propres catégories.
+
+Pour qu'une comparaison soit rigoureuse, elle doit choisir un **texte primaire identifié**, une époque, un lieu et une opération précise. Faute de ce travail pour une tradition donnée, on s'abstient de mettre dans la bouche d'un peuple une doctrine synthétique du mal. Ce principe protège aussi l'analyse hittite : elle n'a pas besoin d'une universalité fabriquée pour être un objet significatif de l'histoire des religions.
+
+## 23. Durkheim et la reconstruction d'un espace social
+
+L'apport de Durkheim permet d'interroger comment un rite réorganise une communauté après un événement menaçant. Mais la composition hittite n'est pas seulement collective au sens large : elle se concentre sur un endroit, ses habitants et l'autorité religieuse capable d'y intervenir. L'échelle domestique oblige à complexifier l'idée de société : dans une maison, les rapports sont personnels, économiques, hiérarchiques, familiaux et affectifs. Purifier le lieu peut contribuer à rendre possibles les interactions ordinaires.
+
+[C] Cette analyse sociologique n'établit pas que tous les occupants ressentaient une même peur ni qu'ils participaient tous à la cérémonie. Le texte prescriptif n'est pas un questionnaire ethnographique. [H] La réinstallation du domicile dans la normalité peut être comprise comme l'un des résultats recherchés par le rite, distinct de la question de sa réussite surnaturelle.
+
+## 24. Hegel, Nietzsche, Girard : trois tensions philosophiques
+
+Dans un vocabulaire hégélien, une faute objectivée peut perturber une relation éthique durable ; la purification interroge alors la réconciliation entre acte singulier et ordre partagé. Chez Nietzsche, la transformation d'un événement violent en dette ou en faute peut orienter la lecture critique de la sanction ; il serait toutefois illégitime d'attribuer directement cette généalogie aux scribes de Ḫattuša. Girard insiste sur la possibilité qu'une collectivité produise une victime substitutive pour résoudre ses tensions : **CTH 446 n'est pas en soi la preuve d'un meurtre victimaire**.
+
+Ces trois perspectives ouvrent des problèmes mais ne remplacent pas les tablettes. Il faut distinguer l'histoire d'une norme hittite de sa mobilisation philosophique moderne. Si l'exégèse échoue à retrouver le geste dans un texte, aucune théorie du sacrifice ne peut l'inventer. Le plus intéressant est peut-être que l'action rituelle permet une réponse à la violence qui ne se réduit pas à une nouvelle violence contre un humain identifié.
+
+## 25. Vernant, Detienne, Eliade et les dangers d'une grande morphologie
+
+Vernant et Detienne ont appris à saisir des systèmes de pratiques en relation avec des formes sociales particulières, tout en critiquant les classements trop généraux. Leur œuvre invite à résister à l'équation « sang = impureté » comme principe sans exceptions : selon le rite, le sang peut être offrande, puissance vitale, marque de meurtre ou signe de relation divine. Il faut d'abord demander **quel sang, versé où, par qui, pour quel destinataire**.
+
+Chez Eliade, la maison peut évoquer un microcosme dont la purification rétablit les frontières. Cette interprétation donne une intelligibilité spatiale, mais sa portée historique reste limitée : la composition CTH 446 appartient à un corpus savant traversé de traditions et de copies. Une théorie générale du centre et du chaos ne doit pas effacer les divergences de manuscrits ni les questions de dating.
+
+## 26. Les spécialistes modernes : Trameri, Trémouille, Feder
+
+Andrea Trameri (2022) a fourni une nouvelle base de contrôle : une édition critique accompagnée d'une présentation paléographique, de la discussion des opérations et de l'histoire rédactionnelle du texte. Les chapitres sur le caractère littéraire posent une question essentielle à toute recherche sur les rituels antiques : peut-on déduire un événement de la présence d'une prescription écrite ? La réponse exige un degré de prudence variable selon les témoins.
+
+Yitzhaq Feder, dans « The Mechanics of Retribution in Hittite, Mesopotamian and Ancient Israelite Sources » (2010), interroge la représentation de la rétribution et la relation entre conventions littéraires et causalité religieuse. Son approche aide à éviter l'opposition simpliste entre croyance en une force impersonnelle « primitive » et action de dieux « évoluée ». Dans CTH 446, les divinités interviennent dans une procédure qui peut comporter des transferts de souillure : il n'y a pas besoin de postuler deux stades de religion successifs.
+
+## 27. Hypothèse de synthèse : purifier sans effacer l'histoire
+
+Le rite ne remonte pas le temps. Même si la maison est déclarée ou considérée comme purifiée, le sang versé n'est pas « déversé en sens inverse », et l'homicide n'est pas annulé dans l'ordre des événements. [H] CTH 446 peut être interprété comme l'institution d'une séparation entre **l'événement irréversible** et **la possibilité renouvelée d'habiter**. La formule n'est pas une traduction hittite, mais une manière contemporaine de poser l'objet anthropologique de la purification.
+
+Cette hypothèse explique pourquoi la maison est un cas fécond pour l'histoire du sacré : la restauration de l'espace ne se confond ni avec le pardon juridique, ni avec le deuil, ni avec une réparation matérielle. Plusieurs modes de traiter la catastrophe peuvent coexister. En montrant comment des puissances souterraines sont mobilisées pour faire sortir une atteinte du domaine habité, CTH 446 permet d'étudier une technologie religieuse de l'après-coup.
+
+## 28. Conclusions documentaires et perspectives
+
+**Attestations :** CTH 446 est une composition rituelle hittite conservée par plusieurs tablettes, prescrivant une purification d'habitation sur deux jours ; la souillure du sang y joue un rôle central ; les « dieux anciens » de l'horizon souterrain hurro-hittite sont appelés. **Controverses :** datation précise de plusieurs états du texte, composition des unités, origine des motifs, nature savante ou performative, interprétation du sang comme meurtre et fonction de chaque opération. **Hypothèses :** réouverture d'un lieu de vie, restauration d'une frontière domestique, action sociale de la temporalité rituelle.
+
+Les prochaines recherches gagneraient à confronter les témoins tablette par tablette, à établir un tableau des gestes avec leur numéro de ligne dans l'édition critique et à rechercher des contextes de fouille susceptibles de relier des pratiques domestiques à des prescrits. **Aucune mise en scène matérielle détaillée n'est garantie** par le seul catalogue CTH. Le dossier n'apporte pas une preuve de « purification universelle » ; il documente la manière située dont des spécialistes du Hatti ont écrit une méthode pour affronter un trouble du lieu habité.
+
+## Sources primaires — corpus documentaire contrôlable
+
+1. **CTH 446**, rituel hittite de purification d'une maison par invocation des dieux anciens, ensemble des témoins et duplicats réunis selon la concordance de **Trameri (2022)**. Première source primaire de cette étude ; *composition* et non tablette unique.
+2. **KUB 7.41**, identifié dans la liste des témoins comme **A** ; les lignes utilisées doivent être recherchées dans l'apparat critique, sans attribuer le texte reconstitué en totalité à ce seul objet.
+3. **KBo 10.45 + KBo 46.54 + ABoT 2.30**, groupe de témoins **B** selon la présentation de Charekishvili (2022).
+4. **KUB 41.8 + KBo 48.89 + KBo 58.14**, groupe de témoins **C**, même précaution de collation.
+5. **Lévitique 16, 7–10 ; 20–22** : exemple comparatif de procédure de retrait des fautes, sans filiation revendiquée. [Texte hébreu et traductions](https://www.sefaria.org/Leviticus.16).
+6. **IG I³ 104**, réinscription de la loi draconienne d'homicide à Athènes (409/408 av. J.-C.), utilisée uniquement comme terme de comparaison pour la différence entre droit de l'homicide et purification d'un lieu.
+
+## Bibliographie académique, éditions, contrôles bibliographiques
+
+- **Trameri, Andrea**, *Purifying a House from Blood: A Hittite Ritual for the Ancient Gods (CTH 446)*, Atlanta, Lockwood Press, **2022**, xvi + 248 p. Chap. 1 p. 1–20 (tablettes et paléographie), chap. 2 p. 21–40 (contenu), chap. 3 p. 41–130 (édition), chap. 4 p. 131–148 (contexte), chap. 5 p. 149–156 (finalité), chap. 6 p. 157–164 (statut littéraire). [Notice officielle de l'éditeur, DOI 10.5913/2022754](https://www.lockwoodpressonline.com/index.php/ebooks/catalog/book/53) ; [édition et sommaire JSTOR](https://www.jstor.org/stable/j.ctv2b07vp8).
+- **Charekishvili, Nino**, « CTH 446 – The Ritual of Purifying the House and Invoking the Deities of the Underworld », *History, Archaeology, Ethnology*, VIII, **2022** (liste des témoins). [Article et résumé](https://sciencejournals.ge/index.php/HAE/article/view/298).
+- **Görke, Susanne**, compte rendu de Trameri, *Journal of Near Eastern Studies* **83/1** (2024), p. 175–178. [DOI 10.1086/729677](https://doi.org/10.1086/729677).
+- **Feder, Yitzhaq**, « The Mechanics of Retribution in Hittite, Mesopotamian and Ancient Israelite Sources », *Journal of Ancient Near Eastern Religions* **10/2** (2010), p. 119–157. [DOI 10.1163/156921210X538089](https://doi.org/10.1163/156921210X538089).
+- **Laroche, Emmanuel**, *Catalogue des textes hittites*, Paris, Klincksieck, **1971** (système de classement CTH ; éditions et addenda ultérieurs à consulter).
+- **Güterbock, Hans G., et Hoffner, Harry A.** (dir.), *The Hittite Dictionary of the Oriental Institute of the University of Chicago*, Chicago, Oriental Institute (plusieurs volumes et fascicules ; consulter les lemmes et les formes fléchies selon l'état des éditions). [Répertoire documentaire ETANA](https://etana.org/node/10844).
+- **Albanese, Mariateresa**, étude sur le rituel royal de Kizzuwatna, *Asia Anteriore Antica* **2** (2020), DOI [10.13128/asiana-688](https://doi.org/10.13128/asiana-688). Comparaison de procédures hittites, non identification à CTH 446.
+- **Gilan, Amir**, « The Ewe that was a Scapegoat Bride: A New Look at the Hittite Bestiality Purification Ritual KUB 41, 11+ », *Zeitschrift für Assyriologie und Vorderasiatische Archäologie* **108/2** (2018), p. 226–234, DOI [10.1515/za-2018-0017](https://doi.org/10.1515/za-2018-0017). Texte différent de CTH 446 ; utile pour discuter les faux parallèles de substitution.
+- **Parker, Robert**, *Miasma: Pollution and Purification in Early Greek Religion*, Oxford, Clarendon Press, 1983 ; comparaison des catégories grecques sans équivalence lexicale présupposée.
+- **Durkheim, Émile**, *Les Formes élémentaires de la vie religieuse*, Paris, Alcan, 1912 ; arrière-plan sociologique, non attestation hittite.
+- **Detienne, Marcel, et Vernant, Jean-Pierre** (dir.), *La Cuisine du sacrifice en pays grec*, Paris, Gallimard, 1979 ; méthode comparatiste.
+- **Girard, René**, *La Violence et le sacré*, Paris, Grasset, 1972 ; modèle théorique discuté, non transposition directe.
+- **Eliade, Mircea**, *Le Sacré et le Profane*, Paris, Gallimard, 1965 (éd. française) ; catégories spatiales à manier comme instruments d'analyse.
+- **Nietzsche, Friedrich**, *Zur Genealogie der Moral* (1887) ; cadre philosophique de discussion de la faute et de la dette.
+- **Hegel, G. W. F.**, *Grundlinien der Philosophie des Rechts* (1821) ; cadre philosophique des relations entre personne et ordre collectif.
+
+## Responsabilité éditoriale
+
+Le travail distingue explicitement les **données du texte édité**, les **interprétations publiées** et les **hypothèses de synthèse**. Il n'impute à aucune tablette des lignes que nous n'avons pas personnellement collationnées et n'invente ni citation hittite ni itinéraire concret d'un officiant. La comparabilité d'une procédure ne démontre pas sa transmission historique. L'objectif est une histoire documentée du sacré qui accepte les discontinuités, identifie l'épaisseur scribale des textes et traite la maison comme une réalité matérielle et sociale.

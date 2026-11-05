@@ -1,0 +1,370 @@
+# MYTHOS — Encyclopédie des tragédies grecques — Volume CCXLIX (249)
+
+# Sophocle — *Les Phrygiens* (Φρύγες)
+
+## Arès, la mort des meilleurs et l’énigme d’un hyménée : étude philologique, dramatique et philosophique d’une tragédie perdue
+
+*Étude intégrale de la pièce attribuée à Sophocle, TrGF IV, fragments 724–725 Radt. Texte public de recherche ; reconstruction explicitement conjecturale.*
+
+### Résumé
+
+Deux fragments seulement sont conservés sous le titre *Les Phrygiens* de Sophocle. Le premier, transmis par Stobée, oppose la noblesse guerrière au caractère aveugle de la sélection exercée par Arès : la guerre frappe précisément ceux dont une communauté aurait besoin. Le second, cité dans un lexique de Photius, comporte une allusion à une célébration nuptiale, dans un énoncé dont la restitution et le mètre restent discutés. Entre la mort des meilleurs et l’hyménée, une tension remarquable se dessine ; elle ne constitue cependant pas la preuve d’une intrigue déterminée. Un scholiaste a attribué au *Phrygiens* de Sophocle l’attitude silencieuse d’Achille, mais cette indication est généralement tenue pour une confusion avec les *Phrygiens* d’Eschyle. La présente étude expose ces données, leurs transmissions, les difficultés textuelles, quatre modèles narratifs concurrents, puis les enjeux éthiques de la guerre et du mariage à travers Homère, Platon, Aristote, Hegel et Nietzsche. Elle ne convertit aucune conjecture en citation ou en scène sophocléenne.
+
+**Mots clés :** Sophocle ; *Phrygiens* ; TrGF 4 F 724–725 ; Stobée ; Photius ; Guerre de Troie ; Priam ; Achille ; hyménée ; courage ; noblesse ; hasard de la mort ; transmission fragmentaire ; tragédie perdue ; réception.
+
+## I. Place de l’œuvre dans le corpus critique et continuité éditoriale
+
+### 1. Une étude autonome, pas une nouvelle version d’Eschyle
+
+Le titre grec Φρύγες signifie « Phrygiens ». Dans la poésie grecque relative à Troie, les Phrygiens peuvent désigner des populations d’Anatolie, les alliés de Troie ou, par extension littéraire, le monde troyen. Ce pluriel ne livre pas à lui seul la liste des personnages dramatiques, le lieu de l’action ou l’identité du chœur. Il ne prouve pas davantage une représentation ethnographique réelle de la Phrygie historique.
+
+MYTHOS possède déjà une monographie des *Phrygiens* d’Eschyle, consacrée à la rançon d’Hector ; le dossier de Sophocle doit rester matériellement distinct. Une autre étude déjà publiée analyse le *Priam* sophocléen. Les problèmes d’identification entre ces titres méritent des renvois, mais aucun renvoi ne justifie de fusionner des œuvres dont la tradition atteste des intitulés distincts. Les deux seuls fragments numérotés 724 et 725 concernent précisément le dossier sophocléen qui suit *Phrixos* dans le classement de Radt. Cette succession est bibliographique, non chronologique : rien n’autorise à dater les créations dans cet ordre.
+
+Les dossiers voisins, *Phénix* (F 718–720) et *Phrixos* (F 721–723a), concernent d’autres légendes et ne sont pas réutilisés ici. À la suite des *Phrygiens*, le classement scientifique présente *Chrysès* (F 726–730), sans qu’aucun numéro éditorial MYTHOS puisse être anticipé.
+
+### 2. Identification bibliographique
+
+L’édition de référence est Stefan Radt, *Tragicorum Graecorum Fragmenta* (TrGF), tome IV, *Sophocles*, première édition 1977, édition revue et augmentée 1999. La concordance F 724–725 est corroborée indépendamment par le sommaire scientifique de Jacques Jouanna, *Sophocle* (2007), et par Matthew Wright, *The Lost Plays of Greek Tragedy*, volume 2 (2018), section *Phrygians (TrGF 4 F724–5)*. La présentation historique d’A. C. Pearson, *The Fragments of Sophocles*, tome II (1917), fournit les anciens commentaires, avec les indications des auteurs qui citent les deux morceaux.
+
+Ces références ne doivent pas être confondues : les chiffres de Stobée, de Photius, de l’*Iliade* et de Radt numérotent des corpus différents. F 724 ne signifie pas « vers 724 d’une pièce », et F 725 ne signifie pas que ces deux extraits se suivaient dans le drame. Leur ordre dépend de la constitution moderne des fragments.
+
+### 3. Trois niveaux de preuve
+
+Le premier niveau est constitué par la citation antique explicitement attribuée à Sophocle et aux *Phrygiens*. Stobée et Photius relèvent de cette catégorie, avec les réserves propres à la transmission des textes. Le deuxième niveau est celui des témoignages indirects où le nom de Sophocle apparaît, mais où l’attribution peut être fautive : c’est le cas décisif de la scholie sur le silence d’Achille. Le troisième niveau rassemble les histoires homériques, les traditions du cycle troyen, les hypothèses de philologues modernes et les images antiques. Toutes sont utiles pour formuler des possibilités ; aucune ne doit être présentée comme la suite authentique de la pièce.
+
+Un quatrième niveau, philosophique, intervient après l’établissement des données : il éclaire des tensions de sens possibles, mais ne prouve jamais le contenu d’une scène perdue.
+
+## II. Les témoins antiques : sources, médiations et fragilité du dossier
+
+### 4. Pourquoi un fragment subsiste-t-il ?
+
+Une pièce du Ve siècle avant notre ère pouvait être recopiée pendant plusieurs siècles, puis disparaître des corpus transmis sans que son titre s’efface tout à fait. Les anthologies de maximes, les dictionnaires et les commentaires scolaires ont sauvé des phrases isolées qui intéressaient les compilateurs pour leur valeur morale ou leur rareté linguistique. La sélection n’est pas neutre : un fragment transmis par un florilège peut représenter une sentence exceptionnelle plutôt que le langage ordinaire de la pièce.
+
+Pour les *Phrygiens*, les deux portes d’entrée sont différentes. Stobée a conservé une réflexion sur la guerre, donc un propos susceptible d’être repris hors de sa situation dramatique. Photius conserve un terme lié au chant nuptial, précisément parce qu’un mot lexicalement intéressant appelle une glose. Le contraste entre ces deux extraits pourrait être un effet du hasard documentaire autant qu’une tension voulue par Sophocle.
+
+### 5. Stobée et le fragment 724
+
+Le fragment **F 724 Radt** est transmis par le *Florilège* de Stobée, dans le dossier repéré dans l’ancienne édition de Hense comme *Florilegium* 8.5 (volume III, p. 341, ligne 10, d’après Pearson). L’extrait est expressément donné à Sophocle, *Phrygiens*. Le propos soutient en substance que la guerre, figurée par Arès, détruit volontiers les hommes nobles et valeureux plutôt que les lâches. La formulation conservée comporte une adresse à un jeune interlocuteur ou à un « enfant » dans la tradition éditoriale ; l’identité de cette personne est inconnue.
+
+Cette paraphrase française est volontairement analytique. Elle n’est pas un texte traduit ligne à ligne depuis une collation personnelle de tous les manuscrits grecs. Les leçons, ponctuations, variantes et éventuelles corrections doivent être contrôlées dans l’apparat de Radt et de Pearson avant toute édition diplomatique ou publication du grec. Il serait inexact de reconstruire une scène de Priam apostrophant Pâris ou d’Achille écoutant Priam sur la seule base de cette adresse.
+
+La dernière idée du fragment — Arès ne tient pas compte des lâches — est attestée séparément par une scholie à l’*Iliade* II, 833, sans identification du poète et de la pièce. Pearson souligne cette transmission partielle et les problèmes de verbes concurrents dans la tradition. La scholie confirme la circulation de la maxime ; elle ne suffit pas à reconstituer le discours d’origine.
+
+### 6. Portée et limites du langage guerrier
+
+La pensée de F 724 n’est pas simplement l’éloge homérique du courage. Elle renverse l’association spontanée entre excellence morale et conservation de la vie. Si les meilleurs meurent avant les moins courageux, la bataille n’est pas une épreuve qui distribuerait proportionnellement récompenses et châtiments. Le champ de bataille ne fonctionne pas comme un tribunal juste. On peut également comprendre la formule comme une lamentation sur la disparition des élites ou des défenseurs de la cité ; dans ce cas, son accent serait communautaire plutôt qu’individuel.
+
+La distinction entre « noble » et « bon » demeure importante. Dans la langue poétique, leur association peut refléter des valeurs aristocratiques, mais les termes évaluent aussi la valeur morale et militaire. Il serait méthodologiquement abusif d’en déduire que Sophocle endosse une doctrine politique de suprématie héréditaire. Une sentence prononcée par un personnage tragique n’est ni la voix de l’auteur ni celle de tous les spectateurs.
+
+Le verbe d’Arès, les expressions proverbiales et le calcul du courage apparaissent également ailleurs dans la poésie archaïque et tragique. Pearson rapproche le dossier d’Anacréon, d’Eschyle et du *Philoctète* de Sophocle, où la violence guerrière frappe ceux qui semblent les meilleurs. Une analogie de sens n’est pas une preuve d’identité de situation.
+
+### 7. Photius et le fragment 725
+
+Le fragment **F 725 Radt** vient du lexique de Photius, à une entrée concernant le langage de l’hyménée. La citation porte le nom de Sophocle et le titre *Phrygiens*. Elle donne à comprendre une injonction ou une question sur la cessation d’une célébration nuptiale et de son chant. L’intérêt du lexicographe tient à une forme verbale rare relative à l’hyménée ; Pearson examine les problèmes métriques et la possibilité d’une lacune dans le texte transmis.
+
+On peut tirer de ce fragment une conclusion ferme mais limitée : le drame évoquait un mariage ou des chants de mariage, peut-être dans une apostrophe, peut-être au titre d’un récit, d’une préparation ou d’une remémoration. On ne peut affirmer que le mariage se déroulait sur scène, que l’union était effectivement conclue, ou que le chœur chantait lui-même un hyménée. Le fragment, même s’il contient une forme verbale au pluriel, ne nomme aucun époux.
+
+L’exégèse du fragment doit conserver trois incertitudes distinctes : l’identité de celui qui parle ; l’événement nuptial visé ; le mode, affirmatif, interrogatif, ironique ou accusateur, dont dépend le sens de l’apostrophe. La simple présence d’un terme nuptial n’élimine aucune de ces incertitudes.
+
+### 8. Une pièce où la mort touche le mariage ?
+
+L’hypothèse la plus suggestive consiste à rapprocher F 724, la sélection funeste de la guerre, et F 725, la célébration de l’alliance. La juxtaposition pourrait opposer une promesse de fécondité sociale au massacre de ceux qui devraient la réaliser. C’est intellectuellement fécond, mais le dossier n’établit pas qu’il s’agisse de deux moments connectés. Les compilateurs ayant privilégié des formules isolées, il est même possible que les morceaux appartiennent à des dialogues éloignés ou à des circonstances sans relation.
+
+Il faut donc résister à l’effet d’un titre que l’on inventerait après coup, par exemple « Les noces interrompues » : formule interprétative admissible dans une note, mais pas titre authentique de Sophocle.
+
+## III. Le témoignage du silence d’Achille : une fausse certitude à éliminer
+
+### 9. La scholie au *Prométhée enchaîné*
+
+Une scholie ancienne à *Prométhée enchaîné*, autour du vers 436 dans la tradition commentée, mentionne un Achille silencieux dans des *Phrygiens* attribués à Sophocle. On pourrait croire y reconnaître les *Phrygiens* d’Eschyle, dans lesquels Achille demeure longtemps muet avant la scène de supplication de Priam. La recherche moderne privilégie précisément une confusion de nom d’auteur. Pearson signale le caractère suspect du témoignage ; Wright le qualifie de très probablement erroné, et renvoie aux études de Lloyd-Jones.
+
+La discussion ne doit pas être simplifiée en « Sophocle a imité Eschyle » ni en « Sophocle n’a jamais représenté Achille ». Le témoignage est suffisamment imprécis pour ne pas rendre impossible la présence d’Achille chez Sophocle, mais trop vulnérable pour la prouver.
+
+### 10. Aristophane et le contraste documentaire
+
+Les *Grenouilles* d’Aristophane, autour des vers 911 et suivants, évoquent le procédé eschyléen de personnages silencieux, dont Achille. Ce passage concerne le style et les techniques dramatiques d’Eschyle ; il fournit un point de contrôle indépendant sur la tradition du silence célèbre. La *Vie d’Eschyle* ancienne renforce ce rattachement au poète d’Éleusis. La convergence ne certifie pas l’intégralité du drame eschyléen, mais elle montre pourquoi une scholie tardive ne doit pas prendre le pas sur l’ensemble des témoins.
+
+Cette correction a une conséquence majeure : sans elle, on écrirait presque automatiquement que les *Phrygiens* de Sophocle racontaient la rançon d’Hector ; avec elle, le récit homérique reste seulement l’une des hypothèses possibles. Le premier devoir d’une édition scientifique consiste parfois à retirer une information spectaculaire plutôt qu’à l’ajouter.
+
+### 11. Homonymie et déplacement de l’auteur
+
+Eschyle a produit une œuvre connue aussi comme *La Rançon d’Hector*, intégrée à une tradition d’Achilléide. Le pluriel *Phrygiens* pouvait renvoyer à l’entourage troyen venu chercher le corps, sans impliquer que l’action se déroule en Phrygie. Chez Sophocle, l’expression pourrait également désigner un chœur de Troyens, mais nous n’avons aucune attestation de cette distribution.
+
+Le risque de contamination est double : attribuer à Sophocle les procédés eschyléens et, inversement, importer dans Eschyle le fragment sophocléen sur les noces. Les deux opérations détruisent la spécificité des dossiers, quel que soit le résultat séduisant de la narration moderne.
+
+## IV. La matière troyenne : ce que racontent les autres œuvres
+
+### 12. Les Phrygiens dans la représentation homérique
+
+Dans l’*Iliade*, la Phrygie et les Phrygiens interviennent comme éléments d’une géographie orientale riche en alliances et en généalogies. Priam évoque des relations anciennes avec les terres d’Anatolie ; les combats troyens mobilisent des contingents qui dépassent la population d’Ilion. Ainsi le titre sophocléen peut désigner une collectivité alliée plutôt qu’un protagoniste unique.
+
+Le passage homérique II, 833, où un scholiaste cite la maxime conservée à la fin de F 724, ne signifie pas que Sophocle dramatisait l’épisode décrit à cet endroit du catalogue des forces. Les scholiastes utilisent volontiers un poète pour expliquer un emploi de langage ou confirmer un proverbe ; les renvois littéraires ne sont pas toujours des renvois d’intrigue.
+
+### 13. Le dernier chant de l’*Iliade*
+
+Le chant XXIV présente un père qui entre dans le camp de l’ennemi pour réclamer le corps d’Hector. Le vieux Priam rencontre le meurtrier de son fils, Achille ; ils pleurent chacun des êtres différents et trouvent une relation précaire dans la commune expérience du deuil. La rançon rend possible un acte funéraire et une suspension limitée de la guerre. Cet épisode peut éclairer la pensée de F 724 : la guerre a bien tué un défenseur parmi les plus estimés, mais l’humanité se mesure ensuite à la possibilité de traiter dignement le mort et son père.
+
+Néanmoins **rien dans F 724–725 ne dit expressément « Hector », « Achille » ou « Priam »**. Homère fournit un cadre de comparaison, non un scénario sophocléen reconstitué. La présence d’un mariage dans F 725 complique même l’identification automatique avec la seule rançon.
+
+### 14. Le mariage de Pâris et d’Hélène
+
+Une hypothèse ancienne, relevée par Pearson à propos de Reitzenstein, rattache F 725 aux noces de Pâris et d’Hélène et imagine Cassandre contestant la célébration. Elle prend appui sur l’énorme poids étiologique du mariage dans la tradition troyenne : l’union à l’origine du conflit porte, au sein de la maison royale, une promesse intime et un péril collectif.
+
+Les objections sont immédiates. L’extrait ne mentionne ni Cassandre, ni Pâris, ni Hélène ; aucune attestation ne nous dit que le chœur des *Phrygiens* interprétait une noce historique ou légendaire. Un passage sur la guerre, F 724, pourrait rétrospectivement condamner cette union, mais il pourrait aussi relever d’un tout autre épisode. Il s’agit d’un modèle de lecture possible, non d’un fait conservé.
+
+### 15. Achille et Polyxène : une autre tradition de noces
+
+D’autres exégètes, notamment Blass selon Pearson, rapprochent F 725 d’une promesse de mariage entre Achille et Polyxène, fille de Priam. Des traditions tardives relient une négociation matrimoniale et une embuscade contre Achille près d’un sanctuaire d’Apollon Thymbraios. Hygin, *Fables* 110, fait partie des textes mobilisés dans cette histoire comparée.
+
+La chronologie des témoins impose une retenue particulière. Un récit tardivement fixé ne peut être attribué rétroactivement à la représentation du Ve siècle sans chaîne documentaire précise. Le mariage d’Achille et Polyxène pourrait expliquer l’alliance paradoxale du chant nuptial et de la mort guerrière, mais il ne prouve pas que Sophocle employait ce scénario. La pièce perdue *Polyxène* de Sophocle, étudiée ailleurs dans MYTHOS, n’est pas davantage une annexe démontrée des *Phrygiens*.
+
+### 16. Le titre *Priam* comme candidat à la synonymie
+
+Les éditions anciennes ont aussi envisagé que *Phrygiens* et *Priam* aient pu désigner un même drame. La conjecture part de la proximité thématique et du fait que certains titres antiques ont plusieurs formes, selon que l’on nomme un héros ou une collectivité. Ce n’est pourtant pas une identification transmise avec certitude. Le dossier *Priam* doit donc rester distinct tant que l’on ne peut relier les deux par un témoignage précis ou par une continuité textuelle contraignante.
+
+Une encyclopédie critique gagne à signaler ces doublets possibles sans les transformer en fusions éditoriales. Elle garde l’incertitude visible pour que le lecteur puisse suivre l’histoire de la question.
+
+## V. Quatre reconstructions dramaturgiques comparées
+
+### 17. Méthode : modèles de cohérence, non synopsis authentiques
+
+Les quatre hypothèses ci-dessous sont des outils de comparaison. Aucune ne prétend reproduire l’ouverture de la pièce, les parties chorales, les entrées des personnages, la fin ou le dénouement. Chaque modèle doit rendre compte des deux fragments avec le minimum d’hypothèses supplémentaires. Leur examen distingue systématiquement arguments, difficultés et degré de confiance.
+
+**Modèle A — La supplication de Priam et la rançon d’Hector.** La guerre a tué le meilleur défenseur de Troie : F 724 pourrait être une plainte sur la mort d’Hector. Des chants nuptiaux de F 725 pourraient rappeler par contraste les unions promises et désormais détruites, ou évoquer une autre fête. L’appui extérieur se trouve chez Homère et dans l’homonyme eschyléen. Mais la scholie attribuant le silence à Sophocle est suspecte, et la noce paraît difficile à loger au cœur de la rançon sans invention supplémentaire. **Degré : possibilité non démontrée, fortement compromise si elle repose sur la scholie.**
+
+**Modèle B — Les noces de Pâris et d’Hélène.** La cour troyenne fêterait une alliance qui annonce la guerre ; un personnage prophétique ou politique confronterait cette liesse aux morts à venir. F 725 peut se lire comme une remise en cause du chant nuptial, et F 724 comme l’annonce de la perte des meilleurs. Toutefois rien ne prouve les noces sur scène, la parole de Cassandre ni une structure prophétique. **Degré : conjecture dramaturgiquement intelligible, matériellement indécidable.**
+
+**Modèle C — Une alliance funeste autour d’Achille et Polyxène.** Le mariage envisagé unirait provisoirement les camps, puis échouerait dans un attentat ou une trahison ; F 724 exprimerait le caractère tragique d’une mort militaire qui anéantit la valeur, F 725 l’hyménée interrompu. Sa force réside dans l’étroite articulation des deux thèmes ; sa faiblesse tient à la dépendance de récits secondaires et tardifs dont l’antériorité à Sophocle n’est pas démontrée. **Degré : hypothèse de réception du mythe, non reconstitution vérifiable.**
+
+**Modèle D — Un épisode troyen différent, avec fête et bilan des morts.** Le pluriel *Phrygiens* désignerait un chœur troyen ou anatolien à l’occasion d’un mariage princier, d’une victoire apparente, d’un deuil ou d’une crise dynastique sans lien direct avec les scénarios précédents. Il pourrait rendre compte des deux fragments sans importer le silence d’Achille. En revanche, le modèle est presque indéterminé : faute d’ancrage, il ne permet pas de proposer une liste de personnages. **Degré : hypothèse minimale, peu falsifiable.**
+
+### 18. Les difficultés communes aux quatre modèles
+
+Nous ignorons la date de création et la place éventuelle de la pièce dans une tétralogie ; le lieu de l’action ; le nombre d’acteurs ; les entrées du chœur ; l’existence d’un messager ; le statut du mariage ; la place des fragments dans l’action. Le titre pluriel ne prouve pas que le chœur était constitué de « Phrygiens », même si cette proposition demeure raisonnable comme possibilité générale.
+
+Les modèles B et C exposent au danger particulier du roman rétrospectif : on choisit l’histoire la mieux connue parmi les variantes puis on lui adjoint les deux fragments. Le modèle A expose au danger de contamination par un auteur homonyme. Le modèle D expose au danger de l’explication vide, capable de s’adapter à n’importe quel fragment. Une reconstruction sérieuse doit conserver ces trois alertes.
+
+### 19. Pourquoi les deux fragments ne suffisent pas à choisir
+
+F 724 désigne un régime de morts où les meilleurs sont particulièrement menacés ; cette sentence pourrait être dite avant une bataille, après une perte, pendant des funérailles ou au cours d’un avertissement. F 725 désigne une pratique nuptiale ; elle pourrait évoquer une cérémonie présente, remémorée, annoncée ou dénoncée. La combinaison mathématique de quatre contextes de guerre et de quatre contextes de mariage produit déjà de nombreuses situations, avant même de choisir des personnages. Aucune de ces possibilités n’est imposée par les attestations.
+
+C’est pourquoi la question du « vrai sujet » doit rester ouverte. Les deux fragments ne sont pas des morceaux suffisants d’un puzzle dont on connaîtrait l’image finale.
+
+## VI. Poétique et dramaturgie : ce que l’on peut analyser sans inventer
+
+### 20. Le retournement possible de la valeur
+
+La phrase de F 724 fait entendre un paradoxe central de la pensée tragique : une vertu socialement utile peut devenir la condition même de l’exposition à la mort. Celui qui sait tenir le rang peut demeurer au premier rang du danger. L’association de la valeur et du péril ne signifie pas qu’Arès distribue une récompense négative par dessein moral ; la métaphore poétique personnifie la violence d’une sélection sans justice.
+
+Ce paradoxe dépasse le simple pathétique. Une société qui perd systématiquement ses défenseurs peut compromettre sa continuité ; un discours aristocratique sur la belle mort risque alors de célébrer le mécanisme qui détruit sa propre base. La sentence permet cette lecture critique, même si nous ignorons si elle était prononcée avec courage, amertume, colère ou résignation.
+
+### 21. La parole de consolation et son envers
+
+Une sentence générale sur la guerre peut servir à consoler un parent : la mort de l’homme aimé n’est pas due à sa faute, car la guerre frappe précisément les meilleurs. Elle peut inversement aggraver la douleur : perdre les meilleurs est la preuve d’une absurdité insupportable. Les deux fonctions rhétoriques sont compatibles avec le texte conservé. La distinction dépendrait du geste, de l’interlocuteur et du moment dramatique, tous disparus.
+
+Il serait donc artificiel de déclarer F 724 « discours de Priam à Pâris », « tirade d’Achille », ou « oracle de Cassandre ». Les philologues du XIXe et du début du XXe siècle ont exploré de telles attributions ; leur valeur est historique et heuristique, pas documentaire au sens fort.
+
+### 22. Le chant de mariage comme épreuve de communauté
+
+L’hyménée n’est pas seulement un bruit de fête. Dans la poésie et dans les pratiques grecques, le chant nuptial rend publique une alliance privée ; il mobilise des proches, établit des attentes de descendance, de continuité et de prospérité. Une allusion à sa cessation peut être compatible avec une joie terminée normalement, une cérémonie interrompue, une accusation de fête indécente ou le souvenir d’une union perdue.
+
+À partir de F 725, il est légitime d’étudier la valeur dramatique possible du chant, non de l’inscrire comme scène avérée. Même la présence d’un chœur sur scène ne suffirait pas à prouver que ce chœur ait chanté l’hyménée : la parole peut commenter un chant hors scène ou passé.
+
+### 23. Temporalité tragique de la promesse
+
+Un mariage promet un futur ; la bataille peut supprimer ce futur. Si les deux fragments étaient liés, l’épreuve dramatique pourrait naître de ce conflit de temporalités : engagement et extinction, descendance attendue et génération frappée. Cette articulation éclaire nombre de drames anciens, depuis les unions de la maison des Atrides jusqu’aux jeunes gens immolés du cycle troyen. Elle reste ici une **lecture de potentiel dramaturgique**, non l’identification d’un épisode précis.
+
+### 24. L’action et la maxime dans la *Poétique*
+
+Dans la *Poétique*, Aristote distingue le caractère, la pensée et l’agencement des faits. Le fragment de Stobée appartient à ce qu’un extrait laisse saisir le plus aisément : une pensée formulable et détachable. Il renseigne beaucoup moins sur le *mythos*, l’organisation des actions. Nous ne pouvons en déduire ni péripétie, ni reconnaissance, ni catastrophe finale. Le mot « tragédie » ne commande pas non plus d’inventer une mort sur scène ; la mort peut précéder l’action ou n’exister qu’en récit.
+
+Une reconstruction doit se demander ce qu’un renseignement permet d’exclure, non seulement ce qu’il permet d’imaginer. F 725 exclut difficilement un récit de guerre, puisque les alliances font partie de l’univers troyen ; il exclut cependant toute affirmation selon laquelle le drame ne contenait absolument aucune référence au mariage. Voilà une conclusion modeste mais positive.
+
+## VII. La réflexion platonicienne : courage, jugement et éducation
+
+### 25. Le courage n’est pas le résultat de la survie
+
+Dans le *Lachès*, Platon confronte plusieurs conceptions du courage : tenir bon, connaître ce qu’il faut craindre ou espérer, demeurer ferme dans l’épreuve. Le fragment 724 attribué à Sophocle met en lumière un présupposé que la discussion philosophique peut interroger : le courageux n’est pas celui qui survit, et le mort n’a pas nécessairement été imprudent. L’expérience militaire ne juge pas sûrement la vertu du soldat.
+
+Le parallèle ne transforme pas Sophocle en platonicien avant la lettre. Il souligne plutôt une différence de méthode. La sentence tragique met en présence le sacrifice des meilleurs et le dégoût d’un monde violent ; la discussion philosophique recherche une définition conceptuelle qui rendrait possible le discernement. La pensée de la pièce ne peut pas être identifiée à la doctrine de Socrate.
+
+### 26. Arès, nécessité et justice dans la *République*
+
+Dans la *République*, les réflexions sur l’éducation des gardiens, les récits poétiques et la conduite à la guerre invitent à distinguer bravoure, discipline et autorité de la cité. Le vers de Sophocle sur Arès pourrait servir d’antidote à la rhétorique qui fait de la victoire la preuve du bon droit. Les meilleurs combattants peuvent mourir sans que leur cité ait été injuste ou qu’eux-mêmes aient manqué de courage.
+
+Mais la philosophie platonicienne ne se contente pas d’exposer les pertes : elle demande quel type d’éducation rend la cité moins dépendante du hasard des passions. Un drame éventuellement centré sur des noces troyennes inviterait à demander si une décision privée peut mettre la cité en danger. Cette seconde question demeure hypothétique, faute d’attribution du mariage.
+
+### 27. Le *Gorgias* : pouvoir de persuasion et limite de la violence
+
+Le *Gorgias* distingue, dans des termes débattus, la puissance persuasive, la justice et les formes de domination qui ne rendent pas leurs détenteurs réellement meilleurs. Appliqué à F 724, le débat conduit à refuser l’idée que la force produit d’elle-même la vérité morale. Arès élimine des corps ; il n’évalue pas les raisons. La guerre impose des résultats sans distribuer du sens.
+
+Aucune référence au *Gorgias* n’est un témoignage sur l’origine de F 724. La comparaison est une interprétation philosophique actuelle, explicitement située hors du dossier philologique.
+
+## VIII. Hegel : communauté, reconnaissance et conflit des biens
+
+### 28. La grandeur du héros et la vulnérabilité de la communauté
+
+Dans les *Leçons sur l’esthétique*, Hegel lit la tragédie antique à partir de puissances éthiques devenues incompatibles dans l’action. Si F 724 intervient devant des morts de la guerre, il peut éclairer la vulnérabilité de la communauté qui exige une vertu martiale tout en exposant ses meilleurs membres à la disparition. Une puissance qui protège la cité dans son principe la détruit dans l’effectivité d’une guerre prolongée.
+
+La thèse hégélienne ne doit pas être appliquée mécaniquement. Nous n’avons pas les deux positions dramatiques en conflit ; nous n’avons qu’un jugement sur la guerre. On ne peut donc pas qualifier sûrement les *Phrygiens* de tragédie de la collision entre « famille » et « État ». L’hypothèse devient particulièrement stimulante si un mariage relie les deux sphères, mais le fragment 725 ne précise pas le statut de cette alliance.
+
+### 29. Reconnaître l’adversaire : une comparaison avec Homère
+
+La rencontre homérique de Priam et d’Achille au chant XXIV ouvre une possibilité de reconnaissance réciproque par-delà la guerre. Priam est le père d’un ennemi tué ; Achille est le meurtrier qui se souvient de son propre père. La reconnaissance ne supprime ni les morts ni les responsabilités. Elle désarme momentanément la logique de l’hostilité.
+
+On peut lire cet épisode à la lumière des discussions hégéliennes sur la reconnaissance sans prétendre qu’Hegel en a fait la clé précise du drame perdu de Sophocle. Le danger d’une telle lecture serait de projeter sur F 724 une réconciliation que rien n’atteste dans les *Phrygiens*. L’analyse comparative doit laisser ouverte l’issue possible du drame : apaisement, nouvelle catastrophe ou suspension sans résolution.
+
+### 30. La négativité sans consolation
+
+Ce qui fait la force de F 724 est aussi ce qui résiste à une synthèse trop rapide : la mort des meilleurs est irréversible. En faire le simple coût nécessaire d’une réconciliation ultérieure effacerait les vies concrètes et la brutalité de la sélection. La lecture hégélienne n’a de sens que si elle préserve cette irréductibilité au lieu d’annoncer une résolution dont la pièce ne conserve aucune trace.
+
+## IX. Nietzsche : puissance, noblesse et critique des justifications guerrières
+
+### 31. L’apollinien et le dionysiaque, avec prudence
+
+Dans *La Naissance de la tragédie*, Nietzsche oppose et articule des forces esthétiques dont les noms apollinien et dionysiaque indiquent des manières différentes d’affronter l’existence. F 724 pourrait être lu comme expression d’une sagesse tragique attentive à ce que la valeur humaine ne protège pas de la destruction. Mais nous n’avons ni musique ni chœur attestés : il serait abusif de déclarer F 725 « intervention dionysiaque des Phrygiens » ou « preuve de la consolation métaphysique ».
+
+L’hyménée est un chant rituel, non un indice suffisant de technique chorale ou de métaphysique de l’œuvre. L’extrait de Photius n’autorise aucune reconstruction musicale.
+
+### 32. Les nobles sont-ils sauvés par leur noblesse ?
+
+La *Généalogie de la morale* examine la genèse des évaluations et les rapports entre noblesse, puissance et ressentiment. En regard, la formule de F 724 pose une question aiguë : l’excellence reconnue par la communauté confère-t-elle une autorité sur la mort ? Non. La guerre peut privilégier comme victimes ceux qui incarnent les valeurs de la communauté.
+
+Une lecture nietzschéenne pourrait dénoncer le besoin ultérieur de transformer ces morts en justification absolue de la guerre. Elle pourrait également mettre en évidence le prestige ambigu attaché à l’exposition héroïque. Il ne faut cependant pas rabattre la noblesse grecque sur la terminologie nietzschéenne de l’aristocratie psychologique ou de la volonté de puissance. Nous analysons une analogie, pas une filiation conceptuelle directe.
+
+### 33. De la cruauté à l’interprétation du malheur
+
+Dans la *Généalogie*, la souffrance suscite souvent des recherches de responsables et de sens. Le fragment 724 offre un mécanisme de personnification : on dit « Arès », comme si la violence avait une volonté capable de choisir ses victimes. Cette figure poétique donne une forme à une expérience absurde. Elle ne prouve pas que la pièce affirmait la responsabilité immédiate d’un dieu nommé Arès.
+
+Le risque moral apparaît lorsque la métaphore devient explication punitive. Si la guerre tue les meilleurs, les survivants pourraient être soupçonnés de lâcheté ; or rien ne garantit ce jugement collectif. Une sentence tragique ne remplace pas l’enquête sur chaque mort. Nietzsche aide à interroger cette demande d’interprétation, sans fournir une interprétation unique de Sophocle.
+
+## X. Anthropologie comparative : guerres, unions et rituels sans équivalences forcées
+
+### 34. Le mariage comme acte politique
+
+À l’échelle de nombreuses sociétés anciennes, des mariages aristocratiques créent des alliances, des obligations de succession et des possibilités de paix, mais aussi de nouvelles disputes. Le monde épique grec présente plusieurs unions qui déplacent les loyautés de familles et de cités. F 725 autorise la question du mariage comme enjeu politique ; il n’atteste pas une négociation diplomatique particulière.
+
+Une comparaison avec des traités matrimoniaux du Proche-Orient ancien ne serait fondée qu’avec des documents précis, une chronologie et la distinction entre mariage historique et fiction héroïque. L’existence universelle d’un rituel nuptial n’autorise pas à reconstruire la cérémonie troyenne de Sophocle à partir de pratiques hittites, mésopotamiennes ou phrygiennes.
+
+### 35. « Phrygiens » : une catégorie poétique, pas une monographie ethnique
+
+Le titre expose à une confusion fréquente entre trois réalités : la Phrygie de l’histoire anatolienne, les Phrygiens des récits homériques et l’usage tragique d’un nom collectif. Ces catégories se recoupent sans se confondre. Rien ne nous permet d’affirmer que Sophocle connaissait ou dépeignait les rites phrygiens réels avec exactitude anthropologique.
+
+Les associations plus tardives de la Phrygie avec Cybèle, les musiques rituelles et certains instruments n’autorisent pas davantage à transformer F 725 en cérémonie de ce culte. La prudence s’impose particulièrement lorsqu’un nom ethnique sert de titre à une œuvre presque entièrement disparue.
+
+### 36. Guerre héroïque et mémoire des disparus
+
+Dans le chant XXIV de l’*Iliade*, l’enterrement d’Hector maintient le nom du mort dans la cité, après que son corps a été exposé à la violence du vainqueur. Les sociétés humaines multiplient les pratiques de réparation des morts ; il serait toutefois illégitime d’utiliser cette généralité pour inventer des funérailles dans les *Phrygiens* de Sophocle.
+
+La comparaison valide est plus restreinte : F 724 porte sur l’évaluation des vies perdues ; la tradition homérique sur la rançon d’Hector porte sur le traitement du corps et des endeuillés. Leur confrontation fait apparaître deux niveaux de l’éthique de guerre — qui meurt et comment les vivants traitent-ils cette mort — sans fusionner leurs œuvres.
+
+## XI. Iconographie et culture matérielle : témoins du mythe, non de la scène
+
+### 37. Un témoin institutionnel sûr : la rançon d’Hector
+
+Le Metropolitan Museum of Art conserve trois fragments d’un cratère en calice apulien de la fin de l’époque classique, vers 360–340 avant notre ère, **inventaire 10.210.17a, b, d**. La notice du musée décrit une scène de rançon du corps d’Hector, avec Priam suppliant Achille, et suggère explicitement une inspiration théâtrale en rapport avec la tragédie d’**Eschyle**. Des éléments figurés de structure scénique sont mentionnés par la notice. Cette précision est capitale : l’objet ne doit surtout pas être légendé comme une « scène des *Phrygiens* de Sophocle ».
+
+Notice du musée : https://www.metmuseum.org/art/collection/search/248302
+
+L’œuvre est utile comme exemple de circulation entre récit héroïque, théâtre et arts figurés ; elle n’établit aucune représentation identique du drame sophocléen.
+
+### 38. Le motif de la supplication sur la céramique attique
+
+Une coupe attique à figures rouges attribuée au Peintre de Briséis, vers 480 avant notre ère, conservée au British Museum (référence **E75**, acquisition **1843,1103.54**), est couramment identifiée à l’approche de Priam vers Achille pour demander le corps d’Hector. La figure faisant face au roi peut être comprise comme un serviteur ou Hermès déguisé, selon les notices iconographiques.
+
+Ressource de repérage et de droits : https://commons.wikimedia.org/wiki/File:Hektor_ransom_BM_E75.jpg
+
+L’objet est antérieur ou contemporain de la carrière de Sophocle ; son motif démontre l’ancienneté de la scène dans l’imaginaire grec, non son inclusion dans cette œuvre précise.
+
+### 39. L’absence d’image des noces et le devoir de légende
+
+Aucune représentation identifiée de F 725 n’est connue dans le dossier étudié. Les scènes grecques de noces sur vase pourraient illustrer en général le lexique de l’hyménée, mais la quantité d’images compatibles rendrait toute attribution particulière trompeuse. La méthode retenue consiste donc à présenter, si une galerie est ajoutée au site, des œuvres nommément référencées avec date, lieu de conservation, inventaire, licence et mention expresse « comparaison iconographique non probante pour Sophocle ».
+
+Une image ne remplace pas un fragment ; elle ne transforme pas une hypothèse dramaturgique en fait archéologique.
+
+## XII. Histoire de la philologie : comment est née l’intrigue imaginaire ?
+
+### 40. Welcker, Bergk, Wecklein et les premières identifications
+
+Pearson rappelle qu’au XIXe siècle, Welcker a rapproché le drame sophocléen de l’homonyme eschyléen, jusqu’à envisager une même scène de Priam devant Achille. La scholie erronée sur le silence du héros avait contribué à cette hypothèse. À une époque où l’on ne disposait que de l’extrait sur la guerre, Bergk a même douté de la légitimité du titre indépendant. Wecklein a suggéré de rendre F 724 à Eschyle.
+
+La découverte ou la reconnaissance du second fragment par la tradition lexicographique a réorienté la question. La mention du mariage a rendu plus fragile une identification exclusive à la rançon d’Hector. Elle n’a cependant pas fourni la solution inverse : un nom de mariage dans une citation ne constitue pas un résumé narratif.
+
+### 41. Reitzenstein et Blass : deux scénarios fondés sur l’hyménée
+
+Selon l’exposé de Pearson, Reitzenstein envisageait un lien avec les noces de Pâris et Hélène, possiblement à travers Cassandre. Blass préférait un contexte plus tardif, éventuellement la mort d’Achille à l’occasion des projets d’union avec Polyxène. Les deux lectures utilisent F 725 comme pivot mais ne disposent pas d’identification sûre de ses interlocuteurs.
+
+Ce qu’elles révèlent est un problème de méthode : un mot fort peut agir comme aimant sur l’imagination philologique. Pour contrôler cette attraction, il faut toujours revenir au dossier de transmission, vérifier le statut de chaque fragment et demander quelle part du scénario provient d’une source étrangère à Sophocle.
+
+### 42. Pearson, Lloyd-Jones, Wright : une prudence cumulative
+
+Pearson (1917), tome II, pp. 324–327 environ, expose sans conclure les principales difficultés : titre, scholie, maxime guerrière, expression nuptiale et problèmes de mètre. Lloyd-Jones (*Sophocles: Fragments*, 1996) et Wright (2018) maintiennent la distinction entre les maigres attestations et les reconstructions. Le titre peut évoquer Troie ; cela ne suffit pas à identifier l’action. Wright rappelle explicitement que F 725 suppose un mariage, élément qui différencie le dossier sophocléen du scénario eschyléen le plus connu.
+
+Cette prudence n’est pas une faiblesse de l’édition moderne. Elle est la seule manière de conserver à l’œuvre perdue sa singularité, au lieu de la dissoudre dans les récits mieux connus.
+
+## XIII. Ce que l’on peut réellement conclure
+
+### 43. Attestations solides
+
+L’existence d’un titre *Les Phrygiens* sous le nom de Sophocle est attestée par deux citations antiques distinctes. Le classement dans TrGF IV est F 724–725. F 724 traite de la guerre et de la vulnérabilité des hommes estimés bons et nobles ; F 725 renvoie au chant nuptial. Un scholiaste relie également l’œuvre à un Achille silencieux, mais l’attribution à Sophocle est très probablement fautive. Le dossier moderne distingue le drame sophocléen des *Phrygiens* d’Eschyle.
+
+### 44. Propositions plausibles, non prouvées
+
+Une matière troyenne est plausible en raison du titre et des comparaisons anciennes. Un personnage pouvait parler à un plus jeune dans F 724. Un mariage pouvait former un enjeu de l’action plutôt qu’une simple réminiscence. L’union de Pâris et d’Hélène, la relation d’Achille et Polyxène, ou la rançon d’Hector ont fourni des reconstructions successives, dont aucune n’est devenue certaine. Il reste possible que le conflit de la pièce ait concerné un épisode troyen tout différent.
+
+### 45. Points demeurés inconnus
+
+Nous ne connaissons ni prologue, ni distribution, ni chœur assuré, ni séquence d’actions, ni dénouement, ni date, ni tétralogie, ni nom d’un protagoniste garanti par un fragment. Nous ne pouvons démontrer l’identité avec *Priam*. Nous ne pouvons attribuer une image antique aux *Phrygiens* de Sophocle, et nous ne pouvons reconstruire une mélodie nuptiale.
+
+Ces lacunes ne sauraient être remplies par la citation de vers grecs inventés ou par un dialogue moderne présenté comme antique.
+
+## XIV. Conclusion générale — La fragilité des valeurs dans une guerre qui ne juge pas
+
+La valeur du petit dossier sophocléen tient à la tension entre un jugement sur la guerre et une mention du chant nuptial. Le premier nous apprend que la victoire ne se confond pas avec la justice : Arès emporte précisément des êtres réputés valeureux. Le second rappelle que la communauté invente aussi des formes de lien, d’alliance et d’avenir. Qu’ils appartiennent ou non à une même séquence dramatique, les deux témoignages autorisent une méditation sur ce que détruit la guerre et sur ce que le mariage voudrait instituer.
+
+La tâche philologique n’est pourtant pas de faire dire à Sophocle ce que son texte ne dit plus. Le fragment 724 ne nomme pas son locuteur ; le fragment 725 ne nomme pas les époux ; la scholie qui nomme le poète pour le silence d’Achille est probablement fautive. C’est sur ces trois frontières de connaissance que repose le commentaire. Les lectures de Platon, Hegel et Nietzsche approfondissent une question humaine, non une intrigue certifiée.
+
+*Les Phrygiens* conserve ainsi la dignité d’une œuvre perdue véritablement distincte : deux fragments, un titre, un champ de traditions et une incertitude documentée. La rigueur consiste à pouvoir présenter ensemble les possibilités de reconstitution et la raison précise pour laquelle aucune n’est devenue le texte.
+
+## XV. Bibliographie critique et corpus de contrôle
+
+### A. Sources antiques et testimonia
+
+1. **Sophocle**, *Phrygiens*, **TrGF IV, F 724–725**, édition de Stefan Radt. L’apparat de Radt constitue la référence canonique pour les numéros modernes. Ni le texte intégral ni l’ordre originel des vers ne sont conservés.
+2. **Stobée**, *Florilegium* / *Anthologium*, ancien repérage **8.5**, éd. Hense, tome III, p. 341, 10 : transmet F 724 sous le nom de Sophocle et le titre des *Phrygiens*. À collationner avec Radt avant reproduction diplomatique.
+3. **Scholies à Homère**, *Iliade* **II, 833** : témoignage indirect sur la sentence finale de F 724, sans identification sûre du poète dans cette citation.
+4. **Photius**, *Lexique*, entrée relative au verbe de l’hyménée : transmet F 725 et son attribution au titre *Phrygiens*. Le texte soulève des difficultés de langue et de mètre, étudiées par Pearson.
+5. **Scholie au *Prométhée enchaîné* d’Eschyle**, autour du vers **436** : mention problématique de l’Achille silencieux chez « Sophocle », généralement corrigée comme confusion avec Eschyle.
+6. **Aristophane**, *Les Grenouilles*, autour des vers **911–920** : témoignage sur la tradition du silence prolongé de personnages chez Eschyle ; à distinguer du dossier de Sophocle.
+7. **Homère**, *Iliade*, **II, 833** et **XXIV, 1–804**, en particulier la rencontre de Priam et d’Achille, l’acceptation de la rançon et les funérailles d’Hector. Texte : https://www.theoi.com/Text/HomerIliad24.html
+8. **Hygin**, *Fables* **110** : récit de la mort d’Achille dans certaines traditions ; comparaison tardive et non source démontrée de la pièce sophocléenne.
+9. **Aristote**, *Poétique*, chapitres **6, 9, 11, 14** : distinction entre pensée, caractère et organisation de l’action, et critères de vraisemblance ; outil méthodologique, non témoin des *Phrygiens*.
+10. **Platon**, *Lachès*, notamment **190e–199e** ; *République*, livres **II–III** ; *Gorgias*, notamment **466a–481b** : comparaisons philosophiques sans valeur d’attribution dramaturgique.
+
+### B. Éditions des fragments et instruments philologiques
+
+11. **Radt, Stefan** (éd.), *Tragicorum Graecorum Fragmenta*, **IV : Sophocles**, Göttingen, Vandenhoeck & Ruprecht, **1977** ; **editio correctior et addendis aucta**, **1999**, F 724–725. Notice de la BnF pour la réédition : https://catalogue.bnf.fr/ark:/12148/cb41332839g
+12. **Pearson, A. C.** (éd.), *The Fragments of Sophocles*, **vol. II**, Cambridge, Cambridge University Press, **1917**, discussion des *Phryges*, autour des pp. **324–327**, et notes sur les deux fragments. Reproduction électronique du commentaire, à transcription OCR imparfaite : https://lexarithmos.app/academy/sophocles/works/pearson-fragments-vol2-1917-part-15/
+13. **Lloyd-Jones, Hugh** (éd. et trad.), *Sophocles, III: Fragments*, **Loeb Classical Library 483**, Cambridge (Mass.), Harvard University Press, **1996**, dossier *Phrygians*. À consulter pour la traduction éditoriale moderne et les divergences avec Pearson.
+14. **Jouanna, Jacques**, *Sophocle*, Paris, Fayard, **2007**, table des œuvres perdues, *Phruges* **F 724–725** et dossier des titres voisins. Notice bibliographique : https://www.bnfa.fr/livre?biblionumber=65368
+15. **Wright, Matthew**, *The Lost Plays of Greek Tragedy*, **vol. II: Aeschylus, Sophocles and Euripides**, London, Bloomsbury Academic, **2018**, section « Phrygians (TrGF 4 F724–5) », **p. 134** ; discussion de la confusion du scholiaste.
+16. **Sommerstein, Alan H.** (dir.), *Sophocles: Selected Fragmentary Plays*, **Volume I**, Liverpool University Press, **2006** : ouvrage comparatif important sur les pièces troyennes fragmentaires ; **ne contient pas une édition exhaustive spécifique des *Phrygiens***. Notice scientifique : https://academic.oup.com/liverpool-scholarship-online/book/38195
+17. **Jebb, R. C., W. G. Headlam et A. C. Pearson**, *The Fragments of Sophocles*, réimpression Cambridge University Press, **2010** de l’édition de 1917 : instrument historique, non substitut à Radt.
+
+### C. Philosophie et études comparatives
+
+18. **Hegel, G. W. F.**, *Vorlesungen über die Ästhetik* (*Leçons sur l’esthétique*), sections sur la tragédie, le conflit éthique et les puissances substantielles ; outil d’interprétation postérieur, non commentaire direct de F 724–725.
+19. **Nietzsche, Friedrich**, *Die Geburt der Tragödie* (*La Naissance de la tragédie*), **1872**, et *Zur Genealogie der Moral* (*Généalogie de la morale*), **1887** ; lectures conceptuelles distinguées des sources antiques.
+20. **Guérin, Françoise**, « L’épopée des Argonautes dans le théâtre perdu de Sophocle », *Bulletin de l’Association Guillaume Budé*, **2012/2**, pp. 19–74, DOI : https://doi.org/10.3406/bude.2012.6948. Ressource méthodologique sur les dangers d’assigner une intrigue à quelques fragments, non étude particulière de *Phrygiens*.
+21. **Wyles, Rosie**, « Greek Tragic Fragments with a Black Sea », dans D. Braund, E. Hall et R. Wyles (dir.), *Ancient Theatre and Performance Culture around the Black Sea*, Cambridge University Press, **2019**, pp. 252–266. Pour la méthode des rapprochements entre espace anatolien et tragédie fragmentaire, sans attribution à cette œuvre : https://kar.kent.ac.uk/63948/
+
+### D. Iconographie vérifiable
+
+22. **The Metropolitan Museum of Art**, *Three fragments of a terracotta calyx-krater*, Apulie, **vers 360–340 av. J.-C.**, **10.210.17a, b, d**, notice institutionnelle : https://www.metmuseum.org/art/collection/search/248302. La notice associe la scène théâtralisée de rançon d’Hector à **Eschyle**, non à Sophocle.
+23. **British Museum**, coupe attique à figures rouges, scène d’approche de Priam auprès d’Achille, **E75** (1843,1103.54), vers 480 av. J.-C. ; photographie documentée : https://commons.wikimedia.org/wiki/File:Hektor_ransom_BM_E75.jpg. Identification iconographique du cycle homérique ; pas de preuve sur la pièce de Sophocle.
+
+### E. Conventions éditoriales de cette livraison
+
+Les renvois **F 724** et **F 725** désignent exclusivement la numérotation de **Radt, TrGF IV**. Les références historiques à Eschyle, à Homère, à Stobée ou aux autres œuvres de Sophocle conservent leurs chiffres propres. Les remarques associées à Pearson représentent l’état d’une discussion ancienne, avec attribution des hypothèses. Les notices institutionnelles d’objets sont données comme preuves de l’existence des objets et de leurs descriptions, non comme preuves de contenu théâtral sophocléen. Aucun texte grec non directement collationné ni aucun dialogue reconstitué n’est présenté comme authentique.
+
+**Fin de la monographie.**
