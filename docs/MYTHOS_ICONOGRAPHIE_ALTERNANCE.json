@@ -5,123 +5,53 @@
   "branch": "main",
   "latest_session": {
     "date": "2026-11-05",
-    "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "previous_kind": "AUDIT ET CORRECTION",
-    "next_kind": "AUDIT ET CORRECTION",
-    "scope": "Séance 48 : trois figures muséales distinctes, contextualisées et réutilisées sans créer de média : Iphigénie à Aulis (réception tragique, Iliade/Agamemnon), Héraclès et Antée (réception XVIIe s. et Nekuia d’Homère), Dionysos (médaillon hellénistique et Théogonie 940–942).",
-    "basis_commit": "22970d3846d4b8461f576258d5242d8a0589d1ab",
-    "verified_sources": [
-      {
-        "page": "philosophie-iliade.html",
-        "section": 14,
-        "id": "icono-iliade-iphigenie-aulis-bol-met-253340-20261105",
-        "src": "/assets/illustrations-articles/met-253340-iphigenie-aulis-bol-megarien.webp",
-        "source_url": "https://www.metmuseum.org/art/collection/search/253340",
-        "museum_object_id": 253340,
-        "object_status": "Bol hellénistique authentique (IIe s. av. J.-C.) ; représentation d’une tragédie, non scène directe de l’Iliade ; photographie non IA"
+    "kind": "AUDIT ET CORRECTION",
+    "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "scope": "Séance 49 : correction des trois renvois locaux cassés des volumes CVI (106) et CVII (107) des comédies grecques, en conservant les deux manuscrits et leurs numéros.",
+    "basis_commit": "eaf80965865007e904d53657ec0eb7fac05ef66f",
+    "audit_evidence": {
+      "github_actions_run": 41990629355,
+      "ci_status": "success for integrity audit (0 hard errors; three 404-type broken-link warnings)",
+      "source_paths": [
+        "chapitres/comedies/volume-106-philyllios-herakles-dorpia-apaturies-protenthai-phratries.md",
+        "chapitres/comedies/volume-106-philyllios-herakles-dorpia-apaturies-protenthai-phratries/index.html",
+        "chapitres/comedies/volume-107-philyllios-plyntriai-nausikaa-lessive-laispodias-scholie-odyssee.md",
+        "chapitres/comedies/volume-107-philyllios-plyntriai-nausikaa-lessive-laispodias-scholie-odyssee/index.html"
+      ],
+      "bad_href": "/comedies-grecques/",
+      "valid_collection_href": "/comedies-grecques-aristophane-menandre/",
+      "total_broken_references": 3,
+      "verified_md_and_html_occurrences": 6,
+      "five_page_spot_check": {
+        "html_ids": 489,
+        "local_fragment_links": 365,
+        "images": 109,
+        "local_asset_references": 290,
+        "duplicate_ids": 0,
+        "broken_local_fragments": 0,
+        "missing_alt": 0,
+        "missing_css_js_images": 0
       },
-      {
-        "page": "philosophie-odyssee.html",
-        "section": 29,
-        "id": "icono-odyssee-heracles-antee-bronze-reception-met-203927-20261105",
-        "src": "/assets/illustrations-articles/met-203927-heracles-antee-bronze.webp",
-        "source_url": "https://www.metmuseum.org/art/collection/search/203927",
-        "museum_object_id": 203927,
-        "object_status": "Bronze historique nord-italien (composition XVIIe s. ou après), non antique ; iconographie différente de l’Odyssée XI ; photographie non IA"
-      },
-      {
-        "page": "philosophie-theogonie.html",
-        "section": 41,
-        "id": "icono-theogonie-dionysos-medaillon-bois-met-256902-20261105",
-        "src": "/assets/illustrations-articles/met-256902-dionysos-medaillon-bois.webp",
-        "source_url": "https://www.metmuseum.org/art/collection/search/256902",
-        "museum_object_id": 256902,
-        "object_status": "Médaillon antique grec authentique (IIe s. av. J.-C.), postérieur à Hésiode ; photographie patrimoniale non IA"
-      }
-    ],
-    "targeted_checks": [
-      {
-        "page": "philosophie-iliade.html",
-        "section": 14,
-        "src": "/assets/illustrations-articles/met-253340-iphigenie-aulis-bol-megarien.webp",
-        "before": {
-          "ids": 118,
-          "duplicates": 0,
-          "anchors": 111,
-          "broken": [],
-          "images": 32,
-          "missing_alt": 0
-        },
-        "after": {
-          "ids": 119,
-          "duplicates": 0,
-          "anchors": 111,
-          "broken": [],
-          "images": 33,
-          "missing_alt": 0
-        }
-      },
-      {
-        "page": "philosophie-odyssee.html",
-        "section": 29,
-        "src": "/assets/illustrations-articles/met-203927-heracles-antee-bronze.webp",
-        "before": {
-          "ids": 117,
-          "duplicates": 0,
-          "anchors": 111,
-          "broken": [],
-          "images": 31,
-          "missing_alt": 0
-        },
-        "after": {
-          "ids": 118,
-          "duplicates": 0,
-          "anchors": 111,
-          "broken": [],
-          "images": 32,
-          "missing_alt": 0
-        }
-      },
-      {
-        "page": "philosophie-theogonie.html",
-        "section": 41,
-        "src": "/assets/illustrations-articles/met-256902-dionysos-medaillon-bois.webp",
-        "before": {
-          "ids": 119,
-          "duplicates": 0,
-          "anchors": 113,
-          "broken": [],
-          "images": 31,
-          "missing_alt": 0
-        },
-        "after": {
-          "ids": 120,
-          "duplicates": 0,
-          "anchors": 113,
-          "broken": [],
-          "images": 32,
-          "missing_alt": 0
-        }
-      }
-    ],
-    "regression": {
-      "script": "scripts/verify_live_site.py",
-      "test": "tests/test_verify_live_site_assets.py::RecentFigurePublicationTests.test_session_48_three_museum_objects_are_required_with_original_webp",
-      "verify_webp_on_deploy": true,
-      "new_binary_files": 0
+      "tree_elements": 4840,
+      "cname": "bobmythos.fr"
     },
-    "pagination": "Manifeste catalog/reading-pdfs.json sur main : Iliade 122 pages PDF, Odyssée 116, Théogonie 117 (analyses seules 107, 101, 103) ; aucune modification des PDF ni re-paginations.",
-    "preservation": "Textes, numérotation, navigation, autres automatisations et horaires inchangés. AGENTS.md et docs/PUBLICATION_CONCURRENTE.md lus avant intégration ; aucune étude numérotée créée, aucun registre modifié.",
-    "publication": "Aucune affirmation de publication publique sans confirmation d’un workflow et contrôle HTTPS du commit.",
-    "limitations": "Contrôles de structure ciblés ; les tests Python, le responsive navigateur et le déploiement restent à confirmer par CI. Le site public ne répond pas au contrôle HTTPS externe.",
+    "changes": {
+      "updated_sources": [
+        "chapitres/comedies/volume-106-philyllios-herakles-dorpia-apaturies-protenthai-phratries.md",
+        "chapitres/comedies/volume-106-philyllios-herakles-dorpia-apaturies-protenthai-phratries/index.html",
+        "chapitres/comedies/volume-107-philyllios-plyntriai-nausikaa-lessive-laispodias-scholie-odyssee.md",
+        "chapitres/comedies/volume-107-philyllios-plyntriai-nausikaa-lessive-laispodias-scholie-odyssee/index.html"
+      ],
+      "regression_test": "tests/test_comedy_reference_links.py::test_volumes_106_and_107_have_valid_comedy_collection_links",
+      "exact_edit": "Only /comedies-grecques/ replaced with /comedies-grecques-aristophane-menandre/ for one reference in CVI and two references in CVII; Markdown + HTML each.",
+      "preserved": "All scientific paragraphs, metadata, page IDs, figures, bibliographies, navigation outside the three links, numbering, queues, numbering registries, schedules and workflow definitions unchanged."
+    },
+    "publication_status": "GitHub commit is not the same as a public deployment. Public domain and publication manifest must be separately verified; public HTTPS was inaccessible to this session.",
+    "ci_status": "Last inspected prior CI failure concerned obsolete expected figure count 9 vs actual 10; current test in main expects 10. CI after this commit pending verification.",
+    "limitations": "No complete fresh browser responsive test or comprehensive bibliography review; this session focused on verified broken links, local asset integrity and known CI signals.",
     "commits": [],
-    "commit_note": "Le SHA du commit qui enregistre ce journal se trouve dans l’API GitHub, pas dans son contenu.",
-    "ci_follow_up": {
-      "ci_incident": "Les validations initiales du commit e56015fa ont échoué sur une ancienne assertion de 40 images dans tests/test_verify_live_site_assets.py ; les 239 tests ne signalaient qu’un échec : test_all_forty_documentary_figures_and_six_pages_verified.",
-      "corrective_commit": "56ddc5b567c2b84205878bd132f2d1d49b3ded80",
-      "corrective_fix": "Décomptes corrigés à 43 figures, six pages et 35 médias uniques ; trois nouveaux tests ciblés réussis lors de l'exécution initiale.",
-      "next_verification": "Tests Actions, publication et HTTPS du nouveau commit à contrôler ; aucun déploiement déclaré par anticipation."
-    }
+    "commit_note": "Exact commit SHA to be checked from GitHub after the atomic commit and noted in the response. No statement of public deployment before separate HTTPS confirmation."
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
   "history": [
@@ -2816,6 +2746,56 @@
         "corrective_fix": "Décomptes corrigés à 43 figures, six pages et 35 médias uniques ; trois nouveaux tests ciblés réussis lors de l'exécution initiale.",
         "next_verification": "Tests Actions, publication et HTTPS du nouveau commit à contrôler ; aucun déploiement déclaré par anticipation."
       }
+    },
+    {
+      "date": "2026-11-05",
+      "kind": "AUDIT ET CORRECTION",
+      "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "scope": "Séance 49 : correction des trois renvois locaux cassés des volumes CVI (106) et CVII (107) des comédies grecques, en conservant les deux manuscrits et leurs numéros.",
+      "basis_commit": "eaf80965865007e904d53657ec0eb7fac05ef66f",
+      "audit_evidence": {
+        "github_actions_run": 41990629355,
+        "ci_status": "success for integrity audit (0 hard errors; three 404-type broken-link warnings)",
+        "source_paths": [
+          "chapitres/comedies/volume-106-philyllios-herakles-dorpia-apaturies-protenthai-phratries.md",
+          "chapitres/comedies/volume-106-philyllios-herakles-dorpia-apaturies-protenthai-phratries/index.html",
+          "chapitres/comedies/volume-107-philyllios-plyntriai-nausikaa-lessive-laispodias-scholie-odyssee.md",
+          "chapitres/comedies/volume-107-philyllios-plyntriai-nausikaa-lessive-laispodias-scholie-odyssee/index.html"
+        ],
+        "bad_href": "/comedies-grecques/",
+        "valid_collection_href": "/comedies-grecques-aristophane-menandre/",
+        "total_broken_references": 3,
+        "verified_md_and_html_occurrences": 6,
+        "five_page_spot_check": {
+          "html_ids": 489,
+          "local_fragment_links": 365,
+          "images": 109,
+          "local_asset_references": 290,
+          "duplicate_ids": 0,
+          "broken_local_fragments": 0,
+          "missing_alt": 0,
+          "missing_css_js_images": 0
+        },
+        "tree_elements": 4840,
+        "cname": "bobmythos.fr"
+      },
+      "changes": {
+        "updated_sources": [
+          "chapitres/comedies/volume-106-philyllios-herakles-dorpia-apaturies-protenthai-phratries.md",
+          "chapitres/comedies/volume-106-philyllios-herakles-dorpia-apaturies-protenthai-phratries/index.html",
+          "chapitres/comedies/volume-107-philyllios-plyntriai-nausikaa-lessive-laispodias-scholie-odyssee.md",
+          "chapitres/comedies/volume-107-philyllios-plyntriai-nausikaa-lessive-laispodias-scholie-odyssee/index.html"
+        ],
+        "regression_test": "tests/test_comedy_reference_links.py::test_volumes_106_and_107_have_valid_comedy_collection_links",
+        "exact_edit": "Only /comedies-grecques/ replaced with /comedies-grecques-aristophane-menandre/ for one reference in CVI and two references in CVII; Markdown + HTML each.",
+        "preserved": "All scientific paragraphs, metadata, page IDs, figures, bibliographies, navigation outside the three links, numbering, queues, numbering registries, schedules and workflow definitions unchanged."
+      },
+      "publication_status": "GitHub commit is not the same as a public deployment. Public domain and publication manifest must be separately verified; public HTTPS was inaccessible to this session.",
+      "ci_status": "Last inspected prior CI failure concerned obsolete expected figure count 9 vs actual 10; current test in main expects 10. CI after this commit pending verification.",
+      "limitations": "No complete fresh browser responsive test or comprehensive bibliography review; this session focused on verified broken links, local asset integrity and known CI signals.",
+      "commits": [],
+      "commit_note": "Exact commit SHA to be checked from GitHub after the atomic commit and noted in the response. No statement of public deployment before separate HTTPS confirmation."
     }
   ]
 }

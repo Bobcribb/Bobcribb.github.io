@@ -79,5 +79,23 @@ class ComedyReferenceLinkTests(unittest.TestCase):
                     self.assertNotIn("/comedies-grecques/", text)
 
 
+    def test_volumes_106_and_107_have_valid_comedy_collection_links(self):
+        """Check each existing manuscript and its generated public HTML."""
+        self.assertTrue((ROOT / TARGET.lstrip("/") / "index.html").is_file())
+        volumes = (
+            ("volume-106-philyllios-herakles-dorpia-apaturies-protenthai-phratries", 1),
+            ("volume-107-philyllios-plyntriai-nausikaa-lessive-laispodias-scholie-odyssee", 2),
+        )
+        for stem, expected_count in volumes:
+            for filename in (
+                ROOT / "chapitres/comedies" / (stem + ".md"),
+                ROOT / "chapitres/comedies" / stem / "index.html",
+            ):
+                with self.subTest(path=str(filename)):
+                    text = filename.read_text(encoding="utf-8")
+                    self.assertEqual(text.count(TARGET), expected_count)
+                    self.assertNotIn("/comedies-grecques/", text)
+
+
 if __name__ == "__main__":
     unittest.main()
