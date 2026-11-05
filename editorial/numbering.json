@@ -567,6 +567,18 @@
           "path": "chapitres/origines-du-sacre/666-cylon-alcmeonides-suppliants-asile-phaleron-isotopes.md",
           "request_sha256": "cf8793d9c7d0db52f2289bbc719df2f52d467a9b13948bbe611e0a802e6691ed",
           "initial_source_sha256": "8f067ac1e07966e8edce110e197a6b316921b3bc098078ba8a5412915886e63e"
+        },
+        "41e24bb2-cbd0-4a0d-9083-9182e6026d8b": {
+          "number": 667,
+          "path": "chapitres/origines-du-sacre/667-prytanee-proces-animaux-objets-homicides-athenes.md",
+          "request_sha256": "2510d7437d797fcec65ea6e1f9f61c79973264948861f51ffe94e1588373a1a2",
+          "initial_source_sha256": "5275e630b6bbc7bd573131dbf5ef0901b121aa5d118eedf4db54a85e05e40e3f"
+        },
+        "b13ef42a-990e-4c91-a7be-8ddc1d540a07": {
+          "number": 668,
+          "path": "chapitres/origines-du-sacre/668-bouphonies-zeus-polieus-hache-boeuf-sacrifice-responsabilite.md",
+          "request_sha256": "f48c6ffec534528a7c8ab88d465f78e87cf621b23eb28b6f1cd34f3d0b844a8b",
+          "initial_source_sha256": "e612c32965df6fb92d2598781776a0e2d83a8c47202a503b5da6d7701ba2bf45"
         }
       }
     },
@@ -1414,6 +1426,12 @@
           "path": "chapitres/comedies/volume-105-philyllios-helene-attribution-incertaine-eidolon-guerre-reconnaissance.md",
           "request_sha256": "cc330bee8edb740875cbc34490fbc241a845828a7328e79b2eb9a3858c84442e",
           "initial_source_sha256": "bac55d447e9dbfa3be42f806dfb61608d763182e1153069ddc343a69089273d3"
+        },
+        "3b6f1e02-c7a4-4bf6-bf58-1e3d6b4689a4": {
+          "number": 106,
+          "path": "chapitres/comedies/volume-106-philyllios-herakles-dorpia-apaturies-protenthai-phratries.md",
+          "request_sha256": "3f4bd490f7a055afdb9938842f12d0111aee067cdcf973c474bdd4826a0c7616",
+          "initial_source_sha256": "37dbd4262f6329586241a995c8967e24a306ac518950f1a2830499765bc853a6"
         }
       }
     },
