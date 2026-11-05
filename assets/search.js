@@ -45,8 +45,17 @@ document.addEventListener('DOMContentLoaded', () => {
   for(const f of filters)f.addEventListener('change',()=>{page=1;draw();});
   const form=document.querySelector('[data-discovery-form]');
   if(form){form.addEventListener('submit',e=>{e.preventDefault();page=1;draw();});form.addEventListener('reset',e=>{e.preventDefault();input.value='';filters.forEach(f=>f.value='');page=1;draw();});}
-  fetch('/search.json',{cache:'no-cache'}).then(r=>{if(!r.ok)throw new Error('Index indisponible');return r.json();}).then(data=>{
-    documents=data.map(d=>({...d,_search:norm([d.title,d.excerpt,d.headings,d.collection,...values(d,'authors'),...values(d,'works'),...values(d,'themes')].join(' '))}));
+  const getIndex=url=>fetch(url,{cache:'no-cache'}).then(r=>{
+    if(!r.ok)throw new Error('Index indisponible');
+    return r.json();
+  });
+  // Rechercher dans une projection légère, sans toucher à l'index scientifique.
+  // Conserver la rétrocompatibilité si un cache sert une ancienne publication.
+  getIndex('/catalog/search-light.json').catch(()=>getIndex('/search.json')).then(data=>{
+    if(!Array.isArray(data)||!data.length)throw new Error('Index vide');
+    documents=data.map(d=>({...d,_search:d.search_text||
+      norm([d.title,d.excerpt,d.headings,d.collection,...values(d,'authors'),
+            ...values(d,'works'),...values(d,'themes')].join(' '))}));
     for(const f of filters){for(const value of [...new Set(documents.flatMap(d=>values(d,f.dataset.filter)))].sort((a,b)=>a.localeCompare(b,'fr'))){const o=document.createElement('option');o.value=value;o.textContent=value;f.append(o);}f.value=params.get(f.dataset.filter)||'';}
     page=Math.max(1,parseInt(params.get('page'),10)||1);ready=true;draw(false);
   }).catch(()=>{status.textContent='La recherche est temporairement indisponible.';results.replaceChildren();const a=document.createElement('a');a.href='/rubriques/';a.textContent='Consulter l’index alphabétique complet';results.append(a);});
