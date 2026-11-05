@@ -233,6 +233,26 @@ def publish_chapters():
         published.append({"title":text(title),"url":url,"excerpt":text(desc)[:190]})
     return published
 
+def annotate_lindia_search(entries):
+    """Issue #42 : distinguer les deux fonctions sans masquer ni renuméroter."""
+    distinctions = {
+        "/chapitres/encyclopedie/chapitre-433-athena-lindia-rhodes-chronique-lindos-anathemes-epiphanies-danaides/": (
+            "Chapitre 433 · Dossier de référence : Pindare, rites sans feu, "
+            "Amasis, offrandes, épiphanies, fouilles et architecture de Lindos. "
+            "Complément : chapitre 438."
+        ),
+        "/chapitres/encyclopedie/chapitre-438-athena-lindia-chronique-lindos-danaides-offrandes-epiphanies-memoire/": (
+            "Chapitre 438 · Enquête épigraphique : décret de 99 av. J.-C., "
+            "témoignages, fabrication des preuves, mémoire civique et critères "
+            "de vérification. Complément : chapitre 433."
+        ),
+    }
+    for entry in entries:
+        if entry["url"] in distinctions:
+            entry["excerpt"] = distinctions[entry["url"]][:190]
+    return entries
+
+
 def reindex(chapters):
     index_path=OUT/"search.json"
     if not index_path.exists():
@@ -310,6 +330,7 @@ def reindex(chapters):
     entries=sorted(by_url.values(),key=lambda e:e["title"].casefold())
     from tragedy_work_identity import annotate_search
     annotate_search(ROOT, entries)
+    annotate_lindia_search(entries)
     write("search.json",json.dumps(entries,ensure_ascii=False,separators=(",",":")))
     listing='<ul class="listing">'+''.join('<li><a href="'+html.escape(e["url"],quote=True)+'">'+html.escape(e["title"])+'</a></li>' for e in entries)+'</ul>'
     write("rubriques/index.html",render("Tous les dossiers","<h1>Tous les dossiers</h1><p>"+str(len(entries))+" dossiers publics indexés.</p>"+listing))

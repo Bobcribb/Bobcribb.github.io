@@ -337,7 +337,12 @@ def main(out, root):
         link="/chapitres/encyclopedie/"+src.stem+"/"
         if not present(out,link):
             raise RuntimeError("Chapitre universitaire non rendu : "+link)
-        chapters.append((no,src.stem,link,"Chapitre "+str(no)+" — "+scholarly_title(src)))
+        display_title = "Chapitre " + str(no) + " — " + scholarly_title(src)
+        if no == 433:
+            display_title += " [référence : culte, offrandes et archéologie]"
+        elif no == 438:
+            display_title += " [analyse : enquête épigraphique et mémoire civique]"
+        chapters.append((no, src.stem, link, display_title))
         numbers[no]+=1
     chapters.sort(key=lambda x:(x[0],x[1]))
     if len(chapters)<50: raise RuntimeError("Corpus grec incomplet dans le dépôt")
@@ -432,12 +437,32 @@ def main(out, root):
             rewrite_html += '</ol>'
         rewrite_html += '</section>'
         recovery_status = '<p>Les sujets de Chiron (ancien 118) et de la série 218–224 disposent désormais de <a href="#grec-recritures">nouvelles rédactions intégrales</a>. Un parcours de quinze études complète la continuation jusqu’aux Hespérides ; ses sujets ne sont pas présentés comme les titres retrouvés de 119–133. La récupération des anciens manuscrits reste distincte de ces nouvelles publications.</p>'
+    # Les tests construisent aussi des catalogues partiels : ne lier les
+    # études complémentaires que lorsque les deux lecteurs et la notice existent.
+    lindia_chapter_urls = {
+        '/chapitres/encyclopedie/chapitre-433-athena-lindia-rhodes-chronique-lindos-anathemes-epiphanies-danaides/',
+        '/chapitres/encyclopedie/chapitre-438-athena-lindia-chronique-lindos-danaides-offrandes-epiphanies-memoire/',
+    }
+    lindia_concordance = '''    <aside class="greek-corpus-group" id="concordance-athena-lindia" aria-label="Concordance des études d'Athéna Lindia">
+    <h3>Athéna Lindia et la Chronique de Lindos : deux études complémentaires</h3>
+    <p>Les chapitres 433 et 438 étudient un même sanctuaire et une même inscription
+    (<em>Lindos II, 2</em> / <em>SIG</em>³ 725). Ils ne désignent pas deux cultes distincts :
+    le <a href="/chapitres/encyclopedie/chapitre-433-athena-lindia-rhodes-chronique-lindos-anathemes-epiphanies-danaides/">chapitre 433</a> expose de façon extensive les traditions,
+    les dons, les apparitions et l'archéologie ; le <a href="/chapitres/encyclopedie/chapitre-438-athena-lindia-chronique-lindos-danaides-offrandes-epiphanies-memoire/">chapitre 438</a>
+    approfondit l'enquête documentaire, la crédibilité des témoignages et la construction
+    civique du passé. <a href="/mythologie-grecque/concordance-athena-lindia/">Lire la concordance et ses références</a>.</p>
+    </aside>''' if (
+        lindia_chapter_urls.issubset({url for _, _, url, _ in chapters})
+        and present(out, '/mythologie-grecque/concordance-athena-lindia/')
+    ) else ''
     html='''<section class="portal-section greek-corpus-full" id="greek-unified-corpus">
     <div class="greek-corpus-banner"><span class="greek-corpus-kicker">CORPUS GREC · MYTHOS</span>
     <h2>Mythologie grecque : livres, chapitres et dossiers disponibles</h2>
     <p>Un sommaire unique vers les textes intégraux existants, les volumes historiques,
     les études universitaires, les dieux, les héros, les cycles, la philologie et les atlas.
     Les études intégrales sont conservées ; les anciennes adresses suivent les références corrigées.</p></div>
+
+    '''+lindia_concordance+'''
     <p class="greek-corpus-status">''' + str(len(books)) + ''' livres et parcours ; '''+str(section_count)+''' sections accessibles directement ; '''+ str(len(chapters)) + ''' chapitres universitaires numérotés ;
     '''+str(len(archives))+''' accès aux archives ; '''+str(len(gods))+''' notices de dieux ;
     '''+str(len(heroes))+''' notices de héros. Inventaire vérifié des fichiers disponibles,
