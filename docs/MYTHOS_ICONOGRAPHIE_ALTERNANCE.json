@@ -115,7 +115,13 @@
     "publication": "Aucune affirmation de publication publique sans confirmation d’un workflow et contrôle HTTPS du commit.",
     "limitations": "Contrôles de structure ciblés ; les tests Python, le responsive navigateur et le déploiement restent à confirmer par CI. Le site public ne répond pas au contrôle HTTPS externe.",
     "commits": [],
-    "commit_note": "Le SHA du commit qui enregistre ce journal se trouve dans l’API GitHub, pas dans son contenu."
+    "commit_note": "Le SHA du commit qui enregistre ce journal se trouve dans l’API GitHub, pas dans son contenu.",
+    "ci_follow_up": {
+      "ci_incident": "Les validations initiales du commit e56015fa ont échoué sur une ancienne assertion de 40 images dans tests/test_verify_live_site_assets.py ; les 239 tests ne signalaient qu’un échec : test_all_forty_documentary_figures_and_six_pages_verified.",
+      "corrective_commit": "56ddc5b567c2b84205878bd132f2d1d49b3ded80",
+      "corrective_fix": "Décomptes corrigés à 43 figures, six pages et 35 médias uniques ; trois nouveaux tests ciblés réussis lors de l'exécution initiale.",
+      "next_verification": "Tests Actions, publication et HTTPS du nouveau commit à contrôler ; aucun déploiement déclaré par anticipation."
+    }
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
   "history": [
@@ -2803,7 +2809,13 @@
       "publication": "Aucune affirmation de publication publique sans confirmation d’un workflow et contrôle HTTPS du commit.",
       "limitations": "Contrôles de structure ciblés ; les tests Python, le responsive navigateur et le déploiement restent à confirmer par CI. Le site public ne répond pas au contrôle HTTPS externe.",
       "commits": [],
-      "commit_note": "Le SHA du commit qui enregistre ce journal se trouve dans l’API GitHub, pas dans son contenu."
+      "commit_note": "Le SHA du commit qui enregistre ce journal se trouve dans l’API GitHub, pas dans son contenu.",
+      "ci_follow_up": {
+        "ci_incident": "Les validations initiales du commit e56015fa ont échoué sur une ancienne assertion de 40 images dans tests/test_verify_live_site_assets.py ; les 239 tests ne signalaient qu’un échec : test_all_forty_documentary_figures_and_six_pages_verified.",
+        "corrective_commit": "56ddc5b567c2b84205878bd132f2d1d49b3ded80",
+        "corrective_fix": "Décomptes corrigés à 43 figures, six pages et 35 médias uniques ; trois nouveaux tests ciblés réussis lors de l'exécution initiale.",
+        "next_verification": "Tests Actions, publication et HTTPS du nouveau commit à contrôler ; aucun déploiement déclaré par anticipation."
+      }
     }
   ]
 }

@@ -90,7 +90,7 @@ def verify_public_svgs(base, root):
 
 
 
-# Figures from two iconography sessions. Require both the published notices
+# Figures documented across successive iconography sessions. Require both the published notices
 # and exact local image bytes, not just a successful gallery response.
 TARGET_FIGURES = {
     "philosophie-iliade.html": ("icono-iliade-mycene-panorama-philosophie-20261104",
