@@ -222,6 +222,17 @@ def classify(url, title, kind):
     # Étude complète déjà publique dans les civilisations : renvoi sans copie.
     if slug == 'bibliotheque-mythologies-du-monde/civilisations-chypre-paphos-aphrodite':
         return 'cultes-sanctuaires', 'Palaepaphos — Aphrodite et histoire du sanctuaire'
+    # Publications intégrales de Civilisations : adresses et cotes conservées.
+    history_homes = {
+        'bibliotheque-mythologies-du-monde/civilisations-histoire-egee-bronze':
+            ('sources-anciennes', 'Égée du Bronze — archéologie, linéaire A et B'),
+        'bibliotheque-mythologies-du-monde/civilisations-histoire-grece-antique':
+            ('sources-anciennes', 'Histoire des cités grecques — institutions et témoignages'),
+        'bibliotheque-mythologies-du-monde/civilisations-pergame-attalides-autel-zeus':
+            ('cultes-sanctuaires', 'Pergame — Grand Autel, Gigantomachie et royauté'),
+    }
+    if slug in history_homes:
+        return history_homes[slug]
     if slug.startswith('philosophie-'):
         return 'interpretations-philosophiques', 'Analyses philosophiques des épopées'
     if slug in ('ecole-paris', 'historiographie-v6', 'sources-methodes'):
@@ -314,6 +325,20 @@ APHRODITE_STUDIES = (
     ('/bibliotheque-mythologies-du-monde/civilisations-chypre-paphos-aphrodite/',
      'Chypre antique — Palaepaphos et Aphrodite',
      'Archéologie du sanctuaire, royautés chypriotes et traditions littéraires.'),
+)
+
+# Trois documents historiques intégralement publiés dans Civilisations.
+# Bronze mycénien, Grèce des cités et Pergame sont des époques distinctes.
+HISTORY_STUDIES = (
+    ('/bibliotheque-mythologies-du-monde/civilisations-histoire-egee-bronze/',
+     'Égée du Bronze — Minoens et Mycéniens',
+     'Archives de Pylos, linéaires A et B, limites des parallèles homériques.'),
+    ('/bibliotheque-mythologies-du-monde/civilisations-histoire-grece-antique/',
+     'Grèce antique — institutions, démocratie et tragédie',
+     'Sources sur la cité, ses pratiques politiques et les festivals de théâtre.'),
+    ('/bibliotheque-mythologies-du-monde/civilisations-pergame-attalides-autel-zeus/',
+     'Pergame — Attalides, Grand Autel et Gigantomachie',
+     'Iconographie monumentale, légitimation dynastique et histoire des cultes.'),
 )
 
 RELATED_FOLDERS = {
@@ -497,12 +522,14 @@ def build(out, groups, sections, books, root=None):
                     if any(row['url'] == url for row in rows)}
     aphrodite_urls = {url for url, _, _ in APHRODITE_STUDIES
                       if any(row['url'] == url for row in rows)}
+    history_urls = {url for url, _, _ in HISTORY_STUDIES
+                    if any(row['url'] == url for row in rows)}
     # Return links stay outside the article, leaving its scholarly text untouched.
     for row in rows:
         if (row['kind'] not in ('Chapitre universitaire', 'Livre', 'Notice', 'Étude')
-                and row['url'] not in (DELPHES_STUDIES[0][0],
-                                      APHRODITE_STUDIES[1][0],
-                                      APHRODITE_STUDIES[2][0])):
+                and row['url'] not in ({DELPHES_STUDIES[0][0],
+                                       APHRODITE_STUDIES[1][0],
+                                       APHRODITE_STUDIES[2][0]} | history_urls)):
             continue
         page = out / row['url'].lstrip('/')
         if row['url'].endswith('/'):
@@ -604,6 +631,26 @@ def build(out, groups, sections, books, root=None):
                     'de Sappho et histoire de Palaepaphos. Le témoignage '
                     'littéraire n’établit pas à lui seul les pratiques '
                     'archéologiques du sanctuaire chypriote.</p>'
+                    '<ul>' + links + '</ul></aside>', 'html.parser').aside
+                main.append(box)
+        if row['url'] in history_urls:
+            companions = [(url, title, context)
+                          for url, title, context in HISTORY_STUDIES
+                          if url in history_urls and url != row['url']]
+            if companions:
+                links = ''.join(
+                    '<li><a href="' + escape(url, quote=True) + '">' +
+                    escape(title) + '</a><small>' + escape(context) +
+                    '</small></li>' for url, title, context in companions)
+                box = BeautifulSoup(
+                    '<aside class="greek-cross-readings" '
+                    'data-greek-cross-readings="chronologie" '
+                    'aria-label="Égée et Grèce : histoire et sources">'
+                    '<h2>Égée et Grèce : trois dossiers historiques</h2>'
+                    '<p>Les archives mycéniennes, les institutions des cités et '
+                    'le programme monumental des Attalides relèvent de sources '
+                    'et d’époques distinctes. La transmission des récits '
+                    'ne démontre pas une continuité politique ou cultuelle.</p>'
                     '<ul>' + links + '</ul></aside>', 'html.parser').aside
                 main.append(box)
         page.write_text(str(doc), encoding='utf-8')
@@ -725,6 +772,17 @@ def verify(out, expected_urls):
             actual = [a['href'] for a in panels[0].select('a[href]')]
             assert set(actual) == aphrodite_urls - {url}, 'Lectures Aphrodite incomplètes : ' + url
             assert len(actual) == len(set(actual)), 'Lien Aphrodite répété : ' + url
+    history_urls = {url for url, _, _ in HISTORY_STUDIES if url in expected_urls}
+    if len(history_urls) > 1:
+        for url in history_urls:
+            page = out / url.lstrip('/') / 'index.html'
+            assert page.is_file(), 'Étude historique introuvable : ' + url
+            doc = BeautifulSoup(page.read_text(encoding='utf-8'), 'html.parser')
+            panels = doc.select('aside[data-greek-cross-readings="chronologie"]')
+            assert len(panels) == 1, 'Parcours historique absent ou dupliqué : ' + url
+            actual = [a['href'] for a in panels[0].select('a[href]')]
+            assert set(actual) == history_urls - {url}, 'Parcours historique incomplet : ' + url
+            assert len(actual) == len(set(actual)), 'Lien historique répété : ' + url
     assert set(assignments) == set(expected_urls), 'Classement incomplet ou inattendu : '+str(set(assignments) ^ set(expected_urls))
     assert all(n == 1 for n in assignments.values()), 'Texte classé plusieurs fois dans les dossiers'
     print('Dossiers grecs vérifiés :', len(assignments), 'destinations uniques, tous les textes et toutes les sections accessibles')
