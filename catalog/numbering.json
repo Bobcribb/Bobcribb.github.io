@@ -870,6 +870,12 @@
         "url": "/chapitres/encyclopedie/chapitre-447-heracles-thasos-heros-dieu-melqart-rites-sacrificiels-herakleion/",
         "title": "Chapitre 447 — Héraclès à Thasos : du héros au dieu, traditions phéniciennes, sacrifices et mémoire civique",
         "source": "chapitres/encyclopedie/chapitre-447-heracles-thasos-heros-dieu-melqart-rites-sacrificiels-herakleion.md"
+      },
+      {
+        "number": 448,
+        "url": "/chapitres/encyclopedie/chapitre-448-amphiaraos-amphiareion-oropos-devin-incubation-guerison-epigraphie/",
+        "title": "Chapitre 448 — Amphiaraos et l'Amphiaréion d'Oropos : le devin englouti, le sommeil guérisseur et les frontières du savoir",
+        "source": "chapitres/encyclopedie/chapitre-448-amphiaraos-amphiareion-oropos-devin-incubation-guerison-epigraphie.md"
       }
     ],
     "tragedies": [
@@ -3131,6 +3137,24 @@
         "url": "/chapitres/comparatif/volume-cclxiv-lysistrata-diplomatie-corps-carte-allies-panhellenisme-411/",
         "title": "Volume CCLXIV (264) — Faire la paix sur un corps : diplomatie, mémoire panhellénique et oubli des alliés dans le dénouement de la Lysistrata d'Aristophane (411 av. notre ère)",
         "source": "chapitres/comparatif/volume-cclxiv-lysistrata-diplomatie-corps-carte-allies-panhellenisme-411.md"
+      },
+      {
+        "number": 265,
+        "url": "/chapitres/comparatif/volume-cclxv-assemblee-femmes-decret-cannonos-loi-corps-egalite-contrainte/",
+        "title": "Volume CCLXV (265) — Quand la loi saisit le corps : décret de Cannonos, égalité coercitive et souveraineté comique dans l’Assemblée des femmes d’Aristophane",
+        "source": "chapitres/comparatif/volume-cclxv-assemblee-femmes-decret-cannonos-loi-corps-egalite-contrainte.md"
+      },
+      {
+        "number": 266,
+        "url": "/chapitres/comparatif/volume-cclxvi-nuees-paideia-deux-discours-violence-familiale-parole-democratique/",
+        "title": "Volume CCLXVI (266) — Les Nuées d’Aristophane : éduquer à contredire, dresser les corps, renverser les pères — l’agôn des deux Discours et la fragilité de l’autorité démocratique",
+        "source": "chapitres/comparatif/volume-cclxvi-nuees-paideia-deux-discours-violence-familiale-parole-democratique.md"
+      },
+      {
+        "number": 267,
+        "url": "/chapitres/comparatif/volume-cclxvii-mc-081-porter-le-ciel-atlas-shou-skambha-cosmographies-architecture-du-monde/",
+        "title": "Volume CCLXVII (267) — MC-081 — Porter le ciel : Atlas, Shou, Skambha et les soutiens du cosmos, de Sumer au monde maya",
+        "source": "chapitres/comparatif/volume-cclxvii-mc-081-porter-le-ciel-atlas-shou-skambha-cosmographies-architecture-du-monde.md"
       }
     ],
     "comedies": [
@@ -3829,6 +3853,12 @@
         "url": "/chapitres/comedies/volume-116-magnes-batrachoi-grenouilles-choral-animal-parabase-historicite/",
         "title": "Volume CXVI (116) — Magnès, Batrachoi (Βάτραχοι, « Les Grenouilles ») — Voix animales, mémoire de la scène archaïque et limites de la reconstruction",
         "source": "chapitres/comedies/volume-116-magnes-batrachoi-grenouilles-choral-animal-parabase-historicite.md"
+      },
+      {
+        "number": 117,
+        "url": "/chapitres/comedies/volume-117-magnes-ornithes-oiseaux-ailes-scholie-presage-transmission/",
+        "title": "Volume CXVII (117) — Magnès, Ornithes (Ὄρνιθες, « Les Oiseaux ») : une pièce perdue entre mémoire du chœur, interprétation des scholies et politique du visible",
+        "source": "chapitres/comedies/volume-117-magnes-ornithes-oiseaux-ailes-scholie-presage-transmission.md"
       }
     ],
     "origines-du-sacre": [
@@ -5301,6 +5331,18 @@
         "url": "/chapitres/origines-du-sacre/695-aigai-vergina-necropole-royale-philippe-ii-philippe-iii-rituels-identifications/",
         "title": "Chapitre 695 — Chapitre 695 — Aigai et les tombes royales de Macédoine : Philippe II, Perséphone, crémation et mémoire dynastique",
         "source": "chapitres/origines-du-sacre/695-aigai-vergina-necropole-royale-philippe-ii-philippe-iii-rituels-identifications.md"
+      },
+      {
+        "number": 696,
+        "url": "/chapitres/origines-du-sacre/696-commagene-nemrut-antiochos-hierothesion-nomos-ancetres-dexiosis/",
+        "title": "Chapitre 696 — L'immortalité mise en demeure : Antiochos Ier de Commagène, le hiérothésion du Nemrut Dağı et la loi des morts souverains",
+        "source": "chapitres/origines-du-sacre/696-commagene-nemrut-antiochos-hierothesion-nomos-ancetres-dexiosis.md"
+      },
+      {
+        "number": 697,
+        "url": "/chapitres/origines-du-sacre/697-palmyre-tours-hypogees-trois-freres-portraits-inscriptions-maison-eternite/",
+        "title": "Chapitre 697 — Habiter l'éternité à Palmyre : tours funéraires, hypogées, « maison pour toujours », portraits et droit des tombeaux dans la Syrie romaine",
+        "source": "chapitres/origines-du-sacre/697-palmyre-tours-hypogees-trois-freres-portraits-inscriptions-maison-eternite.md"
       }
     ]
   },

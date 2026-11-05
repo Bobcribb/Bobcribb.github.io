@@ -741,6 +741,18 @@
           "path": "chapitres/origines-du-sacre/695-aigai-vergina-necropole-royale-philippe-ii-philippe-iii-rituels-identifications.md",
           "request_sha256": "60cbe3122b6da0e2722386350dc787c2f5adc724ce2aa29f65c261892becb58e",
           "initial_source_sha256": "8b4c366abc446cc8806ee9fc681e87a4537c3b7623121095c15e95f9392cdfcd"
+        },
+        "0d8ef4d0-92cb-4f19-97ac-8570ff3a0d46": {
+          "number": 696,
+          "path": "chapitres/origines-du-sacre/696-commagene-nemrut-antiochos-hierothesion-nomos-ancetres-dexiosis.md",
+          "request_sha256": "611f8af6d6091841fd32cee3e964b4311ee7625a0235146c0294e08275dde584",
+          "initial_source_sha256": "0f24612491f18530ef2a8d2ed663556b502c7721068318ce17006b51ff2193b9"
+        },
+        "b74f00a8-8e92-49b8-86f6-5310a1269a2f": {
+          "number": 697,
+          "path": "chapitres/origines-du-sacre/697-palmyre-tours-hypogees-trois-freres-portraits-inscriptions-maison-eternite.md",
+          "request_sha256": "287f378016303c0942911f1fceb8b48df041716748236c3805d9a2be8a57b739",
+          "initial_source_sha256": "660888dae44aedc2842c69981644fdaa6c9446a2914ed803972e93de9cf14e08"
         }
       }
     },
@@ -1342,6 +1354,12 @@
           "path": "chapitres/encyclopedie/chapitre-447-heracles-thasos-heros-dieu-melqart-rites-sacrificiels-herakleion.md",
           "request_sha256": "cea8816a0984c8ec51f8e2f182e1d679fb9789d8d7c2a547dd4c7171ddfe3cf1",
           "initial_source_sha256": "9404701c67c86291386783432ee348772b6849489d04e1203212576c82969789"
+        },
+        "c882d3bb-5650-466e-8e92-dbb375e42119": {
+          "number": 448,
+          "path": "chapitres/encyclopedie/chapitre-448-amphiaraos-amphiareion-oropos-devin-incubation-guerison-epigraphie.md",
+          "request_sha256": "699f4a0c2932cf09b9457b6d0bd345702deab34a2cd99d066f3543be5f8b15a5",
+          "initial_source_sha256": "58499666b06c393ea8cda471b67f2307860477987d6d2f9213b5665773465e57"
         }
       }
     },
@@ -1750,6 +1768,12 @@
           "path": "chapitres/comedies/volume-116-magnes-batrachoi-grenouilles-choral-animal-parabase-historicite.md",
           "request_sha256": "bacc2f786013dec29ea0e2d5ddac7e05d07d922dbaf0c36f72b0b0e9650aab34",
           "initial_source_sha256": "4d4d385ea790e066823ce61d0983bc8ab42b2b3409dae41b4afd3844011054d5"
+        },
+        "d0c12836-0d55-4d7f-9e2f-9b5a0c9e7138": {
+          "number": 117,
+          "path": "chapitres/comedies/volume-117-magnes-ornithes-oiseaux-ailes-scholie-presage-transmission.md",
+          "request_sha256": "976d4e8bd590f4ecfcbe4efdfd7e68ae77e3919c72f888e372d8de34591c0180",
+          "initial_source_sha256": "cfca0328145c55348adc496deca82ead034df538f15357f70c342d786b46117a"
         }
       }
     },
@@ -2941,6 +2965,24 @@
           "path": "chapitres/comparatif/volume-cclxiv-lysistrata-diplomatie-corps-carte-allies-panhellenisme-411.md",
           "request_sha256": "0fe0b4d1ae67421657da37987c0cbaac59a1245c45f015a251c67e20087a6ee1",
           "initial_source_sha256": "42610cf008b353a0a0b3385c7bfc2813475c124b8f838d6625c16bac87e4162c"
+        },
+        "4d9123ee-96d0-45b0-b7a2-1c64db48c1a9": {
+          "number": 265,
+          "path": "chapitres/comparatif/volume-cclxv-assemblee-femmes-decret-cannonos-loi-corps-egalite-contrainte.md",
+          "request_sha256": "d32bbfd28d303a4a8eecc5c39eff12d9757cbfc8374f3b485aaa18294f4a461c",
+          "initial_source_sha256": "e7ac42cbf3bc68f2232ddea80252e54f3c453c050445158b18ecba5a775239e6"
+        },
+        "6ca74a61-8d52-42ea-96f2-62d9b65f71a4": {
+          "number": 266,
+          "path": "chapitres/comparatif/volume-cclxvi-nuees-paideia-deux-discours-violence-familiale-parole-democratique.md",
+          "request_sha256": "e6dd9891cfa1fe72d4f73c98ef2f61c88c8798859c5a33a66dc11cd6e2127e2c",
+          "initial_source_sha256": "3d3976b27a1de7f446d9f0f5fea5ad25e90159ebfe407ebbc1c54abdb9ae2219"
+        },
+        "c5800081-9f42-4e81-8a06-202611050081": {
+          "number": 267,
+          "path": "chapitres/comparatif/volume-cclxvii-mc-081-porter-le-ciel-atlas-shou-skambha-cosmographies-architecture-du-monde.md",
+          "request_sha256": "39f400235e0351ee8d927078dba0d7a31c8b6150c7245a7e6c818bde4977bb07",
+          "initial_source_sha256": "dabd3c9215b518db37b3f6bfc31cd3b43a2484f9df3904442d41af392559758b"
         }
       }
     }
