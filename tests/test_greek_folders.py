@@ -11,6 +11,71 @@ from build_greek_folders import BASE, build, classify, inventory, verify, LEGACY
 
 
 class GreekFolderTests(unittest.TestCase):
+    def test_transmission_scholarship_classification_reciprocity_and_integrity(self):
+        from build_greek_folders import TRANSMISSION_STUDIES
+        from build_greek_corpus import RELATED
+        root = Path(__file__).resolve().parents[1]
+        urls = {url for url, _, _ in TRANSMISSION_STUDIES}
+        self.assertEqual(len(urls), 4)
+        self.assertTrue(urls.issubset({url for _, url in RELATED}))
+        self.assertEqual(sum(url in {r[1] for r in RELATED} for url in urls), 4)
+        expected_homes = {
+            'civilisations-egypte-ptolemaique-alexandrie':
+                ('cultes-sanctuaires', 'Alexandrie'),
+            'civilisations-histoire-etrusques':
+                ('sources-anciennes', 'Étrurie'),
+            'civilisations-histoire-iran-perse':
+                ('sources-anciennes', 'Iran'),
+            'civilisations-histoire-hittites-anatolie':
+                ('sources-anciennes', 'Hattousa'),
+        }
+        for url in urls:
+            original = root / url.strip('/') / 'index.html'
+            self.assertTrue(original.is_file(), url)
+            source = original.read_text(encoding='utf-8')
+            self.assertGreater(len(source), 10000, url)
+            article = BeautifulSoup(source, 'html.parser').article
+            self.assertIsNotNone(article, url)
+            self.assertGreater(len(article.get_text(' ', strip=True)), 1500, url)
+            self.assertRegex(source.lower(), 'sources|bibliograph|références')
+            folder, section = classify(url, 'Nom fictif de divinité', 'Lecture associée')
+            self.assertEqual(folder, expected_homes[url.strip('/').split('/')[-1]][0])
+            self.assertTrue(section.startswith(expected_homes[url.strip('/').split('/')[-1]][1]))
+        with TemporaryDirectory() as tmp:
+            out = Path(tmp)
+            snapshots = {}
+            for url, title, _ in TRANSMISSION_STUDIES:
+                target = out / url.strip('/') / 'index.html'
+                target.parent.mkdir(parents=True, exist_ok=True)
+                target.write_text('<html><head><title>Étude</title></head><body><main>'
+                                  '<article><h1>' + title + '</h1><section id="sources">'
+                                  '<h2>Sources antiques</h2><p>Texte scientifique et '
+                                  'bibliographie conservés.</p></section></article>'
+                                  '</main></body></html>', encoding='utf-8')
+                snapshots[url] = str(BeautifulSoup(target.read_text(
+                    encoding='utf-8'), 'html.parser').article)
+            groups = [('Études vérifiées', 'grec-universitaire',
+                       [(url, title) for url, title, _ in TRANSMISSION_STUDIES])]
+            for _ in range(2):
+                rows = build(out, groups, [], [])
+                verify(out, urls)
+                self.assertEqual({row['url'] for row in rows}, urls)
+                for url in urls:
+                    target = out / url.strip('/') / 'index.html'
+                    doc = BeautifulSoup(target.read_text(encoding='utf-8'), 'html.parser')
+                    self.assertEqual(str(doc.article), snapshots[url])
+                    self.assertEqual(len(doc.select('nav[data-greek-folder-nav]')), 1)
+                    panels = doc.select('aside[data-greek-cross-readings="transmissions"]')
+                    self.assertEqual(len(panels), 1, url)
+                    actual = [a['href'] for a in panels[0].select('a[href]')]
+                    self.assertEqual(set(actual), urls - {url})
+                    self.assertEqual(len(actual), 3)
+                    self.assertEqual(len(actual), len(set(actual)))
+        css = (root / 'assets/mythos-museum.css').read_text(encoding='utf-8')
+        self.assertIn('data-greek-cross-readings="transmissions"', css)
+        self.assertIn('border-inline-start:3px solid #d8b67a', css)
+        self.assertIn('@media(max-width:480px)', css)
+
     def test_hellenistic_contacts_integral_sources_classification_and_reciprocity(self):
         from build_greek_folders import HELLENISTIC_CONTACT_STUDIES
         from build_greek_corpus import RELATED
