@@ -155,6 +155,11 @@ RELATED = [
  ("Lycie — Xanthos, Létoon et cultes de Léto : étude intégrale", "/bibliotheque-mythologies-du-monde/civilisations-lycie-xanthos-letoon/"),
  ("Commagène — Antiochos Ier et Nemrut Dağ : étude intégrale", "/bibliotheque-mythologies-du-monde/civilisations-commagene-antiochos-nemrut/"),
  ("Royaumes gréco-bactriens et indo-grecs : étude intégrale", "/bibliotheque-mythologies-du-monde/civilisations-royaumes-greco-bactriens-indo-grecs/"),
+ # Quatre études historiques intégrales déjà publiques, conservées à leur URL.
+ ("Lydie — Sardes, Crésus et mémoire grecque : étude intégrale", "/bibliotheque-mythologies-du-monde/civilisations-lydie-sardes-cresus/"),
+ ("Phrygie — Midas, Gordion et Matar-Cybèle : étude intégrale", "/bibliotheque-mythologies-du-monde/civilisations-phrygie-midas-gordion/"),
+ ("Thraces — Odryses, Kazanlak et cultes : étude intégrale", "/bibliotheque-mythologies-du-monde/civilisations-thraces-odryses-kazanlak/"),
+ ("Séleucides — Antiochos et sources du Proche-Orient : étude intégrale", "/bibliotheque-mythologies-du-monde/civilisations-empire-seleucide-antiochos/"),
  ("Études d'histoire et de géographie grecque","/grece/"),
  ("Théâtre grec, corpus associé mais distinct","/theatre/"),
  ("Registre général des dossiers publiés","/grande-encyclopedie/registre-integral/"),
