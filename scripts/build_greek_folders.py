@@ -267,6 +267,16 @@ def classify(url, title, kind):
         'bibliotheque-mythologies-du-monde/mythos-comparatif-souverainete-cosmique-kumarbi-hesiode-pergame':
             ('interpretations-philosophiques', 'Kumarbi et Hésiode — souveraineté cosmique en comparaison'),
     })
+    history_homes.update({
+        'bibliotheque-mythologies-du-monde/civilisations-histoire-levant-pheniciens':
+            ('sources-anciennes', 'Levant — alphabets, écritures et contacts grecs'),
+        'bibliotheque-mythologies-du-monde/civilisations-carthage-punique-histoire-religion':
+            ('sources-anciennes', 'Carthage — sources grecques, inscriptions puniques et archéologie'),
+        'bibliotheque-mythologies-du-monde/civilisations-tartessos-turunuelo':
+            ('sources-anciennes', 'Tartessos — sources grecques, épigraphie et Turuñuelo'),
+        'bibliotheque-mythologies-du-monde/mythos-mediterranee-ecritures-char-bronze-etrusques-tartessos-myceniens':
+            ('interpretations-philosophiques', 'Méditerranée — comparer les écritures et les échanges'),
+    })
     if slug in history_homes:
         return history_homes[slug]
     if slug.startswith('philosophie-'):
@@ -446,6 +456,24 @@ COSMIC_STUDIES = (
     ('/bibliotheque-mythologies-du-monde/mythos-comparatif-souverainete-cosmique-kumarbi-hesiode-pergame/',
      'Kumarbi, Hésiode et Pergame — lecture comparée',
      'Comparaison des récits, des images et des lectures philosophiques.'),
+)
+
+
+# Textes universitaires intégraux et déjà publics, sans seconde copie.
+# Lien épistémologique entre écritures, témoignages et circulation maritime.
+MEDITERRANEAN_STUDIES = (
+    ('/bibliotheque-mythologies-du-monde/civilisations-histoire-levant-pheniciens/',
+     'Levant — Ougarit, Phénicie et alphabets',
+     'Tablettes ougaritiques, alphabets phéniciens et transmission des écritures.'),
+    ('/bibliotheque-mythologies-du-monde/civilisations-carthage-punique-histoire-religion/',
+     'Carthage — sources puniques et regards grecs',
+     'Tanit, Baal Hammon, témoignages anciens et débats archéologiques.'),
+    ('/bibliotheque-mythologies-du-monde/civilisations-tartessos-turunuelo/',
+     'Tartessos — archéologie et témoignages grecs',
+     'Guadalquivir, Turuñuelo, commerce, dépôts et écriture du Sud-Ouest.'),
+    ('/bibliotheque-mythologies-du-monde/mythos-mediterranee-ecritures-char-bronze-etrusques-tartessos-myceniens/',
+     'Méditerranée — écritures, Mycéniens et Étrusques',
+     'Étude comparée des objets, des langues et des catégories de preuve.'),
 )
 
 
@@ -640,12 +668,14 @@ def build(out, groups, sections, books, root=None):
                          if any(row['url'] == url for row in rows)}
     cosmic_urls = {url for url, _, _ in COSMIC_STUDIES
                    if any(row['url'] == url for row in rows)}
+    mediterranean_urls = {url for url, _, _ in MEDITERRANEAN_STUDIES
+                          if any(row['url'] == url for row in rows)}
     # Return links stay outside the article, leaving its scholarly text untouched.
     for row in rows:
         if (row['kind'] not in ('Chapitre universitaire', 'Livre', 'Notice', 'Étude')
                 and row['url'] not in ({DELPHES_STUDIES[0][0],
                                        APHRODITE_STUDIES[1][0],
-                                       APHRODITE_STUDIES[2][0]} | history_urls | contact_urls | border_urls | transmission_urls | cosmic_urls)):
+                                       APHRODITE_STUDIES[2][0]} | history_urls | contact_urls | border_urls | transmission_urls | cosmic_urls | mediterranean_urls)):
             continue
         page = out / row['url'].lstrip('/')
         if row['url'].endswith('/'):
@@ -850,6 +880,26 @@ def build(out, groups, sections, books, root=None):
                     'chronologies doivent être distinguées.</p>'
                     '<ul>' + links + '</ul></aside>', 'html.parser').aside
                 main.append(box)
+        if row['url'] in mediterranean_urls:
+            companions = [(url, title, context) for url, title, context
+                          in MEDITERRANEAN_STUDIES
+                          if url in mediterranean_urls and url != row['url']]
+            if companions:
+                links = ''.join(
+                    '<li><a href="' + escape(url, quote=True) + '">' +
+                    escape(title) + '</a><small>' + escape(context) +
+                    '</small></li>' for url, title, context in companions)
+                box = BeautifulSoup(
+                    '<aside class="greek-cross-readings" '
+                    'data-greek-cross-readings="mediterranee" '
+                    'aria-label="Méditerranée : écritures, sources et contacts">'
+                    '<h2>Méditerranée des échanges : textes et témoignages</h2>'
+                    '<p>Quatre études intégrales, des archives levantines aux '
+                    'contacts de la Méditerranée occidentale. Alphabet, dépôt '
+                    'archéologique et témoignage littéraire relèvent de preuves '
+                    'différentes ; aucune continuité religieuse n’est présumée.</p>'
+                    '<ul>' + links + '</ul></aside>', 'html.parser').aside
+                main.append(box)
         page.write_text(str(doc), encoding='utf-8')
     for slug, title, description in FOLDERS:
         members = [r for r in rows if r['folder'] == slug]
@@ -1027,6 +1077,18 @@ def verify(out, expected_urls):
             links = [a['href'] for a in panels[0].select('a[href]')]
             assert set(links) == cosmic_urls - {url}, 'Renvois Hésiode/Kumarbi incomplets : ' + url
             assert len(links) == len(set(links)), 'Renvoi Hésiode/Kumarbi dupliqué : ' + url
+    mediterranean_urls = {url for url, _, _ in MEDITERRANEAN_STUDIES
+                          if url in expected_urls}
+    if len(mediterranean_urls) > 1:
+        for url in mediterranean_urls:
+            page = out / url.lstrip('/') / 'index.html'
+            assert page.is_file(), 'Étude méditerranéenne introuvable : ' + url
+            doc = BeautifulSoup(page.read_text(encoding='utf-8'), 'html.parser')
+            panels = doc.select('aside[data-greek-cross-readings="mediterranee"]')
+            assert len(panels) == 1, 'Parcours méditerranéen absent ou dupliqué : ' + url
+            links = [a['href'] for a in panels[0].select('a[href]')]
+            assert set(links) == mediterranean_urls - {url}, 'Lectures méditerranéennes incomplètes : ' + url
+            assert len(links) == len(set(links)), 'Lien méditerranéen répété : ' + url
     assert set(assignments) == set(expected_urls), 'Classement incomplet ou inattendu : '+str(set(assignments) ^ set(expected_urls))
     assert all(n == 1 for n in assignments.values()), 'Texte classé plusieurs fois dans les dossiers'
     print('Dossiers grecs vérifiés :', len(assignments), 'destinations uniques, tous les textes et toutes les sections accessibles')

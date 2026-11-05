@@ -1254,3 +1254,25 @@ body.mythos-design .greek-cross-readings[data-greek-cross-readings="souverainete
     font-size:clamp(1.25rem,5vw,1.5rem);line-height:1.4;
   }
 }
+
+/* Sources méditerranéennes : quatre études intégrales, hors des articles. */
+body.mythos-design .greek-cross-readings[data-greek-cross-readings="mediterranee"]{
+  border-inline-start:3px solid #d8b67a;
+  background:linear-gradient(110deg,#1e2628,#10191c 80%);
+  min-width:0;max-width:100%;
+}
+body.mythos-design .greek-cross-readings[data-greek-cross-readings="mediterranee"] h2{
+  border-bottom:1px solid #856c49;
+  padding-bottom:.65rem;
+}
+body.mythos-design .greek-cross-readings[data-greek-cross-readings="mediterranee"] li{
+  min-width:0;overflow-wrap:anywhere;
+}
+@media(max-width:480px){
+  body.mythos-design .greek-cross-readings[data-greek-cross-readings="mediterranee"]{
+    padding:.85rem;margin-inline:0;
+  }
+  body.mythos-design .greek-cross-readings[data-greek-cross-readings="mediterranee"] h2{
+    font-size:clamp(1.25rem,5vw,1.5rem);line-height:1.4;
+  }
+}

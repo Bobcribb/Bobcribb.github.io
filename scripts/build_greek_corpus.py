@@ -171,6 +171,16 @@ RELATED = [
   "/bibliotheque-mythologies-du-monde/civilisations-hourrites-mittani-kumarbi/"),
  ("Kumarbi, Hésiode et Pergame — souveraineté cosmique : étude intégrale",
   "/bibliotheque-mythologies-du-monde/mythos-comparatif-souverainete-cosmique-kumarbi-hesiode-pergame/"),
+ # Études historiques intégrales déjà publiques : nouveaux accès, sans
+ # déplacement ni recopie du manuscrit depuis Civilisations.
+ ("Levant ancien — Ougarit, Phénicie et alphabets : étude intégrale",
+  "/bibliotheque-mythologies-du-monde/civilisations-histoire-levant-pheniciens/"),
+ ("Carthage — histoire punique, Tanit et débats sur le tophet : étude intégrale",
+  "/bibliotheque-mythologies-du-monde/civilisations-carthage-punique-histoire-religion/"),
+ ("Tartessos — sources grecques et vestiges de Turuñuelo : étude intégrale",
+  "/bibliotheque-mythologies-du-monde/civilisations-tartessos-turunuelo/"),
+ ("Méditerranée des échanges — écritures, Étrusques et Mycéniens : étude intégrale",
+  "/bibliotheque-mythologies-du-monde/mythos-mediterranee-ecritures-char-bronze-etrusques-tartessos-myceniens/"),
  ("Études d'histoire et de géographie grecque","/grece/"),
  ("Théâtre grec, corpus associé mais distinct","/theatre/"),
  ("Registre général des dossiers publiés","/grande-encyclopedie/registre-integral/"),
