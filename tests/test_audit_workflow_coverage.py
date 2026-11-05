@@ -25,6 +25,24 @@ class AuditWorkflowCoverageTests(unittest.TestCase):
         self.assertIn("      - 'tests/test_audit_*.py'", pr)
         self.assertIn("      - 'CNAME'", pr)
 
+    def test_iconographic_and_html_changes_trigger_premerge_audit(self):
+        # Une PR ne doit pas passer sans audit lorsque seuls une page HTML,
+        # un SVG/WebP ou le test d'une illustration ont changé.
+        push = WORKFLOW.split("\n  pull_request:", 1)[0]
+        pr = WORKFLOW.split("\n  pull_request:", 1)[1].split("\n  workflow_dispatch:", 1)[0]
+        for pattern in (
+            "**/index.html",
+            "*.html",
+            "**/*.html",
+            "assets/**",
+            "media/**",
+            "tests/test_iconography_*.py",
+            "docs/MYTHOS_ICONOGRAPHIE_ALTERNANCE.json",
+        ):
+            with self.subTest(pattern=pattern):
+                self.assertIn(f"      - '{pattern}'", push)
+                self.assertIn(f"      - '{pattern}'", pr)
+
     def test_policy_regressions_run_before_full_audit(self):
         self.assertIn("python -m unittest discover -s tests -p 'test_audit_*.py' -v", WORKFLOW)
         self.assertIn("python scripts/audit_integrity.py", WORKFLOW)
