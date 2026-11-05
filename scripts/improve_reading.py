@@ -362,7 +362,8 @@ def epic_links(doc, url):
 
 def authored_blocks(doc):
     copy=fragment(str(doc.main or doc.body))
-    for node in copy.select('[data-reading-owned], [data-epic-owned], [data-discovery-footer]'): node.decompose()
+    # Le sommaire muséal est généré, parfois remplacé par le lecteur : il ne fait pas partie du texte d'auteur.
+    for node in copy.select('[data-reading-owned], [data-epic-owned], [data-discovery-footer], nav.mythos-scholarly-toc'): node.decompose()
     return Counter(node.get_text(' ',strip=True) for node in copy.select('p,li,h2,h3,blockquote,figcaption,td') if node.get_text(' ',strip=True))
 
 
