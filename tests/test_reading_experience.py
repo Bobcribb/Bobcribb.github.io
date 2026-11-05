@@ -29,6 +29,8 @@ class ReadingTests(unittest.TestCase):
         from apply_museum_design import add_scholarly_toc
         from improve_reading import authored_blocks
         doc = self.document()
+        # Sans lien d'ancre rédigé par l'auteur, le sommaire muséal est généré.
+        doc.select_one('a[href="#ancien"]').decompose()
         add_scholarly_toc(doc, doc.main,
                           'chapitres/encyclopedie/chapitre-259-helios/index.html')
         self.assertIsNotNone(doc.select_one('nav.mythos-scholarly-toc'))
