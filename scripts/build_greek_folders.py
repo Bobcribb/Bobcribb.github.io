@@ -215,6 +215,10 @@ def classify(url, title, kind):
     old, section = _classify_subject(url, title, kind)
     slug = urlsplit(url).path.strip('/').removesuffix('.html')
     subject = normalized(re.sub(r'^chapitre-\d+-', '', slug.split('/')[-1]))
+    # Mémoire de philosophie antique complet et déjà publié (PHY-SOC-2026-01).
+    # Le mot « Delphes » ne doit pas le classer comme un compte rendu de culte.
+    if slug == 'chapitres/philosophie/socrate-oracle-delphes-paradoxe-sagesse':
+        return 'interpretations-philosophiques', 'Socrate — oracle, enquête et sagesse'
     if slug.startswith('philosophie-'):
         return 'interpretations-philosophiques', 'Analyses philosophiques des épopées'
     if slug in ('ecole-paris', 'historiographie-v6', 'sources-methodes'):
@@ -277,6 +281,21 @@ ARTEMIS_STUDIES = (
     ('/chapitres/encyclopedie/chapitre-424-dionysos-aisymnetes-patras-eurypyle-triklaria-fete-rites/',
      'Chapitre 424 — Artémis Triklaria et Dionysos Aisymnètès',
      'Patras : récit rituel et transformations de la mémoire sacrificielle.'),
+)
+
+# Trois textes intégraux déjà publics. Distinguer l'institution de la Pythie,
+# les maximes delphiques et l'usage philosophique du récit chez Platon.
+# La cote PHY-SOC-2026-01 n'est pas un chapitre numéroté de l'encyclopédie.
+DELPHES_STUDIES = (
+    ('/chapitres/philosophie/socrate-oracle-delphes-paradoxe-sagesse/',
+     'PHY-SOC-2026-01 — Socrate, l’oracle et la sagesse',
+     'Mémoire de philosophie antique : Platon, Xénophon, examen de soi et annexes.'),
+    ('/chapitres/encyclopedie/chapitre-348-pythie-delphes-parole-inspiree/',
+     'Chapitre 348 — La Pythie de Delphes',
+     'Consultation, rituels et autorité de la prêtresse : enquête historique.'),
+    ('/chapitres/encyclopedie/chapitre-349-maximes-delphiques-connais-toi-toi-meme/',
+     'Chapitre 349 — Les maximes delphiques',
+     'Connais-toi toi-même : traditions textuelles et histoire des interprétations.'),
 )
 
 RELATED_FOLDERS = {
@@ -456,9 +475,12 @@ def build(out, groups, sections, books, root=None):
                      if any(row['url'] == url for row in rows)}
     artemis_urls = {url for url, _, _ in ARTEMIS_STUDIES
                     if any(row['url'] == url for row in rows)}
+    delphes_urls = {url for url, _, _ in DELPHES_STUDIES
+                    if any(row['url'] == url for row in rows)}
     # Return links stay outside the article, leaving its scholarly text untouched.
     for row in rows:
-        if row['kind'] not in ('Chapitre universitaire', 'Livre', 'Notice', 'Étude'):
+        if (row['kind'] not in ('Chapitre universitaire', 'Livre', 'Notice', 'Étude')
+                and row['url'] != DELPHES_STUDIES[0][0]):
             continue
         page = out / row['url'].lstrip('/')
         if row['url'].endswith('/'):
@@ -518,6 +540,26 @@ def build(out, groups, sections, books, root=None):
                     '<p>Ces quatre études intégrales distinguent les lieux, '
                     'les épiclèses et les sources antiques. Elles ne supposent '
                     'ni rites identiques ni continuité historique universelle.</p>'
+                    '<ul>' + links + '</ul></aside>', 'html.parser').aside
+                main.append(box)
+        if row['url'] in delphes_urls:
+            companions = [(url, title, context)
+                          for url, title, context in DELPHES_STUDIES
+                          if url in delphes_urls and url != row['url']]
+            if companions:
+                # En dehors de l'article, sans toucher aux sources ni annexes.
+                links = ''.join(
+                    '<li><a href="' + escape(url, quote=True) + '">' +
+                    escape(title) + '</a><small>' + escape(context) +
+                    '</small></li>' for url, title, context in companions)
+                box = BeautifulSoup(
+                    '<aside class="greek-cross-readings" '
+                    'data-greek-cross-readings="delphes" '
+                    'aria-label="Delphes : textes et interprétations">'
+                    '<h2>Delphes : textes, oracle et connaissance de soi</h2>'
+                    '<p>Trois lectures intégrales complémentaires. '
+                    'La pratique religieuse delphique et la réélaboration '
+                    'philosophique de Socrate ne se confondent pas.</p>'
                     '<ul>' + links + '</ul></aside>', 'html.parser').aside
                 main.append(box)
         page.write_text(str(doc), encoding='utf-8')
@@ -615,6 +657,16 @@ def verify(out, expected_urls):
             actual = [a['href'] for a in panels[0].select('a[href]')]
             assert set(actual) == artemis_urls - {url}, 'Lectures Artémis incomplètes : ' + url
             assert len(actual) == len(set(actual)), 'Lien Artémis répété : ' + url
+    delphes_urls = {url for url, _, _ in DELPHES_STUDIES if url in expected_urls}
+    if len(delphes_urls) > 1:
+        for url in delphes_urls:
+            path = out / url.lstrip('/') / 'index.html'
+            doc = BeautifulSoup(path.read_text(encoding='utf-8'), 'html.parser')
+            panels = doc.select('aside[data-greek-cross-readings="delphes"]')
+            assert len(panels) == 1, 'Parcours Delphes manquant ou dupliqué : ' + url
+            actual = [a['href'] for a in panels[0].select('a[href]')]
+            assert set(actual) == delphes_urls - {url}, 'Lectures Delphes incomplètes : ' + url
+            assert len(actual) == len(set(actual)), 'Lien Delphes répété : ' + url
     assert set(assignments) == set(expected_urls), 'Classement incomplet ou inattendu : '+str(set(assignments) ^ set(expected_urls))
     assert all(n == 1 for n in assignments.values()), 'Texte classé plusieurs fois dans les dossiers'
     print('Dossiers grecs vérifiés :', len(assignments), 'destinations uniques, tous les textes et toutes les sections accessibles')
