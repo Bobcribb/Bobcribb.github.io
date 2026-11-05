@@ -549,6 +549,12 @@
           "path": "chapitres/origines-du-sacre/663-selinonte-elaster-purification-tablette-plomb-reintegration.md",
           "request_sha256": "4b2758024dba7279abbdd50f1955c938787c3a9e716dfd2e2bdaa8c2dd17e6f8",
           "initial_source_sha256": "8146dfdfbf1717126b8ffe0b542be21475963dd005452c08b51afd496a4be99d"
+        },
+        "a7bd9310-6fed-4a23-b0d1-bf71249d3c60": {
+          "number": 664,
+          "path": "chapitres/origines-du-sacre/664-delos-rhenee-purification-tombes-naissances-souverainete-athenienne.md",
+          "request_sha256": "d3fab3c3e7e45d9ae18f99815a8012f86afffd6b19c6c71ce4415dba2f6ef561",
+          "initial_source_sha256": "55229938c0db663e5a549f98da26d85748240f7e9bd740ec29ce4d82819e03dc"
         }
       }
     },
@@ -1750,6 +1756,12 @@
           "path": "chapitres/tragedies/volume-ccxlv-sophocle-philoctete-a-troie-plaie-guerison-machaon-podalirios-paris.md",
           "request_sha256": "2fe6cf6b4d8121c3f4eaa7e19cd45d8391c81b00f7396eff5b44118a460cc1e7",
           "initial_source_sha256": "966b0a6c50deb766f8fa6e7d590a315ff35ee1146c3edd9945690d6ffdaba7a6"
+        },
+        "73ce8d14-2b65-496d-b8ed-f1e4a0b9c672": {
+          "number": 246,
+          "path": "chapitres/tragedies/volume-ccxlvi-sophocle-phinee-a-b-enfants-aveugles-harpyes-asclepios-devoir-justice.md",
+          "request_sha256": "ee5c51f7e876d1072dcd9aee307bcf4955be131512c48d617a38bb9f490ddaa3",
+          "initial_source_sha256": "b7e70c3ed2d731e4649e9c127540772890e3b9f902daf112c996ed2c0d80ae8f"
         }
       }
     },
