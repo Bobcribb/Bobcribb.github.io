@@ -1134,3 +1134,19 @@ body.mythos-design .greek-cross-readings[data-greek-cross-readings="aphrodite"] 
   }
 }
 
+
+/* Parcours historique grec : contextualiser les sources de trois époques. */
+body.mythos-design .greek-cross-readings[data-greek-cross-readings="chronologie"]{
+  border-inline-start:3px solid #c9a467;
+  background:linear-gradient(115deg,#1d2526,#10191c 75%);
+}
+body.mythos-design .greek-cross-readings[data-greek-cross-readings="chronologie"] h2{
+  border-bottom:1px solid #7c6340;
+  padding-bottom:.65rem;
+}
+@media(max-width:480px){
+  body.mythos-design .greek-cross-readings[data-greek-cross-readings="chronologie"]{
+    padding:.85rem;
+    margin-inline:0;
+  }
+}
