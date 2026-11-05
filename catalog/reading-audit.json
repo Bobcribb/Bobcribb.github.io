@@ -1,25 +1,9 @@
 {
   "status": "passed",
-  "indexed_entries": 1455,
-  "pages_scanned": 1512,
-  "readers_equipped": 1052,
-  "links_checked": 129295,
+  "indexed_entries": 1482,
+  "pages_scanned": 1539,
+  "readers_equipped": 1075,
+  "links_checked": 132357,
   "new_navigation_errors": [],
-  "legacy_link_issues": [
-    {
-      "page": "/chapitres/comedies/volume-106-philyllios-herakles-dorpia-apaturies-protenthai-phratries/index.html",
-      "url": "/comedies-grecques/",
-      "problem": "fichier absent"
-    },
-    {
-      "page": "/chapitres/comedies/volume-107-philyllios-plyntriai-nausikaa-lessive-laispodias-scholie-odyssee/index.html",
-      "url": "/comedies-grecques/",
-      "problem": "fichier absent"
-    },
-    {
-      "page": "/chapitres/comedies/volume-107-philyllios-plyntriai-nausikaa-lessive-laispodias-scholie-odyssee/index.html",
-      "url": "/comedies-grecques/",
-      "problem": "fichier absent"
-    }
-  ]
+  "legacy_link_issues": []
 }

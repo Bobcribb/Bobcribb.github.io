@@ -1,0 +1,236 @@
+# Chapitre 674 — Refuser la sépulture : l'Antigone de Sophocle, le corps de Polynice et les limites du pouvoir
+
+*MYTHOS — Les Origines du sacré, volume DCLXXIV. Étude universitaire sur les rites de la mort, la philologie tragique, les normes religieuses, les institutions grecques et la philosophie du droit. Sources primaires et bibliographie contrôlées le 5 novembre 2026.*
+
+## Résumé
+
+Sophocle met en scène un désaccord qui ne se laisse pas réduire à une opposition simple entre « religion » et « politique » : Créon refuse la sépulture à Polynice, combattant mort contre Thèbes ; Antigone accomplit malgré l'interdiction les gestes qu'elle considère dus à son frère ; Hémon, Tirésias et le chœur déplacent progressivement le conflit vers la responsabilité du souverain, les devoirs familiaux, l'ordre de la cité et la contamination des autels. Ce chapitre analyse les opérations funéraires effectivement décrites, la valeur des mots grecs et la distinction entre une situation tragique fictive et les règles historiques des cités grecques. Il confronte la tragédie aux témoignages sur la récupération des morts de guerre et aux grands débats modernes, de Hegel à Christiane Sourvinou-Inwood et Bonnie Honig. L'étude n'est pas une monographie générale de la pièce : elle porte spécifiquement sur le refus de sépulture, la pureté religieuse et la compétence du pouvoir d'interdire ou d'autoriser.
+
+**Grille de lecture** : [A] signifie attestation textuelle ou matérielle identifiée ; [C] interprétation discutée, reconstruction ou difficulté de transmission ; [H] hypothèse comparative proposée ici. Une citation grecque est localisée par les vers de la pièce ; les reformulations françaises ne sont pas des traductions littérales prétendument inédites. L'intrigue tragique n'est jamais utilisée comme preuve d'un décret thébain historique.
+
+## 1. La question première : de quel mort s'agit-il ?
+
+Polynice a participé à une attaque contre sa propre cité, Thèbes. Son frère Étéocle est également mort dans le conflit. Le pouvoir victorieux accorde à Étéocle des funérailles honorables mais ordonne de laisser Polynice privé de rites. La dissymétrie repose donc sur une qualification politique de la mort : deux frères tués, mais deux statuts publics opposés.
+
+[A] Le prologue, vers 21–36, expose ce contraste à travers Antigone ; la proclamation de Créon, vers 162–210, lui donne une formulation politique. [H] Le drame demande si l'appréciation d'un comportement accompli du vivant peut justifier une déchéance rituelle après la mort. Il n'est pas nécessaire d'approuver l'expédition de Polynice pour considérer ce problème.
+
+## 2. Une fiction située dans la tradition thébaine
+
+L'histoire des fils d'Œdipe appartient à un ensemble mythique qui connaît des variantes. L'Antigone de Sophocle, généralement située dans les dernières années 440 avant notre ère, constitue une mise en intrigue singulière de cette tradition. Sa datation précise et certaines histoires biographiques qui l'associent à la carrière militaire de Sophocle sont débattues.
+
+[C] Les généalogies, le rôle des filles d'Œdipe et l'enchaînement des événements ne sont pas identiques dans toutes les œuvres grecques. Une rédaction savante doit résister à la tentation de reconstruire un « épisode originel » unique en combinant des fragments hétérogènes. La tragédie conservée est la source directe de ce dossier ; les autres versions en sont des comparanda.
+
+## 3. Créon : un ordre rendu public
+
+Dans les vers 162–210, Créon lie son autorité à la sûreté de la cité et présente la distinction funéraire comme le prolongement du jugement porté sur les deux frères. Étéocle est honoré pour la défense de Thèbes ; Polynice est privé de tombe et de lamentation, livré aux animaux. La proclamation est un acte de gouvernement, pas une simple antipathie familiale.
+
+Le souverain revendique l'aptitude à reconnaître un ami et un ennemi de la cité. [H] Le mort devient le support d'une pédagogie politique : conserver la mémoire du défenseur, refuser au traître l'honneur du tombeau. Pourtant la politique de l'exemple devient une violence faite aux vivants qui restent attachés au mort.
+
+## 4. Interdire la terre, pas seulement la cérémonie
+
+L'absence de sépulture ne signifie pas seulement la suppression d'un discours public. Le cadavre doit rester exposé. Le rapport entre la chair morte et le sol est central : l'interdit refuse au défunt l'opération qui le soustrairait au regard des vivants et aux dégradations du temps.
+
+[A] Les gardes et le surveillant décrivent les tentatives de recouvrement du corps, notamment aux vers 245–277 et 407–440. Les gestes restent simples : dépôt de poussière ou de terre, accomplissement d'offrandes ou de libations selon les récits. [H] La valeur rituelle du geste tient justement au fait qu'un acte matériel limité peut contredire un interdit souverain considérable.
+
+## 5. Poussière, terre, recouvrement : que fait Antigone ?
+
+Le premier rapport du garde évoque une fine couche de poussière répandue sur le défunt ; il n'a pas observé directement la personne responsable. Le deuxième récit met Antigone en présence du corps et décrit de nouveaux gestes. Cette stratification narrative interdit de prétendre que nous assistons sur scène à la totalité de l'ensevelissement.
+
+[A] Dans la tragédie, ces opérations sont rapportées, non montrées comme une fouille archéologique. [C] La quantité de terre, la procédure exacte et le sens de chaque libation doivent être étudiés avec le grec du passage. En particulier, il serait abusif de transformer une couche de poussière en tumulus achevé ou en fosse profonde attestée par le texte.
+
+## 6. Le rite minimal et sa force juridique
+
+La simplicité apparente du recouvrement permet de poser un problème de l'efficacité rituelle. Une sépulture complète comprend normalement des actes multiples, la préparation du corps, le transport, l'inhumation ou la crémation, puis des gestes commémoratifs. Antigone ne peut pas accomplir librement cette chaîne.
+
+[H] Elle choisit des opérations qui affirment l'existence d'une obligation malgré une impossibilité matérielle imposée par le pouvoir. On ne saurait conclure que, pour tous les Grecs, un geste de poussière était universellement suffisant à remplacer toutes les autres prestations. La scène montre une solution dramatique au conflit, non un manuel de rituel panhellénique.
+
+## 7. Le vocabulaire du décret : *kērygma* et *nomos*
+
+À l'interrogatoire, Créon évoque une prescription qu'Antigone connaissait. Elle lui oppose les règles qu'elle estime attribuées aux dieux. Le débat se concentre sur des mots voisins mais non équivalents : proclamation publique, loi, usage religieux établi.
+
+[A] Aux vers 449–455, les *kērygmata* du souverain sont opposés aux *agrapta kasphalē theōn nomima*, des normes divines non écrites et stables. Il est trompeur de projeter sans autre argument une théorie moderne de la Constitution sur ces termes. La différence porte à la fois sur la source de l'obligation, la durée revendiquée et le pouvoir de l'abroger.
+
+## 8. Les lois non écrites ne constituent pas un code retrouvé
+
+Antigone affirme que les règles qu'elle invoque n'existent ni depuis aujourd'hui ni depuis hier. Le propos confère à l'obligation une antériorité indéfinie ; il ne cite pas un décret identifié, une stèle de sanctuaire ou un texte législatif contrôlable par l'historien.
+
+[A] La revendication d'Antigone est textuelle. [C] Son rapport à d'autres normes grecques, qu'elles concernent les proches, les étrangers ou les morts de guerre, exige une comparaison séparée. [H] L'« immémorial » fonctionne ici comme un argument contre l'arbitraire supposé d'une décision présente. Il ne constitue pas une preuve que le rite n'a jamais changé.
+
+## 9. Le rôle de Dikè et des dieux d'en bas
+
+Aux vers 450–452, Antigone rattache les règles à Dikè qui partage l'espace des puissances souterraines. La sépulture n'est donc pas présentée uniquement comme une préférence sentimentale. Elle relève d'un ordre divin dont la famille ne peut disposer à sa guise, mais dont elle se considère responsable.
+
+L'allusion n'offre pas une cosmogonie complète des divinités infernales. [H] Elle établit plutôt une double juridiction symbolique : le souverain gouverne une communauté de vivants, tandis que les exigences envers ceux qui meurent ne peuvent être réduites à sa volonté. Il faut pourtant éviter de faire de Créon un athée : ses arguments reposent aussi sur une conception de la justice envers la cité.
+
+## 10. Ismène et la question de l'obéissance
+
+Ismène rappelle l'autorité des hommes et la fragilité des femmes qui ne disposent pas du pouvoir de commander. Son hésitation ne provient pas nécessairement d'un manque de respect envers le mort : elle prend en compte la menace pesant sur les survivantes.
+
+La scène montre que le rite funéraire est pris dans des rapports de force. [H] L'obligation envers le défunt peut être reconnue par plusieurs personnes sans que chacune estime pouvoir lui donner la même suite. L'analyse critique doit ainsi distinguer une croyance, une décision et une capacité matérielle d'agir.
+
+## 11. Une femme accomplit une obligation reconnue publiquement
+
+Le geste d'Antigone relève de la sphère familiale, souvent assignée aux femmes dans les sources grecques, mais il conteste une proclamation de la cité. La frontière entre maison et politique est traversée par l'acte même de rendre les honneurs dus au frère.
+
+Les lois funéraires d'Ioulis, des Labyades ou de Gambreion, étudiées dans MYTHOS, montrent comment la cité ou une communauté organisée peut réglementer les rites domestiques. Il serait pourtant faux de traiter ces documents comme le texte juridique directement appliqué à Thèbes dans la tragédie. Leur valeur est comparative : ils établissent l'existence historique de conflits possibles entre devoir de parenté et réglementation publique.
+
+## 12. Les femmes et la parole rituelle
+
+Antigone n'est pas simplement une femme à qui l'on a retiré la possibilité de pleurer. Elle prend la parole, revendique son acte et développe une justification religieuse. La puissance dramatique de cette parole dépasse la fonction ordinaire d'accompagner le mort.
+
+Les études de Margaret Alexiou sur les lamentations grecques invitent à distinguer le travail funéraire féminin, les formes de chant et l'affrontement public que l'histoire tragique rend possible. [H] Sophocle met en tension une activité rituelle culturellement reconnaissable et une intervention discursive d'une intensité exceptionnelle.
+
+## 13. Créon et la peur d'être gouverné par une femme
+
+La réponse de Créon porte autant sur son autorité que sur le corps de Polynice. Il voit la désobéissance d'Antigone comme une menace contre sa position et souligne le danger de céder face à une femme. L'opposition des normes passe donc par une distribution sexuée du pouvoir politique.
+
+Cela ne signifie pas que la pièce institue une conception moderne et univoque de l'émancipation. [C] Les lectures féministes divergent sur la portée libératrice ou tragiquement limitée de l'acte. Bonnie Honig montre que l'interprétation d'Antigone a été continuellement travaillée par des débats sur la souveraineté, le genre et les possibilités d'action.
+
+## 14. Les motifs de la sœur : justice ou attachement exclusif ?
+
+La défense d'Antigone se fonde sur les droits de son frère. Elle ne formule pas explicitement un programme universel de sépulture pour tous les ennemis de toutes les cités. Les vers 904–920, où elle discute la singularité du frère, ont fait l'objet de débats sur leur authenticité et leur cohérence.
+
+Christiane Sourvinou-Inwood a contesté les lectures qui éliminent des passages jugés inconfortables pour préserver une Antigone parfaitement conforme à des attentes modernes. [C] Il convient de présenter la controverse textuelle sans exclure arbitrairement les vers de l'analyse, ni en tirer une philosophie universelle qui ne figure pas dans le discours.
+
+## 15. Hémon : la cité parle-t-elle d'une seule voix ?
+
+Hémon, fils de Créon et fiancé d'Antigone, signale les désaccords que l'autorité peut refuser d'entendre. Il conteste l'idée que la cité appartienne à un seul homme. Le débat déplace le problème : l'interdiction funéraire n'est plus seulement un conflit entre une jeune femme et un parent souverain, mais une épreuve de la capacité du chef à écouter la communauté.
+
+[H] L'hostilité populaire à l'exécution telle que la rapporte Hémon ne peut être convertie en sondage de l'opinion thébaine historique. Elle sert à mettre en crise l'identification du pouvoir politique à la parole d'un seul dirigeant.
+
+## 16. La sépulture d'Antigone vivante : inversion fondamentale
+
+Créon décide d'enfermer Antigone dans un espace rocheux, à la limite de la tombe et de la prison. Elle demeure vivante lorsqu'elle est emmurée. Le corps de Polynice, déjà mort, est privé de sépulture ; Antigone, vivante, reçoit une forme de sépulture anticipée.
+
+[H] Cette inversion produit un désordre des catégories : le mort reste chez les vivants en plein air, la vivante passe dans l'espace des morts. Une lecture religieuse attentive peut y voir la transgression de seuils qui organisaient normalement les relations entre vie, mort et pureté. Ce n'est pas une donnée archéologique sur la pratique thébaine des emprisonnements.
+
+## 17. Tirésias : les oiseaux et les chiens déplacent la faute
+
+Le devin Tirésias déclare, aux environs des vers 998–1032, que les oiseaux et animaux nourris de la chair du mort souillent les lieux où se déroulent les sacrifices. L'impureté ne demeure pas une affaire privée de la famille d'Œdipe ; elle atteint les communications entre la cité et ses dieux.
+
+La scène ne doit pas être ramenée à un avis personnel contre Créon. [H] Elle reformule l'argument d'Antigone dans une langue de fonctionnement public du culte. Le corps exposé contamine les conditions d'un sacrifice reconnu par tous ; le souverain ne peut donc se présenter comme seul défenseur de l'ordre religieux.
+
+## 18. Le feu qui refuse les offrandes
+
+Dans le rapport du devin, les signes sacrificiels deviennent défavorables ; les autels reçoivent des éléments pollués par les animaux. Il ne s'agit pas d'une analyse chimique d'une contamination réelle à Thèbes. Nous sommes dans une dramaturgie où l'échec des signes religieux marque le dysfonctionnement du gouvernement.
+
+[A] Tirésias fait intervenir la divination et le sacrifice ; [H] le spectacle religieux devient un diagnostic politique. Le point remarquable est que Créon ne manque pas seulement à un frère mort, mais met en danger les pratiques qui assurent à la cité un rapport correct aux puissances divines.
+
+## 19. La peur d'un désordre au-delà de Thèbes
+
+Tirésias annonce une rétribution sévère pour la conduite de Créon. La mort et les conséquences de l'interdit atteignent la maison du souverain elle-même. Le mécanisme tragique associe la responsabilité politique à une série de pertes intimes.
+
+Il serait trompeur d'y lire une procédure de responsabilité pénale directement applicable aux stratèges athéniens. La tragédie articule langage de sanction, prévision religieuse et composition dramatique. [H] L'ordre public ne peut être stabilisé en utilisant indéfiniment le cadavre comme instrument d'humiliation.
+
+## 20. Le revirement de Créon et sa temporalité tardive
+
+Créon finit par admettre la nécessité de changer sa décision, mais la correction survient trop tard. Ce retard est essentiel : en tragédie, reconnaître une faute n'efface pas automatiquement ses conséquences. Un geste juste différé peut devenir pratiquement inefficace.
+
+L'histoire du droit pourrait opposer à ce scénario des cas de grâce et de réparation. La pièce refuse une sortie administrative simple. [H] Elle transforme la question de la réversibilité de la norme en question de temporalité éthique : quand le pouvoir cesse de s'obstiner, la perte peut déjà être devenue irréparable.
+
+## 21. La fin : Polynice reçoit un rite, mais les vivants meurent
+
+Le dénouement associe les opérations de sépulture de Polynice, la mort d'Antigone, celle d'Hémon et celle d'Eurydice. L'interdit destiné à défendre la cité contribue à détruire la maison du souverain, et cette destruction atteint le langage de la légitimité politique.
+
+Le récit ne dit pas qu'une sépulture correcte annule automatiquement le destin tragique. [H] Sophocle explore plutôt l'impossibilité de réparer complètement une rupture commise au nom de l'ordre. Les rites peuvent être nécessaires sans être suffisants pour supprimer toutes les conséquences d'une décision injuste.
+
+## 22. La différence entre traître et ennemi
+
+Le droit funéraire grec ne traite pas toujours de façon identique le citoyen accusé de trahison et le combattant appartenant à une cité ennemie. Des sources évoquent l'interdiction d'enterrer certains traîtres sur le territoire civique, sans nécessairement interdire leur sépulture ailleurs. Chez Sophocle, Créon impose une privation radicale et surveillée du corps.
+
+[C] Diane J. Rayor, dans son introduction à l'édition de *Sophocles' Antigone*, souligne cette différence : une interdiction territoriale peut appartenir à un langage civique connu, alors que l'extension de l'interdit à toute possibilité d'ensevelissement est extraordinairement sévère. La pièce interroge la compétence du souverain en poussant le refus à sa limite.
+
+## 23. Le corps de l'ennemi dans l'épopée : Hector et Priam
+
+Dans l'*Iliade* XXII–XXIV, Achille outrage le corps d'Hector avant de le rendre à Priam, qui peut accomplir les funérailles. Les dieux interviennent dans l'économie du récit pour rappeler la gravité du traitement du cadavre. Cette comparaison n'identifie pas Polynice à Hector ni Créon à Achille.
+
+[H] Elle révèle un problème narratif partagé : la victoire militaire donne-t-elle au vainqueur un pouvoir sans limite sur le corps de l'ennemi ? La réponse n'est pas obtenue par une loi unique valable à toutes les époques, mais par des traditions qui reconnaissent la puissance durable du devoir funéraire.
+
+## 24. Thucydide et Délion : conflit historique sur les corps
+
+Thucydide, *Guerre du Péloponnèse* IV, 97–99, rapporte un désaccord entre Athéniens et Béotiens au sujet de la récupération des morts après Délion en 424 avant notre ère. Les accusations réciproques mobilisent sanctuaires, usages communs et droit de reprendre les corps.
+
+Ce cas historique ne reconstitue pas la politique de Créon. Il confirme néanmoins que le traitement des corps ennemis pouvait devenir une affaire de négociation, de guerre et de légitimité collective. [H] Le conflit tragique, loin de prouver une règle générale, rend reconnaissable un ensemble de tensions qui pouvaient aussi s'exprimer entre cités.
+
+## 25. Une tragédie n'est pas une inscription funéraire
+
+Le dossier archéologique d'une tombe grecque fournit des renseignements sur le traitement d'un corps, les dépôts, les matériaux et la topographie. L'*Antigone* fournit des discours de personnages, une construction scénique et un conflit dramatique. On ne peut trouver dans le texte une couche de terre attestée par fouille, ni conclure qu'une tombe contemporaine correspond à celle de Polynice.
+
+Les études de Christiane Sourvinou-Inwood sur la mort grecque montrent l'intérêt de confronter littérature, images, monuments et pratiques, à condition de conserver les spécificités de chaque source. Les rites représentés dans la tragédie donnent accès à des normes pensables, non à des statistiques de pratiques.
+
+## 26. Hegel : famille et cité, sans caricature
+
+Hegel a donné à *Antigone* une place centrale dans l'analyse de la vie éthique : devoir familial envers le mort et ordre de la cité entrent en conflit, chacun portant une prétention à la légitimité. Cette lecture demeure féconde si l'on prend au sérieux la complexité des institutions.
+
+Elle devient moins convaincante lorsqu'on réduit Antigone à la famille et Créon à l'État moderne. Créon est également parent des morts ; Antigone invoque des normes divines qui ne sont pas une simple préférence intime. [H] La tragédie expose une crise de médiation entre plusieurs obligations plutôt qu'un face-à-face mécanique de deux abstractions.
+
+## 27. Nietzsche : l'excès de la volonté et le sens de la tragédie
+
+Une lecture nietzschéenne peut interroger la rigidité des personnages, le refus d'entendre le changement et les conséquences d'une volonté qui se prend pour la mesure du monde. La tragédie ne se laisse pourtant pas résumer au « vouloir-vivre » ni à une morale qui punirait automatiquement l'orgueil.
+
+[H] Nietzsche ouvre surtout une question : comment la forme tragique rend-elle perceptible un désaccord qu'aucune leçon finale ne peut complètement refermer ? Il faut distinguer cette méthode philosophique d'une preuve de la manière dont les Athéniens de l'époque comprenaient Sophocle.
+
+## 28. Durkheim, Eliade, Girard : instruments et limites
+
+Durkheim aide à penser le caractère collectif des obligations envers les morts, qui dépassent les goûts individuels. Eliade invite à réfléchir aux seuils qui séparent vie et mort, intérieur et extérieur, sacré et profane. Girard propose des analyses de la violence et de l'exclusion.
+
+Aucun de ces cadres ne doit effacer le contenu précis du décret de Créon. Polynice est un mort ennemi que le pouvoir veut priver de rites, pas une victime choisie par une communauté entière pour absorber ses malheurs selon un rituel attesté. La notion de bouc émissaire peut susciter une comparaison [H], mais son application automatique déformerait le mécanisme dramatique.
+
+## 29. Vernant, Detienne et l'historicité des institutions religieuses
+
+Vernant et Detienne ont renouvelé l'étude des relations entre pensée grecque, pratiques sacrificielles et cité. Leur démarche invite à comparer les opérations concrètes plutôt qu'à attribuer au « sacré » une substance intemporelle. Dans *Antigone*, le corps, la poussière, le sanctuaire, les oiseaux et les ordres prononcés forment un ensemble de dispositifs reconnaissables.
+
+[C] Il n'est pas démontrable que la scène traduit une crise politique précise de l'Athènes de Périclès. [H] Elle problématise néanmoins la prétention d'une décision publique à définir seule l'ensemble des devoirs religieux, sans nier que l'autorité civique possède elle-même des fonctions cultuelles.
+
+## 30. Les lectures féministes : autonomie ou relation ?
+
+Les interprétations modernes d'Antigone oscillent entre une figure d'autonomie résistante et une protagoniste dont l'action est indissociable de la parenté, du genre et de la souveraineté. Bonnie Honig, *Antigone, Interrupted* (2013), examine la manière dont la pièce et ses réemplois peuvent donner prise à une politique de l'interruption.
+
+Il convient de ne pas projeter un sujet politique contemporain sans médiation sur le monde grec. [H] Le geste d'Antigone est à la fois situé dans les obligations de sa famille et capable d'interrompre l'ordre public qui prétend le disqualifier. La puissance de la pièce tient à cette double condition.
+
+## 31. Comparaisons raisonnées : Égypte, Mésopotamie, Inde, Chine
+
+Les textes égyptiens liés à la protection du corps et à l'entretien des défunts, les pratiques mésopotamiennes de *kispu*, les obligations indiennes envers les ancêtres et les prescriptions chinoises de deuil éclairent diversement l'importance des restes, des noms et des prestations rituelles. Il ne s'ensuit aucune transmission directe vers la *polis* thébaine de Sophocle.
+
+La comparaison peut utiliser des variables : qui a le droit de traiter le corps, qui fournit les biens, quels interdits pèsent sur les vivants, quelle autorité peut suspendre les rites ? Les traditions iraniennes de traitement des cadavres exigent une prudence supplémentaire sur les périodes et les sources avestiques. Les mondes africains et américains demandent des enquêtes localisées, plutôt que des affirmations globales sans documentation.
+
+## 32. Ce qui est attesté, contesté, proposé
+
+**Attesté [A]** : dans la pièce, Créon refuse la sépulture à Polynice ; Antigone accomplit des gestes de recouvrement, les revendique, oppose des normes divines non écrites au décret et subit une condamnation. Hémon conteste l'absolutisme du pouvoir ; Tirésias relie l'exposition du corps à la pollution des sacrifices ; le dénouement associe correction tardive, ensevelissement et morts de la famille royale.
+
+**Débattu [C]** : la date précise de la représentation, le rapport entre tragédie et droit de sépulture historique, l'authenticité ou l'interprétation des vers 904–920, le degré de légitimité religieuse de Créon, la lecture des rôles de genre et la portée politique des lois non écrites.
+
+**Hypothèse [H]** : Sophocle construit le refus de sépulture comme un test des limites de souveraineté. Le cadavre humilié devient progressivement un obstacle au bon fonctionnement religieux de la cité qui prétendait s'en défendre.
+
+## Conclusion
+
+L'*Antigone* n'est pas seulement la célébration d'une conscience solitaire défiant l'État. Elle demande comment une communauté peut traiter un mort devenu ennemi et jusqu'où une décision politique peut étendre sa juridiction sur les obligations religieuses, la terre et les corps. Le rite minimal accompli par Antigone et l'échec des sacrifices dénoncé par Tirésias relient le geste familial à l'ordre commun. Le drame montre enfin que les décisions prises au nom de la sécurité peuvent produire une autre forme de péril lorsqu'elles rompent les conditions mêmes de la justice et de la relation aux morts. Cette monographie conserve la distance nécessaire entre une création dramatique et les pratiques historiquement documentées de la Grèce classique.
+
+## Sources primaires identifiées et contrôlables
+
+1. Sophocle, *Antigone*, vers 1–100 (prologue), 162–210 (décret), 245–277 et 407–440 (rapports de sépulture), 441–470 (lois non écrites), 904–920 (débat sur le frère), environ 998–1090 (Tirésias et pollution), dénouement. Texte grec et traduction : Center for Hellenic Studies, https://chs.harvard.edu/primary-source/sophocles-antigone/ ; Perseus grec https://beta.perseus.tufts.edu/urn:cts:greekLit:tlg0011.tlg002.dain1955-grc1/card:441/.
+2. Homère, *Iliade* XXII–XXIV, traitement du corps d'Hector, intervention divine et retour des restes à Priam. À lire comme épopée, non comme loi athénienne.
+3. Thucydide, *Guerre du Péloponnèse*, IV, 97–99, Délion, restitution disputée des morts de guerre.
+4. Eschyle, *Sept contre Thèbes*, scène finale de refus d'ensevelissement dans la tradition manuscrite ; l'authenticité de cette conclusion est discutée, ce qui interdit de l'utiliser sans réserve pour reconstruire une origine antérieure à Sophocle.
+5. Platon, *Lois*, IX, 873e–874b, dispositions idéales sur les responsabilités et rites liés à la mort ; texte philosophique, non règlement thébain.
+
+## Bibliographie universitaire vérifiée
+
+- Alexiou, Margaret, *The Ritual Lament in Greek Tradition*, Cambridge, Cambridge University Press, 1974.
+- Detienne, Marcel, et Jean-Pierre Vernant (dir.), *La Cuisine du sacrifice en pays grec*, Paris, Gallimard, 1979.
+- Durkheim, Émile, *Les Formes élémentaires de la vie religieuse*, Paris, Alcan, 1912.
+- Garland, Robert, *The Greek Way of Death*, Londres, Duckworth, 1985.
+- Girard, René, *La Violence et le sacré*, Paris, Grasset, 1972.
+- Hegel, G. W. F., *Phänomenologie des Geistes*, 1807, passage sur la loi divine, la loi humaine et la famille.
+- Honig, Bonnie, *Antigone, Interrupted*, Cambridge, Cambridge University Press, 2013, https://www.cambridge.org/core/books/antigone-interrupted/A214F753F3B5868632E101434A35ECBF.
+- Knox, Bernard M. W., *The Heroic Temper: Studies in Sophoclean Tragedy*, Berkeley, University of California Press, 1964.
+- Loraux, Nicole, *Les expériences de Tirésias : le féminin et l'homme grec*, Paris, Gallimard, 1989.
+- Nussbaum, Martha C., *The Fragility of Goodness: Luck and Ethics in Greek Tragedy and Philosophy*, Cambridge, Cambridge University Press, 1986.
+- Parker, Robert, *Miasma: Pollution and Purification in Early Greek Religion*, Oxford, Clarendon Press, 1983.
+- Rayor, Diane J. (éd. et trad.), *Sophocles' Antigone*, Cambridge, Cambridge University Press, 2011, extrait éditeur : https://www.cambridge.org/core/books/sophocles-antigone/.
+- Sourvinou-Inwood, Christiane, « Assumptions and the Creation of Meaning: Reading Sophocles' Antigone », *Journal of Hellenic Studies* 109, 1989, p. 134–148, https://doi.org/10.2307/632037.
+- Sourvinou-Inwood, Christiane, *Reading Greek Death: To the End of the Classical Period*, Oxford, Clarendon Press, 1995, https://doi.org/10.1093/oso/9780198149767.001.0001.
+- Vernant, Jean-Pierre, et Pierre Vidal-Naquet, *Mythe et tragédie en Grèce ancienne*, Paris, Maspero, 1972, et suites.
+- Zacharia, Katerina, « Funerary Rituals, Aeschylus' Eumenides and Sophocles' Antigone », *Journal of Hellenic Religion* 3, 2010, p. 53–65, https://digitalcommons.lmu.edu/classics_fac/12/.
+
+*Note de continuité : le texte est une monographie d'histoire des rites et du pouvoir ; il n'est pas une réécriture du commentaire dramatique complet éventuellement publié dans la collection Théâtre. Seules les mentions de son numéro éditorial propre utilisent 674 et DCLXXIV. Les références historiques ne sont pas modifiées.*

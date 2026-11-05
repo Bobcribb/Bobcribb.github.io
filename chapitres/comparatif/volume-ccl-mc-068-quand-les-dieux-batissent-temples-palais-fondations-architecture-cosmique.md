@@ -1,0 +1,459 @@
+# MYTHOS — Cycle universitaire de MYTHOLOGIE COMPARÉE — Volume CCL (250)
+
+## MC-068 — Quand les dieux bâtissent : palais divins, fondations sacrées, architecture cosmique et souveraineté
+
+**Monographie universitaire — 5 novembre 2026.**  
+**Domaines :** assyriologie, sumérologie, études ougaritiques, égyptologie, philologie grecque, védisme, études bibliques, histoire des religions, archéologie de l'architecture et philosophie politique.  
+**Statut de cette version :** texte intégral soumis au circuit éditorial ; la numérotation romaine est volontairement laissée à l'allocateur transactionnel. Les reconstitutions, figures et illustrations proposées ne sont pas déclarées insérées.
+
+**Résumé.** Une maison divine est-elle construite par un dieu, pour un dieu, ou par des hommes sous l'autorité d'un dieu ? La distinction, parfois effacée par le mot commode d'« architecture sacrée », organise l'enquête. Les cylindres de Gudéa, les tablettes de l'*Enūma eliš*, le cycle ougaritique de Baal, les rituels égyptiens de fondation, l'*Hymne homérique à Apollon*, l'Exode, le *Ṛgveda* et la *Völuspá* associent diversement édifice, paysage, artisanat, naissance du pouvoir, distribution du travail et imagination du cosmos. Ils n'enseignent pas tous que le temple serait une reproduction miniature de l'univers, ni que la fondation monumentale accomplirait nécessairement la même cosmogonie. L'étude restitue les écarts documentaires, compare les actions attribuées aux acteurs divins et humains, et interroge philosophiquement la mise en espace de l'autorité. La construction divine n'est pas une métaphore décorative : elle peut fixer qui commande, qui travaille, qui a le droit de recevoir un oracle, où un dieu est accessible et quelles formes d'ordre une communauté peut rendre visibles.
+
+**Continuité vérifiée avant dépôt.** La branche principale du dépôt *Bobcribb/Bobcribb.github.io* comporte les manuscrits MC-024 et MC-055 à MC-067. La dernière entrée indépendante de la série constatée dans *editorial/numbering.json* et dans *chapitres/comparatif/* est MC-067, « Quand les dieux se marient », numéro canonique CCXLVII (247). Une recherche ciblée des termes « MC-068 » et « mc-068 » ainsi que des demandes contemporaines de la file *editorial/inbox/* n'a découvert aucune livraison MC-068 au moment de cette soumission. Le présent objet, **la construction et la fondation**, est distinct de MC-064 (manger), MC-065 (combattre), MC-066 (écrire), MC-067 (se marier), MC-050 (processions) et MC-049 (images cultuelles). MC-068 est un **identifiant historique de série**, non la préattribution d'un volume canonique. Les identifiants protégés MC-025 demeurent intacts.
+
+**Conventions de preuve.** **[A]** : donnée attestée et référence primaire localisée ; **[T]** : problème de langue, genre, date, transmission ou traduction ; **[I]** : inférence historique discutable ; **[H]** : hypothèse comparative, jamais présentée comme un fait de transmission ; **[P]** : lecture philosophique moderne, non prêtée aux auteurs anciens. Le mot « construire » n'a pas un seul référent : bâtir matériellement, ordonner verbalement la construction, mesurer et délimiter un terrain, fonder politiquement une résidence, produire un dispositif rituel ou décrire poétiquement le cosmos.
+
+---
+
+# I. Question directrice et protocole de comparaison
+
+### 1. La différence décisive entre un artisan, un commanditaire et un destinataire
+
+[T] « Les dieux construisent » est une proposition équivoque. Dans l'*Enūma eliš*, les Anunnaki façonnent des briques et bâtissent pour Marduk (tablette VI, v. 47–68) ; dans le dossier de Gudéa, le dieu Ningirsu inspire un chantier dont les décisions et la mobilisation matérielle sont imputées au souverain ; dans l'*Hymne à Apollon*, le dieu détermine l'emplacement et pose des fondations, tandis que les mortels terminent une partie de l'ouvrage ; à Edfou, le pharaon intervient dans des scènes de fondation assisté par Séchat. Réunir ces cas sous une formule unique ne dispense donc pas d'identifier quatre fonctions : **concevoir, commander, exécuter, occuper**. Le dieu peut cumuler ces rôles ou n'en posséder qu'un seul. [I] Plus la division des rôles est explicitée, plus le récit rend compréhensible une organisation politique du travail.
+
+### 2. La « maison » n'est pas toujours un bâtiment
+
+[T] Le sumérien *e₂* et l'akkadien *bītu* désignent des « maisons », y compris celles qu'un lecteur moderne appelle temples ; l'ougaritique *bt* est également « maison » ; le grec *naós* désigne notamment la demeure ou partie interne d'un sanctuaire, tandis que *témenos* renvoie à l'espace délimité. Ces termes ne coïncident ni par leur structure sémantique ni par leurs institutions. [A] Le choix biblique d'un *miškān* (« demeure », « tabernacle » ; Ex 25) plutôt que d'un bâtiment de pierre répond à une logique textuelle propre. [H] Le point de comparaison n'est pas un équivalent lexical universel du « temple », mais un ensemble de dispositifs de présence et de séparation.
+
+### 3. Construire peut vouloir dire instaurer une frontière
+
+[A] Dans le récit delphique de l'*Hymne homérique à Apollon*, le dieu décide où se rendront ceux qui consultent son oracle (Hymne III, v. 247–299). [I] Le sanctuaire rend certaines voies d'accès privilégiées, redistribue les déplacements et distingue l'intérieur de l'extérieur. [P] Ce récit peut éclairer l'idée moderne que la puissance n'occupe pas simplement un territoire : elle le **produit** en fixant des itinéraires et des seuils. Il ne prouve pas qu'une assemblée de bâtisseurs grecs ait suivi littéralement ces prescriptions.
+
+### 4. Quatre types de documents, quatre questions
+
+[T] Une inscription royale peut exalter le mécénat d'un souverain et taire des coûts ; une composition mythologique fait agir les dieux sans être un cahier de chantier ; un relief de fondation décrit une séquence idéalisée et ne fournit pas automatiquement le journal d'exécution ; un plan archéologique renseigne sur la maçonnerie sans garantir l'interprétation théologique antique. La convergence de ces genres donne un dossier riche ; leur confusion donne une « preuve » artificielle. Une datation de composition doit être distinguée de celle d'une tablette, d'une réfection, d'un bâtiment et de son relevé moderne.
+
+### 5. Un test contre l'« architecture cosmique » universelle
+
+[H] Dire que « tout temple reproduit le cosmos » est trop large pour être vérifiable. Une preuve plus ferme demanderait un texte associant explicitement une partie architecturale à un espace cosmique ; une inscription comparable sur les lieux ; un dispositif matériel cohérent ; et une chronologie compatible. [A] L'*Enūma eliš* VI, 61–64 fait de l'Esagil et de la tour une construction divine dont le vocabulaire renvoie à l'Apsû. [T] Cela ne prouve pas que tous les temples grecs ou égyptiens conservent la même théorie. Ce qui est attesté dans une tradition ne saurait devenir un universel par simple rapprochement visuel.
+
+### 6. Les cinq questions posées à chaque tradition
+
+Pour chaque corpus, établir (1) le témoin le plus précis, (2) les acteurs de la construction, (3) l'objet architectural effectivement mentionné, (4) la relation entre ordre divin et travail humain, (5) la forme de légitimation produite. Une sixième question demeure négative : **qu'est-ce que la source ne permet pas d'affirmer ?** Les réponses négatives sont méthodologiquement indispensables face à des textes dont l'efficacité tient précisément à la grandeur imaginaire.
+
+---
+
+# II. Sumer : Ningirsu, Gudéa et la fabrication d'une demeure politique
+
+### 7. Girsu, le prince et les cylindres
+
+[A] Les cylindres A et B de Gudéa sont deux longs récits inscrits en sumérien relatifs à la construction de l'E-ninnu, sanctuaire de Ningirsu à Girsu, dans l'État de Lagash, à la fin du IIIe millénaire avant notre ère. Le corpus est édité dans le projet ETCSRI, « The building of Ningirsu's temple (Gudea, cylinders A and B) » (Q000377). Les cylindres sont des objets matériels dont les copies et la présentation muséale doivent être distinguées des traductions continues. La documentation d'ETCSRI articule texte translittéré, colonnes et lignes : [édition primaire](https://oracc.museum.upenn.edu/etcsri/Q000377/html). [T] Gudéa gouverne en qualité de *ensi* ; le traduire mécaniquement par « roi » est une approximation qui occulte sa titulature.
+
+### 8. Une décision vient du conseil divin
+
+[A] Le début du cylindre A, col. i, lignes 1–9, présente une décision divine touchant Lagash et Ningirsu ; le monde humain de la construction est ainsi précédé d'un choix parmi les puissances. Ce n'est pas la relation d'un ingénieur plaçant arbitrairement un édifice. [I] Le prologue a une fonction politique : le chantier est déclaré juste avant toute discussion de coûts, de captation de ressources et de corvées. [T] L'édition montre l'intensité des images fluviales appliquées au cœur d'Enlil ; leur valeur n'autorise pas à reconstituer un « discours réel » d'une séance divine. [P] Une décision préalable au chantier transforme l'inauguration en révélation rétroactive d'une légitimité.
+
+### 9. Le songe : information, énigme, médiation
+
+[A] Le cylindre A met en scène la vision de Gudéa, son interrogation et la médiation interprétative de Nanshe. Le souverain reçoit un ordre et doit en déchiffrer le sens. [T] Le récit ne peut être tenu pour la transcription quotidienne de l'expérience onirique d'un individu ; il s'agit d'un texte public inscrit et élaboré. [I] La nécessité d'une interprète sacrée rappelle que l'inspiration ne suffit pas : elle doit être traduite en action compréhensible, autorisée et justifiable. [P] Le pouvoir bâtisseur ne naît pas d'une illumination privée, mais de sa transformation institutionnelle en savoir partageable.
+
+### 10. Plans, mesure et iconographie de la rationalité
+
+[A] La statue dite Gudéa B, « Architecte au plan », Louvre AO 2, montre Gudéa assis, un plan architectural, un calame et une règle graduée sur une tablette posée sur ses genoux. La notice du Louvre décrit une sculpture en diorite, datée approximativement de 2120–2110 av. n. è., avec inscription votive sumérienne dédiée à Ningirsu : [Louvre, AO 2](https://collections.louvre.fr/ark:/53355/cl010119540). [T] La présence d'un plan ne signifie pas que le personnage soit un « architecte » au sens d'une profession contemporaine. L'objet est en même temps image politique, instrument de prière durable et inscription d'un nom dans la maison divine.
+
+### 11. La pierre, le métal, le bois : le sanctuaire comme géographie des prélèvements
+
+[A] Les récits et inscriptions de Gudéa évoquent la recherche de matériaux et des déplacements associés au chantier. La demeure divine concentre des ressources extérieures à Girsu ; le langage de l'abondance ordonne les régions du monde selon leur capacité à participer au projet. [I] La circulation des matériaux est aussi une représentation idéologique du rayonnement de Lagash. Les notices archéologiques ne doivent pas être remplacées par la seule liste de pays chantée par le souverain : provenance effective et géographie célébrée sont deux niveaux distincts.
+
+### 12. La brique du destin et le caractère rituel du travail
+
+[A] Dans le prologue du cylindre A, le motif de la « brique destinée » rattache la construction à la décision divine (col. i). [T] La formulation ne prouve pas que toute brique soit individuellement consacrée ni que les rites suivent une séquence universelle. [I] L'opération technique devient un geste susceptible d'être reconnu comme juste : fabriquer, transporter et mettre en place cessent de relever de la seule économie domestique. [P] Le chantier matérialise un pacte asymétrique : la divinité demande, l'institution princière coordonne, des groupes humains exécutent.
+
+### 13. Le temple comme montagne, soleil et oiseau
+
+[A] Au début du cylindre B (col. i), l'E-ninnu est évoqué par une série d'images cosmiques et animales : hauteur de montagne, éclat solaire, oiseau Anzû. [T] Il ne faut pas les transformer en plans architecturaux ; une métaphore poétique n'indique pas la hauteur en mètres d'un édifice. [H] Le sanctuaire peut être pensé comme un foyer où la présence de Ningirsu rend visibles des dimensions du monde plus vastes que la seule cité. Cette proposition est vérifiable dans les formes textuelles du cylindre, pas dans un prétendu « code secret » des proportions monumentales.
+
+### 14. Nourrir le chantier et nourrir les dieux
+
+[A] Le cylindre B associe rites, approvisionnement et rassemblement autour de l'E-ninnu. Un bâtiment destiné à recevoir une puissance demande des hommes qui déplacent des objets, organisent des offrandes et maintiennent des fonctions. [I] L'inscription présente une prospérité orchestrée par Gudéa ; elle ne donne pas une comptabilité complète des contributions ni la voix de tous les travailleurs. [H] On peut rapprocher la construction de la nourriture divine étudiée en MC-064, sans confondre le chantier qui ouvre une présence avec le système d'offrandes qui l'entretient.
+
+### 15. Une statue n'est pas l'édifice qu'elle montre
+
+[T] La statue AO 2, les cylindres, les vestiges de Girsu et les projets de reconstitution appartiennent à des régimes documentaires différents. Une ligne du plan représenté sur les genoux de Gudéa ne suffit pas à assurer l'identité d'une salle fouillée. La recherche récente sur Girsu a renouvelé certaines identifications ; toute restitution 3D doit déclarer les éléments restitués, leurs références et leur degré d'incertitude. [A] Sébastien Rey, *The Temple of Ningirsu: The Culture of the Sacred in Mesopotamia* (2024), constitue ici une référence archéologique essentielle, également citée par la notice du Louvre.
+
+### 16. Premier résultat
+
+Le cas sumérien ne donne pas l'image simple d'un dieu maçon. [A] Le dieu commande, la médiation interprète, le prince construit et se donne à voir comme celui qui a compris ; le bâtiment est consacré au dieu. [P] Cette configuration lie souveraineté et traduction : **le chef légitime est celui qui rend une demande invisible architecturable**. C'est une proposition philosophique de lecture, non une citation sumérienne.
+
+---
+
+# III. Babylone : l'Esagil, la victoire et le travail des dieux
+
+### 17. L'ordre après Tiamat
+
+[A] L'*Enūma eliš* décrit l'ascension de Marduk, l'affrontement avec Tiamat, l'organisation du cosmos et la fixation de compétences divines. La construction de Babylone vient après les opérations de création et d'ordonnancement ; la tablette VI doit être lue dans cette continuité, non isolée comme un manuel architectural. [T] La composition possède une histoire complexe et plusieurs témoins, transmis notamment dans les bibliothèques du Ier millénaire av. n. è. Une indication tardive de copie ne fixe pas à elle seule la date initiale du poème. Consulter W. G. Lambert, *Babylonian Creation Myths* (2013), édition critique fondamentale.
+
+### 18. Enūma eliš VI, 47–68 : qui construit ?
+
+[A] Après la redistribution des tâches, les Anunnaki demandent ce qu'ils peuvent offrir à Marduk ; le dieu ordonne de bâtir Babylone. La séquence VI, 47–68 met en scène la décision collective, le moulage des briques, le passage de deux années narratives et l'élévation de l'Esagil. Les vers 57–63 associent l'ordre de construire, les briques et une architecture désignée en relation avec l'Apsû. [T] Les numéros de vers doivent être confrontés aux éditions, particulièrement pour les lignes lacunaires et les traductions d'« habitat », « temple », « tour ». Une traduction lisible, non substituable à l'édition de Lambert, se trouve dans [World History Encyclopedia, tablette VI](https://www.worldhistory.org/article/225/enuma-elish---the-babylonian-epic-of-creation---fu/).
+
+### 19. Le pouvoir se manifeste par la capacité de faire travailler les puissances
+
+[I] Le récit ne justifie pas seulement la prédominance de Marduk par le combat. Après la victoire, il organise les autres dieux autour d'un chantier. Le vainqueur devient souverain parce qu'il peut fixer des tâches et accepter une demeure comme reconnaissance. [P] La construction fournit à l'autorité un second langage, plus durable que l'exploit guerrier : la puissance s'éprouve à l'organisation de ceux qui acceptent de travailler ensemble. [T] La scène n'est pas un procès-verbal de fondation de Babylone.
+
+### 20. Esagil et Etemenanki : deux objets à distinguer
+
+[A] Les traditions babyloniennes parlent de l'Esagil, complexe cultuel associé à Marduk, et de l'Etemenanki, grande tour à étages. [T] Le mot *ziqqurrat* renvoie à un type monumental ; il n'est pas prudent de traiter tout étage du récit comme un relevé du monument connu des fouilles. La « tablette de l'Esagil » fournit des informations métrologiques sur le complexe monumental, sans avoir le même statut littéraire que le poème. Le [ministère français de la Culture, « La tablette de l'Esagil »](https://archeologie.culture.gouv.fr/orient-cuneiforme/en/what-it-tells-us-0) expose cette distinction fondamentale. [I] La coexistence d'une topographie poétique et de mesures savantes interdit les reconstructions fondées sur une seule source.
+
+### 21. Maison des dieux, palais du roi, centre du monde
+
+[H] La centralité de Babylone dans le poème peut être comparée à la centralité politique du souverain : l'édifice rend sensible une hiérarchie panthéonique. Elle ne suffit pas à conclure que toute architecture mésopotamienne serait une mise en pierre identique de la même totalité. [T] Une dénomination de « maison » peut produire une analogie de résidence, mais les humains ne « possèdent » pas une chambre divine selon les mêmes conditions que leur propre maison.
+
+### 22. Le travail humain, question soulevée par le même poème
+
+[A] Au commencement de la tablette VI, v. 1–16, l'origine de l'humanité est reliée à la question du travail divin. Au sein de la même tablette, les dieux eux-mêmes fabriquent ensuite les briques du centre cultuel de Marduk. [T] Les deux séquences ne doivent pas être réduites à la formule « les humains remplacent partout les dieux ouvriers » ; le texte maintient des fonctions diverses. [H] Cette tension éclaire les problématiques de MC-031, « Origine de l'humanité : travail, argile, sang et service des dieux ». [P] Le récit fait de la division du travail un problème théologique plutôt qu'un simple décor mythique.
+
+### 23. Deuxième résultat
+
+Gudéa et l'*Enūma eliš* ne représentent pas des variantes interchangeables. Le premier organise la légitimité humaine d'un chantier commandé par Ningirsu ; le second fait construire par des dieux une capitale et un sanctuaire glorifiant Marduk. [P] Le passage du chantier du prince à celui de l'assemblée divine ouvre une typologie politique : délégation verticale, reconnaissance collégiale, appropriation par le souverain, installation rituelle.
+
+---
+
+# IV. Ougarit : la maison de Baal comme conquête d'un statut
+
+### 24. Le corpus : KTU 1.3–1.4 et ses lacunes
+
+[A] Les textes de Ras Shamra relatifs au palais de Baal appartiennent au *Cycle de Baal*, particulièrement KTU/CAT 1.3–1.4. L'édition déterminante est Mark S. Smith et Wayne T. Pitard, *The Ugaritic Baal Cycle*, vol. II (Brill, 2009), pour KTU 1.3–1.4. [T] Les tablettes alphabétiques ougaritiques sont fragmentaires : certains raccords narratifs restent discutés. L'ordre d'épisodes et la place des lacunes importent autant que les traductions des paroles de Baal, d'Anat, d'Athirat et de Kothar-wa-Hasis. Le texte ne doit pas être « complété » par une narration de vulgarisation silencieusement présentée comme intacte.
+
+### 25. Pourquoi une puissance victorieuse demande-t-elle un palais ?
+
+[A] Baal, puissance orageuse, cherche la reconnaissance d'une maison comparable à celles d'autres dieux ; la permission et les médiations impliquant El, Athirat et Anat structurent le conflit. [I] La possession d'une résidence permanente n'est pas seulement confort matériel : elle qualifie un rang. [P] La maison apparaît comme une **forme visible de reconnaissance**. Il serait cependant abusif de parler d'« État » ou de « monarchie constitutionnelle » au sens moderne pour décrire le conseil divin ougaritique ; la comparaison politique est heuristique, non institutionnellement identique.
+
+### 26. Kothar-wa-Hasis, la technique et l'intelligence
+
+[A] Kothar-wa-Hasis intervient comme artisan divin dans l'épisode du palais. [T] Son nom reçoit divers rendus selon les conventions de translittération ; les rapprochements avec Ptah, dieu égyptien des métiers, sont séduisants mais exigent des preuves de contact et de réception pour conclure à une identité divine. [H] Une tradition peut séparer la force climatique de Baal et la maîtrise technique de Kothar ; les fonctions créatrices ne sont pas toujours cumulées par un démiurge universel. [P] La souveraineté ne suffit pas pour construire : elle requiert des savoir-faire qu'elle ne produit pas automatiquement.
+
+### 27. La fenêtre et la fragilité de la maison
+
+[A] KTU 1.4 V évoque la discussion sur l'ouverture d'une fenêtre au palais ; notamment l'intervention de Kothar-wa-Hasis autour de KTU 1.4 V, 61 et lignes suivantes, selon la numérotation éditoriale. [T] L'ouverture a reçu des interprétations diverses : communication avec l'extérieur, orage, contrôle de la pluie, exposition au risque. Affirmer que « Mot entre certainement par la fenêtre » ou que celle-ci aurait été une canalisation construite dans un palais archéologiquement identifié outrepasserait la preuve. [P] La fenêtre condense la contradiction d'une souveraineté qui veut être visible et efficace mais demeure exposée.
+
+### 28. Une stèle du dieu n'est pas une illustration de son palais
+
+[A] La stèle du Baal au foudre, Louvre AO 15775 / RS 4.427, trouvée sur l'acropole de Ras Shamra, représente Baal armé et peut servir à identifier l'iconographie de la puissance orageuse : [notice officielle](https://collections.louvre.fr/ark:/53355/cl010140542). [T] La stèle n'est **pas** une image de Kothar bâtissant la maison. La légender « construction du palais de Baal » serait faux. Une illustration scientifique doit montrer l'objet réellement figuré, même si la proximité entre mythe et image enrichit un dossier.
+
+### 29. Troisième résultat : construire après conquérir
+
+[H] La dramaturgie de Baal et celle de Marduk rapprochent la victoire et l'accès à une résidence reconnue. Mais la chronologie des textes, le panthéon, la place de la technique et les discours de fondation diffèrent. Les éventuels contacts culturels entre Levant et Mésopotamie sont des questions historiques documentables ; une analogie de fonction n'établit pas à elle seule la direction d'un emprunt. [P] La maison transforme la victoire en durée.
+
+---
+
+# V. Égypte : Séchat, le cordeau et le chantier de la royauté
+
+### 30. Distinction entre cosmogonie et construction d'un sanctuaire
+
+[A] Les théologies égyptiennes font intervenir différentes puissances créatrices : Ptah dans les traditions memphites ; Rê-Atoum dans les traditions héliopolitaines ; Amon dans la théologie thébaine. [T] On ne peut déduire de ces théologies que les dieux auraient « personnellement édifié tous les temples ». Il faut documenter les scènes de fondation, les inscriptions de construction, les archives d'approvisionnement et les vestiges. [I] Les temples participent à une pratique de maintien de l'ordre divin et politique, mais la notion de « reproduction du cosmos » doit être rapportée à des formulations précises.
+
+### 31. Le « tendage du cordeau »
+
+[A] Un rite de fondation égyptien est conventionnellement désigné comme « tendre le cordeau », souvent transcrit *pḏ-šsr* (les conventions d'édition varient). Dans les représentations ptolémaïques, le roi et la déesse Séchat fixent des orientations au moyen d'un cordeau et de piquets. Corinna Rossi, *Architecture and Mathematics in Ancient Egypt* (Cambridge University Press, 2004), chap. 4 « Foundation rituals », présente la séquence et ses enjeux : [référence](https://www.cambridge.org/core/books/abs/architecture-and-mathematics-in-ancient-egypt/foundation-rituals/CFB3E64B51C6C7BDBA1518DBC474F495). [T] Une scène de fondation ne livre pas directement le procédé quotidien de l'ensemble des architectes.
+
+### 32. Une chaîne d'opérations et non une formule magique
+
+[A] Dans les versions développées d'époque ptolémaïque sont représentés orientation du chantier, creusement, façonnage de briques, dépôt de plaques, première pierre, purification et présentation du temple au dieu. [T] Il ne faut pas rétroprojeter cette séquence intégrale sur toutes les dynasties : les indices de rites analogues sont anciens, mais leur combinaison et leur mise en scène évoluent. [I] La figure du roi célébrant le rite lie la géométrie à la visibilité du pouvoir. L'instrument pratique devient aussi un attribut d'ordination du monde cultuel.
+
+### 33. Edfou : datation physique et mémoire religieuse
+
+[A] Selon le ministère égyptien du Tourisme et des Antiquités, la construction du temple d'Horus à Edfou débute sous Ptolémée III en 237 av. n. è. et s'achève sous Ptolémée XII en 57 av. n. è. : [Edfou, notice institutionnelle](https://egymonuments.gov.eg/monuments/temple-of-edfu/). Les inscriptions couvrent des éléments architecturaux et rituels d'une extraordinaire ampleur. [T] Une mise en scène de royauté pharaonique dans un temple des Lagides ne saurait être attribuée sans vérification à une date de l'Ancien Empire. Le [projet épigraphique de Göttingen consacré à Edfou](https://adw-goe.de/it/projekt/) signale notamment la profondeur chronologique des traditions incorporées et les risques des premières copies.
+
+### 34. Séchat : archivage, mesure, écriture
+
+[A] La déesse Séchat apparaît dans les représentations de fondation associées au roi. [T] Les titres modernes de « déesse architecte » ou « déesse des mathématiques » éclairent certaines fonctions, mais ne remplacent pas les épithètes et les scènes dans leur formulation hiéroglyphique. [H] Avec MC-066 sur l'écriture divine, on peut comparer l'inscription, la mesure et la conception d'un ordre : savoir où placer un bâtiment et pouvoir en perpétuer le nom sont deux modalités de stabilisation. [P] La mesure se fait publique sous forme de rite.
+
+### 35. Une architecture politique sous forme d'éternité
+
+[I] La représentation du pharaon bâtissant pour Horus présente une continuité : le roi présent poursuit un rôle idéal réputé plus ancien que lui. [T] L'iconographie peut ainsi énoncer la permanence de la monarchie alors que les monuments matériels changent d'époque et parfois de langue administrative. [P] C'est une forme spécifique de temporalisation : l'édifice nouveau devient signe de restauration, non annonce d'une rupture radicale.
+
+### 36. Quatrième résultat
+
+Le cas égyptien n'est ni la légende d'un dieu qui empile les blocs ni seulement un chantier royal. Le geste du roi avec Séchat établit une relation symbolique entre connaissance de la mesure, localisation du sanctuaire et continuité de l'ordre. Ce dossier contient des actes rituels attestés dans l'image et les textes ; il ne justifie aucune reconstruction 3D présentée comme relevé direct d'une « demeure céleste ».
+
+---
+
+# VI. Grèce : Apollon fondateur et dieux ouvriers
+
+### 37. Hymne homérique à Apollon : premier emplacement, première contradiction
+
+[A] L'*Hymne homérique à Apollon* III, v. 247–299, présente la recherche d'un emplacement pour un sanctuaire oraculaire. Apollon envisage Telphousa, puis le récit détourne le projet vers le secteur de Crisa, sous le Parnasse. [T] La déesse locale Telphousa possède ici une parole et des intérêts propres ; la topographie mythique exprime une concurrence de lieux, sans qu'on puisse l'utiliser comme compte rendu certain de la première fondation matérielle de Delphes. L'hymne porte les traces d'une composition et d'une transmission complexes.
+
+### 38. Apollon pose les fondations, les hommes bâtissent
+
+[A] Aux v. 285–299, après avoir annoncé son projet d'oracle, Apollon dispose les fondations ; Trophonios et Agamédès posent un seuil de pierre et de nombreux hommes participent à l'ouvrage. Une présentation du passage avec texte grec est accessible ici : [Hymne III, 279–345](https://reader.humanitext.ai/en/text/urn:cts:greekLit:tlg0013.tlg003.humanitext-grc2:279-345). [T] La traduction « construire le temple » peut gommer la distribution précise entre dieu fondateur, artisans qualifiés et main-d'œuvre humaine. [P] La théologie de la fondation ne supprime pas la technicité humaine : elle l'encadre.
+
+### 39. *Naós*, seuil, oracle
+
+[T] Le grec *naós* ne correspond pas à un bâtiment intérieur identique au *miškān* biblique. L'*Hymne* localise un espace de consultation et d'offrandes, donc une scène où une communauté organise une demande adressée à un dieu. [I] Le sanctuaire est aussi un mécanisme de déplacement d'information : les consultants viennent avec des questions et repartent avec des réponses, dites infaillibles par la voix du poème. [P] Le seuil n'est pas un détail accessoire : il rend visible la distinction entre l'accès ordinaire et la présence de l'autorité oraculaire.
+
+### 40. Homère : les murs de Troie et le salaire refusé
+
+[A] L'*Iliade* XXI, v. 441–457, conserve une querelle entre Poséidon et Apollon à propos du service imposé par Laomédon : Poséidon rappelle la construction des murs de Troie et Apollon la garde des troupeaux, ainsi que l'absence de salaire juste. [T] D'autres passages poétiques associent différemment leurs responsabilités ; il faut citer le chant retenu avant de résumer. [I] La construction est ici intégrée à un récit de contrat et d'injustice, non à un récit de cosmogonie. [P] Même une puissance divine peut être pensée comme travailleur lésé par un souverain humain : l'architecture devient critique de l'arbitraire.
+
+### 41. Un dieu fondateur et un dieu salarié : contradiction féconde
+
+[H] Entre le temple d'Apollon et les murailles de Troie, la mythologie grecque ne stabilise pas une doctrine générale de l'artisanat divin. Dans un poème, le dieu choisit la place où la parole sacrée doit être entendue ; dans un autre, un dieu est employé à bâtir et ne reçoit pas sa rémunération. [P] Cette dissymétrie empêche de déduire des dieux un modèle univoque de travail : les récits interrogent autant la légitimité d'une fondation que la vulnérabilité contractuelle de ceux qui construisent.
+
+### 42. Cinquième résultat
+
+Dans le corpus grec, l'architecture est tour à tour fondation d'oracle, peine de travail, objet de réputation et frontière sacrée. Elle ne possède pas nécessairement le centre cosmique d'une ziggurat ni la logique d'un palais de Baal. Le motif comparable est la mise en demeure du divin ; ses **fonctions narratives sont différentes**.
+
+---
+
+# VII. Traditions bibliques, védiques et nordiques : contre-épreuves indispensables
+
+### 43. Exode 25 : un modèle montré, non un dieu maçon
+
+[A] En Exode 25, 8–9 et 25, 40, le sanctuaire doit être construit selon un modèle montré à Moïse. Le texte hébreu emploie notamment *miškān* (« demeure ») et *tabnît* (« forme, modèle, configuration ») dans le dossier du tabernacle. [T] La traduction « plan architectural descendu du ciel » risque d'imposer une conception moderne de dessin technique ; *tabnît* doit être étudié dans son contexte. [I] Le texte articule ordre divin, précision de la fabrication et exécution humaine. Le commentaire du corpus peut être utilement confronté à la longue réflexion sur la présence divine, particulièrement Ex 40, 34–38.
+
+### 44. 1 Rois 6 : la politique d'un sanctuaire permanent
+
+[A] Le récit de construction du temple de Salomon en 1 Rois 6 présente le chantier, ses dimensions et ses parties. [T] Les cadres de datation de la rédaction biblique et les controverses archéologiques interdisent de traiter ce chapitre comme un relevé incontesté d'un bâtiment du Xe siècle av. n. è. [I] Le texte représente une centralisation cultuelle et dynastique dont la signification se transforme selon les contextes de rédaction et de réception. [P] La maison de la divinité peut être un instrument d'unification et simultanément la source d'une tension : comment assigner une demeure à celui qui ne se laisse pas enfermer ? Voir aussi 1 Rois 8, 27 sur la non-contenance de Dieu par les cieux et le temple.
+
+### 45. Proverbes 8 : une poétique de la compétence à créer
+
+[A] Proverbes 8, 22–31 fait parler la Sagesse en présence de l'œuvre créatrice de Dieu. [T] Le terme hébreu *ʾāmôn* au v. 30 a donné lieu à des lectures divergentes, notamment « maître artisan », « enfant » ou « être aimé/élevé auprès de » selon l'analyse linguistique. Une seule traduction ne doit pas être utilisée comme preuve décisive d'un « architecte » cosmique. [H] Le passage permet de réfléchir à l'articulation du savoir et de la création sans garantir l'identité avec Kothar, Ptah ou Viśvakarman.
+
+### 46. Viśvakarman : le monde façonné, non un temple de pierres
+
+[A] Le *Ṛgveda* X, 81 et X, 82 invoque Viśvakarman, « celui dont l'action concerne le tout », souvent rendu par « artisan de tout » ou « créateur universel ». [T] Les discussions sur le support et la localisation de l'acte créateur dans X, 81 relèvent d'une poésie cosmogonique, et non d'une description de sanctuaire du second millénaire. [A] X, 82, 3 présente le nommeur et l'ordonnateur des êtres, X, 82, 5–6 la question de l'origine dans les eaux. [I] Le champ métaphorique de l'artisanat ne suffit pas à affirmer que les temples hindous ultérieurs procédaient, dès l'époque de composition de l'hymne, d'une technique monumentale continue. Édition-traduction de référence : Stephanie W. Jamison et Joel P. Brereton, *The Rigveda* (2014).
+
+### 47. Les *Śulbasūtra* : géométrie rituelle, autre époque et autre échelle
+
+[A] Les *Śulbasūtra* liés aux écoles rituelles védiques décrivent notamment la disposition et les formes d'autels de feu, en utilisant cordes et constructions géométriques. [T] Leur chronologie, leur genre de littérature prescrivant des opérations et la diversité des traditions font obstacle à un rapprochement direct avec le rite pharaonique du cordeau. La ressemblance d'un instrument n'est pas une filiation prouvée. [H] Il s'agit d'un contrôle comparatif : l'architecture cultuelle peut être produite par une technique humaine hautement réglée sans que le récit attribue à une divinité le geste matériel de chaque mesure.
+
+### 48. *Völuspá* 7 : les dieux bâtissent et forgent
+
+[A] La *Völuspá*, strophe 7, évoque les Æsir se réunissant sur Iðavöllr, dressant lieux sacrés et édifices, établissant des forges et fabriquant des outils. Une formule transmise est *hörg ok hof hátimbruðu* ; *hörgr* et *hof* possèdent des histoires sémantiques complexes, qu'il serait téméraire de traduire systématiquement par « autel » et « temple » au sens d'édifices gréco-romains. [T] Les manuscrits médiévaux et leur contexte chrétien de copie exigent une grande prudence quant aux usages préchrétiens. [P] Le récit rapproche institution de l'espace sacré et production technique d'objets.
+
+### 49. Le maître bâtisseur d'Ásgarðr : une contre-image de la souveraineté
+
+[A] Dans la *Gylfaginning* de Snorri Sturluson, chap. 42, un bâtisseur offre de construire l'enceinte des dieux contre une récompense exorbitante ; l'épisode mobilise son cheval Svaðilfari et la ruse de Loki. [T] Source islandaise du XIIIe siècle, le récit ne peut être projeté directement sur une pratique religieuse du premier âge du Fer. [P] C'est l'envers du palais de Baal : les dieux veulent être protégés mais doivent dépendre d'une compétence étrangère, exposant leur ordre à la négociation et à la tromperie. La dépendance technique fissure l'image de leur autarcie.
+
+### 50. Sixième résultat : les fausses équivalences à écarter
+
+Le tabernacle mosaïque n'est pas un temple d'Edfou ; la création védique n'est pas un chantier de pierre ; le palais de Baal n'est pas une enceinte nordique ; le mot « artisan » n'identifie pas un dieu commun à toutes ces traditions. [H] Les ressemblances documentables se jouent à un niveau plus précis : délimitation, ordre, hiérarchie, compétence, travail, inauguration et capacité à loger une présence. C'est cette matrice, et non un archétype universel, qu'il faut éprouver.
+
+---
+
+# VIII. Tableau analytique et problèmes de causalité
+
+### 51. Matrice de comparaison
+
+| Corpus | Source primaire | Qui décide ? | Qui bâtit ou mesure ? | Effet représenté | Limite probatoire |
+|---|---|---|---|---|---|
+| Girsu, Gudéa | Cylindres A–B, ETCSRI Q000377 | Conseil divin et Ningirsu | Gudéa, main-d'œuvre humaine | Sanctuaire et prestige princier | Inscription de légitimation, non comptabilité exhaustive |
+| Babylone | *Enūma eliš* VI, 47–68 | Marduk et assemblée | Anunnaki | Esagil, reconnaissance souveraine | Récit mythique, non plan de fouille |
+| Ougarit | KTU 1.3–1.4 | Baal, El, médiatrices | Kothar-wa-Hasis | Palais, dignité et puissance orageuse | Tablettes lacunaires |
+| Égypte | Scènes ptolémaïques de fondation, Edfou | Royauté rituelle et divinité tutélaire | Pharaon assisté de Séchat | Alignement, purification, donation | Programme iconographique, non procès-verbal |
+| Grèce | *Hymne homérique à Apollon* 247–299 | Apollon | Dieu, Trophonios, Agamédès, humains | Accès oraculaire | Poésie de fondation |
+| Troie | *Iliade* XXI, 441–457 | Laomédon impose un service | Poséidon ; Apollon garde les troupeaux | Murailles et conflit salarial | Mythe épique, non annales |
+| Israël ancien | Ex 25, 8–9 ; 25, 40 | YHWH transmet un modèle | Exécutants humains | Demeure cultuelle mobile | Narration normative |
+| Inde védique | *Ṛgveda* X, 81–82 | Viśvakarman, figure créatrice | Création cosmique poétique | Organisation de l'univers | Ni temple de pierre ni manuel d'architecture |
+| Scandinavie | *Völuspá* 7 ; *Gylfaginning* 42 | Æsir | Dieux ou maître bâtisseur | Sièges sacrés, enceinte défensive | Témoins écrits médiévaux |
+
+### 52. Une chaîne causale ne se déduit pas d'une ressemblance
+
+[H] Pour soutenir qu'un motif a voyagé entre deux cultures, il faut davantage que deux palais divins. Déterminer l'antériorité relative des témoins, les lieux de contact, les canaux de transmission, les motifs plus rares partagés et les transformations documentables ; puis considérer l'hypothèse nulle de créations indépendantes. La proximité géographique d'Ougarit et de la Mésopotamie rend les circulations plausibles mais ne fournit pas automatiquement leur démonstration. [T] La présence de textes copiés plus tardivement ne signifie pas que le motif ne circulait pas auparavant.
+
+### 53. Des oppositions plutôt que des essences
+
+[H] On peut ordonner les documents selon des axes : « commanditaire humain/divin », « maison mobile/permanente », « construction visible/organisation du cosmos », « rite documenté/poème », « travail imposé/présent offert », « protection/ouverture », « légitimité contestée/confirmée ». Ces axes sont des outils descriptifs. Aucun ne sépare proprement « Orient » et « Occident », et aucune civilisation n'incarne un pôle fixe de la grille. La comparaison scientifique multiplie les variables, au lieu de distribuer des essences civilisationnelles.
+
+### 54. Le travail absent des célébrations
+
+[I] Les inscriptions et les poèmes célèbrent rarement avec précision la fatigue, les accidents, les conflits d'approvisionnement et les résistances des travailleurs humains. Les chantiers antiques nécessitent cependant de la main-d'œuvre, de la matière et des dispositifs logistiques ; il est raisonnable de les rechercher dans les archives administratives, l'archéologie et la technologie plutôt que dans l'éloge royal seul. [P] Toute « gloire » architecturale est à interroger depuis le travail qu'elle rend invisible. Cela ne signifie pas que chaque chantier ait eu le même régime de contrainte : il faut l'établir localement.
+
+### 55. Le palais, la forteresse et l'oracle n'ont pas le même public
+
+[I] L'Esagil de Marduk construit une centralité célébrée ; le palais de Baal signifie un rang auprès d'autres puissances ; la muraille d'Ásgarðr vise la défense ; la demeure du dieu en Exode accompagne la communauté dans la mobilité ; le sanctuaire de Delphes met en scène la consultation. [P] Une typologie du **public** aide plus que le seul matériau : qui est autorisé à approcher, offrir, demander, servir, regarder, lire ou participer ?
+
+### 56. Le chantier et le temps
+
+[A] Les récits de fondation peuvent dater une origine, une restauration ou une consécration ; les bâtiments réels connaissent extensions, destructions, remploi et changements de fonction. [T] Les dates de construction d'Edfou ou les campagnes de Gudéa doivent demeurer distinctes des temps mythiques qu'ils invoquent. [P] Le monument promet une durée supérieure à celle des humains, mais ses ruines témoignent du caractère historique de cette promesse. On ne doit pas confondre idéal d'éternité et permanence matérielle.
+
+### 57. Établir une correspondance sans fabriquer une généalogie
+
+L'analogie précise est la suivante : plusieurs traditions attribuent la conception d'un espace cultuel ou politique à une puissance supérieure et associent la construction à une opération d'ordre. Mais l'affirmation plus forte « ces religions possèdent un même mythe originel du dieu bâtisseur » reste **non démontrée**. Les données primaires rassemblées ne suffisent pas à établir un arbre de filiation commun. [H] Une famille de problèmes partagés ne constitue pas une famille historique unique de textes.
+
+---
+
+# IX. Historiographie critique : du symbole total au document localisé
+
+### 58. Le grand récit des archétypes
+
+[H] Dans certaines synthèses classiques d'histoire comparée des religions, le temple reproduit le cosmos et sa fondation répète la cosmogonie. Mircea Eliade a contribué à rendre célèbre cette formulation, notamment dans *Le Mythe de l'éternel retour*. [T] Un schéma interprétatif peut être fécond sans être un fait établi pour chaque lieu : les bâtiments ont des fonctions économiques, cultuelles, militaires et mémorielles diverses. [P] Le gain d'une lecture symbolique est l'intelligence de certains motifs ; son risque est d'effacer des différences de genre et d'institutions.
+
+### 59. Réinscrire le sanctuaire dans la ville
+
+[I] Les approches historiques de l'urbanisation mésopotamienne replacent les temples dans les relations entre institutions, ressources et espaces urbains. Andrew R. George, *House Most High* (1993), offre une étude des temples et de leurs dénominations ; Marc Van De Mieroop, *The Ancient Mesopotamian City* (1997), fournit des outils pour la ville comme monde social. [T] Il faut néanmoins distinguer documents administratifs, inscriptions royales et mythes ; on ne peut convertir directement les comparaisons de noms divins en bilans quantitatifs d'économie.
+
+### 60. L'archéologie corrige la tentation de l'image
+
+[A] L'étude de Sébastien Rey sur le temple de Ningirsu (2024) rappelle l'importance de l'enquête archéologique documentée sur Girsu. [T] Un film photoréaliste peut être utile comme médiation, mais seulement si ses sources et degrés de restitution sont visibles. Le plan votif AO 2 ne justifie ni une vue aérienne certaine de l'E-ninnu ni une cour inventée comme fait. [I] Le document doit résister à l'attractivité visuelle de l'image finale.
+
+### 61. La philologie comme antidote aux identités faciles
+
+[T] *E₂*, *bītu*, *bt*, *naós*, *miškān* et *hof* ne sont pas « le même mot pour temple ». Les chaînes de traductions vers des langues modernes cachent fréquemment une pluralité de lieux et d'actes. De même, « artisan cosmique » peut traduire des catégories indigènes distinctes. [I] Une recherche sérieuse cite d'abord les textes et leurs difficultés avant de proposer des rapprochements religieux, philosophiques ou anthropologiques.
+
+---
+
+# X. Essai philosophique : bâtir l'espace d'une puissance
+
+### 62. De la pierre au monde : la proposition de Heidegger
+
+[P] Dans « L'origine de l'œuvre d'art », Heidegger développe l'exemple du temple grec qui ouvre un monde et fait apparaître le paysage environnant sous de nouvelles relations. L'argument est philosophique, non une exégèse des v. 285–299 de l'*Hymne à Apollon*. Il peut aider à formuler ce que signifie « instituer un lieu » : un ouvrage n'est pas seulement un objet localisable, mais une configuration d'actions, de croyances et d'orientations. [T] L'exemple heideggérien ne prouve pas que la culture de Delphes se serait elle-même exprimée dans ce vocabulaire.
+
+### 63. Henri Lefebvre : le sanctuaire produit aussi des rapports sociaux
+
+[P] La *Production de l'espace* de Lefebvre (1974) offre un contrepoint à toute célébration désincarnée du monument : l'espace est pratiqué, représenté, vécu et conflictuel. Les cylindres de Gudéa permettent d'éprouver cette idée : le sanctuaire rassemble matériaux, images royales, personnel, cérémonies et routes. [T] Appliquer les catégories du XXe siècle n'autorise pas à attribuer les analyses marxiennes ou lefebvriennes aux scribes sumériens. C'est le travail de l'interprète, annoncé comme tel.
+
+### 64. Hegel : architecture symbolique et présence indéterminée
+
+[P] L'esthétique de Hegel accorde une place historique à l'architecture et à sa relation avec les formes du sacré, notamment dans les *Leçons sur l'esthétique*. Les constructions qui donnent un environnement à la présence divine posent un problème d'expression : une pierre peut signaler, contenir symboliquement ou annoncer une puissance sans être identique à elle. [T] La philosophie hégélienne ne constitue pas un classement empirique des temples mésopotamiens, pas plus qu'une typologie satisfaisante de toutes les religions non européennes. La confrontation doit intégrer les biais de son histoire philosophique.
+
+### 65. Foucault : qui décide de l'accès ?
+
+[P] L'attention foucaldienne aux dispositifs et à la distribution du visible aide à poser une question précise : qui contrôle les portes, les passages, la circulation des offrandes et la prise de parole ? Dans le poème d'Apollon, la décision de situer l'oracle est aussi une décision sur le trajet des consultants. [T] Une telle grille ne prouve rien, à elle seule, quant à une police antique déterminée ; les pratiques d'accès doivent être étudiées dans chaque sanctuaire.
+
+### 66. Arendt : faire, fabriquer, fonder
+
+[P] Hannah Arendt, dans *Condition de l'homme moderne*, distingue activité, fabrication et action. La construction d'une demeure peut viser la durabilité ; la fondation d'une communauté relève d'autres relations ; la célébration religieuse entretient la durée de l'objet. [I] Les textes antiques étudiés réunissent parfois les trois niveaux sans les distinguer. [P] La grille d'Arendt révèle une tension : le monument semble stabiliser la souveraineté, mais cette stabilisation dépend d'une communauté qui continue d'y reconnaître un sens.
+
+### 67. Une éthique de la reconstruction
+
+[P] Chaque projet contemporain de restitution ancienne réitère partiellement le problème de l'autorité bâtisseuse : qui choisit la forme à montrer, à partir de quels témoins, et que voit un public à la place des lacunes ? La représentation numérique du palais de Baal, par exemple, doit rester une **hypothèse scénographique** si aucun plan archéologique ne permet d'en fixer la forme. [I] La transparence est ici une obligation scientifique, pas un simple sous-titre. Afficher « restitution interprétative », donner les alternatives et les sources empêche d'ériger une intuition visuelle en preuve.
+
+### 68. Proposition philosophique finale
+
+[P] Construire une demeure pour les dieux, c'est moins « rapprocher ciel et terre » en général que négocier une triple contradiction : la puissance invisible réclame une adresse visible ; le pouvoir politique demande du travail à des corps vulnérables ; un édifice promis à l'éternité reste soumis au temps. [H] Cette triple tension peut faire communiquer les corpus sans les dissoudre : elle ne remplace ni l'édition du sumérien ni les données de fouilles, mais elle en propose une lecture transversale justifiée par des comparaisons explicites.
+
+---
+
+# XI. Dossier des sources primaires : notices contrôlables
+
+**SP-01 — Gudéa, cylindres A et B.** [A] Origine : Girsu/Tello ; langue : sumérien ; contexte : fin du IIIe millénaire av. n. è. ; œuvre : construction de l'E-ninnu pour Ningirsu ; passages : A, col. i, lignes 1–9 ; récits du songe et de son interprétation dans A ; B, col. i, images cosmiques du temple. Édition : [ETCSRI Q000377](https://oracc.museum.upenn.edu/etcsri/Q000377/html). Attention : ne pas citer la colonne sans indication d'A ou de B ; traiter séparément les différentes strates éditoriales.
+
+**SP-02 — Gudéa, statue B « Architecte au plan ».** [A] Louvre AO 2, vers 2120–2110 av. n. è. ; diorite ; plan, calame, règle graduée ; inscription votive à Ningirsu. [Notice du Louvre](https://collections.louvre.fr/ark:/53355/cl010119540). Cette image documente la conception idéalisée du souverain en commanditaire, pas la restitution complète de l'E-ninnu.
+
+**SP-03 — *Enūma eliš*.** [A] Tablette VI, vers 1–16, 47–68 : organisation du travail, création humaine, décision de construire Babylone et Esagil par les Anunnaki. Edition majeure : W. G. Lambert, *Babylonian Creation Myths*, 2013. [Texte de lecture](https://www.worldhistory.org/article/225/enuma-elish---the-babylonian-epic-of-creation---fu/). Les traductions et le détail de la segmentation peuvent varier.
+
+**SP-04 — Tablette de l'Esagil.** [A] Texte métrologique relatif aux dimensions du complexe babylonien, distinct du poème. [Ministère français de la Culture, « The Esagil tablet »](https://archeologie.culture.gouv.fr/orient-cuneiforme/en/what-it-tells-us-0). Le relevé métrologique ne permet pas à lui seul de dessiner les façades.
+
+**SP-05 — Cycle ougaritique de Baal.** [A] KTU/CAT 1.3–1.4, particulièrement 1.4 V (épisode du palais et débat sur la fenêtre). Édition : Mark S. Smith et Wayne T. Pitard, *The Ugaritic Baal Cycle*, vol. II, Brill, 2009. Témoin lacunaire ; distinguer ligne effectivement préservée et restitution éditoriale.
+
+**SP-06 — Stèle du Baal au foudre.** [A] Louvre AO 15775 / RS 4.427, Ras Shamra ; calcaire ; Baal brandissant ses attributs, non une scène de construction. [Louvre](https://collections.louvre.fr/ark:/53355/cl010140542).
+
+**SP-07 — Edfou, programme de fondation du temple d'Horus.** [A] Reliefs et inscriptions ptolémaïques ; construction monumentale commencée en 237 et achevée en 57 av. n. è. [Ministère égyptien](https://egymonuments.gov.eg/monuments/temple-of-edfu/), [projet épigraphique d'Edfou](https://adw-goe.de/it/projekt/). Le numéro de paroi et la planche d'édition sont obligatoires avant la publication d'une transcription hiéroglyphique précise.
+
+**SP-08 — « Tendre le cordeau » et Séchat.** [A/T] Scènes de fondation égyptiennes et tradition de *pḏ-šsr*, formes rituelles dont les versions sont diachroniques. Étude et discussion des phases : Corinna Rossi, *Architecture and Mathematics in Ancient Egypt* (2004), chap. 4. [Notice Cambridge](https://www.cambridge.org/core/books/abs/architecture-and-mathematics-in-ancient-egypt/foundation-rituals/CFB3E64B51C6C7BDBA1518DBC474F495).
+
+**SP-09 — *Hymne homérique à Apollon* III.** [A] V. 247–299, choix de Telphousa puis Crisa, fondations et seuil ; texte bilingue de travail : [III, 279–345](https://reader.humanitext.ai/en/text/urn:cts:greekLit:tlg0013.tlg003.humanitext-grc2:279-345). Contrôler les mots grecs sur une édition critique avant de les citer.
+
+**SP-10 — *Iliade*.** [A] XXI, 441–457, querelle de Poséidon et Apollon sur le service rendu à Laomédon ; comparer VII, 451–453, sans harmonisation artificielle des récits. Éditions grecques usuelles : Oxford Classical Texts, éd. M. L. West, 1998–2000, 2 vol.
+
+**SP-11 — Exode.** [A] 25, 8–9 ; 25, 40 : sanctuaire et *tabnît* ; 40, 34–38 : la présence et la demeure. Prendre en compte le statut littéraire des prescriptions et la stratification historique des textes.
+
+**SP-12 — 1 Rois.** [A] 6 : chantier du temple ; 8, 27 : objection à la contenance de Dieu par la maison construite. Ne pas déduire de ces vers la validation archéologique exhaustive du sanctuaire salomonien.
+
+**SP-13 — Proverbes.** [A/T] 8, 22–31 : Sagesse auprès du créateur ; problème philologique de *ʾāmôn* au v. 30 ; aucune interprétation unique du mot ne doit être présentée comme incontestable.
+
+**SP-14 — *Ṛgveda*.** [A] X, 81–82, Viśvakarman et création cosmique ; repères X, 82, 3 et 5–6. Édition : Jamison et Brereton, OUP, 2014. Ne pas dater par assimilation directe à l'architecture des temples hindous médiévaux.
+
+**SP-15 — *Śulbasūtra*.** [A/T] Baudhāyana et Āpastamba, littérature ritualiste sur les constructions d'autels ; éditions et traductions à confronter selon l'école. Il s'agit de prescriptions géométriques humaines et non d'une construction des dieux rapportée dans les mêmes termes que l'E-ninnu.
+
+**SP-16 — *Völuspá*.** [A] Strophe 7, *hörg ok hof hátimbruðu*, bâtiments et outils chez les Æsir ; manuscrits de tradition médiévale, variations éditoriales à vérifier. Éd. Carolyne Larrington, *The Poetic Edda*, traduction révisée, Oxford, 2014 ; éd. Ursula Dronke, *The Poetic Edda*, vol. II, Clarendon, 1997.
+
+**SP-17 — Snorri, *Gylfaginning*.** [A] Chap. 42 : contrat du bâtisseur de l'enceinte d'Ásgarðr ; cheval Svaðilfari ; intervention de Loki. Éd. Anthony Faulkes, *Edda: Prologue and Gylfaginning*, Viking Society, 1982. Le témoin écrit et le contexte chrétien de la mise par écrit sont indissociables de la lecture.
+
+---
+
+# XII. Bibliographie universitaire commentée
+
+### Éditions, traductions, recueils
+
+1. Edzard, Dietz Otto, *Gudea and His Dynasty*, The Royal Inscriptions of Mesopotamia, Early Periods 3/1, University of Toronto Press, 1997. Référence fondamentale pour la titulature et les inscriptions royales de Lagash.
+2. Zólyomi, Gábor, et collaborateurs, *Electronic Text Corpus of Sumerian Royal Inscriptions* (ETCSRI), texte Q000377 : [édition numérique](https://oracc.museum.upenn.edu/etcsri/Q000377/html). Pour les lignes et colonnes d'A et de B.
+3. Black, Jeremy, Graham Cunningham, Eleanor Robson et Gábor Zólyomi, *The Literature of Ancient Sumer*, Oxford University Press, 2004. Contexte littéraire sumérien.
+4. Lambert, Wilfred G., *Babylonian Creation Myths*, Eisenbrauns, 2013. Textes et commentaires de l'*Enūma eliš*.
+5. Smith, Mark S., *The Ugaritic Baal Cycle*, vol. I, Brill, 1994. Cadre général du corpus.
+6. Smith, Mark S., et Wayne T. Pitard, *The Ugaritic Baal Cycle*, vol. II, Brill, 2009. Édition philologique indispensable pour KTU 1.3–1.4.
+7. West, Martin L., *Homeric Hymns, Homeric Apocrypha, Lives of Homer*, Loeb Classical Library, Harvard University Press, 2003. Texte, traduction et notices des hymnes.
+8. West, Martin L., éd., *Homeri Ilias*, 2 vol., Teubner, 1998–2000. Édition grecque de l'*Iliade*.
+9. Jamison, Stephanie W., et Joel P. Brereton, *The Rigveda: The Earliest Religious Poetry of India*, 3 vol., Oxford University Press, 2014. Traduction philologique de X, 81–82.
+10. Dronke, Ursula, *The Poetic Edda*, vol. II: *Mythological Poems*, Clarendon Press, 1997. Pour la transmission de la *Völuspá*.
+11. Larrington, Carolyne, trad., *The Poetic Edda*, éd. révisée, Oxford University Press, 2014. Traduction de comparaison.
+12. Faulkes, Anthony, éd., *Edda: Prologue and Gylfaginning*, Viking Society for Northern Research, 1982. Pour le maître bâtisseur d'Ásgarðr.
+
+### Histoire, archéologie et religions comparées
+
+13. Rey, Sébastien, *The Temple of Ningirsu: The Culture of the Sacred in Mesopotamia*, Eisenbrauns / British Museum, 2024. Reconstruction archéologique et critique des sources de Girsu.
+14. Bahrani, Zainab, *Mesopotamia: Ancient Art and Architecture*, Thames & Hudson, 2017. Objets et architecture dans leurs contextes.
+15. Bahrani, Zainab, *The Graven Image: Representation in Babylonia and Assyria*, University of Pennsylvania Press, 2003. Images et représentation, éviter leur lecture comme « photographies » de mythes.
+16. George, Andrew R., *House Most High: The Temples of Ancient Mesopotamia*, Eisenbrauns, 1993. Noms et géographie des temples.
+17. Van De Mieroop, Marc, *The Ancient Mesopotamian City*, Clarendon Press, 1997. Relations entre ville, institutions et espace.
+18. Frankfort, Henri, *Kingship and the Gods*, University of Chicago Press, 1948. Ouvrage classique à lire avec recul historiographique.
+19. Rossi, Corinna, *Architecture and Mathematics in Ancient Egypt*, Cambridge University Press, 2004. Architecture, mesures et rites de fondation.
+20. Kurth, Dieter, *The Temple of Edfu: A Guide by an Ancient Egyptian Priest*, American University in Cairo Press, 2004. Égyptologie des programmes cultuels d'Edfou.
+21. Assmann, Jan, *The Search for God in Ancient Egypt*, Cornell University Press, 2001. Langages égyptiens de la présence divine.
+22. Quirke, Stephen, *The Cult of Ra: Sun-Worship in Ancient Egypt*, Thames & Hudson, 2001. Complément aux théologies solaires, sans assimilation automatique au temple d'Horus.
+23. Meyers, Carol, *Exodus*, Cambridge University Press, 2005. Lecture historico-critique de l'Exode.
+24. Hurowitz, Victor (Avigdor), *I Have Built You an Exalted House: Temple Building in the Bible in Light of Mesopotamian and Northwest Semitic Writings*, Sheffield Academic Press, 1992. Étude capitale pour la comparaison des récits de construction.
+25. Lundquist, John M., « What Is a Temple? A Preliminary Typology », dans Donald W. Parry, dir., *Temples of the Ancient World*, Deseret Book, 1994. Typologie à utiliser de manière critique, sans universalisation.
+26. Eliade, Mircea, *Le Mythe de l'éternel retour : archétypes et répétition*, Gallimard, 1949. Modèle comparatif puissant mais discuté.
+27. Jonathan Z. Smith, *To Take Place: Toward Theory in Ritual*, University of Chicago Press, 1987. Retour du rituel à des lieux et des pratiques déterminés.
+28. Bell, Catherine, *Ritual Theory, Ritual Practice*, Oxford University Press, 1992. Pour les modes d'action rituelle, non comme remplacement des textes.
+29. Dilley, Paul, *Monasteries and the Care of Souls in Late Antique Christianity*, Cambridge University Press, 2017. Comparaison possible des usages institutionnels de l'espace à une époque distincte, non preuve d'origine commune.
+
+### Philosophie et histoire des interprétations
+
+30. Hegel, G. W. F., *Leçons sur l'esthétique*, partie consacrée à l'architecture. Outil de réflexion sur les formes architecturales du sacré ; histoire spéculative à ne pas confondre avec la documentation positive.
+31. Heidegger, Martin, « L'origine de l'œuvre d'art », dans *Chemins qui ne mènent nulle part* / *Holzwege*. Pour l'exemple du temple ouvrant un monde ; lecture philosophique.
+32. Lefebvre, Henri, *La Production de l'espace*, Anthropos, 1974. Espace et relations sociales.
+33. Arendt, Hannah, *Condition de l'homme moderne*, 1958 (*The Human Condition*). Durabilité de l'ouvrage et pluralité de l'action.
+34. Foucault, Michel, *Surveiller et punir*, Gallimard, 1975. Instrument critique moderne sur la distribution de l'espace et du visible ; ne constitue pas une source de l'Antiquité.
+35. Ricœur, Paul, *Temps et récit*, 3 vol., Seuil, 1983–1985. Pour l'articulation du temps narratif et de la durée des monuments.
+36. Mauss, Marcel, *Essai sur le don*, *L'Année sociologique* 1923–1924 (édition 1925). Pour analyser les formes d'offrande et de réciprocité, sans assimiler toute construction votive à un échange marchand.
+
+---
+
+# XIII. Programme iconographique institutionnel et conditions de licence
+
+**Règle :** les objets proposés ci-dessous ne sont pas prétendus insérés. Toute future image doit porter le titre exact, le numéro d'inventaire, la datation de la notice, le musée ou l'organisme, une URL pérenne, le crédit photo et le statut des droits. Ne pas reproduire une image sous prétexte que sa notice est librement consultable. Conserver la charte noire et or du site sans confondre l'habillage avec l'authenticité archéologique.
+
+1. **Louvre, AO 2**, Gudéa B « Architecte au plan », diorite, vers 2120–2110 av. n. è. [Notice officielle](https://collections.louvre.fr/ark:/53355/cl010119540). Légende : « Gudéa, gouverneur de Lagash, avec plan, règle et calame ; dédicace à Ningirsu. Le plan votif n'est pas une restitution complète du temple. »
+2. **Louvre, MNB 1511**, cylindre B de Gudéa (et son témoin original). [Notice reliée à une copie matérielle distincte](https://collections.louvre.fr/ark:/53355/cl010499921). Légende : « Témoin inscrit d'un récit de construction, non photographie d'une cérémonie. » Vérifier le droit de la photographie de l'original.
+3. **CDLI/ETCSRI**, reproduction d'un détail épigraphique du cylindre A ou B si image et licence sont explicitement identifiées dans le catalogue institutionnel ; [édition ETCSRI](https://oracc.museum.upenn.edu/etcsri/Q000377/html). Une transcription originale de dix lignes avec numéros constitue une alternative meilleure qu'une image empruntée sans droits.
+4. **Louvre, AO 15775 / RS 4.427**, stèle du Baal au foudre, Ras Shamra. [Notice](https://collections.louvre.fr/ark:/53355/cl010140542). Légende : « Baal dans son iconographie orageuse ; la scène ne représente pas la construction de son palais. »
+5. **Ministère égyptien des Antiquités**, temple d'Horus d'Edfou : [notice monumentale](https://egymonuments.gov.eg/monuments/temple-of-edfu/). Proposition : photographie d'un espace consacré, avec date de la prise de vue et perspective précisément localisée, et sans attribution prématurée d'un relief à Séchat.
+6. **Projet Edfou des académies de Göttingen**, une scène identifiée de fondation, après vérification du numéro de paroi, de l'édition de Chassinat et des droits : [projet](https://adw-goe.de/it/projekt/).
+7. **Ministère français de la Culture**, dossier de la tablette de l'Esagil : [notice pédagogique](https://archeologie.culture.gouv.fr/orient-cuneiforme/en/what-it-tells-us-0). Légende : « Données métrologiques du complexe babylonien ; ne constituent pas une élévation moderne certaine. »
+8. **Édition de l'Hymne homérique à Apollon**, texte grec v. 285–299 : créer une planche typographique originale « dieu fondateur / seuil des artisans / construction humaine », avec traduction française autonome et référence de l'édition ; [texte repéré](https://reader.humanitext.ai/en/text/urn:cts:greekLit:tlg0013.tlg003.humanitext-grc2:279-345).
+9. **Schéma original E-ninnu**, montrer trois couches séparées : données de l'inscription, plan votif d'AO 2, hypothèses archéologiques publiées par Rey. Ne pas donner à l'ensemble l'étiquette « plan exact du temple ».
+10. **Carte originale des dossiers**, Girsu, Babylone, Ougarit, Edfou, Delphes, Jérusalem (tradition textuelle), zones védiques et lieux de transmission manuscrite nordique ; échelles et dates explicites, sans représenter par des flèches des emprunts non attestés.
+11. **Frise chronologique originale**, distinguer date historique du chantier, date présumée de composition, date des témoins conservés et publication des éditions modernes. Chaque barre doit préciser si son extrémité est approximative.
+12. **Tableau original des rôles**, six colonnes : tradition, décideur, concepteur, constructeur, destinataire, type de preuve ; ne pas mêler une image divine et un bâtisseur humain dans la même catégorie sans annotation.
+13. **Graphe original de vocabulaire**, *e₂*, *bītu*, *bt*, *naós*, *miškān*, *hof*, *pḏ-šsr*, *Viśvakarman* ; indiquer traduction approximative, champ sémantique, langue et contexte, sans prétendre à l'étymologie commune.
+14. **Comparatif architectural critique**, Esagil et Etemenanki : ne montrer aucune élévation unique comme certaine ; séparer tablette métrologique, fouilles et restitution interprétative.
+15. **Planche des seuils**, accès à l'oracle grec, entrée du sanctuaire égyptien, porte symbolique d'une demeure mésopotamienne. Illustration schématique, non collage d'édifices prétendument contemporains.
+16. **Focus méthode**, encadré illustré « Ce qu'une image ne prouve pas » avec AO 2, AO 15775, un relief ptolémaïque et un extrait d'édition ; droits à négocier avant importation.
+
+---
+
+# XIV. Conclusion : résultats classés, hypothèses et prolongements
+
+**Résultats solidement attestés [A].** Le dossier de Gudéa associe une décision divine, un songe et le chantier de l'E-ninnu ; la tablette VI de l'*Enūma eliš* fait bâtir Babylone et l'Esagil par les Anunnaki pour Marduk ; la documentation ougaritique fait du palais de Baal un enjeu de souveraineté, avec l'intervention de Kothar ; les reliefs égyptiens de fondation mobilisent le pharaon et Séchat ; l'*Hymne à Apollon* distingue l'intervention du dieu et le travail humain ; l'*Iliade* connaît un conflit salarial lié aux murs de Troie ; l'Exode prescrit un modèle, le *Ṛgveda* figure une création et la *Völuspá* évoque des dieux bâtisseurs.
+
+**Interprétations défendables mais révisables [I/H].** Le chantier peut transformer la puissance divine en reconnaissance sociale, rendre visible la division du travail et renforcer le prestige d'une institution. Des ressemblances de fonction entre Ougarit et Babylone peuvent résulter de circulations anciennes, de contraintes politiques partagées ou de configurations indépendantes. Aucune direction précise d'emprunt n'est ici établie. Les cosmologies ne se réduisent pas à une architecture unique.
+
+**Thèse philosophique [P].** Construire met en rapport trois autorités : celle qui commande, celle qui sait faire et celle qui aura le droit d'habiter ou d'approcher. La demeure divine enregistre cette dissociation au lieu de l'effacer. À Girsu la compétence princière traduit le décret divin ; à Babylone les dieux rendent hommage à Marduk par le travail ; à Ougarit un palais reconnaît un rang contesté ; dans l'hymne grec, le dieu fonde mais les hommes achèvent. Un temple n'est donc jamais seulement une masse de pierre : c'est, selon des modalités historiquement distinctes, un espace où une société rend sa propre hiérarchie racontable.
+
+**Questions ouvertes.** (1) Quelles listes de matériaux peuvent être rapprochées des provenances archéologiques de Girsu ? (2) Comment comparer différentes versions textuelles du palais de Baal sans combler les lacunes ? (3) Quels détails exacts des scènes ptolémaïques de fondation correspondent à des techniques mesurables ? (4) Quels passages grecs distinguent explicitement financement, rite et travail des artisans ? (5) Comment empêcher une restitution photoréaliste de transformer une hypothèse en certitude ?
+
+**Contrôle éditorial :** aucune intervention sur les autres cycles MYTHOS ni sur leurs cadences ; aucune modification manuelle du registre canonique ; aucun ajout direct au répertoire *chapitres/* ; aucune affirmation de déploiement sur bobmythos.fr. Cette soumission conserve les textes historiques. La numérotation finale, le reçu du traitement, les contrôles et l'accessibilité publique sont à vérifier après l'action transactionnelle.

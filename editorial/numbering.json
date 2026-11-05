@@ -591,6 +591,54 @@
           "path": "chapitres/origines-du-sacre/670-hatti-cth-446-purifier-maison-sang-dieux-anciens-trameri.md",
           "request_sha256": "e6eb6d14b36d2aedf313ca70f0b91035be7b52a7b6569769ed04649ca49dab6d",
           "initial_source_sha256": "f1cd79760aefe808eb1cc1947eb924837dcc7b1e63889d78726afe48435756fa"
+        },
+        "0fc9b192-8a44-4305-9982-816a22dfec74": {
+          "number": 671,
+          "path": "chapitres/origines-du-sacre/671-labyades-delphes-obseques-depenses-lamentations-phratrie.md",
+          "request_sha256": "7ab461c907f9e847f4edd27d5e543c6a8136c6f9b34d93d705ce4338dbd74461",
+          "initial_source_sha256": "1c512d61e8b931a0628548044b2d870ffa9d37c8334d8a57c95993acb3c2297c"
+        },
+        "64e1bf0a-1d39-4312-9044-41fe07ff5c80": {
+          "number": 672,
+          "path": "chapitres/origines-du-sacre/672-rome-douze-tables-morts-ville-funerailles-lamentations.md",
+          "request_sha256": "a59faea665f650604874cd0ef20a693b60aeea869732fe009c1404a97c683134",
+          "initial_source_sha256": "c167d93daaa146badfcaf80e521082073b0290fe29a2313db718f586a243fde2"
+        },
+        "9a0873be-5f44-4d99-b4a3-4f890a026f71": {
+          "number": 673,
+          "path": "chapitres/origines-du-sacre/673-ioulis-ceos-loi-funeraire-eau-mer-purification.md",
+          "request_sha256": "2b77b4662b78c6405325866ecffb7cebe69ae7391c2ff19efcc73bc1242431c9",
+          "initial_source_sha256": "f83b8bc5b6d7bc0a473f5f765566980c58f0a058bc4baba72fcbd8c192c821e4"
+        },
+        "a2d1c453-6ab0-4f92-8a0d-19d8c7b35a20": {
+          "number": 674,
+          "path": "chapitres/origines-du-sacre/674-antigone-sophocle-polynice-sepulture-lois-non-ecrites-souillure.md",
+          "request_sha256": "05110dd11f97e668cd81236c8ec9c1c93290e59220184a963ef0ffe24ecc6c9b",
+          "initial_source_sha256": "1fa2c1167472f9a72a84dd60ebd0120b7c9b6a3d96ae2f017f3b6e360cc2f3ec"
+        },
+        "a7c64b32-60ef-4488-af45-ec0e3d697a21": {
+          "number": 675,
+          "path": "chapitres/origines-du-sacre/675-antigone-polynice-sophocle-sepulture-lois-non-ecrites-creon.md",
+          "request_sha256": "37f2919f6db2366d0dd6ad7ce7c52428ff63e8ad02b8bfcf22f568175997514b",
+          "initial_source_sha256": "4597cb7b7be2137a5bc69ce2435b5ea6a3257c7b084d3303dfcf298248967ce3"
+        },
+        "d94c7a51-e5c9-4d0d-883c-bf7a6dd29042": {
+          "number": 676,
+          "path": "chapitres/origines-du-sacre/676-athenes-patrios-nomos-thucydide-2-34-morts-guerre-cimetiere.md",
+          "request_sha256": "9018c230149e0ebea0f29e9ce1ac95c35adfa932569c0b8f37fa7ade39415a6d",
+          "initial_source_sha256": "d2b6c627722bc00c2b46b9c1902ace9e1e83a0d7ecea13dd62ad0385be9623e6"
+        },
+        "e9d73a4b-5fac-4de8-9a3b-690b2aa84f20": {
+          "number": 677,
+          "path": "chapitres/origines-du-sacre/677-gambreion-loi-deuil-vetements-thesmophories-interdits.md",
+          "request_sha256": "f2ea1793166e05913cd9affc05258d2502682bdc24e36231efe5762aa1c5875d",
+          "initial_source_sha256": "044584bf5aee45f0c92beb0b29e9879cf03dbc0b517c13801cfbbe631569adb0"
+        },
+        "f4c2b381-21a4-4f98-a10c-053b6a87ed2f": {
+          "number": 678,
+          "path": "chapitres/origines-du-sacre/678-sparte-lycurgue-onze-jours-demeter-epitaphes-souillure.md",
+          "request_sha256": "0c967824e6f0920d274b8327c0fa565c589b546d8364f573f920295e5e1dc3ee",
+          "initial_source_sha256": "db32923e5176c7a955642d9eba5112029ed988334c78c789f254f7d2be0f2e54"
         }
       }
     },
@@ -1102,6 +1150,42 @@
           "path": "chapitres/encyclopedie/chapitre-432-demeter-chthonia-hermione-fete-sacrifice-klymenos-topographie-sacree.md",
           "request_sha256": "f0396bca4684b85354a10adb36ba3b743ae931aede431ee1f0ff42419866cca2",
           "initial_source_sha256": "f06127890a9fbef5683211b7a69fa4c3f9fd1aa449f25b85c6c7b1d38bc935c9"
+        },
+        "2f690e1d-8c61-46b4-a4cb-e8960b015c83": {
+          "number": 433,
+          "path": "chapitres/encyclopedie/chapitre-433-athena-lindia-rhodes-chronique-lindos-anathemes-epiphanies-danaides.md",
+          "request_sha256": "1e016d69cbc447b51a6acba4ae76e6df6a6c16e1319151c6a876a1df5e8dadf2",
+          "initial_source_sha256": "4c29cb69816da32cc94e43045d8b5c7704a08d352c6aad531abdba8a868498d9"
+        },
+        "83d14be7-6c2a-46de-83e1-4962a2d0be57": {
+          "number": 434,
+          "path": "chapitres/encyclopedie/chapitre-434-apollon-ptoios-oracle-beotie-heros-ptoios-kouroi-trepieds.md",
+          "request_sha256": "797d512b90847ea654190af1c3c59205abd0867e971e4f525d91cfea2d30ac8e",
+          "initial_source_sha256": "5df41fbc6802aa9f52295d66a5bbec25c33f82028ce7ee316feae273ab1c0fb3"
+        },
+        "925e0361-8dbb-4f8a-97c0-298e52b0a7d4": {
+          "number": 435,
+          "path": "chapitres/encyclopedie/chapitre-435-athena-itonia-iodama-coronee-philia-pamboiotia-federal-cultes.md",
+          "request_sha256": "4e6fa2d1afc9f1d57cd5adbc4a9b80ea19caf092a7c83f6259953e83e6477ff8",
+          "initial_source_sha256": "7579b2aefdc39979bf1aa08ebee77ebecccb6deb925c5c798eee1d59c5a20bf8"
+        },
+        "c5ad66f1-e29f-49c3-b31d-52bda61975e7": {
+          "number": 436,
+          "path": "chapitres/encyclopedie/chapitre-436-artemis-laphria-calydon-patras-fete-sacrifices-transferts.md",
+          "request_sha256": "ed6053d808864947a1e156aad2ce7fe7f2085c8b1f8384565c24dac90c8b6b95",
+          "initial_source_sha256": "4c11766c7a80c78e4547f76c08fb688300edd32bda9877245282828afcb5fd5f"
+        },
+        "d5a47e36-8b27-4cb2-a3d0-f18a7e2c9d64": {
+          "number": 437,
+          "path": "chapitres/encyclopedie/chapitre-437-hera-lakinia-crotone-capo-colonna-nossis-hannibal-sanctuaire.md",
+          "request_sha256": "01d8efdc1c46212d860e8228a78bae1a991da831dd6035630054629d0742ee5a",
+          "initial_source_sha256": "2ca43cfbc4e230d259980dfd55acde5e4b372a4387995bd260ba0bfc8dec90b1"
+        },
+        "d7e4c519-2986-4a75-9b46-6f41ce8b2605": {
+          "number": 438,
+          "path": "chapitres/encyclopedie/chapitre-438-athena-lindia-chronique-lindos-danaides-offrandes-epiphanies-memoire.md",
+          "request_sha256": "784015f4d9b973dde877ec3fc28ed4506bd1f5c4734a1e27bc025770f4da9f91",
+          "initial_source_sha256": "288f17b1b11b30f95666aeadd62d27f76d26264c26e0a7903385dc53f4692fad"
         }
       }
     },
@@ -1456,6 +1540,30 @@
           "path": "chapitres/comedies/volume-107-philyllios-plyntriai-nausikaa-lessive-laispodias-scholie-odyssee.md",
           "request_sha256": "4fc01713de481248bdf6b130b8a87ec95d73a8c3d3536007ba5ad06885ca0d06",
           "initial_source_sha256": "e2ff7c1aca47aa7ac6c60224857c34e6bd84cd71e45ffd0da2d97bc6ac275f01"
+        },
+        "0c667dac-3e69-4d15-9988-1b04e9f5a179": {
+          "number": 108,
+          "path": "chapitres/comedies/volume-108-philyllios-phreorychos-creuseur-puits-toros-eau-amandes-banquet.md",
+          "request_sha256": "d8286daad2c96a18c3ebc355ed5fd0438d1ee671a43a49836d9dd486ef14e876",
+          "initial_source_sha256": "3403facba6c6f9d4ada3c6ed2ae44cd1e247c9eaec289f4ee71768117f3d2571"
+        },
+        "4ac701d6-f31e-4c5b-988e-63570db2c192": {
+          "number": 109,
+          "path": "chapitres/comedies/volume-109-philyllios-fragments-incertains-19-22-bedy-air-cigale-laine-philonides.md",
+          "request_sha256": "b9f75d53fd6d2b16843592cba81b207440655e4db733bbb371a1d8eb8a679892",
+          "initial_source_sha256": "2e065fcb59631e0e6faf3747d17fa1f943df93fae76c16e0227f510aa573ca8d"
+        },
+        "8ea16b4e-7805-431d-89cc-c50a8397462e": {
+          "number": 110,
+          "path": "chapitres/comedies/volume-110-philyllios-fragments-incertains-23-33-vins-poissons-torches-laine-loi-desir.md",
+          "request_sha256": "e08f8a23531c5c2135bd37d365b37edd46a6ced26c816e105dfc660c6125db48",
+          "initial_source_sha256": "458cf9bc01a0478b0d8a36522ce0e1765602e9d5d02819a494569947f09a526e"
+        },
+        "b947feda-f0e6-4693-a98b-e468420f5276": {
+          "number": 111,
+          "path": "chapitres/comedies/volume-111-philyllios-poleis-cites-pax-regis-tablettes-dorique-poissons-metiers.md",
+          "request_sha256": "347217c4b3f5036760505d676e7756b15cabdc7524a8edfe84a6645b87b40715",
+          "initial_source_sha256": "a79610485e4afd37369265897ea887b06bf5343b07d598b674483d0d6bc31e7d"
         }
       }
     },
@@ -1852,6 +1960,30 @@
           "path": "chapitres/tragedies/volume-ccxlix-sophocle-phrygiens-ares-guerre-hymenee-silence-achille-fragments-724-725.md",
           "request_sha256": "93fa62c09daebcfdd5db377cf9acfe3fbb90d8fa8a511b64f80771686d790723",
           "initial_source_sha256": "a8501ac3da73adf8473e61e66455b1c6b2c0a70b91ce87bece87ce31c11cd5f6"
+        },
+        "2e0a6bb4-9f71-49a5-81ba-93cc74aa8e12": {
+          "number": 250,
+          "path": "chapitres/tragedies/volume-ccl-agathon-aerope-f1-entree-exil-crete-vello-dor-atreides.md",
+          "request_sha256": "23c30c18131bc0257ac52a0a2ff321d3462496a4a61be1448312f65e18292df1",
+          "initial_source_sha256": "a8316846c843546cc338a084727bda7b73c25a1dd1997e6b96bf7fb44e658830"
+        },
+        "7cd4b860-93a2-4df0-84be-628a5c1d9037": {
+          "number": 251,
+          "path": "chapitres/tragedies/volume-ccli-agathon-alcmeon-fragment-2-muses-athemistoi-matricide-erinyes.md",
+          "request_sha256": "48c75902e55f5e023acd282e44b8908abd63db36c504f22d2f0c9e671af55ee3",
+          "initial_source_sha256": "357b74d7af7e5ed3e60e2db1db341fedee41e657b2a60de6d8fffdee3b215d87"
+        },
+        "a84b17c0-7f53-4fe9-a018-fb63c6e71d29": {
+          "number": 252,
+          "path": "chapitres/tragedies/volume-cclii-sophocle-akrisios-danae-persee-oracle-coffre-bronze-fragments-60-76.md",
+          "request_sha256": "4386236806dbd9362bfa6cbd23f11a79d37b862877514fa033ccc58bf106af16",
+          "initial_source_sha256": "96f4f045f91e14b16993e68ddbcf7e2e038f47b0f709927dd4e4f22a4ceef6a1"
+        },
+        "b7e6a9d2-0f45-4c98-8ab0-21763dc5e904": {
+          "number": 253,
+          "path": "chapitres/tragedies/volume-ccliii-aletes-aleites-attribution-stobee-oreste-erigone-reconnaissance.md",
+          "request_sha256": "ce93500dc2193c747d58422199a772c85ee047905eae47b86b797f13b4fe6cda",
+          "initial_source_sha256": "a35a5e1e44d8fa0e74efc7fe5caaba3244236054442c12b0cd23431bee23c13c"
         }
       }
     },
@@ -2491,6 +2623,30 @@
           "path": "chapitres/comparatif/volume-ccxlvii-mc-067-quand-les-dieux-se-marient-hierogamie-alliance-filiation-rites-et-souverainete.md",
           "request_sha256": "78fc028490f7ed51ca940752dbe8b5b6ac9c817f5a483525f611be8751d36648",
           "initial_source_sha256": "aa79b593a2d9238d1c75808570b840305cad029e9f843c84fccc2ab0810fc5e6"
+        },
+        "3d64880f-6844-4d2a-b94e-b7ea3a2a0460": {
+          "number": 248,
+          "path": "chapitres/comparatif/volume-ccxlviii-mc-070-le-nom-des-dieux-isis-re-marduk-zeus-veda-exode-pouvoir-de-nommer.md",
+          "request_sha256": "be91cc1801c85241c2f8c597248f1dd6c86a9df45ce45670a0b5ab8b8055e090",
+          "initial_source_sha256": "deb3d243c0e2ba3594b0bdfa3a45bb920ec12a7878983a021ea6c01653715a40"
+        },
+        "5ed94532-0216-4cf3-ae69-2390d43b0069": {
+          "number": 249,
+          "path": "chapitres/comparatif/volume-ccxlix-mc-069-quand-les-dieux-changent-de-nom-traductions-religieuses-identifications-divines-souverainete-empires.md",
+          "request_sha256": "597763f4b5efe00cba35274de104741db87b2fbf3bbbae7d2673d75a7efbc646",
+          "initial_source_sha256": "0c732debed200db7bbfeb3efa8d71304414f7b8835a7363a331bd5d5534e7334"
+        },
+        "73f8cb68-c928-4ceb-9a68-202611050068": {
+          "number": 250,
+          "path": "chapitres/comparatif/volume-ccl-mc-068-quand-les-dieux-batissent-temples-palais-fondations-architecture-cosmique.md",
+          "request_sha256": "131d8f2e198006c7f108b9c2a95f6d68fb5bcabfcb81092c2ae00684613e3cc5",
+          "initial_source_sha256": "ef7cbdf5be593d6c83c3dffd8fdc0e3dc947616e633bcc5b95f0d07406679614"
+        },
+        "904ece0d-5591-4e6b-bfea-e39e7143c4c1": {
+          "number": 251,
+          "path": "chapitres/comparatif/volume-ccli-mc-071-qui-ecrit-pour-les-dieux-nisaba-nabu-thot-seshat-ecriture-et-autorite.md",
+          "request_sha256": "5c3264590b5be17548a493cf4823516a36010e603b77ddc8154396ae3b8450ab",
+          "initial_source_sha256": "21eb63586708dbf12b1fd43eb069b8ad32ebb04370f75a7fb1ff29dc30ac9230"
         }
       }
     }

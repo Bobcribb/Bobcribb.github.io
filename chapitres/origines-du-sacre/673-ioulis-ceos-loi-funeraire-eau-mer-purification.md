@@ -1,0 +1,204 @@
+# Chapitre 673 — La mort dans la maison grecque : Ioulis de Céos, la dépense funéraire et le retour à la pureté
+
+*MYTHOS — Les Origines du sacré, volume DCLXXIII. Étude universitaire : épigraphie grecque, rites domestiques, histoire des normes, anthropologie du deuil et philosophie. Dossier documentaire contrôlé le 5 novembre 2026.*
+
+## Résumé
+
+La loi funéraire d'Ioulis, sur l'île de Céos, fournit une rare description épigraphique de la manière dont une cité classique prétend organiser la mort au sein de la maison : étoffes, mobilier, vin et huile, cortège silencieux, sacrifice préalable, personnes autorisées à venir, lavage et retour de l'habitation à un état de pureté. Ce chapitre examine non seulement ce que la loi ordonne, mais aussi les distinctions qu'elle construit : entre défunt et survivants, dépenses permises et ostentation, proches et visiteurs, espace domestique et espace des sanctuaires, cérémonie et commémoration. Le dossier ne confond pas ce texte prescriptif avec un reportage sur un enterrement particulier.
+
+**Échelle critique.** [A] = information directement contrôlable dans le texte grec ou un témoin identifié ; [C] = interprétation débattue ; [H] = hypothèse de lecture comparée. Les références de lignes concernent la présentation de l'inscription dans la base *Nautilos* de l'Université nationale et capodistrienne d'Athènes ; quelques restitutions grecques restent conjecturales. Les traductions françaises sont des paraphrases de travail, sauf indication explicite.
+
+## 1. Le problème historique : mourir sous le regard de la cité
+
+Une maison endeuillée paraît d'abord relever de la parenté. Pourtant un décès déplace immédiatement des objets et des personnes dans l'espace commun : le corps sort, des lamentations sont audibles, des prestations sont achetées, des visiteurs circulent entre foyers, tombe et lieux de culte. La cité peut donc chercher à contrôler les dépenses et les gestes sans devenir elle-même l'agent de toutes les funérailles. [H] L'enjeu n'est pas nécessairement d'éliminer une croyance populaire : la loi sélectionne certaines pratiques recevables et redistribue le droit d'accompagner les morts.
+
+L'opposition moderne entre rite « privé » et législation « publique » devient insuffisante. Dans la cité grecque, la maison est un lieu où se transmettent les obligations de parenté, où se tient la préparation du corps et d'où part une procession qui traverse des voies communes. Le règlement d'Ioulis rend visible cette continuité spatiale. Les pratiques restent principalement domestiques, mais la norme qui les encadre est collective.
+
+## 2. Identification, datation et support du texte
+
+[A] La source fondamentale est **IG XII 5, 593**, également publiée comme **LSCG 97**, **Sylloge³ 1218** et **CGRN 35**. Le portail universitaire *Nautilos*, notice E40, la classe comme une loi d'Ioulis de la fin du Ve siècle avant notre ère. Le texte est transmis sur plusieurs faces, avec un ensemble principal A et un supplément B dont la formule décisionnelle mentionne conseil et peuple.
+
+Le support épigraphique doit être distingué d'un « code funéraire grec » intemporel. Ses lettres, ses lacunes et ses restaurations témoignent d'une décision historique située. La présence de clauses additionnelles, avec leur propre formulaire politique, interdit de supposer que toutes les prescriptions proviennent du même moment de rédaction. [C] La possibilité que certaines normes aient une préhistoire orale ou qu'elles aient été inspirées par les réformes attribuées à Solon ne permet pas de les dater automatiquement du VIe siècle.
+
+## 3. Une formule d'ouverture qui situe l'objet de la loi
+
+[A] La face A commence par *hoide nomoi peri tōn kataphthimenōn*, soit, en substance, « voici les règles concernant ceux qui sont morts ». L'expression désigne un domaine d'action, pas une doctrine théologique complète. Elle est suivie d'impératifs de conduite funéraire : comment envelopper le corps, le porter, l'accompagner, nettoyer les lieux.
+
+La catégorie des défunts ne dit pas à elle seule quel destin spirituel la cité leur attribue. L'inscription ne développe ni géographie de l'Hadès ni doctrine d'immortalité. La méthode philologique commande de partir de son vocabulaire procédural et de ne pas lui imposer les spéculations de Platon sur l'âme ou les récits homériques sur les ombres.
+
+## 4. Trois étoffes blanches : envelopper sans exhiber
+
+[A] Aux lignes A2–6, la loi prescrit trois pièces d'étoffe blanches, dont le couchage, le vêtement enveloppant et la couverture. Elle permet un équipement plus réduit. Le dispositif matériel n'est pas laissé à l'initiative illimitée des familles. Le blanc est une caractéristique explicitement énoncée ; les significations possibles de cette couleur restent ouvertes, puisque le texte n'explique pas sa raison symbolique.
+
+L'étoffe touche directement au statut du corps exposé. Elle couvre et présente simultanément le défunt. [H] On peut y voir une opération de dignité retenue : la communauté tolère une représentation visible du deuil tout en empêchant que le vêtement mortuaire devienne une compétition sans bornes. Il serait abusif de conclure que toutes les familles employaient exactement le même tissu ou que l'archéologie peut reconstituer sa fibre à partir de cette prescription.
+
+## 5. Un problème de traduction : cent ou trois cents drachmes ?
+
+[A] Le texte grec de la notice *Nautilos*, à A5–6, porte la séquence **hekaton drachmeōn** : « cent drachmes ». Or certaines traductions secondaires diffusées en ligne donnent « trois cents drachmes », probablement par confusion avec les trois pièces mentionnées juste avant ou sur une autre base textuelle. Cette divergence exige de ne pas reprendre sans contrôle un montant prétendument incontestable.
+
+Dans la présente étude, le plafond est présenté avec la réserve philologique suivante : **la lecture éditée ici est cent drachmes** pour la valeur des étoffes envisagées, et toute variante chiffrée doit être contrôlée dans l'apparat des grandes éditions. Cette restriction ne permet pas de calculer la dépense moyenne des citoyens ni d'assimiler la totalité du coût funéraire au seul prix des vêtements. Un plafond est une norme, non un relevé comptable d'achats observés.
+
+## 6. La couche funéraire et la visibilité du corps
+
+[A] La loi évoque une *klinē* dont les pieds sont caractérisés et précise la manière de couvrir le corps pendant le transport. Le lit est un bien utilisable et récupérable, non un sarcophage imposé par l'autorité. Ce vocabulaire rappelle qu'une procession dépend d'objets portables, d'aides et d'itinéraires.
+
+Une lecture archéologique doit rester proportionnée. Des représentations de prothesis et d'ekphora sur des vases attiques attestent l'importance visuelle du lit, du corps et de l'entourage, mais les images ne forment pas un inventaire du matériel d'Ioulis. Entre une scène figurée, une tombe fouillée et une loi, trois régimes de preuve doivent rester distincts : iconographie, mobilier effectivement déposé, norme de conduite.
+
+## 7. Le vin et l'huile : mesurer le geste d'offrande
+
+[A] Les lignes A8–10 limitent les quantités apportées au tombeau : trois *choes* de vin au maximum et un *chous* d'huile. Elles prescrivent aussi de rapporter les récipients. Le règlement ne bannit pas les libations ; il borne leur quantité et contrôle le devenir du contenant.
+
+[C] Il reste difficile de savoir si la limite vise surtout la consommation ostentatoire, l'encombrement des tombes, la conservation des objets domestiques ou plusieurs problèmes à la fois. Il n'existe pas, dans ce seul texte, de tarif de conversion en litres universel : les mesures antiques connaissent des contextes locaux. Une traduction métrique approximative ne doit jamais remplacer la mesure inscrite.
+
+## 8. Le *prosphagion* et ses destinataires possibles
+
+[A] À A12–13, la loi renvoie au *prosphagion* exécuté « selon les usages ancestraux ». L'expression est assez précise pour attester un geste sacrificiel et assez peu développée pour laisser incertain son destinataire exact. Il ne faut ni effacer l'existence du sacrifice ni inventer l'animal, l'autel, le sacrificateur ou la technique d'abattage.
+
+[C] Gunnel Ekroth relève le caractère exceptionnel et discuté d'un sacrifice animal associé à des morts ordinaires. Si ce rite est tourné vers le défunt, il ne doit pas être automatiquement traité comme un repas de viande partagé par des participants encore marqués par la souillure. Si son destinataire est une divinité, la chronologie devient elle-même difficile à interpréter. Cette incertitude est une partie du résultat scientifique, pas un manque à masquer.
+
+## 9. Transport en silence : la règle et l'émotion
+
+[A] La loi prescrit de porter le mort couvert « en silence » jusqu'au *sēma*, la tombe ou son repère funéraire. Elle ne dit pas que la douleur n'existe pas. Une prescription de silence sur le parcours vise une expression publique spécifique : elle ne peut être extrapolée en interdiction absolue de parler au mort pendant toute la durée du deuil.
+
+La comparaison avec les lamentations de l'*Iliade*, XXIV, montre la diversité des registres. Le chant d'Andromaque, d'Hécube et d'Hélène dans un poème héroïque relève de la mise en scène épique de la perte ; le cortège d'Ioulis relève d'une règle civique. L'écart ne signifie ni « progrès » vers la rationalité ni disparition de la mémoire féminine. Il montre que des récits et des normes peuvent attribuer des places très différentes à la voix.
+
+## 10. Rapporter le lit, non abandonner le mobilier au tombeau
+
+[A] Les lignes A13–14 demandent de faire rentrer lit et étoffes dans la maison. La tombe n'absorbe pas automatiquement les objets de la vie domestique. Cette clause complète l'ordre de rapporter les vases : la cérémonie ne doit pas devenir une extraction illimitée de biens du patrimoine des vivants.
+
+[H] Cette économie du retour met en scène une séparation paradoxale. Le défunt quitte définitivement la maison ; les biens, eux, y reviennent. Mais leur réintroduction appelle un nettoyage rituel. On ne peut affirmer que la cité avait conçu la clause dans le seul but de préserver les patrimoines familiaux ; l'interprétation économique doit être articulée à la séquence de purification.
+
+## 11. Le lendemain : faire revenir la maison dans l'ordre habitable
+
+[A] À A14–18, le lendemain du déplacement du corps, la maison fait l'objet d'une purification. Le texte grec mentionne explicitement l'eau de mer dans la première phase, puis un lavage et un traitement dont la formulation exacte doit être examinée dans l'édition. À l'issue de la procédure, la maison est dite *kathara*, pure.
+
+Cette qualité rituelle ne décrit pas une désinfection au sens microbiologique moderne. Elle renvoie à la capacité de reprendre certaines relations et pratiques. Le rite donne une fin déterminable à un état transitoire. Il produit donc un changement social : visiteurs, officiants et proches peuvent reconnaître que l'espace du décès n'est plus soumis aux mêmes restrictions.
+
+## 12. Eau de mer, eau et substance végétale : les traductions ne concordent pas
+
+Il serait tentant de simplifier la procédure en disant que la loi ordonne partout un lavage « à l'hysope ». Cette formulation apparaît dans des traductions modernes, mais la présentation grecque universitaire donne, dans cette zone lacunaire, une séquence correspondant à un lavage avec de l'eau après une autre opération dont le support matériel est discuté. [C] Les restitutions font intervenir, selon les éditions, de la terre ou d'autres substances ; elles ne sont pas toutes philologiquement équivalentes.
+
+Notre règle éditoriale est donc la suivante : **l'eau de mer, le lavage et le statut final de pureté sont attestés ; la description botanique détaillée d'un instrument reste à contrôler**. La comparaison avec l'hysope biblique serait trompeuse si elle transformait une variante de traduction en fait incontestable. Des traditions différentes peuvent employer l'eau sans qu'une généalogie commune de la purification soit démontrée.
+
+## 13. L'autel domestique : purifier puis sacrifier
+
+[A] La fin de la séquence domestique prévoit un sacrifice au foyer ou à l'autel domestique après que la maison a été déclarée pure. Ce point rappelle que la relation aux puissances religieuses n'est pas suspendue indéfiniment par un décès. La purification prépare un nouveau geste qui réintègre la maison dans son ordre cultuel.
+
+Il convient de distinguer le *prosphagion* associé à la cérémonie funéraire de ce sacrifice accompli à l'intérieur de la maison. La simple proximité des deux termes ne signifie ni identité d'offrande ni identité de destinataire. [H] Le mouvement général peut être compris comme un passage entre deux dispositifs : accompagner le défunt hors de la maison, puis rendre à l'habitation sa capacité d'entretenir les vivants et leurs dieux.
+
+## 14. Les personnes exposées à la souillure
+
+[A] Les lignes A23–30 prescrivent quelles femmes peuvent fréquenter la maison lors du décès et nomment mère, épouse, sœurs et filles ; elles limitent l'adjonction d'autres femmes. Ce dispositif établit des cercles de proximité plutôt que de traiter tous les citoyens comme également affectés.
+
+La notion de *miainesthai* marque ici une condition rituelle. On ne doit pas la traduire automatiquement en culpabilité morale. La mère du défunt n'a pas « fauté » parce que son enfant est mort. Sa participation la situe dans un état de contact et d'obligations funéraires dont la loi fixe les conséquences. Les hommes peuvent également être concernés par des restrictions rituelles, même si ce passage détaille surtout une sélection de femmes.
+
+## 15. Le départ des femmes : vérifier le grec contre certaines traductions
+
+[A] La transcription *Nautilos* des lignes A18–20 contient **apienai proteras tōn andrōn**, expression qui, dans sa lecture ordinaire, signifie que les femmes partent du tombeau **avant les hommes**. Une traduction anglaise diffusée sur un autre site donne au contraire « not ... before the men ». Les deux propositions ne peuvent être additionnées comme si elles disaient la même chose.
+
+Le lecteur doit privilégier la collation du texte, des corrections et de l'apparat, non choisir la version qui confirme une théorie préconçue sur le contrôle du deuil féminin. Même si une lecture s'impose philologiquement, l'explication anthropologique — séparer des groupes, contrôler la procession, organiser le retour — reste une hypothèse. La divergence est signalée ici afin de préserver une histoire du rituel qui ne repose pas sur une traduction silencieusement harmonisée.
+
+## 16. L'interdiction du trentième jour
+
+[A] Le texte interdit certains rites du trentième jour au tombeau du défunt. Cela n'efface pas toute mémoire anniversaire et ne signifie pas que les familles ne revenaient jamais sur les sépultures. La même loi précise des étapes de purification et le supplément B évoque notamment un retour de personnes après une visite.
+
+[C] La question centrale est de savoir quels gestes sont particulièrement visés : dépense, rassemblement, lamentation, nourriture ou une coutume locale dont nous ne possédons plus l'ensemble. Le caractère fragmentaire du texte interdit de reconstruire un calendrier complet des anniversaires à Ioulis à partir d'une seule négation.
+
+## 17. Coupe, eau et balayures : des rites désormais interdits
+
+[A] À A20–23 figurent des prohibitions portant notamment sur une coupe placée sous le lit, l'eau répandue et les *kallysmata*, terme associé au nettoyage ou aux balayures. L'inscription révèle indirectement des pratiques qu'elle cherche à éviter, sans en livrer l'interprétation par ceux qui les accomplissaient.
+
+[C] Ces gestes peuvent avoir eu une efficacité purificatoire, apotropaïque ou commémorative dans certains milieux ; leur logique précise n'est pas restituable avec certitude. Une norme négative ne prouve pas que toute la communauté suivait auparavant la pratique condamnée. Elle montre seulement que l'autorité jugeait utile de la nommer et de la réglementer.
+
+## 18. Un texte supplémentaire, une temporalité supplémentaire
+
+[A] La face B s'ouvre par une formule de décision du conseil et du peuple. Elle évoque les personnes qui accomplissent les rites du troisième jour ou de l'anniversaire et distingue leur état de pureté de la possibilité d'entrer dans un sanctuaire. La maison et les participants ne franchissent pas nécessairement les mêmes seuils au même instant.
+
+Il est essentiel de ne pas transformer les faces A et B en récit continu parfaitement homogène. [H] Leur juxtaposition permet toutefois d'étudier une question remarquable : une personne peut retrouver une certaine pureté sans acquérir immédiatement tous les droits cultuels d'accès. « Être pur » est alors un statut relatif à des actes et des lieux précis, non une propriété absolue et intemporelle.
+
+## 19. Archéologie : ce qu'une inscription ne montre pas
+
+Aucune tombe individuelle d'Ioulis n'est décrite par cette loi. On ne connaît pas les noms des personnes qui y obéirent ni l'identité des éventuels contrevenants. L'histoire archéologique d'une communauté ne peut être tirée d'une suite d'impératifs sans comparaison avec les nécropoles, les objets, les dépôts et les changements de topographie.
+
+Les stèles, les céramiques déposées dans les sépultures et les images funéraires grecques sont des sources majeures ; elles ne permettent pourtant pas de convertir automatiquement un nombre de *choes* prescrit en quantité réellement versée. Une collecte de contextes stratifiés et d'analyses matérielles serait nécessaire à une reconstitution quantitative des usages locaux.
+
+## 20. La cité, Solon et la question de la parenté législative
+
+Plutarque, *Solon* 21, attribue au législateur athénien des limites touchant les déplacements, les lamentations et les dépenses funéraires. Le discours *Contre Macartatos* de Démosthène, 43.62, livre d'autres données sur les prescriptions relatives aux femmes. Ces passages autorisent une comparaison de préoccupations ; ils ne permettent pas de faire d'Ioulis une copie identique et datable du même décret solonien.
+
+[C] La généalogie des règlements somptuaires grecs reste débattue : transmission effective, imitation sélective, réponses indépendantes à des tensions comparables ou traditions postérieures projetées sur des autorités archaïques ? Une historiographie prudente ne substitue pas l'étiquette « solonien » à la démonstration documentaire.
+
+## 21. Le coût des funérailles et la concurrence entre maisons
+
+La dépense funéraire n'est pas seulement un transfert de richesses : elle rend publiquement visible la puissance d'un groupe domestique. Les limites de tissus et de boissons peuvent être lues à la lumière des analyses d'Ian Morris sur le rapport entre rites funéraires et structure sociale ; elles n'en donnent pas une illustration automatique.
+
+[H] Un deuil peut devenir une compétition mémorielle entre lignées, chaque famille tentant de signaler son prestige par l'ampleur de l'accompagnement. Une cité peut limiter cette compétition afin de rendre les morts comparables dans l'espace commun. Mais les montants monétaires de l'inscription ne permettent ni de mesurer une « égalité » effective ni d'affirmer que les élites auraient accepté uniformément cette discipline.
+
+## 22. Genre, travail du deuil et gouvernement des voix
+
+Les personnes qui préparent un mort, le lavent, le vêtent et le pleurent effectuent un travail rituel et social essentiel. Les normes qui réduisent le nombre de participantes ne sont donc pas de simples accessoires : elles règlent l'accès à une activité de mémoire. Margaret Alexiou a montré l'importance historique du chant de lamentation dans les cultures grecques ; David Bouvier a souligné les différences entre mémoire féminine et mémoire masculine dans l'*Iliade*.
+
+Cela ne justifie pas de peindre toute lamentation féminine comme « excessive ». Le jugement d'excès relève précisément de certaines autorités normatives ou de catégories modernes. L'historien doit reconstituer les contraintes, mais aussi les capacités d'action des proches qui demeurent indispensables à la cérémonie.
+
+## 23. Comparer sans confondre : Ioulis, Délos et le Hatti
+
+Le chapitre MYTHOS sur la purification de Délos et de Rhénée montre une échelle insulaire : le déplacement de tombeaux et la régulation de l'espace sacré ont des enjeux de souveraineté. Le rituel hittite CTH 446, étudié dans la collection, engage une maison souillée par le sang versé. Ioulis porte sur la mort ordinaire et sur l'organisation civique des funérailles. Les trois dossiers parlent de purification, mais **les causes, autorités et conséquences ne sont pas interchangeables**.
+
+De même, le retour à la pureté ne doit pas être réduit partout à un schéma de contagion. Il peut correspondre à la restauration d'un lieu, d'une capacité d'accès, d'un statut domestique ou d'un ordre politique. La comparaison n'est rigoureuse qu'à la condition de conserver les dimensions concrètes des sources.
+
+## 24. Regards mésopotamiens, égyptiens, indiens et chinois
+
+En Mésopotamie, les pratiques de *kispu* et d'entretien des morts documentent des obligations alimentaires qui peuvent durer longtemps après la mise au tombeau ; il serait artificiel d'en déduire les interdits du trentième jour de Céos. Dans l'Égypte ancienne, la circulation des offrandes et les opérations de purification mobilisent des espaces institutionnels et des conceptions de la personne différents. Les rituels indiens liés aux morts et aux ancêtres, comme les traditions de *śrāddha*, et les règles chinoises de deuil consignées dans les classiques rituels permettent d'interroger la durée des obligations sans projeter une norme grecque universelle.
+
+[A] Ces ensembles disposent de traditions textuelles identifiables, mais leurs formes dépendent des périodes et des milieux. [H] Le trait comparable est moins une « peur universelle de la mort » que la transformation d'une rupture personnelle en temps social ordonné. Une étude interculturelle approfondie exigerait de confronter des éditions bilingues et les contextes historiques propres à chacun.
+
+## 25. Durkheim, Vernant, Detienne, Girard : quatre questions, non quatre réponses toutes faites
+
+Émile Durkheim (*Les Formes élémentaires de la vie religieuse*, 1912) aide à poser la question de l'autorité collective des frontières sacrées. Jean-Pierre Vernant et Marcel Detienne replacent sacrifices et catégories religieuses dans des configurations sociales et symboliques propres au monde grec. René Girard suggère de regarder les mécanismes par lesquels une communauté dirige la tension vers une victime, mais le décès ordinaire d'Ioulis ne fournit aucune preuve d'un mécanisme victimaire fondateur.
+
+Un usage critique de ces auteurs consiste à identifier ce qu'ils permettent de demander au document, non à déduire le contenu du document de leurs théories. L'inscription ne parle ni de « conscience collective » au sens durkheimien ni de « crise mimétique » au sens girardien : ces concepts sont des instruments interprétatifs modernes, toujours révisables.
+
+## 26. Hegel, Nietzsche et l'ambivalence d'une règle funéraire
+
+Chez Hegel, la famille et la cité peuvent entrer dans une relation de tension lorsqu'il s'agit du devoir envers le mort ; *Antigone*, au cœur de la *Phénoménologie de l'esprit*, forme un horizon philosophique pertinent. Mais Ioulis ne décrit pas un conflit tragique entre deux lois absolues : elle montre une législation qui pénètre la pratique familiale et cherche à la rendre compatible avec l'ordre civique.
+
+Nietzsche permet de réfléchir à la discipline des affects, à la formation des valeurs et à la mémoire instituée ; ses diagnostics sur la morale ne sont pas des explications historiques démontrées du décret. Eliade peut inspirer une lecture des seuils entre espaces sacrés et profanes, à condition de ne pas postuler une essence intemporelle de « l'homme religieux ». [H] La loi institue une frontière réversible entre maison endeuillée et maison réintégrée, sans faire de chaque geste un mystère métaphysique.
+
+## 27. Bilan des certitudes, débats et hypothèses
+
+**Attesté [A] :** existence du règlement à Ioulis, prescriptions concernant les étoffes blanches, le lit, les boissons, le silence, le sacrifice selon l'usage, le retour du mobilier, le traitement purificatoire de la maison, les catégories de femmes autorisées et certaines interdictions commémoratives. La face B révèle une décision du conseil et du peuple et des restrictions d'accès religieux.
+
+**Discuté [C] :** détail de la deuxième phase de lavage, lecture de montants différents dans certaines traductions, interprétation de la priorité de départ au tombeau, destinataire du *prosphagion*, chronologie relative des clauses et filiation exacte avec la législation attribuée à Solon.
+
+**Proposé [H] :** la loi fonctionne comme une technologie civique du retour : elle borne la dépense et le spectacle, trace les cercles de proximité, puis organise le rétablissement des capacités ordinaires de la maison. Cette hypothèse explicative ne prétend ni restituer un enterrement observé ni expliquer toutes les funérailles grecques.
+
+## Conclusion
+
+L'originalité d'Ioulis tient à la coexistence d'opérations minutieuses et d'une ambition collective. Une quantité de vin, le nombre de femmes qui peuvent entrer, l'ordre d'un cortège et le moment où la maison est à nouveau pure composent une politique du deuil à l'échelle des gestes. Le sacré n'est pas ici un domaine immatériel isolé : il se matérialise dans des tissus, des objets, de l'eau, des personnes et des frontières temporelles. La cité ne rend pas la mort moins réelle ; elle cherche à rendre son passage socialement praticable.
+
+## Sources primaires et éditions documentaires
+
+1. *Inscriptiones Graecae* XII 5, 593, Ioulis, Céos, fin du Ve siècle av. J.-C. = *LSCG* 97 = *Sylloge³* 1218 = **CGRN 35**. Texte grec consultable dans *Nautilos*, université d'Athènes, notice E40 : https://nautilos.arch.uoa.gr/en/exhibits/funerary-laws-from-iulis-on-keos/ ; dossier de référence : https://cgrn.ulg.ac.be/file/35/ ; DOI : https://doi.org/10.54510/CGRN35.
+2. Plutarque, *Vie de Solon* 21, à confronter avec les dispositions locales sans supposer une identité de rédaction.
+3. Démosthène, discours 43, *Contre Macartatos*, § 62, dispositions funéraires attribuées au législateur athénien.
+4. Homère, *Iliade*, XXIV, notamment les lamentations sur Hector ; source littéraire non normative.
+5. *Diotíma*, « Funeral law » (traduction anglaise comparée et discutée dans le texte) : https://diotima-doctafemina.org/translations/anthologies/womens-life-in-greece-and-rome-selections/iv-legal-status-in-the-greek-world/77-funeral-law/.
+
+## Bibliographie critique
+
+- Alexiou, Margaret, *The Ritual Lament in Greek Tradition*, Cambridge, Cambridge University Press, 1974.
+- Arnaoutoglou, Ilias, *Ancient Greek Laws: A Sourcebook*, Londres, Routledge, 1998.
+- Bouvier, David, « Chanter les morts dans l'Iliade : entre mémoire féminine et mémoire masculine », *Gaia* 14, 2011, p. 11–34, https://doi.org/10.3406/gaia.2011.1549.
+- Durkheim, Émile, *Les Formes élémentaires de la vie religieuse*, Paris, Alcan, 1912.
+- Ekroth, Gunnel, *The Sacrificial Rituals of Greek Hero-Cults in the Archaic to the Early Hellenistic Periods*, Liège, 2002, discussion de la loi de Céos : https://doi.org/10.4000/books.pulg.503.
+- Garland, Robert, *The Greek Way of Death*, Londres, Duckworth, 1985.
+- Girard, René, *La Violence et le Sacré*, Paris, Grasset, 1972.
+- Hegel, G. W. F., *Phänomenologie des Geistes*, 1807, sections sur la famille, la cité et la loi divine.
+- Morris, Ian, *Burial and Ancient Society: The Rise of the Greek City-State*, Cambridge, Cambridge University Press, 1987.
+- Nietzsche, Friedrich, *Zur Genealogie der Moral*, 1887.
+- Parker, Robert, *Miasma: Pollution and Purification in Early Greek Religion*, Oxford, Clarendon Press, 1983, notamment p. 34–41.
+- Parker, Robert, « Epigraphy and Greek Religion », dans *Epigraphy and the Historical Sciences*, 2012, p. 17–30, https://doi.org/10.5871/bacad/9780197265062.003.0002.
+- Sokolowski, Franciszek, *Lois sacrées des cités grecques*, Paris, 1969, no 97.
+- Vernant, Jean-Pierre, et Detienne, Marcel (dir.), *La Cuisine du sacrifice en pays grec*, Paris, Gallimard, 1979.
+
+**Note éditoriale.** Texte public préparé pour la file de publication concurrente. Son numéro et son volume sont délibérément conservés sous la forme 673 et DCLXXIII ; aucune nouvelle adresse numérotée n'est préemptée.

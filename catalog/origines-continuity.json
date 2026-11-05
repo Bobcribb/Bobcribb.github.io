@@ -220,7 +220,15 @@
     "667": "/chapitres/origines-du-sacre/667-prytanee-proces-animaux-objets-homicides-athenes/",
     "668": "/chapitres/origines-du-sacre/668-bouphonies-zeus-polieus-hache-boeuf-sacrifice-responsabilite/",
     "669": "/chapitres/origines-du-sacre/669-thargelies-athenes-pharmakoi-hipponax-harpocration-purification-civique/",
-    "670": "/chapitres/origines-du-sacre/670-hatti-cth-446-purifier-maison-sang-dieux-anciens-trameri/"
+    "670": "/chapitres/origines-du-sacre/670-hatti-cth-446-purifier-maison-sang-dieux-anciens-trameri/",
+    "671": "/chapitres/origines-du-sacre/671-labyades-delphes-obseques-depenses-lamentations-phratrie/",
+    "672": "/chapitres/origines-du-sacre/672-rome-douze-tables-morts-ville-funerailles-lamentations/",
+    "673": "/chapitres/origines-du-sacre/673-ioulis-ceos-loi-funeraire-eau-mer-purification/",
+    "674": "/chapitres/origines-du-sacre/674-antigone-sophocle-polynice-sepulture-lois-non-ecrites-souillure/",
+    "675": "/chapitres/origines-du-sacre/675-antigone-polynice-sophocle-sepulture-lois-non-ecrites-creon/",
+    "676": "/chapitres/origines-du-sacre/676-athenes-patrios-nomos-thucydide-2-34-morts-guerre-cimetiere/",
+    "677": "/chapitres/origines-du-sacre/677-gambreion-loi-deuil-vetements-thesmophories-interdits/",
+    "678": "/chapitres/origines-du-sacre/678-sparte-lycurgue-onze-jours-demeter-epitaphes-souillure/"
   },
   "historical_aliases": {
     "/chapitres/origines-du-sacre/576-payer-pour-passer-tarifs-bacs-offrandes/": {
@@ -274,7 +282,7 @@
     "/chapitres/origines-du-sacre/576-payer-pour-passer-tarifs-bacs-offrandes/": "/chapitres/origines-du-sacre/annexe-576-payer-pour-passer-variante/",
     "/chapitres/origines-du-sacre/577-naufrages-secours-divins-survivants/": "/chapitres/origines-du-sacre/580-naufrages-secours-divins-survivants/"
   },
-  "last_numbered_chapter": 670,
+  "last_numbered_chapter": 678,
   "preserved_source_sha256": {
     "chapitres/origines-du-sacre/576-bacs-peages-offrandes-passage.md": "b6704b3484d0c9e0c2e80ea9bdb7e0efa7c6b9723b9b9134f3b7e09c8357e3b1",
     "chapitres/origines-du-sacre/577-monnaies-funeraires-charon-preuves-archeologiques.md": "b4a8e672fb28c90811f531e385cde4bd03aa9f8809613ca6cc8da44e78adf55b",

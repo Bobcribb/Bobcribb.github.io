@@ -780,6 +780,42 @@
         "url": "/chapitres/encyclopedie/chapitre-432-demeter-chthonia-hermione-fete-sacrifice-klymenos-topographie-sacree/",
         "title": "Chapitre 432 — Chapitre 432 — Déméter Chthonia à Hermione : la déesse de la terre profonde, le sacrifice estival et le sanctuaire de Klyménos",
         "source": "chapitres/encyclopedie/chapitre-432-demeter-chthonia-hermione-fete-sacrifice-klymenos-topographie-sacree.md"
+      },
+      {
+        "number": 433,
+        "url": "/chapitres/encyclopedie/chapitre-433-athena-lindia-rhodes-chronique-lindos-anathemes-epiphanies-danaides/",
+        "title": "Chapitre 433 — Chapitre 433 — Athéna Lindia : la Chronique de Lindos, les offrandes perdues et les épiphanies de la déesse",
+        "source": "chapitres/encyclopedie/chapitre-433-athena-lindia-rhodes-chronique-lindos-anathemes-epiphanies-danaides.md"
+      },
+      {
+        "number": 434,
+        "url": "/chapitres/encyclopedie/chapitre-434-apollon-ptoios-oracle-beotie-heros-ptoios-kouroi-trepieds/",
+        "title": "Chapitre 434 — Chapitre 434 — Apollon Ptoios et le héros Ptoios : oracle de Béotie, kouroi archaïques et souveraineté fédérale",
+        "source": "chapitres/encyclopedie/chapitre-434-apollon-ptoios-oracle-beotie-heros-ptoios-kouroi-trepieds.md"
+      },
+      {
+        "number": 435,
+        "url": "/chapitres/encyclopedie/chapitre-435-athena-itonia-iodama-coronee-philia-pamboiotia-federal-cultes/",
+        "title": "Chapitre 435 — Chapitre 435 — Athéna Itonia et Iodama : deux sanctuaires, le regard pétrifiant et la mémoire fédérale des Grecs",
+        "source": "chapitres/encyclopedie/chapitre-435-athena-itonia-iodama-coronee-philia-pamboiotia-federal-cultes.md"
+      },
+      {
+        "number": 436,
+        "url": "/chapitres/encyclopedie/chapitre-436-artemis-laphria-calydon-patras-fete-sacrifices-transferts/",
+        "title": "Chapitre 436 — Chapitre 436 — Artémis Laphria : Calydon, Patras, la fête du feu et la circulation des cultes",
+        "source": "chapitres/encyclopedie/chapitre-436-artemis-laphria-calydon-patras-fete-sacrifices-transferts.md"
+      },
+      {
+        "number": 437,
+        "url": "/chapitres/encyclopedie/chapitre-437-hera-lakinia-crotone-capo-colonna-nossis-hannibal-sanctuaire/",
+        "title": "Chapitre 437 — Héra Lakinia (Ἥρα Λακινία) : la déesse du cap, les dons des femmes, Héraclès et la souveraineté du sanctuaire de Crotone",
+        "source": "chapitres/encyclopedie/chapitre-437-hera-lakinia-crotone-capo-colonna-nossis-hannibal-sanctuaire.md"
+      },
+      {
+        "number": 438,
+        "url": "/chapitres/encyclopedie/chapitre-438-athena-lindia-chronique-lindos-danaides-offrandes-epiphanies-memoire/",
+        "title": "Chapitre 438 — Athéna Lindia et la Chronique de Lindos : le sanctuaire, les offrandes disparues, les épiphanies et la fabrication savante du passé",
+        "source": "chapitres/encyclopedie/chapitre-438-athena-lindia-chronique-lindos-danaides-offrandes-epiphanies-memoire.md"
       }
     ],
     "tragedies": [
@@ -1584,14 +1620,42 @@
       {
         "number": 233,
         "url": "/chapitres/tragedies/volume-ccxxxiii-sophocle-helenes-apaitesis-revendication-helene-ambassade-antenor-justice-troie/",
-        "title": "Volume CCXXXIII (233) — Sophocle, La Revendication d’Hélène (Helenēs apaitēsis, Ἑλένης ἀπαίτησις) — L'ambassade devant Troie, la parole mise en échec et la responsabilité de la guerre",
-        "source": "chapitres/tragedies/volume-ccxxxiii-sophocle-helenes-apaitesis-revendication-helene-ambassade-antenor-justice-troie.md"
+        "title": "Volume CCXXXIII (233) — Sophocle, La Revendication d’Hélène · monographie de référence de Helenēs apaitēsis",
+        "source": "chapitres/tragedies/volume-ccxxxiii-sophocle-helenes-apaitesis-revendication-helene-ambassade-antenor-justice-troie.md",
+        "excerpt": "Sophocle, Helenēs apaitēsis (Ἑλένης ἀπαίτησις) ; Stefan Radt, Tragicorum Graecorum Fragmenta IV (1999), F 176–180a. Diplomatie mythique, justice, responsabilité de la guerre, fragments et transmission. Étude de référence.",
+        "work_id": "sophocle:helenes-apaitesis",
+        "work_role": "primary",
+        "work_primary_url": "/chapitres/tragedies/volume-ccxxxiii-sophocle-helenes-apaitesis-revendication-helene-ambassade-antenor-justice-troie/",
+        "work_guide_url": "/theatre/sophocle-helenes-apaitesis/",
+        "work_aliases": [
+          "La Revendication d’Hélène",
+          "La Réclamation d’Hélène",
+          "Demande de restitution d’Hélène",
+          "Helenēs apaitēsis",
+          "Ἑλένης ἀπαίτησις"
+        ],
+        "work_source_reference": "Stefan Radt, Tragicorum Graecorum Fragmenta IV (1999), F 176–180a",
+        "ancient_work_count_contribution": 1
       },
       {
         "number": 234,
         "url": "/chapitres/tragedies/volume-ccxxxiv-sophocle-helenes-apaitesis-reclamation-helene-ambassade-logos-antenor/",
-        "title": "Volume CCXXXIV (234) — Sophocle, La Réclamation d’Hélène (Helenēs apaitēsis, Ἑλένης ἀπαίτησις) — L'ambassade avant la guerre : restitution, parole politique, hospitalité et responsabilité tragique",
-        "source": "chapitres/tragedies/volume-ccxxxiv-sophocle-helenes-apaitesis-reclamation-helene-ambassade-logos-antenor.md"
+        "title": "Volume CCXXXIV (234) — Sophocle, La Réclamation d’Hélène · étude complémentaire de Helenēs apaitēsis",
+        "source": "chapitres/tragedies/volume-ccxxxiv-sophocle-helenes-apaitesis-reclamation-helene-ambassade-logos-antenor.md",
+        "excerpt": "Sophocle, Helenēs apaitēsis (Ἑλένης ἀπαίτησις) ; Stefan Radt, Tragicorum Graecorum Fragmenta IV (1999), F 176–180a. Parole politique, hospitalité d’Anténor, argumentation, hypothèses philologiques. Étude complémentaire du volume 233.",
+        "work_id": "sophocle:helenes-apaitesis",
+        "work_role": "complement",
+        "work_primary_url": "/chapitres/tragedies/volume-ccxxxiii-sophocle-helenes-apaitesis-revendication-helene-ambassade-antenor-justice-troie/",
+        "work_guide_url": "/theatre/sophocle-helenes-apaitesis/",
+        "work_aliases": [
+          "La Revendication d’Hélène",
+          "La Réclamation d’Hélène",
+          "Demande de restitution d’Hélène",
+          "Helenēs apaitēsis",
+          "Ἑλένης ἀπαίτησις"
+        ],
+        "work_source_reference": "Stefan Radt, Tragicorum Graecorum Fragmenta IV (1999), F 176–180a",
+        "ancient_work_count_contribution": 0
       },
       {
         "number": 235,
@@ -1682,6 +1746,30 @@
         "url": "/chapitres/tragedies/volume-ccxlix-sophocle-phrygiens-ares-guerre-hymenee-silence-achille-fragments-724-725/",
         "title": "Volume CCXLIX (249) — Sophocle — Les Phrygiens (Φρύγες)",
         "source": "chapitres/tragedies/volume-ccxlix-sophocle-phrygiens-ares-guerre-hymenee-silence-achille-fragments-724-725.md"
+      },
+      {
+        "number": 250,
+        "url": "/chapitres/tragedies/volume-ccl-agathon-aerope-f1-entree-exil-crete-vello-dor-atreides/",
+        "title": "Volume CCL (250) — Agathon, Aéropé (Ἀερόπη) — Une parole perdue, deux traditions : l'exil crétois, le pouvoir des Atrides et la mémoire d'une tragédie",
+        "source": "chapitres/tragedies/volume-ccl-agathon-aerope-f1-entree-exil-crete-vello-dor-atreides.md"
+      },
+      {
+        "number": 251,
+        "url": "/chapitres/tragedies/volume-ccli-agathon-alcmeon-fragment-2-muses-athemistoi-matricide-erinyes/",
+        "title": "Volume CCLI (251) — Agathon, Alcméon (Ἀλκμέων) — Les « chants contraires à la justice » : matricide, Érinyes, purification et mémoire d'une tragédie perdue",
+        "source": "chapitres/tragedies/volume-ccli-agathon-alcmeon-fragment-2-muses-athemistoi-matricide-erinyes.md"
+      },
+      {
+        "number": 252,
+        "url": "/chapitres/tragedies/volume-cclii-sophocle-akrisios-danae-persee-oracle-coffre-bronze-fragments-60-76/",
+        "title": "Volume CCLII (252) — Sophocle, Acrisios (Ἀκρίσιος) — Gouverner par la peur : oracle, enfermement de Danaé, souveraineté d'Argos et avenir de Persée",
+        "source": "chapitres/tragedies/volume-cclii-sophocle-akrisios-danae-persee-oracle-coffre-bronze-fragments-60-76.md"
+      },
+      {
+        "number": 253,
+        "url": "/chapitres/tragedies/volume-ccliii-aletes-aleites-attribution-stobee-oreste-erigone-reconnaissance/",
+        "title": "Volume CCLIII (253) — Alétès / Aleitès — Nom, faute, filiation et reconnaissance dans une tragédie grecque d'attribution incertaine",
+        "source": "chapitres/tragedies/volume-ccliii-aletes-aleites-attribution-stobee-oreste-erigone-reconnaissance.md"
       }
     ],
     "comparatif": [
@@ -2857,6 +2945,30 @@
         "url": "/chapitres/comparatif/volume-ccxlvii-mc-067-quand-les-dieux-se-marient-hierogamie-alliance-filiation-rites-et-souverainete/",
         "title": "Volume CCXLVII (247) — MC-067 — Quand les dieux se marient : hiérogamie, alliance, filiation, rites et souveraineté",
         "source": "chapitres/comparatif/volume-ccxlvii-mc-067-quand-les-dieux-se-marient-hierogamie-alliance-filiation-rites-et-souverainete.md"
+      },
+      {
+        "number": 248,
+        "url": "/chapitres/comparatif/volume-ccxlviii-mc-070-le-nom-des-dieux-isis-re-marduk-zeus-veda-exode-pouvoir-de-nommer/",
+        "title": "Volume CCXLVIII (248) — MC-070 — Nommer les dieux, connaître leur puissance : le nom secret de Rê, les cinquante noms de Marduk, Zeus « quel que soit son nom », la parole védique et le Nom révélé dans l'Exode",
+        "source": "chapitres/comparatif/volume-ccxlviii-mc-070-le-nom-des-dieux-isis-re-marduk-zeus-veda-exode-pouvoir-de-nommer.md"
+      },
+      {
+        "number": 249,
+        "url": "/chapitres/comparatif/volume-ccxlix-mc-069-quand-les-dieux-changent-de-nom-traductions-religieuses-identifications-divines-souverainete-empires/",
+        "title": "Volume CCXLIX (249) — MC-069 — Quand les dieux changent de nom : traductions religieuses, identifications divines et souveraineté des empires",
+        "source": "chapitres/comparatif/volume-ccxlix-mc-069-quand-les-dieux-changent-de-nom-traductions-religieuses-identifications-divines-souverainete-empires.md"
+      },
+      {
+        "number": 250,
+        "url": "/chapitres/comparatif/volume-ccl-mc-068-quand-les-dieux-batissent-temples-palais-fondations-architecture-cosmique/",
+        "title": "Volume CCL (250) — MC-068 — Quand les dieux bâtissent : palais divins, fondations sacrées, architecture cosmique et souveraineté",
+        "source": "chapitres/comparatif/volume-ccl-mc-068-quand-les-dieux-batissent-temples-palais-fondations-architecture-cosmique.md"
+      },
+      {
+        "number": 251,
+        "url": "/chapitres/comparatif/volume-ccli-mc-071-qui-ecrit-pour-les-dieux-nisaba-nabu-thot-seshat-ecriture-et-autorite/",
+        "title": "Volume CCLI (251) — MC-071 — Qui écrit pour les dieux ? Nisaba, Nabû, Thot et Seshat : invention des signes, décisions divines, lois gravées et autorité des scribes de Sumer à l'Égypte, de la Grèce à Israël et à l'Asie",
+        "source": "chapitres/comparatif/volume-ccli-mc-071-qui-ecrit-pour-les-dieux-nisaba-nabu-thot-seshat-ecriture-et-autorite.md"
       }
     ],
     "comedies": [
@@ -3501,6 +3613,30 @@
         "url": "/chapitres/comedies/volume-107-philyllios-plyntriai-nausikaa-lessive-laispodias-scholie-odyssee/",
         "title": "Volume CVII (107) — Philyllios, Plyntriai ē Nausikaa (Πλύντριαι ἢ Ναυσικάα) — Les Lavandières ou Nausicaa : travail féminin, hospitalité odysséenne et satire des procès",
         "source": "chapitres/comedies/volume-107-philyllios-plyntriai-nausikaa-lessive-laispodias-scholie-odyssee.md"
+      },
+      {
+        "number": 108,
+        "url": "/chapitres/comedies/volume-108-philyllios-phreorychos-creuseur-puits-toros-eau-amandes-banquet/",
+        "title": "Volume CVIII (108) — Philyllios, Phreōrychos (Φρεωρύχος) — Le Creuseur de puits : eau, outillage défaillant, travail et secondes tables",
+        "source": "chapitres/comedies/volume-108-philyllios-phreorychos-creuseur-puits-toros-eau-amandes-banquet.md"
+      },
+      {
+        "number": 109,
+        "url": "/chapitres/comedies/volume-109-philyllios-fragments-incertains-19-22-bedy-air-cigale-laine-philonides/",
+        "title": "Volume CIX (109) — Philyllios — Fragments sans titre I : bédu, air salubre, cigales, escargots, laine et Philonidès (frr. 19–22 K.-A.)",
+        "source": "chapitres/comedies/volume-109-philyllios-fragments-incertains-19-22-bedy-air-cigale-laine-philonides.md"
+      },
+      {
+        "number": 110,
+        "url": "/chapitres/comedies/volume-110-philyllios-fragments-incertains-23-33-vins-poissons-torches-laine-loi-desir/",
+        "title": "Volume CX (110) — Philyllios, fragments de pièces indéterminées II — Vins, poissons, torches, droit, désir, eau et textile (frr. 23–33 K.-A.)",
+        "source": "chapitres/comedies/volume-110-philyllios-fragments-incertains-23-33-vins-poissons-torches-laine-loi-desir.md"
+      },
+      {
+        "number": 111,
+        "url": "/chapitres/comedies/volume-111-philyllios-poleis-cites-pax-regis-tablettes-dorique-poissons-metiers/",
+        "title": "Volume CXI (111) — Philyllios, Poleis (Πόλεις / Πόλις) — Les Cités : paix du Roi, tablettes doriennes, métiers, circulation des poissons, justice et économie politique du rire",
+        "source": "chapitres/comedies/volume-111-philyllios-poleis-cites-pax-regis-tablettes-dorique-poissons-metiers.md"
       }
     ],
     "origines-du-sacre": [
@@ -4823,6 +4959,54 @@
         "url": "/chapitres/origines-du-sacre/670-hatti-cth-446-purifier-maison-sang-dieux-anciens-trameri/",
         "title": "Chapitre 670 — Chapitre 670 — Purifier une maison du sang : le rituel hittite CTH 446 et les dieux anciens",
         "source": "chapitres/origines-du-sacre/670-hatti-cth-446-purifier-maison-sang-dieux-anciens-trameri.md"
+      },
+      {
+        "number": 671,
+        "url": "/chapitres/origines-du-sacre/671-labyades-delphes-obseques-depenses-lamentations-phratrie/",
+        "title": "Chapitre 671 — Chapitre 671 — Le deuil sous le contrôle d'une communauté : les Labyades de Delphes, le silence et les sanctions funéraires",
+        "source": "chapitres/origines-du-sacre/671-labyades-delphes-obseques-depenses-lamentations-phratrie.md"
+      },
+      {
+        "number": 672,
+        "url": "/chapitres/origines-du-sacre/672-rome-douze-tables-morts-ville-funerailles-lamentations/",
+        "title": "Chapitre 672 — Chapitre 672 — Écarter les morts, limiter les larmes : la dixième table romaine et le droit des funérailles",
+        "source": "chapitres/origines-du-sacre/672-rome-douze-tables-morts-ville-funerailles-lamentations.md"
+      },
+      {
+        "number": 673,
+        "url": "/chapitres/origines-du-sacre/673-ioulis-ceos-loi-funeraire-eau-mer-purification/",
+        "title": "Chapitre 673 — Chapitre 673 — La mort dans la maison grecque : Ioulis de Céos, la dépense funéraire et le retour à la pureté",
+        "source": "chapitres/origines-du-sacre/673-ioulis-ceos-loi-funeraire-eau-mer-purification.md"
+      },
+      {
+        "number": 674,
+        "url": "/chapitres/origines-du-sacre/674-antigone-sophocle-polynice-sepulture-lois-non-ecrites-souillure/",
+        "title": "Chapitre 674 — Chapitre 674 — Refuser la sépulture : l'Antigone de Sophocle, le corps de Polynice et les limites du pouvoir",
+        "source": "chapitres/origines-du-sacre/674-antigone-sophocle-polynice-sepulture-lois-non-ecrites-souillure.md"
+      },
+      {
+        "number": 675,
+        "url": "/chapitres/origines-du-sacre/675-antigone-polynice-sophocle-sepulture-lois-non-ecrites-creon/",
+        "title": "Chapitre 675 — Chapitre 675 — Refuser la sépulture : Antigone, Polynice, Créon et les lois non écrites",
+        "source": "chapitres/origines-du-sacre/675-antigone-polynice-sophocle-sepulture-lois-non-ecrites-creon.md"
+      },
+      {
+        "number": 676,
+        "url": "/chapitres/origines-du-sacre/676-athenes-patrios-nomos-thucydide-2-34-morts-guerre-cimetiere/",
+        "title": "Chapitre 676 — Chapitre 676 — La cité porte ses morts : Thucydide II, 34, le patrios nomos et la mémoire publique à Athènes",
+        "source": "chapitres/origines-du-sacre/676-athenes-patrios-nomos-thucydide-2-34-morts-guerre-cimetiere.md"
+      },
+      {
+        "number": 677,
+        "url": "/chapitres/origines-du-sacre/677-gambreion-loi-deuil-vetements-thesmophories-interdits/",
+        "title": "Chapitre 677 — Chapitre 677 — Quand le deuil doit finir : Gambreion, le vêtement des morts et les sanctions religieuses",
+        "source": "chapitres/origines-du-sacre/677-gambreion-loi-deuil-vetements-thesmophories-interdits.md"
+      },
+      {
+        "number": 678,
+        "url": "/chapitres/origines-du-sacre/678-sparte-lycurgue-onze-jours-demeter-epitaphes-souillure/",
+        "title": "Chapitre 678 — Chapitre 678 — Habiter parmi les morts : Lycurgue, les onze jours du deuil et le droit funéraire de Sparte",
+        "source": "chapitres/origines-du-sacre/678-sparte-lycurgue-onze-jours-demeter-epitaphes-souillure.md"
       }
     ]
   },
