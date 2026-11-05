@@ -9,7 +9,7 @@ import unittest
 import uuid
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
-from editorial_queue import COLLECTIONS, HOLDS, INBOX, REGISTRY, apply, digest, scan, validate
+from editorial_queue import COLLECTIONS, HOLDS, INBOX, REGISTRY, QUARANTINED_INVALID_REQUESTS, apply, digest, scan, validate
 
 
 def git(root, *args, check=True):
@@ -182,6 +182,25 @@ class AllocationTests(unittest.TestCase):
         self.hold(published)
         with self.assertRaisesRegex(ValueError, "déjà attribuée"):
             validate(self.root)
+
+
+    def test_non_uuid_mc069_request_is_hash_locked_and_kept_without_blocking_queue(self):
+        """A malformed historical submission must survive without blocking unrelated studies."""
+        source = Path(__file__).resolve().parents[1] / INBOX / "20261105-mc-069-souffle-vent-vie-philologie.json"
+        original = source.read_bytes()
+        self.assertEqual(digest(original), QUARANTINED_INVALID_REQUESTS[source.name]["sha256"])
+        self.assertEqual(json.loads(original)["collection"], "comparatif")
+        self.assertEqual(len(json.loads(original)["markdown"]), 91145)
+        held = self.root / INBOX / source.name
+        held.parent.mkdir(parents=True, exist_ok=True)
+        held.write_bytes(original)
+        request(self.root, "valide-apres-quarantaine")
+        self.assertEqual(apply(self.root), ["chapitres/origines-du-sacre/584-valide-apres-quarantaine.md"])
+        self.assertEqual(held.read_bytes(), original)
+        self.assertEqual(apply(self.root), [])
+        held.write_bytes(original + b"\\n")
+        with self.assertRaisesRegex(ValueError, "modifié"):
+            apply(self.root)
 
 
 class GitRaceTests(unittest.TestCase):
