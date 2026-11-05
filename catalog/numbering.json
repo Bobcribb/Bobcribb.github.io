@@ -1628,6 +1628,12 @@
         "url": "/chapitres/tragedies/volume-ccxliv-sophocle-phaiakes-pheaciens-alcinoos-arete-nausicaa-argonautes-titre-incertain/",
         "title": "Volume CCXLIV (244) — Sophocle — Les Phéaciens (Phaiakes, Φαίακες) : hospitalité, reconnaissance et souveraineté dans une œuvre perdue d'identité incertaine",
         "source": "chapitres/tragedies/volume-ccxliv-sophocle-phaiakes-pheaciens-alcinoos-arete-nausicaa-argonautes-titre-incertain.md"
+      },
+      {
+        "number": 245,
+        "url": "/chapitres/tragedies/volume-ccxlv-sophocle-philoctete-a-troie-plaie-guerison-machaon-podalirios-paris/",
+        "title": "Volume CCXLV (245) — Sophocle — Philoctète à Troie : la plaie, le retour du combattant, la guérison et la responsabilité des Achéens",
+        "source": "chapitres/tragedies/volume-ccxlv-sophocle-philoctete-a-troie-plaie-guerison-machaon-podalirios-paris.md"
       }
     ],
     "comparatif": [
@@ -3393,6 +3399,12 @@
         "url": "/chapitres/comedies/volume-102-philyllios-atalante-titre-souda-attribution-douteuse-chasse-course-mythes/",
         "title": "Volume CII (102) — Philyllios, Atalantē (Ἀταλάντη) — Un titre incertain, une héroïne multiple : chasse, course, mariage et histoire d'une comédie sans fragments",
         "source": "chapitres/comedies/volume-102-philyllios-atalante-titre-souda-attribution-douteuse-chasse-course-mythes.md"
+      },
+      {
+        "number": 103,
+        "url": "/chapitres/comedies/volume-103-philyllios-auge-telephos-banquet-pannychis-pain-chanson-paratragedie/",
+        "title": "Volume CIII (103) — Philyllios, Augē (Αὔγη) — La prêtresse, le banquet et la paratragédie : trois fragments, un mythe aux récits discordants",
+        "source": "chapitres/comedies/volume-103-philyllios-auge-telephos-banquet-pannychis-pain-chanson-paratragedie.md"
       }
     ],
     "origines-du-sacre": [
@@ -4661,6 +4673,12 @@
         "url": "/chapitres/origines-du-sacre/661-delphes-terre-sacree-crisa-amphissa-amphictyons-philippe/",
         "title": "Chapitre 661 — La terre interdite de Delphes : Kirrha, Amphissa, les Amphictyons et les usages politiques du sacrilège",
         "source": "chapitres/origines-du-sacre/661-delphes-terre-sacree-crisa-amphissa-amphictyons-philippe.md"
+      },
+      {
+        "number": 662,
+        "url": "/chapitres/origines-du-sacre/662-cyrene-loi-cathartique-apollon-souillure-expiation-suppliants/",
+        "title": "Chapitre 662 — Réparer la souillure à Cyrène : l’oracle d’Apollon, la loi cathartique, les victimes erronées et les suppliants",
+        "source": "chapitres/origines-du-sacre/662-cyrene-loi-cathartique-apollon-souillure-expiation-suppliants.md"
       }
     ]
   },

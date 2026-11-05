@@ -537,6 +537,12 @@
           "path": "chapitres/origines-du-sacre/661-delphes-terre-sacree-crisa-amphissa-amphictyons-philippe.md",
           "request_sha256": "63bc7267bb370f1a3537b33838ea534e2878d79c6b45505435e5079f6aee6a95",
           "initial_source_sha256": "1197fd7d069b32abed57f4358ec3f0e734822be8f7c14f5ed3b620494c29bca6"
+        },
+        "d0ba5483-123c-4943-9525-76cd9d9f1894": {
+          "number": 662,
+          "path": "chapitres/origines-du-sacre/662-cyrene-loi-cathartique-apollon-souillure-expiation-suppliants.md",
+          "request_sha256": "04e02dab52e5216c77f8f660889312e7dddabec6a0e20d7aba8c1978bcb6a785",
+          "initial_source_sha256": "25c31b7f013691fb7ae3bdf5402f2ec3e42b36db575fb775c9ee42791adbe865"
         }
       }
     },
@@ -1348,6 +1354,12 @@
           "path": "chapitres/comedies/volume-102-philyllios-atalante-titre-souda-attribution-douteuse-chasse-course-mythes.md",
           "request_sha256": "0a03b8ea71b934a66ac10d94a89c4b5bad8fd6624c2e00f1e412f6fe222b6962",
           "initial_source_sha256": "9263d887fd89fa81760be9f598394e9c75bdac614429293041c4d4850d938817"
+        },
+        "e76a17c4-2f5c-4c12-9ac8-7f6d2198b4a1": {
+          "number": 103,
+          "path": "chapitres/comedies/volume-103-philyllios-auge-telephos-banquet-pannychis-pain-chanson-paratragedie.md",
+          "request_sha256": "158cb8be9040b261d83344f61b34b0ab4f2f18190865fda0d7b8b0b31c963429",
+          "initial_source_sha256": "fca5e69bd5f4db02ba04fd966e8ff8e50c1a50993269fc95ea24e8560ab0cb64"
         }
       }
     },
@@ -1714,6 +1726,12 @@
           "path": "chapitres/tragedies/volume-ccxliv-sophocle-phaiakes-pheaciens-alcinoos-arete-nausicaa-argonautes-titre-incertain.md",
           "request_sha256": "84fb152cec18a1f9aeb09d2079570e932d6c9b59ce90aec83d49d5e90057d7aa",
           "initial_source_sha256": "9da3d9f19e9d10517e083a1ffacc4530bdfd03f152ad57bfcaf9a626d9faf536"
+        },
+        "eaf32cb8-197a-421b-bd64-8f19bb7b364b": {
+          "number": 245,
+          "path": "chapitres/tragedies/volume-ccxlv-sophocle-philoctete-a-troie-plaie-guerison-machaon-podalirios-paris.md",
+          "request_sha256": "2fe6cf6b4d8121c3f4eaa7e19cd45d8391c81b00f7396eff5b44118a460cc1e7",
+          "initial_source_sha256": "966b0a6c50deb766f8fa6e7d590a315ff35ee1146c3edd9945690d6ffdaba7a6"
         }
       }
     },

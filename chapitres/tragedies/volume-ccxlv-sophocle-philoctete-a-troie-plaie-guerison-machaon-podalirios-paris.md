@@ -1,0 +1,580 @@
+# MYTHOS — Encyclopédie des tragédies grecques — Volume CCXLV (245)
+
+## Sophocle — *Philoctète à Troie* : la plaie, le retour du combattant, la guérison et la responsabilité des Achéens
+
+**Monographie universitaire intégrale — 5 novembre 2026.**  
+**Auteur antique :** Sophocle. **Nature :** tragédie fragmentaire distincte du *Philoctète* conservé. **Corpus direct :** *Tragicorum Graecorum Fragmenta* IV², éd. Stefan Radt, fragments **697–703**. **Datation :** inconnue. **Sujet probable :** la période troyenne de la légende de Philoctète, alors que le héros a quitté Lemnos mais souffre encore de sa blessure. **Enjeu critique :** ne pas confondre une seconde pièce antique avec le *Philoctète* intégral, représenté en 409 av. J.-C.
+
+**Méthode.** Les indications [F] désignent les fragments directement transmis sous le titre de l'œuvre ; [T] les témoignages sur sa transmission ; [M] les versions mythologiques extérieures ; [H] les hypothèses dramaturgiques ; [Φ] les interprétations philosophiques contemporaines ; [I] les objets archéologiques. Aucun dialogue grec fictif, aucun scénario inventé et aucun nom de locuteur conjectural ne seront présentés comme les mots ou les faits certains de Sophocle. La place qu'une reconstruction donne aux épisodes ne relève pas de l'édition critique. Les seuls marqueurs de numérotation propre à la présente livraison sont CCXLV et 245.
+
+---
+
+# I. Définition de l'œuvre et question centrale
+
+### 1. La guerre réclame celui qu'elle a rejeté
+
+Le cas de Philoctète contient une contradiction irréductible. Les Achéens ont abandonné un compagnon dont la blessure était devenue intolérable, puis découvrent qu'ils ne peuvent achever leur expédition sans lui et sans l'arc d'Héraclès. Ce changement d'attitude ne constitue pas nécessairement une conversion morale : l'armée peut avoir besoin d'un homme sans reconnaître que son exclusion antérieure fut une faute.
+
+La seconde pièce de Sophocle, conventionnellement appelée *Philoctète à Troie*, semble s'inscrire après le retour de l'archer parmi les Achéens. Le fragment 697 conserve le motif d'une plaie encore malodorante. Le héros n'est donc pas automatiquement transformé en homme sain dès l'instant où il accepte de quitter Lemnos. Son retour implique un défi : la communauté qui le sollicite doit de nouveau supporter la proximité de son corps.
+
+### 2. Pourquoi une étude autonome est nécessaire
+
+Le *Philoctète* conservé examine principalement la tentative d'Ulysse et de Néoptolème pour obtenir l'adhésion d'un homme abandonné sur Lemnos. La guérison y est promise, non représentée : Héraclès annonce que le malade se rendra à Troie et y retrouvera sa puissance. La tragédie perdue concerne une autre étape du même destin, celle où la promesse pourrait devenir effective.
+
+Il serait trompeur de lui attribuer la distribution, les dialogues ou les choix éthiques du drame de 409. Les deux œuvres peuvent être comparées sans supposer une continuité dramaturgique exacte. Ce qui constitue un épisode postérieur dans le mythe n'a pas nécessairement été représenté postérieurement dans la carrière de Sophocle.
+
+### 3. Deux *Philoctète* sophocléens, non deux versions d'un même texte
+
+Le texte intégral de la tragédie représentée en 409 av. J.-C. est conservé et numéroté par **vers 1–1471**. Le présent corpus perdu est numéroté **fragments 697–703 Radt**. Ces deux systèmes ne se recoupent pas : la référence F 697 ne signifie pas le vers 697 du drame conservé.
+
+Le titre distinguant la phase troyenne est un repère bibliographique essentiel. Les œuvres d'Eschyle et d'Euripide consacrées au recrutement de Philoctète, toutes deux perdues, ne sont pas davantage des témoins directs du texte ici étudié. La monographie conserve donc les frontières d'auteur, de pièce et de mode de transmission.
+
+### 4. Une suite mythologique sans date de représentation
+
+L'année 409 constitue une date sûre pour le *Philoctète* conservé, pas pour *Philoctète à Troie*. Aucun témoignage n'impose la chronologie des compositions, une production en trilogie ou une représentation commune. Le mot « suite » peut désigner une relation entre les épisodes mythiques ; il ne prouve pas l'existence d'une entreprise scénique conçue en plusieurs volets.
+
+Un historien ne doit pas déduire la succession des créations de l'ordre dans lequel les héros voyagent. Il faut garder distinctes la chronologie de la guerre de Troie, la date de la pièce conservée, et la date inconnue de la pièce perdue.
+
+### 5. La seconde partie du problème philoctétéen
+
+La question initiale de la tragédie conservée était celle du consentement : comment persuader le blessé de rejoindre ceux qui l'ont trahi ? Une fois Philoctète arrivé au camp, une question nouvelle apparaît : comment le soigner, restaurer sa dignité et lui demander de combattre sans réduire son corps à un instrument de la victoire ?
+
+L'identité de la pièce perdue tient dans ce passage du recrutement à la réintégration. Nous ne savons pas exactement comment Sophocle développa cette matière. Mais le contraste entre les versions mythiques permet une enquête autonome, fondée sur les fragments et non sur une reprise de la tragédie intégrale.
+
+---
+
+# II. Critique du corpus F 697–703 Radt
+
+### 6. Pourquoi les fragments ne racontent pas l'intrigue
+
+L'édition de Stefan Radt ordonne la documentation selon les titres et les témoins antiques. Ces numéros ne sont pas des séquences dramatiques. Une citation chez un anthologiste peut provenir de n'importe quel moment de la pièce ; un grammairien peut retenir un seul mot parce qu'il est rare, sans intérêt pour son contexte scénique.
+
+Il est donc illégitime de lire F 697 comme nécessairement le prologue, F 698 comme le premier épisode et F 703 comme la fin du drame. La connaissance exige de distinguer le fragment antique, la raison de sa conservation et l'hypothèse moderne qui lui attribue une fonction.
+
+### 7. F 697 : l'insupportable odeur de la plaie
+
+Le fragment **F 697 Radt** conserve une phrase relative à l'odeur du corps blessé. Selon une paraphrase prudente, celui qui parle prie ou avertit ses compagnons de ne pas être incommodés par la puanteur. L'attribution à Philoctète est très vraisemblable, car l'odeur de sa blessure constitue le signe matériel qui avait motivé son abandon.
+
+Toutefois le fragment ne dit pas avec certitude qui reçoit cette parole. S'agit-il d'un chef, du médecin, d'un groupe d'Achéens ou d'un interlocuteur singulier ? On ne le sait pas. Il serait abusif d'inventer une apostrophe à Agamemnon ou un dialogue avec Machaon. L'essentiel est déjà considérable : au moment où l'armée désire la présence du héros, son corps reste socialement difficile à accueillir.
+
+### 8. F 697 et l'ambivalence de l'adresse
+
+Un avertissement à propos de sa propre odeur peut être prononcé sur plusieurs modes. Il pourrait exprimer la honte du malade, une ironie adressée aux anciens compagnons ou le simple souci de prévenir leur gêne. Aucun ton ne peut être assuré à partir d'un fragment détaché de son contexte métrique et théâtral.
+
+Cette incertitude importe à la morale de l'œuvre. Une réplique ironique renverserait le jugement du groupe ; une parole honteuse montrerait au contraire que le malade porte intérieurement le stigmate qui lui fut imposé. Les deux lectures ont une portée philosophique, mais ni l'une ni l'autre ne doit devenir un fait scénique.
+
+### 9. F 698 : la mort comme terme des maladies
+
+Le **fragment 698 Radt** formule une réflexion selon laquelle la mort représente l'ultime délivrance des maladies. On peut la rapprocher de l'expérience extrême de Philoctète, mais le nom du locuteur n'est pas établi par cette seule idée. Elle ne révèle ni une tentative de suicide ni une scène où un médecin jugerait son patient incurable.
+
+Il serait également trompeur de transformer la maxime en doctrine systématique du poète. L'énoncé peut traduire un désespoir passager, une proposition débattue ou une pensée générale. Le fragment demeure particulièrement pertinent à une œuvre où la guérison est attendue, parce qu'il montre l'alternative radicale devant laquelle la souffrance prolongée peut placer une vie.
+
+### 10. F 699 : un son plus qu'un récit
+
+Le **fragment 699 Radt** conserve une manifestation vocale de la détresse. Dans la tragédie, un cri n'est pas un simple renseignement : sa durée, sa répétition et sa puissance physique peuvent transformer l'espace d'écoute. Mais une exclamation arrachée à son contexte ne renseigne presque rien sur le dispositif dramatique qui la portait.
+
+On peut comparer cette trace aux accès douloureux du *Philoctète* de 409, notamment dans la grande crise des vers 730–826. On ne doit pas conclure à une reprise verbale ou musicale de la même scène. L'analogie est utile pour analyser le corps souffrant au théâtre, non pour reconstituer le texte perdu.
+
+### 11. F 700 : le serpent et la mémoire de la morsure
+
+Le **fragment 700 Radt** est associé à une mention de serpent, motif central de la blessure. Selon les versions, Philoctète fut mordu près d'un espace sacré pendant le voyage vers Troie. Le serpent appartient ainsi à la mémoire de l'événement qui a conduit le héros à l'exclusion.
+
+Ce seul indice ne permet pourtant pas de décider si la pièce racontait l'accident, utilisait une comparaison animale ou faisait référence à un rite. Il serait infondé d'en déduire une description de sanctuaire, un oracle ou une nouvelle apparition du serpent sur scène. La présence du motif est mieux établie que sa fonction dramatique.
+
+### 12. F 701–703 : la limite de la reconstitution
+
+Les fragments **701 à 703** complètent le dossier attribué à la pièce. Leur état ne permet pas d'assigner sûrement un médecin, un duel, un messager ou un dénouement à chacun des derniers numéros. La critique ne doit pas fabriquer une suite narrative là où l'édition présente des restes discontinus.
+
+Il est possible de tirer profit d'un matériau limité sans lui faire dire plus qu'il ne porte. Les lemmes et les brèves citations peuvent informer l'histoire du vocabulaire ou du texte ; ils ne permettent pas à eux seuls une reconstruction dramatique. Leur importance est documentaire, non celle d'actes successifs.
+
+### 13. Concordance critique minimale
+
+| Référence | Témoignage exploitable | Limite |
+|---|---|---|
+| Sophocle, F 697 Radt | Plaie encore malodorante | Destinataire et scène inconnus |
+| Sophocle, F 698 Radt | Mort pensée comme cessation de la maladie | Locuteur et contexte inconnus |
+| Sophocle, F 699 Radt | Manifestation de douleur | Aucun épisode identifiable |
+| Sophocle, F 700 Radt | Serpent | Récit de la morsure non reconstituable |
+| Sophocle, F 701–703 Radt | Vestiges supplémentaires | Pas de chronologie dramatique |
+| Sophocle, *Philoctète* 1408–1471 | Guérison promise par Héraclès | Autre pièce, conservée |
+| Proclos, résumé de la *Petite Iliade* | Machaon guérit Philoctète ; Pâris est tué | Source épique indirecte |
+| Pseudo-Apollodore, *Épitomé* V, 8 | Podalirios guérit Philoctète | Version mythographique différente |
+
+### 14. La citation directe et le témoignage extérieur
+
+Une citation de fragment doit être séparée d'un résumé de mythographe, même lorsque le récit semble convenir parfaitement à la pièce. Ainsi, les textes qui racontent la guérison par Machaon ou Podalirios n'attestent pas ces personnages dans les *Philoctète à Troie* de Sophocle. Ce sont des sources sur la tradition disponible, pas sur la distribution.
+
+La distinction est cruciale pour les pièces perdues : les reconstructions gagnent artificiellement en précision dès lors qu'on empile des textes de périodes différentes sans signaler leurs écarts. Ici, l'écart est conservé comme une donnée de la recherche.
+
+### 15. Ce que signifie une attestation authentique
+
+La mention d'un titre et d'un fragment garantit qu'un témoin a transmis un élément attribué à l'œuvre. Cela n'implique pas que l'attribution soit partout exempte de difficultés, ni que le fragment transmette la situation complète. L'éditeur moderne doit vérifier ses leçons, ses renvois et ses choix de classement.
+
+Pour cette raison, la référence principale est *TrGF* IV² de Radt, complétée par Pearson, Lloyd-Jones et Matthew Wright. Les systèmes de numérotation ne sont pas interchangeables. Aucun numéro de vers inventé n'est ajouté aux paroles qui nous sont parvenues.
+
+---
+
+# III. Les traditions épiques antérieures
+
+### 16. *Iliade* II, 716–725 : le chef absent
+
+Homère présente Philoctète parmi les chefs de contingents, mais précise qu'il demeure souffrant à Lemnos à la suite d'une morsure de serpent. Ses soldats continuent cependant de participer à l'expédition sous une autre autorité. L'absence du héros n'empêche donc pas la machine militaire de fonctionner, alors qu'il deviendra plus tard indispensable à l'accomplissement de la victoire.
+
+Cette tension concerne la place d'un individu dans une organisation collective. La guerre peut remplacer le chef dans sa fonction courante, mais elle découvre ensuite que sa singularité ne peut être entièrement suppléée. Ce problème fournit le contexte de la seconde pièce sans en établir le déroulement.
+
+### 17. *Odyssée* III, 188–190 : un avenir après la guerre
+
+Dans l'*Odyssée*, Nestor évoque le retour de Philoctète. Le héros n'est donc pas uniquement une figure définie par sa blessure et par son intervention contre Troie : une vie après l'expédition demeure imaginable dans la tradition épique.
+
+Cette dimension est importante pour l'éthique de la guérison. Restaurer un archer afin qu'il tue Pâris est un intérêt militaire ; rendre à un homme la possibilité de vivre au-delà de sa mission est une autre finalité. Le drame de Sophocle n'a pas nécessairement traité cette perspective, mais le corpus mythique permet d'en poser le problème.
+
+### 18. Héraclès et la transmission de l'arc
+
+Les traditions attribuent à Philoctète l'arc et les flèches d'Héraclès, reçus en relation avec les derniers moments du héros sur l'Œta. Cette arme est à la fois un instrument de guerre et un héritage doté d'un prestige exceptionnel. Le pouvoir de Philoctète n'est donc pas seulement celui d'un corps encore capable de tirer : il est associé à un objet dont la renommée précède son propriétaire.
+
+L'armée peut être tentée de rechercher d'abord l'arc. La tragédie conservée insiste précisément sur la question de savoir si l'on peut obtenir l'objet tout en méprisant la volonté de celui qui le garde. À Troie, la capacité de l'utiliser de nouveau suppose aussi de considérer le corps blessé.
+
+### 19. La blessure pendant le trajet vers Troie
+
+L'accident de Philoctète intervient, selon plusieurs récits, dans un cadre de déplacement et de sacrifice. Le détail de l'endroit, de l'action et de la relation au sacré varie selon les témoins. Un serpent le mord, provoquant un mal dont la douleur et l'odeur rendent la vie collective difficile.
+
+Il est inutile d'attribuer à cette description un diagnostic moderne certain. Le récit ne contient pas les observations qui permettraient de qualifier médicalement la pathologie. Il importe davantage de lire les relations entre douleur, odeur, rituel et exclusion, en évitant de transformer automatiquement la blessure en punition divine.
+
+### 20. La communauté choisit l'abandon
+
+Le retrait de Philoctète sur Lemnos peut être interprété, dans la tradition, comme une décision de maintenir l'expédition en dépit d'une présence trop éprouvante. La vie de l'armée et sa capacité à accomplir des rites importent plus, au moment de l'abandon, que la protection du blessé.
+
+Mais la découverte ultérieure de sa nécessité met à nu le caractère fragile de cette hiérarchie. L'intérêt militaire s'inverse ; le jugement porté sur le corps doit changer. Le fragment F 697 devient d'autant plus poignant que le retour au groupe ne supprime pas la puanteur qui avait provoqué l'exil.
+
+---
+
+# IV. Le *Philoctète* conservé comme comparaison sophocléenne
+
+### 21. La date de 409 et son exacte portée
+
+Le *Philoctète* intégral de Sophocle fut représenté en 409 av. J.-C. C'est la pièce de Lemnos : le spectateur y suit la tentative d'Ulysse de convaincre un blessé qui refuse le retour parmi les Achéens. L'année est historiquement documentée pour cette œuvre, non pour la seconde tragédie.
+
+Les événements mythologiques de la pièce perdue suivent ceux de Lemnos dans le destin du héros. Aucun témoignage ne prouve cependant qu'ils furent écrits ou représentés dans cet ordre. Cette différence entre histoire racontée et histoire du théâtre doit rester visible dans les sommaires MYTHOS.
+
+### 22. Ulysse : la victoire obtenue par la ruse
+
+Dans le drame conservé, Ulysse juge la tromperie acceptable pour accomplir une mission qu'il estime nécessaire. La coalition exige le retour de Philoctète et l'arc d'Héraclès ; Néoptolème devient provisoirement l'instrument de la stratégie. Le conflit entre efficacité et vérité constitue un axe majeur de l'action.
+
+On pourrait rencontrer une question apparentée dans la pièce perdue, lorsque les chefs s'adressent au héros dont ils ont enfin obtenu le retour. Mais aucun fragment de F 697–703 ne permet d'affirmer qu'Ulysse y occupe le rôle de principal contradicteur.
+
+### 23. Néoptolème et le retour de l'arc
+
+Néoptolème éprouve dans le *Philoctète* conservé le poids de son mensonge. Il finit par restituer l'arc. Ce geste rétablit une condition du consentement : le malade doit pouvoir disposer de sa propre arme plutôt que d'être contraint par ceux qui la lui ont soustraite.
+
+Le problème peut se prolonger à Troie : avoir rendu l'objet n'est pas avoir effacé la trahison. Mais aucune scène de remise de l'arc n'est attestée dans la pièce perdue. L'épisode de 409 sert ici de terme de comparaison philosophique.
+
+### 24. Les douleurs du héros aux vers 730–826
+
+L'épisode douloureux du *Philoctète* intégral donne à entendre un corps qui échappe à la maîtrise de son propriétaire. Les souffrances interrompent la conversation et modifient le comportement des compagnons. Le thème n'est pas seulement verbal : la douleur crée une situation de théâtre.
+
+F 699 invite à comparer cette dimension avec la tragédie perdue, mais pas à affirmer que la même scène y fut répétée. La fonction d'un cri dépend de son contexte scénique, de sa place dans l'action et de la réponse qu'il suscite.
+
+### 25. Héraclès promet ce que la pièce de Lemnos ne montre pas
+
+À la fin du *Philoctète* conservé, Héraclès intervient et demande au héros de partir pour Troie. Il lui annonce un avenir où la guérison et la gloire sont possibles. Le spectateur quitte Lemnos avant que la promesse ne soit accomplie matériellement.
+
+Une œuvre consacrée au héros à Troie pourrait s'intéresser à ce passage de la parole divine à la réalité du soin. C'est une hypothèse de continuité particulièrement féconde, mais l'état du texte ne permet pas de la convertir en récit certain d'une cure sur scène.
+
+### 26. Le consentement et ses suites
+
+La décision finale de se rendre à Troie résulte de l'autorité divine dans le *Philoctète* conservé. Elle ne signifie pas que le héros soit réconcilié affectivement avec Ulysse, Agamemnon ou tous les anciens compagnons. Accepter une destination et pardonner une faute sont deux opérations distinctes.
+
+Une seconde pièce pouvait mettre ce décalage à l'épreuve. Le problème est moins de savoir si Philoctète consent une seconde fois que de comprendre ce qui peut restaurer une relation entre le blessé et ceux qui l'ont laissé souffrir.
+
+---
+
+# V. Les différentes versions de la guérison
+
+### 27. Proclos et la *Petite Iliade*
+
+Dans le résumé de la *Petite Iliade* transmis par Proclos, Diomède ramène Philoctète de Lemnos ; **Machaon**, fils d'Asclépios, guérit sa blessure. Philoctète affronte ensuite Alexandre, autrement dit Pâris, et le tue. Cette suite présente une continuité épique nette entre récupération, cure et victoire.
+
+Elle ne garantit pourtant pas le choix de Sophocle. Un résumé postérieur d'un poème lui-même perdu ne constitue pas une description de l'action d'une tragédie distincte. Machaon est un guérisseur de la tradition, pas un personnage parlant des *Philoctète à Troie* attesté par les fragments.
+
+### 28. Pseudo-Apollodore, *Épitomé* V, 8
+
+L'*Épitomé* V, 8 attribue la cure à **Podalirios**, autre fils d'Asclépios. Le récit fait venir Ulysse et Diomède à Lemnos pour obtenir l'arc et convaincre Philoctète de partir. Le résultat militaire est analogue à celui de la *Petite Iliade*, mais la répartition des rôles diffère.
+
+Il est essentiel de conserver cette divergence. On ne doit pas harmoniser les versions en annonçant que Machaon et Podalirios soignent ensemble le blessé, ni inférer qu'un des deux était nécessairement présent dans la tragédie de Sophocle. La variation est un fait de l'histoire du mythe.
+
+### 29. Les fils d'Asclépios dans l'*Iliade*
+
+Homère évoque Machaon et Podalirios parmi les médecins liés aux forces grecques. La médecine intervient au cœur de l'expédition : sauver des combattants permet aux groupes de demeurer opérationnels. La guérison de Philoctète s'inscrit donc dans un univers où le soin est à la fois un bien pour le blessé et une condition de la force collective.
+
+Cette fonction militaire ne doit pas masquer l'éthique propre du soignant. Le médecin soigne une personne, non un arc. Si les chefs recherchent d'abord le pouvoir de l'arme, la mission du guérisseur peut entrer en tension avec leur utilitarisme.
+
+### 30. Asclépios : puissance divine et agents humains
+
+La présence des Asclépiades invite à réfléchir aux rapports entre autorité religieuse et pratique thérapeutique. Une guérison promise par un dieu peut être accomplie, dans le récit, par des hommes dotés d'un savoir particulier. Cela ne signifie pas que Sophocle montrait une intervention miraculeuse directe d'Asclépios.
+
+Aucun fragment ne décrit de rite, d'incubation, de médicament, de pansement ou de geste chirurgical. De tels détails seraient possibles dans une adaptation moderne, mais ne peuvent être présentés comme des vestiges de la mise en scène du Ve siècle.
+
+### 31. Une cure instantanée ou progressive ?
+
+Les résumés mythographiques passent rapidement de l'arrivée du héros à sa guérison puis au combat. Ils ne donnent pas nécessairement la durée, les étapes ou les difficultés du traitement. La tragédie pouvait donc exploiter l'attente, l'épreuve de la douleur ou la crainte de l'échec.
+
+Mais on ne sait pas si elle le fit. La question relève de l'analyse des possibilités dramatiques : la cure peut être le sommet de l'action, un récit secondaire ou un événement dont les conséquences sont plus importantes que la réalisation matérielle.
+
+### 32. La guérison n'efface pas la mémoire
+
+Le corps peut retrouver une capacité alors que le passé demeure inchangé. Les années d'isolement ne sont pas compensées par un nouveau statut militaire. On peut guérir d'une plaie sans se réconcilier avec ceux qui ont décidé l'exil. C'est l'un des grands problèmes moraux du destin de Philoctète.
+
+La pensée n'est pas une réplique perdue de Sophocle. Elle émerge de la confrontation entre le mythe et une réflexion sur la continuité biographique : le héros rétabli est le même homme que celui qui a souffert.
+
+---
+
+# VI. L'arc, la guerre et la mort de Pâris
+
+### 33. Le pouvoir propre de l'arc d'Héraclès
+
+L'arc du demi-dieu possède dans les traditions troyennes une valeur exceptionnelle. Il est associé à la condition permettant de dénouer une guerre qui dure depuis des années. Mais l'efficacité matérielle d'un objet ne se confond pas avec l'autonomie de la personne qui le possède.
+
+L'armée avait négligé le corps et finit par rechercher son arme. À Troie, elle doit également considérer le blessé comme celui qui peut lui donner un usage. Le problème de la possession rencontre celui du consentement.
+
+### 34. Philoctète contre Pâris : récit épique
+
+Dans la *Petite Iliade*, Philoctète tue Pâris après avoir été guéri. L'événement marque un moment important de la fin de la guerre : le responsable mythique de l'enlèvement d'Hélène meurt sous les flèches d'Héraclès maniées par un archer longtemps absent.
+
+Mais il n'est pas prouvé que ce duel ait été représenté dans *Philoctète à Troie*. Le dramaturge pouvait le raconter par l'intermédiaire d'un messager, en faire un événement postérieur au dénouement ou ne pas le traiter du tout. La tradition mythique ne renseigne pas la scénographie.
+
+### 35. Pâris blessé, Oenone et l'autre guérison manquée
+
+Des traditions postérieures racontent que Pâris, atteint par les flèches de Philoctète, cherche le secours de son ancienne compagne Oenone, réputée capable de le soigner. Elle refuse, et la tentative de guérison arrive trop tard. La comparaison est frappante : Philoctète peut être réintégré pour être guéri ; Pâris trouve un refus chez une personne qu'il avait offensée.
+
+Aucune source ne place sûrement Oenone dans la tragédie perdue de Sophocle. Ce rapprochement sert uniquement à étudier deux configurations mythiques où la guérison dépend d'une relation morale et d'une histoire de rupture.
+
+### 36. Le meurtre rendu possible par la cure
+
+La restauration de la santé de Philoctète permet, selon les récits, qu'il tue un adversaire. La guérison est un bien pour celui qui souffre ; elle est aussi la condition d'une nouvelle violence dans une guerre destructrice. Les deux perspectives sont simultanément vraies sans se réduire l'une à l'autre.
+
+Cette ambivalence interdit une lecture purement instrumentale de la médecine. Le soignant cherche à préserver une vie, alors que l'armée veut récupérer une puissance offensive. L'action ultérieure du héros ne retire pas sa valeur morale au soin reçu.
+
+### 37. La gloire peut-elle racheter l'abandon ?
+
+La mort de Pâris fait de Philoctète un acteur décisif de la victoire. Son nom n'est plus celui d'un homme dont on ne pouvait supporter l'odeur, mais celui d'un combattant dont le tir change le cours de la guerre. La culture héroïque peut convertir l'épreuve en renommée.
+
+Pourtant une réussite finale ne prouve pas que l'injustice précédente était nécessaire. L'utilité nouvelle ne suffit pas à réhabiliter l'abandon. L'idée que la gloire rachète automatiquement toute douleur demanderait un jugement que les fragments n'autorisent pas à attribuer à Sophocle.
+
+---
+
+# VII. L'expérience sociale de la maladie
+
+### 38. La puanteur comme stigmate
+
+L'odeur du corps malade modifie la relation entre l'individu et la communauté. Elle crée une distance que les autres justifient par un réflexe de répulsion. F 697 est ainsi un fragment d'une grande profondeur : celui qu'on a rejeté doit maintenant prévenir ceux qui ont besoin de lui qu'il n'est pas devenu moins difficile à approcher.
+
+Il faut distinguer le stigmate social et la maladie. Une douleur ne constitue pas une faute ; la honte peut néanmoins être imposée au malade par le regard des autres. Ce mécanisme est lisible comme interrogation éthique, non comme diagnostic d'une culture entière.
+
+### 39. Le corps qui parle avant le héros
+
+Une plaie peut déterminer la réaction des compagnons avant que Philoctète prononce un argument. La présence physique du malade organise la rencontre. La tragédie a la capacité de transformer une gêne sensorielle en problème politique : qui accepte de demeurer auprès de celui qui souffre ?
+
+Aucun élément ne prouve que le spectacle employait des effets réalistes d'odeur ou de maquillage. Les paroles et les comportements suffisent à rendre le motif intelligible. Une reconstitution qui ferait suppurer une plaie sur scène serait une option contemporaine, non un fait ancien.
+
+### 40. L'utilité comme condition de réadmission
+
+L'armée ne réclame Philoctète qu'après avoir appris que la victoire dépend de son arc. La valeur accordée à la personne semble donc conditionnée par la valeur de sa compétence. Cette réadmission intéressée est distincte d'une reconnaissance inconditionnelle.
+
+On peut étudier cette contradiction sans nier la rationalité stratégique d'une coalition engagée dans une guerre. Il est légitime de rechercher un archer efficace ; il ne s'ensuit pas que l'on ait raison d'abandonner un malade lorsque son existence dérange.
+
+### 41. Le soin et la réparation
+
+Soigner Philoctète peut réparer l'altération physique, mais le tort moral demande un autre travail. Un aveu de faute, une restitution de la confiance, la reconnaissance de sa volonté et l'acceptation de sa mémoire pourraient être nécessaires à une réconciliation. Aucun de ces gestes n'est assuré dans le fragmentaire *Philoctète à Troie*.
+
+Le dossier met donc en lumière un écart : la guérison est un événement qui a sa place dans plusieurs traditions ; la réparation morale est une question que la tragédie pouvait poser sans que nous sachions si elle lui donna une solution.
+
+### 42. Une nouvelle place dans le groupe
+
+Le corps guéri pourrait modifier les rapports entre Philoctète et ses compagnons. L'homme que l'on ne pouvait approcher retrouve la faculté de partager l'espace commun. Mais ce changement ne suffit pas à décrire un passage du rejet à l'amitié.
+
+La réintégration est plus complexe que la disparition d'un symptôme. Elle exige de comprendre ce qui avait rendu l'exclusion acceptable aux yeux des autres. Le retour dans le camp ne prouve pas que le regard collectif ait changé profondément.
+
+---
+
+# VIII. Quatre reconstructions prudentes et incompatibles
+
+### 43. Modèle A : un accueil au camp grec
+
+[H] Une reconstruction place au début de la pièce l'arrivée de Philoctète au camp. F 697 pourrait alors être adressé aux chefs ou aux soldats. Le spectateur verrait le héros devant ceux qui l'ont abandonné ; son corps constituerait le rappel matériel de leur faute.
+
+Ce scénario est compatible avec le thème de l'œuvre, mais il n'est pas attesté dans son détail. On ne sait ni le lieu exact de la scène ni le nom des interlocuteurs ni si l'arrivée était représentée ou simplement racontée.
+
+### 44. Modèle B : une crise médicale
+
+[H] Une deuxième possibilité ferait de la guérison l'action principale. Le malade attendrait un médecin, recevrait une promesse et traverserait un moment d'incertitude avant le rétablissement. Les fragments sur la souffrance et la mort comme terme des maladies conviendraient à une telle organisation.
+
+Mais les sources ne donnent pas l'identité du guérisseur sophocléen. Proposer Machaon serait suivre une version épique ; proposer Podalirios serait suivre Pseudo-Apollodore. Aucun choix ne peut être déclaré certain.
+
+### 45. Modèle C : l'adhésion conditionnelle au combat
+
+[H] Un troisième modèle ferait de la participation militaire le véritable enjeu : Philoctète serait revenu, mais refuserait de combattre avant de recevoir des garanties. Le conflit entre sa colère et les besoins de l'armée rappellerait celui du *Philoctète* conservé.
+
+Cette reconstruction risque précisément de répéter une action déjà connue. Aucun fragment ne prouve un nouveau refus explicite. Il faut donc la considérer comme une expérience d'analyse, non comme l'intrigue traditionnelle de la seconde tragédie.
+
+### 46. Modèle D : la victoire annoncée
+
+[H] Un quatrième modèle placerait la guérison tôt dans l'action, puis construirait une progression vers le duel contre Pâris. Un messager pourrait raconter le succès de l'archer, tandis que le chœur mesurerait la différence entre le malade d'hier et le héros d'aujourd'hui.
+
+Là encore, la forme scénique n'est pas conservée. Rien ne prouve la présence de Pâris, d'un messager précis ou d'une victoire finale annoncée dans la pièce. L'historien doit permettre au lecteur de voir la construction hypothétique au lieu de la confondre avec un fait.
+
+### 47. Le problème de la distribution
+
+Une mise en scène moderne pourrait employer Philoctète, Néoptolème, Ulysse, Agamemnon, Machaon, Podalirios et Pâris. Cela ne constitue pas une distribution antique. Le théâtre tragique classique utilisait ordinairement un nombre limité d'acteurs parlants, avec possibilité de doubles rôles et de personnages silencieux.
+
+Nous ignorons combien de ces figures étaient effectivement présentes. Certaines peuvent n'avoir existé que dans un récit rapporté ; d'autres n'avoir eu aucune place dans l'œuvre. Il ne faut pas convertir la population complète du mythe en liste de personnages.
+
+### 48. Le chœur inconnu
+
+Le titre ne renseigne pas le groupe choral. Des compagnons grecs pourraient former une communauté critique face à l'exclusion, mais un autre groupe est concevable. Ni la composition ni l'attitude ni les paroles du chœur ne sont conservées.
+
+Il est donc impossible de lui attribuer une ode sur Asclépios, un chant des soldats repentants ou un hymne à Héraclès. De telles propositions doivent, si elles sont un jour créées, être présentées comme compositions modernes.
+
+### 49. L'exodos dont nous n'avons pas les mots
+
+La pièce pouvait se terminer avec la guérison, la réconciliation, la promesse d'un duel ou l'annonce d'une victoire. Le dernier numéro de fragment ne correspond pas à une scène finale assurée. L'issue mythologique ne nous permet pas de connaître la dernière action théâtrale.
+
+La prudence n'est pas un défaut de reconstruction : elle évite de fermer une enquête dans laquelle les formes mêmes de la fin sont indémontrables. Les modèles demeurent concurrents jusqu'à l'apparition éventuelle d'un témoignage nouveau.
+
+---
+
+# IX. Analyses philosophiques
+
+### 50. Hegel : reconnaissance ou instrumentalisation ?
+
+[Φ] La pensée hégélienne de la reconnaissance aide à décrire un rapport contradictoire : l'armée cesse de repousser Philoctète lorsqu'elle découvre son utilité. Elle valorise sa compétence, mais rien ne prouve qu'elle le reconnaisse comme sujet autonome.
+
+Une reconnaissance véritable ne consisterait pas à réquisitionner le porteur de l'arc, mais à prendre en compte sa volonté et son histoire. Cette application de Hegel constitue une lecture postérieure, non une interprétation qu'aurait formulée le dramaturge.
+
+### 51. Hegel : une réconciliation qui ne peut être purement pratique
+
+La solution militaire consiste à ramener le héros, le soigner et obtenir sa participation. La solution éthique supposerait davantage : la communauté devrait pouvoir revenir sur sa faute et ne pas réduire la relation à l'efficacité d'une arme.
+
+Même guéri, Philoctète reste l'homme que l'on a abandonné. La négativité du passé ne disparaît pas simplement par le succès d'un traitement. Une lecture hégélienne évite de transformer la victoire du collectif en justification automatique de toutes les décisions prises en son nom.
+
+### 52. Nietzsche : la souffrance ne produit pas automatiquement la vertu
+
+[Φ] Nietzsche permet de questionner le prestige que la culture héroïque accorde à l'endurance. Une douleur longue ne rend pas nécessairement sage ; une guérison ne rend pas nécessairement libre ; une victoire ne rend pas nécessairement juste. Philoctète invite à séparer l'expérience de souffrir des jugements moraux qui lui sont attachés.
+
+Le fragment sur la mort comme terme des maladies révèle un horizon d'épuisement, pas une philosophie systématique. Il faut éviter d'en faire la preuve que Sophocle condamne ou célèbre abstraitement la volonté de vivre.
+
+### 53. Nietzsche : colère et ressentiment
+
+La colère de Philoctète envers les chefs est fortement présente dans la tragédie conservée. Une lecture à partir de la *Généalogie de la morale* peut interroger la manière dont une mémoire douloureuse s'organise autour d'une accusation. Mais il serait abusif de qualifier toute colère de ressentiment et, par ce mot, de nier la réalité de l'injustice subie.
+
+On ignore si la seconde tragédie reprenait l'affrontement avec les Atrides. La question philosophique demeure ouverte : comment un homme peut-il retrouver sa puissance sans devoir pour cela effacer la mémoire de ceux qui l'ont abandonné ?
+
+### 54. Nietzsche : le prix du *kleos*
+
+Le nom de Philoctète entre dans la gloire héroïque grâce à son rôle contre Pâris. L'épreuve antérieure peut alors être racontée comme un prélude nécessaire à l'exploit. Nietzsche aide à contester l'idée que la fin glorieuse rachète automatiquement la douleur qui l'a précédée.
+
+Le fait de gagner une renommée n'abolit pas les années perdues. La vie vécue et la vie racontée peuvent diverger profondément, même lorsque la narration épique impose une clôture victorieuse.
+
+### 55. Platon, *Gorgias* : médecine et persuasion
+
+[Φ] Le *Gorgias* distingue les pratiques fondées sur un savoir de la persuasion qui produit simplement une croyance ou un effet. Appliquée au retour de Philoctète, la distinction sépare le discours du stratège, qui doit obtenir la coopération du héros, et celui du médecin, qui prétend disposer d'un savoir sur la guérison.
+
+Les deux discours ne sont pas nécessairement opposés ni l'un vrai, l'autre faux. Mais leur finalité diffère : gagner une guerre et soigner un homme ne désignent pas le même bien. La philosophie de Platon ne documente aucune confrontation réelle de personnages dans la pièce perdue.
+
+### 56. Platon, *République* : la place du corps dans la communauté
+
+La *République* étudie les fonctions des spécialistes, l'éducation et l'organisation de la cité. On peut demander, par analogie, quelle place accorder à un citoyen ou à un combattant dont la maladie empêche l'activité attendue. Philoctète montre une communauté qui traite d'abord l'incapacité comme obstacle, puis cherche à restaurer la compétence du malade.
+
+Il serait anachronique d'assimiler la coalition achéenne à l'État platonicien. La comparaison ne porte que sur le problème des valeurs attribuées à un individu dans un groupe.
+
+### 57. Platon, *Phédon* : la mort comme délivrance ?
+
+F 698 peut être confronté, de manière prudente, aux discussions philosophiques sur la mort et la souffrance. Le *Phédon* explore la relation du corps et de l'âme dans un contexte qui ne coïncide pas avec les lamentations d'un héros blessé.
+
+Il serait faux de faire du fragment une doctrine de l'immortalité ou du suicide. La phrase atteste plutôt la possibilité, dans le langage tragique, de décrire la mort comme ultime interruption de la maladie. Son sens précis dépend d'un dialogue perdu.
+
+### 58. Aristote : l'action dramatique et ses limites
+
+[Φ] Dans la *Poétique*, Aristote accorde une importance centrale à l'unité d'action. Chacun des modèles proposés — accueil, traitement, réconciliation ou victoire — peut fournir un principe de construction scénique cohérent. Leur cohérence ne les rend pas authentiques.
+
+L'usage raisonnable d'Aristote consiste à vérifier la vraisemblance d'une hypothèse et à éviter les successions d'épisodes arbitraires. Il ne permet pas de décider quel scénario Sophocle a réellement écrit.
+
+### 59. Aristote : reconnaissance et retournement
+
+Le passage de l'exclu au sauveur de l'armée ressemble à un renversement de statut. Mais la reconnaissance et la péripétie sont des catégories techniques dont la preuve demanderait des relations causales préservées dans la pièce. Nous ne les possédons pas.
+
+On peut parler d'un renversement dans le destin mythologique de Philoctète sans lui attribuer une scène d'*anagnôrisis* ou un mécanisme tragique précis. L'élargissement philosophique ne doit pas usurper la place de l'établissement philologique.
+
+---
+
+# X. Religion, médecine et comparaison mythologique
+
+### 60. Le serpent, signe de blessure ou signe de guérison ?
+
+Le serpent qui mord Philoctète apparaît dans la légende d'une altération du corps. Ailleurs, dans l'iconographie d'Asclépios, le serpent peut accompagner le dieu guérisseur. La proximité des motifs favorise une comparaison religieuse, mais ne prouve pas que le fragment F 700 associait explicitement les deux fonctions.
+
+Il serait spéculatif d'affirmer un rite sophocléen dans lequel le serpent qui blesse procure aussi le remède. Les récits, les symboles et les pratiques doivent être distingués.
+
+### 61. Sophocle et le culte d'Asclépios
+
+La tradition biographique attribue à Sophocle un rôle dans l'accueil du culte d'Asclépios à Athènes. Les détails de cette tradition demandent une étude critique : certaines notices reposent sur des témoignages historiques, d'autres peuvent être des reconstructions postérieures à partir de la réputation du poète.
+
+La présence d'un récit de guérison dans une tragédie perdue ne permet pas de dater la représentation en fonction de l'introduction du culte. On ne peut pas attribuer au dramaturge une intention de célébration religieuse sans preuve supplémentaire.
+
+### 62. Philoctète et Télèphe : deux blessés de la guerre de Troie
+
+Télèphe et Philoctète appartiennent à des récits où un corps blessé devient un enjeu collectif. Chez Télèphe, la blessure reçue d'Achille et la recherche d'une guérison sont liées aux premiers mouvements de l'expédition ; chez Philoctète, une morsure conduit à l'exclusion puis au retour exigé par l'armée.
+
+La ressemblance est thématique. Elle ne constitue pas une preuve que Sophocle a emprunté une scène à une version particulière de Télèphe. La comparaison aide à réfléchir à l'articulation de la guerre et du soin.
+
+### 63. La guerre et ses instruments irremplaçables
+
+Les récits tardifs de la conquête de Troie rassemblent des conditions décisives : certaines personnes doivent revenir, certains objets être obtenus. L'arc d'Héraclès, la présence de Néoptolème ou le Palladion jouent, selon les traditions, des rôles de ce type.
+
+Le cas de Philoctète révèle la limite d'une vision purement instrumentale : l'homme qui porte l'objet indispensable possède une histoire, un corps vulnérable et une volonté. Le traitement du héros ne peut être interprété uniquement comme une opération d'acquisition de matériel militaire.
+
+### 64. Comparer avec d'autres cultures sans inventer des emprunts
+
+Des récits de guérison d'un héros ou de restauration d'un souverain existent dans les traditions du Proche-Orient ancien, de l'Égypte et de nombreuses autres sociétés. Leur comparaison avec Philoctète peut être suggestive lorsqu'elle examine la relation entre corps, autorité et ordre collectif.
+
+Mais aucune ressemblance générique ne prouve une transmission de ces récits vers Sophocle. Une histoire des influences demanderait des textes et des contacts attestés. La présente étude reste une comparaison de structures, non une généalogie imaginaire du mythe.
+
+### 65. Le soin face à la violence future
+
+La guérison permet à Philoctète de participer à une guerre qui entraîne de nouvelles morts. Cela ne rend pas le soin illégitime ; cela montre que la médecine agit dans des contextes moraux complexes. La vie restaurée peut être mise au service d'une violence voulue par le patient, par la communauté ou par les deux.
+
+Cette distinction mérite une analyse autonome. Le devoir de soulager un malade n'est pas identique au jugement sur la finalité de l'activité qu'il pourra reprendre. Sophocle aurait pu confronter ces enjeux, mais les fragments ne contiennent pas un débat explicite de cette sorte.
+
+---
+
+# XI. Iconographie institutionnelle
+
+### 66. Le lécythe du Metropolitan Museum of Art
+
+Le **Metropolitan Museum of Art** conserve un lécythe attique à figures rouges, **vers 420 av. J.-C.**, inventaire **56.171.58** (Fletcher Fund, 1956). La notice décrit **Philoctète sur Lemnos**, assis sous un arbre dénudé et tenant son pied bandé. La composition souligne l'épuisement, l'isolement et la présence de l'arc associé à Héraclès.
+
+**Notice scientifique :** https://www.metmuseum.org/art/collection/search/254917 .
+
+**Légende recommandée :** « Philoctète blessé à Lemnos, lécythe attique à figures rouges, vers 420 av. J.-C., Metropolitan Museum of Art, n° 56.171.58, image dans le domaine public. Témoin du mythe de l'abandon ; ne représente pas la guérison à Troie et ne prouve aucune scénographie sophocléenne. »
+
+### 67. Le stamnos du Louvre
+
+La base institutionnelle du Louvre conserve un **stamnos attique à figures rouges**, identifié par la notice https://collections.louvre.fr/ark:/53355/cl010270265 . Son iconographie et ses attributions modernes peuvent servir à étudier la circulation visuelle du mythe de Philoctète. Il importe de conserver les désignations du musée sans les remplacer par les interprétations divergentes de reproductions secondaires.
+
+L'objet constitue une source iconographique, non un témoin du décor d'une représentation. Il serait injustifié de l'utiliser pour certifier l'arrivée du héros à Troie ou la présence d'un médecin dans la tragédie perdue.
+
+### 68. Les images ne fixent pas la date du spectacle
+
+La date d'un vase représentant Philoctète ne date pas une tragédie qui traite du héros. Les motifs de la morsure, de l'arc et de l'abandon circulaient par plusieurs canaux littéraires et visuels. Une peinture de vase peut être antérieure à une œuvre dramatique sans en constituer une « anticipation », ou postérieure sans en être l'illustration.
+
+Faute de lien explicite, l'iconographie n'est pas un document de mise en scène. Les dates de 420 av. J.-C. ou de tout autre objet restent attachées aux œuvres matérielles, non à la création de la tragédie perdue.
+
+### 69. Les limites des reconstitutions 3D
+
+Un rendu photoréaliste pourrait aider à comprendre l'environnement matériel d'un camp achéen, d'une plage ou d'un espace de soins. Il doit toutefois porter une mention de création contemporaine : le décor de *Philoctète à Troie*, ses accessoires et l'emplacement du chœur ne sont pas documentés.
+
+Les illustrations MYTHOS doivent conserver des références institutionnelles et des légendes qui distinguent vestiges réels et hypothèses. Les représentations vectorielles anciennes en perspective 2,5D retirées du site ne doivent pas être réintroduites.
+
+---
+
+# XII. Conclusions historiques et philosophiques
+
+### 70. Une pièce perdue, un problème éthique intact
+
+Nous savons assez pour reconnaître une œuvre distincte, un homme arrivé à Troie avec une blessure encore sensible, et plusieurs paroles qui associent la douleur à l'expérience de la mort. Nous ne savons pas comment Sophocle a organisé les scènes, qui guérissait sur scène ni si Pâris apparaissait.
+
+Le manque de texte n'interdit pas une interprétation profonde. Il impose simplement que l'on déclare son statut : un fragment permet d'étudier une représentation de la maladie ; un récit mythographique offre une suite d'événements ; une philosophie moderne explore la valeur de cette suite. Aucun de ces niveaux ne doit prendre la place de l'autre.
+
+### 71. Le malade utile et la personne reconnue
+
+Philoctète concentre une contradiction durable. L'armée le rejette tant que son corps lui coûte trop et le réclame lorsque son arc devient indispensable. Si sa guérison rend la victoire possible, elle ne suffit pas à prouver que les chefs ont appris à reconnaître l'homme en lui.
+
+Le conflit entre intérêt collectif et dignité individuelle ne se résout pas par le succès de la guerre. La nécessité peut expliquer la mobilisation ; elle ne justifie pas rétroactivement chaque moyen employé.
+
+### 72. La mémoire demeure après la cure
+
+Le rétablissement physique ne ressuscite pas les années perdues. Il permet au héros d'agir, mais laisse intacte la mémoire de ceux qui ont décidé son abandon. La gloire ultérieure peut transformer son nom dans les récits sans transformer le passé vécu.
+
+C'est cette différence entre le temps de l'épopée et le temps de la souffrance qui rend le dossier philosophiquement puissant. Elle appartient à notre lecture de la tradition ; aucune citation perdue ne lui est attribuée artificiellement.
+
+### 73. Une autre figure du pouvoir héroïque
+
+L'arc d'Héraclès rend le héros indispensable et suscite le désir des chefs de le récupérer. Mais un homme n'est pas un simple moyen d'utiliser une arme. Il est le porteur d'une histoire et d'un jugement possible sur ce qu'on lui demande.
+
+Cette tension éclaire le *Philoctète* conservé et justifie une étude spécifique de la pièce de Troie. Elle ne prouve pas que Sophocle développa explicitement une philosophie de l'autonomie moderne.
+
+### 74. Préserver les divergences, non les harmoniser
+
+La *Petite Iliade* attribue la guérison à Machaon ; l'*Épitomé* la confie à Podalirios. La tragédie conservée annonce une guérison, mais ne décrit pas son accomplissement. La pièce perdue est constituée de fragments qui ne résolvent pas ces divergences.
+
+Le devoir de l'édition est de les conserver. Toute reconstruction unifiée qui attribuerait sûrement un médecin, une suite de scènes et un dénouement au poète dépasserait les limites de la documentation.
+
+### 75. Place dans la progression de MYTHOS
+
+Le dossier de *Phèdre* de Sophocle, **F 677–693 Radt**, a déjà fait l'objet d'un volume autonome dans MYTHOS ; le corpus des *Phthiotides*, **F 694–696**, a déjà été étudié au sein des deux dossiers concernant *Hermione*, avec l'hypothèse d'identité des titres explicitement examinée. Le présent manuscrit reprend donc la progression avec l'œuvre distincte **F 697–703** et ne réécrit pas les travaux antérieurs.
+
+La nouvelle livraison n'attribue aucun numéro canonique par avance. La file éditoriale GitHub remplacera seulement les variables CCXLV et 245 dans le présent texte après vérification de l'état réel de main.
+
+---
+
+# XIII. Bibliographie vérifiée et apparat documentaire
+
+### 76. Éditions des fragments
+
+- **Radt, Stefan** (éd.), *Tragicorum Graecorum Fragmenta*, vol. IV, *Sophocles*, Göttingen, Vandenhoeck & Ruprecht, 1977, deuxième édition revue, 1999, **F 697–703**, corpus de *Philoctète à Troie*. Cette cote n'est pas une succession de vers de la tragédie conservée.
+- **Pearson, A. C.** (éd.), *The Fragments of Sophocles*, trois volumes, Cambridge, Cambridge University Press, 1917. Consulter les concordances avant de passer d'un système de numérotation à un autre.
+- **Lloyd-Jones, Hugh** (éd. et trad.), *Sophocles: Fragments*, Cambridge (Mass.), Harvard University Press, Loeb Classical Library, 1996. Référence pour la lecture et les traductions critiques des pièces perdues.
+- **Jouanna, Jacques**, *Sophocle*, Paris, Fayard, 2007, étude générale du dramaturge et catalogue des œuvres fragmentaires.
+
+### 77. Monographies critiques et historiographie
+
+- **Wright, Matthew**, *The Lost Plays of Greek Tragedy*, vol. 2, *Aeschylus, Sophocles and Euripides*, Londres / New York, Bloomsbury Academic, 2018, p. 130–131. Dossier distinct « Philoctetes at Troy », TrGF IV F 697–703, comparaison de la guérison par Machaon et Podalirios. Notice bibliographique : https://books.google.com/books?id=MHx7DwAAQBAJ .
+- **Sommerstein, Alan H.**, **Fitzpatrick, Thomas** et **Talboy, Thomas**, *Sophocles: Selected Fragmentary Plays*, volume I, Oxford, Aris & Phillips, 2006. Pour les problèmes de méthode liés aux tragédies fragmentaires, sans lui attribuer une édition complète de cette pièce si elle n'y est pas expressément présente.
+- **Sutton, Dana F.**, *The Lost Sophocles*, Lanham, University Press of America, 1984, étude des œuvres disparues.
+- **Gantz, Timothy**, *Early Greek Myth: A Guide to Literary and Artistic Sources*, Baltimore / Londres, Johns Hopkins University Press, 1993, pour les variantes du cycle troyen et les rapports des sources littéraires et figurées.
+
+### 78. Sources primaires
+
+- **Homère, *Iliade* II, 716–725** : Philoctète blessé et laissé à Lemnos ; Médon remplace le chef absent. **Iliade II, 729–733** : Machaon et Podalirios, fils d'Asclépios ; **Iliade XI** : rôle des médecins dans l'armée.
+- **Homère, *Odyssée* III, 188–190** : Philoctète revient de la guerre.
+- **Sophocle, *Philoctète* conservé**, vers 1–1471, représenté en 409 av. J.-C. ; particulièrement 730–826 (douleur), 1218–1313 (arc), 1408–1471 (Héraclès). Édition et présentation : https://greekdrama.johnhboyer.com/sophocles/philoctetes/ .
+- **Proclos**, résumé de la ***Petite Iliade*** : retour de Philoctète par Diomède, guérison par Machaon, victoire sur Pâris. Texte : https://www.livius.org/sources/content/epic-cycle/little-iliad/ .
+- **Pseudo-Apollodore, *Épitomé* V, 8** : retour avec Ulysse et Diomède, guérison par Podalirios, mort de Pâris. Texte : https://www.theoi.com/Text/ApollodorusE.html .
+- **Quintus de Smyrne, *Suite d'Homère*, livres IX–X** : récit épique tardif et indépendant de la tragédie perdue.
+- **Dion Chrysostome, *Discours* 52** : comparaison antique des pièces consacrées à Philoctète par les grands tragiques, sans synopsis établi de la seconde œuvre sophocléenne.
+
+### 79. Références philosophiques
+
+- **Hegel**, *Phénoménologie de l'esprit* (reconnaissance, esprit et vie éthique) ; *Principes de la philosophie du droit* (personne et collectivité).
+- **Nietzsche**, *La Naissance de la tragédie* ; *La Généalogie de la morale*, deuxième dissertation (mémoire, dette, ressentiment). Le recours à ce dernier concept ne signifie pas que la colère de Philoctète soit moralement injustifiée.
+- **Platon**, *Gorgias* (médecine, savoir et persuasion), *République* (spécialisation et vie collective), *Phédon* (corps, mort, souffrance).
+- **Aristote**, *Poétique*, chapitres 6–11 : structure de l'action, vraisemblance et péripétie ; application uniquement hypothétique à une œuvre dont la continuité est perdue.
+
+### 80. Références iconographiques et droits
+
+- **The Metropolitan Museum of Art**, lécythe attique à figures rouges, « Philoktetes on Lemnos », vers 420 av. J.-C., inventaire **56.171.58**, image du domaine public : https://www.metmuseum.org/art/collection/search/254917 .
+- **Musée du Louvre**, stamnos attique à figures rouges, notice de collection : https://collections.louvre.fr/ark:/53355/cl010270265 . Les identifications iconographiques doivent suivre les précautions de la notice.
+- L'iconographie de Lemnos peut illustrer la blessure et l'exil, mais ne représente pas nécessairement un épisode joué dans *Philoctète à Troie*. Aucune illustration ne doit être présentée comme décor de la pièce.
+
+### 81. Tableau des affirmations et de leur statut
+
+| Proposition | Statut scientifique |
+|---|---|
+| Existence d'une seconde pièce sophocléenne de Philoctète | Documentée par le dossier F 697–703 |
+| Présence d'un malade encore malodorant | Fortement appuyée par F 697 |
+| Mort conçue comme terme des maladies | Parole conservée par F 698 ; locuteur indéterminé |
+| Guérison par Machaon | Tradition de la *Petite Iliade*, pas fragment de Sophocle |
+| Guérison par Podalirios | Tradition de l'*Épitomé*, pas fragment de Sophocle |
+| Mort de Pâris par Philoctète | Récit épique et mythographique ; présence scénique inconnue |
+| Le chœur chante un hymne à Asclépios | Non attesté, à ne pas affirmer |
+| La pièce fut créée après 409 av. J.-C. | Hypothèse non démontrée |
+| Le héros fut réconcilié avec Ulysse à la fin | Non attesté |
+| Le lécythe du Met représente la pièce perdue | Non : témoin du mythe de Lemnos |
+| Hegel et Nietzsche éclairent la reconnaissance et la mémoire de la souffrance | Comparaison philosophique contemporaine, non témoignage |
+
+### 82. Note pour le circuit de publication MYTHOS
+
+La présente étude publique et intégrale appartient à la collection **tragedies**. Elle doit être déposée comme un fichier JSON unique dans la file officielle, avec son UUID stable et un slug spécifique. Les seules variables éditoriales remplacées lors de l'attribution sont **CCXLV** et **245** ; tous les chiffres des sources antiques, des numéros de fragments, des dates et des inventaires demeurent inchangés.
+
+Un enregistrement dans editorial/inbox n'est pas une publication numérotée. Le reçu d'attribution, le manuscrit canonique, le catalogue reconstruit, les sommaires et le sitemap doivent être vérifiés après le traitement du workflow GitHub Actions. Aucune archive WordPress, aucune étude ancienne, aucune demande en suspension, aucun registre de numérotation et aucune planification horaire ne doit être modifié pour contourner cette procédure.
+
+**Fin de la monographie universitaire — Sophocle, *Philoctète à Troie*.**
