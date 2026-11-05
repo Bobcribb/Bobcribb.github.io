@@ -2,7 +2,7 @@
   "generated_at": "2026-11-05",
   "site": "bobmythos.fr",
   "method": "Illustrations photoréalistes interprétatives, textes et sources hors des pixels.",
-  "count": 50,
+  "count": 51,
   "entries": [
     {
       "id": "DEL-PAN-001",
@@ -1036,6 +1036,29 @@
       "provenance": "Image originale générée numériquement pour MYTHOS, sans titre, menu, légende ni filigrane incrusté ; photoréalisme interprétatif à apparence 3D, non métrique. Les organismes cités documentent le site et n’ont ni validé ni approuvé cette image.",
       "sha256": "5d55d55c30205ac49728ebb8ba729f6dfad7b63f5015b61bd71c8667679a754c",
       "scientific_notice": "/assets/reconstitutions-3d/notices/assos-temple-athena-acropole-archaique-vers-530-av-jc.json"
+    },
+    {
+      "id": "AKR-CON-001",
+      "slug": "akragas-temple-dit-concorde-vers-430-av-jc",
+      "title": "Akragas (Agrigente) — temple dit de la Concorde, vers 430 av. J.-C.",
+      "period": "Vers 430 av. J.-C. (phase de construction située approximativement entre 440 et 430 av. J.-C. ; restitution visuelle hypothétique)",
+      "caption": "Reconstitution numérique photoréaliste interprétative du temple dorique dit de la Concorde, sur la crête sacrée de l’ancienne Akragas en Sicile, au moment de son usage grec. Son nom moderne ne permet pas d’identifier avec certitude la divinité antique honorée.",
+      "commentary": "Le temple dit de la Concorde appartient à l’ensemble monumental de l’ancienne cité grecque d’Akragas, dans la Vallée des Temples (Agrigente, Sicile). Sa construction est généralement placée autour de 440–430 av. J.-C. Il s’agit d’un temple dorique périptère comptant six colonnes en façade et treize sur les longs côtés, sur une terrasse de pierre aménagée pour la pente du relief. Son organisation associe pronaos, naos et opisthodome ; son entablement comporte la frise dorique à triglyphes et métopes. Le nom « Concorde » a été attribué à l’époque moderne d’après une inscription latine découverte à proximité, sans lien démontré avec le culte grec du monument. Sa remarquable conservation tient en partie à sa transformation en église durant l’Antiquité tardive. L’image présente, par hypothèse, le monument avant cette conversion, avec toiture continue et espace de terrasse dégagé. Les choix de la couverture en tuiles, de couleur des pierres, de décor peint, des éléments de couronnement, du traitement des surfaces, de l’état de l’autel, des personnages et du paysage visible à distance ne constituent pas des données entièrement attestées ; les proportions exactes ne doivent pas être mesurées sur la vue. Elle ne peut être assimilée à un relevé métrique, à un modèle 3D scientifique ou à une photographie du site tel qu’il se présentait vers 430 av. J.-C.",
+      "certainty": "Élevé : localisation sur la crête sacrée d’Akragas, chronologie classique (environ 440–430 av. J.-C.), ordre dorique, péristyle 6 × 13, structure générale, existence des vestiges. Moyen : restitution des parties hautes et des ouvertures originelles, matériaux d’enduit et organisation précise des abords. Faible : couverture complète, polychromie et formes exactes des tuiles, détails de l’autel et du mobilier cultuel, dédicace antique, figures humaines, végétation, vue de la mer et atmosphère.",
+      "source_url": "https://whc.unesco.org/fr/list/831/",
+      "secondary_sources": [
+        "https://unesco.cultura.gov.it/en/projects/archaeological-area-of-agrigento/",
+        "https://www.lavalledeitempli.it/en/itineraries/temples-valley/concordia-temple/",
+        "https://www.lavalledeitempli.it/itinerari/valle-templi/concordia-tempio/"
+      ],
+      "src": "/assets/reconstitutions-3d/akragas-temple-dit-concorde-vers-430-av-jc.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-05",
+      "type": "panorama 3D photoréaliste interprétatif non métrique",
+      "provenance": "Image numérique originale générée pour MYTHOS, sans menu ni texte incrusté. Restitution hypothétique et non relevé métrique ; les organismes cités documentent le monument mais ne valident pas cette image.",
+      "sha256": "1d50c4c2e3c6d718a99771c38a80c9d394b753aeec645f5a760182602cf69bc1",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/akragas-temple-dit-concorde-vers-430-av-jc.json"
     }
   ]
 }
