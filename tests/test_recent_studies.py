@@ -195,9 +195,9 @@ class RecentStudyTests(unittest.TestCase):
             title = ('Ménècrate : Hermioneus, Manektōr et les osselets '
                      '— le rire et la fortune')
             study.write_text(
-                '# MYTHOS — Comédies grecques — Volume CXXIII (123)\\n'
-                '# ' + title + '\\n'
-                '## 1. [A] Délimitation du dossier : deux titres et un vers\\n\\n'
+                '# MYTHOS — Comédies grecques — Volume CXXIII (123)\n'
+                '# ' + title + '\n'
+                '## 1. [A] Délimitation du dossier : deux titres et un vers\n\n'
                 + ('Conserver le texte scientifique et les sources. ' * 150),
                 encoding='utf-8')
             registry = root / 'editorial/numbering.json'
