@@ -5,85 +5,63 @@
   "branch": "main",
   "latest_session": {
     "date": "2026-11-05",
-    "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "previous_kind": "AUDIT ET CORRECTION",
-    "next_kind": "AUDIT ET CORRECTION",
-    "scope": "Séance 42 : 3 notices iconographiques Met ajoutées aux monographies philosophiques Iliade, Odyssée, Théogonie ; réemploi de fichiers déjà dans le dépôt sans nouveau binaire. Récits et datations distingués ; aucune modification de texte universitaire ni de numérotation.",
-    "basis_commit": "e3a1e3a39cc109ef973adead10fdcef060a8155a",
-    "figures_added": [
-      {
-        "page": "philosophie-iliade.html",
-        "section": "iliade-long-b12",
-        "id": "icono-iliade-enee-limoges-reception-met-199612-20261105",
-        "src": "/assets/illustrations-articles/met-199612-enee-fuite-troie-email.webp",
-        "met_object_id": 199612,
-        "museum_url": "https://www.metmuseum.org/art/collection/search/199612"
+    "kind": "AUDIT ET CORRECTION",
+    "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "scope": "Séance 43 : correction de deux liens documentaires .md cassés dans le volume CI (101), source et rendu ; nouveau test de non-régression. Audit ciblé de 7 pages et suivi des derniers workflows.",
+    "basis_commit": "b6cd7522b3a49c9a8c5001155b18687df1477b57",
+    "source_checks": {
+      "official_instructions": "AGENTS.md et docs/PUBLICATION_CONCURRENTE.md lus sur main ; aucune nouvelle étude numérotée",
+      "audit_run": "41952993642 : success, HARD ERRORS 0, WARNINGS 2 (volume 101 liens .md sur le site)",
+      "published_run": "41955356964 : success ; le runner rapporte la publication de chaque image et notice et le contrôle responsive public",
+      "latest_public_receipt_on_main": "catalog/publication-verification.json : source 7310586e543b9b32b493d1fda3b0cc844f6c121e ; run 41955356964 ; 1425 documents, 27 tomes, 110 médias",
+      "independent_https": "Accès HTTPS direct à bobmythos.fr indisponible depuis cet environnement ; seules les vérifications du runner GitHub sont confirmées",
+      "page_audit": {
+        "html_pages": 7,
+        "html_ids": 531,
+        "same_page_anchors": 435,
+        "image_tags": 145,
+        "duplicate_ids": 0,
+        "broken_same_page_anchors": 0,
+        "missing_img_alt": 0,
+        "missing_local_css_js": 0,
+        "missing_local_media": 0
       },
-      {
-        "page": "philosophie-odyssee.html",
-        "section": "odyssee-long-b01",
-        "id": "icono-odyssee-ariane-thesee-met-245585-20261105",
-        "src": "/assets/illustrations-articles/met-245585-thesee-ariane-sarcophage.webp",
-        "met_object_id": 245585,
-        "museum_url": "https://www.metmuseum.org/art/collection/search/245585"
-      },
-      {
-        "page": "philosophie-theogonie.html",
-        "section": "theogonie-long-a11",
-        "id": "icono-theogonie-tyche-oceanide-met-246414-20261105",
-        "src": "/assets/illustrations-articles/met-246414-tyche-fortuna-bronze.webp",
-        "met_object_id": 246414,
-        "museum_url": "https://www.metmuseum.org/art/collection/search/246414"
-      }
-    ],
-    "checks_before_commit": {
-      "metrics": [
-        {
-          "page": "philosophie-iliade.html",
-          "figure_id": "icono-iliade-enee-limoges-reception-met-199612-20261105",
-          "html_ids": 116,
-          "internal_anchors": 111,
-          "images": 30,
-          "duplicate_ids": 0,
-          "broken_anchors": 0,
-          "missing_alt": 0
-        },
-        {
-          "page": "philosophie-odyssee.html",
-          "figure_id": "icono-odyssee-ariane-thesee-met-245585-20261105",
-          "html_ids": 115,
-          "internal_anchors": 111,
-          "images": 29,
-          "duplicate_ids": 0,
-          "broken_anchors": 0,
-          "missing_alt": 0
-        },
-        {
-          "page": "philosophie-theogonie.html",
-          "figure_id": "icono-theogonie-tyche-oceanide-met-246414-20261105",
-          "html_ids": 117,
-          "internal_anchors": 113,
-          "images": 29,
-          "duplicate_ids": 0,
-          "broken_anchors": 0,
-          "missing_alt": 0
-        }
+      "page_scope": [
+        "index.html",
+        "livre-iliade-scenes/index.html",
+        "livre-odyssee/index.html",
+        "livre-hesiode/index.html",
+        "philosophie-iliade.html",
+        "philosophie-odyssee.html",
+        "philosophie-theogonie.html"
       ],
-      "figures_before": 31,
-      "figures_after": 34,
-      "unique_media_before": 24,
-      "unique_media_after": 26,
-      "photo_files_added": 0,
-      "media_paths_verified": 3,
-      "numbering_unchanged": true
+      "pdf_pagination": "Manifeste daté 2026-11-04 : Iliade 122 pages, Odyssée 116, Théogonie 117 ; pas de nouveau rendu ni de contrôle visuel"
     },
-    "scientific_distinctions": "Énée et la chute de Troie relèvent d'Énéide II, non de l'Iliade ; Ariane est mentionnée en Odyssée XI mais le relief romain suit une tradition différente ; Tychè figure parmi les Océanides de Théogonie 360 et sa statuette gréco-romaine est beaucoup plus tardive.",
-    "tests": "Trois ajouts à RECENT_FIGURES ; tests du nombre de pages, 34 figures, 26 médias uniques et régression de page publique obsolète/fichier WebP altéré. Les suites complètes CI, le responsive interactif et le PDF n'ont pas été exécutés localement ; vérification GitHub Actions requise.",
-    "pagination": "Manifest 122/116/117 pages PDF et 107/101/103 pages d'analyse ; aucun PDF modifié ni visuellement contrôlé.",
-    "preservation": "AGENTS.md et docs/PUBLICATION_CONCURRENTE.md relus ; tous les textes, images existantes, navigation, numérotation, registres et plannings horaires préservés.",
-    "publication_status": "Commit en dépôt uniquement ; public HTTPS non confirmé, reçu distant inaccessible au contrôle préalable.",
+    "corrections": {
+      "files": [
+        "chapitres/comedies/volume-101-philyllios-eunikos-anteia-attribution-hetaire-baiser-chytra-pollux.md",
+        "chapitres/comedies/volume-101-philyllios-eunikos-anteia-attribution-hetaire-baiser-chytra-pollux/index.html",
+        "tests/test_comedy_reference_links.py"
+      ],
+      "broken_old_targets": [
+        "/chapitres/comedies/volume-100-philyllios-aigeus-poisson-ancetre-analphiton-thesee-reconnaissance.md",
+        "/chapitres/comedies/volume-099-philonikos-poete-comique-victoire-leneennes-inscription-ig2325-memoire.md"
+      ],
+      "canonical_targets": [
+        "/chapitres/comedies/volume-100-philyllios-aigeus-poisson-ancetre-analphiton-thesee-reconnaissance/",
+        "/chapitres/comedies/volume-099-philonikos-poete-comique-victoire-leneennes-inscription-ig2325-memoire/"
+      ],
+      "number_of_replacements": 4,
+      "markdown_and_published_html_corrected": true,
+      "added_regression_test": "test_volume_101_documentary_links_resolve_to_public_html",
+      "source_text_preserved": true
+    },
+    "limitations": "L'audit complet le plus récent précède la correction. Les tests intégraux, la validation responsive du prochain déploiement et l'inspection HTTPS directe après le présent commit restent à confirmer ; surveiller les résultats Actions.",
+    "preservation": "Textes scientifiques hors correction des quatre destinations, numéros de collection, registres, navigation, iconographie et planifications horaires inchangés.",
+    "publication_status": "Commit non encore effectué au moment de cette entrée ; ne pas annoncer ce correctif comme publié avant preuve GitHub Actions et HTTPS.",
     "commits": [],
-    "commit_note": "Le commit atomique ne peut inclure son SHA ; vérifier par API GitHub après mise à jour de main."
+    "commit_note": "Le SHA du commit atomique est connu après écriture ; consulter main et GitHub Actions."
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
   "history": [
@@ -2322,6 +2300,66 @@
       "publication_status": "Commit en dépôt uniquement ; public HTTPS non confirmé, reçu distant inaccessible au contrôle préalable.",
       "commits": [],
       "commit_note": "Le commit atomique ne peut inclure son SHA ; vérifier par API GitHub après mise à jour de main."
+    },
+    {
+      "date": "2026-11-05",
+      "kind": "AUDIT ET CORRECTION",
+      "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "scope": "Séance 43 : correction de deux liens documentaires .md cassés dans le volume CI (101), source et rendu ; nouveau test de non-régression. Audit ciblé de 7 pages et suivi des derniers workflows.",
+      "basis_commit": "b6cd7522b3a49c9a8c5001155b18687df1477b57",
+      "source_checks": {
+        "official_instructions": "AGENTS.md et docs/PUBLICATION_CONCURRENTE.md lus sur main ; aucune nouvelle étude numérotée",
+        "audit_run": "41952993642 : success, HARD ERRORS 0, WARNINGS 2 (volume 101 liens .md sur le site)",
+        "published_run": "41955356964 : success ; le runner rapporte la publication de chaque image et notice et le contrôle responsive public",
+        "latest_public_receipt_on_main": "catalog/publication-verification.json : source 7310586e543b9b32b493d1fda3b0cc844f6c121e ; run 41955356964 ; 1425 documents, 27 tomes, 110 médias",
+        "independent_https": "Accès HTTPS direct à bobmythos.fr indisponible depuis cet environnement ; seules les vérifications du runner GitHub sont confirmées",
+        "page_audit": {
+          "html_pages": 7,
+          "html_ids": 531,
+          "same_page_anchors": 435,
+          "image_tags": 145,
+          "duplicate_ids": 0,
+          "broken_same_page_anchors": 0,
+          "missing_img_alt": 0,
+          "missing_local_css_js": 0,
+          "missing_local_media": 0
+        },
+        "page_scope": [
+          "index.html",
+          "livre-iliade-scenes/index.html",
+          "livre-odyssee/index.html",
+          "livre-hesiode/index.html",
+          "philosophie-iliade.html",
+          "philosophie-odyssee.html",
+          "philosophie-theogonie.html"
+        ],
+        "pdf_pagination": "Manifeste daté 2026-11-04 : Iliade 122 pages, Odyssée 116, Théogonie 117 ; pas de nouveau rendu ni de contrôle visuel"
+      },
+      "corrections": {
+        "files": [
+          "chapitres/comedies/volume-101-philyllios-eunikos-anteia-attribution-hetaire-baiser-chytra-pollux.md",
+          "chapitres/comedies/volume-101-philyllios-eunikos-anteia-attribution-hetaire-baiser-chytra-pollux/index.html",
+          "tests/test_comedy_reference_links.py"
+        ],
+        "broken_old_targets": [
+          "/chapitres/comedies/volume-100-philyllios-aigeus-poisson-ancetre-analphiton-thesee-reconnaissance.md",
+          "/chapitres/comedies/volume-099-philonikos-poete-comique-victoire-leneennes-inscription-ig2325-memoire.md"
+        ],
+        "canonical_targets": [
+          "/chapitres/comedies/volume-100-philyllios-aigeus-poisson-ancetre-analphiton-thesee-reconnaissance/",
+          "/chapitres/comedies/volume-099-philonikos-poete-comique-victoire-leneennes-inscription-ig2325-memoire/"
+        ],
+        "number_of_replacements": 4,
+        "markdown_and_published_html_corrected": true,
+        "added_regression_test": "test_volume_101_documentary_links_resolve_to_public_html",
+        "source_text_preserved": true
+      },
+      "limitations": "L'audit complet le plus récent précède la correction. Les tests intégraux, la validation responsive du prochain déploiement et l'inspection HTTPS directe après le présent commit restent à confirmer ; surveiller les résultats Actions.",
+      "preservation": "Textes scientifiques hors correction des quatre destinations, numéros de collection, registres, navigation, iconographie et planifications horaires inchangés.",
+      "publication_status": "Commit non encore effectué au moment de cette entrée ; ne pas annoncer ce correctif comme publié avant preuve GitHub Actions et HTTPS.",
+      "commits": [],
+      "commit_note": "Le SHA du commit atomique est connu après écriture ; consulter main et GitHub Actions."
     }
   ]
 }

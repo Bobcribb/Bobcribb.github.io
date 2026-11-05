@@ -20,5 +20,27 @@ class ComedyReferenceLinkTests(unittest.TestCase):
                 self.assertNotIn("/comedies-grecques/", text)
 
 
+    def test_volume_101_documentary_links_resolve_to_public_html(self):
+        """The comedies' manuscript .md files are not published as HTML links."""
+        stem = "volume-101-philyllios-eunikos-anteia-attribution-hetaire-baiser-chytra-pollux"
+        sources = (
+            ROOT / "chapitres/comedies" / (stem + ".md"),
+            ROOT / "chapitres/comedies" / stem / "index.html",
+        )
+        targets = (
+            "/chapitres/comedies/volume-100-philyllios-aigeus-poisson-ancetre-analphiton-thesee-reconnaissance/",
+            "/chapitres/comedies/volume-099-philonikos-poete-comique-victoire-leneennes-inscription-ig2325-memoire/",
+        )
+        for target in targets:
+            self.assertTrue((ROOT / target.lstrip("/") / "index.html").is_file())
+        for source in sources:
+            with self.subTest(path=str(source)):
+                body = source.read_text(encoding="utf-8")
+                for target in targets:
+                    self.assertIn(target, body)
+                    self.assertNotIn(target[:-1] + ".md", body)
+
+
+
 if __name__ == "__main__":
     unittest.main()
