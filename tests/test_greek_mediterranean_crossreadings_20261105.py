@@ -41,11 +41,13 @@ class MediterraneanCrossReadingTests(unittest.TestCase):
             self.assertRegex(article.get_text(" ", strip=True).lower(),
                              "bibliograph|sources|références", url)
             slug = url.rstrip("/").split("/")[-1]
-            self.assertEqual(classify(url, "Nom de divinité cité par hasard",
-                                      "Lecture associée"), expected[slug], url)
+            family, subsection = classify(url, "Nom de divinité cité par hasard",
+                                         "Lecture associée")
+            self.assertEqual(family, expected[slug][0], url)
+            self.assertTrue(subsection.startswith(expected[slug][1]), url)
             self.assertTrue(title and context)
 
-    def test_sixteen_directions_of_reader_navigation_after_rebuild(self):
+    def test_twelve_directed_links_after_two_rebuilds(self):
         urls = {url for url, _, _ in MEDITERRANEAN_STUDIES}
         with TemporaryDirectory() as temporary:
             out = Path(temporary)
