@@ -2347,6 +2347,12 @@
           "path": "chapitres/comparatif/volume-ccxliii-mc-063-quand-les-dieux-saignent-blessure-divine-corps-vulnerables-soins-souverainete.md",
           "request_sha256": "49eff5f0b889e554f82222d143bc39df00364c1846d0eb5b943ec729e9995c9e",
           "initial_source_sha256": "f5fbe5553eae0f47edb41c2bc19db504d27b43754921638df89b6b6af79d7bfb"
+        },
+        "640a2026-1105-4064-8064-202611050064": {
+          "number": 244,
+          "path": "chapitres/comparatif/volume-ccxliv-mc-064-quand-les-dieux-mangent-nourritures-divines-sacrifice-partage-immortalite.md",
+          "request_sha256": "cdf0ce1ed56e17c2c7525982b609d00ed8d96160a1980f957978da4a198df428",
+          "initial_source_sha256": "ddedc687899567c522fc2a5488c810c37d4abebe5b904a04f1b256640d01b299"
         }
       }
     }
