@@ -325,9 +325,16 @@ def verify(root, out):
             # Verify every complete authored block as a normalized word sequence
             # rather than demanding identical BeautifulSoup block serialization.
             rendered_words = normalized(article.get_text(" ", strip=True))
+            # The original H1 is the collection header, which the museum
+            # layout may lift from article to the page masthead/title.
+            source_h1 = original.select_one("h1")
+            if source_h1:
+                page_words = normalized(page.get_text(" ", strip=True) + " " +
+                                        str(page.title.string if page.title else ""))
+                assert normalized(source_h1.get_text(" ", strip=True)) in page_words, address
             authored_words = [
                 normalized(node.get_text(" ", strip=True))
-                for node in original.select("h1,h2,h3,h4,h5,h6,p,li,table,pre,blockquote")
+                for node in original.select("h2,h3,h4,h5,h6,p,li,table,pre,blockquote")
             ]
             missing = [words[:120] for words in authored_words
                        if words and words not in rendered_words]
