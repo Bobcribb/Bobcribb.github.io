@@ -5,53 +5,125 @@
   "branch": "main",
   "latest_session": {
     "date": "2026-11-05",
-    "kind": "AUDIT ET CORRECTION",
-    "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "scope": "Séance 49 : correction des trois renvois locaux cassés des volumes CVI (106) et CVII (107) des comédies grecques, en conservant les deux manuscrits et leurs numéros.",
-    "basis_commit": "eaf80965865007e904d53657ec0eb7fac05ef66f",
-    "audit_evidence": {
-      "github_actions_run": 41990629355,
-      "ci_status": "success for integrity audit (0 hard errors; three 404-type broken-link warnings)",
-      "source_paths": [
-        "chapitres/comedies/volume-106-philyllios-herakles-dorpia-apaturies-protenthai-phratries.md",
-        "chapitres/comedies/volume-106-philyllios-herakles-dorpia-apaturies-protenthai-phratries/index.html",
-        "chapitres/comedies/volume-107-philyllios-plyntriai-nausikaa-lessive-laispodias-scholie-odyssee.md",
-        "chapitres/comedies/volume-107-philyllios-plyntriai-nausikaa-lessive-laispodias-scholie-odyssee/index.html"
-      ],
-      "bad_href": "/comedies-grecques/",
-      "valid_collection_href": "/comedies-grecques-aristophane-menandre/",
-      "total_broken_references": 3,
-      "verified_md_and_html_occurrences": 6,
-      "five_page_spot_check": {
-        "html_ids": 489,
-        "local_fragment_links": 365,
-        "images": 109,
-        "local_asset_references": 290,
-        "duplicate_ids": 0,
-        "broken_local_fragments": 0,
-        "missing_alt": 0,
-        "missing_css_js_images": 0
+    "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "previous_kind": "AUDIT ET CORRECTION",
+    "next_kind": "AUDIT ET CORRECTION",
+    "scope": "Séance 50 : trois documents muséaux antiques reliés à des sections précises des livres Iliade I, Odyssée XI et Théogonie 940–942, sans nouveaux fichiers d'images.",
+    "basis_commit": "acbc7b3ddc00a3858cf23223823cb3db57e92fc9",
+    "modified_pages": [
+      "livre-iliade-scenes/index.html",
+      "livre-odyssee/index.html",
+      "livre-hesiode/index.html"
+    ],
+    "new_figures": [
+      {
+        "id": "icono-iliade-apollon-peste-bronze-met-246408-20261105",
+        "page": "livre-iliade-scenes/index.html",
+        "section": "crise",
+        "asset": "/assets/illustrations-articles/met-246408-apollon-bronze-romain.webp",
+        "met_object_id": 246408,
+        "object_status": "œuvre antique romaine",
+        "date": "Ier–IIe siècle ap. J.-C.",
+        "primary_reference": "Homère, Iliade I, 43–52",
+        "link": "https://www.metmuseum.org/art/collection/search/246408"
       },
-      "tree_elements": 4840,
-      "cname": "bobmythos.fr"
-    },
-    "changes": {
-      "updated_sources": [
-        "chapitres/comedies/volume-106-philyllios-herakles-dorpia-apaturies-protenthai-phratries.md",
-        "chapitres/comedies/volume-106-philyllios-herakles-dorpia-apaturies-protenthai-phratries/index.html",
-        "chapitres/comedies/volume-107-philyllios-plyntriai-nausikaa-lessive-laispodias-scholie-odyssee.md",
-        "chapitres/comedies/volume-107-philyllios-plyntriai-nausikaa-lessive-laispodias-scholie-odyssee/index.html"
-      ],
-      "regression_test": "tests/test_comedy_reference_links.py::test_volumes_106_and_107_have_valid_comedy_collection_links",
-      "exact_edit": "Only /comedies-grecques/ replaced with /comedies-grecques-aristophane-menandre/ for one reference in CVI and two references in CVII; Markdown + HTML each.",
-      "preserved": "All scientific paragraphs, metadata, page IDs, figures, bibliographies, navigation outside the three links, numbering, queues, numbering registries, schedules and workflow definitions unchanged."
-    },
-    "publication_status": "GitHub commit is not the same as a public deployment. Public domain and publication manifest must be separately verified; public HTTPS was inaccessible to this session.",
-    "ci_status": "Last inspected prior CI failure concerned obsolete expected figure count 9 vs actual 10; current test in main expects 10. CI after this commit pending verification.",
-    "limitations": "No complete fresh browser responsive test or comprehensive bibliography review; this session focused on verified broken links, local asset integrity and known CI signals.",
+      {
+        "id": "icono-odyssee-persephone-nekuia-met-252973-20261105",
+        "page": "livre-odyssee/index.html",
+        "section": "chant-11",
+        "asset": "/assets/illustrations-articles/met-252973-persephone-retour-enfers.webp",
+        "met_object_id": 252973,
+        "object_status": "vase antique attique",
+        "date": "vers 440 av. J.-C.",
+        "primary_reference": "Homère, Odyssée XI, 213–218 et 385–386",
+        "link": "https://www.metmuseum.org/art/collection/search/252973"
+      },
+      {
+        "id": "icono-hesiode-dionysos-genealogie-met-256902-20261105",
+        "page": "livre-hesiode/index.html",
+        "section": "mariages-zeus",
+        "asset": "/assets/illustrations-articles/met-256902-dionysos-medaillon-bois.webp",
+        "met_object_id": 256902,
+        "object_status": "médaillon antique grec en bois",
+        "date": "IIe siècle av. J.-C.",
+        "primary_reference": "Hésiode, Théogonie 940–942",
+        "link": "https://www.metmuseum.org/art/collection/search/256902"
+      }
+    ],
+    "metadata_sources": [
+      {
+        "id": 246408,
+        "path": "assets/illustrations-articles/met-246408-apollon-bronze-romain.webp",
+        "accession": "96.9.401",
+        "date": "1st–2nd century CE",
+        "source": "https://www.metmuseum.org/art/collection/search/246408",
+        "license": "CC0-1.0"
+      },
+      {
+        "id": 252973,
+        "path": "assets/illustrations-articles/met-252973-persephone-retour-enfers.webp",
+        "accession": "28.57.23",
+        "date": "ca. 440 BCE",
+        "source": "https://www.metmuseum.org/art/collection/search/252973",
+        "license": "CC0-1.0"
+      },
+      {
+        "id": 256902,
+        "path": "assets/illustrations-articles/met-256902-dionysos-medaillon-bois.webp",
+        "accession": "1998.43",
+        "date": "2nd century BCE",
+        "source": "https://www.metmuseum.org/art/collection/search/256902",
+        "license": "CC0-1.0"
+      }
+    ],
+    "precommit_checks": [
+      {
+        "page": "livre-iliade-scenes/index.html",
+        "figure": "icono-iliade-apollon-peste-bronze-met-246408-20261105",
+        "section": "crise",
+        "ids_before": 61,
+        "ids_after": 62,
+        "anchors": 35,
+        "images_before": 11,
+        "images_after": 12,
+        "duplicate_ids": 0,
+        "broken_local_anchors": 0,
+        "duplicate_images": 0
+      },
+      {
+        "page": "livre-odyssee/index.html",
+        "figure": "icono-odyssee-persephone-nekuia-met-252973-20261105",
+        "section": "chant-11",
+        "ids_before": 60,
+        "ids_after": 61,
+        "anchors": 31,
+        "images_before": 12,
+        "images_after": 13,
+        "duplicate_ids": 0,
+        "broken_local_anchors": 0,
+        "duplicate_images": 0
+      },
+      {
+        "page": "livre-hesiode/index.html",
+        "figure": "icono-hesiode-dionysos-genealogie-met-256902-20261105",
+        "section": "mariages-zeus",
+        "ids_before": 45,
+        "ids_after": 46,
+        "anchors": 26,
+        "images_before": 10,
+        "images_after": 11,
+        "duplicate_ids": 0,
+        "broken_local_anchors": 0,
+        "duplicate_images": 0
+      }
+    ],
+    "integrity": "La branche main, AGENTS.md, docs/PUBLICATION_CONCURRENTE.md, les trois pages et les notices Met ont été contrôlées. Un seul ajout ciblé par livre ; zéro ancre locale cassée, zéro identifiant ou image dupliqués sur chaque page. Trois médias WebP déjà présents sur main. Tests de régression étendus.",
+    "deployment_validation": "RECENT_FIGURES étendu avec les trois images sur les pages de lecture ; test du rendu HTTPS périmé et des octets altérés. Les validations et GitHub Pages restent à contrôler APRÈS commit ; ne pas annoncer une publication non observée.",
+    "pagination": "Manifeste catalog/reading-pdfs.json : 107, 101, 103 pages d'analyse pour Iliade, Odyssée, Théogonie ; aucun PDF modifié ou recalculé.",
+    "preservation": "Paragraphes universitaires, sections, navigation et numérotation inchangés. Aucune création dans chapitres/, éditorial inbox ou registres, aucun workflow ni horaire touché.",
+    "limitations": "Revue iconographique ciblée, pas de vérification graphique responsive en navigateur ni de nouvel examen scientifique exhaustif. La présentation publique dépend du déploiement GitHub Pages.",
     "commits": [],
-    "commit_note": "Exact commit SHA to be checked from GitHub after the atomic commit and noted in the response. No statement of public deployment before separate HTTPS confirmation."
+    "commit_note": "SHA du commit atomique à lire sur GitHub après la création ; le journal enregistre le type de séance et le suivant."
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
   "history": [
@@ -2796,6 +2868,128 @@
       "limitations": "No complete fresh browser responsive test or comprehensive bibliography review; this session focused on verified broken links, local asset integrity and known CI signals.",
       "commits": [],
       "commit_note": "Exact commit SHA to be checked from GitHub after the atomic commit and noted in the response. No statement of public deployment before separate HTTPS confirmation."
+    },
+    {
+      "date": "2026-11-05",
+      "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "previous_kind": "AUDIT ET CORRECTION",
+      "next_kind": "AUDIT ET CORRECTION",
+      "scope": "Séance 50 : trois documents muséaux antiques reliés à des sections précises des livres Iliade I, Odyssée XI et Théogonie 940–942, sans nouveaux fichiers d'images.",
+      "basis_commit": "acbc7b3ddc00a3858cf23223823cb3db57e92fc9",
+      "modified_pages": [
+        "livre-iliade-scenes/index.html",
+        "livre-odyssee/index.html",
+        "livre-hesiode/index.html"
+      ],
+      "new_figures": [
+        {
+          "id": "icono-iliade-apollon-peste-bronze-met-246408-20261105",
+          "page": "livre-iliade-scenes/index.html",
+          "section": "crise",
+          "asset": "/assets/illustrations-articles/met-246408-apollon-bronze-romain.webp",
+          "met_object_id": 246408,
+          "object_status": "œuvre antique romaine",
+          "date": "Ier–IIe siècle ap. J.-C.",
+          "primary_reference": "Homère, Iliade I, 43–52",
+          "link": "https://www.metmuseum.org/art/collection/search/246408"
+        },
+        {
+          "id": "icono-odyssee-persephone-nekuia-met-252973-20261105",
+          "page": "livre-odyssee/index.html",
+          "section": "chant-11",
+          "asset": "/assets/illustrations-articles/met-252973-persephone-retour-enfers.webp",
+          "met_object_id": 252973,
+          "object_status": "vase antique attique",
+          "date": "vers 440 av. J.-C.",
+          "primary_reference": "Homère, Odyssée XI, 213–218 et 385–386",
+          "link": "https://www.metmuseum.org/art/collection/search/252973"
+        },
+        {
+          "id": "icono-hesiode-dionysos-genealogie-met-256902-20261105",
+          "page": "livre-hesiode/index.html",
+          "section": "mariages-zeus",
+          "asset": "/assets/illustrations-articles/met-256902-dionysos-medaillon-bois.webp",
+          "met_object_id": 256902,
+          "object_status": "médaillon antique grec en bois",
+          "date": "IIe siècle av. J.-C.",
+          "primary_reference": "Hésiode, Théogonie 940–942",
+          "link": "https://www.metmuseum.org/art/collection/search/256902"
+        }
+      ],
+      "metadata_sources": [
+        {
+          "id": 246408,
+          "path": "assets/illustrations-articles/met-246408-apollon-bronze-romain.webp",
+          "accession": "96.9.401",
+          "date": "1st–2nd century CE",
+          "source": "https://www.metmuseum.org/art/collection/search/246408",
+          "license": "CC0-1.0"
+        },
+        {
+          "id": 252973,
+          "path": "assets/illustrations-articles/met-252973-persephone-retour-enfers.webp",
+          "accession": "28.57.23",
+          "date": "ca. 440 BCE",
+          "source": "https://www.metmuseum.org/art/collection/search/252973",
+          "license": "CC0-1.0"
+        },
+        {
+          "id": 256902,
+          "path": "assets/illustrations-articles/met-256902-dionysos-medaillon-bois.webp",
+          "accession": "1998.43",
+          "date": "2nd century BCE",
+          "source": "https://www.metmuseum.org/art/collection/search/256902",
+          "license": "CC0-1.0"
+        }
+      ],
+      "precommit_checks": [
+        {
+          "page": "livre-iliade-scenes/index.html",
+          "figure": "icono-iliade-apollon-peste-bronze-met-246408-20261105",
+          "section": "crise",
+          "ids_before": 61,
+          "ids_after": 62,
+          "anchors": 35,
+          "images_before": 11,
+          "images_after": 12,
+          "duplicate_ids": 0,
+          "broken_local_anchors": 0,
+          "duplicate_images": 0
+        },
+        {
+          "page": "livre-odyssee/index.html",
+          "figure": "icono-odyssee-persephone-nekuia-met-252973-20261105",
+          "section": "chant-11",
+          "ids_before": 60,
+          "ids_after": 61,
+          "anchors": 31,
+          "images_before": 12,
+          "images_after": 13,
+          "duplicate_ids": 0,
+          "broken_local_anchors": 0,
+          "duplicate_images": 0
+        },
+        {
+          "page": "livre-hesiode/index.html",
+          "figure": "icono-hesiode-dionysos-genealogie-met-256902-20261105",
+          "section": "mariages-zeus",
+          "ids_before": 45,
+          "ids_after": 46,
+          "anchors": 26,
+          "images_before": 10,
+          "images_after": 11,
+          "duplicate_ids": 0,
+          "broken_local_anchors": 0,
+          "duplicate_images": 0
+        }
+      ],
+      "integrity": "La branche main, AGENTS.md, docs/PUBLICATION_CONCURRENTE.md, les trois pages et les notices Met ont été contrôlées. Un seul ajout ciblé par livre ; zéro ancre locale cassée, zéro identifiant ou image dupliqués sur chaque page. Trois médias WebP déjà présents sur main. Tests de régression étendus.",
+      "deployment_validation": "RECENT_FIGURES étendu avec les trois images sur les pages de lecture ; test du rendu HTTPS périmé et des octets altérés. Les validations et GitHub Pages restent à contrôler APRÈS commit ; ne pas annoncer une publication non observée.",
+      "pagination": "Manifeste catalog/reading-pdfs.json : 107, 101, 103 pages d'analyse pour Iliade, Odyssée, Théogonie ; aucun PDF modifié ou recalculé.",
+      "preservation": "Paragraphes universitaires, sections, navigation et numérotation inchangés. Aucune création dans chapitres/, éditorial inbox ou registres, aucun workflow ni horaire touché.",
+      "limitations": "Revue iconographique ciblée, pas de vérification graphique responsive en navigateur ni de nouvel examen scientifique exhaustif. La présentation publique dépend du déploiement GitHub Pages.",
+      "commits": [],
+      "commit_note": "SHA du commit atomique à lire sur GitHub après la création ; le journal enregistre le type de séance et le suivant."
     }
   ]
 }

@@ -294,6 +294,15 @@ RECENT_FIGURES = (
     ("philosophie-theogonie.html", "icono-theogonie-dionysos-medaillon-bois-met-256902-20261105",
      "/assets/illustrations-articles/met-256902-dionysos-medaillon-bois.webp"),
 
+    # Séance 50 : ajouter le contrôle HTTPS des trois lecteurs, avec réemploi
+    # des fichiers institutionnels déjà contrôlés dans les études philosophiques.
+    ("livre-iliade-scenes/index.html", "icono-iliade-apollon-peste-bronze-met-246408-20261105",
+     "/assets/illustrations-articles/met-246408-apollon-bronze-romain.webp"),
+    ("livre-odyssee/index.html", "icono-odyssee-persephone-nekuia-met-252973-20261105",
+     "/assets/illustrations-articles/met-252973-persephone-retour-enfers.webp"),
+    ("livre-hesiode/index.html", "icono-hesiode-dionysos-genealogie-met-256902-20261105",
+     "/assets/illustrations-articles/met-256902-dionysos-medaillon-bois.webp"),
+
 )
 
 
