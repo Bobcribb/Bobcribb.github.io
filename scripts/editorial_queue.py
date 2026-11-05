@@ -21,6 +21,10 @@ QUARANTINED_INVALID_REQUESTS = {
         "sha256": "35fbad6ea7ae497995708c70346a54395ed40cb5692d305db4938e8c954c195f",
         "reason": "Nom UUID historique mal formé (MC-041) : conserver le manuscrit intact sans l'allouer tant qu'il n'est pas réémis sous un UUID canonique.",
     },
+    "20261105-mc-069-souffle-vent-vie-philologie.json": {
+        "sha256": "7e2f4608940e2ba64b76d0970c7e18c7f1a966eff2e99fcfaad09ee32bb0f85c",
+        "reason": "Soumission MC-069 « Quand les dieux respirent » conservée intacte sous son nom non-UUID (91 145 caractères de Markdown). Ne pas lui attribuer de numéro ni créer d’UUID de substitution ; cote MC-069 également revendiquée par la demande canonique 5ed94532-0216-4cf3-ae69-2390d43b0069. Réconciliation philologique et éditoriale indispensable avant toute publication distincte.",
+    },
 }
 COLLECTIONS = {
     "origines-du-sacre": ("", "decimal", 0),
