@@ -1117,3 +1117,20 @@ body.mythos-design .greek-cross-readings[data-greek-cross-readings="delphes"] h2
   }
 }
 
+/* Aphrodite : trois traditions séparées (généalogies, poésie et Palaepaphos).
+   Variante typographique dorée, sans image archéologique inventée. */
+body.mythos-design .greek-cross-readings[data-greek-cross-readings="aphrodite"]{
+  border-inline-start:3px solid #d9af6b;
+  background:linear-gradient(120deg,#202024,#11191d 74%);
+}
+body.mythos-design .greek-cross-readings[data-greek-cross-readings="aphrodite"] h2{
+  border-bottom:1px solid #786246;
+  padding-bottom:.65rem;
+}
+@media(max-width:480px){
+  body.mythos-design .greek-cross-readings[data-greek-cross-readings="aphrodite"]{
+    padding:.9rem;
+    margin-inline:0;
+  }
+}
+
