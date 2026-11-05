@@ -441,7 +441,7 @@ def verify_public_behistun(base, root):
     image = root / BEHISTUN_IMAGE.lstrip("/")
     expected = behistun_card_metadata(page.read_bytes())
     local_photo = image.read_bytes()
-    if not local_photo.startswith(b"\\xff\\xd8\\xff"):
+    if not local_photo.startswith(bytes.fromhex("ffd8ff")):
         raise ValueError("Photographie source Behistun invalide : JPEG attendu")
     expected_sha = hashlib.sha256(local_photo).hexdigest()
     target = base.rstrip("/")
@@ -456,7 +456,7 @@ def verify_public_behistun(base, root):
                        "error": str(error)})
     try:
         status, _, actual_photo = fetch(target + BEHISTUN_IMAGE)
-        matches = (status == 200 and actual_photo.startswith(b"\\xff\\xd8\\xff")
+        matches = (status == 200 and actual_photo.startswith(bytes.fromhex("ffd8ff"))
                    and hashlib.sha256(actual_photo).hexdigest() == expected_sha)
         checks.append({"url": BEHISTUN_IMAGE, "valid": matches,
                        "status": status, "sha256_matches_build": matches})
