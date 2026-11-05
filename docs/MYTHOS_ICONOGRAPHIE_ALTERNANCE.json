@@ -5,89 +5,54 @@
   "branch": "main",
   "latest_session": {
     "date": "2026-11-05",
-    "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "previous_kind": "AUDIT ET CORRECTION",
-    "next_kind": "AUDIT ET CORRECTION",
-    "scope": "Séance 52 : insertion de trois figures documentaires Met sourcées au niveau des analyses développées des monographies Iliade VI (Bellérophon), Odyssée I–IV (Athéna, Télémachie), Théogonie 918–920 (Apollon, Léto).",
-    "basis_commit": "1b5b2814f6b1b06d1d5ac854dd5074bd48a5fb7b",
-    "modified_pages": [
-      "philosophie-iliade.html",
-      "philosophie-odyssee.html",
-      "philosophie-theogonie.html"
-    ],
-    "new_figures": [
-      {
-        "page": "philosophie-iliade.html",
-        "id": "icono-iliade-redon-bellerophon-glaucos-met-459400-20261105",
-        "section": "lecture-section-24",
-        "asset": "/assets/illustrations-articles/met-459400-redon-bellerophon-pegase.webp",
-        "met_object_id": 459400,
-        "accession": "1975.1.686",
-        "date": "vers 1888",
-        "status": "dessin d'Odilon Redon, réception moderne non générée par IA ; Pégase ne figure pas dans l'Iliade VI",
-        "source": "https://www.metmuseum.org/art/collection/search/459400"
-      },
-      {
-        "page": "philosophie-odyssee.html",
-        "id": "icono-odyssee-athena-telemachie-met-254648-20261105",
-        "section": "lecture-section-3",
-        "asset": "/assets/illustrations-articles/met-254648-athena-chouette-bronze.webp",
-        "met_object_id": 254648,
-        "accession": "50.11.1",
-        "date": "vers 460 av. J.-C.",
-        "status": "statue grecque antique authentique, photographie non générée par IA ; ne représente pas Télémaque",
-        "source": "https://www.metmuseum.org/art/collection/search/254648"
-      },
-      {
-        "page": "philosophie-theogonie.html",
-        "id": "icono-theogonie-apollon-leto-zeus-met-246408-20261105",
-        "section": "lecture-section-40",
-        "asset": "/assets/illustrations-articles/met-246408-apollon-bronze-romain.webp",
-        "met_object_id": 246408,
-        "accession": "96.9.401",
-        "date": "Ier–IIe siècle apr. J.-C.",
-        "status": "statuette romaine antique authentique, photographie non générée par IA ; ne représente pas la naissance du dieu",
-        "source": "https://www.metmuseum.org/art/collection/search/246408"
-      }
-    ],
-    "checks": {
-      "existing_pages": "3 HTML présents sur main ; trois médias WebP recensés dans assets/illustrations-articles/sources-met.json et avec licence CC0 ; métadonnées institutionnelles revérifiées.",
-      "html": "Un seul id et img créé sur chaque page. Contrôles pré-commit : 34, 33, 33 images ; aucun identifiant HTML, image source ou ancre locale dupliqué/cassé.",
-      "new_files": "Aucun média ajouté, trois réemplois de médias existants, deux médias déjà suivis par l'outil HTTPS ; un nouveau digest attendu.",
-      "publication_regression": "RECENT_FIGURES étendu de 46 à 49 figures réparties sur six pages, 36 fichiers médias distincts ; tests de vérification d'un HTML public périmé et d'une altération des binaires.",
-      "pagination": [
-        {
-          "work": "L’Iliade",
-          "analysis_pages": 107,
-          "target_reached": true
-        },
-        {
-          "work": "L’Odyssée",
-          "analysis_pages": 101,
-          "target_reached": true
-        },
-        {
-          "work": "La Théogonie",
-          "analysis_pages": 103,
-          "target_reached": true
-        }
-      ],
-      "documentation": "Date, numéro d'inventaire, contexte iconographique et différence entre oeuvre réelle, récit antique et création IA consignés dans les trois légendes."
-    },
-    "changes": {
-      "modified": [
+    "kind": "AUDIT ET CORRECTION",
+    "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "scope": "Séance 53 : audit des neuf pages prioritaires, des médias, des tests et du manifeste HTTPS ; correction des déclencheurs et de la couverture de test du workflow d'intégrité.",
+    "basis_commit": "c8a468f5a76b3024f8833b3b8fe7be0c088dabbf",
+    "audit_evidence": {
+      "preceding_integral_audit_run": 42006483155,
+      "preceding_integral_audit_head": "90230c771394789fb2c9db7b218bc8abea18503a",
+      "preceding_integral_audit_result": "success",
+      "inspected_pages": [
+        "index.html",
         "philosophie-iliade.html",
         "philosophie-odyssee.html",
         "philosophie-theogonie.html",
-        "scripts/verify_live_site.py",
-        "tests/test_verify_live_site_assets.py"
+        "livre-iliade-scenes/index.html",
+        "livre-odyssee/index.html",
+        "livre-hesiode/index.html",
+        "mythologie-grecque/index.html",
+        "reconstitutions-photorealistes.html"
       ],
-      "unchanged": "Texte scientifique, pagination PDF, navigation, registres de numérotation, dossiers chapitres, editorial/inbox, workflows et fréquences inchangés."
+      "pages_count": 9,
+      "same_page_fragment_links_checked": 555,
+      "duplicate_html_ids": 0,
+      "broken_same_page_fragments": 0,
+      "images_checked": 270,
+      "images_missing_alt": 0,
+      "responsive": "Neuf pages avec lang et viewport ; aucune preuve de rendu visuel multi-écrans pendant cette séance.",
+      "assets": "Les CSS/JS communs référencés par ces pages sont présents dans le dossier assets ; les trois WebP documentaires de la séance 52 sont présents sur main.",
+      "pagination": "Manifest catalog/reading-pdfs.json : 107 pages d'analyse Iliade, 101 Odyssée, 103 Théogonie ; PDF non modifiés.",
+      "served_public_manifest_commit": "c619d0c709f37a10555ef681bfec00b77ad2dc92",
+      "served_public_manifest_run": "42004049222"
     },
-    "publication_status": "A confirmer par vérification HTTPS post-commit ; un commit GitHub n'est pas une publication publique.",
-    "limitations": "Contrôle de sources et HTML ciblé, sans audit bibliographique exhaustif ni captures responsive multi-écrans ; résultats CI et version publique à relire après enregistrement.",
+    "verified_defect": "Le workflow .github/workflows/audit-integrity.yml n'incluait pas scripts/audit_policy.py, les régressions test_audit_*.py ni CNAME dans ses filtres push ; des modifications isolées de ces éléments pouvaient contourner l'audit. Le job audit ne lançait pas les tests spécifiques de sa politique fail-closed.",
+    "changes": {
+      "modified": [
+        ".github/workflows/audit-integrity.yml",
+        "docs/MYTHOS_ICONOGRAPHIE_ALTERNANCE.json"
+      ],
+      "added": [
+        "tests/test_audit_workflow_coverage.py"
+      ],
+      "details": "Déclencher l'audit pour les modifications de la politique, de ses tests et du domaine ; exécuter les régressions du workflow et de la politique avant la reconstruction complète. Aucune fréquence ni planification changée."
+    },
+    "preservation": "Aucun chapitre, registre de numérotation, manuscrit, texte universitaire, PDF, image, navigation ou horaire d'automatisation modifié.",
+    "publication_status": "Le manifeste HTTPS public indique toujours c619d0c7, antérieur aux dernières séances. Le commit de correction CI n'est pas une preuve de nouveau déploiement ; contrôler GitHub Actions et HTTPS après écriture.",
+    "limitations": "L'audit des neuf pages est statique ; les références scientifiques externes et l'affichage responsive complet ne sont pas certifiés. L'audit intégral réussi précède le nouveau commit, et ses nouvelles validations restent à consulter.",
     "commits": [],
-    "commit_note": "Lire SHA de commit et les fichiers modifiés après l'actualisation atomique de main."
+    "commit_note": "L'identifiant SHA de cette transaction atomique est confirmé après relecture de main et des trois fichiers."
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
   "history": [
@@ -3103,6 +3068,57 @@
       "limitations": "Contrôle de sources et HTML ciblé, sans audit bibliographique exhaustif ni captures responsive multi-écrans ; résultats CI et version publique à relire après enregistrement.",
       "commits": [],
       "commit_note": "Lire SHA de commit et les fichiers modifiés après l'actualisation atomique de main."
+    },
+    {
+      "date": "2026-11-05",
+      "kind": "AUDIT ET CORRECTION",
+      "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "scope": "Séance 53 : audit des neuf pages prioritaires, des médias, des tests et du manifeste HTTPS ; correction des déclencheurs et de la couverture de test du workflow d'intégrité.",
+      "basis_commit": "c8a468f5a76b3024f8833b3b8fe7be0c088dabbf",
+      "audit_evidence": {
+        "preceding_integral_audit_run": 42006483155,
+        "preceding_integral_audit_head": "90230c771394789fb2c9db7b218bc8abea18503a",
+        "preceding_integral_audit_result": "success",
+        "inspected_pages": [
+          "index.html",
+          "philosophie-iliade.html",
+          "philosophie-odyssee.html",
+          "philosophie-theogonie.html",
+          "livre-iliade-scenes/index.html",
+          "livre-odyssee/index.html",
+          "livre-hesiode/index.html",
+          "mythologie-grecque/index.html",
+          "reconstitutions-photorealistes.html"
+        ],
+        "pages_count": 9,
+        "same_page_fragment_links_checked": 555,
+        "duplicate_html_ids": 0,
+        "broken_same_page_fragments": 0,
+        "images_checked": 270,
+        "images_missing_alt": 0,
+        "responsive": "Neuf pages avec lang et viewport ; aucune preuve de rendu visuel multi-écrans pendant cette séance.",
+        "assets": "Les CSS/JS communs référencés par ces pages sont présents dans le dossier assets ; les trois WebP documentaires de la séance 52 sont présents sur main.",
+        "pagination": "Manifest catalog/reading-pdfs.json : 107 pages d'analyse Iliade, 101 Odyssée, 103 Théogonie ; PDF non modifiés.",
+        "served_public_manifest_commit": "c619d0c709f37a10555ef681bfec00b77ad2dc92",
+        "served_public_manifest_run": "42004049222"
+      },
+      "verified_defect": "Le workflow .github/workflows/audit-integrity.yml n'incluait pas scripts/audit_policy.py, les régressions test_audit_*.py ni CNAME dans ses filtres push ; des modifications isolées de ces éléments pouvaient contourner l'audit. Le job audit ne lançait pas les tests spécifiques de sa politique fail-closed.",
+      "changes": {
+        "modified": [
+          ".github/workflows/audit-integrity.yml",
+          "docs/MYTHOS_ICONOGRAPHIE_ALTERNANCE.json"
+        ],
+        "added": [
+          "tests/test_audit_workflow_coverage.py"
+        ],
+        "details": "Déclencher l'audit pour les modifications de la politique, de ses tests et du domaine ; exécuter les régressions du workflow et de la politique avant la reconstruction complète. Aucune fréquence ni planification changée."
+      },
+      "preservation": "Aucun chapitre, registre de numérotation, manuscrit, texte universitaire, PDF, image, navigation ou horaire d'automatisation modifié.",
+      "publication_status": "Le manifeste HTTPS public indique toujours c619d0c7, antérieur aux dernières séances. Le commit de correction CI n'est pas une preuve de nouveau déploiement ; contrôler GitHub Actions et HTTPS après écriture.",
+      "limitations": "L'audit des neuf pages est statique ; les références scientifiques externes et l'affichage responsive complet ne sont pas certifiés. L'audit intégral réussi précède le nouveau commit, et ses nouvelles validations restent à consulter.",
+      "commits": [],
+      "commit_note": "L'identifiant SHA de cette transaction atomique est confirmé après relecture de main et des trois fichiers."
     }
   ]
 }
