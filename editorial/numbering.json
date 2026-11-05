@@ -1066,6 +1066,12 @@
           "path": "chapitres/encyclopedie/chapitre-430-athena-alea-tegee-skopas-asile-atlante-telephe-sanctuaire.md",
           "request_sha256": "b94a0ca1a8b587803d810e8bcae15aa0dd9bfd13d74ca691dacec36dd5625525",
           "initial_source_sha256": "285db2f288f82b52127b1e67099948fb255b1bd6fb91634d1cb929bbead81fdb"
+        },
+        "2c89a1e4-d71b-48e2-9a33-ea163659be07": {
+          "number": 431,
+          "path": "chapitres/encyclopedie/chapitre-431-zeus-lykaios-mont-lykaion-arcadie-orages-lykaia-sacrifices.md",
+          "request_sha256": "99730597b24b6c97d6f32f8c0564a9c67652b985743a6c90ae8dbadff81fe4a1",
+          "initial_source_sha256": "9f486dbf53cd5c7282e4748b1430ea8af314cff43524e75866a8b3787413e7b9"
         }
       }
     },
@@ -2419,6 +2425,12 @@
           "path": "chapitres/comparatif/volume-ccxlv-mc-065-quand-les-dieux-combattent-theomachie-souverainete-violence-cosmique.md",
           "request_sha256": "e7b7e2c8088143edf39fc7e1cf78ff7da00d6e59a7fc01ed20f50009ee2da4c3",
           "initial_source_sha256": "60db76872b2da911c0fa957433d87c997f8f35aca628916fc8521f000697b507"
+        },
+        "b066e3d2-31d5-4066-8066-202611050066": {
+          "number": 246,
+          "path": "chapitres/comparatif/volume-ccxlvi-mc-066-quand-les-dieux-ecrivent-tablettes-destin-scribes-archives-au-dela.md",
+          "request_sha256": "50f17c34a017a74f38d8a8c1d35a849718d4387470785b3475896332f2865fba",
+          "initial_source_sha256": "9cfc65df6667c0c1cb38c8cb330fb70aad5f22dcce52a86883a4356fc04621d3"
         }
       }
     }
