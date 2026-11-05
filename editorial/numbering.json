@@ -753,6 +753,60 @@
           "path": "chapitres/origines-du-sacre/697-palmyre-tours-hypogees-trois-freres-portraits-inscriptions-maison-eternite.md",
           "request_sha256": "287f378016303c0942911f1fceb8b48df041716748236c3805d9a2be8a57b739",
           "initial_source_sha256": "660888dae44aedc2842c69981644fdaa6c9446a2914ed803972e93de9cf14e08"
+        },
+        "113452c2-9480-55b3-b64c-4b4979a9b592": {
+          "number": 698,
+          "path": "chapitres/origines-du-sacre/698-khaybar-alula-avenues-funeraires-tombes-pendentifs-bronze.md",
+          "request_sha256": "0e48ac9ba8c4630f7dbbe9d6f42bf48d53a0e6ff09c57ea23e56ef1da04e67dd",
+          "initial_source_sha256": "9a4a0351db89fe639f892adf12017fd34a1b2d720dd75f008aa0c863ed22d357"
+        },
+        "1ab73d6e-5e9e-45c9-8ba1-2867a61c42fe": {
+          "number": 699,
+          "path": "chapitres/origines-du-sacre/699-arabie-avenues-funeraires-oasis-khaybar-alula-mobilite-pastorale.md",
+          "request_sha256": "5983076c8ccade25da19bb9100cb6aebc3843db8ca69cf41a10f9a6ef789466f",
+          "initial_source_sha256": "b4d251188ca5793cc1fc71345cce9db3382292b15a5f526cfee3bcf7ffc180d3"
+        },
+        "4e5aca67-c48a-4a55-a839-7296117bcf02": {
+          "number": 700,
+          "path": "chapitres/origines-du-sacre/700-tayma-rujum-sasa-al-nasim-sepultures-bronze-arabie.md",
+          "request_sha256": "dd124afac863d881091eef5a41eb24548b71439fa25700dd58b2e60135aa32fe",
+          "initial_source_sha256": "03457e0e9242ee74bc294a88acf91c38135473a93380c569673c8fa08356ccba"
+        },
+        "4efd3acd-7029-5c50-a90b-7fb0e137b5fa": {
+          "number": 701,
+          "path": "chapitres/origines-du-sacre/701-mustatils-harrat-khaybar-alula-cornes-ruminants-offrandes-neolithique.md",
+          "request_sha256": "8bd46eaacdd5e20c50bf8371939016154df32dc6c11b8a5c6fff1bad44b3c189",
+          "initial_source_sha256": "d3125f3814634114d96021be6b5783201660a9578938e18fcbb1edcbcabc6e81"
+        },
+        "5d68e011-3cc7-4a0a-8e28-b1c6f894a922": {
+          "number": 702,
+          "path": "chapitres/origines-du-sacre/702-al-bad-mughayir-shuayb-asifir-necropoles-nabateennes-architecture.md",
+          "request_sha256": "22592bf6fca56b60e32ff47117585f03850c9ce6833bc4fae0ffcb3e023fc6a5",
+          "initial_source_sha256": "dd1c4f4bf2a88a13d1b97ca59e6226f79d538427805f5a014549c09d0833afad"
+        },
+        "761eb219-24c2-4ea3-9f8e-ec5d66f90431": {
+          "number": 703,
+          "path": "chapitres/origines-du-sacre/703-hegra-nabateens-inscriptions-droits-tombeaux-amendes-neheme.md",
+          "request_sha256": "e04a2a5783c9db4286bc1cedc66b5afa71c4ba9f01ca689af53fe6d561578fbf",
+          "initial_source_sha256": "f1af637de9172272b2e8b385a02169c0b8ab52e3a69599dadd03c6e5acd305c7"
+        },
+        "7ba192cd-6d8e-4f31-9e8a-5c2df071e9b2": {
+          "number": 704,
+          "path": "chapitres/origines-du-sacre/704-dadan-lihyan-tombeaux-lions-epigraphie-funeraire-khuraybah.md",
+          "request_sha256": "db65935fd7deeff444d64496af6efa66ac8a531fffda2a5d91f8f08b0c4130ea",
+          "initial_source_sha256": "7ac8f00e2f032da7bfe866e9f1e782b4699213497ceb976e9b9fda427375d407"
+        },
+        "82d4b969-6464-45e5-bb4a-926cae2165aa": {
+          "number": 705,
+          "path": "chapitres/origines-du-sacre/705-petra-nabateens-tombes-rupestres-north-ridge-inscriptions-necropolis.md",
+          "request_sha256": "1fb9c9b84af9690e222536fd806dbbc843d2e9cbb7773bad98b647ecc06bf26d",
+          "initial_source_sha256": "f6c44dcf0317fae240f71e7732e53be3354abb4a60451f19741676caa8a9595f"
+        },
+        "e2a49c68-64df-4e8e-b314-0fb3a1179a61": {
+          "number": 706,
+          "path": "chapitres/origines-du-sacre/706-khaybar-harrat-al-natah-tombes-alveolaires-stratigraphie-bronze.md",
+          "request_sha256": "3895803eaa955d0b67778ca4ac2c86bc87f414074613a033bd1bab7fe3be40a6",
+          "initial_source_sha256": "dcba9cf65395fd8bedba0e0024ee945987b9c147fef2bfa4ab13d2f144f452f9"
         }
       }
     },
@@ -1360,6 +1414,36 @@
           "path": "chapitres/encyclopedie/chapitre-448-amphiaraos-amphiareion-oropos-devin-incubation-guerison-epigraphie.md",
           "request_sha256": "699f4a0c2932cf09b9457b6d0bd345702deab34a2cd99d066f3543be5f8b15a5",
           "initial_source_sha256": "58499666b06c393ea8cda471b67f2307860477987d6d2f9213b5665773465e57"
+        },
+        "341e66ee-4e95-4c9f-8530-ef19edbc2b88": {
+          "number": 449,
+          "path": "chapitres/encyclopedie/chapitre-449-athena-chalkioikos-sparta-acropole-gitiadas-bronze-asylie.md",
+          "request_sha256": "dcb8576afb3df41ccf08c3d3bda620f7aec83b04160ebd658f86134b3effa3f2",
+          "initial_source_sha256": "5366f5618edb33f2c2a4facbb37f4028613653467c69563b4159742d7242244f"
+        },
+        "3c81ed0e-65f9-4b1c-89de-9e401f9d3bf0": {
+          "number": 450,
+          "path": "chapitres/encyclopedie/chapitre-450-trophonios-lebadee-descente-oraculaire-lethe-mnemosyne-herkyna.md",
+          "request_sha256": "83f7e5a1256260476b07b1e9f80c9481686fa69c0d4452876a827dcf0457a4c7",
+          "initial_source_sha256": "a902df252976bafec9e65a8b78b43555bd3066f169c6fb3457d0458233160dcc"
+        },
+        "8a93d8bd-1700-4b86-9f2e-d70115f3cc64": {
+          "number": 451,
+          "path": "chapitres/encyclopedie/chapitre-451-apollon-ismenios-thebes-ismenton-melia-trepieds-daphnephorie-oracle.md",
+          "request_sha256": "93d88dd2b9fb3fd646914799432c98dba020e14f61b5d6c5e48b8aed75783411",
+          "initial_source_sha256": "c211801c8a6b9b3da61de0875050052ccdddfc68852c68142fc277c9678124fb"
+        },
+        "bfe72a9c-6e4b-42a1-8cb8-6f0c287e4f36": {
+          "number": 452,
+          "path": "chapitres/encyclopedie/chapitre-452-helene-menelas-menelaion-therapne-epigraphie-cultes-memoire.md",
+          "request_sha256": "cc9752a20873d4081f8a72402908e204e991987d060fd0a8e4f7511ac2f3afae",
+          "initial_source_sha256": "0b3245de0ddb525820aa54d1aeb3eb6d6056b3393d14228e1c1cba7f93cb17a4"
+        },
+        "cb680531-6c1f-489e-955e-7a4b4e60ff32": {
+          "number": 453,
+          "path": "chapitres/encyclopedie/chapitre-453-apollon-amyklaios-hyakinthos-amyklaion-hyakinthies-bathykles.md",
+          "request_sha256": "82cc355ad50e2e720f3df56cd7c113e50f40ef4dcb57de715fc88fe18843fe69",
+          "initial_source_sha256": "d63f02cd3c6e967986a37d6ce57d3820a872a5c6a5d9d0931c132b79d3daad2c"
         }
       }
     },
@@ -1774,6 +1858,30 @@
           "path": "chapitres/comedies/volume-117-magnes-ornithes-oiseaux-ailes-scholie-presage-transmission.md",
           "request_sha256": "976d4e8bd590f4ecfcbe4efdfd7e68ae77e3919c72f888e372d8de34591c0180",
           "initial_source_sha256": "cfca0328145c55348adc496deca82ead034df538f15357f70c342d786b46117a"
+        },
+        "6f948a3d-47cb-4189-9a93-4e2d0cb75814": {
+          "number": 118,
+          "path": "chapitres/comedies/volume-118-magnes-fragments-incertains-7-8-amphoriskos-aprostomon-photios-pollux.md",
+          "request_sha256": "a39f1739e79b88b87846b2ecf3b374544b759e907ed6378b7bfd44765b71d048",
+          "initial_source_sha256": "e87ea1c82c4358f4a3ee5c2d6f02124c6a9a1101c9e9a586766c303f596bfa58"
+        },
+        "af3e07b8-2c41-47f7-89c1-310ec72c4d92": {
+          "number": 119,
+          "path": "chapitres/comedies/volume-119-magnes-pytakides-fragment-6-serment-nunde-titakides-photios.md",
+          "request_sha256": "16d971492cec3feca5303b19818f9221215222f09cbff74f3d49595e30227a59",
+          "initial_source_sha256": "4c09580219ecd7b23d9f06bc2f68f1b5cfdb408333c960bd2755e2841e4f0998"
+        },
+        "c82314d9-6ba5-49ac-87ae-4f584cf0a30d": {
+          "number": 120,
+          "path": "chapitres/comedies/volume-120-magnes-psenes-figues-caprification-symbiose-scholies.md",
+          "request_sha256": "32b75dba0db02d485a37c73d55c88e57eedf9016520b02e059760f198230ad72",
+          "initial_source_sha256": "e60f834df0383e68834d186074ad5e0a4860d261c0b3a6ae8a35b139a31ff5ad"
+        },
+        "e19e5197-43c5-4593-81e1-7b58dd178eb1": {
+          "number": 121,
+          "path": "chapitres/comedies/volume-121-menandros-ii-souda-589-homonymie-ancien-sans-fragments.md",
+          "request_sha256": "66c75d7b68802e147a3dd890a16a6d7d8fdc5748f010e173703188bea647f4ce",
+          "initial_source_sha256": "fe7df384e141f8c54206d3a56104675abc0679402516728489bb85e87a4bf2c7"
         }
       }
     },
@@ -2983,6 +3091,54 @@
           "path": "chapitres/comparatif/volume-cclxvii-mc-081-porter-le-ciel-atlas-shou-skambha-cosmographies-architecture-du-monde.md",
           "request_sha256": "39f400235e0351ee8d927078dba0d7a31c8b6150c7245a7e6c818bde4977bb07",
           "initial_source_sha256": "dabd3c9215b518db37b3f6bfc31cd3b43a2484f9df3904442d41af392559758b"
+        },
+        "5283b0dd-0d83-4e82-8a63-202611050083": {
+          "number": 268,
+          "path": "chapitres/comparatif/volume-cclxviii-mc-083-ravir-sans-posseder-feu-me-soma-plante-jeunesse-transferts-divins.md",
+          "request_sha256": "5d94e2305410f4a04bb155e641f1f8a3f1f05a9fe4a7a2d9a10c6b2611136b6e",
+          "initial_source_sha256": "8c1b3c310d48f870b9755cd8540be412da54eb2e17cf5a10d5140f63a81e1fd6"
+        },
+        "8d9ce5f4-d076-4f00-9dbf-209d8476b3bf": {
+          "number": 269,
+          "path": "chapitres/comparatif/volume-cclxix-grenouilles-iacchos-choeur-inities-purete-rituelle-citoyennete-405.md",
+          "request_sha256": "45ccb88c2050ecfa4a7fb0a0db56b828c92fc46d292381f12e1ef796a8cf0049",
+          "initial_source_sha256": "cfae221a981a80d968ff1933fea3c74aee9e0b6f2eee34241cbc8ee46c98cb83"
+        },
+        "8e2a45fc-73d0-46e1-87a1-f7a0b0a5a1c2": {
+          "number": 270,
+          "path": "chapitres/comparatif/volume-cclxx-mc-085-accorder-les-jours-calendriers-sacres-epagomenes-intercalation-temps-rituel.md",
+          "request_sha256": "a7a25c57f4303cca1d408b07737e2c2b79f97c6bd9cd544022dc652ff8bf6027",
+          "initial_source_sha256": "7f64af090cc8a1c96b37a0c70f60b0c54c52daf7e0bcefadfdf2348d9a822b96"
+        },
+        "a820c684-152e-44b0-9a84-202611050084": {
+          "number": 271,
+          "path": "chapitres/comparatif/volume-cclxxi-mc-084-animaux-divins-montures-emblemes-incarnations-souverainete.md",
+          "request_sha256": "08b9b2a6d86deaf553ba76e74d3c405df6125cf85c8a38f784eb7cdffdc7c0aa",
+          "initial_source_sha256": "b0f96e810d268c62b5ad9ada495a03c2da1e35a4204a1688d956438b6c3116b8"
+        },
+        "bd3e8c74-63ea-4c59-9f73-63df0be9e218": {
+          "number": 272,
+          "path": "chapitres/comparatif/volume-cclxxii-grenouilles-balance-vers-mesure-poesie-echec-critique-jugement-405.md",
+          "request_sha256": "7874814ea9f870ae71ff63b0df21c41572fdbfd39e905e90228c71621b208a8a",
+          "initial_source_sha256": "8cfc0a4ded1e91194cb10aeab9b2565c2bdad8c1f42f71ba218fab6eb4d0e830"
+        },
+        "d73f9a62-1e48-45f8-9d0a-5bcd730e9a24": {
+          "number": 273,
+          "path": "chapitres/comparatif/volume-cclxxiii-grenouilles-iacchos-inities-purete-exclusions-politiques-memoire-eleusis-405.md",
+          "request_sha256": "5cacad3d3fbfcfec0b4c3a2724e4f6503f786a6767b2ae5474eb457f38d61678",
+          "initial_source_sha256": "b4d7ef97761bccddaf5c387cdaf3fe6d330f6e4fe38c58310f6b12ceaf4783ca"
+        },
+        "f27c8d19-7b42-4a2d-ae61-5e130ca9b247": {
+          "number": 274,
+          "path": "chapitres/comparatif/volume-cclxxiv-lysistrata-myrrhine-cinesias-lit-serment-apate-homere-negociation-411.md",
+          "request_sha256": "390fc02feca9b8e1b41a5fe8243b11d8f4eb08fcd06db38e20699fcb2345fd95",
+          "initial_source_sha256": "06c2623d60016ad21abf4222e9c8073570f048c1ede32384a4c8d3e361ebb4a7"
+        },
+        "f282b8a1-5b13-4e07-98bc-202611050082": {
+          "number": 275,
+          "path": "chapitres/comparatif/volume-cclxxv-mc-082-couleurs-du-sacre-pigments-corps-divins-polychromie-egypte-mesopotamie-grece-perse-israel-inde.md",
+          "request_sha256": "ec6c9d7531d71af6aaf88d6e22125dfcb1d842e3a6f071f525420ee62b190b6b",
+          "initial_source_sha256": "6244a603e8d1411ac4b0d83ac7919b2edc4814ce70a021eed041b466fa8a7fb9"
         }
       }
     }
