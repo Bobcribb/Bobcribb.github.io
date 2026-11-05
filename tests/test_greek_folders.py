@@ -16,6 +16,14 @@ class GreekFolderTests(unittest.TestCase):
         self.assertIn('overflow-wrap:anywhere', CSS)
         self.assertIn('@media(max-width:700px)', CSS)
         self.assertIn('.greek-folder-toc a:focus-visible', CSS)
+        # Les panneaux sont ajoutés aux monographies, pas seulement aux
+        # sommaires : leur présentation doit vivre dans le CSS commun.
+        shared_css = (Path(__file__).resolve().parents[1] /
+                      'assets/mythos-museum.css').read_text(encoding='utf-8')
+        self.assertIn('body.mythos-design .greek-cross-readings a{display:flex;min-height:44px',
+                      shared_css)
+        self.assertIn('@media(max-width:700px){body.mythos-design .greek-cross-readings ul',
+                      shared_css)
 
     def test_single_greek_encyclopedia_entry_in_both_menus(self):
         from apply_museum_design import header
