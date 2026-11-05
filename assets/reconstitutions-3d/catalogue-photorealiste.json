@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-04",
+  "generated_at": "2026-11-05",
   "site": "bobmythos.fr",
   "method": "Illustrations photoréalistes interprétatives, textes et sources hors des pixels.",
-  "count": 46,
+  "count": 47,
   "entries": [
     {
       "id": "DEL-PAN-001",
@@ -938,6 +938,29 @@
       "provenance": "Image numérique originale générée par IA, photoréaliste, non métrique. Aucune interface, titre ou légende n'est incrusté. Les sources attestent les vestiges sans approuver cette interprétation graphique.",
       "sha256": "7eaf28fa8db1ecfb5a6463cb8fb250cd027bec10ebf04dfc1e5db9bdcbbd16b6",
       "scientific_notice": "/assets/reconstitutions-3d/notices/perachora-heraion-sanctuaire-cotier-vers-275-av-jc.json"
+    },
+    {
+      "id": "ATH-ERE-001",
+      "slug": "athenes-erechtheion-caryatides-vers-406-av-jc",
+      "title": "Athènes — Érechthéion : portique des Caryatides et façades ioniques",
+      "period": "Évocation vers 406 av. J.-C. (fin du Ve siècle av. J.-C. ; état architectural interprétatif)",
+      "caption": "Reconstitution visuelle photoréaliste de l’Érechthéion sur l’Acropole d’Athènes, avec le portique sud des Caryatides. Vue artistique d’ensemble non métrique, non validée par une institution scientifique.",
+      "commentary": "L’Érechthéion fut édifié sur l’Acropole d’Athènes approximativement entre 421 et 406 av. J.-C., sur un terrain présentant des différences de niveau, pour réunir plusieurs traditions cultuelles. Son corps principal asymétrique, son architecture ionique, son portique septentrional et son portique méridional porté par six korai (Caryatides) sont solidement documentés. La documentation architecturale et les vestiges conservés étayent les grands volumes, mais ne permettent pas de valider l’image produite comme une restitution exacte de l’édifice en 406 av. J.-C. La composition est synthétique : l’implantation des annexes visibles, les raccordements entre les portiques, les détails des toitures et corniches, les proportions apparentes, les motifs peints, les sols, les plantations, les vêtements et le paysage urbain sont des hypothèses iconographiques. Les attributions fonctionnelles des pièces intérieures et plusieurs détails des élévations antiques restent discutés. Le bâtiment dessiné n’est ni un jumeau numérique archéologique, ni un relevé métrique. La scène doit être lue comme une évocation pédagogique et non comme l’état précisément observé de l’Acropole à une date unique.",
+      "certainty": "Élevé : Monument de l’Acropole, datation générale 421–406 av. J.-C., plan complexe sur terrain dénivelé, portique des six Caryatides, portique nord et ordre ionique. Moyen : Lecture volumétrique simplifiée des portiques et façades conservés, silhouette générale du monument. Faible : Orientation précise de la caméra, aspect des toiture et crêtes de faîtage, décoration peinte, traitements des corniches, exactitude des rapports de hauteur, détails de la topographie, personnages, végétation et vue de la ville.",
+      "source_url": "https://www.theacropolismuseum.gr/en/node/16472",
+      "secondary_sources": [
+        "https://www.ysma.gr/en/monuments/erechtheion/",
+        "https://www.theacropolismuseum.gr/en/node/1292",
+        "https://www.theacropolismuseum.gr/en/erechtheion-karyatid-kore"
+      ],
+      "src": "/assets/reconstitutions-3d/athenes-erechtheion-caryatides-vers-406-av-jc.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-05",
+      "type": "reconstitution 3D photoréaliste interprétative non métrique",
+      "provenance": "Image numérique originale créée le 5 novembre 2026 pour MYTHOS, sans menus ni textes intégrés au visuel. Aucun relevé métrique ni validation par les institutions citées.",
+      "sha256": "15ed9118952bf1b5dd3a9d6d763af775582bdfadd126984ecf24b0e037989a30",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/athenes-erechtheion-caryatides-vers-406-av-jc.json"
     }
   ]
 }
