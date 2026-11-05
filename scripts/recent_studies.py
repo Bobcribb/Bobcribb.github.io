@@ -152,7 +152,7 @@ def install(root, output):
               '<h2>Dernières études par collection</h2>'
               '<p class="section-intro">Un accès direct au dernier numéro attribué '
               'et construit dans chacune des cinq collections universitaires. '
-              'Les textes, notes et bibliographies restent à leur emplacement d’origine.</p>'
+              'Les textes, notes et bibliographies restent à leur emplacement d’origine.</p>' +
               quick_nav + '<div class="portal-grid">' + ''.join(cards) + '</div></section>')
     section = BeautifulSoup(markup, 'html.parser').section
     anchor = main.select_one('#home-parcours')
