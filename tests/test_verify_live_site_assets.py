@@ -341,7 +341,7 @@ class RecentFigurePublicationTests(unittest.TestCase):
         self.assertEqual({entry["url"] for entry in checked if not entry["valid"]}, {
             "/livre-hesiode/index.html", hermes,
         })
-        self.assertEqual(len(live.RECENT_FIGURES), 34)
+        self.assertEqual(len(live.RECENT_FIGURES), 37)
 
     def test_newest_met_book_figures_are_required_and_image_bytes_must_match(self):
         """Audit each new book figure against stale HTML and altered WebP."""
