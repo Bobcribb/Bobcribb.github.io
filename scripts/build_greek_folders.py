@@ -219,6 +219,9 @@ def classify(url, title, kind):
     # Le mot « Delphes » ne doit pas le classer comme un compte rendu de culte.
     if slug == 'chapitres/philosophie/socrate-oracle-delphes-paradoxe-sagesse':
         return 'interpretations-philosophiques', 'Socrate — oracle, enquête et sagesse'
+    # Étude complète déjà publique dans les civilisations : renvoi sans copie.
+    if slug == 'bibliotheque-mythologies-du-monde/civilisations-chypre-paphos-aphrodite':
+        return 'cultes-sanctuaires', 'Palaepaphos — Aphrodite et histoire du sanctuaire'
     if slug.startswith('philosophie-'):
         return 'interpretations-philosophiques', 'Analyses philosophiques des épopées'
     if slug in ('ecole-paris', 'historiographie-v6', 'sources-methodes'):
@@ -296,6 +299,21 @@ DELPHES_STUDIES = (
     ('/chapitres/encyclopedie/chapitre-349-maximes-delphiques-connais-toi-toi-meme/',
      'Chapitre 349 — Les maximes delphiques',
      'Connais-toi toi-même : traditions textuelles et histoire des interprétations.'),
+)
+
+
+# Trois études intégrales déjà publiques, trois corpus documentaires distincts.
+# La rubrique Civilisations et le texte original de Palaepaphos sont préservés.
+APHRODITE_STUDIES = (
+    ('/corpus/mythologie-grecque/02-dieux-et-divinites/aphrodite-etude-integrale.html',
+     'MG · 02 — Aphrodite : monographie universitaire',
+     'Généalogies, cultes, variantes et interprétations philosophiques.'),
+    ('/sappho-aphrodite-poesie-lyrique-fragments-papyrus/',
+     'Sappho — Aphrodite, fragments et papyrus',
+     'Prière, poésie archaïque et transmission matérielle des textes.'),
+    ('/bibliotheque-mythologies-du-monde/civilisations-chypre-paphos-aphrodite/',
+     'Chypre antique — Palaepaphos et Aphrodite',
+     'Archéologie du sanctuaire, royautés chypriotes et traditions littéraires.'),
 )
 
 RELATED_FOLDERS = {
@@ -477,10 +495,13 @@ def build(out, groups, sections, books, root=None):
                     if any(row['url'] == url for row in rows)}
     delphes_urls = {url for url, _, _ in DELPHES_STUDIES
                     if any(row['url'] == url for row in rows)}
+    aphrodite_urls = {url for url, _, _ in APHRODITE_STUDIES
+                      if any(row['url'] == url for row in rows)}
     # Return links stay outside the article, leaving its scholarly text untouched.
     for row in rows:
         if (row['kind'] not in ('Chapitre universitaire', 'Livre', 'Notice', 'Étude')
-                and row['url'] != DELPHES_STUDIES[0][0]):
+                and row['url'] not in (DELPHES_STUDIES[0][0],
+                                      APHRODITE_STUDIES[2][0])):
             continue
         page = out / row['url'].lstrip('/')
         if row['url'].endswith('/'):
@@ -560,6 +581,28 @@ def build(out, groups, sections, books, root=None):
                     '<p>Trois lectures intégrales complémentaires. '
                     'La pratique religieuse delphique et la réélaboration '
                     'philosophique de Socrate ne se confondent pas.</p>'
+                    '<ul>' + links + '</ul></aside>', 'html.parser').aside
+                main.append(box)
+        if row['url'] in aphrodite_urls:
+            companions = [(url, title, context)
+                          for url, title, context in APHRODITE_STUDIES
+                          if url in aphrodite_urls and url != row['url']]
+            if companions:
+                # Panneau hors de l'article, sans changer les bibliographies,
+                # cotes historiques ou textes des trois lectures.
+                links = ''.join(
+                    '<li><a href="' + escape(url, quote=True) + '">' +
+                    escape(title) + '</a><small>' + escape(context) +
+                    '</small></li>' for url, title, context in companions)
+                box = BeautifulSoup(
+                    '<aside class="greek-cross-readings" '
+                    'data-greek-cross-readings="aphrodite" '
+                    'aria-label="Aphrodite : mythe, poésie et sanctuaire">'
+                    '<h2>Aphrodite : du poème au sanctuaire</h2>'
+                    '<p>Trois enquêtes intégrales : traditions divines, fragments '
+                    'de Sappho et histoire de Palaepaphos. Le témoignage '
+                    'littéraire n’établit pas à lui seul les pratiques '
+                    'archéologiques du sanctuaire chypriote.</p>'
                     '<ul>' + links + '</ul></aside>', 'html.parser').aside
                 main.append(box)
         page.write_text(str(doc), encoding='utf-8')
@@ -667,6 +710,20 @@ def verify(out, expected_urls):
             actual = [a['href'] for a in panels[0].select('a[href]')]
             assert set(actual) == delphes_urls - {url}, 'Lectures Delphes incomplètes : ' + url
             assert len(actual) == len(set(actual)), 'Lien Delphes répété : ' + url
+    aphrodite_urls = {url for url, _, _ in APHRODITE_STUDIES
+                      if url in expected_urls}
+    if len(aphrodite_urls) > 1:
+        for url in aphrodite_urls:
+            page = out / url.lstrip('/')
+            if url.endswith('/'):
+                page /= 'index.html'
+            assert page.is_file(), 'Étude Aphrodite introuvable : ' + url
+            doc = BeautifulSoup(page.read_text(encoding='utf-8'), 'html.parser')
+            panels = doc.select('aside[data-greek-cross-readings="aphrodite"]')
+            assert len(panels) == 1, 'Parcours Aphrodite manquant ou dupliqué : ' + url
+            actual = [a['href'] for a in panels[0].select('a[href]')]
+            assert set(actual) == aphrodite_urls - {url}, 'Lectures Aphrodite incomplètes : ' + url
+            assert len(actual) == len(set(actual)), 'Lien Aphrodite répété : ' + url
     assert set(assignments) == set(expected_urls), 'Classement incomplet ou inattendu : '+str(set(assignments) ^ set(expected_urls))
     assert all(n == 1 for n in assignments.values()), 'Texte classé plusieurs fois dans les dossiers'
     print('Dossiers grecs vérifiés :', len(assignments), 'destinations uniques, tous les textes et toutes les sections accessibles')
