@@ -501,6 +501,7 @@ def build(out, groups, sections, books, root=None):
     for row in rows:
         if (row['kind'] not in ('Chapitre universitaire', 'Livre', 'Notice', 'Étude')
                 and row['url'] not in (DELPHES_STUDIES[0][0],
+                                      APHRODITE_STUDIES[1][0],
                                       APHRODITE_STUDIES[2][0])):
             continue
         page = out / row['url'].lstrip('/')
