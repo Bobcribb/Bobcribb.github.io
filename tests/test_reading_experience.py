@@ -25,6 +25,23 @@ class ReadingTests(unittest.TestCase):
         self.assertIsNotNone(doc.find(id='ancien'))
         for link in doc.select('.mythos-reading-toc a'):self.assertIsNotNone(doc.find(id=link['href'][1:]))
 
+    def test_generated_museum_toc_does_not_appear_as_lost_authored_text(self):
+        from apply_museum_design import add_scholarly_toc
+        from improve_reading import authored_blocks
+        doc = self.document()
+        add_scholarly_toc(doc, doc.main,
+                          'chapitres/encyclopedie/chapitre-259-helios/index.html')
+        self.assertIsNotNone(doc.select_one('nav.mythos-scholarly-toc'))
+        before = authored_blocks(doc)
+        entry = metadata({'url': '/chapitres/encyclopedie/chapitre-259-helios/',
+                          'title': 'Hélios', 'excerpt': 'Source'}, doc)
+        add_reading(doc, '/chapitres/encyclopedie/chapitre-259-helios/', entry)
+        self.assertIsNone(doc.select_one('nav.mythos-scholarly-toc'))
+        self.assertEqual(before, authored_blocks(doc))
+        self.assertEqual(1, len(doc.select('.mythos-reading-toc')))
+        doc.select_one('article.content p').decompose()
+        self.assertNotEqual(before, authored_blocks(doc))
+
     def test_gallery_toc_identifies_each_monument_without_rewriting_scientific_text(self):
         names = ['Delphes — sanctuaire d’Apollon', 'Athènes — l’Acropole',
                  'Olympie — temple de Zeus']
