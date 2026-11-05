@@ -28,6 +28,14 @@
     "f3e9c2a1-87d4-4aa8-b912-466c91e5c316": {
       "request_sha256": "49062e7fa6918657efd2ab6437d3b4790803abaa533221b781587d0fdaef37ec",
       "reason": "Collision de périmètre éditorial contrôlée le 5 novembre 2026 : cette monographie intégrale de Philyllios frr. 19–33 K.-A. (58 156 caractères Markdown ; UUID f3e9c2a1-87d4-4aa8-b912-466c91e5c316, création 09:10:31 UTC, commit 7080441) recouvre les quatre fragments 19–22 déjà intégralement traités par la demande antérieure 4ac701d6-f31e-4c5b-988e-63570db2c192 (51 146 caractères, création 09:06:14 UTC, commit a261a9a). Conserver intact et intégral ce second texte, ses 52 sections et quatre scènes originales, sans attribution indépendante susceptible de dupliquer 19–22. La poursuite canonique doit porter distinctement sur les frr. 23–33 et être soumise sous son propre UUID valide ; après attribution, relier les deux volumes sans renuméroter ni réécrire les manuscrits. Aucun titre de pièce antique n'est inventé, aucun reçu ne doit être altéré."
+    },
+    "672c0f11-3812-4ac1-987e-119ca0572072": {
+      "request_sha256": "e32e75039074acd70b7946c9c909081d41f6875d62cc5292fc4bf98ace15bb83",
+      "reason": "Collision historique MC-072 : deux études intégrales différentes revendiquent l'identifiant MC-072. Première demande 2dd43092-7702-43b9-95a7-202611050072 créée le 5 novembre 2026 à 09:29:33 UTC sur les dieux déguisés (121 771 caractères) ; seconde demande présente 672c0f11-3812-4ac1-987e-119ca0572072 créée à 09:32:08 UTC sur le silence divin (66 767 caractères). Conserver intacte la seconde demande hors attribution sans lui inventer un nouveau MC, jusqu'à réconciliation documentaire explicite. Ne renuméroter aucun volume publié."
+    },
+    "c871f2ab-17dc-41ad-b368-05c6e637a2f9": {
+      "request_sha256": "fe1703dbe58927d9df22e213275bb2fd34113487b39c54a71d03162127c76936",
+      "reason": "Collision éditoriale sur les Suppliantes d'Euripide : première étude f673cbd2-2f14-4f8a-90ad-6873f0c91b42 créée le 5 novembre 2026 à 09:26:09 UTC (32 194 caractères) ; seconde demande c871f2ab-17dc-41ad-b368-05c6e637a2f9 créée à 09:33:51 UTC (30 641 caractères), même corpus et même problème du droit de récupération des corps. Conserver intégralement ce second manuscrit en attente, sans numéro propre, puis envisager un complément critique après confrontation des textes. Préserver les demandes et leurs archives."
     }
   }
 }
