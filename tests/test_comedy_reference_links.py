@@ -42,5 +42,24 @@ class ComedyReferenceLinkTests(unittest.TestCase):
 
 
 
+    def test_volumes_102_and_103_use_existing_comedy_overview(self):
+        """Keep the two public comedies links valid in both Markdown and rendered HTML."""
+        self.assertTrue((ROOT / TARGET.lstrip("/") / "index.html").is_file())
+        stems = (
+            "volume-102-philyllios-atalante-titre-souda-attribution-douteuse-chasse-course-mythes",
+            "volume-103-philyllios-auge-telephos-banquet-pannychis-pain-chanson-paratragedie",
+        )
+        for stem in stems:
+            for filename in (
+                ROOT / "chapitres/comedies" / (stem + ".md"),
+                ROOT / "chapitres/comedies" / stem / "index.html",
+            ):
+                with self.subTest(filename=str(filename)):
+                    text = filename.read_text(encoding="utf-8")
+                    self.assertIn(TARGET, text)
+                    self.assertNotIn("/comedies-grecques/", text)
+
+
+
 if __name__ == "__main__":
     unittest.main()
