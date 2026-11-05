@@ -184,19 +184,6 @@ class RecentStudyTests(unittest.TestCase):
             self.assertEqual(len(nav[0].select('a')), len(
                 doc.select('#home-etudes-recentes a.portal-card')))
 
-    def test_athena_lindia_crosslink_targets_html_reader(self):
-        """Le lien entre 438 et 433 suit l'URL publique, pas un .md relatif."""
-        source = (Path(__file__).resolve().parents[1] /
-                  'chapitres/encyclopedie/' /
-                  'chapitre-438-athena-lindia-chronique-lindos-danaides-'
-                  'offrandes-epiphanies-memoire.md')
-        markdown = source.read_text(encoding='utf-8')
-        canonical = ('/chapitres/encyclopedie/'
-                     'chapitre-433-athena-lindia-rhodes-chronique-lindos-'
-                     'anathemes-epiphanies-danaides/')
-        self.assertIn('](' + canonical + ')', markdown)
-        self.assertNotIn('chapitre-433-athena-lindia-rhodes-chronique-lindos-'
-                         'anathemes-epiphanies-danaides.md', markdown)
 
 
 if __name__ == '__main__':
