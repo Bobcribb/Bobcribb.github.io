@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "groups": {
+    "sophocle:helenes-apaitesis": {
+      "author": "Sophocle",
+      "title": "La Revendication d’Hélène",
+      "greek_title": "Ἑλένης ἀπαίτησις",
+      "transliteration": "Helenēs apaitēsis",
+      "aliases": [
+        "La Revendication d’Hélène",
+        "La Réclamation d’Hélène",
+        "Demande de restitution d’Hélène",
+        "Helenēs apaitēsis",
+        "Ἑλένης ἀπαίτησις"
+      ],
+      "reference": "Stefan Radt, Tragicorum Graecorum Fragmenta IV (1999), F 176–180a",
+      "primary_url": "/chapitres/tragedies/volume-ccxxxiii-sophocle-helenes-apaitesis-revendication-helene-ambassade-antenor-justice-troie/",
+      "guide_url": "/theatre/sophocle-helenes-apaitesis/",
+      "notice_source": "editorial/helenes-apaitesis-concordance.md",
+      "members": [
+        {
+          "number": 233,
+          "roman": "CCXXXIII",
+          "role": "primary",
+          "label": "Monographie de référence — La Revendication d’Hélène",
+          "focus": "Diplomatie mythique, justice, responsabilité de la guerre, fragments et transmission",
+          "uuid": "c5e61d9a-1f40-4a77-9da4-86f74a34aef1",
+          "source": "chapitres/tragedies/volume-ccxxxiii-sophocle-helenes-apaitesis-revendication-helene-ambassade-antenor-justice-troie.md",
+          "git_blob_sha": "2ee6477ff283ec5348ba19b47454362d772fa2ce"
+        },
+        {
+          "number": 234,
+          "roman": "CCXXXIV",
+          "role": "complement",
+          "label": "Monographie complémentaire — La Réclamation d’Hélène",
+          "focus": "Parole politique, hospitalité d’Anténor, argumentation, hypothèses philologiques",
+          "uuid": "f36f4f0c-5a4a-4650-9e80-3310dd5abd91",
+          "source": "chapitres/tragedies/volume-ccxxxiv-sophocle-helenes-apaitesis-reclamation-helene-ambassade-logos-antenor.md",
+          "git_blob_sha": "ea2dfe545717f016919a5702c7616b33fe15d9f9"
+        }
+      ]
+    }
+  }
+}
