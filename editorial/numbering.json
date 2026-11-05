@@ -579,6 +579,12 @@
           "path": "chapitres/origines-du-sacre/668-bouphonies-zeus-polieus-hache-boeuf-sacrifice-responsabilite.md",
           "request_sha256": "f48c6ffec534528a7c8ab88d465f78e87cf621b23eb28b6f1cd34f3d0b844a8b",
           "initial_source_sha256": "e612c32965df6fb92d2598781776a0e2d83a8c47202a503b5da6d7701ba2bf45"
+        },
+        "efb5a09c-3d73-4c79-90b7-9bc364b9e84f": {
+          "number": 669,
+          "path": "chapitres/origines-du-sacre/669-thargelies-athenes-pharmakoi-hipponax-harpocration-purification-civique.md",
+          "request_sha256": "b5ebb4992e35aac6697cc48ccd955041536c10781348ca85228f7829da68b4a8",
+          "initial_source_sha256": "ca18de49a38005bebee49f8ac88c8c6dbfca0cbff270663281c90fc09388640b"
         }
       }
     },
