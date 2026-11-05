@@ -48,6 +48,8 @@ class MuseumDocumentsSession58Tests(unittest.TestCase):
                 self.assertTrue(img.get("alt", "").strip())
                 self.assertEqual(img.get("loading"), "lazy")
                 self.assertTrue(img.get("src", "").startswith("https://"))
+                self.assertGreater(int(img.get("width", "0")), 0)
+                self.assertGreater(int(img.get("height", "0")), 0)
                 caption = figure.find("figcaption")
                 self.assertIsNotNone(caption)
                 self.assertIn(source, str(caption))

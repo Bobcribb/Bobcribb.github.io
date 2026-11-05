@@ -5,67 +5,47 @@
   "branch": "main",
   "latest_session": {
     "date": "2026-11-05",
-    "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "previous_kind": "AUDIT ET CORRECTION",
-    "next_kind": "AUDIT ET CORRECTION",
-    "scope": "Séance 58 : trois documents iconographiques antiques documentés pour Iliade XXIII (Sophilos), Odyssée VIII (citharède du Peintre de Berlin) et Théogonie 886–926 (naissance figurée d’Athéna).",
-    "basis_commit": "6c630a5c7b111d8f00eb5b95a873bd28ea9a1506",
-    "new_figures": [
-      {
-        "page": "philosophie-iliade.html",
-        "section": "lecture-section-39",
-        "id": "icono-iliade-sophilos-jeux-patrocle-s58-20261105",
-        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Sophilos_-_ABV_39_16_-_funerary_games_of_Patroklos_-_animal_friezes_-_Athens_NM_15499.jpg?width=1200",
-        "object": "Athènes, Musée archéologique national, inv. A 15499",
-        "dating": "céramique attique antique, 580–570 av. J.-C.",
-        "mode": "document antique authentique, photographie non générée par IA"
-      },
-      {
-        "page": "philosophie-odyssee.html",
-        "section": "lecture-section-25",
-        "id": "icono-odyssee-berlin-cithare-demodocos-s58-20261105",
-        "src": "https://images.metmuseum.org/CRDImages/gr/original/DT374582.jpg",
-        "object": "Metropolitan Museum of Art, inv. 56.171.38",
-        "dating": "amphore attique antique, vers 490 av. J.-C.",
-        "mode": "document antique authentique, photographie non générée par IA"
-      },
-      {
-        "page": "philosophie-theogonie.html",
-        "section": "lecture-section-39",
-        "id": "icono-theogonie-athena-naissance-metis-s58-20261105",
-        "src": "https://images.metmuseum.org/CRDImages/gr/original/DT10998.jpg",
-        "object": "Metropolitan Museum of Art, inv. 06.1097",
-        "dating": "coupe attique antique, vers 550 av. J.-C.",
-        "mode": "document antique authentique, photographie non générée par IA"
-      }
-    ],
-    "new_files": [
-      "tests/test_iconography_session58_documentary_artifacts.py"
-    ],
-    "modified_files": [
+    "kind": "AUDIT ET CORRECTION",
+    "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "scope": "Séance 59 : audit post-iconographie (liens, images, CSS/JS, responsive) et retenues conservatoires de deux collisions historiques MC-082.",
+    "basis_commit": "be1e466618cba8e7c052d5f54598840ba032881a",
+    "audit_evidence": {
+      "html_pages_checked": 3,
+      "images_checked": 106,
+      "internal_anchors_checked": 335,
+      "broken_internal_anchors": 0,
+      "duplicate_ids": 0,
+      "missing_img_alt": 0,
+      "local_resource_references_checked": 117,
+      "missing_local_resources": 0,
+      "css_references_per_page": 6,
+      "js_references_per_page": 2,
+      "domain_manifest_commit": "f677da8325522702913bb69d77498cba6285f333",
+      "s58_figures_publicly_visible": false,
+      "github_actions_failure": "GitHub Actions 42041911288 et 42041911380 : collision d'identifiant historique non réconciliée MC-082 (plusieurs demandes distinctes).",
+      "new_holds": [
+        "c5800082-9f42-4e82-8a06-202611050082",
+        "a820c682-152e-44b0-9a82-202611050082"
+      ],
+      "canonical_mc082_request": "f282b8a1-5b13-4e07-98bc-202611050082",
+      "already_held_mc082": "52b837af-6c82-468d-bb02-202611050082",
+      "external_images_checked": "Notices institutionnelles vérifiées ; URLs binaires HTTPS pas toutes attestées ; dimensionnement fondé sur métadonnées Wikimedia Commons des trois photographies.",
+      "scope_limits": "Audit statique des 3 monographies et non du site entier ; exécution navigateur responsive et campagne complète de liens externes non réalisées."
+    },
+    "correction": "Trois balises img de la séance 58 reçoivent width/height pour réserver l'espace d'affichage responsive ; deux soumissions MC-082 distinctes sont conservées dans editorial/inbox, verrouillées sous editorial/holds.json sans numéro propre ; test de dimensions renforcé.",
+    "files_modified": [
       "philosophie-iliade.html",
       "philosophie-odyssee.html",
       "philosophie-theogonie.html",
+      "editorial/holds.json",
+      "tests/test_iconography_session58_documentary_artifacts.py",
       "docs/MYTHOS_ICONOGRAPHIE_ALTERNANCE.json"
     ],
-    "audit_evidence": {
-      "html_pages_checked": 3,
-      "images_before": 103,
-      "images_after": 106,
-      "new_images": 3,
-      "same_page_links_checked": 335,
-      "broken_internal_anchors": 0,
-      "duplicate_html_ids": 0,
-      "img_without_alt": 0,
-      "original_html_preserved_except_figures": true,
-      "image_deduplication": "Chaque nouvelle figure et chaque URL image n'apparaît qu'une fois dans sa page.",
-      "institutional_sources": "Ministère hellénique de la Culture (Sophilos) ; Metropolitan Museum of Art, notices 254896 et 247515 ; Commons CC BY-SA 4.0 pour la photographie de Sophilos.",
-      "preserved": "Aucun texte existant, numéro, registre éditorial, chemin de chapitre, menu, CSS/JS, planification horaire modifié.",
-      "tests": "Vérifications statiques effectuées avant commit ; tests Python complets et HTTPS public à confirmer avec GitHub Actions."
-    },
-    "limitations": "Trois images sont servies par des institutions externes (Wikimedia Commons ou The Met) ; disponibilité CDN et rendu responsive public non attestés par le contrôle statique. Aucun PDF A4 régénéré (dernier inventaire : 107/101/103 pages).",
+    "preserved": "Aucun article universitaire ou manuscrit modifié, aucun slug changé, aucune allocation/réception ni numérotation touchée ; navigation, CSS/JS, médias et toutes les automatisations conservés.",
     "commits": [],
-    "publication_status": "Sources GitHub proposées ; la publication HTTPS n'est pas annoncée avant contrôle indépendant."
+    "publication_status": "Commit GitHub à vérifier après transaction. Pas de publication HTTPS du lot 58 confirmée.",
+    "limitations": "Les workflows de publication de la séance 58 ont été annulés ; sans nouveau déploiement réussi, aucun affichage public annoncé."
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
   "history": [
@@ -3445,6 +3425,50 @@
       "limitations": "Trois images sont servies par des institutions externes (Wikimedia Commons ou The Met) ; disponibilité CDN et rendu responsive public non attestés par le contrôle statique. Aucun PDF A4 régénéré (dernier inventaire : 107/101/103 pages).",
       "commits": [],
       "publication_status": "Sources GitHub proposées ; la publication HTTPS n'est pas annoncée avant contrôle indépendant."
+    },
+    {
+      "date": "2026-11-05",
+      "kind": "AUDIT ET CORRECTION",
+      "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "scope": "Séance 59 : audit post-iconographie (liens, images, CSS/JS, responsive) et retenues conservatoires de deux collisions historiques MC-082.",
+      "basis_commit": "be1e466618cba8e7c052d5f54598840ba032881a",
+      "audit_evidence": {
+        "html_pages_checked": 3,
+        "images_checked": 106,
+        "internal_anchors_checked": 335,
+        "broken_internal_anchors": 0,
+        "duplicate_ids": 0,
+        "missing_img_alt": 0,
+        "local_resource_references_checked": 117,
+        "missing_local_resources": 0,
+        "css_references_per_page": 6,
+        "js_references_per_page": 2,
+        "domain_manifest_commit": "f677da8325522702913bb69d77498cba6285f333",
+        "s58_figures_publicly_visible": false,
+        "github_actions_failure": "GitHub Actions 42041911288 et 42041911380 : collision d'identifiant historique non réconciliée MC-082 (plusieurs demandes distinctes).",
+        "new_holds": [
+          "c5800082-9f42-4e82-8a06-202611050082",
+          "a820c682-152e-44b0-9a82-202611050082"
+        ],
+        "canonical_mc082_request": "f282b8a1-5b13-4e07-98bc-202611050082",
+        "already_held_mc082": "52b837af-6c82-468d-bb02-202611050082",
+        "external_images_checked": "Notices institutionnelles vérifiées ; URLs binaires HTTPS pas toutes attestées ; dimensionnement fondé sur métadonnées Wikimedia Commons des trois photographies.",
+        "scope_limits": "Audit statique des 3 monographies et non du site entier ; exécution navigateur responsive et campagne complète de liens externes non réalisées."
+      },
+      "correction": "Trois balises img de la séance 58 reçoivent width/height pour réserver l'espace d'affichage responsive ; deux soumissions MC-082 distinctes sont conservées dans editorial/inbox, verrouillées sous editorial/holds.json sans numéro propre ; test de dimensions renforcé.",
+      "files_modified": [
+        "philosophie-iliade.html",
+        "philosophie-odyssee.html",
+        "philosophie-theogonie.html",
+        "editorial/holds.json",
+        "tests/test_iconography_session58_documentary_artifacts.py",
+        "docs/MYTHOS_ICONOGRAPHIE_ALTERNANCE.json"
+      ],
+      "preserved": "Aucun article universitaire ou manuscrit modifié, aucun slug changé, aucune allocation/réception ni numérotation touchée ; navigation, CSS/JS, médias et toutes les automatisations conservés.",
+      "commits": [],
+      "publication_status": "Commit GitHub à vérifier après transaction. Pas de publication HTTPS du lot 58 confirmée.",
+      "limitations": "Les workflows de publication de la séance 58 ont été annulés ; sans nouveau déploiement réussi, aucun affichage public annoncé."
     }
   ]
 }
