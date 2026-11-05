@@ -416,6 +416,8 @@ def main():
     n_styled = apply_museum_design(OUT)
     print(f"Identité muséale commune : {n_styled} pages HTML.")
     enhance(OUT, ROOT)
+    from tragedy_work_identity import annotate_final_indices
+    annotate_final_indices(ROOT, OUT)
     from improve_reading import install_civilisation_reciprocal_navigation
     install_civilisation_reciprocal_navigation(OUT, ROOT)
     # Raccorder neuf dossiers critiques déjà intégraux, sans copier ni attribuer
