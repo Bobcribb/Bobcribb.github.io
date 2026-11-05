@@ -30,8 +30,16 @@
     }
   ],
   "rights_and_method": "Image originale générée numériquement et enregistrée en WebP ; photoréalisme interprétatif sans menu, texte ni filigrane incrusté. La date choisie est une convention de restitution, pas l’authentification d’un état bâti unique. Aucune validation par les institutions citées.",
-  "publication_status": "committed_to_GitHub; public_URL_pending_independent_verification",
+  "publication_status": "public_URL_accessible_and_gallery_reference_verified_2026-11-05",
   "width": 1672,
   "height": 941,
-  "sha256": "c1811bfd7d8112e4a6d1b737d468a59cc6af08a04c686a33cdeee9a9ad406fb9"
+  "sha256": "c1811bfd7d8112e4a6d1b737d468a59cc6af08a04c686a33cdeee9a9ad406fb9",
+  "public_verification": {
+    "checked_on": "2026-11-05",
+    "image_url": "https://bobmythos.fr/assets/reconstitutions-3d/thasos-agora-hellenistique-romaine-panorama.webp",
+    "gallery_url": "https://bobmythos.fr/reconstitutions-photorealistes.html#thasos-agora-hellenistique-romaine-panorama",
+    "observed_dimensions": "1672x941",
+    "result": "URL publique accessible et image présente dans la galerie",
+    "limitation": "Correspondance binaire SHA-256 entre GitHub et domaine public non testée dans ce contrôle."
+  }
 }
