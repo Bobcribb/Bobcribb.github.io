@@ -30,10 +30,10 @@ class AthenaLindiaCrosslinkAudit(unittest.TestCase):
         self.assertIn("# Chapitre 433", SOURCE433.read_text(encoding="utf-8"))
         self.assertIn("chapitre 438", SOURCE438.read_text(encoding="utf-8").lower())
 
-    def test_markdown_relative_link_resolves_to_published_html(self):
+    def test_canonical_markdown_link_resolves_to_published_html(self):
         raw = SOURCE438.read_text(encoding="utf-8")
-        self.assertIn("](" + PART433 + ".md)", raw)
-        self.assertNotIn("](../" + PART433 + ".md)", raw)
+        self.assertIn("](" + URL433 + ")", raw)
+        self.assertNotIn("](" + PART433 + ".md)", raw)
         rendered = build.resolve_chapter_links(build.markdown(raw), SOURCE438, CHAPTERS)
         doc = BeautifulSoup(rendered, "html.parser")
         links = [anchor.get("href") for anchor in doc.find_all("a", href=True)

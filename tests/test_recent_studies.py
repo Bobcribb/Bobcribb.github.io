@@ -146,5 +146,45 @@ class RecentStudyTests(unittest.TestCase):
                                 '1. Sources et méthode')
 
 
+    def test_origines_descriptive_h1_and_accessible_jump_nav(self):
+        """Le titre 689 n'est pas « Résumé scientifique » et le menu est stable."""
+        with TemporaryDirectory() as temp:
+            root, output = self.make_fixture(temp)
+            source = self.write_study(
+                root, output, 'origines-du-sacre', 689,
+                '689-cyrus-darius-tombeaux',
+                'Texte universitaire')
+            source.write_text(
+                "# Chapitre 689 — Enterrer le roi, montrer l'empire : Cyrus et Darius\n"
+                "## Résumé scientifique\n\n"
+                + ('Sources primaires, archéologie et bibliographie. ' * 100),
+                encoding='utf-8')
+            registry_file = root / 'editorial/numbering.json'
+            registry = json.loads(registry_file.read_text(encoding='utf-8'))
+            registry['collections']['origines-du-sacre'] = {
+                'allocations': {'uuid-cyrus': {
+                    'number': 689, 'path': str(source.relative_to(root))}}}
+            registry_file.write_text(json.dumps(registry), encoding='utf-8')
+            item = next(record for record in latest_verified(root, output)
+                        if record['collection'] == 'Origines du sacré')
+            self.assertTrue(item['title'].startswith('Chapitre 689 — Enterrer le roi'))
+            self.assertNotEqual(item['title'], 'Résumé scientifique')
+            install(root, output)
+            install(root, output)
+            doc = BeautifulSoup(
+                (output / 'index.html').read_text(encoding='utf-8'), 'html.parser')
+            nav = doc.select('nav.mythos-recent-jump')
+            self.assertEqual(len(nav), 1)
+            self.assertIsNotNone(nav[0].select_one(
+                'a[href="#etude-recente-origines-du-sacre"]'))
+            card = doc.select_one('#etude-recente-origines-du-sacre')
+            self.assertEqual(card.name, 'a')
+            self.assertIn("Enterrer le roi", card.select_one('strong').get_text())
+            self.assertIsNotNone(doc.select_one('#etude-recente-tragedies'))
+            self.assertEqual(len(nav[0].select('a')), len(
+                doc.select('#home-etudes-recentes a.portal-card')))
+
+
+
 if __name__ == '__main__':
     unittest.main()

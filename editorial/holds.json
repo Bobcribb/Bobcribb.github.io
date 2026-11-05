@@ -52,6 +52,10 @@
     "e06b7a2d-51d4-4b77-9526-20261105a405": {
       "request_sha256": "e9b405c58d102b10267d82a093d71f85ecbe5477571a1f6a48a29a6712182406",
       "reason": "Collision éditoriale contrôlée le 5 novembre 2026 : la demande postérieure e06b7a2d-51d4-4b77-9526-20261105a405 étudie le même passage Aristophane, Grenouilles 1422–1434, Alcibiade et le lionceau, que la demande antérieure 8c4b7e92-6a0f-4d28-9e7c-573c2de981ab (commit 2ec913e576b0059a4ce73a73843c11cda6dfdfa6). Conserver intégralement le présent manuscrit et son appareil critique dans editorial/inbox sans lui attribuer de second numéro canonique. Après attribution du premier, comparer les deux monographies puis, si pertinent, archiver la seconde comme complément critique non numéroté avec renvoi, sans suppression ni réécriture des textes. Ne modifier aucun reçu ni allocation déjà publiée."
+    },
+    "84c2e713-99a1-4d20-b8f4-5e36c07a4d91": {
+      "request_sha256": "adcd0fa64acea9422f01b906a81813d8c24cc73d3b296c35feef3da11d6ddd2c",
+      "reason": "Collision éditoriale contrôlée sur main le 5 novembre 2026 : deux monographies intégales distinctes portent sur la même tragédie antique Agathon, Télèphe (Τήλεφος), TrGF I 39 F 4, Athénée Deipnosophistes X 454c–d et les six trimètres décrivant les lettres de ΘΗΣΕΥΣ. Première demande chronologique : 53bd28f5-628f-43e5-8923-11f805fe8269 (commit 32aa0638b868e907afa007c43cfe2a9012aaade4, 53 685 caractères Markdown) ; seconde demande postérieure : 84c2e713-99a1-4d20-b8f4-5e36c07a4d91 (commit 341b12091570f63eaa9a0c7abdec34db52c869c5, 52 433 caractères Markdown). Conserver strictement cette seconde étude et tout son appareil critique dans editorial/inbox à UUID et SHA-256 constants, sans attribuer un second volume canonique à la même œuvre. Laisser la demande chronologiquement antérieure recevoir son numéro par GitHub Actions ; rapprocher ultérieurement les deux textes et, si nécessaire, publier le second en complément critique non numéroté. Ne modifier, supprimer ni renuméroter les demandes, chapitres, numéros ou reçus déjà existants ; préserver toutes les planifications."
     }
   }
 }
