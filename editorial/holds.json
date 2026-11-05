@@ -40,6 +40,10 @@
     "1fb9e074-3a61-41e4-9e74-202611050074": {
       "request_sha256": "e769c5aabf2a8d76317f7ea404d7015ca0f552f7fd5696f391d8f3d5c4a149f0",
       "reason": "Collision historique MC-074 détectée immédiatement le 5 novembre 2026 : une demande concurrente ANTÉRIEURE a déjà déposé l'étude « Armer les dieux : armes forgées, artisans divins, violence souveraine et limites de la puissance » sous 0f7bc4a2-73ce-4da2-93fa-202611050074 (commit e76439a1a1b6, 119 767 caractères de Markdown). Cette demande POSTÉRIEURE 1fb9e074-3a61-41e4-9e74-202611050074 (commit 519646b88b44, 77 936 caractères Markdown, 96 sections) porte sur un sujet distinct : « Sous le regard des dieux ». La conserver intégralement, verrouillée par SHA-256, hors attribution sous MC-074 ; ne ni l'effacer ni la numérotér. Le texte réconcilié sera soumis sous MC-075, nouvel UUID 2fb9e075-3a61-41e4-9e75-202611050075 et nouveau slug, sans suppression ni altération de cet original. Éviter toute seconde attribution MC-074 ; respecter les autres demandes et numéros canoniques."
+    },
+    "9b3ad145-c854-412c-9f2e-4d6813720abc": {
+      "request_sha256": "11bdc298e86d9fc5076facd0ed9a9a824cce042133e4cf4294a5137cd559ab23",
+      "reason": "Collision éditoriale vérifiée le 5 novembre 2026 : deux manuscrits universitaires intégraux distincts traitent la même loi sacerdotale (Lévitique 21, Ézéchiel 44, Nombres 6 et 19). Première demande antérieure df30ec7a-2be4-4ac3-a3f1-1d872ff07359 (créée à 09:49:24 UTC, 35 626 caractères Markdown) destinée au traitement canonique. Seconde demande 9b3ad145-c854-412c-9f2e-4d6813720abc (créée à 09:52:59 UTC, 33 010 caractères Markdown) recouvrant les mêmes sources et les mêmes questions. Préserver entièrement ce second texte et son appareil critique dans inbox, sans attribution d'un deuxième chapitre indépendant tant que les deux études n'ont pas été rapprochées et que le complément critique non numéroté n'a pas été organisé. Ne pas modifier, supprimer ni réémettre les demandes, ne pas toucher aux reçus ni à la numérotation."
     }
   }
 }
