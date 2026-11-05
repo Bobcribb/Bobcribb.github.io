@@ -308,6 +308,8 @@ def reindex(chapters):
     if len(by_url)<450:
         raise RuntimeError("Protection : moins de 450 pages indexées")
     entries=sorted(by_url.values(),key=lambda e:e["title"].casefold())
+    from tragedy_work_identity import annotate_search
+    annotate_search(ROOT, entries)
     write("search.json",json.dumps(entries,ensure_ascii=False,separators=(",",":")))
     listing='<ul class="listing">'+''.join('<li><a href="'+html.escape(e["url"],quote=True)+'">'+html.escape(e["title"])+'</a></li>' for e in entries)+'</ul>'
     write("rubriques/index.html",render("Tous les dossiers","<h1>Tous les dossiers</h1><p>"+str(len(entries))+" dossiers publics indexés.</p>"+listing))
@@ -364,6 +366,8 @@ def main():
             entry['title'] = numbered_titles[entry['url']]
     from comparative_history import annotate as annotate_history
     annotate_history(ROOT, numbered_collections, chapters)
+    from tragedy_work_identity import annotate as annotate_tragedy
+    annotate_tragedy(ROOT, numbered_collections, chapters)
     # Réconciliation explicite de deux collisions documentées, sans réécrire les sources.
     import build_navigation as navigation
     from origines_reconciliation import install, verify_sources
@@ -402,6 +406,8 @@ def main():
     prepare(OUT, ROOT)
     from comparative_history import install as install_history
     install_history(ROOT, OUT)
+    from tragedy_work_identity import install as install_tragedy_identity
+    install_tragedy_identity(ROOT, OUT)
     n_indexed = reindex(chapters)
     navigation.finalize_navigation(n_indexed)
     print("Numérotation vérifiée :", numbering["renumbered_studies"], "études réconciliées ;", numbering["corrected_links"], "liens harmonisés")
@@ -410,6 +416,8 @@ def main():
     n_styled = apply_museum_design(OUT)
     print(f"Identité muséale commune : {n_styled} pages HTML.")
     enhance(OUT, ROOT)
+    from tragedy_work_identity import annotate_final_indices
+    annotate_final_indices(ROOT, OUT)
     from improve_reading import install_civilisation_reciprocal_navigation
     install_civilisation_reciprocal_navigation(OUT, ROOT)
     # Raccorder neuf dossiers critiques déjà intégraux, sans copier ni attribuer

@@ -91,8 +91,11 @@ def verify(root=Path("."), out=Path("_site")):
     assert "/media/2026/10/" in (out / "akhetaton-horizon-aton-etude/index.html").read_text()
     from comparative_history import verify as verify_history
     historical = verify_history(root, out)
+    from tragedy_work_identity import verify as verify_tragedy_identity
+    tragedies = verify_tragedy_identity(root, out)
     evidence = {
         "comparative_history": historical,
+        "tragedy_works": tragedies,
         "source_commit": subprocess.check_output(["git", "rev-parse", "HEAD"], text=True).strip(),
         "github_run_id": os.environ.get("GITHUB_RUN_ID"),
         "indexed_documents": len(indexed), "verified_archives": 27, "verified_media": 110,
