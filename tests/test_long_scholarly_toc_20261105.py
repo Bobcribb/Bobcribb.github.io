@@ -98,6 +98,28 @@ class LongScholarlyTocTests(unittest.TestCase):
         self.assertIsNone(doc.select_one('nav.mythos-scholarly-toc'))
         self.assertEqual(str(doc.article), before)
 
+    def test_outils_de_lecture_remplacent_le_sommaire_provisoire(self):
+        from improve_reading import add_reading
+        doc = self.sample('h2', 36)
+        rel = 'chapitres/encyclopedie/chapitre-444-test/index.html'
+        add_scholarly_toc(doc, doc.main, rel)
+        self.assertEqual(len(doc.select('nav.mythos-scholarly-toc')), 1)
+        add_reading(doc, '/' + rel.removesuffix('index.html'),
+                    {'words': 5000, 'minutes': 30})
+        self.assertEqual(len(doc.select('nav.mythos-scholarly-toc')), 0)
+        self.assertEqual(len(doc.select('details.mythos-reading-toc')), 1)
+        self.assertEqual(len(doc.select('details.mythos-reading-toc ol a')), 36)
+
+    def test_plan_h3_conserve_le_sommaire_museal(self):
+        from improve_reading import add_reading
+        doc = self.sample('h3', 39)
+        rel = 'chapitres/encyclopedie/chapitre-443-test/index.html'
+        add_scholarly_toc(doc, doc.main, rel)
+        add_reading(doc, '/' + rel.removesuffix('index.html'),
+                    {'words': 5000, 'minutes': 30})
+        self.assertEqual(len(doc.select('nav.mythos-scholarly-toc ol a')), 39)
+        self.assertEqual(len(doc.select('details.mythos-reading-toc')), 0)
+
     def test_habillage_accessible_mobile(self):
         css = (ROOT / 'assets/mythos-museum.css').read_text(encoding='utf-8')
         self.assertIn('.mythos-scholarly-toc-disclosure>summary', css)

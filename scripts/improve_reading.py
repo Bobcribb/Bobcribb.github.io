@@ -301,6 +301,12 @@ def add_reading(doc, url, entry):
     headings=[h for h in article.select('h2') if not h.find_parent(['nav','aside']) and not h.find_parent(class_='toc')]
     is_portal=bool(doc.select_one('.portal-section, #greek-unified-corpus')) or url.startswith(('/parcours/','/etat-du-corpus/','/catalogue-integral/','/methode-editoriale/','/rubriques/','/recherche/'))
     if entry['words'] < 450 or len(headings)<3 or is_portal: return
+    # L'habillage muséal précède l'amélioration de lecture. Quand ce
+    # lecteur produit son propre sommaire complet, retirer seulement le
+    # sommaire automatique provisoire, situé hors du manuscrit. Les
+    # études à plan H3 (non prises en charge ici) gardent le leur.
+    for provisional in main.select('nav.mythos-scholarly-toc'):
+        provisional.decompose()
     article['data-mythos-reader']='true'
     used={x['id'] for x in doc.select('[id]')}
     for i,h in enumerate(headings,1):
