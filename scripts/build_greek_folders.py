@@ -70,9 +70,9 @@ CHAPTER_RULES = [
     # Études intégrales déjà déposées dans editorial/inbox : aucun numéro
     # anticipé. Dès l’attribution par Actions, rattacher les pages au
     # sanctuaire local correspondant, sans déplacer leur manuscrit.
-    (r'^apollon ptoios\\b', 'sanctuaires',
+    (r'^apollon ptoios\b', 'sanctuaires',
      'Béotie — Apollon Ptoios, oracle, kouroi et héros Ptoios'),
-    (r'^hera lakinia\\b', 'sanctuaires',
+    (r'^hera lakinia\b', 'sanctuaires',
      'Grande-Grèce — Héra Lakinia, Crotone et Capo Colonna'),
     # 426 : le manuscrit intégral et son reçu sont déjà publiés. L'épiclèse
     # Amarysia renvoie au sanctuaire d'Amarynthos, pas à une déesse autonome.
