@@ -25,6 +25,36 @@ class ReadingTests(unittest.TestCase):
         self.assertIsNotNone(doc.find(id='ancien'))
         for link in doc.select('.mythos-reading-toc a'):self.assertIsNotNone(doc.find(id=link['href'][1:]))
 
+    def test_gallery_toc_identifies_each_monument_without_rewriting_scientific_text(self):
+        names = ['Delphes — sanctuaire d’Apollon', 'Athènes — l’Acropole',
+                 'Olympie — temple de Zeus']
+        cards = ''.join(
+            '<article class="r3d-card" id="site-'+str(i)+'">'
+            '<figure><figcaption><strong>'+name+'</strong></figcaption></figure>'
+            '<div class="r3d-science"><h2>Commentaire scientifique</h2>'
+            '<p>Sources archéologiques et degré de certitude.</p></div></article>'
+            for i, name in enumerate(names, 1)
+        )
+        doc = BeautifulSoup(
+            '<html><body><main><p>'+('Texte introductif. '*500)+'</p>'
+            '<section class="r3d-grid">'+cards+'</section></main></body></html>',
+            'html.parser'
+        )
+        original = [p.get_text(' ', strip=True) for p in doc.select('.r3d-science p')]
+        for _ in range(2):
+            add_reading(doc, '/reconstitutions-photorealistes.html',
+                        {'words': 1000, 'minutes': 5})
+        self.assertEqual(1, len(doc.select('.mythos-gallery-toc')))
+        links = doc.select('.mythos-gallery-toc li a')
+        self.assertEqual(len(names), len(links))
+        for name, link in zip(names, links):
+            self.assertEqual(name+' — Commentaire scientifique', link.get_text(' ', strip=True))
+            self.assertIsNotNone(doc.find(id=link['href'][1:]))
+        self.assertEqual(['Commentaire scientifique']*3,
+                         [h.get_text(' ', strip=True) for h in doc.select('.r3d-science h2')])
+        self.assertEqual(original,
+                         [p.get_text(' ', strip=True) for p in doc.select('.r3d-science p')])
+
     def test_catalogue_ids_stable_when_title_changes_and_no_fake_review(self):
         doc=self.document()
         a=metadata({'url':'/iliade/','title':'Iliade','excerpt':''},doc)
