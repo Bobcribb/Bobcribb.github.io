@@ -2,7 +2,7 @@
   "generated_at": "2026-11-04",
   "site": "bobmythos.fr",
   "method": "Illustrations photoréalistes interprétatives, textes et sources hors des pixels.",
-  "count": 45,
+  "count": 46,
   "entries": [
     {
       "id": "DEL-PAN-001",
@@ -915,6 +915,29 @@
       "provenance": "Image originale générée numériquement et enregistrée en WebP ; photoréalisme interprétatif sans menu, texte ni filigrane incrusté. La date choisie est une convention de restitution, pas l’authentification d’un état bâti unique. Aucune validation par les institutions citées.",
       "sha256": "c1811bfd7d8112e4a6d1b737d468a59cc6af08a04c686a33cdeee9a9ad406fb9",
       "scientific_notice": "/assets/reconstitutions-3d/notices/thasos-agora-hellenistique-romaine-panorama.json"
+    },
+    {
+      "id": "PER-HER-001",
+      "slug": "perachora-heraion-sanctuaire-cotier-vers-275-av-jc",
+      "title": "Pérachora — Héraion d’Héra Akraia, sanctuaire côtier",
+      "period": "Évocation vers 275 av. J.-C. ; temple archaïque vers 525 av. J.-C. et stoa édifiée au IVe siècle av. J.-C.",
+      "caption": "Panorama photoréaliste du sanctuaire côtier d’Héra : temple archaïque, autel et stoa coudée. Restitution numérique interprétative et non métrique.",
+      "commentary": "L’Héraion de Pérachora s'étend dans une crique rocheuse du golfe de Corinthe, sous les hauteurs de la péninsule. La zone inférieure associe les vestiges d'un temple archaïque d'Héra Akraia, succédant à une installation géométrique antérieure, un autel rectangulaire et une stoa en L à deux niveaux édifiée au IVe siècle av. J.-C., dont le niveau inférieur était dorique et l'étage supérieur ionique. Les terrasses supérieures accueillaient notamment des citernes et des espaces de repas. La scène évoque librement une phase hellénistique vers 275 av. J.-C. : elle ne représente pas un état complet et mesuré des fouilles. La taille apparente du temple, les façades, les élévations du portique, les décors, les toitures, les escaliers au bord de l'eau, les éventuels aménagements de quai, les navires, les personnages et la végétation sont conjecturaux. Les travaux archéologiques mentionnés documentent le sanctuaire sans valider ce rendu.",
+      "certainty": "Élevé : Localisation du sanctuaire près de la crique, culte d'Héra Akraia, présence du temple archaïque, d'un autel et d'une stoa coudée à deux niveaux, existence de citernes et de salles de repas. Moyen : Coexistence générale du temple et de la stoa au IIIe siècle av. J.-C., matériaux d’ensemble et implantation des monuments dans le relief. Faible : Dimensions et élévations précises, détails du péristyle, teintes, escaliers, quai supposé, couverture, éléments secondaires, embarcations, personnages et végétation.",
+      "source_url": "https://www.hh.gr/en/destinations/heraion-of-perachora/",
+      "secondary_sources": [
+        "https://www.visitgreece.gr/en/experiences/culture/archaeological-sites-monuments/archaeological-site-of-heraion",
+        "https://academic.oup.com/edited-volume/61673/chapter-abstract/549686068",
+        "https://www.persee.fr/doc/reg_0035-2039_2000_num_113_1_4395"
+      ],
+      "src": "/assets/reconstitutions-3d/perachora-heraion-sanctuaire-cotier-vers-275-av-jc.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-05",
+      "type": "panorama 3D photoréaliste interprétatif non métrique",
+      "provenance": "Image numérique originale générée par IA, photoréaliste, non métrique. Aucune interface, titre ou légende n'est incrusté. Les sources attestent les vestiges sans approuver cette interprétation graphique.",
+      "sha256": "7eaf28fa8db1ecfb5a6463cb8fb250cd027bec10ebf04dfc1e5db9bdcbbd16b6",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/perachora-heraion-sanctuaire-cotier-vers-275-av-jc.json"
     }
   ]
 }
