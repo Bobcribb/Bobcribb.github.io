@@ -531,6 +531,12 @@
           "path": "chapitres/origines-du-sacre/660-lydie-phrygie-steles-expiatoires-mes-axiottenos-justice-divine.md",
           "request_sha256": "3644370f06bf7e23384059e5c6a6767078fd3851461d6b0fc801826eaa0665ae",
           "initial_source_sha256": "426ef6ce5bb283770e992eeaf257852a7655c33016ef21b87d40bc1ee8a1934d"
+        },
+        "4c9157bd-7b21-4b3f-b1e7-5691d804aa10": {
+          "number": 661,
+          "path": "chapitres/origines-du-sacre/661-delphes-terre-sacree-crisa-amphissa-amphictyons-philippe.md",
+          "request_sha256": "63bc7267bb370f1a3537b33838ea534e2878d79c6b45505435e5079f6aee6a95",
+          "initial_source_sha256": "1197fd7d069b32abed57f4358ec3f0e734822be8f7c14f5ed3b620494c29bca6"
         }
       }
     },
