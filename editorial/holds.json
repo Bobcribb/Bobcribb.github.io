@@ -44,6 +44,10 @@
     "9b3ad145-c854-412c-9f2e-4d6813720abc": {
       "request_sha256": "11bdc298e86d9fc5076facd0ed9a9a824cce042133e4cf4294a5137cd559ab23",
       "reason": "Collision éditoriale vérifiée le 5 novembre 2026 : deux manuscrits universitaires intégraux distincts traitent la même loi sacerdotale (Lévitique 21, Ézéchiel 44, Nombres 6 et 19). Première demande antérieure df30ec7a-2be4-4ac3-a3f1-1d872ff07359 (créée à 09:49:24 UTC, 35 626 caractères Markdown) destinée au traitement canonique. Seconde demande 9b3ad145-c854-412c-9f2e-4d6813720abc (créée à 09:52:59 UTC, 33 010 caractères Markdown) recouvrant les mêmes sources et les mêmes questions. Préserver entièrement ce second texte et son appareil critique dans inbox, sans attribution d'un deuxième chapitre indépendant tant que les deux études n'ont pas été rapprochées et que le complément critique non numéroté n'a pas été organisé. Ne pas modifier, supprimer ni réémettre les demandes, ne pas toucher aux reçus ni à la numérotation."
+    },
+    "ad8b5e13-72f9-4e6c-a520-4038c0ba5205": {
+      "request_sha256": "3128a3c0af79dee8f37d7dbcb6a70ee38063c1a833c835dab5c2148ff3daa570",
+      "reason": "Collision d'identité de tragédie grecque, contrôlée sur main le 5 novembre 2026 : la demande ad8b5e13-72f9-4e6c-a520-4038c0ba5205 (Agathon, Thyeste, TrGF I 39 F 3 ; 58 456 caractères Markdown) traite la même oeuvre antique que les monographies déjà publiées sous CCLV (255 ; UUID 7cb46d08-199d-4f47-a566-cd9e082a7e40) et CCLVI (256 ; UUID c9e2f74b-65ad-4d7c-9b36-cfbf72a80e91). Conserver strictement ce troisième texte et son appareil critique dans editorial/inbox à UUID et SHA-256 constants ; ne lui attribuer aucun troisième numéro indépendant. Rapprocher les trois manuscrits sans supprimer ni renuméroter les volumes 255 et 256 ; présenter leur double monographie comme étude principale et complément critique à numéro inchangé et, si pertinent, archiver le troisième comme complément non numéroté. Aucune modification d'un manuscrit alloué ni du registre editorial/numbering.json."
     }
   }
 }
