@@ -320,7 +320,18 @@ def verify(root, out):
             _, body = frontmatter((root / member["source"]).read_text(encoding="utf-8"))
             original = BeautifulSoup(markdown(body), "html.parser")
             article = page.select_one("article.content")
-            assert not (blocks(original) - blocks(article)), "Contenu de la monographie amputé : " + address
+            # The museum renderer and reader split inline emphasis into DOM
+            # nodes, and numbering of HTML lists is not literal article text.
+            # Verify every complete authored block as a normalized word sequence
+            # rather than demanding identical BeautifulSoup block serialization.
+            rendered_words = normalized(article.get_text(" ", strip=True))
+            authored_words = [
+                normalized(node.get_text(" ", strip=True))
+                for node in original.select("h1,h2,h3,h4,h5,h6,p,li,table,pre,blockquote")
+            ]
+            missing = [words[:120] for words in authored_words
+                       if words and words not in rendered_words]
+            assert not missing, "Contenu de la monographie amputé : " + address + " ; " + repr(missing[:3])
         for address in pages + [group["guide_url"]]:
             assert address in search, "Étude ou concordance absente de la recherche : " + address
             assert "https://bobmythos.fr" + address in sitemap, "Sitemap incomplet : " + address
