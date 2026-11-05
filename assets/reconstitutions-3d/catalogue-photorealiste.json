@@ -17,7 +17,8 @@
       "width": 1774,
       "height": 887,
       "created_at": "2026-11-04",
-      "type": "panorama numérique non métrique"
+      "type": "panorama numérique non métrique",
+      "sha256": "60d98c8eb4b12acf1bcb4816f5518085f839ae13b8a9d10096ddbcbfbebe6284"
     },
     {
       "id": "ATH-001",
@@ -31,7 +32,8 @@
       "src": "/assets/reconstitutions-3d/athenes-acropole.webp",
       "width": 1536,
       "height": 1024,
-      "type": "image antérieure conservée"
+      "type": "image antérieure conservée",
+      "sha256": "35d63742ac7ddca8cd19954f29e3cb5b426ec16b0b20fef3b76d3c27cf0a0254"
     },
     {
       "id": "R3D-001",
@@ -272,7 +274,8 @@
       "secondary_sources": [
         "https://whc.unesco.org/fr/list/393/"
       ],
-      "scientific_notice": "/assets/reconstitutions-3d/notices/delphes-tholos-athena-pronaia.json"
+      "scientific_notice": "/assets/reconstitutions-3d/notices/delphes-tholos-athena-pronaia.json",
+      "sha256": "31fd99ea28f8bf8e9e56a44376b6d9758547f4b992a0df1b7348db1caf4e15ff"
     },
     {
       "id": "OLY-PAN-001",
@@ -292,7 +295,8 @@
       "created_at": "2026-11-04",
       "type": "panorama 3D photoréaliste interprétatif, non métrique",
       "provenance": "Image originale sans texte ni menu ; description de l’Altis et de ses phases historiques ; ni plan précis ni validation scientifique de la restitution.",
-      "scientific_notice": "/assets/reconstitutions-3d/notices/olympie-altis-panorama.json"
+      "scientific_notice": "/assets/reconstitutions-3d/notices/olympie-altis-panorama.json",
+      "sha256": "273d16ab9d0f148dd109d23ca2e98fc883c1744e0ef48f05cc421865f261e2b1"
     },
     {
       "id": "SAM-001",
