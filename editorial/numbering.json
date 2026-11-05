@@ -519,6 +519,18 @@
           "path": "chapitres/origines-du-sacre/658-andania-reglement-mysteres-amendes-comptes-serments.md",
           "request_sha256": "fa1ef9f69ce5f090c85686fc424a52400816d2588f6a674f212b44d2c543b1c9",
           "initial_source_sha256": "27a63cbc3d2de394c03c0f87d78aaa72d3fc6d45f89745a419a8051e82987b35"
+        },
+        "84c94b37-791d-42ed-92a1-b15af25720ac": {
+          "number": 659,
+          "path": "chapitres/origines-du-sacre/659-lysias-sekos-moriai-oliviers-sacres-areopage-preuve-sanction.md",
+          "request_sha256": "6acbeafa2e3f7ea56efd6d764a44f6990ed7ec9fc60339b8746ed7902d6d0cc0",
+          "initial_source_sha256": "0812485ab16e2aa3b82367b4b848c528f9f15b2fe14015686d7625aa2ed7f430"
+        },
+        "b0ea139f-6491-40f3-b2ac-72f4a0e13073": {
+          "number": 660,
+          "path": "chapitres/origines-du-sacre/660-lydie-phrygie-steles-expiatoires-mes-axiottenos-justice-divine.md",
+          "request_sha256": "3644370f06bf7e23384059e5c6a6767078fd3851461d6b0fc801826eaa0665ae",
+          "initial_source_sha256": "426ef6ce5bb283770e992eeaf257852a7655c33016ef21b87d40bc1ee8a1934d"
         }
       }
     },
@@ -2281,6 +2293,12 @@
           "path": "chapitres/comparatif/volume-ccxli-mc-061-quand-les-dieux-ne-savent-pas-ignorance-enquete-secret-limites-du-savoir-divin.md",
           "request_sha256": "6d5847d6092bc6a660b9d2adb128f33798f07c2ef39943a373a54dc5053359ed",
           "initial_source_sha256": "b68a8b0fb7b0479fd8f1bc681cc75f232c68457ac88e80f9e97835347c4e5ee4"
+        },
+        "7e620d62-cf26-463e-b062-202611050062": {
+          "number": 242,
+          "path": "chapitres/comparatif/volume-ccxlii-mc-062-quand-les-dieux-mentent-tromperie-verite-serments-parole-divine.md",
+          "request_sha256": "2ea27bd3ebd188561408e66165148291348fd93d58e8ab7c51ff94505525b271",
+          "initial_source_sha256": "4741798e9b0e245bdaa6014452f8a187a1f3cf365091495e6d982fdaa4596209"
         }
       }
     }
