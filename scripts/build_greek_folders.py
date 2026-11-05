@@ -67,6 +67,13 @@ HERO_HOME = {
     'orphee': ('heros', 'Orphée et les passages vers l’au-delà'),
 }
 CHAPTER_RULES = [
+    # Études intégrales déjà déposées dans editorial/inbox : aucun numéro
+    # anticipé. Dès l’attribution par Actions, rattacher les pages au
+    # sanctuaire local correspondant, sans déplacer leur manuscrit.
+    (r'^apollon ptoios\\b', 'sanctuaires',
+     'Béotie — Apollon Ptoios, oracle, kouroi et héros Ptoios'),
+    (r'^hera lakinia\\b', 'sanctuaires',
+     'Grande-Grèce — Héra Lakinia, Crotone et Capo Colonna'),
     # 426 : le manuscrit intégral et son reçu sont déjà publiés. L'épiclèse
     # Amarysia renvoie au sanctuaire d'Amarynthos, pas à une déesse autonome.
     (r'^artemis amarysia\b', 'sanctuaires',
@@ -1059,4 +1066,14 @@ CSS = '''
 @media(max-width:1050px){.greek-folder-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:700px){.greek-folder-grid,.greek-folder-links{grid-template-columns:1fr}.greek-folder-toc ul{display:block}.greek-folder-toc li{margin-bottom:.5rem}.greek-folder-toc a{width:100%}}
 @media(max-width:400px){.greek-folder-link{padding:0 .85rem .9rem}.mythos-design .greek-folder-link>.greek-folder-illustration{width:calc(100% + 1.7rem)!important;margin:0 -.85rem .75rem!important;height:110px!important}.greek-folder-link strong{font-size:1.16rem}.greek-folder-credit{padding:.6rem .85rem}}
+/* Mobile : titres de sous-dossiers longs, dont les épiclèses cultuelles. */
+@media(max-width:480px){
+  .greek-folder-toc a,.greek-folder-links a{
+    font-size:clamp(.94rem,3.6vw,1.03rem);
+    line-height:1.6;
+    overflow-wrap:anywhere;
+    hyphens:auto;
+  }
+}
+
 '''

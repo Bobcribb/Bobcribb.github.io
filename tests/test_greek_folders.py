@@ -589,6 +589,55 @@ class GreekFolderTests(unittest.TestCase):
                 alias = BeautifulSoup((out / BASE.strip('/') / 'thebes/index.html').read_text(), 'html.parser')
                 self.assertIn(BASE+'familles/', alias.select_one('meta[http-equiv="refresh"]')['content'])
 
+    def test_queued_ptoios_and_lakinia_classify_without_reserving_numbers(self):
+        """Subject-based routing works before or after atomic allocation."""
+        import json
+        root = Path(__file__).resolve().parents[1]
+        cases = (
+            ('83d14be7-6c2a-46de-83e1-4962a2d0be57',
+             'sanctuaires', 'Béotie'),
+            ('d5a47e36-8b27-4cb2-a3d0-f18a7e2c9d64',
+             'sanctuaires', 'Grande-Grèce'),
+        )
+        for uid, expected_family, section_prefix in cases:
+            request_path = root / 'editorial' / 'inbox' / (uid + '.json')
+            self.assertTrue(request_path.is_file(), uid)
+            request = json.loads(request_path.read_text(encoding='utf-8'))
+            self.assertEqual(request['collection'], 'encyclopedie')
+            self.assertGreater(len(request['markdown']), 20000)
+            self.assertIn('bibliograph', request['markdown'].lower())
+            # The test number is a synthetic URL, never a numbered file.
+            synthetic = '/chapitres/encyclopedie/chapitre-999999-' + request['slug'] + '/'
+            family, section = classify(synthetic, request['slug'], 'Chapitre universitaire')
+            self.assertEqual(family, expected_family, uid)
+            self.assertTrue(section.startswith(section_prefix), uid)
+            self.assertNotEqual(section, 'Nouvelles études à classer')
+        self.assertIn('Mobile : titres de sous-dossiers longs', CSS)
+
+    def test_ioulis_parallel_manuscript_is_hash_locked_on_hold(self):
+        """No second autonomous volume for the same law of Ioulis."""
+        import hashlib
+        import json
+        root = Path(__file__).resolve().parents[1]
+        primary = '9a0873be-5f44-4d99-b4a3-4f890a026f71'
+        variant = 'd5cc1ed0-5698-4dbb-9115-29e948eb3874'
+        inbox = root / 'editorial' / 'inbox'
+        first = json.loads((inbox / (primary + '.json')).read_text(encoding='utf-8'))
+        second_path = inbox / (variant + '.json')
+        second_raw = second_path.read_bytes()
+        second = json.loads(second_raw)
+        self.assertEqual(first['collection'], 'origines-du-sacre')
+        self.assertEqual(second['collection'], 'origines-du-sacre')
+        self.assertIn('ioulis', first['slug'])
+        self.assertIn('ioulis', second['slug'])
+        self.assertNotEqual(first['markdown'], second['markdown'])
+        self.assertGreater(len(second['markdown']), 20000)
+        data = json.loads((root / 'editorial' / 'holds.json').read_text(encoding='utf-8'))
+        self.assertEqual(data['requests'][variant]['request_sha256'],
+                         hashlib.sha256(second_raw).hexdigest())
+        registry = json.loads((root / 'editorial' / 'numbering.json').read_text(encoding='utf-8'))
+        self.assertNotIn(variant, registry['collections']['origines-du-sacre']['allocations'])
+
     def test_future_unclassified_chapter_stays_visible(self):
         rows = inventory([('Études', 'grec-universitaire', [
             ('/chapitres/encyclopedie/chapitre-1000-nouveau-sujet/', 'Une étude à venir')])], [], [])

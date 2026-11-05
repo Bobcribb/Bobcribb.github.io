@@ -20,6 +20,10 @@
     "3d64880f-6844-4d2a-b94e-b7ea3a2a0460": {
       "request_sha256": "ad048c27000d39ce312b5fabb73d39e8cdededf1626aa9bc1e573e728b5e33bc",
       "reason": "Collision historique MC-046 entre deux manuscrits universitaires intégraux de sujets distincts. Première soumission bbde4649-3c4a-456d-b3fc-e0fd67ca6e11 (« Quand le son agit sur les dieux », commit cb4524c, 4 novembre 2026 à 13:30:11 UTC, 77 667 octets). Seconde soumission 3d64880f-6844-4d2a-b94e-b7ea3a2a0460 (« Nommer les dieux, connaître leur puissance », commit b03322e, 13:33:29 UTC, 48 879 octets). Conserver intégralement et sans modification cette seconde étude dans editorial/inbox, sans numéro canonique ni reçu avant réconciliation explicite de sa cote historique distincte. Il ne s’agit pas d’un doublon de fond : ne pas fusionner ni supprimer les deux études. La première demande reste soumise aux contrôles ordinaires d’attribution."
+    },
+    "d5cc1ed0-5698-4dbb-9115-29e948eb3874": {
+      "request_sha256": "af5c6a2f62ad2fb459d3ada8c1a2acfb2143742ad257c5716b8bf5c0cfb49a71",
+      "reason": "Collision documentaire contrôlée le 5 novembre 2026 : la même loi funéraire d’Ioulis (Céos/Kéa), déjà soumise dans la demande 9a0873be-5f44-4d99-b4a3-4f890a026f71, est traitée dans deux monographies intégrales distinctes. Préserver ce second manuscrit de 32 857 caractères, son appareil critique et ses sources sans lui attribuer un second numéro autonome. Réconcilier les variantes puis publier, si justifié, un complément non numéroté avec renvois réciproques à l’étude principale. Ne pas supprimer ou réémettre cette demande sous un autre UUID."
     }
   }
 }
