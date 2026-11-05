@@ -595,9 +595,9 @@ class GreekFolderTests(unittest.TestCase):
         root = Path(__file__).resolve().parents[1]
         cases = (
             ('83d14be7-6c2a-46de-83e1-4962a2d0be57',
-             'sanctuaires', 'Béotie'),
+             'cultes-sanctuaires', 'Béotie'),
             ('d5a47e36-8b27-4cb2-a3d0-f18a7e2c9d64',
-             'sanctuaires', 'Grande-Grèce'),
+             'cultes-sanctuaires', 'Grande-Grèce'),
         )
         for uid, expected_family, section_prefix in cases:
             request_path = root / 'editorial' / 'inbox' / (uid + '.json')
