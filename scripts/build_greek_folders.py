@@ -1224,7 +1224,17 @@ def verify(out, expected_urls):
             links = [a['href'] for a in panels[0].select('a[href]')]
             assert set(links) == eastern_urls - {url}, 'Renvois orientaux incomplets : ' + url
             assert len(links) == len(set(links)), 'Renvoi oriental répété : ' + url
-    assert set(assignments) == set(expected_urls), 'Classement incomplet ou inattendu : '+str(set(assignments) ^ set(expected_urls))
+    # La concordance des chapitres 433 et 438 est une page d'orientation,
+    # non un troisième manuscrit à classer : vérifier sa présence et ses
+    # deux renvois, mais ne pas exiger une affectation thématique primaire.
+    primary_urls = set(expected_urls) - {LINDIA_NOTICE}
+    if LINDIA_NOTICE in expected_urls:
+        notice_path = out / LINDIA_NOTICE.lstrip('/') / 'index.html'
+        assert notice_path.is_file(), 'Concordance Lindos introuvable'
+        notice = BeautifulSoup(notice_path.read_text(encoding='utf-8'), 'html.parser')
+        assert notice.find('a', href=LINDIA_433), 'Renvoi Lindos 433 absent'
+        assert notice.find('a', href=LINDIA_438), 'Renvoi Lindos 438 absent'
+    assert set(assignments) == primary_urls, 'Classement incomplet ou inattendu : '+str(set(assignments) ^ primary_urls)
     assert all(n == 1 for n in assignments.values()), 'Texte classé plusieurs fois dans les dossiers'
     print('Dossiers grecs vérifiés :', len(assignments), 'destinations uniques, tous les textes et toutes les sections accessibles')
 
