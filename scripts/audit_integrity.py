@@ -11,6 +11,7 @@ from collections import Counter
 from hashlib import sha256
 import json, re, sys
 from sitemap_integrity import canonical_target
+from audit_policy import publication_audit_fails
 
 out=Path("_site")
 manifest=json.loads((out/"media/manifest.json").read_text(encoding="utf-8"))
@@ -129,6 +130,10 @@ for i in issues[:45]:print("ERROR:",i)
 print("WARNINGS:",len(warnings))
 print("WARNINGS_BY_TYPE:",dict(Counter(w.split(":")[0] for w in warnings)))
 for i in warnings[:65]:print("WARNING:",i)
-if len(issues):
+# Un lien interne, une ancre, un média, un CSS/JS, un doublon d'identifiant,
+# un titre manquant ou une dépendance WordPress ne doivent jamais laisser la CI verte.
+# Chaque avertissement correspond déjà à un constat contrôlé par cet auditeur.
+if publication_audit_fails(issues, warnings):
+    print("Publication blocked by integrity errors/warnings.", file=sys.stderr)
     sys.exit(1)
-print("Core integrity: PASS. Broken links are reported as warnings for editorial follow-up.")
+print("Core integrity: PASS. No broken links, fragments or resources detected.")
