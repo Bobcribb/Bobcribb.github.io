@@ -1,0 +1,538 @@
+# MYTHOS — Encyclopédie universitaire des comédies grecques — Volume CIV (104)
+
+## Philyllios, *Dōdekatē* (Δωδεκάτη), « Le Douzième Jour » : Anthestéries, fête des Choes, mesure du vin, paratragédie étiologique et ambiguïté du sacré
+
+**Monographie universitaire intégrale, 5 novembre 2026.** Collection MYTHOS : comédies grecques et œuvres perdues. Texte français original, rédigé pour publication publique à partir des sources antiques et des éditions critiques ; tous les passages inventés sont expressément [C]. La graphie *Dōdekatē* est une translittération de Δωδεκάτη ; *Dodekatē*, *Dodekate* et « La Douzième » sont des variantes pratiques de référencement. L'édition scientifique de base est Christian Orth, *Fragmenta Comica* 9.3, 2015, **p. 161–168** ; la numérotation de référence est **Philyllios fr. 6 Kassel–Austin**, correspondant au **fr. 7 Kock**.
+
+**État probatoire, à ne jamais inverser :** [A] attestations anciennes, formes textuelles ou données bibliographiques vérifiables ; [B] hypothèses de reconstitution, explications philologiques non démontrées, enquêtes historiques et lectures philosophiques ; [C] quatre courtes scènes contemporaines composées pour ce dossier, qui **ne restituent aucun vers perdu de Philyllios**. Une citation d'un autre auteur, même ancien, n'est jamais un « fragment supplémentaire » de la pièce. Le seul fragment attribué à la *Dōdekatē* dans PCG VII est le **fr. 6**, un extrait de **trois trimètres iambiques** conservé par **Pollux X, 70–71**. La pièce, ses personnages et sa représentation ne sont pas datés avec précision. Aucun numéro éditorial nouveau n'est fixé ici : les variables du titre seront résolues exclusivement par GitHub Actions.
+
+**Place vérifiée dans le corpus MYTHOS :** [Philyllios, *Aigeus*, volume C (100)](/chapitres/comedies/volume-100-philyllios-aigeus-poisson-ancetre-analphiton-thesee-reconnaissance/) ; [*Anteia*, attribution Philyllios/Eunikos, volume CI (101)](/chapitres/comedies/volume-101-philyllios-eunikos-anteia-attribution-hetaire-baiser-chytra-pollux/) ; [*Atalantē*, titre douteux, volume CII (102)](/chapitres/comedies/volume-102-philyllios-atalante-titre-souda-attribution-douteuse-chasse-course-mythes/) ; [Philyllios, *Augē*, volume CIII (103)](/chapitres/comedies/volume-103-philyllios-auge-telephos-banquet-pannychis-pain-chanson-paratragedie/) ; [sommaire des comédies grecques](/comedies-grecques/). Les cotes C à CIII sont historiques et confirmées par leurs reçus, non des réservations pour le présent manuscrit.
+
+---
+
+# Première partie — Constitution du dossier documentaire [A]
+
+## 01. [A] Un titre et un seul fragment versifié : établir le périmètre
+
+L'existence d'une comédie appelée **Δωδεκάτη** est attestée par le répertoire transmis sous le nom de **Philyllios** dans la **Souda φ 457**, qui la situe parmi les pièces de cet auteur. **Pollux, *Onomasticon* X, 70–71**, cite explicitement une intervention tirée de cette même comédie, à propos des appellations **ἀμφορεύς** et **μετρητής**. Il en résulte un dossier sensiblement plus fort que pour les titres de Philyllios connus de la seule Souda : ici, une attribution littéraire et une citation antique se recoupent. Ce recoupement ne fournit pourtant aucune trame dramatique.
+
+Le lecteur doit distinguer trois niveaux : le **titre ancien** ; le **contexte de la transmission lexicographique** ; le **contenu exact de trois vers**. On ne connaît ni le début ni la fin de la pièce, ni l'ordre des scènes, ni même le nom de la voix citée. Le fait que ces vers forment une tirade adressée à un récipient n'implique pas que le récipient était « personnage » au sens d'une distribution connue.
+
+## 02. [A] La Souda et le catalogue des œuvres de Philyllios
+
+La **Souda φ 457** présente Philyllios comme comique athénien et énumère une série de titres : *Aigeus*, *Augē*, *Anteia*, *Dōdekatē*, *Hēraklēs*, *Plyntria ē Nausikaa*, *Polis*, *Phreōrychos*, puis *Atalantē* et *Helenē*. Plusieurs formes de nom du dramaturge circulent dans les témoins lexicographiques. La liste n'est ni un ordre chronologique des représentations ni la preuve qu'il était l'auteur de tous les titres avec la même sécurité : les deux derniers titres, placés après une série approximativement alphabétique, ont suscité une critique particulière.
+
+Pour **Dōdekatē**, cette réserve finale est moins pressante : le titre figure dans la séquence ancienne de la liste et possède un fragment transmis indépendamment. Il demeure toutefois impossible d'en déduire un nombre de représentations, un concours remporté ou le rapport chronologique avec la comédie *Augē*.
+
+## 03. [A] Forme du titre : Δωδεκάτη, ordinal féminin
+
+**Δωδεκάτη** est le féminin de l'ordinal « douzième ». Le sens idiomatique du titre peut être compris comme **« le douzième [jour] »**, l'ellipse sous-entendant **ἡμέρα**, « jour ». Le titre ne signifie pas par lui-même « douze personnes », « douze mois », « douzième femme » ou « douzième épouse ». La forme féminine requiert une interprétation grammaticale précise.
+
+Orth, *FrC* 9.3, p. 161, considère le titre comme exceptionnel dans le répertoire de la comédie et le rattache vraisemblablement au jour nommé **Choes**, au douzième du mois **Anthestérion**. La formulation « douzième jour » est donc une traduction philologiquement motivée ; l'explication festive est hautement plausible mais doit être énoncée comme une **identification**, non comme une didascalie attestée.
+
+## 04. [A] Un titre en forme de date et les limites de la « pièce festive »
+
+Parmi les titres de comédies conservés, beaucoup désignent des personnes, des groupes, des métiers, des personnages mythiques ou des pratiques rituelles. Un simple ordinal féminin constitue une désignation rare. **Alcaios, *Hieros gamos***, et les comédies intitulées *Thesmophoriazousai*, *Adōniazousai* ou *Dionysiazousai* offrent des comparaisons de titres associés aux fêtes, mais aucun d'eux n'est une variante de l'œuvre de Philyllios.
+
+Les titres de fêtes ne donnent pas nécessairement toute l'intrigue. *Les Thesmophories* d'Aristophane mettent une fête au centre de la situation dramatique, mais le conflit concerne aussi Euripide et la représentation des femmes. Les seules lettres de Δωδεκάτη ne suffisent pas à dire si la scène se déroulait dans un sanctuaire, une maison, une place publique ou à l'occasion d'un concours.
+
+## 05. [A] Le témoin décisif : Pollux X, 70–71
+
+**Julius Pollux**, auteur de l'** *Onomasticon***, rassemble des noms d'objets, de mesures et d'usages. Au **livre X, 70–71**, il mobilise Philyllios pour éclairer la relation entre **ἀμφορεύς** (« amphore », récipient à deux anses) et **μετρητής** (« métrète », nom d'une mesure). Son exposé insère **trois vers iambiques** de la *Dōdekatē*. C'est le **fr. 6 K.-A.**, non une suite de trois fragments numérotés.
+
+Le lexicographe a pour objectif de documenter une désignation, non de raconter la scène. Il coupe ce qui aurait expliqué pourquoi le locuteur s'adresse au récipient. Cette extraction transforme une séquence spectaculaire en exemple de lexique. Elle doit guider l'édition : la donnée grammaticale est conservée avec précision relative, tandis que le contexte, la voix et la fonction scénique sont irrémédiablement incertains.
+
+## 06. [A] Résumé du fragment sans inventer un dialogue
+
+Le locuteur du **fr. 6** apostrophe directement un **ἀμφορεύς** et lui accorde, dans une diction solennelle, une **τιμή** (« honneur », « privilège ») : porter également le **nom** de **μετρητής**, sous prétexte de **μετριότης**, « mesure » ou « modération ». Le ressort du jeu tient à la parenté sonore entre un nom de mesure volumétrique et la vertu ou pratique de se tenir dans la mesure. La tournure de proclamation s'apparente à un décret divin, à une étiologie ou à une explication de nom du théâtre tragique.
+
+Ces trois vers ne disent pas **qui** prononce cet honneur ; ils ne font pas parler le vase en réponse. On ignore si une véritable amphore était visible, si l'acteur tenait un accessoire ou si la désignation était imagée. Écrire « Dionysos nomme l'amphore métrète » comme résumé factuel du fragment serait déjà dépasser le témoignage.
+
+## 07. [A] Le texte fragmentaire, ses éditions et ses variantes
+
+Le fragment est connu sous la référence **fr. 6 Kassel–Austin = fr. 7 Kock**. Son texte a connu des propositions ponctuelles de correction et de ponctuation ; Orth, p. 163–165, discute notamment la suite des démonstratifs et la façon de construire **τούτ’ αὐτ’** avec la formule d'infinitif. L'essentiel du jeu sur **μετρητής / μετριότης** reste reconnaissable indépendamment de ces détails. Il n'est pas nécessaire de rétablir une ponctuation unique comme si un manuscrit autographe la dictait.
+
+L'historien n'a pas davantage le droit d'ajouter un quatrième vers pour terminer la plaisanterie. Le texte de Pollux préserve un échantillon cohérent de vers, non une scène complète ; l'étendue de ce qui le précédait ou le suivait reste inconnue.
+
+## 08. [A] La nature métrique : trois trimètres iambiques
+
+Orth note que les trois lignes conservées peuvent être analysées comme des **trimètres iambiques**. Leur prosodie est compatible avec une diction tragique et avec l'imitation comique de celle-ci. Les trimètres sont fréquents dans la tragédie et dans les parties dialoguées des comédies ; il n'est donc pas suffisant de constater leur présence pour prouver une intention parodique. Le registre élevé des formules, joint au destinataire dérisoirement concret, constitue un indice plus riche.
+
+La coupe des trois vers offre une petite unité rhétorique : adresse, attribution, motivation étymologique. Le fragment n'offre en revanche aucun changement de personnage ni refrain choral. Sa prosodie ne permet ni de reconstituer les chants de la *Dōdekatē* ni de connaître l'identité du chœur.
+
+## 09. [A] Le vocatif ἀμφορεῦ et l'apostrophe d'un objet
+
+Le destinataire est un **vase** : l'orateur emploie le terme **ἀμφορεύς** en adresse directe. Le vocabulaire du récipient peut renvoyer à des formes et tailles diverses, plus particulièrement associées au transport ou à la conservation de liquides dont le vin. Le passage de la catégorie « objet de stockage » à celle de « mesure » est précisément ce que Pollux cherche à illustrer.
+
+L'apostrophe d'un objet trouve des parallèles dans la tragédie et la comédie : couronnes, vêtements, tablettes, lampes ou aliments peuvent recevoir des discours. Orth, p. 166, rappelle par exemple l'adresse à une **lampe** au début des ** *Assemblée des femmes* d'Aristophane** et les apostrophes burlesques d'objets chez le même auteur. Ces comparaisons sont une **tradition formelle**, non un moyen de compléter la liste des personnages de Philyllios.
+
+## 10. [A] Μετρητής et la capacité : un mot à deux faces
+
+**Μετρητής** désigne une unité de capacité pour les liquides ; dans l'Attique classique, une valeur conventionnelle est souvent donnée comme **douze choes**, soit approximativement **trente-neuf litres**, selon les calculs modernes. Les valeurs physiques anciennes dépendent de systèmes locaux et de conditions documentaires ; on ne doit donc pas transformer ce nombre approximatif en mesure universelle de chaque amphore conservée. La proximité phonétique avec **μέτρον** (« mesure ») et **μετριότης** (« modération ») permet le jeu d'étymologie.
+
+**Un grand volume et la vertu de mesure** forment un contraste proprement comique. Si l'on prend la formule au premier degré, le vase reçoit un nom évoquant la modération alors qu'il peut contenir bien davantage que ce qu'une personne boirait raisonnablement. La portée exacte de l'ironie est une question d'interprétation [B], mais les deux vocables qui la rendent possible sont conservés [A].
+
+## 11. [A] Les autres témoins du lexique de l'amphore
+
+Pollux ne cite pas seulement Philyllios : son contexte mentionne notamment **Démosthène, *Contre Phainippos* 42, 20**, où un terme de mesure pour le vin est employé, et **Philochore, *Atthis*, FGrHist 328 F 187**, concernant des noms anciens de récipients. **Moeris, α 92**, discute également la distinction entre termes attiques et autres désignations. Ces références éclairent le champ des usages et les problèmes de synonymie.
+
+Aucun de ces passages ne devient un second fragment de la comédie. La pratique essentielle d'une édition historique est de conserver la **chaîne de transmission** : un lexicographe cite une comédie et la rapproche de discours ou d'écrits antiquaires. En inversant cette chaîne, on fabriquerait artificiellement une intrigue de commerce ou d'administration des jarres.
+
+## 12. [A] Μετριότης : modération morale ou formule verbale ?
+
+Le terme **μετριότης** peut évoquer une manière d'être modérée et, dans un contexte de vin, une maîtrise de sa consommation. Mais la justification du nom **μετρητής** est ici surtout une **étiologie sonore** : parce que les termes se ressemblent, une voix grave peut produire une parenté de sens qui semble expliquer le monde. L'étymologie est comique même sans être scientifiquement valable.
+
+L'éditeur doit résister à deux anachronismes : attribuer au comique une définition philosophique systématique de la vertu et présumer qu'il s'agit d'un enseignement prescriptif contre l'ivresse. La dénomination est solennelle et peut être ironique. Nous ne possédons ni la réaction du public ni la suite de la scène qui aurait fixé son orientation.
+
+## 13. [A] Pourquoi les étymologies de scène comptent-elles ?
+
+Le théâtre grec représente souvent la fondation d'un nom, d'un rite ou d'un privilège par une figure d'autorité. Les **étiologies tragiques** expliquent pourquoi telle institution se nomme ainsi ou pourquoi tel culte sera pratiqué. Orth, p. 164–165, rapproche le fragment de formules chez **Euripide**, notamment dans les fragments de l'***Érechthée*** (fr. 370) et de l'***Antiope*** (fr. 223), dans lesquelles une divinité confère un honneur ou un nom.
+
+Ces exemples restent des comparaisons de style et de structure : la *Dōdekatē* n'est ni une variante perdue de ces tragédies ni une œuvre d'Euripide. La parodie possible exploite l'écart entre la majesté de la parole d'institution et la banalité relative de ce qu'elle institue, le nom d'une mesure du vin.
+
+## 14. [A] Le caractère incertain du locuteur
+
+Une adresse qui **donne un honneur** et **fixe un nom** pourrait venir d'un dieu, d'un héros, d'un maître de banquet ou d'un personnage qui imite les dieux. Orth, p. 165–166, estime qu'une voix divine serait plausible dans une étiologie comique et évoque **Dionysos** en raison du contexte des Anthestéries. Mais il ne s'agit pas d'une identification préservée dans Pollux.
+
+La qualification correcte est donc la suivante : **une voix investit l'amphore d'un nom**, point assuré ; **Dionysos pourrait parler**, lecture [B]. Toute reconstitution dramatique montrant le dieu présidant à un concours est une hypothèse ou une création, non un extrait de la pièce. La différence est minime pour la fantaisie scénique, décisive pour l'édition des œuvres perdues.
+
+## 15. [A] Chronologie : la date de la pièce demeure inconnue
+
+Philyllios appartient au tournant de la fin du Ve et du début du IVe siècle avant notre ère ; les témoignages biographiques, les inscriptions de concours et les scolies autorisent des approximations pour **sa carrière**. Orth, p. 163, indique expressément qu'il n'existe pas d'indice précis pour **dater la *Dōdekatē***. Une fête annuelle ne constitue évidemment pas une date de représentation.
+
+La tentation est forte de rapprocher la pièce des dernières comédies d'Aristophane et d'attribuer un millésime autour de 392 av. J.-C. : une telle détermination doit être refusée. Un intervalle plausible ne se confond pas avec un témoignage de didascalie, et aucune victoire attestée du dramaturge n'est automatiquement celle de cette comédie.
+
+# Deuxième partie — Le douzième jour et la cité rituelle [A]
+
+## 16. [A] Le calendrier d'Anthestérion et les trois jours
+
+Les **Anthestéries**, fête athénienne de Dionysos, se répartissent traditionnellement sur **trois jours**, les **11, 12 et 13 d'Anthestérion** : **Pithoigia**, **Choes** et **Chytroi**. Le nom *Dōdekatē* est rapproché du **douzième** de ce mois, le **jour des Choes**. Cette identification repose sur des sources cultuelles et lexicographiques : elle est plus solide qu'une simple étymologie du titre, sans devenir un témoignage du déroulement de la pièce.
+
+Les calendriers grecs sont lunisolaires ; « le 12 Anthestérion » ne se traduit pas par un 12 février immuable du calendrier moderne. Les dates religieuses et les saisons entretiennent un rapport qui ne doit pas être nivelé par une conversion calendaire approximative.
+
+## 17. [A] Hésychios δ 2708 : la « Douzième » et les Choes
+
+Le lexique d'**Hésychios**, sous l'entrée **δ 2708**, rapproche **Δωδεκάτη** d'une **fête athénienne appelée Choes**. C'est l'un des arguments les plus directs pour comprendre le titre comme désignation d'un jour festif plutôt que d'un personnage numéroté. La glose est une preuve de pratique lexicale et de mémoire religieuse ; elle ne fournit aucun contenu dramatique additionnel.
+
+Les lexiques conservent souvent des cérémonies sorties de l'usage vivant de leurs compilateurs. Ils peuvent condenser une tradition, confondre des noms de fête ou réorganiser des détails. Leur mérite est de donner l'explication d'un terme ; leur limite est de ne pouvoir restituer intégralement l'expérience collective dont ils héritent.
+
+## 18. [A] Thucydide II, 15, 4 : le sanctuaire de Dionysos « aux Marais »
+
+Dans la description de l'ancienne Athènes, **Thucydide, *Guerre du Péloponnèse* II, 15, 4**, mentionne le sanctuaire de Dionysos **ἐν Λίμναις** et les pratiques anciennes qui lui sont liées. Le passage joue un rôle central dans l'étude des Anthestéries. Cependant la précision **« le douzième »** dans le texte de Thucydide fait débat : beaucoup d'éditeurs y voient une **glose explicative introduite secondairement**. Orth, p. 161, signale expressément cette difficulté textuelle.
+
+Citer le passage comme un témoignage absolument assuré de Thucydide sur la date exacte, sans indiquer la variante discutée, supprimerait une incertitude importante. La fête du douzième jour est documentée par un faisceau d'attestations, non suspendue à un seul mot d'une tradition manuscrite controversée.
+
+## 19. [A] [Démosthène] 59, 76 : une ouverture exceptionnelle
+
+Dans le discours ** *Contre Nééra***, conventionnellement conservé au sein du corpus démosthénien mais d'**attribution discutée**, le passage **59, 76** indique qu'un sanctuaire de Dionysos **ἐν Λίμναις** est ouvert une fois l'an, au douzième d'Anthestérion. Il documente la singularité rituelle du lieu. Une telle exception modifie les relations ordinaires entre accès, autorité civique et espace sacré.
+
+Il faut garder deux précautions simultanées : un discours judiciaire peut mobiliser des traditions rituelles à des fins de persuasion ; et l'accès rituel au sanctuaire n'implique pas que la scène de Philyllios s'y déroulait. La date et la solennité sont des données de l'histoire religieuse, non des didascalies de *Dōdekatē*.
+
+## 20. [A] Pithoigia : l'ouverture des contenants
+
+Le premier jour, **Pithoigia**, est traditionnellement associé à l'ouverture des récipients où était conservé le nouveau vin. L'ouverture renvoie à une action matérielle et à des transformations de valeur : un liquide de réserve entre dans un espace de circulation, de goût et de consommation. Les rites effectivement associés à ce premier jour varient dans les sources ; tout détail reconstruit doit être rapporté à son témoignage.
+
+Le rapprochement avec le **fr. 6** est linguistiquement intéressant : celui-ci met en scène l'**amphore** et la **mesure**. Pourtant un objet destiné à contenir du vin ne détermine pas une date : l'amphore pouvait apparaître au second jour ou dans une scène d'usage domestique. Faire de la plaisanterie une description certaine de Pithoigia serait remplacer la philologie par l'association d'idées.
+
+## 21. [A] Choes : le concours de boisson
+
+Le second jour, **Choes**, comporte un **concours de boisson** dans lequel des participants sont invités à vider rapidement une quantité définie de vin. Les sources comiques et les études historiques placent ce concours au centre de la fête. Le **chous** désigne à la fois un contenant et une unité de capacité ; la valeur conventionnelle d'un chous attique est de l'ordre de **trois litres**, mais les usages effectifs des vases et les différences de taille imposent la prudence.
+
+La relation du concours à la **mesure** est particulièrement suggestive : pour gagner, il faut mesurer une quantité identique et accélérer l'ingestion. Le jeu du fr. 6 sur *metretēs* et *metriotēs* s'inscrit donc dans un champ de plaisanterie culturellement pertinent. Le texte ne dit toutefois pas que le locuteur participe personnellement au concours.
+
+## 22. [A] Aristophane, *Acharniens* 959–1234
+
+À la fin des ** *Acharniens* d'Aristophane**, les préparatifs d'un festin et le concours des **Choes** encadrent une opposition spectaculaire : **Dicéopolis**, porté par une paix privée et le vin, s'oppose au général **Lamaque**, rappelé à la guerre et finalement blessé. Un héraut annonce le concours de boisson ; la scène finale célèbre la victoire du personnage comique. Le public peut y reconnaître simultanément une coutume festive et une construction politique de théâtre.
+
+Ce texte de **425 av. J.-C.** est **antérieur** à la période généralement assignée à Philyllios, mais sa proximité de motifs ne prouve ni emprunt direct ni reconstruction d'une scène de *Dōdekatē*. Il est en revanche une **source primaire indépendante** sur la représentation dramatique du concours des Choes.
+
+## 23. [A] Choes : fêtes d'enfants et objets miniatures
+
+Les **petits choes** de céramique, fréquemment décorés de scènes de jeu, de petits animaux et d'enfants, ont été rapprochés des Anthestéries, où une intégration rituelle de jeunes enfants pouvait se dérouler. Cette documentation archéologique ajoute un autre groupe social à l'univers de la fête : la cité y représente non seulement des buveurs adultes mais aussi ceux qui se préparent à entrer dans la communauté.
+
+Il faut préciser que la fonction d'un vase décoré se déduit de son contexte et d'un corpus d'analogies : **une iconographie enfantine n'est pas l'illustration de la comédie de Philyllios**. On peut l'utiliser comme document d'histoire sociale, sans le présenter comme accessoire de son théâtre perdu.
+
+## 24. [A] Participation des personnes asservies : présence et hiérarchie
+
+Les témoignages sur les Anthestéries évoquent la participation de personnes asservies à certains moments de convivialité. Leur présence dans la fête ne signifie ni égalité juridique ni abolition de l'esclavage. Une suspension rituelle ou une inversion de certaines normes peut coexister avec le maintien intégral des structures sociales qui dominent la vie quotidienne.
+
+Il serait imprudent de déduire d'une fête ouverte un chœur composé d'esclaves dans la *Dōdekatē* ou une satire émancipatrice. La fête ancienne fournit des possibilités de rencontre sociale ; la comédie spécifique pourrait les avoir ignorées, soutenues ou ridiculisées. Nous manquons du matériau textuel permettant de choisir.
+
+## 25. [A] Le mariage sacré de Dionysos et de la basilinna
+
+Les traditions relatives aux Anthestéries comprennent une **hiérogamie**, union rituelle du dieu **Dionysos** avec la **basilinna**, épouse de l'archonte-roi. Les sources oratoires attestent des obligations et de la position rituelle des femmes dans ce cadre ; les interprétations précises du déroulement demeurent discutées. La hiérogamie articulait une dimension religieuse à l'ordre civique, puisque l'institution de l'archontat participait à l'administration du culte.
+
+Le titre *Dōdekatē* pourrait faire attendre des scènes autour de cette cérémonie, mais **le fr. 6 ne nomme ni la basilinna ni le mariage**. Il ne faut pas prendre une grande institution des Anthestéries et l'insérer artificiellement au centre d'une intrigue dont rien n'est connu.
+
+## 26. [A] Le char en forme de navire : prudence de l'iconographie
+
+Une procession où Dionysos arrive sur un **char en forme de navire** est souvent associée à certaines interprétations des Anthestéries. Orth, p. 161 et 166, rappelle qu'une telle attribution à la fête n'est **pas certaine**. Des images ou des témoignages tardifs peuvent éclairer le problème sans démontrer une chronologie et un rituel uniformes. Le motif relie le dieu du vin au déplacement et à l'apparition de l'Autre.
+
+Une hypothèse attrayante serait que la *Dōdekatē* montrait l'arrivée du vin par la mer et qu'un dieu expliquait alors le nom des amphores. Elle cumule toutefois trois hypothèses non attestées pour le texte : procession, arrivée du vin, présence personnelle du dieu. Elle ne doit rester qu'en [B].
+
+## 27. [A] Chytroi : le troisième jour, les morts et les pots
+
+Le dernier jour des Anthestéries est appelé **Chytroi**, nom lié aux **marmites** et à des pratiques rituelles concernant les morts et **Hermès Chthonios**. Les détails d'offrande et les reconstructions du retour des morts ont fait l'objet de débats : toutes les sources ne décrivent pas un parcours complet et univoque. Les traditions postérieures ont parfois associé la fin de la fête à une formule d'éloignement des esprits.
+
+Le rapprochement entre le sacré du vin et la présence des morts rend le festival particulièrement complexe. Cependant la pièce s'intitule **« Le Douzième »**, non « Les Marmites », et ne garantit aucune scène du troisième jour. La comparaison éclaire l'ensemble religieux, sans autoriser à étendre le théâtre perdu aux trois jours.
+
+## 28. [A] Hermès Chthonios et la relation aux morts
+
+Le nom d'**Hermès Chthonios** signale un registre des relations avec les défunts et les puissances sous terre. Il ne saurait être confondu avec toutes les fonctions connues d'Hermès dans les hymnes ou la comédie. À un festival où le vin et la convivialité sont visibles se juxtapose un horizon de deuil, de seuil et d'éloignement des puissances. La coexistence est attestée dans l'histoire des rites ; sa construction théorique sera discutée séparément.
+
+Une reconstitution qui introduirait Hermès auprès d'une amphore parlerait de **possibilité dramaturgique**, non d'un personnage attesté de Philyllios. L'auteur a laissé trois vers sur une appellation de récipient et une liste de titre ; c'est la limite stricte de notre connaissance directe.
+
+## 29. [A] Les seuils domestiques et la protection
+
+Certaines traditions de la fête évoquent des pratiques apotropaïques : protection des maisons, signes sur les portes et dispositifs destinés à tenir à distance des puissances dangereuses. Les spécialistes discutent les strates documentaires de ces usages et la relation exacte entre retour des morts et journées de fête. Il serait donc trompeur de présenter un ensemble de recettes rituelles tirées de sources éloignées comme un protocole athénien uniformément exécuté au Ve siècle.
+
+La possibilité d'une comédie des seuils est cependant historique dans son vocabulaire : fête, protection, extérieur, intérieur et invités sont des catégories que l'Athénien pouvait reconnaître. On ne sait pas si *Dōdekatē* les exploita.
+
+## 30. [A] Fête privée et fête civique : plusieurs espaces possibles
+
+La fête des **Choes** n'est pas réductible à une cérémonie unique au sanctuaire. Des sources font envisager des **concours et repas dans des maisons privées**, tout en conservant l'importance institutionnelle des pratiques accomplies au sanctuaire de Dionysos. L'expérience d'une fête pouvait donc être **distribuée** dans des lieux, à travers des rites concurrents et complémentaires.
+
+Ce caractère pluriel limite l'interprétation du titre : une comédie appelée *Dōdekatē* pourrait représenter une maison, un sanctuaire, une assemblée d'invités ou plusieurs lieux selon les conventions théâtrales. Le titre ne sélectionne aucune scénographie certaine. Un même rite fournit au théâtre un riche ensemble de situations, non un décor imposé.
+
+# Troisième partie — Reconstructions critiques de la dramaturgie [B]
+
+## 31. [B] Le nom du récipient comme « fondation » ironique
+
+Le fragment fait ressembler la nomination d'une **amphore** à l'institution solennelle d'un culte ou d'un privilège. On peut interpréter la scène comme une **paratragédie étiologique** : l'élévation du style masque la petitesse de l'objet, et la recherche du sens devient un piège de l'étymologie. La gravité de la diction peut générer le rire précisément parce que le destinataire ne possède pas de grandeur héroïque.
+
+Cette hypothèse est renforcée par les parallèles euripidéens étudiés par Orth, sans être démontrée au sens strict. Une proclamation solennelle devant une amphore aurait aussi pu être sympathique et festive plutôt que moqueuse. Il n'existe aucune preuve de la réponse des autres personnages ou de la réaction du chœur.
+
+## 32. [B] Dionysos et l'autorité de nommer
+
+Dans un drame possiblement lié aux Anthestéries, **Dionysos** serait un locuteur plausible pour attribuer à un vase un nom sacralisé. Le dieu préside au vin, et le jour des Choes met en jeu sa consommation mesurée ou démesurée. Une étiologie prononcée par Dionysos pourrait ainsi imiter les fondations cultuelles des tragédies d'Euripide, au terme d'une intrigue festale.
+
+Mais le fragment ne nomme pas Dionysos. Une voix humaine pourrait tout aussi bien parodier une divinité. C'est un point décisif : **la reconnaissance d'un style de parole ne permet pas l'identification d'un locuteur**. Cette mise en garde empêche de transformer l'expression « je te donne cet honneur » en réplique du dieu sans témoin.
+
+## 33. [B] Le paradoxe du métrète : pouvoir mesurer sans être modéré
+
+Un **métrète** contient une quantité considérable de liquide ; son nom rapproche le volume calculable d'une vertu du **juste milieu**. Une grande quantité, mesurée exactement, peut pourtant susciter une consommation excessive. La comédie peut jouer sur cette distinction : les instruments de mesure règlent la quantité disponible, non la conduite de celui qui boit.
+
+Le langage de la modération acquiert alors une portée critique. Une société peut disposer de mesures précises et manquer de maîtrise d'elle-même. Ce problème est familier à la philosophie, mais il ne faut pas en faire un manifeste d'éthique rédigé par Philyllios. Le fragment garantit le calembour sur le nom, non son développement doctrinal.
+
+## 34. [B] Un concours de vin et la contradiction des règles
+
+Dans un concours de boisson, l'égalité formelle se réalise par une mesure distribuée à chacun ; la victoire appartient à celui qui consomme le plus rapidement. Autrement dit, une pratique **réglementée** peut valoriser un comportement que l'usage courant juge **immodéré**. La contradiction rend le rire possible au cœur d'une fête fortement ritualisée. Le dieu pourrait célébrer la mesure, tandis que les participants cherchent à la dépasser par la vitesse.
+
+Cette mise en scène n'est pas décrite dans le fragment de Philyllios ; elle est éclairée par le contexte des Choes et par Aristophane. La lecture historique gagne à comparer les cadres sociaux avant d'inventer une action spécifique.
+
+## 35. [B] Une étiologie qui ne fonde peut-être rien
+
+Toute étiologie affirme donner une origine : tel lieu doit son nom à un événement, tel rite à un héros, telle appellation à une qualité. Le ressort parodique consiste à faire entendre une explication séduisante mais **circulaire**, fondée sur une ressemblance entre mots. Le nom ne décrit pas nécessairement une propriété intrinsèque de la chose. Le calembour fonctionne comme une petite critique de la crédulité envers l'origine des mots.
+
+La limite est importante : la pensée linguistique classique ne se réduit pas à des étymologies fantaisistes. Le *Cratyle* de Platon, par exemple, problématise le rapport entre noms et choses de manière spécifique. On peut le citer comme **comparaison extérieure** et non comme cible attestée de la plaisanterie comique.
+
+## 36. [B] Parler au vase : du théâtre des personnes au théâtre des objets
+
+L'apostrophe d'une amphore décentre la scène : un accessoire ordinaire devient interlocuteur. Cette opération ne requiert pas de réponse de l'objet. Elle suffit pour offrir au public un destinataire visible de la parole et pour transformer une règle de nomination en événement. Le comédien peut regarder l'amphore, la caresser, la soulever ou la désigner sans que nous puissions décider lequel de ces gestes était employé.
+
+L'intérêt dramatique tient à la dissymétrie : un objet muet reçoit un acte de langage lourd de prestige. En faisant comme si la chose acceptait un honneur, le locuteur peut ridiculiser les procédures par lesquelles les humains confèrent des titres. Ce mouvement est une interprétation dramaturgique et non une indication scénique.
+
+## 37. [B] Une possible parodie d'Euripide, sans identification de modèle unique
+
+Les parallèles avec l'***Érechthée*** et l'***Antiope*** d'Euripide sont frappants parce que la tragédie donne souvent à une autorité divine le pouvoir d'expliquer un nom nouveau. Orth note des formules proches, une disposition semblable de l'attribution d'**honneur**, et des habitudes métriques du style tragique. On peut parler d'une **paratragédie probable**, au sens d'une stylisation consciente des ressources de la tragédie.
+
+Il serait excessif d'affirmer que Philyllios « cite les vers exacts » de l'***Érechthée***, ou qu'il rejoue un final particulier. Les séquences grecques ne démontrent ni une citation littérale intentionnelle ni une chronologie précise d'emprunt. L'histoire de la réception exige de réserver le terme « parodie directe » aux cas où les ressemblances sont suffisantes pour exclure les formules communes.
+
+## 38. [B] De l'objet-mesure à la parole instituante
+
+Un nom ne se contente pas de décrire : dans certains contextes, **nommer** peut faire reconnaître un statut. Le fragment met un objet en situation d'**honneur attribué**. Une analyse pragmatique moderne peut traiter cette parole comme une scène de performativité : déclarer une dénomination, c'est tenter d'installer une règle commune. La plaisanterie surgit quand une cérémonie destinée à des hommes, des cités ou des héros s'adresse à un vase.
+
+Cette lecture n'implique pas que Philyllios ait élaboré une théorie du langage performatif. Elle permet seulement de mettre en évidence une tension de la scène : la hauteur de l'acte verbal et la modestie du référent. Toute analyse demeure dépendante de trois vers, pas d'une tradition philosophique cachée.
+
+## 39. [B] L'apostrophe comme pédagogie renversée
+
+Pourquoi enseigner le nom d'une amphore à l'amphore elle-même ? La scène pourrait tourner en dérision le **pédantisme**, le goût du savoir terminologique et la prétention d'un locuteur qui veut instruire une chose incapable de répondre. Elle pourrait aussi faire du récipient le véritable juge silencieux d'une discussion entre buveurs. L'absence de contexte autorise plusieurs lectures contradictoires.
+
+La critique de l'école ne doit pas être appliquée automatiquement : le seul fait de citer un nom rare dans un lexique tardif ne prouve pas qu'il existait sur scène un maître, un sophiste ou un débat éducatif. Le lexicographe choisit une scène parce qu'elle contient un mot utile, non parce qu'il en documente le dispositif intellectuel.
+
+## 40. [B] La fête comme temps de suspension limitée
+
+Les Anthestéries articulent une temporalité particulière à celle de la vie civique : ouverture de jarres, parcours de vin, participation de groupes différents, rites d'union et relations aux morts. Le changement de rythme peut être compris comme une **suspension réglée**. La fête ne détruit pas les frontières ; elle organise des passages contrôlés et donc rend visibles les normes que l'habitude dissimule.
+
+Cette dynamique pourrait fournir à la comédie une structure : des participants suspendent des convenances dans un cadre ritualisé. Rien n'oblige à faire de la *Dōdekatē* une fête de renversement total des hiérarchies. Il faut éviter de projeter sur la Grèce des modèles modernes de carnaval sans analyse circonstanciée des institutions.
+
+## 41. [B] Vin et politique dans les *Acharniens* : parallèle à deux bords
+
+Les ** *Acharniens*** font apparaître une victoire au concours des Choes en même temps qu'une opposition à la guerre. Le vin récompense le protagoniste comique qui a réussi à se ménager une paix privée, mais son succès dépend d'une distribution très inégale des ressources : d'autres personnages n'ont pas accès à sa trêve. Le rire accompagne une politique contestable autant qu'un triomphe de la convivialité.
+
+Le dossier de Philyllios offre l'occasion d'interroger l'éthique des scènes festives : mesurer une boisson n'est pas distribuer équitablement ses bénéfices. On doit néanmoins laisser cette réflexion au rang de comparaison : aucun fragment de *Dōdekatē* ne nomme Lamaque, Dicéopolis, la guerre du Péloponnèse ou un partage de la paix.
+
+## 42. [B] Les morts invités et la valeur de la convivialité
+
+Une fête où les morts peuvent être évoqués soumet la convivialité à une frontière fondamentale : qui peut participer à la table, qui reste absent, et comment maintenir un lien avec ceux qui ne reviennent plus ? Le vin pourrait figurer à la fois l'intensification de la présence des vivants et l'oubli temporaire de leur mortalité. La présence des morts dans l'histoire des Anthestéries fait donc apparaître une ambivalence du sacré qui dépasse l'opposition sommaire joie/terreur.
+
+Le jeu sur le métrète ne contient toutefois **aucune allusion explicite aux morts**. Il n'est qu'un point d'accès à une étude plus large de la fête. Une reconstruction qui le placerait dans une nécromancie athénienne serait arbitraire.
+
+## 43. [B] Le sacré et les institutions : la basilinna comme frontière
+
+La basilinna se situe à la jonction de la femme ritualisée, de l'épouse d'un magistrat et d'une communauté qui donne au mariage du dieu une portée civique. Une lecture institutionnelle des Anthestéries peut montrer que le culte ne constitue pas une sphère détachée du droit et de la politique. Il engage des qualifications, des exclusions et des obligations, dont les sources judiciaires se servent comme arguments.
+
+Une intrigue où la basilinna entre en scène est dramaturgiquement possible, mais non attestée. Il importe de ne pas transformer les femmes d'un rite dionysiaque en « personnages de Philyllios » par simple association avec le titre festif.
+
+## 44. [B] Le rôle comique de la quantité
+
+L'ancienne comédie aime les transformations d'échelle : immenses provisions, repas démesurés, objets ordinaires traités comme divinités, nombres exacts qui deviennent absurdes. Un métrète peut être un chiffre, une unité, un récipient, un objet à transporter, un motif de querelle ou une image de la gourmandise. Les notions de **quantité** et de **qualité** se heurtent : ce qui est exactement mesuré n'est pas nécessairement convenablement consommé.
+
+Ce cadre aide à comprendre la pointe du fragment sans inventer de verbes ou de vers. L'étude philologique commence par un jeu d'équivalence attesté ; l'analyse poétique peut ensuite explorer les possibilités du rire que cette équivalence ouvre.
+
+# Quatrième partie — Enquêtes philosophiques et comparatistes [B]
+
+## 45. [B] Hegel : l'écart entre contenu et forme
+
+Une lecture inspirée des ** *Leçons sur l'esthétique*** de **Hegel** peut décrire le mécanisme par lequel une forme solennelle se fixe sur un contenu matériel relativement trivial. Le langage qui confère normalement honneur et statut est appliqué à un vase. Cette disproportion ne signifie pas qu'un objet soit sans valeur : elle rend sensible une tension entre la **prétention universelle du discours** et l'objet singulier qu'il traite.
+
+Il s'agit d'une **application interprétative moderne**, non d'un commentaire rédigé par Hegel sur Philyllios. L'analyse ne doit pas réduire le rire antique à une thèse hégélienne de l'esprit, mais elle permet de préciser le mouvement de la scène : l'acte de nommer peut produire une autorité qui se révèle comique par son usage.
+
+## 46. [B] Nietzsche : mesure et débordement dionysiaque
+
+La relation entre **μετριότης**, mesure, et la fête de Dionysos appelle une lecture à partir de **Nietzsche**, particulièrement de ***La Naissance de la tragédie***. L'exaltation dionysiaque n'est pas simplement une ivresse chimique, et la mesure n'est pas simplement un calcul volumétrique. Une fête réglée peut autoriser un bouleversement temporaire de l'ordre sensible tout en exigeant des formes de maîtrise rituelle. Le concours des Choes constitue un cas où l'on suit une règle pour produire un dépassement.
+
+Il faut éviter le cliché : « amphore = dionysiaque, mesure = apollinien ». Cette équation transforme deux concepts esthétiques complexes en métaphores sans preuve. Nietzsche n'a pas transmis de commentaire sur ces trois vers ; la lecture sert à penser leur paradoxe, pas à leur prêter une doctrine étrangère.
+
+## 47. [B] Vernant : l'altérité du dieu et la cité
+
+Les recherches de **Jean-Pierre Vernant** sur les figures divines, les masques et les structures sociales grecques permettent de penser les Anthestéries comme un espace où **Dionysos fait apparaître l'étrangeté au cœur de la cité**. Le vin est une substance socialisée par des usages et des récipients, mais son pouvoir modifie les comportements et les relations. Le festival conjugue appartenance civique et franchissement de frontières, y compris entre vivants et morts.
+
+L'interprétation gagne à éviter une dualité fixe : Athènes n'est pas pure raison et Dionysos n'est pas pure irrationalité. Le dieu fait partie de ses institutions, et son festival produit des règles très précises. Le rire possible autour du métrète dépend de cette simultanéité.
+
+## 48. [B] Détienne : la pratique contre les classifications immobiles
+
+Dans les travaux de **Marcel Détienne** sur les dieux grecs et les pratiques du sacrifice, les catégories religieuses se construisent dans des gestes, des objets, des récits et des distinctions mouvantes. L'amphore est un exemple pertinent : récipient matériel, mesure, marchandise, outil de service, objet de langage et possible interlocuteur comique. Le vin n'existe pas rituellement comme simple substance : il circule à travers les gestes qui l'ouvrent, le répartissent et le boivent.
+
+La méthode comparatiste permet ainsi d'analyser une **chaîne d'opérations** : conserver, mesurer, offrir, distribuer, consommer, nommer. Elle ne fournit pas une reconstruction automatique de *Dōdekatē*. L'étude de la chaîne est une enquête moderne éclairée par plusieurs témoins.
+
+## 49. [B] Pourquoi Dumézil n'est pas une clé nécessaire
+
+Il serait tentant de distribuer les activités des Anthestéries en trois fonctions, souveraineté sacrée, violence et fécondité, puis de présenter la pièce comme un récit hérité d'une structure indo-européenne. Ce raisonnement ne résiste pas au contrôle : une fête complexe fournit toujours des éléments que l'on peut ranger artificiellement dans trois catégories ; cela ne démontre ni une **homologie structurale** ni une transmission historique.
+
+Les analyses de **Georges Dumézil** peuvent nourrir une réflexion générale sur la méthode, à condition de constater ici la **non-pertinence probatoire** d'une application trifonctionnelle. Trois vers sur une amphore ne permettent pas de retrouver une organisation tripartite du récit, du chœur ou de la société représentée.
+
+## 50. [B] Une lecture politique de la « bonne mesure »
+
+Le mot « mesure » peut sembler promettre une justice commune : chaque citoyen reçoit une quantité égale et le concours désigne un vainqueur. Mais l'égalité de contenu n'est pas l'égalité des corps, des statuts ni des opportunités. Les compétitions festives donnent souvent une visibilité à la différence des participants. La **métriotès** pourrait alors être ironisée comme une valeur solennellement proclamée et contredite par le comportement collectif.
+
+Rien ne prouve que Philyllios ait composé une satire des institutions démocratiques, ni même que son texte mette en scène un concours. On peut néanmoins dégager une question historique : comment la fête rend-elle compatible l'ordre public avec une expérience de désordre contrôlé ? Le corpus comparatif propose les instruments d'une réponse prudente.
+
+## 51. [B] L'histoire sociale d'un nom : des jarres aux voix
+
+Les noms de mesures sont souvent des traces d'interactions entre les marchands, les administrations, les banquets, les sanctuaires et les usages domestiques. Leur coexistence entraîne des synonymies, des variations régionales et des jeux verbaux. Le fragment de Philyllios n'est pas une table de conversion fiable ; il met en évidence la possibilité comique d'expliquer la langue par la langue même.
+
+La fortune de la plaisanterie repose paradoxalement sur **Pollux**, un lexicographe qui la conserve pour discuter des mots de mesure. L'œuvre dramatique devient une source de technique lexicale, mais le motif comique qui l'avait peut-être rendue mémorable apparaît encore à travers le détour. L'archive est sélective : elle donne moins la pièce que le regard qu'un compilateur a porté sur elle.
+
+# Cinquième partie — Quatre scènes nouvelles pour la lecture [C]
+
+**Note [C] :** les scènes suivantes sont **entièrement écrites au XXIe siècle pour MYTHOS**. Elles ne reproduisent ni ne traduisent Philyllios. Leur présence ne suppose pas que les personnages inventés, la scénographie, les répliques ou les objets aient existé dans l'œuvre antique. Elles proposent quatre expériences théâtrales distinctes, chacune accompagnée d'une notice critique.
+
+## 52. [C] Scène première — Le vase élevé à la dignité de mesure
+
+*Une place imaginaire. Une amphore repose sur un piédestal trop haut. Un proclamateur municipal tient un rouleau de règles. Une femme chargée du vin et un enfant observent.*
+
+**LE PROCLAMATEUR.** Citoyens, nous ouvrons aujourd'hui le concours de la mesure.
+
+**LA FEMME.** Vous ouvrez le concours ou le vin ? Ce ne sont pas les mêmes choses.
+
+**LE PROCLAMATEUR.** Tout d'abord, j'attribuerai à ce vase le plus honorable des noms.
+
+**L'ENFANT.** Et s'il le refuse ?
+
+**LE PROCLAMATEUR.** Un vase ne refuse pas un honneur public.
+
+**LA FEMME.** Il ne le comprend pas davantage.
+
+**LE PROCLAMATEUR.** Qu'importe ! L'honneur grandit celui qui l'accorde.
+
+**L'ENFANT.** Tu viens de dire qu'il grandissait le vase.
+
+**LE PROCLAMATEUR.** C'est une façon de parler.
+
+**LA FEMME.** Laissons donc parler la façon. Mesurons d'abord ce qu'il contient.
+
+**LE PROCLAMATEUR.** Il contient assez pour une cérémonie parfaite.
+
+**L'ENFANT.** Et combien pour une famille entière ?
+
+**LE PROCLAMATEUR.** Tu détruis la dignité du discours avec des questions de cuisine !
+
+**LA FEMME.** Une mesure à laquelle on n'ose pas demander combien elle contient n'est qu'un compliment fait à une jarre.
+
+**L'ENFANT.** Je peux au moins la descendre pour que personne ne la casse ?
+
+**LE PROCLAMATEUR.** Baisse-la, mais garde le piédestal. Il me servira demain.
+
+*On descend l'amphore. Le piédestal reste au milieu de la place ; les passants évitent cet obstacle qu'aucune loi n'a pensé à déplacer.*
+
+**Notice [C].** Cette scène invente un magistrat et une critique de la rhétorique de nomination. Le seul élément antique conservé est le jeu lexical qui inspire la situation ; aucun dialogue semblable n'est transmis.
+
+## 53. [C] Scène deuxième — Le concours où personne n'est modéré
+
+*Une maison imaginaire le jour des Choes. Une maîtresse de maison dispose plusieurs coupes. Un juge de concours et deux buveurs arrivent.*
+
+**LA MAÎTRESSE.** Chacun recevra exactement la même quantité.
+
+**LE JUGE.** C'est le principe même de notre justice.
+
+**LE PREMIER BUVEUR.** Et celui qui boira le plus vite sera déclaré le plus sage ?
+
+**LE JUGE.** Le plus victorieux.
+
+**LE SECOND BUVEUR.** Quelle différence ?
+
+**LE JUGE.** Le sage sait se retenir.
+
+**LE PREMIER BUVEUR.** Et le victorieux doit s'empresser de ne pas se retenir ?
+
+**LE JUGE.** C'est la loi du concours.
+
+**LA MAÎTRESSE.** Si la loi honore celui qui oublie la mesure, pourquoi l'appelle-t-on une fête de la mesure ?
+
+**LE JUGE.** Parce que nous mesurons les coupes.
+
+**LE SECOND BUVEUR.** Il fallait le dire : la sagesse est celle des vases, pas celle des hommes.
+
+**LE PREMIER BUVEUR.** Dans ce cas, que la plus sage amphore remporte le prix !
+
+**LE JUGE.** Un vase ne peut pas concourir.
+
+**LA MAÎTRESSE.** Pourquoi ? Il sait se remplir, et surtout il sait ne pas se vider tout seul.
+
+**LE SECOND BUVEUR.** C'est la première fois que j'envie un vase.
+
+**LE JUGE.** Nous délibérerons sur sa candidature demain.
+
+**LA MAÎTRESSE.** Demain, la fête aura changé de jour. Voilà pourquoi les institutions sont toujours en retard sur le vin.
+
+*Les coupes demeurent pleines tandis que le juge rédige une règle nouvelle qu'aucun participant n'a demandée.*
+
+**Notice [C].** Le concours des Choes est une réalité rituelle extérieure au fragment ; cette dispute domestique, ses personnages et ses répliques sont inventés.
+
+## 54. [C] Scène troisième — La porte des vivants
+
+*Une entrée de maison, entre lumière et obscurité. Une ancienne servante, un habitant et une voix invisible débattent. Un récipient de vin demeure fermé.*
+
+**L'HABITANT.** Pourquoi as-tu marqué la porte ?
+
+**L'ANCIENNE SERVANTE.** Pour que celui qui revient sache qu'il doit annoncer sa présence.
+
+**L'HABITANT.** Je ne reconnais aucune voix derrière cette porte.
+
+**LA VOIX.** Tu ne reconnaissais pas davantage ceux que tu as oubliés.
+
+**L'HABITANT.** Qui parle ?
+
+**L'ANCIENNE SERVANTE.** Peut-être personne ; peut-être la mémoire qui devient audible.
+
+**LA VOIX.** Pourquoi gardez-vous le vin fermé ?
+
+**L'HABITANT.** Parce que nous attendons les invités.
+
+**LA VOIX.** À quel moment décide-t-on qu'un absent n'est plus invité ?
+
+**L'ANCIENNE SERVANTE.** Quand on cesse de le nommer à table.
+
+**L'HABITANT.** Je pourrais nommer chaque mort de la maison, mais aucun ne boirait.
+
+**LA VOIX.** Alors remplis une coupe pour un vivant et dis-lui pourquoi tu la partages.
+
+**L'ANCIENNE SERVANTE.** La fête ne rend pas les morts au monde ; elle oblige les vivants à ne pas les traiter comme s'ils n'avaient jamais existé.
+
+**L'HABITANT.** Et le vase ?
+
+**L'ANCIENNE SERVANTE.** Il reste un vase. Ne lui demande pas de supporter tout le poids de ta mémoire.
+
+*La voix se tait. La porte reste ouverte un instant, puis l'habitant invite sa voisine à entrer.*
+
+**Notice [C].** La présence d'une voix des morts et le débat sur le seuil ne sont pas dans *Dōdekatē*. Cette création exploite le contraste rituel des Anthestéries en le tenant distinct du témoin de Pollux.
+
+## 55. [C] Scène quatrième — Qui possède le nom ?
+
+*Au bord d'une procession imaginaire. Un homme porte une grande amphore, un enfant une petite coupe. Une femme du sanctuaire cherche à organiser le passage.*
+
+**L'HOMME.** Mon vase est si grand que personne ne le contestera.
+
+**L'ENFANT.** Si tu le portes encore longtemps, tu ne pourras plus rien contester.
+
+**LA FEMME DU SANCTUAIRE.** Que contient-il ?
+
+**L'HOMME.** Une grande quantité.
+
+**LA FEMME.** La quantité de quoi ?
+
+**L'HOMME.** C'est précisément ce que je n'ai pas eu le temps de vérifier.
+
+**L'ENFANT.** Dans ma coupe il y a de l'eau. Je connais au moins son contenu.
+
+**LA FEMME.** Alors ta petite coupe est plus précise que sa grande amphore.
+
+**L'HOMME.** Mais mon amphore possède un nom prestigieux.
+
+**LA FEMME.** Un prestige n'a jamais rempli le ventre de personne.
+
+**L'HOMME.** Si le nom est prestigieux, il garantit la qualité.
+
+**L'ENFANT.** Dans ce cas, appelle mon eau du vin, et le problème sera résolu.
+
+**LA FEMME.** N'essaie pas. Les noms peuvent tromper, mais le goût reste le goût.
+
+**L'HOMME.** Quel est donc le vrai privilège de mon amphore ?
+
+**LA FEMME.** D'être utile avant de devenir un argument.
+
+**L'ENFANT.** Et si elle est vide ?
+
+**LA FEMME.** Alors elle peut transporter quelque chose. Contrairement aux hommes qui ont déjà décidé qu'ils étaient pleins de sagesse.
+
+*L'homme abaisse enfin l'amphore. La procession se poursuit sans décider qui avait le mot le plus noble.*
+
+**Notice [C].** Cette scène contemporaine reprend librement le problème antique des appellations sans reproduire les trois trimètres ; l'itinéraire et les interlocuteurs sont fictifs.
+
+# Sixième partie — Synthèse, bibliographie et précautions d'édition
+
+## 56. [A] Tableau de contrôle des preuves
+
+| Objet du dossier | Témoin ou édition | Ce qui est transmis | Ce qui reste absent |
+|---|---|---|---|
+| Existence du titre Δωδεκάτη | Souda φ 457 | Titre de Philyllios | Année et programme de représentation |
+| Citation de trois trimètres | Pollux *Onomasticon* X, 70–71 | **Philyllios fr. 6 K.-A. = 7 Kock** | Locuteur, destinataire humain, suite de scène, chœur |
+| Amphore et métrète | Fr. 6 ; Démosthène 42, 20 ; Philochore FGrHist 328 F 187 | Noms et mesures discutés par Pollux | Une mesure exacte universelle de chaque objet |
+| Douzième jour et Choes | Hésychios δ 2708 ; [Démosthène] 59, 76 | Relation cultuelle entre la date et une fête | La date de création théâtrale |
+| Sanctuaire de Dionysos aux Marais | Thucydide II, 15, 4 ; [Démosthène] 59, 76 | Tradition du sanctuaire et accès rituel exceptionnel | Une scénographie de *Dōdekatē* |
+| Concours de Choes | Aristophane *Acharniens* 959–1234 ; sources festives | Pratique représentable au théâtre | Participation d'un personnage de Philyllios |
+| Parallèle tragique | Euripide *Érechthée* fr. 370 ; *Antiope* fr. 223 | Formules d'honneur, fondation, nomination | Citation textuelle directe ou imitation exclusive assurée |
+| Mythologie des morts | Dossiers cultuels des Anthestéries | Horizon rituel comparatif | Nom d'Hermès ou des morts dans le fr. 6 |
+
+## 57. [A/B] Édition, traduction et réception : trois droits de l'historien
+
+Le premier droit de l'historien est de **citer une attestation et d'expliquer son origine**. Le second est de **proposer une interprétation en l'annonçant comme telle**. Le troisième est de **réaliser une création** sur le monde antique à condition de ne pas l'attribuer au témoin. La distinction [A]/[B]/[C] sert précisément à rendre compatibles ces trois démarches sans altérer le corpus.
+
+Une édition universitaire doit laisser le lecteur capable d'effectuer le chemin inverse de l'analyse : retrouver **Pollux X, 70–71**, contrôler **Philyllios fr. 6**, comprendre le rôle des variantes, consulter le commentaire Orth p. 161–168 et décider si la paratragédie proposée lui paraît pertinente. Toute innovation narrative restant cantonnée aux scènes originales ne gêne pas ce contrôle.
+
+## 58. [A] Bibliographie — sources anciennes
+
+**Pour la pièce :** **Souda φ 457**, notice Φιλύλλιος, catalogue comprenant Δωδεκάτη ; **Pollux, *Onomasticon* X, 70–71**, unique extrait versifié de *Dōdekatē* ; **Hésychios δ 2708**, glose Δωδεκάτη et Choes. **Pour la mesure :** **Démosthène, *Contre Phainippos* 42, 20**, pour les métrètes de vin ; **Philochore, *Atthis* FGrHist 328 F 187**, cité chez Pollux ; **Moeris α 92** et scholie à **Apollonios de Rhodes IV, 1187**. Ces textes sont **extérieurs** à la comédie hormis l'extrait de Pollux.
+
+**Pour le culte :** **Thucydide II, 15, 4**, avec réserve sur la leçon du douzième jour ; **[Démosthène] *Contre Nééra* 59, 76**, pour le sanctuaire et la date ; **Aristophane, *Acharniens* 959–1234**, pour les Choes, leur proclamation et le concours. **Pour la paratragédie :** **Euripide, *Érechthée* fr. 370** et ***Antiope* fr. 223**, cités comme parallèles de l'institution d'un honneur ou d'un nom ; **Aristophane, *Assemblée des femmes* 1–18**, apostrophe d'une lampe. **Pour un parallèle rituel :** ***Thesmophories* d'Aristophane**, sans identité d'intrigue alléguée.
+
+## 59. [A/B] Bibliographie — éditions et études modernes contrôlées
+
+**Christian Orth**, *Nikochares – Xenophon. Einleitung, Übersetzung, Kommentar*, *Fragmenta Comica* **9.3**, Heidelberg, 2015, **p. 161–168** : texte du fr. 6 en p. 163 ; discussion du titre p. 161–162, du fragment et des parallèles p. 164–168. Accès académique direct aux pages numérisées et OCR institutionnels : https://digi.hadw-bw.de/view/frc9_3/0166 ; https://digi.hadw-bw.de/view/frc9_3/0167 ; https://digi.hadw-bw.de/view/frc9_3/0168 ; https://digi.hadw-bw.de/view/frc9_3/0169 ; https://digi.hadw-bw.de/view/frc9_3/0170 ; https://digi.hadw-bw.de/view/frc9_3/0171 ; https://digi.hadw-bw.de/view/frc9_3/0172 ; https://digi.hadw-bw.de/view/frc9_3/0173 ; DOI du volume https://doi.org/10.11588/diglit.52132 .
+
+**Rudolf Kassel et Colin Austin**, *Poetae Comici Graeci*, **VII**, Berlin–New York, 1989, **p. 377**, **Philyllios fr. 6** ; **Theodor Kock**, *Comicorum Atticorum Fragmenta*, **I**, Leipzig, 1880, p. 783–784, **fr. 7** ; **Ian C. Storey**, *Fragments of Old Comedy*, **III**, Cambridge, Massachusetts–London, 2011, p. 27 pour *Dōdekatē* ; **Robert Parker**, *Polytheism and Society at Athens*, Oxford, 2005, p. 290–316 (Anthestéries) ; **Walter Burkert**, *Greek Religion*, Cambridge, Massachusetts, 1985, discussion des fêtes dionysiaques (renvois d'édition à contrôler lors de toute pagination citée) ; **R. Hamilton**, *Choes and Anthesteria: Athenian Iconography and Ritual*, Ann Arbor, 1992.
+
+**Pour la comparaison iconographique :** **Fábio Vergara Cerqueira**, « The Anthestrias, a carnival ritual of transgression and affirmation of social order in ancient Athens », *Patrimônio e Memória*, **7/1** (2011), https://doi.org/10.5016/pem.v7i1.3742 ; **Dionysos and the Festival of Anthestheria at Claros**, article disponible sur Persée : https://www.persee.fr/doc/mom_1955-4982_2014_act_65_1_3569 . Ces travaux ne constituent pas des attestations du contenu de *Dōdekatē*.
+
+**Pour la philosophie comparée [B] :** **G. W. F. Hegel**, *Leçons sur l'esthétique* ; **Friedrich Nietzsche**, *La Naissance de la tragédie* ; **Jean-Pierre Vernant**, *Mythe et pensée chez les Grecs*, et études sur Dionysos ; **Marcel Détienne**, études du polythéisme, du sacrifice et des pratiques religieuses ; **Georges Dumézil**, méthode de comparaison indo-européenne discutée mais **non appliquée** à une hypothétique trame tripartite. Ce sont des **cadres d'analyse modernes**, non des commentaires attestés sur Philyllios.
+
+## 60. [A/B/C] Conclusions : ce que fait la « Douzième » au savoir historique
+
+[A] **Le fait transmissible** est circonscrit mais riche : un titre de comédie chez la Souda ; **trois trimètres iambiques** chez **Pollux X, 70–71**, où une voix prononce un **honneur et une nomination** pour un récipient ; des rapprochements lexicaux entre **ἀμφορεύς**, **μετρητής** et **μετριότης**. Le titre renvoie très probablement au **douzième d'Anthestérion**, jour des **Choes**, selon les sources festives et le commentaire savant. [B] **La question analytique** porte sur la façon dont la comédie élève un objet banal au rang de destinataire d'une étiologie solennelle, confrontant l'idéal de la mesure au plaisir du vin et à la puissance des rites. [C] **Les quatre scènes françaises** font apparaître des aspects différents du nom, du concours, du seuil et du prestige, mais ne modifient pas le corpus antique.
+
+La *Dōdekatē* révèle une difficulté propre à l'histoire du théâtre perdu : trois vers peuvent orienter toute une réflexion sur la langue, la fête et la pensée, mais ne sauraient restituer la structure dramatique d'une œuvre entière. Le dossier permet de mieux comprendre **comment la cité mesure le vin, institue des noms et laisse affleurer l'Autre**. Il n'autorise ni une distribution inventée, ni une date de représentation fantaisiste, ni une citation attribuée à Dionysos. C'est dans cette précision des limites, et non dans la multiplication des reconstructions non signalées, que la monographie trouve sa portée universitaire.
+
+**Continuité éditoriale :** l'étude suit, dans le classement critique d'Orth, *Augē* (volume CIII / 103), sans réserver de numéro futur. Les comparaisons avec les *Acharniens* et les *Thesmophories* sont indépendantes ; le titre *Helenē* du même auteur viendrait ensuite dans le livre d'Orth, **sans livraison anticipée**. L'attribution canonique de la présente étude dépend uniquement de son reçu GitHub Actions.
+
+**Fin du manuscrit intégral.**

@@ -1,11 +1,16 @@
 {
   "status": "passed",
-  "indexed_entries": 1433,
-  "pages_scanned": 1490,
-  "readers_equipped": 1034,
-  "links_checked": 126900,
+  "indexed_entries": 1435,
+  "pages_scanned": 1492,
+  "readers_equipped": 1035,
+  "links_checked": 127104,
   "new_navigation_errors": [],
   "legacy_link_issues": [
+    {
+      "page": "/chapitres/comedies/volume-104-philyllios-dodekate-anthesteries-choes-amphore-metrete-paratragedie/index.html",
+      "url": "/comedies-grecques/",
+      "problem": "fichier absent"
+    },
     {
       "page": "/chapitres/comedies/volume-103-philyllios-auge-telephos-banquet-pannychis-pain-chanson-paratragedie/index.html",
       "url": "/comedies-grecques/",

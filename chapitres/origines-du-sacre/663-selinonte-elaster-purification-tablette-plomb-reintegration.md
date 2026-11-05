@@ -1,0 +1,239 @@
+# MYTHOS — Les Origines du sacré — Tome DCLXIII, chapitre 663
+
+## Effacer la vengeance, rouvrir les seuils : Sélinonte, l’*elastēr*, la purification et les limites de la loi rituelle
+
+*Étude universitaire d’épigraphie grecque occidentale, d’archéologie des sanctuaires, de philologie, d’anthropologie juridique et de philosophie comparée. Dossier principal : SEG 43.630 = IGASMG I² 53 bis = CGRN 13. Les signes [A], [D] et [I] indiquent respectivement une donnée attestée, une question débattue et une hypothèse interprétative. La présente monographie se concentre sur la **colonne B**, la procédure visant l’*elastēr*, les conditions de la réintégration et la lecture juridico-anthropologique de la tablette. La notice encyclopédique MYTHOS 401 consacrée aux Tritopatores, qui étudie surtout les ancêtres et la colonne A, est conservée comme étude complémentaire, non reproduite.*
+
+### 663.1. D’une loi de Cyrène à une tablette de Sicile : pourquoi comparer les formes de réparation ?
+
+La loi cathartique de Cyrène (IGCyr016700 = CGRN 99), déjà étudiée dans le cycle des Origines du sacré, ordonne des gestes en réponse à des catégories distinctes de situations : naissance, mort, supplication, sacrifice et statut rituel. Sélinonte, cité grecque de Sicile, offre un autre dossier. Une grande tablette de plomb porte deux colonnes de prescriptions. Elle ne nous raconte pas un crime précis. Elle ne donne pas non plus le procès-verbal d’une procédure d’homicide. Elle consigne des actions rituelles, des destinataires divins et des modalités de passage d’une situation problématique vers une forme de purification.
+
+Cette différence est essentielle. Une règle ne constitue pas une preuve de son application à un cas déterminé, pas plus qu’un terme évoquant une puissance vengeresse ne démontre à lui seul la nature exacte du malheur subi. L’historien doit reconstruire prudemment la grammaire normative, sans inventer les personnes, les dates et les conflits que la pierre — ici le plomb — ne nomme pas.
+
+L’objectif est donc double : lire de près la seconde colonne et réfléchir à ce que signifie, pour une communauté, autoriser un individu à reprendre la vie ordinaire après une procédure religieuse. Il ne s’agit ni d’un manuel contemporain de purification ni d’une reproduction cérémonielle.
+
+### 663.2. Identification du document : SEG 43.630, une source primaire de première importance
+
+[A] La tablette est publiée dans les éditions épigraphiques sous les références **SEG 43.630** et **IGASMG I² 53 bis**, avec la correspondance **CGRN 13**. Les textes des colonnes A et B, leurs lacunes et les particularités dialectales sont consultables dans la base Packard Humanities Institute : https://inscriptions.packhum.org/text/332705 .
+
+La datation usuelle se situe vers le milieu du Ve siècle avant notre ère, souvent autour de 460–450 ; les lettres et les comparaisons régionales fondent l’estimation. Cette chronologie n’est pas inscrite sur l’objet sous la forme d’une année civique. L’identification de l’origine sélinontine repose notamment sur le dialecte, l’écriture et les références à des cultes attestés dans la région.
+
+[D] La tablette ne provient pas d’une découverte stratigraphique moderne et contrôlée au sein d’une couche archéologique documentée. Son cheminement muséal et son attribution sont exposés dans la publication fondatrice. On ne peut donc pas dire : « elle a été trouvée dans telle salle du sanctuaire » comme s’il existait un carnet de fouilles attestant ce lieu précis.
+
+Cette précaution limite les hypothèses relatives à son affichage, aux utilisateurs visés et à l’environnement architectural d’origine.
+
+### 663.3. Le plomb n’est pas un détail : le support et les deux orientations d’écriture
+
+[A] La loi est gravée sur une grande feuille de plomb. La première colonne et la seconde sont écrites selon des orientations inversées. Des traces de séparation matérielle ont suscité plusieurs propositions sur la présentation originale. Les dimensions et l’état du document sont discutés dans Michael H. Jameson, David R. Jordan et Roy D. Kotansky, *A Lex Sacra from Selinous* (1993).
+
+[I] Le plomb permet une inscription longue sur une surface malléable, mais il ne dit pas de lui-même si le document fut exposé publiquement, conservé dans une installation cultuelle ou consulté par des officiants déterminés. L’inversion des colonnes prouve une organisation graphique intentionnelle ; elle ne fournit pas automatiquement le mode d’utilisation.
+
+[D] Les propositions de montage sur un support et de consultation successive se heurtent à des incertitudes matérielles. La manière dont l’objet était lu par les personnes de l’Antiquité demeure une question ouverte. La prudence matérielle précède ici toute théorie du « droit public » religieux.
+
+### 663.4. Lire la colonne A sans refaire le chapitre sur les Tritopatores
+
+La colonne A concerne des sacrifices adressés à Zeus Eumenès, aux Euménides, à Zeus Meilichios et aux Tritopatores, parfois qualifiés d’impurs (*miaroi*) et parfois de purs (*katharoi*). Elle distingue des gestes qui ne se laissent pas réduire à un seul type d’offrande : libations, combustion de parts, présentation d’une table, d’un lit, d’une étoffe propre et de couronnes. Les lignes A 7–21 constituent le noyau conservé le plus exploitable.
+
+La lecture détaillée de ces figures ancestrales appartient au dossier MYTHOS « Tritopatores » (Encyclopédie grecque, chapitre 401). La présente étude retient un point méthodologique différent : les deux colonnes appartiennent au même objet sans qu’on puisse affirmer qu’elles décrivent une seule cérémonie continue. Elles ouvrent deux fenêtres sur des opérations d’apaisement, de distinction et de restauration.
+
+La colonne B, plus directement centrée sur la purification d’un individu, doit être examinée selon sa syntaxe propre.
+
+### 663.5. Le mot *elastēr* : force vengeresse, malheur et indétermination
+
+[A] La colonne B commence par une mention lacunaire d’un homme et d’un *elastēr* (ἐλαστήρ, sous une forme dialectale), suivi d’une procédure de purification. Les premières lettres endommagées imposent de distinguer ce qui est lisible de ce que les éditeurs restaurent.
+
+[D] Traduire *elastēr* par « esprit vengeur », « puissance poursuivante » ou « vengeance » constitue une interprétation sémantique, non la découverte du nom propre d’un démon identifiable. Le terme évoque une force qui pousse, frappe ou poursuit ; ses usages et contextes doivent être comparés à d’autres vocabulaires grecs de la vengeance et de la souillure.
+
+La littérature savante a souvent rapproché le dossier d’une contamination liée au sang versé. Ce rapprochement est important mais non décisif : la colonne B, telle qu’elle est conservée, ne livre pas un récit explicite du meurtre qui serait à son origine. Les éditeurs de 1993 et leurs critiques discutent précisément ces difficultés.
+
+### 663.6. Le geste préalable : annoncer la purification
+
+La colonne B, lignes 1–3, prescrit une proclamation et laisse des indications de latitude temporelle et spatiale : l’officiant ou le sujet peut annoncer selon les circonstances un lieu, une période et un jour. Les mots doivent être lus dans le dialecte de Sélinonte, avec ses graphies propres.
+
+[I] La proclamation remplit potentiellement une fonction de publicité : rendre une action reconnaissable et situable pour les participants. Elle peut aussi établir une séquence performative : la parole ne commente pas seulement un rite déjà achevé, elle fait partie de sa mise en œuvre.
+
+Ce serait cependant exagéré d’en conclure que la cité tenait un registre administratif des purifications. Aucun tel registre n’est fourni par la tablette. Le rapport entre l’annonce et l’autorité civique demeure une question, non une donnée acquise.
+
+### 663.7. Distinguer la procédure d’un jugement pénal
+
+Une lecture moderne pourrait imaginer que tout rituel de purification pour violence constitue une alternative judiciaire à la peine. Cette équivalence n’est pas soutenue par le texte. Aucun tribunal, aucun juge, aucune date de condamnation ni aucun règlement monétaire des dommages ne figurent clairement dans la colonne B.
+
+[I] La procédure peut contribuer à rétablir un statut rituel : permettre d’entrer dans un espace, de partager un repas ou de participer à certaines pratiques. Mais elle ne démontre pas qu’une victime ou des proches renonçaient automatiquement à toute revendication.
+
+Le droit de la cité et l’apaisement religieux peuvent se recouper, se distinguer ou se concurrencer. Sélinonte ne doit pas être reconstruite à partir du dispositif juridique athénien, dont les preuves appartiennent à d’autres époques et institutions.
+
+### 663.8. Laver les mains, accueillir, donner : la séquence plutôt qu’un symbole isolé
+
+[A] Les lignes B 3–5 comportent une séquence d’accueil, de lavage, de remise ou de partage de certaines matières et un sacrifice impliquant Zeus. La syntaxe est comprimée. Plusieurs verbes à la voix moyenne définissent ce que le sujet doit accomplir.
+
+Les gestes ordinaires — laver, recevoir, se présenter — changent de fonction lorsqu’ils sont ordonnés dans un rite. Un lavage ne relève plus seulement de l’hygiène ; il marque un changement de situation reconnu par des témoins ou des interlocuteurs.
+
+[I] On peut décrire cette organisation comme un passage de l’isolement vers la relation. Cette interprétation ne repose pas sur un témoignage explicite du sentiment individuel du purifié. Elle rend compte de la manière dont le texte articule parole, eau, sacrifice et circulation.
+
+### 663.9. Le porc offert à Zeus : ne pas confondre espèce et doctrine
+
+[A] La colonne B mentionne un sacrifice de porc à Zeus (B 5), puis d’autres prescriptions sacrificielles. L’animal intervient dans une procédure de purification.
+
+Les comparaisons avec d’autres traditions grecques sont pertinentes mais limitées. Dans les *Euménides* d’Eschyle, vers 280–285, Oreste dit que sa souillure de sang a été nettoyée par des sacrifices porcins accomplis auprès du foyer d’Apollon. Cela atteste un motif dramatique du Ve siècle, pas la preuve que la procédure sélinontine serait identique à celle mise en scène à Athènes.
+
+Le choix du porc ne permet pas davantage de conclure à une croyance biologique précise au « pouvoir purifiant » de l’animal. Sa fonction est rituelle, culturellement déterminée, et varie selon les contextes.
+
+### 663.10. Pourquoi Zeus ? Les épiclèses et la pluralité des compétences divines
+
+Dans la colonne A, Zeus Meilichios et Zeus Eumenès figurent parmi les destinataires. Dans la colonne B, la prescription évoque Zeus, sans que chaque occurrence permette de restituer une épiclèse particulière.
+
+Le nom Meilichios est souvent interprété en relation avec l’apaisement et la bienveillance d’une puissance potentiellement redoutable. On ne doit pas réduire le dieu à un simple symbole psychologique de la réconciliation. Les épiclèses sont des manières de situer l’action divine dans des configurations cultuelles concrètes.
+
+La variété des Zeus n’implique ni plusieurs dieux totalement séparés ni une identité fonctionnelle parfaite. Le lien entre titres, lieux et destinataires doit être restitué à l’échelle des usages documentés.
+
+### 663.11. Reprendre l’alimentation et le sommeil : réintégrer le quotidien
+
+[A] Après les actes prescrits, la colonne B indique que le sujet peut se nourrir et dormir selon certaines conditions (B 5–7). Ces termes ont un poids interprétatif considérable.
+
+On pourrait les lire comme la levée d’interdictions qui frappaient le purifié. Pourtant la tablette n’expose pas explicitement toutes les restrictions antérieures, ni la durée d’une exclusion. Il convient donc de distinguer une permission formulée et la totalité d’un éventuel interdit social.
+
+[I] L’importance théorique est claire : la purification concerne non seulement une relation à des dieux, mais aussi les capacités élémentaires d’habiter le monde. La nourriture et le repos deviennent les signes concrets d’une position reconnue.
+
+### 663.12. *Xenikon*, *patroion*, audible et visible : quelles catégories d’atteinte ?
+
+[A] Aux lignes B 7–9 figurent plusieurs catégories, parmi lesquelles des qualificatifs interprétés comme « étranger » et « ancestral », ainsi que des désignations relatives à ce qui est entendu ou vu. La graphie et le sens précis de certaines formes sont discutés.
+
+[D] Ces couples ont suscité des hypothèses sur la transmission d’un malheur par la parenté, l’arrivée d’une influence externe ou des manifestations perceptibles. Les traductions ne doivent pas transformer la liste en inventaire psychologique d’hallucinations, ni en classifications psychiatriques.
+
+[I] On peut observer une tentative de généralisation normative : une même procédure pourrait s’adapter à des situations jugées différentes. Cela constitue une innovation importante dans la manière dont le texte rassemble des cas, mais il n’en résulte pas un système doctrinal exhaustif.
+
+### 663.13. L’*autorhektas* et la question de l’acte accompli par soi-même
+
+La colonne B compare certaines purifications à celle d’un *autorhektas* (forme dialectale), terme discuté par les éditeurs. Une traduction littérale renvoyant à l’auteur d’un acte ne suffit pas à établir s’il s’agit systématiquement d’un homicide.
+
+[D] Les propositions lexicales doivent être confrontées aux parallèles et à la place du mot dans la procédure. Un choix de traduction a des conséquences historiques : qualifier automatiquement le protagoniste de « meurtrier » imposerait au texte une intrigue qu’il ne raconte pas.
+
+Il est légitime d’étudier la relation entre souillure et violence ; il serait incorrect de présenter comme certaine l’identification précise de tous les sujets concernés.
+
+### 663.14. L’autel public et l’issue du rite
+
+[A] La colonne B, lignes 10–11, mentionne un sacrifice d’une victime complète sur un autel public et la possibilité pour le participant d’être désormais pur. Le mot *damosios* renvoie au public, mais son fonctionnement institutionnel précis dépend du contexte.
+
+Le passage marque un résultat normatif : après l’accomplissement de gestes prescrits, un statut de pureté est affirmé. La formulation possède une portée sociale, même si le texte ne nomme pas les autorités qui en surveillaient chaque étape.
+
+[I] Le rite n’efface pas physiquement le passé. Il transforme les conditions dans lesquelles le passé peut être pris en charge par la communauté. Une purification est donc moins une amnésie qu’une nouvelle possibilité de relation.
+
+### 663.15. Sel, or et aspersion : matériaux de frontière
+
+[A] Le texte évoque une séparation ou délimitation au moyen de sel et d’or ainsi qu’une aspersion (B 11). Les termes grecs sont attestés dans une inscription dont l’interprétation matérielle exacte reste discutée.
+
+L’historien doit résister à la tentation de fournir une recette cérémonielle complète : combien de sel, quelle quantité d’or, quel récipient, dans quel ordre exact, et sur quels participants ? Ces détails ne sont pas suffisamment conservés.
+
+[I] Sel et or peuvent marquer une frontière, une valeur ou une séparation. Ce sont des hypothèses sur la logique du geste ; elles ne remplacent pas la philologie.
+
+### 663.16. Sacrifier « comme aux immortels » et verser vers la terre
+
+[A] Les lignes B 12–13 présentent une prescription particulière : l’offrande à l’*elastēr* peut être accomplie « comme aux immortels », mais un geste de mise à mort ou d’écoulement s’effectue vers la terre.
+
+Cette combinaison interdit une classification trop simple entre « sacrifice olympien » et « sacrifice chthonien ». L’orientation terrestre ne détermine pas à elle seule l’identité de la puissance. L’analogie avec les dieux immortels n’annule pas non plus la spécificité de la procédure.
+
+Les travaux sur les sacrifices héroïques, notamment ceux de Gunnel Ekroth, ont montré combien les catégories scolaires modernes doivent être confrontées aux textes précis avant d’être appliquées.
+
+### 663.17. Une inscription incomplète peut être une source rigoureuse
+
+La colonne B est relativement brève. Les lignes lacunaires, les compléments éditoriaux et les discussions sur les mots rares créent des contraintes fortes. La richesse d’une enquête ne doit pas être mesurée au nombre d’épisodes que l’auteur peut imaginer.
+
+Pour chaque action, il faut distinguer : ce que les lettres conservées donnent ; ce que la grammaire suggère ; ce que la comparaison rend plausible ; et ce que l’on ignore. La certitude ne peut augmenter simplement parce que plusieurs chercheurs reprennent la même restitution.
+
+Cette règle vaut aussi pour la colonne A : on ne peut combler ses lacunes par les textes de la colonne B sans argument philologique et matériel.
+
+### 663.18. Héródote I, 35 : le purifié devient hôte
+
+Chez Hérodote I, 35, Adrastos, qui dit avoir tué involontairement son frère, vient demander purification à Crésus. Le récit met en relation purification, accueil et hospitalité. Crésus apprend ensuite l’histoire du suppliant. Cette scène montre la place du traitement religieux dans une chaîne de relations politiques et personnelles.
+
+Le parallèle est éclairant, mais il est littéraire et lydien. Il ne livre ni une procédure sélinontine ni un commentaire antique de SEG 43.630.
+
+Un élément comparatif reste décisif : être purifié ne signifie pas que le passé devient sans conséquences. Le destin ultérieur d’Adrastos dans le récit le rappelle précisément. La purification ne supprime pas la possibilité de la tragédie.
+
+### 663.19. Eschyle et Platon : une triangulation textuelle sans continuité prouvée
+
+Les *Euménides* d’Eschyle associent le matricide, les Erinyes, la purification, la supplication et l’instauration d’une décision judiciaire. Les *Lois* de Platon, livre IX, notamment 865e–869a, distinguent diverses formes d’homicide, de sanction, d’exil et de purification.
+
+Ces deux textes doivent être situés dans leurs genres : une tragédie attique représentée en 458 avant notre ère et une construction philosophique du IVe siècle. Aucun des deux ne décrit la constitution de Sélinonte ni ne fournit la procédure officielle de la tablette.
+
+Leur intérêt est de montrer la variété des moyens grecs de penser le passage entre violence, contamination, responsabilité et ordre civique. Une comparaison se justifie par la question étudiée, non par une identité présupposée.
+
+### 663.20. Phénomène rituel et conflit politique : hypothèses sur la *stasis*
+
+[D] Certains historiens ont proposé que la loi s’inscrive dans le contexte de violences collectives ou d’une *stasis* locale. Une telle hypothèse rendrait compréhensible la nécessité de réguler une pluralité de rapports de vengeance.
+
+Elle demeure une hypothèse, car le texte ne date pas une guerre civile, ne désigne pas les partis et n’énumère pas les victimes. D’autres lectures replacent les prescriptions dans des cycles cultuels ou agraires réguliers.
+
+[I] Le document peut être analysé comme un outil de réduction des tensions sociales sans affirmer qu’il fut nécessairement rédigé après un affrontement sanglant identifié. La portée potentiellement pacificatrice d’une norme et la cause historique exacte de son adoption sont deux problèmes différents.
+
+### 663.21. Le paysage sacré de Sélinonte : Malophoros et Zeus Meilichios
+
+[A] La région sélinontine comprend un sanctuaire de Déméter Malophoros, un secteur de Zeus Meilichios et des monuments inscrits. Ces contextes archéologiques éclairent l’importance locale de certaines puissances mentionnées sur la tablette.
+
+La présence de Zeus Meilichios dans un paysage de sanctuaires ne permet cependant pas d’attribuer un point de découverte précis à la tablette : sa provenance archéologique contrôlée fait défaut. On doit distinguer « document attribué à la cité » et « objet fouillé à tel emplacement ».
+
+Le plan de Sélinonte pourrait aider le lecteur à situer l’acropole, les vallées et les sanctuaires occidentaux, mais toute figure devra porter sa provenance institutionnelle et la mention du degré de certitude. Une reconstitution numérique ne doit jamais être affichée comme un relevé archéologique.
+
+### 663.22. Durkheim et Hegel : la pureté comme qualification sociale
+
+Durkheim permet d’interroger les classifications collectives de pureté et d’impureté sans les réduire à des propriétés chimiques du corps. Une communauté définit des seuils d’accès, des conditions de participation et des obligations. La tablette nous montre des seuils prescrits, même si elle ne nous livre pas les sentiments individuels.
+
+Une lecture hégélienne mettrait l’accent sur la reconnaissance : le sujet a accompli certains actes et peut réintégrer des relations dont le statut est institué. Mais il serait abusif de décréter que l’inscription contient en germe une philosophie moderne de l’État.
+
+Ces auteurs servent d’outils de questionnement. Les mots grecs et la procédure restent premiers.
+
+### 663.23. Nietzsche, Girard et les risques de l’explication unique
+
+Chez Nietzsche, l’analyse de la dette, de la faute et de la mémoire aide à questionner la longue durée des obligations après une offense. Elle ne permet pas d’assimiler l’*elastēr* à un créancier au sens économique.
+
+Girard offre une théorie des mécanismes sociaux de la violence et de son déplacement sacrificiel. Le texte sélinontin montre bien des opérations susceptibles de contenir ou d’apaiser une menace. Il ne décrit pourtant aucun sacrifice d’un bouc émissaire humain. Une lecture girardienne peut donc formuler des hypothèses sans revendiquer une confirmation documentaire directe.
+
+L’exigence critique est de résister au modèle totalisant qui prétendrait expliquer tout sacrifice, toute vengeance et toute souillure au moyen d’un seul mécanisme.
+
+### 663.24. Vernant, Detienne, Dumézil et l’épreuve du comparatisme
+
+Vernant aide à replacer les classifications religieuses dans le langage et les institutions de la cité. Detienne insiste sur la construction contrôlée des comparables : on ne peut comparer « les purifications » partout dans le monde sans définir le type de situation, d’officiant et de conséquence. Dumézil, plus éloigné du dossier précis, peut inviter à distinguer fonctions de souveraineté, violence et fécondité dans certains corpus indo-européens, mais aucun schéma trifonctionnel n’est prouvé par SEG 43.630.
+
+L’opposition entre *miaros* et *katharos* ne suffit donc pas à constituer une structure indo-européenne générale. L’explication doit partir de la langue locale et des gestes observables, non d’une grille préinstallée.
+
+### 663.25. Comparaisons contrôlées : Mésopotamie, Égypte, Iran, Inde et mondes extra-européens
+
+La Mésopotamie connaît des rites d’exorcisme et des spécialistes de la purification, dont les traditions *āšipu* sont documentées dans des corpus cunéiformes. L’Égypte articule statut de pureté, accès au temple et techniques de transformation rituelle. Les sources indiennes sur *śauca* et *prāyaścitta* distinguent pureté et expiation dans des traditions et périodes très diverses. Les traditions iraniennes de pureté corporelle doivent être étudiées à partir de leurs propres corpus, notamment l’Avesta et ses réceptions.
+
+Ces comparaisons n’impliquent ni diffusion depuis Sélinonte ni origine commune démontrée. Les univers chinois, africains et américains présentent eux aussi des dispositifs locaux de réparation ou de réintégration, mais il serait méthodologiquement injustifié d’y plaquer sans dossier primaire une catégorie grecque d’*elastēr*.
+
+Le seul comparant admissible ici est une question abstraite : comment une communauté qualifie-t-elle une atteinte, prescrit-elle des gestes et reconnaît-elle un retour à la participation ? Les réponses doivent être établies séparément.
+
+### 663.26. Bilan épistémologique : attestation, controverse, inférence
+
+**[A] Attesté.** Il existe une tablette de plomb du Ve siècle environ, attribuée à Sélinonte, portant deux colonnes inversées. La colonne B prescrit une procédure avec proclamation, purification, sacrifice, gestes matériels, repas ou repos et déclaration de pureté. La colonne A nomme notamment Zeus Meilichios et les Tritopatores.
+
+**[D] Controversé.** Les circonstances exactes de rédaction, l’utilisation matérielle, la lecture de plusieurs mots rares, la traduction précise d’*elastēr*, l’existence d’un événement de *stasis* ayant motivé la norme et l’étendue de son caractère public.
+
+**[I] Inférences testables.** Comparer systématiquement les conditions linguistiques de réintégration avec les autres lois rituelles, analyser la syntaxe des autorisations, vérifier l’éventuel rattachement d’installations archéologiques à des gestes prescrits et confronter les épiclèses dans les corpus contemporains sans restituer les lacunes comme si elles étaient lisibles.
+
+### 663.27. Conclusion : un droit de revenir, sans amnésie
+
+Le problème central de Sélinonte n’est pas seulement la présence de puissances menaçantes. C’est la possibilité de prescrire un passage entre une situation où la relation est troublée et une situation où une personne peut de nouveau accomplir certains gestes de la vie commune.
+
+La tablette ne nous dit ni combien de personnes furent effectivement purifiées, ni quelle violence précise avait suscité sa rédaction. Elle livre mieux que cela sur un autre plan : une séquence normative concrète, articulant parole, gestes, sacrifice et pureté reconnue. L’histoire du sacré se joue ici dans la définition des conditions de la participation.
+
+### Sources primaires vérifiées
+
+- **[P1] SEG 43.630 = IGASMG I² 53 bis**, Sélinonte, vers 460–450 av. n. è., colonnes A 1–24 et B 1–13, transcription dialectale, lacunes et variantes : https://inscriptions.packhum.org/text/332705 .
+- **[P2] Eschyle, *Euménides* 280–285**, purification d’Oreste et sacrifices porcins dans un contexte dramatique : https://www-current.chs.harvard.edu/primary-source/aeschylus-eumenides-sb/ .
+- **[P3] Hérodote, *Histoires* I, 35 et 44–45**, accueil et purification d’Adrastos par Crésus : https://www-current.chs.harvard.edu/primary-source/herodotus-selections-part-i/ .
+- **[P4] Platon, *Lois* IX, 865e–869a**, qualifications de l’homicide, purifications et exclusions : https://www.platonicfoundation.org/translation/laws/laws-book-9/ .
+- **[P5] IGCyr016700 = CGRN 99**, loi cathartique de Cyrène : comparaison d’un régime normatif distinct ; voir le chapitre MYTHOS 662 et les éditions de l’épigraphie de Cyrénaïque. L’identité de cette source a été vérifiée au stade du dossier précédent, sans prétendre à une nouvelle collation sur pierre.
+
+### Bibliographie universitaire et critique
+
+- **[R1] Michael H. Jameson, David R. Jordan et Roy D. Kotansky**, *A Lex Sacra from Selinous*, Greek, Roman, and Byzantine Monographs 11, Durham, Duke University, 1993. Monographie fondatrice de transcription et d’interprétation ; notice bibliographique : https://cir.nii.ac.jp/crid/1970304959810070921 .
+- **[R2] Laurent Dubois**, « La nouvelle loi sacrée de Sélinonte », *Comptes rendus des séances de l’Académie des Inscriptions et Belles-Lettres*, 147/1, 2003, p. 105–125 : https://www.persee.fr/doc/crai_0065-0536_2003_num_147_1_22544 .
+- **[R3] Francis Prost**, compte rendu de Jameson, Jordan et Kotansky, *L’Antiquité classique* 65, 1996, p. 421–422 : https://www.persee.fr/doc/antiq_0770-2817_1996_num_65_1_1262_t1_0421_0000_2 .
+- **[R4] Jan-Mathieu Carbon, Saskia Peels et Vinciane Pirenne-Delforge**, « Sacrificial (A) and purity (B) regulations on a twofold tablet from Selinous », **CGRN 13**, *Collection of Greek Ritual Norms*, DOI 10.54510/CGRN13 (notice disponible ; consultation directe de la page CGRN parfois inaccessible). Présentation du projet : https://wiki.digitalclassicist.org/A_Collection_of_Greek_Ritual_Norms_Project_%28CGRN%29 .
+- **[R5] Gunnel Ekroth**, *The Sacrificial Rituals of Greek Hero-Cults in the Archaic to the Early Hellenistic Period*, Kernos supplément 12, Liège, 2002 ; analyse critique des oppositions entre sacrifices aux dieux et aux héros : https://doi.org/10.4000/books.pulg.503 .
+- **[R6] Robert Parker**, *Miasma: Pollution and Purification in Early Greek Religion*, Oxford, Clarendon Press, 1983 ; *Polytheism and Society at Athens*, Oxford University Press, 2005. Références de contexte et de méthode, non traductions directes de la tablette.
+- **[R7] Jean-Pierre Vernant**, *Mythe et pensée chez les Grecs* ; **Marcel Detienne**, *Comparer l’incomparable* ; **Georges Dumézil**, *Mythe et épopée* ; **Émile Durkheim**, *Les Formes élémentaires de la vie religieuse* ; **G. W. F. Hegel**, *Principes de la philosophie du droit* ; **Friedrich Nietzsche**, *La Généalogie de la morale* ; **Mircea Eliade**, *Le Sacré et le profane* ; **René Girard**, *La Violence et le sacré*. Ces titres sont des instruments comparatifs et philosophiques, non des attestations épigraphiques.
+
+**Limites scientifiques explicites.** Aucune traduction intégrale nouvelle des lignes lacunaires, aucune lecture paléographique directe de l’objet, aucune restitution d’un homicide précis, aucune découverte de fouille ni aucune identification du lieu exact d’exposition n’est revendiquée. Les passages grecs et les données bibliographiques ont été confrontés aux ressources indiquées ; les autres comparaisons sont méthodologiques et non des affirmations de diffusion.

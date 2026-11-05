@@ -543,6 +543,12 @@
           "path": "chapitres/origines-du-sacre/662-cyrene-loi-cathartique-apollon-souillure-expiation-suppliants.md",
           "request_sha256": "04e02dab52e5216c77f8f660889312e7dddabec6a0e20d7aba8c1978bcb6a785",
           "initial_source_sha256": "25c31b7f013691fb7ae3bdf5402f2ec3e42b36db575fb775c9ee42791adbe865"
+        },
+        "9dcf3b52-0a2e-4f7b-a1f4-698ce17d31ab": {
+          "number": 663,
+          "path": "chapitres/origines-du-sacre/663-selinonte-elaster-purification-tablette-plomb-reintegration.md",
+          "request_sha256": "4b2758024dba7279abbdd50f1955c938787c3a9e716dfd2e2bdaa8c2dd17e6f8",
+          "initial_source_sha256": "8146dfdfbf1717126b8ffe0b542be21475963dd005452c08b51afd496a4be99d"
         }
       }
     },
@@ -1366,6 +1372,12 @@
           "path": "chapitres/comedies/volume-103-philyllios-auge-telephos-banquet-pannychis-pain-chanson-paratragedie.md",
           "request_sha256": "158cb8be9040b261d83344f61b34b0ab4f2f18190865fda0d7b8b0b31c963429",
           "initial_source_sha256": "fca5e69bd5f4db02ba04fd966e8ff8e50c1a50993269fc95ea24e8560ab0cb64"
+        },
+        "633ab8d4-f5b6-47eb-853d-5df6c021acd7": {
+          "number": 104,
+          "path": "chapitres/comedies/volume-104-philyllios-dodekate-anthesteries-choes-amphore-metrete-paratragedie.md",
+          "request_sha256": "9ea0b9d8e17302cebb8868daf4586fbc77c96bb8c9b6c4a920a78f5f73a908cb",
+          "initial_source_sha256": "bd133f051c1d8ac474ebb8d348cf7fffceebbf4aa840d052a9bbe80abe992eff"
         }
       }
     },
