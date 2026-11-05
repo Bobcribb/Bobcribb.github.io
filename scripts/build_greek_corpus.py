@@ -550,6 +550,20 @@ def main(out, root):
 
 
 
+def primary_folder_urls(links):
+    """Only primary catalogue items need one thematic home.
+
+    The Lindia 433/438 concordance is preserved as an independently indexed
+    secondary reading linked from both monographs and the Greek portal; it is
+    intentionally not a third primary study or a ninth thematic family.
+    """
+    from urllib.parse import urlsplit
+    from build_greek_folders import LINDIA_NOTICE
+    return {url for url in links
+            if not urlsplit(url).scheme and not url.startswith('#')
+            and url != LINDIA_NOTICE}
+
+
 def verify(out, root):
     """Refuse un sommaire incomplet ou des liens de section introuvables."""
     from urllib.parse import urlsplit, unquote
@@ -602,7 +616,7 @@ def verify(out, root):
                     cache[target] = BeautifulSoup(target.read_text(encoding='utf-8'), 'html.parser')
                 assert cache[target].find(id=unquote(parsed.fragment)), f'Section absente : {link}'
     from build_greek_folders import verify as verify_folders
-    verify_folders(out, reference - {u for u in reference if urlsplit(u).scheme or u.startswith('#')})
+    verify_folders(out, primary_folder_urls(reference))
     print(f'OK : quatre sommaires grecs cohérents, {len(expected)} manuscrits/livres attendus et toutes les ancres accessibles')
 
 
