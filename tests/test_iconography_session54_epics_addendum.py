@@ -57,10 +57,18 @@ class EpicIconographySession54Tests(unittest.TestCase):
 
     def test_session_log_preserves_strict_alternation(self):
         data = json.loads((ROOT / "docs/MYTHOS_ICONOGRAPHIE_ALTERNANCE.json").read_text(encoding="utf-8"))
-        self.assertEqual(data["latest_session"], data["history"][-1])
-        self.assertEqual(data["latest_session"]["kind"], "ENRICHISSEMENT ICONOGRAPHIQUE")
-        self.assertEqual(data["latest_session"]["next_kind"], "AUDIT ET CORRECTION")
-        self.assertIn("Séance 54", data["latest_session"]["scope"])
+        history = data["history"]
+        self.assertEqual(data["latest_session"], history[-1])
+        matches = [(i, session) for i, session in enumerate(history)
+                   if session.get("scope", "").startswith("Séance 54 :")]
+        self.assertEqual(len(matches), 1, "La séance historique 54 doit être unique")
+        position, session54 = matches[0]
+        self.assertEqual(session54["kind"], "ENRICHISSEMENT ICONOGRAPHIQUE")
+        self.assertEqual(session54["previous_kind"], "AUDIT ET CORRECTION")
+        self.assertEqual(session54["next_kind"], "AUDIT ET CORRECTION")
+        self.assertEqual(len(session54["figures"]), 7)
+        if position + 1 < len(history):
+            self.assertEqual(history[position + 1]["kind"], "AUDIT ET CORRECTION")
 
 if __name__ == "__main__":
     unittest.main()
