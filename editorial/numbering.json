@@ -639,6 +639,18 @@
           "path": "chapitres/origines-du-sacre/678-sparte-lycurgue-onze-jours-demeter-epitaphes-souillure.md",
           "request_sha256": "0c967824e6f0920d274b8327c0fa565c589b546d8364f573f920295e5e1dc3ee",
           "initial_source_sha256": "db32923e5176c7a955642d9eba5112029ed988334c78c789f254f7d2be0f2e54"
+        },
+        "f026b4c9-751a-4b12-9ef4-875b1bb464e6": {
+          "number": 679,
+          "path": "chapitres/origines-du-sacre/679-ajax-teucros-ulysse-funerailles-ennemi-honneur-droit-sophocle.md",
+          "request_sha256": "281ad6e6f67775ae24c97913be375bd4abdb9db261cad608fffc90ada2cf8124",
+          "initial_source_sha256": "816de7c6262a5726e02aafcab29aff6cf9e0ec476c2bd5ce170104f391ec6584"
+        },
+        "f673cbd2-2f14-4f8a-90ad-6873f0c91b42": {
+          "number": 680,
+          "path": "chapitres/origines-du-sacre/680-euripide-suppliantes-eleusis-corps-argiens-thesee-droit-sepulture.md",
+          "request_sha256": "91c43d33d2e24b5bcac32390ef062cfae7181f55ef71354e922baba081f35ad6",
+          "initial_source_sha256": "c51091152ea76456a560360350e8691cecd41a59f4d5713b6db312f7c95c00b8"
         }
       }
     },
@@ -1186,6 +1198,12 @@
           "path": "chapitres/encyclopedie/chapitre-438-athena-lindia-chronique-lindos-danaides-offrandes-epiphanies-memoire.md",
           "request_sha256": "784015f4d9b973dde877ec3fc28ed4506bd1f5c4734a1e27bc025770f4da9f91",
           "initial_source_sha256": "288f17b1b11b30f95666aeadd62d27f76d26264c26e0a7903385dc53f4692fad"
+        },
+        "cb74e128-96d2-4ea6-84f3-3abf6795d820": {
+          "number": 439,
+          "path": "chapitres/encyclopedie/chapitre-439-apollon-karneios-karneia-sparte-thera-cyrene-messene-rites-musique.md",
+          "request_sha256": "d723ff2363c6b02b9e554223d2fde5ac06f4cdebd1d9c355eb34c1f861dd3bcd",
+          "initial_source_sha256": "1a6fb310d20cfbdbbc21fbb7e412e99ea0e58a25ce64c10bbfee21aa872353c2"
         }
       }
     },
@@ -1564,6 +1582,12 @@
           "path": "chapitres/comedies/volume-111-philyllios-poleis-cites-pax-regis-tablettes-dorique-poissons-metiers.md",
           "request_sha256": "347217c4b3f5036760505d676e7756b15cabdc7524a8edfe84a6645b87b40715",
           "initial_source_sha256": "a79610485e4afd37369265897ea887b06bf5343b07d598b674483d0d6bc31e7d"
+        },
+        "7e9e6dbd-ef31-4f49-bfee-48760d45406e": {
+          "number": 112,
+          "path": "chapitres/comedies/volume-112-magnes-lydoi-lydiens-parfum-songes-purification-comedie-ancienne.md",
+          "request_sha256": "0bed7d05173616e702bac9df8341383bfafb189529522d214f1db9564db1e537",
+          "initial_source_sha256": "d629553265ac11a25e820bb096904739105fcef4457acd7675dc31e56ea6488b"
         }
       }
     },
@@ -1984,6 +2008,12 @@
           "path": "chapitres/tragedies/volume-ccliii-aletes-aleites-attribution-stobee-oreste-erigone-reconnaissance.md",
           "request_sha256": "ce93500dc2193c747d58422199a772c85ee047905eae47b86b797f13b4fe6cda",
           "initial_source_sha256": "a35a5e1e44d8fa0e74efc7fe5caaba3244236054442c12b0cd23431bee23c13c"
+        },
+        "6e4f9b12-8c31-4d6e-94b7-2a5c80d19f63": {
+          "number": 254,
+          "path": "chapitres/tragedies/volume-ccliv-agathon-antheus-anthos-invention-aristote-poetique-1451b-parthenios-antoninus.md",
+          "request_sha256": "708bc70b73a340625acd014592f803560089080fffc97fd1c0b17768a0f93093",
+          "initial_source_sha256": "0e9f31ebfb97093b49a970364ab2e8a37f814703ec96e06b0b0ad635ddd17bbf"
         }
       }
     },
@@ -2647,6 +2677,12 @@
           "path": "chapitres/comparatif/volume-ccli-mc-071-qui-ecrit-pour-les-dieux-nisaba-nabu-thot-seshat-ecriture-et-autorite.md",
           "request_sha256": "5c3264590b5be17548a493cf4823516a36010e603b77ddc8154396ae3b8450ab",
           "initial_source_sha256": "21eb63586708dbf12b1fd43eb069b8ad32ebb04370f75a7fb1ff29dc30ac9230"
+        },
+        "2dd43092-7702-43b9-95a7-202611050072": {
+          "number": 252,
+          "path": "chapitres/comparatif/volume-cclii-mc-072-quand-les-dieux-se-deguisent-epiphanies-hospitalite-tromperie-reconnaissance.md",
+          "request_sha256": "16d48859519110538c8abfb21ab31e2ef30ba70d4505e8644a94fb2598d4c67d",
+          "initial_source_sha256": "d3cd5d1b63a365fa3813aeb4e3d6ce033f7d41ea509de8d99256d340c8f28a07"
         }
       }
     }

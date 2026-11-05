@@ -1,0 +1,493 @@
+# Chapitre 439 — Apollon Karneios : les Karneia de Sparte, la mémoire des Doriens et les routes de Théra à Cyrène
+
+*MYTHOS — Grande Encyclopédie de la mythologie grecque. Monographie universitaire autonome en français. Collection : encyclopedie. Aucun numéro n'est revendiqué avant attribution par la procédure GitHub Actions. État des références : 5 novembre 2026.*
+
+## Résumé scientifique
+
+Apollon Karneios (Ἀπόλλων Κάρνειος), honoré dans plusieurs cités dites doriennes, présente un visage religieux irréductible à l'Apollon de Delphes. À Sparte, les Karneia constituent une grande fête de la fin de l'été : des groupes de convives sont organisés sous des abris provisoires, des musiciens rivalisent pour l'honneur du dieu et une poursuite rituelle met en scène les *staphylodromoi*, « coureurs aux grappes ». Les sources antiques n'en donnent pas une description continue ; elles apportent des témoignages partiels parfois séparés de plusieurs siècles. La fête marque pourtant suffisamment le calendrier civique pour intervenir dans des décisions militaires importantes, notamment au moment des Thermopyles en 480 av. J.-C.
+
+La question des origines s'avère tout aussi complexe. Pausanias (III, 13, 3–5) conserve au moins trois traditions concurrentes : un Karneios Oikétas présent avant l'arrivée légendaire des Héraclides ; le devin acarnanien Karnos assassiné par Hippotès, dont la mort attire la colère d'Apollon ; un nom dérivé des cornouillers sacrés coupés sur l'Ida pour fabriquer le cheval de Troie. Il transmet également la poétesse Praxilla, chez laquelle Karneios est fils de Zeus et d'Europe et reçoit les soins d'Apollon et Léto. Ces traditions ne sont ni synonymes ni autant de faits historiques successifs.
+
+De Sparte à Théra puis Cyrène, Callimaque compose une généalogie cultuelle de l'implantation dorienne. Pindare célèbre les Karneia de Cyrène, tandis que les inscriptions de Théra, notamment IG XII, 3, 868, montrent le prestige d'une prêtrise héréditaire. La Messénie, l'Argolide et d'autres espaces ajoutent des histoires locales, parfois liées à des sanctuaires de mystères. Les conclusions modernes de Michael Pettersson, Robert Parker, Nicola Nenci et Vinciane Pirenne-Delforge permettent de confronter les interprétations initiatiques, politiques et archéologiques, sans confondre analogie, récit et preuve.
+
+La présente étude défend une idée centrale : Karneios n'est pas une simple divinité « militaire » ou « pastorale ». Son nom organise à plusieurs échelles un rapport entre fête, mémoire de la violence, organisation des groupes, compétition musicale, rythme de la guerre et généalogie des cités. La profondeur scientifique du dossier réside dans la conservation de cette pluralité.
+
+## 1. Pourquoi une nouvelle monographie sur Karneios ?
+
+Le corpus grec permet d'étudier plusieurs Apollons, mais la multiplication des épiclèses ne suffit pas à constituer des divinités entièrement séparées. À Delphes, Apollon possède une autorité oraculaire ; à Patras, Agyieus protège les voies ; dans la Troade, Smintheus est invoqué contre une puissance qui frappe les vivants. L'Apollon Karneios de Sparte appartient à un autre système de pratiques, défini notamment par un calendrier festif et une géographie de diffusion.
+
+Une histoire propre de Karneios doit donc partir des textes et des inscriptions qui le nomment. Elle ne reconstitue pas une personnalité divine unique à partir des fonctions génériques d'Apollon. Elle demande comment la fête des Karneia façonne la vie collective et pourquoi les Anciens ont tenu à expliquer son origine par des récits de meurtre, de généalogie, de migration et de purification.
+
+## 2. Hiérarchie documentaire et avertissements
+
+Les témoins principaux n'appartiennent pas à la même époque. Hérodote et Thucydide parlent des conséquences de fêtes et de mois sacrés dans les guerres du Ve siècle. Callimaque et Pindare donnent une interprétation poétique de l'extension du culte. Pausanias, écrivain impérial, transmet des mythes locaux. Athénée préserve des fragments d'auteurs perdus sur la musique et les campements rituels. Les inscriptions constituent un contrôle matériel, mais elles sont fragmentaires et ne décrivent pas toujours les rites.
+
+Une restitution historique doit accorder à chaque source sa portée exacte. La présence d'une stèle est vérifiable ; l'identification du dieu qui y est invoqué dépend des lettres conservées ; l'explication des gestes n'est souvent qu'une hypothèse. Les descriptions tardives ne fournissent pas automatiquement un film de la fête archaïque. Le dossier distingue l'attestation, l'interprétation plausible et la conjecture.
+
+## 3. Philologie : Καρνεῖος, Κάρνειος et les usages dialectaux
+
+L'épiclèse apparaît sous diverses formes grecques, dont Καρνεῖος, Κάρνειος, Καρνήϊος et, en contexte dialectal, des graphies locales d'Apollon ou d'Apellon. Les transcriptions françaises « Carnéen », « Karnéios » et « Carnéios » ne désignent pas des cultes nécessairement distincts. Le vocable des fêtes, τὰ Κάρνεια, n'est pas identique au nom du dieu, mais lui est associé.
+
+La translittération ne doit pas servir d'argument d'étymologie. Des différences de quantité vocalique, de graphie et d'accentuation peuvent dépendre des éditions et des dialectes. La philologie commence par la lecture d'une inscription datée, puis évalue les rapprochements avec le nom du devin Karnos ou avec le cornouiller. Une ressemblance de mots ne suffit pas à établir une origine historique.
+
+## 4. L'étymologie par le devin Karnos
+
+Pausanias III, 13, 4 explique que les Doriens honorent Apollon Karneios en mémoire d'un devin nommé Karnos, originaire d'Acarnanie et interprète du dieu. Cette proposition associe l'épiclèse à un nom propre et à une réparation cultuelle. Sa force n'est pas d'offrir une étymologie linguistique vérifiée ; elle donne un récit de fondation capable de rendre intelligible la nécessité de propitier une puissance après un meurtre.
+
+Il importe de conserver la fonction de Karnos comme devin. Le récit porte sur la destruction d'une relation possible à l'oracle, non sur une rivalité ordinaire entre guerriers. Le meurtre d'un homme capable de parler au nom du dieu entraîne une faute collective dont les conséquences dépassent son auteur immédiat.
+
+## 5. Hippotès, le meurtre et la colère d'Apollon
+
+Dans la tradition de Pausanias III, 13, 4, Hippotès, fils de Phylas, tue Karnos. La colère d'Apollon frappe alors le camp dorien et Hippotès est exilé. Un hommage au devin doit apaiser la puissance divine lésée. La situation est paradoxale : une communauté qui se pense destinée à conquérir un territoire est contrainte de reconnaître qu'elle a offensé celui qui peut orienter son avenir.
+
+Le récit met en place un rapport entre violence et légitimité. La réussite militaire ne suffit pas à constituer un ordre valide ; il faut réparer la transgression religieuse. Cette relation ne saurait être confondue avec une décision de justice historiquement enregistrée. La tradition mythique légitime une coutume en lui donnant une cause exceptionnelle.
+
+## 6. Le Pseudo-Apollodore : une autre configuration du même malheur
+
+La *Bibliothèque* attribuée à Apollodore (II, 8, 3) reprend l'épisode dans l'histoire du retour des Héraclides. Un devin apparaît à Naupacte et récite ses oracles dans une excitation que les soldats interprètent à tort comme une menace magique. Hippotès le frappe d'un javelot ; suivent la destruction de la flotte, la famine de l'armée et sa dispersion.
+
+La consultation qui suit impose l'exil du meurtrier et la recherche d'un guide « aux trois yeux ». Le narrateur identifie ensuite ce guide à Oxylos, monté sur un cheval dont un œil manque. Les détails ne sont pas exactement ceux de Pausanias. Il serait fautif de les fondre en une chronologie prétendument homogène ; les auteurs travaillent des motifs communs — devin incompris, homicide, châtiment collectif, guide paradoxal — pour des fins narratives différentes.
+
+## 7. L'ironie du devin tenu pour sorcier
+
+La méprise des Héraclides chez le Pseudo-Apollodore ouvre une interrogation sur l'autorité du signe religieux. Celui qui possède une parole prophétique peut être interprété comme un agent hostile. Les soldats tuent l'homme dont ils auraient pu recevoir des indications, puis réclament un oracle pour comprendre leur propre catastrophe.
+
+La structure n'est pas seulement morale. Elle met en évidence un problème de reconnaissance : comment savoir qu'une parole étrange est envoyée par le dieu plutôt que par un adversaire ? On peut comparer la situation à d'autres traditions grecques où les devins sont suspectés, mais non déduire du récit un règlement historique des armées doriennes.
+
+## 8. Une tradition antérieure aux Héraclides : Karneios Oikétas
+
+Pausanias III, 13, 3 affirme qu'un Karneios surnommé Oikétas était honoré à Sparte avant le retour légendaire des Héraclides. Il situe sa présence dans la maison de Krios, fils de Théoclès, un devin. Cette tradition est explicitement distinguée de celle du Karnos acarnanien par Pausanias lui-même.
+
+L'adjectif Oikétas évoque une relation domestique, à la maison ou au foyer. Il serait cependant abusif de décrire un autel privé avec ses dimensions et ses rites faute d'un dossier archéologique précis. Pausanias rapporte une mémoire spartiate selon laquelle cette manifestation de la puissance apollinienne précédait le changement de population attribué aux Doriens.
+
+## 9. Krios et la capture de Sparte
+
+Pausanias ajoute que la fille du devin Krios fut interrogée par des éclaireurs doriens alors qu'elle puisait de l'eau. En parlant avec elle, ils entrèrent en relation avec son père et apprirent de ce dernier comment prendre Sparte. L'eau, le foyer du devin et le savoir militaire sont ici reliés dans une narration de conquête.
+
+Le nom Κριός signifie aussi « bélier » en grec, ce qui a nourri des associations autour de l'animalité du dieu. Mais la présence du nom dans un récit mythique ne démontre pas que la statue de Karneios portait des cornes. La distinction entre un nom parlant et un objet figuré constitue l'un des problèmes majeurs de cette étude.
+
+## 10. Praxilla de Sicyone : un Karneios enfant de Zeus
+
+Pausanias III, 13, 5 cite la poétesse Praxilla, chez qui Karneios est fils de Zeus et d'Europe et élevé par Apollon et Léto. Cette généalogie est difficile à superposer à l'histoire du devin tué par Hippotès. Dans un cas, Karneios paraît prendre place dans une parenté divine ; dans l'autre, le nom rappelle un personnage humain dont il fallait apaiser la colère posthume.
+
+La tradition de Praxilla est connue indirectement à travers son transmetteur ; son contexte poétique complet est perdu. La monographie ne reconstitue pas le poème absent. Elle constate surtout que les Grecs disposaient de plusieurs manières de raconter l'origine d'un nom religieux sans disposer d'une doctrine obligatoire qui les harmoniserait toutes.
+
+## 11. Les cornouillers de l'Ida et le cheval de Troie
+
+Pausanias III, 13, 5 ajoute une étiologie portant sur des cornouillers, κρανεῖαι, qui poussaient dans un bois d'Apollon sur l'Ida de Troade. Les Achéens les coupèrent pour fabriquer le cheval de bois ; le dieu, offensé, exigea des sacrifices. Le nom Karneios aurait été tiré de ces arbres au prix d'une permutation de lettres expliquée par un usage ancien.
+
+Le récit associe l'épiclèse à une transgression contre un bois sacré. Il est philologiquement fragile d'en faire l'étymologie certaine du nom : la permutation invoquée est précisément un procédé d'explication populaire. Son intérêt religieux réside dans l'idée qu'une violence faite à des arbres consacrés exige une réparation.
+
+## 12. Le dossier étymologique ne doit pas être réduit à une seule solution
+
+Trois explications concurrentes se rencontrent donc : le devin Karnos, le Karneios nourri par Apollon et Léto, et les cornouillers coupés sur l'Ida. À celles-ci s'ajoutent les hypothèses modernes sur le bélier, les troupeaux ou les origines préhelléniques. Aucune ne permet, dans l'état des preuves, de reconstruire un récit fondateur unique.
+
+La multiplicité des traditions renseigne sur les usages de la mythologie. Un même nom peut légitimer un culte comme réparation, mémoire dynastique ou rappel d'un sacrilège. La difficulté n'est pas une anomalie à dissimuler ; elle constitue une donnée propre de la religion grecque, où les récits locaux circulent et changent de contexte.
+
+## 13. Sparte : un lieu de culte dans la ville
+
+Pausanias place l'Apollon Karneios qu'il décrit près de monuments du centre de Sparte, à proximité des itinéraires passant par la *Skias* et d'autres bâtiments publics. Ce contexte topographique signale que le dieu n'était pas uniquement honoré dans un paysage pastoral hors des murs. Sa présence s'inscrivait aussi dans l'espace de la communauté civique.
+
+Les vestiges modernes de Sparte sont très fragmentaires, et l'identification précise de tous les bâtiments décrits par Pausanias fait l'objet de débats. Il serait dangereux de présenter n'importe quel podium dorique comme le temple de Karneios. Une carte universitaire doit distinguer les indications textuelles, les structures archéologiques identifiées et les propositions de restitution.
+
+## 14. Karneios près du Dromos : un second horizon spartiate
+
+Pausanias III, 14, 6 signale, dans le secteur du *Dromos*, des sanctuaires d'Eileithyia, d'Apollon Karneios et d'Artémis Hégémonè, non loin d'autres espaces associés à la jeunesse et à la course. Cela montre que le dossier de Karneios ne se réduit pas à l'unique voisinage de la Skias.
+
+La proximité du Dromos invite à interroger les rapports entre entraînement, jeunesse, mouvement et rite. Elle ne prouve pas, à elle seule, que toutes les courses de ce secteur appartenaient aux Karneia. La documentation distingue les exercices d'un espace public, les objets votifs et les compétitions liées à une fête précise.
+
+## 15. Le Karneios Oikétas et le Karneios Dromaios des inscriptions
+
+IG V, 1, 497, inscription spartiate d'époque impériale, mentionne un prêtre héréditaire de Karneios Oikétas et de Karneios Dromaios, aux côtés d'autres charges sacerdotales. Le texte permet de confronter les appellations littéraires à des titulatures réellement attestées.
+
+Cette inscription ne doit pas être utilisée pour projeter sans médiation tous les offices du IIe siècle après notre ère sur la Sparte archaïque. Elle prouve qu'à une époque donnée des appellations distinctes pouvaient entrer dans le même portefeuille sacerdotal. La forme Oikétas rend aussi possible une comparaison précise avec le témoignage de Pausanias, sans démontrer une continuité institutionnelle ininterrompue depuis la génération mythique de Krios.
+
+## 16. Le bélier : un raccourci iconographique contestable
+
+La racine sonore de Karneios, le nom de Krios et la place des troupeaux ont conduit divers auteurs modernes à représenter Apollo Karneios avec des cornes de bélier. Cette image s'est répandue dans des manuels et des notices générales. Mais la présence du bélier comme animal sacrificiel ne signifie pas que la statue du dieu elle-même possédait des cornes.
+
+En 2018, Nicola Nenci a réexaminé une stèle archaïque de Sparte et l'histoire de son interprétation. Son article conclut que l'objet invoqué pour justifier les cornes n'en constitue pas une preuve. Tout programme iconographique doit donc éviter d'étiqueter une image cornue comme « représentation certaine d'Apollon Karneios » sans inscription et contexte indépendant.
+
+## 17. Philologie de Κάρνεια : une fête et non une essence divine
+
+Les Karneia sont une fête, non une théorie sur la nature d'Apollon. Le nom peut être utilisé dans le calendrier, dans les récits historiques et dans les traditions sur des concours musicaux. La distinction entre l'épiclèse et l'événement festif évite de faire de chaque dédicace à Karneios une preuve d'organisation de concours ou de banquet.
+
+Une inscription peut nommer un dieu sans préciser la date du sacrifice ; inversement, un historien peut mentionner les Karneia pour expliquer une décision politique sans décrire leur mythologie. La mise en relation des documents est légitime si elle conserve ces différences. L'étude de la fête passe nécessairement par des sources partielles.
+
+## 18. Le temps des Karneia : fin de l'été et calendrier sacré
+
+Robert Parker situe la fête spartiate à la fin de l'été, sur neuf jours. Thucydide V, 54, 2 indique que le mois Karneios était sacré aux Doriens. La correspondance exacte avec les mois de notre calendrier civil varie selon les cités et les années ; on ne peut établir une date grégorienne fixe pour toutes les célébrations antiques.
+
+Le temps sacré est une ressource civique. Une communauté qui honore son dieu selon une périodicité reconnue peut anticiper processions, dépenses, sacrifices et rassemblements. Le caractère contraignant du calendrier devient visible lorsque les obligations festives rencontrent les exigences de la guerre.
+
+## 19. Les neuf jours selon Démétrios de Scepsis
+
+Athénée IV, 141e–f transmet un fragment de Démétrios de Scepsis, auteur de l'époque hellénistique, selon lequel les Karneia de Sparte durent neuf jours. Le passage décrit aussi neuf emplacements, des *skiades*, avec un dispositif évoquant des tentes ou abris.
+
+La répétition du nombre neuf appartient au récit conservé ; elle ne permet pas à elle seule de construire une numérologie sacrée dorienne ni une théorie astronomique générale. L'importance historique du passage tient à la description d'une organisation sociale temporaire, conçue pour rendre visible un ordre collectif.
+
+## 20. Neuf abris et neuf convives par emplacement
+
+Dans le même fragment d'Athénée, chaque *skias* rassemble neuf hommes pour le repas, tandis que le héraut proclame les instructions selon un langage d'ordre. Le texte précise qu'une *skias* comprend trois phratries. Les nombres donnent au banquet une forme strictement organisée, différente d'un repas privé improvisé.
+
+Nous ignorons cependant les noms des convives de chacune de ces unités, l'âge exact des participants et l'ensemble des gestes sacrificiels. La géométrie des neuf abris ne peut être restituée avec certitude à partir de cette seule citation. Un plan de musée doit donc schématiser les rapports numériques sans se présenter comme le relevé d'un campement découvert par fouille.
+
+## 21. La fête comme imitation de la vie militaire
+
+Démétrios de Scepsis qualifie les Karneia de représentation, ou *mimēma*, d'une conduite militaire. Le vocabulaire n'est pas anodin : l'ordre du héraut, le logement collectif et les groupes de convives ressemblent à l'organisation temporaire d'une armée.
+
+Il serait pourtant trompeur de conclure que les Karneia étaient de simples manœuvres militaires. Elles étaient dédiées à un dieu, comportaient d'autres activités et s'inscrivaient dans un cadre où la musique occupait une place majeure. Le caractère martial de certains gestes peut être un symbole de la communauté disciplinée plutôt qu'une préparation technique au combat.
+
+## 22. Les phratries et le statut des groupes représentés
+
+Le fragment de Démétrios emploie le vocabulaire des phratries. Les commentateurs ont discuté la relation entre ces unités et les tribus, les *ôbai* ou les classes d'âge de Sparte. L'historien doit éviter de traduire automatiquement chaque terme ancien par un niveau unique d'administration territoriale.
+
+Le récit montre au minimum que les convives ne s'assemblaient pas au hasard. Leur distribution rendait perceptibles des appartenances reconnues. On peut y voir une mise en ordre du corps civique, sans supposer que tous les habitants de Laconie, y compris les populations dépendantes, participaient à égalité. Les exclusions et modalités de recrutement restent insuffisamment documentées.
+
+## 23. Nourriture, discipline et communauté
+
+Le repas des neuf unités est décrit comme soumis à des ordres proclamés. Le rite fait ainsi passer la consommation alimentaire d'un acte individuel à un geste cadré par l'autorité collective. Les pratiques du banquet spartiate peuvent éclairer ce passage, mais il serait fautif de déclarer les repas des Karneia identiques en tout point aux *syssitia* ordinaires.
+
+L'organisation matérielle peut exprimer un idéal de discipline et de partage, tout en ménageant des distinctions de rang. La relation entre la nourriture offerte, les sacrifices à Apollon et les repas humains n'est pas entièrement décrite ; on ne peut reconstituer les parts ni le menu des neuf journées.
+
+## 24. Les *staphylodromoi* : le rite des coureurs aux grappes
+
+L'un des gestes les plus célèbres des Karneia est la poursuite d'un homme entouré de bandelettes de laine par de jeunes participants dits *staphylodromoi* (σταφυλοδρόμοι). Des lexiques tardifs et des témoignages fragmentaires expliquent que la capture du coureur annonçait un sort favorable pour la communauté ; son échec, un signe inverse.
+
+Le terme associe le vocabulaire de la grappe, *staphylē*, et celui de la course. Toutefois, il ne décrit pas à lui seul l'ensemble des gestes. Le coureur poursuivi n'est pas automatiquement un prêtre identifié, et les grappes ne prouvent pas que le rite fut fondé comme une vendange paysanne. Le système d'augures reste à décrire dans la limite des témoins réellement conservés.
+
+## 25. Les notices d'Hésychius et le risque de rétroprojection
+
+Le lexicographe Hésychius transmet de courtes notices relatives aux *Karneatai* et aux *staphylodromoi*. Ces définitions sont précieuses parce que la plupart des descriptions directes de la fête ont disparu. Elles sont cependant tardives et peuvent résumer des états différents de la tradition.
+
+Une notice de lexique n'est pas un récit exhaustif d'une célébration du Ve siècle. Les chercheurs doivent distinguer les informations attestées par Hésychius, celles transmises par d'autres compilateurs et celles issues de reconstructions modernes. La prétention à reproduire une course avec ses vêtements, ses gestes et ses distances exactes serait une invention.
+
+## 26. Un présage favorable si le coureur est rattrapé
+
+La course n'est pas seulement une compétition visant à déterminer le meilleur athlète. Les témoins interprètent son issue comme un signe concernant la communauté. La capture du coureur devient une condition de bon augure, et cette lecture a suscité plusieurs hypothèses sur la relation entre ordre humain et faveur divine.
+
+L'important est de ne pas convertir ce rite en système uniforme de divination des récoltes. Des questions de prospérité peuvent être présentes, mais l'interprétation civique reste plus large : le succès des participants signale symboliquement la possibilité d'un rapport favorable avec la puissance sacrée. Sans calendrier local précis, il est impossible de calculer une prédiction agricole à partir de ce seul rite.
+
+## 27. Le modèle d'une réparation du meurtre du devin
+
+Michael Pettersson a proposé d'interpréter la poursuite comme une forme de restauration des relations entre humains et dieux, le poursuivi personnifiant le devin Karnos. Cette lecture relie le rite au récit du meurtre commis par Hippotès et au besoin d'apaiser Apollon.
+
+La proposition a un intérêt évident : elle met en relation deux documents qui partagent les thèmes de poursuite, d'infraction et de réparation. Mais elle n'est pas explicitement formulée par une source antique décrivant la fête. L'identification du coureur au devin demeure une hypothèse interprétative, à exposer comme telle et non comme une « signification officielle » certaine.
+
+## 28. Les *Karneatai*, jeunes hommes requis pour le service
+
+Des traditions lexicographiques présentent les *Karneatai* comme des jeunes gens choisis pour servir la fête, parfois répartis par tribus et soumis à des obligations s'étendant sur plusieurs années. Leur fonction est importante pour l'histoire de l'âge, de l'autorité et de l'intégration dans la communauté.
+
+Il faut pourtant éviter de convertir toute mention de jeunes hommes en preuve d'un rite de passage unique, institutionnellement stable depuis l'âge archaïque. Les âges précis, les conditions matrimoniales et les tâches attribuées peuvent dépendre des périodes et des sources. L'interprétation initiatique exige une comparaison critique avec la Gymnopaidie et les Hyacinthies plutôt qu'une identification automatique.
+
+## 29. Pettersson : un cycle spartiate de rites de passage
+
+Dans *Cults of Apollo at Sparta* (1992), Michael Pettersson examine les Hyakinthia, les Gymnopaidiai et les Karneia comme différentes étapes possibles d'un cycle de passage. Les Karneia correspondraient à une phase de réintégration dans l'ordre civique, reconnaissable à la discipline des groupes et à la poursuite rituelle.
+
+Ce modèle éclaire la fonction sociale des cérémonies, mais ne découle pas directement d'une inscription antique énonçant « voici les trois étapes ». Il est une construction savante qui relie des sources discontinues. La recherche doit conserver la possibilité de transformations historiques et de fonctions multiples, notamment le concours musical et les obligations militaires du calendrier.
+
+## 30. Musique et poésie : une fête qui excède l'armée
+
+Athénée XIV, 635e–f cite Hellanicos et Sosibios à propos des concours musicaux des Karneia. Terpandre de Lesbos aurait été le premier vainqueur de leur tradition de compétition musicale. Ces informations déplacent l'image d'une fête purement militaire : la citharodie y avait un prestige ancien.
+
+La musique constitue une action religieuse et civique, pas une simple décoration des banquets. Elle rend possible la reconnaissance publique du savoir-faire poétique et la circulation de professionnels entre cités. L'interprétation militaire des *skiades* ne doit donc pas occulter la place structurelle du chant, du rythme et de la performance.
+
+## 31. Terpandre et la tradition de la première victoire
+
+Hellanicos, cité par Athénée XIV, 635e, donnait à Terpandre la première place dans sa liste des vainqueurs carnéens. Sosibios rapportait une fondation des jeux à la vingt-sixième olympiade, au VIIe siècle avant notre ère. Les deux traditions ont souvent été combinées pour fixer la date de la victoire.
+
+La combinaison n'est pas une preuve contemporaine. Les synchronismes de chronographes anciens peuvent reposer sur des calculs et des listes incomplètes. Le dossier doit distinguer l'affirmation d'Hellanicos sur Terpandre, la datation de Sosibios et l'opération ultérieure qui les réunit. La grandeur historique du concours ne dépend pas de la certitude absolue d'une année précise.
+
+## 32. La cité spartiate et la compétence musicale
+
+La tradition de Terpandre rappelle que l'histoire de Sparte ne saurait être réduite aux exercices guerriers. Les concours de chant et les chorées occupaient un espace important dans la vie religieuse de la cité. Les artistes pouvaient recevoir une reconnaissance qui dépassait leur lieu d'origine.
+
+Mais les récits sur un musicien venu mettre fin aux discordes ne doivent pas remplacer l'étude des institutions spartiates effectives. La musique peut être une métaphore de l'ordre collectif ; elle est aussi une pratique dont les compétitions, les prix et les modalités sont historiquement situés. La monographie conserve cette double dimension.
+
+## 33. La stèle du coureur Aiglatas : un document matériel réévalué
+
+Une stèle inscrite de Sparte, datée de la fin de l'époque archaïque, comporte une dédicace d'Aiglatas à Karneios liée à des succès athlétiques. Dans *The Annual of the British School at Athens* 113 (2018), p. 251–278, Nicola Nenci a soumis l'objet à une nouvelle autopsie et mis à l'épreuve les lectures longtemps répétées.
+
+L'article souligne que le témoignage ne confirme pas l'existence de concours gymniques réguliers aux Karneia. Le contexte de la dédicace est plus complexe que les notices antérieures ne le laissaient croire. Il s'agit d'un exemple méthodologique majeur : un objet ancien peut être connu depuis longtemps et continuer à produire des connaissances nouvelles lorsque texte, support et comparaison sont réexaminés ensemble.
+
+## 34. La proposition d'une course aux flambeaux
+
+Nenci envisage qu'une course aux flambeaux ait pu précéder certains sacrifices carnéens. Il s'agit d'une proposition fondée sur la relecture épigraphique et des parallèles, non d'une reconstitution certaine de tout le programme des Karneia. L'existence du terme *staphylodromoi* ne permet pas de transformer cette course hypothétique aux flambeaux en une identité pure et simple avec la poursuite des grappes.
+
+La distinction est importante pour l'iconographie. Représenter une unique procession où des athlètes courent à la fois avec des grappes et des torches, comme si un texte continu l'attestait, serait une synthèse inventée. Les propositions d'illustration doivent présenter séparément les attestations et les hypothèses.
+
+## 35. Le calendrier comme contrainte militaire : Hérodote VII, 206
+
+Hérodote VII, 206 indique qu'au moment de l'invasion perse de 480 av. J.-C., les Spartiates envoyèrent d'abord Léonidas et un contingent limité aux Thermopyles. Ils projetaient de rejoindre la défense avec davantage de forces après la fête des Karneia. Le retard s'explique dans son récit par le respect du temps sacré ; il rappelle également la simultanéité des Jeux olympiques pour d'autres contingents.
+
+Cette information ne prouve pas que les Spartiates furent indifférents au danger. Elle indique qu'ils arbitraient entre obligations militaires, attentes des alliés et calendrier religieux. Une présentation historique doit éviter le cliché selon lequel « la superstition fit perdre les Thermopyles » : Hérodote donne des intentions et des circonstances, non une cause exclusive de l'issue de la bataille.
+
+## 36. Marathon : la prudence nécessaire devant la tradition
+
+Hérodote VI, 106 rapporte que les Spartiates ne pouvaient pas partir immédiatement rejoindre les Athéniens avant la pleine lune, malgré l'arrivée de Phidippidès. Le texte ne nomme pas expressément les Karneia comme raison de ce délai. Les historiens les ont rapprochées de l'épisode, mais il faut conserver la différence documentaire.
+
+Il serait inexact d'attribuer directement à Hérodote une phrase qu'il n'écrit pas. La monographie signale donc « calendrier et pleine lune chez Hérodote, interprétation possible en termes de Karneia », sans transformer l'inférence moderne en attestation littérale. Ce détail est essentiel pour une publication universitaire soucieuse de précision.
+
+## 37. Thucydide V, 54 : le mois Karneios et la guerre
+
+Dans l'histoire de la guerre du Péloponnèse, Thucydide V, 54 décrit des mouvements d'armées compliqués par la valeur religieuse du mois Karneios. Les Argives et les Épidauriens, ainsi que leurs alliés, ne traitent pas tous de la même manière la suspension des hostilités. Le passage distingue les prescriptions, les retards et les conduites opportunistes possibles.
+
+Le fait que ce mois soit sacré pour des communautés dites doriennes ne signifie pas qu'il existait un organe politique unique imposant partout la même discipline. Le calendrier commun crée un langage de coordination et de justification ; les décisions réelles restent prises par des cités, des chefs et des assemblées.
+
+## 38. Les pauses militaires ne sont ni universelles ni absolues
+
+La fête pouvait restreindre les campagnes, mais elle ne suspendait pas nécessairement toute violence dans chaque cité pendant neuf jours. Les sources mentionnent des situations où des opérations se poursuivent, des autres où elles sont retardées et des cas où des alliés invoquent le calendrier pour ne pas intervenir. L'histoire doit décrire ces variations au lieu de supposer une interdiction uniforme et toujours appliquée.
+
+Il serait également faux de généraliser le statut des Karneia à toutes les fêtes d'Apollon. Delphes, Sparte et Cyrène disposent de calendriers et de traditions propres. La temporalité religieuse de la guerre est une question politique autant que rituelle.
+
+## 39. Une mémoire « dorienne » : catégorie ancienne et construction historique
+
+Pausanias III, 13, 4 parle d'un hommage rendu à Karneios par tous les Doriens. Robert Parker rappelle que les Karneia figurent parmi les rares fêtes ayant pu servir de marqueur identitaire des communautés doriennes. Le nom du mois Karneios se rencontre plus largement encore que l'attestation d'une fête précise.
+
+Il faut néanmoins distinguer l'usage antique du mot « dorien » et la définition moderne d'un groupe humain homogène. La distribution géographique d'un nom cultuel ne prouve pas une migration unique, ni une origine ethnique essentielle. Les cités ont pu réaffirmer ou réinventer leurs affiliations à travers des traditions religieuses communes.
+
+## 40. Sparte, Théra, Cyrène : la séquence de Callimaque
+
+Dans l'*Hymne à Apollon* de Callimaque, vers 69–85 et suivants, le poète de Cyrène oppose le nom Karneios, reçu comme une tradition ancestrale, aux autres épiclèses du dieu. Il présente Sparte comme premier foyer, Théra comme second et Cyrène comme troisième. Le trajet forme une généalogie religieuse qui ordonne l'identité de sa cité par rapport au Péloponnèse et à l'Égée.
+
+Cette séquence est un témoignage littéraire majeur sur une mémoire de fondation, mais non le relevé d'une expédition archéologiquement datée. Le poète organise les villes selon un ordre significatif pour ses contemporains. Les inscriptions de Théra peuvent corroborer le culte sans prouver que chaque détail de la transmission poétique fut historiquement réalisé tel quel.
+
+## 41. Apollon « ancestral » : la formule de Callimaque
+
+Callimaque dit en substance qu'il appelle Apollon Karneios parce que tel est l'usage de ses ancêtres. Le qualificatif ancestral est ici un argument fort de légitimité. Il ne suffit pas que le dieu ait de multiples noms : pour la cité du poète, un nom local exprime une fidélité transmise à travers plusieurs générations.
+
+Le texte rend possible une lecture de la colonisation comme production de continuité. Une communauté nouvelle ne renonce pas nécessairement aux rites qu'elle associe à ses origines. Elle peut reconstruire sa relation au dieu en modifiant les lieux, les fêtes et les rapports aux populations locales. Les termes d'ancestralité ne doivent donc pas être confondus avec une identité parfaite des pratiques.
+
+## 42. Battos et la fondation de Cyrène
+
+Le même hymne présente Apollon comme guide du fondateur Battos, vers la Libye. Le dieu garantit une protection au groupe et oriente les trajectoires de la colonisation. Chez Hérodote IV, 150–159, le dossier de fondation de Cyrène est plus complexe, avec des versions théréennes et cyrénéennes qui ne concordent pas toujours.
+
+La monographie refuse de fabriquer un récit unique à partir de ces traditions. Le rôle d'Apollon apparaît dans plusieurs sources, mais la relation précise entre oracle de Delphes, pratiques carnéennes et choix territoriaux doit être étudiée séparément. La poésie de Callimaque affirme un héritage ; elle n'est pas une chronique administrative contemporaine de la fondation.
+
+## 43. La fête de Cyrène : Pindare, *Pythique* V
+
+Dans sa cinquième *Pythique*, composée pour Arcésilas IV et la victoire de son char, Pindare évoque les Karneia et le lien des familles avec des ancêtres venus de Sparte et de Théra. Les vers concernés sont généralement situés dans la section médiane et finale de l'ode, autour des vers 72–81 et 85–110 selon la segmentation examinée.
+
+L'ode est une performance de célébration dynastique : elle donne au fondateur Battos et aux groupes de la cité une place dans un passé prestigieux. Elle ne décrit pas le programme complet de la fête cyrénéenne. Le passage indique une relation entre culte, musique et mémoire politique, mais n'autorise pas à exporter vers Cyrène les neuf *skiades* spartiates comme un rite obligatoirement identique.
+
+## 44. La fête coloniale et les groupes qui s'y reconnaissent
+
+Les Karneia de Cyrène offrent une occasion de définir un public qui ne se réduit ni aux seuls fondateurs mythiques ni au roi célébré. Les pratiques musicales, les noms des familles et la transmission des récits peuvent associer différents groupes dans une représentation de la cité. Mais il serait naïf de supposer que les populations libyennes et les descendants des migrants partageaient tous les mêmes droits et rôles.
+
+La comparaison exige de distinguer l'identité revendiquée et l'histoire sociale réelle. Le nom « dorien » peut être un langage de continuité servant à une communauté confrontée à des changements politiques, démographiques et territoriaux. Le sanctuaire et la fête participent à ce langage sans en garantir l'unanimité.
+
+## 45. Théra : les inscriptions archaïques ne disent pas toutes « Karneios »
+
+Les inscriptions archaïques de Théra attestent notamment Apollon, Zeus et d'autres puissances dans un ensemble rupestre et architectural étudié récemment. IG XII, 3, 356, en particulier, permet de lire le nom d'Apollon dans le vieux système graphique de l'île. Mais une dédicace à « Apollon » n'est pas automatiquement une dédicace à « Apollon Karneios ».
+
+Cette précaution est fondamentale : le témoignage archaïque d'un dieu et la documentation plus tardive de son épiclèse peuvent appartenir à des configurations différentes. L'historien doit conserver la chronologie des textes et ne pas supposer que toutes les appellations attestées au temps de Callimaque étaient déjà inscrites dans les mêmes formes aux débuts de la colonisation.
+
+## 46. Théra : IG XII, 3, 868 et le prêtre héréditaire
+
+L'inscription IG XII, 3, 868, conservée sur Théra, honore un certain Admetos, fils de Théoclidas, prêtre héréditaire d'Apollon Karneios. Elle associe le personnage à une généalogie se réclamant de Lacédémone et de la Thessalie. La lecture grecque « ἱερέα Ἀπόλλωνος Καρνείου διὰ γένους » indique explicitement une fonction sacerdotale exercée dans un cadre familial.
+
+Ce document est remarquable parce qu'il traduit matériellement l'ancestralité célébrée dans les poèmes. Il atteste une institution héréditaire à l'époque de l'inscription, non l'existence vérifiée de la totalité des ancêtres revendiqués. Les liens prestigieux mentionnés par l'épitaphe doivent être étudiés comme une représentation sociale autant que comme une information généalogique.
+
+## 47. Kameiros, Cos et Cnide : des attestations à distinguer
+
+La diffusion d'Apollon Karneios dans les communautés doriennes de l'Égée et d'Asie Mineure est attestée par des noms de mois, des inscriptions et des témoignages littéraires. Robert Parker cite notamment Sparte, Théra, Cyrène, Argos, Cos et Cnide parmi les lieux où la fête est connue. Les inscriptions de Kameiros à Rhodes attestent aussi l'épiclèse, sans que les institutions cultuelles soient nécessairement identiques.
+
+Le mois Karneios et la fête Karneia doivent être distingués dans chaque lieu. Un calendrier qui conserve le nom d'un dieu peut témoigner d'une identité ancienne sans livrer le détail du sacrifice. Une inscription de Kameiros ne prouve pas que les Lindiens, les Spartiates et les Cyrénéens construisaient tous neuf abris identiques.
+
+## 48. Le cas de Sicyone : une pièce réservée aux prêtres
+
+Pausanias II, 10, 2 situe dans un sanctuaire lié à Asclépios, à Sicyone, un bâtiment dont la pièce intérieure est consacrée à Apollon Karneios et réservée aux prêtres. Ce détail montre une autre manière d'organiser l'accès à la puissance divine, dans une ville non réductible à l'histoire des fêtes spartiates.
+
+L'interdiction d'entrer n'est pas un rite initiatique démontré. Elle atteste une restriction de l'espace religieux à l'époque du témoignage. Il serait abusif d'y projeter les usages de la course aux grappes ou la disposition des neuf abris. Les lieux homonymes participent d'une géographie de cultes partiellement apparentés, et non d'un règlement universel.
+
+## 49. La Messénie : le Karneiasion d'Andania
+
+Le bois sacré du Karneiasion, près d'Andania en Messénie, figure parmi les lieux importants de l'histoire du culte. Pausanias IV, 33, 4–6 y situe des rites de mystères et mentionne Apollon Karneios ainsi que d'autres puissances. La présence de Karneios ne signifie pas que ces mystères étaient simplement une édition locale de la fête spartiate.
+
+L'histoire du sanctuaire est traversée par les relations complexes entre Sparte et la Messénie, par le redéploiement des institutions messéniennes après leur indépendance et par l'existence d'une loi sacrée épigraphiquement conservée. Cette histoire donne au nom du dieu une signification territoriale et institutionnelle différente de celle des concours citharédiques de Sparte.
+
+## 50. Le règlement d'Andania, IG V, 1, 1390
+
+IG V, 1, 1390 est un règlement exceptionnellement détaillé des mystères d'Andania. Il évoque les fonctions, les vêtements, les processions, les sacrifices et les sanctions ; Apollon Karneios y apparaît parmi les destinataires des honneurs. La date de son établissement a été discutée, autour de 92/91 avant notre ère selon une chronologie fréquemment retenue, avec des propositions alternatives dans la recherche.
+
+La stèle ne doit pas être présentée comme le règlement des Karneia de Sparte. Elle témoigne d'un système messénien où plusieurs puissances, dont Déméter, Hermès, les Grands Dieux et Hagna, sont associées à des cérémonies. La présence du nom Karneios confirme l'importance du dieu au-delà de la Laconie, sans fixer l'origine de tous les rites.
+
+## 51. La prêtresse d'Apollon Karneios et les rôles féminins
+
+Les études de Vinciane Pirenne-Delforge sur Andania montrent que la documentation mentionne une prêtresse d'Apollon Karneios parmi les offices du sanctuaire. Cela corrige l'image trop masculine d'un culte qui serait partout réservé aux guerriers et aux jeunes hommes célibataires. Les fonctions rituelles dépendent des lieux et des époques.
+
+Il serait tout aussi simplificateur d'en déduire que la fête spartiate possédait partout les mêmes offices féminins. La comparaison souligne une divergence documentaire : le personnel d'Andania est inscrit dans un règlement précis ; le personnel de Sparte est mieux connu par un mélange de fragments littéraires et de dédicaces. Il faut conserver cette dissymétrie.
+
+## 52. Les *Karneiastai* et les associations religieuses
+
+Une dédicace messénienne du début de l'époque hellénistique, discutée par les chercheurs, mentionne un *Karneiastas*, terme que les lexiques anciens rapprochent des participants ou serviteurs des rites de Karneios. La découverte contribue à préciser l'implantation du culte dans la Messène indépendante.
+
+Toutefois, l'identification précise d'une association et de son organisation exige plus qu'un seul mot. Un *Karneiastas* ne doit pas être converti automatiquement en membre d'une confrérie uniforme à l'échelle du monde dorien. Les institutions locales peuvent employer un vocabulaire partagé pour des obligations différentes.
+
+## 53. Les Karneia et le rythme des travaux agricoles
+
+Le nom du mois, la saison et le vocabulaire des grappes ont parfois conduit à parler d'une fête de fertilité ou de vendanges. Ce rapprochement est plausible à un niveau général : la fin de l'été est un moment important pour l'agriculture méditerranéenne, et la prospérité de la communauté pouvait faire partie des préoccupations rituelles.
+
+Mais la présence d'un motif végétal n'autorise pas à assigner au culte une nature originelle exclusivement agricole. Les sources donnent aussi la musique, les camps, les récits de meurtre et la mémoire des cités. Une explication « agricole » qui prétendrait être plus ancienne que toutes les autres aurait besoin de preuves indépendantes de son intérêt interprétatif.
+
+## 54. Le modèle militaire ne suffit pas non plus
+
+La description des *skiades* comme imitation de la vie militaire est précise, mais elle ne permet pas de conclure que les Karneia ont été instituées uniquement pour discipliner l'armée spartiate. Les concours citharédiques et les fêtes comparables à Théra ou Cyrène dépassent ce cadre.
+
+La diversité des pratiques impose de réfléchir en termes d'agencement plutôt que d'essence. Une même cérémonie peut réunir des éléments de discipline, de divination, de musique, de mémoire et de banquet. Le caractère public de la fête lui permet de traverser plusieurs institutions sans se réduire à l'une d'elles.
+
+## 55. Comparaison avec les Hyakinthia
+
+Les Hyakinthia, associées à Apollon et Hyacinthe en Laconie, mobilisent d'autres traditions mythiques et rituelles. Pettersson a rapproché les Hyakinthia, les Gymnopaidiai et les Karneia dans une hypothèse d'organisation des âges et d'intégration civique. Le parallèle est utile pour comprendre le rôle possible d'un cycle rituel à Sparte.
+
+Il demeure nécessaire de comparer les sources sans amalgamer les trois fêtes. L'histoire d'Hyacinthe ne devient pas celle de Karnos ; la mort d'un jeune héros et celle d'un devin assassiné ne sont pas identiques. Les lieux, les danses, les repas et les acteurs doivent être distingués. L'hypothèse d'un cycle reste un outil d'analyse, non une notice cultuelle antique complète.
+
+## 56. Comparaison avec les Gymnopaidiai
+
+Les Gymnopaidiai sont connues pour les chorées et les performances collectives. Elles permettent de comprendre l'importance de la musique, de la formation corporelle et des rassemblements dans la culture spartiate. Leur comparaison avec les Karneia corrige la réduction de la musique à une activité secondaire.
+
+L'analogie ne doit cependant pas devenir une théorie automatique de l'initiation des jeunes. Chaque fête possède une documentation spécifique. La relation entre chant, discipline et participation civique est assez large pour autoriser plusieurs interprétations ; c'est à partir des sources, et non d'un schéma anthropologique imposé, qu'il faut en déterminer les limites.
+
+## 57. Comparaison avec les cultes d'Apollon ailleurs dans MYTHOS
+
+Les études existantes sur Apollon Agyieus et Apollon Smintheus montrent que des épiclèses peuvent organiser des pratiques sans relation directe entre elles. Le premier intervient notamment à propos des voies et des seuils ; le second est associé dans les sources de Troade aux souris, à l'épidémie et à un sanctuaire monumental. Karneios apparaît d'abord dans la documentation des Doriens, de leurs fêtes et de leurs récits de fondation.
+
+Le rapprochement ne doit pas conduire à chercher un « Apollon primitif » que les différentes épiclèses dévoileraient chacune comme un fragment. La pluralité religieuse grecque n'est pas un système de définitions fixes. Les identités divines se construisent dans des lieux, des paroles et des relations rituelles concrètes.
+
+## 58. Comparaison avec les fêtes d'Artémis en Grèce
+
+Artémis Laphria à Patras offre un contraste méthodologique. Pausanias y décrit une procession et un sacrifice par le feu d'animaux vivants ; les Karneia sont mieux connues, pour certains de leurs éléments, par les auteurs historiques et la tradition lexicographique. Les deux dossiers montrent que les fêtes pouvaient comporter des gestes extraordinaires.
+
+Le fait que plusieurs cérémonies aient lieu à la fin de l'été ou impliquent des animaux ne constitue pas une preuve de filiation. Les procédures, les destinataires et les cadres politiques diffèrent. La comparaison est utile si elle décrit comment la documentation construit la singularité des rituels, non si elle transforme toute religion grecque en rite homogène.
+
+## 59. La diaspora dorienne et les limites de l'idée de diffusion
+
+Sparte, Théra et Cyrène constituent une chaîne célèbre dans la mémoire de Callimaque. Toutefois, le terme moderne de « diffusion » peut donner l'impression qu'une même boîte rituelle aurait été transportée intacte d'une ville à l'autre. Les faits sont plus complexes : les groupes se déplacent, les noms se maintiennent, les institutions changent et les poètes reconstituent des généalogies.
+
+La recherche doit faire place aux populations déjà présentes dans les territoires concernés, notamment en Cyrénaïque. Une mémoire de fondation dorienne peut masquer des négociations et des conflits. Les noms cultuels sont des documents d'histoire culturelle, pas des certificats de pureté ethnique.
+
+## 60. Le paysage archéologique et ses incertitudes
+
+Les sanctuaires spartiates nommés par Pausanias sont difficiles à localiser avec certitude. Les découvertes épigraphiques, dont la stèle d'Aiglatas et les textes de prêtres d'époque impériale, offrent une documentation plus sûre de la dévotion que bien des reconstitutions monumentales. À Théra, des inscriptions et des structures archaïques montrent l'ancienneté d'une présence cultuelle d'Apollon, mais l'épiclèse Karneios est attestée de manière spécifique par d'autres textes.
+
+À Cyrène, le grand sanctuaire d'Apollon documente le rôle du dieu dans la ville, sans pouvoir être identifié automatiquement comme le lieu exact de chaque célébration des Karneia. Une représentation visuelle doit distinguer le paysage antique, la maquette hypothétique et les objets dont l'origine est connue.
+
+## 61. Philosophie politique : Aristote et le temps collectif
+
+Dans la *Politique*, Aristote examine le rapport entre institutions, éducation, habitudes et fins collectives. Ses catégories permettent d'interroger l'effet d'une fête qui redistribue pendant neuf jours les activités humaines : elle organise un temps où le corps civique se reconnaît dans des pratiques répétées plutôt que dans un débat politique ordinaire.
+
+Aristote ne livre pas dans ces passages une théorie particulière des Karneia. Le rapprochement demeure conceptuel. La liberté d'une cité peut coexister avec des obligations religieuses contraignantes, et les décisions de guerre s'inscrivent dans un calendrier partagé. Il ne faut pourtant pas transformer le respect de ce calendrier en preuve d'un consentement unanime de tous les habitants de Laconie.
+
+## 62. Platon : ordre, musique et éducation
+
+Les *Lois* de Platon, notamment les livres II et VII, font de la musique, de la danse et du rythme des éléments importants dans l'éducation collective. Elles éclairent une question posée par les Karneia : comment une fête mêlant le chant à une organisation rigoureuse peut-elle agir sur les habitudes des participants ?
+
+Le raisonnement ne fait pas de la Sparte historique le modèle fidèle de la cité des *Lois*. La musique carnéenne est attestée par des traditions de concours ; la philosophie platonicienne propose un autre cadre, normatif. L'analyse reste légitime seulement si elle conserve cette séparation entre fait cultuel et construction théorique.
+
+## 63. Hegel : reconnaissance et institution rituelle
+
+Une lecture inspirée de Hegel peut considérer qu'une communauté fait exister publiquement son ordre en le répétant dans des actions visibles. Les abris, les repas, les chants et les récits de fondation inscrivent un groupe humain dans une mémoire que chacun peut rencontrer, même si l'interprétation exacte varie.
+
+Cette perspective ne prouve pas que les Spartiates conçurent leur fête comme « réalisation de l'Esprit ». Elle propose une question sur la matérialisation de l'autorité : la règle religieuse existe parce qu'elle est accomplie, entendue et reconnue. Les sources anciennes demeurent les seules autorités pour le détail des gestes.
+
+## 64. Nietzsche : la mémoire de la faute et l'ordre des valeurs
+
+Le récit de Karnos assassiné peut être interrogé avec les thèmes de la faute, de la mémoire et de la réparation développés par Nietzsche dans la deuxième dissertation de la *Généalogie de la morale*. Un acte violent reçoit une conséquence durable : la communauté entretient des rites qui font survivre une obligation dans le temps.
+
+Mais il serait anachronique d'affirmer que les Karneia avaient pour but de punir une culpabilité intérieure au sens moderne. Les anciens textes parlent d'apaisement du dieu et d'une réparation de la mise à mort du devin. La philosophie sert à poser des questions sur la création de normes, non à remplacer les prescriptions attestées.
+
+## 65. Comparaisons méditerranéennes : jusqu'où aller ?
+
+Des civilisations du Proche-Orient ancien ont développé des calendriers sacrés et des rites de réparation après des actions jugées dangereuses. Ces comparaisons peuvent aider à formuler des questions sur la relation entre violence, purification et ordre politique. Elles ne prouvent aucune origine babylonienne, égyptienne ou hittite du nom Karneios.
+
+Il serait aussi imprudent de tirer des ressemblances pastorales entre une tête de bélier égyptienne et une représentation supposée du dieu à Sparte. Les sources visuelles lacunaires et les révisions de Nenci rendent ce rapprochement particulièrement fragile. La comparaison doit viser des structures documentées, non des formes qui pourraient ne pas avoir existé dans le culte examiné.
+
+## 66. Tableau critique des attestations
+
+| Source | Donnée réellement transmise | Limite |
+| --- | --- | --- |
+| Pausanias III, 13, 3 | Karneios Oikétas chez le devin Krios avant les Héraclides | Tradition de mémoire locale, non datation archéologique |
+| Pausanias III, 13, 4 | Karnos tué par Hippotès ; apaisement du devin | Étiologie, non récit militaire indépendant vérifié |
+| Pausanias III, 13, 5 | Praxilla ; cornouillers de l'Ida | Étymologies incompatibles, sources indirectes |
+| Pseudo-Apollodore II, 8, 3 | Devin tué, famine, oracle, guide aux trois yeux | Version narrative différente, non documentation d'une cérémonie |
+| Athénée IV, 141e–f | Neuf abris, neuf convives, trois phratries, neuf jours | Fragment de Démétrios de Scepsis, pas un plan de fouille |
+| Lexiques sur les *staphylodromoi* | Poursuite rituelle et présage | Gestes incomplets, témoignages tardifs |
+| Athénée XIV, 635e–f | Terpandre, listes de vainqueurs, chronologie traditionnelle | Témoignages combinés, pas une année de fondation certaine |
+| Hérodote VI, 106 | Attente spartiate de la pleine lune avant Marathon | Les Karneia ne sont pas nommées explicitement |
+| Hérodote VII, 206 | Karneia et envoi initial limité aux Thermopyles | Pas une cause unique de la défaite |
+| Thucydide V, 54 | Mois Karneios sacré et décisions militaires | Application variable selon les cités |
+| Callimaque, *Hymne à Apollon* 69–85 | Sparte → Théra → Cyrène, mémoire ancestrale | Généalogie poétique, non chronologie exhaustive |
+| Pindare, *Pythique* V | Karneia cyrénéennes, mémoire des fondateurs | Ne donne pas le rituel complet |
+| IG XII, 3, 868 | Prêtre héréditaire de Karneios à Théra | Ascendance revendiquée non automatiquement vérifiée |
+| IG V, 1, 497 | Karneios Oikétas et Dromaios, titulature impériale | Ne prouve pas un office identique à l'archaïsme |
+| IG V, 1, 1390 | Karneios dans les mystères d'Andania | Règlement messénien, distinct des Karneia de Sparte |
+| Nenci 2018 | Relecture de la stèle d'Aiglatas ; doutes sur cornes et concours gymniques | Discussion moderne, non « découverte » d'un rite entièrement assuré |
+
+## 67. Bibliographie primaire et éditions
+
+- **Pausanias**, *Description de la Grèce* III, 13, 3–5 : Oikétas, Krios, Karnos, Hippotès, Praxilla, cornouillers ; III, 14, 6 : sanctuaires du Dromos ; II, 10, 2 : espace consacré à Karneios à Sicyone ; IV, 33, 4–6 : sanctuaire messénien. Texte grec et traduction parallèle : https://reader.humanitext.ai/en/read/urn:cts:greekLit:tlg0525.tlg001.humanitext-grc2:3.13.1-3.13.9
+- **Pseudo-Apollodore**, *Bibliothèque* II, 8, 3 : meurtre du devin et catastrophe des Héraclides ; https://www.theoi.com/Text/Apollodorus2.html
+- **Hérodote**, *Histoires* VI, 106 : Marathon et pleine lune ; VII, 206 : Thermopyles et Karneia. https://lexundria.com/hdt/7.206/mcly
+- **Thucydide**, *Histoire de la guerre du Péloponnèse* V, 54, 2–4 : mois sacré et opérations militaires ; voir aussi V, 75–76 pour les retours et reports de campagne. https://adfonteslibrary.org/thucydides-2
+- **Athénée**, *Deipnosophistes* IV, 141e–f, citant Démétrios de Scepsis : neuf abris et repas organisés ; XIV, 635e–f, citant Hellanicos et Sosibios : concours musicaux. https://beta.perseus.tufts.edu/urn:cts:greekLit:tlg0008.tlg001.perseus-grc3:4/ et https://beta.perseus.tufts.edu/urn:cts:greekLit:tlg0008.tlg001.perseus-eng2:14/
+- **Callimaque**, *Hymne à Apollon*, vers 69–85, et suivants : Karneios, origine spartiate, Théra, Cyrène ; https://reader.humanitext.ai/en/read/urn:cts:greekLit:tlg0533.tlg016.humanitext-grc3:57-113
+- **Pindare**, *Pythique* V, particulièrement les développements autour des Karneia, de Battos et des fondateurs de Cyrène. Éditions critiques à consulter pour les divisions en vers.
+- **Hésychius**, notices *Karneatai*, *staphylodromoi* et apparentées ; compléter par les lexiques et scholies conservant la description de la poursuite.
+- **Théocrite**, *Idylle* V, notamment vers 82–83 : dévotion pastorale et animal sacrificiel promis à Apollon.
+- **IG V, 1, 497**, Sparte, titulature sacerdotale de Karneios Oikétas et Dromaios : https://epigraphy.packhum.org/text/30858
+- **IG XII, 3, 868**, Théra, prêtre héréditaire d'Apollon Karneios : https://epigraphy.packhum.org/text/76404
+- **IG V, 1, 1390**, règlement des mystères d'Andania ; distinguer la date de la loi et les variations de sa datation éditoriale.
+
+## 68. Bibliographie scientifique critique
+
+- **Michael Pettersson**, *Cults of Apollo at Sparta: The Hyakinthia, the Gymnopaidiai and the Karneia*, Skrifter utgivna av Svenska institutet i Athen, 8°, 12, Stockholm, 1992. Présentation institutionnelle : https://ecsi.se/actaath-8-12/
+- **Nicola Nenci**, « The Votive of Aiglatas, Spartan Runner. Old Evidence, New Knowledge », *Annual of the British School at Athens* 113 (2018), p. 251–278. DOI : https://doi.org/10.1017/S0068245418000023
+- **Robert Parker**, « Dorian festivals », *Oxford Classical Dictionary*, 22 décembre 2015. DOI : https://doi.org/10.1093/acrefore/9780199381135.013.2288
+- **Robert Parker**, « Carnea », *Oxford Classical Dictionary*, 22 décembre 2015. DOI : https://doi.org/10.1093/acrefore/9780199381135.013.1383
+- **Vinciane Pirenne-Delforge**, « Mnasistratos, the ‘Hierophant’, and the Mysterious Messenian Mysteries », contribution consacrée aux archives cultuelles messéniennes, au Karneiasion et aux fonctions sacerdotales. https://orbi.uliege.be/bitstream/2268/18443/1/Pirenne_MelBremmer.pdf
+- **Nadine Deshours**, *Les Mystères d'Andania. Étude d'épigraphie et d'histoire religieuse*, Bordeaux, 2006, et travaux associés sur IG V, 1, 1390.
+- **Lina Gawlinski**, *The Sacred Law of Andania: A New Text with Commentary*, Berlin / Boston, 2012 ; analyse épigraphique des offices, du cortège et des rites.
+- **Thérèse Fuhrer** et recherches sur Callimaque, la mémoire ancestrale et la constitution de l'identité civique à Cyrène ; confronter aux études modernes de la colonisation grecque en Libye.
+- **Carlo Antonetti** et **Sotera Fornaro**, études sur les fêtes et les rites spartiates, à consulter pour la transmission des lexiques et les formes d'organisation.
+- **Claude Calame**, *Choruses of Young Women in Ancient Greece: Their Morphology, Religious Role, and Social Functions*, trad. angl., 1997 : cadre comparatif pour chorées, âge et rites, sans attribution des Karneia à une initiation exclusivement féminine.
+- **Paul Cartledge**, travaux sur Sparte, le calendrier et l'identité civique : contextualisation politique plutôt que preuve directe sur chaque geste.
+- **Gregory Nagy**, « Transmission of Archaic Greek Sympotic Songs: From Lesbos to Alexandria », *Center for Hellenic Studies* ; discussion de Terpandre, Hellanicos et Athénée : https://www-current.chs.harvard.edu/curated-article/gregory-nagy-transmission-of-archaic-greek-sympotic-songs/
+- **Center for Hellenic Studies**, *The Making of Paradeigmata VI.4: Unveiling the Doric Islands of Ancient Greece*, 2025, notamment les inscriptions archaïques de Théra : https://research-bulletin.chs.harvard.edu/2025/07/28/the-making-of-paradeigmata-vi-4-unveiling-the-doric-islands-of-ancient-greece/
+- **M. Muscianisi**, travaux épigraphiques sur les inscriptions archaïques de Théra, l'alphabet local et la pluralité des épiclèses ; confronter chaque proposition aux éditions de *Inscriptiones Graecae*.
+
+La bibliographie sépare les sources antiques, les synthèses modernes et les hypothèses. Les renvois anciens sont donnés sous la forme permettant leur vérification dans les éditions philologiques ; les noms propres et les variantes seront conservés dans le texte public intégral.
+
+## 69. Programme iconographique : dix-huit propositions
+
+1. Carte scientifique du Péloponnèse montrant Sparte, Sicyone, le secteur d'Andania et leurs différences de statut cultuel.
+2. Plan de Sparte fondé sur une recherche topographique publiée, avec localisation textuelle de la Skias et avertissement sur l'incertitude archéologique du sanctuaire.
+3. Carte du *Dromos* spartiate et des lieux mentionnés par Pausanias III, 14, 6.
+4. Détail du texte grec de Pausanias III, 13, 3–5, avec mise en parallèle des quatre étiologies ; image typographique originale, non faux papyrus.
+5. Stèle d'Aiglatas : dessin scientifique et photographie institutionnelle seulement après contrôle des droits de reproduction, du support et de la restitution épigraphique (Nenci 2018).
+6. Schéma critique expliquant pourquoi le nom de Krios n'est pas une preuve d'un Apollon à cornes.
+7. Photographie de l'inscription IG V, 1, 497, avec la titulature Oikétas et Dromaios signalée.
+8. Tableau des neuf *skiades* selon Athénée IV, 141e–f, avec neuf groupes de neuf convives et la mention « schéma interprétatif, aucun plan de fouille connu ».
+9. Diagramme d'une course rituelle possible des *staphylodromoi*, distinguant attestations lexicographiques et reconstitution visuelle.
+10. Vignette historiographique sur le débat concernant la course aux flambeaux ; hypothèse de Nenci explicitement datée.
+11. Reproduction autorisée d'une inscription ou notice relative à Terpandre et aux concours musicaux, ou, à défaut, fac-similé philologique sourcé d'Athénée XIV, 635e.
+12. Tableau chronologique des années 490 et 480 av. J.-C. distinguant ce qu'Hérodote attribue réellement à la pleine lune et à la fête.
+13. Carte des routes mémorielles Sparte → Théra → Cyrène d'après Callimaque, sans invention d'un itinéraire historique exact.
+14. Photographie de la zone de Théra comportant des graffiti cultuels archaïques, avec références de la recherche CHS.
+15. Photographie institutionnelle ou fac-similé de l'inscription IG XII, 3, 868 sur le prêtre Admetos à Théra.
+16. Vue archéologique du sanctuaire d'Apollon à Cyrène accompagnée de la précision qu'il n'est pas automatiquement identifié comme le lieu de tous les rites carnéens.
+17. Plan du Karneiasion messénien et extrait d'IG V, 1, 1390 sur les offices, avec prudence sur les lieux restitués.
+18. Reconstitution photoréaliste *hypothétique* d'une assemblée rituelle spartiate, dépourvue de tout détail non attesté présenté comme certain, avec notice des sources et des choix artistiques.
+
+Les photographies doivent conserver leurs crédits, licences et inventaires. Les images 2,5D anciennement supprimées ne seront pas réintroduites. Une reconstitution conjecturale sera toujours nommée comme telle, et aucune sculpture sans provenance assurée ne sera désignée « Apollon Karneios » sur le seul motif d'une corne ou d'un animal.
+
+## 70. Conclusion générale
+
+L'étude d'Apollon Karneios permet de reconnaître un système religieux qui n'est ni simplement « la fête des soldats » ni une survivance univoque de rites agraires. Les traditions associent à un même nom un devin tué, une faute collective, une généalogie divine, des arbres sacrés et une mémoire de conquête. Elles ne s'accordent pas sur une fondation unique ; cette pluralité est le point de départ nécessaire de l'histoire.
+
+Les Karneia spartiates sont à la fois un temps de suspension relative de certaines entreprises guerrières, un programme de repas et de groupes ordonnés, une scène de poursuite à valeur augurale et un concours musical dont la tradition place Terpandre parmi les premiers vainqueurs. Aucune source ne décrit d'un trait toute la célébration. Mais leur croisement permet de comprendre comment une fête peut stabiliser des appartenances sans supprimer les contradictions d'une cité.
+
+L'identité dorienne qu'exprime Karneios se prolonge dans une géographie de noms, de poèmes et d'inscriptions. La séquence Sparte–Théra–Cyrène est un puissant récit de continuité ; les inscriptions de Théra en attestent des formes institutionnelles, tandis que la Messénie montre une autre intégration du dieu, liée à un sanctuaire de mystères et à son règlement. Il ne s'agit pas d'une tradition copiée à l'identique, mais d'une série de réappropriations.
+
+Enfin, le réexamen épigraphique moderne rappelle la responsabilité du chercheur : une croyance longtemps répétée sur l'image cornue d'Apollon ou sur les concours gymniques peut être remise en cause par la lecture attentive d'une seule stèle. L'encyclopédie MYTHOS ne doit pas combler les silences des Anciens par des images séduisantes. La connaissance de Karneios progresse précisément lorsqu'on distingue la description d'un rite, la mémoire d'une migration, le prestige d'une généalogie et la matérialité d'une inscription.
+
+*Fin du texte public intégral. Le titre conserve 439 jusqu'à l'attribution atomique par GitHub Actions ; aucune attribution ni publication sur le site ne sont présumées par ce manuscrit.*
