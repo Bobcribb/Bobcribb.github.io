@@ -78,8 +78,11 @@ def latest_verified(root, output):
             first_h1 = re.search(r'(?m)^#\s+(.+)$', markdown)
             first_h2 = re.search(r'(?m)^##\s+(.+)$', markdown)
             h1_text = re.sub(r'[`*_]', '', first_h1.group(1)).strip() if first_h1 else ''
-            titled_chapter = (collection == 'encyclopedie' and
-                             re.match(r'(?i)^chapitre\s+\d+\s+[—:-]\s+\S+', h1_text))
+            # Les Origines et l'encyclopédie utilisent toutes deux un H1
+            # scientifique « Chapitre N — titre ». Un H2 « Résumé
+            # scientifique » ne doit jamais remplacer ce titre sur l'accueil.
+            titled_chapter = bool(re.match(
+                r'(?i)^chapitre\s+\d+\s+[—:-]\s+\S+', h1_text))
             heading = first_h1 if titled_chapter else (first_h2 or first_h1)
             if not heading:
                 continue
@@ -93,7 +96,8 @@ def latest_verified(root, output):
             found.append({'collection': label, 'cote': cote, 'title': title,
                           'url': '/' + rel.with_suffix('').as_posix() + '/', 'image': src,
                           'illustration': IMAGE_CONTEXT[collection] if src else '',
-                          'collection_url': COLLECTION_HOME[collection]})
+                          'collection_url': COLLECTION_HOME[collection],
+                          'anchor': 'etude-recente-' + collection})
             break
     return found
 
@@ -125,18 +129,31 @@ def install(root, output):
             'Cette image ne représente pas nécessairement l’étude.</span></span>'
             if item['image'] else '')
         cards.append(
-            f'<a class="portal-card" href="{html.escape(item["url"], quote=True)}">{img}'
+            f'<a class="portal-card" id="{html.escape(item["anchor"], quote=True)}" '
+            f'href="{html.escape(item["url"], quote=True)}">{img}'
             f'<span class="portal-card-kicker">{html.escape(item["collection"])} · '
             f'{html.escape(item["cote"])}</span>'
             f'<strong>{html.escape(item["title"])}</strong>'
             '<span>Consulter la monographie universitaire et ses références.</span>'
             '<span class="card-indicator" aria-hidden="true">↗</span></a>')
+    # Sous-sommaire accessible sur mobile : cibles stables par collection,
+    # sans ajouter de copie du manuscrit ni de lien non attribué.
+    quick_nav = (
+        '<nav class="mythos-recent-jump" '
+        'aria-label="Accès rapide aux études récentes par collection"><ul>'
+        + ''.join(
+            f'<li><a href="#{html.escape(item["anchor"], quote=True)}">'
+            f'{html.escape(item["collection"])}</a></li>'
+            for item in records
+        )
+        + '</ul></nav>'
+    )
     markup = ('<section class="portal-section" id="home-etudes-recentes">'
               '<h2>Dernières études par collection</h2>'
               '<p class="section-intro">Un accès direct au dernier numéro attribué '
               'et construit dans chacune des cinq collections universitaires. '
               'Les textes, notes et bibliographies restent à leur emplacement d’origine.</p>'
-              '<div class="portal-grid">' + ''.join(cards) + '</div></section>')
+              quick_nav + '<div class="portal-grid">' + ''.join(cards) + '</div></section>')
     section = BeautifulSoup(markup, 'html.parser').section
     anchor = main.select_one('#home-parcours')
     if anchor:
