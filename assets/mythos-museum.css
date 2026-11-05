@@ -1163,6 +1163,16 @@ body.mythos-design .greek-cross-readings[data-greek-cross-readings="contacts"] h
   border-bottom:1px solid #806a46;
   padding-bottom:.65rem;
 }
+body.mythos-design .greek-cross-readings[data-greek-cross-readings="contacts"] li{
+  min-width:0;
+  overflow-wrap:anywhere;
+}
+@media(max-width:700px){
+  body.mythos-design .greek-cross-readings[data-greek-cross-readings="contacts"] h2{
+    font-size:clamp(1.25rem,5vw,1.5rem);
+    line-height:1.35;
+  }
+}
 @media(max-width:480px){
   body.mythos-design .greek-cross-readings[data-greek-cross-readings="contacts"]{
     padding:.85rem;
