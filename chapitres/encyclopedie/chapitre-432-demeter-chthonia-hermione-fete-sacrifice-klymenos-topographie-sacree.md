@@ -1,0 +1,290 @@
+# MYTHOS — Grande Encyclopédie de la mythologie grecque
+## Chapitre 432 — Déméter Chthonia à Hermione : la déesse de la terre profonde, le sacrifice estival et le sanctuaire de Klyménos
+### Étude universitaire approfondie — philologie, mythologie, cultes, archéologie et philosophie
+
+**Statut scientifique :** manuscrit autonome, sans numéro préattribué ; sources distinctes des hypothèses, aucune continuité archéologique présupposée. **Corpus central :** Pausanias II, 35, 4–10 ; Élien XI, 4 ; Athénée X, 455c–d et XIV, 624e–f ; Lasos PMG 702 ; recherches Blid–van den Berg (2021).
+
+## 1. Ouverture : pourquoi Hermione oblige à repenser Déméter
+
+L'image la plus familière de Déméter est celle d'une mère qui recherche sa fille Perséphone et préside aux récoltes. À Hermione, cité d'Argolide située face aux îles du golfe Saronique, la déesse se présente sous un visage plus difficile à réduire à cette formule : elle se nomme **Chthonia**, dispose d'un grand sanctuaire civique, reçoit chaque été une procession collective et des bovins mis à mort dans un espace fermé, tandis qu'un souverain du monde inférieur, Klyménos, possède un lieu de culte voisin. Le même paysage abrite une ouverture terrestre que les Hermioniens désignaient comme le passage par lequel Héraclès ramena le chien d'Hadès. Ces traditions sont transmises principalement par Pausanias, *Description de la Grèce* II, 35, 4–10.
+
+L'objectif n'est pas de fabriquer une cérémonie homogène à partir de documents discontinus. Il faut examiner les récits d'origine, les gestes du sacrifice, les rôles sociaux, les textes lyriques, l'épigraphie et l'archéologie selon des critères de preuve différents. La question centrale est celle d'un pouvoir religieux qui combine production de la vie, voisinage des morts, contrôle des accès et hiérarchie de l'initiation. **Une divinité « souterraine » n'est pas nécessairement une divinité exclusivement funéraire.**
+
+## 2. La cité et son paysage : Hermion, Prôn et le littoral
+
+L'ancienne Hermion — usuellement appelée Hermione dans les transcriptions modernes — se développe dans une topographie de pentes, de ports et de promontoires de l'Argolide orientale. Pausanias, II, 34–35, situe le sanctuaire majeur de Déméter sur le Prôn, une éminence associée au noyau urbain ancien. L'indication est assez précise pour organiser une enquête de terrain, mais insuffisante pour restituer à elle seule les rues, les limites du téménos ou le parcours exact de la procession estivale.
+
+Le rapport entre la déesse et la cité est matériellement important. Les officiants et les magistrats marchent en tête du cortège ; les hommes et les femmes y prennent part ; les enfants jouent un rôle repérable. L'ensemble dépasse le cadre d'une dévotion de voisinage. La route vers le sanctuaire ordonne temporairement le corps civique. La ville, cependant, ne se confond pas avec son rituel : il faut conserver la distinction entre l'espace habité, le sanctuaire principal, les lieux de Klyménos, les enceintes d'Hadès et les sanctuaires d'autres dieux cités par le pérégète.
+
+## 3. Un corpus antique limité, mais exceptionnellement dense
+
+Le noyau documentaire est **Pausanias II, 35, 4–10**. Le §4 conserve deux légendes étiologiques ; le §5 expose la fête et la procession ; les §§6–8 décrivent le sacrifice et l'objet sacré inaccessible ; les §§9–10 présentent les sanctuaires voisins et la fissure d'Héraclès. À ce témoignage de l'époque impériale s'ajoute **Élien, *De la nature des animaux* XI, 4**, qui cite des vers attribués à Aristoclès sur une vache docile conduite par une femme âgée. Enfin **Athénée, *Deipnosophistes* X, 455c–d et XIV, 624e–f**, transmet un fragment de Lasos d'Hermione, poète archaïque, consacré à Déméter et à Korè.
+
+Ces sources ne se valent pas comme rapports d'observation. Pausanias revendique une description de lieux, mais mêle expérience, propos locaux et préférences d'interprétation. Élien accumule les merveilles animales, ce qui infléchit sa présentation de la docilité du bovin. Le fragment de Lasos atteste un langage poétique et une association divine ; il ne raconte ni les quatre mises à mort ni la disposition architecturale connue à Pausanias. La différence des genres fait partie des résultats de l'enquête.
+
+## 4. Philologie de Χθονία : la terre et son envers
+
+Le qualificatif **Χθονία** (*Chthonía*) est lié à **χθών**, « terre », particulièrement la terre comme sol, territoire et profondeur. Il n'autorise pas à traduire mécaniquement « déesse de la mort ». L'adjectif χθόνιος peut évoquer ce qui est terrestre, enfoui ou lié aux puissances situées sous le sol ; sa portée dépend du contexte cultuel. À Hermione, le voisinage de Klyménos et du gouffre donne à l'épiclèse une résonance infernale indéniable, mais la procession estivale et le souhait de prospérité agricole que rapporte Élien interdisent une spécialisation exclusivement mortuaire.
+
+Il faut distinguer trois homonymies : **Déméter Chthonia**, appellation divine ; **Chthonia**, personnage féminin des récits de fondation ; **les Chthonia**, nom de la fête annuelle. Pausanias joue manifestement de cette superposition, qui permet de faire découler un titre religieux d'une histoire de fondatrice. Il s'agit d'une explication ancienne, non d'une étymologie historique démontrée. Le nom personnel Chthonia peut avoir facilité l'interprétation rétrospective du sanctuaire autant que l'inverse.
+
+## 5. Déméter, Dāmātēr et la prudence étymologique
+
+La forme dorienne **Δάματρα** (*Dāmatra*) apparaît dans le fragment de Lasos transmis par Athénée ; **Δημήτηρ** (*Dēmētēr*) est la forme littéraire ionienne-attique familière. Le second élément est traditionnellement rapproché de μήτηρ, « mère », tandis que l'analyse du premier élément du théonyme fait débat. L'identification courante à une « Terre-Mère » ne doit pas être présentée comme une démonstration linguistique incontestable. Une interprétation religieuse plausible et une étymologie phonétique solide constituent deux opérations distinctes.
+
+À Hermione, la géographie chthonienne peut encourager une lecture profondément terrestre du nom ; elle ne tranche pourtant pas son histoire linguistique. Les formes régionales, la transmission manuscrite et les procédés poétiques méritent leur propre examen. L'emploi de Δάματρα chez un poète hermionien n'implique pas que toutes les inscriptions locales employaient cette forme, ni que les dieux du complexe composaient partout un panthéon fixe.
+
+## 6. Première fondation : Klyménos et sa sœur Chthonia
+
+Selon la tradition propre aux Hermioniens rapportée par Pausanias II, 35, 4, **Klyménos, fils de Phoronée, et Chthonia, sa sœur**, auraient fondé le sanctuaire de Déméter. Cette version donne une ancienneté héroïque à une institution religieuse : la généalogie remonte vers Phoronée, figure primordiale de l'Argolide. Rien ne permet de convertir le récit en acte de fondation datable.
+
+Le nom de Klyménos crée toutefois un problème central. Le même terme désigne, quelques lignes plus bas, la puissance honorée dans le temple situé en face de celui de Déméter. Un lecteur moderne pourrait croire qu'il s'agit partout du même personnage ; Pausanias lui-même résiste à cette identité et traite le Klyménos du sanctuaire opposé comme une épiclèse du souverain des enfers (II, 35, 9). L'articulation des deux passages manifeste un travail critique de l'auteur. On peut soupçonner un jeu local entre l'ancêtre héroïque et le dieu caché ; on ne peut prouver qu'ils aient toujours été assimilés.
+
+## 7. Seconde fondation : Colontas, la faute d'hospitalité et le feu
+
+La tradition argienne citée en **Pausanias II, 35, 4** raconte autre chose. Quand Déméter arrive en Argolide, Athéras et Mysios l'accueillent, tandis que **Colontas** refuse de la recevoir et de l'honorer. Sa fille Chthonia désapprouve cette impiété. Colontas périt dans l'incendie de sa maison ; Déméter conduit Chthonia à Hermione, où celle-ci établit le sanctuaire.
+
+La logique du récit est celle de l'hospitalité religieuse et du jugement porté sur la conduite d'une maison. La punition frappe le père réfractaire ; la fille devient l'agent d'une institution durable. Il serait imprudent de parler ici d'un rite historique d'immolation par le feu, car le texte raconte une sanction mythique. La rivalité entre récits hermionien et argien doit être préservée : le premier met en avant une fondation ancestrale locale, le second insère le sanctuaire dans l'itinéraire de Déméter à travers l'Argolide et souligne les obligations d'accueil envers la divinité.
+
+## 8. Variantes, rivalités de mémoire et politique des origines
+
+Les deux traditions sur Chthonia ne se combinent pas sans contradiction : dans l'une, elle est sœur de Klyménos et descend de Phoronée ; dans l'autre, elle est fille de Colontas. Dans l'une, une fondation commune sert d'explication ; dans l'autre, l'institution naît d'une crise morale et d'un déplacement imposé par la déesse. Cette pluralité est normale dans la mythologie grecque, où les récits sont localisés, racontés par des communautés différentes, révisés par des poètes et rationalisés par les érudits.
+
+Une analyse politique doit être précise. La première généalogie valorise l'autonomie et l'ancienneté d'Hermione ; la seconde garde la mémoire de liens avec Argos. Cela constitue une lecture possible de leurs effets, non une preuve qu'une cité ait créé sa version en réaction directe à une guerre ou à un traité connu. Le mythe peut stabiliser une prétention civique sans être une chronique diplomatique.
+
+## 9. Klyménos : le « célèbre » et le souverain invisible
+
+**Κλύμενος** dérive d'une famille lexicale associée au fait d'entendre et d'être renommé ; le nom peut évoquer celui « dont on entend parler », le « célèbre ». Mais Pausanias II, 35, 9 ne propose pas lui-même une étymologie de ce genre comme explication du culte. Il écrit plutôt qu'il ne croit pas à la venue d'un Argien nommé Klyménos : il y voit l'appellation du dieu qui règne sous la terre. Ce commentaire rapproche fonctionnellement Klyménos d'Hadès.
+
+Le nom pourrait fonctionner comme épiclèse évitant de prononcer trop directement celui d'une puissance redoutée. Une telle stratégie est connue dans la religion grecque, mais il faut éviter de la postuler comme explication psychologique universelle. Le sanctuaire d'Hermione dispose, selon Pausanias, d'un temple de Klyménos où l'on sacrifie : cela suffit à prouver une individualisation cultuelle du nom au IIe siècle de notre ère. Sa profondeur chronologique et ses rapports exacts avec le héros fondateur restent débattus.
+
+## 10. Korè, épouse de Klyménos : Lasos et l'histoire du couple souterrain
+
+Le fragment de **Lasos d'Hermione, fr. 702 PMG**, connu par Athénée (*Deipnosophistes* XIV, 624e–f ; rapprochement en X, 455c–d), associe Déméter à **Korè, « épouse de Klyménos »**. Ce témoignage est décisif : la figure de Klyménos n'est pas une invention tardive créée pour expliquer la topographie romaine. La formulation poétique indique qu'un couple infernal était concevable dans le langage religieux attaché à Hermione à l'époque archaïque, même si la date exacte de composition et ses circonstances de performance ne sont pas directement documentées.
+
+L'équation Korè = Perséphone est forte dans le contexte religieux grec, mais le fragment ne constitue pas un manuel de théologie. Il ne donne pas de rite d'enlèvement, d'accord avec Zeus ni de calendrier de retour. À Hermione, la relation conjugale est explicitement nommée ; ailleurs, les récits mettent davantage en avant l'enlèvement et la souffrance de la mère. Les lectures ne s'annulent pas : elles sélectionnent des traits différents d'une même constellation mythique.
+
+## 11. Lasos : musique, dialecte et fragment sans sigma
+
+Le début du chant attribué à Lasos, dans sa transmission athénéenne, s'ouvre sur **Δάματρα μέλπω Κόραν τε Κλυμένοιο ἄλοχον** : « Je célèbre Déméter et Korè, épouse de Klyménos » (traduction de travail). Les mots transmis continuent en évoquant le chant et une harmonie éolienne à la sonorité grave. On remarque la forme dialectale Δάματρα et le génitif poétique Κλυμένοιο.
+
+La tradition ancienne associe ce chant à un procédé **asigmatique**, évitant le son ou la lettre sigma, thème évoqué par Athénée X, 455c–d. Mais il faut se limiter au fragment effectivement conservé. Des reconstitutions modernes publiées en ligne prolongent parfois la composition sur plusieurs strophes : elles ne sont **pas** le texte antique de Lasos. Une édition universitaire doit citer le fragment selon PMG 702 et les témoins d'Athénée, distinguer correction éditoriale et leçon manuscrite, et éviter d'attribuer au poète des vers modernes réinventés.
+
+## 12. La fête annuelle : le nom Chthonia et la saison d'été
+
+Pausanias II, 35, 5 précise que la déesse porte le nom **Chthonia** et que les Hermioniens célèbrent tous les ans une fête homonyme **en été**. Ce détail résiste à une assimilation facile avec un calendrier exclusivement automnal ou hivernal des « mystères de la mort ». L'année agricole, les troupeaux et les fonctions souterraines s'articulent autrement selon les cités.
+
+La périodicité est assurée par le texte ; la date exacte ne l'est pas. Aucune conversion vers un mois moderne ou une fête panhellénique n'est légitime sans source supplémentaire. Le récit de Pausanias ne permet pas non plus d'établir que toutes les étapes du rituel qu'il décrit avaient été accomplies sous une forme identique cinq siècles auparavant. La stabilité de l'appellation cultuelle n'implique pas l'immobilité des pratiques.
+
+## 13. La procession : prêtres, magistrats et communauté visible
+
+Le cortège décrit par Pausanias II, 35, 5 est conduit par les **prêtres des dieux** et par les titulaires des **magistratures annuelles**. Viennent ensuite hommes et femmes ; des enfants participent également. L'ordre de marche doit être pris au sérieux : les autorités politiques ne se contentent pas d'assister à un rite privé, elles y prennent place dans la même scénographie que les représentants du culte.
+
+La procession donne à voir la collectivité comme un ensemble hiérarchisé. Les organes de la cité se présentent devant la déesse, tandis que les corps individuels deviennent des participants d'une action commune. Cependant, Pausanias ne fournit ni chiffre d'assistance, ni séparation exacte par classes sociales, ni règlement d'admission. On peut caractériser le rite comme civique, non en déduire l'égalité sociale de tous ses acteurs. Le passage ne dit pas si esclaves, étrangers résidents ou visiteurs étaient admis à tous ses moments.
+
+## 14. Les enfants en blanc et la fleur au signe de deuil
+
+Pausanias précise que les enfants revêtent des **vêtements blancs** et portent des couronnes faites d'une fleur appelée localement **kosmosandalon**. Il rapproche cette fleur d'une forme d'hyacinthe et note un signe ou des marques qui lui évoquent des lettres de deuil (II, 35, 5). L'association avec l'hyacinthe mythologique est une comparaison descriptive, non la preuve que le culte d'Hyacinthe structurait les Chthonia.
+
+L'identification botanique du kosmosandalon reste délicate : les noms populaires de plantes dans les textes anciens ne recouvrent pas nécessairement une espèce déterminée par la taxonomie moderne. La symbolique du blanc peut évoquer le rang cérémoniel ou la purification, mais aucune interprétation unique n'est imposée par le texte. Le motif des lettres de deuil signale que le pérégète découvre déjà dans les fleurs un langage mythologique ; cette médiation savante mérite d'être séparée des paroles réelles prononcées par les participants.
+
+## 15. Les bovins : conduite au temple et portes refermées
+
+Selon Pausanias II, 35, 6, des hommes conduisent un bovin adulte choisi dans le troupeau, attaché de cordes mais resté vigoureux et indocile. Lorsqu'il entre dans le temple, on le libère ; les portes sont aussitôt refermées. Le passage insiste sur la difficulté matérielle de contrôler la bête et sur le contraste entre espace extérieur public et espace intérieur réservé.
+
+Il ne faut pas réduire cet épisode à une image idyllique d'une victime consentante. Ce n'est pas le registre dominant chez Pausanias. La description contient de la contrainte, du risque et une séparation architecturale. On peut formuler l'hypothèse que la fermeture des portes marquait le passage dans un domaine réservé, mais la raison prescrite n'est pas explicitée. Le texte ne dit pas que le bovin entrait volontairement pour offrir sa vie. Il ne décrit pas non plus la procédure d'évacuation des carcasses ni le partage de viande.
+
+## 16. Quatre femmes âgées et la faucille : gestes et limites du savoir
+
+Dans l'intérieur du temple demeurent **quatre femmes âgées**, qualifiées de γρᾶες dans la description de Pausanias II, 35, 7–8. L'une d'elles, celle qui en a l'occasion, tranche la gorge du bovin au moyen d'une **faucille**. Puis on introduit un second, un troisième et un quatrième animal, chacun séparément. Ce rôle féminin est exceptionnel au regard des représentations normatives souvent dominées par des sacrificateurs masculins, mais il ne faut pas confondre exceptionnel, unique et transgressif.
+
+Le texte ne précise pas que les quatre femmes avaient toutes le même titre sacerdotal, ni qu'elles représentaient quatre saisons ou quatre âges de la vie : ces idées seraient des spéculations. Leur âge et leur accès à un intérieur caché constituent en revanche des propriétés attestées. La faucille rappelle un outil du travail agricole, sans qu'on puisse en inférer qu'une récolte particulière était mimée. La rigueur oblige à séparer le geste décrit de sa fonction symbolique conjecturale.
+
+## 17. Le côté de la chute : une régularité rituelle inexplicable
+
+Pausanias II, 35, 7 rapporte que tous les bovins doivent tomber du même côté que le premier. Cet élément, présenté comme une singularité merveilleuse, pose une difficulté pratique : comment les quatre femmes garantissaient-elles une chute identique ? L'auteur ne propose aucune explication opératoire. Le récit peut concerner une règle observée, une interprétation rituelle de gestes répétés, ou une tradition d'efficacité tenue pour extraordinaire.
+
+Il n'est pas scientifique d'inventer des contraintes mécaniques ou un système de présages que le texte ne nomme pas. On peut cependant réfléchir à la valeur d'un résultat uniforme : une suite sacrificielle où l'identité de comportement manifeste l'unité d'une offrande collective. Cette proposition appartient à l'analyse anthropologique et doit rester au conditionnel. La précision de la prescription n'autorise pas à reconstituer les mots de la prière ou la technique exacte de la mise à mort.
+
+## 18. Élien et Aristoclès : la victime soudain docile
+
+**Élien, *De la nature des animaux* XI, 4**, offre un contrepoint frappant. Il rapporte qu'à Hermione les plus grands bovins suivraient avec docilité une prêtresse âgée jusqu'à l'autel. Il cite à l'appui des vers d'**Aristoclès** où même une bête que dix hommes ne pourraient maîtriser se laisse mener par l'oreille. La prière souhaite que tous les champs d'Hermione prospèrent.
+
+Il serait artificiel de supprimer la contradiction avec Pausanias, qui décrit au contraire un animal attaché, impétueux et enfermé dans le temple. Les deux auteurs peuvent conserver des modes distincts de raconter une même efficacité rituelle ; on ne peut exclure des transformations historiques ou des focalisations différentes. Élien s'intéresse au merveilleux animalier et à la puissance persuasive de la déesse. Pausanias détaille le protocole de fermeture et de mise à mort. **La docilité miraculeuse n'est pas un fait zoologique documenté**, mais un langage littéraire de la puissance divine.
+
+## 19. Sacrifier dans le temple : une exception à interroger
+
+La description hermionienne se distingue de la forme courante du sacrifice grec monumental, où la mise à mort s'effectue devant un autel extérieur, dans une cérémonie plus largement visible. Ici, les portes du temple se referment et les femmes âgées réalisent l'acte dans l'espace clos. Toutefois, « forme courante » n'est pas synonyme de règle absolue : la diversité des sacrifices grecs exclut un modèle unique.
+
+Il manque notamment à la description les modalités précises de la combustion, du dépôt des restes, de la consommation éventuelle et de l'administration économique du troupeau. Le silence de Pausanias est une donnée, pas un permis d'invention. Des comparaisons avec des sacrifices à des puissances chthoniennes peuvent aider à formuler des questions sur l'orientation des offrandes ou les destinataires, mais elles ne prouvent pas qu'on brûlait entièrement les victimes à Hermione. Le caractère caché de la mise à mort est attesté ; l'ensemble de sa chaîne opératoire demeure partiellement inconnu.
+
+## 20. Les images des anciennes prêtresses et la mémoire des femmes
+
+Devant le temple se trouvaient, selon **Pausanias II, 35, 8**, quelques **images de femmes ayant exercé le sacerdoce de Déméter**. À l'intérieur, il aperçoit les sièges des femmes âgées et des représentations relativement récentes d'Athéna et de Déméter. Ces indications composent une histoire sociale du sanctuaire : les charges féminines produisaient une mémoire monumentale et des places dans l'espace.
+
+Une statue honorifique ne révèle pas à elle seule les conditions de nomination, l'origine familiale ou la durée du mandat de celle qu'elle représente. Il n'est pas non plus certain que les quatre femmes opérant les sacrifices aient été les mêmes personnes que celles dont les portraits commémoraient la prêtrise. L'ensemble interdit cependant de raconter le culte comme une religion exclusivement administrée par des hommes. Les rôles féminins étaient publics, institutionnels et, pour certaines, mémorisés par des images.
+
+## 21. Le secret central : un objet vu seulement par les anciennes
+
+Pausanias II, 35, 8 ajoute une formule capitale : l'objet que les Hermioniens honorent plus que tout le reste n'a été vu ni par lui, ni par aucun homme, étranger ou citoyen ; **seules les femmes âgées sauraient ce qu'il est**. Le texte ne donne pas son nom, sa matière ou son apparence. Le secret est affirmé au moment même où le pérégète décrit les sièges et les images visibles.
+
+Ce passage a parfois suscité des identifications aventureuses : pierre, effigie archaïque, relique, objet phallique, dépôt de semences ou icône de Perséphone. Sans nouvelle preuve, chacune reste conjecturale. Le lecteur doit résister à la tentation d'« achever » Pausanias à sa place. Le non-savoir est ici un fait historique sur l'accès différencié au sacré. Il constitue aussi une limite de la reconstruction iconographique : **aucune représentation de l'objet secret ne doit être présentée dans MYTHOS comme authentifiée.**
+
+## 22. Mystères d'Hermione : ce que l'on peut et ne peut pas affirmer
+
+La présence d'un secret rituel, d'un accès réservé et de possibles listes épigraphiques de participants conduit à poser la question d'un culte à mystères. Mais le mot moderne « mystère » rassemble plusieurs traits qui ne vont pas toujours ensemble : initiation individuelle, vision d'objets cachés, promesse eschatologique, réunion périodique et règles de silence. Pausanias ne décrit pas explicitement pour Hermione un rite d'initiation comparable au récit d'Éleusis.
+
+Une conférence scientifique de **Jenny Wallensten**, annoncée pour le 27 mai 2025 à l'Institut archéologique autrichien, interroge précisément l'identification de listes de *mystai* et la nature des participants. Le titre même — *Lists of Mystai or Mysterious Lists?* — manifeste que le statut documentaire est discuté. Il serait prématuré de convertir ces listes en preuve d'un règlement complet de mystères hermioniens ou d'une doctrine locale sur l'immortalité. On peut parler d'une forte dimension réservée et d'une hypothèse d'initiation, sans confondre les deux.
+
+## 23. Le temple de Klyménos en face de Déméter
+
+D'après **Pausanias II, 35, 9**, un autre temple, entouré de statues, se trouvait en face de celui de Chthonia. Il portait le nom de Klyménos, et l'on y sacrifiait au dieu. Le voisinage cultuel donne un cadre à la parole de Lasos sur Korè épouse de Klyménos : la poésie et le paysage réunissent Déméter, sa fille et une puissance régissant le monde inférieur.
+
+Le fait que Pausanias identifie Klyménos au dieu souterrain n'implique pas que toutes les communautés grecques aient utilisé ce nom pour Hadès. C'est un usage local, interprété par un auteur instruit des équivalences panhelléniques. La proximité de deux sanctuaires permet de parler de relation cultuelle ; elle n'établit pas la simultanéité de construction des édifices, ni une liturgie commune à toutes les fêtes. La question exige datation des fondations, épigraphie et analyse des circulations autour du Prôn.
+
+## 24. Ares, le portique de l'Écho et la pluralité du lieu
+
+Dans la même description, Pausanias II, 35, 10 signale un temple d'**Arès**, puis un portique appelé **de l'Écho**, où une voix se répercute plusieurs fois. Ces renseignements ont une valeur topographique propre. Ils révèlent qu'un paysage où Déméter et Klyménos dominent le récit accueille aussi d'autres dieux et une architecture possédant une expérience acoustique remarquable.
+
+On pourrait être tenté de faire de l'écho une symbolique universelle des voix des morts. Aucun texte antique ne fournit ici cette interprétation. Le portique doit d'abord être traité comme un bâtiment décrit par ses effets auditifs. De même, la présence d'Arès ne transforme pas les Chthonia en fête guerrière. L'enquête sur les cultes locaux s'améliore lorsqu'on garde la complexité de la cohabitation divine sans imposer une signification totalisante à chaque détail.
+
+## 25. Le lac Achérousien et la géographie locale des Enfers
+
+Derrière le temple de Chthonia, **Pausanias II, 35, 10** distingue trois enceintes désignées par les Hermioniens comme lieux de **Klyménos**, de **Ploutôn** et du **lac Achérousien**. Le nom renvoie à une topographie infernale connue dans la poésie grecque, mais sa présence à Hermione relève d'une localisation propre à cette cité. Les Grecs ne possédaient pas de carte unique des Enfers ; différents sites revendiquaient des entrées ou des paysages de l'au-delà.
+
+La succession de noms n'autorise pas à restituer trois grottes réelles ou un réseau hydraulique souterrain précis. Pausanias parle d'espaces délimités par des murs de pierre et d'une ouverture dans l'aire de Klyménos. L'archéologie peut rechercher des vestiges topographiques, mais le nom « Achérousien » n'est pas la preuve d'un lac matériel de dimensions connues. Il s'agit d'une géographie sacrée où le récit attribue une fonction cosmique à des lieux proches.
+
+## 26. Héraclès ramène Cerbère : un gouffre d'Hermione
+
+La tradition hermionienne situait au lieu de Klyménos le **χάσμα**, ouverture du sol par laquelle Héraclès aurait remonté le chien des Enfers, d'après **Pausanias II, 35, 10**. L'épisode appartient au dernier groupe des travaux d'Héraclès ; il associe une force héroïque capable de franchir les limites ordinaires à une topographie qui rend ce franchissement racontable aux visiteurs.
+
+Cette revendication locale n'épuise pas les variantes. Des traditions situent ailleurs les passages du héros, notamment en Béotie, où Pausanias IX, 34, 5 rapporte une mémoire liée au mont Laphystion. Il n'y a pas lieu de demander quel gouffre était « réellement » l'entrée des Enfers. L'historien doit rechercher pourquoi des cités pouvaient inscrire un exploit panhellénique dans leur propre paysage et quels bénéfices de prestige ou d'identité en résultaient. À Hermione, l'exploit héroïque renforce la cohérence d'un ensemble déjà orienté vers les puissances souterraines.
+
+## 27. Les morts d'Hermione et le passage sans obole : précautions
+
+Le lien entre Hermione, les divinités des profondeurs et l'économie symbolique du passage vers les morts a suscité des traditions érudites concernant les rites funéraires locaux. Avant de répéter l'affirmation selon laquelle les Hermioniens auraient dispensé leurs morts de l'obole de Charon parce qu'ils disposaient d'une entrée de l'Hadès, il faut identifier le témoin antique précis et sa date. Pausanias II, 35, 4–10, cité ici comme source principale, ne suffit pas à lui seul pour établir cette pratique.
+
+Une méthode rigoureuse distingue la croyance sur la géographie d'Hadès, les pratiques effectivement repérables dans les tombes et les généralisations modernes. L'absence éventuelle d'une monnaie dans une sépulture ne prouve pas la croyance au passage gratuit ; les monnaies funéraires varient selon les siècles, les régions et les contextes. Une comparaison entre sources littéraires et séries archéologiques est indispensable avant toute affirmation quantitative sur le traitement hermionien des morts.
+
+## 28. L'hymne homérique à Déméter : récit de perte, non règlement local
+
+L'**Hymne homérique à Déméter**, notamment vers 1–39, 90–205 et 305–404, présente l'enlèvement de Perséphone, la recherche de la mère, l'arrêt de la fécondité des champs et le compromis qui assure le retour périodique de la jeune déesse. Ce texte éclaire l'association mythique de Déméter, Korè et du souverain infernal. Il ne faut pourtant pas le transformer en commentaire direct de la fête hermionienne.
+
+L'hymne inscrit Déméter dans le territoire éleusinien et dans un récit de reconnaissance et de fondation religieuse distinct. Il ne décrit ni les quatre femmes âgées d'Hermione ni l'immolation à la faucille. Comparer ces documents fait apparaître deux constructions de la relation entre vie et profondeur terrestre : à Éleusis, la quête de la fille et le don de rites ; à Hermione, la présence civique d'une Déméter Chthonia associée spatialement à un souverain infernal. L'identité divine commune ne rend pas interchangeables les institutions.
+
+## 29. Perséphone : fille, épouse, souveraine
+
+Dans l'hymne éleusinien, Korè est d'abord la fille enlevée, objet de la douleur de Déméter et sujet d'un retour négocié. Dans le fragment de Lasos, elle est aussi **l'épouse de Klyménos**. Ces deux manières de la nommer engagent des relations différentes : filiation, séparation, alliance conjugale et pouvoir dans l'au-delà. Aucune ne doit effacer les autres.
+
+Une approche strictement généalogique serait insuffisante, car le statut de Korè ne se réduit pas à l'identité de son mari ou de sa mère. Les inscriptions, épiclèses et images consacrées à Perséphone ailleurs en Grèce la montrent comme destinataire autonome d'honneurs. Mais les documents d'autres sites ne prouvent pas la présence de leurs objets ou de leurs rites à Hermione. L'enquête doit distinguer la constellation religieuse panhellénique de ses réalisations locales.
+
+## 30. Archéologie : enquête gréco-suédoise sur le sanctuaire
+
+Les recherches modernes à Hermion sont conduites en collaboration par l'**Éphorie des antiquités d'Argolide**, l'**Institut suédois d'Athènes** et des équipes universitaires, notamment de Lund. Les campagnes de terrain menées à partir de 2015 ont employé relevés topographiques, photographie, photogrammétrie, prospections et études du bâti. Les résultats concernant le temple supposé de Déméter Chthonia sont synthétisés par **Jesper Blid et Baukje van den Berg, « The Temple of Demeter Chthonia at Hermione », *Opuscula* 14 (2021), p. 101–134, DOI 10.30549/opathrom-14-07**.
+
+L'article présente une étude architecturale des fondations d'un temple classique, identifié de manière **probable**, et des éléments antiques en remploi dans l'église des Taxiarches située sur les fondations. L'identification doit conserver son statut interprétatif. Des fondations ne portent pas automatiquement le nom du dieu ; leur attribution résulte de la confrontation entre topographie, vestiges et descriptions. Les propositions de plan sont des reconstructions argumentées, non des photographies du sanctuaire antique complet.
+
+## 31. L'église des Taxiarches et le remploi des blocs
+
+La présence d'une église postérieure édifiée au-dessus d'éléments du complexe antique impose de prendre en compte les transformations du paysage religieux. Blid et van den Berg (2021) étudient des blocs architecturaux antiques employés dans les murs de l'église des **Taxiarches**, ainsi que les fondations classiques. Les matériaux peuvent contribuer à évaluer proportions, ordres architecturaux et phases de construction.
+
+Un remploi ne garantit pas la conservation de la position originelle d'un élément. Une corniche trouvée dans une maçonnerie médiévale ou moderne peut provenir d'un édifice voisin et avoir été déplacée plusieurs fois. Les restitutions doivent donc distinguer bloc en place, pièce réemployée, relevé ancien et hypothèse d'attribution. L'existence de continuités de lieu n'autorise pas à parler d'identité doctrinale entre le sanctuaire de Déméter et l'église chrétienne. Le même relief urbain accueille des institutions historiquement différentes.
+
+## 32. Relevés du XIXe siècle et reconstitution architecturale
+
+Les observations des voyageurs et architectes du XIXe siècle, notamment celles de l'**Expédition scientifique de Morée** publiée en 1833, sont utiles pour connaître des éléments visibles avant les transformations récentes. Blid et van den Berg les confrontent aux restes conservés et aux blocs réemployés. Ces documents ont un statut double : témoignages de terrain et productions graphiques de leur époque, avec leurs propres conventions de restitution.
+
+Une gravure ancienne ne devrait pas être créditée comme photographie objective d'un édifice intact. L'analyse scientifique demande un inventaire de ce qui fut dessiné d'après nature, complété par symétrie ou proposé sur la base d'analogies. MYTHOS doit présenter les états de la preuve dans les légendes et signaler explicitement les parties hypothétiques de tout modèle photoréaliste du temple. Le dossier architectural est un chantier de raisonnement, non un décor destiné à authentifier les récits de sacrifice.
+
+## 33. Épigraphie : prêtresses, listes et participants possibles
+
+Le dossier épigraphique d'Hermione permet d'aller au-delà de la prose de Pausanias, mais ne doit pas être utilisé sous forme de citations d'inscriptions non contrôlées. Les textes relatifs au sanctuaire demandent lecture des éditions, état des lacunes, datation, provenance des pierres et examen des restitutions. Les inscriptions supposées énumérer des **mystai** constituent un problème ouvert : certaines peuvent documenter des personnes associées à un groupe cultuel sans décrire l'initiation elle-même.
+
+L'interrogation récente de Jenny Wallensten sur l'identité des personnes désignées par ces listes rappelle qu'un nom collectif ne prouve ni une cérémonie complète ni un salut garanti après la mort. En l'absence d'édition épigraphique vérifiée pour chaque texte, on s'interdit de fabriquer des numéros IG ou SEG et de prétendre citer une formule lapidaire précise. Le programme de recherche prioritaire est de constituer un catalogue contrôlé : support, lieu de découverte, époque paléographique, lecture, traduction et contexte d'usage.
+
+## 34. La ville avant et après le temple : temporalités distinctes
+
+Les investigations de Lund sur l'urbanisme d'Hermion se sont étendues à la muraille, à la nécropole, à l'organisation des quartiers et à l'approvisionnement en eau. La relation entre ces résultats et le sanctuaire est précieuse, à condition d'éviter une hypothèse de continuité automatique : une occupation archaïque, une construction classique, des restaurations impériales et des réemplois tardifs peuvent appartenir à des systèmes urbains très différents.
+
+La procession que Pausanias voit ou rapporte à l'époque impériale traversait une ville remodelée par des siècles d'histoire. Il serait donc fragile de tracer son itinéraire directement sur une carte de l'époque archaïque. La documentation disponible autorise des hypothèses de circulation et des superpositions chronologiques, non une vidéo exhaustive de la fête. Les restitutions 3D doivent être datées par phase, accompagnées d'un plan des vestiges et explicitement séparées des images de fiction.
+
+## 35. Philosophie de l'hospitalité : Colontas et la faute d'accueillir
+
+Dans le second récit de fondation, l'offense décisive de Colontas n'est pas un meurtre, mais le refus de recevoir la déesse. La catastrophe de la maison figure une rupture entre la sphère domestique et une norme supérieure d'accueil. Cette idée appartient à une logique religieuse de l'hospitalité que l'on peut rapprocher des récits de théoxénie, où un dieu dissimulé éprouve la conduite humaine.
+
+Une comparaison philosophique avec les normes grecques de *xenía* est pertinente ; elle ne permet pas d'affirmer que les Hermioniens formulaient une théorie morale universelle. Le récit valorise la fille qui s'oppose au refus paternel et reçoit la responsabilité d'une fondation. On peut donc observer comment l'autorité cultuelle naît narrativement d'une désobéissance vertueuse. Cette lecture explicite la structure du mythe sans prétendre connaître les débats politiques réels qui auraient entouré sa formation.
+
+## 36. Pouvoir civique et compétence rituelle féminine
+
+La fête met en scène deux modalités d'autorité. Les magistrats ouvrent la marche et personnifient l'ordre de la polis ; quatre femmes âgées détiennent, derrière des portes closes, la compétence opératoire la plus redoutable. Le texte montre une distribution de fonctions, non un renversement général de la hiérarchie sociale. Il n'implique pas que ces femmes gouvernaient la cité en dehors du sanctuaire.
+
+La notion aristotélicienne de répartition des charges peut servir ici de **comparaison analytique moderne** : un groupe reconnaît des offices distincts dont le droit d'agir varie avec le lieu, l'âge et la pratique. Mais Aristote n'a pas décrit la cérémonie d'Hermione à travers cette grille. L'intérêt philosophique est de dissocier visibilité publique et maîtrise technique. Une autorité peut rester invisible à la foule et néanmoins être indispensable à la reproduction d'une institution collective.
+
+## 37. La violence sacrificielle : compter sans naturaliser
+
+Quatre bovins mis à mort, des portes refermées, une faucille et une chute prescrite : ces gestes exigent une description précise qui ne soit ni romantique ni sensationnaliste. Le langage antique de la fête peut intégrer la violence comme relation réglée aux dieux. Mais le respect d'une pratique comme objet historique n'oblige pas l'historien à neutraliser les dimensions concrètes de la contrainte imposée aux animaux.
+
+Comparer la scène aux **Bouphonies** athéniennes est instructif pour l'analyse de la mise à mort bovine, de l'outil et de la responsabilité. Les Bouphonies disposent toutefois d'un autre scénario, notamment dans les récits relatifs à Zeus Polieus : le rapprochement n'autorise pas à importer leur procès rituel de la hache à Hermione. La source hermionienne dit faucille, femmes âgées, espace clos et succession de bêtes. Le vocabulaire comparatif ne doit jamais remplacer les gestes attestés par un schéma général.
+
+## 38. Nietzsche : origine, cruauté et danger de l'anachronisme
+
+Une confrontation avec **Nietzsche**, *Généalogie de la morale* II, peut éclairer la difficulté d'une pensée qui veut expliquer la permanence d'une institution à partir d'une origine supposée. Nietzsche insiste sur la réinterprétation successive des pratiques et des sanctions : la fonction présente d'une coutume n'est pas automatiquement la cause de sa naissance. Appliquée à Hermione, cette précaution est féconde. La fête du IIe siècle de notre ère ne peut être projetée sans examen sur l'époque archaïque de Lasos.
+
+Mais il serait fallacieux d'expliquer les quatre sacrifices par une « volonté de puissance » propre aux Hermioniens, notion philosophique postérieure de nombreux siècles. La comparaison vaut comme méthode de vigilance face aux fictions d'origine et aux justifications rétrospectives. Elle ne remplace ni la philologie de Pausanias ni la stratigraphie des fondations.
+
+## 39. Hegel : reconnaître la différence entre visible et caché
+
+Dans une perspective inspirée de **Hegel**, on peut réfléchir à la manière dont une communauté produit une conscience de ses institutions à travers des gestes publics et des médiations symboliques. La procession rassemble les membres de la cité dans une forme perceptible ; le sanctuaire clos rappelle qu'une autorité religieuse ne se rend pas entièrement disponible au regard de tous.
+
+Il serait néanmoins inexact d'attribuer à Hegel une interprétation historique de Déméter Chthonia à Hermione sans texte précis. Sa philosophie de la religion et ses catégories de la reconnaissance fonctionnent ici comme instruments modernes d'analyse, non comme témoignages antiques. La dialectique entre manifestation collective et réserve sacerdotale peut aider à poser des questions sur l'appartenance, l'exclusion et le savoir, mais elle ne dévoile pas la nature de l'objet secret.
+
+## 40. Platon et les promesses de l'au-delà : comparaison à distance
+
+Dans la *République* II, 364b–365a, Platon critique certaines pratiques de spécialistes religieux qui prétendent agir sur les relations avec les dieux et promettent des avantages à leurs clients ; le *Phédon* 69c–d réinterprète des paroles relatives à l'initiation et à la purification. Ces textes montrent qu'en Grèce la question des rites, du salut et de la valeur morale des initiés faisait l'objet de conflits intellectuels.
+
+Ils n'attestent cependant ni le contenu du secret d'Hermione, ni une promesse eschatologique liée aux Chthonia. Les utiliser exige de signaler explicitement ce déplacement d'objet. Les philosophes permettent d'interroger le rapport entre pratique religieuse et excellence morale ; ils ne dispensent pas de vérifier quelles paroles cultuelles sont effectivement conservées pour la ville d'Argolide.
+
+## 41. Comparaison avec Éleusis, Lerne et les déesses de la terre
+
+**Éleusis** offre un complexe célèbre où Déméter et Korè reçoivent des rites initiatiques et un récit d'origine ; **Lerne**, en Argolide, fournit un autre environnement religieux où les eaux, les descentes et les puissances souterraines ont des fonctions majeures. Comparer ces sites à Hermione aide à formuler des problèmes de topographie, d'accès et de mémoire. La seule présence de Déméter ne suffit pourtant pas à postuler la même procession ou les mêmes objets sacrés.
+
+De même, les représentations méditerranéennes de « déesses-mères » ou de « grande Terre » ne constituent pas des identités historiques démontrées. Pour établir un transfert cultuel, il faudrait des continuités documentaires, inscriptions, mobilités reconnues, objets situés en contexte ou emprunts textuels précis. MYTHOS écarte donc les assimilations automatiques entre Déméter Chthonia, Isis, Ereshkigal ou une déesse anatolienne : les comparaisons thématiques peuvent être exposées, mais ne prouvent pas une source commune.
+
+## 42. La terre qui nourrit et celle qui reçoit les morts
+
+Le dossier hermionien oblige à rompre avec une opposition trop rapide entre une Déméter « agricole » et un Hadès « funéraire ». La terre est simultanément milieu de germination, support territorial de la cité, lieu d'enfouissement des défunts et scène imaginaire d'accès à un royaume invisible. La fête estivale, les bovins et le vœu de prospérité d'Aristoclès évoquent la première dimension ; le temple de Klyménos, Korè épouse souterraine et le gouffre d'Héraclès évoquent la seconde.
+
+Le caractère fécond de cette constellation ne prouve pas qu'une doctrine hermionienne systématique expliquait le cycle des végétaux par les voyages des âmes. L'historien doit maintenir la distinction entre analogie cosmologique et enseignement attesté. La force de ce cas réside précisément dans le voisinage de domaines que la typologie moderne sépare, mais que les institutions grecques pouvaient réunir en un même paysage.
+
+## 43. État des preuves : de l'attesté à l'hypothétique
+
+**Établi par les sources** : existence de l'épiclèse Chthonia et de la fête estivale selon Pausanias ; deux récits de fondation divergents ; procession mêlant autorités et participants ; mise à mort de quatre bovins par quatre femmes âgées selon une description antique ; temple de Klyménos ; localisation légendaire de la remontée de Cerbère ; chant de Lasos associant Déméter, Korè et Klyménos ; fondations classiques étudiées archéologiquement. **Plausible, mais discuté** : identification précise de chaque bâtiment ; ancienneté des détails rituels ; organisation d'initiations ; fonction des listes de participants ; rapport exact entre objet caché et iconographie.
+
+**Non établi** : identité matérielle de l'objet secret, déroulement intégral du repas sacrificiel, numéros épigraphiques non consultés, existence d'un rite de résurrection, origine préhistorique assurée de la fête ou continuité cultuelle sans lacune. Ce classement doit accompagner toute future restitution, carte, conférence ou notice muséale issue du dossier.
+
+## 44. Programme iconographique documentaire et droits
+
+1. Carte géographique d'Hermion dans l'Argolide, relief et ports, à partir des travaux de l'Institut suédois d'Athènes ; crédit de l'institution et autorisation de reproduction à vérifier. 2. Plan du noyau ancien localisant le temple présumé de Déméter, le Prôn, le secteur des Taxiarches et les murs connus. 3. Photographie des fondations classiques relevées par Blid et van den Berg. 4. Tableau chronologique de l'histoire constructive, avec éléments certains et hypothèses explicités. 5. Photographies des blocs antiques remployés dans l'église des Taxiarches. 6. Dessin de l'Expédition scientifique de Morée (1833), avec date et distinction des restitutions. 7. Relevé du réseau des temples voisins de Pausanias sans prétendre à un plan exact. 8. Fac-similé de l'édition du fragment 702 PMG, respectant les droits d'édition. 9. Schéma philologique Chthonia / Chthonia / Chthonia (déesse, héroïne, fête). 10. Tableau comparé Pausanias–Élien : bête rétive et bête docile. 11. Plan d'analyse de la procession comme séquence rituelle, clairement hypothétique pour les distances. 12. Carte des traditions de remontée de Cerbère, Hermione et Laphystion distingués. 13. Inventaire critique des témoignages sur les femmes chargées du culte. 14. Photographies des paysages du Prôn et de Bisti, non présentées comme la chambre sacrée. 15. Tableau de provenance et de statut des inscriptions pertinentes après édition. 16. Reconstitution architecturale **photoréaliste**, exclusivement si elle indique la phase chronologique et la part conjecturale ; jamais d'image faussement présentée comme l'objet secret, et aucune illustration 2,5D.
+
+Les images de l'article *Opuscula* de 2021 ne sont pas toutes librement réutilisables. La disponibilité du PDF ne vaut pas autorisation de publier chaque photographie. Crédits et licences devront être vérifiés document par document avant intégration au site.
+
+## 45. Bibliographie : sources antiques et éditions de travail
+
+**Sources primaires** : Pausanias, *Description de la Grèce* II, 34–36, principalement II, 35, 4–10 ; Élien, *De la nature des animaux* XI, 4, avec citation d'Aristoclès ; Athénée, *Deipnosophistes* X, 455c–d et XIV, 624e–f (Lasos d'Hermione, fr. 702 *Poetae Melici Graeci*) ; *Hymne homérique à Déméter*, vers 1–39, 90–205, 305–404 ; Pausanias IX, 34, 5 pour une variante béotienne de la remontée de Cerbère ; Platon, *République* II, 364b–365a et *Phédon* 69c–d pour une comparaison philosophique, jamais comme sources locales.
+
+**Éditions et instruments** : D. L. Page (éd.), *Poetae Melici Graeci*, Oxford, 1962, fr. 702 ; Pausanias, éditions critiques de la *Periegesis* et traductions annotées ; Perseus Digital Library pour le repérage bilingue, à contrôler contre les éditions ; Athénée, texte et appareil critiques dans les éditions des *Deipnosophistae*. La mention d'une édition ne dispense pas de collationner les leçons lorsqu'une restitution philologique est discutée.
+
+## 46. Bibliographie : travaux modernes et recherches de terrain
+
+**Architecture et site** : Jesper Blid et Baukje van den Berg, « The Temple of Demeter Chthonia at Hermione », *Opuscula* 14 (2021), p. 101–134, DOI : [10.30549/opathrom-14-07](https://doi.org/10.30549/opathrom-14-07). Projet *An ancient cityscape and its people – A study of ancient Hermion*, université de Lund, Institut suédois d'Athènes et Éphorie d'Argolide, terrain 2015–2023 (notice institutionnelle : https://portal.research.lu.se/en/projects/an-ancient-cityscape-and-its-people-a-study-of-ancient-hermion/). Expédition scientifique de Morée, *Architecture, sculpture, inscriptions et vues*, t. II, 1833, pour les observations architecturales anciennes.
+
+**Rites et interprétation** : Walter Burkert, *Greek Religion*, Cambridge (MA), 1985 [original allemand 1977] ; Robert Parker, *On Greek Religion*, Ithaca, 2011 ; Sarah Iles Johnston, *Ancient Greek Divination*, Malden, 2008 (méthode générale, non monographie d'Hermione) ; Jenny Wallensten, « Lists of Mystai or Mysterious Lists? In Search of the Worshippers of Demeter Chthonia in Hermione », conférence annoncée à l'Institut archéologique autrichien le 27 mai 2025 : https://www.oeaw.ac.at/en/oeai/events/event-detail/lists-of-mystai-or-mysterious-lists-in-search-of-the-worshippers-of-demeter-chthonia-in-hermione. La conférence est un état de la discussion, non une publication de ses conclusions supposées. Lucia Prauscello, étude de Lasos fr. 702 et de l'épiclèse **Meliboia**, *Classical Quarterly* 61/1 (2011) : bibliographie complète à vérifier sur l'édition avant ajout de pagination.
+
+**Philosophie comparative** : Nietzsche, *Zur Genealogie der Moral*, II ; Hegel, *Phänomenologie des Geistes*, sections consacrées à la religion ; les rapprochements sont méthodologiques et ne sont jamais présentés comme des attestations de culte.
+
+## 47. Conclusion : la puissance d'un sanctuaire que personne ne possède tout entier
+
+Déméter Chthonia à Hermione ne se laisse réduire ni à la « mère du blé », ni à une « déesse des morts », ni à un mystérieux résidu préhellénique. Les sources donnent à voir une institution civique où la communauté se rassemble, où des femmes âgées disposent d'une compétence réservée, où l'animal sacrificiel est intégré à un dispositif de clôture et où les récits locaux posent à proximité la maison du souverain invisible. La poésie de Lasos, les témoignages de Pausanias et d'Élien, les pierres étudiées au XXIe siècle appartiennent à des temps différents ; c'est leur confrontation prudente, et non leur fusion, qui produit une connaissance nouvelle.
+
+Le problème philosophique majeur est celui d'un ordre religieux à plusieurs niveaux de visibilité. Les magistrats et les familles donnent une forme publique à la fête ; les officiantes conservent ce que le visiteur ne peut voir ; les récits d'origine justifient la place du sanctuaire sans en exposer les débuts historiques. Ce n'est pas une faiblesse documentaire à dissimuler par la fiction : c'est le cœur même de l'histoire du sacré à Hermione. L'étude demeure ouverte aux futurs résultats épigraphiques, aux contrôles des fondations et à une comparaison plus systématique des rites de Déméter dans l'Argolide.
+

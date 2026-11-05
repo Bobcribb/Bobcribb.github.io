@@ -1084,6 +1084,12 @@
           "path": "chapitres/encyclopedie/chapitre-431-zeus-lykaios-mont-lykaion-arcadie-orages-lykaia-sacrifices.md",
           "request_sha256": "99730597b24b6c97d6f32f8c0564a9c67652b985743a6c90ae8dbadff81fe4a1",
           "initial_source_sha256": "9f486dbf53cd5c7282e4748b1430ea8af314cff43524e75866a8b3787413e7b9"
+        },
+        "e93c0d7a-651b-4ea7-bf26-8caebdd2de11": {
+          "number": 432,
+          "path": "chapitres/encyclopedie/chapitre-432-demeter-chthonia-hermione-fete-sacrifice-klymenos-topographie-sacree.md",
+          "request_sha256": "f0396bca4684b85354a10adb36ba3b743ae931aede431ee1f0ff42419866cca2",
+          "initial_source_sha256": "f06127890a9fbef5683211b7a69fa4c3f9fd1aa449f25b85c6c7b1d38bc935c9"
         }
       }
     },
@@ -2455,6 +2461,12 @@
           "path": "chapitres/comparatif/volume-ccxlvi-mc-066-quand-les-dieux-ecrivent-tablettes-destin-scribes-archives-au-dela.md",
           "request_sha256": "50f17c34a017a74f38d8a8c1d35a849718d4387470785b3475896332f2865fba",
           "initial_source_sha256": "9cfc65df6667c0c1cb38c8cb330fb70aad5f22dcce52a86883a4356fc04621d3"
+        },
+        "9e670d67-0d05-4670-a067-202611050067": {
+          "number": 247,
+          "path": "chapitres/comparatif/volume-ccxlvii-mc-067-quand-les-dieux-se-marient-hierogamie-alliance-filiation-rites-et-souverainete.md",
+          "request_sha256": "78fc028490f7ed51ca940752dbe8b5b6ac9c817f5a483525f611be8751d36648",
+          "initial_source_sha256": "aa79b593a2d9238d1c75808570b840305cad029e9f843c84fccc2ab0810fc5e6"
         }
       }
     }
