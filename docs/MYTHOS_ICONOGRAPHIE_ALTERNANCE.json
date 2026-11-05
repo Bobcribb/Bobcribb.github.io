@@ -5,114 +5,45 @@
   "branch": "main",
   "latest_session": {
     "date": "2026-11-05",
-    "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "previous_kind": "AUDIT ET CORRECTION",
-    "next_kind": "AUDIT ET CORRECTION",
-    "scope": "Séance 46 : réemploi de trois photographies d'objets antiques déjà présents dans le dépôt, avec attribution prudente, légendes, datations, droit des images, statut non IA et lien institutionnel dans les monographies Iliade, Odyssée, Théogonie. Aucune étude numérotée ni nouvelle ressource binaire.",
-    "basis_commit": "9c0bfeecf9303cd499d8a29dd75a9039b8068079",
-    "figures_added": [
-      {
-        "page": "philosophie-iliade.html",
-        "section": "lecture-section-37",
-        "id": "icono-iliade-thetis-armure-deepdene-met-254187-20261105",
-        "src": "/media/2026/10/mythos-helene-menelas-stamnos-deepdene-met-41-162-20.jpg"
-      },
-      {
-        "page": "philosophie-odyssee.html",
-        "section": "lecture-section-23",
-        "id": "icono-odyssee-artemision-zeus-poseidon-attribution-20261105",
-        "src": "/media/2026/10/mythos-bronze-artemision-zeus-ou-poseidon.jpg"
-      },
-      {
-        "page": "philosophie-theogonie.html",
-        "section": "lecture-section-31",
-        "id": "icono-theogonie-poseidon-berlin-met-254184-20261105",
-        "src": "/media/2026/10/met-poseidon-berlin-painter-41-162-17.jpg"
-      }
-    ],
-    "archaeological_notices": [
-      "Iliade XVIII : stamnos du Peintre de Deepdene, Met 41.162.20a-b (470–460 av. J.-C.), guerrier éventuellement Achille, Thétis, Ménélas et Hélène ; ne représente pas directement le bouclier homérique.",
-      "Odyssée V : bronze du cap Artémision, musée national archéologique d'Athènes X 15161 (vers 460 av. J.-C.) ; identification Zeus/Poséidon discutée, photographie George E. Koronaios 2018 sous CC BY-SA 4.0.",
-      "Théogonie 453–458 : amphore attribuée au Peintre de Berlin, Met 41.162.17 (470–465 av. J.-C.), Poséidon ; ne montre pas Cronos engloutissant les enfants."
-    ],
-    "checks_before_commit": {
-      "pages": 3,
-      "before": [
-        {
-          "path": "philosophie-iliade.html",
-          "ids": 115,
-          "anchors": 111,
-          "images": 31,
-          "duplicate_ids": 0,
-          "broken_anchors": 0,
-          "imgs_missing_alt": 0
-        },
-        {
-          "path": "philosophie-odyssee.html",
-          "ids": 114,
-          "anchors": 111,
-          "images": 30,
-          "duplicate_ids": 0,
-          "broken_anchors": 0,
-          "imgs_missing_alt": 0
-        },
-        {
-          "path": "philosophie-theogonie.html",
-          "ids": 118,
-          "anchors": 113,
-          "images": 30,
-          "duplicate_ids": 0,
-          "broken_anchors": 0,
-          "imgs_missing_alt": 0
-        }
-      ],
-      "after": [
-        {
-          "path": "philosophie-iliade.html",
-          "ids": 116,
-          "anchors": 111,
-          "images": 32,
-          "duplicate_ids": 0,
-          "broken_anchors": 0,
-          "imgs_missing_alt": 0
-        },
-        {
-          "path": "philosophie-odyssee.html",
-          "ids": 115,
-          "anchors": 111,
-          "images": 31,
-          "duplicate_ids": 0,
-          "broken_anchors": 0,
-          "imgs_missing_alt": 0
-        },
-        {
-          "path": "philosophie-theogonie.html",
-          "ids": 119,
-          "anchors": 113,
-          "images": 31,
-          "duplicate_ids": 0,
-          "broken_anchors": 0,
-          "imgs_missing_alt": 0
-        }
-      ],
-      "missing_selected_local_media": 0,
-      "new_binary_files": 0,
-      "source_links_checked": "Met 254187, Met 254184 et ministère grec de la Culture ; licence photo Artémision Commons",
-      "added_figure_count": 3
+    "kind": "AUDIT ET CORRECTION",
+    "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "scope": "Séance 47 : audit GitHub Actions et correction de deux liens internes cassés dans les comédies CIV (104) et CV (105), en Markdown et HTML ; test de non-régression étendu, textes universitaires et numéros inchangés.",
+    "audit_evidence": {
+      "github_actions_run": 41977662560,
+      "audit_status": "success (0 erreur bloquante, 2 avertissements sur les liens des comédies 104/105)",
+      "pages_scanned": 1501,
+      "indexed_documents": 1444,
+      "local_links_checked": 129680,
+      "fragment_links_checked": 37992,
+      "broken_href": "/comedies-grecques/",
+      "canonical_href": "/comedies-grecques-aristophane-menandre/",
+      "targeted_html_pages": 5,
+      "targeted_html_ids": 496,
+      "targeted_same_page_anchors": 465,
+      "targeted_images": 106,
+      "targeted_duplicate_ids": 0,
+      "targeted_broken_same_page_anchors": 0,
+      "targeted_img_missing_alt": 0,
+      "basis": "Contrôles des pages philosophie-iliade.html, philosophie-odyssee.html, philosophie-theogonie.html et volumes 104 et 105."
     },
-    "publication_guard": {
-      "figures_before": 37,
-      "figures_after": 40,
-      "unique_media_before": 29,
-      "unique_media_after": 32,
-      "stale_html_and_tampered_jpeg_test": "tests/test_verify_live_site_assets.py::RecentFigurePublicationTests.test_session_46_three_archaeological_figures_are_required_on_public_site"
+    "corrections": {
+      "modified_paths": [
+        "chapitres/comedies/volume-104-philyllios-dodekate-anthesteries-choes-amphore-metrete-paratragedie.md",
+        "chapitres/comedies/volume-104-philyllios-dodekate-anthesteries-choes-amphore-metrete-paratragedie/index.html",
+        "chapitres/comedies/volume-105-philyllios-helene-attribution-incertaine-eidolon-guerre-reconnaissance.md",
+        "chapitres/comedies/volume-105-philyllios-helene-attribution-incertaine-eidolon-guerre-reconnaissance/index.html"
+      ],
+      "references_replaced": 4,
+      "regression_test": "tests/test_comedy_reference_links.py::test_volumes_104_and_105_use_existing_comedy_overview",
+      "numbering_changed": false,
+      "scholarly_text_changed": false
     },
-    "pagination": "Manifeste catalog/reading-pdfs.json : Iliade 122 pages PDF, Odyssée 116, Théogonie 117 ; pages d'analyse seule 107/101/103. Aucun PDF ni texte de fond modifié, aucun rendu visuel nouveau.",
-    "preservation": "AGENTS.md et docs/PUBLICATION_CONCURRENTE.md relus sur main. Navigation, textes scientifiques, numérotation, registres, images existantes, programmes et horaires d'automatisation inchangés.",
-    "publication_status": "Commit source à valider sur GitHub Actions ; publication publique HTTPS bobmythos.fr non attestée indépendamment (outil Web indisponible).",
-    "limits": "Tests Python locaux et inspection responsive interactive non exécutés depuis cet environnement ; workflows CI et reçu public à confirmer.",
+    "publication": "Les chemins et sources GitHub sont corrigés ; la publication sur bobmythos.fr n'est pas confirmée. Le domaine est inaccessible depuis la vérification Web indépendante.",
+    "limitations": "Le dernier audit intégral et les tests CI disponibles précèdent ce correctif ; les suites Python, les contrôles responsive navigateur et la validation HTTPS de ce commit doivent être confirmés sur Actions et par une consultation publique.",
+    "preservation": "Aucune étude numérotée créée, aucun registre d'attribution, texte scientifique hors correction des liens, menu, image, CSS, JS, automatisation ni planification horaire modifiés. AGENTS.md et docs/PUBLICATION_CONCURRENTE.md lus sur main.",
     "commits": [],
-    "commit_note": "Le SHA du commit atomique ne peut pas se trouver dans son propre JSON ; le lire depuis GitHub après enregistrement."
+    "commit_note": "Le SHA du commit atomique ne peut être incorporé dans le journal qu'il commite ; le lire dans le journal des commits GitHub."
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
   "history": [
@@ -2645,6 +2576,48 @@
       "limits": "Tests Python locaux et inspection responsive interactive non exécutés depuis cet environnement ; workflows CI et reçu public à confirmer.",
       "commits": [],
       "commit_note": "Le SHA du commit atomique ne peut pas se trouver dans son propre JSON ; le lire depuis GitHub après enregistrement."
+    },
+    {
+      "date": "2026-11-05",
+      "kind": "AUDIT ET CORRECTION",
+      "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "scope": "Séance 47 : audit GitHub Actions et correction de deux liens internes cassés dans les comédies CIV (104) et CV (105), en Markdown et HTML ; test de non-régression étendu, textes universitaires et numéros inchangés.",
+      "audit_evidence": {
+        "github_actions_run": 41977662560,
+        "audit_status": "success (0 erreur bloquante, 2 avertissements sur les liens des comédies 104/105)",
+        "pages_scanned": 1501,
+        "indexed_documents": 1444,
+        "local_links_checked": 129680,
+        "fragment_links_checked": 37992,
+        "broken_href": "/comedies-grecques/",
+        "canonical_href": "/comedies-grecques-aristophane-menandre/",
+        "targeted_html_pages": 5,
+        "targeted_html_ids": 496,
+        "targeted_same_page_anchors": 465,
+        "targeted_images": 106,
+        "targeted_duplicate_ids": 0,
+        "targeted_broken_same_page_anchors": 0,
+        "targeted_img_missing_alt": 0,
+        "basis": "Contrôles des pages philosophie-iliade.html, philosophie-odyssee.html, philosophie-theogonie.html et volumes 104 et 105."
+      },
+      "corrections": {
+        "modified_paths": [
+          "chapitres/comedies/volume-104-philyllios-dodekate-anthesteries-choes-amphore-metrete-paratragedie.md",
+          "chapitres/comedies/volume-104-philyllios-dodekate-anthesteries-choes-amphore-metrete-paratragedie/index.html",
+          "chapitres/comedies/volume-105-philyllios-helene-attribution-incertaine-eidolon-guerre-reconnaissance.md",
+          "chapitres/comedies/volume-105-philyllios-helene-attribution-incertaine-eidolon-guerre-reconnaissance/index.html"
+        ],
+        "references_replaced": 4,
+        "regression_test": "tests/test_comedy_reference_links.py::test_volumes_104_and_105_use_existing_comedy_overview",
+        "numbering_changed": false,
+        "scholarly_text_changed": false
+      },
+      "publication": "Les chemins et sources GitHub sont corrigés ; la publication sur bobmythos.fr n'est pas confirmée. Le domaine est inaccessible depuis la vérification Web indépendante.",
+      "limitations": "Le dernier audit intégral et les tests CI disponibles précèdent ce correctif ; les suites Python, les contrôles responsive navigateur et la validation HTTPS de ce commit doivent être confirmés sur Actions et par une consultation publique.",
+      "preservation": "Aucune étude numérotée créée, aucun registre d'attribution, texte scientifique hors correction des liens, menu, image, CSS, JS, automatisation ni planification horaire modifiés. AGENTS.md et docs/PUBLICATION_CONCURRENTE.md lus sur main.",
+      "commits": [],
+      "commit_note": "Le SHA du commit atomique ne peut être incorporé dans le journal qu'il commite ; le lire dans le journal des commits GitHub."
     }
   ]
 }
