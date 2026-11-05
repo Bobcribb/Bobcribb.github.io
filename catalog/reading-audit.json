@@ -1,23 +1,13 @@
 {
   "status": "passed",
-  "indexed_entries": 1437,
-  "pages_scanned": 1494,
-  "readers_equipped": 1036,
-  "links_checked": 127264,
+  "indexed_entries": 1439,
+  "pages_scanned": 1496,
+  "readers_equipped": 1038,
+  "links_checked": 127536,
   "new_navigation_errors": [],
   "legacy_link_issues": [
     {
       "page": "/chapitres/comedies/volume-104-philyllios-dodekate-anthesteries-choes-amphore-metrete-paratragedie/index.html",
-      "url": "/comedies-grecques/",
-      "problem": "fichier absent"
-    },
-    {
-      "page": "/chapitres/comedies/volume-103-philyllios-auge-telephos-banquet-pannychis-pain-chanson-paratragedie/index.html",
-      "url": "/comedies-grecques/",
-      "problem": "fichier absent"
-    },
-    {
-      "page": "/chapitres/comedies/volume-102-philyllios-atalante-titre-souda-attribution-douteuse-chasse-course-mythes/index.html",
       "url": "/comedies-grecques/",
       "problem": "fichier absent"
     }

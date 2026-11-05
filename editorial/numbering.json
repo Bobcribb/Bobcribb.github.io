@@ -1048,6 +1048,12 @@
           "path": "chapitres/encyclopedie/chapitre-429-apollon-smintheus-troade-souris-peste-homere-smintheion.md",
           "request_sha256": "15a0fde57285368068459a6b435cc4185dcad7d3a55e98594f646fed706f1af3",
           "initial_source_sha256": "2e9047ae2b5d93d427419212599486d569a31e7ec1e889c54c636aa76b4dcda9"
+        },
+        "6c3b7329-7e40-4f9e-a0c8-2d5b1a7e94c6": {
+          "number": 430,
+          "path": "chapitres/encyclopedie/chapitre-430-athena-alea-tegee-skopas-asile-atlante-telephe-sanctuaire.md",
+          "request_sha256": "b94a0ca1a8b587803d810e8bcae15aa0dd9bfd13d74ca691dacec36dd5625525",
+          "initial_source_sha256": "285db2f288f82b52127b1e67099948fb255b1bd6fb91634d1cb929bbead81fdb"
         }
       }
     },
@@ -2383,6 +2389,12 @@
           "path": "chapitres/comparatif/volume-ccxliv-mc-064-quand-les-dieux-mangent-nourritures-divines-sacrifice-partage-immortalite.md",
           "request_sha256": "cdf0ce1ed56e17c2c7525982b609d00ed8d96160a1980f957978da4a198df428",
           "initial_source_sha256": "ddedc687899567c522fc2a5488c810c37d4abebe5b904a04f1b256640d01b299"
+        },
+        "1ee6ad92-e620-4eaa-9059-06505d4e7f3a": {
+          "number": 245,
+          "path": "chapitres/comparatif/volume-ccxlv-mc-065-quand-les-dieux-combattent-theomachie-souverainete-violence-cosmique.md",
+          "request_sha256": "e7b7e2c8088143edf39fc7e1cf78ff7da00d6e59a7fc01ed20f50009ee2da4c3",
+          "initial_source_sha256": "60db76872b2da911c0fa957433d87c997f8f35aca628916fc8521f000697b507"
         }
       }
     }
