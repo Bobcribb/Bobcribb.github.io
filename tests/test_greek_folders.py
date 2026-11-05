@@ -11,6 +11,67 @@ from build_greek_folders import BASE, build, classify, inventory, verify, LEGACY
 
 
 class GreekFolderTests(unittest.TestCase):
+    def test_hellenistic_contacts_integral_sources_classification_and_reciprocity(self):
+        from build_greek_folders import HELLENISTIC_CONTACT_STUDIES
+        from build_greek_corpus import RELATED
+        root = Path(__file__).resolve().parents[1]
+        urls = {url for url, _, _ in HELLENISTIC_CONTACT_STUDIES}
+        self.assertEqual(len(urls), 4)
+        self.assertTrue(urls.issubset({url for _, url in RELATED}))
+        expected_homes = {
+            'civilisations-lycie-xanthos-letoon': ('cultes-sanctuaires', 'Lycie'),
+            'civilisations-commagene-antiochos-nemrut': ('cultes-sanctuaires', 'Commagène'),
+            'civilisations-pergame-attalides-autel-zeus': ('cultes-sanctuaires', 'Pergame'),
+            'civilisations-royaumes-greco-bactriens-indo-grecs': ('sources-anciennes', 'Royaumes'),
+        }
+        for url in urls:
+            source = root / url.strip('/') / 'index.html'
+            self.assertTrue(source.is_file(), url)
+            content = source.read_text(encoding='utf-8')
+            self.assertGreater(len(content), 11000, url)
+            original_article = BeautifulSoup(content, 'html.parser').article
+            self.assertIsNotNone(original_article, url)
+            self.assertGreater(len(original_article.get_text(' ', strip=True)), 2500, url)
+            self.assertRegex(content.lower(), 'sources|bibliograph|références')
+            name = url.strip('/').split('/')[-1]
+            expected_home, prefix = expected_homes[name]
+            home, section = classify(url, 'Une autre divinité citée dans le texte', 'Lecture associée')
+            self.assertEqual(home, expected_home, url)
+            self.assertTrue(section.startswith(prefix), url)
+        with TemporaryDirectory() as temporary:
+            out = Path(temporary)
+            article_snapshots = {}
+            for url, title, _ in HELLENISTIC_CONTACT_STUDIES:
+                path = out / url.strip('/') / 'index.html'
+                path.parent.mkdir(parents=True)
+                path.write_text('<html><head><title>Étude</title></head><body><main>'
+                                '<article><h1>' + title + '</h1>'
+                                '<section id="sources"><h2>Sources</h2><p>Bibliographie intégrale'
+                                '</p></section></article></main></body></html>',
+                                encoding='utf-8')
+                article_snapshots[url] = str(BeautifulSoup(path.read_text(
+                    encoding='utf-8'), 'html.parser').article)
+            groups = [('Études vérifiées', 'grec-universitaire',
+                       [(url, title) for url, title, _ in HELLENISTIC_CONTACT_STUDIES])]
+            for _ in range(2):
+                rows = build(out, groups, [], [])
+                verify(out, urls)
+                self.assertEqual({r['url'] for r in rows}, urls)
+                for url in urls:
+                    path = out / url.strip('/') / 'index.html'
+                    doc = BeautifulSoup(path.read_text(encoding='utf-8'), 'html.parser')
+                    self.assertEqual(str(doc.article), article_snapshots[url])
+                    self.assertEqual(len(doc.select('nav[data-greek-folder-nav]')), 1)
+                    panel = doc.select('aside[data-greek-cross-readings="contacts"]')
+                    self.assertEqual(len(panel), 1, url)
+                    links = [a['href'] for a in panel[0].select('a[href]')]
+                    self.assertEqual(set(links), urls - {url})
+                    self.assertEqual(len(links), 3)
+                    self.assertEqual(len(links), len(set(links)))
+        shared_css = (root / 'assets/mythos-museum.css').read_text(encoding='utf-8')
+        self.assertIn('data-greek-cross-readings="contacts"', shared_css)
+        self.assertIn('border-inline-start:3px solid #d7b374', shared_css)
+
     def test_thematic_links_are_touch_accessible_without_reflowing_books(self):
         self.assertIn('.greek-folder-links a{display:flex;align-items:center;min-height:44px', CSS)
         self.assertIn('overflow-wrap:anywhere', CSS)

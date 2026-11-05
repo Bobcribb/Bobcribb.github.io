@@ -230,6 +230,12 @@ def classify(url, title, kind):
             ('sources-anciennes', 'Histoire des cités grecques — institutions et témoignages'),
         'bibliotheque-mythologies-du-monde/civilisations-pergame-attalides-autel-zeus':
             ('cultes-sanctuaires', 'Pergame — Grand Autel, Gigantomachie et royauté'),
+        'bibliotheque-mythologies-du-monde/civilisations-lycie-xanthos-letoon':
+            ('cultes-sanctuaires', 'Lycie — Létoon, Léto, Artémis et Apollon'),
+        'bibliotheque-mythologies-du-monde/civilisations-commagene-antiochos-nemrut':
+            ('cultes-sanctuaires', 'Commagène — Nemrut Dağ, dieux et souveraineté'),
+        'bibliotheque-mythologies-du-monde/civilisations-royaumes-greco-bactriens-indo-grecs':
+            ('sources-anciennes', 'Royaumes gréco-bactriens — inscriptions, monnaies et échanges'),
     }
     if slug in history_homes:
         return history_homes[slug]
@@ -340,6 +346,25 @@ HISTORY_STUDIES = (
      'Pergame — Attalides, Grand Autel et Gigantomachie',
      'Iconographie monumentale, légitimation dynastique et histoire des cultes.'),
 )
+
+# Études intégrales déjà publiques dans Civilisations, reliées sans copie.
+# Les cultes lyciens, la royauté de Commagène, l'iconographie attalide et
+# les monnaies de Bactriane ne sont pas assimilés à une tradition uniforme.
+HELLENISTIC_CONTACT_STUDIES = (
+    ('/bibliotheque-mythologies-du-monde/civilisations-lycie-xanthos-letoon/',
+     'Lycie — Létoon, Léto, Artémis et Apollon',
+     'Sanctuaire, inscriptions trilingues et institutions locales lyciennes.'),
+    ('/bibliotheque-mythologies-du-monde/civilisations-commagene-antiochos-nemrut/',
+     'Commagène — Antiochos Ier et Nemrut Dağ',
+     'Royauté gréco-perse, statues et théonymes composés.'),
+    ('/bibliotheque-mythologies-du-monde/civilisations-pergame-attalides-autel-zeus/',
+     'Pergame — Autel des Attalides et Gigantomachie',
+     'Monument hellénistique, image du pouvoir et interprétation cultuelle.'),
+    ('/bibliotheque-mythologies-du-monde/civilisations-royaumes-greco-bactriens-indo-grecs/',
+     'Bactriane et royaumes indo-grecs',
+     'Numismatique, échanges, ruptures et pluralité de traditions religieuses.'),
+)
+
 
 RELATED_FOLDERS = {
     'cosmogonies': ['divinites', 'sources-anciennes', 'interpretations-philosophiques'],
@@ -524,12 +549,14 @@ def build(out, groups, sections, books, root=None):
                       if any(row['url'] == url for row in rows)}
     history_urls = {url for url, _, _ in HISTORY_STUDIES
                     if any(row['url'] == url for row in rows)}
+    contact_urls = {url for url, _, _ in HELLENISTIC_CONTACT_STUDIES
+                    if any(row['url'] == url for row in rows)}
     # Return links stay outside the article, leaving its scholarly text untouched.
     for row in rows:
         if (row['kind'] not in ('Chapitre universitaire', 'Livre', 'Notice', 'Étude')
                 and row['url'] not in ({DELPHES_STUDIES[0][0],
                                        APHRODITE_STUDIES[1][0],
-                                       APHRODITE_STUDIES[2][0]} | history_urls)):
+                                       APHRODITE_STUDIES[2][0]} | history_urls | contact_urls)):
             continue
         page = out / row['url'].lstrip('/')
         if row['url'].endswith('/'):
@@ -651,6 +678,26 @@ def build(out, groups, sections, books, root=None):
                     'le programme monumental des Attalides relèvent de sources '
                     'et d’époques distinctes. La transmission des récits '
                     'ne démontre pas une continuité politique ou cultuelle.</p>'
+                    '<ul>' + links + '</ul></aside>', 'html.parser').aside
+                main.append(box)
+        if row['url'] in contact_urls:
+            companions = [(url, title, context)
+                          for url, title, context in HELLENISTIC_CONTACT_STUDIES
+                          if url in contact_urls and url != row['url']]
+            if companions:
+                links = ''.join(
+                    '<li><a href="' + escape(url, quote=True) + '">' +
+                    escape(title) + '</a><small>' + escape(context) +
+                    '</small></li>' for url, title, context in companions)
+                box = BeautifulSoup(
+                    '<aside class="greek-cross-readings" '
+                    'data-greek-cross-readings="contacts" '
+                    'aria-label="Mondes grecs et traditions locales">'
+                    '<h2>Sanctuaires et royautés : contacts culturels</h2>'
+                    '<p>Quatre monographies intégrales, des cités de Lycie aux '
+                    'royaumes de Bactriane. Les sources, époques et pratiques '
+                    'diffèrent : une analogie iconographique ou linguistique '
+                    'n’est pas la preuve d’un culte identique.</p>'
                     '<ul>' + links + '</ul></aside>', 'html.parser').aside
                 main.append(box)
         page.write_text(str(doc), encoding='utf-8')
@@ -783,6 +830,18 @@ def verify(out, expected_urls):
             actual = [a['href'] for a in panels[0].select('a[href]')]
             assert set(actual) == history_urls - {url}, 'Parcours historique incomplet : ' + url
             assert len(actual) == len(set(actual)), 'Lien historique répété : ' + url
+    contact_urls = {url for url, _, _ in HELLENISTIC_CONTACT_STUDIES
+                    if url in expected_urls}
+    if len(contact_urls) > 1:
+        for url in contact_urls:
+            page = out / url.lstrip('/') / 'index.html'
+            assert page.is_file(), 'Étude des contacts grecs introuvable : ' + url
+            doc = BeautifulSoup(page.read_text(encoding='utf-8'), 'html.parser')
+            panels = doc.select('aside[data-greek-cross-readings="contacts"]')
+            assert len(panels) == 1, 'Parcours des contacts manquant ou dupliqué : ' + url
+            actual = [a['href'] for a in panels[0].select('a[href]')]
+            assert set(actual) == contact_urls - {url}, 'Lectures croisées incomplètes : ' + url
+            assert len(actual) == len(set(actual)), 'Lien vers les contacts répété : ' + url
     assert set(assignments) == set(expected_urls), 'Classement incomplet ou inattendu : '+str(set(assignments) ^ set(expected_urls))
     assert all(n == 1 for n in assignments.values()), 'Texte classé plusieurs fois dans les dossiers'
     print('Dossiers grecs vérifiés :', len(assignments), 'destinations uniques, tous les textes et toutes les sections accessibles')

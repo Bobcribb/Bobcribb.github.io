@@ -1150,3 +1150,26 @@ body.mythos-design .greek-cross-readings[data-greek-cross-readings="chronologie"
     margin-inline:0;
   }
 }
+
+/* Parcours documenté : Lycie, Commagène, Pergame, Bactriane.
+   Accent muséal sans illustration spéculative ; le texte reste intact. */
+body.mythos-design .greek-cross-readings[data-greek-cross-readings="contacts"]{
+  border-inline-start:3px solid #d7b374;
+  background:linear-gradient(125deg,#1e2425,#10191c 73%);
+  max-width:100%;
+  min-width:0;
+}
+body.mythos-design .greek-cross-readings[data-greek-cross-readings="contacts"] h2{
+  border-bottom:1px solid #806a46;
+  padding-bottom:.65rem;
+}
+@media(max-width:480px){
+  body.mythos-design .greek-cross-readings[data-greek-cross-readings="contacts"]{
+    padding:.85rem;
+    margin-inline:0;
+  }
+  body.mythos-design .greek-cross-readings[data-greek-cross-readings="contacts"] li{
+    padding:.65rem;
+    overflow-wrap:anywhere;
+  }
+}
