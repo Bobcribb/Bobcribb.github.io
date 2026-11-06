@@ -1708,6 +1708,12 @@
           "path": "chapitres/encyclopedie/chapitre-461-apollon-didymeen-didymes-branchos-branchides-supplication-milet-temple-ionique-oracle.md",
           "request_sha256": "d7a8b4a475dda639cf3a3f385bd2cc2e4718828268ec7c0a4222a2be87a96c9e",
           "initial_source_sha256": "166595e7686b0e60ddf44d6a0ece6955c037f90461a6506b078a739bd027af15"
+        },
+        "0a3c5e79-b4da-49f3-8cb2-202611061959": {
+          "number": 462,
+          "path": "chapitres/encyclopedie/chapitre-462-zeus-panamaros-panamareia-komyria-heraia-epiphanie-stratonicee.md",
+          "request_sha256": "43f16be50c1c9243e6674e78e505f74e829c4f353df5f6d7917c3b70eb7b911d",
+          "initial_source_sha256": "867ad5b31a0fca8d8351484a4ae932805fdb14fffaafaac2b1f81169b666da60"
         }
       }
     },
@@ -3817,6 +3823,12 @@
           "path": "chapitres/comparatif/volume-cccxvii-ploutos-hermes-epicleses-pain-pretre-zeus-soter-sacrifice-acropole-388.md",
           "request_sha256": "56a3b965c88fec57d56c165b91a35e1cdcd9d5715c56758d34fc94fed7fb44eb",
           "initial_source_sha256": "cfe6d27e3f9775d16292e51ac458ef7d309f79d976d8b88128a60b926d1ef0f5"
+        },
+        "0b2e3ecb-74df-4bc3-9776-202611061953": {
+          "number": 318,
+          "path": "chapitres/comparatif/volume-cccxviii-mc-109-visages-substitues-masques-funeraires-theatre-ancetres-rituels.md",
+          "request_sha256": "7016247f6038cbc9c42e6d0d0c058afe740d9b08a1e4ad901fe8f6ee74b68b66",
+          "initial_source_sha256": "b27625244774d219eadb1a1028bf3aaf956765ad039a9fafbc9341a3663d4572"
         }
       }
     }
