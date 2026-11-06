@@ -550,6 +550,40 @@ def main(out, root):
 
 
 
+
+def synchronize_portal_catalogues(out):
+    """Rétablir le même catalogue dans les quatre adresses après l'habillage.
+
+    Certaines passes tardives changent un seul alias HTML. Corriger uniquement
+    le catalogue partagé, sans toucher aux études, aux archives ni aux notices
+    propres à chaque page. La validation complète reste bloquante ensuite.
+    """
+    out = Path(out)
+    pages = [
+        out / "mythologie-grecque/index.html",
+        out / "mythologie-grecque.html",
+        out / "grande-encyclopedie/index.html",
+        out / "grande-encyclopedie.html",
+    ]
+    reference_doc = BeautifulSoup(pages[0].read_text(encoding="utf-8"), "html.parser")
+    reference = reference_doc.select_one("#greek-unified-corpus")
+    if reference is None:
+        raise RuntimeError("Catalogue grec principal absent : " + str(pages[0]))
+    updated = 0
+    for path in pages[1:]:
+        original = path.read_text(encoding="utf-8")
+        doc = BeautifulSoup(original, "html.parser")
+        catalogue = doc.select_one("#greek-unified-corpus")
+        if catalogue is None:
+            raise RuntimeError("Catalogue grec historique absent : " + str(path))
+        if str(catalogue) == str(reference):
+            continue
+        catalogue.replace_with(BeautifulSoup(str(reference), "html.parser"))
+        path.write_text(str(doc), encoding="utf-8")
+        updated += 1
+    return updated
+
+
 def primary_folder_urls(links):
     """Only primary catalogue items need one thematic home.
 
