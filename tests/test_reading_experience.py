@@ -75,6 +75,27 @@ class ReadingTests(unittest.TestCase):
         self.assertEqual(original,
                          [p.get_text(' ', strip=True) for p in doc.select('.r3d-science p')])
 
+    def test_curated_historical_readers_keep_figures_tocs_and_reciprocal_links(self):
+        from improve_reading import CURATED_HISTORICAL_READERS
+        root = Path(__file__).resolve().parents[1]
+        cases = (
+            ('/bibliotheque-mythologies-du-monde/mythos-volume-14-khmer-angkor-cosmogonies/',
+             ('mythos-khmer-figure', 'mythos-khmer-toc',
+              'mythos-khmer-crosslinks', 'MYTHOS-KHMER-SOURCE-BEGIN')),
+            ('/bibliotheque-mythologies-du-monde/mythos-volume-15-philippines-ifugao-hudhud/',
+             ('mythos-ifugao-figure', 'mythos-world-study-toc',
+              'mythos-world-study-crosslinks', 'texte-integral-hudhud-ifugao')),
+            ('/bibliotheque-mythologies-du-monde/civilisations-histoire-khmers-angkor/',
+             ('mythos-khmer-crosslinks', 'data-mythos-khmer-reciprocal')),
+        )
+        for url, markers in cases:
+            with self.subTest(url=url):
+                self.assertIn(url, CURATED_HISTORICAL_READERS)
+                source = (root / url.lstrip('/') / 'index.html').read_text(encoding='utf-8')
+                for marker in markers:
+                    self.assertIn(marker, source)
+                self.assertNotIn('mythos-reading-toc', source)
+
     def test_catalogue_ids_stable_when_title_changes_and_no_fake_review(self):
         doc=self.document()
         a=metadata({'url':'/iliade/','title':'Iliade','excerpt':''},doc)
