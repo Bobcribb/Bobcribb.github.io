@@ -281,6 +281,102 @@ def add_home_integral_archive_shelf(doc, root):
     return len(cards)
 
 
+
+def decorate_greek_archive_cards(doc, root):
+    """Illustrer trois liens existants vers les archives grecques, sans copie.
+
+    Chaque image et chaque lecteur doivent exister dans le site construit.
+    Les légendes reprennent le catalogue éditorial des objets du Met (CC0).
+    Le texte scientifique original et les quatorze liens restent intacts.
+    """
+    shelf = doc.select_one('#grec-archives ol.greek-corpus-links')
+    if shelf is None:
+        return 0
+    entries = (
+        (
+            '/corpus/mythologie-grecque/archives/livre-heracles.html',
+            '/media/2026/10/mythos-heracles-lion-nemee-oinochoe-met-06-1021-66.jpg',
+            'Oinochoé attique : Héraclès affronte le lion de Némée.',
+            'Héraclès et le lion de Némée, oinochoé attique du début du Ve siècle av. n. è., Met 06.1021.66.',
+            'https://www.metmuseum.org/art/collection/search/247235',
+        ),
+        (
+            '/corpus/mythologie-grecque/archives/livre-troie.html',
+            '/media/2026/10/mythos-iliade-achille-ajax-athena-hydrie-met-56-171-29.jpg',
+            'Hydrie attique : Achille et Ajax jouent en présence d’Athéna.',
+            'Hydrie du Groupe de Léagros, vers 510 av. n. è., Met 56.171.29. Scène absente du poème homérique conservé.',
+            'https://www.metmuseum.org/art/collection/search/254887',
+        ),
+        (
+            '/corpus/mythologie-grecque/archives/livre-odyssee.html',
+            '/media/2026/10/mythos-papyrus-odyssee-ptolemaique-met-09-182-50.jpg',
+            'Papyrus grec de l’Odyssée, chant XX, époque ptolémaïque.',
+            'Fragment de l’Odyssée XX, vers 285–250 av. n. è., Met 09.182.50. Témoin postérieur à la composition du poème.',
+            'https://www.metmuseum.org/art/collection/search/248134',
+        ),
+    )
+    illustrated = 0
+    for href, image_url, alt, caption, source_url in entries:
+        if not (root / href.lstrip('/')).is_file():
+            continue
+        if not (root / image_url.lstrip('/')).is_file():
+            continue
+        anchor = shelf.select_one('a[href="' + href + '"]')
+        if anchor is None or anchor.parent.name != 'li':
+            continue
+        item = anchor.parent
+        # Rebuild only our illustration, never duplicate or rewrite the link.
+        for old in item.select('.mythos-greek-archive-credit'):
+            old.decompose()
+        label = anchor.get_text(' ', strip=True)
+        if not label:
+            continue
+        anchor.clear()
+        anchor['class'] = list(dict.fromkeys(
+            anchor.get('class', []) + ['mythos-greek-archive-illustrated-link']))
+        item['class'] = list(dict.fromkeys(
+            item.get('class', []) + ['mythos-greek-archive-illustrated']))
+        image = doc.new_tag('img', src=image_url, alt=alt,
+                            loading='lazy', decoding='async')
+        image['class'] = ['mythos-greek-archive-image']
+        anchor.append(image)
+        title = doc.new_tag('span', attrs={'class': 'mythos-greek-archive-title'})
+        title.string = label
+        anchor.append(title)
+        credit = doc.new_tag('p', attrs={'class': 'mythos-greek-archive-credit'})
+        credit.append(caption + ' Reproduction Open Access (CC0). ')
+        source = doc.new_tag('a', href=source_url)
+        source.string = 'Notice du Met'
+        credit.append(source)
+        credit.append(' · ')
+        licence = doc.new_tag(
+            'a', href='https://creativecommons.org/publicdomain/zero/1.0/')
+        licence.string = 'CC0'
+        credit.append(licence)
+        item.append(credit)
+        illustrated += 1
+    return illustrated
+
+
+def add_greek_archive_return(doc, root):
+    """Renvoi depuis l'édition HTML historique vers le sommaire grec."""
+    banner = doc.select_one('.mythos-banner')
+    portal = root / 'mythologie-grecque/index.html'
+    if banner is None or not portal.is_file():
+        return 0
+    for old in doc.select('nav.mythos-greek-archive-return'):
+        old.decompose()
+    nav = doc.new_tag('nav', attrs={
+        'class': 'mythos-greek-archive-return',
+        'aria-label': 'Retour au catalogue des archives grecques',
+    })
+    link = doc.new_tag('a', href='/mythologie-grecque/#grec-archives')
+    link.string = 'Retour aux archives historiques de la mythologie grecque'
+    nav.append(link)
+    banner.insert_after(nav)
+    return 1
+
+
 def apply(root):
     root = Path(root)
     count = 0
@@ -421,6 +517,10 @@ def apply(root):
             for inner_heading in main.select('h1'):
                 inner_heading.name = 'h2'
         add_scholarly_toc(doc, main, rel)
+        if url == '/mythologie-grecque/':
+            decorate_greek_archive_cards(doc, root)
+        if rel.startswith('corpus/mythologie-grecque/archives/') and rel.endswith('.html'):
+            add_greek_archive_return(doc, root)
         # Keep all iconography; display it below the text as a horizontal gallery.
         for rail in doc.select('.mythos-visual-rail, .mythos-home-illustrations, .article-aside'):
             rail['class'] = list(dict.fromkeys(rail.get('class',[]) + ['mythos-bottom-gallery']))
