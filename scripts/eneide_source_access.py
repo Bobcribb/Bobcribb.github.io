@@ -34,7 +34,7 @@ NARRATIVE_URL = "/" + NARRATIVE.parent.as_posix() + "/"
 
 
 def _clean(text: str) -> str:
-    return re.sub(r"\\s+", " ", text).strip()
+    return re.sub(r"\s+", " ", text).strip()
 
 
 def _stylesheet(doc: BeautifulSoup) -> None:
@@ -75,7 +75,7 @@ def install(root: Path, out: Path) -> int:
         if not source_path.is_file():
             raise RuntimeError(f"Source Énéide absente : {source_path}")
         raw = source_path.read_text(encoding="utf-8")
-        match = re.match(r"^#\\s+(.+)$", raw)
+        match = re.match(r"^#\s+(.+)$", raw)
         if len(raw) < 8000 or not match:
             raise RuntimeError(f"Source Énéide manifestement incomplète : {name}")
         title = _clean(match.group(1))
