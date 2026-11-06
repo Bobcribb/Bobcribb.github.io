@@ -5,36 +5,95 @@
   "branch": "main",
   "latest_session": {
     "date": "2026-11-06",
-    "session_number": 71,
-    "kind": "AUDIT ET CORRECTION",
-    "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "scope": "Audit ciblé de 19 pages, dont accueil, Iliade, Odyssée, Théogonie, Énéide et lecteurs, Hestia, théâtre, portails grecs ; rétablissement de la couverture de publication HTTPS des cinq figures de la séance 70 (SVG 2D IA, photographie CC0 réemployée et deux JPEG patrimoniaux).",
-    "checks": {
-      "pages_statistically_checked": 19,
-      "html_ids_checked": 891,
-      "image_elements_checked": 192,
-      "local_link_and_resource_references_checked": 2975,
-      "duplicate_ids": 0,
-      "images_without_alt": 0,
+    "session_number": 72,
+    "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "previous_kind": "AUDIT ET CORRECTION",
+    "next_kind": "AUDIT ET CORRECTION",
+    "scope": "Séance universitaire de trois objets patrimoniaux déjà archivés : Arès de la frise est du Parthénon pour Iliade V, Héraclès et le lion de Némée pour l'Odyssée XXI, Déméter-Perséphone et Triptolème pour la Théogonie 912–914. Distinguer image postérieure et source poétique ; pas de doublon ni de nouveau binaire.",
+    "source_main_at_review": "fbb45bd1291cf69ca9e522e4d0da5d84e8e5983f",
+    "figures": [
+      {
+        "page": "philosophie-iliade.html",
+        "id": "icono-iliade-ares-parthenon-frise-s72-20261106",
+        "asset": "/media/2026/10/mythos-ares-frise-orientale-parthenon-bloc-iv-twospoonfuls.jpg",
+        "source": "parthenonfrieze.gr",
+        "statut": "objet antique authentique ; photo non générée par IA ; ne représente pas directement le passage poétique",
+        "credit": "crédit, droits, datation, contexte de fabrication et critique du témoignage dans figcaption"
+      },
+      {
+        "page": "philosophie-odyssee.html",
+        "id": "icono-odyssee-heracles-lion-nemee-met-s72-20261106",
+        "asset": "/media/2026/10/mythos-heracles-lion-nemee-oinochoe-met-06-1021-66.jpg",
+        "source": "metmuseum.org/art/collection/search/247235",
+        "statut": "objet antique authentique ; photo non générée par IA ; ne représente pas directement le passage poétique",
+        "credit": "crédit, droits, datation, contexte de fabrication et critique du témoignage dans figcaption"
+      },
+      {
+        "page": "philosophie-theogonie.html",
+        "id": "icono-theogonie-demeter-triptoleme-met-s72-20261106",
+        "asset": "/media/2026/10/demeter-triptolemos-peintre-niobides-met-41-162-98.jpg",
+        "source": "metmuseum.org/art/collection/search/254270",
+        "statut": "objet antique authentique ; photo non générée par IA ; ne représente pas directement le passage poétique",
+        "credit": "crédit, droits, datation, contexte de fabrication et critique du témoignage dans figcaption"
+      }
+    ],
+    "precommit_checks": {
+      "three_pages_checked": 3,
+      "figures_added": 3,
+      "duplicate_figure_ids": 0,
+      "missing_manifest_media": 0,
+      "missing_alt": 0,
       "broken_same_page_anchors": 0,
-      "missing_local_assets_or_links": 0,
-      "methodology": "Contrôle en lecture du HTML source main et de l'arbre Git : présence des ressources et des chemins, ancres locales, IDs, attribut alt ; vérification du domaine non concluante via HTTP externe."
+      "page_summaries": [
+        {
+          "page": "philosophie-iliade.html",
+          "old_images": 41,
+          "new_images": 42,
+          "old_figures": 41,
+          "new_figures": 42,
+          "ids": 128,
+          "hashlinks": 111,
+          "broken": 0,
+          "missing_alt": 0,
+          "oldLength": 438849,
+          "newLength": 440722,
+          "sourceSha": "bf6a1ba68a1d202e73629bced6e94f5af2364059"
+        },
+        {
+          "page": "philosophie-odyssee.html",
+          "old_images": 40,
+          "new_images": 41,
+          "old_figures": 40,
+          "new_figures": 41,
+          "ids": 127,
+          "hashlinks": 111,
+          "broken": 0,
+          "missing_alt": 0,
+          "oldLength": 420524,
+          "newLength": 422304,
+          "sourceSha": "25c768fe97f620b4d2e89d425736add4707be957"
+        },
+        {
+          "page": "philosophie-theogonie.html",
+          "old_images": 40,
+          "new_images": 41,
+          "old_figures": 40,
+          "new_figures": 41,
+          "ids": 129,
+          "hashlinks": 113,
+          "broken": 0,
+          "missing_alt": 0,
+          "oldLength": 424827,
+          "newLength": 426656,
+          "sourceSha": "565571dd210ae8f1ef549c4c9ccc9f0772e38b1b"
+        }
+      ],
+      "all_existing_text_preserved": "Insertion HTML uniquement, suppression du bloc ajouté restitue exactement le texte HTML source"
     },
-    "verified_error": "Les cinq figures de la séance 70 avaient leurs tests de présence, mais étaient absentes de RECENT_FIGURES dans scripts/verify_live_site.py ; aucune vérification individuelle de leurs notices publiques et empreintes au sein de verify_recent_public_figures.",
-    "correction": "Ajout des cinq triplets page/ID/image dans RECENT_FIGURES, avec validation WebP/JPEG/SVG existante, adaptation de la fixture SVG et des assertions du test de publication (61 figures, 13 pages, 44 médias distincts), nouveau test de non-régression des figures et de l'alternance.",
-    "preservation": "Aucun manuscrit ni balise de contenu, image, numéro, menu, registre d'attribution, reçu, workflow GitHub ou planification horaire modifié.",
-    "precommit": "Vérification des 5 ID uniques et sources locales via HTML GitHub, état main et journal; contrôle statique des changements de code et assertions.",
-    "limitations": "Ni test Python complet local, ni rendu mobile visuel ou pagination PDF A4 ; URL HTTPS bobmythos.fr inaccessible depuis le contrôleur web ; déploiement public non confirmé.",
-    "public_deployment_status": "Non confirmé ; les contrôles du script ne remplacent pas la publication Pages.",
-    "next_session": "Séance 72 — ENRICHISSEMENT ICONOGRAPHIQUE",
-    "additional_ci_blocker": {
-      "workflow_run": 42206997255,
-      "observed": "396 tests, 1 erreur : prose Koush attendue 36 371 caractères contre 36 681. La différence correspond exclusivement à la légende de la nouvelle figure documentée insérée dans le corps HTML original.",
-      "preservation_verified": "La prose normalisée du commit initial 7e92c2e est strictement identique à la prose actuelle après exclusion logique de cette seule figure éditoriale (36 371 caractères).",
-      "correction": "Exclusion du calcul d'empreinte des figures class=mythos-editorial-inline et data-editorial-inline=subject-v3 ; image, légende, code HTML et prose scientifique restent conservés. Nouveau test de régression.",
-      "publication": "Les tests GitHub Actions et le déploiement public doivent encore être revérifiés."
-    }
+    "preservation": "Aucun manuscrit universitaire, numéro canonique, UUID, registre, page de navigation, CSS, JavaScript, automatisation, image ou archive supprimé ou réécrit. Pas de 2,5D ni de menu incrusté.",
+    "publication_status": "PR à valider ; aucun déploiement HTTPS de cette séance annoncé. Dernier manifeste public contrôlé : aaab3583b522dbd945f4014332e3f682325e5947 / run 42204008596.",
+    "pages_a4": "Paginations historiques (>10 pages) non recalculées ; aucun texte universitaire retranché.",
+    "next_session": "Séance 73 — AUDIT ET CORRECTION"
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
   "history": [
@@ -4401,6 +4460,98 @@
         "correction": "Exclusion du calcul d'empreinte des figures class=mythos-editorial-inline et data-editorial-inline=subject-v3 ; image, légende, code HTML et prose scientifique restent conservés. Nouveau test de régression.",
         "publication": "Les tests GitHub Actions et le déploiement public doivent encore être revérifiés."
       }
+    },
+    {
+      "date": "2026-11-06",
+      "session_number": 72,
+      "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "previous_kind": "AUDIT ET CORRECTION",
+      "next_kind": "AUDIT ET CORRECTION",
+      "scope": "Séance universitaire de trois objets patrimoniaux déjà archivés : Arès de la frise est du Parthénon pour Iliade V, Héraclès et le lion de Némée pour l'Odyssée XXI, Déméter-Perséphone et Triptolème pour la Théogonie 912–914. Distinguer image postérieure et source poétique ; pas de doublon ni de nouveau binaire.",
+      "source_main_at_review": "fbb45bd1291cf69ca9e522e4d0da5d84e8e5983f",
+      "figures": [
+        {
+          "page": "philosophie-iliade.html",
+          "id": "icono-iliade-ares-parthenon-frise-s72-20261106",
+          "asset": "/media/2026/10/mythos-ares-frise-orientale-parthenon-bloc-iv-twospoonfuls.jpg",
+          "source": "parthenonfrieze.gr",
+          "statut": "objet antique authentique ; photo non générée par IA ; ne représente pas directement le passage poétique",
+          "credit": "crédit, droits, datation, contexte de fabrication et critique du témoignage dans figcaption"
+        },
+        {
+          "page": "philosophie-odyssee.html",
+          "id": "icono-odyssee-heracles-lion-nemee-met-s72-20261106",
+          "asset": "/media/2026/10/mythos-heracles-lion-nemee-oinochoe-met-06-1021-66.jpg",
+          "source": "metmuseum.org/art/collection/search/247235",
+          "statut": "objet antique authentique ; photo non générée par IA ; ne représente pas directement le passage poétique",
+          "credit": "crédit, droits, datation, contexte de fabrication et critique du témoignage dans figcaption"
+        },
+        {
+          "page": "philosophie-theogonie.html",
+          "id": "icono-theogonie-demeter-triptoleme-met-s72-20261106",
+          "asset": "/media/2026/10/demeter-triptolemos-peintre-niobides-met-41-162-98.jpg",
+          "source": "metmuseum.org/art/collection/search/254270",
+          "statut": "objet antique authentique ; photo non générée par IA ; ne représente pas directement le passage poétique",
+          "credit": "crédit, droits, datation, contexte de fabrication et critique du témoignage dans figcaption"
+        }
+      ],
+      "precommit_checks": {
+        "three_pages_checked": 3,
+        "figures_added": 3,
+        "duplicate_figure_ids": 0,
+        "missing_manifest_media": 0,
+        "missing_alt": 0,
+        "broken_same_page_anchors": 0,
+        "page_summaries": [
+          {
+            "page": "philosophie-iliade.html",
+            "old_images": 41,
+            "new_images": 42,
+            "old_figures": 41,
+            "new_figures": 42,
+            "ids": 128,
+            "hashlinks": 111,
+            "broken": 0,
+            "missing_alt": 0,
+            "oldLength": 438849,
+            "newLength": 440722,
+            "sourceSha": "bf6a1ba68a1d202e73629bced6e94f5af2364059"
+          },
+          {
+            "page": "philosophie-odyssee.html",
+            "old_images": 40,
+            "new_images": 41,
+            "old_figures": 40,
+            "new_figures": 41,
+            "ids": 127,
+            "hashlinks": 111,
+            "broken": 0,
+            "missing_alt": 0,
+            "oldLength": 420524,
+            "newLength": 422304,
+            "sourceSha": "25c768fe97f620b4d2e89d425736add4707be957"
+          },
+          {
+            "page": "philosophie-theogonie.html",
+            "old_images": 40,
+            "new_images": 41,
+            "old_figures": 40,
+            "new_figures": 41,
+            "ids": 129,
+            "hashlinks": 113,
+            "broken": 0,
+            "missing_alt": 0,
+            "oldLength": 424827,
+            "newLength": 426656,
+            "sourceSha": "565571dd210ae8f1ef549c4c9ccc9f0772e38b1b"
+          }
+        ],
+        "all_existing_text_preserved": "Insertion HTML uniquement, suppression du bloc ajouté restitue exactement le texte HTML source"
+      },
+      "preservation": "Aucun manuscrit universitaire, numéro canonique, UUID, registre, page de navigation, CSS, JavaScript, automatisation, image ou archive supprimé ou réécrit. Pas de 2,5D ni de menu incrusté.",
+      "publication_status": "PR à valider ; aucun déploiement HTTPS de cette séance annoncé. Dernier manifeste public contrôlé : aaab3583b522dbd945f4014332e3f682325e5947 / run 42204008596.",
+      "pages_a4": "Paginations historiques (>10 pages) non recalculées ; aucun texte universitaire retranché.",
+      "next_session": "Séance 73 — AUDIT ET CORRECTION"
     }
   ]
 }
