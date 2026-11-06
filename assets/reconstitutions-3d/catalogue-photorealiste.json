@@ -2,7 +2,7 @@
   "generated_at": "2026-11-06",
   "site": "bobmythos.fr",
   "method": "Illustrations photoréalistes interprétatives, textes et sources hors des pixels.",
-  "count": 82,
+  "count": 83,
   "entries": [
     {
       "id": "DEL-PAN-001",
@@ -2494,6 +2494,58 @@
         "Pausanias, Description de la Grèce, IV, 31, 4–5 (fortifications) et IV, 33, 3 (porte et hermai) : témoignage de l’époque romaine à ne pas lire comme état contemporain de 320 av. J.-C."
       ],
       "methodology": "Rendu artistique interprétatif fondé sur plan, vestiges et notices institutionnelles. La date de visualisation et les crénelages sont une hypothèse ; aucune prétention à une élévation scientifique exacte."
+    },
+    {
+      "id": "ATH-PNY-001",
+      "slug": "athenes-pnyx-ekklesia-bema-vers-335-av-jc",
+      "title": "Athènes — Pnyx, tribune des orateurs et assemblée civique, vers 335 av. J.-C.",
+      "period": "Troisième phase monumentale de la Pnyx, IVe siècle av. J.-C. ; évocation conventionnelle vers 335 av. J.-C., achèvement discuté.",
+      "caption": "Reconstitution photoréaliste interprétative de l'espace d'assemblée sur la Pnyx à l'époque de la troisième phase architecturale ; orateur et foule anonymes, aménagements et gradins non métriques.",
+      "commentary": "Le rassemblement de citoyens athéniens sur la Pnyx constitue une évocation historiographique, non la reconstitution d'une assemblée précisément attestée en 335 av. J.-C. La colline située à l'ouest de l'Acropole fut aménagée à plusieurs reprises pour l'ἐκκλησία (assemblée des citoyens), mais ses vestiges correspondent à des états architecturaux différents qu'il serait fautif de fusionner. Les recherches archéologiques distinguent un premier espace de réunion à la fin de l'époque archaïque ou au début du Ve siècle, une deuxième phase liée aux remaniements de la fin du Ve ou du début du IVe siècle, puis une troisième réorganisation monumentale généralement rapportée à la seconde moitié du IVe siècle, dans les années 340–330. La dernière phase inverse l'orientation antérieure de l'auditoire : la tribune des orateurs (βῆμα), taillée dans le rocher du côté méridional ou sud-occidental, fait face à une vaste aire assembléaire soutenue, sur son côté opposé, par un grand mur de soutènement incurvé. L'excavation du bêma et les maçonneries du mur sont documentées ; leur mise en oeuvre complète, leur achèvement, l'organisation des accès et la fréquence effective de réunions dans ce troisième état demeurent débattus. Deux stoas avaient été projetées sur la hauteur : il n'est pas certain qu'elles aient été achevées ; elles sont volontairement absentes de l'image. Le paysage rocheux, l'emplacement du bêma, l'espace à ciel ouvert, le contexte athénien et la distinction entre rocher taillé et murs de soutènement constituent les données archéologiques mobilisées. L'image représente de façon interprétative un orateur anonyme s'adressant à une assemblée composée de citoyens masculins, avec de nombreux assistants debout ou assis directement sur le sol. Elle ne représente pas Périclès : son activité politique précède de plusieurs générations le grand bêma du troisième état. Le nombre de participants, leur disposition en groupes, leurs costumes, la densité de l'assistance, l'orateur et son discours, la couleur et la hauteur apparente des murs, le profil exact du rocher, les végétaux, la lumière et la silhouette des maisons au loin sont des éléments artistiques conjecturaux. L'Acropole en arrière-plan sert de repère topographique général, mais les perspectives et distances apparentes ne proviennent d'aucun relevé métrique. La scène ne doit pas suggérer l'existence de gradins monumentaux continus ou d'un théâtre construit en pierre : l'espace de réunion est essentiellement un auditorium de plein air aménagé dans le relief. Les sources textuelles relatives aux institutions athéniennes et à la Pnyx éclairent les pratiques civiques, mais elles ne garantissent pas le détail de l'équipement visible à la date choisie. Des historiens de l'architecture et de la démocratie ont souligné que le programme de Pnyx III pourrait n'avoir jamais été totalement achevé ; vers la fin du IVe siècle, l'assemblée se réunit également au théâtre de Dionysos. La date graphique « vers 335 av. J.-C. » désigne donc une convention de restitution, non une date certaine pour cette réunion. Le rendu est une image numérique originale, photoréaliste et non métrique ; ni le Ministère grec, ni les équipes de recherche, ni les institutions documentaires citées n'ont validé cette création. Aucun menu, slogan, chiffre, schéma 2,5D ou élément d'interface n'est incrusté dans l'image.",
+      "certainty": "Élevé — Pnyx comme lieu d'assemblée de la cité ; existence de phases successives ; bêma taillé dans le rocher et grand mur de soutènement incurvé associés au troisième état, dans le courant du IVe siècle av. J.-C. ; situation topographique à l'ouest de l'Acropole. Moyen — restitutions de la pente de l'auditoire, des accès, de l'orientation et du contexte bâti ; datation globale de la dernière phase dans les années 340–330 ; usage effectif d'un espace assembléaire à cette époque. Faible — scène d'assemblée en 335 ; nombre et disposition des participants ; costume précis, identité de l'orateur, hauteur et couronnement des murs, teintes des matériaux, architecture d'arrière-plan, végétation, parallaxes et luminosité.",
+      "source_url": "https://archaeologia.eie.gr/archaeologia/gr/02_deltia/pnyx.html",
+      "secondary_sources": [
+        "https://athenswesternhills.org/en/2018/12/05/late-4th-c-bc/",
+        "https://www.thisisathens.org/antiquities/pnyx",
+        "https://www.fhw.gr/projects/bouleuterion/gr/katopsis/athens_pnyx.html",
+        "https://www.ascsa.edu.gr/uploads/media/hesperia/146476.pdf"
+      ],
+      "src": "/assets/reconstitutions-3d/athenes-pnyx-ekklesia-bema-vers-335-av-jc.webp",
+      "image": "/assets/reconstitutions-3d/athenes-pnyx-ekklesia-bema-vers-335-av-jc.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-06",
+      "type": "reconstitution numérique photoréaliste interprétative à apparence 3D, non métrique",
+      "provenance": "Image originale générée par IA pour MYTHOS, sans relevé photogrammétrique, sans validation institutionnelle ni texte incrusté.",
+      "sha256": "8029683207ce5801250527b494d50d7e1646486fa3540e6a357bc596e9d845bd",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/athenes-pnyx-ekklesia-bema-vers-335-av-jc.json",
+      "scientific_sources": [
+        {
+          "label": "Fondation nationale hellénique de la recherche — Archéologie de la cité d'Athènes : Pnyx, phases et bêma",
+          "url": "https://archaeologia.eie.gr/archaeologia/gr/02_deltia/pnyx.html"
+        },
+        {
+          "label": "Athens Western Hills — évolution du site à la fin du IVe siècle et deux stoas non achevées",
+          "url": "https://athenswesternhills.org/en/2018/12/05/late-4th-c-bc/"
+        },
+        {
+          "label": "Guide officiel de la ville d'Athènes — Pnyx, histoire et trois phases",
+          "url": "https://www.thisisathens.org/antiquities/pnyx"
+        },
+        {
+          "label": "Fondation du monde hellénique — Pnyx, histoire du lieu de réunion (grec)",
+          "url": "https://www.fhw.gr/projects/bouleuterion/gr/katopsis/athens_pnyx.html"
+        },
+        {
+          "label": "Kourouniotes et H. A. Thompson, « The Pnyx in Athens », Hesperia 1 (1932), p. 90–217",
+          "url": "https://www.ascsa.edu.gr/uploads/media/hesperia/146476.pdf"
+        }
+      ],
+      "primary_texts": [
+        "Aristote, Constitution d'Athènes, sections consacrées à l'ἐκκλησία et aux institutions (témoignage historique, pas plan du monument).",
+        "Aristophane, L'Assemblée des femmes, évocations de la réunion des citoyens sur la Pnyx (comédie et fiction)."
+      ],
+      "methodology": "Restitution visuelle originale non métrique ; datation relative du troisième état, existence du bêma et du mur attestées ; réalisation complète, scène d'assemblée et décors non démontrés par les fouilles."
     }
   ]
 }
