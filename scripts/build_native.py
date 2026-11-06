@@ -464,7 +464,7 @@ def main():
     from eneide_source_access import NAMES as ENEIDE_NAMES, SOURCE_DIR as ENEIDE_DIR
     styled_readers = apply_museum_design(
         OUT, relative_paths=[
-            ENEIDE_DIR / name.removesuffix('.md') + '.html'
+            ENEIDE_DIR / (name.removesuffix('.md') + '.html')
             for name in ENEIDE_NAMES
         ])
     if styled_readers != len(ENEIDE_NAMES):
