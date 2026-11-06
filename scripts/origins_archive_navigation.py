@@ -75,7 +75,7 @@ def archive_shelf(out: Path, root: Path) -> str:
         if main.get_text(" ", strip=True) != original_text:
             raise RuntimeError(f"ODS : contenu scientifique modifié : {code}")
         page.write_text(str(document), encoding="utf-8")
-    return (
+    fragment = (
         '<section class="origins-archival-shelf portal-section" '
         'id="origines-archives-documentaires" aria-labelledby="origines-archives-titre">'
         '<h2 id="origines-archives-titre">Archives universitaires historiques : tomes XXV à XXXIII</h2>'
@@ -86,3 +86,5 @@ def archive_shelf(out: Path, root: Path) -> str:
         '<div class="origins-archival-grid">' + "".join(cards) + '</div>'
         '</section>'
     )
+    from origins_archival_concordance import enrich
+    return enrich(fragment, out, root)
