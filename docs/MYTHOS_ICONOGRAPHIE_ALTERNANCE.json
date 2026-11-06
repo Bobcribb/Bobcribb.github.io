@@ -5,64 +5,42 @@
   "branch": "main",
   "latest_session": {
     "date": "2026-11-06",
-    "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "previous_kind": "AUDIT ET CORRECTION",
-    "next_kind": "AUDIT ET CORRECTION",
-    "scope": "Séance 68 : trois rapprochements documentaires sans confusion de témoignages — enceinte de Troie VI (Iliade VI), dessin de Flaxman (Iliade XXIII / Odyssée XI), retour d’Héphaïstos sur coupe archaïque (Théogonie / traditions figurées).",
-    "basis_commit": "261661f4eb2e62d2313136c9ae565b844b91a22f",
-    "figures": [
-      {
-        "page": "philosophie-iliade.html",
-        "id": "icono-iliade-troie-vi-porte-est-s68-20261106",
-        "asset": "/media/2026/10/mythos-troie-vi-porte-est-hisarlik-cherryx-2012.jpg",
-        "source": "Wikimedia Commons CherryX CC BY-SA 3.0 ; UNESCO Troie"
-      },
-      {
-        "page": "philosophie-odyssee.html",
-        "id": "icono-odyssee-achille-patrocle-flaxman-s68-20261106",
-        "asset": "/assets/illustrations-articles/met-341681-achille-ombre-patrocle-flaxman.webp",
-        "source": "Met 341681, Flaxman 1793, réception moderne"
-      },
-      {
-        "page": "philosophie-theogonie.html",
-        "id": "icono-theogonie-hephaistos-retour-oakeshott-s68-20261106",
-        "asset": "/media/2026/10/hephaiestos-retour-olympe-coupe-oakeshott-17-230-5.png",
-        "source": "Met 250543, coupe Oakeshott vers 550 av. J.-C."
-      }
-    ],
-    "precommit_audit": {
-      "pages_checked": 3,
-      "internal_anchors": 335,
-      "broken_anchors": 0,
-      "images_without_alt": 0,
+    "session_number": 69,
+    "kind": "AUDIT ET CORRECTION",
+    "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "scope": "Audit technique de la publication MYTHOS après séance 68 : diagnostic du blocage des 18 lecteurs Énéide créés tardivement ; vérification des trois figures de la séance précédente, de 7 HTML, des ancres, médias, CSS/JS, de la navigation, des gardes d'attribution et du domaine public.",
+    "basis_main_at_review": "2b21bcabb6ef89526a72b6760d9ac7eddb8b00da",
+    "corrected_main_head_at_report": "3ecfbd361b7e71b43295d3cb29139434d8f707b1",
+    "finding": "Exécution GitHub Pages 42188396415 échouée après génération (1 645 documents) : scripts/verify_museum_design.py:50 refusait _site/corpus/philosophie/eneide/13-pietas-destin.html, dépourvu de data-mythos-design=20261104. Cause : les 18 lecteurs HTML autonomes de l'Énéide étaient générés après la passe muséale globale. La collision MC-096, décrite dans l'issue 74, est déjà mise en attente conservatoire dans editorial/holds.json.",
+    "verified_main_correction": "Pendant l'audit, une publication concurrente sur main a corrigé le défaut par une solution plus complète : c05fecb9ba9f39262e5bc8aa0e4290dd8853114a avance la génération des 18 lecteurs avant l'habillage global ; 57914088bba3dfe37c6a2d7f04ab99cd1d30cbf8 ajoute le test du bandeau, menus, CSS et de la préservation octet à octet des 18 Markdown ; 4c3b99d3cbf991258017302c16d69c87139a839d indexe les lecteurs dans recherche et sitemap. Les fichiers réels de main ont été relus et la solution vérifiée structurellement. Les tests complets de publication restent à confirmer.",
+    "attempted_patch": "PR #77 ouverte sur une branche d'audit et corrigée en trois commits 31a0b4ddfa8991f0bf607a42dbbfaa4ab6b85d3f, 7a7732d2f5d29db20e440fe3e29377a9327d94b8 et facd892e2020301258d0ea958dd76157336f0d71. Fermée sans fusion car un correctif parallèle et plus complet était désormais présent sur main ; ne pas écraser ce correctif ni créer de doublon.",
+    "static_checks": {
+      "html_pages_checked": 7,
+      "local_hash_anchors_checked": 391,
+      "broken_hash_anchors": 0,
       "duplicate_html_ids": 0,
-      "missing_referenced_local_media": 0,
-      "original_html_preserved": "Inclusion strictement insertionnelle, ancienne chaîne source restituée à l’identique après retrait du nouveau bloc figure.",
-      "prior_a4_pages": "Iliade 107, Odyssée 101, Théogonie 103 selon mesures historiques du 4 novembre, non recalculées.",
-      "CI": "À contrôler après ouverture de la PR."
+      "image_elements": 160,
+      "images_without_alt": 0,
+      "local_image_paths": 157,
+      "missing_local_image_paths": 0,
+      "css_references": 34,
+      "missing_css_references": 0,
+      "javascript_references": 13,
+      "missing_js_references": 0,
+      "recursive_git_tree_paths": 5680,
+      "missing_local_assets": 0,
+      "source_html_session68_figures": 3,
+      "viewport_meta_present": true,
+      "responsive_css_breakpoints_present": true,
+      "focus_visible_and_reduced_motion_in_museum_css": true,
+      "visual_mobile_and_wcag_full_audit": "Non effectués : vérifications statiques uniquement.",
+      "scholarly_references": "Notices de 3 figures relues : Troie VI/CherryX-UNESCO ; Flaxman 1793, Met 341681 ; coupe Peintre d'Oakeshott vers 550 av. J.-C., Met 250543. Datations, crédits, statut documentaire et absence de génération IA mentionnés."
     },
-    "file_commits": [
-      {
-        "path": "philosophie-iliade.html",
-        "commit": "7be4eb51d22375bd780c6ccd4f9791eb77616817"
-      },
-      {
-        "path": "philosophie-odyssee.html",
-        "commit": "d00dc9b30a177024387164a56e2e00d25408e9c1"
-      },
-      {
-        "path": "philosophie-theogonie.html",
-        "commit": "3d440557569bd85fb4662603998ab047946dc3cb"
-      },
-      {
-        "path": "tests/test_iconography_session68_epic_documents.py",
-        "commit": "8fab1ffbfdb0202a6ae1abe0dc1bcaf5f63501dd"
-      }
-    ],
-    "preservation": "Conservation des textes universitaires, menus, CSS/JS, numérotation, attributions, routines GitHub, autres planifications et anciens médias. Aucun nouveau fichier numéroté ni média binaire. Trois éléments figure ajoutés dans les monographies présentes.",
-    "publication_status": "Enregistré dans branche s68 seulement ; PR et CI à confirmer ; aucune publication HTTPS affirmée.",
-    "obstacles": "La PR 69 portant séances 66–67 est encore ouverte lors de la préparation ; le site public bobmythos.fr n’est pas vérifié pour ces figures.",
-    "next_session": "Séance 69 — AUDIT ET CORRECTION"
+    "public_observation": "Contrôle HTTP/HTTPS indépendant : /catalog/publication-verification.json indique encore source_commit db016f6cbc0bec783e369a1e2874f0c6a1883aa6, 1604 documents, 27 tomes, 110 médias, github_run_id 42175517252. La mise en ligne des trois figures de la séance 68, des 18 lecteurs remaquettés et du correctif reste NON confirmée.",
+    "preservation": "Aucun nouveau chapitre, aucun changement de numérotation, d'UUID, de reçu, de registre, de texte universitaire, de CSS existant, de navigation ni d'automatisation horaire lors de cette séance. AGENTS.md et docs/PUBLICATION_CONCURRENTE.md lus sur main.",
+    "obstacles": "Concurrence de commits entre plusieurs chantiers sur main ; la PR #77 est fermée sans fusion, les corrections équivalentes déjà fusionnées sur main. Le déploiement public reste à prouver par Actions terminée, manifeste HTTPS actualisé et présence effective des trois figure id.",
+    "next_session": "Séance 70 — ENRICHISSEMENT ICONOGRAPHIQUE"
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
   "history": [
@@ -4184,6 +4162,45 @@
       "publication_status": "Enregistré dans branche s68 seulement ; PR et CI à confirmer ; aucune publication HTTPS affirmée.",
       "obstacles": "La PR 69 portant séances 66–67 est encore ouverte lors de la préparation ; le site public bobmythos.fr n’est pas vérifié pour ces figures.",
       "next_session": "Séance 69 — AUDIT ET CORRECTION"
+    },
+    {
+      "date": "2026-11-06",
+      "session_number": 69,
+      "kind": "AUDIT ET CORRECTION",
+      "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "scope": "Audit technique de la publication MYTHOS après séance 68 : diagnostic du blocage des 18 lecteurs Énéide créés tardivement ; vérification des trois figures de la séance précédente, de 7 HTML, des ancres, médias, CSS/JS, de la navigation, des gardes d'attribution et du domaine public.",
+      "basis_main_at_review": "2b21bcabb6ef89526a72b6760d9ac7eddb8b00da",
+      "corrected_main_head_at_report": "3ecfbd361b7e71b43295d3cb29139434d8f707b1",
+      "finding": "Exécution GitHub Pages 42188396415 échouée après génération (1 645 documents) : scripts/verify_museum_design.py:50 refusait _site/corpus/philosophie/eneide/13-pietas-destin.html, dépourvu de data-mythos-design=20261104. Cause : les 18 lecteurs HTML autonomes de l'Énéide étaient générés après la passe muséale globale. La collision MC-096, décrite dans l'issue 74, est déjà mise en attente conservatoire dans editorial/holds.json.",
+      "verified_main_correction": "Pendant l'audit, une publication concurrente sur main a corrigé le défaut par une solution plus complète : c05fecb9ba9f39262e5bc8aa0e4290dd8853114a avance la génération des 18 lecteurs avant l'habillage global ; 57914088bba3dfe37c6a2d7f04ab99cd1d30cbf8 ajoute le test du bandeau, menus, CSS et de la préservation octet à octet des 18 Markdown ; 4c3b99d3cbf991258017302c16d69c87139a839d indexe les lecteurs dans recherche et sitemap. Les fichiers réels de main ont été relus et la solution vérifiée structurellement. Les tests complets de publication restent à confirmer.",
+      "attempted_patch": "PR #77 ouverte sur une branche d'audit et corrigée en trois commits 31a0b4ddfa8991f0bf607a42dbbfaa4ab6b85d3f, 7a7732d2f5d29db20e440fe3e29377a9327d94b8 et facd892e2020301258d0ea958dd76157336f0d71. Fermée sans fusion car un correctif parallèle et plus complet était désormais présent sur main ; ne pas écraser ce correctif ni créer de doublon.",
+      "static_checks": {
+        "html_pages_checked": 7,
+        "local_hash_anchors_checked": 391,
+        "broken_hash_anchors": 0,
+        "duplicate_html_ids": 0,
+        "image_elements": 160,
+        "images_without_alt": 0,
+        "local_image_paths": 157,
+        "missing_local_image_paths": 0,
+        "css_references": 34,
+        "missing_css_references": 0,
+        "javascript_references": 13,
+        "missing_js_references": 0,
+        "recursive_git_tree_paths": 5680,
+        "missing_local_assets": 0,
+        "source_html_session68_figures": 3,
+        "viewport_meta_present": true,
+        "responsive_css_breakpoints_present": true,
+        "focus_visible_and_reduced_motion_in_museum_css": true,
+        "visual_mobile_and_wcag_full_audit": "Non effectués : vérifications statiques uniquement.",
+        "scholarly_references": "Notices de 3 figures relues : Troie VI/CherryX-UNESCO ; Flaxman 1793, Met 341681 ; coupe Peintre d'Oakeshott vers 550 av. J.-C., Met 250543. Datations, crédits, statut documentaire et absence de génération IA mentionnés."
+      },
+      "public_observation": "Contrôle HTTP/HTTPS indépendant : /catalog/publication-verification.json indique encore source_commit db016f6cbc0bec783e369a1e2874f0c6a1883aa6, 1604 documents, 27 tomes, 110 médias, github_run_id 42175517252. La mise en ligne des trois figures de la séance 68, des 18 lecteurs remaquettés et du correctif reste NON confirmée.",
+      "preservation": "Aucun nouveau chapitre, aucun changement de numérotation, d'UUID, de reçu, de registre, de texte universitaire, de CSS existant, de navigation ni d'automatisation horaire lors de cette séance. AGENTS.md et docs/PUBLICATION_CONCURRENTE.md lus sur main.",
+      "obstacles": "Concurrence de commits entre plusieurs chantiers sur main ; la PR #77 est fermée sans fusion, les corrections équivalentes déjà fusionnées sur main. Le déploiement public reste à prouver par Actions terminée, manifeste HTTPS actualisé et présence effective des trois figure id.",
+      "next_session": "Séance 70 — ENRICHISSEMENT ICONOGRAPHIQUE"
     }
   ]
 }
