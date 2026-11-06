@@ -441,6 +441,14 @@ def main():
     from eneide_source_access import install as install_eneide_source_access
     print('Énéide — manuscrits originaux distribués :',
           install_eneide_source_access(ROOT, OUT))
+    # Les neuf lecteurs théâtraux précèdent l'indexation et la passe muséale.
+    # Les sources Markdown, leurs cotes et les études critiques restent intactes.
+    from theatre_fragment_index import verified_editions
+    from theatre_source_readers import build_readers
+    theatre_source_records = verified_editions(ROOT, OUT)
+    if build_readers(ROOT, OUT, theatre_source_records) != len(theatre_source_records):
+        raise RuntimeError('Théâtre : lecteurs sources incomplets avant habillage')
+    print('Théâtre — manuscrits sources HTML distribués :', len(theatre_source_records))
     # Construire le moteur de recherche et le sitemap APRES la création des
     # 18 lecteurs HTML, mais AVANT leur habillage muséal. Sinon ces pages
     # intégrales sont absentes du catalogue reconstruit ou l'index écrase
@@ -458,7 +466,7 @@ def main():
     # de volumes et sans confondre scènes contemporaines et témoins antiques.
     from theatre_fragment_index import install as install_theatre_fragment_index
     print('Théâtre — éditions fragmentaires documentées :',
-          install_theatre_fragment_index(ROOT, OUT))
+          install_theatre_fragment_index(ROOT, OUT, build_source_readers=False))
     # Notices de concordance après les outils de lecture, hors manuscrits.
     from editorial_concordances import install as install_editorial_concordances
     print('Concordances canoniques et Laconie :',
