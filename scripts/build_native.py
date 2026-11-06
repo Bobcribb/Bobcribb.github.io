@@ -380,6 +380,11 @@ def main():
     n_pages,n_media=copy_repository()
     from sync_reconstitution_index import sync_index
     print('Sommaire 3D :', sync_index(OUT), 'vignettes ajoutées')
+    # Les auteurs peuvent ajouter une carte avant d'avoir régénéré le
+    # sommaire source. Le rendu final doit toujours relier chaque section.
+    from sync_photoreal_toc import synchronize as sync_photoreal_toc
+    print('Sommaire de lecture 3D :',
+          sync_photoreal_toc(OUT / 'reconstitutions-photorealistes.html', write=True))
     chapters=publish_chapters()
     numbered_titles = {e['url']: e['title'] for items in numbered_collections.values() for e in items}
     for entry in chapters:
@@ -481,6 +486,10 @@ def main():
     from build_reading_pdfs import build as build_reading_pdfs
     build_reading_pdfs(OUT)
     verify_sources(protected_sources)
+    # Réconcilier les quatre miroirs après les enrichissements tardifs,
+    # sans supprimer ni réécrire les manuscrits protégés.
+    from build_greek_corpus import synchronize_portal_catalogues
+    print('Portails grecs synchronisés :', synchronize_portal_catalogues(OUT))
     from verify_publication import verify as verify_publication
     verify_publication(ROOT, OUT)
     audit(OUT)
