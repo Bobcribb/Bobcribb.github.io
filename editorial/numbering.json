@@ -1684,6 +1684,12 @@
           "path": "chapitres/encyclopedie/chapitre-460-aphrodite-aphrodisias-statue-cultuelle-zoilos-asylie-sebasteion-eneas.md",
           "request_sha256": "c0f6d0fbfcf308813c2076953ebff007cd99023e374d31364551af3de940827d",
           "initial_source_sha256": "d99b06f668094142e9677f984a07e0d04271f29a6bf9b2535ab5bb421940a1e2"
+        },
+        "c320918e-56eb-448c-8b06-d76ec0af4029": {
+          "number": 461,
+          "path": "chapitres/encyclopedie/chapitre-461-apollon-didymeen-didymes-branchos-branchides-supplication-milet-temple-ionique-oracle.md",
+          "request_sha256": "d7a8b4a475dda639cf3a3f385bd2cc2e4718828268ec7c0a4222a2be87a96c9e",
+          "initial_source_sha256": "166595e7686b0e60ddf44d6a0ece6955c037f90461a6506b078a739bd027af15"
         }
       }
     },
@@ -3745,6 +3751,18 @@
           "path": "chapitres/comparatif/volume-cccxi-mc-104-trones-divin-isis-shamash-zeus-ezechiel-siege-vide-buddha.md",
           "request_sha256": "5a7cba2cbc3e1b9bb0447a4f107878bd5afa4a876ae7f21c2056fe1553a6dd7d",
           "initial_source_sha256": "cae456da6737080b53cacd387bce0b869704c379318fdfc44c032dc7deb6aaa8"
+        },
+        "c41b5e8a-7d32-4e6b-93a1-8f20d56c4a7e": {
+          "number": 312,
+          "path": "chapitres/comparatif/volume-cccxii-nuees-carte-monde-geometry-clerouquies-eubee-pericles-dicastes-sparte-423.md",
+          "request_sha256": "d29eba1b27daac31a00d7895710fa4f1cbae45c72d10f97ce33b18812388ff08",
+          "initial_source_sha256": "b9b411e35965436b38fad5c53a69f9fdbdd2a52fe21e62ef3d4018d1fe09c329"
+        },
+        "c9a76d31-2b4e-41cc-9a08-202611061106": {
+          "number": 313,
+          "path": "chapitres/comparatif/volume-cccxiii-mc-106-batons-divin-was-shamash-hermes-moise-lituus-danda-barsom.md",
+          "request_sha256": "e5d57e20048a3e6f27e462557404300bd4f030a799ad23706d540839fc838ac7",
+          "initial_source_sha256": "79a942d46999ace0a862c6accaf5e039f401d8cb0dc32c4e317a309579df0e16"
         }
       }
     }
