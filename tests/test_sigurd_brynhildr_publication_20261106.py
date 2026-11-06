@@ -17,7 +17,7 @@ class SigurdBrynhildrPublicationTests(unittest.TestCase):
     def test_original_not_deleted_and_monograph_complete(self):
         html = (ROOT / SIGURD).read_text(encoding="utf-8")
         self.assertIn("1. Des témoins qui ne racontent pas la même histoire", html)
-        self.assertIn("7. Source documentaire", html)
+        self.assertIn('id="lecture-section-7"', html)
         self.assertIn("XXII. Histoire, réception moderne et conclusion critique", html)
         self.assertIn("sigurd-monographie-sources", html)
         self.assertGreater(len(html), 35000)
