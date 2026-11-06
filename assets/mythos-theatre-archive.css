@@ -1,0 +1,46 @@
+/* MYTHOS — accès aux neuf études critiques historiques du théâtre grec.
+   L'image documente l'iconographie théâtrale ; elle n'illustre aucune pièce perdue. */
+.mythos-theatre-archive-figure {
+  display:grid; grid-template-columns:minmax(0, 14rem) minmax(0,1fr);
+  align-items:center; gap:clamp(.8rem,2.2vw,1.5rem);
+  margin:1.3rem 0 1.7rem; padding:.85rem;
+  border:1px solid rgba(198,158,88,.4); border-radius:12px;
+  background:linear-gradient(135deg,#101819,#1d2220);
+  color:#eee3cd;
+}
+.mythos-theatre-archive-figure img {
+  display:block; width:100%; aspect-ratio:4/3; object-fit:cover;
+  border-radius:7px; border:1px solid rgba(198,158,88,.35);
+}
+.mythos-theatre-archive-figure figcaption {
+  margin:0; max-width:64ch; line-height:1.65; font-size:.95rem;
+}
+.mythos-theatre-edition nav a[href$="-source.md"] {color:#e4ca92;}
+.mythos-theatre-archive-return {
+  display:flex; flex-wrap:wrap; align-items:stretch; gap:.6rem;
+  max-width:1160px; margin:.8rem auto 1.3rem; padding:0 1.1rem;
+}
+.mythos-theatre-archive-return a {
+  display:inline-flex; align-items:center; min-height:44px;
+  box-sizing:border-box; border:1px solid #ad8b54;
+  border-radius:8px; background:#182021; color:#f5e3b9;
+  padding:.65rem .9rem; line-height:1.4; font-weight:550;
+  text-decoration:none;
+}
+.mythos-theatre-archive-return a:hover {
+  background:#29312f; border-color:#e3c586;
+  text-decoration:underline; text-underline-offset:3px;
+}
+.mythos-theatre-archive-return a:focus-visible,
+.mythos-theatre-edition nav a:focus-visible {
+  outline:3px solid #f4d38e; outline-offset:3px;
+}
+@media (max-width:620px) {
+  .mythos-theatre-archive-figure {grid-template-columns:minmax(0,1fr);}
+  .mythos-theatre-archive-figure img {max-height:190px;}
+  .mythos-theatre-archive-return {display:grid;grid-template-columns:minmax(0,1fr);padding:0 .8rem;}
+  .mythos-theatre-archive-return a {width:100%;}
+}
+@media (prefers-reduced-motion:reduce) {
+  .mythos-theatre-archive-return a {transition:none;}
+}
