@@ -220,6 +220,8 @@ def _note(key, group, members):
         + 'Numéros, UUID et manuscrits restent inchangés.</p>'
         '<ul>' + links + '</ul>'
     )
+    if group.get("editorial_note"):
+        note += "<p>" + escape(group["editorial_note"]) + "</p>"
     if group.get("administrative_note"):
         note += '<p><strong>Erratum administratif :</strong> ' + escape(group["administrative_note"]) + '</p>'
     return (note + '<p><a href="' + escape(group["guide_url"], quote=True)
@@ -275,9 +277,10 @@ def install(root, out):
             for old in doc.select("#" + selector):
                 old.decompose()
             numbers = ", ".join(str(m["number"]) for m in members)
+            author_link = ("d’" if group["author"][0].casefold() in "aàâeéèêëiîïoôuùûüy" else "de ")
             section = BeautifulSoup(
                 '<section class="portal-section" id="' + escape(selector, quote=True) + '">'
-                + f'<h2>Une œuvre d’{escape(group["author"])} — {len(members)} monographies '
+                + f'<h2>Une œuvre {author_link}{escape(group["author"])} — {len(members)} monographies '
                   f'({escape(numbers)})</h2>'
                 + '<p><em>' + escape(group["transliteration"]) + '</em> ('
                 + escape(group["greek_title"]) + ') : '
