@@ -2,7 +2,7 @@
   "generated_at": "2026-11-06",
   "site": "bobmythos.fr",
   "method": "Illustrations photoréalistes interprétatives, textes et sources hors des pixels.",
-  "count": 60,
+  "count": 61,
   "entries": [
     {
       "id": "DEL-PAN-001",
@@ -1419,6 +1419,59 @@
       ],
       "methodology": "Restitution d’ambiance informée par les vestiges et les recherches, sans précision métrique garantie ni validation institutionnelle ; les parties reconstruites non documentées sont explicitées.",
       "publication_status": "fichier_prepare_non_publie_deploiement_https_a_verifier"
+    },
+    {
+      "id": "ARG-HER-001",
+      "slug": "argos-heraion-nouveau-temple-vers-420-av-jc",
+      "title": "Argos (Argolide) — nouvel Héraion, temple dorique d’Eupolémos, vers 420 av. J.-C.",
+      "period": "Fin du Ve siècle av. J.-C., vers 420 av. J.-C. (après l’incendie de l’ancien temple en 423 av. J.-C.).",
+      "caption": "Vue photoréaliste interprétative du nouveau temple d’Héra sur la terrasse inférieure du sanctuaire argien, dominant la plaine d’Argolide, peu après sa construction vers 420 av. J.-C.",
+      "commentary": "Le sanctuaire d’Héra d’Argos (Héraion argien), établi sur les pentes méridionales de l’Aétovouno au-dessus de la plaine d’Argolide, s’organisait en terrasses. Après l’incendie de l’ancien temple de la terrasse supérieure en 423 av. J.-C., événement raconté par Thucydide (IV, 133, 2), le nouveau temple fut élevé vers 420 av. J.-C. sur la terrasse inférieure. L’Éphorie des Antiquités d’Argolide attribue les plans à Eupolémos d’Argos et décrit un temple dorique périptère en pierre poreuse, à six colonnes en façade et douze sur les longs côtés, comprenant pronaos, naos et opisthodome. Pausanias (II, 17, 3–4), témoin bien plus tardif, rattache aussi le temple à Eupolémos et mentionne la célèbre statue chryséléphantine d’Héra par Polyclète. L’image évoque la morphologie du péristyle, le soubassement en gradins, la rampe d’accès, le portique voisin et les niveaux du terrain. La couverture intégrale en tuiles, les bandeaux colorés, les détails des parties hautes, les reliefs du fronton, l’apparence des portiques, la répartition du mobilier rituel, les costumes des visiteurs, les essences végétales et le point de vue sont des restitutions conjecturales. Le visuel ne fournit ni relevé archéologique, ni photogrammétrie ni géométrie métrique fiable. Les institutions et ouvrages cités documentent le sanctuaire mais ne valident pas cette image générée numériquement.",
+      "certainty": "Élevé : sanctuaire et position en terrasses en Argolide ; culte d’Héra ; nouveau temple dorique périptère à 6 × 12 colonnes vers 420 av. J.-C. ; incendie de l’ancien temple en 423 av. J.-C. Moyen : attribution à Eupolémos transmise par Pausanias et reprise par l’Éphorie ; organisation du pronaos, du naos et de l’opisthodome ; apparence générale de la rampe et des portiques. Faible : façades supérieures exactes, toiture et tuiles, polychromie, motifs sculptés figurés ou absents, mobilier cultuel, autel dans cette phase précise, personnes, végétation, couleur des matériaux, position de la caméra et paysage atmosphérique.",
+      "source_url": "https://www.argolisculture.gr/fr/liste-de-monuments/l-heraion-d-argos/",
+      "secondary_sources": [
+        "https://www.argolisculture.gr/en/list-of-monuments/archaeological-site-of-heraion-argos/",
+        "https://www.theoi.com/Text/Pausanias2B.html",
+        "https://scaife-reader.perseus.tufts.edu/reader/urn%3Acts%3AgreekLit%3Atlg0003.tlg001.1st1K-eng1%3A4.133.2/",
+        "https://doi.org/10.11588/propylaeum.1035.c14058"
+      ],
+      "src": "/assets/reconstitutions-3d/argos-heraion-nouveau-temple-vers-420-av-jc.webp",
+      "image": "/assets/reconstitutions-3d/argos-heraion-nouveau-temple-vers-420-av-jc.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-06",
+      "type": "reconstitution numérique photoréaliste interprétative à apparence 3D, non métrique",
+      "provenance": "Image originale générée pour MYTHOS puis convertie au format WebP. Aucune légende, menu, interface, carte, infographie 2,5D ou filigrane n’est incrusté. Les sources ne constituent pas une approbation institutionnelle de l’image.",
+      "sha256": "d99a33200d1681c2c1b7c7b0685c49578bf6af88eca891804418af8a63e0c31a",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/argos-heraion-nouveau-temple-vers-420-av-jc.json",
+      "scientific_sources": [
+        {
+          "label": "Éphorie des Antiquités d’Argolide — L’Héraion d’Argos",
+          "url": "https://www.argolisculture.gr/fr/liste-de-monuments/l-heraion-d-argos/"
+        },
+        {
+          "label": "Éphorie des Antiquités d’Argolide — Archaeological site of Heraion, Argos",
+          "url": "https://www.argolisculture.gr/en/list-of-monuments/archaeological-site-of-heraion-argos/"
+        },
+        {
+          "label": "Pausanias, Description de la Grèce, II, 17, 3–4 (texte antique, témoignage tardif)",
+          "url": "https://www.theoi.com/Text/Pausanias2B.html"
+        },
+        {
+          "label": "Thucydide, Guerre du Péloponnèse, IV, 133, 2 (incendie en 423 av. J.-C.)",
+          "url": "https://scaife-reader.perseus.tufts.edu/reader/urn%3Acts%3AgreekLit%3Atlg0003.tlg001.1st1K-eng1%3A4.133.2/"
+        },
+        {
+          "label": "D. A. Kousoulas, The Heraion of Argos in Comparison to the Temple of Epikourios Apollo at Bassae (2023)",
+          "url": "https://doi.org/10.11588/propylaeum.1035.c14058"
+        }
+      ],
+      "primary_texts": [
+        "Thucydide, Histoire de la guerre du Péloponnèse IV, 133, 2 : incendie de l’ancien temple en 423 av. J.-C.",
+        "Pausanias, Description de la Grèce II, 17, 3–4 : Eupolémos, décors sculptés et statue de Polyclète ; source du IIe siècle apr. J.-C."
+      ],
+      "methodology": "Visualisation documentaire interprétative (et non modèle 3D mesurable, maquette numérique archéologique validée, photographie ou restitution certaine des états antiques). Les détails non documentés sont hypothétiques.",
+      "publication_status": "branch_committed_pending_https_verification"
     }
   ]
 }
