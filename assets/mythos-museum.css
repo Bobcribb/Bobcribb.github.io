@@ -1928,3 +1928,82 @@ body.mythos-design .origins-archival-integral .origins-integral-copy{display:fle
 body.mythos-design .origins-archival-integral .origins-integral-caveat{color:#c8b79f;font:13px/1.6 Georgia,serif}
 @media(max-width:620px){body.mythos-design .origins-archival-integral .origins-integral-link{grid-template-columns:minmax(0,1fr)}body.mythos-design .origins-archival-integral .origins-integral-picture{height:auto;max-height:230px;object-fit:contain}}
 @media(prefers-reduced-motion:reduce){body.mythos-design .origins-archival-integral *{transition:none!important}}
+
+/* Accueil : bibliothèques des civilisations et des mythologies du monde.
+   Iconographie documentaire locale, liens de lecture et mobile tactile.
+   La bannière muséale grecque d'origine reste inchangée. */
+body.mythos-design #home-collections .portal-card[data-mythos-home-collection]{
+  min-width:0;
+  border-color:#85704f!important;
+  background:linear-gradient(130deg,#10191b,#0a1012)!important;
+}
+body.mythos-design #home-collections .portal-card[data-mythos-home-collection]:is(:hover,:focus-visible){
+  border-color:#e5c38b!important;
+  background:#192425!important;
+}
+body.mythos-design #home-collections .mythos-home-cover-credit{
+  display:block;
+  grid-column:2!important;
+  color:#d7c5a7!important;
+  font:12px/1.45 Georgia,serif;
+  overflow-wrap:anywhere;
+}
+body.mythos-design .mythos-world-reading{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  flex-wrap:wrap;
+  gap:.4rem 1rem;
+  padding:.9rem 1.1rem;
+  margin:1rem 0 0;
+  color:#ebdecb;
+  background:#0d1617;
+  border-block:1px solid #786141;
+  font:15px/1.6 Georgia,serif;
+  text-align:center;
+}
+body.mythos-design .mythos-world-reading a{
+  display:inline-flex;
+  align-items:center;
+  min-height:44px;
+  padding:.45rem .75rem;
+  color:#f6d69c;
+  background:#172323;
+  border:1px solid #997b4f;
+  border-radius:3px;
+  text-decoration:underline;
+  text-underline-offset:.2em;
+}
+body.mythos-design .mythos-world-reading a:is(:hover,:focus-visible){
+  background:#2a312d;
+  border-color:#f4d293;
+}
+@media(max-width:700px){
+  body.mythos-design #home-collections .portal-card[data-mythos-home-collection]{
+    grid-template-columns:minmax(75px,26%) minmax(0,1fr)!important;
+    min-height:155px!important;
+  }
+  body.mythos-design #home-collections .portal-card[data-mythos-home-collection] .mythos-card-image{
+    width:100%!important;
+    height:100%!important;
+    max-height:215px!important;
+    object-fit:cover;
+  }
+  body.mythos-design .mythos-world-reading{display:block;padding:.85rem .7rem;font-size:14px}
+  body.mythos-design .mythos-world-reading a{display:flex;justify-content:center;margin-top:.55rem}
+}
+@media(max-width:380px){
+  body.mythos-design #home-collections .portal-card[data-mythos-home-collection]{
+    grid-template-columns:minmax(0,1fr)!important;
+  }
+  body.mythos-design #home-collections .portal-card[data-mythos-home-collection] .mythos-card-image{
+    grid-column:1!important;grid-row:auto;width:100%!important;height:150px!important;
+  }
+  body.mythos-design #home-collections .portal-card[data-mythos-home-collection]>*:not(img){
+    grid-column:1!important;
+  }
+}
+@media print{
+  body.mythos-design .mythos-world-reading{background:white;color:#111}
+  body.mythos-design .mythos-world-reading a{background:white;color:#111}
+}
