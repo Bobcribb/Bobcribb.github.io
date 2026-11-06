@@ -69,6 +69,10 @@ def archive_shelf(out: Path, root: Path) -> str:
             '<nav class="origins-archival-return" data-mythos-archival-return="1" '
             'aria-label="Retour au sommaire des archives des Origines du sacré">'
             '<a href="' + PORTAL + '">← Sommaire des neuf tomes historiques (XXV–XXXIII)</a>'
+            '<a class="origins-archival-source-link" '
+            'href="https://github.com/Bobcribb/Bobcribb.github.io/blob/main/'
+            + relative.with_suffix(".md").as_posix() + '" '
+            'rel="noopener noreferrer">Consulter le manuscrit Markdown original ↗</a>'
             '</nav>', "html.parser"
         ).nav
         masthead.insert_after(back)
