@@ -255,6 +255,13 @@ def create_greece(entries):
 
 def create_mythologies(entries):
     body='<h1>Mythologies du monde</h1><p class="portal-lead">Une encyclopédie comparée des dieux, des cosmogonies, des héros et des pratiques religieuses, fondée sur les textes et sur les témoignages matériels. La Grèce demeure notre point d’entrée privilégié, mais non notre seule perspective.</p>'
+    # Sommaire documentaire : ancres vers les trois familles, sans dupliquer les études.
+    body += ('<nav class="mythos-world-toc" aria-label="Sommaire des mythologies du monde">'
+             '<p class="mythos-world-toc-label">Parcourir les mythologies</p><ul>'
+             '<li><a href="#mythologies-figures">Dieux, héros et récits</a></li>'
+             '<li><a href="#mythologies-traditions">Les grandes traditions</a></li>'
+             '<li><a href="#mythologies-methodes">Figures et méthodes</a></li>'
+             '</ul></nav>')
     body+=section("Commencer par les figures et les histoires","Trois entrées fondamentales pour parcourir les traditions.",cards([
       ("/dieux-et-deesses/","Dieux et déesses","Panthéons grecs et divinités du monde."),
       ("/heros-et-heroines/","Héros et héroïnes","Destins, lignées et cycles épiques."),
@@ -280,6 +287,17 @@ def create_mythologies(entries):
       ("/civilisations/","Civilisations par continent","Contexte historique et culturel des traditions."),
       ("/philosophie/","Interpréter les mythes","Lectures philosophiques et comparaisons.")
     ]))
+    # Les identifiants correspondent exactement aux ancres du sommaire ci-dessus.
+    for heading, anchor in (
+        ("Commencer par les figures et les histoires", "mythologies-figures"),
+        ("Les grandes traditions", "mythologies-traditions"),
+        ("Figures, récits et méthodes", "mythologies-methodes"),
+    ):
+        old = '<section class="portal-section"><h2>' + esc(heading) + '</h2>'
+        if body.count(old) != 1:
+            raise RuntimeError("Sommaire mythologies : titre absent ou répété : " + heading)
+        new = '<section class="portal-section" id="' + anchor + '"><h2>' + esc(heading) + '</h2>'
+        body = body.replace(old, new, 1)
     write("mythologies",shell("Mythologies du monde",body))
 
 
