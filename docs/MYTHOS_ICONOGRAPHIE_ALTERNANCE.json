@@ -5,64 +5,81 @@
   "branch": "main",
   "latest_session": {
     "date": "2026-11-06",
-    "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "previous_kind": "AUDIT ET CORRECTION",
-    "next_kind": "AUDIT ET CORRECTION",
-    "scope": "Séance 68 : trois rapprochements documentaires sans confusion de témoignages — enceinte de Troie VI (Iliade VI), dessin de Flaxman (Iliade XXIII / Odyssée XI), retour d’Héphaïstos sur coupe archaïque (Théogonie / traditions figurées).",
-    "basis_commit": "261661f4eb2e62d2313136c9ae565b844b91a22f",
-    "figures": [
-      {
-        "page": "philosophie-iliade.html",
-        "id": "icono-iliade-troie-vi-porte-est-s68-20261106",
-        "asset": "/media/2026/10/mythos-troie-vi-porte-est-hisarlik-cherryx-2012.jpg",
-        "source": "Wikimedia Commons CherryX CC BY-SA 3.0 ; UNESCO Troie"
+    "kind": "AUDIT ET CORRECTION",
+    "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "scope": "Séance 69 : audit post-iconographie et fusion de la PR 73 ; intégrité des liens, images, styles, ancres, accessibilité, numérotation canonique et contrôle du retard de GitHub Pages.",
+    "basis_commit": "e528c46ad1a2f962e0eea3ac062a8fc51598bebf",
+    "merged_pr": {
+      "number": 73,
+      "head_commit": "d96f92df4a320b4a6a269aaab4514a059c5bd871",
+      "merge_commit": "7260760fbb4375aa20864577ba7b1f8fbef2b640",
+      "two_pr_checks": {
+        "audit": 42180746112,
+        "generator": 42180746119,
+        "status": "success"
       },
-      {
-        "page": "philosophie-odyssee.html",
-        "id": "icono-odyssee-achille-patrocle-flaxman-s68-20261106",
-        "asset": "/assets/illustrations-articles/met-341681-achille-ombre-patrocle-flaxman.webp",
-        "source": "Met 341681, Flaxman 1793, réception moderne"
-      },
-      {
-        "page": "philosophie-theogonie.html",
-        "id": "icono-theogonie-hephaistos-retour-oakeshott-s68-20261106",
-        "asset": "/media/2026/10/hephaiestos-retour-olympe-coupe-oakeshott-17-230-5.png",
-        "source": "Met 250543, coupe Oakeshott vers 550 av. J.-C."
-      }
-    ],
-    "precommit_audit": {
-      "pages_checked": 3,
-      "internal_anchors": 335,
-      "broken_anchors": 0,
-      "images_without_alt": 0,
-      "duplicate_html_ids": 0,
-      "missing_referenced_local_media": 0,
-      "original_html_preserved": "Inclusion strictement insertionnelle, ancienne chaîne source restituée à l’identique après retrait du nouveau bloc figure.",
-      "prior_a4_pages": "Iliade 107, Odyssée 101, Théogonie 103 selon mesures historiques du 4 novembre, non recalculées.",
-      "CI": "À contrôler après ouverture de la PR."
+      "verified_on_main": true
     },
-    "file_commits": [
-      {
-        "path": "philosophie-iliade.html",
-        "commit": "7be4eb51d22375bd780c6ccd4f9791eb77616817"
+    "audit": {
+      "repository_snapshot": "555e491d0dda28fc6be0f0ce43483d8014a947dd",
+      "pages_checked": 17,
+      "internal_anchors_checked": 597,
+      "broken_same_page_anchors": 0,
+      "local_html_references_checked": 8514,
+      "missing_local_targets": 0,
+      "images_checked": 333,
+      "images_without_alt_attribute": 0,
+      "decorative_images_with_empty_alt": 91,
+      "duplicate_html_ids": 0,
+      "all_checked_pages_have_viewport": true,
+      "all_checked_pages_have_single_h1": true,
+      "static_css_js_refs_included_in_local_reference_check": true,
+      "html_css_js_validation": "Static HTML/reference check; full generator and JS syntax verification delegated to CI. No independent live multi-viewport browser audit.",
+      "pages_with_session68_figures": [
+        "philosophie-iliade.html",
+        "philosophie-odyssee.html",
+        "philosophie-theogonie.html"
+      ],
+      "new_image_assets": 0
+    },
+    "numbering_audit": {
+      "registry_source_commit": "555e491d0dda28fc6be0f0ce43483d8014a947dd",
+      "allocations_by_collection": {
+        "origines-du-sacre": 125,
+        "encyclopedie": 97,
+        "comedies": 64,
+        "tragedies": 64,
+        "comparatif": 135
       },
-      {
-        "path": "philosophie-odyssee.html",
-        "commit": "d00dc9b30a177024387164a56e2e00d25408e9c1"
-      },
-      {
-        "path": "philosophie-theogonie.html",
-        "commit": "3d440557569bd85fb4662603998ab047946dc3cb"
-      },
-      {
-        "path": "tests/test_iconography_session68_epic_documents.py",
-        "commit": "8fab1ffbfdb0202a6ae1abe0dc1bcaf5f63501dd"
-      }
-    ],
-    "preservation": "Conservation des textes universitaires, menus, CSS/JS, numérotation, attributions, routines GitHub, autres planifications et anciens médias. Aucun nouveau fichier numéroté ni média binaire. Trois éléments figure ajoutés dans les monographies présentes.",
-    "publication_status": "Enregistré dans branche s68 seulement ; PR et CI à confirmer ; aucune publication HTTPS affirmée.",
-    "obstacles": "La PR 69 portant séances 66–67 est encore ouverte lors de la préparation ; le site public bobmythos.fr n’est pas vérifié pour ces figures.",
-    "next_session": "Séance 69 — AUDIT ET CORRECTION"
+      "total_allocations": 485,
+      "duplicate_allocation_numbers": 0,
+      "duplicate_allocation_paths": 0,
+      "missing_allocated_markdown": 0,
+      "legacy_historical_exceptions_retained": true
+    },
+    "publication_audit": {
+      "public_manifest_url": "https://bobmythos.fr/catalog/publication-verification.json",
+      "observed_source_commit": "db016f6cbc0bec783e369a1e2874f0c6a1883aa6",
+      "observed_run_id": 42175517252,
+      "session66_live_images_detected": 0,
+      "session68_live_images_detected": 0,
+      "public_images_checked_on_three_works": 6,
+      "conclusion": "Publication publique de la séance 68 non confirmée ; le manifeste et les images HTTPS montrent un état antérieur."
+    },
+    "new_verified_blocker": {
+      "failure_workflow_runs": [
+        42183909644,
+        42184528704
+      ],
+      "reason": "Collision d'identifiant historique MC-096 dans scripts/comparative_history.py (ValueError) avant déploiement ; retards supplémentaires par annulation de jobs lors de commits concurrents.",
+      "already_corrected_by_another_main_commit": "e528c46ad1a2f962e0eea3ac062a8fc51598bebf",
+      "correction": "Le second manuscrit MC-096 (UUID 4f96a7d1-7cde-4b95-ae63-202611060096) a été mis en attente, source intacte, dans editorial/holds.json ; ce journal ne touche pas aux attributions.",
+      "revalidation": "Workflow sur commit de correction en cours au dernier contrôle ; HTTPS toujours à vérifier."
+    },
+    "preservation": "Aucune modification des manuscrits, numéros canoniques, dossiers, registres, CSS/JS, médias, menus, générateurs ou planifications horaires dans cette séance. Seuls journal et test d'alternance sont proposés.",
+    "limitations": "17 pages contrôlées statiquement, non toutes les pages HTML ; pas de test responsive navigateur réel, pas de contrôle HTTP exhaustif des liens externes ni de nouveau comptage A4 (historique : 107/101/103 pages d'analyse).",
+    "next_session": "Séance 70 — ENRICHISSEMENT ICONOGRAPHIQUE"
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
   "history": [
@@ -4184,6 +4201,84 @@
       "publication_status": "Enregistré dans branche s68 seulement ; PR et CI à confirmer ; aucune publication HTTPS affirmée.",
       "obstacles": "La PR 69 portant séances 66–67 est encore ouverte lors de la préparation ; le site public bobmythos.fr n’est pas vérifié pour ces figures.",
       "next_session": "Séance 69 — AUDIT ET CORRECTION"
+    },
+    {
+      "date": "2026-11-06",
+      "kind": "AUDIT ET CORRECTION",
+      "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "scope": "Séance 69 : audit post-iconographie et fusion de la PR 73 ; intégrité des liens, images, styles, ancres, accessibilité, numérotation canonique et contrôle du retard de GitHub Pages.",
+      "basis_commit": "e528c46ad1a2f962e0eea3ac062a8fc51598bebf",
+      "merged_pr": {
+        "number": 73,
+        "head_commit": "d96f92df4a320b4a6a269aaab4514a059c5bd871",
+        "merge_commit": "7260760fbb4375aa20864577ba7b1f8fbef2b640",
+        "two_pr_checks": {
+          "audit": 42180746112,
+          "generator": 42180746119,
+          "status": "success"
+        },
+        "verified_on_main": true
+      },
+      "audit": {
+        "repository_snapshot": "555e491d0dda28fc6be0f0ce43483d8014a947dd",
+        "pages_checked": 17,
+        "internal_anchors_checked": 597,
+        "broken_same_page_anchors": 0,
+        "local_html_references_checked": 8514,
+        "missing_local_targets": 0,
+        "images_checked": 333,
+        "images_without_alt_attribute": 0,
+        "decorative_images_with_empty_alt": 91,
+        "duplicate_html_ids": 0,
+        "all_checked_pages_have_viewport": true,
+        "all_checked_pages_have_single_h1": true,
+        "static_css_js_refs_included_in_local_reference_check": true,
+        "html_css_js_validation": "Static HTML/reference check; full generator and JS syntax verification delegated to CI. No independent live multi-viewport browser audit.",
+        "pages_with_session68_figures": [
+          "philosophie-iliade.html",
+          "philosophie-odyssee.html",
+          "philosophie-theogonie.html"
+        ],
+        "new_image_assets": 0
+      },
+      "numbering_audit": {
+        "registry_source_commit": "555e491d0dda28fc6be0f0ce43483d8014a947dd",
+        "allocations_by_collection": {
+          "origines-du-sacre": 125,
+          "encyclopedie": 97,
+          "comedies": 64,
+          "tragedies": 64,
+          "comparatif": 135
+        },
+        "total_allocations": 485,
+        "duplicate_allocation_numbers": 0,
+        "duplicate_allocation_paths": 0,
+        "missing_allocated_markdown": 0,
+        "legacy_historical_exceptions_retained": true
+      },
+      "publication_audit": {
+        "public_manifest_url": "https://bobmythos.fr/catalog/publication-verification.json",
+        "observed_source_commit": "db016f6cbc0bec783e369a1e2874f0c6a1883aa6",
+        "observed_run_id": 42175517252,
+        "session66_live_images_detected": 0,
+        "session68_live_images_detected": 0,
+        "public_images_checked_on_three_works": 6,
+        "conclusion": "Publication publique de la séance 68 non confirmée ; le manifeste et les images HTTPS montrent un état antérieur."
+      },
+      "new_verified_blocker": {
+        "failure_workflow_runs": [
+          42183909644,
+          42184528704
+        ],
+        "reason": "Collision d'identifiant historique MC-096 dans scripts/comparative_history.py (ValueError) avant déploiement ; retards supplémentaires par annulation de jobs lors de commits concurrents.",
+        "already_corrected_by_another_main_commit": "e528c46ad1a2f962e0eea3ac062a8fc51598bebf",
+        "correction": "Le second manuscrit MC-096 (UUID 4f96a7d1-7cde-4b95-ae63-202611060096) a été mis en attente, source intacte, dans editorial/holds.json ; ce journal ne touche pas aux attributions.",
+        "revalidation": "Workflow sur commit de correction en cours au dernier contrôle ; HTTPS toujours à vérifier."
+      },
+      "preservation": "Aucune modification des manuscrits, numéros canoniques, dossiers, registres, CSS/JS, médias, menus, générateurs ou planifications horaires dans cette séance. Seuls journal et test d'alternance sont proposés.",
+      "limitations": "17 pages contrôlées statiquement, non toutes les pages HTML ; pas de test responsive navigateur réel, pas de contrôle HTTP exhaustif des liens externes ni de nouveau comptage A4 (historique : 107/101/103 pages d'analyse).",
+      "next_session": "Séance 70 — ENRICHISSEMENT ICONOGRAPHIQUE"
     }
   ]
 }
