@@ -11,19 +11,21 @@ from pathlib import Path
 import mistune
 from bs4 import BeautifulSoup
 
-from eneide_source_access import SOURCE_DIR, NAMES  # import dans install() uniquement
 
 
-def build_readers(out: Path, source_texts: list[tuple[str, str]], titles: list[str]) -> int:
+def build_readers(out: Path, source_texts: list[tuple[str, str]], titles: list[str], source_dir: Path) -> int:
     """Rendre chaque texte sans coupure, avec cote, bibliographie et parcours mobile."""
     out = Path(out)
-    if len(source_texts) != len(NAMES) or len(titles) != len(NAMES):
+    if len(source_texts) != 18 or len(titles) != 18:
         raise RuntimeError("Énéide : série des manuscrits à publier incomplète")
+    names = [name for name, _ in source_texts]
+    if len(set(names)) != len(names) or any(Path(n).name != n or not n.endswith(".md") for n in names):
+        raise RuntimeError("Énéide : noms de sources invalides ou dupliqués")
     markdown = mistune.create_markdown(escape=True, plugins=["table", "strikethrough", "url"])
     for index, ((name, original), title) in enumerate(zip(source_texts, titles)):
-        if name != NAMES[index] or not (out / SOURCE_DIR / name).is_file():
+        if not (out / source_dir / name).is_file():
             raise RuntimeError("Énéide : copie du manuscrit source manquante ou désordonnée")
-        if (out / SOURCE_DIR / name).read_text(encoding="utf-8") != original:
+        if (out / source_dir / name).read_text(encoding="utf-8") != original:
             raise RuntimeError("Énéide : texte public divergent du manuscrit original")
         body = markdown(original)
         doc = BeautifulSoup(body, "html.parser")
@@ -35,10 +37,10 @@ def build_readers(out: Path, source_texts: list[tuple[str, str]], titles: list[s
         prev_link = ""
         next_link = ""
         if index:
-            previous = NAMES[index - 1].removesuffix(".md") + ".html"
+            previous = names[index - 1].removesuffix(".md") + ".html"
             prev_link = '<a rel="prev" href="/corpus/philosophie/eneide/' + previous + '">← Texte précédent</a>'
-        if index + 1 < len(NAMES):
-            following = NAMES[index + 1].removesuffix(".md") + ".html"
+        if index + 1 < len(names):
+            following = names[index + 1].removesuffix(".md") + ".html"
             next_link = '<a rel="next" href="/corpus/philosophie/eneide/' + following + '">Texte suivant →</a>'
         navigation = (
             '<nav class="eneide-reader-nav" aria-label="Parcours des manuscrits">'
@@ -59,7 +61,7 @@ def build_readers(out: Path, source_texts: list[tuple[str, str]], titles: list[s
             '<a class="eneide-skip" href="#texte-integral">Aller au texte intégral</a>'
             '<header class="eneide-reader-banner"><a class="eneide-reader-brand" href="/">MYTHOS</a>'
             '<p>Bibliothèque universitaire · Énéide de Virgile</p>'
-            '<strong>Manuscrit ' + str(index + 1) + ' / ' + str(len(NAMES)) + '</strong></header>'
+            '<strong>Manuscrit ' + str(index + 1) + ' / ' + str(len(names)) + '</strong></header>'
             '<main class="eneide-reader-main"><div class="eneide-reader-inner">'
             + navigation
             + '<article id="texte-integral" class="eneide-reader-text" aria-label="Texte universitaire intégral">'
@@ -73,7 +75,7 @@ def build_readers(out: Path, source_texts: list[tuple[str, str]], titles: list[s
             '<a href="/mythologie-grecque/">Encyclopédie grecque</a></footer>'
             '</body></html>\n'
         )
-        target = out / SOURCE_DIR / (name.removesuffix(".md") + ".html")
+        target = out / source_dir / (name.removesuffix(".md") + ".html")
         target.parent.mkdir(parents=True, exist_ok=True)
         target.write_text(page, encoding="utf-8")
     return len(source_texts)
