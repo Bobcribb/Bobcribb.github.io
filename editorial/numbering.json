@@ -3247,6 +3247,12 @@
           "path": "chapitres/comparatif/volume-cclxxxiii-mc-091-jeu-sacre-senet-ur-des-mahabharata-voluspa-popol-vuh.md",
           "request_sha256": "e4e14678b76f262f8af7a84558cde558923d970c795339d79a67a6329ea2a74f",
           "initial_source_sha256": "2d8f57945d416bb0b24cfffd20fa2baa517c75c154c48dfa6d5eed3ca95cb060"
+        },
+        "92b006f2-e5c3-49da-82ac-202611060352": {
+          "number": 284,
+          "path": "chapitres/comparatif/volume-cclxxxiv-mc-092-miroirs-du-divin-reflet-apparition-divination-souverainete-egypte-japon.md",
+          "request_sha256": "8d33a601fb4a1898f59539e17e06c2d7fb0c10716bea75678e6448a4c064664d",
+          "initial_source_sha256": "0188f054b2aa80c77d7af29853d53d4e7f0e415d9927a5f7d0c98f240860721b"
         }
       }
     }
