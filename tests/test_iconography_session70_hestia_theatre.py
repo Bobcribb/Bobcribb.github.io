@@ -29,12 +29,23 @@ class TestSession70Iconography(unittest.TestCase):
         self.assertIn('id="lecture-section-4"', hestia)
         self.assertIn('id="lecture-section-1"', theatre)
         state = json.loads((ROOT / "docs/MYTHOS_ICONOGRAPHIE_ALTERNANCE.json").read_text(encoding="utf-8"))
-        latest = state["latest_session"]
-        self.assertEqual(latest["session_number"], 70)
-        self.assertEqual(latest["previous_kind"], "AUDIT ET CORRECTION")
-        self.assertEqual(latest["kind"], "ENRICHISSEMENT ICONOGRAPHIQUE")
-        self.assertEqual(latest["next_kind"], "AUDIT ET CORRECTION")
-        self.assertEqual(sum(row.get("session_number") == 70 for row in state["history"]), 1)
+        history = state["history"]
+        self.assertEqual(state["latest_session"], history[-1])
+        matches70 = [row for row in history if row.get("session_number") == 70]
+        matches69 = [row for row in history if row.get("session_number") == 69]
+        self.assertEqual(len(matches70), 1)
+        self.assertEqual(len(matches69), 1)
+        session70 = matches70[0]
+        self.assertEqual(session70["previous_kind"], "AUDIT ET CORRECTION")
+        self.assertEqual(session70["kind"], "ENRICHISSEMENT ICONOGRAPHIQUE")
+        self.assertEqual(session70["next_kind"], "AUDIT ET CORRECTION")
+        self.assertEqual(session70["new_figures"], 5)
+        figures = session70["supplemental_documentary_figures"]["figures"]
+        self.assertEqual({row["id"] for row in figures}, {row[1] for row in FIGURES})
+        self.assertIn("parallel_audit_pr75", matches69[0])
+        for prev, current in zip(history, history[1:]):
+            self.assertNotEqual(prev["kind"], current["kind"])
+            self.assertEqual(prev["next_kind"], current["kind"])
 
 if __name__ == "__main__":
     unittest.main()

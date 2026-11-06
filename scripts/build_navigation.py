@@ -65,6 +65,10 @@ def section(title,lead="",body=""):
 
 def card(url,title,description="",label="COLLECTION"):
     image = credit = ""
+    if url == "/bibliotheque-mythologies-du-monde/mythos-volume-13-armenie-vahagn-david-sassoun/":
+        # Photographie sourcée d'une réception moderne du héros, pas objet antique.
+        image = '<img class="mythos-card-image" data-mythos-card-source="sassoun-kochar-2014" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/2014_Erywa%C5%84%2C_Pomnik_Dawida_Sasu%C5%84skiego_%2801%29.jpg/960px-2014_Erywa%C5%84%2C_Pomnik_Dawida_Sasu%C5%84skiego_%2801%29.jpg" alt="Statue moderne de David de Sassoun par Yervand Kochar à Erevan, photographiée en 2014." loading="lazy" decoding="async"/>'
+        credit = '<span class="mythos-photographic-credit">Photo : Marcin Konsek (2014), Wikimedia Commons · CC BY-SA 4.0. Statue moderne, non antique.</span>'
     if url == "/bibliotheque-mythologies-du-monde/mythos-volume-19-la-galigo-bugis-sawerigading/":
         # Keep the documented folio when rebuilding the portal, rather than
         # losing the image whenever the general navigation is regenerated.
@@ -169,6 +173,11 @@ def create_home(entries,groups):
     body+=section("Aux origines des religions","Des témoignages matériels aux traditions écrites, sans confondre indices et certitudes.",cards([("/origines-du-sacre/","Origines du sacré","Un parcours critique sur les rites, les sanctuaires, les images et la mémoire.","NOUVELLE ENTRÉE"),("/chapitres/origines-du-sacre/459-musique-grecque-mousike/","Musique et rites grecs","Mousikē, voix et performance rituelle.","GRÈCE"),("/chapitres/origines-du-sacre/452-delphes-pythie-parole-oraculaire/","La parole oraculaire","Delphes, Pythie et médiation religieuse.","SOURCES")]))
     body+=section("Civilisations du monde, par continent","Une géographie de consultation moderne : les échanges et les appartenances historiques débordent les frontières continentales.",continent_cards)
     body+=section("Bibliothèques et traditions à découvrir","Des portes d’entrée vers les principaux corpus.",world)
+    body+=section("Épopées et traditions — lectures universitaires intégrales","Ouvrir directement les volumes historiques préservés, sans résumé ni nouvelle numérotation.",cards([
+      ("/bibliotheque-mythologies-du-monde/mythos-volume-13-armenie-vahagn-david-sassoun/","Arménie — Vahagn et David de Sassoun","Volume XIII · Traditions divines, épopée des quatre générations, variantes et sources.","TEXTE INTÉGRAL"),
+      ("/bibliotheque-mythologies-du-monde/mythos-volume-10-finno-carelien-kalevala/","Finlande et Carélie — Kalevala","Volume X · Chant, Sampo, Väinämöinen, Ilmarinen et Louhi.","TEXTE INTÉGRAL"),
+      ("/bibliotheque-mythologies-du-monde/mythos-volume-19-la-galigo-bugis-sawerigading/","Sulawesi — La Galigo","Épopée bugis, Sawerigading, manuscrits lontara et critique des sources.","TEXTE INTÉGRAL")
+    ],"portal-grid-compact"))
     body+='''<section class="portal-section search-zone"><h2>Rechercher dans l’encyclopédie</h2>
 <p class="section-intro">Un dieu, un héros, une œuvre, une civilisation, un auteur ou un concept.</p>
 <input class="search" data-search placeholder="Ex. Athéna, Gilgameš, Sophocle, Maat, Nietzsche…" aria-label="Rechercher dans MYTHOS">
@@ -255,6 +264,7 @@ def create_mythologies(entries):
      ("/bibliotheque-mythologies-du-monde/mythologie-chinoise-nuwa-pangu-shanhaijing/","Chine","Nüwa, Pangu et traditions des immortels."),
      ("/bibliotheque-mythologies-du-monde/mythologie-japonaise-kojiki-nihon-shoki-kami/","Japon","Kami, Kojiki et cosmogonies."),
      ("/bibliotheque-mythologies-du-monde/mythos-volume-10-finno-carelien-kalevala/","Finlande et Carélie — Kalevala","Volume historique X en texte intégral : chants runiques, Sampo, Väinämöinen, Ilmarinen et Louhi."),
+     ("/bibliotheque-mythologies-du-monde/mythos-volume-13-armenie-vahagn-david-sassoun/","Arménie — Vahagn et David de Sassoun","Volume historique XIII, texte intégral : divinités anciennes, épopée des quatre générations, transmissions et variantes.","ÉTUDE INTÉGRALE"),
      ("/bibliotheque-mythologies-du-monde/mythos-volume-19-la-galigo-bugis-sawerigading/","Sulawesi — La Galigo","Cosmologie bugis, Sawerigading, We Cudaiq et manuscrits lontara."),
      ("/civilisations/ameriques/","Amériques","Mondes mayas, mexicas et andins."),
     ]))
@@ -949,7 +959,11 @@ def create_civilisations(entries, groups):
           ("/recherche/","Recherche transversale","Trouver un mot ou un personnage.")
         ],"portal-grid-compact")
         section_body=list_entries(docs)
-        write("civilisations/"+key,shell(f"Civilisations — {name}",text_intro+section("Dossiers de ce continent",f"{len(docs)} études, classées par titre.",section_body)+section("Poursuivre l’exploration","",hub_cards)))
+        related=section("Épopées et traditions d’Europe — textes intégralement conservés","Deux archives scientifiques et leurs sources, classées dans les mythologies du monde.",cards([
+          ("/bibliotheque-mythologies-du-monde/mythos-volume-13-armenie-vahagn-david-sassoun/","Arménie : Vahagn, Anahit, David de Sassoun","Volume historique XIII, texte intégral, sources et apparat critique.","LECTURE INTÉGRALE"),
+          ("/bibliotheque-mythologies-du-monde/mythos-volume-10-finno-carelien-kalevala/","Finlande et Carélie : le Kalevala","Volume historique X, texte intégral, chants et critique de la compilation.","LECTURE INTÉGRALE")
+        ],"portal-grid-compact")) if key == "europe" else ""
+        write("civilisations/"+key,shell(f"Civilisations — {name}",text_intro+section("Dossiers de ce continent",f"{len(docs)} études, classées par titre.",section_body)+related+section("Poursuivre l’exploration","",hub_cards)))
 
 def renovate_catalog(total):
     path=OUT/"rubriques/index.html"
