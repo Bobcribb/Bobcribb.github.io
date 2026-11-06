@@ -34,3 +34,16 @@ Commits enregistrés sur `main` au moment de la séance :
 **Limite de vérification :** l'écriture sur GitHub est confirmée, mais ni le déploiement HTTPS de la nouvelle fonctionnalité ni l'exécution finale de la suite de tests ne sont encore établis. Pour conclure ultérieurement : contrôler un workflow GitHub Actions de publication terminé avec succès **postérieur** au commit de refonte, vérifier le `source_commit` public, et comparer dans chacun des neuf lecteurs les liens de retour, de source originale, et le texte scientifique conservé.
 
 Aucune demande `editorial/inbox/`, aucun reçu `editorial/numbering.json`, aucun chapitre canonique, aucun manuscrit ancien ni aucune automatisation MYTHOS n'a été modifié.
+
+## 4. Correction de blocage éditorial découvert dans les journaux Actions
+
+Après les premiers commits, le contrôle approfondi des jobs GitHub Actions a isolé une anomalie extérieure à la navigation ODS. L'exécution de validation **42184528670** et la publication **42184528704** (branche `main`, SHA `555e491d0dda28fc6be0f0ce43483d8014a947dd`) échouaient à la phase d'attribution avec **`ValueError: Collision d’identifiant historique non réconciliée : MC-096`** dans `scripts/comparative_history.py`. Il ne s'agissait ni d'une erreur CSS, ni d'une perte de texte des neuf tomes.
+
+Confrontation de deux manuscrits complets, **scientifiquement distincts** mais revendiquant le même identifiant historique :
+
+- Soumission chronologiquement antérieure `editorial/inbox/9b4d6a70-8ef2-4b8c-a4d3-202611060755.json` : **MC-096 — Les ombres du divin** (protection, doubles et substitution ; conserver son identité MC-096).
+- Soumission postérieure `editorial/inbox/4f96a7d1-7cde-4b95-ae63-202611060096.json` : **MC-096 — Les mains du divin** (agentivité, guérison, gestes, écriture ; distincte, ne doit pas recevoir la même identité).
+
+Conformément au traitement des collisions déjà documenté, le manuscrit **postérieur** a été conservé intégralement dans `editorial/inbox/` et **placé en retenue explicite** dans `editorial/holds.json` (SHA-256 du fichier JSON original `a7d7c54645a212c0d1916803126b11cdb14af12e874fe1a0c56f64bda2f26753`), avec une justification de la priorité chronologique et la nécessité d'une réconciliation scientifique avant toute nouvelle cote. Commit **`e528c46ad1a2f962e0eea3ac062a8fc51598bebf`**. L'ancienne demande MC-096 n'est pas retenue par cette action ; sa progression reste soumise au pipeline transactionnel normal. **Aucun numéro ni reçu d'attribution n'a été modifié ; aucune demande ni aucun texte n'a été supprimé, redéposé ou réécrit.**
+
+Après cette correction, les nouvelles exécutions de validation **42185245074** et publication **42185245075** avaient le statut **in_progress** au dernier contrôle. La réussite de la compilation et de la publication reste à confirmer séparément, de même que le manifeste HTTPS. Une nouvelle collision éventuelle devra être diagnostiquée, et non masquée par une publication forcée.
