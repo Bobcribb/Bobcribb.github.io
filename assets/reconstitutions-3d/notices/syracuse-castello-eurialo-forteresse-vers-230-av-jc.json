@@ -1,0 +1,52 @@
+{
+  "id": "SYR-EUR-001",
+  "slug": "syracuse-castello-eurialo-forteresse-vers-230-av-jc",
+  "title": "Syracuse (Sicile grecque) — fort Euryale et remparts des Épipoles, vers 230 av. J.-C.",
+  "period": "Époque hellénistique sous Hiéron II, vers 230 av. J.-C. ; état interprétatif d’un complexe édifié et remanié au IVe–IIIe siècle av. J.-C.",
+  "caption": "Panorama 3D photoréaliste interprétatif du fort Euryale dominant les fossés d'approche et raccordé aux murailles des Épipoles, au IIIe siècle av. J.-C. ; détails des élévations conjecturaux.",
+  "commentary": "Le fort Euryale (Castello Eurialo), édifié sur l'extrémité occidentale du plateau des Épipoles (Epipolai), verrouillait l'accès terrestre à Syracuse. La mise en défense du plateau fut engagée sous Denys l'Ancien (Dionysios Ier) au début du IVe siècle av. J.-C., traditionnellement entre 402 et 397 av. J.-C. Diodore de Sicile (Bibliothèque historique XIV, 18) décrit les travaux mobilisant de très nombreux ouvriers pour le rempart des Épipoles, mais ce passage n'établit pas à lui seul le plan de la forteresse représentée. Le complexe conservé résulte de campagnes distinctes, notamment sous Denys, Agathocle et Hiéron II ; une image datée d'environ 230 av. J.-C. vise une phase hellénistique postérieure aux premiers travaux, non l'état d'origine du IVe siècle. Les autorités archéologiques régionales décrivent un ensemble d'environ 15 000 m², trois fossés défensifs, un ouvrage avancé, un dispositif de franchissement, cinq tours carrées du front du bastion, des galeries souterraines, des citernes et le raccordement à l'enceinte entourant les Épipoles. L'emprise de cette enceinte atteignit plus de 27 km selon les synthèses patrimoniales, chiffre qui ne doit pas être confondu avec la longueur d'un segment construit en vingt jours dans le récit de Diodore. L'image propose une vue aérienne oblique du front terrestre, en surplomb des fossés, de l'ouvrage avancé et d'un franchissement de bois, avec le mur d'enceinte s'éloignant vers la ville et la mer. Il s'agit d'une visualisation synthétique et non d'un relevé de l'Euryale ni d'une restitution des phases pierre par pierre. L'apparence précise des cinq tours — dont toutes ne sont pas nécessairement individualisables sous cet angle —, leur hauteur et couronnement, les créneaux, le tracé du pont, les portes, le parement, l'état des fossés et les superstructures sont des hypothèses artistiques. La morphologie médiévalisante que pourrait évoquer le crénelage ne doit pas être prise pour une attestation archéologique. Les bâtiments de la Syracuse lointaine, le trafic maritime, les personnages, les équipements des gardes, la végétation et l'éclairage sont librement restitués. Cette nouvelle vue concerne les fortifications, distinctes du théâtre grec de Syracuse déjà présent dans la galerie MYTHOS. Les institutions citées documentent les vestiges ; aucune n'a validé le rendu numérique.",
+  "certainty": "Élevé : forteresse sur le plateau des Épipoles à Syracuse ; programme de fortification attribué à Denys l'Ancien ; multiples phases antiques, fossés, galeries et liaison avec l'enceinte. Moyen : chronologie de l'état représenté vers 230 av. J.-C. sous Hiéron II ; répartition exacte des campagnes de construction ; restitution typologique de cinq tours carrées sur le front ; volumes des fossés et de l'ouvrage avancé. Faible : élévation et couronnement des tours, créneaux, profils des courtines, détails et mécanisme du pont, géométrie de chaque accès, répartition du bâti urbain, équipements militaires, personnages et paysage.",
+  "source_url": "https://parchiarcheologici.regione.sicilia.it/siracusa-eloro-villa-tellaro-akrai/siti-archeologici/castello-di-eurialo/",
+  "secondary_sources": [
+    "https://cultura.gov.it/luogo/castello-eurialo",
+    "https://www.smarteducationunescosicilia.it/en/siracusa/the-castello-eurialo/",
+    "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/14A%2A.html",
+    "https://ecsi.se/actarom-4-49/"
+  ],
+  "src": "/assets/reconstitutions-3d/syracuse-castello-eurialo-forteresse-vers-230-av-jc.webp",
+  "image": "/assets/reconstitutions-3d/syracuse-castello-eurialo-forteresse-vers-230-av-jc.webp",
+  "width": 1672,
+  "height": 941,
+  "created_at": "2026-11-06",
+  "type": "reconstitution numérique photoréaliste interprétative à apparence 3D, non métrique",
+  "provenance": "Image originale assistée par IA pour MYTHOS, sans menus, titres, schémas 2,5D, logos ni interface dans les pixels ; sources institutionnelles non cautionnantes.",
+  "sha256": "11a731998ae5d8520be5fa5cf6dc63f34522373989afe4e360e619ef884cedba",
+  "scientific_notice": "/assets/reconstitutions-3d/notices/syracuse-castello-eurialo-forteresse-vers-230-av-jc.json",
+  "scientific_sources": [
+    {
+      "label": "Parco archeologico di Siracusa, Eloro, Villa del Tellaro e Akrai — Castello Eurialo",
+      "url": "https://parchiarcheologici.regione.sicilia.it/siracusa-eloro-villa-tellaro-akrai/siti-archeologici/castello-di-eurialo/"
+    },
+    {
+      "label": "Ministero della Cultura — Castello Eurialo",
+      "url": "https://cultura.gov.it/luogo/castello-eurialo"
+    },
+    {
+      "label": "#SmartEducationUnescoSicilia — The Euryalus Fortress",
+      "url": "https://www.smarteducationunescosicilia.it/en/siracusa/the-castello-eurialo/"
+    },
+    {
+      "label": "Diodore de Sicile, Bibliothèque historique, XIV, 18",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/14A%2A.html"
+    },
+    {
+      "label": "Lars Karlsson, Fortification towers and masonry techniques in the hegemony of Syracuse 405–211 BC (1992)",
+      "url": "https://ecsi.se/actarom-4-49/"
+    }
+  ],
+  "primary_texts": [
+    "Diodore de Sicile, Bibliothèque historique, XIV, 18 : édification des défenses des Épipoles par Denys Ier ; témoignage non descriptif de toutes les élévations du fort vers 230 av. J.-C."
+  ],
+  "methodology": "Évocation artistique sans relevé métrique ; les élévations et couronnements ainsi que l’état précis sous Hiéron II doivent être considérés hypothétiques.",
+  "publication_status": "fichier_depose_GitHub_deploiement_public_a_verifier"
+}
