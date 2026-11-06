@@ -22,3 +22,11 @@ Les archives documentent des médiatrices féminines. Leur présence invite à e
 **Faits attestés :** lettres et personnel prophétique de Mari. **Débats :** portée exacte des titres, rôle de l'extase, analogies avec les prophétismes ultérieurs. **Hypothèse :** la médiation inspirée fonctionne aussi comme un canal de circulation d'informations entre sanctuaires et palais.
 
 **Sources primaires :** lettres prophétiques de Mari publiées dans *Archives royales de Mari* et leurs rééditions critiques ; distinguer les documents individuels avant toute citation de tablette. **Études vérifiées :** Martti Nissinen, *Prophets and Prophecy in the Ancient Near East* (2003) ; Julie B. Deluty, « Prophecy in the Ancient Levant and Old Babylonian Mari », *Religion Compass* 14 (2020), DOI 10.1111/rec3.12351 ; José Andrés Sánchez Abarrio, « Prophecy in Clay: The Construction of Prophetic Identities in the Royal Archives of Mari », *Religions* 16 (2025), 1400, DOI 10.3390/rel16111400.
+
+---
+
+### Note éditoriale documentaire — Dominique Charpin et les archives de Mari (7 novembre 2026)
+
+**Référence française :** Dominique Charpin, avec Francis Joannès, Sylvie Lackenbacher et Bertrand Lafont, *Archives épistolaires de Mari I/2*, ARM XXVI/2, Paris, 1988. Les travaux de Charpin sur les textes paléo-babyloniens, dont ceux de Mari, sont présentés par le [Collège de France](https://www.college-de-france.fr/fr/personne/dominique-charpin) et dans la [notice de sa chaire de civilisation mésopotamienne](https://www.college-de-france.fr/fr/chaire/dominique-charpin-civilisation-mesopotamienne-chaire-statutaire).
+
+**Portée et méthode.** L'édition des correspondances anciennes est un instrument philologique pour reconstituer les circuits de communication, les rapports de pouvoir et les modalités d'enregistrement des messages. Pour documenter un cas de prophétie, il faudra identifier **la tablette, son numéro ARM, les termes akkadiens et l'édition précise**. L'existence du recueil n'établit pas que chaque lettre de Mari rapporte une prophétie, ni que chaque message constitue un compte rendu non médiatisé d'une expérience religieuse. Il s'agit d'une référence de travail, non d'un avis de Dominique Charpin sur MYTHOS.
