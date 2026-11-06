@@ -97,8 +97,8 @@ class EditorialConcordancesTests(unittest.TestCase):
             self.assertEqual(len(notice.select("tbody tr")), 8)
             self.assertEqual(
                 {a["href"] for a in notice.select("ul a[href]")},
-                {"/" + str(Path(registry["collections"]["comparatif"]["allocations"][uid]["path"])
-                           .removesuffix(".md")) + "/"
+                {"/" + Path(registry["collections"]["comparatif"]["allocations"][uid]["path"])
+                           .with_suffix("").as_posix() + "/"
                  for uid in ("8d9ce5f4-d076-4f00-9dbf-209d8476b3bf",
                              "d73f9a62-1e48-45f8-9d0a-5bcd730e9a24")})
 
