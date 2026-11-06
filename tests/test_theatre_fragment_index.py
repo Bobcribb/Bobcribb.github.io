@@ -98,5 +98,40 @@ class TheatreFragmentIndexTests(unittest.TestCase):
                 install(root, output, slugs=('polyidos',))
 
 
+    def test_prepared_source_reader_is_not_rewritten_after_museum_design(self):
+        with TemporaryDirectory() as temporary:
+            root, output, page, *_ = self.fixture(temporary)
+            reader = output / 'corpus/theatre-grec/comedies/polyidos-source.html'
+            reader.write_text(
+                '<!doctype html><html lang="fr"><body data-mythos-design="20261104">'
+                '<main><h1>Texte intégral conservé et habillé</h1></main></body></html>',
+                encoding='utf-8')
+            original = reader.read_bytes()
+            self.assertEqual(
+                install(root, output, slugs=('polyidos',), build_source_readers=False), 1)
+            self.assertEqual(reader.read_bytes(), original)
+            self.assertIsNotNone(
+                BeautifulSoup(page.read_text(encoding='utf-8'), 'html.parser').select_one(
+                    'a[href="/corpus/theatre-grec/comedies/polyidos-source.html"]'))
+
+    def test_prepared_source_reader_must_exist(self):
+        with TemporaryDirectory() as temporary:
+            root, output, *_ = self.fixture(temporary)
+            with self.assertRaisesRegex(RuntimeError, 'lecteur source absent après habillage'):
+                install(root, output, slugs=('polyidos',), build_source_readers=False)
+
+    def test_generation_precedes_index_and_museum_design(self):
+        source = (Path(__file__).resolve().parents[1] / 'scripts/build_native.py').read_text(encoding='utf-8')
+        self.assertLess(
+            source.index('build_readers(ROOT, OUT, theatre_source_records)'),
+            source.index('n_indexed = reindex(chapters)', source.index('install_eneide_source_access(ROOT, OUT)')))
+        self.assertLess(
+            source.index('build_readers(ROOT, OUT, theatre_source_records)'),
+            source.index('n_styled = apply_museum_design(OUT)'))
+        self.assertGreater(
+            source.index('install_theatre_fragment_index(ROOT, OUT, build_source_readers=False)'),
+            source.index('n_styled = apply_museum_design(OUT)'))
+
+
 if __name__ == '__main__':
     unittest.main()
