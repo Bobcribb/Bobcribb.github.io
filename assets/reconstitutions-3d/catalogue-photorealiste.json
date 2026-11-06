@@ -2,7 +2,7 @@
   "generated_at": "2026-11-06",
   "site": "bobmythos.fr",
   "method": "Illustrations photoréalistes interprétatives, textes et sources hors des pixels.",
-  "count": 59,
+  "count": 60,
   "entries": [
     {
       "id": "DEL-PAN-001",
@@ -1374,6 +1374,50 @@
         "Vitruve, De architectura, VII, préface : tradition relative à la conception du Mausolée."
       ],
       "methodology": "Vue de synthèse artistique non métrique et non photogrammétrique, dont les éléments incertains sont explicités. Ne pas utiliser pour mesures architecturales ni comme photographie d'un état antique.",
+      "publication_status": "fichier_prepare_non_publie_deploiement_https_a_verifier"
+    },
+    {
+      "id": "CYR-ZEU-001",
+      "slug": "cyrene-temple-zeus-periptere-etat-classique",
+      "title": "Cyrène (Libye) — grand temple de Zeus, périptère dorique, état grec classique hypothétique",
+      "period": "VIe–Ve siècles av. J.-C. ; état classique hypothétique antérieur aux remaniements romains ; datation précise et séquence du chantier discutées.",
+      "caption": "Restitution numérique photoréaliste interprétative du grand temple dorique de Zeus à Cyrène (Libye actuelle), avec son péristyle et son environnement vallonné. Image originale, sans inscriptions ni interface, correspondant à une évocation de l’époque grecque antérieure aux transformations romaines.",
+      "commentary": "Cyrène fut fondée par des Grecs venus de Théra au VIIe siècle av. J.-C., sur le plateau de la Cyrénaïque. Le vaste temple de Zeus appartient à un ensemble monumental distinct du sanctuaire d’Apollon et de l’agora de la cité. Les recherches identifient un péristyle dorique de huit colonnes sur les façades et dix-sept sur les longs côtés, pour un édifice d’environ 70 × 32 m ; les mesures publiées varient légèrement selon les points de référence. La chronologie de construction est débattue : les hypothèses vont de la seconde moitié du VIe siècle à certaines étapes du Ve siècle av. J.-C. La cella et son pronaos pourraient être antérieurs à l’installation complète du péristyle ; il ne serait donc pas rigoureux de présenter comme documenté un état complet à une date absolue unique. Le temple a subi des destructions puis des transformations sous la domination romaine, notamment après les violences de 115–117 de notre ère ; l’image évite délibérément le haut podium et les placages de marbre associés aux interventions romaines. Le volume du toit, les tuiles, les couleurs de la frise, l’aspect des frontons, les accès, les sols, les arbres et la lumière relèvent d’une hypothèse de visualisation. Le compte précis des colonnes ne peut être mesuré sur l’illustration : celle-ci n’est pas un modèle 3D géométrique validé, une photographie de l’Antiquité ni un relevé photogrammétrique. Les organismes cités documentent le site et la recherche mais ne certifient pas le rendu. L’association de Zeus à des traditions de Zeus-Ammon est une piste de contextualisation religieuse, sans identification iconographique imposée à cette image.",
+      "certainty": "Élevé : existence et implantation à Cyrène du grand temple consacré à Zeus ; architecture dorique périptère ; péristyle de huit colonnes sur la façade et dix-sept sur chaque long côté ; grandes dimensions du sanctuaire. Moyen : séquence des phases du VIe–Ve siècle av. J.-C. ; dimensions globales d’environ 70 × 32 m ; disposition du pronaos et restitution de l’élévation classique avant les remaniements romains. Faible : toiture, pente des frontons, tuiles, polychromie, mobilier et décor cultuels, état des surfaces, vêtements et attitudes des personnages, densité de la végétation, angle de vue et atmosphère.",
+      "source_url": "https://whc.unesco.org/fr/list/190/",
+      "secondary_sources": [
+        "https://warwick.ac.uk/fac/arts/classics/intranets/students/modules/greekreligion/database/template-copyl/",
+        "https://www.cambridge.org/core/journals/libyan-studies/article/abs/note-on-the-temple-of-zeus-at-cyrene-and-its-reerection/F41562288131B4F4E1FE99D4844A4488",
+        "https://www.asor.org/wp-content/uploads/2019/08/ASOR_CHI_March18_Appendices.pdf"
+      ],
+      "src": "/assets/reconstitutions-3d/cyrene-temple-zeus-periptere-etat-classique.webp",
+      "image": "/assets/reconstitutions-3d/cyrene-temple-zeus-periptere-etat-classique.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-06",
+      "type": "panorama numérique photoréaliste 3D interprétatif, non métrique",
+      "provenance": "Création visuelle originale assistée par IA pour MYTHOS. L’image n’est pas une photographie archéologique, ni un modèle 3D scientifique, ni une illustration approuvée par les institutions citées. Aucun menu, texte ou schéma 2,5D dans les pixels.",
+      "sha256": "e6a426ee30dcba329db324c47d93347c45e4ac2df2d1d3975a738a17d064a54a",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/cyrene-temple-zeus-periptere-etat-classique.json",
+      "scientific_sources": [
+        {
+          "label": "UNESCO — Site archéologique de Cyrène, patrimoine mondial n° 190",
+          "url": "https://whc.unesco.org/fr/list/190/"
+        },
+        {
+          "label": "University of Warwick — Temple of Zeus at Cyrene, Libya (ordre, plan et phases)",
+          "url": "https://warwick.ac.uk/fac/arts/classics/intranets/students/modules/greekreligion/database/template-copyl/"
+        },
+        {
+          "label": "Cambridge, Libyan Studies — A Note on the Temple of Zeus at Cyrene and its Re-Erection",
+          "url": "https://www.cambridge.org/core/journals/libyan-studies/article/abs/note-on-the-temple-of-zeus-at-cyrene-and-its-reerection/F41562288131B4F4E1FE99D4844A4488"
+        },
+        {
+          "label": "ASOR Cultural Heritage Initiatives — Cyrene Temple of Zeus (2018), dimensions et conservation",
+          "url": "https://www.asor.org/wp-content/uploads/2019/08/ASOR_CHI_March18_Appendices.pdf"
+        }
+      ],
+      "methodology": "Restitution d’ambiance informée par les vestiges et les recherches, sans précision métrique garantie ni validation institutionnelle ; les parties reconstruites non documentées sont explicitées.",
       "publication_status": "fichier_prepare_non_publie_deploiement_https_a_verifier"
     }
   ]
