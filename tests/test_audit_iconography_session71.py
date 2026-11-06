@@ -39,10 +39,18 @@ class AuditIconography71Tests(unittest.TestCase):
         report = json.loads((ROOT / "docs/MYTHOS_ICONOGRAPHIE_ALTERNANCE.json").read_text(encoding="utf-8"))
         history = report["history"]
         self.assertEqual(report["latest_session"], history[-1])
-        self.assertEqual(history[-1]["session_number"], 71)
-        self.assertEqual(history[-1]["kind"], "AUDIT ET CORRECTION")
-        self.assertEqual(history[-1]["previous_kind"], "ENRICHISSEMENT ICONOGRAPHIQUE")
-        self.assertEqual(history[-1]["next_kind"], "ENRICHISSEMENT ICONOGRAPHIQUE")
+        session_71 = [row for row in history if row.get("session_number") == 71]
+        self.assertEqual(len(session_71), 1)
+        recorded_71 = session_71[0]
+        self.assertEqual(recorded_71["kind"], "AUDIT ET CORRECTION")
+        self.assertEqual(recorded_71["previous_kind"], "ENRICHISSEMENT ICONOGRAPHIQUE")
+        self.assertEqual(recorded_71["next_kind"], "ENRICHISSEMENT ICONOGRAPHIQUE")
+        index_71 = history.index(recorded_71)
+        self.assertGreater(index_71, 0)
+        self.assertEqual(history[index_71 - 1].get("session_number"), 70)
+        if index_71 + 1 < len(history):
+            self.assertEqual(history[index_71 + 1].get("session_number"), 72)
+            self.assertEqual(history[index_71 + 1]["kind"], "ENRICHISSEMENT ICONOGRAPHIQUE")
         self.assertEqual(sum(e.get("session_number") == 70 for e in history), 1)
         self.assertEqual(sum(e.get("session_number") == 71 for e in history), 1)
 
