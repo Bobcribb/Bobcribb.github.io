@@ -1,0 +1,572 @@
+# MYTHOS — Cycle comparatif universitaire — Volume CCXCV (295)
+
+## Qui garde les gardiens ? L’archer scythe des *Thesmophories* d’Aristophane : pouvoir public, parole étrangère, théâtre et désobéissance en 411 avant notre ère
+
+*Monographie universitaire autonome. Philologie grecque ; histoire politique et sociale de la démocratie athénienne ; comédie ancienne ; sociolinguistique historique ; histoire de l’esclavage public ; anthropologie de l’altérité ; philosophie du pouvoir et de l’interaction. Texte primaire : Aristophane, Thesmophoriazusae 929–946, 1001–1135, 1136–1231, avec les passages préparatoires 531–687, 785–846 et 846–928. Sources et travaux vérifiés le 6 novembre 2026. Numérotation réservée exclusivement au mécanisme transactionnel de GitHub Actions.*
+
+### Résumé
+
+À la fin des *Thesmophories*, une partie du pouvoir civique athénien se matérialise dans une figure insolite : un archer scythe, exécutant des ordres publics dans une langue grecque déformée par l’écriture comique. Un magistrat de la cité fait fixer le parent d’Euripide sur une planche, donne au garde un pouvoir de contrainte et lui impose une surveillance. Plus tard, le prisonnier devient un personnage tragique, Andromède, tandis qu’Euripide joue Écho puis Persée ; le garde résiste à la fiction d’autant mieux qu’il voit très bien le corps réel de l’homme ligoté. L’échec de cette tentative conduit à une nouvelle stratégie : un accord avec le chœur féminin, puis la distraction du garde par le son d’une flûte, la danse, la perspective d’une rencontre sexuelle et le gage paradoxal de son équipement. Une autorité officiellement armée perd finalement le contrôle du captif.
+
+La question centrale n’est pas de savoir si les Scythes historiques étaient « stupides », ni de transformer le spectacle en document oral sur une langue iranienne ancienne. Il s’agit de déterminer **comment une cité qui réserve la décision aux citoyens peut confier son exécution matérielle à des hommes non citoyens, parfois esclaves de la puissance publique**, et comment la comédie décompose cette délégation en gestes, ordres, négociations, malentendus et désirs.
+
+L’analyse approfondit spécifiquement la scène du garde, distincte des études MYTHOS antérieures sur le secret de la fête féminine, les délibérations des participantes et les parodies tragiques. Elle confronte les mots du texte à l’histoire institutionnelle de la police publique, aux analyses d’Edith Hall et d’Andreas Willi, ainsi qu’à l’étude conversationnelle d’Evert van Emde Boas publiée en août 2026. Les propositions de Hegel, Nietzsche, Vernant et Détienne interviennent uniquement comme comparaisons philosophiques postérieures. La conclusion refuse deux simplifications : la force ne prouve pas la vérité ; l’habileté à tromper la force ne prouve pas davantage la justice de celui qui s’en délivre.
+
+### Notation documentaire
+
+**[A]** Fait directement lisible dans une source antique localisée : parole, nom, ordre, geste explicitement indiqué par la réplique ou déclaration transmise. **[É]** Explication philologique d’une forme grecque, ou discussion d’édition. **[H]** Hypothèse d’histoire sociale, de reconstitution scénique ou de causalité. **[I]** Inférence interprétative dont la valeur repose sur l’argument et non sur un témoignage direct. **[P]** Comparaison philosophique hors chronologie, explicitement non attribuée à Aristophane. **[L]** Limite ou débat documentaire.
+
+Le texte grec est contrôlé dans Hall–Geldart, *Aristophanis Comoediae*, vol. II (Oxford, 1907), tel que diffusé par l’Ad Fontes Library : https://adfonteslibrary.org/work-aristophanes-thesmophoriazusae ; comparaison des découpages par vers avec https://www.greekmythology.com/sources/aristophanes/thesmophoriazusae . Les formes grecques reproduites ci-dessous sont **limitées à des mots, des groupes brefs et à des numéros de vers contrôlés** ; aucune traduction moderne protégée n’est reproduite. Les textes savants accessibles seulement par leurs résumés sont cités comme tels. Cette étude ne prétend ni avoir collationné les manuscrits byzantins ni disposer du spectacle original.
+
+---
+
+## I. La crise de 411 et les pouvoirs qui ne se superposent pas
+
+### 1. Une comédie de 411, pas un compte rendu du coup d’État [A/L]
+
+La datation conventionnellement retenue pour les *Thesmophories* est 411 avant notre ère. L’Athènes de cette année se trouve engagée dans la guerre du Péloponnèse, après la catastrophe sicilienne de 413, et connaît l’expérience oligarchique des Quatre-Cents. Les événements sont documentés principalement par Thucydide VIII et, pour la succession plus large, par la tradition historique postérieure. En revanche, le récit dramatique de l’infiltration des rites féminins n’est pas un procès-verbal d’une réunion historique des Athéniennes.
+
+La coexistence de la guerre, d’un rite collectif et d’un personnel officiel de surveillance fournit un contexte politique robuste. Elle n’autorise pas à identifier chaque personnage à un partisan des Quatre-Cents, ni chaque intervention de police à un geste accompli précisément pendant le coup d’État. L’histoire politique explique pourquoi les spectateurs pouvaient reconnaître l’efficacité des apparences publiques ; elle ne fournit pas la clef unique de l’œuvre.
+
+### 2. Le caractère singulier d’un agent public non citoyen [A/I]
+
+Le garde est appelé *toxotēs* — archer — et explicitement traité comme *Skythēs*, Scythe. Dans la société athénienne classique, des hommes désignés comme archers scythes sont attestés parmi les personnes au service de la cité pour maintenir l’ordre lors de certaines activités publiques. Les travaux de David M. Pritchard distinguent soigneusement ce personnel acheté pour des tâches de police des archers militaires, composés autrement et déployés sur les navires ou au combat.
+
+L’enjeu n’est pas un exotisme de costume. Une communauté qui définit le citoyen par son appartenance civique et sa participation à des institutions se sert de personnes qui ne possèdent pas, par ce seul emploi, cette citoyenneté. Le corps qui fait respecter la décision n’a pas nécessairement le droit de prendre lui-même cette décision. La scène exploite une contradiction institutionnelle sans la transformer en débat constitutionnel explicite.
+
+### 3. Qui parle au nom des femmes, qui parle au nom de la cité ? [A/I]
+
+Au début de la pièce, les participantes à la fête de Déméter et Coré délibèrent sur la réputation qu’Euripide leur aurait faite. Leur réunion emprunte des modalités de parole collective ; elle ne doit pas être identifiée à une *ekklēsia* réelle disposant du vote civique masculin. Après le dévoilement de l’infiltré, un membre des autorités civiques intervient, puis un agent public exécute la garde.
+
+Ces deux pouvoirs ne se confondent pas. Les femmes savent que leur espace rituel a été violé ; la décision de lier le prisonnier est formulée par le représentant du pouvoir civique. Leur grief est social et religieux ; la prise de corps devient une tâche déléguée. L’intrigue passe d’une communauté offensée à un dispositif officiel dont la mécanique finit par devenir l’objet du rire.
+
+### 4. Distinguer l’archer de l’auteur de l’ordre [A]
+
+Aristophane, *Thesmophoriazusae* 929–934 : le *prytanis* ordonne de lier le personnage à une *sanis* et de le garder ; il commande au *toxotēs* d’écarter ceux qui s’approcheraient et d’utiliser le fouet si nécessaire. À la différence d’une narration moderne qui attribuerait toute la scène à « la police », le texte sépare clairement la parole de commandement et les gestes d’exécution.
+
+Cette division du travail institutionnel possède une portée politique importante. L’exécutant peut être l’acteur le plus visible de la violence sans être celui qui a déterminé la sanction. Le public rit ensuite de sa maladresse et de son désir, tandis que la décision du magistrat demeure en arrière-plan. L’humiliation de l’agent peut détourner l’attention de la source de la contrainte.
+
+### 5. La décision de la Boulè : un argument de publicité punitive [A/É]
+
+Aux vers 943–944, le magistrat fait référence à la décision de la *boulē* : le détenu doit rester dans son costume de femme afin que les passants puissent reconnaître son inconduite. La formule fait passer l’exhibition d’un déguisement grotesque du registre de la moquerie au registre d’une sanction publiquement affichée. L’autorité ne veut pas seulement immobiliser un intrus ; elle le donne à voir comme transgresseur.
+
+Il s’agit d’une *boulē* dramatique, mentionnée dans une comédie. Il serait injustifié d’en déduire l’existence d’un décret réel pris contre un proche d’Euripide, ou d’en extraire sans autre preuve la procédure complète d’un emprisonnement athénien. L’intérêt du passage est de montrer qu’une condamnation publique peut recourir au spectacle de l’apparence pour produire la honte.
+
+### 6. La planche, *sanis*, comme technique de pouvoir [A/É]
+
+La *sanis* est dans le texte l’objet auquel est lié le prisonnier ; elle rend l’immobilité visible et répétable pendant les scènes de sauvetage. On ne doit pas imaginer spontanément une prison moderne. Le récit dramatique suppose une fixation du corps, dont les répliques indiquent à la fois la contrainte et la possibilité de tenter de desserrer un lien ou un clou.
+
+La planche ne possède pas une signification purement matérielle. Elle permet à Euripide d’exploiter l’analogie entre le captif et Andromède attachée à son rocher. Le même dispositif sert donc deux systèmes : ordre public en amont, fiction tragique en aval. La comédie démontre qu’un objet institutionnel peut devenir le support d’un récit concurrent sans que sa force physique disparaisse.
+
+### 7. Fouet, proximité, distance : la scène d’un seuil [A/I]
+
+L’ordre de faire reculer toute personne s’approchant du captif transforme l’espace de jeu en périmètre contrôlé. La définition de la distance légitime devient une activité de surveillance. L’archer doit moins découvrir la vérité que tenir sa place et contrôler des passages. Le fouet est nommé par l’ordre du magistrat ; on n’a pas besoin de supposer une chorégraphie exacte des coups pour étudier sa fonction.
+
+L’épisode rend visible la différence entre empêcher l’entrée et savoir discerner ce qui se présente. L’autorité du garde est forte face à un homme captif ; elle sera plus vulnérable lorsque des visiteurs chercheront à faire admettre une parole, une identité et un spectacle. La frontière de la scène est le laboratoire de la frontière civique.
+
+## II. Les archers de la cité : documents, chiffres, controverses
+
+### 8. Les *dēmosioi* et le problème de l’esclavage public [A/I]
+
+Les sources classiques attestent des agents appelés *dēmosioi*, littéralement des personnes publiques, parmi lesquels des esclaves appartenant à la cité et remplissant des fonctions utiles. Une condition servile ne supprimait pas la possibilité d’un rôle de commandement coercitif sur des citoyens dans certaines circonstances. La catégorie exige cependant une enquête contextuelle : *dēmosios* ne signifie pas automatiquement le même statut dans tout texte grec.
+
+Dans la comédie, le garde ne livre pas sa biographie juridique. L’assimilation à la police publique scythe des Athéniens repose sur l’ensemble des parallèles historiques : la désignation, les armes, le magistrat qui donne l’ordre et la surveillance. Elle demeure mieux fondée que l’idée d’un soldat étranger de passage, sans devenir une attestation nominative d’achat public de cet individu fictif.
+
+### 9. Les 300 et les 1 000 : ne pas choisir un chiffre par commodité [A/L]
+
+La *Souda*, dans la notice *toxotai* (τ 771), transmet le nombre de mille archers, avec des indications de lieu de cantonnement et un nom de responsables qui soulèvent des questions prosopographiques. La tradition historiographique classique mobilisée par Pritchard privilégie un noyau de **300 esclaves publics scythes**, la valeur de mille pouvant résulter d’une confusion avec d’autres effectifs de corps d’archers. Les auteurs anciens et les périodes ne doivent pas être aplatis dans un total intemporel.
+
+Cette distinction interdit d’afficher dans une légende de MYTHOS « un millier de policiers scythes en 411 » comme fait certain. Les sources attestent une institution ; elles ne donnent pas une photographie administrative exhaustive pour l’année de la comédie. Le problème documentaire doit apparaître dans tout tableau de reconstitution.
+
+### 10. Archers policiers et archers combattants : deux catégories [A]
+
+Pritchard, « The Archers of Classical Athens », *Greece & Rome* 65.1 (2018), p. 86–102, étudie notamment la distinction entre le corps d’archers engagé dans l’effort militaire et le personnel scythe assigné au maintien de l’ordre. Des inscriptions de pertes militaires mentionnent des *barbaroi toxotai*, mais leur interprétation institutionnelle demande prudence. Il n’existe aucune identité logique automatique entre « archer barbare mort en campagne » et « policier scythe de la place publique ».
+
+Cette séparation évite une erreur de méthode courante : reconstruire le garde de théâtre comme un homme de toutes les campagnes athéniennes. Son rôle est défini par les besoins de l’intrigue, tandis que les documents historiques attestent plusieurs catégories de soldats et de servants équipés d’arcs.
+
+### 11. Sources épigraphiques et tâches de garde [A]
+
+L’inscription **IG I³ 45**, discutée dans la recherche sur les archers, comporte des mesures de surveillance que certains historiens ont mises en relation avec les archers chargés du maintien de l’ordre. Les épisodes comiques des *Acharniens* 20–22, 54, de *Lysistrata* 387–475 et des *Thesmophories* 929–946 fournissent des comparanda littéraires sur le personnel disponible aux organes de la cité.
+
+L’inscription est un document normatif ; la comédie est une fiction scénique. On ne doit donc pas « illustrer » mécaniquement l’une par l’autre, ni attribuer à l’archer des *Thesmophories* une mission inscrite dans IG I³ 45. L’intérêt d’un croisement de genres documentaires est la convergence limitée : un personnel armé intervient publiquement sur mandat d’autorités civiques.
+
+### 12. Thucydide VIII et les agents étrangers [A/I]
+
+Thucydide VIII, 98, mentionne des archers qualifiés de très « barbares » dans la situation politique troublée de 411. Le contexte concerne la fuite d’un responsable oligarchique et l’usage de personnel armé. Ce passage n’établit pas que l’archer comique en soit la copie, mais il rend concrète l’existence d’acteurs non grecs dans les opérations publiques ou militaires des dernières années du siècle.
+
+Le récit de Thucydide et le rire d’Aristophane conduisent à une même observation prudente : les compétences de ces agents ne se réduisent ni à leur origine ni à leur statut. Certains savent exécuter des missions délicates ; d’autres sont présentés comme manipulables ; cette variation appartient au matériau narratif. Elle ne peut fonder une psychologie collective des Scythes.
+
+### 13. Acheter de la force publique : une tension démocratique [I]
+
+La délégation du maintien de l’ordre à un personnel servile semble paradoxale seulement si l’on suppose que l’exercice de la démocratie exige une égalité civique de tous ceux qui assurent son fonctionnement. Historiquement, la participation politique athénienne repose au contraire sur des frontières de sexe, de naissance et de condition. Il est possible qu’un esclave public possède un pouvoir quotidien sur le passage des citoyens sans recevoir les droits du citoyen.
+
+Cette contradiction constitue un problème philosophique fécond, à condition de ne pas assimiler la cité à un État contemporain doté d’une police bureaucratique permanente, de droits universels et d’une séparation constitutionnelle standardisée des pouvoirs. L’archer n’est pas un fonctionnaire moderne ; sa fonction, cependant, rend visible une différence entre légitimité de l’ordre et qualification de celui qui l’exécute.
+
+### 14. Un modèle de police moderne serait anachronique [L]
+
+L’expression « police scythe » constitue une commodité historiographique pour des tâches spécifiques d’ordre public, non la preuve d’une institution comparable aux ministères ou aux forces de police nationales d’aujourd’hui. Les fonctions attestées sont étroitement liées aux magistrats, à l’Assemblée et aux arrestations ordonnées. Les notions contemporaines d’enquête criminelle, de patrouille universelle, de dossier individuel et de chaîne administrative ne peuvent être importées dans la pièce.
+
+L’historien doit résister autant à la tentation de moderniser le garde qu’à celle de l’exotiser comme simple figurant oriental. Son pouvoir est efficace précisément parce qu’il est circonscrit : fixer un captif, empêcher l’approche, obéir au magistrat. Les autres dimensions de l’action ne ressortissent pas à sa compétence professionnelle.
+
+## III. Langue grecque « brisée » et compétence communicative
+
+### 15. L’archer parle grec, pas une langue scythe attestée [A/L]
+
+La source primaire fournit une représentation comique d’un grec étranger, avec des formes altérées de sons, de genres et d’inflexions. Ce n’est pas un texte continu dans une langue scythe authentifiée. La linguistique historique rattache généralement les parlers scythes à la famille iranienne, mais les données originales sont largement fragmentaires, essentiellement des noms et des mentions indirectes.
+
+La scène n’autorise pas à constituer un lexique « authentique » de scythe à partir des mots de l’archer. Rüdiger Schmitt, dans l’*Encyclopaedia Iranica*, souligne précisément qu’Aristophane fait parler à son personnage un mélange comique et non sa langue maternelle. Le projet MYTHOS doit distinguer le témoignage sur les représentations athéniennes d’un étranger et la documentation proprement scythologique.
+
+### 16. *Foreigner talk* : une construction littéraire reconnaissable [É]
+
+Andreas Willi, *The Languages of Aristophanes*, chapitre « Foreigner Talk », étudie les répliques de l’archer des *Thesmophories* 1001–1225 comme un ensemble remarquable de grec simplifié et « cassé ». Le livre souligne notamment les altérations phonétiques et morphologiques, tout en refusant d’y voir un document direct sur le grec populaire attique. Il s’agit d’une performance de langue étrangère produite par un auteur écrivant pour un public athénien.
+
+Le contraste est décisif entre « discours avec défauts » et « discours dépourvu de compréhension ». Les imperfections d’inflexion n’impliquent pas l’incapacité de reconnaître une menace. De nombreuses répliques montrent au contraire que le garde saisit les intentions essentielles des personnages et qu’il peut résister à des demandes qu’il juge contraires à son ordre.
+
+### 17. L’hypothèse concurrente du grec populaire tardivement attesté [É/L]
+
+Une tradition d’analyse avait interprété certaines caractéristiques de l’archer comme les traces d’une variété peu prestigieuse de l’attique vivant, que l’on retrouverait dans la koinè ultérieure. Willi met en garde contre cette déduction : la convergence formelle ne démontre pas l’identité des conditions sociales ou des mécanismes linguistiques. Une réduction volontaire d’une flexion peut produire le même résultat apparent qu’un changement historique de langue.
+
+La controverse rappelle que le texte théâtral n’est pas une bande sonore. Les variations phonétiques ont été transcrites par des lettrés, corrigées par les copistes et rétablies par les éditeurs. Les mots de l’archer passent par plusieurs médiations qui compliquent toute proposition sur la prononciation exacte d’un apprenant non grec du Ve siècle.
+
+### 18. La variante phonétique n’est pas une déficience intellectuelle [I]
+
+À partir du vers 1001, les échanges associent des prononciations comiquement déformées à des décisions efficaces. Le garde entend la supplication, refuse de desserrer l’attache et menace de punir davantage. Si le spectateur rit de la forme du grec, il peut simultanément constater que l’action ne repose pas sur une méprise totale concernant la situation.
+
+La distinction entre compétence linguistique, compétence institutionnelle et valeur morale est donc obligatoire. Un agent peut accomplir correctement son ordre en parlant de façon atypique. Un Athénien fluent peut mentir, usurper une identité ou fabriquer une fiction destinée à tromper. La pièce redistribue l’autorité linguistique et l’autorité politique d’une manière moins simple que la stéréotypie de surface.
+
+### 19. L’absence d’une simplification systématique chez les Grecs [A/É]
+
+La recension détaillée de Jerker Blomqvist sur le livre de Willi remarque que les interlocuteurs grecs ne se livrent pas nécessairement à une adaptation permanente de leurs propres phrases pour les rendre accessibles à l’archer. L’effort de compréhension semble assez peu réciproque : l’étranger est sommé d’écouter et d’obéir à la parole attique, tandis que celle-ci peut conserver des niveaux poétiques excessivement élaborés.
+
+Ce décalage nourrit la satire. Euripide voudrait qu’un gardien comprenne les convenances d’une reconnaissance tragique comme le ferait un public de théâtre. Mais la situation n’exige aucunement du garde cette compétence. Son refus n’est pas un échec de compréhension ordinaire ; il est souvent un refus de jouer le rôle que l’autre lui assigne.
+
+### 20. *Syntaxis* de l’échange : un dialogue ne se réduit pas à la grammaire [I/P]
+
+Evert van Emde Boas, dans « CA and ‘Atypical Populations’ in Greek Drama » (2026), propose une méthode issue de l’analyse de conversation. Son résumé met l’accent sur les réparations, les recherches de mots, les pauses, les changements de sujet, les entrées concurrentes dans un tour de parole et les déséquilibres des conversations médiées. Le chapitre traite notamment de l’archer des *Thesmophories*.
+
+Nous disposons ici de la notice universitaire et du résumé, non de l’ensemble des 40 pages de démonstration. Nous n’en extrayons donc pas des conclusions page par page. Sa méthode invite cependant à regarder *ce que fait* chaque réplique : empêcher quelqu’un de continuer, reprendre un terme sans accepter son cadre, obtenir une permission ou détourner l’attention. Le spectacle n’est pas seulement une vitrine de phonèmes exotiques ; il est un conflit sur l’organisation de l’échange.
+
+### 21. Les formes de 1001–1007 : la supplication devient refus [A/É]
+
+Le captif supplie l’archer, demande que l’on desserre le clou et gémit lorsque la pression augmente. Le garde répond, refuse le ton de la demande et impose le silence. Le texte comporte des marques de parler étranger, mais les rapports d’action restent nets : une personne demande une diminution de contrainte ; une autre conserve ou aggrave celle-ci.
+
+L’acte illocutoire, pour employer une catégorie analytique moderne, n’est pas difficile à identifier. Même si la phrase est altérée, elle constitue une réponse négative à la requête. Une lecture qui ne retiendrait que le comique de prononciation effacerait la structure de pouvoir la plus évidente : le détenu ne possède pas la capacité d’obtenir le relâchement de son propre corps.
+
+### 22. Supplique et contrôle corporel [A/I]
+
+La formule de demande du captif a une connotation de supplication ; elle ne transforme pas pour autant l’archer en magistrat chargé d’apprécier la clémence. Celui-ci a reçu l’instruction de garder un homme lié. Le contraste permet de distinguer la réponse morale que pourrait appeler une supplication et la réponse hiérarchique qu’un ordre professionnel exige.
+
+Dans cette situation, la pitié serait une initiative risquée du garde plutôt qu’une fonction explicitement prévue. Le spectateur peut simultanément percevoir l’injustice ressentie du captif et la fidélité procédurale de l’agent. La comédie ne délivre pas un code juridique expliquant ce qu’un archer avait historiquement le droit de faire à toute personne immobilisée.
+
+### 23. La répétition d’Écho et la frontière du dialogue [A/I]
+
+Vers 1058–1097, Euripide joue Écho en répétant des fragments des phrases prononcées. Le mécanisme entraîne plusieurs interlocuteurs dans un conflit de réponse et de reprise. Écho produit le son de l’autre, mais cette imitation ne garantit aucune compréhension ni coopération. La répétition peut devenir une gêne, une imitation moqueuse ou une forme de brouillage de la responsabilité énonciative.
+
+Le garde lui-même est attiré dans le mécanisme. Il devient difficile de savoir à qui appartient momentanément la parole que l’on vient d’entendre. Pourtant le problème matériel — un homme attaché sur la planche — demeure inchangé. La scène offre une distinction vérifiable entre la maîtrise du langage théâtral et l’efficacité pratique de celui-ci.
+
+### 24. Un « malentendu » peut être une résistance légitime [I]
+
+Il serait tentant de lire toute incompréhension comme le symptôme de l’ignorance du Scythe. Mais un garde engagé pour surveiller un prisonnier n’a aucune raison institutionnelle d’accepter qu’un inconnu prétende que celui-ci est une héroïne mythologique. Son attachement au référent visible peut être une manifestation de vigilance rationnelle plutôt que de sottise.
+
+Le décalage comique fonctionne donc en double sens : l’étranger paraît ridicule parce qu’il déforme la langue, tandis que le poète tragique paraît ridicule parce qu’il croit qu’une fiction raffinée devrait suffire à modifier un ordre de garde. Reconnaître cette symétrie ne fait pas de l’archer un philosophe, mais empêche de lui assigner par principe toute l’irrationalité de la situation.
+
+### 25. Des paroles grecques irréprochables peuvent mentir [I]
+
+Euripide possède les ressources de la diction tragique, de la métaphore et de l’intrigue. Il peut produire la parole tenue pour « belle » et transporter le spectateur de la salle vers le monde mythique. Or il utilise ici cette compétence pour affirmer une identité manifestement fausse dans la situation comique : le prisonnier est un homme que les participants ont découvert déguisé, et non Andromède.
+
+Le contraste n’est pas un procès général du théâtre. Le public sait que la représentation d’Andromède est jeu, et goûte précisément l’habileté de la transition. Il peut cependant apprécier que la parole la plus prestigieuse ne possède pas, en elle-même, la force de défaire des cordes.
+
+## IV. Étrangeté, masque et rôle : le problème de l’ethnicité sur scène
+
+### 26. Edith Hall : une ethnographie théâtrale, non un documentaire [P]
+
+Edith Hall, « The Scythian Archer in Aristophanes’ *Thesmophoriazusae* », dans *The Theatrical Cast of Athens* (2006), p. 225–254, souligne la difficulté du rôle ethnique confié à l’acteur. Le personnage exigeait la performance d’un homme de statut non libre, supposé venu du nord de la mer Noire, et introduisait une voix inhabituelle dans l’univers de la comédie. Hall rapproche le personnage des gardiens et rois barbares représentés dans les tragédies d’évasion d’Euripide.
+
+Cette thèse est connue ici par sa notice savante et son résumé ; aucune citation de page interne non consultée n’est mise entre guillemets. Elle aide à sortir d’une lecture purement lexicale : le Scythe est un rôle produit par un comédien attique, dans un spectacle qui multiplie déjà les déguisements, les travestissements et les identités usurpées.
+
+### 27. La différence ethnique se fabrique aussi dans le costume [H/L]
+
+Un costume devait rendre l’archer reconnaissable sur la scène : fonction, arme, posture, parole et éventuellement signes typés de l’étranger. Mais le détail précis de son vêtement en 411 n’est pas conservé. Les représentations figurées de Scythes et les usages de costume dans l’art grec offrent des analogies, non l’image du personnage original.
+
+Une reconstitution visuelle devrait donc distinguer le **garde nommé dans les répliques** des attributs seulement probables empruntés aux séries de vases ou à la documentation ethnographique. L’image d’un Scythe oriental avec bonnet et carquois peut être intelligible au spectateur moderne sans être certifiée comme réplique exacte du masque aristophanien.
+
+### 28. L’acteur athénien joue l’étranger [A/I]
+
+Le rôle est interprété dans le cadre du théâtre athénien, par un acteur qui performe un parler étranger pour un public grec. La déformation linguistique est donc intentionnellement mise au service d’un plaisir comique et d’un dispositif de narration. On ne peut pas imputer son profil grammatical au comportement réel de tous les étrangers fréquentant Athènes.
+
+Cette médiation est politiquement significative. Ce que la cité voit dans l’autre est, dans ce cas, fabriqué par une pratique artistique de la cité elle-même. L’étranger apparaît à travers une voix imaginée par des Grecs. L’analyse critique doit nommer cette asymétrie d’auteur sans disqualifier d’emblée l’efficacité théâtrale de la scène.
+
+### 29. L’étranger n’est pas seulement le dominé [I]
+
+L’archer paraît soumis au magistrat par sa fonction et, dans les sources comparatives, le personnel correspondant peut être servile. Pourtant il est investi d’un pouvoir très concret sur le corps d’un citoyen ou d’un homme présenté comme tel. Une hiérarchie de statut et une hiérarchie de situation se croisent sans se superposer.
+
+L’analogie moderne d’une « minorité armée par l’État » peut aider à formuler la tension, mais ne saurait remplacer les catégories anciennes : ni minorité nationale au sens contemporain, ni agent doté d’un statut de citoyen, ni fonctionnaire protégé par une doctrine d’État de droit. Le paradoxe appartient d’abord à une démocratie excluant les non-citoyens de la délibération tout en se servant de leur force.
+
+### 30. L’étranger, capable de discerner les identités [A]
+
+Autour des vers 1105–1114, Euripide joue Persée et présente l’homme lié comme une jeune femme. L’archer contredit cette identification et désigne un vieillard trompeur ; le texte fait intervenir des plaisanteries obscènes sur les organes visibles. La scène déjoue l’équation « mauvaise grammaire égale mauvais jugement ». C’est l’étranger qui refuse ici de faire de l’image tragique une preuve de réalité.
+
+Cette capacité de discrimination est décisive pour notre thèse. Le gardien peut manquer d’élégance verbale et saisir néanmoins le fait pertinent pour sa tâche. Le rire ne supprime pas la résistance qu’il oppose à la magie poétique de la nomination. Le théâtre joue de l’écart entre référent visible, rôle adopté et désir que l’on prête au public de croire au rôle.
+
+### 31. Quand le nom grec devient bruit [A/É]
+
+Vers 1101–1104, Euripide-Persée évoque la Gorgone ; le garde entend ou détourne le nom vers **Gorgos**, personnage assimilé à un secrétaire. La comédie combine paronomase, sonorité mal maîtrisée et changement de registre : une figure mythique et un nom civique banal s’entrechoquent. La fonction du trait est attestée dans le passage, mais sa portée prosopographique précise doit être discutée avec les commentaires spécialisés.
+
+La scène établit la différence entre reconnaître un mot et comprendre son référent dans une convention artistique. Le garde ne pénètre pas spontanément dans le monde de Persée ; il ramène le nom à sa propre topographie de personnes connues. Cette opération peut être comiquement « erronée » sans signifier une absence générale de rationalité.
+
+### 32. Une parole commune sans monde commun [I]
+
+Euripide et le Scythe parlent assez de grec pour échanger, se menacer et finalement négocier. Ils ne partagent pas le même cadre d’interprétation. Le poète parle depuis l’illusion tragique ; l’agent répond depuis son ordre public, ses expériences de mots et ses intérêts immédiats. La compréhension lexicale ne suffit pas à créer un accord sur ce qui est en train de se passer.
+
+La question philosophique est plus générale que le cas ethnique : la communication échoue souvent non parce qu’un code manque, mais parce que les interlocuteurs attribuent des buts différents aux mêmes signes. Une invitation à jouer le sauveteur mythique est reçue par un garde comme tentative de manipuler un dispositif dont il doit répondre.
+
+## V. *Hélène*, *Andromède* et les tentatives de sauvetage
+
+### 33. Une première reconnaissance tragique rendue impuissante [A]
+
+Avant le gardien scythe au premier plan, Euripide essaie d’utiliser la reconnaissance de *Hélène* pour faire sortir son parent. La séquence des vers 846–928 s’inscrit dans l’exploitation comique de la tragédie euripidéenne. L’imitation repose sur la familiarité supposée d’une partie du public avec un drame représenté récemment ; elle demande d’abord un savoir scénique partagé.
+
+Cette première tentative montre les possibilités mais aussi les limites d’une fiction capable d’ordonner le destin de ses personnages. L’autorité institutionnelle résiste. La tragédie ne possède pas de pouvoir direct sur les agents chargés de la garde. Le sauvetage exige plus qu’un scénario où un héros reconnaît une personne malheureuse.
+
+### 34. Les fragments d’*Andromède* et le danger de la citation rétrospective [É/L]
+
+Euripide avait composé une *Andromède* tragique, aujourd’hui perdue comme œuvre complète. Les vers des *Thesmophories* 1015–1135 permettent d’en éclairer indirectement la réception, sans que toute diction tragique imitée puisse être réputée citation littérale de la tragédie perdue. John Gibert, « Falling in Love with Euripides (*Andromeda*) », *Illinois Classical Studies* 24–25 (1999–2000), p. 75–92, examine précisément les difficultés de restitution.
+
+Le principe à conserver est strict : ce que prononce Euripide **dans la comédie** est attesté pour Aristophane ; son appartenance au texte d’*Andromède* de 412 ne doit être annoncée que si la critique des fragments le justifie. Certaines phrases sont des parodies neuves, d’autres peuvent reprendre des membres de vers, et certaines traditions éditoriales divergent.
+
+### 35. Écho : répéter sans autoriser l’acte [A/I]
+
+Écho fonctionne comme un instrument de brouillage. Le personnage répète les paroles et empêche d’obtenir un dialogue linéaire. Ce procédé joue sur la connaissance d’un motif tragique — le personnage qui n’est plus maître du retour de sa propre voix. Les effets comiques proviennent des répétitions, des interruptions et de l’incapacité de passer immédiatement à l’acte libérateur.
+
+La répétition met la souveraineté de l’orateur à l’épreuve. Celui qui croit posséder une parole voit l’autre en reproduire la forme, parfois en changer le destinataire et en détruire le sens. Le garde peut être irrité par ce bruit et ne détient toujours aucune raison d’ouvrir les liens du prisonnier.
+
+### 36. Persée arrive : un héroïsme qui n’a pas compétence [A/I]
+
+Le sauveur tragique franchit les airs, découvre une personne exposée et lui promet secours. Dans la comédie, le visiteur qui se nomme Persée se heurte à la tâche concrète d’un archer gardant un prisonnier de chair et d’os. L’écart des registres produit l’absurdité : l’action héroïque n’a pas reçu l’autorisation d’entrer dans l’ordre administratif.
+
+Le spectacle ne dénigre pas nécessairement toute puissance du mythe. Il exhibe son efficacité conditionnelle : le récit change le sens visible de la planche, du costume et des chaînes pour le public, mais il n’oblige pas l’agent public à adopter le même monde. Une fiction peut faire voir autrement sans défaire la contrainte réelle.
+
+### 37. La preuve que le corps n’est pas une héroïne [A]
+
+Le garde souligne les caractéristiques corporelles du prisonnier, et le jeu obscène détruit la majesté de la plainte tragique. Les versions de certains mots présentent des problèmes d’établissement : John Gibert signale, notamment autour du vers 1114, des propositions éditoriales divergentes dont le comique tient à l’anatomie exposée et à l’erreur supposée du Scythe.
+
+Cette situation requiert une double prudence. On peut affirmer que la scène confronte le sexe du corps visible à l’identité tragique proclamée. On ne doit pas, sans collation, fonder une conclusion morphologique décisive sur une leçon grecque disputée. Le sérieux de la philologie consiste à rendre explicite le statut d’une variante, pas à produire une traduction obscène définitive comme si le dossier était fermé.
+
+### 38. La violence, dernière ligne du contrat du garde [A]
+
+Lorsque Persée demande de délier le captif, le Scythe oppose son refus ; les répliques finales de l’épisode vont jusqu’à la menace d’une arme ou d’un châtiment. Euripide se retire. Ce retrait constate l’échec de la persuasion tragique. Le garde sait ce qu’on lui demande et ne veut pas abandonner l’ordre.
+
+Le piège de lecture serait de prendre ce refus pour une preuve d’infériorité culturelle. L’instruction de garde est précisément de ne pas laisser accéder au captif des personnes qui le libéreraient. L’obéissance professionnelle peut cependant produire une inflexibilité susceptible de violence. La comédie maintient ensemble rationalité limitée de la fonction et brutalité de son mode d’exécution.
+
+### 39. L’échec de la forme tragique n’est pas l’échec de tout langage [I]
+
+La succession des tentatives dramatise un inventaire des pouvoirs de la parole. La plainte d’Hélène ne suffit pas ; l’imitation d’Écho complique l’échange ; la magnanimité héroïque de Persée n’obtient pas la libération. Il reste à changer d’architecture de situation : non plus convaincre que l’on est dans une tragédie, mais modifier l’attention pratique du gardien.
+
+La comédie oppose ainsi deux opérations souvent confondues. Persuader par une interprétation du monde et détourner un comportement par un intérêt immédiat ne sont pas le même acte. Le dénouement réussira en agissant sur le désir, le paiement et la mobilité du garde, non en démontrant l’innocence du captif.
+
+## VI. Faire la paix avec les femmes, non avec la force
+
+### 40. *Spondai* : une trêve entre groupes ennemis dans la fiction [A/É]
+
+Au vers 1161, Euripide propose des *spondai* aux femmes. Le terme peut désigner des libations de traité et, par extension, une paix ou une trêve conventionnelle. Il importe de ne pas aplatir sa force : le mot fait entrer le conflit sur la réputation dans un langage de négociation presque diplomatique. La comédie emprunte à la cité des formes solennelles pour terminer une querelle d’images et de mise en scène.
+
+Aucun traité historique entre le poète et les femmes d’Athènes n’est attesté par ces vers. Le ressort comique réside dans l’appropriation par des personnages d’un vocabulaire public. Un rapprochement avec la fin de *Lysistrata* peut éclairer l’usage de la trêve en comédie, mais n’autorise pas à confondre les deux intrigues.
+
+### 41. Une promesse de cesser l’injure : ni liberté absolue ni rétractation [A/I]
+
+Aux vers 1160–1169, Euripide offre de ne plus dire de mal des femmes à l’avenir, à condition que son parent lui soit rendu. Il ajoute une menace : s’il n’obtient pas satisfaction, il révélera aux maris revenus de campagne les conduites cachées de leurs épouses. La négociation mêle reconnaissance du grief et capacité de nuisance.
+
+La scène ne présente donc pas un engagement pur et désintéressé en faveur d’une représentation plus équitable. Euripide se montre tacticien ; il conserve comme monnaie de transaction le pouvoir de raconter ou de dénoncer. L’accord a une condition immédiate, ce qui le rend efficace pour une fin de pièce sans abolir l’inégalité initiale d’accès à la parole publique.
+
+### 42. *Peithein* : les femmes sont convaincues, l’archer ne l’est pas [A/É]
+
+Au vers 1170, le chœur accepte la proposition dans la mesure de ses propres pouvoirs. Le vers suivant explicite la limite : **le barbare doit être convaincu par Euripide lui-même**. Le verbe apparenté à *peithō* distingue la coopération consentie par les femmes de la maîtrise de l’agent chargé de garder le détenu. Un accord collectif et une consigne de surveillance demeurent indépendants.
+
+Ce détail rend impossible une lecture selon laquelle les participantes auraient simplement donné l’ordre au Scythe de libérer l’infiltré. Leur pouvoir a des limites dans le dispositif scénique. Le poète doit inventer une action supplémentaire pour défaire une contrainte dont les femmes n’ont pas directement la clé.
+
+### 43. Les femmes ne disposent pas de toute la violence publique [I]
+
+L’intrigue donne aux femmes une voix collective puissante au sujet de leurs rites et de leur réputation. Elle fait néanmoins dépendre la contrainte physique d’un magistrat et de son exécutant. Le dénouement rend palpable l’écart entre la possibilité de consentir à un arrangement et la possibilité de lever concrètement une sanction.
+
+La politique de la scène ne constitue donc pas une simple proclamation d’émancipation. Les participantes parviennent à négocier leur image, mais leur réunion ne se substitue pas aux organes masculins de la cité. Cette asymétrie prolonge les analyses générales du corpus MYTHOS sans les répéter : elle précise un problème de **compétence institutionnelle divisée**, visible dans une seule séquence.
+
+### 44. Le pacte n’innocente personne [I/L]
+
+La transaction n’établit pas que l’infiltré avait le droit d’entrer dans la célébration ; elle ne règle pas par un verdict toutes les représentations insultantes d’Euripide ; elle ne prouve pas que le magistrat a ordonné une sanction légalement proportionnée. Les parties agissent en fonction de leur intérêt immédiat, sous la menace de divulgations futures.
+
+Cette indétermination interdit une conclusion morale automatique. Une négociation peut mettre fin à un conflit sans établir une vérité commune. La scène permet de demander si la paix se réduit à l’arrêt d’un dommage ou exige la reconnaissance des raisons qui ont amené des personnes à se battre. La comédie choisit le premier terme à des fins de résolution théâtrale.
+
+## VII. La danse, l’argent et l’arme : vers 1172–1231
+
+### 45. Le *Persikon* : détourner l’attention par une musique nommée [A]
+
+Au vers 1175, Euripide demande un air dit *Persikon*, « perse ». Ce terme fait partie de la situation scénique ; il ne donne pas une notation de musique perse authentique. Il est destiné à déclencher une prestation de danse. Le garde réagit au son, ouvre son attention à la jeune femme et accepte une répétition improvisée en public.
+
+Le trajet de l’oreille à la désobéissance n’est pas instantané. L’agent ne s’éloigne pas par enchantement : il entre progressivement dans une nouvelle interaction où la musique, le mouvement, la conversation et la promesse sexuelle l’intéressent davantage que l’homme immobilisé. La force physique reste la même ; son allocation d’attention change.
+
+### 46. Le *kōmos* comme perception du garde [A/É]
+
+Le Scythe, entendant la musique, se demande quel bruit ou quel *kōmos* le réveille. Ce dernier terme renvoie au contexte de réjouissance et de déambulation festive. Son emploi confirme que le gardien ne serait pas incapable de reconnaître un genre de situation sociale. Il identifie du divertissement, même s’il ne maîtrise pas la rhétorique tragique de Persée.
+
+La scène oppose donc deux traditions de performance. Le haut style de la tragédie échouait à ouvrir le périmètre ; la musique et la danse déclenchent une disponibilité corporelle nouvelle. Ce contraste n’implique aucune théorie aristophanesque de la supériorité universelle de la danse sur les mots : c’est un ressort spécifique du sauvetage comique.
+
+### 47. Une artiste exécutante ne devient pas l’auteur du stratagème [A/I]
+
+La jeune fille danse sur instruction d’Euripide. Sa présence active est indispensable à la réussite ; sans elle, le Scythe ne détournerait pas nécessairement son attention de la planche. Pourtant le scénario a été conçu par le poète, et le texte ne donne pas à la danseuse une longue parole autonome décrivant son projet ou son consentement.
+
+Le danger d’une lecture héroïsante serait de célébrer l’ingéniosité masculine en effaçant le travail d’une performeuse. L’autre danger serait d’inventer, sans source, une biographie de la jeune femme. Ce que l’on sait, c’est qu’elle est intégrée à un dispositif de danse et de séduction. Son statut civique, sa condition juridique précise et ses intentions ne sont pas établis par les répliques seules.
+
+### 48. La sexualisation de l’agent est une technique de neutralisation [A/I]
+
+À partir des vers 1181–1194, le garde commente le corps de la danseuse, sollicite sa proximité et manifeste un désir comique. Euripide orchestre ce rapprochement pour obtenir un déplacement d’attention. Le corps de la jeune femme est donc utilisé comme instrument d’accès à l’agent public, dans une négociation où les deux partenaires masculins possèdent des buts différents.
+
+Le fait que le Scythe soit présenté comme excessivement désirant ne constitue pas une caractéristique scientifique des populations scythes. Le rôle de l’étranger sert ici à concentrer les traits d’une crédulité érotique théâtrale ; le costume ethnique augmente le contraste. L’interprétation doit conserver le caractère construit et potentiellement dépréciatif de cette représentation.
+
+### 49. L’« argent » comme point faible d’un ordre public [A/É]
+
+La scène du vers 1195 place le paiement au cœur de l’échange : Euripide réclame une drachme. Le garde annonce qu’il peut payer mais ne possède pas la monnaie disponible sur lui. La transaction est d’ordre privé, incompatible avec le maintien rigoureux de sa surveillance. L’homme chargé d’empêcher les mouvements d’autrui accepte de négocier le temps et l’espace pour son désir.
+
+Il ne s’agit pas d’une preuve que les agents publics scythes étaient payés en drachmes à cette occasion, ni d’une évaluation des salaires historiques. La drachme est l’unité d’une proposition comique. Sa fonction dramatique est précise : convertir le désir en obligation chiffrée susceptible d’exiger un gage.
+
+### 50. La *sybēnē* : un équipement donné en garantie [A/É]
+
+Au vers 1197, le garde offre sa *sybēnē*, étui associé à son équipement d’archer, faute d’avoir l’argent demandé. Ce détail est essentiel : l’instrument de la fonction publique devient la garantie d’une poursuite privée. La pièce ne se contente pas de faire détourner les yeux ; elle met en transaction un objet qui contribue à la capacité d’exercice du rôle.
+
+La traduction matérielle exacte peut varier selon les commentaires (carquois, étui ou élément d’équipement d’archer). Il faut éviter une précision archéologique excessive. L’essentiel de la scène est incontestable : le garde se dessaisit temporairement d’un objet qui le qualifie comme homme armé et accepte que la transaction privée prenne le pas sur la surveillance.
+
+### 51. Désarmement sans victoire militaire [I]
+
+On pourrait lire cet échange comme une défaite de la violence par le désir. Il s’agit plus rigoureusement d’une désorganisation des moyens de la fonction. Le gardien n’est ni vaincu au combat ni persuadé de l’innocence de l’homme lié. Il choisit une activité incompatible avec le maintien de la garde et remet un objet qui atteste sa disponibilité à une autre transaction.
+
+Cette nuance évite de transformer le dénouement en allégorie d’un désarmement politique total. La comédie ne supprime pas les autorités de la cité. Elle exploite une vulnérabilité individuelle, localisée, au sein d’une chaîne de contrainte. Le caractère spectaculaire de la réussite ne donne aucune leçon générale sur la facilité de soustraire un prisonnier à la garde publique.
+
+### 52. Un nom mal entendu : « Artémisia » et sa déformation [A]
+
+Aux vers 1200–1202, Euripide fournit le nom « Artémisia » ; le Scythe le reprend sous une forme déformée, généralement lue « Artamuxia ». Le détail combine la mémoire d’un nom et le traitement phonétique qui caractérise le personnage. Un nom propre est ici moins un identifiant documentaire qu’un élément du mécanisme de diversion.
+
+Rien n’autorise à identifier la vieille femme déguisée à une Artémisia historique particulière. Le nom exploite une saveur évocatrice et peut rappeler des horizons étrangers, mais sa force première est théâtrale : le garde veut se souvenir de la personne avec qui il vient de conclure une promesse et en révèle la maîtrise approximative.
+
+### 53. Hermès *Dolios* : la ruse a un patron divin [A/I]
+
+Au vers 1202, Euripide évoque Hermès sous une épiclèse liée à la ruse. Cette invocation fait entrer dans le dénouement le registre religieux du stratagème. La réussite ne repose pas sur une révélation lumineuse de la vérité, mais sur la capacité de manipuler l’agent en construisant une fausse situation qui lui paraît personnellement avantageuse.
+
+La présence d’Hermès ne transforme pas la tromperie en justice universelle. Un personnage peut se prévaloir d’un dieu rusé pour réussir une action intéressée, surtout dans une comédie où le théâtre joue explicitement des identités. La distinction entre efficacité et justification reste ouverte.
+
+### 54. Le départ du garde et l’évasion : deux mouvements solidaires [A]
+
+Aux vers 1203–1210, le garde s’éloigne de la planche en poursuivant l’objet de son désir ; Euripide libère son parent et lui ordonne de fuir. La construction est précise : l’absence d’un surveillant crée une possibilité de mouvement pour l’homme qu’il immobilisait. Le captif ne se délie pas par la vertu d’une métaphore ; le dégagement résulte d’une occasion pratique.
+
+La comédie montre enfin ce que les tentatives tragiques n’avaient pas obtenu. La force de l’ordre a été contournée par le désalignement des objectifs de ses exécutants. Une telle issue fait rire de la fragilité d’une surveillance confiée à un individu, sans prouver que le dispositif était légitimement établi ou que sa violation possède une valeur politique générale.
+
+### 55. Le chœur féminin oriente le dernier malentendu [A/I]
+
+Après l’évasion, le Scythe revient et cherche les fugitifs. Les femmes, ayant conclu un accord avec Euripide, ne l’aident plus à restituer sa maîtrise de la situation ; elles favorisent la fuite. La division des autorités devient terminale : le groupe qui avait dénoncé l’infiltration ne souhaite plus que l’agent public en assure l’exécution coercitive.
+
+Ce retournement est particulièrement important. La même communauté peut estimer une injure intolérable et accepter ensuite une transaction. Or la machine d’ordre qui avait été mobilisée au nom de sa plainte ne se retire pas automatiquement. Le garde exécute une instruction devenue sans utilité pour ceux qui la soutenaient initialement.
+
+## VIII. Comparer sans confondre : autres pièces et sources de la cité
+
+### 56. *Les Acharniens* : l’archer comme frontière de parole [A/I]
+
+Aristophane, *Acharniens* 20–22 et 54, met en jeu des personnels de contrôle de l’Assemblée dans une fiction qui fait rire de son fonctionnement. Le parallèle montre que la force matérielle est une condition possible du bon ordre des prises de parole civiques. Dans les *Thesmophories*, cette force ne règle plus la convocation d’une assemblée : elle maintient le corps d’un individu désigné comme transgresseur.
+
+Le glissement est instructif. La même catégorie de personnel peut servir dans des scénarios comiques différents ; il ne faut donc pas reconstituer une « fonction unique » des Scythes à partir d’un seul effet scénique. L’interprétation porte sur la dépendance de la procédure envers des personnes dont la visibilité théâtrale excède leur pouvoir politique.
+
+### 57. *Lysistrata* : les archers dans une confrontation avec des femmes [A/I]
+
+Dans *Lysistrata* 387–475, des archers paraissent dans les tentatives de rétablir l’autorité du magistrat face aux femmes. Le parallèle est d’autant plus significatif que la pièce date également de 411 et mobilise des confrontations entre ordre civique, pouvoir féminin imaginé et moyens de contrainte. Mais le dispositif de l’Acropole n’est pas le même que le gardien individuel de l’infiltré aux *Thesmophories*.
+
+Loin d’y voir deux épisodes d’une « révolution féminine » réelle, il faut observer comment Aristophane expérimente des répartitions différentes des ordres, des corps et des armes. Le personnel exécutif reçoit une visibilité particulière lorsqu’il se heurte à des actrices de l’intrigue dont l’autorité ne correspond pas aux formes ordinaires de la citoyenneté.
+
+### 58. *Les Oiseaux* : une autre langue étrangère rendue burlesque [A/I]
+
+Le dieu triballe des *Oiseaux* offre un parallèle sur la parole d’un non-Grec interprétée par des partenaires qui poursuivent leurs propres buts. La difficulté de communication devient occasion de contrôler les termes d’un accord. Les épisodes demeurent toutefois radicalement différents : l’interlocuteur triballe appartient à une ambassade divine, tandis que l’archer des *Thesmophories* est un exécutant de coercition.
+
+La comparaison permet d’éviter une ethnographie naïve. Dans les deux cas, le public athénien entend une langue étrangère « construite » par la comédie. Mais le ressort comique réside aussi dans la manière dont des interlocuteurs plus prestigieux instrumentalisent ou réinterprètent cette parole. Un défaut de langue peut devenir une occasion d’abus de pouvoir de la part de celui qui prétend la comprendre.
+
+### 59. *L’Assemblée des femmes* : continuité documentaire et limites [A]
+
+Des archers sont également mentionnés dans *L’Assemblée des femmes* 143 et 258–259, texte du début du IVe siècle. Ce témoignage aide les historiens à borner chronologiquement l’existence scénique du personnel concerné. Il ne démontre pas que l’ensemble du service était demeuré inchangé de 411 à cette représentation.
+
+L’objectif de MYTHOS n’est pas de faire une compilation de mots semblables à travers Aristophane. Les références croisées ont ici une utilité limitée et précise : montrer la persistance d’une institution reconnaissable et la souplesse dramatique de son emploi. Les distinctions de date, de fonction et de statut de scène sont à préserver.
+
+### 60. Hérodote IV : contacts de langue et récits d’ethnicité [A/L]
+
+Hérodote IV, 108 et 110–117, rapporte des traditions sur des groupes du nord de la mer Noire, leurs relations et les mélanges de langues, notamment autour des Amazones et des Sauromates. Ces récits témoignent des représentations grecques d’interactions linguistiques et ethniques, mais ils ne sont pas des commentaires directs sur le grec de l’archer d’Aristophane.
+
+Leur intérêt est méthodologique : l’ethnicité, pour les Grecs eux-mêmes, pouvait être pensée en relation avec les apprentissages, les unions, les territoires et les changements de langue. Mais transférer à un archer fictif de 411 toute la tradition ethnographique des Sauromates reviendrait à fusionner des matériaux qui ne désignent pas le même groupe avec certitude.
+
+## IX. Quatre confrontations philosophiques à périmètre défini
+
+### 61. Hegel : ordre extérieur et liberté intérieure [P]
+
+Dans les *Principes de la philosophie du droit*, Hegel différencie les dimensions de la personne, de la moralité et de l’effectivité éthique dans les institutions. On ne peut projeter sa structure de l’État moderne sur Athènes au Ve siècle. Sa problématique aide néanmoins à formuler une dissociation fondamentale : une action matériellement conforme à l’ordre ne garantit pas que tous les participants reconnaissent son contenu comme légitime.
+
+Le Scythe agit sur instruction et conserve sa responsabilité fonctionnelle ; Euripide poursuit un objectif singulier et conteste la contrainte ; les femmes acceptent une transaction indépendante. La situation ne possède aucune « solution hégélienne » donnée par le texte. La comparaison permet seulement de questionner ce qui manque lorsque les ordres publics et les objectifs particuliers cessent de converger.
+
+### 62. Hegel : reconnaissance et statut du serviteur [P/L]
+
+La dialectique de la domination et de la servitude dans la *Phénoménologie de l’esprit* peut servir d’heuristique pour analyser la différence entre celui qui commande et celui qui exécute. Il serait pourtant particulièrement trompeur d’affirmer qu’Hegel aurait commenté l’esclave public scythe ou qu’un garde de comédie représenterait la naissance historique d’une conscience libre.
+
+Le personnage possède une compétence pratique, peut répondre et refuser ; il reste subordonné à des consignes données par un autre. La tension éclaire la distinction entre capacité effective d’agir et reconnaissance civique d’un individu. Elle ne prouve pas que l’agent se libère dialectiquement au cours de la pièce : le dénouement le laisse dupé, non émancipé.
+
+### 63. Nietzsche : force, faiblesse et interprétation des valeurs [P]
+
+Une lecture inspirée de Nietzsche pourrait chercher dans cette comédie l’épreuve d’une force qui s’exerce sans vérification de sa valeur. L’archer dispose de moyens de coercition mais n’est pas souverain sur son mandat ; Euripide possède un pouvoir de création et en fait un instrument de ruse ; les femmes disposent d’un pouvoir collectif et le mettent au service d’un marchandage.
+
+Les catégories de la *Généalogie de la morale* ne doivent pas devenir des étiquettes infamantes : rien n’autorise à décrire les Scythes, historiquement, comme une population de « faibles » ou de « forts » selon un schéma nietzschéen. La comparaison vise plutôt à interroger la constitution des jugements portés sur l’habileté, le mensonge, la noblesse de la parole et la docilité des exécutants.
+
+### 64. Nietzsche : la fiction qui invente un autre monde [P]
+
+Dans *La Naissance de la tragédie*, Nietzsche étudie les puissances de l’apparence, des images scéniques et des forces musicales. Le contraste entre le haut style de Persée et la danse au son d’un air « perse » rend possible un rapprochement formel. La première forme produit une héroïsation imaginaire ; la seconde transforme immédiatement les conduites.
+
+Il serait faux de décréter qu’Aristophane « démontre » ici une doctrine apollinienne et dionysiaque. Les deux arts sont détournés à des fins précises de sauvetage, et la comédie les traite de façon opportuniste. Le dialogue philosophique porte sur les conditions de l’efficacité de la représentation : quand une image change-t-elle seulement le regard, et quand change-t-elle la situation matérielle ?
+
+### 65. Vernant : la cité, ses rôles et ses frontières [P]
+
+Jean-Pierre Vernant a montré que les catégories de pensée grecques sont inséparables des formes de vie collective et des institutions de la cité. La comédie fournit un terrain où les frontières sont visibles : femmes participantes au rite mais exclues du vote civique, agent exécutant des décisions sans citoyenneté reconnue, poète maître des fictions mais non de la procédure de garde, homme captif protégé par la ruse plutôt que par une délibération.
+
+La comparaison met en lumière des fonctions distinctes de la parole et du geste. Elle ne permet pas de reconstituer des pratiques rituelles féminines absentes du texte ni de confondre scène et constitution. Le mérite de cette méthode est de refuser de faire du garde un pur « caractère » isolé de la structure institutionnelle qui lui donne sens.
+
+### 66. Détienne : qui peut imposer une vérité ? [P]
+
+Dans *Les Maîtres de vérité dans la Grèce archaïque*, Marcel Détienne a étudié des régimes de parole autorisée qui ne se réduisent pas à la preuve rationnelle moderne. Le rapprochement ici ne consiste pas à assimiler les procès-verbaux de la *boulē* à la parole archaïque d’un devin. Il vise à distinguer les procédures par lesquelles un énoncé devient efficace dans un groupe.
+
+Le magistrat prononce une instruction ; les femmes reconnaissent ou contestent un récit sur elles-mêmes ; Euripide produit des identités fictives ; le Scythe agit selon les ordres ; le chœur valide une paix conditionnelle. Aucune de ces instances ne possède à elle seule « la vérité » totale de l’intrigue. Leur interaction constitue une pluralité de régimes de légitimation, et le spectacle fait rire de leur conflit.
+
+### 67. Contre un grand récit de progrès linguistique [I/L]
+
+Une lecture évolutionniste pourrait faire de l’archer un stade inférieur du langage, dont la cité attique représenterait le perfectionnement. Elle reprendrait sans critique la stéréotypie comique. Or le dramaturge accorde au personnage assez de compétence pour garder un prisonnier, reconnaître l’inadéquation d’une identification mythique et négocier une transaction.
+
+La rigueur scientifique consiste à séparer ce qui est drôle pour le public de ce qui est démontré sur la compétence des étrangers. L’absence d’une langue littéraire standardisée dans une bouche fictive n’équivaut pas à une infériorité des groupes réels. Le même principe doit guider toute comparaison entre langues anciennes dans les autres dossiers MYTHOS.
+
+## X. Contre-thèses, objections et verdict interprétatif
+
+### 68. « Le Scythe est uniquement idiot » : objection invalide [A/I]
+
+L’affirmation ne résiste pas au texte. Son grec est déformé, mais il connaît la situation physique de son détenu et refuse de le délier pendant la séquence de Persée. Il est dupé dans la suite par une stratégie fondée sur ses intérêts sexuels et financiers. Ce n’est pas une preuve d’incapacité générale ; c’est un changement des conditions de son attention.
+
+Le comique repose justement sur la coexistence d’une vigilance initiale et d’une crédulité ultérieure. Un personnage cohérent dans son mandat peut être vulnérable lorsqu’on le fait agir hors de ce mandat.
+
+### 69. « La parodie montre la supériorité de l’Athénien » : objection insuffisante [I]
+
+Euripide maîtrise le langage prestigieux et réussit l’évasion ; toutefois il menace les femmes de dénonciation, utilise des interprètes comme instruments et soustrait un captif à une décision publique sans jugement de fond. La réussite dramatique ne peut être identifiée sans réserve à une supériorité morale. L’athénien rusé est potentiellement injuste envers ceux qu’il manipule.
+
+Cette remarque n’annule pas l’illégitimité possible de la contrainte contre son proche. Elle impose de distinguer procédure discutable, habileté du contre-pouvoir et légitimation des moyens.
+
+### 70. « Les femmes gouvernent la police » : confusion institutionnelle [A]
+
+La réplique de 1171 dément une telle assimilation : le chœur laisse explicitement à Euripide la tâche de convaincre le barbare. Les femmes possèdent une puissance de négociation dans la fiction ; elles ne sont pas décrites comme le corps politique qui commande effectivement l’archer. L’ordre initial appartient au magistrat.
+
+Un commentaire féministe rigoureux peut analyser les manières dont la représentation rend les femmes visibles tout en limitant leur autorité. Il n’a pas besoin de leur inventer une administration de police qu’elles n’exercent pas dans la pièce.
+
+### 71. « Le grec du garde est du scythe » : erreur philologique [L]
+
+L’archer parle une variété littéraire de grec déformé. L’iranien scythe historique n’est pas transmis par ce texte sous une forme continue indépendante. Les ressemblances éventuelles avec des erreurs de locuteurs étrangers réels ne transforment pas le personnage en informateur linguistique natif contrôlable.
+
+Toute tentative de produire un glossaire de grammaire scythe directement à partir de ses répliques devrait être refusée par le contrôle philologique. En revanche, un tableau des altérations du grec de l’acteur-comédien serait un instrument de recherche pertinent.
+
+### 72. « Le costume scythe nous est parfaitement connu » : objection archéologique [L]
+
+Les pratiques vestimentaires scythes sont documentées par de nombreux objets et images dans d’autres corpus ; elles ne déterminent pas à l’unité près le costume de l’acteur de 411. Une représentation moderne pourrait associer bonnet, vêtements de steppe et équipement d’archer à partir d’analogies ; elle doit toutefois se présenter comme **reconstitution artistique raisonnée**, non comme illustration archéologique d’un acteur identifié.
+
+Le même principe vaut pour la planche, le fouet et le carquois. La mention textuelle fournit un seuil de certitude ; le détail de leur matière, de leur disposition et de leur manipulation reste en partie conjectural.
+
+### 73. « L’évasion réconcilie définitivement tous les groupes » : conclusion excessive [I/L]
+
+À la fin, les femmes favorisent la fuite et le garde poursuit des pistes erronées. Le spectacle clôt le conflit de scène, mais ne réforme ni les lois athéniennes ni le statut servile des agents publics. Euripide promet de cesser les injures, et aucune instance ultérieure n’en vérifie l’application. Une paix dramatique peut être réelle dans l’univers du récit sans devenir un accord juridique permanent.
+
+La comédie clôt par le mouvement et le rire, non par une nouvelle constitution. Le résultat est une alliance momentanée des intérêts particuliers qui défait le contrôle d’un corps individuel.
+
+### 74. Une démocratie dont la force ne se confond pas avec la raison [I]
+
+On peut formuler le résultat politique comme une triple distinction : la décision peut être publique sans être incontestable ; sa mise en œuvre peut être correcte sans être juste dans ses fins ; le contournement de l’ordre peut être efficace sans être moralement exemplaire. L’archer donne à cette triple distinction une présence concrète. Sa langue atypique masque la rationalité relative de son obéissance, tandis que la langue raffinée d’Euripide masque le caractère intéressé de la ruse.
+
+L’étude ne demande pas que les comédies proposent des critères constitutionnels complets. Elle montre que les personnages exposent des fractures entre ce qui est autorisé, ce qui est matériellement possible et ce qui pourrait être justifié devant les personnes affectées.
+
+## XI. Tableau de validation documentaire
+
+| Dossier | Corpus précis | Attestation et degré de confiance |
+|---|---|---|
+| Ordre initial | *Thesmophoriazusae* 929–934 | Magistrat, fixation sur une *sanis*, ordre de garde, fouet : [A] |
+| Publicité punitive | 939–946 | Refus d’enlever les habits ; référence à la *boulē* : [A] |
+| Supplication | 1001–1007 | Refus d’alléger les liens, ordre de silence : [A] |
+| *Andromède* | 1015–1135 | Parodie conservée ; citations exactes d’Euripide à établir au cas par cas : [A/É/L] |
+| Écho | 1058–1097 | Répétitions et perturbation des tours de parole : [A] |
+| Persée et la Gorgone | 1098–1106 | Collision de registre, Gorgone/Gorgos : [A/É] |
+| Identité du prisonnier | 1107–1114 | Le garde conteste le statut de jeune fille : [A] |
+| Refus de délivrance | 1115–1135 | La fiction héroïque ne défait pas les liens : [A] |
+| Pacte des femmes | 1160–1171 | Trêve conditionnelle et autonomie de l’archer : [A] |
+| Musique et danse | 1172–1194 | Le garde accepte la prestation et s’en distrait : [A] |
+| Paiement et gage | 1195–1199 | Drachme proposée, *sybēnē* en garantie : [A/É] |
+| Nom déformé | 1200–1202 | Artémisia / Artamuxia ; invocation d’Hermès rusé : [A] |
+| Libération | 1203–1210 | L’agent s’absente ; Euripide détache son parent : [A] |
+| Police scythe | Pritchard 2018 ; Souda τ 771 ; IG I³ 45 | Personnel public attesté, effectifs et fonctions discutés : [A/H] |
+| Le grec de l’étranger | Willi 2003, chapitre « Foreigner Talk » | Interprétation sociolinguistique : [É] |
+| Ethnicité théâtrale | Edith Hall 2006 | Rôle comique en dialogue avec tragédies d’évasion : [I/H] |
+| Interaction conversationnelle | van Emde Boas 2026 | Méthode fondée sur le résumé universitaire consulté : [P/L] |
+| Philosophie | Hegel, Nietzsche, Vernant, Détienne | Appropriations critiques, non testimonia antiques : [P] |
+
+## XII. Bibliographie scientifique annotée et sources primaires
+
+### A. Textes antiques et histoire institutionnelle
+
+1. **Aristophane, *Thesmophoriazusae***, 531–687 ; 785–846 ; 846–946 ; 1001–1135 ; 1136–1231. Édition F. W. Hall et W. M. Geldart, *Aristophanis Comoediae*, vol. II, Oxford, Clarendon Press, 1907, texte grec consulté intégralement : https://adfonteslibrary.org/work-aristophanes-thesmophoriazusae . Découpage par épisodes et confrontation grec/anglais d’après l’édition de Hall–Geldart et la traduction ancienne de B. B. Rogers : https://www.greekmythology.com/sources/aristophanes/thesmophoriazusae .
+
+2. **Aristophane, *Acharniens***, 20–22, 54 ; ***Lysistrata***, 387–475 ; ***Oiseaux***, scènes de l’ambassade triballe ; ***L’Assemblée des femmes***, 143, 258–259. Parallèles à lire comme documents comiques indépendants, non comme un registre administratif des interventions du même corps.
+
+3. **Thucydide**, *Histoire de la guerre du Péloponnèse* VIII, notamment 71, 98 : crise oligarchique et mention d’archers barbares. Édition et contrôle des passages dans les corpus de Perseus : https://www.perseus.tufts.edu/ .
+
+4. **Hérodote**, *Histoires* IV, 108, 110–117 : récits grecs sur les Sauromates, les contacts culturels et les changements de langue ; comparaisons limitées, sans identification avec l’idiolecte comique de l’archer.
+
+5. **IG I³ 45**, texte épigraphique athénien cité dans la discussion institutionnelle de Pritchard ; provenance d’édition : *Inscriptiones Graecae* I³. La relation des archers de garde avec la mesure demeure discutée.
+
+6. **Souda**, τ 771 (*toxotai*) : notice byzantine attestant un effectif de mille et la terminologie des archers publics, dont le degré d’autorité pour la situation du Ve siècle est discuté. Texte et traduction du projet Suda On Line : https://cs.uky.edu/~raphael/sol/sol-entries/tau/771 .
+
+7. **Andocide**, *Sur la paix* 3, 4–5 ; **Eschine**, *Sur l’ambassade* 2, 172–173 : témoignages exploités dans la discussion historique de la constitution d’un personnel d’archers publics. Ces passages sont cités comme indices contextualisés, pas comme preuve de recrutement individuel de l’archer comique.
+
+### B. Philologie grecque, ethnographie de scène et institutions
+
+8. **Edith Hall**, « The Scythian Archer in Aristophanes’ *Thesmophoriazusae* », dans *The Theatrical Cast of Athens: Interactions between Ancient Greek Drama and Society*, Oxford University Press, 2006, p. 225–254. DOI 10.1093/acprof:oso/9780199298891.003.0008. Résumé institutionnel consulté : https://academic.oup.com/book/8387/chapter-abstract/154099312 . La thèse principale concerne la construction d’une altérité ethnique et le dialogue avec les rôles barbares des tragédies d’évasion.
+
+9. **Andreas Willi**, *The Languages of Aristophanes: Aspects of Linguistic Variation in Classical Attic Greek*, Oxford, Oxford University Press, 2003, chap. 7, « Foreigner Talk », p. 198–225 (édition numérique Oxford datée de 2007). DOI 10.1093/acprof:oso/9780199215102.003.0007 ; notice : https://academic.oup.com/book/2174/chapter-abstract/142171729 . Son analyse oppose la représentation de grec simplifié à l’idée d’un enregistrement du grec populaire réel. La recension philologique de Jerker Blomqvist, *Bryn Mawr Classical Review* 2004.06.04, a été consultée : https://bmcr.brynmawr.edu/2004/2004.06.04/ .
+
+10. **David M. Pritchard**, « The Archers of Classical Athens », *Greece & Rome* 65.1 (avril 2018), p. 86–102, publication en ligne le 15 mars 2018. DOI 10.1017/S0017383517000237. Texte consulté : https://www.cambridge.org/core/journals/greece-and-rome/article/archers-of-classical-athens/08E3062B631B5E28A392ED8806F0B43F . Étude décisive sur la distinction entre corps d’archers militaires et personnel scythe de la cité, les effectifs concurrents et les tâches attribuées par les *prytaneis*.
+
+11. **Muzaffer Demir**, « A Newly Proposed Dating for the Recruitment by Athens of Scythian Archers (5th c. B.C.) », *Belleten* 65.244 (2001), p. 905–910. DOI 10.37879/belleten.2001.905 ; résumé consulté : https://belleten.gov.tr/ozet/2/eng . Proposition de datation du recrutement à situer comme hypothèse argumentée, non consensus documentaire intangible.
+
+12. **Evert van Emde Boas**, « CA and ‘Atypical Populations’ in Greek Drama », dans Rodrigo Verano (dir.), *Conversation Analysis and Classics: Talk-in-Interaction in Greek and Latin Literature*, Brill, Leiden, 2026, p. 463–502, publication du 18 août 2026. DOI 10.1163/9789004764385-016. Résumé institutionnel et métadonnées consultés : https://pure.au.dk/portal/en/publications/ca-and-atypical-populations-in-greek-drama/ . Les méthodes de réparation et de prise de tour sont identifiées à partir de la notice, non d’une lecture intégrale non disponible.
+
+13. **Rüdiger Schmitt**, « Scythian Language », *Encyclopaedia Iranica*, version de référence actualisée en 2018. Notice de synthèse sur les attestations indirectes et fragmentaires des langues scythes : https://www.iranicaonline.org/articles/scythian-language . Le grec artificiel d’Aristophane n’est pas un corpus vernaculaire scythe.
+
+14. **John Gibert**, « Falling in Love with Euripides (*Andromeda*) », dans *Illinois Classical Studies* XXIV–XXV (1999–2000), p. 75–92. Volume numérisé dans les collections de l’University of Illinois : https://libsysdigi.library.illinois.edu/OCA/Books2009-09/illinoisclassica/illinoisclassica242519992000univ/illinoisclassica242519992000univ.pdf . Article utilisé pour les difficultés de distinguer citation tragique, parodie et variation textuelle, notamment le vers 1114.
+
+15. **Alan H. Sommerstein** (éd.), *Aristophanes: Thesmophoriazusae*, Warminster, Aris & Phillips, 1994. Édition et commentaire moderne à confronter pour l’établissement des vers ; ses choix ne sont pas présentés ici comme intégralement collationnés.
+
+16. **Jeffrey Henderson**, *The Maculate Muse: Obscene Language in Attic Comedy*, 2e éd., Oxford University Press, 1991 ; **Stephen Halliwell**, *Greek Laughter: A Study of Cultural Psychology from Homer to Early Christianity*, Cambridge University Press, 2008. Références de méthode pour le registre obscène, les plaisanteries corporelles et la pluralité des effets du rire.
+
+### C. Philosophie et anthropologie comparées
+
+17. **G. W. F. Hegel**, *Phénoménologie de l’esprit* (1807), dialectique de la reconnaissance ; *Principes de la philosophie du droit* (1821), sections sur les institutions de la liberté. Textes de confrontation conceptuelle uniquement.
+
+18. **Friedrich Nietzsche**, *La Naissance de la tragédie* (1872), problème de l’apparence, de la forme et du théâtre ; *Généalogie de la morale* (1887), articulation entre évaluations, pouvoir et interprétation des conduites. Ni l’un ni l’autre ne décrit l’archer historique athénien.
+
+19. **Jean-Pierre Vernant**, *Les Origines de la pensée grecque* (1962) ; *Mythe et société en Grèce ancienne* (1974). Rapprochement des rôles sociaux, des espaces de la cité et des formes de pensée.
+
+20. **Marcel Détienne**, *Les Maîtres de vérité dans la Grèce archaïque* (1967) ; *L’Invention de la mythologie* (1981). Analyse de la diversité des régimes de parole autorisée, avec distinction chronologique des sociétés étudiées.
+
+### D. Continuité universitaire et statut du manuscrit
+
+Le présent dossier ne remplace aucun texte déjà publié. Il complète le volume CCXXV (225), *Les Thesmophories : secret rituel, contre-enquête, réputation* ; le volume CCI (201), *Du trésor sacré au gouvernement du commun* ; les analyses des *Oiseaux* sur l’ambassade triballe ; et les études consacrées au rapport entre citoyenneté et domination servile. Il ne recopie pas leurs sections générales. Sa contribution propre porte sur l’exécutant armé non citoyen, son langage, les pratiques conversationnelles, la compétence limitée de l’ordre et la conversion du matériel de garde en gage privé.
+
+Les dates de composition des travaux, les numéros de vers, les titres exacts des études bibliographiques et les liens de consultation ont fait l’objet d’une recherche sur le web au 6 novembre 2026. Les résumés d’ouvrages non accessibles intégralement demeurent explicitement signalés. Aucun fait conjectural relatif au costume, à la langue scythe ou aux conditions exactes de représentation n’est promu au rang d’attestation.
+
+## Conclusion — La scène montre qui peut lier, non qui a raison
+
+L’archer des *Thesmophories* entre dans la comédie comme la prolongation concrète d’une décision de la cité. Il surveille, immobilise et interdit l’approche. Son grec est rendu risible, mais il comprend assez bien pour reconnaître la fausseté de l’identité tragique proposée, refuser une libération et maintenir provisoirement une frontière. La satire ne fonctionne pas si l’on efface cette compétence : il faut qu’une force réelle résiste pour que la ruse soit nécessaire.
+
+Euripide triomphe en changeant le dispositif, non en prouvant que son prisonnier est innocent. Il fait la paix avec les participantes offensées, puis substitue au discours tragique une danse, un désir, une demande de drachme et un gage matériel. Le garde, qui incarnait un ordre public délégué, accepte une transaction privée et détourne son attention. Le corps auparavant fixé à la planche peut alors fuir.
+
+La portée philosophique tient dans le refus de confondre **autorité, compétence, vérité, légitimité et succès**. L’Athénien possédant la meilleure langue peut tromper ; l’étranger parlant un grec altéré peut discerner ; le pouvoir civique peut punir sans démontrer sa justice ; le groupe féminin peut négocier sans commander la force ; le gardien peut respecter l’ordre et perdre son objet. Ce faisceau de contradictions fait du petit rôle de l’archer une pièce essentielle pour une histoire critique de la démocratie athénienne : non pas une machine homogène qui rendrait la liberté visible, mais un ensemble de voix, de statuts et de corps dont les pouvoirs ne se recouvrent jamais exactement.
+
+*Fin de la monographie autonome. Volume CCXCV (295) uniquement après attribution GitHub Actions ; aucune publication publique n’est présumée.*

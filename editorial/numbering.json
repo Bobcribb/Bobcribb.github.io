@@ -909,6 +909,18 @@
           "path": "chapitres/origines-du-sacre/723-gobero-tenere-cimetieres-kiffiens-teneriens-sepultures-fleurs-lacs-holocene.md",
           "request_sha256": "4a4513ae204336f2eed68d592ebdcba6fa80dd54a49d65b008e148bfc7d9f3ed",
           "initial_source_sha256": "744da46bad8534ed7ef532074e3d9714b2cd6a8de99973a25c04be3755c2a7d4"
+        },
+        "16ef29b0-e23e-42bd-b95e-bdf5b691651b": {
+          "number": 724,
+          "path": "chapitres/origines-du-sacre/724-ennedi-tchad-niola-doa-peintures-pastorales-eau-memoire-rituels.md",
+          "request_sha256": "f539acbb0b9bb3178d0451622c6308d6d013c3ab7992e57f477129c009aab06e",
+          "initial_source_sha256": "49470fb8a58196e42454736d12ad10bd5770d125eda51ec52e44d1018d27278d"
+        },
+        "c0a11ac2-2d39-4cc5-a958-12102e5249a3": {
+          "number": 725,
+          "path": "chapitres/origines-du-sacre/725-wadi-sura-gilf-kebir-mains-animales-abris-peintures-holocene.md",
+          "request_sha256": "44286e57b1d0f6f372c55d7f90bcb69a4f4e7adc579ba418232c737fd62b8207",
+          "initial_source_sha256": "6dd8b3556ebc9e1151239f8da231b9a7b78f4a56c67cd33a36cb4cb3c970db74"
         }
       }
     },
@@ -3415,6 +3427,12 @@
           "path": "chapitres/comparatif/volume-ccxciv-mc-096-ombres-divin-double-protection-substitution-egypte-mesopotamie-israel-grece-inde.md",
           "request_sha256": "efadc7fa650ca29b2b360203ea2c3bec5e4a304708ebda1bdd1ea089e67022ea",
           "initial_source_sha256": "adc91e54fc20c63ea8a57b5f045eb6fa84f7d8b587c39b9447843127f661857e"
+        },
+        "86fd4a9e-672b-4db3-9f21-6b8f0ce45a70": {
+          "number": 295,
+          "path": "chapitres/comparatif/volume-ccxcv-thesmophories-archer-scythe-police-langues-contrainte-theatre-411.md",
+          "request_sha256": "962b4a5f493e89faaaea7deca94b754babbd844c375895af034d4dbefbc5b576",
+          "initial_source_sha256": "3c4a353491d28e8e47a3477317c8910fca46ca0b00100d359779a454c8e40ff5"
         }
       }
     }
