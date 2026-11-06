@@ -50,6 +50,16 @@ class TestWorldMythologiesToc(unittest.TestCase):
                 self.assertGreater(len(html), 40_000, slug)
                 self.assertRegex(html.lower(), r"bibliograph|sources|références")
 
+    def test_restored_image_and_credit_for_two_historical_volumes(self):
+        # Les générateurs de navigation conservent les images sourcées.
+        for marker in ("koush-naqa-lassihu", "sassoun-kochar-2014"):
+            images = self.soup.select('img[data-mythos-card-source="' + marker + '"]')
+            self.assertEqual(len(images), 1, marker)
+            self.assertTrue(images[0].get("alt"), marker)
+            self.assertEqual(images[0].get("loading"), "lazy")
+        self.assertIn("LassiHU (2005)", self.html)
+        self.assertIn("Marcin Konsek (2014)", self.html)
+
     def test_build_regenerates_exact_same_three_anchors(self):
         py = GENERATOR.read_text(encoding="utf-8")
         self.assertIn('def create_mythologies(entries):', py)
