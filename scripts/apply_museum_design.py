@@ -352,6 +352,60 @@ def apply(root):
                     '<span class="card-indicator" aria-hidden="true">↗</span></a>'
                 ).a
                 collection_grid.append(gallery_card)
+            # Deux portes d'entrée illustrées vers les bibliothèques déjà
+            # publiées. Les documents locaux sont attestés dans media/manifest;
+            # aucun nouveau manuscrit et aucune cote ne sont créés ici.
+            collection_covers = (
+                ('/mythologies/', 'mythologies',
+                 '/media/2026/10/shiva-nataraja-chola-met-1987-80-1.jpg',
+                 'Bronze chola de Śiva Naṭarāja, Metropolitan Museum of Art ; '
+                 'exemple d’une tradition parmi de nombreuses autres.',
+                 'Mythologies du monde',
+                 'Épopées et traditions d’Asie, d’Océanie et des Amériques.',
+                 'Illustration : Śiva Naṭarāja (The Met, Inde du Sud).'),
+                ('/civilisations/', 'civilisations',
+                 '/media/2026/10/mythos-behistun-inscription-darius-mahdimanavimvi-2018.jpg',
+                 'Relief de Darius Ier à Behistun, en Iran ; document archéologique.',
+                 'Civilisations anciennes',
+                 'Études historiques et religieuses, archives et sources.',
+                 'Illustration : relief de Behistun, Iran.'),
+            )
+            if collection_grid:
+                for (destination, key, cover, alt, title, summary,
+                     credit) in collection_covers:
+                    if collection_grid.select_one('a.portal-card[href="' + destination + '"]'):
+                        continue
+                    if not (root / cover.lstrip('/')).is_file():
+                        continue
+                    card = fragment(
+                        '<a class="portal-card" data-mythos-home-collection="' +
+                        html.escape(key, quote=True) + '" href="' +
+                        html.escape(destination, quote=True) + '">'
+                        '<img class="mythos-card-image" loading="lazy" decoding="async" '
+                        'src="' + html.escape(cover, quote=True) + '" alt="' +
+                        html.escape(alt, quote=True) + '"/>'
+                        '<span class="portal-card-kicker">BIBLIOTHÈQUE DOCUMENTÉE</span>'
+                        '<strong>' + html.escape(title) + '</strong>'
+                        '<span>' + html.escape(summary) + '</span>'
+                        '<small class="mythos-home-cover-credit">' +
+                        html.escape(credit) + '</small>'
+                        '<span class="card-indicator" aria-hidden="true">↗</span></a>'
+                    ).a
+                    collection_grid.append(card)
+                # Le volume XIX de La Galigo est déjà public : lien de lecture
+                # direct, sans recopier ni résumer son étude scientifique.
+                study_url = ('/bibliotheque-mythologies-du-monde/'
+                             'mythos-volume-19-la-galigo-bugis-sawerigading/')
+                if (not doc.select_one('[data-mythos-world-reading]')
+                        and (root / study_url.lstrip('/') / 'index.html').is_file()):
+                    reading = fragment(
+                        '<p class="mythos-world-reading" data-mythos-world-reading="1">'
+                        '<span>Accès direct à une étude intégrale :</span> '
+                        '<a href="' + study_url + '">'
+                        'La Galigo — Volume XIX, mythologie bugis et sources</a>'
+                        '</p>'
+                    ).p
+                    collection_grid.insert_after(reading)
         # Sommaire de l'accueil : navigation interne vers les rubriques existantes,
         # sans reproduire les textes, changer les cartes ni créer d'entrées de corpus.
         # Cette passe est idempotente, y compris après deux reconstructions.
@@ -432,6 +486,20 @@ def apply(root):
                         and image_path.startswith('/media/')
                         and '/../' not in image_path
                         and image_path.lower().endswith(('.jpg', '.jpeg', '.png', '.webp'))
+                        and (root / image_path.lstrip('/')).is_file()):
+                    continue
+                # Les deux couvertures de bibliothèque ajoutées sur
+                # l'accueil sont des documents existants, vérifiés en local.
+                # Ne pas remplacer ces figures par une vignette générique.
+                expected_home_cover = {
+                    '/mythologies/':
+                        '/media/2026/10/shiva-nataraja-chola-met-1987-80-1.jpg',
+                    '/civilisations/':
+                        '/media/2026/10/mythos-behistun-inscription-darius-mahdimanavimvi-2018.jpg',
+                }
+                if (url == '/'
+                        and card.get('data-mythos-home-collection')
+                        and image_path == expected_home_cover.get(card.get('href'))
                         and (root / image_path.lstrip('/')).is_file()):
                     continue
                 # CIV-01 : la carte de Behistun porte une vraie photographie
