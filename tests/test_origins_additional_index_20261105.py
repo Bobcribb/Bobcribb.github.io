@@ -39,6 +39,32 @@ class OriginsAdditionalIndexTests(unittest.TestCase):
                              {r["url"] for r in records.values()})
             self.assertEqual(len(page.select("a[href]")), len(records))
 
+    def test_bandeau_my_thos_suivi_du_titre_scientifique_chwaka(self):
+        # Le bandeau initial ne doit pas faire passer le premier H2
+        # « Résumé » pour le titre scientifique de la monographie.
+        with TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            url = "/chapitres/origines-du-sacre/756-chwaka-pemba/"
+            source = root / (url.strip("/") + ".md")
+            source.parent.mkdir(parents=True, exist_ok=True)
+            original = ("# MYTHOS — Les Origines du sacré — Chapitre 756\\n"
+                        "# Chwaka (Pemba) : quatre mosquées et la ville swahilie\\n\\n"
+                        "## Résumé\\n\\n" + "Analyse scientifique. " * 155)
+            source.write_text(original, encoding="utf-8")
+            reader = root / "_site" / url.strip("/") / "index.html"
+            reader.parent.mkdir(parents=True, exist_ok=True)
+            reader.write_text("<article>Texte intégral inchangé</article>", encoding="utf-8")
+            index = origins_additional_index(
+                {756: {"url": url, "title": "Chapitre 756 — Résumé"}},
+                root, root / "_site",
+            )
+            doc = BeautifulSoup(index, "html.parser")
+            self.assertEqual(
+                doc.select_one(".origins-research-card strong").get_text(" ", strip=True),
+                "Chwaka (Pemba) : quatre mosquées et la ville swahilie",
+            )
+            self.assertEqual(source.read_text(encoding="utf-8"), original)
+
     def test_missing_reader_refuses_partial_or_unpublished_content(self):
         with TemporaryDirectory() as tmp:
             root = Path(tmp)
