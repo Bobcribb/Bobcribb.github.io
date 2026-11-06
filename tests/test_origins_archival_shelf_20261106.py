@@ -50,7 +50,7 @@ class OriginsArchivalShelfTests(unittest.TestCase):
                 self.assertEqual(len(links), 9)
                 self.assertEqual(len({link["href"] for link in links}), 9)
                 self.assertEqual(len(fragment.select("h2#origines-archives-titre")), 1)
-                for _, _, _, _, slug in ARCHIVES:
+                for index, (_, _, _, _, slug) in enumerate(ARCHIVES):
                     page = BeautifulSoup(
                         (out / "corpus" / "origines-du-sacre" / (slug + ".html"))
                         .read_text(encoding="utf-8"), "html.parser")
@@ -66,6 +66,25 @@ class OriginsArchivalShelfTests(unittest.TestCase):
                         "corpus/origines-du-sacre/" + slug + ".md",
                     )
                     self.assertEqual(source_links[0].get("rel"), ["noopener", "noreferrer"])
+                    neighbours = navs[0].select("a.origins-archival-adjacent")
+                    self.assertEqual(
+                        len(neighbours), int(index > 0) + int(index < len(ARCHIVES) - 1)
+                    )
+                    by_relation = {a["rel"][0]: a["href"] for a in neighbours}
+                    if index > 0:
+                        self.assertEqual(
+                            by_relation["prev"],
+                            "/corpus/origines-du-sacre/" + ARCHIVES[index - 1][4] + ".html"
+                        )
+                    else:
+                        self.assertNotIn("prev", by_relation)
+                    if index < len(ARCHIVES) - 1:
+                        self.assertEqual(
+                            by_relation["next"],
+                            "/corpus/origines-du-sacre/" + ARCHIVES[index + 1][4] + ".html"
+                        )
+                    else:
+                        self.assertNotIn("next", by_relation)
 
     def test_archive_absente_refusee(self):
         with TemporaryDirectory() as tmp:
