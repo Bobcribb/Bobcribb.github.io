@@ -62,6 +62,11 @@ def install(root: Path, output: Path, slugs=SLUGS):
     main = doc.select_one('main article.content') or doc.select_one('main')
     if main is None:
         return 0
+    # Les neuf Markdown complets reçoivent chacun un lecteur HTML autonome.
+    # Les éditions critiques, les scènes modernes et les sources restent intactes.
+    from theatre_source_readers import build_readers
+    if build_readers(root, output, records) != len(records):
+        raise RuntimeError('Théâtre : sources HTML incomplètes')
     for previous in main.select('#theatre-comedies-editions'):
         previous.decompose()
     cards = []
@@ -72,13 +77,15 @@ def install(root: Path, output: Path, slugs=SLUGS):
             f'<span class="mythos-theatre-edition-cote">Volume historique '
             f'{esc(item["historical_volume"])}</span>'
             f'<h3>{esc(item["title"])}</h3>'
-            '<p>Une même archive conservée, deux lectures distinctes.</p>'
+            '<p>Une même archive conservée, ses témoignages critiques et ses créations distinctes.</p>'
             '<nav aria-label="Versions du dossier">'
             f'<a href="{esc(item["critique"])}">Étude critique intégrale et bibliographie</a>'
             f'<a href="{esc(item["scenes"])}">Scènes modernes — créations distinctes</a>'
             '</nav><p class="mythos-theatre-edition-source">'
+            f'<a href="/corpus/theatre-grec/comedies/{esc(item["slug"])}-source.html">'
+            'Édition HTML du manuscrit intégral</a> · '
             f'<a href="/corpus/theatre-grec/comedies/{esc(item["slug"])}-source.md">'
-            'Manuscrit original intégral (Markdown)</a></p></article>'
+            'Source Markdown originale</a></p></article>'
         )
     markup = (
         '<section id="theatre-comedies-editions" class="portal-section '
@@ -159,7 +166,9 @@ def install(root: Path, output: Path, slugs=SLUGS):
                 '<a href="/theatre/#theatre-source-' + html.escape(item['slug'], quote=True) + '">'
                 '← Sommaire du théâtre grec</a>'
                 '<a href="' + html.escape(item[other], quote=True) + '">' + label + '</a>'
-                '<a href="' + html.escape(source_url, quote=True) + '">Manuscrit source intégral</a>'
+                '<a href="/corpus/theatre-grec/comedies/' + html.escape(item['slug'], quote=True)
+                + '-source.html">Lire le manuscrit intégral en HTML</a>'
+                '<a href="' + html.escape(source_url, quote=True) + '">Manuscrit source Markdown</a>'
                 '</nav>', 'html.parser'
             ).nav
             header.insert_after(nav)
