@@ -3283,6 +3283,12 @@
           "path": "chapitres/comparatif/volume-cclxxxv-nuees-vieux-et-nouveau-solon-calendrier-dettes-credit-proces-423.md",
           "request_sha256": "9469b69980d32b2be7f710fa7ce7e57f578c75895090e46b5be1362083f831df",
           "initial_source_sha256": "35b933f95edbf56775f8b0b97b341bf7978d6b94159f0d1c139b656c24f8748c"
+        },
+        "4b9f3cae-83ad-4b5e-a36f-202611060393": {
+          "number": 286,
+          "path": "chapitres/comparatif/volume-cclxxxvi-mc-093-sceau-des-dieux-empreinte-autorite-protection-souverainete-sumer-perse-bible.md",
+          "request_sha256": "64a4dbdab1737665bf6dd5592c5cee9e76ce074cbf23a3497b3460b56e4754c0",
+          "initial_source_sha256": "2fc86e16b0b390d6ed9c86f071d5d0ce0db251a960adb4ba8d69e409b8f21dae"
         }
       }
     }
