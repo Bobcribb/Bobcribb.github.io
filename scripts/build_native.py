@@ -454,6 +454,11 @@ def main():
     # intégrales du rendu ; aucune nouvelle cote ni copie d'étude n'est créée.
     from recent_studies import install as install_recent_studies
     print('Accueil — dernières études attribuées :', install_recent_studies(ROOT, OUT))
+    # Réaliser la distribution site des 18 manuscrits publics de l'Énéide,
+    # avec liens vers l'étude intégrale et le récit, sans nouvelle attribution.
+    from eneide_source_access import install as install_eneide_source_access
+    print('Énéide — manuscrits originaux distribués :',
+          install_eneide_source_access(ROOT, OUT))
     from build_reading_pdfs import build as build_reading_pdfs
     build_reading_pdfs(OUT)
     verify_sources(protected_sources)
