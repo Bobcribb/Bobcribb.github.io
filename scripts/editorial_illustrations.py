@@ -176,6 +176,9 @@ def make_figure(doc, record, inline=False):
 
 
 def eligible_paragraph(p):
+    # Archived WordPress prose is immutable: add images outside its protected block.
+    if p.find_parent(class_="mythos-original-study"):
+        return False
     if len(p.get_text(" ", strip=True)) < 100:
         return False
     if p.find_parent(("figure", "aside", "blockquote", "li", "nav", "footer")):
@@ -207,6 +210,8 @@ def section_anchor(heading):
 
 
 def section_heading_ok(heading):
+    if heading.find_parent(class_="mythos-original-study"):
+        return False
     if heading.find_parent(("nav", "aside", "figure", "blockquote", "footer")):
         return False
     words = normalized(heading.get_text(" ", strip=True)).split()
