@@ -128,6 +128,10 @@
     "38a25f46-3b75-4c6d-9fb0-5aec1d9c7e62": {
       "request_sha256": "73f39aec00052a98a27f446999289da374cc29183175fde7ab7cc4b0e89389c4",
       "reason": "Collision éditoriale vérifiée sur main le 6 novembre 2026 : deux monographies intégrales consacrées à Chionidès, Persai ē Assyrioi (Πέρσαι ἢ Ἀσσύριοι), titre seul transmis par Souda χ 318, sans fragment connu. Demande antérieure ab9df367-bf52-4e15-a7c8-51968486d730, créée le 6 novembre à 11:28:21 UTC (commit 1c1c4eabbb896a39b23a4b74f32588f2c787c892), à examiner comme texte canonique ; cette seconde demande 38a25f46-3b75-4c6d-9fb0-5aec1d9c7e62 créée à 11:29:55 UTC (c4de00036c56defbab6579257bc82ca39d8ab837), corrigée à 11:30:32 UTC (acecaaa3d6d710256dee79b501e1de86491c0e44), reste intégralement et immuablement préservée dans inbox. Ne pas attribuer deux numéros à la même pièce ; comparer bibliographies, philologie et analyses originales avant éventuel complément critique distinct, sans suppression ni nouvel UUID. Les études Chionidès Hērōes et Ptōchoi demeurent distinctes."
+    },
+    "9ba73d62-cc3a-4db9-8d67-10f2afc7e581": {
+      "request_sha256": "c769caacbf80f156667fedcc4fd464d53d6015a99c2b22a71c9e5bcf383c3f2a",
+      "reason": "Collision éditoriale contrôlée le 6 novembre 2026 : deux manuscrits intégraux distincts d'Achéos d'Érétrie portent sur la même pièce perdue, Kyknos (Κύκνος). La soumission antérieure 276c0f58-3e65-46b3-b275-f9319343b82d (commit beaf17e0340e2c7a0e6551bb03e76661e7c6e5b4, 11:27:47 UTC) précède la soumission 9ba73d62-cc3a-4db9-8d67-10f2afc7e581 (commit 62910613b16483ccaa4d747cb5ae5ca398aad99e, 11:28:39 UTC). Conserver intégralement le présent manuscrit et ses fragments, sans numéro canonique indépendant avant rapprochement critique avec le premier. Laisser la première demande suivre la file transactionnelle si elle n'est pas déjà attribuée ; ne supprimer, modifier, ni réémettre aucune étude. Le présent complément pourra être lié à l'attribution canonique après comparaison philologique."
     }
   }
 }
