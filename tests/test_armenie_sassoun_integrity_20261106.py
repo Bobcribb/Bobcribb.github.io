@@ -22,13 +22,21 @@ class ArmenianHistoricalVolumeTests(unittest.TestCase):
     def setUpClass(cls):
         cls.full = PAGE.read_text(encoding="utf-8")
         begin = '<div class="mythos-original-study" id="texte-integral-armenie-sassoun">\n'
-        end = '\n</div>\n<section class="mythos-world-study-crosslinks"'
-        if begin not in cls.full or end not in cls.full:
+        end = re.search(
+            r'\n</div>\n<section\b[^>]*class="mythos-world-study-crosslinks"',
+            cls.full,
+        )
+        if begin not in cls.full or end is None:
             raise AssertionError("Borniers éditoriaux du manuscrit manquants")
-        cls.marked = cls.full.split(begin, 1)[1].split(end, 1)[0]
+        cls.marked = cls.full.split(begin, 1)[1].split(end.group(0), 1)[0]
+        # Les ancres et identifiants de lecture ne font pas partie du manuscrit.
         cls.original = re.sub(
-            r'<span id="armenian-lecture-[0-9]+" class="mythos-text-anchor" aria-hidden="true"></span>',
+            r'<span[^>]*class="mythos-text-anchor"[^>]*></span>',
             "", cls.marked,
+        )
+        cls.original = re.sub(
+            r' data-reading-section="true" id="lecture-section-[0-9]+"',
+            "", cls.original,
         )
 
     def test_source_entire_and_documented(self):
