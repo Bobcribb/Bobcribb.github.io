@@ -33,14 +33,14 @@ class NumberingTests(unittest.TestCase):
     def test_chapter_titles_do_not_repeat_their_canonical_number(self):
         # The title belongs to the manuscript, but the index is numbered once.
         self.source('encyclopedie/chapitre-433-athena-lindia.md',
-                    '# Chapitre 433 — Athéna Lindia : la Chronique de Lindos\\n## Résumé')
+                    '# Chapitre 433 — Athéna Lindia : la Chronique de Lindos\n## Résumé')
         self.source('encyclopedie/chapitre-438-athena-lindia.md',
-                    '# MYTHOS — Encyclopédie de la mythologie grecque — Chapitre 438\\n'
+                    '# MYTHOS — Encyclopédie de la mythologie grecque — Chapitre 438\n'
                     '## Athéna Lindia et la Chronique de Lindos')
         self.source('origines-du-sacre/500-objets-sacres.md',
                     '# Chapitre 500 : Objets sacrés et offrandes')
         self.source('encyclopedie/chapitre-359-chiron.md',
-                    '# Chapitre 359\\n## Chiron et l’éducation des héros')
+                    '# Chapitre 359\n## Chiron et l’éducation des héros')
         records = scan(self.root)
         titles = {e['number']: e['title'] for e in records['encyclopedie']}
         self.assertEqual(titles[433],
