@@ -14,6 +14,20 @@ Au contrôle éditorial précis, la file présentait **503 JSON** sous `editoria
 
 Les autres manuscrits intégrals accessibles ont déjà une attribution ou une retenue ; les anciens brouillons Drive privés ne sont pas autorisés à un transfert automatique. **Aucune première publication universitaire ne peut être attribuée à cette séance avant reçu GitHub Actions et déploiement.** La demande MC-096 est déjà enregistrée dans la file : les commits de refonte déclenchent le pipeline existant, sans duplication, mais ne constituent pas une preuve de publication.
 
+## A bis. Cinq textes intégrals désormais attribués et accessibles en HTTPS
+
+La relecture des reçus `editorial/numbering.json` et l'ouverture directe des cinq lecteurs ont permis de **confirmer leur publication effective**, alors qu'ils figuraient encore parmi les demandes à traiter dans l'état de suivi précédent :
+
+| Série et cote confirmée | Sujet intégral | Texte public contrôlé |
+| --- | --- | --- |
+| Origines du sacré, chap. **718** | Nabta Playa : sépultures bovines et paysage rituel du Sahara | [Lecteur 718](https://bobmythos.fr/chapitres/origines-du-sacre/718-nabta-playa-cercles-pierres-bovins-calendrier-pastoralisme-sahara-neolithique/), environ 36 200 caractères extraits, bibliographie présente |
+| Origines du sacré, chap. **719** | Gebel Ramlah : nécropoles, nourrissons, ocre et feu | [Lecteur 719](https://bobmythos.fr/chapitres/origines-du-sacre/719-gebel-ramlah-necropoles-nourrissons-ocre-feu-pastoralisme-neolithique-sahara/), environ 41 200 caractères, bibliographie présente |
+| Tragédies, vol. **CCLXII (262)** | Achéos d’Érétrie, *Aithon* satyrique | [Lecteur 262](https://bobmythos.fr/chapitres/tragedies/volume-cclxii-acheos-eretrie-aithon-satyrique-faim-vin-odyssee-erysichthon/), environ 59 200 caractères, bibliographie présente |
+| Comparatif, vol. **CCLXXXVIII (288)** | *Lysistrata* : les deux chœurs, eau, feu, antagonisme et réconciliation | [Lecteur 288](https://bobmythos.fr/chapitres/comparatif/volume-cclxxxviii-lysistrata-deux-choeurs-eau-feu-antagonisme-reconciliation-411/), environ 95 300 caractères, bibliographie présente |
+| Comparatif, vol. **CCXC (290)** | MC-094 : les clefs du sacré, Inanna, Hécate, Janus | [Lecteur 290](https://bobmythos.fr/chapitres/comparatif/volume-ccxc-mc-094-clefs-du-sacre-inanna-hecate-lagina-janus-isaie-apocalypse/), environ 47 500 caractères, bibliographie présente |
+
+Ces cinq premières publications ont été **réalisées par le système éditorial GitHub Actions**, pas par les commits graphiques de cette séance. Elles sont désormais confirmées dans le registre et sur le site public ; les longueurs ci-dessus sont les textes extraits du lecteur HTTPS, pas les octets des sources Markdown. Les numéros ont été attribués automatiquement et leurs études intégrales ne sont pas redéposées.
+
 ## B. Anomalie de présentation démontrée
 
 Le panneau public `/#home-etudes-recentes` affichait cinq photographies de collection génériques, notamment une chambre funéraire d'Ounas devant la dernière étude du Sahara (Tadrart Acacus) et une tablette de l'`Enūma eliš` devant un volume comparatif sur les *Oiseaux* d'Aristophane. Les légendes préviennent qu'il s'agit de repères généraux, mais l'effet visuel entretient une association indue entre photographie et sujet de l'étude.
