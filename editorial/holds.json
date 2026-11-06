@@ -96,6 +96,10 @@
     "4c4e3d9a-7f51-4d43-9d08-73b15fa2c260": {
       "request_sha256": "9b54b8cde8cf3912332aee466a23e041004053b160f075b59e693f4b2eefad52",
       "reason": "Recouvrement éditorial constaté le 6 novembre 2026 : la monographie Tassili n’Ajjer, Têtes rondes et limites de l’interprétation du sacré (UUID 4c4e3d9a-7f51-4d43-9d08-73b15fa2c260, 41 016 caractères Markdown, commit aa33398 à 07:32:04 UTC) traite déjà le sujet déposé antérieurement sous UUID 8d1bc7e2-6ecf-44aa-9408-7d2ad8f321ca (33 697 caractères, commit 1c4f933, 07:30 UTC). Préserver ce second manuscrit intégral, sans lui attribuer de numéro autonome avant rapprochement philologique, comparaison des références et archivage sous forme de complément critique. Ne supprimer ni réécrire les demandes et ne modifier aucun reçu attribué."
+    },
+    "6b58e7d9-d030-4704-8c8d-5aa9f816bfd5": {
+      "request_sha256": "8181ec0d2d1012bb62b9c3d882858e984bd5003a9997d19a438c50be0d690535",
+      "reason": "Recouvrement éditorial constaté le 6 novembre 2026 : la monographie Gobero, Niger — morts au bord du lac, gestes de deuil et mémoire des communautés sahariennes (UUID 6b58e7d9-d030-4704-8c8d-5aa9f816bfd5, 47 569 caractères Markdown, commit 60e3fd7 à 07:38:10 UTC) traite déjà le sujet déposé auparavant sous UUID d93f842b-c795-4bb9-9837-086d2b71f5a2 (40 648 caractères, commit fee26bb à 07:36:09 UTC). Préserver les deux manuscrits intégraux et ne pas attribuer à cette nouvelle variante un second numéro autonome avant rapprochement scientifique, comparaison des références et conservation comme complément critique. Ne supprimer ni réécrire les demandes, ne modifier aucun reçu attribué."
     }
   }
 }
