@@ -327,6 +327,14 @@ RECENT_FIGURES = (
     ("livre-hesiode/index.html", "icono-hesiode-athena-metis-met-254648-s54-20261105",
      "/assets/illustrations-articles/met-254648-athena-chouette-bronze.webp"),
 
+    # Séance 70 : contrôles individuels des deux diagrammes IA 2D et des trois
+    # documents patrimoniaux, avec notice publique et octets strictement identiques.
+    ("philosophie-iliade.html", "icono-iliade-chryses-crise-s70-20261106", "/assets/philosophie/iliade-chryses-crise-20261106-s70.svg"),
+    ("philosophie-odyssee.html", "icono-odyssee-ithaque-paix-s70-20261106", "/assets/philosophie/odyssee-ithaque-paix-20261106-s70.svg"),
+    ("philosophie-theogonie.html", "icono-theogonie-athena-bronze-met-s70-20261106", "/assets/illustrations-articles/met-254648-athena-chouette-bronze.webp"),
+    ("dieu-hestia/index.html", "icono-hestia-laraire-vettii-comparaison-s70-20261106", "/media/2026/10/mythos-lararium-maison-vettii-pompei-lorente-waterborough.jpg"),
+    ("theatre-grec.html", "icono-theatre-masques-met-2001-767-s70-20261106", "/media/2026/10/mythos-masques-theatre-rondelles-hellenistiques-met-2001-767.jpg"),
+
 
 )
 
