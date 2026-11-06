@@ -26,14 +26,23 @@ class TestKalevalaArchiveIntegrity(unittest.TestCase):
     def setUpClass(cls):
         cls.page = PAGE.read_text(encoding="utf-8")
         start = '<div class="mythos-original-study" id="texte-integral-kalevala">\n'
-        end = '\n</div>\n<section class="mythos-world-study-crosslinks"'
-        cls.assert_source_layout = start in cls.page and end in cls.page
-        if cls.assert_source_layout:
-            cls.marked = cls.page.split(start, 1)[1].split(end, 1)[0]
-            cls.unmarked = re.sub(
-                r'<span id="lecture-[0-9]+" class="mythos-text-anchor" aria-hidden="true"></span>',
-                "", cls.marked,
-            )
+        end = re.search(
+            r'\n</div>\n<section\b[^>]*class="mythos-world-study-crosslinks"',
+            cls.page,
+        )
+        cls.assert_source_layout = start in cls.page and end is not None
+        if not cls.assert_source_layout:
+            raise AssertionError("Borniers éditoriaux du Kalevala manquants")
+        cls.marked = cls.page.split(start, 1)[1].split(end.group(0), 1)[0]
+        # Retirer uniquement les ancres et attributs ajoutés par le lecteur.
+        cls.unmarked = re.sub(
+            r'<span[^>]*class="mythos-text-anchor"[^>]*></span>',
+            "", cls.marked,
+        )
+        cls.unmarked = re.sub(
+            r' data-reading-section="true" id="lecture-section-[0-9]+"',
+            "", cls.unmarked,
+        )
 
     def test_entire_source_preserved(self):
         self.assertTrue(self.assert_source_layout)
