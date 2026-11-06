@@ -28,6 +28,19 @@ class KoushIntegralTests(unittest.TestCase):
         self.assertEqual(len(self.doc.select(".mythos-original-study h2")), 20)
         self.assertEqual(len(self.doc.select(".mythos-original-study h2, .mythos-original-study h3")), 63)
 
+    def test_authored_prose_unchanged_by_later_editorial_figure(self):
+        # La légende éditoriale ne fait pas partie de la prose WordPress.
+        self.assertIn('data-media-id="mythos-met-544874-amon-statuette-or"', self.raw)
+        fragment = '<p>Prose historique intacte sur Amon et Apédémak.</p>'
+        illustration = (
+            '<figure class="mythos-editorial-inline" data-editorial-inline="subject-v3" '
+            'data-media-id="mythos-met-test"><img src="/assets/test.webp" alt="Document">'
+            '<figcaption>Notice postérieure et attribution muséale.</figcaption></figure>')
+        self.assertEqual(normalize_prose(fragment + illustration), normalize_prose(fragment))
+        # Une figure sans marquage éditorial ne peut contourner la garde.
+        self.assertIn("Notice non balisée", normalize_prose(
+            fragment + '<figure><figcaption>Notice non balisée</figcaption></figure>'))
+
     def test_toc_and_return_navigation(self):
         toc = self.doc.select('details.mythos-world-study-toc a[href^="#koush-lecture-"]')
         self.assertEqual(len(toc), 20)

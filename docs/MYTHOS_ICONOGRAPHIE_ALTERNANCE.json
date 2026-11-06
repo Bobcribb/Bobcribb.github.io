@@ -27,7 +27,14 @@
     "precommit": "Vérification des 5 ID uniques et sources locales via HTML GitHub, état main et journal; contrôle statique des changements de code et assertions.",
     "limitations": "Ni test Python complet local, ni rendu mobile visuel ou pagination PDF A4 ; URL HTTPS bobmythos.fr inaccessible depuis le contrôleur web ; déploiement public non confirmé.",
     "public_deployment_status": "Non confirmé ; les contrôles du script ne remplacent pas la publication Pages.",
-    "next_session": "Séance 72 — ENRICHISSEMENT ICONOGRAPHIQUE"
+    "next_session": "Séance 72 — ENRICHISSEMENT ICONOGRAPHIQUE",
+    "additional_ci_blocker": {
+      "workflow_run": 42206997255,
+      "observed": "396 tests, 1 erreur : prose Koush attendue 36 371 caractères contre 36 681. La différence correspond exclusivement à la légende de la nouvelle figure documentée insérée dans le corps HTML original.",
+      "preservation_verified": "La prose normalisée du commit initial 7e92c2e est strictement identique à la prose actuelle après exclusion logique de cette seule figure éditoriale (36 371 caractères).",
+      "correction": "Exclusion du calcul d'empreinte des figures class=mythos-editorial-inline et data-editorial-inline=subject-v3 ; image, légende, code HTML et prose scientifique restent conservés. Nouveau test de régression.",
+      "publication": "Les tests GitHub Actions et le déploiement public doivent encore être revérifiés."
+    }
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
   "history": [
@@ -4386,7 +4393,14 @@
       "precommit": "Vérification des 5 ID uniques et sources locales via HTML GitHub, état main et journal; contrôle statique des changements de code et assertions.",
       "limitations": "Ni test Python complet local, ni rendu mobile visuel ou pagination PDF A4 ; URL HTTPS bobmythos.fr inaccessible depuis le contrôleur web ; déploiement public non confirmé.",
       "public_deployment_status": "Non confirmé ; les contrôles du script ne remplacent pas la publication Pages.",
-      "next_session": "Séance 72 — ENRICHISSEMENT ICONOGRAPHIQUE"
+      "next_session": "Séance 72 — ENRICHISSEMENT ICONOGRAPHIQUE",
+      "additional_ci_blocker": {
+        "workflow_run": 42206997255,
+        "observed": "396 tests, 1 erreur : prose Koush attendue 36 371 caractères contre 36 681. La différence correspond exclusivement à la légende de la nouvelle figure documentée insérée dans le corps HTML original.",
+        "preservation_verified": "La prose normalisée du commit initial 7e92c2e est strictement identique à la prose actuelle après exclusion logique de cette seule figure éditoriale (36 371 caractères).",
+        "correction": "Exclusion du calcul d'empreinte des figures class=mythos-editorial-inline et data-editorial-inline=subject-v3 ; image, légende, code HTML et prose scientifique restent conservés. Nouveau test de régression.",
+        "publication": "Les tests GitHub Actions et le déploiement public doivent encore être revérifiés."
+      }
     }
   ]
 }
