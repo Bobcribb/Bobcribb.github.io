@@ -1903,3 +1903,19 @@ body.mythos-design .mythos-world-study-crosslinks a{display:inline-block;margin:
  body.mythos-design .mythos-original-study h2{font-size:clamp(1.45rem,6vw,2rem)}
  body.mythos-design .mythos-original-study h3{font-size:clamp(1.25rem,5vw,1.7rem)}
 }
+
+/* MYTHOS — volume historique XIII : iconographie de réception, noir/or, mobile. */
+body.mythos-design .mythos-historical-world-study .mythos-sassoun-figure{width:min(100%,830px);margin:1.8rem auto 2rem;border:1px solid #947951;border-radius:8px;background:#121c1d;overflow:hidden}
+body.mythos-design .mythos-historical-world-study .mythos-sassoun-figure img{display:block;width:100%;height:auto;max-height:480px;object-fit:cover;object-position:center}
+body.mythos-design .mythos-historical-world-study .mythos-sassoun-figure figcaption{padding:.8rem 1.1rem;color:#e4d4b8;font:400 .94rem/1.65 Georgia,serif}
+body.mythos-design .mythos-historical-world-study .mythos-sassoun-figure figcaption a{color:#f0d19f}
+body.mythos-design .mythos-world-study-toc a{display:block;padding:.3rem 0;min-height:42px}
+body.mythos-design .mythos-world-study-toc a:focus-visible{outline:2px solid #e8c78e;outline-offset:3px}
+body.mythos-design .mythos-historical-world-study .mythos-text-anchor:target+h2,
+body.mythos-design .mythos-historical-world-study .mythos-text-anchor:target+h3{background:linear-gradient(90deg,#51412660,#131c1c00);border-left:3px solid #d9ba87;padding-left:.65rem}
+body.mythos-design .portal-card .mythos-photographic-credit{font-size:.78rem;color:#d7c8b0}
+@media(max-width:720px){
+ body.mythos-design .mythos-historical-world-study .mythos-sassoun-figure{margin:1rem 0 1.4rem;border-radius:4px}
+ body.mythos-design .mythos-historical-world-study .mythos-sassoun-figure img{max-height:340px}
+ body.mythos-design .mythos-historical-world-study .mythos-sassoun-figure figcaption{padding:.75rem;font-size:.85rem}
+}
