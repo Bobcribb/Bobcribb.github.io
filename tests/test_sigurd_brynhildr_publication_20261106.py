@@ -11,6 +11,7 @@ BASE = Path("bibliotheque-mythologies-du-monde/heros-mythologies-monde-cycles-ep
 SIGURD = BASE / "cycle-sigurd-brynhildr-fafnir-nibelungen" / "index.html"
 BRYNHILDR = BASE / "cycle-sigurd-brynhildr-fafnir-nibelungen" / "brynhildr-gudrun" / "index.html"
 NIBELUNGEN = BASE / "cycle-sigurd-brynhildr-fafnir-nibelungen" / "nibelungenlied-kriemhild-hagen" / "index.html"
+ATLI = BASE / "cycle-sigurd-brynhildr-fafnir-nibelungen" / "atli-gunnar-hogni-atlakvida-atlamal" / "index.html"
 PORTAL = BASE / "index.html"
 
 
@@ -27,7 +28,7 @@ class SigurdBrynhildrPublicationTests(unittest.TestCase):
         self.assertIn("Hylestad", html)
 
     def test_anchors_are_unique_and_toc_links_resolve(self):
-        for path in (SIGURD, BRYNHILDR, NIBELUNGEN):
+        for path in (SIGURD, BRYNHILDR, NIBELUNGEN, ATLI):
             soup = BeautifulSoup((ROOT / path).read_text(encoding="utf-8"), "html.parser")
             ids = [tag["id"] for tag in soup.select("[id]")]
             self.assertEqual(len(ids), len(set(ids)), str(path))
@@ -45,10 +46,10 @@ class SigurdBrynhildrPublicationTests(unittest.TestCase):
         self.assertIn("/nibelungenlied-kriemhild-hagen/", follow)
         self.assertGreater(len(follow), 15000)
 
-    def test_portal_references_three_studies_without_draft_label(self):
+    def test_portal_references_four_studies_without_draft_label(self):
         soup = BeautifulSoup((ROOT / PORTAL).read_text(encoding="utf-8"), "html.parser")
         items = [a for a in soup.select("a[href]") if "cycle-sigurd-brynhildr-fafnir-nibelungen/" in a.get("href", "")]
-        self.assertEqual(len(items), 3)
+        self.assertEqual(len(items), 4)
         for a in items:
             self.assertNotIn("brouillon", a.parent.get_text(" ", strip=True).lower())
         self.assertIn("monographie universitaire approfondie", items[0].parent.get_text(" ", strip=True).lower())
