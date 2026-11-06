@@ -1,0 +1,398 @@
+# MYTHOS — Mythologie comparée — Volume CCXCIV (294)
+
+## MC-096 — Les ombres du divin : double, protection, substitution et connaissance, de l’Égypte à l’Inde
+
+*Monographie universitaire. Histoire des religions, lexicographie, philologie et anthropologie des images. Corpus : Égypte pharaonique, Mésopotamie, Bible hébraïque, monde grec et traditions sanskrites. Notice documentaire établie le 6 novembre 2026.*
+
+### Résumé scientifique
+
+Qu’est-ce qu’une ombre lorsque les dieux interviennent dans les affaires humaines ? Un abri contre le soleil, la manifestation d’une puissance protectrice, une dimension de la personne défunte, une image trompeuse, ou un substitut capable de remplacer un être vivant ? Les textes anciens ne proposent ni réponse unique ni chaîne d’emprunts universelle. Dans les compositions funéraires égyptiennes, l’ombre du mort figure parmi les éléments dont il faut assurer la sortie et la liberté d’action. En akkadien, le terme *ṣillu* désigne l’ombre et peut exprimer la protection, sans qu’il faille le confondre avec l’*eṭemmu* du défunt. Dans plusieurs passages de la Bible hébraïque, la « shade » de Dieu (*ṣēl*) signifie la proximité protectrice. En grec, *skiá* appartient notamment au vocabulaire des apparences et des morts, puis l’allégorie platonicienne de la caverne déplace le problème vers les conditions de la connaissance. Dans un récit sanskrit du *Mārkaṇḍeya Purāṇa*, une forme d’ombre (*chāyā*) devient même le substitut personnel de Saṃjñā auprès du Soleil.
+
+Ces usages ne forment pas les étapes successives d’une « religion universelle de l’ombre ». Ils constituent une constellation d’opérations distinctes : accompagner le corps, défendre une personne, légitimer un pouvoir, produire un double et penser l’écart entre image et réalité. Le présent dossier construit une comparaison **fonctionnelle**, **philologiquement contrôlée** et **attentive à la chronologie**. Il distingue l’attestation de l’hypothèse, et la comparaison historique de la philosophie.
+
+**Thèse générale [I].** L’ombre est un opérateur relationnel : elle suppose une source lumineuse, un corps ou un abri, un observateur et des conditions de visibilité ; sa puissance religieuse vient précisément du fait qu’elle manifeste une présence sans être identique à l’objet qui la produit.
+
+**Limite [N].** Les langues et les genres littéraires divergent. L’ombre-funéraire égyptienne, la protection royale akkadienne, la protection psalmique, l’illusion platonicienne et la déesse substitutive indienne ne décrivent ni la même institution ni le même statut ontologique.
+
+### Table analytique
+
+I. Critique des sources et lexique ; II. L’Égypte : ombre et survie ; III. La Mésopotamie : ombre, pouvoir et protection ; IV. Israël ancien : abriter et protéger ; V. Grèce : revenants, images et épistémologie ; VI. Inde : l’ombre comme personne substituée ; VII. Confrontations interculturelles et philosophie ; VIII. Historiographie, bibliographie, iconographie et protocole éditorial.
+
+### Convention de preuve
+
+**[A] Attestation primaire** : référence textuelle localisable, lexème attesté, objet inventorié ou datation documentée.  
+**[I] Inférence historique** : conclusion contextuelle argumentée, distincte du fait matériel.  
+**[H] Hypothèse** : proposition plausible mais non démontrée, notamment sur les transferts et les identifications.  
+**[P] Lecture philosophique** : interprétation conceptuelle moderne, et non croyance attribuée sans preuve aux anciens.  
+**[N] Contre-épreuve** : comparaison refusée, anachronisme ou erreur de traduction signalée.  
+**[É] Histoire du texte** : état des copies, classement éditorial, différences de version et limites de citation.
+
+---
+
+## I. Ombre : définir sans uniformiser
+
+### 1. L’ombre physique ne suffit pas [A/I]
+
+La distinction élémentaire entre l’ombre portée d’un corps et la zone fraîche créée par un couvert végétal ou architectural est essentielle. Dans les deux cas, le français parle d’« ombre » ; il vise pourtant deux propriétés : la silhouette qui indique un objet absent de l’image, et le refuge contre une lumière dangereuse. Les expressions religieuses se nourrissent de cette polysémie, sans la dissoudre. Un texte qui promet l’ombre d’une divinité n’affirme pas nécessairement qu’un dieu projette une silhouette visible sur le sol. Un papyrus qui veut libérer l’ombre d’un mort ne décrit pas simplement l’absence physique de rayonnement dans une tombe.
+
+À l’inverse, l’historien commettrait une erreur en posant d’emblée une « substance-ombre » pour rendre compte de chaque emploi. La preuve doit être fournie par le contexte. La métaphore de la protection peut être parfaitement intelligible dans un climat où l’exposition au soleil menace le corps ; elle ne requiert pas une doctrine spéculative de l’âme.
+
+### 2. Pourquoi le mot français « double » est dangereux [I/N]
+
+« Double » suggère un second individu reproductible, presque une copie identique. Ce modèle ne correspond ni automatiquement à l’égyptien *šwt*, ni à l’akkadien *ṣillu*, ni à l’hébreu *ṣēl*. Une représentation funéraire ou un mythe de substitution peut autoriser la comparaison, mais seulement si le texte attribue à l’ombre des fonctions propres. Il importe donc de ne pas commencer par une traduction qui contiendrait déjà la conclusion. Le *Mārkaṇḍeya Purāṇa* propose une véritable intrigue de substitution ; le psaume biblique ne propose pas la même opération. L’analogie visuelle demeure insuffisante pour postuler une équivalence ontologique.
+
+### 3. Corpus, siècles et asymétrie documentaire [É]
+
+Les textes mis en regard sont séparés par des milieux et des périodes considérables : le développement du *Livre des morts* égyptien dans le Nouvel Empire et au-delà ; les dossiers royaux et lexicaux akkadiens transmis sur de longues durées ; les traditions poétiques de la Bible hébraïque dont la formation ne se réduit pas à une date unique ; l’épopée grecque archaïque et la philosophie classique ; enfin un Purāṇa sanskrit composé et remanié à une époque plus tardive. Une ressemblance entre deux mots anciens n’autorise ni la datation d’un emprunt ni l’existence d’un contact direct entre rédacteurs.
+
+La documentation égyptienne conservée est souvent funéraire et élitaire ; la littérature royale mésopotamienne privilégie les pouvoirs ; les poèmes bibliques sont édités par transmission manuscrite ; le Purāṇa propose un récit théologique. La première opération comparative consiste donc à **mettre les genres en regard**, non à faire disparaître leurs différences.
+
+### 4. La carte lexicale minimale [A]
+
+Égyptien : *šwt* (translittération savante simplifiée ; graphies et emplois variables), « ombre ».  
+Akkadien : *ṣillu*, « ombre, zone ombragée ; protection » ; son logogramme peut être écrit GIŠ.MI selon les attestations et conventions.  
+Hébreu biblique : צֵל, *ṣēl*, « ombre, ombrage », avec emplois figurés de protection.  
+Grec ancien : σκιά, *skiá*, « ombre » ; εἴδωλον, *eídōlon*, « image, simulacre, apparition », qui n’est **pas** un synonyme strict de *skiá*.  
+Sanskrit : छाया, *chāyā*, « ombre, reflet, apparence » ; dans le récit purāṇique, elle est aussi le nom ou la désignation d’une forme personnelle substitutive.
+
+La ressemblance historique de l’akkadien *ṣillu* et de l’hébreu *ṣēl* intéresse la linguistique sémitique comparée. Elle ne suffit pas à déclarer que deux passages religieux dérivent d’une « religion des ombres » commune : le lexique hérité et l’histoire d’un motif sont deux objets différents.
+
+### 5. Le comparatisme sans anachronisme [I]
+
+Le mot « phénomène » sera réservé à la manifestation, « image » à la représentation, « signe » à ce qui rend autre chose inférable. Quand l’analyse emploiera les termes « ontologie », « substitut », « pouvoir » ou « épistémologie », elle en signalera le statut moderne. Les sources primaires ne sont pas des anticipations naïves de Platon, d’Hegel ou de la sémiotique contemporaine. Leur intérêt tient à leurs opérations propres. Pour éviter une lecture téléologique, nous ne considérons pas les ombres égyptiennes comme une étape inférieure qui conduirait nécessairement à la sortie de la caverne platonicienne.
+
+---
+
+## II. L’Égypte : ombre du mort, liberté de circulation et support du corps
+
+### 6. Le vocabulaire de la personne [A/I]
+
+Les dossiers funéraires égyptiens emploient plusieurs notions qu’une traduction par « âme » homogénéiserait abusivement : *kꜣ*, *bꜣ*, *ꜣḫ*, *rn* (nom), *jb* (cœur), corps et *šwt* (ombre). Leur présence dans un même inventaire moderne ne prouve pas que tous les Égyptiens énuméraient systématiquement « sept parties de l’âme ». L’analyse doit plutôt suivre chaque composition. Les fonctions du *bꜣ* (mobilité), du *kꜣ* (relation aux offrandes) ou de l’ombre ne se réduisent pas à la même essence. Cette précaution a déjà été établie dans MYTHOS, dossier historique MC-029 « Une âme ou plusieurs ? » : le présent travail reprend l’ombre **non comme simple composante du mort**, mais comme catégorie comparative croisant protection, absence et représentation.
+
+### 7. *Livre des morts* 92 : titre et objet de la formule [A]
+
+La formule 92, dans la numérotation moderne du *Livre des morts*, vise l’ouverture de la tombe pour le *bꜣ* et l’ombre, la sortie au jour et la capacité de faire usage des jambes. Cette identification n’est pas une paraphrase libre : le répertoire du Digital Egypt de l’University College London présente explicitement le chapitre 92 comme « formula for opening the tomb for the ba and shade, for going out by day, and having power over legs » (notice par numéro). La formule conjugue donc l’ouverture architecturale, la circulation des modalités du défunt et une faculté corporelle. **Ce qui est attesté est une formule rituelle**, non une observation empirique de déplacement posthume.
+
+Source de contrôle : University College London, *Book of the Dead, chapters in modern numerical order*, https://www.ucl.ac.uk/museums-static/digitalegypt/literature/religious/bdbynumber.html .
+
+### 8. Le titre des « chapitres pour sortir au jour » [É]
+
+L’expression moderne « Livre des morts » fait parfois croire à un traité théologique homogène, organisé depuis l’origine en chapitres successifs. Les Égyptiens connaissaient notamment le programme des « formules pour sortir au jour » (*prt m hrw*). Leur collection et leur séquence diffèrent d’un manuscrit à l’autre. La numérotation scientifique actuelle résulte de l’histoire éditoriale moderne, notamment de Lepsius, puis de travaux postérieurs. Il faut par conséquent citer « chapitre 92 » comme une **référence d’édition comparative**, non comme le titre d’un chapitre 92 fixé identiquement dans tous les papyrus du Nouvel Empire. Cette réserve change le statut de la preuve : elle nous renseigne sur une composition reconnaissable, et non sur un catéchisme écrit en une fois.
+
+### 9. L’ombre n’est pas le *bꜣ* [A/I]
+
+Le fait qu’une formule puisse nommer *bꜣ* et ombre dans une même fonction rituelle ne signifie pas que deux mots soient interchangeables. Une coordination est même un indice utile de distinction : ce qui peut être demandé pour l’un et pour l’autre n’est pas nécessairement une seule réalité. La sortie du défunt n’est pas un geste mécanique : le texte poursuit l’intégrité de l’identité posthume. Les formes figurées, lorsqu’elles existent, appartiennent à un dispositif d’écriture et d’image. Il serait imprudent de déclarer que l’ombre représente toujours « la partie sombre » d’un sujet opposée à un *bꜣ* lumineux ; cette opposition psychologisante relève d’une lecture contemporaine qui exige des preuves supplémentaires.
+
+### 10. Chapitres 89, 91 et 92 : une séquence fonctionnelle [A]
+
+Le chapitre 89 cherche à rejoindre le *bꜣ* au corps ; le chapitre 91 vise à empêcher qu’il soit retenu dans l’au-delà ; le chapitre 92 demande l’ouverture de la tombe pour le *bꜣ* et l’ombre. Ce voisinage dans le catalogue moderne permet d’identifier une constellation de problèmes : réunion, non-captivité, ouverture, mobilité. Mais les manuscrits ne contiennent pas tous ces textes dans le même ordre, ni même dans la même sélection. L’historien doit éviter de produire un « système » à partir de trois rubriques éditoriales sans comparer les témoins concrets. Les lexiques et les titres guident l’enquête ; ils ne remplacent pas une collation de manuscrits.
+
+### 11. Un témoin matériel inventorié : Louvre N 3253 / N 3195 B [A]
+
+Le Musée du Louvre conserve un ensemble de fragments de papyrus funéraire attribués stylistiquement à la XXXe dynastie (environ 380–342 avant notre ère), au nom de Nakhtnebef, avec mention de Qeredjet. La notice enregistre parmi les textes présents les chapitres **92 et 93**, puis d’autres formules. C’est un cas où l’on peut distinguer sans ambiguïté l’objet conservé, sa datation proposée et l’identification philologique de sa composition. Il serait erroné de légender ce fragment comme « la scène de l’ombre du mort » avant de vérifier quelle vignette précise est conservée et visible.
+
+Notice : Musée du Louvre, *Papyrus funéraire*, inv. N 3253 ; N 3195 B, https://collections.louvre.fr/ark:/53355/cl010003269 .
+
+### 12. Le corps, la lumière et la sortie [I/P]
+
+La formule de sortie associe paradoxalement le mort, la tombe et la lumière. Une ombre physique suppose une source lumineuse ; une ombre funéraire, dans ce type de texte, continue d’être pertinente quand son porteur a cessé de vivre. La différence n’est pas une incohérence à corriger. Le rituel peut déplacer le mot vers une existence relationnelle qui ne relève plus de l’optique ordinaire. La proposition philosophique [P] serait alors : l’ombre n’est pas simplement l’absence de lumière, mais la **persistance d’une relation au visible** malgré la mort. Rien ne permet cependant d’attribuer cette formulation abstraite aux scribes égyptiens.
+
+### 13. Une question de statut social [I]
+
+Les papyrus sur lesquels on lit de telles compositions coûtent du temps et des ressources ; des fonctionnaires, prêtres et membres de familles possédantes constituent une part importante des témoins conservés. Les croyances associées à l’ombre ne peuvent être extrapolées uniformément à l’ensemble de la population. Le défunt disposant d’un manuscrit a pu bénéficier d’une protection textuelle qui n’était pas également accessible. L’accès à la « sortie au jour » est ainsi aussi un problème d’économie de la religion : ateliers, scribes, commandes, matériaux et transmission familiale.
+
+### 14. Le soleil protège-t-il l’ombre ? [H/N]
+
+La forte présence de la cosmologie solaire en Égypte invite à rapprocher l’ombre et la course de Rê. Mais l’ombre du défunt n’est pas, en soi, une « parcelle d’Aton » démontrée par la formule 92. À plus forte raison, une telle hypothèse ne doit pas être projetée rétrospectivement sur tous les siècles. Pour les relations entre Rê, Amon et Aton, la collection MYTHOS dispose déjà du dossier historique MC-024 : **l’étude présente ne le redouble pas**. Les développements atoniens concernent la théologie solaire et la monarchie amarnienne ; ils ne remplacent pas une étude philologique des emplois de *šwt*.
+
+---
+
+## III. Mésopotamie : *ṣillu*, pouvoir protecteur et métaphores politiques
+
+### 15. Contrôle lexicographique de *ṣillu* [A]
+
+Le *Leipzig Akkadian Dictionary* de la Sächsische Akademie der Wissenschaften enregistre *ṣillu* avec les sens « shade, shadow; protection ». Il recense le logogramme GIŠ.MI et renvoie aux grands instruments lexicographiques, dont l’*Akkadisches Handwörterbuch* (AHw) et le *Chicago Assyrian Dictionary* (CAD). Ce dossier fournit une base solide pour une comparaison sémitique et politique : la valeur « protection » ne résulte pas d’une traduction moderne arbitraire. Elle appartient au champ lexical documenté.
+
+Référence lexicale : LAD, entrée *ṣillu*, LAD015949, https://lad.saw-leipzig.de/entry/LAD015949 . Le lexique doit être consulté avec les attestations et variantes : une entrée de dictionnaire ne constitue pas à elle seule une source narrative attestant tel culte particulier.
+
+### 16. « Ombre » et « protection » : la médiation du climat [I]
+
+Dans les zones où le soleil peut être mortel, une ombre portée par une aile, une tente, un arbre ou un parasol est une réalité matérielle de protection. L’extension figurée de *ṣillu* vers « protection » possède donc une motivation intelligible. Elle ne suffit pourtant pas à dater un récit d’origine de la métaphore. À la différence de l’ombre funéraire égyptienne, la protection akkadienne peut être pensée sans la mort et sans une doctrine de l’âme. C’est d’abord l’action de placer quelqu’un dans une zone d’abri ou de patronage. Elle peut devenir la représentation de la sollicitude royale ou divine.
+
+### 17. Sous la protection d’un pouvoir [I/P]
+
+L’idée d’être « à l’ombre » d’une autorité possède une ambiguïté politique. Le souverain protège ses sujets, mais il détermine aussi qui est reconnu comme bénéficiaire de cette protection. Une image qui évoque la couverture royale peut donc tout à la fois promettre sécurité et figurer une dépendance hiérarchique. Cela ne veut pas dire qu’un texte d’éloge royal soit un contrat juridique moderne. Le vocabulaire d’une protection visible doit être rapproché des institutions effectives : tribut, service de cour, fonctions administratives et exposition de la population aux risques.
+
+### 18. L’*eṭemmu* n’est pas un *ṣillu* [A/N]
+
+La langue akkadienne possède notamment *eṭemmu* pour des figures de morts et de revenants, dans les rituels et les textes littéraires. Le français peut appeler ces êtres « ombres » par convention littéraire. **Il ne s’ensuit pas que le texte akkadien utilise *ṣillu*.** C’est une fausse équivalence récurrente dans les traductions générales de mythologie. Le comparatiste doit conserver deux colonnes : lexique effectivement écrit et équivalent littéraire choisi par le traducteur. Cette séparation évite de fabriquer une parenté religieuse par une métaphore française.
+
+### 19. Les images du pouvoir : parasol et dais [A/I]
+
+Le relief d’une servante portant un parasol dans la tombe de la reine Néférou, conservé au Metropolitan Museum, est égyptien, non assyrien. Il montre néanmoins qu’un abri d’ombre peut être un équipement concret d’un environnement de cour. Une représentation mésopotamienne de souverain sous dais pourrait être rapprochée iconographiquement, **à condition d’en vérifier l’inventaire, la scène, la datation et le personnage**. Il serait malhonnête de transformer une simple ressemblance architecturale en preuve d’emprunt ou de nommer « ombre divine » tout parasol figuré. Le geste matériel et le concept théologique exigent des témoins distincts.
+
+### 20. Une précaution sur le logogramme [É]
+
+Le fait qu’un signe sumérographique soit utilisé pour écrire un mot akkadien ne signifie pas que le texte puisse être automatiquement traduit avec toutes les valeurs lexicales de ce signe. Les scribes de Mésopotamie manipulent plusieurs systèmes d’écriture ; une lecture phonétique ou logographique doit être choisie selon contexte et tradition savante. Il faut donc documenter *ṣillu* à partir d’une édition textuelle concrète, non déduire « protection divine » de la seule présence d’un signe signifiant ombre dans un tableau de signes.
+
+### 21. La protection comme relation asymétrique [P]
+
+La métaphore politique de l’ombre permet une question philosophique : le protégé reçoit un espace de sécurité, mais son autonomie s’exerce sous la puissance d’un autre. La relation n’est pas une pure bienveillance impersonnelle. L’abri est distribuable, révocable et, dans les empires, souvent lié à une hiérarchie. Cette interprétation [P] doit être confrontée aux pratiques attestées plutôt que présentée comme la « pensée des Assyriens » indistinctement. La philosophie éclaire un problème ; elle ne devient pas automatiquement une preuve historique.
+
+---
+
+## IV. Israël ancien : l’ombre comme proximité du Dieu gardien
+
+### 22. Psaume 121,5 : le texte hébreu [A]
+
+Le verset 5 du Psaume 121 associe la garde divine à l’ombre : *YHWH šōmərêkā; YHWH ṣilləkā ʿal-yəmînêkā* — « YHWH est ton gardien ; YHWH est ton ombre à ta droite ». La forme *ṣilləkā* est un nom à suffixe de deuxième personne (« ton ombre »), issu de *ṣēl*. Le premier segment est construit autour du verbe *šāmar*, « garder, veiller ». La proximité à « ta droite » constitue une précision corporelle : le refuge n’est pas seulement abstrait. Les versets 6–8 élargissent la protection aux dangers diurnes et nocturnes, à la sortie et à l’entrée.
+
+Texte : Psaume 121,5–8 ; contrôle lexical, https://biblehub.com/lexicon/psalms/121-5.htm . Les versions françaises de ce verset sont des traductions ; l’argument philologique part de l’hébreu.
+
+### 23. Ombre et exposition [A/I]
+
+Le verset 6 promet que le soleil ne frappera pas de jour, ni la lune de nuit. Sa cohérence avec l’expression « ton ombre » ne repose pas sur une spéculation secrète, mais sur la protection contre les dangers attribués aux luminaires. Le poème fait intervenir une présence vigilante qui ne dort pas (versets 3–4). Il ne demande pas au lecteur d’imaginer une silhouette matérielle de Dieu sur le sol. La puissance de la métaphore tient à la proximité immédiate de l’abri, non à un anthropomorphisme pictural imposé.
+
+### 24. Psaume 91,1 et protection sous les ailes [A]
+
+Le début du Psaume 91 juxtapose deux expressions de refuge : demeurer dans l’abri du Très-Haut et séjourner à l’ombre du Tout-Puissant. Au verset 4, le langage des plumes et des ailes déploie une image complémentaire. Une représentation iconographique d’ailes protectrices peut aider à expliquer ce champ métaphorique, mais le texte ne prouve pas qu’une statue déterminée était l’original matériel de la formule. Le Psaume 91, dans sa forme reçue, ne doit pas être automatiquement daté d’après une image muséale qui lui ressemble.
+
+### 25. Nombres 14,9 : l’ombre qui disparaît [A/I]
+
+Dans Nombres 14,9, lors du débat relatif à l’entrée dans la terre, l’affirmation que la protection des adversaires s’en est allée est exprimée au moyen du mot d’ombre. Le contexte est militaire et collectif. L’ombre n’est pas ici un double individuel du mort, mais un avantage protecteur. En le rapprochant du Psaume 121, l’on voit que la métaphore peut désigner une capacité de protection que l’on possède ou que l’on perd. La théologie biblique s’inscrit dans des débats de confiance, d’alliance et de stratégie, non seulement dans une poésie naturelle.
+
+### 26. Isaïe 25,4–5 : l’ombre politique et éthique [A/I]
+
+La protection du faible contre le violent est décrite par des images de refuge contre la tempête et d’ombre contre la chaleur. Le cadre n’est pas celui d’une ombre-revenant ; c’est une poétique de la vulnérabilité. L’expression donne une dimension éthique au langage de l’abri : la puissance légitime se juge par la manière dont elle défend ceux qui ne peuvent se défendre. Un rapprochement avec la « protection sous l’ombre royale » mésopotamienne devient ici intéressant, mais **aucune citation de vocabulaire partagé ne suffit à identifier un modèle unique de souveraineté**.
+
+### 27. Les deux visages de l’ombre biblique [A]
+
+Le lexème *ṣēl* n’est pas toujours favorable : Job 8,9, par exemple, présente les jours de l’humain comme ombre, dans un développement sur la brièveté et l’ignorance. La même famille d’images peut qualifier refuge ou fragilité. La différence ne résulte pas d’un « changement d’époque » simple, mais du genre et de l’argument. La protection du Psaume 121 et la fugacité de Job montrent que la polysémie est structurelle. Toute comparaison qui ignorerait les usages défavorables réduirait artificiellement le dossier aux seuls symboles consolateurs.
+
+### 28. Une affinité linguistique n’est pas une preuve d’emprunt [N]
+
+L’akkadien *ṣillu* et l’hébreu *ṣēl* invitent à considérer un fonds lexical sémitique et des environnements culturels de proximité régionale. Pour démontrer un emprunt d’un psaume à une inscription assyrienne déterminée, il faudrait autre chose : textes précisément datés, expressions singulières, chemins de circulation, et différences suffisamment contrôlées. Ce dossier ne dispose pas d’une telle démonstration. Nous retenons donc une **comparaison lexicale attestée**, et suspendons toute généalogie religieuse directe.
+
+---
+
+## V. Grèce : la présence du mort, l’image et la difficulté de connaître
+
+### 29. *Skiá* et *eídōlon* : deux champs lexicaux [A]
+
+Le grec σκιά (*skiá*) désigne l’ombre ; εἴδωλον (*eídōlon*) une image, un simulacre ou une apparition. Les deux mots peuvent se rencontrer dans des descriptions de la mort, mais ne doivent pas être confondus. Le terme ψυχή (*psychḗ*) acquiert lui-même des valeurs diverses au fil des genres et des siècles. Dans l’épopée archaïque, une « ombre » n’est pas nécessairement la définition philosophique d’une âme immatérielle, pas davantage qu’un *eídōlon* n’est un dispositif optique au sens de la physique moderne. Les traductions françaises qui emploient « fantôme » ou « ombre » peuvent masquer les distinctions du grec.
+
+### 30. *Iliade* XXIII,65–107 : l’apparition de Patrocle [A]
+
+Achille voit l’apparition de Patrocle, laquelle réclame des honneurs funéraires et l’ensevelissement. À l’issue de la scène, elle disparaît et le poète compare son départ à de la fumée ; Achille comprend que subsiste dans l’Hadès quelque chose que le texte associe à la *psychḗ* et à l’*eídōlon*. Les motifs centraux sont le devoir envers le mort et l’impossibilité de le saisir comme un vivant. Il serait excessif de présenter cette scène comme une illustration directe de la « théorie platonicienne des ombres ». L’argument d’Homère est rituel, affectif et narratif ; l’épistémologie de Platon appartient à un autre projet.
+
+### 31. *Odyssée* XI : mémoire et apparences des morts [A/I]
+
+Lors de la visite d’Ulysse aux morts, la rencontre avec sa mère Anticlée (XI, 152–224, en particulier la tentative de l’embrasser) met en tension la reconnaissance visuelle et l’impossibilité du contact physique. Il la voit, la nomme, mais elle échappe à ses bras. Le récit ne fournit pas un manuel d’ontologie ; il dramatise les conditions de relation entre vivant et défunt. La valeur comparative tient à la disjonction entre **apparition reconnaissable** et **corps désormais inaccessible**. Il ne faut pas convertir automatiquement toutes les *psychai* de l’épisode en « ombres » comme si le mot grec était toujours *skiái*.
+
+### 32. *Skiá* et vanité de la gloire [I]
+
+La littérature grecque exploite la fragilité, la fugacité et l’insaisissable. L’ombre n’est pas uniformément une protection : elle peut exprimer la précarité de la vie et l’écart entre ce qui paraît et ce qui demeure. Ces valeurs intéressent le théâtre et la philosophie, mais il serait abusif de traiter toutes les formules de brièveté comme des preuves d’un culte de l’ombre. Le poète peut user d’une image sans produire de doctrine rituelle. C’est justement ce passage de l’usage poétique à une construction conceptuelle qu’il faut suivre.
+
+### 33. La caverne de Platon : *République* VII, 514a–517a [A]
+
+Socrate demande d’imaginer des prisonniers enchaînés qui ne voient que les ombres d’objets transportés derrière eux à la lumière d’un feu. Les captifs prennent les apparences projetées pour la réalité. Une libération les oblige à se retourner, à monter, puis à apprendre à supporter la lumière extérieure. Les ombres ne représentent donc pas un pouvoir funéraire ni un abri climatique. Elles sont les **signes d’un défaut de formation** dans une expérience philosophique sur l’éducation.
+
+Le repère précis est *République* VII, 514a–517a (avec l’explication de l’image en 517a–b). Texte grec et traductions : Perseus, https://atlas.perseus.tufts.edu/library/passage/urn:cts:greekLit:tlg0059.tlg030.perseus-eng2:7.514-7.516/ . Le début de la caverne est lié aux analogies du soleil et de la ligne divisée, *République* VI, 507b–511e.
+
+### 34. L’ombre est-elle fausse ? [P]
+
+Une ombre est bien un effet réel : elle existe comme phénomène. Ce qui est erroné, chez les prisonniers de la caverne, n’est pas qu’ils voient quelque chose qui n’existe pas ; c’est qu’ils **identifient** cet effet à toute la réalité et ignorent les médiations de sa production. La différence est cruciale. Une théorie philosophique exige de distinguer le statut ontologique de l’image et la croyance que l’observateur lui attribue. Le même phénomène peut être un indice fiable d’un objet et un mauvais substitut à la connaissance de cet objet. Cette analyse est une interprétation du dispositif platonicien, et non une affirmation sur les croyances funéraires grecques.
+
+### 35. La conversion du regard [P]
+
+Dans la caverne, progresser signifie changer de position, puis ajuster progressivement le regard : des ombres à ce qui les produit, de l’intérieur à la lumière, et du spectacle au raisonnement. La métaphore ne dit pas que la nuit ou l’ombre sont mauvaises en soi. Elle classe des rapports cognitifs dans une scène construite. Un historien des religions peut la rapprocher du thème de la manifestation divine sans transformer la philosophie de Platon en témoignage de culte grec populaire. Les relations avec l’âme et l’au-delà demandent les passages distincts du *Phédon* et du mythe d’Er (*République* X, 614b–621d).
+
+### 36. En quoi Platon ne « corrige » pas les Égyptiens [N]
+
+Une lecture évolutionniste pourrait proposer : l’Égypte croit naïvement que l’ombre survit ; la Grèce découvrirait qu’elle n’est qu’illusion. Cette opposition ne résiste pas au genre des sources. Le *Livre des morts* formule des demandes rituelles ; la *République* organise une analogie pédagogique. Les deux traditions n’ont ni le même interlocuteur ni la même fonction. Elles peuvent être mises en dialogue par un chercheur contemporain ; elles ne forment pas les deux chapitres d’un traité ancien universel.
+
+---
+
+## VI. Inde : *chāyā*, Saṃjñā et le péril de la substitution
+
+### 37. État des sources indiennes [É]
+
+Le récit de Saṃjñā, épouse du Soleil, et de sa forme substitutive Chāyā appartient à un ensemble de traditions purāṇiques dont les versions et les ordres narratifs divergent. Un témoin précis est le *Mārkaṇḍeya Purāṇa*, chapitre 77, dans une numérotation courante ; certaines reprises du récit apparaissent dans les chapitres 106–108. On peut rapprocher des passages du *Viṣṇu Purāṇa* (III, 2), mais on ne doit pas fusionner leurs différences comme s’il s’agissait de la traduction d’une source unique et stable. La chronologie des Purāṇa et de leurs rédactions reste discutée ; leur matériau ne saurait être assimilé sans preuve à celui des hymnes védiques les plus anciens.
+
+### 38. *Mārkaṇḍeya Purāṇa* 77,11 : la forme d’ombre [A]
+
+Au verset 77,11, Saṃjñā, ne pouvant supporter la puissance du Soleil, produit à partir d’elle-même une forme faite d’ombre. La formulation sanskrite transmise comporte *chāyāmayīm ātmatanuṃ nirmame* : « elle façonna une forme d’elle-même faite d’ombre », traduction explicative de la construction. Le verset est suffisamment précis pour écarter la simple métaphore de l’ombrage protecteur : l’ombre reçoit un rôle narratif de remplacement. Le composé *chāyā-mayī* désigne la constitution « faite d’ombre » ; *ātma-tanu* renvoie à une forme corporelle d’elle-même ; *nirmame* est un verbe de création/façonnement.
+
+Texte et segmentation du verset : https://vedapath.app/en/markandeya-purana/adhyaya-77/11 ; traduction savante historique par F. E. Pargiter, *The Mārkaṇḍeya Purāṇa* (1904), chapitre LXXVII.
+
+### 39. L’épouse absente et la femme d’ombre [A]
+
+La véritable Saṃjñā quitte le foyer ; sa réplique doit vivre auprès du Soleil et entretenir l’illusion de sa présence. Le motif ne décrit pas seulement une « illusion » sans conséquences. La substitutive agit, répond, enfante et forme des préférences affectives. Elle appartient au monde des acteurs mythiques. **C’est une différence majeure** avec l’ombre portée dans la caverne : Platon construit l’image comme objet de perception ; le Purāṇa construit une forme d’ombre comme personnage susceptible de décision.
+
+### 40. Les enfants et la crise de filiation [A/I]
+
+La femme d’ombre a des enfants et entretient avec ceux de Saṃjñā des relations plus complexes ; la partialité qu’on lui reproche contribue à révéler le remplacement. Les enfants ne sont pas de simples éléments décoratifs : ils mettent à l’épreuve la reconnaissance domestique. Le thème de l’identité n’est plus celui d’une silhouette visuelle mais d’une **fonction sociale** : qui peut occuper la place d’une épouse, d’une mère, d’une reine ou d’une génitrice ? La filiation rend politiquement et religieusement lourde la différence entre personne et copie. Ce n’est pas une théorie moderne des « clones » : une telle analogie peut être pédagogique, mais serait anachronique si elle prétendait reconstruire l’intention des rédacteurs.
+
+### 41. Yama et la malédiction de Chāyā [A]
+
+Dans le *Mārkaṇḍeya Purāṇa* 77, versets autour de 27–36 suivant l’édition, Yama met en cause le comportement maternel ; Chāyā prononce une malédiction qui révèle la crise familiale ; le Soleil finit par découvrir la vérité. Les divisions exactes doivent être vérifiées dans la traduction et l’édition sanskrite utilisées, car les éditions électroniques ne présentent pas toujours le même découpage. L’argument sûr est narratif : la réplique est puissante et agissante, mais la situation devient intenable lorsque ses relations affectives ne coïncident plus avec celles de l’original. La fiction de l’identité échoue là où les liens vécus la contredisent.
+
+### 42. La chaleur solaire : contre-épreuve matérielle [I]
+
+Le point de départ est l’intensité insoutenable de l’éclat solaire. Le motif associe l’ombre à un problème d’exposition, comme les textes d’ombre protectrice du Proche-Orient. Mais les structures divergeront ensuite : le psaume promet une protection par Dieu ; le Purāṇa présente une épouse qui cherche à se soustraire au dieu solaire et fait fabriquer un substitut. La ressemblance se situe au niveau des phénomènes de lumière et de chaleur ; elle ne constitue pas une identité de doctrine. Le récit purāṇique peut donc être comparé **sans être ramené** à une simple version indienne du Psaume 121.
+
+### 43. La fabrication d’une personne [P]
+
+Le cas de Chāyā est philosophiquement singulier parce qu’un être né comme représentation assume des rôles ordinairement réservés à une personne. Si l’on suit cette logique narrative, l’identité ne se réduit pas à la ressemblance : elle dépend aussi de la mémoire, des relations, de la capacité à agir et de la place reconnue par autrui. La question moderne est : « Qu’est-ce qui distingue une présence authentique d’une substitution socialement fonctionnelle ? » Il serait excessif d’attribuer au Purāṇa une théorie cartésienne de l’identité personnelle ; mais l’intrigue met véritablement en scène les difficultés pratiques d’une telle distinction.
+
+### 44. Sources tardives, traditions anciennes : aucun raccourci [N]
+
+Un récit présent dans une compilation purāṇique peut conserver des matériaux plus anciens ; cela ne prouve pas que chacune de ses formulations soit contemporaine des hymnes du *Ṛgveda*. Sans attestations intermédiaires, on ne peut ni remonter indéfiniment le mythe de Chāyā, ni lui attribuer une source égyptienne ou akkadienne. La comparaison portant sur les ombres est donc typologique, non diffusionniste. Les hypothèses de contacts éventuels doivent être étayées par des preuves indépendantes.
+
+---
+
+## VII. Les ombres comparées : quatre opérations et leurs contradictions
+
+### 45. Première opération : préserver la mobilité d’une présence [I]
+
+Le chapitre 92 du *Livre des morts* cherche à ouvrir la tombe au *bꜣ* et à l’ombre ; la scène de Patrocle rend reconnaissable un ami mort, mais pas saisissable. Ces deux témoignages peuvent être comparés dans la mesure où une présence demeure pensable lorsque le corps vivant n’est plus disponible. La divergence est considérable : l’un est une formule destinée à être efficace dans l’au-delà, l’autre une scène épique où un vivant prend conscience des obligations funéraires. Une comparaison disciplinée n’annule pas cette divergence, elle la rend visible.
+
+### 46. Deuxième opération : protéger dans l’exposition [I]
+
+L’akkadien *ṣillu* et l’hébreu *ṣēl* peuvent communiquer la sécurité. Le Psaume 121 rapporte l’abri à la vigilance de YHWH ; une métaphore politique de l’ombre dans le domaine royal peut associer la protection à l’autorité. Un point commun est la **dépendance spatiale** : être protégé, c’est être placé « sous » une puissance. Mais le sens éthique diverge selon le genre : une affirmation de confiance, un éloge du roi, une demande de protection ou une rhétorique de conquête peuvent exploiter la même image sans identifier leurs bénéficiaires.
+
+### 47. Troisième opération : représenter sans se confondre [I]
+
+Dans le récit purāṇique, Chāyā possède une efficacité qui déborde la représentation. Dans la caverne, les ombres sont prises à tort pour ce qui les produit. On peut opposer deux questions : « Un double peut-il tenir la place de l’original ? » et « Peut-on connaître un original à partir de son image ? » Elles concernent toutes deux l’écart entre présence et représentation, sans être la même question. Si la notion de *simulacre* est utile en philosophie moderne, elle ne doit pas effacer les conditions narratives spécifiques de Chāyā et des prisonniers.
+
+### 48. Quatrième opération : rendre la souveraineté visible [I/P]
+
+Le prince est associé à l’ombre protectrice parce qu’il est censé abriter ; le dieu gardien est loué comme une ombre à la droite du fidèle ; la reine égyptienne bénéficie matériellement d’un parasol dans une représentation de cour. Cette série suggère que la protection peut servir de langage politique. Mais elle ne démontre pas un même rituel transrégional. Un parasol n’est pas un lexème ; un lexème n’est pas une institution ; une institution n’est pas une conviction individuelle. Le passage d’une couche à l’autre nécessite des preuves supplémentaires.
+
+### 49. Comparaison à cinq colonnes : termes, source, action, risque [A/I]
+
+| Tradition | Expression ou motif | Source contrôlable | Action principale | Erreur à éviter |
+| --- | --- | --- | --- | --- |
+| Égypte | *šwt*, ombre du mort | *Livre des morts* 92 | Ouvrir la tombe, permettre la sortie | Présenter l’ombre comme un « esprit malin » universel |
+| Akkadien | *ṣillu* | LAD et attestations associées | Ombre, protection | Confondre avec *eṭemmu* |
+| Israël ancien | *ṣēl* | Ps 121,5 ; Ps 91,1 ; Nb 14,9 | Abriter, garder, permettre ou retirer une protection | Imaginer obligatoirement la silhouette physique de YHWH |
+| Monde grec | *skiá*, *eídōlon* ; ombres dans la caverne | *Iliade* XXIII ; *Odyssée* XI ; *République* VII | Apparition ou critique de la connaissance | Lire Homère à travers Platon sans distance |
+| Inde | *chāyā* | *Mārkaṇḍeya Purāṇa* 77,11 sqq. | Substituer une personne à une autre | Présenter le Purāṇa comme hymne védique archaïque |
+
+### 50. La différence entre affinité et transmission [N]
+
+Le fait que plusieurs langues puissent mobiliser une image de l’ombre ne constitue pas une « preuve de diffusion ». Pour établir une transmission, une recherche devrait réunir : un texte source localisable ; une chronologie compatible ; un canal plausible de circulation ; des détails singuliers communs ; et l’examen des différences. Les textes du dossier ne remplissent pas ensemble ces conditions. Nous ne postulons donc ni une dépendance de Platon à un papyrus funéraire déterminé, ni un emprunt de Chāyā à un mythe mésopotamien, ni une dérivation directe des psaumes à partir d’une formule assyrienne unique.
+
+### 51. L’ombre et l’index au sens de Peirce [P]
+
+En sémiotique, une ombre portée peut être considérée comme un signe indiciel : son existence dépend physiquement d’une configuration entre lumière, objet et surface. Cette catégorie moderne permet d’expliquer comment l’absence de la chose dans l’image peut malgré tout faire savoir quelque chose de sa présence. Les sources religieuses complexifient ce modèle : le *šwt* funéraire ne se laisse pas mesurer comme simple phénomène optique ; Chāyā devient un agent narratif ; et la protection biblique n’est pas l’indication qu’une ombre visible tomberait effectivement sur un fidèle. Ainsi, la sémiotique est une **grille d’analyse partielle**, pas une traduction de la doctrine antique.
+
+### 52. Présence et négativité : lecture hégélienne contrôlée [P]
+
+Une lecture inspirée de Hegel peut voir dans l’ombre une présence qui n’apparaît qu’à travers sa différence d’avec la lumière et le corps. Le négatif n’est pas simplement le néant ; il rend possible une détermination. Mais il serait historiographiquement faux d’attribuer l’idéalisme allemand aux auteurs du *Livre des morts*. La valeur de l’outil philosophique est comparative : il aide à demander comment une relation peut subsister sans identité immédiate. Sa limite demeure son extériorité chronologique et conceptuelle.
+
+### 53. Nietzsche : se méfier de l’« arrière-monde » uniforme [P]
+
+On pourrait mobiliser la critique nietzschéenne des arrière-mondes pour considérer les ombres des morts comme une dévalorisation de la vie présente. Mais ce serait négliger la fonction sociale des rites et la diversité des représentations de la mort. Les figures du défunt ne sont pas nécessairement l’expression d’un refus de vivre. L’attention aux gestes de mémoire, aux tombeaux et aux liens familiaux peut même montrer que le monde des morts est pensé dans une relation intense avec celui des vivants. Ici Nietzsche fournit une objection, non le dernier mot de la recherche historique.
+
+### 54. Éthique de l’abri : pouvoir et vulnérabilité [P]
+
+La fonction protectrice possède un intérêt politique contemporain : rendre l’existence moins exposée exige des institutions, des lieux, des personnes et des obligations. L’ombre devient un concept de la dépendance et du soin. Les textes anciens ne défendent pas tous une même théorie de justice, mais ils aident à poser la question suivante : qu’est-ce qui légitime l’autorité de celui qui protège ? S’il se présente comme un refuge, peut-il simultanément devenir une menace ? La comparaison entre la protection du faible dans Isaïe 25 et l’imaginaire de la royauté permet d’élaborer le problème, sans imposer une solution unique aux cultures.
+
+### 55. La réplique et l’épreuve de la reconnaissance [P]
+
+Chāyā révèle une dimension de l’identité qui échappe à la simple photographie d’un corps. Une réplique peut ressembler, agir, se faire reconnaître et pourtant être démasquée par des habitudes affectives, des obligations et une histoire personnelle. Cette tension peut être rapprochée de débats philosophiques modernes sur la reconnaissance, à condition de ne pas transformer Saṃjñā en personnage d’un traité d’éthique contemporaine. Dans le récit, ce n’est pas une expérience de laboratoire, mais le drame d’une relation familiale sous une puissance solaire insoutenable.
+
+### 56. Les limites du tableau comparatif [N]
+
+Le tableau à cinq colonnes n’est pas une classification des croyances anciennes par degrés de rationalité. Il est un dispositif de surveillance de nos traductions. Le chercheur pourra modifier les rubriques au gré de témoins nouveaux : une nouvelle attestation de *ṣillu*, un papyrus collationné, un passage grec où *skiá* vaut protection, une variante purāṇique. La solidité du dossier est sa révisabilité. Il n’affirme pas que cinq civilisations partagent « le même mythe », mais qu’elles rendent opératoire une même expérience physique dans des mondes sociaux et textuels non identiques.
+
+---
+
+## VIII. Historiographie, édition, iconographie et bibliographie
+
+### 57. Des mythologues évolutionnistes aux histoires situées [É]
+
+La recherche comparatiste des XIXe et XXe siècles a parfois traité les traditions d’« ombre de l’âme » comme des survivances universelles d’un âge primitif. Cette catégorie pouvait rapprocher rapidement un papyrus, une pratique funéraire et une apparition homérique, mais au prix de leur contexte. Edward B. Tylor et James G. Frazer ont joué un rôle important dans la constitution des questions générales sur l’animisme et le rituel ; leurs généralisations doivent être relues à la lumière de la philologie et de l’archéologie actuelles. Le problème n’est pas seulement de rejeter leur époque : il est de séparer une hypothèse comparative historiquement féconde de conclusions ethnocentriques ou insuffisamment documentées.
+
+### 58. Les historiens de la religion égyptienne [É]
+
+Les travaux de Jan Assmann et d’Erik Hornung ont renouvelé la manière de replacer les textes funéraires dans leurs traditions théologiques, iconographiques et historiques. Stephen Quirke insiste sur les témoins et les compositions concrètes. Il faut lire ces auteurs en gardant l’hétérogénéité du *Livre des morts*, et en contrôlant les témoins auprès du *Totenbuch-Projekt* de Bonn ou des catalogues des musées. Une synthèse secondaire est indispensable ; elle ne dispense pas de préciser quel manuscrit porte effectivement un passage particulier.
+
+### 59. Philologie sémitique : lexique commun, milieux différents [É]
+
+Le *Chicago Assyrian Dictionary* et le *Leipzig Akkadian Dictionary* documentent des emplois répartis par époques. Les études sur la poésie biblique, l’hébreu et le Proche-Orient situent les expressions de protection dans un environnement culturel partagé, mais elles ne peuvent servir de raccourci pour produire une généalogie du Psaume 121. La proximité de *ṣillu* et *ṣēl* est un indice philologique ; l’histoire des textes demeure une enquête indépendante. Des corpus parallèles mieux datés seraient nécessaires à toute proposition forte sur la transmission.
+
+### 60. Le grec : Homère n’est pas Platon [É]
+
+Les commentaires de la *Nekyia* homérique et les lectures de la *République* sont construits pour des objets distincts. Un passage de l’*Odyssée* est un événement narratif dans un poème d’hospitalité, de mémoire et de retour ; la caverne est un modèle théorique servant à penser la formation du jugement. Le fil lexical « ombre » ne rend pas les deux unités interchangeables. Il importe également de comparer les lemmes grecs de la langue originale plutôt que de rapprocher deux traductions françaises par le seul mot « fantôme ».
+
+### 61. Les Purāṇa : pluralité des états textuels [É]
+
+La traduction de F. E. Pargiter reste un instrument historique de consultation du *Mārkaṇḍeya Purāṇa*, mais les éditions plus récentes et les discussions sur les manuscrits peuvent modifier certains vers ou découpages. On examinera particulièrement les différences entre les récits du chapitre 77 et les reprises ultérieures ; leurs variations peuvent porter sur la révélation de la substitution, la réduction de l’éclat du Soleil et les relations des personnages. On ne doit pas attribuer sans précision à toutes les « traditions hindoues » une version unique de Chāyā.
+
+### 62. Suggestions d’illustrations : objets anciens et vérifications [A/N]
+
+**Planche A — Papyrus funéraire, formule 92.** Louvre, fragments N 3253 / N 3195 B (XXXe dynastie, env. 380–342 av. n. è.). Source : https://collections.louvre.fr/ark:/53355/cl010003269 . Légende à formuler : « Papyrus attestant notamment la formule 92 », et non « représentation certaine de l’ombre » sans contrôle de la vignette précise. Vérifier les droits d’utilisation de la reproduction.
+
+**Planche B — Écriture funéraire et sorties au jour.** UCL Digital Egypt, notice des chapitres et page sur la formation du *Livre des morts* : https://www.ucl.ac.uk/museums-static/digitalegypt/literature/religious/bdfront.html . Image documentaire à sélectionner dans les manuscrits dont l’inventaire et les chapitres sont identifiés. La légende doit nommer le témoin, pas « la religion égyptienne » en bloc.
+
+**Planche C — Relief d’une servante portant un parasol, tombe de la reine Néférou.** Metropolitan Museum of Art, inv. 26.3.353l, XIe dynastie, règne de Montouhotep II, env. 2051–2030 av. n. è. : https://www.metmuseum.org/art/collection/search/590353 . Illustration d’une ombre **physique et sociale** ; elle ne prouve pas un culte de l’ombre du défunt.
+
+**Planche D — Relief associé au même parasol.** Metropolitan Museum of Art, inv. 26.3.353n, env. 2051–2030 av. n. è. : https://www.metmuseum.org/art/collection/search/590362 . Mettre les fragments de la tombe en relation seulement selon les notices institutionnelles.
+
+**Planche E — Rouleau funéraire thébain de Henettawy.** Metropolitan Museum of Art, inv. 25.3.29, env. 990–970 av. n. è. : https://www.metmuseum.org/art/collection/search/551785 . Sert à illustrer le support, la matérialité et la sélection de chapitres funéraires, sans affirmer que le manuscrit porte la formule 92 si la notice ne l’établit pas.
+
+**Planche F — Extrait textuel du Psaume 121,5 en hébreu.** Réaliser une **composition typographique scientifique nouvelle**, sans reproduire abusivement un manuscrit antique. Texte à établir depuis une édition hébraïque contrôlée ; indiquer les lettres vocalisées, la translittération et le statut de reconstruction éditoriale. Ce n’est pas une photographie ancienne.
+
+**Planche G — Carte des sens du mot *ṣillu*.** Infographie fondée sur LAD015949 : https://lad.saw-leipzig.de/entry/LAD015949 . Reproduction d’une visualisation originale à légender « schéma analytique contemporain ». Ne pas fabriquer un faux relief assyrien.
+
+**Planche H — La caverne platonicienne.** Diagramme contemporain localisant feu, objets, mur, prisonniers et ombres selon *République* VII, 514a–515a. Indiquer « schéma pédagogique, non document archéologique ». Source textuelle de vérification : https://atlas.perseus.tufts.edu/library/passage/urn:cts:greekLit:tlg0059.tlg030.perseus-eng2:7.514-7.516/ .
+
+**Planche I — Texte sanskrit de *Mārkaṇḍeya Purāṇa* 77,11.** Composition typographique originale en devanāgarī avec translittération IAST, à partir d’une édition identifiée : https://vedapath.app/en/markandeya-purana/adhyaya-77/11 . Légende « transcription éditoriale et analyse de *chāyāmayīm* » ; ne pas présenter la typographie moderne comme un manuscrit ancien.
+
+**Planche J — Carte historico-comparative.** Égypte, Mésopotamie, Levant, Grèce, Inde, avec datations par familles documentaires et aucune flèche de diffusion présumée. Source : les témoins des sections 57–65 ; classification « reconstruction scientifique contemporaine », distincte d’un artefact original.
+
+### 63. Bibliographie scientifique : éditions et instruments [É]
+
+**Égypte.** R. O. Faulkner, *The Ancient Egyptian Book of the Dead*, édition et traduction illustrée, British Museum Publications, 1972 ; Stephen Quirke, *Going out in Daylight: prt m hrw. The Ancient Egyptian Book of the Dead*, Golden House Publications, 2013 ; Erik Hornung, *The Ancient Egyptian Books of the Afterlife*, traduction David Lorton, Cornell University Press, 1999 ; Jan Assmann, *Death and Salvation in Ancient Egypt*, traduction David Lorton, Cornell University Press, 2005 ; James P. Allen, *Middle Egyptian: An Introduction to the Language and Culture of Hieroglyphs*, 3e éd., Cambridge University Press, 2014 ; UCL Digital Egypt, catalogue des formules : https://www.ucl.ac.uk/museums-static/digitalegypt/literature/religious/bdbynumber.html ; *Totenbuch-Projekt* (Bonn) : https://totenbuch.awk.nrw.de/ .
+
+**Mésopotamie.** *The Assyrian Dictionary of the Oriental Institute of the University of Chicago* (CAD), fascicules lexicographiques, consultation par lemme ; Wolfram von Soden, *Akkadisches Handwörterbuch*, Wiesbaden, 1959–1981 ; *Leipzig Akkadian Dictionary*, entrée *ṣillu*, https://lad.saw-leipzig.de/entry/LAD015949 ; John Huehnergard, *A Grammar of Akkadian*, Harvard Semitic Studies, édition revue, 2011 ; Benjamin R. Foster, *Before the Muses: An Anthology of Akkadian Literature*, 3e éd., CDL Press, 2005. Les dictionnaires sont des guides pour localiser les attestations et leurs éditions, pas des récits autonomes.
+
+**Bible hébraïque.** *Biblia Hebraica Stuttgartensia*, éd. Karl Elliger et Wilhelm Rudolph, Deutsche Bibelgesellschaft ; *Biblia Hebraica Quinta*, fascicules disponibles, Deutsche Bibelgesellschaft ; *The Hebrew and Aramaic Lexicon of the Old Testament* (HALOT), Ludwig Koehler, Walter Baumgartner, Johann J. Stamm ; Francis Brown, S. R. Driver, Charles A. Briggs, *A Hebrew and English Lexicon of the Old Testament* (BDB) ; Robert Alter, *The Book of Psalms: A Translation with Commentary*, W. W. Norton, 2007 ; Psaumes 91 et 121 ; Nombres 14 ; Isaïe 25 ; Job 8.
+
+**Grèce.** Homère, *Iliade* XXIII, 65–107 ; *Odyssée* XI, 152–224 ; Platon, *République* VI–VII, spécialement 507b–517b ; Platon, *Phédon*, 78b–84b ; *Greek-English Lexicon* (LSJ), éd. Henry George Liddell, Robert Scott, Henry Stuart Jones ; Walter Burkert, *Greek Religion*, Harvard University Press, 1985 ; Jean-Pierre Vernant, *Mythe et pensée chez les Grecs*, Maspero, 1965 ; Perseus, édition accessible de la *République*, https://atlas.perseus.tufts.edu/library/passage/urn:cts:greekLit:tlg0059.tlg030.perseus-eng2:7.514-7.516/ .
+
+**Inde.** *Mārkaṇḍeya Purāṇa*, 77,11 et suite ; F. E. Pargiter, *The Mārkaṇḍeya Purāṇa*, Bibliotheca Indica, 1904 ; *Viṣṇu Purāṇa* III,2, en comparaison critique ; Wendy Doniger, *The Hindus: An Alternative History*, Penguin, 2009 (à lire comme interprétation contemporaine) ; consultation textuelle : https://indike.org/pramana/in.purana.markandeya~en-pargiter.77 ; verset sanskrit isolé : https://vedapath.app/en/markandeya-purana/adhyaya-77/11 .
+
+**Histoire des comparaisons et philosophie.** Edward B. Tylor, *Primitive Culture*, 1871 (document historiographique, non autorité anthropologique actuelle) ; James G. Frazer, *The Golden Bough*, 1890 et éditions ultérieures (même réserve) ; Claude Lévi-Strauss, *Anthropologie structurale*, Plon, 1958 ; Charles Sanders Peirce, *Collected Papers*, Harvard University Press, 1931–1958 ; G. W. F. Hegel, *Phénoménologie de l’esprit*, 1807 ; Friedrich Nietzsche, *Ainsi parlait Zarathoustra*, 1883–1885, en particulier la critique des arrière-mondes ; Paul Ricœur, *La métaphore vive*, Seuil, 1975. Ces auteurs ne sont pas présentés comme des témoins des cultes étudiés.
+
+### 64. Matrice des certitudes et des limites [A/H/P]
+
+**Attesté :** la formule 92 du *Livre des morts* concerne le *bꜣ* et l’ombre ; un papyrus inventorié du Louvre porte la formule 92 ; *ṣillu* est attesté dans le sens « ombre, protection » ; Psaume 121,5 appelle YHWH « ton ombre » ; la caverne de Platon met en scène des ombres prises pour des réalités ; *Mārkaṇḍeya Purāṇa* 77,11 évoque une forme créée d’ombre.
+
+**Inféré :** l’ombre protège en traduisant une proximité, la métaphore peut figurer une dépendance politique ; des images d’ombre peuvent travailler la continuité de l’identité et l’écart entre représentation et original.
+
+**Hypothétique et non démontré :** une origine commune à toutes les figures ; la dépendance directe d’une version sanskrite à la religion égyptienne ; une traduction de *ṣillu* par « âme du mort » valable dans tous les contextes ; une correspondance stable entre chaque vignette et chaque formule dans tous les papyrus.
+
+**Philosophique :** l’ombre comme indice, négativité, substitut ou critique du simulacre ; les rapprochements avec Peirce, Hegel, Nietzsche et Ricœur. Ces formulations éclairent les corpus mais ne prétendent pas être des doctrines universellement professées dans l’Antiquité.
+
+### 65. Travaux à prolonger sans reproduire les séries existantes [É]
+
+Un développement futur pourrait porter sur les emplois datés et contextualisés de *ṣillu* dans les inscriptions royales néo-assyriennes, à condition de partir d’éditions de corpus, avec translittération et traduction contrôlées. Une seconde enquête concernerait une collation illustrée des papyrus de la formule 92 et de leurs vignettes, avec numéros d’inventaire et droits de reproduction. Une troisième comparerait les versions manuscrites de l’histoire de Saṃjñā sans fusionner leurs divergences. Ces travaux ne préjugent pas des futurs identifiants historiques ni des numéros canoniques ; ils indiquent des lacunes documentaires précises.
+
+### Conclusion générale
+
+L’ombre ne fournit pas une essence religieuse universelle. Elle est une **relation de visibilité**, que certaines traditions investissent de survie funéraire, d’autres de protection, d’autres encore de capacité de substitution ou d’incertitude cognitive. L’Égypte demande à l’ombre du mort de pouvoir sortir ; la langue akkadienne permet d’exprimer un abri protecteur ; les psaumes font de l’ombre l’image d’un Dieu gardien ; la Grèce oppose la présence insaisissable du défunt et le danger de prendre les apparences pour la totalité du réel ; le mythe purāṇique donne à une forme d’ombre la capacité de vivre à la place d’une personne.
+
+La comparaison rencontre alors une limite féconde : **avoir la même image n’est pas avoir la même pensée**. Les ressemblances appellent la recherche, mais les différences de langue, de genre, d’institution et de date en fixent la méthode. C’est à ce prix que l’ombre peut devenir un objet de connaissance historique plutôt qu’un écran où le comparatiste projetterait une religion imaginaire.
+
+---
+
+### Notice de continuité MYTHOS
+
+**Identifiant historique : MC-096.** Il succède, dans la série MC contrôlée, au manuscrit MC-095 sur les échelles entre ciel et terre, enregistré sous un reçu canonique correspondant au volume CCLXXXIX (289). MC-094 a reçu le volume CCXC (290) dans l’état du registre consulté au moment de la rédaction. Un autre volume comparatif indépendant y porte CCXCI (291). Les numéros de volume de **la présente étude** sont volontairement laissés en variables **294** et **CCXCIV** : seule la transaction éditoriale GitHub Actions peut les attribuer.
+
+Cette étude est nouvelle par son axe : **l’ombre comme médiation entre corps, abri, double et représentation**. Elle ne remplace ni MC-024 sur Amon-Rê-Aton, ni MC-029 sur les composantes de la personne, ni MC-049 sur l’image divine, ni MC-070 sur les noms sacrés, ni MC-072 sur les déguisements et l’hospitalité, ni MC-093 sur les sceaux, ni MC-094 sur les clefs, ni MC-095 sur les échelles. Ces textes sont conservés, et la présente rédaction ne modifie aucun autre chapitre ou calendrier de travail.
+
+*Fin du manuscrit approuvé pour dépôt dans la file éditoriale ; enregistrement dans la file, attribution canonique et publication publique constituent trois étapes distinctes.*

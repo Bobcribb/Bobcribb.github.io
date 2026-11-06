@@ -1926,6 +1926,18 @@
         "url": "/chapitres/tragedies/volume-cclxiii-acheos-eretrie-alcmeon-satyrique-delphes-couteaux-sacrifices-kylichnides/",
         "title": "Volume CCLXIII (263) — Achéos d’Érétrie, Alcméon satyrique (Ἀλκμέων σατυρικός) — Les couteaux d’Apollon : sacrifice, purification, gourmandise delphique et revers comique du matricide",
         "source": "chapitres/tragedies/volume-cclxiii-acheos-eretrie-alcmeon-satyrique-delphes-couteaux-sacrifices-kylichnides.md"
+      },
+      {
+        "number": 264,
+        "url": "/chapitres/tragedies/volume-cclxiv-acheos-eretrie-alphesiboia-hyades-menades-alcmeon-dionysos/",
+        "title": "Volume CCLXIV (264) — Achéos d’Érétrie, Alphésibée (Ἀλφεσίβοια) — Sous les étoiles, devant la vengeance : fragment d’une tragédie perdue, traditions d’Alcméon et hypothèse dionysiaque",
+        "source": "chapitres/tragedies/volume-cclxiv-acheos-eretrie-alphesiboia-hyades-menades-alcmeon-dionysos.md"
+      },
+      {
+        "number": 265,
+        "url": "/chapitres/tragedies/volume-cclxv-acheos-eretrie-alphesiboia-hesychius-hyades-menades-alcmeon-dionysos/",
+        "title": "Volume CCLXV (265) — Achéos d’Érétrie, Alphésibée (Ἀλφεσίβοια) — La ménade sous les étoiles : amour, meurtre, purification et identités concurrentes",
+        "source": "chapitres/tragedies/volume-cclxv-acheos-eretrie-alphesiboia-hesychius-hyades-menades-alcmeon-dionysos.md"
       }
     ],
     "comparatif": [
@@ -3365,6 +3377,24 @@
         "url": "/chapitres/comparatif/volume-ccxci-oiseaux-promethee-parasol-basileia-tresor-renseignement-souverainete-414/",
         "title": "Volume CCXCI (291) — Le parapluie de Prométhée : renseignement clandestin, famine des dieux et administration de la souveraineté dans les Oiseaux d’Aristophane (414 av. n. è.)",
         "source": "chapitres/comparatif/volume-ccxci-oiseaux-promethee-parasol-basileia-tresor-renseignement-souverainete-414.md"
+      },
+      {
+        "number": 292,
+        "url": "/chapitres/comparatif/volume-ccxcii-guepes-banquet-symposion-violence-education-danse-justice-422/",
+        "title": "Volume CCXCII (292) — Après le tribunal, le banquet : classe sociale, apprentissage des manières, violence et liberté comique dans les Guêpes d’Aristophane (422 av. n. è.)",
+        "source": "chapitres/comparatif/volume-ccxcii-guepes-banquet-symposion-violence-education-danse-justice-422.md"
+      },
+      {
+        "number": 293,
+        "url": "/chapitres/comparatif/volume-ccxciii-mc-097-cheveux-du-sacre-meches-votives-deuil-nazir-berenice-shiva-bouddha/",
+        "title": "Volume CCXCIII (293) — MC-097 — Les cheveux du sacré : mèches votives, deuil, force, consécration et souveraineté, d'Achille et Samson à Bérénice, Śiva et la renonciation bouddhique",
+        "source": "chapitres/comparatif/volume-ccxciii-mc-097-cheveux-du-sacre-meches-votives-deuil-nazir-berenice-shiva-bouddha.md"
+      },
+      {
+        "number": 294,
+        "url": "/chapitres/comparatif/volume-ccxciv-mc-096-ombres-divin-double-protection-substitution-egypte-mesopotamie-israel-grece-inde/",
+        "title": "Volume CCXCIV (294) — MC-096 — Les ombres du divin : double, protection, substitution et connaissance, de l’Égypte à l’Inde",
+        "source": "chapitres/comparatif/volume-ccxciv-mc-096-ombres-divin-double-protection-substitution-egypte-mesopotamie-israel-grece-inde.md"
       }
     ],
     "comedies": [
@@ -5733,6 +5763,18 @@
         "url": "/chapitres/origines-du-sacre/721-tadrart-acacus-art-rupestre-abris-takarkori-pastoralisme-memoire-sahara/",
         "title": "Chapitre 721 — Tadrart Acacus : roches peintes, abris habités, troupeaux, morts et mémoire du Sahara humide",
         "source": "chapitres/origines-du-sacre/721-tadrart-acacus-art-rupestre-abris-takarkori-pastoralisme-memoire-sahara.md"
+      },
+      {
+        "number": 722,
+        "url": "/chapitres/origines-du-sacre/722-tassili-n-ajjer-tetes-rondes-images-ritualite-chronologie-critique-chamanisme/",
+        "title": "Chapitre 722 — Tassili n'Ajjer : les Têtes rondes, la mémoire des images et les limites de l'interprétation du sacré",
+        "source": "chapitres/origines-du-sacre/722-tassili-n-ajjer-tetes-rondes-images-ritualite-chronologie-critique-chamanisme.md"
+      },
+      {
+        "number": 723,
+        "url": "/chapitres/origines-du-sacre/723-gobero-tenere-cimetieres-kiffiens-teneriens-sepultures-fleurs-lacs-holocene/",
+        "title": "Chapitre 723 — Gobero, au Niger : les morts du Sahara vert, les gestes funéraires et la mémoire des lacs disparus",
+        "source": "chapitres/origines-du-sacre/723-gobero-tenere-cimetieres-kiffiens-teneriens-sepultures-fleurs-lacs-holocene.md"
       }
     ]
   },

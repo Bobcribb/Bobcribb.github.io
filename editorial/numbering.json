@@ -897,6 +897,18 @@
           "path": "chapitres/origines-du-sacre/721-tadrart-acacus-art-rupestre-abris-takarkori-pastoralisme-memoire-sahara.md",
           "request_sha256": "9c9431dbe4059f41dea182172d5a23fa73d3182476208b72ff9e147e61fe324e",
           "initial_source_sha256": "7c5219357e25cf35bfbfdf17a8befe2867e51ba297e0f907ad19d1f85c0043d4"
+        },
+        "8d1bc7e2-6ecf-44aa-9408-7d2ad8f321ca": {
+          "number": 722,
+          "path": "chapitres/origines-du-sacre/722-tassili-n-ajjer-tetes-rondes-images-ritualite-chronologie-critique-chamanisme.md",
+          "request_sha256": "c1d6aaa1528d6e708dfbd58d603f1b50e63441ae2199aba8803310fe89780a32",
+          "initial_source_sha256": "4e8dba685512623e35a2275cf988cb3eafdd0d72374c8f40d31fddc8a984df4a"
+        },
+        "d93f842b-c795-4bb9-9837-086d2b71f5a2": {
+          "number": 723,
+          "path": "chapitres/origines-du-sacre/723-gobero-tenere-cimetieres-kiffiens-teneriens-sepultures-fleurs-lacs-holocene.md",
+          "request_sha256": "4a4513ae204336f2eed68d592ebdcba6fa80dd54a49d65b008e148bfc7d9f3ed",
+          "initial_source_sha256": "744da46bad8534ed7ef532074e3d9714b2cd6a8de99973a25c04be3755c2a7d4"
         }
       }
     },
@@ -2470,6 +2482,18 @@
           "path": "chapitres/tragedies/volume-cclxiii-acheos-eretrie-alcmeon-satyrique-delphes-couteaux-sacrifices-kylichnides.md",
           "request_sha256": "0bbb32b79900fe4a4ab1f07ff0b8ec65ba76c6b17e02515346f636acfc419f9d",
           "initial_source_sha256": "228af511626f3cf774bf4943b9fe1c788e46d1345c2dcc2d22d9eca291e6656b"
+        },
+        "b2b4a2d5-8e86-4b61-8e4c-7f2e3d7a8c19": {
+          "number": 264,
+          "path": "chapitres/tragedies/volume-cclxiv-acheos-eretrie-alphesiboia-hyades-menades-alcmeon-dionysos.md",
+          "request_sha256": "ac3f4a28976c6735272af661b714c1415516727a9e1e89fcdc4b5aa67572b8ce",
+          "initial_source_sha256": "2833eaa89d5d018cd97f66d699cc9321eb1fad861d1f687addc509c9c0debe22"
+        },
+        "d4ea7ef2-9822-4b89-a38a-b5d6d7820e15": {
+          "number": 265,
+          "path": "chapitres/tragedies/volume-cclxv-acheos-eretrie-alphesiboia-hesychius-hyades-menades-alcmeon-dionysos.md",
+          "request_sha256": "dc269ea9d0ae6302a4bd8fd1144cd71dba2389df19ebbddfb2a0d9c31eece255",
+          "initial_source_sha256": "917c1026e35d4ce0832fe21feb98054464d7f5decf1b2d79807b00e6f97a3844"
         }
       }
     },
@@ -3373,6 +3397,24 @@
           "path": "chapitres/comparatif/volume-ccxci-oiseaux-promethee-parasol-basileia-tresor-renseignement-souverainete-414.md",
           "request_sha256": "922571bec49d827e6cb33836701b83583fae37e9f0bf36b9b980cc0a1f35ece1",
           "initial_source_sha256": "8b9368a6c68cb273cf3601c57625f839f2b3fb24567a98d6d0e7a0fc4312d84c"
+        },
+        "7e4c9b36-2d81-4e52-8fa0-6b307d54c961": {
+          "number": 292,
+          "path": "chapitres/comparatif/volume-ccxcii-guepes-banquet-symposion-violence-education-danse-justice-422.md",
+          "request_sha256": "6df4e34bcfc45482b5ea0e9ecefa02956aaf3112a7d79fbc7d5b9c68682a7215",
+          "initial_source_sha256": "cf90a04ce7b47e875b1e8ead23d9c9a77fea2c84c173e7f2cfec9f0d2b6b3413"
+        },
+        "970a2097-0ac7-4970-97c0-202611060097": {
+          "number": 293,
+          "path": "chapitres/comparatif/volume-ccxciii-mc-097-cheveux-du-sacre-meches-votives-deuil-nazir-berenice-shiva-bouddha.md",
+          "request_sha256": "9490c31f59111295a4743b4ea74b3f104c78066779b075799fd30c1fae2271ea",
+          "initial_source_sha256": "ddd9cfa54244cb8d64dfa50bfc736e77beaad9b90d0fb1283d172155967341f6"
+        },
+        "9b4d6a70-8ef2-4b8c-a4d3-202611060755": {
+          "number": 294,
+          "path": "chapitres/comparatif/volume-ccxciv-mc-096-ombres-divin-double-protection-substitution-egypte-mesopotamie-israel-grece-inde.md",
+          "request_sha256": "efadc7fa650ca29b2b360203ea2c3bec5e4a304708ebda1bdd1ea089e67022ea",
+          "initial_source_sha256": "adc91e54fc20c63ea8a57b5f045eb6fa84f7d8b587c39b9447843127f661857e"
         }
       }
     }
