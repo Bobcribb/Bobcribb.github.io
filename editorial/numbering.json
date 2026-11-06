@@ -933,6 +933,18 @@
           "path": "chapitres/origines-du-sacre/727-laas-geel-somaliland-bovins-parures-peintures-polychromes-pastoralisme.md",
           "request_sha256": "65be96c2614f30193f4661286b0be6c0f87585dc62b0ad9820e87d735b9025cd",
           "initial_source_sha256": "aec5e2dac16737cf37dc5bd477fafd7de8630ce3692b3bf6c8eb0efdc8f3c30f"
+        },
+        "5d298e40-766c-4fc9-a574-09e510f8e817": {
+          "number": 728,
+          "path": "chapitres/origines-du-sacre/728-tiya-soddo-steles-epees-tombes-signaux-funeraires-ethiopie.md",
+          "request_sha256": "880050337e635732da05bcce3eab036ea5088f3f4aaf46d1ff3cdf9461858b1f",
+          "initial_source_sha256": "5dae26c102446cb740caf97e8f5fc056ad92f5e76bb500eee2199dc25a32eb39"
+        },
+        "9f72d1c0-30b1-4dd3-9008-3ad7aa7a030e": {
+          "number": 729,
+          "path": "chapitres/origines-du-sacre/729-aksum-steles-royales-hypogees-mahrem-ezana-christianisation.md",
+          "request_sha256": "dd7cfebcc24814593cf42248ea201251627b0f6a324af7c5a79045290ae0c328",
+          "initial_source_sha256": "45a83bb78e4d15f3413cf53e45146ee8dead7cb1c580dc82a91b820122bce513"
         }
       }
     },
@@ -2026,6 +2038,12 @@
           "path": "chapitres/comedies/volume-123-menekrates-hermioneus-manektor-fragment-osselets-parabase.md",
           "request_sha256": "0d1018832e0158673cfd63c3c88880aec365e5dec099a49a8095430a5426d7c1",
           "initial_source_sha256": "0fff0506c88a1af82c0db35b5842ed3638e2eab1529058a37d60a9f5ebb2bfa0"
+        },
+        "9086f72d-ef11-4c04-b7ad-51233a097fec": {
+          "number": 124,
+          "path": "chapitres/comedies/volume-124-myllos-poete-comique-proverbe-cratinos-sourde-origines.md",
+          "request_sha256": "f2c3fb0712b063548da10bb895f63d1bb6e4614e2b92836a7d78081e1e3f9ca7",
+          "initial_source_sha256": "45ed059a7810915d241a8b4eaa9480be34d9cfeaefc7550752b7ad8d44848398"
         }
       }
     },
@@ -2524,6 +2542,24 @@
           "path": "chapitres/tragedies/volume-cclxvi-acheos-eretrie-erginos-ig-ii2-2363-piree-tribut-minyens-orchomenos.md",
           "request_sha256": "8f87075fc6bfd4256fb68c39dbd565de902fe0e9645c940d039cb12aae2a6cf3",
           "initial_source_sha256": "86865c0a51ea27f945c45b6851a665cfbe42223204585a7528f306181a78ddd7"
+        },
+        "7a48e2cb-f8ab-4bb6-a543-2f86c02c7e9a": {
+          "number": 267,
+          "path": "chapitres/tragedies/volume-cclxvii-acheos-eretrie-thesee-artemis-saronia-taureau-marathon-trgf-18-18a.md",
+          "request_sha256": "c9de2e9e6443a6b8d9853300e706c910a0b23ab7382df10be598d3822bda08e9",
+          "initial_source_sha256": "2a2e0701b6c208c5eec27893ef3c4b69d7d32860332bb8a563c2aef273d303d2"
+        },
+        "a5ed7b63-2c91-4ad0-a9a5-8ca9eea5e884": {
+          "number": 268,
+          "path": "chapitres/tragedies/volume-cclxviii-acheos-eretrie-hephaistos-satyrique-banquet-parfum-eau-retour-olympe.md",
+          "request_sha256": "b9f403d697f28d4ae48b5201c68487df53aec4024d596c46d567fd9f04b30eb8",
+          "initial_source_sha256": "f3ae7961de9f3c02c23b299122635b376e0dfff75decb7a63d7dfa23f2a574dd"
+        },
+        "e6f4a736-612b-4fdb-9157-709c87999a31": {
+          "number": 269,
+          "path": "chapitres/tragedies/volume-cclxix-acheos-eretrie-hephaistos-satyrique-athenee-641d-trgf-20-f17-retour-dionysos.md",
+          "request_sha256": "2c4fe9e8830f61d2ba643f2c50c2ff4ecf8c0b9f367422bc75a10a75d75ffef8",
+          "initial_source_sha256": "714d1de5453d999da9526b95f6eaca3e3169bdc30b5fb4babff78f4a79f17669"
         }
       }
     },
@@ -3457,6 +3493,36 @@
           "path": "chapitres/comparatif/volume-ccxcvi-oiseaux-teree-procne-voix-tragedie-metamo-philomela-intermediaire-414.md",
           "request_sha256": "62b062e06c0ff8db89a4d8d4edda66c8bb53c0a41b4246b1db58f6119027ac5b",
           "initial_source_sha256": "c60c277432a8458d26fdcf4a6658cf7b5736964c82bc0b031e65a078f3abe4f8"
+        },
+        "16d8b67e-3992-491b-8709-8e9e6fe67233": {
+          "number": 297,
+          "path": "chapitres/comparatif/volume-ccxcvii-mc-100-mains-divin-aton-sakikku-exode-athena-asclepios-savitr-buddha.md",
+          "request_sha256": "a63eab149ce7c11481a060a9070a9835a14d09524f63b6775a8fbc435c342b81",
+          "initial_source_sha256": "792cc2b1535869a8bd9daa4236b73d03c6b4bfcaa2b221173d489aa4415d664b"
+        },
+        "2b1f7d90-6c33-4fc8-9b61-a72e8460d15c": {
+          "number": 298,
+          "path": "chapitres/comparatif/volume-ccxcviii-grenouilles-poetes-educateurs-guerre-sept-thebes-perses-trierarchie-405.md",
+          "request_sha256": "2d48cc846913ad91d8a050335f79b694748a8d36c97ef1cf5bc9d6b80d7ccb83",
+          "initial_source_sha256": "ce184009175b478d6f2ba64e00aed8d13c139747b8afabc6c718ce02e7f9c45d"
+        },
+        "2f92b099-9c82-4c09-a9b9-202611060099": {
+          "number": 299,
+          "path": "chapitres/comparatif/volume-ccxcix-mc-099-abeilles-sacre-telipinu-hermes-artemis-egypte-mayas.md",
+          "request_sha256": "dfd6bb01efbb6dee7eee135b5cc1599275dcd4bc57ed1aa12559921a7834eb8f",
+          "initial_source_sha256": "2e7e8c2becf2b1fefaa8dcc6b02a5e990b4ad64ba9845cf07140aedd0e181aeb"
+        },
+        "9c2e0f37-2e47-42b0-95a6-7b71919d4d61": {
+          "number": 300,
+          "path": "chapitres/comparatif/volume-ccc-assemblee-femmes-lampe-barbe-manteau-vote-pnyx-triobole-praxagora-392.md",
+          "request_sha256": "d4eb0b96e5dd52fc1d8ef4e511cd7a30155144ad68b1b50b7bf5b056cbea6110",
+          "initial_source_sha256": "a3c01b00bf2af9b5ebbe33201cf48c2e917a6922dca3aec0aa0411bc0e2a1b20"
+        },
+        "f9d52c81-a0eb-47bb-92d3-202611060098": {
+          "number": 301,
+          "path": "chapitres/comparatif/volume-ccci-mc-098-traverser-autre-monde-chinvat-charon-gjallarbru-sirat-vaitarani.md",
+          "request_sha256": "bb3a7c431c6273d6d056e9cf3c34377969a6e4a7873372dc418ac2c55936648b",
+          "initial_source_sha256": "3447427488da1bf698435f8bb328a2621b2180fe091040692a797e2be34b886c"
         }
       }
     }

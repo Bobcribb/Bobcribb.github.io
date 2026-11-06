@@ -1,0 +1,590 @@
+# MYTHOS — Cycle comparatif universitaire — Volume CCXCVIII (298)
+
+## La tragédie doit-elle former des soldats ? Eschyle, Euripide, les *Sept contre Thèbes*, les *Perses* et le gouvernement des conduites dans les *Grenouilles* d’Aristophane (405 av. n. è.)
+
+*Monographie universitaire autonome. Histoire politique de la démocratie athénienne, philologie grecque, histoire des performances dramatiques, études militaires, éducation civique, sociologie des publics, esthétique et philosophie comparée. Corpus principal : Aristophane, Grenouilles 1004–1076 ; contrôles 910–968, 1108–1118, 1364–1468 ; Eschyle, Sept contre Thèbes 1–77, 78–287, 369–719 ; Perses 1–64, 249–514, 681–786 et 908–1077. Sources complémentaires explicitement différenciées de leurs usages interprétatifs. État des sources consultées : 6 novembre 2026. Aucun numéro canonique présumé avant attribution GitHub Actions.*
+
+### Résumé scientifique
+
+Dans l’agôn des *Grenouilles*, Eschyle pose à Euripide une question qui paraît fournir enfin un critère incontestable de jugement littéraire : pourquoi admirer un poète ? Euripide répond que la virtuosité et le conseil sont utiles parce que les poètes rendent meilleurs les êtres humains dans les cités (*Grenouilles*, 1008–1010). L’accord est trompeur. Eschyle s’en empare pour accuser son successeur d’avoir fabriqué des citoyens lâches, discoureurs, économiquement déloyaux et enclins à contester leurs supérieurs militaires. Pour preuve de son propre mérite, il invoque les *Sept contre Thèbes* et les *Perses* : l’une aurait suscité l’amour de combattre, l’autre le désir de vaincre. Aux vers 1053–1056, l’accusation devient une règle générale : le poète doit cacher le mal et enseigner ce qui est bon, car les jeunes ont des maîtres à l’école, et les hommes en âge de participer à la cité ont les poètes.
+
+Cette déclaration ne constitue pourtant ni un programme officiel d’instruction athénienne ni un traité pédagogique de l’Aristophane historique. Elle appartient à une compétition jouée devant Dionysos, ponctuée par les interruptions moqueuses du dieu. Elle réordonne même sans souci de chronologie l’énumération des tragédies : les *Perses* furent représentés en 472 et les *Sept* en 467, alors que l’orateur comique enchaîne les deux exemples en fonction de sa démonstration. La pièce invite ainsi le spectateur à regarder la rhétorique de l’efficacité artistique fonctionner et se défaire dans le même mouvement.
+
+L’étude propose de distinguer quatre questions trop souvent confondues : (1) le texte tragique représente-t-il le courage ? (2) la représentation peut-elle susciter un affect militaire ? (3) cet affect devient-il une conduite durable, observable et politiquement souhaitable ? (4) celui qui enseigne le courage est-il habilité à définir lui-même la bonne cité ? La réponse à l’une ne vaut pas preuve des autres. La confrontation aux *Sept* révèle d’ailleurs un théâtre de la peur féminine, de la malédiction et de la décision fratricide, non un simple manuel de bravoure. Celle aux *Perses* révèle un spectacle sur la défaite de l’ennemi aussi bien que sur la fragilité humaine des empires. Les deux modèles dramatiques réels résistent à leur caricature apologétique.
+
+La seconde partie de la séquence ouvre un problème institutionnel plus précis. Eschyle reproche à Euripide d’avoir fait porter des haillons aux rois de théâtre : de riches Athéniens imiteraient désormais cette pauvreté fictive pour échapper à la triérarchie (*Grenouilles* 1063–1068). Il l’accuse également d’avoir donné aux marins du *Paralos* l’habitude de répondre à leurs chefs (1069–1073). Deux terrains se rejoignent : la redistribution des charges publiques et la discipline d’une marine où la parole des subalternes est politiquement ambivalente. Le poète serait à la fois formateur des comportements, responsable des fraudes et adversaire possible de l’égalité démocratique.
+
+La thèse de cette monographie est donc que l’agôn met en scène **une crise de l’imputation des effets de l’art**. Il est facile d’attribuer à un dramaturge les vertus ou les vices de toute une génération ; il est beaucoup plus difficile d’établir le chemin causal entre représentation, imitation, décision et institution. La comédie tire sa force de cet écart. Elle ne supprime pas l’ambition civique de la poésie, mais soumet à l’examen les pouvoirs exorbitants que poètes et spectateurs lui prêtent.
+
+### Convention documentaire
+
+**[A] Attesté** : proposition contrôlée dans un texte antique conservé, avec référence précise, ou donnée chronologique solidement établie. **[É] Philologie** : nuance de langue ou de tradition éditoriale établie sur le grec ; elle peut être discutée. **[I] Interprétation** : lecture argumentée, distincte des opinions nécessairement imputables à l’auteur antique. **[H] Hypothèse** : conjecture sur une réception, un décor, un effet historique, une allusion ou une causalité. **[P] Comparaison philosophique** : mise en regard heuristique avec un auteur postérieur ; aucune filiation n’est postulée. **[L] Limite** : absence de donnée ou désaccord qui interdit de conclure catégoriquement.
+
+Les citations grecques ponctuelles, les lemmes et les numéros de vers ont été contrôlés sur le texte des *Grenouilles* publié par Ad Fontes Library (https://adfonteslibrary.org/work-aristophanes-frogs), avec confrontation aux éditions de Kenneth J. Dover et d’Alan H. Sommerstein recensées ci-dessous. Les deux tragédies d’Eschyle ont été contrôlées à partir des éditions numérisées de Perseus et des transcriptions grecques indiquées en bibliographie. Les traductions françaises courtes proposées ici sont originales et explicitement analytiques : elles ne reproduisent pas de traductions récentes sous droit.
+
+---
+
+## I. En 405 : la scène, la cité, le siècle
+
+### 1. Le calendrier du spectacle n’est pas celui de la défaite [A/L]
+
+Les *Grenouilles* furent représentées en 405 avant notre ère, aux Lénéennes. Le public connaissait la guerre du Péloponnèse, la catastrophe de l’expédition sicilienne, les conflits constitutionnels de 411 et les procès des stratèges après les Arginuses (406). On ne peut cependant faire du désastre d’Aigos Potamos, survenu plus tard en 405, la cause immédiate de la conception ou de la première représentation de la pièce. Athènes entrevoit des périls majeurs sans connaître encore, à cette première date, la forme finale de sa défaite.
+
+Cette précision chronologique empêche une lecture téléologique : on ne peut pas déduire de la catastrophe ultérieure que chaque discours sur les marins de 405 constitue déjà la dernière leçon avant la capitulation. Le théâtre dramatise une inquiétude historique réelle, mais n’annonce pas une connaissance prophétique des événements. La reprise rapportée pour 404 dans la tradition antique n’autorise pas à reconstituer sans témoin toutes les modifications possibles du texte.
+
+### 2. Des dramaturges morts comme candidats au salut [A/I]
+
+Le concours aux Enfers suppose la mort d’Euripide et d’Eschyle ; la disparition récente de Sophocle constitue aussi l’arrière-plan du spectacle. Dionysos veut initialement ramener Euripide, dont il aime la poésie, puis accepte de juger la prétention respective des deux rivaux. La souveraineté littéraire se décide dans un lieu impossible : la mort ne met pas fin à la rivalité des modèles.
+
+Les chefs militaires et les institutions réelles restent hors de scène, alors que les poètes y deviennent disponibles pour juger les citoyens. Le dispositif déplace le problème du gouvernement : qui saurait encore rendre meilleure une cité éprouvée ? La réponse dramatique n’est pas prédéterminée par la réputation d’Eschyle. Dionysos change plusieurs fois de critère, et la coexistence de ses plaisirs et de ses devoirs demeure constitutive de l’intrigue.
+
+### 3. Le concours tragique comme pratique civique, non comme ministère [A/I]
+
+Les tragédies étaient représentées dans le cadre de festivals publics dionysiaques auxquels participaient des citoyens et d’autres spectateurs dont la composition exacte varie selon les fêtes et les discussions savantes. La cité organisait le concours, nommait des responsables et réglait une partie de ses conditions matérielles. Cela ne signifie pas qu’un dramaturge remplissait la fonction juridique d’un magistrat chargé de la formation civique.
+
+L’*agôn* fictif exploite une proximité réelle entre spectacle et communauté politique, mais il la pousse jusqu’à l’absurde en exigeant une comptabilité morale des effets de l’art. Le fait que la cité ait un intérêt dans le théâtre ne prouve pas qu’elle en maîtrise la signification. L’écart entre institution organisatrice et réception plurielle doit rester au centre de toute histoire de l’éducation démocratique.
+
+### 4. Une cité d’hoplites et de rameurs [A/I]
+
+Le langage militaire de l’agôn traverse les catégories de combattants. Casques, cuirasses, lances et boucliers renvoient au registre hoplitique ; le *Paralos* et les triérarchies renvoient à la puissance navale. Or, au tournant des Ve et IVe siècles, le conflit naval et les contributions financières nécessaires à l’entretien de la flotte sont indispensables à la guerre athénienne.
+
+La comédie ne juxtapose pas ces figures innocemment. Eschyle exalte une cité de guerriers qui disciplinent leurs paroles, mais son accusation atteint les rameurs et les riches chargés de financer les navires. Cela permet d’interroger la représentation idéalisée d’un citoyen exemplaire : est-il celui qui porte les armes, celui qui paie, celui qui obéit ou celui qui participe à la décision ? Les fonctions ne coïncident pas nécessairement.
+
+### 5. Ce que l’auteur et ses personnages ne partagent pas automatiquement [L]
+
+L’Eschyle des *Grenouilles* parle en compétiteur, l’Euripide de la pièce lui répond selon les exigences du jeu, Dionysos intervient comme juge et comme personnage comique. Aucun de ces discours ne peut être cité sans précaution comme opinion directe d’Aristophane, même lorsqu’il reprend une inquiétude de son époque.
+
+La question pédagogique reste néanmoins historiquement importante parce qu’elle est représentée comme intelligible pour des spectateurs attiques. Le texte atteste qu’on peut mettre à l’épreuve les poètes en leur demandant quels hommes ils fabriquent. Il n’atteste ni la distribution exacte des opinions dans le public ni les résultats empiriques des spectacles tragiques sur l’engagement militaire.
+
+## II. La question fondatrice : pourquoi admirer un poète ? (1008–1012)
+
+### 6. La violence d’une question d’apparence neutre [A/É]
+
+Eschyle demande : *τίνος οὕνεκα χρὴ θαυμάζειν ἄνδρα ποιητήν;* (*Grenouilles* 1008), soit, dans une traduction de travail : « Pour quelle raison faut-il admirer un poète ? ». Le verbe *thaumazein* appartient au champ de l’admiration ou de l’étonnement ; l’interrogation porte d’emblée sur une norme de jugement. Il ne demande ni quelle poésie touche davantage ni quel auteur remporte le concours selon une règle technique indépendante du contenu.
+
+L’adverbe interrogatif n’assure cependant pas qu’une seule réponse existe. La scène travaille précisément la pluralité des critères. La question permet à Eschyle de déplacer une discussion esthétique vers une enquête sur les effets attribués à la poésie.
+
+### 7. *Dexiotēs* : habileté, non garantie de vertu [É]
+
+La réponse d’Euripide commence par *δεξιότητος* (*dexiotētos*), la dextérité ou l’adresse du poète. Le mot ne signifie pas de lui-même « vertu morale ». Il qualifie une aptitude à bien faire quelque chose, potentiellement dans le domaine de la technique ou de l’intelligence pratique. L’art du poète possède une valeur distincte de ce qu’il communiquerait au public.
+
+La première faute d’une lecture trop moralisante serait donc de faire disparaître cette dimension technique. Euripide ne dit pas seulement que la poésie donne de bons conseils ; il la situe dans une pratique d’expression maîtrisée. La capacité de produire des effets peut être reconnue même si l’effet souhaitable reste discuté.
+
+### 8. *Nouthesia* : le conseil est plus qu’une information [É/I]
+
+La seconde qualité est *νουθεσίας* (*nouthesias*), qui relève de l’avertissement, de l’admonestation, de la mise en garde qui s’adresse à quelqu’un susceptible de mieux conduire sa vie. Cette forme de parole a une ambition éthique : elle ne décrit pas simplement le monde, elle intervient sur les attitudes.
+
+Il faut toutefois distinguer la proposition d’un conseil de son appropriation. On peut entendre un avertissement, le refuser, en tirer un usage contraire ou y réagir par la colère. La comédie donne au conseil une puissance revendiquée sans prouver sa maîtrise des conséquences. La *nouthesia* est une modalité de discours ; son effet reste une question ouverte.
+
+### 9. *Beltionas poiein* : « rendre meilleurs » n’est pas « commander » [A/É]
+
+Euripide ajoute que les poètes font des hommes « meilleurs dans les cités » : *βελτίους τε ποιοῦμεν / τοὺς ἀνθρώπους ἐν ταῖς πόλεσιν* (1009–1010). L’expression associe une transformation morale (*beltionas*) à une relation de fabrication (*poiein*), mais elle ne précise ni la méthode, ni le critère universel de progrès, ni le groupe empirique concerné.
+
+Le pluriel *poleis* interdit d’y lire sans examen une seule école officielle athénienne. Il élargit la prétention au monde des cités. Reste la question de ce que signifierait « mieux » pour des communautés en guerre. Une poésie qui pousse le combattant à la bravoure peut être revendiquée par les deux camps ; la même efficacité peut servir des causes incompatibles.
+
+### 10. Le piège de l’accord entre adversaires [A/I]
+
+Eschyle et Euripide conviennent en apparence que la poésie a des effets sur le caractère. Dès les vers 1010–1012, Eschyle inverse cet accord : si le successeur a rendu les hommes pires, la même théorie justifierait sa condamnation. L’évaluation devient juridiction. Dionysos répond par une surenchère de peine qui excède toute procédure de critique littéraire.
+
+Le comique naît aussi de l’absence de preuve : on passe de la possibilité d’un effet à l’assurance d’une responsabilité totale. La démonstration d’Eschyle comporte un présupposé moral fort et un déficit causal. Le spectateur peut partager certaines de ses préférences sans accepter son raisonnement comme un constat historique.
+
+## III. Une généalogie guerrière imaginée (1013–1025)
+
+### 11. *Chrēstoi*, *gennaioi*, *mochthēroi* : l’éthique comme opposition de générations [É]
+
+Dans sa comparaison, Eschyle oppose les hommes reçus jadis aux hommes produits plus tard : les premiers sont dits *χρηστοί* et *γενναῖοι*, les seconds *μοχθηρότατοι* (1011–1015). Les termes associent l’idée de valeur, de noblesse de caractère et de dégradation. Ils peuvent servir à classer des conduites, mais également à valoriser socialement une génération contre l’autre.
+
+Ce contraste fonctionne comme un récit de déclin. Il n’atteste pas une mesure historique des changements moraux intervenus entre Eschyle et Euripide. Le lexique est un matériau de polémique : il appelle le public à reconnaître l’infériorité du présent avant d’avoir défini les données permettant de la prouver.
+
+### 12. Les hommes « hauts de quatre coudées » [A/I]
+
+Aux vers 1013–1017, Eschyle décrit les citoyens de son époque comme exceptionnellement grands, belliqueux et couverts de panoplies. La formule des quatre coudées relève de l’hyperbole corporelle. Le brave homme est un corps qui déborde : casque, lance et bouclier deviennent ses attributs presque naturels.
+
+La caricature fragilise en même temps son argument. Une bravoure mesurée par la taille, l’épaisseur du bouclier et l’abondance des armes est volontairement excessive. Le spectacle ne nous invite pas nécessairement à admirer sans réserve ce costume monumental ; il nous montre un poète qui s’enivre de ses images.
+
+### 13. Les *sept peaux de bœuf* : poids matériel et mémoire héroïque [A/É]
+
+Le *thumos heptaboeios* (1017) renvoie à un cœur recouvert métaphoriquement de sept peaux de bœuf, image qui évoque le grand bouclier héroïque, notamment l’équipement de l’Ajax homérique. La valeur du courage est transposée dans l’épaisseur d’un objet défensif. Le corps politique semble formé par la matière épique.
+
+Cette métaphore relie la mémoire de l’*Iliade* à l’identité militaire qu’Eschyle revendique pour son théâtre. Elle brouille le partage entre l’armure réelle des soldats de 405 et les signes prestigieux d’un héroïsme plus ancien. La comédie peut exploiter le mélange sans proposer une reconstruction authentique de l’équipement hoplitique.
+
+### 14. Les interrup­tions de Dionysos : une évaluation sabotée [A/I]
+
+Au vers 1018, Dionysos interrompt l’accumulation en se plaignant des fabricants de casques, comme si Eschyle allait le harceler avec son équipement. Le dieu introduit une distance moqueuse au moment où l’orateur prétend transformer son souvenir en norme collective. Ses interjections produisent une seconde lecture parallèle à celle d’Eschyle.
+
+Cette fonction du juge est essentielle : sa moquerie ne résout pas le désaccord, mais empêche le discours de gagner sans résistance. La scène n’oppose donc pas un pédagogue sérieux à un rival sans vertu. Elle comporte un troisième personnage chargé de rendre visible l’excès de la pédagogie même.
+
+### 15. « D’où vient cette bravoure ? » : la causalité forcée [A]
+
+Euripide demande ce qu’Eschyle a effectivement fait pour instruire ces hommes (1019). Eschyle répond qu’il a produit une pièce « pleine d’Arès » et nomme les *Sept contre Thèbes* (1021). Ce dialogue impose une relation directe entre représentation et disposition des spectateurs à combattre. La preuve apportée est un titre de tragédie.
+
+Mais une œuvre qui représente la guerre ne rend pas nécessairement guerrier celui qui la voit. L’intensité de l’expérience esthétique ne se traduit pas sans médiations en habitude militaire. La comédie dramatise, dans l’écart entre la question et la réponse, la difficulté de contrôler les effets de l’art.
+
+### 16. Une tragédie thébaine qui rendrait les Thébains courageux [A/I]
+
+Eschyle affirme que quiconque a vu les *Sept* a désiré combattre. Dionysos réplique qu’il aurait ainsi renforcé les Thébains, c’est-à-dire précisément ceux qui se trouvent associés au camp ennemi dans l’imaginaire politique de la guerre. L’accusation se retourne contre le conseiller : un enseignement héroïque pourrait bénéficier à ceux que le spectateur veut vaincre.
+
+L’objection n’est pas un détail anecdotique. Elle sépare l’utilité morale supposée de l’utilité politique située. Une œuvre qui valorise la bravoure ne choisit pas nécessairement son bénéficiaire. L’idéal de formation proposé par Eschyle est universalisable en théorie, mais son efficacité alléguée devient dangereuse dans une cité engagée dans des conflits.
+
+### 17. *Daios einai* : l’ardeur n’est pas l’acte de combattre [É]
+
+La formule du vers 1022 exprime le désir d’être terrible ou belliqueux après avoir vu la pièce. *Erāsthai* marque un désir intense ; le texte ne prétend pas qu’une cohorte identifiable se serait effectivement distinguée sur un champ de bataille à cause de cette représentation. Une psychologie du désir est convertie par Eschyle en preuve d’utilité civique.
+
+Il faut séparer trois niveaux : la fiction attribue au spectacle une force affective ; l’orateur affirme que cet affect serait précieux ; l’historien, lui, ne dispose pas ici d’observation indépendante permettant de mesurer un recrutement, une victoire ou un changement durable de tactique militaire.
+
+## IV. Les *Sept contre Thèbes* contre leur propre résumé (467)
+
+### 18. Une œuvre attestée, une leçon simplifiée [A]
+
+Les *Sept contre Thèbes*, représentés en 467, sont conservés en substance dans une tradition textuelle qui demande des précautions pour certains passages finaux. La pièce met en scène le siège de Thèbes par l’armée argienne, la défense des sept portes et la décision d’Étéocle d’affronter son frère Polynice. Le vers 1021 des *Grenouilles* en donne un résumé agonistique : une œuvre « pleine d’Arès ».
+
+Ce résumé est un instrument de compétition, pas une analyse critique complète. Le texte tragique atteste la préparation militaire, mais il représente aussi la peur des civils et les conséquences destructrices d’une malédiction familiale. Une représentation de la guerre peut susciter fascination et désastre à la fois.
+
+### 19. L’attaque des Sept : serments de sang et violence rituelle [A]
+
+Dans *Sept*, 39–68, le messager rapporte le serment des sept chefs ennemis, qui sacrifient un taureau et jurent de détruire la cité ou de mourir. Le vocabulaire du sang et du serment fonde une image de bravoure guerrière qui ne coïncide pas avec une vertu modérée. L’ardeur des assaillants est menaçante pour Thèbes.
+
+Le rapprochement fait apparaître une difficulté du discours d’Eschyle dans les *Grenouilles*. La tragédie célèbre-t-elle réellement toute énergie martiale, sans distinguer l’agresseur du défenseur ? Les armes et l’assurance du guerrier ne suffisent pas à désigner le juste. La violence cérémonielle des ennemis montre qu’une forte détermination peut servir une cause destructrice.
+
+### 20. Étéocle comme chef : l’ordre civique et la peur [A/I]
+
+L’ouverture des *Sept* (1–38) présente Étéocle comme responsable de la cité, vigilant face au danger. Son langage met en avant la défense des murailles et la nécessité d’agir. Cette responsabilité peut sembler illustrer le citoyen discipliné vanté dans les *Grenouilles*.
+
+Pourtant Étéocle n’est pas un modèle univoque. Le pouvoir de commander est exposé à des présages, à la peur collective et à la malédiction paternelle. Sa décision de défendre la septième porte l’entraîne vers le combat fratricide. La vertu militaire y demeure tragiquement prise dans une histoire de parenté que la courageuse organisation des défenseurs ne résout pas.
+
+### 21. Le chœur des femmes et l’expérience du siège [A]
+
+Dans *Sept* 78–180, les femmes de Thèbes craignent l’attaque ; leur parole fait entendre la vulnérabilité de la communauté. Dans 181–287, Étéocle leur reproche l’effet perturbateur de leurs cris. Le conflit juxtapose une raison d’ordre militaire et une autre expérience, non moins réelle dans la fiction, de la guerre.
+
+Un lecteur qui réduirait la pièce à une école de discipline masculine supprimerait la contribution dramatique du chœur. Le spectateur voit des personnes dont le danger est concret mais dont la parole paraît politiquement encombrante. La tragédie donne ainsi à voir les coûts du langage de commandement autant que sa nécessité circonstancielle.
+
+### 22. Les boucliers, les emblèmes et l’art de décrire la force [A/É]
+
+Dans *Sept* 369–652, le messager décrit les adversaires successifs, leur allure et surtout les emblèmes peints ou figurés sur leurs boucliers. Étéocle répond par des choix de défenseurs et des interprétations qui retournent contre l’assaillant ses propres signes. La bataille devient déjà une lutte de paroles, de noms, de formes et d’interprétations.
+
+La disproportion avec le reproche d’Eschyle aux marins trop bavards est frappante. La pièce tragique elle-même consacre des centaines de vers à qualifier, interpréter et répondre, non à laisser parler seulement les armes. Il ne s’agit pas de dire que tout discours est équivalent : la scène oppose la parole performative du commandement à la parole arrogante des ennemis. Mais la formation guerrière ne peut pas se passer de langage.
+
+### 23. L’affrontement fratricide : l’héroïsme ne sauve pas tout [A/I]
+
+La rencontre entre Étéocle et Polynice est déterminée par la généalogie des Labdacides et les malédictions familiales ; les deux meurent dans le combat. La ville est sauvée, mais le dénouement ne produit pas une victoire sans perte. La tragédie donne simultanément un succès collectif et un effondrement dynastique.
+
+Ce dédoublement interdit une lecture propagandiste. Il est possible que la scène de guerre aide à concevoir la défense de la cité ; elle rappelle aussi qu’une résolution guerrière peut conduire à la disparition de celui qui l’incarne. Le brave citoyen d’Eschyle ne saurait être identifié mécaniquement au héros triomphant.
+
+### 24. La formation à la guerre est-elle formation au sacrifice ? [I]
+
+Une armée repose sur l’aptitude à affronter le danger et parfois à mourir. Mais une éducation qui ne transmettrait que la fascination pour la mort héroïque pourrait s’avérer destructrice pour la communauté qui la réclame. Les *Sept* montrent des héros du côté des assaillants et de la défense, tous exposés à une violence qui ne respecte pas les distinctions morales.
+
+La pièce permet donc de formuler une question exigeante : un théâtre apprend-il le courage lorsqu’il fait aimer la bataille ou lorsqu’il rend visible le prix de cet amour ? Dans cette seconde hypothèse, la peur et le deuil ne sont pas des faiblesses pédagogiques ; ils deviennent des éléments d’un jugement politique plus complet.
+
+## V. Les *Perses* : patriotisme, plainte de l’ennemi et chronologie (472)
+
+### 25. Deux dates que le discours comique remet en ordre [A/L]
+
+Les *Perses* furent représentés en 472, les *Sept contre Thèbes* en 467. Dans les *Grenouilles* (1021–1027), Eschyle évoque d’abord les *Sept*, puis les *Perses* dans une transition qui peut paraître narrative ou consécutive. On ne doit pas en déduire une chronologie de carrière à partir de la stratégie d’un personnage de comédie.
+
+Cette discordance est précieuse. Eschyle ne construit pas une autobiographie documentée ; il rassemble des titres selon la logique de son plaidoyer. Le premier est censé exciter le courage, le second célébrer la victoire. L’utilité morale revendiquée prime la chronologie historique.
+
+### 26. Une tragédie de Salamine vue de Suse [A]
+
+Les *Perses* représentent la réception, à la cour perse de Suse, de la catastrophe navale de Xerxès à Salamine (480). Le chœur rassemble des dignitaires âgés ; Atossa attend des nouvelles ; un messager expose la défaite et l’épouvante. Le choix dramatique du regard ennemi est décisif.
+
+Si la pièce a pu être appréciée à Athènes pour la mémoire des guerres médiques, son dispositif ne se réduit pas à une célébration des vainqueurs. Les Perses endeuillés prononcent de longs récits de souffrance. Il faut analyser cette focalisation avant de transformer la tragédie en instrument de recrutement guerrier.
+
+### 27. La lamentation du messager : la guerre comme perte [A]
+
+Dans *Perses* 249–289, le messager annonce l’effondrement de l’armée, avec une attention au coût humain et à la ruine d’une richesse impériale. Plus loin, le récit des combats fait entendre une victoire grecque filtrée par la voix du vaincu. Une lecture centrée uniquement sur la gloire d’Athènes manquerait cette structure de l’énonciation.
+
+Le spectateur peut éprouver une satisfaction patriotique et percevoir la fragilité du sort guerrier. L’une n’abolit pas l’autre. Cette double réception possible est justement ce que le personnage d’Eschyle simplifie dans les *Grenouilles*, lorsqu’il dit avoir enseigné le désir de toujours vaincre.
+
+### 28. Darius et la limite de la puissance [A]
+
+La scène du fantôme de Darius (*Perses* 681–786) place la défaite dans une réflexion sur l’expansion impériale, l’excès du pouvoir et les limites que la puissance humaine peut franchir. L’intervention du roi défunt n’est pas une instruction de combat ; elle propose des catégories religieuses et politiques pour comprendre un désastre.
+
+Le rapport entre grandeur et hubris ne peut pas être aplati en un slogan anti-perse. La tragédie met en scène un ordre du monde dans lequel l’accumulation du pouvoir peut produire les conditions de son effondrement. Une cité qui reçoit cette leçon ne devient pas simplement plus batailleuse : elle peut aussi devenir attentive aux dangers de la domination.
+
+### 29. Xerxès et l’inventaire des absents [A/I]
+
+La conclusion des *Perses* donne la place au retour lamentable de Xerxès et à l’énumération des hommes disparus. La liste des pertes produit une communauté de deuil du côté des vaincus. La présence prolongée du chœur oblige à entendre la défaite autrement que du seul point de vue militaire du vainqueur.
+
+Cette dramaturgie contredit la prétention d’un enseignement absolument univoque. Une œuvre peut être politiquement utile en rendant sensible l’humanité de l’ennemi, ou du moins le coût de sa disparition. Cela ne démontre pas que les Athéniens de 472 auraient éprouvé une compassion universelle. Le texte fournit le matériau de cette expérience possible ; la réception demeure à reconstruire prudemment.
+
+### 30. L’éloge d’un « exploit excellent » est-il adéquat ? [A/I]
+
+Eschyle dit avoir « orné une action excellente » (*Grenouilles* 1027), formule qui peut renvoyer à la victoire grecque contre les Perses. Il présente son œuvre comme l’équivalent esthétique d’un monument de mémoire. Le poète rend honneur à une action collective et revendique en retour une forme d’autorité civique.
+
+Mais la mémoire monumentale ne se confond pas avec l’ensemble de l’expérience dramatique. La tragédie conserve l’angoisse des Perses, la parole des conseillers et la fragilité d’une monarchie. Le caractère admirable de la victoire ne détermine pas toutes les émotions possibles de la représentation.
+
+## VI. Les maîtres avant les maîtres : Orphée, Musée, Hésiode, Homère (1030–1042)
+
+### 31. Le catalogue des poètes utiles [A]
+
+Dans *Grenouilles* 1030–1036, Eschyle invoque successivement Orphée, Musée, Hésiode et Homère. À chacun est attribué un champ d’enseignement : rites et éloignement des meurtres, guérisons et oracles, agriculture et saisons, tactique et vertus guerrières. Le catalogue construit une histoire des savoirs à travers des autorités poétiques anciennes.
+
+Ce classement est un argument énoncé dans la comédie. Il n’équivaut pas à une preuve documentaire que chaque personnage légendaire a introduit les pratiques correspondantes. La tradition attachée à Orphée et Musée est hétérogène, en partie mythique, et ne doit pas être traitée comme la biographie d’un instituteur historiquement attesté.
+
+### 32. Orphée contre la logique du guerrier sans scrupule [A/I]
+
+Le premier maître est crédité d’avoir montré des rites et enseigné à se tenir éloigné des meurtres. Le catalogue de l’éducation poétique commence ainsi par une limitation de la violence, non par sa célébration. Si l’on suit toute la série, la valeur du poète ne peut pas s’épuiser dans l’accroissement de la capacité à combattre.
+
+L’opposition est féconde : l’homme a besoin de savoir défendre la cité, mais aussi de reconnaître les gestes et les limites qui permettent la coexistence. Le discours d’Eschyle assemble ces valeurs sans expliciter toutes leurs contradictions. C’est précisément une tâche de la lecture critique que de ne pas laisser son enthousiasme militaire les faire disparaître.
+
+### 33. Musée et la connaissance incertaine [A/L]
+
+Musée apparaît comme autorité des remèdes et des oracles. La guérison et la divination relèvent de régimes de preuve différents ; leur voisinage dans le catalogue exprime la diversité de la sagesse poétique plutôt qu’une discipline scientifique unifiée. Rien ne permet d’en inférer un corpus stable dont tous les titres, dates et usages seraient assurés.
+
+La comédie peut jouer de cette accumulation comme d’un argument de prestige : plus la tradition est ancienne et variée, plus elle paraît autoriser le poète du présent. Mais l’ancienneté d’un nom n’établit pas l’efficacité empirique des pratiques qui lui sont attribuées.
+
+### 34. Hésiode : l’enseignement du temps de la terre [A]
+
+Le catalogue attribue à Hésiode la connaissance des saisons, du travail agricole et des semailles. On peut confronter cet éloge aux *Travaux et Jours* (notamment 383–617), où la mise au travail de la terre, les rythmes saisonniers et la réflexion sur la justice organisent la conduite humaine. Le poète ne produit pas ici un héros armé ; il transmet un savoir des limites du temps, du besoin et des conflits de propriété.
+
+L’opposition avec Homère signale plusieurs manières de rendre service à la communauté. Un imaginaire civique exclusivement militarisé aurait du mal à expliquer la place donnée à Hésiode. La qualité d’un poète dépend dans ce catalogue de l’adaptation du conseil à différents aspects de l’existence.
+
+### 35. Homère : les formations et les équipements [A]
+
+Eschyle explique la gloire d’Homère par sa capacité à enseigner les formations, les vertus et les armements des hommes (1034–1036). L’*Iliade* contient effectivement de nombreuses scènes d’armement et de combat, et la mémoire homérique demeure une référence pour la bravoure. Mais elle ne fournit pas un manuel tactique uniforme : elle montre aussi la colère d’Achille, les désaccords entre chefs, la perte de Patrocle et la vulnérabilité des combattants.
+
+La figure d’Homère est donc sélectionnée en fonction d’un usage. Le lecteur de l’épopée n’est pas obligé de réduire celle-ci à son contenu militaire. Le dialogue comique donne un exemple d’extraction idéologique d’une tradition qui conserve des éléments beaucoup plus contradictoires.
+
+### 36. Pantaclès : une erreur de casque contre toute une théorie [A/I]
+
+Dionysos évoque le personnage de Pantaclès, qui aurait mal assemblé son casque (1036b–1038). Cette anecdote comique ridiculise l’inférence selon laquelle l’enseignement homérique produirait infailliblement des soldats compétents. Un exemple d’incompétence suffit à troubler le discours d’un effet universel.
+
+L’épisode n’invalide pas nécessairement toute formation par l’épopée. Il fait apparaître la différence entre un modèle symbolique et la maîtrise effective d’un équipement. Lire Homère ne transmet pas par lui-même les gestes du combattant. De même, admirer une tragédie martiale n’assure ni le sang-froid ni la discipline du spectateur.
+
+### 37. Lamachos comme preuve instable [A/I]
+
+Eschyle cite ensuite Lamachos comme héros (1039). Or Aristophane avait pu en faire, dans les *Acharniens* de 425, une figure caricaturale du partisan de la guerre, opposée au plaisir pacifique de Dicéopolis. La contradiction apparente ne doit pas être résolue en supposant que l’auteur aurait simplement changé définitivement d’avis.
+
+Lamachos peut incarner courage et ridicule selon l’intrigue, le contexte et le point de vue mis en scène. Cette pluralité constitue une limite aux lectures biographiques des valeurs comiques. La comédie ancienne n’est pas tenue à une galerie d’individus jugés une fois pour toutes ; elle recompose leur fonction dans chaque expérience scénique.
+
+### 38. Patrocle et Teucros : deux figures non identiques [A/I]
+
+Aux vers 1040–1042, le poète évoque Patrocle et Teucros, personnages hérités de traditions héroïques, pour susciter le redressement du citoyen au son de la trompette. Le choix ne rassemble pas des figures sans nuances : le destin pathétique de Patrocle rappelle la mortalité héroïque, tandis que Teucros évoque d’autres formes de prouesse et d’appartenance.
+
+Le rapprochement sert à mettre le corps du citoyen dans la posture d’un héros. Mais il fait également entendre que les héros eux-mêmes vivent des conflits, des exclusions et des pertes. L’enseignement ne se réduit pas au courage : ce qu’un personnage apprend d’un mythe dépend du fragment qu’on lui présente.
+
+## VII. L’enseignement du bien et la censure du mal (1043–1062)
+
+### 39. Phèdre et Sthénébée, ou la scène comme responsabilité publique [A]
+
+Eschyle reproche à Euripide d’avoir porté sur scène des femmes amoureuses telles que Phèdre ou Sthénébée (1043–1052). Il prétend que ces récits auraient pu entraîner des comportements destructeurs. L’allusion renvoie à des mythes tragiques et à la représentation de passions dangereuses, non à une enquête statistique sur des femmes athéniennes.
+
+La revendication de ne pas montrer des femmes amoureuses est une affirmation du personnage comique ; elle ne se transpose pas mécaniquement à toute la tragédie d’Eschyle, notamment aux tensions sexuelles et familiales de l’*Orestie*. Il faut préserver la différence entre autopromotion compétitive et description exacte d’un corpus.
+
+### 40. Euripide rappelle que le récit n’est pas inventé [A]
+
+Euripide demande si l’histoire de Phèdre qu’il a présentée n’existait pas déjà dans la tradition (1052). Il répond à l’accusation par une question de fidélité à un matériau mythique. La possibilité de dire une réalité ou une tradition ne suffit cependant pas à Eschyle ; l’usage moral de ce qui est représenté est pour lui décisif.
+
+La scène met donc en conflit deux exigences : présenter les conduites humaines dans leur variété et choisir ce que le public devrait voir. La comédie n’établit pas une doctrine positive de la liberté artistique. Elle rend néanmoins visible l’asymétrie de pouvoir impliquée par l’idée que certains comportements doivent être cachés au motif qu’ils seraient imitables.
+
+### 41. *Apokryptein* : « cacher » le mal [É]
+
+Le verbe *ἀποκρύπτειν*, au vers 1053, désigne l’action de dissimuler. Eschyle ne se contente pas d’exiger une condamnation explicite des conduites mauvaises : il demande au poète de ne pas les faire paraître et de ne pas les enseigner. Le déplacement est considérable. Toute représentation d’un comportement nuisible pourrait se trouver soupçonnée de le transmettre.
+
+L’argument suppose une théorie d’imitation simple : montrer provoquerait le désir de faire. Or le théâtre peut également susciter répulsion, peur, réflexion ou distance ironique. La comédie n’offre pas une théorie expérimentale des publics, mais en présentant une demande de censure aussi massive, elle incite à en questionner les conséquences.
+
+### 42. Des maîtres pour les enfants, des poètes pour les jeunes hommes [A/É]
+
+Eschyle formule l’une des phrases les plus significatives de l’agôn : *τοῖσιν δ᾽ ἡβῶσι ποιηταί* (*Grenouilles* 1055), qu’on peut rendre par « pour ceux qui entrent dans l’âge adulte, les poètes ». Le contraste avec les enfants bénéficiant d’un maître donne au poète une fonction sociale qui dépasse la simple fabrication d’un spectacle.
+
+La traduction « enseignants des hommes » est commode mais peut effacer la nuance de l’âge. Le texte oppose les étapes de formation. Il ne décrit ni un programme scolaire institutionnel ni un cursus uniforme de citoyens. Il attribue aux poètes une puissance pédagogique générale dont la comédie examine ensuite les déformations.
+
+### 43. *Chrēsta legein* : qui décide du discours utile ? [É/I]
+
+Au vers 1056, l’expression *χρηστὰ λέγειν* peut se comprendre comme le devoir de dire des choses bonnes, utiles ou honnêtes. La valeur de *chrēstos* ne se laisse pas réduire à une morale moderne préexistante. Elle reste située : utile à qui, pour quelle cité, dans quelle guerre, à quel coût ?
+
+La question est d’autant plus pressante que les ennemis de la cité peuvent apprendre des tragédies le même courage. Les vertus politiques se montrent vulnérables à leur propre universalité abstraite. Un poète peut contribuer à une communauté sans pouvoir déterminer seul les conditions d’emploi de ses enseignements.
+
+### 44. *Megalai gnōmai* : grands mots, grandes pensées [A/É]
+
+Euripide se moque du style montagneux d’Eschyle, faisant surgir Lycabette et Parnasse (1056b–1058). Eschyle répond que les grandes idées exigent des mots d’une grandeur correspondante (1058b–1061). La querelle transforme le style en enjeu de vérité : la dignité du discours dépendrait de la dignité du sujet.
+
+Mais qui mesure cette dignité ? Un langage élevé peut éveiller l’admiration et produire la sensation du sérieux ; il peut aussi masquer une proposition fragile. Euripide réplique au nom d’une parole plus humaine et accessible. Le conflit n’est pas simplement entre une vertu noble et une rhétorique corruptrice : il porte sur les conditions stylistiques d’une compréhension partagée.
+
+### 45. Le vêtement héroïque : fiction et signes du rang [A/I]
+
+Eschyle prétend qu’il faut vêtir les demi-dieux de robes plus somptueuses que celles des hommes ordinaires (1060–1061). Le costume devient une extension du style : grandeur verbale et grandeur visuelle se renforcent mutuellement. À cette esthétique s’oppose l’usage euripidéen des haillons pour les rois et les héros déchus.
+
+Le vêtement tragique est ici un instrument de distinction. La représentation de la fragilité d’un roi risque de troubler la distance entre ceux qui possèdent les ressources et ceux qui manquent. Le poète prétend contrôler les effets sociaux du costume comme il contrôlait ceux du discours. C’est la transition vers le problème institutionnel des charges navales.
+
+## VIII. Des haillons royaux à la triérarchie (1063–1068)
+
+### 46. Quand l’apparence pauvre devient une stratégie de riche [A]
+
+Eschyle soutient que les riches, voyant des rois enveloppés de haillons sur scène, se présentent eux-mêmes sous des habits pauvres pour prétendre ne pas pouvoir exercer la triérarchie. La plainte est explicitement formulée aux vers 1063–1066, où apparaît le verbe *τριηραρχεῖν* (« exercer la triérarchie »). Le costume tragique serait devenu un manuel de fraude aux charges civiques.
+
+La scène n’atteste pas des fraudeurs nommément identifiables qui auraient invoqué une pièce d’Euripide. Elle atteste une accusation comique visant une pratique socialement intelligible : la possibilité pour une personne riche de mettre en scène son manque pour échapper à une obligation coûteuse.
+
+### 47. La triérarchie : service public et inégalité des ressources [A/I]
+
+À Athènes, la triérarchie est une charge imposée à certains citoyens riches pour l’équipement, le commandement ou le fonctionnement d’un navire de guerre selon des modalités évolutives. Elle appartient à un système de liturgies et d’obligations qui fait dépendre une partie de l’action publique des ressources privées des plus fortunés.
+
+La satire intervient donc sur un problème démocratique précis : comment rendre crédible le consentement de ceux qui doivent assumer une part particulière du coût collectif ? Le reproche n’est pas seulement moral ; il concerne l’information sur les patrimoines, le pouvoir de se soustraire à une nomination et la visibilité publique de l’effort financier.
+
+### 48. Les haillons comme faux document [I]
+
+Le costume du pauvre devient, dans le raisonnement d’Eschyle, une pièce justificative. Il prétend faire croire que son porteur manque des moyens nécessaires. La comédie anticipe une question générale sans proposer de réforme fiscale : quelles preuves sont nécessaires lorsqu’un citoyen affirme que sa fortune ne lui permet pas d’accomplir une charge ?
+
+On ne saurait déduire qu’une inspection de vêtements suffisait juridiquement à lever la triérarchie. La plaisanterie exploite l’écart entre signes et réalité. Elle dénonce une économie politique dans laquelle les apparences peuvent être utilisées pour produire une croyance avantageuse.
+
+### 49. Dionysos complète la fraude [A]
+
+Dionysos ajoute qu’un homme qui feint la pauvreté peut porter en dessous de ses haillons un vêtement de laine de qualité, puis se retrouver au marché au poisson après avoir obtenu satisfaction (1067–1068). La remarque signale deux niveaux d’apparence : le visible destiné aux autorités et le confort maintenu en secret.
+
+C’est une mini-enquête sur la mise en scène de la pauvreté. L’humour naît d’une connaissance sociale du luxe dissimulé et de la consommation recherchée. Le personnage de Dionysos, si incertain dans ses critères littéraires, se montre ici attentif à une contradiction tangible du comportement public.
+
+### 50. Relire les rois pauvres sans condamner leur représentation [I]
+
+Une tragédie mettant en scène un roi en détresse peut susciter compassion, conscience de la fragilité de la puissance ou interrogation sur le destin. Eschyle ramène toute cette pluralité à un seul dommage : le mensonge des riches. L’analyse de cette réduction est une manière de questionner la causalité moraliste.
+
+Il faudrait établir indépendamment les règles de triérarchie, les pratiques d’évasion de charges et la réception des pièces d’Euripide pour produire une histoire sociale complète. Le discours d’Eschyle fournit un indice de la visibilité du problème, non une démonstration que l’art dramatique en est la cause principale.
+
+## IX. Des jeunes bavards aux rameurs du *Paralos* (1069–1076)
+
+### 51. *Lalia* et *stōmylia* : parler n’est pas toujours délibérer [A/É]
+
+Eschyle accuse Euripide d’avoir enseigné la *λαλιά* et la *στωμυλία* (1069), paroles intarissables et bavardage. Ces termes peuvent dévaloriser l’usage excessif de la voix, mais ils n’établissent pas à eux seuls que le contenu des paroles était faux. La rhétorique du déclin transforme une activité en défaut collectif.
+
+Le grief renvoie à l’apprentissage du raisonnement, à la dispute et à la concurrence des styles de parole. Il faut distinguer une langue déliée, l’argumentation dans une institution délibérative et l’insubordination pendant une manœuvre navale. Eschyle les rapproche pour construire une chaîne accusatoire ; l’historien doit la désassembler.
+
+### 52. La palestre déserte et la force des jeunes [A/I]
+
+Le discours affirme que la prolifération des discussions a vidé les palestres. La comparaison oppose l’entraînement physique et les exercices de parole, mais la réalité historique ne permet pas de déduire du passage que les activités physiques de jeunesse se seraient effondrées sous l’influence des tragédies.
+
+La comédie active un stéréotype sur les générations : auparavant les jeunes s’exerçaient, maintenant ils discourent. Cette opposition est persuasive parce qu’elle dramatise un choix de culture. Une formation civique ne se réduit pourtant ni au corps athlétique ni au discours interminable ; elle doit articuler des savoir-faire différents.
+
+### 53. Les marins du *Paralos* : l’identité d’un groupe [A/É]
+
+Eschyle cite les *Paraloi* (1071–1072), qui répondraient désormais à leurs commandants. L’expression est associée au *Paralos*, navire d’État athénien et à ses personnels, mais le vers ne transmet aucune liste de marins ni aucun incident administratif circonstancié dont les détails seraient vérifiables.
+
+La référence est pourtant politiquement précise : la marine est un milieu d’obéissance technique où les ordres doivent être exécutés, mais également un espace civique traversé par des positions démocratiques et des conflits de pouvoir. Le choix de marins plutôt que de fantassins fait entrer au cœur de l’agôn la question de l’autorité dans une flotte largement dépendante des rameurs.
+
+### 54. *Antagoreuein* : répondre à l’autorité [É/I]
+
+Le grec *ἀνταγορεύειν* désigne l’action de répondre, de parler en opposition. Dans la bouche d’Eschyle, ce comportement est présenté comme un dommage : les marins contredisent leurs supérieurs. Mais une parole d’opposition n’a pas la même valeur lorsqu’elle empêche une manœuvre urgente et lorsqu’elle signale une faute, un abus ou une décision arbitraire.
+
+La comédie ne livre pas le contenu précis de la réplique des marins, et l’on doit refuser de conclure d’avance à une insubordination coupable. Le reproche révèle plutôt une conception hiérarchique de la bonne conduite : l’homme discipliné ne questionne pas les ordres. Ce modèle peut être nécessaire dans certaines actions collectives sans constituer une éthique politique générale.
+
+### 55. Les rameurs et le rythme : *rhypapai* [A/I]
+
+La plaisanterie du vers 1073 ramène la compétence ancienne des marins à des paroles élémentaires, notamment l’appel à la ration et le cri de rythme *ῥυππαπαῖ*. La réduction fait d’eux des corps opératoires capables d’effort mais privés d’initiative discursive. Un savoir essentiel à la flotte est présenté comme un savoir rudimentaire parce qu’il ne ressemble pas à la parole du citoyen cultivé.
+
+La caricature est paradoxale pour une démocratie maritime. Une cité peut dépendre de ceux dont elle dévalue le langage. La comédie permet de faire apparaître cette contradiction sans offrir un programme d’égalité sociale ou militaire. Le spectateur peut rire du marin bavard tout en sachant que son endurance est indispensable.
+
+### 56. L’instruction militaire et l’égalité politique ne se recouvrent pas [I]
+
+La discipline d’un équipage a des exigences techniques. La démocratie, quant à elle, donne aux citoyens des droits et des procédures de participation qui ne peuvent être identifiés à la hiérarchie d’un navire. Dans la cité, contester une proposition est parfois une condition du jugement ; dans une manœuvre, l’obéissance rapide peut être nécessaire à la sécurité.
+
+Le reproche d’Eschyle brouille ces niveaux et transforme l’activité de répondre en faute générale. C’est une source remarquable pour réfléchir à la tension entre participation politique et subordination fonctionnelle. Mais elle ne nous autorise pas à supposer que les marins du *Paralos* étaient réellement devenus incapables d’exécuter les ordres de leurs officiers.
+
+### 57. Représentation, imitation, comportement : trois médiations manquantes [I]
+
+Pour attribuer les difficultés navales à Euripide, il faudrait démontrer qu’une œuvre a été vue, que son contenu a été compris dans le sens supposé, puis que le comportement militaire des spectateurs en a été durablement transformé. Le dialogue saute d’une scène à l’autre de cette chaîne. Le saut est un puissant effet polémique, mais c’est aussi l’endroit où l’historien doit suspendre son assentiment.
+
+Ce n’est pas nier les effets sociaux de l’art. C’est refuser que la possibilité de ces effets soit traitée comme leur mesure. La comédie offre une expérience réflexive : un poète de théâtre fait accuser un autre poète de modifier les mœurs, devant un public que le premier cherche simultanément à influencer par le rire.
+
+## X. Le paradoxe du poète : éduquer les hommes en les faisant rire
+
+### 58. *Didaskō* : produire une pièce, instruire une cité [É]
+
+Le champ de *διδάσκειν* peut concerner l’enseignement ordinaire, mais la langue du théâtre emploie aussi des mots de cette famille pour désigner la mise en scène ou la présentation d’œuvres dramatiques. La proximité lexicale entre « faire représenter » et « enseigner » permet des rapprochements, sans supprimer la distinction entre les activités.
+
+Dans l’agôn, Eschyle revendique une fonction sociale de transmission par le spectacle. La comédie produit alors un double miroir : l’enseignement allégué de la tragédie est lui-même présenté par une pièce qui pourrait prétendre instruire ses spectateurs. Rien ne garantit cependant que ceux-ci accepteront la leçon proposée.
+
+### 59. L’échec de l’instruction n’est pas l’absence de valeur esthétique [I]
+
+Même si l’on démontrait qu’une représentation n’a pas rendu son public moralement meilleur, il resterait à examiner sa puissance de forme, de rythme, de reconnaissance et de pensée. Euripide fait valoir l’habileté avant le conseil. La compétition ne permet pas à l’un des critères de supprimer définitivement l’autre.
+
+Cette pluralité explique la difficulté finale de Dionysos, qui finit par choisir sans obtenir une mesure stable de toutes les qualités. Le concours des poètes peut avoir une portée politique et conserver une dimension esthétique irréductible à l’efficacité d’un décret.
+
+### 60. Qui serait comptable des effets ? [I]
+
+Une œuvre passe de la conception de l’auteur au corps des acteurs, à la représentation publique, à la mémoire des spectateurs et à leurs décisions futures. Toute attribution de responsabilité à l’écrivain doit traverser ces médiations. L’Eschyle comique les supprime en traitant la foule comme l’argile du poète.
+
+C’est ici que la critique politique de l’art devient problématique. Si le poète est tenu responsable de toute conduite susceptible d’être imitée, il devra renoncer à représenter les conflits les plus nécessaires à la connaissance de la cité. Mais si l’on nie toute responsabilité, on efface la puissance réelle des imaginaires publics. La comédie expose la tension, non sa résolution administrative.
+
+### 61. Ce que l’humour fait à l’autorité [I]
+
+Dionysos interrompt, caricature, relaie les accusations puis se perd dans des problèmes de décision. Son jeu de juge fait apparaître l’autorité littéraire comme une construction négociée. Celui qui paraît tenir le critère peut être déplacé par une plaisanterie. Le rire n’abolit pas nécessairement la hiérarchie des œuvres ; il rappelle que cette hiérarchie a besoin d’une scène, d’un public et de justifications.
+
+La dimension métathéâtrale empêche de traiter les *Grenouilles* comme une directive adressée aux responsables de l’instruction militaire. Elle propose au contraire une série d’essais où les critères d’excellence se révèlent partiels et contestables.
+
+## XI. Comparaisons philosophiques contrôlées
+
+### 62. Platon : une analogie rétrospective, non une source pour 405 [P/L]
+
+Dans la *République* II–III (notamment 377b–383c et 386a–392a), Platon soumettra la poésie à un examen portant sur les récits convenables à l’éducation des gardiens. Le rapprochement avec Eschyle est clair : la représentation du mal peut apparaître dangereuse pour des hommes en formation. Mais Platon rédige après le spectacle de 405 et construit une cité théorique de nature différente.
+
+La comparaison ne prouve ni que Platon tire sa politique des poètes d’Aristophane ni que les Athéniens de 405 détenaient un programme officiel de censure comparable. Elle permet de rendre visible une question durable : qui doit choisir les récits lorsqu’un pouvoir politique attribue à la fiction la formation des caractères ?
+
+### 63. Aristote : imitation, compréhension et plaisir [P]
+
+Dans la *Poétique* (notamment 1448b et 1451b), Aristote examinera l’imitation et les opérations de connaissance qu’elle rend possibles. Ses analyses rappellent que voir une action représentée n’équivaut pas à l’adopter comme règle personnelle. Le plaisir de reconnaître et de comprendre peut porter sur des actes que l’on ne souhaite pas accomplir.
+
+Il serait anachronique d’utiliser Aristote comme témoin direct des réactions du public des *Grenouilles*. Mais ses distinctions éclairent rétrospectivement la faiblesse de l’argument qui fait de toute figure représentée un ordre d’imitation.
+
+### 64. Hegel : l’art entre l’universel et le particulier [P]
+
+La *Phénoménologie de l’esprit* (1807), dans le développement sur la religion de l’art et la comédie, met en jeu les rapports entre formes collectives, figures de divinité et autonomie de la conscience. Le poète n’y est pas simplement un précepteur des futurs combattants. L’art dramatique offre une scène où les puissances et les individus deviennent visibles dans leur contradiction.
+
+On peut confronter cette conception à l’agôn : Eschyle veut que le particulier d’un spectacle produise une vertu commune, mais son raisonnement s’expose à la singularité des personnages et à la pluralité des publics. Hegel fournit un cadre pour penser cette médiation ; il ne livre pas une explication documentaire de la politique athénienne de 405.
+
+### 65. Nietzsche : Euripide, Socrate et la tentation du récit de décadence [P]
+
+Dans *La Naissance de la tragédie* (§§ 11–15), Nietzsche interprète Euripide comme un acteur décisif d’une transformation rationalisante du théâtre, qu’il rapproche de Socrate. Cette lecture partage avec le personnage d’Eschyle un récit de rupture et de déclin : autrefois la tragédie aurait possédé une puissance que les formes nouvelles mettent en péril.
+
+La convergence est philosophique, non historique au sens strict. Nietzsche n’est pas témoin du Ve siècle ; son projet et sa critique de la modernité transforment les matériaux antiques. Il serait naïf d’employer son diagnostic comme preuve qu’Euripide avait réellement rendu les marins bavards, les riches fraudeurs ou les citoyens moins courageux.
+
+### 66. Nietzsche : la grandeur guerrière n’est pas le dionysiaque [P/I]
+
+Le langage colossal qu’Eschyle revendique pourrait séduire une lecture romantique de la grandeur tragique. Pourtant Nietzsche distingue les puissances de forme, de musique, de souffrance et de désindividuation qui composent son interprétation de la tragédie. Réduire l’élément dionysiaque à l’enthousiasme guerrier ferait perdre la complexité de son esthétique.
+
+Les *Perses* montrent précisément combien la catastrophe ennemie peut devenir expérience de perte. La souffrance mise en forme ne sert pas uniquement à exalter le vainqueur. La confrontation Nietzsche–Aristophane est donc utile surtout lorsqu’elle résiste aux slogans du déclin.
+
+### 67. Vernant : la tragédie dans la cité n’est pas un cours de civisme [P]
+
+Jean-Pierre Vernant, notamment avec Pierre Vidal-Naquet dans *Mythe et tragédie en Grèce ancienne*, a souligné que la tragédie met en tension les codes héroïques et les catégories de la cité. Cette perspective est particulièrement utile aux *Sept* : Étéocle doit commander, mais il est aussi pris dans une malédiction familiale ; le chœur fait entendre l’expérience des personnes exposées au siège.
+
+Le théâtre peut alors participer à une réflexion civique sans inculquer une morale unique. L’apport de Vernant consiste ici à conserver le conflit des codes et des positions, plutôt qu’à assimiler les tragédies à des manuels militaires. Le rapprochement ne signifie pas qu’il aurait commenté exactement chacun des vers retenus dans cette étude.
+
+### 68. Détienne : les maîtres de vérité et la qualification de la parole [P]
+
+Marcel Détienne a étudié, dans *Les Maîtres de vérité dans la Grèce archaïque*, des configurations anciennes de parole autorisée liées au poète, au devin et au souverain. Il serait incorrect de transporter directement ces figures à l’agôn comique de 405, où les rapports à l’écriture, à la scène et au public ont profondément changé.
+
+La comparaison indique cependant que la puissance du poète dépend de la manière dont une communauté reconnaît son discours. Eschyle s’autorise des grands ancêtres et de ses succès supposés ; Euripide revendique l’adresse et la parole familière ; Dionysos cherche à départager des prétentions concurrentes. La vérité d’un discours n’est jamais garantie par le prestige de celui qui le prononce.
+
+### 69. Rosen et la tradition du concours des poètes [A/P]
+
+Ralph M. Rosen, dans « Aristophanes’ Frogs and the Contest of Homer and Hesiod » (*Transactions of the American Philological Association* 134.2, 2004, 295–322), discute la pertinence d’une lecture qui ferait du choix final de Dionysos une simple victoire de la moralisation. Il rapproche les *Grenouilles* de la tradition du concours entre Homère et Hésiode et insiste sur le jeu intertextuel et esthétique.
+
+Cette recherche invite à ne pas confondre la revendication pédagogique d’Eschyle avec la signification assurée du dénouement. L’étude présente ici l’argument général de Rosen vérifié dans son résumé et ses pages consultables ; elle ne lui attribue pas de commentaire spécifique sur chaque détail philologique du présent corpus.
+
+### 70. Pucci : quelle sorte d’enseignement peut produire une tragédie ? [A/P]
+
+Pietro Pucci pose expressément, dans « Euripides and Aristophanes: What Does Tragedy Teach? » (2007), la question de la *didaskalia* tragique et de l’échange entre poètes au début du segment analysé. Sa problématique permet de distinguer les conduites que le poète prétend produire des expériences que la tragédie rend possibles.
+
+La notice éditoriale consultée donne le titre, l’auteur, l’ouvrage collectif et les pages 105–126 ; elle ne donne pas accès à une lecture intégrale de l’article. Il serait donc abusif de présenter ici comme vérifiées des interprétations fines qui ne figurent pas dans les éléments accessibles.
+
+### 71. Schmitz : le texte tragique entre performance et lecture [A/P]
+
+Thomas A. Schmitz, « Aristophanes’ Frogs and reading culture in Athens » (*Journal of Hellenic Studies*, en ligne le 27 septembre 2023), analyse la pièce comme un témoin d’une transformation de la réception des textes tragiques et des conditions de leur canonisation. Les morts d’Euripide et de Sophocle, et l’essor d’une culture de lecture, rendent possible une nouvelle manière de comparer les œuvres.
+
+Cette piste enrichit le présent dossier : quand le poète devient auteur canonique et non seulement producteur d’une performance ponctuelle, sa prétention à former la cité peut être réexaminée à partir de lectures répétées, de livres et de mémoires. Il faut toutefois éviter de postuler que chaque spectateur athénien possédait des exemplaires des tragédies, ou que la culture écrite avait remplacé la représentation théâtrale dès 405.
+
+## XII. Contre-thèses et contrôle des inférences
+
+### 72. Contre-thèse : Eschyle serait simplement le porte-parole d’Aristophane [L]
+
+La scène donne à Eschyle des arguments puissants, mais Dionysos le contredit, la chronology des titres sert une rhétorique non archivistique et les œuvres conservées débordent les valeurs qu’il leur assigne. Une identification directe entre le personnage et l’auteur effacerait le travail de composition comique.
+
+On peut constater que la pièce rend séduisante l’autorité d’un poète ancien sans prouver que l’ensemble de son discours doive être accepté. La concurrence dramatique est précisément un lieu où un argument peut être efficace, drôle et excessif à la fois.
+
+### 73. Contre-thèse : la comédie nierait tout enseignement poétique [I/L]
+
+Le fait que les prétentions d’Eschyle soient ridiculisées ne signifie pas que l’art serait dépourvu d’effets. Les émotions collectives, les mémoires des guerres, les exemples héroïques et les modèles de parole ont vraisemblablement contribué aux conversations civiques. L’objection vise le passage sans preuve d’une possibilité à une causalité totale.
+
+L’enseignement artistique est plus difficile à isoler que la mise en œuvre d’une règle institutionnelle. La comédie permet de concevoir un pouvoir de formation sans l’ériger en mécanisme assuré ni lui attribuer une volonté unique.
+
+### 74. Contre-thèse : les *Sept* et les *Perses* auraient pour seul sens la guerre [A/L]
+
+La peur du chœur thébain, le fratricide, la catastrophe perse et le deuil collectif résistent à une réduction des tragédies en exhortations martiales. Les œuvres peuvent être reçues patriotiquement sans cesser de rendre sensible le coût de la violence.
+
+Cette objection ne détruit pas l’importance de la mémoire militaire. Elle oblige à comprendre la force du spectacle comme la mise en forme de contradictions : défense et destruction, gloire et perte, commandement et peur, victoire et ruine des peuples.
+
+### 75. Contre-thèse : les marins qui répondent à leurs chefs seraient forcément indisciplinés [I/L]
+
+Le mot *antagoreuein* est incriminé par un personnage partisan de la discipline. Il ne fournit ni contexte opérationnel précis ni transcriptions d’ordres discutés. Selon la situation, répondre peut signifier désobéir, informer ou contester légitimement une décision.
+
+Une histoire sérieuse de la marine athénienne ne saurait construire le portrait moral des rameurs à partir de cette accusation seule. Ce que le texte atteste est une peur ou une moquerie de la parole subalterne, non un effondrement démontré de l’efficacité des équipages.
+
+### 76. Contre-thèse : la triérarchie aurait été réellement ruinée par les costumes d’Euripide [I/L]
+
+La plaisanterie sur les haillons touche une question de contrôle des fortunes, mais elle n’établit aucun lien statistique entre le répertoire tragique et les refus de liturgie. Les difficultés de financer la flotte ont de multiples causes juridiques, économiques et militaires.
+
+Le texte est utile comme trace d’une représentation polémique des riches qui prétendent manquer de ressources. Il ne remplace ni les inscriptions fiscales, ni les plaidoyers judiciaires, ni l’étude comparée des obligations de guerre.
+
+### 77. Contre-thèse : les enfants, les femmes et les non-citoyens seraient sans rôle dans l’éducation de la cité [I]
+
+Le discours d’Eschyle sélectionne les hommes qu’il souhaite former et donne une place défavorable à certains sujets féminins de tragédie. Mais la polis n’est pas constituée exclusivement des hommes qui votent ou combattent ; son économie, sa mémoire religieuse et ses représentations exigent une pluralité de contributions.
+
+Le chœur féminin des *Sept* et le chœur perse invitent justement à écouter d’autres voix que celles des soldats vainqueurs. On ne peut pas en tirer une théorie féministe antique explicite d’Eschyle, mais on peut corriger l’image d’un théâtre dont l’unique finalité serait d’entraîner des citoyens masculins aux armes.
+
+### 78. Les publics et les réceptions ne sont pas reconstruits une fois pour toutes [L]
+
+Nous connaissons les textes, des notices de concours et des traditions postérieures. Nous ne disposons pas d’enregistrements des réactions des spectateurs ni d’enquêtes sur la réception sociale des deux tragédies. Un même spectacle pouvait susciter des jugements divergents selon les fortunes, les générations, les affinités politiques ou les expériences de guerre.
+
+Toute formule sur « ce que les Athéniens pensaient » doit être proportionnée aux preuves. Le poète comique parle au public ; il ne parle pas nécessairement pour tous ses membres. La distance entre audience réelle et audience implicite reste une limite irréductible.
+
+## XIII. Grille philologique et épistémologique récapitulative
+
+| Expression ou scène | Référence primaire | Fait attesté | Portée et limite |
+|---|---|---|---|
+| *dexiotēs*, *nouthesia* | *Grenouilles* 1008–1010 | Euripide relie adresse et conseil | [A/É] Ne mesure pas l’effet réel |
+| *beltionas poiein* | *Grenouilles* 1009–1010 | Prétention à rendre meilleurs les hommes | [A/É] Critère du mieux non défini |
+| *chrēstoi*, *gennaioi* | *Grenouilles* 1011–1017 | Opposition morale des générations | [A/I] Rhétorique de déclin |
+| *Sept contre Thèbes* | *Grenouilles* 1021–1025 | Exemple d’œuvre remplie d’Arès | [A] Effet des spectateurs allégué |
+| *Perses* | *Grenouilles* 1026–1029 | Exemple de mémoire victorieuse | [A] Ne rend pas toute la tragédie |
+| Orphée, Musée, Hésiode, Homère | *Grenouilles* 1030–1042 | Catalogue des savoirs poétiques | [A/L] Généalogie revendiquée |
+| Phèdre et Sthénébée | *Grenouilles* 1043–1053 | Accusation de mise en scène du mal | [A] Réception non documentée |
+| *apokryptein* | *Grenouilles* 1053–1054 | Appel à dissimuler le mal | [É/I] Principe de représentation contesté |
+| *toisin hēbōsi poiētai* | *Grenouilles* 1055 | Poètes comme maîtres des jeunes adultes | [A/É] Aucun cursus officiel établi |
+| *trierarchein* | *Grenouilles* 1065 | Riches prétendant être pauvres | [A] Causalité théâtrale non prouvée |
+| *antagoreuein* | *Grenouilles* 1072 | Rameurs répondant aux chefs | [A/É] Cas pratique non précisé |
+| *Sept* 39–68, 181–287, 653–719 | Tragédie conservée | Serment guerrier, peur, fratricide | [A] Résiste à un simple éloge de guerre |
+| *Perses* 249–289, 681–786, 908–1077 | Tragédie conservée | Catastrophe, Darius, lamentation | [A] Résiste à l’exclusivité patriotique |
+| Hegel, Nietzsche, Vernant, Détienne | Études postérieures | Instruments de comparaison | [P] Aucune preuve antique supplémentaire |
+
+## XIV. Bibliographie analytique, sources vérifiées et limites d’accès
+
+### A. Sources primaires et éditions
+
+**Aristophane, *Grenouilles* (*Batrachoi*)** : corpus principal 1004–1076, contrôles 910–968, 1108–1118 et 1364–1468. Texte grec numéroté accessible dans Ad Fontes Library : https://adfonteslibrary.org/work-aristophanes-frogs . Confronter également les éditions savantes suivantes. Les lemmes grecs reproduits dans cette monographie proviennent des passages directement examinés ; les traductions françaises sont de travail et non des citations d’une version française contemporaine.
+
+**Eschyle, *Sept contre Thèbes*** : prologue 1–77 ; parodos 78–180 ; confrontation Étéocle-chœur 181–287 ; descriptions des combattants et décisions 369–719 ; messager et deuil 792–1010. Édition H. W. Smyth, *Aeschylus*, Loeb Classical Library, 1922, texte grec accessible via Perseus : https://atlas.perseus.tufts.edu/library/urn:cts:greekLit:tlg0085.tlg004/ ; repères philologiques vérifiables aussi dans le lecteur de Furman University : https://folio.furman.edu/dramaturg/Aeschylus_Seven/pages/chunk_002.html .
+
+**Eschyle, *Perses*** : 1–64, 249–289, 353–514, 681–786, 908–1077. Texte grec et traduction alignée dans Ad Fontes Library : https://adfonteslibrary.org/work-aeschylus-persians . Traduction historique de Robert Potter consultable dans Internet Classics Archive : https://classics.mit.edu/Aeschylus/persians.html . Les dates de représentation retenues sont 472 (*Perses*) et 467 (*Sept*) avant notre ère.
+
+**Hésiode, *Travaux et Jours***, spécialement 383–617 : savoir agricole, cycles et éthique du travail. **Homère, *Iliade***, scènes d’armement et du destin de Patrocle : documents de comparaison à l’éloge homérique formulé aux vers 1034–1042 des *Grenouilles*. Les parallèles établissent des possibilités de lecture, non une influence individuelle prouvée sur un spectateur de 405.
+
+**Platon, *République* II–III**, 377b–383c et 386a–392a ; **Aristote, *Poétique*** 1448b et 1451b : comparaisons de théorie mimétique et de régulation des récits, postérieures à Aristophane. Aucun de ces textes n’est présenté comme une loi athénienne du Ve siècle.
+
+### B. Philologie et histoire du concours comique
+
+**Dover, Kenneth J.**, éd., *Aristophanes: Frogs*, Oxford, Clarendon Press, 1993. Édition commentée du texte et référence pour les difficultés d’interprétation de l’agôn.
+
+**Sommerstein, Alan H.**, éd., *Aristophanes: Frogs*, série Aris & Phillips Classical Texts, 1997 selon la notice éditoriale JSTOR : https://www.jstor.org/stable/jj.38238769 . Ouvrage de référence sur la dramaturgie et les problèmes politiques de la pièce.
+
+**Rosen, Ralph M.**, « Aristophanes’ Frogs and the Contest of Homer and Hesiod », *Transactions of the American Philological Association*, 134.2 (2004), 295–322, DOI : 10.1353/apa.2004.0015. Version d’auteur : https://ccat.sas.upenn.edu/~rrosen/publications/documents/Frogs-Certamen.pdf . Son argument remet en question l’identification du choix d’Eschyle à un simple triomphe du moralisme. Le rapprochement avec le *Certamen* ne résout pas toutes les questions sur l’éducation militaire.
+
+**Pucci, Pietro**, « Euripides and Aristophanes: What Does Tragedy Teach? », dans *Visualizing the Tragic: Drama, Myth, and Ritual in Greek Art and Literature: Essays in Honour of Froma Zeitlin*, Oxford University Press, 2007, p. 105–126, DOI 10.1093/oso/9780199276028.003.0005. **Contrôle :** notice et résumé bibliographique disponibles ; texte intégral non vérifié dans cette séance. Les hypothèses détaillées de l’auteur ne lui sont pas attribuées sans lecture.
+
+**Schmitz, Thomas A.**, « Aristophanes’ Frogs and reading culture in Athens », *The Journal of Hellenic Studies*, publication en ligne du 27 septembre 2023, DOI 10.1017/S0075426923000691, https://www.cambridge.org/core/journals/journal-of-hellenic-studies/article/aristophanes-frogs-and-reading-culture-in-athens/403C0739164E66D33074B82654199EAA . Recherche sur la constitution d’un canon, la mémoire du théâtre et la lecture des œuvres.
+
+**Burges Watson, Sarah**, « Aeschylus: A Guide to Selected Sources », projet universitaire *Living Poets*, Durham, https://livingpoets.awh.durham.ac.uk/w/index.php/Aeschylus:_A_Guide_to_Selected_Sources . Référentiel critique pour la biographie, les témoignages et la construction postérieure de l’image héroïque d’Eschyle ; distingue les sources tardives et les traditions incertaines.
+
+### C. Philosophie et anthropologie des pratiques grecques
+
+**Hegel, Georg Wilhelm Friedrich**, *Phénoménologie de l’esprit* (1807), section « Religion de l’art » et transition vers la comédie ; *Leçons d’esthétique*, développements consacrés au tragique, aux conflits des puissances éthiques et à l’histoire de l’art. Le rapprochement avec les critères du concours est interprétatif, non un commentaire grec direct.
+
+**Nietzsche, Friedrich**, *La Naissance de la tragédie* (1872), §§ 11–15 sur Euripide, Socrate et le problème de la rationalisation du tragique. Texte historique accessible dans Project Gutenberg : https://www.gutenberg.org/files/51356/51356-h/51356-h.htm .
+
+**Vernant, Jean-Pierre, et Vidal-Naquet, Pierre**, *Mythe et tragédie en Grèce ancienne*, Paris, Maspero, 1972 ; **Vernant**, *Les Origines de la pensée grecque*, Paris, PUF, 1962. Approches de la tension entre héros et cité, institution dramatique et expérience collective ; ne pas convertir leurs modèles en identité mécanique entre spectacle et école civique.
+
+**Détienne, Marcel**, *Les Maîtres de vérité dans la Grèce archaïque*, Paris, Maspero, 1967 ; *L’Invention de la mythologie*, Paris, Gallimard, 1981. Les critères d’autorité et les rapports entre parole, rite et pouvoir constituent ici un instrument comparatif, non une reconstitution de l’*agôn* de 405.
+
+### D. Contrôles négatifs
+
+Aucune source utilisée ne prouve que les *Sept* ont effectivement augmenté le recrutement militaire des spectateurs, que les *Perses* ont accru objectivement leur efficacité au combat, que les tragédies d’Euripide ont provoqué des refus de triérarchie ou que les marins du *Paralos* ont subi une dégradation mesurable de leur discipline. Les imputations causales de l’Eschyle comique sont **attestées en tant que paroles théâtrales**, et seulement en ce sens. Les restitutions de réception, les jugements sur les caractères historiques des dramaturges et les conséquences militaires restent **hypothèses** ou **comparaisons**.
+
+La chronologie doit rester ferme : *Perses* 472 ; *Sept* 467 ; première représentation des *Grenouilles* 405 ; guerre terminée ensuite. Les débats postérieurs de Platon, Aristote, Hegel, Nietzsche, Vernant et Détienne n’apportent pas de preuve contemporaine à 405. L’absence d’une telle preuve n’interdit pas l’interprétation, mais en délimite la validité.
+
+## XV. Conclusion — Le théâtre peut former sans posséder le public
+
+Dans les *Grenouilles*, Eschyle et Euripide s’accordent à donner à la poésie une prétention civique : elle doit rendre les hommes meilleurs. L’accord cesse dès qu’il faut désigner ce qu’est un homme meilleur. Eschyle répond par le courage militaire, la retenue des mœurs, le paiement des obligations navales, le respect des supérieurs et l’emploi d’un langage digne. Euripide fait valoir la clarté, la connaissance des expériences ordinaires, l’adresse et la capacité de penser. Dionysos ne cesse d’ouvrir des brèches dans leurs certitudes. Le spectateur voit simultanément des valeurs en concurrence et les procédés par lesquels chaque poète transforme son style en prétention au gouvernement.
+
+Les *Sept contre Thèbes* et les *Perses* prouvent la nécessité d’une méthode qui retourne des accusations comiques aux œuvres alléguées. La première fait entendre le courage et la peur, l’organisation défensive et la catastrophe familiale ; la seconde fait mémoire d’une victoire grecque par le deuil des vaincus. Aucune ne se laisse épuiser par une exhortation à aimer la bataille. Quant aux accusations contre les riches habillés de haillons et les marins qui répondent à leurs officiers, elles mettent au jour un problème politique réel — la tension entre obligations collectives, représentation de soi et obéissance — sans autoriser la preuve d’une causalité littéraire générale.
+
+Le résultat philosophique est précis : **la puissance éducative revendiquée d’une œuvre n’est ni une garantie de vertu ni un droit illimité de prescrire les comportements d’une cité**. Former peut vouloir dire entraîner, avertir, représenter, déstabiliser, rendre visible ou imposer un modèle. La démocratie ne peut déléguer à un poète la définition exclusive de ces finalités ; elle ne peut non plus se comprendre sans les œuvres où elle discute ses propres valeurs. Aristophane ne clôt pas cette contradiction. Il la donne à jouer.
+
+*Fin du manuscrit public intégral. Repère éditorial transactionnel : volume CCXCVIII (298) uniquement après attribution effective par GitHub Actions. Aucune nouvelle numérotation n’a été réservée, et aucune publication sur le site public n’est affirmée par cette demande.*

@@ -1944,6 +1944,24 @@
         "url": "/chapitres/tragedies/volume-cclxvi-acheos-eretrie-erginos-ig-ii2-2363-piree-tribut-minyens-orchomenos/",
         "title": "Volume CCLXVI (266) — Achéos d’Érétrie, Erginos (Ἐργῖνος[?]) — Le tribut des Minyens : violence, souveraineté, mémoire et survie d’une pièce sans réplique",
         "source": "chapitres/tragedies/volume-cclxvi-acheos-eretrie-erginos-ig-ii2-2363-piree-tribut-minyens-orchomenos.md"
+      },
+      {
+        "number": 267,
+        "url": "/chapitres/tragedies/volume-cclxvii-acheos-eretrie-thesee-artemis-saronia-taureau-marathon-trgf-18-18a/",
+        "title": "Volume CCLXVII (267) — Achéos d’Érétrie, Thésée (Θησεύς) — Le taureau et la frontière : Artémis Saronia, Marathon, hospitalité et invention d’un héros civique",
+        "source": "chapitres/tragedies/volume-cclxvii-acheos-eretrie-thesee-artemis-saronia-taureau-marathon-trgf-18-18a.md"
+      },
+      {
+        "number": 268,
+        "url": "/chapitres/tragedies/volume-cclxviii-acheos-eretrie-hephaistos-satyrique-banquet-parfum-eau-retour-olympe/",
+        "title": "Volume CCLXVIII (268) — Achéos d’Érétrie, Héphaïstos satyrique (Ἥφαιστος Σατυρικός) — Le dieu artisan à la table du plaisir : banquet, parfum, lavage des mains et retour possible sur l’Olympe",
+        "source": "chapitres/tragedies/volume-cclxviii-acheos-eretrie-hephaistos-satyrique-banquet-parfum-eau-retour-olympe.md"
+      },
+      {
+        "number": 269,
+        "url": "/chapitres/tragedies/volume-cclxix-acheos-eretrie-hephaistos-satyrique-athenee-641d-trgf-20-f17-retour-dionysos/",
+        "title": "Volume CCLXIX (269) — Achéos d’Érétrie, Héphaïstos satyrique (Ἥφαιστος Σατυρικός) — L'artisan exclu, la table des dieux et le retour par Dionysos",
+        "source": "chapitres/tragedies/volume-cclxix-acheos-eretrie-hephaistos-satyrique-athenee-641d-trgf-20-f17-retour-dionysos.md"
       }
     ],
     "comparatif": [
@@ -3413,6 +3431,36 @@
         "url": "/chapitres/comparatif/volume-ccxcvi-oiseaux-teree-procne-voix-tragedie-metamo-philomela-intermediaire-414/",
         "title": "Volume CCXCVI (296) — Térée a-t-il le droit de parler pour les oiseaux ? La huppe, Procné, la voix féminine et la fabrication d'un intermédiaire politique dans les Oiseaux d'Aristophane (414 av. n. è.)",
         "source": "chapitres/comparatif/volume-ccxcvi-oiseaux-teree-procne-voix-tragedie-metamo-philomela-intermediaire-414.md"
+      },
+      {
+        "number": 297,
+        "url": "/chapitres/comparatif/volume-ccxcvii-mc-100-mains-divin-aton-sakikku-exode-athena-asclepios-savitr-buddha/",
+        "title": "Volume CCXCVII (297) — MC-100 — Les mains du divin : créer, saisir, écrire, guérir et protéger, de l’Égypte d’Aton à l’Inde bouddhique",
+        "source": "chapitres/comparatif/volume-ccxcvii-mc-100-mains-divin-aton-sakikku-exode-athena-asclepios-savitr-buddha.md"
+      },
+      {
+        "number": 298,
+        "url": "/chapitres/comparatif/volume-ccxcviii-grenouilles-poetes-educateurs-guerre-sept-thebes-perses-trierarchie-405/",
+        "title": "Volume CCXCVIII (298) — La tragédie doit-elle former des soldats ? Eschyle, Euripide, les Sept contre Thèbes, les Perses et le gouvernement des conduites dans les Grenouilles d’Aristophane (405 av. n. è.)",
+        "source": "chapitres/comparatif/volume-ccxcviii-grenouilles-poetes-educateurs-guerre-sept-thebes-perses-trierarchie-405.md"
+      },
+      {
+        "number": 299,
+        "url": "/chapitres/comparatif/volume-ccxcix-mc-099-abeilles-sacre-telipinu-hermes-artemis-egypte-mayas/",
+        "title": "Volume CCXCIX (299) — MC-099 — Les abeilles du sacré : messagères de Télépinu, divination d'Hermès, emblèmes d'Artémis, royauté pharaonique et calendriers apicoles des Mayas",
+        "source": "chapitres/comparatif/volume-ccxcix-mc-099-abeilles-sacre-telipinu-hermes-artemis-egypte-mayas.md"
+      },
+      {
+        "number": 300,
+        "url": "/chapitres/comparatif/volume-ccc-assemblee-femmes-lampe-barbe-manteau-vote-pnyx-triobole-praxagora-392/",
+        "title": "Volume CCC (300) — À qui appartient la voix du peuple ? Lampes, barbes, manteaux, votes et contrôle de l’assemblée dans les Ekklesiazousai d’Aristophane (vers 392 av. n. è.)",
+        "source": "chapitres/comparatif/volume-ccc-assemblee-femmes-lampe-barbe-manteau-vote-pnyx-triobole-praxagora-392.md"
+      },
+      {
+        "number": 301,
+        "url": "/chapitres/comparatif/volume-ccci-mc-098-traverser-autre-monde-chinvat-charon-gjallarbru-sirat-vaitarani/",
+        "title": "Volume CCCI (301) — MC-098 — Traverser l'autre monde : pont de Činvat, barques des morts, fleuves grecs, Gjallarbrú et ṣirāṭ",
+        "source": "chapitres/comparatif/volume-ccci-mc-098-traverser-autre-monde-chinvat-charon-gjallarbru-sirat-vaitarani.md"
       }
     ],
     "comedies": [
@@ -4153,6 +4201,12 @@
         "url": "/chapitres/comedies/volume-123-menekrates-hermioneus-manektor-fragment-osselets-parabase/",
         "title": "Volume CXXIII (123) — Ménècrate (Μενεκράτης) : Hermioneus, Manektōr et le fragment des osselets — rire, identité composite et réversibilité de la fortune",
         "source": "chapitres/comedies/volume-123-menekrates-hermioneus-manektor-fragment-osselets-parabase.md"
+      },
+      {
+        "number": 124,
+        "url": "/chapitres/comedies/volume-124-myllos-poete-comique-proverbe-cratinos-sourde-origines/",
+        "title": "Volume CXXIV (124) — Myllos (Μύλλος) : l'un des premiers comiques d'Athènes ? Le poète, le personnage et le proverbe de celui qui entend tout",
+        "source": "chapitres/comedies/volume-124-myllos-poete-comique-proverbe-cratinos-sourde-origines.md"
       }
     ],
     "origines-du-sacre": [
@@ -5817,6 +5871,18 @@
         "url": "/chapitres/origines-du-sacre/727-laas-geel-somaliland-bovins-parures-peintures-polychromes-pastoralisme/",
         "title": "Chapitre 727 — Laas Geel, au Somaliland : bovins parés, personnages aux bras ouverts et hypothèses cérémonielles dans l'art rupestre de la Corne de l'Afrique",
         "source": "chapitres/origines-du-sacre/727-laas-geel-somaliland-bovins-parures-peintures-polychromes-pastoralisme.md"
+      },
+      {
+        "number": 728,
+        "url": "/chapitres/origines-du-sacre/728-tiya-soddo-steles-epees-tombes-signaux-funeraires-ethiopie/",
+        "title": "Chapitre 728 — Tiya et les pierres à épées du Soddo : sépultures, symboles gravés, mémoire et limites de l'interprétation religieuse",
+        "source": "chapitres/origines-du-sacre/728-tiya-soddo-steles-epees-tombes-signaux-funeraires-ethiopie.md"
+      },
+      {
+        "number": 729,
+        "url": "/chapitres/origines-du-sacre/729-aksum-steles-royales-hypogees-mahrem-ezana-christianisation/",
+        "title": "Chapitre 729 — Aksum : stèles géantes, tombeaux hypogés, architecture de pierre et métamorphoses de la souveraineté sacrée",
+        "source": "chapitres/origines-du-sacre/729-aksum-steles-royales-hypogees-mahrem-ezana-christianisation.md"
       }
     ]
   },
