@@ -177,6 +177,43 @@ def add_scholarly_toc(doc, main, rel):
     main.insert(0, toc)
 
 
+
+# Les lecteurs historiques 1138/1139 possèdent leur propre sommaire et leurs
+# blocs d'origine immuables. BeautifulSoup reformate sinon les octets du texte
+# universitaire, malgré une prose visuellement identique.
+ARCHIVE_SOURCE_BLOCKS = {
+    'bibliotheque-mythologies-du-monde/mythos-volume-14-khmer-angkor-cosmogonies/index.html': 'texte-integral-khmer-angkor',
+    'bibliotheque-mythologies-du-monde/mythos-volume-15-philippines-ifugao-hudhud/index.html': 'texte-integral-hudhud-ifugao',
+}
+
+
+def _shield_original_archive(rel, raw):
+    archive_id = ARCHIVE_SOURCE_BLOCKS.get(rel)
+    if not archive_id:
+        return raw, None, None
+    opener = re.search(
+        r'<div\b(?=[^>]*\bclass="mythos-original-study")(?=[^>]*\bid="'
+        + re.escape(archive_id) + r'")[^>]*>', raw)
+    if not opener:
+        raise ValueError('Bloc scientifique historique absent : ' + rel)
+    if archive_id == 'texte-integral-khmer-angkor':
+        end_marker = raw.find('<!--MYTHOS-KHMER-SOURCE-END-->', opener.end())
+        close = raw.find('</div>', end_marker) if end_marker >= 0 else -1
+        if close < 0:
+            raise ValueError('Bornes historiques Khmer absentes : ' + rel)
+        stop = close + len('</div>')
+    else:
+        crosslinks = re.search(
+            r'</div>\s*<nav\b[^>]*\bclass="mythos-world-study-crosslinks"',
+            raw[opener.end():])
+        if crosslinks is None:
+            raise ValueError('Bornes historiques Hudhud absentes : ' + rel)
+        stop = opener.end() + crosslinks.start() + len('</div>')
+    original = raw[opener.start():stop]
+    guard = '<!--MYTHOS-PRESERVED-' + archive_id.upper().replace('-', '_') + '-->'
+    return raw[:opener.start()] + guard + raw[stop:], guard, original
+
+
 def apply(root):
     root = Path(root)
     count = 0
@@ -184,7 +221,10 @@ def apply(root):
         # Les pièces jointes restent des sources immuables, même en HTML.
         if path.relative_to(root).parts[0] in {'assets', 'media'}:
             continue
-        doc = BeautifulSoup(path.read_text(encoding='utf-8'), 'html.parser')
+        rel = path.relative_to(root).as_posix()
+        protected_raw, protected_guard, protected_original = _shield_original_archive(
+            rel, path.read_text(encoding='utf-8'))
+        doc = BeautifulSoup(protected_raw, 'html.parser')
         if not doc.body or not doc.head or doc.select_one('meta[http-equiv="refresh" i]'):
             continue
         # Normalize the two old 2.5D/vector decorative illustrations on
@@ -569,7 +609,12 @@ def apply(root):
         # Shared keyboard behaviour for the native menu; no client-side theming.
         if not doc.select_one('script[src*="mythos-museum.js"]'):
             doc.body.append(doc.new_tag('script', src='/assets/mythos-museum.js?v='+VERSION, defer=''))
-        path.write_text(str(doc), encoding='utf-8')
+        rendered = str(doc)
+        if protected_guard:
+            if rendered.count(protected_guard) != 1:
+                raise ValueError('Marqueur de préservation perdu : ' + rel)
+            rendered = rendered.replace(protected_guard, protected_original)
+        path.write_text(rendered, encoding='utf-8')
         count += 1
     return count
 
