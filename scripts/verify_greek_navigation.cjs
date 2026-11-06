@@ -84,6 +84,37 @@ fs.mkdirSync(output,{recursive:true});
       await visit('/');
       assert.equal(await page.locator('a.portal-card[href="/grande-encyclopedie/"]').count(),0);
       if(device==='smartphone' && enforceTouchTargets){
+        async function checkKassopeGallery(label){
+          const route='/reconstitutions-photorealistes.html';
+          const response=await page.goto(base+route,{waitUntil:'domcontentloaded',timeout:60000});
+          assert.equal(response.status(),200,route);
+          const id='kassope-agora-stoas-katagogion-vers-190-av-jc';
+          const src='/assets/reconstitutions-3d/'+id+'.webp';
+          const card=page.locator('article#'+id);
+          assert.equal(await card.count(),1,'Kassopè : notice HTML absente ou dupliquée');
+          const picture=card.locator('img[src="'+src+'"]');
+          assert.equal(await picture.count(),1,'Kassopè : WebP manquant de la carte');
+          await picture.scrollIntoViewIfNeeded({timeout:45000});
+          await page.waitForFunction((selector)=>{
+            const img=document.querySelector(selector);
+            return !!img && img.complete && img.naturalWidth===1671 && img.naturalHeight===941;
+          },'article#'+id+' img',{timeout:45000});
+          const layout=await page.evaluate(()=>({width:innerWidth,document:document.documentElement.scrollWidth}));
+          assert.ok(layout.document<=layout.width+1,label+' : débordement horizontal de la galerie');
+          const bounds=await picture.boundingBox();
+          assert.ok(bounds && bounds.width>100 && bounds.width<=layout.width+1,
+            label+' : illustration invisible ou trop large');
+          const science=card.locator('.r3d-science');
+          assert.ok(await science.isVisible(),'Kassopè : commentaire scientifique masqué');
+          assert.match(await science.innerText(),/certitude/i);
+          assert.ok(await card.locator('a[href="https://www.hh.gr/en/destinations/kassopi/"]').count()>0,
+            'Kassopè : source institutionnelle absente');
+          await page.screenshot({path:path.join(output,label+'-kassope-galerie.png'),fullPage:false});
+          report.checks.push({device:label,route,status:response.status(),layout,
+            imageNaturalWidth:1671,imageNaturalHeight:941,scientificNoticeVisible:true});
+        }
+        await checkKassopeGallery('smartphone');
+        await visit('/');
         await page.setViewportSize({width:360,height:780});
         const compact=await page.evaluate(()=>{
           const brand=document.querySelector('.mythos-brand').getBoundingClientRect();
@@ -101,6 +132,7 @@ fs.mkdirSync(output,{recursive:true});
           'En-tête compact : bouton de menu hors écran');
         await page.screenshot({path:path.join(output,'smartphone-360-en-tete.png'),fullPage:false});
         report.checks.push({device:'smartphone-360',route:'/',compact});
+        await checkKassopeGallery('smartphone-360');
       }
       await context.close();
     }
