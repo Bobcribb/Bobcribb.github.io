@@ -336,6 +336,14 @@ RECENT_FIGURES = (
     ("theatre-grec.html", "icono-theatre-masques-met-2001-767-s70-20261106", "/media/2026/10/mythos-masques-theatre-rondelles-hellenistiques-met-2001-767.jpg"),
 
 
+    # Séance 74 : deux documents antiques réutilisés entre monographies.
+    # Contrôler séparément la présence de chaque notice publiée et les octets
+    # WebP correspondants ; les deux fichiers existent déjà dans l'inventaire.
+    ("philosophie-iliade.html", "icono-iliade-nike-victoire-met247903-s74-20261106",
+     "/assets/illustrations-articles/met-247903-nike-terre-cuite.webp"),
+    ("philosophie-theogonie.html", "icono-theogonie-persephone-retour-met252973-s74-20261106",
+     "/assets/illustrations-articles/met-252973-persephone-retour-enfers.webp"),
+
     # Séance 72 : photographies documentaires antiques sur les trois monographies.
     # Vérifier chaque notice HTTPS et l'empreinte exacte de son JPEG local.
     ("philosophie-iliade.html", "icono-iliade-ares-parthenon-frise-s72-20261106",

@@ -5,46 +5,35 @@
   "branch": "main",
   "latest_session": {
     "date": "2026-11-06",
-    "session_number": 74,
-    "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "previous_kind": "AUDIT ET CORRECTION",
-    "next_kind": "AUDIT ET CORRECTION",
-    "source_main_at_review": "308e1a3461578e8353581dc6b5b2581c439feb19",
-    "scope": "Deux nouvelles figures documentaires grecques dans les monographies de philosophie de l’Iliade et de la Théogonie, avec légendes savantes, statut non-IA, dates, cotes et sources muséales CC0. Odyssée déjà dotée d’une figure Oreste et du même vase de Perséphone : aucun doublon ajouté. Correction élémentaire indépendante d’un attribut HTML mal formé sur le lecteur Nibelungenlied.",
-    "figures": [
-      {
-        "page": "philosophie-iliade.html",
-        "figure_id": "icono-iliade-nike-victoire-met247903-s74-20261106",
-        "asset": "/assets/illustrations-articles/met-247903-nike-terre-cuite.webp",
-        "met_source": "https://www.metmuseum.org/art/collection/search/247903"
-      },
-      {
-        "page": "philosophie-theogonie.html",
-        "figure_id": "icono-theogonie-persephone-retour-met252973-s74-20261106",
-        "asset": "/assets/illustrations-articles/met-252973-persephone-retour-enfers.webp",
-        "met_source": "https://www.metmuseum.org/art/collection/search/252973"
+    "session_number": 75,
+    "kind": "AUDIT ET CORRECTION",
+    "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "source_main_at_review": "ef64db9c9c60c45cfb4d782cbee4086b6653c6d7",
+    "scope": "Audit après séance 74 : contrôles structurels ciblés des études Iliade, Odyssée, Théogonie et du lecteur Nibelungenlied ; protection des deux figures s74 contre un déploiement incomplet.",
+    "checks": {
+      "html_pages": 4,
+      "html_ids": 411,
+      "local_hash_anchors": 360,
+      "broken_local_anchors": 0,
+      "duplicate_html_ids": 0,
+      "images_with_alt": 128,
+      "images_without_alt": 0,
+      "unique_css_js_paths": 10,
+      "missing_css_js_paths": 0,
+      "philosophy_figures": {
+        "Iliade": 43,
+        "Odyssee": 41,
+        "Theogonie": 42
       }
-    ],
-    "precommit_checks": {
-      "pages_examined": 2,
-      "figures_added": 2,
-      "unique_new_figure_ids": 2,
-      "duplicate_ids": 0,
-      "broken_same_page_anchors": 0,
-      "missing_local_image_resources": 0,
-      "unchanged_scientific_content_except_inserted_figures": true,
-      "existing_assets_reused": true,
-      "additional_verified_malformed_html": true,
-      "css_js": "Liens vers les ressources du thème observés ; tests d’intégration et déploiement restent à lancer par GitHub Actions."
     },
-    "corrections": [
-      "Attribut class/data-reading-owned de nav.reader-bottom corrigé dans la page Nibelungenlied ; prose intégralement préservée."
-    ],
-    "scientific_notes": "La figurine de Nikè postérieure ne représente pas les jeux de Patrocle ; le cratère de Perséphone illustre un épisode de tradition différente du simple catalogue de Théogonie 912–914.",
-    "preservation": "Aucune édition ou renumérotation de chapitres, aucune modification des manuscrits, titres canoniques, registre, reçus, menus, CSS, JS, workflows, planifications ni fichiers d’images. Aucun 2,5D.",
-    "publication_status": "Proposition GitHub à vérifier ; ni fusion ni déploiement public présumés. Contrôle des tests GitHub Actions et HTTPS nécessaire après fusion.",
-    "next_session": "Séance 75 — AUDIT ET CORRECTION",
-    "tests": "Nouveau test structurel pour les deux figures, les deux images archivées et le correctif de navigation. Exécution complète CI à confirmer.",
+    "verified_problem": "Les figures s74 existent sur la branche de proposition mais sont absentes de RECENT_FIGURES dans scripts/verify_live_site.py, donc le contrôle HTTPS n'impose pas encore leurs notices et leurs octets binaires. Le lecteur Nibelungenlied avait deux navigations dont une mal formée, corrigées lors de la séance 74 réconciliée.",
+    "correction": "Ajout des 2 triplets page/figure/WebP au vérificateur HTTPS, actualisation de 64 à 66 figures contrôlées sur 13 pages et 47 médias distincts, et nouveau test simulant page périmée et WebP altéré. Test permanent des ancres, IDs, alt et chemins CSS/JS des 4 pages. Les deux WebP étaient déjà suivis sur d'autres pages : aucun média ajouté.",
+    "tests": "Contrôles de source réalisés sur la branche. Exécution GitHub Actions du nouveau commit à confirmer.",
+    "source_preservation": "Aucun article scientifique ou numéro canonique modifié lors de s75. Aucun registre, navigation, manuel de publication, source scientifique, fichier média ou planification horaire modifié. S74 fusionne main sans écraser le renvoi Nibelungenklage.",
+    "publication_status": "Le correctif et les figures s74 sont dans une PR, fusion et déploiement HTTPS encore à confirmer ; l'accès au domaine public a échoué depuis l'outil de consultation.",
+    "obstacles": "Contrôle exhaustif des URLs scientifiques externes et tests d'affichage navigateur/mobile non effectués ; GitHub Pages et empreintes WebP publiques non vérifiables à ce stade.",
+    "next_session": "Séance 76 — ENRICHISSEMENT ICONOGRAPHIQUE",
     "commits": []
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
@@ -4607,6 +4596,39 @@
       "publication_status": "Proposition GitHub à vérifier ; ni fusion ni déploiement public présumés. Contrôle des tests GitHub Actions et HTTPS nécessaire après fusion.",
       "next_session": "Séance 75 — AUDIT ET CORRECTION",
       "tests": "Nouveau test structurel pour les deux figures, les deux images archivées et le correctif de navigation. Exécution complète CI à confirmer.",
+      "commits": []
+    },
+    {
+      "date": "2026-11-06",
+      "session_number": 75,
+      "kind": "AUDIT ET CORRECTION",
+      "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "source_main_at_review": "ef64db9c9c60c45cfb4d782cbee4086b6653c6d7",
+      "scope": "Audit après séance 74 : contrôles structurels ciblés des études Iliade, Odyssée, Théogonie et du lecteur Nibelungenlied ; protection des deux figures s74 contre un déploiement incomplet.",
+      "checks": {
+        "html_pages": 4,
+        "html_ids": 411,
+        "local_hash_anchors": 360,
+        "broken_local_anchors": 0,
+        "duplicate_html_ids": 0,
+        "images_with_alt": 128,
+        "images_without_alt": 0,
+        "unique_css_js_paths": 10,
+        "missing_css_js_paths": 0,
+        "philosophy_figures": {
+          "Iliade": 43,
+          "Odyssee": 41,
+          "Theogonie": 42
+        }
+      },
+      "verified_problem": "Les figures s74 existent sur la branche de proposition mais sont absentes de RECENT_FIGURES dans scripts/verify_live_site.py, donc le contrôle HTTPS n'impose pas encore leurs notices et leurs octets binaires. Le lecteur Nibelungenlied avait deux navigations dont une mal formée, corrigées lors de la séance 74 réconciliée.",
+      "correction": "Ajout des 2 triplets page/figure/WebP au vérificateur HTTPS, actualisation de 64 à 66 figures contrôlées sur 13 pages et 47 médias distincts, et nouveau test simulant page périmée et WebP altéré. Test permanent des ancres, IDs, alt et chemins CSS/JS des 4 pages. Les deux WebP étaient déjà suivis sur d'autres pages : aucun média ajouté.",
+      "tests": "Contrôles de source réalisés sur la branche. Exécution GitHub Actions du nouveau commit à confirmer.",
+      "source_preservation": "Aucun article scientifique ou numéro canonique modifié lors de s75. Aucun registre, navigation, manuel de publication, source scientifique, fichier média ou planification horaire modifié. S74 fusionne main sans écraser le renvoi Nibelungenklage.",
+      "publication_status": "Le correctif et les figures s74 sont dans une PR, fusion et déploiement HTTPS encore à confirmer ; l'accès au domaine public a échoué depuis l'outil de consultation.",
+      "obstacles": "Contrôle exhaustif des URLs scientifiques externes et tests d'affichage navigateur/mobile non effectués ; GitHub Pages et empreintes WebP publiques non vérifiables à ce stade.",
+      "next_session": "Séance 76 — ENRICHISSEMENT ICONOGRAPHIQUE",
       "commits": []
     }
   ]
