@@ -2,7 +2,7 @@
   "generated_at": "2026-11-05",
   "site": "bobmythos.fr",
   "method": "Illustrations photoréalistes interprétatives, textes et sources hors des pixels.",
-  "count": 55,
+  "count": 56,
   "entries": [
     {
       "id": "DEL-PAN-001",
@@ -1207,6 +1207,45 @@
       ],
       "methodology": "Restitution visuelle évocatrice à partir des descriptions archéologiques, non métrique, sans relevés géométriques ; les traits conjecturaux sont décrits dans la notice.",
       "publication_status": "source_GitHub_en_cours_publication_https_a_verifier"
+    },
+    {
+      "id": "PGM-ALT-001",
+      "slug": "pergame-grand-autel-gigantomachie-vers-165-av-jc",
+      "title": "Pergame (Asie Mineure) — Grand Autel et frise de la Gigantomachie, vers 170–160 av. J.-C.",
+      "period": "Vers 170–160 av. J.-C., sous Eumène II (règne 197–159 av. J.-C.) ; illustration interprétative de la période attalide.",
+      "caption": "Restitution numérique photoréaliste du Grand Autel de Pergame sur l’acropole hellénistique, montrant l’escalier monumental occidental, le péristyle ionique et une évocation de la frise de la Gigantomachie. L’architecture, les reliefs et le paysage n'ont pas été relevés à partir d'un modèle métrique de fouille.",
+      "commentary": "Le Grand Autel de Pergame fut élevé sur une terrasse de l’acropole de Pergame, en Asie Mineure, sous le roi Eumène II. La Staatliche Museen zu Berlin date l’ensemble autour de 170–160 av. J.-C. et donne une emprise d’environ 36,80 × 34,20 m. Une haute base ornée d'une frise sculptée de la Gigantomachie, haute d’environ 2,30 m et longue d’environ 110 m, supportait une composition à portiques ioniques. Le vaste escalier monumental ouvrait le monument vers l’ouest ; l’autel sacrificiel proprement dit se trouvait dans une cour intérieure. Un second cycle de reliefs évoquait Télèphe, héros associé aux origines dynastiques de Pergame. L’attribution cultuelle précise, souvent liée à Zeus et Athéna, demeure débattue ; le nom courant d’« autel de Zeus » n’est pas une certitude absolue. L’image présente une reconstruction globale plausible, mais les regroupements de reliefs, la polychromie, l’emplacement de statues sommitales, les enduits, les costumes, le mobilier liturgique, les accessoires, les conditions de cérémonie et l’horizon urbain sont des choix iconographiques. Les scènes sculptées ne constituent pas une reproduction exacte des plaques conservées. Les parties originales restaurées et les reconstructions du musée de Berlin sont documentaires mais ne valident pas les proportions ou les pigments de ce visuel. La scène de sacrifice représentée est générique et ne correspond à aucun événement identifié. L'image ne représente ni l'état archéologique contemporain du site ni un relevé photogrammétrique.",
+      "certainty": "Élevé : existence du Grand Autel, implantation sur l’acropole de Pergame, datation générale au règne d’Eumène II, terrasse et escalier monumental, frise de Gigantomachie, ordre ionique et grandes dimensions. Moyen : géométrie du complexe reconstitué, élévations complètes, relations entre cour intérieure et portiques, programme iconographique replacé dans son ensemble. Faible : restitution des couleurs, effets de surface, détails de chaque sculpture non identifiables sur l’image, statues acrotères, dispositifs sacrificiels, attitudes des personnes, vêtements, édifices voisins, végétation, topographie de l’horizon et lumière.",
+      "source_url": "https://search.smb.museum/object/obj-829881",
+      "secondary_sources": [
+        "https://www.getty.edu/cona/CONAFullSubject.aspx?subid=700000206",
+        "https://whc.unesco.org/en/list/1457/"
+      ],
+      "src": "/assets/reconstitutions-3d/pergame-grand-autel-gigantomachie-vers-165-av-jc.webp",
+      "image": "/assets/reconstitutions-3d/pergame-grand-autel-gigantomachie-vers-165-av-jc.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-06",
+      "type": "vue panoramique 3D photoréaliste originale interprétative, non métrique",
+      "provenance": "Image créée numériquement pour MYTHOS, sans texte, menu, bouton ou filigrane dans les pixels. Les institutions citées documentent le monument sans valider cette image. Les détails sont qualifiés selon leur certitude.",
+      "sha256": "d397e2238fd63d7a5ad37b71d0c654fba404d27adcd0722f52c00faf5fb4344e",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/pergame-grand-autel-gigantomachie-vers-165-av-jc.json",
+      "scientific_sources": [
+        {
+          "label": "Staatliche Museen zu Berlin — Der Große Altar von Pergamon, Pe. 1 (dimensions, frise, datation et dédicace incertaine)",
+          "url": "https://search.smb.museum/object/obj-829881"
+        },
+        {
+          "label": "Getty Research Institute — Cultural Objects Name Authority : Pergamon Altar",
+          "url": "https://www.getty.edu/cona/CONAFullSubject.aspx?subid=700000206"
+        },
+        {
+          "label": "UNESCO — Pergamon and its Multi-Layered Cultural Landscape",
+          "url": "https://whc.unesco.org/en/list/1457/"
+        }
+      ],
+      "methodology": "Interprétation visuelle non métrique, distincte d’une modélisation 3D géométrique contrôlée ou d’une reconstitution institutionnellement validée. Les détails conjecturaux sont décrits dans cette notice.",
+      "publication_status": "image_preparee_non_publiee_deploiement_a_verifier"
     }
   ]
 }
