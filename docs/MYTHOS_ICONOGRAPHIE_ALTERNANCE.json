@@ -5,63 +5,61 @@
   "branch": "main",
   "latest_session": {
     "date": "2026-11-06",
-    "kind": "AUDIT ET CORRECTION",
-    "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "scope": "Séance 63 : audit post-iconographie de la PR 62 fusionnée, vérifications HTML et liens de onze pages, et correction du test d'alternance figé sur la séance 62.",
-    "basis_commit": "e025f7d46e8b32948d32a5b2e5ffaad57caa0158",
-    "verified_issue": "tests/test_iconography_session62_epics.py imposait que latest_session.scope commence toujours par « Séance 62 : » ; l'ajout normal de la séance 63 entraînerait un échec de CI.",
-    "correction": "Retrouver l'unique séance 62 dans history par son scope, vérifier le précédent, le suivant si présent et le seuil de pagination A4 historique, sans exiger qu'elle reste la dernière.",
-    "prior_merge": {
-      "pull_request": 62,
-      "merge_commit": "e025f7d46e8b32948d32a5b2e5ffaad57caa0158",
-      "validation_run": 42154136452,
-      "validation_status": "success",
-      "integrity_run": 42154136332,
-      "integrity_status": "success"
-    },
-    "audit_evidence": {
-      "checked_html_pages": 11,
-      "checked_pages": [
-        "index.html",
-        "mythologie-grecque/index.html",
-        "origines-du-sacre/index.html",
-        "philosophie/index.html",
-        "philosophie-iliade.html",
-        "philosophie-odyssee.html",
-        "philosophie-theogonie.html",
-        "heros-achille/index.html",
-        "heros-hector/index.html",
-        "heros-penelope/index.html",
-        "reconstitutions-photorealistes.html"
-      ],
-      "internal_fragments_checked": 521,
-      "broken_same_page_fragments": 0,
-      "images_checked": 280,
-      "images_without_alt": 0,
-      "duplicate_html_ids": 0,
-      "local_source_references_checked": 2499,
-      "missing_local_source_targets": 0,
-      "stylesheets_referenced": 50,
-      "local_js_references": 28,
-      "viewport_present_on_all_checked_pages": true,
-      "h1_count_one_per_checked_page": true,
-      "full_repo_tree_entries_at_first_read": 5461,
-      "public_manifest_source_commit": "fabb3cd46c62a177bb0541b23015339a60ebcc1e",
-      "public_manifest_run_id": 42153925962,
-      "session62_figures_observed_on_live_pages": false,
-      "public_deployment": "Manifeste HTTPS et trois pages publiques consultés ; absence des identifiants des figures séance 62. Publication du commit fusionné non confirmée.",
-      "reference_verification": "Homère Iliade XVII et Odyssée XII (Theoi). Objet Aphrodite/oie-cygne : British Museum D2, attribution Pistoxénos vers 460 av. J.-C. confirmée par l'INHA (AGORHA).",
-      "limitations": "Audit statique ciblé de 11 pages, non audit HTML complet de 1 642 pages ; sans test navigateur visuel responsive ni campagne exhaustive HTTP des liens externes. Résultat de la CI du nouveau commit à contrôler."
-    },
-    "changed_files": [
-      "tests/test_iconography_session62_epics.py",
-      "docs/MYTHOS_ICONOGRAPHIE_ALTERNANCE.json"
+    "session_number": 70,
+    "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "previous_kind": "AUDIT ET CORRECTION",
+    "next_kind": "AUDIT ET CORRECTION",
+    "scope": "Deux schémas 2D documentés pour Iliade I et Odyssée XXIV ; ajout dans la Théogonie d'une photographie patrimoniale du bronze d'Athéna du Met (50.11.1, CC0).",
+    "basis_main_at_review": "e8905d0d006b7d965f2cbc7cd65e1563858a2292",
+    "modified_pages": [
+      "philosophie-iliade.html",
+      "philosophie-odyssee.html",
+      "philosophie-theogonie.html"
     ],
-    "preservation": "Aucune modification des textes universitaires, ressources SVG/JPG/WebP, numéros, chapitres, slugs, registre éditorial, navigation ou workflows/horaires.",
-    "commits": [],
-    "publication_status": "Correction commitée sur GitHub uniquement ; déploiement HTTPS à vérifier séparément.",
-    "obstacles": "Exécutions GitHub Pages concurrentes / annulées et manifeste public encore antérieur au merge de la séance 62."
+    "new_assets": [
+      "assets/philosophie/iliade-chryses-crise-20261106-s70.svg",
+      "assets/philosophie/odyssee-ithaque-paix-20261106-s70.svg"
+    ],
+    "new_figures": 3,
+    "primary_sources": [
+      "Homère, Iliade I, 12–120 ; poésieintranslation.com/PITBR/Greek/Iliad1.php",
+      "Homère, Odyssée XXIV, 412–548 ; poetryintranslation.com/PITBR/Greek/Odyssey24.php",
+      "Hésiode, Théogonie 886–900 et 924–926 ; Metropolitan Museum of Art, n° 50.11.1, vers 460 av. J.-C., CC0"
+    ],
+    "precommit_static_checks": {
+      "philosophie-iliade.html": {
+        "oldChars": 437519,
+        "newChars": 438849,
+        "figuresBefore": 40,
+        "figuresAfter": 41,
+        "imagesAfter": 41,
+        "uniqueIds": 125,
+        "resourceRefsValidated": 104
+      },
+      "philosophie-odyssee.html": {
+        "oldChars": 419209,
+        "newChars": 420524,
+        "figuresBefore": 39,
+        "figuresAfter": 40,
+        "imagesAfter": 40,
+        "uniqueIds": 124,
+        "resourceRefsValidated": 101
+      },
+      "philosophie-theogonie.html": {
+        "oldChars": 423216,
+        "newChars": 424827,
+        "figuresBefore": 39,
+        "figuresAfter": 40,
+        "imagesAfter": 40,
+        "uniqueIds": 128,
+        "resourceRefsValidated": 104
+      }
+    },
+    "checks": "Anciennes pages identiques après suppression de la seule figure insérée ; IDs HTML uniques et images avec alt ; chemins d'images, styles et médias locaux contrôlés sur l'arbre complet main ; SVG avec titre, description, métadonnées et statut IA. Textes scientifiques non modifiés.",
+    "preservation": "Aucun manuscrit, numéro, UUID, reçu, registre, menu, script, CSS/JS, ni automatisation horaire modifié.",
+    "limitations": "Pas d'exécution locale complète des tests Python, pas de rendu mobile ni validation PDF A4. Contrôle CI et publication HTTPS à effectuer après commit.",
+    "public_deployment_status": "Non confirmé à la rédaction ; ne pas inférer la publication d'un commit main.",
+    "next_session": "Séance 71 — AUDIT ET CORRECTION"
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
   "history": [
@@ -3783,6 +3781,503 @@
       "commits": [],
       "publication_status": "Correction commitée sur GitHub uniquement ; déploiement HTTPS à vérifier séparément.",
       "obstacles": "Exécutions GitHub Pages concurrentes / annulées et manifeste public encore antérieur au merge de la séance 62."
+    },
+    {
+      "date": "2026-11-06",
+      "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "previous_kind": "AUDIT ET CORRECTION",
+      "next_kind": "AUDIT ET CORRECTION",
+      "scope": "Séance 64 : trois photographies historiques contextualisées dans l'Iliade (Porte des Lionnes), l'Odyssée (Ménélas et Hélène sur stamnos) et la Théogonie (papyrus de Derveni et traditions orphiques).",
+      "basis_commit": "c41f82e497441a61bf987423ae73e57034acd44a",
+      "pages_modified": [
+        "philosophie-iliade.html",
+        "philosophie-odyssee.html",
+        "philosophie-theogonie.html"
+      ],
+      "new_media_files": 0,
+      "reused_media": [
+        "media/2026/10/mythos-mycene-porte-lionnes-zde-2020.jpg",
+        "media/2026/10/mythos-helene-menelas-stamnos-deepdene-met-41-162-20.jpg",
+        "media/2026/10/mythos-derveni-papyrus-fragments-thessalonique-gts-tg.jpg"
+      ],
+      "figures": [
+        {
+          "id": "icono-iliade-mycene-porte-lionnes-s64-20261106",
+          "page": "philosophie-iliade.html",
+          "source": "/media/2026/10/mythos-mycene-porte-lionnes-zde-2020.jpg",
+          "authority": "whc.unesco.org/en/list/941"
+        },
+        {
+          "id": "icono-odyssee-menelas-helene-stamnos-s64-20261106",
+          "page": "philosophie-odyssee.html",
+          "source": "/media/2026/10/mythos-helene-menelas-stamnos-deepdene-met-41-162-20.jpg",
+          "authority": "metmuseum.org/art/collection/search/254187"
+        },
+        {
+          "id": "icono-theogonie-derveni-commentaire-s64-20261106",
+          "page": "philosophie-theogonie.html",
+          "source": "/media/2026/10/mythos-derveni-papyrus-fragments-thessalonique-gts-tg.jpg",
+          "authority": "unesco.org/fr/memory-world/derveni-papyrus-oldest-book-europe"
+        }
+      ],
+      "precommit_audit": [
+        {
+          "page": "philosophie-iliade.html",
+          "anchors": 111,
+          "broken": 0,
+          "img_old": 37,
+          "img_new": 38,
+          "alt_missing": 0,
+          "duplicate_ids": 0,
+          "local_refs": 137,
+          "missing": 0
+        },
+        {
+          "page": "philosophie-odyssee.html",
+          "anchors": 111,
+          "broken": 0,
+          "img_old": 36,
+          "img_new": 37,
+          "alt_missing": 0,
+          "duplicate_ids": 0,
+          "local_refs": 134,
+          "missing": 0
+        },
+        {
+          "page": "philosophie-theogonie.html",
+          "anchors": 113,
+          "broken": 0,
+          "img_old": 36,
+          "img_new": 37,
+          "alt_missing": 0,
+          "duplicate_ids": 0,
+          "local_refs": 137,
+          "missing": 0
+        }
+      ],
+      "sources_verified": [
+        "UNESCO patrimoine mondial Mycènes-Tirynthe",
+        "The Met 41.162.20a,b",
+        "UNESCO Mémoire du monde Derveni",
+        "Wikimedia Commons Zde CC BY-SA 4.0, The Met CC0, Gts-tg CC BY-SA 4.0"
+      ],
+      "previous_a4_page_counts": {
+        "iliade": 107,
+        "odyssee": 101,
+        "theogonie": 103
+      },
+      "preservation": "Ajout HTML strictement insertionnel. Textes, ancres, anciens médias, CSS/JS, navigation, collections numérotées, registres et automatisations inchangés.",
+      "public_deployment": "À contrôler sur bobmythos.fr après éventuelle fusion et workflow réussi ; la PR ne vaut pas publication.",
+      "limits": "Contrôle statique ciblé ; mesures A4 anciennes non recalculées ; vérification visuelle responsive et liens externes exhaustifs non effectués."
+    },
+    {
+      "date": "2026-11-06",
+      "kind": "AUDIT ET CORRECTION",
+      "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "scope": "Séance 65 : audit de la PR 65 (iconographie de la séance 64), réparation du test de contexte HTML et contrôle ciblé des liens, médias, légendes, CSS/JS, numérotation et déploiement.",
+      "basis_commit": "4e328053bcb811a53627cf609f5e4bb15c11f5b7",
+      "verified_issue": "Le run GitHub Actions 42159205218 (séance 64) a échoué sur 3 erreurs : le test supposait que les <h2 id=lecture-section-*> sont des <section>, alors qu'ils sont directement des titres. Les figures sont correctement placées après le titre ; la structure HTML réelle a été vérifiée dans les 3 pages.",
+      "correction": "Remplacer dans tests/test_iconography_session64_antique_artifacts.py la recherche d'un conteneur <section id=...> inexistant par la vérification du titre <h2> précédent de chaque figure. Commit 4e328053bcb811a53627cf609f5e4bb15c11f5b7, fichier relu après commit.",
+      "checks": {
+        "branch": "mythos-iconographie-s64-20261106",
+        "pull_request": 65,
+        "affected_pages": [
+          "philosophie-iliade.html",
+          "philosophie-odyssee.html",
+          "philosophie-theogonie.html"
+        ],
+        "seven_pages_static_audit": true,
+        "checked_pages": 7,
+        "internal_fragment_links": 386,
+        "broken_fragment_links": 0,
+        "images": 144,
+        "images_missing_alt": 0,
+        "duplicate_html_ids": 0,
+        "local_references": 662,
+        "missing_local_files": 0,
+        "stylesheets_referenced": 34,
+        "script_references": 17,
+        "viewport_declared_on_all_checked_pages": true,
+        "css_responsive_media_query_counts": {
+          "assets/style.css": 32,
+          "assets/mythos-refonte.css": 10,
+          "assets/mythos-museum.css": 65,
+          "assets/mythos-discovery.css": 7
+        },
+        "scientific_sources": "Les notices institutionnelles UNESCO (Mycènes, Derveni) et Met (stamnos 41.162.20a,b) ont été contrôlées. La photographie de la Porte des Lionnes par Zde, 22 septembre 2020, est CC BY-SA 4.0 sur Commons.",
+        "numbering_registry_audit": {
+          "origines-du-sacre": 119,
+          "encyclopedie": 97,
+          "comedies": 64,
+          "tragedies": 60,
+          "comparatif": 128
+        },
+        "allocation_number_collisions": 0,
+        "allocation_path_collisions": 0,
+        "missing_allocated_paths": 0,
+        "public_manifest_source_commit": "00c888fd4b1f2d9a83beb82c40012f2eceb562a4",
+        "public_manifest_run_id": 42163598977,
+        "public_s62_figure_ids_found": 3,
+        "public_s64_figure_ids_found": 0,
+        "public_deployment": "Séance 62 vérifiée sur les trois pages HTTPS ; séance 64 non publiée au contrôle. Ne pas prétendre à une publication de la PR 65.",
+        "ci_status": "Nouveaux runs 42165130969 (générateur) et 42165130971 (audit) encore en cours lors de l'audit ; la fusion reste subordonnée à un contrôle de leur conclusion et à l'absence de conflits."
+      },
+      "files_modified": [
+        "tests/test_iconography_session64_antique_artifacts.py",
+        "docs/MYTHOS_ICONOGRAPHIE_ALTERNANCE.json"
+      ],
+      "preservation": "Aucun changement des études scientifiques, figures, licences, médias, numéros, registre éditorial, CSS/JS, menus ou automatisations horaires.",
+      "limitations": "Contrôle statique de 7 pages, non un audit exhaustif de 1 642 pages. Rendu navigateur responsive et couverture HTTP exhaustive des URL externes non réalisés. Publication de la séance 64 non confirmée.",
+      "next_session": "Séance 66 — ENRICHISSEMENT ICONOGRAPHIQUE"
+    },
+    {
+      "date": "2026-11-06",
+      "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "previous_kind": "AUDIT ET CORRECTION",
+      "next_kind": "AUDIT ET CORRECTION",
+      "scope": "Séance 66 : trois documents figurés authentiques, comparaisons explicitement circonscrites — Poséidon/Zeus du cap Artémision (Iliade XIII), relief Orphée/Eurydice (Odyssée XI), Teššub et Ḫebat à Yazılıkaya (Théogonie comparée).",
+      "basis_commit": "d05d056d03ae39fe8b9ac7d63b50f1a92acb286d",
+      "pages_modified": [
+        "philosophie-iliade.html",
+        "philosophie-odyssee.html",
+        "philosophie-theogonie.html"
+      ],
+      "assets_reused": [
+        "media/2026/10/mythos-bronze-artemision-zeus-ou-poseidon.jpg",
+        "media/2026/10/mythos-relief-orphee-eurydice-hermes-naples-6727.jpg",
+        "media/2026/10/mythos-yazilikaya-teshub-hebat-rita1234.jpg"
+      ],
+      "figures": [
+        {
+          "page": "philosophie-iliade.html",
+          "id": "icono-iliade-poseidon-artemision-s66-20261106",
+          "src": "/media/2026/10/mythos-bronze-artemision-zeus-ou-poseidon.jpg",
+          "documentary_status": "Artefact authentique non généré par IA, mais représentation distincte du passage homérique/hésiodique traité.",
+          "source_primary_or_site": "https://www.theoi.com/Text/HomerIliad13.html",
+          "photo_credit": "https://commons.wikimedia.org/wiki/File:Bronze_statue_of_Zeus_or_Poseidon_from_Artemision,_Euboea._ca._460_BC.jpg"
+        },
+        {
+          "page": "philosophie-odyssee.html",
+          "id": "icono-odyssee-orphee-eurydice-seuil-s66-20261106",
+          "src": "/media/2026/10/mythos-relief-orphee-eurydice-hermes-naples-6727.jpg",
+          "documentary_status": "Artefact authentique non généré par IA, mais représentation distincte du passage homérique/hésiodique traité.",
+          "source_primary_or_site": "https://www.theoi.com/Text/HomerOdyssey11.html",
+          "photo_credit": "https://commons.wikimedia.org/wiki/File:Orfeo,_euridice_ed_hermes,_da_torre_del_greco,_copia_augustea_da_orig._greco_del_450_ac_ca._6727.JPG"
+        },
+        {
+          "page": "philosophie-theogonie.html",
+          "id": "icono-theogonie-yazilikaya-teshub-hebat-s66-20261106",
+          "src": "/media/2026/10/mythos-yazilikaya-teshub-hebat-rita1234.jpg",
+          "documentary_status": "Artefact authentique non généré par IA, mais représentation distincte du passage homérique/hésiodique traité.",
+          "source_primary_or_site": "https://whc.unesco.org/en/list/377/",
+          "photo_credit": "https://commons.wikimedia.org/wiki/File:Yazilikaya_reliefs_42_43.JPG"
+        }
+      ],
+      "scientific_verification": "Bronze Artémision X15161 vers 460 av. J.-C., Zeus ou Poséidon, photo Koronaios CC BY-SA 4.0 ; relief napolitain inv. 6727 copie romaine, photo Sailko CC BY-SA 3.0 ; relief 42–43 Yazılıkaya, Teššub/Ḫebat, photo Rita1234 CC BY-SA 3.0. Métadonnées recoupées avec Wikimedia Commons et références anciennes / UNESCO.",
+      "precommit_static_audit": [
+        {
+          "path": "philosophie-iliade.html",
+          "section": "lecture-section-32",
+          "figure": "icono-iliade-poseidon-artemision-s66-20261106",
+          "src": "/media/2026/10/mythos-bronze-artemision-zeus-ou-poseidon.jpg",
+          "paragraph_index": 2,
+          "htmlCharsBefore": 434341,
+          "htmlCharsAfter": 435982,
+          "figuresBefore": 38,
+          "figuresAfter": 39,
+          "internalAnchors": 111,
+          "brokenAnchors": 0,
+          "images": 39,
+          "localReferences": 137,
+          "missingLocal": 0,
+          "dupIds": 0
+        },
+        {
+          "path": "philosophie-odyssee.html",
+          "section": "lecture-section-29",
+          "figure": "icono-odyssee-orphee-eurydice-seuil-s66-20261106",
+          "src": "/media/2026/10/mythos-relief-orphee-eurydice-hermes-naples-6727.jpg",
+          "paragraph_index": 8,
+          "htmlCharsBefore": 415973,
+          "htmlCharsAfter": 417633,
+          "figuresBefore": 37,
+          "figuresAfter": 38,
+          "internalAnchors": 111,
+          "brokenAnchors": 0,
+          "images": 38,
+          "localReferences": 134,
+          "missingLocal": 0,
+          "dupIds": 0
+        },
+        {
+          "path": "philosophie-theogonie.html",
+          "section": "lecture-section-14",
+          "figure": "icono-theogonie-yazilikaya-teshub-hebat-s66-20261106",
+          "src": "/media/2026/10/mythos-yazilikaya-teshub-hebat-rita1234.jpg",
+          "paragraph_index": 1,
+          "htmlCharsBefore": 420028,
+          "htmlCharsAfter": 421659,
+          "figuresBefore": 37,
+          "figuresAfter": 38,
+          "internalAnchors": 113,
+          "brokenAnchors": 0,
+          "images": 38,
+          "localReferences": 137,
+          "missingLocal": 0,
+          "dupIds": 0
+        }
+      ],
+      "pagination_a4_prior_not_recomputed": {
+        "iliade": 107,
+        "odyssee": 101,
+        "theogonie": 103
+      },
+      "preservation": "Toutes les chaînes HTML préexistantes conservées octet par octet, uniquement 1 élément figure et sa séparation ajoutés dans chaque page ; aucune étude numérotée, registre, navigation, CSS/JS ou horaire modifié.",
+      "changed_files": [
+        "philosophie-iliade.html",
+        "philosophie-odyssee.html",
+        "philosophie-theogonie.html",
+        "tests/test_iconography_session66_documentary_comparisons.py",
+        "docs/MYTHOS_ICONOGRAPHIE_ALTERNANCE.json"
+      ],
+      "deployment": "Travail sur branche et PR ; à confirmer après fusion, Actions et contrôle HTTPS du domaine. Aucun nouveau média binaire copié.",
+      "obstacles": "Le main à l'ouverture échoue aux deux tests Énéide test_copy_exact_sources_and_bidirectional_navigation et test_idempotent_links (run 42169994547) ; publication bloquée par ces échecs indépendants de l'iconographie ; contrôle visuel responsive non réalisé.",
+      "limits": "Audit local statique de trois grandes monographies, pas d'examen exhaustif du domaine ni de tests navigateur. Photos réutilisées dans le dépôt ; photographies non générées par IA."
+    },
+    {
+      "date": "2026-11-06",
+      "kind": "AUDIT ET CORRECTION",
+      "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "scope": "Séance 67 : reprise conservatoire de la PR 69 sur le main récent, réparation de la concurrence GitHub et audit post-iconographie des pages épiques.",
+      "basis_commit": "71cd5686b70b74c1aee9954c6e2574402558221f",
+      "verified_obstacle": "PR 69 en conflit (mergeable_state dirty) après 19 commits nouveaux sur main, dont correctifs du générateur Énéide ; les deux workflows de la PR avaient échoué sur la version antérieure de main.",
+      "correction": "Fusion non destructive de main et de la branche de la PR : reconstruire les trois pages depuis main avec insertion des seules figures de la séance 66 à leurs ancrages textuels uniques, conserver intégralement le journal séance 66 et le test. Ne pas réintroduire les anciennes versions HTML ni écraser des sources concurrentes.",
+      "check_results": {
+        "audited_main_sha": "71cd5686b70b74c1aee9954c6e2574402558221f",
+        "static_pages_checked": 7,
+        "static_pages": [
+          "index.html",
+          "mythologie-grecque/index.html",
+          "philosophie/index.html",
+          "philosophie-iliade.html",
+          "philosophie-odyssee.html",
+          "philosophie-theogonie.html",
+          "reconstitutions-photorealistes.html"
+        ],
+        "source_anchors": 491,
+        "source_broken_anchors": 0,
+        "source_images": 276,
+        "source_images_missing_alt": 0,
+        "source_duplicate_ids": 0,
+        "source_local_references": 1520,
+        "source_missing_local_targets": 0,
+        "source_css_stylesheet_links": 34,
+        "source_js_script_links": 16,
+        "source_viewports_missing": 0,
+        "rebased_figures": [
+          {
+            "page": "philosophie-iliade.html",
+            "figure": "icono-iliade-poseidon-artemision-s66-20261106",
+            "media": "media/2026/10/mythos-bronze-artemision-zeus-ou-poseidon.jpg",
+            "characters_inserted": 1640,
+            "images_after": 39,
+            "anchors_after": 111
+          },
+          {
+            "page": "philosophie-odyssee.html",
+            "figure": "icono-odyssee-orphee-eurydice-seuil-s66-20261106",
+            "media": "media/2026/10/mythos-relief-orphee-eurydice-hermes-naples-6727.jpg",
+            "characters_inserted": 1659,
+            "images_after": 38,
+            "anchors_after": 111
+          },
+          {
+            "page": "philosophie-theogonie.html",
+            "figure": "icono-theogonie-yazilikaya-teshub-hebat-s66-20261106",
+            "media": "media/2026/10/mythos-yazilikaya-teshub-hebat-rita1234.jpg",
+            "characters_inserted": 1630,
+            "images_after": 38,
+            "anchors_after": 113
+          }
+        ],
+        "figurative_status": "Photographies d'artefacts authentiques, créditées, non générées par IA ; rapprochement iconographique sans identification directe au récit littéraire.",
+        "numbering_guard": "Lecture de main, AGENTS.md, docs/PUBLICATION_CONCURRENTE.md ; aucun nouveau texte numéroté, aucun chapitre ni registre modifié.",
+        "last_successful_main_generator_run": 42175517258,
+        "last_successful_main_pages_run": 42175517252,
+        "publication_status": "À confirmer séparément par manifeste de déploiement HTTPS et présence des figures.",
+        "a4_source": "Mesures A4 du 4 novembre : Iliade 107 pages, Odyssée 101, Théogonie 103 (non recalculées).",
+        "limits": "Audit statique ciblé et contrôle éditorial ; pas de test complet dans navigateur responsive, ni de campagne HTTP exhaustive pour les liens externes."
+      },
+      "changed_files": [
+        "philosophie-iliade.html",
+        "philosophie-odyssee.html",
+        "philosophie-theogonie.html",
+        "tests/test_iconography_session66_documentary_comparisons.py",
+        "docs/MYTHOS_ICONOGRAPHIE_ALTERNANCE.json"
+      ],
+      "preservation": "Toutes les chaînes HTML présentes sur main ont été conservées exactement ; seuls trois blocs figure ajoutés. Navigation, CSS/JS, registres et automatisations inchangés.",
+      "git_status": "Commit de réconciliation à contrôler via CI de la PR 69 ; fusion dans main et publication publique non présumées.",
+      "next_session": "Séance 68 — ENRICHISSEMENT ICONOGRAPHIQUE"
+    },
+    {
+      "date": "2026-11-06",
+      "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "previous_kind": "AUDIT ET CORRECTION",
+      "next_kind": "AUDIT ET CORRECTION",
+      "scope": "Séance 68 : trois rapprochements documentaires sans confusion de témoignages — enceinte de Troie VI (Iliade VI), dessin de Flaxman (Iliade XXIII / Odyssée XI), retour d’Héphaïstos sur coupe archaïque (Théogonie / traditions figurées).",
+      "basis_commit": "261661f4eb2e62d2313136c9ae565b844b91a22f",
+      "figures": [
+        {
+          "page": "philosophie-iliade.html",
+          "id": "icono-iliade-troie-vi-porte-est-s68-20261106",
+          "asset": "/media/2026/10/mythos-troie-vi-porte-est-hisarlik-cherryx-2012.jpg",
+          "source": "Wikimedia Commons CherryX CC BY-SA 3.0 ; UNESCO Troie"
+        },
+        {
+          "page": "philosophie-odyssee.html",
+          "id": "icono-odyssee-achille-patrocle-flaxman-s68-20261106",
+          "asset": "/assets/illustrations-articles/met-341681-achille-ombre-patrocle-flaxman.webp",
+          "source": "Met 341681, Flaxman 1793, réception moderne"
+        },
+        {
+          "page": "philosophie-theogonie.html",
+          "id": "icono-theogonie-hephaistos-retour-oakeshott-s68-20261106",
+          "asset": "/media/2026/10/hephaiestos-retour-olympe-coupe-oakeshott-17-230-5.png",
+          "source": "Met 250543, coupe Oakeshott vers 550 av. J.-C."
+        }
+      ],
+      "precommit_audit": {
+        "pages_checked": 3,
+        "internal_anchors": 335,
+        "broken_anchors": 0,
+        "images_without_alt": 0,
+        "duplicate_html_ids": 0,
+        "missing_referenced_local_media": 0,
+        "original_html_preserved": "Inclusion strictement insertionnelle, ancienne chaîne source restituée à l’identique après retrait du nouveau bloc figure.",
+        "prior_a4_pages": "Iliade 107, Odyssée 101, Théogonie 103 selon mesures historiques du 4 novembre, non recalculées.",
+        "CI": "À contrôler après ouverture de la PR."
+      },
+      "file_commits": [
+        {
+          "path": "philosophie-iliade.html",
+          "commit": "7be4eb51d22375bd780c6ccd4f9791eb77616817"
+        },
+        {
+          "path": "philosophie-odyssee.html",
+          "commit": "d00dc9b30a177024387164a56e2e00d25408e9c1"
+        },
+        {
+          "path": "philosophie-theogonie.html",
+          "commit": "3d440557569bd85fb4662603998ab047946dc3cb"
+        },
+        {
+          "path": "tests/test_iconography_session68_epic_documents.py",
+          "commit": "8fab1ffbfdb0202a6ae1abe0dc1bcaf5f63501dd"
+        }
+      ],
+      "preservation": "Conservation des textes universitaires, menus, CSS/JS, numérotation, attributions, routines GitHub, autres planifications et anciens médias. Aucun nouveau fichier numéroté ni média binaire. Trois éléments figure ajoutés dans les monographies présentes.",
+      "publication_status": "Enregistré dans branche s68 seulement ; PR et CI à confirmer ; aucune publication HTTPS affirmée.",
+      "obstacles": "La PR 69 portant séances 66–67 est encore ouverte lors de la préparation ; le site public bobmythos.fr n’est pas vérifié pour ces figures.",
+      "next_session": "Séance 69 — AUDIT ET CORRECTION"
+    },
+    {
+      "date": "2026-11-06",
+      "session_number": 69,
+      "kind": "AUDIT ET CORRECTION",
+      "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "scope": "Audit technique de la publication MYTHOS après séance 68 : diagnostic du blocage des 18 lecteurs Énéide créés tardivement ; vérification des trois figures de la séance précédente, de 7 HTML, des ancres, médias, CSS/JS, de la navigation, des gardes d'attribution et du domaine public.",
+      "basis_main_at_review": "2b21bcabb6ef89526a72b6760d9ac7eddb8b00da",
+      "corrected_main_head_at_report": "3ecfbd361b7e71b43295d3cb29139434d8f707b1",
+      "finding": "Exécution GitHub Pages 42188396415 échouée après génération (1 645 documents) : scripts/verify_museum_design.py:50 refusait _site/corpus/philosophie/eneide/13-pietas-destin.html, dépourvu de data-mythos-design=20261104. Cause : les 18 lecteurs HTML autonomes de l'Énéide étaient générés après la passe muséale globale. La collision MC-096, décrite dans l'issue 74, est déjà mise en attente conservatoire dans editorial/holds.json.",
+      "verified_main_correction": "Pendant l'audit, une publication concurrente sur main a corrigé le défaut par une solution plus complète : c05fecb9ba9f39262e5bc8aa0e4290dd8853114a avance la génération des 18 lecteurs avant l'habillage global ; 57914088bba3dfe37c6a2d7f04ab99cd1d30cbf8 ajoute le test du bandeau, menus, CSS et de la préservation octet à octet des 18 Markdown ; 4c3b99d3cbf991258017302c16d69c87139a839d indexe les lecteurs dans recherche et sitemap. Les fichiers réels de main ont été relus et la solution vérifiée structurellement. Les tests complets de publication restent à confirmer.",
+      "attempted_patch": "PR #77 ouverte sur une branche d'audit et corrigée en trois commits 31a0b4ddfa8991f0bf607a42dbbfaa4ab6b85d3f, 7a7732d2f5d29db20e440fe3e29377a9327d94b8 et facd892e2020301258d0ea958dd76157336f0d71. Fermée sans fusion car un correctif parallèle et plus complet était désormais présent sur main ; ne pas écraser ce correctif ni créer de doublon.",
+      "static_checks": {
+        "html_pages_checked": 7,
+        "local_hash_anchors_checked": 391,
+        "broken_hash_anchors": 0,
+        "duplicate_html_ids": 0,
+        "image_elements": 160,
+        "images_without_alt": 0,
+        "local_image_paths": 157,
+        "missing_local_image_paths": 0,
+        "css_references": 34,
+        "missing_css_references": 0,
+        "javascript_references": 13,
+        "missing_js_references": 0,
+        "recursive_git_tree_paths": 5680,
+        "missing_local_assets": 0,
+        "source_html_session68_figures": 3,
+        "viewport_meta_present": true,
+        "responsive_css_breakpoints_present": true,
+        "focus_visible_and_reduced_motion_in_museum_css": true,
+        "visual_mobile_and_wcag_full_audit": "Non effectués : vérifications statiques uniquement.",
+        "scholarly_references": "Notices de 3 figures relues : Troie VI/CherryX-UNESCO ; Flaxman 1793, Met 341681 ; coupe Peintre d'Oakeshott vers 550 av. J.-C., Met 250543. Datations, crédits, statut documentaire et absence de génération IA mentionnés."
+      },
+      "public_observation": "Contrôle HTTP/HTTPS indépendant : /catalog/publication-verification.json indique encore source_commit db016f6cbc0bec783e369a1e2874f0c6a1883aa6, 1604 documents, 27 tomes, 110 médias, github_run_id 42175517252. La mise en ligne des trois figures de la séance 68, des 18 lecteurs remaquettés et du correctif reste NON confirmée.",
+      "preservation": "Aucun nouveau chapitre, aucun changement de numérotation, d'UUID, de reçu, de registre, de texte universitaire, de CSS existant, de navigation ni d'automatisation horaire lors de cette séance. AGENTS.md et docs/PUBLICATION_CONCURRENTE.md lus sur main.",
+      "obstacles": "Concurrence de commits entre plusieurs chantiers sur main ; la PR #77 est fermée sans fusion, les corrections équivalentes déjà fusionnées sur main. Le déploiement public reste à prouver par Actions terminée, manifeste HTTPS actualisé et présence effective des trois figure id.",
+      "next_session": "Séance 70 — ENRICHISSEMENT ICONOGRAPHIQUE"
+    },
+    {
+      "date": "2026-11-06",
+      "session_number": 70,
+      "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "previous_kind": "AUDIT ET CORRECTION",
+      "next_kind": "AUDIT ET CORRECTION",
+      "scope": "Deux schémas 2D documentés pour Iliade I et Odyssée XXIV ; ajout dans la Théogonie d'une photographie patrimoniale du bronze d'Athéna du Met (50.11.1, CC0).",
+      "basis_main_at_review": "e8905d0d006b7d965f2cbc7cd65e1563858a2292",
+      "modified_pages": [
+        "philosophie-iliade.html",
+        "philosophie-odyssee.html",
+        "philosophie-theogonie.html"
+      ],
+      "new_assets": [
+        "assets/philosophie/iliade-chryses-crise-20261106-s70.svg",
+        "assets/philosophie/odyssee-ithaque-paix-20261106-s70.svg"
+      ],
+      "new_figures": 3,
+      "primary_sources": [
+        "Homère, Iliade I, 12–120 ; poésieintranslation.com/PITBR/Greek/Iliad1.php",
+        "Homère, Odyssée XXIV, 412–548 ; poetryintranslation.com/PITBR/Greek/Odyssey24.php",
+        "Hésiode, Théogonie 886–900 et 924–926 ; Metropolitan Museum of Art, n° 50.11.1, vers 460 av. J.-C., CC0"
+      ],
+      "precommit_static_checks": {
+        "philosophie-iliade.html": {
+          "oldChars": 437519,
+          "newChars": 438849,
+          "figuresBefore": 40,
+          "figuresAfter": 41,
+          "imagesAfter": 41,
+          "uniqueIds": 125,
+          "resourceRefsValidated": 104
+        },
+        "philosophie-odyssee.html": {
+          "oldChars": 419209,
+          "newChars": 420524,
+          "figuresBefore": 39,
+          "figuresAfter": 40,
+          "imagesAfter": 40,
+          "uniqueIds": 124,
+          "resourceRefsValidated": 101
+        },
+        "philosophie-theogonie.html": {
+          "oldChars": 423216,
+          "newChars": 424827,
+          "figuresBefore": 39,
+          "figuresAfter": 40,
+          "imagesAfter": 40,
+          "uniqueIds": 128,
+          "resourceRefsValidated": 104
+        }
+      },
+      "checks": "Anciennes pages identiques après suppression de la seule figure insérée ; IDs HTML uniques et images avec alt ; chemins d'images, styles et médias locaux contrôlés sur l'arbre complet main ; SVG avec titre, description, métadonnées et statut IA. Textes scientifiques non modifiés.",
+      "preservation": "Aucun manuscrit, numéro, UUID, reçu, registre, menu, script, CSS/JS, ni automatisation horaire modifié.",
+      "limitations": "Pas d'exécution locale complète des tests Python, pas de rendu mobile ni validation PDF A4. Contrôle CI et publication HTTPS à effectuer après commit.",
+      "public_deployment_status": "Non confirmé à la rédaction ; ne pas inférer la publication d'un commit main.",
+      "next_session": "Séance 71 — AUDIT ET CORRECTION"
     }
   ]
 }

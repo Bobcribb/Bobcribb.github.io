@@ -30,7 +30,7 @@ def archive_shelf(out: Path, root: Path) -> str:
     Existing canonical chapters, the editorial queue and its numbering are untouched.
     """
     cards = []
-    for code, volume, chapters, title, slug in ARCHIVES:
+    for index, (code, volume, chapters, title, slug) in enumerate(ARCHIVES):
         relative = Path("corpus/origines-du-sacre") / (slug + ".html")
         page = out / relative
         source = root / relative.with_suffix(".md")
@@ -65,10 +65,33 @@ def archive_shelf(out: Path, root: Path) -> str:
         original_text = main.get_text(" ", strip=True)
         for old in document.select("nav[data-mythos-archival-return]"):
             old.decompose()
+        # Conserver l'ordre historique sans nouvelle attribution canonique.
+        adjacent = []
+        if index > 0:
+            previous = ARCHIVES[index - 1]
+            adjacent.append(
+                '<a class="origins-archival-adjacent" rel="prev" href="' +
+                ROOT_URL + html.escape(previous[4], quote=True) + '.html">' +
+                '← Tome ' + html.escape(previous[1]) + ' · ' +
+                html.escape(previous[3]) + '</a>'
+            )
+        if index + 1 < len(ARCHIVES):
+            following = ARCHIVES[index + 1]
+            adjacent.append(
+                '<a class="origins-archival-adjacent" rel="next" href="' +
+                ROOT_URL + html.escape(following[4], quote=True) + '.html">' +
+                'Tome ' + html.escape(following[1]) + ' · ' +
+                html.escape(following[3]) + ' →</a>'
+            )
         back = BeautifulSoup(
             '<nav class="origins-archival-return" data-mythos-archival-return="1" '
-            'aria-label="Retour au sommaire des archives des Origines du sacré">'
+            'aria-label="Sommaire et sources des archives des Origines du sacré">'
             '<a href="' + PORTAL + '">← Sommaire des neuf tomes historiques (XXV–XXXIII)</a>'
+            '<a class="origins-archival-source-link" '
+            'href="https://github.com/Bobcribb/Bobcribb.github.io/blob/main/'
+            + relative.with_suffix(".md").as_posix() + '" '
+            'rel="noopener noreferrer">Consulter le manuscrit Markdown original ↗</a>'
+            + "".join(adjacent) +
             '</nav>', "html.parser"
         ).nav
         masthead.insert_after(back)
@@ -82,7 +105,8 @@ def archive_shelf(out: Path, root: Path) -> str:
         '<p class="section-intro">Neuf manuscrits complets, déjà conservés dans le corpus public, '
         'retrouvent ici leur sommaire et leurs liens de retour. Les cotes ODS-CONV et ODS-S28 '
         'désignent des séries historiques distinctes des numéros canoniques attribués par '
-        'GitHub Actions. Sources et bibliographies demeurent dans chaque lecteur.</p>'
+        'GitHub Actions. Sources et bibliographies demeurent dans chaque lecteur ; '
+        'un lien vers le manuscrit Markdown original permet de vérifier chaque édition.</p>'
         '<div class="origins-archival-grid">' + "".join(cards) + '</div>'
         '</section>'
     )

@@ -1,0 +1,46 @@
+{
+  "id": "THO-THE-001",
+  "slug": "thorikos-theatre-orchestra-oblongue-vers-425-av-jc",
+  "title": "Thorikos (Attique) — théâtre du dème, orchestra oblongue, vers 425 av. J.-C.",
+  "period": "Évocation vers 425 av. J.-C. (aménagements de la première moitié et du milieu du Ve siècle ; gradins inférieurs en pierre ; agrandissement supérieur du IVe siècle volontairement non restitué).",
+  "caption": "Reconstitution numérique photoréaliste hypothétique du théâtre de Thorikos sur le versant du Velatouri, avec cavea allongée à section centrale presque rectiligne, orchestra oblongue, éléments cultuels latéraux et paysage attique au Ve siècle av. J.-C.",
+  "commentary": "Thorikos, sur la côte méridionale de l’Attique près de Laurion, était un dème de l’Attique classique marqué par des mines, des ateliers de traitement du minerai, des habitations et des nécropoles. Son théâtre se développe sur un ancien espace de carrière au pied de la colline du Velatouri. À la différence du schéma canonique du théâtre grec à orchestra circulaire, l’édifice possède une cavea allongée : sa partie centrale est presque rectiligne, ses extrémités courbes et l’orchestra est oblongue/rectangulaire à angles arrondis. Les fouilles reconnaissent plusieurs états : un premier terrassement et mur de soutènement avant le milieu du Ve siècle, des gradins en pierre disposés en vingt et une rangées dans la phase classique, puis l’ajout d’un gradinage supérieur à l’époque du IVe siècle. Les vestiges comprennent les fondations d’un petit édifice cultuel traditionnellement associé à Dionysos, et une structure rectangulaire parfois identifiée à un autel. Le théâtre servait aux représentations, aux fêtes locales dont les Dionysies rurales, et aux rassemblements de la communauté civique. L’image choisit une évocation autour de 425 av. J.-C., sans intégrer les extensions de l’upper cavea du IVe siècle, et ne peut servir à reconstituer des côtes exactes. Le mobilier scénique sommaire et le portique en bois, le feu de l’autel, la disposition des personnages, les bâtiments reconstruits, la végétation, la vue de la mer et l’heure du jour sont des choix iconographiques non documentés dans cette précision. Les différentes sources ne s’accordent pas toujours sur les dimensions exactes de l’orchestra ou sur la chronologie des premiers aménagements. Cette image n’est ni un relevé 3D géométrique certifié ni une photographie de l’état du Ve siècle.",
+  "certainty": "Élevé : localisation du théâtre au pied du Velatouri, originalité de la cavea allongée à segment central rectiligne et extrémités incurvées, orchestra oblongue et gradins inférieurs en pierre ; plusieurs phases de construction. Moyen : restitution du mur de terrasse, nombre et répartition visibles des gradins au Ve siècle, organisation des accès et voisinage de l’édifice cultuel, état vers 425 av. J.-C. Faible : tréteaux et tentures de scène, élévation exacte du petit bâtiment, autel en activité, polychromie, tenue et nombre des visiteurs, végétation, littoral et cadrage.",
+  "source_url": "https://diazoma.gr/en/theaters/ancient-theater-of-thoricus/",
+  "secondary_sources": [
+    "https://www.thorikos.be/site-projects/",
+    "https://www.thorikos.be/thorikos-the-site/",
+    "https://archaeologia.eie.gr/archaeologia/gr/02_deltia/thorikos.html"
+  ],
+  "src": "/assets/reconstitutions-3d/thorikos-theatre-orchestra-oblongue-vers-425-av-jc.webp",
+  "image": "/assets/reconstitutions-3d/thorikos-theatre-orchestra-oblongue-vers-425-av-jc.webp",
+  "width": 1672,
+  "height": 941,
+  "created_at": "2026-11-06",
+  "type": "panorama numérique photoréaliste interprétatif à apparence 3D, non métrique",
+  "provenance": "Image originale produite pour MYTHOS par génération d’image, puis conversion sans titre, menu, logo, légende ou filigrane dans les pixels. Les institutions citées documentent les vestiges mais ne valident pas cette restitution.",
+  "sha256": "239ff05da6e999237409eed9088a123ab95c6c31dfb34610cabc7074ed613b28",
+  "scientific_notice": "/assets/reconstitutions-3d/notices/thorikos-theatre-orchestra-oblongue-vers-425-av-jc.json",
+  "scientific_sources": [
+    {
+      "label": "DIAZOMA — Ancient Theater of Thoricus, phases et morphologie du théâtre",
+      "url": "https://diazoma.gr/en/theaters/ancient-theater-of-thoricus/"
+    },
+    {
+      "label": "Thorikos Archaeological Research Project — Site Based Projects / Theatre Publication",
+      "url": "https://www.thorikos.be/site-projects/"
+    },
+    {
+      "label": "Thorikos Archaeological Research Project — The Site (topographie, chronologie)",
+      "url": "https://www.thorikos.be/thorikos-the-site/"
+    },
+    {
+      "label": "National Hellenic Research Foundation — Archéologie de la cité d’Athènes, Thorikos (grec)",
+      "url": "https://archaeologia.eie.gr/archaeologia/gr/02_deltia/thorikos.html"
+    }
+  ],
+  "primary_texts": [
+    "Calendrier sacrificiel de Thorikos : inscriptions du dème attestant fêtes et pratiques rituelles locales (ne documente pas l’élévation du théâtre)."
+  ],
+  "methodology": "Évocation iconographique d’une phase classique du monument sur la base des plans et de la documentation archéologique ; aucune restitution métrique, photogrammétrie ou validation institutionnelle n’est revendiquée."
+}

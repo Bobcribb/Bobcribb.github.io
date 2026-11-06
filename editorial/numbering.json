@@ -849,6 +849,90 @@
           "path": "chapitres/origines-du-sacre/713-abydos-premiere-dynastie-tombes-subsidiaires-sacrifice-royal-campbell-2026.md",
           "request_sha256": "6bb027597d90f3f4b61ca25bb955f941cca28f6e71d478193d188c9713e9eaa2",
           "initial_source_sha256": "5f4af3fd95be851162d76fb8a460f442ce3953a405a5ad8c79b232da487a1523"
+        },
+        "7e3b9061-8192-40f0-90c2-8fd610c70191": {
+          "number": 714,
+          "path": "chapitres/origines-du-sacre/714-kerma-tumuli-royaux-cimetiere-oriental-bucranes-accompagnants-nubie.md",
+          "request_sha256": "ee81b273d061f2264be6a5b6c3777e1d2cd91fa09b25e85ba483030aac744776",
+          "initial_source_sha256": "7a5d987dffcd99e2fb6d215b2f3a9f49f4c2732e56729a72a73952deacdb355c"
+        },
+        "a507d3b4-8e11-4920-923b-699ac6d1210e": {
+          "number": 715,
+          "path": "chapitres/origines-du-sacre/715-sipan-huaca-rajada-tombes-royales-moche-accompagnants-iconographie-sacrifice.md",
+          "request_sha256": "a7c9e21a01e47818916ea78878770cef0b356120098200d9b8039d38ee2704b4",
+          "initial_source_sha256": "7ef4b3cc718f855511a3f8bc158be3d0cf1db30bd55101899611d8b19447ccf0"
+        },
+        "80c6bde1-92a4-4827-890f-a8410c3d2b16": {
+          "number": 716,
+          "path": "chapitres/origines-du-sacre/716-qustul-cimetiere-l-groupe-a-encensoir-souverainete-ta-seti.md",
+          "request_sha256": "e6fcb6c34a654e0a2e6926f91b59ea5446c5cad17bd26698bdbf9b1600630ba5",
+          "initial_source_sha256": "40581ff57c67fd8f7df2d4c3682300e60af4ea0cb1d52bc3cc8576111065da68"
+        },
+        "f7c064e8-2b83-4187-b7bb-9ac1b8e7e0d3": {
+          "number": 717,
+          "path": "chapitres/origines-du-sacre/717-hierakonpolis-hk6-elephants-babouins-animaux-sauvages-pouvoir-sacrifice.md",
+          "request_sha256": "77cce64bc7ddd3bfaf3a66e177e8693bee23eaea269cf219c4e529bd30eb3c4c",
+          "initial_source_sha256": "ad2fe22bf4f6efa6e92b8ddcb4c2d406557a18f2a055b693cdcf662bb37bbcb8"
+        },
+        "d137b4ec-68f0-4b7b-985d-50cc8ab7240e": {
+          "number": 718,
+          "path": "chapitres/origines-du-sacre/718-nabta-playa-cercles-pierres-bovins-calendrier-pastoralisme-sahara-neolithique.md",
+          "request_sha256": "dfed990ef032c32e0844d803f39c976f41b2ebb29aecfb426162b52d1b63780e",
+          "initial_source_sha256": "439a0044e6d50da12709e3a6ee9993737aa7945ed56bae8453484215cf923158"
+        },
+        "f84658a9-4307-4dde-9db3-45ae2e76cd91": {
+          "number": 719,
+          "path": "chapitres/origines-du-sacre/719-gebel-ramlah-necropoles-nourrissons-ocre-feu-pastoralisme-neolithique-sahara.md",
+          "request_sha256": "d3901a44160d8adb1c559ce27aceed665ff51643fa007690d566556a693cf379",
+          "initial_source_sha256": "40f97481cd2dd78cdb5c3a40cbcd9405ba469a2dcac5dfabf3d97753cad49557"
+        },
+        "c41e9a7b-f63d-4231-9df9-8e012b436d50": {
+          "number": 720,
+          "path": "chapitres/origines-du-sacre/720-messak-settafet-monuments-bovins-corbeilles-gravures-sacrifices-neolithique.md",
+          "request_sha256": "b53a68914fa30ea00fc371dc9647d49ad220086b764ba90b3d5c7ac5d7a84405",
+          "initial_source_sha256": "c580355287a4e856788dd9415310c98aaef723adc5b741ee93ceef006104f014"
+        },
+        "f826e142-3f57-4eb9-a6ef-4a8a31d98520": {
+          "number": 721,
+          "path": "chapitres/origines-du-sacre/721-tadrart-acacus-art-rupestre-abris-takarkori-pastoralisme-memoire-sahara.md",
+          "request_sha256": "9c9431dbe4059f41dea182172d5a23fa73d3182476208b72ff9e147e61fe324e",
+          "initial_source_sha256": "7c5219357e25cf35bfbfdf17a8befe2867e51ba297e0f907ad19d1f85c0043d4"
+        },
+        "8d1bc7e2-6ecf-44aa-9408-7d2ad8f321ca": {
+          "number": 722,
+          "path": "chapitres/origines-du-sacre/722-tassili-n-ajjer-tetes-rondes-images-ritualite-chronologie-critique-chamanisme.md",
+          "request_sha256": "c1d6aaa1528d6e708dfbd58d603f1b50e63441ae2199aba8803310fe89780a32",
+          "initial_source_sha256": "4e8dba685512623e35a2275cf988cb3eafdd0d72374c8f40d31fddc8a984df4a"
+        },
+        "d93f842b-c795-4bb9-9837-086d2b71f5a2": {
+          "number": 723,
+          "path": "chapitres/origines-du-sacre/723-gobero-tenere-cimetieres-kiffiens-teneriens-sepultures-fleurs-lacs-holocene.md",
+          "request_sha256": "4a4513ae204336f2eed68d592ebdcba6fa80dd54a49d65b008e148bfc7d9f3ed",
+          "initial_source_sha256": "744da46bad8534ed7ef532074e3d9714b2cd6a8de99973a25c04be3755c2a7d4"
+        },
+        "16ef29b0-e23e-42bd-b95e-bdf5b691651b": {
+          "number": 724,
+          "path": "chapitres/origines-du-sacre/724-ennedi-tchad-niola-doa-peintures-pastorales-eau-memoire-rituels.md",
+          "request_sha256": "f539acbb0b9bb3178d0451622c6308d6d013c3ab7992e57f477129c009aab06e",
+          "initial_source_sha256": "49470fb8a58196e42454736d12ad10bd5770d125eda51ec52e44d1018d27278d"
+        },
+        "c0a11ac2-2d39-4cc5-a958-12102e5249a3": {
+          "number": 725,
+          "path": "chapitres/origines-du-sacre/725-wadi-sura-gilf-kebir-mains-animales-abris-peintures-holocene.md",
+          "request_sha256": "44286e57b1d0f6f372c55d7f90bcb69a4f4e7adc579ba418232c737fd62b8207",
+          "initial_source_sha256": "6dd8b3556ebc9e1151239f8da231b9a7b78f4a56c67cd33a36cb4cb3c970db74"
+        },
+        "c91f2d6e-6a45-4f5b-a987-3c21b0961d40": {
+          "number": 726,
+          "path": "chapitres/origines-du-sacre/726-jebel-uweinat-karkur-talh-peintures-gravures-pastoralisme-eau-inscriptions.md",
+          "request_sha256": "cb0213df28d6596f7398c4dff064cff91fbb85f9ac202650a68f4c8b5e4b359a",
+          "initial_source_sha256": "b4f5aaae675fa59e7df2f1f06c127360746f34d4a4cb287127ca08a49836b55b"
+        },
+        "b37e94a2-520f-4c7b-8e60-71a5f29c83d4": {
+          "number": 727,
+          "path": "chapitres/origines-du-sacre/727-laas-geel-somaliland-bovins-parures-peintures-polychromes-pastoralisme.md",
+          "request_sha256": "65be96c2614f30193f4661286b0be6c0f87585dc62b0ad9820e87d735b9025cd",
+          "initial_source_sha256": "aec5e2dac16737cf37dc5bd477fafd7de8630ce3692b3bf6c8eb0efdc8f3c30f"
         }
       }
     },
@@ -2392,6 +2476,54 @@
           "path": "chapitres/tragedies/volume-cclviii-agathon-telephe-trgf-f4-enigme-thesee-alphabet-mysie.md",
           "request_sha256": "fe796645aaa074e0448ca3e14563b400aba1aa636fc848962465e36ffb1f38b5",
           "initial_source_sha256": "73f4d892eac1373991b83516841f804eaaa49405e690c73dd1ce63fec0701272"
+        },
+        "12d2ef61-cf88-4dbe-8342-6ec98d4e2dc7": {
+          "number": 259,
+          "path": "chapitres/tragedies/volume-cclix-acheos-eretrie-azanes-identite-territoire-sacrifice-choeur.md",
+          "request_sha256": "8fa27d393574c6137e6fe56c4fecda9bae2ffa659091f508b75075cc0f7ac2c6",
+          "initial_source_sha256": "567195c94f3d3aa732d2654aac685ae8111a7f66ce21b78db0394ff34957df2e"
+        },
+        "e7c9ab01-5011-48cd-a783-ccad3d42b8e5": {
+          "number": 260,
+          "path": "chapitres/tragedies/volume-cclx-acheos-eretrie-adrastos-royaute-alliances-survie-thebes.md",
+          "request_sha256": "64bd4de47211baccfe95c4c41f7b95d065ff4a35eb37bddfa6bfab64745a6b64",
+          "initial_source_sha256": "6d6eef6df86ad2b23795ab457cdce51f6d799832ff6a12a9b0e0e0b8358825b1"
+        },
+        "46d0210f-fb37-4ed4-9c0b-8826e851a943": {
+          "number": 261,
+          "path": "chapitres/tragedies/volume-cclxi-acheos-eretrie-athla-athloi-epreuves-concours-corps-athletes-prix.md",
+          "request_sha256": "e4b853b590925c6034b8e833d154f03fd9738ccc2812a833cd23684bde81cbe2",
+          "initial_source_sha256": "d535fa795cc4b995d990d085328203dff7ce0c9f631d2e6e54256e1f64b8a58a"
+        },
+        "5e916a7d-1d76-46e2-ae9d-daa7d3fd58c1": {
+          "number": 262,
+          "path": "chapitres/tragedies/volume-cclxii-acheos-eretrie-aithon-satyrique-faim-vin-odyssee-erysichthon.md",
+          "request_sha256": "1634adf44663a23d07dcfff28506e8afac257dccd83c7a6e328f98f53a440e93",
+          "initial_source_sha256": "fce40074f866c2283ced74127ecf69b87f61bb00fac81436c94428e8486388e1"
+        },
+        "2ebc38f4-7aa1-4c20-9c85-a59e632bd710": {
+          "number": 263,
+          "path": "chapitres/tragedies/volume-cclxiii-acheos-eretrie-alcmeon-satyrique-delphes-couteaux-sacrifices-kylichnides.md",
+          "request_sha256": "0bbb32b79900fe4a4ab1f07ff0b8ec65ba76c6b17e02515346f636acfc419f9d",
+          "initial_source_sha256": "228af511626f3cf774bf4943b9fe1c788e46d1345c2dcc2d22d9eca291e6656b"
+        },
+        "b2b4a2d5-8e86-4b61-8e4c-7f2e3d7a8c19": {
+          "number": 264,
+          "path": "chapitres/tragedies/volume-cclxiv-acheos-eretrie-alphesiboia-hyades-menades-alcmeon-dionysos.md",
+          "request_sha256": "ac3f4a28976c6735272af661b714c1415516727a9e1e89fcdc4b5aa67572b8ce",
+          "initial_source_sha256": "2833eaa89d5d018cd97f66d699cc9321eb1fad861d1f687addc509c9c0debe22"
+        },
+        "d4ea7ef2-9822-4b89-a38a-b5d6d7820e15": {
+          "number": 265,
+          "path": "chapitres/tragedies/volume-cclxv-acheos-eretrie-alphesiboia-hesychius-hyades-menades-alcmeon-dionysos.md",
+          "request_sha256": "dc269ea9d0ae6302a4bd8fd1144cd71dba2389df19ebbddfb2a0d9c31eece255",
+          "initial_source_sha256": "917c1026e35d4ce0832fe21feb98054464d7f5decf1b2d79807b00e6f97a3844"
+        },
+        "d7b9c48e-6d83-45f2-a9c6-f43208c18e71": {
+          "number": 266,
+          "path": "chapitres/tragedies/volume-cclxvi-acheos-eretrie-erginos-ig-ii2-2363-piree-tribut-minyens-orchomenos.md",
+          "request_sha256": "8f87075fc6bfd4256fb68c39dbd565de902fe0e9645c940d039cb12aae2a6cf3",
+          "initial_source_sha256": "86865c0a51ea27f945c45b6851a665cfbe42223204585a7528f306181a78ddd7"
         }
       }
     },
@@ -3253,6 +3385,78 @@
           "path": "chapitres/comparatif/volume-cclxxxiv-mc-092-miroirs-du-divin-reflet-apparition-divination-souverainete-egypte-japon.md",
           "request_sha256": "8d33a601fb4a1898f59539e17e06c2d7fb0c10716bea75678e6448a4c064664d",
           "initial_source_sha256": "0188f054b2aa80c77d7af29853d53d4e7f0e415d9927a5f7d0c98f240860721b"
+        },
+        "c75b425d-2a61-4ca9-9247-202611060436": {
+          "number": 285,
+          "path": "chapitres/comparatif/volume-cclxxxv-nuees-vieux-et-nouveau-solon-calendrier-dettes-credit-proces-423.md",
+          "request_sha256": "9469b69980d32b2be7f710fa7ce7e57f578c75895090e46b5be1362083f831df",
+          "initial_source_sha256": "35b933f95edbf56775f8b0b97b341bf7978d6b94159f0d1c139b656c24f8748c"
+        },
+        "4b9f3cae-83ad-4b5e-a36f-202611060393": {
+          "number": 286,
+          "path": "chapitres/comparatif/volume-cclxxxvi-mc-093-sceau-des-dieux-empreinte-autorite-protection-souverainete-sumer-perse-bible.md",
+          "request_sha256": "64a4dbdab1737665bf6dd5592c5cee9e76ce074cbf23a3497b3460b56e4754c0",
+          "initial_source_sha256": "2fc86e16b0b390d6ed9c86f071d5d0ce0db251a960adb4ba8d69e409b8f21dae"
+        },
+        "1b9f4d71-5c2e-4b9a-8f37-4d22c8c1ad14": {
+          "number": 287,
+          "path": "chapitres/comparatif/volume-cclxxxvii-oiseaux-cosmogonie-oeuf-nuit-eros-prodicos-oracles-souverainete-414.md",
+          "request_sha256": "b267b846babdadcb2b7f674e7b374ef1076853dfdc453a712196dc8d972266c9",
+          "initial_source_sha256": "ba2db73dad77f34ff79161111c6dea2a87e0435e34343610be074788a6c0fc6b"
+        },
+        "45a8e0d6-86c9-4af2-a784-7e6f9c2b4d51": {
+          "number": 288,
+          "path": "chapitres/comparatif/volume-cclxxxviii-lysistrata-deux-choeurs-eau-feu-antagonisme-reconciliation-411.md",
+          "request_sha256": "4a5a5f1248992e46ad8e85a4c701d4e5a1c3581b85b95a857f5ac59c1ce21bd2",
+          "initial_source_sha256": "402ae43f395be3729926fdbdf85b9ac1402436a04c14799d39b478fb98fb5a9e"
+        },
+        "6fa8d5d0-223e-43dd-8b28-202611060654": {
+          "number": 289,
+          "path": "chapitres/comparatif/volume-cclxxxix-mc-095-echelles-ciel-terre-egypte-jacob-mithra-sankassa-platon.md",
+          "request_sha256": "bcbc3ae2012df24bccae04d92d456c4cf1f947fb82fce530030292565964ac36",
+          "initial_source_sha256": "4082d71d22b296a944a6799092b3264b61799268522d003f5b65eb02dbc94816"
+        },
+        "b5947f21-6d8a-4cd9-9ab1-202611060594": {
+          "number": 290,
+          "path": "chapitres/comparatif/volume-ccxc-mc-094-clefs-du-sacre-inanna-hecate-lagina-janus-isaie-apocalypse.md",
+          "request_sha256": "3918ab1739c683e154cdf39e9863756de53560148190b842ae2150dbab2698c0",
+          "initial_source_sha256": "34c727149b2060c7e70b100aa4a3b203e649968a3e0478be7f9a226fad579b50"
+        },
+        "1b8a6723-4e90-4b8b-9a32-f0ad9c5d7e12": {
+          "number": 291,
+          "path": "chapitres/comparatif/volume-ccxci-oiseaux-promethee-parasol-basileia-tresor-renseignement-souverainete-414.md",
+          "request_sha256": "922571bec49d827e6cb33836701b83583fae37e9f0bf36b9b980cc0a1f35ece1",
+          "initial_source_sha256": "8b9368a6c68cb273cf3601c57625f839f2b3fb24567a98d6d0e7a0fc4312d84c"
+        },
+        "7e4c9b36-2d81-4e52-8fa0-6b307d54c961": {
+          "number": 292,
+          "path": "chapitres/comparatif/volume-ccxcii-guepes-banquet-symposion-violence-education-danse-justice-422.md",
+          "request_sha256": "6df4e34bcfc45482b5ea0e9ecefa02956aaf3112a7d79fbc7d5b9c68682a7215",
+          "initial_source_sha256": "cf90a04ce7b47e875b1e8ead23d9c9a77fea2c84c173e7f2cfec9f0d2b6b3413"
+        },
+        "970a2097-0ac7-4970-97c0-202611060097": {
+          "number": 293,
+          "path": "chapitres/comparatif/volume-ccxciii-mc-097-cheveux-du-sacre-meches-votives-deuil-nazir-berenice-shiva-bouddha.md",
+          "request_sha256": "9490c31f59111295a4743b4ea74b3f104c78066779b075799fd30c1fae2271ea",
+          "initial_source_sha256": "ddd9cfa54244cb8d64dfa50bfc736e77beaad9b90d0fb1283d172155967341f6"
+        },
+        "9b4d6a70-8ef2-4b8c-a4d3-202611060755": {
+          "number": 294,
+          "path": "chapitres/comparatif/volume-ccxciv-mc-096-ombres-divin-double-protection-substitution-egypte-mesopotamie-israel-grece-inde.md",
+          "request_sha256": "efadc7fa650ca29b2b360203ea2c3bec5e4a304708ebda1bdd1ea089e67022ea",
+          "initial_source_sha256": "adc91e54fc20c63ea8a57b5f045eb6fa84f7d8b587c39b9447843127f661857e"
+        },
+        "86fd4a9e-672b-4db3-9f21-6b8f0ce45a70": {
+          "number": 295,
+          "path": "chapitres/comparatif/volume-ccxcv-thesmophories-archer-scythe-police-langues-contrainte-theatre-411.md",
+          "request_sha256": "962b4a5f493e89faaaea7deca94b754babbd844c375895af034d4dbefbc5b576",
+          "initial_source_sha256": "3c4a353491d28e8e47a3477317c8910fca46ca0b00100d359779a454c8e40ff5"
+        },
+        "c1837ae4-9b56-4c0a-8469-f8d7a12c0e35": {
+          "number": 296,
+          "path": "chapitres/comparatif/volume-ccxcvi-oiseaux-teree-procne-voix-tragedie-metamo-philomela-intermediaire-414.md",
+          "request_sha256": "62b062e06c0ff8db89a4d8d4edda66c8bb53c0a41b4246b1db58f6119027ac5b",
+          "initial_source_sha256": "c60c277432a8458d26fdcf4a6658cf7b5736964c82bc0b031e65a078f3abe4f8"
         }
       }
     }

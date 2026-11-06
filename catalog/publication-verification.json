@@ -7,9 +7,9 @@
     "works": 1,
     "monographs": 2
   },
-  "source_commit": "fabb3cd46c62a177bb0541b23015339a60ebcc1e",
-  "github_run_id": "42153925962",
-  "indexed_documents": 1584,
+  "source_commit": "99ed697b85861dfa7afbd0c9176246545776c906",
+  "github_run_id": "42188396415",
+  "indexed_documents": 1645,
   "verified_archives": 27,
   "verified_media": 110,
   "preserved_source_sha256": {
@@ -28,6 +28,6 @@
     "chapitres/origines-du-sacre/annexe-576-payer-pour-passer-variante.md": "91507cab388ae767af004eb96a9162058d9314c554051db97262e532e904038e",
     "chapitres/origines-du-sacre/580-naufrages-secours-divins-survivants.md": "7bdf15b85439d398c4bae664ed1e3b751b6234581fc4486c9b3c011c8a8ead49"
   },
-  "last_numbered_chapter": 713,
-  "numbering_registry_sha256": "a222a522dc947ebb197498814a18eed2708898c7d6d471f77b92b942723bafc8"
+  "last_numbered_chapter": 727,
+  "numbering_registry_sha256": "9365e999fb2d8aa3a0d7bee1abee94400f3887fd05a878ca7f6be84632ef8d53"
 }

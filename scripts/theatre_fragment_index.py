@@ -62,6 +62,11 @@ def install(root: Path, output: Path, slugs=SLUGS):
     main = doc.select_one('main article.content') or doc.select_one('main')
     if main is None:
         return 0
+    # Les neuf Markdown complets reçoivent chacun un lecteur HTML autonome.
+    # Les éditions critiques, les scènes modernes et les sources restent intactes.
+    from theatre_source_readers import build_readers
+    if build_readers(root, output, records) != len(records):
+        raise RuntimeError('Théâtre : sources HTML incomplètes')
     for previous in main.select('#theatre-comedies-editions'):
         previous.decompose()
     cards = []
@@ -72,11 +77,15 @@ def install(root: Path, output: Path, slugs=SLUGS):
             f'<span class="mythos-theatre-edition-cote">Volume historique '
             f'{esc(item["historical_volume"])}</span>'
             f'<h3>{esc(item["title"])}</h3>'
-            '<p>Une même archive conservée, deux lectures distinctes.</p>'
+            '<p>Une même archive conservée, ses témoignages critiques et ses créations distinctes.</p>'
             '<nav aria-label="Versions du dossier">'
             f'<a href="{esc(item["critique"])}">Étude critique intégrale et bibliographie</a>'
             f'<a href="{esc(item["scenes"])}">Scènes modernes — créations distinctes</a>'
-            '</nav></article>'
+            '</nav><p class="mythos-theatre-edition-source">'
+            f'<a href="/corpus/theatre-grec/comedies/{esc(item["slug"])}-source.html">'
+            'Édition HTML du manuscrit intégral</a> · '
+            f'<a href="/corpus/theatre-grec/comedies/{esc(item["slug"])}-source.md">'
+            'Source Markdown originale</a></p></article>'
         )
     markup = (
         '<section id="theatre-comedies-editions" class="portal-section '
@@ -87,6 +96,17 @@ def install(root: Path, output: Path, slugs=SLUGS):
         'Les attestations anciennes, les hypothèses savantes et les scènes '
         'contemporaines sont explicitement distinguées ; les titres des '
         'volumes historiques ne sont pas de nouvelles attributions.</p>'
+        '<figure class="mythos-theatre-archive-figure">' 
+        '<img src="/assets/illustrations-articles/met-844483-acteurs-comiques-grecs.webp" '
+        'alt="Quinze figurines grecques d’acteurs comiques en terre cuite, masques et costumes" '
+        'loading="lazy" decoding="async">' 
+        '<figcaption>Quinze figurines grecques d’acteurs comiques en terre cuite, '
+        'fin du Ve–début du IVe siècle avant notre ère. Elles documentent les types '
+        'comiques, sans identifier une pièce ni une représentation particulière. '
+        '<a href="https://www.metmuseum.org/art/collection/search/844483">'
+        'Metropolitan Museum of Art, inv. 13.225.13–.14, .16–.28</a> · '
+        '<a href="https://creativecommons.org/publicdomain/zero/1.0/">Image CC0</a>.</figcaption>'
+        '</figure>'
         '<div class="mythos-theatre-editions-grid">' + ''.join(cards)
         + '</div></section>'
     )
@@ -118,6 +138,52 @@ def install(root: Path, output: Path, slugs=SLUGS):
     # Normaliser seulement cet espace de tête garantit l'idempotence des builds.
     rendered = re.sub(r'(?is)^(\s*<!doctype html>)\s*', r'\1\n', rendered)
     theatre.write_text(rendered, encoding='utf-8')
+    # Navigation scientifique réciproque, ajoutée au rendu seulement : les
+    # manuscrits sources et les textes des lecteurs demeurent inchangés.
+    for item in records:
+        for kind in ('critique', 'scenes'):
+            page = output / item[kind].lstrip('/')
+            document = BeautifulSoup(page.read_text(encoding='utf-8'), 'html.parser')
+            main_reader = document.select_one('main') or document.select_one('article.dai-article')
+            header = document.select_one('header.mythos-masthead')
+            if main_reader is None or header is None or document.head is None:
+                # Les tests unitaires anciens utilisent volontairement des fragments
+                # HTML minimaux sans chrome. Conserver leur rendu original quand
+                # seule une sous-série a été demandée. En publication intégrale,
+                # une structure lacunaire reste bloquante.
+                if tuple(slugs) != SLUGS:
+                    continue
+                raise RuntimeError(f'Lecteur incomplet pour la navigation : {page}')
+            text_before = main_reader.get_text(' ', strip=True)
+            for old in document.select('[data-mythos-theatre-archive-nav]'):
+                old.decompose()
+            other = 'scenes' if kind == 'critique' else 'critique'
+            label = 'Lire les créations contemporaines' if other == 'scenes' else 'Lire l’étude critique et sa bibliographie'
+            source_url = '/corpus/theatre-grec/comedies/' + item['slug'] + '-source.md'
+            nav = BeautifulSoup(
+                '<nav class="mythos-theatre-archive-return" data-mythos-theatre-archive-nav="1" '
+                'aria-label="Parcours documentaire de cette comédie perdue">'
+                '<a href="/theatre/#theatre-source-' + html.escape(item['slug'], quote=True) + '">'
+                '← Sommaire du théâtre grec</a>'
+                '<a href="' + html.escape(item[other], quote=True) + '">' + label + '</a>'
+                '<a href="/corpus/theatre-grec/comedies/' + html.escape(item['slug'], quote=True)
+                + '-source.html">Lire le manuscrit intégral en HTML</a>'
+                '<a href="' + html.escape(source_url, quote=True) + '">Manuscrit source Markdown</a>'
+                '</nav>', 'html.parser'
+            ).nav
+            header.insert_after(nav)
+            if not document.head.select_one('link[href="/assets/mythos-theatre-archive.css"]'):
+                link = document.new_tag('link', rel='stylesheet', href='/assets/mythos-theatre-archive.css')
+                document.head.append(link)
+            if main_reader.get_text(' ', strip=True) != text_before:
+                raise RuntimeError(f'Texte de la comédie modifié : {page}')
+            page.write_text(str(document), encoding='utf-8')
+    portal = BeautifulSoup(theatre.read_text(encoding='utf-8'), 'html.parser')
+    if portal.head is None:
+        raise RuntimeError('Portail Théâtre : élément head manquant')
+    if not portal.head.select_one('link[href="/assets/mythos-theatre-archive.css"]'):
+        portal.head.append(portal.new_tag('link', rel='stylesheet', href='/assets/mythos-theatre-archive.css'))
+    theatre.write_text(str(portal), encoding='utf-8')
     return len(records)
 
 

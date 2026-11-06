@@ -1,0 +1,499 @@
+# MYTHOS — Encyclopédie des tragédies grecques — Volume CCLXV (265)
+
+## Achéos d’Érétrie, *Alphésibée* (Ἀλφεσίβοια) — La ménade sous les étoiles : amour, meurtre, purification et identités concurrentes
+
+**Monographie universitaire intégrale — édition fragmentaire, tragédie grecque perdue, mythes d'Alcméon et d'Alphésibée, philologie d'Hésychios, histoire du théâtre et du drame satyrique, religion dionysiaque, géographie de Psophis et de l'Achéloos, philosophie et iconographie critiques.**
+
+**Référence canonique de l'œuvre :** Achéos d'Érétrie (Ἀχαιός ὁ Ἐρετριεύς), *Alphésibée* (Ἀλφεσίβοια), **TrGF I, auteur 20, F 16** ; dans la concordance numérique universitaire **FragTrag.1, Achaeus I, sixième titre, fr. 16** ; édition historique August Nauck, *Tragicorum Graecorum Fragmenta*, deuxième édition (Leipzig, 1889), **p. 750**. La même concordance enregistre à la suite un **rep. 2** correspondant à **TrGF 20 F 46, appareil de témoignages** : il ne faut ni fusionner cet appareil avec le fragment 16 ni lui attribuer sans contrôle une réplique supplémentaire de la pièce. [FragTrag.1, concordance](https://fragtrag1.upatras.gr/exist/apps/fragtrag/indexc.html) ; [Perseus, édition Nauck](https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0309.tlg001.opp-grc1).
+
+**Statut de la documentation :** l'œuvre n'est pas conservée dans sa continuité ; aucune date de représentation, aucun nom de personnage sûrement prononcé dans la pièce, aucune distribution, aucun chœur, aucun lieu d'action, aucune scène complète et aucun dénouement ne sont directement connus. Une très brève expression, attribuée par le lexicographe Hésychios à cette œuvre, constitue l'assise textuelle. Toute reconstruction sera explicitement signalée comme telle.
+
+### Résumé de la monographie
+
+Le titre *Alphésibée* semble d'abord diriger vers une femme du cycle thébain : la fille du roi Phégée de Psophis, épouse d'Alcméon après son matricide, puis abandonnée lorsque ce dernier rejoint Callirhoé. Les traditions antiques donnent à cette femme plusieurs noms et plusieurs destins. Le pseudo-Apollodore la nomme Arsinoé et raconte son enfermement ainsi que sa réduction en esclavage ; Pausanias la nomme Alphésibée ; Properce évoque une vengeance qu'elle exerce elle-même contre ses frères. Les différences ne sont pas accessoires : elles déterminent qui agit, qui souffre, qui juge et qui met fin à la violence.
+
+Un second récit, rattaché à une source beaucoup plus tardive et peu fiable, présente une nymphe homonyme d'Asie, aimée de Dionysos, dans une étiologie du Tigre. L'unique fragment d'Achéos, transmis par Hésychios, associe une qualité astrale et la figure de la ménade. La tentation de préférer une intrigue dionysiaque est ainsi compréhensible ; elle n'est cependant pas démontrable. La pièce pourrait avoir été une tragédie centrée sur la crise de Psophis, un drame satyrique d'un autre cycle ou une œuvre relevant d'une combinaison disparue. Des hypothèses modernes, dont celle rapportée au nom de C. Drago, divergent.
+
+La difficulté constitue l'objet intellectuel de la monographie. Elle exige un travail à quatre étages : établir le minuscule reliquat linguistique sans le transformer en scène ; distinguer les deux traditions mythologiques ; examiner ce que chacune permet de concevoir au théâtre ; mesurer les limites des lectures de Platon, Hegel et Nietzsche. L'étude ne fournit aucun dialogue grec inventé, aucune traduction apocryphe et aucun synopsis présenté comme factuel.
+
+### 1. Continuité éditoriale : la pièce qui suit *Alcméon satyrique*
+
+Les dossiers précédents du cycle MYTHOS ont été consacrés, dans l'ordre documentaire de FragTrag.1, à *Adraste*, *Les Azanes*, *Les Épreuves / Concours*, *Aithon* et *Alcméon satyrique*. La liste universitaire place immédiatement après ce dernier **Alphésibée**, puis un titre *Erginos* dont l'attribution exige de fortes réserves. Le présent volume suit cet ordre **bibliographique**, non une chronologie de composition. Il ne duplique pas le dossier d'*Alcméon satyrique* : celui-ci est attesté par des fragments transmis notamment par Athénée sur la nourriture et les usages cultuels ; le présent dossier part d'une **notice lexicographique** et de traditions contradictoires sur une héroïne éponyme.
+
+Une collection peut donc comprendre plusieurs œuvres liées à un même héros sans qu'elles soient répétitives : un nom partagé n'est pas une identité de pièce. Pour chacune, la condition est d'établir un titre antique autonome et une attestation propre. Les études comparatives sur l'*Alcméon* d'Euripide et les récits thébains déjà présents dans MYTHOS seront citées en renvoi et non réécrites comme si elles constituaient des tragédies inédites d'Achéos.
+
+### 2. Achéos d'Érétrie : auteur et frontière des genres
+
+Achéos d'Érétrie appartient au Ve siècle avant notre ère et à l'univers concurrentiel des théâtres grecs où la tragédie et le drame satyrique s'écrivent dans la proximité de la fête de Dionysos. Les biographies anciennes lui reconnaissent une réputation particulière dans le drame satyrique ; leurs chiffres sur le nombre total de pièces ne concordent pas entièrement. Ces témoignages permettent de situer l'auteur sans transformer toutes les œuvres dont le titre demeure en pièces satyriques.
+
+Le classement de FragTrag distingue explicitement des titres accompagnés de la mention « satyrique » — *Aithon*, *Alcméon*, *Héphaïstos*, *Iris*, *Linos*, *Omphale* — et des titres qui ne la portent pas, dont *Alphésibée*. L'absence de qualification n'est pas une preuve absolue de genre, mais elle interdit d'affirmer qu'une étiquette satyrique serait antique et assurée pour le présent titre. Une hypothèse générique ne doit pas être promue à la dignité d'un témoignage.
+
+### 3. Le sixième titre de FragTrag.1
+
+La concordance FragTrag.1, hébergée par l'Université de Patras, place **Ἀλφεσίβοια** comme sixième titre de l'auteur *Achaeus I* ; la ligne suivante donne **fr. 16 = TrGF I 20 F 16**. La ligne ultérieure « rep. 2 = fr. 46 (app. test.) » appartient à un dossier de rapports et de témoignages critiques ; elle ne constitue pas un deuxième fragment versifié attesté de la pièce à additionner au premier. [Concordance universitaire](https://fragtrag1.upatras.gr/exist/apps/fragtrag/indexc.html).
+
+Il faut conserver cette distinction dans les métadonnées et les index de recherche : l'identifiant MYTHOS qui sera attribué par GitHub Actions n'est ni « 20 », ni « F 16 », ni « 46 ». Les chiffres antiques, critiques et éditoriaux renvoient à des plans d'organisation différents. Toute phrase parlant de « vers 16 » serait fautive si elle confondait le fragment numéroté avec une ligne de la tragédie disparue.
+
+### 4. Nauck et Snell : deux moments de l'édition critique
+
+La deuxième édition des *Tragicorum Graecorum Fragmenta* d'August Nauck (1889) rassemble les pièces d'Achéos aux pages 746–759 et indique *Alphésibée* à la **p. 750**. La référence moderne **TrGF I, 20 F 16** appartient à la tradition éditoriale issue de Bruno Snell, dont le premier volume rassemble les testimonia et fragments des auteurs tragiques moins bien conservés. L'adresse d'une édition ancienne permet de retrouver un passage, mais ne garantit pas à elle seule qu'une lecture, accentuation ou attribution soit restée incontestée.
+
+La méthode suivie est de citer les deux systèmes sans les confondre, de préciser l'état du témoin tardif et de signaler ce qui n'a pas été vérifié par collation directe des manuscrits d'Hésychios. La concordance est contrôlée ; une nouvelle édition grecque diplomatique n'est pas revendiquée. Cette réserve importe davantage que l'illusion d'un texte métriquement complet.
+
+### 5. Le témoin : Hésychios d'Alexandrie
+
+Le fragment attribué à la pièce est transmis par **Hésychios**, lexicographe de l'Antiquité tardive, à l'entrée **ε 2689** du lexique. Un lexique cite des mots et expressions pour les expliquer ; il ne cherche pas à reproduire les scènes des pièces dont ils sont tirés. L'opération de citation privilégie le passage remarquable ou obscur et coupe l'énoncé de son contexte d'énonciation.
+
+Une étude de Konstantinos I. Chaskis, *Αποσπάσματα μυθοπλασίας* (*Fragments de fiction : le mythe chez les tragiques mineurs des Ve et IVe siècles av. J.-C.*), doctorat de l'Université d'Ioannina, déposé en 2021, imprimé dans un fichier portant la date 2022, **p. 104–105**, reproduit le fragment et commente sa transmission. Les pages ont été vérifiées sur leur reproduction visuelle : [dossier universitaire stable](https://olympias.lib.uoi.gr/jspui/handle/123456789/32425), [PDF universitaire](https://olympias.lib.uoi.gr/jspui/bitstream/123456789/32425/1/%CE%94.%CE%94.%20%CE%A7%CE%91%CE%A3%CE%9A%CE%97%CE%A3%20%CE%9A%CE%A9%CE%9D%CE%A3%CE%A4%CE%91%CE%9D%CE%A4%CE%99%CE%9D%CE%9F%CE%A3%20%CE%99.%202021.pdf).
+
+### 6. Le seul énoncé grec attribué : transcription contrôlée
+
+Dans la transcription reproduite par Chaskis, **p. 104**, la formule est :
+
+> **ἔναστρος ὥστε μαινάς**
+
+Cette brève citation est **reprise de l'édition donnée dans une étude moderne à partir d'Hésychios ε 2689** : elle ne prétend pas résulter d'une collation autonome des manuscrits grecs. Une traduction française **indicative** peut proposer : « étoilée, comme une ménade », ou, si le contexte adoptait une autre flexion nominale, « constellée, telle une ménade ». La phrase isolée n'autorise pas à rétablir le substantif ou le sujet qui l'entourait dans la pièce.
+
+La traduction donnée par Chaskis en grec moderne insiste sur une comparaison « comme une ménade parmi les astres ». Elle n'équivaudrait pas à une traduction mot à mot sans débat : l'adjectif et le nom ouvrent plusieurs relations sémantiques, tandis qu'une traduction doit suppléer implicitement des éléments de syntaxe absents. La prudence linguistique commande de distinguer la formulation effectivement reproduite et les expansions que chaque interprète ajoute.
+
+### 7. Philologie d'**ἔναστρος** : qualité astrale, non récit cosmique
+
+L'adjectif **ἔναστρος** renvoie à la relation aux astres : « étoilé », « pourvu d'étoiles », « situé parmi les étoiles », selon le contexte. Il n'impose pas une métamorphose littérale en constellation. Le caractère imagé du vocabulaire grec peut qualifier un éclat, une apparence, un lieu ou une assimilation poétique. Le sens exact dépend des mots supprimés par la transmission lexicographique.
+
+La forme en **-ος** ne suffit pas à identifier le sexe du référent : un adjectif de ce type peut participer à des emplois où le genre du substantif doit être connu pour interpréter le tout. La présence de **μαινάς**, désignant une ménade, rend l'association au féminin naturellement attractive, mais ne démontre pas que le locuteur s'adressait précisément à Alphésibée. Toute traduction nominative du type « Alphésibée, ménade étoilée » est une hypothèse interprétative, non un texte conservé.
+
+### 8. Philologie de **μαινάς** : le nom commun n'est pas un personnage prouvé
+
+**Μαινάς** renvoie à une ménade, figure de l'univers dionysiaque, associée à la danse, à l'élan rituel et à l'état de fureur sacrée. Il ne signifie pas, à lui seul, qu'une femme du drame portait un costume de bacchante, qu'un chœur féminin apparaissait en scène ou qu'un sacrifice cruel était accompli. Dans une comparaison, une femme ou même un comportement peut être assimilé à une ménade sans être littéralement membre d'un groupe cultuel.
+
+Le commentaire ancien suggère un jeu lexical de rapprochement entre **Bacchantes** et **Hyades**. Mais le vocabulaire de la « ménade » est disponible pour la métaphore aussi bien que pour l'identification rituelle. Passer du nom commun à un chœur ou à une scène de poursuite suppose la présence d'autres indices, absents du fragment directement transmis.
+
+### 9. La valeur de **ὥστε** dans l'expression
+
+La petite unité **ὥστε** participe ici à une comparaison telle que la restitue le dossier lexicographique. Dans la langue grecque, des particules de ce type peuvent, selon les constructions, marquer comparaison ou conséquence. Isolée dans une formule citée hors contexte, sa seule présence ne permet de décider ni du type exact de phrase ni de sa fonction scénique. Chaskis reproduit une expression brève qui se comprend comme un rapprochement imagé.
+
+La pratique philologique consiste à ne pas recomposer arbitrairement une proposition complète. Nous ignorons si l'expression avait valeur de prédicat, de qualification, d'élément d'une longue phrase ou de conclusion d'une comparaison. Nous ignorons son mètre effectif dans le drame. Toute tentative de prolongement vers un trimètre inventé serait contraire au principe d'établissement des textes.
+
+### 10. Hésychios, les Hyades et les Bacchantes
+
+Selon la notice que Chaskis attribue à Hésychios, le lexicographe associe l'expression à l'usage de **Ὑάς / Ὑάδες**, en expliquant que les **Βάκχαι**, les Bacchantes, pouvaient être dites Hyades. Les Hyades appartiennent également au vocabulaire astronomique grec, comme groupe d'étoiles lié au cycle des saisons et aux pluies. Le glissement entre étoile, danse, bacchante et nymphe crée une image remarquable, mais les étapes du glissement doivent être reconstruites comme une relation de langage et de mythographie, non comme une donnée de mise en scène.
+
+Le commentaire moderne ne doit pas isoler une prétendue doctrine astrale d'Achéos. L'étude philologique montre seulement qu'un lecteur tardif jugeait l'expression assez particulière pour la gloser. Le mot rare attire l'attention sur un registre esthétique où le monde dionysiaque peut être pensé en termes célestes, sans que l'argument de la pièce soit livré.
+
+### 11. Les Hyades : constellation et mythographie
+
+Dans les traditions astronomiques et mythographiques, les Hyades sont associées au ciel et à la pluie, mais les récits sur leur généalogie et leur transformation ne constituent pas un système unique. Les rapprochements avec Dionysos, ses nourrices et les nymphes de Nysa varient selon les auteurs et les époques. La simple concordance entre le pluriel Hyades et les Bacchantes ne suffit pas à identifier une version précise de l'étiologie du groupe stellaire.
+
+L'important pour *Alphésibée* est de reconnaître une **texture d'imaginaire** : la folie rituelle n'est pas présentée seulement sous son aspect terrestre ; elle peut être qualifiée par une lumière ou un espace céleste. Une interprétation esthétique est donc possible, même si la situation dramatique reste obscure. Il est interdit de déduire que la pièce contenait une scène d'ascension au ciel ou d'apothéose.
+
+### 12. Une phrase de désir, de terreur ou de colère ?
+
+Les spécialistes proposent différentes valeurs de cette comparaison : la grâce d'une figure en mouvement, la fureur d'une femme devant un crime, l'ardeur d'une bacchante ou la manifestation d'une puissance divine. Le problème est qu'aucune réaction, aucun verbe d'action et aucun nom de locuteur ne sont conservés dans ce fragment. Il ne serait pas légitime d'inscrire dans une note « Alphésibée entre en transe après la mort d'Alcméon » sans préciser qu'il s'agit d'une fiction de reconstitution.
+
+La formule possède une puissance poétique propre : elle associe les images d'un mouvement orgiastique et d'une qualification astrale. Mais le degré de précision de l'interprétation doit rester proportionné à la longueur du témoignage. Ce qui demeure sûr est la **forme isolée d'une comparaison** et son attribution à un titre ancien.
+
+### 13. Pourquoi le genre reste discuté
+
+L'inventaire de Nauck et la concordance FragTrag présentent *Alphésibée* parmi les titres d'Achéos sans la dénomination **« satyrique »** explicitement donnée pour certaines autres œuvres. Cela constitue le point de départ d'un classement provisoire comme tragédie perdue. Or la mention des Bacchantes et de l'imaginaire dionysiaque a motivé des lectures alternatives.
+
+Chaskis **p. 104** rapporte l'hypothèse de **C. Drago (1971, p. 234)** : *Alphésibée* aurait pu être une œuvre satyrique traitant non la fille de Phégée mais une nymphe orientale désirée par Dionysos. La possibilité de deux groupes choraux, satyres et ménades, est **une spéculation dramaturgique rapportée** ; ce ne sont pas des distributions authentifiées. La monographie conserve donc la qualification **« tragédie ou genre discuté »**, tout en notant l'intérêt de l'hypothèse satyrique.
+
+### 14. Deux Alphésibées : le problème de l'homonymie
+
+Le nom **Alphésibée** n'est pas la garantie qu'une seule figure mythique en soit la propriétaire. Une tradition associe une fille du roi **Phégée** de Psophis au matricide Alcméon ; une autre, transmise bien plus tard, connaît une nymphe désirée par **Dionysos** dans l'histoire étiologique du Tigre. La coïncidence nominale et la présence d'une ménade dans la citation donnent une raison d'explorer les deux pistes, non de les fusionner.
+
+Nous étudierons les deux systèmes narratifs **séparément**. Les trajets d'Alcméon entre Arcadie et Achéloos, les frères de la jeune femme, le collier d'Harmonie, la purification et le deuil appartiennent au premier ; le désir d'un dieu, la transformation, le passage d'un fleuve d'Asie et le nom d'un fils appartiennent au second. Aucune tradition antique retrouvée ne démontre qu'Achéos combinait ces éléments.
+
+### 15. Dossier I : la fille de Phégée à Psophis
+
+Chez **Pausanias VIII, 24.8**, le héros Alcméon, fils d'Amphiaraos, arrive à Psophis après avoir tué sa mère ; il y épouse **Alphésibée**, fille de **Phégée**, et lui remet notamment le fameux collier. Pausanias situe ce récit dans la géographie de l'Arcadie occidentale et dans une tradition locale liée à la tombe du héros. L'existence d'un tel récit antique assure que le titre d'Achéos pouvait évoquer, pour des lecteurs postérieurs, une héroïne au cœur d'un conflit entre la famille, l'exil et la purification. [Pausanias VIII, 24](https://www.theoi.com/Text/Pausanias8B.html).
+
+Cependant, la date de composition de Pausanias, plusieurs siècles après le théâtre classique, interdit d'utiliser chaque étape de son récit comme un argument de la pièce. Il ne cite pas Achéos en établissant la vie d'Alphésibée, et nous ne possédons aucun résumé d'une performance. La mythographie est un cadre possible, non une preuve dramatique.
+
+### 16. Le collier d'Harmonie et la première faute de la chaîne
+
+Le mythe d'Alcméon appartient à un ensemble thébain où les objets précieux circulent entre les maisons et déplacent les obligations. Le collier d'Harmonie est lié à la corruption d'Ériphyle, femme d'Amphiaraos et mère d'Alcméon : elle consent à la participation de son époux à une expédition qu'il redoute, après avoir accepté un présent. Le rapport entre désir d'un objet et décision politique ou familiale devient central dans la mémoire des Sept contre Thèbes.
+
+La tragédie conservée d'Eschyle, *Les Sept contre Thèbes*, ne livre pas l'histoire complète de ce collier, mais partage l'horizon de la guerre. Les épisodes relatifs à Ériphyle et aux Épigones sont transmis par d'autres sources. Une monographie d'*Alphésibée* peut analyser l'objet et ses effets dans la tradition, sans attribuer au drame d'Achéos un discours sur les bijoux ni une apparition du collier.
+
+### 17. Ériphyle : épouse, mère et agente d'une décision
+
+Dans la tradition, Ériphyle n'est pas seulement une femme séduite par un luxe inutile : elle occupe une position décisive dans l'arbitrage entre liens conjugaux, intérêts dynastiques et fatalité guerrière. Le mécanisme par lequel un don infléchit une décision permet de poser la question de la corruption domestique dans des termes politiques. Le récit n'épuise pourtant pas les significations de la figure, dont les versions divergent.
+
+En plaçant le rôle d'Ériphyle au commencement du drame familial, le mythe présente à Alcméon un double héritage : la violence de la guerre thébaine et l'injonction de venger le père. Aucun témoin ne permet cependant de savoir si Alphésibée d'Achéos connaissait sur scène l'histoire d'Ériphyle, si celle-ci apparaissait dans un récit rapporté ou si le poète ignorait cette partie de la légende au profit d'un autre épisode.
+
+### 18. Les Épigones et la violence héritée
+
+Les Épigones attaquent Thèbes après l'échec des Sept. Dans **Pseudo-Apollodore, *Bibliothèque* III, 7.2–5**, Alcméon participe à leur histoire puis apprend la corruption d'Ériphyle. Selon la compilation, il tue sa mère après avoir consulté l'oracle d'Apollon ; le meurtre est suivi de poursuites et de troubles. [Texte du pseudo-Apollodore III, 7](https://www.theoi.com/Text/Apollodorus3.html).
+
+L'opposition entre vengeance prescrite et interdit du meurtre maternel fournit un problème philosophique de grande profondeur. Mais *Alphésibée* pourrait avoir commencé beaucoup plus tard dans le cycle, voire suivre un autre mythe. Les Épigones forment un passé possible, non un prologue assuré.
+
+### 19. L'ordre divin et la responsabilité humaine
+
+La version du pseudo-Apollodore qui attribue à un oracle la mise à mort d'Ériphyle semble instaurer un paradoxe : pourquoi le meurtrier obéissant à un dieu est-il frappé d'une souillure qui le poursuit ? Le récit ne résout pas simplement ce paradoxe. Il matérialise une tension entre commandement, intention, parenté et ordre religieux, sans équivalent automatique dans nos catégories modernes de droit.
+
+Pour Alphésibée, épouse d'un homme soumis à cette contradiction, la question serait de savoir quel type de vie commune est possible avec une personne qui poursuit sans fin une purification. Cette question peut enrichir une lecture moderne du mythe ; elle n'est pas, faute de texte, une scène dialoguée attestée chez Achéos.
+
+### 20. Psophis, Phégée et la première purification
+
+Le pseudo-Apollodore **III, 7.5** fait arriver Alcméon chez **Phégée**, roi de Psophis ; le roi le purifie, puis le marie à sa fille qu'il appelle **Arsinoé**. La divergence de nom avec Pausanias est capitale. Dans la version qui parle d'Arsinoé, celle-ci correspond par ses relations et son histoire à Alphésibée, sans que l'on puisse postuler que toute tradition grecque emploie les deux noms comme de simples variantes indifférentes.
+
+Le mariage, au sein de la logique mythique, semble prolonger le refuge : il accueille le coupable dans une nouvelle maison. Mais ce refuge demeure fragile. La souillure qu'Alcméon transporte avec lui n'est pas nécessairement supprimée par son installation. L'histoire du mariage pose la question d'une réintégration jamais définitivement acquise.
+
+### 21. La terre devient stérile : une crise au-delà de la famille
+
+Selon le pseudo-Apollodore, la région éprouve une stérilité liée à la présence d'Alcméon. La souillure personnelle déborde les frontières du sujet : elle touche la terre, la communauté et la possibilité de vivre. Cette idée est fréquente dans différents récits grecs, mais elle ne se réduit pas à une croyance agronomique littérale. Elle fait de la rupture morale un problème collectif.
+
+Le thème invite à relire certaines scènes de la tragédie conservée, notamment le désordre de Thèbes dans l'*Œdipe roi* de Sophocle. Une mise en parallèle ne signifie pourtant pas qu'Achéos a reproduit une épidémie, un oracle identique ou une enquête devant un chœur. Le rapport entre souillure et terre stérile appartient ici à la **tradition mythographique extérieure**.
+
+### 22. L'Achéloos : purifier dans une terre nouvelle
+
+L'oracle pousse Alcméon vers l'Achéloos, là où le dépôt d'alluvions a formé une terre nouvelle. Dans **Thucydide II, 102.5–6**, l'historien explique le récit selon lequel une terre qui n'existait pas lors du matricide ne pouvait pas avoir été souillée par cet événement. La transformation du milieu physique offre une solution mythique à l'impasse de la culpabilité. Thucydide signale qu'il transmet une **tradition**, à distinguer de son observation sur les dépôts du fleuve. [Thucydide II, 102](https://cts.perseids.org/read/greekLit/tlg0003/tlg001/1st1K-eng1/2.102.1-2.102.6).
+
+La géographie devient ici une pensée du temps : ce qui est nouveau échappe à une faute produite dans l'ancien monde. L'espace ne sert pas seulement de décor ; il rend possible une rupture dans la continuité de la souillure. Mais il serait imprudent de prêter à Achéos une scène sur le delta ou le travail du fleuve.
+
+### 23. Callirhoé : une nouvelle union et un nouvel ordre
+
+Dans la compilation mythographique, Alcméon épouse **Callirhoé**, fille du dieu fleuve Achéloos, après l'échec de son premier établissement à Psophis. Cette nouvelle union fonde une autre ligne de descendance, liée notamment aux noms d'Amphotéros et d'Acarnan. Le remariage n'est pas présenté à travers la conscience d'Alphésibée : les sources donnent d'abord l'itinéraire du héros errant.
+
+Ce déséquilibre documentaire rend intéressante une pièce qui porterait le titre de la première épouse. Si tel était le sujet d'Achéos, le nom sur l'affiche du spectacle aurait pu modifier le centre de gravité d'un récit d'ordinaire dominé par Alcméon. C'est une proposition de lecture de titre, pas une preuve que la femme détenait la scène principale.
+
+### 24. Le collier et le péplos : objets déplacés, femmes opposées
+
+Callirhoé désire, dans la tradition du pseudo-Apollodore, le collier et le vêtement d'Harmonie que possède la fille de Phégée. Alcméon revient donc réclamer les objets à Psophis. Les dons, en changeant de mains, réactivent la violence antérieure. Le récit met en rapport parures, alliance matrimoniale, contrôle des biens et obligation de fidélité.
+
+Il serait anachronique de réduire les deux femmes à un simple triangle jaloux. Dans les mythes dynastiques, l'objet peut porter prestige, pouvoir, souillure, dot, souvenir de guerre ou garantie d'alliance. La présence du collier n'autorise pas davantage à traiter sa valeur comme une « malédiction automatique » gouvernant mécaniquement chaque geste. Les récits montrent des choix humains, des mensonges et des décisions sanglantes.
+
+### 25. Le mensonge de la consécration delphique
+
+Pour obtenir le collier et le péplos, Alcméon déclare, selon **Pseudo-Apollodore III, 7.5**, qu'un oracle lui demande de les consacrer à Delphes. Phégée le croit, mais un serviteur révèle que les objets doivent en réalité être remis à Callirhoé. Ce motif est crucial : un langage de purification et de consécration peut devenir instrument de tromperie.
+
+La dimension morale de l'épisode ne résulte pas de la seule présence d'Apollon. Elle tient à la manière dont un protagoniste emprunte la légitimité d'une parole divine pour obtenir un avantage privé. Un dramaturge aurait pu en faire un enjeu d'affrontement verbal ; nous ne savons pas si Achéos traitait cet épisode. La séparation entre **potentiel dramatique** et **preuve scénique** demeure impérative.
+
+### 26. Le meurtre d'Alcméon : frères, père et responsabilité
+
+Le pseudo-Apollodore fait agir les **fils de Phégée** sur l'ordre de leur père : ils tendent une embuscade à Alcméon et le tuent. La version de **Pausanias VIII, 24.10** nomme ces fils **Téménos** et **Axion**, tandis que le pseudo-Apollodore les appelle **Pronoos** et **Agénor**. Les variantes doivent être conservées comme telles ; choisir les deux noms les plus connus et oublier les autres produirait un récit artificiellement unifié.
+
+L'intrigue possible d'une femme dont les frères tuent l'époux présente un conflit de loyautés d'une grande force. Mais l'existence de ce conflit dans le récit mythique ne prouve pas que le fragment « ménade étoilée » le désigne. Une identification dépendrait d'une association explicite entre les expressions d'Hésychios et les personnages de Psophis, qui n'a pas survécu.
+
+### 27. Arsinoé proteste : la répression d'une voix féminine
+
+Dans **Pseudo-Apollodore III, 7.5**, la fille de Phégée, appelée Arsinoé, reproche aux hommes de sa famille l'assassinat d'Alcméon. Ses frères l'enferment dans un coffre, la transportent à Tégée et la remettent comme esclave à **Agapénor**, en l'accusant faussement du meurtre. Ce dossier est plus complexe qu'une histoire de fidélité conjugale : la dénonciation du crime provoque l'enfermement, l'exil et la dépossession du statut.
+
+Le mythe crée un espace d'analyse sur la capacité de témoigner lorsqu'un groupe familial contrôle à la fois la violence et le récit public. Il y a une rupture entre celui qui commet l'acte et celle qu'on désigne coupable. Le théâtre pouvait explorer ce renversement de vérité ; aucune scène de procès ou de plaidoyer ne peut pourtant être attribuée à Achéos.
+
+### 28. Le coffre et la circulation forcée d'une femme
+
+Le coffre, dans la version mythographique, représente une forme de transport et d'effacement. Enfermer Arsinoé et la remettre à un tiers permet à ses proches de déplacer hors du territoire un témoin gênant tout en inventant une nouvelle version de la mort d'Alcméon. Les détails matériels du récit doivent être utilisés avec prudence ; il ne s'agit pas d'une description sociologique directe des pratiques judiciaires arcadiennes du Ve siècle.
+
+Le motif peut être rapproché typologiquement de traditions de femmes enfermées, envoyées ou abandonnées dans d'autres mythes. Mais l'équivalence entre ces récits serait trompeuse si elle effaçait le contexte propre de la fille de Phégée. Aucun costume, accessoire ou mécanisme scénique correspondant à ce coffre n'est documenté pour la pièce perdue.
+
+### 29. La vengeance des fils de Callirhoé
+
+Dans **Pseudo-Apollodore III, 7.6–7**, Callirhoé demande à Zeus que les fils qu'elle a eus d'Alcméon grandissent instantanément pour venger leur père. **Amphotéros** et **Acarnan** poursuivent les meurtriers, tuent les fils de Phégée, puis s'en prennent à Phégée et à sa femme. Les noms des enfants, les détails de la poursuite et la présence de Delphes prolongent une logique de vengeance masculine qui déplace hors du récit la première épouse.
+
+Une tradition donnant à Alphésibée la parole ou l'action ne pouvait être assimilée automatiquement à cette version. La remarque vaut pour tout commentaire sur la tragédie : il existe des histoires différentes, non des « erreurs » que le critique devrait corriger pour produire un scénario unique. Le poète pouvait sélectionner une tradition maintenant perdue.
+
+### 30. Properce : une Alphésibée qui venge elle-même
+
+Dans **Properce, *Élégies* I, 15**, un distique invoque **Alphésibée** comme exemple de fidélité à son époux et lui attribue une vengeance dirigée contre ses **frères**, rompant ainsi le lien du sang au nom de l'amour conjugal. Le texte latin est attesté ; il ne dit pas comment s'est accomplie la vengeance ni quelles actions précises précédaient la rupture. [Texte latin critique diffusé par Packhum](https://latin.packhum.org/loc/620/1/15/409-412%2C765-768%2C932-935%2C1022-1025%2C1047-1050%2C1698-1701%406).
+
+Cette tradition diverge du pseudo-Apollodore, où la vengeance principale est accomplie par les fils de Callirhoé et où la première épouse subit captivité et esclavage. Herbert Jennings Rose, dans l'article **« Alphesiboea » de l'Oxford Classical Dictionary**, note explicitement cette différence : soit une confusion du poète latin, soit une variante perdue. [Notice Oxford Classical Dictionary](https://academic.oup.com/edited-volume/61673/chapter-abstract/548072784). Il ne serait pas justifié de décider sans preuve que Properce préserve la version représentée par Achéos.
+
+### 31. Qui est sujet de la vengeance ?
+
+Le désaccord des sources modifie la structure même du récit. **Version A :** la fille de Phégée réprouve le meurtre, puis est réduite au silence et à l'esclavage. **Version B :** elle devient l'agente d'une vengeance contre ses frères. **Version C :** les fils nés de la seconde épouse vengent le père. Ces versions peuvent partager certains événements mais ne distribuent pas identiquement la capacité d'agir.
+
+Pour la lecture philosophique, elles dessinent trois manières d'articuler la justice et le genre : une parole féminine immédiatement réprimée ; une femme qui franchit les limites de la parenté ; des fils qui assument l'obligation de vengeance paternelle. Le titre *Alphésibée* fait apparaître cette pluralité, mais ne permet pas de choisir l'une des trois.
+
+### 32. Pausanias : géographie des ruines et mémoire d'un tombeau
+
+À **Psophis**, **Pausanias VIII, 24.7** rapporte la présence d'un tombeau attribué à Alcméon et de grands cyprès que les habitants regardaient comme sacrés. L'auteur fait une description d'espace et de traditions locales, située des siècles après la légende. Le témoignage est précieux pour l'histoire des lieux de mémoire, mais il ne prouve ni la présence du dramaturge dans la région ni une production théâtrale sur place.
+
+Les cyprès associés à la tombe offrent une image puissante de mémoire funéraire. Leur ancienneté racontée par les habitants ne fournit pas une date archéologique précise du tombeau. Pour MYTHOS, une photographie actuelle de la région peut illustrer le paysage de la réception mythique ; elle ne doit jamais porter la légende « décor des *Alphésibée* d'Achéos ».
+
+### 33. La mémoire d'Acarnanie et le rôle de l'historien
+
+Thucydide **II, 102** explique comment le fleuve Achéloos dépose des alluvions près des Échinades ; il rapporte aussi la tradition d'Alcméon à l'origine d'un établissement et du nom d'Acarnanie. Ce mélange d'analyse de terrain et de récit hérité donne un modèle utile de vigilance documentaire : l'historien ne confond pas entièrement les deux plans, même quand il les place côte à côte.
+
+La tragédie d'Achéos a pu être conçue dans un monde où ces traditions circulaient, mais la géographie n'assigne pas une scène au théâtre. L'exactitude archéologique d'une vue du delta ne suffit pas à faire d'une peinture de fleuve une illustration de la pièce. Le géographe, le mythographe, le poète et l'éditeur ont des objets distincts.
+
+### 34. Dossier II : l'Alphésibée de Dionysos et du Tigre
+
+Dans **Pseudo-Plutarque, *De fluviis* XXIV (« Tigre »)**, un récit étiologique attribué à des auteurs mentionnés dans le traité présente **Dionysos** épris de la nymphe **Alphésibée**. Incapable de la conquérir par promesses ou prières, il recourt à un changement d'apparence et l'emporte au-delà du fleuve ; le récit rattache ensuite à cette union un fils nommé **Médos**. La formulation exacte de la métamorphose varie entre les médiations traductives, dont certaines soulignent la forme du tigre et d'autres le nom du fleuve. [Texte du pseudo-Plutarque, chapitre XXIV](https://lucianofsamosata.info/demonax.info/doku.php?id=text:of_the_names_of_rivers_and_mountains_and_of_such_things_as_are_to_be_found_therein).
+
+Ce témoignage **n'est pas contemporain d'Achéos**. Le *De fluviis* est un ouvrage transmis sous un nom traditionnellement attribué à Plutarque mais reconnu comme pseudépigraphe. Son goût pour les étymologies extravagantes et les autorités difficiles à vérifier invite à une méfiance particulière. La présence du même nom féminin ne démontre pas un emprunt du dramaturge à cette tradition tardive.
+
+### 35. Une transformation en tigre ou une étiologie du fleuve ?
+
+Le traité du Tigre associe dans une même section au moins **deux récits** : l'un fait intervenir un animal secourable envoyé à Dionysos, l'autre une stratégie du dieu envers une nymphe. L'enjeu est de distinguer le thème du fauve, l'étymologie du fleuve et les détails du récit amoureux, qui peuvent être recombinés lors de traductions ou de résumés modernes. La thèse de Chaskis, **p. 104**, présente l'interprétation de Drago dans laquelle Dionysos se transforme en tigre ; il faut identifier cela comme **l'état d'une hypothèse secondaire**, non comme un fragment d'Achéos.
+
+Un poète ancien pourrait certes employer la métamorphose animale au sein d'un drame satyrique ; le détour par une rivière lointaine aurait même une certaine puissance comique et fantastique. Mais aucune source conservée n'atteste qu'une telle scène fut jouée sous le titre *Alphésibée* au Ve siècle. La vraisemblance poétique n'est pas la preuve historique.
+
+### 36. La nymphe orientale : un autre horizon géographique
+
+La deuxième tradition situe ses personnages dans un espace asiatique lié à l'Arménie et au Tigre, loin de **Psophis** en Arcadie et de l'**Achéloos** en Grèce occidentale. Il importe de ne pas confondre les deux rivières, les deux systèmes généalogiques et les deux motifs de déplacement. Le nom propre ne suffit pas à réduire cet écart.
+
+Dans la légende arcadienne, une épouse pâtit des mouvements d'un héros poursuivi par le sang de sa mère ; dans la légende du Tigre, une nymphe résiste au désir d'un dieu. Les deux récits comportent des problèmes de pouvoir et de contrainte mais pas les mêmes agents, les mêmes objets ni la même finalité mythographique. Le critique peut les comparer sans les transformer en biographie unique.
+
+### 37. Dionysos et le théâtre satyrique : une association suggestive
+
+La présence possible de Dionysos rapprocherait le sujet de l'univers satyrique, où le dieu, ses compagnons, des nymphes et des épreuves de désir jouent fréquemment un rôle. La formule d'Hésychios contenant **μαινάς** offre un autre élément compatible avec un horizon bacchique. Chaskis rapporte que Drago a envisagé un **chœur de satyres et un chœur de ménades**.
+
+Cependant la tragédie connaît elle aussi Dionysos : les *Bacchantes* d'Euripide suffisent à montrer qu'un thème dionysiaque ne détermine pas un genre. Un drame satyrique n'est pas identifié parce qu'il comporte un dieu familier des satyres ; il l'est par une combinaison de données génériques, paratextuelles et dramatiques. Le chœur de *Alphésibée* reste totalement inconnu.
+
+### 38. L'hypothèse des deux chœurs : pourquoi elle reste fragile
+
+Proposer un chœur de satyres confronté à des ménades pourrait expliquer la coexistence d'un titre féminin et d'une image d'extase. Mais nous ignorons si le fragment est une parole de personnage, une narration, un chant ou même une formule employée dans un contexte métaphorique sans référence à un spectacle de danse. L'hypothèse de deux chœurs renvoie à des possibilités scéniques générales, non à un document de représentation.
+
+Il faut distinguer **créativité interprétative** et **probabilité critique** : une reconstitution peut être belle et cohérente tout en reposant sur un nombre trop élevé d'éléments ajoutés. L'étude ne produira donc ni tableau de distribution, ni entrée de Dionysos, ni scène de poursuite, ni chant attribué à un groupe qui ne sont pas attestés.
+
+### 39. Le titre et la voix d'une femme
+
+Un titre portant le nom d'une femme n'est pas forcément un manifeste sur sa liberté ; il indique néanmoins que le nom figure assez fortement dans la tradition de l'œuvre pour servir d'identifiant. Le répertoire tragique offre de nombreux exemples de titres féminins : *Médée*, *Électre*, *Hécube*, *Andromaque*, *Phèdre* à travers d'autres auteurs. Cette convention rend plausible l'importance d'Alphésibée, sans déterminer si elle prenait la parole ni si elle était présente au dénouement.
+
+Le nom peut désigner une victime, une agente de vengeance, une nymphe ou une héroïne dont le destin se comprend à travers un autre personnage. Dans une œuvre perdue, le titre conserve une visibilité que la dramaturgie ne permet plus de mesurer. La bonne lecture refuse d'échanger cette visibilité contre une psychologie inventée.
+
+### 40. Trois scénarios analytiques, aucun scénario dramatique récupéré
+
+**H1 — Tragédie de Psophis.** Le titre pourrait porter sur la femme qu'Alcméon épouse puis quitte, sur le meurtre du héros et la réaction d'Alphésibée. Le fragment astral pourrait avoir décrit sa colère ou sa douleur comme fureur d'une ménade. Sources d'appui : Pausanias, pseudo-Apollodore, Properce ; **aucun lien direct** entre eux et l'expression d'Hésychios. Niveau de confiance dans la reconstitution : **faible**.
+
+**H2 — Drame satyrique dionysiaque.** La protagoniste serait la nymphe homonyme du cycle asiatique ; des satyres et ménades auraient pu favoriser une comparaison astrale. Sources d'appui : fragment de Hésychios, spéculation critique rapportée par Chaskis, *De fluviis* tardif. Niveau de confiance : **faible**, et fragilisé par l'écart chronologique et la qualité discutée de l'étiologie.
+
+**H3 — Sujet inconnu, fragment métaphorique.** La pièce s'intitulait *Alphésibée* et contenait une expression associant les astres et une ménade ; la mythologie précise demeure inconnue. C'est la position **documentaire minimale**, non une troisième intrigue. Elle renonce à déterminer le genre par le seul lexème dionysiaque.
+
+### 41. Pourquoi la « reconstruction prudente » ne fabrique pas des actes
+
+Une histoire des tragédies perdues peut raisonner à partir de motifs, de relations entre témoins et des conventions dramatiques. Elle ne peut créer une succession de scènes — arrivée à Psophis, purification, mariage, rumeur, meurtre, vengeance — en la présentant comme l'organisation de l'auteur. Même baptisée « probable », une telle série peut contaminer la documentation future si l'étiquette d'hypothèse disparaît.
+
+La solution consiste à produire un **dossier de possibilités** : acteurs du mythe, relations chronologiques connues dans la mythographie, objets et tensions, conditions nécessaires pour donner un sens à l'expression survivante. Ce dossier ne devient jamais une « pièce reconstituée » sans témoignage indépendant. Aucun prologue, stasimon ou exodos n'est restitué.
+
+### 42. Chaerémon : une autre *Alphésibée*, autre auteur, autre fragment
+
+Le tragique **Chaerémon**, actif au IVe siècle avant notre ère, est l'auteur d'une œuvre également intitulée *Alphésibée*. Dans **Athénée XIII, 608d**, un fragment attribué à Chaerémon décrit de manière élaborée une apparence féminine, les couleurs et les cheveux, suscitant des discussions sur la relation entre description du corps et fleurs. Sa référence dans les dossiers de ce poète est distincte de **TrGF I 20 F 16**. Une étude de **Christopher Collard, « On the Tragedian Chaeremon », *Journal of Hellenic Studies* 90 (1970), p. 22–34**, examine ce corpus et sa poétique. [Article de Collard](https://www.cambridge.org/core/journals/journal-of-hellenic-studies/article/abs/on-the-tragedian-chaeremon/79034238FFE9FB61A7905C74A93A8B6A).
+
+La confusion serait grave si l'on attribuait les sept vers de Chaerémon sur la beauté féminine à Achéos au seul motif que les titres sont identiques. L'étude contemporaine de Thomas Sims, *A Commentary on the Fragments of Fourth-Century Tragedy*, examine précisément le fragment de Chaerémon sous son propre nom. L'histoire littéraire conserve les différences d'époque, de transmetteur et de style.
+
+### 43. Les autres homonymes : Accius et l'histoire de la réception
+
+Une *Alphesiboea* est également signalée dans la tradition fragmentaire du tragique latin **Accius**, tandis que des rapprochements anciens ou modernes mentionnent d'autres dramaturges dont l'attribution est discutée. Ces titres ne constituent pas des copies du texte d'Achéos. Ils démontrent tout au plus qu'un nom d'héroïne et ses traditions pouvaient être réutilisés à des époques différentes.
+
+Même une coïncidence de motif ne permet pas d'établir une chaîne directe d'influence, faute de fragments suffisants. Il faut reconstruire séparément les contextes : concours de la Grèce classique, innovations de la tragédie du IVe siècle, adaptation latine. L'idée d'une « trilogie des Alphésibées » par filiation directe serait une invention.
+
+### 44. La tragédie grecque comme transformation de variantes
+
+Un dramaturge ne se borne pas à illustrer un récit canonique : il en choisit une orientation, remanie parfois la généalogie, crée des interlocuteurs ou reconfigure une responsabilité. Cette liberté artistique est prouvée globalement par la pluralité des tragédies conservées portant sur les mêmes mythes. Mais son existence générale n'identifie pas la variante adoptée dans une pièce perdue.
+
+L'apparition d'Alphésibée dans plusieurs traditions nous met face à un problème de lecture historique. Le critique veut déterminer « la vraie histoire » de l'héroïne ; le théâtre ancien, lui, pouvait multiplier les orientations d'une histoire sans qu'une version unique les annule. L'encyclopédie doit rendre cette pluralité visible plutôt que composer une synthèse postérieure présentée comme antique.
+
+### 45. La place des Erinyes : violence et retour du passé
+
+Dans la tradition d'Alcméon, les Erinyes représentent le poids du meurtre maternel. Le héros se déplace et cherche des purifications, mais la violence de la parenté demeure active. Ce motif permet un rapprochement avec l'*Orestie* d'Eschyle, sans affirmer qu'Achéos faisait entrer des Erinyes sur scène. Le rapprochement est typologique : meurtre de parent, conflit d'obligations, recherche de sortie.
+
+La particularité du récit d'Alphésibée tient à ce que le crime originel peut déborder dans une nouvelle famille. Phégée accueille le meurtrier ; les objets de la première faute passent aux femmes de l'histoire ; l'hospitalité devient guet-apens ; la vengeance se poursuit dans les générations suivantes. C'est une logique de contamination des alliances, non une intrigue attribuable automatiquement à la tragédie perdue.
+
+### 46. Souillure et purification : peut-on sortir de la dette ?
+
+Le récit de l'Achéloos est philosophiquement remarquable : il imagine qu'une terre postérieure au crime ne porte pas encore la trace de ce crime. La nouveauté spatiale fournit une analogie avec le renouvellement éthique. Pourtant la purification ne se confond pas avec l'oubli, et la création d'un lieu ne détermine pas à elle seule la disparition des obligations anciennes.
+
+Alphésibée, si l'on retient la première tradition, incarne l'une des personnes laissées derrière par le parcours purificateur du héros. L'enjeu contemporain de la lecture est alors de se demander si la délivrance de l'un peut être obtenue par l'abandon d'autrui. Ce questionnement est construit à partir de mythographes ; il ne peut être mis dans la bouche du dramaturge.
+
+### 47. Don, dette, corruption : l'ambivalence de l'objet précieux
+
+Le collier d'Harmonie permet de réfléchir à l'ambivalence du don. Il fonde ou signale une alliance, mais peut aussi devenir prix d'une décision, récompense d'une trahison, instrument de récupération et cause de vengeance. Les récits antiques ne fournissent pas une théorie explicite du don ; une anthropologie moderne peut seulement éclairer leurs systèmes d'échanges.
+
+L'important est d'éviter une lecture naturalisante selon laquelle un objet maléfique forcerait les femmes à désirer et les hommes à tuer. Les sources mentionnent des choix, des promesses trompeuses et des responsabilités. Une lecture morale trop simple ferait disparaître le pouvoir de négociation ou de contrainte qui s'exerce sur les personnages.
+
+### 48. La première femme et la seconde : contre la lecture misogyne automatique
+
+Le pseudo-Apollodore met en scène une nouvelle épouse désirant les parures de la première. On pourrait y lire un cliché de jalousie féminine ; la structure mythique est plus vaste. Le héros s'est engagé dans deux réseaux de parenté, a laissé des biens dans le premier et doit revenir les chercher. Le récit place les femmes au cœur de la circulation des objets, mais les hommes organisent aussi le mensonge, l'embuscade et la vengeance.
+
+L'analyse peut montrer comment une histoire attribue des responsabilités de manière inégale sans décréter que le poète d'Achéos adhérait à telle ou telle morale. L'interprétation doit séparer les **valeurs mises en jeu dans les variantes** des **opinions inconnues de l'auteur**.
+
+### 49. L'astre et le corps : métaphore esthétique ou indication rituelle ?
+
+Revenons au fragment : le choix d'une qualité astrale et d'une ménade superpose deux ordres d'image, cosmique et corporel. Le contraste est susceptible de créer une impression de mouvement extrême, de lumière dans la nuit, ou de passage entre humain et divin. Aucune interprétation ne peut être exclue définitivement avec si peu de mots.
+
+La comparaison dionysiaque n'impose pas nécessairement un décor nocturne, des torches ou une procession. Une image céleste pouvait être prononcée de jour, dans une narration ou un échange privé. Sans indication de scène, la lecture esthétique doit s'arrêter à une **valeur potentielle de l'image**.
+
+### 50. Platon : l'inspiration poétique et la possession
+
+Dans **Platon, *Ion* 533d–534e**, la poésie inspirée est discutée en termes d'enthousiasme et de puissance qui traverse le poète. Dans le ***Phèdre* 244a–245a**, certaines formes de **mania** peuvent être associées à un don divin, notamment dans les registres prophétique, rituel et poétique. Ces textes rendent possible une analyse de la figure de la ménade comme signe d'intensité de l'expérience religieuse.
+
+Mais Platon n'a pas commenté ici le fragment d'Achéos, et les emplois de *mania* dans ses dialogues ne fournissent pas une clé universelle pour traduire chaque occurrence de *mainas*. L'analyse platonicienne doit rester un parallèle théorique tardif par rapport au théâtre d'Achéos, sans établir par rétroprojection le contenu religieux de la pièce.
+
+### 51. Platon : la critique des récits divins et de la violence
+
+Dans la ***République* II, 377e–378b**, Platon discute des récits sur les dieux susceptibles de former ou de déformer l'éducation morale. Cette interrogation est particulièrement utile lorsqu'on met en parallèle les traditions d'une nymphe contrainte par Dionysos ou d'un héros qui invoque une parole divine pour obtenir des objets. Le fait qu'un récit soit religieux ne lui donne pas automatiquement une valeur morale positive.
+
+Il serait cependant abusif de qualifier *Alphésibée* de « critique platonicienne anticipée du désir divin ». Le rapprochement est une possibilité de lecture philosophique, non une thèse sur l'intention d'Achéos. On ne sait même pas quelle variante il a choisie.
+
+### 52. Hegel : la collision des droits dans une famille
+
+Les ***Leçons sur l'esthétique*** de **Hegel** développent une analyse de la tragédie comme conflit de puissances éthiques, où des exigences opposées peuvent chacune se présenter avec une légitimité partielle. Le récit de la fille de Phégée offre, à titre heuristique, plusieurs tensions : fidélité à l'époux contre loyauté aux frères, dénonciation de la violence contre maintien de la maison paternelle, hospitalité envers un souillé contre protection du territoire.
+
+Ce schéma ne doit pas être imposé au fragment du dramaturge. Rien ne prouve que l'œuvre d'Achéos était organisée en conflit de devoirs, ni qu'Alphésibée y exposait deux raisons contraires. La méthode hégélienne sert ici à montrer ce qui pourrait être philosophiquement en jeu dans l'une des **traditions**, pas à établir une structure dramatique invisible.
+
+### 53. Hegel : de la contradiction à la reconnaissance
+
+La forme de contradiction intéressante dans le récit n'est pas uniquement le choix entre frère et époux : elle concerne aussi le droit de reconnaître un crime. La fille de Phégée, dans le pseudo-Apollodore, énonce un reproche puis subit la violence de ceux qu'elle accuse. Le rapport entre parole, vérité et pouvoir ouvre une interrogation sur la reconnaissance d'une personne comme sujet moral.
+
+Une lecture hégélienne peut souligner l'échec d'une communauté familiale qui ne supporte pas le témoignage intérieur contre sa propre violence. Mais l'issue conservée dans le récit mythographique — enfermement et esclavage — n'est pas une résolution dialectique attestée de la tragédie. La philosophie approfondit la question sans combler la lacune philologique.
+
+### 54. Nietzsche : les ménades, la forme et le dionysiaque
+
+***La Naissance de la tragédie*** de **Nietzsche**, en particulier les sections **7–8** sur le chœur et le satyrique, associe l'élément dionysiaque à un mouvement de transformation de l'individu et à la médiation esthétique d'une expérience collective. Le simple nom d'une ménade dans le fragment autorise à poser une question de résonance : comment une qualité astrale pourrait-elle figurer l'intensité d'une présence dépassant le sujet ordinaire ?
+
+Il faut toutefois éviter l'anachronisme. Nietzsche écrit un modèle philosophique du XIXe siècle, non une analyse des témoins du fragment 20 F 16. Une métaphore de ménade peut appartenir à une tragédie sans chœur de satyres, et la qualification « satyrique » ne se déduit pas de l'opposition abstraite entre apollinien et dionysiaque. La philologie corrige l'excès possible de l'interprétation.
+
+### 55. Nietzsche : la souffrance ne justifie pas la violence
+
+Une lecture rapide pourrait faire d'une Alphésibée en proie à la fureur une incarnation de l'« excès tragique ». La question décisive est plutôt de savoir ce que l'image de la fureur fait voir et ce qu'elle risque de masquer. Dans la version de Psophis, la souffrance d'une femme naît de l'enchaînement des actes masculins, des mensonges et des représailles. Dans la version dionysiaque tardive, la contrainte d'un dieu sur une nymphe ne doit pas être embellie comme une simple « union mystique » sans reconnaître la violence du récit.
+
+L'esthétique peut approfondir la conscience du conflit sans effacer son contenu moral. Cette précaution empêche de transformer un lexème dionysiaque en justification de la domination. Elle n'implique aucune certitude sur l'intention de l'auteur antique.
+
+### 56. Aristote : ce qu'une intrigue perdue ne peut nous donner
+
+Pour Aristote, dans la ***Poétique* 1450a–1451b**, la composition des actions — **muthos** — est fondamentale dans la tragédie. Or la composition propre aux *Alphésibée* d'Achéos a disparu. Nous possédons un titre et un fragment lexical, pas la série de causes, reconnaissances, retournements ou souffrances organisée par le dramaturge.
+
+Un ordre mythographique n'est pas un ordre dramatique. Même lorsque la légende de Psophis est racontée dans une suite lisible, elle ne garantit pas que le spectacle ait commencé au matricide, au mariage ou au retour des objets. La connaissance des possibilités ne justifie pas de reconstruire le choix poétique de l'auteur sans témoignage.
+
+### 57. Sophocle et Euripide : mêmes héros, autres dossiers
+
+Les titres tragiques liés à Alcméon sont attestés pour plusieurs auteurs. Les fragments d'un ***Alcméon*** de **Sophocle** et les dossiers d'***Alcméon à Psophis*** ou d'***Alcméon à Corinthe*** chez **Euripide** participent à cette constellation documentaire. Mais les traditions euripidéennes connues ne se confondent pas toutes : le pseudo-Apollodore III, 7.7 mentionne explicitement un récit de la descendance d'Alcméon lié à **Manto**, avec une intrigue corinthienne distincte de l'histoire de la première épouse de Psophis.
+
+MYTHOS a déjà traité ces pièces sous leurs noms d'auteurs et leurs reçus propres. Les rapprochements servent ici à situer l'importance du cycle mythique dans le théâtre grec ; il serait contraire à la continuité éditoriale de présenter *Alphésibée* comme une reprise déguisée d'un ancien dossier d'Euripide.
+
+### 58. Une comparaison indispensable : les *Euménides* d'Eschyle
+
+La suite de l'*Orestie* d'Eschyle interroge la possibilité de donner une issue institutionnelle à la poursuite du meurtrier de sa mère. Ce parallèle met en relief ce que la tradition d'Alcméon fait autrement : la recherche d'une terre nouvelle, la succession des purifications et une nouvelle chaîne de meurtres. L'enjeu comparatif est la **sortie de la vengeance**, non la présence d'un même procès.
+
+Rien n'autorise à attribuer à Achéos une intervention d'Athéna, un tribunal, une scène delphique ou un chœur d'Erinyes. Ces éléments appartiennent à une autre pièce conservée. La comparaison révèle des problèmes communs sans convertir les procédés d'Eschyle en fragments imaginaires.
+
+### 59. Comparaisons avec *Médée*, *Électre* et *Antigone*
+
+La **Médée** d'Euripide peut servir à penser comment la littérature tragique représente la femme et les liens familiaux lorsqu'ils sont soumis à une rupture extrême ; les ***Électre*** de Sophocle et d'Euripide posent chacune autrement la place des enfants face au meurtre parental ; l'***Antigone*** de Sophocle étudie un conflit entre parenté et loi publique. Aucune ne doit être utilisée comme modèle exact de l'*Alphésibée* perdue.
+
+La comparaison doit préciser sa fonction : éclairer la **capacité de la tragédie à poser des problèmes de parenté, de témoignage et de responsabilité**. Elle ne doit pas produire un « personnage composite » où Alphésibée agirait tour à tour comme Médée, Électre et Antigone. Leur singularité dramatique serait perdue, tout comme celle de l'œuvre absente.
+
+### 60. Comparaison avec les *Bacchantes* d'Euripide
+
+Les ***Bacchantes*** forment un parallèle plus proche du fragment lexical, puisqu'elles mettent en scène les formes de la possession dionysiaque, la circulation des ménades et la crise du pouvoir confronté à Dionysos. L'usage du mot **μαινάς** chez Achéos peut ainsi être éclairé par la connaissance du vocabulaire et des pratiques représentés dans une œuvre conservée.
+
+La comparaison a une limite chronologique et dramaturgique. Le spectacle euripidien de 405 avant notre ère ne démontre pas les conventions particulières d'une pièce perdue dont la date est incertaine. Surtout, l'image d'une ménade ne prouve ni présence corporelle d'un chœur féminin ni scène d'extase collective. La langue et la représentation doivent rester distinguées.
+
+### 61. Religions comparées : le fleuve, la faute et la naissance d'une terre
+
+L'Achéloos qui crée de nouvelles terres, le Tigre auquel une étiologie prête le nom d'un événement divin, et les rituels de purification par l'eau relèvent de configurations mythiques qu'on peut étudier de manière comparée. Toutefois, l'Achéloos et le Tigre ne doivent pas être pris pour des doubles symboliques nécessairement issus d'une origine commune. Les récits n'ont ni la même chronologie documentaire, ni la même fonction locale, ni la même structure.
+
+La méthode comparative exige d'établir les langues, les dates, les contacts et les milieux de transmission avant de parler d'influence. Ici, une ressemblance formelle entre deux noms de rivières n'autorise pas à postuler une migration de la légende d'Alphésibée. Le plus solide est la comparaison des **fonctions littéraires du fleuve** : frontière, passage, purification, fondation, nom.
+
+### 62. Les mythes indo-européens : une prudence supplémentaire
+
+Il serait tentant de ranger les deux récits sous un schéma universel de femme sacrée et de dieu métamorphe. Une telle catégorisation efface les particularités des documents et risque de produire de faux rapprochements. La présence de bacchantes, d'étoiles, d'un collier et d'un fleuve ne justifie aucune reconstruction d'un proto-mythe indo-européen.
+
+Les approches comparatives inspirées de Georges Dumézil peuvent être historiquement utiles si les ensembles documentaires correspondent à des relations établies ; elles ne permettent pas d'inventer un fonds commun à partir d'une unique expression conservée. La monographie préfère donc une **comparaison contrôlée des motifs** à une généalogie imaginaire des mythes.
+
+### 63. Figures féminines, justice et mémoire : un bilan philosophique
+
+Si le titre désigne la fille de Phégée, l'héroïne occupe un point de fracture : la maison qui l'a élevée tue l'homme qu'elle a épousé. Les traditions divergent sur sa réponse, de la dénonciation à la vengeance. Si le titre désigne la nymphe du Tigre, une autre question surgit : que devient la volonté d'une figure féminine lorsque le désir d'un dieu prend la forme d'une puissance contraignante ? Dans les deux cas, le nom de la femme fait apparaître une difficulté de la souveraineté et des rapports de force.
+
+Mais c'est la **pluralité des textes extérieurs** qui nous permet de formuler ces tensions, non la preuve qu'Achéos a construit deux modèles concurrents. La philosophie ne doit pas usurper le rôle de la philologie. Elle peut éclairer les enjeux possibles d'une tradition tout en laissant l'œuvre comme objet historiquement incomplet.
+
+### 64. L'iconographie antique : ce qui peut être illustré
+
+Aucune image antique n'a été authentifiée comme représentation d'une scène de *Alphésibée* d'Achéos. Le dossier visuel doit donc distinguer : **(1)** des représentations du cycle d'Ériphyle et du collier ; **(2)** des représentations de femmes poursuivant ou tuant dans des contextes cultuels ou mythologiques ; **(3)** la topographie moderne de Psophis et du delta de l'Achéloos ; **(4)** les œuvres de réception postérieures. Chaque notice doit conserver auteur ou attribution, date, musée, numéro d'inventaire, source et conditions de réutilisation.
+
+L'absence d'une image de la pièce ne constitue pas une raison pour inventer une scène photoréaliste en la faisant passer pour une restitution archéologique. Une illustration synthétique moderne devrait porter explicitement la mention « évocation contemporaine, dramaturgie non attestée » et ne remplacer aucune photographie d'artefact.
+
+### 65. Notice I — L'œnochoé du collier d'Harmonie, Louvre G 442
+
+**Œuvre :** œnochoé attique à figures rouges attribuée au **Peintre de Mannheim**, vers **450–440 avant notre ère**, conservée au **musée du Louvre**, inventaire **G 442 / MNB 1703**. Une identification courante voit **Polynice** présentant à **Ériphyle** le collier ; une notice historique citée par l'INHA identifie cependant le donneur comme **Adraste**. Cette divergence doit être explicitement signalée. [Notice INHA AGORHA](https://agorha.inha.fr/ark:/54721/299f3632-0623-45ef-8778-8b32db481595) ; [notice photographique et droits sur Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Polynices_Eriphyle_Louvre_G442.jpg).
+
+**Légende à adopter :** « Remise du collier à Ériphyle, scène du cycle thébain ; identification du donneur discutée (Polynice ou Adraste selon les notices). Œnochoé attique attribuée au Peintre de Mannheim, vers 450–440 av. J.-C., Louvre G 442. Aucun lien direct établi avec *Alphésibée* d'Achéos. » Une photographie de Marie-Lan Nguyen publiée sur Wikimedia Commons est accompagnée de sa propre information de droits ; ne pas en déduire automatiquement ceux de n'importe quelle reproduction.
+
+### 66. Notice II — Orphée et les femmes thraces, Musée de l'Acropole
+
+**Œuvre :** kylix à fond blanc, **Peintre de Pistoxénos**, vers **470 av. J.-C.**, **Musée de l'Acropole**, inventaire **GL II.439**. Le médaillon intérieur représente **Orphée** attaqué par une femme thrace ; l'identification du personnage masculin est soutenue par l'inscription. Le thème permet d'étudier une image de violence féminine associée à un récit mythique et à un monde rituel que la réception moderne relie souvent au dionysiaque. [Notice institutionnelle](https://www.emfc.gr/en/node/23744).
+
+**Légende recommandée :** « Orphée attaqué par une femme thrace, kylix à fond blanc attribuée au Peintre de Pistoxénos, vers 470 av. J.-C., Musée de l'Acropole, GL II.439. Comparaison iconographique sur la violence mythique et les images féminines ; ne représente pas Alphésibée ni la scène perdue d'Achéos. » Les conditions de photographie et de réutilisation doivent être vérifiées auprès du musée avant intégration d'un fichier image.
+
+### 67. Notice III — Psophis, tombes et géographie du récit
+
+Une carte topographique moderne peut situer **Psophis** dans l'Arcadie occidentale, **Tégée**, le trajet hypothétique vers l'**Achéloos** et les régions d'Acarnanie mentionnées par Thucydide. Sa légende doit préciser que les routes tracées sont **schématiques** et que les limites des territoires anciens sont reconstruites. Une carte d'échelle régionale n'est pas un plan d'une représentation tragique.
+
+Pour le récit de Pausanias, une notice écrite du tombeau attribué à Alcméon et des cyprès sacrés est scientifiquement plus juste qu'une reconstitution 3D non sourcée de ce monument. La topographie peut étayer la lecture du texte sans prétendre que les monuments actuels reproduisent l'état décrit au IIe siècle de notre ère.
+
+### 68. Un cas d'iconographie à exclure : identification disputée de certaines coupes
+
+Les photographies de vases circulant sous la légende « Alcméon tue Ériphyle » présentent parfois des identifications discutées. La coupe attribuée au **Peintre de Marlay**, **British Museum E120, inventaire 1836,0224.139**, est par exemple décrite par une notice de l'INHA comme une scène du **sacrifice de Polyxène par Néoptolème**, et non comme une image sûrement consacrée à Alcméon. [INHA, notice de l'objet](https://agorha.inha.fr/ark:/54721/29d10eed-a2e4-49d3-b942-5616a2e73393).
+
+Il serait inadmissible de choisir silencieusement l'identification qui arrange une illustration du texte. En l'absence d'argument archéologique ou iconographique suffisant pour trancher, cette image doit être exclue du dossier principal ou présentée comme exemple **d'identification contestée**, non comme preuve visuelle du mythe d'Alphésibée.
+
+### 69. Chronologie et qualité des témoins : synthèse
+
+**Ve siècle av. J.-C. :** activité générale d'Achéos, sans date sûre pour la pièce. **Ve siècle av. J.-C. :** Thucydide rapporte une tradition concernant Alcméon et l'Achéloos, sans mention d'*Alphésibée* d'Achéos. **IVe siècle av. J.-C. :** Chaerémon compose une *Alphésibée* différente, dont Athénée préservera une longue citation. **Époque augustéenne :** Properce présente Alphésibée comme agente de vengeance. **IIe siècle ap. J.-C. :** Pausanias conserve la tradition locale de Psophis ; le *De fluviis* pseudépigraphe est difficile à dater précisément, probablement d'époque impériale. **Antiquité tardive :** Hésychios transmet une expression attribuée à Achéos.
+
+Il s'ensuit que les témoignages décrivant une fable ne sont pas tous contemporains de l'œuvre ; le seul témoin ayant donné accès à ses mots ne fournit pas la fable. Une enquête solide prend acte de cette dissymétrie, au lieu de transformer le dossier tardif le plus complet en texte de scène.
+
+### 70. Matrice des certitudes
+
+| Proposition | Statut critique | Appui |
+| --- | --- | --- |
+| Achéos d'Érétrie est référencé sous le titre *Alphésibée* | Attesté | Nauck p. 750 ; FragTrag.1 |
+| Numérotation du fragment : TrGF I, 20 F 16 | Vérifiée | Concordance universitaire |
+| Le témoin fragmentaire est Hésychios ε 2689 | Vérifié dans l'étude secondaire consultée | Chaskis p. 104–105 |
+| L'expression grecque citée contient ἔναστρος et μαινάς | Vérifiée sur la reproduction de la thèse | Chaskis p. 104 |
+| La pièce présente une scène de fête dionysiaque | Non établi | Simple hypothèse |
+| Alphésibée est certainement fille de Phégée dans la pièce | Non établi | Mythographie de Psophis extérieure |
+| La pièce était certainement satyrique | Non établi | Hypothèse de genre rapportée par Chaskis |
+| La pièce mettait en scène la nymphe du Tigre | Non établi | Tradition tardive du pseudo-Plutarque |
+| Chaerémon a composé une œuvre homonyme | Attesté | Athénée XIII, 608d ; Collard |
+| Les longs vers descriptifs de Chaerémon sont des mots d'Achéos | Faux | Autre auteur, autre fragment |
+| Properce attribue la vengeance à Alphésibée | Attesté | *Élégies* I, 15 |
+| Le pseudo-Apollodore attribue la vengeance principale aux fils de Callirhoé | Attesté | *Bibliothèque* III, 7.6 |
+| Le théâtre antique a joué exactement les scènes de Psophis détaillées ici | Non établi | Absence d'argument et de pièce |
+| Les photographies proposées montrent l'œuvre d'Achéos | Faux | Iconographie seulement contextuelle |
+
+### 71. Bibliographie primaire vérifiée
+
+1. **Achéos d'Érétrie**, *Alphésibée*, **TrGF I, 20 F 16**, témoigné par Hésychios **ε 2689** ; concordance [FragTrag.1](https://fragtrag1.upatras.gr/exist/apps/fragtrag/indexc.html). Le rapport supplémentaire **rep. 2 = ancien F 46 (app. test.)** n'est pas traité comme un deuxième vers.
+2. **August Nauck** (éd.), *Tragicorum Graecorum Fragmenta*, seconde édition, Leipzig, B. G. Teubner, **1889**, p. **750** (Achéos aux p. 746–759). [Notice Perseus](https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0309.tlg001.opp-grc1).
+3. **Pseudo-Apollodore**, *Bibliothèque*, **III, 7.2–7** ; particulièrement **III, 7.5–7**, meurtre d'Ériphyle, Arsinoé, Callirhoé, Phégée, objets d'Harmonie, meurtre d'Alcméon et vengeance. [Texte et traduction](https://www.theoi.com/Text/Apollodorus3.html).
+4. **Pausanias**, *Description de la Grèce*, **VIII, 24.1–11**, Psophis, tombe d'Alcméon, Alphésibée fille de Phégée, Téménos et Axion. [Texte et traduction](https://www.theoi.com/Text/Pausanias8B.html).
+5. **Thucydide**, *Histoire de la guerre du Péloponnèse*, **II, 102.1–6**, dépôts de l'Achéloos et tradition du terrain neuf. [Traduction de référence](https://cts.perseids.org/read/greekLit/tlg0003/tlg001/1st1K-eng1/2.102.1-2.102.6).
+6. **Properce**, *Élégies*, **I, 15**, distique sur Alphésibée et ses frères. [Texte latin](https://la.wikisource.org/wiki/Elegiae_(Propertius)/Liber_I/15).
+7. **Pseudo-Plutarque**, *De fluviis*, **XXIV**, mythes étiologiques du Tigre et d'une nymphe nommée Alphésibée. [Texte en traduction](https://lucianofsamosata.info/demonax.info/doku.php?id=text:of_the_names_of_rivers_and_mountains_and_of_such_things_as_are_to_be_found_therein). L'attribution à Plutarque et l'historicité des autorités citées sont discutées.
+8. **Athénée**, *Deipnosophistes* **XIII, 608d**, fragment de l'*Alphésibée* de **Chaerémon** : témoin indispensable **par contraste**, non source du fragment d'Achéos.
+9. **Platon**, *Ion* **533d–534e**, *Phèdre* **244a–245a**, *République* **II, 377e–378b** : œuvres de comparaison philosophique, non témoins sur *Alphésibée*.
+10. **Aristote**, *Poétique* **1450a–1451b**, principe de composition de l'action ; comparaison méthodologique.
+11. **Eschyle**, *Euménides* ; **Sophocle**, *Antigone* ; **Euripide**, *Bacchantes*, *Médée*, *Électre* : comparaisons de formes et problèmes, jamais reconstitution des paroles d'Achéos.
+
+### 72. Bibliographie secondaire vérifiée et hiérarchie des usages
+
+1. **Bruno Snell** (éd.), *Tragicorum Graecorum Fragmenta*, **vol. I : Didascaliae tragicae, Catalogi tragicorum et tragoediarum, Testimonia et fragmenta tragicorum minorum**, Göttingen, Vandenhoeck & Ruprecht, **1971**, et états éditoriaux ultérieurs à distinguer. Corpus d'Achéos, auteur **20**.
+2. **Konstantinos I. Chaskis** (Χασκής, Κωνσταντίνος Ι.), *Αποσπάσματα μυθοπλασίας : ο αρχαίος ελληνικός μύθος στους ελάσσονες τραγικούς ποιητές του 5ου και 4ου αι. π.Χ.* (*Fragments de fiction : le mythe chez les tragiques mineurs des Ve et IVe siècles av. J.-C.*), thèse de doctorat, **Université d'Ioannina, 2021**, reproduction universitaire portant aussi 2022, **p. 104–105** pour Achéos 20 F 16 et les hypothèses de Drago et de Vasilopoulou. [Dépôt institutionnel](https://olympias.lib.uoi.gr/jspui/handle/123456789/32425), DOI de l'archive nationale : **10.12681/eadd/50756**.
+3. **Konstantina Vasilopoulou**, *The Study of Fragments of the Tragic Achaeus from Eretria (5th c. B.C.)*, mémoire, **Université de Patras, 2017** ; son interprétation de la comparaison astrale est rapportée et discutée par Chaskis, p. 105. [Dépôt institutionnel par OpenArchives](https://www.openarchives.gr/aggregator-openarchives/edm/nemertes/000009-10889_11798).
+4. **Christopher Collard**, « On the Tragedian Chaeremon », *The Journal of Hellenic Studies* **90 (1970), p. 22–34**, DOI **10.2307/629751**. Étude indépendante du corpus de Chaerémon. [Notice éditeur](https://www.cambridge.org/core/journals/journal-of-hellenic-studies/article/abs/on-the-tragedian-chaeremon/79034238FFE9FB61A7905C74A93A8B6A).
+5. **Herbert Jennings Rose**, « Alphesiboea », *Oxford Classical Dictionary*, notice en ligne parue **2015**, DOI **10.1093/acrefore/9780199381135.013.326**. Discussion explicite de l'écart entre Properce et le récit de vengeance des fils de Callirhoé. [Notice Oxford](https://academic.oup.com/edited-volume/61673/chapter-abstract/548072784).
+6. **D. Graham J. Shipley**, traduction et commentaire du pseudo-Plutarque, « On the Names of Rivers and Mountains and the Things in Them », dans *Geographers of the Ancient Greek World*, **Cambridge University Press, 2024**, p. **710–739**, DOI **10.1017/9781009184236.005**. Cette étude avertit des problèmes d'authenticité, de géographie et de fiabilité du traité. [Notice Cambridge](https://www.cambridge.org/core/books/abs/geographers-of-the-ancient-greek-world/pseudoplutarch-on-the-names-of-rivers-and-mountains-and-the-things-in-them/5C9117762D9A899F41E85E5465BE493B).
+7. **Dana F. Sutton**, *The Greek Satyr Play*, Meisenheim am Glan, **1980**, p. 69–74 pour le corpus d'Achéos selon les index bibliographiques ; à utiliser pour la problématique du genre, non pour imposer une intrigue d'*Alphésibée*.
+8. **C. Drago (1971, p. 234)**, hypothèse de genre satyrique **rapportée par Chaskis p. 104** : **référence secondaire indirecte** dont le titre bibliographique complet et le texte original n'ont pas été vérifiés dans le présent contrôle. Aucune citation textuelle de Drago n'est revendiquée.
+9. **G. W. F. Hegel**, *Vorlesungen über die Ästhetik* (*Leçons sur l'esthétique*), passages sur tragédie et conflit de puissances éthiques ; texte philosophique d'interprétation, sans témoignage ancien sur Achéos.
+10. **Friedrich Nietzsche**, *Die Geburt der Tragödie*, **1872**, sections **7–8**, réflexion sur le chœur et le dionysiaque ; source philosophique postérieure, sans valeur de preuve pour le genre de la pièce.
+11. **Digital Athenaeus**, index d'auteurs et références établi par **S. Douglas Olson** : le relevé des passages d'Achéos chez Athénée permet notamment de contrôler les fragments de l'*Alcméon satyrique* et l'absence de prétendue longue citation d'*Alphésibée* d'Achéos dans ce corpus. [Index numérique](https://www.digitalathenaeus.org/tools/OlsonIndex/digger.php?onoffswitch=on&what%5B%5D=Name%7CAchaeus+of+Eretria).
+12. **INHA, AGORHA**, [œnochoé G 442 du musée du Louvre](https://agorha.inha.fr/ark:/54721/299f3632-0623-45ef-8778-8b32db481595) ; **Musée de l'Acropole**, [kylix GL II.439](https://www.emfc.gr/en/node/23744) : sources des notices iconographiques, pas sources de la pièce.
+
+### 73. Protocole de publication et avertissements de réutilisation
+
+Le présent manuscrit appartient exclusivement à la **collection « tragedies »** de MYTHOS, même si son champ d'étude inclut la possibilité d'une pièce satyrique. Son titre éditorial comporte les variables **CCLXV** et **265** qui seront remplacées uniquement par le traitement atomique GitHub. Elles ne modifient ni l'identifiant critique **20 F 16**, ni les repères de sections antiques, ni les dates, ni les numéros de pièces déjà étudiées. Les références à l'œuvre sont conservées comme telles et non dupliquées sous un nouvel auteur.
+
+Les utilisateurs du dossier devront conserver les réserves essentielles dans les notices courtes : **« Achéos d'Érétrie, *Alphésibée*, TrGF I, 20 F 16 : expression astrale et ménade transmise par Hésychios ; identification du mythe et genre discutés ; possibilité de lien avec la fille de Phégée ou avec une tradition dionysiaque homonyme, non démontrée. »** La distinction avec Chaerémon et le caractère tardif du *De fluviis* sont obligatoires pour éviter les contresens.
+
+Aucune image n'a été intégrée dans le dépôt en marge de ce fichier ; les notices donnent des références et des droits à vérifier. La simple présence de ce texte dans la file GitHub n'est **pas** une confirmation de publication sur le site public. WordPress est une archive historique à préserver ; les autres collections, les anciens manuscrits, leurs reçus et les planifications ne sont pas modifiés.
+
+### Conclusion finale
+
+*Alphésibée* d'Achéos est un objet littéraire dont la perte a créé un piège historiographique : un nom qui attire vers une grande légende d'Alcméon, un fragment qui attire vers le monde des ménades et une autre homonyme qui entraîne vers le Tigre et Dionysos. Le commentaire doit résister à la tentation de transformer cette convergence séduisante en une pièce fictive. La transmission réellement identifiée fournit un titre, un fragment, un lexicographe, une comparaison astrale et un champ ouvert de problèmes ; elle ne transmet pas l'histoire jouée.
+
+La tragédie grecque ne devient pas moins intéressante lorsqu'on reconnaît la disparition de sa dramaturgie. Elle ouvre ici trois perspectives fondamentales : l'épaisseur des variantes mythologiques, la tension entre justice familiale et violences de la parenté, et la capacité d'une image poétique à faire communiquer les corps et le ciel. Une édition responsable articule ces trois dimensions sans dérober aux témoins leur silence. **Le dossier est achevé comme monographie critique originale ; l'attribution du numéro et la mise en ligne publique relèvent uniquement des transactions GitHub.**

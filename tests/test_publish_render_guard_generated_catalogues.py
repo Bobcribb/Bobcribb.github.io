@@ -30,6 +30,18 @@ class RenderCommitGuardTests(unittest.TestCase):
             command(root, "add", "-A")
             guard_render_commit(root)
 
+    def test_compact_search_catalogue_is_generated_and_allowed(self):
+        """The lightweight search projection may be committed by the renderer."""
+        with TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            command(root, "init", "-q")
+            report = root / "catalog" / "search-light.json"
+            report.parent.mkdir(parents=True)
+            report.write_text('[{"id":"MYT-1","url":"/","title":"MYTHOS"}]',
+                              encoding="utf-8")
+            command(root, "add", "-A")
+            guard_render_commit(root)
+
     def test_arbitrary_catalogue_is_not_treated_as_generated(self):
         """Allowing one report must not allow unapproved catalogue sources."""
         with TemporaryDirectory() as tmp:

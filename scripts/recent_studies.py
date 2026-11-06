@@ -10,6 +10,7 @@ import json
 import re
 from pathlib import Path
 from bs4 import BeautifulSoup
+from recent_study_media import documented_image
 
 # Images déjà publiées et sourcées dans les bibliothèques MYTHOS.
 COLLECTIONS = (
@@ -75,27 +76,39 @@ def latest_verified(root, output):
             # « Chapitre 409 — Agathos Daimôn ») et les sections en H2.
             # Quand le H1 est générique, le titre est généralement
             # le premier H2, après un H1 décrivant le cycle et son numéro.
-            first_h1 = re.search(r'(?m)^#\s+(.+)$', markdown)
+            headings_h1 = list(re.finditer(r'(?m)^#\s+(.+)$', markdown))
+            first_h1 = headings_h1[0] if headings_h1 else None
             first_h2 = re.search(r'(?m)^##\s+(.+)$', markdown)
             h1_text = re.sub(r'[`*_]', '', first_h1.group(1)).strip() if first_h1 else ''
-            # Les Origines et l'encyclopédie utilisent toutes deux un H1
-            # scientifique « Chapitre N — titre ». Un H2 « Résumé
-            # scientifique » ne doit jamais remplacer ce titre sur l'accueil.
+            # Priorité au véritable titre scientifique, même si le manuscrit
+            # comporte un second H1 après un H1 générique « MYTHOS — Volume ».
+            # Ne jamais confondre le premier H2 numéroté avec le titre.
             titled_chapter = bool(re.match(
                 r'(?i)^chapitre\s+\d+\s+[—:-]\s+\S+', h1_text))
-            heading = first_h1 if titled_chapter else (first_h2 or first_h1)
+            scientific_h1 = next((
+                candidate for candidate in headings_h1[1:]
+                if (not first_h2 or candidate.start() < first_h2.start())
+                and not re.match(
+                    r'(?i)^MYTHOS\s*[—:-]',
+                    re.sub(r'[`*_]', '', candidate.group(1)).strip())
+            ), None)
+            heading = (first_h1 if titled_chapter else
+                       (scientific_h1 or first_h2 or first_h1))
             if not heading:
                 continue
             title = re.sub(r'[`*_]', '', heading.group(1)).strip()
             if not title:
                 continue
-            src = '/media/2026/10/' + image
-            if not (output / src.lstrip('/')).is_file():
-                src = ''
+            # Illustrer uniquement si le sujet précis correspond à un document
+            # matériel connu, avec crédit et limite d'interprétation vérifiés.
+            picture = documented_image(root, output, collection, title, rel.stem)
+            src = picture.get('image', '')
             cote = 'Volume ' + roman(number) + f' ({number})' if roman_numbering else f'Chapitre {number}'
             found.append({'collection': label, 'cote': cote, 'title': title,
                           'url': '/' + rel.with_suffix('').as_posix() + '/', 'image': src,
-                          'illustration': IMAGE_CONTEXT[collection] if src else '',
+                          'illustration': picture.get('illustration', ''),
+                          'illustration_alt': picture.get('alt', ''),
+                          'credit_html': picture.get('credit_html', ''),
                           'collection_url': COLLECTION_HOME[collection],
                           'anchor': 'etude-recente-' + collection})
             break
@@ -122,14 +135,15 @@ def install(root, output):
         img = (
             '<span class="mythos-recent-illustration">'
             f'<img class="mythos-card-image" loading="lazy" decoding="async" '
-            f'alt="{html.escape(item["illustration"], quote=True)}" '
+            f'alt="{html.escape(item["illustration_alt"], quote=True)}" '
             f'src="{html.escape(item["image"], quote=True)}"/>'
-            '<span class="mythos-recent-caption">Repère iconographique de la collection : '
-            f'{html.escape(item["illustration"])}. '
-            'Cette image ne représente pas nécessairement l’étude.</span></span>'
+            '<span class="mythos-recent-caption">Document iconographique contextualisé : '
+            f'{html.escape(item["illustration"])} '
+            'Source et datation dans les crédits associés.</span></span>'
             if item['image'] else '')
+        card_class = "portal-card" if item["image"] else "portal-card mythos-recent-unillustrated"
         cards.append(
-            f'<a class="portal-card" id="{html.escape(item["anchor"], quote=True)}" '
+            f'<a class="{card_class}" id="{html.escape(item["anchor"], quote=True)}" '
             f'href="{html.escape(item["url"], quote=True)}">{img}'
             f'<span class="portal-card-kicker">{html.escape(item["collection"])} · '
             f'{html.escape(item["cote"])}</span>'
@@ -148,12 +162,23 @@ def install(root, output):
         )
         + '</ul></nav>'
     )
+    credits = [
+        '<li><strong>' + html.escape(item['collection']) + ' · '
+        + html.escape(item['cote']) + '</strong>' + item['credit_html'] + '</li>'
+        for item in records if item.get('credit_html') and item.get('image')
+    ]
+    sources = (
+        '<details class="mythos-recent-credits"><summary>Sources, datations et statuts des images ('
+        + str(len(credits)) + ')</summary><ol>' + ''.join(credits) + '</ol></details>'
+        if credits else ''
+    )
     markup = ('<section class="portal-section" id="home-etudes-recentes">'
               '<h2>Dernières études par collection</h2>'
               '<p class="section-intro">Un accès direct au dernier numéro attribué '
               'et construit dans chacune des cinq collections universitaires. '
               'Les textes, notes et bibliographies restent à leur emplacement d’origine.</p>' +
-              quick_nav + '<div class="portal-grid">' + ''.join(cards) + '</div></section>')
+              quick_nav + '<div class="portal-grid">' + ''.join(cards) + '</div>'
+              + sources + '</section>')
     section = BeautifulSoup(markup, 'html.parser').section
     anchor = main.select_one('#home-parcours')
     if anchor:

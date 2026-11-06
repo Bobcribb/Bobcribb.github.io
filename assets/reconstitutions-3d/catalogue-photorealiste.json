@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-05",
+  "generated_at": "2026-11-06",
   "site": "bobmythos.fr",
   "method": "Illustrations photoréalistes interprétatives, textes et sources hors des pixels.",
-  "count": 56,
+  "count": 64,
   "entries": [
     {
       "id": "DEL-PAN-001",
@@ -1246,6 +1246,371 @@
       ],
       "methodology": "Interprétation visuelle non métrique, distincte d’une modélisation 3D géométrique contrôlée ou d’une reconstitution institutionnellement validée. Les détails conjecturaux sont décrits dans cette notice.",
       "publication_status": "image_preparee_non_publiee_deploiement_a_verifier"
+    },
+    {
+      "id": "MIL-BOU-001",
+      "slug": "milet-bouleuterion-cour-peristyle-vers-170-av-jc",
+      "title": "Milet (Ionie) — Bouleutérion et cour à portiques vers 170 av. J.-C.",
+      "period": "Vers 175–164 av. J.-C. (règne d’Antiochos IV Épiphane) ; restitution d’une phase hellénistique du milieu du IIe siècle av. J.-C.",
+      "caption": "Reconstitution photoréaliste hypothétique du bouleutérion de Milet : propylon corinthien à quatre colonnes, cour à portiques sur trois côtés et grande salle couverte du conseil, dans la cité ionienne vers 170 av. J.-C.",
+      "commentary": "L’ensemble civique du bouleutérion de Milet, entre les agoras septentrionale et méridionale, présente un plan tripartite documenté : à l’est un propylon à quatre colonnes corinthiennes, une cour ouverte bordée de portiques sur trois côtés, puis à l’ouest la salle de délibération du conseil. Dans celle-ci, le koilon comptait environ dix-huit rangées de sièges de pierre selon les descriptions de la fouille ; les évaluations de capacité varient autour de 1 200–1 500 personnes selon les publications. Deux paires de colonnes ioniques soutenaient la toiture de la salle. La datation est assurée par les inscriptions de dédicace qui associent les frères Timarchos et Hérakleides, Antiochos IV Épiphane, Apollon Didyméen, Hestia Boulaia et le dêmos milésien. Les grandes dimensions publiées sont d’environ 34,84 × 55,90 m pour l’ensemble. La vue synthétique est prise du sud-est, au-dessus du propylon : elle montre les façades et toitures complètes et la cour animée. La salle de conseil fermée ne permet pas d’observer simultanément son hémicycle de gradins, qui n’est donc pas représenté en coupe. Aucun édifice romain postérieur, notamment le monument du centre de la cour, n’est représenté comme caractéristique de cette phase. Les bâtiments urbains adjacents, les teintes exactes des surfaces, l’appareillage visible, la composition des toitures, les costumes, l’état de la végétation et le lointain paysage marin sont des conventions visuelles. Les bâtiments d’arrière-plan ne doivent pas être considérés comme un relevé fidèle de Milet vers 170 av. J.-C. Les institutions et chercheurs cités attestent l’architecture et son histoire, non cette image. La restitution est une image photoréaliste à apparence 3D, sans validité métrique ou archéométrique.",
+      "certainty": "Élevé : localisation et destination du bouleutérion ; plan tripartite avec propylon, cour à portiques et salle de conseil ; quatre colonnes corinthiennes du propylon ; dédicace à l’époque d’Antiochos IV ; principaux ordres architecturaux et ordre de grandeur du bâtiment. Moyen : ordre et hauteur des portiques, complet développement des élévations, proportions vues sous cet angle, toiture et mobilier de la cour. Faible : teintes, détails des tuiles et des couronnements, figures humaines, décors, végétation, embarcations, topographie urbaine exacte, lointain paysage et lumière.",
+      "source_url": "https://www.miletgrabung.uni-hamburg.de/en/milet-tour/tour-stadtzentrum/bouleuterion.html",
+      "secondary_sources": [
+        "https://perseus-aa.github.io/items/aa_253.html",
+        "https://www.ime.gr/projects/bouleuterion/en/katopsis/miletus.html"
+      ],
+      "src": "/assets/reconstitutions-3d/milet-bouleuterion-cour-peristyle-vers-170-av-jc.webp",
+      "image": "/assets/reconstitutions-3d/milet-bouleuterion-cour-peristyle-vers-170-av-jc.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-06",
+      "type": "reconstitution visuelle numérique photoréaliste interprétative à apparence 3D, non métrique",
+      "provenance": "Création originale assistée par génération d’image pour MYTHOS ; aucun menu, inscription, texte, schéma 2,5D ou filigrane incrusté. Les organismes cités documentent le monument et ne valident pas ce rendu.",
+      "sha256": "613cfdc6f8aa24edb7ac5938ceb6fca2be4e97473e39952f7309b9827f350ae8",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/milet-bouleuterion-cour-peristyle-vers-170-av-jc.json",
+      "scientific_sources": [
+        {
+          "label": "Université de Hambourg, Milet-Grabung — Bouleuterion (fouilles et inscription de fondation)",
+          "url": "https://www.miletgrabung.uni-hamburg.de/en/milet-tour/tour-stadtzentrum/bouleuterion.html"
+        },
+        {
+          "label": "Perseus Art and Archaeology — Miletus Bouleuterion (plan, dimensions et bibliographie)",
+          "url": "https://perseus-aa.github.io/items/aa_253.html"
+        },
+        {
+          "label": "Foundation of the Hellenic World — Bouleuterion of Miletus",
+          "url": "https://www.ime.gr/projects/bouleuterion/en/katopsis/miletus.html"
+        }
+      ],
+      "methodology": "Image à apparence 3D non métrique, interprétative ; aucune reproduction géométrique à l’échelle, ni validation institutionnelle. Vérifier les proportions et détails incertains à partir des relevés publiés.",
+      "publication_status": "fichier_prepare_non_publie_deploiement_https_a_verifier"
+    },
+    {
+      "id": "MAG-ART-001",
+      "slug": "magnesie-meandre-artemis-leukophryene-vers-190-av-jc",
+      "title": "Magnésie du Méandre (Ionie) — temple d’Artémis Leukophryéné, vers 190 av. J.-C.",
+      "period": "Évocation hellénistique du début du IIe siècle av. J.-C., vers 200–190 av. J.-C. ; datation de l’architecture et de son décor discutée dans la recherche. Le Louvre date des plaques de frise vers 200–190 av. J.-C.",
+      "caption": "Restitution numérique photoréaliste interprétative du grand temple ionique d’Artémis Leukophryéné à Magnésie du Méandre, avec péristyle pseudodiptère et évocation de l’iconographie des Amazones ; lumière, contexte urbain et élévations hypothétiques.",
+      "commentary": "Le sanctuaire d’Artémis Leukophryéné se trouve dans la ville grecque de Magnésie du Méandre (Magnesia ad Maeandrum), en Ionie d’Asie Mineure. Le grand temple ionique de plan pseudodiptère, traditionnellement attribué à l’architecte Hermogène, possède un unique rang de colonnes formant un péristyle d’ordinaire décrit comme comptant huit colonnes en façade et quinze sur les côtés, mais laissant entre le péristyle et le naos un passage beaucoup plus large que dans un périptère ordinaire. Vitruve discute la typologie du pseudodiptère et attribue à Hermogène le temple d’Artémis de Magnésie (De architectura III, 2). Le dossier de la cité est présenté par l’autorité locale de Germencik, qui retrace également les fouilles de l’Artémision et les transferts de fragments de sa frise vers des musées. Le musée du Louvre conserve des plaques de la frise d’Amazonomachie et en date des exemples du premier quart du IIe siècle av. J.-C., vers 200–190. La vue propose un temple achevé, sa colonnade ionique, une toiture en tuiles, une frise narrative et un autel sculpté au premier plan. La représentation précise de l’autel, de son décor et de sa place relative au temple, comme les figures du fronton, la hauteur des colonnes, la polychromie, les bâtiments voisins et les paysages, n’est pas prouvée par ces sources ; elle relève de la conjecture artistique. Les reliefs sont évoqués plutôt que reproduits à partir de relevés ou de moulages. Aucune institution citée n’a validé la géométrie ni le rendu. Le visuel ne constitue ni un relevé à l’échelle ni un modèle 3D archéométrique.",
+      "certainty": "Élevé : existence du sanctuaire de Magnésie du Méandre et du temple d’Artémis, ordonnance ionique et principe pseudodiptère, attribution traditionnelle à Hermogène, thème d’Amazonomachie des plaques de frise conservées au Louvre. Moyen : nombre de colonnes 8 × 15 donné par les reconstructions courantes, date précise de la phase représentée, disposition générale et gabarit de l’édifice, restitution globale des entablements et toitures. Faible : sculpture précise du fronton et de l’autel, décor de la frise tel qu’il apparaît sur l’image, détails de la coloration, tuiles, personnages, mobilier cultuel, voisinage bâti, végétation, topographie et lumière.",
+      "source_url": "https://www.germencik.gov.tr/magnesia",
+      "secondary_sources": [
+        "https://collections.louvre.fr/ark:/53355/cl010252280",
+        "https://collections.louvre.fr/ark:/53355/cl010252276"
+      ],
+      "src": "/assets/reconstitutions-3d/magnesie-meandre-artemis-leukophryene-vers-190-av-jc.webp",
+      "image": "/assets/reconstitutions-3d/magnesie-meandre-artemis-leukophryene-vers-190-av-jc.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-06",
+      "type": "reconstitution visuelle numérique photoréaliste interprétative à apparence 3D, non métrique",
+      "provenance": "Création originale générée pour MYTHOS ; aucune interface, menu ou légende intégrés aux pixels. Les sources archéologiques citées documentent le bâtiment mais ne valident pas le rendu.",
+      "sha256": "3e2f1fe51ef729cf88dc6e1b539b5d9fa40eefc26cb5196da36693e064d52855",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/magnesie-meandre-artemis-leukophryene-vers-190-av-jc.json",
+      "scientific_sources": [
+        {
+          "label": "Kaymakamlık de Germencik — Magnesia ad Maeandrum, histoire des fouilles et Artemision",
+          "url": "https://www.germencik.gov.tr/magnesia"
+        },
+        {
+          "label": "Musée du Louvre — frise du temple d’Artémis, fragment d’Amazonomachie, daté 200–190 av. J.-C. (Ma 2881.35)",
+          "url": "https://collections.louvre.fr/ark:/53355/cl010252280"
+        },
+        {
+          "label": "Musée du Louvre — autre plaque de la frise d’Amazonomachie (Ma 2881.32)",
+          "url": "https://collections.louvre.fr/ark:/53355/cl010252276"
+        }
+      ],
+      "primary_texts": [
+        "Vitruve, De architectura, III, 2, 6 : temple pseudodiptère et Hermogène (référence ancienne à contrôler sur une édition critique)."
+      ],
+      "methodology": "Restitution artistique non métrique et non validée institutionnellement : hypothèses sur détails sculptés, coloris, toiture, figures, paysage et voisinage urbain. Ne pas utiliser l’image pour des mesures architecturales.",
+      "publication_status": "fichier_prepare_non_publie_deploiement_https_a_verifier"
+    },
+    {
+      "id": "HAL-MAU-001",
+      "slug": "halicarnasse-mausolee-vers-345-av-jc",
+      "title": "Halicarnasse (Carie) — Mausolée de Mausole, vers 345 av. J.-C.",
+      "period": "Vers 352–345 av. J.-C., dans la seconde moitié du IVe siècle av. J.-C. ; image interprétative d'un état idéal achevé.",
+      "caption": "Vue photoréaliste numérique hypothétique du Mausolée d'Halicarnasse, tombe monumentale hécatomnide, avec haut podium sculpté, péristyle ionique et toiture pyramidale couronnée d'un quadrige, vers 345 av. J.-C.",
+      "commentary": "À Halicarnasse, aujourd'hui Bodrum, le tombeau élevé à la mémoire du satrape carien Mausole (mort vers 353/352 av. J.-C.) associait un haut soubassement orné de reliefs, une colonnade ionique et une superstructure à degrés surmontée d'un quadrige. Pline l'Ancien décrit un péristyle de trente-six colonnes, une pyramide de vingt-quatre degrés et un char à quatre chevaux ; ces chiffres transmis par une source tardive ne permettent pas à eux seuls de fixer toutes les dimensions ou la disposition de l'ensemble. Les fragments sculptés mis au jour, notamment une frise d'Amazonomachie et des éléments d'un quadrige, documentent certaines composantes, étudiées au British Museum et au musée d'archéologie classique de Cambridge. L'image représente une reconstruction visuelle de synthèse et non un relevé métrique des fouilles. Le nombre apparent de statues intercolonnaires, la taille du couronnement, le dessin exact des reliefs, le pavement, les teintes et le quartier urbain sont des extrapolations ; la disposition de la sculpture architecturale reste discutée. Le paysage portuaire, les maisons, les personnages et l'atmosphère sont artistiques. L'image illustre la synthèse d'une tradition hellénique et carienne dans le monde égéen du IVe siècle av. J.-C. Aucune institution citée n'a validé le rendu numérique.",
+      "certainty": "Élevé : monument funéraire de Mausole à Halicarnasse ; contexte hécatomnide du IVe siècle ; podium sculpté, ordonnance ionique, frises de combat et fragments de quadrige attestés. Moyen : chronologie précise de l'achèvement, nombre de trente-six colonnes et vingt-quatre gradins pyramidiques transmis par Pline, restitution de la silhouette générale, position relative des reliefs. Faible : disposition exacte des statues entre colonnes et du couronnement, couleurs, décors et motifs individualisés, densité du tissu urbain, navires, vêtements, végétation et lumière.",
+      "source_url": "https://museum.classics.cam.ac.uk/collections/casts/mausoleum-halikarnassos-frieze",
+      "secondary_sources": [
+        "https://museum.classics.cam.ac.uk/collections/casts/mausoleum-halikarnassos-charioteer",
+        "https://www.britishmuseum.org/collection/object/G_1972-0402-15",
+        "https://digital.library.cornell.edu/catalog/ss%3A946190"
+      ],
+      "src": "/assets/reconstitutions-3d/halicarnasse-mausolee-vers-345-av-jc.webp",
+      "image": "/assets/reconstitutions-3d/halicarnasse-mausolee-vers-345-av-jc.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-06",
+      "type": "reconstitution numérique photoréaliste interprétative à apparence 3D, non métrique",
+      "provenance": "Illustration numérique originale créée pour MYTHOS ; aucun texte, logo, menu, titre, schéma 2,5D ni interface dans les pixels. Les institutions citées documentent les sources archéologiques et ne cautionnent pas cette image.",
+      "sha256": "82d2625d4273e45cdddcefd96ec4de3ffc9d29b0e825604a3c48e4d0f242f549",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/halicarnasse-mausolee-vers-345-av-jc.json",
+      "scientific_sources": [
+        {
+          "label": "Université de Cambridge — Museum of Classical Archaeology, Mausoleum at Halikarnassos, Frieze",
+          "url": "https://museum.classics.cam.ac.uk/collections/casts/mausoleum-halikarnassos-frieze"
+        },
+        {
+          "label": "Université de Cambridge — Mausoleum at Halikarnassos, Charioteer",
+          "url": "https://museum.classics.cam.ac.uk/collections/casts/mausoleum-halikarnassos-charioteer"
+        },
+        {
+          "label": "British Museum — sculpture du Mausolée d'Halicarnasse, vers 350 av. J.-C.",
+          "url": "https://www.britishmuseum.org/collection/object/G_1972-0402-15"
+        },
+        {
+          "label": "Cornell University Library — moulage de la frise d'Amazonomachie",
+          "url": "https://digital.library.cornell.edu/catalog/ss%3A946190"
+        }
+      ],
+      "primary_texts": [
+        "Pline l'Ancien, Histoire naturelle, XXXVI : description du Mausolée, colonnade et couverture pyramidale (témoignage postérieur à l'édifice).",
+        "Vitruve, De architectura, VII, préface : tradition relative à la conception du Mausolée."
+      ],
+      "methodology": "Vue de synthèse artistique non métrique et non photogrammétrique, dont les éléments incertains sont explicités. Ne pas utiliser pour mesures architecturales ni comme photographie d'un état antique.",
+      "publication_status": "fichier_prepare_non_publie_deploiement_https_a_verifier"
+    },
+    {
+      "id": "CYR-ZEU-001",
+      "slug": "cyrene-temple-zeus-periptere-etat-classique",
+      "title": "Cyrène (Libye) — grand temple de Zeus, périptère dorique, état grec classique hypothétique",
+      "period": "VIe–Ve siècles av. J.-C. ; état classique hypothétique antérieur aux remaniements romains ; datation précise et séquence du chantier discutées.",
+      "caption": "Restitution numérique photoréaliste interprétative du grand temple dorique de Zeus à Cyrène (Libye actuelle), avec son péristyle et son environnement vallonné. Image originale, sans inscriptions ni interface, correspondant à une évocation de l’époque grecque antérieure aux transformations romaines.",
+      "commentary": "Cyrène fut fondée par des Grecs venus de Théra au VIIe siècle av. J.-C., sur le plateau de la Cyrénaïque. Le vaste temple de Zeus appartient à un ensemble monumental distinct du sanctuaire d’Apollon et de l’agora de la cité. Les recherches identifient un péristyle dorique de huit colonnes sur les façades et dix-sept sur les longs côtés, pour un édifice d’environ 70 × 32 m ; les mesures publiées varient légèrement selon les points de référence. La chronologie de construction est débattue : les hypothèses vont de la seconde moitié du VIe siècle à certaines étapes du Ve siècle av. J.-C. La cella et son pronaos pourraient être antérieurs à l’installation complète du péristyle ; il ne serait donc pas rigoureux de présenter comme documenté un état complet à une date absolue unique. Le temple a subi des destructions puis des transformations sous la domination romaine, notamment après les violences de 115–117 de notre ère ; l’image évite délibérément le haut podium et les placages de marbre associés aux interventions romaines. Le volume du toit, les tuiles, les couleurs de la frise, l’aspect des frontons, les accès, les sols, les arbres et la lumière relèvent d’une hypothèse de visualisation. Le compte précis des colonnes ne peut être mesuré sur l’illustration : celle-ci n’est pas un modèle 3D géométrique validé, une photographie de l’Antiquité ni un relevé photogrammétrique. Les organismes cités documentent le site et la recherche mais ne certifient pas le rendu. L’association de Zeus à des traditions de Zeus-Ammon est une piste de contextualisation religieuse, sans identification iconographique imposée à cette image.",
+      "certainty": "Élevé : existence et implantation à Cyrène du grand temple consacré à Zeus ; architecture dorique périptère ; péristyle de huit colonnes sur la façade et dix-sept sur chaque long côté ; grandes dimensions du sanctuaire. Moyen : séquence des phases du VIe–Ve siècle av. J.-C. ; dimensions globales d’environ 70 × 32 m ; disposition du pronaos et restitution de l’élévation classique avant les remaniements romains. Faible : toiture, pente des frontons, tuiles, polychromie, mobilier et décor cultuels, état des surfaces, vêtements et attitudes des personnages, densité de la végétation, angle de vue et atmosphère.",
+      "source_url": "https://whc.unesco.org/fr/list/190/",
+      "secondary_sources": [
+        "https://warwick.ac.uk/fac/arts/classics/intranets/students/modules/greekreligion/database/template-copyl/",
+        "https://www.cambridge.org/core/journals/libyan-studies/article/abs/note-on-the-temple-of-zeus-at-cyrene-and-its-reerection/F41562288131B4F4E1FE99D4844A4488",
+        "https://www.asor.org/wp-content/uploads/2019/08/ASOR_CHI_March18_Appendices.pdf"
+      ],
+      "src": "/assets/reconstitutions-3d/cyrene-temple-zeus-periptere-etat-classique.webp",
+      "image": "/assets/reconstitutions-3d/cyrene-temple-zeus-periptere-etat-classique.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-06",
+      "type": "panorama numérique photoréaliste 3D interprétatif, non métrique",
+      "provenance": "Création visuelle originale assistée par IA pour MYTHOS. L’image n’est pas une photographie archéologique, ni un modèle 3D scientifique, ni une illustration approuvée par les institutions citées. Aucun menu, texte ou schéma 2,5D dans les pixels.",
+      "sha256": "e6a426ee30dcba329db324c47d93347c45e4ac2df2d1d3975a738a17d064a54a",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/cyrene-temple-zeus-periptere-etat-classique.json",
+      "scientific_sources": [
+        {
+          "label": "UNESCO — Site archéologique de Cyrène, patrimoine mondial n° 190",
+          "url": "https://whc.unesco.org/fr/list/190/"
+        },
+        {
+          "label": "University of Warwick — Temple of Zeus at Cyrene, Libya (ordre, plan et phases)",
+          "url": "https://warwick.ac.uk/fac/arts/classics/intranets/students/modules/greekreligion/database/template-copyl/"
+        },
+        {
+          "label": "Cambridge, Libyan Studies — A Note on the Temple of Zeus at Cyrene and its Re-Erection",
+          "url": "https://www.cambridge.org/core/journals/libyan-studies/article/abs/note-on-the-temple-of-zeus-at-cyrene-and-its-reerection/F41562288131B4F4E1FE99D4844A4488"
+        },
+        {
+          "label": "ASOR Cultural Heritage Initiatives — Cyrene Temple of Zeus (2018), dimensions et conservation",
+          "url": "https://www.asor.org/wp-content/uploads/2019/08/ASOR_CHI_March18_Appendices.pdf"
+        }
+      ],
+      "methodology": "Restitution d’ambiance informée par les vestiges et les recherches, sans précision métrique garantie ni validation institutionnelle ; les parties reconstruites non documentées sont explicitées.",
+      "publication_status": "fichier_prepare_non_publie_deploiement_https_a_verifier"
+    },
+    {
+      "id": "ARG-HER-001",
+      "slug": "argos-heraion-nouveau-temple-vers-420-av-jc",
+      "title": "Argos (Argolide) — nouvel Héraion, temple dorique d’Eupolémos, vers 420 av. J.-C.",
+      "period": "Fin du Ve siècle av. J.-C., vers 420 av. J.-C. (après l’incendie de l’ancien temple en 423 av. J.-C.).",
+      "caption": "Vue photoréaliste interprétative du nouveau temple d’Héra sur la terrasse inférieure du sanctuaire argien, dominant la plaine d’Argolide, peu après sa construction vers 420 av. J.-C.",
+      "commentary": "Le sanctuaire d’Héra d’Argos (Héraion argien), établi sur les pentes méridionales de l’Aétovouno au-dessus de la plaine d’Argolide, s’organisait en terrasses. Après l’incendie de l’ancien temple de la terrasse supérieure en 423 av. J.-C., événement raconté par Thucydide (IV, 133, 2), le nouveau temple fut élevé vers 420 av. J.-C. sur la terrasse inférieure. L’Éphorie des Antiquités d’Argolide attribue les plans à Eupolémos d’Argos et décrit un temple dorique périptère en pierre poreuse, à six colonnes en façade et douze sur les longs côtés, comprenant pronaos, naos et opisthodome. Pausanias (II, 17, 3–4), témoin bien plus tardif, rattache aussi le temple à Eupolémos et mentionne la célèbre statue chryséléphantine d’Héra par Polyclète. L’image évoque la morphologie du péristyle, le soubassement en gradins, la rampe d’accès, le portique voisin et les niveaux du terrain. La couverture intégrale en tuiles, les bandeaux colorés, les détails des parties hautes, les reliefs du fronton, l’apparence des portiques, la répartition du mobilier rituel, les costumes des visiteurs, les essences végétales et le point de vue sont des restitutions conjecturales. Le visuel ne fournit ni relevé archéologique, ni photogrammétrie ni géométrie métrique fiable. Les institutions et ouvrages cités documentent le sanctuaire mais ne valident pas cette image générée numériquement.",
+      "certainty": "Élevé : sanctuaire et position en terrasses en Argolide ; culte d’Héra ; nouveau temple dorique périptère à 6 × 12 colonnes vers 420 av. J.-C. ; incendie de l’ancien temple en 423 av. J.-C. Moyen : attribution à Eupolémos transmise par Pausanias et reprise par l’Éphorie ; organisation du pronaos, du naos et de l’opisthodome ; apparence générale de la rampe et des portiques. Faible : façades supérieures exactes, toiture et tuiles, polychromie, motifs sculptés figurés ou absents, mobilier cultuel, autel dans cette phase précise, personnes, végétation, couleur des matériaux, position de la caméra et paysage atmosphérique.",
+      "source_url": "https://www.argolisculture.gr/fr/liste-de-monuments/l-heraion-d-argos/",
+      "secondary_sources": [
+        "https://www.argolisculture.gr/en/list-of-monuments/archaeological-site-of-heraion-argos/",
+        "https://www.theoi.com/Text/Pausanias2B.html",
+        "https://scaife-reader.perseus.tufts.edu/reader/urn%3Acts%3AgreekLit%3Atlg0003.tlg001.1st1K-eng1%3A4.133.2/",
+        "https://doi.org/10.11588/propylaeum.1035.c14058"
+      ],
+      "src": "/assets/reconstitutions-3d/argos-heraion-nouveau-temple-vers-420-av-jc.webp",
+      "image": "/assets/reconstitutions-3d/argos-heraion-nouveau-temple-vers-420-av-jc.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-06",
+      "type": "reconstitution numérique photoréaliste interprétative à apparence 3D, non métrique",
+      "provenance": "Image originale générée pour MYTHOS puis convertie au format WebP. Aucune légende, menu, interface, carte, infographie 2,5D ou filigrane n’est incrusté. Les sources ne constituent pas une approbation institutionnelle de l’image.",
+      "sha256": "d99a33200d1681c2c1b7c7b0685c49578bf6af88eca891804418af8a63e0c31a",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/argos-heraion-nouveau-temple-vers-420-av-jc.json",
+      "scientific_sources": [
+        {
+          "label": "Éphorie des Antiquités d’Argolide — L’Héraion d’Argos",
+          "url": "https://www.argolisculture.gr/fr/liste-de-monuments/l-heraion-d-argos/"
+        },
+        {
+          "label": "Éphorie des Antiquités d’Argolide — Archaeological site of Heraion, Argos",
+          "url": "https://www.argolisculture.gr/en/list-of-monuments/archaeological-site-of-heraion-argos/"
+        },
+        {
+          "label": "Pausanias, Description de la Grèce, II, 17, 3–4 (texte antique, témoignage tardif)",
+          "url": "https://www.theoi.com/Text/Pausanias2B.html"
+        },
+        {
+          "label": "Thucydide, Guerre du Péloponnèse, IV, 133, 2 (incendie en 423 av. J.-C.)",
+          "url": "https://scaife-reader.perseus.tufts.edu/reader/urn%3Acts%3AgreekLit%3Atlg0003.tlg001.1st1K-eng1%3A4.133.2/"
+        },
+        {
+          "label": "D. A. Kousoulas, The Heraion of Argos in Comparison to the Temple of Epikourios Apollo at Bassae (2023)",
+          "url": "https://doi.org/10.11588/propylaeum.1035.c14058"
+        }
+      ],
+      "primary_texts": [
+        "Thucydide, Histoire de la guerre du Péloponnèse IV, 133, 2 : incendie de l’ancien temple en 423 av. J.-C.",
+        "Pausanias, Description de la Grèce II, 17, 3–4 : Eupolémos, décors sculptés et statue de Polyclète ; source du IIe siècle apr. J.-C."
+      ],
+      "methodology": "Visualisation documentaire interprétative (et non modèle 3D mesurable, maquette numérique archéologique validée, photographie ou restitution certaine des états antiques). Les détails non documentés sont hypothétiques.",
+      "publication_status": "branch_committed_pending_https_verification"
+    },
+    {
+      "id": "EPI-THE-001",
+      "slug": "epidaure-theatre-hellenistique-vers-150-av-jc",
+      "title": "Épidaure (Argolide) — théâtre d’Asclépios, état hellénistique après agrandissement, vers 150 av. J.-C.",
+      "period": "Milieu du IIe siècle av. J.-C., vers 150 av. J.-C., après l’agrandissement de la cavea.",
+      "caption": "Reconstitution photoréaliste numérique interprétative : orchestra circulaire, cavea à deux niveaux et élévation conjecturale de la skènè au milieu du IIe siècle av. J.-C.",
+      "commentary": "Dans le sanctuaire d’Asclépios en Argolide, le théâtre d’Épidaure s’adosse au mont Kynortion. Il a connu deux grandes phases de construction : à la fin du IVe siècle av. J.-C., l’orchestra circulaire, les 34 premiers rangs de sièges et un bâtiment de scène ; au milieu du IIe siècle av. J.-C., la cavea fut étendue vers le haut de 21 rangs supplémentaires, portant l’ensemble à 55 rangs séparés par un diazoma. Selon DIAZOMA, le premier niveau comporte douze secteurs et l’extension supérieure vingt-deux. Pausanias (II, 27.5), plusieurs siècles après la fondation, célèbre la beauté et l’harmonie de l’édifice et l’attribue à Polyclète, traditionnellement identifié à Polyclète le Jeune. Ce témoignage tardif ne constitue pas une preuve contemporaine de l’architecte. L’UNESCO inscrit le théâtre dans l’ensemble monumental du sanctuaire d’Asclépios (liste 491). Le rendu montre l’orchestra, les accès latéraux et les deux niveaux de gradins dans une évocation de l’état après l’agrandissement hellénistique. Les parties hautes du bâtiment de scène, sa hauteur précise, son toit, ses peintures, ses ouvertures et le rendu du proskenion ne sont pas entièrement connus : ils sont interprétés ici sans prétention de fidélité métrique. Les figurants, le paysage végétal, les vêtements, les ombres et l’état de conservation visible sont également artistiques. Cette image consacrée au théâtre est un sujet distinct de l’illustration panoramique de l’Asclépiéion déjà publiée sur MYTHOS. Les institutions citées n’ont ni participé à la création ni validé le modèle numérique.",
+      "certainty": "Élevé : localisation, orchestra ronde, cavea étagée, deux campagnes des IVe et IIe siècles av. J.-C., division 34 + 21 rangs et diazoma. Moyen : datation au milieu du IIe siècle, attribution à Polyclète le Jeune via Pausanias, plans et disposition de la skènè à l’époque hellénistique. Faible : élévations et peintures de scène, toit, ouverture centrale, décors, personnages, costumes, végétation, effets de lumière, patine de la pierre et détails métriques.",
+      "source_url": "https://whc.unesco.org/fr/list/491/",
+      "secondary_sources": [
+        "https://diazoma.gr/en/theaters/theatre-of-epidavrus/",
+        "https://perseus-aa.github.io/items/aa_228.html",
+        "https://chs.harvard.edu/description-of-greece-a-pausanias-reader/"
+      ],
+      "src": "/assets/reconstitutions-3d/epidaure-theatre-hellenistique-vers-150-av-jc.webp",
+      "image": "/assets/reconstitutions-3d/epidaure-theatre-hellenistique-vers-150-av-jc.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-06",
+      "type": "reconstitution numérique photoréaliste interprétative à apparence 3D, non métrique",
+      "provenance": "Création assistée par IA pour MYTHOS, sans menu, logo, titre, schéma 2,5D ou interface dans les pixels ; sources non cautionnantes.",
+      "sha256": "80b5ba0f6c6d71593834bff18d37933a9dc858940a6d01121b07d8a689980f75",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/epidaure-theatre-hellenistique-vers-150-av-jc.json",
+      "scientific_sources": [
+        {
+          "label": "UNESCO — Sanctuaire d’Asclépios en Épidaure (n° 491)",
+          "url": "https://whc.unesco.org/fr/list/491/"
+        },
+        {
+          "label": "DIAZOMA — Theater of Epidaurus, description architecturale et phases",
+          "url": "https://diazoma.gr/en/theaters/theatre-of-epidavrus/"
+        },
+        {
+          "label": "Perseus — Epidauros, Theater (aa_228)",
+          "url": "https://perseus-aa.github.io/items/aa_228.html"
+        },
+        {
+          "label": "Harvard CHS — Pausanias, Description de la Grèce II, 27.5",
+          "url": "https://chs.harvard.edu/description-of-greece-a-pausanias-reader/"
+        }
+      ],
+      "primary_texts": [
+        "Pausanias, Description de la Grèce, II, 27.5 : tradition de Polyclète et éloge du théâtre (texte du IIe siècle apr. J.-C.)."
+      ],
+      "methodology": "Vue de synthèse artistique non métrique et non photogrammétrique : aucun détail ne doit être employé comme mesure archéologique ou preuve de l’apparence du bâtiment de scène.",
+      "publication_status": "branch_committed_pending_https_verification"
+    },
+    {
+      "id": "THO-THE-001",
+      "slug": "thorikos-theatre-orchestra-oblongue-vers-425-av-jc",
+      "title": "Thorikos (Attique) — théâtre du dème, orchestra oblongue, vers 425 av. J.-C.",
+      "period": "Évocation vers 425 av. J.-C. (aménagements de la première moitié et du milieu du Ve siècle ; gradins inférieurs en pierre ; agrandissement supérieur du IVe siècle volontairement non restitué).",
+      "caption": "Reconstitution numérique photoréaliste hypothétique du théâtre de Thorikos sur le versant du Velatouri, avec cavea allongée à section centrale presque rectiligne, orchestra oblongue, éléments cultuels latéraux et paysage attique au Ve siècle av. J.-C.",
+      "commentary": "Thorikos, sur la côte méridionale de l’Attique près de Laurion, était un dème de l’Attique classique marqué par des mines, des ateliers de traitement du minerai, des habitations et des nécropoles. Son théâtre se développe sur un ancien espace de carrière au pied de la colline du Velatouri. À la différence du schéma canonique du théâtre grec à orchestra circulaire, l’édifice possède une cavea allongée : sa partie centrale est presque rectiligne, ses extrémités courbes et l’orchestra est oblongue/rectangulaire à angles arrondis. Les fouilles reconnaissent plusieurs états : un premier terrassement et mur de soutènement avant le milieu du Ve siècle, des gradins en pierre disposés en vingt et une rangées dans la phase classique, puis l’ajout d’un gradinage supérieur à l’époque du IVe siècle. Les vestiges comprennent les fondations d’un petit édifice cultuel traditionnellement associé à Dionysos, et une structure rectangulaire parfois identifiée à un autel. Le théâtre servait aux représentations, aux fêtes locales dont les Dionysies rurales, et aux rassemblements de la communauté civique. L’image choisit une évocation autour de 425 av. J.-C., sans intégrer les extensions de l’upper cavea du IVe siècle, et ne peut servir à reconstituer des côtes exactes. Le mobilier scénique sommaire et le portique en bois, le feu de l’autel, la disposition des personnages, les bâtiments reconstruits, la végétation, la vue de la mer et l’heure du jour sont des choix iconographiques non documentés dans cette précision. Les différentes sources ne s’accordent pas toujours sur les dimensions exactes de l’orchestra ou sur la chronologie des premiers aménagements. Cette image n’est ni un relevé 3D géométrique certifié ni une photographie de l’état du Ve siècle.",
+      "certainty": "Élevé : localisation du théâtre au pied du Velatouri, originalité de la cavea allongée à segment central rectiligne et extrémités incurvées, orchestra oblongue et gradins inférieurs en pierre ; plusieurs phases de construction. Moyen : restitution du mur de terrasse, nombre et répartition visibles des gradins au Ve siècle, organisation des accès et voisinage de l’édifice cultuel, état vers 425 av. J.-C. Faible : tréteaux et tentures de scène, élévation exacte du petit bâtiment, autel en activité, polychromie, tenue et nombre des visiteurs, végétation, littoral et cadrage.",
+      "source_url": "https://diazoma.gr/en/theaters/ancient-theater-of-thoricus/",
+      "secondary_sources": [
+        "https://www.thorikos.be/site-projects/",
+        "https://www.thorikos.be/thorikos-the-site/",
+        "https://archaeologia.eie.gr/archaeologia/gr/02_deltia/thorikos.html"
+      ],
+      "src": "/assets/reconstitutions-3d/thorikos-theatre-orchestra-oblongue-vers-425-av-jc.webp",
+      "image": "/assets/reconstitutions-3d/thorikos-theatre-orchestra-oblongue-vers-425-av-jc.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-06",
+      "type": "panorama numérique photoréaliste interprétatif à apparence 3D, non métrique",
+      "provenance": "Image originale produite pour MYTHOS par génération d’image, puis conversion sans titre, menu, logo, légende ou filigrane dans les pixels. Les institutions citées documentent les vestiges mais ne valident pas cette restitution.",
+      "sha256": "239ff05da6e999237409eed9088a123ab95c6c31dfb34610cabc7074ed613b28",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/thorikos-theatre-orchestra-oblongue-vers-425-av-jc.json",
+      "scientific_sources": [
+        {
+          "label": "DIAZOMA — Ancient Theater of Thoricus, phases et morphologie du théâtre",
+          "url": "https://diazoma.gr/en/theaters/ancient-theater-of-thoricus/"
+        },
+        {
+          "label": "Thorikos Archaeological Research Project — Site Based Projects / Theatre Publication",
+          "url": "https://www.thorikos.be/site-projects/"
+        },
+        {
+          "label": "Thorikos Archaeological Research Project — The Site (topographie, chronologie)",
+          "url": "https://www.thorikos.be/thorikos-the-site/"
+        },
+        {
+          "label": "National Hellenic Research Foundation — Archéologie de la cité d’Athènes, Thorikos (grec)",
+          "url": "https://archaeologia.eie.gr/archaeologia/gr/02_deltia/thorikos.html"
+        }
+      ],
+      "primary_texts": [
+        "Calendrier sacrificiel de Thorikos : inscriptions du dème attestant fêtes et pratiques rituelles locales (ne documente pas l’élévation du théâtre)."
+      ],
+      "methodology": "Évocation iconographique d’une phase classique du monument sur la base des plans et de la documentation archéologique ; aucune restitution métrique, photogrammétrie ou validation institutionnelle n’est revendiquée."
+    },
+    {
+      "id": "CLA-APO-001",
+      "slug": "claros-apollon-temple-cour-chantier-hadrien-vers-135-ap-jc",
+      "title": "Claros (Ionie) — temple-oracle d’Apollon, chantier dorique à l’époque d’Hadrien",
+      "period": "Évocation vers 130–140 apr. J.-C. : phase hadrianique d’un sanctuaire grec dont le second temple fut commencé à la fin du IVe siècle av. J.-C. ; état précis non reconstituable.",
+      "caption": "Vue photoréaliste interprétative du sanctuaire d’Apollon à Claros, près de Colophon en Ionie, pendant un épisode hypothétique des travaux d’époque hadrianique : façade dorique, crépis à degrés, péristyle incomplet et aménagements rituels dans la vallée.",
+      "commentary": "Le sanctuaire d’Apollon Clarios, dépendant de la cité grecque de Colophon, possède une histoire oraculaire remontant au moins à l’époque archaïque. Un premier édifice du VIe siècle av. J.-C. fut remplacé par un temple à cour mis en chantier dans les dernières décennies du IVe siècle av. J.-C. Le programme prévoyait un temple dorique périptère sur une crépis de cinq degrés, avec six colonnes sur les façades et onze sur les longs côtés, autour d’un sèkos dont l’espace hypèthre se rapportait au puits oraculaire. Le chantier n’a jamais été achevé. Au IIe siècle av. J.-C., la cour fut progressivement transformée par une crypte à deux salles desservie par un passage souterrain, distinguant les consultants de l’officiant ; les consultations sont connues par les études de l’architecture et des textes antiques. Des travaux ont continué durant l’époque romaine, et Hadrien finança l’entablement de six colonnes de façade et de cinq colonnes sur chacun des longs côtés selon les travaux de l’Institut de Recherche sur l’Architecture Antique. La présente image juxtapose des volumes plausibles — façade avancée, parties latérales inachevées, échafaudages, blocs de taille, petit espace sacrificiel et circulations humaines — sans prétendre reproduire une photographie exacte des années 130–140. Les stoas latérales, les figures, engins, bois, détails de l’autel et le paysage proche sont des arrangements artistiques ; les rapports métriques ne peuvent être extraits de l’image. Les éléments de crypte et de puits sont documentés mais ne sont pas visibles dans cette perspective. L’illustration n’est ni un relevé d’architecture, ni un modèle géométrique 3D validé par les chercheurs.",
+      "certainty": "Élevé : présence du sanctuaire oraculaire à Claros, temple grec dorique à cour, projet de péristyle 6 × 11, crépis à cinq degrés, chantier jamais achevé, modifications liées à la crypte et poursuite des travaux sous Hadrien. Moyen : organisation générale des élévations de la façade et des flancs selon l’étude archéologique, choix d’un état de chantier au IIe siècle apr. J.-C. Faible : état précis en 135, disposition exacte des échafaudages et aménagements secondaires, matériaux et traitement des surfaces, végétation, vêtements, mobilier, couleur du décor, cérémonie représentée et atmosphère.",
+      "source_url": "https://iraa.mmsh.fr/etudes-et-missions/le-temple-dapollon-a-claros-turquie/",
+      "secondary_sources": [
+        "https://www.persee.fr/doc/mom_1955-4982_2014_act_65_1_3564",
+        "https://www.umifre.fr/c/77803",
+        "https://www.ktb.gov.tr/EN-114131/claros.html",
+        "https://academic.oup.com/edited-volume/61673/chapter-abstract/548753246"
+      ],
+      "src": "/assets/reconstitutions-3d/claros-apollon-temple-cour-chantier-hadrien-vers-135-ap-jc.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-06",
+      "type": "panorama numérique photoréaliste interprétatif à apparence 3D, non métrique",
+      "provenance": "Création originale de MYTHOS par génération numérique puis conversion en WebP, sans textes, menus, logos, filigranes ni schémas 2,5D dans l’image ; aucune validation du rendu par les institutions citées.",
+      "sha256": "86681ecac8001c7eca262eb08ee343601750f64e475a233348b2d1e8032a7daf",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/claros-apollon-temple-cour-chantier-hadrien-vers-135-ap-jc.json",
+      "scientific_sources": [
+        {
+          "label": "IRAA (CNRS / AMU) — Le temple d’Apollon à Claros",
+          "url": "https://iraa.mmsh.fr/etudes-et-missions/le-temple-dapollon-a-claros-turquie/"
+        },
+        {
+          "label": "D. Laroche et O. Riss — Le temple d’Apollon et le fonctionnement de l’oracle (2014)",
+          "url": "https://www.persee.fr/doc/mom_1955-4982_2014_act_65_1_3564"
+        },
+        {
+          "label": "UMIFRE / IFEA — Le temple de l’oracle d’Apollon à Claros",
+          "url": "https://www.umifre.fr/c/77803"
+        },
+        {
+          "label": "Ministère turc de la Culture — Claros",
+          "url": "https://www.ktb.gov.tr/EN-114131/claros.html"
+        },
+        {
+          "label": "Oxford Classical Dictionary — Claros",
+          "url": "https://academic.oup.com/edited-volume/61673/chapter-abstract/548753246"
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,346 @@
+# MYTHOS — Les Origines du sacré — Chapitre 716
+
+## Qustul avant les pharaons : le cimetière L, l'encensoir à procession, les élites du Groupe A et la controverse sur les origines de la royauté nilotique
+
+*Monographie universitaire originale — volume DCCXVI. Archéologie de la Basse-Nubie, chronologies prédynastiques, iconographie de la souveraineté, anthropologie des biens funéraires, histoire de la recherche et philosophie comparée du sacré. Dossier achevé le 6 novembre 2026. Aucune numérotation canonique n'est présumée avant l'attribution transactionnelle.*
+
+### Problème scientifique
+
+Au IVe millénaire avant notre ère, la Basse-Nubie, entre les premières cataractes du Nil, constitue un espace d'activités, de circulations et de différenciations politiques qui ne peut être ramené à une périphérie de l'Égypte pharaonique. Dans le cimetière L de Qustul, sur la rive orientale du Nil, des tombes du Groupe A se signalent par leur dimension, leur mobilier et des images que les égyptologues rapprochent des signes naissants du pouvoir royal. L'objet le plus discuté, un brûle-parfum ou encensoir en matière calcaire, inventorié E24069 à l'Institute for the Study of Ancient Cultures de l'Université de Chicago, provient de la tombe L24. Sa frise montre des embarcations et des emblèmes comparables à ceux de l'iconographie royale prédynastique et protodynastique d'Égypte [1–4].
+
+Bruce B. Williams, qui publia les fouilles, défendit l'hypothèse d'un foyer nubien ancien de souveraineté disposant de signes royaux très élaborés. Des recherches postérieures ont discuté tant l'antériorité des images que l'origine de l'objet et la nature des échanges avec l'Égypte. La thèse selon laquelle la royauté égyptienne serait née à Qustul n'est pas un consensus scientifique. Mais la réduction du Groupe A à un rôle passif de receveur des biens égyptiens serait tout aussi injustifiable : ses populations ont produit des formes propres d'organisation sociale, des céramiques distinctives et des programmes funéraires monumentaux [1, 5–8].
+
+Il faut donc remplacer la question binaire « qui inventa la royauté ? » par plusieurs questions : quels objets furent fabriqués, déposés et diffusés ? quelles communautés construisirent de grandes tombes ? quelles conventions visuelles étaient partagées et selon quelles chronologies ? quelles différences distinguent un chef, un roi, un pouvoir territorial et une communauté cérémonielle ? La réponse doit rester une histoire des sources, non une compétition identitaire moderne.
+
+### 1. Définir Qustul : un lieu, des ensembles de tombes, une région
+
+Qustul se trouvait dans la Basse-Nubie historique, près de la frontière actuelle de l'Égypte et du Soudan, dans la zone étudiée avant la montée des eaux du lac Nasser. Son appartenance géographique ne doit pas masquer le fait qu'il s'agit d'un paysage ancien qui reliait les populations des deux rives du Nil, les terres de culture, les passages fluviaux et les itinéraires désertiques. Les limites nationales modernes n'existaient pas pour les acteurs du IVe millénaire.
+
+Le nom Qustul désigne plusieurs cimetières fouillés, notamment L, mais aussi d'autres secteurs disposant d'assemblages moins riches. Les lettres de fouille sont des conventions archivistiques et ne transcrivent pas les noms indigènes de communautés ou de catégories sociales. Le cimetière L constitue un groupe archéologique particulièrement remarquable par la taille et la richesse de certaines chambres ; il ne représente pas mécaniquement la totalité des habitants de la région.
+
+L'identification d'un centre de pouvoir ne peut reposer uniquement sur des tombes d'élite. Il faut chercher aussi lieux d'habitation, production céramique, parcelles cultivées, ressources pastorales, points de traversée et relations interrégionales. Les fouilles de sauvetage ont laissé cette image inégale, souvent beaucoup plus riche pour les espaces funéraires que pour les établissements.
+
+### 2. L'histoire des découvertes et la sauvegarde internationale
+
+Les opérations menées par l'Oriental Institute de Chicago sous la direction de Keith C. Seele s'inscrivirent dans la campagne internationale de sauvegarde des antiquités de Nubie provoquée par le barrage d'Assouan. Les campagnes de 1962–1963 et 1963–1964 explorèrent une concession allant d'Abou Simbel vers la frontière soudanaise. Les découvertes de Qustul furent publiées avec un long délai dans un corpus détaillé de Bruce B. Williams [1].
+
+La monographie *Excavations Between Abu Simbel and the Sudan Frontier*, première partie consacrée au cimetière L, parut en 1986 dans la série *Oriental Institute Nubian Expedition* 3. Elle compte xxxviii + 388 pages, 190 figures, 100 planches et 43 tableaux selon le catalogue de l'éditeur. Cette ampleur est un élément de méthode : les restitutions iconographiques doivent être replacées parmi plans de tombes, tableaux de mobilier, description de la poterie et analyse des contextes.
+
+La montée du lac Nasser a rendu inaccessibles ou submergé de nombreux contextes. Les relevés, étiquettes de provenance et dépôts muséaux constituent dès lors une archive irremplaçable. On ne peut plus corriger une association stratigraphique par une simple nouvelle fouille du même espace. La conservation documentaire devient une dimension de la connaissance historique.
+
+### 3. « Groupe A » : une culture archéologique et non une ethnie intemporelle
+
+L'expression « Groupe A » fut introduite dans l'histoire de la recherche sur la Nubie pour désigner des assemblages matériels du IVe et du début du IIIe millénaire. Elle couvre des variations régionales et chronologiques. Son usage ne permet ni d'assigner une langue unique à tous les défunts, ni de définir une race biologique, ni d'imaginer une communauté inchangée pendant des siècles.
+
+Les céramiques fines, en particulier certaines productions à parois minces, les formes peintes, le mobilier de parure et les récipients importés servent à distinguer des ensembles et à dater des tombes. Leur présence peut traduire choix funéraires, traditions techniques, échanges et préférences collectives. Une catégorie matérielle n'est pas l'équivalent direct d'une identité politique stable.
+
+L'archéologie contemporaine interroge la dichotomie « sédentaire/nomade ». Carolina Quintana a souligné l'intérêt d'un modèle de mobilité et de semi-sédentarité permettant l'exploitation de plusieurs niches écologiques [8]. Cette perspective aide à éviter l'idée que l'absence de grande ville dans les zones fouillées exclurait la concentration de richesses ou l'organisation de monuments funéraires.
+
+### 4. Chronologie : le IVe millénaire avant la Ire dynastie
+
+La datation des tombes de Qustul résulte de plusieurs procédés, notamment la comparaison des céramiques locales et importées avec les séquences Naqada d'Égypte. Les notices muséales situent l'encensoir E24069 dans le Groupe A vers 3200–3000 av. notre ère, parfois avec une fourchette plus serrée autour de 3100 av. notre ère [2–4]. Ces datations de catalogue sont des approximations historiques, non des mesures directes d'un événement d'ensevelissement.
+
+Les subdivisions Naqada IIIA et IIIB, la notion parfois employée de « dynastie 0 » et l'avènement de la Ire dynastie ne doivent pas être superposés sans discussion. Les chronologies absolues peuvent varier avec les méthodes de calibration et les ensembles sélectionnés. Le vocabulaire de « premier pharaon » ne convient pas automatiquement à toute figure couronnée d'une image du IVe millénaire.
+
+Savoir si un emblème du brûle-parfum précède une forme comparable dans la vallée du Nil égyptienne suppose une comparaison fine des contextes archéologiques et de leurs marges d'incertitude. Un objet connu par une tombe anciennement pillée, ou restauré à partir de fragments, appelle une prudence supplémentaire.
+
+### 5. La stratification sociale et le cimetière L
+
+Williams décrit le cimetière L comme un ensemble de tombes A-Group remarquablement grandes et riches, malgré leur perturbation et les destructions par le feu [1]. Les produits de luxe, les objets importés, les récipients et les parures suggèrent l'existence de distinctions sociales fortes. Le terme « royal » employé dans le titre de la publication constitue une interprétation argumentée de ces traits, non une titulature inscrite sur chacune des chambres.
+
+La richesse peut refléter des échanges, des obligations réciproques, la maîtrise de ressources locales ou le rôle de communautés organisant les transports du Nil. Elle ne permet pas d'identifier automatiquement les limites d'un territoire administré. Un chef de réseau, un souverain rituel et un roi territorial peuvent employer des objets d'apparence similaire ; leurs institutions ne se déduisent pas d'une seule catégorie de parure.
+
+La différence entre les cimetières L, V et W est parfois présentée comme une échelle sociale simple : roi, officier, sujet. Cette reconstruction doit être testée par les datations et les recrutements funéraires ; les lettres ne désignent pas des castes indigènes.
+
+### 6. La tombe L24 : provenance précise d'une image célèbre
+
+L'encensoir E24069 provient de la tombe L24 du cimetière L. L'Institute for the Study of Ancient Cultures indique une découverte en 1964 et conserve l'objet avec ses restaurations modernes [2–4]. Les dimensions données dans les catalogues sont d'environ 8,9 cm de hauteur et 15,2 cm de diamètre maximal. Il s'agit d'un petit objet portatif, et non d'un autel monumental qui aurait dominé l'entrée d'un temple.
+
+La matière est généralement désignée comme calcaire dans les notices de collection ; un autre catalogue d'exposition précise une roche boueuse calcaire durcie. La différence descriptive doit être signalée plutôt que résolue par une analyse pétrographique inventée. Elle peut avoir des conséquences sur l'étude de la provenance de la matière brute, qui ne doit pas être confondue avec le lieu de gravure.
+
+L'objet a été trouvé en fragments et a fait l'objet d'une restitution. Parler d'une « image continue » demande donc de distinguer les parties observées de celles déduites par raccord et analogie. La restauration rend le motif lisible sans en supprimer les degrés d'incertitude.
+
+### 7. Le brûle-parfum : nom de musée et fonction archéologique
+
+L'expression « encensoir » est une désignation typologique employée pour des objets de forme cylindrique ou tronconique dotés d'une dépression supérieure. Certaines pièces du Groupe A auraient servi au brûlage de substances odorantes ; toutefois, toutes celles découvertes en contexte funéraire ne présentent pas des traces certaines d'usage. Une catégorie de musée ne doit pas être transformée en preuve d'un geste précis dans chaque tombe [1, 3].
+
+Le brûle-parfum de Qustul possède une dépression au sommet et un décor latéral. La question de son emploi peut être envisagée à partir de traces de chauffe, de résidus, de coloration, d'usure et du contexte de dépôt. La forme ne permet pas, à elle seule, de nommer la plante brûlée, le dieu destinataire ou le responsable de la cérémonie.
+
+Le mot « encens » évoque des rituels plus tardifs, notamment l'Égypte historique, le Levant ou l'Arabie méridionale. L'analyse demeure légitime si l'on distingue clairement un mécanisme matériel — la combustion de substances aromatiques — de ses significations idéologiques. Il serait anachronique d'attribuer à L24 une formule d'encensement de temple tirée d'un papyrus pharaonique beaucoup plus tardif.
+
+### 8. Une frise de bateaux : la circulation et la puissance
+
+La frise du brûle-parfum est présentée par l'ISAC comme une procession de trois bateaux, dont l'un porte une figure couronnée, un autre un félin, et un autre un prisonnier lié à une scène de façade de palais [3]. La navigation constitue ici un motif central : les embarcations ne sont pas uniquement des moyens de transport, mais des lieux de représentation de personnages, d'animaux et de signes du pouvoir.
+
+Le Nil reliait les groupes ; les bateaux pouvaient transporter marchandises, personnes et emblèmes. La présence d'embarcations dans l'art prédynastique égyptien et nubien permet une comparaison stylistique et fonctionnelle. Elle ne prouve pas que la scène reproduise une fête déterminée, une expédition militaire unique ou une route funéraire vers l'au-delà.
+
+Il est tentant d'imaginer un cortège royal fluvial. La prudence impose de préciser que nous possédons une scène gravée, non le compte rendu d'une cérémonie effectivement observée. La chronologie de l'objet, le contexte funéraire et les motifs font de l'interprétation cérémonielle une hypothèse substantielle, non une transcription directe du rite.
+
+### 9. La couronne blanche : signe partageable et attribution discutée
+
+La figure assise de l'encensoir porte une haute coiffe généralement rapprochée de la couronne blanche de Haute-Égypte, que les égyptologues désignent plus tard par le terme conventionnel *hedjet*. La similitude iconographique est forte et constitue l'un des arguments de Williams. Cependant, une forme de couronne n'indique pas automatiquement un nom de roi ni la géographie de sa domination.
+
+L'identification « roi nubien » repose sur l'association de l'image avec un objet trouvé dans une tombe du Groupe A. Une autre hypothèse est qu'un objet ou un modèle importé ait figuré un dirigeant d'Égypte. Les possibilités de partage d'un vocabulaire visuel, d'imitation, de commande à un atelier extérieur ou de circulation de spécialistes doivent être discutées sans être posées comme certaines.
+
+L'usage d'une couronne dans l'art ne prouve pas un État centralisé. La fabrication de symboles de légitimité peut précéder des institutions territoriales développées. L'histoire de la royauté consiste précisément à examiner comment des signes deviennent les instruments de revendications politiques.
+
+### 10. Le faucon : image animale et formation d'un langage royal
+
+La frise comporte un motif de faucon que les notices de musée décrivent comme une figure divine, en comparaison avec l'iconographie royale égyptienne ultérieure [3]. Le faucon surmontant un nom royal dans le *serekh* devient un signe majeur de la souveraineté des premières dynasties. Il convient toutefois de distinguer le faucon de Qustul, le faucon emblématique de Hiérakonpolis et l'écriture royale pleinement attestée.
+
+Le nom d'Horus est bien connu de l'Égypte pharaonique, mais la relation exacte entre une figure aviaire ancienne et la théologie d'un dieu nommé ne peut être déduite seulement de sa silhouette. Des oiseaux figurent dans l'art de nombreuses sociétés pour des raisons très diverses. L'analyse d'un faucon de cérémonie suppose de vérifier sa position, son association avec la couronne et son éventuel rapport à une façade de palais.
+
+La comparaison peut montrer la constitution d'un lexique iconographique partagé entre Nubie et Haute-Égypte. Elle n'autorise pas à déclarer que le culte d'Horus serait né à Qustul ou qu'un animal sculpté représenterait déjà toute la doctrine royale de l'Ancien Empire.
+
+### 11. La rosette : décor, emblème ou signe ?
+
+Un motif en forme de rosette accompagne d'autres éléments de la frise [3]. Sa présence a été rapprochée de certaines représentations égyptiennes du pouvoir. Mais un motif récurrent peut posséder des fonctions différentes : élément végétal, signe distinctif, pure décoration, insigne de rang ou marque d'une entité divine.
+
+La méthode doit rechercher les occurrences contemporaines, leur support, leur orientation et leurs associations visuelles. Une rosette sur un objet importé ne possède pas automatiquement le sens d'une rosette sculptée plusieurs siècles plus tard sur un monument dynastique. L'iconologie sans stratigraphie produit des fausses continuités.
+
+La force probante d'un détail dépend de son insertion dans un ensemble. Sur l'encensoir, c'est la combinaison d'une figure coiffée, d'un faucon, de bateaux et d'un motif architectural qui rend l'interprétation de souveraineté particulièrement plausible.
+
+### 12. La façade de palais et le piège des identifications trop précises
+
+La façade architecturale représentée à Qustul possède des affinités avec le vocabulaire qui devient caractéristique des premiers *serekhs* royaux. La façade à niches constitue un motif d'architecture symbolique dont les usages dépassent une seule image. La lecture de Williams et les comparaisons de Graff, Eyckerman et Hendrickx situent cette figure dans le réseau des images du pouvoir et des bâtiments rituels [1, 9].
+
+Le motif n'est pas un plan d'édifice. On ne peut pas en tirer le nombre de pièces d'un palais nubien, la forme d'un sanctuaire enterré ni l'orientation d'une entrée. Dans les images antiques, la convention graphique sélectionne des caractéristiques identifiables sans garantir l'exactitude topographique.
+
+La reconnaissance d'une façade dans un relief n'est pas une preuve qu'un édifice identique a existé dans la tombe L24. La représentation d'une architecture et la découverte de son prototype sur le terrain sont deux catégories distinctes de preuves.
+
+### 13. Le prisonnier et l'exhibition de la domination
+
+Les catalogues interprètent l'une des figures de la frise comme un prisonnier lié, accompagné d'un gardien et associé à un motif de façade [3]. L'image montre ainsi une relation de pouvoir qui peut évoquer capture, contrôle ou victoire. Elle invite à discuter la violence politique au moment de la formation des signes royaux.
+
+Mais la gravure d'un prisonnier ne garantit pas l'existence d'une bataille précise. L'art peut représenter une victoire souhaitée, rituelle, répétée ou mythique. La distinction est importante lorsque l'on compare l'objet avec des palettes égyptiennes ultérieures où un roi terrasse ses ennemis.
+
+L'iconographie de la coercition contribue à rendre pensable une autorité dépassant l'échelle domestique, sans prouver que la tombe de Qustul contenait des captifs ou des victimes sacrifiées. Une scène de domination n'est pas une preuve ostéologique de mise à mort.
+
+### 14. Matière, atelier et circulation des objets
+
+La matière calcaire du brûle-parfum invite à étudier les sources géologiques et les ateliers. Les objets pouvaient voyager sous forme de matière première, de produits finis ou de modèles imités. Toute hypothèse de provenance doit distinguer ces possibilités.
+
+L'absence de gisement immédiatement voisin, si elle est démontrée pour la variété de pierre étudiée, peut indiquer un approvisionnement externe. Elle ne décide pas où la gravure a été exécutée. Une communauté nubienne pouvait commander à un artisan égyptien un objet servant ses propres pratiques, et inversement un objet offert à un dirigeant nubien pouvait être déjà décoré.
+
+Il faut donc éviter de confondre « fabrication égyptienne », « usage nubien » et « signification égyptienne ». Trois faits différents peuvent coexister sur un seul objet. Une histoire connectée de la vallée du Nil ne doit pas effacer l'initiative des acteurs de chaque région.
+
+### 15. Les céramiques peintes du Groupe A
+
+La production du Groupe A possède des caractéristiques propres, parmi lesquelles figurent des poteries peintes. Certaines tombes de Qustul ont livré des récipients de qualité et des contenants importés d'Égypte [1, 5]. Leur examen informe la chronologie relative, la différenciation des activités artisanales et les choix de biens déposés avec les morts.
+
+La variation des formes et décors permet parfois de discuter les chaînes opératoires. La technique de cuisson, le dégraissant, la surface et le traitement pictural témoignent de compétences qui ne se réduisent pas à des importations de prestige. Un vase local peut être choisi pour sa valeur sociale même lorsqu'il côtoie un récipient étranger plus coûteux.
+
+Le passage de « poterie de style A-Group » à « identité politique A-Group » exige une prudence anthropologique. Les styles circulent, se transmettent et se transforment. Une tombe particulièrement riche rassemble souvent plusieurs registres de biens, qui n'ont pas tous la même provenance.
+
+### 16. La parure et la composition du prestige
+
+Bracelets, perles, coquillages, ivoire et autres objets d'ornement participent à la distinction des tombes. Le catalogue de Williams identifie des ensembles complexes et des quantités importantes de petits éléments de parure [1]. Ces objets peuvent avoir été portés, offerts ou assemblés lors des funérailles ; la position dans une tombe et l'usure peuvent aider à distinguer les scénarios.
+
+Le nombre d'objets d'un assemblage ne doit pas être converti immédiatement en nombre de personnes dépendantes. Une grande quantité de perles peut appartenir à un seul costume, à plusieurs ensembles ou à un dépôt détaché d'un vêtement. Les relations entre le corps et ses parures dépendent d'une documentation fine parfois altérée par le pillage.
+
+La valeur sociale des matériaux ne correspond pas toujours à la rareté géologique. Un objet obtenu par don prestigieux, une pierre colorée ou un récipient fabriqué par un atelier reconnu peuvent accumuler des significations qui nous échappent.
+
+### 17. Relations économiques avec la Haute-Égypte
+
+Les produits égyptiens présents en Nubie et les matériaux méridionaux utilisés plus au nord témoignent de contacts intensifs. Les échanges peuvent porter sur des biens de luxe, des produits alimentaires, des matières premières et des savoir-faire. Les routes nilotiques ne sont pas de simples flux marchands abstraits : elles impliquent des intermédiaires, des relations de sécurité et la négociation d'accès à des espaces.
+
+La position de Qustul dans un corridor fluvial rend plausible une contribution des élites locales à la redistribution régionale. Toutefois, nous ne possédons pas les archives de comptes qui permettraient de calculer droits de passage, taxes et volumes de marchandises. L'expression de « royaume du commerce » doit rester un modèle, non un fait inscrit.
+
+Le débat sur l'origine des emblèmes royaux devrait être replacé dans ce réseau économique. Une image peut voyager avec un bien, un artisan, un mariage ou une délégation, sans que la communauté destinataire perde son autonomie politique.
+
+### 18. Conflits, identités et expansion régionale
+
+Henriette Hafsaas a réexaminé en 2023 des contextes de la Basse-Nubie antérieurs ou contemporains de la formation du Groupe A, en discutant des indices de violence interpersonnelle, de mobilité et de tensions entre populations de traditions Naqada et populations locales [7]. Son article propose un scénario de conflit et de formation d'identités distinctes à partir de cinq cimetières, de sépultures armées et de changements d'occupation.
+
+La portée de cette enquête est importante : l'interaction entre l'Égypte méridionale et la Basse-Nubie n'était probablement ni pacifique en toutes circonstances ni toujours définie par une supériorité politique unilatérale. Cependant, un scénario de violence au milieu du IVe millénaire ne démontre pas la cause de chaque transformation ultérieure de Qustul.
+
+Le mot « ethnie » doit être utilisé avec prudence lorsqu'il est appliqué à des groupes sans textes décrivant leur auto-identification. On peut étudier des frontières culturelles, des violences et des traditions matérielles sans décréter une identité raciale ni considérer que chaque groupe possédait un territoire national clos.
+
+### 19. Quel sens donner au terme Ta-Seti ?
+
+L'expression égyptienne *Ta-Seti*, souvent traduite « Terre de l'arc », désigne une région méridionale dans certaines sources historiques égyptiennes. Williams utilise le terme dans son interprétation de la royauté du cimetière L [1]. Or l'existence d'un nom égyptien ultérieur pour la région ne prouve pas que les personnes enterrées à Qustul se nommaient ainsi.
+
+Les caractères anciens et la chronologie des premières mentions doivent être établis séparément des traditions de traduction. Le rapprochement entre archers nubiens, reliefs de prisonniers et désignation d'une région est pertinent à titre comparatif, mais il ne crée pas une inscription de Qustul dont le contenu serait garanti.
+
+Une histoire philologique rigoureuse garde distincts les termes égyptiens attestés, les noms modernes de sites et les catégories archéologiques. Elle refuse de faire correspondre automatiquement un « Groupe A » moderne, un « royaume Ta-Seti » reconstruit et une identité autonome ancienne.
+
+### 20. Williams : la proposition d'une souveraineté nubienne
+
+Le mérite décisif de Bruce B. Williams fut de prendre au sérieux l'archéologie de Qustul et la sophistication des images de ses élites [1]. Son interprétation voit dans l'encensoir et les autres objets funéraires des signes d'une souveraineté capable de rivaliser avec les formations politiques de Haute-Égypte. Sa chronologie initiale rendait plausible, à ses yeux, une élaboration nubienne de certaines conventions royales.
+
+Il faut cependant distinguer sa documentation des conclusions historiques qu'il en a tirées. Le mobilier, les tombes et les images continuent d'exister même lorsqu'une hypothèse sur l'origine du pharaonat est révisée. Réfuter une antériorité absolue n'annule pas la richesse ni l'autonomie probable des élites du Groupe A.
+
+La publication de 1986 représente donc à la fois un corpus de sources et une intervention majeure dans une controverse. Son titre ne doit ni être censuré ni utilisé comme preuve indépendante de sa thèse. C'est le raisonnement qui doit être évalué.
+
+### 21. Les contre-arguments : Abydos, Hiérakonpolis et la datation relative
+
+Les travaux postérieurs sur la formation des pouvoirs de Haute-Égypte, notamment l'étude des tombes d'Abydos et des ensembles d'Hiérakonpolis, ont rendu plus complexe la proposition d'une origine exclusivement nubienne des emblèmes royaux. Les élites de Naqada ont leurs propres trajectoires de développement, avec des architectures funéraires, ateliers et répertoires figuratifs documentés [5–6].
+
+David Wengrow observe que l'hypothèse d'une origine nubienne de la royauté pharaonique défendue par Williams n'a pas remporté l'adhésion de la majorité des chercheurs [6]. Cela ne constitue pas en soi une réfutation d'objet ou de date, mais situe l'état de la controverse. L'examen doit reposer sur les synchronismes archéologiques et sur la possibilité que des signes soient partagés par des régions en contact.
+
+Le modèle d'une création égyptienne totalement autonome est lui aussi trop simple s'il ignore les contributions des zones méridionales, les mobilités et les échanges. Les preuves de circulation d'images ne permettent pas toujours d'identifier un inventeur unique.
+
+### 22. L'iconographie comme langage commun et non propriété nationale
+
+Les motifs de couronne, bateau, faucon, façade et prisonnier se retrouvent dans des répertoires différents de la fin du IVe millénaire. Leur combinaison peut indiquer un processus de codification du pouvoir à l'échelle de la vallée du Nil. L'idée de « langage partagé » n'implique pas nécessairement un royaume unique, une religion unifiée ou une administration commune.
+
+Une même forme peut revendiquer des prétentions concurrentes. Deux autorités peuvent adopter une couronne similaire pour affirmer des légitimités opposées. À l'inverse, une image déposée dans une tombe peut manifester une alliance ou un don diplomatique. L'objet ne précise pas lequel de ces rapports prédominait.
+
+Une histoire des signes politiques doit tenir compte des publics. Qui voyait l'encensoir avant son ensevelissement ? était-il montré pendant une cérémonie, gardé dans une maison, offert dans un contexte funéraire ou fabriqué spécifiquement pour la tombe ? Le contexte ne permet pas de décider l'ensemble de ces questions.
+
+### 23. La politique du feu et de la fumée
+
+Si l'objet a servi à brûler une substance, la combustion pouvait participer à une scène de présentation du pouvoir. La fumée rend visible un mouvement, signale une odeur, marque une durée et transforme une matière en émanation. Dans plusieurs traditions documentées plus tard, elle entre dans la communication entre humains et puissances invisibles.
+
+Mais les données de Qustul ne contiennent pas de formule votive décrivant cette transformation. Il serait abusif d'y introduire les rites de fumigation des temples égyptiens du Nouvel Empire, les encensements d'Arabie méridionale ou les pratiques de l'Inde védique comme s'ils étaient à l'origine de l'objet.
+
+La comparaison est méthodologiquement utile si elle examine des variables : support de combustion, type de dépôt, ventilation, visibilité, public, association avec des images du souverain. Les noms des dieux, la signification de l'odeur et la fréquence des cérémonies restent indéterminés.
+
+### 24. Anthropologie funéraire : le dépôt comme événement politique
+
+Une tombe de haut rang concentre des actions collectives. Les biens doivent être réunis, les espaces ouverts et fermés, les objets choisis et disposés, les matériaux préparés. La dépense funéraire transforme des ressources mobilisables dans le monde des vivants en un ensemble retiré de la circulation ordinaire.
+
+Cette conversion peut manifester la mémoire d'un lignage, une compétition entre groupes ou une affirmation d'autorité. Il est tentant de supposer que les objets luxueux de Qustul signalaient une hiérarchie politique ; cette hypothèse est compatible avec les données, mais la nature des institutions demeure difficile à reconstruire.
+
+On ne doit pas non plus présumer que toutes les cérémonies étaient publiques. Certaines opérations pouvaient être réservées à des proches ou à des spécialistes. La tombe est l'archive finale d'une série d'actions dont la plupart échappent à l'observation.
+
+### 25. Durkheim : le rite, la différenciation et l'autorité
+
+Émile Durkheim a montré comment les rites peuvent instituer des catégories sociales en séparant certains lieux, êtres et objets du cours ordinaire des activités. À Qustul, la ségrégation spatiale de tombes riches et la concentration de biens offrent un terrain pour poser des questions sur la fabrication collective du prestige.
+
+Cependant, la présence d'un investissement commun n'établit pas l'adhésion de tous les membres de la société à un pouvoir. Les charges imposées, les obligations et les inégalités peuvent également produire une architecture visible. L'analyse sociologique doit conserver la possibilité d'une domination exercée sur certains groupes.
+
+Le « sacré » est ici une catégorie de travail visant à décrire les formes de traitement matériel des morts et des objets. Il ne prouve pas l'existence d'un concept nubien équivalent au mot français.
+
+### 26. Vernant et Detienne : construire des problèmes comparables
+
+Jean-Pierre Vernant invite à étudier le pouvoir dans ses rapports avec le langage, la représentation et les institutions. Marcel Detienne propose une comparaison contrôlée des problèmes, plutôt qu'une identification de traditions par un motif superficiellement semblable. Pour Qustul, le problème pertinent serait : comment une autorité rend-elle visible sa place dans la communauté et comment le rituel funéraire contribue-t-il à cette visibilité ?
+
+La confrontation avec les processions de cités grecques, les symboles du roi mésopotamien et les images de conquête égyptiennes doit signaler les différences de sources. Pour les Grecs historiques, des textes décrivent parfois les fêtes ; pour la Mésopotamie, inscriptions et sceaux accompagnent des images ; pour Qustul, l'objet sculpté n'est pas accompagné de la description verbale de son usage.
+
+La comparaison enrichit les questions sans combler artificiellement les lacunes. Il ne faut pas transformer un bateau de Qustul en barque d'Osiris, en navire de Dionysos ou en véhicule d'un dieu hindou.
+
+### 27. Dumézil, l'Inde et l'Iran : les limites de l'analogie de souveraineté
+
+Georges Dumézil a étudié des configurations mythiques et institutionnelles dans des traditions indo-européennes en s'appuyant sur des rapports linguistiques et textuels. Ses distinctions entre souveraineté, guerre et fécondité peuvent nourrir une réflexion générale sur les composantes d'un pouvoir. Elles ne constituent pas une grille probante pour une société du Groupe A dont la langue n'est pas attestée dans les sources examinées.
+
+L'existence d'un motif de prisonnier, d'un bateau et de biens funéraires ne prouve pas trois « fonctions » organisées selon un modèle indo-européen. Les sources védiques ou avestiques sont d'autres types de textes, produits dans des milieux très différents et beaucoup plus tardifs par rapport à Qustul.
+
+Une comparaison responsable distingue analogie de problème et parenté historique. Il serait dépourvu de fondement de soutenir un lien généalogique entre royauté nubienne prédynastique et souveraineté indo-iranienne sur la seule présence de figures de pouvoir.
+
+### 28. Hegel et Nietzsche : qui devient visible dans l'histoire ?
+
+La philosophie hégélienne de l'histoire a souvent été lue dans des cadres qui hiérarchisent les civilisations selon l'apparition de l'État et de l'écriture. Le cimetière L est un contrepoint critique utile : la production d'un pouvoir visible, d'une mémoire monumentale et de formes de coercition peut être étudiée avant la conservation locale d'un appareil textuel comparable à celui de l'Égypte dynastique.
+
+La pensée de Nietzsche sur les usages monumentaux de l'histoire aide à interroger la manière dont un objet célèbre peut devenir l'emblème d'un grand récit. L'encensoir a pu être présenté tour à tour comme preuve de la première royauté nubienne, puis comme signe de l'imitation d'un pouvoir égyptien. Les deux récits peuvent instrumentaliser un même vestige.
+
+L'éthique savante consiste à reconnaître la valeur de l'objet sans lui imposer une mission identitaire. Les personnes enterrées à Qustul n'étaient pas des personnages écrivant à l'avance une querelle historiographique du XXIe siècle.
+
+### 29. Eliade et Girard : éviter une sacralisation automatique
+
+Mircea Eliade aurait invité à examiner la différence entre l'espace ordinaire et l'espace séparé des morts ; René Girard inciterait à questionner la place de la violence dans la légitimation. Mais les tombes du Groupe A n'offrent pas de récit de révélation ni de mythe de victime fondatrice permettant de vérifier directement ces modèles.
+
+La scène du prisonnier sur l'encensoir peut être associée à une représentation politique de la violence. Elle ne prouve aucun meurtre sacrificiel dans la tombe L24. Le détail relève de l'iconographie ; pour inférer une exécution, il faudrait des données humaines, des lésions et une chronologie des dépôts.
+
+Le comparatisme philosophique n'a de valeur que si le vestige peut résister aux catégories qu'on lui applique. Les limites documentaires ne sont pas un défaut à cacher ; elles font partie de la connaissance positive.
+
+### 30. Hiérakonpolis et Abydos : comparaison à double sens
+
+Hiérakonpolis, centre important de Haute-Égypte prédynastique, conserve des complexes funéraires d'élite à HK6 et d'autres indices de cérémonial. Abydos fournit des tombes royales et des enclos de la période de formation de l'État. Le cimetière L de Qustul appartient au même univers de contacts nilotiques, mais ne doit être confondu ni avec la nécropole d'Umm el-Qaab ni avec les tombes anciennes de HK6.
+
+Une comparaison utile porte sur l'évolution des architectures, les proportions des biens importés, la diversité des images, la localisation des sépultures autour des points de pouvoir et la succession des phases. Les différences chronologiques sont parfois d'un ou plusieurs siècles. Il serait facile et trompeur de les traiter comme des sites simultanés et statiques.
+
+L'étude de Hiérakonpolis sur les animaux sauvages enterrés montre que l'élite égyptienne construisait aussi des systèmes cérémoniels originaux. Les relations avec la Nubie doivent être examinées sans supposer une source culturelle unique.
+
+### 31. Le monde mésopotamien : des sceaux et des rois, mais aucune origine simple
+
+Au IVe millénaire, la Mésopotamie connaissait des transformations profondes de l'administration, des échanges et des images du pouvoir. Les sceaux-cylindres et certains thèmes figuratifs circulent dans de vastes réseaux. L'égyptologie a souvent interrogé les relations entre productions d'Uruk, de Suse et de Haute-Égypte.
+
+La présence d'une convention analogue ne démontre pas une chaîne directe « Sumer → Égypte → Nubie ». Plusieurs réseaux de circulation se chevauchent et l'adoption d'une technique peut être dissociée de celle d'une théologie. Les populations de la vallée du Nil peuvent emprunter, modifier, rejeter ou réinventer des motifs.
+
+La question des sceaux est mieux documentée que celle du sens religieux du brûle-parfum. Les comparaisons de scènes de procession et de domination doivent donc rester iconographiques et contextuelles.
+
+### 32. La Chine et l'Amérique ancienne : comparaison structurale sans diffusion
+
+Certains complexes funéraires de Chine ancienne ou des Amériques précolombiennes montrent des sépultures de haut rang, des objets de prestige et des représentations de pouvoir. Ces analogies peuvent aider à poser des questions sur la dépense funéraire et la production d'une mémoire de rang. Elles n'offrent aucune preuve de contact avec Qustul.
+
+Le piège serait de transformer la présence d'objets précieux dans des tombes lointaines en « loi » universelle de la royauté. Les objets peuvent avoir des fonctions variables selon les systèmes de parenté, les technologies, les croyances et la mise en scène du corps.
+
+Le comparatisme devrait formuler ses variables explicitement : degrés de différenciation funéraire, quantité de biens, accès aux matières rares, durée d'utilisation de la tombe, statut des images. À défaut, il produit seulement une collection d'exemples ressemblants.
+
+### 33. La question politique de l'historiographie : Nubie et Égypte sans exclusivité
+
+La vieille tendance à lire la Nubie comme le récepteur nécessaire de toutes les innovations égyptiennes a obscurci l'agence historique des populations méridionales. La valorisation du cimetière L a corrigé une partie de ce déséquilibre. Mais la correction n'exige pas de renverser une hiérarchie en imposant une origine nubienne exclusive de chaque convention royale.
+
+On peut soutenir fermement que les élites du Groupe A furent des acteurs sophistiqués des transformations de la vallée du Nil, sans affirmer que l'objet E24069 désigne le premier souverain de toute l'Égypte. Le programme de recherche est alors plus exigeant : identifier les modalités concrètes de coopération, de conflit, d'échange et de compétition.
+
+Le vocabulaire de « royaume » pour Qustul doit être présenté comme une hypothèse de niveau d'organisation. Son emploi ne doit ni essentialiser des groupes ni effacer l'incertitude sur l'étendue de leur pouvoir.
+
+### 34. Une archéologie de l'archive perdue : du site submergé à l'objet numérique
+
+Le lac Nasser a transformé les conditions d'accès à Qustul. La consultation dépend aujourd'hui des publications anciennes, des objets conservés et des photographies. Une restitution numérique ne répare pas la disparition des relations spatiales détruites, mais elle peut conserver et rendre consultables certains liens entre lieux, fiches de fouille et numéros d'inventaire.
+
+L'ISAC possède une documentation de l'encensoir E24069 et un modèle numérique tridimensionnel, publié par son musée avec une mention interdisant l'entraînement d'IA sur ce modèle [2, 10]. Une édition numérique scientifique doit respecter les licences et distinguer photographie, dessin de restitution, modèle de conservation et image hypothétique.
+
+Le site MYTHOS peut présenter la photo d'un objet sous licence adéquate ou proposer un lien vers le modèle officiel, mais il ne doit pas attribuer à une reconstitution une valeur de témoin archéologique. Les crédits, la datation, la provenance et les transformations modernes de l'objet doivent apparaître dans la légende.
+
+### 35. Tableau d'évaluation des propositions
+
+**Observation attestée :** le cimetière L a livré des tombes exceptionnellement riches du Groupe A ; l'encensoir E24069 provient de L24 ; son décor combine bateaux, figure couronnée, faucon, rosette, façade et prisonnier selon les descriptions institutionnelles ; l'objet est fragmentaire et restauré ; des biens témoignent de contacts avec l'Égypte.
+
+**Inférence archéologique plausible :** des élites régionales ont concentré des ressources importantes ; certains emblèmes de souveraineté étaient connus dans les deux régions ; les objets faisaient partie d'un programme de prestige et probablement de cérémonial ; des communautés nubiennes participaient activement aux transformations politiques nilotiques.
+
+**Hypothèses contestées :** antériorité de la couronne de Qustul sur toutes les représentations égyptiennes, lieu exact de fabrication de l'objet, identité ethnique du personnage représenté, ampleur territoriale du pouvoir, notion d'un « royaume Ta-Seti » contemporain du Groupe A.
+
+**Non démontré :** fondation nubienne certaine de la monarchie pharaonique égyptienne, théologie spécifique de l'encensoir, nom indigène d'un dieu à Qustul, sacrifice humain directement illustré par la scène du prisonnier, formule cultuelle prononcée dans L24.
+
+### 36. Programme de recherche
+
+Les travaux les plus prometteurs associeraient une relecture exhaustive des registres de tombes, une sériation céramique renouvelée, des analyses pétrographiques et géochimiques des matières, la conservation du dossier de restauration de l'encensoir et une comparaison iconographique tenant compte du caractère fragmentaire de la frise.
+
+L'examen des objets du Groupe A devrait distinguer objets de production locale, imports, objets modifiés et biens composites, tout en croisant la localisation des trouvailles et les dates. La recherche sur les contacts avec l'Égypte gagnerait à juxtaposer des scénarios concurrents plutôt qu'à chercher à prouver un seul sens de diffusion.
+
+Enfin, la réflexion sur la formation des pouvoirs devrait multiplier les critères indépendants : accumulation de biens, spécialisation artisanale, contrôle de ressources, violence organisée, hiérarchie des sépultures et éventuelles traces administratives. Aucun symbole isolé ne suffit à mesurer un État.
+
+### Conclusion générale
+
+Qustul n'est pas un simple prélude au récit national d'une civilisation voisine. Le cimetière L révèle des élites du Groupe A qui participèrent aux échanges de biens et de formes visuelles à un moment décisif de l'histoire nilotique. Leur richesse et les emblèmes de l'encensoir E24069 imposent de considérer des formes de pouvoir méridional avancées. Ils ne déterminent pas, à eux seuls, l'endroit où serait « née » la royauté pharaonique.
+
+L'interprétation de Williams conserve une valeur historique majeure : elle a déplacé le regard vers les documents nubiens. Les révisions postérieures invitent à penser une co-construction ou une circulation de langages symboliques sans prétendre résoudre toutes les questions d'antériorité. Le sacré est ici étudié dans les dispositifs de sépulture, les images de pouvoir et les transformations de matières, non comme un système théologique reconstitué sans texte.
+
+La connaissance la plus solide associe trois exigences : ne pas nier la souveraineté possible d'élites nubiennes, ne pas transformer une hypothèse controversée en certitude et conserver la spécificité de chaque vestige. Une histoire rigoureuse des origines du sacré se construit à cette intersection.
+
+### Sources primaires, corpus matériels et bibliographie critique
+
+**Corpus de terrain et notices institutionnelles**
+
+1. Bruce B. Williams, [*Excavations Between Abu Simbel and the Sudan Frontier, Part 1: The A-Group Royal Cemetery at Qustul, Cemetery L*](https://isac.uchicago.edu/publications/excavations-between-abu-simbel-and-sudan-frontier-part-1-group-royal-cemetery-qustul), *Oriental Institute Nubian Expedition* 3, Chicago, 1986, xxxviii + 388 p., 190 figures, 100 planches, 43 tableaux. Source de terrain principale : tombes, mobilier, épigraphie et sériation. DOI : [10.83354/x5xf-ek51](https://doi.org/10.83354/x5xf-ek51).
+2. Institute for the Study of Ancient Cultures, [Nubian Gallery](https://isac.uchicago.edu/nubian-gallery), fiche de collection : encensoir de Qustul, inventaire E24069, contexte de sauvetage de la Nubie.
+3. ISAC Museum, *100 Highlights of the Collections of the Oriental Institute Museum*, notice 83, « Qustul Incense Burner », identification des trois bateaux, de la figure couronnée, du prisonnier et des restaurations. [Présentation des collections](https://isac.uchicago.edu/nubian-gallery), étude à confronter aux planches de Williams.
+4. ISAC Digital Archives, [document photographique E24069](https://isac-idb.uchicago.edu/id/23f4490f-c445-4020-8b65-2faffe9ea396), photographie d'Anna R. Ressman ; documentation institutionnelle de l'objet conservé.
+5. Michinori Ohshiro, [« The Nubian A-Group and Qustul Incense Burner: A View of the Formation Period of Ancient Egypt »](https://doi.org/10.5356/jorient.43.103), *Bulletin of the Society for Near Eastern Studies in Japan*, vol. 43, 1 (2000), p. 103–118. Analyse des contacts entre Groupe A et Égypte autour de 3000 av. notre ère.
+
+**Études historiques et critiques**
+
+6. David Wengrow, *The Archaeology of Early Egypt: Social Transformations in North-East Africa, 10,000 to 2650 BC*, Cambridge University Press, Cambridge, 2006 ; Kathryn A. Bard, *An Introduction to the Archaeology of Ancient Egypt*, Blackwell, 2008 ; Toby A. H. Wilkinson, *Early Dynastic Egypt*, Routledge, 1999. Synthèses sur la formation de l'État, les phases Naqada et les relations avec la Nubie.
+7. Henriette Hafsaas, [« The Role of Warfare and Headhunting in Forming Ethnic Identity: Violent Clashes between A-Group and Naqada Peoples in Lower Nubia (mid-4th millennium BCE) »](https://doi.org/10.5070/D68061374), *Dotawo* 8 (2023). Étude interprétative de plusieurs cimetières : les scénarios de conflit restent discutables et ne doivent pas être assimilés à un fait unique couvrant tous les sites.
+8. Carolina Quintana, [« The Socio-Economical Character of the A-Group in Lower Nubia (c. 3700–2800 BCE) »](https://doi.org/10.62614/xa9cxr46), *Buried History* 48, p. 27–36, publication en ligne 2024 d'un volume portant une datation éditoriale antérieure. Modèles de semi-sédentarité et exploitation de niches écologiques.
+9. Gwenola Graff, Merel Eyckerman et Stan Hendrickx, « Architectural Elements in Predynastic Representations of Ritual Buildings », dans *Egypt at Its Origins 3*, éd. Renée F. Friedman et Peter N. Fiske, Leuven, Peeters, 2011 ; figures concernant l'encensoir de Qustul et les représentations architecturales. La lecture iconographique est une interprétation, non une inscription ancienne.
+10. ISAC Museum, [modèle 3D de l'encensoir E24069](https://sketchfab.com/3d-models/nubian-a-group-censer-e24069-0df73408a6fa469e80560cb9b72b5ad0), publication du musée en 2024 avec restauration moderne et restriction NoAI ; ressource de consultation, non fichier réutilisable sans autorisation.
+
+**Références conceptuelles employées comme outils, non comme sources de Qustul**
+
+11. Émile Durkheim, *Les Formes élémentaires de la vie religieuse*, Paris, 1912.
+12. Jean-Pierre Vernant, *Mythe et société en Grèce ancienne*, Paris, 1974 ; Marcel Detienne, *Comparer l'incomparable*, Paris, 2000 ; Georges Dumézil, *Mythe et épopée*, 3 volumes, 1968–1973.
+13. Mircea Eliade, *Le Sacré et le Profane*, 1957 ; René Girard, *La Violence et le Sacré*, 1972.
+14. Friedrich Nietzsche, *De l'utilité et de l'inconvénient de l'histoire pour la vie*, deuxième *Considération inactuelle*, 1874 ; G. W. F. Hegel, *Leçons sur la philosophie de l'histoire* et *Leçons sur l'esthétique*, éditions posthumes.
+
+### Planche iconographique recommandée : protocole de publication
+
+- **Objet E24069**, photographie de l'ISAC ou photographie CC0 de Daderot sur Wikimedia Commons : « Encensoir en matière calcaire, Groupe A, tombe L24, Qustul, vers 3200–3000 av. notre ère ; objet restauré ; dimensions environ 8,9 × 15,2 cm. »
+- **Frise des bateaux**, relevé publié par Williams (1986), selon licence et autorisation : « Scène gravée reconstituée sur plusieurs fragments ; couronne, faucon, rosette et prisonnier ; interprétation royaliste discutée. »
+- **Plan du cimetière L**, publication de terrain : « Groupes de tombes fouillées dans les années 1960 ; site aujourd'hui affecté par la mise en eau du lac Nasser. »
+- **Céramiques du Groupe A**, objets de provenance sûre : « Productions locales et importations, à distinguer par l'analyse technique. »
+- **Comparaison topographique**, carte non anachronique de la Basse-Nubie et des sites d'Abydos/Hiérakonpolis : « Réseau fluvial et non frontières nationales actuelles. »
+
+Aucune reconstitution de palais, d'encensement ou de couronnement ne doit être présentée comme un document photographique de Qustul. Les photographies et modèles officiels restent soumis à leurs droits et conditions d'emploi.

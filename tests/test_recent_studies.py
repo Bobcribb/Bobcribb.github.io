@@ -63,7 +63,7 @@ class RecentStudyTests(unittest.TestCase):
                 json.dumps({'markdown': '# Inédit\n' + 'x' * 5000}), encoding='utf-8')
             self.assertEqual(len(latest_verified(root, output)), 1)
 
-    def test_illustrated_cards_toc_repeated_build_and_no_overwriting(self):
+    def test_subject_filtered_cards_toc_repeated_build_and_no_overwriting(self):
         with TemporaryDirectory() as temp:
             root, output = self.make_fixture(temp)
             source = root / 'chapitres/tragedies/volume-ccxxx-triptoleme.md'
@@ -78,11 +78,10 @@ class RecentStudyTests(unittest.TestCase):
             doc = BeautifulSoup((output / 'index.html').read_text(encoding='utf-8'), 'html.parser')
             self.assertEqual(len(doc.select('#home-etudes-recentes .portal-card')), 1)
             self.assertEqual(len(doc.select('a[href="#home-etudes-recentes"]')), 1)
-            self.assertEqual(doc.select_one('#home-etudes-recentes img')['src'],
-                             '/media/2026/10/epidaure-theatre-antique-zde.jpg')
-            self.assertIn('Épidaure', doc.select_one('#home-etudes-recentes img')['alt'])
-            self.assertIn('ne représente pas nécessairement', 
-                          doc.select_one('.mythos-recent-caption').get_text())
+            # Une monographie de Triptolème ne doit plus recevoir la photo
+            # générique d'Épidaure sans lien documentaire avec son sujet.
+            self.assertIsNone(doc.select_one('#home-etudes-recentes img'))
+            self.assertFalse(doc.select('.mythos-recent-credits'))
             self.assertIn('Triptolème', doc.select_one('#home-etudes-recentes strong').get_text())
             self.assertIsNotNone(doc.select_one('#original'))
             self.assertEqual(before, source.read_bytes())
@@ -184,6 +183,39 @@ class RecentStudyTests(unittest.TestCase):
             self.assertEqual(len(nav[0].select('a')), len(
                 doc.select('#home-etudes-recentes a.portal-card')))
 
+
+    def test_two_h1_headings_use_scientific_title_before_numbered_section(self):
+        """La carte du volume 123 ne doit pas afficher « 1. Délimitation »."""
+        with TemporaryDirectory() as temp:
+            root, output = self.make_fixture(temp)
+            study = self.write_study(
+                root, output, 'comedies', 123,
+                'volume-123-menekrates', 'Ménècrate')
+            title = ('Ménècrate : Hermioneus, Manektōr et les osselets '
+                     '— le rire et la fortune')
+            study.write_text(
+                '# MYTHOS — Comédies grecques — Volume CXXIII (123)\n'
+                '# ' + title + '\n'
+                '## 1. [A] Délimitation du dossier : deux titres et un vers\n\n'
+                + ('Conserver le texte scientifique et les sources. ' * 150),
+                encoding='utf-8')
+            registry = root / 'editorial/numbering.json'
+            data = json.loads(registry.read_text(encoding='utf-8'))
+            data['collections']['comedies'] = {
+                'allocations': {'uuid-menekrates': {
+                    'number': 123, 'path': str(study.relative_to(root))}}}
+            registry.write_text(json.dumps(data), encoding='utf-8')
+            original = study.read_bytes()
+            item = next(x for x in latest_verified(root, output)
+                        if x['collection'] == 'Comédies grecques')
+            self.assertEqual(item['title'], title)
+            self.assertEqual(item['cote'], 'Volume CXXIII (123)')
+            install(root, output)
+            home = BeautifulSoup((output / 'index.html').read_text(
+                encoding='utf-8'), 'html.parser')
+            card = home.select_one('#etude-recente-comedies strong')
+            self.assertEqual(card.get_text(), title)
+            self.assertEqual(study.read_bytes(), original)
 
 
 if __name__ == '__main__':

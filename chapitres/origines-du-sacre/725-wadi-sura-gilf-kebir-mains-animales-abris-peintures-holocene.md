@@ -1,0 +1,295 @@
+# MYTHOS — Les Origines du sacré — Chapitre 725
+
+## Wadi Sura, Gilf Kebir : mains humaines, empreintes animales, « nageurs » et bêtes sans tête — archéologie du visible et hypothèses rituelles au Sahara égyptien
+
+*Volume DCCXXV — Monographie universitaire originale, 6 novembre 2026. Archéologie préhistorique ; iconographie rupestre ; paléoenvironnement ; morphométrie ; sciences de la conservation ; anthropologie comparée ; philosophie des images. Toute interprétation religieuse est distinguée de la preuve archéologique.*
+
+### Résumé et problématique
+
+Dans les abris rupestres de Wadi Sura, à l'extrémité occidentale du plateau du Gilf Kebir, les parois portent une accumulation extraordinaire de peintures, gravures et figures obtenues au pochoir. L'abri dit « Grotte des nageurs » (Wadi Sura I) est devenu célèbre dans la mémoire des explorations européennes ; celui surnommé « Grotte des bêtes » (Wadi Sura II) rassemble des milliers de figures, notamment des silhouettes humaines, des animaux indéterminés et des négatifs de mains. Les dénominations « nageurs » et « bêtes » appartiennent à l'histoire moderne du regard : elles décrivent approximativement des formes, non des espèces ou des actions définitivement reconnues.
+
+L'un des problèmes les plus importants surgit de treize très petites silhouettes pentadactyles longtemps attribuées à des mains de nourrissons. Une étude morphométrique de 2016 a établi que leurs proportions diffèrent notablement de mains humaines néonatales et proposent des empreintes de membres antérieurs d'animaux, probablement reptiles. Ce résultat transforme les questions possibles sur la réalisation des pochoirs sans offrir une traduction de leur signification.
+
+L'étude confronte systématiquement trois niveaux : matériel vérifiable (paroi, peinture, superposition, mesure, environnement) ; inférence archéologique (datation, technologie, choix d'images, relation aux lieux) ; hypothèse anthropologique ou religieuse (rite de passage, animal médiateur, récit, présence de puissances). Le passage d'un niveau à l'autre est justifié ou laissé ouvert, jamais présenté comme une certitude acquise.
+
+### 1. Localisation et configurations du plateau
+
+Le Gilf Kebir, dans le désert occidental égyptien, présente des falaises et plateaux de grès dont les abris ont été utilisés à différentes phases préhistoriques. Les dépôts d'érosion et les vallées sèches actuelles ne reflètent pas les conditions de vie du début et du milieu de l'Holocène. Des épisodes plus humides ont permis des occupations et circulations humaines dont les traces sont documentées par des structures, du matériel lithique, de la céramique et des archives environnementales.
+
+Le terme Wadi Sura désigne un secteur comprenant plusieurs lieux peints et gravés. Il serait erroné de juxtaposer tous leurs motifs comme s'ils avaient été réalisés au même instant. Wadi Sura I et Wadi Sura II sont séparés géographiquement et possèdent des histoires différentes de recherche, de conservation et d'inventaire. Le voisinage spatial invite à une comparaison, mais il ne démontre pas une identité de fonction ou une contemporanéité des panneaux.
+
+La géomorphologie du secteur doit toujours être restituée indépendamment des appellations spectaculaires. Les surfaces protégées de l'abri constituent des archives de fréquentation et de re-fréquentation ; leur morphologie a pu guider les gestes des peintres sans être automatiquement assimilable à un sanctuaire.
+
+### 2. Découvertes européennes et connaissance locale
+
+La « Grotte des nageurs » a été portée à l'attention internationale par László Almásy dans les années 1930. Ce repère appartient à l'histoire des explorations européennes, non à une « découverte » absolue effaçant les savoirs régionaux. Wadi Sura II fut repéré par Massimo et Jacopo Foggini en 2002, environ dix kilomètres à l'ouest de Wadi Sura I, puis examiné dans un programme multidisciplinaire.
+
+Les surnoms anglais *Cave of Swimmers* et *Cave of Beasts* ont diffusé des lectures des images auprès de visiteurs bien au-delà des chercheurs. Ils influencent les questions que l'on pose : l'un suggère spontanément une scène aquatique, l'autre des créatures mythologiques. La première obligation critique consiste à revenir à la forme des silhouettes et au contexte des superpositions.
+
+Rudolph Kuper a dirigé l'ouvrage collectif *Wadi Sura — The Cave of Beasts* (2013), *Africa Praehistorica* 26, dont les relevés photographiques et descriptions de panneaux constituent le dossier majeur. La publication distingue archéologie de paysage, chronologie, pigments, conservation et inventaire iconographique. Elle constitue une base scientifique contrôlable, non un recueil de légendes populaires.
+
+### 3. Une paroi surchargée : compter sans fabriquer une unité
+
+L'abri Wadi Sura II contient une surface principale peinte d'environ cent mètres carrés, avec de très nombreuses figures et superpositions. L'étude d'Honoré et collaborateurs (2016) rapporte plus de huit mille images selon les inventaires généraux ; les comptages partiels par panneaux dans l'ouvrage de 2013 peuvent suivre des conventions différentes. Les totaux dépendent de la définition d'une figure et de l'état de visibilité des traces.
+
+Compter un pochoir, un doigt, un animal partiellement conservé ou une silhouette réutilisée exige des règles descriptives communes. Une ligne superposée n'est pas nécessairement un personnage distinct ; inversement, deux couches semblables peuvent appartenir à des événements séparés. La paroi est un palimpseste : chaque nouvelle intervention modifie le sens possible des images précédentes, sans effacer entièrement leurs traces.
+
+Le concept d'« immense tableau cultuel » est prématuré. L'accumulation pourrait résulter d'événements collectifs réitérés, de passages individuels, d'apprentissages artistiques ou d'actes commémoratifs. Ces possibilités doivent être confrontées à la distribution des figures et aux phases matérielles plutôt que choisies par préférence philosophique.
+
+### 4. Grilles de relevé et documentaire tridimensionnel
+
+Le volume édité par Kuper repose sur des photographies de haute résolution et un système de restitution intégrant des acquisitions au scanner laser 3D. La paroi a été documentée en panneaux A à E, ce qui permet une comparaison plus précise des contours que les copies isolées ou les photographies obliques anciennes. Les méthodes numériques peuvent rétablir une vue orthogonale sans inventer un tracé.
+
+Une photographie rectifiée demeure une transformation calculée : il faut garder l'original, les métadonnées de prise de vue et les paramètres de projection. Les algorithmes d'amélioration des couleurs peuvent révéler des pigments effacés, mais aussi donner un poids excessif à des taches minérales. Un relevé sérieux enregistre les zones « non déterminables ».
+
+La conservation exige également un inventaire des fissures, dépôts salins, exfoliations, touches récentes et altérations liées à la visite. Les images diffusées dans MYTHOS devront séparer la photographie scientifique de tout dessin hypothétique et décrire leur niveau d'intervention numérique.
+
+### 5. Les « nageurs » : un verbe appliqué à une forme
+
+Plusieurs silhouettes humaines du secteur semblent étendues à l'horizontale, avec membres orientés comme dans une nage. La lecture a été favorisée par la mémoire d'un Sahara plus humide. Mais une position horizontale peut correspondre à une suspension, une chute, un transport, une scène narrative non comprise ou une convention graphique de mouvement.
+
+L'absence de dessin explicite d'une étendue d'eau empêche de certifier la nage. On ne peut davantage déduire l'existence d'une mer ou d'un vaste lac au pied de l'abri à partir de silhouettes. Les archives environnementales sont nécessaires pour reconstituer localement les points d'eau et la mobilité des groupes.
+
+Il convient ainsi de décrire « silhouettes humaines approximativement horizontales » au niveau primaire et « nageurs » comme nom d'usage. Cette distinction apparemment modeste empêche une circularité : conclure que l'Holocène était humide parce que les images montrent des nageurs, puis prouver que ce sont des nageurs parce que l'Holocène était humide.
+
+### 6. Les créatures dites « sans tête »
+
+Wadi Sura II comprend des quadrupèdes énigmatiques, parfois disproportionnés, fréquemment décrits comme « bêtes sans tête ». Certaines images associent de petits humains ou des postures particulières à ces grands corps. Leur statut zoologique demeure problématique : un élément manquant peut relever d'une convention, de l'effacement, d'une anomalie technique ou de l'imagination picturale.
+
+Le langage de « monstres » peut masquer la variété des formes. Les parallèles avec les lions, les bovins ou d'autres espèces doivent être testés motif par motif ; le recours à une liste de créatures mythiques étrangères ne constitue pas une identification. L'étude des superpositions et des associations d'échelle est préférable à toute supposition sur un panthéon.
+
+Une hypothèse possible est que certaines créatures fonctionnaient comme partenaires non humains de récits ou de rites. Une autre envisage une grammaire narrative propre à l'atelier des peintres. Le dossier ne contient aucun texte qui permette de décider. Dire que les images peuvent évoquer du non-ordinaire n'est pas identifier la divinité qu'elles représentent.
+
+### 7. Les pochoirs négatifs et la trace du corps
+
+Pour réaliser une empreinte négative, on peut placer une main, une patte ou un gabarit devant une paroi puis appliquer le pigment autour du contour. L'image conservée n'est pas directement l'organe, mais un espace protégé de la peinture. Elle témoigne d'un contact momentané entre opérateur, support et matière colorante.
+
+Cette technique invite à réfléchir à une forme particulière d'indexicalité : la trace peut avoir été produite par le membre lui-même, plutôt que par un dessin tracé librement. Il est toutefois indispensable d'étudier les bords de projection, les lacunes et les éventuels artefacts de remplissage avant de conclure à l'identité de l'organe.
+
+La densité des négatifs à Wadi Sura II témoigne d'une activité répétée. Mais l'emploi d'une technique corporelle ne prouve pas qu'elle était rituelle. Il peut relever d'une marque de passage, d'un apprentissage ou d'une pratique de groupe ; les valeurs accordées au geste sont entièrement à rechercher.
+
+### 8. Treize minuscules silhouettes pentadactyles
+
+L'étude de 2016 signale treize négatifs particulièrement petits, dont onze dans la partie gauche et deux plus à droite de la paroi, et mesure une longueur moyenne d'environ 45,3 millimètres de la base de la paume à l'extrémité du doigt médian. Leurs doigts, étroits et pointus, sont proportionnellement plus allongés que ceux de mains humaines ordinaires, même néonatales.
+
+Ces figures avaient été interprétées comme les mains de très jeunes enfants. Or la comparaison avec des mains d'enfants nés à terme et prématurés montre une différence de dimension et surtout de proportion. Les auteurs quantifient les biais de mesures possibles et n'estiment pas qu'ils suffisent à expliquer l'écart.
+
+Le résultat négatif est plus solide que l'identification positive : il met fortement en doute la catégorie « petites mains humaines », mais ne prouve pas, à lui seul, l'espèce précise du membre utilisé. Ce principe doit être conservé dans chaque légende scientifique de l'ensemble.
+
+### 9. La morphométrie comme changement de regard
+
+Emmanuelle Honoré, Thameur Rakza, Brigitte Senut, Philippe Deruelle et Emmanuelle Pouydebat ont publié en 2016 une étude anatomique des pochoirs. Leur méthode compare les silhouettes à des échantillons de mains humaines et explore des hypothèses alternatives : membre animal, pochoir artificiel ou transformation technique. Leur argument repose sur des rapports mesurables entre longueur des doigts, position du pouce et morphologie générale.
+
+Les auteurs jugent les petits négatifs plus compatibles avec des membres antérieurs d'animaux, probablement de reptiles, qu'avec des mains d'enfants. La patte d'un varan ou celle d'un crocodilien font partie des pistes discutées ; aucune détermination d'espèce ne doit être annoncée comme acquise.
+
+**Référence contrôlée :** Honoré, E., Rakza, T., Senut, B., Deruelle, P. et Pouydebat, E., « First identification of non-human stencil hands at Wadi Sūra II (Egypt): A morphometric study for new insights into rock art symbolism », *Journal of Archaeological Science: Reports*, 6 (2016), p. 242-247, https://doi.org/10.1016/j.jasrep.2016.02.014.
+
+### 10. Reptiles possibles, gestes non démontrés
+
+Si un artiste a utilisé la patte d'un animal comme pochoir, plusieurs scénarios techniques sont envisageables : maintien d'un membre vivant, utilisation d'un membre prélevé, d'une peau ou d'un objet fabriqué sur un modèle anatomique. Les images seules ne permettent pas de choisir entre ces scénarios, encore moins d'établir la capture ou le sacrifice d'un reptile.
+
+Le rôle éventuel de l'animal dans une représentation du monde demeure inconnu. On peut formuler l'hypothèse d'une mise en relation symbolique d'empreintes humaines et animales ; ce n'est pas une preuve d'animisme, de métamorphose ou de totem. Les catégories anthropologiques demandent des témoins de pratiques et de significations qu'une seule frise n'offre pas.
+
+La comparaison avec des pochoirs de pattes d'oiseaux en Australie ou en Amérique du Sud, discutée par les chercheurs, porte d'abord sur une **technique de reproduction**. Elle ne démontre aucune filiation des croyances ni l'universalité d'un même rituel.
+
+### 11. L'hypothèse de la participation des enfants
+
+Les mains négatives de tailles diverses peuvent inviter à supposer la présence de personnes d'âges différents. La petite taille d'une empreinte n'est toutefois pas un diagnostic automatique d'âge, surtout après l'étude de 2016. Déterminer un âge ou un sexe biologiques à partir des dimensions des mains exige des référentiels adaptés, une prise en compte de la technique et des incertitudes.
+
+Il faut également distinguer l'organe utilisé de l'opérateur ayant appliqué le pigment. Une empreinte de main d'enfant peut avoir été produite par un adulte qui manipulait le matériau, et inversement. Même en admettant la participation de jeunes enfants, le geste ne serait pas nécessairement une initiation.
+
+Le récit attrayant d'une « première cérémonie de naissance » ne possède ici aucun fondement direct. Il doit être présenté, au mieux, comme une spéculation à écarter des notices scientifiques.
+
+### 12. Contextes archéologiques : sortir de la paroi
+
+Les enquêtes autour de Wadi Sura ont étudié les abris, les sols d'occupation, la topographie et les ressources disponibles. Heiko Riemer et Franziska Bartz présentent l'archéologie du paysage ; Frank Darius examine l'environnement dans le volume de 2013. Ces chapitres sont essentiels pour replacer l'art dans des activités humaines documentées.
+
+Une image ne porte pas sa date inscrite sur elle-même. Les occupations voisines peuvent fournir une fourchette culturelle lorsque les relations entre matériel et paroi sont plausibles, mais elles n'imposent pas une contemporanéité absolue. Les accumulations de sable, couches de circulation et états d'accès à l'abri demandent une lecture critique.
+
+Les grands récits comparatifs doivent donc toujours mentionner la nature de la preuve chronologique : relation stratigraphique directe, datation d'un matériau associé, périodisation stylistique ou argument environnemental. Confondre ces niveaux produit de fausses certitudes.
+
+### 13. Chronologie relative et horizon holocène
+
+Les peintures de Wadi Sura II sont généralement replacées dans les séquences de l'Holocène ancien et moyen, et leur interprétation s'appuie notamment sur les études de Riemer et les propositions de Förster, Riemer et Kuper. Mais les auteurs discutent l'affiliation chronologique, et l'on ne dispose pas d'une date directe pour chaque image.
+
+L'article de Förster, Riemer et Kuper, « The ‘Cave of the Beasts’ (Gilf Kebir, SW Egypt) and its chronological and cultural affiliation: Approaches and preliminary results of the Wadi Sura project », dans *The Signs of Which Times?*, Bruxelles, 2012, p. 197-216, documente cette démarche. Le classement en « Gilf B » appartient à une séquence archéologique discutée, non à une appellation ethnique.
+
+La profondeur du temps suffit à interdire une identification spontanée avec les cultes pharaoniques plus récents. L'archéologie de la préhistoire égyptienne ne peut être lue comme la première page déjà déchiffrée de la théologie dynastique.
+
+### 14. Pigments, appareils et surfaces
+
+Les peintures sont des dépôts minéraux et/ou organiques dont la composition exige un examen analytique. Le volume de 2013 inclut un chapitre consacré aux peintures et pigments par Sabine Krause, Heiko Riemer et Hans Leisen. La couleur observée aujourd'hui peut différer de celle déposée lors de l'exécution : altérations, encroûtements, exfoliation et photographie changent l'apparence.
+
+L'emploi de souffle ou de projection est une hypothèse technique raisonnable pour les négatifs ; il doit néanmoins être documenté par des tests de reproduction et une observation des bords des silhouettes. Les figures tracées, remplies ou gravées relèvent d'opérations différentes et ne doivent pas être fondues dans une « peinture sacrée » unique.
+
+Le recours à des outils optiques doit préserver les clichés de référence. Une image retraitée peut être publiée pour favoriser la lecture, à condition de nommer le traitement et de ne pas faire passer un pixel amplifié pour une ligne antique certaine.
+
+### 15. Paléoenvironnements, mobilité et mémoire
+
+Les phases humides du Sahara ne sont ni simultanées partout ni uniformément favorables à une installation continue. Les archives régionales montrent alternances de disponibilité de l'eau, déplacements, périodes de végétation accrue et interruptions de fréquentation. Les communautés de Wadi Sura ont pu circuler sur un territoire plus vaste que les abris mêmes.
+
+L'hypothèse d'une peinture permettant de marquer un itinéraire, de commémorer un séjour ou de produire un rassemblement est historiquement ouverte. Elle doit être examinée avec les traces d'habitat, les dépôts et la distribution des sites. Il serait circulaire de baptiser chaque abri « temple du désert » puis de voir dans chaque trace de passage un pèlerinage.
+
+Une histoire des origines du sacré peut néanmoins prendre au sérieux l'idée qu'une paroi conserverait la mémoire d'une présence collective. Elle n'a pas besoin d'inventer une institution sacerdotale pour reconnaître la puissance sociale du geste graphique.
+
+### 16. Les superpositions comme histoire sociale possible
+
+Une image déposée sur une autre peut signifier réemploi, contestation, continuité ou simple saturation de la surface. Aucune de ces interprétations ne découle mécaniquement de la superposition, qui est d'abord une relation matérielle permettant d'établir une chronologie relative.
+
+Le relevé doit indiquer quel trait passe sur quel autre, si les pigments diffèrent et si la surface a été préparée entre deux épisodes. L'identification de groupes de figures contemporaines exige des critères techniques et spatiaux reproductibles. Les scènes qui paraissent narratives peuvent avoir été constituées sur des générations.
+
+Le modèle d'un récit mythologique peint en une seule séance est donc fragile, surtout dans un abri très abondant. Le travail de terrain exige des micro-histoires de parois plutôt qu'une mythologie générale des « nageurs ».
+
+### 17. Les formes humaines hors échelle
+
+Certaines figures anthropomorphes paraissent minuscules face à de grandes créatures. La différence d'échelle peut signaler une hiérarchie, une action de capture, un récit de rencontre ou une relation entre registres visuels. Elle peut aussi résulter de reprises de périodes différentes.
+
+Pour documenter une relation intentionnelle, il faut analyser orientation, gestes, distance, couleur, superpositions et répétition du même dispositif. Un corps placé à côté d'une bête ne suffit pas à démontrer l'existence d'une scène de sacrifice ni d'un dieu maître des animaux.
+
+La catégorie de « monstre » n'est pas neutre : elle tend à convertir l'indétermination zoologique en ontologie surnaturelle. Une description exigeante privilégie « quadrupède schématique à morphologie non identifiée » avant toute lecture cosmologique.
+
+### 18. Anthropologie de l'empreinte : présence et absence
+
+Une main négative représente un contour laissé vide par le retrait d'un organe. Cette forme est propice à une réflexion sur la présence absentée : le membre a probablement touché ou approché la paroi, puis s'en est éloigné, tandis que son contour demeure. Cette lecture phénoménologique est moderne ; elle ne peut être présentée comme la pensée propre aux auteurs préhistoriques.
+
+La technique pourrait néanmoins créer un rapport entre corps, lieu et mémoire différent d'un dessin figuratif. Elle est intéressante pour une anthropologie matérielle du geste répétable, partageable, potentiellement collectif. Les images négatives ne fournissent ni noms, ni serments, ni prières.
+
+Le concept de trace renvoie donc à une expérience possible, pas à une traduction religieuse. Le décalage entre identité anatomique et signification sociale est illustré de manière exemplaire par la réidentification des treize petites formes.
+
+### 19. Durkheim : rite collectif non démontré
+
+Émile Durkheim, dans *Les Formes élémentaires de la vie religieuse* (1912), met l'accent sur les classifications du sacré, les interdits et l'activité collective. Appliqué à Wadi Sura, son cadre suggère des questions sur les conditions de répétition des pochoirs : qui participe, qui transmet la technique, pourquoi revenir sur cette même paroi ?
+
+Mais le nombre d'images ne constitue pas une preuve d'assemblée simultanée ni d'« effervescence collective ». Une accumulation sur plusieurs générations peut produire la même densité apparente qu'une cérémonie de masse. Aucune règle de purification ou d'interdit n'est documentée pour les peintres.
+
+Durkheim fournit ainsi une problématique comparative sur l'institution des gestes ; il ne transforme pas une série d'empreintes en communauté religieuse attestée.
+
+### 20. Eliade et la sacralité présumée des abris
+
+Mircea Eliade, *Le Sacré et le Profane* (1957), a proposé la hiérophanie pour penser des lieux dans lesquels une présence exceptionnelle se manifesterait. Le caractère spectaculaire des falaises et abris du Gilf Kebir peut susciter cette comparaison.
+
+Toutefois l'esthétique des paysages ne prouve rien sur les catégories ontologiques des communautés holocènes. L'élection d'un support pouvait répondre à la protection contre le vent, à sa lisibilité, à la proximité d'un itinéraire ou à d'autres contraintes. Un lieu peut être remarquable sans être déclaré sacré.
+
+Employer Eliade comme grille exploratoire exige donc de laisser ouvertes des explications concurrentes et d'identifier les indices particuliers qui plaideraient pour une mise à part effective du lieu.
+
+### 21. Vernant et Detienne : des comparables sous contrôle
+
+Jean-Pierre Vernant a analysé dans les religions grecques la relation entre image, présence du divin et mise en scène des puissances. Les traditions grecques disposent toutefois de textes, d'inscriptions et de séries archéologiques permettant de discuter des images de cultes. Ces supports font défaut pour la paroi préhistorique de Wadi Sura.
+
+Marcel Detienne, *Comparer l'incomparable* (2000), invite à définir le niveau du rapprochement : mode de fabrication d'une image, traitement du corps, emplacement, circulation de motifs. Il serait abusif de lire une « épiphanie » au sens grec dans un quadrupède sans tête ou une main négative.
+
+La comparaison méthodologique permet de distinguer ce que deux cultures documentent réellement, non de produire un système de dieux universels à partir de ressemblances visuelles.
+
+### 22. Hegel, Nietzsche : ce que fait le regard moderne
+
+Les *Leçons sur l'esthétique* de Hegel proposent des rapports entre forme et signification qui peuvent guider des questions de philosophie de l'art. Elles ne justifient pas une classification des peintures préhistoriques comme expression « immature » destinée à être dépassée par l'art de l'État pharaonique. Ce progrès linéaire appartient à une philosophie historiquement située, non à la stratigraphie.
+
+Nietzsche, notamment dans sa deuxième *Considération inactuelle* (1874), rappelle les usages contemporains de l'histoire. L'imaginaire des « nageurs dans le désert » ou des « monstres oubliés » nourrit une fascination moderne et parfois une économie du tourisme. L'enjeu critique consiste à empêcher que cette fascination prenne la place des observations.
+
+Le rôle d'une encyclopédie universitaire n'est pas de supprimer toute interrogation philosophique ; il est de rendre visible à quel moment on quitte le document archéologique pour un concept formulé aujourd'hui.
+
+### 23. Girard et les limites du schème sacrificiel
+
+René Girard, *La Violence et le Sacré* (1972), a proposé une interprétation des mécanismes sacrificiels dans les sociétés humaines. Il serait cependant infondé d'assimiler des figures humaines proches d'un animal peint à une immolation, ou une empreinte de patte de reptile à la preuve qu'un animal fut tué.
+
+La fabrication d'un pochoir peut avoir nécessité la manipulation d'un corps animal, mais le geste matériel ne révèle ni la mort ni l'intention sacrificielle. Aucune séquence ostéologique indépendante n'établit une mise à mort dans l'abri. Le modèle girardien peut poser une question sur la place de la violence, pas fournir un témoignage.
+
+Une interprétation prudente tient compte des alternatives techniques et rituelles et recherche des ossements, traces de découpes ou dépôts stratifiés avant de parler de sacrifice.
+
+### 24. Dumézil, Iran et Inde : le refus d'une généalogie imaginaire
+
+Les catégories fonctionnelles du comparatisme indo-européen de Georges Dumézil demandent des traditions linguistiques et narratives connues. Aucun témoignage ne permet de relier directement Wadi Sura aux mythes grecs, iraniens ou védiques. Des images de corps, d'animaux et de mains ne suffisent pas à révéler les trois fonctions d'un système indo-européen.
+
+De même, les passages védiques sur le sacrifice, notamment le *Ṛgveda* X, 90, ou les traditions iraniennes sur la pureté offrent des contrepoints textuels riches, mais beaucoup plus tardifs et culturellement éloignés. Leur vocabulaire n'explique pas les pochoirs du Gilf Kebir.
+
+Une véritable analyse philologique commence par reconnaître ici l'absence de textes déchiffrables de la communauté : aucun nom de divinité ni formule rituelle ne peut être attribué aux figures peintes.
+
+### 25. Égypte dynastique : proximité géographique n'est pas continuité
+
+Le Gilf Kebir appartient aujourd'hui au territoire de l'Égypte, mais ses peintures préhistoriques ne sont pas des scènes pharaoniques. Des chercheurs ont exploré des parallèles possibles entre certaines images du désert et des développements iconographiques de la vallée du Nil. Ces analogies sont discutables au cas par cas et ne prouvent ni transmission directe ni identité théologique.
+
+Les sources égyptiennes dynastiques sont d'une nature documentaire différente : inscriptions, objets, plans de temples, représentations coordonnées à des textes. Les attributs de Rê, d'Hathor ou d'Osiris ne peuvent être imputés aux êtres de Wadi Sura sous prétexte de voisinage régional.
+
+Le contraste est intellectuellement fécond : il révèle l'écart entre une histoire de religions éclairée par la philologie et une archéologie de l'image principalement non verbale.
+
+### 26. Chine, Afrique australe et Amériques : techniques, pas cultes identiques
+
+Les pratiques de main négative se rencontrent dans plusieurs continents. Des exemples d'empreintes animales sont également documentés dans des traditions rupestres d'Australie et d'Argentine. Ces analogies peuvent enrichir l'étude technique de la fabrication des contours et de leur visibilité.
+
+Elles ne démontrent aucune route de diffusion universelle, aucun culte mondial de la main ni aucun « chamanisme » obligatoire de la préhistoire. Les images comparées peuvent appartenir à des sociétés séparées par des milliers d'années et des contextes culturels sans relation.
+
+Une comparaison contrôlée documente d'abord la nature du support, les pigments, le procédé, la répartition des motifs, leur datation et l'archéologie des abords. Les significations sociales ne peuvent être inférées que lorsque les sources le permettent.
+
+### 27. Reconstituer une séquence rituelle : conditions de possibilité
+
+Pour soutenir l'hypothèse d'une cérémonie à Wadi Sura II, il faudrait démontrer un ordre coordonné d'opérations : déplacement vers l'abri, préparation de pigments, création répétée de signes, éventuels dépôts associés, usage organisé d'espaces. Les registres photographiques et contextuels permettent de rechercher ces éléments, mais ils n'en fournissent pas tous la preuve.
+
+La continuité d'un style graphique ne présuppose ni un calendrier rituel ni une caste d'officiants. La présence de plusieurs tailles de mains ou de formes de pattes ne garantit pas la participation d'un groupe défini par âge ou sexe. Les hypothèses d'initiation, de protection ou d'alliance avec des animaux doivent rester explicitement conditionnelles.
+
+Le dossier est le plus probant lorsqu'il pose des questions testables : quels motifs sont superposés, où se répartissent les empreintes, quelles techniques se répètent, comment la géométrie du support contraint-elle les compositions ?
+
+### 28. Faits établis, controverses et hypothèses
+
+**Établi :** deux abris du secteur Wadi Sura constituent des ensembles distincts ; Wadi Sura II conserve une paroi très densément décorée ; des négatifs de mains et de petites formes pentadactyles y sont documentés ; une étude morphométrique publiée a comparé treize petits pochoirs à des mains néonatales ; des arguments anatomiques mettent en doute leur origine humaine ; un inventaire et des restitutions photographiques sont publiés.
+
+**Controversé ou partiellement contraint :** affiliation précise de chaque style dans l'Holocène ; espèce animale à l'origine des treize silhouettes ; organisation narrative des créatures sans tête ; significations des postures horizontales ; synchronisme des épisodes picturaux.
+
+**Non démontré :** culte d'un reptile particulier, sacrifices animaux associés aux négatifs, institution chamanique, initiation des nourrissons, religion des nageurs, divinités égyptiennes déjà identifiables, généalogie des images vers des mythologies classiques.
+
+Ces rubriques ne constituent pas des classements définitifs : elles exposent la hiérarchie actuelle de la preuve et les conditions de sa révision.
+
+### 29. Conservation et responsabilité éditoriale
+
+Le tourisme désertique, les contacts avec la paroi, la poussière, l'érosion et les prélèvements impropres mettent en péril l'intégrité des images. Le volume de 2013 traite distinctement la conservation et les effets des visites. Une publication numérique doit préserver la provenance du fichier, l'auteur, la date de la photographie et les éventuels traitements d'image.
+
+Le nom commercial de « grotte » n'autorise pas à reproduire librement les planches de la monographie scientifique. Le projet MYTHOS ne doit pas incorporer de figures sans examen de leur licence et des crédits. Le volume de 2013 possède une politique de diffusion spécifique ; les photographies individuelles restent à vérifier.
+
+L'iconographie à publier doit inclure au moins une vue contextualisée de l'abri, un plan de la paroi et une comparaison des petits pochoirs avec la figure d'étude, si les droits le permettent, clairement distinguée d'un dessin de restitution.
+
+### 30. Conclusion : la trace ne raconte pas à elle seule le rite
+
+Wadi Sura est un cas privilégié pour observer combien la description exacte d'une image peut modifier les récits du sacré. Treize petits pochoirs sont passés du registre presque spontané de la petite enfance à celui, scientifiquement mieux argumenté, de la possible empreinte animale. Aucun mythe inventé n'était nécessaire pour que ce déplacement ait une portée anthropologique considérable.
+
+L'histoire des images doit continuer à distinguer empreinte, association visuelle et signification. Une paroi peut avoir participé à des expériences religieuses ou collectives intenses ; notre ignorance de leurs mots, de leurs acteurs et de leurs gestes n'autorise pas à les compléter arbitrairement. L'étude des origines du sacré trouve ici sa force dans la coexistence d'une matérialité précise et d'une interrogation ouverte.
+
+### Sources primaires et corpus documentaire
+
+1. Abri Wadi Sura I, figures anthropomorphes dites « nageurs » : panneaux conservés et documentation topographique ; l'appellation ne détermine pas l'action représentée.
+2. Abri Wadi Sura II, grande paroi peinte : relevés des panneaux A à E, système de référencement et photographies rectifiées dans Kuper (dir.), *Wadi Sura — The Cave of Beasts* (2013).
+3. Treize petites silhouettes pentadactyles : relevés et mesures anatomiques, figures et tableaux de Honoré et al. (2016), *JAS: Reports*, 6, 242-247.
+4. Contextes d'occupation, paysages et chronologies : inventaires et tableaux des contributions de Riemer, Bartz, Darius, Krause et Förster dans l'ouvrage de 2013.
+
+### Bibliographie universitaire vérifiée
+
+- Kuper, Rudolph (dir.), avec F. Bartz, E. Büttner, F. Darius, F. Förster, L. Hermsdorf-Knauth, S. Krause, H. Leisen, H. Riemer, J. Seidel et A. Zboray, *Wadi Sura — The Cave of Beasts. A Rock Art Site in the Gilf Kebir (SW-Egypt)*, *Africa Praehistorica*, 26, Heinrich-Barth-Institut, Cologne, 2013, 545 p., ISBN 978-3-927688-40-7, DOI https://doi.org/10.18716/hbi/ap26.
+- Honoré, Emmanuelle ; Rakza, Thameur ; Senut, Brigitte ; Deruelle, Philippe ; Pouydebat, Emmanuelle, « First identification of non-human stencil hands at Wadi Sūra II (Egypt): A morphometric study for new insights into rock art symbolism », *Journal of Archaeological Science: Reports*, 6, 2016, p. 242-247, DOI https://doi.org/10.1016/j.jasrep.2016.02.014 ; dépôt Cambridge https://www.repository.cam.ac.uk/items/e1560c20-f352-43d8-b2e6-8e38bb035a00.
+- Förster, Frank ; Riemer, Heiko ; Kuper, Rudolph, « The ‘Cave of the Beasts’ (Gilf Kebir, SW Egypt) and its chronological and cultural affiliation: Approaches and preliminary results of the Wadi Sura project », dans D. Huyge, F. Van Noten, D. Swinne (dir.), *The Signs of Which Times? Chronological and Palaeoenvironmental Issues in the Rock Art of Northern Africa*, Bruxelles, 2012, p. 197-216.
+- Förster, Frank, « Figuring out: Computer-aided rock art recording and analysis », dans Kuper (dir.) 2013, chapitre de méthode.
+- Riemer, Heiko et Bartz, Franziska, « The archaeological survey: Landscape and context of Wadi Sura’s rock art », dans Kuper (dir.) 2013.
+- Riemer, Heiko, « Dating the rock art of Wadi Sura », dans Kuper (dir.) 2013.
+- Krause, Sabine ; Riemer, Heiko ; Leisen, Hans, « Paints and pigments in the rock art of Wadi Sura », dans Kuper (dir.) 2013.
+- Leisen, Hans et Krause, Sabine, « Conservation of rock art – A holistic approach », dans Kuper (dir.) 2013.
+- Institut français d'archéologie orientale (IFAO), *Bibliographie de l'Égypte des Origines*, notice BEO 15650 (Honoré et al., 2016), https://www.ifao.egnet.net/bases/beo/beo15650.
+- Durkheim, Émile, *Les Formes élémentaires de la vie religieuse*, 1912.
+- Eliade, Mircea, *Le Sacré et le Profane*, 1957.
+- Vernant, Jean-Pierre, *Mythe et société en Grèce ancienne*, 1974.
+- Detienne, Marcel, *Comparer l'incomparable*, 2000.
+- Girard, René, *La Violence et le Sacré*, 1972.
+- Nietzsche, Friedrich, *De l'utilité et de l'inconvénient de l'histoire pour la vie*, 1874.
+- Hegel, G. W. F., *Leçons sur l'esthétique*, édition posthume.
+- Dumézil, Georges, *Mythe et épopée*, 1968-1973.
+- *Ṛgveda*, X, 90 ; contrepoint philologique dépourvu de relation généalogique affirmée avec Wadi Sura.
+
+### Programme iconographique pour MYTHOS
+
+**A.** Carte du Gilf Kebir situant Wadi Sura I et II sans publier de coordonnées de détail susceptibles d'aggraver les dégradations ; base Kuper 2013.
+
+**B.** Paroi de Wadi Sura II, vue générale non retouchée et version annotée séparément ; identifiant du panneau, auteur de la photographie, licence et date obligatoires.
+
+**C.** Comparaison des treize petits négatifs : mesures reproduites sans modification de proportions et conclusion limitée à « interprétation humaine fortement contestée ; empreinte animale probablement reptilienne ».
+
+**D.** Tableau de datation : distinguer les observations stratigraphiques du mobilier de l'environnement et les datations ou affiliations relatives de l'art.
+
+**E.** Deux scènes dites « nageurs » et « bêtes », avec légendes au conditionnel et différenciation des figures réellement contemporaines des simples superpositions.
+
+Aucune photographie tierce n'est intégrée à la soumission en l'absence de contrôle spécifique des droits.

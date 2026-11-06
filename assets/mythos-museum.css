@@ -1730,6 +1730,196 @@ body.mythos-design .origins-archival-concordance li>a:focus-visible{
   body.mythos-design .origins-archival-image{max-height:220px}
 }
 
+
+/* MYTHOS — derniers manuscrits : pas de photo hors sujet.
+   Images exclusivement tirées du catalogue sourcé, avec crédits distincts. */
+body.mythos-design #home-etudes-recentes a.mythos-recent-unillustrated{
+  background:linear-gradient(145deg,#172224,#101819 75%)!important;
+  border-top:3px solid #c6a36f!important;
+  min-height:clamp(180px,19vw,255px);
+}
+body.mythos-design #home-etudes-recentes a.mythos-recent-unillustrated .portal-card-kicker{
+  color:#e8c487;
+}
+body.mythos-design #home-etudes-recentes .mythos-recent-credits{
+  margin-top:clamp(16px,2.4vw,28px);
+  padding:clamp(14px,2vw,24px);
+  color:#e9dcc8;
+  background:#111b1e;
+  border:1px solid #8e754f;
+  border-radius:7px;
+  overflow-wrap:anywhere;
+}
+body.mythos-design #home-etudes-recentes .mythos-recent-credits > summary{
+  display:flex;
+  align-items:center;
+  min-height:44px;
+  cursor:pointer;
+  color:#f0d29f;
+  font:600 15px/1.6 system-ui,sans-serif;
+}
+body.mythos-design #home-etudes-recentes .mythos-recent-credits > summary:focus-visible,
+body.mythos-design #home-etudes-recentes .mythos-recent-credits a:focus-visible{
+  outline:3px solid #f6d6a1;
+  outline-offset:3px;
+}
+body.mythos-design #home-etudes-recentes .mythos-recent-credits ol{
+  list-style:none;
+  display:grid;
+  grid-template-columns:repeat(2,minmax(0,1fr));
+  gap:14px;
+  padding:0;
+  margin:16px 0 0;
+}
+body.mythos-design #home-etudes-recentes .mythos-recent-credits li{
+  min-width:0;
+  border:1px solid #776243;
+  border-inline-start:3px solid #caa36b;
+  border-radius:5px;
+  padding:15px;
+  background:#172326;
+  font:14px/1.7 system-ui,sans-serif;
+}
+body.mythos-design #home-etudes-recentes .mythos-recent-credits li strong{
+  display:block;
+  margin-bottom:8px;
+  color:#f0d2a0;
+}
+body.mythos-design #home-etudes-recentes .mythos-recent-credits a{
+  color:#f0d39f;
+  text-decoration:underline;
+  text-underline-offset:2px;
+}
+@media(max-width:700px){
+  body.mythos-design #home-etudes-recentes .mythos-recent-credits ol{
+    grid-template-columns:minmax(0,1fr);
+  }
+  body.mythos-design #home-etudes-recentes a.mythos-recent-unillustrated{
+    min-height:170px;
+  }
+}
+@media print{
+  body.mythos-design #home-etudes-recentes .mythos-recent-credits ol{
+    display:block;
+  }
+  body.mythos-design #home-etudes-recentes .mythos-recent-credits li{
+    break-inside:avoid;
+  }
+}
+
+
+/* Les archives universitaires historiques relient désormais le lecteur au
+   manuscrit Markdown contrôlé. Deux cibles indépendantes, tactiles et lisibles. */
+body.mythos-design nav.origins-archival-return{
+  display:flex;
+  flex-wrap:wrap;
+  align-items:center;
+  justify-content:flex-start;
+  gap:clamp(8px,1.6vw,20px);
+}
+body.mythos-design nav.origins-archival-return>a{
+  display:inline-flex;
+  align-items:center;
+  min-height:44px;
+  padding:10px 12px;
+  border:1px solid #756244;
+  border-radius:4px;
+  background:#152124;
+  line-height:1.45;
+  text-underline-offset:3px;
+}
+body.mythos-design nav.origins-archival-return>a:hover,
+body.mythos-design nav.origins-archival-return>a:focus-visible{
+  background:#233438;
+  border-color:#e9c791;
+}
+body.mythos-design nav.origins-archival-return>a.origins-archival-source-link{
+  font-weight:500;
+  color:#f1d8ac;
+}
+@media(max-width:540px){
+  body.mythos-design nav.origins-archival-return{
+    margin:10px 3%;
+    flex-direction:column;
+    align-items:stretch;
+  }
+  body.mythos-design nav.origins-archival-return>a{
+    width:100%;
+    justify-content:center;
+    text-align:center;
+  }
+}
+@media print{body.mythos-design nav.origins-archival-return{display:none!important}}
+
+/* MYTHOS — archives des Origines du sacré : parcours linéaire des neuf lecteurs.
+   Les liens voisins ne remplacent ni les sources Markdown ni les sommaires. */
+body.mythos-design nav.origins-archival-return>a.origins-archival-adjacent{
+  box-sizing:border-box;
+  flex:1 1 245px;
+  max-width:100%;
+  font-weight:500;
+  color:#f0d3a0;
+  border-color:#92774c;
+  background:#1a2829;
+  overflow-wrap:anywhere;
+}
+body.mythos-design nav.origins-archival-return>a.origins-archival-adjacent:hover,
+body.mythos-design nav.origins-archival-return>a.origins-archival-adjacent:focus-visible{
+  outline:3px solid #f6d6a1;
+  outline-offset:2px;
+  color:#fff1d5;
+}
+@media(max-width:540px){
+  body.mythos-design nav.origins-archival-return>a.origins-archival-adjacent{
+    flex:0 0 auto;
+    min-width:0;
+    width:100%;
+    padding:12px 14px;
+  }
+}
+
+
+/* MYTHOS — lecteur Kalevala : sommaire long et mise en page responsive. */
+body.mythos-design .mythos-historical-world-study{max-width:min(100%,1060px);margin-inline:auto;min-width:0}
+body.mythos-design .mythos-historical-world-study .mythos-historical-notice{margin:1.3rem 0 1.5rem;padding:1rem 1.2rem;border-left:3px solid #c9a46a;background:#152022;color:#ede0cd;line-height:1.7}
+body.mythos-design .mythos-world-study-toc{margin:1.7rem 0 2.4rem;border:1px solid #a08559;border-radius:8px;background:#101a1b;color:#f0e4d0;padding:.8rem clamp(.9rem,2.2vw,1.5rem);max-width:100%;overflow-wrap:anywhere}
+body.mythos-design .mythos-world-study-toc summary{cursor:pointer;padding:.55rem 0;font:600 clamp(1rem,1.8vw,1.25rem)/1.5 Georgia,serif;color:#f1cf92;min-height:44px}
+body.mythos-design .mythos-world-study-toc ol{columns:2;column-gap:2.4rem;list-style:decimal;padding-left:1.35rem;margin:.7rem 0 1.2rem}
+body.mythos-design .mythos-world-study-toc li{break-inside:avoid;margin:0 0 .65rem;padding-inline-start:.15rem;line-height:1.5}
+body.mythos-design .mythos-world-study-toc li::marker{color:#d0ad75}
+body.mythos-design .mythos-world-study-toc a{color:#f0d2a0;text-decoration-thickness:1px;text-underline-offset:3px}
+body.mythos-design .mythos-world-study-toc a:hover{color:#fff3df}
+body.mythos-design .mythos-text-anchor{display:block;position:relative;scroll-margin-top:115px}
+body.mythos-design .mythos-original-study{min-width:0;overflow-wrap:anywhere}
+body.mythos-design .mythos-original-study h2{margin-top:2.35rem;padding-bottom:.4rem;border-bottom:1px solid #5e5547}
+body.mythos-design .mythos-original-study h3{margin-top:1.65rem}
+body.mythos-design .mythos-original-study a{overflow-wrap:anywhere}
+body.mythos-design .mythos-world-study-crosslinks{margin:2.4rem 0 0;padding:1.3rem;border:1px solid #695b46;border-radius:8px;background:#111b1c}
+body.mythos-design .mythos-world-study-crosslinks a{display:inline-block;margin:.35rem .4rem .35rem 0;padding:.3rem .15rem;min-height:44px}
+@media(max-width:720px){
+ body.mythos-design .mythos-historical-world-study{width:100%;padding-inline:clamp(.65rem,3vw,1rem)}
+ body.mythos-design .mythos-world-study-toc ol{columns:1;padding-left:1.45rem}
+ body.mythos-design .mythos-world-study-toc li{margin-bottom:.9rem}
+ body.mythos-design .mythos-original-study h2{font-size:clamp(1.45rem,6vw,2rem)}
+ body.mythos-design .mythos-original-study h3{font-size:clamp(1.25rem,5vw,1.7rem)}
+}
+
+/* MYTHOS — volume historique XIII : iconographie de réception, noir/or, mobile. */
+body.mythos-design .mythos-historical-world-study .mythos-sassoun-figure{width:min(100%,830px);margin:1.8rem auto 2rem;border:1px solid #947951;border-radius:8px;background:#121c1d;overflow:hidden}
+body.mythos-design .mythos-historical-world-study .mythos-sassoun-figure img{display:block;width:100%;height:auto;max-height:480px;object-fit:cover;object-position:center}
+body.mythos-design .mythos-historical-world-study .mythos-sassoun-figure figcaption{padding:.8rem 1.1rem;color:#e4d4b8;font:400 .94rem/1.65 Georgia,serif}
+body.mythos-design .mythos-historical-world-study .mythos-sassoun-figure figcaption a{color:#f0d19f}
+body.mythos-design .mythos-world-study-toc a{display:block;padding:.3rem 0;min-height:42px}
+body.mythos-design .mythos-world-study-toc a:focus-visible{outline:2px solid #e8c78e;outline-offset:3px}
+body.mythos-design .mythos-historical-world-study .mythos-text-anchor:target+h2,
+body.mythos-design .mythos-historical-world-study .mythos-text-anchor:target+h3{background:linear-gradient(90deg,#51412660,#131c1c00);border-left:3px solid #d9ba87;padding-left:.65rem}
+body.mythos-design .portal-card .mythos-photographic-credit{font-size:.78rem;color:#d7c8b0}
+@media(max-width:720px){
+ body.mythos-design .mythos-historical-world-study .mythos-sassoun-figure{margin:1rem 0 1.4rem;border-radius:4px}
+ body.mythos-design .mythos-historical-world-study .mythos-sassoun-figure img{max-height:340px}
+ body.mythos-design .mythos-historical-world-study .mythos-sassoun-figure figcaption{padding:.75rem;font-size:.85rem}
+}
+
 /* ODS : accès à l'édition historique intégrale I–XXVII, dans le même musée noir et or. */
 body.mythos-design .origins-archival-integral .origins-integral-grid{grid-template-columns:minmax(0,1fr);max-width:1050px}
 body.mythos-design .origins-archival-integral .origins-integral-link{display:grid!important;grid-template-columns:minmax(170px,31%) minmax(0,1fr);align-items:center;gap:clamp(14px,3vw,32px)}

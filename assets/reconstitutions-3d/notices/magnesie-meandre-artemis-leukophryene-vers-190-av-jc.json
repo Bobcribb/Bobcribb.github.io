@@ -1,0 +1,42 @@
+{
+  "id": "MAG-ART-001",
+  "slug": "magnesie-meandre-artemis-leukophryene-vers-190-av-jc",
+  "title": "Magnésie du Méandre (Ionie) — temple d’Artémis Leukophryéné, vers 190 av. J.-C.",
+  "period": "Évocation hellénistique du début du IIe siècle av. J.-C., vers 200–190 av. J.-C. ; datation de l’architecture et de son décor discutée dans la recherche. Le Louvre date des plaques de frise vers 200–190 av. J.-C.",
+  "caption": "Restitution numérique photoréaliste interprétative du grand temple ionique d’Artémis Leukophryéné à Magnésie du Méandre, avec péristyle pseudodiptère et évocation de l’iconographie des Amazones ; lumière, contexte urbain et élévations hypothétiques.",
+  "commentary": "Le sanctuaire d’Artémis Leukophryéné se trouve dans la ville grecque de Magnésie du Méandre (Magnesia ad Maeandrum), en Ionie d’Asie Mineure. Le grand temple ionique de plan pseudodiptère, traditionnellement attribué à l’architecte Hermogène, possède un unique rang de colonnes formant un péristyle d’ordinaire décrit comme comptant huit colonnes en façade et quinze sur les côtés, mais laissant entre le péristyle et le naos un passage beaucoup plus large que dans un périptère ordinaire. Vitruve discute la typologie du pseudodiptère et attribue à Hermogène le temple d’Artémis de Magnésie (De architectura III, 2). Le dossier de la cité est présenté par l’autorité locale de Germencik, qui retrace également les fouilles de l’Artémision et les transferts de fragments de sa frise vers des musées. Le musée du Louvre conserve des plaques de la frise d’Amazonomachie et en date des exemples du premier quart du IIe siècle av. J.-C., vers 200–190. La vue propose un temple achevé, sa colonnade ionique, une toiture en tuiles, une frise narrative et un autel sculpté au premier plan. La représentation précise de l’autel, de son décor et de sa place relative au temple, comme les figures du fronton, la hauteur des colonnes, la polychromie, les bâtiments voisins et les paysages, n’est pas prouvée par ces sources ; elle relève de la conjecture artistique. Les reliefs sont évoqués plutôt que reproduits à partir de relevés ou de moulages. Aucune institution citée n’a validé la géométrie ni le rendu. Le visuel ne constitue ni un relevé à l’échelle ni un modèle 3D archéométrique.",
+  "certainty": "Élevé : existence du sanctuaire de Magnésie du Méandre et du temple d’Artémis, ordonnance ionique et principe pseudodiptère, attribution traditionnelle à Hermogène, thème d’Amazonomachie des plaques de frise conservées au Louvre. Moyen : nombre de colonnes 8 × 15 donné par les reconstructions courantes, date précise de la phase représentée, disposition générale et gabarit de l’édifice, restitution globale des entablements et toitures. Faible : sculpture précise du fronton et de l’autel, décor de la frise tel qu’il apparaît sur l’image, détails de la coloration, tuiles, personnages, mobilier cultuel, voisinage bâti, végétation, topographie et lumière.",
+  "source_url": "https://www.germencik.gov.tr/magnesia",
+  "secondary_sources": [
+    "https://collections.louvre.fr/ark:/53355/cl010252280",
+    "https://collections.louvre.fr/ark:/53355/cl010252276"
+  ],
+  "src": "/assets/reconstitutions-3d/magnesie-meandre-artemis-leukophryene-vers-190-av-jc.webp",
+  "image": "/assets/reconstitutions-3d/magnesie-meandre-artemis-leukophryene-vers-190-av-jc.webp",
+  "width": 1672,
+  "height": 941,
+  "created_at": "2026-11-06",
+  "type": "reconstitution visuelle numérique photoréaliste interprétative à apparence 3D, non métrique",
+  "provenance": "Création originale générée pour MYTHOS ; aucune interface, menu ou légende intégrés aux pixels. Les sources archéologiques citées documentent le bâtiment mais ne valident pas le rendu.",
+  "sha256": "3e2f1fe51ef729cf88dc6e1b539b5d9fa40eefc26cb5196da36693e064d52855",
+  "scientific_notice": "/assets/reconstitutions-3d/notices/magnesie-meandre-artemis-leukophryene-vers-190-av-jc.json",
+  "scientific_sources": [
+    {
+      "label": "Kaymakamlık de Germencik — Magnesia ad Maeandrum, histoire des fouilles et Artemision",
+      "url": "https://www.germencik.gov.tr/magnesia"
+    },
+    {
+      "label": "Musée du Louvre — frise du temple d’Artémis, fragment d’Amazonomachie, daté 200–190 av. J.-C. (Ma 2881.35)",
+      "url": "https://collections.louvre.fr/ark:/53355/cl010252280"
+    },
+    {
+      "label": "Musée du Louvre — autre plaque de la frise d’Amazonomachie (Ma 2881.32)",
+      "url": "https://collections.louvre.fr/ark:/53355/cl010252276"
+    }
+  ],
+  "primary_texts": [
+    "Vitruve, De architectura, III, 2, 6 : temple pseudodiptère et Hermogène (référence ancienne à contrôler sur une édition critique)."
+  ],
+  "methodology": "Restitution artistique non métrique et non validée institutionnellement : hypothèses sur détails sculptés, coloris, toiture, figures, paysage et voisinage urbain. Ne pas utiliser l’image pour des mesures architecturales.",
+  "publication_status": "fichier_prepare_non_publie_deploiement_https_a_verifier"
+}

@@ -1,0 +1,446 @@
+# MYTHOS — Encyclopédie des tragédies grecques — Volume CCLXI (261)
+
+## Achéos d'Érétrie, *Les Épreuves* ou *Les Concours* — Ἄθλα / Ἄθλοι : compétition, corps athlétique, satire de la victoire, luxe et économie des récompenses
+
+**Monographie universitaire intégrale — tragédie fragmentaire et drame satyrique possible ; philologie et histoire de la transmission ; anthropologie des concours ; corps et éducation dans la cité ; réception philosophique ; iconographie de la palestre.**
+
+**Identification critique.** Achéos d'Érétrie (Ἀχαιός ὁ Ἐρετριεύς), *Ἄθλα* (variante de titre : *Ἄθλοι*), troisième œuvre dans l'inventaire de **FragTrag.1, Achaeus I**, entre *Ἀζάνες* et *Αἴθων Σατυρικός*. Les unités associées sont **FragTrag fr. 3, fr. 4 et fr. 5**, respectivement rapprochées des références **TrGF I, 20 F 3, 20 F *4 et 20 F 5**. L'astérisque de **F *4** n'est pas décoratif : il indique une attribution philologique non assurée, à maintenir distincte du témoignage explicite. Nauck, *Tragicorum Graecorum Fragmenta*, seconde édition, Leipzig, Teubner, 1889, **p. 746–747**, présente le dossier *Athla*.
+
+**Classification de genre :** incertaine. La concordance de FragTrag.1 donne le titre *Ἄθλα (vel Ἄθλοι)* ; la colonne de référence ancienne note **<Σάτυροι?>**, hypothèse selon laquelle la pièce pourrait être satyrique. Cette mention interrogative ne constitue ni un sous-titre original certain ni la preuve que le chœur était composé de satyres. **La présente étude comprend donc le drame dans l'encyclopédie des tragédiens grecs sans affirmer qu'il s'agit nécessairement d'une tragédie au sens strict.**
+
+**Déclaration de méthode.** Le texte de la pièce est perdu, sauf les citations indirectes et leur appareil. On ne connaît ni sa distribution, ni son chœur, ni ses actes, ni son action générale, ni sa première représentation, ni son classement sûr dans une tétralogie. Les passages présentés en français sont des **paraphrases explicatives de témoins consultés en traduction**, non des traductions inédites du grec collationné. Aucun vers grec, prologue, dialogue supplémentaire ou dénouement n'a été inventé.
+
+---
+
+### Résumé scientifique
+
+Un dramaturge grec intitule une œuvre *Ἄθλα*, ou peut-être *Ἄθλοι*. Un auteur beaucoup plus tardif, Athénée, préserve quelques vers associés à ce dossier ou rapprochés de lui. Ils parlent d'athlètes, de leur appétit, d'une interlocution plaisante sur les Béotiens, de corps jeunes huilés et d'objets recherchés, parmi lesquels des parfums égyptiens. À première vue, le matériau semble fort éloigné de la violence dynastique d'une tragédie d'Œdipe ou de Thyeste : la compétition paraît appeler l'éloge, le concours, l'échange de prix, la fête ou le grotesque. Pourtant ce contraste ne résout pas la question du genre. Dans la cité grecque, le concours est une scène de hiérarchie publique, le corps est un enjeu d'éducation, les vainqueurs reçoivent prestige et récompenses, et les satyres peuvent tourner en dérision l'affirmation héroïque.
+
+La conservation chez Athénée rend le dossier particulièrement intéressant parce que les citations sont **sélectionnées pour les besoins d'un discours érudit sur les repas, les athlètes et les parfums**. Le contexte qui nous éclaire est celui du réemploi tardif, non celui de la représentation du Ve siècle avant notre ère. Les emprunts de l'anthologie ne sont donc ni un résumé ni un échantillon représentatif de la pièce. L'objectif de la monographie est de reconstituer la chaîne de transmission, de distinguer titre, fragments et hypothèses, puis d'interroger les relations entre **ἆθλον** (prix), **ἆθλος** (effort, lutte ou concours), **ἀγών** (compétition, assemblée agonistique), le corps des compétiteurs, la valeur civique et les modèles de virtuosité. Les lectures de Xénophane, Euripide, Platon, Aristote, Hegel et Nietzsche sont mobilisées sans être imputées à Achéos.
+
+### 1. Continuité éditoriale : le troisième titre d'un dossier d'auteur
+
+Le présent dossier suit la séquence bibliographique contrôlée de FragTrag.1 : **1. *Adraste* ; 2. *Les Azanes* ; 3. *Les Épreuves* / *Les Concours*.** Les deux premières monographies de la série ont déjà leurs propres demandes éditoriales et des attributions confirmées sur GitHub ; elles ne doivent être ni dupliquées ni réécrites sous une autre identité. Les numéros de leurs volumes sont ceux qu'indique le registre réel, non ceux d'un ancien sommaire. Le nouveau numéro de ce manuscrit reste intentionnellement sous les variables **CCLXI** et **261**.
+
+Le classement de FragTrag est un ordre savant des dossiers : il ne démontre pas que les pièces furent composées ou représentées dans cet ordre. Une progression encyclopédique fidèle signifie « ne laisser aucune œuvre hors du catalogue », non « inventer la chronologie que les sources refusent ». Ce principe est d'autant plus nécessaire ici que le genre même de la pièce est incertain. La prochaine œuvre cataloguée après *Ἄθλα* porte un intitulé explicitement satyrique, *Αἴθων Σατυρικός* ; ce constat concerne le catalogue et ne réserve aucun volume futur.
+
+### 2. Pourquoi le titre importe davantage que ne le laisse croire sa brièveté
+
+Une désignation telle que « Les Concours » n'identifie pas d'emblée un protagoniste héroïque. Le titre peut viser l'activité agonistique, les luttes subies, les récompenses ou l'événement communautaire qui les accompagne. Là où un nom comme *Adraste* suggère un référent mythique, **Ἄθλα / Ἄθλοι** oriente vers un champ de pratiques et d'évaluations. Dans les traditions de concours, l'acte de lutter peut être inséparable du prix ; dans les récits de héros, l'effort peut faire apparaître une valeur morale, un statut social, un rapport à la souffrance.
+
+La traduction française doit garder cette polysémie. « Les Travaux » suggérerait fortement Héraclès, sans justification directe ; « Les Jeux » insisterait sur le festival ; « Les Épreuves » souligne l'effort et la mise à l'essai ; « Les Prix » insiste sur l'objet distribué. Nous choisissons un double titre de lecture, *Les Épreuves* ou *Les Concours*, tout en conservant le grec dans l'en-tête et dans les références. Aucune traduction n'épuise l'ouverture du titre.
+
+### 3. Le genre : une question à laquelle le répertoire ne donne pas de réponse univoque
+
+Un grand nombre d'inventaires généraux énumèrent *Athla* au nombre des tragédies d'Achéos, tandis que d'autres travaux parlent d'un **drame satyrique possible**. FragTrag rend visible cette hésitation par la mention ancienne **<Σάτυροι?>** et par la présentation du titre sans l'étiquette explicite *Σατυρικός*, qui figure pourtant pour *Aithon*. Il est donc incorrect d'affirmer à la fois que le genre est définitivement tragique et qu'une mention certaine de satyres serait conservée dans le titre.
+
+Le sujet athlétique et le ton de certains passages conviendraient à un traitement satyrique. Ils ne sont pas des preuves de la composition du chœur. Le comique peut apparaître dans la tragédie, le pathétique dans le satyrique, et le fragment transmis isolément n'indique pas la disposition générale de la pièce. La méthode exige de conserver trois niveaux : **étiquette encyclopédique « théâtre des tragédiens »**, **possibilité « satyrique »**, **absence de certitude sur le genre de la création ancienne**.
+
+### 4. L'auteur et les conditions de circulation
+
+Achéos d'Érétrie est un poète du Ve siècle avant notre ère appartenant à la génération de Sophocle et d'Euripide. Les informations biographiques, conservées par des notices anciennes notamment la Souda, demeurent discontinues : les nombres de pièces attribuées sont discordants, et les évaluations de sa réputation accordent une place importante au drame satyrique. On sait qu'il n'est pas l'un des trois auteurs dont des pièces complètes occupent le centre du canon scolaire.
+
+La disparition de la plupart de son œuvre ne doit pas être interprétée comme une médiocrité démontrée. La transmission dépend de catalogues, de commentaires, de sélections d'écoles, de compilateurs et de leur curiosité lexicale. Achéos pouvait être bien connu dans la culture savante antique alors qu'il n'est plus aujourd'hui lisible autrement qu'en fragments. L'histoire du canon et celle des premières représentations sont deux problèmes différents.
+
+### 5. Les éditions critiques : un système à niveaux
+
+Les principales coordonnées vérifiées sont **Nauck 1889, p. 746–747**, **TrGF I, auteur 20, F 3, F *4, F 5**, et **FragTrag.1, Achaeus I, troisième titre, fr. 3, fr. 4, fr. 5**. L'édition numérique FragTrag ne doit pas être ramenée à un simple catalogue de noms : ses tables concordent séparément avec la tradition éditoriale de Snell et recensent modifications de classement, attributions et témoignages rapportés.
+
+Les références du *TrGF* ne sont pas des numéros de vers de la pièce. Le chiffre 20 renvoie au dossier de l'auteur ; F désigne un fragment ; l'astérisque marque un problème critique ; « 10.417f », « 10.414c » ou « 15.689b » désignent au contraire des passages d'Athénée suivant la pagination traditionnelle. Un volume MYTHOS reçoit enfin un numéro par transaction GitHub, sans modifier ces adresses savantes. La confusion entre les trois couches produirait une fausse précision.
+
+### 6. Où se trouvent les fragments ? Athénée, et non un manuscrit dramatique conservé
+
+Les trois unités principales apparaissent indirectement dans les *Deipnosophistes* d'**Athénée de Naucratis**, ouvrage d'érudition impériale dont la conversation gastronomique convoque quantité de poètes perdus. L'index spécialisé de S. Douglas Olson, dans **Digital Athenaeus**, donne **20 F 3 : 10.417f–418a** ; **20 F *4 : 10.414c–d** ; **20 F 5 : 15.689b**. Ces localisations ont été contrôlées indépendamment de la numérotation du catalogue FragTrag.
+
+Nous ne pouvons pas convertir la succession des pages d'Athénée en succession de scènes d'Achéos. Le compilateur cite à 414c un tableau de sportifs au cours d'une discussion sur les athlètes, à 417f une plaisanterie dans une discussion sur l'appétit des Béotiens, et à 689b des parfums au milieu d'un inventaire de substances odorantes. Ces rapprochements sont des résultats de **choix d'anthologiste**, qui peuvent déplacer les vers de leurs intentions dramatiques initiales.
+
+### 7. Le dossier F 3 : un échange sur la qualité des interlocuteurs
+
+À **Athénée, *Deipnosophistes* 10.417f–418a**, un échange cité sous le nom d'Achéos oppose une question sur l'identité des destinataires — **théores ou compétiteurs ?** — à une réponse concernant de grands mangeurs, puis à une origine **béotienne**. Dans la traduction anglaise ancienne de l'édition Loeb consultable sur LacusCurtius, le passage fonctionne comme une petite plaisanterie reposant sur la réputation alimentaire attribuée aux Béotiens. Il n'est pas besoin de créer ici un dialogue supplémentaire pour saisir ce mécanisme.
+
+Cette structure est précieuse : l'interlocuteur oppose deux catégories liées à une festivité — les théores, participants ou envoyés sacrés, et les agonistes, compétiteurs —, puis le second brouille l'alternative par une définition fondée sur l'appétit et l'origine régionale. Mais **nous ne savons pas qui parle**, si les rôles étaient individuels ou choraux, si les personnages étaient satyres, ni pourquoi les deux groupes étaient ainsi opposés. Une citation n'est pas une liste de personnages.
+
+### 8. La place du calembour social
+
+Le ressort du fragment semble moins être une connaissance technique du sport qu'une critique d'habitudes alimentaires attribuées à un groupe. Le texte d'Athénée fait de la Béotie un objet de clichés sur la nourriture et l'abondance ; le passage intervient dans une série d'allusions comparables et fonctionne comme preuve littéraire d'une représentation collective. Le témoin est donc double : il rapporte une expression d'Achéos et nous informe sur la manière dont **Athénée** organisait sa collection de plaisanteries et de préjugés.
+
+L'historien doit refuser de transformer ce trait littéraire en description anthropométrique des Béotiens. Le cliché régional peut avoir une valeur comique, polémique ou comparative. La présence d'un ethnonyme ne suffit pas à localiser toute la pièce en Béotie, pas plus qu'une référence aux athlètes n'impose une scène aux Jeux olympiques. Les catégories sont en interaction dans un mot d'esprit, non nécessairement dans une intrigue géographique détaillée.
+
+### 9. Théores et agonistes : deux façons d'assister à une fête
+
+Le mot relatif aux **théores** évoque dans le monde grec l'activité des représentants envoyés à des fêtes et sanctuaires, la fréquentation religieuse d'un rassemblement et la visibilité inter-civique d'un festival. L'**agoniste** participe à une compétition dont les règles permettent d'identifier le vainqueur. Les deux catégories peuvent se croiser dans un même complexe rituel, sans être identiques ni interchangeables.
+
+Le fragment ne livre pas la règle exacte du concours ni l'identité d'un organisateur. Son opposition peut cependant être analysée comme une façon de mettre à l'épreuve les distinctions sociales : se montrer à la fête est-il exercer un service sacré, conquérir une récompense, manger aux dépens d'autrui, ou combiner plusieurs fonctions ? Le propos critique est ici une interrogation de sociologie historique ; il ne s'agit pas d'une intention morale directement attestée d'Achéos.
+
+### 10. Une épreuve de gourmandise ? Limite de l'inférence
+
+La réponse sur les mangeurs rend possible l'idée d'une compétition grotesque d'appétit. Les *Deipnosophistes* connaissent ailleurs des concours de voracité, et leurs chapitres multiplient récits de gloutonnerie héroïque et anecdotes sur les sportifs. Pourtant **le fragment F 3 ne prouve pas que les *Athla* d'Achéos mettaient en scène une compétition pour manger le plus**. Les termes du passage pouvaient être un trait incident, une réponse de serviteur, un brocard entre voyageurs ou tout autre effet de langage.
+
+On peut donc étudier la **possibilité** d'une dérision satyrique des concours sans inventer les exercices, les juges ni le prix. Toute « reconstitution » qui ferait d'Héraclès ou de Silène un vainqueur de banquet serait une création moderne, non un savoir sur la pièce.
+
+### 11. Le dossier F *4 : portrait du corps compétitif
+
+À **Athénée 10.414c–d**, un passage d'Achéos décrit, dans une traduction de C. D. Yonge, des hommes jeunes dont les corps brillent, les épaules sont fortes et les membres largement enduits d'huile ; le mouvement des bras et la plénitude physique composent un portrait de la culture athlétique. Le texte n'est pas une preuve que les spectateurs voyaient réellement une démonstration de palestre : le fragment peut être raconté, décrit par un observateur ou chanté. C'est le statut dramaturgique du texte qui nous manque.
+
+Dans la concordance **TrGF 20 F *4**, l'astérisque doit être conservé : le rattachement précis de ce passage aux *Athla* fait intervenir un jugement éditorial. Il serait trompeur de le citer sans précaution comme une scène incontestée de la pièce. Le dossier permet de discuter les **images poétiques de l'entraînement**, sous réserve que l'attribution à cette œuvre reste plausible mais non pleinement assurée.
+
+### 12. Corps huilés : soin, exposition et ambiguïté
+
+L'huile corporelle dans le contexte des exercices grecs n'est pas un simple cosmétique au sens moderne. Elle accompagne la préparation et la toilette des athlètes, marque un rapport aux gestes corporels et se rattache aux objets de la palestre. Le fragment F *4 propose, au moins dans la traduction consultée, une accumulation d'attributs physiques : jeunesse, éclat, vigueur et soin donné au corps. La description peut être admirative, ironique ou ambivalente ; l'extrait isolé ne permet pas de décider de la tonalité.
+
+Si le passage appartenait à une œuvre satyrique, la précision corporelle pourrait nourrir une rivalité burlesque entre personnages capables et incapables de rivaliser. Si l'œuvre était tragique, elle pourrait aussi évoquer une réussite promise à la ruine. Ces deux lectures sont des **modalités poétiques possibles**, non des intentions démontrables.
+
+### 13. Distinguer corps athlétique et corps satyrique
+
+Les images des satyres dans la céramique peuvent déformer les idéaux de maîtrise associés à l'athlète : membres agités, appétits saillants, gestuelle incongrue, rapport problématique aux règles. Ce contraste rend le théâtre satyrique particulièrement apte à représenter des compétitions parodiques. **David M. Pritchard** montre dans son étude de 2012 que le sport est un motif plus fréquent du drame satyrique que des autres genres dramatiques grecs et que les satyres peuvent tenter eux-mêmes de devenir compétiteurs.
+
+L'argument renforce la plausibilité générique de *Athla* sans démontrer sa distribution. Aucun fragment cité ici ne dit explicitement « Silène », ne mentionne une queue ou des oreilles de satyre, et ne livre un chœur intitulé « les Satyres ». Le critique doit faire de Pritchard un comparatiste de genre, pas le témoin d'une scène perdue.
+
+### 14. Le dossier F 5 : les parfums et les pierres de Chypre
+
+À **Athénée 15.689b**, dans un développement érudit consacré aux onguents, Achéos est explicitement associé à une pièce nommée *Athla*, traduite en anglais par *Prizes*. La citation évoque des **pierres chypriotes** et des **parfums choisis venant d'Égypte**, présentés comme objets précieux, évalués à l'aune de l'argent ou de leur valeur marchande. L'indication d'œuvre est ici plus nette que la simple hypothèse de rattachement de F *4.
+
+Nous adoptons le procédé suivant : mention du thème et de son contexte documentaire, sans transcription de vers grecs non collationnés. La traduction anglaise de Yonge donne une évocation de biens exotiques ; elle ne permet pas à elle seule de décider si ces biens sont effectivement reçus en prix, promis comme récompenses, vendus, échangés ou simplement énumérés. L'enjeu est une **économie imaginaire du précieux**, non un inventaire d'objets de scène authentifiés.
+
+### 15. Le mot « prix » et la circulation des objets
+
+Le titre *Athla* peut porter l'attention sur les récompenses, pas seulement sur la dépense physique de l'athlète. Les objets d'importation évoqués par F 5 compliquent ce champ sémantique : la valeur d'une victoire peut être associée à un prestige symbolique, à des biens somptuaires, à des parfums ou à des produits d'échange. Mais l'existence d'une liste de marchandises ne démontre pas qu'elle constituait la récompense du vainqueur dans le spectacle.
+
+Il ne faut pas non plus confondre les concours « de la couronne » à Olympia, Delphes, l'Isthme et Némée avec tous les concours donnant des récompenses matérielles. Dans le monde grec, les avantages, prix, honneurs civiques et biens reçus diffèrent selon les lieux et époques. Un seul fragment ne permet pas de reconstituer le règlement d'une fête d'Achéos.
+
+### 16. Chypre et l'Égypte : le problème des circuits méditerranéens
+
+Le rapprochement d'objets chypriotes et de parfums égyptiens invite à examiner des réseaux d'échanges anciens. **Chypre** se situe dans un carrefour oriental où circulent produits, savoir-faire et représentations ; **l'Égypte** est pour des auteurs grecs une source de matières aromatiques et d'objets dont l'exotisme peut servir la mise en valeur littéraire. On ne doit cependant pas transformer une provenance poétique en itinéraire commercial exact, encore moins en preuve qu'Achéos visita ces régions.
+
+Le fragment témoigne au moins d'un lexique de richesse méditerranéenne disponible à des spectateurs grecs. Mais l'érudit impérial qui le cite choisit précisément le passage parce que les parfums l'intéressent. Ce biais documentaire interdit de traiter les *Athla* comme une tragédie sur le commerce oriental : le texte entier pourrait n'avoir évoqué ces objets qu'une fois.
+
+### 17. Didyme, lecteur des parfums
+
+Après la citation F 5, **Athénée** rapporte une interprétation attribuée à **Didyme** : il serait question d'un parfum spécifique, la *staktê*, lié à la myrrhe importée en Égypte et de là vers la Grèce. Cette glose montre combien un mot poétique isolé devient, dans la culture des commentaires, un instrument pour discuter des produits, de leur nom et de leur origine.
+
+Cette explication appartient à la **réception érudite** de la citation. Elle ne démontre pas que le personnage d'Achéos possédait une fiole de staktê, ni que ce parfum faisait partie de l'accessoire scénique. Une notice universitaire distinguera donc « Achéos, formule conservée par Athénée », « Didyme, interprétation lexicale », et « histoire moderne des produits aromatiques ».
+
+### 18. Trois fragments ne font pas un récit
+
+Réunir F 3, F *4 et F 5 dans un même dossier ne suffit pas à obtenir une séquence « préparation des athlètes — banquet des compétiteurs — distribution des parfums ». Une telle suite est séduisante ; elle pourrait servir un spectacle contemporain inspiré de l'Antiquité. Elle demeure pourtant **sans ancrage textuel dans une chronologie de la pièce**. Le fragment lié au corps peut être antérieur, postérieur ou étranger au drame ; le dialogue sur la Béotie et la citation de parfums sont cités dans des livres différents d'Athénée.
+
+Ce principe de déliaison est central pour les tragédies perdues : la logique de l'archive n'est pas celle de la dramaturgie. Nous pouvons explorer des relations thématiques entre trois traces, mais non faire croire que la structure de l'action a été retrouvée.
+
+### 19. Tableau de la tradition textuelle
+
+| Unité | Référence critique | Témoin repéré | Matière thématique | Précaution |
+| --- | --- | --- | --- | --- |
+| Titre | FragTrag.1, Achaeus I, titre 3 ; Nauck, p. 746–747 | Inventaires et traditions des fragments | *Ἄθλα* ou *Ἄθλοι* | Deux formes de titre ; genre discuté |
+| Fragment 3 | TrGF I **20 F 3** ; FragTrag **fr. 3** | Athénée **10.417f–418a** | Théores, athlètes, mangeurs et Béotiens | Ne pas inventer les locuteurs ni un concours de gloutonnerie |
+| Fragment 4 | TrGF I **20 F *4** ; FragTrag **fr. 4** | Athénée **10.414c–d** | Corps jeunes, force et huile | Astérisque : rattachement aux *Athla* incertain |
+| Fragment 5 | TrGF I **20 F 5** ; FragTrag **fr. 5** | Athénée **15.689b** | Objets chypriotes, onguents égyptiens | Didyme et Athénée ajoutent une glose distincte |
+| Genre | Concordance FragTrag / classement ancien | Mention **<Σάτυροι?>** | Satyrique possible | Point d'interrogation à conserver |
+
+Le tableau représente les **coordonnées critiques vérifiées** ; il ne prétend pas constituer l'apparat des variantes grecques, qui demanderait une collation directe des éditions et des manuscrits.
+
+### 20. Athénée est un philtre historiographique
+
+Les *Deipnosophistes* appartiennent à un monde de livres et de citations. Ils organisent des paroles dans une conversation savante sur la nourriture, les habitudes, le luxe, la musique et de multiples objets culturels. Les passages d'Achéos ont survécu parce qu'ils possédaient un intérêt pour les dossiers d'Athénée. L'érudit n'est ni l'auteur de la tragédie ni l'archiviste d'une représentation complète.
+
+La reconstitution critique doit donc reconnaître le caractère orienté du matériau. Une œuvre où l'on parlait peu de sport peut être devenue, par sélection, un dossier fortement « athlétique ». À l'inverse, Athénée pouvait extraire des vers représentatifs d'un ensemble aujourd'hui perdu. Il n'existe aucun moyen immédiat de choisir entre ces deux possibilités. Notre connaissance de la pièce dépend de la **survie différentielle** des mots.
+
+### 21. Qu'est-ce qu'un concours dans la cité grecque ?
+
+Le concours grec n'est pas seulement l'affrontement de deux forces naturelles. Ses règles définissent des procédures, un public, des conditions de participation, un jugement et une visibilité du vainqueur. Il peut être inscrit dans une fête religieuse, rattaché à un sanctuaire ou organisé à l'intérieur d'une cité. Le terme ἀγών dénote l'arène du conflit réglé et peut s'étendre à la dispute de paroles, à la rivalité politique et à l'épreuve dramatique.
+
+L'interprétation d'Achéos ne saurait confondre ces différentes formes. Si le titre renvoie à des épreuves athlétiques, c'est une possibilité soutenue par le champ lexical des fragments. S'il évoque des épreuves héroïques ou des prix au sens large, le titre laisse aussi cette possibilité ouverte. L'étude de la compétition doit montrer une **culture du jugement**, sans convertir tout conflit en scène de stade.
+
+### 22. L'honneur et la victoire : une économie moins simple qu'une somme d'argent
+
+Aux concours panhelléniques dits « stéphanites », la couronne est un signe de victoire. Son prestige peut se transformer, au retour dans la cité, en honneurs publics et en avantages concrets. D'autres fêtes attribuent des prix matériels. Les récits épiques antérieurs possèdent eux aussi des listes de récompenses distribuées par un organisateur, avec des valeurs hiérarchisées. La valeur du prix ne se réduit pas à l'objet physique.
+
+La citation sur les parfums peut aider à réfléchir à la translation d'une valeur visible en biens précieux. Mais elle ne prouve pas que les vainqueurs des *Athla* recevaient ces substances, ni qu'Achéos critiquait le mercantilisme. Nous devons distinguer **l'horizon anthropologique des récompenses** et **le contenu démontrable d'un fragment**.
+
+### 23. Homère, *Iliade* XXIII : concours funéraires et hiérarchie héroïque
+
+Dans le chant XXIII de l'*Iliade*, Achille organise des jeux à la mémoire de Patrocle. Les concours et leurs prix donnent lieu à des rivalités, des évaluations d'habileté et des débats de reconnaissance. La course de chars, notamment, ne se limite pas à la force des chevaux : elle engage le savoir du conducteur, l'intervention divine, les accidents et les négociations sur ce que chacun mérite.
+
+Le rapprochement est éclairant parce qu'il établit que **concours et prix** sont déjà dans l'épopée des médiateurs de valeur sociale. Rien ne prouve, en revanche, que les *Athla* d'Achéos représentaient les funérailles de Patrocle, Achille ou l'une des épreuves homériques. L'*Iliade* est un texte de comparaison permettant d'interroger la logique agonistique, pas une source de « scène manquante ».
+
+### 24. Homère, *Odyssée* VIII : une épreuve de reconnaissance et d'humiliation
+
+Au chant VIII de l'*Odyssée*, les Phéaciens organisent des jeux et mettent Ulysse à l'épreuve. Le défi sportif et les paroles qui l'accompagnent engagent le prestige d'un homme encore inconnu des hôtes qui le reçoivent. L'athlétisme devient un instrument de classement, mais aussi un espace dans lequel une identité peut se réaffirmer. La narration montre combien l'épreuve est liée à la réputation.
+
+Ce modèle convient à une réflexion sur les *Athla* : la rivalité peut mettre en jeu l'estime de soi, le rang d'un étranger ou l'hospitalité. Il ne justifie pas de placer Ulysse, Alcinoos ou les Phéaciens au nombre des personnages d'Achéos. Une analogie de fonction ne saurait être utilisée comme restitution historique.
+
+### 25. Pindare : l'éloge de la victoire comme construction poétique
+
+Les odes triomphales de Pindare montrent que la victoire sportive n'existe pas seulement comme résultat : elle devient une mémoire poétique attachée à un vainqueur, à sa famille, à sa cité et au sanctuaire. L'éloge inscrit la performance dans des récits mythiques, parfois pour la magnifier, parfois pour rappeler les limites qui séparent l'humain du divin.
+
+Le théâtre pouvait rencontrer ce monde de la célébration en le reprenant, le critiquant ou le déplaçant. Aucun de nos fragments n'indique une **ode de victoire** empruntée à Pindare ou à un poète analogue. Le lien relève d'une histoire commune des concours et des formes d'évaluation, non d'un emprunt démontré par la lettre.
+
+### 26. Xénophane : la force du corps n'est pas la meilleure force de la cité
+
+Le fragment **Xénophane B 2** (dans les corpus présocratiques) critique la hiérarchie qui récompense d'exceptionnels athlètes plus fortement que la sagesse : la victoire sportive n'améliore pas en soi les lois ni la prospérité de la cité. Le texte est cité dans **Athénée 10.414**, à proximité de la description du corps par Achéos. Cette proximité est l'œuvre du compilateur ; elle ne démontre pas qu'Achéos répondait à Xénophane.
+
+La comparaison pose une question centrale : la valeur de la compétition doit-elle être mesurée par l'habileté corporelle, le prestige partagé ou les bénéfices politiques réels ? Il n'est pas possible de décider quelle réponse, s'il y en avait une, apparaissait dans les *Athla*. Le fragment de Xénophane rend intelligible la critique grecque interne de la gloire athlétique, critique que la tradition moderne caricature parfois comme hostile au corps en général.
+
+### 27. Euripide, *Autolycos* : épreuve, vertu et utilité
+
+Dans un fragment de l'*Autolycos* d'Euripide (tradition éditoriale **fr. 282 Kannicht**, sous réserve des particularités des éditions), la valeur civique du sportif est discutée avec sévérité : la compétence à courir, lutter ou boxer ne garantit ni le bon gouvernement ni la défense de la cité. Athénée **10.413–414** rapproche cette critique des vers de Xénophane. La tradition du titre *Autolycos* pose elle-même des problèmes génériques et scéniques qu'il faut étudier séparément.
+
+L'utilité du parallèle tient à la contemporanéité générale des formes dramatiques du Ve siècle, non à l'identification d'un débat commun daté. La différence est fondamentale : **Euripide offre une critique explicitement transmise**, alors qu'aucun fragment d'Achéos ne suffit à reconstituer une polémique cohérente contre les athlètes.
+
+### 28. L'anatomie de la caricature : vigueur et démesure
+
+Le fragment F *4, s'il était réellement tiré des *Athla*, pourrait montrer la force admirée ; F 3, avec ses mangeurs béotiens, suggérerait une possibilité d'excès. L'association des deux donne à réfléchir à l'instabilité des jugements portés sur l'athlète. Un corps très entraîné peut être reçu comme beauté ou comme vanité, un appétit puissant comme nécessité physique ou comme absence de mesure.
+
+Il serait trop simple de décréter qu'Achéos opposait « beaux sportifs » et « grotesques buveurs ». Nous ne savons pas si les paroles appartenaient à la même situation ni si le même groupe était visé. Mais cette opposition, prise comme **problème critique moderne**, permet de lire l'athlétisme au croisement des pratiques du corps et de la satire sociale.
+
+### 29. Les Béotiens comme cible d'un rire attique
+
+La Béotie peut être réduite dans certains textes comiques et sympotiques à un ensemble de qualités grossières : appétit, lenteur intellectuelle ou abondance. De tels clichés sont des actes de langage dont la signification dépend des relations entre cités, des traditions littéraires et du public. Ils ne doivent être ni naturalisés ni reproduits comme faits ethnographiques.
+
+Si les *Athla* furent joués à Athènes, le public pouvait saisir une pointe visant une autre région grecque. Cette contextualisation n'indique ni la date exacte de la représentation ni une allusion politique ponctuelle. L'identité des interlocuteurs demeure inconnue ; il faut donc parler d'**usage littéraire d'un stéréotype**, non d'un monologue antithébain attribuable à un personnage précis.
+
+### 30. Pourquoi le satyrique reste une hypothèse forte, mais limitée
+
+Le théâtre satyrique se nourrit souvent de situations où les personnages affrontent une épreuve, une menace ou une contradiction entre héroïsme et impulsions corporelles. Patrick O'Sullivan et Christopher Collard rappellent, dans leur édition de 2013, la place du genre au sein du dispositif des concours dramatiques et le caractère exceptionnel de la conservation intégrale du *Cyclope* d'Euripide. Les satyres constituent un modèle de communauté qui peut vouloir participer aux exploits tout en y introduisant désir, peur ou ruse.
+
+Le dossier *Athla* présente plusieurs affinités avec cet horizon : compétition, plaisanterie sur l'appétit, objets précieux, corps huilés. L'affinité n'est pas identité. Si des fragments plus décisifs étaient retrouvés, ils pourraient confirmer ou infirmer la classification. Le signe interrogatif de la concordance doit rester **une information scientifique de premier plan**, jamais effacée dans les titres ou sommaires.
+
+### 31. Les risques d'une reconstitution satyrique « probable »
+
+Le critique pourrait être tenté de monter un spectacle où les satyres concourent contre Héraclès, s'emparent de couronnes, boivent du vin, se parfument et se font réprimander par Silène. Les fragments pourraient ensuite être insérés artificiellement comme des répliques de personnages inventés. Ce procédé produirait un divertissement antique plausible à première lecture, mais il serait historiquement irrecevable sous le nom de « texte retrouvé ».
+
+La méthode retenue interdit ce montage comme restitution. Les **motifs** d'épreuve, de boisson ou de commerce ont droit à une étude comparée ; les **personnages**, l'ordre des actions, les noms des compétitions et la résolution finale restent inconnus. Toute proposition de mise en scène contemporaine devrait être publiée sous une rubrique créative distincte, jamais comme monographie critique d'Achéos.
+
+### 32. Héraclès : un dieu-héros entre labor et compétition
+
+Héraclès apparaît dans la tradition grecque comme héros d'efforts extraordinaires. Ses entreprises peuvent être désignées par le vocabulaire du travail éprouvant et de la lutte ; les récits et images le représentent affrontant des adversaires. Athénée lui-même ouvre le livre X par une discussion sur les appétits héroïques et les concours de gloutonnerie, évoquant notamment des confrontations avec Lepreos.
+
+On pourrait trouver les thèmes d'Héraclès compatibles avec un drame sur les épreuves. On ne saurait pourtant dire que le personnage paraissait dans les *Athla*, ni que les fragments évoquent l'un de ses douze travaux. Il s'agit d'un **arrière-plan typologique** permettant de comprendre pourquoi les concours de force, les appétits et les épreuves héroïques pouvaient être associés dans l'imagination grecque.
+
+### 33. Amycos et Pollux : l'épreuve sportive comme violence
+
+Dans la légende argonautique, le roi Amycos contraint des visiteurs à accepter une épreuve de boxe, jusqu'à rencontrer Pollux. Dans plusieurs traditions, la règle du concours est imposée par un pouvoir tyrannique et peut mettre la vie en danger. Le motif convient aux mises à l'épreuve héroïques et à certains drames satyriques, notamment des œuvres perdues dont l'identification reste à contrôler séparément.
+
+Ce parallèle aide à distinguer un concours réglé et accepté d'une compétition imposée comme violence politique. Il ne démontre pas que les *Athla* possédaient un antagoniste analogue, une scène de boxe ou un dénouement par libération. La comparaison mythologique sert ici à **cartographier des possibilités narratives grecques**, non à décider laquelle fut représentée.
+
+### 34. Le prix comme jugement public
+
+Le vainqueur ne détermine pas seul la valeur de sa performance. Un arbitre, un ensemble de témoins, une convention de règles ou un organisateur énonce le résultat ; la cité peut ensuite amplifier son prestige. La couronne, le trépied, l'amphore, le bœuf ou l'objet importé peuvent occuper des places distinctes dans cette économie de la reconnaissance. L'intérêt philosophique est de comprendre **qui décide ce que vaut un effort**.
+
+Le titre *Athla* rend cette question possible. Mais l'échange F 3 ne décrit aucun arbitrage explicite, et F 5 ne nomme pas un vainqueur. Nous ne pouvons donc pas reconstruire un tribunal des juges ni une scène de remise des prix. Le passage de la théorie de la valeur au récit dramatique exige des témoins supplémentaires.
+
+### 35. La compétition dramatique elle-même : un miroir possible
+
+Les œuvres tragiques et satyriques étaient présentées dans des cadres compétitifs athéniens : poètes, chorèges et troupes concouraient devant un public. Il est intellectuellement tentant d'imaginer que *Athla* jouait de l'analogie entre compétition sportive et compétition théâtrale. Une telle réflexivité existe dans les cultures de concours ; le spectateur pouvait la reconnaître.
+
+Mais nous ne savons ni la fête ni l'année où *Athla* fut jouée. Aucune allusion conservée n'identifie un juge théâtral ou une comparaison explicite entre poètes et sportifs. La réflexion sur la rivalité des artistes demeure un rapprochement de **conditions d'exécution**, non une preuve d'autocommentaire dramaturgique.
+
+### 36. Les limites des interprétations économiques
+
+La mention d'objets précieux d'origine chypriote ou égyptienne pourrait encourager un discours moderne sur une économie de la performance où tous les biens sont mis en marché. Or le commerce antique, les cadeaux de prestige et les récompenses agonistiques répondent à des régimes institutionnels différents. Les mots « argent », « parfum » et « prix » n'ont pas la même fonction dans chaque contexte.
+
+Une histoire précise devrait identifier le produit et son nom grec, les unités de valeur, les lieux de production et les circuits d'importation. Sans collation directe du fragment F 5, il serait prématuré de calculer des prix ou de déterminer la nature exacte des « pierres chypriotes ». Nous pouvons étudier l'association poétique entre valeur, luxe et circulation sans inventer un tarif.
+
+### 37. Une physique sociale des athlètes
+
+Le corps de l'athlète n'est pas seulement une entité biologique. Il est formé par des exercices, exposé au jugement, différencié par l'âge, par l'appartenance civique et par les ressources nécessaires à l'entraînement. La brillance du corps huilé dans F *4, si cette attribution est acceptée, peut fonctionner comme un signal public de cette culture. Les vêtements ou l'absence de vêtements sont eux aussi porteurs de conventions sociales.
+
+La description n'autorise pas de dire que tous les citoyens pouvaient participer dans les mêmes conditions, ni qu'une nudité corporelle équivalait à une liberté politique. Elle invite au contraire à penser la relation entre idéal esthétique et conditions sociales concrètes, notamment la capacité d'un individu à consacrer du temps et des moyens à son corps.
+
+### 38. Régimes alimentaires : entre discipline et excès
+
+Les compétiteurs antiques nourrissent, selon les sources, une série de discussions sur la quantité d'aliments, la force, la récupération et la maîtrise des besoins. Athénée s'intéresse particulièrement aux nourritures exceptionnelles, parce que ses propres interlocuteurs discutent la table et l'appétit. Le même mot « manger beaucoup » peut désigner un avantage physiologique, une dépense nécessaire ou une faute de mesure.
+
+F 3 présente un effet lié au gros appétit ; mais l'archive a été filtrée pour ce thème. Il n'est pas possible d'en déduire une théorie de la nutrition formulée par Achéos. Il est plus prudent d'expliquer comment **un compilateur gastronomique** a contribué à façonner l'image moderne d'un drame perdu.
+
+### 39. Les ambivalences de la beauté
+
+La vigueur de la jeunesse et la mise en valeur du corps peuvent être l'objet d'un éloge, d'un désir ou d'une critique morale. Le discours ancien sur la beauté masculine dans l'entraînement traverse plusieurs genres : éloge poétique, céramique, scènes de palestre, philosophie éducative. La nudité athlétique ne permet pas à elle seule de conclure à une intention érotique ou comique déterminée d'un fragment.
+
+Le rire satyrique, lorsqu'il existe, peut opposer une posture héroïque à une incapacité des satyres de tenir un effort ou une règle. Mais le document fragmentaire ne dit pas que les corps décrits étaient satyriques ou qu'ils faisaient rire. La prudence est d'autant plus nécessaire que les traductions anciennes peuvent accentuer un registre moral absent du grec.
+
+### 40. Platon : l'éducation n'est pas l'adoration de la force
+
+Dans la *République* **III, 403c–412b**, Platon interroge la relation entre la gymnastique, la musique et la formation du caractère des gardiens. La formation ne doit ni laisser le corps sans exercice ni transformer le citoyen en être brutal soumis à la seule puissance physique. Le rapport entre entraînement et disposition morale doit être pensé dans un ensemble éducatif.
+
+Appliqué comme **grille externe** aux *Athla*, ce questionnement déplace l'attention des gestes sportifs vers leur fin : à quoi forme-t-on des individus qui concourent ? À la victoire, à la mesure, à la solidarité ou à la domination ? Nous ne disposons d'aucun passage autorisant à prêter à Achéos une réponse platonicienne anticipée. Platon est postérieur au monde de composition du drame et parle à partir de ses propres enjeux politiques.
+
+### 41. Platon : la dialectique de l'épreuve et du jugement
+
+Plusieurs dialogues platoniciens reposent sur une confrontation de discours où la victoire apparente d'un interlocuteur ne suffit pas à établir la vérité. Cette distinction entre **gagner** et **avoir raison** peut nourrir une philosophie de l'agon. Le débat n'est pas simplement un jeu : il engage la qualité des critères de jugement et la possibilité de reconnaître sa propre ignorance.
+
+Aucune scène de discussion philosophique n'est attestée dans *Athla*. Nous utilisons seulement la tension conceptuelle entre compétition et vérité comme outil d'analyse : le même vocabulaire de l'épreuve peut désigner un combat, une démonstration ou un exercice de formation. Réduire la dialectique à une compétition athlétique serait aussi insuffisant que réduire tout concours grec à l'idée de la vérité.
+
+### 42. Aristote : gymnastique et proportion
+
+Dans la *Politique* **VIII, 3–4** (notamment **1338b–1339a**), Aristote réfléchit à la place de l'éducation physique, à l'âge des enfants et aux excès d'un entraînement trop rude. Cette perspective permet de distinguer une discipline corporelle proportionnée à la formation civique et une spécialisation qui pourrait nuire à d'autres aptitudes. Elle montre que la critique des excès du sport n'est pas un thème étranger aux débats grecs.
+
+Il faut éviter de lire dans ce passage une description du public historique d'Achéos. Les réflexions d'Aristote sont postérieures et systématiques. Elles servent à formuler des questions que la conservation de F 3 et F *4 rend intéressantes, sans transformer ces fragments en exposition scolaire d'une politique éducative.
+
+### 43. La *Poétique* d'Aristote et la question du genre
+
+La *Poétique* rappelle la diversité des formes dramatiques, la place du muthos et le problème historique du rapport entre formes satyriques et tragédie. Un dossier comme *Athla* ne peut être classé uniquement par la présence de motifs de concours, de luxe ou de plaisanterie. Le genre doit être établi par un ensemble d'indices concernant sa transmission, sa langue, son contexte et ses conventions, dont plusieurs nous manquent.
+
+L'étude doit donc traiter l'intitulé interrogatif **<Σάτυροι?>** comme une question à poursuivre plutôt que comme la réponse. Les passages de la *Poétique* n'autorisent pas un classement automatique : une définition de genre n'est pas un substitut aux faits perdus d'une œuvre singulière.
+
+### 44. Hegel : reconnaissance, accomplissement, conflit
+
+Les *Leçons sur l'esthétique* de Hegel proposent une réflexion sur les actions dramatiques, leurs puissances éthiques et les tensions qui deviennent visibles dans la représentation. Un titre qui signifie « épreuves » autorise une interrogation moderne sur la reconnaissance : une société peut offrir des honneurs à un individu dont la valeur n'est pas identique au bien commun. Ce décalage entre reconnaissance et mérite est un problème philosophique fécond.
+
+Mais la méthode hégélienne ne produit pas des vers grecs supplémentaires. Il serait absurde d'affirmer qu'Achéos mettait en scène une opposition entre « l'individu sportif » et « l'État moral » au sens de Hegel. Nous pouvons seulement explorer un champ de contradictions possibles : victoire privée et jugement public, prestige du corps et exigences du collectif, prix matériel et valeur symbolique.
+
+### 45. Hegel : la différence entre conflit tragique et compétition
+
+Dans une compétition ordinaire, l'issue est produite par des règles acceptées en principe. Dans un conflit tragique au sens de certaines analyses hégéliennes, des exigences légitimes s'affrontent et la souffrance qui en résulte n'est pas réductible à la défaite sportive. Cette différence protège notre objet : « épreuves » ne signifie pas automatiquement « tragédie » ; une rivalité entre athlètes ne devient pas tragique du seul fait qu'elle est intense.
+
+L'étude peut donc se demander : si la pièce était tragique, quelles valeurs irréconciliables auraient été engagées ? Si elle était satyrique, comment la tension pouvait-elle se résoudre par la dérision ? Aucune réponse n'est autorisée par les fragments. La distinction hégélienne fournit un moyen de **ne pas faire passer un motif pour une action dramatique démontrée**.
+
+### 46. Nietzsche : l'agon grec et la singularité du corps
+
+Dans ses réflexions sur la culture grecque et la rivalité, notamment *La Joute chez Homère* (*Homer's Contest*, texte lié à *Cinq préfaces à cinq livres qui n'ont pas été écrits*), Nietzsche envisage l'agon comme une force culturelle susceptible de canaliser des tendances puissantes dans une émulation productive. Dans *La Naissance de la tragédie*, il réfléchit à l'organisation des forces artistiques et à la puissance du chœur dans l'expérience tragique.
+
+Les deux perspectives éclairent différemment *Athla*. La première aide à penser la compétition comme dispositif culturel de formation des talents ; la seconde rend prudente toute réduction du théâtre à un culte transparent de l'individu vainqueur. Nietzsche ne fournit **aucun témoignage sur les *Athla* d'Achéos** et son interprétation du monde grec est philosophique, non une concordance éditoriale des fragments.
+
+### 47. Nietzsche : satire des vainqueurs et fragilité de la mesure
+
+Un spectacle qui confronterait l'excellence corporelle à une dérision des appétits pourrait illustrer, de manière hypothétique, la fragilité de la maîtrise humaine. Dans un concours, la victoire est publiquement mesurée ; dans une satire, ce qui semblait noble peut devenir ridicule. La mise à distance du corps héroïque est une possibilité des genres grecs, en particulier lorsque des satyres s'en mêlent.
+
+Ce commentaire ne revient pas à affirmer que Nietzsche aurait identifié le programme de *Athla* ni qu'Achéos avait un « héros dionysiaque » au sens moderne. Il fait apparaître une question féconde : **quand une société admire une puissance, quels contre-discours l'empêchent de transformer l'admiration en idolâtrie ?**
+
+### 48. L'athlète comme personnage possible, non comme personnage identifié
+
+Trois catégories de personnages sont rendues concevables par les citations : les sportifs évoqués dans les descriptions, les interlocuteurs du dialogue comique et les personnes associées aux objets précieux. Rien ne permet d'affirmer que ces catégories correspondent à des personnages distincts, qu'elles décrivent un même groupe ou qu'elles étaient présentes simultanément sur scène. Le fait que les athlètes soient mentionnés ne signifie pas qu'ils faisaient tous partie de la distribution.
+
+On ne peut non plus savoir si le titre désigne un événement collectif plutôt qu'un héros en compétition. L'analyse dramaturgique doit s'arrêter au seuil qui sépare les personnes mentionnées **dans un fragment** des acteurs qui jouaient **dans la représentation complète**.
+
+### 49. Le chœur : aucune composition certaine
+
+Si l'œuvre était satyrique, un chœur de satyres serait attendu par convention. Mais **l'attente de genre ne constitue pas un fragment**. Si l'œuvre était une tragédie, un chœur de spectateurs, d'habitants, de compagnons ou de concurrents serait possible, sans qu'aucun de ces groupes soit identifiable. Rien ne permet d'en donner le nombre, le costume, l'entrée ou les chants.
+
+La meilleure pratique éditoriale consiste à conserver une zone « chœur inconnu » dans les métadonnées de l'œuvre, avec une note sur la possibilité satyrique. Cette limite protège les reconstitutions futures contre la tentation de remplir automatiquement une fiche de spectacle avec des conventions applicables à d'autres pièces.
+
+### 50. Trois horizons dramatiques possibles, sans scènes inventées
+
+**Horizon I — fête et épreuves athlétiques (plausibilité thématique réelle, intrigue non démontrée).** Le titre et le lexique de F 3 appuient l'idée d'un environnement de concours. On ne sait ni dans quelle cité, ni sous quel patronage divin, ni avec quelles épreuves physiques précises.
+
+**Horizon II — parodie satyrique des athlètes (hypothèse générique de force intermédiaire).** Le sujet sportif, les clichés alimentaires et les biens précieux sont compatibles avec des parodies satyriques ; rien ne permet de nommer Silène, un héros ni un concurrent.
+
+**Horizon III — récit héroïque construit autour d'épreuves et de récompenses (hypothèse large, peu déterminante).** Le titre peut relever du vocabulaire des efforts héroïques. Aucune tradition mythique particulière n'est directement imposée par les fragments. Une monographie scientifique devrait donc privilégier l'analyse des possibilités **sans produire de synopsis figé**.
+
+### 51. Pourquoi la recherche de « l'intrigue la plus probable » peut être trompeuse
+
+Lorsque les fragments sont presque tous des bribes de discours indirect, l'hypothèse la plus séduisante tend à absorber les autres. Ainsi, à partir du sport, on peut fabriquer une scène de concours ; à partir de la gourmandise, un banquet ; à partir du parfum, une remise de prix ; puis relier ces trois éléments par un récit. La reconstruction paraît naturelle parce que l'esprit humain cherche des continuités causales.
+
+La philologie demande exactement le contraire : établir séparément ce qui est réellement attesté, puis déterminer la valeur probante de chaque rapprochement. La **probabilité littéraire** n'est pas une **preuve historique**. Une reconstitution honnête peut formuler des modèles sans prétendre être la pièce. À ce titre, refuser d'écrire les scènes perdues est une forme positive de connaissance.
+
+### 52. Une comparaison interculturelle prudente : concours et souveraineté
+
+D'autres sociétés anciennes associent force, compétition, fête ou représentation du pouvoir. On pourrait comparer les concours grecques à certains jeux cérémoniels d'Égypte, de Mésopotamie ou à des pratiques sportives d'autres mondes ; mais la ressemblance fonctionnelle ne suffit pas à établir une généalogie des rites. Pour comparer rigoureusement, il faudrait des sources de même nature, des dates, des objets précis, des contextes institutionnels et des voies de transmission vérifiables.
+
+Le seul rapprochement oriental explicite de notre dossier concerne les **biens chypriotes et égyptiens** évoqués par F 5. Ces mentions attestent un imaginaire de circulation d'objets, non l'emprunt d'un système de compétition étranger. Transformer les parfums égyptiens en « rituel égyptien du vainqueur grec » serait une invention.
+
+### 53. Le corps et l'objet : une tension entre pratique et représentation
+
+Les trois fragments, sous réserve d'attribution, se répartissent autour de corps entraînés, de manières de manger et d'objets précieux. Ces domaines ont pour point commun de rendre visibles des formes de distinction sociale. Le corps indique une discipline ; la table mesure un appétit ; le parfum renvoie au soin, à l'échange et au luxe. Il est tentant d'y voir un seul programme critique de la performance et de la consommation.
+
+Nous pouvons proposer une telle lecture comme **synthèse thématique moderne**, non comme intention de l'auteur. Elle ne prouve pas que le thème de la société de consommation, absent de l'horizon lexical antique moderne, aurait été conçu comme tel. La bonne comparaison explicite ses propres catégories au lieu de les imposer rétroactivement à Achéos.
+
+### 54. Iconographie I : athlètes peints sur un vase attique
+
+**Metropolitan Museum of Art, New York, inv. 56.171.27** : stamnos attique à figures noires, vers **525–500 av. J.-C.**, attribué à un peintre lié stylistiquement au **peintre d'Antiménès**. Le musée décrit à l'avers des athlètes, un discobole, de jeunes hommes portant des lances et une figure plus âgée peut-être entraîneur ; le revers figure des guerriers. **[Notice institutionnelle](https://www.metmuseum.org/art/collection/search/254885).**
+
+Cette céramique permet de visualiser le monde social des exercices antérieur à la carrière probable d'Achéos. Elle n'illustre **aucune scène connue des *Athla***. Dans une intégration éditoriale, la légende doit parler d'un **parallèle iconographique sur les pratiques sportives**, pas d'un témoignage sur la pièce, et conserver provenance muséale, date proposée, attribution et numéro d'inventaire.
+
+### 55. Iconographie II : la palestre, le strigile et la toilette
+
+**Metropolitan Museum of Art, New York, inv. 06.1021.171** : œnochoé attique à figures rouges, vers **430 av. J.-C.**, représentant un jeune athlète auprès d'une borne ou colonne basse, tenant un **strigile** utilisé après l'exercice. Le musée suggère un cadre de gymnase ou de palestre. **[Notice institutionnelle](https://www.metmuseum.org/art/collection/search/247334).**
+
+Cet objet permet d'expliquer matériellement le registre de l'huile et des soins du corps présent dans F *4. Il reste impossible d'identifier un acteur d'Achéos, un gymnase scénique ou un costume à partir de l'œnochoé. La datation d'un objet antique et celle d'une œuvre dramatique ne suffisent pas à établir une filiation figurative.
+
+### 56. Iconographie III : les flacons et l'Égypte des échanges
+
+**Metropolitan Museum of Art, New York, inv. 33.11.1** : aryballos en faïence grecque orientale, **VIe siècle av. J.-C.**, selon la notice du musée. L'institution précise que la technique de la faïence possède une histoire égyptienne et rappelle l'importance de Naucratis dans les échanges entre Grecs et Égyptiens ; elle souligne aussi les circulations vers les établissements de la côte d'Asie Mineure. **[Notice institutionnelle](https://www.metmuseum.org/art/collection/search/253384).**
+
+L'objet rend concrète la présence d'un vocabulaire d'onguents et de marchandises orientales dans F 5, mais il ne représente ni le parfum nommé par Didyme, ni la pierre chypriote citée par Achéos. **Parallèle matériel**, non **objet scénique identifié**. La notice de provenance et les droits des reproductions doivent être vérifiés avant intégration d'images dans MYTHOS.
+
+### 57. Iconographie IV : les satyres ne sont pas une preuve de leur présence
+
+Les vases montrant des satyres avec des équipements sportifs ou des accessoires de banquet peuvent être utilisés pour documenter un répertoire iconographique grec. Cependant aucun objet présenté dans cette étude n'a été identifié comme une illustration de la pièce perdue. Une attribution iconographique sérieuse doit séparer la lecture d'une image, l'identification d'un mythe, son contexte et le titre d'une œuvre dramatique : la chaîne ne peut être établie par simple ressemblance.
+
+Les créations numériques et reconstitutions contemporaines devraient recevoir une étiquette distincte (« interprétation artistique moderne ») et ne pas être conçues comme documents sur l'orchestra du spectacle. Aucune image 2,5D ni menu incrusté ne sont introduits ; les archives existantes restent inchangées.
+
+### 58. Tableau des propositions et degrés de certitude
+
+| Proposition | Qualification | Justification ou limite |
+| --- | --- | --- |
+| Achéos possède une œuvre intitulée *Ἄθλα* / *Ἄθλοι* | Attesté comme dossier d'œuvre | FragTrag.1, Achaeus I, titre 3 ; Nauck |
+| Le titre signifie nécessairement « épreuves olympiques » | Non démontré | Titre polysémique, aucun lieu sûr |
+| Le genre est assurément satyrique | Non démontré | Mention ancienne interrogative **<Σάτυροι?>** |
+| Des satyres composaient certainement le chœur | Non démontré | Aucun fragment ne nomme ce chœur |
+| F 3 est renvoyé à Athénée 10.417f–418a | Adresse vérifiée | Olson, *Digital Athenaeus* ; FragTrag |
+| F *4 doit être cité sans astérisque | Faux | Attribution critique à conserver |
+| F 5 est à Athénée 15.689b, dans un dossier de parfums | Adresse vérifiée | Olson ; Athénée |
+| Des prix sportifs étaient certainement des parfums égyptiens | Non démontré | Citation isolée sans scénario |
+| La pièce critiquait systématiquement les athlètes | Non démontré | Aucun discours continu conservé |
+| La Béotie était l'unique cadre de l'action | Non démontré | Stéréotype dans une plaisanterie |
+| *Les Épreuves* est une pièce perdue, connue par des fragments | Attesté | Corpus fragmentaire d'Achéos |
+| Un vase du Metropolitan montre une scène de la pièce | Non établi | Parallèles contextuels exclusivement |
+
+### 59. Lexique critique à conserver dans les métadonnées
+
+**Ἄθλα** : titre ancien du dossier ; peut viser les prix ou les épreuves, variante **Ἄθλοι**. **ἆθλον** : enjeu ou récompense, terme à examiner dans le contexte ; **ἆθλος** : épreuve ou effort ; **ἀγών** : compétition et, selon le contexte, dispositif d'évaluation publique. **Théore** : envoyé ou participant à une manifestation religieuse, fonction à distinguer du compétiteur. **Athlète** : personne qui s'entraîne et concourt, catégorie sociale et littéraire distincte d'un personnage de scène. **Drame satyrique** : forme théâtrale susceptible d'associer mythe héroïque et chœur de satyres ; **genre des *Athla* incertain**. **F *4** : indication éditoriale d'attribution non assurée. **Staktê** : dénomination d'onguent proposée par Didyme à propos du fragment F 5, non objet de scène retrouvé.
+
+### 60. Pourquoi les recherches à venir doivent commencer par les témoins
+
+Pour approfondir la philologie, une prochaine séance de recherche devrait comparer la teneur grecque exacte du fragment F 3 à **Athénée 10.417f–418a**, puis F *4 à **10.414c–d**, et F 5 à **15.689b**, en relevant variantes, variantes de titre, métrique, sujets grammaticaux, ponctuation et lemmes du transmetteur. La collation directe des éditions **Nauck** et **Snell–Kannicht** permettrait de déterminer la portée précise de l'astérisque et des choix de mise au corpus. Le catalogue FragTrag constitue un guide, pas une substitution à l'apparat.
+
+La même enquête devrait examiner les usages de **Ἄθλα** et **Ἄθλοι** dans les témoins anciens, et non s'en tenir aux traductions françaises. Elle devrait préciser si le dialogue F 3 est cité avec le nom explicite du drame ou si son attribution à la pièce est déduite de références voisines. Nous ne prétendons pas ici avoir opéré cette collation des manuscrits grecs originaux.
+
+### 61. Conclusions philologiques : trois degrés de connaissance
+
+Le premier degré de connaissance est assuré : **un titre** de pièce d'Achéos, **des unités fragmentaires numérotées** et leurs **points de transmission**. Le second est analytique : l'association du concours, de l'appétit, du corps huilé et des objets précieux offre un riche champ de questionnement pour l'histoire des formes dramatiques. Le troisième demeure incertain : le genre, le chœur, la fable, le lieu et le dénouement.
+
+L'intelligence de l'œuvre tient à la conservation de ces degrés, plutôt qu'à leur nivellement. Des œuvres perdues ne deviennent pas plus importantes lorsqu'on leur invente des discours philosophiques ; elles deviennent plus lisibles lorsqu'on comprend pourquoi leur documentation résiste à nos attentes.
+
+### 62. Conclusion philosophique : qui mérite la couronne ?
+
+Les *Athla* nous invitent à étudier un motif paradoxal : une société organise une victoire mesurable, mais la valeur de ce qui est gagné demeure ouverte à la contestation. Le corps performant est visible, la récompense circule, le banquet consolide ou ridiculise les réputations. Xénophane et Euripide rappellent qu'une prouesse ne vaut pas automatiquement service civique ; Platon et Aristote demandent à l'exercice de s'inscrire dans une éducation ; Hegel et Nietzsche invitent à réfléchir au conflit des valeurs et à la fonction culturelle de l'émulation.
+
+Nous ignorons si Achéos formulait l'une de ces questions dans sa pièce. Les fragments et leur contexte, en revanche, légitiment le **questionnement moderne** sur le corps, la gloire et le prix. L'encyclopédie n'a pas à transformer cette possibilité en preuve. Son engagement scientifique consiste à rendre pensable le monde que le drame traversait tout en avouant que son action singulière ne nous est plus accessible.
+
+---
+
+### Sources primaires contrôlées et adresses textuelles
+
+1. **Achéos d'Érétrie**, *Ἄθλα / Ἄθλοι*, **TrGF I, 20 F 3, 20 F *4, 20 F 5** ; **FragTrag.1, Achaeus I, troisième titre, fr. 3–5**. Concordance numérique officielle : <https://fragtrag1.upatras.gr/exist/apps/fragtrag/indexc.html>.
+2. **Athénée de Naucratis**, *Deipnosophistes*, **10.417f–418a** : dossier de l'échange entre théores et athlètes et du trait sur la Béotie. Traduction anglaise annotée, volume IV de la collection Loeb, disponible sur LacusCurtius : <https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Athenaeus/10A*.html>.
+3. **Athénée**, *Deipnosophistes*, **10.414c–d** : passage sur des athlètes jeunes et huilés, **attribution critique F *4**. Texte traduit dans : <https://www.attalus.org/old/athenaeus10.html>.
+4. **Athénée**, *Deipnosophistes*, **15.689b** : mention explicite d'Achéos et des *Athla*, parfums égyptiens, objets chypriotes, commentaire de Didyme. Texte traduit : <https://www.attalus.org/old/athenaeus15b.html>.
+5. **S. Douglas Olson**, *Athenaeus' Index of Authors, Texts, and Persons*, *Digital Athenaeus*, entrée **Achaeus of Eretria**, références indexées 20 F 3, 20 F *4, 20 F 5 : <https://www.digitalathenaeus.org/tools/OlsonIndex/digger.php?onoffswitch=on&what%5B%5D=Name%7CAchaeus+of+Eretria>.
+6. **Homère**, *Iliade*, **XXIII**, jeux funèbres de Patrocle ; *Odyssée*, **VIII**, concours phéaciens. **Sources comparatives**, non témoignages d'Achéos.
+7. **Xénophane**, fragments de l'élégie sur les athlètes, **DK B 2**, conservés notamment chez Athénée **10.413–414** ; la critique de la victoire sportive est propre au poète.
+8. **Euripide**, *Autolycos*, fragment **282** selon la tradition de référence ; passage discuté chez Athénée **10.413–414**, à distinguer de la pièce d'Achéos.
+9. **Platon**, *République*, **III, 403c–412b** : gymnastique et formation de l'âme ; **Aristote**, *Politique*, **VIII, 3–4, 1338b–1339a**, sur l'éducation physique et les excès. Lectures philosophiques extérieures.
+10. **Aristote**, *Poétique*, **1449a–1451b**, sur l'histoire des formes dramatiques et la composition de l'action ; usage de méthode, non attribution de genre certaine à *Athla*.
+
+### Bibliographie critique et historiographique vérifiée
+
+11. **August Nauck**, éd., *Tragicorum Graecorum Fragmenta*, 2e éd., Leipzig, B. G. Teubner, **1889**, dossier Achéos **p. 746–759**, *Athla* **p. 746–747**. Catalogue Perseus : <https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0309.tlg001.opp-grc1>.
+12. **Bruno Snell**, éd., *Tragicorum Graecorum Fragmenta I : Didascaliae tragicae, Catalogi tragicorum et tragoediarum, Testimonia et fragmenta tragicorum minorum*, Göttingen, Vandenhoeck & Ruprecht, **1971** ; se référer à la numérotation concordée du dossier 20, sans présumer que les versions éditoriales sont matériellement identiques.
+13. **Andreas P. Antonopoulos** et collaborateurs, *Greek Fragmentary Tragedians Online*, **FragTrag.1** (Université de Patras ; projet désormais basé à l'Université de Ioannina), base numérique d'édition et concordance critique, ISSN **3057-4013** ; site général : <https://fragtrag1.upatras.gr/>. La base est évolutive : la consultation du 6 novembre 2026 est le repère de ce dossier.
+14. **David M. Pritchard**, « **Athletics in Satyric Drama** », *Greece & Rome*, **59.1 (2012), p. 1–16**, DOI **10.1017/S0017383511000210**. Notice Cambridge : <https://www.cambridge.org/core/journals/greece-and-rome/article/abs/athletics-in-satyric-drama/15BAA5A66BE9A8BEAD65FD5343862621>. Étude utile à la possibilité d'un traitement satyrique des épreuves.
+15. **Patrick O'Sullivan et Christopher Collard**, éd., *Euripides: Cyclops and Major Fragments of Greek Satyric Drama*, Liverpool University Press / Aris & Phillips Classical Texts, **2013**, DOI **10.3828/liverpool/9781908343352.001.0001**. Notice Oxford Academic : <https://doi.org/10.3828/liverpool/9781908343352.001.0001>. Ouvrage pour la comparaison générique, non source directe d'un manuscrit des *Athla*.
+16. **Ralf Krumeich, Nikolaus Pechstein et Bernd Seidensticker**, dir., *Das griechische Satyrspiel*, Darmstadt, **1999** ; référence bibliographique discutée dans la préface de O'Sullivan et Collard. Employer comme outil de contexte, sans affirmer la présence de remarques spécifiques sur Achéos non vérifiées.
+17. **Jocelyn Penny Small**, *The Parallel Worlds of Classical Art and Text*, Cambridge University Press, **2003** ; présence du dossier *Athla/Athloi* signalée dans l'index de l'ouvrage. Une indexation confirme un point d'entrée bibliographique, non l'accord avec toutes les hypothèses du présent dossier.
+18. **The Metropolitan Museum of Art**, notices d'inventaire **56.171.27** (stamnos avec athlètes), **06.1021.171** (œnochoé à l'athlète et au strigile), **33.11.1** (aryballos en faïence grecque orientale). Sources institutionnelles et parallèles matériels, sans rapport d'illustration attestée de la pièce.
+19. **Friedrich Nietzsche**, *La Naissance de la tragédie* (1872), et *La Joute chez Homère* (texte des préfaces philosophiques non publiées à l'époque) ; outils de philosophie de l'émulation, non témoignages.
+20. **G. W. F. Hegel**, *Leçons sur l'esthétique*, développement sur l'art dramatique et le conflit ; usage strictement comparatif de philosophie moderne, sans attribution au dramaturge.
+
+### Notice de publication et protection des sources
+
+**Titre abrégé pour le catalogue :** Achéos d'Érétrie, *Ἄθλα / Ἄθλοι* (*Les Épreuves / Les Concours*) — drame perdu, genre incertain, **TrGF I 20 F 3, F *4 et F 5** ; athlètes, gourmandise, parfums et récompenses, entre satire possible et poétique de l'agon.
+
+**Mots-clés :** Achéos d'Érétrie ; Athla ; Athloi ; théores ; athlètes ; Béotie ; Athénée ; Didyme ; parfums égyptiens ; corps huilé ; palestre ; concours ; drame satyrique ; philologie des fragments ; Hegel ; Nietzsche ; Platon ; Xénophane.
+
+Les renvois vers les analyses philosophiques peuvent figurer dans une section distincte du théâtre grec, mais **le texte de cette monographie ne doit pas être amputé**. Les objets iconographiques restent des parallèles documentés. Le site WordPress historique est préservé et n'a fait l'objet d'aucune publication ou modification. Le fichier public intégral est destiné exclusivement à la file GitHub **editorial/inbox/** ; les variables éditoriales **CCLXI** et **261** sont réservées au numéro de cette étude et ne sont pas remplacées par anticipation. Aucune demande préexistante ni aucun registre de numérotation n'est modifié.
+
+**État du manuscrit : complet, approuvé pour la file éditoriale ; attribution canonique et déploiement à établir exclusivement par les reçus et les contrôles GitHub Actions.**

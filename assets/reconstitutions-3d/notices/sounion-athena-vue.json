@@ -1,0 +1,20 @@
+{
+  "id": "R3D-012",
+  "slug": "sounion-athena-vue",
+  "title": "Sounion — sanctuaire d’Athéna",
+  "period": "Évocation du Ve siècle av. J.-C.",
+  "image": "/assets/reconstitutions-3d/sounion-athena-vue.webp",
+  "caption": "Sounion — sanctuaire d’Athéna — restitution photoréaliste interprétative. Évocation du Ve siècle av. J.-C.",
+  "commentary": "Le sanctuaire d’Athéna sur le cap Sounion est distinct de celui de Poséidon ; cette élévation d’un temple complet est très hypothétique.",
+  "certainty": {
+    "summary": "Élevé : présence du sanctuaire ; moyen : implantation ; faible : élévation et ordre du temple illustré."
+  },
+  "sources": [
+    {
+      "label": "Source documentaire du catalogue MYTHOS",
+      "url": "https://www.hh.gr/en/destinations/sounion/"
+    }
+  ],
+  "image_sha256": "d7e33b1e14b279023283d56c65739c183784a574fee8d99234dbcbaaa282c2eb",
+  "rights_and_method": "Image numérique interprétative, non métrique ; les sources documentent le site ou monument, mais ne certifient pas les détails graphiques."
+}

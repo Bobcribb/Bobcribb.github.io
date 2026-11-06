@@ -433,6 +433,19 @@ def main():
     navigation.finalize_navigation(n_indexed)
     print("Numérotation vérifiée :", numbering["renumbered_studies"], "études réconciliées ;", numbering["corrected_links"], "liens harmonisés")
     n_illustrated = decorate_editorial_pages()
+    # Les dix-huit lecteurs autonomes doivent exister avant la passe muséale.
+    # Sinon la CI rejette leurs pages dépourvues du bandeau et de la navigation
+    # communs. Les Markdown restent copiés octet pour octet, sans nouvelle cote.
+    # Réaliser la distribution site des 18 manuscrits publics de l'Énéide,
+    # avec liens vers l'étude intégrale et le récit, sans nouvelle attribution.
+    from eneide_source_access import install as install_eneide_source_access
+    print('Énéide — manuscrits originaux distribués :',
+          install_eneide_source_access(ROOT, OUT))
+    # Construire le moteur de recherche et le sitemap APRES la création des
+    # 18 lecteurs HTML, mais AVANT leur habillage muséal. Sinon ces pages
+    # intégrales sont absentes du catalogue reconstruit ou l'index écrase
+    # une rubrique déjà habillée.
+    n_indexed = reindex(chapters)
     from apply_museum_design import apply as apply_museum_design
     n_styled = apply_museum_design(OUT)
     print(f"Identité muséale commune : {n_styled} pages HTML.")

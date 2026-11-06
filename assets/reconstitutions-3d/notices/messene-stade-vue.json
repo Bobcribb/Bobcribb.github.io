@@ -1,0 +1,20 @@
+{
+  "id": "R3D-011",
+  "slug": "messene-stade-vue",
+  "title": "Messène — stade et gymnase",
+  "period": "Période hellénistique, IIIe–IIe siècle av. J.-C.",
+  "image": "/assets/reconstitutions-3d/messene-stade-vue.webp",
+  "caption": "Messène — stade et gymnase — restitution photoréaliste interprétative. Période hellénistique, IIIe–IIe siècle av. J.-C.",
+  "commentary": "Le complexe du stade et du gymnase forme l’un des ensembles monumentaux de Messène ; les détails d’aménagement et la fréquentation représentés sont fictifs.",
+  "certainty": {
+    "summary": "Élevé : ensemble monumental ; moyen : disposition générale ; faible : toitures, restitution des portiques et personnages."
+  },
+  "sources": [
+    {
+      "label": "Source documentaire du catalogue MYTHOS",
+      "url": "https://www.efamess.gr/en/pois/gymnasio-stadio-archaia-messini/"
+    }
+  ],
+  "image_sha256": "7a2d8f9074440ba44eb8f267ccab17587cfff0e8724b325b207f38fef86e5ae2",
+  "rights_and_method": "Image numérique interprétative, non métrique ; les sources documentent le site ou monument, mais ne certifient pas les détails graphiques."
+}
