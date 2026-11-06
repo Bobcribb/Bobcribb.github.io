@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-05",
+  "generated_at": "2026-11-06",
   "site": "bobmythos.fr",
   "method": "Illustrations photoréalistes interprétatives, textes et sources hors des pixels.",
-  "count": 58,
+  "count": 59,
   "entries": [
     {
       "id": "DEL-PAN-001",
@@ -1326,6 +1326,54 @@
         "Vitruve, De architectura, III, 2, 6 : temple pseudodiptère et Hermogène (référence ancienne à contrôler sur une édition critique)."
       ],
       "methodology": "Restitution artistique non métrique et non validée institutionnellement : hypothèses sur détails sculptés, coloris, toiture, figures, paysage et voisinage urbain. Ne pas utiliser l’image pour des mesures architecturales.",
+      "publication_status": "fichier_prepare_non_publie_deploiement_https_a_verifier"
+    },
+    {
+      "id": "HAL-MAU-001",
+      "slug": "halicarnasse-mausolee-vers-345-av-jc",
+      "title": "Halicarnasse (Carie) — Mausolée de Mausole, vers 345 av. J.-C.",
+      "period": "Vers 352–345 av. J.-C., dans la seconde moitié du IVe siècle av. J.-C. ; image interprétative d'un état idéal achevé.",
+      "caption": "Vue photoréaliste numérique hypothétique du Mausolée d'Halicarnasse, tombe monumentale hécatomnide, avec haut podium sculpté, péristyle ionique et toiture pyramidale couronnée d'un quadrige, vers 345 av. J.-C.",
+      "commentary": "À Halicarnasse, aujourd'hui Bodrum, le tombeau élevé à la mémoire du satrape carien Mausole (mort vers 353/352 av. J.-C.) associait un haut soubassement orné de reliefs, une colonnade ionique et une superstructure à degrés surmontée d'un quadrige. Pline l'Ancien décrit un péristyle de trente-six colonnes, une pyramide de vingt-quatre degrés et un char à quatre chevaux ; ces chiffres transmis par une source tardive ne permettent pas à eux seuls de fixer toutes les dimensions ou la disposition de l'ensemble. Les fragments sculptés mis au jour, notamment une frise d'Amazonomachie et des éléments d'un quadrige, documentent certaines composantes, étudiées au British Museum et au musée d'archéologie classique de Cambridge. L'image représente une reconstruction visuelle de synthèse et non un relevé métrique des fouilles. Le nombre apparent de statues intercolonnaires, la taille du couronnement, le dessin exact des reliefs, le pavement, les teintes et le quartier urbain sont des extrapolations ; la disposition de la sculpture architecturale reste discutée. Le paysage portuaire, les maisons, les personnages et l'atmosphère sont artistiques. L'image illustre la synthèse d'une tradition hellénique et carienne dans le monde égéen du IVe siècle av. J.-C. Aucune institution citée n'a validé le rendu numérique.",
+      "certainty": "Élevé : monument funéraire de Mausole à Halicarnasse ; contexte hécatomnide du IVe siècle ; podium sculpté, ordonnance ionique, frises de combat et fragments de quadrige attestés. Moyen : chronologie précise de l'achèvement, nombre de trente-six colonnes et vingt-quatre gradins pyramidiques transmis par Pline, restitution de la silhouette générale, position relative des reliefs. Faible : disposition exacte des statues entre colonnes et du couronnement, couleurs, décors et motifs individualisés, densité du tissu urbain, navires, vêtements, végétation et lumière.",
+      "source_url": "https://museum.classics.cam.ac.uk/collections/casts/mausoleum-halikarnassos-frieze",
+      "secondary_sources": [
+        "https://museum.classics.cam.ac.uk/collections/casts/mausoleum-halikarnassos-charioteer",
+        "https://www.britishmuseum.org/collection/object/G_1972-0402-15",
+        "https://digital.library.cornell.edu/catalog/ss%3A946190"
+      ],
+      "src": "/assets/reconstitutions-3d/halicarnasse-mausolee-vers-345-av-jc.webp",
+      "image": "/assets/reconstitutions-3d/halicarnasse-mausolee-vers-345-av-jc.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-06",
+      "type": "reconstitution numérique photoréaliste interprétative à apparence 3D, non métrique",
+      "provenance": "Illustration numérique originale créée pour MYTHOS ; aucun texte, logo, menu, titre, schéma 2,5D ni interface dans les pixels. Les institutions citées documentent les sources archéologiques et ne cautionnent pas cette image.",
+      "sha256": "82d2625d4273e45cdddcefd96ec4de3ffc9d29b0e825604a3c48e4d0f242f549",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/halicarnasse-mausolee-vers-345-av-jc.json",
+      "scientific_sources": [
+        {
+          "label": "Université de Cambridge — Museum of Classical Archaeology, Mausoleum at Halikarnassos, Frieze",
+          "url": "https://museum.classics.cam.ac.uk/collections/casts/mausoleum-halikarnassos-frieze"
+        },
+        {
+          "label": "Université de Cambridge — Mausoleum at Halikarnassos, Charioteer",
+          "url": "https://museum.classics.cam.ac.uk/collections/casts/mausoleum-halikarnassos-charioteer"
+        },
+        {
+          "label": "British Museum — sculpture du Mausolée d'Halicarnasse, vers 350 av. J.-C.",
+          "url": "https://www.britishmuseum.org/collection/object/G_1972-0402-15"
+        },
+        {
+          "label": "Cornell University Library — moulage de la frise d'Amazonomachie",
+          "url": "https://digital.library.cornell.edu/catalog/ss%3A946190"
+        }
+      ],
+      "primary_texts": [
+        "Pline l'Ancien, Histoire naturelle, XXXVI : description du Mausolée, colonnade et couverture pyramidale (témoignage postérieur à l'édifice).",
+        "Vitruve, De architectura, VII, préface : tradition relative à la conception du Mausolée."
+      ],
+      "methodology": "Vue de synthèse artistique non métrique et non photogrammétrique, dont les éléments incertains sont explicités. Ne pas utiliser pour mesures architecturales ni comme photographie d'un état antique.",
       "publication_status": "fichier_prepare_non_publie_deploiement_https_a_verifier"
     }
   ]
