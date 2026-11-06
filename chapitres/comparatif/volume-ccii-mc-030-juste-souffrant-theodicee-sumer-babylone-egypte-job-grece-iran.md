@@ -530,3 +530,11 @@ Les éditions et traductions de *Ludlul* doivent être collationnées pour attri
 **Principe éditorial MYTHOS :** préserver la pluralité des systèmes religieux, refuser les fausses citations, séparer témoins et reconstitutions, ne pas affirmer des influences sans preuves et rendre toutes les illustrations contrôlables par source, inventaire et droits. Ce volume est un **manuscrit soumis** ; seul un reçu d’attribution canonique, un fichier publié et la vérification de la page publique permettraient d’annoncer son déploiement. Les autres séries et automatisations MYTHOS ne sont pas modifiées.
 
 *Fin du manuscrit MC-030 — 4 novembre 2026.*
+
+---
+
+### Note éditoriale documentaire — Jean Bottéro et l'historiographie mésopotamienne (7 novembre 2026)
+
+**Référence française :** Jean Bottéro, *Mésopotamie : l'écriture, la raison et les dieux*, Gallimard, 1987 ([BnF](https://catalogue.bnf.fr/ark:/12148/cb37506214w) ; [EPHE](https://prosopo.ephe.psl.eu/jean-bott%C3%A9ro)). Son travail fournit un cadrage historiographique pour l'étude du rapport entre écriture, expérience religieuse et rationalité en Mésopotamie.
+
+**Portée critique.** Ce livre ne doit pas être invoqué à la place des éditions et traductions contrôlées d'*Un homme et son dieu*, de *Ludlul bēl nēmeqi* ou de la *Théodicée babylonienne*. Dans MC-030, le recours à Bottéro demeure une référence de contexte : la définition de la souffrance du juste doit être argumentée sur les passages cunéiformes eux-mêmes. Aucune citation, opinion sur MYTHOS ou approbation de l'ouvrage ne sont attribuées à l'auteur.
