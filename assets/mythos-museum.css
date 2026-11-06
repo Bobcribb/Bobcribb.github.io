@@ -1939,3 +1939,25 @@ body.mythos-design .mythos-koush-figure figcaption a{color:#f0ce94}
  body.mythos-design .mythos-koush-figure{margin:1rem auto 1.45rem;border-radius:4px}
  body.mythos-design .mythos-koush-figure figcaption{padding:.8rem;font-size:.84rem}
 }
+
+/* MYTHOS — archive Khmer et Angkor, volume historique XIV, 20 parties / 43 sous-sections. */
+body.mythos-design .mythos-khmer-study{max-width:1040px;margin-inline:auto;overflow-wrap:anywhere}
+body.mythos-design .mythos-khmer-study .mythos-original-study{max-width:84ch;margin:2rem auto;color:#e9dfcb;line-height:1.8}
+body.mythos-design .mythos-khmer-study .mythos-original-study :is(h2,h3){scroll-margin-top:5.5rem;color:#eacb93}
+body.mythos-design .mythos-khmer-breadcrumb{margin:1rem 0;color:#ddcaa9;line-height:1.6}
+body.mythos-design .mythos-khmer-figure{width:min(100%,860px);margin:1.7rem auto;border:1px solid #997b4c;border-radius:8px;overflow:hidden;background:#10191c}
+body.mythos-design .mythos-khmer-figure img{display:block;width:100%;height:auto;aspect-ratio:640/425;object-fit:cover}
+body.mythos-design .mythos-khmer-figure figcaption{padding:.85rem 1.15rem;color:#e5d6be;font:.9rem/1.65 Georgia,serif}
+body.mythos-design .mythos-khmer-study a{overflow-wrap:anywhere}
+body.mythos-design .mythos-khmer-toc{margin:1.3rem auto;max-width:900px;border:1px solid #9b7b4b;border-radius:7px;background:#111b1d;color:#efe1c9}
+body.mythos-design .mythos-khmer-toc summary{min-height:48px;cursor:pointer;padding:1rem;color:#f0d39b;font-weight:700}
+body.mythos-design .mythos-khmer-toc>ol{padding:0 1.5rem 1.1rem 2.8rem;columns:2;column-gap:1.75rem}
+body.mythos-design .mythos-khmer-toc>ol>li{break-inside:avoid;padding:.45rem 0}
+body.mythos-design .mythos-khmer-toc ol ol{columns:1;padding-left:1.4rem;margin:.55rem 0}
+body.mythos-design .mythos-khmer-toc ol ol li{padding:.25rem 0}
+body.mythos-design .mythos-khmer-toc a{color:#eed7ac;text-decoration:underline;text-underline-offset:3px}
+body.mythos-design .mythos-khmer-crosslinks{display:flex;flex-wrap:wrap;gap:.65rem;margin:2rem 0;padding:1.2rem 0;border-top:1px solid #907044}
+body.mythos-design .mythos-khmer-crosslinks a{min-height:44px;display:inline-flex;align-items:center;padding:.7rem .9rem;border:1px solid #887044;border-radius:5px;color:#f2d399;background:#151e20}
+body.mythos-design .mythos-khmer-study :is(.mythos-khmer-crosslinks a,.mythos-khmer-toc a,.mythos-khmer-toc summary):focus-visible{outline:3px solid #f3d18e;outline-offset:3px}
+@media(max-width:720px){body.mythos-design .mythos-khmer-study{padding-inline:clamp(.65rem,3vw,1rem)}body.mythos-design .mythos-khmer-toc>ol{columns:1;padding-left:2rem}body.mythos-design .mythos-khmer-figure{margin:1rem auto}body.mythos-design .mythos-khmer-figure figcaption{padding:.8rem;font-size:.84rem}body.mythos-design .mythos-khmer-crosslinks{flex-direction:column}body.mythos-design .mythos-khmer-crosslinks a{width:100%;box-sizing:border-box}}
+@media(prefers-reduced-motion:reduce){body.mythos-design .mythos-khmer-study *{scroll-behavior:auto!important}}
