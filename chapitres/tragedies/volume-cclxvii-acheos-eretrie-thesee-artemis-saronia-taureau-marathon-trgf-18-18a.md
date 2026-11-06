@@ -1,0 +1,456 @@
+# MYTHOS — Encyclopédie des tragédies grecques — Volume CCLXVII (267)
+
+## Achéos d’Érétrie, *Thésée* (Θησεύς) — Le taureau et la frontière : Artémis Saronia, Marathon, hospitalité et invention d’un héros civique
+
+**Monographie universitaire intégrale.** Tragédie perdue du Ve siècle avant notre ère ; philologie des fragments grecs ; histoire de l’Attique et de Trézène ; géographie des cultes d’Artémis ; représentation du taureau de Marathon ; mythographie d’Héraclès et de Thésée ; poésie tragique et mémoire civique ; philosophie de Platon, Hegel, Nietzsche et Aristote ; bibliographie et iconographie critique.
+
+**Identification critique contrôlée :** Achéos d’Érétrie (Ἀχαιός ὁ Ἐρετριεύς), *Thésée* (Θησεύς), neuvième titre de « Achaeus I » dans la [concordance de FragTrag.1, Université de Patras](https://fragtrag1.upatras.gr/exist/apps/fragtrag/indexc.html). Deux unités sont répertoriées : **TrGF I, auteur 20, F 18**, égal au **fragment 18** de FragTrag, et **TrGF I, 20 F 18a**, égal au **fragment 19** de FragTrag. L’édition de **Nauck, Tragicorum Graecorum Fragmenta, 2e édition, Leipzig, Teubner, 1889**, place *Thésée* à la **p. 751**. Cette concordance éditoriale est **distincte** de la numérotation interne MYTHOS, attribuée par GitHub Actions et non fixée dans ce manuscrit.
+
+**Avertissement philologique :** le texte grec exact et les variantes de chacun de ces deux fragments n’ont pas fait ici l’objet d’une collation directe des manuscrits des transmetteurs. Les deux motifs documentés dans la recherche, **Artémis Saronia** et **le taureau de Marathon**, sont identifiés à partir du dossier critique et d’une monographie savante ; leur ordre dans l’intrigue et leur formulation métrique ne sont pas reconstitués. **Aucun vers grec, discours, scène, prologue, chœur, personnage secondaire ni dénouement n’est inventé.**
+
+### Résumé scientifique
+
+La tragédie *Thésée* d’Achéos d’Érétrie est perdue. Elle n’est pas pour autant dépourvue d’existence documentaire : le titre figure dans les inventaires de pièces, deux fragments ont des identifiants critiques distincts, et un commentaire savant contrôlé précise que ces témoignages évoquent **Artémis Saronia** et **le taureau de Marathon**. Cette combinaison est plus révélatrice de problèmes que d’événements : Artémis Saronia appartient d’abord à un paysage cultuel de Trézène et à une étiologie du golfe Saronique ; le taureau de Marathon appartient à une histoire de conquête héroïque, de capture, de présentation et de sacrifice dans l’Attique. Les deux noms impliquent des espaces différents, des relations à la divinité différentes et des modèles distincts de maîtrise de l’animal.
+
+L’unique démarche scientifiquement acceptable consiste à **séparer la source dramatique perdue des récits extérieurs**. Pausanias raconte le culte d’Artémis Saronia et une tradition de fondation associée au roi Saron ; Plutarque, au chapitre 14 de sa Vie de Thésée, évoque la capture du taureau, le sacrifice à Apollon et l’hospitalité de la vieille Hécalé ; Diodore de Sicile explique comment le taureau amené de Crète par Héraclès finit à Marathon. L’iconographie attique à figures rouges représente la victoire sur l’animal, mais ne reproduit aucune scène assignable à Achéos.
+
+Ces témoignages ouvrent un commentaire de fond sur la place de Thésée dans la représentation athénienne du pouvoir : héroïsation de la violence utile, articulation de la puissance personnelle et du bien commun, rôle politique de l’hospitalité, équivocité de l’origine locale et du mythe civique. L’étude confronte la construction de la mémoire athénienne au Thésée des tragédies conservées, y compris ses défauts, puis mobilise, avec leur statut explicitement moderne, les catégories de Platon, Hegel et Nietzsche. Elle propose plusieurs modèles interprétatifs **sans les déguiser en fable antique reconstituée**.
+
+### 1. Continuité éditoriale : après Héphaïstos, un titre autonome
+
+Dans l’inventaire FragTrag.1 d’Achéos d’Érétrie, *Héphaïstos satyrique* est le huitième titre et *Thésée* le neuvième. Le présent dossier traite exclusivement **Θησεύς**, sans reprendre comme œuvre nouvelle le *Thésée* déjà étudié ailleurs sous le nom d’Euripide, ni les épisodes thébains abordés dans *Adraste*. La proximité des personnages mythologiques ne constitue pas une identité d’œuvres : chaque titre et chaque attribution d’auteur ont leur propre histoire documentaire.
+
+La conservation d’un précédent manuscrit de *Héphaïstos satyrique* dans la file GitHub ne préempte pas le numéro de la présente étude. Une autre soumission distincte sur cette même pièce est également présente dans la file au dernier contrôle ; cette collision doit être réconciliée sans supprimer les textes. **Le numéro de Thésée n’est donc jamais déduit d’une conversation ni d’une suite annoncée.** Le dossier est livré comme objet public destiné à l’allocateur transactionnel.
+
+### 2. Une œuvre de tragédien, sans qualification « satyrique » assurée
+
+Achéos a écrit de nombreux drames satyriques, mais la notice de *Thésée* dans FragTrag n’est **pas** accompagnée de l’appellation « satyrique », contrairement aux entrées *Aithon*, *Alcméon*, *Héphaïstos* ou *Iris*. Il faut respecter cette dissymétrie des témoins. Le mot tragédie peut ici désigner, à titre de classement traditionnel, un drame du répertoire des tragiques ; le genre précis ne doit cependant pas être requalifié sans justification textuelle.
+
+Une capture de taureau pourrait être comique, héroïque ou solennelle ; un sanctuaire d’Artémis pourrait appartenir à une situation de supplication, de voyage ou de récit. Aucun de ces motifs ne détermine le genre. **L’œuvre est traitée comme tragédie perdue dans le classement usuel, avec réserve sur sa forme exacte, et non déclarée satyrique par association avec d’autres titres d’Achéos.**
+
+### 3. Qui est Achéos d’Érétrie ?
+
+La **Souda** et les notices antiques associent Achéos d’Érétrie à la scène du Ve siècle av. J.-C. Les chiffres du corpus total divergent : plusieurs traditions lui attribuent 24, 30 ou 44 pièces. La notice universitaire d’**Andrew Brown** dans l’*Oxford Classical Dictionary*, publiée en 2016, distingue l’auteur érétrien du poète homonyme de Syracuse. Une seule victoire est rapportée pour sa carrière, tandis que sa réputation satyrique paraît avoir été considérable.
+
+Un détail historiographique est important : même si le dramaturge écrit dans l’horizon athénien des concours, **il n’est pas Athénien par naissance**. Une étude sur un héros fortement approprié par la cité d’Athènes doit donc éviter l’équivalence automatique entre origine de l’auteur, idéologie de la cité et signification du spectacle. Nous ignorons ses choix particuliers pour *Thésée*, et il serait illégitime de lui prêter d’emblée une célébration du pouvoir impérial athénien.
+
+### 4. Deux systèmes éditoriaux : Nauck et Snell–Kannicht
+
+Dans le catalogue Perseus, l’édition d’**August Nauck, 1889**, donne le dossier d’Achéos aux p. 746–759 et situe *Thésée* à la **p. 751**, immédiatement après *Héphaïstos* et avant *Iris*. Dans le **Tragicorum Graecorum Fragmenta I**, auteur 20, la pièce est associée à deux identifiants, **F 18 et F 18a**. FragTrag.1 transforme ces correspondances en **fragments 18 et 19** de son édition numérique.
+
+La différence de notation est documentaire, non poétique : le suffixe « a » de F 18a signale un ajout ou un ajustement de l’inventaire éditorial, **pas un vers 18a de la pièce**. Le lecteur doit toujours pouvoir retrouver le fragment dans chacun des deux systèmes, sans confondre le numéro du fragment avec celui du futur volume MYTHOS.
+
+### 5. Ce que l’on sait et ce que l’on ignore
+
+**Attesté :** l’attribution d’un titre *Θησεύς* à Achéos et l’existence de deux fragments répertoriés sous le nom de l’œuvre. **Éclairé par le commentaire moderne :** des références à Artémis Saronia et au taureau de Marathon. **Non établi :** la séquence des deux mentions, le locuteur, le destinataire, la métrique exacte de chaque passage dans la présente enquête, le nombre des personnages, la présence de chœur, la date d’une première représentation et la catastrophe ou le bonheur final du héros.
+
+Cette grille de certitude empêche une illusion fréquente dans les dossiers fragmentaires. Parce qu’une légende de Thésée possède une chronologie bien développée chez Plutarque, l’éditeur serait tenté de distribuer les deux fragments aux moments correspondants de cette chronologie. **Le récit de Plutarque est extérieur à la pièce et beaucoup plus tardif ; aucune concordance de thèmes n’autorise un placement scénique certain.**
+
+### 6. Les deux fragments : leur commentaire scientifique moderne
+
+Une monographie de **Benjamin Millis** consacrée à **Anaxandridès**, publiée dans la collection *Fragmenta comica*, explique, à propos des pièces intitulées *Thésée*, que les deux fragments de l’**Achéos d’Érétrie** évoquent respectivement **Artémis Saronia** et **le taureau de Marathon**. Le commentaire est accessible dans l’édition numérique de l’**Académie des sciences de Heidelberg**, p. 109, DOI **10.11588/diglit.52134#0113**. [Consulter la notice et son texte OCR éditorial contrôlé](https://digi.hadw-bw.de/view/frc17/0113).
+
+Le rapport est précieux : il confirme un contenu et situe l’œuvre dans les autres traitements du mythe par les poètes. Il faut cependant le citer avec rigueur. Il n’établit ni un dialogue continu, ni un synopsis, ni le transmetteur antique exact de chaque ligne. Nous conservons les **références TrGF 20 F 18 et F 18a** sans inventer de citation grecque : le commentaire groupé des deux motifs est plus honnête qu’une fausse traduction littérale.
+
+### 7. Le titre Θησεύς et le problème du personnage central
+
+Le titre **Θησεύς** désigne le héros athénien. Il ne prouve pas qu’il prononçait les lignes conservées, ni même que la pièce était exclusivement centrée sur sa conscience. La tragédie grecque utilise parfois le nom d’un personnage comme point d’identification d’une situation plus vaste, où la communauté, les adversaires ou les proches reçoivent une large place.
+
+Un titre personnel ne suffit pas non plus à prouver que le héros traversait toutes les épreuves rassemblées par la mythographie. Il est possible qu’Achéos ait choisi un épisode particulier ou qu’il ait transformé une variante locale. **L’identité du héros est sûre ; l’action précise dans laquelle il était engagé reste inconnue.**
+
+### 8. La première piste : Artémis Saronia n’est pas un décor interchangeable
+
+L’épithète **Saronia** renvoie à un culte d’Artémis dans l’espace de **Trézène**, sur le golfe Saronique. Elle ne constitue pas un simple synonyme d’Artémis « chasseresse » utilisable partout en Grèce. Les épiclèses divines situent fréquemment la relation d’un dieu avec une communauté, un sanctuaire, une fonction ou un paysage.
+
+La présence d’Artémis Saronia dans le dossier fragmentaire est donc un **indice territorial et cultuel**, à traiter séparément du taureau de Marathon. Rien ne démontre qu’elle était appelée sur scène en présence de l’animal, ni qu’un sanctuaire se dressait dans l’orchestra. La proximité géographique des traditions de Thésée ne permet pas d’unir automatiquement les deux thèmes dans une même scène.
+
+### 9. Pausanias II, 30.7 : l’étiologie du nom de Saron
+
+Dans **Pausanias, *Description de la Grèce* II, 30.7**, le roi **Saron**, successeur d’Althépos, aurait fondé un sanctuaire d’Artémis près d’une mer peu profonde et marécageuse, appelée auparavant lagune Phoibéenne. Passionné de chasse, Saron aurait poursuivi une biche jusque dans la mer et péri d’épuisement. Son corps aurait été ramené sur le rivage et enseveli dans l’enclos sacré ; la mer aurait pris ensuite son nom.
+
+Ce récit lie chasse, poursuite, franchissement du rivage, mort et mémoire territoriale. **Il ne parle pas d’une scène d’Achéos.** Il est important parce qu’il montre comment la tradition de l’épithète divine engage un paysage et une histoire de perte humaine. [Pausanias II, 30.7, texte et traduction](https://www.theoi.com/Text/Pausanias2C.html).
+
+### 10. Pausanias II, 32.10 : la fête des Saronia
+
+À **Pausanias II, 32.10**, l’auteur mentionne le sanctuaire d’Artémis Saronia et ajoute que les **Saronia** étaient célébrées chaque année. C’est une attestation du culte en vigueur à l’époque ou dans la mémoire de la communauté décrite par Pausanias. Sa valeur pour la religion trézénienne est réelle, mais sa date et son contexte ne donnent pas une preuve sur le programme liturgique du Ve siècle.
+
+La simple mention d’Artémis Saronia dans un fragment pourrait renvoyer à une prière, un lieu, un épisode de fondation ou une comparaison. Les Saronia attestées chez Pausanias sont un contexte possible, **non la preuve que le drame reproduisait une fête locale**. La philologie doit respecter l’intervalle entre le texte tragique perdu et le pérégète du IIe siècle de notre ère.
+
+### 11. Artémis Saronia et Artémis Soteira : deux épithètes distinctes
+
+Dans **Pausanias II, 31.1**, le sanctuaire d’**Artémis Soteira**, « Salvatrice », est attribué à l’initiative de Thésée après son retour de Crète et sa victoire sur le Minotaure. Cette tradition se rapporte au marché de Trézène. Elle est **différente** de l’étiologie de l’Artémis **Saronia** mentionnée aux chapitres II, 30.7 et II, 32.10.
+
+La proximité des épithètes, d’une même déesse et d’un même territoire peut conduire à une confusion documentaire. Il faut la prévenir explicitement : **la mention d’Artémis Saronia dans les fragments d’Achéos n’est pas une citation assurée d’Artémis Soteira ni une preuve de représentation de l’épisode crétois**. La distinction des cultes est un résultat positif de l’analyse.
+
+### 12. Le problème de la localité : Thésée entre Trézène et Athènes
+
+Le héros a une identité narrative double : il appartient par sa mère **Aithra** à Trézène, tandis que la succession d’**Égée** l’inscrit dans l’histoire athénienne. Les traditions lui donnent aussi, suivant les versions, une ascendance divine associée à Poséidon. La présence d’un culte trézénien dans un titre de Thésée rend cette pluralité particulièrement intéressante.
+
+La tragédie athénienne pouvait représenter un héros dont le prestige civique dépasse les frontières de la cité, mais il faut se garder d’en faire une simple figure nationaliste. Le personnage est construit par des réseaux de parenté, des lieux de naissance et des routes. La géographie mythique permet de penser la **citoyenneté symbolique** sans identifier l’idéologie d’Achéos.
+
+### 13. Trézène, cité de mémoire et de sanctuaires
+
+Les descriptions de Pausanias **II, 30–33** présentent Trézène comme un territoire saturé de sanctuaires et de récits fondateurs. Les cultes d’Athéna et de Poséidon, les traditions de la naissance de Thésée, Artémis Saronia, Artémis Soteira et le sanctuaire d’Hippolyte dessinent un paysage religieux pluriel.
+
+Le poète pouvait connaître certains de ces récits ; nous ignorons lesquels. Un sanctuaire évoqué dans un fragment ne prouve pas un accès direct à Trézène, une enquête sur place ou la reproduction de son architecture. Des cartes et photographies de vestiges peuvent servir de **contextes historiques et géographiques**, jamais de plans du décor de la tragédie.
+
+### 14. Deuxième piste : le taureau de Marathon
+
+Le **taureau de Marathon** est une figure de l’imaginaire héroïque attique. Les traditions racontent qu’un animal dangereux ravage la région de Marathon, que Thésée parvient à le maîtriser et qu’il le conduit jusqu’à Athènes. Le thème est présent dans la peinture de vases dès l’époque archaïque tardive et classique.
+
+La mention du taureau dans le dossier d’Achéos pourrait renvoyer à la **capture**, au **souvenir de la capture**, au **sacrifice**, à la **menace subie par la région** ou à une autre partie du cycle. Le fragment n’établit ni une confrontation montrée en scène, ni la présence d’un animal théâtral, ni la victoire finale. La bête nommée doit être séparée de la manière dont le dramaturge l’utilisait.
+
+### 15. Le taureau crétois et le taureau marathonien
+
+Dans une tradition mythographique largement répandue, l’animal vaincu à Marathon est le **taureau crétois** que **Héraclès** avait auparavant capturé lors de ses travaux. Après avoir été conduit en Grèce, le taureau aurait été relâché et aurait fini par parcourir plusieurs régions jusqu’à l’Attique. La **Bibliothèque pseudo-apollodorienne II, 5.7** développe ce passage.
+
+Le trajet de l’animal permet d’articuler deux univers héroïques, celui d’Héraclès et celui de Thésée. Mais il serait abusif d’affirmer qu’Achéos a raconté tous les déplacements de la bête. Le fragment peut la nommer sans exposer l’histoire complète de sa provenance. [Dossier comparatif des sources anciennes sur le taureau crétois](https://www.theoi.com/Ther/TaurosKretaios.html).
+
+### 16. Diodore de Sicile IV, 59.6 : la capture et le sacrifice
+
+Dans la ***Bibliothèque historique* IV, 59.6**, **Diodore** place l’épisode après la reconnaissance de Thésée par Égée. Il raconte que Thésée maîtrise le taureau de Marathon, auparavant amené de Crète par Héraclès, et l’apporte à Athènes ; **Égée** reçoit l’animal et le sacrifie à **Apollon**.
+
+Cette version donne au père une fonction rituelle décisive et au fils une fonction héroïque de capture. Elle permet de penser l’intégration de la prouesse individuelle dans une autorité dynastique et cultuelle. **Elle n’est pas le synopsis d’Achéos** ; aucun personnage paternel ni sacrifice spécifique ne peuvent être importés sans texte. [Diodore IV, 59.6](https://www.theoi.com/Text/DiodorusSiculus4D.html).
+
+### 17. Plutarque, *Vie de Thésée* XIV : montrer le taureau vivant
+
+Dans la ***Vie de Thésée* XIV, 1**, **Plutarque** insiste sur le souci du héros de se rendre utile au peuple : il capture le taureau qui trouble la **Tétrapole** de Marathon, le conduit **vivant** à travers la ville et le sacrifie à **Apollon Delphinios**. L’événement possède ainsi une dimension publique et une issue rituelle.
+
+L’intérêt historique du récit est la transformation d’une menace animale en une preuve visible d’autorité. **Un taureau vivant présenté devant la communauté est différent d’une bête simplement mise à mort sur place.** Le pérégète moraliste donne un sens politique à l’exploit, mais la pièce perdue ne nous indique pas si elle favorisait ce modèle. [Plutarque, XIV, 1–3](https://cts.perseids.org/read/greekLit/tlg0007/tlg001/perseus-eng3/14.1-14.3).
+
+### 18. Capture ou mise à mort : la variation du geste héroïque
+
+Certaines versions font de Thésée un **capturant**, d’autres privilégient le fait qu’il **tue** le taureau. Cette variation est décisive. Capturer suppose de dominer et de transporter un adversaire potentiellement encore dangereux ; tuer interrompt immédiatement son action. Les deux modes d’héroïsme n’ont pas les mêmes conséquences rituelles ni les mêmes valeurs iconographiques.
+
+Une image antique d’un héros tenant l’animal par ses cornes ne prouve pas qu’il le tuait à cet instant. Elle pourrait représenter une prise, un contrôle ou un mouvement du corps. L’éditeur doit donc distinguer dans ses légendes les catégories **« maîtrise », « capture », « conduite » et « sacrifice »** au lieu de les réunir sous le vague terme de « victoire ».
+
+### 19. La Tétrapole : la menace dans un territoire habité
+
+Plutarque situe le dommage causé par le taureau dans la **Tétrapole** de Marathon, ensemble de communautés de l’Attique nord-orientale. Le danger est ainsi territorial, non seulement individuel. Le héros peut être présenté comme un protecteur de populations menacées, et son exploit comme service rendu à un groupe.
+
+Il ne faut pas projeter dans l’âge mythique la structure administrative des dèmes classiques sans réserve. Le terme et la géographie peuvent refléter la manière dont des auteurs postérieurs organisent les récits du passé. L’analyse convient à une histoire de la représentation civique ; elle ne démontre pas l’existence d’une scène de débat des habitants chez Achéos.
+
+### 20. Hécalé : une autre héroïne dans l’ombre de Thésée
+
+La suite de **Plutarque XIV, 2–3** raconte qu’une vieille femme appelée **Hécalé** hébergea Thésée alors qu’il allait affronter le taureau. Elle fit vœu de sacrifier à Zeus si le jeune héros revenait sain et sauf, mais mourut avant son retour. Le héros lui rendit hommage en fondant ou en promouvant un culte associé aux **Hécalésia** ; Plutarque rattache le récit à **Philochore**.
+
+Cet épisode complexifie l’exploit : la victoire ne dépend plus seulement de la force, mais aussi de l’accueil reçu d’une personne socialement ordinaire. Le cycle s’ouvre à la mémoire d’une femme âgée et à la dette envers elle. Ce n’est toutefois pas une preuve qu’Hécalé était personnage de la pièce d’Achéos. [Plutarque XIV, 2–3](https://www.theoi.com/Text/PlutarchTheseus.html).
+
+### 21. La mémoire d’Hécalé comme contrepoint au héros
+
+La relation entre Thésée et Hécalé révèle une asymétrie féconde : le héros accomplit une prouesse publique, tandis qu’une femme contribue à sa sécurité par un acte domestique d’hospitalité. La mémoire religieuse peut ensuite donner à cette hospitalité une durée qui dépasse la vie individuelle. La hiérarchie entre action spectaculaire et soin ordinaire est ainsi révisable.
+
+La poésie hellénistique, notamment l’***Hécalé*** de **Callimaque**, développe ce type de récit dans un horizon esthétique propre. On ne peut pas dater la tragédie d’Achéos en la rapprochant de Callimaque, beaucoup plus tardif. Les traditions extérieures éclairent un **réseau mythique**, pas un emprunt direct démontré.
+
+### 22. Le taureau et le sacrifice à Apollon
+
+Chez Diodore comme chez Plutarque, la capture se termine par un sacrifice à **Apollon**, quoique l’agent exact diffère. Le passage de la bête dangereuse à la victime offerte permet de penser la conversion d’une force incontrôlée en geste rituel reconnu. Mais ce modèle ne doit pas être présenté comme l’origine historique du sacrifice à Apollon.
+
+Le fragment d’Achéos mentionne le taureau selon le dossier savant ; il ne garantit pas une scène de sacrifice. Aucune description de couteau, d’autel, de procession ou de prière ne peut être ajoutée sans témoin. Le chercheur peut expliquer l’issue rituelle des **récits conservés**, tout en déclarant inconnue celle du **drame perdu**.
+
+### 23. Apollon Delphinios et Artémis Saronia : deux cultes à ne pas fusionner
+
+La présence d’Artémis Saronia dans un fragment et d’Apollon Delphinios dans le récit de Plutarque pourrait conduire à imaginer un système conjoint de culte. Ce serait prématuré. Les deux désignations renvoient à des lieux et à des traditions différents. Le fait qu’Artémis et Apollon soient frère et sœur dans la mythologie n’implique pas leur présence commune dans la tragédie d’Achéos.
+
+Le problème consiste à reconnaître qu’une seule œuvre peut évoquer plusieurs espaces sans reconstituer arbitrairement un itinéraire cultuel. **La relation entre les deux motifs du dossier reste inconnue**. Leur rapprochement est utile pour réfléchir au territoire, non pour imposer un syncrétisme dramatique.
+
+### 24. Le Minotaure n’est pas le taureau de Marathon
+
+Un risque majeur concerne la confusion de trois figures : le **taureau crétois** capturé par Héraclès, son prolongement **marathonien** dans plusieurs traditions, et le **Minotaure**, créature hybride du labyrinthe de Crète. Même si leurs récits se touchent à travers Minos et Pasiphaé, le Minotaure n’est pas simplement le taureau capturé par Thésée à Marathon.
+
+L’iconographie du Minotaure est abondante et particulièrement prestigieuse dans l’art athénien, mais elle ne peut illustrer sans légende précise un passage sur le taureau de Marathon. Le présent dossier maintiendra des fiches distinctes pour les deux groupes d’images.
+
+### 25. Une géographie héroïque en deux horizons
+
+Les deux motifs fragmentaires orientent l’enquête vers **Trézène et le golfe Saronique**, d’une part, **Marathon et l’Attique**, d’autre part. Une carte géographique moderne pourrait visualiser ces territoires, avec l’itinéraire vers Athènes, mais une carte ne donne pas l’ordre de l’action. Le héros circule dans des espaces dont les traditions se sont construites et réorganisées à des époques diverses.
+
+La tentation d’en faire un « voyage initiatique » complet est forte. Pourtant le rôle du voyage dépendrait de la structure propre du drame. Il est possible que l’un des lieux soit seulement rappelé dans une réplique, ou que les deux soient évoqués depuis une troisième ville. **Aucune continuité spatiale scénique n’est assurée.**
+
+### 26. Thésée et les identités multiples de l’Attique
+
+À Athènes, Thésée peut apparaître comme unificateur de l’Attique et figure d’une mémoire commune. Mais son origine trézénienne et son enracinement dans plusieurs traditions locales rappellent qu’un héros « athénien » n’est pas nécessairement limité à un seul territoire. Le récit civique résulte souvent d’une **appropriation de récits pluriels**.
+
+Thucydide **II, 15** raconte, à propos du **synœcisme**, comment les communautés de l’Attique auraient été réunies par Thésée autour d’un centre politique. Le texte est à lire comme mémoire grecque du passé, pas comme un acte administratif contemporain de Thésée. [Thucydide, II, 15](https://www.perseus.tufts.edu/hopper/text?doc=Thuc.+2.15).
+
+### 27. Les os de Thésée et la politique de la mémoire
+
+Les récits rapportent que **Cimon** aurait fait revenir à Athènes les restes du héros depuis Scyros au Ve siècle. La mémoire funéraire, le culte héroïque et la représentation civique se rejoignent alors dans un événement politiquement chargé. Dans l’iconographie et la vie publique, Thésée devient de plus en plus visible au cours de l’époque archaïque tardive et classique.
+
+Il serait tentant de dater automatiquement la pièce d’Achéos après cette mise en avant. Nous ne disposons pas d’un repère de représentation pour le démontrer. L’étude de **Sophie Mills**, *Theseus, Tragedy and the Athenian Empire* (1997), est centrale pour comprendre la tension entre le héros mythique et les idéaux politiques. [Notice Oxford](https://academic.oup.com/book/47141).
+
+### 28. La représentation de Thésée dans les cités grecques
+
+Un héros peut servir de signe de puissance, de justice, de conquête ou de médiation. Cependant, il ne faut pas présupposer qu’une œuvre portant son nom adhère à toute politique de la cité qui l’honore. Le dramaturge peut exalter, interroger ou contredire le récit dominant. Les pièces conservées de l’époque montrent la diversité des traitements des héros, y compris ceux qui semblent idéalisés.
+
+La présence d’Artémis Saronia rend particulièrement intéressante la relation entre **mémoire locale trézénienne** et **prestige athénien**. Mais le rapport de ces deux pôles dans la pièce n’est pas démontré. La réception politique ne fournit pas une fin de tragédie.
+
+### 29. Le taureau et la maîtrise du danger
+
+Le combat contre une bête ravageuse met en scène une frontière entre l’espace domestiqué et une puissance qui menace les communautés. La capture de l’animal peut être pensée comme une démonstration de maîtrise héroïque, mais l’analyse ne doit pas devenir un récit universel selon lequel « civilisation » signifierait toujours « domination animale ».
+
+Les Grecs ont des relations nombreuses avec le taureau : élevage, concours, sacrifice, richesse, images de souveraineté, mythes de métamorphose. Un animal précis peut entrer dans plusieurs systèmes de valeurs. La bête de Marathon ne peut donc être réduite sans preuve à un symbole de chaos politique ou d’ennemi extérieur.
+
+### 30. Héraclès et Thésée : imitation ou concurrence ?
+
+Le récit qui fait passer le taureau par l’exploit d’Héraclès puis par celui de Thésée permet de comparer les deux grands modèles héroïques. Héraclès reçoit des travaux imposés, souvent à une échelle panhellénique ; Thésée est présenté dans plusieurs sources comme protecteur des routes, des communautés et d’Athènes. Ces différences dépendent des narrateurs et ne sont pas absolues.
+
+Une iconographie d’exploits multiples peut avoir aidé à construire l’image de Thésée en regard de celle d’Héraclès. **Jenifer Neils**, *The Youthful Deeds of Theseus* (1987), suit cette croissance des thèmes figurés. Mais la comparaison ne permet pas de déclarer que la pièce d’Achéos opposait les deux héros ou les faisait se rencontrer. [Notice bibliographique et compte rendu](https://www.persee.fr/doc/antiq_0770-2817_1990_num_59_1_2300_t1_0559_0000_2).
+
+### 31. La route de Trézène à Athènes : un répertoire d’épreuves
+
+Dans les versions développées du mythe, le jeune Thésée choisit une route terrestre dangereuse et affronte des brigands comme **Sinis, Sciron, Cercyon et Procruste**. Les récits privilégient diverses combinaisons et divers ordres d’épisodes. Une telle série fournit un imaginaire de libération du passage et de maîtrise des dangers.
+
+La pièce d’Achéos n’est pas une compilation obligatoire de ce parcours. Les deux fragments conservés ne nomment pas ces adversaires. Les inviter dans une reconstruction reviendrait à combler l’œuvre perdue avec un manuel de mythographie, sans établir pourquoi le dramaturge aurait dû les sélectionner.
+
+### 32. Égée, Médée et la reconnaissance du fils
+
+La tradition de Thésée à Athènes raconte fréquemment une reconnaissance par des signes laissés autrefois à Trézène, ainsi que l’hostilité de **Médée** à l’égard du jeune homme. Chez **Plutarque, *Thésée* XII**, le père reconnaît l’épée au moment où l’étranger va boire une coupe dangereuse. L’épisode fait de la filiation une épreuve de perception et de confiance.
+
+Aucune réplique du *Thésée* d’Achéos n’est assignée à Médée, Égée ou Aithra. L’intérêt du parallèle est d’identifier une autre **possibilité dramatique** dans le cycle, non d’établir que la tragédie faisait jouer une tentative d’empoisonnement.
+
+### 33. La royauté et les obligations envers les communautés
+
+Un héros qui maîtrise une bête dangereuse peut être présenté comme chef légitime parce qu’il protège les habitants. L’issue sacrificielle du taureau associe ensuite l’action violente à un ordre religieux. Le récit réunit ainsi trois modes d’autorité : puissance physique, reconnaissance publique, rapport aux dieux.
+
+La tragédie peut traiter les contradictions entre ces trois plans. Mais nous ignorons si Achéos les faisait entrer en conflit. Une interprétation prudente s’en tient à une question générale : **quand une force personnelle devient-elle service du commun ?** La réponse n’est conservée ni comme vers du poète ni comme résolution de sa pièce.
+
+### 34. Le taureau et l’usage politique des images
+
+Les représentations de Thésée et du taureau apparaissent dans une culture où les exploits du héros peuvent symboliser la puissance d’Athènes. Les vases attiques, visibles à l’intérieur et à l’extérieur de la cité, participent à la circulation des thèmes. Il serait toutefois réducteur de qualifier chacun d’entre eux de « propagande d’État ».
+
+Une image est produite pour des commanditaires et des usages spécifiques ; une scène mythique peut être appréciée pour sa grâce, sa difficulté technique, son prestige ou ses implications politiques. La notice du **Metropolitan Museum of Art** sur le héros souligne la croissance de son importance, mais ne permet pas de lire l’intention de chaque vase ni de chaque dramaturge. [Le Met, *Theseus, Hero of Athens*](https://www.metmuseum.org/it/essays/theseus-hero-of-athens).
+
+### 35. La réception tragique : Thésée protecteur des suppliants
+
+Dans les ***Suppliantes* d’Euripide**, Thésée intervient pour assurer le respect des morts et la récupération des corps après l’expédition des Sept contre Thèbes. La pièce utilise le héros comme figure de pouvoir et de décision, et son discours politique invite à comparer différentes manières de gouverner.
+
+Le présent titre d’Achéos ne doit pas être identifié à cette intrigue au seul motif que Thésée y est important. Un autre dossier MYTHOS a déjà étudié les épisodes thébains ; **une tragédie intitulée *Thésée* n’est pas nécessairement une tragédie des Sept**. Sophie Mills analyse en détail l’usage civique du héros chez Euripide, sans que celui-ci puisse devenir la clé de toutes les œuvres perdues. [Mills, chapitre sur les Suppliantes](https://academic.oup.com/book/47141/chapter-abstract/422366336).
+
+### 36. Euripide, *Héraclès* : le héros qui offre refuge
+
+Dans ***Héraclès*** d’Euripide, Thésée accueille Héraclès au terme d’une catastrophe familiale, lui offrant une voie de survie sociale et un avenir athénien. Le modèle de secours du héros n’a pas besoin d’être identique à celui de la capture du taureau : il manifeste un autre type de force, lié à la solidarité.
+
+La comparaison offre une question philosophique : le héros est-il défini par le **danger qu’il supprime** ou par l’**assistance qu’il accorde à celui qui souffre** ? Le Thésée d’Achéos pourrait se situer dans l’un ou l’autre horizon, sans que nous puissions trancher. [Mills, *Theseus and Heracles*](https://academic.oup.com/book/47141/chapter-abstract/422366353).
+
+### 37. Euripide, *Hippolyte* : les défauts du roi
+
+Dans ***Hippolyte***, Thésée croit l’accusation portée contre son fils et appelle un châtiment dont les conséquences sont tragiques. Le même héros peut donc apparaître, dans une œuvre conservée, **impuissant à juger correctement**, malgré son prestige. Cette dimension contredit la réduction de Thésée à un modèle toujours idéal de justice.
+
+La difficulté d’interpréter une pièce perdue augmente lorsqu’un héros dispose de portraits aussi contrastés. Rien n’autorise à choisir la face bienfaisante ou la face criminelle d’avance. Le commentaire d’Achéos doit se fonder sur ses propres fragments, non sur le personnage moral qui convient le mieux au lecteur moderne.
+
+### 38. Sophocle, *Œdipe à Colone* : la protection d’un étranger
+
+Dans ***Œdipe à Colone***, Thésée accueille un étranger rejeté et respecte des obligations de protection qui engagent sa cité. L’hospitalité devient une vertu civique confrontée aux prétentions d’autres pouvoirs. Cette scène dramatique réelle peut éclairer, par analogie, l’importance de l’accueil d’Hécalé et de la protection des communautés dans les récits de Thésée.
+
+Mais Sophocle ne transmet pas le texte d’Achéos, et les motifs ne doivent pas être amalgamés. Le Thésée d’Œdipe à Colone appartient à une situation dramatique précise ; il ne constitue pas un personnage permanent dont on pourrait recopier les paroles ailleurs.
+
+### 39. Une difficulté centrale : le héros peut être un emblème, non un protagoniste souffrant
+
+**Sophie Mills**, dans son chapitre **« Theseus in Fragmentary Tragedy »**, explique qu’un héros représentant l’idéal de sa cité rencontre une difficulté particulière pour devenir héros tragique au sens d’une grande erreur suivie de souffrance. Le rôle civique exemplaire peut entrer en tension avec une dramaturgie de faute et de catastrophe.
+
+Cette hypothèse critique s’applique comme **cadre de questionnement**, non comme diagnostic sur la pièce d’Achéos. Il se peut que l’œuvre lui ait donné un rôle protecteur, qu’elle l’ait montré vulnérable ou qu’elle ait déplacé le centre de souffrance vers d’autres personnages. Les deux fragments ne nous apprennent pas quelle solution poétique a été choisie. [Mills, chapitre 7, p. 222–262](https://academic.oup.com/book/47141/chapter-abstract/422366397).
+
+### 40. Le titre personnel et la disparition du chœur
+
+Le fait que le titre soit celui de Thésée ne précise pas la composition du chœur. Celui-ci aurait pu incarner les habitants de Marathon, des voyageurs, une communauté trézénienne, des compagnons ou tout autre groupe selon l’épisode retenu. Mais aucune de ces identités n’a été vérifiée dans les fragments.
+
+Le chœur tragique donne souvent un point de vue collectif sur les actions individuelles. Envisager cette fonction est utile pour interpréter la relation entre le héros et les populations exposées au taureau. Il serait néanmoins fautif de publier une « entrée du chœur de Marathon » sous le nom d’Achéos : c’est une scène non conservée.
+
+### 41. Le problème du lieu scénique : Trézène, Marathon ou Athènes ?
+
+La coexistence d’Artémis Saronia et du taureau de Marathon pose une question topographique. Faut-il imaginer une pièce située à Trézène, puis une action déplacée vers Marathon ? La tragédie du Ve siècle utilise des représentations conventionnelles de l’espace ; des lieux peuvent être racontés sans être montrés. Il n’y a aucune raison d’identifier le lieu scénique par addition des toponymes cités.
+
+**Hypothèse minimale :** les deux fragments appartiennent au même titre, mais chacun peut évoquer un événement ou un lieu depuis une position inconnue. La diversité des noms géographiques est un indice de richesse du répertoire mythique, non la preuve d’un itinéraire suivi sur la scène.
+
+### 42. Première hypothèse de reconstruction : le taureau comme action centrale
+
+La pièce pourrait porter sur la capture du taureau de Marathon, avec une référence à Artémis Saronia liée au passé du héros ou à un vœu. **Appui :** la mention d’un adversaire animal lié à un exploit célèbre. **Limite :** le titre seul et le fragment ne prouvent ni que le taureau apparaissait, ni que la capture était représentée, ni qu’Artémis intervenait dans cet épisode.
+
+Le récit pourrait porter sur les effets de la capture plutôt que sur l’action elle-même ; il pourrait même citer une prouesse antérieure. Il faut donc distinguer **« motif attesté »**, **« épisode proposé comme centre »** et **« mise en scène inventée »**. La confiance dans cette reconstitution est **faible**.
+
+### 43. Deuxième hypothèse : l’origine trézénienne et le seuil du voyage
+
+La mention d’Artémis Saronia pourrait renvoyer au monde trézénien du jeune Thésée et, par extension, à ses origines, à un sanctuaire, à une relation entre mère et fils ou à un départ. Le taureau de Marathon se situerait alors dans un avenir, un souvenir ou un récit narratif reliant ces espaces.
+
+Ce modèle a une élégance géographique mais **aucun texte conservé ne confirme le parcours**. Il ne faut ni créer un prologue où Aithra remet les signes à son fils ni imposer un chant d’Artémis Saronia. **Confiance : faible ; utilité : exploration de la double identité de Thésée.**
+
+### 44. Troisième hypothèse : le taureau comme mention secondaire
+
+Le taureau pourrait être évoqué comme exemple de bravoure ou comme comparaison dans une autre action dramatique centrée sur Thésée : une reconnaissance, un conflit de pouvoir, une délivrance de suppliants ou un épisode crétois. Artémis Saronia pourrait elle-même n’être qu’une allusion ponctuelle.
+
+Cette hypothèse ne fournit aucune nouvelle intrigue ; elle rappelle qu’un fragment peut **nommer sans représenter**. Elle empêche de confondre la fréquence d’un motif dans les discussions modernes avec son poids dans la composition originale. **Confiance dans l’importance dramatique des motifs : indéterminée.**
+
+### 45. Quatrième position : constat minimal de la perte
+
+Nous savons qu’Achéos a écrit un *Thésée* et que deux fragments lui sont attribués sous les numéros critiques indiqués. Des études modernes associent ces fragments à Artémis Saronia et au taureau de Marathon. **Tout le reste de la narration est perdu.** Cette position n’est pas une reconstitution, mais une limite documentaire claire.
+
+Une encyclopédie peut produire un dossier substantiel sans imaginer de cinq actes ni de dénouement. Il est préférable d’expliquer le rôle des sources, la valeur du titre et les enjeux des motifs plutôt que de livrer un pseudo-argument tragique attrayant mais infondé.
+
+### 46. La différence entre les fragments et les mythes qui les entourent
+
+Les fragments sont des **restes textuels attribués** à une œuvre, conservés souvent par des auteurs qui poursuivent un autre objectif. Les récits de Plutarque, Diodore, Pausanias ou du pseudo-Apollodore sont des **narrations extérieures**. Les vases sont des **objets figurés**, et les analyses de Mills, Neils ou Kearns des **lectures historiques modernes**.
+
+Chacun peut être étudié avec précision, mais leurs preuves ne sont pas interchangeables. Une image du taureau ne prouve pas une ligne d’Achéos ; une mention d’Artémis ne prouve pas une procession tragique ; un récit complet de Plutarque ne comble pas la pièce perdue. Ce principe méthodologique doit être conservé dans les résumés destinés au public.
+
+### 47. Aristote : le problème de la composition de l’action
+
+Dans ***Poétique* 1450a–1451b**, Aristote insiste sur le fait que la tragédie est d’abord une **composition d’actions**. Un titre et deux allusions ne donnent pas cette composition. Il est donc impossible de savoir quels événements formaient la nécessité ou la vraisemblance propre au *Thésée* d’Achéos.
+
+Aristote distingue aussi les constructions dramatiques réussies d’une simple succession d’événements. Une encyclopédie qui organiserait la vie entière de Thésée en chapitres modernes ne reconstituerait pas le poète, elle composerait à sa place. **L’exactitude du répertoire mythique ne remplace pas l’établissement du muthos dramatique perdu.**
+
+### 48. Platon : la formation par les récits héroïques
+
+Dans ***République* II, 377e–378b**, Platon s’interroge sur l’effet éducatif des récits mettant en scène les dieux et les héros. La puissance d’un modèle mythique n’est pas automatiquement bénéfique : les histoires doivent être interrogées quant à ce qu’elles invitent à admirer ou à imiter.
+
+Appliqué à Thésée, ce cadre conduit à demander si l’exploit de Marathon valorise la force, le bien commun, la maîtrise de soi ou la seule capacité d’imposer un ordre. Mais **Platon ne commente pas ici la tragédie d’Achéos**. L’analyse platonicienne est une interrogation philosophique sur le récit héroïque, pas une restitution de l’intention du dramaturge.
+
+### 49. Platon : le mythe, la raison et les traditions locales
+
+Dans le ***Phèdre* 229b–230a**, Socrate évoque le récit de Borée et d’Orithyie et refuse de consacrer son temps à rationaliser toutes les légendes locales tant qu’il ne se connaît pas lui-même. Le passage illustre la tension entre les explications des mythes, leur enracinement géographique et les questions philosophiques plus générales.
+
+L’épithète Artémis Saronia offre un terrain analogue : le savant peut raconter une étiologie locale, mais la question de son sens éthique n’est pas résolue par la seule identification du sanctuaire. Il serait abusif de dire qu’Achéos plaçait un raisonnement socratique sur scène. **La philosophie sert à comprendre les limites d’une méthode, pas à créer un dialogue perdu.**
+
+### 50. Hegel : le héros, le particulier et l’universel
+
+Les ***Leçons sur l’esthétique*** de Hegel analysent notamment des conflits où les actions particulières mettent en jeu des puissances éthiques générales. La figure de Thésée peut servir d’exemple heuristique du passage entre un acte personnel et une reconnaissance collective : il maîtrise le danger pour une communauté, puis son geste peut être converti en mémoire religieuse ou politique.
+
+Mais il n’existe pas de « dialectique hégélienne » conservée dans le fragment d’Achéos. Nous ne savons pas si la tragédie présentait un conflit de normes, une faute ou une réparation. La lecture hégélienne repose sur **les traditions de réception et les catégories d’analyse du XIXe siècle**, pas sur une fable attribuable au Ve siècle.
+
+### 51. Hegel : les risques de confondre héros et État
+
+Une interprétation historiciste rapide pourrait faire de Thésée une simple incarnation de l’État athénien. Une telle lecture effacerait les traditions de Trézène, la relation à Hécalé, les divergences des sacrifices et la pluralité des portraits tragiques du héros. La puissance du mythe vient aussi de ce qu’il n’est pas une doctrine civique univoque.
+
+La philosophie peut rendre visible la tension entre **identité collective** et **liberté d’une action singulière**. Elle ne peut décider par elle-même quel camp le dramaturge faisait triompher. La monographie conserve une perspective critique sur l’idéologie athénienne sans la projeter comme intention certaine d’Achéos.
+
+### 52. Nietzsche : la tragédie et la médiation du mythe
+
+Dans ***La Naissance de la tragédie***, Nietzsche interprète les rapports entre monde héroïque, expérience dionysiaque et formes de représentation. Le mythe peut devenir sur scène autre chose qu’une anecdote : une expérience sensible et collective où la souffrance, le danger et la grandeur prennent un sens esthétique.
+
+Cependant, les fragments de *Thésée* ne conservent ni chœur, ni masque, ni musique, ni issue émotionnelle. Les catégories nietzschéennes peuvent poser la question de l’intensité du mythe représenté, mais non préciser la mise en scène ni prouver un caractère dionysiaque du taureau. L’étude de Nietzsche est une **interprétation moderne du genre**, non une archive de la représentation d’Achéos.
+
+### 53. Nietzsche : la vertu héroïque n’est pas une réponse simple
+
+Un lecteur de Nietzsche pourrait chercher dans Thésée la volonté de puissance ou l’affirmation de soi. Mais réduire le mythe à un acte de domination perdrait la relation à ceux que le héros protège, aux dieux qu’il honore et aux morts qu’il commémore. La tradition contient une pluralité d’évaluations de la puissance, dont la violence peut être tantôt protectrice, tantôt destructive.
+
+La comparaison philosophique doit conserver cette ambivalence. Dans *Hippolyte*, Thésée commet une injustice catastrophique ; dans les *Suppliantes*, il peut défendre un droit des morts ; dans le récit du taureau, il libère des habitants. **Aucune de ces versions ne détermine automatiquement le choix du poète perdu.**
+
+### 54. Philosophie politique : quand la force devient-elle légitime ?
+
+La capture d’un animal qui ravage l’Attique représente une force dont l’utilité paraît immédiate. Pourtant la légitimité de la force peut être évaluée selon ses bénéficiaires, ses limites et ses fins. Un récit où le héros conduit vivant le taureau au cœur d’Athènes constitue une démonstration publique de maîtrise, non une simple destruction de l’adversaire.
+
+L’analyse pourrait éclairer une distinction entre **violence de conquête**, **protection des faibles** et **institution du pouvoir**. Mais les deux fragments d’Achéos ne contiennent aucun manifeste politique. Ces notions appartiennent à notre cadre critique et doivent rester séparées du contenu transmis.
+
+### 55. La question des animaux : une lecture historique sans allégorie mécanique
+
+Le taureau n’est pas seulement une métaphore. Il appartient à une histoire des relations entre les Grecs et les animaux : élevage, force de traction, sacrifice, combats figurés, richesse agricole et représentations d’une puissance dangereuse. La tradition héroïque transforme un animal concret en figure extraordinaire, sans effacer automatiquement ses fonctions culturelles ordinaires.
+
+Une lecture écologique ou éthique contemporaine peut demander comment un récit légitime la domination d’une bête, mais elle ne doit pas attribuer à Achéos une conscience moderne du bien-être animal. L’analyse est utile lorsqu’elle permet de distinguer **l’animal du récit**, **l’animal rituel** et **l’animal figuré**.
+
+### 56. Mythologie comparée : le héros et la bête
+
+Des récits de héros domptant des êtres redoutables existent dans de nombreuses cultures antiques. Cependant les ressemblances ne suffisent pas à démontrer une origine commune, un emprunt ou une identité de fonction. Comparer Thésée, Héraclès et d’autres vainqueurs de bêtes doit passer par la datation des récits et par l’étude de leur inscription politique, religieuse et iconographique.
+
+Le rapprochement le plus solide est **interne au corpus grec** : la même bête, selon certaines traditions, a été maîtrisée d’abord par Héraclès puis par Thésée. Cette séquence de transmission héroïque est attestée par des mythographes ; elle ne prouve pas que les deux héros apparaissaient ensemble dans la pièce d’Achéos.
+
+### 57. L’hospitalité comme contrepoint comparatif à la victoire
+
+Hécalé, vieillissante et sans prestige guerrier, incarne un autre mode d’action : accueillir, nourrir et formuler un vœu. Ce motif peut être comparé aux traditions grecques de **xenia** et de récompense ou devoir envers l’hôte. Il aide à penser un héroïsme qui ne résulte pas uniquement de la puissance corporelle.
+
+Nous ignorons si la tragédie d’Achéos associait la capture du taureau et l’hospitalité d’Hécalé. Cette association est **dans Plutarque et la tradition d’Hécalé**, non dans le commentaire des deux fragments pris isolément. L’analogie ne doit pas devenir un épisode inventé sous le titre ancien.
+
+### 58. Iconographie scientifique I : le taureau de Marathon au Metropolitan Museum
+
+**Objet :** cratère attique à calice à figures rouges, attribué à un peintre du **groupe de Polygnotos**, vers **440–430 av. J.-C.**, **Metropolitan Museum of Art, New York, numéro d’inventaire 56.171.48**. Le musée identifie sur la face principale **Thésée saisissant le taureau de Marathon** ; au revers figurent trois jeunes hommes. La notice officielle précise que l’image de l’œuvre appartient au **domaine public**. [Fiche institutionnelle du Met](https://www.metmuseum.org/art/collection/search/254906).
+
+**Légende à utiliser :** « Thésée maîtrisant le taureau de Marathon, cratère à calice attique à figures rouges du groupe de Polygnotos, vers 440–430 av. J.-C., Metropolitan Museum of Art, inv. 56.171.48. Représentation antique du cycle de Thésée ; ne constitue pas une scène identifiée du *Thésée* d’Achéos. » La photographie liée à la notice peut servir de référence, sous contrôle du crédit et des droits muséaux annoncés.
+
+### 59. Iconographie scientifique II : le stamnos du British Museum
+
+**Objet :** stamnos attique à figures rouges, **British Museum, enregistrement 1843,1103.58**, daté dans sa notice institutionnelle de la première moitié du Ve siècle av. J.-C. Une face montre Thésée maîtrisant un taureau, avec une figure féminine voilée susceptible d’avoir été rapprochée d’Hécalé ; le revers présente une autre épreuve du héros, souvent identifiée à Procruste.
+
+La notice et la photographie de l’institution doivent faire autorité pour la légende et les droits : [British Museum, 1843,1103.58](https://www.britishmuseum.org/collection/object/G_1843-1103-58). L’identification de la figure féminine reste conditionnelle tant qu’une inscription ou un argument iconographique décisif n’est pas donné. **Aucune relation directe avec une représentation d’Achéos n’est établie.**
+
+### 60. Iconographie scientifique III : le Minotaure, document de contraste
+
+**Objet :** amphore attique à figures noires, signée par le potier **Taléidès** et attribuée au **Peintre de Taléidès**, vers **540–530 av. J.-C.**, **Metropolitan Museum of Art, inv. 47.11.5**. Sur la face principale, Thésée tue le **Minotaure** ; sur le revers se déroule une scène de pesée de marchandises. [Notice du Metropolitan Museum](https://www.metmuseum.org/art/collection/search/254578).
+
+Cet objet est volontairement classé comme **comparandum et non illustration du taureau de Marathon**. Il montre combien la typologie iconographique distingue un monstre hybride du taureau saisi à Marathon. Une galerie publique sérieuse doit signaler cette différence plutôt que réunir toutes les scènes de bovins sous une seule étiquette.
+
+### 61. Iconographie scientifique IV : Sciron et le Minotaure
+
+**Objet :** amphore attique à figures rouges, attribuée au **Peintre de Gallatin**, vers **480 av. J.-C.**, **Metropolitan Museum of Art, inventaire 41.162.101**. Elle oppose une scène de **Thésée et Sciron** à une autre de **Thésée et le Minotaure**. Le musée explique la fonction des exploits du héros dans la représentation de la fortune mythique de l’Attique. [Notice du Met](https://www.metmuseum.org/art/collection/search/254273).
+
+L’objet sert à une comparaison de **construction d’un cycle d’exploits**, pas à illustrer directement F 18 ou F 18a. Il permet de comprendre qu’un même support peut associer différentes prouesses sans constituer le résumé de toutes les aventures du héros.
+
+### 62. Une cartographie qui reconnaît ses propres limites
+
+La carte envisageable pour ce dossier doit distinguer les lieux **Trézène**, **golfe Saronique**, **Marathon** et **Athènes**. Elle pourrait représenter un trajet schématique du monde de l’enfance héroïque vers la région de la capture. Mais ce trajet demeure **un parcours mythographique reconstruit par la recherche**, non un itinéraire scénique attesté.
+
+La légende ne doit ni dessiner la « route exacte des personnages d’Achéos », ni inventer un temple pour le plateau du théâtre. Les noms de lieux antiques exigent d’être ancrés dans des références géographiques reconnues ; le fond cartographique moderne reste une production éditoriale distincte de l’image archéologique.
+
+### 63. Une image ne devient pas une didascalie
+
+Même lorsqu’un vase est daté du temps d’Achéos, il ne fournit pas automatiquement les costumes, gestes, masques et accessoires d’une représentation précise. La popularité du taureau dans l’art attique ne prouve pas que le public a vu un animal sur scène. Un acteur pouvait évoquer un exploit sans qu’il soit mimé ; la peinture peut choisir une phase du récit que le théâtre n’a pas représentée.
+
+Une reconstitution photoréaliste devrait être expressément désignée comme **création moderne hypothétique**, et ne pas être présentée comme preuve archéologique. La meilleure méthode de MYTHOS reste de privilégier les objets inventoriés, avec date, provenance, auteur d’attribution, musée et droits de reproduction.
+
+### 64. Tableau critique : affirmations et degrés de preuve
+
+| Proposition | Statut | Fondement |
+| --- | --- | --- |
+| Achéos d’Érétrie a écrit une pièce intitulée *Thésée* | Attesté dans le répertoire | FragTrag.1 ; Nauck |
+| Références critiques : TrGF I, 20 F 18 et F 18a | Vérifiées | FragTrag.1, fragments modernes 18 et 19 |
+| Les deux fragments renvoient à Artémis Saronia et au taureau de Marathon | Établi par un commentaire savant | Millis, *Fragmenta comica*, p. 109 |
+| Les fragments transmettent une intrigue complète | Faux | Absence de fable continue |
+| Le drame représentait certainement la capture du taureau | Non établi | Inférence depuis une allusion |
+| La déesse Artémis Saronia montait sur scène | Non établi | Aucune distribution conservée |
+| Artémis Saronia et Soteira sont la même épiclèse | Faux | Pausanias II, 30.7 et II, 31.1 |
+| Hécalé intervient sûrement dans la pièce | Non établi | Mythe raconté par Plutarque |
+| Le taureau marathonien est distinct du Minotaure | Établi dans les traditions | Diodore ; Plutarque ; iconographie |
+| Thésée a un rôle de protecteur civique dans des tragédies conservées | Attesté | *Suppliantes*, *Héraclès*, *Œdipe à Colone* |
+| Achéos a voulu célébrer l’empire athénien | Non établi | Interprétation politique non directement prouvée |
+| Les vases du Met montrent des scènes de la pièce | Non établi | Contextes iconographiques autonomes |
+
+### 65. Bibliographie critique : sources primaires et témoins
+
+1. **Achéos d’Érétrie**, *Thésée*, **TrGF I, 20 F 18 et F 18a** ; concordance **FragTrag.1, Achaeus I, titre 9, fr. 18 et 19**. [Concordance universitaire, Université de Patras](https://fragtrag1.upatras.gr/exist/apps/fragtrag/indexc.html). Les deux notations éditoriales doivent rester distinctes et le texte grec complet n’est pas revendiqué.
+2. **August Nauck** (éd.), *Tragicorum Graecorum Fragmenta*, 2e éd., Leipzig, Teubner, **1889**, **p. 751**, dossier *Theseus*. [Catalogue Perseus](https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0309.tlg001.opp-grc1) ; [édition numérisée, Internet Archive](https://archive.org/details/tragicorumgraeco00naucuoft).
+3. **Pausanias**, *Description de la Grèce* **II, 30.7** (Saron et Artémis Saronia), **II, 31.1** (Artémis Soteira fondée selon la tradition par Thésée), **II, 32.10** (fête des Saronia). [Texte et traduction](https://www.theoi.com/Text/Pausanias2C.html).
+4. **Plutarque**, *Vie de Thésée* **XII** (reconnaissance par Égée), **XIV, 1–3** (taureau de Marathon et Hécalé), **XXIV–XXV** (Thésée et mémoire du synœcisme). [Texte et traduction](https://www.theoi.com/Text/PlutarchTheseus.html).
+5. **Diodore de Sicile**, *Bibliothèque historique* **IV, 59.6**, le taureau reçu de Thésée par Égée et sacrifié à Apollon. [Texte en traduction](https://www.theoi.com/Text/DiodorusSiculus4D.html).
+6. **Pseudo-Apollodore**, *Bibliothèque* **II, 5.7**, septième travail d’Héraclès, taureau de Crète et parcours vers Marathon. La tradition est indépendante de la pièce d’Achéos. [Corpus des citations](https://www.theoi.com/Ther/TaurosKretaios.html).
+7. **Thucydide**, *Histoire de la guerre du Péloponnèse* **II, 15**, tradition du synœcisme de Thésée en Attique. [Texte Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Thuc.+2.15).
+8. **Euripide**, *Suppliantes*, *Héraclès*, *Hippolyte* : portraits contrastés de Thésée dans des œuvres conservées, sans fonction de fragments d’Achéos.
+9. **Sophocle**, *Œdipe à Colone* : Thésée comme protecteur d’Œdipe ; comparaison structurale.
+10. **Aristote**, *Poétique* **1450a–1451b**, théorie de la composition de l’action, et **1453a**, réflexion sur l’erreur et la structure tragique. Texte philosophique extérieur à la tragédie perdue.
+11. **Platon**, *République* **II, 377e–378b**, récits des dieux et éducation ; *Phèdre* **229b–230a**, rapport entre mythes locaux et connaissance de soi. Aucune citation d’Achéos n’est connue de ces passages.
+12. **Hésiode et traditions héroïques grecques**, seulement pour comparaison des épreuves et représentations de la force ; ne pas confondre des cycles indépendants.
+
+### 66. Bibliographie secondaire, œuvres d’analyse et musées
+
+1. **Bruno Snell** (éd.), *Tragicorum Graecorum Fragmenta*, vol. I : *Didascaliae tragicae, Catalogi tragicorum et tragoediarum, Testimonia et fragmenta tragicorum minorum*, Göttingen, Vandenhoeck & Ruprecht, **1971** et états éditoriaux ultérieurs. Référence critique d’Achéos, auteur 20.
+2. **Benjamin Millis**, commentaire d’***Anaxandridès***, *Fragmenta comica*, vol. 17, Heidelberg, **Verlag Antike, 2015**, **p. 109** ; mention explicite des deux fragments du *Thésée* d’Achéos et des motifs Artémis Saronia / taureau de Marathon. [Édition numérique, Heidelberger Akademie der Wissenschaften](https://digi.hadw-bw.de/view/frc17/0113), DOI **10.11588/diglit.52134#0113**.
+3. **Sophie Mills**, [*Theseus, Tragedy and the Athenian Empire*](https://academic.oup.com/book/47141), Oxford, Clarendon Press, **1997**, particulièrement ch. 7, **« Theseus in Fragmentary Tragedy »**, p. **222–262**, et ch. 3–6 sur la représentation du héros dans les pièces conservées. DOI du volume **10.1093/oso/9780198150633.001.0001**. L’accès au chapitre intégral n’est pas revendiqué : référence appuyée par les notices savantes publiées.
+4. **Jenifer Neils**, *The Youthful Deeds of Theseus*, Rome, Giorgio Bretschneider, **1987**, coll. *Archaeologica* 76, analyse des images des travaux de jeunesse du héros. [Compte rendu bibliographique dans L’Antiquité classique](https://www.persee.fr/doc/antiq_0770-2817_1990_num_59_1_2300_t1_0559_0000_2).
+5. **Emily Kearns**, [*The Heroes of Attica*](https://books.google.com/books/about/The_Heroes_of_Attica.html?id=YKh4AAAAIAAJ), Londres, University of London, Institute of Classical Studies, **1989**, *BICS Supplement* 57, **212 p.** Étude du culte héroïque attique et de la mémoire locale.
+6. **Andrew Brown**, « Achaeus (2), of Eretria, Athenian tragic poet », *Oxford Classical Dictionary*, **7 mars 2016**, DOI **10.1093/acrefore/9780199381135.013.25**. [Notice Oxford](https://academic.oup.com/edited-volume/61673/chapter-abstract/548063271).
+7. **Andreas P. Antonopoulos et équipe**, [FragTrag.1, Université de Patras](https://fragtrag1.upatras.gr/exist/apps/fragtrag/indexc.html), base de concordance numérique des tragiques fragmentaires, consultation du **6 novembre 2026**.
+8. **The Metropolitan Museum of Art**, [cratère du groupe de Polygnotos, 56.171.48](https://www.metmuseum.org/art/collection/search/254906), vers 440–430 av. J.-C., *Thésée maîtrisant le taureau de Marathon*, domaine public selon la notice officielle.
+9. **British Museum**, [stamnos attique 1843,1103.58](https://www.britishmuseum.org/collection/object/G_1843-1103-58), scènes des travaux de Thésée, dont le taureau ; droit d’utilisation de la reproduction à consulter auprès du musée.
+10. **The Metropolitan Museum of Art**, [amphore de Taléidès, 47.11.5](https://www.metmuseum.org/art/collection/search/254578), vers 540–530 av. J.-C., *Thésée et le Minotaure*, document **de contraste**, non illustration du taureau de Marathon.
+11. **The Metropolitan Museum of Art**, [amphore du Peintre de Gallatin, 41.162.101](https://www.metmuseum.org/art/collection/search/254273), vers 480 av. J.-C., Sciron et Minotaure.
+12. **The Metropolitan Museum of Art**, [« Theseus, Hero of Athens »](https://www.metmuseum.org/it/essays/theseus-hero-of-athens), article institutionnel sur l’essor de l’iconographie de Thésée et son appropriation civique.
+13. **G. W. F. Hegel**, *Vorlesungen über die Ästhetik* (*Leçons sur l’esthétique*), réflexion sur la tragédie et les puissances éthiques ; cadre moderne, non témoin sur Achéos.
+14. **Friedrich Nietzsche**, *Die Geburt der Tragödie* (*La Naissance de la tragédie*), **1872**, philosophie moderne des rapports entre mythe, chœur et expérience tragique ; aucun témoignage antique sur l’œuvre perdue.
+
+### 67. Notice brève pour l’index MYTHOS
+
+**Achéos d’Érétrie, *Thésée* (Θησεύς), TrGF I, 20 F 18 et F 18a** (FragTrag.1, fr. 18–19). Tragédie grecque perdue. Deux fragments sont associés dans l’étude critique à **Artémis Saronia** et au **taureau de Marathon**, sans conserver le déroulement de la pièce. Les traditions extérieures — Pausanias sur les sanctuaires de Trézène, Diodore et Plutarque sur la capture du taureau, Plutarque sur Hécalé — éclairent ces allusions mais n’en constituent ni le texte ni le synopsis. Monographie de philologie, mythographie et philosophie politique avec iconographie sourcée du taureau de Marathon.
+
+### 68. Conclusion : le pouvoir de nommer un héros disparu de la scène
+
+Achéos d’Érétrie a intitulé une œuvre *Thésée*. Deux fragments associés à ce titre ont traversé la transmission des auteurs, puis les éditions de Nauck, du TrGF et du projet FragTrag. Les mentions d’Artémis Saronia et du taureau de Marathon nous placent devant deux traditions géographiquement chargées : d’un côté, une déesse et un culte ancrés à Trézène ; de l’autre, un animal dangereux dont la capture peut convertir la force héroïque en avantage public pour l’Attique. La coexistence des motifs est assurée par la documentation savante ; **leur ordre, leur fonction et leur articulation dramatique ne sont pas récupérables**.
+
+Cette perte n’abolit pas la pensée. Le héros demeure un objet d’interrogation sur la justice, l’autorité, l’hospitalité et la manière dont la communauté transforme des exploits singuliers en mémoire civique. Aristote éclaire la différence entre mythe collectif et action théâtrale composée ; Platon invite à examiner les valeurs qu’une tradition héroïque transmet ; Hegel et Nietzsche rendent sensibles, chacun selon ses catégories, les tensions entre individu et communauté, puissance et représentation. Mais aucune interprétation ne doit remplacer la voix perdue d’Achéos.
+
+La responsabilité d’une encyclopédie est de maintenir ensemble **la certitude de l’existence d’une œuvre, la précision de ses derniers vestiges et l’incertitude irréductible de sa dramaturgie**. La présente monographie constitue un dossier achevé sur le titre *Thésée*. Elle demeure sans numéro éditorial définitif tant que l’allocateur transactionnel de GitHub n’a pas émis son reçu ; aucune publication WordPress ni mise en ligne HTTPS ne sont revendiquées sur la seule base de son dépôt dans la file.
