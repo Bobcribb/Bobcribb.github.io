@@ -1,0 +1,39 @@
+{
+  "id": "MIL-BOU-001",
+  "slug": "milet-bouleuterion-cour-peristyle-vers-170-av-jc",
+  "title": "Milet (Ionie) — Bouleutérion et cour à portiques vers 170 av. J.-C.",
+  "period": "Vers 175–164 av. J.-C. (règne d’Antiochos IV Épiphane) ; restitution d’une phase hellénistique du milieu du IIe siècle av. J.-C.",
+  "caption": "Reconstitution photoréaliste hypothétique du bouleutérion de Milet : propylon corinthien à quatre colonnes, cour à portiques sur trois côtés et grande salle couverte du conseil, dans la cité ionienne vers 170 av. J.-C.",
+  "commentary": "L’ensemble civique du bouleutérion de Milet, entre les agoras septentrionale et méridionale, présente un plan tripartite documenté : à l’est un propylon à quatre colonnes corinthiennes, une cour ouverte bordée de portiques sur trois côtés, puis à l’ouest la salle de délibération du conseil. Dans celle-ci, le koilon comptait environ dix-huit rangées de sièges de pierre selon les descriptions de la fouille ; les évaluations de capacité varient autour de 1 200–1 500 personnes selon les publications. Deux paires de colonnes ioniques soutenaient la toiture de la salle. La datation est assurée par les inscriptions de dédicace qui associent les frères Timarchos et Hérakleides, Antiochos IV Épiphane, Apollon Didyméen, Hestia Boulaia et le dêmos milésien. Les grandes dimensions publiées sont d’environ 34,84 × 55,90 m pour l’ensemble. La vue synthétique est prise du sud-est, au-dessus du propylon : elle montre les façades et toitures complètes et la cour animée. La salle de conseil fermée ne permet pas d’observer simultanément son hémicycle de gradins, qui n’est donc pas représenté en coupe. Aucun édifice romain postérieur, notamment le monument du centre de la cour, n’est représenté comme caractéristique de cette phase. Les bâtiments urbains adjacents, les teintes exactes des surfaces, l’appareillage visible, la composition des toitures, les costumes, l’état de la végétation et le lointain paysage marin sont des conventions visuelles. Les bâtiments d’arrière-plan ne doivent pas être considérés comme un relevé fidèle de Milet vers 170 av. J.-C. Les institutions et chercheurs cités attestent l’architecture et son histoire, non cette image. La restitution est une image photoréaliste à apparence 3D, sans validité métrique ou archéométrique.",
+  "certainty": "Élevé : localisation et destination du bouleutérion ; plan tripartite avec propylon, cour à portiques et salle de conseil ; quatre colonnes corinthiennes du propylon ; dédicace à l’époque d’Antiochos IV ; principaux ordres architecturaux et ordre de grandeur du bâtiment. Moyen : ordre et hauteur des portiques, complet développement des élévations, proportions vues sous cet angle, toiture et mobilier de la cour. Faible : teintes, détails des tuiles et des couronnements, figures humaines, décors, végétation, embarcations, topographie urbaine exacte, lointain paysage et lumière.",
+  "source_url": "https://www.miletgrabung.uni-hamburg.de/en/milet-tour/tour-stadtzentrum/bouleuterion.html",
+  "secondary_sources": [
+    "https://perseus-aa.github.io/items/aa_253.html",
+    "https://www.ime.gr/projects/bouleuterion/en/katopsis/miletus.html"
+  ],
+  "src": "/assets/reconstitutions-3d/milet-bouleuterion-cour-peristyle-vers-170-av-jc.webp",
+  "image": "/assets/reconstitutions-3d/milet-bouleuterion-cour-peristyle-vers-170-av-jc.webp",
+  "width": 1672,
+  "height": 941,
+  "created_at": "2026-11-06",
+  "type": "reconstitution visuelle numérique photoréaliste interprétative à apparence 3D, non métrique",
+  "provenance": "Création originale assistée par génération d’image pour MYTHOS ; aucun menu, inscription, texte, schéma 2,5D ou filigrane incrusté. Les organismes cités documentent le monument et ne valident pas ce rendu.",
+  "sha256": "613cfdc6f8aa24edb7ac5938ceb6fca2be4e97473e39952f7309b9827f350ae8",
+  "scientific_notice": "/assets/reconstitutions-3d/notices/milet-bouleuterion-cour-peristyle-vers-170-av-jc.json",
+  "scientific_sources": [
+    {
+      "label": "Université de Hambourg, Milet-Grabung — Bouleuterion (fouilles et inscription de fondation)",
+      "url": "https://www.miletgrabung.uni-hamburg.de/en/milet-tour/tour-stadtzentrum/bouleuterion.html"
+    },
+    {
+      "label": "Perseus Art and Archaeology — Miletus Bouleuterion (plan, dimensions et bibliographie)",
+      "url": "https://perseus-aa.github.io/items/aa_253.html"
+    },
+    {
+      "label": "Foundation of the Hellenic World — Bouleuterion of Miletus",
+      "url": "https://www.ime.gr/projects/bouleuterion/en/katopsis/miletus.html"
+    }
+  ],
+  "methodology": "Image à apparence 3D non métrique, interprétative ; aucune reproduction géométrique à l’échelle, ni validation institutionnelle. Vérifier les proportions et détails incertains à partir des relevés publiés.",
+  "publication_status": "fichier_prepare_non_publie_deploiement_https_a_verifier"
+}
