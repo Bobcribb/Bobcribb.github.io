@@ -16,8 +16,12 @@ class GalleryTOCAnchorTests(unittest.TestCase):
         # Ne pas compter le lien de fin de page « Revenir au début ».
         targets = [a['href'][1:] for a in doc.select(
             'details.mythos-gallery-toc ol a[href^="#lecture-section-"]')]
-        self.assertEqual(len(targets), 82)
+        self.assertGreaterEqual(len(targets), 82)
         self.assertEqual(len(targets), len(set(targets)))
+        section_ids = {name for name in ids
+                       if name.startswith('lecture-section-')
+                       and name[len('lecture-section-'):].isdigit()}
+        self.assertEqual(len(targets), len(section_ids))
         for anchor in targets:
             with self.subTest(target=anchor):
                 self.assertIn(anchor, ids)
@@ -33,7 +37,11 @@ class GalleryTOCAnchorTests(unittest.TestCase):
                    if 'Akragas' in link.get_text(' ', strip=True)]
         self.assertEqual(len(akragas), 1)
         # Aucune entrée Akragas répétée dans le sommaire historique.
-        self.assertEqual(len(doc.select('details.mythos-gallery-toc ol li')), 82)
+        toc = doc.select('details.mythos-gallery-toc ol li')
+        sections = [node for node in doc.select('[id]')
+                    if node['id'].startswith('lecture-section-')
+                    and node['id'][len('lecture-section-'):].isdigit()]
+        self.assertEqual(len(toc), len(sections))
         self.assertIsNotNone(doc.find(id='lecture-section-75'))
 
 
