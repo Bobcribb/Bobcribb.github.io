@@ -64,7 +64,10 @@ class TestKalevalaArchiveIntegrity(unittest.TestCase):
         self.assertIn('href="/mythologies/"', self.page)
         self.assertIn('href="/civilisations/europe/"', self.page)
         builder = PORTAL_BUILDER.read_text(encoding="utf-8")
-        # Plusieurs cartes (accueil, Europe, mythologies) peuvent pointer vers\n        # un seul manuscrit ; c'est le fichier source qui doit rester unique.\n        self.assertGreaterEqual(builder.count('"/' + ARTICLE.removesuffix("index.html") + '"'), 1)\n        self.assertTrue(PAGE.is_file())
+        # Plusieurs cartes (accueil, Europe, mythologies) peuvent pointer vers
+        # un seul manuscrit ; c'est le fichier source qui doit rester unique.
+        self.assertGreaterEqual(builder.count('"/' + ARTICLE.removesuffix("index.html") + '"'), 1)
+        self.assertTrue(PAGE.is_file())
         css = CSS.read_text(encoding="utf-8")
         self.assertIn("lecteur Kalevala", css)
         self.assertIn("@media(max-width:720px)", css)
