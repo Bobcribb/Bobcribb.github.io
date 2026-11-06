@@ -31,7 +31,7 @@ class TestKalevalaArchiveIntegrity(unittest.TestCase):
         if cls.assert_source_layout:
             cls.marked = cls.page.split(start, 1)[1].split(end, 1)[0]
             cls.unmarked = re.sub(
-                r'<span id="lecture-\\d+" class="mythos-text-anchor" aria-hidden="true"></span>',
+                r'<span id="lecture-[0-9]+" class="mythos-text-anchor" aria-hidden="true"></span>',
                 "", cls.marked,
             )
 
@@ -39,7 +39,7 @@ class TestKalevalaArchiveIntegrity(unittest.TestCase):
         self.assertTrue(self.assert_source_layout)
         self.assertEqual(len(self.unmarked), 48625)
         self.assertEqual(self.unmarked.count("<h2 "), 20)
-        self.assertEqual(len(re.findall(r"<h[23]\\b", self.unmarked)), 62)
+        self.assertEqual(len(re.findall(r"<h[23][ >]", self.unmarked)), 62)
         self.assertIn("Sources et documentation", self.unmarked)
         self.assertIn("Library of Congress", self.unmarked)
         self.assertIn("finlit.fi", self.unmarked)
