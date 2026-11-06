@@ -1,0 +1,52 @@
+{
+  "id": "EPI-THO-001",
+  "slug": "epidaure-tholos-thymele-asclepios-vers-340-av-jc",
+  "title": "Épidaure (Argolide) — Tholos ou Thymélè de l’Asclépiéion, vers 340 av. J.-C.",
+  "period": "IVe siècle av. J.-C., état achevé figuré vers 340 av. J.-C. ; datation architecturale généralement comprise vers 360–330 av. J.-C., discutée.",
+  "caption": "Reconstitution numérique photoréaliste interprétative de la Thymélè d’Épidaure : péristyle circulaire dorique, toiture hypothétique et cour du sanctuaire d’Asclépios. Vue extérieure non métrique.",
+  "commentary": "La Tholos (Θόλος), également appelée Thymélè (Θυμέλη) dans les inscriptions du sanctuaire d’Asclépios à Épidaure, est un édifice circulaire situé au cœur de l’Asclépiéion d’Argolide, au voisinage du temple du dieu guérisseur. Elle appartient à la grande campagne de monumentalisation du sanctuaire au IVe siècle av. J.-C. Les propositions de chronologie ne sont pas unanimes : les synthèses pédagogiques placent volontiers la construction vers 360–330 av. J.-C., tandis que certaines études proposent une datation un peu plus haute. La présente image retient conventionnellement un état achevé vers 340 av. J.-C., qui n’est pas une datation archéométrique de chaque bloc. La tradition attribue l’édifice à Polyclète le Jeune ; cette attribution n’équivaut pas à une signature conservée sur le monument. Le bâtiment, dont le diamètre était d’environ 20 à 22 mètres selon les méthodes de mesure, comportait un péristyle externe de vingt-six colonnes doriques, puis, à l’intérieur de la cella, une couronne de quatorze colonnes corinthiennes. Ce jeu de deux ordres architecturaux est particulièrement important pour l’histoire de l’architecture du IVe siècle. Des fondations annulaires complexes, formant des couloirs concentriques sous le bâtiment, ont été fouillées ; leur relation avec les rites, le monde souterrain et les serpents sacrés reste discutée. Il faut distinguer cette observation matérielle des explications religieuses hypothétiques parfois proposées. La fonction exacte de la Thymélè, en particulier les aspects chthoniens du culte d’Asclépios, n’est pas assurée. Pausanias, Description de la Grèce II, 27.3, évoque les peintures de Pausias et le caractère remarquable de l’édifice, mais écrit plusieurs siècles après la construction. Les fouilles récentes de l’Éphorie des Antiquités d’Argolide et de l’université d’Athènes ont documenté des vestiges archaïques près de la Tholos, rappelant que l’occupation du sanctuaire ne commence pas avec le programme classique. Le visuel propose une vue extérieure oblique : peristasis circulaire dorique, crépis à degrés, murs de cella, entrée monumentale, toit de tuiles et environnement de portiques. Le diamètre et la cadence de la colonnade sont évocateurs, non métriques : il serait incorrect de déduire du nombre de colonnes visibles dans les pixels une mesure du monument. Les quatorze colonnes corinthiennes, situées à l’intérieur et invisibles dans cette vue, ne sont pas représentées comme un plan de coupe. Le détail du toit conique, les tuiles, le fleuron sommital, le dessin des reliefs de frise, les couleurs, les encadrements de porte, les portiques voisins et leur implantation, le dallage, les costumes des visiteurs, la flore et la lumière résultent de choix artistiques. Le modèle visuel est une illustration numérique photoréaliste à apparence 3D, non un relevé photogrammétrique, un modèle tridimensionnel téléchargeable ou une restitution géométrique validée par l’UNESCO et les autres institutions citées. Cette étude iconographique est distincte des panoramas généraux de l’Asclépiéion et de l’étude du théâtre hellénistique d’Épidaure déjà conservées dans MYTHOS.",
+  "certainty": "ÉLEVÉ : existence et localisation de la Tholos dans l’Asclépiéion d’Épidaure ; construction au IVe siècle av. J.-C. ; plan circulaire ; ordre dorique du péristyle externe à vingt-six colonnes ; couronne interne de quatorze colonnes corinthiennes ; présence de fondations souterraines annulaires et importance architecturale de l’ensemble. MOYEN : datation d’un état vers 340 av. J.-C. dans la fourchette généralement retenue ; attribution traditionnelle à Polyclète le Jeune ; volume général, élévation, répartition des accès et des parties hautes. FAIBLE : fonction rituelle précise et hypothèses chthoniennes ; forme exacte et charpente du toit, fleuron, sculpture de frise, peinture architecturale, profil des seuils, position et architecture des portiques voisins, personnes, mobilier cultuel, topographie détaillée, végétation et conditions lumineuses.",
+  "source_url": "https://whc.unesco.org/fr/list/491/",
+  "secondary_sources": [
+    "https://odysseum.eduscol.education.fr/epidaure-le-celebre-sanctuaire-et-le-theatre-grec",
+    "https://digmill.perseids.org/commentary/326",
+    "https://chronique.efa.gr/?id=8577&r=report",
+    "https://whc.unesco.org/en/list/491"
+  ],
+  "src": "/assets/reconstitutions-3d/epidaure-tholos-thymele-asclepios-vers-340-av-jc.webp",
+  "image": "/assets/reconstitutions-3d/epidaure-tholos-thymele-asclepios-vers-340-av-jc.webp",
+  "width": 1672,
+  "height": 941,
+  "created_at": "2026-11-06",
+  "type": "reconstitution visuelle numérique photoréaliste à apparence 3D, non métrique",
+  "provenance": "Création numérique originale assistée par génération d’image pour MYTHOS, sans texte, logo, plan, schéma 2,5D ni interface dans les pixels. Institutions citées sans validation du rendu.",
+  "sha256": "51250c02c32b18a8e91f9b3d717c405ccfd80f46c1c312fd2cd5202028a22647",
+  "scientific_notice": "/assets/reconstitutions-3d/notices/epidaure-tholos-thymele-asclepios-vers-340-av-jc.json",
+  "scientific_sources": [
+    {
+      "label": "UNESCO — Sanctuaire d’Asclépios en Épidaure, patrimoine mondial n° 491",
+      "url": "https://whc.unesco.org/fr/list/491/"
+    },
+    {
+      "label": "Odysseum / Éduscol — Épidaure : sanctuaire, Thymélè, chronologie et architecture",
+      "url": "https://odysseum.eduscol.education.fr/epidaure-le-celebre-sanctuaire-et-le-theatre-grec"
+    },
+    {
+      "label": "The Digital Milliet Project — Pausanias II, 27.3 et témoignage sur les peintures de Pausias",
+      "url": "https://digmill.perseids.org/commentary/326"
+    },
+    {
+      "label": "École française d’Athènes — Chronique des fouilles : Épidaure 2020, vestiges archaïques sous et près de la Tholos",
+      "url": "https://chronique.efa.gr/?id=8577&r=report"
+    },
+    {
+      "label": "UNESCO World Heritage Centre — Sanctuary of Asklepios at Epidaurus",
+      "url": "https://whc.unesco.org/en/list/491"
+    }
+  ],
+  "primary_texts": [
+    "Pausanias, Description de la Grèce II, 27.3 : Tholos et peintures de Pausias ; témoignage du IIe siècle apr. J.-C."
+  ],
+  "methodology": "Synthèse visuelle interprétative basée sur éléments de plan publiés et contexte cultuel ; aucun modèle 3D métrique ou étude de restitution institutionnellement validée.",
+  "publication_status": "branch_committed_pending_https_verification"
+}
