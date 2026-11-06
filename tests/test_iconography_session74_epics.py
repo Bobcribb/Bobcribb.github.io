@@ -45,9 +45,17 @@ class IconographySession74(unittest.TestCase):
         self.assertIsNotNone(soup.find(id="nibelungen-01"))
     def test_alternation_after_session_73(self):
         data = json.loads((ROOT / "docs/MYTHOS_ICONOGRAPHIE_ALTERNANCE.json").read_text(encoding="utf-8"))
-        self.assertEqual(data["latest_session"]["session_number"], 74)
-        self.assertEqual(data["latest_session"]["kind"], "ENRICHISSEMENT ICONOGRAPHIQUE")
-        self.assertEqual(data["latest_session"]["next_kind"], "AUDIT ET CORRECTION")
-        self.assertEqual(data["history"][-2]["kind"], "AUDIT ET CORRECTION")
+        events = data["history"]
+        sessions74 = [(pos, event) for pos, event in enumerate(events) if event["session_number"] == 74]
+        self.assertEqual(len(sessions74), 1)
+        pos, event = sessions74[0]
+        self.assertGreater(pos, 0)
+        self.assertEqual(events[pos - 1]["kind"], "AUDIT ET CORRECTION")
+        self.assertEqual(event["kind"], "ENRICHISSEMENT ICONOGRAPHIQUE")
+        self.assertEqual(event["previous_kind"], "AUDIT ET CORRECTION")
+        self.assertEqual(event["next_kind"], "AUDIT ET CORRECTION")
+        if pos + 1 < len(events):
+            self.assertEqual(events[pos + 1]["kind"], "AUDIT ET CORRECTION")
+        self.assertEqual(data["latest_session"], events[-1])
 if __name__ == "__main__":
     unittest.main()
