@@ -271,3 +271,13 @@ La comparaison de l’Égypte, de la Grèce, du monde maya, des pratiques yoruba
 **Continuité interne.** Cette étude s'articule avec MC-035 (gardiens du seuil), MC-039 (vêtir les dieux), MC-049 (faire vivre l’image divine), MC-072 (déguisements des dieux), MC-092 (miroirs du divin), MC-093 (sceaux des dieux), MC-104 (trônes), MC-107 (bornes), MC-108 (couronnes). Il s'agit de renvois à des identifiants historiques, indépendants de leurs numéros romains canoniques. Cette nouvelle livraison ne se substitue à aucun d'entre eux.
 
 **Fin du manuscrit intégral.**
+
+---
+
+### Note éditoriale documentaire — Françoise Frontisi-Ducroux (7 novembre 2026)
+
+**Référence française :** Françoise Frontisi-Ducroux, *Du masque au visage. Aspects de l'identité en Grèce ancienne*, Paris, Flammarion, 1995. Références vérifiées : [laboratoire ANHIMA](https://www.anhima.fr/le-centre/les-membres/emerites-et-honoraires/francoise-frontisi-ducroux), [Institut national d'histoire de l'art, notice bibliographique](https://agorha.inha.fr/ark:/54721/4420a9ae-7228-41a9-90ac-aa88b43f9e30), [François Lissarrague, compte rendu analytique, *Annales* 51/5 (1996)](https://www.persee.fr/doc/ahess_0395-2649_1996_num_51_5_410904_t1_1065_0000_000).
+
+**Apport historiographique.** L'étude associe le vocabulaire du visage et du masque en grec ancien, les images et les pratiques de représentation. En particulier, elle analyse les fonctions de visibilité, d'identification et de rapport au spectateur plutôt que de présumer que tout masque ne sert qu'à cacher une identité. Le concept grec de *prosôpon* impose une analyse locale des objets et de leur fonction.
+
+**Limite comparative.** Cette proposition sur les catégories grecques ne doit pas être convertie en théorie uniforme des masques funéraires égyptiens, des figures ancestrales africaines ou des pratiques japonaises. Les fonctions doivent être établies à partir de leurs propres documents. Référence critique documentée, **sans expertise ni approbation de MC-109 par l'autrice**.
