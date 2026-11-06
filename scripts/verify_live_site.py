@@ -357,6 +357,9 @@ RECENT_FIGURES = (
     # garantit que la présence de l'URL et les octets du fichier.
     ("philosophie-odyssee.html", "icono-odyssee-arc-preuve-autorite-s76-20261106",
      "/assets/philosophie/odyssee-arc-preuve-autorite-s76-20261106.svg"),
+    # Séance 78 : modèle du Tartare, notice scientifique et statut IA suivis sur HTTPS.
+    ("philosophie-theogonie.html", "icono-theogonie-tartare-limites-s78-20261106",
+     "/assets/philosophie/theogonie-tartare-limites-s78-20261106.svg"),
 
 )
 

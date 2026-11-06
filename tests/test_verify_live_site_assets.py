@@ -167,7 +167,7 @@ class RecentFigurePublicationTests(unittest.TestCase):
             return (200, kind, self.assets[path])
         return (200, "text/html", self.pages[path])
 
-    def test_all_sixty_seven_documentary_figures_and_thirteen_pages_verified(self):
+    def test_all_sixty_eight_documentary_figures_and_thirteen_pages_verified(self):
         pages, assets = live.recent_figure_inventory(self.root)
         self.assertEqual(len(pages), 13)
         self.assertEqual(len(pages["livre-iliade-scenes/index.html"]), 5)
@@ -175,7 +175,7 @@ class RecentFigurePublicationTests(unittest.TestCase):
         self.assertEqual(len(pages["livre-hesiode/index.html"]), 7)
         self.assertEqual(len(pages["philosophie-iliade.html"]), 14)
         self.assertEqual(len(pages["philosophie-odyssee.html"]), 14)
-        self.assertEqual(len(pages["philosophie-theogonie.html"]), 13)
+        self.assertEqual(len(pages["philosophie-theogonie.html"]), 14)
         self.assertEqual(len(pages["dieu-hestia/index.html"]), 1)
         self.assertEqual(len(pages["theatre-grec.html"]), 1)
         self.assertEqual(len(pages["iliade/index.html"]), 1)
@@ -183,8 +183,8 @@ class RecentFigurePublicationTests(unittest.TestCase):
         self.assertEqual(len(pages["osiris-abydos-cultes-textes-funeraires/index.html"]), 1)
         self.assertEqual(len(pages["bibliotheque-egypte-ancienne/index.html"]), 2)
         self.assertEqual(len(pages["gilgamesh-epopee-mort-deluge/index.html"]), 1)
-        self.assertEqual(len(assets), 48)
-        self.assertEqual(sum(len(items) for items in pages.values()), 67)
+        self.assertEqual(len(assets), 49)
+        self.assertEqual(sum(len(items) for items in pages.values()), 68)
         # Rembrandt est réutilisé entre l’étude philosophique et le livre.
         shared = "/assets/illustrations-articles/met-437394-aristote-homere-rembrandt.webp"
         self.assertIn(shared, assets)
@@ -196,7 +196,7 @@ class RecentFigurePublicationTests(unittest.TestCase):
         # therefore produces fewer network checks than figure occurrences.
         self.assertEqual(len(report), len(pages) + len(assets))
         self.assertTrue(all(item["valid"] for item in report))
-        self.assertEqual(sum(item.get("figures_verified", 0) for item in report), 67)
+        self.assertEqual(sum(item.get("figures_verified", 0) for item in report), 68)
 
 
 
