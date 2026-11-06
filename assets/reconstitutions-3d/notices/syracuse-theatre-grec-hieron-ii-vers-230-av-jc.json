@@ -1,0 +1,44 @@
+{
+  "id": "SYR-THE-001",
+  "slug": "syracuse-theatre-grec-hieron-ii-vers-230-av-jc",
+  "title": "Syracuse (Sicile) — théâtre grec de la Neapolis à l’époque de Hiéron II, vers 230 av. J.-C.",
+  "period": "Phase hellénistique du IIIe siècle av. J.-C., sous Hiéron II ; évocation vers 230 av. J.-C. Le théâtre est attesté dès le Ve siècle av. J.-C. ; transformations romaines ultérieures exclues du rendu.",
+  "caption": "Reconstitution numérique photoréaliste interprétative du théâtre grec de Syracuse à l’époque hellénistique : cavea en calcaire taillée dans la pente du mont Téménite, diazoma et orchestra, avec bâtiment de scène conjectural et personnages d’échelle.",
+  "commentary": "Le théâtre de Syracuse se trouve dans la Neapolis, au flanc méridional de la colline du Téménite. Le parc archéologique de la Région sicilienne confirme l’existence du théâtre dès la seconde moitié du Ve siècle av. J.-C. et date son aspect monumental du IIIe siècle av. J.-C. La restructuration est associée à Hiéron II (mort en 215 av. J.-C.). La cavea, de grande ampleur, est majoritairement taillée dans la roche calcaire ; sa configuration comprend un diazoma, des escaliers radiaux séparant les secteurs et une orchestra au pied des gradins. Les publications patrimoniales décrivent traditionnellement soixante-sept rangs, neuf secteurs et huit escaliers, mais les interventions antiques et modernes ont modifié le complexe. La restitution montre une phase hellénistique idéale et ne présente ni les ruines actuelles ni les transformations romaines. Le rendu du bâtiment de scène, du couvert de toiture, de son décor peint et des circulations est hypothétique : les vestiges conservés ne permettent pas de restituer avec certitude une façade de scène complète vers 230 av. J.-C. Le nombre apparent de sièges, l’angle de vue, les costumes, la représentation théâtrale, l’assistance, la ville, le rivage et la végétation sont des choix narratifs et non des reconstitutions métriques. La scène jouée n’est attribuée à aucune œuvre ni événement historique attesté. Image de synthèse à apparence 3D produite pour MYTHOS, non photogrammétrique et non validée par une institution.",
+  "certainty": "Élevé : implantation dans la Neapolis de Syracuse, cavea excavée dans la roche, existence d’une phase ancienne au Ve siècle et monumentalisation au IIIe siècle av. J.-C., organisation générale cavea–orchestra–scène. Moyen : phase représentée vers 230 av. J.-C., détail des gradins et des circulations à une date précise, restitution des parties hautes de la cavea. Faible : élévation, toiture, colonnes et peinture de la skènè, décor de spectacle, composition du public, positions des bâtiments environnants, vue du littoral, tenues, lumière et végétation.",
+  "source_url": "https://parchiarcheologici.regione.sicilia.it/parco-archeologico-di-siracusa-eloro-villa-del-tellaro-e-akrai/",
+  "secondary_sources": [
+    "https://whc.unesco.org/en/list/1200/",
+    "https://artbonus.gov.it/teatro-greco-di-siracusa-copertura-sperimentale-cavea-superiore-del-teatro-greco-anno-2020.html",
+    "https://www.touringclub.it/destinazioni/siracusa/vedere/209113-teatro-greco"
+  ],
+  "src": "/assets/reconstitutions-3d/syracuse-theatre-grec-hieron-ii-vers-230-av-jc.webp",
+  "image": "/assets/reconstitutions-3d/syracuse-theatre-grec-hieron-ii-vers-230-av-jc.webp",
+  "width": 1672,
+  "height": 941,
+  "created_at": "2026-11-06",
+  "type": "panorama numérique photoréaliste original à apparence 3D, interprétatif, non métrique",
+  "provenance": "Création originale MYTHOS par génération d’image, transcodée en WebP. Sans titre, logo, menu, bouton, légende ou filigrane intégré aux pixels. Les sources patrimoniales documentent le site ; elles ne certifient pas cette restitution.",
+  "sha256": "12a2be0e39c37a6f3fe665501cc52c1a2b4fcafb2b99e2c4eab501db80f11761",
+  "scientific_notice": "/assets/reconstitutions-3d/notices/syracuse-theatre-grec-hieron-ii-vers-230-av-jc.json",
+  "scientific_sources": [
+    {
+      "label": "Regione Siciliana — Parco archeologico di Siracusa (Neapolis et chronologie)",
+      "url": "https://parchiarcheologici.regione.sicilia.it/parco-archeologico-di-siracusa-eloro-villa-del-tellaro-e-akrai/"
+    },
+    {
+      "label": "UNESCO — Syracuse et la nécropole rocheuse de Pantalica (bien 1200)",
+      "url": "https://whc.unesco.org/en/list/1200/"
+    },
+    {
+      "label": "MiC / Art Bonus — Teatro greco di Siracusa (configuration cavea et phase hellénistique)",
+      "url": "https://artbonus.gov.it/teatro-greco-di-siracusa-copertura-sperimentale-cavea-superiore-del-teatro-greco-anno-2020.html"
+    },
+    {
+      "label": "Touring Club Italiano — Teatro greco di Siracusa (architecture du monument)",
+      "url": "https://www.touringclub.it/destinazioni/siracusa/vedere/209113-teatro-greco"
+    }
+  ],
+  "methodology": "Restitution visuelle évocatrice à partir des descriptions archéologiques, non métrique, sans relevés géométriques ; les traits conjecturaux sont décrits dans la notice.",
+  "publication_status": "source_GitHub_en_cours_publication_https_a_verifier"
+}
