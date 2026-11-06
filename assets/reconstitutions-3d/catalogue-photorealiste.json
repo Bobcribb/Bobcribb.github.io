@@ -2,7 +2,7 @@
   "generated_at": "2026-11-06",
   "site": "bobmythos.fr",
   "method": "Illustrations photoréalistes interprétatives, textes et sources hors des pixels.",
-  "count": 75,
+  "count": 76,
   "entries": [
     {
       "id": "DEL-PAN-001",
@@ -2131,6 +2131,64 @@
       "provenance": "Image originale créée pour MYTHOS par génération numérique ; sans menus, titres, schémas 2,5D ni texte dans les pixels. Les institutions citées n’ont pas validé cette illustration.",
       "sha256": "67e010d2923766e10c693e1de19ed6ed1dde61a8bc81acf73538afc54091987a",
       "scientific_notice": "/assets/reconstitutions-3d/notices/pella-maison-dionysos-peristyles-vers-300-av-jc.json"
+    },
+    {
+      "id": "AKR-ZEU-001",
+      "slug": "akragas-olympieion-zeus-telamons-chantier-vers-420-av-jc",
+      "title": "Akragas (Agrigente) — Olympiéion de Zeus, télamons et chantier inachevé, vers 420 av. J.-C.",
+      "period": "Fin du Ve siècle av. J.-C. ; évocation conjecturale vers 420 av. J.-C., avant la prise d’Akragas en 406 av. J.-C.",
+      "caption": "Vue photoréaliste interprétative de l’Olympiéion d’Akragas en chantier : demi-colonnes doriques, télamons colossaux et couronnement encore inachevé, sans couverture définitive.",
+      "commentary": "L’Olympiéion d’Akragas, la cité grecque devenue Agrigente, occupait le secteur occidental de la colline des temples en Sicile. Sa construction est traditionnellement rattachée aux années qui suivirent la victoire d’Himère en 480 av. J.-C. contre les Carthaginois, dans le contexte du pouvoir de Théron et des entreprises monumentales civiques. L’édifice est distinct du temple dit de la Concorde, plus à l’est sur la même crête. Les fondations conservées et les enquêtes archéologiques attestent un projet exceptionnel, d’environ 112–113 m de longueur sur 56 m de largeur selon le référentiel de mesure, sur un crépidome de cinq degrés. Il ne s’agissait pas d’un péristyle ordinaire à colonnes libres mais d’un mur continu rythmé de demi-colonnes doriques engagées, généralement restituées à raison de sept sur les petits côtés et quatorze sur les longs. Les parties tournées vers l’intérieur avaient la forme de puissants pilastres, autour d’une grande salle. Des figures colossales d’hommes, dites télamons, de l’ordre de 7,6–8 m de haut, occupaient les travées entre les demi-colonnes dans les restitutions modernes. Leur placement vertical, leurs niveaux d’appui, le nombre exact de figures et leur rôle structurel précis restent discutés. Les fragments authentiques sont notamment étudiés et présentés au Musée archéologique Pietro Griffo ; les remontages contemporains et les copies sur le terrain ne doivent pas être confondus avec l’état antique. Diodore de Sicile (Bibliothèque historique, XIII, 82) décrit l’ordre colossal et l’inachèvement de la toiture au moment de la crise militaire de 406 av. J.-C. ; Polybe (Histoires, IX, 27) loue à son tour la grandeur de l’édifice inachevé. La date vers 420 av. J.-C. est choisie pour une évocation de chantier avant la prise d’Akragas et ne correspond pas à un état architectural documenté pierre par pierre. L’image met en scène un ensemble monumental élevé mais sans couverture complète, avec ouvriers, échafaudages, blocs préparés, rampe et foyer d’autel. La représentation est délibérément explicative mais non métrique : elle simplifie les rapports réels entre demi-colonnes et paroi fermée, qui peuvent évoquer visuellement un péristyle ouvert à tort. Les télamons ne doivent pas être pris ici comme une restitution d’anastylose géométrique, et l’on ne sait pas s’ils étaient tous installés au moment fictif choisi. Le sommet des murs, les gradins, le dessin des soubassements, les superstructures, les accès, les couleurs, la végétation, les costumes, le chantier et l’horizon sont artistiquement interprétés. Les sources littéraires postérieures et les vestiges n’autorisent pas à traiter l’image comme une photographie antique ou un modèle archéologique validé. Aucun organisme cité n’a conçu ni approuvé ce rendu.",
+      "certainty": "Élevé : site d’Akragas, culte de Zeus Olympien, grandes dimensions approximatives, principe du mur continu à demi-colonnes doriques, vestiges de télamons monumentaux, chantier antique inachevé. Moyen : datation contextualisée du lancement après 480 av. J.-C., typologie de sept demi-colonnes sur les fronts et quatorze sur les flancs, séquence de construction, emplacement vertical restitué des télamons et volumes généraux. Faible : état exact en 420 av. J.-C., position individuelle et nombre de télamons représentés, entablement et angles, détails de chantier, restitution de l’autel, outils, ouvriers, costumes, polychromie, environnement et éclairage.",
+      "source_url": "https://parchiarcheologici.regione.sicilia.it/valle-templi/blog/2023/01/12/il-telamone-dellolympeion-nella-valle-dei-templi-di-agrigento/",
+      "secondary_sources": [
+        "https://www.regione.sicilia.it/la-regione-informa/agrigento-svelato-telamone-tempio-zeus-schifani-ora-si-punti-migliorare-servizi",
+        "https://museogriffo.it/en/explore-the-museum/collections/room-6",
+        "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/13D%2A.html",
+        "https://publications.dainst.org/journals/efb/article/view/1599",
+        "https://whc.unesco.org/document/154396"
+      ],
+      "src": "/assets/reconstitutions-3d/akragas-olympieion-zeus-telamons-chantier-vers-420-av-jc.webp",
+      "image": "/assets/reconstitutions-3d/akragas-olympieion-zeus-telamons-chantier-vers-420-av-jc.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-06",
+      "type": "reconstitution numérique photoréaliste interprétative à apparence 3D, non métrique",
+      "provenance": "Image originale produite par génération assistée par IA pour MYTHOS ; aucune interface, menu, texte, logo, schéma 2,5D ou filigrane dans les pixels. Les institutions citées ne cautionnent pas cette image.",
+      "sha256": "1ecf1e961b026d36c63a75be48ec8ab1bb89ff9b3b593433e841d9029d58d18e",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/akragas-olympieion-zeus-telamons-chantier-vers-420-av-jc.json",
+      "scientific_sources": [
+        {
+          "label": "Parc archéologique de la Vallée des Temples — Le télamon de l’Olympiéion (2023)",
+          "url": "https://parchiarcheologici.regione.sicilia.it/valle-templi/blog/2023/01/12/il-telamone-dellolympeion-nella-valle-dei-templi-di-agrigento/"
+        },
+        {
+          "label": "Regione Siciliana — fiche technique sur le temple de Zeus et la restitution du télamon (2024)",
+          "url": "https://www.regione.sicilia.it/la-regione-informa/agrigento-svelato-telamone-tempio-zeus-schifani-ora-si-punti-migliorare-servizi"
+        },
+        {
+          "label": "Museo Archeologico Pietro Griffo — salle 6 : histoire du temple et des télamons",
+          "url": "https://museogriffo.it/en/explore-the-museum/collections/room-6"
+        },
+        {
+          "label": "Diodore de Sicile, Bibliothèque historique XIII, 82.1–5 (traduction de consultation)",
+          "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/13D%2A.html"
+        },
+        {
+          "label": "Deutsches Archäologisches Institut — H.-J. Beste, Agrigent, Italien: Das Olympieion (2023)",
+          "url": "https://publications.dainst.org/journals/efb/article/view/1599"
+        },
+        {
+          "label": "UNESCO — Agrigente, présentation patrimoniale des vestiges",
+          "url": "https://whc.unesco.org/document/154396"
+        }
+      ],
+      "primary_texts": [
+        "Diodore de Sicile, Bibliothèque historique, XIII, 82.1–5 : murs et colonnes engagées, grandeur, inachèvement.",
+        "Polybe, Histoires, IX, 27 : monument grandiose mais inachevé (témoignage tardif)."
+      ],
+      "methodology": "Vue artistique non métrique et non photogrammétrique ; différencier vestiges, témoignages antiques et hypothèses de restitution, notamment la place des télamons.",
+      "publication_status": "fichier_prepare_non_publie_deploiement_https_a_verifier"
     }
   ]
 }
