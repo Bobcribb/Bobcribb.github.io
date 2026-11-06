@@ -1806,3 +1806,47 @@ body.mythos-design #home-etudes-recentes .mythos-recent-credits a{
     break-inside:avoid;
   }
 }
+
+
+/* Les archives universitaires historiques relient désormais le lecteur au
+   manuscrit Markdown contrôlé. Deux cibles indépendantes, tactiles et lisibles. */
+body.mythos-design nav.origins-archival-return{
+  display:flex;
+  flex-wrap:wrap;
+  align-items:center;
+  justify-content:flex-start;
+  gap:clamp(8px,1.6vw,20px);
+}
+body.mythos-design nav.origins-archival-return>a{
+  display:inline-flex;
+  align-items:center;
+  min-height:44px;
+  padding:10px 12px;
+  border:1px solid #756244;
+  border-radius:4px;
+  background:#152124;
+  line-height:1.45;
+  text-underline-offset:3px;
+}
+body.mythos-design nav.origins-archival-return>a:hover,
+body.mythos-design nav.origins-archival-return>a:focus-visible{
+  background:#233438;
+  border-color:#e9c791;
+}
+body.mythos-design nav.origins-archival-return>a.origins-archival-source-link{
+  font-weight:500;
+  color:#f1d8ac;
+}
+@media(max-width:540px){
+  body.mythos-design nav.origins-archival-return{
+    margin:10px 3%;
+    flex-direction:column;
+    align-items:stretch;
+  }
+  body.mythos-design nav.origins-archival-return>a{
+    width:100%;
+    justify-content:center;
+    text-align:center;
+  }
+}
+@media print{body.mythos-design nav.origins-archival-return{display:none!important}}
