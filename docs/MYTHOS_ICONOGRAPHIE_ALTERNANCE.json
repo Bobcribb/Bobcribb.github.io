@@ -38,7 +38,7 @@
     "scientific_source_check": "La source primaire citée dans la légende s76 (texte grec et traduction Murray de l'Odyssée XXI) est accessible en consultation publique ; ses vers 70–79 documentent l'épreuve des douze haches.",
     "preservation": "Aucun texte, numéro, manuscrit, registre, catalogue, navigation, image, CSS/JS de production, workflow ni planification modifié. Conservation explicite du statut IA de l'illustration 2D ; aucun objet 2,5D.",
     "deployment_status": "PR 130 encore ouverte à la lecture initiale, non fusionnée ; vérification HTTPS de bobmythos.fr impossible depuis l'outil public de navigation, donc aucune publication publique nouvelle n'est attestée.",
-    "limits": "Le responsive visuel smartphone/tablette et le PDF A4 ne sont pas rendus dans un navigateur. Les 366 liens scientifiques externes des quatre pages ne sont pas testés individuellement. Après commit : contrôles Actions et intégration main à relire.",
+    "limits": "Le responsive visuel smartphone/tablette et le PDF A4 ne sont pas rendus dans un navigateur. Les liens scientifiques externes des quatre pages ne sont pas tous testés individuellement. Après commit : contrôles Actions et intégration main à relire.",
     "next_session": "Séance 78 — ENRICHISSEMENT ICONOGRAPHIQUE",
     "commits": []
   },
@@ -4703,7 +4703,7 @@
       "scientific_source_check": "La source primaire citée dans la légende s76 (texte grec et traduction Murray de l'Odyssée XXI) est accessible en consultation publique ; ses vers 70–79 documentent l'épreuve des douze haches.",
       "preservation": "Aucun texte, numéro, manuscrit, registre, catalogue, navigation, image, CSS/JS de production, workflow ni planification modifié. Conservation explicite du statut IA de l'illustration 2D ; aucun objet 2,5D.",
       "deployment_status": "PR 130 encore ouverte à la lecture initiale, non fusionnée ; vérification HTTPS de bobmythos.fr impossible depuis l'outil public de navigation, donc aucune publication publique nouvelle n'est attestée.",
-      "limits": "Le responsive visuel smartphone/tablette et le PDF A4 ne sont pas rendus dans un navigateur. Les 366 liens scientifiques externes des quatre pages ne sont pas testés individuellement. Après commit : contrôles Actions et intégration main à relire.",
+      "limits": "Le responsive visuel smartphone/tablette et le PDF A4 ne sont pas rendus dans un navigateur. Les liens scientifiques externes des quatre pages ne sont pas tous testés individuellement. Après commit : contrôles Actions et intégration main à relire.",
       "next_session": "Séance 78 — ENRICHISSEMENT ICONOGRAPHIQUE",
       "commits": []
     }
