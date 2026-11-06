@@ -5,64 +5,117 @@
   "branch": "main",
   "latest_session": {
     "date": "2026-11-06",
-    "kind": "AUDIT ET CORRECTION",
-    "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "scope": "Séance 65 : audit de la PR 65 (iconographie de la séance 64), réparation du test de contexte HTML et contrôle ciblé des liens, médias, légendes, CSS/JS, numérotation et déploiement.",
-    "basis_commit": "4e328053bcb811a53627cf609f5e4bb15c11f5b7",
-    "verified_issue": "Le run GitHub Actions 42159205218 (séance 64) a échoué sur 3 erreurs : le test supposait que les <h2 id=lecture-section-*> sont des <section>, alors qu'ils sont directement des titres. Les figures sont correctement placées après le titre ; la structure HTML réelle a été vérifiée dans les 3 pages.",
-    "correction": "Remplacer dans tests/test_iconography_session64_antique_artifacts.py la recherche d'un conteneur <section id=...> inexistant par la vérification du titre <h2> précédent de chaque figure. Commit 4e328053bcb811a53627cf609f5e4bb15c11f5b7, fichier relu après commit.",
-    "checks": {
-      "branch": "mythos-iconographie-s64-20261106",
-      "pull_request": 65,
-      "affected_pages": [
-        "philosophie-iliade.html",
-        "philosophie-odyssee.html",
-        "philosophie-theogonie.html"
-      ],
-      "seven_pages_static_audit": true,
-      "checked_pages": 7,
-      "internal_fragment_links": 386,
-      "broken_fragment_links": 0,
-      "images": 144,
-      "images_missing_alt": 0,
-      "duplicate_html_ids": 0,
-      "local_references": 662,
-      "missing_local_files": 0,
-      "stylesheets_referenced": 34,
-      "script_references": 17,
-      "viewport_declared_on_all_checked_pages": true,
-      "css_responsive_media_query_counts": {
-        "assets/style.css": 32,
-        "assets/mythos-refonte.css": 10,
-        "assets/mythos-museum.css": 65,
-        "assets/mythos-discovery.css": 7
+    "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "previous_kind": "AUDIT ET CORRECTION",
+    "next_kind": "AUDIT ET CORRECTION",
+    "scope": "Séance 66 : trois documents figurés authentiques, comparaisons explicitement circonscrites — Poséidon/Zeus du cap Artémision (Iliade XIII), relief Orphée/Eurydice (Odyssée XI), Teššub et Ḫebat à Yazılıkaya (Théogonie comparée).",
+    "basis_commit": "d05d056d03ae39fe8b9ac7d63b50f1a92acb286d",
+    "pages_modified": [
+      "philosophie-iliade.html",
+      "philosophie-odyssee.html",
+      "philosophie-theogonie.html"
+    ],
+    "assets_reused": [
+      "media/2026/10/mythos-bronze-artemision-zeus-ou-poseidon.jpg",
+      "media/2026/10/mythos-relief-orphee-eurydice-hermes-naples-6727.jpg",
+      "media/2026/10/mythos-yazilikaya-teshub-hebat-rita1234.jpg"
+    ],
+    "figures": [
+      {
+        "page": "philosophie-iliade.html",
+        "id": "icono-iliade-poseidon-artemision-s66-20261106",
+        "src": "/media/2026/10/mythos-bronze-artemision-zeus-ou-poseidon.jpg",
+        "documentary_status": "Artefact authentique non généré par IA, mais représentation distincte du passage homérique/hésiodique traité.",
+        "source_primary_or_site": "https://www.theoi.com/Text/HomerIliad13.html",
+        "photo_credit": "https://commons.wikimedia.org/wiki/File:Bronze_statue_of_Zeus_or_Poseidon_from_Artemision,_Euboea._ca._460_BC.jpg"
       },
-      "scientific_sources": "Les notices institutionnelles UNESCO (Mycènes, Derveni) et Met (stamnos 41.162.20a,b) ont été contrôlées. La photographie de la Porte des Lionnes par Zde, 22 septembre 2020, est CC BY-SA 4.0 sur Commons.",
-      "numbering_registry_audit": {
-        "origines-du-sacre": 119,
-        "encyclopedie": 97,
-        "comedies": 64,
-        "tragedies": 60,
-        "comparatif": 128
+      {
+        "page": "philosophie-odyssee.html",
+        "id": "icono-odyssee-orphee-eurydice-seuil-s66-20261106",
+        "src": "/media/2026/10/mythos-relief-orphee-eurydice-hermes-naples-6727.jpg",
+        "documentary_status": "Artefact authentique non généré par IA, mais représentation distincte du passage homérique/hésiodique traité.",
+        "source_primary_or_site": "https://www.theoi.com/Text/HomerOdyssey11.html",
+        "photo_credit": "https://commons.wikimedia.org/wiki/File:Orfeo,_euridice_ed_hermes,_da_torre_del_greco,_copia_augustea_da_orig._greco_del_450_ac_ca._6727.JPG"
       },
-      "allocation_number_collisions": 0,
-      "allocation_path_collisions": 0,
-      "missing_allocated_paths": 0,
-      "public_manifest_source_commit": "00c888fd4b1f2d9a83beb82c40012f2eceb562a4",
-      "public_manifest_run_id": 42163598977,
-      "public_s62_figure_ids_found": 3,
-      "public_s64_figure_ids_found": 0,
-      "public_deployment": "Séance 62 vérifiée sur les trois pages HTTPS ; séance 64 non publiée au contrôle. Ne pas prétendre à une publication de la PR 65.",
-      "ci_status": "Nouveaux runs 42165130969 (générateur) et 42165130971 (audit) encore en cours lors de l'audit ; la fusion reste subordonnée à un contrôle de leur conclusion et à l'absence de conflits."
+      {
+        "page": "philosophie-theogonie.html",
+        "id": "icono-theogonie-yazilikaya-teshub-hebat-s66-20261106",
+        "src": "/media/2026/10/mythos-yazilikaya-teshub-hebat-rita1234.jpg",
+        "documentary_status": "Artefact authentique non généré par IA, mais représentation distincte du passage homérique/hésiodique traité.",
+        "source_primary_or_site": "https://whc.unesco.org/en/list/377/",
+        "photo_credit": "https://commons.wikimedia.org/wiki/File:Yazilikaya_reliefs_42_43.JPG"
+      }
+    ],
+    "scientific_verification": "Bronze Artémision X15161 vers 460 av. J.-C., Zeus ou Poséidon, photo Koronaios CC BY-SA 4.0 ; relief napolitain inv. 6727 copie romaine, photo Sailko CC BY-SA 3.0 ; relief 42–43 Yazılıkaya, Teššub/Ḫebat, photo Rita1234 CC BY-SA 3.0. Métadonnées recoupées avec Wikimedia Commons et références anciennes / UNESCO.",
+    "precommit_static_audit": [
+      {
+        "path": "philosophie-iliade.html",
+        "section": "lecture-section-32",
+        "figure": "icono-iliade-poseidon-artemision-s66-20261106",
+        "src": "/media/2026/10/mythos-bronze-artemision-zeus-ou-poseidon.jpg",
+        "paragraph_index": 2,
+        "htmlCharsBefore": 434341,
+        "htmlCharsAfter": 435982,
+        "figuresBefore": 38,
+        "figuresAfter": 39,
+        "internalAnchors": 111,
+        "brokenAnchors": 0,
+        "images": 39,
+        "localReferences": 137,
+        "missingLocal": 0,
+        "dupIds": 0
+      },
+      {
+        "path": "philosophie-odyssee.html",
+        "section": "lecture-section-29",
+        "figure": "icono-odyssee-orphee-eurydice-seuil-s66-20261106",
+        "src": "/media/2026/10/mythos-relief-orphee-eurydice-hermes-naples-6727.jpg",
+        "paragraph_index": 8,
+        "htmlCharsBefore": 415973,
+        "htmlCharsAfter": 417633,
+        "figuresBefore": 37,
+        "figuresAfter": 38,
+        "internalAnchors": 111,
+        "brokenAnchors": 0,
+        "images": 38,
+        "localReferences": 134,
+        "missingLocal": 0,
+        "dupIds": 0
+      },
+      {
+        "path": "philosophie-theogonie.html",
+        "section": "lecture-section-14",
+        "figure": "icono-theogonie-yazilikaya-teshub-hebat-s66-20261106",
+        "src": "/media/2026/10/mythos-yazilikaya-teshub-hebat-rita1234.jpg",
+        "paragraph_index": 1,
+        "htmlCharsBefore": 420028,
+        "htmlCharsAfter": 421659,
+        "figuresBefore": 37,
+        "figuresAfter": 38,
+        "internalAnchors": 113,
+        "brokenAnchors": 0,
+        "images": 38,
+        "localReferences": 137,
+        "missingLocal": 0,
+        "dupIds": 0
+      }
+    ],
+    "pagination_a4_prior_not_recomputed": {
+      "iliade": 107,
+      "odyssee": 101,
+      "theogonie": 103
     },
-    "files_modified": [
-      "tests/test_iconography_session64_antique_artifacts.py",
+    "preservation": "Toutes les chaînes HTML préexistantes conservées octet par octet, uniquement 1 élément figure et sa séparation ajoutés dans chaque page ; aucune étude numérotée, registre, navigation, CSS/JS ou horaire modifié.",
+    "changed_files": [
+      "philosophie-iliade.html",
+      "philosophie-odyssee.html",
+      "philosophie-theogonie.html",
+      "tests/test_iconography_session66_documentary_comparisons.py",
       "docs/MYTHOS_ICONOGRAPHIE_ALTERNANCE.json"
     ],
-    "preservation": "Aucun changement des études scientifiques, figures, licences, médias, numéros, registre éditorial, CSS/JS, menus ou automatisations horaires.",
-    "limitations": "Contrôle statique de 7 pages, non un audit exhaustif de 1 642 pages. Rendu navigateur responsive et couverture HTTP exhaustive des URL externes non réalisés. Publication de la séance 64 non confirmée.",
-    "next_session": "Séance 66 — ENRICHISSEMENT ICONOGRAPHIQUE"
+    "deployment": "Travail sur branche et PR ; à confirmer après fusion, Actions et contrôle HTTPS du domaine. Aucun nouveau média binaire copié.",
+    "obstacles": "Le main à l'ouverture échoue aux deux tests Énéide test_copy_exact_sources_and_bidirectional_navigation et test_idempotent_links (run 42169994547) ; publication bloquée par ces échecs indépendants de l'iconographie ; contrôle visuel responsive non réalisé.",
+    "limits": "Audit local statique de trois grandes monographies, pas d'examen exhaustif du domaine ni de tests navigateur. Photos réutilisées dans le dépôt ; photographies non générées par IA."
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
   "history": [
@@ -3933,6 +3986,120 @@
       "preservation": "Aucun changement des études scientifiques, figures, licences, médias, numéros, registre éditorial, CSS/JS, menus ou automatisations horaires.",
       "limitations": "Contrôle statique de 7 pages, non un audit exhaustif de 1 642 pages. Rendu navigateur responsive et couverture HTTP exhaustive des URL externes non réalisés. Publication de la séance 64 non confirmée.",
       "next_session": "Séance 66 — ENRICHISSEMENT ICONOGRAPHIQUE"
+    },
+    {
+      "date": "2026-11-06",
+      "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "previous_kind": "AUDIT ET CORRECTION",
+      "next_kind": "AUDIT ET CORRECTION",
+      "scope": "Séance 66 : trois documents figurés authentiques, comparaisons explicitement circonscrites — Poséidon/Zeus du cap Artémision (Iliade XIII), relief Orphée/Eurydice (Odyssée XI), Teššub et Ḫebat à Yazılıkaya (Théogonie comparée).",
+      "basis_commit": "d05d056d03ae39fe8b9ac7d63b50f1a92acb286d",
+      "pages_modified": [
+        "philosophie-iliade.html",
+        "philosophie-odyssee.html",
+        "philosophie-theogonie.html"
+      ],
+      "assets_reused": [
+        "media/2026/10/mythos-bronze-artemision-zeus-ou-poseidon.jpg",
+        "media/2026/10/mythos-relief-orphee-eurydice-hermes-naples-6727.jpg",
+        "media/2026/10/mythos-yazilikaya-teshub-hebat-rita1234.jpg"
+      ],
+      "figures": [
+        {
+          "page": "philosophie-iliade.html",
+          "id": "icono-iliade-poseidon-artemision-s66-20261106",
+          "src": "/media/2026/10/mythos-bronze-artemision-zeus-ou-poseidon.jpg",
+          "documentary_status": "Artefact authentique non généré par IA, mais représentation distincte du passage homérique/hésiodique traité.",
+          "source_primary_or_site": "https://www.theoi.com/Text/HomerIliad13.html",
+          "photo_credit": "https://commons.wikimedia.org/wiki/File:Bronze_statue_of_Zeus_or_Poseidon_from_Artemision,_Euboea._ca._460_BC.jpg"
+        },
+        {
+          "page": "philosophie-odyssee.html",
+          "id": "icono-odyssee-orphee-eurydice-seuil-s66-20261106",
+          "src": "/media/2026/10/mythos-relief-orphee-eurydice-hermes-naples-6727.jpg",
+          "documentary_status": "Artefact authentique non généré par IA, mais représentation distincte du passage homérique/hésiodique traité.",
+          "source_primary_or_site": "https://www.theoi.com/Text/HomerOdyssey11.html",
+          "photo_credit": "https://commons.wikimedia.org/wiki/File:Orfeo,_euridice_ed_hermes,_da_torre_del_greco,_copia_augustea_da_orig._greco_del_450_ac_ca._6727.JPG"
+        },
+        {
+          "page": "philosophie-theogonie.html",
+          "id": "icono-theogonie-yazilikaya-teshub-hebat-s66-20261106",
+          "src": "/media/2026/10/mythos-yazilikaya-teshub-hebat-rita1234.jpg",
+          "documentary_status": "Artefact authentique non généré par IA, mais représentation distincte du passage homérique/hésiodique traité.",
+          "source_primary_or_site": "https://whc.unesco.org/en/list/377/",
+          "photo_credit": "https://commons.wikimedia.org/wiki/File:Yazilikaya_reliefs_42_43.JPG"
+        }
+      ],
+      "scientific_verification": "Bronze Artémision X15161 vers 460 av. J.-C., Zeus ou Poséidon, photo Koronaios CC BY-SA 4.0 ; relief napolitain inv. 6727 copie romaine, photo Sailko CC BY-SA 3.0 ; relief 42–43 Yazılıkaya, Teššub/Ḫebat, photo Rita1234 CC BY-SA 3.0. Métadonnées recoupées avec Wikimedia Commons et références anciennes / UNESCO.",
+      "precommit_static_audit": [
+        {
+          "path": "philosophie-iliade.html",
+          "section": "lecture-section-32",
+          "figure": "icono-iliade-poseidon-artemision-s66-20261106",
+          "src": "/media/2026/10/mythos-bronze-artemision-zeus-ou-poseidon.jpg",
+          "paragraph_index": 2,
+          "htmlCharsBefore": 434341,
+          "htmlCharsAfter": 435982,
+          "figuresBefore": 38,
+          "figuresAfter": 39,
+          "internalAnchors": 111,
+          "brokenAnchors": 0,
+          "images": 39,
+          "localReferences": 137,
+          "missingLocal": 0,
+          "dupIds": 0
+        },
+        {
+          "path": "philosophie-odyssee.html",
+          "section": "lecture-section-29",
+          "figure": "icono-odyssee-orphee-eurydice-seuil-s66-20261106",
+          "src": "/media/2026/10/mythos-relief-orphee-eurydice-hermes-naples-6727.jpg",
+          "paragraph_index": 8,
+          "htmlCharsBefore": 415973,
+          "htmlCharsAfter": 417633,
+          "figuresBefore": 37,
+          "figuresAfter": 38,
+          "internalAnchors": 111,
+          "brokenAnchors": 0,
+          "images": 38,
+          "localReferences": 134,
+          "missingLocal": 0,
+          "dupIds": 0
+        },
+        {
+          "path": "philosophie-theogonie.html",
+          "section": "lecture-section-14",
+          "figure": "icono-theogonie-yazilikaya-teshub-hebat-s66-20261106",
+          "src": "/media/2026/10/mythos-yazilikaya-teshub-hebat-rita1234.jpg",
+          "paragraph_index": 1,
+          "htmlCharsBefore": 420028,
+          "htmlCharsAfter": 421659,
+          "figuresBefore": 37,
+          "figuresAfter": 38,
+          "internalAnchors": 113,
+          "brokenAnchors": 0,
+          "images": 38,
+          "localReferences": 137,
+          "missingLocal": 0,
+          "dupIds": 0
+        }
+      ],
+      "pagination_a4_prior_not_recomputed": {
+        "iliade": 107,
+        "odyssee": 101,
+        "theogonie": 103
+      },
+      "preservation": "Toutes les chaînes HTML préexistantes conservées octet par octet, uniquement 1 élément figure et sa séparation ajoutés dans chaque page ; aucune étude numérotée, registre, navigation, CSS/JS ou horaire modifié.",
+      "changed_files": [
+        "philosophie-iliade.html",
+        "philosophie-odyssee.html",
+        "philosophie-theogonie.html",
+        "tests/test_iconography_session66_documentary_comparisons.py",
+        "docs/MYTHOS_ICONOGRAPHIE_ALTERNANCE.json"
+      ],
+      "deployment": "Travail sur branche et PR ; à confirmer après fusion, Actions et contrôle HTTPS du domaine. Aucun nouveau média binaire copié.",
+      "obstacles": "Le main à l'ouverture échoue aux deux tests Énéide test_copy_exact_sources_and_bidirectional_navigation et test_idempotent_links (run 42169994547) ; publication bloquée par ces échecs indépendants de l'iconographie ; contrôle visuel responsive non réalisé.",
+      "limits": "Audit local statique de trois grandes monographies, pas d'examen exhaustif du domaine ni de tests navigateur. Photos réutilisées dans le dépôt ; photographies non générées par IA."
     }
   ]
 }
