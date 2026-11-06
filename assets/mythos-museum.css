@@ -1961,3 +1961,51 @@ body.mythos-design .mythos-khmer-crosslinks a{min-height:44px;display:inline-fle
 body.mythos-design .mythos-khmer-study :is(.mythos-khmer-crosslinks a,.mythos-khmer-toc a,.mythos-khmer-toc summary):focus-visible{outline:3px solid #f3d18e;outline-offset:3px}
 @media(max-width:720px){body.mythos-design .mythos-khmer-study{padding-inline:clamp(.65rem,3vw,1rem)}body.mythos-design .mythos-khmer-toc>ol{columns:1;padding-left:2rem}body.mythos-design .mythos-khmer-figure{margin:1rem auto}body.mythos-design .mythos-khmer-figure figcaption{padding:.8rem;font-size:.84rem}body.mythos-design .mythos-khmer-crosslinks{flex-direction:column}body.mythos-design .mythos-khmer-crosslinks a{width:100%;box-sizing:border-box}}
 @media(prefers-reduced-motion:reduce){body.mythos-design .mythos-khmer-study *{scroll-behavior:auto!important}}
+
+/* Portail des mythologies : sommaire ivoire/or ancré, utilisable sur smartphone. */
+body.mythos-design .mythos-world-toc{
+  margin:1.2rem auto 2rem;
+  padding:clamp(1rem,2.4vw,1.5rem);
+  background:#10191b;
+  border:1px solid #8d724d;
+  border-radius:6px;
+  max-width:1100px;
+}
+body.mythos-design .mythos-world-toc-label{
+  text-align:center;
+  color:#f0e2c9!important;
+  margin:0 0 .8rem!important;
+  font:1.2rem/1.4 Georgia,serif!important;
+}
+body.mythos-design .mythos-world-toc ul{
+  display:grid;
+  grid-template-columns:repeat(3,minmax(0,1fr));
+  gap:.65rem;
+  margin:0!important;
+  padding:0!important;
+  list-style:none;
+}
+body.mythos-design .mythos-world-toc li{list-style:none;margin:0!important;padding:0!important;min-width:0}
+body.mythos-design .mythos-world-toc a{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  min-height:48px;
+  height:100%;
+  padding:.6rem .8rem;
+  text-align:center;
+  text-decoration:none;
+  color:#f2d7a4!important;
+  background:#152124;
+  border:1px solid #6f5b3d;
+  overflow-wrap:anywhere;
+}
+body.mythos-design .mythos-world-toc a:hover{background:#25302e;border-color:#e6c38c}
+body.mythos-design .mythos-world-toc a:focus-visible{outline:3px solid #edd2a1;outline-offset:2px}
+body.mythos-design .portal-section[id^="mythologies-"]{scroll-margin-top:2rem}
+@media(max-width:720px){
+  body.mythos-design .mythos-world-toc{padding:.85rem;margin:1rem 0 1.5rem}
+  body.mythos-design .mythos-world-toc ul{grid-template-columns:minmax(0,1fr)}
+  body.mythos-design .mythos-world-toc a{min-height:48px;justify-content:flex-start;text-align:left}
+}
+@media print{body.mythos-design .mythos-world-toc{display:none!important}}
