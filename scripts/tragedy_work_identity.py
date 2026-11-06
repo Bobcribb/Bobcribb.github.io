@@ -57,11 +57,16 @@ def url(member):
     return "/" + Path(member["source"]).with_suffix("").as_posix() + "/"
 
 
+def primary_member(group):
+    """Exactly one primary monograph is enforced by validate()."""
+    return next(member for member in group["members"] if member["role"] == "primary")
+
+
 def display_title(group, member):
-    return (f"Volume {member['roman']} ({member['number']}) — Sophocle, "
-            f"{'La Revendication d’Hélène' if member['role'] == 'primary' else 'La Réclamation d’Hélène'}"
-            f" · {'monographie de référence' if member['role'] == 'primary' else 'étude complémentaire'}"
-            " de Helenēs apaitēsis")
+    work_title = member.get("work_title", group["title"])
+    role = "monographie de référence" if member["role"] == "primary" else "étude complémentaire"
+    return (f"Volume {member['roman']} ({member['number']}) — "
+            f"{group['author']}, {work_title} · {role} de {group['transliteration']}")
 
 
 def git_blob_sha(content):
@@ -133,11 +138,14 @@ def roman(number):
 
 
 def fields(key, group, member):
+    primary = primary_member(group)
+    status = ("Étude de référence." if member["role"] == "primary"
+              else f"Étude complémentaire du volume {primary['number']}.")
     return {
         "title": display_title(group, member),
-        "excerpt": (f"Sophocle, {group['transliteration']} ({group['greek_title']}) ; "
-                    f"{group['reference']}. {member['focus']}. "
-                    f"{'Étude de référence.' if member['role'] == 'primary' else 'Étude complémentaire du volume 233.'}"),
+        "excerpt": (f"{group['author']}, {group['transliteration']} "
+                    f"({group['greek_title']}) ; {group['reference']}. "
+                    f"{member['focus']}. {status}"),
         "work_id": key,
         "work_role": member["role"],
         "work_primary_url": group["primary_url"],
@@ -185,22 +193,38 @@ def _apply_json_index(root, path):
 
 
 def _note(key, group, members):
-    links = "".join("<li><a href=\"" + escape(url(m), quote=True) + "\">"
-                    + escape(m["label"] + f" — volume {m['roman']} ({m['number']})")
-                    + "</a> — " + escape(m["focus"]) + "</li>" for m in members)
-    return (
-        f'<aside class="editorial-note" data-tragedy-work="{escape(key)}" '
-        'aria-label="Concordance de cette tragédie perdue">'
-        '<p><strong>Sophocle — ' + escape(group["transliteration"]) + ' (' +
-        escape(group["greek_title"]) + ') : une œuvre antique, deux monographies.</strong></p>'
-        '<p>Les titres « La Revendication d’Hélène » et « La Réclamation d’Hélène » '
-        'traduisent une seule tragédie perdue. Référence : ' + escape(group["reference"]) +
-        '. Le volume 233 constitue la référence éditoriale ; le volume 234 en est '
-        'une étude critique complémentaire. Les deux travaux, leurs numéros et '
-        'leurs références scientifiques restent conservés intégralement.</p>'
-        '<ul>' + links + '</ul><p><a href="' + escape(group["guide_url"], quote=True) +
-        '">Consulter la concordance philologique et les variantes de titre</a></p></aside>'
+    """Generate one generic concordance for any author and any member count."""
+    links = "".join(
+        "<li><a href=\"" + escape(url(member), quote=True) + "\">"
+        + escape(member["label"] + f" — volume {member['roman']} ({member['number']})")
+        + "</a> — " + escape(member["focus"]) + "</li>"
+        for member in members
     )
+    primary = primary_member(group)
+    complements = [m["number"] for m in members if m["role"] == "complement"]
+    complement_text = (", ".join(str(n) for n in complements)
+                       if complements else "aucun")
+    n = len(members)
+    note = (
+        f'<aside class="editorial-note" data-tragedy-work="{escape(key, quote=True)}" '
+        'aria-label="Concordance des études de cette œuvre antique">'
+        '<p><strong>' + escape(group["author"]) + ' — '
+        + escape(group["transliteration"]) + ' ('
+        + escape(group["greek_title"]) + f') : une œuvre antique, {n} monographies.'
+        '</strong></p>'
+        '<p>' + escape(group.get("genre", "tragédie perdue").capitalize()) + '. '
+        + 'Référence : ' + escape(group["reference"]) + '. '
+        + f'Le volume {primary["number"]} constitue la référence éditoriale principale ; '
+        + 'les volumes complémentaires (' + escape(complement_text) + ') sont '
+        + 'des études distinctes et intégralement conservées, non des œuvres antiques supplémentaires. '
+        + 'Numéros, UUID et manuscrits restent inchangés.</p>'
+        '<ul>' + links + '</ul>'
+    )
+    if group.get("administrative_note"):
+        note += '<p><strong>Erratum administratif :</strong> ' + escape(group["administrative_note"]) + '</p>'
+    return (note + '<p><a href="' + escape(group["guide_url"], quote=True)
+            + '">Consulter la concordance scientifique et éditoriale</a></p></aside>')
+
 
 
 def install(root, out):
@@ -233,10 +257,13 @@ def install(root, out):
             page.write_text(str(doc), encoding="utf-8")
         guide = out / group["guide_url"].strip("/") / "index.html"
         guide.parent.mkdir(parents=True, exist_ok=True)
-        guide.write_text(render("Sophocle — " + group["transliteration"] +
-                                " : concordance des volumes 233 et 234",
-                                markdown((root / group["notice_source"]).read_text(encoding="utf-8"))),
-                         encoding="utf-8")
+        numbers = ", ".join(str(m["number"]) for m in members)
+        guide_title = (f"{group['author']} — {group['transliteration']} : "
+                       f"concordance des volumes {numbers}")
+        guide.write_text(render(
+            guide_title,
+            markdown((root / group["notice_source"]).read_text(encoding="utf-8")),
+        ), encoding="utf-8")
         # Only append to existing portals; preserve the black-and-gold design.
         for portal in ("theatre", "collections-numerotees"):
             page = out / portal / "index.html"
@@ -247,12 +274,15 @@ def install(root, out):
             selector = 'tragedy-work-' + key.replace(":", "-")
             for old in doc.select("#" + selector):
                 old.decompose()
+            numbers = ", ".join(str(m["number"]) for m in members)
             section = BeautifulSoup(
-                '<section class="portal-section" id="' + escape(selector) +
-                '"><h2>Une œuvre de Sophocle — deux monographies (233 et 234)</h2>'
-                '<p><em>Helenēs apaitēsis</em> (Ἑλένης ἀπαίτησις), F 176–180a Radt : '
-                'une seule tragédie perdue. Deux études intégrales conservées, '
-                'dont une monographie principale et un complément critique.</p>'
+                '<section class="portal-section" id="' + escape(selector, quote=True) + '">'
+                + f'<h2>Une œuvre d’{escape(group["author"])} — {len(members)} monographies '
+                  f'({escape(numbers)})</h2>'
+                + '<p><em>' + escape(group["transliteration"]) + '</em> ('
+                + escape(group["greek_title"]) + ') : '
+                + escape(group.get("genre", "tragédie perdue"))
+                + '. Une seule œuvre antique et des études intégrales conservées.</p>'
                 + note + '</section>', "html.parser")
             article.insert(1, section)
             page.write_text(str(doc), encoding="utf-8")

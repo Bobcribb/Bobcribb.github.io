@@ -26,7 +26,8 @@
           "focus": "Diplomatie mythique, justice, responsabilité de la guerre, fragments et transmission",
           "uuid": "c5e61d9a-1f40-4a77-9da4-86f74a34aef1",
           "source": "chapitres/tragedies/volume-ccxxxiii-sophocle-helenes-apaitesis-revendication-helene-ambassade-antenor-justice-troie.md",
-          "git_blob_sha": "2ee6477ff283ec5348ba19b47454362d772fa2ce"
+          "git_blob_sha": "2ee6477ff283ec5348ba19b47454362d772fa2ce",
+          "work_title": "La Revendication d’Hélène"
         },
         {
           "number": 234,
@@ -36,7 +37,62 @@
           "focus": "Parole politique, hospitalité d’Anténor, argumentation, hypothèses philologiques",
           "uuid": "f36f4f0c-5a4a-4650-9e80-3310dd5abd91",
           "source": "chapitres/tragedies/volume-ccxxxiv-sophocle-helenes-apaitesis-reclamation-helene-ambassade-logos-antenor.md",
-          "git_blob_sha": "ea2dfe545717f016919a5702c7616b33fe15d9f9"
+          "git_blob_sha": "ea2dfe545717f016919a5702c7616b33fe15d9f9",
+          "work_title": "La Réclamation d’Hélène"
+        }
+      ]
+    },
+    "acheos:iris-satyrique": {
+      "author": "Achéos d’Érétrie",
+      "title": "Iris satyrique",
+      "greek_title": "Ἴρις Σατυρική",
+      "transliteration": "Iris Satyrikē",
+      "genre": "drame satyrique perdu",
+      "aliases": [
+        "Iris satyrique",
+        "Ἴρις Σατυρική",
+        "Ἶρις Σατυρική",
+        "Iris Satyrikē",
+        "Iris Saturoi"
+      ],
+      "reference": "TrGF I, 20 F 19–23 ; FragTrag.1, Achaeus I, titre 10 (fr. 20, rep. 4, fr. 21–23) ; Athénée X, 451c–d",
+      "primary_url": "/chapitres/tragedies/volume-cclxx-acheos-eretrie-iris-satyrique-scytale-enigme-satyres-athenee-451/",
+      "guide_url": "/theatre/acheos-iris-satyrique/",
+      "notice_source": "editorial/acheos-iris-satyrique-concordance.md",
+      "administrative_note": "Erratum de statut : la mention « demande en attente d’attribution » conservée dans le manuscrit du volume 272 décrit seulement l’état lors de sa soumission. Le registre transactionnel a depuis attribué CCLXXII (272) à l’UUID ce7b92a4-4e1c-47d0-9a31-84f40d8bd276. Le texte original reste intact.",
+      "members": [
+        {
+          "number": 270,
+          "roman": "CCLXX",
+          "role": "primary",
+          "work_title": "Iris satyrique — scytale et énigme",
+          "label": "Monographie de référence — texte, scytale et énigme",
+          "focus": "Athénée X, 451c–d, poétique de l’énigme, scénarios dramaturgiques, objets et images",
+          "uuid": "5c6840fd-2fbd-4c92-a84f-5a0af2d64df3",
+          "source": "chapitres/tragedies/volume-cclxx-acheos-eretrie-iris-satyrique-scytale-enigme-satyres-athenee-451.md",
+          "git_blob_sha": "dd056cc5d680653be36e65b65568dfb90e02a847"
+        },
+        {
+          "number": 271,
+          "roman": "CCLXXI",
+          "role": "complement",
+          "work_title": "Iris satyrique — parole et transmission",
+          "label": "Complément philologique — transmission, parole et iconographie",
+          "focus": "TrGF/FragTrag.1, statut de la parole divine, scytale, vases et critique des attributions",
+          "uuid": "b0f49db7-3a46-430a-a423-1a9cf4b017f6",
+          "source": "chapitres/tragedies/volume-cclxxi-acheos-eretrie-iris-satyrique-scytale-athenee-satyres-messagere.md",
+          "git_blob_sha": "db1e4fb6e12984acec7cb0fe9da4ff11510ce3ae"
+        },
+        {
+          "number": 272,
+          "roman": "CCLXXII",
+          "role": "complement",
+          "work_title": "Iris satyrique — sacrifices et frontières",
+          "label": "Complément critique — sacrifices, limites et autorité",
+          "focus": "Épistémologie des sources, scénarios de sacrifice, espace divin, Platon, Hegel et Nietzsche",
+          "uuid": "ce7b92a4-4e1c-47d0-9a31-84f40d8bd276",
+          "source": "chapitres/tragedies/volume-cclxxii-acheos-eretrie-iris-satyrique-messagere-satyres-sacrifices-frontieres-trgf19-23.md",
+          "git_blob_sha": "e793c9e8d106790db4880764c85a5f32bb9606d4"
         }
       ]
     }
