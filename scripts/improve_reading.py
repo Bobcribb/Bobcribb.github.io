@@ -323,7 +323,11 @@ def metadata(entry, doc):
 def add_reading(doc, url, entry):
     main=doc.main or doc.select_one('article')
     if not main: return
-    for old in doc.select('[data-reading-owned], .mythos-reader, .mythos-reading-toc'): old.decompose()
+    # Ne retirer que les contrôles produits par ce générateur : certaines
+    # archives portent data-reading-owned sur leurs figures sourcées, sommaires
+    # d'auteur et liens réciproques. Ces éléments sont du contenu patrimonial.
+    for old in doc.select('.mythos-reader, .mythos-reading-toc, nav.reader-bottom, nav.mythos-document-reciprocal'):
+        old.decompose()
     article=main.select_one('article.content') or main
     headings=[h for h in article.select('h2') if not h.find_parent(['nav','aside']) and not h.find_parent(class_='toc')]
     is_portal=bool(doc.select_one('.portal-section, #greek-unified-corpus')) or url.startswith(('/parcours/','/etat-du-corpus/','/catalogue-integral/','/methode-editoriale/','/rubriques/','/recherche/'))
