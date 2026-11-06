@@ -927,6 +927,12 @@
           "path": "chapitres/origines-du-sacre/726-jebel-uweinat-karkur-talh-peintures-gravures-pastoralisme-eau-inscriptions.md",
           "request_sha256": "cb0213df28d6596f7398c4dff064cff91fbb85f9ac202650a68f4c8b5e4b359a",
           "initial_source_sha256": "b4f5aaae675fa59e7df2f1f06c127360746f34d4a4cb287127ca08a49836b55b"
+        },
+        "b37e94a2-520f-4c7b-8e60-71a5f29c83d4": {
+          "number": 727,
+          "path": "chapitres/origines-du-sacre/727-laas-geel-somaliland-bovins-parures-peintures-polychromes-pastoralisme.md",
+          "request_sha256": "65be96c2614f30193f4661286b0be6c0f87585dc62b0ad9820e87d735b9025cd",
+          "initial_source_sha256": "aec5e2dac16737cf37dc5bd477fafd7de8630ce3692b3bf6c8eb0efdc8f3c30f"
         }
       }
     },
@@ -2512,6 +2518,12 @@
           "path": "chapitres/tragedies/volume-cclxv-acheos-eretrie-alphesiboia-hesychius-hyades-menades-alcmeon-dionysos.md",
           "request_sha256": "dc269ea9d0ae6302a4bd8fd1144cd71dba2389df19ebbddfb2a0d9c31eece255",
           "initial_source_sha256": "917c1026e35d4ce0832fe21feb98054464d7f5decf1b2d79807b00e6f97a3844"
+        },
+        "d7b9c48e-6d83-45f2-a9c6-f43208c18e71": {
+          "number": 266,
+          "path": "chapitres/tragedies/volume-cclxvi-acheos-eretrie-erginos-ig-ii2-2363-piree-tribut-minyens-orchomenos.md",
+          "request_sha256": "8f87075fc6bfd4256fb68c39dbd565de902fe0e9645c940d039cb12aae2a6cf3",
+          "initial_source_sha256": "86865c0a51ea27f945c45b6851a665cfbe42223204585a7528f306181a78ddd7"
         }
       }
     },
@@ -3439,6 +3451,12 @@
           "path": "chapitres/comparatif/volume-ccxcv-thesmophories-archer-scythe-police-langues-contrainte-theatre-411.md",
           "request_sha256": "962b4a5f493e89faaaea7deca94b754babbd844c375895af034d4dbefbc5b576",
           "initial_source_sha256": "3c4a353491d28e8e47a3477317c8910fca46ca0b00100d359779a454c8e40ff5"
+        },
+        "c1837ae4-9b56-4c0a-8469-f8d7a12c0e35": {
+          "number": 296,
+          "path": "chapitres/comparatif/volume-ccxcvi-oiseaux-teree-procne-voix-tragedie-metamo-philomela-intermediaire-414.md",
+          "request_sha256": "62b062e06c0ff8db89a4d8d4edda66c8bb53c0a41b4246b1db58f6119027ac5b",
+          "initial_source_sha256": "c60c277432a8458d26fdcf4a6658cf7b5736964c82bc0b031e65a078f3abe4f8"
         }
       }
     }
