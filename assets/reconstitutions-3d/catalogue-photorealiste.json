@@ -2,7 +2,7 @@
   "generated_at": "2026-11-06",
   "site": "bobmythos.fr",
   "method": "Illustrations photoréalistes interprétatives, textes et sources hors des pixels.",
-  "count": 61,
+  "count": 62,
   "entries": [
     {
       "id": "DEL-PAN-001",
@@ -1471,6 +1471,53 @@
         "Pausanias, Description de la Grèce II, 17, 3–4 : Eupolémos, décors sculptés et statue de Polyclète ; source du IIe siècle apr. J.-C."
       ],
       "methodology": "Visualisation documentaire interprétative (et non modèle 3D mesurable, maquette numérique archéologique validée, photographie ou restitution certaine des états antiques). Les détails non documentés sont hypothétiques.",
+      "publication_status": "branch_committed_pending_https_verification"
+    },
+    {
+      "id": "EPI-THE-001",
+      "slug": "epidaure-theatre-hellenistique-vers-150-av-jc",
+      "title": "Épidaure (Argolide) — théâtre d’Asclépios, état hellénistique après agrandissement, vers 150 av. J.-C.",
+      "period": "Milieu du IIe siècle av. J.-C., vers 150 av. J.-C., après l’agrandissement de la cavea.",
+      "caption": "Reconstitution photoréaliste numérique interprétative : orchestra circulaire, cavea à deux niveaux et élévation conjecturale de la skènè au milieu du IIe siècle av. J.-C.",
+      "commentary": "Dans le sanctuaire d’Asclépios en Argolide, le théâtre d’Épidaure s’adosse au mont Kynortion. Il a connu deux grandes phases de construction : à la fin du IVe siècle av. J.-C., l’orchestra circulaire, les 34 premiers rangs de sièges et un bâtiment de scène ; au milieu du IIe siècle av. J.-C., la cavea fut étendue vers le haut de 21 rangs supplémentaires, portant l’ensemble à 55 rangs séparés par un diazoma. Selon DIAZOMA, le premier niveau comporte douze secteurs et l’extension supérieure vingt-deux. Pausanias (II, 27.5), plusieurs siècles après la fondation, célèbre la beauté et l’harmonie de l’édifice et l’attribue à Polyclète, traditionnellement identifié à Polyclète le Jeune. Ce témoignage tardif ne constitue pas une preuve contemporaine de l’architecte. L’UNESCO inscrit le théâtre dans l’ensemble monumental du sanctuaire d’Asclépios (liste 491). Le rendu montre l’orchestra, les accès latéraux et les deux niveaux de gradins dans une évocation de l’état après l’agrandissement hellénistique. Les parties hautes du bâtiment de scène, sa hauteur précise, son toit, ses peintures, ses ouvertures et le rendu du proskenion ne sont pas entièrement connus : ils sont interprétés ici sans prétention de fidélité métrique. Les figurants, le paysage végétal, les vêtements, les ombres et l’état de conservation visible sont également artistiques. Cette image consacrée au théâtre est un sujet distinct de l’illustration panoramique de l’Asclépiéion déjà publiée sur MYTHOS. Les institutions citées n’ont ni participé à la création ni validé le modèle numérique.",
+      "certainty": "Élevé : localisation, orchestra ronde, cavea étagée, deux campagnes des IVe et IIe siècles av. J.-C., division 34 + 21 rangs et diazoma. Moyen : datation au milieu du IIe siècle, attribution à Polyclète le Jeune via Pausanias, plans et disposition de la skènè à l’époque hellénistique. Faible : élévations et peintures de scène, toit, ouverture centrale, décors, personnages, costumes, végétation, effets de lumière, patine de la pierre et détails métriques.",
+      "source_url": "https://whc.unesco.org/fr/list/491/",
+      "secondary_sources": [
+        "https://diazoma.gr/en/theaters/theatre-of-epidavrus/",
+        "https://perseus-aa.github.io/items/aa_228.html",
+        "https://chs.harvard.edu/description-of-greece-a-pausanias-reader/"
+      ],
+      "src": "/assets/reconstitutions-3d/epidaure-theatre-hellenistique-vers-150-av-jc.webp",
+      "image": "/assets/reconstitutions-3d/epidaure-theatre-hellenistique-vers-150-av-jc.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-06",
+      "type": "reconstitution numérique photoréaliste interprétative à apparence 3D, non métrique",
+      "provenance": "Création assistée par IA pour MYTHOS, sans menu, logo, titre, schéma 2,5D ou interface dans les pixels ; sources non cautionnantes.",
+      "sha256": "80b5ba0f6c6d71593834bff18d37933a9dc858940a6d01121b07d8a689980f75",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/epidaure-theatre-hellenistique-vers-150-av-jc.json",
+      "scientific_sources": [
+        {
+          "label": "UNESCO — Sanctuaire d’Asclépios en Épidaure (n° 491)",
+          "url": "https://whc.unesco.org/fr/list/491/"
+        },
+        {
+          "label": "DIAZOMA — Theater of Epidaurus, description architecturale et phases",
+          "url": "https://diazoma.gr/en/theaters/theatre-of-epidavrus/"
+        },
+        {
+          "label": "Perseus — Epidauros, Theater (aa_228)",
+          "url": "https://perseus-aa.github.io/items/aa_228.html"
+        },
+        {
+          "label": "Harvard CHS — Pausanias, Description de la Grèce II, 27.5",
+          "url": "https://chs.harvard.edu/description-of-greece-a-pausanias-reader/"
+        }
+      ],
+      "primary_texts": [
+        "Pausanias, Description de la Grèce, II, 27.5 : tradition de Polyclète et éloge du théâtre (texte du IIe siècle apr. J.-C.)."
+      ],
+      "methodology": "Vue de synthèse artistique non métrique et non photogrammétrique : aucun détail ne doit être employé comme mesure archéologique ou preuve de l’apparence du bâtiment de scène.",
       "publication_status": "branch_committed_pending_https_verification"
     }
   ]
