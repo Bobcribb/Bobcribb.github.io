@@ -5,95 +5,63 @@
   "branch": "main",
   "latest_session": {
     "date": "2026-11-06",
-    "session_number": 72,
-    "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "previous_kind": "AUDIT ET CORRECTION",
-    "next_kind": "AUDIT ET CORRECTION",
-    "scope": "Séance universitaire de trois objets patrimoniaux déjà archivés : Arès de la frise est du Parthénon pour Iliade V, Héraclès et le lion de Némée pour l'Odyssée XXI, Déméter-Perséphone et Triptolème pour la Théogonie 912–914. Distinguer image postérieure et source poétique ; pas de doublon ni de nouveau binaire.",
-    "source_main_at_review": "fbb45bd1291cf69ca9e522e4d0da5d84e8e5983f",
-    "figures": [
-      {
-        "page": "philosophie-iliade.html",
-        "id": "icono-iliade-ares-parthenon-frise-s72-20261106",
-        "asset": "/media/2026/10/mythos-ares-frise-orientale-parthenon-bloc-iv-twospoonfuls.jpg",
-        "source": "parthenonfrieze.gr",
-        "statut": "objet antique authentique ; photo non générée par IA ; ne représente pas directement le passage poétique",
-        "credit": "crédit, droits, datation, contexte de fabrication et critique du témoignage dans figcaption"
-      },
-      {
-        "page": "philosophie-odyssee.html",
-        "id": "icono-odyssee-heracles-lion-nemee-met-s72-20261106",
-        "asset": "/media/2026/10/mythos-heracles-lion-nemee-oinochoe-met-06-1021-66.jpg",
-        "source": "metmuseum.org/art/collection/search/247235",
-        "statut": "objet antique authentique ; photo non générée par IA ; ne représente pas directement le passage poétique",
-        "credit": "crédit, droits, datation, contexte de fabrication et critique du témoignage dans figcaption"
-      },
-      {
-        "page": "philosophie-theogonie.html",
-        "id": "icono-theogonie-demeter-triptoleme-met-s72-20261106",
-        "asset": "/media/2026/10/demeter-triptolemos-peintre-niobides-met-41-162-98.jpg",
-        "source": "metmuseum.org/art/collection/search/254270",
-        "statut": "objet antique authentique ; photo non générée par IA ; ne représente pas directement le passage poétique",
-        "credit": "crédit, droits, datation, contexte de fabrication et critique du témoignage dans figcaption"
-      }
+    "session_number": 73,
+    "kind": "AUDIT ET CORRECTION",
+    "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "scope": "Audit post-iconographique des trois monographies philosophiques Iliade, Odyssée et Théogonie. Rétablissement de la vérification HTTPS des trois figures de la séance 72 (pages, légendes, statut, signatures JPEG et empreintes SHA-256).",
+    "source_main_at_review": "1c74cd307c6a68becc3927a5acb1c3882aac20a9",
+    "previous_session": 72,
+    "inspected_pages": [
+      "philosophie-iliade.html",
+      "philosophie-odyssee.html",
+      "philosophie-theogonie.html"
     ],
-    "precommit_checks": {
-      "three_pages_checked": 3,
-      "figures_added": 3,
-      "duplicate_figure_ids": 0,
-      "missing_manifest_media": 0,
-      "missing_alt": 0,
+    "checks": {
+      "html_ids": 384,
+      "same_page_hash_links": 335,
+      "image_elements": 124,
+      "duplicate_html_ids": 0,
       "broken_same_page_anchors": 0,
-      "page_summaries": [
-        {
-          "page": "philosophie-iliade.html",
-          "old_images": 41,
-          "new_images": 42,
-          "old_figures": 41,
-          "new_figures": 42,
-          "ids": 128,
-          "hashlinks": 111,
-          "broken": 0,
-          "missing_alt": 0,
-          "oldLength": 438849,
-          "newLength": 440722,
-          "sourceSha": "bf6a1ba68a1d202e73629bced6e94f5af2364059"
-        },
-        {
-          "page": "philosophie-odyssee.html",
-          "old_images": 40,
-          "new_images": 41,
-          "old_figures": 40,
-          "new_figures": 41,
-          "ids": 127,
-          "hashlinks": 111,
-          "broken": 0,
-          "missing_alt": 0,
-          "oldLength": 420524,
-          "newLength": 422304,
-          "sourceSha": "25c768fe97f620b4d2e89d425736add4707be957"
-        },
-        {
-          "page": "philosophie-theogonie.html",
-          "old_images": 40,
-          "new_images": 41,
-          "old_figures": 40,
-          "new_figures": 41,
-          "ids": 129,
-          "hashlinks": 113,
-          "broken": 0,
-          "missing_alt": 0,
-          "oldLength": 424827,
-          "newLength": 426656,
-          "sourceSha": "565571dd210ae8f1ef549c4c9ccc9f0772e38b1b"
-        }
+      "images_without_alt": 0,
+      "three_figures_found": 3,
+      "distinct_media_found_in_git_tree": 3,
+      "media_sizes_bytes": [
+        6594541,
+        111291,
+        1551070
       ],
-      "all_existing_text_preserved": "Insertion HTML uniquement, suppression du bloc ajouté restitue exactement le texte HTML source"
+      "previous_inventory": {
+        "figures": 61,
+        "pages": 13,
+        "unique_media": 44
+      },
+      "revised_inventory": {
+        "figures": 64,
+        "pages": 13,
+        "unique_media": 47
+      }
     },
-    "preservation": "Aucun manuscrit universitaire, numéro canonique, UUID, registre, page de navigation, CSS, JavaScript, automatisation, image ou archive supprimé ou réécrit. Pas de 2,5D ni de menu incrusté.",
-    "publication_status": "PR à valider ; aucun déploiement HTTPS de cette séance annoncé. Dernier manifeste public contrôlé : aaab3583b522dbd945f4014332e3f682325e5947 / run 42204008596.",
-    "pages_a4": "Paginations historiques (>10 pages) non recalculées ; aucun texte universitaire retranché.",
-    "next_session": "Séance 73 — AUDIT ET CORRECTION"
+    "verified_error": "Les trois figures de la séance 72 sont présentes dans les pages source et dans les pages publiques, mais absentes de RECENT_FIGURES dans scripts/verify_live_site.py. Les contrôles habituels n'imposaient pas leurs notices HTTPS ni leurs sommes SHA-256 individuelles.",
+    "correction": "Extension de RECENT_FIGURES à trois triplets page / id / JPEG et mise à jour des assertions pour 64 figures sur 13 pages et 47 médias distincts. Nouveau test de non-régression contre une figure publique périmée et contre l'altération d'un JPEG de chacun des trois objets.",
+    "public_verification": {
+      "public_domain": "https://bobmythos.fr",
+      "manifest_source_commit": "3b3d181c640f7f097f16c9e112b0076203cfa3fa",
+      "manifest_github_run_id": "42254292001",
+      "indexed_documents": 1699,
+      "three_figures_https_present": true,
+      "three_figure_captions_and_status_https_present": true,
+      "jpeg_exact_sha256_https_checked": false,
+      "reason": "Les trois figures ont été directement vérifiées par sélecteur figure#id sur HTTPS, mais le contrôle binaire cryptographique se fera dans le vérificateur de publication. Ne pas confondre présence publique des notices et identité des octets."
+    },
+    "publication_status": "Trois notices de la séance 72 vérifiées sur le site public au commit 3b3d181c..., mais le présent correctif du vérificateur n'a pas encore été déployé. CI et Pages doivent être contrôlés après commit.",
+    "scientific_and_editorial_preservation": "Aucun titre, manuscrit, citation, numéro, UUID, reçu, registre, menu, fichier HTML scientifique ou image modifié. Les attributions anciennes, les origines et le statut IA des trois objets restent inchangés. Aucun vecteur 2,5D ajouté.",
+    "tests": "Vérification structurelle préalable des figures, des trois médias locaux, de la présence des légendes, des URL HTTPS et de la non-duplication. Nouveau test de défaillance HTTP simulée ; suite Python complète GitHub Actions à revérifier.",
+    "limits": "Pas de nouveau test visuel smartphone/tablette ni de recalcul PDF A4 ; contrôle exhaustif des liens scientifiques externes non fait ; l'identité des JPEG publics sera vérifiée par la CI de publication.",
+    "scheduling": "Aucun workflow ou paramètre de fréquence horaire modifié.",
+    "next_session": "Séance 74 — ENRICHISSEMENT ICONOGRAPHIQUE",
+    "commits": [],
+    "commit_note": "Commit atomique du vérificateur, des tests et du journal ; SHA à relever et relire après écriture."
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
   "history": [
@@ -4552,6 +4520,66 @@
       "publication_status": "PR à valider ; aucun déploiement HTTPS de cette séance annoncé. Dernier manifeste public contrôlé : aaab3583b522dbd945f4014332e3f682325e5947 / run 42204008596.",
       "pages_a4": "Paginations historiques (>10 pages) non recalculées ; aucun texte universitaire retranché.",
       "next_session": "Séance 73 — AUDIT ET CORRECTION"
+    },
+    {
+      "date": "2026-11-06",
+      "session_number": 73,
+      "kind": "AUDIT ET CORRECTION",
+      "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "scope": "Audit post-iconographique des trois monographies philosophiques Iliade, Odyssée et Théogonie. Rétablissement de la vérification HTTPS des trois figures de la séance 72 (pages, légendes, statut, signatures JPEG et empreintes SHA-256).",
+      "source_main_at_review": "1c74cd307c6a68becc3927a5acb1c3882aac20a9",
+      "previous_session": 72,
+      "inspected_pages": [
+        "philosophie-iliade.html",
+        "philosophie-odyssee.html",
+        "philosophie-theogonie.html"
+      ],
+      "checks": {
+        "html_ids": 384,
+        "same_page_hash_links": 335,
+        "image_elements": 124,
+        "duplicate_html_ids": 0,
+        "broken_same_page_anchors": 0,
+        "images_without_alt": 0,
+        "three_figures_found": 3,
+        "distinct_media_found_in_git_tree": 3,
+        "media_sizes_bytes": [
+          6594541,
+          111291,
+          1551070
+        ],
+        "previous_inventory": {
+          "figures": 61,
+          "pages": 13,
+          "unique_media": 44
+        },
+        "revised_inventory": {
+          "figures": 64,
+          "pages": 13,
+          "unique_media": 47
+        }
+      },
+      "verified_error": "Les trois figures de la séance 72 sont présentes dans les pages source et dans les pages publiques, mais absentes de RECENT_FIGURES dans scripts/verify_live_site.py. Les contrôles habituels n'imposaient pas leurs notices HTTPS ni leurs sommes SHA-256 individuelles.",
+      "correction": "Extension de RECENT_FIGURES à trois triplets page / id / JPEG et mise à jour des assertions pour 64 figures sur 13 pages et 47 médias distincts. Nouveau test de non-régression contre une figure publique périmée et contre l'altération d'un JPEG de chacun des trois objets.",
+      "public_verification": {
+        "public_domain": "https://bobmythos.fr",
+        "manifest_source_commit": "3b3d181c640f7f097f16c9e112b0076203cfa3fa",
+        "manifest_github_run_id": "42254292001",
+        "indexed_documents": 1699,
+        "three_figures_https_present": true,
+        "three_figure_captions_and_status_https_present": true,
+        "jpeg_exact_sha256_https_checked": false,
+        "reason": "Les trois figures ont été directement vérifiées par sélecteur figure#id sur HTTPS, mais le contrôle binaire cryptographique se fera dans le vérificateur de publication. Ne pas confondre présence publique des notices et identité des octets."
+      },
+      "publication_status": "Trois notices de la séance 72 vérifiées sur le site public au commit 3b3d181c..., mais le présent correctif du vérificateur n'a pas encore été déployé. CI et Pages doivent être contrôlés après commit.",
+      "scientific_and_editorial_preservation": "Aucun titre, manuscrit, citation, numéro, UUID, reçu, registre, menu, fichier HTML scientifique ou image modifié. Les attributions anciennes, les origines et le statut IA des trois objets restent inchangés. Aucun vecteur 2,5D ajouté.",
+      "tests": "Vérification structurelle préalable des figures, des trois médias locaux, de la présence des légendes, des URL HTTPS et de la non-duplication. Nouveau test de défaillance HTTP simulée ; suite Python complète GitHub Actions à revérifier.",
+      "limits": "Pas de nouveau test visuel smartphone/tablette ni de recalcul PDF A4 ; contrôle exhaustif des liens scientifiques externes non fait ; l'identité des JPEG publics sera vérifiée par la CI de publication.",
+      "scheduling": "Aucun workflow ou paramètre de fréquence horaire modifié.",
+      "next_session": "Séance 74 — ENRICHISSEMENT ICONOGRAPHIQUE",
+      "commits": [],
+      "commit_note": "Commit atomique du vérificateur, des tests et du journal ; SHA à relever et relire après écriture."
     }
   ]
 }
