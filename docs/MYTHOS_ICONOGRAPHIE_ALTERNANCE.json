@@ -40,7 +40,10 @@
     "deployment_status": "PR 130 encore ouverte à la lecture initiale, non fusionnée ; vérification HTTPS de bobmythos.fr impossible depuis l'outil public de navigation, donc aucune publication publique nouvelle n'est attestée.",
     "limits": "Le responsive visuel smartphone/tablette et le PDF A4 ne sont pas rendus dans un navigateur. Les liens scientifiques externes des quatre pages ne sont pas tous testés individuellement. Après commit : contrôles Actions et intégration main à relire.",
     "next_session": "Séance 78 — ENRICHISSEMENT ICONOGRAPHIQUE",
-    "commits": []
+    "commits": [],
+    "additional_verified_ci_failure": "GitHub Actions run 42284151948 : 458 tests, 2 échecs. L'un provient de test_iconography_session76_odyssee, qui exigeait à tort que la séance 76 reste la dernière après la séance 77. L'autre provient de la galerie 3D : une ancre littérale #lecture-section-{LECTURE_INDEX} sur l'ancien état de la branche ; main a depuis corrigé la galerie au commit 39bd5cbf9ece075c8c4cba79fc68626ea9e338ba. Ne pas écraser la galerie plus récente de main.",
+    "additional_correction": "Test s76 rendu pérenne : il vérifie que la dernière entrée du journal est bien latest_session et que toutes les séances 74 et suivantes alternent sans saut. La galerie 3D corrigée sur main est préservée sans écriture depuis notre branche ; nouvelle CI sur PR à confirmer avec main actuel.",
+    "additional_ci_status": "Dernier commit de la séance 77 à revérifier sur GitHub Actions ; le résultat des deux tests échoués n'est pas encore déclaré résolu tant que la nouvelle CI n'est pas verte."
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
   "history": [
@@ -4705,7 +4708,10 @@
       "deployment_status": "PR 130 encore ouverte à la lecture initiale, non fusionnée ; vérification HTTPS de bobmythos.fr impossible depuis l'outil public de navigation, donc aucune publication publique nouvelle n'est attestée.",
       "limits": "Le responsive visuel smartphone/tablette et le PDF A4 ne sont pas rendus dans un navigateur. Les liens scientifiques externes des quatre pages ne sont pas tous testés individuellement. Après commit : contrôles Actions et intégration main à relire.",
       "next_session": "Séance 78 — ENRICHISSEMENT ICONOGRAPHIQUE",
-      "commits": []
+      "commits": [],
+      "additional_verified_ci_failure": "GitHub Actions run 42284151948 : 458 tests, 2 échecs. L'un provient de test_iconography_session76_odyssee, qui exigeait à tort que la séance 76 reste la dernière après la séance 77. L'autre provient de la galerie 3D : une ancre littérale #lecture-section-{LECTURE_INDEX} sur l'ancien état de la branche ; main a depuis corrigé la galerie au commit 39bd5cbf9ece075c8c4cba79fc68626ea9e338ba. Ne pas écraser la galerie plus récente de main.",
+      "additional_correction": "Test s76 rendu pérenne : il vérifie que la dernière entrée du journal est bien latest_session et que toutes les séances 74 et suivantes alternent sans saut. La galerie 3D corrigée sur main est préservée sans écriture depuis notre branche ; nouvelle CI sur PR à confirmer avec main actuel.",
+      "additional_ci_status": "Dernier commit de la séance 77 à revérifier sur GitHub Actions ; le résultat des deux tests échoués n'est pas encore déclaré résolu tant que la nouvelle CI n'est pas verte."
     }
   ]
 }

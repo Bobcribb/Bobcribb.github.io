@@ -51,8 +51,17 @@ class IconographySession76(unittest.TestCase):
             "AUDIT ET CORRECTION",
             "ENRICHISSEMENT ICONOGRAPHIQUE",
         ])
-        self.assertEqual(journal["latest_session"], sessions[-1])
         self.assertEqual(sessions[-1]["next_kind"], "AUDIT ET CORRECTION")
+        # The latest session naturally advances on the next hourly run;
+        # this test must not freeze the journal at session 76 forever.
+        self.assertEqual(journal["latest_session"], journal["history"][-1])
+        later = [event for event in journal["history"]
+                 if event.get("session_number", 0) >= 74]
+        for previous, current in zip(later, later[1:]):
+            self.assertEqual(current["session_number"], previous["session_number"] + 1)
+            self.assertEqual(current["previous_kind"], previous["kind"])
+            self.assertEqual(previous["next_kind"], current["kind"])
+            self.assertNotEqual(previous["kind"], current["kind"])
 
 if __name__ == "__main__":
     unittest.main()
