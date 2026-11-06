@@ -10,7 +10,7 @@ Le fichier existant `reconstitutions-photorealistes.html` contient une cible ré
 
 ## Correctif minimal
 
-Remplacement **exclusif** du `href` non résolu par `#lecture-section-76` à son emplacement historique, sans modifier le contenu scientifique, l'ordre des 82 reconstitutions, leurs images WebP ou leurs notices. Le test `tests/test_gallery_toc_anchor_20261106.py` vérifie le respect de toutes les ancres du sommaire et le lien explicite Métaponte.
+Remplacement ciblé de deux `href` incorrects : la cible non résolue de Métaponte devient `#lecture-section-76`, et Akragas retrouve `#lecture-section-75`, sans modifier le contenu scientifique, l'ordre des 82 reconstitutions, leurs images WebP ou leurs notices. Le test `tests/test_gallery_toc_anchor_20261106.py` vérifie les 82 entrées du sommaire, leur unicité, et les liens explicites de Métaponte (76) et Akragas (75).
 
 Les séries numérotées, les registres transactionnels, les workflows, la charte noir et or et les autres automatisations MYTHOS demeurent inchangés.
 
