@@ -1,0 +1,54 @@
+/* Énéide : sources scientifiques et renvois croisés. Ajoutés au rendu seul. */
+body.mythos-design .mythos-eneide-sources{
+  max-width:1050px;margin:clamp(1.6rem,4vw,3.2rem) auto;
+  padding:clamp(1rem,3vw,2rem);
+  background:#121b1d;border:1px solid #977a50;border-left:4px solid #d1af76;
+  border-radius:5px;color:#f0e5d1;overflow-wrap:anywhere;
+}
+body.mythos-design .mythos-eneide-sources h2{
+  color:#f3d7a5;font-size:clamp(1.4rem,2.5vw,2rem);margin:.2rem 0 1rem;
+}
+body.mythos-design .mythos-eneide-sources p{max-width:78ch;line-height:1.8}
+body.mythos-design .mythos-eneide-sources details{
+  padding:14px;border:1px solid #7b6548;background:#0d1315;border-radius:4px;
+}
+body.mythos-design .mythos-eneide-sources summary{
+  cursor:pointer;color:#f4d7a3;font-weight:600;min-height:44px;line-height:1.6;
+}
+body.mythos-design .mythos-eneide-source-grid{
+  display:grid;grid-template-columns:repeat(2,minmax(0,1fr));
+  gap:10px 22px;margin:16px 0 6px;padding:0 0 0 1.8rem;
+}
+body.mythos-design .mythos-eneide-source-grid li{min-width:0;padding:3px 0}
+body.mythos-design .mythos-eneide-source-grid a{
+  display:block;padding:8px 4px;min-height:44px;box-sizing:border-box;
+  color:#ead19f;text-decoration:underline;text-underline-offset:3px;
+}
+body.mythos-design .mythos-eneide-pair-nav{
+  display:flex;flex-wrap:wrap;align-items:center;gap:12px 22px;
+  margin:22px auto;padding:14px 18px;max-width:1050px;
+  border:1px solid #8a714e;border-radius:5px;background:#162024;
+  color:#e9dcc4;box-sizing:border-box;
+}
+body.mythos-design .mythos-eneide-pair-nav p{margin:0;flex-basis:100%}
+body.mythos-design .mythos-eneide-pair-nav a{
+  display:inline-flex;align-items:center;min-height:44px;
+  color:#f1d29b;text-decoration:underline;text-underline-offset:3px;
+  overflow-wrap:anywhere;
+}
+body.mythos-design :is(.mythos-eneide-sources,.mythos-eneide-pair-nav) a:focus-visible,
+body.mythos-design .mythos-eneide-sources summary:focus-visible{
+  outline:3px solid #ffda9b;outline-offset:3px;
+}
+body.mythos-design #eneide-manuscrits-originaux{scroll-margin-top:90px}
+@media(max-width:680px){
+  body.mythos-design .mythos-eneide-source-grid{grid-template-columns:minmax(0,1fr);gap:3px}
+  body.mythos-design .mythos-eneide-pair-nav{flex-direction:column;align-items:stretch;margin:16px 0}
+  body.mythos-design .mythos-eneide-pair-nav a{display:flex;width:100%}
+  body.mythos-design .mythos-eneide-sources{padding:16px 13px}
+}
+@media print{
+  body.mythos-design .mythos-eneide-sources,
+  body.mythos-design .mythos-eneide-pair-nav{background:white;color:black;border:1px solid #555}
+  body.mythos-design .mythos-eneide-sources details{display:block}
+}
