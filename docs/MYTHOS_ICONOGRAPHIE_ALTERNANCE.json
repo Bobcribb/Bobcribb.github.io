@@ -9,22 +9,26 @@
     "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
     "previous_kind": "AUDIT ET CORRECTION",
     "next_kind": "AUDIT ET CORRECTION",
-    "scope": "Deux schémas 2D documentés pour Iliade I et Odyssée XXIV ; ajout dans la Théogonie d'une photographie patrimoniale du bronze d'Athéna du Met (50.11.1, CC0).",
+    "scope": "Deux schémas 2D documentés pour Iliade I et Odyssée XXIV ; ajout dans la Théogonie d'une photographie patrimoniale du bronze d'Athéna du Met (50.11.1, CC0). Enrichissement documentaire complémentaire de la même séance (PR #80) : laraire des Vettii et médaillons théâtraux du Met, sans les confondre avec des images grecques d'Hestia ou des masques effectivement portés.",
     "basis_main_at_review": "e8905d0d006b7d965f2cbc7cd65e1563858a2292",
     "modified_pages": [
       "philosophie-iliade.html",
       "philosophie-odyssee.html",
-      "philosophie-theogonie.html"
+      "philosophie-theogonie.html",
+      "dieu-hestia/index.html",
+      "theatre-grec.html"
     ],
     "new_assets": [
       "assets/philosophie/iliade-chryses-crise-20261106-s70.svg",
       "assets/philosophie/odyssee-ithaque-paix-20261106-s70.svg"
     ],
-    "new_figures": 3,
+    "new_figures": 5,
     "primary_sources": [
       "Homère, Iliade I, 12–120 ; poésieintranslation.com/PITBR/Greek/Iliad1.php",
       "Homère, Odyssée XXIV, 412–548 ; poetryintranslation.com/PITBR/Greek/Odyssey24.php",
-      "Hésiode, Théogonie 886–900 et 924–926 ; Metropolitan Museum of Art, n° 50.11.1, vers 460 av. J.-C., CC0"
+      "Hésiode, Théogonie 886–900 et 924–926 ; Metropolitan Museum of Art, n° 50.11.1, vers 460 av. J.-C., CC0",
+      "Laraire de Pompéi : Patricio Lorente et Waterborough, Wikimedia Commons, CC BY-SA 2.5, https://commons.wikimedia.org/wiki/File:Casa_dei_Vettii_-_Larario.jpg",
+      "Médaillons hellénistiques : Metropolitan Museum of Art, inv. 2001.767.1–2, domaine public CC0, https://www.metmuseum.org/art/collection/search/257595"
     ],
     "precommit_static_checks": {
       "philosophie-iliade.html": {
@@ -59,7 +63,45 @@
     "preservation": "Aucun manuscrit, numéro, UUID, reçu, registre, menu, script, CSS/JS, ni automatisation horaire modifié.",
     "limitations": "Pas d'exécution locale complète des tests Python, pas de rendu mobile ni validation PDF A4. Contrôle CI et publication HTTPS à effectuer après commit.",
     "public_deployment_status": "Non confirmé à la rédaction ; ne pas inférer la publication d'un commit main.",
-    "next_session": "Séance 71 — AUDIT ET CORRECTION"
+    "next_session": "Séance 71 — AUDIT ET CORRECTION",
+    "supplemental_documentary_figures": {
+      "source_pr": 80,
+      "original_branch": "mythos-iconographie-s70-hestia-masques-20261106",
+      "figures": [
+        {
+          "page": "dieu-hestia/index.html",
+          "id": "icono-hestia-laraire-vettii-comparaison-s70-20261106",
+          "asset": "/media/2026/10/mythos-lararium-maison-vettii-pompei-lorente-waterborough.jpg",
+          "source": "Wikimedia Commons Patricio Lorente / Waterborough, CC BY-SA 2.5",
+          "date": "Ier siècle apr. J.-C.",
+          "status": "document romain authentique, non image d'Hestia grecque, non IA"
+        },
+        {
+          "page": "theatre-grec.html",
+          "id": "icono-theatre-masques-met-2001-767-s70-20261106",
+          "asset": "/media/2026/10/mythos-masques-theatre-rondelles-hellenistiques-met-2001-767.jpg",
+          "source": "Met 257595, inv. 2001.767.1–2, Open Access CC0",
+          "date": "Ier siècle av. J.-C.",
+          "status": "médaillons grecs authentiques, non masques de scène portés, non IA"
+        }
+      ],
+      "original_precommit_checks": {
+        "pages_checked": 2,
+        "previous_figures_hestia": 5,
+        "previous_figures_theatre": 2,
+        "added": 2,
+        "duplicate_new_ids": 0,
+        "missing_media_in_manifest": 0,
+        "figures_with_alt_caption_source_date_licenses": 2,
+        "existing_html_preserved": "Seule insertion de figure ; le fichier original se reconstitue intégralement après retrait du bloc.",
+        "priority_studies": "Iliade, Odyssée et Théogonie déjà illustrées (40/39/39 figures) ; aucune image redondante ajoutée. Pagination A4 historique 107/101/103, non recalculée."
+      },
+      "read_only_references": {
+        "hestia": "https://commons.wikimedia.org/wiki/File:Casa_dei_Vettii_-_Larario.jpg",
+        "theatre": "https://www.metmuseum.org/art/collection/search/257595"
+      },
+      "notes": "Deux figures authentiques insérées sans altération des pages préexistantes, avec statut non-IA, datation et limites documentaires. Aucun média binaire ajouté."
+    }
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
   "history": [
@@ -4219,7 +4261,80 @@
       "public_observation": "Contrôle HTTP/HTTPS indépendant : /catalog/publication-verification.json indique encore source_commit db016f6cbc0bec783e369a1e2874f0c6a1883aa6, 1604 documents, 27 tomes, 110 médias, github_run_id 42175517252. La mise en ligne des trois figures de la séance 68, des 18 lecteurs remaquettés et du correctif reste NON confirmée.",
       "preservation": "Aucun nouveau chapitre, aucun changement de numérotation, d'UUID, de reçu, de registre, de texte universitaire, de CSS existant, de navigation ni d'automatisation horaire lors de cette séance. AGENTS.md et docs/PUBLICATION_CONCURRENTE.md lus sur main.",
       "obstacles": "Concurrence de commits entre plusieurs chantiers sur main ; la PR #77 est fermée sans fusion, les corrections équivalentes déjà fusionnées sur main. Le déploiement public reste à prouver par Actions terminée, manifeste HTTPS actualisé et présence effective des trois figure id.",
-      "next_session": "Séance 70 — ENRICHISSEMENT ICONOGRAPHIQUE"
+      "next_session": "Séance 70 — ENRICHISSEMENT ICONOGRAPHIQUE",
+      "parallel_audit_pr75": {
+        "source_pr": 75,
+        "comment": "Audit scientifique et technique parallèle rattaché à l'unique séance 69, sans remplacer le rapport déjà fusionné à main.",
+        "basis_commit": "e528c46ad1a2f962e0eea3ac062a8fc51598bebf",
+        "merged_pr": {
+          "number": 73,
+          "head_commit": "d96f92df4a320b4a6a269aaab4514a059c5bd871",
+          "merge_commit": "7260760fbb4375aa20864577ba7b1f8fbef2b640",
+          "two_pr_checks": {
+            "audit": 42180746112,
+            "generator": 42180746119,
+            "status": "success"
+          },
+          "verified_on_main": true
+        },
+        "audit": {
+          "repository_snapshot": "555e491d0dda28fc6be0f0ce43483d8014a947dd",
+          "pages_checked": 17,
+          "internal_anchors_checked": 597,
+          "broken_same_page_anchors": 0,
+          "local_html_references_checked": 8514,
+          "missing_local_targets": 0,
+          "images_checked": 333,
+          "images_without_alt_attribute": 0,
+          "decorative_images_with_empty_alt": 91,
+          "duplicate_html_ids": 0,
+          "all_checked_pages_have_viewport": true,
+          "all_checked_pages_have_single_h1": true,
+          "static_css_js_refs_included_in_local_reference_check": true,
+          "html_css_js_validation": "Static HTML/reference check; full generator and JS syntax verification delegated to CI. No independent live multi-viewport browser audit.",
+          "pages_with_session68_figures": [
+            "philosophie-iliade.html",
+            "philosophie-odyssee.html",
+            "philosophie-theogonie.html"
+          ],
+          "new_image_assets": 0
+        },
+        "numbering_audit": {
+          "registry_source_commit": "555e491d0dda28fc6be0f0ce43483d8014a947dd",
+          "allocations_by_collection": {
+            "origines-du-sacre": 125,
+            "encyclopedie": 97,
+            "comedies": 64,
+            "tragedies": 64,
+            "comparatif": 135
+          },
+          "total_allocations": 485,
+          "duplicate_allocation_numbers": 0,
+          "duplicate_allocation_paths": 0,
+          "missing_allocated_markdown": 0,
+          "legacy_historical_exceptions_retained": true
+        },
+        "publication_audit": {
+          "public_manifest_url": "https://bobmythos.fr/catalog/publication-verification.json",
+          "observed_source_commit": "db016f6cbc0bec783e369a1e2874f0c6a1883aa6",
+          "observed_run_id": 42175517252,
+          "session66_live_images_detected": 0,
+          "session68_live_images_detected": 0,
+          "public_images_checked_on_three_works": 6,
+          "conclusion": "Publication publique de la séance 68 non confirmée ; le manifeste et les images HTTPS montrent un état antérieur."
+        },
+        "new_verified_blocker": {
+          "failure_workflow_runs": [
+            42183909644,
+            42184528704
+          ],
+          "reason": "Collision d'identifiant historique MC-096 dans scripts/comparative_history.py (ValueError) avant déploiement ; retards supplémentaires par annulation de jobs lors de commits concurrents.",
+          "already_corrected_by_another_main_commit": "e528c46ad1a2f962e0eea3ac062a8fc51598bebf",
+          "correction": "Le second manuscrit MC-096 (UUID 4f96a7d1-7cde-4b95-ae63-202611060096) a été mis en attente, source intacte, dans editorial/holds.json ; ce journal ne touche pas aux attributions.",
+          "revalidation": "Workflow sur commit de correction en cours au dernier contrôle ; HTTPS toujours à vérifier."
+        },
+        "limitations": "17 pages contrôlées statiquement, non toutes les pages HTML ; pas de test responsive navigateur réel, pas de contrôle HTTP exhaustif des liens externes ni de nouveau comptage A4 (historique : 107/101/103 pages d'analyse)."
+      }
     },
     {
       "date": "2026-11-06",
@@ -4227,22 +4342,26 @@
       "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
       "previous_kind": "AUDIT ET CORRECTION",
       "next_kind": "AUDIT ET CORRECTION",
-      "scope": "Deux schémas 2D documentés pour Iliade I et Odyssée XXIV ; ajout dans la Théogonie d'une photographie patrimoniale du bronze d'Athéna du Met (50.11.1, CC0).",
+      "scope": "Deux schémas 2D documentés pour Iliade I et Odyssée XXIV ; ajout dans la Théogonie d'une photographie patrimoniale du bronze d'Athéna du Met (50.11.1, CC0). Enrichissement documentaire complémentaire de la même séance (PR #80) : laraire des Vettii et médaillons théâtraux du Met, sans les confondre avec des images grecques d'Hestia ou des masques effectivement portés.",
       "basis_main_at_review": "e8905d0d006b7d965f2cbc7cd65e1563858a2292",
       "modified_pages": [
         "philosophie-iliade.html",
         "philosophie-odyssee.html",
-        "philosophie-theogonie.html"
+        "philosophie-theogonie.html",
+        "dieu-hestia/index.html",
+        "theatre-grec.html"
       ],
       "new_assets": [
         "assets/philosophie/iliade-chryses-crise-20261106-s70.svg",
         "assets/philosophie/odyssee-ithaque-paix-20261106-s70.svg"
       ],
-      "new_figures": 3,
+      "new_figures": 5,
       "primary_sources": [
         "Homère, Iliade I, 12–120 ; poésieintranslation.com/PITBR/Greek/Iliad1.php",
         "Homère, Odyssée XXIV, 412–548 ; poetryintranslation.com/PITBR/Greek/Odyssey24.php",
-        "Hésiode, Théogonie 886–900 et 924–926 ; Metropolitan Museum of Art, n° 50.11.1, vers 460 av. J.-C., CC0"
+        "Hésiode, Théogonie 886–900 et 924–926 ; Metropolitan Museum of Art, n° 50.11.1, vers 460 av. J.-C., CC0",
+        "Laraire de Pompéi : Patricio Lorente et Waterborough, Wikimedia Commons, CC BY-SA 2.5, https://commons.wikimedia.org/wiki/File:Casa_dei_Vettii_-_Larario.jpg",
+        "Médaillons hellénistiques : Metropolitan Museum of Art, inv. 2001.767.1–2, domaine public CC0, https://www.metmuseum.org/art/collection/search/257595"
       ],
       "precommit_static_checks": {
         "philosophie-iliade.html": {
@@ -4277,7 +4396,45 @@
       "preservation": "Aucun manuscrit, numéro, UUID, reçu, registre, menu, script, CSS/JS, ni automatisation horaire modifié.",
       "limitations": "Pas d'exécution locale complète des tests Python, pas de rendu mobile ni validation PDF A4. Contrôle CI et publication HTTPS à effectuer après commit.",
       "public_deployment_status": "Non confirmé à la rédaction ; ne pas inférer la publication d'un commit main.",
-      "next_session": "Séance 71 — AUDIT ET CORRECTION"
+      "next_session": "Séance 71 — AUDIT ET CORRECTION",
+      "supplemental_documentary_figures": {
+        "source_pr": 80,
+        "original_branch": "mythos-iconographie-s70-hestia-masques-20261106",
+        "figures": [
+          {
+            "page": "dieu-hestia/index.html",
+            "id": "icono-hestia-laraire-vettii-comparaison-s70-20261106",
+            "asset": "/media/2026/10/mythos-lararium-maison-vettii-pompei-lorente-waterborough.jpg",
+            "source": "Wikimedia Commons Patricio Lorente / Waterborough, CC BY-SA 2.5",
+            "date": "Ier siècle apr. J.-C.",
+            "status": "document romain authentique, non image d'Hestia grecque, non IA"
+          },
+          {
+            "page": "theatre-grec.html",
+            "id": "icono-theatre-masques-met-2001-767-s70-20261106",
+            "asset": "/media/2026/10/mythos-masques-theatre-rondelles-hellenistiques-met-2001-767.jpg",
+            "source": "Met 257595, inv. 2001.767.1–2, Open Access CC0",
+            "date": "Ier siècle av. J.-C.",
+            "status": "médaillons grecs authentiques, non masques de scène portés, non IA"
+          }
+        ],
+        "original_precommit_checks": {
+          "pages_checked": 2,
+          "previous_figures_hestia": 5,
+          "previous_figures_theatre": 2,
+          "added": 2,
+          "duplicate_new_ids": 0,
+          "missing_media_in_manifest": 0,
+          "figures_with_alt_caption_source_date_licenses": 2,
+          "existing_html_preserved": "Seule insertion de figure ; le fichier original se reconstitue intégralement après retrait du bloc.",
+          "priority_studies": "Iliade, Odyssée et Théogonie déjà illustrées (40/39/39 figures) ; aucune image redondante ajoutée. Pagination A4 historique 107/101/103, non recalculée."
+        },
+        "read_only_references": {
+          "hestia": "https://commons.wikimedia.org/wiki/File:Casa_dei_Vettii_-_Larario.jpg",
+          "theatre": "https://www.metmuseum.org/art/collection/search/257595"
+        },
+        "notes": "Deux figures authentiques insérées sans altération des pages préexistantes, avec statut non-IA, datation et limites documentaires. Aucun média binaire ajouté."
+      }
     }
   ]
 }
