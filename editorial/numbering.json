@@ -849,6 +849,18 @@
           "path": "chapitres/origines-du-sacre/713-abydos-premiere-dynastie-tombes-subsidiaires-sacrifice-royal-campbell-2026.md",
           "request_sha256": "6bb027597d90f3f4b61ca25bb955f941cca28f6e71d478193d188c9713e9eaa2",
           "initial_source_sha256": "5f4af3fd95be851162d76fb8a460f442ce3953a405a5ad8c79b232da487a1523"
+        },
+        "7e3b9061-8192-40f0-90c2-8fd610c70191": {
+          "number": 714,
+          "path": "chapitres/origines-du-sacre/714-kerma-tumuli-royaux-cimetiere-oriental-bucranes-accompagnants-nubie.md",
+          "request_sha256": "ee81b273d061f2264be6a5b6c3777e1d2cd91fa09b25e85ba483030aac744776",
+          "initial_source_sha256": "7a5d987dffcd99e2fb6d215b2f3a9f49f4c2732e56729a72a73952deacdb355c"
+        },
+        "a507d3b4-8e11-4920-923b-699ac6d1210e": {
+          "number": 715,
+          "path": "chapitres/origines-du-sacre/715-sipan-huaca-rajada-tombes-royales-moche-accompagnants-iconographie-sacrifice.md",
+          "request_sha256": "a7c9e21a01e47818916ea78878770cef0b356120098200d9b8039d38ee2704b4",
+          "initial_source_sha256": "7ef4b3cc718f855511a3f8bc158be3d0cf1db30bd55101899611d8b19447ccf0"
         }
       }
     },
@@ -2392,6 +2404,18 @@
           "path": "chapitres/tragedies/volume-cclviii-agathon-telephe-trgf-f4-enigme-thesee-alphabet-mysie.md",
           "request_sha256": "fe796645aaa074e0448ca3e14563b400aba1aa636fc848962465e36ffb1f38b5",
           "initial_source_sha256": "73f4d892eac1373991b83516841f804eaaa49405e690c73dd1ce63fec0701272"
+        },
+        "12d2ef61-cf88-4dbe-8342-6ec98d4e2dc7": {
+          "number": 259,
+          "path": "chapitres/tragedies/volume-cclix-acheos-eretrie-azanes-identite-territoire-sacrifice-choeur.md",
+          "request_sha256": "8fa27d393574c6137e6fe56c4fecda9bae2ffa659091f508b75075cc0f7ac2c6",
+          "initial_source_sha256": "567195c94f3d3aa732d2654aac685ae8111a7f66ce21b78db0394ff34957df2e"
+        },
+        "e7c9ab01-5011-48cd-a783-ccad3d42b8e5": {
+          "number": 260,
+          "path": "chapitres/tragedies/volume-cclx-acheos-eretrie-adrastos-royaute-alliances-survie-thebes.md",
+          "request_sha256": "64bd4de47211baccfe95c4c41f7b95d065ff4a35eb37bddfa6bfab64745a6b64",
+          "initial_source_sha256": "6d6eef6df86ad2b23795ab457cdce51f6d799832ff6a12a9b0e0e0b8358825b1"
         }
       }
     },
@@ -3253,6 +3277,12 @@
           "path": "chapitres/comparatif/volume-cclxxxiv-mc-092-miroirs-du-divin-reflet-apparition-divination-souverainete-egypte-japon.md",
           "request_sha256": "8d33a601fb4a1898f59539e17e06c2d7fb0c10716bea75678e6448a4c064664d",
           "initial_source_sha256": "0188f054b2aa80c77d7af29853d53d4e7f0e415d9927a5f7d0c98f240860721b"
+        },
+        "c75b425d-2a61-4ca9-9247-202611060436": {
+          "number": 285,
+          "path": "chapitres/comparatif/volume-cclxxxv-nuees-vieux-et-nouveau-solon-calendrier-dettes-credit-proces-423.md",
+          "request_sha256": "9469b69980d32b2be7f710fa7ce7e57f578c75895090e46b5be1362083f831df",
+          "initial_source_sha256": "35b933f95edbf56775f8b0b97b341bf7978d6b94159f0d1c139b656c24f8748c"
         }
       }
     }

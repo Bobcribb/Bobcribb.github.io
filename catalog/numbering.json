@@ -1896,6 +1896,18 @@
         "url": "/chapitres/tragedies/volume-cclviii-agathon-telephe-trgf-f4-enigme-thesee-alphabet-mysie/",
         "title": "Volume CCLVIII (258) — Agathon, Télèphe (Τήλεφος) — Écrire le nom de Thésée sans savoir lire : six vers, armes figurées, reconnaissance et pouvoir des signes",
         "source": "chapitres/tragedies/volume-cclviii-agathon-telephe-trgf-f4-enigme-thesee-alphabet-mysie.md"
+      },
+      {
+        "number": 259,
+        "url": "/chapitres/tragedies/volume-cclix-acheos-eretrie-azanes-identite-territoire-sacrifice-choeur/",
+        "title": "Volume CCLIX (259) — Achéos d'Érétrie, Les Azanes (Ἀζάνες) — Le peuple devant le dieu : supplication, partage sacrificiel, identité arcadienne et mémoire des origines",
+        "source": "chapitres/tragedies/volume-cclix-acheos-eretrie-azanes-identite-territoire-sacrifice-choeur.md"
+      },
+      {
+        "number": 260,
+        "url": "/chapitres/tragedies/volume-cclx-acheos-eretrie-adrastos-royaute-alliances-survie-thebes/",
+        "title": "Volume CCLX (260) — Achéos d'Érétrie, Adraste (Ἄδραστος) — Le survivant de Thèbes : royauté, alliance, erreur et mémoire des morts",
+        "source": "chapitres/tragedies/volume-cclx-acheos-eretrie-adrastos-royaute-alliances-survie-thebes.md"
       }
     ],
     "comparatif": [
@@ -3293,6 +3305,12 @@
         "url": "/chapitres/comparatif/volume-cclxxxiv-mc-092-miroirs-du-divin-reflet-apparition-divination-souverainete-egypte-japon/",
         "title": "Volume CCLXXXIV (284) — MC-092 — Les miroirs du divin : reflet, apparition, divination, offrande et souveraineté, de l’Égypte au Japon",
         "source": "chapitres/comparatif/volume-cclxxxiv-mc-092-miroirs-du-divin-reflet-apparition-divination-souverainete-egypte-japon.md"
+      },
+      {
+        "number": 285,
+        "url": "/chapitres/comparatif/volume-cclxxxv-nuees-vieux-et-nouveau-solon-calendrier-dettes-credit-proces-423/",
+        "title": "Volume CCLXXXV (285) — Un jour peut-il en être deux ? Solon, l'échéance lunaire et la capture du calendrier judiciaire dans les Nuées d'Aristophane (423 av. notre ère)",
+        "source": "chapitres/comparatif/volume-cclxxxv-nuees-vieux-et-nouveau-solon-calendrier-dettes-credit-proces-423.md"
       }
     ],
     "comedies": [
@@ -5613,6 +5631,18 @@
         "url": "/chapitres/origines-du-sacre/713-abydos-premiere-dynastie-tombes-subsidiaires-sacrifice-royal-campbell-2026/",
         "title": "Chapitre 713 — Abydos avant les pyramides : tombes subsidiaires, souveraineté, sacrifices de l'entourage et nouvelle enquête médico-légale sur les premiers rois d'Égypte",
         "source": "chapitres/origines-du-sacre/713-abydos-premiere-dynastie-tombes-subsidiaires-sacrifice-royal-campbell-2026.md"
+      },
+      {
+        "number": 714,
+        "url": "/chapitres/origines-du-sacre/714-kerma-tumuli-royaux-cimetiere-oriental-bucranes-accompagnants-nubie/",
+        "title": "Chapitre 714 — Kerma, les grands tumuli et les morts de l'entourage : souveraineté nubienne, bucranes, « personnes du corridor » et architecture funéraire avant Napata",
+        "source": "chapitres/origines-du-sacre/714-kerma-tumuli-royaux-cimetiere-oriental-bucranes-accompagnants-nubie.md"
+      },
+      {
+        "number": 715,
+        "url": "/chapitres/origines-du-sacre/715-sipan-huaca-rajada-tombes-royales-moche-accompagnants-iconographie-sacrifice/",
+        "title": "Chapitre 715 — Sipán : la mort du seigneur, les gardiens et la « cérémonie de présentation » — tombes moche de Huaca Rajada, pouvoir, sacrifice et images du sacré dans les Andes",
+        "source": "chapitres/origines-du-sacre/715-sipan-huaca-rajada-tombes-royales-moche-accompagnants-iconographie-sacrifice.md"
       }
     ]
   },
