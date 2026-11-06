@@ -214,6 +214,73 @@ def _shield_original_archive(rel, raw):
     return raw[:opener.start()] + guard + raw[stop:], guard, original
 
 
+def add_home_integral_archive_shelf(doc, root):
+    """Relier deux éditions historiques déjà publiques sans recopier leurs textes.
+
+    Les fichiers intégraux sont la source de vérité ; une carte n'est créée
+    que si son lecteur et sa photographie documentée existent dans le build.
+    Cette opération ne touche ni aux manuscrits ni aux séries numérotées.
+    """
+    section = doc.select_one('#corpus-status')
+    if section is None:
+        return 0
+    for old in section.select('[data-mythos-integral-archives]'):
+        old.decompose()
+    # Les légendes reprennent les crédits du catalogue scripts/editorial_media.json.
+    entries = (
+        (
+            '/corpus/mythologie-grecque/02-dieux-et-divinites/aphrodite-etude-integrale.html',
+            '/media/2026/10/mythos-aphrodite-cygne-kylix-british-museum.jpg',
+            'Aphrodite — étude universitaire intégrale',
+            'Traditions, cultes, sources anciennes et philosophie du désir.',
+            'Aphrodite sur un cygne, coupe attique du peintre de Pistoxénos, vers 460 av. n. è.',
+            'Peintre de Pistoxénos, kylix, British Museum GR 1869.10-7.77 ; photo Marie-Lan Nguyen (2007), CC BY 2.5.',
+            'https://commons.wikimedia.org/wiki/File:Aphrodite_swan_BM_D2.jpg',
+            'https://creativecommons.org/licenses/by/2.5/',
+        ),
+        (
+            '/corpus/origines-du-sacre/edition-integrale-tomes-I-XXVII.html',
+            '/media/2026/10/mythos-ounas-chambre-funeraire-vincent-brown.jpg',
+            'Origines du sacré — édition historique I à XXVII',
+            'Les vingt-sept tomes complets, sans extraction ni résumé.',
+            'Photographie de la chambre funéraire d’Ounas, témoin égyptien contextuel (et non illustration de tous les chapitres).',
+            'Pyramide d’Ounas, Saqqarah, Ve dynastie ; photo Vincent Brown (2011), CC BY 2.0.',
+            'https://commons.wikimedia.org/wiki/File:Burial_chamber_in_Unas%27_pyramid.jpg',
+            'https://creativecommons.org/licenses/by/2.0/',
+        ),
+    )
+    cards = []
+    for link, picture_url, title, description, alt, credit, source, license_url in entries:
+        if not (root / link.lstrip('/')).is_file():
+            continue
+        if not (root / picture_url.lstrip('/')).is_file():
+            continue
+        cards.append(
+            '<article class="mythos-home-archive-card">'
+            '<a class="mythos-home-archive-link" href="' + html.escape(link, quote=True) + '">'
+            '<img src="' + html.escape(picture_url, quote=True) + '" alt="'
+            + html.escape(alt, quote=True) + '" loading="lazy" decoding="async"/>'
+            '<strong>' + html.escape(title) + '</strong>'
+            '<span>' + html.escape(description) + '</span></a>'
+            '<p class="mythos-home-archive-credit">' + html.escape(credit)
+            + ' <a href="' + html.escape(source, quote=True)
+            + '">Source de l’image</a> · <a href="'
+            + html.escape(license_url, quote=True)
+            + '">Licence</a>.</p></article>'
+        )
+    if not cards:
+        return 0
+    panel = fragment(
+        '<div class="mythos-home-archive-shelf" data-mythos-integral-archives="v1">'
+        '<h3>Accès aux éditions historiques intégrales</h3>'
+        '<p>Textes originaux déjà conservés sur MYTHOS : '
+        'lecture directe, sommaires et bibliographies de leurs éditions conservés.</p>'
+        '<div class="mythos-home-archive-grid">' + ''.join(cards) + '</div></div>'
+    ).div
+    section.append(panel)
+    return len(cards)
+
+
 def apply(root):
     root = Path(root)
     count = 0
@@ -377,6 +444,7 @@ def apply(root):
         # l'accueil, lorsque ce portail présente déjà le groupe dédié. Garder
         # une seule carte et qualifier le caractère interprétatif des images.
         if url == '/':
+            add_home_integral_archive_shelf(doc, root)
             collection_grid = doc.select_one('#home-collections .portal-grid')
             gallery_url = '/reconstitutions-photorealistes.html'
             if (collection_grid and not collection_grid.select_one(
