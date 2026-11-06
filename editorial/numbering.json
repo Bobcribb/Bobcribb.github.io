@@ -1017,6 +1017,12 @@
           "path": "chapitres/origines-du-sacre/741-djenne-djeno-delta-niger-urnes-figurines-sacre-urbanisme.md",
           "request_sha256": "62a4089d946c9ba0e5f387d6466f395a50e0581b2a5893a753de20dc50e9cb82",
           "initial_source_sha256": "975d40ccc5ce1befbc3b1dca04fe27e0e159178349150f994eb1304ea1d57f3c"
+        },
+        "f19c37e0-c423-4afb-b142-202611061915": {
+          "number": 742,
+          "path": "chapitres/origines-du-sacre/742-abomey-palais-royaux-fon-asen-ancetres-vodun-bas-reliefs-restauration.md",
+          "request_sha256": "026642f35a178750d4d0192e0a12c31ebe0fea6e5dd8c71aa58c4ba304570d5e",
+          "initial_source_sha256": "f7a9c54d02531d15aed7be33ed7321ad6e58a0d7fd6d52586557aaaf29b2e045"
         }
       }
     },
@@ -2188,6 +2194,12 @@
           "path": "chapitres/comedies/volume-129-chionides-ptochoi-mendiants-poisson-sale-gnesippos-dioscures-prytanee-authenticite.md",
           "request_sha256": "4a20509a81e87b289fb20d2ffa91e5a1b6b68bbe0fc7c6c158785e63d59ac5d1",
           "initial_source_sha256": "08bb3bcc76249f8f9320f23480fb0f8b17006e6b275a0e8aed6bc50fd78c7bd5"
+        },
+        "e6501fb0-d134-495d-a8c2-202611061919": {
+          "number": 130,
+          "path": "chapitres/comedies/volume-130-ekphantides-peirai-inscription-choregie-epreuve-titre-perdu.md",
+          "request_sha256": "b40ee6f5ba5428db064e6208a5dd1717eedc8220de23c396e883bb7146f99dce",
+          "initial_source_sha256": "9073785333f633539145341f33095921f777dac2dc9c3de0484333ad13676f3c"
         }
       }
     },
@@ -2740,6 +2752,12 @@
           "path": "chapitres/tragedies/volume-cclxxv-acheos-eretrie-katapeira-mise-epreuve-trgf-23a-fragtrag-24-philologie.md",
           "request_sha256": "fd24f4a160cf0e97554e4a7aacfa09d04e2c91466f165a21f81e727fbef58259",
           "initial_source_sha256": "2499b6b49db0e2f0bb67423be9cbddbbe8b5a48ced6a010166876bb448f9a987"
+        },
+        "8eddb4c7-9c21-4e1d-a5be-7a6812d4f930": {
+          "number": 276,
+          "path": "chapitres/tragedies/volume-cclxxvi-acheos-eretrie-moirai-destin-satyres-fragments-27-28.md",
+          "request_sha256": "2e9ed1062f5ce09c097433159135246114ee44a49bf34fdf50c3983a22c4130c",
+          "initial_source_sha256": "1989dcd063bc6d3ac3361481683a2d7ff1b5f47c94e4457aa711fc138b4915f5"
         }
       }
     },
@@ -3793,6 +3811,12 @@
           "path": "chapitres/comparatif/volume-cccxvi-mc-108-couronnes-divin-desheret-hedjet-lama-zeus-nezer-corona-xwarrah-kiritin-buddha.md",
           "request_sha256": "83c6ed7c5b1e5cc1671b054f4c819af865686802b05338a81e2ef55a14e1221c",
           "initial_source_sha256": "774c1414a3c0caea81a125d267c3d69a4e8e9195c4f4507918e35a34000968d8"
+        },
+        "1b6f8c42-0ad7-4b1e-9c57-67e3c21f0804": {
+          "number": 317,
+          "path": "chapitres/comparatif/volume-cccxvii-ploutos-hermes-epicleses-pain-pretre-zeus-soter-sacrifice-acropole-388.md",
+          "request_sha256": "56a3b965c88fec57d56c165b91a35e1cdcd9d5715c56758d34fc94fed7fb44eb",
+          "initial_source_sha256": "cfe6d27e3f9775d16292e51ac458ef7d309f79d976d8b88128a60b926d1ef0f5"
         }
       }
     }
