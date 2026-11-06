@@ -1,0 +1,466 @@
+# MYTHOS — Cycle comparatif universitaire — Volume CCCXIV (314)
+
+## Le commun à l'épreuve des objets : dépôt des biens, repas civiques et résistance à la loi dans l’*Assemblée des femmes* d’Aristophane
+
+*Athènes, début du IVe siècle avant notre ère — monographie de philologie politique, d’histoire institutionnelle et de philosophie comparée.*
+
+### Résumé scientifique
+
+Une réforme paraît victorieuse lorsque Praxagora obtient que la cité confie son gouvernement aux femmes. Mais comment le commun existe-t-il réellement une fois la décision prise ? La présente étude isole trois moments des *Ekklesiazousai* : la présentation du régime des biens et de la consommation partagée (vers 571–727), le transport des objets de Chrémès et le refus d'un voisin de contribuer (728–876), enfin l'appel à la fête qui clôt la pièce (1112–1183). Elle soutient que le théâtre transforme une contradiction institutionnelle en problème scénique : l'existence d'une décision collective n'assure ni la sincérité de chaque contribution ni la réciprocité des comportements, et la promesse d'abondance se déploie sur la persistance d'un travail servile et de hiérarchies de statut. Loin de diagnostiquer un « échec du communisme » au sens moderne, la comédie demande ce que les citoyens seraient disposés à céder et ce qu'ils croient autorisés à recevoir lorsque la propriété, la loi et le repas changent de forme.
+
+**Objet distinct au sein de MYTHOS.** L'étude du volume CCLXV (265) porte sur les décrets sexuels et l'âge, principalement aux vers 877–1111 ; celle du volume CCC (300) porte sur les accessoires du vote, la Pnyx et la prise de l'Assemblée, principalement aux vers 1–459. La présente enquête n'en reconduit ni l'une ni l'autre : elle examine la chaîne nouvelle **contribution matérielle → confiance dans la conformité d'autrui → redistribution culinaire → occupation des lieux judiciaires**. Les dossiers consacrés à *Ploutos* (CCV/205), aux *Guêpes* (CCXIX/219) et à la démocratie maritime (CXC/190) sont des comparaisons contrôlées, non des substitutions de l'objet.
+
+### Conventions de preuve
+
+**[T]** signifie témoignage textuel antique localisé et directement vérifié ; **[É]**, proposition lexicale ou philologique soumise à l'établissement du texte ; **[C]**, contexte historique documenté indépendamment ; **[I]**, interprétation argumentée ; **[H]**, hypothèse non démontrée ; **[P]**, comparaison philosophique rétrospective ; **[L]**, limitation documentaire. Une affirmation de personnage comique est toujours une attestation de ce qu'un personnage dit, **jamais la preuve directe** d'un décret réellement appliqué à Athènes. Les rares expressions grecques citées sont courtes et situées ; le français fournit des traductions analytiques originales. Aucun spectateur antique, vote réel, registre de contributions ou repas collectif historique n'est reconstruit à partir du seul texte de la pièce.
+
+---
+
+## I. Délimiter l'expérience : une constitution de comédie n'est pas une constitution historique
+
+### 1. L'objet oublié entre conquête politique et règlement des corps [T/I]
+
+La structure des *Ekklesiazousai* invite à retenir deux images éclatantes : les femmes qui prennent la parole en hommes, puis le jeune homme que des femmes âgées entendent faire obéir à une loi sexuelle. Entre les deux, cependant, les vers 571–876 forment une véritable expérience de gouvernement. Ils ne se contentent pas d'énumérer les plaisirs d'une vie nouvelle : ils demandent comment convertir des maisons, champs, espèces monétaires et ustensiles en moyens communs ; qui enregistre ou constate le dépôt ; quels espaces sont nécessaires à la distribution ; ce que devient le citoyen qui décide de ne pas payer sa part. La scène du voisin réfractaire fournit un contre-exemple précis aux assurances de Praxagora. On peut donc étudier la pièce comme une réflexion dramatique sur **l'exécution d'un ordre collectif**, sans supposer qu'Aristophane aurait rédigé un projet de constitution.
+
+### 2. Une date disputée à l'intérieur d'une période sûre [C/L]
+
+La comédie appartient au début du IVe siècle, après la restauration de la démocratie de 403/402 et pendant la guerre de Corinthe. Une date autour de 392/391 est communément défendue, mais les indices ne produisent pas une certitude à l'année et à la fête près. Alan H. Sommerstein situe l'éventail envisageable vers 393–389 et retient une date probable de 391. L'existence de discussions plus fines autour d'allusions politiques n'autorise donc pas à écrire comme si l'on possédait une didascalie datée et complète. La destruction de 404, l'expérience des Trente, la reconstruction des procédures et la charge d'une nouvelle guerre constituent un arrière-plan historique ; ils n'expliquent pas automatiquement le sens de chaque plaisanterie.
+
+### 3. Le statut du public : spectateurs et bénéficiaires fictifs [T/L]
+
+L'adresse des personnages aux Athéniens rassemble artificiellement plusieurs ensembles. Les hommes qui sont appelés au repas ne sont pas identiques à tous les habitants de l'Attique ; les femmes disposent dans la fiction d'une autorité qu'elles n'avaient pas à l'Assemblée ordinaire ; les personnes asservies continuent d'être présentes dans l'économie. Quant aux acteurs, au chœur, aux juges du concours et aux spectateurs, ils participent à une autre institution : celle de la représentation dramatique. Il serait donc fautif d'identifier la réception du public au suffrage d'une assemblée imaginaire. Le rire peut sanctionner une contradiction sans ratifier un manifeste politique.
+
+### 4. Un régime qui se déclare au futur [É/I]
+
+La temporalité des déclarations de Praxagora importe autant que leur contenu. Les formes verbales annonçant ce qui sera rendu commun, distribué, transformé en salle de repas et organisé par tirage au sort dessinent un **avenir**. Elles ne constituent pas le procès-verbal de ce qui existe déjà. La différence fait tout le jeu de Chrémès : il apporte maintenant ce que d'autres ne déposeront peut-être jamais. L'écart entre futur législatif et présent de l'action explique que la comédie puisse célébrer une profusion que ses mécanismes n'ont pas démontrée.
+
+---
+
+## II. Philologie de la mise en commun : dire le collectif et le faire
+
+### 5. *Koinônein* : partager un usage n'est pas abolir magiquement l'intérêt [T/É]
+
+Aux vers 589–600, Praxagora emploie une famille de mots centrée sur **κοινωνεῖν** (*koinônein*, participer ou avoir en commun), **κοινόν** (*koinon*, commun) et **βίοτος** (*biotos*, vie ou moyens de vivre). Le vers 590 exige que tous participent à tout et vivent à partir de la même source : **κοινωνεῖν γὰρ πάντας ... κἀκ ταὐτοῦ ζῆν**. Le projet ne se résume pas à une division égalitaire d'argent ; il vise une transformation du régime de vie. Toutefois, la polysémie de la participation empêche de déduire que les intéressés acquièrent en pratique un pouvoir équivalent sur la production, la gestion et l'usage. Participer aux produits ne signifie pas nécessairement délibérer sur les moyens de les produire.
+
+### 6. *Biotos homois* : égalité des conditions ou identité des existences ? [T/I]
+
+Praxagora refuse le contraste entre le propriétaire de vastes terrains et celui qui n'a pas même de quoi assurer sa sépulture, ainsi qu'entre le maître de nombreux serviteurs et celui qui n'a personne pour l'accompagner. L'exagération combine les inégalités agricoles, monétaires et domestiques. L'idée d'un **βίοτον ... ὅμοιον** (une condition d'existence semblable) ne prouve pas que chaque participant mènerait une vie identique. La similitude porte d'abord sur les biens disponibles et les formes d'accès annoncées. [I] L'utopie procède en rendant les oppositions sociales indéfendables par une image simple, avant d'affronter les différences de besoin et d'initiative qui résistent à toute formule.
+
+### 7. Terre, argent, autres biens : une totalité sans inventaire [T/I]
+
+Au vers 598, Praxagora associe explicitement **γῆ** (terre), **ἀργύριον** (argent) et les autres choses appartenant à chacun. La terre est à la fois ressource productive, territoire et richesse immobilisée ; l'argent est instrument d'échange et réserve de valeur ; les ustensiles présents sur scène seront des objets d'usage domestique. Le texte recouvre donc plusieurs régimes de possession, qu'un historien devrait distinguer dans de véritables actes notariés. Or aucun inventaire détaillé, mécanisme d'évaluation, échéancier ou modalité de contestation de propriété n'est fourni. Cette absence n'est pas une erreur de l'édition : elle est précisément ce qui rend le programme théâtral universellement plausible pendant quelques vers.
+
+### 8. Les « dariques invisibles » : un problème ancien de dissimulation [T/É]
+
+Aux vers 600–603, Blépyros objecte qu'un homme pourrait ne pas posséder de terre et pourtant conserver de l'argent, jusqu'à des **Δαρεικοί** (*Dareikoi*, dariques), richesse difficile à apercevoir. La mention d'une monnaie étrangère ou de pièces d'or rappelle que la visibilité d'une fortune est très variable. Un terrain se montre ; un trésor se cache. Praxagora répond que son propriétaire déposera l'argent **ἐς τὸ μέσον**, au milieu, c'est-à-dire dans l'espace commun. La question n'est plus de savoir ce que signifie le commun, mais comment connaître les biens que l'on exige de lui attribuer.
+
+### 9. *Pseudeorkêsei* : le parjure révèle le déficit d'information [T/I]
+
+À l'objection de la thésaurisation, la réponse de Praxagora passe par le serment : qui n'aura pas déposé commettra un parjure. Le mot grec **ψευδορκήσει** est présent au vers 603. Mais Blépyros réplique immédiatement que c'est précisément par de telles pratiques que l'intéressé a pu acquérir sa fortune. La scène reconnaît une difficulté logique : recourir à la probité du déposant présuppose ce que la nouvelle institution doit garantir. La valeur du serment ne disparaît pas ; il ne suffit pas comme instrument de vérification quand les intérêts à cacher sont élevés et qu'aucun contrôle indépendant n'est visible.
+
+### 10. *Tamieuomenai kai pheidomenai* : qui administrera ? [T/É/I]
+
+Aux vers 599–600, Praxagora présente les femmes comme celles qui nourriront les hommes en **gérant** et en **économisant** : **ταμιευόμεναι καὶ φειδόμεναι**. Le lexique associe *tamieuein*, administrer des ressources ou tenir les fonctions d'un trésorier, et *pheidesthai*, ménager les dépenses. L'opposition n'est pas simplement femmes raisonnables contre hommes gaspilleurs : la compétence domestique devient la légitimation d'une trésorerie civile. Mais le texte ne raconte ni la nomination d'un comptable, ni la distinction entre ordonnateur et contrôleur, ni le droit pour un ayant droit de consulter des comptes. [I] L'économie du foyer est proposée comme forme de gouvernement sans que soit résolue la question de sa publicité.
+
+### 11. *Ousia* et *chrêmata* : le patrimoine entre identité et circulation [T/É]
+
+À partir de 728, Chrémès se prépare à examiner son **οὐσία** (*ousia*, ce qu'il possède, sa substance patrimoniale), tandis que les **χρήματα** (*chrêmata*, biens ou valeurs d'usage et de richesse) vont sortir de chez lui. La différence grammaticale n'établit aucune opposition juridique systématique, mais elle fait sentir deux perspectives : un ensemble de biens qui définit l'indépendance d'un ménage et des objets que l'on peut porter, donner ou perdre. Le passage du premier au second sera littéralement représenté par des serviteurs, des charges et un chemin vers l'agora. Le commun doit convertir une richesse située dans une maison en choses transportables.
+
+### 12. *Skeuê* et *skeuē* : rendre la richesse visible [T/É/I]
+
+Le vocabulaire de Chrémès donne un rôle important aux **σκεύη** (*skeuê*, équipements, ustensiles, mobilier). On ne voit pas la terre entière transportée sur scène ; on voit ce qui rend une maison habitable et hospitalière. La préférence dramaturgique n'est pas anodine. Le propriétaire peut facilement proclamer qu'il donne son argent futur ou ses ressources lointaines ; abandonner la marmite et la coupe demande un geste concret. Les objets attestent une première conversion, mais leur présentation rituelle interroge déjà l'efficacité de ce don. Porter un ustensile ne prouve pas que la cité saura l'utiliser.
+
+---
+
+## III. La production reste servile : l'égalité des convives et l'inégalité du travail
+
+### 13. Le vers 651 : une réponse de deux mots, un problème immense [T]
+
+Blépyros demande qui travaillera la terre. La réponse de Praxagora, aux vers 650–652, est **οἱ δοῦλοι** : les esclaves. Dans le même échange, la vie souhaitée du citoyen se ramène au soin d'arriver à temps, bien portant, pour son dîner. L'attestation est claire, mais il faut éviter de la gonfler en théorie complète de l'esclavage. Elle montre néanmoins une limite structurante : la fin des inégalités entre ceux que le régime entend nourrir ne signifie pas suppression de la contrainte qui produit les ressources agricoles.
+
+### 14. Commune de consommation, non communauté universelle [T/I]
+
+Un commentaire moderne pourrait parler de communauté de consommation fondée sur la production servile. Cette formule est une **analyse**, non un terme d'Aristophane. Elle explique pourquoi le projet n'a pas besoin de résoudre la question de la répartition du travail agricole entre citoyens : l'obligation est déplacée sur d'autres corps. L'image d'une citoyenneté attablée repose sur une dissymétrie qui n'est pas traitée comme un scandale par les promoteurs fictifs. L'universalité du banquet est donc relative au cercle dont la pièce reconnaît et privilégie le bénéfice.
+
+### 15. Les femmes produiront aussi des vêtements [T/I]
+
+Blépyros interroge ensuite l'approvisionnement vestimentaire, aux vers 652–655. Praxagora distingue les pièces disponibles de ce que les femmes tisseront par la suite. La communauté exige ainsi du travail féminin dans le textile, sans détailler son organisation, son rythme ni ses éventuelles hiérarchies internes. La réponse contredit toute lecture purement oisive de la nouvelle cité : si les hommes convives sont déchargés, le travail n'est pas aboli. Il se concentre dans des rapports de genre et de statut qu'une analyse générale des promesses égalitaires ferait disparaître.
+
+### 16. Qui reçoit ? Le périmètre linguistique du « tous » [É/I/L]
+
+Le mot **πάντες** semble indiscutable : tous. Pourtant, le pronom désigne toujours un cercle construit par la situation d'énonciation. Dans la réponse au champ, les esclaves ne sont pas présentés comme les pairs partageant la décision ; dans le transport des objets, les serviteurs obéissent aux ordres de Chrémès ; dans la clôture, une servante célèbre l'allégresse de la communauté tout en appelant son maître. Rien dans ce dispositif n'autorise l'affirmation que les étrangers résidents, les esclaves et les femmes auraient obtenu les mêmes capacités juridiques et politiques que les citoyens. [L] Le texte ne dresse pas de liste exhaustive des bénéficiaires du ravitaillement ; il n'en faut ni inventer une, ni effacer les frontières visibles.
+
+### 17. L'analogie du *syssition* : quelle institution est imaginée ? [T/É]
+
+Praxagora annonce la mise en place de **ξυσσίτια** (vers 714–715), repas pris en commun. La graphie et la tradition du mot renvoient au vocabulaire des repas collectifs. Mais il serait faux d'identifier immédiatement cette fiction aux *syssitia* lacédémoniens. À Sparte, les pratiques de repas ont leurs conditions d'adhésion et de contribution, et leur histoire est transmise par des témoins différents, notamment Xénophon et Aristote. Chez Aristophane, la visée est burlesque et athénienne : les instruments de la démocratie et les portiques deviennent des équipements de banquet. L'homonymie fonctionnelle invite à comparer, non à conclure à une importation institutionnelle attestée.
+
+---
+
+## IV. Déplacer les objets : Chrémès et la procession du patrimoine
+
+### 18. Le parcours du seuil : maison, rue, marché [T/I]
+
+Aux vers 728–738, Chrémès sort et ordonne les biens domestiques afin de les conduire à l'agora. La scène exhibe les étapes que la proclamation de Praxagora avait laissées invisibles. Les biens sont encore à lui lorsque commence la procession : ils attendent d'être livrés. Leur disposition devant la maison n'est donc pas l'état accompli d'une redistribution. Cette suspension matérielle est décisive. Le voisin peut interrompre l'opération avant qu'elle se consomme, tout comme le théâtre peut faire tenir pendant plusieurs minutes un régime politique dans le temps précaire de son institution.
+
+### 19. Faire une procession avec des ustensiles [T/I]
+
+Chrémès appelle un panier comme s'il participait à une procession religieuse : il fait défiler d'autres objets, déploie un registre de porteuses et d'accessoires, évoquant notamment la **κανηφορία**, le port rituel de corbeille, et l'**ὑδριαφορία**, le transport d'eau. L'imitation du cortège féminin, dans un programme porté par les femmes, opère une inversion à plusieurs niveaux. Des instruments de cuisine deviennent les membres d'une cérémonie ; un citoyen endosse la fonction d'ordonnateur ; la remise du patrimoine est enveloppée dans la dignité gestuelle du rite. [I] La procession suggère qu'un geste public peut obtenir adhésion en empruntant sa forme au sacré. Elle ne prouve ni une cérémonie de remise des biens attestée ni une origine cultuelle de la réforme.
+
+### 20. Peut-on consacrer une marmite à la cité ? [I/P]
+
+Un don à un sanctuaire, une offrande votive et le versement d'une ressource dans une caisse commune n'impliquent pas les mêmes destinataires ni les mêmes obligations. La comédie joue sur leur ressemblance visible : on apporte des objets, on suit un trajet, on espère en retour la faveur d'un ordre supérieur. Chrémès rend ses biens disponibles pour la fiction communautaire ; cela ne les transforme pas en ex-voto. Les travaux comparatifs de Jean-Pierre Vernant sur les opérations de médiation et ceux de Marcel Détienne sur les formes publiques du religieux permettent de poser la question des gestes autorisés, non d'attribuer au texte une théologie politique cachée.
+
+### 21. Les biens qui résistent à l'abstraction [T/I]
+
+Les objets du cortège ont une épaisseur matérielle que les mots « terre » et « argent » n'avaient pas. Ils doivent être rangés, attachés, soulevés et transportés ; leur utilité peut être personnelle et difficile à diviser. Le capital symbolique de leur propriétaire se matérialise dans les efforts de la maisonnée. La leçon philosophique est limitée mais solide : en scène, la propriété cesse d'être seulement une norme d'attribution ; elle devient la relation concrète entre un homme, une habitation, des ustensiles et le travail de ceux qui les déplacent. La comédie crée une science des objets ordinaires sans jamais devenir traité économique.
+
+### 22. Le citoyen obéissant n'est pas un bureaucrate [T/I]
+
+Chrémès ne fonde pas son action sur un recensement public qu'il aurait personnellement vérifié ; il invoque les décisions prises. Aux vers 762–769, il demande en substance s'il ne doit pas obéir aux règles désormais établies. Pour son voisin, cette disposition prouve au contraire qu'il est naïf. Le désaccord porte moins sur la compréhension du décret que sur une **éthique de l'obéissance** : faire ce qui est prescrit parce qu'on le juge obligatoire, ou différer jusqu'à ce que le comportement d'autrui donne une garantie suffisante. La loyauté de Chrémès n'est pas réduite à une sottise objective ; c'est le personnage sceptique qui la désigne comme telle.
+
+---
+
+## V. Le voisin : une théorie comique de la confiance conditionnelle
+
+### 23. « Attendre les autres » : la difficulté de commencer [T/I]
+
+Le voisin déclare qu'il ne livrera pas ses biens avant de voir ce que décide et fait la foule. Aux vers 769–775, il oppose systématiquement ce que l'on **dit** à ce que l'on **verra**. L'argument est empirique : pourquoi être le premier à transférer une richesse certaine contre l'espérance d'une coopération future ? Mais le report de chaque apport produit un paradoxe collectif : si tous attendent de voir les autres contribuer, aucun dépôt ne commence. La comédie dramatise un problème de coordination sans poser de modèle de théorie des jeux. La catégorie moderne de « coopération conditionnelle » est ici une grille explicative et non la pensée explicitement formulée par Aristophane.
+
+### 24. Le soupçon n'est pas la preuve de l'escroquerie [T/I]
+
+Quand le voisin annonce que les autres mentiront ou repousseront leur contribution, il formule une prévision. Le texte ne donne pas une enquête générale sur le comportement réel des Athéniens. Chrémès assure au contraire qu'il voit des voisins se préparer ; l'autre accuse ou ridiculise ces voisins par leurs noms. Ni l'une ni l'autre parole ne peut être convertie en pourcentage historique de conformité civique. [I] L'intérêt dramatique vient de la circulation d'informations incomplètes : le consentement normatif a besoin d'une confiance dont les personnages ne disposent pas également.
+
+### 25. *Peitharchein tois nomois* : obéir et croire [T/É]
+
+Le débat autour de **πειθαρχεῖν ... τοῖς νόμοισι** (vers 762) met au jour une tension du grec politique. *Peitharchein* combine la notion d'être persuadé ou docile et celle d'obéir à une autorité. Dans le dialogue, Chrémès l'emploie pour demander si la règle doit recevoir exécution. Le voisin répond par une autre conception de la prudence, qui déplace l'attention de la validité de l'énoncé à l'issue probable de son application. [É] Une étymologie ne suffit pas à résoudre le sens en contexte ; c'est précisément la répétition « faut-il faire ce qui a été ordonné ? » qui construit le conflit.
+
+### 26. *Dedogmena* : l'acte décidé n'est pas l'acte durable [T/É]
+
+L'expression **τοῖς δεδογμένοις** (vers 763–764), « ce qui a été décidé », évoque le résultat d'une délibération. Elle ne signifie pas que la prescription a survécu à l'épreuve de son exécution. Le voisin fait remarquer que les Athéniens votent vite et reviennent ensuite sur les décisions. La satire vise ainsi la **distance entre le temps du vote et le temps de la règle**, non l'existence même d'une assemblée. Il serait anachronique de lire le passage comme une doctrine moderne de l'État de droit ; on peut cependant l'interroger comme une réflexion sur la prévisibilité indispensable aux engagements.
+
+### 27. La monnaie de bronze : mémoire d'une décision réversible [T/C/L]
+
+Aux vers 814–822, les personnages évoquent des pièces de bronze autorisées puis brusquement refusées. Chrémès raconte qu'après avoir vendu du raisin et reçu cette monnaie, il ne put s'en servir pour acheter de la farine lorsque le héraut annonça son rejet. La scène atteste **l'allusion comique** à une politique monétaire contestée ; la datation précise, les détails numismatiques et l'identification d'un décret indépendant demandent des sources supplémentaires. Dans l'économie de l'intrigue, le souvenir prouve une chose plus élémentaire : la décision collective peut faire perdre de la valeur à ce qu'un particulier détient. La peur de déposer son patrimoine tire sa crédibilité d'une expérience racontée de revirement.
+
+### 28. Le sel et le fisc : deux autres promesses en débat [T/L]
+
+Le voisin évoque aussi un vote relatif au sel et une ressource fiscale censée procurer des talents à la cité (vers 813–829). Dans la pièce, ces exemples rendent la rapidité de l'enthousiasme public aussi suspecte que la facilité du désenchantement. Il ne faut pas additionner naïvement les montants comiques et les traiter comme une comptabilité documentée. La mémoire politique fabriquée ici est celle d'un citoyen qui a appris à distinguer un résultat annoncé d'un résultat disponible. Ce citoyen peut utiliser cette compétence pour protéger son patrimoine, mais aussi pour justifier un comportement opportuniste.
+
+### 29. Une sagesse du retard peut détruire le bien commun [I]
+
+Le voisin n'est pas simplement un parasite au moment où il propose d'attendre. Il expose une objection rationnelle aux institutions dépourvues de mécanismes de vérification : le premier contributeur peut être le premier perdant. Mais la succession des retards devient rapidement une tactique qui neutralise la coopération. [I] Aristophane construit une ambivalence critique : il existe de bonnes raisons de ne pas croire aveuglément une promesse ; il existe aussi de mauvaises raisons de se servir de cette prudence comme prétexte permanent. Une lecture qui ferait du voisin un héros libéral ou de Chrémès un idiot collectiviste imposerait au texte des camps qu'il ne simplifie pas ainsi.
+
+### 30. « Les dieux tendent la main » : détour religieux du calcul [T/I]
+
+Aux vers 776–782, le personnage sceptique raille l'habitude de demander plutôt que de donner et invoque l'image des statues divines aux mains tendues. La plaisanterie ne constitue ni un relevé iconographique complet ni une doctrine grecque de la divinité. Elle déplace l'attention vers le **geste de recevoir** : le monde entier serait organisé comme une demande d'avantages. Là encore, l'explication est utile précisément parce qu'elle est abusive. L'argument religieux permet au voisin de naturaliser son intérêt privé, jusqu'à présenter comme loi universelle une pratique de captation.
+
+---
+
+## VI. De la décision à l'exécution : sanctions et impossibilité d'une surveillance parfaite
+
+### 31. Que fait la règle au récalcitrant ? [T/I]
+
+L'entretien progresse selon une série de conditions : que se passe-t-il si les autres ne livrent pas leurs biens, s'ils sont plus forts, s'ils vendent les objets au lieu de les déposer ? Aux vers 797–804, Chrémès passe de l'assurance à la possibilité d'un affrontement puis à une forme de retrait. Ce trajet ne décrit aucune procédure pénale complète. Il révèle que l'obligation de déposer n'a pas dans la fiction d'instrument d'exécution clairement mis en scène. La critique du voisin n'invalide pas logiquement la loi ; elle interroge les moyens par lesquels cette loi surmonterait la résistance.
+
+### 32. Le modèle de l'impôt : comparaison utile, identité fausse [P/I]
+
+Un lecteur moderne peut comparer la contribution envisagée à une fiscalité généralisée : chacun cède des ressources pour financer des biens accessibles à tous. Mais la comparaison a des limites précises. Le programme de Praxagora paraît porter sur l'ensemble des biens et non sur une taxe périodique ; le corps qui administre est construit comme gouvernement des femmes ; la contrepartie n'est pas un service public différencié mais un régime de vie commun. Surtout, le texte ne décrit pas de cadastre, de contrôle de caisse ou de justice fiscale. Le parallèle moderne permet de poser la question du coût de la conformité, non de transformer la comédie en législation financière.
+
+### 33. La punition alimentaire aux vers 657–663 [T/I]
+
+Praxagora envisage, à propos d'une amende, de sanctionner un homme par la diminution de sa nourriture. Le dispositif est instructif : la communauté qui garantit la subsistance peut aussi suspendre une part de ce qu'elle fournit. [I] Une sanction qui repose sur le ravitaillement collectif associe directement vie matérielle et discipline. L'abondance ne rend donc pas la contrainte impossible. Cette observation complète, sans la répéter, l'étude des normes sexuelles du volume 265 : dans les deux cas, l'égalité proclamée dépend de règles dont l'application peut devenir coercitive.
+
+### 34. Vol et propriété : l'énigme de ce qui appartient à tous [T/I]
+
+Aux alentours des vers 663–673, Blépyros demande ce que deviendront les vols. Praxagora répond notamment qu'on ne peut guère voler des biens dont on est soi-même copropriétaire ou que l'on peut remplacer en s'adressant aux magasins collectifs. La plaisanterie confond volontairement plusieurs catégories : le droit d'usage, le pouvoir de déplacer un bien, sa possession immédiate et l'appropriation exclusive. Le vol ne disparaît pas nécessairement dès qu'un titre commun est énoncé ; il peut changer d'objet ou de mécanisme. C'est justement l'objection que le voisin donnera au projet sous une forme plus corrosive : capter les prestations sans restituer les moyens de les produire.
+
+### 35. *Mêtis* et opportunisme : ne pas sanctifier la ruse [P/I]
+
+L'analyse de Détienne et Vernant dans *Les Ruses de l'intelligence* permet de distinguer l'aptitude à anticiper, à changer d'angle et à exploiter une situation de la justification morale d'une conduite. Le voisin sait prévoir la réponse d'autrui, utiliser des souvenirs politiques et choisir le bon moment pour agir. Cette habileté ne suffit pas à établir qu'il a raison. Dans la comédie, les catégories de sagacité et de justice peuvent diverger ; le plus perspicace ne devient pas automatiquement le meilleur citoyen. L'étude de la *mêtis* grecque est un outil comparatif moderne, pas une preuve qu'Aristophane a voulu illustrer une théorie structurée de l'intelligence rusée.
+
+---
+
+## VII. Le renversement des lieux : les tribunaux deviennent des salles à manger
+
+### 36. Du *dikastêrion* à l'*andrôn* [T/É]
+
+Aux vers 674–677, Praxagora promet de convertir les **δικαστήρια** (tribunaux) et les **στοαί** (portiques) en **ἀνδρῶνες** (salles de repas ou pièces destinées aux convives masculins). Le vocabulaire engage une transformation de la cité. Le lieu où des citoyens se disputent sur des faits et des droits devient celui où ils reçoivent des produits et se rencontrent autour de la table. La comédie n'oppose donc pas simplement violence judiciaire et douceur conviviale : elle rend l'infrastructure de l'égalité politique disponible à une autre forme d'égalité. [L] Rien ne prouve la réalisation architecturale d'un tel aménagement à Athènes.
+
+### 37. La tribune du jugement couverte de vases [T/I]
+
+Blépyros demande à quoi servira le **βῆμα** (l'estrade) ; Praxagora répond qu'on y placera **κρατῆρες** et **ὑδρίαι**, cratères et récipients d'eau (vers 677–679). Le retournement est d'une précision topographique remarquable. Le support de la parole du juge ou de l'orateur cesse d'accueillir une autorité discursive et devient support de la boisson. Cette substitution ne signifie pas que toute délibération serait condamnée. Elle teste ce qui advient d'un espace politique lorsque la redistribution remplace le conflit comme activité visible. Une scène d'abondance peut facilement paraître plus convaincante qu'une procédure juste, parce qu'elle se voit et se goûte.
+
+### 38. La mémoire de la guerre au milieu des repas [T/I]
+
+La tribune accueillera aussi des jeunes gens chantant les courageux à la guerre, tandis que les lâches seront conduits à la honte, au point de quitter le repas (vers 679–681). L'abondance commune est ainsi traversée par une distinction honorifique. [I] La proposition rend visible une contradiction productive : donner à chacun ne supprime pas les procédures de réputation qui répartissent l'estime et peuvent contrôler l'accès à un bien partagé. Une cité peut collectiviser ses repas tout en maintenant des exclusions de prestige. Le souvenir des guerres ne disparaît donc pas dans la paix festive promise aux convives.
+
+### 39. Les *klêrôtêria* déplacés [T/É/I]
+
+Blépyros demande où l'on installera les **κληρωτήρια**, dispositifs du tirage au sort. Praxagora prévoit de les transporter à l'agora, près d'Harmodios, pour déterminer les lieux où chacun mangera (vers 681–687). Le déplacement a une portée politique limitée mais aiguë. La procédure par laquelle la démocratie répartit des fonctions ou organise des choix devient un outil d'affectation des consommateurs. [L] Les pratiques de sélection différaient selon les charges et les époques ; le texte ne saurait servir à reconstituer à lui seul un appareil de tirage au sort du IVe siècle. C'est le transfert d'une technologie civique que la fiction donne à penser.
+
+### 40. Une lettre devient une place à table [T/I]
+
+Praxagora imagine que chacun connaîtra, par une lettre tirée, le lieu assigné à son repas. Les lettres citées — bêta, thêta, kappa — mettent en relation un signe arbitraire, une position spatiale et un groupe de convives. L'ordre collectif se matérialise dans l'affectation. Le dispositif évite en principe la distribution selon l'influence personnelle ou la proximité d'une famille. Mais cette forme d'égalité ne démontre rien sur l'équivalence des tables ni sur les conditions d'accès des différents statuts. La loterie organise l'usage d'un bien dont la production et la possession sont encore l'objet d'un débat. Elle règle l'aval avant que l'amont soit assuré.
+
+### 41. Harmodios : ne pas effacer l'histoire par le gag [T/C/I]
+
+Le repère d'Harmodios renvoie à la mémoire civique athénienne des tyrannoctones, ancrée matériellement et politiquement dans l'agora. Que Praxagora situe là une répartition des repas ne prouve pas qu'Aristophane assimile sérieusement le nouvel ordre à la libération d'Athènes. L'association reste efficace pour le public : un lieu saturé de mémoire démocratique accueille une fonction grotesquement utilitaire. Le monument est une ressource d'intelligibilité topographique avant de devenir un symbole possible d'ironie politique.
+
+### 42. Des tables pour tous, mais quel critère de l'universel ? [T/I]
+
+Blépyros imagine le cas d'un homme qui ne tire pas de lettre : sera-t-il privé de repas ? Praxagora assure qu'il n'arrivera rien de tel, puisque les biens seront surabondants pour tous (vers 687–692). Sa réponse ne détaille pas un mécanisme de correction du tirage : elle **abolit verbalement l'éventualité de la pénurie**. L'absence de rationnement devient un axiome de la fiction. La critique ne consiste pas à reprocher à un personnage de n'avoir pas prévu des comptes budgétaires modernes ; elle consiste à remarquer la forme argumentaire du rêve, où l'organisation devient parfaitement simple au moment même où elle devrait démontrer sa capacité.
+
+---
+
+## VIII. Le héraut, le festin et la préférence pour le bénéfice immédiat
+
+### 43. La proclamation du banquet : une institution en fonctionnement apparent [T/I]
+
+Aux vers 834–848, une voix de proclamation invite les citoyens au repas préparé sous l'autorité de la nouvelle cheffe. La description accumule lits, tapis, cratères, nourritures, gâteaux et parfums. Les tâches de préparation sont distribuées dans un espace féminin de service et de gestion. La fête commence sans que le public ait vu la totalité des biens promis entrer effectivement au dépôt. Le théâtre résout ce problème par une convention narrative : un héraut affirme l'existence du banquet ; l'imagination et les objets suffisent à le rendre plausible. Cela n'est pas un vice dramaturgique, mais la condition de son efficacité critique.
+
+### 44. La conversion immédiate du sceptique [T/I]
+
+Sitôt la convocation entendue, le voisin se dirige vers le repas. Il n'a pas accompli l'apport préalable qu'il jugeait indispensable de différer. Chrémès lui rappelle le manque de contribution ; le voisin invente alors une série de raisons pour bénéficier quand même des nourritures. La chronologie montre l'asymétrie de son raisonnement. Avant l'apparition de l'avantage, il veut observer autrui ; après l'apparition de l'avantage, il tient l'accès pour un droit que le système doit lui reconnaître. Son scepticisme ne protège plus un principe d'équité ; il sert à soustraire son patrimoine et à maintenir sa part de consommation.
+
+### 45. Aux vers 871–876 : la ruse devient programme privé [T/I]
+
+Le monologue final du voisin est particulièrement net. Il cherche un **μηχάνημα** (*mêchanêma*, procédé ou expédient) lui permettant de conserver ses biens et de prendre sa part de ce que les autres auront mis en commun. Le mouvement du discours est vérifiable dans le texte : garder **τὰ ... χρήματα** et participer **κοινῇ** aux produits. [I] La scène constitue l'un des cas les plus précis, dans la comédie antique conservée, de séparation entre appropriation privée des coûts et socialisation attendue des avantages. Cela n'autorise pas à annoncer une invention aristophanienne du concept moderne de « passager clandestin » ; l'analogie éclaire le mécanisme sans constituer une identité doctrinale.
+
+### 46. La phrase « aider la cité » retournée contre la cité [T/I]
+
+Le voisin se présente en bon citoyen qui doit contribuer au mieux à la cité lorsqu'il décide d'aller manger (vers 858–864). L'expression met au jour une stratégie rhétorique : transformer une conduite profitable à soi en geste prétendument civique. Le rire résulte de l'écart entre le sens public des mots et leur usage opportuniste. La scène n'oblige pas à croire que tout langage de solidarité serait hypocrisie ; elle montre que les mots du commun ne garantissent pas l'action correspondante. Le meilleur test de leur portée est ici la circulation des biens, non la chaleur du discours.
+
+### 47. Les serviteurs nommés : une autre économie de la participation [T/I]
+
+Chrémès fait porter les objets par Sicon et Parménon (vers 866–868), et le voisin propose ensuite son aide, aide que Chrémès refuse de peur qu'il ne revendique les biens. La scène rappelle qu'un propriétaire peut remplir son obligation en utilisant le travail de personnes dépendantes de lui. Le citoyen contribue en son nom ; d'autres corps effectuent le transport. [I] La logique égalitaire de la communauté civique ne rend donc pas transparente la distribution des tâches en amont. Les personnes qui fournissent un effort pour assurer le dépôt ne sont pas nécessairement celles au nom desquelles une part est attribuée.
+
+### 48. Pourquoi le refus d'aide importe autant que le refus de contribuer [T/I]
+
+Après avoir défendu la liberté de ne rien déposer, le voisin voudrait accompagner Chrémès. Celui-ci redoute qu'il ne revendique la propriété des objets lorsqu'ils seront déposés. Le conflit passe de la **contribution** à la **preuve de la contribution**. Qui a apporté quoi ? Qui peut être crédité de la remise d'un lot ? Sans registre vérifiable, même une aide concrète peut créer des prétentions adverses. La scène révèle une troisième difficulté distincte de la dissimulation et du refus : la falsification possible de l'histoire des dons. La communauté a besoin d'une mémoire de ses transactions ; aucune fête ne peut la remplacer à elle seule.
+
+---
+
+## IX. Le banquet final : universalité affichée et dépendances persistantes
+
+### 49. La servante proclame le bonheur commun [T/I]
+
+L'exodos s'ouvre au vers 1112 par une servante qui célèbre la prospérité du peuple, celle de sa maîtresse, la sienne et celle des voisins. L'emploi du vocabulaire du bonheur ne signifie pas que toutes les positions sociales sont devenues identiques. La locutrice se désigne dans un réseau où subsistent « maîtresse » et « maître ». Le comique ne disqualifie pas nécessairement sa joie : la vie servile peut comporter, dans la fiction, une participation à la célébration. Mais le langage de la dépendance survit précisément au moment où la communauté paraît avoir aboli les différences de fortune.
+
+### 50. Le vin comme indice de distribution [T/I]
+
+La servante parle de parfums, de vin de Thasos et, plus loin, de vin de Chios (1112–1142). Les noms géographiques et les qualités sensorielles rendent l'abondance plus séduisante qu'une clause juridique abstraite. À l'échelle théâtrale, la richesse commune se juge par ce qui peut être bu et senti. À l'échelle historienne, ces produits ne prouvent aucune hausse effective de l'approvisionnement athénien ni une uniformité de la consommation. Le banquet opère comme démonstration esthétique, dont l'efficacité dépend de la capacité du public à imaginer une quantité de biens sans voir l'organisation productive nécessaire.
+
+### 51. Le dernier retardataire et le chiffre des citoyens [T/L]
+
+Aux vers 1131–1135, la servante plaisante en présentant Blépyros comme le seul homme resté sans repas parmi plus de trente mille citoyens. Le passage atteste un **chiffre comique prononcé**, non un recensement administratif daté. Il est tentant d'utiliser ces vers dans une estimation démographique ; cela requiert de les confronter à la critique historique et à d'autres données, car le propos est une amplification destinée à ridiculiser le retardataire. [I] Sur scène, le dernier convive vient prouver par sa présence que l'abondance s'étend jusqu'au dernier homme à nourrir.
+
+### 52. Appeler le public et les juges : le quatrième mur de l'égalité [T/I]
+
+Aux vers 1140–1148, l'invitation à manger s'élargit aux spectateurs favorables et aux juges du concours. Le banqueting fictif absorbe métaphoriquement le théâtre réel. Pourtant, le fait qu'un personnage invite des juges de festival ne signifie pas que ces juges auraient été matériellement nourris par une nouvelle institution de la cité. C'est un effet de frontière : la pièce prétend distribuer hors de son monde la récompense qu'elle met en scène. [I] L'opération peut produire un consentement affectif sans le réduire à une adhésion aux règles imaginaires.
+
+### 53. Le grand repas n'est pas une preuve de justice [I]
+
+Un repas commun peut témoigner de l'hospitalité, de la générosité, d'une fête exceptionnelle ou d'une redistribution durable. La scène ne donne pas les moyens de choisir empiriquement entre ces descriptions. La profusion finale démontre que le spectacle sait rendre le commun désirable ; elle ne répond pas à l'objection que le voisin a formulée sur la conservation privée des ressources. C'est pourquoi le banquet n'efface pas rétroactivement la difficulté du dépôt. L'œuvre juxtapose une image d'accomplissement et une scène de non-coopération sans obliger le spectateur à résoudre leur contradiction par une morale unique.
+
+---
+
+## X. Comparaisons internes : ce que les autres comédies éclairent, et rien de plus
+
+### 54. *Les Guêpes* : une technique civique redéployée [T/I]
+
+Dans *Les Guêpes*, le procès à domicile fait passer la procédure du tribunal dans l'espace de la maison, jusqu'au jugement du chien Labès. Dans les *Ekklesiazousai*, le mouvement s'inverse : les tribunaux et leur matériel deviennent des équipements de maison et de banquet. Les deux œuvres déplacent la même famille de formes publiques, mais à des fins différentes. Le tribunal miniature met en évidence la passion de juger et la manipulation des indices ; la salle à manger institutionnelle met en évidence la promesse de nourrir et les coûts non résolus de l'organisation. Le volume CCXIX (219) traite le procès des *Guêpes* ; le présent chapitre n'en propose pas une réécriture.
+
+### 55. *Ploutos* : abondance et suppression du besoin de travailler [T/I]
+
+Dans *Ploutos* (388), la guérison du dieu de la richesse déclenche l'interrogation de Pénia sur les métiers et les besoins qui pousseraient encore à produire si tout le monde devenait riche. Dans les *Ekklesiazousai*, Praxagora répond très vite au problème du travail agricole en invoquant les esclaves et au textile en invoquant les femmes. Les deux pièces peuvent être rapprochées par leur confrontation entre redistribution et production, mais elles ne mobilisent pas la même causalité fictive. L'une passe par le retour miraculeux de la vue d'un dieu ; l'autre par une décision de partage et l'organisation d'une caisse. L'étude économique de Pénia appartient au volume CCV (205) : la présente analyse porte sur le comportement des déposants et sur l'usage matériel des équipements publics.
+
+### 56. *Les Cavaliers* : le bien offert et la dépendance produite [T/I]
+
+Les dons, repas et cadeaux faits au personnage Dèmos dans *Les Cavaliers* rappellent que nourrir le peuple peut devenir une méthode de captation de son jugement. La comparaison n'implique pas que Praxagora soit un nouveau Paphlagonien ou que les femmes recherchent exactement la même domination. Elle suggère une question de méthode : quand un gouvernant revendique sa capacité de nourrir, comment distingue-t-on la fourniture d'un bien réel de la production d'un lien d'obéissance ? Ici la question se complique, car la caisse censée nourrir tout le monde dépend des apports de ceux-là mêmes qui recevront le bénéfice.
+
+### 57. *La Paix* : le travail collectif qui n'efface pas les gagnants inégaux [T/I]
+
+Dans *La Paix*, libérer Eirènè suppose une traction collective dont les participants n'ont ni la même énergie ni les mêmes intérêts. Après la délivrance, la reconversion des objets de guerre modifie diversement les perspectives des métiers. L'*Assemblée des femmes* inverse en partie le mouvement : elle annonce d'abord les produits délicieux et doit ensuite faire entrer dans la communauté les biens privés. À nouveau, la comparaison n'établit pas une « doctrine d'Aristophane ». Elle permet de voir que l'œuvre comique revient souvent au **travail matériel d'une transformation**, là où la rhétorique politique voudrait réduire cette transformation à une proclamation.
+
+### 58. Les *Acharniens* : l'échange privé contre la redistribution complète [T/I]
+
+Dicéopolis organise dans *Les Acharniens* un marché sélectif dont il retire les bénéfices, jusqu'à refuser certaines demandes de partage de sa paix. Chrémès, lui, accepte apparemment de perdre le contrôle exclusif de son patrimoine pour assurer une alimentation publique. Le voisin réfractaire recherche cependant une solution proche de l'avantage sans réciprocité. Dans les deux comédies, l'égoïsme n'est pas une psychologie accessoire : il est mis à l'épreuve par des objets, de la nourriture et des actes. La comparaison ne doit pas effacer l'écart de 425 à la période de restauration démocratique.
+
+---
+
+## XI. Platon, Aristote, Xénophon : penser le commun sans forcer une généalogie
+
+### 59. La *République* ne constitue pas une traduction du programme de Praxagora [P/L]
+
+Platon décrit dans la *République* un régime collectif particulier pour les gardiens, notamment en III, 416d–417b, et discute des femmes et des enfants des gardiens en V, 457c–466d. Les analogies avec la comédie sont suffisamment visibles pour avoir suscité des hypothèses sur l'influence d'Aristophane. Mais une ressemblance ne démontre pas un emprunt direct. La cité platonicienne construit une division des fonctions, et les règles de propriété ne concernent pas tous les groupes de la même manière ; chez Praxagora, les biens sont promis en commun dans un horizon de nourriture et de jouissance. [H] Une allusion littéraire ou une influence spécifique doit être argumentée passage par passage, non admise comme un fait biographique.
+
+### 60. Le problème aristotélicien de l'attention aux biens communs [P]
+
+Aristote, *Politique* II, 1–5 (1261a–1264b), discute la communauté des femmes, des enfants et des propriétés dans les modèles de constitution qu'il examine. Certaines objections sont proches, au niveau abstrait, du risque que chacun s'occupe moins de ce qui appartient indistinctement à tous et que l'avantage et le travail ne soient pas distribués symétriquement. Il serait pourtant inexact d'écrire qu'Aristote commente le voisin de Chrémès. Le propos du traité doit être lu dans sa propre argumentation polémique contre des arrangements politiques, notamment platoniciens. Le rapprochement est une **comparaison de problèmes**, non une filiation documentaire vérifiée.
+
+### 61. *Syssitia* lacédémoniens : la participation n'est pas l'universalité [P/C]
+
+Xénophon, *Constitution des Lacédémoniens* V, évoque l'organisation des repas communs à Sparte. Aristote, *Politique* II, 9, examine aussi le fonctionnement et les inégalités de cette institution. La tentation est forte d'utiliser ces pratiques pour remplir les silences de la fiction athénienne. Ce serait inverser la méthode : le fonctionnement des communautés de repas spartiates n'est pas un commentaire des portiques athéniens transformés en salles de banquet. La comparaison sert plutôt à rappeler que tout repas commun possède des règles d'appartenance, de contribution et d'exclusion qui ne se déduisent pas de son nom.
+
+### 62. Le paradoxe des femmes gouvernantes et des femmes au travail [T/P]
+
+Praxagora passe d'une revendication de compétence gouvernementale à la prise en charge de l'administration et du tissage. L'analogie avec la politique platonicienne des capacités féminines ou masculines peut éclairer les questions de rôle et de compétence, mais la différence demeure radicale : chez Aristophane, le renversement est joué dans un système de masques comiques, de fêtes et de contraintes sociales reconnaissables. Les femmes du texte ne sont ni une transcription de citoyennes athéniennes historiques ni les gardiennes philosophiques de Platon. La communauté imaginaire n'abolit pas mécaniquement la division sexuelle du travail ; elle la réorganise autour d'un pouvoir de gestion.
+
+---
+
+## XII. Hegel : le particulier ne disparaît pas quand l'universel est proclamé
+
+### 63. Un commun qui manque de médiations [P/I]
+
+La *Philosophie du droit* de Hegel, surtout les §§182–208, décrit la société civile comme système des besoins où la satisfaction de chacun dépend d'activités et de médiations qui le dépassent. L'analogie avec la comédie porte sur un point restreint : la satisfaction universellement promise requiert que des actions particulières produisent et fassent circuler les biens. Hegel ne commente pas ici Praxagora. Son vocabulaire aide à distinguer la belle formule de l'intérêt universel et les institutions qui rendraient possible son application, sans poser une identité entre société civile moderne et polis athénienne.
+
+### 64. Le voisin comme conscience du particulier [P/I]
+
+Le voisin sait que sa maison contient des ressources dont la possession lui donne une capacité d'agir. Il ne se représente pas d'emblée comme un membre de l'ensemble bénéficiant d'un bien supérieur : il mesure la perte actuelle à une prestation incertaine. Une lecture hégélienne peut décrire cette résistance comme celle de l'intérêt particulier qui réclame des garanties dans l'universel. Mais il faut se garder d'en faire un « moment dialectique » expressément voulu par le poète. L'enseignement méthodologique consiste à examiner comment une institution prétend articuler liberté singulière, nécessité collective et protection contre les comportements opportunistes.
+
+### 65. La pauvreté ne se résout pas dans une annonce de générosité [P/I]
+
+Les §§243–245 de la *Philosophie du droit* examinent des difficultés de pauvreté et de dépendance dans une société économique développée. La distance historique par rapport à Athènes est considérable : structure productive, marchés, statuts personnels et droit diffèrent. Toutefois, l'idée qu'une distribution d'avantages ne suffit pas à garantir des conditions sociales soutenables éclaire le contraste entre l'exodos heureuse et les esclaves restés au champ. Une communauté qui nourrit certains membres peut dépendre de personnes qu'elle ne reconnaît pas comme égales. La comparaison philosophique ne prouve aucune intention hégélienne chez Aristophane.
+
+---
+
+## XIII. Nietzsche : obligation, promesse et généalogie de la prudence
+
+### 66. Apprendre à tenir sa parole [P]
+
+Dans la deuxième dissertation de la *Généalogie de la morale*, §§1–3, Nietzsche analyse la fabrication d'un animal capable de promettre et les conditions de la mémoire de l'obligation. La comparaison avec Chrémès permet d'interroger l'homme qui accomplit un devoir malgré l'incertitude : son obéissance peut être signe de force institutionnelle autant que d'abandon de sa prudence. Nietzsche n'autorise ni la célébration du voisin comme « esprit libre » ni la condamnation morale automatique de Chrémès. Le philosophe déplace la question : quelles pratiques ont rendu certains engagements crédibles, et quel prix social exigent-elles ?
+
+### 67. Dette et contrepartie : un rapport qui peut se déguiser [P/I]
+
+Aux §§4–8 de la même dissertation, Nietzsche examine historiquement et généalogiquement les rapports créancier–débiteur et certaines formes de sanction. Le voisin raisonne en détenteur de biens exposés à la perte, mais il souhaite aussi bénéficier d'une contrepartie qu'il n'a pas financée. [I] Le comique rend ainsi visibles les métamorphoses de la dette : obligation de donner, attente de recevoir, légitimation du refus. L'anachronisme serait de parler comme si les rapports antiques du dépôt, de la citoyenneté et du banquet étaient identiques aux marchés et aux contrats étudiés par Nietzsche.
+
+### 68. La morale de la ruse ne s'impose pas [P/I]
+
+Une image superficielle de Nietzsche associerait intelligence à transgression et transgression à vitalité. La comédie déconseille ce raccourci. Le voisin fait preuve d'une réelle inventivité, mais ses manœuvres minent la réciprocité sur laquelle dépend le repas désiré. Chrémès paraît moins agile, mais son engagement rend l'ordre nouveau matériellement possible. On peut comparer ces figures aux problèmes nietzschéens de la valeur, de l'utilité et de la bonne conscience ; on ne peut en déduire un jugement philosophique univoque sans risquer de supprimer la tension dramaturgique qui donne précisément à la scène son intérêt.
+
+---
+
+## XIV. Vernant et Détienne : les espaces civiques, la publicité et l'intelligence rusée
+
+### 69. Le public n'est pas seulement le visible [P/I]
+
+Jean-Pierre Vernant a étudié la manière dont la vie de la cité grecque transforme les régimes de discussion, de publicité et d'autorité. Les *Ekklesiazousai* invitent à raffiner cette proposition : le patrimoine apparaît en public quand Chrémès le sort de son domicile, mais sa présence sur la voie ne garantit ni dépôt valide ni contrôle égal. La publicité matérielle est une condition de la reconnaissance, pas une procédure suffisante. Dans le même mouvement, les tribunaux deviennent des salles à manger : l'espace partagé subsiste tandis que sa fonction est déplacée.
+
+### 70. Comparer des opérations, non des essences [P/L]
+
+Les travaux de Marcel Détienne invitent à comparer des opérations institutionnelles et des régimes de savoir sans présupposer une substance éternelle de « la mentalité grecque ». On peut ainsi rapprocher le tirage au sort qui distribue des repas, la procession qui ordonne un transfert d'ustensiles et l'appel du héraut qui crée une communauté de convives. Il s'agit de trois opérations distinctes : attribuer, consacrer en apparence, convoquer. Les comparer ne signifie pas qu'elles auraient eu le même statut rituel ou juridique dans Athènes. La variété de leurs fonctions est précisément ce que la scène exploite.
+
+### 71. Le seuil et l'agora : trois régimes de vérité [P/I]
+
+Au seuil de la maison, le propriétaire peut montrer son intention ; au marché, la communauté pourrait contrôler les apports ; dans les tribunaux transformés, les convives reçoivent la prestation. Chacun de ces espaces fabrique des signes différents de la conformité : objets exposés, biens déposés, tables garnies. La comédie les relie sans les faire coïncider. L'hypothèse [H] que cette topographie serait une critique systématique de l'information civique ne peut être prouvée ; l'interprétation [I] selon laquelle le texte dramatise trois étapes vérifiables d'un engagement collectif est en revanche étayée par la succession des scènes.
+
+---
+
+## XV. Objections historiographiques : ce que le texte ne permet pas de conclure
+
+### 72. « Aristophane est anticommuniste » : anachronisme conceptuel [I/L]
+
+Le projet de Praxagora partage des caractères avec certaines utopies communautaires : suppression de fortunes trop disparates, subsistance garantie, repas collectifs. Mais le mot **communisme** désigne d'ordinaire des traditions modernes extrêmement différentes, liées à des théories du travail, des classes, de l'État et de la propriété qui n'existent pas sous ces formes dans la pièce. Déclarer Aristophane anticommuniste revient à projeter sur le IVe siècle une catégorie polémique postérieure. L'étude peut parler avec précaution d'une **fiction de mise en commun**. Elle doit en analyser l'économie servile, les formes civiques et la dramaturgie propre sans lui assigner un parti moderne.
+
+### 73. « Aristophane défend la propriété privée » : ce n'est pas démontré [I/L]
+
+Le voisin réfractaire formule des objections sérieuses sur l'inconstance des décisions et les risques du transfert. Mais la scène l'expose ensuite comme quelqu'un qui veut manger aux frais des autres. En conclure que le poète l'approuve serait confondre la puissance critique d'un argument avec sa valeur comme personnage exemplaire. Chrémès est rendu risible, mais son obéissance donne matière à la réforme. Aucun personnage ne porte une doctrine économique stable et exhaustive. [L] Les intentions biographiques d'Aristophane ne sont pas directement accessibles par la distribution des plaisanteries.
+
+### 74. « Le commun est effectivement réalisé » : le banquet ne suffit pas [I/L]
+
+Le festin final est une scène de théâtre. Il n'est pas précédé d'un compte rendu complet des apports, du travail agricole, de la cuisson, du transport et de la vérification. L'abondance peut être acceptée dans la fiction sans être une démonstration de sa reproductibilité. Une reconstitution réaliste devrait inventer des procédures absentes ; une critique qui reprocherait au poète de ne pas fournir ces procédures imposerait au théâtre la charge d'un manuel administratif. Le choix méthodologique consiste à prendre au sérieux les lacunes comme ressources de sens sans les remplir par imagination.
+
+### 75. « Tous sont égaux » : une catégorie qui ignore le serviteur [T/I]
+
+Il est impossible de faire disparaître la réponse « les esclaves » du vers 651 et la persistance des rapports de service dans l'exodos. Les inégalités sociales et juridiques réelles de la polis ne s'évanouissent pas du fait de la mise en scène d'un repas commun. Cette constatation ne prouve pas qu'Aristophane avait pour but de dénoncer l'esclavage. Elle établit une limite interne du programme fictif : son universalité ne coïncide pas avec tous les êtres qui rendent sa subsistance possible. La question philosophique est celle du coût humain des institutions qui se nomment universelles.
+
+### 76. « Platon emprunte son utopie à Aristophane » : hypothèse et non attestation [H/L]
+
+La chronologie rend le rapprochement possible et les ressemblances sont discutées dans les études savantes. Toutefois, l'existence de thèmes communs ne garantit pas une relation de dépendance littéraire. Les enjeux de la *République* sont spécifiques, en particulier la fonction des gardiens, leur éducation et le rapport à la cité divisée. Il faut isoler une éventuelle correspondance verbale ou structurelle et examiner les autres traditions philosophiques et comiques avant de conclure à un emprunt. L'analogie demeure utile même si aucune influence directe ne pouvait être prouvée.
+
+### 77. « La démocratie athénienne votait ainsi » : ne pas extraire un manuel d'une farce [L]
+
+Les allusions à la monnaie de bronze, aux votes, aux dispositifs de tirage au sort et aux noms de lieux sont des données précieuses pour l'enquête historique, mais leur niveau de preuve est différent. La pièce garantit que des Athéniens pouvaient comprendre l'allusion au changement de monnaie ; elle ne fournit pas la copie du décret. Elle garantit qu'une transformation des tribunaux paraissait reconnaissable ; elle ne prouve aucune restauration architecturale. Le texte de comédie doit être confronté aux inscriptions, aux discours et à l'archéologie lorsqu'on cherche à passer de la représentation à une pratique attestée.
+
+---
+
+## XVI. Résultat scientifique et pistes de recherche
+
+### 78. Première conclusion : trois gestes constitutifs [I]
+
+Mettre en commun signifie ici, successivement, **rendre identifiable une ressource**, **la transférer hors de la maîtrise individuelle** et **rendre le produit accessible à la communauté**. Praxagora développe le troisième geste avec le plus de force ; Chrémès accomplit laborieusement le deuxième ; le voisin introduit un doute sur le premier et détruit la bonne foi attendue du deuxième. Cette distribution dramatique suffit à faire de la comédie une enquête sur l'administration du collectif plutôt qu'une simple fantaisie de partage abstrait. Elle ne nécessite ni un État moderne ni une théorie économique achevée.
+
+### 79. Deuxième conclusion : les procédures survivent à leur finalité [I]
+
+La cité conserve des dispositifs de visibilité, des portiques, un espace de marché, des estrades et des instruments de tirage au sort. Mais les objets changent de fonction lorsque l'on substitue le banquet au tribunal. L'expérience confirme que la politique n'est pas seulement un ensemble de déclarations : elle dépend des usages matériels d'un espace et des techniques d'affectation. Une institution peut maintenir ses formes de légitimation tout en poursuivant un but différent. C'est la dimension proprement civique de l'inversion aristophanienne.
+
+### 80. Troisième conclusion : le rire ne choisit pas entre la promesse et l'objection [I]
+
+La force du théâtre tient à la coexistence de deux vérités partielles. La garantie d'une vie soustraite à la misère est moralement séduisante ; la nécessité d'une coopération fiable est politiquement sérieuse. Le voisin comprend la seconde mais la détourne pour servir sa propre consommation. Chrémès pratique la loyauté mais risque d'être lésé. Praxagora inspire l'enthousiasme mais ne démontre pas la permanence de la production. La servante annonce le bonheur de tous alors que les mots du service subsistent. Ces décalages composent une analyse, non un verdict sur une idéologie moderne.
+
+### 81. Questions ouvertes pour une recherche approfondie [H/L]
+
+Il faudrait confronter les allusions à la réforme monétaire à la numismatique de la période et à l'ensemble des sources grecques pertinentes, sans assigner d'emblée le décret à une date précise. Les effets de scène de la procession demanderaient une lecture métrique et linguistique des gloses cultuelles dans les éditions critiques. Les modalités matérielles des salles de banquet requièrent l'étude archéologique des espaces de l'agora, sans confondre l'agora du IVe siècle avec des états monumentaux postérieurs. Le statut exact des participants aux repas comparés exigerait enfin la distinction des citoyens, des membres de maisonnées et des personnes asservies dans chaque tradition documentaire. Aucune de ces études n'est prétendue accomplie ici.
+
+### 82. Conclusion générale : on peut voter le commun sans encore l'avoir fait [I]
+
+L'épisode de Chrémès marque la distance entre un vote et une transformation sociale. La cité ne devient pas commune par le seul usage de **κοινόν**. Les biens doivent quitter les maisons ; les habitants doivent croire que leurs voisins coopéreront ; les dispositifs publics doivent produire une distribution effective ; la nourriture suppose un travail qui ne se voit pas toujours sur la table. Aristophane rend simultanément visibles la générosité de la promesse et le point où sa réalisation devient dangereuse pour chacun. Cette simultanéité distingue l'intelligence politique de la comédie d'un pamphlet de principe : elle oblige à juger non seulement les paroles du pouvoir mais les gestes matériels qui les accomplissent ou les trahissent.
+
+---
+
+## XVII. Dossier philologique : références et contrôle des affirmations
+
+| Passage | Donnée attestée dans le texte [T] | Lecture proposée [I] | Limite [L] |
+| --- | --- | --- | --- |
+| *Ekklesiazousai* 589–600 | *koinônein*, *koinon*, terre et argent, administration féminine | Programme de partage et de gestion | Pas de code administratif conservé |
+| 600–603 | Dariques cachés, dépôt *es to meson*, parjure | Difficulté de la fortune invisible | Aucun contrôle de patrimoine attesté |
+| 650–655 | Les esclaves travailleront les champs, femmes et textile | Frontière du bénéficiaire et du producteur | Ne démontre pas une politique réelle |
+| 657–673 | Amendes, nourriture, vol et remplacement | Coercition interne à la fourniture collective | Les détails juridiques sont comiques |
+| 674–691 | Tribunaux, portiques, estrade, vases, *klêrôtêria*, lettres | Conversion des infrastructures de justice en distribution | Aucun changement historique d'usage établi |
+| 714–715 | Mise en place de *xyssitia* | Organisation fictive des repas partagés | Ne pas identifier aux *syssitia* spartiates |
+| 728–760 | Sortie des ustensiles de Chrémès en cortège | Matérialité et ritualisation du dépôt | Scène de comédie, non rite civique attesté |
+| 762–782 | Débat sur l'obéissance et attente des autres | Confiance conditionnelle et report | Pas d'échantillon réel des comportements |
+| 813–829 | Souvenir des votes sur sel et monnaie de bronze | Instabilité perçue des décisions | Chronologie numismatique externe nécessaire |
+| 834–876 | Proclamation du repas, voisin sans dépôt, ruse | Capture du bénéfice sans contribution | Pas de preuve du fonctionnement économique réel |
+| 1112–1158 | Servante, maîtresse, repas, vin, appel aux juges du concours | Abondance festive et maintien des dépendances | Ne pas transformer chiffre comique en recensement |
+
+**État d'établissement.** Les passages grecs publiquement consultés correspondent à la transmission numérique de l'édition Hall–Geldart (1906–1907), reproduite avec référence à Perseus. La présente enquête n'est **pas** une collation autoptique des manuscrits médiévaux. Les renvois à d'autres œuvres antiques identifient leurs lieux utiles ; ils ne signifient pas que des variantes de chaque tradition ont été vérifiées sur manuscrit. L'absence de citations longues prévient l'attribution à la source antique de formulations issues de traductions modernes.
+
+## XVIII. Sources primaires et bibliographie critique
+
+### A. Texte comique directement contrôlé
+
+1. Aristophane, *Ekklesiazousai*, 571–727, grec Hall–Geldart et traduction historique Rogers, consultation du texte grec, [Praxagora et le nouveau régime](https://www.greekmythology.com/sources/aristophanes/ecclesiazusae/praxagoras-new-order).
+2. Aristophane, *Ekklesiazousai*, 728–876, mêmes témoins éditoriaux numériques, [Chrémès et le voisin réfractaire](https://www.greekmythology.com/sources/aristophanes/ecclesiazusae/chremes-and-the-doubter).
+3. Aristophane, *Ekklesiazousai*, 1112–1183, [exodos et banquet](https://www.greekmythology.com/sources/aristophanes/ecclesiazusae/exodos-the-feast).
+4. Hall, F. W., et W. M. Geldart (éd.), *Aristophanis Comoediae*, Oxford, Clarendon Press, 1906–1907 ; texte utilisé ici à travers la présentation numérique issue de la Perseus Digital Library.
+5. Rogers, Benjamin Bickley (trad.), *Aristophanes*, vol. III, Loeb Classical Library, Londres/New York, 1924. Traduction anglaise historique consultée comme aide, **non reproduite** dans ce chapitre.
+
+### B. Textes antiques utilisés à titre de comparaisons externes
+
+6. Aristophane, *Les Guêpes*, notamment la section du tribunal domestique et du chien Labès ; *Ploutos*, débat avec Pénia et fin du culte ; *La Paix*, libération d'Eirènè et reconversion des activités ; *Les Acharniens*, marché privé et demandes de partage ; *Les Cavaliers*, nourriture et autorité sur Dèmos.
+7. Platon, *République* III, 416d–417b, et V, 457c–466d : régime des gardiens et communauté des familles dans l'argument de la cité juste.
+8. Aristote, *Politique* II, 1–5, 1261a–1264b, et II, 9, autour de 1271a : critique de communautés et des conditions de repas à Sparte.
+9. Xénophon, *Constitution des Lacédémoniens* V, 2–7 : institution des repas communs, **sans assimilation** à l'utopie athénienne.
+
+### C. Éditions, commentaires, études
+
+10. Sommerstein, Alan H. (éd., trad., comm.), *Aristophanes: Ecclesiazusae*, Aris & Phillips Classical Texts, 1998, introduction p. 1–37, [notice d'édition universitaire et historique](https://academic.oup.com/liverpool-scholarship-online/book/40230), DOI 10.3828/liverpool/9780856687075.001.0001. Le résumé de l'introduction a été contrôlé ; l'intégralité du commentaire protégé n'est pas revendiquée comme lue.
+11. Ussher, R. G. (éd.), *Aristophanes: Ecclesiazusae*, Oxford, Clarendon Press, 1973. Référence pour le commentaire philologique ; aucune leçon particulière ne lui est attribuée sans confrontation.
+12. Rothwell, Kenneth S., *Politics and Persuasion in Aristophanes' Ecclesiazusae*, Leyde, Brill, 1990. Référence spécialisée sur la dimension persuasive et politique ; ne pas transformer son titre en résumé de sa thèse.
+13. Schmitt Pantel, Pauline, *La Cité au banquet : histoire des repas publics dans les cités grecques*, Rome, École française de Rome, 1992. Comparaison historique sur les pratiques de commensalité civique ; non description du banquet fictif comme institution documentée.
+14. Bowie, A. M., « Thinking with Drinking: Wine and the Symposium in Aristophanes », *Journal of Hellenic Studies* 117 (1997), p. 1–21, DOI 10.2307/632547 : contexte comparatif des scènes de vin et des normes de convivialité.
+15. Demont, Paul, compte rendu de l'édition Sommerstein, *Revue des études grecques* 113/2 (2000), p. 696–697, [notice et débat de datation](https://www.persee.fr/doc/reg_0035-2039_2000_num_113_2_4432_t2_0696_0000_2).
+16. Van Wees, Hans, « The Common Messes », dans *A Companion to Sparta*, 2017, p. 236–268, DOI 10.1002/9781119072379.ch9, comparaison institutionnelle externe.
+
+### D. Philosophie, anthropologie et précautions
+
+17. Hegel, G. W. F., *Principes de la philosophie du droit*, §§41–71, 182–208 et 243–245. Analogie systématique des besoins, de la propriété et de la médiation sociale ; œuvre moderne sans valeur de témoignage sur Athènes.
+18. Nietzsche, Friedrich, *La Généalogie de la morale*, deuxième dissertation, §§1–8. Généalogie de la promesse et de la dette ; non commentaire d'Aristophane.
+19. Vernant, Jean-Pierre, *Les Origines de la pensée grecque*, 1962, et travaux sur la cité et les pratiques de publicité du politique. Utilisation heuristique, non constat ethnographique direct de la représentation.
+20. Détienne, Marcel, *Les Maîtres de vérité dans la Grèce archaïque*, 1967 ; Détienne et Vernant, *Les Ruses de l'intelligence : la mètis des Grecs*, 1974 ; Détienne, *Comparer l'incomparable*, 2000. Comparaisons méthodologiques non présentées comme interprétations littérales des vers.
+21. Pour le contexte historique, confronter la bibliographie de Sommerstein aux témoignages sur l'après-403 et la guerre de Corinthe, en tenant les dates plus fines pour discutables tant que les inscriptions et la documentation ne sont pas intégralement vérifiées.
+
+### E. Intégrité documentaire et continuité MYTHOS
+
+La présente étude ne propose **aucun numéro canonique avant réception d'un reçu d'attribution**. Seules les variables **314** et **CCCXIV** renvoient à la future position de **ce manuscrit** ; les références à des volumes déjà publiés et les numéros de vers antiques demeurent littéraux. Elle est conçue comme étude publique autonome et approuvée, sans divulgation de brouillons privés, sans suppression ou réécriture des textes précédents. Elle ne prétend pas à une URL publique tant que le circuit de publication transactionnelle et le déploiement n'auront pas été vérifiés.

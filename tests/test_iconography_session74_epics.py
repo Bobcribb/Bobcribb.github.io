@@ -41,6 +41,7 @@ class IconographySession74(unittest.TestCase):
         soup = BeautifulSoup(html, "html.parser")
         nav = soup.find("nav", class_="reader-bottom")
         self.assertIsNotNone(nav)
+        self.assertEqual(len(soup.find_all("nav", attrs={"aria-label": "Poursuivre la lecture"})), 1)
         self.assertEqual(nav.get("data-reading-owned"), "true")
         self.assertIsNotNone(soup.find(id="nibelungen-01"))
     def test_alternation_after_session_73(self):
