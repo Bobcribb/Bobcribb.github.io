@@ -477,3 +477,11 @@ La soumission autonome des *Héros* de Chionidès, UUID **d2636a9f-3e6d-4aa7-bf6
 **Le présent manuscrit attend la seule attribution du circuit concurrent de GitHub.** Ses en-têtes comportent les variables CXXIX et 129. Aucune place dans la série, ni aucun numéro des anciens repères XIII/XIV, n’est revendiqué avant le reçu transactionnel.
 
 **Fin de l’étude.**
+
+### Renvois canoniques confirmés le 6 novembre 2026 — mise à jour éditoriale
+
+**Actualisation de navigation postérieure au manuscrit initial.** Les mentions antérieures « en attente » décrivaient l'état au moment de la rédaction. Le registre transactionnel `editorial/numbering.json` confirme maintenant ces volumes ; les liens ci-dessous renvoient à leurs chemins canoniques sur le site généré, sans préjuger de la disponibilité HTTPS de chaque page. Les fragments antiques, analyses [A]/[B] et scènes [C] du texte ci-dessus sont intégralement conservés.
+
+- [Volume CXXVII (127) — Chionidès, *Persai ē Assyrioi*](/chapitres/comedies/volume-127-chionides-persai-assyrioi-perses-assyriens-souda-paratragedie-guerres-mediques/) : étude distincte, avec reçu d'attribution contrôlé sur `main`.
+- [Volume CXXVIII (128) — Écphantidès, *Satyroi*](/chapitres/comedies/volume-128-ekphantides-satyroi-satyres-fragments-athenee-photios-theatre-dionysiaque/) : étude distincte, avec reçu d'attribution contrôlé sur `main`.
+- [Volume CXXX (130) — Écphantidès, *Peirai*](/chapitres/comedies/volume-130-ekphantides-peirai-inscription-choregie-epreuve-titre-perdu/) : étude distincte, avec reçu d'attribution contrôlé sur `main`.
