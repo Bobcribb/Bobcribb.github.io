@@ -254,6 +254,7 @@ def create_mythologies(entries):
      ("/bibliotheque-mythologies-du-monde/mythologie-inde-vedas-puranas-vishnu-shiva-devi/","Inde","Veda, épopées, Purāṇa et divinités."),
      ("/bibliotheque-mythologies-du-monde/mythologie-chinoise-nuwa-pangu-shanhaijing/","Chine","Nüwa, Pangu et traditions des immortels."),
      ("/bibliotheque-mythologies-du-monde/mythologie-japonaise-kojiki-nihon-shoki-kami/","Japon","Kami, Kojiki et cosmogonies."),
+     ("/bibliotheque-mythologies-du-monde/mythos-volume-10-finno-carelien-kalevala/","Finlande et Carélie — Kalevala","Volume historique X en texte intégral : chants runiques, Sampo, Väinämöinen, Ilmarinen et Louhi."),
      ("/bibliotheque-mythologies-du-monde/mythos-volume-19-la-galigo-bugis-sawerigading/","Sulawesi — La Galigo","Cosmologie bugis, Sawerigading, We Cudaiq et manuscrits lontara."),
      ("/civilisations/ameriques/","Amériques","Mondes mayas, mexicas et andins."),
     ]))
