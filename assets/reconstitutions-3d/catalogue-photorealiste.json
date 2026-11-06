@@ -2,7 +2,7 @@
   "generated_at": "2026-11-06",
   "site": "bobmythos.fr",
   "method": "Illustrations photoréalistes interprétatives, textes et sources hors des pixels.",
-  "count": 83,
+  "count": 84,
   "entries": [
     {
       "id": "DEL-PAN-001",
@@ -2546,6 +2546,58 @@
         "Aristophane, L'Assemblée des femmes, évocations de la réunion des citoyens sur la Pnyx (comédie et fiction)."
       ],
       "methodology": "Restitution visuelle originale non métrique ; datation relative du troisième état, existence du bêma et du mur attestées ; réalisation complète, scène d'assemblée et décors non démontrés par les fouilles."
+    },
+    {
+      "id": "LAT-AGO-001",
+      "slug": "crete-lato-agora-prytanee-escalier-vers-250-av-jc",
+      "title": "Lato (Crète orientale) — agora, grand escalier et prytanée, vers 250 av. J.-C.",
+      "period": "Milieu du IIIe siècle av. J.-C. (évocation interprétative vers 250 av. J.-C.), dans le cadre des phases des IVe–IIIe siècles.",
+      "caption": "Reconstitution numérique photoréaliste de l’agora de Lato entre deux hauteurs, de l’escalier civique et du prytanée, avec les maisons en terrasses et la baie du Mirabello en arrière-plan ; élévations et aménagements incertains.",
+      "commentary": "Lato (Λατώ), cité dorienne de Crète orientale proche du village actuel de Kritsa, est implantée dans un col naturel entre deux hauteurs rocheuses, à l'intérieur des terres mais dominant la baie du Mirabello. Les vestiges monumentaux aujourd'hui les plus lisibles appartiennent principalement aux IVe et IIIe siècles avant notre ère, même si le site a livré des indices d'occupation beaucoup plus anciens. La ville comporte des remparts, un accès principal, une rue montante desservant d'anciens ateliers et des maisons établies sur des terrasses, puis l'agora située entre les acropoles nord et sud. Selon le guide officiel publié par l'Organisme grec de gestion des ressources archéologiques (ODAP), cette agora était un espace irrégulier en forme de trapèze, avec un portique dorique à l'ouest et une plateforme ouverte au sud. Un sanctuaire de petite dimension, probablement en plein air, occupait une zone centrale, non loin d'une grande citerne souterraine considérée comme publique. La grande volée de gradins située au nord servait simultanément de cheminement vers le prytanée et d'espace de rassemblement. DIAZOMA décrit une largeur d'environ 8,40 mètres, neuf degrés à l'ouest et dix à l'est et trois ensembles de gradins séparés par des escaliers étroits. Cet escalier ne doit pas être confondu avec le petit espace théâtral différent, aménagé au-dessous du temple sur la pente méridionale. Le prytanée comprenait une cour à péristyle à l'est et, à l'ouest, une salle rectangulaire avec foyer central, interprétée comme salle de banquet (estiatorion), utilisée par les magistrats locaux, les kosmoi, et leurs invités. Son ensemble architectural est daté de la seconde moitié du IVe ou du IIIe siècle av. J.-C. Sur la pente de l'acropole sud, le grand temple construit à la fin du IVe ou au début du IIIe siècle comprenait un pronaos rectangulaire et une cella approximativement carrée. L'inscription associée à la base de la statue de culte étant illisible, l'identité de la divinité principale ne peut pas être affirmée. Le nom de la ville ne prouve pas que ce temple ait été dédié à Léto. La présente image est une interprétation artistique datée vers 250 av. J.-C. Elle situe une agora pavée entre deux promontoires, un escalier de rassemblement au nord, un ensemble de bâtiments civiques derrière celui-ci, un sanctuaire discret, des rues en pente et des habitats à toitures de terre cuite. Il ne s'agit pas d'une projection de relevés métriques. L'escalier principal, les volumes reconstitués, l'ordonnance du bâtiment en haut des gradins, les petites colonnades, le dallage uniforme de la place, l'aménagement du sanctuaire et les toitures sont des simplifications. Les structures visibles sur l'image, en particulier les défenses sommitale et les élévations de l'acropole, ne doivent pas être attribuées telles quelles au site antique. Les vêtements, personnages, détails des activités, végétation, éclairage et vue sur la baie sont conçus pour donner une échelle humaine et atmosphérique, sans garantie d'exactitude au milieu du IIIe siècle. Aucun organisme cité n'a commandé, certifié ni validé ce rendu numérique.",
+      "certainty": "Élevé : identité du site, position entre deux collines près de Kritsa, période florissante des IVe–IIIe siècles av. J.-C., présence de l'agora trapézoïdale, du portique occidental, d'une citerne, d'un escalier monumental et du prytanée, distinction entre escalier civique et espace théâtral méridional. Moyen : séquence de construction des éléments du IIIe siècle, implantation relative de certaines maisons et volumes généraux des bâtiments publics, usage des gradins comme espace d'assemblée, restitution de la salle à foyer central. Faible : aspect exact des étages et toitures, architecture des façades à colonnes, revêtement intégral de la place, détails du sanctuaire central, couronnements des murs de défense, figurants, circulation, végétation, couleurs et cadrage.",
+      "source_url": "https://www.odap.gr/wp-content/uploads/demo_products/147_LATO_KRHTH.pdf",
+      "secondary_sources": [
+        "https://www.hh.gr/en/destinations/lato/",
+        "https://diazoma.gr/en/theaters/theater-space-ancient-lato/",
+        "https://allofgreeceone.culture.gov.gr/en/venues/archaeological-site-in-lato-lasithi/",
+        "https://diazoma.gr/en/theaters/theater-space-ancient-lato/"
+      ],
+      "src": "/assets/reconstitutions-3d/crete-lato-agora-prytanee-escalier-vers-250-av-jc.webp",
+      "image": "/assets/reconstitutions-3d/crete-lato-agora-prytanee-escalier-vers-250-av-jc.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-06",
+      "type": "reconstitution numérique photoréaliste à apparence 3D, non métrique, non archéométrique",
+      "provenance": "Image originale créée par génération assistée par IA pour MYTHOS ; aucune interface, menu, étiquette, logo, texte, filigrane ni diagramme 2,5D incrusté. Documents de référence non cautionnants.",
+      "sha256": "f196879ebf72a6ba63724b2d09eeb3f7c3ffdba924f3e100493d2bb2da98e246",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/crete-lato-agora-prytanee-escalier-vers-250-av-jc.json",
+      "scientific_sources": [
+        {
+          "label": "Organisme grec de gestion des ressources archéologiques (ODAP) — Lato, Crète, notice de Vily Apostolakou (2019), plan et monuments",
+          "url": "https://www.odap.gr/wp-content/uploads/demo_products/147_LATO_KRHTH.pdf"
+        },
+        {
+          "label": "Hellenic Heritage — Lato, site archéologique officiel, éphorie du Lassithi",
+          "url": "https://www.hh.gr/en/destinations/lato/"
+        },
+        {
+          "label": "DIAZOMA — Théâtre et grand escalier de Lato, description et bibliographie de fouilles",
+          "url": "https://diazoma.gr/en/theaters/theater-space-ancient-lato/"
+        },
+        {
+          "label": "Ministère grec de la Culture — Site archéologique de Lato, campagnes de fouilles",
+          "url": "https://allofgreeceone.culture.gov.gr/en/venues/archaeological-site-in-lato-lasithi/"
+        },
+        {
+          "label": "Pierre Ducrey et Olivier Picard, Recherches à Latô, V : le prytanée, BCH 96 (1972), p. 567–592 (référence bibliographique relayée par DIAZOMA)",
+          "url": "https://diazoma.gr/en/theaters/theater-space-ancient-lato/"
+        }
+      ],
+      "primary_texts": [
+        "Aucune description antique suffisamment détaillée ne permet de restituer avec certitude les élévations des édifices de l’agora au milieu du IIIe siècle av. J.-C."
+      ],
+      "methodology": "Reconstruction visuelle artistique d’après les descriptions du plan conservé et des fouilles, sans modèle géoréférencé validé. Élévations et détails figurés hypothétiques.",
+      "publication_status": "fichier_prepare_non_publie_deploiement_https_a_verifier"
     }
   ]
 }
