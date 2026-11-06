@@ -2,7 +2,7 @@
   "generated_at": "2026-11-06",
   "site": "bobmythos.fr",
   "method": "Illustrations photoréalistes interprétatives, textes et sources hors des pixels.",
-  "count": 67,
+  "count": 68,
   "entries": [
     {
       "id": "DEL-PAN-001",
@@ -1740,6 +1740,44 @@
       ],
       "methodology": "Évocation artistique photoréaliste non métrique, fondée sur les données historiques et le type architectural du temple ; ne valide ni altimétrie, ni mesures de détails, ni identification cultuelle.",
       "publication_status": "fichier_prepare_non_publie_deploiement_https_a_verifier"
+    },
+    {
+      "id": "PAE-HER-I-001",
+      "slug": "paestum-premier-temple-hera-basilique-vers-530-av-jc",
+      "title": "Poseidonia-Paestum — premier temple d’Héra, dit « Basilique », vers 530–520 av. J.-C.",
+      "period": "Construction vers 560–520 av. J.-C. ; restitution interprétative de l’état archaïque achevé, vers 530–520 av. J.-C. (datation approximative).",
+      "caption": "Restitution photoréaliste interprétative du premier temple d’Héra dans le sanctuaire méridional de Poseidonia (Paestum), avec péristyle dorique archaïque de neuf colonnes sur les façades et dix-huit sur les longs côtés. État complet hypothétique.",
+      "commentary": "Dans le sanctuaire méridional de Poseidonia, colonie grecque de Grande-Grèce, le premier temple d’Héra, conventionnellement appelé « Basilique » depuis une interprétation erronée des antiquaires du XVIIIe siècle, fut construit approximativement entre 560 et 520 av. J.-C. Le parc archéologique de Paestum et Velia atteste neuf colonnes doriques sur les petits côtés et dix-huit sur les longs côtés, avec chapiteaux archaïques fortement évasés. Le plan comprenait un pronaos, une cella divisée longitudinalement par une file de colonnes et un adyton à l’arrière ; l’autel était placé devant la façade orientale. Une quantité appréciable d’éléments en terre cuite polychrome de la toiture, parmi lesquels des antéfixes florales et des gouttières à têtes léonines, a été retrouvée. Les dédicaces et dépôts votifs rendent l’attribution à Héra très probable. Cette image reconstitue un moment idéalisé autour de 530–520 av. J.-C. : les pierres de calcaire, l’échelle monumentale et le rythme des colonnes sont informés par les vestiges, mais la hauteur des parties disparues, les effets d’enduit, la couverture continue, les motifs exacts de peinture et leur placement, le traitement du fronton, les vêtements, la position de l’autel, le paysage et la lumière sont proposés à titre d’évocation. Les dimensions apparentes et le nombre de détails décoratifs ne sauraient être mesurés à partir de l’image générée. Ce rendu n’est ni une photographie de l’Antiquité, ni une photogrammétrie, ni un modèle 3D scientifique validé par les institutions citées. À distinguer du second temple d’Héra, dit « temple de Neptune », construit vers 460 av. J.-C. et déjà représenté par l’entrée PAE-HER-II-001 de MYTHOS.",
+      "certainty": "Élevé : localisation au sanctuaire méridional, datation archaïque générale (vers 560–520 av. J.-C.), péristyle dorique 9 × 18, chapiteaux archaïques évasés, existence des éléments de toiture en terre cuite, identification du culte d’Héra très probable. Moyen : restitution des niveaux de toiture et des ouvertures, distribution précise des enduits et de la polychromie, élévation restituée, matérialité des abords. Faible : dessins spécifiques du fronton, position et ampleur des gargouilles figurées, états des pigments, décor de l’autel, scène rituelle, personnages, végétation, climat, perspective et détail des bâtiments environnants.",
+      "source_url": "https://parchipaestumvelia.cultura.gov.it/en/scopri-i-parchi/archeological-area-of-paestum/",
+      "secondary_sources": [
+        "https://parchipaestumvelia.cultura.gov.it/scopri-i-parchi/area-archeologica-di-paestum/",
+        "https://homepages.bluffton.edu/~SULLIVANM/paestum/paestum-i.html"
+      ],
+      "src": "/assets/reconstitutions-3d/paestum-premier-temple-hera-basilique-vers-530-av-jc.webp",
+      "image": "/assets/reconstitutions-3d/paestum-premier-temple-hera-basilique-vers-530-av-jc.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-06",
+      "type": "reconstitution numérique originale photoréaliste à apparence 3D, interprétative non métrique",
+      "provenance": "Image numérique générée spécialement pour MYTHOS, sans menu, titre, légende, filigrane, schéma 2,5D ni interface incrustés dans les pixels. Sources scientifiques externes à l’image ; aucune validation institutionnelle revendiquée.",
+      "sha256": "c6704560f284058deb0d3d53c680741345675f429ef97755fdf9101dcb9aa192",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/paestum-premier-temple-hera-basilique-vers-530-av-jc.json",
+      "scientific_sources": [
+        {
+          "label": "Parchi Archeologici di Paestum & Velia — Basilica of Paestum, histoire, plan et couverture",
+          "url": "https://parchipaestumvelia.cultura.gov.it/en/scopri-i-parchi/archeological-area-of-paestum/"
+        },
+        {
+          "label": "Ministero della Cultura — Area archeologica di Paestum (version italienne)",
+          "url": "https://parchipaestumvelia.cultura.gov.it/scopri-i-parchi/area-archeologica-di-paestum/"
+        },
+        {
+          "label": "Bluffton University — Temple of Hera I (Basilica), galerie d’architecture",
+          "url": "https://homepages.bluffton.edu/~SULLIVANM/paestum/paestum-i.html"
+        }
+      ],
+      "methodology": "Restitution visuelle interprétative de l’architecture archaïque, non métrique et non photogrammétrique ; conserver l’iconographie et les sources hors des pixels et signaler les hypothèses."
     }
   ]
 }
