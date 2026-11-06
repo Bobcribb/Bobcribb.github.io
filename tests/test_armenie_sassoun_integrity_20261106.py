@@ -21,14 +21,25 @@ class ArmenianHistoricalVolumeTests(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
         cls.full = PAGE.read_text(encoding="utf-8")
-        begin = '<div class="mythos-original-study" id="texte-integral-armenie-sassoun">\n'
-        end = '\n</div>\n<section class="mythos-world-study-crosslinks"'
-        if begin not in cls.full or end not in cls.full:
+        # Les lecteurs reformatés injectent leurs propres attributs d'ancrage.
+        # Reconstituer le HTML source exact en retirant uniquement ces balises.
+        pattern = re.compile(
+            r'<div class="mythos-original-study" id="texte-integral-armenie-sassoun">\n'
+            r'(?P<study>.*?)\n</div>\n<section\b[^>]*class="mythos-world-study-crosslinks"',
+            re.DOTALL,
+        )
+        match = pattern.search(cls.full)
+        if match is None:
             raise AssertionError("Borniers éditoriaux du manuscrit manquants")
-        cls.marked = cls.full.split(begin, 1)[1].split(end, 1)[0]
+        cls.marked = match.group("study")
         cls.original = re.sub(
-            r'<span id="armenian-lecture-[0-9]+" class="mythos-text-anchor" aria-hidden="true"></span>',
+            r'<span\b(?=[^>]*\bid="armenian-lecture-\d+")'
+            r'(?=[^>]*\bclass="mythos-text-anchor")[^>]*></span>',
             "", cls.marked,
+        )
+        cls.original = re.sub(
+            r' data-reading-section="true" id="lecture-section-\d+"',
+            "", cls.original,
         )
 
     def test_source_entire_and_documented(self):
