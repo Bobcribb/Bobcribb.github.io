@@ -160,8 +160,8 @@ def install(root: Path, out: Path) -> int:
     # BeautifulSoup ajoute parfois un saut de ligne au DOCTYPE à chaque
     # aller-retour. Normaliser uniquement cet espace, sans toucher aux textes.
     def serialize(page: BeautifulSoup) -> str:
-        return re.sub(r"(?i)^(<!doctype\\s+html>)\\s*(?=<html\\b)",
-                      r"\\1\\n", str(page))
+        return re.sub(r"(?i)^(<!doctype\s+html>)\s*(?=<html\b)",
+                      r"\1\n", str(page))
 
     study_path.write_text(serialize(doc), encoding="utf-8")
     narrative_path.write_text(serialize(narrative), encoding="utf-8")
