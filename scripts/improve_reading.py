@@ -394,6 +394,16 @@ def authored_blocks(doc):
     return Counter(node.get_text(' ',strip=True) for node in copy.select('p,li,h2,h3,blockquote,figcaption,td') if node.get_text(' ',strip=True))
 
 
+# Les lecteurs historiques possèdent déjà leurs sommaires, figures et renvois
+# documentés. Un passage du lecteur générique effacerait leurs éléments
+# data-reading-owned ; conserver leurs octets sans toucher à leur prose.
+CURATED_HISTORICAL_READERS = frozenset({
+    '/bibliotheque-mythologies-du-monde/mythos-volume-14-khmer-angkor-cosmogonies/',
+    '/bibliotheque-mythologies-du-monde/mythos-volume-15-philippines-ifugao-hudhud/',
+    '/bibliotheque-mythologies-du-monde/civilisations-histoire-khmers-angkor/',
+})
+
+
 def enhance(out, root):
     """One inventory, derived search metadata and accessible reading controls."""
     entries=json.loads((out/'search.json').read_text())
@@ -411,6 +421,11 @@ def enhance(out, root):
         source=root/(record.get('source') or path.relative_to(out))
         record['source']=source.relative_to(root).as_posix()
         record['source_sha256']=sha256(source.read_bytes()).hexdigest() if source.is_file() else None
+        if entry['url'] in CURATED_HISTORICAL_READERS:
+            # Protéger les sommaires intégrals, crédits photographiques et
+            # renvois réciproques déjà validés sans re-sérialiser la page.
+            complete.append(record)
+            continue
         add_reading(doc,entry['url'],record)
         # All pages retain the approved visual identity; this layer adds controls.
         if doc.head:
