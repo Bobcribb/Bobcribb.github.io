@@ -4,53 +4,95 @@
   "repository": "Bobcribb/Bobcribb.github.io",
   "branch": "main",
   "latest_session": {
-    "date": "2026-11-05",
-    "kind": "AUDIT ET CORRECTION",
-    "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "scope": "Séance 61 : contrôle post-iconographique des trois profils Achille, Hector, Pénélope et correction d'une lacune de déclenchement de l'audit GitHub Actions sur pull requests modifiant uniquement HTML, médias ou tests d'iconographie.",
-    "basis_commit": "77b1fbdc515bbf8481c3d0224ffc934d482d418b",
-    "files_modified": [
-      ".github/workflows/audit-integrity.yml",
-      "tests/test_audit_workflow_coverage.py",
-      "docs/MYTHOS_ICONOGRAPHIE_ALTERNANCE.json"
+    "date": "2026-11-06",
+    "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "previous_kind": "AUDIT ET CORRECTION",
+    "next_kind": "AUDIT ET CORRECTION",
+    "scope": "Séance 62 : enrichissement documentaire des analyses longues Iliade XVII et Odyssée XII (deux schémas 2D nouveaux explicitement interprétatifs) et iconographie antique d'Aphrodite dans la Théogonie (Peintre de Pistoxénos, vers 460 av. J.-C.).",
+    "basis_commit": "28ccfbcf24d3725d962c3072ca3a6b7ede1f482c",
+    "pages_modified": [
+      "philosophie-iliade.html",
+      "philosophie-odyssee.html",
+      "philosophie-theogonie.html"
     ],
-    "verified_issue": "Le workflow .github/workflows/audit-integrity.yml surveillait les changements HTML/assets/media en push sur main mais ne les incluait pas dans pull_request.paths ; une PR strictement iconographique pouvait être fusionnée sans audit d'intégrité préalable.",
-    "correction": "Harmoniser les déclencheurs push et pull_request pour HTML racine et profond, assets/**, media/**, tests/test_iconography_*.py et le journal d'alternance. Ajouter un test de régression garantissant leur présence dans les deux filtres ; conserver les étapes d'audit existantes.",
+    "assets_added": [
+      "assets/philosophie/iliade-patrocle-corps-devoir-s62-20261106.svg",
+      "assets/philosophie/odyssee-sirenes-engagement-s62-20261106.svg"
+    ],
+    "reused_asset": "media/2026/10/mythos-aphrodite-cygne-kylix-british-museum.jpg",
+    "test_added": "tests/test_iconography_session62_epics.py",
+    "figures": [
+      {
+        "page": "philosophie-iliade.html",
+        "id": "icono-iliade-patrocle-corps-devoir-s62-20261106",
+        "src": "/assets/philosophie/iliade-patrocle-corps-devoir-s62-20261106.svg",
+        "status": "schéma 2D contemporain assisté par IA ; non historique",
+        "source": "Homère, Iliade XVII"
+      },
+      {
+        "page": "philosophie-odyssee.html",
+        "id": "icono-odyssee-sirenes-engagement-s62-20261106",
+        "src": "/assets/philosophie/odyssee-sirenes-engagement-s62-20261106.svg",
+        "status": "schéma 2D contemporain assisté par IA ; non historique",
+        "source": "Homère, Odyssée XII"
+      },
+      {
+        "page": "philosophie-theogonie.html",
+        "id": "icono-theogonie-aphrodite-cygne-pistoxenos-s62-20261106",
+        "src": "/media/2026/10/mythos-aphrodite-cygne-kylix-british-museum.jpg",
+        "status": "photographie d'un artefact antique authentique, non générée par IA",
+        "source": "British Museum, vase D 2 ; Wikimedia Commons CC BY 2.5"
+      }
+    ],
     "precommit_audit": {
-      "repository_tree_entries": 5385,
-      "pages_checked": [
-        "heros-achille/index.html",
-        "heros-hector/index.html",
-        "heros-penelope/index.html",
-        "philosophie-iliade.html",
-        "philosophie-odyssee.html",
-        "philosophie-theogonie.html"
-      ],
-      "source_pages_existing": true,
-      "duplicate_ids_in_three_profiles": 0,
-      "missing_local_resources_or_assets_in_six_checked_pages": 0,
-      "broken_same_page_fragments_in_three_profiles": 0,
-      "verified_style_scripts": [
-        "assets/style.css",
-        "assets/mythos-refonte.css",
-        "assets/mythos-museum.css",
-        "assets/mythos-discovery.css",
-        "assets/search.js",
-        "assets/mythos-museum.js",
-        "assets/mythos-reading.js"
-      ],
-      "numbered_new_studies": 0
+      "repository_tree_entries": 5450,
+      "checks": {
+        "philosophie-iliade.html": {
+          "html_before": 431531,
+          "html_after": 432804,
+          "images_before": 36,
+          "images_after": 37,
+          "anchors": 111,
+          "broken_anchors": 0,
+          "local_resources": 44,
+          "missing_resources": 0,
+          "duplicate_ids": 0
+        },
+        "philosophie-odyssee.html": {
+          "html_before": 413001,
+          "html_after": 414307,
+          "images_before": 35,
+          "images_after": 36,
+          "anchors": 111,
+          "broken_anchors": 0,
+          "local_resources": 43,
+          "missing_resources": 0,
+          "duplicate_ids": 0
+        },
+        "philosophie-theogonie.html": {
+          "html_before": 416774,
+          "html_after": 418445,
+          "images_before": 35,
+          "images_after": 36,
+          "anchors": 113,
+          "broken_anchors": 0,
+          "local_resources": 43,
+          "missing_resources": 0,
+          "duplicate_ids": 0
+        }
+      },
+      "all_prior_html_preserved_except_inserted_figures": true,
+      "unique_assets_verified": true,
+      "original_sources_verified": "Theoi : Iliade XVII et Odyssée XII ; British Museum vase D 2 via Wikimedia Commons (photo Marie-Lan Nguyen, CC BY 2.5).",
+      "pagination_a4_prior_referenced": {
+        "iliade": 107,
+        "odyssee": 101,
+        "theogonie": 103
+      }
     },
-    "public_observation": "Lecture HTTPS effective sur bobmythos.fr : /catalog/publication-verification.json indiquait source_commit bd79dae1a0d6a1140f9d1d80e1fe1ad0defb4fb6, run 42052421794, 1565 documents indexés. Les trois pages /heros-achille/, /heros-hector/, /heros-penelope/ exposaient chacune l'identifiant figure de la séance 60, une légende et la mention assisté par IA ; les trois SVG étaient récupérables. Aucun déploiement de la correction de séance 61 présumé.",
-    "ci_state": "Au contrôle, plusieurs publications plus récentes étaient annulées ou en attente ; le run de validation 42058430692 (commit cf9ba8cd) était en cours. Le succès du nouveau commit et de son déploiement reste à contrôler.",
-    "tests": "CI PR n° 59 : régressions de workflow déclencheur réussies ; échec de trois tests d'alternance (history[-1] != latest_session) dans le premier commit, corrigé par insertion de la séance 61 à la fin chronologique de history, sans supprimer la séance 60.",
-    "preservation": "Aucune modification de chapitre, de texte scientifique, de navigation, de numéro, de registre editorial/numbering.json, d'image ou d'automatisation. Aucun nouvel article ni média ajouté pendant la séance d'audit.",
-    "limitations": "Audit ciblé de six pages et politique CI ; aucune vérification exhaustive du code HTML de toutes les pages ni de toutes les URL externes ; pas de rendu navigateur responsive dans cette séance.",
-    "commits": [
-      "5ee3f03f2d1e7a826c526716b6c6b22b8e3e89a6"
-    ],
-    "commit_note": "Correctif additionnel au journal après diagnostic CI : history est chronologique et doit se terminer par latest_session ; le SHA du commit final de journal est conservé dans l'historique GitHub."
+    "preservation": "Aucun changement de texte source, numéro, chapitres/, editorial/inbox, editorial/numbering.json, navigation, CSS/JS, automatisations horaires ; aucune reconstitution 2,5D.",
+    "deployment": "À confirmer par GitHub Actions et par contrôle HTTPS du site bobmythos.fr ; un commit sur branche/PR ne vaut pas publication.",
+    "limits": "Contrôles statiques ciblés ; pagination A4 antérieure, non recalculée. Aucun navigateur responsive réel ni audit exhaustif des liens externes dans cette séance."
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
   "history": [
@@ -3621,6 +3663,97 @@
         "5ee3f03f2d1e7a826c526716b6c6b22b8e3e89a6"
       ],
       "commit_note": "Correctif additionnel au journal après diagnostic CI : history est chronologique et doit se terminer par latest_session ; le SHA du commit final de journal est conservé dans l'historique GitHub."
+    },
+    {
+      "date": "2026-11-06",
+      "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "previous_kind": "AUDIT ET CORRECTION",
+      "next_kind": "AUDIT ET CORRECTION",
+      "scope": "Séance 62 : enrichissement documentaire des analyses longues Iliade XVII et Odyssée XII (deux schémas 2D nouveaux explicitement interprétatifs) et iconographie antique d'Aphrodite dans la Théogonie (Peintre de Pistoxénos, vers 460 av. J.-C.).",
+      "basis_commit": "28ccfbcf24d3725d962c3072ca3a6b7ede1f482c",
+      "pages_modified": [
+        "philosophie-iliade.html",
+        "philosophie-odyssee.html",
+        "philosophie-theogonie.html"
+      ],
+      "assets_added": [
+        "assets/philosophie/iliade-patrocle-corps-devoir-s62-20261106.svg",
+        "assets/philosophie/odyssee-sirenes-engagement-s62-20261106.svg"
+      ],
+      "reused_asset": "media/2026/10/mythos-aphrodite-cygne-kylix-british-museum.jpg",
+      "test_added": "tests/test_iconography_session62_epics.py",
+      "figures": [
+        {
+          "page": "philosophie-iliade.html",
+          "id": "icono-iliade-patrocle-corps-devoir-s62-20261106",
+          "src": "/assets/philosophie/iliade-patrocle-corps-devoir-s62-20261106.svg",
+          "status": "schéma 2D contemporain assisté par IA ; non historique",
+          "source": "Homère, Iliade XVII"
+        },
+        {
+          "page": "philosophie-odyssee.html",
+          "id": "icono-odyssee-sirenes-engagement-s62-20261106",
+          "src": "/assets/philosophie/odyssee-sirenes-engagement-s62-20261106.svg",
+          "status": "schéma 2D contemporain assisté par IA ; non historique",
+          "source": "Homère, Odyssée XII"
+        },
+        {
+          "page": "philosophie-theogonie.html",
+          "id": "icono-theogonie-aphrodite-cygne-pistoxenos-s62-20261106",
+          "src": "/media/2026/10/mythos-aphrodite-cygne-kylix-british-museum.jpg",
+          "status": "photographie d'un artefact antique authentique, non générée par IA",
+          "source": "British Museum, vase D 2 ; Wikimedia Commons CC BY 2.5"
+        }
+      ],
+      "precommit_audit": {
+        "repository_tree_entries": 5450,
+        "checks": {
+          "philosophie-iliade.html": {
+            "html_before": 431531,
+            "html_after": 432804,
+            "images_before": 36,
+            "images_after": 37,
+            "anchors": 111,
+            "broken_anchors": 0,
+            "local_resources": 44,
+            "missing_resources": 0,
+            "duplicate_ids": 0
+          },
+          "philosophie-odyssee.html": {
+            "html_before": 413001,
+            "html_after": 414307,
+            "images_before": 35,
+            "images_after": 36,
+            "anchors": 111,
+            "broken_anchors": 0,
+            "local_resources": 43,
+            "missing_resources": 0,
+            "duplicate_ids": 0
+          },
+          "philosophie-theogonie.html": {
+            "html_before": 416774,
+            "html_after": 418445,
+            "images_before": 35,
+            "images_after": 36,
+            "anchors": 113,
+            "broken_anchors": 0,
+            "local_resources": 43,
+            "missing_resources": 0,
+            "duplicate_ids": 0
+          }
+        },
+        "all_prior_html_preserved_except_inserted_figures": true,
+        "unique_assets_verified": true,
+        "original_sources_verified": "Theoi : Iliade XVII et Odyssée XII ; British Museum vase D 2 via Wikimedia Commons (photo Marie-Lan Nguyen, CC BY 2.5).",
+        "pagination_a4_prior_referenced": {
+          "iliade": 107,
+          "odyssee": 101,
+          "theogonie": 103
+        }
+      },
+      "preservation": "Aucun changement de texte source, numéro, chapitres/, editorial/inbox, editorial/numbering.json, navigation, CSS/JS, automatisations horaires ; aucune reconstitution 2,5D.",
+      "deployment": "À confirmer par GitHub Actions et par contrôle HTTPS du site bobmythos.fr ; un commit sur branche/PR ne vaut pas publication.",
+      "limits": "Contrôles statiques ciblés ; pagination A4 antérieure, non recalculée. Aucun navigateur responsive réel ni audit exhaustif des liens externes dans cette séance."
     }
   ]
 }
