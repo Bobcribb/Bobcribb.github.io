@@ -423,17 +423,34 @@ def origins_additional_index(by_number, source_root=Path("."), rendered_root=OUT
         markdown = source.read_text(encoding="utf-8")
         if len(markdown) < 2000:
             raise RuntimeError(f"Origines du sacré : étude anormalement courte : {url}")
-        h1 = re.search(r"(?m)^#\s+(.+)$", markdown)
-        h2 = re.search(r"(?m)^##\s+(.+)$", markdown)
-        scientific = re.match(rf"(?i)^Chapitre\s+{number}\s*[—:-]\s*(.+)$", h1.group(1)) if h1 else None
-        if scientific:
-            title = scientific.group(1)
-        elif h2:
-            title = h2.group(1)
-        else:
-            title = entry.get("title", "")
-        title = re.sub(r"[`*_]", "", title).strip()
-        if not title or re.match(r"(?i)^résumé(?:\s+scientifique)?$", title):
+        # Les manuscrits peuvent utiliser un H1 éditorial MYTHOS suivi d'un
+        # second H1 portant le titre scientifique, sans H2 initial.
+        # Une rubrique générique « Résumé scientifique » n'est pas un titre.
+        headings = re.findall(r"(?m)^#\s+(.+)$", markdown)
+        subheadings = re.findall(r"(?m)^##\s+(.+)$", markdown)
+
+        def meaningful_title(candidate):
+            candidate = re.sub(r"[`*_]", "", candidate or "").strip()
+            numbered = re.match(rf"(?i)^Chapitre\s+{number}\s*[—:-]\s*(.+)$", candidate)
+            if numbered:
+                candidate = numbered.group(1).strip()
+            if (not candidate
+                    or re.match(r"(?i)^MYTHOS\b", candidate)
+                    or re.fullmatch(
+                        r"(?i)(?:Résumé(?:\s+scientifique)?|Sommaire(?:\s+scientifique)?"
+                        r"|Chapitre\s+\d+(?:\s*\([^)]*\))?)", candidate)):
+                return None
+            return candidate
+
+        numbered_titles = []
+        for heading in headings:
+            explicit = re.match(rf"(?i)^Chapitre\s+{number}\s*[—:-]\s*(.+)$", heading)
+            if explicit:
+                numbered_titles.append(explicit.group(1))
+        candidates = [*numbered_titles, *headings, *subheadings, entry.get("title", "")]
+        title = next((valid for candidate in candidates
+                      if (valid := meaningful_title(candidate))), None)
+        if not title:
             raise RuntimeError(f"Origines du sacré : titre scientifique absent : {url}")
         studies.append((number, url, title))
     if not studies:
