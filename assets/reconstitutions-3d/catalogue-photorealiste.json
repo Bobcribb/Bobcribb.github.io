@@ -2,7 +2,7 @@
   "generated_at": "2026-11-06",
   "site": "bobmythos.fr",
   "method": "Illustrations photoréalistes interprétatives, textes et sources hors des pixels.",
-  "count": 67,
+  "count": 74,
   "entries": [
     {
       "id": "DEL-PAN-001",
@@ -1740,6 +1740,374 @@
       ],
       "methodology": "Évocation artistique photoréaliste non métrique, fondée sur les données historiques et le type architectural du temple ; ne valide ni altimétrie, ni mesures de détails, ni identification cultuelle.",
       "publication_status": "fichier_prepare_non_publie_deploiement_https_a_verifier"
+    },
+    {
+      "id": "PAE-HER-I-001",
+      "slug": "paestum-premier-temple-hera-basilique-vers-530-av-jc",
+      "title": "Poseidonia-Paestum — premier temple d’Héra, dit « Basilique », vers 530–520 av. J.-C.",
+      "period": "Construction vers 560–520 av. J.-C. ; restitution interprétative de l’état archaïque achevé, vers 530–520 av. J.-C. (datation approximative).",
+      "caption": "Restitution photoréaliste interprétative du premier temple d’Héra dans le sanctuaire méridional de Poseidonia (Paestum), avec péristyle dorique archaïque de neuf colonnes sur les façades et dix-huit sur les longs côtés. État complet hypothétique.",
+      "commentary": "Dans le sanctuaire méridional de Poseidonia, colonie grecque de Grande-Grèce, le premier temple d’Héra, conventionnellement appelé « Basilique » depuis une interprétation erronée des antiquaires du XVIIIe siècle, fut construit approximativement entre 560 et 520 av. J.-C. Le parc archéologique de Paestum et Velia atteste neuf colonnes doriques sur les petits côtés et dix-huit sur les longs côtés, avec chapiteaux archaïques fortement évasés. Le plan comprenait un pronaos, une cella divisée longitudinalement par une file de colonnes et un adyton à l’arrière ; l’autel était placé devant la façade orientale. Une quantité appréciable d’éléments en terre cuite polychrome de la toiture, parmi lesquels des antéfixes florales et des gouttières à têtes léonines, a été retrouvée. Les dédicaces et dépôts votifs rendent l’attribution à Héra très probable. Cette image reconstitue un moment idéalisé autour de 530–520 av. J.-C. : les pierres de calcaire, l’échelle monumentale et le rythme des colonnes sont informés par les vestiges, mais la hauteur des parties disparues, les effets d’enduit, la couverture continue, les motifs exacts de peinture et leur placement, le traitement du fronton, les vêtements, la position de l’autel, le paysage et la lumière sont proposés à titre d’évocation. Les dimensions apparentes et le nombre de détails décoratifs ne sauraient être mesurés à partir de l’image générée. Ce rendu n’est ni une photographie de l’Antiquité, ni une photogrammétrie, ni un modèle 3D scientifique validé par les institutions citées. À distinguer du second temple d’Héra, dit « temple de Neptune », construit vers 460 av. J.-C. et déjà représenté par l’entrée PAE-HER-II-001 de MYTHOS.",
+      "certainty": "Élevé : localisation au sanctuaire méridional, datation archaïque générale (vers 560–520 av. J.-C.), péristyle dorique 9 × 18, chapiteaux archaïques évasés, existence des éléments de toiture en terre cuite, identification du culte d’Héra très probable. Moyen : restitution des niveaux de toiture et des ouvertures, distribution précise des enduits et de la polychromie, élévation restituée, matérialité des abords. Faible : dessins spécifiques du fronton, position et ampleur des gargouilles figurées, états des pigments, décor de l’autel, scène rituelle, personnages, végétation, climat, perspective et détail des bâtiments environnants.",
+      "source_url": "https://parchipaestumvelia.cultura.gov.it/en/scopri-i-parchi/archeological-area-of-paestum/",
+      "secondary_sources": [
+        "https://parchipaestumvelia.cultura.gov.it/scopri-i-parchi/area-archeologica-di-paestum/",
+        "https://homepages.bluffton.edu/~SULLIVANM/paestum/paestum-i.html"
+      ],
+      "src": "/assets/reconstitutions-3d/paestum-premier-temple-hera-basilique-vers-530-av-jc.webp",
+      "image": "/assets/reconstitutions-3d/paestum-premier-temple-hera-basilique-vers-530-av-jc.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-06",
+      "type": "reconstitution numérique originale photoréaliste à apparence 3D, interprétative non métrique",
+      "provenance": "Image numérique générée spécialement pour MYTHOS, sans menu, titre, légende, filigrane, schéma 2,5D ni interface incrustés dans les pixels. Sources scientifiques externes à l’image ; aucune validation institutionnelle revendiquée.",
+      "sha256": "c6704560f284058deb0d3d53c680741345675f429ef97755fdf9101dcb9aa192",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/paestum-premier-temple-hera-basilique-vers-530-av-jc.json",
+      "scientific_sources": [
+        {
+          "label": "Parchi Archeologici di Paestum & Velia — Basilica of Paestum, histoire, plan et couverture",
+          "url": "https://parchipaestumvelia.cultura.gov.it/en/scopri-i-parchi/archeological-area-of-paestum/"
+        },
+        {
+          "label": "Ministero della Cultura — Area archeologica di Paestum (version italienne)",
+          "url": "https://parchipaestumvelia.cultura.gov.it/scopri-i-parchi/area-archeologica-di-paestum/"
+        },
+        {
+          "label": "Bluffton University — Temple of Hera I (Basilica), galerie d’architecture",
+          "url": "https://homepages.bluffton.edu/~SULLIVANM/paestum/paestum-i.html"
+        }
+      ],
+      "methodology": "Restitution visuelle interprétative de l’architecture archaïque, non métrique et non photogrammétrique ; conserver l’iconographie et les sources hors des pixels et signaler les hypothèses."
+    },
+    {
+      "id": "KER-ART-001",
+      "slug": "corfou-palaeopolis-artemision-gorgone-vers-580-av-jc",
+      "title": "Corfou (Korkyra) — Artémision de Paléopolis, temple dorique à la Gorgone, vers 580 av. J.-C.",
+      "period": "Époque archaïque, vers 590–580 av. J.-C. ; vue d’évocation après l’achèvement du grand temple, vers 580 av. J.-C.",
+      "caption": "Reconstitution visuelle photoréaliste interprétative de l’Artémision de Korkyra : temple dorique archaïque à huit colonnes en façade, colonnade latérale et grand fronton occidental évoquant la Gorgone et les félins ; couverture, polychromie et environnement conjecturaux.",
+      "commentary": "Le grand temple d’Artémis de l’ancienne Korkyra (Corfou), situé dans la zone de Paléopolis, vers Stratia et le monastère des Saints-Théodores, appartient à la monumentalisation des sanctuaires grecs au début du VIe siècle av. J.-C. Sa construction est datée des environs de 590–580 av. J.-C. Les substructions conservées, certains éléments architecturaux, les vestiges de l’autel et surtout les sculptures du fronton occidental conservées au Musée archéologique de Corfou constituent les documents matériels primaires. Les notices archéologiques décrivent généralement un temple dorique à huit colonnes en façade et dix-sept sur les longs côtés (plan souvent qualifié de pseudo-diptère), mesurant environ 47,9 × 22,4 m. Le naos comprenait des divisions internes, un pronaos et un opisthodome. Le très ancien fronton monumental de pierre est centré sur une figure de Gorgone en course dite « agenouillée », avec Pégase et Chrysaor, encadrée par de puissants félins ; des scènes mythologiques secondaires occupent les extrémités. Le sanctuaire et sa façade sculptée sont une expression fondamentale de l’architecture archaïque et des premières recherches grecques sur la composition frontonale. La scène graphique adopte une vue en trois quarts de la façade occidentale, où se trouvait le fronton à la Gorgone, et du flanc du temple. L’accès principal du naos était tourné vers l’est : la façade occidentale ici montrée ne doit pas être prise pour la porte d’entrée principale. L’image évoque des détails des sculptures mais ne reproduit pas fidèlement les proportions et les visages du fronton original conservé au musée. Elle propose des tuiles de terre cuite, des traces de couleur, une grande élévation de la colonnade, une architecture secondaire, des visiteurs en vêtements de l’époque et une implantation côtière arborée. Ces caractéristiques, ainsi que l’axe exact de la caméra, le dessin des acrotères, la toiture, les parements, l’autel non représenté avec précision et les aménagements paysagers, relèvent de la conjecture. Le rendu est non métrique, sans levé photogrammétrique, sans modèle 3D issu d’un chantier scientifique et sans validation par les institutions citées. La Gorgone figurée n’est pas une représentation d’Artémis : elle participe au décor protecteur (apotropaïque) de son temple, et le temple ne doit pas être confondu avec l’édifice distinct d’Apollon à Kardaki.",
+      "certainty": "Élevé : existence du sanctuaire d’Artémis à Paléopolis, datation archaïque vers 590–580 av. J.-C., ordre dorique, fronton occidental en pierre à Gorgone et grands félins, vestiges du temple et de l’autel. Moyen : plan restitué 8 × 17, dimensions autour de 47,9 × 22,4 m, proportions relatives et arrangement des espaces du naos, élévation générale de la colonnade, orientation des vues restituées. Faible : géométrie exacte des hauteurs, fidélité du relief de Gorgone figuré sur l’image, finition et couleurs des sculptures, couverture et acrotères, entourage bâti, végétation, personnages, position de la caméra, lumière, proximité visuelle de la mer.",
+      "source_url": "https://archaeologicalmuseums.culture.gov.gr/en/museum/5df34af3deca5e2d79e8c162/archaeological-museum-of-kerkyra",
+      "secondary_sources": [
+        "https://www.hh.gr/en/destinations/corfu-museum/",
+        "https://perseus-aa.github.io/items/aa_94.html",
+        "https://museum.classics.cam.ac.uk/collections/casts/corcyra-temple-artemis-west-pediment",
+        "https://interpass.corfuport.gr/temple-of-artemis/",
+        "https://www.greek-language.gr/digitalResources/ancient_greek/navigator/browse.html?object_id=30372"
+      ],
+      "src": "/assets/reconstitutions-3d/corfou-palaeopolis-artemision-gorgone-vers-580-av-jc.webp",
+      "image": "/assets/reconstitutions-3d/corfou-palaeopolis-artemision-gorgone-vers-580-av-jc.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-06",
+      "type": "reconstitution numérique photoréaliste interprétative à apparence 3D, non métrique",
+      "provenance": "Création visuelle originale générative pour MYTHOS, sans menu, logo, légende, filigrane ni schéma 2,5D intégrés à l'image. Rendu non approuvé par les institutions citées.",
+      "sha256": "e017560714b3c864f83ddc661ff504c7854f7ccc5db4d3ceb0e957d16055d56b",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/corfou-palaeopolis-artemision-gorgone-vers-580-av-jc.json",
+      "scientific_sources": [
+        {
+          "url": "https://archaeologicalmuseums.culture.gov.gr/en/museum/5df34af3deca5e2d79e8c162/archaeological-museum-of-kerkyra",
+          "label": "Ministère grec de la Culture — Musée archéologique de Corfou (fronton de la Gorgone)"
+        },
+        {
+          "url": "https://www.hh.gr/en/destinations/corfu-museum/",
+          "label": "Hellenic Heritage — Musée archéologique de Corfou (Artémis Gorgo, vers 580 av. J.-C.)"
+        },
+        {
+          "url": "https://perseus-aa.github.io/items/aa_94.html",
+          "label": "Perseus Art and Archaeology Browser — Corcyra, Temple of Artemis, aa_94 (plan et dimensions)"
+        },
+        {
+          "url": "https://museum.classics.cam.ac.uk/collections/casts/corcyra-temple-artemis-west-pediment",
+          "label": "Museum of Classical Archaeology, Cambridge — Corcyra, Temple of Artemis, west pediment"
+        },
+        {
+          "url": "https://interpass.corfuport.gr/temple-of-artemis/",
+          "label": "Corfu Port Authority — Temple of Artemis, Palaeopolis (vestiges, autel)"
+        },
+        {
+          "url": "https://www.greek-language.gr/digitalResources/ancient_greek/navigator/browse.html?object_id=30372",
+          "label": "Centre for the Greek Language — Ναός της Αρτέμιδος στην Κέρκυρα, architecture et plan"
+        }
+      ],
+      "archaeological_primary_evidence": [
+        "Fondations et substructions du temple d’Artémis à Paléopolis, fragments de l'autel (vestiges)",
+        "Fronton occidental sculpté en pierre avec Gorgone, Pégase, Chrysaor et félins, conservé au Musée archéologique de Corfou"
+      ],
+      "primary_texts": [
+        "Aucun témoignage antique conservé ne décrit intégralement les élévations, décors peints et couleurs du temple en 580 av. J.-C."
+      ],
+      "methodology": "Synthèse visuelle non métrique : fronton et ordre dorique documentés ; élévation, toiture, polychromie, sculpture figurée et paysage librement restitués. Le côté ouest à la Gorgone ne correspond pas à l'entrée principale du naos, située à l'est. Aucun relevé 3D scientifique ni validation muséale."
+    },
+    {
+      "id": "SYR-APO-001",
+      "slug": "syracuse-ortygie-temple-apollon-dorique-vers-565-av-jc",
+      "title": "Syracuse (Ortygie) — temple archaïque d’Apollon, vers 565 av. J.-C.",
+      "period": "Première moitié du VIe siècle av. J.-C. ; évocation vers 565 av. J.-C. (datation discutée).",
+      "caption": "Vue photoréaliste interprétative du temple dorique d’Apollon à Ortygie : péristyle archaïque 6 × 17, soubassement et environnement maritime. Fronton, autel, édifices voisins et polychromie conjecturaux.",
+      "commentary": "À l’entrée nord de l’île d’Ortygie, ancien noyau urbain de Syracuse, le temple d’Apollon est l’un des premiers grands temples doriques intégralement construits en pierre dans le monde grec occidental. La date de sa construction est débattue dans la première moitié du VIe siècle avant notre ère ; la convention d’environ 565 av. J.-C. fournit ici une phase d’évocation, non un millésime établi. Les vestiges et les descriptions du plan attestent un péristyle dorique de six colonnes sur les petits côtés et dix-sept sur les longs côtés, des fûts monolithes rapprochés et des proportions archaïques trapues. Le temple était orienté vers l’est, élevé sur un soubassement à degrés ; le calcaire local syracusain était utilisé pour les parties porteuses. Les reconstructions de son naos et de son porche oriental présentent des variantes, notamment concernant la double rangée de colonnes en avant de la cella, la distribution intérieure et l’adyton. Le toit antique comportait des tuiles et des terres cuites architecturales, avec des décors polychromes dont le rendu intégral reste hypothétique. Une inscription archaïque gravée sur le stylobate, IG XIV 1, cite une dédicace à Apollon : l’identification du dédicant et la restitution de la lecture ont fait l’objet de propositions contradictoires, renouvelées notamment par l’étude photogrammétrique de Philip Sapirstein. Il est donc imprudent d’attribuer sans réserve le monument à un commanditaire nommé dans une traduction traditionnelle. Dans l’image, la silhouette dorique et l’horizon maritime sont des outils de visualisation, non les résultats d’un modèle archéométrique. Le décor figuré du fronton (personnage central et quadrupèdes), les métopes, l’ordonnance exacte du second rang de colonnes, les sculptures, les échoppes et maisons proches de l’eau, la distribution des habitants, l’autel fumant, les pigments, la forme complète des toitures et le tracé des murailles relèvent pour une large part d’une licence artistique. Ces motifs figurés ne doivent surtout pas être présentés comme des fragments connus du fronton du temple ; les sources patrimoniales mentionnent d’autres traditions de décor, dont une tête de Gorgone, que l’image ne reproduit pas fidèlement. Les transformations postérieures du bâtiment en église, mosquée, église puis caserne appartiennent à d’autres époques et ne sont pas représentées. La notice et les sources ne constituent pas une validation institutionnelle du visuel.",
+      "certainty": "Élevé : emplacement à Ortygie (Syracuse) ; fonction cultuelle d’Apollon attestée par l’inscription ; ordre dorique archaïque ; plan périptère 6 × 17 ; calcaire local et colonnes relativement trapues. Moyen : date autour de 565 av. J.-C. au sein d’un débat sur les premières décennies du VIe siècle ; restitution des volumes du naos, de la couverture et du porche ; organisation du téménos et position de l’autel. Faible : élévations exactes et dimensions perçues, distribution architecturale de tous les rangs de colonnes, sculptures frontonales représentées, couleurs précises, maisons et quai, embarcations, paysage urbain, pratiques cultuelles particulières, habitants, costumes, lumière et fumée.",
+      "source_url": "https://www.smarteducationunescosicilia.it/en/siracusa/temple-of-apollo/",
+      "secondary_sources": [
+        "https://whc.unesco.org/fr/list/1200/",
+        "https://perseus-aa.github.io/items/aa_378.html",
+        "https://classicalstudies.org/ig-xiv-1-and-digital-enhancement-inscriptions-using-photogrammetric-modeling",
+        "https://www.italia.it/fr/sicile/syracuse/temple-dapollon"
+      ],
+      "src": "/assets/reconstitutions-3d/syracuse-ortygie-temple-apollon-dorique-vers-565-av-jc.webp",
+      "image": "/assets/reconstitutions-3d/syracuse-ortygie-temple-apollon-dorique-vers-565-av-jc.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-06",
+      "type": "reconstitution visuelle 3D photoréaliste interprétative générée numériquement, non métrique",
+      "provenance": "Création originale assistée par un générateur d’images pour MYTHOS, sans photographie ni modèle 3D géométrique certifié ; aucun menu, logo, légende ni schéma 2,5D incrusté. Sources citées indépendantes de la création.",
+      "sha256": "6560d1adb24ec10d1ad135b42e8b46d71f79191ec2aa2c7d9ecec6bee9251a75",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/syracuse-ortygie-temple-apollon-dorique-vers-565-av-jc.json",
+      "scientific_sources": [
+        {
+          "label": "Smart Education UNESCO Sicilia — Temple of Apollo, Ortygia (site archéologique, forme et décor)",
+          "url": "https://www.smarteducationunescosicilia.it/en/siracusa/temple-of-apollo/"
+        },
+        {
+          "label": "UNESCO — Syracuse et la nécropole rocheuse de Pantalica, bien no 1200",
+          "url": "https://whc.unesco.org/fr/list/1200/"
+        },
+        {
+          "label": "Perseus Art & Archaeology — Syracuse, Temple of Apollo (aa_378)",
+          "url": "https://perseus-aa.github.io/items/aa_378.html"
+        },
+        {
+          "label": "Society for Classical Studies — Philip Sapirstein, IG XIV 1 and digital enhancement",
+          "url": "https://classicalstudies.org/ig-xiv-1-and-digital-enhancement-inscriptions-using-photogrammetric-modeling"
+        },
+        {
+          "label": "Italia.it — Temple d’Apollon de Syracuse",
+          "url": "https://www.italia.it/fr/sicile/syracuse/temple-dapollon"
+        }
+      ],
+      "primary_texts": [
+        "IG XIV 1 — dédicace archaïque à Apollon, gravée sur le stylobate ; lecture et identification du dédicant débattues dans les recherches contemporaines."
+      ],
+      "methodology": "Restitution picturale non métrique et non validée institutionnellement ; modèle de synthèse d’après le plan antique, avec parties hautes, décors et environnement largement conjecturaux.",
+      "publication_status": "fichier_prepare_non_publie_deploiement_https_a_verifier"
+    },
+    {
+      "id": "SYR-ATH-001",
+      "slug": "syracuse-athenaion-ortygie-temple-vers-480-av-jc",
+      "title": "Syracuse (Ortygie) — Athénaion, grand temple dorique de Gélon, vers 480 av. J.-C.",
+      "period": "Construction après la bataille d’Himère, traditionnellement vers 480 av. J.-C., première moitié du Ve siècle av. J.-C. ; évocation hypothétique d’un état grec achevé, sans les transformations chrétiennes.",
+      "caption": "Restitution photoréaliste interprétative de l’Athénaion de Syracuse sur l’île d’Ortygie, à l’époque de Gélon. Le péristyle dorique de six colonnes sur la façade et quatorze sur les longs côtés est documenté ; le décor et le paysage de la scène sont conjecturaux.",
+      "commentary": "Le grand temple d’Athéna (Athénaion) occupait un secteur sacré de l’île d’Ortygie, à Syracuse, sur l’emplacement de la cathédrale actuelle. La construction fut traditionnellement associée par les sources historiques à l’action du tyran Gélon et à la victoire grecque sur Carthage à Himère, en 480 av. J.-C. Les vestiges de colonnes doriques encore intégrées aux murs de la cathédrale, ainsi que les investigations archéologiques, renseignent un monument périptère de six colonnes sur les petits côtés et quatorze sur les longs côtés, d’environ 22 × 55 mètres. Le bâtiment comportait un pronaos oriental et une cella ; son statut exact de toiture et la reconstruction détaillée de ses parties disparues appellent prudence. Les maçonneries utilisaient un calcaire local aux tons miel. Les études du patrimoine sicilien signalent l’emploi de marbre de Paros pour des éléments limités du décor et de la couverture, notamment cymatium, tuiles et chéneaux à mufles de lion. L’image restitue une couverture intégrale par hypothèse artistique et propose des tons de toiture et de frise qui ne constituent ni une proposition de polychromie validée ni un relevé archéologique. Au Ier siècle av. J.-C., Cicéron, In Verrem II, 4, 122–123, mentionne les peintures intérieures du temple dérobées par Verrès, notamment des représentations associées au roi Agathocle ; ce témoignage tardif ne permet pas de transposer les peintures de la fin du IVe siècle au sanctuaire de 480 av. J.-C. Les traditions autour d’un bouclier doré signalant le temple aux navires appartiennent à son histoire littéraire et ne sont pas reproduites comme des données matérielles certaines dans le visuel. La silhouette de la côte, le tracé des rues, les maisons, les bateaux, l’autel, les personnages, l’éclairage, la texture des pierres et les détails figurés sont des conventions de visualisation. Les proportions exactes, le nombre apparent de colonnes dans la perspective et les distances ne peuvent être mesurés sur l’image. La restitution n’est ni un relevé photogrammétrique ni un modèle 3D scientifique métrique. Aucun des organismes cités n’a validé cette image.",
+      "certainty": "Élevé : existence et emplacement de l’Athénaion sous l’actuelle cathédrale de Syracuse ; ordre dorique, péristyle 6 × 14, époque de Gélon autour de la victoire d’Himère ; colonnes antiques conservées, emploi du calcaire local. Moyen : dimensions générales d’environ 22 × 55 m, distribution intérieure originale, identification et position exactes des composantes décoratives en marbre de Paros, aspect des parties hautes. Faible : coloration exacte du fronton et des métopes, forme et couleur des tuiles de la vue, autel et aménagement de la place, silhouette des maisons, navires, personnages, végétation, éclairage et angle de la caméra.",
+      "source_url": "https://www.smarteducationunescosicilia.it/en/siracusa/the-athenaion-tyrant-gelone/",
+      "secondary_sources": [
+        "https://www.italia.it/en/sicily/siracusa/temple-of-athena",
+        "https://static-www.comune.siracusa.it/wp-content/uploads/2024/02/Syracuse_EN_completo_pagine-doppie.pdf",
+        "https://beta.perseus.tufts.edu/urn:cts:latinLit:phi0474.phi005.perseus-eng2:2.4/"
+      ],
+      "src": "/assets/reconstitutions-3d/syracuse-athenaion-ortygie-temple-vers-480-av-jc.webp",
+      "image": "/assets/reconstitutions-3d/syracuse-athenaion-ortygie-temple-vers-480-av-jc.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-06",
+      "type": "reconstitution visuelle photoréaliste originale à apparence 3D, non métrique",
+      "provenance": "Image synthétique originale pour MYTHOS, sans légende, logo, interface, menu ni schéma 2,5D incrusté. Reconstruction artistique non validée par les institutions citées. Notices et sources hors de l’image.",
+      "sha256": "8ef187c4743dd94974d79716b4850e52c71f1e6d01909b347a850d5fdd3a6fe1",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/syracuse-athenaion-ortygie-temple-vers-480-av-jc.json",
+      "scientific_sources": [
+        {
+          "label": "SmartEducation UNESCO Sicilia — The Athenaion of the tyrant Gelon",
+          "url": "https://www.smarteducationunescosicilia.it/en/siracusa/the-athenaion-tyrant-gelone/"
+        },
+        {
+          "label": "Italia.it — Temple of Athena, Siracusa",
+          "url": "https://www.italia.it/en/sicily/siracusa/temple-of-athena"
+        },
+        {
+          "label": "Comune di Siracusa — Syracuse, présentation du patrimoine et de l’Athénaion",
+          "url": "https://static-www.comune.siracusa.it/wp-content/uploads/2024/02/Syracuse_EN_completo_pagine-doppie.pdf"
+        },
+        {
+          "label": "Cicéron, In Verrem, II.4.122–123 (Perseus, traduction anglaise)",
+          "url": "https://beta.perseus.tufts.edu/urn:cts:latinLit:phi0474.phi005.perseus-eng2:2.4/"
+        }
+      ],
+      "primary_texts": [
+        "Cicéron, In Verrem, II, 4, 122–123 : temple de Minerve à Ortygie et peintures intérieures conservées jusqu’aux spoliations de Verrès (témoignage romain tardif)."
+      ],
+      "methodology": "Image de synthèse archéologiquement informée et explicitement non métrique ; hypothèses de toiture, décor et environnement séparées des faits matériels. Aucun texte incrusté dans le visuel.",
+      "publication_status": "a_verifier_sur_domaine_public"
+    },
+    {
+      "id": "ATH-DIO-001",
+      "slug": "athenes-theatre-dionysos-lycurgue-vers-330-av-jc",
+      "title": "Athènes — théâtre de Dionysos Éleuthéreus, programme de Lycurgue, vers 330 av. J.-C.",
+      "period": "Vers 330 av. J.-C. (seconde moitié du IVe siècle), phase lycurguéenne ; l’état du Ve siècle et les transformations romaines sont volontairement distingués.",
+      "caption": "Panorama numérique photoréaliste interprétatif du théâtre de Dionysos sur le versant sud de l’Acropole, avec koilon de pierre, orchestra et bâtiment scénique conjectural. Évocation vers 330 av. J.-C., non métrique.",
+      "commentary": "Le théâtre de Dionysos Éleuthéreus se trouve au pied du versant méridional de l’Acropole d’Athènes, immédiatement au nord du sanctuaire du dieu. Son histoire s’étend sur plusieurs siècles : l’activité cultuelle et chorale dans un espace aménagé remonte au moins à l’époque archaïque, tandis que les concours dramatiques des Dionysies urbaines ont fait de cet emplacement un lieu majeur de la tragédie et de la comédie aux Ve et IVe siècles av. J.-C. La scène illustrée est volontairement datée vers 330 av. J.-C., pendant le programme monumental associé à l’administration de Lycurgue ; elle ne représente donc pas directement l’état du théâtre dans lequel furent créées les tragédies d’Eschyle, de Sophocle et d’Euripide au Ve siècle. Cette distinction chronologique est fondamentale : il serait anachronique de transposer sans réserve les gradins de pierre entièrement construits et les éléments de scène de la phase lycurguéenne au théâtre classique des premières représentations.\n\nLe projet lycurguéen, poursuivant des réaménagements du milieu du IVe siècle, étend le koilon (κοῖλον), c’est-à-dire la zone de places des spectateurs, en gradins de pierre calcaire taillés dans le relief et appuyés contre le versant. Des escaliers radiaux distribuent les secteurs en forme de coin (κερκίδες, kerkides). Un passage horizontal, le diazoma (διάζωμα), reprend le tracé du Péripatos, chemin de contournement de l’Acropole, et sépare une zone supérieure des rangées inférieures. Les sources patrimoniales grecques estiment la capacité du théâtre de cette phase à environ 15 000–16 000 personnes ; les chiffres restent des estimations, non le résultat d’un décompte de spectateurs anciens. Les soixante-sept trônes de marbre de la première rangée relèvent de la proédrie (προεδρία), privilège de siège associé aux dignitaires et à certaines fonctions cultuelles ; le siège central était traditionnellement celui du prêtre de Dionysos. Il convient de distinguer les parties attestées du mobilier de l’ensemble de leur disposition et de leurs transformations ultérieures.\n\nAu pied de la cavea, l’orchestra (ὀρχήστρα) constitue l’espace de l’action chorale. La forme et les limites de l’orchestra archaïque et du Ve siècle demeurent discutées ; il serait excessif d’imposer un modèle circulaire unique à toutes les phases. Une skènè (σκηνή, bâtiment de scène) permanente s’affirme dans la seconde moitié du IVe siècle, mais la façade architecturale exacte, son élévation, le nombre de portes, la disposition des paraskènia et le dessin du proskènion ne sont pas établis avec la précision qu’exigerait une reconstruction métrique. Le bâtiment à colonnes et les petits frontons figurés dans cette illustration sont une convention visuelle conjecturale : ils ne doivent surtout pas être compris comme un état conservé ni comme une restitution approuvée du dispositif lycurguéen. La source patrimoniale de DIAZOMA insiste sur les phases hellénistiques et romaines de la skènè ; les façades monumentales et le dallage de marbre de l’orchestra visibles aujourd’hui se rattachent en grande partie à des transformations ultérieures. La vue évite un mur de scène à plusieurs étages typiquement romain, mais simplifie inévitablement les phases de chantier.\n\nSur le plan religieux et civique, le théâtre ne doit pas être isolé du sanctuaire de Dionysos : le déroulement des Grandes Dionysies articule procession, sacrifice, concours choraux et représentations dramatiques. La proximité du rocher de l’Acropole matérialise le lien entre espace religieux, prestige civique et production théâtrale. Pausanias, au IIe siècle de notre ère, décrit des statues de poètes et le sanctuaire voisin (I, 20–21) ; son témoignage atteste la mémoire monumentale du lieu à une époque tardive, non l’état architectural exact de 330 av. J.-C. La tradition pseudo-plutarquéenne associe les travaux du théâtre à Lycurgue : sa valeur documentaire doit être confrontée aux vestiges et à la chronologie des restaurations. La perspective de l’image, le panorama d’Athènes, la distribution de la foule, les costumes, la végétation, l’apparence des temples sur l’Acropole, l’éclairage, les textures et la hauteur exacte des gradins sont librement recomposés. Il s’agit d’une création numérique contemporaine photoréaliste à apparence 3D, et non d’un relevé archéologique, d’une restitution géoréférencée ou d’un véritable modèle archéométrique. Aucune institution citée n’a validé ce rendu.",
+      "certainty": "Élevé : Localisation au versant sud de l’Acropole, fonction du théâtre lié au culte de Dionysos, grande phase d’aménagement en pierre dans la seconde moitié du IVe siècle av. J.-C., présence d’une cavea en gradins avec escaliers et passage horizontal, proédrie et sièges de marbre au premier rang, transformations romaines postérieures. Moyen : Capacité d’environ 15 000–16 000 personnes, attribution précise des travaux à Lycurgue et séquence des chantiers, répartition des secteurs de gradins et de la cavea supérieure, contour de l’orchestra à l’époque lycurguéenne, taille générale de la skènè, restitution globale du Péripatos comme diazoma. Faible : Architecture détaillée et colonnade du bâtiment scénique figuré, portes et frontons, polychromie, couvrement, mobilier des sièges, alignement des temples sur l’Acropole et des bâtiments voisins, densité urbaine, figuration des individus, végétation, lumière, proportions métriques et position exacte de la caméra.",
+      "source_url": "https://whc.unesco.org/en/tentativelists/5869",
+      "secondary_sources": [
+        "https://diazoma.gr/en/theaters/theatre-of-dionysos/",
+        "https://www.searchculture.gr/aggregator/portal/thematicCollections/dionysos_theatre?language=en",
+        "https://kvl.cch.kcl.ac.uk/THEATRON/theatres/dionysos/assets/text/diotxt25.html",
+        "https://diazoma.gr/en/routes-history-en/the-athens-trilogy-cultural-route/journey-theatre-dionysus-eleuthereus/",
+        "https://periegesis.abm.uu.se/en/reports.php?reportid=21",
+        "https://www.thisisathens.org/antiquities/theatre-dionysus"
+      ],
+      "src": "/assets/reconstitutions-3d/athenes-theatre-dionysos-lycurgue-vers-330-av-jc.webp",
+      "image": "/assets/reconstitutions-3d/athenes-theatre-dionysos-lycurgue-vers-330-av-jc.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-06",
+      "type": "vue photoréaliste numérique interprétative à apparence 3D, non métrique ; aucun modèle 3D mesurable fourni",
+      "provenance": "Image originale générée par IA pour MYTHOS puis encodée en WebP. Sans interface, menu, titre, filigrane, texte dans les pixels ni schéma 2,5D. Les organismes cités documentent les vestiges sans valider le visuel.",
+      "sha256": "79302c43dccca5067d9a124d7707632bc3094191a1fad0e355b5c43b74a1f7bb",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/athenes-theatre-dionysos-lycurgue-vers-330-av-jc.json",
+      "scientific_sources": [
+        {
+          "label": "UNESCO, liste indicative — Ancient Greek Theatres : Theatre of Dionysus in Athens",
+          "url": "https://whc.unesco.org/en/tentativelists/5869"
+        },
+        {
+          "label": "DIAZOMA — Theatre of Dionysos Eleuthereus, notice archéologique (K. Boletis, Éphorie des Antiquités)",
+          "url": "https://diazoma.gr/en/theaters/theatre-of-dionysos/"
+        },
+        {
+          "label": "Ministère grec de la Culture / SearchCulture.gr — The theatre of Dionysos Eleuthereus",
+          "url": "https://www.searchculture.gr/aggregator/portal/thematicCollections/dionysos_theatre?language=en"
+        },
+        {
+          "label": "King’s College London, THEATRON — The Lycurgean theatre",
+          "url": "https://kvl.cch.kcl.ac.uk/THEATRON/theatres/dionysos/assets/text/diotxt25.html"
+        },
+        {
+          "label": "DIAZOMA — Our journey: Theatre of Dionysus Eleuthereus (2020)",
+          "url": "https://diazoma.gr/en/routes-history-en/the-athens-trilogy-cultural-route/journey-theatre-dionysus-eleuthereus/"
+        },
+        {
+          "label": "Pausanias, Description de la Grèce, I, 20–21 (texte et traduction)",
+          "url": "https://periegesis.abm.uu.se/en/reports.php?reportid=21"
+        },
+        {
+          "label": "The Official Athens Guide — The Theatre of Dionysus",
+          "url": "https://www.thisisathens.org/antiquities/theatre-dionysus"
+        }
+      ],
+      "primary_texts": [
+        "Pausanias, Description de la Grèce, I, 20, 3 et I, 21, 1–3 : sanctuaire de Dionysos, théâtre et portraits de poètes ; témoignage du IIe siècle de notre ère.",
+        "Pseudo-Plutarque, Vie des dix orateurs, Lycurgue, Moralia 841c et 852c : tradition relative aux constructions attribuées à Lycurgue (références anciennes à contrôler sur édition critique)."
+      ],
+      "methodology": "Interprétation visuelle non métrique fondée sur la topographie, le plan et les phases attestées, mais sans relevé photogrammétrique ni contrôle de conformité des élévations. La skènè à façade colonnadée représentée est hypothétique. Ne pas utiliser cette illustration pour des mesures, pour reconstituer l’état des créations tragiques du Ve siècle ou comme preuve archéologique.",
+      "publication_status": "fichier_depose_sur_branche_GitHub_deploiement_https_non_verifie"
+    },
+    {
+      "id": "MET-TAV-001",
+      "slug": "metaponte-tavole-palatine-heraion-vers-515-av-jc",
+      "title": "Métaponte (Grande-Grèce) — temple extra-urbain d’Héra, dit Tavole Palatine, vers 515 av. J.-C.",
+      "period": "Fin du VIe siècle av. J.-C., construction située vers 520–510 ; évocation vers 515 av. J.-C.",
+      "caption": "Reconstitution visuelle 3D photoréaliste interprétative du temple dorique extra-urbain d’Héra aux Tavole Palatine, rive droite du Bradano : péristyle 6 × 12 et paysage antique imaginé, vers 515 av. J.-C.",
+      "commentary": "Le sanctuaire extra-urbain d’Héra, connu sous son nom post-antique de « Tavole Palatine », était établi sur la rive droite du Bradano, à environ trois kilomètres de l’ancienne Métaponte (Metapontion), colonie achéenne de Grande-Grèce. Cette position en périphérie de la cité et près de la limite avec le territoire de Tarente constitue un élément important du paysage religieux et territorial. Le monument ne doit pas être confondu avec le grand temple urbain d’Héra, dit temple A, qui avait une colonnade archaïque de huit colonnes sur dix-sept. Le temple des Tavole Palatine était périptère dorique à six colonnes sur les petits côtés et douze sur les grands côtés, soit trente-deux colonnes distinctes en tenant compte des angles. Quinze subsistent actuellement avec des parties d’architrave, dix sur le côté nord et cinq au sud d’après le musée archéologique de Métaponte. La cella comprenait pronaos, naos et adyton ; les parements et les parties hautes ne sont pas intégralement conservés. L’édifice appartient à la fin du VIe siècle av. J.-C., vraisemblablement vers 520–510 selon l’étude architecturale présentée dans le catalogue Perseus. Une évocation « vers 515 » ne doit pas être comprise comme une date absolue assurée. Les fouilles ont mis au jour des fragments d’ornements architecturaux en terre cuite polychrome, de la céramique votive et des statuettes ; une dédicace à Héra trouvée lors des recherches de 1926 explique l’identification cultuelle du sanctuaire après une ancienne attribution erronée à Athéna. Les recherches de la Scuola Superiore Meridionale en 2022–2023 ont confirmé la présence d’un enclos sacré antérieur au temple au nord et d’une aire votive ancienne au sud, utilisée avant la monumentalisation. L’image représente une phase hypothétique de l’édifice complet, sur un terrain littoral relativement plat près du fleuve, avec peristasis, toit de tuiles, aire ouverte et petit autel. Le point de vue oblique, les dimensions apparentes, le profil exact de la toiture, les antéfixes, les teintes des métopes, les frontons, la taille et position de l’autel, les personnages, leurs costumes, les arbres, les berges du Bradano et la perspective maritime relèvent d’une reconstruction artistique. La texture vieillie des blocs illustre la matière et ne signifie pas que le sanctuaire aurait été ruiné vers 515. Aucune institution citée n’a participé à la production ou validé les détails du modèle. Il ne s’agit ni d’une photogrammétrie, ni d’une restitution métrique certifiée, ni d’une preuve de l’aspect antique.",
+      "certainty": "Élevé : localisation extra-urbaine sur la rive droite du Bradano ; identification à Héra ; temple dorique périptère 6 × 12 ; présence d’une cella subdivisée ; emploi du calcaire local et de décors architecturaux en terre cuite ; 15 colonnes conservées ; aire sacrée antérieure. Moyen : resserrement chronologique de 520 à 510 av. J.-C. ; hauteur générale, proportions architecturales simplifiées et restitutions globales de la toiture ; relation du bâtiment au téménos et aux secteurs votifs. Faible : sculpture des frontons, formes exactes des antéfixes, polychromie proposée, formes du petit autel, nombre de personnes, végétation, détail hydrographique, surface des terrains et position de la caméra.",
+      "source_url": "https://cultura.gov.it/luogo/tempio-delle-tavole-palatine",
+      "secondary_sources": [
+        "https://museometaponto.beniculturali.it/tempio-delle-tavole-palatine/",
+        "https://perseus-aa.github.io/items/aa_248.html",
+        "https://acma-digitale.it/pub/index.php/QuACMA/article/view/24",
+        "https://musei.basilicata.beniculturali.it/musei/?mid=8258&nome=tempio-delle-tavole-palatine-2"
+      ],
+      "src": "/assets/reconstitutions-3d/metaponte-tavole-palatine-heraion-vers-515-av-jc.webp",
+      "image": "/assets/reconstitutions-3d/metaponte-tavole-palatine-heraion-vers-515-av-jc.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-06",
+      "type": "reconstitution visuelle numérique photoréaliste à apparence 3D, non métrique",
+      "provenance": "Création originale assistée par génération d’image pour MYTHOS ; aucune interface, légende, schéma 2,5D ni menu de site incrusté. Les sources archéologiques ne valident pas ce rendu.",
+      "sha256": "50f81cf9dddeabf55753357ffa48f96130891969bb3fd78581ebea752dc8ac5f",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/metaponte-tavole-palatine-heraion-vers-515-av-jc.json",
+      "scientific_sources": [
+        {
+          "label": "Ministero della Cultura — Tempio delle Tavole Palatine, présentation du sanctuaire extra-urbain",
+          "url": "https://cultura.gov.it/luogo/tempio-delle-tavole-palatine"
+        },
+        {
+          "label": "Museo archeologico nazionale di Metaponto — Tempio delle Tavole Palatine, colonnes, cella et trouvailles",
+          "url": "https://museometaponto.beniculturali.it/tempio-delle-tavole-palatine/"
+        },
+        {
+          "label": "Perseus Art and Archaeology Browser, aa_248 — plan, mensurations et datation vers 520–510 av. J.-C.",
+          "url": "https://perseus-aa.github.io/items/aa_248.html"
+        },
+        {
+          "label": "Quaderni di ACMA (2024) — fouilles 2022–2023 à Metaponto, Tavole Palatine, Scuola Superiore Meridionale",
+          "url": "https://acma-digitale.it/pub/index.php/QuACMA/article/view/24"
+        },
+        {
+          "label": "Direzione Regionale Musei Basilicata — Temple des Tavole Palatine et limites du territoire de Métaponte",
+          "url": "https://musei.basilicata.beniculturali.it/musei/?mid=8258&nome=tempio-delle-tavole-palatine-2"
+        }
+      ],
+      "primary_texts": [
+        "L’identification à Héra repose notamment sur les offrandes et une dédicace antique sur céramique découverte en fouille en 1926, non sur une description antique complète du temple."
+      ],
+      "methodology": "Visualisation artistique fondée sur l’architecture archéologique 6 × 12 et la position dans le paysage ; aucune élévation exacte du fronton ou de la couverture n’est inférée des vestiges.",
+      "publication_status": "fichier_prepare_non_publie_deploiement_https_a_verifier"
+    },
+    {
+      "id": "PRI-THE-001",
+      "slug": "priene-theatre-hellenistique-prohedrie-vers-200-av-jc",
+      "title": "Priène (Ionie) — théâtre hellénistique, proédrie et proskenion, vers 200 av. J.-C.",
+      "period": "Évocation vers 200 av. J.-C. ; théâtre implanté à la fin du IVe ou au début du IIIe siècle av. J.-C., réaménagements de la skènè et du proskenion au IIIe siècle.",
+      "caption": "Reconstitution numérique photoréaliste interprétative du théâtre de Priène, au pied du Mycale : orchestra, cavea en gradins, sièges d’honneur (proédrie) et bâtiment de scène hellénistique. Vue d’ambiance, non relevé du site.",
+      "commentary": "Le théâtre de Priène se trouve sur le versant méridional du massif du Mycale, en Ionie (près de l'actuelle Güllübahçe, Turquie). L'organisation des gradins, l'orchestra et le dispositif de scène sont documentés par les fouilles anciennes et les relevés récents ; l'ensemble a conservé une physionomie hellénistique relativement lisible, avec des transformations romaines limitées. L'implantation du théâtre est généralement placée à la fin du IVe ou au début du IIIe siècle avant notre ère. Les travaux sur la skènè et le proskenion ont été poursuivis au IIIe siècle. La cavea s'organise en secteurs séparés par des escaliers ; les restitutions évoquent environ quarante-sept rangées originelles, réparties entre deux secteurs séparés par un diazoma, sans que l'image puisse en donner un compte métrique. À la limite de l'orchestra, cinq sièges d'honneur (proedriai) en pierre, à supports décorés, constituaient une place réservée aux dignitaires. L'archéologie documente aussi un canal de drainage, la façade du proskenion et un mobilier ou autel lié à l'usage civique et rituel du lieu. Les inscriptions des sièges évoquent le dédicant Nysios, fils de Diphilos. Le théâtre servait aux spectacles mais pouvait aussi accueillir des réunions publiques. La composition montre une façade scénique dotée de panneaux peints (pinakes), un petit espace surélevé, une toiture légère, des personnages et un contexte de cité hellénistique. Ces éléments précis sont des hypothèses graphiques ; les panneaux, élévations, volumes de la skènè, aménagements visibles et vêtements ne sont pas des restitutions scientifiquement validées pour une journée de l'an 200 av. J.-C. L'élément ressemblant à un autel dans l'orchestra est un choix d'évocation : il ne restitue pas à l'échelle ni à date certaine l'autel épigraphique documenté, probablement du début du IIe siècle av. J.-C. La topographie réelle du versant est un ancrage archéologique, mais l'arrière-plan architectural, le paysage, la végétation et l'éclairage sont librement recomposés. On ne doit tirer de ce visuel ni mesure ni preuve d'une performance scénique donnée.",
+      "certainty": "Élevé : théâtre sur la pente sud du Mycale à Priène ; présence d'une cavea en pierre, d'une orchestra, d'un dispositif de skènè/proskenion et de sièges de proédrie sculptés. Moyen : attribution chronologique des phases de la fin du IVe au IIe siècle av. J.-C., nombre théorique de rangées, dimensions de la façade scénique et position détaillée des éléments conservés à travers les restitutions. Faible : restitution des élévations disparues, balustrades, couverture du bâtiment scénique, peintures des pinakes, détail de l'autel, densité du public, costumes, constructions voisines, végétation, position de caméra et atmosphère.",
+      "source_url": "https://whc.unesco.org/en/tentativelists/6348",
+      "secondary_sources": [
+        "https://flore.unifi.it/handle/2158/1457254",
+        "https://digi.ub.uni-heidelberg.de/diglit/wiegand1904",
+        "https://ancienttheatrearchive.com/theatre/priene-modern-gullubahce-turkey/",
+        "https://www.whitman.edu/theatre/theatretour/priene/commentary/priene.commentary.htm"
+      ],
+      "src": "/assets/reconstitutions-3d/priene-theatre-hellenistique-prohedrie-vers-200-av-jc.webp",
+      "image": "/assets/reconstitutions-3d/priene-theatre-hellenistique-prohedrie-vers-200-av-jc.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-06",
+      "type": "vue photoréaliste numérique interprétative à apparence 3D, non métrique",
+      "provenance": "Image de synthèse originale réalisée pour MYTHOS ; aucune photographie du site antique, aucune géométrie métrique, aucune validation par les institutions citées ; pas de menu, titre, logo ou schéma 2,5D dans l'image.",
+      "sha256": "1d317a22fa6f93db54e93cd239cbe5894f3d83a462f42aa47418854bc82e676c",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/priene-theatre-hellenistique-prohedrie-vers-200-av-jc.json",
+      "scientific_sources": [
+        {
+          "label": "UNESCO — Archaeological Site of Priene, fiche de candidature",
+          "url": "https://whc.unesco.org/en/tentativelists/6348"
+        },
+        {
+          "label": "Université de Florence — G. Verdiani et A. Rosone, On Stage in Antiquity, On Screen in the Digital Age (2025)",
+          "url": "https://flore.unifi.it/handle/2158/1457254"
+        },
+        {
+          "label": "T. Wiegand et H. Schrader (1904), Priene: Ergebnisse der Ausgrabungen und Untersuchungen, chap. Das Theater, p. 235–258",
+          "url": "https://digi.ub.uni-heidelberg.de/diglit/wiegand1904"
+        },
+        {
+          "label": "Ancient Theatre Archive — Theatre of Priene, notice sur l’orchestra, la proédrie et le proskenion",
+          "url": "https://ancienttheatrearchive.com/theatre/priene-modern-gullubahce-turkey/"
+        },
+        {
+          "label": "Whitman College — Priene, Theatre Commentary (synthèse historiographique)",
+          "url": "https://www.whitman.edu/theatre/theatretour/priene/commentary/priene.commentary.htm"
+        }
+      ],
+      "primary_texts": [
+        "Inscriptions honorifiques et dédicatoires associées aux proedriai de Priène, connues par les publications des fouilles ; aucune reconstitution verbatim d'inscription non vérifiée dans le rendu.",
+        "L'édifice de scène et le dispositif de théâtre sont attestés par la documentation architecturale et épigraphique, non par un descriptif ancien continu de l'état vers 200 av. J.-C."
+      ],
+      "bibliography": [
+        "Wiegand, Theodor et Hans Schrader, Priene: Ergebnisse der Ausgrabungen und Untersuchungen in den Jahren 1895–1898, Berlin, Georg Reimer, 1904, section Das Theater.",
+        "Verdiani, Giorgio et Andrea Rosone, 'On Stage in Antiquity, On Screen in the Digital Age', Archeomatica, étude de documentation photogrammétrique du théâtre de Priène, DOI 10.48258/ARC.2025.I3.2165."
+      ],
+      "methodology": "Restitution visuelle photographique synthétique non métrique ; le compte exact des rangs, sièges et éléments construits ne doit pas être mesuré sur l’illustration."
     }
   ]
 }

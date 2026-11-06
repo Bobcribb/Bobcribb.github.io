@@ -446,6 +446,20 @@ def apply(root):
                     authored['alt'] = ('Relief de Darius Ier et inscription trilingue '
                                       'gravés sur la falaise de Behistun.')
                     continue
+                # Photographies patrimoniales documentées des volumes historiques
+                # XII–XIV : sources et licences créditées sur chaque carte.
+                verified_world_figures = {
+                    "/bibliotheque-mythologies-du-monde/mythos-volume-12-koush-meroe-apedemak/":
+                        ("koush-naqa-lassihu", "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Naqa_Apedamak_temple.jpg/960px-Naqa_Apedamak_temple.jpg"),
+                    "/bibliotheque-mythologies-du-monde/mythos-volume-13-armenie-vahagn-david-sassoun/":
+                        ("sassoun-kochar-2014", "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/2014_Erywa%C5%84%2C_Pomnik_Dawida_Sasu%C5%84skiego_%2801%29.jpg/960px-2014_Erywa%C5%84%2C_Pomnik_Dawida_Sasu%C5%84skiego_%2801%29.jpg"),
+                    "/bibliotheque-mythologies-du-monde/mythos-volume-14-khmer-angkor-cosmogonies/":
+                        ("khmer-angkor-jadamta-2012", "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Angkor_Wat_-_Churning_of_the_Sea_of_Milk.JPG/640px-Angkor_Wat_-_Churning_of_the_Sea_of_Milk.JPG"),
+                }
+                verified = verified_world_figures.get(card.get('href'))
+                if (verified and authored.get('data-mythos-card-source') == verified[0]
+                        and image_path == verified[1]):
+                    continue
                 # La Galigo: archive photographique de Leyde, conservée avec
                 # crédit et licence dans la carte de la bibliothèque.
                 # Ne conserver aucun SVG 2,5D ni image externe arbitraire.

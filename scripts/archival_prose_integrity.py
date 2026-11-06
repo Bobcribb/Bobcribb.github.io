@@ -32,6 +32,13 @@ def extract_original_body(html: str, element_id: str) -> str:
 
 
 def normalize_prose(fragment: str) -> str:
+    # Les figures documentaires ajoutées après la reprise WordPress sont des
+    # notices iconographiques, non de la prose du manuscrit patrimonial.
+    # Ignorer uniquement les figures étiquetées par le générateur éditorial.
+    fragment = re.sub(
+        r'<figure\b[^>]*\bclass="mythos-editorial-inline"[^>]*'
+        r'\bdata-editorial-inline="subject-v3"[^>]*>[\s\S]*?</figure>',
+        " ", fragment, flags=re.I)
     plain = re.sub(r"<!--[\s\S]*?-->", " ", fragment)
     plain = re.sub(r"<[^>]*>", " ", plain)
 

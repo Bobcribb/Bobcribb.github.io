@@ -1,0 +1,226 @@
+# MYTHOS — Les Origines du sacré — Chapitre 738 (volume DCCXXXVIII)
+
+## Komaland : les tertres de Yikpabongo et de Tando-Fagusa, figurines de terre cuite, corps fragmentés et pratiques curatives dans l'ancien Ghana septentrional
+
+*Monographie universitaire originale — archéologie des dépôts, anthropologie de la maladie, iconographie, archéologie biomoléculaire, chronologie, étude comparée des sanctuaires et philosophie critique. Livraison publique destinée à la numérotation concurrente MYTHOS, 6 novembre 2026.*
+
+### Résumé analytique
+
+Les tertres de la région dite **Koma Land** dans le nord du Ghana constituent l'un des dossiers les plus instructifs pour penser le sacré à partir d'une documentation matérielle privée de témoignages écrits contemporains. Leurs figurines céramiques anthropomorphes, zoomorphes, hybrides et parfois à multiples visages ont d'abord été interprétées dans le cadre de sépultures anciennes ; les recherches conduites depuis les années 2000 à Yikpabongo et Tando-Fagusa ont proposé de reconnaître, dans une partie de ces dépôts, des restes de sanctuaires ou de dispositifs rituels polyvalents. La fragmentation, les associations entre images et restes humains, ainsi que de possibles traces organiques dans des cavités, ont nourri des hypothèses relatives à la guérison, au transfert de maux et à la relation avec des ancêtres ou d'autres entités.
+
+Ces propositions ne constituent pas la reconstruction établie d'une « religion koma » unifiée. La chronologie s'étend sur plusieurs siècles et varie selon les sites, tandis que le rapport entre les producteurs des objets et les populations actuelles de la région reste débattu. L'ensemble impose une méthode : distinguer la **présence matérielle observée**, la **déposition intentionnelle inférée**, la **fonction rituelle argumentée** et la **signification théologique hypothétique**.
+
+**Thèse :** le tertre ancien peut être lu comme une archive répétée d'actions sur les objets et sur les corps, sans que sa fonction soit réduite a priori au tombeau, au dépotoir ou au temple. La transformation des figurines — modeler, percer, briser, déposer, recouvrir — rend pensable un traitement matériel de la vulnérabilité humaine. Mais aucune de ces opérations ne suffit isolément à démontrer un rite curatif déterminé.
+
+### I. Le terrain : Sisili, Kulpawn et l'histoire de la catégorie « Koma Land »
+
+Dans l'actuel Ghana septentrional, la région archéologique du Komaland s'étend notamment entre les bassins du **Sisili** et du **Kulpawn**. La recherche y a identifié de nombreux tertres, certains entourés ou associés à des pierres, et des concentrations remarquables de terres cuites. Le complexe de **Yikpabongo** est l'un des mieux étudiés ; **Tando-Fagusa** offre des assemblages comparables par certaines catégories, mais non identiques dans leurs formes et leur répartition.
+
+La désignation « Koma Land » procède d'une histoire géographique et scientifique moderne. Il serait imprudent d'en faire l'ethnonyme assuré des potiers médiévaux. Les auteurs des fouilles soulignent que les traditions des habitants actuels ne se présentent généralement pas comme un témoignage continu d'identité avec les producteurs des tertres. Les analogies ethnographiques peuvent donc aider à envisager certaines pratiques, mais pas à attribuer aux fabricants d'autrefois une langue, une généalogie ou un panthéon contemporains.
+
+Les collections résultant de prospections, de fouilles et aussi de circulations patrimoniales inégalement documentées doivent être hiérarchisées. Une figurine privée d'indication de provenance ne démontre presque rien quant à son usage ancien. Un fragment trouvé en place, en relation avec d'autres fragments, un sol et un épisode de dépôt, permet en revanche de poser une véritable question archéologique.
+
+### II. Histoire des recherches : du tertre funéraire au sanctuaire possible
+
+Les premières interprétations des ensembles associaient volontiers les tertres à des sépultures. Le constat d'ossements humains, de céramiques et d'aménagements pouvait étayer cette lecture. Toutefois, les fouilles des années 2006-2011, conduites par Benjamin W. Kankpeyeng, Samuel N. Nkumbaan et leurs collaborateurs, ont observé des organisations d'objets difficilement réductibles à des tombes ordinaires. Les regroupements de terres cuites, leur fragmentation, la sélection de restes osseux et le caractère parfois composite des couches ont fait envisager des installations d'offrandes et de soins.
+
+Le titre interrogatif « **Ancient Shrines?** » adopté en 2009 par Kankpeyeng et Nkumbaan est méthodologiquement exemplaire : la proposition de sanctuaires est une **hypothèse de lecture des contextes**, non une inscription ancienne nommant un lieu cultuel. Leur article présente la séquence des observations et revoit des datations antérieures. Les travaux de 2011 et de 2013 ont ensuite articulé le dossier aux pratiques thérapeutiques et aux différents statuts possibles de la personne figurée.
+
+Remplacer mécaniquement l'ancienne étiquette « tombe » par l'étiquette « temple » serait pourtant un progrès apparent seulement. Un même tertre peut avoir accueilli des restes humains, des opérations curatives, des dépositions votives et des reprises tardives. La question historique est de savoir **quelles séquences** ont réellement coexisté et lesquelles se sont succédé. La stratigraphie doit primer sur une typologie générale.
+
+### III. Chronologie : les datations et leurs échelles de validité
+
+Les enquêtes récentes placent des phases importantes d'occupation et de déposition entre le **VIe et le XIIe siècle de notre ère** pour certains ensembles, tandis qu'une littérature plus large, incluant analyses et contextes distincts, décrit une plage pouvant aller du VIe au XIVe siècle. D'anciennes chronologies plus tardives ont été révisées grâce à des datations radiocarbone et par thermoluminescence. Il ne faut ni uniformiser ces fourchettes ni présenter une figurine non contextualisée comme précisément « du IXe siècle ».
+
+Le carbone 14 date la matière organique échantillonnée, pas directement le modelage d'une tête en argile ; la thermoluminescence porte sur la dernière chauffe du matériau, selon les conditions d'analyse. Les intervalles statistiques, les relations entre couche et objet, les contaminations et les remaniements doivent donc accompagner chaque chiffre. Le débat sur la durée de fréquentation des tertres est aussi important que la valeur centrale d'une datation.
+
+Une autre prudence découle de l'histoire régionale : l'apparition d'une pratique au VIe siècle n'implique pas qu'elle soit restée identique pendant huit cents ans. Les changements iconographiques et les variations de contextes peuvent signaler plusieurs systèmes de gestuelles. Une monographie doit pouvoir reconnaître cette hétérogénéité, au lieu de dessiner le développement linéaire d'une religion anonyme.
+
+### IV. La documentation primaire : tertres, unités stratigraphiques, cavités et prélèvements
+
+L'archive primaire comporte les couches excavées, la position des figurines, les tessons, les dépôts humains et animaux, les outils, les petits objets, les traces de combustion, les prélèvements et leur documentation de terrain. Les campagnes de **Yikpabongo** publiées dans *African Archaeological Review* en 2013 fournissent un cadre méthodologique particulièrement utile : les auteurs distinguent les mounds, leurs contextes, les groupements de matériaux et les enquêtes ethnographiques.
+
+Les terracottas ne doivent pas être seulement photographiées de face. Un enregistrement scientifique demande au minimum un inventaire de fragments jointifs, l'étude des cassures, des perforations, des cavités, des surfaces d'usure et des résidus potentiels. Un objet très expressif mais sans couche est souvent moins informatif qu'un petit morceau intégré à un assemblage contrôlé.
+
+La comparaison entre les restes humains et les figurines est centrale. Des crânes, dents et os longs ont été rapportés dans certains contextes en association avec d'autres matériaux. Cela invite à s'interroger sur les manipulations secondaires du corps ; il serait néanmoins abusif de conclure systématiquement à un sacrifice, à une profanation ou à l'exposition d'ancêtres sans analyses taphonomiques plus fines. La disarticulation peut résulter de traitements intentionnels, de remaniements ou de processus naturels conjugués.
+
+### V. Les figurines : corps humains, animaux, hybrides et pluralité des visages
+
+L'inventaire morphologique inclut des figures humaines, des animaux, des représentations mêlant traits humains et animaux, des personnages à plusieurs visages ainsi que des cônes anthropomorphes et d'autres formes moins facilement nommables. Les variations d'échelle, de finition et d'intégrité importent autant que le sujet apparent.
+
+Les éléments d'hybridité ont souvent favorisé une interprétation religieuse : des êtres impossibles dans l'expérience ordinaire seraient, par définition, des esprits ou des dieux. Ce raisonnement reste fragile. Une figurine hybride peut servir de signe d'identité, de métaphore, d'objet narratif, de protection ou de dépositaire d'une action sur le corps. Seuls des assemblages récurrents permettent d'avancer vers des hypothèses institutionnelles.
+
+Une forme à plusieurs visages ne prouve pas une doctrine explicite de l'omnivoyance. Il peut s'agir d'un choix plastique, d'une référence à plusieurs points de vue, d'une identité relationnelle ou d'une représentation d'état corporel. Sans texte ancien ni tradition solidement datée, la polysémie doit être conservée. L'iconographie analytique sépare **description** (« deux faces opposées »), **comparaison** (« Janus romain ») et **interprétation** (« pouvoir de voir dans deux directions ») ; la troisième proposition n'est pas contenue dans la première.
+
+### VI. Fragmentation : briser n'est pas toujours détruire
+
+Une part importante des assemblages consiste en fragments de figurines et d'autres objets. Leur répartition suggère parfois des dépositions choisies plutôt que des rejets aléatoires. Toutefois, un ensemble fragmenté ne démontre pas la cassure intentionnelle de chaque pièce. Les ruptures de fouille, pressions sédimentaires et déplacements ultérieurs sont des explications concurrentes.
+
+Il faut établir si les fragments d'une même figure sont spatialement séparés, si les bords portent des traces de chocs anciens, si certains membres sont systématiquement absents, si les fragments ont été réemployés et si les portions choisies se concentrent auprès de résidus organiques ou de restes humains. Ce protocole peut distinguer au moins trois scénarios : objet brisé puis rejeté, objet rompu durant une action rituelle, et objet fragmenté par l'histoire de la couche.
+
+Timothy Insoll et ses collègues ont attiré l'attention sur la relation entre la fragmentation, la personne et les pratiques de soin. Une figurine pourrait matérialiser une affection ou un état du corps destiné à être transformé, quitté ou transféré. Cette interprétation est féconde mais ne peut être énoncée sous la forme « les anciens Koma guérissaient en cassant des poupées » : aucun mode d'emploi ancien ne l'atteste. Le choix de la prudence protège ici le dossier contre le folklore inventé.
+
+### VII. Tertres et sanctuaires : un espace sacré sans bâtiment monumental
+
+La présence d'assemblages inhabituels dans des tertres invite à substituer au modèle architectural du temple un modèle de **lieu de déposition cumulative**. La répétition d'actes peut former progressivement un relief. Des matériaux anciens sont recouverts par des gestes nouveaux ; une mémoire locale du lieu peut se constituer sans inscription ni monument de pierre élaboré.
+
+Une hypothèse de sanctuaire exige des critères positifs : sélection inhabituelle des objets, gestes répétés dans des secteurs précis, séparation relative avec les activités domestiques, concentrations de matériaux à valeur symbolique et structures d'accès ou de bordure. La simple monumentalité du tertre ne suffit pas, pas plus que la simple présence d'ossements.
+
+La différence entre habitat, cimetière et sanctuaire est parfois une catégorie de classement moderne qui n'épouse pas les pratiques anciennes. Il faut être capable de reconnaître des espaces polyvalents où des actions envers les morts, les vivants, les maladies et les puissances non humaines s'articulent. Une telle polyvalence n'abolit pas les distinctions archéologiques ; elle demande de les construire à l'échelle de chaque épisode.
+
+### VIII. Soins, transfert de maladie et agentivité des objets
+
+Dans un article de 2011 publié dans *Anthropology & Medicine*, Kankpeyeng, Nkumbaan et Insoll ont envisagé des rapports entre figurines, cosmologie, traitements du corps et pratiques médicales anciennes. Certains objets ont pu représenter une maladie, un patient, un ancêtre ou une force dont l'action était sollicitée ; des gestes de dépôt ou de fragmentation auraient pu accompagner une intervention thérapeutique.
+
+Une théorie du **transfert** peut être formulée : un état négatif serait symboliquement déplacé du malade vers une représentation, puis neutralisé par manipulation, séparation ou enfouissement. Cette proposition trouve des analogies ethnographiques, mais le mécanisme spécifique demeure non démontré pour les anciens ateliers. Il importe de ne pas confondre analogie de comportement matériel et continuité généalogique d'une croyance.
+
+La notion d'**agentivité matérielle** peut aider à comprendre que l'objet ne se réduit ni à un outil passif ni à un être doté, pour l'archéologue, de pouvoirs surnaturels vérifiables. Une image agit dans un réseau social si sa production, sa circulation et sa manipulation modifient des rapports humains : confiance, peur, appartenance, statut thérapeutique, reconnaissance publique. Cette action socialement attestable n'exige pas de trancher philosophiquement la réalité d'esprits ou de puissances invoquées.
+
+### IX. L'analyse biomoléculaire de 2017 : des traces organiques sous contrôle critique
+
+Heather A. Robinson, Timothy Insoll, Benjamin W. Kankpeyeng, Keri A. Brown et Terence A. Brown ont publié en 2017 dans le *Journal of Archaeological Science* une étude intitulée « Ritual complexity in a past community revealed by ancient DNA analysis of pre-colonial terracotta items from Northern Ghana », DOI **10.1016/j.jas.2017.01.005**. Leur travail examine quatorze objets, dont des figurines et éléments céramiques, pour rechercher des traces moléculaires interprétables comme restes de substances introduites dans les cavités.
+
+L'étude rapporte des indices compatibles avec l'emploi de plusieurs plantes, notamment plantain/bananier, pin et graminées, et avec des phénomènes de combustion sur un objet. Mais elle insiste sur les difficultés de l'ADN ancien : contamination par le sol, par la fouille, par les manipulations et par les étapes de laboratoire ; limites des banques de séquences ; difficulté à faire correspondre une séquence à une espèce. Les auteurs ont mis en œuvre des contrôles expérimentaux précisément pour évaluer ces problèmes.
+
+La conclusion acceptable est que **des analyses biomoléculaires peuvent soutenir l'hypothèse de substances organiques utilisées avec certains objets**, selon le degré de fiabilité des résultats et des contrôles. La conclusion indue serait d'annoncer « une recette de libation koma entièrement reconstituée », de déduire le nom d'un dieu ou de prétendre que les végétaux identifiés venaient nécessairement de la flore locale. Même un résidu authentiquement ancien ne donne pas sa signification sans le contexte du geste.
+
+La portée épistémologique de ce résultat est considérable. Une archéologie qui travaillait surtout sur les formes visibles peut désormais interroger les usages organiques et les biotopes de circulation. Mais les techniques de laboratoire ne remplacent pas les questions de sens ; elles déplacent la frontière entre ce qui est mesurable et ce qui reste interprété.
+
+### X. Restes humains : sépulture, relique, ancêtre ou matériau de dépôt ?
+
+La présence d'ossements humains dans certains tertres a nourri la première lecture funéraire. Les ensembles décrits par Insoll, Kankpeyeng et Nkumbaan mettent cependant en jeu des portions choisies et des agencements qui peuvent ne pas correspondre à une inhumation primaire complète. L'archéologue doit mesurer les articulations, l'orientation, les traces de coupe ou de chauffe, les déplacements, les âges au décès et les éventuelles parentés biologiques sans présumer d'emblée une manipulation violente.
+
+La notion de **relique** ne doit pas être utilisée comme une évidence : elle désigne des relations particulières entre corps, autorité et mémoire, bien documentées dans certaines traditions mais non directement attestées ici par un mot ancien. Celle d'**ancêtre** est également une proposition, non un résultat automatique de la découverte d'une dent. Des dépôts humains peuvent être liés à des rites funéraires, curatifs, propitiatoires ou à des interventions successives.
+
+Un anthropologue du sacré doit aussi résister au sensationnalisme. La juxtaposition d'ossements, de figures hybrides et de fragmentation n'autorise ni la proclamation de sacrifices humains ni celle de « sorcellerie ». L'éthique scientifique consiste à rendre intelligibles les pratiques sans les criminaliser à partir de catégories modernes.
+
+### XI. Comparaison africaine : Nok, Bura, Ifẹ̀, Kongo et la question des filiations
+
+Les terres cuites de Nok, au Nigeria central, et certains objets funéraires de Bura, au Niger, fournissent des comparaisons régionales utiles quant aux formes, à la sélection des dépôts et au statut contesté de l'image. Leur présence dans les mêmes chapitres généraux sur les « origines du sacré africain » ne prouve pas une communauté de rite. Les chronologies, réseaux, matériaux et régimes d'occupation sont différents.
+
+À Ifẹ̀, des sculptures de métal et de terre, des sols et des ateliers verriers renvoient à un autre cadre d'autorité et d'urbanité. La comparaison la plus contrôlée distingue : objet façonné, lieu de découverte, relations avec les morts, production artisanale et présence éventuelle de traditions textuelles ou orales. L'analogie ne devient argument historique que si des chaînes de transmission sont attestées.
+
+Les *minkisi* documentés dans les sociétés du Kongo, souvent mobilisés dans les études de religion matérielle, montrent que des substances peuvent être placées dans un objet pour en faire le centre d'une action sociale et thérapeutique. Mais ces pratiques sont connues dans d'autres périodes et contextes ; elles n'autorisent pas à baptiser « nkisi » les figurines de Yikpabongo. Le comparatisme doit faire apparaître la **possibilité anthropologique** d'un usage de substances, non fabriquer une généalogie kongo des anciens tertres du Ghana.
+
+### XII. Le monde grec : *iatreion*, dédicace, magie et le piège de l'équivalence
+
+La Grèce antique permet de confronter des systèmes où la santé, le divin et les objets sont parfois explicitement reliés par des inscriptions. Dans le sanctuaire d'Asclépios à Épidaure, les récits de guérisons appelés **ἰάματα** (*iámata*) sont consignés sur des inscriptions, notamment les stèles **IG IV²,1 121–122**, datant du IVe siècle avant notre ère. On y trouve des récits de soins impliquant le dieu ; leur forme littéraire et leur fonction commémorative font elles-mêmes partie de l'analyse.
+
+La comparaison avec Komaland est asymétrique : Épidaure dispose de récits inscrits dans lesquels l'efficacité est racontée, tandis que Yikpabongo offre des assemblages sans commentaire autochtone contemporain. Les ex-voto anatomiques grecs et italiques montrent que représenter un membre ou un corps peut participer à une sollicitation ou à un remerciement, mais ce parallèle n'établit pas que les figurines du Ghana représentaient des organes malades.
+
+Le terme grec **φάρμακον** (*phármakon*) peut désigner un remède, une substance active ou un poison selon les contextes. Son ambiguïté nourrit une réflexion sur la frontière entre soin et danger. Elle n'est cependant pas une traduction d'une langue anciennement parlée dans le Komaland. Le monde grec sert ici à analyser des tensions entre interprétation médicale et interprétation religieuse, non à fournir des étiquettes universelles.
+
+### XIII. Égypte, Mésopotamie et Iran : les sources qui manquent au Komaland
+
+Dans l'Égypte ancienne, les papyrus médicaux, les incantations et les amulettes donnent des informations textuelles sur les pratiques de soins. Le papyrus Ebers, daté du Nouvel Empire, rassemble prescriptions et formules ; il permet de voir que des gestes médicaux et des appels à l'efficacité surnaturelle peuvent se côtoyer. Une figurine du Ghana ne peut être interprétée comme une amulette égyptienne faute de correspondance de contexte et de documentation.
+
+En Mésopotamie, les séries de diagnostics et de traitements, les rituels d'**āšipu** et certaines procédures d'exorcisme rendent accessibles les catégories locales de maladie, de malheur et de purification. Les tablettes de la série *Maqlû* décrivent l'emploi d'images et d'actes de destruction dans un rituel contre la sorcellerie ; elles documentent l'existence d'une logique possible de substitution ou de neutralisation, non une diffusion de *Maqlû* jusqu'au Ghana. Les situations matérielles sont séparées par des siècles et des traditions linguistiques différentes.
+
+Pour l'Iran ancien, les textes avestiques associent propreté, pureté rituelle et ordre religieux selon des corpus transmis sur une longue durée. L'utilisation de cette documentation comme modèle théologique d'un site africain médiéval serait injustifiée. L'analogie utile est de distinguer soin, ordre social et classification des substances, tout en reconnaissant que les textes avestiques eux-mêmes demandent une critique de leur date et de leur transmission.
+
+### XIV. Inde, Chine et Amériques : variation des objets, variation des preuves
+
+Dans l'Inde védique, l'*Atharvaveda* offre des hymnes concernant les affections, les protections, les plantes et la puissance des formulations. Ce corpus transmis en sanskrit produit des données philologiques très différentes des figurines dépourvues d'inscription de Yikpabongo. Il n'est pas scientifique de conclure au chamanisme universel par la seule comparaison de pratiques de guérison.
+
+Les textes et objets chinois anciens révèlent d'autres combinaisons entre ancêtres, offrandes et manipulations de matières. La documentation oraculaire de la Chine Shang, puis des dossiers médicaux beaucoup plus tardifs, impose de ne pas amalgamer en une tradition unique plusieurs millénaires de pratique. La catégorie moderne d'« esprit » ne traduit pas automatiquement chaque terme ancien.
+
+Dans les Amériques, des dépôts figuratifs de Mésoamérique et des Andes montrent que des objets volontairement introduits dans des structures peuvent participer à des engagements religieux ou politiques. Mais un dépôt dans une pyramide, une offrande de hauteur andine et un tertre du Ghana ne sont pas des variantes interchangeables d'un « sacrifice ». Le comparatisme doit mettre en évidence des **opérations** — fabriquer, sélectionner, déposer, dissimuler, parfois briser — et étudier séparément les motifs historiques de ces opérations.
+
+### XV. Durkheim et Eliade : sacralisation collective et espace séparé
+
+La sociologie d'Émile Durkheim, *Les Formes élémentaires de la vie religieuse* (1912), peut éclairer les marqueurs de distinction entre des lieux ordinaires et des lieux faisant l'objet de prescriptions collectives. Les tertres de Komaland invitent à poser la question de l'intensification sociale d'une place par répétition d'actes et par accumulation. La réserve est essentielle : l'archéologie ne dispose pas ici des interdits, récits et classifications qui permettraient d'appliquer directement la bipartition durkheimienne entre sacré et profane.
+
+Le vocabulaire de Mircea Eliade, notamment la « manifestation du sacré » et la structuration de l'espace, propose des perspectives phénoménologiques. Il comporte toutefois un risque : décider que tout tertre ritualisé est une hiérophanie, puis traiter cette qualification comme une observation stratigraphique. Le dossier contraint au contraire l'analyse à partir des associations et des couches.
+
+Une voie plus précise est de parler de **sacralisation situative** : l'importance d'un objet tient à son emplacement, à ses transformations et à ses relations avec d'autres objets et corps. Cette expression reste un outil théorique à expliquer ; elle ne prétend pas traduire un terme ancien du Komaland.
+
+### XVI. Vernant, Detienne et Dumézil : sortir de la comparaison par ressemblance
+
+Jean-Pierre Vernant et Marcel Detienne invitent à prendre les catégories de la religion grecque comme des constructions historiques plutôt que des attributs intemporels du psychisme. Déposer un objet n'est pas nécessairement « sacrifier » ; briser une figure n'est pas nécessairement « exorciser ». Le geste ne possède pas un sens unique hors du système qui le produit.
+
+L'appel à Georges Dumézil soulève une difficulté particulière : ses structures fonctionnelles éclairent des corpus indo-européens comparables sur des bases linguistiques et textuelles ; ces conditions ne sont pas réunies à Yikpabongo. Aucun regroupement de figurines humaines, animales et hybrides ne doit être converti en trois « fonctions » politiques par simple symétrie formelle.
+
+Pour Detienne, comparer peut consister à construire des ensembles de problèmes dont on mesure les différences. La bonne question n'est donc pas : « Quel dieu grec représentait cette figure à plusieurs faces ? » mais : « Par quels indices une société a-t-elle attribué à une image une capacité d'action ou de mémoire ? » Cette seconde interrogation est testable en principe par les parcours matériels, les dépôts et les usages.
+
+### XVII. Nietzsche, Hegel et Girard : la violence n'est pas contenue dans la cassure
+
+Une image brisée peut susciter une lecture dramatique : conflit, crise, impureté, substitution, violence collective. La théorie de René Girard, dans *La Violence et le sacré* (1972), privilégie les mécanismes de victimisation et de résolution des crises. Elle ne peut pas être directement superposée à un tertre dont les cassures restent ambiguës. Une interprétation girardienne serait recevable uniquement comme hypothèse forte exigeant des données indépendantes : victimes, gestes collectifs, séquences de mise à mort, régularité et éventuelles traditions. Ces données manquent pour une telle conclusion générale.
+
+La distinction nietzschéenne entre forces apolliniennes et dionysiaques, issue de *La Naissance de la tragédie* (1872), concerne une problématique philosophique et esthétique élaborée à partir du monde grec. Son application à des figures hybrides ghanéennes réduirait leur histoire à l'illustration d'une opposition européenne, à moins de marquer clairement cette lecture comme expérimentation conceptuelle externe.
+
+Hegel, dans les *Leçons sur la philosophie de l'histoire*, a participé à une tradition spéculative niant à l'Afrique une histoire proprement intelligible. Le progrès de l'archéologie ne doit pas être mobilisé comme un simple concours de chefs-d'œuvre contre cette thèse. Le défi consiste à reconnaître qu'un paysage de tertres, des gestes anonymes et une technologie de la terre sont eux-mêmes des sources d'histoire, même sans chronique royale écrite. La reconnaissance d'une historicité ne dépend pas de la ressemblance avec les monuments de l'Europe ou du Proche-Orient.
+
+### XVIII. Philosophie de la personne : figurer un corps sans représenter un individu
+
+Une figurine peut représenter une personne sans en être le portrait ; elle peut représenter un état, une relation, une puissance, un groupe ou un corps possible. Certains arguments anthropologiques sur la « personne divisible » éclairent la possibilité qu'une partie de figure, une dent ou un os long soit investi d'un rôle dans une opération relationnelle. Mais l'idée de personne divisible n'est pas un fait avéré dans la tradition qui a fabriqué les tertres.
+
+La fragmentation peut être pensée au niveau de la matière avant de l'être au niveau de la métaphysique. Un membre détaché a une nouvelle trajectoire de dépôt ; un fragment isolé peut porter la mémoire d'un objet plus vaste. Le problème central devient : que signifie **rendre partiel** ce qui avait été fabriqué comme forme complète ? Plusieurs solutions sont envisageables — neutralisation, circulation, usage comme matière, accident, rejet — et la méthode archéologique doit arbitrer entre elles.
+
+Le traitement des restes humains engage aussi une réflexion éthique. Un squelette ou une dent ne doivent pas devenir un simple signe dans une synthèse comparative. Leur étude nécessite des protocoles de conservation, de consultation des communautés concernées, de justification des prélèvements et de publication transparente des conditions de fouille.
+
+### XIX. Méthode : comment éprouver les hypothèses sans inventer la cérémonie
+
+Un programme raisonnable de recherche devrait associer cartographie fine des tertres, reconstitution des événements de dépôt, remontage des fragments, analyse microscopique des cassures, datations par unité, étude des résidus sur supports témoins et publication des résultats négatifs. Les analyses biomoléculaires doivent documenter la contamination et les environnements de conservation. Les comparaisons ethnographiques doivent indiquer précisément dates, communautés et conditions d'observation.
+
+L'hypothèse « sanctuaire » pourrait être renforcée par des concentrations répétées d'objets sélectionnés dans des espaces séparés des rejets domestiques, en relation avec des traces d'actes distinctifs. Elle pourrait être affaiblie par la démonstration de dépôts entièrement secondaires provenant de déchets domestiques ou par des chronologies incompatibles. Une hypothèse qui ne peut jamais être réfutée n'est pas suffisamment formulée.
+
+L'hypothèse « soin » demande davantage : traces cohérentes de substances, catégories d'objets dont les manipulations montrent une sélection systématique et, si elles existent, des analogies locales soigneusement contextualisées. La découverte de plantes ne prouve pas à elle seule une application thérapeutique ; elle pourrait témoigner de consommation, de préparation, de conservation ou de dépôts postérieurs. L'argumentation doit rester pluraliste jusqu'à l'élimination des alternatives.
+
+### XX. Tableau des degrés de certitude
+
+| Observation | Niveau | Ce qui reste ouvert |
+|---|---|---|
+| Tertres avec concentrations de figurines et d'autres objets | Attesté par fouilles publiées | Fonctions variables selon les lieux et épisodes |
+| Figures humaines, animales et hybrides | Attesté par les collections et rapports | Identité des personnages et statut des images |
+| Fragments de figurines et certains restes humains dans des dépôts | Attesté pour des assemblages précis | Causes des cassures et rôle des fragments |
+| Importance de phases du premier et du début du second millénaire de notre ère | Soutenue par datations, à lire par échantillon | Durée exacte de chaque phase et remaniements |
+| Identification de plusieurs tertres comme sanctuaires | Hypothèse archéologique argumentée | Variabilité des usages et statut des sépultures |
+| Figures utilisées pour des soins, transferts de mal ou libations | Hypothèse renforcée par contextes et certaines analyses | Fonction exacte, séquences et paroles rituelles |
+| Substances végétales dans les cavités | Indices biomoléculaires étudiés avec contrôles | Contamination, identification taxonomique et ancienneté de chaque trace |
+| Culte d'ancêtres précis, nom de divinités, sacrificiels humains | Non établi au sens strict | Documentation indépendante absente ou insuffisante |
+| Identité entre producteurs anciens et groupes nommés aujourd'hui « Koma » | Non démontrée | Histoire démographique et linguistique |
+
+### XXI. Conclusion générale
+
+Le Komaland montre avec une rare netteté la capacité de l'archéologie à interroger les gestes religieux sans prétendre accéder immédiatement à la totalité des croyances. Des objets d'argile, des fragments de corps, des pierres et des résidus organiques dessinent des événements de déposition répétés. Leur analyse offre des indices de pratiques où les rapports à la maladie, à la mémoire des morts et à des forces invisibles ont pu être engagés, mais où les catégories de tombe, sanctuaire et lieu de soins restent susceptibles de se recouvrir.
+
+L'originalité du dossier n'est pas d'avoir retrouvé le « chamanisme » ou le « sacrifice » dans un tertre africain : ces étiquettes seraient trop rapides. Elle tient à la possibilité de démontrer que des images ont été socialement fabriquées, parfois transformées, réunies et enfouies selon des logiques qui dépassent le simple hasard du rebut. La pensée du sacré devient ici une **archéologie des relations** : relation d'une matière au corps, d'un fragment à la personne, d'un lieu à la répétition et du soin à l'autorité. Ce modèle ne se substitue pas aux données ; il ne vaut que tant qu'elles le soutiennent.
+
+### XXII. Sources primaires et bibliographie scientifique vérifiée
+
+**Corpus de données primaires**
+
+1. Assemblages de fouilles et relevés archéologiques de **Yikpabongo** (dont campagnes 2007-2011) et **Tando-Fagusa** : tertres, ensembles céramiques, positionnements stratigraphiques, échantillons et fragments osseux, présentés dans les études de Kankpeyeng et collaborateurs. La publication est le moyen d'accès ; les objets et contextes sont les sources primaires.
+2. Échantillons de quatorze éléments en terre cuite analysés par Robinson et collaborateurs (2017) : prélèvements, témoins, séquences moléculaires et contrôles de contamination. Les données ne doivent pas être confondues avec des textes rituels.
+3. Documentation des campagnes et collections du Ghana : tout nouveau remaniement ou examen doit distinguer l'ensemble fouillé de matériel sans provenance sûre.
+
+**Archéologie de Komaland**
+
+4. Benjamin W. Kankpeyeng et Samuel N. Nkumbaan, « Ancient Shrines? New Insights on the Komaland Sites of Northern Ghana », dans S. Magnavita, L. Koté, P. Breunig et O. A. Idé (dir.), *Crossroads / Carrefour Sahel: Cultural and Technological Developments in First Millennium BC/AD West Africa*, *Journal of African Archaeology Monograph Series*, 2, Frankfurt am Main, Africa Magna, 2009, p. 193-202. Notice de l'Université du Ghana : https://ugspace.ug.edu.gh/items/c592f7c2-448f-4cae-92af-16e24867e66d.
+5. Benjamin W. Kankpeyeng, Samuel N. Nkumbaan et Timothy Insoll, « Indigenous cosmology, art forms and past medicinal practices: towards an interpretation of ancient Koma Land sites in northern Ghana », *Anthropology & Medicine*, 18(2), 2011, p. 205-216, https://doi.org/10.1080/13648470.2011.591197 ; texte accessible : https://pmc.ncbi.nlm.nih.gov/articles/PMC3498835/.
+6. Benjamin Kankpeyeng, Natalie Swanepoel, Timothy Insoll, Samuel Nkumbaan, Samuel Amartey et Malik Saako, « Insights into Past Ritual Practice at Yikpabongo, Northern Region, Ghana », *African Archaeological Review*, 30(4), 2013, p. 475-499, https://doi.org/10.1007/s10437-013-9143-2 ; notice universitaire : https://ugspace.ug.edu.gh/items/549cc4f8-b3fb-42f4-bcdf-572ce6d118de.
+7. Timothy Insoll, Benjamin W. Kankpeyeng et Samuel N. Nkumbaan, « Fragmentary Ancestors? Medicine, Bodies, and Personhood in a Koma Mound, Northern Ghana », chapitre de recherche évalué par les pairs ; notice et résumé : https://pure.ug.edu.gh/en/publications/fragmentary-ancestors-medicine-bodies-and-personhood-in-a-koma-mo-6/. Les données bibliographiques complètes de l'ouvrage sont à contrôler avant toute référence de pagination.
+8. Heather A. Robinson, Timothy Insoll, Benjamin W. Kankpeyeng, Keri A. Brown et Terence A. Brown, « Ritual complexity in a past community revealed by ancient DNA analysis of pre-colonial terracotta items from Northern Ghana », *Journal of Archaeological Science*, 2017, https://doi.org/10.1016/j.jas.2017.01.005. Définir les résultats comme indices discutés avec contrôles, non comme preuve d'une liturgie connue.
+9. PanAfrican Archaeological Association, notice de communication « Archaeology, Cosmology and the African Ritual Past: Interpreting the Corpus of ancient ceramic figurines from Yikpabongo and Tando-Fagusa, Koma Land, Northern Ghana », Kankpeyeng et Nkumbaan, https://panafprehistory.org/en/resources/entry/Archaeology-Cosmology-and-the-African-Ritual-Past.-Interpreting-the-Corpus.
+
+**Comparaisons primaires contextualisées**
+
+10. *Iamata* d'Asclépios à Épidaure, inscriptions grecques **IG IV²,1 121–122** ; comparaison de régimes de preuve, et non source relative au Ghana.
+11. Série rituelle mésopotamienne *Maqlû*, manuscrits akkadiens de conjurations contre la sorcellerie ; les éditions critiques des tablettes doivent être utilisées pour toute citation textuelle. Ici aucune formule verbale n'est attribuée au site africain.
+12. Papyrus Ebers (Égypte, Nouvel Empire), collection d'écrits médicaux ; à traiter selon les versions textuelles et les datations propres au manuscrit.
+13. *Atharvaveda*, textes sanskrits d'afflictions et de protection, selon traditions et recensions distinctes ; usage comparatif strictement limité à la problématique des mots et gestes de soin.
+
+**Philosophie, histoire des religions et épistémologie**
+
+14. Jean-Pierre Vernant, *Mythe et pensée chez les Grecs*, Paris, Maspero, 1965.
+15. Marcel Detienne, *Comparer l'incomparable*, Paris, Seuil, 2000.
+16. Émile Durkheim, *Les Formes élémentaires de la vie religieuse*, Paris, Alcan, 1912.
+17. Mircea Eliade, *Le Sacré et le Profane*, édition originale allemande, 1957 ; traduction française, Gallimard, 1965.
+18. René Girard, *La Violence et le sacré*, Paris, Grasset, 1972.
+19. Friedrich Nietzsche, *Die Geburt der Tragödie aus dem Geiste der Musik*, Leipzig, 1872.
+20. G. W. F. Hegel, *Vorlesungen über die Philosophie der Geschichte*, publication posthume, à partir de 1837 ; différencier notes, cycles de cours et éditions reconstruites.
+21. Georges Dumézil, *Mythe et épopée*, t. I-III, Paris, Gallimard, 1968-1973. Méthode de comparaison à historiciser, sans postuler d'héritage indo-européen dans le Komaland.
+
+**Charte éditoriale :** aucune parole attribuée aux anciens habitants du Komaland n'est reconstituée. Les termes « sanctuaire », « thérapie », « libation » et « ancêtre » indiquent les niveaux d'hypothèse discutés dans la littérature. Les objets et leurs contextes gardent la priorité sur les ressemblances iconographiques.
+
+**Prolongement thématique possible :** la vie matérielle du rite dans l'Afrique de l'Ouest médiévale — dépôts d'offrandes, itinéraires artisanaux et variations des signes de souveraineté — à choisir seulement après une nouvelle vérification de la file, sans réservation de numéro.

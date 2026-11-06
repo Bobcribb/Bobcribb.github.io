@@ -135,9 +135,11 @@ class RecentFigurePublicationTests(unittest.TestCase):
         self.assets = {}
         per_page = {}
         for page, fid, src in live.RECENT_FIGURES:
-            content = (b"RIFF" + b"\x10\x00\x00\x00" + b"WEBP" + b"VP8 " + b"mock-webp"
-                       if src.lower().endswith(".webp")
-                       else bytes.fromhex("ffd8ff") + b"mock-jpeg-binary")
+            content = (b"<svg xmlns=\"http://www.w3.org/2000/svg\"></svg>"
+                       if src.lower().endswith(".svg") else
+                       b"RIFF" + b"\x10\x00\x00\x00" + b"WEBP" + b"VP8 " + b"mock-webp"
+                       if src.lower().endswith(".webp") else
+                       bytes.fromhex("ffd8ff") + b"mock-jpeg-binary")
             asset = self.root / src.lstrip("/")
             asset.parent.mkdir(parents=True, exist_ok=True)
             asset.write_bytes(content)
@@ -164,22 +166,24 @@ class RecentFigurePublicationTests(unittest.TestCase):
             return (200, kind, self.assets[path])
         return (200, "text/html", self.pages[path])
 
-    def test_all_fifty_six_documentary_figures_and_eleven_pages_verified(self):
+    def test_all_sixty_one_documentary_figures_and_thirteen_pages_verified(self):
         pages, assets = live.recent_figure_inventory(self.root)
-        self.assertEqual(len(pages), 11)
+        self.assertEqual(len(pages), 13)
         self.assertEqual(len(pages["livre-iliade-scenes/index.html"]), 5)
         self.assertEqual(len(pages["livre-odyssee/index.html"]), 6)
         self.assertEqual(len(pages["livre-hesiode/index.html"]), 7)
-        self.assertEqual(len(pages["philosophie-iliade.html"]), 11)
-        self.assertEqual(len(pages["philosophie-odyssee.html"]), 11)
-        self.assertEqual(len(pages["philosophie-theogonie.html"]), 10)
+        self.assertEqual(len(pages["philosophie-iliade.html"]), 12)
+        self.assertEqual(len(pages["philosophie-odyssee.html"]), 12)
+        self.assertEqual(len(pages["philosophie-theogonie.html"]), 11)
+        self.assertEqual(len(pages["dieu-hestia/index.html"]), 1)
+        self.assertEqual(len(pages["theatre-grec.html"]), 1)
         self.assertEqual(len(pages["iliade/index.html"]), 1)
         self.assertEqual(len(pages["odyssee/index.html"]), 1)
         self.assertEqual(len(pages["osiris-abydos-cultes-textes-funeraires/index.html"]), 1)
         self.assertEqual(len(pages["bibliotheque-egypte-ancienne/index.html"]), 2)
         self.assertEqual(len(pages["gilgamesh-epopee-mort-deluge/index.html"]), 1)
-        self.assertEqual(len(assets), 40)
-        self.assertEqual(sum(len(items) for items in pages.values()), 56)
+        self.assertEqual(len(assets), 44)
+        self.assertEqual(sum(len(items) for items in pages.values()), 61)
         # Rembrandt est réutilisé entre l’étude philosophique et le livre.
         shared = "/assets/illustrations-articles/met-437394-aristote-homere-rembrandt.webp"
         self.assertIn(shared, assets)
@@ -191,7 +195,34 @@ class RecentFigurePublicationTests(unittest.TestCase):
         # therefore produces fewer network checks than figure occurrences.
         self.assertEqual(len(report), len(pages) + len(assets))
         self.assertTrue(all(item["valid"] for item in report))
-        self.assertEqual(sum(item.get("figures_verified", 0) for item in report), 56)
+        self.assertEqual(sum(item.get("figures_verified", 0) for item in report), 61)
+
+
+    def test_session_70_figures_fail_on_stale_html_or_changed_binary(self):
+        """Les cinq notices du dernier lot doivent être obligatoires sur HTTPS."""
+        additions = (
+            ("philosophie-iliade.html", "icono-iliade-chryses-crise-s70-20261106", "/assets/philosophie/iliade-chryses-crise-20261106-s70.svg"),
+            ("philosophie-odyssee.html", "icono-odyssee-ithaque-paix-s70-20261106", "/assets/philosophie/odyssee-ithaque-paix-20261106-s70.svg"),
+            ("philosophie-theogonie.html", "icono-theogonie-athena-bronze-met-s70-20261106", "/assets/illustrations-articles/met-254648-athena-chouette-bronze.webp"),
+            ("dieu-hestia/index.html", "icono-hestia-laraire-vettii-comparaison-s70-20261106", "/media/2026/10/mythos-lararium-maison-vettii-pompei-lorente-waterborough.jpg"),
+            ("theatre-grec.html", "icono-theatre-masques-met-2001-767-s70-20261106", "/media/2026/10/mythos-masques-theatre-rondelles-hellenistiques-met-2001-767.jpg"),
+        )
+        for page, fid, src in additions:
+            with self.subTest(page=page):
+                self.assertEqual(live.RECENT_FIGURES.count((page, fid, src)), 1)
+                def outdated(url):
+                    path = url.split("https://example.test", 1)[-1]
+                    if path == "/" + page:
+                        return 200, "text/html", self.pages[path].replace(
+                            fid.encode("utf-8"), b"figure-not-yet-published")
+                    if path == src:
+                        return 200, "image", self.assets[path] + b"tampered"
+                    return self.fetch(url)
+                with patch.object(live, "fetch", side_effect=outdated):
+                    reports = live.verify_recent_public_figures(
+                        "https://example.test", self.root)
+                failed = {row["url"] for row in reports if not row["valid"]}
+                self.assertEqual(failed, {"/" + page, src})
 
     def test_session_52_three_philosophy_illustrations_are_required_on_https(self):
         """Reject an outdated public figure or altered bytes for each new study illustration."""

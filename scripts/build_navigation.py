@@ -65,6 +65,14 @@ def section(title,lead="",body=""):
 
 def card(url,title,description="",label="COLLECTION"):
     image = credit = ""
+    if url == "/bibliotheque-mythologies-du-monde/mythos-volume-15-philippines-ifugao-hudhud/":
+        # Paysage contemporain documenté (Wikimedia Commons), pas performance Hudhud reconstituée.
+        image = '<img class="mythos-card-image" data-mythos-card-source="ifugao-rizieres-2022" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Banaue_Rice_Terraces_-_Ifugao.jpg/1280px-Banaue_Rice_Terraces_-_Ifugao.jpg" alt="Rizières en terrasses de Batad, Ifugao, photographie prise en 2022 ; contexte agricole des chants Hudhud." loading="lazy" decoding="async"/>'
+        credit = '<span class="mythos-photographic-credit">Batad, Ifugao · Pogidawako1234 (2022), Wikimedia Commons · CC BY-SA 4.0.</span>'
+    if url == "/bibliotheque-mythologies-du-monde/mythos-volume-14-khmer-angkor-cosmogonies/":
+        # Angkor Wat : bas-relief réel et crédit photographique, sans reconstruction.
+        image = '<img class="mythos-card-image" data-mythos-card-source="khmer-angkor-jadamta-2012" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Angkor_Wat_-_Churning_of_the_Sea_of_Milk.JPG/640px-Angkor_Wat_-_Churning_of_the_Sea_of_Milk.JPG" alt="Bas-relief d’Angkor Wat figurant le barattage de l’océan de lait, photographié par Jadamta en 2012." loading="lazy" decoding="async"/>'
+        credit = '<span class="mythos-photographic-credit">Relief d’Angkor Wat · Jadamta, 2012 · Wikimedia Commons · CC BY-SA 3.0.</span>'
     if url == "/bibliotheque-mythologies-du-monde/mythos-volume-12-koush-meroe-apedemak/":
         # Document archéologique réel et licence vérifiée (LassiHU, Wikimedia Commons).
         image = '<img class="mythos-card-image" data-mythos-card-source="koush-naqa-lassihu" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Naqa_Apedamak_temple.jpg/960px-Naqa_Apedamak_temple.jpg" alt="Temple d’Apédémak à Naqa, vestiges archéologiques du Soudan photographiés en 2005." loading="lazy" decoding="async"/>'
@@ -179,6 +187,8 @@ def create_home(entries,groups):
     body+=section("Bibliothèques et traditions à découvrir","Des portes d’entrée vers les principaux corpus.",world)
     body+=section("Épopées et traditions — lectures universitaires intégrales","Ouvrir directement les volumes historiques préservés, sans résumé ni nouvelle numérotation.",cards([
       ("/bibliotheque-mythologies-du-monde/mythos-volume-12-koush-meroe-apedemak/","Nubie — Koush et Méroé","Volume XII · Amon de Napata, Apédémak, Natakamani, Amanitore et royauté sacrée.","TEXTE INTÉGRAL"),
+      ("/bibliotheque-mythologies-du-monde/mythos-volume-14-khmer-angkor-cosmogonies/","Khmer et Angkor — Volume XIV","Viṣṇu, Śiva, le barattage de l’océan et les récits royaux ; manuscrit intégral.","TEXTE INTÉGRAL"),
+      ("/bibliotheque-mythologies-du-monde/mythos-volume-15-philippines-ifugao-hudhud/","Philippines — Hudhud des Ifugao","Volume XV · Rizières, Aliguyon, voix féminines et tradition orale ; texte intégral.","TEXTE INTÉGRAL"),
       ("/bibliotheque-mythologies-du-monde/mythos-volume-13-armenie-vahagn-david-sassoun/","Arménie — Vahagn et David de Sassoun","Volume XIII · Traditions divines, épopée des quatre générations, variantes et sources.","TEXTE INTÉGRAL"),
       ("/bibliotheque-mythologies-du-monde/mythos-volume-10-finno-carelien-kalevala/","Finlande et Carélie — Kalevala","Volume X · Chant, Sampo, Väinämöinen, Ilmarinen et Louhi.","TEXTE INTÉGRAL"),
       ("/bibliotheque-mythologies-du-monde/mythos-volume-19-la-galigo-bugis-sawerigading/","Sulawesi — La Galigo","Épopée bugis, Sawerigading, manuscrits lontara et critique des sources.","TEXTE INTÉGRAL")
@@ -267,6 +277,8 @@ def create_mythologies(entries):
      ("/bibliotheque-mesopotamie/mythologie-mesopotamie-enuma-elish-gilgamesh-inanna/","Mésopotamie","Enūma eliš, Gilgameš, Inanna et Marduk."),
      ("/bibliotheque-perse-iran-ancien/","Perse et Iran","Mazdéisme, figures divines et royauté."),
      ("/bibliotheque-mythologies-du-monde/mythologie-inde-vedas-puranas-vishnu-shiva-devi/","Inde","Veda, épopées, Purāṇa et divinités."),
+     ("/bibliotheque-mythologies-du-monde/mythos-volume-14-khmer-angkor-cosmogonies/","Cambodge — Khmer et Angkor","Volume historique XIV : Viṣṇu, Śiva, reliefs du barattage et mythologie royale ; texte intégral.","ÉTUDE INTÉGRALE"),
+     ("/bibliotheque-mythologies-du-monde/mythos-volume-15-philippines-ifugao-hudhud/","Philippines — les chants Hudhud des Ifugao","Volume historique XV : Aliguyon, chœurs de femmes, rizières, oralité et mémoire des alliances.","ÉTUDE INTÉGRALE"),
      ("/bibliotheque-mythologies-du-monde/mythologie-chinoise-nuwa-pangu-shanhaijing/","Chine","Nüwa, Pangu et traditions des immortels."),
      ("/bibliotheque-mythologies-du-monde/mythologie-japonaise-kojiki-nihon-shoki-kami/","Japon","Kami, Kojiki et cosmogonies."),
      ("/bibliotheque-mythologies-du-monde/mythos-volume-10-finno-carelien-kalevala/","Finlande et Carélie — Kalevala","Volume historique X en texte intégral : chants runiques, Sampo, Väinämöinen, Ilmarinen et Louhi."),
@@ -965,15 +977,26 @@ def create_civilisations(entries, groups):
           ("/recherche/","Recherche transversale","Trouver un mot ou un personnage.")
         ],"portal-grid-compact")
         section_body=list_entries(docs)
+        related = ""
         if key == "afrique":
             related=section("Religions de la Nubie antique — étude intégrale","Étude du Nil moyen, de ses sanctuaires et de sa royauté, avec références archéologiques.",cards([
               ("/bibliotheque-mythologies-du-monde/mythos-volume-12-koush-meroe-apedemak/","Koush et Méroé : Amon, Apédémak et royauté sacrée","Volume historique XII, texte intégral et bibliographie d'origine.","TEXTE INTÉGRAL"),
               ("/bibliotheque-mythologies-du-monde/civilisations-histoire-koush-meroe/","Nubie, Koush et Méroé : contexte historique","Royaumes, langue, temples et vestiges, en complément du volume XII.","HISTOIRE")
             ],"portal-grid-compact"))
-        related=section("Épopées et traditions d’Europe — textes intégralement conservés","Deux archives scientifiques et leurs sources, classées dans les mythologies du monde.",cards([
+        related+=section("Épopées et traditions d’Europe — textes intégralement conservés","Deux archives scientifiques et leurs sources, classées dans les mythologies du monde.",cards([
           ("/bibliotheque-mythologies-du-monde/mythos-volume-13-armenie-vahagn-david-sassoun/","Arménie : Vahagn, Anahit, David de Sassoun","Volume historique XIII, texte intégral, sources et apparat critique.","LECTURE INTÉGRALE"),
           ("/bibliotheque-mythologies-du-monde/mythos-volume-10-finno-carelien-kalevala/","Finlande et Carélie : le Kalevala","Volume historique X, texte intégral, chants et critique de la compilation.","LECTURE INTÉGRALE")
         ],"portal-grid-compact")) if key == "europe" else ""
+        if key == "asie":
+            related += section("Khmer et Angkor : mythes et pouvoir royal","Volume historique XIV restitué intégralement, distinct de l’étude historique sur la civilisation khmère.",cards([
+              ("/bibliotheque-mythologies-du-monde/mythos-volume-14-khmer-angkor-cosmogonies/","Angkor Wat — récits royaux et cosmogonies","Volume XIV : reliefs du barattage, Viṣṇu, Śiva, Bayon, sources et bibliographie.","TEXTE INTÉGRAL"),
+              ("/bibliotheque-mythologies-du-monde/civilisations-histoire-khmers-angkor/","Histoire des Khmers et d’Angkor","Étude historique antérieure conservée à son adresse.","CONTEXTE HISTORIQUE")
+            ],"portal-grid-compact"))
+        if key == "asie":
+            related += section("Philippines — chants et récits ancestraux","Volume XV de MYTHOS conservé intégralement : patrimoine oral des Ifugao, analyses et références institutionnelles.",cards([
+              ("/bibliotheque-mythologies-du-monde/mythos-volume-15-philippines-ifugao-hudhud/","Hudhud des Ifugao — Aliguyon et les chants du riz","Le texte intégral du volume historique XV, ses performances, ses variantes et ses sources.","TEXTE INTÉGRAL"),
+              ("/bibliotheque-mythologies-du-monde/mythos-volume-19-la-galigo-bugis-sawerigading/","Sulawesi : La Galigo","Autre épopée insulaire conservée et étudiée à partir des sources et des témoins manuscrits.","ÉTUDE ASSOCIÉE")
+            ],"portal-grid-compact"))
         write("civilisations/"+key,shell(f"Civilisations — {name}",text_intro+section("Dossiers de ce continent",f"{len(docs)} études, classées par titre.",section_body)+related+section("Poursuivre l’exploration","",hub_cards)))
 
 def renovate_catalog(total):

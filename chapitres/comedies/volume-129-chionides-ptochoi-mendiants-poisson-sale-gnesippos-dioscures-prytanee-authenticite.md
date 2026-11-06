@@ -1,0 +1,479 @@
+# MYTHOS — Comédies grecques et œuvres perdues — Volume CXXIX (129)
+
+## Chionidès (Χιωνίδης), *Les Mendiants* (*Ptōchoi*, Πτωχοί) : pauvreté, nourriture, musique et hospitalité civique — une comédie d’attribution disputée
+
+**Étude universitaire intégrale et originale, approuvée pour publication — 6 novembre 2026.** Histoire de la comédie grecque archaïque ; critique de l’authenticité ; philologie d’Athénée ; histoire de l’alimentation et des institutions athéniennes ; éthique de l’hospitalité ; philosophie et comparatisme contrôlé.
+
+**Statut du titre.** Le nom de Chionidès et le titre *Ptōchoi* sont transmis par l’érudition antique. En revanche, Athénée parle en deux endroits de l’auteur « des *Ptōchoi* attribués à Chionidès », formulation qui ne garantit pas que le dramaturge connu par la *Souda* ait composé le texte cité. La présente monographie conserve cette distinction à chaque étape. Elle étudie **une pièce attribuée à Chionidès**, non « l’œuvre certaine » d’un premier fondateur. Elle ne reconstitue pas l’intrigue perdue.
+
+**Norme probatoire.** Les paragraphes **[A]** recensent les textes antiques, les témoignages, les problèmes textuels et les informations bibliographiques vérifiables, y compris lorsqu’un auteur ancien exprime un doute. Les paragraphes **[B]** exposent les hypothèses, les lectures critiques, les analogies anthropologiques et les philosophies modernes sans les attribuer au poète. Les scènes **[C]** sont des créations contemporaines destinées à penser le problème ; elles ne sont ni fragments ni traductions d’un texte grec perdu. Pour les textes grecs, la référence est Kassel–Austin, *Poetae Comici Graeci* IV (1983), p. 72–76 ; pour les dossiers philologiques et variantes, Andreas Bagordo, *Fragmenta Comica* 1.1 (2014), p. 24–70, spécialement p. 51–68.
+
+### 1. Proposition générale [B]
+
+*Ptōchoi*, « Les Mendiants », pose à l’historien une question qui dépasse la seule histoire des débuts de la comédie : à quel moment un ensemble de propos sur les poissons salés, les cordes musicales et les repas du Prytanée devient-il une pièce identifiable ? Une tradition érudite a placé ces citations sous le titre de Chionidès ; les chaînes de transmission donnent accès à des mots, non à une représentation. La méthode consiste à conserver les transitions entre la personne possible de l’auteur, le nom imprimé dans la bibliographie, les fragments cités par Athénée et les institutions qu’ils évoquent.
+
+Il faut simultanément résister à deux erreurs opposées. La première serait de supposer qu’une pièce mentionnant un musicien de la fin du Ve siècle est nécessairement un faux et donc inutile pour l’histoire littéraire. La seconde serait de corriger l’incertitude par une fiction faisant jouer Chionidès en 486 avec tous les personnages que suggère la recherche moderne. Le corpus exige une troisième position : une étude extensive, dont les degrés d’incertitude sont visibles.
+
+### 2. Délimitation : *Ptōchoi* n’est pas *Hērōes* [A]
+
+La *Souda* χ 318 attribue à Chionidès trois titres : *Hērōs* ou *Hērōes* selon les traditions de titre et les usages éditoriaux, *Ptōchoi*, et *Persai ē Assyrioi*. Les éditions modernes séparent les fragments associés aux *Héros* de ceux des *Mendiants*. La présente étude est **centrée exclusivement sur les fr. 4, 5, *6, 7 K.-A.** et sur l’éventuel intérêt du fr. 8 d’œuvre indéterminée comme témoignage de réception. Les fr. 1–3 relatifs aux *Héros* ne sont pas réécrits ici.
+
+Sur le site MYTHOS, une demande distincte concernant les *Héros* existe dans la file de publication sous UUID d2636a9f-3e6d-4aa7-bf6c-9bcd774f2ec1. Les deux études sont complémentaires par le nom d’auteur, mais leurs objets documentaires sont différents. Le premier ne réserve aucun numéro à la seconde, et inversement.
+
+### 3. Dossier synoptique des sources [A]
+
+| Source | Référence | Donnée réellement transmise | Limite |
+|---|---|---|---|
+| Aristote | *Poétique* 1448a33 | Chionidès et Magnès parmi les poètes comiques les plus anciens | Ne nomme pas *Ptōchoi* et n’en date aucune représentation |
+| *Souda* | χ 318 | Poète comique athénien et titres *Héros*, *Mendiants*, *Perses ou Assyriens* ; activité située huit ans avant les guerres médiques | Notice tardive, chronologie discutée |
+| Athénée | *Deipnosophistes* XIV 638d | Fr. 4 : comparaison hyperbolique avec Gnésippos, Cléoménès et les neuf cordes | Attribution formulée avec prudence |
+| Athénée | *Deipnosophistes* III 119e | Fr. 5 : question sur le poisson salé ; fr. *6 : passage attenant de syntaxe incertaine | Texte conservé pour la grammaire du nom d’aliment |
+| Athénée | *Deipnosophistes* IV 137e | Fr. 7 : service des Dioscures au Prytanée et aliments simples | Description rapportée et non scène versifiée intégrale |
+| Vitruve | *De architectura* VI, préface 3 | Nom de Chionidès dans une liste de comiques anciens | Fr. 8 : pas de vers ni de titre *Ptōchoi* cité |
+
+L’astérisque éditorial devant fr. *6 indique une incertitude de constitution ou d’attribution dans le dossier. Il ne s’agit ni d’un sixième poème entier ni d’une invitation à écrire la moitié manquante du vers.
+
+### 4. Le titre : πτωχός et la précarité visible [A/B]
+
+**[A]** Le singulier grec *ptōchos* désigne un mendiant, une personne vivant de la demande, tandis que *penēs* signifie plus généralement celui qui manque de ressources, sans être nécessairement réduit à solliciter l’aumône. Ce contraste est utile à condition de ne pas le transformer en séparation sociologique absolue : les lexèmes possèdent des usages variables selon les genres et les époques. Le titre pluriel Πτωχοί ne fournit à lui seul aucune liste de personnages.
+
+**[B]** Un titre collectif peut désigner le chœur, comme souvent dans l’ancienne comédie, mais il peut aussi nommer un milieu social présenté de l’extérieur. Déduire un chœur de mendiants professionnels reste conjectural. Il est possible que le dramaturge ait exploité la différence entre pauvreté laborieuse et mendicité ; cela ne figure pas textuellement dans les citations préservées.
+
+La réduction de l’individu à sa situation d’indigence ouvre pourtant une voie d’analyse : le titre fait d’une condition économique une catégorie dramatique. Le spectateur peut y reconnaître un groupe social, un masque grotesque ou une projection de ses propres peurs matérielles. C’est le problème de la visibilité de la dépendance.
+
+### 5. Chionidès dans la tradition des commencements [A]
+
+Aristote, *Poétique* 1448a33, cite Chionidès et Magnès comme des figures premières de la comédie attique. La *Souda* χ 318 lui assigne une activité « huit ans avant les guerres médiques », ce qui a nourri le rapprochement avec l’institution d’un concours comique officiel à Athènes vers 486 av. notre ère. La datation de la comédie comme concours civique ne se confond pourtant pas avec une biographie assurée : des pratiques comiques ont précédé leur institutionnalisation documentaire.
+
+Le vocabulaire de « premier poète » ou de « premier vainqueur » doit être manié comme proposition d’histoire des institutions, non comme certificat pour chacun des titres conservés. Rien dans les témoins du fr. 4 ou du fr. 7 ne donne la date de leur première représentation. Un dramaturge classé parmi les premiers peut avoir composé tardivement ; une pièce peut avoir été remaniée ; un nom peut avoir attiré une attribution secondaire.
+
+### 6. Authenticité : ce que dit réellement Athénée [A]
+
+À deux reprises, Athénée évite la formule directe « Chionidès écrit », et évoque plutôt « celui qui composa les *Ptōchoi* attribués à Chionidès ». Cette circonlocution est le noyau du problème. Elle peut refléter une discussion philologique sur l’auteur, un doute ancien quant aux manuscrits, l’existence de versions différentes ou la prudence propre au banquet savant. Le texte ne décrit cependant ni un faussaire, ni une réédition, ni un transfert d’auteur datable.
+
+Ce détail est confirmé par le commentaire de Bagordo, *Fragmenta Comica* 1.1, p. 51–52 : fr. 4 et 7 emploient le verbe grec d’attribution (*anapherein*), tandis que les deux séquences fr. 5 et *6 dépendent de la discussion lexicale dans Athénée III 119e. La formule du citateur est donc une information sur la **réception de l’attribution**, et non la preuve positive de son impossibilité.
+
+### 7. Trois scénarios de transmission [B]
+
+**Scénario I — attribution authentique.** Chionidès aurait réellement composé les *Mendiants* et aurait pu être actif assez longtemps pour que des personnages connus par d’autres sources soient déjà saillants. La chronologie donnée par une notice tardive ne fixe pas un terminus de carrière.
+
+**Scénario II — remaniement.** Une comédie antérieure aurait pu circuler dans une forme réécrite où certains noms sont plus récents ; les *Ptōchoi* pourraient ainsi combiner des couches. Cette hypothèse est attractive mais non documentée par des versions manuscrites comparables.
+
+**Scénario III — attribution secondaire.** Une pièce anonyme ou d’un autre comique aurait été rangée sous le nom prestigieux d’un fondateur. C’est la solution souvent retenue par les critiques anciens de l’authenticité et certains chercheurs modernes. Mais aucune source ne donne le nom d’un auteur de remplacement.
+
+L’historien doit **maintenir les trois scénarios ouverts**. Il ne s’agit pas d’égaliser leurs probabilités sans discussion, mais de ne pas accorder le statut de fait au scénario qui expliquerait le mieux le matériel perdu.
+
+### 8. Gnésippos et le soupçon d’anachronisme [A/B]
+
+**[A]** Dans le fr. 4, le nom de **Γνήσιππος**, Gnésippos, apparaît à côté de celui de Cléoménès. D’autres comiques, notamment Cratinos, Eupolis et Télécéidès, critiquent ou raillent Gnésippos. Chez Eupolis, *Hélotes* fr. 148 K.-A., il est associé à des chants nocturnes et à des instruments à cordes, dans une opposition comique entre anciens poètes lyriques et musique de la séduction. Il est impossible de convertir ces railleries en biographie objective de Gnésippos.
+
+**[B]** Parce que ces comparaisons appartiennent à un contexte musical du Ve siècle, certains chercheurs ont jugé le fr. 4 trop tardif pour un poète supposé actif dans les années 480. Bagordo, p. 51, rappelle que les personnes mentionnées ne fixent pas, à elles seules, une date certaine et que l’identification des artistes est elle-même débattue. Il serait inexact de présenter Gnésippos et Cléoménès comme deux dramaturges tragiques sûrement datés : Cléoménès n’a pas ce statut assuré.
+
+### 9. Silence d’Aristophane et méthode des preuves négatives [B]
+
+Le fait qu’Aristophane ne nomme pas Chionidès dans les noms de comiques évoqués par la parabase des *Cavaliers* (v. 520–540) n’établit ni l’inexistence de l’auteur ni l’inauthenticité de ses textes. Aristophane n’offre pas un catalogue complet de ses devanciers : il mobilise des noms pour un effet dramaturgique et pour définir sa propre place dans la compétition.
+
+La règle est plus générale : une absence peut devenir probante si l’on démontre qu’un témoin était censé citer l’élément manquant. Un passage satirique limité ne possède pas cette obligation documentaire. Le silence des témoignages reste un élément de prudence, pas une méthode d’annulation automatique des noms.
+
+### 10. Le fr. 4 : deux noms et neuf cordes [A]
+
+**Témoin :** Athénée XIV 638d ; **PCG IV, Chionidès fr. 4** ; commentaire Bagordo, p. 52–58.
+
+Le passage conserve un distique iambique, approximativement : « Cela, par Zeus, ni Gnésippos ni Cléoménès ne l’auraient adouci avec neuf cordes. » Les mots grecs marquants sont **Γνήσιππος**, **Κλεομένης**, **ἐννέ᾽ … χορδαῖς** (« neuf cordes ») et **κατεγλυκάνατο** (« aurait édulcoré » ou « aurait rendu douceâtre »), ce dernier terme étant rare et d’interprétation disputée.
+
+Athénée introduit le passage au sein d’une série de propos sur les musiciens jugés trop légers, trop séduisants ou trop recherchés. L’orientation de son dossier peut expliquer pourquoi ce seul morceau de comédie s’est conservé. Nous ne savons ni qui parle sur scène ni ce que désigne exactement le démonstratif « cela ».
+
+### 11. Le sens de « sucrer » une composition [B]
+
+L’image de la douceur peut être lue selon deux directions opposées. Peut-être est-il impossible à ces musiciens de rendre agréable une chose intrinsèquement âpre. Peut-être leur style, si réputé pour ses raffinements, est-il lui-même ridiculisé comme un excès de douceur. La métaphore pourrait viser une chanson, une performance, un repas ou une situation sociale. Le texte ne choisit pas pour nous.
+
+Une lecture qui y verrait nécessairement une satire de la « nouvelle musique » doit faire la différence entre les transformations documentées de la pratique musicale et une catégorie interprétative construite par l’historiographie. On peut rapprocher le distique des attaques de Phérécratès contre des innovations musicales dans *Chiron*, fr. 155 K.-A., sans attribuer à la pièce de Chionidès son intrigue, ses personnages ou sa métrique chorale.
+
+### 12. Neuf cordes : réalité instrumentale ou hyperbole ? [A/B]
+
+**[A]** Les documents grecs et les récits tardifs connaissent les débats sur l’augmentation du nombre de cordes, notamment dans la tradition liée à Phrynis, Timothée et aux résistances spartiates. Les instruments à sept cordes jouent un rôle important dans les représentations et les discours classiques, mais il serait simpliste de déduire une norme unique de tous les usages musicaux.
+
+**[B]** « Neuf » peut être un chiffre comique de virtuosité plus qu’une indication organologique précise. Bagordo, p. 56, souligne la dimension hyperbolique et discute des parallèles où une grande quantité de cordes sert l’allusion obscène. Le jeu est particulièrement subtil si l’on entend également **χορδή** comme « corde », « boyau » ou matière de saucisse : la musique et le corps cessent d’être des domaines isolés. Cette polysémie appartient à l’horizon linguistique du genre, non à une reconstitution du plateau des *Mendiants*.
+
+### 13. Le compositeur, la séduction et la cité [B]
+
+Dans les accusations comiques contre Gnésippos, la musique devient le lieu d’une discussion sur les comportements. Des mélodies jugées « douces » peuvent être accusées de produire des effets de séduction, de relâcher les conduites, de substituer le plaisir individuel à une discipline partagée. Le comique n’a pas besoin de démontrer ces accusations ; il peut suffire qu’un nom fasse rire un public informé.
+
+Le passage peut donc éclairer un conflit entre générations d’auditeurs. Mais il faut éviter d’opposer une austérité immuable d’Athènes à une décadence musicale inventée. Dans l’ancienne comédie, le discours sur la musique est lui-même une pratique compétitive : les poètes ont intérêt à fabriquer la réputation de leurs adversaires.
+
+### 14. Pourquoi un tel fragment dans une pièce intitulée *Mendiants* ? [B]
+
+Aucun lien nécessaire n’unit la pauvreté du titre à la querelle musicale du fr. 4. On pourrait imaginer un mendiant qui compare le goût d’une nourriture à la douceur d’un chant ; un riche convive qui méprise une performance ; une parabase où le chœur règle ses comptes avec des musiciens. Ces scènes sont concevables, mais chacune introduit des personnages et des circonstances absents du texte.
+
+La réponse la plus rigoureuse est également la plus féconde : **nous ne connaissons pas le mécanisme dramaturgique de la comparaison**. Son intérêt pour l’histoire littéraire est d’attester la possibilité d’une image croisant musique et goût dans un passage transmis sous ce titre. La tension entre métaphore et littéralité doit être analysée sans devenir un résumé fictif de la pièce.
+
+### 15. Fr. 5 : le poisson salé comme objet de la question [A]
+
+**Témoin :** Athénée III 119e ; **PCG IV, fr. 5** ; Bagordo p. 58–61. Le texte conservé est une courte interrogation en trimètre iambique dont les éléments contrôlables sont **φάγοιτ᾽**, « mangeriez-vous », **ταρίχους**, forme liée au poisson salé, et **ὦ θεοί**, « ô dieux » ou exclamation « par les dieux ».
+
+Une traduction de travail, qui n’impose pas l’analyse de l’exclamation, serait : « Mangeriez-vous donc même du poisson salé, par les dieux ? » L’interpellation pourrait au contraire s’adresser aux dieux ; ce second sens transformerait le dialogue. Bagordo expose les deux hypothèses et ne détermine pas le destinataire.
+
+La présence du poisson ne démontre pas une famine, un repas au Prytanée, une procession ou une distribution collective. Elle atteste seulement qu’un aliment est au centre d’une question.
+
+### 16. Ταρίχος : conserves, produits de la mer et usage linguistique [A]
+
+Athénée discute le genre grammatical du mot **τάριχος**, qui peut être masculin ou neutre dans les sources. L’intérêt du banquet savant porte sur l’usage de l’attique : les citations littéraires deviennent les pièces d’un dossier consacré à la déclinaison. C’est pour cela, et non parce qu’Athénée voulait établir un commentaire intégral de Chionidès, qu’un vers de comédie est transmis.
+
+Le mot peut désigner différentes préparations salées ou conservées, souvent du poisson. Le lecteur moderne ne doit pas imaginer un produit standardisé identique à une conserve contemporaine. Les formes de salaison, les échanges, les qualités et les prix variaient. La référence aux poissons salés ouvre un dossier d’histoire économique, mais les caractéristiques matérielles exactes du plat cité ne peuvent être déduites du seul vers.
+
+### 17. Du plat modeste à la valeur sociale du repas [B]
+
+Une nourriture jugée ordinaire peut changer de sens selon qui la sert, qui la reçoit et en quel lieu. Pour une personne qui mendie, le poisson salé pourrait être un bien précieux ; pour un invité de banquet, un aliment de peu de prestige ; pour un auteur comique, un ressort d’inversion des attentes. Ces lectures restent des scénarios et ne doivent pas être confondues avec les faits transmis.
+
+Le problème intéressant est celui de la **relativité de la valeur** : une cité distribue des honneurs à certains convives et rend invisibles ceux qui doivent demander un morceau de nourriture. La comédie pourrait rapprocher, par la parole, ces deux positions. Mais la pièce conservée ne fournit pas le dispositif scénique permettant de prouver qu’un tel rapprochement ait eu lieu.
+
+### 18. Fr. *6 : vers attenant et incertitude d’édition [A]
+
+**Témoin :** Athénée III 119e, à proximité du fr. 5 ; **fr. *6 K.-A.** ; Bagordo p. 62–64. La séquence discutée contient **ἐπὶ τῷ ταρίχει** (« avec / en accompagnement du poisson salé ») et le verbe **κόπτετον** au duel dans la tradition manuscrite. Certains éditeurs ont proposé **κάπτετον**, une forme de « dévorer », afin de rendre plus aisée l’interprétation gastronomique.
+
+Le duel oriente vers deux participants possibles ; il ne les identifie pas. On a imaginé deux personnes pauvres, mais on ne peut savoir si elles mangent, préparent, frappent, mâchent, broient ou évoquent métaphoriquement autre chose tant que la forme verbale et la construction ne sont pas définitivement établies.
+
+Le fragment *6 n’est pas une scène autonome : la marque d’incertitude signale une opération critique qu’il faut garder visible.
+
+### 19. Le cas κόπτειν / κάπτειν : une lettre qui réécrit la scène [A/B]
+
+**[A]** Les deux verbes rapprochés dans la discussion présentent des champs sémantiques différents : *koptein* exprime notamment « frapper, couper, pilonner » ; *kaptein* est utilisé dans des contextes où l’on « happe » ou « dévore ». Les éditeurs exploitent des parallèles d’Aristophane, *Acharniens* 834–835, *Oiseaux* 244–245, et d’autres passages, mais ces parallèles n’abolissent pas la leçon du témoin.
+
+**[B]** Ce minuscule cas montre pourquoi le théâtre fragmentaire ne peut être restitué par la seule vraisemblance. Une correction qui paraît naturelle pour un dialogue sur la nourriture peut supprimer un double sens matériel ou obscène. La reconstruction dépend de décisions métriques, grammaticales et contextuelles. Le bon commentaire présente la leçon transmise, la proposition de correction et ses conséquences dramatiques éventuelles, au lieu de n’imprimer qu’un mot « amélioré ».
+
+### 20. La syntaxe de l’accompagnement alimentaire [B]
+
+L’expression « manger quelque chose avec autre chose » institue une hiérarchie pratique entre plat principal et accompagnement. Dans l’ancienne comédie, inverser cette hiérarchie peut produire un effet de surprise : le pauvre pourrait se réjouir d’une toute petite garniture comme si elle était le centre du repas, ou traiter un produit ordinaire comme le véritable luxe.
+
+Bagordo, p. 63, analyse les emplois de **ἐπί** avec le datif dans de telles constructions et la possibilité qu’un objet manquant ait suscité un effet d’attente déçue (*aprosdokēton*). C’est une piste technique sur la manière dont la phrase pouvait faire rire, non la preuve qu’un personnage dise « je mangerai du rire avec mon poisson ».
+
+### 21. Le corps pauvre, le corps qui parle [B]
+
+Les références gastronomiques ne sont pas de simples anecdotes pittoresques. Dans une société où l’accès à une nourriture stable dépend de revenus, d’une insertion domestique et de réseaux de réciprocité, la nécessité de manger constitue un enjeu social. La comédie peut rendre cette nécessité visible sous un masque, sous forme de plainte, de désir ou d’impudence.
+
+Mais la pauvreté ne doit pas devenir une essence transhistorique. « Le mendiant grec » ne correspond pas exactement à une catégorie administrative contemporaine. Une étude comparatiste sérieuse distinguera l’indigent, l’étranger sans ressources, le travailleur précarisé, la personne accueillie comme hôte et le personnage qui simule la mendicité pour obtenir une faveur.
+
+### 22. Fr. 7 : une description des repas offerts aux Dioscures [A]
+
+**Témoin :** Athénée IV 137e ; **fr. 7 K.-A.** ; Bagordo p. 65–68. Athénée rapporte que l’auteur des *Ptōchoi* attribués à Chionidès affirmait que les Athéniens, lorsqu’ils préparaient un repas pour les Dioscures au **Prytanée**, disposaient notamment sur la table du **fromage, une préparation d’orge, des olives mûres et des poireaux**. Cette simplicité rappellerait un ancien mode de vie.
+
+Il faut distinguer deux niveaux : (1) la liste alimentaire et le rite tels que les décrit le **témoin Athénée** ; (2) le discours qu’un personnage ou un chœur de comédie avait pu prononcer. La métrique de la liste citée n’est pas assurée : certains chercheurs ont proposé une restitution en tétramètres iambiques catalectiques, mais celle-ci est hypothétique. Une liste en prose chez le citateur n’est pas automatiquement un chant intact du Ve siècle.
+
+### 23. Les Dioscures : des invités divins dans un espace civique [A/B]
+
+Les Dioscures, Castor et Polydeucès, occupent dans les traditions grecques plusieurs positions : héros liés aux récits de Sparte, protecteurs, acteurs de voyages, puissances auxquelles des collectivités rendent des honneurs. Les pratiques de **théoxénie** consistent à recevoir symboliquement des divinités à une table préparée. Le Prytanée d’Athènes possède, quant à lui, une portée politique et religieuse, lié au foyer civique et à des privilèges de repas.
+
+Il ne faut pas déduire que les Dioscures « déjeunaient » sur scène dans les *Ptōchoi*. Le texte peut renvoyer à un usage connu par un personnage, à une comparaison, à une critique du luxe ou à une description d’érudition religieuse. L’anthropologie du rite montre seulement l’importance de la relation d’hospitalité entre les vivants et leurs puissances protectrices.
+
+### 24. Le Prytanée n’est pas la Tholos [A]
+
+L’Athènes classique distingue plusieurs bâtiments et pratiques de repas publics. Le **Prytanée** est associé au foyer civique et à l’hospitalité honorifique, tandis que la **Tholos** est liée au fonctionnement de la prytanie de la Boulè. Une lecture de la comédie qui assimilerait tous les repas financés par la cité à un seul banquet communautaire détruirait les différences institutionnelles.
+
+Le fr. 7 est intéressant précisément parce qu’il situe la pratique au Prytanée. Cette précision est une information de transmission qu’il serait malvenu de remplacer, au gré d’une reconstitution, par un sanctuaire non attesté. La légende « table des pauvres dans la Tholos » serait donc doublement infondée.
+
+### 25. Le « repas ancien » : souvenir et norme [B]
+
+La liste de produits simples est introduite comme rappel d’un régime ancien. Une société peut mobiliser le « jadis » pour critiquer le raffinement contemporain, pour légitimer un rite ou pour définir une forme d’égalité symbolique. Pourtant, l’ancienneté revendiquée par un personnage ou rapportée par un citateur ne prouve pas que le menu ait été uniforme pendant des siècles.
+
+Les récits alimentaires ont souvent une fonction normative. Ils disent ce qu’il convient de préserver ou de condamner. La comédie peut alors mettre en tension l’archive des coutumes et le désir de changer de vie. La nature exacte de cette tension dans les *Ptōchoi* reste inconnue.
+
+### 26. L’épisode de Solon chez Athénée [A]
+
+À la suite du témoignage sur les Dioscures, Athénée évoque une règle associée à **Solon** et aux repas publics : la distinction entre une galette d’orge et un pain réservé à certaines occasions festives. Il faut souligner l’articulation du texte : ce développement appartient à l’argumentation érudite d’Athénée, non nécessairement à une continuation des vers des *Ptōchoi*.
+
+Attribuer la prétendue « loi de Solon » à la bouche d’un personnage de Chionidès constituerait une invention. L’historien des institutions pourra examiner la tradition juridique à part ; la critique littéraire ne doit pas découper le texte d’Athénée de manière arbitraire pour produire une scène grecque imaginaire.
+
+### 27. La ration civique et l’honneur [B]
+
+La table publique est plus qu’une distribution calorique : elle matérialise une décision de la cité. Être nourri dans un espace officiel peut signifier que l’on est honoré, que l’on représente un service ou que l’on bénéficie d’une relation privilégiée. Inversement, le personnage appelé « mendiant » reçoit une identité par le manque et par sa dépendance à un don privé.
+
+L’opposition entre la table des dieux, celle des citoyens honorés et la demande d’un mendiant compose un champ de problèmes que l’on peut étudier. Elle ne résulte pas automatiquement d’une intrigue de Chionidès. À partir du fr. 7, la question utile est : comment le langage du « repas simple » peut-il signifier des statuts sociaux très différents ?
+
+### 28. L’ambivalence des offrandes alimentaires [B]
+
+Les aliments disposés pour les dieux ne sont pas des preuves de frugalité générale de la population. Une offrande se définit par son régime rituel, son destinataire, son moment et sa place dans une cérémonie. Une nourriture apparemment modeste peut être prestigieuse lorsqu’elle entretient la mémoire d’une relation avec une divinité. À l’inverse, l’abondance ne fait pas nécessairement la grandeur du culte.
+
+C’est pourquoi il faut résister à la phrase facile : « chez Chionidès les dieux sont pauvres ». Les Dioscures évoqués par Athénée ne sont pas décrits comme mendiants. Les pratiques de réception divine n’autorisent aucune identification de la puissance divine à une catégorie sociale humaine.
+
+### 29. Fromage, orge, olives et poireaux : économie matérielle [A/B]
+
+**[A]** Les produits de la liste appartiennent à une alimentation méditerranéenne connue par des textes, des restes archéobotaniques, des contenants et l’iconographie. Le vocabulaire des préparations d’orge doit être traduit avec prudence : une *maza* n’est pas toujours l’équivalent exact d’un pain cuit au four moderne. De même, une olive mûre ou tombée de l’arbre peut être transformée avant consommation.
+
+**[B]** Le commentaire ne doit pas attribuer à Chionidès une recette, des proportions culinaires, un dispositif de service ni un ordre des plats. Les mots conservés suffisent pour interroger la relation entre consommation, statut et mémoire. Ils ne suffisent pas à reconstituer un banquet archéologique déterminé.
+
+### 30. Un vase peut-il prouver un fragment ? [A/B]
+
+Bagordo, p. 66, rappelle qu’une pélikè attique à figures noires conservée au Musée archéologique national de Naples (inv. **81083**, ancien **H 3358**) a été rapprochée, avec prudence, de l’iconographie d’un repas des Dioscures. Une kylix attribuée au Peintre de Penthésilée a également été rapprochée de la réception de ces figures. Ces objets peuvent éclairer l’existence et l’imaginaire de la théoxénie.
+
+Ils **ne sont pas des photographies de scène des *Ptōchoi***. Même une coïncidence iconographique — branches d’olivier, table, personnages divins — ne saurait convertir le vase en décor d’un poète dont la pièce et la date sont disputées. Dans MYTHOS, toute illustration éventuelle devra porter une légende « parallèle iconographique » avec lieu de conservation et provenance vérifiés, jamais « scène authentique ».
+
+### 31. Fr. 8 : Vitruve et l’hypothèse du poète philosophe [A]
+
+Vitruve, *De architectura* VI, préface 3, énumère Chionidès parmi des poètes comiques capables, comme d’autres penseurs, d’exprimer des réflexions sur les avantages de l’intelligence et des biens de l’esprit par rapport aux aléas de la fortune. Il cite également Aristophane et Alexis, mais l’extrait explicite sur les obligations des enfants envers leurs parents appartient à **Alexis**, non à Chionidès.
+
+**Fr. 8 K.-A.** relève des œuvres non précisées ; **aucun vers de Chionidès n’y est conservé**, et il n’existe aucune raison textuelle de l’associer aux *Ptōchoi*. La chaîne de transmission est obscure. Bagordo p. 69–70 souligne la fragilité de la liste et les problèmes du nom qui précède Chionidès.
+
+### 32. L’erreur à éviter : transformer Vitruve en moralité de la comédie [B]
+
+Comme *Ptōchoi* évoque le manque matériel, il serait tentant de lier Vitruve à un propos sur la supériorité de la vertu sur la richesse. Cette construction serait séduisante mais non probante. Le nom de Chionidès dans une notice générale n’identifie ni la pièce ni une thèse précise, et la présence d’Alexis dans la même phrase ne transmet pas au premier le contenu du second.
+
+En termes de méthode, le rapprochement peut être mentionné comme réception romaine d’un nom comique, jamais comme un huitième fragment du texte des *Mendiants*. L’hypothèse d’un « manifeste stoïcien » ou « épicurien » de Chionidès serait doublement anachronique.
+
+### 33. Le théâtre et l’histoire de la mendicité [B]
+
+Les personnes vivant d’aumônes n’entrent pas nécessairement dans les archives sous leurs propres noms. Elles apparaissent par des catégories imposées par d’autres : plaintes, lois, proverbes, représentations comiques, discours moraux. Cette asymétrie rappelle que la comédie est une source sur la manière de **montrer et de classer** la pauvreté, pas une enquête sociologique menée par les pauvres eux-mêmes.
+
+Le titre *Ptōchoi* pourrait désigner un chœur d’exclus qui acquiert, pour le temps d’une représentation, le droit paradoxal de parler collectivement. Il pourrait tout aussi bien caricaturer la mendicité pour renforcer les préjugés du public. Les fragments ne tranchent pas entre ces effets possibles. Leur conservation nous oblige à interroger la politique du rire sans lui attribuer d’avance une direction émancipatrice.
+
+### 34. Comparaison avec l’*Odyssée* : le mendiant comme identité provisoire [A/B]
+
+Dans l’*Odyssée*, Ulysse revient déguisé en mendiant (notamment chants XIII–XX), subissant insultes, soupçons et gestes d’hospitalité qui éprouvent moralement ses interlocuteurs. Cette figure est utile pour différencier l’apparence de la mendicité et la position sociale réelle. L’épopée montre qu’un personnage démuni peut être jugé par ce qu’il semble, avant que son statut soit reconnu.
+
+Rien ne permet d’affirmer que la pièce de Chionidès mettait en scène un déguisement odysséen. Le parallèle ne sert pas à fournir une intrigue : il montre qu’une culture possédait déjà des récits où demander de la nourriture engage la question de la reconnaissance, de la justice et de la responsabilité de l’hôte.
+
+### 35. Comparaison avec Aristophane, *Ploutos* [A/B]
+
+L’*Assemblée des femmes* et le *Ploutos* d’Aristophane, comme diverses utopies de l’ancienne comédie, interrogent la redistribution des ressources et les fantasmes d’abondance. Il serait abusif d’inférer que *Ptōchoi* proposait un système égalitaire ou une réforme économique. En revanche, ces textes offrent des points de comparaison sur les façons dont la comédie peut transformer un problème social en figure, en chœur ou en objet de dispute.
+
+Le *Ploutos* conservé est de 388 av. J.-C., dans un contexte beaucoup plus tardif que la première activité possible de Chionidès ; ne pas confondre cette version avec le *Ploutos* antérieur connu par tradition. L’écart chronologique interdit de lire le dernier Aristophane comme une clé directe du poète fragmentaire.
+
+### 36. Comparaison avec Cratès : *Thēria* et l’imaginaire du manger [B]
+
+Dans les comédies de Cratès, notamment les *Bêtes* (*Thēria*), des motifs d’alimentation et de transformation des rapports entre nature, humains et travail ouvrent à la critique des conditions matérielles de la vie. La différence est décisive : Cratès possède d’autres passages que nous pouvons comparer à une forme d’utopie, tandis que *Ptōchoi* n’a livré que des fragments dispersés par Athénée.
+
+La présence de poisson salé dans un vers n’autorise donc pas l’assignation du genre « utopie alimentaire » à l’ensemble de la pièce. On parlera plutôt d’un **motif conservé** susceptible d’être lu dans l’histoire plus large de la gastronomie comique.
+
+### 37. Comparaison avec Télécéidès, *Prytaneis* [A/B]
+
+Télécéidès a composé une pièce intitulée *Prytaneis*, étudiée ailleurs dans MYTHOS. Le titre rapproche le lecteur des organes civiques et de la question de la dépense publique. On peut croiser cette matière avec le fr. 7, parce que l’institution du repas public y est explicitement nommée. Mais les deux œuvres ne doivent pas être amalgamées.
+
+Un texte sur les prytanes ne fournit pas la disposition de la scène des *Ptōchoi* ; la comédie de Chionidès n’est pas un supplément historique de celle de Télécéidès. Le lien est thématique : **comment la cité rend visibles ses hiérarchies et ses récompenses par la nourriture ?**
+
+### 38. Comparaison avec Hermippos et les marchands du pain [B]
+
+Les *Artopōlides* d’Hermippos (« Les Marchandes de pain ») offrent un autre point de départ pour analyser nourriture, marché et différences sociales. Ici encore, il faut distinguer un métier désigné par un titre comique et un statut de mendiant désigné par *Ptōchoi*. Le marché alimentaire et l’aumône relèvent d’organisations économiques diverses : prix, don, réciprocité, dépendance.
+
+Le contrôle des fragments doit éviter de fabriquer une opposition stable entre « commerçantes autonomes » et « pauvres assistés ». Les pièces n’ont pas nécessairement été écrites pour exprimer cette différence. L’intérêt du renvoi réside dans la cartographie des moyens dramatiques par lesquels une culture met l’aliment en discours.
+
+### 39. Hegel : pauvreté, reconnaissance et forme comique [B]
+
+Les analyses de Hegel sur la reconnaissance, la société civile et les formes esthétiques permettent de poser deux questions distinctes. Dans la *Philosophie du droit*, la pauvreté naît de contradictions internes à l’organisation sociale et affecte les conditions de participation à l’ordre éthique. Dans les *Leçons sur l’esthétique*, la comédie révèle une capacité du sujet à se tenir à distance de fins qui se retournent contre elles-mêmes.
+
+Ces cadres sont postérieurs de plus de deux millénaires au théâtre de Chionidès. Ils ne produisent pas le sens « caché » des *Ptōchoi*. Ils aident seulement à problématiser la situation du mendiant : dépendre du regard d’autrui pour subsister et se voir accordée, sur la scène, une parole potentiellement souveraine. Il faudrait des fragments plus nombreux pour décider si la pièce renversait la honte de la demande ou la réaffirmait par le rire.
+
+### 40. Nietzsche : musique séduisante et moralisation du goût [B]
+
+Nietzsche, *La Naissance de la tragédie* (1872), confronte expérience dionysiaque, formes chorales et puissance de la musique dans les arts grecs. Sa pensée peut inviter à réfléchir au fait qu’une querelle sur la douceur musicale est déjà une querelle sur les effets du théâtre et de la sensualité. Mais les jugements de Gnésippos appartiennent à des débats de poètes antiques et à la mise en scène de leurs rivalités ; leur réduction à une opposition philosophique apollinien/dionysiaque serait infondée.
+
+Dans *Ptōchoi*, le fr. 4 atteste surtout une formule de critique musicale : elle n’autorise pas à inventer un chœur en extase ni une révolte des musiciens contre une norme morale. La séparation des temporalités protège à la fois Nietzsche et les fragments contre la fausse attribution.
+
+### 41. Jean-Pierre Vernant : le foyer civique et la catégorie du sacré [B]
+
+La réflexion de Vernant sur les liens entre pratiques religieuses, formes politiques et espaces de la cité permet de prendre au sérieux le Prytanée, sans en faire un décor interchangeable. Un lieu de repas public, un foyer civique et une pratique de théoxénie peuvent réunir des dimensions que nos catégories modernes séparent : religion, hospitalité, hiérarchie et représentation du collectif.
+
+Le fr. 7 donne un accès indirect à ce problème, mais il reste médiatisé par Athénée. La question ne consiste pas à décrire « la religion selon Chionidès ». Il s’agit de comprendre comment la mémoire d’un usage civique a pu être citée et préservée sous le titre d’une comédie, alors même que l’intrigue de cette comédie a disparu.
+
+### 42. Marcel Détienne : nourriture, découpage et classification [B]
+
+La méthode de Détienne et de la comparaison anthropologique appelle à étudier des opérations de classement. Qui est appelé mendiant ? Qu’est-ce qu’un aliment « simple » ? Pourquoi le même repas peut-il signifier pauvreté chez l’un et tradition sacrée chez l’autre ? Le langage de la nourriture n’exprime pas seulement une condition matérielle : il organise des valeurs.
+
+Cette démarche ne doit pas devenir un comparatisme illimité où toutes les sociétés partageant pain, sel ou olives reproduiraient les mêmes rites. Le dossier grec est assez riche pour imposer ses propres distinctions. Un rapprochement entre théoxénie grecque, repas d’ancêtres ailleurs et banquets honorifiques n’est légitime que si les différences de destinataires, de temporalités et de sources sont maintenues.
+
+### 43. Dumézil et les Dioscures : une comparaison volontairement limitée [B]
+
+Les Dioscures ont nourri des réflexions comparatistes sur les jumeaux divins et des traditions indo-européennes, notamment les Aśvin védiques. Ce champ peut être mentionné comme problème de religion comparée. Mais rien dans la liste de fromage, d’orge et d’olives transmise par Athénée ne permet de dériver l’organisation de la pièce d’un schème trifonctionnel, ni même de démontrer que des jumeaux apparaissaient physiquement sur scène.
+
+La comparaison dumézilienne n’est donc **pas retenue comme explication** des *Ptōchoi*. Elle demeure une référence extérieure à la problématique des figures divines jumelles, à explorer uniquement avec un corpus différent et explicite.
+
+### 44. Une philosophie de la transmission : l’autorité du citateur [B]
+
+Le nom « Chionidès » nous parvient par des catalogues et des citations. Plus précisément, Athénée a sauvé des phrases parce qu’elles servaient à ses propres discussions : musique, genre grammatical, repas des dieux. Une bibliothèque de l’Antiquité tardive et de Byzance peut ainsi conserver un auteur sous forme de fragments qui ne reflètent pas la fréquence réelle de ses thèmes dramatiques.
+
+La documentation ancienne se laisse dès lors comprendre comme une **sélection orientée**, et non comme un échantillon statistique. Le fr. 4 survit parce que le banquet savant discute des compositeurs séduisants ; le fr. 5 parce que l’on discute d’un poisson ; le fr. 7 parce que l’on classe les formes de repas. Que le texte originel ait pu consacrer de longs passages à autre chose est non seulement possible, mais impossible à exclure.
+
+### 45. Le verdict philologique : ni apologie ni condamnation de l’authenticité [B]
+
+On peut désormais distinguer les niveaux de conclusion.
+
+**Certitude documentaire :** un titre *Ptōchoi* circule sous le nom de Chionidès dans la tradition érudite ; Athénée le connaît et conserve des passages associés à cette attribution.
+
+**Incertitude historique :** la pièce conservée par citations est-elle réellement du Chionidès auquel la *Souda* associe les débuts de l’ancienne comédie ? Les jugements divergent. L’allusion à Gnésippos est un indice discuté, non une preuve définitive d’une autre main.
+
+**Inconnu dramaturgique :** chœur, personnages, année, circonstances du concours, progression de l’action, résolution des conflits. Aucune source ne permet de reconstituer ces éléments. Ils ne doivent jamais figurer dans la présentation de la pièce sous la rubrique « intrigue attestée ».
+
+### 46. [C] Scène originale I — « Le poisson et le nom »
+
+**Scène écrite en 2026 : aucune ligne ne provient de Chionidès.** Une place imaginaire, un vendeur de poissons salés, une mendiante et un personnage appelé Le Grammairien. Le passage n’essaie pas de restituer le fr. 5 ; il s’en sert pour poser la question de la relation entre langue et faim.
+
+**LE GRAMMAIRIEN.** La question est simple : ce nom de poisson doit-il être masculin ou neutre ?
+
+**LA MENDIANTE.** Celui que tu tiens à la main ne sait ni l’un ni l’autre. Et moi, je ne demande qu’une part.
+
+**LE VENDEUR.** Un poisson bien décliné ne se vend pas mieux.
+
+**LE GRAMMAIRIEN.** Pourtant, la cité ne saurait vivre sans règles.
+
+**LA MENDIANTE.** Si ta règle m’interdit de manger, commence donc par manger ta règle.
+
+**LE VENDEUR.** Il faut bien que je sois payé. Je nourris mes enfants, moi aussi.
+
+**LA MENDIANTE.** Et pourquoi te répondrais-je comme une voleuse ? J’ai des mains pour recevoir, pas pour prendre.
+
+**LE GRAMMAIRIEN.** La politesse de la demande est un sujet qui se prête fort bien à la syntaxe.
+
+**LE VENDEUR.** Alors rédige donc la syntaxe sur l’ardoise du prix.
+
+**LA MENDIANTE.** Ne mets pas mon nom. Écris seulement : « une personne a faim ». Si tu trouves un pluriel, peut-être serai-je moins seule.
+
+*Le grammairien commence une longue déclinaison. Le vendeur, sans lui demander son avis, partage le poisson en trois. Le grammairien découvre qu’il ne dispose plus d’un exemple intact pour sa leçon.*
+
+**[B] Commentaire :** l’invention transforme la controverse grammaticale sur *tarichos* en conflit social ; elle ne prétend pas qu’Athénée transmette la scène, ses répliques ou son dénouement.
+
+### 47. [C] Scène originale II — « Les neuf cordes ne suffisent pas »
+
+**Scène moderne, sans attributions antiques.** Deux musiciens fictifs portent neuf cordes peintes sur des planchettes plutôt qu’un instrument historiquement déterminé. Une voix venue du chœur les interroge.
+
+**LE PREMIER MUSICIEN.** J’ai une mélodie si douce que la pierre se ferait raisin pour l’entendre.
+
+**LE SECOND MUSICIEN.** La mienne adoucit même l’eau de mer.
+
+**LA VOIX.** Alors rendez doux ce jour où personne n’a du pain.
+
+**LE PREMIER MUSICIEN.** Une demande de musique n’est pas une demande d’orge.
+
+**LA VOIX.** Pourtant celui qui a faim vous écoute, lui aussi.
+
+**LE SECOND MUSICIEN.** Nous avons neuf cordes. C’est assez pour vaincre toutes les amertumes.
+
+**LA VOIX.** J’en compte neuf, mais aucune ne porte une table.
+
+**LE PREMIER MUSICIEN.** Tu exiges que l’art fasse le travail des champs.
+
+**LA VOIX.** Non. J’exige que vous ne confondiez pas le chant avec le repas et que vous n’appeliez pas « mauvaise oreille » celui qui demande à manger.
+
+*Les musiciens cessent de rivaliser. Au lieu d’achever leur compétition, ils se mettent à compter les neuf cordes : l’une pour la vanité, l’une pour le prestige, l’une pour la peur, l’une pour la faim, et ainsi de suite. La dernière demeure sans nom.*
+
+**[B] Commentaire :** « neuf cordes », image présente au fr. 4, inspire une scène sur les limites de l’efficacité sociale de l’art. Aucun personnage de Chionidès n’est ainsi identifié.
+
+### 48. [C] Scène originale III — « La table des deux invités »
+
+**Création de 2026.** Une table vide est préparée pour deux visiteurs dont on dit qu’ils viennent d’une autre condition. Une gardienne du foyer et deux citoyens discutent du menu ; les dieux ne sont pas représentés.
+
+**LA GARDIENNE.** On a choisi du fromage, de l’orge, des olives et des poireaux.
+
+**LE PREMIER CITOYEN.** Pour de si grands invités, n’est-ce pas peu de chose ?
+
+**LE SECOND CITOYEN.** C’est assez pour rappeler ce qu’ils sont venus recevoir.
+
+**LE PREMIER CITOYEN.** Nous ne faisons pas honneur à nos protecteurs en leur montrant la misère de notre cuisine.
+
+**LA GARDIENNE.** Nous faisons honneur à l’usage que nous avons reçu, non à notre besoin de paraître riches.
+
+**LE SECOND CITOYEN.** Un homme attend à la porte. Il dit n’avoir rien mangé.
+
+**LE PREMIER CITOYEN.** La table n’a pas été dressée pour lui.
+
+**LA GARDIENNE.** Il n’a pas réclamé la place d’un dieu. Il a demandé un peu d’orge.
+
+**LE PREMIER CITOYEN.** Si nous nourrissons chaque passant, la ville n’aura plus rien à montrer à ses hôtes.
+
+**LA GARDIENNE.** Une ville qui montre sa table, mais cache ses affamés, que montre-t-elle donc ?
+
+*La gardienne prépare une seconde petite portion, sans toucher aux aliments destinés au rite. Le dialogue cesse au moment où le spectateur pourrait attendre une réponse définitive : la scène renvoie le jugement à la cité.*
+
+**[B] Commentaire :** cette invention associe deux institutions de façon explicitement conjecturale. Le fr. 7 ne dit pas qu’un mendiant intervient à la réception des Dioscures.
+
+### 49. [C] Scène originale IV — « Le juge du manuscrit »
+
+**Fiction contemporaine sur le problème de la transmission.** Un copiste, un lecteur et une figure appelée L’Ancien Nom débattent d’un livre sans auteur sûr.
+
+**LE COPISTE.** Si je copie « de Chionidès », chacun reconnaîtra la pièce.
+
+**LE LECTEUR.** Et si la pièce n’est pas de lui ?
+
+**LE COPISTE.** Le livre restera au moins rangé dans le bon coffre.
+
+**L’ANCIEN NOM.** Je suis très commode pour les coffres, beaucoup moins pour la vérité.
+
+**LE LECTEUR.** Pourquoi ne pas écrire « attribué à Chionidès » ?
+
+**LE COPISTE.** Cela donnera l’impression que le coffre hésite.
+
+**L’ANCIEN NOM.** Le coffre hésite moins que la science. Il suffit qu’on le ferme et il n’a plus de questions.
+
+**LE LECTEUR.** Tu préfères une certitude inventée à une incertitude utile.
+
+**LE COPISTE.** Peut-être. Mais la première se vend mieux.
+
+**L’ANCIEN NOM.** Alors inscris deux choses, pour que l’une n’efface pas l’autre : le titre qui s’est transmis, et le doute qui l’accompagne.
+
+*Le copiste écrit les deux formules. Le volume reste ouvert sur une table, comme une scène dont l’histoire se poursuit dans la main du lecteur.*
+
+**[B] Commentaire :** la scène ne représente pas une dispute antique documentée. Elle explique la position méthodologique : sauvegarder à la fois les paroles transmises et la réserve d’Athénée.
+
+### 50. Résultats synthétiques [A/B/C]
+
+**[A] Témoignages vérifiés.** Aristote connaît Chionidès comme ancien poète comique ; la *Souda* mentionne le titre *Ptōchoi* ; Athénée transmet les fr. 4, 5, *6 et 7 ; Vitruve cite le nom de Chionidès sans livrer de vers ni d’attribution à la pièce. Les discussions lexicales et la formule d’attribution prudente sont elles-mêmes des données de transmission.
+
+**[B] Hypothèses délimitées.** Authenticité originelle, révision et attribution secondaire restent discutées ; le fr. 4 révèle des conflits de goût musical possibles, les fr. 5–*6 des pratiques alimentaires et de langage, le fr. 7 une mémoire de repas civiques et rituels. Aucune hypothèse ne définit une intrigue certaine. Hegel, Nietzsche, Vernant et Détienne servent de repères conceptuels postérieurs ; l’hypothèse trifonctionnelle de Dumézil n’explique pas ces fragments.
+
+**[C] Création annoncée.** Quatre scènes modernes et leurs commentaires sont séparés de l’appareil documentaire. Aucun de leurs personnages, récits ou propos n’est proposé comme fragment restitué.
+
+### 51. Éditions fondamentales et sources primaires [A]
+
+1. **Rudolf Kassel et Colin Austin**, *Poetae Comici Graeci*, **IV**, Berlin–New York, de Gruyter, **1983**, **p. 72–76** : Chionidès, témoignages et fragments ; numérotation 4–7 et fr. 8 ; l’astérisque de fr. *6 est maintenu dans la présente étude.
+2. **Andreas Bagordo**, *Fragmenta Comica*, volume **1.1**, *Alkimenes–Kantharos*, Heidelberg, Verlag Antike, **2014**, **p. 24–70**, avec *Ptōchoi* p. **51–68** et fr. 8 p. **69–70**. Édition numérisée par l’Académie des sciences de Heidelberg et la bibliothèque universitaire : https://doi.org/10.11588/diglit.47735 .
+3. **Ian C. Storey**, *Fragments of Old Comedy*, vol. **I**, Loeb Classical Library 513, Cambridge (Mass.)–Londres, **2011**, **p. 192–199** : édition et traduction avec discussion de l’authenticité.
+4. **Athénée**, *Deipnosophistes*, **XIV 638d** (Gnésippos, Cléoménès, fr. 4), **III 119e** (poisson salé, fr. 5 et *6), **IV 137e** (Dioscures, fr. 7). Les numéros et l’index d’auteurs sont consultables sur *Digital Athenaeus* : https://www.digitalathenaeus.org/tools/KaibelIndexScriptorum/superdigger.php?onoffswitch=on&what%5B%5D=Name%7CCHIONIDES .
+5. **Souda**, **χ 318**, notice Chionidès : texte grec, traduction et dossier critique du projet *Suda On Line* : https://cs.uky.edu/~raphael/sol/sol-entries/chi/318 .
+6. **Aristote**, *Poétique*, **1448a33** : Chionidès et Magnès. Source contextuelle sur les débuts de la comédie, non témoin direct de *Ptōchoi*.
+7. **Vitruve**, *De architectura*, **VI, préface 3** : nom de Chionidès dans une liste de comiques ; ne cite pas *Ptōchoi*.
+8. **Aristophane**, *Cavaliers* **520–540**, *Acharniens* **834–835**, *Oiseaux* **244–245**, *Ploutos* (représentation conservée en 388) : comparaisons et parallèles, jamais fragments de Chionidès.
+9. **Homère**, *Odyssée* **XIII–XX** : l’apparence du mendiant et le devoir d’hospitalité ; parallèle culturel explicitement externe au texte attribué.
+10. **Eupolis**, *Hélotes* fr. **148 K.-A.** et **Phérécratès**, *Chiron* fr. **155 K.-A.** : comparaisons de discours sur les innovations musicales, sans attribution au fr. 4.
+
+### 52. Bibliographie analytique et historiographique [A]
+
+- **Arthur W. Pickard-Cambridge**, *The Dramatic Festivals of Athens*, 2e éd. revue par J. Gould et D. M. Lewis, Oxford, 1968 : institutions du concours et matériaux de théâtre.
+- **Benjamin W. Millis et S. Douglas Olson**, *Inscriptional Records for the Dramatic Festivals in Athens*, Leyde–Boston, Brill, 2012 : examen des traditions épigraphiques ; ne pas y chercher une date attestée des *Ptōchoi*.
+- **M. L. West**, *Ancient Greek Music*, Oxford, 1992 : organologie, langage musical, nombre de cordes ; parallèle général pour le fr. 4.
+- **John Wilkins**, *The Boastful Chef: The Discourse of Food in Ancient Greek Comedy*, Oxford, 2000 : économie comique des aliments et des figures de la table.
+- **S. Douglas Olson**, *Broken Laughter: Select Fragments of Greek Comedy*, Oxford, 2007 : méthodes d’étude de l’ancienne comédie fragmentaire.
+- **Matthew S. Wright**, *The Lost Plays of Greek Tragedy*, Londres, 2016–2019, pour les problèmes généraux du théâtre fragmentaire : comparaison de méthode, non édition de Chionidès.
+- **James Davidson**, « Gnesippus *paigniagraphos*: the comic poets and the erotic mime », dans *The Rivals of Aristophanes*, Londres, 2000 : reconstruction des débats sur le musicien et la poésie érotique.
+- **Jean-Pierre Vernant**, *Mythe et pensée chez les Grecs*, Paris, 1965 : cadre d’anthropologie historique.
+- **Marcel Détienne**, *Les Maîtres de vérité dans la Grèce archaïque*, Paris, 1967, et *L’Invention de la mythologie*, Paris, 1981 : critique des catégories et de l’autorité des traditions.
+- **G. W. F. Hegel**, *Grundlinien der Philosophie des Rechts* (1821), notamment les analyses de la société civile et de la pauvreté, et *Vorlesungen über die Ästhetik*, passages sur la comédie.
+- **Friedrich Nietzsche**, *Die Geburt der Tragödie aus dem Geiste der Musik*, Leipzig, 1872 : réflexions postérieures sur musique, art et chœur ; aucun témoignage sur Chionidès.
+- **Georges Dumézil**, *Mythe et épopée*, Paris, 1968–1973 : référence comparatiste écartée comme outil d’explication directe des fragments.
+
+### 53. Références numériques vérifiées et précautions d’édition [A]
+
+Pour assurer la vérifiabilité page à page, la présente étude renvoie aux vues officielles de *Fragmenta Comica* 1.1, qui portent le texte grec et le commentaire original. Ces pages sont des références scientifiques ; elles ne sont pas des fragments nouvellement retrouvés :
+
+- Chionidès, début de carrière et histoire de l’attribution : https://digi.hadw-bw.de/view/frc1_1/0026 .
+- Présentation générale des *Ptōchoi* et doute sur l’authenticité : https://digi.hadw-bw.de/view/frc1_1/0052 .
+- Fr. 4, Gnésippos et Cléoménès : https://digi.hadw-bw.de/view/frc1_1/0053 .
+- Fr. 4, neuf cordes et ambiguïtés de douceur : https://digi.hadw-bw.de/view/frc1_1/0057 .
+- Fr. 5, poisson salé : https://digi.hadw-bw.de/view/frc1_1/0059 .
+- Fr. *6, problème du duel et de la construction alimentaire : https://digi.hadw-bw.de/view/frc1_1/0063 .
+- Fr. 7, repas des Dioscures : https://digi.hadw-bw.de/view/frc1_1/0066 .
+- Fr. 8, mention de Chionidès dans Vitruve : https://digi.hadw-bw.de/view/frc1_1/0070 .
+
+**Réserve critique finale.** Le dossier *Ptōchoi* reste celui d’une **œuvre traditionnellement attribuée** à Chionidès. Il n’autorise aucune déclaration d’authenticité absolue ni aucune reconstitution des paroles manquantes. Les textes et leur historicité devront toujours demeurer distingués dans les index, notices, liens, bibliographies et scènes présentées sur MYTHOS.
+
+### 54. Continuité MYTHOS, renvois déjà canoniques et lien en attente
+
+Les volumes existants suivants peuvent servir de comparaisons réelles et distinctes. Les chemins GitHub ci-dessous désignent des fichiers sur la branche main, non une promesse de disponibilité publique HTTPS :
+
+- **XXXII (32), Aristophane, *Ploutos* ancien** : https://github.com/Bobcribb/Bobcribb.github.io/blob/main/chapitres/comedies/volume-032-aristophane-ploutos-protos.md
+- **XLI (41), Hermippos, *Artopōlides*** : https://github.com/Bobcribb/Bobcribb.github.io/blob/main/chapitres/comedies/volume-041-hermippos-artopolides.md
+- **LI (51), Cratès, *Thēria*** : https://github.com/Bobcribb/Bobcribb.github.io/blob/main/chapitres/comedies/volume-051-crates-theria.md
+- **LXI (61), Phérécratès, *Chiron*** : https://github.com/Bobcribb/Bobcribb.github.io/blob/main/chapitres/comedies/volume-061-pherekrates-cheiron-musique-justice-nouvelle-musique.md
+- **LXIV (64), Télécéidès, *Prytaneis*** : https://github.com/Bobcribb/Bobcribb.github.io/blob/main/chapitres/comedies/volume-064-telekleides-prytaneis-boule-tholos-memoire-pouvoir.md
+
+La soumission autonome des *Héros* de Chionidès, UUID **d2636a9f-3e6d-4aa7-bf6c-9bcd774f2ec1**, est simplement signalée comme **étude distincte et encore non attribuée** à la date de rédaction. Les deux manuscrits sont indépendants ; une fois leurs reçus présents, les renvois réciproques numérotés pourront être ajoutés sans toucher au contenu critique des œuvres antérieures.
+
+**Le présent manuscrit attend la seule attribution du circuit concurrent de GitHub.** Ses en-têtes comportent les variables CXXIX et 129. Aucune place dans la série, ni aucun numéro des anciens repères XIII/XIV, n’est revendiqué avant le reçu transactionnel.
+
+**Fin de l’étude.**

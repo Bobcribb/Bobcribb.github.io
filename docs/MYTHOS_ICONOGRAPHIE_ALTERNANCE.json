@@ -5,103 +5,95 @@
   "branch": "main",
   "latest_session": {
     "date": "2026-11-06",
-    "session_number": 70,
+    "session_number": 72,
     "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
     "previous_kind": "AUDIT ET CORRECTION",
     "next_kind": "AUDIT ET CORRECTION",
-    "scope": "Deux schémas 2D documentés pour Iliade I et Odyssée XXIV ; ajout dans la Théogonie d'une photographie patrimoniale du bronze d'Athéna du Met (50.11.1, CC0). Enrichissement documentaire complémentaire de la même séance (PR #80) : laraire des Vettii et médaillons théâtraux du Met, sans les confondre avec des images grecques d'Hestia ou des masques effectivement portés.",
-    "basis_main_at_review": "e8905d0d006b7d965f2cbc7cd65e1563858a2292",
-    "modified_pages": [
-      "philosophie-iliade.html",
-      "philosophie-odyssee.html",
-      "philosophie-theogonie.html",
-      "dieu-hestia/index.html",
-      "theatre-grec.html"
-    ],
-    "new_assets": [
-      "assets/philosophie/iliade-chryses-crise-20261106-s70.svg",
-      "assets/philosophie/odyssee-ithaque-paix-20261106-s70.svg"
-    ],
-    "new_figures": 5,
-    "primary_sources": [
-      "Homère, Iliade I, 12–120 ; poésieintranslation.com/PITBR/Greek/Iliad1.php",
-      "Homère, Odyssée XXIV, 412–548 ; poetryintranslation.com/PITBR/Greek/Odyssey24.php",
-      "Hésiode, Théogonie 886–900 et 924–926 ; Metropolitan Museum of Art, n° 50.11.1, vers 460 av. J.-C., CC0",
-      "Laraire de Pompéi : Patricio Lorente et Waterborough, Wikimedia Commons, CC BY-SA 2.5, https://commons.wikimedia.org/wiki/File:Casa_dei_Vettii_-_Larario.jpg",
-      "Médaillons hellénistiques : Metropolitan Museum of Art, inv. 2001.767.1–2, domaine public CC0, https://www.metmuseum.org/art/collection/search/257595"
-    ],
-    "precommit_static_checks": {
-      "philosophie-iliade.html": {
-        "oldChars": 437519,
-        "newChars": 438849,
-        "figuresBefore": 40,
-        "figuresAfter": 41,
-        "imagesAfter": 41,
-        "uniqueIds": 125,
-        "resourceRefsValidated": 104
+    "scope": "Séance universitaire de trois objets patrimoniaux déjà archivés : Arès de la frise est du Parthénon pour Iliade V, Héraclès et le lion de Némée pour l'Odyssée XXI, Déméter-Perséphone et Triptolème pour la Théogonie 912–914. Distinguer image postérieure et source poétique ; pas de doublon ni de nouveau binaire.",
+    "source_main_at_review": "fbb45bd1291cf69ca9e522e4d0da5d84e8e5983f",
+    "figures": [
+      {
+        "page": "philosophie-iliade.html",
+        "id": "icono-iliade-ares-parthenon-frise-s72-20261106",
+        "asset": "/media/2026/10/mythos-ares-frise-orientale-parthenon-bloc-iv-twospoonfuls.jpg",
+        "source": "parthenonfrieze.gr",
+        "statut": "objet antique authentique ; photo non générée par IA ; ne représente pas directement le passage poétique",
+        "credit": "crédit, droits, datation, contexte de fabrication et critique du témoignage dans figcaption"
       },
-      "philosophie-odyssee.html": {
-        "oldChars": 419209,
-        "newChars": 420524,
-        "figuresBefore": 39,
-        "figuresAfter": 40,
-        "imagesAfter": 40,
-        "uniqueIds": 124,
-        "resourceRefsValidated": 101
+      {
+        "page": "philosophie-odyssee.html",
+        "id": "icono-odyssee-heracles-lion-nemee-met-s72-20261106",
+        "asset": "/media/2026/10/mythos-heracles-lion-nemee-oinochoe-met-06-1021-66.jpg",
+        "source": "metmuseum.org/art/collection/search/247235",
+        "statut": "objet antique authentique ; photo non générée par IA ; ne représente pas directement le passage poétique",
+        "credit": "crédit, droits, datation, contexte de fabrication et critique du témoignage dans figcaption"
       },
-      "philosophie-theogonie.html": {
-        "oldChars": 423216,
-        "newChars": 424827,
-        "figuresBefore": 39,
-        "figuresAfter": 40,
-        "imagesAfter": 40,
-        "uniqueIds": 128,
-        "resourceRefsValidated": 104
+      {
+        "page": "philosophie-theogonie.html",
+        "id": "icono-theogonie-demeter-triptoleme-met-s72-20261106",
+        "asset": "/media/2026/10/demeter-triptolemos-peintre-niobides-met-41-162-98.jpg",
+        "source": "metmuseum.org/art/collection/search/254270",
+        "statut": "objet antique authentique ; photo non générée par IA ; ne représente pas directement le passage poétique",
+        "credit": "crédit, droits, datation, contexte de fabrication et critique du témoignage dans figcaption"
       }
-    },
-    "checks": "Anciennes pages identiques après suppression de la seule figure insérée ; IDs HTML uniques et images avec alt ; chemins d'images, styles et médias locaux contrôlés sur l'arbre complet main ; SVG avec titre, description, métadonnées et statut IA. Textes scientifiques non modifiés.",
-    "preservation": "Aucun manuscrit, numéro, UUID, reçu, registre, menu, script, CSS/JS, ni automatisation horaire modifié.",
-    "limitations": "Pas d'exécution locale complète des tests Python, pas de rendu mobile ni validation PDF A4. Contrôle CI et publication HTTPS à effectuer après commit.",
-    "public_deployment_status": "Non confirmé à la rédaction ; ne pas inférer la publication d'un commit main.",
-    "next_session": "Séance 71 — AUDIT ET CORRECTION",
-    "supplemental_documentary_figures": {
-      "source_pr": 80,
-      "original_branch": "mythos-iconographie-s70-hestia-masques-20261106",
-      "figures": [
+    ],
+    "precommit_checks": {
+      "three_pages_checked": 3,
+      "figures_added": 3,
+      "duplicate_figure_ids": 0,
+      "missing_manifest_media": 0,
+      "missing_alt": 0,
+      "broken_same_page_anchors": 0,
+      "page_summaries": [
         {
-          "page": "dieu-hestia/index.html",
-          "id": "icono-hestia-laraire-vettii-comparaison-s70-20261106",
-          "asset": "/media/2026/10/mythos-lararium-maison-vettii-pompei-lorente-waterborough.jpg",
-          "source": "Wikimedia Commons Patricio Lorente / Waterborough, CC BY-SA 2.5",
-          "date": "Ier siècle apr. J.-C.",
-          "status": "document romain authentique, non image d'Hestia grecque, non IA"
+          "page": "philosophie-iliade.html",
+          "old_images": 41,
+          "new_images": 42,
+          "old_figures": 41,
+          "new_figures": 42,
+          "ids": 128,
+          "hashlinks": 111,
+          "broken": 0,
+          "missing_alt": 0,
+          "oldLength": 438849,
+          "newLength": 440722,
+          "sourceSha": "bf6a1ba68a1d202e73629bced6e94f5af2364059"
         },
         {
-          "page": "theatre-grec.html",
-          "id": "icono-theatre-masques-met-2001-767-s70-20261106",
-          "asset": "/media/2026/10/mythos-masques-theatre-rondelles-hellenistiques-met-2001-767.jpg",
-          "source": "Met 257595, inv. 2001.767.1–2, Open Access CC0",
-          "date": "Ier siècle av. J.-C.",
-          "status": "médaillons grecs authentiques, non masques de scène portés, non IA"
+          "page": "philosophie-odyssee.html",
+          "old_images": 40,
+          "new_images": 41,
+          "old_figures": 40,
+          "new_figures": 41,
+          "ids": 127,
+          "hashlinks": 111,
+          "broken": 0,
+          "missing_alt": 0,
+          "oldLength": 420524,
+          "newLength": 422304,
+          "sourceSha": "25c768fe97f620b4d2e89d425736add4707be957"
+        },
+        {
+          "page": "philosophie-theogonie.html",
+          "old_images": 40,
+          "new_images": 41,
+          "old_figures": 40,
+          "new_figures": 41,
+          "ids": 129,
+          "hashlinks": 113,
+          "broken": 0,
+          "missing_alt": 0,
+          "oldLength": 424827,
+          "newLength": 426656,
+          "sourceSha": "565571dd210ae8f1ef549c4c9ccc9f0772e38b1b"
         }
       ],
-      "original_precommit_checks": {
-        "pages_checked": 2,
-        "previous_figures_hestia": 5,
-        "previous_figures_theatre": 2,
-        "added": 2,
-        "duplicate_new_ids": 0,
-        "missing_media_in_manifest": 0,
-        "figures_with_alt_caption_source_date_licenses": 2,
-        "existing_html_preserved": "Seule insertion de figure ; le fichier original se reconstitue intégralement après retrait du bloc.",
-        "priority_studies": "Iliade, Odyssée et Théogonie déjà illustrées (40/39/39 figures) ; aucune image redondante ajoutée. Pagination A4 historique 107/101/103, non recalculée."
-      },
-      "read_only_references": {
-        "hestia": "https://commons.wikimedia.org/wiki/File:Casa_dei_Vettii_-_Larario.jpg",
-        "theatre": "https://www.metmuseum.org/art/collection/search/257595"
-      },
-      "notes": "Deux figures authentiques insérées sans altération des pages préexistantes, avec statut non-IA, datation et limites documentaires. Aucun média binaire ajouté."
-    }
+      "all_existing_text_preserved": "Insertion HTML uniquement, suppression du bloc ajouté restitue exactement le texte HTML source"
+    },
+    "preservation": "Aucun manuscrit universitaire, numéro canonique, UUID, registre, page de navigation, CSS, JavaScript, automatisation, image ou archive supprimé ou réécrit. Pas de 2,5D ni de menu incrusté.",
+    "publication_status": "PR à valider ; aucun déploiement HTTPS de cette séance annoncé. Dernier manifeste public contrôlé : aaab3583b522dbd945f4014332e3f682325e5947 / run 42204008596.",
+    "pages_a4": "Paginations historiques (>10 pages) non recalculées ; aucun texte universitaire retranché.",
+    "next_session": "Séance 73 — AUDIT ET CORRECTION"
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
   "history": [
@@ -4435,6 +4427,131 @@
         },
         "notes": "Deux figures authentiques insérées sans altération des pages préexistantes, avec statut non-IA, datation et limites documentaires. Aucun média binaire ajouté."
       }
+    },
+    {
+      "date": "2026-11-06",
+      "session_number": 71,
+      "kind": "AUDIT ET CORRECTION",
+      "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "scope": "Audit ciblé de 19 pages, dont accueil, Iliade, Odyssée, Théogonie, Énéide et lecteurs, Hestia, théâtre, portails grecs ; rétablissement de la couverture de publication HTTPS des cinq figures de la séance 70 (SVG 2D IA, photographie CC0 réemployée et deux JPEG patrimoniaux).",
+      "checks": {
+        "pages_statistically_checked": 19,
+        "html_ids_checked": 891,
+        "image_elements_checked": 192,
+        "local_link_and_resource_references_checked": 2975,
+        "duplicate_ids": 0,
+        "images_without_alt": 0,
+        "broken_same_page_anchors": 0,
+        "missing_local_assets_or_links": 0,
+        "methodology": "Contrôle en lecture du HTML source main et de l'arbre Git : présence des ressources et des chemins, ancres locales, IDs, attribut alt ; vérification du domaine non concluante via HTTP externe."
+      },
+      "verified_error": "Les cinq figures de la séance 70 avaient leurs tests de présence, mais étaient absentes de RECENT_FIGURES dans scripts/verify_live_site.py ; aucune vérification individuelle de leurs notices publiques et empreintes au sein de verify_recent_public_figures.",
+      "correction": "Ajout des cinq triplets page/ID/image dans RECENT_FIGURES, avec validation WebP/JPEG/SVG existante, adaptation de la fixture SVG et des assertions du test de publication (61 figures, 13 pages, 44 médias distincts), nouveau test de non-régression des figures et de l'alternance.",
+      "preservation": "Aucun manuscrit ni balise de contenu, image, numéro, menu, registre d'attribution, reçu, workflow GitHub ou planification horaire modifié.",
+      "precommit": "Vérification des 5 ID uniques et sources locales via HTML GitHub, état main et journal; contrôle statique des changements de code et assertions.",
+      "limitations": "Ni test Python complet local, ni rendu mobile visuel ou pagination PDF A4 ; URL HTTPS bobmythos.fr inaccessible depuis le contrôleur web ; déploiement public non confirmé.",
+      "public_deployment_status": "Non confirmé ; les contrôles du script ne remplacent pas la publication Pages.",
+      "next_session": "Séance 72 — ENRICHISSEMENT ICONOGRAPHIQUE",
+      "additional_ci_blocker": {
+        "workflow_run": 42206997255,
+        "observed": "396 tests, 1 erreur : prose Koush attendue 36 371 caractères contre 36 681. La différence correspond exclusivement à la légende de la nouvelle figure documentée insérée dans le corps HTML original.",
+        "preservation_verified": "La prose normalisée du commit initial 7e92c2e est strictement identique à la prose actuelle après exclusion logique de cette seule figure éditoriale (36 371 caractères).",
+        "correction": "Exclusion du calcul d'empreinte des figures class=mythos-editorial-inline et data-editorial-inline=subject-v3 ; image, légende, code HTML et prose scientifique restent conservés. Nouveau test de régression.",
+        "publication": "Les tests GitHub Actions et le déploiement public doivent encore être revérifiés."
+      }
+    },
+    {
+      "date": "2026-11-06",
+      "session_number": 72,
+      "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "previous_kind": "AUDIT ET CORRECTION",
+      "next_kind": "AUDIT ET CORRECTION",
+      "scope": "Séance universitaire de trois objets patrimoniaux déjà archivés : Arès de la frise est du Parthénon pour Iliade V, Héraclès et le lion de Némée pour l'Odyssée XXI, Déméter-Perséphone et Triptolème pour la Théogonie 912–914. Distinguer image postérieure et source poétique ; pas de doublon ni de nouveau binaire.",
+      "source_main_at_review": "fbb45bd1291cf69ca9e522e4d0da5d84e8e5983f",
+      "figures": [
+        {
+          "page": "philosophie-iliade.html",
+          "id": "icono-iliade-ares-parthenon-frise-s72-20261106",
+          "asset": "/media/2026/10/mythos-ares-frise-orientale-parthenon-bloc-iv-twospoonfuls.jpg",
+          "source": "parthenonfrieze.gr",
+          "statut": "objet antique authentique ; photo non générée par IA ; ne représente pas directement le passage poétique",
+          "credit": "crédit, droits, datation, contexte de fabrication et critique du témoignage dans figcaption"
+        },
+        {
+          "page": "philosophie-odyssee.html",
+          "id": "icono-odyssee-heracles-lion-nemee-met-s72-20261106",
+          "asset": "/media/2026/10/mythos-heracles-lion-nemee-oinochoe-met-06-1021-66.jpg",
+          "source": "metmuseum.org/art/collection/search/247235",
+          "statut": "objet antique authentique ; photo non générée par IA ; ne représente pas directement le passage poétique",
+          "credit": "crédit, droits, datation, contexte de fabrication et critique du témoignage dans figcaption"
+        },
+        {
+          "page": "philosophie-theogonie.html",
+          "id": "icono-theogonie-demeter-triptoleme-met-s72-20261106",
+          "asset": "/media/2026/10/demeter-triptolemos-peintre-niobides-met-41-162-98.jpg",
+          "source": "metmuseum.org/art/collection/search/254270",
+          "statut": "objet antique authentique ; photo non générée par IA ; ne représente pas directement le passage poétique",
+          "credit": "crédit, droits, datation, contexte de fabrication et critique du témoignage dans figcaption"
+        }
+      ],
+      "precommit_checks": {
+        "three_pages_checked": 3,
+        "figures_added": 3,
+        "duplicate_figure_ids": 0,
+        "missing_manifest_media": 0,
+        "missing_alt": 0,
+        "broken_same_page_anchors": 0,
+        "page_summaries": [
+          {
+            "page": "philosophie-iliade.html",
+            "old_images": 41,
+            "new_images": 42,
+            "old_figures": 41,
+            "new_figures": 42,
+            "ids": 128,
+            "hashlinks": 111,
+            "broken": 0,
+            "missing_alt": 0,
+            "oldLength": 438849,
+            "newLength": 440722,
+            "sourceSha": "bf6a1ba68a1d202e73629bced6e94f5af2364059"
+          },
+          {
+            "page": "philosophie-odyssee.html",
+            "old_images": 40,
+            "new_images": 41,
+            "old_figures": 40,
+            "new_figures": 41,
+            "ids": 127,
+            "hashlinks": 111,
+            "broken": 0,
+            "missing_alt": 0,
+            "oldLength": 420524,
+            "newLength": 422304,
+            "sourceSha": "25c768fe97f620b4d2e89d425736add4707be957"
+          },
+          {
+            "page": "philosophie-theogonie.html",
+            "old_images": 40,
+            "new_images": 41,
+            "old_figures": 40,
+            "new_figures": 41,
+            "ids": 129,
+            "hashlinks": 113,
+            "broken": 0,
+            "missing_alt": 0,
+            "oldLength": 424827,
+            "newLength": 426656,
+            "sourceSha": "565571dd210ae8f1ef549c4c9ccc9f0772e38b1b"
+          }
+        ],
+        "all_existing_text_preserved": "Insertion HTML uniquement, suppression du bloc ajouté restitue exactement le texte HTML source"
+      },
+      "preservation": "Aucun manuscrit universitaire, numéro canonique, UUID, registre, page de navigation, CSS, JavaScript, automatisation, image ou archive supprimé ou réécrit. Pas de 2,5D ni de menu incrusté.",
+      "publication_status": "PR à valider ; aucun déploiement HTTPS de cette séance annoncé. Dernier manifeste public contrôlé : aaab3583b522dbd945f4014332e3f682325e5947 / run 42204008596.",
+      "pages_a4": "Paginations historiques (>10 pages) non recalculées ; aucun texte universitaire retranché.",
+      "next_session": "Séance 73 — AUDIT ET CORRECTION"
     }
   ]
 }
