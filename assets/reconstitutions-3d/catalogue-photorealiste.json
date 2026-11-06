@@ -2,7 +2,7 @@
   "generated_at": "2026-11-06",
   "site": "bobmythos.fr",
   "method": "Illustrations photoréalistes interprétatives, textes et sources hors des pixels.",
-  "count": 74,
+  "count": 75,
   "entries": [
     {
       "id": "DEL-PAN-001",
@@ -2108,6 +2108,29 @@
         "Verdiani, Giorgio et Andrea Rosone, 'On Stage in Antiquity, On Screen in the Digital Age', Archeomatica, étude de documentation photogrammétrique du théâtre de Priène, DOI 10.48258/ARC.2025.I3.2165."
       ],
       "methodology": "Restitution visuelle photographique synthétique non métrique ; le compte exact des rangs, sièges et éléments construits ne doit pas être mesuré sur l’illustration."
+    },
+    {
+      "id": "PEL-DIO-001",
+      "slug": "pella-maison-dionysos-peristyles-vers-300-av-jc",
+      "title": "Pella (Macédoine) — maison de Dionysos, deux cours à péristyle, vers 300 av. J.-C.",
+      "period": "Fin du IVe siècle av. J.-C., environ 325–300 av. J.-C. ; évocation interprétative de la première phase de la maison à l’époque hellénistique.",
+      "caption": "Reconstitution photoréaliste numérique de la maison dite de Dionysos, à Pella, avec une cour à colonnes doriques, un passage monumental vers la seconde cour ionique et un andrôn de réception. Illustration hypothétique non métrique, sans éléments d’interface dans les pixels.",
+      "commentary": "La maison dite de Dionysos est une grande résidence urbaine de l’ancienne Pella, capitale du royaume macédonien, implantée au sud de l’agora. L’Éphorie des antiquités de Pella décrit pour cette maison une superficie approximative de 3 160 m² et des sols de mosaïques de galets de la fin du IVe siècle avant notre ère, notamment les scènes de Dionysos chevauchant une panthère, d’une chasse au lion, de centaures et d’un griffon. L’expression « maison de Dionysos » est une dénomination archéologique moderne tirée du décor figuré, non une identification antique de ses propriétaires. La Fondation du Monde Hellénique situe la phase la plus ancienne à la fin du IVe siècle et y identifie deux cours distinctes, l’une entourée de colonnes doriques et l’autre ionique, séparées par une aile comportant un passage monumental. Une aile méridionale pouvait comporter un étage. Des andrones, pièces de réception réservées aux banquets, participaient à l’organisation sociale et matérielle des maisons aisées de Pella : décors d’enduits colorés, mobilier et pavements de galets. L’image se place dans la cour dorique et suggère l’accès à la seconde cour ionique, tout en montrant l’andrôn au moment d’une réunion. Le pavage géométrique visible est inspiré de la technique des mosaïques macédoniennes, mais ne reproduit pas à l’identique ni à l’échelle les pavements conservés au musée archéologique de Pella. Les toitures en tuiles, le mobilier, les lits de banquet, le bassin et les plantations du patio, la forme des garde-corps de l’étage, les tonalités exactes des enduits et les personnages sont des propositions artistiques non attestées dans leur disposition précise. La perspective ne constitue ni un relevé photogrammétrique ni un modèle 3D architectural validé : la hauteur des pièces, les dimensions et le tracé des sols ne doivent pas être mesurés sur l’image. Les sources scientifiques et institutionnelles documentent le site et ses vestiges mais n’approuvent pas la présente restitution.",
+      "certainty": "Élevé : localisation à Pella ; grande résidence de la fin du IVe siècle av. J.-C. ; existence de deux cours à portiques de types dorique et ionique ; salles de réception et mosaïques de galets. Moyen : organisation et passage entre les deux cours ; superficies publiées ; interprétation d’un étage dans l’aile méridionale ; décor mural coloré et mobilier de banquet de type macédonien. Faible : disposition exacte des toits et des ouvertures ; scène de banquet et choix des personnages ; emplacement du bassin, des plantes et des amphores ; dessin précis du pavage visible, peinture décorative, textures, paysage et lumière.",
+      "source_url": "https://culturalegnatia.culture.gov.gr/en/route-stops/pella/",
+      "secondary_sources": [
+        "https://pella.ime.gr/en.html",
+        "https://www.palaceofpella.gr/ancient-pella-the-areas-and-the-monuments/?lang=en",
+        "https://historica.unibo.it/entities/publication/2c4a41d0-efc7-4cf5-96d7-e7e17891b279"
+      ],
+      "src": "/assets/reconstitutions-3d/pella-maison-dionysos-peristyles-vers-300-av-jc.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-06",
+      "type": "reconstitution photoréaliste numérique à apparence 3D, non métrique et non photogrammétrique",
+      "provenance": "Image originale créée pour MYTHOS par génération numérique ; sans menus, titres, schémas 2,5D ni texte dans les pixels. Les institutions citées n’ont pas validé cette illustration.",
+      "sha256": "67e010d2923766e10c693e1de19ed6ed1dde61a8bc81acf73538afc54091987a",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/pella-maison-dionysos-peristyles-vers-300-av-jc.json"
     }
   ]
 }
