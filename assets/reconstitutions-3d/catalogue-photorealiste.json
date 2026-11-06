@@ -2,7 +2,7 @@
   "generated_at": "2026-11-06",
   "site": "bobmythos.fr",
   "method": "Illustrations photoréalistes interprétatives, textes et sources hors des pixels.",
-  "count": 78,
+  "count": 79,
   "entries": [
     {
       "id": "DEL-PAN-001",
@@ -2298,6 +2298,53 @@
         "Documentation principale archéologique et institutionnelle : absence de source ancienne permettant de restituer les façades précises de l'agora vers 190 av. J.-C."
       ],
       "methodology": "Restitution interprétative de synthèse sur la base de descriptions archéologiques ; aucun relevé métrique ou alignement de phase stratigraphique des élévations proposées.",
+      "publication_status": "fichier_prepare_non_publie_deploiement_https_a_verifier"
+    },
+    {
+      "id": "THR-APO-001",
+      "slug": "thermos-apollon-thermios-temple-archaique-vers-620-av-jc",
+      "title": "Thermos (Étolie) — premier temple d’Apollon Thermios en bois et terre cuite, vers 620 av. J.-C.",
+      "period": "Époque archaïque ancienne, vers 620 av. J.-C. ; état interprétatif antérieur aux reconstructions et ajouts hellénistiques.",
+      "caption": "Reconstitution photoréaliste interprétative du premier temple d’Apollon Thermios : long péristyle archaïque en bois, métopes peintes et antéfixes de terre cuite. Vue non métrique, couleurs et figures conjecturales.",
+      "commentary": "Le sanctuaire de Thermos, en Étolie (Grèce occidentale), occupe une position intérieure proche du lac Trichonida et devint le foyer religieux puis politique du Koinon étolien. La nouvelle restitution représente le premier grand temple d’Apollon Thermios, vers 620 av. J.-C., et non son remaniement hellénistique. Selon l’Éphorie des Antiquités d’Étolie-Acarnanie et de Leucade, ce temple, construit à l’emplacement du Mégaron B plus ancien, présente un péristyle particulièrement allongé de cinq colonnes sur les petits côtés et quinze sur les longs côtés, un axe nord-sud inhabituel et une emprise d’environ 38,23 × 12,13 m. Le premier état monumental était caractérisé par une architecture majoritairement en bois — colonnes et éléments de superstructure — sur des fondations et bases de pierre, avec couvertures et revêtements architecturaux de terre cuite. Des métopes peintes de scènes mythologiques, des antéfixes à visages et des têtes de protomés constituent des témoins particulièrement importants de la peinture grecque archaïque. Les fragments conservés au Musée archéologique de Thermos attestent un décor de terre cuite et une polychromie, mais n’imposent pas la distribution imagée, la palette exacte ni les silhouettes inventées dans ce visuel. Un espace cultuel à ciel ouvert existait sur le site pendant les VIIIe et VIIe siècles, après la destruction du Mégaron B à la fin du IXe ou au début du VIIIe siècle : le temple monumental ne doit donc pas être confondu avec cette première phase cultuelle. Au IVe et surtout au IIIe siècle av. J.-C., le sanctuaire devint un grand espace politique doté de stoas, archives, bâtiments publics et fortifications ; ces constructions tardives sont volontairement exclues de la vue datée vers 620. La représentation montre un temple couvert à colonnade extérieure en bois, des appliques décoratives polychromes et un petit autel fumant devant sa façade, dans un paysage méditerranéen intérieur avec relief et eau à l’horizon. La silhouette du fronton et ses motifs figurés, le nombre de colonnes que la perspective laisse voir, l’élévation des piliers, la hauteur du toit, les galbes des chapiteaux, les dispositifs de drainage, les motifs précis des métopes, les cheminements, les figurants et la proximité apparente du lac sont des choix visuels et non des données archéométriques. L’image constitue une évocation documentaire contemporaine, sans modèle 3D mesurable ni restitution certifiée par l’Éphorie, le Musée de Thermos ou les autres institutions citées. Aucune interface, menu ou typographie n’est incrustée dans le fichier.",
+      "certainty": "Élevé — existence du sanctuaire d’Apollon Thermios à Thermos ; site lié à l’ancien Mégaron B ; monument archaïque édifié vers 620 av. J.-C. ; plan allongé, péristasis 5 × 15, orientation nord-sud et dimensions d’environ 38,23 × 12,13 m attestés par l’Éphorie ; construction première en bois avec éléments de terre cuite peints et bases de pierre. Moyen — restitution typologique d’un péristyle et d’une toiture achevés ; couleur générale des revêtements et logique des antéfixes ; localisation relative de l’autel dans le sanctuaire. Faible — sculpture ou peinture figurée précise du fronton, scénographie des métopes, teinte et section des colonnes, profil des chapiteaux, hauteur des éléments, état simultané de toutes les parties du bâtiment, proximité visible du lac, paysage végétal, figurants, costumes, traces de fumée, ombres et point de vue.",
+      "source_url": "https://www.efaaitl.gr/arch_sites/%CE%B1%CF%81%CF%87%CE%B1%CE%B9%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CE%BA%CE%BF%CF%83-%CF%87%CF%89%CF%81%CE%BF%CF%83-%CE%B8%CE%B5%CF%81%CE%BC%CE%BF%CF%85/",
+      "secondary_sources": [
+        "https://www.hh.gr/en/destinations/thermos/",
+        "https://archaeologicalmuseums.culture.gov.gr/en/museum/5df34af3deca5e2d79e8c16c/archaeological-museum-of-thermos",
+        "https://www.persee.fr/doc/reg_0035-2039_1901_num_14_61_6088"
+      ],
+      "src": "/assets/reconstitutions-3d/thermos-apollon-thermios-temple-archaique-vers-620-av-jc.webp",
+      "image": "/assets/reconstitutions-3d/thermos-apollon-thermios-temple-archaique-vers-620-av-jc.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-06",
+      "type": "reconstitution numérique photoréaliste interprétative à apparence 3D, non métrique",
+      "provenance": "Image originale créée avec génération visuelle assistée par IA pour MYTHOS ; aucun relevé métrique, aucune validation archéologique institutionnelle, aucun menu ni texte incrusté.",
+      "sha256": "d3ddd820ad180eb7e5802c4d8a084d034345fbf633e5f31094de0c02c86f50de",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/thermos-apollon-thermios-temple-archaique-vers-620-av-jc.json",
+      "scientific_sources": [
+        {
+          "label": "Éphorie des Antiquités d’Étolie-Acarnanie et de Leucade — Thermos, historique, plan et vestiges (grec)",
+          "url": "https://www.efaaitl.gr/arch_sites/%CE%B1%CF%81%CF%87%CE%B1%CE%B9%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CE%BA%CE%BF%CF%83-%CF%87%CF%89%CF%81%CE%BF%CF%83-%CE%B8%CE%B5%CF%81%CE%BC%CE%BF%CF%85/"
+        },
+        {
+          "label": "Hellenic Heritage — Thermos, sanctuaire panétolien d’Apollon",
+          "url": "https://www.hh.gr/en/destinations/thermos/"
+        },
+        {
+          "label": "Ministère grec de la Culture — Musée archéologique de Thermos, collections du sanctuaire",
+          "url": "https://archaeologicalmuseums.culture.gov.gr/en/museum/5df34af3deca5e2d79e8c16c/archaeological-museum-of-thermos"
+        },
+        {
+          "label": "Henri Lechat, « Le temple de Thermos », Revue des Études Grecques 14 (1901), p. 409–479 (réception ancienne des fouilles)",
+          "url": "https://www.persee.fr/doc/reg_0035-2039_1901_num_14_61_6088"
+        }
+      ],
+      "primary_texts": [
+        "Documentation archéologique et rapports de fouilles ; pour ce monument, les données architecturales mobilisées proviennent surtout des vestiges et de leur interprétation moderne."
+      ],
+      "methodology": "Synthèse artistique explicitement non métrique ; l’ordonnance 5 × 15 et l’architecture bois/terre cuite documentées ne garantissent pas la fidélité des proportions affichées ni l’iconographie inventée des plaques.",
       "publication_status": "fichier_prepare_non_publie_deploiement_https_a_verifier"
     }
   ]
