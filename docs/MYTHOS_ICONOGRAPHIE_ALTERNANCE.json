@@ -5,63 +5,91 @@
   "branch": "main",
   "latest_session": {
     "date": "2026-11-06",
-    "kind": "AUDIT ET CORRECTION",
-    "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "scope": "Séance 63 : audit post-iconographie de la PR 62 fusionnée, vérifications HTML et liens de onze pages, et correction du test d'alternance figé sur la séance 62.",
-    "basis_commit": "e025f7d46e8b32948d32a5b2e5ffaad57caa0158",
-    "verified_issue": "tests/test_iconography_session62_epics.py imposait que latest_session.scope commence toujours par « Séance 62 : » ; l'ajout normal de la séance 63 entraînerait un échec de CI.",
-    "correction": "Retrouver l'unique séance 62 dans history par son scope, vérifier le précédent, le suivant si présent et le seuil de pagination A4 historique, sans exiger qu'elle reste la dernière.",
-    "prior_merge": {
-      "pull_request": 62,
-      "merge_commit": "e025f7d46e8b32948d32a5b2e5ffaad57caa0158",
-      "validation_run": 42154136452,
-      "validation_status": "success",
-      "integrity_run": 42154136332,
-      "integrity_status": "success"
-    },
-    "audit_evidence": {
-      "checked_html_pages": 11,
-      "checked_pages": [
-        "index.html",
-        "mythologie-grecque/index.html",
-        "origines-du-sacre/index.html",
-        "philosophie/index.html",
-        "philosophie-iliade.html",
-        "philosophie-odyssee.html",
-        "philosophie-theogonie.html",
-        "heros-achille/index.html",
-        "heros-hector/index.html",
-        "heros-penelope/index.html",
-        "reconstitutions-photorealistes.html"
-      ],
-      "internal_fragments_checked": 521,
-      "broken_same_page_fragments": 0,
-      "images_checked": 280,
-      "images_without_alt": 0,
-      "duplicate_html_ids": 0,
-      "local_source_references_checked": 2499,
-      "missing_local_source_targets": 0,
-      "stylesheets_referenced": 50,
-      "local_js_references": 28,
-      "viewport_present_on_all_checked_pages": true,
-      "h1_count_one_per_checked_page": true,
-      "full_repo_tree_entries_at_first_read": 5461,
-      "public_manifest_source_commit": "fabb3cd46c62a177bb0541b23015339a60ebcc1e",
-      "public_manifest_run_id": 42153925962,
-      "session62_figures_observed_on_live_pages": false,
-      "public_deployment": "Manifeste HTTPS et trois pages publiques consultés ; absence des identifiants des figures séance 62. Publication du commit fusionné non confirmée.",
-      "reference_verification": "Homère Iliade XVII et Odyssée XII (Theoi). Objet Aphrodite/oie-cygne : British Museum D2, attribution Pistoxénos vers 460 av. J.-C. confirmée par l'INHA (AGORHA).",
-      "limitations": "Audit statique ciblé de 11 pages, non audit HTML complet de 1 642 pages ; sans test navigateur visuel responsive ni campagne exhaustive HTTP des liens externes. Résultat de la CI du nouveau commit à contrôler."
-    },
-    "changed_files": [
-      "tests/test_iconography_session62_epics.py",
-      "docs/MYTHOS_ICONOGRAPHIE_ALTERNANCE.json"
+    "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "previous_kind": "AUDIT ET CORRECTION",
+    "next_kind": "AUDIT ET CORRECTION",
+    "scope": "Séance 64 : trois photographies historiques contextualisées dans l'Iliade (Porte des Lionnes), l'Odyssée (Ménélas et Hélène sur stamnos) et la Théogonie (papyrus de Derveni et traditions orphiques).",
+    "basis_commit": "c41f82e497441a61bf987423ae73e57034acd44a",
+    "pages_modified": [
+      "philosophie-iliade.html",
+      "philosophie-odyssee.html",
+      "philosophie-theogonie.html"
     ],
-    "preservation": "Aucune modification des textes universitaires, ressources SVG/JPG/WebP, numéros, chapitres, slugs, registre éditorial, navigation ou workflows/horaires.",
-    "commits": [],
-    "publication_status": "Correction commitée sur GitHub uniquement ; déploiement HTTPS à vérifier séparément.",
-    "obstacles": "Exécutions GitHub Pages concurrentes / annulées et manifeste public encore antérieur au merge de la séance 62."
+    "new_media_files": 0,
+    "reused_media": [
+      "media/2026/10/mythos-mycene-porte-lionnes-zde-2020.jpg",
+      "media/2026/10/mythos-helene-menelas-stamnos-deepdene-met-41-162-20.jpg",
+      "media/2026/10/mythos-derveni-papyrus-fragments-thessalonique-gts-tg.jpg"
+    ],
+    "figures": [
+      {
+        "id": "icono-iliade-mycene-porte-lionnes-s64-20261106",
+        "page": "philosophie-iliade.html",
+        "source": "/media/2026/10/mythos-mycene-porte-lionnes-zde-2020.jpg",
+        "authority": "whc.unesco.org/en/list/941"
+      },
+      {
+        "id": "icono-odyssee-menelas-helene-stamnos-s64-20261106",
+        "page": "philosophie-odyssee.html",
+        "source": "/media/2026/10/mythos-helene-menelas-stamnos-deepdene-met-41-162-20.jpg",
+        "authority": "metmuseum.org/art/collection/search/254187"
+      },
+      {
+        "id": "icono-theogonie-derveni-commentaire-s64-20261106",
+        "page": "philosophie-theogonie.html",
+        "source": "/media/2026/10/mythos-derveni-papyrus-fragments-thessalonique-gts-tg.jpg",
+        "authority": "unesco.org/fr/memory-world/derveni-papyrus-oldest-book-europe"
+      }
+    ],
+    "precommit_audit": [
+      {
+        "page": "philosophie-iliade.html",
+        "anchors": 111,
+        "broken": 0,
+        "img_old": 37,
+        "img_new": 38,
+        "alt_missing": 0,
+        "duplicate_ids": 0,
+        "local_refs": 137,
+        "missing": 0
+      },
+      {
+        "page": "philosophie-odyssee.html",
+        "anchors": 111,
+        "broken": 0,
+        "img_old": 36,
+        "img_new": 37,
+        "alt_missing": 0,
+        "duplicate_ids": 0,
+        "local_refs": 134,
+        "missing": 0
+      },
+      {
+        "page": "philosophie-theogonie.html",
+        "anchors": 113,
+        "broken": 0,
+        "img_old": 36,
+        "img_new": 37,
+        "alt_missing": 0,
+        "duplicate_ids": 0,
+        "local_refs": 137,
+        "missing": 0
+      }
+    ],
+    "sources_verified": [
+      "UNESCO patrimoine mondial Mycènes-Tirynthe",
+      "The Met 41.162.20a,b",
+      "UNESCO Mémoire du monde Derveni",
+      "Wikimedia Commons Zde CC BY-SA 4.0, The Met CC0, Gts-tg CC BY-SA 4.0"
+    ],
+    "previous_a4_page_counts": {
+      "iliade": 107,
+      "odyssee": 101,
+      "theogonie": 103
+    },
+    "preservation": "Ajout HTML strictement insertionnel. Textes, ancres, anciens médias, CSS/JS, navigation, collections numérotées, registres et automatisations inchangés.",
+    "public_deployment": "À contrôler sur bobmythos.fr après éventuelle fusion et workflow réussi ; la PR ne vaut pas publication.",
+    "limits": "Contrôle statique ciblé ; mesures A4 anciennes non recalculées ; vérification visuelle responsive et liens externes exhaustifs non effectués."
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
   "history": [
@@ -3783,6 +3811,94 @@
       "commits": [],
       "publication_status": "Correction commitée sur GitHub uniquement ; déploiement HTTPS à vérifier séparément.",
       "obstacles": "Exécutions GitHub Pages concurrentes / annulées et manifeste public encore antérieur au merge de la séance 62."
+    },
+    {
+      "date": "2026-11-06",
+      "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "previous_kind": "AUDIT ET CORRECTION",
+      "next_kind": "AUDIT ET CORRECTION",
+      "scope": "Séance 64 : trois photographies historiques contextualisées dans l'Iliade (Porte des Lionnes), l'Odyssée (Ménélas et Hélène sur stamnos) et la Théogonie (papyrus de Derveni et traditions orphiques).",
+      "basis_commit": "c41f82e497441a61bf987423ae73e57034acd44a",
+      "pages_modified": [
+        "philosophie-iliade.html",
+        "philosophie-odyssee.html",
+        "philosophie-theogonie.html"
+      ],
+      "new_media_files": 0,
+      "reused_media": [
+        "media/2026/10/mythos-mycene-porte-lionnes-zde-2020.jpg",
+        "media/2026/10/mythos-helene-menelas-stamnos-deepdene-met-41-162-20.jpg",
+        "media/2026/10/mythos-derveni-papyrus-fragments-thessalonique-gts-tg.jpg"
+      ],
+      "figures": [
+        {
+          "id": "icono-iliade-mycene-porte-lionnes-s64-20261106",
+          "page": "philosophie-iliade.html",
+          "source": "/media/2026/10/mythos-mycene-porte-lionnes-zde-2020.jpg",
+          "authority": "whc.unesco.org/en/list/941"
+        },
+        {
+          "id": "icono-odyssee-menelas-helene-stamnos-s64-20261106",
+          "page": "philosophie-odyssee.html",
+          "source": "/media/2026/10/mythos-helene-menelas-stamnos-deepdene-met-41-162-20.jpg",
+          "authority": "metmuseum.org/art/collection/search/254187"
+        },
+        {
+          "id": "icono-theogonie-derveni-commentaire-s64-20261106",
+          "page": "philosophie-theogonie.html",
+          "source": "/media/2026/10/mythos-derveni-papyrus-fragments-thessalonique-gts-tg.jpg",
+          "authority": "unesco.org/fr/memory-world/derveni-papyrus-oldest-book-europe"
+        }
+      ],
+      "precommit_audit": [
+        {
+          "page": "philosophie-iliade.html",
+          "anchors": 111,
+          "broken": 0,
+          "img_old": 37,
+          "img_new": 38,
+          "alt_missing": 0,
+          "duplicate_ids": 0,
+          "local_refs": 137,
+          "missing": 0
+        },
+        {
+          "page": "philosophie-odyssee.html",
+          "anchors": 111,
+          "broken": 0,
+          "img_old": 36,
+          "img_new": 37,
+          "alt_missing": 0,
+          "duplicate_ids": 0,
+          "local_refs": 134,
+          "missing": 0
+        },
+        {
+          "page": "philosophie-theogonie.html",
+          "anchors": 113,
+          "broken": 0,
+          "img_old": 36,
+          "img_new": 37,
+          "alt_missing": 0,
+          "duplicate_ids": 0,
+          "local_refs": 137,
+          "missing": 0
+        }
+      ],
+      "sources_verified": [
+        "UNESCO patrimoine mondial Mycènes-Tirynthe",
+        "The Met 41.162.20a,b",
+        "UNESCO Mémoire du monde Derveni",
+        "Wikimedia Commons Zde CC BY-SA 4.0, The Met CC0, Gts-tg CC BY-SA 4.0"
+      ],
+      "previous_a4_page_counts": {
+        "iliade": 107,
+        "odyssee": 101,
+        "theogonie": 103
+      },
+      "preservation": "Ajout HTML strictement insertionnel. Textes, ancres, anciens médias, CSS/JS, navigation, collections numérotées, registres et automatisations inchangés.",
+      "public_deployment": "À contrôler sur bobmythos.fr après éventuelle fusion et workflow réussi ; la PR ne vaut pas publication.",
+      "limits": "Contrôle statique ciblé ; mesures A4 anciennes non recalculées ; vérification visuelle responsive et liens externes exhaustifs non effectués."
     }
   ]
 }
