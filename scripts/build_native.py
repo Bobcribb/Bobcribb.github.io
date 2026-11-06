@@ -463,6 +463,9 @@ def main():
     from editorial_concordances import install as install_editorial_concordances
     print('Concordances canoniques et Laconie :',
           install_editorial_concordances(ROOT, OUT))
+    from origines_khaybar_concordance import install as install_khaybar_concordance
+    print('Origines — concordance Khaybar/al-ʿUlā 698/699 :',
+          install_khaybar_concordance(ROOT, OUT))
     # Ce panneau est bâti uniquement sur les allocations reçues et les pages
     # intégrales du rendu ; aucune nouvelle cote ni copie d'étude n'est créée.
     from recent_studies import install as install_recent_studies
