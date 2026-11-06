@@ -7,6 +7,7 @@ import hashlib
 from html.parser import HTMLParser
 import json
 from pathlib import Path
+from xml.etree import ElementTree
 import time
 from urllib.request import Request, urlopen
 from bs4 import BeautifulSoup
@@ -51,7 +52,7 @@ def svg_inventory(root):
             if not path.is_file():
                 raise RuntimeError(f"Illustration SVG absente du build : {source}")
             contents = path.read_bytes()
-            if b"<svg" not in contents[:1024]:
+            if not valid_local_illustration(source, contents):
                 raise RuntimeError(f"Illustration SVG invalide : {source}")
             digests[source] = hashlib.sha256(contents).hexdigest()
     return page_sources, digests
@@ -76,7 +77,7 @@ def verify_public_svgs(base, root):
         source, digest = entry
         try:
             status, _, body = fetch(base + source)
-            valid = (status == 200 and b"<svg" in body[:1024]
+            valid = (status == 200 and valid_local_illustration(source, body)
                      and hashlib.sha256(body).hexdigest() == digest)
             return {"url": source, "valid": valid, "status": status,
                     "sha256_matches_build": valid}
@@ -141,8 +142,7 @@ def figure_inventory(root):
         pages[page] = figure_metadata(html, fid, src)
         path = root / src.lstrip("/")
         body = path.read_bytes()
-        valid = (len(body) >= 12 and body[:4] == b"RIFF" and body[8:12] == b"WEBP"
-                 if src.endswith(".webp") else b"<svg" in body[:2048])
+        valid = valid_local_illustration(src, body)
         if not valid:
             raise ValueError("Image absente ou invalide : " + src)
         assets[src] = hashlib.sha256(body).hexdigest()
@@ -169,8 +169,7 @@ def verify_public_figures(base, root):
         src, digest = entry
         try:
             status, _, body = fetch(base + src)
-            magic = (len(body) >= 12 and body[:4] == b"RIFF" and body[8:12] == b"WEBP"
-                     if src.endswith(".webp") else b"<svg" in body[:2048])
+            magic = valid_local_illustration(src, body)
             valid = status == 200 and magic and hashlib.sha256(body).hexdigest() == digest
             return {"url": src, "valid": valid, "sha256_matches_build": valid}
         except Exception as error:
@@ -371,7 +370,11 @@ def valid_local_illustration(src, body):
     if src.lower().endswith(".webp"):
         return len(body) >= 12 and body[:4] == b"RIFF" and body[8:12] == b"WEBP"
     if src.lower().endswith(".svg"):
-        return b"<svg" in body[:2048]
+        try:
+            root = ElementTree.fromstring(body)
+        except (ElementTree.ParseError, ValueError):
+            return False
+        return root.tag in ("svg", "{http://www.w3.org/2000/svg}svg")
     return False
 
 
