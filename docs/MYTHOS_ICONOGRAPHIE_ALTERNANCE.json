@@ -8,60 +8,61 @@
     "kind": "AUDIT ET CORRECTION",
     "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
     "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "scope": "Séance 63 : audit post-iconographie de la PR 62 fusionnée, vérifications HTML et liens de onze pages, et correction du test d'alternance figé sur la séance 62.",
-    "basis_commit": "e025f7d46e8b32948d32a5b2e5ffaad57caa0158",
-    "verified_issue": "tests/test_iconography_session62_epics.py imposait que latest_session.scope commence toujours par « Séance 62 : » ; l'ajout normal de la séance 63 entraînerait un échec de CI.",
-    "correction": "Retrouver l'unique séance 62 dans history par son scope, vérifier le précédent, le suivant si présent et le seuil de pagination A4 historique, sans exiger qu'elle reste la dernière.",
-    "prior_merge": {
-      "pull_request": 62,
-      "merge_commit": "e025f7d46e8b32948d32a5b2e5ffaad57caa0158",
-      "validation_run": 42154136452,
-      "validation_status": "success",
-      "integrity_run": 42154136332,
-      "integrity_status": "success"
-    },
-    "audit_evidence": {
-      "checked_html_pages": 11,
-      "checked_pages": [
-        "index.html",
-        "mythologie-grecque/index.html",
-        "origines-du-sacre/index.html",
-        "philosophie/index.html",
+    "scope": "Séance 65 : audit de la PR 65 (iconographie de la séance 64), réparation du test de contexte HTML et contrôle ciblé des liens, médias, légendes, CSS/JS, numérotation et déploiement.",
+    "basis_commit": "4e328053bcb811a53627cf609f5e4bb15c11f5b7",
+    "verified_issue": "Le run GitHub Actions 42159205218 (séance 64) a échoué sur 3 erreurs : le test supposait que les <h2 id=lecture-section-*> sont des <section>, alors qu'ils sont directement des titres. Les figures sont correctement placées après le titre ; la structure HTML réelle a été vérifiée dans les 3 pages.",
+    "correction": "Remplacer dans tests/test_iconography_session64_antique_artifacts.py la recherche d'un conteneur <section id=...> inexistant par la vérification du titre <h2> précédent de chaque figure. Commit 4e328053bcb811a53627cf609f5e4bb15c11f5b7, fichier relu après commit.",
+    "checks": {
+      "branch": "mythos-iconographie-s64-20261106",
+      "pull_request": 65,
+      "affected_pages": [
         "philosophie-iliade.html",
         "philosophie-odyssee.html",
-        "philosophie-theogonie.html",
-        "heros-achille/index.html",
-        "heros-hector/index.html",
-        "heros-penelope/index.html",
-        "reconstitutions-photorealistes.html"
+        "philosophie-theogonie.html"
       ],
-      "internal_fragments_checked": 521,
-      "broken_same_page_fragments": 0,
-      "images_checked": 280,
-      "images_without_alt": 0,
+      "seven_pages_static_audit": true,
+      "checked_pages": 7,
+      "internal_fragment_links": 386,
+      "broken_fragment_links": 0,
+      "images": 144,
+      "images_missing_alt": 0,
       "duplicate_html_ids": 0,
-      "local_source_references_checked": 2499,
-      "missing_local_source_targets": 0,
-      "stylesheets_referenced": 50,
-      "local_js_references": 28,
-      "viewport_present_on_all_checked_pages": true,
-      "h1_count_one_per_checked_page": true,
-      "full_repo_tree_entries_at_first_read": 5461,
-      "public_manifest_source_commit": "fabb3cd46c62a177bb0541b23015339a60ebcc1e",
-      "public_manifest_run_id": 42153925962,
-      "session62_figures_observed_on_live_pages": false,
-      "public_deployment": "Manifeste HTTPS et trois pages publiques consultés ; absence des identifiants des figures séance 62. Publication du commit fusionné non confirmée.",
-      "reference_verification": "Homère Iliade XVII et Odyssée XII (Theoi). Objet Aphrodite/oie-cygne : British Museum D2, attribution Pistoxénos vers 460 av. J.-C. confirmée par l'INHA (AGORHA).",
-      "limitations": "Audit statique ciblé de 11 pages, non audit HTML complet de 1 642 pages ; sans test navigateur visuel responsive ni campagne exhaustive HTTP des liens externes. Résultat de la CI du nouveau commit à contrôler."
+      "local_references": 662,
+      "missing_local_files": 0,
+      "stylesheets_referenced": 34,
+      "script_references": 17,
+      "viewport_declared_on_all_checked_pages": true,
+      "css_responsive_media_query_counts": {
+        "assets/style.css": 32,
+        "assets/mythos-refonte.css": 10,
+        "assets/mythos-museum.css": 65,
+        "assets/mythos-discovery.css": 7
+      },
+      "scientific_sources": "Les notices institutionnelles UNESCO (Mycènes, Derveni) et Met (stamnos 41.162.20a,b) ont été contrôlées. La photographie de la Porte des Lionnes par Zde, 22 septembre 2020, est CC BY-SA 4.0 sur Commons.",
+      "numbering_registry_audit": {
+        "origines-du-sacre": 119,
+        "encyclopedie": 97,
+        "comedies": 64,
+        "tragedies": 60,
+        "comparatif": 128
+      },
+      "allocation_number_collisions": 0,
+      "allocation_path_collisions": 0,
+      "missing_allocated_paths": 0,
+      "public_manifest_source_commit": "00c888fd4b1f2d9a83beb82c40012f2eceb562a4",
+      "public_manifest_run_id": 42163598977,
+      "public_s62_figure_ids_found": 3,
+      "public_s64_figure_ids_found": 0,
+      "public_deployment": "Séance 62 vérifiée sur les trois pages HTTPS ; séance 64 non publiée au contrôle. Ne pas prétendre à une publication de la PR 65.",
+      "ci_status": "Nouveaux runs 42165130969 (générateur) et 42165130971 (audit) encore en cours lors de l'audit ; la fusion reste subordonnée à un contrôle de leur conclusion et à l'absence de conflits."
     },
-    "changed_files": [
-      "tests/test_iconography_session62_epics.py",
+    "files_modified": [
+      "tests/test_iconography_session64_antique_artifacts.py",
       "docs/MYTHOS_ICONOGRAPHIE_ALTERNANCE.json"
     ],
-    "preservation": "Aucune modification des textes universitaires, ressources SVG/JPG/WebP, numéros, chapitres, slugs, registre éditorial, navigation ou workflows/horaires.",
-    "commits": [],
-    "publication_status": "Correction commitée sur GitHub uniquement ; déploiement HTTPS à vérifier séparément.",
-    "obstacles": "Exécutions GitHub Pages concurrentes / annulées et manifeste public encore antérieur au merge de la séance 62."
+    "preservation": "Aucun changement des études scientifiques, figures, licences, médias, numéros, registre éditorial, CSS/JS, menus ou automatisations horaires.",
+    "limitations": "Contrôle statique de 7 pages, non un audit exhaustif de 1 642 pages. Rendu navigateur responsive et couverture HTTP exhaustive des URL externes non réalisés. Publication de la séance 64 non confirmée.",
+    "next_session": "Séance 66 — ENRICHISSEMENT ICONOGRAPHIQUE"
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
   "history": [
@@ -3783,6 +3784,155 @@
       "commits": [],
       "publication_status": "Correction commitée sur GitHub uniquement ; déploiement HTTPS à vérifier séparément.",
       "obstacles": "Exécutions GitHub Pages concurrentes / annulées et manifeste public encore antérieur au merge de la séance 62."
+    },
+    {
+      "date": "2026-11-06",
+      "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "previous_kind": "AUDIT ET CORRECTION",
+      "next_kind": "AUDIT ET CORRECTION",
+      "scope": "Séance 64 : trois photographies historiques contextualisées dans l'Iliade (Porte des Lionnes), l'Odyssée (Ménélas et Hélène sur stamnos) et la Théogonie (papyrus de Derveni et traditions orphiques).",
+      "basis_commit": "c41f82e497441a61bf987423ae73e57034acd44a",
+      "pages_modified": [
+        "philosophie-iliade.html",
+        "philosophie-odyssee.html",
+        "philosophie-theogonie.html"
+      ],
+      "new_media_files": 0,
+      "reused_media": [
+        "media/2026/10/mythos-mycene-porte-lionnes-zde-2020.jpg",
+        "media/2026/10/mythos-helene-menelas-stamnos-deepdene-met-41-162-20.jpg",
+        "media/2026/10/mythos-derveni-papyrus-fragments-thessalonique-gts-tg.jpg"
+      ],
+      "figures": [
+        {
+          "id": "icono-iliade-mycene-porte-lionnes-s64-20261106",
+          "page": "philosophie-iliade.html",
+          "source": "/media/2026/10/mythos-mycene-porte-lionnes-zde-2020.jpg",
+          "authority": "whc.unesco.org/en/list/941"
+        },
+        {
+          "id": "icono-odyssee-menelas-helene-stamnos-s64-20261106",
+          "page": "philosophie-odyssee.html",
+          "source": "/media/2026/10/mythos-helene-menelas-stamnos-deepdene-met-41-162-20.jpg",
+          "authority": "metmuseum.org/art/collection/search/254187"
+        },
+        {
+          "id": "icono-theogonie-derveni-commentaire-s64-20261106",
+          "page": "philosophie-theogonie.html",
+          "source": "/media/2026/10/mythos-derveni-papyrus-fragments-thessalonique-gts-tg.jpg",
+          "authority": "unesco.org/fr/memory-world/derveni-papyrus-oldest-book-europe"
+        }
+      ],
+      "precommit_audit": [
+        {
+          "page": "philosophie-iliade.html",
+          "anchors": 111,
+          "broken": 0,
+          "img_old": 37,
+          "img_new": 38,
+          "alt_missing": 0,
+          "duplicate_ids": 0,
+          "local_refs": 137,
+          "missing": 0
+        },
+        {
+          "page": "philosophie-odyssee.html",
+          "anchors": 111,
+          "broken": 0,
+          "img_old": 36,
+          "img_new": 37,
+          "alt_missing": 0,
+          "duplicate_ids": 0,
+          "local_refs": 134,
+          "missing": 0
+        },
+        {
+          "page": "philosophie-theogonie.html",
+          "anchors": 113,
+          "broken": 0,
+          "img_old": 36,
+          "img_new": 37,
+          "alt_missing": 0,
+          "duplicate_ids": 0,
+          "local_refs": 137,
+          "missing": 0
+        }
+      ],
+      "sources_verified": [
+        "UNESCO patrimoine mondial Mycènes-Tirynthe",
+        "The Met 41.162.20a,b",
+        "UNESCO Mémoire du monde Derveni",
+        "Wikimedia Commons Zde CC BY-SA 4.0, The Met CC0, Gts-tg CC BY-SA 4.0"
+      ],
+      "previous_a4_page_counts": {
+        "iliade": 107,
+        "odyssee": 101,
+        "theogonie": 103
+      },
+      "preservation": "Ajout HTML strictement insertionnel. Textes, ancres, anciens médias, CSS/JS, navigation, collections numérotées, registres et automatisations inchangés.",
+      "public_deployment": "À contrôler sur bobmythos.fr après éventuelle fusion et workflow réussi ; la PR ne vaut pas publication.",
+      "limits": "Contrôle statique ciblé ; mesures A4 anciennes non recalculées ; vérification visuelle responsive et liens externes exhaustifs non effectués."
+    },
+    {
+      "date": "2026-11-06",
+      "kind": "AUDIT ET CORRECTION",
+      "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "scope": "Séance 65 : audit de la PR 65 (iconographie de la séance 64), réparation du test de contexte HTML et contrôle ciblé des liens, médias, légendes, CSS/JS, numérotation et déploiement.",
+      "basis_commit": "4e328053bcb811a53627cf609f5e4bb15c11f5b7",
+      "verified_issue": "Le run GitHub Actions 42159205218 (séance 64) a échoué sur 3 erreurs : le test supposait que les <h2 id=lecture-section-*> sont des <section>, alors qu'ils sont directement des titres. Les figures sont correctement placées après le titre ; la structure HTML réelle a été vérifiée dans les 3 pages.",
+      "correction": "Remplacer dans tests/test_iconography_session64_antique_artifacts.py la recherche d'un conteneur <section id=...> inexistant par la vérification du titre <h2> précédent de chaque figure. Commit 4e328053bcb811a53627cf609f5e4bb15c11f5b7, fichier relu après commit.",
+      "checks": {
+        "branch": "mythos-iconographie-s64-20261106",
+        "pull_request": 65,
+        "affected_pages": [
+          "philosophie-iliade.html",
+          "philosophie-odyssee.html",
+          "philosophie-theogonie.html"
+        ],
+        "seven_pages_static_audit": true,
+        "checked_pages": 7,
+        "internal_fragment_links": 386,
+        "broken_fragment_links": 0,
+        "images": 144,
+        "images_missing_alt": 0,
+        "duplicate_html_ids": 0,
+        "local_references": 662,
+        "missing_local_files": 0,
+        "stylesheets_referenced": 34,
+        "script_references": 17,
+        "viewport_declared_on_all_checked_pages": true,
+        "css_responsive_media_query_counts": {
+          "assets/style.css": 32,
+          "assets/mythos-refonte.css": 10,
+          "assets/mythos-museum.css": 65,
+          "assets/mythos-discovery.css": 7
+        },
+        "scientific_sources": "Les notices institutionnelles UNESCO (Mycènes, Derveni) et Met (stamnos 41.162.20a,b) ont été contrôlées. La photographie de la Porte des Lionnes par Zde, 22 septembre 2020, est CC BY-SA 4.0 sur Commons.",
+        "numbering_registry_audit": {
+          "origines-du-sacre": 119,
+          "encyclopedie": 97,
+          "comedies": 64,
+          "tragedies": 60,
+          "comparatif": 128
+        },
+        "allocation_number_collisions": 0,
+        "allocation_path_collisions": 0,
+        "missing_allocated_paths": 0,
+        "public_manifest_source_commit": "00c888fd4b1f2d9a83beb82c40012f2eceb562a4",
+        "public_manifest_run_id": 42163598977,
+        "public_s62_figure_ids_found": 3,
+        "public_s64_figure_ids_found": 0,
+        "public_deployment": "Séance 62 vérifiée sur les trois pages HTTPS ; séance 64 non publiée au contrôle. Ne pas prétendre à une publication de la PR 65.",
+        "ci_status": "Nouveaux runs 42165130969 (générateur) et 42165130971 (audit) encore en cours lors de l'audit ; la fusion reste subordonnée à un contrôle de leur conclusion et à l'absence de conflits."
+      },
+      "files_modified": [
+        "tests/test_iconography_session64_antique_artifacts.py",
+        "docs/MYTHOS_ICONOGRAPHIE_ALTERNANCE.json"
+      ],
+      "preservation": "Aucun changement des études scientifiques, figures, licences, médias, numéros, registre éditorial, CSS/JS, menus ou automatisations horaires.",
+      "limitations": "Contrôle statique de 7 pages, non un audit exhaustif de 1 642 pages. Rendu navigateur responsive et couverture HTTP exhaustive des URL externes non réalisés. Publication de la séance 64 non confirmée.",
+      "next_session": "Séance 66 — ENRICHISSEMENT ICONOGRAPHIQUE"
     }
   ]
 }
