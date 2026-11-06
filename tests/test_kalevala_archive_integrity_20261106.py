@@ -26,17 +26,21 @@ class TestKalevalaArchiveIntegrity(unittest.TestCase):
     def setUpClass(cls):
         cls.page = PAGE.read_text(encoding="utf-8")
         start = '<div class="mythos-original-study" id="texte-integral-kalevala">\n'
+        # Le générateur muséal peut réordonner les attributs HTML du <section>.
+        # Borner le manuscrit intact par sa fermeture puis la section de renvois.
+        before, found, after = cls.page.partition(start)
         end = re.search(
-            r'\n</div>\n<section\b[^>]*class="mythos-world-study-crosslinks"',
-            cls.page,
+            r'\n</div>\s*<section\b[^>]*\bclass="mythos-world-study-crosslinks"',
+            after, re.DOTALL,
         )
-        cls.assert_source_layout = start in cls.page and end is not None
+        cls.assert_source_layout = bool(found and end)
         if not cls.assert_source_layout:
             raise AssertionError("Borniers éditoriaux du Kalevala manquants")
-        cls.marked = cls.page.split(start, 1)[1].split(end.group(0), 1)[0]
-        # Retirer uniquement les ancres et attributs ajoutés par le lecteur.
+        cls.marked = after[:end.start()]
+        # Neutraliser UNIQUEMENT les ancres et attributs ajoutés par le lecteur ;
+        # l'égalité de longueur et les 62 titres gardent le contrôle intégral.
         cls.unmarked = re.sub(
-            r'<span[^>]*class="mythos-text-anchor"[^>]*></span>',
+            r'<span\b(?=[^>]*\bclass="mythos-text-anchor")(?=[^>]*\bid="lecture-[0-9]+")[^>]*></span>',
             "", cls.marked,
         )
         cls.unmarked = re.sub(
