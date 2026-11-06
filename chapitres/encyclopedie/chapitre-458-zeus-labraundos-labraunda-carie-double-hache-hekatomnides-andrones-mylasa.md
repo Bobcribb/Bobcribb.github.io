@@ -1,0 +1,557 @@
+# MYTHOS — Encyclopédie universitaire de mythologie grecque — Chapitre 458
+
+## Zeus Labraundos à Labraunda : la double hache, les Hékatomnides, les banquets sacrés et la souveraineté disputée de la Carie
+
+*Monographie universitaire originale en français — histoire comparée des religions grecques et anatoliennes, philologie, mythographie, épigraphie, topographie sacrée, archéologie de l'architecture, économie du sanctuaire et philosophie du pouvoir. État documentaire : 6 novembre 2026. Le marqueur 458 ne constitue pas une attribution éditoriale : seul le reçu transactionnel de GitHub Actions peut fixer un numéro.*
+
+### Résumé et problématique
+
+À Labraunda, dans les montagnes de Carie, Zeus possède un nom local, Labraundos, et une image caractéristique associée à la double hache. Hérodote décrit, au début du Ve siècle avant notre ère, des Cariens vaincus qui se réfugient auprès de Zeus Stratios dans un vaste bois de platanes. Strabon, plusieurs siècles plus tard, présente un sanctuaire de montagne lié à Mylasa par une voie sacrée où passent les processions. Entre ces deux témoignages, Mausole et Idrieus, dynastes cariens exerçant leur autorité dans le cadre de l'Empire achéménide, agrandissent le sanctuaire et signent de leur nom des édifices offerts au dieu. À l'époque hellénistique, un conflit juridique oppose les autorités civiques de Mylasa au prêtre et à son groupe familial au sujet des terres, des récoltes et des revenus sacrificiels.
+
+La question n'est donc pas seulement de savoir « qui est ce Zeus à la hache ? ». Il s'agit de comprendre comment un dieu de montagne, décrit par un historien grec comme propre aux Cariens, devient le centre d'un ensemble de relations entre dynastes, prêtres, cités, royaumes, pèlerins et artisans. Les sources ne décrivent pas une essence religieuse immuable : elles montrent la transformation de pratiques et d'institutions au contact de pouvoirs successifs.
+
+La thèse du présent dossier est que **Labraunda n'est pas un simple instrument de propagande dynastique ni une tradition carienne restée intacte sous un nom grec**. C'est un sanctuaire dont le relief, les inscriptions, l'architecture des salles de banquet et les droits sur le territoire rendent tangible une souveraineté sacrée constamment négociée. Cette souveraineté ne se confond ni avec celle du Grand Roi perse, ni avec celle des Hékatomnides, ni avec celle des prêtres, ni avec celle des citoyens de Mylasa, mais chacun de ces acteurs peut la revendiquer à son avantage.
+
+L'étude est volontairement circonscrite au sanctuaire de Zeus Labraundos et à ses relations avec Mylasa. Elle ne répète pas les dossiers MYTHOS consacrés à Zeus Lykaios, Zeus Diktaios, Zeus Meilichios, aux divinités guerrières ou aux doctrines de la souveraineté indo-européenne. Elle établit également pourquoi le dossier carien ne doit pas être absorbé dans une identification automatique du dieu avec Tarhunt ou avec le Zeus de l'Olympe homérique.
+
+### 1. Les sources : des temporalités à ne pas confondre
+
+Quatre familles principales de documents fondent l'enquête. **Les récits littéraires** : Hérodote V, 119-121, Strabon XIV, 2, 23 et Plutarque, *Questions grecques* 45 (301F-302A), auxquels s'ajoutent les traditions relatives à l'histoire de la Carie. **Les inscriptions** : les dédicaces architecturales des Hékatomnides et le dossier de lettres royales et civiques réuni dans I.Labraunda, en particulier les textes 1-12 relatifs au conflit du IIIe siècle. **Les vestiges** : terrasses, temple, salles de banquet, stoas, portiques d'accès, fontaines, bassins, fortifications et sépultures. **Les interprétations modernes** : archéologues, épigraphistes et historiens des institutions.
+
+Les récits de Plutarque ne sauraient servir de preuve directe d'une transmission effective d'une hache de l'héroïne Hippolyté jusqu'à Labraunda. Une dédicace de Mausole date et attribue une construction, mais ne décrit pas tout le programme de célébration. Une salle interprétée comme espace de banquet ne documente pas par elle-même la liste des convives ni le détail des chants. La continuité du nom « Zeus » ne permet pas d'annuler la pluralité des formes locales du culte.
+
+L'échelle de lecture sera donc toujours explicite. Les **faits attestés** sont les textes, objets et structures réellement conservés ; les **reconstitutions probables** reposent sur leur convergence ; les **hypothèses** concernent les motifs politiques, les expériences des participants et la signification globale d'un espace. L'histoire universitaire consiste précisément à tenir ces niveaux ensemble sans les confondre.
+
+### 2. Un sanctuaire carien : pourquoi la catégorie « grecque » ne suffit pas
+
+La Carie ancienne occupe une partie du sud-ouest de l'Anatolie. Ses populations parlaient notamment le carien, langue anatolienne de la famille indo-européenne, documentée par des inscriptions. L'espace était en interaction avec les cités grecques de la côte, des communautés indigènes, l'intérieur anatolien et, après les conquêtes perses, les autorités impériales achéménides.
+
+À Labraunda, l'épithète grecque de Zeus exprime une forme de traduction et d'appropriation. Elle n'indique pas nécessairement que les Cariens ont oublié leurs traditions antérieures ou que le dieu fut importé dans sa totalité depuis le continent grec. Mais les documents ne permettent pas non plus d'opposer une « pure divinité carienne » à une façade grecque dénuée de réalité : la langue des dédicaces, l'architecture, les images et les usages de la cité participent désormais au culte.
+
+L'expression moderne « sanctuaire national des Cariens » se rencontre dans les guides archéologiques. Elle doit être maniée comme approximation d'une fonction régionale et politique. Aucun État-nation carien, au sens contemporain, ne gouverne le sanctuaire. L'identité carienne peut recouvrir des solidarités, des institutions et des alliances variables selon les siècles.
+
+Ainsi, le titre « Encyclopédie de mythologie grecque » n'efface pas l'identité anatolienne du dossier : il indique que les sources grecques et le nom de Zeus fournissent un accès majeur à une histoire religieuse interculturelle.
+
+### 3. Le site de montagne : vallée, rocher, platanes et terrasses
+
+Labraunda se trouve sur les pentes du Çomakdağ, dans la région de l'ancien Latmos, à quelque quatorze kilomètres de Mylasa, l'actuelle Milas. La topographie est escarpée, avec des affleurements rocheux, des terrasses aménagées et des points d'eau. Le sanctuaire n'est pas une place urbaine régulière : les bâtiments sont disposés par paliers, selon les contraintes et les possibilités du terrain.
+
+L'association du rocher, des arbres et des sources ne doit pas être convertie automatiquement en système théologique. Une montagne peut favoriser la visibilité et l'expérience d'un déplacement ; un bosquet peut être consacré ; une fontaine peut répondre à des besoins de visiteurs. Les archéologues doivent chaque fois distinguer fonction pratique et hypothèse de symbolique cosmique.
+
+La mission française rappelle que les vestiges ne révèlent pas de communauté habitée durablement sur le site avant l'époque byzantine, malgré l'expression de *kômè* chez Strabon. Cette observation ne contredit pas l'existence de prêtres, de desservants ou de fréquentations saisonnières : elle limite l'image d'une ville antique installée en permanence au milieu des monuments. Les installations dispersées du territoire relèvent d'un paysage agricole, funéraire et défensif plus large.
+
+Une carte scientifique doit montrer les terrasses, le chemin de Mylasa, les secteurs de prospection et les limites de ce qui a été fouillé. Elle ne doit pas représenter Labraunda comme capitale politique de la Carie.
+
+### 4. La voie sacrée : relier le dieu à la cité sans les identifier
+
+Strabon XIV, 2, 23 évoque une voie pavée de près de soixante stades reliant Mylasa au sanctuaire, empruntée par les processions. La distance métrique exacte dépend de la valeur du stade et du parcours antique ; elle ne peut être identifiée sans discussion au trajet routier moderne d'environ quatorze kilomètres. Les voies anciennes ne suivent pas toujours les routes contemporaines.
+
+La voie n'est pas uniquement un dispositif de transport. Elle fait communiquer un espace civique, une région rurale et un lieu de rassemblement cultuel. À travers elle passent vraisemblablement participants, porteurs d'offrandes, animaux et personnels. Mais Strabon ne décrit pas la composition de chaque procession ni un calendrier détaillé des arrêts. Il serait trompeur de dessiner une cérémonie avec un ordre assuré des corps et des objets.
+
+La circulation transforme le statut des espaces traversés : des chemins ordinaires peuvent devenir, à certains moments, les lieux d'un déplacement sacré. Les bornes, maçonneries et éléments de pavement éventuellement documentés doivent être localisés de façon indépendante, et non déduits d'une ligne droite tracée entre Mylasa et le temple.
+
+La *hodos hiera* constitue ainsi une relation institutionnelle et sensible. Ce n'est ni la simple propriété d'un prêtre, ni la preuve que la ville contrôle sans partage le territoire du dieu. Le conflit hellénistique sur les terres sacrées montrera précisément la fragilité de cette assimilation.
+
+### 5. Hérodote V, 119 : le bois de Zeus Stratios dans la révolte ionienne
+
+Hérodote situe l'épisode de Labraunda après la bataille des Cariens contre les forces perses près du Marsyas. Une défaite pousse les survivants à se réfugier dans le sanctuaire de Zeus Stratios, auprès d'un grand bois sacré de platanes. L'historien précise que les Cariens sont, à sa connaissance, les seuls à sacrifier à Zeus sous cette appellation.
+
+Ce témoignage, rédigé au Ve siècle avant notre ère, se rapporte à des événements du début du siècle, dans la crise de la révolte ionienne. Il prouve que Labraunda appartient à l'horizon religieux et géographique intelligible pour Hérodote. Il ne garantit ni la précision de tous les nombres de morts de la bataille, ni l'universalité de l'affirmation selon laquelle personne ailleurs ne célébrait un Zeus comparable.
+
+Le mot ἄλσος, « bois consacré », désigne un espace arboré associé à la présence du dieu. Il ne permet pas, isolément, de reconstruire l'architecture de l'enceinte au moment des combats. Les platanes décrits ont une valeur topographique et sacrée ; il ne faut pas affirmer qu'un arbre actuel serait individuellement celui qu'Hérodote a vu ou dont on lui a parlé.
+
+Un apport capital du texte est de montrer le rôle du sanctuaire comme lieu de refuge et de délibération. Après un désastre militaire, les Cariens y discutent de leur avenir : reddition, fuite ou poursuite de la résistance. Zeus Stratios n'est donc pas réduit à une image figée ; son bois accueille une collectivité aux prises avec la survie politique.
+
+### 6. Hérodote V, 120-121 : du refuge à la guerre renouvelée
+
+Au chapitre suivant, Hérodote raconte l'arrivée de renforts milésiens et la reprise des combats. Après une autre défaite, les Cariens préparent une embuscade contre les forces perses dans une zone différente. L'épisode rappelle qu'un sanctuaire n'assure pas une victoire militaire automatique ; l'autorité religieuse n'efface ni les désaccords stratégiques ni la supériorité des armes adverses.
+
+La tentation serait forte de définir Zeus Stratios comme un « dieu de la victoire » garantissant la réussite des batailles. Le texte ne le permet pas. La communauté trouve au sanctuaire un lieu de rassemblement et de décision ; sa capacité à vaincre demeure soumise aux circonstances historiques.
+
+Le récit s'insère aussi dans une histoire grecque de la Carie, vue par un auteur originaire d'Halicarnasse. Hérodote connaît des traditions locales, mais écrit en grec et construit une explication narrative de la révolte. Son vocabulaire n'est pas une transcription directe d'un rituel carien dans sa langue d'origine.
+
+À Labraunda, le refuge des vaincus relie donc trois niveaux : l'identité régionale, l'espace consacré et l'action politique. Le même lieu sera transformé au siècle suivant par des dynastes au service d'un empire qui s'oppose, dans l'épisode hérodotéen, à la révolte des Cariens.
+
+### 7. Philologie I : Ζεὺς Στράτιος, une épiclèse liée aux armées
+
+L'adjectif στρατίος est lié au champ de στρατός, « armée, troupe ». La traduction « Zeus des armées » est recevable pour rendre le sens général, à condition de ne pas supposer un commandement militaire exclusif sur le sanctuaire. Les épiclèses grecques expriment des relations situées : elles peuvent être interprétées différemment par des auteurs et des groupes de fidèles.
+
+Chez Hérodote, la singularité de Zeus Stratios est dite propre aux Cariens. Chez Strabon, l'appellation apparaît auprès du sanctuaire de Zeus Labrandenus, ce qui suggère qu'il décrit sous deux noms une puissance localisée dans le même lieu. La continuité des appellations dans les textes n'interdit pas des évolutions rituelles ou institutionnelles entre les périodes.
+
+« Stratios » ne doit pas être confondu avec « Soter », « Polieus » ou « Horkios » dans d'autres sanctuaires de Zeus. Les comparaisons sont utiles pour distinguer la variété des domaines attribués au dieu ; elles ne démontrent pas la présence d'un panthéon grec uniforme.
+
+L'épithète ne suffit pas, enfin, à décrire un rituel de guerre : Hérodote ne mentionne pas dans ce passage un sacrifice préliminaire à la bataille dont les modalités seraient précisément rapportées. La catégorie militaire vient du vocabulaire de l'auteur et du contexte, non d'un manuel liturgique conservé.
+
+### 8. Philologie II : Λαβραύνδος et le lieu nommé Labraunda
+
+La forme grecque Διὶ Λαβραύνδωι apparaît dans les inscriptions dédicatoires, avec des variations de translittération moderne : Labraundos, Labrandeus, Labrandenus et Labradeus. L'épiclèse renvoie à un sanctuaire et à une identité de lieu. Elle ne doit pas faire croire qu'il existe automatiquement quatre dieux distincts selon la langue du commentaire.
+
+Le toponyme Labraunda/Labranda possède une histoire linguistique complexe. Les terminaisons anatoliennes et les habitudes de transcription grecque ne permettent pas de conclure avec certitude que le nom entier dérive du mot « hache ». Une étymologie populaire antique peut avoir rapproché le lieu et le signe iconographique sans constituer une analyse historique fiable.
+
+Le dossier de Plutarque exploite précisément ce rapport. Il est tentant de prendre sa narration pour une preuve que l'objet a donné le nom au sanctuaire. Les philologues doivent distinguer trois éléments : le nom attesté de la localité ; le mot labrys tel que l'auteur l'explique ; le récit de transmission d'une hache par des héros et des rois.
+
+L'inscription confirme l'existence d'une épiclèse locale. Elle ne démontre pas l'origine du toponyme. Cette différence, peu spectaculaire, est décisive dans une étude qui veut éviter de transformer une ressemblance phonétique en histoire certaine des cultes.
+
+### 9. Plutarque, Questions grecques 45 : pourquoi Zeus porte-t-il une hache ?
+
+Dans les *Questions grecques*, 45 (= *Moralia* 301F-302A, selon les divisions des éditions), Plutarque demande pourquoi le Zeus de Carie est représenté avec une hache plutôt qu'avec le sceptre ou la foudre habituellement associés au dieu. La réponse passe par Héraclès, Hippolyté, Omphale, les rois lydiens, Candaule, Gygès et un certain Arselis originaire de Mylasa.
+
+Le récit affirme qu'Héraclès prit la hache de l'Amazone Hippolyté et l'offrit à Omphale. L'objet passa ensuite de souverain en souverain en Lydie. À l'occasion du conflit entre Gygès et Candaule, Arselis emporta l'arme en Carie et la remit à Zeus par une dédicace ou une image, donnant une origine mémorielle au culte de la hache.
+
+L'histoire est une étiologie tardive : elle explique un fait local visible par une succession de transferts prestigieux. Elle n'est pas une chronique certifiée de la possession effective d'un objet de l'âge héroïque. Elle mobilise des noms que les Grecs connaissaient par les cycles d'Héraclès et par l'historiographie lydienne, pour articuler une pratique carienne à un univers narratif plus large.
+
+Le même récit a un intérêt politique : la hache marque les transmissions d'autorité, la valeur du butin et la capacité d'une communauté à s'approprier les signes d'une ancienne royauté. Le métal fait entrer l'histoire des souverains dans l'iconographie du dieu.
+
+### 10. La hache double, labrys : objet, signe et piège étymologique
+
+La double hache est un instrument à deux tranchants, que les représentations anciennes peuvent donner à tenir à une divinité ou inscrire comme emblème isolé. Le terme λάβρυς est expliqué par Plutarque comme un mot lydien pour « hache ». Il faut conserver cette attribution comme information de l'auteur antique, non comme un verdict linguistique valable pour toutes les langues d'Anatolie.
+
+La tentation est ancienne de relier *labrys* au « labyrinthe » de Crète, et de faire de tous les signes de double hache découverts en Égée des traces d'un même culte. Un tel raisonnement franchit plusieurs frontières : linguistiques, chronologiques et géographiques. Les recherches sur le palais de Cnossos et les symboles minoens ne démontrent pas à elles seules l'identité de leur fonction avec la hache de Zeus à Labraunda.
+
+Les images de la hache sont des documents ; leur signification doit être contextualisée. Un emblème peut être votif, dynastique, décoratif ou religieux selon son support et son usage. Le sens d'un signe n'est pas automatiquement fixé par sa forme.
+
+Pour MYTHOS, la double hache doit être reproduite à partir d'objets ou de représentations datés, avec une légende évitant d'écrire « symbole universel de Zeus » ou « preuve du labyrinthe carien » en l'absence de démonstration.
+
+### 11. Zeus Labraundos et les dieux anatoliens de l'orage
+
+La présence d'une hache associée à une puissance céleste conduit les chercheurs à comparer Zeus Labraundos à des dieux anatoliens de l'orage, dont Tarhunt et Teshub selon les milieux linguistiques et politiques. Ces comparaisons sont légitimes au niveau des attributs et de certains ensembles iconographiques ; elles deviennent excessives lorsqu'elles impliquent une continuité cultuelle directement documentée depuis l'âge du Bronze jusqu'à chaque phase du sanctuaire.
+
+Tarhunt n'est pas « Zeus » au sens où une traduction parfaite pourrait remplacer un nom par l'autre dans tous les textes hittites ou louvites. Les associations grecques entre puissances locales et Zeus sont des interprétations historiques situées. Le contact peut produire des formes religieuses nouvelles plutôt qu'un simple changement de nom.
+
+L'existence d'un horizon anatolien du culte ne suffit pas à attribuer au sanctuaire de Labraunda, sans découverte stratifiée, des rites hittites du deuxième millénaire. Les premières attestations archéologiques du culte local sont beaucoup plus tardives. Il est important de distinguer la longue histoire régionale d'une tradition iconographique et la chronologie directe du site.
+
+La comparaison est donc méthodologique : identifier des ressemblances sans les transformer en généalogie certaine. Elle enrichit l'histoire du polythéisme carien sans effacer la singularité de Labraunda.
+
+### 12. Les premiers dépôts : un culte plus ancien que les Hékatomnides
+
+La mission archéologique situe les premières traces de fréquentation cultuelle au milieu du VIIe siècle avant notre ère. Les études des céramiques archaïques et de la topographie suggèrent que le lieu était déjà consacré bien avant l'essor monumental du IVe siècle. La présence d'offrandes et de dépôts ne permet pourtant pas de restituer un calendrier complet de fêtes anciennes.
+
+Les origines sont lacunaires. La date de la première fréquentation attestée n'est pas nécessairement celle d'une « fondation » décidée en une année donnée. Des pratiques antérieures non documentées peuvent avoir existé ; elles ne peuvent pas être affirmées positivement en l'absence de preuves.
+
+Les fouilles ont reconnu une première organisation de la terrasse du temple, avec murs de soutènement et un petit bâtiment cultuel d'époque archaïque tardive. L'accumulation de dépôts, l'aménagement du relief et les transformations du bâti montrent des investissements progressifs.
+
+L'une des erreurs les plus courantes serait de faire commencer le sanctuaire avec Mausole, parce que les bâtiments spectaculaires appartiennent à son époque. Mausole n'invente pas le dieu : il transforme matériellement un lieu dont l'autorité religieuse est déjà reconnue.
+
+### 13. Le temple vers 500 av. J.-C. : un état modeste mais décisif
+
+Les études architecturales décrivent un petit édifice distyle *in antis*, daté approximativement de la fin du VIe ou du début du Ve siècle avant notre ère, sur une terrasse moins étendue que celle des aménagements classiques. Une construction de petite dimension peut accueillir une image ou servir de point focal sans posséder l'ampleur des temples de l'époque des Hékatomnides.
+
+L'expression *distyle in antis* désigne deux colonnes entre les extrémités avancées des murs latéraux. Elle est un terme de description du plan, non un jugement sur le prestige du culte. Le premier état conservé doit être distingué des phases successives ; des parties de l'ancien bâtiment ont pu être remaniées, réutilisées ou englobées.
+
+Cet état correspond approximativement au monde que met en récit Hérodote, mais la coïncidence chronologique ne suffit pas à décrire le sanctuaire tel que les Cariens l'auraient vu au jour de leur refuge. Le bosquet et la construction sont des éléments complémentaires de l'espace sacré, pas des preuves d'un parcours rituel détaillé.
+
+Une restitution 3D devra identifier les assises réellement observées, les élévations restituées et les éléments totalement inconnus. Le temple archaïque mérite sa propre planche, séparée de l'état hékatomnide.
+
+### 14. Hékatomnos et l'intégration de la Carie à l'Empire perse
+
+Au IVe siècle avant notre ère, la Carie relève du cadre impérial achéménide. Hékatomnos, dynaste de Mylasa, transmet le pouvoir à ses enfants. Son fils Mausole, puis les membres de la dynastie, exerceront une autorité importante en Carie, tout en entretenant des relations avec les institutions perses et les cités grecques.
+
+Décrire les Hékatomnides comme « rois de Carie » sans autre qualification peut prêter à confusion. Leur position se situe à l'intersection du pouvoir dynastique local et de fonctions attribuées ou reconnues dans le monde achéménide. Les titres et modalités d'autorité varient selon les textes, les périodes et les interlocuteurs.
+
+Labraunda devient l'un des lieux majeurs où cette position est rendue visible. Il existe une continuité du culte, mais les grands travaux modifient la configuration des assemblées, des repas et de l'accès au dieu. Le sanctuaire porte ainsi l'empreinte d'un pouvoir qui ne se réduit ni à une cité autonome classique ni à une administration perse uniforme.
+
+La monumentalisation peut servir à réunir des groupes de Carie autour d'un lieu reconnu. Cette interprétation politique est plausible ; elle ne doit pas conduire à qualifier toute offrande de simple propagande. Les donateurs peuvent avoir participé sincèrement à l'honneur de Zeus.
+
+### 15. Mausole : agrandir, accueillir et inscrire son nom
+
+Sous Mausole, qui gouverne durant une grande partie du deuxième quart du IVe siècle, le sanctuaire reçoit de nouveaux murs de soutènement, l'andrôn B, des stoas et des aménagements de l'accès. L'architecture intervient dans un terrain exigeant où toute extension de terrasse nécessite des travaux de grande ampleur.
+
+Le projet a deux dimensions liées mais distinctes. Il augmente les capacités d'accueil lors de rassemblements liés au culte ; il donne à voir le nom du dynaste dans les dédicaces monumentales. La présence de celui-ci dans la formule n'évince pas Zeus comme destinataire : au contraire, elle affirme que le pouvoir du bâtisseur se manifeste par le don au dieu.
+
+Une salle monumentale de banquet peut rendre visibles les positions respectives des convives, leur accès à la nourriture sacrificielle et les réseaux de fidélité. Mais aucune salle fouillée ne nous livre une photographie de la hiérarchie des places occupées en chaque occasion. Les propositions de restitution doivent s'appuyer sur les plans, les traces de banquettes et les parallèles archéologiques.
+
+Le pouvoir est ici pratiqué dans un paysage sacré préexistant. Un monument ne crée pas la légitimité de toutes pièces : il peut la rendre plus présente, plus coûteuse à contester et plus durable dans la mémoire.
+
+### 16. L'andrôn B : une salle de banquet dont l'architrave parle
+
+L'andrôn B est un édifice monumental offert par Mausole. Son inscription d'architrave, publiée dans I.Labraunda III:2, n° 14, mentionne le donateur, son père et le dieu destinataire. Une formulation conservée ou restituée selon l'édition peut être citée avec précaution : « Μαύσωλλος Ἑκατόμνω [...] Διὶ Λαβραύνδωι », soit « Mausole, fils d'Hékatomnos, [a consacré l'andrôn] à Zeus Labraundos ».
+
+Les crochets de restitution ne sont pas un ornement. Ils signalent le passage entre lettres effectivement conservées, texte attendu par comparaison et proposition éditoriale. La fonction de l'inscription est double : dédier l'édifice au dieu et conserver publiquement l'identité de celui qui a financé la construction.
+
+Le mot ἀνδρών, dans une maison grecque, désigne couramment un espace de réception ou de banquet. À Labraunda, il nomme des bâtiments autonomes, monumentaux, à façade évoquant parfois une architecture sacrée. Il est dangereux d'en déduire sans autre donnée une exclusion absolue des femmes de toutes les activités du sanctuaire : le nom d'une catégorie architecturale ne suffit pas à reconstituer l'ensemble des publics.
+
+Les travaux de Pontus Hellström et Jesper Blid (2019) documentent l'élévation, les matériaux, les niches et les questions de restitution. L'andrôn B n'est donc pas une structure dont il suffirait de relever les quatre murs pour raconter la fête ; c'est un objet de recherche architectural et historique autonome.
+
+### 17. La façade de l'andrôn B : hybridité, pas mélange indistinct
+
+Les andrônes hékatomnides présentent des dispositifs architecturaux qui associent notamment éléments ioniques et doriques, avec murs de gneiss local et frontispices de marbre. Les chercheurs ont débattu des effets de cette combinaison et de ses relations avec les traditions de l'architecture grecque et carienne.
+
+Le mot « hybride » peut décrire une coexistence de formes. Il ne doit pas suggérer un assemblage dépourvu de règle ni une décision univoque de proclamer l'union politique de « l'Orient » et de « l'Occident ». Les artisans peuvent employer un vocabulaire architectural disponible, le transformer et le rendre spécifique à un commanditaire.
+
+Le caractère monumental des façades produit une visibilité depuis les terrasses. La relation entre l'extérieur, l'entrée et l'espace de banquet peut participer à la mise en scène de l'hospitalité dynastique. Une telle lecture dépend néanmoins de la restitution des portes, des circulations et des places de convives.
+
+L'architecture est mieux comprise comme un système de choix situés que comme un manifeste que nous pourrions traduire ligne par ligne. La pierre et le marbre constituent des documents ; le vocabulaire politique qu'on leur associe relève d'une interprétation étayée, non d'une transcription littérale.
+
+### 18. Idrieus : un temple élargi et de nouveaux bâtiments
+
+Idrieus, frère et successeur de Mausole, gouverne au milieu du IVe siècle. Il fait entreprendre d'importantes constructions : le temple de Zeus est agrandi, passe à une forme périptère et reçoit un opisthodome, tandis que sont aménagés l'andrôn A, les oikoi et des accès monumentaux. Les inscriptions d'architrave et les analyses des structures permettent d'attribuer certaines de ces campagnes.
+
+Un temple périptère possède une colonnade autour du noyau central. L'opisthodome correspond à un espace à l'arrière du bâtiment. La présence de ces éléments modifie les relations entre les visiteurs et le cœur cultuel, mais les sources ne donnent pas un scénario uniforme de défilé qui ferait automatiquement le tour de toutes les colonnes.
+
+Le projet se distingue de celui de Mausole sans constituer une rupture totale. Les deux frères utilisent un même sanctuaire et un même vocabulaire de dédicaces, tout en développant des édifices aux formes et aux distributions différentes. Les structures doivent être datées individuellement, plutôt qu'assignées à une seule « phase hékatomnide » indistincte.
+
+La monumentalité de Labraunda est donc l'effet d'une accumulation de commandes, de techniques et de décisions ; elle ne se réduit pas à l'intuition d'un fondateur unique.
+
+### 19. L'andrôn A et le problème des statues dynastiques
+
+L'andrôn A est généralement associé à Idrieus, même si le nom du dédicant n'est pas conservé de façon complète sur l'architrave. Le bâtiment est postérieur à celui de Mausole et partage avec lui une structure monumentale destinée aux rassemblements et probablement aux banquets de prestige. La publication finale de 2019 insiste sur les incertitudes concernant certains éléments de sa restitution.
+
+Une grande niche aménagée à l'arrière de la salle a suscité des hypothèses sur la présentation de statues de la dynastie et du dieu. Il faut distinguer une niche attestée architecturalement et l'identité, la taille ou la disposition précise des statues qui auraient pu s'y tenir. Une reconstitution qui installerait avec certitude Zeus, Idrieus et Ada dans une composition unique présenterait comme objet conservé une proposition interprétative.
+
+La tension est intéressante du point de vue de la religion : le lieu du repas n'est pas séparé d'un horizon de représentation. Des images sacrées ou dynastiques peuvent modifier la perception de l'espace, sans que cela fasse de chaque convive un acteur d'une cérémonie d'adoration royale.
+
+Le rôle d'Ada, membre de la dynastie et détentrice de pouvoir politique à différentes étapes, doit être rappelé sans inventer pour elle une fonction sacerdotale spécifique en l'absence de source.
+
+### 20. Le banquet sacrificiel : partager la viande, distribuer l'honneur
+
+L'organisation des andrônes, des portiques et des terrasses suggère l'importance des repas associés aux sacrifices. Dans le monde grec et carien, l'offrande animale et la distribution des parts peuvent articuler relations aux dieux et hiérarchies humaines. Toutefois, on ne dispose pas d'un règlement complet du banquet de Labraunda à l'époque de Mausole.
+
+Il faut distinguer **sacrifice**, **consommation**, **réception diplomatique** et **convivialité**. Ces pratiques peuvent se chevaucher, mais elles ne sont pas automatiquement identiques. Une salle conçue pour un repas ne dit pas quel animal fut sacrifié, qui présida, quelles chansons furent interprétées ou quelle portion revint à chaque invité.
+
+Les inscriptions hellénistiques relatent plus tard un conflit sur les *géra*, parts ou privilèges liés aux sacrifices, dont le prêtre s'estime privé. Ce témoignage documente l'existence d'intérêts matériels attachés au rite, mais ne permet pas de projeter à l'identique les règles du IIIe siècle sur les banquets de l'époque de Mausole.
+
+Le repas devient ainsi un point de rencontre entre économie, honneur et présence divine. Les dons des Hékatomnides mettent à disposition des structures qui rendent possible une forme organisée du rassemblement, tandis que les droits sur les parts sacrificielles demeurent susceptibles de contestation.
+
+### 21. Stoas, chambres et services : l'infrastructure d'un grand sanctuaire
+
+Les stoas de Labraunda et les séries de petites pièces adjacentes indiquent que le sanctuaire devait accueillir des groupes parfois nombreux. Les fonctions de plusieurs pièces sont discutées : espace de banquet, abri, préparation, stockage, service ou accueil. L'étiquette moderne donnée à un bâtiment ne suffit pas à déterminer toutes ses utilisations au fil des siècles.
+
+La grande stoa orientale, les salles associées et les édifices d'accès participent d'une mise en ordre de la foule, avec des zones couvertes et des terrasses articulées. La capacité d'accueil devait dépendre aussi de l'état des chemins, des points d'eau et des conditions météorologiques.
+
+Le mot « pèlerin » est commode pour décrire un visiteur se déplaçant vers un sanctuaire, mais il ne doit pas importer les institutions religieuses contemporaines. Tous les participants n'avaient pas nécessairement les mêmes obligations, motivations ou statuts.
+
+Une interprétation plausible voit dans l'aménagement des terrasses une politique de réception de groupes cariens, de notables et d'ambassades. Elle doit rester mesurée : l'archéologie ne fournit ni registre exhaustif des visiteurs ni estimation non contestable du nombre de participants.
+
+### 22. L'eau : fontaines, bassins et capacité d'accueil
+
+Le relief de Labraunda comprend plusieurs points d'eau et des aménagements de fontaines. Des structures datées de différentes époques ont servi à capter, retenir ou distribuer l'eau. La mission archéologique documente notamment la fontaine dorique de la terrasse inférieure et une fontaine monumentale hypostyle hellénistique.
+
+L'eau peut être indispensable à la vie d'un sanctuaire : boire, préparer des aliments, nettoyer des espaces, abreuver des animaux, offrir une hospitalité convenable. Elle peut aussi être associée à des gestes rituels. Mais il serait abusif de déclarer « bassin de purification » chaque structure hydraulique, sans preuve textuelle, archéologique ou contextuelle.
+
+Les fontaines relèvent d'une histoire technique et politique. Construire un dispositif hydraulique est une dépense collective ou dynastique ; le maintenir suppose des travailleurs, des matériaux et des décisions. L'approvisionnement facilite la capacité du sanctuaire à organiser des rassemblements.
+
+La comparaison avec des sources sacrées de Grèce continentale peut porter sur le rapport entre eau et rituel ; elle ne permet pas de restituer un mythe local de naissance divine si celui-ci n'est pas documenté.
+
+### 23. Terrasses et mise en scène de l'ascension
+
+Les diverses terrasses de Labraunda correspondent à des opérations importantes de terrassement et de soutènement. Le bâtiment du temple occupe une position élevée dans un ensemble à plusieurs niveaux. Les visiteurs pouvaient découvrir progressivement des façades, des portiques, des escaliers et des espaces ouverts.
+
+L'ascension est une expérience matérielle réelle, mais ses significations varient. La métaphore d'une « élévation vers le ciel » pourrait séduire une lecture philosophique ; elle ne doit pas être présentée comme une doctrine ancienne directement attestée à Labraunda. La construction répond aussi aux contraintes du terrain et à la volonté de multiplier les surfaces disponibles.
+
+La topographie sert néanmoins de support au pouvoir de présentation. Les entrées peuvent cadrer la vue ; les terrasses créent des seuils ; les édifices dédicacés par les dynastes rendent leurs noms présents dans les points majeurs du parcours.
+
+Une étude historique de l'architecture devra toujours séparer plan mesuré, hypothèses de niveaux, reconstructions de toiture et vues photoréalistes imaginées. Le caractère spectaculaire d'une maquette ne constitue pas une preuve supplémentaire.
+
+### 24. La dédicace architecturale : le dieu comme destinataire, le dynaste comme donateur
+
+Les inscriptions des constructions de Mausole et d'Idrieus emploient un langage grec de consécration qui nomme le donateur, parfois son origine, la chose donnée et Zeus Labraundos. La formule est connue par la publication de Jonas Crampa dans les volumes III:1 et III:2 des inscriptions de Labraunda.
+
+Dans l'andrôn B, la présence du nom de Mausole, fils d'Hékatomnos, inscrit la généalogie dynastique dans une relation de don. Il serait trop rapide d'affirmer que l'inscription ne sert qu'à flatter un gouvernant : l'objet est explicitement offert au dieu. Il serait tout aussi naïf d'ignorer que l'emplacement monumental du texte assure une visibilité publique durable au nom du donateur.
+
+Gretchen Umholtz a étudié les dédicaces architecturales hékatomnides dans le contexte plus large des pratiques grecques de gravure monumentale. Leur syntaxe n'est pas une invention totale propre aux satrapes ; elle s'insère dans un répertoire bien établi de publicité des dons.
+
+La pierre transforme une dépense en mémoire : l'acte de bâtir, dont les ouvriers et les moyens matériels peuvent disparaître de notre documentation, demeure lisible par le nom de celui qui présente le bâtiment à Zeus.
+
+### 25. « Mylaseus » : une nuance de titulature et d'identité
+
+Les inscriptions attribuées à Idrieus mentionnent dans plusieurs cas le qualificatif Μυλασεύς, « Mylasien », auprès du patronyme. Certaines dédicaces de Mausole n'utilisent pas ce terme de la même manière. Des chercheurs y ont vu le signe d'une politique plus locale d'Idrieus, soucieux d'afficher un enracinement à Mylasa, par contraste avec les ambitions régionales de son frère.
+
+Cette interprétation est plausible mais non obligatoire. Une formule peut varier selon le monument, le scribe, la tradition de l'atelier, la dimension de l'inscription ou la volonté du commanditaire. La présence du nom de la cité ne permet pas de calculer avec précision les fidélités politiques du donateur.
+
+La valeur philologique du mot est néanmoins importante. Mylasa n'est pas seulement la ville voisine du sanctuaire : c'est une identité politique qui deviendra centrale dans les conflits de la période hellénistique. L'inscription associe l'individu, la généalogie dynastique, la cité et la divinité dans une même formule brève.
+
+Le dossier illustre donc la nécessité de laisser ouvertes plusieurs lectures : marqueur de provenance, choix de représentation de soi, affirmation d'appartenance ou simple usage épigraphique local.
+
+### 26. Une Carie grecque et perse ? Éviter les catégories exclusives
+
+L'architecture du sanctuaire utilise un vocabulaire de plans et d'ordres associé à l'art grec, alors que ses commanditaires exercent leur pouvoir dans le monde achéménide et sont issus d'une dynastie carienne. Le modèle d'une substitution complète d'une identité par une autre n'est pas adéquat.
+
+L'emploi de grec dans les inscriptions publiques peut faciliter la communication politique et s'inscrire dans une pratique de prestige. Il ne démontre pas que tous les participants, travailleurs et desservants ne parlaient que cette langue. Les inscriptions cariennes, étudiées par M. Meier-Brügger dans *Labraunda* II:4, rappellent un environnement linguistique plus varié.
+
+La combinaison des façades ioniques et d'éléments d'autres traditions n'est pas l'illustration matérielle d'un slogan de « fusion Orient-Occident ». Ces deux catégories sont d'ailleurs problématiques pour expliquer le IVe siècle anatolien. Le matériau, la technique, le programme d'édifice et les commanditaires doivent être examinés indépendamment.
+
+La puissance des Hékatomnides réside en partie dans leur capacité à manier plusieurs langages d'autorité. Labraunda n'est pas le simple reflet d'une identité préexistante ; il contribue à rendre visibles les relations qui la composent.
+
+### 27. Après les Hékatomnides : persistance et réinterprétation
+
+La mort des grands commanditaires du IVe siècle ne marque pas la disparition du sanctuaire. Les fouilles et inscriptions témoignent d'une histoire longue, hellénistique, romaine et tardo-antique. Les installations peuvent changer de fonction, les infrastructures être restaurées et les dédicaces se multiplier.
+
+La continuité d'un lieu n'implique pas l'identité de ses usages. Des bains, fontaines ou réaménagements romains peuvent transformer la manière dont les visiteurs occupent les terrasses. Des constructions chrétiennes de l'Antiquité tardive signalent d'autres formes de vie religieuse et sociale, non une transmission inchangée du culte de Zeus.
+
+Les travaux de Jesper Blid (*Remains of Late Antiquity*, 2016) sont importants pour restituer les phases postérieures, souvent effacées par des reconstructions centrées sur l'époque de Mausole. Il faut résister à la tentation muséographique de représenter comme « état normal » un unique moment de prospérité classique.
+
+L'histoire d'un sanctuaire est aussi celle de ses transformations après la période que les manuels considèrent comme la plus célèbre.
+
+### 28. Korris, prêtre de Zeus : la question des privilèges héréditaires
+
+Le dossier épigraphique de la seconde moitié du IIIe siècle met en scène Korris, prêtre de Zeus Labraundos. Il réclame au pouvoir royal la restitution de terres et de revenus qu'il dit administrés traditionnellement. Les relations familiales et les formes d'organisation autour du sanctuaire se rattachent au vocabulaire de *syngeneia* et de *patra*, groupes de parenté au statut à interpréter selon chaque texte.
+
+Un prêtre à vie n'est pas simplement un fonctionnaire civique élu pour une année. Sa position peut s'enraciner dans des droits familiaux, des biens sacrés et des prérogatives sur les sacrifices. Il serait néanmoins inexact d'attribuer sans examen à tous ses prédécesseurs les mêmes droits, ou de transformer chaque prêtre en souverain indépendant.
+
+La documentation sur Korris révèle l'importance de l'autorité rituelle dans les conflits de propriété. Le prêtre n'est pas un personnage extérieur au monde politique ; sa fonction lui donne accès à des ressources dont la gestion est contestée par la cité.
+
+La question se pose alors dans des termes institutionnels précis : qui possède les terres sacrées ? Qui les administre ? Qui récolte leurs fruits ? Qui reçoit les parts de sacrifice ? Qui peut arbitrer lorsque les usages anciens et les revendications civiques divergent ?
+
+### 29. I.Labraunda 1-2 : Séleucos II et l'intervention d'Olympichos
+
+Vers 240 av. J.-C., Korris adresse une plainte au roi Séleucos II. Il affirme que les Mylasiens ont soustrait à son administration des terres sacrées et refusent de lui verser certains avantages liés aux sacrifices. Séleucos écrit à Olympichos, son représentant dans la région, pour examiner ou faire appliquer la décision relative aux droits du sanctuaire. Ce dossier est édité dans I.Labraunda III:1, notamment les inscriptions 1 et 2.
+
+L'argument de Korris est une revendication, non un verdict automatiquement juste. Les lettres royales et les contre-arguments des Mylasiens montrent que les acteurs produisent des récits concurrents du droit. Le recours au roi révèle l'existence d'une instance supra-civique capable d'intervenir, mais ne prouve pas que celle-ci contrôle matériellement toutes les terres.
+
+L'inscription distingue la terre sacrée, ses fruits et les *géra* du prêtre. Ces catégories sont à traduire précisément. Une terre consacrée peut être exploitée par des hommes ; le fait qu'elle soit liée à Zeus ne résout pas d'un coup les questions de gestion, de taxation, de propriété et d'usage.
+
+La chaîne de lettres montre que la religion grecque et carienne peut produire des archives juridiques complexes, bien différentes de l'image d'un culte réduit à quelques sacrifices dans un bosquet.
+
+### 30. I.Labraunda 3-7 : le temple, Mylasa et Philippe V
+
+Le dossier se poursuit avec des décisions, réclamations et arbitrages impliquant Olympichos, les autorités de Mylasa et Philippe V de Macédoine. Les inscriptions 3 à 7, étudiées par Crampa, Debord et Virgilio, documentent les conflits sur les droits du sanctuaire et son incorporation à l'espace de la cité.
+
+Vers 220 av. J.-C. — chronologie à discuter selon les pièces — Philippe V intervient dans la dispute et défend les prétentions mylasiennes contre l'autonomie revendiquée par le groupe sacerdotal. Ce résultat n'abolit pas le culte ni la fonction du prêtre : il situe la juridiction du sanctuaire dans le cadre d'une communauté civique.
+
+Les textes avaient une fonction pratique. Gravés sur un monument déjà prestigieux, ils rendaient publics les fondements de décisions et permettaient de les invoquer plus tard. Les inscriptions hellénistiques ne doivent pas être lues comme une suite de traités théoriques : elles répondent à des conflits réels sur la gestion d'un territoire et de ses revenus.
+
+La succession des arbitres — roi séleucide, dynaste régional, roi macédonien — révèle la fragilité des frontières du pouvoir en Carie. Les acteurs locaux savent recourir à des autorités différentes selon les circonstances ; leur fidélité ne peut être déduite mécaniquement de l'identité de l'arbitre sollicité.
+
+### 31. La pierre comme archive de droits réitérés
+
+Un aspect remarquable du dossier est la pratique de graver plusieurs lettres et décisions les unes à la suite des autres sur un même monument. Les textes ne se remplacent pas nécessairement : une décision postérieure peut invoquer, confirmer, réinterpréter ou corriger une décision plus ancienne.
+
+Biagio Virgilio a montré l'importance de cette continuité documentaire à travers les périodes hellénistique et romaine. La répétition n'est pas un défaut de mémoire administrative ; elle peut constituer la matière même d'un droit qui exige la conservation visible de ses précédents.
+
+La présence des lettres sur un édifice consacré à Zeus crée une situation singulière : le support monumental exprime le don d'un dynaste ancien au dieu, tandis que les ajouts ultérieurs enregistrent les limites des privilèges du prêtre et de la cité. Un même mur devient donc témoin de pouvoirs qui n'ont pas la même origine ni les mêmes intérêts.
+
+Une édition numérique universitaire doit reproduire l'ordre matériel des inscriptions, leur disposition et les restitutions. Une simple transcription détachée du support ferait disparaître une part de leur signification politique.
+
+### 32. Le mot *syngeneia* : parenté, cité et sacré
+
+Le terme συγγένεια désigne une parenté ou un groupe de personnes unies par une origine reconnue ; en Carie, les *syngeneiai* peuvent avoir des fonctions institutionnelles, territoriales et cultuelles. Le groupe auquel appartient Korris n'est pas nécessairement une famille au sens restreint d'un foyer nucléaire. Il peut correspondre à une organisation beaucoup plus vaste.
+
+Les sources sur les sanctuaires de Labraunda et de Sinuri permettent d'étudier les tensions entre des institutions communautaires de parenté et les structures civiques de Mylasa. Lorsque le roi intervient, il ne tranche pas une querelle strictement privée : il se prononce sur l'insertion d'un sanctuaire et de ses dépendants dans la communauté politique.
+
+Il serait trompeur de présenter le processus comme une « sécularisation » du temple, au sens d'une disparition de la religion. Les habitants de Mylasa peuvent être croyants, sacrifier et défendre l'autorité civique sur les biens du dieu. La question est moins celle d'un affrontement entre croyance et incrédulité que celle de la répartition des compétences entre institutions.
+
+La philologie éclaire ici le droit : la compréhension des termes *syngeneia*, *patra*, *chôra hiera* et *gera* conditionne celle des conflits de propriété.
+
+### 33. Zeus Osogō, Zeus Labraundos et le Zeus commun des Cariens
+
+Strabon XIV, 2, 23 distingue trois sanctuaires dans la région de Mylasa : celui de Zeus Osogō, dans la ville ; celui de Zeus Labrandenus, sur la montagne, lié aux processions mylasiennes ; enfin un Zeus qualifié de carien, partagé dans la tradition par Cariens, Lydiens et Mysiens.
+
+Le passage est essentiel, car il interdit de tout fusionner sous « le Zeus carien ». Strabon distingue des lieux et des communautés de référence. Les épiclèses ne désignent pas nécessairement trois personnes au sens d'une théologie individualiste moderne ; elles indiquent en revanche des institutions et des relations cultuelles non interchangeables.
+
+Le partage du troisième sanctuaire avec des groupes voisins participe d'un discours de parenté entre peuples. Il ne prouve pas qu'un même prêtre administrait les trois lieux ni que tous les sacrifices y avaient les mêmes prescriptions.
+
+L'article sur Zeus Labraundos se limite donc à son espace propre et à ses liens avec Mylasa. Il peut renvoyer aux deux autres cultes à titre comparatif sans leur attribuer fictivement les témoignages d'Hérodote ou les inscriptions de l'andrôn B.
+
+### 34. La souveraineté religieuse : une relation, non un attribut possédé une fois pour toutes
+
+Labraunda oblige à repenser la notion de « pouvoir du sanctuaire ». Les Hékatomnides commandent des édifices ; les prêtres réclament des privilèges ; la cité revendique le territoire ; les rois arbitrent ; les visiteurs participent à des fêtes. Aucune de ces opérations ne se confond avec une souveraineté totale du dieu au sens politique moderne.
+
+Dans le vocabulaire ancien, les décisions parlent de biens, d'honneurs, de lettres royales, de droits et de sacrifices. La notion contemporaine de souveraineté est un outil d'analyse qui permet de poser la question des compétences, mais ne doit pas être projetée comme un concept politique formulé identiquement par tous les acteurs.
+
+Le sanctuaire n'est pas une « administration religieuse » isolée : il dispose d'une base foncière, de personnel, de bâtiments, de routes et de relations avec des autorités. Il ne se réduit pas non plus à une institution étatique, puisque sa légitimité repose sur un dieu reconnu et sur des traditions qui peuvent précéder les décisions d'un roi.
+
+Le cas rappelle que les institutions antiques peuvent articuler des obligations où le religieux et le politique ne sont pas séparés selon les frontières de certaines sociétés contemporaines.
+
+### 35. Philosophie de l'offrande : la visibilité d'un acte et l'absence du donateur
+
+L'inscription architecturale donne à lire le nom du souverain qui offre un bâtiment au dieu. Des siècles plus tard, le donateur est mort, les fonctions politiques ont changé, mais l'objet demeure et la phrase de dédicace peut encore être lue. Le monument produit une forme de présence différée de l'acte.
+
+On peut rapprocher cette situation d'une réflexion générale sur la mémoire et l'institution. Une promesse rituelle ou un don ne possède pas seulement la durée d'une action accomplie ; il prend place dans un milieu de signes, de choses et de pratiques qui continue à engager d'autres personnes. Cette comparaison philosophique ne suppose pas que les Cariens aient formulé une théorie de la mémoire identique à celle des auteurs modernes.
+
+La puissance du geste de Mausole ne tient pas seulement à sa capacité financière : il transforme la pierre en support durable d'une relation avec Zeus. Mais ce support reste exposé à des réappropriations. Les lettres postérieures inscrites sur le bâtiment peuvent raconter des conflits que le donateur ne pouvait prévoir.
+
+L'offrande monumentale n'est donc pas un discours parfaitement maîtrisé par celui qui l'initie. Elle ouvre une histoire dont la signification reste négociable.
+
+### 36. La fête et la temporalité : rassemblement exceptionnel, vie agricole ordinaire
+
+Le sanctuaire était fréquenté à l'occasion de grandes fêtes, tandis que son territoire faisait vivre des activités agricoles et des personnels au-delà des seuls rassemblements. Cette distinction empêche de considérer Labraunda comme une petite ville animée en permanence selon le rythme d'un festival.
+
+Les repas sacrificiels, les processions et les ambassades organisent des moments exceptionnels. Les terres, les récoltes, l'entretien des bâtiments et la surveillance du domaine appartiennent à des temporalités plus longues. Le conflit entre Korris et les Mylasiens révèle précisément la valeur économique de cette durée ordinaire.
+
+La pensée du rite doit donc inclure l'après-fête. La cendre des sacrifices, la distribution des portions, la gestion des espaces, les travaux de restauration et la conservation des inscriptions prolongent matériellement la cérémonie.
+
+Il n'existe pas, dans les sources consultées, de programme intégral permettant de reconstituer mot à mot un calendrier annuel des fêtes de Zeus Labraundos pour toutes les périodes. Les images de défilés avec costumes, chants, ordre des participants et dates exactes doivent rester clairement hypothétiques.
+
+### 37. Divinités anatoliennes, Zeus homérique et comparaisons prudentes
+
+La comparaison entre Zeus Labraundos et le Zeus de l'Iliade est éclairante en ce qu'elle révèle une divergence de contextes. Dans les poèmes homériques, Zeus est souverain de l'Olympe et intervient dans la distribution des honneurs divins et le cours des guerres. À Labraunda, l'épiclèse locale, la hache, l'inscription et la route sacrée l'attachent à un territoire et à des institutions spécifiques.
+
+Il serait insuffisant d'expliquer l'identité du dieu par la seule formule « Zeus est Zeus partout ». Les Grecs eux-mêmes multiplient les épiclèses ; les formes d'adresse et les contextes d'action varient considérablement. Le nom commun rend possible des correspondances sans effacer les singularités.
+
+La comparaison avec les dieux anatoliens de l'orage peut porter sur les attributs, la maîtrise de la foudre, l'autorité politique et les objets de métal. Elle ne permet pas de reconstruire une chaîne continue de prêtres ou de rituels entre l'Empire hittite et la Carie hékatomnide.
+
+Enfin, les parallèles avec Baal dans certains contextes levantins, ou avec des dieux mésopotamiens, doivent rester au niveau de configurations historiques comparables et non d'une origine unique du « dieu roi à la hache ». Les preuves locales priment sur une analogie universalisante.
+
+### 38. Un paysage de pouvoir à plusieurs échelles
+
+Le dossier se déploie à au moins quatre échelles : le temple et ses salles ; le sanctuaire sur ses terrasses ; la voie et le territoire de Mylasa ; le réseau de puissances qui arbitrent les conflits et reconnaissent des droits. Chaque échelle possède une documentation spécifique.
+
+Une inscription de l'andrôn B ne décrit pas le tracé de la route. Une carte du territoire ne révèle pas les modalités exactes d'un sacrifice. Une lettre de Séleucos ne donne pas le programme des banquets du IVe siècle. Le récit d'Hérodote ne renseigne pas sur l'administration des terres deux siècles plus tard.
+
+La richesse de Labraunda tient précisément à la possibilité de faire dialoguer ces échelles sans les rabattre sur une seule image. Un visiteur peut découvrir la présence de Zeus dans un bosquet, dans une grande façade, dans une procession ou dans une décision gravée. Chaque support institue une relation distincte.
+
+La représentation savante doit être multipolaire : plan, carte, photographie, transcription, chronologie et comparaison. Aucune reconstitution photoréaliste, aussi précise soit-elle, ne saurait réunir en une image tous ces niveaux.
+
+### 39. Historiographie des fouilles : du sanctuaire suédois à la mission internationale
+
+Le site a été observé par des voyageurs dès l'époque moderne, puis étudié systématiquement lors des fouilles suédoises commencées en 1948. La série *Labraunda. Swedish Excavations and Researches* a publié architecture, céramiques, objets, sculptures et inscriptions. Depuis 2013, une mission placée sous direction française, avec des partenaires turcs et internationaux, mène fouilles, prospections, documentation et conservation.
+
+Chaque étape modifie la compréhension du sanctuaire. Les premières publications ont posé les fondements de la chronologie et des plans ; les sondages plus récents ont reconnu d'autres phases, d'autres occupations et de nouvelles fonctions d'espaces longtemps attribués trop rapidement à une catégorie.
+
+Le contrôle des matériaux exige la consultation des publications originales : Jeppesen pour les propylées, Westholm pour l'architecture générale, Hellström et Thieme pour le temple, Crampa pour les inscriptions, Hellström et Blid pour les andrônes, Blid pour l'Antiquité tardive.
+
+Une date de publication n'est pas une date de construction. Un nom de chantier n'est pas nécessairement un nom antique. Les équipes de restauration ne « reconstruisent » pas toujours un édifice disparu : elles peuvent consolider des murs authentiques afin d'empêcher leur dégradation.
+
+### 40. Développements documentaires récents et limites de l'actualité archéologique
+
+La mission étudie la topographie autour du sanctuaire, les fortifications, les nécropoles, les bâtiments hydrauliques, les phases romaines et byzantines. Les travaux de conservation protègent les sols, les blocs de marbre, les murs de terrasse et les structures qui permettent de restituer la longue durée du lieu. Les annonces d'opérations en cours ne valent pas publication scientifique de résultats définitifs.
+
+La série éditoriale comporte des ouvrages récents, dont *Labraunda 5. The Andrones* (2019) et *Labraunda 6. The Oikoi* (2026), qui permettent de ne pas limiter la bibliographie aux monographies du siècle passé. Cette actualisation ne modifie pas automatiquement l'identification de tous les bâtiments : elle invite à confronter les interprétations au dernier état accessible des publications.
+
+Les photographies de fouilles, vues aériennes et reconstitutions diffusées par la mission sont précieuses, mais les droits d'auteur et licences doivent être vérifiés. Une illustration scientifique de MYTHOS ne doit jamais effacer ses propres limites de restitution ni masquer un état de conservation par une invention non signalée.
+
+Les phases hellénistiques, romaines et tardo-antiques sont à présenter à leur place, même lorsque les visiteurs viennent principalement pour les bâtiments de Mausole.
+
+### 41. Tableau chronologique critique
+
+| Période | Témoignage ou processus | Portée et limite |
+|---|---|---|
+| Milieu du VIIe s. av. J.-C. | Premières traces archéologiques du culte selon les équipes de fouille | N'établit pas une date unique de fondation |
+| Fin VIe–début Ve s. av. J.-C. | Petit temple distyle *in antis* et terrasse primitive | Datation architecturale approximative |
+| Début du Ve s. av. J.-C. | Réfugiés cariens dans le bois de Zeus Stratios, Hérodote V, 119 | Récit historique rédigé plus tard |
+| IVe s. av. J.-C. | Hékatomnos puis Mausole et Idrieus | Autorité locale dans le cadre achéménide |
+| Sous Mausole | Andrôn B, stoas et terrasses ; dédicaces monumentales | Attributions à contrôler édifice par édifice |
+| Sous Idrieus | Temple agrandi, andrôn A, oikoi, accès monumentaux | Certaines restitutions d'inscription demeurent lacunaires |
+| Vers 240 av. J.-C. | Lettres de Séleucos II et d'Olympichos ; revendication du prêtre Korris | Date et portée juridique des décisions discutées |
+| Vers 220 av. J.-C. | Conflit sur le sanctuaire, intervention de Philippe V et d'Olympichos | Chronologie des textes à conserver dans l'apparat |
+| Ier s. av. J.-C.–Ier s. apr. J.-C. | Strabon XIV, 2, 23 et voie sacrée | Observation et synthèse postérieures aux grands travaux |
+| Époque impériale | Transformations des édifices et renouvellement des dédicaces | Ne pas les confondre avec l'état hékatomnide |
+| Époque de Plutarque | Étiologie de la hache, *Questions grecques* 45 | Récit sur l'origine d'un symbole, non preuve de sa transmission |
+| Antiquité tardive | Églises, installations et nouvelles formes d'occupation | Transformations, non continuité liturgique certaine |
+| Depuis 1948 | Fouilles suédoises ; depuis 2013 mission sous direction française | Histoire contemporaine de la production des données |
+| 2019–2026 | Publications nouvelles des andrônes et oikoi | État scientifique révisable selon les découvertes |
+
+### 42. Corpus de sources primaires et appareil philologique
+
+1. **Hérodote, *Histoires* V, 119, 1-2 ; V, 120-121.** Bataille, refuge des Cariens à Labraunda, bosquet de platanes, Zeus Stratios, débat stratégique, reprise des combats. Texte et traduction : https://adfonteslibrary.org/herodotus-2 et https://lexundria.com/hdt/5.119/mcly . Le chiffre des morts et les paroles rapportées ne doivent pas être traités comme données archéologiques.
+2. **Strabon, *Géographie* XIV, 2, 23.** Mylasa, Zeus Osogō, Zeus Labrandenus, Zeus Stratios, voie sacrée d'environ soixante stades, processions, sacerdoces à vie, Zeus commun aux Cariens, Lydiens et Mysiens. Édition en ligne : https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Strabo/14B%2A.html .
+3. **Plutarque, *Questions grecques* 45 (*Moralia* 301F-302A).** Pourquoi Zeus tient une hache ; Héraclès et Hippolyté, Omphale, Candaule, Gygès, Arselis de Mylasa. Texte et traduction : https://original.sacred-texts.com/cla/plu/rgq/rgq19.htm . Le récit est une étiologie à ne pas convertir en preuve matérielle.
+4. **I.Labraunda III:2, n° 14.** Dédicace architecturale de l'andrôn B de Mausole à Zeus Labraundos, avec nom et patronyme du souverain. Édition : Jonas Crampa (1972), avec apparat de restitutions et photographie. Pour la discussion : Umholtz, étude sur les inscriptions architecturales des Hékatomnides.
+5. **I.Labraunda III:2, inscriptions architecturales des constructions attribuées à Idrieus.** Formules de don et mentions de l'origine mylasienne ; ne pas restituer le nom du dédicant manquant de l'andrôn A comme une lecture intégralement conservée.
+6. **I.Labraunda III:1, n° 1-2.** Lettre de Séleucos II au sujet des revendications de Korris sur les terres et revenus du sanctuaire, puis interventions d'Olympichos. Édition : Crampa (1969).
+7. **I.Labraunda III:1, n° 3-7.** Correspondance et décisions impliquant Mylasa, Olympichos et Philippe V. Lire avec Debord (1969) et Virgilio (2001) pour les problèmes de datation et de compétence.
+8. **Autres inscriptions de Labraunda, n° 13-133.** Dédicaces, prêtres, personnages et relations civiques/impériales dans Crampa (1972). Les numéros ne seront attribués à des citations individuelles qu'après contrôle du document concerné.
+9. **Documents cariens du sanctuaire.** Meier-Brügger, *Die karischen Inschriften*, *Labraunda* II:4 (1981). Ne pas assimiler les graphies cariennes à de simples variantes orthographiques du grec.
+10. **Chronologie des bâtiments, séries d'objets et relevés de fouille.** Hellström et Thieme, *The Temple of Zeus* (1982) ; Hellström et Blid, *The Andrones* (2019). Ce sont des éditions archéologiques modernes des données anciennes, à citer comme telles.
+
+### 43. Bibliographie scientifique raisonnée
+
+**Crampa, Jonas**, *Labraunda. Swedish Excavations and Researches III:1. The Greek Inscriptions, 1–12 (Period of Olympichus)*, Lund, 1969. Édition fondamentale du dossier juridique et royal sur les biens de Zeus.
+
+**Crampa, Jonas**, *Labraunda. Swedish Excavations and Researches III:2. The Greek Inscriptions, 13–133*, Stockholm, 1972. Inscription des édifices, dédicants, prêtres, activités et traditions du sanctuaire. Catalogue : https://ecsi.se/actaath-4-05/ .
+
+**Jeppesen, Kristian**, *Labraunda I:1. The Propylaea*, Lund, 1955. Étude architecturale des entrées monumentales et de leurs phases.
+
+**Westholm, Alfred**, *Labraunda I:2. The Architecture of the Hieron*, Lund, 1963. Synthèse des espaces, terrasses et bâtiments, à confronter aux travaux ultérieurs.
+
+**Hellström, Pontus, et Thieme, Thomas**, *Labraunda I:3. The Temple of Zeus*, Stockholm, 1982. Monographie du temple et de son évolution monumentale.
+
+**Hellström, Pontus**, *Labraunda. A Guide to the Karian Sanctuary of Zeus Labraundos*, Istanbul, 2007. Guide savant de contextualisation, utilisé par la documentation de mission : https://www.labraunda.org/ .
+
+**Hellström, Pontus, et Blid, Jesper**, *Labraunda 5. The Andrones*, Stockholm, Swedish Research Institute in Istanbul, 2019. Publication finale des deux grandes salles de banquet ; synthèse éditoriale : https://ecsi.se/labraunda-5/ .
+
+**Blid, Jesper**, *Labraunda 4. Remains of Late Antiquity*, Stockholm, 2016. Étude des vestiges postérieurs et du changement d'usage du site.
+
+**Blid, Jesper, Hellström, Pontus, et Van Bremen, Riet**, *Labraunda 6. The Oikoi*, Stockholm, 2026. Actualisation documentaire du complexe des oikoi ; vérifier la version et les chapitres effectivement consultés avant de citer une pagination : https://ecsi.se/labraunda-5/ .
+
+**Meier-Brügger, Michael**, *Die karischen Inschriften*, *Labraunda* II:4, Stockholm, 1981. Corpus essentiel pour ne pas réduire l'environnement linguistique du site au grec.
+
+**Gunter, Ann C.**, *Marble Sculpture*, *Labraunda* II:5, Stockholm, 1995. Étude des éléments sculptés ; utile pour l'iconographie en distinguant fragments authentiques et reconstructions.
+
+**Debord, Pierre**, « Sur les inscriptions de la période d'Olympichos à Labraunda », *Revue des Études Anciennes* 71/3-4, 1969, p. 383-389. Discussion du dossier de Korris et des arbitrages : https://doi.org/10.3406/rea.1969.3850 .
+
+**Virgilio, Biagio**, « Roi, ville et temple dans les inscriptions de Labraunda », *Revue des Études Anciennes* 103/3-4, 2001, p. 429-442. Interprétation des relations entre pouvoirs royaux, cité et temple : https://doi.org/10.3406/rea.2001.4839 .
+
+**Van Bremen, Riet**, « Labraunda and the Ptolemies: A Reinterpretation of Three Documents from the Sanctuary of Zeus (I.Labraunda 51, 45 and 44) », *Studi Ellenistici* 31, 2017, p. 223-259. Révision chronologique et analyse d'arbitrages : https://discovery.ucl.ac.uk/id/eprint/1575737/ .
+
+**Umholtz, Gretchen**, recherche sur les inscriptions architecturales hékatomnides dans *Hesperia* (2007), particulièrement la dédicace de Mausole. L'argument sur les pratiques épigraphiques grecques doit être vérifié dans l'article original avant citation page à page.
+
+**Henry, Olivier**, travaux de la mission de Labraunda, rapports de fouilles et études sur l'architecture hékatomnide, publiés notamment dans *Anatolia Antiqua*. Page institutionnelle synthétique : https://archeologie.culture.gouv.fr/monde/fr/labraunda .
+
+**Karlsson, Lars, et Carlsson, Susanne (dir.)**, *Labraunda and Karia*, *Boreas* 32, Uppsala, 2011. Recueil d'études sur les relations régionales et l'archéologie du sanctuaire.
+
+**Karlsson, Lars, Carlsson, Susanne, et Blid, Jesper (dir.)**, *LABRYS: Studies Presented to Pontus Hellström*, *Boreas* 35, Uppsala, 2014. Études sur architecture, histoire et symboles cariens.
+
+**Rigsby, Kent J.**, *Asylia: Territorial Inviolability in the Hellenistic World*, Berkeley, University of California Press, 1996. Cadre général de comparaison pour la protection des sanctuaires et les relations de droit ; ne pas y faire correspondre sans preuve une demande de Labraunda identique à celle de Magnésie.
+
+**Académie des Inscriptions et Belles-Lettres**, « Mission archéologique de Labraunda (Turquie) », page de mission, programmes, travaux et bibliographie : https://aibl.fr/fouilles/mission-archeologique-de-labraunda-turquie/ .
+
+**Mission archéologique de Labraunda**, site de référence : histoire, vues, secteurs, rapports, actualités archéologiques et bibliographie : https://www.labraunda.org/ .
+
+### 44. Programme iconographique scientifique pour MYTHOS
+
+**Planche A — Le paysage de Labraunda.** Photographie institutionnelle de la pente et des terrasses avec orientation, date de prise de vue, relief et localisation des points d'eau. Indiquer les vestiges conservés sans les confondre avec les reconstructions. Source possible : Mission archéologique de Labraunda, photographie d'Olivier Henry ; autorisation et licence à vérifier.
+
+**Planche B — La voie sacrée Mylasa-Labraunda.** Carte scientifique originale avec tronçons documentés et hypothétiques différenciés ; distance de Strabon (près de soixante stades) indiquée comme mesure antique et distance moderne approximative de quatorze kilomètres signalée séparément. Pas de route tracée arbitrairement en ligne droite.
+
+**Planche C — Le bois sacré d'Hérodote.** Vue actuelle de la végétation, associée au texte V, 119, mais jamais présentée comme « photo du bois de 500 av. J.-C. ». Si une restitution numérique est proposée, elle doit montrer la nature hypothétique de la densité des arbres et de l'organisation de l'enclos.
+
+**Planche D — Double hache et Zeus.** Représentations datées à partir de monnaies ou d'objets réellement identifiés, avec musée, inventaire et bibliographie numismatique. Ne pas substituer une double hache minoenne non contextualisée à une image carienne.
+
+**Planche E — Plutarque, Question grecque 45.** Infographie originale sur la chaîne étiologique Hippolyté–Héraclès–Omphale–Candaule–Gygès–Arselis, explicitement désignée « version littéraire de Plutarque » et non reconstitution d'un trajet historique assuré.
+
+**Planche F — Plans successifs du temple de Zeus.** Confronter état archaïque *in antis* et état périptère du IVe siècle, en utilisant les relevés de Hellström et Thieme, redessinés sous licence autorisée. Identifier distinctement les parties observées et hypothétiques.
+
+**Planche G — L'andrôn B de Mausole.** Photographie de ses murs et de sa façade, complétée par un relevé au trait des phases architecturales. Légende : « Salle monumentale de banquet consacrée à Zeus Labraundos ; mobilier et composition des convives non intégralement documentés ».
+
+**Planche H — La dédicace de Mausole.** Photographie avec autorisation de l'architrave, accompagnée d'une transcription diplomatique où les lacunes restent visibles : I.Labraunda III:2, n° 14. La traduction doit distinguer éléments conservés et restitués.
+
+**Planche I — L'andrôn A et la niche.** Vue photographique et plan de relevé ; les statues attribuées au dieu et aux membres de la dynastie ne seront représentées que dans une variante explicitement hypothétique, jamais comme matériel retrouvé intact.
+
+**Planche J — Fontaines et eau.** Photographies de la fontaine dorique et de la fontaine hypostyle, avec datations propres et mise en garde contre l'identification automatique à des bassins de purification.
+
+**Planche K — Les lettres de Korris, Séleucos, Olympichos et Philippe V.** Carte chronologique des textes I.Labraunda 1-7 et photographie de leur support monumental ; un schéma indiquera les prétentions divergentes sur la terre, les fruits et les parts sacrificielles, sans attribuer une décision moderne au dieu.
+
+**Planche L — Territoire et fortifications.** Carte des secteurs de prospection, nécropoles, terres agricoles et structures fortifiées, d'après les publications de la mission. Les espaces explorés et les zones non documentées doivent être distingués.
+
+**Planche M — Une histoire à plusieurs phases.** Chronologie graphique des offrandes archaïques, du bois d'Hérodote, des campagnes hékatomnides, des conflits hellénistiques, des transformations romaines et des installations tardo-antiques.
+
+**Planche N — Architecture et politique : Maussollos / Idrieus.** Tableau comparatif original des inscriptions, noms de bâtiments et phases de construction, en mentionnant les attributions certaines, probables et discutées.
+
+**Planche O — Reconstitution 3D photoréaliste raisonnée.** Si elle est réalisée, produire des états architecturaux séparés pour la fin de l'archaïsme et le IVe siècle ; documenter tous les emprunts aux plans de fouille ; différencier couleurs ou matériaux conjecturaux et surfaces archéologiquement établies dans la notice. Aucune reconstitution vectorielle 2,5D ni menu incrusté.
+
+**Planche P — Carte comparative des trois Zeus de Strabon.** Présenter séparément Zeus Osogō dans Mylasa, Zeus Labraundos sur la montagne et le sanctuaire du Zeus commun aux Cariens, sans inventer l'emplacement exact de ce dernier en l'absence de localisation vérifiée.
+
+Chaque image devra conserver auteur, photographie, date, coordonnées ou provenance, institution, numéro d'inventaire éventuel, source scientifique, droits de reproduction, texte alternatif et classement « attesté / restitué / conjectural ». Les vues déjà publiées sur MYTHOS sont à vérifier avant réutilisation ; aucune illustration n'est présumée sous licence libre du seul fait de son accessibilité sur internet.
+
+### 45. Questions ouvertes et programme de recherche
+
+**Quand le nom Labraundos apparaît-il pour la première fois ?** Il faut différencier la date des premiers dépôts, la mention de Zeus Stratios chez Hérodote et la documentation épigraphique du IVe siècle. Le passage d'une forme de désignation à l'autre demeure à contextualiser.
+
+**Quelle était la nature des rassemblements archaïques ?** Hérodote décrit un refuge, pas un règlement religieux complet. Les analogies avec d'autres bois sacrés ne donnent pas un calendrier perdu.
+
+**Quel fut le programme iconographique des andrônes ?** Les niches et les fragments alimentent des reconstitutions ; il faut contrôler chaque association entre espace, dieu et image dynastique.
+
+**Comment le sanctuaire était-il financé ?** Les inscriptions sur les terres et les parts sacrificielles sont un point de départ, mais ne permettent pas de dresser des budgets annuels pour plusieurs siècles.
+
+**La « double hache » indique-t-elle une continuité hittite ?** Les rapprochements iconographiques sont utiles ; l'identité de rite et de langue sur une longue période ne peut pas être affirmée sans documentation intermédiaire.
+
+**Quelle était la marge d'autonomie des prêtres ?** La succession d'arbitrages royaux et civiques indique un problème institutionnel changeant ; aucune solution unique ne vaut pour tous les règnes.
+
+**Comment l'architecture de l'IVe siècle fut-elle réinterprétée à l'époque romaine ?** Il faut confronter inscriptions, réparations, bâtiments et pratiques observables, sans confondre conservation d'un nom divin et continuité de toutes les cérémonies.
+
+Ces questions définissent un programme positif de vérification, et non des lacunes à masquer par une écriture affirmative.
+
+### Conclusion générale — Zeus comme médiateur d'une Carie plurielle
+
+Le sanctuaire de Labraunda est d'abord un lieu : un bois de platanes décrit par Hérodote, un temple et des terrasses documentés par les fouilles, une route cérémonielle vers Mylasa, des salles de banquet construites par des dynastes, puis une archive sur la pierre des débats entre prêtres, citoyens et rois. Aucun de ces supports ne se suffit à lui-même, et leur coexistence interdit la réduction du culte à un seul récit d'origine.
+
+La double hache ouvre une histoire mythique séduisante racontée par Plutarque. Elle ne doit pas devenir le prétexte à déduire mécaniquement une continuité de toutes les religions anatoliennes et égéennes. Les inscriptions des Hékatomnides offrent une preuve plus directe : des gouvernants nommés consacrent des bâtiments à Zeus et fixent leur nom dans un espace dont la sacralité leur est antérieure. Les lettres du IIIe siècle montrent ensuite que la gestion des terres et des revenus de ce même dieu peut susciter une lutte entre institutions humaines.
+
+La conclusion philosophique ne consiste pas à déclarer que « le religieux cache la politique ». À Labraunda, les formes religieuses rendent possible une politique spécifique de l'espace, de l'hospitalité, de la mémoire et de la compétence juridique. Les gouvernants ne créent pas Zeus à leur guise ; les prêtres ne possèdent pas sans contestation tout ce qu'ils réclament au nom de Zeus ; la cité ne peut abolir la force d'un sanctuaire en revendiquant ses terres.
+
+Étudier Zeus Labraundos revient ainsi à restituer une société où plusieurs pouvoirs se rencontrent dans un lieu qu'aucun ne peut simplement épuiser. C'est la fécondité propre de l'histoire des religions grecques en Carie : un dieu peut être appelé Zeus, porter une hache expliquée par un récit lydien, être honoré dans des bâtiments conçus sous autorité achéménide et devenir l'enjeu de litiges résolus par des rois hellénistiques. La singularité de chaque étape mérite d'être conservée, non aplatie au nom d'une origine commune.
+
+---
+
+*Continuité éditoriale : manuscrit intégral destiné à la collection encyclopedie, numéro dépendant exclusivement du traitement de la file editorial/inbox par GitHub Actions. Hélios est déjà traité dans la série et n'est pas repris. Les anciens repères 134/135 ne réservent aucun numéro. Les études sur Déméter Malophoros et Artémis Leukophryéné conservées dans la file ainsi que les chapitres déjà attribués demeurent intacts. Aucun changement de planification horaire n'est demandé ou autorisé ici.*

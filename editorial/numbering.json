@@ -969,6 +969,42 @@
           "path": "chapitres/origines-du-sacre/733-dhar-tichitt-oualata-mauritanie-villages-pierre-tumuli-memoire-ancetres.md",
           "request_sha256": "29fd35217a04b2d6e4afaa895fb0af824a51b7c2dfc3697f109cf50500465f6e",
           "initial_source_sha256": "71b50a47c8038dbf506f25ec8e726c2b86090b4e5e814a0906e17f160a93602d"
+        },
+        "6f2538d1-7e9b-4b4a-809e-0c1fba63dd42": {
+          "number": 734,
+          "path": "chapitres/origines-du-sacre/734-igbo-ukwu-nigeria-igbo-richard-isaiah-jonah-bronzes-perles-rituel-chronologie.md",
+          "request_sha256": "8facdfedaa0400d14760f99a4f56b365911d4e8c23426174f68706ab675b57e1",
+          "initial_source_sha256": "b795f1307cebc7eec22418a67fd1a74ba4c9959821e40aedb20895d62df04725"
+        },
+        "7cb0623a-c6e7-45b8-9b51-869baa762964": {
+          "number": 735,
+          "path": "chapitres/origines-du-sacre/735-bura-asinda-sikka-urnes-anthropomorphes-necropoles-memoire-ancetres-niger.md",
+          "request_sha256": "138cbb5373008d82a20375046b7ed2f0808756b327a3ead4442c2cc753cb77f8",
+          "initial_source_sha256": "169aaf9b164e7c9cec5dda089fc9d9ff43767c3834310e049b42b6fd0a209937"
+        },
+        "981ec260-d60f-43e1-8cf6-9c3be08ec173": {
+          "number": 736,
+          "path": "chapitres/origines-du-sacre/736-nok-nigeria-pangwari-terracottas-depots-poteries-mil-funeraire.md",
+          "request_sha256": "52e74ab8e7a4b2091d7bbda996120b7cb8eebf8d9677847c595e4ea72ce0918e",
+          "initial_source_sha256": "90cb0b91c37e635a8a5b39011e3375ec444e861a1376ee6ca2d90f9f032d589c"
+        },
+        "a7e8f924-6f42-4a96-aab3-0e946f572d13": {
+          "number": 737,
+          "path": "chapitres/origines-du-sacre/737-ile-ife-nigeria-tetes-terracotta-cuivre-verre-igbo-olokun-memoire-rituel.md",
+          "request_sha256": "a9cc689f6b1279747102ac0b70ff1d1eea58cf6f258713a39788c58e5bca88f3",
+          "initial_source_sha256": "23350f5758aaa6a7f604ae7b3c1fa38a842207d8eea028d1c52a6ed820f48c99"
+        },
+        "c84f819b-6327-4e05-9926-87c2b66b754d": {
+          "number": 738,
+          "path": "chapitres/origines-du-sacre/738-komaland-yikpabongo-tando-fagusa-figurines-tertres-sanctuaires-soins-ghana.md",
+          "request_sha256": "5b2a17f007d17f27c5a81bcab614cd8e6a069a31e472339ce757c9e71f3aa03f",
+          "initial_source_sha256": "b489a75a671a10ed5b99f6abdd649158d47f31e90ea3f86f3491827233eb8ac2"
+        },
+        "d2e7083a-98c7-4f30-8eb3-7448652d5c7a": {
+          "number": 739,
+          "path": "chapitres/origines-du-sacre/739-ile-ife-yoruba-pavements-verre-igbo-olokun-tetes-wunmonije-sacralite.md",
+          "request_sha256": "fff405554de2ecc53be2302ee0d36786f6baeb923ac277fdda4a1f3b5eed0d15",
+          "initial_source_sha256": "65230b02739eaaf83bc21747c7ffffeb0b6f35781dc873f92e77202db160cc0c"
         }
       }
     },
@@ -1624,6 +1660,30 @@
           "path": "chapitres/encyclopedie/chapitre-456-demeter-malophoros-selinonte-gaggera-fruits-offrandes-propylon-epigraphie.md",
           "request_sha256": "bef908f59acd3d30e4aad37e60358a32d841c736e06a74c698396c3d0fb86895",
           "initial_source_sha256": "dac3348faa7beb161abb051d7e31e517c7044067fc992d587eaa760f6aba335f"
+        },
+        "7a97e35f-70da-4d62-a316-739e9e018c1b": {
+          "number": 457,
+          "path": "chapitres/encyclopedie/chapitre-457-hera-samienne-heraion-samos-naissance-imbrasos-tonaia-rhoikos-votifs-monde-egeen.md",
+          "request_sha256": "c05f967817e53f3ea3dc048afd2c61ca90908d0e57c6791329c83b6f72bc300e",
+          "initial_source_sha256": "b587af6eee5b5e99c637b50f8a0ae001c5aa4d7b466e8cd9b71e101d87949f26"
+        },
+        "7c9de5ea-9a84-4cb9-ac2f-4e76d941c0bb": {
+          "number": 458,
+          "path": "chapitres/encyclopedie/chapitre-458-zeus-labraundos-labraunda-carie-double-hache-hekatomnides-andrones-mylasa.md",
+          "request_sha256": "3db719cd6d85725e7773b44e3f2aa558e070d8ba6ea8cb0d7382be72b8f32c63",
+          "initial_source_sha256": "3148221e86d727d8cb5c4271a7e15cfdd8744811740fed65e7451275ef2bfad7"
+        },
+        "b6dba378-4e15-4d7f-8f40-c17aa22e6fb0": {
+          "number": 459,
+          "path": "chapitres/encyclopedie/chapitre-459-apollon-clarien-claros-manto-mopsos-oracle-eau-souterraine-prophetes.md",
+          "request_sha256": "6dbf5b0b8cb59e8adbe292d654781d2e6910e1d273135da48441e4b4e2da3fa3",
+          "initial_source_sha256": "a2138ced0bdae60643e888a6deec8403a8520f945c1a72fa27c04dac092c4fe8"
+        },
+        "d47130bd-558f-40c2-a01c-882f0a6c2ae1": {
+          "number": 460,
+          "path": "chapitres/encyclopedie/chapitre-460-aphrodite-aphrodisias-statue-cultuelle-zoilos-asylie-sebasteion-eneas.md",
+          "request_sha256": "c0f6d0fbfcf308813c2076953ebff007cd99023e374d31364551af3de940827d",
+          "initial_source_sha256": "d99b06f668094142e9677f984a07e0d04271f29a6bf9b2535ab5bb421940a1e2"
         }
       }
     },
@@ -2092,6 +2152,24 @@
           "path": "chapitres/comedies/volume-126-myrtilos-erotes-titanopanes-hermippos-heroon-xynaulia.md",
           "request_sha256": "400015a933b86bdeb6af0cf133cf3bbc1be09a068a67752ac799225a8545fe6e",
           "initial_source_sha256": "c57c34407003c60c393a2d5cd3f6be94556482f5149b9127514dfae537c39a8b"
+        },
+        "ab9df367-bf52-4e15-a7c8-51968486d730": {
+          "number": 127,
+          "path": "chapitres/comedies/volume-127-chionides-persai-assyrioi-perses-assyriens-souda-paratragedie-guerres-mediques.md",
+          "request_sha256": "d520e24c0f27df86796da484080fb973b604c259ed1757b84446974d667bedbf",
+          "initial_source_sha256": "4e6f3041202e957ffb99790244c0cad8f1b1ff27b46f8ff52ccb762b78263280"
+        },
+        "c3f718da-2b44-4691-bd30-b22d8c6a48e1": {
+          "number": 128,
+          "path": "chapitres/comedies/volume-128-ekphantides-satyroi-satyres-fragments-athenee-photios-theatre-dionysiaque.md",
+          "request_sha256": "d1d4b2b83b5e7e7c389979ba74194ce4e0065155096021da7b055a7a06e3d62e",
+          "initial_source_sha256": "cbf2c33fbba6f302fa40c30cc59edbcc02d7a9408465a3485faabcfd7bca98f2"
+        },
+        "d4a9c8f3-2b60-4e17-8d45-91aa6e0c7a22": {
+          "number": 129,
+          "path": "chapitres/comedies/volume-129-chionides-ptochoi-mendiants-poisson-sale-gnesippos-dioscures-prytanee-authenticite.md",
+          "request_sha256": "4a20509a81e87b289fb20d2ffa91e5a1b6b68bbe0fc7c6c158785e63d59ac5d1",
+          "initial_source_sha256": "08bb3bcc76249f8f9320f23480fb0f8b17006e6b275a0e8aed6bc50fd78c7bd5"
         }
       }
     },
@@ -2626,6 +2704,24 @@
           "path": "chapitres/tragedies/volume-cclxxii-acheos-eretrie-iris-satyrique-messagere-satyres-sacrifices-frontieres-trgf19-23.md",
           "request_sha256": "7a9ac146d1a0f96d262c0af0de3aecf928f00b477dedec994910f8f118a6b520",
           "initial_source_sha256": "222a3245ccef199d4f06a0b6e58edbb92bea72e86c6b097144b90d4a6b0b428e"
+        },
+        "276c0f58-3e65-46b3-b275-f9319343b82d": {
+          "number": 273,
+          "path": "chapitres/tragedies/volume-cclxxiii-acheos-eretrie-kyknos-cycnos-orge-or-ivoire-heracles-ares-athenee-270e.md",
+          "request_sha256": "ee84e0e0f7cf0614502ac3145cc0de711c67ba66a83d8191a59e38e3f4c00ca9",
+          "initial_source_sha256": "80eab4371c73751b6a105a58a05050e971462d79227183ccad80b72076b9c1c4"
+        },
+        "8858b0f3-6f24-411e-b4ad-f92afce059c6": {
+          "number": 274,
+          "path": "chapitres/tragedies/volume-cclxxiv-acheos-eretrie-linos-satyrique-athenee-kottabos-heracles-fragment-26.md",
+          "request_sha256": "f16ee4c32d7c842992b3708dfde34258d10cb441a80b3a55b1405f8e4fad42f8",
+          "initial_source_sha256": "26d906713d21ec742e3857ce986feaf98ad1f5396390864bba1b01866c7c31e7"
+        },
+        "ce91a7c4-6a5d-4f30-95c1-8cf32b29e674": {
+          "number": 275,
+          "path": "chapitres/tragedies/volume-cclxxv-acheos-eretrie-katapeira-mise-epreuve-trgf-23a-fragtrag-24-philologie.md",
+          "request_sha256": "fd24f4a160cf0e97554e4a7aacfa09d04e2c91466f165a21f81e727fbef58259",
+          "initial_source_sha256": "2499b6b49db0e2f0bb67423be9cbddbbe8b5a48ced6a010166876bb448f9a987"
         }
       }
     },
@@ -3607,6 +3703,48 @@
           "path": "chapitres/comparatif/volume-ccciv-cavaliers-trieres-assemblee-navale-hyperbolos-carthage-sanctuaires-424.md",
           "request_sha256": "08569eb6df04f7cc35c02e67018b645a85bfd466757e01c1a26cb4de7c01d557",
           "initial_source_sha256": "10231d1ffd0f1e959f6f3339c785bcd210132dbbd14b159f03718af9234473a9"
+        },
+        "16496dd4-d866-46c9-b26d-778a9da6e6f9": {
+          "number": 305,
+          "path": "chapitres/comparatif/volume-cccv-lysistrata-laine-metecs-cardage-tissage-politique-411.md",
+          "request_sha256": "42333d9955bb2f8d3d4cc71e17ac007e6ae3a79ddde169f7c24636365c8a0f74",
+          "initial_source_sha256": "4f3eb0e78e99ccf0079f8a30a8bc21611b5d802d67bdaf3304738816f619a0dc"
+        },
+        "5b4a102d-e3a9-4f16-9ed0-202611060102": {
+          "number": 306,
+          "path": "chapitres/comparatif/volume-cccvi-mc-102-quand-les-dieux-dansent-choeurs-extase-corps-rituels-mouvement-cosmique.md",
+          "request_sha256": "0016fa0f53c05cd0f44fc8096410faf0cd95e75d49a17f1787214e5d5e6d2104",
+          "initial_source_sha256": "bc110a8fa6b533aa4475ecfd9ac3264428060532c6326be925c16710116bcb32"
+        },
+        "9c7a4d28-37e0-4a51-8b22-202611061102": {
+          "number": 307,
+          "path": "chapitres/comparatif/volume-cccvii-mc-103-fleurs-divin-nefertem-ishtar-persephone-lakshmi-buddha-mayas.md",
+          "request_sha256": "82a2a3a85cec1541677042f52d47931dd6f2b1366d5ebbe510ebe3cd2528c5ef",
+          "initial_source_sha256": "d4c3ab2f7ff5ac711355db5f5c7e7e006f2f130d0cae0c4974bb47fbd54495eb"
+        },
+        "aa8e79c1-5d43-4a82-9cb0-8f2e34b7d621": {
+          "number": 308,
+          "path": "chapitres/comparatif/volume-cccviii-lysistrata-serment-vin-coupe-bouclier-peitho-coalition-411.md",
+          "request_sha256": "f6f6c544edd2dd0462ff8c082f2c948704bbcc437ef2ee7e71009c1ce151552c",
+          "initial_source_sha256": "e444c9a98e59646d53586b9c6d8cc424a0ad204c4fa043337bd0ef369c4a3e7d"
+        },
+        "b6e4ad08-6bb1-4c19-9732-202611061223": {
+          "number": 309,
+          "path": "chapitres/comparatif/volume-cccix-acharniens-lamachos-dikaiopolis-exodos-choes-corps-victoire-425.md",
+          "request_sha256": "f722287c2e7aa3e953085cc99de3c57fdc36bb52c303a5cfbbdf56c2c736913e",
+          "initial_source_sha256": "f863737e71453ee4d48255110e3aea946ba0a85952062fe0c538b0064e9ff5fc"
+        },
+        "c417a105-9d3b-45e7-ae60-202611061105": {
+          "number": 310,
+          "path": "chapitres/comparatif/volume-cccx-mc-105-sandales-sacre-egypte-hermes-moise-rama-vinaya-seuils-souverainete.md",
+          "request_sha256": "48ec093010d8b997f2ddf29bc713799147bdc766689597b4534de036fffa01d6",
+          "initial_source_sha256": "a5ca403e2c5642c15d9a30b41482d4cd586281db3ef7de75bfc2ec75ca189d7a"
+        },
+        "e20467c1-3e62-49f5-a1a9-202611061104": {
+          "number": 311,
+          "path": "chapitres/comparatif/volume-cccxi-mc-104-trones-divin-isis-shamash-zeus-ezechiel-siege-vide-buddha.md",
+          "request_sha256": "5a7cba2cbc3e1b9bb0447a4f107878bd5afa4a876ae7f21c2056fe1553a6dd7d",
+          "initial_source_sha256": "cae456da6737080b53cacd387bce0b869704c379318fdfc44c032dc7deb6aaa8"
         }
       }
     }

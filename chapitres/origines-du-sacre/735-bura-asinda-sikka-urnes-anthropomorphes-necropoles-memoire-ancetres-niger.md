@@ -1,0 +1,161 @@
+# MYTHOS — Les origines du sacré — Chapitre 735 (volume DCCXXXV)
+
+## Bura–Asinda-Sikka : les urnes anthropomorphes, la nécropole et la construction matérielle des ancêtres dans la moyenne vallée du Niger
+
+*Monographie universitaire originale. Archéologie sahélienne, anthropologie de la mort, histoire des arts, épistémologie des religions et comparatisme critique. Version scientifique destinée à la file de publication MYTHOS, 6 novembre 2026.*
+
+### Résumé
+
+La nécropole de Bura, dans l'actuel Niger, oblige à poser une question élémentaire et difficile : dans quelles conditions un objet funéraire devient-il autre chose que le contenant matériel d'un cadavre ? Des récipients en terre cuite, des éléments figuratifs, des amas de pierres et une distribution spatiale des installations permettent de documenter des actes envers les morts. Ils ne donnent pas, à eux seuls, un accès immédiat aux conceptions indigènes de l'âme, du divin ou de la régénération. L'hypothèse directrice est que la matérialisation des défunts instituait une continuité socialement opérante entre sépulture, image et mémoire collective, sans supposer d'emblée un culte des ancêtres identique à ceux documentés ethnographiquement ailleurs en Afrique. Le raisonnement sépare la description archéologique des fonctions présumées, la comparaison formelle de la filiation historique et l'interprétation philosophique de la preuve.
+
+### 1. Un terrain précis, non une « civilisation » sans frontières
+
+Bura est situé dans le département de Téra, région de Tillabéri, au Niger. La fiche déposée par l'État nigérien sur la Liste indicative du patrimoine mondial en 2006 place la nécropole à environ 150 kilomètres au nord-ouest de Niamey. La portion explorée de la nécropole mesure approximativement 25 × 20 mètres. Le relief est décrit comme un cirque ouvert au sud-est et dominé de buttes-témoins. Ces coordonnées, ces dimensions et cette topographie sont des **informations documentées** ; elles n'autorisent pas à tracer sans autres données une frontière culturelle, une ethnie homogène ou un territoire politique centralisé.
+
+Le nom composé « Bura–Asinda-Sikka » demande une précaution. Bura renvoie à un site éponyme et à un ensemble régional de productions et de contextes archéologiques ; Asinda-Sikka est un autre toponyme associé à ce dossier, utilisé dans les publications et les notices muséales. Ce sont des *désignations archéologiques modernes*, non des ethnonymes attestés par des inscriptions contemporaines. Les identifier directement à une population actuelle serait une inférence dont les sources ne fournissent pas la démonstration.
+
+Le rapport de l'État nigérien différencie explicitement trois catégories de vestiges, dont la séparation est parfois délicate : les nécropoles à jarres, des lieux de cérémonies et de possibles habitats. La pensée scientifique doit donc dépasser le raccourci « culture des urnes ». Elle doit reconstruire les rapports entre espaces d'inhumation, ensembles de pierres, indices d'activités et circulation entre ces zones. À l'échelle d'un paysage funéraire, les morts ne sont pas seulement déposés : leur présence est rendue durablement localisable.
+
+### 2. Découverte, fouille et danger de la documentation amputée
+
+La nécropole fut signalée en 1975, selon la notice nigérienne. Boubé Gado, chercheur de l'Institut de recherches en sciences humaines de Niamey, est associé aux investigations systématiques de Bura et à la mise en évidence d'un « village des morts » ; l'article de référence fut publié dans le catalogue *Vallées du Niger* dirigé par Jean Devisse (1993, p. 365–374). Il faut lire cette expression comme une proposition interprétative fondée sur la configuration archéologique, non comme la transcription d'une appellation antique.
+
+Le statut des objets est crucial. Les grandes terres cuites ont suscité un marché qui dissocie fréquemment les œuvres de leur sol, de leur association stratigraphique, d'éventuels ossements et de la séquence des dépôts. Un objet sans contexte fiable ne répond plus à certaines questions fondamentales : faisait-il partie d'un assemblage de sépulture ? Était-il déposé lors de la première inhumation ou introduit plus tard ? Était-il visible en surface ? Quel rapport entretenait-il avec les objets voisins ? Une datation de matériau ne suffit jamais, à elle seule, à reconstituer l'histoire de son usage.
+
+La fiche de l'UNESCO, publiée au titre de la **Liste indicative** — et non d'une inscription déjà acquise sur la Liste du patrimoine mondial — signale explicitement le trafic illicite de statuettes et d'objets. L'inscription sur une Liste rouge de l'ICOM mentionnée dans cette notice souligne l'enjeu de protection. Les provenances alléguées par les catalogues marchands doivent par conséquent rester des informations attribuées à leurs producteurs, et non devenir des données de fouille. Cette asymétrie documentaire doit figurer au centre d'une histoire du sacré : la possibilité de connaître les pratiques anciennes dépend de l'éthique des collections présentes.
+
+### 3. Chronologie : donner une fourchette, pas un âge fictivement précis
+
+La notice nigérienne propose une utilisation entre les IIIe et XIIIe siècles de notre ère, par comparaison de données géologiques et des phases éoliennes ; le Metropolitan Museum présente certains objets de Bura–Asinda-Sikka dans un intervalle plus restreint, IIIe–XIe siècles. Les deux fourchettes ne désignent pas forcément la même population d'objets, la même phase de la nécropole ni la même résolution des méthodes. Elles doivent rester visibles l'une à côté de l'autre, au lieu d'être conciliées artificiellement en une « date » unique.
+
+La pratique d'un rite peut changer à l'intérieur d'une longue période : formes de vases, matières, lieux, commémorations successives, marqueurs sociaux. Les mots « culture », « nécropole » et « tradition » désignent ici une durée et une diversité ; ils n'impliquent pas un système dogmatique stable pendant mille ans. Une chronologie scientifique demande des associations sûres, des contrôles sur les résultats de laboratoire, des stratigraphies lisibles et des comparaisons régionales. L'absence d'une telle série continue interdit de déduire une succession de réformes religieuses.
+
+### 4. Les jarres comme architectures minimales de la personne
+
+La description étatique mentionne des jarres-cercueils et des urnes funéraires anthropomorphes, parfois surmontées de têtes ou de fragments de statuettes, ainsi que la présence d'ossements. Certaines pièces sont décrites comme renversées. D'autres formes, ovoïdes, relèvent d'un répertoire différent. Il est essentiel de ne pas imposer un montage identique à tous les ensembles : l'orientation, la forme, la fermeture, le contenu et l'emplacement doivent être enregistrés pour chaque dépôt.
+
+Un vase répond à des propriétés techniques simples : il contient, délimite, protège, peut être ouvert ou fermé, déplacé ou fixé. Lorsque ce vase prend des traits humains, il ajoute une opération figurative : le contenant peut évoquer un corps sans être l'équivalent du corps. L'urne devient alors un opérateur de **présence différée**. Elle ne rend pas le mort biologiquement présent ; elle transforme une absence en adresse publique, en figure mémorable, en point de relation entre vivants.
+
+On doit éviter deux simplifications opposées. La première serait purement fonctionnaliste : « ce ne sont que des récipients ». Elle ignore l'effort plastique, la différenciation et les associations architecturales. La seconde serait maximaliste : « ce sont forcément des dieux ou des ancêtres divinisés ». Elle attribue aux vestiges une croyance non démontrée. La proposition testable est plus précise : la monumentalisation céramique permet d'ordonner une mémoire des défunts, éventuellement de hiérarchiser leur rappel, sans que l'on puisse définir avec certitude les noms des êtres représentés.
+
+### 5. Corps, visage, cheval : différenciation et image funéraire
+
+Les têtes et représentations humaines, les corps fragmentaires et les figures équestres associés à ce vaste ensemble attirent l'attention par leurs choix de visibilité. Le Met a présenté en 2020 des œuvres prêtées par des institutions de la région, notamment un torse de cavalier de Bura–Asinda-Sikka donné comme fouillé en 1985, une paire de têtes provenant du site et d'autres fragments figuratifs. Une provenance de fouille documentée est ici épistémologiquement plus riche qu'une attribution stylistique d'objet isolé.
+
+Le cavalier est susceptible d'évoquer une compétence guerrière, une distinction matérielle, une mobilité ou un statut ; il ne démontre cependant pas à lui seul l'existence d'une caste aristocratique héréditaire ni un culte du « dieu cheval ». Il faut demander : les figures équestres proviennent-elles de tombes particulières ? Leur répartition est-elle corrélée à la richesse des dépôts, au sexe biologique des squelettes, à l'âge, aux marqueurs de travail ou aux réseaux d'échange ? Tant que les distributions complètes ne sont pas publiées, toute équivalence univoque entre cheval, roi et mort héroïsé reste hypothétique.
+
+Le visage stylisé demande la même discipline. La ressemblance physiognomonique n'est pas prouvée. Une tête peut désigner un défunt singulier, une catégorie d'ancêtres, une figure exemplaire ou une qualité sociale. Sans inscriptions nominatives contrôlées, parler de « portrait » demeure une commodité descriptive, non un diagnostic établi.
+
+### 6. Des nécropoles aux lieux d'assemblée rituelle
+
+La notice patrimoniale du Niger évoque des amas de gros blocs de pierre, des tumulus aplatis ou des esplanades sur différents sites, parfois accompagnés de fragments de pieds de vases tripodes et de petites poteries cylindriques peintes. L'interprétation administrative les désigne comme lieux d'autels et de cérémonies. Le chercheur doit distinguer le **constat** — structures et mobilier — de la **fonction proposée** — autel et rituel. L'une peut fortement motiver l'autre sans la rendre automatiquement démonstrative.
+
+Une nécropole concentrée n'est pas un simple espace d'élimination des restes. Elle peut fixer des itinéraires, constituer un lieu de revisite et imposer des obligations entre groupes de vivants. Une surface aménagée peut fonctionner comme scène d'opérations répétées ; mais aucun calendrier liturgique n'est conservé. La présence d'une poterie n'autorise pas à supposer une libation ; celle de pierres n'établit pas le sacrifice. Pour affirmer des gestes, il faudrait des traces de combustion, des restes fauniques taphonomiquement examinés, des dépôts organisés, des résidus ou des réemplois datés.
+
+On peut parler d'un **paysage rituel possible**, bâti à partir d'espaces de sépulture et d'installation, sans confondre association spatiale et causalité religieuse. Cette formulation explicite ce que la discipline sait et ce qu'elle cherche.
+
+### 7. La philologie des noms modernes et le silence des textes anciens
+
+Le corpus disponible n'est pas un corpus de traités liturgiques. Il ne livre ni hymnes de Bura, ni formule funéraire ancienne assurément déchiffrée, ni nom attesté d'une divinité locale. Les graphies Bura, Asinda-Sikka, Téra, Karey-Tondi ou Jajé-Tondi sont des noms utilisés par la documentation moderne. Leur mention n'autorise pas une étymologie religieuse ni une reconstitution linguistique de populations anciennes. Les chronologies linguistiques de la région exigeraient des enquêtes indépendantes.
+
+Cette absence de texte est un fait de méthode, pas la preuve d'une absence de pensée théologique. Une société peut transmettre des normes et des récits sans alphabet écrit ; l'archéologue, toutefois, ne peut restituer mot pour mot ces traditions perdues. Il serait abusif de fabriquer des prières, de baptiser des figures comme « dieux de la fertilité » ou d'attribuer à Bura des proverbes dont la première attestation est ethnographique et tardive.
+
+Le contraste avec l'Égypte ancienne le montre : les *Textes des Pyramides* (par exemple les formules 213–219, sur le destin royal et le passage à l'autre monde) donnent des énoncés élaborés qui peuvent être mis en regard de pratiques mortuaires. À Bura, pareille correspondance directe entre parole et objet n'est pas disponible. La comparaison porte sur les modes de constitution de la mémoire, non sur le contenu d'une doctrine commune.
+
+### 8. Funérailles, commémoration, ancêtre : trois niveaux à ne pas fusionner
+
+Une sépulture constitue un traitement du défunt. Une commémoration suppose qu'au moins certains vivants reviendront sur une personne ou sur un lieu. Un culte des ancêtres implique des relations, obligations, attentes ou puissances attribuées à des défunts, et sa démonstration exige des indices supplémentaires. Ces trois niveaux sont liés possibles, non synonymes.
+
+L'expression « village des morts » de Gado exprime une intuition structurante : une organisation relativement stable des urnes pourrait figurer, prolonger ou réinterpréter des relations sociales. Pour éprouver cette idée, il faudrait documenter alignements, groupes de dépôts, séquences, réouvertures et différences d'accès. Le « village » n'est pas nécessairement la réplique miniature d'un habitat réel ; il peut être un ordre propre, constitué par les morts, ou une solution pratique à l'accumulation funéraire.
+
+Durkheim (*Les Formes élémentaires de la vie religieuse*, 1912, livre II) aide à poser la question du collectif : le lieu funéraire agit parfois comme un foyer de rassemblement et de reconnaissance sociale. Mais ses analyses des classifications et de l'effervescence collective ne forment pas une clé universelle permettant d'identifier des rites inconnus. L'anthropologie offre une série de problèmes, pas un dictionnaire automatique des symboles.
+
+### 9. Figures de fécondité : formes, analogies et risques
+
+Certains interprètes rapprochent la morphologie de récipients allongés ou globulaires d'organes génitaux et de schèmes de fécondité. Cette lecture peut être mise à l'épreuve à partir de critères explicites : cohérence morphologique répétée, association différentielle à des sépultures, récurrence de motifs, variation des sexes et des âges, relations aux contenants et aux restes humains. Sans ces tests, l'analogie entre contenant et matrice devient rapidement une projection.
+
+Dans la mythologie grecque, la terre d'où les morts semblent retourner a des élaborations multiples, et les libations vers les morts sont attestées, par exemple dans l'*Odyssée* XI, 23–50. Cela ne prouve rien de comparable pour Bura. Dans les traditions égyptiennes, les cercueils, la déesse Nout et les textes de renaissance peuvent articuler enveloppe et régénération, mais l'équivalence « urne = ventre » ne saurait être importée telle quelle en Afrique occidentale.
+
+Marcel Detienne (*Les Jardins d'Adonis*, 1972) a montré comment des systèmes mythico-rituels articulent végétation, sexualité et pratiques codifiées dans un contexte grec précis. Sa méthode de confrontation interne est plus utile ici que la transposition de ses résultats. En l'absence de récits bura préservés, aucun faisceau sémantique comparativement complet n'est accessible.
+
+### 10. Le feu : fabrication céramique et sacrifice ne sont pas la même chose
+
+La cuisson des urnes est une transformation technique décisive : l'argile façonnée devient objet durable par une modification irréversible. Cette irréversibilité peut supporter des métaphores de transformation du mort ; elle ne constitue pas une preuve de rituel pyrique. Le fait que des objets soient en terre cuite n'implique ni crémation, ni offrande au feu, ni doctrine de l'immortalité.
+
+Une enquête archéométrique sur les argiles, températures de cuisson, inclusions et traces d'usage pourrait distinguer ateliers, circulations d'objets et gestes de dépôt. Des résidus charbonneux sur un mobilier particulier demanderaient une vérification taphonomique avant d'être qualifiés de sacrifice. Les associations entre techniques et idées doivent être établies, non simplement pensées.
+
+Dans le lexique mésopotamien, un rituel de soins aux morts comme le *kispu* est documenté par des textes dans des milieux chronologiquement et géographiquement distincts ; il offre l'exemple d'une relation suivie avec les défunts et d'offrandes de nourriture, pas l'origine des urnes de Bura. L'absence d'un équivalent lexical bura interdit toute équation de pratiques.
+
+### 11. Une comparaison contrôlée entre plusieurs paysages funéraires
+
+Les cercles mégalithiques de Sénégambie, particulièrement Wanar et Sine Ngayène, témoignent d'autres manières de construire une mémoire des morts avec de la pierre. Leurs séquences, leurs datations et leurs formes ne doivent pas être superposées à Bura. Une comparaison productive peut porter sur quatre variables : visibilité du marqueur, rapport à la sépulture, durée des revisites, degré de concentration spatiale. Elle ne suppose pas un peuple unique derrière toutes les structures du Sahel.
+
+Les tumulus du Dhar Tichitt et du Dhar Tagant constituent un autre champ d'observation : la recherche par imagerie satellitaire permet d'étudier distributions et paysages sans remplacer l'excavation. La différence des matériaux — pierre, céramique, terre — n'est pas un indice de « stade » religieux. Elle indique des contraintes, des choix et des pratiques locaux.
+
+En Égypte, la fixation de la tombe royale et le développement de dispositifs de mémoire inscriptionnelle rendent plus explicite une hiérarchisation politique des morts. À Ur, des ensembles comme les sépultures du cimetière royal imposent un autre problème : la relation entre corps accompagnants, autorité et mort violente. Ces correspondances sont **typologiques et méthodologiques**, non des attestations de transferts culturels entre sociétés.
+
+Les stèles éthiopiennes de Tiya, les dispositifs funéraires de Tuto Fela et les monuments d'Aksum, étudiés dans les dossiers précédents de MYTHOS, montrent encore que stèle et sépulture peuvent entretenir des rapports très différents selon le siècle et le contexte. Il faut refuser une histoire linéaire où l'« urne primitive » aboutirait à une « stèle évoluée ».
+
+### 12. Un débat philosophique : les morts sont-ils « présents » ?
+
+Employer le mot « présence » ne signifie pas que l'archéologue prouve une entité surnaturelle. La présence funéraire est ici un fait relationnel : une communauté peut devoir se situer par rapport à un emplacement, un signe, une image. Le défunt est absent du monde quotidien, mais localement représenté. L'image a donc une efficacité sociale possible indépendamment de la question métaphysique de la survie.
+
+Hegel, dans ses *Leçons sur la philosophie de la religion*, organise historiquement des formes religieuses selon un schéma téléologique. Son système peut stimuler la réflexion sur le rapport du sensible et de la représentation ; il ne peut servir de grille classificatoire plaçant Bura dans une enfance de l'esprit. Une telle attribution serait historiquement indémontrable et reconduirait une hiérarchie européenne des civilisations.
+
+Nietzsche, *Généalogie de la morale*, II, §13, met en garde contre la réduction d'une pratique à une fonction stable, en montrant que des institutions anciennes peuvent recevoir des sens différents. Cette observation méthodologique s'applique bien aux objets funéraires : une urne peut avoir une histoire de fabrication, de première déposition et de réinterprétation.
+
+René Girard, *La Violence et le sacré* (1972), attire l'attention sur les opérations collectives qui règlent les crises et les tensions. Mais rien dans les urnes de Bura ne démontre le mécanisme du bouc émissaire ou un meurtre fondateur. Éliade, *Traité d'histoire des religions* (1949), permet de poser la question de l'espace qualifié ; ses catégories de hiérophanie ne remplacent pas la démonstration locale. Le comparatisme demeure heuristique lorsqu'il annonce clairement ses limites.
+
+### 13. Marché, restitution et responsabilité du chercheur
+
+Le conflit entre la valeur marchande des terres cuites et leur valeur documentaire est fondamental. L'objet retiré illicitement d'une tombe perd les relations qui permettent d'identifier un acte. Une galerie peut encore décrire sa forme, mais non inventer sa stratigraphie. Les musées qui exposent des pièces documentées et le prêt institutionnel des collections nigériennes en 2020 fournissent une voie différente : replacer au centre la provenance, le partenariat et les chercheurs des pays concernés.
+
+La responsabilité ne consiste pas seulement à ne pas acheter. Elle implique de distinguer dans l'écriture les découvertes fouillées, les attributions stylistiques et les objets de collection sans provenance assurée ; de ne pas répéter comme faits des dates proposées par le commerce ; d'éviter la circulation d'images dont les droits sont incertains ; de créditer explicitement les institutions et les chercheurs nigériens.
+
+L'histoire des religions doit aussi se garder d'un exotisme esthétique : une tête en terre cuite est un indice de relations humaines précises, pas seulement une « forme mystérieuse » offerte à la contemplation.
+
+### 14. Débat scientifique : ce qui est établi et ce qui reste à tester
+
+**Attesté par documentation patrimoniale et travaux de terrain :** situation du site de Bura ; fouilles et descriptions de structures funéraires ; existence de jarres associées à des ossements ; répertoire figuratif ; différenciation de zones comprenant des ensembles de pierres ; préoccupations documentées quant aux prélèvements et au trafic ; présentation institutionnelle d'œuvres du bassin nigérien.
+
+**Interprétations soutenues mais révisables :** nécropole comme « village des morts » ; organisation spatiale analogue à des relations sociales ; fonction rituelle de certains amas de pierres ; portée commémorative d'une figure anthropomorphe ; rôle particulier éventuel des figurations équestres.
+
+**Hypothèses non démontrées :** nom d'un dieu des morts de Bura ; doctrine formulée de réincarnation ou de résurrection ; correspondance systématique entre sexe du défunt et morphologie de l'urne ; établissement d'une royauté sacrée à partir d'un cavalier isolé ; continuité religieuse directe avec une société moderne sur la seule base des formes.
+
+Le critère de progression scientifique n'est donc pas la quantité de significations proposées mais leur pouvoir de résister à l'examen contextuel.
+
+### 15. Programme documentaire et iconographique
+
+Pour une édition illustrée, retenir prioritairement : (a) une carte situant Bura, Asinda-Sikka, Téra et la vallée moyenne du Niger, produite à partir de données géographiques vérifiées ; (b) un schéma original séparant urnes, ensembles de pierres et zones d'habitat, clairement identifié comme **diagramme analytique non cadastral** si le plan fouillé n'est pas disponible ; (c) les notices institutionnelles des objets du Met prêtés en 2020, notamment le torse de cavalier et la paire de têtes fouillée en 1985 ; (d) la fiche UNESCO avec sa description topographique. Toute reproduction photographique doit suivre les conditions de licence de l'institution détentrice. Ne pas créer de « reconstitution photoréaliste » présentant comme certain un rituel que les sources ne décrivent pas.
+
+La principale figure scientifique souhaitable serait une matrice de fiabilité des témoignages : fouille documentée, provenance institutionnelle, attribution stylistique et déclaration commerciale. Cette figure, plus modeste qu'une scène de cérémonie inventée, est plus utile à la connaissance.
+
+### 16. Conclusion : une présence instituée, une théologie non restituée
+
+Bura–Asinda-Sikka éclaire les origines du sacré non parce qu'il conserverait l'origine historique universelle du culte des morts, mais parce qu'il met en évidence une modalité de qualification durable de l'espace funéraire. La nécropole distribue des corps, des contenants et des images ; cette distribution organise des rapports entre ceux qui sont partis et ceux qui demeurent. Il est raisonnable de parler d'une construction matérielle de la mémoire ; il serait imprudent d'énoncer en son nom une mythologie complète.
+
+La force scientifique d'un tel dossier réside dans une distinction stable : une archéologie peut décrire la façon dont les morts deviennent socialement adressables, alors même qu'elle ne dispose pas des mots anciens par lesquels leurs descendants formulaient la relation. Reconnaître cette distance n'appauvrit pas le sacré ; cela le soustrait à l'invention.
+
+### Sources primaires, documentation archéologique et références précises
+
+1. République du Niger, ministère de la Culture, « Site archéologique de Bura », dossier de Liste indicative du patrimoine mondial, soumis le **26 mai 2006**, réf. **5045**, description du site, dimensions, types d'occupation, chronologie proposée et trafic : https://whc.unesco.org/en/tentativelists/5045/ . **Source patrimoniale émanant de l'État proposant**, non décision d'inscription définitive.
+2. Boubé Gado, « Un “village des morts” à Bura en République du Niger », dans Jean Devisse (dir.), *Vallées du Niger*, Paris, Réunion des musées nationaux, 1993, p. **365–374**. **Publication archéologique de référence** signalée notamment par la bibliographie de *Antiquity* : https://www.cambridge.org/core/journals/antiquity/article/abs/settlement-mound-of-birnin-lafiya-new-evidence-from-the-eastern-arc-of-the-niger-river/5C852783FC6D63A6F98EEE2156688DA6 .
+3. Boubé Gado, Abdoulaye Issaka Maga et Oumarou Idé, *Archéologie du Niger*, Niamey, 2000 ; notice bibliographique Smithsonian Institution : https://www.si.edu/object/siris_sil_757192 .
+4. The Metropolitan Museum of Art, *Sahel: Art and Empires on the Shores of the Sahara*, exposition du 30 janvier au 26 octobre **2020**, présentation des objets et prêteurs : https://www.metmuseum.org/exhibitions/sahel-art-empire-sahara et https://www.metmuseum.org/fr/exhibitions/sahel-art-empire-sahara/exhibition-objects . Une notice d'exposition renseigne un objet et son attribution, non nécessairement toutes les données de contexte de fouille.
+5. Alisa LaGamma (dir. et auteure principale), *Sahel: Art and Empires on the Shores of the Sahara*, New York, Metropolitan Museum of Art, **2020**, 304 p., avec contributions de spécialistes du Sahel : https://www.metmuseum.org/de/met-publications/sahel-art-and-empires-on-the-shores-of-the-sahara .
+6. Homère, *Odyssée* XI, 23–50, rites accomplis avant la rencontre des morts : **comparaison textuelle grecque**, sans implication de contact historique avec Bura.
+7. *Textes des Pyramides*, formules **213–219** (numérotation de Sethe), destin royal et devenir du défunt : **comparaison égyptienne**, non source pour la pensée religieuse de Bura.
+
+### Bibliographie de méthode et de comparaison
+
+- Émile Durkheim, *Les Formes élémentaires de la vie religieuse*, Paris, Alcan, 1912, livre II.
+- Marcel Detienne, *Les Jardins d'Adonis : la mythologie des aromates en Grèce*, Paris, Gallimard, 1972.
+- Mircea Eliade, *Traité d'histoire des religions*, Paris, Payot, 1949.
+- René Girard, *La Violence et le sacré*, Paris, Grasset, 1972.
+- G. W. F. Hegel, *Vorlesungen über die Philosophie der Religion* (cours publiés posthumément), pour l'histoire et la critique des modèles de représentation religieuse.
+- Friedrich Nietzsche, *Zur Genealogie der Moral* (*Généalogie de la morale*), 1887, II, §13.
+- Jean-Pierre Vernant, *La Mort dans les yeux : figures de l'Autre en Grèce ancienne*, Paris, Hachette, 1985 ; comparaison limitée à l'économie des images et à la construction symbolique de l'altérité.
+- Gonzalo J. Linares Matás et Jonathan S. Lim, « Monumental funerary landscapes of Dhar Tagant (south-eastern Mauritania): Towards ethical satellite remote sensing in the West African Sahel », *Archaeological Prospection* 28/3 (2021), p. **357–378**, DOI **10.1002/arp.1817** : https://doi.org/10.1002/arp.1817 .
+- Luc Laporte et collaborateurs, « Megalithic monumentality in Africa: from graves to stone circles at Wanar, Senegal », *Antiquity* (2015), pour la comparaison des séquences sépulcrales et des dispositifs de pierre : https://www.cambridge.org/core/journals/antiquity/article/megalithic-monumentality-in-africa-from-graves-to-stone-circles-at-wanar-senegal/2BF0137B6702B925F74B9983DCB76BB1 .
+
+*Note éditoriale : aucun nom de divinité, aucune prière bura et aucun témoignage oral ancien ne sont restitués par conjecture. Les datations contradictoires sont signalées comme telles. Les textes de comparaison ne sont jamais invoqués comme preuves d'un emprunt.*

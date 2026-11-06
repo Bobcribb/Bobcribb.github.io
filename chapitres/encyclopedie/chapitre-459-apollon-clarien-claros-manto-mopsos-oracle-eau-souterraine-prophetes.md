@@ -1,0 +1,465 @@
+# MYTHOS — Encyclopédie universitaire de mythologie grecque — Chapitre 459
+
+## Apollon Clarien à Claros : Manto, Mopsos, la voix souterraine et les institutions de la prophétie en Ionie
+
+*Monographie universitaire en français. Sources primaires grecques et latines, philologie, mythographie, épigraphie, archéologie monumentale, histoire des cultes, philosophie de la connaissance divinatoire et histoire comparée des sanctuaires d'Apollon. Documentation examinée au 6 novembre 2026. La variable 459 est purement éditoriale et ne préjuge d'aucune attribution dans le registre MYTHOS.*
+
+### Résumé
+
+À Claros, dans la vallée ionienne proche de Colophon, Apollon se manifeste selon une configuration qui ne se réduit ni à Delphes ni à Didymes. Des traditions grecques font venir d'abord des Crétois, puis Manto, fille du devin thébain Tirésias, et enfin Mopsos, célèbre pour avoir vaincu Calchas dans une compétition de savoir prophétique. La colonisation racontée par Pausanias est en même temps une généalogie d'autorité : qui peut habiter le territoire, qui hérite d'une compétence divinatoire, qui parle pour le dieu ? D'autres récits déplacent le lieu de la confrontation, substituent à une question sur les figues une énigme sur une truie gestante et donnent à Mopsos un père différent. Ce dossier de variantes est précieux précisément parce qu'il interdit d'en faire une chronologie historique simple.
+
+Les recherches archéologiques révèlent une autre temporalité : des phases archaïques, un temple monumental entrepris à la fin du IVe siècle avant notre ère, jamais complètement achevé, et un dispositif oraculaire souterrain transformé à plusieurs reprises. Une eau tenue pour particulière, des espaces séparés pour les consultants et les officiants, des parcours réglés, des inscriptions relatives à la cité et aux cultes, et un ensemble sculptural d'Apollon, Artémis et Léto permettent d'étudier les conditions matérielles de la consultation. Tacite, *Annales* II, 54, donne un témoignage célèbre, mais daté et de seconde main, sur un prêtre qui descend boire une eau cachée avant de rendre des réponses versifiées.
+
+L'enjeu philosophique est moins de demander si les oracles ont « réellement prédit l'avenir » que de comprendre comment une société fabrique, reconnaît et conteste un énoncé comme parole divine. Cette étude distingue : la vérité revendiquée par les récits ; les pratiques attestées par l'architecture et les inscriptions ; la rhétorique littéraire de l'inspiration ; les procédures institutionnelles par lesquelles les réponses acquièrent de l'autorité. Elle refuse de projeter sur le sanctuaire les catégories non documentées de « transe psychédélique », de « théâtre secret » ou de révélation universelle.
+
+### Principes de critique des sources
+
+**Attesté** désigne un texte antique identifié, un objet conservé, une disposition architecturale ou une inscription éditée. **Établi avec une bonne probabilité** concerne la chronologie de certains aménagements et les fonctions de locaux lorsqu'elles sont convergentes. **Reconstitution** indique une opération fondée sur des analogies et des lacunes explicites. **Hypothèse comparative** ne prouve ni une filiation ni une pratique locale.
+
+Il faut maintenir trois dates distinctes : la date d'un récit racontant un passé héroïque ; la date de sa mise par écrit dans le témoin conservé ; la date des vestiges fouillés. Une généalogie attribuant Mopsos à l'après-guerre de Troie ne démontre donc pas qu'une crypte hellénistique ou romaine ait déjà existé à l'âge du Bronze. Inversement, un temple reconstruit n'annule pas l'ancienneté possible d'un culte, mais ne l'établit pas par lui-même.
+
+L'étude est originale par son périmètre : elle porte sur **Claros comme sanctuaire et institution de consultation**, non sur une biographie générale d'Apollon, ni sur la Pythie de Delphes, déjà étudiée ailleurs dans l'Encyclopédie. Les dossiers existants consacrés à Apollon Ptoios, à Apollon Isménios et aux rites thébains sont des comparants, jamais des chapitres à reproduire.
+
+## I. L'espace clarien et la mémoire de Colophon
+
+### 1. Un sanctuaire distinct de la ville qui le gouverne
+
+Claros, ou Klaros, est situé en Ionie, dans le territoire de Colophon. La distinction est indispensable : les textes peuvent parler de « Colophon » lorsqu'ils désignent une décision civique, et de « Claros » lorsqu'ils situent le sanctuaire. Les consultants, les prêtres, les ouvriers, les bénéficiaires d'honneurs et les autorités urbaines n'occupent pas nécessairement le même espace. Le sanctuaire n'est donc pas une cité autonome parce qu'il possède une réputation qui dépasse celle de son territoire.
+
+La proximité de l'ancien littoral, les circulations du bassin du Caystre et la relation aux routes ioniennes rendent intelligible la venue de délégations. Toutefois, les accès modernes, les niveaux alluviaux et les découvertes de fouille ne doivent pas être projetés sans correction sur le paysage archaïque. Les conditions d'hydrologie et d'envasement ont fortement affecté le site : une photographie de la crypte aujourd'hui partiellement inondée ne constitue pas la preuve que les consultants antiques traversaient nécessairement une salle sous l'eau.
+
+### 2. Le nom Κλάρος : topographie et étymologies incertaines
+
+Le toponyme Κλάρος (Kláros) se décline comme nom de lieu et engendre l'adjectif cultuel Κλάριος (Klários), « de Claros ». Les graphies latines *Clarus* et *Clarius* correspondent à une transmission romaine ; on rencontre aussi dans les travaux modernes *Klaros*. À partir de ces formes, on ne doit pas inventer une origine commune nécessaire avec toute expression grecque phonétiquement voisine.
+
+Des interprétations tardives rapprochent le nom des pleurs de Manto par association avec κλαίω, « pleurer ». Cette explication est une **étiologie narrative**, intéressante pour la mémoire religieuse, non une étymologie historique assurée. Elle sert surtout à relier une topographie d'eau, la souffrance d'une captive et la présence du dieu.
+
+### 3. Apollon Κλάριος : le dieu et son épiclèse
+
+L'épiclèse *Klários* désigne un Apollon localisé et reconnu, non un dieu différent de celui que les poètes invoquent ailleurs. Dans les dédicaces, une forme épiclétique fait le travail que remplit dans le langage une adresse précise : elle permet d'identifier l'instance divine concernée, dans son sanctuaire et avec ses traditions propres. Elle peut accompagner des épithètes plus générales et entrer dans des combinaisons historiques variables.
+
+Une erreur serait de traduire *Klários* par « dieu de la clarté » au motif qu'Apollon est associé à la lumière. Ce raisonnement part du français moderne au lieu de l'épigraphie et de la toponymie grecque. Le sens documentaire minimal est « Apollon de Claros ». Il ne doit pas être obscurci par une métaphore séduisante.
+
+### 4. Une mémoire grecque sur une terre que le récit dit carienne
+
+Pausanias VII, 3, 1 insiste sur une situation initiale : les Cariens occupent le pays ; des Crétois guidés par Rhakios arrivent par mer et tiennent surtout le rivage. Cette formule est une tradition de fondation racontée par les Colophoniens, non un relevé démographique de l'archéologue. Elle articule une communauté préexistante, un groupe de nouveaux arrivants et l'appropriation d'un espace maritime.
+
+On ne doit ni effacer les Cariens sous le nom abstrait d'« autochtones » ni prendre le récit grec au pied de la lettre comme certificat d'expulsion totale. Les mythes coloniaux simplifient souvent des interactions complexes. Ce qui est historiquement certain est l'existence d'un récit local dans lequel le sanctuaire légitime une succession de pouvoirs et de populations.
+
+### 5. Notion de territoire : la compétence prophétique n'est pas sans lieu
+
+Claros est un exemple de puissance religieuse dont l'efficacité publique dépend d'une installation : on vient consulter un dieu à un lieu nommé, avec des intermédiaires identifiables. La topographie conditionne les déplacements et les procédures, sans que le sacré puisse être réduit à la géologie. Le même Apollon peut être dit délien, pythien, didyméen ou clarien ; cela ne signifie pas que ses temples fonctionnent de manière identique.
+
+Les sanctuaires extra-urbains ont une valeur civique paradoxale : ils sont hors du cœur bâti de la ville et participent néanmoins à son autorité. La distinction est opératoire pour lire les décrets de Colophon, les dédicaces sur le parcours du sanctuaire et les inscriptions relatives aux visiteurs.
+
+## II. Manto, Tirésias et la généalogie du droit de prophétiser
+
+### 6. Pausanias VII, 3, 1 : de Thèbes vaincue à Delphes
+
+Le Périégète rapporte que, lorsque les Épigones s'emparent de Thèbes, Manto, fille de Tirésias, se trouve parmi les captifs conduits à Apollon de Delphes. Tirésias meurt en route, dans la région d'Haliarte. Les destinées de la famille des devins prennent ici une forme collective : la défaite d'une cité change le lieu de vie et le lieu de travail de celles et ceux qui sont réputés connaître la volonté divine.
+
+Cette histoire ne prouve pas qu'une prêtresse thébaine identifiable ait personnellement traversé la mer au moment précis où se constitue l'habitat ionien. Sa valeur est autrement décisive : elle transforme l'exil contraint en mission religieuse. Le déplacement de Manto relève à la fois de la violence politique et d'un ordre attribué à Apollon.
+
+### 7. Pausanias VII, 3, 2 : Rhakios et l'installation des nouveaux venus
+
+À Delphes, le dieu commande aux arrivants de partir fonder une communauté en Asie. Au voisinage de Claros, les Crétois de Rhakios les interceptent. Rhakios écoute Manto, la prend pour épouse et reçoit ses compagnons comme habitants associés. La conquête initiale se mue en pacte matrimonial et en intégration politique. Le récit fait travailler ensemble migration, dynastie et prophétie.
+
+L'épisode n'est pas une « preuve de syncrétisme » au sens vague. Il explicite la fonction de la parenté mythique : la maison du chef crétois accueille la lignée du devin thébain ; leur descendance pourra revendiquer la légitimité des deux traditions. La place de Manto dans cette opération demeure ambivalente : victime d'un conflit, elle devient fondatrice religieuse, mais l'histoire est transmise dans le langage du mariage et de la filiation, non dans ses propres paroles conservées.
+
+### 8. Mopsos, fils de Manto : transmission du pouvoir mantique
+
+Pausanias poursuit : Mopsos est fils de Rhakios et de Manto et chasse les Cariens du territoire. Cette conclusion donne à l'autorité religieuse une efficacité territoriale. Dans cette version, le devin n'est pas seulement détenteur d'une connaissance ; il représente aussi un nouvel ordre politique.
+
+D'autres traditions, dont celle du Pseudo-Apollodore, font de Mopsos le fils d'**Apollon et de Manto** (*Épitomé* VI, 3). La divergence n'est pas secondaire : le père humain fonde une succession politique, le père divin qualifie le pouvoir de parole. Les deux filiations ne doivent être ni harmonisées silencieusement ni classées arbitrairement en vraie et fausse versions. Le corpus antique les conserve toutes deux.
+
+### 9. Tirésias : une généalogie de la clairvoyance sans lignage unique
+
+La réputation de Tirésias, devin thébain aveugle, précède et dépasse la fondation clarienne. On la rencontre notamment dans l'*Odyssée* XI, 90-151 et dans les traditions tragiques de Thèbes. Pour Claros, ce nom sert de garantie ancestrale : la compétence de Manto et de Mopsos reçoit une profondeur qui relie Ionie et Béotie.
+
+Cette généalogie est une ressource narrative, non la preuve prosopographique que toutes les familles sacerdotales attestées à Claros descendent biologiquement de Tirésias. Les règles historiques de recrutement, les familles nommées par Tacite et les titres transmis par les inscriptions relèvent d'une autre enquête. Le mythe de parenté peut justifier une institution sans décrire exactement ses procédures.
+
+### 10. La femme fondatrice et l'homme officiant : une asymétrie à étudier
+
+La présence de Manto dans l'origine du sanctuaire ne garantit pas que la consultation historique ait été assurée par une prophétesse. Tacite insiste au contraire sur un officiant masculin à son époque. De ce contraste, on peut tirer une question sur la mémoire des fonctions religieuses : comment une tradition associe-t-elle fondation féminine et parole rituelle ultérieurement distribuée entre hommes ?
+
+Il serait pourtant erroné d'inférer une expulsion historique de femmes hors du sacerdoce sans document attestant un changement de statut. Le travail consiste à différencier **genre du personnage fondateur**, **genre de l'officiant connu pour une époque**, **règles d'accès aux charges** et **rôle des femmes dans les processions ou les dédicaces**.
+
+## III. Calchas et Mopsos : compter le monde, connaître le destin
+
+### 11. Le retour de Troie et le concours des deux devins
+
+Strabon XIV, 1, 27 raconte que Calchas, revenant de Troie avec Amphiloque, rencontre dans la région de Claros un devin plus capable que lui, Mopsos. Calchas meurt de chagrin après sa défaite. L'épisode appartient au cycle des retours héroïques et résume une compétition de prestige prophétique. Il ne peut servir de date de fondation du temple hellénistique.
+
+L'important est la nature du défi. Ce n'est pas une révélation sur les grands dieux ou une maxime morale, mais une épreuve concrète de connaissance : dire combien de fruits ou de petits contient un ensemble dont le nombre n'est pas immédiatement accessible. Le récit pense la divination comme une exactitude supérieure, non comme une simple inspiration indistincte.
+
+### 12. Le figuier sauvage de la *Mélampodie*
+
+Strabon cite des vers qu'il attribue à Hésiode, généralement rangés parmi les fragments de la *Mélampodie* (fr. 278 dans la numérotation Merkelbach-West). Calchas demande à Mopsos de compter les figues d'un arbre de petite taille ; Mopsos donne un nombre, une mesure de volume et un fruit restant en surplus. La vérification confirme sa réponse, puis Calchas meurt.
+
+On veillera à ne pas lire ces vers comme un poème complet conservé sous le titre de la *Mélampodie*. Il s'agit de fragments cités par un auteur postérieur, avec une histoire éditoriale. Les lignes transmises par Strabon portent sur une réponse difficile, publiquement vérifiable, et sur la fin de l'autorité de Calchas. Elles offrent une sorte d'expérience mythique sur la possibilité de distinguer l'énoncé exact de l'affirmation prestigieuse.
+
+### 13. Phérécyde : la variante de la truie gestante
+
+Toujours selon Strabon, Phérécyde raconte une confrontation portant sur le nombre de porcelets qu'une truie porte encore dans son ventre. Dans cette version, Mopsos fournit une réponse différente de celle de l'épreuve du figuier. La littérature ne nous transmet donc pas un seul examen avec des détails accidentels, mais plusieurs scénarios de vérification.
+
+Une question sur les figues peut être tranchée en comptant les fruits ; celle qui concerne la gestation suppose d'attendre un événement. La différence change la temporalité du savoir. Il faut la conserver, car elle révèle deux critères du « vrai » : l'exactitude présente et la prévision confirmée plus tard. La comparaison philosophique peut partir de ce contraste sans attribuer aux auteurs anciens une théorie scientifique qu'ils n'ont pas formulée.
+
+### 14. Pseudo-Apollodore, *Épitomé* VI, 2-4 : récit combiné
+
+Le Pseudo-Apollodore raconte que Calchas, qui devait mourir après avoir rencontré un devin plus savant, arrive près de Colophon. Il présente les deux questions : figues et truie pleine. Dans ce récit, Mopsos est explicitement fils d'Apollon et de Manto ; la compétition porte sur l'identification et la naissance future de porcelets. Le texte ne doit pas être confondu avec la version isolée de Phérécyde donnée par Strabon : les réponses numériques ne coïncident pas.
+
+Cette pluralité éclaire le travail des mythographes. Un rédacteur peut juxtaposer des épisodes transmis séparément et leur donner une continuité narrative. L'historien doit ensuite défaire cette couture pour reconstituer l'histoire des versions, sans mutiler le récit tardif qui possède sa logique propre.
+
+### 15. Sophocle : quand la tragédie déplace la géographie
+
+Strabon précise qu'une tragédie perdue de Sophocle connaissait la prédiction annonçant la mort de Calchas à la rencontre d'un meilleur devin, mais situait la compétition et la mort en Cilicie. Voilà une divergence qu'il serait dommage d'effacer : la tradition sur Mopsos n'est pas confinée à l'Ionie ; elle voyage, dans le théâtre, avec les récits des migrations d'après Troie.
+
+En l'absence de la tragédie intégrale, les modalités scéniques et les paroles attribuées aux personnages ne sont pas reconstituables. On peut commenter le témoignage de Strabon ; on ne peut inventer à Sophocle une scène conservée, un discours psychologique ou une doctrine du destin.
+
+### 16. Le savoir face au prestige : une lecture philosophique des énigmes
+
+Calchas a déjà démontré sa compétence dans le cycle troyen. Pourtant, l'épreuve mythique ne garantit pas l'infaillibilité à vie du prestigieux. La rencontre avec Mopsos permet de penser l'écart entre l'autorité héritée et une exactitude nouvellement établie. Le mythe éprouve la réputation dans une situation où il faut rendre des comptes sur une réponse.
+
+Une lecture de type épistémologique distingue **témoignage**, **prédiction**, **preuve a posteriori** et **droit de parler**. Les récits ne proposent pas une « méthode expérimentale » au sens moderne ; ils mettent toutefois en scène une vérification interne. Il faut résister à la tentation de baptiser Mopsos « premier scientifique » ou Calchas « charlatan » : le premier et le second restent des devins inscrits dans un horizon religieux.
+
+## IV. Les textes sur Apollon Clarien : du chant à l'histoire impériale
+
+### 17. Les *Hymnes homériques* : un nom dans la géographie divine
+
+L'*Hymne homérique à Apollon* mentionne Claros dans l'énumération des lieux que le dieu traverse ou possède (v. 40 selon l'édition usuelle). L'*Hymne homérique à Artémis* (hymne IX, v. 3-5) mentionne également un déplacement vers Claros, dans une géographie poétique de la côte ionienne. On distinguera ces deux témoins pour ne pas attribuer mécaniquement à un seul hymne des formulations de l'autre.
+
+La mention littéraire est un indice de notoriété, pas une description de l'état du temple du IVe siècle. Elle montre plutôt qu'un sanctuaire peut être intégré dans la circulation du dieu à l'intérieur d'un monde composé de villes, de fleuves, de promontoires et de régions cultuelles.
+
+### 18. Strabon XIV, 1, 27 : le sanctuaire ancien dans une topographie érudite
+
+Strabon associe Colophon, le sanctuaire d'Apollon Clarien et la compétition Calchas-Mopsos. Il juxtapose situation géographique, tradition littéraire et critique de variantes. Cela rend son texte doublement précieux : il conserve des fragments autrement perdus et nous apprend comment un savant de l'époque augustéenne organise les savoirs sur le passé de l'Ionie.
+
+Sa méthode est également une limite. Strabon ne mène pas un rapport de fouille ; ses informations mythiques proviennent d'autres écrivains, et son présent est beaucoup plus tardif que les épisodes qu'il évoque. Ce décalage n'est pas un défaut à dissimuler : c'est la condition même de notre accès aux variantes.
+
+### 19. Tacite, *Annales* II, 54 : la consultation de Germanicus
+
+Tacite place Germanicus, pendant son parcours en Méditerranée orientale, près de Colophon et mentionne sa consultation d'Apollon Clarien. Il oppose le prêtre clarien à la prophétesse de Delphes. L'officiant, choisi dans certaines familles et souvent lié à Milet, prend connaissance du nombre et des noms des consultants, descend vers une source secrète, boit, puis formule en vers une réponse correspondant au sujet caché de la consultation.
+
+La scène doit être lue avec deux précautions. D'abord, Tacite est un historien romain travaillant à partir de matériaux et de conventions littéraires : il ne nous livre pas le carnet de procédure du jour de la visite. Ensuite, l'attribution d'une prédiction de la mort de Germanicus relève d'une écriture rétrospective de l'événement. Une prophétie dont le sens s'éclaire après la mort ne peut être traitée comme un procès-verbal immédiat.
+
+### 20. *Annales* XII, 22 : l'oracle dans les conflits de cour
+
+Tacite rapporte également qu'une accusation de consultation de l'oracle de Claros entre dans les intrigues de la cour impériale sous Claude. Le recours aux sanctuaires peut ainsi devenir une affaire politique : poser une question sur le destin ou l'avenir d'une personne puissante n'est pas forcément un acte privé sans conséquence.
+
+Il ne faut pas confondre le récit de la consultation de Germanicus avec ce second épisode. Ils répondent à des situations différentes, même si tous deux illustrent la capacité de l'oracle à peser dans l'imaginaire politique romain. Nous n'en déduirons pas que chaque réponse clarienne était surveillée par Rome.
+
+### 21. La phrase sur l'ignorance poétique du prêtre
+
+Tacite insiste sur le paradoxe d'un prêtre généralement peu instruit dans les lettres et les mètres, mais capable de produire une réponse en vers. Le ressort narratif est clair : l'écart entre compétence humaine supposée et forme savante de l'énoncé rend possible l'idée d'un supplément divin de connaissance.
+
+L'historien contemporain ne peut déduire de cette phrase qu'aucun acteur humain ne participait à la mise en forme des réponses. Les inscriptions et l'analyse moderne des offices suggèrent plusieurs fonctions, dont celle du *prophētēs*, ce qui complique le tableau abrégé de Tacite. Le passage témoigne assurément d'une **représentation** de l'inspiration ; il ne décrit pas nécessairement la totalité d'un atelier d'écriture rituelle.
+
+## V. Philologie des fonctions : qui reçoit, qui entend, qui parle ?
+
+### 22. Μάντις, μαντεῖον, μαντεία
+
+Le grec μάντις (*mántis*) désigne le devin ou la devineresse, tandis que μαντεῖον (*manteîon*) désigne couramment le lieu oraculaire et que μαντεία (*manteía*) renvoie à la divination. L'étymon et la famille de mots appartiennent à une réflexion plus vaste sur le fait de dire ou de saisir un message divin ; ils ne suffisent pas à définir la formation individuelle des officiants.
+
+Pausanias VII, 3, 1 parle du sanctuaire et du *manteîon* de Claros. Le terme n'informe pas à lui seul sur le fonctionnement de l'adyton de l'époque romaine. C'est un bon exemple de la nécessité d'articuler philologie et datation sans faire d'un substantif grec un plan architectural.
+
+### 23. Θεσπιῳδός et προφήτης : deux tâches à ne pas confondre
+
+Les analyses de l'épigraphie clarienne distinguent un officiant parfois désigné comme *thespiōdos*, lié à l'énonciation inspirée, et le *prophētēs*, intervenant dans la formulation ou la transmission officielle. Le vocabulaire exact, les périodes d'attestation et les relations hiérarchiques exigent le contrôle des inscriptions ; ces mots ne sont pas des équivalents universels de « voyant » et « secrétaire ».
+
+Une question demeure : comment passait-on d'une expérience réservée à un spécialiste à un texte transmissible aux consultants ? La présence de deux fonctions, lorsqu'elle est documentée, suggère une médiation plutôt qu'une dictée transparente. Il faut éviter de reconstituer un secrétariat permanent homogène sur toute l'histoire du sanctuaire.
+
+### 24. Χρησμός : réponse, non simple prédiction
+
+Un χρησμός (*chrēsmós*) est un énoncé oraculaire, dont la valeur peut concerner un geste à accomplir, un rite à instituer, une fondation ou un danger à interpréter. Le traduire systématiquement par « prédiction de l'avenir » appauvrit le corpus. Une communauté peut s'adresser à Apollon pour savoir quoi faire après une calamité ; sa réponse peut prescrire une procession, une purification ou une dédicace plutôt qu'annoncer une date.
+
+Ce point est méthodologiquement central pour lire les inscriptions : il faut demander ce que le texte prétend décider et qui l'a reçu, sans lui imposer l'attente moderne d'une prophétie spectaculaire. La question de la véracité d'un avenir annoncé n'épuise pas l'histoire religieuse de l'oracle.
+
+### 25. Ἄδυτον : l'espace inaccessible et sa mobilité historique
+
+Le terme ἄδυτον (*ádyton*), littéralement un lieu où l'on n'entre pas librement, est fréquemment employé pour désigner l'espace intérieur réservé à la communication divine. À Claros, les recherches documentent un dispositif souterrain complexe, avec couloirs et pièces spécialisées. Cependant, un *adyton* ne prend pas partout la forme d'une caverne naturelle.
+
+Les cryptes construites en maçonnerie et les espaces accessibles par des parcours contrôlés montrent que la production du secret peut être architecturale. L'édifice ne donne pas seulement accès à une eau ; il sépare physiquement les positions des personnes. Ainsi, l'historien des pratiques doit décrire les niveaux, les seuils et les transformations avant de discuter de l'inspiration.
+
+### 26. Νύκτες ἱεραί : les « nuits sacrées »
+
+L'étude combinée des textes littéraires et de l'épigraphie fait apparaître des moments de consultation dits « nuits sacrées ». Les cérémonies nocturnes contribuent à distinguer le temps du sanctuaire du temps ordinaire, mais ne fournissent pas à elles seules une explication psychologique de ce que vivait le consultant.
+
+Ne pas confondre nuit rituelle, privation de sommeil, descente souterraine et incubation thérapeutique. L'incubation est un dispositif de sommeil et de révélation attesté dans certains sanctuaires guérisseurs ; rien n'autorise à la plaquer systématiquement sur Claros. Les nuits sacrées se comprennent d'abord comme des occasions institutionnellement réglées de consultation.
+
+## VI. Archéologie : cinq siècles de transformations du temple
+
+### 27. Des vestiges anciens et l'impossibilité d'une date unique
+
+Les recherches architecturales conduites à Claros indiquent un premier temple d'Apollon, au milieu du VIe siècle avant notre ère, organisé autour d'une cour avec un puits. Il faut distinguer cette datation archéologique de la date mythique, dite immémoriale, attribuée au sanctuaire par les Colophoniens chez Pausanias. Le second n'est pas une preuve de la première.
+
+Les fouilles ont révélé des couches plus anciennes et des matériels dont la relation aux cultes spécifiques doit être discutée au cas par cas. Un objet de la première fréquentation d'un lieu ne révèle pas automatiquement la forme d'un oracle ni la durée de vie d'une institution sacerdotale.
+
+### 28. Le grand projet de la fin du IVe siècle avant notre ère
+
+À la fin du IVe siècle avant notre ère, les travaux commencent sur un nouvel édifice dorique périptère, de type à cour, avec six colonnes prévues en façade et onze sur les longs côtés, selon la synthèse architecturale de l'Institut de recherche sur l'architecture antique. Le projet monumental demeure inachevé et connaît des remaniements successifs pendant plusieurs siècles.
+
+Il serait faux de dessiner l'édifice dans un « état originel complet » et de l'attribuer sans précaution à une année unique. L'histoire de Claros est celle d'un chantier long, dans lequel la fonction oraculaire et les choix monumentaux se réorganisent. Les colonnes de divers états, les fondations et les blocs remployés doivent être interprétés chronologiquement.
+
+### 29. L'architecture de la crypte : deux salles et des circulations
+
+Le sanctuaire se distingue par une crypte placée sous l'espace du temple, comprenant deux salles fonctionnellement différenciées : une zone pour ceux qui attendent ou sollicitent la réponse et une zone liée à l'officiant. La séparation architecturale apparaît dans les relevés, mais la manière précise dont les consultants étaient répartis a pu changer au cours du temps.
+
+Des couloirs et des escaliers déterminent les circulations. Il faut noter la hauteur, la pente, la présence de l'eau, les dispositifs d'éclairage supposés et le degré de visibilité de la pièce où se tient l'officiant. Cependant, l'absence de traces d'un système d'éclairage donné ne prouve ni son impossibilité ni sa présence ; on ne peut pas restituer des torches, des fumées ou des effets acoustiques à partir de l'esthétique d'une reconstitution moderne.
+
+### 30. La source : une chose matérielle, plusieurs récits
+
+L'eau constitue le point de jonction le plus explicite entre le texte de Tacite et le dispositif archéologique. L'historien romain dit que le prêtre boit à une source tenue pour secrète ; le temple conserve un ensemble hydraulique et souterrain qui oblige à prendre le problème au sérieux. Mais un rapprochement pertinent ne dispense pas d'une étude stratigraphique de la date des maçonneries et de leur circulation de l'eau.
+
+On peut soutenir avec prudence que l'eau est une composante significative de l'oracle impérial. On ne peut pas affirmer qu'elle avait une composition chimique particulière, un effet narcotique ou des propriétés hallucinogènes sans analyses et observations indépendantes. L'archéologie du liquide n'est pas l'histoire d'une « drogue sacrée » par défaut.
+
+### 31. L'autel et l'espace des sacrifices
+
+Les recherches de Claros ont identifié, outre le temple principal, des autels et des monuments qui rendent sensible la dimension publique du culte. Les participants n'allaient pas uniquement écouter un oracle : l'adresse au dieu pouvait passer par un sacrifice, une prière, une procession ou une dédicace. Les traces matérielles de ces opérations doivent être distinguées des prescriptions générales d'autres sanctuaires.
+
+L'existence d'un autel ne permet pas à elle seule d'identifier l'espèce de chaque victime, la fréquence des sacrifices ni la liste des personnes admises. C'est en croisant inscriptions, dépôts, architecture et, lorsque disponibles, données archéozoologiques que l'on peut préciser le calendrier religieux.
+
+### 32. Léto et Artémis : un sanctuaire familial et pluriel
+
+Claros n'est pas seulement « le temple d'Apollon ». Les vestiges et la sculpture indiquent une place pour Léto et Artémis. Les publications sur le groupe cultuel font état d'un Apollon assis au centre, encadré par deux figures féminines interprétées comme Artémis et Léto ; l'identification combine notamment les représentations sur les monnaies de Colophon et des fragments de marbre monumentaux.
+
+Ce regroupement rend visible une parenté divine, mais ne doit pas être transformé en preuve que les trois cultes possédaient les mêmes personnels, les mêmes jours de fête et des offrandes identiques. L'image du groupe et l'administration rituelle sont deux ensembles documentaires distincts.
+
+### 33. Fragments colossaux et restitution critique
+
+Une étude présentée à l'Académie des inscriptions et belles-lettres en 1995 souligne la conservation de fragments majeurs du groupe sculpté : deux torses féminins et un élément monumental appartenant à la statue assise. Ces fragments confirment la monumentalité de l'ensemble sans restituer toutes les parties manquantes.
+
+Une reconstruction iconographique scientifique doit identifier ce qui est antique, ce qui est complété et ce qui relève d'une hypothèse. On ne doit pas produire un rendu photoréaliste où les visages, les attributs, les polychromies et les surfaces seraient donnés comme attestés si ces éléments ne le sont pas. L'échelle des marbres ne vaut pas certitude des détails.
+
+### 34. Le parcours des monuments honorifiques
+
+Entre les propylées et le sanctuaire monumental, des bases honorifiques hellénistiques témoignent d'une volonté de rendre visible la mémoire civique. Leurs inscriptions peuvent documenter des bienfaiteurs, des magistrats, des délégations et des relations avec des autorités extérieures. Ces monuments ne sont pas des ornements sans histoire : ils composent une archive de pierre dans l'espace de circulation.
+
+Les études de Ferrary et Verger montrent l'importance de replacer les fragments dans leur contexte stratigraphique, notamment lorsque les bases ont été déplacées, remployées ou partiellement conservées. La position d'un texte sur une photographie moderne ne suffit pas à démontrer la position originale de lecture des visiteurs.
+
+### 35. Une histoire des fouilles en plusieurs étapes
+
+Le site est identifié à l'époque moderne, avec des travaux au début du XXe siècle ; les fouilles menées par Louis et Jeanne Robert et Roland Martin dans les années 1950-1960 ont livré les structures centrales et un vaste dossier épigraphique. Des campagnes ultérieures, notamment sous Juliette de La Genière, puis les études plus récentes du bâti, ont renouvelé la chronologie des monuments.
+
+La recherche n'est pas un événement achevé. Les hypothèses de restitution se révisent lorsque les relevés du sous-sol et les phases de chantier deviennent plus précis. Une bibliographie doit donc différencier les rapports fondateurs, les éditions d'inscriptions, les analyses architecturales et les synthèses récentes, au lieu de les traiter comme des sources d'un même âge.
+
+## VII. Le rituel : une parole collective, non une scène isolée
+
+### 36. Processions, chants, sacrifices : la temporalité du sanctuaire
+
+Les inscriptions et la recherche moderne permettent de replacer l'oracle dans des séquences comportant déplacement, chants et sacrifices. On ne peut pas réduire la consultation à l'instant où un prêtre boit l'eau. Il faut penser la préparation, l'arrivée, l'accès au sanctuaire, la cérémonie, l'attente et la restitution du message.
+
+Il faut surtout respecter la hiérarchie des preuves. Que des processions soient attestées ne prouve pas qu'elles suivaient à chaque époque le même parcours. Que des chants accompagnent un rite n'autorise pas à reconstituer leur mélodie. Les rites sont une pratique sociale évolutive et leurs descriptions requièrent des documents datés.
+
+### 37. L'énigme du consultant et l'information disponible au prêtre
+
+Tacite indique que l'officiant connaît le nombre et le nom de ceux qui consultent, mais pas la question exprimée. Cette description est essentielle à la rhétorique de la connaissance surhumaine : l'énoncé divin semble accéder à un contenu soustrait à l'information ordinaire. Elle implique une certaine organisation préalable des personnes et des demandes.
+
+Pour l'historien, il existe trois possibilités méthodologiquement différentes : Tacite résume correctement une procédure réelle ; il transmet une tradition idéalisée ; sa présentation simplifie un système à plusieurs officiants. On ne peut départager ces cas par le seul souhait de défendre ou de réfuter l'oracle. Les inscriptions constituent un contrôle extérieur, mais leur conservation reste partielle.
+
+### 38. Les officiants et les cités : recrutement, délégation, autorité
+
+Le lien entre Claros et Colophon implique que le personnel n'exerce pas dans un vide politique. Tacite signale la sélection d'officiants dans certains groupes familiaux et une provenance souvent milésienne. Il faut étudier la provenance de ces fonctions sans supposer que « milésien » signifie automatiquement « citoyen de Colophon », ou que toutes les charges étaient héréditaires sans exception.
+
+Les documents épigraphiques éclairent l'existence de spécialistes différents. Cela rend plausible une distribution de responsabilités : réception des consultants, exercice liturgique, formulation ou consignation des réponses, administration du sanctuaire. Les détails restent à dater par inscription ; ils ne peuvent être fabriqués à partir des seuls mots *prophētēs* et *thespiōdos*.
+
+### 39. Vers, écrit et mémoire
+
+La réponse en vers rend le message mémorable et publiquement transmissible. Elle peut circuler dans la mémoire de la communauté ou être citée dans une inscription. La métrique n'est pas simplement une décoration ; elle confère une forme à l'autorité. Pourtant, des vers parfaits ne permettent pas de déduire si la mise en forme est instantanée, préparée ou réalisée par plusieurs acteurs.
+
+La fabrication d'une réponse doit être examinée comme un acte social. Un message devient un oracle lorsqu'une communauté le reconnaît comme tel, lorsqu'il est formulé dans des conditions institutionnelles et lorsqu'il entre dans une histoire d'interprétation et d'application. Ce constat n'implique pas que la communauté entière y croyait de la même manière.
+
+### 40. Maladies, crises et consultations : ne pas inventer un inventaire
+
+La documentation plus large des oracles d'Apollon dans l'Empire montre leur intervention possible dans des situations de maladie, de calamité, de déplacements et de troubles collectifs. Il faut toutefois éviter de transférer à Claros la totalité des réponses conservées pour Didymes, Delphes ou un sanctuaire d'Asie Mineure dont l'attribution est débattue.
+
+Toute prétendue « liste de catastrophes » doit être fondée sur des inscriptions effectivement attribuées, datées et éditées. La prudence n'est pas un refus d'interpréter : elle protège l'étude contre les compilations de citations sorties de leur lieu de découverte ou de leur contexte de transmission.
+
+## VIII. La cité, Rome et le prestige du sanctuaire
+
+### 41. Les inscriptions de Colophon, les décrets et les bienfaits
+
+Les inscriptions découvertes à Claros documentent des honneurs civiques et des négociations avec des autorités extérieures. Les dossiers de Polémaios et de Ménippos, étudiés par Jean-Louis Ferrary, éclairent les relations de Colophon avec Rome au moment des réorganisations de l'Asie occidentale. Une inscription gravée dans le sanctuaire n'est pas nécessairement un oracle : elle peut être un décret politique que le lieu rend durable et visible.
+
+Cette distinction est fondamentale pour toute base de données MYTHOS. Les catégories « décret », « dédicace », « réponse oraculaire », « règlement », « base de statue » et « inscription honorifique » ne doivent pas être fondues dans un unique bloc de « textes sacrés ». Leur fonction, leur auteur, leur destinataire et leur autorité sont différents.
+
+### 42. La visite de Germanicus comme politique de la mémoire
+
+Dans le récit de Tacite, Germanicus visite des lieux chargés de mémoire grecque et troyenne avant de consulter Apollon. La scène sert aussi à dessiner le portrait d'un prince intéressé par les sanctuaires et les histoires du monde oriental. L'oracle de Claros s'insère dans cette construction historiographique, non dans un reportage neutre sur les pratiques locales.
+
+On peut distinguer trois niveaux : la visite que le récit affirme ; la description générale de la procédure donnée par Tacite ; l'interprétation rétrospective de l'annonce d'une mort précoce. Les mélanger produirait une preuve circulaire : la mort de Germanicus serait censée démontrer l'exactitude de tous les détails rituels racontés par l'historien.
+
+### 43. Rome, liberté civique et visibilité des honneurs
+
+La concentration de monuments honorifiques et les textes de l'époque hellénistique et romaine interrogent les rapports entre autonomie municipale, fidélités diplomatiques et espaces religieux. Claros permet de voir comment une cité se représente devant ses citoyens et les visiteurs venus de plus loin. Les noms gravés, les décisions reconnues et l'organisation du sanctuaire sont des formes de souveraineté pratique.
+
+Cela ne signifie pas que l'oracle n'était qu'un instrument de domination. La religion civique antique associe fréquemment une dévotion effective, des investissements matériels, des intérêts collectifs et des rivalités. L'historien doit refuser l'alternative trop simple entre « foi sincère » et « manipulation politique » lorsque les preuves ne permettent pas de juger l'intention intime des acteurs.
+
+### 44. La portée régionale de Claros
+
+Le sanctuaire a une renommée qui dépasse le territoire de Colophon. Cette extension ne doit pas être exprimée en chiffres de visiteurs non documentés. Pour restituer son aire d'influence, on devra relever la provenance des personnes nommées, des délégations et des inscriptions, les dates d'activité et les formes d'intervention des cités.
+
+Le sanctuaire appartient à un réseau ionien et égéen sans perdre son identité locale. Comparer le réseau des consultations avec celui des marchands, des concours et des sanctuaires voisins peut être fécond, à condition de ne pas supposer que tous ces flux suivent les mêmes routes ou obéissent aux mêmes motivations.
+
+## IX. Philosophies de l'oracle et théories de l'autorité
+
+### 45. Le problème socratique : savoir et ne pas savoir
+
+Les dialogues platoniciens posent, dans des contextes différents, la question de la connaissance, de l'inspiration et de la prétention à parler vrai. Dans l'*Apologie de Socrate* 20e-23b, l'énigme du message delphique entraîne une enquête critique ; dans l'*Ion* 533d-536d, Platon décrit l'inspiration poétique par des images d'aimantation et de transmission. Ces textes ne parlent pas du dispositif de Claros et ne doivent pas devenir des documents descriptifs sur ses prêtres.
+
+La comparaison philosophique porte sur une question : une autorité qui parle en tant qu'intermédiaire d'un dieu est-elle l'auteur de ce qu'elle énonce ? Elle éclaire le problème de Tacite, mais ne le résout pas. Un modèle philosophique de l'inspiration et une institution cultuelle empirique appartiennent à des régimes de preuve différents.
+
+### 46. Le *Phèdre* et la divination : compétence ou inspiration ?
+
+Dans le *Phèdre* 244a-245a, Socrate valorise une forme de *manía* divine qui peut surpasser la sagesse simplement humaine. La folie inspirée n'y est pas un diagnostic clinique. Le passage offre un vocabulaire pour réfléchir à la manière dont une culture grecque peut accorder une légitimité à des paroles qui ne proviennent pas d'un raisonnement ordinaire.
+
+Mais rien ne permet d'identifier directement le prêtre de Claros à l'état décrit par Platon, ni de déduire de la présence de l'eau une technique standardisée d'extase. Les analogies deviennent productives seulement si elles gardent leurs limites : le *Phèdre* est un dialogue philosophique athénien ; Claros, un ensemble rituel et matériel ionien dont la documentation culmine à d'autres périodes.
+
+### 47. Aristote et la pluralité des régimes de preuve
+
+La philosophie aristotélicienne distingue différentes formes de démonstration et de persuasion. Sans faire d'Aristote un observateur de Claros, on peut appliquer une rigueur élémentaire : un fragment d'inscription prouve une inscription, une description littéraire prouve qu'un auteur a écrit telle description, un vestige architectural prouve l'existence de certaines constructions. Aucun de ces documents ne prouve mécaniquement une intervention surnaturelle.
+
+La tentation inverse serait de décider qu'un document religieux n'est jamais « réel » parce qu'il met en scène des dieux. Il y a une réalité des gestes, des institutions, des croyances exprimées et des espaces consacrés qui demeure observable même si la validation métaphysique de l'oracle n'appartient pas à la méthode historique.
+
+### 48. L'énigme de Calchas : prédiction, réfutation et vérification
+
+Le concours Mopsos-Calchas est une petite machine narrative. Il installe une proposition difficile à vérifier, puis fournit une vérification visible ou différée et déplace le prestige d'un spécialiste à un autre. La forme de la question décide des conditions de contrôle. Les figues, comme les porcelets, deviennent des objets épistémologiques au sein d'un récit religieux.
+
+On pourrait rapprocher prudemment ce dispositif des discussions contemporaines sur l'épreuve des prétentions au savoir. Pourtant, la mort de Calchas comme sanction de sa défaite donne au récit une structure tragique étrangère à un débat moderne contradictoire. La preuve n'y est pas impersonnelle ; elle entraîne la perte d'un statut héroïque.
+
+### 49. L'énonciation déléguée : que signifie « parler pour » ?
+
+Le mot grec *prophētēs* engage la question de l'énonciation. Le message est attribué au dieu, reçu ou transmis par des humains, accepté ou discuté par une communauté. On peut réfléchir aux niveaux d'auteur, de locuteur, d'interprète et de destinataire sans les confondre. Cette distinction permet d'examiner pourquoi une réponse peut conserver son autorité après la mort de l'officiant qui l'a formulée.
+
+Le texte oraculaire, la base inscrite et le récit d'un auteur sont des médiations. Une monographie de Claros doit s'intéresser à leur chaîne de transmission. Lorsqu'une cité fait graver une réponse, elle ne conserve pas seulement une phrase ; elle inscrit dans l'espace un choix interprétatif et la mémoire d'une décision.
+
+### 50. Eau, obscurité, voix : une phénoménologie sous contrôle
+
+La descente et la séparation des espaces ont probablement modifié la perception des acteurs : l'attente, le changement de luminosité et la proximité de l'eau sont des éléments objectivement pertinents. Une approche phénoménologique peut explorer ces conditions de perception, mais elle doit séparer les possibles d'expérience de ce qui est effectivement attesté.
+
+Il est interdit de décrire la peur, l'ivresse, la révélation ou les visions des consultants comme si des témoignages individuels les avaient enregistrées. Les éléments conservés sont des structures et des textes, non les sensations de tous les participants. L'éthique du récit savant commande de ne pas remplir les silences documentaires avec des émotions attribuées par l'auteur moderne.
+
+## X. Comparaisons prudentes
+
+### 51. Delphes : analogie apollinienne et différence institutionnelle
+
+Les deux sanctuaires partagent Apollon, la consultation de questions humaines et une réputation de communication divine. Tacite insiste précisément sur leur différence : à Claros, à son époque, l'officiant qu'il décrit est un homme. D'autres différences concernent la topographie, les textes disponibles et les modalités de recrutement. On ne saurait transporter la trépied pythique dans la crypte de Claros pour obtenir une image supposée complète du rite.
+
+Le dossier delphique peut offrir des questions comparatives — qui formule la question, qui interprète la réponse, qui consigne le message ? — mais les solutions doivent être cherchées dans chaque site. Le même nom divin n'est pas une garantie d'identité des techniques.
+
+### 52. Didymes : deux oracles ioniens, deux architectures
+
+Didymes, lié à Milet, offre un parallèle géographique et institutionnel utile. Les deux sanctuaires sont des lieux d'Apollon dont l'activité dépend de routes, de délégations, de personnels et de bâtiments monumentaux. Cependant, leurs plans ne se superposent pas, leurs dispositifs d'eau ne sont pas nécessairement contemporains et les offices épigraphiques ne sont pas parfaitement équivalents.
+
+Le rapprochement doit travailler à trois échelles : histoires locales des sanctuaires ; réseaux de cités ioniennes ; transformations à l'époque impériale. Il serait inexact de créer une théorie globale des « eaux hallucinogènes d'Apollon » en compilant simplement les termes puits, fontaine et adyton.
+
+### 53. Dodone, Amphiaraos et les sanctuaires guérisseurs
+
+Dodone est associé à Zeus et à d'autres modalités de consultation, tandis que l'Amphiaraion d'Oropos est connu notamment pour ses pratiques de guérison et d'incubation. Leur rapprochement avec Claros permet de mesurer la variété des médiations : voix rituelle, signes, rêves et textes. Ces dispositifs n'ont ni le même destinataire divin, ni la même finalité sociale, ni nécessairement les mêmes périodes d'apogée.
+
+L'intérêt de la comparaison est d'éviter une définition intemporelle de « l'oracle grec ». Ce terme couvre des institutions plus hétérogènes que ne le suggère une image populaire de la Pythie inspirée dans un nuage de vapeurs.
+
+### 54. Anatolie, populations locales et refus des équivalences automatiques
+
+Le récit de Pausanias fait explicitement une place aux Cariens dans la préhistoire mythique de Claros ; d'autres sources attestent les échanges culturels en Anatolie occidentale. Il serait pourtant abusif d'identifier sans preuve Apollon Clarien à telle divinité hittite, louvite ou carienne sur la seule base de fonctions oraculaires comparables.
+
+Une hypothèse de continuité religieuse demanderait des documents intermédiaires, des lieux de culte et des inscriptions. Une tradition grecque d'arrivée de Manto sur une terre carienne témoigne d'une mémoire des rapports entre populations, pas d'une traduction automatique de tous les théonymes locaux.
+
+### 55. Les oracles mésopotamiens et l'Égypte : comparaison de dispositifs, non filiation
+
+Les pratiques divinatoires du Proche-Orient ancien reposent sur divers supports : présages écrits, phénomènes corporels, observations astrales, interprétation des rêves ou consultations institutionnelles. La comparaison avec Claros peut porter sur la formation des spécialistes, les archives, les réponses aux souverains et les conditions politiques de la parole. Elle ne permet pas de construire une chaîne de transmission directe sans preuve documentaire.
+
+L'Égypte pharaonique connaît elle aussi des formes de décision oraculaire et des procédures cultuelles spécifiques. Il faut garder distincts langue, support, calendrier et statut de l'officiant. Les ressemblances génériques entre « un dieu qui répond » et « un prêtre qui interprète » sont trop étendues pour constituer en elles-mêmes une démonstration d'influence.
+
+## XI. Contrôle historiographique et bilan des certitudes
+
+### 56. Tableau méthodologique des affirmations
+
+- **Élevé** : Pausanias VII, 3, 1-2 rapporte une fondation où Manto rejoint Rhakios et où Mopsos tient une place décisive. Cela atteste le récit, non sa véracité événementielle.
+- **Élevé** : Strabon XIV, 1, 27 préserve des variantes du concours Calchas-Mopsos, notamment des réponses sur les figues et la truie. La localisation varie selon les auteurs qu'il cite.
+- **Élevé** : Tacite II, 54 décrit une consultation de l'oracle de Claros dans le récit du voyage de Germanicus, avec prêtre masculin, source et vers. Les détails de toute la procédure ne sont pas nécessairement exhaustifs.
+- **Élevé** : un grand temple inachevé et des espaces oraculaires souterrains sont archéologiquement documentés ; leur chronologie est stratifiée.
+- **Élevé** : des fragments de sculpture monumentale et des images monétaires fondent la restitution générale d'un groupe cultuel associant Apollon, Artémis et Léto.
+- **Probable** : plusieurs offices rituels distincts contribuent aux consultations, dans des configurations évolutives.
+- **À vérifier dans chaque pièce** : noms de responsables, années de prestation, parcours des groupes, origine géographique des consultants et réglementation des sacrifices.
+- **Non démontré** : transe chimiquement provoquée, reproduction intacte d'un rite depuis l'âge du Bronze, identité universelle de tous les oracles apolliniens, restitution intégrale des statues et de la polychromie.
+
+### 57. Comment ne pas confondre récit et publication épigraphique
+
+La pierre donne une matérialité à une décision, pas une garantie que toutes les assertions gravées ont été réalisées. Les archives d'inscriptions doivent conserver les lacunes, les points souscrits, les restitutions éditoriales et la date de publication scientifique. Les noms de Manto, Mopsos et Calchas relèvent d'abord d'une tradition littéraire ; les noms d'un décret honorifique, d'une dédicace ou d'un personnel sacerdotal sont soumis à une autre critique.
+
+Une base bibliographique sur Claros devrait enregistrer pour chaque assertion : témoin antique ; date de rédaction ou de gravure ; lieu de découverte ; édition utilisée ; statut de restauration ; argument de la datation ; lien vers une image ; niveau de certitude. Une mention isolée de « Strabon » ou de « l'archéologie » est insuffisante pour une assertion spécialisée.
+
+### 58. Reconstitutions : ne pas confondre rendu et preuve
+
+Pour l'iconographie publique de MYTHOS, aucun rendu 2,5D ni aucune image avec menu ou texte incrusté ne doit être introduit. Une photographie archéologique authentifiée reste préférable à une restitution spéculative. Si une restitution photoréaliste future du temple est envisagée, elle devra être affectée à une **phase précisément datée** et accompagnée d'un dossier séparant les volumes attestés, les élévations proposées et les parties inconnues.
+
+La crypte impose des précautions spécifiques : pas de faux récit d'une cérémonie intégralement visible depuis un point de vue impossible, pas de fumée psychotrope ajoutée pour dramatiser, pas de vêtements sacerdotaux inventés comme faits établis. La richesse visuelle doit s'appuyer sur la publication des relevés et non dissimuler le caractère hypothétique des éléments manquants.
+
+## XII. Propositions iconographiques et documents à associer
+
+### 59. Série photographique scientifique proposée
+
+1. **Vue d'ensemble du temple d'Apollon à Claros** : photographie moderne géolocalisée, datée, créditée et montrant fondations et terrassements ; légende décrivant les phases sans promettre l'aspect d'un édifice achevé.
+2. **Entrée du dispositif souterrain** : photographie du passage maçonné, avec échelle et précautions sur les niveaux d'eau contemporains.
+3. **Salle de la consultation et espace de l'officiant** : vue distincte de chaque salle, légendes séparant fonction proposée et usage assuré.
+4. **Plan archéologique phasé** : reprise autorisée du plan publié dans les rapports de Moretti et collaborateurs, avec références et code de couleur interprété en légende externe à l'image.
+5. **Bases honorifiques près du parcours processionnel** : images des surfaces inscrites, avec attribution, texte, contexte et datation.
+6. **Fragments du groupe cultuel Apollon-Artémis-Léto** : photographies de chaque élément conservé, suivies d'un schéma de restitution distinct et explicitement hypothétique.
+7. **Monnaies de Colophon figurant le groupe cultuel** : avers et revers, musée, numéro d'inventaire, datation de l'émission et licence de reproduction vérifiée.
+8. **Carte de la région Colophon-Claros-Notion-Milet** : fond cartographique géoréférencé et sites vérifiés ; ne pas tracer une procession sur une route non attestée.
+9. **Chronologie des phases du temple et des fouilles** : tableau scientifique allant des vestiges archaïques aux explorations modernes, sans produire une image d'un état totalement homogène.
+
+Chaque document iconographique doit présenter, dans la notice séparée : auteur ou institution, numéro de cliché ou d'inventaire, année, licence, source stable, datation archéologique et degré de certitude. Il n'est pas fait ici de déclaration de licence pour une photographie non contrôlée.
+
+### 60. Recommandations pour une notice archéologique associée
+
+La notice d'une reconstruction de l'adyton devrait rappeler que son aménagement est le produit d'interventions successives. On y distinguera l'état fouillé, les surfaces reconstruites par les archéologues, les éléments portés par Tacite et les hypothèses artistiques. Pour les statues cultuelles, le rapport entre les images monétaires et les fragments colossaux sera expliqué plutôt que converti en portrait photographique prétendument exact.
+
+Il serait également pertinent de proposer un plan accessible sur smartphone, avec textes alternatifs et bibliographie. Le choix de la sobriété permet de rendre visibles les preuves, là où des effets de mise en scène pourraient éclipser leur provenance. Dans MYTHOS, l'illustration doit augmenter la vérifiabilité du texte, non la remplacer.
+
+## XIII. Sources primaires et bibliographie critique
+
+### 61. Textes antiques : corpus commenté
+
+- **Pausanias, *Description de la Grèce* VII, 3, 1-2** : origine crétoise du peuplement selon les Colophoniens, Manto venue de Thèbes par Delphes, Rhakios, naissance de Mopsos, mémoire du territoire carien. Texte et traduction consultables dans [Digital Periegesis](https://periegesis.abm.uu.se/en/sx_PrintPage.php?reportid=200) et [Perseus/Theoi](https://www.theoi.com/Text/Pausanias7A.html).
+- **Strabon, *Géographie* XIV, 1, 27** : Colophon, Claros, concours Calchas-Mopsos et variantes attribuées à Hésiode, Phérécyde et Sophocle ; [édition de consultation](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Strabo/14A%2A.html).
+- **Pseudo-Apollodore, *Épitomé* VI, 2-4** : itinéraire de retour, filiation apollinienne de Mopsos, épreuves des figues et de la truie, mort de Calchas ; [texte de référence](https://beta.perseus.tufts.edu/urn:cts:greekLit:tlg0548.tlg002.perseus-eng2:6/).
+- **Hésiode, *Mélampodie*, fragments transmis par Strabon XIV, 1, 27** : compétition de comptage. La numérotation moderne des fragments doit être mentionnée avec l'édition suivie ; ne pas citer la *Mélampodie* comme œuvre intégralement conservée.
+- **Sophocle, tragédie perdue évoquée par Strabon XIV, 1, 27** : oracle sur la mort de Calchas et déplacement du concours en Cilicie. Contrôler dans les éditions des fragments tragiques (notamment Radt) l'identification du titre et du fragment avant une citation grecque.
+- **Tacite, *Annales* II, 54** : voyage de Germanicus, origine du prêtre, eau secrète, réponse versifiée ; [édition bilingue de consultation](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Tacitus/Annals/2C%2A.html).
+- **Tacite, *Annales* XII, 22** : autre mention du recours à l'oracle dans le contexte des affaires impériales ; à interpréter indépendamment de II, 54.
+- **Hymne homérique à Apollon**, v. 40 ; **Hymne homérique à Artémis**, v. 3-5 : géographie apollinienne et présence de Claros dans la poésie hymnique ; vérifier les numérotations et les leçons dans l'édition critique retenue.
+- **Platon, *Apologie de Socrate* 20e-23b ; *Ion* 533d-536d ; *Phèdre* 244a-245a** : comparaisons conceptuelles sur l'oracle et l'inspiration, **non** témoignages sur Claros.
+
+### 62. Inscriptions : éditions, statut et recherche
+
+- **Jean-Louis Ferrary**, « Le statut des cités libres dans l'Empire romain à la lumière des inscriptions de Claros », *Comptes rendus des séances de l'Académie des inscriptions et belles-lettres* 135/3 (1991), p. 557-577. Étude des documents honorifiques de Colophon et des rapports avec Rome : [texte](https://www.persee.fr/doc/crai_0065-0536_1991_num_135_3_15015).
+- **Jean-Louis Ferrary et Stéphane Verger**, « Contribution à l'histoire du sanctuaire de Claros à la fin du IIe et au Ier siècle av. J.-C. : l'apport des inscriptions en l'honneur des Romains et des fouilles de 1994-1997 », *CRAI* 143/3 (1999), étude des monuments et des contextes : [édition](https://www.persee.fr/doc/crai_0065-0536_1999_num_143_3_16041).
+- **Pierre Debord et Pierre Fröhlich**, « Aigai d'Éolide et Colophon-sur-Mer : un nouveau fragment de l'inscription trouvée à Claros », *Revue des Études Anciennes* 120/2 (2018), p. 339-365, [DOI 10.3406/rea.2018.6882](https://www.persee.fr/doc/rea_0035-2004_2018_num_120_2_6882). Exemple de révision documentaire grâce à un fragment nouvellement identifié.
+
+Les éditions des textes gravés doivent être consultées pour le détail des restitutions, des textes grecs et de leur provenance. Les études listées ici n'autorisent pas à attribuer un numéro de corpus précis à une pièce non vérifiée.
+
+### 63. Archéologie et iconographie : études spécialisées
+
+- **Jean-Charles Moretti, Nicolas Bresch et Jean-Jacques Malmary**, « Le temple d'Apollon à Claros (Turquie) », Institut de recherche sur l'architecture antique : [présentation de la mission](https://iraa.mmsh.fr/etudes-et-missions/le-temple-dapollon-a-claros-turquie/). Synthèse des deux temples, du grand chantier dorique et de l'installation de la crypte.
+- **Équipe du sanctuaire de Claros**, « Claros, le temple d'Apollon : travaux réalisés en 2014 », *Anatolia Antiqua*, [rapport et plan consultable](https://journals.openedition.org/anatoliaantiqua/364). À utiliser pour les phases et les espaces, sans reproduire les images sans autorisation.
+- **« Le groupe cultuel du temple d'Apollon à Claros »**, communication publiée dans les *CRAI* 139/2 (1995), [texte](https://www.persee.fr/doc/crai_0065-0536_1995_num_139_2_15490). Données sur la statue assise d'Apollon, les deux figures féminines et les fragments colossaux.
+- **David Potter**, « Claros », *Oxford Classical Dictionary*, Oxford University Press, mise en ligne 22 décembre 2015, [DOI 10.1093/acrefore/9780199381135.013.1600](https://academic.oup.com/edited-volume/61673/chapter-abstract/548753246). Synthèse de la fondation, des inscriptions et de l'organisation des consultations.
+- **Académie des inscriptions et belles-lettres**, « Prospections et fouilles archéologiques françaises en Turquie », [notice](https://aibl.fr/coupoles/prospections-et-fouilles-archeologiques-francaises-en-turquie-coupoles-2009/). Histoire des opérations de Louis Robert et de la découverte de l'adyton.
+
+### 64. Bibliographie générale pour poursuivre l'enquête
+
+- **Johnston, Sarah Iles**, *Ancient Greek Divination*, Wiley-Blackwell, 2008. Outil comparatif pour les fonctions des spécialistes et les pratiques divinatoires, à ne pas substituer aux inscriptions locales.
+- **Flower, Michael A.**, *The Seer in Ancient Greece*, University of California Press, 2008. Étude de l'autorité des devins et de ses variations.
+- **Fontenrose, Joseph**, *The Delphic Oracle: Its Responses and Operations*, University of California Press, 1978. Référence critique sur Delphes, à employer pour comparer les problèmes documentaires plutôt que pour décrire Claros.
+- **Parke, H. W.**, *The Oracles of Apollo in Asia Minor*, Croom Helm, 1985. Ouvrage de base pour comparer Claros et Didymes ; plusieurs points doivent être réévalués à la lumière des découvertes postérieures.
+- **Burkert, Walter**, *Greek Religion*, Harvard University Press, 1985 (trad. anglaise de *Griechische Religion*). Cadre général, non un inventaire suffisant des rites clariens.
+- **Vernant, Jean-Pierre**, *Mythe et pensée chez les Grecs*, Maspero, 1965, rééditions ultérieures. Cadre d'histoire intellectuelle ; l'analyse du savoir mantique doit respecter les différences chronologiques et locales.
+
+## Conclusion — L'oracle est un lieu où la parole devient institution
+
+Claros oblige à dépasser la représentation d'un dieu qui parlerait directement et sans médiation à des individus isolés. Le pouvoir d'Apollon Clarien s'inscrit dans une généalogie mythique disputée, une topographie sociale, une architecture à phases multiples et une circulation de textes. Manto relie Thèbes à l'Ionie ; Mopsos concurrence Calchas sur le terrain de l'exactitude ; les Colophoniens entretiennent une mémoire de fondation ; le temple construit des seuils entre profanes, consultants et officiants ; l'oracle passe par des acteurs que la littérature et les inscriptions permettent d'apercevoir partiellement.
+
+La leçon de méthode est plus générale : **l'autorité religieuse ne se déduit ni de la seule croyance, ni de la seule pierre, ni d'une explication philosophique préalable.** Elle résulte de la rencontre historique d'énoncés, de procédures, de lieux et de communautés. Apollon Clarien n'est pas un « autre Apollon » opposé au dieu de Delphes ; il est la manifestation locale d'une divinité grecque dans une institution ionienne qui possède une trajectoire archéologique, sociale et intellectuelle propre.
+
+*Notice de continuité MYTHOS — Étude autonome et non numérotée au dépôt. Aucun numéro futur n'est réservé, aucune modification des manuscrits antérieurs, aucune planification horaire modifiée. Les propositions d'illustrations ne constituent pas une déclaration d'intégration de fichiers médias ni de déploiement public.*
