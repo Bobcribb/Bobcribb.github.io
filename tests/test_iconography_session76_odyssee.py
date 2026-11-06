@@ -24,7 +24,7 @@ class IconographySession76(unittest.TestCase):
         self.assertEqual(len(soup.find_all("img", src="/assets/philosophie/odyssee-arc-preuve-autorite-s76-20261106.svg")), 1)
         self.assertTrue(ASSET.is_file())
         caption = figure.find("figcaption").get_text(" ", strip=True)
-        for required in ("Odyssée", "Pénélope", "douze haches", "assistance IA", "non artefact"):
+        for required in ("Odyssée", "Pénélope", "douze haches", "assistance IA", "ni artefact"):
             self.assertIn(required.lower(), caption.lower())
         self.assertIsNotNone(figure.find("a", href="https://homer.johnhboyer.com/odyssey/book/21/"))
         ids = [tag["id"] for tag in soup.find_all(id=True)]
