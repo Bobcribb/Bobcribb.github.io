@@ -90,5 +90,18 @@ class IacchosConcordanceTests(unittest.TestCase):
         self.assertNotIn("nouvel UUID est créé", text)
 
 
+    def test_policy_prevents_unjustified_third_study(self):
+        """Toute nouvelle étude sur ce passage exige un apport scientifique démontré."""
+        policy = (ROOT / "AGENTS.md").read_text(encoding="utf-8")
+        self.assertIn("Recouvrement des *Grenouilles* (issue #58)", policy)
+        self.assertIn("Avant toute troisième livraison", policy)
+        self.assertIn("sources ou variantes nouvelles", policy)
+        concordance = (ROOT / "docs/CONCORDANCE_IACCHOS_GRENOUILLES_269_273.md").read_text(
+            encoding="utf-8"
+        )
+        self.assertIn("troisième monographie", concordance)
+        self.assertIn("une revue éditoriale", concordance)
+
+
 if __name__ == "__main__":
     unittest.main()
