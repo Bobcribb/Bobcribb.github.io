@@ -100,6 +100,10 @@
     "6b58e7d9-d030-4704-8c8d-5aa9f816bfd5": {
       "request_sha256": "8181ec0d2d1012bb62b9c3d882858e984bd5003a9997d19a438c50be0d690535",
       "reason": "Recouvrement éditorial constaté le 6 novembre 2026 : la monographie Gobero, Niger — morts au bord du lac, gestes de deuil et mémoire des communautés sahariennes (UUID 6b58e7d9-d030-4704-8c8d-5aa9f816bfd5, 47 569 caractères Markdown, commit 60e3fd7 à 07:38:10 UTC) traite déjà le sujet déposé auparavant sous UUID d93f842b-c795-4bb9-9837-086d2b71f5a2 (40 648 caractères, commit fee26bb à 07:36:09 UTC). Préserver les deux manuscrits intégraux et ne pas attribuer à cette nouvelle variante un second numéro autonome avant rapprochement scientifique, comparaison des références et conservation comme complément critique. Ne supprimer ni réécrire les demandes, ne modifier aucun reçu attribué."
+    },
+    "4f96a7d1-7cde-4b95-ae63-202611060096": {
+      "request_sha256": "a7d7c54645a212c0d1916803126b11cdb14af12e874fe1a0c56f64bda2f26753",
+      "reason": "Collision historique MC-096 avérée le 6 novembre 2026 : la demande chronologiquement antérieure 9b4d6a70-8ef2-4b8c-a4d3-202611060755 (étude « Les ombres du divin », 59 063 caractères de JSON) revendique déjà MC-096. Cette soumission postérieure 4f96a7d1-7cde-4b95-ae63-202611060096, « Les mains du divin » (43 708 caractères de JSON), traite un objet scientifique distinct, sans devoir recevoir un deuxième identifiant MC-096. Préserver son intégralité et son empreinte dans editorial/inbox sans numéro canonique ; après vérification des identifiants historiques disponibles, réconcilier le manuscrit avec une cote nouvelle et un nouvel UUID distinct, sans réécrire ni supprimer la demande originale ni toucher aux numéros déjà attribués. Cette retenue permet au générateur de poursuivre les autres publications."
     }
   }
 }
