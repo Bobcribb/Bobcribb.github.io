@@ -4,7 +4,7 @@
 
 **Monographie universitaire originale, 4 novembre 2026 — histoire des religions, philologie comparée, égyptologie, assyriologie, études grecques, indologie, études bibliques et philosophie du langage.**
 
-**Identifiant historique : MC-070.** Il ne doit jamais être confondu avec le numéro canonique romain du volume, attribué de façon atomique par GitHub Actions. Les variables CCXLVIII et 248 sont des emplacements techniques non attribués. Les références numériques antiques et bibliographiques restent inchangées.
+**Identifiant historique : MC-070.** Il ne doit jamais être confondu avec le numéro canonique romain du volume, attribué de façon atomique par GitHub Actions. Le circuit transactionnel a attribué le volume CCXLVIII (248), conformément au reçu conservé dans `editorial/numbering.json`. Les références numériques antiques et bibliographiques restent inchangées.
 
 **Statut documentaire :** texte intégral destiné à la file publique MYTHOS ; son dépôt n'est pas, à lui seul, une preuve de déploiement public.
 
