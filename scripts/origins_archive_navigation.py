@@ -87,4 +87,5 @@ def archive_shelf(out: Path, root: Path) -> str:
         '</section>'
     )
     from origins_archival_concordance import enrich
-    return enrich(fragment, out, root)
+    from origins_integral_reader import link_integral_edition
+    return link_integral_edition(enrich(fragment, out, root), out, root)
