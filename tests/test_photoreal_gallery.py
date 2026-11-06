@@ -41,7 +41,7 @@ class TestPhotorealGalleryVerification(unittest.TestCase):
                   '<figcaption>Restitution hypothétique</figcaption></figure>'
                   '<div class="r3d-science"><p>Degré de certitude faible pour les élévations.</p>'
                   '<a href="https://example.org/kassope">Source</a></div></article>')
-        webp = b"RIFF" + b"\\x04\\x00\\x00\\x00" + b"WEBP" + b"test"
+        webp = b"RIFF" + b"\x04\x00\x00\x00" + b"WEBP" + b"test"
         with TemporaryDirectory() as folder:
             root = Path(folder)
             for resource, contents in ((image, webp), (notice, b'{"id":"KAS-AGO-001"}')):
