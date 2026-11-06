@@ -1,6 +1,6 @@
 # MYTHOS — Archives grecques illustrées et navigation réciproque
 
-Contrôle éditorial : 6 novembre 2026. Base de cette intervention : __BASE__.
+Contrôle éditorial : 6 novembre 2026. Base de cette intervention : `d34278be7d41fcd4dbb5dba29023d3d6bf534efd`.
 Dépôt `Bobcribb/Bobcribb.github.io`, branche `main`.
 
 ## Inventaire et statut scientifique
