@@ -1,0 +1,61 @@
+{
+  "id": "KER-ART-001",
+  "slug": "corfou-palaeopolis-artemision-gorgone-vers-580-av-jc",
+  "title": "Corfou (Korkyra) — Artémision de Paléopolis, temple dorique à la Gorgone, vers 580 av. J.-C.",
+  "period": "Époque archaïque, vers 590–580 av. J.-C. ; vue d’évocation après l’achèvement du grand temple, vers 580 av. J.-C.",
+  "caption": "Reconstitution visuelle photoréaliste interprétative de l’Artémision de Korkyra : temple dorique archaïque à huit colonnes en façade, colonnade latérale et grand fronton occidental évoquant la Gorgone et les félins ; couverture, polychromie et environnement conjecturaux.",
+  "commentary": "Le grand temple d’Artémis de l’ancienne Korkyra (Corfou), situé dans la zone de Paléopolis, vers Stratia et le monastère des Saints-Théodores, appartient à la monumentalisation des sanctuaires grecs au début du VIe siècle av. J.-C. Sa construction est datée des environs de 590–580 av. J.-C. Les substructions conservées, certains éléments architecturaux, les vestiges de l’autel et surtout les sculptures du fronton occidental conservées au Musée archéologique de Corfou constituent les documents matériels primaires. Les notices archéologiques décrivent généralement un temple dorique à huit colonnes en façade et dix-sept sur les longs côtés (plan souvent qualifié de pseudo-diptère), mesurant environ 47,9 × 22,4 m. Le naos comprenait des divisions internes, un pronaos et un opisthodome. Le très ancien fronton monumental de pierre est centré sur une figure de Gorgone en course dite « agenouillée », avec Pégase et Chrysaor, encadrée par de puissants félins ; des scènes mythologiques secondaires occupent les extrémités. Le sanctuaire et sa façade sculptée sont une expression fondamentale de l’architecture archaïque et des premières recherches grecques sur la composition frontonale. La scène graphique adopte une vue en trois quarts de la façade occidentale, où se trouvait le fronton à la Gorgone, et du flanc du temple. L’accès principal du naos était tourné vers l’est : la façade occidentale ici montrée ne doit pas être prise pour la porte d’entrée principale. L’image évoque des détails des sculptures mais ne reproduit pas fidèlement les proportions et les visages du fronton original conservé au musée. Elle propose des tuiles de terre cuite, des traces de couleur, une grande élévation de la colonnade, une architecture secondaire, des visiteurs en vêtements de l’époque et une implantation côtière arborée. Ces caractéristiques, ainsi que l’axe exact de la caméra, le dessin des acrotères, la toiture, les parements, l’autel non représenté avec précision et les aménagements paysagers, relèvent de la conjecture. Le rendu est non métrique, sans levé photogrammétrique, sans modèle 3D issu d’un chantier scientifique et sans validation par les institutions citées. La Gorgone figurée n’est pas une représentation d’Artémis : elle participe au décor protecteur (apotropaïque) de son temple, et le temple ne doit pas être confondu avec l’édifice distinct d’Apollon à Kardaki.",
+  "certainty": "Élevé : existence du sanctuaire d’Artémis à Paléopolis, datation archaïque vers 590–580 av. J.-C., ordre dorique, fronton occidental en pierre à Gorgone et grands félins, vestiges du temple et de l’autel. Moyen : plan restitué 8 × 17, dimensions autour de 47,9 × 22,4 m, proportions relatives et arrangement des espaces du naos, élévation générale de la colonnade, orientation des vues restituées. Faible : géométrie exacte des hauteurs, fidélité du relief de Gorgone figuré sur l’image, finition et couleurs des sculptures, couverture et acrotères, entourage bâti, végétation, personnages, position de la caméra, lumière, proximité visuelle de la mer.",
+  "source_url": "https://archaeologicalmuseums.culture.gov.gr/en/museum/5df34af3deca5e2d79e8c162/archaeological-museum-of-kerkyra",
+  "secondary_sources": [
+    "https://www.hh.gr/en/destinations/corfu-museum/",
+    "https://perseus-aa.github.io/items/aa_94.html",
+    "https://museum.classics.cam.ac.uk/collections/casts/corcyra-temple-artemis-west-pediment",
+    "https://interpass.corfuport.gr/temple-of-artemis/",
+    "https://www.greek-language.gr/digitalResources/ancient_greek/navigator/browse.html?object_id=30372"
+  ],
+  "src": "/assets/reconstitutions-3d/corfou-palaeopolis-artemision-gorgone-vers-580-av-jc.webp",
+  "image": "/assets/reconstitutions-3d/corfou-palaeopolis-artemision-gorgone-vers-580-av-jc.webp",
+  "width": 1672,
+  "height": 941,
+  "created_at": "2026-11-06",
+  "type": "reconstitution numérique photoréaliste interprétative à apparence 3D, non métrique",
+  "provenance": "Création visuelle originale générative pour MYTHOS ; aucune interface, menu, logo, légende, plan 2,5D ou watermark intégrés aux pixels. Sources documentaires sans caution institutionnelle du rendu.",
+  "sha256": "e017560714b3c864f83ddc661ff504c7854f7ccc5db4d3ceb0e957d16055d56b",
+  "scientific_notice": "/assets/reconstitutions-3d/notices/corfou-palaeopolis-artemision-gorgone-vers-580-av-jc.json",
+  "scientific_sources": [
+    {
+      "label": "Ministère grec de la Culture — Musée archéologique de Corfou (fronton de la Gorgone)",
+      "url": "https://archaeologicalmuseums.culture.gov.gr/en/museum/5df34af3deca5e2d79e8c162/archaeological-museum-of-kerkyra"
+    },
+    {
+      "label": "Hellenic Heritage — Musée archéologique de Corfou (Artémis Gorgo, vers 580 av. J.-C.)",
+      "url": "https://www.hh.gr/en/destinations/corfu-museum/"
+    },
+    {
+      "label": "Perseus Art and Archaeology Browser — Corcyra, Temple of Artemis, aa_94 (plan et dimensions)",
+      "url": "https://perseus-aa.github.io/items/aa_94.html"
+    },
+    {
+      "label": "Museum of Classical Archaeology, Cambridge — Corcyra, Temple of Artemis, west pediment",
+      "url": "https://museum.classics.cam.ac.uk/collections/casts/corcyra-temple-artemis-west-pediment"
+    },
+    {
+      "label": "Corfu Port Authority — Temple of Artemis, Palaeopolis (vestiges, autel)",
+      "url": "https://interpass.corfuport.gr/temple-of-artemis/"
+    },
+    {
+      "label": "Centre for the Greek Language — Ναός της Αρτέμιδος στην Κέρκυρα, architecture et plan",
+      "url": "https://www.greek-language.gr/digitalResources/ancient_greek/navigator/browse.html?object_id=30372"
+    }
+  ],
+  "archaeological_primary_evidence": [
+    "Vestiges de l’Artémision de Paléopolis, notamment fondations du temple et restes de l’autel (document matériel)",
+    "Sculptures du fronton ouest à Gorgone, Pégase, Chrysaor et grands félins, conservées au Musée archéologique de Corfou (document matériel)"
+  ],
+  "primary_texts": [
+    "Aucun texte antique conservé ne décrit intégralement le décor peint, les élévations ou l’état du temple vers 580 av. J.-C. ; ne pas reconstituer de témoignage imaginaire."
+  ],
+  "methodology": "Synthèse visuelle non métrique fondée sur plan général, éléments sculptés conservés et topographie régionale. L’icône sculptée et le décor peint restent artistiques ; ne jamais utiliser ce visuel comme preuve ou relevé architectural.",
+  "publication_status": "fichier_prepare_non_publie_deploiement_https_a_verifier"
+}
