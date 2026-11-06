@@ -1618,3 +1618,114 @@ body.mythos-design .origins-archival-return a{
 @media(prefers-reduced-motion:reduce){
   body.mythos-design .origins-archival-card{transition:none!important}
 }
+
+
+/* 6 novembre 2026 : archives ODS illustrées par objets vérifiés, crédits accessibles,
+   liens vers les chapitres canoniques intégraux ; aucune reconstitution 2,5D. */
+body.mythos-design .origins-archival-tile{
+  display:flex;
+  flex-direction:column;
+  min-width:0;
+  border-radius:8px;
+  overflow:hidden;
+  background:#0e191b;
+}
+body.mythos-design .origins-archival-tile>a.origins-archival-card{
+  flex:1;
+}
+body.mythos-design .origins-archival-image{
+  display:block;
+  width:100%;
+  aspect-ratio:3/2;
+  max-height:190px;
+  object-fit:cover;
+  object-position:center;
+  border:1px solid #7e6849;
+  border-radius:4px;
+}
+body.mythos-design .origins-archival-credit{
+  padding:8px 15px 14px;
+  background:#111d1f;
+  border:1px solid #786449;
+  border-top:0;
+  color:#d9cab3;
+  font:13px/1.55 system-ui,sans-serif;
+  overflow-wrap:anywhere;
+}
+body.mythos-design .origins-archival-credit summary{
+  cursor:pointer;
+  min-height:40px;
+  display:flex;
+  align-items:center;
+  color:#eac88f;
+  font-weight:600;
+}
+body.mythos-design .origins-archival-credit summary:focus-visible{
+  outline:2px solid #eac88f;
+  outline-offset:3px;
+}
+body.mythos-design .origins-archival-credit p{margin:6px 0}
+body.mythos-design .origins-archival-credit a{color:#f0d6a7}
+body.mythos-design .origins-archival-concordance{
+  margin-top:clamp(26px,4vw,46px);
+  padding-top:clamp(16px,2vw,28px);
+  border-top:1px solid #806a46;
+}
+body.mythos-design .origins-archival-concordance h3{
+  color:#efd29d;
+  font:500 clamp(23px,2.7vw,32px)/1.25 Georgia,serif;
+}
+body.mythos-design .origins-archival-concordance>p{
+  max-width:850px;
+  line-height:1.7;
+  color:#e3d5bd;
+}
+body.mythos-design .origins-archival-concordance ul{
+  list-style:none;
+  padding:0;
+  margin:18px 0 0;
+  display:grid;
+  grid-template-columns:repeat(2,minmax(0,1fr));
+  gap:14px;
+}
+body.mythos-design .origins-archival-concordance li{min-width:0}
+body.mythos-design .origins-archival-concordance li>a{
+  display:flex;
+  flex-direction:column;
+  gap:7px;
+  height:100%;
+  min-height:110px;
+  padding:18px;
+  box-sizing:border-box;
+  color:#f2dfbb;
+  border:1px solid #8a7049;
+  border-left:3px solid #cfab72;
+  border-radius:6px;
+  background:#172224;
+  text-decoration:none;
+  overflow-wrap:anywhere;
+}
+body.mythos-design .origins-archival-concordance li>a span{
+  font:600 12px/1.5 system-ui,sans-serif;
+  letter-spacing:.08em;
+  color:#dfb978;
+}
+body.mythos-design .origins-archival-concordance li>a strong{
+  font:500 clamp(18px,2vw,23px)/1.3 Georgia,serif;
+}
+body.mythos-design .origins-archival-concordance li>a small{
+  font:13px/1.5 system-ui,sans-serif;
+  color:#d4c5ad;
+}
+body.mythos-design .origins-archival-concordance li>a:hover,
+body.mythos-design .origins-archival-concordance li>a:focus-visible{
+  border-color:#ebc88d;
+  background:#223135;
+  outline-offset:3px;
+}
+@media(max-width:700px){
+  body.mythos-design .origins-archival-concordance ul{
+    grid-template-columns:minmax(0,1fr);
+  }
+  body.mythos-design .origins-archival-image{max-height:220px}
+}
