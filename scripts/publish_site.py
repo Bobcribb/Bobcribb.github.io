@@ -112,6 +112,11 @@ def overlay_render_preserving_archives(worktree):
     for relative in CANONICAL_WORLD_ARCHIVES:
         source = worktree / relative
         built = render / relative
+        # Les simulations de synchronisation créent volontairement un dépôt
+        # minimal sans ces deux archives. Dans ce seul cas, ne rien restaurer.
+        # Si une archive existe d'un côté seulement, refuser la publication.
+        if not source.exists() and not built.exists():
+            continue
         if not source.is_file() or not built.is_file():
             raise RuntimeError("Publication refusée : archive historique absente : " + relative)
         original_bytes[relative] = source.read_bytes()
