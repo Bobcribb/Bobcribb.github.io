@@ -15,7 +15,8 @@
 .mythos-theatre-archive-figure figcaption {
   margin:0; max-width:64ch; line-height:1.65; font-size:.95rem;
 }
-.mythos-theatre-edition nav a[href$="-source.md"] {color:#e4ca92;}
+.mythos-theatre-edition .mythos-theatre-edition-source {margin:.55rem 0 0;}
+.mythos-theatre-edition .mythos-theatre-edition-source a {color:#e4ca92;text-decoration:underline;text-underline-offset:3px;}
 .mythos-theatre-archive-return {
   display:flex; flex-wrap:wrap; align-items:stretch; gap:.6rem;
   max-width:1160px; margin:.8rem auto 1.3rem; padding:0 1.1rem;
