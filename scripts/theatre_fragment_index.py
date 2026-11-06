@@ -132,7 +132,7 @@ def install(root: Path, output: Path, slugs=SLUGS):
         for kind in ('critique', 'scenes'):
             page = output / item[kind].lstrip('/')
             document = BeautifulSoup(page.read_text(encoding='utf-8'), 'html.parser')
-            main_reader = document.select_one('main')
+            main_reader = document.select_one('main') or document.select_one('article.dai-article')
             header = document.select_one('header.mythos-masthead')
             if main_reader is None or header is None or document.head is None:
                 raise RuntimeError(f'Lecteur incomplet pour la navigation : {page}')
@@ -157,7 +157,7 @@ def install(root: Path, output: Path, slugs=SLUGS):
                 document.head.append(link)
             if main_reader.get_text(' ', strip=True) != text_before:
                 raise RuntimeError(f'Texte de la comédie modifié : {page}')
-            page.write_text(re.sub(r'(?is)^(\\s*<!doctype html>)\\s*', r'\\1\\n', str(document)), encoding='utf-8')
+            page.write_text(str(document), encoding='utf-8')
     portal = BeautifulSoup(theatre.read_text(encoding='utf-8'), 'html.parser')
     if portal.head is None:
         raise RuntimeError('Portail Théâtre : élément head manquant')
