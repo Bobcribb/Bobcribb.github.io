@@ -25,18 +25,29 @@ class TestKalevalaArchiveIntegrity(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
         cls.page = PAGE.read_text(encoding="utf-8")
-        start = '<div class="mythos-original-study" id="texte-integral-kalevala">\n'
-        end = '\n</div>\n<section class="mythos-world-study-crosslinks"'
-        cls.assert_source_layout = start in cls.page and end in cls.page
-        if cls.assert_source_layout:
-            cls.marked = cls.page.split(start, 1)[1].split(end, 1)[0]
-            cls.unmarked = re.sub(
-                r'<span id="lecture-[0-9]+" class="mythos-text-anchor" aria-hidden="true"></span>',
-                "", cls.marked,
-            )
+        # Encadrer le manuscrit même lorsque le lecteur ajoute aria-labelledby
+        # à la section des renvois ; supprimer les seuls ancres/attributs générés.
+        pattern = re.compile(
+            r'<div class="mythos-original-study" id="texte-integral-kalevala">\n'
+            r'(?P<study>.*?)\n</div>\n<section\b[^>]*class="mythos-world-study-crosslinks"',
+            re.DOTALL,
+        )
+        match = pattern.search(cls.page)
+        if match is None:
+            raise AssertionError("Borniers éditoriaux du Kalevala manquants")
+        cls.marked = match.group("study")
+        cls.unmarked = re.sub(
+            r'<span\b(?=[^>]*\bid="lecture-\d+")'
+            r'(?=[^>]*\bclass="mythos-text-anchor")[^>]*></span>',
+            "", cls.marked,
+        )
+        cls.unmarked = re.sub(
+            r' data-reading-section="true" id="lecture-section-\d+"',
+            "", cls.unmarked,
+        )
 
     def test_entire_source_preserved(self):
-        self.assertTrue(self.assert_source_layout)
+        self.assertTrue(self.unmarked)
         self.assertEqual(len(self.unmarked), 48625)
         self.assertEqual(self.unmarked.count("<h2 "), 20)
         self.assertEqual(len(re.findall(r"<h[23][ >]", self.unmarked)), 62)
