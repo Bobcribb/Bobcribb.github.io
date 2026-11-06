@@ -2036,3 +2036,215 @@ body.mythos-design .mythos-menu>summary:focus-visible{
     font-size:clamp(22px,6vw,26px)!important;
   }
 }
+
+
+/* Accueil MYTHOS — accès documenté aux éditions scientifiques historiques.
+   Les cartes pointent aux lecteurs intégraux ; les crédits restent extérieurs
+   à leurs liens pour ne jamais produire d'ancres imbriquées. */
+body.mythos-design .mythos-home-archive-shelf{
+  margin:clamp(1.4rem,3vw,2.2rem) auto 0;
+  padding:clamp(.9rem,2.5vw,1.5rem);
+  max-width:1140px;
+  border:1px solid #987a4a;
+  border-radius:6px;
+  background:linear-gradient(135deg,#152022,#0d1416);
+  color:#e9ddca;
+}
+body.mythos-design .mythos-home-archive-shelf h3{
+  font:clamp(1.35rem,2.3vw,1.85rem)/1.3 Georgia,serif;
+  color:#f0d49e;
+  margin:0 0 .6rem;
+  text-align:center;
+}
+body.mythos-design .mythos-home-archive-shelf>p{
+  max-width:75ch;
+  margin:.5rem auto 1.2rem;
+  text-align:center;
+  line-height:1.6;
+}
+body.mythos-design .mythos-home-archive-grid{
+  display:grid;
+  grid-template-columns:repeat(2,minmax(0,1fr));
+  gap:clamp(.8rem,2vw,1.3rem);
+}
+body.mythos-design .mythos-home-archive-card{
+  display:flex;
+  min-width:0;
+  flex-direction:column;
+  border:1px solid #6f5a3f;
+  background:#11191b;
+}
+body.mythos-design .mythos-home-archive-link{
+  display:flex;
+  flex:1;
+  flex-direction:column;
+  color:#f2e1c1;
+  padding:1rem;
+  text-decoration:none;
+  gap:.6rem;
+  overflow-wrap:anywhere;
+}
+body.mythos-design .mythos-home-archive-link img{
+  display:block;
+  width:100%;
+  height:auto;
+  aspect-ratio:16/9;
+  object-fit:contain;
+  background:#0b1113;
+}
+body.mythos-design .mythos-home-archive-link strong{
+  color:#f1d299;
+  font:1.22rem/1.35 Georgia,serif;
+}
+body.mythos-design .mythos-home-archive-link span{line-height:1.55}
+body.mythos-design .mythos-home-archive-credit{
+  margin:0;
+  padding:.75rem 1rem 1rem;
+  border-top:1px solid #514632;
+  color:#cfc3b0;
+  font:.83rem/1.65 Georgia,serif;
+  overflow-wrap:anywhere;
+}
+body.mythos-design .mythos-home-archive-credit a{
+  color:#efcf99;
+  text-underline-offset:3px;
+}
+body.mythos-design .mythos-home-archive-link:hover{
+  background:#1b2929;
+  text-decoration:underline;
+  text-decoration-color:#d5af6f;
+  text-underline-offset:4px;
+}
+body.mythos-design .mythos-home-archive-shelf a:focus-visible{
+  outline:3px solid #f4d695;
+  outline-offset:2px;
+}
+@media(max-width:700px){
+  body.mythos-design .mythos-home-archive-grid{grid-template-columns:minmax(0,1fr)}
+  body.mythos-design .mythos-home-archive-shelf{padding:.85rem}
+  body.mythos-design .mythos-home-archive-link{padding:.75rem}
+}
+@media(prefers-reduced-motion:reduce){
+  body.mythos-design .mythos-home-archive-shelf *{scroll-behavior:auto!important}
+}
+@media print{
+  body.mythos-design .mythos-home-archive-shelf{background:white;color:#111;border-color:#555}
+  body.mythos-design .mythos-home-archive-link strong{color:#111}
+}
+
+
+/* Archives grecques : trois objets antiques identifiés et lecteurs intégraux. */
+body.mythos-design #grec-archives li.mythos-greek-archive-illustrated{
+  padding:0;
+  min-width:0;
+  overflow:hidden;
+  border:1px solid #8b7048;
+  border-radius:5px;
+  background:#10191b;
+  display:flex;
+  flex-direction:column;
+}
+body.mythos-design #grec-archives a.mythos-greek-archive-illustrated-link{
+  display:flex;
+  flex:1;
+  flex-direction:column;
+  gap:.6rem;
+  padding:.75rem;
+  color:#f0d7a6;
+  text-decoration:none;
+  overflow-wrap:anywhere;
+}
+body.mythos-design #grec-archives img.mythos-greek-archive-image{
+  display:block;
+  width:100%;
+  height:auto;
+  aspect-ratio:16/9;
+  object-fit:contain;
+  background:#0a1113;
+}
+body.mythos-design #grec-archives .mythos-greek-archive-title{
+  font:1.13rem/1.4 Georgia,serif;
+  color:#f2dcae;
+}
+body.mythos-design #grec-archives .mythos-greek-archive-credit{
+  margin:auto 0 0;
+  padding:.7rem .8rem;
+  border-top:1px solid #524735;
+  color:#ddd0bd;
+  background:#172022;
+  font:.86rem/1.5 system-ui,sans-serif;
+  overflow-wrap:anywhere;
+}
+body.mythos-design #grec-archives .mythos-greek-archive-credit a{
+  color:#f0d6a7;
+  text-decoration:underline;
+  text-underline-offset:3px;
+}
+body.mythos-design #grec-archives a.mythos-greek-archive-illustrated-link:hover{
+  background:#223032;
+}
+body.mythos-design #grec-archives a:focus-visible,
+body.mythos-design .mythos-greek-archive-return a:focus-visible{
+  outline:3px solid #ffe0a0;
+  outline-offset:3px;
+}
+body.mythos-design .mythos-greek-archive-return{
+  max-width:1140px;
+  margin:0 auto;
+  padding:clamp(.65rem,1.5vw,1rem);
+  border-bottom:1px solid #7d633e;
+  background:#151c1d;
+  text-align:center;
+}
+body.mythos-design .mythos-greek-archive-return a{
+  display:inline-block;
+  color:#f0d49e;
+  line-height:1.5;
+  padding:.45rem .6rem;
+}
+@media(max-width:650px){
+  body.mythos-design #grec-archives li.mythos-greek-archive-illustrated{
+    width:100%;
+  }
+  body.mythos-design #grec-archives a.mythos-greek-archive-illustrated-link{
+    padding:.65rem;
+  }
+}
+@media print{
+  body.mythos-design #grec-archives .mythos-greek-archive-credit{
+    background:white;
+    color:#222;
+  }
+}
+
+
+/* MYTHOS — cartouches typographiques des études récentes sans photographie
+   de sujet attestée. Ornement CSS non documentaire : aucune image historique
+   inventée, aucun crédit scientifique implicite, contenu et liens intacts. */
+body.mythos-design #home-etudes-recentes a.portal-card.mythos-recent-unillustrated::before{
+  content:"";
+  display:block;
+  order:-1;
+  flex:0 0 auto;
+  width:100%;
+  height:clamp(22px,2.6vw,34px);
+  margin:0 0 .4rem;
+  border-top:1px solid #8c704a;
+  border-bottom:1px solid #66543b;
+  background:
+    radial-gradient(circle,#d3ae75 0 2px,transparent 3px) center / 28px 100% repeat-x,
+    linear-gradient(90deg,transparent 0%,#b4935f35 25%,#b4935f35 75%,transparent 100%);
+}
+body.mythos-design #home-etudes-recentes a.portal-card.mythos-recent-unillustrated:hover::before,
+body.mythos-design #home-etudes-recentes a.portal-card.mythos-recent-unillustrated:focus-visible::before{
+  border-color:#e7c58d;
+}
+@media(max-width:700px){
+  body.mythos-design #home-etudes-recentes a.portal-card.mythos-recent-unillustrated::before{
+    height:20px;
+    margin-bottom:.25rem;
+  }
+}
+@media print{
+  body.mythos-design #home-etudes-recentes a.portal-card.mythos-recent-unillustrated::before{display:none}
+}

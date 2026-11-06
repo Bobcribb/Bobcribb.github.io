@@ -157,11 +157,41 @@ def verify_once(base, root, catalog, entries):
     with ThreadPoolExecutor(max_workers=5) as pool:
         results = list(pool.map(check_image, entries))
     failures.extend([{"resource": x["src"], "error": x["error"]} for x in results if not x["ok"]])
+
+    # Some legacy records predate standalone JSON notices: preserve them.
+    # Every record that declares a scientific_notice must publish that exact
+    # JSON on HTTPS, not merely print the scientific text inside the gallery.
+    notices = [e for e in entries if e.get("scientific_notice")]
+
+    def check_notice(entry):
+        path = entry["scientific_notice"]
+        if (not isinstance(path, str)
+                or not path.startswith("/assets/reconstitutions-3d/notices/")
+                or not path.endswith(".json") or ".." in path):
+            return {"path": str(path), "ok": False, "error": "Chemin de notice JSON invalide"}
+        try:
+            local_json = json.loads((root / path.lstrip("/")).read_bytes())
+            status, body = request_bytes(base + path)
+            if status != 200:
+                return {"path": path, "ok": False, "error": f"HTTP {status}"}
+            if json.loads(body) != local_json:
+                return {"path": path, "ok": False, "error": "Notice publique différente du JSON déployé"}
+            return {"path": path, "ok": True, "status": status}
+        except Exception as exc:
+            return {"path": path, "ok": False, "error": str(exc)}
+
+    with ThreadPoolExecutor(max_workers=5) as pool:
+        notice_results = list(pool.map(check_notice, notices))
+    failures.extend({"resource": n["path"], "error": n["error"]}
+                    for n in notice_results if not n["ok"])
     return {
         "checked_at": datetime.now(timezone.utc).isoformat(),
         "base_url": base,
         "expected_images": len(entries),
         "verified_images": sum(x["ok"] for x in results),
+        "expected_notices": len(notices),
+        "verified_notices": sum(x["ok"] for x in notice_results),
+        "notice_results": notice_results,
         "catalog_public_matches_build": remote_catalog_valid,
         "gallery_images_found": len(gallery_images),
         "failures": failures,
@@ -189,7 +219,9 @@ def main():
     for attempt in range(max(1, args.attempts)):
         report = verify_once(args.base.rstrip("/"), root, catalog, entries)
         output.write_text(json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-        print(f"Galerie publique : {report['verified_images']}/{len(entries)} WebP identiques au build ; erreurs : {len(report['failures'])}", flush=True)
+        print(f"Galerie publique : {report['verified_images']}/{len(entries)} WebP ; "
+              f"notices JSON : {report['verified_notices']}/{report['expected_notices']} ; "
+              f"erreurs : {len(report['failures'])}", flush=True)
         if not report["failures"]:
             break
         if attempt + 1 < args.attempts:

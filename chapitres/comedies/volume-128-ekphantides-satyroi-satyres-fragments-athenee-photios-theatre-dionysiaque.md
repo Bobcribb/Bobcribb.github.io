@@ -354,3 +354,12 @@ Ce dossier constitue une **étude nouvelle et distincte** des *Satyroi* d'Écpha
 - Les dossiers déjà déposés de Chionidès, *Ptōchoi* et *Persai ē Assyrioi*, sont **des demandes distinctes en attente d'attribution** au moment de la rédaction ; aucun numéro ni lien canonique de publication n'est ici anticipé.
 
 **Mention éditoriale finale.** Aucun dialogue des sections [C] ne provient d'un texte antique. Aucune hypothèse des sections [B] ne sert à fabriquer une citation, une scène, une didascalie ou un fragment [A]. Le présent manuscrit doit rester entier et doté d'un UUID stable ; l'attribution et les URL canoniques relèvent exclusivement du workflow transactionnel du dépôt après lecture de main.
+
+
+### Renvois canoniques confirmés le 6 novembre 2026 — mise à jour éditoriale
+
+**Actualisation de navigation postérieure au manuscrit initial.** Les mentions antérieures « en attente » décrivaient l'état au moment de la rédaction. Le registre transactionnel `editorial/numbering.json` confirme maintenant ces volumes ; les liens ci-dessous renvoient à leurs chemins canoniques sur le site généré, sans préjuger de la disponibilité HTTPS de chaque page. Les fragments antiques, analyses [A]/[B] et scènes [C] du texte ci-dessus sont intégralement conservés.
+
+- [Volume CXXX (130) — Écphantidès, *Peirai*](/chapitres/comedies/volume-130-ekphantides-peirai-inscription-choregie-epreuve-titre-perdu/) : étude distincte, avec reçu d'attribution contrôlé sur `main`.
+- [Volume CXXVII (127) — Chionidès, *Persai ē Assyrioi*](/chapitres/comedies/volume-127-chionides-persai-assyrioi-perses-assyriens-souda-paratragedie-guerres-mediques/) : étude distincte, avec reçu d'attribution contrôlé sur `main`.
+- [Volume CXXIX (129) — Chionidès, *Ptōchoi*](/chapitres/comedies/volume-129-chionides-ptochoi-mendiants-poisson-sale-gnesippos-dioscures-prytanee-authenticite/) : étude distincte, avec reçu d'attribution contrôlé sur `main`.

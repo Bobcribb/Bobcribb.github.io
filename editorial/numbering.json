@@ -1005,6 +1005,24 @@
           "path": "chapitres/origines-du-sacre/739-ile-ife-yoruba-pavements-verre-igbo-olokun-tetes-wunmonije-sacralite.md",
           "request_sha256": "fff405554de2ecc53be2302ee0d36786f6baeb923ac277fdda4a1f3b5eed0d15",
           "initial_source_sha256": "65230b02739eaaf83bc21747c7ffffeb0b6f35781dc873f92e77202db160cc0c"
+        },
+        "8d2a6f41-53bc-4e97-a235-202611061914": {
+          "number": 740,
+          "path": "chapitres/origines-du-sacre/740-benin-city-edo-autels-ancetres-oba-tetes-laiton-ivoires-igue.md",
+          "request_sha256": "257038ef978a9ff981838f2356f97e7a1a55c3cb6c137b10c02e198b60dbf2bf",
+          "initial_source_sha256": "e6e514b4fc0d83a76ae63cd5fa05b3ab74a481c0c7ea650f58bd01f1cd92ba70"
+        },
+        "da7a6a35-a744-4c5c-9be6-202611061856": {
+          "number": 741,
+          "path": "chapitres/origines-du-sacre/741-djenne-djeno-delta-niger-urnes-figurines-sacre-urbanisme.md",
+          "request_sha256": "62a4089d946c9ba0e5f387d6466f395a50e0581b2a5893a753de20dc50e9cb82",
+          "initial_source_sha256": "975d40ccc5ce1befbc3b1dca04fe27e0e159178349150f994eb1304ea1d57f3c"
+        },
+        "f19c37e0-c423-4afb-b142-202611061915": {
+          "number": 742,
+          "path": "chapitres/origines-du-sacre/742-abomey-palais-royaux-fon-asen-ancetres-vodun-bas-reliefs-restauration.md",
+          "request_sha256": "026642f35a178750d4d0192e0a12c31ebe0fea6e5dd8c71aa58c4ba304570d5e",
+          "initial_source_sha256": "f7a9c54d02531d15aed7be33ed7321ad6e58a0d7fd6d52586557aaaf29b2e045"
         }
       }
     },
@@ -1690,6 +1708,12 @@
           "path": "chapitres/encyclopedie/chapitre-461-apollon-didymeen-didymes-branchos-branchides-supplication-milet-temple-ionique-oracle.md",
           "request_sha256": "d7a8b4a475dda639cf3a3f385bd2cc2e4718828268ec7c0a4222a2be87a96c9e",
           "initial_source_sha256": "166595e7686b0e60ddf44d6a0ece6955c037f90461a6506b078a739bd027af15"
+        },
+        "0a3c5e79-b4da-49f3-8cb2-202611061959": {
+          "number": 462,
+          "path": "chapitres/encyclopedie/chapitre-462-zeus-panamaros-panamareia-komyria-heraia-epiphanie-stratonicee.md",
+          "request_sha256": "43f16be50c1c9243e6674e78e505f74e829c4f353df5f6d7917c3b70eb7b911d",
+          "initial_source_sha256": "867ad5b31a0fca8d8351484a4ae932805fdb14fffaafaac2b1f81169b666da60"
         }
       }
     },
@@ -2176,6 +2200,12 @@
           "path": "chapitres/comedies/volume-129-chionides-ptochoi-mendiants-poisson-sale-gnesippos-dioscures-prytanee-authenticite.md",
           "request_sha256": "4a20509a81e87b289fb20d2ffa91e5a1b6b68bbe0fc7c6c158785e63d59ac5d1",
           "initial_source_sha256": "08bb3bcc76249f8f9320f23480fb0f8b17006e6b275a0e8aed6bc50fd78c7bd5"
+        },
+        "e6501fb0-d134-495d-a8c2-202611061919": {
+          "number": 130,
+          "path": "chapitres/comedies/volume-130-ekphantides-peirai-inscription-choregie-epreuve-titre-perdu.md",
+          "request_sha256": "b40ee6f5ba5428db064e6208a5dd1717eedc8220de23c396e883bb7146f99dce",
+          "initial_source_sha256": "9073785333f633539145341f33095921f777dac2dc9c3de0484333ad13676f3c"
         }
       }
     },
@@ -2728,6 +2758,12 @@
           "path": "chapitres/tragedies/volume-cclxxv-acheos-eretrie-katapeira-mise-epreuve-trgf-23a-fragtrag-24-philologie.md",
           "request_sha256": "fd24f4a160cf0e97554e4a7aacfa09d04e2c91466f165a21f81e727fbef58259",
           "initial_source_sha256": "2499b6b49db0e2f0bb67423be9cbddbbe8b5a48ced6a010166876bb448f9a987"
+        },
+        "8eddb4c7-9c21-4e1d-a5be-7a6812d4f930": {
+          "number": 276,
+          "path": "chapitres/tragedies/volume-cclxxvi-acheos-eretrie-moirai-destin-satyres-fragments-27-28.md",
+          "request_sha256": "2e9ed1062f5ce09c097433159135246114ee44a49bf34fdf50c3983a22c4130c",
+          "initial_source_sha256": "1989dcd063bc6d3ac3361481683a2d7ff1b5f47c94e4457aa711fc138b4915f5"
         }
       }
     },
@@ -3763,6 +3799,36 @@
           "path": "chapitres/comparatif/volume-cccxiii-mc-106-batons-divin-was-shamash-hermes-moise-lituus-danda-barsom.md",
           "request_sha256": "e5d57e20048a3e6f27e462557404300bd4f030a799ad23706d540839fc838ac7",
           "initial_source_sha256": "79a942d46999ace0a862c6accaf5e039f401d8cb0dc32c4e317a309579df0e16"
+        },
+        "90c82ea4-1cf4-49d7-933f-34a73bc9a2fb": {
+          "number": 314,
+          "path": "chapitres/comparatif/volume-cccxiv-assemblee-femmes-biens-communs-chremes-repas-tribunaux-391.md",
+          "request_sha256": "af5e12b18b51282db4f1ef3b5deadde4eb7a06d173265680a3a409a3a27b88e8",
+          "initial_source_sha256": "2274a3f59d1d4313a2bce94ef764ed37e7a4307740801c6b3a4aa5084133e4cc"
+        },
+        "f7bc7107-e642-4a8f-9fd2-202611061707": {
+          "number": 315,
+          "path": "chapitres/comparatif/volume-cccxv-mc-107-bornes-sacrees-limites-kudurru-akhetaton-horoi-terminus-israel-inde.md",
+          "request_sha256": "4ac9322a7ceaf7929c3bd22e95ea378f796b1581399534c8d709db1fb5a8f8c0",
+          "initial_source_sha256": "733f616be266b2c36097cf10b974c25c19ef6c6344c765828e643d88b3c00dee"
+        },
+        "c1086fb4-6a2b-4b1d-94ac-202611061749": {
+          "number": 316,
+          "path": "chapitres/comparatif/volume-cccxvi-mc-108-couronnes-divin-desheret-hedjet-lama-zeus-nezer-corona-xwarrah-kiritin-buddha.md",
+          "request_sha256": "83c6ed7c5b1e5cc1671b054f4c819af865686802b05338a81e2ef55a14e1221c",
+          "initial_source_sha256": "774c1414a3c0caea81a125d267c3d69a4e8e9195c4f4507918e35a34000968d8"
+        },
+        "1b6f8c42-0ad7-4b1e-9c57-67e3c21f0804": {
+          "number": 317,
+          "path": "chapitres/comparatif/volume-cccxvii-ploutos-hermes-epicleses-pain-pretre-zeus-soter-sacrifice-acropole-388.md",
+          "request_sha256": "56a3b965c88fec57d56c165b91a35e1cdcd9d5715c56758d34fc94fed7fb44eb",
+          "initial_source_sha256": "cfe6d27e3f9775d16292e51ac458ef7d309f79d976d8b88128a60b926d1ef0f5"
+        },
+        "0b2e3ecb-74df-4bc3-9776-202611061953": {
+          "number": 318,
+          "path": "chapitres/comparatif/volume-cccxviii-mc-109-visages-substitues-masques-funeraires-theatre-ancetres-rituels.md",
+          "request_sha256": "7016247f6038cbc9c42e6d0d0c058afe740d9b08a1e4ad901fe8f6ee74b68b66",
+          "initial_source_sha256": "b27625244774d219eadb1a1028bf3aaf956765ad039a9fafbc9341a3663d4572"
         }
       }
     }
