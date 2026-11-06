@@ -32,6 +32,8 @@ class GalleryTOCAnchorTests(unittest.TestCase):
         akragas = [link for link in doc.select('a[href="#lecture-section-75"]')
                    if 'Akragas' in link.get_text(' ', strip=True)]
         self.assertEqual(len(akragas), 1)
+        # Aucune entrée Akragas répétée dans le sommaire historique.
+        self.assertEqual(len(doc.select('details.mythos-gallery-toc ol li')), 82)
         self.assertIsNotNone(doc.find(id='lecture-section-75'))
 
 
