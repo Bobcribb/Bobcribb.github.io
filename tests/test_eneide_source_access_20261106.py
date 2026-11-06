@@ -56,6 +56,23 @@ class EneideSourcesTest(unittest.TestCase):
         self.assertEqual(len(narrative.select('[data-mythos-eneide-sources="narrative"]')), 1)
         self.assertEqual(len(study.select("section > h2[id^=eneide-]")), 18)
         self.assertIn("Texte entier du récit.", narrative.get_text(" "))
+        # Dix-huit nouveaux lecteurs HTML : un par source, sans perte de bibliographie.
+        for i, name in enumerate(NAMES):
+            target = self.out / SOURCE_DIR / name.replace(".md", ".html")
+            self.assertTrue(target.is_file(), name)
+            reader = BeautifulSoup(target.read_text(encoding="utf-8"), "html.parser")
+            self.assertEqual(reader.select_one("html").get("lang"), "fr")
+            self.assertIn("Texte universitaire intégral", reader.select_one("article").get("aria-label"))
+            self.assertIn(f"Source universitaire {i:02}", reader.select_one("article h1").get_text())
+            self.assertIn("Analyse des sources primaires", reader.select_one("article").get_text(" "))
+            self.assertIn("/corpus/philosophie/eneide/" + name,
+                          [a.get("href") for a in reader.select(".eneide-reader-nav a")])
+            if i == 17:
+                self.assertIn("Bibliographie et références primaires", reader.select_one("article").get_text(" "))
+        self.assertEqual(
+            study.select_one(".mythos-eneide-source-grid li a").get("href"),
+            "/corpus/philosophie/eneide/00-introduction.html"
+        )
 
     def test_idempotent_links(self):
         install(self.root, self.out)
@@ -64,6 +81,10 @@ class EneideSourcesTest(unittest.TestCase):
         install(self.root, self.out)
         self.assertEqual(one, (self.out / STUDY).read_bytes())
         self.assertEqual(second, (self.out / NARRATIVE).read_bytes())
+        self.assertIn(
+            "/corpus/philosophie/eneide/01-chant-i.html",
+            (self.out / SOURCE_DIR / "00-introduction.html").read_text(encoding="utf-8"),
+        )
 
     def test_public_museum_banner_keeps_h1_outside_article(self):
         """Le récit réel place son h1 dans la bannière et débute par un h2."""
