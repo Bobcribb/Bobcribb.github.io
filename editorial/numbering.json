@@ -3763,6 +3763,18 @@
           "path": "chapitres/comparatif/volume-cccxiii-mc-106-batons-divin-was-shamash-hermes-moise-lituus-danda-barsom.md",
           "request_sha256": "e5d57e20048a3e6f27e462557404300bd4f030a799ad23706d540839fc838ac7",
           "initial_source_sha256": "79a942d46999ace0a862c6accaf5e039f401d8cb0dc32c4e317a309579df0e16"
+        },
+        "90c82ea4-1cf4-49d7-933f-34a73bc9a2fb": {
+          "number": 314,
+          "path": "chapitres/comparatif/volume-cccxiv-assemblee-femmes-biens-communs-chremes-repas-tribunaux-391.md",
+          "request_sha256": "af5e12b18b51282db4f1ef3b5deadde4eb7a06d173265680a3a409a3a27b88e8",
+          "initial_source_sha256": "2274a3f59d1d4313a2bce94ef764ed37e7a4307740801c6b3a4aa5084133e4cc"
+        },
+        "f7bc7107-e642-4a8f-9fd2-202611061707": {
+          "number": 315,
+          "path": "chapitres/comparatif/volume-cccxv-mc-107-bornes-sacrees-limites-kudurru-akhetaton-horoi-terminus-israel-inde.md",
+          "request_sha256": "4ac9322a7ceaf7929c3bd22e95ea378f796b1581399534c8d709db1fb5a8f8c0",
+          "initial_source_sha256": "733f616be266b2c36097cf10b974c25c19ef6c6344c765828e643d88b3c00dee"
         }
       }
     }
