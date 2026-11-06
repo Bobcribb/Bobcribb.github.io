@@ -96,6 +96,30 @@ def guard_render_commit(worktree, allocated=None):
             raise RuntimeError("Publication refusée : source ou média modifié : " + name)
 
 
+# Les sources historiques XIV/XV ont des empreintes documentaires vérifiées.
+# Le rendu public est habillé dans _site, mais il ne doit pas écraser dans
+# main les archives originales (figures, navigation et manuscrit inchangés).
+CANONICAL_WORLD_ARCHIVES = (
+    "bibliotheque-mythologies-du-monde/mythos-volume-14-khmer-angkor-cosmogonies/index.html",
+    "bibliotheque-mythologies-du-monde/mythos-volume-15-philippines-ifugao-hudhud/index.html",
+)
+
+
+def overlay_render_preserving_archives(worktree):
+    worktree = Path(worktree)
+    render = worktree / "_site"
+    original_bytes = {}
+    for relative in CANONICAL_WORLD_ARCHIVES:
+        source = worktree / relative
+        built = render / relative
+        if not source.is_file() or not built.is_file():
+            raise RuntimeError("Publication refusée : archive historique absente : " + relative)
+        original_bytes[relative] = source.read_bytes()
+    shutil.copytree(render, worktree, dirs_exist_ok=True)
+    for relative, content in original_bytes.items():
+        (worktree / relative).write_bytes(content)
+
+
 def synchronize(repo, max_attempts=5):
     repo = Path(repo).resolve()
     # Le checkout de travail n'est jamais réinitialisé ; seuls les worktrees
@@ -126,7 +150,7 @@ def synchronize(repo, max_attempts=5):
                 # Valider exactement la génération qui sera poussée et déployée,
                 # y compris après un refus de push dû à un autre éditeur.
                 subprocess.run([sys.executable, "scripts/validate_publication.py"], cwd=worktree, check=True)
-                shutil.copytree(worktree / "_site", worktree, dirs_exist_ok=True)
+                overlay_render_preserving_archives(worktree)
                 git(worktree, "add", "-A")
                 guard_render_commit(worktree, allocated)
                 changed = git(worktree, "diff", "--cached", "--quiet", check=False)
