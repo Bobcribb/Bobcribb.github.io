@@ -25,8 +25,8 @@ def scholarly_fingerprint(html_fragment):
     # Insensible à l'ordre des attributs HTML et aux espaces de sérialisation.
     # Digest FNV-1a 64 bits de la prose + la ponctuation, dérivé des éditions
     # archivées avant le rendu GitHub Actions du 6 novembre 2026.
-    html_fragment = re.sub(r'<span\\b(?=[^>]*mythos-text-anchor)[^>]*></span>', '', html_fragment)
-    html_fragment = re.sub(r'<!--[\\s\\S]*?-->', '', html_fragment)
+    html_fragment = re.sub(r'<span\b(?=[^>]*mythos-text-anchor)[^>]*></span>', '', html_fragment)
+    html_fragment = re.sub(r'<!--[\s\S]*?-->', '', html_fragment)
     text = re.sub(r'<[^>]*>', ' ', html_fragment).replace('&nbsp;', ' ').replace('&#160;', ' ')
     text = ' '.join(text.split())
     digest = 0xcbf29ce484222325
@@ -45,7 +45,7 @@ class TestKalevalaArchiveIntegrity(unittest.TestCase):
             raise AssertionError('Borniers documentaires de Kalevala manquants')
         cls.marked = cls.page.split(start, 1)[1].split(end, 1)[0]
         cls.unmarked = re.sub(
-            r'<span\\b(?=[^>]*mythos-text-anchor)[^>]*></span>', '', cls.marked)
+            r'<span\b(?=[^>]*mythos-text-anchor)[^>]*></span>', '', cls.marked)
         cls.scholarly_text, cls.scholarly_hash = scholarly_fingerprint(cls.marked)
 
     def test_entire_source_preserved(self):
