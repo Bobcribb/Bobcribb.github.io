@@ -10,6 +10,7 @@ ROOT = Path(__file__).resolve().parents[1]
 BASE = Path("bibliotheque-mythologies-du-monde/heros-mythologies-monde-cycles-epiques")
 SIGURD = BASE / "cycle-sigurd-brynhildr-fafnir-nibelungen" / "index.html"
 BRYNHILDR = BASE / "cycle-sigurd-brynhildr-fafnir-nibelungen" / "brynhildr-gudrun" / "index.html"
+NIBELUNGEN = BASE / "cycle-sigurd-brynhildr-fafnir-nibelungen" / "nibelungenlied-kriemhild-hagen" / "index.html"
 PORTAL = BASE / "index.html"
 
 
@@ -26,7 +27,7 @@ class SigurdBrynhildrPublicationTests(unittest.TestCase):
         self.assertIn("Hylestad", html)
 
     def test_anchors_are_unique_and_toc_links_resolve(self):
-        for path in (SIGURD, BRYNHILDR):
+        for path in (SIGURD, BRYNHILDR, NIBELUNGEN):
             soup = BeautifulSoup((ROOT / path).read_text(encoding="utf-8"), "html.parser")
             ids = [tag["id"] for tag in soup.select("[id]")]
             self.assertEqual(len(ids), len(set(ids)), str(path))
@@ -40,12 +41,14 @@ class SigurdBrynhildrPublicationTests(unittest.TestCase):
         self.assertIn("/cycle-sigurd-brynhildr-fafnir-nibelungen/", follow)
         self.assertIn("La lamentation de Guðrún", follow)
         self.assertIn("Atli", follow)
+        self.assertIn("/nibelungenlied-kriemhild-hagen/", main)
+        self.assertIn("/nibelungenlied-kriemhild-hagen/", follow)
         self.assertGreater(len(follow), 15000)
 
-    def test_portal_references_both_without_draft_label(self):
+    def test_portal_references_three_studies_without_draft_label(self):
         soup = BeautifulSoup((ROOT / PORTAL).read_text(encoding="utf-8"), "html.parser")
         items = [a for a in soup.select("a[href]") if "cycle-sigurd-brynhildr-fafnir-nibelungen/" in a.get("href", "")]
-        self.assertEqual(len(items), 2)
+        self.assertEqual(len(items), 3)
         for a in items:
             self.assertNotIn("brouillon", a.parent.get_text(" ", strip=True).lower())
         self.assertIn("monographie universitaire approfondie", items[0].parent.get_text(" ", strip=True).lower())
