@@ -1,0 +1,52 @@
+{
+  "id": "HIM-VIC-001",
+  "slug": "himera-temple-dit-victoire-vers-470-av-jc",
+  "title": "Himère (Sicile grecque) — temple dit « de la Victoire », vers 470 av. J.-C.",
+  "period": "Vers 480–460 av. J.-C. ; évocation de l’édifice achevé peu après la bataille d’Himère (480 av. J.-C.), vers 470 av. J.-C.",
+  "caption": "Restitution numérique photoréaliste, non métrique, du temple dorique périptère dit « de la Victoire » dans la ville basse d’Himère, près de la côte septentrionale de la Sicile ; façade, toiture, environnement et figures restitués à titre d’hypothèses.",
+  "commentary": "La cité grecque d’Himère (Himera), fondée en 648 av. J.-C. selon la tradition historique rapportée par le Parc archéologique, occupait une position stratégique sur la côte nord de la Sicile, au voisinage du fleuve Imera. Une coalition grecque vainquit les Carthaginois près de la cité en 480 av. J.-C. Le temple périptère de la ville basse, sur la rive gauche du fleuve, fut vraisemblablement élevé au lendemain de cette victoire. Le Parc archéologique régional précise que son emplacement occupait une portion d’habitat archaïque, qui fut démolie pour dégager le nouveau sanctuaire. La délimitation exacte du téménos n’est cependant pas déterminée archéologiquement. L’édifice, traditionnellement appelé « Temple de la Victoire », n’a pas de divinité titulaire solidement identifiée : une dédicace à Athéna est une attribution conventionnelle par comparaison avec l’Athénaion de Syracuse. L’interprétation mémorielle du temple s’appuie notamment sur Diodore de Sicile (XII, 26, 2), qui évoque l’établissement de sanctuaires après les accords de paix, mais la causalité et le patronage précis du chantier restent discutés. Les éléments conservés permettent d’identifier un grand temple d’ordre dorique périptère, généralement reconstruit avec six colonnes sur la façade et quatorze sur les flancs, sur une crépis de quatre degrés, d’environ 56 × 22,5 m (dimensions de synthèse, variables selon les publications). Des fragments architecturaux, notamment de lions-gargouilles en pierre, de moulures, de terres cuites et de sculpture de fronton, documentent le décor ; le thème d’une Gigantomachie est proposé avec prudence à partir de vestiges très fragmentaires. La destruction de la cité par les Carthaginois en 409 av. J.-C. est attestée dans la chronologie du site. Le rendu choisit une vue oblique extérieure, avec toiture en tuiles, entablement dorique et un paysage de collines dominant la côte tyrrhénienne. Le temple est montré avec des personnages pour l’échelle et des maisons de la ville haute et basse esquissées librement. Les positions réelles de ces bâtiments, la hauteur des colonnes et des murs, la solution de couverture, le programme des sculptures, les coloris, la végétation, le sanctuaire périphérique et la lumière ne peuvent être tirés de cette image : ils sont des conventions artistiques et non des observations archéologiques. Le nombre précis de colonnes ne doit pas être déduit d’un simple décompte à l’écran. Les organismes cités décrivent les vestiges et n’ont ni conçu ni validé le visuel généré.",
+  "certainty": "Élevé : existence d’Himère et de son temple dorique périptère dans la ville basse ; contexte historique de la victoire grecque de 480 av. J.-C., destructions de 409 av. J.-C., fouilles du temple et caractère monumental du bâtiment. Moyen : datation du chantier immédiatement après 480 av. J.-C. et état figuré vers 470 ; ordre général 6 × 14, dimensions approximatives, crépis à quatre degrés, relation entre le temple et la commémoration de la victoire. Faible : attribution à Athéna, sculpture frontonale en Gigantomachie, délimitation du téménos, élévation et couverture exactes, couleurs, implantation des maisons, figuration des visiteurs et restitution du paysage.",
+  "source_url": "https://parchiarcheologici.regione.sicilia.it/himera-solunto-iato/blog/2023/02/01/il-severo-tempio-della-vittoria-di-himera/",
+  "secondary_sources": [
+    "https://parchiarcheologici.regione.sicilia.it/himera-solunto-iato/en/siti-archeologici/area-archeologica-di-himera-buonfornello/",
+    "https://cultura.gov.it/luogo/area-archeologica-e-antiquarium-di-himera",
+    "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/12*.html",
+    "https://www.visitsicily.info/wp-content/uploads/2017/09/volume%202%20ENG%20low.pdf"
+  ],
+  "src": "/assets/reconstitutions-3d/himera-temple-dit-victoire-vers-470-av-jc.webp",
+  "image": "/assets/reconstitutions-3d/himera-temple-dit-victoire-vers-470-av-jc.webp",
+  "width": 1672,
+  "height": 941,
+  "created_at": "2026-11-06",
+  "type": "reconstitution numérique photoréaliste interprétative à apparence 3D, non métrique",
+  "provenance": "Création originale générée pour MYTHOS par modèle d’image ; sans modèle archéométrique, interface ni texte dans les pixels. Les sources documentent le site, non le rendu.",
+  "sha256": "4163d5d3ccc1608cf5928298f27f7c713f9162047b30af51b9837e871977a1a7",
+  "scientific_notice": "/assets/reconstitutions-3d/notices/himera-temple-dit-victoire-vers-470-av-jc.json",
+  "scientific_sources": [
+    {
+      "label": "Parco archeologico di Himera, Solunto e Iato — Il « severo » Tempio della Vittoria di Himera (1er février 2023)",
+      "url": "https://parchiarcheologici.regione.sicilia.it/himera-solunto-iato/blog/2023/02/01/il-severo-tempio-della-vittoria-di-himera/"
+    },
+    {
+      "label": "Parco archeologico di Himera, Solunto e Iato — Area archeologica di Himera",
+      "url": "https://parchiarcheologici.regione.sicilia.it/himera-solunto-iato/en/siti-archeologici/area-archeologica-di-himera-buonfornello/"
+    },
+    {
+      "label": "Ministero della Cultura — Area archeologica e Antiquarium di Himera",
+      "url": "https://cultura.gov.it/luogo/area-archeologica-e-antiquarium-di-himera"
+    },
+    {
+      "label": "Diodore de Sicile, Bibliothèque historique, XII, 26, 2 — tradition relative aux monuments de la victoire (source littéraire tardive)",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/12*.html"
+    },
+    {
+      "label": "Sicile — Archaeology, volume II, dossier des cités côtières et du Tempio della Vittoria (documentation régionale)",
+      "url": "https://www.visitsicily.info/wp-content/uploads/2017/09/volume%202%20ENG%20low.pdf"
+    }
+  ],
+  "primary_texts": [
+    "Diodore de Sicile, Bibliothèque historique, XII, 26, 2 (interprétation des suites de la bataille ; ne fournit pas de plan architectural)."
+  ],
+  "methodology": "Évocation artistique photoréaliste non métrique, fondée sur les données historiques et le type architectural du temple ; ne valide ni altimétrie, ni mesures de détails, ni identification cultuelle.",
+  "publication_status": "fichier_prepare_non_publie_deploiement_https_a_verifier"
+}
