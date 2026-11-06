@@ -67,7 +67,7 @@ def archive_shelf(out: Path, root: Path) -> str:
             old.decompose()
         back = BeautifulSoup(
             '<nav class="origins-archival-return" data-mythos-archival-return="1" '
-            'aria-label="Retour au sommaire des archives des Origines du sacré">'
+            'aria-label="Sommaire et sources des archives des Origines du sacré">'
             '<a href="' + PORTAL + '">← Sommaire des neuf tomes historiques (XXV–XXXIII)</a>'
             '<a class="origins-archival-source-link" '
             'href="https://github.com/Bobcribb/Bobcribb.github.io/blob/main/'
@@ -86,7 +86,8 @@ def archive_shelf(out: Path, root: Path) -> str:
         '<p class="section-intro">Neuf manuscrits complets, déjà conservés dans le corpus public, '
         'retrouvent ici leur sommaire et leurs liens de retour. Les cotes ODS-CONV et ODS-S28 '
         'désignent des séries historiques distinctes des numéros canoniques attribués par '
-        'GitHub Actions. Sources et bibliographies demeurent dans chaque lecteur.</p>'
+        'GitHub Actions. Sources et bibliographies demeurent dans chaque lecteur ; '
+        'un lien vers le manuscrit Markdown original permet de vérifier chaque édition.</p>'
         '<div class="origins-archival-grid">' + "".join(cards) + '</div>'
         '</section>'
     )
