@@ -2,7 +2,7 @@
   "generated_at": "2026-11-06",
   "site": "bobmythos.fr",
   "method": "Illustrations photoréalistes interprétatives, textes et sources hors des pixels.",
-  "count": 73,
+  "count": 74,
   "entries": [
     {
       "id": "DEL-PAN-001",
@@ -2052,6 +2052,62 @@
       ],
       "methodology": "Visualisation artistique fondée sur l’architecture archéologique 6 × 12 et la position dans le paysage ; aucune élévation exacte du fronton ou de la couverture n’est inférée des vestiges.",
       "publication_status": "fichier_prepare_non_publie_deploiement_https_a_verifier"
+    },
+    {
+      "id": "PRI-THE-001",
+      "slug": "priene-theatre-hellenistique-prohedrie-vers-200-av-jc",
+      "title": "Priène (Ionie) — théâtre hellénistique, proédrie et proskenion, vers 200 av. J.-C.",
+      "period": "Évocation vers 200 av. J.-C. ; théâtre implanté à la fin du IVe ou au début du IIIe siècle av. J.-C., réaménagements de la skènè et du proskenion au IIIe siècle.",
+      "caption": "Reconstitution numérique photoréaliste interprétative du théâtre de Priène, au pied du Mycale : orchestra, cavea en gradins, sièges d’honneur (proédrie) et bâtiment de scène hellénistique. Vue d’ambiance, non relevé du site.",
+      "commentary": "Le théâtre de Priène se trouve sur le versant méridional du massif du Mycale, en Ionie (près de l'actuelle Güllübahçe, Turquie). L'organisation des gradins, l'orchestra et le dispositif de scène sont documentés par les fouilles anciennes et les relevés récents ; l'ensemble a conservé une physionomie hellénistique relativement lisible, avec des transformations romaines limitées. L'implantation du théâtre est généralement placée à la fin du IVe ou au début du IIIe siècle avant notre ère. Les travaux sur la skènè et le proskenion ont été poursuivis au IIIe siècle. La cavea s'organise en secteurs séparés par des escaliers ; les restitutions évoquent environ quarante-sept rangées originelles, réparties entre deux secteurs séparés par un diazoma, sans que l'image puisse en donner un compte métrique. À la limite de l'orchestra, cinq sièges d'honneur (proedriai) en pierre, à supports décorés, constituaient une place réservée aux dignitaires. L'archéologie documente aussi un canal de drainage, la façade du proskenion et un mobilier ou autel lié à l'usage civique et rituel du lieu. Les inscriptions des sièges évoquent le dédicant Nysios, fils de Diphilos. Le théâtre servait aux spectacles mais pouvait aussi accueillir des réunions publiques. La composition montre une façade scénique dotée de panneaux peints (pinakes), un petit espace surélevé, une toiture légère, des personnages et un contexte de cité hellénistique. Ces éléments précis sont des hypothèses graphiques ; les panneaux, élévations, volumes de la skènè, aménagements visibles et vêtements ne sont pas des restitutions scientifiquement validées pour une journée de l'an 200 av. J.-C. L'élément ressemblant à un autel dans l'orchestra est un choix d'évocation : il ne restitue pas à l'échelle ni à date certaine l'autel épigraphique documenté, probablement du début du IIe siècle av. J.-C. La topographie réelle du versant est un ancrage archéologique, mais l'arrière-plan architectural, le paysage, la végétation et l'éclairage sont librement recomposés. On ne doit tirer de ce visuel ni mesure ni preuve d'une performance scénique donnée.",
+      "certainty": "Élevé : théâtre sur la pente sud du Mycale à Priène ; présence d'une cavea en pierre, d'une orchestra, d'un dispositif de skènè/proskenion et de sièges de proédrie sculptés. Moyen : attribution chronologique des phases de la fin du IVe au IIe siècle av. J.-C., nombre théorique de rangées, dimensions de la façade scénique et position détaillée des éléments conservés à travers les restitutions. Faible : restitution des élévations disparues, balustrades, couverture du bâtiment scénique, peintures des pinakes, détail de l'autel, densité du public, costumes, constructions voisines, végétation, position de caméra et atmosphère.",
+      "source_url": "https://whc.unesco.org/en/tentativelists/6348",
+      "secondary_sources": [
+        "https://flore.unifi.it/handle/2158/1457254",
+        "https://digi.ub.uni-heidelberg.de/diglit/wiegand1904",
+        "https://ancienttheatrearchive.com/theatre/priene-modern-gullubahce-turkey/",
+        "https://www.whitman.edu/theatre/theatretour/priene/commentary/priene.commentary.htm"
+      ],
+      "src": "/assets/reconstitutions-3d/priene-theatre-hellenistique-prohedrie-vers-200-av-jc.webp",
+      "image": "/assets/reconstitutions-3d/priene-theatre-hellenistique-prohedrie-vers-200-av-jc.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-06",
+      "type": "vue photoréaliste numérique interprétative à apparence 3D, non métrique",
+      "provenance": "Image de synthèse originale réalisée pour MYTHOS ; aucune photographie du site antique, aucune géométrie métrique, aucune validation par les institutions citées ; pas de menu, titre, logo ou schéma 2,5D dans l'image.",
+      "sha256": "1d317a22fa6f93db54e93cd239cbe5894f3d83a462f42aa47418854bc82e676c",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/priene-theatre-hellenistique-prohedrie-vers-200-av-jc.json",
+      "scientific_sources": [
+        {
+          "label": "UNESCO — Archaeological Site of Priene, fiche de candidature",
+          "url": "https://whc.unesco.org/en/tentativelists/6348"
+        },
+        {
+          "label": "Université de Florence — G. Verdiani et A. Rosone, On Stage in Antiquity, On Screen in the Digital Age (2025)",
+          "url": "https://flore.unifi.it/handle/2158/1457254"
+        },
+        {
+          "label": "T. Wiegand et H. Schrader (1904), Priene: Ergebnisse der Ausgrabungen und Untersuchungen, chap. Das Theater, p. 235–258",
+          "url": "https://digi.ub.uni-heidelberg.de/diglit/wiegand1904"
+        },
+        {
+          "label": "Ancient Theatre Archive — Theatre of Priene, notice sur l’orchestra, la proédrie et le proskenion",
+          "url": "https://ancienttheatrearchive.com/theatre/priene-modern-gullubahce-turkey/"
+        },
+        {
+          "label": "Whitman College — Priene, Theatre Commentary (synthèse historiographique)",
+          "url": "https://www.whitman.edu/theatre/theatretour/priene/commentary/priene.commentary.htm"
+        }
+      ],
+      "primary_texts": [
+        "Inscriptions honorifiques et dédicatoires associées aux proedriai de Priène, connues par les publications des fouilles ; aucune reconstitution verbatim d'inscription non vérifiée dans le rendu.",
+        "L'édifice de scène et le dispositif de théâtre sont attestés par la documentation architecturale et épigraphique, non par un descriptif ancien continu de l'état vers 200 av. J.-C."
+      ],
+      "bibliography": [
+        "Wiegand, Theodor et Hans Schrader, Priene: Ergebnisse der Ausgrabungen und Untersuchungen in den Jahren 1895–1898, Berlin, Georg Reimer, 1904, section Das Theater.",
+        "Verdiani, Giorgio et Andrea Rosone, 'On Stage in Antiquity, On Screen in the Digital Age', Archeomatica, étude de documentation photogrammétrique du théâtre de Priène, DOI 10.48258/ARC.2025.I3.2165."
+      ],
+      "methodology": "Restitution visuelle photographique synthétique non métrique ; le compte exact des rangs, sièges et éléments construits ne doit pas être mesuré sur l’illustration."
     }
-]
+  ]
 }
