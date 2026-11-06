@@ -4,6 +4,7 @@ import json
 from pathlib import Path
 import sys
 from tempfile import TemporaryDirectory
+from urllib.parse import urlsplit
 import unittest
 from bs4 import BeautifulSoup
 
@@ -13,14 +14,15 @@ from editorial_concordances import PAIRS, LACONIA, install, validate_sources
 
 
 class EditorialConcordancesTests(unittest.TestCase):
-    def test_receipts_sources_bibliographies_and_four_identifiers(self):
+    def test_receipts_sources_bibliographies_and_six_identifiers(self):
         registry = json.loads((ROOT / "editorial/numbering.json")
                               .read_text(encoding="utf-8"))
-        self.assertEqual(set(PAIRS), {"chalkioikos", "menekrates"})
+        self.assertEqual(set(PAIRS), {"chalkioikos", "menekrates", "iacchos"})
         self.assertEqual(
             {m[2] for m in PAIRS["chalkioikos"]["members"]}, {449, 454})
         self.assertEqual(
             {m[2] for m in PAIRS["menekrates"]["members"]}, {122, 123})
+        self.assertEqual({m[2] for m in PAIRS["iacchos"]["members"]}, {269, 273})
         for group in PAIRS.values():
             for collection, uid, number, title, context in group["members"]:
                 with self.subTest(uid=uid):
@@ -41,7 +43,7 @@ class EditorialConcordancesTests(unittest.TestCase):
             for collection, uid, _, _, _ in group["members"]:
                 rel = registry["collections"][collection]["allocations"][uid]["path"]
                 urls.add("/" + Path(rel).with_suffix("").as_posix() + "/")
-        self.assertEqual(len(urls), 8)
+        self.assertEqual(len(urls), 10)
         with TemporaryDirectory() as folder:
             out = Path(folder)
             snapshots = {}
@@ -57,6 +59,7 @@ class EditorialConcordancesTests(unittest.TestCase):
                 snapshots[url] = str(BeautifulSoup(
                     path.read_text(encoding="utf-8"), "html.parser").article)
             for rel in ("theatre/index.html",
+                        "mythologie-comparee/index.html",
                         "mythologie-grecque/dossiers/cultes-sanctuaires/index.html"):
                 path = out / rel
                 path.parent.mkdir(parents=True, exist_ok=True)
@@ -65,7 +68,7 @@ class EditorialConcordancesTests(unittest.TestCase):
                                 encoding="utf-8")
             for _ in range(2):
                 stats = install(ROOT, out)
-                self.assertEqual(stats, {"readers": 8, "panels": 9, "portals": 2})
+                self.assertEqual(stats, {"readers": 10, "panels": 11, "portals": 3})
                 validate_sources(ROOT, out)
                 for url in urls:
                     path = out / url.strip("/") / "index.html"
@@ -76,7 +79,7 @@ class EditorialConcordancesTests(unittest.TestCase):
                     self.assertEqual(len(panels), 2 if
                                      url == LACONIA[2][0] else 1)
                     for link in doc.select("aside[data-mythos-concordance] a[href]"):
-                        target = out / link["href"].strip("/") / "index.html"
+                        target = out / urlsplit(link["href"]).path.strip("/") / "index.html"
                         self.assertTrue(target.is_file(), target)
             greek = BeautifulSoup(
                 (out / "mythologie-grecque/dossiers/cultes-sanctuaires/index.html")
@@ -85,12 +88,27 @@ class EditorialConcordancesTests(unittest.TestCase):
             theatre = BeautifulSoup((out / "theatre/index.html").read_text(),
                                     "html.parser")
             self.assertEqual(len(theatre.select("section[data-mythos-concordance]")), 1)
+            comparison = BeautifulSoup(
+                (out / "mythologie-comparee/index.html").read_text(encoding="utf-8"),
+                "html.parser")
+            notice = comparison.select_one(
+                'section#concordance-iacchos[data-mythos-concordance="iacchos"]')
+            self.assertIsNotNone(notice)
+            self.assertEqual(len(notice.select("tbody tr")), 8)
+            self.assertEqual(
+                {a["href"] for a in notice.select("ul a[href]")},
+                {"/" + str(Path(registry["collections"]["comparatif"]["allocations"][uid]["path"])
+                           .removesuffix(".md")) + "/"
+                 for uid in ("8d9ce5f4-d076-4f00-9dbf-209d8476b3bf",
+                             "d73f9a62-1e48-45f8-9d0a-5bcd730e9a24")})
+
 
     def test_accessible_css(self):
         css = (ROOT / "assets/mythos-museum.css").read_text(encoding="utf-8")
         self.assertIn("body.mythos-design .mythos-concordance", css)
         self.assertIn("@media(max-width:700px)", css)
         self.assertIn("grid-template-columns:1fr", css)
+        self.assertIn(".mythos-concordance-table", css)
 
 
 if __name__ == "__main__":
