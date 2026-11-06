@@ -352,6 +352,11 @@ RECENT_FIGURES = (
      "/media/2026/10/mythos-heracles-lion-nemee-oinochoe-met-06-1021-66.jpg"),
     ("philosophie-theogonie.html", "icono-theogonie-demeter-triptoleme-met-s72-20261106",
      "/media/2026/10/demeter-triptolemos-peintre-niobides-met-41-162-98.jpg"),
+    # Séance 76 : schéma critique 2D, distinct des documents antiques.
+    # Contrôler aussi la légende et le statut IA : l'inventaire SVG seul ne
+    # garantit que la présence de l'URL et les octets du fichier.
+    ("philosophie-odyssee.html", "icono-odyssee-arc-preuve-autorite-s76-20261106",
+     "/assets/philosophie/odyssee-arc-preuve-autorite-s76-20261106.svg"),
 
 )
 
