@@ -1850,3 +1850,30 @@ body.mythos-design nav.origins-archival-return>a.origins-archival-source-link{
   }
 }
 @media print{body.mythos-design nav.origins-archival-return{display:none!important}}
+
+/* MYTHOS — archives des Origines du sacré : parcours linéaire des neuf lecteurs.
+   Les liens voisins ne remplacent ni les sources Markdown ni les sommaires. */
+body.mythos-design nav.origins-archival-return>a.origins-archival-adjacent{
+  box-sizing:border-box;
+  flex:1 1 245px;
+  max-width:100%;
+  font-weight:500;
+  color:#f0d3a0;
+  border-color:#92774c;
+  background:#1a2829;
+  overflow-wrap:anywhere;
+}
+body.mythos-design nav.origins-archival-return>a.origins-archival-adjacent:hover,
+body.mythos-design nav.origins-archival-return>a.origins-archival-adjacent:focus-visible{
+  outline:3px solid #f6d6a1;
+  outline-offset:2px;
+  color:#fff1d5;
+}
+@media(max-width:540px){
+  body.mythos-design nav.origins-archival-return>a.origins-archival-adjacent{
+    flex:0 0 auto;
+    min-width:0;
+    width:100%;
+    padding:12px 14px;
+  }
+}
