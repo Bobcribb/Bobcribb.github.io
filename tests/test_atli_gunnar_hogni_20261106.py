@@ -61,10 +61,10 @@ class AtliCycleTests(unittest.TestCase):
         self.assertTrue(figure.img.get("alt"))
         self.assertNotIn("mythos-hero.svg", self.raw)
 
-    def test_four_reciprocal_links_and_catalogue(self):
+    def test_five_reciprocal_links_and_catalogue(self):
         portal = BeautifulSoup((ROOT / PORTAL).read_text(encoding="utf-8"), "html.parser")
         links = portal.select('a[href*="/cycle-sigurd-brynhildr-fafnir-nibelungen/"]')
-        self.assertEqual(len(links), 4)
+        self.assertEqual(len(links), 5)
         self.assertEqual(len(portal.select('a[href="' + URL + '"]')), 1)
         for p in (SIGURD, BRYNHILDR, NIBELUNGEN):
             self.assertIn(URL, (ROOT / p).read_text(encoding="utf-8"), str(p))
