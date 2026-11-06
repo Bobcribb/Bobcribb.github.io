@@ -2,7 +2,7 @@
   "generated_at": "2026-11-06",
   "site": "bobmythos.fr",
   "method": "Illustrations photoréalistes interprétatives, textes et sources hors des pixels.",
-  "count": 72,
+  "count": 73,
   "entries": [
     {
       "id": "DEL-PAN-001",
@@ -2000,6 +2000,58 @@
       ],
       "methodology": "Interprétation visuelle non métrique fondée sur la topographie, le plan et les phases attestées, mais sans relevé photogrammétrique ni contrôle de conformité des élévations. La skènè à façade colonnadée représentée est hypothétique. Ne pas utiliser cette illustration pour des mesures, pour reconstituer l’état des créations tragiques du Ve siècle ou comme preuve archéologique.",
       "publication_status": "fichier_depose_sur_branche_GitHub_deploiement_https_non_verifie"
+    },
+    {
+      "id": "MET-TAV-001",
+      "slug": "metaponte-tavole-palatine-heraion-vers-515-av-jc",
+      "title": "Métaponte (Grande-Grèce) — temple extra-urbain d’Héra, dit Tavole Palatine, vers 515 av. J.-C.",
+      "period": "Fin du VIe siècle av. J.-C., construction située vers 520–510 ; évocation vers 515 av. J.-C.",
+      "caption": "Reconstitution visuelle 3D photoréaliste interprétative du temple dorique extra-urbain d’Héra aux Tavole Palatine, rive droite du Bradano : péristyle 6 × 12 et paysage antique imaginé, vers 515 av. J.-C.",
+      "commentary": "Le sanctuaire extra-urbain d’Héra, connu sous son nom post-antique de « Tavole Palatine », était établi sur la rive droite du Bradano, à environ trois kilomètres de l’ancienne Métaponte (Metapontion), colonie achéenne de Grande-Grèce. Cette position en périphérie de la cité et près de la limite avec le territoire de Tarente constitue un élément important du paysage religieux et territorial. Le monument ne doit pas être confondu avec le grand temple urbain d’Héra, dit temple A, qui avait une colonnade archaïque de huit colonnes sur dix-sept. Le temple des Tavole Palatine était périptère dorique à six colonnes sur les petits côtés et douze sur les grands côtés, soit trente-deux colonnes distinctes en tenant compte des angles. Quinze subsistent actuellement avec des parties d’architrave, dix sur le côté nord et cinq au sud d’après le musée archéologique de Métaponte. La cella comprenait pronaos, naos et adyton ; les parements et les parties hautes ne sont pas intégralement conservés. L’édifice appartient à la fin du VIe siècle av. J.-C., vraisemblablement vers 520–510 selon l’étude architecturale présentée dans le catalogue Perseus. Une évocation « vers 515 » ne doit pas être comprise comme une date absolue assurée. Les fouilles ont mis au jour des fragments d’ornements architecturaux en terre cuite polychrome, de la céramique votive et des statuettes ; une dédicace à Héra trouvée lors des recherches de 1926 explique l’identification cultuelle du sanctuaire après une ancienne attribution erronée à Athéna. Les recherches de la Scuola Superiore Meridionale en 2022–2023 ont confirmé la présence d’un enclos sacré antérieur au temple au nord et d’une aire votive ancienne au sud, utilisée avant la monumentalisation. L’image représente une phase hypothétique de l’édifice complet, sur un terrain littoral relativement plat près du fleuve, avec peristasis, toit de tuiles, aire ouverte et petit autel. Le point de vue oblique, les dimensions apparentes, le profil exact de la toiture, les antéfixes, les teintes des métopes, les frontons, la taille et position de l’autel, les personnages, leurs costumes, les arbres, les berges du Bradano et la perspective maritime relèvent d’une reconstruction artistique. La texture vieillie des blocs illustre la matière et ne signifie pas que le sanctuaire aurait été ruiné vers 515. Aucune institution citée n’a participé à la production ou validé les détails du modèle. Il ne s’agit ni d’une photogrammétrie, ni d’une restitution métrique certifiée, ni d’une preuve de l’aspect antique.",
+      "certainty": "Élevé : localisation extra-urbaine sur la rive droite du Bradano ; identification à Héra ; temple dorique périptère 6 × 12 ; présence d’une cella subdivisée ; emploi du calcaire local et de décors architecturaux en terre cuite ; 15 colonnes conservées ; aire sacrée antérieure. Moyen : resserrement chronologique de 520 à 510 av. J.-C. ; hauteur générale, proportions architecturales simplifiées et restitutions globales de la toiture ; relation du bâtiment au téménos et aux secteurs votifs. Faible : sculpture des frontons, formes exactes des antéfixes, polychromie proposée, formes du petit autel, nombre de personnes, végétation, détail hydrographique, surface des terrains et position de la caméra.",
+      "source_url": "https://cultura.gov.it/luogo/tempio-delle-tavole-palatine",
+      "secondary_sources": [
+        "https://museometaponto.beniculturali.it/tempio-delle-tavole-palatine/",
+        "https://perseus-aa.github.io/items/aa_248.html",
+        "https://acma-digitale.it/pub/index.php/QuACMA/article/view/24",
+        "https://musei.basilicata.beniculturali.it/musei/?mid=8258&nome=tempio-delle-tavole-palatine-2"
+      ],
+      "src": "/assets/reconstitutions-3d/metaponte-tavole-palatine-heraion-vers-515-av-jc.webp",
+      "image": "/assets/reconstitutions-3d/metaponte-tavole-palatine-heraion-vers-515-av-jc.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-06",
+      "type": "reconstitution visuelle numérique photoréaliste à apparence 3D, non métrique",
+      "provenance": "Création originale assistée par génération d’image pour MYTHOS ; aucune interface, légende, schéma 2,5D ni menu de site incrusté. Les sources archéologiques ne valident pas ce rendu.",
+      "sha256": "50f81cf9dddeabf55753357ffa48f96130891969bb3fd78581ebea752dc8ac5f",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/metaponte-tavole-palatine-heraion-vers-515-av-jc.json",
+      "scientific_sources": [
+        {
+          "label": "Ministero della Cultura — Tempio delle Tavole Palatine, présentation du sanctuaire extra-urbain",
+          "url": "https://cultura.gov.it/luogo/tempio-delle-tavole-palatine"
+        },
+        {
+          "label": "Museo archeologico nazionale di Metaponto — Tempio delle Tavole Palatine, colonnes, cella et trouvailles",
+          "url": "https://museometaponto.beniculturali.it/tempio-delle-tavole-palatine/"
+        },
+        {
+          "label": "Perseus Art and Archaeology Browser, aa_248 — plan, mensurations et datation vers 520–510 av. J.-C.",
+          "url": "https://perseus-aa.github.io/items/aa_248.html"
+        },
+        {
+          "label": "Quaderni di ACMA (2024) — fouilles 2022–2023 à Metaponto, Tavole Palatine, Scuola Superiore Meridionale",
+          "url": "https://acma-digitale.it/pub/index.php/QuACMA/article/view/24"
+        },
+        {
+          "label": "Direzione Regionale Musei Basilicata — Temple des Tavole Palatine et limites du territoire de Métaponte",
+          "url": "https://musei.basilicata.beniculturali.it/musei/?mid=8258&nome=tempio-delle-tavole-palatine-2"
+        }
+      ],
+      "primary_texts": [
+        "L’identification à Héra repose notamment sur les offrandes et une dédicace antique sur céramique découverte en fouille en 1926, non sur une description antique complète du temple."
+      ],
+      "methodology": "Visualisation artistique fondée sur l’architecture archéologique 6 × 12 et la position dans le paysage ; aucune élévation exacte du fronton ou de la couverture n’est inférée des vestiges.",
+      "publication_status": "fichier_prepare_non_publie_deploiement_https_a_verifier"
     }
 ]
 }
