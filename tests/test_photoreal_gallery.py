@@ -132,7 +132,8 @@ class TestPhotorealGalleryVerification(unittest.TestCase):
             root = Path(temporary)
             page = root / 'reconstitutions-photorealistes.html'
             page.write_text(
-                '<html><body><nav class="r3d-index"><div class="r3d-index-grid">'
+                '<html><body><p><strong>État du corpus : 0 reconstitutions.</strong></p>'
+                '<nav class="r3d-index"><div class="r3d-index-grid">'
                 '</div></nav><article class="r3d-card" id="delphes-temple">'
                 '<h2>Delphes</h2></article></body></html>', encoding='utf-8')
             catalog = root / 'assets/reconstitutions-3d/catalogue-photorealiste.json'
@@ -145,6 +146,13 @@ class TestPhotorealGalleryVerification(unittest.TestCase):
             }]}), encoding='utf-8')
             self.assertEqual(sync_index(root), 1)
             html_once = page.read_text(encoding='utf-8')
+            self.assertEqual(sync_index(root), 0)
+            self.assertEqual(page.read_text(encoding='utf-8'), html_once)
+            self.assertIn('État du corpus : 1 reconstitution.', html_once)
+            # Corriger également une valeur obsolète sans modifier les cartes.
+            page.write_text(html_once.replace('État du corpus : 1 reconstitution.',
+                                              'État du corpus : 99 reconstitutions.'),
+                            encoding='utf-8')
             self.assertEqual(sync_index(root), 0)
             self.assertEqual(page.read_text(encoding='utf-8'), html_once)
             doc = BeautifulSoup(html_once, 'html.parser')
