@@ -17,6 +17,15 @@ import unicodedata
 from bs4 import BeautifulSoup
 
 VERSION = "20261104-lecture-2"
+# Lecteurs historiques complets déjà pourvus de leur propre sommaire, des
+# légendes et de renvois éditoriaux. Le lecteur générique effacerait leurs
+# éléments data-reading-owned et resérialiserait le manuscrit scientifique.
+PROTECTED_HISTORICAL_READERS = frozenset({
+    '/bibliotheque-mythologies-du-monde/mythos-volume-14-khmer-angkor-cosmogonies/',
+    '/bibliotheque-mythologies-du-monde/mythos-volume-15-philippines-ifugao-hudhud/',
+    '/bibliotheque-mythologies-du-monde/civilisations-histoire-khmers-angkor/',
+})
+
 COLLECTIONS = [
     ("/mythologie-grecque/", "Encyclopédie grecque", "Dossiers thématiques : dieux, héros, cycles, sanctuaires et textes anciens."),
     ("/theatre/", "Théâtre grec", "Intrigues, fragments et analyses philosophiques."),
@@ -411,6 +420,9 @@ def enhance(out, root):
         source=root/(record.get('source') or path.relative_to(out))
         record['source']=source.relative_to(root).as_posix()
         record['source_sha256']=sha256(source.read_bytes()).hexdigest() if source.is_file() else None
+        if entry['url'] in PROTECTED_HISTORICAL_READERS:
+            complete.append(record)
+            continue
         add_reading(doc,entry['url'],record)
         # All pages retain the approved visual identity; this layer adds controls.
         if doc.head:
