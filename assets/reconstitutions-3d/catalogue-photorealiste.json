@@ -2,7 +2,7 @@
   "generated_at": "2026-11-06",
   "site": "bobmythos.fr",
   "method": "Illustrations photoréalistes interprétatives, textes et sources hors des pixels.",
-  "count": 79,
+  "count": 80,
   "entries": [
     {
       "id": "DEL-PAN-001",
@@ -2346,6 +2346,63 @@
       ],
       "methodology": "Synthèse artistique explicitement non métrique ; l’ordonnance 5 × 15 et l’architecture bois/terre cuite documentées ne garantissent pas la fidélité des proportions affichées ni l’iconographie inventée des plaques.",
       "publication_status": "fichier_prepare_non_publie_deploiement_https_a_verifier"
+    },
+    {
+      "id": "KEA-KAR-ATH-001",
+      "slug": "kea-karthaia-temple-dit-athena-deux-terrasses-vers-490-av-jc",
+      "title": "Karthaia (Kéa, Cyclades) — temple dit « d’Athéna » au-dessus du sanctuaire d’Apollon, vers 490 av. J.-C.",
+      "period": "Vers 490 av. J.-C. — fin de l’époque archaïque et début de l’époque classique ; temple supérieur daté vers 500 av. J.-C.",
+      "caption": "Vue photoréaliste 3D interprétative des deux terrasses sacrées de Karthaia au-dessus de la baie de Poles : temple dorique périptère supérieur dit « d’Athéna » et sanctuaire inférieur d’Apollon. Reconstitution non métrique.",
+      "commentary": "L’ancienne Karthaia (Καρθαία) occupe l’extrémité sud-est de l’île de Kéa, dans les Cyclades, au-dessus de la double baie de Poles. Elle constituait, avec Ioulis, Korésia et Poiessa, l’une des quatre cités antiques de l’île. Son acropole monumentale présente deux terrasses superposées au-dessus du rivage. Le sanctuaire inférieur correspond au grand temple de l’Apollon Pythien, daté des environs de 530 av. J.-C. : un édifice dorique prostyle, hexastyle en parastade, d’environ 16,00 × 31,15 m et de huit mètres de haut selon l’Éphorie des Antiquités des Cyclades. Le sanctuaire de la terrasse supérieure contient un temple dorique périptère de 6 × 11 colonnes, d’environ 12,00 × 23,20 m et de 8,70 m de haut selon la même autorité, daté vers 500 av. J.-C. Il est habituellement désigné comme temple « d’Athéna », mais cette dédicace est une attribution hypothétique, non une identification certaine. Le temple supérieur compte parmi les plus anciens temples doriques périptères des Cyclades. Des fragments de la statuaire de fronton et d’acrotères, notamment liés à une Amazonomachie, sont conservés au musée archéologique de Kéa à Ioulis. L’image propose une restitution visuelle de synthèse placée vers 490 av. J.-C., après l’édification du temple supérieur. Elle montre au premier plan le sanctuaire perché, des murs de soutènement en blocs et, plus bas, un autre temple évoquant l’édifice d’Apollon. Le promontoire, la baie et l’étagement des deux espaces cultuels résument des données topographiques vérifiables, mais l’angle de vue, les proportions apparentes et l’écartement relatif des constructions ne sont pas reconstruits à partir d’une photogrammétrie ou d’un relevé métrique. La sculpture visible dans le fronton du temple supérieur ne reproduit pas une reconstitution contrôlée de l’Amazonomachie. Les toitures de tuiles, la polychromie, les détails de l’entablement, la forme des murs, les entrées des cellae, les vêtements des figures humaines, la végétation et les couleurs du paysage sont conjecturaux. La géométrie des colonnes peinte par un modèle génératif peut ne pas respecter exactement le décompte et les proportions des plans publiés : les chiffres 6 × 11 et 6 colonnes en façade proviennent des sources, et ne doivent pas être déduits en comptant les pixels de l’image. Le propylon monumental qui donnera accès à la terrasse supérieure est daté du milieu du Ve siècle av. J.-C. et ne doit pas être supposé déjà achevé en 490. Le « bâtiment D », vers 300 av. J.-C., et le théâtre de pierre, du IVe siècle av. J.-C., sont également postérieurs à l’état choisi et ne figurent donc pas dans cette synthèse. La cité et ses quartiers contemporains sont volontairement peu détaillés. La création numérique photoréaliste est une illustration à apparence 3D, non un modèle 3D mesurable, une restitution scientifique validée ou une photographie d’un état antique. Les institutions citées n’ont ni commandé ni validé l’image.",
+      "certainty": "ÉLEVÉ — emplacement de Karthaia au-dessus de la baie de Poles ; terrasses cultuelles superposées ; présence du temple inférieur d’Apollon (vers 530 av. J.-C.) et du temple supérieur dorique (vers 500 av. J.-C.) ; plan 6 × 11 de ce dernier et caractère périptère ; dimensions générales publiées par l’Éphorie ; vestiges sculptés du fronton. MOYEN — état de l’ensemble vers 490 av. J.-C., silhouette de l’élévation et rapport topographique général entre les constructions. FAIBLE — dédicace du temple supérieur à Athéna ; sculpture précise du fronton, acrotères, enduits et peintures, détail de toiture, élévation des murs de soutènement, emplacement des figures et offrandes, répartition de la végétation, lumière, relief exact et alignement apparent des monuments dans le panorama.",
+      "source_url": "https://cyclades.culture.gov.gr/en/location/ancient-karthaia-of-kea/",
+      "secondary_sources": [
+        "https://cyclades.culture.gov.gr/en/location/the-tetrapolis-of-kea/",
+        "https://www.visitgreece.gr/en/experiences/culture/archaeological-sites-monuments/archaeological-site-of-karthaia",
+        "https://www.culture.gov.gr/el/service/SitePages/view.aspx?iID=1410",
+        "https://cyclades.culture.gov.gr/en/location/ancient-karthaia-of-kea/"
+      ],
+      "src": "/assets/reconstitutions-3d/kea-karthaia-temple-dit-athena-deux-terrasses-vers-490-av-jc.webp",
+      "image": "/assets/reconstitutions-3d/kea-karthaia-temple-dit-athena-deux-terrasses-vers-490-av-jc.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-06",
+      "type": "reconstitution numérique photoréaliste à apparence 3D, interprétative et non métrique",
+      "provenance": "Image originale générée pour MYTHOS par un modèle de création d’images. Aucune interface, logo, légende, menu, typographie incrustée ou schéma 2,5D. Sources non cautionnantes.",
+      "sha256": "2892bf1e22b9b03645664cda39561e717ed29a045fdb415e91fe4e72b94dccd7",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/kea-karthaia-temple-dit-athena-deux-terrasses-vers-490-av-jc.json",
+      "scientific_sources": [
+        {
+          "label": "Éphorie des Antiquités des Cyclades — Ancient Karthaia of Kea, dossier officiel des deux temples, des dimensions, des fouilles et des phases",
+          "url": "https://cyclades.culture.gov.gr/en/location/ancient-karthaia-of-kea/",
+          "kind": "institution"
+        },
+        {
+          "label": "Éphorie des Antiquités des Cyclades — The Tetrapolis of Kea, contexte historique et archéologique",
+          "url": "https://cyclades.culture.gov.gr/en/location/the-tetrapolis-of-kea/",
+          "kind": "institution"
+        },
+        {
+          "label": "Visit Greece / Organisation nationale du tourisme — Archaeological Site of Karthaia",
+          "url": "https://www.visitgreece.gr/en/experiences/culture/archaeological-sites-monuments/archaeological-site-of-karthaia",
+          "kind": "institution"
+        },
+        {
+          "label": "Ministère grec de la Culture — Conservation et mise en valeur de l’ancienne Karthaia de Kéa",
+          "url": "https://www.culture.gov.gr/el/service/SitePages/view.aspx?iID=1410",
+          "kind": "institution"
+        },
+        {
+          "label": "Simantoni-Bournia, E., Mendoni, L. G., Panagou, T. M., Καρθαία. Ἐλαχύνωτον στέρνον χθονός, Athènes, 2009 — bibliographie recommandée par l’Éphorie",
+          "url": "https://cyclades.culture.gov.gr/en/location/ancient-karthaia-of-kea/",
+          "kind": "bibliographie"
+        }
+      ],
+      "primary_texts": [
+        "Pindare, Péans, IV (mention de Karthaia selon l’Éphorie des Cyclades ; portée exacte à contrôler dans une édition critique)."
+      ],
+      "methodology": "Visualisation interprétative de synthèse d’après le plan et la topographie publiés ; image 2D photoréaliste à apparence 3D, non géoréférencée, sans validation institutionnelle. Distinguer les données archéologiques des choix artistiques.",
+      "publication_status": "fichier_prepare_non_publie_https_a_verifier"
     }
   ]
 }
