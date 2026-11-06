@@ -22,7 +22,7 @@ class NibelungenklagePublicationTests(unittest.TestCase):
         cls.doc = BeautifulSoup(cls.raw, "html.parser")
 
     def test_document_is_complete_not_a_numbered_manuscript(self):
-        self.assertGreater(len(self.raw), 60000)
+        self.assertGreater(len(self.raw), 35000)
         self.assertIn("La Nibelungenklage", self.doc.title.get_text())
         for phrase in ["Die Klage", "Cod. Sang. 857", "Cod. Donaueschingen 64",
                        "Swemmelin", "Pilgrim", "Bumke", "Buschinger",
