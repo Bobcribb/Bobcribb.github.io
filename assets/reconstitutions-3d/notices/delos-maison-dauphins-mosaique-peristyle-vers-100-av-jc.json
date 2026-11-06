@@ -1,0 +1,49 @@
+{
+  "id": "DEL-DAU-001",
+  "slug": "delos-maison-dauphins-mosaique-peristyle-vers-100-av-jc",
+  "title": "Délos — maison des Dauphins, péristyle et mosaïque, vers 100 av. J.-C.",
+  "period": "Évocation vers 110–90 av. J.-C. ; maison hellénistique et mosaïque appartenant à la période d’expansion résidentielle de Délos, principalement 130–68 av. J.-C.",
+  "caption": "Restitution visuelle photoréaliste interprétative de la cour à péristyle de la Maison des Dauphins (GD 111), dans le quartier du Théâtre à Délos, autour de 100 av. J.-C. Le pavement comporte une évocation non documentaire des quatre angles ornés d’Érotes chevauchant des dauphins.",
+  "commentary": "La Maison des Dauphins, dite aussi maison Pâris, se situe dans le quartier du Théâtre de Délos (référence topographique GD 111) et fut fouillée par Pierre Paris en 1883. Une cour à péristyle, son réseau de pièces de réception, son pavement à mosaïque et des enduits peints sont documentés par les fouilles et les archives de l’École française d’Athènes. Le nom moderne provient des quatre groupes de dauphins chevauchés par des Érotes, placés dans les angles du pavement de la cour. L’étude de Marcel Bulard documente notamment des revêtements muraux peints dans une salle de la maison ; l’existence de décors peints n’atteste pas les motifs précis de la présente image. Anne-Marie Guimier-Sorbets situe l’essentiel des mosaïques de Délos entre 130 et 68 av. J.-C., période dans laquelle s’inscrit l’évocation proposée, et souligne l’importance de leur conservation in situ. La datation vers 100 av. J.-C. est donc une convention de restitution et non la preuve d’une journée ou d’une phase intérieure unique. La présente vue est construite autour de la cour pavée, des colonnes périphériques et des pièces ouvertes sur le péristyle. Les figurations musives reproduites dans les pixels sont librement stylisées et ne remplacent pas un relevé du pavement antique ; les Érotes représentés n’en sont pas une copie exacte. Le petit bassin central, les colonnes complètes, les hauteurs de murs, les toits, les ouvertures, le mobilier, les plantes, les lampes et la fréquentation sont des propositions artistiques. La composition ne prétend pas reproduire fidèlement une maison de dimensions mesurables ; l’image est un rendu de synthèse photoréaliste à apparence 3D, et non un modèle 3D métrique, une photogrammétrie ou une validation institutionnelle. Les sources décrivent les vestiges et les études d’architecture domestique, sans authentifier ce visuel.",
+  "certainty": "Élevé : localisation de la maison (GD 111) dans le quartier du Théâtre ; existence d’une cour à péristyle et d’un pavement musif ; motifs d’Érotes chevauchant des dauphins dans les angles ; enduits peints et contexte résidentiel hellénistique. Moyen : datation d’évocation proche de 100 av. J.-C. dans l’intervalle 130–68 ; relations spatiales approximatives des salles ; élévation générale plausible de la galerie. Faible : rendu exact de chaque motif de mosaïque, placement et dimensions du bassin central, profils et teintes des colonnes, hauteur des parois, façades, couverture, décors pariétaux, meubles, gestes, personnages, plantes, angle de vue et lumière.",
+  "source_url": "https://editions.efa.gr/?id=1001&r=publication",
+  "secondary_sources": [
+    "https://www.persee.fr/doc/bch_0007-4217_1906_num_30_1_3288",
+    "https://www.persee.fr/doc/rea_0035-2004_1924_num_26_3_2317",
+    "https://archimage.efa.gr/?id=1154255&r=fiche_publique",
+    "https://whc.unesco.org/fr/list/530/"
+  ],
+  "src": "/assets/reconstitutions-3d/delos-maison-dauphins-mosaique-peristyle-vers-100-av-jc.webp",
+  "image": "/assets/reconstitutions-3d/delos-maison-dauphins-mosaique-peristyle-vers-100-av-jc.webp",
+  "width": 1672,
+  "height": 941,
+  "created_at": "2026-11-06",
+  "type": "reconstitution visuelle numérique photoréaliste à apparence 3D, non métrique",
+  "provenance": "Image originale produite pour MYTHOS par génération numérique puis encodage WebP, sans menu, titre, texte, logo ni schéma 2,5D incrusté. Les institutions citées documentent l’archéologie mais n’ont pas validé cette image.",
+  "sha256": "4d7a3a4fef4c67c5cb58a77cba9c58183a8b76938c88101b1a6f86cc01ea6f2e",
+  "scientific_notice": "/assets/reconstitutions-3d/notices/delos-maison-dauphins-mosaique-peristyle-vers-100-av-jc.json",
+  "scientific_sources": [
+    {
+      "label": "École française d’Athènes — A.-M. Guimier-Sorbets, Les mosaïques de Délos (2022)",
+      "url": "https://editions.efa.gr/?id=1001&r=publication"
+    },
+    {
+      "label": "BCH 1906 — Fouilles de Délos : Maison des Dauphins et quatre Érotes sur dauphins",
+      "url": "https://www.persee.fr/doc/bch_0007-4217_1906_num_30_1_3288"
+    },
+    {
+      "label": "M. Bulard, Revue des Études Anciennes 1924 — peinture murale de la Maison des Dauphins",
+      "url": "https://www.persee.fr/doc/rea_0035-2004_1924_num_26_3_2317"
+    },
+    {
+      "label": "École française d’Athènes, Archimage — archives Maison des Dauphins GD 111",
+      "url": "https://archimage.efa.gr/?id=1154255&r=fiche_publique"
+    },
+    {
+      "label": "UNESCO — Délos, patrimoine mondial",
+      "url": "https://whc.unesco.org/fr/list/530/"
+    }
+  ],
+  "methodology": "Synthèse visuelle interprétative d’architecture domestique antique. Les motifs sont stylisés ; ne pas mesurer les formes, ni attribuer aux musées, à l’EFA ou à l’UNESCO une validation du rendu.",
+  "publication_status": "fichier_prepare_non_publie_deploiement_https_a_verifier"
+}
