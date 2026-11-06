@@ -20,9 +20,7 @@ class NibelungenliedTests(unittest.TestCase):
         self.assertGreater(len(self.html), 35000)
         for token in ("Cod. Sang. 857", "Cod. Donaueschingen 63", "Cgm 34",
                       "Nibelungenklage", "Gondichaire", "Hagen", "Kriemhild",
-                      "Serfas", "Buschinger", "UNESCO", "Dumézil"):
-            if token == "Dumézil":
-                continue
+                      "Serfas", "Buschinger", "UNESCO"):
             self.assertIn(token, self.html)
         self.assertIsNotNone(self.doc.find(id="nibelungen-bibliographie"))
 
