@@ -861,6 +861,18 @@
           "path": "chapitres/origines-du-sacre/715-sipan-huaca-rajada-tombes-royales-moche-accompagnants-iconographie-sacrifice.md",
           "request_sha256": "a7c9e21a01e47818916ea78878770cef0b356120098200d9b8039d38ee2704b4",
           "initial_source_sha256": "7ef4b3cc718f855511a3f8bc158be3d0cf1db30bd55101899611d8b19447ccf0"
+        },
+        "80c6bde1-92a4-4827-890f-a8410c3d2b16": {
+          "number": 716,
+          "path": "chapitres/origines-du-sacre/716-qustul-cimetiere-l-groupe-a-encensoir-souverainete-ta-seti.md",
+          "request_sha256": "e6fcb6c34a654e0a2e6926f91b59ea5446c5cad17bd26698bdbf9b1600630ba5",
+          "initial_source_sha256": "40581ff57c67fd8f7df2d4c3682300e60af4ea0cb1d52bc3cc8576111065da68"
+        },
+        "f7c064e8-2b83-4187-b7bb-9ac1b8e7e0d3": {
+          "number": 717,
+          "path": "chapitres/origines-du-sacre/717-hierakonpolis-hk6-elephants-babouins-animaux-sauvages-pouvoir-sacrifice.md",
+          "request_sha256": "77cce64bc7ddd3bfaf3a66e177e8693bee23eaea269cf219c4e529bd30eb3c4c",
+          "initial_source_sha256": "ad2fe22bf4f6efa6e92b8ddcb4c2d406557a18f2a055b693cdcf662bb37bbcb8"
         }
       }
     },
@@ -2416,6 +2428,12 @@
           "path": "chapitres/tragedies/volume-cclx-acheos-eretrie-adrastos-royaute-alliances-survie-thebes.md",
           "request_sha256": "64bd4de47211baccfe95c4c41f7b95d065ff4a35eb37bddfa6bfab64745a6b64",
           "initial_source_sha256": "6d6eef6df86ad2b23795ab457cdce51f6d799832ff6a12a9b0e0e0b8358825b1"
+        },
+        "46d0210f-fb37-4ed4-9c0b-8826e851a943": {
+          "number": 261,
+          "path": "chapitres/tragedies/volume-cclxi-acheos-eretrie-athla-athloi-epreuves-concours-corps-athletes-prix.md",
+          "request_sha256": "e4b853b590925c6034b8e833d154f03fd9738ccc2812a833cd23684bde81cbe2",
+          "initial_source_sha256": "d535fa795cc4b995d990d085328203dff7ce0c9f631d2e6e54256e1f64b8a58a"
         }
       }
     },
@@ -3289,6 +3307,12 @@
           "path": "chapitres/comparatif/volume-cclxxxvi-mc-093-sceau-des-dieux-empreinte-autorite-protection-souverainete-sumer-perse-bible.md",
           "request_sha256": "64a4dbdab1737665bf6dd5592c5cee9e76ce074cbf23a3497b3460b56e4754c0",
           "initial_source_sha256": "2fc86e16b0b390d6ed9c86f071d5d0ce0db251a960adb4ba8d69e409b8f21dae"
+        },
+        "1b9f4d71-5c2e-4b9a-8f37-4d22c8c1ad14": {
+          "number": 287,
+          "path": "chapitres/comparatif/volume-cclxxxvii-oiseaux-cosmogonie-oeuf-nuit-eros-prodicos-oracles-souverainete-414.md",
+          "request_sha256": "b267b846babdadcb2b7f674e7b374ef1076853dfdc453a712196dc8d972266c9",
+          "initial_source_sha256": "ba2db73dad77f34ff79161111c6dea2a87e0435e34343610be074788a6c0fc6b"
         }
       }
     }

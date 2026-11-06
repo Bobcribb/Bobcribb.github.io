@@ -1908,6 +1908,12 @@
         "url": "/chapitres/tragedies/volume-cclx-acheos-eretrie-adrastos-royaute-alliances-survie-thebes/",
         "title": "Volume CCLX (260) — Achéos d'Érétrie, Adraste (Ἄδραστος) — Le survivant de Thèbes : royauté, alliance, erreur et mémoire des morts",
         "source": "chapitres/tragedies/volume-cclx-acheos-eretrie-adrastos-royaute-alliances-survie-thebes.md"
+      },
+      {
+        "number": 261,
+        "url": "/chapitres/tragedies/volume-cclxi-acheos-eretrie-athla-athloi-epreuves-concours-corps-athletes-prix/",
+        "title": "Volume CCLXI (261) — Achéos d'Érétrie, Les Épreuves ou Les Concours — Ἄθλα / Ἄθλοι : compétition, corps athlétique, satire de la victoire, luxe et économie des récompenses",
+        "source": "chapitres/tragedies/volume-cclxi-acheos-eretrie-athla-athloi-epreuves-concours-corps-athletes-prix.md"
       }
     ],
     "comparatif": [
@@ -3317,6 +3323,12 @@
         "url": "/chapitres/comparatif/volume-cclxxxvi-mc-093-sceau-des-dieux-empreinte-autorite-protection-souverainete-sumer-perse-bible/",
         "title": "Volume CCLXXXVI (286) — MC-093 — Le sceau des dieux : empreinte, autorité, protection et souveraineté de Sumer à la Perse et à la Bible",
         "source": "chapitres/comparatif/volume-cclxxxvi-mc-093-sceau-des-dieux-empreinte-autorite-protection-souverainete-sumer-perse-bible.md"
+      },
+      {
+        "number": 287,
+        "url": "/chapitres/comparatif/volume-cclxxxvii-oiseaux-cosmogonie-oeuf-nuit-eros-prodicos-oracles-souverainete-414/",
+        "title": "Volume CCLXXXVII (287) — Avant Zeus, un œuf : la cosmogonie des Oiseaux (685–736), Éros, Prodicos et la fabrication d’une autorité religieuse et politique",
+        "source": "chapitres/comparatif/volume-cclxxxvii-oiseaux-cosmogonie-oeuf-nuit-eros-prodicos-oracles-souverainete-414.md"
       }
     ],
     "comedies": [
@@ -5649,6 +5661,18 @@
         "url": "/chapitres/origines-du-sacre/715-sipan-huaca-rajada-tombes-royales-moche-accompagnants-iconographie-sacrifice/",
         "title": "Chapitre 715 — Sipán : la mort du seigneur, les gardiens et la « cérémonie de présentation » — tombes moche de Huaca Rajada, pouvoir, sacrifice et images du sacré dans les Andes",
         "source": "chapitres/origines-du-sacre/715-sipan-huaca-rajada-tombes-royales-moche-accompagnants-iconographie-sacrifice.md"
+      },
+      {
+        "number": 716,
+        "url": "/chapitres/origines-du-sacre/716-qustul-cimetiere-l-groupe-a-encensoir-souverainete-ta-seti/",
+        "title": "Chapitre 716 — Qustul avant les pharaons : le cimetière L, l'encensoir à procession, les élites du Groupe A et la controverse sur les origines de la royauté nilotique",
+        "source": "chapitres/origines-du-sacre/716-qustul-cimetiere-l-groupe-a-encensoir-souverainete-ta-seti.md"
+      },
+      {
+        "number": 717,
+        "url": "/chapitres/origines-du-sacre/717-hierakonpolis-hk6-elephants-babouins-animaux-sauvages-pouvoir-sacrifice/",
+        "title": "Chapitre 717 — Hiérakonpolis et les animaux des puissants : la nécropole HK6, éléphants, babouins, violence de captivité et naissance des paysages cérémoniels en Égypte prédynastique",
+        "source": "chapitres/origines-du-sacre/717-hierakonpolis-hk6-elephants-babouins-animaux-sauvages-pouvoir-sacrifice.md"
       }
     ]
   },
