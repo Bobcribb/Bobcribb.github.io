@@ -47,7 +47,7 @@ class IconographySession74(unittest.TestCase):
     def test_alternation_after_session_73(self):
         data = json.loads((ROOT / "docs/MYTHOS_ICONOGRAPHIE_ALTERNANCE.json").read_text(encoding="utf-8"))
         events = data["history"]
-        sessions74 = [(pos, event) for pos, event in enumerate(events) if event["session_number"] == 74]
+        sessions74 = [(pos, event) for pos, event in enumerate(events) if event.get("session_number") == 74]
         self.assertEqual(len(sessions74), 1)
         pos, event = sessions74[0]
         self.assertGreater(pos, 0)
