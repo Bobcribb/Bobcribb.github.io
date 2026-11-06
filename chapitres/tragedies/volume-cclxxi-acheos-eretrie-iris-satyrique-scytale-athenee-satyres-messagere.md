@@ -1,0 +1,477 @@
+# MYTHOS — Encyclopédie des tragédies grecques — Volume CCLXXI (271)
+
+## Achéos d’Érétrie, *Iris satyrique* (Ἴρις Σατυρική) — La messagère interceptée : parole divine, énigme spartiate, rituels contestés et frontières du pouvoir
+
+**Monographie universitaire intégrale — philologie des tragiques fragmentaires et des auteurs de banquet ; théâtre satyrique ; poétique des énigmes ; histoire matérielle de la communication ; mythographie d’Iris ; iconographie céramique attique ; analyse de la violence représentée ; philosophie de Platon, Aristote, Hegel et Nietzsche ; bibliographie critique.**
+
+**Identification vérifiée.** Achéos d’Érétrie (Ἀχαιός ὁ Ἐρετριεύς), **Ἴρις Σατυρική**, dixième titre du corpus Achaeus I dans **FragTrag.1**, Université de Patras. Les numéros anciens **TrGF I, 20 F 19–23** désignent le dossier de la pièce, mais la concordance actuelle les répartit différemment : **FragTrag fr. 20 = ancien TrGF 20 F 19**, **FragTrag rep. 4 = ancien TrGF 20 F 20 et appareil de témoignages**, puis **FragTrag fr. 21, fr. 22 et fr. 23 = TrGF 20 F 21, F 22 et F 23**. Le fragment 19 ancien, dont les mots sont transmis par **Athénée, *Deipnosophistes* X, 451c–d**, est le seul de ce dossier dont une séquence grecque a été directement vérifiée pour la présente étude. Les autres identifiants sont contrôlés dans la concordance, mais leur texte exact n’est pas ici présenté comme directement collationné. **Nauck, *Tragicorum Graecorum Fragmenta*, 2e éd., Leipzig, 1889, p. 751–752**, et **S. Douglas Olson, index d’Athénée : F 19 = 10.451c–d**.
+
+**Statut de la recherche.** L’existence de la pièce, son caractère satyrique, le témoin d’Athénée et les correspondances critiques sont établis. On ne connaît pas son argument complet, le nombre de personnages, l’action de son chœur, sa date de représentation, son ouverture ni son dénouement. Des images anciennes montrent des satyres confrontés à une déesse ailée, très souvent identifiée comme Iris, mais **aucune ne saurait être revendiquée comme photographie documentaire d’un spectacle perdu**. Toute proposition de restitution reste une hypothèse réversible.
+
+### Résumé scientifique
+
+La déesse Iris traverse l’épopée grecque comme messagère des dieux, porteuse de messages qui doivent rejoindre rapidement un destinataire. Dans le drame satyrique d’Achéos qui porte son nom, un seul extrait littéral aisément accessible aujourd’hui ne décrit pourtant ni ciel, ni vol, ni escorte de satyres : **Athénée** cite une image particulièrement obscure d’une fiole remplie d’onguent suspendue à une courroie, comparée à un système d’écriture spartiate. Il s’agit d’un passage sur la matière, les objets et le langage figuré. Athénée l’emploie précisément pour illustrer la tendance d’Achéos à rendre sa diction énigmatique. Cette différence entre un **titre divin** et une **métaphore technique** doit être interprétée, non dissimulée.
+
+Une importante tradition iconographique, antérieure à la carrière du poète, montre une déesse ailée aux prises avec des satyres ; une coupe à yeux de Cleveland (vers 520–510 av. J.-C.) représente probablement Iris entre des satyres ; une célèbre coupe attribuée au Peintre de Brygos (British Museum E65, vers 490–480) associe l’interpellation d’Iris et la défense d’Héra. À partir de ces peintures, plusieurs chercheurs, dont Erika Simon, ont proposé un scénario de conflit autour des offrandes, où Héra enverrait Iris troubler le culte de Dionysos et où les satyres tenteraient de récupérer la part dérobée. C’est une **interprétation moderne des images**, et non un résumé transmis de la pièce d’Achéos. E. W. Scharffenberger a par ailleurs rapproché le traitement satyrique d’Iris des **Oiseaux** d’Aristophane (1199–1261) : une déesse messagère voit son passage contesté et devient la cible de menaces et d’insultes.
+
+Le dossier permet d’étudier comment une parole divine peut perdre sa force lorsqu’elle passe dans l’espace d’autrui, comment la communication codée devient une métaphore poétique, et comment l’image du satyre peut mettre à nu les violences d’une interaction asymétrique. L’analyse distingue les textes primaires, les peintures, les hypothèses de spectacle et les philosophies modernes. Les références à Platon — en particulier **Théétète 155d**, où Iris, fille de Thaumas, devient une figure du rapport entre émerveillement et philosophie —, à Hegel et à Nietzsche sont explicitées comme lectures extérieures, non paroles retrouvées d’Achéos.
+
+### 1. Continuité de la série : après *Thésée* et *Héphaïstos*
+
+Le contrôle du dernier registre GitHub a confirmé que *Thésée* d’Achéos dispose de son reçu d’attribution, de même que les deux manuscrits autonomes déposés sur *Héphaïstos satyrique*. Ces deux derniers reçus renvoient cependant à la **même œuvre antique** et devront être rapprochés sans supprimer ni renuméroter leurs manuscrits protégés. Cette anomalie n’autorise pas à transformer leurs textes en deux pièces différentes. La présente monographie **ne réémet aucune étude déjà attribuée**.
+
+Dans la progression du répertoire universitaire FragTrag.1, le titre qui suit *Thésée* est **Ἴρις Σατυρική**. Le numéro de volume MYTHOS qui lui sera finalement alloué ne résulte pas de cette séquence ni d’une ancienne conversation : la file GitHub attribue le numéro à partir de son état réel et de ses contrôles concurrents. L’ordre des titres est ici **bibliographique** et non une hypothèse sur l’ordre chronologique des représentations.
+
+### 2. L’œuvre attestée : une pièce satyrique et non une tragédie générique
+
+Le qualificatif **Σατυρική** est explicite : la pièce appartient au drame satyrique. Celui-ci a historiquement sa place dans la production des tragiques grecs, mais se distingue des tragédies par son chœur, ses fonctions ludiques et sa manière de traiter héros et divinités. Une encyclopédie des tragédiens peut donc inclure *Iris satyrique* tout en **nommant correctement le genre**.
+
+Le classement d’Achéos est particulièrement important : il a composé plusieurs pièces satyriques attestées, notamment *Aithon*, *Alcméon*, *Héphaïstos*, *Iris*, *Linos* et *Omphale*. Tous les titres de son corpus ne portent pas pourtant cette qualification. Le genre doit être établi **pièce par pièce**, non par une réputation globale de l’auteur.
+
+### 3. La carrière d’Achéos : ce que la biographie permet vraiment
+
+Achéos d’Érétrie, originaire d’Eubée, appartient à la scène du Ve siècle avant notre ère. Les notices antiques lui prêtent 24, 30 ou 44 pièces, un nombre disputé, et une victoire dramatique. Sa réputation d’écrivain satyrique fut considérable ; **Diogène Laërce II, 133** transmet un jugement attribué à Ménédème qui place son art dans la proximité d’Eschyle. La notice d’**Andrew Brown**, *Oxford Classical Dictionary* (2016), distingue l’Érétrien d’un autre Achéos de Syracuse.
+
+Le fait que l’auteur ait été jugé habile ou difficile ne livre pas le contexte de la pièce *Iris*. Nous ne connaissons ni sa date de première représentation ni la tétralogie où elle aurait pu prendre place. L’ancienne biographie ne saurait se transformer en argument dramatique.
+
+### 4. La difficulté spécifique de *Iris* : une déesse mobile, un texte immobile
+
+L’Iris d’Homère est définie notamment par sa capacité à franchir les distances en portant une parole. La transmission de la pièce est paradoxale : ce qui reste lisible n’est pas une course divine, mais une description sophistiquée d’un petit objet suspendu. Ce paradoxe concerne notre **documentation moderne**, pas nécessairement le choix poétique d’Achéos : il peut provenir du goût de l’auteur cité, Athénée, pour les tournures obscures.
+
+Un commentateur doit éviter d’inventer une « scène centrale de la fiole » parce que la citation existe. Le fragment a pu être secondaire dans la dramaturgie, prononcé dans un récit ou dans une conversation. Sa sélection par un compilateur ne mesure pas sa place dans l’ensemble perdu.
+
+### 5. Concordance des systèmes de fragments
+
+La nomenclature pose un piège. Le premier texte de la pièce, **TrGF 20 F 19**, devient **fr. 20** dans FragTrag.1. L’ancien **TrGF F 20** se trouve dans **rep. 4**, où le terme *report* et la présence d’un appareil de témoignages exigent une lecture distincte. Les identifiants **F 21, F 22 et F 23** sont également portés au dossier ; ils correspondent aux **fragments 21–23** de la concordance universitaire. Il serait faux de réduire toute l’œuvre à un seul fragment, mais tout aussi faux de prétendre posséder le contenu d’un nouveau dialogue pour chacune de ces lignes de catalogue.
+
+La formule générale « F 19–23 » sert à **délimiter l’inventaire ancien**, non à garantir que cinq scènes continues subsistent. Un fragment peut être un mot isolé, une locution, un témoignage indirect ou un vers partiel, et chaque catégorie nécessite un protocole différent d’interprétation.
+
+### 6. Trois niveaux de preuve philologique
+
+**Niveau A, contrôlé au mot près dans une transcription éditée :** la citation d’Achéos par Athénée en **X, 451c–d**, identifiée par Olson comme **TrGF 20 F 19**. **Niveau B, contrôlé comme identité documentaire :** les correspondances FragTrag.1 pour F 20 et F 21–23, sans reproduction d’un grec non collationné. **Niveau C, hypothétique :** leur disposition originelle, leur rapport à la messagère, aux satyres et à un conflit rituel éventuel.
+
+Le lecteur doit pouvoir reconnaître dans le texte de MYTHOS à quel niveau appartient chaque phrase. Les traductions d’une source extérieure ne deviennent pas des répliques originales par simple réemploi.
+
+### 7. Athénée X, 451c–d : source, contexte et biais
+
+Le compilateur **Athénée de Naucratis**, dans les *Deipnosophistes*, explore à ce passage la pratique de l’**énigme** et les difficultés de certaines expressions littéraires. Il cite Achéos en l’appelant poète élégant dans sa composition, mais susceptible d’assombrir son expression et de formuler des passages énigmatiques. L’exemple proposé vient expressément de son drame satyrique *Iris*. [Texte grec d’Athénée, livre X, 451c–d, édition de Kaibel disponible par Perseus](https://beta.perseus.tufts.edu/urn:cts:greekLit:tlg0008.tlg001.perseus-grc3:10/) ; [traduction anglaise commentée](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Athenaeus/10E%2A.html).
+
+La sélection d’un passage par Athénée ne permet pas de connaître le plaisir du public original. Une formule obscure pouvait passer sur scène avec un geste ou un accessoire clarifiant, ou produire volontairement une perplexité plaisante. Le témoignage tardif établit surtout une **réception érudite**.
+
+### 8. La courte citation grecque réellement contrôlée
+
+La transcription éditée d’Athénée donne notamment le passage suivant, dont l’ordre des mots est conservé ci-dessous :
+
+> **λιθάργυρος δ᾽ ὄλπη παρῃωρεῖτο χρίματος πλέα τὸν Σπαρτιάτην γραπτὸν κύρβιν ἐν διπλῷ ξύλῳ.**
+
+Cette citation est **un extrait d’Athénée**, non une nouvelle collation des témoins grecs du drame. La graphie, la ponctuation et la répartition métrique peuvent varier selon les éditions ; leur histoire doit être étudiée dans l’apparat du *TrGF* et de l’édition de Kaibel avant toute prétention à un texte critique définitif. La présente monographie ne fabrique aucun mot supplémentaire pour faire « sonner » la réplique.
+
+### 9. Traduction de travail et difficultés de sens
+
+On peut traduire prudemment, en conservant l’étrangeté : « Une fiole à l’aspect argenté, pleine d’onguent, pendait à ce *kyrbis* spartiate inscrit, fixé sur un double bois. » Il s’agit d’une **traduction interprétative**, non d’un équivalent lexical parfait. Athénée explique que le poète aurait visé une **courroie blanche** à laquelle était suspendue une **fiole d’argent**, puis aurait désigné cette courroie par une expression rappelant la **scytale spartiate**.
+
+Le dispositif verbal n’est pas transparent. Le mot **λιθάργυρος** est particulièrement délicat ; les traductions anciennes parlent d’un récipient « fait de litharge », alors que l’explication d’Athénée rapproche l’objet d’une fiole argentée. Il ne faut pas convertir une tournure d’énigme en inventaire chimique sûr du métal de l’objet.
+
+### 10. Pourquoi la fiole n’est pas un simple détail décoratif
+
+Une **ὄλπη** est un petit récipient dans ce contexte ; le passage l’associe à une substance odorante ou à une préparation que l’on peut appliquer. La suspendre à un lien revient à la mettre en relation avec un mode de portage ou de rangement. Cette donnée matérielle rend la métaphore singulière dans un drame nommé d’après une divinité messagère.
+
+La fiole pourrait avoir été présente sur scène, mais nous ne le savons pas. Elle peut être mentionnée dans un récit descriptif, une comparaison ou une scène de service. Aucune image d’un vase antique similaire ne pourrait garantir le type exact d’accessoire du spectacle d’Achéos.
+
+### 11. La scytale : objet de communication et commentaire ancien
+
+La **σκυτάλη** est connue de la tradition grecque comme bâton de transmission des messages spartiates. **Athénée** explique l’allusion en faisant référence à **Apollonios de Rhodes**, qui aurait discuté d’une courroie blanche enroulée autour d’un bâton sur lequel étaient écrites les indications voulues. Les sources et les interprétations de ce mécanisme ont fait l’objet de discussions historiques : il ne faut pas confondre une **description littéraire du signe secret** et une preuve matérielle unique de tous les usages militaires de Sparte.
+
+**Stephanie West**, « Archilochus’ Message-stick », *Classical Quarterly* 38.1 (1988), p. 42–48, réexamine justement ces explications anciennes ; elle juge l’interprétation d’Athénée ingénieuse mais discutable. Ainsi, la métaphore chez Achéos est **encadrée par une lecture érudite**, et non entièrement résolue par elle.
+
+### 12. Le *kyrbis* et les supports écrits
+
+Le mot **κύρβις** appartient à un autre horizon des supports d’inscription, notamment des dispositifs publics de consignation des normes. Athénée rapproche l’expression d’une scytale en interprétant « kyrbis inscrit » comme une variation poétique sur un dispositif spartiate. La rencontre de deux images matérielles — un support de règle et un bâton de transmission — est peut-être une des sources d’obscurité.
+
+La leçon ne doit pas être transformée en affirmation selon laquelle le personnage jouait avec une véritable table de lois. Un texte métaphorique peut mentionner un objet sans le faire apparaître sur le plateau. L’identification précise exigerait une histoire des mots et de leurs emplois chez les lexicographes.
+
+### 13. La lettre secrète et la parole satyrique
+
+Le fragment se prête à une réflexion sur la communication : les mots semblent dire indirectement ce qu’ils veulent montrer, comme si le poète faisait éprouver au lecteur les difficultés du déchiffrement. En ce sens, la métaphore de l’écriture secrète devient un **commentaire réflexif possible sur son propre langage**. Mais cette auto-référence est une proposition moderne, pas une doctrine formulée par Achéos.
+
+Le paradoxe est fertile : une messagère divine est le titre de la pièce, tandis que le fragment documente un instrument d’écriture humaine difficile à interpréter. Il serait séduisant de soutenir que l’intrigue elle-même portait sur un message secret intercepté ; nous ne possédons **aucun texte** permettant de l’affirmer.
+
+### 14. Métaphore, périphrase ou énigme ?
+
+Athénée caractérise explicitement la diction d’Achéos par son caractère **αἰνιγματώδης**, énigmatique. Cette évaluation peut couvrir plusieurs techniques : périphrase savante, transfert de sens, image tirée d’une pratique locale, confusion volontaire entre des objets. L’éditeur doit examiner l’explication proposée par le compilateur au lieu de prétendre que le sens est directement évident pour nous.
+
+Il importe aussi de ne pas donner à l’énigme un statut magique. Une expression volontairement compliquée n’est pas automatiquement un texte d’initiation religieuse, un code réel ou une allusion à une cérémonie secrète. Dans une pièce satyrique, la difficulté de parole peut elle-même provoquer une distance comique.
+
+### 15. Un poète savant n’est pas nécessairement un poète impénétrable
+
+La réputation d’obscurité d’Achéos vient en partie d’un jugement tardif transmis par le compilateur qui choisit précisément un passage énigmatique. Il serait abusif d’extrapoler cet exemple à toute la représentation. Un fragment d’un autre genre peut être clair, un autre vers obscur, et la performance vivante apporter des gestes et des intonations.
+
+L’image de la « difficulté d’Achéos » ne doit pas remplacer l’enquête sur les contextes. On ne peut pas déduire du seul F 19 que le public athénien refusait ses pièces, ni que son art satyrique s’adressait exclusivement à une élite littéraire.
+
+### 16. Le rapport F 20 et les fragments F 21–23 : ce qui manque ici
+
+FragTrag.1 atteste la poursuite du dossier par **rep. 4 = ancien F 20 et appareil**, puis par les fragments **F 21, F 22 et F 23**. C’est une **preuve d’existence dans l’inventaire**, mais la présente recherche n’a pas consulté de transcription intégrale sûre avec variants et transmetteurs pour chacun de ces éléments. L’apparat pourrait contenir des termes utiles au sujet ; le résultat ne doit pas être deviné.
+
+La monographie ne donne donc pas de prétendus dialogues pour F 20–23, pas de traduction conjecturale, pas de métrique inventée et pas de « deuxième scène » créée de toutes pièces. Elle inscrit explicitement les unités restant à éditer de manière diplomatique lors d’un futur contrôle spécialisé.
+
+### 17. La déesse Iris avant Achéos : une généalogie de vitesse
+
+Dans ***Théogonie* 265–269**, **Hésiode** présente Iris comme fille de **Thaumas** et d’**Électre**, une fille d’Océan, et comme sœur des Harpies. Elle appartient à un monde de rapidité et de circulation, avec les vents et les êtres ailés. La généalogie ne constitue pas une étymologie historique de son nom ; elle inscrit une fonction divine dans une carte cosmique.
+
+Cette parenté constitue un contexte sûr sur Iris, mais ne fait entrer ni Thaumas ni les Harpies dans la pièce d’Achéos. Le titre seul ne prouve pas une scène de naissance, une poursuite aérienne ou un conflit familial. [Hésiode, *Théogonie* 265–269, Center for Hellenic Studies](https://chs.harvard.edu/primary-source/hesiod-theogony-sb/).
+
+### 18. Iris et le Styx : la messagère apporte une sanction
+
+Dans ***Théogonie* 780–806**, Hésiode assigne à Iris une mission particulière : lorsque les dieux sont divisés par une querelle et qu’un serment doit être contrôlé, elle est envoyée chercher l’eau du **Styx** dans une aiguière d’or. Le liquide devient le support d’une garantie terrible : le mensonge divin entraîne privation, exclusion et suspension de la participation au monde olympien.
+
+Ce récit montre que la messagère n’est pas seulement une servante de transmission neutre ; elle transporte des conditions de légitimité de la parole. Un rapprochement philosophique entre **message** et **vérité** est donc pertinent. Mais F 19 d’Achéos ne cite ni Styx ni serment divin ; on ne peut pas rétablir le contenu de son drame à partir de ce parallèle.
+
+### 19. Iris chez Homère : franchir les distances
+
+Dans les poèmes homériques, Iris transmet des ordres entre dieux, héros et combattants. Dans ***Iliade* XV, 144–219**, elle intervient auprès de **Poséidon** pour porter un ordre de Zeus, et rencontre la résistance d’un autre dieu qui possède sa propre autorité. L’épisode montre qu’un message divin peut être contesté par son destinataire : **transmettre n’est pas obtenir automatiquement l’obéissance**.
+
+Cette structure fournit un cadre comparatif particulièrement pertinent pour une pièce où Iris aurait pu rencontrer un groupe de satyres ; mais la scène homérique demeure un **texte extérieur**. Aucun discours de Zeus ou de Poséidon ne nous est transmis dans le drame d’Achéos.
+
+### 20. Iris et Priam : la mission consolatrice
+
+Dans ***Iliade* XXIV, 143–188**, Zeus envoie Iris encourager **Priam** à réclamer le corps d’Hector auprès d’Achille. Le message ne vise pas seulement à commander : il ouvre un chemin d’action possible dans une situation de deuil. La mission divine est médiation entre deux mondes ennemis, et l’accord final dépend de la réponse humaine.
+
+La messagère peut donc être associée à une fonction de **passage contrôlé vers l’autre**. C’est un thème de comparaison solide, à condition de ne pas importer Priam, Hector ou Achille dans la pièce satyrique perdue.
+
+### 21. Iris et Déméter : les limites du pouvoir de convaincre
+
+Dans l’***Hymne homérique à Déméter* 314–333**, Zeus dépêche Iris auprès de Déméter pour la convaincre de revenir parmi les dieux. La messagère transmet l’appel, mais la déesse affligée refuse d’en tenir compte ; d’autres interventions seront nécessaires. Là encore, l’ordre envoyé n’épuise pas la volonté du destinataire.
+
+Le parallèle souligne une question de théorie du pouvoir : **un message légitime échoue lorsque celui qui le reçoit refuse la relation qu’il présuppose**. Une lecture des satyres susceptibles de bloquer Iris doit rester hypothétique, mais la comparaison révèle une fonction possible du personnage d’Iris dans le drame grec.
+
+### 22. Iris et Hermès : une équivalence fonctionnelle imparfaite
+
+Iris et Hermès peuvent tous deux transmettre des messages. Cependant, leurs traditions poétiques et leurs cultes ne se confondent pas. Iris est fréquemment la messagère ailée des Olympiens dans l’épopée ; Hermès gouverne aussi des échanges, passages, seuils, routes, ruses et relations économiques. Leurs fonctions se recouvrent sans former une identité.
+
+Cette distinction compte lorsqu’on compare les **Oiseaux** ou les drames satyriques de Sophocle : une scène où Hermès franchit une frontière ne doit pas être automatiquement attribuée à Iris, même si les deux figures peuvent être envoyées par des dieux. Une comparaison mythologique bien conduite maintient les différences de rôle.
+
+### 23. Le nom d’Iris, la couleur et l’arc-en-ciel
+
+Dans la tradition grecque, **ἶρις** peut aussi désigner l’arc-en-ciel, ce phénomène coloré dont la mobilité suggère une liaison entre ciel et terre. Les rapprochements étymologiques proposés par les auteurs anciens et modernes sont pluriels ; il serait excessif d’en faire une preuve que toute apparition d’Iris évoquait les couleurs de l’atmosphère.
+
+Le fragment F 19 ne contient aucun arc-en-ciel. Une scénographie moderne utilisant des tissus colorés pour figurer la déesse relève de l’invention artistique ; elle n’est pas documentée comme costume du spectacle original. L’iconographie peut montrer des ailes et des déplacements, sans rendre toutes les couleurs d’une performance inconnue.
+
+### 24. Platon, *Théétète* 155d : Iris, Thaumas et l’étonnement
+
+Le passage philosophique le plus singulier pour cette étude est **Platon, *Théétète* 155d** : Socrate rapproche l’étonnement (**thaumazein**) de l’origine de la philosophie et rappelle la généalogie d’Iris comme fille de **Thaumas**. Le jeu interprétatif relie la naissance de la messagère au registre de la merveille. [Référence et traduction, dossier des sources antiques d’Iris](https://www.theoi.com/Pontios/Iris.html).
+
+Une lecture peut demander ce que devient l’émerveillement lorsque la langue satyrique présente une image énigmatique de fiole et de support écrit. Mais **Platon ne commente pas le fragment F 19** ; son allusion généalogique n’est pas la clef autorisée de l’intention d’Achéos. La comparaison montre surtout combien un nom divin peut recevoir des traitements intellectuels différents.
+
+### 25. L’arrivée d’Iris dans les *Oiseaux* d’Aristophane
+
+Dans ***Les Oiseaux* 1199–1261**, représentés en **414 av. J.-C.**, Iris traverse le domaine aérien revendiqué par **Pisthetairos** et les oiseaux. Le nouveau pouvoir lui reproche de passer sans autorisation, conteste son droit de circuler et refuse que les sacrifices destinés aux dieux atteignent librement l’Olympe. Le conflit porte sur **la souveraineté de l’espace de passage**.
+
+La scène appartient à une **comédie complète d’Aristophane**, et non à la pièce d’Achéos. Son intérêt réside dans une autre manière, historiquement attestée, de produire un face-à-face entre une messagère divine et des êtres qui prétendent détenir désormais l’autorité sur l’air. [Texte et traduction des *Oiseaux*](https://adfonteslibrary.org/work-aristophanes-birds).
+
+### 26. La rhétorique de la frontière : qui donne le droit de passer ?
+
+Le dialogue des *Oiseaux* met en place un acte de frontière. Iris vient avec l’autorité de Zeus ; Pisthetairos lui oppose la souveraineté nouvelle des oiseaux sur l’espace aérien. L’identité divine de la messagère ne suffit plus : la question devient **qui contrôle le trajet entre émetteur et destinataire**. Un pouvoir nouveau peut ainsi bloquer le message en s’emparant de son infrastructure.
+
+Le rapprochement avec une pièce satyrique d’Achéos consacrée à Iris est réel comme comparaison de **forme conflictuelle**. Mais nous ne savons pas si l’Iris d’Achéos était porteuse d’un ordre de Zeus, ni si les satyres contrôlaient un territoire. La différence entre source conservée et hypothèse doit être formulée à chaque étape.
+
+### 27. Les menaces sexuelles dans la comédie : ne pas les romantiser
+
+Dans ***Les Oiseaux* 1253–1260**, Pisthetairos menace Iris au moyen d’un langage sexuel agressif. Il ne s’agit pas simplement d’une conversation galante : l’insulte participe à l’humiliation d’une messagère qui a perdu sa position d’autorité dans un espace contesté. Une analyse moderne doit rendre visible la violence verbale et le déséquilibre de la situation sans les célébrer.
+
+Cette scène ne prouve pas que le drame d’Achéos comportait une menace identique. **E. W. Scharffenberger** a proposé le rapprochement du traitement « satyrique » d’Iris et d’Aristophane ; l’analyse éclaire la réception possible d’un **motif théâtral**, non une source directe assurée de la comédie.
+
+### 28. La comparaison d’Aristophane est-elle une preuve d’emprunt ?
+
+La chronologie générale rend une influence possible : le drame d’Achéos est placé dans la seconde moitié du Ve siècle, et les *Oiseaux* datent de 414. Mais la **date précise d’Iris satyrique n’est pas connue**. Un même motif pouvait circuler dans l’iconographie et dans plusieurs œuvres théâtrales avant Aristophane ; une filiation unique ne peut être établie.
+
+L’existence d’un titre commun ou d’une situation similaire ne suffit pas pour démontrer une parodie spécifique. Il faudrait des ressemblances verbales, des témoins antiques identifiant une allusion ou des relations chronologiques plus fermes. En leur absence, la comparaison reste typologique.
+
+### 29. L’article d’E. W. Scharffenberger : une hypothèse circonscrite
+
+Dans **« Peisetaerus’ “Satyric” Treatment of Iris: Aristophanes *Birds* 1253–6 »**, *Journal of Hellenic Studies* **115 (1995), p. 172–173**, **E. W. Scharffenberger** étudie le traitement agressif et théâtral d’Iris dans *Les Oiseaux*. Il rappelle l’existence du drame satyrique d’Achéos et du riche corpus de vases représentant des affrontements entre Iris et des satyres. [Article, DOI 10.2307/631657](https://www.cambridge.org/core/journals/journal-of-hellenic-studies/article/abs/peisetaerus-satyric-treatment-of-iris-aristophanes-birds12536/87F68FD825BEC7288C6B5411E090DA94).
+
+Le titre de l’article indique sa thèse comparative, mais pas la découverte d’un fragment inédit. L’essentiel est de distinguer le texte d’Aristophane, qui nous donne une interaction complète, et celui d’Achéos, qui demeure largement inaccessible.
+
+### 30. Les vases : des sources autonomes, pas des illustrations de pièce
+
+Les peintures de vases attiques montrent à diverses époques une figure ailée, fréquemment identifiée à Iris, se trouvant au milieu de satyres ou confrontée à eux. Certains personnages semblent la saisir ou l’empêcher de passer ; d’autres images donnent des indices de conflit autour d’une offrande. Leur étude appartient d’abord à l’histoire de l’art et des usages des objets.
+
+Une image de vase peut précéder une pièce, lui être contemporaine sans la représenter, ou conserver un motif partagé. **Le vase ne livre ni le texte, ni l’ordre des scènes, ni le nom des acteurs du théâtre.** Les légendes de MYTHOS doivent distinguer l’identification iconographique et la reconstruction dramatique.
+
+### 31. Une coupe à yeux du Cleveland Museum of Art
+
+Le **Cleveland Museum of Art**, inv. **1926.514**, conserve une **coupe attique à figures noires**, datée vers **520–510 av. J.-C.**, intitulée **« Black-Figure Eye Cup: Iris and Satyrs (A, B); Gorgoneion (I) »**. À l’extérieur, une femme ailée, **probablement Iris selon le musée**, apparaît entre des satyres, avec des yeux géants ; le médaillon intérieur présente un **gorgonéion**. Le diamètre est de **21,3 cm**. [Notice institutionnelle et photographie](https://www.clevelandart.org/art/1926.514).
+
+L’identification de la femme ailée est **probable et non certaine** dans la notice du musée. Cette réserve doit être conservée. La coupe est **antérieure à la carrière d’Achéos** et ne saurait illustrer sa scène précise. Les données et images de l’objet sont disponibles dans le programme Open Access de Cleveland, avec les conditions indiquées par le musée.
+
+### 32. Le statut de la coupe à yeux : masque et spectateur
+
+La forme d’une coupe à yeux peut produire un effet particulier lorsqu’on la lève pour boire : les grands yeux peints semblent masquer le visage du convive, tandis que les figures extérieures participent au monde du repas. L’objet met ainsi en relation **vue, identité, métamorphose et consommation**. Le gorgonéion intérieur possède aussi une possible valeur apotropaïque.
+
+Cette interprétation porte sur **l’usage figuratif d’un vase**, pas sur la scénographie d’Achéos. Elle témoigne néanmoins d’une culture visuelle où satyres, dieu ou déesse ailée et jeu des identités peuvent cohabiter très tôt, indépendamment des textes qui nous restent.
+
+### 33. British Museum E65 : l’affaire des satyres et des déesses
+
+Une coupe attribuée au **Peintre de Brygos**, traditionnellement repérée comme **British Museum E65**, datée vers **490–480 av. J.-C.**, présente selon la littérature et les anciens catalogues une scène de satyres saisissant **Iris**, et une autre où **Héra** est menacée par des satyres, tandis qu’**Hermès** et **Héraclès** interviennent. [Discussion de l’objet dans Scharffenberger, note 2](https://www.cambridge.org/core/journals/journal-of-hellenic-studies/article/abs/peisetaerus-satyric-treatment-of-iris-aristophanes-birds12536/87F68FD825BEC7288C6B5411E090DA94).
+
+La désignation **E65** est un identifiant de catalogue historique ; avant publication d’une photographie, l’inventaire institutionnel actuel, la datation, la provenance et la licence devront être vérifiés. La coupe est antérieure à Achéos ; l’interprétation selon laquelle elle évoque un drame satyrique antérieur de **Pratinas** est **une hypothèse**, pas une identification attestée de spectacle.
+
+### 34. Héra dans les images : une autorité absente du fragment F 19
+
+Héra apparaît dans certaines images du cycle des satyres et d’Iris. Elle est susceptible de recevoir des attributs de souveraineté, tandis qu’Iris, messagère des Olympiens, peut être l’intermédiaire d’un conflit de pouvoir. Mais la seule citation littérale d’Achéos que nous avons vérifiée, **F 19**, ne nomme pas Héra. Il serait donc impossible de dire que « Héra envoie Iris dans la scène conservée ».
+
+La présence d’Héra dans les vases peut expliquer pourquoi des historiens ont exploré ce scénario. Elle n’efface pas la différence entre un **mythe figuré**, une **hypothèse de pièce antérieure** et un **fragment verbal attesté d’Achéos**.
+
+### 35. Erika Simon et la théorie des offrandes volées
+
+**Erika Simon**, dans **« Satyr-Plays on Vases in the Time of Aeschylus »**, contribution à *The Eye of Greece* (1982), p. 123–148, a proposé de lire certaines images comme allusions à une intrigue où **Héra** aurait tenté de perturber le culte de **Dionysos** en envoyant Iris dérober une part sacrificielle ; les satyres auraient cherché à reprendre l’offrande. **Javier Campos Daroca**, « Gods amongst satyrs » (2016), p. 47–48, rapporte explicitement la nature conjecturale de cette reconstruction.
+
+L’intérêt de cette hypothèse est de fournir une motivation non purement sexuelle à la confrontation : il pourrait s’agir d’une dispute sur le rite et sur la part destinée à un dieu. Mais **aucune source conservée d’Achéos n’atteste la mission d’Héra, le vol, la restitution ou une scène d’autel**.
+
+### 36. Deux lectures iconographiques du même geste
+
+Lorsque des satyres saisissent une figure féminine ailée, l’image peut être interprétée comme poursuite érotique, agression, interception d’une voleuse ou affrontement rituel. Les détails de l’objet tenu par Iris, des gestes des satyres et de la présence d’autres dieux doivent être considérés **vase par vase**. La solution d’un dossier ne doit pas être imposée à toutes les images du groupe.
+
+La littérature rappelle qu’Erika Simon a minimisé, dans certains cas, l’idée d’une intention érotique pour privilégier la récupération d’une offrande. L’alternative n’est pourtant pas nécessairement exclusive : le satyre peut être représenté comme un personnage menaçant dans un conflit rituel. Le commentaire doit éviter aussi bien la **sexualisation automatique** que l’effacement des violences figurées.
+
+### 37. Le groupe de Berlin et de Tarquinia : identifications documentaires
+
+La littérature iconographique cite notamment un vase de **Berlin, Staatliche Museen, F 2591**, daté vers **460 av. J.-C.**, où une offrande participerait à la scène, et un objet de **Tarquinia, Museo Nazionale, RC 1122**, vers **450 av. J.-C.**, où Iris semble accomplir un geste oratoire vers un satyre. Ces références apparaissent dans les notes de Scharffenberger et les inventaires du **LIMC** (*Lexicon Iconographicum Mythologiae Classicae*).
+
+Le présent dossier **ne revendique pas de consultation directe de photographies institutionnelles de ces deux œuvres**. Les références servent d’orientation bibliographique, non de légendes prêtes à être publiées sur le site. Avant d’ajouter les images, il faudra confirmer leur inventaire actuel, les attributions picturales et les conditions de réutilisation.
+
+### 38. Le regard de Javier Campos Daroca : des dieux au milieu des satyres
+
+Dans **« Gods amongst satyrs »**, *Studia Philologica Valentina* **18 (2016), p. 41–50**, **Javier Campos Daroca** souligne que le drame satyrique peut présenter une population divine plus diverse et plus active que celle des tragédies ordinaires : dieux olympiens, divinités périphériques et êtres de frontière. Iris et Héphaïstos fournissent précisément deux titres d’Achéos utiles à cet argument. [Numéro de revue, article p. 41–50](https://www.uv.es/SPhV/18/studia18.pdf).
+
+L’analyse ne résout pas la fable d’Iris. Elle explique pourquoi le genre pouvait attirer des figures qui circulent entre hiérarchies divines et espaces marginaux. La messagère peut devenir protagoniste ou interlocutrice d’êtres qui ne correspondent pas aux personnages attendus d’une tragédie héroïque.
+
+### 39. Le rôle du chœur de satyres : absence d’une distribution assurée
+
+Parce que l’œuvre est satyrique, l’existence d’un univers choral de satyres est structurellement très probable. Cela ne permet pas de savoir si les satyres arrêtaient Iris, protégeaient Dionysos, rivalisaient avec Hermès ou se contentaient de commenter une action. Les fragments contrôlés ne donnent aucune **distribution de parole** entre Iris et un chœur.
+
+Une reconstitution peut être formulée comme **scénario de recherche**, mais ne doit pas produire une parodos, un stasimon ou un exodos prétendument retrouvés. Le danger est renforcé par l’attrait des images : on voit des satyres autour d’une femme ailée, puis on invente une chanson chorale correspondant exactement à ce tableau.
+
+### 40. La question de la parole : quand le message est mis en échec
+
+Iris est une médiatrice divine. Dans l’épopée, son arrivée signifie qu’une parole d’autorité va atteindre un destinataire. Dans les scènes iconographiques et dans la comédie d’Aristophane, une figure comparable peut être **arrêtée, interrogée ou menacée**. Le passage d’une transmission fluide à une circulation entravée est un motif intellectuellement fécond.
+
+Cette réflexion peut être formulée comme la relation entre **ordre**, **canal de transmission** et **acceptation**. La légitimité d’un message n’est pas identique à sa capacité d’entrer dans un territoire. Mais il serait abusif de prétendre que l’Iris d’Achéos tenait un discours sur la liberté de communication : nous n’avons pas ce discours.
+
+### 41. Héra, Dionysos et la concurrence entre cultes
+
+Le scénario d’Erika Simon met en tension une divinité olympienne prestigieuse et le culte de Dionysos, dont les satyres sont les compagnons traditionnels. Le vol d’une offrande y deviendrait une manière de déstabiliser un ordre rituel. Si cette interprétation était fondée, le conflit pourrait concerner le droit de recevoir des honneurs divins et d’organiser la distribution des parts.
+
+Mais **ce cadre dépend d’une lecture des peintures**, non du seul fragment transmis par Athénée. Il ne peut donc être annoncé comme l’argument de la pièce. L’analyse comparée du pouvoir religieux doit conserver ce conditionnel et éviter de transformer une conjecture séduisante en vérité archéologique.
+
+### 42. Autel, offrande et violence : une anthropologie sous condition
+
+Dans la Grèce ancienne, l’autel et les offrandes sont des lieux et actes de relation entre communautés et dieux. Leur interruption pourrait être grave, mais les images de satyres peuvent aussi produire un effet ludique ou burlesque. La gravité du geste varie selon les traditions et le type de spectacle. La présence d’un objet ressemblant à un quartier de viande exige une lecture iconographique précise et contextualisée.
+
+Nous ne savons pas si l’œuvre d’Achéos montrait une cérémonie complète, un vol ou un sacrifice animal. Aucun manuel de rite grec ne doit être utilisé pour lui ajouter des objets, formules ou acteurs. La mythologie comparée apporte des questions sur la **part légitime** et la **transgression**, non une didascalie.
+
+### 43. La femme ailée comme cible : précautions sur le genre
+
+Les scènes de poursuite dans l’art ancien et les menaces d’Aristophane peuvent être examinées comme représentations de rapports de force entre personnages masculins et féminins. Une messagère divine peut disposer d’une autorité liée à ses fonctions, puis se trouver physiquement exposée à ceux qui contrôlent un espace. La violence satyrique éventuelle a une valeur critique, qu’il serait simpliste de réduire à une plaisanterie « innocente ».
+
+Il faut éviter l’autre excès : attribuer à Achéos un programme moral dénonçant la violence des satyres. Nous ne connaissons pas la tonalité de sa pièce. L’analyse s’appuie ici sur des **images et une comédie conservée**, et pose les questions qu’elles invitent à examiner.
+
+### 44. Les images de satyres et leurs codes
+
+Dans l’art attique, les satyres peuvent exhiber des attitudes corporelles expansives, de la danse, de la peur, des poursuites ou des comportements sexuels agressifs. Ces codes visuels servent au jeu des identités, au vin, au spectacle et à la transformation des normes. Ils ne représentent pas nécessairement des actions réellement accomplies dans des rites historiques.
+
+L’étude du vase de Cleveland permet de montrer comment un spectateur ou convive rencontre une déesse ailée au milieu de satyres. La coupe elle-même participe à une performance sociale de consommation. Cela ne fait pas d’elle un accessoire de théâtre ni le témoin d’un spectacle précis.
+
+### 45. Le problème de l’iconographie antérieure : peut-on remonter à Pratinas ?
+
+Les images de la fin du VIe et du début du Ve siècle sont trop anciennes pour dépendre du drame d’Achéos. Certaines interprétations les mettent en rapport avec des spectacles satyriques plus anciens, notamment de **Pratinas**, contemporain d’Eschyle. Une telle hypothèse demeure difficile à démontrer : aucun texte de Pratinas ne livre une scène d’Iris qui expliquerait avec certitude ces peintures.
+
+La situation impose une pluralité de possibilités : les peintres peuvent suivre une légende autonome, évoquer des fêtes, reprendre des conventions théâtrales plus anciennes ou combiner ces répertoires. L’idée d’un spectacle « à l’origine de toute la série » ne doit pas être présentée sans arguments indépendants.
+
+### 46. Ce que signifie être messagère dans un monde divin
+
+L’autorité d’Iris n’est pas exactement celle du dieu qui commande. Elle tire sa force du fait qu’elle transporte une parole qui doit être reconnue comme émanant d’un autre. La frontière entre message authentique et message contesté devient donc cruciale. Le fait de porter une parole peut exposer l’intermédiaire à la colère de ceux qui la refusent.
+
+Hésiode et Homère donnent des exemples variés de cette fonction. Une lecture de la pièce perdue peut s’interroger sur le **statut de l’intermédiaire**, mais elle ne peut fixer un message particulier, un destinataire satyrique ou une sanction divine. La fonction du personnage n’est pas le texte de sa pièce.
+
+### 47. Le détour de la scytale : le langage comme frontière
+
+La comparaison de l’objet suspendu à une scytale spartiate devient plus suggestive lorsqu’on la rapproche du titre Iris. Une messagère divine apporte des mots, tandis qu’une scytale sert dans la tradition à transmettre des signes que seuls certains peuvent interpréter. Dans les deux cas se pose la question de **qui a le droit et la capacité de lire le message**.
+
+Cependant, il n’existe **aucune preuve** que cette analogie fût l’axe conscient de toute la pièce. Elle est une lecture moderne construite sur un rapprochement entre le titre et le fragment qu’Athénée conserve. Le commentaire doit dire « peut évoquer » et non « Achéos a conçu une allégorie de la communication ».
+
+### 48. Platon et la vérité d’une parole
+
+Le **Théétète 155d** rapproche Iris de Thaumas dans un jeu sur l’étonnement, tandis que la ***République* II, 377e–378b** interroge la valeur morale des récits sur les dieux. Ces deux passages montrent que les figures mythologiques peuvent entrer dans des opérations philosophiques différentes : célébration de la curiosité, puis critique des images divines à transmettre.
+
+La pièce d’Achéos ne se laisse pourtant pas déduire de ces usages platoniciens. La philosophie n’apporte aucun fragment nouveau. Elle aide à préciser les enjeux contemporains de notre question : **que faisons-nous quand nous interprétons la parole d’une déesse à partir de traces incomplètes ?**
+
+### 49. Platon et la rhétorique des images
+
+Dans l’***Ion* 533d–534e**, Platon interroge la parole inspirée du poète et la relation entre le locuteur et la puissance divine. La comparaison avec une pièce portant le nom d’une messagère peut inciter à penser la chaîne de transmission entre divinité, acteur, poète et public. Mais le modèle philosophique n’est pas une théorie de la mise en scène d’Achéos.
+
+L’effet d’énigme perçu par Athénée est surtout un fait de réception. Il ne prouve pas une inspiration divine, un oracle ou un rite initiatique. Une interprétation raisonnable évite de recouvrir un art du langage d’un vocabulaire religieux qu’aucun témoignage ne garantit.
+
+### 50. Aristote : le fragment ne donne pas le *muthos*
+
+Dans la ***Poétique* 1450a–1451b**, Aristote souligne que le drame repose sur une **composition d’actions**. Le titre d’Iris et une citation énigmatique, même accompagnés d’images très suggestives, ne fournissent pas cette composition. Pour restituer l’intrigue, il faudrait connaître les rapports causaux, les décisions et les changements d’état des personnages dans la pièce.
+
+En l’absence de tels indices, une suite de scènes — Héra commande, Iris descend, les satyres volent, Dionysos intervient, la déesse s’échappe — serait une **création moderne**. Elle pourrait servir à un atelier théâtral, mais pas à une édition universitaire.
+
+### 51. Hegel : reconnaissance et conflit de légitimités
+
+Dans les ***Leçons sur l’esthétique***, Hegel permet de réfléchir à des conflits où différentes puissances font valoir une légitimité. À titre heuristique, une messagère des Olympiens arrêtée par des satyres pourrait mettre en scène l’écart entre un pouvoir qui se prétend universel et un groupe qui revendique ses propres pratiques. La question de la **reconnaissance d’une autorité** est alors centrale.
+
+Cette lecture ne démontre pas que le drame d’Achéos présentait un conflit éthique au sens hégélien. Les satyres des images et l’Iris d’Aristophane ne sont pas des scènes transmises de cette œuvre. La philosophie éclaire un **champ de possibilités**, sans devenir le scénario antique.
+
+### 52. Hegel : la médiation et la violence de l’interruption
+
+L’intermédiaire ne crée pas forcément la loi qu’il transmet ; il la fait circuler. Une lecture hégélienne prudente peut s’intéresser à ce qui arrive lorsque la médiation est bloquée et que ceux qui s’y opposent agissent comme s’ils détenaient le droit de la remplacer. Dans **Les Oiseaux**, cette situation devient explicite, et la contestation du passage d’Iris est liée à la souveraineté sur l’air.
+
+Achéos ne nous livre pas de situation comparable avec un texte suffisant. L’application philosophique a donc une **portée contrastive** : elle clarifie pourquoi le motif iconographique ou comique est intéressant, mais non ce que le dramaturge a nécessairement pensé.
+
+### 53. Nietzsche : le satyre, la nature et le théâtre
+
+Dans ***La Naissance de la tragédie*, §§ 7–8**, Nietzsche accorde un rôle fondamental au **chœur satyrique**. Le satyre n’est pas seulement un individu qui fait rire : il sert à penser un rapport à une nature et à une expérience dionysiaque qui mettent en crise les identités établies. Cette perspective éclaire la possibilité théâtrale d’un affrontement entre un personnage olympien et des êtres situés en marge.
+
+Mais le chœur d’*Iris* n’est pas conservé, pas plus que sa musique. L’iconographie peut représenter une pluralité de satyres sans restituer une parodos. Les catégories de Nietzsche sont philosophiques, non des testimonia sur le spectacle.
+
+### 54. Nietzsche : la fête est-elle une transgression légitime ?
+
+Le dionysiaque nietzschéen ne doit pas être utilisé pour justifier automatiquement toute violence attribuée aux satyres. Les images d’interception d’une déesse et les menaces d’Aristophane impliquent des rapports de domination qui réclament une analyse explicite. Un commentaire peut reconnaître la logique festive du genre sans célébrer la coercition.
+
+L’esthétique du débordement et la responsabilité morale ne sont pas des catégories interchangeables. L’œuvre d’Achéos nous est trop mal connue pour attribuer au dramaturge une opinion univoque ; le lecteur moderne doit distinguer **l’effet de représentation**, **la convention du genre** et **l’évaluation critique actuelle**.
+
+### 55. Le problème de la frontière entre divin et satyrique
+
+Le genre satyrique permet à des personnages prestigieux d’entrer dans un univers où les attentes de convenance sont différentes. Les satyres peuvent ignorer, railler ou contester des formes de respect auxquelles les dieux sont habitués. Les images de déesses entourées de satyres exposent ce franchissement de niveaux symboliques.
+
+Mais une confrontation visuelle n’est pas forcément un blasphème. Selon le contexte, elle peut mettre à l’épreuve une autorité, rire d’une situation d’incompréhension, représenter une résistance ou valoriser une protection. Aucun résultat doctrinal ne peut être attribué à la pièce perdue.
+
+### 56. Les violences figurées : l’importance des alternatives
+
+La théorie d’un vol sacrificiel, les codes de poursuite satyrique et la scène d’Aristophane proposent trois manières de comprendre des gestes d’interception. Elles peuvent coexister dans l’histoire du motif sans désigner une même action. Une iconographie savante ne doit pas décider d’avance que l’image « prouve » un enlèvement sexuel ou, à l’inverse, un simple conflit d’autel.
+
+Les légendes doivent donc adopter un langage gradué : **« déesse ailée probablement Iris »**, **« satyres l’entourant ou la saisissant »**, **« lecture rituelle proposée par certains chercheurs »**. La qualification exacte dépend de chaque œuvre figurée et des arguments de la littérature spécialisée.
+
+### 57. Comparaisons mythologiques prudentes : messagers et seuils
+
+D’autres traditions anciennes connaissent des messagers divins, des interprètes de la volonté des dieux et des figures traversant les mondes. En Égypte, des puissances peuvent communiquer des décrets ou garantir une médiation ; en Mésopotamie, des messagers parcourent l’assemblée des divinités. Mais la seule similarité fonctionnelle ne prouve pas une origine commune ni un emprunt direct à la tradition grecque.
+
+Pour comparer sérieusement Iris à d’autres acteurs religieux, il faudrait établir les textes, les périodes, les langues et les contacts. Le présent dossier privilégie les comparaisons **internes à la littérature grecque**, où les moyens de contrôler les fonctions sont mieux assurés.
+
+### 58. La messagère et la politique : une analogie sans anachronisme
+
+L’image d’un message intercepté évoque aujourd’hui la censure, la souveraineté territoriale ou la maîtrise des canaux de communication. Une telle analogie peut être utile pour analyser l’interdiction de passage d’Iris dans la comédie d’Aristophane. Elle deviendrait anachronique si l’on transformait le drame satyrique perdu en réflexion sur l’État moderne ou la liberté de la presse.
+
+La politique d’une cité ancienne et l’autorité d’un dieu olympien ne se laissent pas projeter sans nuance dans nos institutions. L’important est de décrire les **relations de pouvoir et de reconnaissance** sans leur attribuer des doctrines étrangères aux sources.
+
+### 59. Les objets de l’énigme : matérialité et scène
+
+La fiole, l’onguent, la courroie et la scytale appartiennent à une culture matérielle qui peut être explorée par des vases, inscriptions et descriptions techniques. Pourtant, un petit objet précisément nommé n’est pas automatiquement un accessoire effectivement employé au théâtre. La phrase peut fonctionner comme comparaison entre choses non présentes.
+
+La recherche archéologique devrait distinguer un objet grec attesté, son emploi quotidien, sa représentation artistique et son occurrence littéraire. L’intérêt de F 19 tient en grande partie à cette **superposition de niveaux**. Une reconstitution scénique fidèle n’est pas possible sans témoignage supplémentaire.
+
+### 60. Les images et le théâtre : trois erreurs à éviter
+
+Première erreur : choisir une peinture antérieure à Achéos et écrire « scène tirée de sa pièce ». Deuxième erreur : interpréter toute figure ailée entre des satyres comme Iris sans examen de ses attributs et de son contexte. Troisième erreur : prendre un geste figé de la peinture pour un épisode dont on pourrait recomposer l’avant et l’après.
+
+La bonne méthode documente **l’objet, sa datation, sa provenance, ses attributions, les sources de son identification et les droits de la photographie**, puis explique le degré de relation avec le titre littéraire. C’est une approche de conservation, non une restitution romanesque.
+
+### 61. Dossier iconographique I : Cleveland 1926.514
+
+**Objet :** coupe à yeux attique à figures noires, vers **520–510 av. J.-C.**, **Cleveland Museum of Art, 1926.514**, diamètre **21,3 cm**. Les deux faces montrent une figure féminine ailée, probablement Iris, entre des satyres ; un gorgonéion occupe le médaillon intérieur. **Source institutionnelle :** [Cleveland Museum of Art](https://www.clevelandart.org/art/1926.514). **Droits :** le musée annonce que l’image et les données de cet objet relèvent de son programme **Open Access**, mais les métadonnées accompagnant une reproduction précise doivent être conservées.
+
+**Légende recommandée :** « Déesse ailée probablement Iris entourée de satyres, coupe attique à figures noires, vers 520–510 av. J.-C., Cleveland Museum of Art, 1926.514. Motif iconographique antérieur au drame d’Achéos ; ne représente pas une scène historiquement identifiée de la pièce. »
+
+### 62. Dossier iconographique II : British Museum E65
+
+**Objet :** coupe attique à figures rouges attribuée au **Peintre de Brygos**, vers **490–480 av. J.-C.**, connue sous la cote historique **E65** du British Museum. La littérature décrit Iris saisie par des satyres sur une face et Héra menacée, défendue par Hermès et Héraclès, sur l’autre. **Référence bibliographique contrôlée :** [Scharffenberger, *Journal of Hellenic Studies* 115, 1995, note 2](https://www.cambridge.org/core/journals/journal-of-hellenic-studies/article/abs/peisetaerus-satyric-treatment-of-iris-aristophanes-birds12536/87F68FD825BEC7288C6B5411E090DA94).
+
+**Légende provisoire :** « Déesses et satyres : scènes de confrontation, coupe attribuée au Peintre de Brygos, vers 490–480 av. J.-C., ancienne cote BM E65. Identification et droits de reproduction à contrôler sur le catalogue actuel avant intégration d’une image. » **La proposition d’un lien avec un spectacle de Pratinas reste hypothétique.**
+
+### 63. Dossier iconographique III : Berlin F 2591
+
+**Objet mentionné dans la littérature :** vase de **Berlin, Staatliche Museen, F 2591**, daté approximativement vers **460 av. J.-C.**, avec une interprétation iconographique faisant intervenir une offrande dans la confrontation d’Iris et des satyres. [Discussion par Scharffenberger, note 3](https://www.cambridge.org/core/journals/journal-of-hellenic-studies/article/abs/peisetaerus-satyric-treatment-of-iris-aristophanes-birds12536/87F68FD825BEC7288C6B5411E090DA94).
+
+**Statut :** référence de recherche indirecte. Le présent volume **n’inclut pas de photographie** de cette œuvre, car son inventaire, ses droits et son état de conservation n’ont pas été contrôlés directement auprès de l’institution. La présence éventuelle d’une part sacrificielle nourrit une hypothèse d’Erika Simon, non une preuve d’une action d’Achéos.
+
+### 64. Dossier iconographique IV : Tarquinia RC 1122
+
+**Objet mentionné :** vase conservé ou historiquement documenté au **Museo Nazionale de Tarquinia**, inventaire **RC 1122**, daté vers **450 av. J.-C.** selon la discussion de Scharffenberger et du LIMC ; on y identifie une figure d’Iris accomplissant un geste oratoire en direction d’un satyre. [Référence publiée, note 2 et LIMC V.2, Iris I 117](https://www.cambridge.org/core/journals/journal-of-hellenic-studies/article/abs/peisetaerus-satyric-treatment-of-iris-aristophanes-birds12536/87F68FD825BEC7288C6B5411E090DA94).
+
+**Statut :** notice bibliographique sans insertion de reproduction. Le rapprochement avec un dialogue de drame satyrique serait possible mais non démontré. Les conditions de reproduction et le catalogue institutionnel actuel sont à vérifier avant intégration en ligne.
+
+### 65. Tableau critique de certitude documentaire
+
+| Proposition | Statut | Témoin ou limite |
+| --- | --- | --- |
+| Achéos a composé *Ἴρις Σατυρική* | Attesté | Athénée X, 451c–d ; FragTrag.1 |
+| La pièce est explicitement satyrique | Attesté | Désignation dans la source |
+| L’ancien F 19 est le nouveau fr. 20 | Vérifié | Concordance FragTrag.1 |
+| L’ancien F 20 est traité comme rep. 4 | Vérifié | Concordance avec appareil |
+| F 21–23 appartiennent au dossier | Vérifié comme références | Concordance FragTrag.1 |
+| La fiole et la métaphore de scytale sont dans F 19 | Attesté | Athénée X, 451c–d |
+| Les interlocuteurs de F 19 sont identifiés | Non établi | Pas de distribution conservée |
+| Héra envoie Iris voler un sacrifice dans la pièce | Non établi | Hypothèse iconographique d’Erika Simon |
+| Des satyres ont réellement intercepté Iris sur la scène d’Achéos | Non établi | Images indépendantes du texte |
+| La coupe de Cleveland montre probablement Iris | Identification prudente | Notice institutionnelle, inv. 1926.514 |
+| La coupe de Cleveland représente la pièce d’Achéos | Non ; chronologie incompatible avec une dépendance directe | Vase antérieur |
+| Les *Oiseaux* d’Aristophane montrent Iris empêchée de passer | Attesté | Aristophane 1199–1261 |
+| Aristophane imite exactement Achéos | Non établi | Filiation sans démonstration textuelle |
+| Platon a commenté l’Iris d’Achéos | Non attesté | Théétète 155d parle d’une autre question |
+| Hegel et Nietzsche restituent la scène | Faux | Interprétations modernes extérieures |
+
+### 66. Bibliographie primaire : pièces, passages et concordances
+
+1. **Achéos d’Érétrie**, *Ἴρις Σατυρική*, **TrGF I 20 F 19–23** ; **FragTrag.1, Achaeus I, titre 10, fr. 20, rep. 4, fr. 21–23** ; la correspondance **fr. 20 = ancien F 19** et **rep. 4 = ancien F 20** est essentielle. [FragTrag, concordance universitaire](https://fragtrag1.upatras.gr/exist/apps/fragtrag/indexc.html).
+2. **Athénée**, *Deipnosophistes* **X, 451c–d**, citation du fragment énigmatique de la fiole et explication de la scytale. [Édition grecque de Kaibel diffusée par Perseus](https://beta.perseus.tufts.edu/urn:cts:greekLit:tlg0008.tlg001.perseus-grc3:10/) ; [traduction en anglais sur LacusCurtius](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Athenaeus/10E%2A.html).
+3. **S. Douglas Olson** (éd.), *Athenaeus Naucratites, Deipnosophistae*, vol. V, *Testimonia et Indices*, Berlin/Boston, De Gruyter, **2022**, entrée **Achaeus TrGF 20 F 19 = Ath. 10.451c–d**. [Extrait d’index éditorial](https://api.pageplace.de/preview/DT0400.9783110567434_A43345337/preview-9783110567434_A43345337.pdf).
+4. **August Nauck** (éd.), *Tragicorum Graecorum Fragmenta*, 2e éd., Leipzig, Teubner, **1889**, **p. 751–752**, « Iris Saturoi » ; [catalogue Perseus](https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0309.tlg001.opp-grc1). Le titre de l’édition de Nauck et la forme de FragTrag doivent être reportés sans effacer la variation.
+5. **Hésiode**, *Théogonie* **265–269**, généalogie d’Iris ; **780–806**, mission de la déesse auprès du Styx et épreuve des serments divins. [Édition et traduction du CHS](https://chs.harvard.edu/primary-source/hesiod-theogony-sb/).
+6. **Homère**, *Iliade* **XV, 144–219** (Iris à Poséidon) et **XXIV, 143–188** (message à Priam) ; comparaisons sur l’autorité et la médiation.
+7. **Hymne homérique à Déméter**, **314–333**, tentative d’Iris pour rappeler Déméter auprès des dieux ; comparaison des limites de l’obéissance au message.
+8. **Aristophane**, *Les Oiseaux* **1199–1261**, Iris empêchée de traverser l’espace aérien de la nouvelle cité ; [texte et traduction](https://adfonteslibrary.org/work-aristophanes-birds).
+9. **Platon**, *Théétète* **155d**, Iris fille de Thaumas dans le raisonnement sur l’étonnement ; *République* **II, 377e–378b**, récits sur les dieux ; *Ion* **533d–534e**, parole inspirée.
+10. **Aristote**, *Poétique* **1450a–1451b**, distinction entre composition d’action et simple collection d’événements.
+11. **Diogène Laërce**, *Vies et doctrines des philosophes illustres* **II, 133**, témoignage rapporté sur l’appréciation des pièces satyriques d’Achéos.
+12. **Plutarque**, *Lysandre* **19**, description tardive de la scytale spartiate : comparaison pour l’interprétation du bâton et du message, non témoin de la pièce d’Achéos.
+
+### 67. Bibliographie secondaire vérifiée et hiérarchie des usages
+
+1. **Bruno Snell** (éd.), *Tragicorum Graecorum Fragmenta*, vol. I, *Didascaliae tragicae, Catalogi tragicorum et tragoediarum, Testimonia et fragmenta tragicorum minorum*, Göttingen, Vandenhoeck & Ruprecht, **1971**, et états éditoriaux ultérieurs. Référence des identifiants anciens d’Achéos.
+2. **Andreas P. Antonopoulos et collaborateurs**, *Greek Fragmentary Tragedians Online / FragTrag.1*, Patras University Press, projet numérique achevé en première phase en **2024**, [base universitaire](https://fragtrag1.upatras.gr/), [concordance Achaeus I](https://fragtrag1.upatras.gr/exist/apps/fragtrag/indexc.html), consultation du **6 novembre 2026**.
+3. **Andrew Brown**, « Achaeus (2), of Eretria, Athenian tragic poet », *Oxford Classical Dictionary*, publication en ligne **7 mars 2016**, DOI **10.1093/acrefore/9780199381135.013.25** ; [notice Oxford](https://academic.oup.com/edited-volume/61673/chapter-abstract/548063271).
+4. **Patrick O’Sullivan et Christopher Collard**, *Euripides: Cyclops and Major Fragments of Greek Satyric Drama*, Liverpool University Press, **2013**, chapitre **« Achaeus I »**, p. **426–439**, DOI du chapitre **10.2307/j.ctv1198t0v.20**. [Notice du chapitre sur JSTOR](https://www.jstor.org/stable/j.ctv1198t0v.20). Le présent dossier ne revendique pas de lecture intégrale de cet ouvrage sous accès restreint.
+5. **Dana F. Sutton**, *The Greek Satyr Play*, Meisenheim am Glan, Anton Hain, **1980**, notamment p. **69–72** pour le dossier d’Iris selon les références de Scharffenberger.
+6. **Ralf Krumeich, Nicolaus Pechstein et Bernd Seidensticker** (dir.), *Das griechische Satyrspiel*, Darmstadt, Wissenschaftliche Buchgesellschaft, **1999**, discussion iconographique d’Iris et des satyres, p. **59–60** et **526 et suivantes** selon Javier Campos Daroca. Les pages exactes des notices ne sont pas revendiquées comme relues dans l’original.
+7. **E. W. Scharffenberger**, « Peisetaerus’ ‘Satyric’ Treatment of Iris: Aristophanes *Birds* 1253–6 », *Journal of Hellenic Studies* **115 (1995), p. 172–173**, DOI **10.2307/631657**. [Notice, extrait et bibliographie](https://www.cambridge.org/core/journals/journal-of-hellenic-studies/article/abs/peisetaerus-satyric-treatment-of-iris-aristophanes-birds12536/87F68FD825BEC7288C6B5411E090DA94).
+8. **Javier Campos Daroca**, « Gods amongst satyrs », *Studia Philologica Valentina* **18 (2016), p. 41–50**, discussion d’Iris, des images et de la thèse d’Erika Simon aux p. **47–48**. [Numéro universitaire numérique](https://www.uv.es/SPhV/18/studia18.pdf). L’auteur insiste sur les limites de la reconstruction de l’intrigue.
+9. **Erika Simon**, « Satyr-Plays on Vases in the Time of Aeschylus », dans Donna Kurtz et Brian Sparkes (dir.), *The Eye of Greece: Studies in the Art of Athens*, Cambridge, **1982**, p. **123–148**. L’hypothèse de l’offrande volée est rapportée par Scharffenberger et Campos Daroca ; aucun accès direct intégral à ce chapitre n’est revendiqué.
+10. **Stephanie West**, « Archilochus’ Message-stick », *The Classical Quarterly* **38.1 (1988), p. 42–48**, DOI **10.1017/S0009838800031244**, sur la scytale et les difficultés de son interprétation à partir d’Athénée. [Notice Cambridge](https://www.cambridge.org/core/journals/classical-quarterly/article/abs/archilochus-messagestick/DE0C75891F159ED26B68B6674CE8D0E6).
+11. **Konstantina Vasilopoulou**, *The Study of Fragments of the Tragic Achaeus from Eretria (5th c. B.C.)*, mémoire, **Université de Patras, 2017**, [dépôt universitaire signalé par OpenArchives](https://www.openarchives.gr/aggregator-openarchives/edm/nemertes/000009-10889_11798). L’étude se présente comme une analyse commentée des fragments, sans que le texte grec d’Iris en ait été collationné directement ici.
+12. **Cleveland Museum of Art**, [coupe à yeux, inv. 1926.514](https://www.clevelandart.org/art/1926.514), vers 520–510 av. J.-C., identification prudente d’Iris et satyres ; photographie Open Access.
+13. **British Museum**, coupe anciennement **E65**, Peintre de Brygos, vers 490–480 av. J.-C. : document iconographique discuté dans Scharffenberger ; inventaire actuel et droits de photographie non confirmés dans cette étude.
+14. **LIMC**, entrée **« Iris I »**, volume V, Zurich et Munich, **1990**, p. **751–752** selon la notice de Scharffenberger ; références figuratives de Berlin F 2591 et Tarquinia RC 1122. Le présent dossier ne revendique pas la lecture directe de toutes les planches.
+15. **G. W. F. Hegel**, *Vorlesungen über die Ästhetik* (*Leçons sur l’esthétique*), réflexion sur conflit, reconnaissance et représentation ; **source philosophique moderne**, pas témoin de la pièce.
+16. **Friedrich Nietzsche**, *Die Geburt der Tragödie* (*La Naissance de la tragédie*), **1872**, §§ 7–8, étude philosophique du chœur satyrique ; aucune reconstitution textuelle d’Achéos n’en découle.
+
+### 68. Notice d’index et renvois internes recommandés
+
+**Achéos d’Érétrie, *Iris satyrique* (Ἴρις Σατυρική)** — drame satyrique perdu, **TrGF I, 20 F 19–23** ; **FragTrag.1, fr. 20, rep. 4, fr. 21–23**. Athénée, *Deipnosophistes* X, 451c–d, transmet une expression énigmatique comparant une fiole suspendue à un dispositif d’écriture spartiate. L’intrigue complète n’est pas connue. La déesse Iris, messagère olympienne, est associée dans l’iconographie archaïque et classique à des confrontations avec des satyres, mais leur lien avec le spectacle d’Achéos demeure hypothétique. L’étude compare ces images aux *Oiseaux* d’Aristophane et aux traditions d’Iris chez Hésiode et Homère, puis interroge la communication, l’autorité et la violence figurée.
+
+Les renvois recommandés sont : dossier *Héphaïstos satyrique* d’Achéos (autre titre de divinité), dossiers sur l’iconographie des satyres, *Les Oiseaux* d’Aristophane, *Théogonie* d’Hésiode, *Théétète* de Platon et études sur la mythologie des messagers. Ces renvois n’impliquent aucun nouveau volume ni aucune modification des études attribuées.
+
+### 69. Conditions de publication et de conservation du manuscrit
+
+La présente étude doit être déposée publiquement et intégralement sous **un UUID stable**, avec la collection **tragedies** et un slug inédit. Le titre porte les variables **CCLXXI** et **271**, exclusivement pour les mentions de sa numérotation éditoriale. Les références **TrGF I 20 F 19–23**, **Athénée X, 451c–d**, les dates, les pages et les inventaires muséaux sont des numéros historiques fixes et ne doivent pas être modifiés par le traitement.
+
+Une soumission enregistrée ne vaut pas attribution ni mise en ligne publique : seules la création du reçu, la présence du manuscrit numéroté, les index reconstruits et le contrôle HTTPS permettent de confirmer les étapes successives. Les études antérieures, les demandes en attente, les archives et WordPress doivent rester inchangés. Aucune planification horaire, aucun registre de numérotation, aucune publication WordPress et aucun brouillon privé ne sont concernés par ce dépôt.
+
+### Conclusion — Quand le message rencontre sa frontière
+
+L’Iris satyrique d’Achéos résiste à une restitution narrative. Le titre promet la présence d’une messagère divine ; le fragment littéral le plus clairement accessible offre une expression énigmatique sur une fiole d’onguent, une courroie et un support d’écriture spartiate. Les vases montrent des rencontres entre Iris et des satyres ; Aristophane donne une confrontation dramatique complète où la déesse se heurte à un pouvoir rival ; la philosophie moderne permet d’interroger le droit de communiquer, le statut de l’intermédiaire et la reconnaissance d’une autorité. **Ces documents ne constituent pas les actes perdus de la même pièce.**
+
+La méthode scientifique consiste ici à tenir simultanément plusieurs vérités limitées : il y eut un drame satyrique intitulé *Iris* ; un poète dont la diction fut jugée élégante et obscure produisit un passage remarquable ; des artistes et auteurs grecs représentèrent des tensions entre la messagère et des groupes qui pouvaient lui résister ; nous ignorons la composition dramatique d’Achéos. Les analyses de Platon, Hegel et Nietzsche enrichissent les questions, mais ne fournissent aucun vers supplémentaire.
+
+Une encyclopédie universitaire digne de ce nom ne corrige pas le silence des sources par la fiction. Elle rend ce silence intelligible, documenté et fécond. **La présente monographie est achevée comme dossier critique original ; son numéro canonique reste entièrement subordonné à la transaction GitHub de publication.**

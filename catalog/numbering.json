@@ -912,6 +912,18 @@
         "url": "/chapitres/encyclopedie/chapitre-454-athena-chalkioikos-poliouchos-sparte-gitiadas-sanctuaire-bronze-asile/",
         "title": "Chapitre 454 — Athéna Chalkioikos et Poliouchos à Sparte : la demeure de bronze, Gitiadas, l'asile sacré et les limites du pouvoir",
         "source": "chapitres/encyclopedie/chapitre-454-athena-chalkioikos-poliouchos-sparte-gitiadas-sanctuaire-bronze-asile.md"
+      },
+      {
+        "number": 455,
+        "url": "/chapitres/encyclopedie/chapitre-455-artemis-leukophryene-magnesie-meandre-epiphanie-isiteria-asylie-hermogenes/",
+        "title": "Chapitre 455 — Artémis Leukophryéné à Magnésie du Méandre : épiphanie, oracles, fête panhellénique, inviolabilité et architecture d'Hermogénès",
+        "source": "chapitres/encyclopedie/chapitre-455-artemis-leukophryene-magnesie-meandre-epiphanie-isiteria-asylie-hermogenes.md"
+      },
+      {
+        "number": 456,
+        "url": "/chapitres/encyclopedie/chapitre-456-demeter-malophoros-selinonte-gaggera-fruits-offrandes-propylon-epigraphie/",
+        "title": "Chapitre 456 — Déméter Malophoros à Sélinonte : fruits, jeunes filles, territoires et puissances chthoniennes dans un sanctuaire de Sicile grecque",
+        "source": "chapitres/encyclopedie/chapitre-456-demeter-malophoros-selinonte-gaggera-fruits-offrandes-propylon-epigraphie.md"
       }
     ],
     "tragedies": [
@@ -1962,6 +1974,24 @@
         "url": "/chapitres/tragedies/volume-cclxix-acheos-eretrie-hephaistos-satyrique-athenee-641d-trgf-20-f17-retour-dionysos/",
         "title": "Volume CCLXIX (269) — Achéos d’Érétrie, Héphaïstos satyrique (Ἥφαιστος Σατυρικός) — L'artisan exclu, la table des dieux et le retour par Dionysos",
         "source": "chapitres/tragedies/volume-cclxix-acheos-eretrie-hephaistos-satyrique-athenee-641d-trgf-20-f17-retour-dionysos.md"
+      },
+      {
+        "number": 270,
+        "url": "/chapitres/tragedies/volume-cclxx-acheos-eretrie-iris-satyrique-scytale-enigme-satyres-athenee-451/",
+        "title": "Volume CCLXX (270) — Achéos d’Érétrie — Iris satyrique (Ἶρις Σατυρική) : la messagère des dieux face au langage obscur, aux satyres et aux frontières du sacrifice",
+        "source": "chapitres/tragedies/volume-cclxx-acheos-eretrie-iris-satyrique-scytale-enigme-satyres-athenee-451.md"
+      },
+      {
+        "number": 271,
+        "url": "/chapitres/tragedies/volume-cclxxi-acheos-eretrie-iris-satyrique-scytale-athenee-satyres-messagere/",
+        "title": "Volume CCLXXI (271) — Achéos d’Érétrie, Iris satyrique (Ἴρις Σατυρική) — La messagère interceptée : parole divine, énigme spartiate, rituels contestés et frontières du pouvoir",
+        "source": "chapitres/tragedies/volume-cclxxi-acheos-eretrie-iris-satyrique-scytale-athenee-satyres-messagere.md"
+      },
+      {
+        "number": 272,
+        "url": "/chapitres/tragedies/volume-cclxxii-acheos-eretrie-iris-satyrique-messagere-satyres-sacrifices-frontieres-trgf19-23/",
+        "title": "Volume CCLXXII (272) — Achéos d’Érétrie, Iris satyrique (Ἴρις Σατυρική) — La messagère interceptée : frontières de l’Olympe, sacrifices détournés et résistance des satyres",
+        "source": "chapitres/tragedies/volume-cclxxii-acheos-eretrie-iris-satyrique-messagere-satyres-sacrifices-frontieres-trgf19-23.md"
       }
     ],
     "comparatif": [
@@ -3461,6 +3491,24 @@
         "url": "/chapitres/comparatif/volume-ccci-mc-098-traverser-autre-monde-chinvat-charon-gjallarbru-sirat-vaitarani/",
         "title": "Volume CCCI (301) — MC-098 — Traverser l'autre monde : pont de Činvat, barques des morts, fleuves grecs, Gjallarbrú et ṣirāṭ",
         "source": "chapitres/comparatif/volume-ccci-mc-098-traverser-autre-monde-chinvat-charon-gjallarbru-sirat-vaitarani.md"
+      },
+      {
+        "number": 302,
+        "url": "/chapitres/comparatif/volume-cccii-acharniens-telephe-haillons-euripide-rhetorique-paratragedie-jugement-425/",
+        "title": "Volume CCCII (302) — Quand la tragédie prête sa voix au citoyen : Télèphe, les haillons d’Euripide et le droit de défendre l’adversaire dans les Acharniens d’Aristophane (425 av. n. è.)",
+        "source": "chapitres/comparatif/volume-cccii-acharniens-telephe-haillons-euripide-rhetorique-paratragedie-jugement-425.md"
+      },
+      {
+        "number": 303,
+        "url": "/chapitres/comparatif/volume-ccciii-mc-101-noeuds-sacre-tyet-maqlu-katadesmoi-varuna-dialis-shimenawa/",
+        "title": "Volume CCCIII (303) — MC-101 — Nouer et dénouer le sacré : le nœud d’Isis, les ligatures mésopotamiennes, les katádesmoi grecs, les liens de Varuṇa, le flamine de Jupiter et la corde d’Amaterasu",
+        "source": "chapitres/comparatif/volume-ccciii-mc-101-noeuds-sacre-tyet-maqlu-katadesmoi-varuna-dialis-shimenawa.md"
+      },
+      {
+        "number": 304,
+        "url": "/chapitres/comparatif/volume-ccciv-cavaliers-trieres-assemblee-navale-hyperbolos-carthage-sanctuaires-424/",
+        "title": "Volume CCCIV (304) — Les trières peuvent-elles refuser la guerre ? Assemblée des navires féminisés, Hyperbolos, Carthage et asile religieux dans les Cavaliers d’Aristophane (424 av. n. è.)",
+        "source": "chapitres/comparatif/volume-ccciv-cavaliers-trieres-assemblee-navale-hyperbolos-carthage-sanctuaires-424.md"
       }
     ],
     "comedies": [
@@ -4207,6 +4255,18 @@
         "url": "/chapitres/comedies/volume-124-myllos-poete-comique-proverbe-cratinos-sourde-origines/",
         "title": "Volume CXXIV (124) — Myllos (Μύλλος) : l'un des premiers comiques d'Athènes ? Le poète, le personnage et le proverbe de celui qui entend tout",
         "source": "chapitres/comedies/volume-124-myllos-poete-comique-proverbe-cratinos-sourde-origines.md"
+      },
+      {
+        "number": 125,
+        "url": "/chapitres/comedies/volume-125-chionides-heroes-garde-natte-agnos-jeunesse-heroisation/",
+        "title": "Volume CXXV (125) — Chionidès (Χιωνίδης), Hērōes (Ἥρωες) : la natte des sentinelles, l'agnos du ravin et les politiques de l'héroïsation",
+        "source": "chapitres/comedies/volume-125-chionides-heroes-garde-natte-agnos-jeunesse-heroisation.md"
+      },
+      {
+        "number": 126,
+        "url": "/chapitres/comedies/volume-126-myrtilos-erotes-titanopanes-hermippos-heroon-xynaulia/",
+        "title": "Volume CXXVI (126) — Myrtilos (Μυρτίλος) : Érotes, Titanopanes et les cinq fragments — amour, démons, héros, musique et politique des corps dans l'ancienne comédie",
+        "source": "chapitres/comedies/volume-126-myrtilos-erotes-titanopanes-hermippos-heroon-xynaulia.md"
       }
     ],
     "origines-du-sacre": [
@@ -5883,6 +5943,30 @@
         "url": "/chapitres/origines-du-sacre/729-aksum-steles-royales-hypogees-mahrem-ezana-christianisation/",
         "title": "Chapitre 729 — Aksum : stèles géantes, tombeaux hypogés, architecture de pierre et métamorphoses de la souveraineté sacrée",
         "source": "chapitres/origines-du-sacre/729-aksum-steles-royales-hypogees-mahrem-ezana-christianisation.md"
+      },
+      {
+        "number": 730,
+        "url": "/chapitres/origines-du-sacre/730-tuto-fela-chelba-tutitti-cimetieres-superposes-steles-ethiopie/",
+        "title": "Chapitre 730 — Tuto Fela et Chelba-Tutitti : cimetières superposés, stèles phalliques et anthropomorphes, transmission des morts en pays Gedeo",
+        "source": "chapitres/origines-du-sacre/730-tuto-fela-chelba-tutitti-cimetieres-superposes-steles-ethiopie.md"
+      },
+      {
+        "number": 731,
+        "url": "/chapitres/origines-du-sacre/731-konso-waka-daga-hela-terrasses-forets-memoire-generations/",
+        "title": "Chapitre 731 — Pays konso : waka, pierres de génération, terrasses et forêts funéraires — transmettre la mémoire et instituer les vivants",
+        "source": "chapitres/origines-du-sacre/731-konso-waka-daga-hela-terrasses-forets-memoire-generations.md"
+      },
+      {
+        "number": 732,
+        "url": "/chapitres/origines-du-sacre/732-wanar-sine-ngayene-cercles-megalithiques-sepultures-commemoration-senegambie/",
+        "title": "Chapitre 732 — Wanar et Sine Ngayène : cercles mégalithiques, morts déposés, pierres frontales et temporalité des rites en Sénégambie",
+        "source": "chapitres/origines-du-sacre/732-wanar-sine-ngayene-cercles-megalithiques-sepultures-commemoration-senegambie.md"
+      },
+      {
+        "number": 733,
+        "url": "/chapitres/origines-du-sacre/733-dhar-tichitt-oualata-mauritanie-villages-pierre-tumuli-memoire-ancetres/",
+        "title": "Chapitre 733 — Dhar Tichitt et Dhar Oualata : villages de pierre, tumuli funéraires, mil perlé et fabrication de la mémoire collective dans la Mauritanie de l'Holocène récent",
+        "source": "chapitres/origines-du-sacre/733-dhar-tichitt-oualata-mauritanie-villages-pierre-tumuli-memoire-ancetres.md"
       }
     ]
   },

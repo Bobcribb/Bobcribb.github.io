@@ -1,0 +1,371 @@
+# MYTHOS — Les Origines du sacré — Chapitre 732
+
+## Wanar et Sine Ngayène : cercles mégalithiques, morts déposés, pierres frontales et temporalité des rites en Sénégambie
+
+*Volume DCCXXXII — Monographie universitaire originale, 6 novembre 2026. Protohistoire ouest-africaine, archéologie du bâti mégalithique, anthropothanatologie, datation radiocarbone et modèles bayésiens, mémoire sociale, philosophie comparative des rites et conservation du patrimoine.*
+
+### Résumé : du tombeau aux gestes de commémoration
+
+Les grands ensembles mégalithiques du Sénégal et de la Gambie sont souvent présentés comme un paysage mystérieux de cercles de pierres dressées. Les fouilles récentes de Wanar, conduites sous la responsabilité notamment de Hamady Bocoum et Luc Laporte, ont profondément renouvelé cette image. Elles montrent que la succession archéologique peut comprendre une première mise au tombeau, l'élévation d'une architecture de pierres et de terre, puis la déposition de céramiques et de pierres frontales, parfois après la dégradation du monument. Le site fait ainsi apparaître une temporalité funéraire plurielle et socialement organisée.
+
+La date générale longtemps attribuée au mégalithisme sénégambien couvrait plus d'un millénaire et demi. Mais les nouvelles datations de Wanar, modélisées avec des contraintes stratigraphiques, suggèrent que la construction de plusieurs des cercles du secteur a pu se concentrer sur seulement deux à trois siècles, principalement autour des XIe-XIIIe siècles de notre ère. La durée de l'occupation de la région et la durée de fabrication de chaque type de monument ne sont pas équivalentes.
+
+La monographie défend une méthode : distinguer les faits de fouille — fosses, ossements, pierres, couches et dépôts — des interprétations anthropologiques comme « maison des morts » ou « autel des ancêtres ». Ces expressions, proposées par les chercheurs pour décrire des parcours rituels plausibles, sont riches, mais ne sont pas les paroles enregistrées des bâtisseurs.
+
+### 1. Sénégambie : une région de monuments, pas une civilisation indifférenciée
+
+Le mégalithisme sénégambien comprend des milliers de pierres dressées en ensembles circonscrits dans les territoires actuels du Sénégal et de la Gambie. Les concentrations se déploient notamment autour des cours d'eau qui alimentent le fleuve Gambie. Le dossier UNESCO, inscrit au patrimoine mondial en 2006, concerne quatre groupes : Sine Ngayène et Wanar au Sénégal, Wassu et Kerbatch en Gambie.
+
+L'UNESCO présente les quatre groupes inscrits comme un échantillon représentatif de plus de mille cercles et tumuli connexes, répartis dans une bande régionale d'environ 100 km de large et 350 km de longueur. L'aire inscrite elle-même comprend 93 cercles et monuments associés. Ces chiffres relèvent de niveaux d'inventaire différents ; « quatre groupes » ne signifie ni quatre monuments ni quatre périodes culturelles.
+
+Le mot « Sénégambie » est une dénomination géographique et historique récente. Il ne peut être transformé en nom d'un peuple unique qui aurait fabriqué tous les cercles sur plusieurs siècles.
+
+### 2. Les quatre groupes du patrimoine mondial
+
+Sine Ngayène est le plus grand complexe de la zone inscrite, avec 52 cercles et plus d'un millier de pierres travaillées selon l'inventaire patrimonial. Wanar présente 21 monuments mégalithiques dont un double cercle. Wassu et Kerbatch possèdent des groupes moins nombreux et des monuments avec pierres frontales, dont certaines sont très hautes ou bifides.
+
+Les différences d'effectifs, de formes et de fouilles sont importantes. Les interprétations établies pour un monument de Wanar ne peuvent pas être généralisées mécaniquement à chacun des quelque mille cercles connus dans la région. Les techniques de construction et les séquences d'usage pourraient varier.
+
+Les sites partagent certaines conventions — pierres dressées en cercle, façades, formes taillées dans la latérite — mais la similarité architecturale ne démontre pas une institution religieuse centralisée ni une identité ethnique de tous les constructeurs.
+
+### 3. Wanar : de la prospection à la fouille stratigraphique
+
+La mission de Wanar a débuté par un sondage en 2005, puis par des campagnes récurrentes entre 2008 et 2017, dans un partenariat franco-sénégalais. La direction scientifique associait Hamady Bocoum pour la partie sénégalaise et Luc Laporte pour la partie française. Les études détaillées d'architecture, des fosses et du mobilier ont été publiées et diffusées notamment par le programme SEPSEN et le portail archéologique du ministère français de la Culture.
+
+Les opérations ont cherché à distinguer les structures visibles des niveaux enfouis. Un cercle actuel de monolithes n'est pas nécessairement le contour d'une enceinte qui fut toujours ouverte à l'air. Certaines fouilles montrent que les pierres étaient intégrées à des murs, des élévations et des aménagements qui ont été détruits ou érodés.
+
+Le site est donc un laboratoire exceptionnel pour une archéologie du bâti funéraire : l'ensemble peut être compris non seulement par les formes extérieures, mais par la succession des étapes qui l'ont produit.
+
+### 4. Les monuments XIV et I : lire une construction, pas un dessin
+
+Le programme a particulièrement étudié plusieurs monuments, dont I et XIV. Les relevés photographiques et photogrammétriques montrent des alignements de blocs, des traces de murs intercalaires et des architectures qui ne peuvent être restituées depuis une photographie de ruine seule.
+
+Le monument XIV a fait l'objet de plans détaillés et d'une analyse des états de construction. Les pierres dressées pouvaient définir le pourtour d'une structure édifiée à l'image d'une maison, dont certaines parties périssables ou non conservées ont disparu. Cette représentation est une restitution architecturale argumentée ; elle n'implique pas que les morts occupaient réellement une maison identique à celle des vivants.
+
+Le monument I a livré un contexte sépulcral et du mobilier permettant d'étudier l'articulation entre fosse et construction. Les identifiants sont nécessaires : la juxtaposition de photographies de plusieurs monuments pourrait créer une fausse scène cérémonielle unique.
+
+### 5. La première opération : mettre le corps en terre
+
+Sous plusieurs monuments, les fouilles révèlent des fosses sépulcrales creusées avant ou au début de l'édification mégalithique. La disposition des restes humains et leur rapport aux sédiments permettent de distinguer dépôts primaires, déplacements ultérieurs et reprises de sépulture.
+
+Une sépulture primaire suppose que le corps a été déposé alors que ses connexions anatomiques étaient intactes ; un dépôt secondaire indique que des ossements déjà transformés ont été réunis ou déplacés. La distinction requiert une analyse ostéologique et taphonomique, non une impression de désordre photographique.
+
+Le terme « première opération » appartient à la séquence stratigraphique reconstruite. Il ne doit pas être traduit par une cérémonie nommée dont les textes seraient perdus. Les chercheurs peuvent identifier la préparation d'une fosse ; ils ne peuvent pas connaître les paroles prononcées.
+
+### 6. Dépôts secondaires : quels gestes sur les ossements ?
+
+La mission de Wanar décrit des dépôts secondaires d'ossements sous certains monuments, dont le monument XX. Le déplacement des os après décomposition peut résulter de gestes funéraires délibérés, de réouvertures ou de transformations de la tombe. Le tri des éléments anatomiques, les surfaces des os et le contexte de dépôt sont essentiels pour interpréter ces opérations.
+
+Il serait excessif d'inférer que tous les morts recevaient une cérémonie secondaire identique. Chaque monument et chaque assemblage devraient être comparés par méthode de fouille, conservation, nombre minimal d'individus et relations stratigraphiques.
+
+Des pratiques funéraires en plusieurs temps sont ethnographiquement documentées dans diverses régions du monde, mais l'analogie ne garantit ni l'identité des intentions ni la même conception de l'au-delà. La distribution des os est l'indice, la doctrine religieuse demeure hypothétique.
+
+### 7. Le second temps : élever un monument au-dessus des morts
+
+Les chercheurs ont montré que les cercles actuels correspondent parfois à la ruine d'une construction en élévation, réalisée après la mise au tombeau. Les blocs de latérite taillés pouvaient former des assises, des parements et une architecture organisée. La construction mobilisait outils, transport de pierres et coopération.
+
+L'appellation « maison des morts », employée par le programme SEPSEN, met en évidence la dimension bâtie et la comparaison avec certaines constructions funéraires ethnographiquement connues en Afrique de l'Ouest. Cette hypothèse est plus précise que la simple idée d'un cercle rituel à ciel ouvert, mais elle ne signifie pas qu'une croyance identique a été directement transmise jusqu'à aujourd'hui.
+
+La mise en relation entre architecture et décès est archéologiquement fondée par la stratigraphie ; le rôle symbolique exact de l'élévation reste à préciser au cas par cas.
+
+### 8. Le troisième temps : gestes accomplis devant la façade
+
+Des dépôts de céramiques sont documentés devant certains monuments, principalement dans le secteur oriental de leur façade. Ils peuvent intervenir après la construction et parfois après la ruine d'une partie de la structure. Cela signifie que les vivants pouvaient revenir agir auprès d'un monument déjà ancien.
+
+Les auteurs interprètent de tels dépôts comme des gestes commémoratifs, sans posséder le texte d'une liturgie. Le fait décisif est leur position, leur relation au sol ancien et leur succession. Une céramique isolée sans contexte n'offre pas le même degré de preuve qu'un groupe de récipients déposé sur une surface d'usage reconnue.
+
+La chronologie des gestes est un acquis majeur : l'inhumation, la monumentalisation et la commémoration peuvent être trois épisodes distincts, et non un événement indifférencié.
+
+### 9. Vases carénés et fonds percés : le problème du geste volontaire
+
+Certains vases découverts à Wanar possèdent un fond percé et sont disposés l'ouverture contre le sol, dans une position qui a été comparée à celle de couvercles de grandes urnes funéraires. La morphologie du vase et sa position de dépôt peuvent suggérer une fonction spécifique, au-delà d'un simple récipient domestique tombé à terre.
+
+Le fond percé peut traduire une transformation postérieure à la fabrication ; il faut examiner s'il résulte d'une opération intentionnelle, d'un dommage ancien ou d'une cassure moderne. La documentation de Wanar permet de discuter des perforations associées aux dépôts, mais l'explication par libation, offrande ou neutralisation du récipient demeure à vérifier.
+
+Pour parler de « vase sacrificiel », il faudrait démontrer le contenu, sa destination et le geste accompli. Les formes de récipients, à elles seules, ne restituent aucune prière.
+
+### 10. Les pierres frontales : une façade orientée
+
+Nombre de cercles comprennent une ou plusieurs pierres dressées à l'extérieur, souvent à l'est, parfois organisées en alignement. Ce dispositif est suffisamment régulier pour constituer une classe architecturale. Il invite à examiner la mise en scène d'une approche du monument et les éventuels itinéraires de circulation.
+
+Mais « orientation orientale » ne signifie pas automatiquement culte solaire, équinoxe ou rite de lever du soleil. Une démonstration astronomique exigerait des mesures d'azimut, des contrôles de relief, une prise en compte du calendrier et une répétition statistiquement significative.
+
+Les pierres frontales ont pu servir de marqueurs additionnels à différentes étapes de commémoration. Le programme de fouille propose cette interprétation comme possible pour certains cas, sans la transformer en règlement liturgique universel.
+
+### 11. Les pierres bifides ou « en lyre »
+
+Wanar est célèbre pour ses pierres à sommet divisé en deux branches, parfois reliées par une entretoise, dites bifides ou « en lyre ». Le mot « lyre » est une analogie de forme moderne, non le nom d'un instrument musical utilisé dans la cérémonie. Le secteur de Wanar est particulièrement riche en telles pierres et possède une carrière identifiée pour cette catégorie.
+
+Leur fabrication exige un savoir-faire de taille : conserver deux branches dans un bloc de latérite et parfois ménager un espace interne accroît les risques de fracture. Le coût technique peut signaler le désir de produire un marqueur visuellement distinctif, mais n'identifie pas son sens.
+
+Une pierre bifide n'est pas une « porte des âmes » attestée. Les comparaisons avec les deux cornes bovines, les paires d'ancêtres ou les portes cosmiques constituent des hypothèses à évaluer, et non des traductions de la forme.
+
+### 12. Carrières : de la roche locale au monument collectif
+
+Le matériau principal des cercles est une latérite façonnée en colonnes de section ronde ou polygonale. Les carrières, les déchets de taille et les traces d'extraction sont importants pour reconstituer les opérations précédant l'érection des pierres. L'UNESCO souligne l'habileté technique des tailleurs ; certains blocs peuvent atteindre plusieurs tonnes.
+
+Le travail n'est pas seulement une dépense énergétique : il implique organisation, apprentissage, contrôle des outils et itinéraires de transport. Mais le nombre d'ouvriers et leur statut ne peuvent être déduits sans modèle explicite de coûts et de ressources disponibles.
+
+Les carrières de Wanar et de Sine Ngayène offrent un moyen de différencier les monuments par chaîne opératoire. Le trajet d'une pierre peut être étudié sans supposer un itinéraire processionnel ni une géographie religieuse perdue.
+
+### 13. Sine Ngayène : nombre, taille et carrière
+
+Le groupe de Sine Ngayène compte 52 cercles, dont un double, d'après le dossier patrimonial UNESCO ; l'inventaire mentionne 1 102 pierres façonnées. La carrière située à quelque distance a livré les traces d'extraction de nombreux monolithes. Ces chiffres ne constituent pas une liste de personnes enterrées.
+
+Les recherches d'Augustin F. C. Holl et Hamady Bocoum ont abordé les ensembles funéraires, la séquence des dépôts et les différences entre sépultures individuelles et plurielles. Leurs hypothèses historiques ont parfois proposé des chronologies plus anciennes que celles mises en avant par d'autres programmes ; elles doivent être évaluées en fonction de la nature des échantillons et des contextes.
+
+Une nécropole plus vaste n'est pas forcément la « capitale religieuse » de la région. La densité des monuments exige des modèles de population, d'organisation et de durée, sans lesquels la grandeur ne suffit pas.
+
+### 14. Un chien décapité : l'exception ne démontre pas un rite général
+
+Le commentaire de Roger Joussaume sur l'ouvrage de Holl et Bocoum mentionne notamment le tumulus de Mbolop-Tobe étudié auparavant par Alain Gallay et ses collaborateurs, dans lequel furent signalés trois individus humains et un chien décapité. Cette association est un fait archéologique rapporté, mais son interprétation rituelle demande une analyse spécifique des contextes et lésions.
+
+Elle ne doit pas être généralisée à tous les cercles sénégambiens. Un animal inhumé dans une tombe peut représenter un compagnon, un dépôt ou une victime, et la distinction dépend de preuves taphonomiques. On ne peut reconstituer un sacrifice animal régional sur la base d'un seul exemple spectaculaire.
+
+De même, les débats sur des morts d'accompagnement dans certaines sépultures doivent être distingués des preuves de décès simultané ou de mise à mort volontaire. Les travaux anciens expriment des hypothèses qui demandent des vérifications.
+
+### 15. Un calendrier révisé : période d'occupation contre période de construction
+
+L'UNESCO présente une amplitude générale de IIIe siècle av. n. è. à XVIe siècle de notre ère pour la tradition mégalithique de la zone inscrite. Cette plage a une utilité patrimoniale, mais elle ne signifie pas que chaque cercle fut bâti pendant tout cet intervalle.
+
+Les recherches dirigées par Luc Laporte et ses collaborateurs (2022) ont ajouté plus de vingt-huit nouvelles mesures pour Wanar aux séries antérieures et appliqué des modèles bayésiens tenant compte des relations stratigraphiques. Elles suggèrent un peuplement régional de longue durée, tandis que l'édification des cercles aurait pu se concentrer dans une période de seulement deux à trois siècles.
+
+Leurs résultats soulignent des décès directement datés aux XIe-XIIe siècles pour certains individus. L'écart entre la durée longue d'occupation et le temps plus bref de construction est central pour interpréter les pratiques : un monument peut devenir lieu de commémoration bien après une sépulture initiale.
+
+### 16. Radiocarbone sur dents humaines : ce qui est daté
+
+Les deux dates radiocarbone sur dents humaines rapportées dans l'étude de 2022 concernent directement des individus inhumés ; leur intérêt est de se rapprocher de l'événement de décès. Cela ne signifie pas que les pierres aient nécessairement été dressées la même année.
+
+Une couche de construction recouvrant une tombe peut fournir un terminus post quem ; un dépôt associé à un sol d'usage postérieur peut fournir une autre limite. Le modèle bayésien assemble ces relations, mais ses résultats dépendent des contraintes choisies et des mesures disponibles.
+
+Il faut afficher les intervalles calibrés et les hypothèses de phase, plutôt que le seul millésime central. Une chronologie ne doit pas être présentée comme une suite d'anniversaires exacts des rites.
+
+### 17. Une nécropole dont l'architecture évolue
+
+La documentation de Wanar distingue des monuments à pierres étroites et allongées et d'autres à pierres plus courtes et trapues. Des fouilles proposent une évolution relative entre différents types au cours des XIe-XIIIe siècles. La séquence n'est pas nécessairement linéaire pour chaque site ni uniforme sur toute la Sénégambie.
+
+La diversité peut résulter des traditions d'atelier, de la disponibilité des matériaux, du changement de fonction ou de la chronologie. Les formes aujourd'hui ruinées masquent parfois des différences initiales d'élévation et de parement.
+
+Une histoire du sacré attentive à cette évolution ne peut pas postuler un rite inchangé sur plusieurs siècles. La forme monumentale elle-même fait partie d'une pratique historique susceptible d'être modifiée.
+
+### 18. Les morts devenus ancêtres : une hypothèse forte mais située
+
+Le programme SEPSEN propose de rapprocher les trois temps de Wanar de funérailles traditionnelles documentées dans certaines sociétés ouest-africaines : mise au tombeau, grandes funérailles, puis accès au statut d'ancêtre reconnu. Cette interprétation offre un modèle cohérent pour expliquer la distribution des couches et les dépôts tardifs.
+
+Cependant aucun texte médiéval produit par les bâtisseurs de Wanar ne décrit ce passage. L'expression « accession au statut d'ancêtre » est donc une proposition anthropologique argumentée à partir de comparaisons, non une inscription ancienne. Les récits de funérailles ethnographiques montrent des possibilités de relations sociales, et non une preuve de continuité identitaire automatique.
+
+La force du modèle est qu'il explique pourquoi certains actes se prolongent après l'enterrement. Sa limite est qu'il ne permet pas de nommer les ancêtres ni les destinataires des dépôts.
+
+### 19. Qui est commémoré ? Le problème de la sélection
+
+Les monuments mégalithiques demandent une certaine mobilisation de travail. Il est possible qu'ils aient concerné une partie sélectionnée des morts ou des communautés plutôt que chaque décès. Mais l'absence d'un monument ne prouve pas l'absence de funérailles, et la présence de plusieurs individus dans une fosse ne démontre pas un rang social précis.
+
+Une enquête démographique doit comparer âge, sexe biologique lorsque déterminable, traumatismes, dépôt primaire ou secondaire et mobilier. La conservation des ossements et la portion fouillée créent des biais importants.
+
+Les hypothèses d'élite funéraire doivent être étayées par un ensemble de preuves ; il serait abusif d'inventer un roi à chaque double cercle ou une caste sacerdotale à chaque alignement frontal.
+
+### 20. Les céramiques des vivants et les dépôts de commémoration
+
+Les vases trouvés en position frontale à Wanar ne sont pas les mêmes catégories de témoins que les céramiques d'habitat ou les fragments remaniés dans le comblement d'une fosse. Leur disposition et leur relation au monument sont fondamentales. Une pièce située dans un niveau ancien, puis recouverte par une structure, ne témoigne pas de la même action qu'un vase placé contre une façade ruinée.
+
+Certaines céramiques pourraient avoir contenu des matières offertes ; faute d'analyse de résidus et de traces certaines, l'hypothèse ne doit pas se transformer en liste d'aliments sacrificiels. Le vocabulaire « dépôt » est souvent plus exact que « offrande » lorsque le destinataire et la fonction demeurent indéterminés.
+
+La séquence de Wanar donne une occasion de réfléchir à des gestes répétés sans inventer leur formule liturgique.
+
+### 21. Une orientation orientale sans astronomie démontrée
+
+Les pierres frontales sont fréquemment situées à l'est des cercles. Une orientation récurrente peut signaler une convention spatiale socialement importante. Elle ne se confond pas avec une fonction astronomique précise, encore moins avec un culte de Rê ou une religion solaire universelle.
+
+Pour faire l'hypothèse d'alignements calendaires, il faudrait mesurer les axes de chaque monument, leur horizon réel, leur état d'origine et comparer la distribution aux orientations possibles par hasard ou contraintes du terrain.
+
+La prudence est nécessaire puisque des ruines ont pu basculer ; la position actuelle de certains blocs n'est pas la position exacte d'érection. Des raisons de circulation ou de visibilité d'une façade sont au moins aussi pertinentes que des spéculations cosmologiques.
+
+### 22. Le rapport au fleuve Gambie : réseau ou frontière du sacré ?
+
+La distribution régionale des mégalithes s'inscrit dans le bassin de la Gambie et ses affluents, mais chaque groupe ne se trouve pas au même endroit ni dans le même environnement. Les voies d'eau ont pu faciliter les déplacements, les échanges et les migrations au fil des siècles.
+
+La proximité d'un fleuve ne prouve pas qu'il était conçu comme rivière de l'au-delà. Les questions de transport de pierre, d'approvisionnement et de relations entre communautés peuvent être abordées par l'archéologie économique et la géographie.
+
+Une histoire des paysages sacrés pourrait rechercher d'éventuels itinéraires entre les ensembles funéraires ; elle ne peut les baptiser routes de pèlerinage sans témoins spécifiques de fréquentation cultuelle.
+
+### 23. Le statut des corps : anthropothanatologie et éthique
+
+Les fouilles de Wanar documentent parfois des ossements déposés une première fois ou remaniés. L'étude anthropothanatologique permet de reconstruire la chronologie de décomposition, les relations articulaires et les gestes de déplacement des restes. La photographie d'une tombe ne doit pas conduire à une interprétation affective ou sacrificialiste immédiate.
+
+Les personnes enterrées ne sont pas des objets d'exposition. L'image de leurs ossements doit être accompagnée de sa provenance, de son statut scientifique et des autorisations appropriées. Les programmes associant chercheurs sénégalais et étrangers constituent le cadre pertinent pour la gestion du corpus.
+
+L'analyse doit séparer le nombre minimum d'individus de la représentation esthétique d'une scène funéraire, et signaler les perturbations postérieures.
+
+### 24. Des centaines de pierres : effort collectif et calcul des inégalités
+
+Extraire, tailler et dresser les colonnes exige du travail coordonné. On peut estimer masse et transport des blocs, mais les calculs ont besoin de connaître le matériau, les outils, les distances et la géométrie originelle. Une seule estimation spectaculaire de tonnes déplacées ne prouve ni autorité royale ni contrainte servile.
+
+Les différences de taille entre cercles peuvent dépendre de l'évolution chronologique, de la variété des défunts ou des ressources disponibles. Les programmes récents de télédétection dans d'autres régions d'Afrique montrent comment calculer des distributions de volumes funéraires, mais ces méthodes ne produisent pas à elles seules une histoire institutionnelle.
+
+L'investissement collectif dans la commémoration est un thème sociologique légitime à condition de ne pas surestimer la précision des mesures.
+
+### 25. Une maison pour les morts ?
+
+L'interprétation architecturale de certains cercles comme ruines de « maisons des morts » s'appuie sur les fondations, la structure de l'élévation et les phases d'effondrement. Elle permet d'expliquer pourquoi la forme actuelle en cercle n'était peut-être pas destinée à être vue isolément, sans parois entre les piliers.
+
+La comparaison avec des architectures funéraires ouest-africaines plus récentes peut aider à comprendre le dispositif. Mais une ressemblance formelle n'atteste ni les mêmes matériaux, ni les mêmes règles de parenté, ni l'identité d'un culte.
+
+Il faut ainsi conserver simultanément l'argument architectural fort — une construction ruinée — et l'incertitude sur son sens. Le terme « maison » est un modèle descriptif, non un texte de fondation.
+
+### 26. La commémoration après la ruine : un phénomène historique majeur
+
+Des céramiques ont été placées près des monuments alors qu'une partie de l'architecture était déjà dégradée. Ce fait montre que la fonction mémorielle possible d'un lieu peut survivre à sa première forme bâtie, et que la ruine n'est pas nécessairement synonyme d'oubli.
+
+Mais une céramique tardive peut aussi provenir d'une utilisation indépendante du secteur. Il faut établir son lien stratigraphique avec la façade, sa disposition et sa relation aux niveaux antérieurs pour conclure à un acte commémoratif.
+
+La succession des gestes constitue l'une des meilleures preuves d'une attention renouvelée portée au site. Les destinataires précis de cette attention restent inconnus.
+
+### 27. Le statut du « sacré » : pratique observée, mot reconstruit
+
+Un cimetière monumental engage souvent des préoccupations qui dépassent l'utilité matérielle immédiate ; la mise à part de certains espaces et la répétition des dépôts peuvent constituer des indices de conduite ritualisée. Mais le mot « sacré », hérité de catégories philosophiques et religieuses modernes, ne figure pas dans une inscription des bâtisseurs de Wanar.
+
+On peut donc parler d'un paysage funéraire et éventuellement rituel à partir des contextes archéologiques, sans postuler une théologie nommée. Ce langage gradué correspond mieux à la documentation que l'attribution d'un panthéon, d'une caste de prêtres ou d'une fête solaire.
+
+Le sacré devient un problème de recherche portant sur la différenciation des gestes et des lieux, non un qualificatif qui dispenserait de preuve.
+
+### 28. Durkheim : construire l'assemblée sans la voir
+
+Émile Durkheim a souligné la relation entre rites, mémoire sociale et représentations collectives. Les opérations d'extraction, de transport, de mise en place des pierres et de dépôts ultérieurs supposent des activités humainement coordonnées. Elles permettent d'interroger les modalités du collectif autour de la mort.
+
+Mais une construction exigeant plusieurs personnes ne prouve pas un rassemblement liturgique spécifique ni une « effervescence » simultanée. Les épisodes peuvent avoir été séparés dans le temps ; certains travaux pouvaient être accomplis par de petits groupes spécialisés.
+
+Le modèle durkheimien aide à formuler des questions sur la solidarité et la répétition, sans autoriser l'invention de règles sociales dont aucune source ne conserve la formulation.
+
+### 29. Eliade : une présence au-delà de la pierre ?
+
+Mircea Eliade a conceptualisé la hiérophanie et le lieu distinct dans *Le Sacré et le Profane*. Le cercle mégalithique, par sa construction visible et sa relation à des sépultures, paraît propice à l'analyse d'un espace privilégié. Pourtant l'effet monumental ressenti aujourd'hui n'est pas une preuve du vécu religieux ancien.
+
+Des raisons pratiques — marquer une tombe, organiser l'accès, signaler l'emplacement à distance — peuvent coexister avec une intention symbolique. Les surfaces de dépôt, les orientations et les relations entre niveaux doivent être étudiées avant de qualifier un monument de « centre du monde ».
+
+La comparaison ne vise pas à nier les significations religieuses possibles, mais à éviter de les attribuer avec une précision sans équivalent dans les données.
+
+### 30. Girard et les morts d'accompagnement : un débat sous contrôle
+
+Les recherches anciennes sur certains monuments sénégambiens ont évoqué des morts d'accompagnement et des sacrifices. René Girard a fourni une théorie de la violence sacrificielle, mais celle-ci ne peut remplacer une analyse ostéologique des décès et des dépôts.
+
+Une pluralité de squelettes peut résulter de plusieurs inhumations, de déplacements secondaires ou d'un événement commun. Pour prouver une mise à mort rituelle, il faut des indices de violence, des dates de décès compatibles et une organisation contextuelle pertinente. Le statut de victime, de serviteur ou de parent ne peut être inféré du seul emplacement.
+
+L'interprétation des ensembles doit donc conserver distinctes les observations du terrain, les hypothèses des fouilleurs et les reconstructions philosophiques.
+
+### 31. Vernant et Detienne : comparer avec la Grèce sans importer des dieux
+
+Jean-Pierre Vernant a étudié les rapports entre mémoire, funérailles et construction du lien social en Grèce ancienne. Les sépultures et stèles grecques sont parfois accompagnées d'inscriptions, de récits ou de prescriptions civiques que Wanar ne possède pas. La comparaison peut porter sur les gestes de commémoration et de mise en visibilité, pas sur des catégories de héros identifiables.
+
+Marcel Detienne recommande de construire des comparables spécifiques. À Wanar, on peut confronter l'emplacement des dépôts céramiques, la relation entre architecture et morts, les gestes après ruine. Cela permet de questionner d'autres sociétés sans affirmer une diffusion de rites méditerranéens en Afrique de l'Ouest.
+
+L'analogie de forme est une invitation à l'enquête, non une preuve de filiation historique.
+
+### 32. Hegel, Nietzsche, Dumézil : les bornes de l'interprétation
+
+Les *Leçons sur l'esthétique* de Hegel peuvent être mobilisées pour interroger la relation entre forme monumentale et mémoire ; elles ne justifient pas une hiérarchie plaçant les mégalithismes africains comme stade « inférieur » à des architectures étatiques. Le degré de précision d'une pierre taillée ne mesure pas la maturité spirituelle d'une société.
+
+Nietzsche, dans sa deuxième *Considération inactuelle*, aide à reconnaître la part du présent dans notre fascination pour les morts anciens. Le désir de raconter une religion disparue peut être plus fort que les preuves archéologiques. Il importe de nommer cette tentation.
+
+Le comparatisme de Dumézil est inapplicable ici comme méthode de reconstruction d'un panthéon : aucune langue ni tradition narrative indo-européenne attribuable aux bâtisseurs ne permet d'identifier une structure trifonctionnelle.
+
+### 33. Égypte, Mésopotamie, Iran, Inde et Chine : des archives inégales
+
+Les monuments funéraires du monde égyptien et mésopotamien peuvent être associés à des inscriptions identifiant des personnes, des donateurs, des dieux ou des obligations. Les traditions iraniennes, indiennes et chinoises conservées par les textes attestent de multiples façons de traiter et commémorer les morts. Elles offrent un contraste épistémologique utile avec Wanar.
+
+La comparaison ne doit jamais faire passer une pierre frontale pour une stèle égyptienne de Rê, ni un vase percé pour un dispositif védique de libation directement transposé. Les termes techniques de ces religions appartiennent à des langues connues, absentes du dossier sénégambien médiéval.
+
+Le seul comparatisme responsable porte sur les formes d'action documentables : dépôt, circulation, conservation de la mémoire, séparation des espaces et transformation d'objets.
+
+### 34. Sénégambie et Mauritanie : ressemblances des monuments, histoire distincte
+
+Dhar Tichitt–Oualata, étudié dans un autre dossier MYTHOS, conserve des villages de pierre et des tumuli souvent préislamiques, dont certains sont beaucoup plus anciens que les principaux cercles de Wanar. Il serait illégitime de voir dans la Sénégambie un simple déplacement du « peuple de Tichitt » sans preuve matérielle, linguistique et chronologique.
+
+Les rapprochements peuvent porter sur le travail de la pierre, la localisation des monuments dans le paysage et la sélection de morts commémorés. Mais les cercles de latérite taillée de Wanar et les tumuli de pierres des dhars mauritaniens n'ont ni la même architecture ni nécessairement les mêmes usages.
+
+La comparaison permet de faire apparaître la pluralité des stratégies africaines de monumentalisation funéraire au lieu de les réduire à un mégalithisme continental indistinct.
+
+### 35. Afrique et Amériques : échelles de comparaison et dangers de diffusionnisme
+
+Les tertres et monuments funéraires des Amériques, tout comme certains mégalithes africains, sont parfois invoqués dans de grandes histoires universelles de la pierre. Des ressemblances de forme peuvent résulter de contraintes techniques plutôt que d'un héritage commun. Un cercle, un tertre et une stèle sont des solutions matérielles relativement accessibles dans des contextes variés.
+
+Pour rechercher une filiation, il faudrait des itinéraires de contacts, des chronologies compatibles, des traits techniques rares et des échanges avérés. Rien de tel ne relie directement Wanar aux traditions mégalithiques européennes ou américaines.
+
+Il est préférable de comparer les modes de construction et la relation au défunt, en rappelant l'autonomie historique des sociétés sénégambiennes.
+
+### 36. Les chercheurs et les institutions du Sénégal
+
+Le travail de Wanar repose sur une coopération associant les équipes sénégalaises et françaises, notamment l'Institut fondamental d'Afrique noire, les institutions patrimoniales, les chercheurs et les communautés locales. Réduire l'histoire des fouilles au nom d'un seul responsable étranger effacerait une partie essentielle de leur production.
+
+Les inventaires, photographies et plans peuvent être diffusés avec crédits et permissions. Les rapports d'équipe constituent des données scientifiques autant que des actes de conservation. Des objets déplacés ou restaurés demandent une chaîne documentaire assurant leur provenance et leur statut.
+
+La protection des sites et la valorisation des connaissances doivent être conduites dans un cadre compatible avec les droits et autorités sénégalais et gambiens.
+
+### 37. Conserver un monument ruiné, pas une image fantasmée
+
+Un cercle de Wanar peut sembler constitué de simples menhirs isolés, mais la fouille révèle des parties d'élévation aujourd'hui détruites. Une restitution photoréaliste qui montrerait seulement un cercle de pierres nues pourrait donc simplifier abusivement le monument originel ; une reconstitution de temple couvert ne serait pas davantage acceptable sans justification.
+
+La représentation scientifique doit séparer les fondations attestées, les murs reconstitués, les parties périssables conjecturales et le paysage moderne. Les images des restes humains nécessitent une légende respectueuse et des autorisations appropriées.
+
+Dans MYTHOS, les vues de fouille, schémas stratigraphiques et photographies des pierres bifides devront comporter auteurs, inventaires, dates, références et état de conservation. Aucune illustration de tiers n'est automatiquement réutilisable.
+
+### 38. Une grille des preuves pour les cercles
+
+**Faits attestés.** Cercles et alignements de latérite travaillée ; sépultures individuelles ou multiples selon les monuments ; structures en élévation parfois effondrées ; pierres frontales ; dépôts de céramiques ; phases de mise au tombeau et d'édification distinguées à Wanar ; séries radiocarbone révisées.
+
+**Controverses.** Durée totale de construction dans l'ensemble de la Sénégambie ; variabilité chronologique entre sites ; sens des pierres bifides ; statut social des inhumés ; interprétation de certaines sépultures multiples ; continuité des pratiques jusqu'aux traditions funéraires ethnographiquement connues.
+
+**Hypothèses non démontrées.** Panthéon des bâtisseurs identifié ; religion solaire exclusive ; sacrifices humains systémiques ; caste de prêtres des pierres en lyre ; origine européenne ou égyptienne de tous les cercles ; filiation directe et immuable avec une population moderne donnée.
+
+### 39. Protocole de documentation et propositions de recherche
+
+Pour chaque monument, un référentiel devrait contenir un identifiant unique, la carte de distribution, l'état avant fouille, les plans en phases, la géométrie des pierres, les fosses, le nombre minimal d'individus, les datations directement associées, les objets, les surfaces de dépôt et les interventions de restauration.
+
+Un modèle chronologique devrait distinguer date de décès, date probable de construction, usages postérieurs et ruine. Les dates portant sur des dents humaines, les charbons ou les éléments de remblai devraient être séparées. Les interprétations de gestes commémoratifs recevraient un statut de preuve explicitement argumenté.
+
+Des analyses de résidus dans les céramiques, des études d'usure des pierres et un inventaire des ateliers de taille pourraient améliorer la connaissance des cérémonies sans inventer une religion du silence.
+
+### 40. Conclusion : les funérailles comme histoire, non instantané
+
+Les cercles mégalithiques de Sénégambie ne se résument pas à une disposition géométrique de pierres. À Wanar, les fouilles révèlent des successions de pratiques : une tombe, une construction, puis des actes de mémoire qui peuvent perdurer lorsque le monument est déjà partiellement ruiné. Les nouvelles datations suggèrent que le rythme de construction des cercles fut parfois beaucoup plus concentré que la longue durée de peuplement régional.
+
+Ces résultats donnent une valeur anthropologique importante à la dimension temporelle du rituel. Une même communauté, ou plusieurs groupes successifs, peuvent revenir sur un lieu et y transformer les marques des morts. Cependant les croyances des acteurs ne sont pas directement conservées : les mots « ancêtres », « grandes funérailles » ou « maison des morts » demeurent des modèles interprétatifs dont la force dépend des preuves archéologiques.
+
+Une histoire des origines du sacré doit reconnaître ce qui est matérialisé et ce qui ne l'est pas. Wanar et Sine Ngayène montrent que la science peut décrire très précisément des gestes envers les défunts tout en laissant ouverte la signification religieuse de leurs formes.
+
+### Sources primaires archéologiques et patrimoniales
+
+1. **Nécropole de Wanar**, coupes, fosses, pierres frontales, dépôts de céramiques et mobilier, opérations 2005-2017 ; documentation du programme SEPSEN et du ministère français de la Culture : https://archeologie.culture.gouv.fr/fr/wanar.
+2. **Monuments de Wanar**, plans et analyses de stratigraphie des cercles et dépôts secondaires d'ossements ; L. Laporte et collaborateurs, *Antiquity*, 86 (2012), p. 409-427.
+3. **Datations de Wanar**, séries radiocarbone supplémentaires, séquences de construction et modèles bayésiens : Laporte et al., *Afrique : Archéologie & Arts*, 18 (2022), p. 53-88, DOI https://doi.org/10.4000/aaa.3804.
+4. **Sine Ngayène**, 52 cercles selon dossier UNESCO, carrière et documentation de fouilles Bocoum/Holl : https://whc.unesco.org/fr/list/1226/.
+5. **Documentation technique et comparée**, programme SEPSEN, « Cercles mégalithiques » : https://sepsen.cnrs.fr/cercles-megalithiques/.
+
+### Bibliographie universitaire et institutionnelle vérifiée
+
+- **Laporte, Luc ; Bocoum, Hamady ; Cros, Jean-Paul ; Delvoye, Adrien ; Bernard, Régis ; Diallo, M. ; Diop, M. ; Kane, A. et coll.**, « African megalithism: from graves to ruined megalithic monuments through the example of Wanar (Senegal) », *Antiquity*, 86 (2012), p. 409-427. Bibliographie contrôlée dans le programme SEPSEN et les rapports de fouille.
+- **Laporte, Luc ; Lefèvre, Jean-Claude ; Ndiaye, Matar ; Oberlin, Christine ; Delvoye, Adrien ; Stern, Mathilde ; Faye, Abdoul Kader ; Ballouche, Aziz ; Cros, Jean-Paul ; Djouad, Selim ; Quesnel, Laurent**, « Deux millénaires ou deux siècles de constructions mégalithiques au Sénégal et en Gambie ? Nouvelles dates pour Wanar et révision des contextes archéologiques », *Afrique : Archéologie & Arts*, 18 (2022), p. 53-88, DOI https://doi.org/10.4000/aaa.3804.
+- **Laporte, Luc ; Bocoum, Hamady ; Delvoye, Adrien ; Cros, Jean-Paul et collaborateurs**, « Megaliths from Sénégal and The Gambia in their regional context », dans *Megaliths of the World*, Archaeopress, Oxford, 2022, p. 1051-1070, ISBN 978-1-80327-321-1.
+- **Holl, Augustin F. C., et Bocoum, Hamady**, *Les Traditions mégalithiques de Sénégambie*, ouvrage recensé par R. Joussaume dans le *Bulletin de la Société préhistorique française*, 111/3 (2014), p. 540-541 ; compte rendu https://www.persee.fr/doc/bspf_0249-7638_2014_num_111_3_14445.
+- **SEPSEN**, *Ruines mégalithiques au Sénégal et en Gambie*, inventaires et synthèses scientifiques : https://sepsen.cnrs.fr/ruines-megalithiques-au-senegal-et-en-gambie/.
+- **Ministère français de la Culture**, *Wanar — Archéologie française dans le monde*, notices de fouilles et iconographie créditée : https://archeologie.culture.gouv.fr/fr/wanar.
+- **UNESCO**, *Cercles mégalithiques de Sénégambie*, patrimoine mondial no 1226, inscrit 2006, https://whc.unesco.org/fr/list/1226/.
+- **Durkheim, Émile**, *Les Formes élémentaires de la vie religieuse*, 1912.
+- **Eliade, Mircea**, *Le Sacré et le Profane*, 1957.
+- **Vernant, Jean-Pierre**, *L'Individu, la mort, l'amour*, 1989.
+- **Detienne, Marcel**, *Comparer l'incomparable*, 2000.
+- **Girard, René**, *La Violence et le Sacré*, 1972.
+- **Nietzsche, Friedrich**, *De l'utilité et de l'inconvénient de l'histoire pour la vie*, 1874.
+- **Hegel, G. W. F.**, *Leçons sur l'esthétique*, cours édités après sa mort.
+- **Dumézil, Georges**, *Mythe et épopée*, 1968-1973.
+
+### Corpus iconographique proposé, à intégrer sous licence vérifiée
+
+1. **Carte des quatre ensembles UNESCO** : Sénégal et Gambie, localisation de Wanar, Sine Ngayène, Wassu et Kerbatch, crédit du fond cartographique et statut de diffusion.
+2. **Wanar, monument XIV** : plan des pierres et des structures internes, photographies d'états de fouille distinctes, interprétation des murs ruinés signalée comme telle.
+3. **Pierres frontales bifides** : vues de détails et d'ensemble, orientation documentée ; ne pas légender comme « instruments de musique sacrés » sans preuve.
+4. **Trilogie stratigraphique** : fosse primaire, construction du cercle, dépôts tardifs de céramique, source Laporte et al. 2022 et SEPSEN.
+5. **Chronologie révisée** : distinguer amplitude UNESCO et phase de construction proposée pour Wanar à partir des modèles bayésiens ; donner intervalles et sources.
+6. **Sine Ngayène, carrière de latérite** : traces d'extraction et chaîne opératoire, documents autorisés.
+7. **Tableau comparatif** : Wanar, Sine Ngayène, Tuto Fela et les dhars mauritaniens, en conservant pour chaque lieu ses datations et son statut documentaire.
+
+Aucune illustration protégée n'est reproduite dans le manuscrit sans contrôle individuel des droits et autorisations.

@@ -1,0 +1,359 @@
+# MYTHOS — Comédies grecques et œuvres perdues — Volume CXXV (125)
+
+## Chionidès (Χιωνίδης), *Hērōes* (Ἥρωες) : la natte des sentinelles, l'agnos du ravin et les politiques de l'héroïsation
+
+**Monographie universitaire originale — 6 novembre 2026.** Philologie grecque, histoire de l'ancienne comédie, histoire des concours athéniens, lexicographie, anthropologie historique des héros, histoire sociale de la guerre, philosophie et dramaturgie critique.
+
+**Statut épistémique :** les indications **[A]** concernent les faits documentaires attestés et les leçons des témoins conservés ; **[B]** désigne les interprétations, rapprochements, hypothèses et propositions historiographiques ; **[C]** est réservé aux **scènes dramatiques écrites aujourd'hui**. Un témoignage tardif [A] peut être attesté sans que sa valeur historique soit certaine. Aucune scène [C] ne représente une restitution d'un vers ou d'une intrigue de Chionidès.
+
+**Statut éditorial :** les seules mentions du numéro propre à cette nouvelle monographie sont les variables 125 et CXXV, à résoudre par la file transactionnelle du dépôt GitHub. Ni le dossier de Myrtilos encore soumis, ni les anciens repères XIII/XIV ne réservent un numéro. Cette étude ne revendique aucune mise en ligne publique avant vérification.
+
+### 1. Problème : lire la première comédie par ce qui manque [B]
+
+Comment écrire l'histoire d'une œuvre comique lorsqu'il n'en demeure ni intrigue continue, ni distribution des rôles, ni date certaine de représentation, ni indication explicite de la composition du chœur ? La pièce *Hērōes* de Chionidès fournit un cas particulièrement exigeant. Son titre, trois petits fragments cités par des ouvrages lexicographiques et des témoignages tardifs ouvrent un champ d'investigation. Ils n'autorisent pourtant ni une reconstruction sûre du spectacle, ni le portrait d'un poète « fondateur » exerçant un rôle artistique assigné d'avance.
+
+Cette monographie soutient une proposition de méthode : les fragments ne doivent pas être traités comme les images successives d'un film interrompu. Ils sont des objets documentaires produits par les besoins d'autrui. Pollux extrait un mot rare pour une natte ; Photios et la *Souda* transmettent une identification botanique ; d'autres gloses retiennent un qualificatif d'âge. C'est donc la **transmission** qui forme aujourd'hui l'unité immédiatement observable, bien davantage que l'unité dramatique disparue.
+
+La première liberté du commentaire est de ne pas confondre vraisemblance et témoignage. La seconde est de faire de la pluralité des hypothèses un instrument d'histoire intellectuelle plutôt qu'un défaut à masquer.
+
+### 2. Le nom Chionidès et ses formes [A]
+
+Les traditions anciennes font varier le nom propre entre Χιωνίδης et Χιονίδης. Andreas Bagordo examine ce point dans *Fragmenta Comica* 1.1 (2014), p. 24. L'orthographe avec oméga, Χιωνίδης, dispose d'arguments onomastiques ; l'existence de variantes manuscrites oblige néanmoins à tenir les formes apparentées ensemble dans toute recherche anti-doublon. Une forme de nom n'autorise pas à produire deux auteurs.
+
+La prosopographie moderne donne notamment PA 15556 et PAA 990240. Ces identifiants sont des repères savants, non des sources narratives d'époque classique. Une notice de lexique peut maintenir un nom tout en interprétant rétrospectivement sa place dans l'histoire du théâtre.
+
+### 3. Chionidès et le prétendu « premier » poète comique [A/B]
+
+La *Souda*, notice consacrée à Chionidès, le qualifie d'un terme apparenté à **prōtagōnistēs** et rattache son activité au commencement du Ve siècle. Ce témoignage est central mais difficile : la signification précise de « premier », « principal » ou « précurseur » ne se laisse pas convertir sans discussion en « premier vainqueur historique ». Bagordo, *FrC* 1.1, p. 29–33, rappelle les controverses sémantiques et les tentatives d'émendation.
+
+[B] L'image d'un inventeur individuel de la comédie aurait des vertus narratives pour une histoire scolaire, mais elle écrase la transformation progressive des pratiques festives en concours institutionnels. La comédie officielle est moins une invention instantanée qu'un point d'organisation civique d'usages, de performances et de traditions antérieures. L'articulation entre évolution des formes et choix de la cité ne peut être déduite de trois fragments de *Hērōes*.
+
+### 4. La date de 486 av. J.-C. : repère et controverse [A/B]
+
+[A] La *Souda* est fréquemment interprétée comme renvoyant aux premières années de l'organisation des concours comiques des Grandes Dionysies, vers 486 av. J.-C. Le lien exact entre ce repère chronologique et la représentation de *Hērōes* est **inconnu**.
+
+[A] Aristote, *Poétique* 1448a29–34, rappelle la concurrence des revendications d'origine de la comédie et présente Épicharme comme antérieur à Chionidès et Magnès. Ce texte ne donne pas une date d'exécution de *Hērōes*.
+
+[B] Il faut séparer au moins quatre questions : début d'une forme dramatique, organisation d'un concours, entrée d'un auteur dans la documentation, représentation d'une pièce particulière. Un renseignement sur une des quatre ne détermine pas automatiquement les autres. Les certitudes excessives sur la carrière de Chionidès confondent souvent ces plans.
+
+### 5. Les deux témoignages anciens sur l'auteur [A]
+
+Le dossier de Chionidès est principalement construit sur la *Souda* et la référence aristotélicienne. Une inscription de vainqueurs n'offre pas aujourd'hui une ligne incontestablement lisible et attribuable à Chionidès : sa place supposée en tête d'une liste relève d'une reconstruction érudite, à ne pas présenter comme un nom matériellement conservé. Les éditions modernes distinguent donc les témoins conservés des raisonnements produits à leur sujet.
+
+L'argument du silence est essentiel. L'absence d'une inscription certaine n'est pas une preuve de non-existence, mais elle empêche de traiter comme épigraphiquement démontrée une priorité qui dépend surtout des lexiques et de la mise en contexte des archives agonistiques.
+
+### 6. Les œuvres associées à Chionidès [A]
+
+La tradition rattache à son nom les titres *Hērōes* (« Les Héros »), *Ptōchoi* (« Les Mendiants ») et *Persai ē Assyrioi* (« Les Perses ou les Assyriens »). Le dernier titre est transmis sans fragments sûrs de la pièce. Les *Ptōchoi* posent une difficulté particulière d'authenticité : chez Athénée, certaines présentations parlent d'une comédie **attribuée** à Chionidès. L'apparition de Gnésippos dans cette œuvre a nourri des controverses de datation.
+
+L'objet **exclusif** de la présente étude est *Hērōes*. Les deux autres titres sont cités pour établir le paysage de la transmission, non analysés comme des prolongements démontrés d'une œuvre unifiée. De même, les *Hērōes* attribués à Cratès constituent **une autre comédie** : leur traitement dans MYTHOS, volume LIV (54), ne saurait être fondu avec le présent dossier.
+
+### 7. Titre au singulier ou au pluriel ? [A]
+
+La *Souda* présente une forme de titre au singulier, tandis que les témoignages de fragments font prévaloir le pluriel **Ἥρωες**. L'édition du titre suit le pluriel des citations dans les commentaires scientifiques modernes, notamment Bagordo, *FrC* 1.1, p. 36–38.
+
+[B] Un pluriel de titre peut suggérer une pluralité de protagonistes, une catégorie sociale ou un chœur ; il ne **prouve pas** la composition de celui-ci. Les rapprochements avec des chœurs éponymes plus tardifs font apparaître des possibilités de mise en scène, non des informations directes sur une représentation de Chionidès.
+
+### 8. Qu'est-ce qu'un « héros » ? [A/B]
+
+[A] L'ἥρως grec se situe à l'intersection des généalogies mythiques, des morts dotés d'une puissance particulière, des mémoires civiques et des cultes locaux. Hésiode, *Travaux et Jours* 156–173, expose dans la succession des âges une race de héros distincte de celle des hommes de fer. Il serait historiquement faux de réduire tous les emplois du mot à ce seul passage.
+
+[B] Le héros de théâtre peut être un personnage mythologique, un mort honoré, un héros éponyme, un contemporain traité ironiquement en héros, voire une image rhétorique de grandeur déplacée. L'alternative « pièce mythologique » ou « pièce politique » est donc un mauvais instrument préalable. La comédie peut faire entrer dans son champ des registres normalement séparés.
+
+### 9. Le dossier des trois fragments [A]
+
+La numérotation utilisée ici est celle de Rudolf Kassel et Colin Austin, *Poetae Comici Graeci* (PCG), IV (1983), p. 72–76. Les trois unités éditoriales rattachées à *Hērōes* sont de nature différente :
+
+**Fr. 1** — Pollux, *Onomasticon* X, 43 : deux vers relatifs à de jeunes hommes montant la garde et dormant sur une **sámax**, natte de campement. Les variantes de manuscrits concernent notamment le début du premier vers et un adverbe du second.
+
+**Fr. 2** — Photios, lexique α 220 et *Souda* α 280 : deux vers de comparaison entre un locuteur et un **agnos**, arbuste poussant près d'une ravine ; le grec et les leçons sont discutés.
+
+**Fr. 3** — un témoignage lexical lié au qualificatif **heptetēs**, « âgé de sept ans » / « vieux de sept ans » : le contexte dramatique est perdu et l'interprétation incertaine.
+
+Cette liste est un **inventaire**, non une intrigue reconstituée. Aucune continuité de personnage, de lieu ou de temps entre les trois fragments n'est attestée.
+
+### 10. Fragment 1 : le regard du lexicographe [A]
+
+Pollux étudie des objets liés au couchage et à la vie matérielle. Il cite Chionidès à propos d'une forme de natte, **σάμαξ** (*sámax*), particulièrement liée aux usages de campagne. C'est l'intérêt de son ouvrage pour le vocabulaire rare qui a sauvé deux vers d'une comédie disparue. Il n'affirme pas nous transmettre une scène complète.
+
+La traduction française analytique, sans prétention d'établissement critique nouveau, fait entendre un locuteur connaissant de nombreux jeunes gens « qui montent la garde » et « se couchent sur une natte », en les opposant à un interlocuteur qualifié négativement. L'exacte nuance de la comparaison dépend de la leçon du premier vers ; les commentaires signalent les variantes et conjectures.
+
+Éditions : *PCG* IV, Chionidès fr. 1 ; Bagordo, *FrC* 1.1, p. 39–44. Contrôle numérique : https://digi.hadw-bw.de/view/frc1_1/0040 .
+
+### 11. La natte comme objet culturel [B]
+
+Pourquoi un terme d'ameublement occasionne-t-il une mise en relation avec les vertus militaires ? Parce que l'objet peut servir à rendre visible la différence entre une couche confortable et le couchage austère du soldat. Le contraste appartient à un répertoire bien connu de la morale civique grecque : le citoyen capable de supporter la fatigue est opposé à celui qui souhaite les avantages de la communauté sans partager ses charges.
+
+Mais une **natte de campagne n'est pas, à elle seule, la preuve d'une satire antimilitariste ou militariste**. La formule pourrait être de l'éloge, du reproche, de la vantardise, voire d'une plaisanterie prononcée par une figure ridicule. La scène perdue interdit de fixer l'orientation du rire.
+
+### 12. Le verbe de la garde et l'ambivalence du sommeil [A/B]
+
+La combinaison d'un verbe signifiant monter la garde et d'un autre lié au sommeil demande une lecture contextuelle : les veilles militaires incluent des périodes de repos sous conditions de surveillance. Une expression littérale pour « se coucher » peut entrer dans un tableau de discipline sans contradiction. Bagordo rapproche ce phénomène des expressions des gardes nocturnes dans Eschyle, *Agamemnon*, ouverture, et d'autres exemples de littérature grecque.
+
+[B] Le passage permet d'étudier une temporalité partagée : certains hommes veillent pendant que d'autres jouissent du repos. Une communauté politique est matériellement traversée par cette asymétrie. La comédie peut exposer la disproportion entre ceux qui se dépensent et ceux qui se mettent en scène comme vertueux. Rien ne prouve toutefois qu'il s'agissait de l'axe central de *Hērōes*.
+
+### 13. La jeunesse, le père et la critique des mœurs [B]
+
+Le rapprochement classique suppose qu'un adulte admoneste un jeune homme en lui opposant des contemporains plus courageux. Cette solution apparaît dans la tradition critique, sans être garantie par l'attribution des personnages. La parenté du locuteur et du destinataire n'est **pas** conservée ; un père, un chef, un citoyen âgé, un camarade ou une figure burlesque restent concevables.
+
+La notion de conflit des générations est historiquement féconde parce qu'elle permet d'étudier comment une cité transmet les récits de ses guerres et la mémoire de ses ancêtres. Elle devient abusive dès qu'on affirme que les acteurs de Chionidès débattaient exactement comme ceux des *Nuées* d'Aristophane, œuvre d'une époque postérieure. Une comparaison diachronique n'est pas une identification.
+
+### 14. Le « vieux guerrier » : une hypothèse fragile [B]
+
+Le repère de la première moitié du Ve siècle rend tentante une lecture dans l'ombre des guerres médiques. Les vieillards auraient combattu ; les jeunes devraient les imiter. Ce scénario est historiquement imaginable mais demeure indémontrable. Sans date sûre pour *Hērōes*, sans identité de soldats, sans noms d'ennemis, la référence aux guerres médiques reste conjecturale.
+
+Une critique documentaire doit distinguer le **fond historique plausible** d'un discours de personnage explicitement attesté. On peut comparer le système des attentes civiques chez Hérodote ou dans des comédies beaucoup plus tardives ; on ne peut convertir cette comparaison en nouvelle source primaire de Chionidès.
+
+### 15. Fragment 2 : agnos et ravin [A]
+
+Photios et la *Souda* conservent un fragment utilisant **ἄγνος** (*agnos*), nom d'un arbuste, dans une comparaison personnelle. Le texte évoque un végétal poussant dans une **χαράδρα** (*charadra*), lit de torrent ou ravine. Le passage n'autorise pas à identifier le sexe, la profession ou le rang du personnage parlant.
+
+Le détail essentiel est lexicographique : la citation sert à attester l'emploi d'une forme botanique ; elle n'a pas été copiée par souci de restituer la fonction scénique du locuteur. L'analyse des variantes montre également combien quelques particules peuvent changer l'intonation d'une réplique.
+
+Éditions : *PCG* IV, fr. 2 ; Bagordo, *FrC* 1.1, p. 45–48. Contrôle numérique : https://digi.hadw-bw.de/view/frc1_1/0046 .
+
+### 16. La plante et la métaphore de la vulnérabilité [B]
+
+L'arbuste peut signifier la fragilité, la flexibilité, l'exposition au mouvement brutal des eaux, ou simplement servir de comparaison absurde. Il serait séduisant de rapprocher la plante de l'ascèse, de la chasteté ou d'une réputation cultuelle : ces interprétations ne sont **pas prouvées** par les deux vers transmis. La signification du mot moderne « agnus-castus » ne doit pas être rétroprojetée mécaniquement sur la réplique comique.
+
+Le ravin, lui, offre une géographie de l'incertitude : un lieu peut être tranquille la plupart du temps et dangereux lorsqu'un torrent survient. [B] Si l'image renvoie à une personne délaissée ou exposée, elle pourrait mettre en évidence une condition sociale menacée. Mais c'est une lecture métaphorique dont le référent théâtral demeure inconnu.
+
+### 17. La personne qui parle : prudence grammaticale [A/B]
+
+Les associations de particules ont conduit certains commentateurs à évoquer la possibilité d'une voix féminine. Une marque stylistique ne suffit pourtant pas à identifier le sexe d'un personnage, encore moins celui d'un acteur ou la composition d'une scène. Le travestissement était un ressort des représentations comiques ; l'assignation à partir d'une seule tournure serait doublement hasardeuse.
+
+Pour la philologie, la voix se construit par des indices convergents : inflexions grammaticales, situation énonciative, noms propres, réponses d'interlocuteurs. Ici, les indices disponibles ne produisent pas une convergence décisive.
+
+### 18. Fragment 3 : la donnée d'âge [A/B]
+
+L'expression **heptetēs**, « de sept ans », est retenue par un témoin grammatical. Ce reste minuscule ne peut servir de fondement à une intrigue concernant un enfant précis. Les parallèles comiques associent parfois l'âge de sept ans à l'éruption ou à la chute des dents, aux conventions de l'enfance et à des plaisanteries fondées sur la maturité ; d'autres contextes peuvent qualifier un objet âgé.
+
+Bagordo relève des comparaisons avec Aristophane, *Grenouilles* et *Thesmophories*, ainsi qu'une lecture plus libre concernant du vin vieilli : les exemples servent à **cartographier une polysémie**, non à attribuer un thème à Chionidès. La catégorie [A] comprend le mot transmis ; les emplois imaginés dans la scène sont [B].
+
+### 19. Compter les fragments : la différence entre trois et une pièce [A/B]
+
+Un catalogue peut annoncer « trois fragments des *Hērōes* ». Une lecture non spécialiste peut croire qu'il en subsiste trois scènes. Or un fragment peut être une phrase, deux vers ou un seul lexème. La quantité de numéros éditoriaux et la quantité d'information dramatique sont des variables indépendantes.
+
+Le cas de Chionidès montre encore un phénomène de biais : les lexicographes favorisent les mots rares, les encyclopédistes les noms propres, les érudits les tournures originales. Une œuvre survit en fonction de son utilité pour un autre discours. Les thèmes qui ne produisaient pas de termes recherchés peuvent avoir disparu sans laisser de trace. Toute statistique sur les sujets du poète fondée sur les seules citations doit intégrer cette sélection.
+
+### 20. Héros mythiques, héros du culte et « héros » civiques [A/B]
+
+[A] Les figures honorées par un culte héroïque ne forment pas une catégorie homogène. Elles sont définies par des pratiques locales, des généalogies, des dépouilles ou tombeaux, des mythes d'établissement, des relations aux collectivités. Pausanias, plus tardif, offre de nombreux exemples de localisations cultuelles, mais ne documente pas directement la pièce.
+
+[B] Le titre *Hērōes* laisse ouverts trois grands modèles : une présence de héros traditionnels, un jeu comique avec les héros civiques athéniens, ou une héroïsation ironique d'êtres contemporains. Ces modèles peuvent même coexister. La différence entre mythe, rite et satire ne doit pas être traitée comme une cloison étanche, et aucun modèle n'est imposé par les trois fragments.
+
+### 21. Hérodote, guerres médiques et mémoire civique [B]
+
+La question des morts de guerre et de la mémoire des anciens serait une toile de fond possible pour une pièce de l'Athènes d'après les guerres médiques. Mais l'absence de date et d'identité de héros ne permet pas de poser une commémoration de Marathon ou de Salamine comme thème attesté.
+
+Hérodote rend visible la construction de récits de courage, de responsabilité et de décision politique ; le recours à son œuvre est une **comparaison d'histoire des représentations**, non une preuve que Chionidès dramatise un épisode précis. Une monographie responsable expose ce type d'analogie en tant que démarche exploratoire.
+
+### 22. Aristophane, *Acharniens* et le héros ironique [B]
+
+Dans les *Acharniens*, Lamachos peut être sollicité comme une figure héroïque avec une dose évidente d'ironie. La satire transforme la grandeur épique en posture publique contestable. Ce parallèle éclaire **une possibilité du lexique comique**, non une parenté de scènes assurée. On ignore ce que Chionidès faisait subir au nom de héros.
+
+L'interprétation n'a pas non plus le droit de faire dériver *Hērōes* de l'Aristophane conservé : entre les deux auteurs et les deux corpus, la chronologie et l'état très inégal de la transmission interdisent d'inférer une direction unique de dépendance.
+
+### 23. Les *Hērōes* de Cratès : une homonymie de titres [A/B]
+
+Le registre de MYTHOS contient déjà une étude dédiée aux *Hērōes* de Cratès, volume LIV (54). Il s'agit d'une œuvre distincte. Un titre identique ne définit pas une transmission, une reprise ou une contamination philologique sans témoignage spécifique.
+
+Le rapprochement reste instructif : la pluralité des *Hērōes* dans les titres de comédies permet de comprendre que le sujet héroïque était disponible à plusieurs usages dramaturgiques. Elle ne justifie aucune fusion des manuscrits, ni un changement de numéro pour la nouvelle monographie.
+
+### 24. Hegel : universalité et particularité dans l'expérience comique [B]
+
+Les *Leçons sur l'esthétique* de Hegel analysent la comédie dans une perspective où les objectifs et les prétentions du sujet peuvent se défaire dans leurs propres contradictions. Cette grille offre une question féconde : un individu qui se nomme héros peut-il soutenir l'universalité de sa prétention lorsqu'il doit dormir, monter la garde et dépendre d'objets matériels aussi modestes qu'une natte ?
+
+Mais il faut maintenir le statut de l'exercice. Hegel ne fournit aucun témoignage sur Chionidès ; les catégories de l'idéalisme allemand appartiennent à un autre horizon historique. [B] L'opposition entre grandeur affichée et finitude pratique **est notre interprétation**, non la thèse démontrée d'une pièce perdue.
+
+### 25. Nietzsche : le rapport entre masque, rire et croyance [B]
+
+La *Naissance de la tragédie* permet de penser les tensions entre représentation, expérience dionysiaque et regard porté sur les formes. Elle ne constitue pas un manuel de reconstitution de la comédie ancienne. On serait tenté de qualifier le héros comique de « dionysiaque » parce qu'il déstabilise des valeurs. Une telle étiquette est trop large pour établir un mécanisme dramatique à partir de trois fragments.
+
+[B] L'intérêt réel de Nietzsche, dans le présent dossier, est critique : rappeler que les images artistiques font et défont des identités, et que le rire peut déplacer les frontières du noble et du trivial. La natte militaire, si elle produisait un effet comique, aurait pu participer à cette désacralisation ; faute de scène, ce « si » reste décisif.
+
+### 26. Jean-Pierre Vernant : éviter le mythe hors de la cité [B]
+
+Les travaux de Jean-Pierre Vernant sur la pensée grecque, les statuts de l'individu et les formes symboliques invitent à considérer les héros dans leur environnement institutionnel. Une figure héroïque ne se réduit pas à une essence intemporelle : elle est investie par des communautés, des récits et des gestes.
+
+Appliquée à *Hērōes*, cette démarche empêche deux simplifications. D'abord lire le titre comme un pur décor mythologique ; ensuite convertir le moindre vocabulaire guerrier en programme politique personnel de l'auteur. La cité fait jouer ensemble mémoire, distinction, conflit, service et dérision, mais leur répartition exacte dans l'œuvre nous échappe.
+
+### 27. Marcel Détienne : les catégories construites [B]
+
+Marcel Détienne a rendu particulièrement sensible la nécessité de comparer les systèmes de catégories religieuses sans supposer qu'une classe de dieux ou de héros fonctionnerait identiquement partout. Son approche est utile pour traiter la pluralité des « héros » dans la Grèce classique.
+
+Elle invite aussi à regarder nos propres catégories historiographiques : « vieux comique », « pièce héroïque », « pièce politique » sont des regroupements modernes. Le danger commence quand ces étiquettes deviennent plus solides que les témoins eux-mêmes. Avec Chionidès, l'objet d'étude ne se réduit pas à trois fragments, mais comprend aussi les opérations qui les ont nommés, conservés et classés.
+
+### 28. Georges Dumézil : une non-application justifiée [B]
+
+Les recherches de Georges Dumézil sur les fonctions indo-européennes ont produit des instruments de comparaison puissants pour certains dossiers narratifs bien documentés. Ici, les données ne permettent de construire ni un schéma des trois fonctions, ni une série stable de personnages, ni une structure de récit à comparer. Les figures militaires ne suffisent pas, à elles seules, à diagnostiquer une idéologie trifonctionnelle.
+
+La bonne application d'une méthode comparatiste consiste parfois à **s'abstenir**. On peut noter un intérêt méthodologique général, mais aucune attribution dumézilienne à Chionidès ne sera proposée.
+
+### 29. L'expérience comique du seuil [B]
+
+Les trois fragments observables forment, pour le lecteur moderne, un ensemble étrange : la garde et la natte, l'arbuste du torrent, un qualificatif d'âge. Chacun touche une limite : sommeil et veille, stabilité et risque, enfance et croissance. Les associer thématiquement pourrait suggérer que *Hērōes* étudiait les passages d'un statut à l'autre.
+
+Cette symétrie est intellectuellement attrayante mais **non démontrable**. Elle est produite par l'analyste à partir de reliques choisies par d'autres. Sa valeur est heuristique : elle pose des questions à l'histoire de la citoyenneté et des rites de passage. Elle ne saurait devenir un plan d'actes ou une synopsis vendue comme antique.
+
+### 30. Le corps du soldat et le corps de l'acteur [B]
+
+Le soldat a besoin de repos et de matérialité ; l'acteur incarne des valeurs dans un corps habillé et masqué. La rencontre entre les deux rend imaginable une scène où le héros proclamé grandiose découvre sa dépendance aux objets ordinaires. Mais nous ignorons les costumes de la pièce, la forme de son décor, la musique et le nombre d'intervenants.
+
+Il faut donc distinguer la connaissance générale des conventions de la comédie grecque de la documentation spécifique sur *Hērōes*. Une reconstitution visuelle photoréaliste de cette pièce, produite sans scénario attesté, devrait être présentée comme **création contemporaine hypothétique**, non comme image d'une scène archéologiquement démontrée.
+
+### 31. Le problème politique de l'héroïsation [B]
+
+Le héros peut être celui qui accomplit un acte exceptionnel, celui qui reçoit un culte après sa mort ou celui dont la cité a besoin pour produire un récit collectif. La comédie est particulièrement apte à montrer le décalage entre une qualification honorifique et l'expérience quotidienne.
+
+[B] On pourrait imaginer qu'un personnage se glorifie de ses exploits tout en refusant de monter la garde, ou qu'un modeste sentinelle accomplisse sans cérémonie ce que revendique un faux héros. Ce couple de personnages n'est pas attesté. Il servira uniquement dans la scène contemporaine [C] ci-dessous, où son statut inventé est explicite.
+
+### 32. Philologie des adverbes et des particules [A/B]
+
+La copie fragmentaire favorise les problèmes minuscules mais décisifs. Dans le fragment 1, le choix d'une leçon ou d'une conjecture pour qualifier la garde peut orienter la traduction vers la continuité, l'intensité ou la simplicité de l'action. Dans le fragment 2, des combinaisons de particules changent la façon de percevoir la réplique comme objection, auto-dérision ou réponse.
+
+Ces variantes appartiennent à l'histoire **positive** du texte. Leur résolution ne reconstitue pas le rire perdu. Il serait trompeur de masquer une leçon disputée derrière une traduction fluide qui donne l'illusion d'une parole complète.
+
+### 33. Titre, chœur, scène : trois niveaux à ne pas confondre [B]
+
+L'inférence la plus répandue serait : une pièce intitulée *Hērōes* a nécessairement eu un chœur de héros ; le chœur doit être identifiable ; nous pouvons en recréer costumes et intervention. Chaque transition ajoute une conjecture. Les titres pluriels suggèrent parfois des groupes choraux, mais ne constituent pas une règle absolue.
+
+On ne connaît pour cette pièce ni didascalie, ni protagoniste désigné, ni chant conservé. La position prudente consiste à laisser le chœur indéterminé, tout en expliquant pourquoi la tradition de l'ancienne comédie rend certaines configurations historiquement possibles.
+
+### 34. Histoire des citations, histoire des choses [B]
+
+La **sámax** et l'**agnos** sont des entrées lexicales, mais ce sont aussi des objets du monde : matériau tressé de la vie militaire ; plante associée à un paysage. La lexicographie, loin de ne transmettre que des curiosités, révèle l'attention comique aux supports matériels de l'existence.
+
+Elle provoque en même temps une déformation : les mots sauvés ne sont pas nécessairement les mots les plus significatifs de la pièce. Si l'on traite ce biais comme une donnée première, l'histoire des objets peut enrichir l'histoire du théâtre sans lui imposer une intrigue artificielle.
+
+### 35. Contrôle anti-anachronique des comparaisons [B]
+
+Les références à Aristophane, aux auteurs du IVe siècle et aux philosophes modernes sont utilisées selon trois régimes séparés. D'abord les **parallèles lexicaux**, qui permettent de mesurer un usage ; ensuite les **comparaisons institutionnelles**, qui éclairent les pratiques de la cité ; enfin les **modèles philosophiques**, qui interrogent le rire et la norme.
+
+Ces trois régimes sont à chaque fois postérieurs à la documentation directe, partiellement externes et non équivalents. Les employer sans explicitation conduirait à fabriquer une fausse épaisseur documentaire.
+
+### 36. [C] Scène dramatique originale I — « Le héros et la natte »
+
+**Création contemporaine sans rapport textuel direct avec les trois fragments. Personnages entièrement inventés.** Sur une scène imaginaire, une natte tressée est posée devant une porte symbolique ; il ne s'agit d'aucun décor attesté.
+
+LE HÉROS AUTOPROCLAMÉ — On a inscrit mon nom sur les lèvres de la cité. Je suis le courage même.
+
+LA SENTINELLE — Le courage peut-il tenir cette porte pendant que j'apporte l'eau ?
+
+LE HÉROS — Le courage doit être admiré. Il lui faut de la lumière, un banc, un manteau.
+
+LA SENTINELLE — Cette nuit, nous n'avons qu'une natte.
+
+LE HÉROS — Une natte ? Pour celui qui sauve la ville ?
+
+LA SENTINELLE — Quand une ville dort, ceux qui la sauvent ne possèdent pas tous un lit. Tu peux garder la porte ou garder ton titre.
+
+LE HÉROS — Je garderai le titre. Il est plus facile à porter.
+
+LA SENTINELLE — Alors je garderai la porte. Et demain, personne ne connaîtra mon nom.
+
+**Note [C] :** cette opposition entre titre et service concret est une construction politique contemporaine. Aucun mot du dialogue n'est attribué à Chionidès.
+
+### 37. [C] Scène dramatique originale II — « L'arbuste du ravin »
+
+**Création contemporaine sans personnage, lieu ou action historiquement restitués.**
+
+LA PLANTE — Quand le torrent est absent, on me dit paisible. Quand il revient, on me dit folle de rester ici.
+
+LE PASSANT — Pourquoi ne montes-tu pas sur la colline, parmi les arbres qui dominent ?
+
+LA PLANTE — Ils sont visibles de loin. Mais chaque tempête vient d'abord s'éprouver dans le ravin.
+
+LE PASSANT — Tu devrais demander la protection d'un héros.
+
+LA PLANTE — Je ne souhaite pas un protecteur qui promet de me défendre seulement lorsque les eaux se retirent.
+
+LE PASSANT — Alors qui te défendra ?
+
+LA PLANTE — Celui qui reconnaît le risque avant d'entendre les acclamations.
+
+**Note [C] :** cette allégorie du pouvoir et de la vulnérabilité tire son point de départ du vocabulaire botanique conservé, mais ne cherche pas à le « compléter » comme un manuscrit ancien.
+
+### 38. [C] Scène dramatique originale III — « La liste des premiers »
+
+**Création contemporaine sur la fabrication de la mémoire littéraire. Aucun lexicographe ancien n'est représenté comme personnage historique.**
+
+LE COPISTE — Je veux inscrire le nom du premier poète comique.
+
+L'HISTORIEN — As-tu une liste complète ?
+
+LE COPISTE — Non, mais j'ai un nom.
+
+L'HISTORIEN — As-tu sa première représentation ?
+
+LE COPISTE — Non, mais j'ai une date.
+
+L'HISTORIEN — As-tu son texte ?
+
+LE COPISTE — Trois fragments, dont un seul mot.
+
+L'HISTORIEN — Tu veux donc inscrire la première des certitudes, ou la première des histoires que tu peux raconter ?
+
+LE COPISTE — Les lecteurs exigent un commencement.
+
+L'HISTORIEN — Écris plutôt ce qui commence pour nous : la conservation, non le théâtre.
+
+**Note [C] :** la scène dramatise une distinction épistémologique actuelle. Elle n'est ni un témoignage de la *Souda* ni une reconstitution d'atelier antique.
+
+### 39. Protocole pour une reconstitution artistique future [B/C]
+
+Si une représentation originale de *Hērōes* est ultérieurement conçue pour le site MYTHOS, elle devra comporter une légende précisant trois niveaux : [A] sources assurées (nom, titres discutés, fragments conservés), [B] hypothèses de jeu ou de costume, [C] invention plastique et dramatique moderne. L'absence de données interdit d'assigner un décor archéologique unique ou des masques spécifiques au spectacle.
+
+Le statut visuel « reconstitution » n'est pas une licence pour transformer une possibilité philologique en fait documentaire. L'archéologie grecque des théâtres peut éclairer l'espace des représentations ; elle ne fournit pas le plan matériel de la pièce perdue.
+
+### 40. Critères de réfutation des hypothèses [B]
+
+Une reconstitution devient scientifique lorsqu'elle indique ce qui pourrait la démentir. Pour la lecture militaire du fragment 1, l'apparition d'une citation plus longue montrant un éloge inversé ferait changer l'interprétation. Pour l'identification d'un chœur de héros, une didascalie conservée pourrait décider. Pour l'hypothèse d'un conflit père-fils, l'attestation d'une autre relation entre locuteurs serait décisive.
+
+Tant qu'aucun de ces documents n'est connu, le commentaire doit respecter l'équivalence de plusieurs lectures possibles, sans fausse probabilité numérique.
+
+### 41. La place de *Hērōes* dans l'histoire de la comédie [A/B]
+
+[A] Chionidès est cité par Aristote parmi les points de comparaison de l'histoire ancienne du genre. Son nom est inséparable des problèmes d'origine et d'institutionnalisation du concours attique.
+
+[B] L'œuvre qui lui est attribuée permet d'étudier au moins trois dimensions sans confondre les niveaux de preuve : le rôle de la diction comique dans les premiers agônes, la plasticité de la figure du héros et la récupération lexicographique de matériaux dramatiques. Il serait en revanche imprudent d'assigner à cette pièce un programme militaire, religieux ou démocratique unique.
+
+### 42. Conclusions différenciées [A/B/C]
+
+**[A] Ce qui demeure :** un auteur associé à l'histoire ancienne de la comédie, des variantes de nom, un titre au pluriel soutenu par les citations, un ensemble de trois fragments sous le titre *Hērōes*, des témoins lexicographiques identifiables, et des difficultés chronologiques et textuelles que les éditions exposent.
+
+**[B] Ce qui ne demeure pas :** le texte intégral, la date de représentation, l'identité des personnages, le chœur, les actes et l'intrigue, le sens définitif des répliques et leur fonction dans une économie dramatique. La satire de la jeunesse privilégiée, l'héroïsation civique et les conflits d'âge sont des axes de travail, jamais des restitutions attestées.
+
+**[C] Ce qui est créé :** trois scènes contemporaines et de nouvelles images conceptuelles du héros. Elles prolongent la réflexion, mais ne peuvent être citées comme sources grecques.
+
+### 43. Sources primaires et éditions critiques [A]
+
+**Dossier antique direct.** *Souda*, notice Χιωνίδης / Χιονίδης (édition critique à contrôler selon la leçon) ; Aristote, *Poétique* 1448a29–34 ; Pollux, *Onomasticon* X, 43 (fr. 1 K.-A.) ; Photios, *Lexique* α 220 et *Souda* α 280 (fr. 2 K.-A.) ; témoin lexical du qualificatif *heptetēs* (fr. 3 K.-A., voir l'apparat des éditions). Les textes de témoin sont souvent plus tardifs que la pièce qu'ils citent.
+
+**Éditions d'ensemble.** Rudolf Kassel et Colin Austin (éd.), *Poetae Comici Graeci*, IV, Berlin–New York, 1983, p. 72–76 ; Andreas Bagordo, *Fragmenta Comica*, 1.1, *Alkimenes–Kantharos*, Heidelberg, 2014, chapitre « Chionides », p. 24–66 ; Ian C. Storey, *Fragments of Old Comedy*, I, Cambridge (Mass.)–London, Loeb Classical Library, 2011, p. 192–199 ; Theodor Kock, *Comicorum Atticorum Fragmenta*, I, Leipzig, 1880, p. 4–7 ; August Meineke, *Fragmenta Comicorum Graecorum*, II.1, Berlin, 1839, p. 5–9. Les numéros de fragments de l'étude sont ceux de Kassel–Austin et ne doivent pas être transférés sans conversion à d'autres éditions.
+
+**Contexte historique et religieux.** A. W. Pickard-Cambridge, *The Dramatic Festivals of Athens*, 2e éd. revue par J. Gould et D. M. Lewis, Oxford, 1968 ; Benjamin W. Millis et S. Douglas Olson, *Inscriptional Records for the Dramatic Festivals in Athens*, Leiden–Boston, 2012 ; Jennifer Larson, *Greek Heroine Cults*, Madison, 1995 ; Emily Kearns, *The Heroes of Attica*, Londres, 1989 ; Gunnel Ekroth, *The Sacrificial Rituals of Greek Hero-Cults in the Archaic to the Early Hellenistic Periods*, Liège, 2002 ; Hésiode, *Travaux et Jours*, v. 156–173, pour la catégorie héroïque dans la poésie archaïque, distincte du dossier dramatique.
+
+**Comparatisme philosophique.** G. W. F. Hegel, *Vorlesungen über die Ästhetik*, sections sur le drame et la comédie ; Friedrich Nietzsche, *Die Geburt der Tragödie*, 1872 ; Jean-Pierre Vernant, *Mythe et pensée chez les Grecs* ; Jean-Pierre Vernant et Pierre Vidal-Naquet, *Mythe et tragédie en Grèce ancienne* ; Marcel Détienne, *Les Maîtres de vérité dans la Grèce archaïque* et *L'Invention de la mythologie* ; Georges Dumézil, *Mythe et épopée* (référence méthodologique non appliquée aux fragments). Aucun de ces auteurs modernes n'est cité comme témoin de Chionidès.
+
+**Contrôles universitaires accessibles.** Édition commentée numérisée par l'Université de Heidelberg : 
+- https://digi.hadw-bw.de/view/frc1_1/0025 : introduction, nom et attestations ;
+- https://digi.hadw-bw.de/view/frc1_1/0035 : Aristote, *Poétique* 1448a et datation discutée ;
+- https://digi.hadw-bw.de/view/frc1_1/0037 : dossier *Hērōes* et titre ;
+- https://digi.hadw-bw.de/view/frc1_1/0040 : Pollux X, 43, fr. 1 ;
+- https://digi.hadw-bw.de/view/frc1_1/0046 : Photios et *Souda*, fr. 2 ;
+- https://digi.hadw-bw.de/view/frc1_1/0050 : analyse du fr. 3 ;
+- https://digi.hadw-bw.de/view/frc1_1/0052 : authenticité débattue des *Ptōchoi* (à ne pas confondre avec *Hērōes*).
+
+### 44. Continuité éditoriale et renvois internes [A]
+
+Le présent texte est une étude nouvelle des **seuls *Hērōes* de Chionidès**, pas des *Hērōes* de Cratès. Il complète sans répéter :
+
+- [MYTHOS — Comédies, vol. LIV (54), Cratès, *Hērōes*](https://github.com/Bobcribb/Bobcribb.github.io/blob/main/chapitres/comedies/volume-054-crates-heroes.md) : même titre transmis, autre auteur et autre dossier.
+- [MYTHOS — Comédies, vol. CXXIV (124), Myllos et la naissance disputée du théâtre comique](https://github.com/Bobcribb/Bobcribb.github.io/blob/main/chapitres/comedies/volume-124-myllos-poete-comique-proverbe-cratinos-sourde-origines.md) : questions de témoignage et d'historiographie, sans identification des personnes.
+- [MYTHOS — Comédies, vol. CXII (112), Magnès, *Lydoi*](https://github.com/Bobcribb/Bobcribb.github.io/blob/main/chapitres/comedies/volume-112-magnes-lydoi-lydiens-parfum-songes-purification-comedie-ancienne.md) : comparaisons portant sur l'ancienne comédie et son histoire, sans identité de mise en scène.
+- [MYTHOS — Comédies, vol. LIX (59), Eupolis, *Autolykos*](https://github.com/Bobcribb/Bobcribb.github.io/blob/main/chapitres/comedies/volume-059-eupolis-autolykos-corps-prestige-revisions-critique.md) : question moderne du corps, de la gloire et de la performance civique.
+
+Les renvois vers **cette nouvelle monographie** ne doivent être créés qu'après écriture et vérification de son reçu transactionnel. La variable CXXV n'est pas un numéro attribué. Aucune ancienne étude, archive ou demande n'a à être effacée pour lui ouvrir une place.
+
+**Fin du manuscrit universitaire : [A] documentation conservée ; [B] propositions et limites ; [C] scènes originales sans attribution antique.**
