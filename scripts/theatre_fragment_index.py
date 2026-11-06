@@ -51,7 +51,7 @@ def verified_editions(root: Path, output: Path, slugs=SLUGS):
     return records
 
 
-def install(root: Path, output: Path, slugs=SLUGS):
+def install(root: Path, output: Path, slugs=SLUGS, *, build_source_readers=True):
     """Crée le sommaire croisé dans le portail sans toucher aux textes sources."""
     root, output = Path(root), Path(output)
     records = verified_editions(root, output, slugs)
@@ -65,8 +65,16 @@ def install(root: Path, output: Path, slugs=SLUGS):
     # Les neuf Markdown complets reçoivent chacun un lecteur HTML autonome.
     # Les éditions critiques, les scènes modernes et les sources restent intactes.
     from theatre_source_readers import build_readers
-    if build_readers(root, output, records) != len(records):
-        raise RuntimeError('Théâtre : sources HTML incomplètes')
+    if build_source_readers:
+        if build_readers(root, output, records) != len(records):
+            raise RuntimeError('Théâtre : sources HTML incomplètes')
+    else:
+        # En production, les lecteurs ont déjà été habillés et indexés.
+        # Ne surtout pas réécrire leurs HTML avec une version non habillée.
+        for item in records:
+            reader = output / BASE / (item['slug'] + '-source.html')
+            if not reader.is_file():
+                raise RuntimeError('Théâtre : lecteur source absent après habillage : ' + str(reader))
     for previous in main.select('#theatre-comedies-editions'):
         previous.decompose()
     cards = []
