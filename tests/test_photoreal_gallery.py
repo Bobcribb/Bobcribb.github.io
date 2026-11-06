@@ -2,9 +2,10 @@
 import json
 from pathlib import Path
 from tempfile import TemporaryDirectory
+from unittest.mock import patch
 import unittest
 
-from scripts.verify_photoreal_gallery import ImagesInGallery, gallery_markup_failures, inventory, is_webp
+from scripts.verify_photoreal_gallery import ImagesInGallery, gallery_markup_failures, inventory, is_webp, verify_once
 
 
 class TestPhotorealGalleryVerification(unittest.TestCase):
@@ -28,6 +29,48 @@ class TestPhotorealGalleryVerification(unittest.TestCase):
         ):
             with self.subTest(markup=broken):
                 self.assertTrue(gallery_markup_failures(broken, [entry]))
+
+    def test_scientific_notice_json_must_be_served_and_match_build(self):
+        base = "https://bobmythos.fr"
+        image = "/assets/reconstitutions-3d/kassope-test.webp"
+        notice = "/assets/reconstitutions-3d/notices/kassope-test.json"
+        entry = {"slug": "kassope-test", "src": image, "source_url": "https://example.org/kassope",
+                 "scientific_notice": notice}
+        catalog = {"count": 1, "entries": [entry]}
+        markup = (f'<article id="kassope-test"><figure><img src="{image}" alt="Agora de Kassopè">'
+                  '<figcaption>Restitution hypothétique</figcaption></figure>'
+                  '<div class="r3d-science"><p>Degré de certitude faible pour les élévations.</p>'
+                  '<a href="https://example.org/kassope">Source</a></div></article>')
+        webp = b"RIFF" + b"\\x04\\x00\\x00\\x00" + b"WEBP" + b"test"
+        with TemporaryDirectory() as folder:
+            root = Path(folder)
+            for resource, contents in ((image, webp), (notice, b'{"id":"KAS-AGO-001"}')):
+                target = root / resource.lstrip("/")
+                target.parent.mkdir(parents=True, exist_ok=True)
+                target.write_bytes(contents)
+            responses = {
+                "/assets/reconstitutions-3d/catalogue-photorealiste.json":
+                    (200, json.dumps(catalog).encode("utf-8")),
+                "/reconstitutions-photorealistes.html": (200, markup.encode("utf-8")),
+                image: (200, webp),
+                notice: (200, b'{"id":"KAS-AGO-001"}'),
+            }
+
+            def fake_request(url):
+                return responses[url.removeprefix(base)]
+
+            with patch("scripts.verify_photoreal_gallery.request_bytes", side_effect=fake_request):
+                good = verify_once(base, root, catalog, [entry])
+                self.assertEqual(good["verified_images"], 1)
+                self.assertEqual(good["verified_notices"], 1)
+                self.assertEqual(good["failures"], [])
+                responses[notice] = (404, b"missing")
+                missing = verify_once(base, root, catalog, [entry])
+                self.assertEqual(missing["verified_notices"], 0)
+                self.assertTrue(any("HTTP 404" in v["error"] for v in missing["failures"]))
+                responses[notice] = (200, b'{"id":"WRONG"}')
+                stale = verify_once(base, root, catalog, [entry])
+                self.assertTrue(any("différente" in v["error"] for v in stale["failures"]))
 
     def test_webp_signature(self):
         self.assertTrue(is_webp(b"RIFF" + b"\x04\x00\x00\x00" + b"WEBP" + b"abc"))
