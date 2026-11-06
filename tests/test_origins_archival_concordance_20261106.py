@@ -84,7 +84,7 @@ class OriginsConcordanceTests(unittest.TestCase):
                 # La lecture demeure dans ses neuf pages, pas copiée dans la carte.
                 self.assertNotIn("Recherche académique.", result.get_text())
                 self.assertIn("ODS-CONV-XXV", result.get_text())
-                self.assertIn("Sommaire", "Sommaire")  # Sans simulation de numérotation.
+                self.assertEqual(len({a["href"] for a in result.select("a.origins-archival-card")}), 9)
                 self.assertTrue(original)
 
     def test_media_absent_arrete_la_construction(self):
