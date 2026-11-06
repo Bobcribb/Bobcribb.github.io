@@ -1961,3 +1961,24 @@ body.mythos-design .mythos-khmer-crosslinks a{min-height:44px;display:inline-fle
 body.mythos-design .mythos-khmer-study :is(.mythos-khmer-crosslinks a,.mythos-khmer-toc a,.mythos-khmer-toc summary):focus-visible{outline:3px solid #f3d18e;outline-offset:3px}
 @media(max-width:720px){body.mythos-design .mythos-khmer-study{padding-inline:clamp(.65rem,3vw,1rem)}body.mythos-design .mythos-khmer-toc>ol{columns:1;padding-left:2rem}body.mythos-design .mythos-khmer-figure{margin:1rem auto}body.mythos-design .mythos-khmer-figure figcaption{padding:.8rem;font-size:.84rem}body.mythos-design .mythos-khmer-crosslinks{flex-direction:column}body.mythos-design .mythos-khmer-crosslinks a{width:100%;box-sizing:border-box}}
 @media(prefers-reduced-motion:reduce){body.mythos-design .mythos-khmer-study *{scroll-behavior:auto!important}}
+
+/* MYTHOS — Hudhud des Ifugao, volume historique XV : iconographie documentée et lecture mobile. */
+body.mythos-design .mythos-ifugao-study{max-width:min(100%,1060px);margin-inline:auto;min-width:0}
+body.mythos-design .mythos-ifugao-study .mythos-ifugao-figure{width:min(100%,860px);max-width:100%;margin:1.7rem auto 2rem;border:1px solid #967c55;background:#111b1c;border-radius:8px;overflow:hidden}
+body.mythos-design .mythos-ifugao-study .mythos-ifugao-figure img{display:block;width:100%;height:auto;object-fit:contain}
+body.mythos-design .mythos-ifugao-study .mythos-ifugao-figure figcaption{margin:0;padding:.95rem 1.15rem;color:#ded2c0;font:400 .91rem/1.65 Georgia,serif;overflow-wrap:anywhere}
+body.mythos-design .mythos-ifugao-study .mythos-ifugao-figure figcaption a{color:#f2d7a3;text-decoration:underline;text-underline-offset:3px}
+body.mythos-design .mythos-ifugao-study .mythos-world-study-toc{margin:1.7rem 0 2.3rem}
+body.mythos-design .mythos-ifugao-study .mythos-world-study-toc summary{font-size:clamp(1.1rem,2vw,1.35rem)}
+body.mythos-design .mythos-ifugao-study .mythos-world-study-toc a{display:block;min-height:44px;padding:.35rem 0}
+body.mythos-design .mythos-ifugao-study .mythos-world-study-crosslinks{display:block;margin-top:2.4rem}
+body.mythos-design .mythos-ifugao-study :is(.mythos-ifugao-figure a,.mythos-world-study-toc a,.mythos-world-study-toc summary,.mythos-world-study-crosslinks a):focus-visible{outline:3px solid #f4d18e;outline-offset:3px}
+body.mythos-design .mythos-ifugao-study .mythos-text-anchor{scroll-margin-top:135px}
+@media(max-width:720px){
+ body.mythos-design .mythos-ifugao-study{padding-inline:clamp(.65rem,3vw,1rem);width:100%}
+ body.mythos-design .mythos-ifugao-study .mythos-ifugao-figure{margin:1.15rem 0}
+ body.mythos-design .mythos-ifugao-study .mythos-ifugao-figure figcaption{font-size:.86rem;padding:.8rem}
+ body.mythos-design .mythos-ifugao-study .mythos-world-study-toc>ol{columns:1!important;padding-left:1.65rem}
+ body.mythos-design .mythos-ifugao-study .mythos-world-study-crosslinks a{padding:.65rem .35rem;min-height:44px}
+}
+@media(prefers-reduced-motion:reduce){body.mythos-design .mythos-ifugao-study *{scroll-behavior:auto!important}}
