@@ -92,7 +92,7 @@ def install(root: Path, out: Path) -> int:
     # Le sommaire ne reprend pas le texte : il le relie à son source intact.
     items = "".join(
         '<li><a href="/corpus/philosophie/eneide/'
-        + html.escape(name, quote=True) + '">'
+        + html.escape(name.removesuffix(".md") + ".html", quote=True) + '">'
         + html.escape(title) + '</a></li>'
         for (name, _), title in zip(source_texts, title_labels)
     )
@@ -157,6 +157,11 @@ def install(root: Path, out: Path) -> int:
         target = out / SOURCE_DIR / name
         target.parent.mkdir(parents=True, exist_ok=True)
         shutil.copyfile(root / SOURCE_DIR / name, target)
+    # Éditions HTML autonomes : le Markdown original reste accessible octet pour octet.
+    # Aucun numéro canonique n'est attribué, les sources ne sont pas réécrites.
+    from eneide_readers import build_readers
+    if build_readers(out, source_texts, title_labels, SOURCE_DIR) != len(NAMES):
+        raise RuntimeError("Énéide : lecteurs HTML incomplets")
     # BeautifulSoup ajoute parfois un saut de ligne au DOCTYPE à chaque
     # aller-retour. Normaliser uniquement cet espace, sans toucher aux textes.
     def serialize(page: BeautifulSoup) -> str:
