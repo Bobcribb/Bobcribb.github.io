@@ -34,7 +34,6 @@ class TheatreSourceReadersTests(unittest.TestCase):
                     self.assertEqual(len(doc.select(".theatre-original-toc")), 1)
                     self.assertGreaterEqual(len(doc.select(".theatre-original-toc li a")), 2)
                     self.assertTrue(all(
-                        doc.select_one(anchor["href"]) if False else
                         doc.find(id=anchor["href"][1:]) is not None
                         for anchor in doc.select(".theatre-original-toc a[href^='#']")
                     ))
