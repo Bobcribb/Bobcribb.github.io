@@ -37,3 +37,11 @@ Conserver les volumes canoniques, les deux études historiques 583, les concorda
 | Comparatif MC-102 — danse divine | Metropolitan Museum, Śiva Naṭarāja 1987.80.1 | Note de catalogue vérifiée, en PR |
 
 Ce premier lot est un **échantillon de trois études**, non une validation de l'ensemble du corpus.
+
+## Complément — Bibliographie et recherches françaises (7 novembre 2026)
+
+Le programme intègre les chercheurs français **Jean-Pierre Vernant, Nicole Loraux, Françoise Frontisi-Ducroux, Jean Bottéro, Dominique Charpin, Nicolas Grimal, Françoise Dunand, Christiane Zivie-Coche et Pierre Briant**. Leurs œuvres et les catalogues institutionnels correspondants figurent dans [`docs/REFERENCES_CHERCHEURS_FRANCAIS_2026-11-07.md`](REFERENCES_CHERCHEURS_FRANCAIS_2026-11-07.md).
+
+Le traitement est **thématique**, sans préférence d'autorité automatique liée à la nationalité. Ajouter ces ouvrages lorsqu'ils éclairent réellement la tradition étudiée, en conservant les références des auteurs internationaux. Avant de transformer une référence de cadrage en note sur une affirmation précise, **consulter le passage exact du livre ou de l'article** : une notice BnF, CNRS ou Collège de France certifie une œuvre et son auteur mais ne prouve pas que l'auteur a énoncé un argument dans cette formulation. Ne jamais annoncer une évaluation ou un accord des chercheurs sans contribution attestée.
+
+Les ajouts de cette étape sont des annexes documentaires sur une branche de PR, sans suppression des manuscrits, et ne modifient pas la planification horaire.
