@@ -5,94 +5,63 @@
   "branch": "main",
   "latest_session": {
     "date": "2026-11-06",
-    "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "previous_kind": "AUDIT ET CORRECTION",
-    "next_kind": "AUDIT ET CORRECTION",
-    "scope": "Séance 62 : enrichissement documentaire des analyses longues Iliade XVII et Odyssée XII (deux schémas 2D nouveaux explicitement interprétatifs) et iconographie antique d'Aphrodite dans la Théogonie (Peintre de Pistoxénos, vers 460 av. J.-C.).",
-    "basis_commit": "28ccfbcf24d3725d962c3072ca3a6b7ede1f482c",
-    "pages_modified": [
-      "philosophie-iliade.html",
-      "philosophie-odyssee.html",
-      "philosophie-theogonie.html"
-    ],
-    "assets_added": [
-      "assets/philosophie/iliade-patrocle-corps-devoir-s62-20261106.svg",
-      "assets/philosophie/odyssee-sirenes-engagement-s62-20261106.svg"
-    ],
-    "reused_asset": "media/2026/10/mythos-aphrodite-cygne-kylix-british-museum.jpg",
-    "test_added": "tests/test_iconography_session62_epics.py",
-    "figures": [
-      {
-        "page": "philosophie-iliade.html",
-        "id": "icono-iliade-patrocle-corps-devoir-s62-20261106",
-        "src": "/assets/philosophie/iliade-patrocle-corps-devoir-s62-20261106.svg",
-        "status": "schéma 2D contemporain assisté par IA ; non historique",
-        "source": "Homère, Iliade XVII"
-      },
-      {
-        "page": "philosophie-odyssee.html",
-        "id": "icono-odyssee-sirenes-engagement-s62-20261106",
-        "src": "/assets/philosophie/odyssee-sirenes-engagement-s62-20261106.svg",
-        "status": "schéma 2D contemporain assisté par IA ; non historique",
-        "source": "Homère, Odyssée XII"
-      },
-      {
-        "page": "philosophie-theogonie.html",
-        "id": "icono-theogonie-aphrodite-cygne-pistoxenos-s62-20261106",
-        "src": "/media/2026/10/mythos-aphrodite-cygne-kylix-british-museum.jpg",
-        "status": "photographie d'un artefact antique authentique, non générée par IA",
-        "source": "British Museum, vase D 2 ; Wikimedia Commons CC BY 2.5"
-      }
-    ],
-    "precommit_audit": {
-      "repository_tree_entries": 5450,
-      "checks": {
-        "philosophie-iliade.html": {
-          "html_before": 431531,
-          "html_after": 432804,
-          "images_before": 36,
-          "images_after": 37,
-          "anchors": 111,
-          "broken_anchors": 0,
-          "local_resources": 44,
-          "missing_resources": 0,
-          "duplicate_ids": 0
-        },
-        "philosophie-odyssee.html": {
-          "html_before": 413001,
-          "html_after": 414307,
-          "images_before": 35,
-          "images_after": 36,
-          "anchors": 111,
-          "broken_anchors": 0,
-          "local_resources": 43,
-          "missing_resources": 0,
-          "duplicate_ids": 0
-        },
-        "philosophie-theogonie.html": {
-          "html_before": 416774,
-          "html_after": 418445,
-          "images_before": 35,
-          "images_after": 36,
-          "anchors": 113,
-          "broken_anchors": 0,
-          "local_resources": 43,
-          "missing_resources": 0,
-          "duplicate_ids": 0
-        }
-      },
-      "all_prior_html_preserved_except_inserted_figures": true,
-      "unique_assets_verified": true,
-      "original_sources_verified": "Theoi : Iliade XVII et Odyssée XII ; British Museum vase D 2 via Wikimedia Commons (photo Marie-Lan Nguyen, CC BY 2.5).",
-      "pagination_a4_prior_referenced": {
-        "iliade": 107,
-        "odyssee": 101,
-        "theogonie": 103
-      }
+    "kind": "AUDIT ET CORRECTION",
+    "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "scope": "Séance 63 : audit post-iconographie de la PR 62 fusionnée, vérifications HTML et liens de onze pages, et correction du test d'alternance figé sur la séance 62.",
+    "basis_commit": "e025f7d46e8b32948d32a5b2e5ffaad57caa0158",
+    "verified_issue": "tests/test_iconography_session62_epics.py imposait que latest_session.scope commence toujours par « Séance 62 : » ; l'ajout normal de la séance 63 entraînerait un échec de CI.",
+    "correction": "Retrouver l'unique séance 62 dans history par son scope, vérifier le précédent, le suivant si présent et le seuil de pagination A4 historique, sans exiger qu'elle reste la dernière.",
+    "prior_merge": {
+      "pull_request": 62,
+      "merge_commit": "e025f7d46e8b32948d32a5b2e5ffaad57caa0158",
+      "validation_run": 42154136452,
+      "validation_status": "success",
+      "integrity_run": 42154136332,
+      "integrity_status": "success"
     },
-    "preservation": "Aucun changement de texte source, numéro, chapitres/, editorial/inbox, editorial/numbering.json, navigation, CSS/JS, automatisations horaires ; aucune reconstitution 2,5D.",
-    "deployment": "À confirmer par GitHub Actions et par contrôle HTTPS du site bobmythos.fr ; un commit sur branche/PR ne vaut pas publication.",
-    "limits": "Contrôles statiques ciblés ; pagination A4 antérieure, non recalculée. Aucun navigateur responsive réel ni audit exhaustif des liens externes dans cette séance."
+    "audit_evidence": {
+      "checked_html_pages": 11,
+      "checked_pages": [
+        "index.html",
+        "mythologie-grecque/index.html",
+        "origines-du-sacre/index.html",
+        "philosophie/index.html",
+        "philosophie-iliade.html",
+        "philosophie-odyssee.html",
+        "philosophie-theogonie.html",
+        "heros-achille/index.html",
+        "heros-hector/index.html",
+        "heros-penelope/index.html",
+        "reconstitutions-photorealistes.html"
+      ],
+      "internal_fragments_checked": 521,
+      "broken_same_page_fragments": 0,
+      "images_checked": 280,
+      "images_without_alt": 0,
+      "duplicate_html_ids": 0,
+      "local_source_references_checked": 2499,
+      "missing_local_source_targets": 0,
+      "stylesheets_referenced": 50,
+      "local_js_references": 28,
+      "viewport_present_on_all_checked_pages": true,
+      "h1_count_one_per_checked_page": true,
+      "full_repo_tree_entries_at_first_read": 5461,
+      "public_manifest_source_commit": "fabb3cd46c62a177bb0541b23015339a60ebcc1e",
+      "public_manifest_run_id": 42153925962,
+      "session62_figures_observed_on_live_pages": false,
+      "public_deployment": "Manifeste HTTPS et trois pages publiques consultés ; absence des identifiants des figures séance 62. Publication du commit fusionné non confirmée.",
+      "reference_verification": "Homère Iliade XVII et Odyssée XII (Theoi). Objet Aphrodite/oie-cygne : British Museum D2, attribution Pistoxénos vers 460 av. J.-C. confirmée par l'INHA (AGORHA).",
+      "limitations": "Audit statique ciblé de 11 pages, non audit HTML complet de 1 642 pages ; sans test navigateur visuel responsive ni campagne exhaustive HTTP des liens externes. Résultat de la CI du nouveau commit à contrôler."
+    },
+    "changed_files": [
+      "tests/test_iconography_session62_epics.py",
+      "docs/MYTHOS_ICONOGRAPHIE_ALTERNANCE.json"
+    ],
+    "preservation": "Aucune modification des textes universitaires, ressources SVG/JPG/WebP, numéros, chapitres, slugs, registre éditorial, navigation ou workflows/horaires.",
+    "commits": [],
+    "publication_status": "Correction commitée sur GitHub uniquement ; déploiement HTTPS à vérifier séparément.",
+    "obstacles": "Exécutions GitHub Pages concurrentes / annulées et manifeste public encore antérieur au merge de la séance 62."
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
   "history": [
@@ -3754,6 +3723,66 @@
       "preservation": "Aucun changement de texte source, numéro, chapitres/, editorial/inbox, editorial/numbering.json, navigation, CSS/JS, automatisations horaires ; aucune reconstitution 2,5D.",
       "deployment": "À confirmer par GitHub Actions et par contrôle HTTPS du site bobmythos.fr ; un commit sur branche/PR ne vaut pas publication.",
       "limits": "Contrôles statiques ciblés ; pagination A4 antérieure, non recalculée. Aucun navigateur responsive réel ni audit exhaustif des liens externes dans cette séance."
+    },
+    {
+      "date": "2026-11-06",
+      "kind": "AUDIT ET CORRECTION",
+      "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "scope": "Séance 63 : audit post-iconographie de la PR 62 fusionnée, vérifications HTML et liens de onze pages, et correction du test d'alternance figé sur la séance 62.",
+      "basis_commit": "e025f7d46e8b32948d32a5b2e5ffaad57caa0158",
+      "verified_issue": "tests/test_iconography_session62_epics.py imposait que latest_session.scope commence toujours par « Séance 62 : » ; l'ajout normal de la séance 63 entraînerait un échec de CI.",
+      "correction": "Retrouver l'unique séance 62 dans history par son scope, vérifier le précédent, le suivant si présent et le seuil de pagination A4 historique, sans exiger qu'elle reste la dernière.",
+      "prior_merge": {
+        "pull_request": 62,
+        "merge_commit": "e025f7d46e8b32948d32a5b2e5ffaad57caa0158",
+        "validation_run": 42154136452,
+        "validation_status": "success",
+        "integrity_run": 42154136332,
+        "integrity_status": "success"
+      },
+      "audit_evidence": {
+        "checked_html_pages": 11,
+        "checked_pages": [
+          "index.html",
+          "mythologie-grecque/index.html",
+          "origines-du-sacre/index.html",
+          "philosophie/index.html",
+          "philosophie-iliade.html",
+          "philosophie-odyssee.html",
+          "philosophie-theogonie.html",
+          "heros-achille/index.html",
+          "heros-hector/index.html",
+          "heros-penelope/index.html",
+          "reconstitutions-photorealistes.html"
+        ],
+        "internal_fragments_checked": 521,
+        "broken_same_page_fragments": 0,
+        "images_checked": 280,
+        "images_without_alt": 0,
+        "duplicate_html_ids": 0,
+        "local_source_references_checked": 2499,
+        "missing_local_source_targets": 0,
+        "stylesheets_referenced": 50,
+        "local_js_references": 28,
+        "viewport_present_on_all_checked_pages": true,
+        "h1_count_one_per_checked_page": true,
+        "full_repo_tree_entries_at_first_read": 5461,
+        "public_manifest_source_commit": "fabb3cd46c62a177bb0541b23015339a60ebcc1e",
+        "public_manifest_run_id": 42153925962,
+        "session62_figures_observed_on_live_pages": false,
+        "public_deployment": "Manifeste HTTPS et trois pages publiques consultés ; absence des identifiants des figures séance 62. Publication du commit fusionné non confirmée.",
+        "reference_verification": "Homère Iliade XVII et Odyssée XII (Theoi). Objet Aphrodite/oie-cygne : British Museum D2, attribution Pistoxénos vers 460 av. J.-C. confirmée par l'INHA (AGORHA).",
+        "limitations": "Audit statique ciblé de 11 pages, non audit HTML complet de 1 642 pages ; sans test navigateur visuel responsive ni campagne exhaustive HTTP des liens externes. Résultat de la CI du nouveau commit à contrôler."
+      },
+      "changed_files": [
+        "tests/test_iconography_session62_epics.py",
+        "docs/MYTHOS_ICONOGRAPHIE_ALTERNANCE.json"
+      ],
+      "preservation": "Aucune modification des textes universitaires, ressources SVG/JPG/WebP, numéros, chapitres, slugs, registre éditorial, navigation ou workflows/horaires.",
+      "commits": [],
+      "publication_status": "Correction commitée sur GitHub uniquement ; déploiement HTTPS à vérifier séparément.",
+      "obstacles": "Exécutions GitHub Pages concurrentes / annulées et manifeste public encore antérieur au merge de la séance 62."
     }
   ]
 }
