@@ -31,3 +31,16 @@ Le menu natif `<details>` était déjà compatible avec le clavier et les lecteu
 Les changements touchent exclusivement le CSS partagé, les contrôles navigateur et les tests, plus le présent rapport. Ils **ne modifient** aucun manuscrit, registre `editorial/numbering.json`, fichier `editorial/inbox/`, image, reconstitution photoréaliste, texte d'archive ou workflow de planification.
 
 La fusion GitHub n'est pas à elle seule une preuve de déploiement. Contrôler successivement les tests GitHub Actions, l'audit, le workflow de publication Pages, puis la version HTTPS et l'en-tête mobile réel. Le manifeste public doit ensuite annoncer un commit source qui contient cette correction.
+
+## Rectification du contrôle navigateur — incident de séquencement
+
+Le lancement indépendant `42258572814`, déclenché dès la fusion du correctif `91557ffd09227b6c12253cf1a753f0aeec8db226`, a signalé **25 × 25 px** sur `/mythologie-grecque/`. Cette mesure concerne l'ancienne version **encore servie par bobmythos.fr** ; elle ne prouve pas une régression du CSS de la branche fusionnée. Le navigateur était exécuté avant la publication correspondante.
+
+Pour que les contrôles soient techniquement significatifs :
+
+- `verify-greek-navigation.yml` conserve son audit indépendant sur push (navigation, liens, absence de débordement), mais **ne force pas** la condition 44 px avant le déploiement.
+- `publish.yml`, sans changement de déclencheurs, de planifications ou de concurrence, transmet `MYTHOS_ENFORCE_TOUCH_TARGETS: '1'` seulement lors de son contrôle navigateur **après** `actions/deploy-pages@v4`.
+- `scripts/verify_greek_navigation.cjs` exige alors les surfaces 44 × 44 sur tous les formats et le non-chevauchement à 360 px, et conserve une capture ; le rapport inclut le mode de contrôle.
+- Un test de non-régression vérifie la présence de cette condition dans les deux circuits et son ordre après déploiement.
+
+**Statut d'intégration et de publication à distinguer :** même si les fichiers sont fusionnés dans `main`, seul un nouveau workflow Pages réussi, suivi des mesures du site public en mode strict, autorise à conclure que la correction mobile est effectivement visible.
