@@ -411,6 +411,22 @@ def enhance(out, root):
         source=root/(record.get('source') or path.relative_to(out))
         record['source']=source.relative_to(root).as_posix()
         record['source_sha256']=sha256(source.read_bytes()).hexdigest() if source.is_file() else None
+        # Historical readers with archived source boundaries have their own
+        # verified contents lists, figure credits and text anchors. Replacing
+        # them with generic reading controls destroys those provenance guards.
+        # Still index their metadata, but keep the published HTML immutable.
+        protected_readers = {
+            '/bibliotheque-mythologies-du-monde/mythos-volume-14-khmer-angkor-cosmogonies/':
+                'details.mythos-khmer-toc',
+            '/bibliotheque-mythologies-du-monde/mythos-volume-15-philippines-ifugao-hudhud/':
+                'details.mythos-world-study-toc',
+        }
+        protected_toc = protected_readers.get(entry['url'])
+        if protected_toc:
+            if not doc.select_one('.mythos-original-study') or not doc.select_one(protected_toc):
+                raise RuntimeError('Lecteur historique protégé incomplet : ' + entry['url'])
+            complete.append(record)
+            continue
         add_reading(doc,entry['url'],record)
         # All pages retain the approved visual identity; this layer adds controls.
         if doc.head:
