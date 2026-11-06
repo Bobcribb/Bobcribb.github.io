@@ -1,0 +1,58 @@
+{
+  "id": "SPA-MEN-001",
+  "slug": "sparte-therapne-menelaion-terrasses-naiskos-vers-450-av-jc",
+  "title": "Sparte (Thérapné) — Ménélaion d’Hélène et de Ménélas, terrasses et sanctuaire, vers 450 av. J.-C.",
+  "period": "Ve siècle av. J.-C. : évocation d’un état vers 450 av. J.-C. ; origine du culte dès la fin du VIIIe ou le début du VIIe siècle.",
+  "caption": "Vue numérique photoréaliste interprétative du Ménélaion sur les hauteurs de Thérapné : plateformes étagées, rampe d’accès, petit édifice sommital conjectural et vallée de l’Eurotas face au Taygète.",
+  "commentary": "Le Ménélaion (Μενελάειον) occupe une hauteur du secteur de Thérapné, à l’est de l’Eurotas, face à la plaine de Sparte et à la chaîne du Taygète. Ce sanctuaire était associé à Hélène et Ménélas, personnages de l’épopée et de la mémoire locale lacédémonienne. Il ne constitue pas pour autant une preuve archéologique de l’existence historique des personnages homériques ni l’identification certaine de leurs sépultures. La question de leur statut cultuel — puissances divinisées ou héros — demeure débattue dans la recherche. Les campagnes menées par la British School at Athens dès 1909, prolongées au XXe siècle par les fouilles de H. W. Catling et d’autres chercheurs, ont identifié un ensemble de podiums et de terrasses construit en plusieurs phases, sur un paysage également occupé à l’époque mycénienne. L’espace comprenait une plateforme rectangulaire élevée, reposant sur un soubassement et accessible par une rampe ; des terrasses de soutènement furent ajoutées ou remaniées. La nature exacte de la construction portée par le podium est incertaine : les premiers fouilleurs ont envisagé un petit temple, sans disposer d’une preuve concluante permettant de restituer une façade ou une toiture définitive. La pratique cultuelle se développe dès la fin du VIIIe ou le début du VIIe siècle av. J.-C., puis le lieu fait l’objet de monumentalisation à l’époque archaïque et de reprises au début du Ve siècle av. J.-C. L’image figure volontairement un état possible vers 450 av. J.-C., sans prétendre identifier l’année du chantier ; elle ne doit pas être lue comme le relevé d’une stratigraphie précisément datée. Les travaux scientifiques récents, notamment N. Pavlides dans Hesperia (2025), interprètent ce sanctuaire comme un lieu de mémoire du passé régional, dans le contexte de la formation et de la représentation de la communauté spartiate. La vue montre le podium étagé dominant l’Eurotas et son accès en rampe, avec un petit naiskos à toiture de tuiles placé au sommet pour rendre perceptible l’hypothèse d’une superstructure cultuelle. Ce naiskos, ses dimensions, sa position précise, ses matériaux et sa forme rectangulaire ne sont pas attestés avec la précision représentée. Le sanctuaire n’est pas restitué comme un immense temple périptère dorique : son ordonnance exacte demeure inconnue. Le monument votif et l’autel fumant, les couronnes suspendues, la végétation, les vêtements des visiteurs et le dessin du bâti lointain de Sparte sont des choix artistiques. Même lorsque la topographie générale est plausible, l’axe visuel, le relief proche, les proportions des murs, les parements et la hauteur exacte de la rampe ne résultent pas d’un relevé topographique ou photogrammétrique. Les maisons et fortifications de la ville visibles dans le lointain ne prétendent pas reproduire un état urbain établi pour l’année 450. Sous le sanctuaire, les traces de maisons mycéniennes appartiennent à d’autres périodes et ne doivent pas être assimilées au petit bâtiment cultuel proposé en haut des terrasses. La présente image est une restitution visuelle numérique à apparence 3D, non un modèle archéométrique mesurable, une preuve historique ou une reconstitution approuvée par les institutions citées.",
+  "certainty": "ÉLEVÉ : emplacement du Ménélaion à Thérapné, sur la rive orientale de l’Eurotas ; lien cultuel à Hélène et Ménélas ; présence de plateformes en pierre, d’une rampe et de terrasses remaniées ; traces d’occupation mycénienne dans le secteur ; existence de pratiques cultuelles dès la fin du VIIIe ou le début du VIIe siècle av. J.-C. MOYEN : reconstruction du complexe au début du Ve siècle, choix d’un état vers 450 av. J.-C., volumes relatifs du podium et des soutènements, paysage général de l’Eurotas. FAIBLE : fonction et forme exactes du bâtiment sommital ; naiskos et toiture figurés, matériaux et hauteur des élévations, localisation de l’autel, ornements, offrandes, vêtements, habitants, végétation, bâti urbain lointain, lumière et dimensions métriques.",
+  "source_url": "https://digital.bsa.ac.uk/fieldwork.php?project=169",
+  "secondary_sources": [
+    "https://www.bsa.ac.uk/2022/02/24/sparta-begins-1906-1910-bsa-sparta-excavations-in-the-sphs-collection/",
+    "https://ascsa.edu.gr/publications/hesperia/article/94/3/305-341",
+    "https://realsparta.gr/en-us/What-to-do/Archaelogical-Sites-Monuments/Menelaion",
+    "https://academic.oup.com/edited-volume/61673/chapter-abstract/549653472"
+  ],
+  "src": "/assets/reconstitutions-3d/sparte-therapne-menelaion-terrasses-naiskos-vers-450-av-jc.webp",
+  "image": "/assets/reconstitutions-3d/sparte-therapne-menelaion-terrasses-naiskos-vers-450-av-jc.webp",
+  "width": 1672,
+  "height": 941,
+  "created_at": "2026-11-06",
+  "type": "reconstitution visuelle numérique photoréaliste à apparence 3D, non métrique",
+  "provenance": "Image originale générée pour MYTHOS : sans menus, logos, textes incrustés ni schéma 2,5D ; les institutions citées n’ont ni conçu ni approuvé le rendu.",
+  "sha256": "2ae074965718cde1beefda014134e13b2b995b4754d7effa56bcb2a37a46e930",
+  "scientific_notice": "/assets/reconstitutions-3d/notices/sparte-therapne-menelaion-terrasses-naiskos-vers-450-av-jc.json",
+  "scientific_sources": [
+    {
+      "label": "British School at Athens — Digital Collections, fouilles du Ménélaion de 1909 : podium, rampes, terrasses et incertitude sur la superstructure",
+      "url": "https://digital.bsa.ac.uk/fieldwork.php?project=169",
+      "kind": "archive institutionnelle"
+    },
+    {
+      "label": "British School at Athens — Sparta Begins, bilan des fouilles et chronologie des vestiges",
+      "url": "https://www.bsa.ac.uk/2022/02/24/sparta-begins-1906-1910-bsa-sparta-excavations-in-the-sphs-collection/",
+      "kind": "institution"
+    },
+    {
+      "label": "Nicolette Pavlides, « Memoryscape at the Spartan Menelaion », Hesperia 94.3 (2025), p. 305–341",
+      "url": "https://ascsa.edu.gr/publications/hesperia/article/94/3/305-341",
+      "kind": "article scientifique"
+    },
+    {
+      "label": "Municipalité de Sparte — Menelaion, position et étapes monumentales",
+      "url": "https://realsparta.gr/en-us/What-to-do/Archaelogical-Sites-Monuments/Menelaion",
+      "kind": "patrimoine municipal"
+    },
+    {
+      "label": "Oxford Classical Dictionary — « Menelaion », présentation des vestiges et débats cultuels",
+      "url": "https://academic.oup.com/edited-volume/61673/chapter-abstract/549653472",
+      "kind": "encyclopédie universitaire"
+    }
+  ],
+  "primary_texts": [
+    "Pausanias, Description de la Grèce III, 19.9 : récit relatif à Hélène et au site de Thérapné, témoignage tardif.",
+    "Isocrate, Éloge d’Hélène 63 : tradition de cultes héroïques/divinisants ; datation et portée à contrôler en édition critique."
+  ],
+  "methodology": "Évocation archéologique argumentée à partir des plateformes et de la rampe attestées ; aucun relevé métrique ni reconstitution validée ; restitution hypothétique d’un petit édifice sommital.",
+  "publication_status": "branch_committed_pending_https_verification"
+}
