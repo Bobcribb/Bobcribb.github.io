@@ -360,6 +360,10 @@ RECENT_FIGURES = (
     ("philosophie-theogonie.html", "icono-theogonie-tartare-limites-s78-20261106",
      "/assets/philosophie/theogonie-tartare-limites-s78-20261106.svg"),
 
+    # Séance 80 : schéma sur Briséis, source philologique et statut IA à vérifier sur HTTPS.
+    ("philosophie-iliade.html", "icono-iliade-briseis-deuil-parole-s80-20261106",
+     "/assets/philosophie/iliade-briseis-deuil-parole-s80-20261106.svg"),
+
 )
 
 

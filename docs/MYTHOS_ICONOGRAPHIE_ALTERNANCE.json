@@ -5,36 +5,50 @@
   "branch": "main",
   "latest_session": {
     "date": "2026-11-06",
-    "session_number": 79,
-    "kind": "AUDIT ET CORRECTION",
-    "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "source_pr_head_at_review": "c5f42cdecf4f58e27807e95ad64fc8aebf1c27bd",
-    "scope": "Audit des trois monographies philosophiques et du Nibelungenlied, des images et des fichiers CSS/JS; fermeture d'un faux positif du validateur des SVG lors du contrôle HTTPS.",
-    "checks": {
-      "html_pages": 4,
-      "html_ids": 413,
-      "same_page_hash_links": 360,
-      "broken_same_page_anchors": 0,
-      "img_elements": 130,
-      "images_without_alt": 0,
-      "unsafe_blank_targets": 0,
-      "local_svg_references_in_philosophy_pages": 55,
-      "local_css_js_paths": 10,
-      "missing_css_js_paths": 0
-    },
-    "verified_problem": "Les contrôles SVG acceptaient un simple marqueur b'<svg' présent dans les premiers octets, y compris un faux fichier HTML contenant ce texte en commentaire; la vérification SHA-256 ne corrigeait pas l'absence de validation XML dans la source.",
-    "correction": "Validation XML du document SVG et de l'élément racine avec ElementTree dans scripts/verify_live_site.py ; même garde utilisé dans l'inventaire SVG, les figures ciblées et les figures récentes, pour le build comme pour le domaine public.",
-    "tests": "Nouveau tests/test_iconography_session79_svg_audit.py : rejette HTML avec un faux marqueur SVG, XML mal formé, racine HTML ; protège les SVG des séances 76 et 78 et la présence de leurs figures sourcées. Vérification statique préalable de 4 HTML et 10 CSS/JS ; CI GitHub Actions en attente de confirmation.",
-    "preservation": "Aucune étude, citation, chapitre, numérotation canonique, UUID, reçu, registre, media, navigation, style de production ou planification modifié. Aucune nouvelle illustration 2,5D.",
-    "publication_status": "Code et tests sur la branche de la PR n° 130, pas fusionnée sur main. Le site HTTPS n'a pas pu être contrôlé directement ; aucune nouvelle publication publique annoncée.",
-    "obstacles": "Validation externe de bobmythos.fr indisponible sur les outils de consultation ; CI et résolution de la PR concurrente à confirmer. Tests visuels responsive et pagination PDF A4 non exécutés.",
-    "next_session": "Séance 80 — ENRICHISSEMENT ICONOGRAPHIQUE",
-    "commits": [
-      "280c75e57c228c8cd3bdb66de78863c9d03f63cb",
-      "7fe20e3233b58f68d6ab6fd0c3f8064135fb4162"
+    "session_number": 80,
+    "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "previous_kind": "AUDIT ET CORRECTION",
+    "next_kind": "AUDIT ET CORRECTION",
+    "previous_session": 79,
+    "source_pr_head_at_review": "1a195a4fb0b13cae7a7ecda2b309d5717811e7cc",
+    "scope": "Ajout à la section 16 de philosophie-iliade.html d'un diagramme 2D original sur Briséis (géras, lamentation, distinction critique entre voix et captivité).",
+    "page": "philosophie-iliade.html",
+    "section": "lecture-section-16",
+    "figure_id": "icono-iliade-briseis-deuil-parole-s80-20261106",
+    "asset": "/assets/philosophie/iliade-briseis-deuil-parole-s80-20261106.svg",
+    "primary_references": [
+      "Homère, Iliade I, 318–348 ; XIX, 282–302",
+      "https://beta.perseus.tufts.edu/urn%3Acts%3AgreekLit%3Atlg0012.tlg001.perseus-grc2%3A19.276/"
     ],
-    "commit_note": "Le commit du journal est à relever dans la réponse GitHub, puis relire la branche et les chemins."
+    "date_of_creation": "6 novembre 2026",
+    "image_status": "Schéma éditorial contemporain réalisé avec assistance IA, non artefact antique ni reconstitution archéologique.",
+    "checks": {
+      "figures_before": 43,
+      "figures_after": 44,
+      "html_ids_before": 129,
+      "html_ids_after": 130,
+      "duplicate_ids": 0,
+      "local_hash_anchors": 111,
+      "broken_local_hash_anchors": 0,
+      "html_preexisting_content_preserved": true,
+      "https_figure_inventory_after": 69,
+      "distinct_media_after": 50,
+      "inventory_pages": 13
+    },
+    "modifications": [
+      "philosophie-iliade.html",
+      "assets/philosophie/iliade-briseis-deuil-parole-s80-20261106.svg",
+      "scripts/verify_live_site.py",
+      "tests/test_verify_live_site_assets.py",
+      "tests/test_iconography_session80_briseis.py",
+      "docs/MYTHOS_ICONOGRAPHIE_ALTERNANCE.json"
+    ],
+    "tests": "Contrôles statiques avant commit : une figure et un ID ajoutés, HTML initial inchangé, aucune ancre cassée ni ID dupliqué. Nouveau test S80 du statut IA et de la conformité SVG, vérificateur HTTPS étendu; CI complète à confirmer.",
+    "preservation": "Aucun manuscrit, numéro canonique, UUID, reçu, registre, menu, CSS/JS de production ni planification horaire changé ; aucune perspective 2,5D.",
+    "publication_status": "Modifications proposées sur la PR n° 130 ; fusion dans main, déploiement Pages et HTTPS bobmythos.fr non attestés. Branche actuellement en conflit avec main, résolution séparée requise.",
+    "next_session": "Séance 81 — AUDIT ET CORRECTION",
+    "commits": [],
+    "commit_note": "Commit atomique attendu, SHA du commit à relever et fichiers à relire après écriture."
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
   "history": [
@@ -4768,6 +4782,53 @@
         "7fe20e3233b58f68d6ab6fd0c3f8064135fb4162"
       ],
       "commit_note": "Le commit du journal est à relever dans la réponse GitHub, puis relire la branche et les chemins."
+    },
+    {
+      "date": "2026-11-06",
+      "session_number": 80,
+      "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "previous_kind": "AUDIT ET CORRECTION",
+      "next_kind": "AUDIT ET CORRECTION",
+      "previous_session": 79,
+      "source_pr_head_at_review": "1a195a4fb0b13cae7a7ecda2b309d5717811e7cc",
+      "scope": "Ajout à la section 16 de philosophie-iliade.html d'un diagramme 2D original sur Briséis (géras, lamentation, distinction critique entre voix et captivité).",
+      "page": "philosophie-iliade.html",
+      "section": "lecture-section-16",
+      "figure_id": "icono-iliade-briseis-deuil-parole-s80-20261106",
+      "asset": "/assets/philosophie/iliade-briseis-deuil-parole-s80-20261106.svg",
+      "primary_references": [
+        "Homère, Iliade I, 318–348 ; XIX, 282–302",
+        "https://beta.perseus.tufts.edu/urn%3Acts%3AgreekLit%3Atlg0012.tlg001.perseus-grc2%3A19.276/"
+      ],
+      "date_of_creation": "6 novembre 2026",
+      "image_status": "Schéma éditorial contemporain réalisé avec assistance IA, non artefact antique ni reconstitution archéologique.",
+      "checks": {
+        "figures_before": 43,
+        "figures_after": 44,
+        "html_ids_before": 129,
+        "html_ids_after": 130,
+        "duplicate_ids": 0,
+        "local_hash_anchors": 111,
+        "broken_local_hash_anchors": 0,
+        "html_preexisting_content_preserved": true,
+        "https_figure_inventory_after": 69,
+        "distinct_media_after": 50,
+        "inventory_pages": 13
+      },
+      "modifications": [
+        "philosophie-iliade.html",
+        "assets/philosophie/iliade-briseis-deuil-parole-s80-20261106.svg",
+        "scripts/verify_live_site.py",
+        "tests/test_verify_live_site_assets.py",
+        "tests/test_iconography_session80_briseis.py",
+        "docs/MYTHOS_ICONOGRAPHIE_ALTERNANCE.json"
+      ],
+      "tests": "Contrôles statiques avant commit : une figure et un ID ajoutés, HTML initial inchangé, aucune ancre cassée ni ID dupliqué. Nouveau test S80 du statut IA et de la conformité SVG, vérificateur HTTPS étendu; CI complète à confirmer.",
+      "preservation": "Aucun manuscrit, numéro canonique, UUID, reçu, registre, menu, CSS/JS de production ni planification horaire changé ; aucune perspective 2,5D.",
+      "publication_status": "Modifications proposées sur la PR n° 130 ; fusion dans main, déploiement Pages et HTTPS bobmythos.fr non attestés. Branche actuellement en conflit avec main, résolution séparée requise.",
+      "next_session": "Séance 81 — AUDIT ET CORRECTION",
+      "commits": [],
+      "commit_note": "Commit atomique attendu, SHA du commit à relever et fichiers à relire après écriture."
     }
   ]
 }
