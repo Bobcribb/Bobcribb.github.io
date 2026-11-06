@@ -5,79 +5,64 @@
   "branch": "main",
   "latest_session": {
     "date": "2026-11-06",
-    "kind": "AUDIT ET CORRECTION",
-    "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "scope": "Séance 67 : reprise conservatoire de la PR 69 sur le main récent, réparation de la concurrence GitHub et audit post-iconographie des pages épiques.",
-    "basis_commit": "71cd5686b70b74c1aee9954c6e2574402558221f",
-    "verified_obstacle": "PR 69 en conflit (mergeable_state dirty) après 19 commits nouveaux sur main, dont correctifs du générateur Énéide ; les deux workflows de la PR avaient échoué sur la version antérieure de main.",
-    "correction": "Fusion non destructive de main et de la branche de la PR : reconstruire les trois pages depuis main avec insertion des seules figures de la séance 66 à leurs ancrages textuels uniques, conserver intégralement le journal séance 66 et le test. Ne pas réintroduire les anciennes versions HTML ni écraser des sources concurrentes.",
-    "check_results": {
-      "audited_main_sha": "71cd5686b70b74c1aee9954c6e2574402558221f",
-      "static_pages_checked": 7,
-      "static_pages": [
-        "index.html",
-        "mythologie-grecque/index.html",
-        "philosophie/index.html",
-        "philosophie-iliade.html",
-        "philosophie-odyssee.html",
-        "philosophie-theogonie.html",
-        "reconstitutions-photorealistes.html"
-      ],
-      "source_anchors": 491,
-      "source_broken_anchors": 0,
-      "source_images": 276,
-      "source_images_missing_alt": 0,
-      "source_duplicate_ids": 0,
-      "source_local_references": 1520,
-      "source_missing_local_targets": 0,
-      "source_css_stylesheet_links": 34,
-      "source_js_script_links": 16,
-      "source_viewports_missing": 0,
-      "rebased_figures": [
-        {
-          "page": "philosophie-iliade.html",
-          "figure": "icono-iliade-poseidon-artemision-s66-20261106",
-          "media": "media/2026/10/mythos-bronze-artemision-zeus-ou-poseidon.jpg",
-          "characters_inserted": 1640,
-          "images_after": 39,
-          "anchors_after": 111
-        },
-        {
-          "page": "philosophie-odyssee.html",
-          "figure": "icono-odyssee-orphee-eurydice-seuil-s66-20261106",
-          "media": "media/2026/10/mythos-relief-orphee-eurydice-hermes-naples-6727.jpg",
-          "characters_inserted": 1659,
-          "images_after": 38,
-          "anchors_after": 111
-        },
-        {
-          "page": "philosophie-theogonie.html",
-          "figure": "icono-theogonie-yazilikaya-teshub-hebat-s66-20261106",
-          "media": "media/2026/10/mythos-yazilikaya-teshub-hebat-rita1234.jpg",
-          "characters_inserted": 1630,
-          "images_after": 38,
-          "anchors_after": 113
-        }
-      ],
-      "figurative_status": "Photographies d'artefacts authentiques, créditées, non générées par IA ; rapprochement iconographique sans identification directe au récit littéraire.",
-      "numbering_guard": "Lecture de main, AGENTS.md, docs/PUBLICATION_CONCURRENTE.md ; aucun nouveau texte numéroté, aucun chapitre ni registre modifié.",
-      "last_successful_main_generator_run": 42175517258,
-      "last_successful_main_pages_run": 42175517252,
-      "publication_status": "À confirmer séparément par manifeste de déploiement HTTPS et présence des figures.",
-      "a4_source": "Mesures A4 du 4 novembre : Iliade 107 pages, Odyssée 101, Théogonie 103 (non recalculées).",
-      "limits": "Audit statique ciblé et contrôle éditorial ; pas de test complet dans navigateur responsive, ni de campagne HTTP exhaustive pour les liens externes."
-    },
-    "changed_files": [
-      "philosophie-iliade.html",
-      "philosophie-odyssee.html",
-      "philosophie-theogonie.html",
-      "tests/test_iconography_session66_documentary_comparisons.py",
-      "docs/MYTHOS_ICONOGRAPHIE_ALTERNANCE.json"
+    "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "previous_kind": "AUDIT ET CORRECTION",
+    "next_kind": "AUDIT ET CORRECTION",
+    "scope": "Séance 68 : trois rapprochements documentaires sans confusion de témoignages — enceinte de Troie VI (Iliade VI), dessin de Flaxman (Iliade XXIII / Odyssée XI), retour d’Héphaïstos sur coupe archaïque (Théogonie / traditions figurées).",
+    "basis_commit": "261661f4eb2e62d2313136c9ae565b844b91a22f",
+    "figures": [
+      {
+        "page": "philosophie-iliade.html",
+        "id": "icono-iliade-troie-vi-porte-est-s68-20261106",
+        "asset": "/media/2026/10/mythos-troie-vi-porte-est-hisarlik-cherryx-2012.jpg",
+        "source": "Wikimedia Commons CherryX CC BY-SA 3.0 ; UNESCO Troie"
+      },
+      {
+        "page": "philosophie-odyssee.html",
+        "id": "icono-odyssee-achille-patrocle-flaxman-s68-20261106",
+        "asset": "/assets/illustrations-articles/met-341681-achille-ombre-patrocle-flaxman.webp",
+        "source": "Met 341681, Flaxman 1793, réception moderne"
+      },
+      {
+        "page": "philosophie-theogonie.html",
+        "id": "icono-theogonie-hephaistos-retour-oakeshott-s68-20261106",
+        "asset": "/media/2026/10/hephaiestos-retour-olympe-coupe-oakeshott-17-230-5.png",
+        "source": "Met 250543, coupe Oakeshott vers 550 av. J.-C."
+      }
     ],
-    "preservation": "Toutes les chaînes HTML présentes sur main ont été conservées exactement ; seuls trois blocs figure ajoutés. Navigation, CSS/JS, registres et automatisations inchangés.",
-    "git_status": "Commit de réconciliation à contrôler via CI de la PR 69 ; fusion dans main et publication publique non présumées.",
-    "next_session": "Séance 68 — ENRICHISSEMENT ICONOGRAPHIQUE"
+    "precommit_audit": {
+      "pages_checked": 3,
+      "internal_anchors": 335,
+      "broken_anchors": 0,
+      "images_without_alt": 0,
+      "duplicate_html_ids": 0,
+      "missing_referenced_local_media": 0,
+      "original_html_preserved": "Inclusion strictement insertionnelle, ancienne chaîne source restituée à l’identique après retrait du nouveau bloc figure.",
+      "prior_a4_pages": "Iliade 107, Odyssée 101, Théogonie 103 selon mesures historiques du 4 novembre, non recalculées.",
+      "CI": "À contrôler après ouverture de la PR."
+    },
+    "file_commits": [
+      {
+        "path": "philosophie-iliade.html",
+        "commit": "7be4eb51d22375bd780c6ccd4f9791eb77616817"
+      },
+      {
+        "path": "philosophie-odyssee.html",
+        "commit": "d00dc9b30a177024387164a56e2e00d25408e9c1"
+      },
+      {
+        "path": "philosophie-theogonie.html",
+        "commit": "3d440557569bd85fb4662603998ab047946dc3cb"
+      },
+      {
+        "path": "tests/test_iconography_session68_epic_documents.py",
+        "commit": "8fab1ffbfdb0202a6ae1abe0dc1bcaf5f63501dd"
+      }
+    ],
+    "preservation": "Conservation des textes universitaires, menus, CSS/JS, numérotation, attributions, routines GitHub, autres planifications et anciens médias. Aucun nouveau fichier numéroté ni média binaire. Trois éléments figure ajoutés dans les monographies présentes.",
+    "publication_status": "Enregistré dans branche s68 seulement ; PR et CI à confirmer ; aucune publication HTTPS affirmée.",
+    "obstacles": "La PR 69 portant séances 66–67 est encore ouverte lors de la préparation ; le site public bobmythos.fr n’est pas vérifié pour ces figures.",
+    "next_session": "Séance 69 — AUDIT ET CORRECTION"
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
   "history": [
@@ -4138,6 +4123,67 @@
       "preservation": "Toutes les chaînes HTML présentes sur main ont été conservées exactement ; seuls trois blocs figure ajoutés. Navigation, CSS/JS, registres et automatisations inchangés.",
       "git_status": "Commit de réconciliation à contrôler via CI de la PR 69 ; fusion dans main et publication publique non présumées.",
       "next_session": "Séance 68 — ENRICHISSEMENT ICONOGRAPHIQUE"
+    },
+    {
+      "date": "2026-11-06",
+      "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "previous_kind": "AUDIT ET CORRECTION",
+      "next_kind": "AUDIT ET CORRECTION",
+      "scope": "Séance 68 : trois rapprochements documentaires sans confusion de témoignages — enceinte de Troie VI (Iliade VI), dessin de Flaxman (Iliade XXIII / Odyssée XI), retour d’Héphaïstos sur coupe archaïque (Théogonie / traditions figurées).",
+      "basis_commit": "261661f4eb2e62d2313136c9ae565b844b91a22f",
+      "figures": [
+        {
+          "page": "philosophie-iliade.html",
+          "id": "icono-iliade-troie-vi-porte-est-s68-20261106",
+          "asset": "/media/2026/10/mythos-troie-vi-porte-est-hisarlik-cherryx-2012.jpg",
+          "source": "Wikimedia Commons CherryX CC BY-SA 3.0 ; UNESCO Troie"
+        },
+        {
+          "page": "philosophie-odyssee.html",
+          "id": "icono-odyssee-achille-patrocle-flaxman-s68-20261106",
+          "asset": "/assets/illustrations-articles/met-341681-achille-ombre-patrocle-flaxman.webp",
+          "source": "Met 341681, Flaxman 1793, réception moderne"
+        },
+        {
+          "page": "philosophie-theogonie.html",
+          "id": "icono-theogonie-hephaistos-retour-oakeshott-s68-20261106",
+          "asset": "/media/2026/10/hephaiestos-retour-olympe-coupe-oakeshott-17-230-5.png",
+          "source": "Met 250543, coupe Oakeshott vers 550 av. J.-C."
+        }
+      ],
+      "precommit_audit": {
+        "pages_checked": 3,
+        "internal_anchors": 335,
+        "broken_anchors": 0,
+        "images_without_alt": 0,
+        "duplicate_html_ids": 0,
+        "missing_referenced_local_media": 0,
+        "original_html_preserved": "Inclusion strictement insertionnelle, ancienne chaîne source restituée à l’identique après retrait du nouveau bloc figure.",
+        "prior_a4_pages": "Iliade 107, Odyssée 101, Théogonie 103 selon mesures historiques du 4 novembre, non recalculées.",
+        "CI": "À contrôler après ouverture de la PR."
+      },
+      "file_commits": [
+        {
+          "path": "philosophie-iliade.html",
+          "commit": "7be4eb51d22375bd780c6ccd4f9791eb77616817"
+        },
+        {
+          "path": "philosophie-odyssee.html",
+          "commit": "d00dc9b30a177024387164a56e2e00d25408e9c1"
+        },
+        {
+          "path": "philosophie-theogonie.html",
+          "commit": "3d440557569bd85fb4662603998ab047946dc3cb"
+        },
+        {
+          "path": "tests/test_iconography_session68_epic_documents.py",
+          "commit": "8fab1ffbfdb0202a6ae1abe0dc1bcaf5f63501dd"
+        }
+      ],
+      "preservation": "Conservation des textes universitaires, menus, CSS/JS, numérotation, attributions, routines GitHub, autres planifications et anciens médias. Aucun nouveau fichier numéroté ni média binaire. Trois éléments figure ajoutés dans les monographies présentes.",
+      "publication_status": "Enregistré dans branche s68 seulement ; PR et CI à confirmer ; aucune publication HTTPS affirmée.",
+      "obstacles": "La PR 69 portant séances 66–67 est encore ouverte lors de la préparation ; le site public bobmythos.fr n’est pas vérifié pour ces figures.",
+      "next_session": "Séance 69 — AUDIT ET CORRECTION"
     }
   ]
 }
