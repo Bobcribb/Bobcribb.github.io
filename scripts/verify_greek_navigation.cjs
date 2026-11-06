@@ -29,7 +29,20 @@ fs.mkdirSync(output,{recursive:true});
           text:getComputedStyle(document.body).color,
           font:getComputedStyle(document.body).fontFamily}));
         assert.ok(layout.document<=layout.width+1,`${device} overflow ${route}: ${JSON.stringify(layout)}`);
-        report.checks.push({device,route,status:response.status(),layout});
+        const tapTargets=await page.evaluate(()=>Object.fromEntries(
+          [
+            ['search',document.querySelector('.mythos-search-link')],
+            ['menu',document.querySelector('.mythos-menu > summary')]
+          ].map(([name,node])=>{
+            const rect=node.getBoundingClientRect();
+            return [name,{width:rect.width,height:rect.height}];
+          })
+        ));
+        for(const [name,rect] of Object.entries(tapTargets)){
+          assert.ok(rect.width>=44 && rect.height>=44,
+            `${device} ${route} ${name}: cible tactile trop étroite ${JSON.stringify(rect)}`);
+        }
+        report.checks.push({device,route,status:response.status(),layout,tapTargets});
       }
       await visit('/mythologie-grecque/');
       assert.equal(await page.locator('#dossiers-thematiques .greek-folder-grid a[href^="/mythologie-grecque/dossiers/"]').count(),8);
@@ -61,6 +74,25 @@ fs.mkdirSync(output,{recursive:true});
       assert.equal(await page.locator('#dossiers-thematiques .greek-folder-grid a[href^="/mythologie-grecque/dossiers/"]').count(),8);
       await visit('/');
       assert.equal(await page.locator('a.portal-card[href="/grande-encyclopedie/"]').count(),0);
+      if(device==='smartphone'){
+        await page.setViewportSize({width:360,height:780});
+        const compact=await page.evaluate(()=>{
+          const brand=document.querySelector('.mythos-brand').getBoundingClientRect();
+          const search=document.querySelector('.mythos-search-link').getBoundingClientRect();
+          const menu=document.querySelector('.mythos-menu > summary').getBoundingClientRect();
+          return {viewport:innerWidth,brandRight:brand.right,searchLeft:search.left,
+            searchWidth:search.width,searchHeight:search.height,
+            menuWidth:menu.width,menuHeight:menu.height,menuRight:menu.right};
+        });
+        assert.ok(compact.searchWidth>=44 && compact.searchHeight>=44);
+        assert.ok(compact.menuWidth>=44 && compact.menuHeight>=44);
+        assert.ok(compact.brandRight<=compact.searchLeft+1,
+          'En-tête compact : marque et recherche se chevauchent');
+        assert.ok(compact.menuRight<=compact.viewport+1,
+          'En-tête compact : bouton de menu hors écran');
+        await page.screenshot({path:path.join(output,'smartphone-360-en-tete.png'),fullPage:false});
+        report.checks.push({device:'smartphone-360',route:'/',compact});
+      }
       await context.close();
     }
     report.success=true;
