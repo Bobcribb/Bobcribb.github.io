@@ -23,10 +23,10 @@ class Session68Iconography(unittest.TestCase):
                 self.assertIn('src="' + asset + '"', content)
                 self.assertIn(source, content)
                 self.assertTrue((ROOT / asset.lstrip("/")).is_file())
-                figure = re.search(r'<figure\\b[^>]*\\bid="' + re.escape(figure_id)
+                figure = re.search(r'<figure\b[^>]*\bid="' + re.escape(figure_id)
                                    + r'"[^>]*>(.*?)</figure>', content, re.S)
                 self.assertIsNotNone(figure)
-                self.assertRegex(figure.group(1), r'<img\\b[^>]*\\balt="[^"]+"')
+                self.assertRegex(figure.group(1), r'<img\b[^>]*\balt="[^"]+"')
                 self.assertIn('non génér', figure.group(0))
     def test_session68_is_unique_and_alternates(self):
         report = json.loads((ROOT / "docs/MYTHOS_ICONOGRAPHIE_ALTERNANCE.json").read_text(encoding="utf-8"))
