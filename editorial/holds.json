@@ -132,6 +132,10 @@
     "9ba73d62-cc3a-4db9-8d67-10f2afc7e581": {
       "request_sha256": "c769caacbf80f156667fedcc4fd464d53d6015a99c2b22a71c9e5bcf383c3f2a",
       "reason": "Collision éditoriale contrôlée le 6 novembre 2026 : deux manuscrits intégraux distincts d'Achéos d'Érétrie portent sur la même pièce perdue, Kyknos (Κύκνος). La soumission antérieure 276c0f58-3e65-46b3-b275-f9319343b82d (commit beaf17e0340e2c7a0e6551bb03e76661e7c6e5b4, 11:27:47 UTC) précède la soumission 9ba73d62-cc3a-4db9-8d67-10f2afc7e581 (commit 62910613b16483ccaa4d747cb5ae5ca398aad99e, 11:28:39 UTC). Conserver intégralement le présent manuscrit et ses fragments, sans numéro canonique indépendant avant rapprochement critique avec le premier. Laisser la première demande suivre la file transactionnelle si elle n'est pas déjà attribuée ; ne supprimer, modifier, ni réémettre aucune étude. Le présent complément pourra être lié à l'attribution canonique après comparaison philologique."
+    },
+    "e4c7b801-1ab2-4e0a-9012-729b3d60c657": {
+      "request_sha256": "ccd20a249cf3080336d0ae2812a8bc5ce06d2a3d4cee636c693db4c592dce110",
+      "reason": "Collision éditoriale : troisième monographie intégrale concernant la même pièce Achéos d'Érétrie, Kyknos/Cycnos (Κύκνος), déposée à 11:36:21 UTC le 6 novembre 2026 sous e4c7b801-1ab2-4e0a-9012-729b3d60c657 (commit bb3261fb16779b030f2778e3cfb0be501aa94cfc). Les deux autres études sont 276c0f58-3e65-46b3-b275-f9319343b82d (première, 11:27:47 UTC) et 9ba73d62-cc3a-4db9-8d67-10f2afc7e581 (seconde, 11:28:39 UTC, déjà en retenue). Conserver intégralement et immuablement ce troisième manuscrit dans editorial/inbox sans numéro supplémentaire, en attente de comparaison philologique et d'un éventuel complément scientifique lié à une unique référence canonique pour l'œuvre antique. Ne supprimer aucun UUID et ne modifier aucun reçu. Voir issue #109."
     }
   }
 }
