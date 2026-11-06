@@ -1928,3 +1928,14 @@ body.mythos-design .origins-archival-integral .origins-integral-copy{display:fle
 body.mythos-design .origins-archival-integral .origins-integral-caveat{color:#c8b79f;font:13px/1.6 Georgia,serif}
 @media(max-width:620px){body.mythos-design .origins-archival-integral .origins-integral-link{grid-template-columns:minmax(0,1fr)}body.mythos-design .origins-archival-integral .origins-integral-picture{height:auto;max-height:230px;object-fit:contain}}
 @media(prefers-reduced-motion:reduce){body.mythos-design .origins-archival-integral *{transition:none!important}}
+
+
+/* MYTHOS — volume historique XII : vestiges de Naqa, cadre ivoire et or. */
+body.mythos-design .mythos-koush-figure{width:min(100%,850px);margin:1.65rem auto 2.2rem;border:1px solid #997b4c;border-radius:8px;background:#101b1c;overflow:hidden}
+body.mythos-design .mythos-koush-figure img{display:block;width:100%;height:auto;aspect-ratio:960/563;object-fit:cover;object-position:center}
+body.mythos-design .mythos-koush-figure figcaption{padding:.85rem 1.2rem;color:#e4d6c0;font:400 .95rem/1.65 Georgia,serif;overflow-wrap:anywhere}
+body.mythos-design .mythos-koush-figure figcaption a{color:#f0ce94}
+@media(max-width:720px){
+ body.mythos-design .mythos-koush-figure{margin:1rem auto 1.45rem;border-radius:4px}
+ body.mythos-design .mythos-koush-figure figcaption{padding:.8rem;font-size:.84rem}
+}
