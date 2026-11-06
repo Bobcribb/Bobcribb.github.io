@@ -64,6 +64,15 @@ class WorldArchivePreservationTests(unittest.TestCase):
                 self.assertEqual((root / "_site" / relative).read_bytes(), b"responsive-public-render\\n")
             self.assertEqual((root / "philosophie-iliade.html").read_text(), "updated public reading")
 
+    def test_minimal_repositories_without_historical_archives_still_publish(self):
+        # Les tests de course Git construisent des dépôts restreints.
+        with TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            (root / "_site").mkdir()
+            (root / "_site" / "index.html").write_text("latest render", encoding="utf-8")
+            overlay_render_preserving_archives(root)
+            self.assertEqual((root / "index.html").read_text(), "latest render")
+
     def test_missing_rendered_archive_blocks_publication(self):
         with TemporaryDirectory() as tmp:
             root = Path(tmp)
