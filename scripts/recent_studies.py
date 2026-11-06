@@ -141,8 +141,9 @@ def install(root, output):
             f'{html.escape(item["illustration"])} '
             'Source et datation dans les crédits associés.</span></span>'
             if item['image'] else '')
+        card_class = "portal-card" if item["image"] else "portal-card mythos-recent-unillustrated"
         cards.append(
-            f'<a class="portal-card" id="{html.escape(item["anchor"], quote=True)}" '
+            f'<a class="{card_class}" id="{html.escape(item["anchor"], quote=True)}" '
             f'href="{html.escape(item["url"], quote=True)}">{img}'
             f'<span class="portal-card-kicker">{html.escape(item["collection"])} · '
             f'{html.escape(item["cote"])}</span>'
