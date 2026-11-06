@@ -79,6 +79,7 @@ class TheatreArchivesNavigationTests(unittest.TestCase):
                 self.assertEqual(len(page.select("#theatre-comedies-editions")), 1)
                 self.assertEqual(len(page.select(".mythos-theatre-edition")), 9)
                 self.assertEqual(len(page.select(".mythos-theatre-archive-figure img")), 1)
+                self.assertIn("met-844483-acteurs-comiques-grecs.webp", page.select_one(".mythos-theatre-archive-figure img")["src"])
                 self.assertEqual(len(page.select(".mythos-theatre-edition-source a[href$='-source.md']")), 9)
                 for slug in SLUGS:
                     for kind, suffix in (("critique", "-etude.html"), ("scenes", "-scenes-modernes.html")):
