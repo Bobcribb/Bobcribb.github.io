@@ -74,5 +74,30 @@ class MuseumHeaderTouchTargetsTests(unittest.TestCase):
                 )
 
 
+    def test_browser_gate_runs_strictly_after_publication(self):
+        """La branche peut précéder Pages : l'audit strict attend le déploiement."""
+        browser = (ROOT / "scripts/verify_greek_navigation.cjs").read_text(
+            encoding="utf-8")
+        publisher = (ROOT / ".github/workflows/publish.yml").read_text(
+            encoding="utf-8")
+        standalone = (
+            ROOT / ".github/workflows/verify-greek-navigation.yml"
+        ).read_text(encoding="utf-8")
+        self.assertIn(
+            "process.env.MYTHOS_ENFORCE_TOUCH_TARGETS === '1'", browser)
+        self.assertIn("if(enforceTouchTargets)", browser)
+        self.assertIn(
+            "if(device==='smartphone' && enforceTouchTargets)", browser)
+        self.assertIn("touch_target_policy", browser)
+        self.assertIn("MYTHOS_ENFORCE_TOUCH_TARGETS: '1'", publisher)
+        self.assertNotIn("MYTHOS_ENFORCE_TOUCH_TARGETS", standalone)
+        self.assertIn("uses: actions/deploy-pages@v4", publisher)
+        self.assertLess(
+            publisher.index("uses: actions/deploy-pages@v4"),
+            publisher.index("MYTHOS_ENFORCE_TOUCH_TARGETS: '1'"),
+        )
+
+
+
 if __name__ == "__main__":
     unittest.main()
