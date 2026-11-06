@@ -371,18 +371,18 @@ def apply(root):
                  'Illustration : relief de Behistun, Iran.'),
             )
             if collection_grid:
-                for (destination, key, cover, alt, title, summary,
+                for (destination, key, thumbnail, alt, title, summary,
                      credit) in collection_covers:
                     if collection_grid.select_one('a.portal-card[href="' + destination + '"]'):
                         continue
-                    if not (root / cover.lstrip('/')).is_file():
+                    if not (root / thumbnail.lstrip('/')).is_file():
                         continue
                     card = fragment(
                         '<a class="portal-card" data-mythos-home-collection="' +
                         html.escape(key, quote=True) + '" href="' +
                         html.escape(destination, quote=True) + '">'
                         '<img class="mythos-card-image" loading="lazy" decoding="async" '
-                        'src="' + html.escape(cover, quote=True) + '" alt="' +
+                        'src="' + html.escape(thumbnail, quote=True) + '" alt="' +
                         html.escape(alt, quote=True) + '"/>'
                         '<span class="portal-card-kicker">BIBLIOTHÈQUE DOCUMENTÉE</span>'
                         '<strong>' + html.escape(title) + '</strong>'
