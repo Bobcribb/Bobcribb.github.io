@@ -45,3 +45,135 @@
 @media (prefers-reduced-motion:reduce) {
   .mythos-theatre-archive-return a {transition:none;}
 }
+
+
+/* Manuscrits sources des neuf comédies perdues : lecteurs intégraux,
+   bannière muséale conservée, aucun élément 2,5D ni image hors sujet. */
+body.mythos-design.theatre-original-page{
+  margin:0;
+  background:#090d0f;
+  color:#eee3cf;
+  font:clamp(16px,1.2vw,19px)/1.8 Georgia,"Times New Roman",serif;
+}
+body.mythos-design.theatre-original-page *{box-sizing:border-box}
+body.mythos-design .theatre-original-skip{
+  position:absolute;left:15px;top:-120px;z-index:100;
+  background:#f0d5a1;color:#101517;padding:12px 18px;
+}
+body.mythos-design .theatre-original-skip:focus{top:12px}
+body.mythos-design .theatre-original-banner{
+  min-height:clamp(190px,25vw,340px);
+  display:flex;flex-direction:column;justify-content:flex-end;
+  padding:clamp(20px,3vw,45px) max(16px,calc((100vw - 1100px)/2));
+  border-bottom:2px solid #c69c64;
+  background:linear-gradient(0deg,rgba(3,8,10,.96),rgba(3,8,10,.11) 100%),
+             url("/assets/mythos-museum-banner.webp") center/cover no-repeat;
+  text-shadow:0 2px 8px #050708;
+}
+body.mythos-design .theatre-original-banner p{
+  font:600 13px/1.5 system-ui,sans-serif;letter-spacing:.09em;
+  color:#e5c895;margin:10px 0 8px;
+}
+body.mythos-design .theatre-original-banner strong{
+  font:500 clamp(17px,2vw,24px)/1.4 Georgia,serif;color:#f4ddaf;
+}
+body.mythos-design .theatre-original-brand{
+  align-self:flex-start;font:700 clamp(24px,4vw,40px)/1.2 Georgia,serif;
+  letter-spacing:.09em;color:#f8dda8;text-decoration:none;
+}
+body.mythos-design .theatre-original-layout{
+  width:min(100% - 32px,1100px);
+  margin:auto;padding:clamp(18px,3vw,38px) 0 55px;
+}
+body.mythos-design .theatre-original-nav{
+  display:flex;flex-wrap:wrap;gap:10px;margin:0 0 18px;
+  padding:14px;background:#142023;border:1px solid #8d714d;border-radius:7px;
+}
+body.mythos-design .theatre-original-nav a{
+  display:inline-flex;align-items:center;min-height:44px;max-width:100%;
+  padding:9px 13px;border:1px solid #776246;border-radius:4px;
+  background:#0e1719;color:#f0d6a4;text-decoration:none;
+  font:600 14px/1.5 system-ui,sans-serif;overflow-wrap:anywhere;
+}
+body.mythos-design .theatre-original-nav a:is(:hover,:focus-visible){
+  background:#263539;border-color:#e9c78f;
+}
+body.mythos-design .theatre-original-context{
+  margin:18px 0 8px;max-width:80ch;color:#e9ddc7;
+}
+body.mythos-design .theatre-original-checksum{
+  margin:0 0 22px;padding:12px 15px;
+  background:#111a1c;border-inline-start:3px solid #c49e69;
+  color:#d9c4a5;font:13px/1.7 system-ui,sans-serif;overflow-wrap:anywhere;
+}
+body.mythos-design .theatre-original-checksum code{color:#efd19b;overflow-wrap:anywhere}
+body.mythos-design .theatre-original-text{
+  padding:clamp(18px,4vw,46px);
+  background:#121a1d;border:1px solid #726044;border-radius:7px;
+  min-width:0;overflow-wrap:anywhere;
+}
+body.mythos-design .theatre-original-text :is(h1,h2,h3,h4){
+  color:#f1d4a1;line-height:1.28;scroll-margin-top:18px;
+}
+body.mythos-design .theatre-original-text h1{
+  font-size:clamp(26px,3.8vw,40px);font-weight:500;
+}
+body.mythos-design .theatre-original-text h2{font-size:clamp(21px,3vw,30px);margin-top:1.9em}
+body.mythos-design .theatre-original-text h3{font-size:clamp(19px,2.3vw,24px);margin-top:1.6em}
+body.mythos-design .theatre-original-text a,
+body.mythos-design .theatre-original-footer a{color:#f3d5a0;text-underline-offset:3px}
+body.mythos-design .theatre-original-text :is(pre,table,blockquote){
+  max-width:100%;overflow-x:auto;
+}
+body.mythos-design .theatre-original-text :is(pre,blockquote){
+  background:#0a1113;border-inline-start:3px solid #bb935e;padding:15px;
+}
+body.mythos-design .theatre-original-toc{
+  margin:18px 0 26px;padding:clamp(15px,2vw,26px);
+  background:#0d1517;border:1px solid #92764f;border-radius:6px;
+}
+body.mythos-design .theatre-original-toc h2{margin:0 0 12px;font:500 23px/1.3 Georgia,serif}
+body.mythos-design .theatre-original-toc ol{
+  columns:2;column-gap:30px;margin:0;padding-left:26px;
+}
+body.mythos-design .theatre-original-toc li{break-inside:avoid;margin:0 0 9px}
+body.mythos-design .theatre-original-toc a{
+  color:#ecd1a1;display:inline-block;min-height:32px;text-decoration:underline;
+}
+body.mythos-design .theatre-original-metadata{
+  margin:0 0 18px;border:1px solid #76654b;padding:12px;
+  color:#e6d7bc;background:#152022;
+}
+body.mythos-design .theatre-original-metadata summary{
+  cursor:pointer;min-height:44px;display:flex;align-items:center;color:#eac58d;
+}
+body.mythos-design .theatre-original-metadata pre{
+  white-space:pre-wrap;overflow-wrap:anywhere;font:13px/1.6 ui-monospace,monospace;
+}
+body.mythos-design .theatre-original-unresolved{
+  border-bottom:1px dotted #d3af70;color:#d4c19f;
+}
+body.mythos-design .theatre-original-footer{
+  padding:25px;text-align:center;border-top:1px solid #806949;color:#d9cdb7;
+}
+body.mythos-design.theatre-original-page a:focus-visible,
+body.mythos-design .theatre-original-metadata summary:focus-visible{
+  outline:3px solid #f8d697;outline-offset:4px;
+}
+@media(max-width:700px){
+  body.mythos-design .theatre-original-toc ol{columns:1}
+  body.mythos-design .theatre-original-nav{display:grid;grid-template-columns:minmax(0,1fr)}
+  body.mythos-design .theatre-original-nav a{width:100%}
+  body.mythos-design .theatre-original-banner{min-height:190px;background-position:center}
+}
+@media(prefers-reduced-motion:reduce){
+  body.mythos-design.theatre-original-page{scroll-behavior:auto}
+}
+@media print{
+  body.mythos-design.theatre-original-page{background:#fff;color:#101010}
+  body.mythos-design .theatre-original-banner{background:none;min-height:auto}
+  body.mythos-design .theatre-original-text{color:#111;background:white;border:0;padding:0}
+  body.mythos-design .theatre-original-text :is(h1,h2,h3,h4){color:#111}
+  body.mythos-design .theatre-original-nav,
+  body.mythos-design .theatre-original-toc{display:none}
+}
