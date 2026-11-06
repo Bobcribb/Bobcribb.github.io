@@ -2,7 +2,7 @@
   "generated_at": "2026-11-06",
   "site": "bobmythos.fr",
   "method": "Illustrations photoréalistes interprétatives, textes et sources hors des pixels.",
-  "count": 70,
+  "count": 71,
   "entries": [
     {
       "id": "DEL-PAN-001",
@@ -1890,6 +1890,53 @@
       ],
       "methodology": "Restitution picturale non métrique et non validée institutionnellement ; modèle de synthèse d’après le plan antique, avec parties hautes, décors et environnement largement conjecturaux.",
       "publication_status": "fichier_prepare_non_publie_deploiement_https_a_verifier"
+    },
+    {
+      "id": "SYR-ATH-001",
+      "slug": "syracuse-athenaion-ortygie-temple-vers-480-av-jc",
+      "title": "Syracuse (Ortygie) — Athénaion, grand temple dorique de Gélon, vers 480 av. J.-C.",
+      "period": "Construction après la bataille d’Himère, traditionnellement vers 480 av. J.-C., première moitié du Ve siècle av. J.-C. ; évocation hypothétique d’un état grec achevé, sans les transformations chrétiennes.",
+      "caption": "Restitution photoréaliste interprétative de l’Athénaion de Syracuse sur l’île d’Ortygie, à l’époque de Gélon. Le péristyle dorique de six colonnes sur la façade et quatorze sur les longs côtés est documenté ; le décor et le paysage de la scène sont conjecturaux.",
+      "commentary": "Le grand temple d’Athéna (Athénaion) occupait un secteur sacré de l’île d’Ortygie, à Syracuse, sur l’emplacement de la cathédrale actuelle. La construction fut traditionnellement associée par les sources historiques à l’action du tyran Gélon et à la victoire grecque sur Carthage à Himère, en 480 av. J.-C. Les vestiges de colonnes doriques encore intégrées aux murs de la cathédrale, ainsi que les investigations archéologiques, renseignent un monument périptère de six colonnes sur les petits côtés et quatorze sur les longs côtés, d’environ 22 × 55 mètres. Le bâtiment comportait un pronaos oriental et une cella ; son statut exact de toiture et la reconstruction détaillée de ses parties disparues appellent prudence. Les maçonneries utilisaient un calcaire local aux tons miel. Les études du patrimoine sicilien signalent l’emploi de marbre de Paros pour des éléments limités du décor et de la couverture, notamment cymatium, tuiles et chéneaux à mufles de lion. L’image restitue une couverture intégrale par hypothèse artistique et propose des tons de toiture et de frise qui ne constituent ni une proposition de polychromie validée ni un relevé archéologique. Au Ier siècle av. J.-C., Cicéron, In Verrem II, 4, 122–123, mentionne les peintures intérieures du temple dérobées par Verrès, notamment des représentations associées au roi Agathocle ; ce témoignage tardif ne permet pas de transposer les peintures de la fin du IVe siècle au sanctuaire de 480 av. J.-C. Les traditions autour d’un bouclier doré signalant le temple aux navires appartiennent à son histoire littéraire et ne sont pas reproduites comme des données matérielles certaines dans le visuel. La silhouette de la côte, le tracé des rues, les maisons, les bateaux, l’autel, les personnages, l’éclairage, la texture des pierres et les détails figurés sont des conventions de visualisation. Les proportions exactes, le nombre apparent de colonnes dans la perspective et les distances ne peuvent être mesurés sur l’image. La restitution n’est ni un relevé photogrammétrique ni un modèle 3D scientifique métrique. Aucun des organismes cités n’a validé cette image.",
+      "certainty": "Élevé : existence et emplacement de l’Athénaion sous l’actuelle cathédrale de Syracuse ; ordre dorique, péristyle 6 × 14, époque de Gélon autour de la victoire d’Himère ; colonnes antiques conservées, emploi du calcaire local. Moyen : dimensions générales d’environ 22 × 55 m, distribution intérieure originale, identification et position exactes des composantes décoratives en marbre de Paros, aspect des parties hautes. Faible : coloration exacte du fronton et des métopes, forme et couleur des tuiles de la vue, autel et aménagement de la place, silhouette des maisons, navires, personnages, végétation, éclairage et angle de la caméra.",
+      "source_url": "https://www.smarteducationunescosicilia.it/en/siracusa/the-athenaion-tyrant-gelone/",
+      "secondary_sources": [
+        "https://www.italia.it/en/sicily/siracusa/temple-of-athena",
+        "https://static-www.comune.siracusa.it/wp-content/uploads/2024/02/Syracuse_EN_completo_pagine-doppie.pdf",
+        "https://beta.perseus.tufts.edu/urn:cts:latinLit:phi0474.phi005.perseus-eng2:2.4/"
+      ],
+      "src": "/assets/reconstitutions-3d/syracuse-athenaion-ortygie-temple-vers-480-av-jc.webp",
+      "image": "/assets/reconstitutions-3d/syracuse-athenaion-ortygie-temple-vers-480-av-jc.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-06",
+      "type": "reconstitution visuelle photoréaliste originale à apparence 3D, non métrique",
+      "provenance": "Image synthétique originale pour MYTHOS, sans légende, logo, interface, menu ni schéma 2,5D incrusté. Reconstruction artistique non validée par les institutions citées. Notices et sources hors de l’image.",
+      "sha256": "8ef187c4743dd94974d79716b4850e52c71f1e6d01909b347a850d5fdd3a6fe1",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/syracuse-athenaion-ortygie-temple-vers-480-av-jc.json",
+      "scientific_sources": [
+        {
+          "label": "SmartEducation UNESCO Sicilia — The Athenaion of the tyrant Gelon",
+          "url": "https://www.smarteducationunescosicilia.it/en/siracusa/the-athenaion-tyrant-gelone/"
+        },
+        {
+          "label": "Italia.it — Temple of Athena, Siracusa",
+          "url": "https://www.italia.it/en/sicily/siracusa/temple-of-athena"
+        },
+        {
+          "label": "Comune di Siracusa — Syracuse, présentation du patrimoine et de l’Athénaion",
+          "url": "https://static-www.comune.siracusa.it/wp-content/uploads/2024/02/Syracuse_EN_completo_pagine-doppie.pdf"
+        },
+        {
+          "label": "Cicéron, In Verrem, II.4.122–123 (Perseus, traduction anglaise)",
+          "url": "https://beta.perseus.tufts.edu/urn:cts:latinLit:phi0474.phi005.perseus-eng2:2.4/"
+        }
+      ],
+      "primary_texts": [
+        "Cicéron, In Verrem, II, 4, 122–123 : temple de Minerve à Ortygie et peintures intérieures conservées jusqu’aux spoliations de Verrès (témoignage romain tardif)."
+      ],
+      "methodology": "Image de synthèse archéologiquement informée et explicitement non métrique ; hypothèses de toiture, décor et environnement séparées des faits matériels. Aucun texte incrusté dans le visuel.",
+      "publication_status": "a_verifier_sur_domaine_public"
     }
-  ]
+]
 }
