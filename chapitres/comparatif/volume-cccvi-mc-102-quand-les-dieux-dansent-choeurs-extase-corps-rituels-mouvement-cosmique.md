@@ -2,6 +2,8 @@
 
 ## MC-102 — Quand les dieux dansent : chœurs, extase, corps rituels et mouvement cosmique de l’Égypte à l’Inde
 
+> **Mise à jour éditoriale du 6 novembre 2026.** Cette monographie a reçu officiellement le **volume CCCVI (306)**, avec reçu transactionnel lié à l’UUID `5b4a102d-e3a9-4f16-9ed0-202611060102`, puis a été publiée sur `https://bobmythos.fr/` lors de l’exécution GitHub Actions `42213063480` et vérifiée à son adresse HTTPS canonique. Les phrases du dépôt original parlant d’une attribution ou publication « en attente » sont conservées ci-dessous comme témoignage de l’état historique de la soumission ; elles ne décrivent plus l’état actuel. Le texte scientifique, les références, la bibliographie et l’archive d’origine demeurent intacts.
+
 **Monographie universitaire originale — 6 novembre 2026.**  
 **Disciplines :** histoire des religions, égyptologie, assyriologie, philologie grecque et hébraïque, études sanskrites et tamoules, archéologie, histoire de l’art, anthropologie de la performance, philosophie comparée.  
 **Statut :** texte public intégral approuvé pour la file GitHub ; ni numéro canonique définitif ni publication sur bobmythos.fr ne sont présumés. Les seules variables de cette étude sont CCCVI et 306 dans le titre et la notice propre au volume. L’identifiant historique **MC-102** est distinct du numéro canonique attribué par le workflow.
