@@ -32,6 +32,11 @@ Lire `docs/PUBLICATION_CONCURRENTE.md` avant toute création d'un chapitre numé
   demande de l'utilisateur. Ne pas les réintroduire dans les fiches, les galeries,
   les catalogues d'images ou les fonds de page. Conserver les notices et sources
   archéologiques ainsi que les reconstitutions photoréalistes déjà publiées.
+- Pour chaque ajout ou déplacement de carte dans `reconstitutions-photorealistes.html`,
+  synchroniser le sommaire de lecture après avoir ajouté la notice et l'ancre :
+  `python scripts/sync_photoreal_toc.py --write`, puis
+  `python scripts/sync_photoreal_toc.py --check`. Ce script ne modifie que la
+  navigation générée, jamais les images, légendes ni notices scientifiques.
 
 Contrôles : `python -m unittest discover -s tests -v`,
 `python scripts/build_native.py`, `python scripts/verify_publication.py`.
