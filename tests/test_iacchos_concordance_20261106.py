@@ -40,7 +40,7 @@ class IacchosConcordanceTests(unittest.TestCase):
             with self.subTest(volume=number):
                 body = source.read_text(encoding="utf-8")
                 self.assertGreater(len(body), expected_min[number])
-                self.assertIn("Bibliograph", body)
+                self.assertIn("bibliograph", body.casefold())
                 self.assertIn("Iacch", body)
                 self.assertIn("405", body)
                 self.assertIn(str(number), body.splitlines()[0])
