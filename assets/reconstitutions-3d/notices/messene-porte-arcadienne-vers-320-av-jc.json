@@ -1,0 +1,47 @@
+{
+  "id": "MES-ARC-001",
+  "slug": "messene-porte-arcadienne-vers-320-av-jc",
+  "title": "Messène — porte d’Arcadie et remparts monumentaux, vers 320 av. J.-C.",
+  "period": "Époque classique tardive, IVe siècle av. J.-C. ; évocation vers 320 av. J.-C. (phases architecturales discutées).",
+  "caption": "Reconstitution photoréaliste interprétative de la porte d’Arcadie, ses deux tours quadrangulaires et sa vaste cour circulaire. Crénelages, volumes bâtis et personnages conjecturaux.",
+  "commentary": "La cité de Messène, refondée en 369 av. J.-C. après la libération de la Messénie de la domination spartiate, s’inscrit au pied du mont Ithôme. Les murs de la cité appartiennent au programme de fortification du IVe siècle av. J.-C., même si la chronologie architecturale détaillée des portes et de leurs transformations demeure discutée. Le rempart suivait un périmètre d’environ 9,5 km ; l’Éphorie des Antiquités de Messénie et l’équipe scientifique d’Ancient Messene décrivent des maçonneries de grands blocs calcaires extraits sur les massifs locaux d’Ithôme et d’Éva, des tours généralement carrées, des cheminements et des ouvrages adaptés au relief. La porte d’Arcadie, entrée occidentale vers Mégalopolis, associe un portail externe surveillé par deux tours quadrangulaires, une cour intérieure circulaire d’environ 21 mètres de diamètre et un second passage ouvrant vers la ville. Cette composition monumentale crée un espace de contrôle des circulations entre route, enceinte et agglomération. Pausanias, qui visitait Messène à l’époque impériale, admirait la puissance des fortifications (Description de la Grèce IV, 31, 4–5) et rapporte la présence de colonnes hermaïques près de la porte (IV, 33, 3) ; son témoignage tardif ne documente pas automatiquement chaque détail de la porte au IVe siècle avant notre ère. La vue numérique présente, depuis l’extérieur en légère hauteur, une enceinte en pierres de taille calcaires, deux tours d’encadrement, une cour circulaire et un passage secondaire dans le mur intérieur. La lecture du plan général et l’existence des deux tours sont solidement documentées ; les élévations complètes des parapets, leurs crénelages réguliers, les niveaux de circulation, les huisseries, les volumes des maisons à l’arrière, leur couverture de tuiles, les costumes et le nombre de visiteurs relèvent d’hypothèses de médiation. Les pierres figurées sont plus uniformément intactes qu’aujourd’hui, sans permettre de déduire la texture exacte de parement à la date représentée. L’image ne constitue ni un relevé métrique, ni une photogrammétrie, ni un modèle 3D validé par l’Éphorie. La restitution choisit par convention un horizon vers 320 av. J.-C. dans le dernier tiers du IVe siècle ; elle ne prétend pas résoudre les débats d’attribution de phase du monument, ni identifier les constructions secondaires de l’arrière-plan. Les notices et les sources sont hors des pixels, sans menu ni schéma de type 2,5D.",
+  "certainty": "Élevé — fondation de la Messène classique en 369 av. J.-C. ; implantation sous le mont Ithôme ; fortifications monumentales calcaires du IVe siècle ; enceinte d’environ 9,5 km ; porte occidentale d’Arcadie avec deux entrées, cour intérieure circulaire et deux tours carrées ; proximité des massifs d’Ithôme et d’Éva. Moyen — lecture des volumes défensifs, séparation des deux portes, texture de taille et restitution générale du cheminement routier ; choix d’une restitution vers 320 av. J.-C. malgré les discussions sur les phases de la porte. Faible — hauteur des élévations, crénelage exact, proportions apparentes des tours vues en perspective, présence et aspect des portes en bois, revêtement de la route, tissus et vêtements, maisons visibles depuis le portail, tuiles, végétation, teintes et éclairage.",
+  "source_url": "https://www.efamess.gr/en/pois/teichi-archaias-messinis-kai-arkadiki-pyli/",
+  "secondary_sources": [
+    "https://www.ancientmessene.gr/en/fortifications/",
+    "https://www.odap.gr/wp-content/uploads/demo_products/131_ARXAIA_MESSHNH_ENG.pdf",
+    "https://europeanheritageawards-archive.eu/laureates-1978-2022/detail/arcadian-gate-and-city-wall-messene",
+    "https://www.visitgreece.gr/en/experiences/culture/archaeological-sites-monuments/ancient-messene"
+  ],
+  "src": "/assets/reconstitutions-3d/messene-porte-arcadienne-vers-320-av-jc.webp",
+  "image": "/assets/reconstitutions-3d/messene-porte-arcadienne-vers-320-av-jc.webp",
+  "width": 1672,
+  "height": 941,
+  "created_at": "2026-11-06",
+  "type": "reconstitution numérique 3D photoréaliste interprétative, non métrique",
+  "provenance": "Image originale générée pour MYTHOS avec assistance visuelle IA ; aucun relevé métrique ni validation institutionnelle ; aucun texte ni menu incrusté.",
+  "sha256": "13c1b52f6302b8cfc19cdb6105c8b35d9278193302142c1545b60c4668d9ac1c",
+  "scientific_notice": "/assets/reconstitutions-3d/notices/messene-porte-arcadienne-vers-320-av-jc.json",
+  "scientific_sources": [
+    {
+      "label": "Éphorie des Antiquités de Messénie — remparts et porte d’Arcadie (Ministère grec de la Culture)",
+      "url": "https://www.efamess.gr/en/pois/teichi-archaias-messinis-kai-arkadiki-pyli/"
+    },
+    {
+      "label": "Ancient Messene — fortifications, porte circulaire et deux tours",
+      "url": "https://www.ancientmessene.gr/en/fortifications/"
+    },
+    {
+      "label": "Organisation grecque des ressources archéologiques (ODAP) — guide de Messène",
+      "url": "https://www.odap.gr/wp-content/uploads/demo_products/131_ARXAIA_MESSHNH_ENG.pdf"
+    },
+    {
+      "label": "European Heritage Awards Archive — restauration des remparts et de la porte",
+      "url": "https://europeanheritageawards-archive.eu/laureates-1978-2022/detail/arcadian-gate-and-city-wall-messene"
+    }
+  ],
+  "primary_texts": [
+    "Pausanias, Description de la Grèce, IV, 31, 4–5 (fortifications) et IV, 33, 3 (porte et hermai) : témoignage de l’époque romaine à ne pas lire comme état contemporain de 320 av. J.-C."
+  ],
+  "methodology": "Rendu artistique interprétatif fondé sur plan, vestiges et notices institutionnelles. La date de visualisation et les crénelages sont une hypothèse ; aucune prétention à une élévation scientifique exacte."
+}
