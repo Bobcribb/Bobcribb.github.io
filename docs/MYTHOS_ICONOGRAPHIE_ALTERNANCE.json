@@ -5,63 +5,47 @@
   "branch": "main",
   "latest_session": {
     "date": "2026-11-06",
-    "session_number": 73,
-    "kind": "AUDIT ET CORRECTION",
-    "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "scope": "Audit post-iconographique des trois monographies philosophiques Iliade, Odyssée et Théogonie. Rétablissement de la vérification HTTPS des trois figures de la séance 72 (pages, légendes, statut, signatures JPEG et empreintes SHA-256).",
-    "source_main_at_review": "1c74cd307c6a68becc3927a5acb1c3882aac20a9",
-    "previous_session": 72,
-    "inspected_pages": [
-      "philosophie-iliade.html",
-      "philosophie-odyssee.html",
-      "philosophie-theogonie.html"
-    ],
-    "checks": {
-      "html_ids": 384,
-      "same_page_hash_links": 335,
-      "image_elements": 124,
-      "duplicate_html_ids": 0,
-      "broken_same_page_anchors": 0,
-      "images_without_alt": 0,
-      "three_figures_found": 3,
-      "distinct_media_found_in_git_tree": 3,
-      "media_sizes_bytes": [
-        6594541,
-        111291,
-        1551070
-      ],
-      "previous_inventory": {
-        "figures": 61,
-        "pages": 13,
-        "unique_media": 44
+    "session_number": 74,
+    "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "previous_kind": "AUDIT ET CORRECTION",
+    "next_kind": "AUDIT ET CORRECTION",
+    "source_main_at_review": "308e1a3461578e8353581dc6b5b2581c439feb19",
+    "scope": "Deux nouvelles figures documentaires grecques dans les monographies de philosophie de l’Iliade et de la Théogonie, avec légendes savantes, statut non-IA, dates, cotes et sources muséales CC0. Odyssée déjà dotée d’une figure Oreste et du même vase de Perséphone : aucun doublon ajouté. Correction élémentaire indépendante d’un attribut HTML mal formé sur le lecteur Nibelungenlied.",
+    "figures": [
+      {
+        "page": "philosophie-iliade.html",
+        "figure_id": "icono-iliade-nike-victoire-met247903-s74-20261106",
+        "asset": "/assets/illustrations-articles/met-247903-nike-terre-cuite.webp",
+        "met_source": "https://www.metmuseum.org/art/collection/search/247903"
       },
-      "revised_inventory": {
-        "figures": 64,
-        "pages": 13,
-        "unique_media": 47
+      {
+        "page": "philosophie-theogonie.html",
+        "figure_id": "icono-theogonie-persephone-retour-met252973-s74-20261106",
+        "asset": "/assets/illustrations-articles/met-252973-persephone-retour-enfers.webp",
+        "met_source": "https://www.metmuseum.org/art/collection/search/252973"
       }
+    ],
+    "precommit_checks": {
+      "pages_examined": 2,
+      "figures_added": 2,
+      "unique_new_figure_ids": 2,
+      "duplicate_ids": 0,
+      "broken_same_page_anchors": 0,
+      "missing_local_image_resources": 0,
+      "unchanged_scientific_content_except_inserted_figures": true,
+      "existing_assets_reused": true,
+      "additional_verified_malformed_html": true,
+      "css_js": "Liens vers les ressources du thème observés ; tests d’intégration et déploiement restent à lancer par GitHub Actions."
     },
-    "verified_error": "Les trois figures de la séance 72 sont présentes dans les pages source et dans les pages publiques, mais absentes de RECENT_FIGURES dans scripts/verify_live_site.py. Les contrôles habituels n'imposaient pas leurs notices HTTPS ni leurs sommes SHA-256 individuelles.",
-    "correction": "Extension de RECENT_FIGURES à trois triplets page / id / JPEG et mise à jour des assertions pour 64 figures sur 13 pages et 47 médias distincts. Nouveau test de non-régression contre une figure publique périmée et contre l'altération d'un JPEG de chacun des trois objets.",
-    "public_verification": {
-      "public_domain": "https://bobmythos.fr",
-      "manifest_source_commit": "3b3d181c640f7f097f16c9e112b0076203cfa3fa",
-      "manifest_github_run_id": "42254292001",
-      "indexed_documents": 1699,
-      "three_figures_https_present": true,
-      "three_figure_captions_and_status_https_present": true,
-      "jpeg_exact_sha256_https_checked": false,
-      "reason": "Les trois figures ont été directement vérifiées par sélecteur figure#id sur HTTPS, mais le contrôle binaire cryptographique se fera dans le vérificateur de publication. Ne pas confondre présence publique des notices et identité des octets."
-    },
-    "publication_status": "Trois notices de la séance 72 vérifiées sur le site public au commit 3b3d181c..., mais le présent correctif du vérificateur n'a pas encore été déployé. CI et Pages doivent être contrôlés après commit.",
-    "scientific_and_editorial_preservation": "Aucun titre, manuscrit, citation, numéro, UUID, reçu, registre, menu, fichier HTML scientifique ou image modifié. Les attributions anciennes, les origines et le statut IA des trois objets restent inchangés. Aucun vecteur 2,5D ajouté.",
-    "tests": "Vérification structurelle préalable des figures, des trois médias locaux, de la présence des légendes, des URL HTTPS et de la non-duplication. Nouveau test de défaillance HTTP simulée ; suite Python complète GitHub Actions à revérifier.",
-    "limits": "Pas de nouveau test visuel smartphone/tablette ni de recalcul PDF A4 ; contrôle exhaustif des liens scientifiques externes non fait ; l'identité des JPEG publics sera vérifiée par la CI de publication.",
-    "scheduling": "Aucun workflow ou paramètre de fréquence horaire modifié.",
-    "next_session": "Séance 74 — ENRICHISSEMENT ICONOGRAPHIQUE",
-    "commits": [],
-    "commit_note": "Commit atomique du vérificateur, des tests et du journal ; SHA à relever et relire après écriture."
+    "corrections": [
+      "Attribut class/data-reading-owned de nav.reader-bottom corrigé dans la page Nibelungenlied ; prose intégralement préservée."
+    ],
+    "scientific_notes": "La figurine de Nikè postérieure ne représente pas les jeux de Patrocle ; le cratère de Perséphone illustre un épisode de tradition différente du simple catalogue de Théogonie 912–914.",
+    "preservation": "Aucune édition ou renumérotation de chapitres, aucune modification des manuscrits, titres canoniques, registre, reçus, menus, CSS, JS, workflows, planifications ni fichiers d’images. Aucun 2,5D.",
+    "publication_status": "Proposition GitHub à vérifier ; ni fusion ni déploiement public présumés. Contrôle des tests GitHub Actions et HTTPS nécessaire après fusion.",
+    "next_session": "Séance 75 — AUDIT ET CORRECTION",
+    "tests": "Nouveau test structurel pour les deux figures, les deux images archivées et le correctif de navigation. Exécution complète CI à confirmer.",
+    "commits": []
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
   "history": [
@@ -4580,6 +4564,50 @@
       "next_session": "Séance 74 — ENRICHISSEMENT ICONOGRAPHIQUE",
       "commits": [],
       "commit_note": "Commit atomique du vérificateur, des tests et du journal ; SHA à relever et relire après écriture."
+    },
+    {
+      "date": "2026-11-06",
+      "session_number": 74,
+      "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "previous_kind": "AUDIT ET CORRECTION",
+      "next_kind": "AUDIT ET CORRECTION",
+      "source_main_at_review": "308e1a3461578e8353581dc6b5b2581c439feb19",
+      "scope": "Deux nouvelles figures documentaires grecques dans les monographies de philosophie de l’Iliade et de la Théogonie, avec légendes savantes, statut non-IA, dates, cotes et sources muséales CC0. Odyssée déjà dotée d’une figure Oreste et du même vase de Perséphone : aucun doublon ajouté. Correction élémentaire indépendante d’un attribut HTML mal formé sur le lecteur Nibelungenlied.",
+      "figures": [
+        {
+          "page": "philosophie-iliade.html",
+          "figure_id": "icono-iliade-nike-victoire-met247903-s74-20261106",
+          "asset": "/assets/illustrations-articles/met-247903-nike-terre-cuite.webp",
+          "met_source": "https://www.metmuseum.org/art/collection/search/247903"
+        },
+        {
+          "page": "philosophie-theogonie.html",
+          "figure_id": "icono-theogonie-persephone-retour-met252973-s74-20261106",
+          "asset": "/assets/illustrations-articles/met-252973-persephone-retour-enfers.webp",
+          "met_source": "https://www.metmuseum.org/art/collection/search/252973"
+        }
+      ],
+      "precommit_checks": {
+        "pages_examined": 2,
+        "figures_added": 2,
+        "unique_new_figure_ids": 2,
+        "duplicate_ids": 0,
+        "broken_same_page_anchors": 0,
+        "missing_local_image_resources": 0,
+        "unchanged_scientific_content_except_inserted_figures": true,
+        "existing_assets_reused": true,
+        "additional_verified_malformed_html": true,
+        "css_js": "Liens vers les ressources du thème observés ; tests d’intégration et déploiement restent à lancer par GitHub Actions."
+      },
+      "corrections": [
+        "Attribut class/data-reading-owned de nav.reader-bottom corrigé dans la page Nibelungenlied ; prose intégralement préservée."
+      ],
+      "scientific_notes": "La figurine de Nikè postérieure ne représente pas les jeux de Patrocle ; le cratère de Perséphone illustre un épisode de tradition différente du simple catalogue de Théogonie 912–914.",
+      "preservation": "Aucune édition ou renumérotation de chapitres, aucune modification des manuscrits, titres canoniques, registre, reçus, menus, CSS, JS, workflows, planifications ni fichiers d’images. Aucun 2,5D.",
+      "publication_status": "Proposition GitHub à vérifier ; ni fusion ni déploiement public présumés. Contrôle des tests GitHub Actions et HTTPS nécessaire après fusion.",
+      "next_session": "Séance 75 — AUDIT ET CORRECTION",
+      "tests": "Nouveau test structurel pour les deux figures, les deux images archivées et le correctif de navigation. Exécution complète CI à confirmer.",
+      "commits": []
     }
   ]
 }
