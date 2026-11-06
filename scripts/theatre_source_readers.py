@@ -33,7 +33,7 @@ def _render_text(markdown_source: str) -> tuple[str, str, int]:
     if not rendered.find("h1"):
         raise RuntimeError("Théâtre : manuscrit sans titre principal")
     headings = rendered.find_all(["h2", "h3"])
-    if len(headings) < 3 or not re.search(r"bibliograph", body, re.I):
+    if len(headings) < 2 or not re.search(r"bibliograph", body, re.I):
         raise RuntimeError("Théâtre : sections ou bibliographie manquantes")
     items = []
     for idx, heading in enumerate(headings, 1):
