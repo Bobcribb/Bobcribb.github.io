@@ -63,7 +63,7 @@ class RecentStudyTests(unittest.TestCase):
                 json.dumps({'markdown': '# Inédit\n' + 'x' * 5000}), encoding='utf-8')
             self.assertEqual(len(latest_verified(root, output)), 1)
 
-    def test_illustrated_cards_toc_repeated_build_and_no_overwriting(self):
+    def test_subject_filtered_cards_toc_repeated_build_and_no_overwriting(self):
         with TemporaryDirectory() as temp:
             root, output = self.make_fixture(temp)
             source = root / 'chapitres/tragedies/volume-ccxxx-triptoleme.md'
@@ -78,11 +78,10 @@ class RecentStudyTests(unittest.TestCase):
             doc = BeautifulSoup((output / 'index.html').read_text(encoding='utf-8'), 'html.parser')
             self.assertEqual(len(doc.select('#home-etudes-recentes .portal-card')), 1)
             self.assertEqual(len(doc.select('a[href="#home-etudes-recentes"]')), 1)
-            self.assertEqual(doc.select_one('#home-etudes-recentes img')['src'],
-                             '/media/2026/10/epidaure-theatre-antique-zde.jpg')
-            self.assertIn('Épidaure', doc.select_one('#home-etudes-recentes img')['alt'])
-            self.assertIn('ne représente pas nécessairement', 
-                          doc.select_one('.mythos-recent-caption').get_text())
+            # Une monographie de Triptolème ne doit plus recevoir la photo
+            # générique d'Épidaure sans lien documentaire avec son sujet.
+            self.assertIsNone(doc.select_one('#home-etudes-recentes img'))
+            self.assertFalse(doc.select('.mythos-recent-credits'))
             self.assertIn('Triptolème', doc.select_one('#home-etudes-recentes strong').get_text())
             self.assertIsNotNone(doc.select_one('#original'))
             self.assertEqual(before, source.read_bytes())
