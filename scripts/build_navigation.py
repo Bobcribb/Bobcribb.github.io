@@ -65,6 +65,10 @@ def section(title,lead="",body=""):
 
 def card(url,title,description="",label="COLLECTION"):
     image = credit = ""
+    if url == "/bibliotheque-mythologies-du-monde/mythos-volume-12-koush-meroe-apedemak/":
+        # Document archéologique réel et licence vérifiée (LassiHU, Wikimedia Commons).
+        image = '<img class="mythos-card-image" data-mythos-card-source="koush-naqa-lassihu" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Naqa_Apedamak_temple.jpg/960px-Naqa_Apedamak_temple.jpg" alt="Temple d’Apédémak à Naqa, vestiges archéologiques du Soudan photographiés en 2005." loading="lazy" decoding="async"/>'
+        credit = '<span class="mythos-photographic-credit">Photo : LassiHU (2005), Wikimedia Commons · CC BY-SA 4.0. Ruines réelles, non 2,5D.</span>'
     if url == "/bibliotheque-mythologies-du-monde/mythos-volume-13-armenie-vahagn-david-sassoun/":
         # Photographie sourcée d'une réception moderne du héros, pas objet antique.
         image = '<img class="mythos-card-image" data-mythos-card-source="sassoun-kochar-2014" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/2014_Erywa%C5%84%2C_Pomnik_Dawida_Sasu%C5%84skiego_%2801%29.jpg/960px-2014_Erywa%C5%84%2C_Pomnik_Dawida_Sasu%C5%84skiego_%2801%29.jpg" alt="Statue moderne de David de Sassoun par Yervand Kochar à Erevan, photographiée en 2014." loading="lazy" decoding="async"/>'
@@ -174,6 +178,7 @@ def create_home(entries,groups):
     body+=section("Civilisations du monde, par continent","Une géographie de consultation moderne : les échanges et les appartenances historiques débordent les frontières continentales.",continent_cards)
     body+=section("Bibliothèques et traditions à découvrir","Des portes d’entrée vers les principaux corpus.",world)
     body+=section("Épopées et traditions — lectures universitaires intégrales","Ouvrir directement les volumes historiques préservés, sans résumé ni nouvelle numérotation.",cards([
+      ("/bibliotheque-mythologies-du-monde/mythos-volume-12-koush-meroe-apedemak/","Nubie — Koush et Méroé","Volume XII · Amon de Napata, Apédémak, Natakamani, Amanitore et royauté sacrée.","TEXTE INTÉGRAL"),
       ("/bibliotheque-mythologies-du-monde/mythos-volume-13-armenie-vahagn-david-sassoun/","Arménie — Vahagn et David de Sassoun","Volume XIII · Traditions divines, épopée des quatre générations, variantes et sources.","TEXTE INTÉGRAL"),
       ("/bibliotheque-mythologies-du-monde/mythos-volume-10-finno-carelien-kalevala/","Finlande et Carélie — Kalevala","Volume X · Chant, Sampo, Väinämöinen, Ilmarinen et Louhi.","TEXTE INTÉGRAL"),
       ("/bibliotheque-mythologies-du-monde/mythos-volume-19-la-galigo-bugis-sawerigading/","Sulawesi — La Galigo","Épopée bugis, Sawerigading, manuscrits lontara et critique des sources.","TEXTE INTÉGRAL")
@@ -258,6 +263,7 @@ def create_mythologies(entries):
     body+=section("Les grandes traditions","Panthéons, cosmologies et traditions documentées.",cards([
      ("/grece/","Grèce antique","Olympiens, Titans, héros et sanctuaires.","À LA UNE"),
      ("/bibliotheque-egypte-ancienne/mythologie-egypte-cosmogonies-osiris-maat-au-dela/","Égypte","Cosmogonies, Osiris, Maât et textes funéraires."),
+     ("/bibliotheque-mythologies-du-monde/mythos-volume-12-koush-meroe-apedemak/","Nubie — Koush et Méroé","Volume historique XII en texte intégral : Amon de Napata, Apédémak et royauté sacrée.","ÉTUDE INTÉGRALE"),
      ("/bibliotheque-mesopotamie/mythologie-mesopotamie-enuma-elish-gilgamesh-inanna/","Mésopotamie","Enūma eliš, Gilgameš, Inanna et Marduk."),
      ("/bibliotheque-perse-iran-ancien/","Perse et Iran","Mazdéisme, figures divines et royauté."),
      ("/bibliotheque-mythologies-du-monde/mythologie-inde-vedas-puranas-vishnu-shiva-devi/","Inde","Veda, épopées, Purāṇa et divinités."),
@@ -959,6 +965,11 @@ def create_civilisations(entries, groups):
           ("/recherche/","Recherche transversale","Trouver un mot ou un personnage.")
         ],"portal-grid-compact")
         section_body=list_entries(docs)
+        if key == "afrique":
+            related=section("Religions de la Nubie antique — étude intégrale","Étude du Nil moyen, de ses sanctuaires et de sa royauté, avec références archéologiques.",cards([
+              ("/bibliotheque-mythologies-du-monde/mythos-volume-12-koush-meroe-apedemak/","Koush et Méroé : Amon, Apédémak et royauté sacrée","Volume historique XII, texte intégral et bibliographie d'origine.","TEXTE INTÉGRAL"),
+              ("/bibliotheque-mythologies-du-monde/civilisations-histoire-koush-meroe/","Nubie, Koush et Méroé : contexte historique","Royaumes, langue, temples et vestiges, en complément du volume XII.","HISTOIRE")
+            ],"portal-grid-compact"))
         related=section("Épopées et traditions d’Europe — textes intégralement conservés","Deux archives scientifiques et leurs sources, classées dans les mythologies du monde.",cards([
           ("/bibliotheque-mythologies-du-monde/mythos-volume-13-armenie-vahagn-david-sassoun/","Arménie : Vahagn, Anahit, David de Sassoun","Volume historique XIII, texte intégral, sources et apparat critique.","LECTURE INTÉGRALE"),
           ("/bibliotheque-mythologies-du-monde/mythos-volume-10-finno-carelien-kalevala/","Finlande et Carélie : le Kalevala","Volume historique X, texte intégral, chants et critique de la compilation.","LECTURE INTÉGRALE")

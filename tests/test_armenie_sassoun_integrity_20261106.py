@@ -22,16 +22,18 @@ class ArmenianHistoricalVolumeTests(unittest.TestCase):
     def setUpClass(cls):
         cls.full = PAGE.read_text(encoding="utf-8")
         begin = '<div class="mythos-original-study" id="texte-integral-armenie-sassoun">\n'
+        before, found, after = cls.full.partition(begin)
         end = re.search(
-            r'\n</div>\n<section\b[^>]*class="mythos-world-study-crosslinks"',
-            cls.full,
+            r'\n</div>\s*<section\b[^>]*\bclass="mythos-world-study-crosslinks"',
+            after, re.DOTALL,
         )
-        if begin not in cls.full or end is None:
+        if not found or not end:
             raise AssertionError("Borniers éditoriaux du manuscrit manquants")
-        cls.marked = cls.full.split(begin, 1)[1].split(end.group(0), 1)[0]
-        # Les ancres et identifiants de lecture ne font pas partie du manuscrit.
+        cls.marked = after[:end.start()]
+        # Les 63 ancres sont du HTML de lecture, pas le texte WordPress ;
+        # accepter l'ordre des attributs produit par BeautifulSoup.
         cls.original = re.sub(
-            r'<span[^>]*class="mythos-text-anchor"[^>]*></span>',
+            r'<span\b(?=[^>]*\bclass="mythos-text-anchor")(?=[^>]*\bid="armenian-lecture-[0-9]+")[^>]*></span>',
             "", cls.marked,
         )
         cls.original = re.sub(
