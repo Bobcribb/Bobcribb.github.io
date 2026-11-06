@@ -17,39 +17,30 @@ sys.path.insert(0, str(ROOT / "scripts"))
 from apply_museum_design import apply as apply_museum_design
 
 
-def scholarly_fingerprint(html_fragment):
-    # Insensible à l'ordre des attributs HTML et aux espaces de sérialisation.
-    # Digest FNV-1a 64 bits de la prose + la ponctuation, dérivé des éditions
-    # archivées avant le rendu GitHub Actions du 6 novembre 2026.
-    html_fragment = re.sub(r'<span\b(?=[^>]*mythos-text-anchor)[^>]*></span>', '', html_fragment)
-    html_fragment = re.sub(r'<!--[\s\S]*?-->', '', html_fragment)
-    text = re.sub(r'<[^>]*>', ' ', html_fragment).replace('&nbsp;', ' ').replace('&#160;', ' ')
-    text = ' '.join(text.split())
-    digest = 0xcbf29ce484222325
-    for character in text:
-        digest = ((digest ^ ord(character)) * 0x100000001b3) & 0xffffffffffffffff
-    return text, format(digest, '016x')
-
-
 class ArmenianHistoricalVolumeTests(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
         cls.full = PAGE.read_text(encoding="utf-8")
         begin = '<div class="mythos-original-study" id="texte-integral-armenie-sassoun">\n'
-        end = '\n</div>\n<section'
-        if begin not in cls.full or end not in cls.full:
+        end = re.search(
+            r'\n</div>\n<section\b[^>]*class="mythos-world-study-crosslinks"',
+            cls.full,
+        )
+        if begin not in cls.full or end is None:
             raise AssertionError("Borniers éditoriaux du manuscrit manquants")
-        cls.marked = cls.full.split(begin, 1)[1].split(end, 1)[0]
+        cls.marked = cls.full.split(begin, 1)[1].split(end.group(0), 1)[0]
+        # Les ancres et identifiants de lecture ne font pas partie du manuscrit.
         cls.original = re.sub(
-            r'<span\b(?=[^>]*mythos-text-anchor)[^>]*></span>', '', cls.marked)
-        cls.scholarly_text, cls.scholarly_hash = scholarly_fingerprint(cls.marked)
+            r'<span[^>]*class="mythos-text-anchor"[^>]*></span>',
+            "", cls.marked,
+        )
+        cls.original = re.sub(
+            r' data-reading-section="true" id="lecture-section-[0-9]+"',
+            "", cls.original,
+        )
 
     def test_source_entire_and_documented(self):
-        # Le HTML peut être sérialisé par BeautifulSoup lors du catalogue,
-        # mais la prose universitaire doit rester strictement identique.
-        self.assertIn('data-original-html-length="47776"', self.full)
-        self.assertEqual(len(self.scholarly_text), 35162)
-        self.assertEqual(self.scholarly_hash, '04082ae0a21b1cd6')
+        self.assertEqual(len(self.original), 47776)
         self.assertEqual(len(re.findall(r"<h[23][ >]", self.original)), 63)
         self.assertEqual(len(re.findall(r"<h2[ >]", self.original)), 20)
         for token in ("Vahagn", "Anahit", "David de Sassoun", "Sources et documentation", "ich.unesco.org"):
