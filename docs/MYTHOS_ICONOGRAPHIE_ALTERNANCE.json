@@ -5,42 +5,44 @@
   "branch": "main",
   "latest_session": {
     "date": "2026-11-06",
-    "session_number": 69,
-    "kind": "AUDIT ET CORRECTION",
-    "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "scope": "Audit technique de la publication MYTHOS après séance 68 : diagnostic du blocage des 18 lecteurs Énéide créés tardivement ; vérification des trois figures de la séance précédente, de 7 HTML, des ancres, médias, CSS/JS, de la navigation, des gardes d'attribution et du domaine public.",
-    "basis_main_at_review": "2b21bcabb6ef89526a72b6760d9ac7eddb8b00da",
-    "corrected_main_head_at_report": "3ecfbd361b7e71b43295d3cb29139434d8f707b1",
-    "finding": "Exécution GitHub Pages 42188396415 échouée après génération (1 645 documents) : scripts/verify_museum_design.py:50 refusait _site/corpus/philosophie/eneide/13-pietas-destin.html, dépourvu de data-mythos-design=20261104. Cause : les 18 lecteurs HTML autonomes de l'Énéide étaient générés après la passe muséale globale. La collision MC-096, décrite dans l'issue 74, est déjà mise en attente conservatoire dans editorial/holds.json.",
-    "verified_main_correction": "Pendant l'audit, une publication concurrente sur main a corrigé le défaut par une solution plus complète : c05fecb9ba9f39262e5bc8aa0e4290dd8853114a avance la génération des 18 lecteurs avant l'habillage global ; 57914088bba3dfe37c6a2d7f04ab99cd1d30cbf8 ajoute le test du bandeau, menus, CSS et de la préservation octet à octet des 18 Markdown ; 4c3b99d3cbf991258017302c16d69c87139a839d indexe les lecteurs dans recherche et sitemap. Les fichiers réels de main ont été relus et la solution vérifiée structurellement. Les tests complets de publication restent à confirmer.",
-    "attempted_patch": "PR #77 ouverte sur une branche d'audit et corrigée en trois commits 31a0b4ddfa8991f0bf607a42dbbfaa4ab6b85d3f, 7a7732d2f5d29db20e440fe3e29377a9327d94b8 et facd892e2020301258d0ea958dd76157336f0d71. Fermée sans fusion car un correctif parallèle et plus complet était désormais présent sur main ; ne pas écraser ce correctif ni créer de doublon.",
-    "static_checks": {
-      "html_pages_checked": 7,
-      "local_hash_anchors_checked": 391,
-      "broken_hash_anchors": 0,
-      "duplicate_html_ids": 0,
-      "image_elements": 160,
-      "images_without_alt": 0,
-      "local_image_paths": 157,
-      "missing_local_image_paths": 0,
-      "css_references": 34,
-      "missing_css_references": 0,
-      "javascript_references": 13,
-      "missing_js_references": 0,
-      "recursive_git_tree_paths": 5680,
-      "missing_local_assets": 0,
-      "source_html_session68_figures": 3,
-      "viewport_meta_present": true,
-      "responsive_css_breakpoints_present": true,
-      "focus_visible_and_reduced_motion_in_museum_css": true,
-      "visual_mobile_and_wcag_full_audit": "Non effectués : vérifications statiques uniquement.",
-      "scholarly_references": "Notices de 3 figures relues : Troie VI/CherryX-UNESCO ; Flaxman 1793, Met 341681 ; coupe Peintre d'Oakeshott vers 550 av. J.-C., Met 250543. Datations, crédits, statut documentaire et absence de génération IA mentionnés."
+    "session_number": 70,
+    "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+    "previous_kind": "AUDIT ET CORRECTION",
+    "next_kind": "AUDIT ET CORRECTION",
+    "scope": "Documentation iconographique conservatoire sur deux pages existantes : laraire romain de Pompéi dans le dossier Hestia comme comparaison et deux médaillons grecs de masques hellénistiques dans le portail du théâtre grec.",
+    "basis_main_at_review": "7790e6387ae9fa8012b258c7e3b3ae6bf558a33a",
+    "figures": [
+      {
+        "page": "dieu-hestia/index.html",
+        "id": "icono-hestia-laraire-vettii-comparaison-s70-20261106",
+        "asset": "/media/2026/10/mythos-lararium-maison-vettii-pompei-lorente-waterborough.jpg",
+        "source": "Wikimedia Commons Patricio Lorente / Waterborough, CC BY-SA 2.5",
+        "date": "Ier siècle apr. J.-C.",
+        "status": "document romain authentique, non image d'Hestia grecque, non IA"
+      },
+      {
+        "page": "theatre-grec.html",
+        "id": "icono-theatre-masques-met-2001-767-s70-20261106",
+        "asset": "/media/2026/10/mythos-masques-theatre-rondelles-hellenistiques-met-2001-767.jpg",
+        "source": "Met 257595, inv. 2001.767.1–2, Open Access CC0",
+        "date": "Ier siècle av. J.-C.",
+        "status": "médaillons grecs authentiques, non masques de scène portés, non IA"
+      }
+    ],
+    "precommit_checks": {
+      "pages_checked": 2,
+      "previous_figures_hestia": 5,
+      "previous_figures_theatre": 2,
+      "added": 2,
+      "duplicate_new_ids": 0,
+      "missing_media_in_manifest": 0,
+      "figures_with_alt_caption_source_date_licenses": 2,
+      "existing_html_preserved": "Seule insertion de figure ; le fichier original se reconstitue intégralement après retrait du bloc.",
+      "priority_studies": "Iliade, Odyssée et Théogonie déjà illustrées (40/39/39 figures) ; aucune image redondante ajoutée. Pagination A4 historique 107/101/103, non recalculée."
     },
-    "public_observation": "Contrôle HTTP/HTTPS indépendant : /catalog/publication-verification.json indique encore source_commit db016f6cbc0bec783e369a1e2874f0c6a1883aa6, 1604 documents, 27 tomes, 110 médias, github_run_id 42175517252. La mise en ligne des trois figures de la séance 68, des 18 lecteurs remaquettés et du correctif reste NON confirmée.",
-    "preservation": "Aucun nouveau chapitre, aucun changement de numérotation, d'UUID, de reçu, de registre, de texte universitaire, de CSS existant, de navigation ni d'automatisation horaire lors de cette séance. AGENTS.md et docs/PUBLICATION_CONCURRENTE.md lus sur main.",
-    "obstacles": "Concurrence de commits entre plusieurs chantiers sur main ; la PR #77 est fermée sans fusion, les corrections équivalentes déjà fusionnées sur main. Le déploiement public reste à prouver par Actions terminée, manifeste HTTPS actualisé et présence effective des trois figure id.",
-    "next_session": "Séance 70 — ENRICHISSEMENT ICONOGRAPHIQUE"
+    "safety": "Aucun chapitre numéroté, aucune modification de registre, texte universitaire, menu, CSS/JS, workflow ou horaire. Deux ressources existantes réutilisées ; anciennes images conservées.",
+    "public_status": "Non confirmé. Manifeste HTTPS observé en amont : source_commit db016f6cbc0bec783e369a1e2874f0c6a1883aa6.",
+    "next_session": "Séance 71 — AUDIT ET CORRECTION"
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
   "history": [
@@ -4201,6 +4203,47 @@
       "preservation": "Aucun nouveau chapitre, aucun changement de numérotation, d'UUID, de reçu, de registre, de texte universitaire, de CSS existant, de navigation ni d'automatisation horaire lors de cette séance. AGENTS.md et docs/PUBLICATION_CONCURRENTE.md lus sur main.",
       "obstacles": "Concurrence de commits entre plusieurs chantiers sur main ; la PR #77 est fermée sans fusion, les corrections équivalentes déjà fusionnées sur main. Le déploiement public reste à prouver par Actions terminée, manifeste HTTPS actualisé et présence effective des trois figure id.",
       "next_session": "Séance 70 — ENRICHISSEMENT ICONOGRAPHIQUE"
+    },
+    {
+      "date": "2026-11-06",
+      "session_number": 70,
+      "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "previous_kind": "AUDIT ET CORRECTION",
+      "next_kind": "AUDIT ET CORRECTION",
+      "scope": "Documentation iconographique conservatoire sur deux pages existantes : laraire romain de Pompéi dans le dossier Hestia comme comparaison et deux médaillons grecs de masques hellénistiques dans le portail du théâtre grec.",
+      "basis_main_at_review": "7790e6387ae9fa8012b258c7e3b3ae6bf558a33a",
+      "figures": [
+        {
+          "page": "dieu-hestia/index.html",
+          "id": "icono-hestia-laraire-vettii-comparaison-s70-20261106",
+          "asset": "/media/2026/10/mythos-lararium-maison-vettii-pompei-lorente-waterborough.jpg",
+          "source": "Wikimedia Commons Patricio Lorente / Waterborough, CC BY-SA 2.5",
+          "date": "Ier siècle apr. J.-C.",
+          "status": "document romain authentique, non image d'Hestia grecque, non IA"
+        },
+        {
+          "page": "theatre-grec.html",
+          "id": "icono-theatre-masques-met-2001-767-s70-20261106",
+          "asset": "/media/2026/10/mythos-masques-theatre-rondelles-hellenistiques-met-2001-767.jpg",
+          "source": "Met 257595, inv. 2001.767.1–2, Open Access CC0",
+          "date": "Ier siècle av. J.-C.",
+          "status": "médaillons grecs authentiques, non masques de scène portés, non IA"
+        }
+      ],
+      "precommit_checks": {
+        "pages_checked": 2,
+        "previous_figures_hestia": 5,
+        "previous_figures_theatre": 2,
+        "added": 2,
+        "duplicate_new_ids": 0,
+        "missing_media_in_manifest": 0,
+        "figures_with_alt_caption_source_date_licenses": 2,
+        "existing_html_preserved": "Seule insertion de figure ; le fichier original se reconstitue intégralement après retrait du bloc.",
+        "priority_studies": "Iliade, Odyssée et Théogonie déjà illustrées (40/39/39 figures) ; aucune image redondante ajoutée. Pagination A4 historique 107/101/103, non recalculée."
+      },
+      "safety": "Aucun chapitre numéroté, aucune modification de registre, texte universitaire, menu, CSS/JS, workflow ou horaire. Deux ressources existantes réutilisées ; anciennes images conservées.",
+      "public_status": "Non confirmé. Manifeste HTTPS observé en amont : source_commit db016f6cbc0bec783e369a1e2874f0c6a1883aa6.",
+      "next_session": "Séance 71 — AUDIT ET CORRECTION"
     }
   ]
 }
