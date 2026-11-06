@@ -52,3 +52,20 @@ body.mythos-design #eneide-manuscrits-originaux{scroll-margin-top:90px}
   body.mythos-design .mythos-eneide-pair-nav{background:white;color:black;border:1px solid #555}
   body.mythos-design .mythos-eneide-sources details{display:block}
 }
+
+/* Sources intégrales : accentuation lisible au pointeur et au clavier. */
+body.mythos-design .mythos-eneide-sources details[open]{
+  border-color:#c8a66d;box-shadow:inset 0 0 0 1px #c8a66d33;
+}
+body.mythos-design .mythos-eneide-source-grid a:hover{
+  color:#fff5df;background:#263238;border-radius:4px;
+}
+body.mythos-design .mythos-eneide-pair-nav a:hover{
+  color:#fff5df;text-decoration-thickness:2px;
+}
+@media(max-width:480px){
+  body.mythos-design .mythos-eneide-sources{margin:1.2rem 0 2rem}
+  body.mythos-design .mythos-eneide-sources details{padding:10px}
+  body.mythos-design .mythos-eneide-source-grid{padding-left:1.5rem}
+  body.mythos-design .mythos-eneide-source-grid a{padding:10px 6px}
+}
