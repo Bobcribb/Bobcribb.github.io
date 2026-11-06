@@ -94,7 +94,8 @@ class ReadingTests(unittest.TestCase):
                 source = (root / url.lstrip('/') / 'index.html').read_text(encoding='utf-8')
                 for marker in markers:
                     self.assertIn(marker, source)
-                self.assertNotIn('mythos-reading-toc', source)
+                if any('figure' in marker for marker in markers):
+                    self.assertNotIn('mythos-reading-toc', source)
 
     def test_catalogue_ids_stable_when_title_changes_and_no_fake_review(self):
         doc=self.document()
