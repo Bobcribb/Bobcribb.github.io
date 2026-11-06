@@ -336,6 +336,15 @@ RECENT_FIGURES = (
     ("theatre-grec.html", "icono-theatre-masques-met-2001-767-s70-20261106", "/media/2026/10/mythos-masques-theatre-rondelles-hellenistiques-met-2001-767.jpg"),
 
 
+    # Séance 72 : photographies documentaires antiques sur les trois monographies.
+    # Vérifier chaque notice HTTPS et l'empreinte exacte de son JPEG local.
+    ("philosophie-iliade.html", "icono-iliade-ares-parthenon-frise-s72-20261106",
+     "/media/2026/10/mythos-ares-frise-orientale-parthenon-bloc-iv-twospoonfuls.jpg"),
+    ("philosophie-odyssee.html", "icono-odyssee-heracles-lion-nemee-met-s72-20261106",
+     "/media/2026/10/mythos-heracles-lion-nemee-oinochoe-met-06-1021-66.jpg"),
+    ("philosophie-theogonie.html", "icono-theogonie-demeter-triptoleme-met-s72-20261106",
+     "/media/2026/10/demeter-triptolemos-peintre-niobides-met-41-162-98.jpg"),
+
 )
 
 
