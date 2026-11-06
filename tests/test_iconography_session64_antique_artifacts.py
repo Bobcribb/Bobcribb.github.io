@@ -12,7 +12,8 @@ class Iconography64(unittest.TestCase):
                 soup=BeautifulSoup((ROOT/path).read_text(encoding="utf-8"),"html.parser")
                 fig=soup.find("figure",id=ident)
                 self.assertIsNotNone(fig)
-                self.assertIsNotNone(soup.find("section",id=section).find("figure",id=ident))
+                # Les unités sont introduites par <h2>, non par des <section id="lecture-section-*">.
+                self.assertEqual(fig.find_previous("h2").get("id"), section)
                 img=fig.find("img")
                 self.assertEqual(img.get("src"),src)
                 self.assertTrue(img.get("alt","").strip())
