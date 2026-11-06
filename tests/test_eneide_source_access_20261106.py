@@ -74,6 +74,40 @@ class EneideSourcesTest(unittest.TestCase):
             "/corpus/philosophie/eneide/00-introduction.html"
         )
 
+    def test_design_museal_couvre_les_dix_huit_lecteurs(self):
+        """La génération complète habille les lecteurs créés avant la passe musée."""
+        from apply_museum_design import apply, VERSION
+        source_snapshot = {
+            name: (self.root / SOURCE_DIR / name).read_bytes() for name in NAMES
+        }
+        self.assertEqual(install(self.root, self.out), 18)
+        self.assertGreaterEqual(apply(self.out), 18)
+        for i, name in enumerate(NAMES):
+            page = self.out / SOURCE_DIR / name.replace(".md", ".html")
+            reader = BeautifulSoup(page.read_text(encoding="utf-8"), "html.parser")
+            self.assertEqual(reader.body.get("data-mythos-design"), VERSION, name)
+            self.assertEqual(len(reader.select("header.mythos-masthead")), 1, name)
+            self.assertEqual(
+                len(reader.select('link[href^="/assets/mythos-museum.css?"]')), 1, name
+            )
+            self.assertEqual(
+                len(reader.select('.mythos-primary-nav a[href="/mythologie-grecque/"]')),
+                1, name
+            )
+            self.assertIn("Analyse des sources primaires", reader.get_text(" ", strip=True))
+            self.assertIn(f"Source universitaire {i:02}", reader.get_text(" ", strip=True))
+            self.assertEqual(
+                source_snapshot[name], (self.root / SOURCE_DIR / name).read_bytes()
+            )
+            if i == 17:
+                self.assertIn("Bibliographie et références primaires",
+                              reader.get_text(" ", strip=True))
+        native = (Path(__file__).resolve().parents[1] / "scripts" / "build_native.py").read_text(
+            encoding="utf-8"
+        )
+        self.assertLess(native.index("install_eneide_source_access(ROOT, OUT)"),
+                        native.index("n_styled = apply_museum_design(OUT)"))
+
     def test_idempotent_links(self):
         install(self.root, self.out)
         one = (self.out / STUDY).read_bytes()
