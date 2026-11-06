@@ -22,12 +22,16 @@ class HudhudHistoricalVolumeTests(unittest.TestCase):
     def setUpClass(cls):
         cls.full = PAGE.read_text(encoding="utf-8")
         start = '<div class="mythos-original-study" id="texte-integral-hudhud-ifugao">\n'
-        end = '\n</div>\n<nav class="mythos-world-study-crosslinks"'
-        if start not in cls.full or end not in cls.full:
+        # La charte muséale ajoute des attributs de navigation au <nav> sans
+        # modifier la limite du manuscrit historique.
+        end = re.search(r'\n</div>\n<nav\b[^>]*class="mythos-world-study-crosslinks"[^>]*>', cls.full)
+        if start not in cls.full or not end:
             raise AssertionError("Bornes du manuscrit universitaire absentes")
-        cls.marked = cls.full.split(start, 1)[1].split(end, 1)[0]
+        cls.marked = cls.full.split(start, 1)[1].split(end.group(0), 1)[0]
+        # Les 62 ancres décoratives ont un ordre d'attributs variable selon
+        # les moteurs de rendu. Restituer le texte original à cote constante.
         cls.original = re.sub(
-            r'<span id="ifugao-lecture-[0-9]+" class="mythos-text-anchor" aria-hidden="true"></span>',
+            r'<span\b[^>]*\bid="ifugao-lecture-[0-9]+"[^>]*></span>',
             "", cls.marked,
         )
 
