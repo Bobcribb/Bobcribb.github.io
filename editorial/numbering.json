@@ -1005,6 +1005,18 @@
           "path": "chapitres/origines-du-sacre/739-ile-ife-yoruba-pavements-verre-igbo-olokun-tetes-wunmonije-sacralite.md",
           "request_sha256": "fff405554de2ecc53be2302ee0d36786f6baeb923ac277fdda4a1f3b5eed0d15",
           "initial_source_sha256": "65230b02739eaaf83bc21747c7ffffeb0b6f35781dc873f92e77202db160cc0c"
+        },
+        "8d2a6f41-53bc-4e97-a235-202611061914": {
+          "number": 740,
+          "path": "chapitres/origines-du-sacre/740-benin-city-edo-autels-ancetres-oba-tetes-laiton-ivoires-igue.md",
+          "request_sha256": "257038ef978a9ff981838f2356f97e7a1a55c3cb6c137b10c02e198b60dbf2bf",
+          "initial_source_sha256": "e6e514b4fc0d83a76ae63cd5fa05b3ab74a481c0c7ea650f58bd01f1cd92ba70"
+        },
+        "da7a6a35-a744-4c5c-9be6-202611061856": {
+          "number": 741,
+          "path": "chapitres/origines-du-sacre/741-djenne-djeno-delta-niger-urnes-figurines-sacre-urbanisme.md",
+          "request_sha256": "62a4089d946c9ba0e5f387d6466f395a50e0581b2a5893a753de20dc50e9cb82",
+          "initial_source_sha256": "975d40ccc5ce1befbc3b1dca04fe27e0e159178349150f994eb1304ea1d57f3c"
         }
       }
     },
@@ -3775,6 +3787,12 @@
           "path": "chapitres/comparatif/volume-cccxv-mc-107-bornes-sacrees-limites-kudurru-akhetaton-horoi-terminus-israel-inde.md",
           "request_sha256": "4ac9322a7ceaf7929c3bd22e95ea378f796b1581399534c8d709db1fb5a8f8c0",
           "initial_source_sha256": "733f616be266b2c36097cf10b974c25c19ef6c6344c765828e643d88b3c00dee"
+        },
+        "c1086fb4-6a2b-4b1d-94ac-202611061749": {
+          "number": 316,
+          "path": "chapitres/comparatif/volume-cccxvi-mc-108-couronnes-divin-desheret-hedjet-lama-zeus-nezer-corona-xwarrah-kiritin-buddha.md",
+          "request_sha256": "83c6ed7c5b1e5cc1671b054f4c819af865686802b05338a81e2ef55a14e1221c",
+          "initial_source_sha256": "774c1414a3c0caea81a125d267c3d69a4e8e9195c4f4507918e35a34000968d8"
         }
       }
     }
