@@ -22,13 +22,26 @@ class ArmenianHistoricalVolumeTests(unittest.TestCase):
     def setUpClass(cls):
         cls.full = PAGE.read_text(encoding="utf-8")
         begin = '<div class="mythos-original-study" id="texte-integral-armenie-sassoun">\n'
-        end = '\n</div>\n<section class="mythos-world-study-crosslinks"'
-        if begin not in cls.full or end not in cls.full:
-            raise AssertionError("Borniers éditoriaux du manuscrit manquants")
-        cls.marked = cls.full.split(begin, 1)[1].split(end, 1)[0]
-        cls.original = re.sub(
-            r'<span id="armenian-lecture-[0-9]+" class="mythos-text-anchor" aria-hidden="true"></span>',
+        if begin not in cls.full:
+            raise AssertionError("Bornier initial du manuscrit manquant")
+        remainder = cls.full.split(begin, 1)[1]
+        boundary = re.search(
+            r'\n</div>\n<section\b(?=[^>]*\bclass="mythos-world-study-crosslinks")',
+            remainder,
+        )
+        if boundary is None:
+            raise AssertionError("Bornier final du manuscrit manquant")
+        cls.marked = remainder[:boundary.start()]
+        # Retirer seulement les ancres et les attributs H2/H3 ajoutés par
+        # le lecteur ; le contrôle strict des 47 776 caractères reste actif.
+        without_anchors = re.sub(
+            r'<span(?=[^>]*\bid="armenian-lecture-[0-9]+")'
+            r'(?=[^>]*\bclass="mythos-text-anchor")[^>]*></span>',
             "", cls.marked,
+        )
+        cls.original = re.sub(
+            r'(<h[23]\b[^>]*?)\sdata-reading-section="true" id="lecture-section-[0-9]+"(?=[^>]*>)',
+            r'\1', without_anchors,
         )
 
     def test_source_entire_and_documented(self):
