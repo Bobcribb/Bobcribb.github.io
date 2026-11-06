@@ -1,0 +1,53 @@
+{
+  "id": "CLA-APO-001",
+  "slug": "claros-apollon-temple-cour-chantier-hadrien-vers-135-ap-jc",
+  "title": "Claros (Ionie) — temple-oracle d’Apollon, chantier dorique à l’époque d’Hadrien",
+  "period": "Évocation vers 130–140 apr. J.-C. : phase hadrianique d’un sanctuaire grec dont le second temple fut commencé à la fin du IVe siècle av. J.-C. ; état précis non reconstituable.",
+  "caption": "Vue photoréaliste interprétative du sanctuaire d’Apollon à Claros, près de Colophon en Ionie, pendant un épisode hypothétique des travaux d’époque hadrianique : façade dorique, crépis à degrés, péristyle incomplet et aménagements rituels dans la vallée.",
+  "commentary": "Le sanctuaire d’Apollon Clarios, dépendant de la cité grecque de Colophon, possède une histoire oraculaire remontant au moins à l’époque archaïque. Un premier édifice du VIe siècle av. J.-C. fut remplacé par un temple à cour mis en chantier dans les dernières décennies du IVe siècle av. J.-C. Le programme prévoyait un temple dorique périptère sur une crépis de cinq degrés, avec six colonnes sur les façades et onze sur les longs côtés, autour d’un sèkos dont l’espace hypèthre se rapportait au puits oraculaire. Le chantier n’a jamais été achevé. Au IIe siècle av. J.-C., la cour fut progressivement transformée par une crypte à deux salles desservie par un passage souterrain, distinguant les consultants de l’officiant ; les consultations sont connues par les études de l’architecture et des textes antiques. Des travaux ont continué durant l’époque romaine, et Hadrien finança l’entablement de six colonnes de façade et de cinq colonnes sur chacun des longs côtés selon les travaux de l’Institut de Recherche sur l’Architecture Antique. La présente image juxtapose des volumes plausibles — façade avancée, parties latérales inachevées, échafaudages, blocs de taille, petit espace sacrificiel et circulations humaines — sans prétendre reproduire une photographie exacte des années 130–140. Les stoas latérales, les figures, engins, bois, détails de l’autel et le paysage proche sont des arrangements artistiques ; les rapports métriques ne peuvent être extraits de l’image. Les éléments de crypte et de puits sont documentés mais ne sont pas visibles dans cette perspective. L’illustration n’est ni un relevé d’architecture, ni un modèle géométrique 3D validé par les chercheurs.",
+  "certainty": "Élevé : présence du sanctuaire oraculaire à Claros, temple grec dorique à cour, projet de péristyle 6 × 11, crépis à cinq degrés, chantier jamais achevé, modifications liées à la crypte et poursuite des travaux sous Hadrien. Moyen : organisation générale des élévations de la façade et des flancs selon l’étude archéologique, choix d’un état de chantier au IIe siècle apr. J.-C. Faible : état précis en 135, disposition exacte des échafaudages et aménagements secondaires, matériaux et traitement des surfaces, végétation, vêtements, mobilier, couleur du décor, cérémonie représentée et atmosphère.",
+  "source_url": "https://iraa.mmsh.fr/etudes-et-missions/le-temple-dapollon-a-claros-turquie/",
+  "secondary_sources": [
+    "https://www.persee.fr/doc/mom_1955-4982_2014_act_65_1_3564",
+    "https://www.umifre.fr/c/77803",
+    "https://www.ktb.gov.tr/EN-114131/claros.html",
+    "https://academic.oup.com/edited-volume/61673/chapter-abstract/548753246"
+  ],
+  "src": "/assets/reconstitutions-3d/claros-apollon-temple-cour-chantier-hadrien-vers-135-ap-jc.webp",
+  "image": "/assets/reconstitutions-3d/claros-apollon-temple-cour-chantier-hadrien-vers-135-ap-jc.webp",
+  "width": 1672,
+  "height": 941,
+  "created_at": "2026-11-06",
+  "type": "panorama numérique photoréaliste interprétatif à apparence 3D, non métrique",
+  "provenance": "Création originale de MYTHOS par génération numérique puis conversion en WebP, sans textes, menus, logos, filigranes ni schémas 2,5D dans l’image ; aucune validation du rendu par les institutions citées.",
+  "sha256": "86681ecac8001c7eca262eb08ee343601750f64e475a233348b2d1e8032a7daf",
+  "scientific_notice": "/assets/reconstitutions-3d/notices/claros-apollon-temple-cour-chantier-hadrien-vers-135-ap-jc.json",
+  "scientific_sources": [
+    {
+      "label": "IRAA (CNRS / AMU) — Le temple d’Apollon à Claros",
+      "url": "https://iraa.mmsh.fr/etudes-et-missions/le-temple-dapollon-a-claros-turquie/"
+    },
+    {
+      "label": "D. Laroche et O. Riss — Le temple d’Apollon et le fonctionnement de l’oracle (2014)",
+      "url": "https://www.persee.fr/doc/mom_1955-4982_2014_act_65_1_3564"
+    },
+    {
+      "label": "UMIFRE / IFEA — Le temple de l’oracle d’Apollon à Claros",
+      "url": "https://www.umifre.fr/c/77803"
+    },
+    {
+      "label": "Ministère turc de la Culture — Claros",
+      "url": "https://www.ktb.gov.tr/EN-114131/claros.html"
+    },
+    {
+      "label": "Oxford Classical Dictionary — Claros",
+      "url": "https://academic.oup.com/edited-volume/61673/chapter-abstract/548753246"
+    }
+  ],
+  "primary_texts": [
+    "Hymne homérique à Apollon, tradition relative à Claros (témoignage littéraire ; non un plan architectural).",
+    "Tacite, Annales, II, 54 : oracle de Claros et rôle de l’officiant (témoignage rétrospectif)."
+  ],
+  "methodology": "Reconstitution visuelle synthétique non métrique ; périodes, dimensions et attributions reposent sur l’IRAA et les études publiées, tandis que l’aspect précis du chantier et les couleurs restent conjecturaux.",
+  "publication_status": "prepared_not_public_until_https_verified"
+}
