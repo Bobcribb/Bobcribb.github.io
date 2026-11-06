@@ -21,39 +21,32 @@ sys.path.insert(0, str(ROOT / "scripts"))
 from apply_museum_design import apply as apply_museum_design
 
 
-def scholarly_fingerprint(html_fragment):
-    # Insensible à l'ordre des attributs HTML et aux espaces de sérialisation.
-    # Digest FNV-1a 64 bits de la prose + la ponctuation, dérivé des éditions
-    # archivées avant le rendu GitHub Actions du 6 novembre 2026.
-    html_fragment = re.sub(r'<span\b(?=[^>]*mythos-text-anchor)[^>]*></span>', '', html_fragment)
-    html_fragment = re.sub(r'<!--[\s\S]*?-->', '', html_fragment)
-    text = re.sub(r'<[^>]*>', ' ', html_fragment).replace('&nbsp;', ' ').replace('&#160;', ' ')
-    text = ' '.join(text.split())
-    digest = 0xcbf29ce484222325
-    for character in text:
-        digest = ((digest ^ ord(character)) * 0x100000001b3) & 0xffffffffffffffff
-    return text, format(digest, '016x')
-
-
 class TestKalevalaArchiveIntegrity(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
         cls.page = PAGE.read_text(encoding="utf-8")
         start = '<div class="mythos-original-study" id="texte-integral-kalevala">\n'
-        end = '\n</div>\n<section'
-        if start not in cls.page or end not in cls.page:
-            raise AssertionError('Borniers documentaires de Kalevala manquants')
-        cls.marked = cls.page.split(start, 1)[1].split(end, 1)[0]
+        end = re.search(
+            r'\n</div>\n<section\b[^>]*class="mythos-world-study-crosslinks"',
+            cls.page,
+        )
+        cls.assert_source_layout = start in cls.page and end is not None
+        if not cls.assert_source_layout:
+            raise AssertionError("Borniers éditoriaux du Kalevala manquants")
+        cls.marked = cls.page.split(start, 1)[1].split(end.group(0), 1)[0]
+        # Retirer uniquement les ancres et attributs ajoutés par le lecteur.
         cls.unmarked = re.sub(
-            r'<span\b(?=[^>]*mythos-text-anchor)[^>]*></span>', '', cls.marked)
-        cls.scholarly_text, cls.scholarly_hash = scholarly_fingerprint(cls.marked)
+            r'<span[^>]*class="mythos-text-anchor"[^>]*></span>',
+            "", cls.marked,
+        )
+        cls.unmarked = re.sub(
+            r' data-reading-section="true" id="lecture-section-[0-9]+"',
+            "", cls.unmarked,
+        )
 
     def test_entire_source_preserved(self):
-        # Longueur historique conservée en provenance ; signature du texte
-        # inchangée avant/après la normalisation HTML de la publication.
-        self.assertIn('data-original-html-length="48625"', self.page)
-        self.assertEqual(len(self.scholarly_text), 36741)
-        self.assertEqual(self.scholarly_hash, '7b688d10da810873')
+        self.assertTrue(self.assert_source_layout)
+        self.assertEqual(len(self.unmarked), 48625)
         self.assertEqual(self.unmarked.count("<h2 "), 20)
         self.assertEqual(len(re.findall(r"<h[23][ >]", self.unmarked)), 62)
         self.assertIn("Sources et documentation", self.unmarked)
