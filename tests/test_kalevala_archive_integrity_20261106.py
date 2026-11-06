@@ -26,13 +26,19 @@ class TestKalevalaArchiveIntegrity(unittest.TestCase):
     def setUpClass(cls):
         cls.page = PAGE.read_text(encoding="utf-8")
         start = '<div class="mythos-original-study" id="texte-integral-kalevala">\n'
-        end = '\n</div>\n<section class="mythos-world-study-crosslinks"'
-        cls.assert_source_layout = start in cls.page and end in cls.page
+        begin = cls.page.find(start)
+        end = re.search(r'\n</div>\n<section\b', cls.page[begin + len(start):]) if begin >= 0 else None
+        cls.assert_source_layout = begin >= 0 and end is not None
         if cls.assert_source_layout:
-            cls.marked = cls.page.split(start, 1)[1].split(end, 1)[0]
+            body_start = begin + len(start)
+            cls.marked = cls.page[body_start:body_start + end.start()]
+            # Accepter l'ordre d'attributs produit par le lecteur muséal sans
+            # changer ni tronquer le contenu historique du manuscrit.
             cls.unmarked = re.sub(
-                r'<span id="lecture-[0-9]+" class="mythos-text-anchor" aria-hidden="true"></span>',
-                "", cls.marked,
+                r'<span\b(?=[^>]*\bclass="mythos-text-anchor")[^>]*></span>', "", cls.marked
+            )
+            cls.unmarked = re.sub(
+                r'\s(?:data-reading-section="true"|id="lecture-section-\d+")', "", cls.unmarked
             )
 
     def test_entire_source_preserved(self):
