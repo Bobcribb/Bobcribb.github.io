@@ -3367,6 +3367,12 @@
           "path": "chapitres/comparatif/volume-ccxc-mc-094-clefs-du-sacre-inanna-hecate-lagina-janus-isaie-apocalypse.md",
           "request_sha256": "3918ab1739c683e154cdf39e9863756de53560148190b842ae2150dbab2698c0",
           "initial_source_sha256": "34c727149b2060c7e70b100aa4a3b203e649968a3e0478be7f9a226fad579b50"
+        },
+        "1b8a6723-4e90-4b8b-9a32-f0ad9c5d7e12": {
+          "number": 291,
+          "path": "chapitres/comparatif/volume-ccxci-oiseaux-promethee-parasol-basileia-tresor-renseignement-souverainete-414.md",
+          "request_sha256": "922571bec49d827e6cb33836701b83583fae37e9f0bf36b9b980cc0a1f35ece1",
+          "initial_source_sha256": "8b9368a6c68cb273cf3601c57625f839f2b3fb24567a98d6d0e7a0fc4312d84c"
         }
       }
     }
