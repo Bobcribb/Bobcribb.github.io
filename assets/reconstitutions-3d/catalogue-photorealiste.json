@@ -2,7 +2,7 @@
   "generated_at": "2026-11-06",
   "site": "bobmythos.fr",
   "method": "Illustrations photoréalistes interprétatives, textes et sources hors des pixels.",
-  "count": 65,
+  "count": 66,
   "entries": [
     {
       "id": "DEL-PAN-001",
@@ -1663,6 +1663,31 @@
       ],
       "methodology": "Évocation artistique sans relevé métrique ; les élévations et couronnements ainsi que l’état précis sous Hiéron II doivent être considérés hypothétiques.",
       "publication_status": "fichier_depose_GitHub_deploiement_public_a_verifier"
+    },
+    {
+      "id": "SAR-ART-001",
+      "slug": "sardes-artemis-cella-hellenistique-vers-240-av-jc",
+      "title": "Sardes (Lydie) — temple d’Artémis, cella hellénistique sans péristyle, vers 240 av. J.-C.",
+      "period": "Vers 250–220 av. J.-C., première phase séleucide du temple commencé après 281 av. J.-C. ; datation de la cella approximative.",
+      "caption": "Restitution photoréaliste numérique interprétative de la cella du temple d’Artémis à Sardes au IIIe siècle av. J.-C. : façade ionique entre antes, autel antérieur, sans les colonnades extérieures construites bien plus tard.",
+      "commentary": "Sardes, capitale historique lydienne passée dans la sphère hellénistique, conserve un important sanctuaire d’Artémis sous l’acropole du Tmôlos. Son autel et les documents épigraphiques attestent un culte antérieur à la construction séleucide. Le grand temple de marbre fut probablement commencé après 281 av. J.-C. ; sa cella aurait été fonctionnelle vers 250–240 av. J.-C. Selon Fikret K. Yegül et les fouilles de Cahill et Greenewalt, la première phase acheva la cella et ses colonnes en antis, mais PAS le péristyle extérieur, dont les travaux relèvent de la période romaine et restèrent inachevés. La façade regardait l’ouest, vers un autel ancien intégré au nouveau sanctuaire ; l’intérieur comportait deux files de supports. Le rendu représente cette seule phase hellénistique sans colonnes périphériques et ne doit pas être confondu avec le plan pseudodiptère de l’époque impériale. La forme exacte du toit et des frontons, les pavements, les personnages, les arbres et la vue des montagnes sont artistiques. Important : les tuiles rouges visibles ici sont une convention du rendu, tandis que la recherche privilégie l’hypothèse d’une couverture en tuiles de marbre. La déesse sardienne s’inscrit aussi dans des traditions cultuelles anatoliennes, au-delà d’une stricte identité avec la chasseresse grecque. Il s’agit d’une visualisation photoréaliste non métrique, et non d’un état reconstruit scientifiquement ou approuvé par les institutions citées.",
+      "certainty": "Élevé : implantation du sanctuaire à Sardes, culte d’Artémis, phase monumentale séleucide au IIIe siècle, cella marbrière, façade vers l’ouest, absence de péristyle extérieur construit à cette date et présence d’un autel ancien. Moyen : date de mise en service de la cella vers 250–240, proportions générales, organisation des colonnes en antis et intérieures, couverture de marbre proposée par les chercheurs. Faible : toiture rouge représentée (non attestée), détails architecturaux précis, polychromie, mobilier cultuel, personnages, paysage, voie d’accès et atmosphère.",
+      "source_url": "https://sardisexpedition.org/en/essays/about-artemis-temple",
+      "secondary_sources": [
+        "https://sardisexpedition.org/en/essays/r7-yegul-ch1-introduction",
+        "https://sardisexpedition.org/en/essays/r7-yegul-ch3-history",
+        "https://ajaonline.org/field-report/2650/",
+        "https://classics.cornell.edu/archaeological-exploration-sardis",
+        "https://www.journals.uchicago.edu/doi/10.1086/721904"
+      ],
+      "src": "/assets/reconstitutions-3d/sardes-artemis-cella-hellenistique-vers-240-av-jc.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-06",
+      "type": "reconstitution numérique photoréaliste à apparence 3D, non métrique",
+      "provenance": "Image originale générée pour MYTHOS sans menu, texte, logo ni représentation vectorielle 2,5D. Hypothèses et limites précisées ; organismes documentaires sans validation de l’image.",
+      "sha256": "49177e0f1ca50868f874c80ccb6f51866f378a22489ed3afa7997d0c161e069e",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/sardes-artemis-cella-hellenistique-vers-240-av-jc.json"
     }
   ]
 }
