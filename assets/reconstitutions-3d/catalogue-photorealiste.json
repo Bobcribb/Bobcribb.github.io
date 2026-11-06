@@ -2,7 +2,7 @@
   "generated_at": "2026-11-06",
   "site": "bobmythos.fr",
   "method": "Illustrations photoréalistes interprétatives, textes et sources hors des pixels.",
-  "count": 75,
+  "count": 76,
   "entries": [
     {
       "id": "DEL-PAN-001",
@@ -2131,6 +2131,61 @@
       "provenance": "Image originale créée pour MYTHOS par génération numérique ; sans menus, titres, schémas 2,5D ni texte dans les pixels. Les institutions citées n’ont pas validé cette illustration.",
       "sha256": "67e010d2923766e10c693e1de19ed6ed1dde61a8bc81acf73538afc54091987a",
       "scientific_notice": "/assets/reconstitutions-3d/notices/pella-maison-dionysos-peristyles-vers-300-av-jc.json"
+    },
+    {
+      "id": "AKR-OLY-001",
+      "slug": "akragas-olympieion-zeus-telamons-chantier-vers-450-av-jc",
+      "title": "Akragas (Agrigente) — Olympiéion de Zeus, chantier et télamons, vers 450 av. J.-C.",
+      "period": "Évocation d’un état de chantier au milieu du Ve siècle av. J.-C. (vers 450 av. J.-C.) ; entreprise monumentale après la victoire d’Himère en 480 av. J.-C., encore inachevée lors de la prise de la ville en 406 av. J.-C. selon Diodore.",
+      "caption": "Vue photoréaliste numérique du chantier de l’Olympiéion de Zeus à Akragas : énorme stylobate, mur périphérique à demi-colonnes engagées, télamons monumentaux, levage de blocs et aménagements sacrés hypothétiques. Cette image ne représente ni un monument achevé ni un relevé de fouille.",
+      "commentary": "L’Olympiéion (temple de Zeus Olympien) domine par son échelle les grands sanctuaires de la cité grecque d’Akragas, dans la Vallée des Temples de l’actuelle Agrigente en Sicile. La tradition historique, notamment Diodore de Sicile (Bibliothèque historique, XIII, 82), associe cette construction au prestige d’Akragas après la victoire grecque d’Himère, vers 480 av. J.-C. ; selon ce témoignage postérieur, l’ouvrage, prêt à recevoir une couverture, n’aurait pas été terminé avant la prise de la cité par les Carthaginois en 406. La chronologie précise des phases et leur rapport au programme de Théron restent des sujets d’étude. Les restes et la documentation moderne indiquent une plateforme d’environ 113 × 56 mètres, avec cinq degrés, et un édifice dorique exceptionnel, non pas un temple périptère classique à colonnes isolées, mais une enceinte continue à demi-colonnes engagées dans les murs. Le rythme prévu de sept demi-colonnes sur les petits côtés et de quatorze sur les grands côtés doit être lu comme une restitution architecturale fondée sur le plan ; ce visuel ne permet pas de les compter ou mesurer avec précision. Les télamons, figures masculines monumentales d’environ 7,6 à 8 mètres, sont attestés par des fragments et des remontages. Le placement exact de ces figures entre les demi-colonnes et leur contribution effective aux charges de l’entablement ne sont pas démontrés avec certitude ; les études photogrammétriques et mécaniques discutent justement ces questions. L’image propose un moment imaginaire d’un chantier au milieu du Ve siècle av. J.-C. : échafaudages, levage par engins de bois, blocs en attente, ateliers de tailleurs de pierre, télamons déjà en place, autel et visiteurs. Ces éléments servent à rendre intelligible la monumentalité et le travail collectif, mais ne constituent pas une reconstitution stratigraphique d’une campagne de travaux observée. L’autel monumental est attesté dans le secteur, mais sa position exacte dans le cadrage, son apparence à cette date et les flammes ne sont pas validées par les fouilles. Les télamons du rendu sont idéalisés : le faciès, les vêtements sommaires, le nombre et la hauteur apparente relèvent de choix d’illustration et ne doivent pas être assimilés aux fragments originaux. Le registre graphique exclut volontairement une toiture achevée. Les proportions métriques, la modénature exacte, le traitement des surfaces, les peintures, la hauteur totale, le placement des accès, les terrasses voisines, la végétation, les personnages et l’atmosphère demeurent incertains. Les sources institutionnelles et scientifiques documentent le monument, mais ne valident ni cette image originale générée par IA ni ses détails non vérifiables. Ce fichier est une image de synthèse photoréaliste à apparence tridimensionnelle, non une maquette 3D mesurable, un relevé photogrammétrique ou une photographie historique.",
+      "certainty": "Élevé : existence de l’Olympiéion à Akragas ; architecture dorique monumentale à mur continu et demi-colonnes engagées ; présence de télamons et vestiges du grand soubassement ; contexte historique de la cité grecque. Moyen : attribution des phases du chantier autour de 480–406 av. J.-C. ; dimensions publiées proches de 113 × 56 m ; restitution du rythme de 7 × 14 demi-colonnes ; implantation des télamons, interprétation de leur fonction porteuse ; localisation du grand autel par rapport à la restitution globale. Faible : état exact du chantier vers 450 av. J.-C. ; nombre de télamons déjà posés, échafaudages et machines, personnages et leurs vêtements, couleur des enduits, élévations hautes, détails sculptés, paysage et éclairage.",
+      "source_url": "https://parchiarcheologici.regione.sicilia.it/valle-templi/blog/2023/01/12/il-telamone-dellolympeion-nella-valle-dei-templi-di-agrigento/",
+      "secondary_sources": [
+        "https://www.smarteducationunescosicilia.it/en/agrigento/a-monument-for-the-victory-over-carthage-the-temple-of-olympian-zeus/",
+        "https://doi.org/10.5194/isprsarchives-XXXVIII-5-W16-515-2011",
+        "https://whc.unesco.org/fr/list/831/",
+        "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/13D%2A.html"
+      ],
+      "src": "/assets/reconstitutions-3d/akragas-olympieion-zeus-telamons-chantier-vers-450-av-jc.webp",
+      "image": "/assets/reconstitutions-3d/akragas-olympieion-zeus-telamons-chantier-vers-450-av-jc.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-06",
+      "type": "panorama de restitution numérique photoréaliste interprétative (apparence 3D), non métrique",
+      "provenance": "Illustration originale générée pour MYTHOS à partir d’une description du chantier antique. Sans texte, titre, menu de site, watermark ou schéma 2,5D dans les pixels. Les institutions citées documentent le monument mais ne valident pas le rendu.",
+      "sha256": "d598d97120944f53bb0130fb1472beb41598f8e4981d5644ff1b8f59183deb1b",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/akragas-olympieion-zeus-telamons-chantier-vers-450-av-jc.json",
+      "scientific_sources": [
+        {
+          "label": "Parco archeologico Valle dei Templi — Il Telamone dell’Olympeion (2023)",
+          "url": "https://parchiarcheologici.regione.sicilia.it/valle-templi/blog/2023/01/12/il-telamone-dellolympeion-nella-valle-dei-templi-di-agrigento/"
+        },
+        {
+          "label": "UNESCO Sicilia — A monument for the victory over Carthage: Temple of Olympian Zeus",
+          "url": "https://www.smarteducationunescosicilia.it/en/agrigento/a-monument-for-the-victory-over-carthage-the-temple-of-olympian-zeus/"
+        },
+        {
+          "label": "Lo Brutto et Spera (2011), étude photogrammétrique des télamons, ISPRS Archives, DOI 10.5194/isprsarchives-XXXVIII-5-W16-515-2011",
+          "url": "https://doi.org/10.5194/isprsarchives-XXXVIII-5-W16-515-2011"
+        },
+        {
+          "label": "UNESCO — Zone archéologique d’Agrigente, patrimoine mondial",
+          "url": "https://whc.unesco.org/fr/list/831/"
+        },
+        {
+          "label": "Diodore de Sicile, Bibliothèque historique, XIII, 82, traduction documentée",
+          "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/13D%2A.html"
+        }
+      ],
+      "primary_texts": [
+        "Diodore de Sicile, Bibliothèque historique, XIII, 82, 1–4 : ampleur de l’Olympiéion, colonnes incorporées aux murs, interrompue avant la couverture (source postérieure à l’entreprise)."
+      ],
+      "bibliography": [
+        "Lo Brutto, Mauro et M. G. Spera, « Image-based and range-based 3D modelling of archaeological cultural heritage: the telamon of the temple of Olympian Zeus in Agrigento », ISPRS Archives, XXXVIII-5/W16 (2011), p. 515–522, DOI : 10.5194/isprsarchives-XXXVIII-5-W16-515-2011.",
+        "Diodore de Sicile, Bibliothèque historique, livre XIII, ch. 82 (analyse critique du passage sur le chantier inachevé)."
+      ],
+      "methodology": "Vue d’ambiance interprétative non métrique, construite à partir de connaissances archéologiques mais sans photogrammétrie du site ni modèle géométrique contrôlé. Le projet antique est resté inachevé ; ne pas extrapoler sur l’image des mesures, une scène rituelle historiquement attestée ou une configuration archéologique unique."
     }
   ]
 }
