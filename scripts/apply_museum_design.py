@@ -177,10 +177,13 @@ def add_scholarly_toc(doc, main, rel):
     main.insert(0, toc)
 
 
-def apply(root):
+def apply(root, relative_paths=None):
+    """Habiller toutes les pages, ou seulement les nouveaux lecteurs ajoutés tardivement."""
     root = Path(root)
     count = 0
-    for path in sorted(root.rglob('*.html')):
+    pages = (root.rglob('*.html') if relative_paths is None
+             else (root / Path(relative) for relative in relative_paths))
+    for path in sorted(pages):
         # Les pièces jointes restent des sources immuables, même en HTML.
         if path.relative_to(root).parts[0] in {'assets', 'media'}:
             continue

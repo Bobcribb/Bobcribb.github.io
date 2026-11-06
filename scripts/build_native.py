@@ -459,6 +459,17 @@ def main():
     from eneide_source_access import install as install_eneide_source_access
     print('Énéide — manuscrits originaux distribués :',
           install_eneide_source_access(ROOT, OUT))
+    # Ces 18 lecteurs sont créés APRÈS la passe muséale globale :
+    # les habiller sur leurs chemins exacts sans retraiter tout le corpus.
+    from eneide_source_access import NAMES as ENEIDE_NAMES, SOURCE_DIR as ENEIDE_DIR
+    styled_readers = apply_museum_design(
+        OUT, relative_paths=[
+            ENEIDE_DIR / name.removesuffix('.md') + '.html'
+            for name in ENEIDE_NAMES
+        ])
+    if styled_readers != len(ENEIDE_NAMES):
+        raise RuntimeError('Énéide : habillage muséal des 18 lecteurs incomplet')
+    print('Énéide — lecteurs habillés selon la charte commune :', styled_readers)
     from build_reading_pdfs import build as build_reading_pdfs
     build_reading_pdfs(OUT)
     verify_sources(protected_sources)
