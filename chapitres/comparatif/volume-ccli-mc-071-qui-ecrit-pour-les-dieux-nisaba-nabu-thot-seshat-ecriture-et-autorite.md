@@ -3,7 +3,7 @@
 ## MC-071 — Qui écrit pour les dieux ? Nisaba, Nabû, Thot et Seshat : invention des signes, décisions divines, lois gravées et autorité des scribes de Sumer à l'Égypte, de la Grèce à Israël et à l'Asie
 
 **Monographie universitaire originale en français, 4 novembre 2026.**  
-**Identifiant historique : MC-071.** Ne constitue ni le numéro romain canonique ni la confirmation de publication. La demande GitHub conserve les variables `251` et `CCLI`, que seul le circuit atomique doit remplacer. MC-040 est conservé sous une version principale, avec l'étude parallèle archivée intégralement, et MC-041 « Le rêve fait-il le roi ? » figure déjà dans la file éditoriale ; aucune de ces demandes n'est redéposée. La numérotation canonique demeure indépendante.
+**Identifiant historique : MC-071.** Ne constitue ni le numéro romain canonique ni la confirmation de publication. Le circuit transactionnel a attribué le volume CCLI (251), conformément au reçu conservé dans `editorial/numbering.json`. MC-040 est conservé sous une version principale, avec l'étude parallèle archivée intégralement, et MC-041 « Le rêve fait-il le roi ? » figure déjà dans la file éditoriale ; aucune de ces demandes n'est redéposée. La numérotation canonique demeure indépendante.
 
 ### Résumé
 
