@@ -5,63 +5,36 @@
   "branch": "main",
   "latest_session": {
     "date": "2026-11-06",
-    "session_number": 73,
+    "session_number": 79,
     "kind": "AUDIT ET CORRECTION",
     "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
     "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
-    "scope": "Audit post-iconographique des trois monographies philosophiques Iliade, Odyssée et Théogonie. Rétablissement de la vérification HTTPS des trois figures de la séance 72 (pages, légendes, statut, signatures JPEG et empreintes SHA-256).",
-    "source_main_at_review": "1c74cd307c6a68becc3927a5acb1c3882aac20a9",
-    "previous_session": 72,
-    "inspected_pages": [
-      "philosophie-iliade.html",
-      "philosophie-odyssee.html",
-      "philosophie-theogonie.html"
-    ],
+    "source_pr_head_at_review": "c5f42cdecf4f58e27807e95ad64fc8aebf1c27bd",
+    "scope": "Audit des trois monographies philosophiques et du Nibelungenlied, des images et des fichiers CSS/JS; fermeture d'un faux positif du validateur des SVG lors du contrôle HTTPS.",
     "checks": {
-      "html_ids": 384,
-      "same_page_hash_links": 335,
-      "image_elements": 124,
-      "duplicate_html_ids": 0,
+      "html_pages": 4,
+      "html_ids": 413,
+      "same_page_hash_links": 360,
       "broken_same_page_anchors": 0,
+      "img_elements": 130,
       "images_without_alt": 0,
-      "three_figures_found": 3,
-      "distinct_media_found_in_git_tree": 3,
-      "media_sizes_bytes": [
-        6594541,
-        111291,
-        1551070
-      ],
-      "previous_inventory": {
-        "figures": 61,
-        "pages": 13,
-        "unique_media": 44
-      },
-      "revised_inventory": {
-        "figures": 64,
-        "pages": 13,
-        "unique_media": 47
-      }
+      "unsafe_blank_targets": 0,
+      "local_svg_references_in_philosophy_pages": 55,
+      "local_css_js_paths": 10,
+      "missing_css_js_paths": 0
     },
-    "verified_error": "Les trois figures de la séance 72 sont présentes dans les pages source et dans les pages publiques, mais absentes de RECENT_FIGURES dans scripts/verify_live_site.py. Les contrôles habituels n'imposaient pas leurs notices HTTPS ni leurs sommes SHA-256 individuelles.",
-    "correction": "Extension de RECENT_FIGURES à trois triplets page / id / JPEG et mise à jour des assertions pour 64 figures sur 13 pages et 47 médias distincts. Nouveau test de non-régression contre une figure publique périmée et contre l'altération d'un JPEG de chacun des trois objets.",
-    "public_verification": {
-      "public_domain": "https://bobmythos.fr",
-      "manifest_source_commit": "3b3d181c640f7f097f16c9e112b0076203cfa3fa",
-      "manifest_github_run_id": "42254292001",
-      "indexed_documents": 1699,
-      "three_figures_https_present": true,
-      "three_figure_captions_and_status_https_present": true,
-      "jpeg_exact_sha256_https_checked": false,
-      "reason": "Les trois figures ont été directement vérifiées par sélecteur figure#id sur HTTPS, mais le contrôle binaire cryptographique se fera dans le vérificateur de publication. Ne pas confondre présence publique des notices et identité des octets."
-    },
-    "publication_status": "Trois notices de la séance 72 vérifiées sur le site public au commit 3b3d181c..., mais le présent correctif du vérificateur n'a pas encore été déployé. CI et Pages doivent être contrôlés après commit.",
-    "scientific_and_editorial_preservation": "Aucun titre, manuscrit, citation, numéro, UUID, reçu, registre, menu, fichier HTML scientifique ou image modifié. Les attributions anciennes, les origines et le statut IA des trois objets restent inchangés. Aucun vecteur 2,5D ajouté.",
-    "tests": "Vérification structurelle préalable des figures, des trois médias locaux, de la présence des légendes, des URL HTTPS et de la non-duplication. Nouveau test de défaillance HTTP simulée ; suite Python complète GitHub Actions à revérifier.",
-    "limits": "Pas de nouveau test visuel smartphone/tablette ni de recalcul PDF A4 ; contrôle exhaustif des liens scientifiques externes non fait ; l'identité des JPEG publics sera vérifiée par la CI de publication.",
-    "scheduling": "Aucun workflow ou paramètre de fréquence horaire modifié.",
-    "next_session": "Séance 74 — ENRICHISSEMENT ICONOGRAPHIQUE",
-    "commits": [],
-    "commit_note": "Commit atomique du vérificateur, des tests et du journal ; SHA à relever et relire après écriture."
+    "verified_problem": "Les contrôles SVG acceptaient un simple marqueur b'<svg' présent dans les premiers octets, y compris un faux fichier HTML contenant ce texte en commentaire; la vérification SHA-256 ne corrigeait pas l'absence de validation XML dans la source.",
+    "correction": "Validation XML du document SVG et de l'élément racine avec ElementTree dans scripts/verify_live_site.py ; même garde utilisé dans l'inventaire SVG, les figures ciblées et les figures récentes, pour le build comme pour le domaine public.",
+    "tests": "Nouveau tests/test_iconography_session79_svg_audit.py : rejette HTML avec un faux marqueur SVG, XML mal formé, racine HTML ; protège les SVG des séances 76 et 78 et la présence de leurs figures sourcées. Vérification statique préalable de 4 HTML et 10 CSS/JS ; CI GitHub Actions en attente de confirmation.",
+    "preservation": "Aucune étude, citation, chapitre, numérotation canonique, UUID, reçu, registre, media, navigation, style de production ou planification modifié. Aucune nouvelle illustration 2,5D.",
+    "publication_status": "Code et tests sur la branche de la PR n° 130, pas fusionnée sur main. Le site HTTPS n'a pas pu être contrôlé directement ; aucune nouvelle publication publique annoncée.",
+    "obstacles": "Validation externe de bobmythos.fr indisponible sur les outils de consultation ; CI et résolution de la PR concurrente à confirmer. Tests visuels responsive et pagination PDF A4 non exécutés.",
+    "next_session": "Séance 80 — ENRICHISSEMENT ICONOGRAPHIQUE",
+    "commits": [
+      "280c75e57c228c8cd3bdb66de78863c9d03f63cb",
+      "7fe20e3233b58f68d6ab6fd0c3f8064135fb4162"
+    ],
+    "commit_note": "Le commit du journal est à relever dans la réponse GitHub, puis relire la branche et les chemins."
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
   "history": [
@@ -4580,6 +4553,221 @@
       "next_session": "Séance 74 — ENRICHISSEMENT ICONOGRAPHIQUE",
       "commits": [],
       "commit_note": "Commit atomique du vérificateur, des tests et du journal ; SHA à relever et relire après écriture."
+    },
+    {
+      "date": "2026-11-06",
+      "session_number": 74,
+      "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "previous_kind": "AUDIT ET CORRECTION",
+      "next_kind": "AUDIT ET CORRECTION",
+      "source_main_at_review": "308e1a3461578e8353581dc6b5b2581c439feb19",
+      "scope": "Deux nouvelles figures documentaires grecques dans les monographies de philosophie de l’Iliade et de la Théogonie, avec légendes savantes, statut non-IA, dates, cotes et sources muséales CC0. Odyssée déjà dotée d’une figure Oreste et du même vase de Perséphone : aucun doublon ajouté. Correction élémentaire indépendante d’un attribut HTML mal formé sur le lecteur Nibelungenlied.",
+      "figures": [
+        {
+          "page": "philosophie-iliade.html",
+          "figure_id": "icono-iliade-nike-victoire-met247903-s74-20261106",
+          "asset": "/assets/illustrations-articles/met-247903-nike-terre-cuite.webp",
+          "met_source": "https://www.metmuseum.org/art/collection/search/247903"
+        },
+        {
+          "page": "philosophie-theogonie.html",
+          "figure_id": "icono-theogonie-persephone-retour-met252973-s74-20261106",
+          "asset": "/assets/illustrations-articles/met-252973-persephone-retour-enfers.webp",
+          "met_source": "https://www.metmuseum.org/art/collection/search/252973"
+        }
+      ],
+      "precommit_checks": {
+        "pages_examined": 2,
+        "figures_added": 2,
+        "unique_new_figure_ids": 2,
+        "duplicate_ids": 0,
+        "broken_same_page_anchors": 0,
+        "missing_local_image_resources": 0,
+        "unchanged_scientific_content_except_inserted_figures": true,
+        "existing_assets_reused": true,
+        "additional_verified_malformed_html": true,
+        "css_js": "Liens vers les ressources du thème observés ; tests d’intégration et déploiement restent à lancer par GitHub Actions."
+      },
+      "corrections": [
+        "Attribut class/data-reading-owned de nav.reader-bottom corrigé dans la page Nibelungenlied ; prose intégralement préservée."
+      ],
+      "scientific_notes": "La figurine de Nikè postérieure ne représente pas les jeux de Patrocle ; le cratère de Perséphone illustre un épisode de tradition différente du simple catalogue de Théogonie 912–914.",
+      "preservation": "Aucune édition ou renumérotation de chapitres, aucune modification des manuscrits, titres canoniques, registre, reçus, menus, CSS, JS, workflows, planifications ni fichiers d’images. Aucun 2,5D.",
+      "publication_status": "Proposition GitHub à vérifier ; ni fusion ni déploiement public présumés. Contrôle des tests GitHub Actions et HTTPS nécessaire après fusion.",
+      "next_session": "Séance 75 — AUDIT ET CORRECTION",
+      "tests": "Nouveau test structurel pour les deux figures, les deux images archivées et le correctif de navigation. Exécution complète CI à confirmer.",
+      "commits": []
+    },
+    {
+      "date": "2026-11-06",
+      "session_number": 75,
+      "kind": "AUDIT ET CORRECTION",
+      "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "source_main_at_review": "ef64db9c9c60c45cfb4d782cbee4086b6653c6d7",
+      "scope": "Audit après séance 74 : contrôles structurels ciblés des études Iliade, Odyssée, Théogonie et du lecteur Nibelungenlied ; protection des deux figures s74 contre un déploiement incomplet.",
+      "checks": {
+        "html_pages": 4,
+        "html_ids": 411,
+        "local_hash_anchors": 360,
+        "broken_local_anchors": 0,
+        "duplicate_html_ids": 0,
+        "images_with_alt": 128,
+        "images_without_alt": 0,
+        "unique_css_js_paths": 10,
+        "missing_css_js_paths": 0,
+        "philosophy_figures": {
+          "Iliade": 43,
+          "Odyssee": 41,
+          "Theogonie": 42
+        }
+      },
+      "verified_problem": "Les figures s74 existent sur la branche de proposition mais sont absentes de RECENT_FIGURES dans scripts/verify_live_site.py, donc le contrôle HTTPS n'impose pas encore leurs notices et leurs octets binaires. Le lecteur Nibelungenlied avait deux navigations dont une mal formée, corrigées lors de la séance 74 réconciliée.",
+      "correction": "Ajout des 2 triplets page/figure/WebP au vérificateur HTTPS, actualisation de 64 à 66 figures contrôlées sur 13 pages et 47 médias distincts, et nouveau test simulant page périmée et WebP altéré. Test permanent des ancres, IDs, alt et chemins CSS/JS des 4 pages. Les deux WebP étaient déjà suivis sur d'autres pages : aucun média ajouté.",
+      "tests": "Contrôles de source réalisés sur la branche. Exécution GitHub Actions du nouveau commit à confirmer.",
+      "source_preservation": "Aucun article scientifique ou numéro canonique modifié lors de s75. Aucun registre, navigation, manuel de publication, source scientifique, fichier média ou planification horaire modifié. S74 fusionne main sans écraser le renvoi Nibelungenklage.",
+      "publication_status": "Le correctif et les figures s74 sont dans une PR, fusion et déploiement HTTPS encore à confirmer ; l'accès au domaine public a échoué depuis l'outil de consultation.",
+      "obstacles": "Contrôle exhaustif des URLs scientifiques externes et tests d'affichage navigateur/mobile non effectués ; GitHub Pages et empreintes WebP publiques non vérifiables à ce stade.",
+      "next_session": "Séance 76 — ENRICHISSEMENT ICONOGRAPHIQUE",
+      "commits": []
+    },
+    {
+      "date": "2026-11-06",
+      "session_number": 76,
+      "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "previous_kind": "AUDIT ET CORRECTION",
+      "next_kind": "AUDIT ET CORRECTION",
+      "source_main_at_review": "163279397f875687c11f28b07155705abc60a193",
+      "source_pr_head_at_review": "0c6fcb66d02b454a85f0dcd3c581d7bd746e8828",
+      "scope": "Ajout ciblé à l'étude philosophique existante de l'Odyssée d'un schéma 2D inédit sur l'épreuve de l'arc : règle de Pénélope, compétence d'Ulysse, problème de légitimité. Aucun doublon muséal ni changement du manuscrit.",
+      "figures_added": 1,
+      "figure_id": "icono-odyssee-arc-preuve-autorite-s76-20261106",
+      "page": "philosophie-odyssee.html",
+      "asset": "/assets/philosophie/odyssee-arc-preuve-autorite-s76-20261106.svg",
+      "reference": "Homère, Odyssée XXI, 70–79, 391–434 ; XXII, 1–41 ; Perseus/Murray",
+      "image_status": "Schéma original contemporain créé avec assistance IA, non artefact grec et non reconstitution archéologique.",
+      "precommit_checks": {
+        "odyssee_figures_before": 41,
+        "odyssee_figures_after": 42,
+        "html_ids_unique": true,
+        "broken_local_anchors": 0,
+        "images_without_alt": 0,
+        "unchanged_previous_html_outside_figure": true,
+        "svg_title_and_desc": true,
+        "source_path_unique": true
+      },
+      "preservation": "Textes scientifiques préexistants, numérotations, registres, manuscrits, navigation, scripts, CSS/JS et planifications inchangés. Pas de média 2,5D.",
+      "publication_status": "Proposition sur la branche de PR 130 ; aucune fusion ou publication HTTPS présumée. Vérifications de CI et du site nécessaires.",
+      "obstacles": "La PR 130 porte encore les séances 74–75 et précède des changements concurrents de main. Contrôle mobile et PDF non effectués.",
+      "next_session": "Séance 77 — AUDIT ET CORRECTION",
+      "commits": []
+    },
+    {
+      "date": "2026-11-06",
+      "session_number": 77,
+      "kind": "AUDIT ET CORRECTION",
+      "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "source_main_at_review": "55ac8db5fdda40fd9d210f168c9172615f0ac411",
+      "source_pr_head_at_review": "90e063f45ea8d8ee134419fbb2dce391d6d2430d",
+      "scope": "Audit ciblé des trois monographies philosophiques et du lecteur Nibelungenlied ; réparation du contrôle de la publication de la figure SVG de la séance 76, sans toucher aux études.",
+      "checks": {
+        "html_pages": 4,
+        "html_ids": 408,
+        "internal_hash_links": 360,
+        "duplicate_html_ids": 0,
+        "broken_internal_hash_links": 0,
+        "img_elements": 129,
+        "images_without_alt": 0,
+        "unique_local_resources_in_four_pages": 125,
+        "missing_local_resources_in_github_tree": 0,
+        "distinct_local_css_js_paths": 10,
+        "unique_external_images": 5,
+        "one_h1_and_viewport_in_four_pages": true,
+        "actions_previous_head": {
+          "sha": "90e063f45ea8d8ee134419fbb2dce391d6d2430d",
+          "generator_run": 42280386808,
+          "generator_result": "success",
+          "audit_run": 42280386841,
+          "audit_result": "success"
+        }
+      },
+      "verified_problem": "L'illustration s76 est couverte pour l'URL et l'empreinte SVG par svg_inventory, mais n'était pas inscrite dans RECENT_FIGURES : sa légende, son attribut data-image-status et son texte alternatif pouvaient disparaître du déploiement sans être signalés par le contrôle HTTPS des figures.",
+      "correction": "Ajout du triplet page/figure/SVG au vérificateur : 66 → 67 figures, 47 → 48 binaires distincts, 13 pages. Test de régression simulant HTML public périmé et SVG altéré. Test permanent de résolution des ressources locales, lang, viewport, H1 et XML SVG.",
+      "scientific_source_check": "La source primaire citée dans la légende s76 (texte grec et traduction Murray de l'Odyssée XXI) est accessible en consultation publique ; ses vers 70–79 documentent l'épreuve des douze haches.",
+      "preservation": "Aucun texte, numéro, manuscrit, registre, catalogue, navigation, image, CSS/JS de production, workflow ni planification modifié. Conservation explicite du statut IA de l'illustration 2D ; aucun objet 2,5D.",
+      "deployment_status": "PR 130 encore ouverte à la lecture initiale, non fusionnée ; vérification HTTPS de bobmythos.fr impossible depuis l'outil public de navigation, donc aucune publication publique nouvelle n'est attestée.",
+      "limits": "Le responsive visuel smartphone/tablette et le PDF A4 ne sont pas rendus dans un navigateur. Les liens scientifiques externes des quatre pages ne sont pas tous testés individuellement. Après commit : contrôles Actions et intégration main à relire.",
+      "next_session": "Séance 78 — ENRICHISSEMENT ICONOGRAPHIQUE",
+      "commits": [],
+      "additional_verified_ci_failure": "GitHub Actions run 42284151948 : 458 tests, 2 échecs. L'un provient de test_iconography_session76_odyssee, qui exigeait à tort que la séance 76 reste la dernière après la séance 77. L'autre provient de la galerie 3D : une ancre littérale #lecture-section-{LECTURE_INDEX} sur l'ancien état de la branche ; main a depuis corrigé la galerie au commit 39bd5cbf9ece075c8c4cba79fc68626ea9e338ba. Ne pas écraser la galerie plus récente de main.",
+      "additional_correction": "Test s76 rendu pérenne : il vérifie que la dernière entrée du journal est bien latest_session et que toutes les séances 74 et suivantes alternent sans saut. La galerie 3D corrigée sur main est préservée sans écriture depuis notre branche ; nouvelle CI sur PR à confirmer avec main actuel.",
+      "additional_ci_status": "Dernier commit de la séance 77 à revérifier sur GitHub Actions ; le résultat des deux tests échoués n'est pas encore déclaré résolu tant que la nouvelle CI n'est pas verte."
+    },
+    {
+      "date": "2026-11-06",
+      "session_number": 78,
+      "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "previous_kind": "AUDIT ET CORRECTION",
+      "next_kind": "AUDIT ET CORRECTION",
+      "source_pr_head_at_review": "5fbb9729902f529137ee60073231e8fefe1d7a56",
+      "scope": "Théogonie section 35 : schéma 2D original sur la distance du Tartare, l'enfermement des Titans et l'alternance Jour/Nuit, sans carte fictive de l'Antiquité.",
+      "figure_id": "icono-theogonie-tartare-limites-s78-20261106",
+      "page": "philosophie-theogonie.html",
+      "asset": "/assets/philosophie/theogonie-tartare-limites-s78-20261106.svg",
+      "source": "https://chs.harvard.edu/primary-source/hesiod-theogony-sb/",
+      "primary_reference": "Hésiode, Théogonie 720–735, 744–757",
+      "date_of_creation": "6 novembre 2026",
+      "image_status": "Schéma éditorial contemporain 2D avec assistance IA, non artefact antique.",
+      "checks": {
+        "figures_before": 42,
+        "figures_after": 43,
+        "html_ids": 131,
+        "anchors": 113,
+        "broken_anchors": 0,
+        "alt_missing": 0,
+        "existing_html_preserved": true,
+        "https_figure_inventory_count_after": 68,
+        "distinct_media_after": 49,
+        "inventory_pages": 13
+      },
+      "preservation": "Aucun texte préexistant, numéro, registre, attribution, UUID, navigation, CSS/JS de production ou planification horaire modifié. Aucune perspective 2,5D.",
+      "publication_status": "Branch PR 130, commit à confirmer ; ne pas annoncer déploiement avant fusion, Actions et HTTPS.",
+      "next_session": "Séance 79 — AUDIT ET CORRECTION",
+      "commits": []
+    },
+    {
+      "date": "2026-11-06",
+      "session_number": 79,
+      "kind": "AUDIT ET CORRECTION",
+      "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "source_pr_head_at_review": "c5f42cdecf4f58e27807e95ad64fc8aebf1c27bd",
+      "scope": "Audit des trois monographies philosophiques et du Nibelungenlied, des images et des fichiers CSS/JS; fermeture d'un faux positif du validateur des SVG lors du contrôle HTTPS.",
+      "checks": {
+        "html_pages": 4,
+        "html_ids": 413,
+        "same_page_hash_links": 360,
+        "broken_same_page_anchors": 0,
+        "img_elements": 130,
+        "images_without_alt": 0,
+        "unsafe_blank_targets": 0,
+        "local_svg_references_in_philosophy_pages": 55,
+        "local_css_js_paths": 10,
+        "missing_css_js_paths": 0
+      },
+      "verified_problem": "Les contrôles SVG acceptaient un simple marqueur b'<svg' présent dans les premiers octets, y compris un faux fichier HTML contenant ce texte en commentaire; la vérification SHA-256 ne corrigeait pas l'absence de validation XML dans la source.",
+      "correction": "Validation XML du document SVG et de l'élément racine avec ElementTree dans scripts/verify_live_site.py ; même garde utilisé dans l'inventaire SVG, les figures ciblées et les figures récentes, pour le build comme pour le domaine public.",
+      "tests": "Nouveau tests/test_iconography_session79_svg_audit.py : rejette HTML avec un faux marqueur SVG, XML mal formé, racine HTML ; protège les SVG des séances 76 et 78 et la présence de leurs figures sourcées. Vérification statique préalable de 4 HTML et 10 CSS/JS ; CI GitHub Actions en attente de confirmation.",
+      "preservation": "Aucune étude, citation, chapitre, numérotation canonique, UUID, reçu, registre, media, navigation, style de production ou planification modifié. Aucune nouvelle illustration 2,5D.",
+      "publication_status": "Code et tests sur la branche de la PR n° 130, pas fusionnée sur main. Le site HTTPS n'a pas pu être contrôlé directement ; aucune nouvelle publication publique annoncée.",
+      "obstacles": "Validation externe de bobmythos.fr indisponible sur les outils de consultation ; CI et résolution de la PR concurrente à confirmer. Tests visuels responsive et pagination PDF A4 non exécutés.",
+      "next_session": "Séance 80 — ENRICHISSEMENT ICONOGRAPHIQUE",
+      "commits": [
+        "280c75e57c228c8cd3bdb66de78863c9d03f63cb",
+        "7fe20e3233b58f68d6ab6fd0c3f8064135fb4162"
+      ],
+      "commit_note": "Le commit du journal est à relever dans la réponse GitHub, puis relire la branche et les chemins."
     }
   ]
 }

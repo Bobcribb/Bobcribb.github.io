@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="mythos-s78-title mythos-s78-desc">
+<title id="mythos-s78-title">Le Tartare dans la Théogonie : distance, clôture, alternance</title>
+<desc id="mythos-s78-desc">Trois panneaux interprétatifs : l'enclume de bronze mesure la distance entre ciel, terre et Tartare ; les portes enferment les Titans ; la Nuit et le Jour alternent à leur seuil. Ce schéma n'est ni un artefact antique ni une carte à l'échelle.</desc>
+<metadata>MYTHOS, 6 novembre 2026, séance 78. Schéma éditorial 2D original créé avec assistance IA, non artefact historique, sans perspective 2,5D. Source primaire : Hésiode, Théogonie 720–735 et 744–757.</metadata>
+<rect width="1200" height="700" fill="#0b1318"/>
+<rect x="18" y="18" width="1164" height="664" fill="none" stroke="#b38f56" stroke-width="2"/>
+<g font-family="DejaVu Sans, Arial, sans-serif">
+<text x="48" y="67" fill="#d6b77b" font-size="18" font-weight="700">MYTHOS · LECTURE D'HÉSIODE · 2026</text>
+<text x="48" y="123" fill="#f5e7cc" font-size="35" font-weight="700">Le Tartare : mesurer, enfermer, franchir</text>
+<text x="48" y="166" fill="#c5d7d4" font-size="21">Trois fonctions distinctes de la limite · schéma non géographique</text>
+<rect x="45" y="220" width="351" height="295" rx="12" fill="#1a2b32" stroke="#b99865" stroke-width="2"/>
+<text x="68" y="269" fill="#ecc68d" font-size="25" font-weight="700">01 · DISTANCE</text>
+<text x="68" y="316" fill="#fff0d6" font-size="21" font-weight="700">Une mesure poétique</text>
+<text x="68" y="359" fill="#e7e8e1" font-size="19">Ciel → Terre : neuf jours</text>
+<text x="68" y="391" fill="#e7e8e1" font-size="19">et neuf nuits de chute.</text>
+<text x="68" y="423" fill="#e7e8e1" font-size="19">Terre → Tartare :</text>
+<text x="68" y="455" fill="#e7e8e1" font-size="19">même intervalle imaginaire.</text>
+<text x="68" y="485" fill="#b8ccc7" font-size="17">Théogonie 720–725</text>
+<rect x="424" y="220" width="351" height="295" rx="12" fill="#1a2b32" stroke="#b99865" stroke-width="2"/>
+<text x="447" y="269" fill="#ecc68d" font-size="25" font-weight="700">02 · CLÔTURE</text>
+<text x="447" y="316" fill="#fff0d6" font-size="21" font-weight="700">Une limite imposée</text>
+<text x="447" y="359" fill="#e7e8e1" font-size="19">Enceinte et portes</text>
+<text x="447" y="391" fill="#e7e8e1" font-size="19">de bronze.</text>
+<text x="447" y="423" fill="#e7e8e1" font-size="19">Les Titans restent captifs</text>
+<text x="447" y="455" fill="#e7e8e1" font-size="19">sous la garde de Zeus.</text>
+<text x="447" y="485" fill="#b8ccc7" font-size="17">Théogonie 726–735</text>
+<rect x="803" y="220" width="351" height="295" rx="12" fill="#1a2b32" stroke="#b99865" stroke-width="2"/>
+<text x="826" y="269" fill="#ecc68d" font-size="25" font-weight="700">03 · ALTERNANCE</text>
+<text x="826" y="316" fill="#fff0d6" font-size="21" font-weight="700">Un seuil ordonné</text>
+<text x="826" y="359" fill="#e7e8e1" font-size="19">La Nuit et le Jour</text>
+<text x="826" y="391" fill="#e7e8e1" font-size="19">se saluent au seuil.</text>
+<text x="826" y="423" fill="#e7e8e1" font-size="19">Jamais ensemble</text>
+<text x="826" y="455" fill="#e7e8e1" font-size="19">dans la même demeure.</text>
+<text x="826" y="485" fill="#b8ccc7" font-size="17">Théogonie 744–757</text>
+<path d="M398 367h24m-9-9 9 9-9 9M777 367h24m-9-9 9 9-9 9" fill="none" stroke="#d8b47b" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="48" y="571" fill="#f0e4cf" font-size="19">Un seuil peut interdire le retour ou organiser une succession.</text>
+<text x="48" y="611" fill="#d5b47c" font-size="17">Source primaire : Hésiode, Théogonie, v. 720–735 et 744–757.</text>
+<text x="48" y="649" fill="#b9cbc5" font-size="16">Création éditoriale 2D avec assistance IA · non antique · non reconstitution</text>
+</g>
+</svg>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="660" viewBox="0 0 1200 660" role="img" aria-labelledby="mythos-s76-title mythos-s76-desc">
+<title id="mythos-s76-title">L'arc d'Ulysse : de l'épreuve à la question de l'autorité</title>
+<desc id="mythos-s76-desc">Schéma historique interprétatif en trois étapes : Pénélope institue le concours des douze haches ; les prétendants échouent et Ulysse réussit ; la victoire technique ne résout pas à elle seule la question de la justice du pouvoir et de la vengeance.</desc>
+<metadata>MYTHOS, 6 novembre 2026, séance 76. Schéma éditorial 2D original conçu avec assistance IA ; création contemporaine, non artefact grec, sans prétention de reconstitution archéologique. Référence : Homère, Odyssée XXI, v. 70–79 et 391–434 ; XXII, v. 1–41.</metadata>
+<rect width="1200" height="660" fill="#0b1318"/>
+<rect x="18" y="18" width="1164" height="624" fill="none" stroke="#ae8b58" stroke-width="2"/>
+<g font-family="DejaVu Sans, Arial, sans-serif">
+<text x="45" y="63" font-size="18" font-weight="700" fill="#dcb77d">MYTHOS · LECTURE HOMÉRIQUE · 2026</text>
+<text x="45" y="120" font-size="35" font-weight="700" fill="#f5e7ce">L'arc d'Ulysse : de la preuve à l'autorité</text>
+<text x="45" y="161" font-size="20" fill="#d1ddd8">Odyssée XXI–XXII · Trois étapes, une question de légitimité</text>
+<rect x="45" y="218" width="350" height="274" rx="12" fill="#1a2b32" stroke="#bc985f" stroke-width="2"/>
+<rect x="425" y="218" width="350" height="274" rx="12" fill="#1a2b32" stroke="#bc985f" stroke-width="2"/>
+<rect x="805" y="218" width="350" height="274" rx="12" fill="#1a2b32" stroke="#bc985f" stroke-width="2"/>
+<text x="68" y="269" font-size="26" fill="#ecc68d" font-weight="700">01 · LA RÈGLE</text>
+<text x="68" y="321" font-size="21" fill="#fff0d6" font-weight="700">Pénélope</text>
+<text x="68" y="364" font-size="18" fill="#e5e7df">propose de tendre l'arc</text>
+<text x="68" y="397" font-size="18" fill="#e5e7df">et de viser à travers</text>
+<text x="68" y="430" font-size="18" fill="#e5e7df">douze haches.</text>
+<text x="448" y="269" font-size="26" fill="#ecc68d" font-weight="700">02 · L'ÉPREUVE</text>
+<text x="448" y="321" font-size="21" fill="#fff0d6" font-weight="700">Ulysse</text>
+<text x="448" y="364" font-size="18" fill="#e5e7df">réussit là où les</text>
+<text x="448" y="397" font-size="18" fill="#e5e7df">prétendants ont échoué :</text>
+<text x="448" y="430" font-size="18" fill="#e5e7df">preuve de compétence.</text>
+<text x="828" y="269" font-size="26" fill="#ecc68d" font-weight="700">03 · LA LIMITE</text>
+<text x="828" y="321" font-size="21" fill="#fff0d6" font-weight="700">Reconquête</text>
+<text x="828" y="364" font-size="18" fill="#e5e7df">L'arc devient une arme :</text>
+<text x="828" y="397" font-size="18" fill="#e5e7df">la victoire suffit-elle à</text>
+<text x="828" y="430" font-size="18" fill="#e5e7df">justifier la violence ?</text>
+<path d="M397 350h24m-8-8 8 8-8 8M777 350h24m-8-8 8 8-8 8" fill="none" stroke="#dfb477" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="45" y="536" font-size="20" fill="#f0e4d1">La capacité technique ne constitue pas une théorie générale de la justice.</text>
+<text x="45" y="579" font-size="17" fill="#dabc85">Source : Homère, Odyssée XXI, 70–79 et 391–434 ; XXII, 1–41.</text>
+<text x="45" y="615" font-size="16" fill="#bfcfc8">Schéma éditorial 2D créé avec assistance IA · non antique · non archéologique</text>
+</g>
+</svg>
