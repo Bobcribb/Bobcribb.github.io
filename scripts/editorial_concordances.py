@@ -33,6 +33,25 @@ PAIRS = {
              "Deux titres, lexiques et fragment d’une comédie perdue"),
         ],
     },
+    "iacchos": {
+        "title": "Aristophane, Grenouilles 312–459 — deux lectures complémentaires d'Iacchos",
+        "description": (
+            "Même chœur des initiés, même passage, deux problématiques distinctes. "
+            "Le volume 269 étudie la purification politique, la stasis, la corruption "
+            "et la légitimité de l'exclusion ; le volume 273 approfondit les auloi, "
+            "l'appel d'Iacchos, la mémoire processionnelle et la politique de l'écoute. "
+            "Aucun des deux textes ne remplace l'autre."
+        ),
+        "portal": "mythologie-comparee/index.html",
+        "members": [
+            ("comparatif", "8d9ce5f4-d076-4f00-9dbf-209d8476b3bf", 269,
+             "Volume CCLXIX (269) — purification civique",
+             "Pureté de la pensée, stasis, magistrats, trahisons, droit de contester le chœur"),
+            ("comparatif", "d73f9a62-1e48-45f8-9d0a-5bcd730e9a24", 273,
+             "Volume CCLXXIII (273) — politique de l'écoute",
+             "Auloi, acclamation d'Iacchos, reconnaissance auditive, choréia et mémoire d'Éleusis"),
+        ],
+    },
 }
 
 LACONIA = (
@@ -47,6 +66,50 @@ LACONIA = (
     ("/chapitres/encyclopedie/chapitre-453-apollon-amyklaios-hyakinthos-amyklaion-hyakinthies-bathykles/",
      "453 — Apollon Amyklaios", "Amyclées et les Hyakinthies"),
 )
+
+
+IACCHOS_CONCORDANCE_ROWS = (
+    ("312–323", "§§ 5–9 : invocation, initiés, variantes et écoute prudente",
+     "§§ 9–16 : auloi, scène d'écoute, répétition d'Iacchos et Diagoras/agora"),
+    ("324–353", "§§ 9, 13–14 : procession et prudence sur le rite réel",
+     "§§ 17–24 : torches, danse, nourriture, vieillesse et choréia"),
+    ("354–358", "§§ 15–20 : proclamation, gnômê, expérience et Muses",
+     "§§ 25–31 : euphêmein, retrait spatial, pureté intérieure et parodie"),
+    ("359–371", "§§ 21–26 : stasis, gains privés, corruption, trahison et liberté comique",
+     "§§ 32–40 : catalogue vocal d'exclusion et triple sommation"),
+    ("372–454", "§§ 27–31 : licence du rire, Déméter, vieillesse et satire",
+     "§§ 41–49 : reconstitution sonore du commun, plaisanterie et cortège"),
+    ("455–459", "§§ 32–36 : lumière réservée, étrangers et statut civique",
+     "§§ 50–54 : eusebeia, conduite pieuse et limites de l'appartenance"),
+    ("Contexte 407–405", "§§ 10–14 : Hérodote VIII, 65, Xénophon et précaution historique",
+     "§§ 4–8 : Xénophon, Thucydide et hypothèse de mémoire sonore"),
+    ("Philosophie", "§§ 37–46 : discernement démocratique, Nietzsche, Hegel, Vernant, Détienne",
+     "§§ 61–76 : pragmatique collective, objections et cadres rétrospectifs"),
+)
+
+
+def iacchos_scientific_table():
+    """Concordance publique, non numérotée : aucun troisième manuscrit."""
+    cells = "".join(
+        "<tr><th scope=\"row\">" + escape(passage) +
+        "</th><td>" + escape(civic) + "</td><td>" +
+        escape(sound) + "</td></tr>"
+        for passage, civic, sound in IACCHOS_CONCORDANCE_ROWS
+    )
+    return (
+        '<div class="mythos-concordance-table" role="region" tabindex="0" '
+        'aria-label="Concordance scientifique des Grenouilles 312 à 459">'
+        '<table><caption>Concordance des vers, méthodes et interprétations</caption>'
+        '<thead><tr><th scope="col">Passage</th><th scope="col">269 : éthique civique</th>'
+        '<th scope="col">273 : communauté sonore</th></tr></thead>'
+        '<tbody>' + cells + '</tbody></table></div>'
+        '<p>Les deux bibliographies et les deux corps de texte restent intégraux ; '
+        'les lectures de Nietzsche et de Hegel sont rétrospectives, non des '
+        'témoignages sur 405 av. J.-C. '
+        '<a href="https://github.com/Bobcribb/Bobcribb.github.io/blob/main/'
+        'docs/CONCORDANCE_IACCHOS_GRENOUILLES_269_273.md">'
+        'Lire la concordance documentaire détaillée</a>.</p>'
+    )
 
 
 def validate_sources(root, out):
@@ -91,12 +154,18 @@ def panel(key, title, description, studies, own=None, kind="aside"):
         '</a><small>' + escape(context) + '</small></li>'
         for url, label, context in studies if url != own
     )
+    anchor = ' id="concordance-iacchos"' if key == "iacchos" and own is None else ""
+    extra = ""
+    if key == "iacchos":
+        extra = (iacchos_scientific_table() if own is None else
+                 '<p><a href="/mythologie-comparee/#concordance-iacchos">'
+                 'Consulter la concordance scientifique des vers 312–459</a></p>')
     return (
         '<' + kind + ' class="mythos-concordance" '
-        'data-mythos-concordance="' + escape(key, quote=True) + '" '
+        'data-mythos-concordance="' + escape(key, quote=True) + '"' + anchor + ' '
         'aria-label="' + escape(title, quote=True) + '">'
         '<h2>' + escape(title) + '</h2><p>' + escape(description) + '</p>'
-        '<ul>' + entries + '</ul></' + kind + '>'
+        '<ul>' + entries + '</ul>' + extra + '</' + kind + '>'
     )
 
 
