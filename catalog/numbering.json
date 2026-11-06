@@ -1914,6 +1914,12 @@
         "url": "/chapitres/tragedies/volume-cclxi-acheos-eretrie-athla-athloi-epreuves-concours-corps-athletes-prix/",
         "title": "Volume CCLXI (261) — Achéos d'Érétrie, Les Épreuves ou Les Concours — Ἄθλα / Ἄθλοι : compétition, corps athlétique, satire de la victoire, luxe et économie des récompenses",
         "source": "chapitres/tragedies/volume-cclxi-acheos-eretrie-athla-athloi-epreuves-concours-corps-athletes-prix.md"
+      },
+      {
+        "number": 262,
+        "url": "/chapitres/tragedies/volume-cclxii-acheos-eretrie-aithon-satyrique-faim-vin-odyssee-erysichthon/",
+        "title": "Volume CCLXII (262) — Achéos d'Érétrie, Aithon (Αἴθων Σατυρικός) — La faim, le vin et le nom emprunté : corps comique, abondance, illusion et limites de la reconstruction",
+        "source": "chapitres/tragedies/volume-cclxii-acheos-eretrie-aithon-satyrique-faim-vin-odyssee-erysichthon.md"
       }
     ],
     "comparatif": [
@@ -3329,6 +3335,24 @@
         "url": "/chapitres/comparatif/volume-cclxxxvii-oiseaux-cosmogonie-oeuf-nuit-eros-prodicos-oracles-souverainete-414/",
         "title": "Volume CCLXXXVII (287) — Avant Zeus, un œuf : la cosmogonie des Oiseaux (685–736), Éros, Prodicos et la fabrication d’une autorité religieuse et politique",
         "source": "chapitres/comparatif/volume-cclxxxvii-oiseaux-cosmogonie-oeuf-nuit-eros-prodicos-oracles-souverainete-414.md"
+      },
+      {
+        "number": 288,
+        "url": "/chapitres/comparatif/volume-cclxxxviii-lysistrata-deux-choeurs-eau-feu-antagonisme-reconciliation-411/",
+        "title": "Volume CCLXXXVIII (288) — Deux chœurs, une cité ? Feu, eau, mémoire civique et apprentissage de la réconciliation dans la Lysistrata d'Aristophane (411 av. notre ère)",
+        "source": "chapitres/comparatif/volume-cclxxxviii-lysistrata-deux-choeurs-eau-feu-antagonisme-reconciliation-411.md"
+      },
+      {
+        "number": 289,
+        "url": "/chapitres/comparatif/volume-cclxxxix-mc-095-echelles-ciel-terre-egypte-jacob-mithra-sankassa-platon/",
+        "title": "Volume CCLXXXIX (289) — MC-095 — Les échelles entre ciel et terre : ascension funéraire, songes, messagers et descentes divines, de l’Égypte à l’Inde",
+        "source": "chapitres/comparatif/volume-cclxxxix-mc-095-echelles-ciel-terre-egypte-jacob-mithra-sankassa-platon.md"
+      },
+      {
+        "number": 290,
+        "url": "/chapitres/comparatif/volume-ccxc-mc-094-clefs-du-sacre-inanna-hecate-lagina-janus-isaie-apocalypse/",
+        "title": "Volume CCXC (290) — MC-094 — Qui détient la clef du sacré ? Accès, souveraineté, prêtresses et portes des mondes, de Sumer à Lagina, de Janus à l'Apocalypse",
+        "source": "chapitres/comparatif/volume-ccxc-mc-094-clefs-du-sacre-inanna-hecate-lagina-janus-isaie-apocalypse.md"
       }
     ],
     "comedies": [
@@ -5673,6 +5697,18 @@
         "url": "/chapitres/origines-du-sacre/717-hierakonpolis-hk6-elephants-babouins-animaux-sauvages-pouvoir-sacrifice/",
         "title": "Chapitre 717 — Hiérakonpolis et les animaux des puissants : la nécropole HK6, éléphants, babouins, violence de captivité et naissance des paysages cérémoniels en Égypte prédynastique",
         "source": "chapitres/origines-du-sacre/717-hierakonpolis-hk6-elephants-babouins-animaux-sauvages-pouvoir-sacrifice.md"
+      },
+      {
+        "number": 718,
+        "url": "/chapitres/origines-du-sacre/718-nabta-playa-cercles-pierres-bovins-calendrier-pastoralisme-sahara-neolithique/",
+        "title": "Chapitre 718 — Nabta Playa : cercles de pierres, sépultures bovines, saison des pluies et invention d'un paysage rituel dans le Sahara néolithique",
+        "source": "chapitres/origines-du-sacre/718-nabta-playa-cercles-pierres-bovins-calendrier-pastoralisme-sahara-neolithique.md"
+      },
+      {
+        "number": 719,
+        "url": "/chapitres/origines-du-sacre/719-gebel-ramlah-necropoles-nourrissons-ocre-feu-pastoralisme-neolithique-sahara/",
+        "title": "Chapitre 719 — Gebel Ramlah : le cimetière des nouveau-nés, les morts de l'oasis, l'ocre rouge et le feu dans les sociétés pastorales du Sahara néolithique",
+        "source": "chapitres/origines-du-sacre/719-gebel-ramlah-necropoles-nourrissons-ocre-feu-pastoralisme-neolithique-sahara.md"
       }
     ]
   },

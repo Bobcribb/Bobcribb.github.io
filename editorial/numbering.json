@@ -873,6 +873,18 @@
           "path": "chapitres/origines-du-sacre/717-hierakonpolis-hk6-elephants-babouins-animaux-sauvages-pouvoir-sacrifice.md",
           "request_sha256": "77cce64bc7ddd3bfaf3a66e177e8693bee23eaea269cf219c4e529bd30eb3c4c",
           "initial_source_sha256": "ad2fe22bf4f6efa6e92b8ddcb4c2d406557a18f2a055b693cdcf662bb37bbcb8"
+        },
+        "d137b4ec-68f0-4b7b-985d-50cc8ab7240e": {
+          "number": 718,
+          "path": "chapitres/origines-du-sacre/718-nabta-playa-cercles-pierres-bovins-calendrier-pastoralisme-sahara-neolithique.md",
+          "request_sha256": "dfed990ef032c32e0844d803f39c976f41b2ebb29aecfb426162b52d1b63780e",
+          "initial_source_sha256": "439a0044e6d50da12709e3a6ee9993737aa7945ed56bae8453484215cf923158"
+        },
+        "f84658a9-4307-4dde-9db3-45ae2e76cd91": {
+          "number": 719,
+          "path": "chapitres/origines-du-sacre/719-gebel-ramlah-necropoles-nourrissons-ocre-feu-pastoralisme-neolithique-sahara.md",
+          "request_sha256": "d3901a44160d8adb1c559ce27aceed665ff51643fa007690d566556a693cf379",
+          "initial_source_sha256": "40f97481cd2dd78cdb5c3a40cbcd9405ba469a2dcac5dfabf3d97753cad49557"
         }
       }
     },
@@ -2434,6 +2446,12 @@
           "path": "chapitres/tragedies/volume-cclxi-acheos-eretrie-athla-athloi-epreuves-concours-corps-athletes-prix.md",
           "request_sha256": "e4b853b590925c6034b8e833d154f03fd9738ccc2812a833cd23684bde81cbe2",
           "initial_source_sha256": "d535fa795cc4b995d990d085328203dff7ce0c9f631d2e6e54256e1f64b8a58a"
+        },
+        "5e916a7d-1d76-46e2-ae9d-daa7d3fd58c1": {
+          "number": 262,
+          "path": "chapitres/tragedies/volume-cclxii-acheos-eretrie-aithon-satyrique-faim-vin-odyssee-erysichthon.md",
+          "request_sha256": "1634adf44663a23d07dcfff28506e8afac257dccd83c7a6e328f98f53a440e93",
+          "initial_source_sha256": "fce40074f866c2283ced74127ecf69b87f61bb00fac81436c94428e8486388e1"
         }
       }
     },
@@ -3313,6 +3331,24 @@
           "path": "chapitres/comparatif/volume-cclxxxvii-oiseaux-cosmogonie-oeuf-nuit-eros-prodicos-oracles-souverainete-414.md",
           "request_sha256": "b267b846babdadcb2b7f674e7b374ef1076853dfdc453a712196dc8d972266c9",
           "initial_source_sha256": "ba2db73dad77f34ff79161111c6dea2a87e0435e34343610be074788a6c0fc6b"
+        },
+        "45a8e0d6-86c9-4af2-a784-7e6f9c2b4d51": {
+          "number": 288,
+          "path": "chapitres/comparatif/volume-cclxxxviii-lysistrata-deux-choeurs-eau-feu-antagonisme-reconciliation-411.md",
+          "request_sha256": "4a5a5f1248992e46ad8e85a4c701d4e5a1c3581b85b95a857f5ac59c1ce21bd2",
+          "initial_source_sha256": "402ae43f395be3729926fdbdf85b9ac1402436a04c14799d39b478fb98fb5a9e"
+        },
+        "6fa8d5d0-223e-43dd-8b28-202611060654": {
+          "number": 289,
+          "path": "chapitres/comparatif/volume-cclxxxix-mc-095-echelles-ciel-terre-egypte-jacob-mithra-sankassa-platon.md",
+          "request_sha256": "bcbc3ae2012df24bccae04d92d456c4cf1f947fb82fce530030292565964ac36",
+          "initial_source_sha256": "4082d71d22b296a944a6799092b3264b61799268522d003f5b65eb02dbc94816"
+        },
+        "b5947f21-6d8a-4cd9-9ab1-202611060594": {
+          "number": 290,
+          "path": "chapitres/comparatif/volume-ccxc-mc-094-clefs-du-sacre-inanna-hecate-lagina-janus-isaie-apocalypse.md",
+          "request_sha256": "3918ab1739c683e154cdf39e9863756de53560148190b842ae2150dbab2698c0",
+          "initial_source_sha256": "34c727149b2060c7e70b100aa4a3b203e649968a3e0478be7f9a226fad579b50"
         }
       }
     }
