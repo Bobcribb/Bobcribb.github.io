@@ -4,12 +4,13 @@ import sys
 import unittest
 from pathlib import Path
 from tempfile import TemporaryDirectory
+import mistune
 from bs4 import BeautifulSoup
 
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "scripts"))
 from theatre_fragment_index import SLUGS, verified_editions
-from theatre_source_readers import BASE, build_readers
+from theatre_source_readers import BASE, build_readers, _frontmatter
 
 
 class TheatreSourceReadersTests(unittest.TestCase):
@@ -39,6 +40,20 @@ class TheatreSourceReadersTests(unittest.TestCase):
                     ))
                     self.assertIn("bibliograph", doc.select_one("article").get_text(" ", strip=True).lower())
                     self.assertGreater(len(doc.select_one("article").get_text(" ", strip=True)), 6500)
+                    # Aucun paragraphe, fragment, tableau, référence ou section
+                    # du Markdown source n'est remplacé par un résumé.
+                    original_raw = raw.read_text(encoding="utf-8")
+                    _, scholarly_body = _frontmatter(original_raw)
+                    source_markup = mistune.create_markdown(
+                        escape=True, plugins=["table", "strikethrough", "url"]
+                    )(scholarly_body)
+                    original_doc = BeautifulSoup(source_markup, "html.parser")
+                    scholarly_text = " ".join(doc.select_one("article").stripped_strings)
+                    scholarly_text = " ".join(scholarly_text.split())
+                    for block in original_doc.select("h1,h2,h3,h4,h5,p,li,table,blockquote,pre"):
+                        text = " ".join(block.get_text(" ", strip=True).split())
+                        if text:
+                            self.assertIn(text, scholarly_text, slug + ": " + text[:90])
                     self.assertIn(hashlib.sha256(raw.read_bytes()).hexdigest(), doc.get_text())
                     links = {a.get("href") for a in doc.select(".theatre-original-nav a")}
                     self.assertIn(item["critique"], links)
