@@ -2,7 +2,7 @@
   "generated_at": "2026-11-06",
   "site": "bobmythos.fr",
   "method": "Illustrations photoréalistes interprétatives, textes et sources hors des pixels.",
-  "count": 70,
+  "count": 71,
   "entries": [
     {
       "id": "DEL-PAN-001",
@@ -1838,6 +1838,58 @@
         "Aucun témoignage antique conservé ne décrit intégralement les élévations, décors peints et couleurs du temple en 580 av. J.-C."
       ],
       "methodology": "Synthèse visuelle non métrique : fronton et ordre dorique documentés ; élévation, toiture, polychromie, sculpture figurée et paysage librement restitués. Le côté ouest à la Gorgone ne correspond pas à l'entrée principale du naos, située à l'est. Aucun relevé 3D scientifique ni validation muséale."
+    },
+    {
+      "id": "SYR-APO-001",
+      "slug": "syracuse-ortygie-temple-apollon-dorique-vers-565-av-jc",
+      "title": "Syracuse (Ortygie) — temple archaïque d’Apollon, vers 565 av. J.-C.",
+      "period": "Première moitié du VIe siècle av. J.-C. ; évocation vers 565 av. J.-C. (datation discutée).",
+      "caption": "Vue photoréaliste interprétative du temple dorique d’Apollon à Ortygie : péristyle archaïque 6 × 17, soubassement et environnement maritime. Fronton, autel, édifices voisins et polychromie conjecturaux.",
+      "commentary": "À l’entrée nord de l’île d’Ortygie, ancien noyau urbain de Syracuse, le temple d’Apollon est l’un des premiers grands temples doriques intégralement construits en pierre dans le monde grec occidental. La date de sa construction est débattue dans la première moitié du VIe siècle avant notre ère ; la convention d’environ 565 av. J.-C. fournit ici une phase d’évocation, non un millésime établi. Les vestiges et les descriptions du plan attestent un péristyle dorique de six colonnes sur les petits côtés et dix-sept sur les longs côtés, des fûts monolithes rapprochés et des proportions archaïques trapues. Le temple était orienté vers l’est, élevé sur un soubassement à degrés ; le calcaire local syracusain était utilisé pour les parties porteuses. Les reconstructions de son naos et de son porche oriental présentent des variantes, notamment concernant la double rangée de colonnes en avant de la cella, la distribution intérieure et l’adyton. Le toit antique comportait des tuiles et des terres cuites architecturales, avec des décors polychromes dont le rendu intégral reste hypothétique. Une inscription archaïque gravée sur le stylobate, IG XIV 1, cite une dédicace à Apollon : l’identification du dédicant et la restitution de la lecture ont fait l’objet de propositions contradictoires, renouvelées notamment par l’étude photogrammétrique de Philip Sapirstein. Il est donc imprudent d’attribuer sans réserve le monument à un commanditaire nommé dans une traduction traditionnelle. Dans l’image, la silhouette dorique et l’horizon maritime sont des outils de visualisation, non les résultats d’un modèle archéométrique. Le décor figuré du fronton (personnage central et quadrupèdes), les métopes, l’ordonnance exacte du second rang de colonnes, les sculptures, les échoppes et maisons proches de l’eau, la distribution des habitants, l’autel fumant, les pigments, la forme complète des toitures et le tracé des murailles relèvent pour une large part d’une licence artistique. Ces motifs figurés ne doivent surtout pas être présentés comme des fragments connus du fronton du temple ; les sources patrimoniales mentionnent d’autres traditions de décor, dont une tête de Gorgone, que l’image ne reproduit pas fidèlement. Les transformations postérieures du bâtiment en église, mosquée, église puis caserne appartiennent à d’autres époques et ne sont pas représentées. La notice et les sources ne constituent pas une validation institutionnelle du visuel.",
+      "certainty": "Élevé : emplacement à Ortygie (Syracuse) ; fonction cultuelle d’Apollon attestée par l’inscription ; ordre dorique archaïque ; plan périptère 6 × 17 ; calcaire local et colonnes relativement trapues. Moyen : date autour de 565 av. J.-C. au sein d’un débat sur les premières décennies du VIe siècle ; restitution des volumes du naos, de la couverture et du porche ; organisation du téménos et position de l’autel. Faible : élévations exactes et dimensions perçues, distribution architecturale de tous les rangs de colonnes, sculptures frontonales représentées, couleurs précises, maisons et quai, embarcations, paysage urbain, pratiques cultuelles particulières, habitants, costumes, lumière et fumée.",
+      "source_url": "https://www.smarteducationunescosicilia.it/en/siracusa/temple-of-apollo/",
+      "secondary_sources": [
+        "https://whc.unesco.org/fr/list/1200/",
+        "https://perseus-aa.github.io/items/aa_378.html",
+        "https://classicalstudies.org/ig-xiv-1-and-digital-enhancement-inscriptions-using-photogrammetric-modeling",
+        "https://www.italia.it/fr/sicile/syracuse/temple-dapollon"
+      ],
+      "src": "/assets/reconstitutions-3d/syracuse-ortygie-temple-apollon-dorique-vers-565-av-jc.webp",
+      "image": "/assets/reconstitutions-3d/syracuse-ortygie-temple-apollon-dorique-vers-565-av-jc.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-06",
+      "type": "reconstitution visuelle 3D photoréaliste interprétative générée numériquement, non métrique",
+      "provenance": "Création originale assistée par un générateur d’images pour MYTHOS, sans photographie ni modèle 3D géométrique certifié ; aucun menu, logo, légende ni schéma 2,5D incrusté. Sources citées indépendantes de la création.",
+      "sha256": "6560d1adb24ec10d1ad135b42e8b46d71f79191ec2aa2c7d9ecec6bee9251a75",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/syracuse-ortygie-temple-apollon-dorique-vers-565-av-jc.json",
+      "scientific_sources": [
+        {
+          "label": "Smart Education UNESCO Sicilia — Temple of Apollo, Ortygia (site archéologique, forme et décor)",
+          "url": "https://www.smarteducationunescosicilia.it/en/siracusa/temple-of-apollo/"
+        },
+        {
+          "label": "UNESCO — Syracuse et la nécropole rocheuse de Pantalica, bien no 1200",
+          "url": "https://whc.unesco.org/fr/list/1200/"
+        },
+        {
+          "label": "Perseus Art & Archaeology — Syracuse, Temple of Apollo (aa_378)",
+          "url": "https://perseus-aa.github.io/items/aa_378.html"
+        },
+        {
+          "label": "Society for Classical Studies — Philip Sapirstein, IG XIV 1 and digital enhancement",
+          "url": "https://classicalstudies.org/ig-xiv-1-and-digital-enhancement-inscriptions-using-photogrammetric-modeling"
+        },
+        {
+          "label": "Italia.it — Temple d’Apollon de Syracuse",
+          "url": "https://www.italia.it/fr/sicile/syracuse/temple-dapollon"
+        }
+      ],
+      "primary_texts": [
+        "IG XIV 1 — dédicace archaïque à Apollon, gravée sur le stylobate ; lecture et identification du dédicant débattues dans les recherches contemporaines."
+      ],
+      "methodology": "Restitution picturale non métrique et non validée institutionnellement ; modèle de synthèse d’après le plan antique, avec parties hautes, décors et environnement largement conjecturaux.",
+      "publication_status": "fichier_prepare_non_publie_deploiement_https_a_verifier"
     },
     {
       "id": "SYR-ATH-001",
