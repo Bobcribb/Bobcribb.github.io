@@ -26,14 +26,28 @@ class TestKalevalaArchiveIntegrity(unittest.TestCase):
     def setUpClass(cls):
         cls.page = PAGE.read_text(encoding="utf-8")
         start = '<div class="mythos-original-study" id="texte-integral-kalevala">\n'
-        end = '\n</div>\n<section class="mythos-world-study-crosslinks"'
-        cls.assert_source_layout = start in cls.page and end in cls.page
-        if cls.assert_source_layout:
-            cls.marked = cls.page.split(start, 1)[1].split(end, 1)[0]
-            cls.unmarked = re.sub(
-                r'<span id="lecture-[0-9]+" class="mythos-text-anchor" aria-hidden="true"></span>',
-                "", cls.marked,
-            )
+        if start not in cls.page:
+            raise AssertionError("Bornier initial du manuscrit manquant")
+        remainder = cls.page.split(start, 1)[1]
+        boundary = re.search(
+            r'\n</div>\n<section\b(?=[^>]*\bclass="mythos-world-study-crosslinks")',
+            remainder,
+        )
+        cls.assert_source_layout = boundary is not None
+        if not cls.assert_source_layout:
+            raise AssertionError("Bornier final du manuscrit manquant")
+        cls.marked = remainder[:boundary.start()]
+        # Les ancres et les attributs du lecteur ne font pas partie du
+        # manuscrit WordPress (48 625 caractères), vérifié sans les supprimer du HTML.
+        without_anchors = re.sub(
+            r'<span(?=[^>]*\bid="lecture-[0-9]+")'
+            r'(?=[^>]*\bclass="mythos-text-anchor")[^>]*></span>',
+            "", cls.marked,
+        )
+        cls.unmarked = re.sub(
+            r'(<h[23]\b[^>]*?)\sdata-reading-section="true" id="lecture-section-[0-9]+"(?=[^>]*>)',
+            r'\1', without_anchors,
+        )
 
     def test_entire_source_preserved(self):
         self.assertTrue(self.assert_source_layout)
