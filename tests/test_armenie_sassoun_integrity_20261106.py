@@ -21,14 +21,20 @@ class ArmenianHistoricalVolumeTests(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
         cls.full = PAGE.read_text(encoding="utf-8")
-        begin = '<div class="mythos-original-study" id="texte-integral-armenie-sassoun">\n'
-        end = '\n</div>\n<section class="mythos-world-study-crosslinks"'
-        if begin not in cls.full or end not in cls.full:
+        start = '<div class="mythos-original-study" id="texte-integral-armenie-sassoun">\n'
+        begin = cls.full.find(start)
+        end = re.search(r'\n</div>\n<section\b', cls.full[begin + len(start):]) if begin >= 0 else None
+        if begin < 0 or end is None:
             raise AssertionError("Borniers éditoriaux du manuscrit manquants")
-        cls.marked = cls.full.split(begin, 1)[1].split(end, 1)[0]
+        body_start = begin + len(start)
+        cls.marked = cls.full[body_start:body_start + end.start()]
+        # La passe muséale réordonne parfois les attributs et annote les titres.
+        # Retirer uniquement ces annotations pour vérifier les octets savants.
         cls.original = re.sub(
-            r'<span id="armenian-lecture-[0-9]+" class="mythos-text-anchor" aria-hidden="true"></span>',
-            "", cls.marked,
+            r'<span\b(?=[^>]*\bclass="mythos-text-anchor")[^>]*></span>', "", cls.marked
+        )
+        cls.original = re.sub(
+            r'\s(?:data-reading-section="true"|id="lecture-section-\d+")', "", cls.original
         )
 
     def test_source_entire_and_documented(self):
