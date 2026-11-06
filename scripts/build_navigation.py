@@ -423,15 +423,27 @@ def origins_additional_index(by_number, source_root=Path("."), rendered_root=OUT
         markdown = source.read_text(encoding="utf-8")
         if len(markdown) < 2000:
             raise RuntimeError(f"Origines du sacré : étude anormalement courte : {url}")
-        h1 = re.search(r"(?m)^#\s+(.+)$", markdown)
+        # Plusieurs études commencent par un bandeau MYTHOS (H1), suivi
+        # d'un second H1 scientifique. Ne jamais prendre « Résumé » pour
+        # le titre lorsque ce H1 scientifique existe (cas de Chwaka).
+        h1_titles = re.findall(r"(?m)^#\s+(.+)$", markdown)
         h2 = re.search(r"(?m)^##\s+(.+)$", markdown)
-        scientific = re.match(rf"(?i)^Chapitre\s+{number}\s*[—:-]\s*(.+)$", h1.group(1)) if h1 else None
+        numbered = re.compile(rf"(?i)^Chapitre\s+{number}\s*[—:-]\s*(.+)$")
+        scientific = next((m for heading in h1_titles
+                           if (m := numbered.match(heading.strip()))), None)
         if scientific:
             title = scientific.group(1)
-        elif h2:
-            title = h2.group(1)
         else:
-            title = entry.get("title", "")
+            meaningful_h1 = [heading for heading in h1_titles
+                             if not re.match(r"(?i)^MYTHOS\b", heading.strip())
+                             and not re.fullmatch(r"(?i)Chapitre\s+\d+",
+                                                  heading.strip())]
+            if meaningful_h1:
+                title = meaningful_h1[0]
+            elif h2:
+                title = h2.group(1)
+            else:
+                title = entry.get("title", "")
         title = re.sub(r"[`*_]", "", title).strip()
         if not title or re.match(r"(?i)^résumé(?:\s+scientifique)?$", title):
             raise RuntimeError(f"Origines du sacré : titre scientifique absent : {url}")
