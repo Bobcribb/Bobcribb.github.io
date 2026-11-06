@@ -124,6 +124,10 @@
     "b08a6a43-5cb5-4fb7-9ea4-6f2d8d583924": {
       "request_sha256": "1627f41e4d8158d9ff3f4792d094327f6329451f75d42a78edc96cdd220bdb17",
       "reason": "Recouvrement éditorial documenté le 6 novembre 2026 : cette monographie Nok–Pangwari, UUID b08a6a43-5cb5-4fb7-9ea4-6f2d8d583924, 42 923 caractères Markdown, commit f67b01f (11:25:04 UTC), porte sur la même tradition de terres cuites, dépôts et tombeaux possibles, pratiques de consommation et mil perlé que la soumission chronologiquement antérieure UUID 981ec260-d60f-43e1-8cf6-9c3be08ec173 (commit 82798e6, 11:24:23 UTC). Préserver les deux manuscrits intégraux en inbox et ne pas attribuer un chapitre indépendant à cette seconde version avant confrontation scientifique, conservation de ses développements et bibliographie comme complément critique. Ne modifier aucun reçu, aucun numéro et aucune demande déjà attribuée."
+    },
+    "38a25f46-3b75-4c6d-9fb0-5aec1d9c7e62": {
+      "request_sha256": "73f39aec00052a98a27f446999289da374cc29183175fde7ab7cc4b0e89389c4",
+      "reason": "Collision éditoriale vérifiée sur main le 6 novembre 2026 : deux monographies intégrales consacrées à Chionidès, Persai ē Assyrioi (Πέρσαι ἢ Ἀσσύριοι), titre seul transmis par Souda χ 318, sans fragment connu. Demande antérieure ab9df367-bf52-4e15-a7c8-51968486d730, créée le 6 novembre à 11:28:21 UTC (commit 1c1c4eabbb896a39b23a4b74f32588f2c787c892), à examiner comme texte canonique ; cette seconde demande 38a25f46-3b75-4c6d-9fb0-5aec1d9c7e62 créée à 11:29:55 UTC (c4de00036c56defbab6579257bc82ca39d8ab837), corrigée à 11:30:32 UTC (acecaaa3d6d710256dee79b501e1de86491c0e44), reste intégralement et immuablement préservée dans inbox. Ne pas attribuer deux numéros à la même pièce ; comparer bibliographies, philologie et analyses originales avant éventuel complément critique distinct, sans suppression ni nouvel UUID. Les études Chionidès Hērōes et Ptōchoi demeurent distinctes."
     }
   }
 }
