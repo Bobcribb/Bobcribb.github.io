@@ -2216,3 +2216,35 @@ body.mythos-design .mythos-greek-archive-return a{
     color:#222;
   }
 }
+
+
+/* MYTHOS — cartouches typographiques des études récentes sans photographie
+   de sujet attestée. Ornement CSS non documentaire : aucune image historique
+   inventée, aucun crédit scientifique implicite, contenu et liens intacts. */
+body.mythos-design #home-etudes-recentes a.portal-card.mythos-recent-unillustrated::before{
+  content:"";
+  display:block;
+  order:-1;
+  flex:0 0 auto;
+  width:100%;
+  height:clamp(22px,2.6vw,34px);
+  margin:0 0 .4rem;
+  border-top:1px solid #8c704a;
+  border-bottom:1px solid #66543b;
+  background:
+    radial-gradient(circle,#d3ae75 0 2px,transparent 3px) center / 28px 100% repeat-x,
+    linear-gradient(90deg,transparent 0%,#b4935f35 25%,#b4935f35 75%,transparent 100%);
+}
+body.mythos-design #home-etudes-recentes a.portal-card.mythos-recent-unillustrated:hover::before,
+body.mythos-design #home-etudes-recentes a.portal-card.mythos-recent-unillustrated:focus-visible::before{
+  border-color:#e7c58d;
+}
+@media(max-width:700px){
+  body.mythos-design #home-etudes-recentes a.portal-card.mythos-recent-unillustrated::before{
+    height:20px;
+    margin-bottom:.25rem;
+  }
+}
+@media print{
+  body.mythos-design #home-etudes-recentes a.portal-card.mythos-recent-unillustrated::before{display:none}
+}
