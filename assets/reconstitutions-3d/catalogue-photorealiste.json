@@ -2,7 +2,7 @@
   "generated_at": "2026-11-06",
   "site": "bobmythos.fr",
   "method": "Illustrations photoréalistes interprétatives, textes et sources hors des pixels.",
-  "count": 76,
+  "count": 77,
   "entries": [
     {
       "id": "DEL-PAN-001",
@@ -2188,6 +2188,59 @@
         "Polybe, Histoires, IX, 27 : monument grandiose mais inachevé (témoignage tardif)."
       ],
       "methodology": "Vue artistique non métrique et non photogrammétrique ; différencier vestiges, témoignages antiques et hypothèses de restitution, notamment la place des télamons.",
+      "publication_status": "fichier_prepare_non_publie_deploiement_https_a_verifier"
+    },
+    {
+      "id": "DOD-OAK-001",
+      "slug": "dodone-hiera-oikia-chene-oraculaire-vers-280-av-jc",
+      "title": "Dodone (Épire) — chêne oraculaire, Hiera Oikia et portiques de Pyrrhus, vers 280 av. J.-C.",
+      "period": "Début du IIIe siècle av. J.-C. ; évocation du programme monumental de Pyrrhus vers 280 av. J.-C., avant le sac étolien de 219.",
+      "caption": "Reconstitution numérique photoréaliste de la cour cultuelle de Dodone vers 280 av. J.-C. : grand chêne oraculaire, petite Maison sacrée (Hiera Oikia), portiques ioniques et offrandes votives ; architecture et rituel partiellement hypothétiques.",
+      "commentary": "Le sanctuaire de Dodone (Dōdṓnē, Δωδώνη) se situe en Épire, sous le massif du Tomaros, dans une région différente de celle des oracles d’Apollon. Le cœur du culte était un chêne sacré (phēgós, φηγός), associé à Zeus Naios et à Dione ; l’oracle mobilisait le bruissement du feuillage, les oiseaux et, selon des traditions antiques, le son d’objets de bronze. La procédure exacte a varié selon les époques et reste débattue : les plus de 4 000 lamelles de plomb découvertes attestent surtout des questions inscrites, parfois personnelles ou économiques, sans permettre de rejouer une consultation unique. Le site fut longtemps de plein air ; le premier petit édifice rectangulaire, souvent appelé Hiera Oikia (ἱερὰ οἰκία, « Maison sacrée »), fut élevé au commencement du IVe siècle av. J.-C. près du chêne. La monumentalisation sous les Molosses fit apparaître une enceinte autour du temple et de l’arbre à la fin du IVe siècle. Au début du IIIe siècle, sous Pyrrhus (règne 297–272 av. J.-C.), une enceinte plus ample, bordée de portiques ioniques sur les côtés nord, ouest et sud, remplaça la précédente ; le côté oriental, voisin du chêne oraculaire, resta ouvert. Le vaste théâtre et les bâtiments politiques appartiennent au même grand programme monumental, mais ne sont pas visibles dans cette composition centrée sur la cour cultuelle. La phase évoquée ici vers 280 av. J.-C. est antérieure à la destruction étolienne de 219 et à la reconstruction ultérieure de la Hiera Oikia avec quatre colonnes ioniques de façade. Il serait donc anachronique de représenter dans cette scène le grand nouveau temple postérieur de la fin du IIIe siècle. L’image montre un chêne ancien dominant une cour dallée, un petit temple maçonné, des portiques ioniques, des objets votifs en bronze et quelques personnes, à une échelle volontairement humaine. Le bâtiment central à deux colonnes ioniques, la dimension réelle du chêne, son emplacement précis par rapport au petit édifice, la densité des portiques, le dallage, les dédicaces suspendues aux branches, les bassins à fumée, les offrandes animales, les tenues et les gestes des participants ne sont pas fixés par les vestiges avec cette précision. Les scènes d’une prêtresse tenant une tablette ou de fidèles consultant le chêne constituent des dispositifs de visualisation, et non la restitution d’un rituel observé. Les matériaux, la couleur des couvertures, la hauteur des colonnes, l’environnement végétal et la perspective sont artistiques. L’image est une visualisation numérique photoréaliste à apparence 3D, non un modèle métrique ou géoréférencé. Aucune institution citée n’a participé à sa création ni validé sa géométrie.",
+      "certainty": "Élevé : localisation du sanctuaire de Dodone en Épire, rôle central du chêne dans le culte de Zeus Naios et de Dione, nombreuses lamelles oraculaires de plomb, petite Hiera Oikia du début du IVe siècle, agrandissement sous Pyrrhus au début du IIIe siècle, portiques ioniques au nord, à l’ouest et au sud, ouverture vers l’est ; reconstruction postérieure à la destruction étolienne de 219 av. J.-C. Moyen : restitution du plan général de la cour et de ses portiques vers 280, élévation du petit bâtiment, répartition des objets votifs et son intégration visuelle à la cour. Faible : position exacte, âge et silhouette du chêne, colonnes de la façade du petit édifice, proportions métriques et décor des toitures, dallage, bassins, objets suspendus, scénographie de la consultation, personnages, costume, végétation et atmosphère lumineuse.",
+      "source_url": "https://culturalegnatia.culture.gov.gr/en/route-stops/dodona/",
+      "secondary_sources": [
+        "https://www.hh.gr/en/destinations/dodoni/",
+        "https://www.namuseum.gr/en/monthly_artefact/seeking-answers-from-the-gods/",
+        "https://www.cambridge.org/core/books/visiting-the-oracle-at-dodona/at-a-time-when-the-temple-of-dodonean-zeus-had-no-walls-until-the-first-century-bce/A92E0035082692EB9E0E82169C5CAA15",
+        "https://www.cambridge.org/core/books/visiting-the-oracle-at-dodona/materialist-insights-the-tablets-of-dodona-as-objects/E1ED7BCD7941E162AFBBEFE2487F3C24"
+      ],
+      "src": "/assets/reconstitutions-3d/dodone-hiera-oikia-chene-oraculaire-vers-280-av-jc.webp",
+      "image": "/assets/reconstitutions-3d/dodone-hiera-oikia-chene-oraculaire-vers-280-av-jc.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-06",
+      "type": "reconstitution numérique photoréaliste interprétative à apparence 3D, non métrique",
+      "provenance": "Création numérique originale assistée par IA pour MYTHOS. Aucun texte, interface ou schéma 2,5D intégré dans les pixels ; aucun organisme cité n’a validé ce rendu.",
+      "sha256": "5dff12619b9d89d23dee0d78002482570c6b10a465a4c3d896165fdb2a625db6",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/dodone-hiera-oikia-chene-oraculaire-vers-280-av-jc.json",
+      "scientific_sources": [
+        {
+          "label": "Ministère grec de la Culture / Éphorie des antiquités d’Ioannina — Dodone, parcours culturel Egnatia, Hiera Oikia et phases du sanctuaire",
+          "url": "https://culturalegnatia.culture.gov.gr/en/route-stops/dodona/"
+        },
+        {
+          "label": "Hellenic Heritage — Dodoni : sanctuaire oraculaire et construction sous Pyrrhus",
+          "url": "https://www.hh.gr/en/destinations/dodoni/"
+        },
+        {
+          "label": "Musée archéologique national d’Athènes — Seeking answers from the Gods, lamelles oraculaires de Dodone",
+          "url": "https://www.namuseum.gr/en/monthly_artefact/seeking-answers-from-the-gods/"
+        },
+        {
+          "label": "Visiting the Oracle at Dodona (Cambridge University Press, 2026), chapitre 1 : phases architecturales et sources",
+          "url": "https://www.cambridge.org/core/books/visiting-the-oracle-at-dodona/at-a-time-when-the-temple-of-dodonean-zeus-had-no-walls-until-the-first-century-bce/A92E0035082692EB9E0E82169C5CAA15"
+        },
+        {
+          "label": "Visiting the Oracle at Dodona (Cambridge University Press, 2026), chapitre 4 : objets et lamelles de consultation",
+          "url": "https://www.cambridge.org/core/books/visiting-the-oracle-at-dodona/materialist-insights-the-tablets-of-dodona-as-objects/E1ED7BCD7941E162AFBBEFE2487F3C24"
+        }
+      ],
+      "primary_texts": [
+        "Hérodote, Histoires, II, 54–57 : récit de fondation et chêne oraculaire.",
+        "Homère, Odyssée, XIV, 327–330 ; XIX, 296–299 : consultation de Dodone dans le récit d’Ulysse."
+      ],
+      "methodology": "Restitution artistique non métrique à partir des phases archéologiques documentées : Hiera Oikia du IVe siècle, enceinte à trois portiques ioniques sous Pyrrhus vers 280 av. J.-C. sans temple postérieur à 219 ; élévations, mobilier et rituel hypothétiques.",
       "publication_status": "fichier_prepare_non_publie_deploiement_https_a_verifier"
     }
   ]
