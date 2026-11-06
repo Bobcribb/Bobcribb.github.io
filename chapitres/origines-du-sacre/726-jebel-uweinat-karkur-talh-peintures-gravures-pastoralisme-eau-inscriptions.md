@@ -1,0 +1,247 @@
+# MYTHOS — Les Origines du sacré — Chapitre 726
+
+## Jebel Uweinat et Karkur Talh : montagnes-refuges, bovins peints, gravures et mémoire des eaux au Sahara oriental
+
+*Volume DCCXXVI — Monographie universitaire originale. Archéologie des images ; histoire environnementale de l'Holocène ; pastoralisme africain ; épigraphie égyptienne ; anthropologie et philosophie du sacré. État des références vérifié au 6 novembre 2026.*
+
+### Résumé
+
+Au point de rencontre des territoires actuels de l'Égypte, de la Libye et du Soudan, Jebel Uweinat, également transcrit Gebel el-Uweinat, constitue un massif exceptionnel par la combinaison de sources, de vallées et d'abris ornés. À Karkur Talh, l'une de ses grandes vallées, un corpus considérable de peintures et de gravures présente des bovins, des êtres humains, des animaux sauvages et, dans des phases tardives, des camélidés. La montagne actuelle est très éloignée des grands établissements humains, mais les images et le contexte environnemental attestent des fréquentations répétées. La catégorie « sacré » ne se lit pas directement dans les pigments : elle constitue une question à instruire par une hiérarchie de preuves.
+
+Ce chapitre examine comment l'image du bovin a pu articuler mémoire pastorale, différenciation des groupes, gestes sociaux et éventuelles cérémonies ; comment les sources d'eau de la montagne ont structuré la mobilité ; et comment une inscription hiéroglyphique du Moyen Empire égyptien introduit, bien plus tard et dans un autre langage politique, une autorité royale au sein du même espace. Il distingue les observations, les datations relatives, les hypothèses de pratiques rituelles et les comparaisons, sans confondre continuité géographique et continuité religieuse.
+
+### I. Une montagne au croisement de trois frontières
+
+La situation politique contemporaine du massif ne doit pas être projetée sur les circulations préhistoriques. Les frontières modernes se rencontrent dans une zone dont les habitants holocènes connaissaient d'autres logiques : accès aux points d'eau, parcours de troupeaux, saisons et relations entre petits bassins. Le massif associe granite occidental et ensembles gréseux orientaux, profondément entaillés par des vallées. Cette hétérogénéité explique une partie de la localisation des abris, des ruissellements et des surfaces susceptibles de recevoir peintures ou incisions.
+
+Le British Museum, dans son catalogue African Rock Art, décrit le relief, les vallées et la concentration de peintures à Karkur Talh. L'isolement géographique contemporain est réel ; son emploi comme synonyme d'un « désert humain intemporel » serait faux. Des sources permanentes ou relativement durables ont permis une occupation intermittente malgré l'aridification des plaines. Le paysage ne sert donc pas seulement de décor : il organise les possibilités matérielles d'une communauté pastorale.
+
+Le toponyme Jebel Uweinat se rencontre sous plusieurs translittérations dans les inventaires. Une base documentaire rigoureuse doit associer variantes du nom, coordonnées de site, identifiants de panneau et dates des relevés. Le seul nom du massif ne suffit jamais à identifier une image particulière.
+
+### II. De la « découverte » au relevé systématique : une histoire critique du savoir
+
+L'exploration savante européenne documente les peintures depuis les premières décennies du XXe siècle ; elle n'a évidemment pas fait exister les images, déjà connues dans les espaces de circulation locaux. Dans les années 1930, des explorateurs et des chercheurs, notamment Hans Rhotert, enregistrent des ensembles de Karkur Talh. Rhotert publiera ses travaux dans *Libysche Felsbilder* (1952). Hans A. Winkler documente, lui aussi, des images du désert occidental dans ses publications de 1938–1939. Les expéditions ultérieures, dont une mission belge en 1968, enrichissent la documentation.
+
+Les visites d'András Zboray et de plusieurs collaborateurs ont renouvelé l'inventaire. Le point décisif n'est pas seulement la découverte de nouveaux panneaux, mais l'établissement d'identifiants, de relations topographiques et de superpositions. Une synthèse publiée en 2025 par Zboray, Mark Borda, Favio Cambieri, Alessandro Menardi Noguera et Maria Emilia Peroschi indique que les sites désormais connus autour de Jebel Uweinat et des massifs voisins dépassent le millier. Ce chiffre se rapporte à un corpus territorial évolutif et ne saurait être attribué mécaniquement à une seule vallée.
+
+L'histoire de l'archéologie requiert une critique de ses propres catégories : « primitive », « pastorale », « magico-religieuse » ou « chamanique » ont été appliquées à des images selon des traditions interprétatives différentes. Aucune de ces étiquettes ne peut tenir lieu de description matérielle. La documentation photographique récente permet de tester les propositions anciennes, mais elle dépend des conditions d'accès, inégalement ouvertes aux chercheurs et aux populations locales.
+
+### III. Premier corpus primaire : les surfaces peintes de Karkur Talh
+
+Les images peintes de Karkur Talh représentent très fréquemment des bovins. Les descriptions du catalogue du British Museum font état d'une prédominance remarquable des bovins dans les sites peints : 337 des 414 sites peints alors recensés en comportaient. Il faut retenir avec précision les termes de cette donnée : il s'agit d'un état d'inventaire et non d'un pourcentage universel de l'art rupestre saharien. La synthèse de 2025 étend les données au-delà de ce relevé antérieur.
+
+Les animaux se présentent isolément ou en groupes. Corps colorés, silhouettes, contours et cornes répondent à diverses conventions. Certaines compositions associent personnes et bovidés, parfois en séquences suggérant une conduite du troupeau ou une scène sociale. Dans d'autres cas, une peinture ancienne a été recouverte par une figure plus récente ; la paroi est alors un palimpseste et non une scène cohérente peinte à une seule date. L'analyse exige de repérer les intersections de tracés.
+
+La question du « beau » est secondaire à celle du document : variations de remplissage, largeur des lignes, détails anatomiques, support, orientation, position relative et altération naturelle fournissent des indices plus contrôlables que la seule impression esthétique. Une photographie spectaculaire prise au grand angle ne restitue pas nécessairement les proportions ; elle doit être accompagnée de vues orthogonales, échelles et détails.
+
+### IV. Deuxième corpus primaire : les gravures au pied du massif
+
+Le corpus gravé occupe souvent des espaces topographiques différents de ceux des peintures. Des gravures de girafes, d'antilopes, de chiens ou de troupeaux apparaissent sur des surfaces exposées, parfois à des altitudes inférieures à celles des abris peints. Cette distribution peut refléter les supports disponibles, les voies de circulation, des préférences techniques et des moments différents de fréquentation. Le contraste ne suffit pas à postuler deux peuples séparés.
+
+Une incision peut être réutilisée, approfondie, érodée, couverte d'une patine ou recoupée par une autre. Son épaisseur apparente n'est donc pas nécessairement une donnée du premier geste technique. La lecture doit articuler état de surface, technique, relations de recouvrement et contexte géomorphologique. La couleur d'une patine, seule, ne date pas l'objet de manière absolue.
+
+Les gravures de dromadaires appartiennent à des horizons historiques beaucoup plus récents que de nombreuses peintures pastorales. Elles rappellent que la montagne n'est pas un sanctuaire fossilisé d'une unique époque. Reconnaître une fréquentation plurimillénaire évite une conception essentialiste d'une « religion saharienne » uniforme.
+
+### V. Stratigraphie visuelle : ce qu'une superposition prouve réellement
+
+Lorsque le trait d'une silhouette passe par-dessus celui d'une autre, la relation d'antériorité peut être établie localement, sous réserve de l'intégrité de la paroi et de la lecture des pigmentations. On obtient un ordre relatif des gestes graphiques. On n'obtient pas, par ce seul fait, une date calendaire. De même, deux figures de styles distincts peuvent être contemporaines ; deux figures stylistiquement proches peuvent avoir été exécutées à des siècles d'intervalle.
+
+Zboray a proposé des séquences stylistiques régionales, notamment des catégories dites « Uweinat roundhead », « elongated roundhead » et des styles pastoraux. Les désignations sont des instruments d'analyse et non le vocabulaire indigène des artistes. Le mot anglais *roundhead* décrit conventionnellement une morphologie de tête sans traits faciaux détaillés : il n'atteste ni un masque de culte, ni un spécialiste de la transe.
+
+La chronologie de l'art doit être confrontée aux séquences environnementales et archéologiques régionales. Mais le mobilier retrouvé près d'un abri ne date pas automatiquement chaque peinture. Le lien devient plus fort lorsque l'on dispose de fragments peints effondrés en contexte stratifié, de relations stratigraphiques documentées ou de mesures directement réalisées sur des matériaux organiques liés au tracé, avec contrôles de contamination. L'indépendance des méthodes est décisive.
+
+### VI. Holocène humide, aridification et persistance des points d'eau
+
+Le Sahara holocène n'est pas passé instantanément d'un jardin verdoyant au désert actuel. Les modifications de la mousson africaine et des écosystèmes furent spatialement différenciées. L'existence de bovins figurés ne livre pas à elle seule la pluviométrie annuelle ; elle indique toutefois que l'élevage a constitué un objet important pour certains occupants. Les sources locales ont rendu possible la concentration des déplacements dans un environnement progressivement plus contraignant.
+
+L'aridité a des conséquences sociales qui ne relèvent pas uniquement de l'écologie : elle modifie les distances entre pâturages, la dépendance envers les points d'abreuvement, les alliances et les occasions de rencontre. Dans cette perspective, un massif pourvu de ressources hydriques peut jouer à la fois le rôle de refuge, de lieu de mémoire et de zone de concurrence. Imaginer d'emblée un pèlerinage religieux serait aller au-delà des données.
+
+Il est tentant d'associer partout la rareté de l'eau à un culte de la source. Pourtant, un point d'eau indispensable peut être considéré comme ressource sans être divinisé. L'histoire du sacré se construit précisément en refusant cette confusion : l'importance pratique rend un lieu socialement central ; elle ne démontre ni son statut de sanctuaire ni l'existence de prières.
+
+### VII. La vache figurée : animal économique et personnage symbolique
+
+Dans les sociétés pastorales, les bovins sont des êtres vivants difficiles à remplacer, engageant la force de travail, la reproduction du troupeau, l'alimentation et les relations sociales. L'image du bovin peut alors déployer plusieurs significations simultanées : portrait d'un animal mémorable, représentation de richesse, figure collective, souvenir de déplacement ou acte cérémoniel. L'iconographie seule ne permet pas de choisir un sens unique.
+
+Il serait cependant aussi réducteur d'affirmer que les bêtes peintes sont de simples diagrammes économiques. Certaines compositions, par leur emplacement et leur répétition, invitent à examiner des fonctions commémoratives ou relationnelles. L'hypothèse doit alors susciter des prédictions contrôlables : répétition des associations humain-bovin, position des panneaux, régularité du passage, existence de dépôts, traces de combustion localisées ou récurrence de gestes précis.
+
+L'archéologie distingue le fait qu'un animal soit représenté de l'idée qu'il ait été sacrifié. Ni le rouge du pigment ni la présence d'une silhouette humaine ne constituent la preuve d'un abattage rituel. Le sacrifice suppose des indices beaucoup plus exigeants : restes osseux, traces de découpe, sélection anatomique, dépôts, architecture ou témoignages textuels appropriés au contexte.
+
+### VIII. Figures humaines et corps social
+
+Les figures humaines varient par la morphologie, la taille et le rapport aux bovins. Certaines semblent conduire ou côtoyer les animaux ; d'autres se distinguent par leurs proportions, leurs bras ou leur position. Leur qualification en « prêtres », « déesses », « danseurs » ou « chefs » est généralement une interprétation. Une figure debout aux bras écartés peut être un signe conventionnel aussi bien qu'une posture d'activité.
+
+Le corps peint pourrait fonctionner comme opérateur de classification. Lorsque les personnes sont placées sous un bovin ou autour d'une composition, l'image distribue des positions. Mais il faut établir si les personnages et les animaux appartiennent à une même phase. Une image réemployée peut juxtaposer deux périodes et produire une fausse narration. La critique des superpositions est donc également une critique de nos récits.
+
+Dans une enquête comparative, le corps cérémoniel se définit mieux par un faisceau de preuves répétées que par une posture inhabituelle. Les spécialistes modernes de l'art rupestre rappellent qu'une iconographie sans glossaire contemporain comporte toujours une part d'indécidabilité. Cette limite n'ôte pas son intérêt à l'anthropologie ; elle lui impose une discipline argumentative.
+
+### IX. La question de la couleur
+
+Pigments rouges, blancs et autres remplissages constituent un langage visuel matériellement analysable. Leur perception actuelle dépend de l'altération, de la lumière, des photographies et des éventuels traitements d'image. Sans analyse physicochimique de prélèvements autorisés, on ne doit pas attribuer automatiquement un rouge à l'hématite d'un gisement précis ni un blanc à une formule minérale unique.
+
+L'emploi de plusieurs couleurs peut marquer une différence stylistique, une chronologie ou une intention figurative. Il ne permet pas, à lui seul, de reconstruire des oppositions cosmologiques du type vie/mort, pur/impur ou masculin/féminin. Des interprétations symboliques contradictoires peuvent être fabriquées à partir du même panneau lorsque manque un référentiel indépendant.
+
+Une enquête future serait plus robuste en croisant microscopie non invasive, spectrométrie autorisée, cartographie des coulures, comparaison avec des sources de pigments et séquences d'altération. La conservation impose de privilégier les méthodes sans contact ; la connaissance ne justifie pas la destruction de la trace.
+
+### X. Une inscription égyptienne du Moyen Empire : autre temps, autre pouvoir
+
+Le corpus comprend aussi une pièce de nature fondamentalement différente : une inscription hiéroglyphique découverte à Jebel Uweinat et publiée en 2008 par Joseph Clayton, Aloisia de Trafford et Mark Borda. Les auteurs signalent notamment les noms de Yam et de Tekhebet. Des discussions ultérieures, dont l'étude de Bruce B. Williams (2014), l'inscrivent dans le débat sur la géographie des relations entre Égypte et Nubie. Un cartouche de Montouhotep II est rapporté au panneau.
+
+Cette inscription constitue une source primaire écrite. Elle permet d'étudier la représentation égyptienne du territoire et de la royauté au début du Moyen Empire, environ au tournant du IIIe et du IIe millénaire avant notre ère. Elle ne donne pas le nom des populations qui ont peint les bovins plusieurs millénaires auparavant et n'authentifie aucune identité religieuse préhistorique. Confondre ces temporalités serait une erreur majeure.
+
+La mention de Yam a des implications géographiques discutées. Le récit autobiographique d'Hirkhouf, dans sa tombe de Qubbet el-Hawa à Assouan, constitue une autre source du dossier des expéditions vers Yam, mais le rapprochement de textes n'équivaut pas à une identification sans débat du royaume ou des routes. Les scènes de soumission et l'iconographie royale appartiennent au langage de légitimation de l'État égyptien, qu'il faut distinguer des pratiques observables des voyageurs.
+
+### XI. Philologie de Yam et Tekhebet : nommer sans annexer
+
+La philologie doit partir des attestations hiéroglyphiques, de leur disposition et des lectures publiées. Les graphies modernes « Yam » et « Tekhebet » sont des conventions savantes : elles ne restituent pas une prononciation certaine. La présence de toponymes dans un monument de prestige ne garantit pas que son auteur ait décrit une cartographie neutre. Nommer une région est aussi un acte politique dans les inscriptions royales.
+
+Le cartouche royal identifie un souverain dans un système historique où le nom possède une force institutionnelle ; il ne transforme pas rétroactivement tous les espaces environnants en lieux cultuels égyptiens. L'archéologue doit séparer la localisation d'une inscription, son contenu et les activités réalisées autour d'elle. Sans excavation associée probante, on ne peut inférer une chapelle, un autel ou un culte permanent.
+
+Le dossier rejoint ainsi une interrogation plus générale sur les origines du sacré : à quel moment le pouvoir d'inscrire son nom sur la pierre prétend-il ordonner un espace ? L'Égypte offre, pour une époque et une documentation distinctes, un cas attesté de représentation souveraine. La montagne préhistorique, elle, ne fournit pas les mots de ceux qui l'ont peinte.
+
+### XII. Lieu de mémoire, station, sanctuaire : trois hypothèses distinctes
+
+Une station de parcours se reconnaît par des traces d'occupation et par sa place dans un réseau de déplacements. Un lieu de mémoire suppose des retours, des reconnaissances de signes ou des usages de traces passées. Un sanctuaire requiert des indices convergents de pratiques religieuses relativement stabilisées. Ces trois fonctions peuvent coexister, mais aucune ne découle automatiquement des deux autres.
+
+À Karkur Talh, les retours sur les mêmes parois et la concentration iconographique rendent plausible une histoire longue de fréquentation. L'attribution d'un statut cultuel permanent reste beaucoup moins solidement étayée. L'absence d'autel identifié ne prouve pas l'absence de rites éphémères ; inversement, elle interdit d'affirmer leur présence.
+
+Cette distinction évite deux erreurs symétriques : dissoudre toute image dans l'économie ou assigner toute image à la religion. Entre les deux, l'archéologie des pratiques cherche des procédures, des rythmes, des lieux et des transformations concrètes.
+
+### XIII. Le vocabulaire du « chamanisme » sous contrôle
+
+Les figures à tête sans traits ont parfois été rapprochées d'êtres surnaturels, de masques ou d'expériences extatiques. Une telle lecture n'est pas impossible en principe, mais l'analogie repose souvent sur des comparaisons ethnographiques très éloignées. Elle devient circulaire quand une figure « étrange » est déclarée chamanique parce qu'elle paraît étrange.
+
+Les modèles de David Lewis-Williams sur l'art rupestre et l'expérience visionnaire ont été féconds dans certains contextes où des convergences ethnographiques existent. Leur transfert mécanique au Sahara oriental, sans tradition interprétative locale documentée et sans indices indépendants, reste contestable. La prudence ne consiste pas à refuser les comparaisons ; elle consiste à expliciter le niveau de preuve de chaque pas.
+
+Une véritable hypothèse chamanique devrait expliquer une répartition de motifs que la simple variation stylistique n'explique pas, et être confrontée à des données d'occupation ou d'objets compatibles. Faute de cela, il s'agit d'une possibilité herméneutique et non d'une conclusion.
+
+### XIV. Comparaison contrôlée : Nabta Playa et Gobero
+
+Nabta Playa, au Sahara oriental, présente des vestiges mégalithiques et pastoraux dont l'interprétation a suscité des discussions sur les rassemblements, les bovins et les temporalités. Gobero, dans le Ténéré nigérien, révèle quant à lui des sépultures de plusieurs horizons et des transformations lacustres. Jebel Uweinat ajoute à ce tableau une riche documentation figurative. Ces trois dossiers ne sont pas interchangeables : architecture et dépôts à Nabta, sépultures à Gobero, panneaux peints et gravés à Uweinat.
+
+Comparer les sites peut dégager des questions communes : relations humains-bovins, mémoires de lieux, gestion de l'eau, réponses à l'aridité. Cela ne permet pas d'en déduire une religion bovine pan-saharienne. Les chronologies ne se superposent pas parfaitement, les contextes matériels divergent et les archives présentent des lacunes considérables.
+
+Une comparaison utile fonctionne par matrice explicite : type de document, datation, contexte de découverte, geste observable, interprétation probable et hypothèse alternative. Cette méthode empêche qu'un motif commun masque des écarts décisifs.
+
+### XV. Égypte pharaonique : Hathor et le risque des généalogies faciles
+
+L'iconographie égyptienne ultérieure associe parfois la vache à Hathor, déesse dont les fonctions cultuelles sont attestées par des textes, des temples et des images. Cette abondance documentaire rend la comparaison stimulante : dans les deux régions, les bovins peuvent dépasser le seul registre alimentaire. Mais les ressemblances morphologiques ne prouvent aucune filiation religieuse directe entre les peintures de Karkur Talh et le culte d'Hathor.
+
+Une transmission éventuelle réclamerait une chaîne démontrable de contextes, de motifs distinctifs, de dates et de contacts. Dire « des bovins sont représentés dans deux traditions » est une observation faible ; dire « la même divinité y est représentée » serait une affirmation injustifiée. Une hypothèse générale sur la centralité sociale des troupeaux est plus modeste et mieux défendable.
+
+Ce principe vaut aussi pour les images de taureaux minoens, grecs ou indo-iraniens. Le bovin est un animal largement présent dans l'histoire des sociétés humaines. La fréquence universelle d'un motif réduit sa valeur probante comme indice de parenté mythologique.
+
+### XVI. Comparaison avec le sacrifice grec et le pastoralisme védique
+
+Chez les Grecs, les prescriptions et récits de sacrifices bovins peuvent être discutés à partir de sources écrites et de contextes archéologiques, comme l'analyse de Marcel Detienne et Jean-Pierre Vernant dans *La Cuisine du sacrifice en pays grec* (1979). Le modèle de la *thysia* articule découpe, commensalité, attribution des parts et relation aux dieux. Aucun des éléments proprement textuels de ce modèle n'est attesté par les silhouettes bovines d'Uweinat.
+
+La littérature védique, d'une autre période, comporte des rapports complexes entre richesse bovine, offrande, langage rituel et statut des officiants. La comparaison thématique peut faire ressortir différentes façons de sacraliser le bétail, mais elle doit éviter l'anachronisme et l'idée d'une origine unique des religions pastorales. Des économies proches n'entraînent pas nécessairement des théologies proches.
+
+L'analogie doit donc rester analytique : elle aide à formuler des questions sur échange, propriété, don ou sacrifice ; elle ne fournit aucune traduction des images préhistoriques.
+
+### XVII. Dumézil : fonctions sociales et absence d'archive indo-européenne
+
+Les travaux de Georges Dumézil sur les idéologies triparties des sociétés indo-européennes concernent des ensembles textuels et linguistiques historiques. Ils ne peuvent pas servir à découper les figures de Karkur Talh en « prêtres », « guerriers » et « producteurs » par simple ressemblance fonctionnelle. Aucune affiliation indo-européenne des peintres ne résulte du corpus iconographique.
+
+Cela ne retire rien à l'intérêt méthodologique de Dumézil : il incite à chercher des structures récurrentes et à comparer de manière systématique. Mais il souligne aussi, par contraste, l'importance des corpus pertinents. Une comparaison sans correspondances indépendantes devient un dispositif où le chercheur retrouve toujours le schème qu'il avait apporté.
+
+Les fonctions économiques, guerrières ou politiques sont des catégories d'observation possibles ; leur transformation en doctrine indigène requiert des preuves.
+
+### XVIII. Durkheim : la force collective sans religion démontrée
+
+Dans *Les Formes élémentaires de la vie religieuse* (1912), Émile Durkheim lie la puissance religieuse à des classifications et expériences collectives. À Uweinat, l'idée qu'une paroi peinte puisse soutenir des relations de groupe est plausible. Mais l'existence d'un groupe, d'une mémoire et d'un animal valorisé ne suffit pas à établir un système totémique.
+
+La démarche durkheimienne a surtout une valeur heuristique : elle invite à regarder les gestes et la distribution sociale de l'image plutôt qu'à inventer une mythologie privée de contexte. La paroi peut fonctionner comme médiation collective sans que l'archéologue connaisse le nom d'un dieu ni la catégorie de l'interdit.
+
+Il faut distinguer une interprétation sociologique de la preuve archéologique : la première donne une théorie du sens ; la seconde documente des opérations matérielles.
+
+### XIX. Eliade : montagne, centre et tentation de l'axis mundi
+
+Mircea Eliade a proposé, notamment dans *Le Sacré et le Profane* (1957), une phénoménologie du centre, de la hauteur et de l'orientation. Le relief isolé et visible de Jebel Uweinat peut sembler illustrer un « axe du monde ». Mais rien dans les images actuellement invoquées ne démontre que les occupants l'aient conçu comme le centre cosmique de leur univers.
+
+La montagne-refuge est un fait topographique ; la montagne comme *axis mundi* est une hypothèse religieuse. La confusion entre les deux constitue un raisonnement par métaphore. Pour transformer la seconde en conclusion, il faudrait identifier une logique ancienne d'orientation et des pratiques dont la lecture cosmologique explique mieux la distribution que des alternatives sociales et écologiques.
+
+Le modèle eliadesque demeure donc un instrument de comparaison, à manier avec une explicitation stricte de ses limites.
+
+### XX. Girard et le sacrifice : le danger de projeter la violence
+
+René Girard a éclairé le rapport entre violence, victime et ordre social dans *La Violence et le Sacré* (1972). Il serait pourtant erroné d'interpréter chaque représentation de troupeau comme trace d'un sacrifice, ou chaque figure humaine dominée par un bovin comme scène de substitution victimaire. Les images ne documentent pas, à elles seules, l'exécution d'un rituel.
+
+L'hypothèse sacrificielle exige ici une archéologie des ossements, de leurs traitements et de leur contexte ; faute de quoi elle n'est qu'une analogie. On peut examiner les conditions dans lesquelles une économie d'élevage rend des sacrifices possibles sans prétendre qu'ils ont effectivement eu lieu dans chaque vallée ornée.
+
+Cette retenue importe autant à l'égard des théories du sacrifice qu'à l'égard de celles du chamanisme : aucun modèle global n'autorise à contourner le terrain.
+
+### XXI. Nietzsche, Hegel et la philosophie de la mémoire
+
+Dans la deuxième dissertation de *La Généalogie de la morale* (1887), Nietzsche examine la fabrication historique des obligations et de la mémoire. Une paroi peinte peut susciter une question analogue sur la permanence de signes, mais elle ne prouve pas l'existence d'une morale de la dette ni de procédures de punition. La philosophie sert à rendre visibles les présupposés de notre enquête, non à peupler le Sahara de concepts nietzschéens.
+
+La philosophie hégélienne de l'histoire manifeste les dangers des classifications universelles de civilisations à partir de sources inégales, particulièrement lorsqu'elle déprécie les sociétés africaines sans écriture. Jebel Uweinat oppose à cette hiérarchie un corpus complexe, stratifié et techniquement élaboré. Il ne s'agit pas de transformer les peintures en « écriture » au sens strict, mais de reconnaître qu'une histoire sans archive alphabétique reste historiquement intelligible.
+
+La présence d'une inscription égyptienne plus récente ne doit pas devenir le moment supposé où une histoire véritable commencerait. L'historiographie actuelle s'attache à la diversité des régimes de trace, au lieu de confondre histoire et écriture d'État.
+
+### XXII. Éthique de la documentation et conservation
+
+La dispersion territoriale, les contraintes de sécurité, le tourisme ponctuel et l'érosion exposent le patrimoine à des vulnérabilités. Les relevés numériques ne constituent pas une restitution des peintures elles-mêmes. Une archive scientifique doit comporter photographies originales, données de traitement, échelles, identification des opérateurs, droits et limites de précision.
+
+Le traitement algorithmique des images peut rendre visibles des traces difficiles à distinguer ; il peut aussi produire des contrastes trompeurs. Aucune image renforcée ne doit être présentée sans sa version source et la déclaration du procédé. La comparaison des clichés anciens et récents est l'un des moyens les plus solides de mesurer la perte d'information.
+
+Il importe enfin de ne pas raconter l'histoire de l'« invention » occidentale du lieu. La documentation savante est historiquement située ; la protection suppose coopération avec les institutions compétentes et respect des communautés concernées, plutôt que publication de coordonnées sensibles permettant des dégradations.
+
+### XXIII. Tableau analytique des niveaux de certitude
+
+**Attesté.** Jebel Uweinat et Karkur Talh possèdent de nombreuses surfaces peintes et gravées ; les bovins sont fortement représentés ; plusieurs séquences graphiques se superposent ; les conditions environnementales de l'Holocène diffèrent de celles du désert contemporain ; une inscription hiéroglyphique du Moyen Empire, publiée en 2008, mentionne Yam et Tekhebet.
+
+**Solidement argumenté, sans être absolu.** Une part importante des images relève de milieux pastoraux ; l'usage des abris se déploie sur des phases différentes ; les points d'eau ont conditionné les fréquentations ; plusieurs styles et techniques signalent une histoire complexe de l'occupation. Les fenêtres de datation restent révisables selon les méthodes employées.
+
+**Débattu.** La chronologie détaillée de chaque style, les relations entre groupes auteurs, la signification des figures humaines sans visage, la localisation exacte de Yam, les fonctions sociales précises des panneaux et l'éventuelle ritualisation de certains abris.
+
+**Hypothétique.** Existence d'un culte bovin unitaire, interprétation chamanique générale, montagne conçue comme centre cosmique, filiation directe avec Hathor, sacrifice animal déduit de la seule peinture, succession simple de « peuples » graphiquement distincts.
+
+Cette grille accompagne les illustrations futures : chaque figure doit recevoir sa propre étiquette documentaire, non une interprétation générale sans source.
+
+### XXIV. Programme de vérification pour une étude ultérieure
+
+Une recherche interdisciplinaire pourrait sélectionner un ensemble limité de panneaux précisément localisés : relevé photogrammétrique, inventaire des recouvrements, analyses de pigments non destructives, étude des microclimats des abris, contrôle de la documentation ancienne et relations avec les occupations au sol. Les données seraient publiées sous des identifiants stables, avec des licences explicites et des indications de conservation.
+
+Il conviendrait également de séparer les ensembles préhistoriques des inscriptions dynastiques et des gravures historiques en établissant une chronologie indépendante des interprétations. Une base comparative ouverte permettrait ensuite de rapprocher Jebel Uweinat de Nabta Playa, de Wadi Sura, de l'Ennedi ou de la Corne de l'Afrique sans effacer leurs différences.
+
+L'objectif n'est pas de forcer les peintures à livrer un mythe unique, mais de reconstituer la pluralité des gestes humains qui leur ont donné forme, qui les ont vus et qui les ont parfois transformés.
+
+### Conclusion — Quand l'image excède la preuve religieuse
+
+Jebel Uweinat offre un exemple majeur d'histoire longue d'un paysage africain. Les représentations bovines révèlent une place remarquable accordée aux animaux dans certains mondes holocènes ; leur densité appelle une anthropologie des relations sociales. Les sources d'eau invitent à traiter l'écologie comme condition des rencontres. L'inscription de Montouhotep II montre qu'un pouvoir royal égyptien a, dans une phase distincte, inscrit une autre conception de l'espace dans la pierre.
+
+La question du sacré demeure féconde précisément parce qu'elle est ouverte. Elle devient historiquement responsable lorsqu'elle distingue le bovin dessiné du bovin sacrifié, la montagne habitée de la montagne divinisée et le nom royal du mythe local. Ici, la trace prime sur le système : l'hypothèse religieuse n'est ni interdite ni consacrée par avance.
+
+### Sources primaires et corpus documentaire
+
+1. **Parois de Karkur Talh et du massif de Jebel Uweinat.** Corpus photographique et descriptif du British Museum / Trust for African Rock Art, *African Rock Art*, notice « Jebel Uweinat, Sudan » ; photographies identifiées notamment sous les numéros 2013,2034.6 ; 2013,2034.258 ; 2013,2034.335 ; 2013,2034.3918. https://africanrockart.britishmuseum.org/country/sudan/jebel-uweinat/
+2. **Inscriptions hiéroglyphiques de Jebel Uweinat**, dont le panneau portant la titulature de Montouhotep II et les mentions de Yam et Tekhebet ; édition et documentation : Clayton, de Trafford et Borda (2008), voir bibliographie. Ne pas reproduire de traduction continue sans l'édition sous les yeux.
+3. **Inscriptions autobiographiques d'Hirkhouf**, tombe de Qubbet el-Hawa, VIe dynastie : documents comparatifs sur les expéditions vers Yam ; leur rapport géographique avec Jebel Uweinat est un sujet de discussion et non une identification automatique.
+4. **Photographies et relevés historiques** de Hans Rhotert, Hans A. Winkler et de missions ultérieures : sources documentaires anciennes à vérifier par leurs planches et les correspondances d'identifiants avant toute reproduction.
+
+### Bibliographie vérifiée et lectures critiques
+
+- Clayton, Joseph ; de Trafford, Aloisia ; Borda, Mark (2008), « A hieroglyphic inscription found at Jebel Uweinat mentioning Yam and Tekhebet », *Sahara*, 19, p. 129–134. Référence : https://www.africabib.org/rec.php?RID=327063416
+- Zboray, András (2009), « The rock art of Jebel Uweinat. Some results of the ongoing survey », *Archéo-Nil*, 19, p. 27–30, DOI : https://doi.org/10.3406/arnil.2009.977
+- Zboray, András ; Borda, Mark ; Cambieri, Favio ; Menardi Noguera, Alessandro ; Peroschi, Maria Emilia (2025), « The Jebel Uweinat Rock Art Survey: Achievements of the Past 20 Years », *Internet-Beiträge zur Ägyptologie und Sudanarchäologie*, 27. Référence de publication confirmée sur le site de l'équipe : https://www.fjexpeditions.com/expeditions/news/news.htm
+- Zboray, András ; Borda, Mark (2013), « New finds and observations made during a recent visit to Jebel Uweinat (Northwest Sudan) », *Sahara*, 24. Notice bibliographique du chercheur : https://independent.academia.edu/AndrasZboray/Papers
+- Williams, Bruce B. (2014), « Some Geographical and Political Aspects to Relations between Egypt and Nubia in C-Group and Kerma Times, ca. 2500–1500 B.C. », *Journal of Ancient Egyptian Interconnections*, 6/1, p. 62–75, DOI : https://doi.org/10.2458/azu_jaei_v06i1_williams
+- British Museum / TARA, « Jebel Uweinat, Sudan », catalogue photographique, https://africanrockart.britishmuseum.org/country/sudan/jebel-uweinat/
+- Detienne, Marcel ; Vernant, Jean-Pierre (dir.) (1979), *La Cuisine du sacrifice en pays grec*, Paris, Gallimard.
+- Durkheim, Émile (1912), *Les Formes élémentaires de la vie religieuse*, Paris, Félix Alcan.
+- Eliade, Mircea (1957), *Le Sacré et le Profane*, Paris, Gallimard.
+- Girard, René (1972), *La Violence et le Sacré*, Paris, Grasset.
+- Nietzsche, Friedrich (1887), *Zur Genealogie der Moral* [*La Généalogie de la morale*], deuxième dissertation.
+- Hegel, G. W. F., *Vorlesungen über die Philosophie der Geschichte* [*Leçons sur la philosophie de l'histoire*] : usage critique des constructions philosophiques anciennes sur l'Afrique et l'écriture.
+
+### Notices iconographiques proposées, sans incorporation d'images tierces
+
+**Figure A — Karkur Talh, bovins et personnes sur plafond d'abri.** Source British Museum/TARA, photographie 2013,2034.6 ; légende descriptive, échelle, auteur et date à indiquer conformément aux droits.
+
+**Figure B — Bovins peints en blanc à Karkur Talh.** Catalogue British Museum/TARA, photographie 2013,2034.258 ; aucun animal ne doit être nommé « divinité » sur la seule base de l'image.
+
+**Figure C — Girafes gravées.** Catalogue British Museum/TARA, photographie 2013,2034.3918 ; différencier gravure, patine et rehaussement photographique.
+
+**Figure D — Inscriptions de Yam et Tekhebet.** Reproduire exclusivement après vérification de l'édition de Clayton, de Trafford et Borda (2008), de la légende de provenance et des droits.
+
+Aucun cliché sous droits n'est intégré à cette soumission. Toute proposition de restitution 3D serait explicitement qualifiée de reconstruction contemporaine et non de témoignage archéologique.
