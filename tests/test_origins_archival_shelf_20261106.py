@@ -58,6 +58,14 @@ class OriginsArchivalShelfTests(unittest.TestCase):
                     navs = page.select("nav[data-mythos-archival-return]")
                     self.assertEqual(len(navs), 1)
                     self.assertEqual(navs[0].a["href"], PORTAL)
+                    source_links = navs[0].select("a.origins-archival-source-link")
+                    self.assertEqual(len(source_links), 1, slug)
+                    self.assertEqual(
+                        source_links[0]["href"],
+                        "https://github.com/Bobcribb/Bobcribb.github.io/blob/main/"
+                        "corpus/origines-du-sacre/" + slug + ".md",
+                    )
+                    self.assertEqual(source_links[0].get("rel"), ["noopener", "noreferrer"])
 
     def test_archive_absente_refusee(self):
         with TemporaryDirectory() as tmp:
