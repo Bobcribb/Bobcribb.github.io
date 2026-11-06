@@ -885,6 +885,18 @@
           "path": "chapitres/origines-du-sacre/719-gebel-ramlah-necropoles-nourrissons-ocre-feu-pastoralisme-neolithique-sahara.md",
           "request_sha256": "d3901a44160d8adb1c559ce27aceed665ff51643fa007690d566556a693cf379",
           "initial_source_sha256": "40f97481cd2dd78cdb5c3a40cbcd9405ba469a2dcac5dfabf3d97753cad49557"
+        },
+        "c41e9a7b-f63d-4231-9df9-8e012b436d50": {
+          "number": 720,
+          "path": "chapitres/origines-du-sacre/720-messak-settafet-monuments-bovins-corbeilles-gravures-sacrifices-neolithique.md",
+          "request_sha256": "b53a68914fa30ea00fc371dc9647d49ad220086b764ba90b3d5c7ac5d7a84405",
+          "initial_source_sha256": "c580355287a4e856788dd9415310c98aaef723adc5b741ee93ceef006104f014"
+        },
+        "f826e142-3f57-4eb9-a6ef-4a8a31d98520": {
+          "number": 721,
+          "path": "chapitres/origines-du-sacre/721-tadrart-acacus-art-rupestre-abris-takarkori-pastoralisme-memoire-sahara.md",
+          "request_sha256": "9c9431dbe4059f41dea182172d5a23fa73d3182476208b72ff9e147e61fe324e",
+          "initial_source_sha256": "7c5219357e25cf35bfbfdf17a8befe2867e51ba297e0f907ad19d1f85c0043d4"
         }
       }
     },
@@ -2452,6 +2464,12 @@
           "path": "chapitres/tragedies/volume-cclxii-acheos-eretrie-aithon-satyrique-faim-vin-odyssee-erysichthon.md",
           "request_sha256": "1634adf44663a23d07dcfff28506e8afac257dccd83c7a6e328f98f53a440e93",
           "initial_source_sha256": "fce40074f866c2283ced74127ecf69b87f61bb00fac81436c94428e8486388e1"
+        },
+        "2ebc38f4-7aa1-4c20-9c85-a59e632bd710": {
+          "number": 263,
+          "path": "chapitres/tragedies/volume-cclxiii-acheos-eretrie-alcmeon-satyrique-delphes-couteaux-sacrifices-kylichnides.md",
+          "request_sha256": "0bbb32b79900fe4a4ab1f07ff0b8ec65ba76c6b17e02515346f636acfc419f9d",
+          "initial_source_sha256": "228af511626f3cf774bf4943b9fe1c788e46d1345c2dcc2d22d9eca291e6656b"
         }
       }
     },
