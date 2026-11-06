@@ -2,7 +2,7 @@
   "generated_at": "2026-11-06",
   "site": "bobmythos.fr",
   "method": "Illustrations photoréalistes interprétatives, textes et sources hors des pixels.",
-  "count": 77,
+  "count": 78,
   "entries": [
     {
       "id": "DEL-PAN-001",
@@ -2241,6 +2241,63 @@
         "Homère, Odyssée, XIV, 327–330 ; XIX, 296–299 : consultation de Dodone dans le récit d’Ulysse."
       ],
       "methodology": "Restitution artistique non métrique à partir des phases archéologiques documentées : Hiera Oikia du IVe siècle, enceinte à trois portiques ioniques sous Pyrrhus vers 280 av. J.-C. sans temple postérieur à 219 ; élévations, mobilier et rituel hypothétiques.",
+      "publication_status": "fichier_prepare_non_publie_deploiement_https_a_verifier"
+    },
+    {
+      "id": "KAS-AGO-001",
+      "slug": "kassope-agora-stoas-katagogion-vers-190-av-jc",
+      "title": "Kassopè (Épire) — agora, portiques et Katagôgion, vers 190 av. J.-C.",
+      "period": "Époque hellénistique, évocation vers 190 av. J.-C., avant les destructions romaines de 167 av. J.-C.",
+      "caption": "Vue numérique photoréaliste interprétative de l'agora de Kassopè : place bordée de portiques doriques, édifices civiques, maisons et panorama sur le golfe Ambracique ; volumes conjecturaux.",
+      "commentary": "Kassopè (Κασσώπη, Kassōpē), cité grecque d'Épire et centre des Kassopaioi, fut fondée au IVe siècle av. J.-C. sur un plateau dominant la plaine prévézane, le golfe Ambracique et la mer Ionienne, sur les versants du Zalongo. La ville possédait un parcellaire régulier, un réseau de rues et d'évacuation des eaux, des maisons en îlots, un théâtre et un ensemble monumental organisé autour de l'agora. La topographie du plateau, les murs de grand appareil et les traces d'organisation urbaine sont documentés par les fouilles et les institutions grecques. L'agora occupait un secteur en balcon vers le sud-est, avec un portique dorique sur le bord nord et un autre sur l'ouest, un bâtiment d'assemblée ou petit théâtre vers l'est, et des édifices civiques. La stoa nord possède un stylobate fouillé sur une longueur d'environ 63 m, d'après la chronique archéologique de 1981. Le Katagôgion, édifice monumental à cour et chambres au nord de l'agora, a reçu plusieurs interprétations : hébergement public, espace commercial ou bâtiment civique ; il ne faut pas lui imposer une fonction unique. Le complexe occidental reconnu comme prytanée comprenait une cour péristyle et plusieurs salles, dont la structure et les usages sont discutés dans les rapports de fouilles. Les portiques doriques sont présents dans les synthèses locales, mais leurs chronologies respectives et l'extension des états visibles ne sont pas identiques : la stoa occidentale est souvent placée au IIe siècle av. J.-C. La date vers 190 av. J.-C. correspond donc à une évocation de la ville peu avant la dévastation romaine de l'Épire en 167 ; elle n'est pas une datation précise de chaque bâtiment. La représentation montre le côté sud-est de la place publique, un long portique dorique au nord, un deuxième à l'ouest, les façades de plusieurs bâtiments civiques et un quartier de maisons. Les édifices ainsi que leur placement relatif résultent d'une synthèse perspective et non d'une translation exacte d'un plan de fouilles ; notamment le bâtiment à fronton sur le côté est est une simplification artistique et ne doit pas être identifié à une restitution mesurée du Bouleutérion. Les matériaux supérieurs (briques, enduits, charpentes et tuiles), les détails des chapiteaux, les statues, les étals, les figurants, les couleurs et la distribution des végétaux sont hypothétiques. Le panorama donne un aperçu spatial de la vie civique hellénistique mais ne constitue ni un relevé géoréférencé, ni une photographie historique, ni un modèle 3D archéométrique expertisé. Les sources citées n'ont pas participé à la génération et n'ont pas validé l'image.",
+      "certainty": "Élevé : site de Kassopè dans l'Épire grecque, fondation au IVe siècle, plateau du Zalongo et panorama vers la mer Ionienne, plan urbain régulier, présence d'une agora, de portiques, du Katagôgion, de bâtiments civiques et de maisons. Moyen : organisation générale des deux stoas, emplacement relatif du bâtiment d'assemblée, attribution fonctionnelle du prytanée et du Katagôgion, chronologie des portiques à la transition IIIe–IIe siècles, encombrement et volumétrie générale de l'agora. Faible : élévation et hauteur exactes des façades, frontons, statues et chapiteaux visibles, nombre de travées, tuiles, matériaux peints, présence de boutiques, figures humaines, vêtements, végétation, perspective et état synchronique de chaque construction vers 190 av. J.-C.",
+      "source_url": "https://www.hh.gr/en/destinations/kassopi/",
+      "secondary_sources": [
+        "https://www.culture.gov.gr/el/Information/SitePages/view.aspx?nID=5608",
+        "https://discoverpreveza.gr/archeological-site-cassope/?lang=en",
+        "https://chronique.efa.gr/?id=20501&r=report",
+        "https://chronique.efa.gr/?id=20020&r=report",
+        "https://www.persee.fr/doc/bch_0007-4217_1978_num_102_2_18540"
+      ],
+      "src": "/assets/reconstitutions-3d/kassope-agora-stoas-katagogion-vers-190-av-jc.webp",
+      "image": "/assets/reconstitutions-3d/kassope-agora-stoas-katagogion-vers-190-av-jc.webp",
+      "width": 1671,
+      "height": 941,
+      "created_at": "2026-11-06",
+      "type": "reconstitution visuelle numérique photoréaliste à apparence 3D, non métrique et non archéométrique",
+      "provenance": "Création originale assistée par génération d'image pour MYTHOS, sans menu, légende, logo, texte ou schéma 2,5D inscrits dans les pixels ; aucune institution n'a validé la modélisation.",
+      "sha256": "87cd9092856a79a9f9c0ef98e1c9c6c4afc7b27a541415b396910f5005fceb85",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/kassope-agora-stoas-katagogion-vers-190-av-jc.json",
+      "scientific_sources": [
+        {
+          "label": "Hellenic Heritage — Kassopi : site, habitat, portiques et urbanisme",
+          "url": "https://www.hh.gr/en/destinations/kassopi/"
+        },
+        {
+          "label": "Ministère grec de la Culture — mise en valeur de Kassopè (2026)",
+          "url": "https://www.culture.gov.gr/el/Information/SitePages/view.aspx?nID=5608"
+        },
+        {
+          "label": "Municipalité de Prévéza — Archaeological Site of Cassope : agora et édifices",
+          "url": "https://discoverpreveza.gr/archeological-site-cassope/?lang=en"
+        },
+        {
+          "label": "École française d'Athènes — Chronique des fouilles, Kassopè, campagne 1981 : stoa nord de 63 m",
+          "url": "https://chronique.efa.gr/?id=20501&r=report"
+        },
+        {
+          "label": "École française d'Athènes — Chronique des fouilles, Kassopè 1983 : secteur du prytanée",
+          "url": "https://chronique.efa.gr/?id=20020&r=report"
+        },
+        {
+          "label": "Bulletin de correspondance hellénique, rapport 1978 : urbanisme de Kassopè et Katagôgion",
+          "url": "https://www.persee.fr/doc/bch_0007-4217_1978_num_102_2_18540"
+        }
+      ],
+      "primary_texts": [
+        "Documentation principale archéologique et institutionnelle : absence de source ancienne permettant de restituer les façades précises de l'agora vers 190 av. J.-C."
+      ],
+      "methodology": "Restitution interprétative de synthèse sur la base de descriptions archéologiques ; aucun relevé métrique ou alignement de phase stratigraphique des élévations proposées.",
       "publication_status": "fichier_prepare_non_publie_deploiement_https_a_verifier"
     }
   ]
