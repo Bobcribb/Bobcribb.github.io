@@ -62,6 +62,33 @@ def norm(value):
     return re.sub(r"\s+", " ", "".join(c for c in value if not unicodedata.combining(c)))
 
 
+# Vue de recherche compacte ; le catalogue intégral et les contrôles de
+# conservation continuent d'utiliser search.json, sans perte de métadonnées.
+SEARCH_LIGHT_FIELDS = ('id', 'url', 'title', 'excerpt', 'collection', 'minutes',
+                       'civilizations', 'authors', 'works', 'themes')
+
+
+def compact_search_index(entries):
+    """Keep all searchable terms and facets without the heavyweight audit data."""
+    compact = []
+    for entry in entries:
+        record = {key: entry.get(key, [] if key in
+                  ('civilizations', 'authors', 'works', 'themes') else '')
+                  for key in SEARCH_LIGHT_FIELDS}
+        terms = [entry.get('title', ''), entry.get('excerpt', ''),
+                 entry.get('headings', ''), entry.get('collection', '')]
+        for facet in ('authors', 'works', 'themes'):
+            value = entry.get(facet, [])
+            terms.extend(value if isinstance(value, list) else [str(value)])
+        # Les recherches sont des conjonctions de mots. La déduplication
+        # conserve le vocabulaire des 2 000 premiers caractères de titres de
+        # section, sans répéter les tokens ni transférer les hash de contrôle.
+        words = norm(' '.join(str(term) for term in terms if term)).split()
+        record['search_text'] = ' '.join(dict.fromkeys(words))
+        compact.append(record)
+    return compact
+
+
 def page_path(out, url):
     path = out / urlsplit(url).path.lstrip("/")
     return path / "index.html" if url.endswith("/") else path
@@ -416,6 +443,9 @@ def enhance(out, root):
     search.write_text(str(search_doc),encoding='utf-8')
     (out/'catalog/entries.json').write_text(json.dumps({'version':1,'entries':complete},ensure_ascii=False,separators=(',',':'))+'\n')
     (out/'search.json').write_text(json.dumps(complete,ensure_ascii=False,separators=(',',':'))+'\n')
+    (out/'catalog/search-light.json').write_text(
+        json.dumps(compact_search_index(complete), ensure_ascii=False,
+                   separators=(',', ':')) + '\n', encoding='utf-8')
     inventory=out/'etat-du-corpus/index.html'
     doc=BeautifulSoup(inventory.read_text(),'html.parser')
     counts=Counter(x['collection'] for x in complete)

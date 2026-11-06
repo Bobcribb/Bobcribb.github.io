@@ -1,0 +1,20 @@
+{
+  "id": "R3D-009",
+  "slug": "nemee-stade-vue",
+  "title": "Némée — stade antique",
+  "period": "Dernier tiers du IVe siècle av. J.-C.",
+  "image": "/assets/reconstitutions-3d/nemee-stade-vue.webp",
+  "caption": "Némée — stade antique — restitution photoréaliste interprétative. Dernier tiers du IVe siècle av. J.-C.",
+  "commentary": "Le stade de Némée servait aux concours panhelléniques ; la piste et son accès sont documentés, la foule et les aménagements secondaires relèvent de l’illustration.",
+  "certainty": {
+    "summary": "Élevé : stade et fonction ; moyen : pente et piste ; faible : aménagements secondaires et décors."
+  },
+  "sources": [
+    {
+      "label": "Source documentaire du catalogue MYTHOS",
+      "url": "https://nemeacenter.berkeley.edu/ancient-nemea/stadium-panhellenic-cycle"
+    }
+  ],
+  "image_sha256": "418e502f62c99fd7edf8b8b2f1cd5d795dea7b641df8af68d612168c4acf8651",
+  "rights_and_method": "Image numérique interprétative, non métrique ; les sources documentent le site ou monument, mais ne certifient pas les détails graphiques."
+}

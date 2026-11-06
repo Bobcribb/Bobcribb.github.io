@@ -1,0 +1,20 @@
+{
+  "id": "R3D-013",
+  "slug": "brauron-stoa-vue",
+  "title": "Brauron — portique du sanctuaire",
+  "period": "Fin du Ve siècle av. J.-C., vers 425–415",
+  "image": "/assets/reconstitutions-3d/brauron-stoa-vue.webp",
+  "caption": "Brauron — portique du sanctuaire — restitution photoréaliste interprétative. Fin du Ve siècle av. J.-C., vers 425–415.",
+  "commentary": "Le portique dorique du sanctuaire d’Artémis à Brauron participe à l’organisation cultuelle du site ; couleurs, toitures et surfaces sont restituées librement.",
+  "certainty": {
+    "summary": "Élevé : existence du portique ; moyen : rythme des colonnes ; faible : polychromie et toiture."
+  },
+  "sources": [
+    {
+      "label": "Source documentaire du catalogue MYTHOS",
+      "url": "https://archaeologicalmuseums.culture.gov.gr/en/museum/5df34af3deca5e2d79e8c189/archaeological-museum-of-vravrona"
+    }
+  ],
+  "image_sha256": "1d6ec087fda3af11f6b374ba96849ca8fd2f68bb60821b570cd113c8b267e28d",
+  "rights_and_method": "Image numérique interprétative, non métrique ; les sources documentent le site ou monument, mais ne certifient pas les détails graphiques."
+}

@@ -75,15 +75,24 @@ def latest_verified(root, output):
             # « Chapitre 409 — Agathos Daimôn ») et les sections en H2.
             # Quand le H1 est générique, le titre est généralement
             # le premier H2, après un H1 décrivant le cycle et son numéro.
-            first_h1 = re.search(r'(?m)^#\s+(.+)$', markdown)
+            headings_h1 = list(re.finditer(r'(?m)^#\s+(.+)$', markdown))
+            first_h1 = headings_h1[0] if headings_h1 else None
             first_h2 = re.search(r'(?m)^##\s+(.+)$', markdown)
             h1_text = re.sub(r'[`*_]', '', first_h1.group(1)).strip() if first_h1 else ''
-            # Les Origines et l'encyclopédie utilisent toutes deux un H1
-            # scientifique « Chapitre N — titre ». Un H2 « Résumé
-            # scientifique » ne doit jamais remplacer ce titre sur l'accueil.
+            # Priorité au véritable titre scientifique, même si le manuscrit
+            # comporte un second H1 après un H1 générique « MYTHOS — Volume ».
+            # Ne jamais confondre le premier H2 numéroté avec le titre.
             titled_chapter = bool(re.match(
                 r'(?i)^chapitre\s+\d+\s+[—:-]\s+\S+', h1_text))
-            heading = first_h1 if titled_chapter else (first_h2 or first_h1)
+            scientific_h1 = next((
+                candidate for candidate in headings_h1[1:]
+                if (not first_h2 or candidate.start() < first_h2.start())
+                and not re.match(
+                    r'(?i)^MYTHOS\s*[—:-]',
+                    re.sub(r'[`*_]', '', candidate.group(1)).strip())
+            ), None)
+            heading = (first_h1 if titled_chapter else
+                       (scientific_h1 or first_h2 or first_h1))
             if not heading:
                 continue
             title = re.sub(r'[`*_]', '', heading.group(1)).strip()

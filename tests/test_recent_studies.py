@@ -185,6 +185,39 @@ class RecentStudyTests(unittest.TestCase):
                 doc.select('#home-etudes-recentes a.portal-card')))
 
 
+    def test_two_h1_headings_use_scientific_title_before_numbered_section(self):
+        """La carte du volume 123 ne doit pas afficher « 1. Délimitation »."""
+        with TemporaryDirectory() as temp:
+            root, output = self.make_fixture(temp)
+            study = self.write_study(
+                root, output, 'comedies', 123,
+                'volume-123-menekrates', 'Ménècrate')
+            title = ('Ménècrate : Hermioneus, Manektōr et les osselets '
+                     '— le rire et la fortune')
+            study.write_text(
+                '# MYTHOS — Comédies grecques — Volume CXXIII (123)\n'
+                '# ' + title + '\n'
+                '## 1. [A] Délimitation du dossier : deux titres et un vers\n\n'
+                + ('Conserver le texte scientifique et les sources. ' * 150),
+                encoding='utf-8')
+            registry = root / 'editorial/numbering.json'
+            data = json.loads(registry.read_text(encoding='utf-8'))
+            data['collections']['comedies'] = {
+                'allocations': {'uuid-menekrates': {
+                    'number': 123, 'path': str(study.relative_to(root))}}}
+            registry.write_text(json.dumps(data), encoding='utf-8')
+            original = study.read_bytes()
+            item = next(x for x in latest_verified(root, output)
+                        if x['collection'] == 'Comédies grecques')
+            self.assertEqual(item['title'], title)
+            self.assertEqual(item['cote'], 'Volume CXXIII (123)')
+            install(root, output)
+            home = BeautifulSoup((output / 'index.html').read_text(
+                encoding='utf-8'), 'html.parser')
+            card = home.select_one('#etude-recente-comedies strong')
+            self.assertEqual(card.get_text(), title)
+            self.assertEqual(study.read_bytes(), original)
+
 
 if __name__ == '__main__':
     unittest.main()

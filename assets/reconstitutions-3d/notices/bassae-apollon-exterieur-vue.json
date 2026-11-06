@@ -1,0 +1,20 @@
+{
+  "id": "R3D-008",
+  "slug": "bassae-apollon-exterieur-vue",
+  "title": "Bassae — temple d’Apollon Épicourios",
+  "period": "Vers 420–400 av. J.-C.",
+  "image": "/assets/reconstitutions-3d/bassae-apollon-exterieur-vue.webp",
+  "caption": "Bassae — temple d’Apollon Épicourios — restitution photoréaliste interprétative. Vers 420–400 av. J.-C.",
+  "commentary": "Le temple d’Apollon Épicourios associe des éléments d’architecture dorique, ionique et corinthienne ; la vue extérieure reste une illustration numérique et non un relevé.",
+  "certainty": {
+    "summary": "Élevé : monument et architecture générale ; moyen : toiture restituée ; faible : peinture et détails sculptés."
+  },
+  "sources": [
+    {
+      "label": "Source documentaire du catalogue MYTHOS",
+      "url": "https://whc.unesco.org/fr/list/392/"
+    }
+  ],
+  "image_sha256": "d61f1ed8e507e64054ca34c183ba8cf9c37ec19abbd3819d1d300061248ff0ec",
+  "rights_and_method": "Image numérique interprétative, non métrique ; les sources documentent le site ou monument, mais ne certifient pas les détails graphiques."
+}

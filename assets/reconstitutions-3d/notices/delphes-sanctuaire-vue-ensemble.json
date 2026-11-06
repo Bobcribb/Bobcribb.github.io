@@ -1,0 +1,20 @@
+{
+  "id": "R3D-001",
+  "slug": "delphes-sanctuaire-vue-ensemble",
+  "title": "Delphes — sanctuaire, vue générale",
+  "period": "Vers 325 av. J.-C.",
+  "image": "/assets/reconstitutions-3d/delphes-sanctuaire-vue-ensemble.webp",
+  "caption": "Delphes — sanctuaire, vue générale — restitution photoréaliste interprétative. Vers 325 av. J.-C.",
+  "commentary": "L’implantation en terrasses, la Voie sacrée et le temple d’Apollon sont documentés, non les façades ni la densité du bâti représenté.",
+  "certainty": {
+    "summary": "Élevé : grandes composantes et relief ; moyen : relations spatiales ; faible : toitures, façades, statuaires, végétation."
+  },
+  "sources": [
+    {
+      "label": "Source documentaire du catalogue MYTHOS",
+      "url": "https://delphi.culture.gr/le-temple-dapollo/"
+    }
+  ],
+  "image_sha256": "f356759adb416e244bc59d04e8c0b9e7d5d4576f8ab96f0bf9c2f9ff22130e2e",
+  "rights_and_method": "Image numérique interprétative, non métrique ; les sources documentent le site ou monument, mais ne certifient pas les détails graphiques."
+}
