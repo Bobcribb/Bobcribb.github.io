@@ -48,7 +48,7 @@ class TheatreArchivesNavigationTests(unittest.TestCase):
             for slug in SLUGS:
                 (root / base / (slug + "-source.md")).write_text(
                     "# MYTHOS — volume XXV\n\n## Aristophane : " + slug +
-                    "\n\nSources et bibliographie.\n" + "Analyse universitaire. " * 500,
+                    "\n\n## Bibliographie et références\nSources et bibliographie.\n" + "Analyse universitaire. " * 500,
                     encoding="utf-8",
                 )
                 for kind, suffix in (("critique", "-etude.html"), ("scenes", "-scenes-modernes.html")):
@@ -81,6 +81,7 @@ class TheatreArchivesNavigationTests(unittest.TestCase):
                 self.assertEqual(len(page.select(".mythos-theatre-archive-figure img")), 1)
                 self.assertIn("met-844483-acteurs-comiques-grecs.webp", page.select_one(".mythos-theatre-archive-figure img")["src"])
                 self.assertEqual(len(page.select(".mythos-theatre-edition-source a[href$='-source.md']")), 9)
+                self.assertEqual(len(page.select(".mythos-theatre-edition-source a[href$='-source.html']")), 9)
                 for slug in SLUGS:
                     for kind, suffix in (("critique", "-etude.html"), ("scenes", "-scenes-modernes.html")):
                         reader = BeautifulSoup(
@@ -98,7 +99,8 @@ class TheatreArchivesNavigationTests(unittest.TestCase):
                             "[data-mythos-theatre-archive-nav] a")]
                         self.assertIn("/theatre/#theatre-source-" + slug, links)
                         self.assertIn("/corpus/theatre-grec/comedies/" + slug + "-source.md", links)
-                        self.assertEqual(len(links), 3)
+                        self.assertIn("/corpus/theatre-grec/comedies/" + slug + "-source.html", links)
+                        self.assertEqual(len(links), 4)
                         self.assertEqual(len(reader.select(
                             'link[href="/assets/mythos-theatre-archive.css"]')), 1)
 
