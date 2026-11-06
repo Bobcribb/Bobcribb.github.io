@@ -2040,6 +2040,12 @@
         "url": "/chapitres/tragedies/volume-cclxxv-acheos-eretrie-katapeira-mise-epreuve-trgf-23a-fragtrag-24-philologie/",
         "title": "Volume CCLXXV (275) — Achéos d’Érétrie, Katápeira (Κατάπειρα) — L’épreuve et ses limites : vérifier, reconnaître, éprouver la parole et mesurer le pouvoir dans le théâtre grec perdu",
         "source": "chapitres/tragedies/volume-cclxxv-acheos-eretrie-katapeira-mise-epreuve-trgf-23a-fragtrag-24-philologie.md"
+      },
+      {
+        "number": 276,
+        "url": "/chapitres/tragedies/volume-cclxxvi-acheos-eretrie-moirai-destin-satyres-fragments-27-28/",
+        "title": "Volume CCLXXVI (276) — Achéos d’Érétrie, Moirai (Μοῖραι) : les Moires, les satyres et la limite du destin",
+        "source": "chapitres/tragedies/volume-cclxxvi-acheos-eretrie-moirai-destin-satyres-fragments-27-28.md"
       }
     ],
     "comparatif": [
@@ -3623,6 +3629,18 @@
         "url": "/chapitres/comparatif/volume-cccxv-mc-107-bornes-sacrees-limites-kudurru-akhetaton-horoi-terminus-israel-inde/",
         "title": "Volume CCCXV (315) — MC-107 — Garder les limites : bornes sacrées, pierres de frontière, droits territoriaux et divinités des seuils, de Babylone à Akhetaton, d’Athènes à Rome, d’Israël à l’Inde",
         "source": "chapitres/comparatif/volume-cccxv-mc-107-bornes-sacrees-limites-kudurru-akhetaton-horoi-terminus-israel-inde.md"
+      },
+      {
+        "number": 316,
+        "url": "/chapitres/comparatif/volume-cccxvi-mc-108-couronnes-divin-desheret-hedjet-lama-zeus-nezer-corona-xwarrah-kiritin-buddha/",
+        "title": "Volume CCCXVI (316) — MC-108 — Les couronnes du divin : souveraineté céleste, consécration, gloire et reconnaissance, de l’Égypte à la Mésopotamie, de la Grèce à Rome, d’Israël à l’Iran et à l’Inde bouddhique",
+        "source": "chapitres/comparatif/volume-cccxvi-mc-108-couronnes-divin-desheret-hedjet-lama-zeus-nezer-corona-xwarrah-kiritin-buddha.md"
+      },
+      {
+        "number": 317,
+        "url": "/chapitres/comparatif/volume-cccxvii-ploutos-hermes-epicleses-pain-pretre-zeus-soter-sacrifice-acropole-388/",
+        "title": "Volume CCCXVII (317) — Le dieu qui demande du pain : Hermès, les épiclèses devenues métiers et le prêtre sans sacrifices dans le Ploutos d’Aristophane (388 avant notre ère)",
+        "source": "chapitres/comparatif/volume-cccxvii-ploutos-hermes-epicleses-pain-pretre-zeus-soter-sacrifice-acropole-388.md"
       }
     ],
     "comedies": [
@@ -4399,6 +4417,12 @@
         "url": "/chapitres/comedies/volume-129-chionides-ptochoi-mendiants-poisson-sale-gnesippos-dioscures-prytanee-authenticite/",
         "title": "Volume CXXIX (129) — Chionidès (Χιωνίδης), Les Mendiants (Ptōchoi, Πτωχοί) : pauvreté, nourriture, musique et hospitalité civique — une comédie d’attribution disputée",
         "source": "chapitres/comedies/volume-129-chionides-ptochoi-mendiants-poisson-sale-gnesippos-dioscures-prytanee-authenticite.md"
+      },
+      {
+        "number": 130,
+        "url": "/chapitres/comedies/volume-130-ekphantides-peirai-inscription-choregie-epreuve-titre-perdu/",
+        "title": "Volume CXXX (130) — Écphantidès (Ἐκφαντίδης), Peirai (Πεῖραι) : l'épreuve du titre, la chorégie et la mémoire des comédies entièrement perdues",
+        "source": "chapitres/comedies/volume-130-ekphantides-peirai-inscription-choregie-epreuve-titre-perdu.md"
       }
     ],
     "origines-du-sacre": [
@@ -6135,6 +6159,24 @@
         "url": "/chapitres/origines-du-sacre/739-ile-ife-yoruba-pavements-verre-igbo-olokun-tetes-wunmonije-sacralite/",
         "title": "Chapitre 739 — Ilé-Ifẹ̀ : pavements, verre, visages de métal et lieux du pouvoir sacré dans le monde yorùbá médiéval",
         "source": "chapitres/origines-du-sacre/739-ile-ife-yoruba-pavements-verre-igbo-olokun-tetes-wunmonije-sacralite.md"
+      },
+      {
+        "number": 740,
+        "url": "/chapitres/origines-du-sacre/740-benin-city-edo-autels-ancetres-oba-tetes-laiton-ivoires-igue/",
+        "title": "Chapitre 740 — Benin City : l'autel des ancêtres royaux, la tête de l'ọba, les ivoires et la souveraineté rituelle edo",
+        "source": "chapitres/origines-du-sacre/740-benin-city-edo-autels-ancetres-oba-tetes-laiton-ivoires-igue.md"
+      },
+      {
+        "number": 741,
+        "url": "/chapitres/origines-du-sacre/741-djenne-djeno-delta-niger-urnes-figurines-sacre-urbanisme/",
+        "title": "Chapitre 741 — Djenné-Djeno : villes de terre, sépultures en jarres, figurines et lieux de mémoire dans le delta intérieur du Niger",
+        "source": "chapitres/origines-du-sacre/741-djenne-djeno-delta-niger-urnes-figurines-sacre-urbanisme.md"
+      },
+      {
+        "number": 742,
+        "url": "/chapitres/origines-du-sacre/742-abomey-palais-royaux-fon-asen-ancetres-vodun-bas-reliefs-restauration/",
+        "title": "Chapitre 742 — Abomey : palais royaux, autels asen, emblèmes dynastiques et fabrication rituelle de la mémoire dans le Danxomè",
+        "source": "chapitres/origines-du-sacre/742-abomey-palais-royaux-fon-asen-ancetres-vodun-bas-reliefs-restauration.md"
       }
     ]
   },
