@@ -98,8 +98,8 @@ def install(root: Path, out: Path) -> int:
     )
     shelf = BeautifulSoup(
         '<section class="mythos-eneide-sources" id="eneide-manuscrits-originaux" '
-        'data-mythos-eneide-sources="shelf" aria-labelledby="eneide-source-heading">'
-        '<h2 id="eneide-source-heading">Manuscrits originaux de l’étude de l’Énéide</h2>'
+        'data-mythos-eneide-sources="shelf" aria-labelledby="sources-eneide-heading">'
+        '<h2 id="sources-eneide-heading">Manuscrits originaux de l’étude de l’Énéide</h2>'
         '<p>Les dix-huit sources Markdown intégrales de cette première livraison '
         'sont proposées sans coupure ni réécriture, y compris le lexique, les '
         'références et la bibliographie. Leur présence n’équivaut pas à '
@@ -125,9 +125,11 @@ def install(root: Path, out: Path) -> int:
         'de cette étude</a></nav>', "html.parser"
     ).nav
     main.select_one(".philo-toc").insert_after(nav)
-    intro = narrative_main.find("h1")
+    # Le titre principal h1 figure dans la bannière muséale, hors du main.
+    # Le récit commence normalement par un paragraphe, puis son premier h2.
+    intro = narrative_main.find(["h1", "h2"])
     if intro is None:
-        raise RuntimeError("MYTHOS : titre du récit d'Énée absent")
+        raise RuntimeError("MYTHOS : sections du récit d'Énée absentes")
     sister = BeautifulSoup(
         '<aside class="mythos-eneide-pair-nav" data-mythos-eneide-sources="narrative" '
         'aria-label="Étude universitaire associée">'
@@ -138,7 +140,10 @@ def install(root: Path, out: Path) -> int:
         '<a href="/philosophie-eneide.html#eneide-manuscrits-originaux">'
         'Consulter les 18 manuscrits originaux</a></aside>', "html.parser"
     ).aside
-    intro.insert_after(sister)
+    if intro.name == "h1":
+        intro.insert_after(sister)
+    else:
+        intro.insert_before(sister)
     _stylesheet(doc)
     _stylesheet(narrative)
 
@@ -152,8 +157,14 @@ def install(root: Path, out: Path) -> int:
         target = out / SOURCE_DIR / name
         target.parent.mkdir(parents=True, exist_ok=True)
         shutil.copyfile(root / SOURCE_DIR / name, target)
-    study_path.write_text(str(doc), encoding="utf-8")
-    narrative_path.write_text(str(narrative), encoding="utf-8")
+    # BeautifulSoup ajoute parfois un saut de ligne au DOCTYPE à chaque
+    # aller-retour. Normaliser uniquement cet espace, sans toucher aux textes.
+    def serialize(page: BeautifulSoup) -> str:
+        return re.sub(r"(?i)^(<!doctype\\s+html>)\\s*(?=<html\\b)",
+                      r"\\1\\n", str(page))
+
+    study_path.write_text(serialize(doc), encoding="utf-8")
+    narrative_path.write_text(serialize(narrative), encoding="utf-8")
     return len(source_texts)
 
 
