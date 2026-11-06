@@ -1982,3 +1982,57 @@ body.mythos-design .mythos-ifugao-study .mythos-text-anchor{scroll-margin-top:13
  body.mythos-design .mythos-ifugao-study .mythos-world-study-crosslinks a{padding:.65rem .35rem;min-height:44px}
 }
 @media(prefers-reduced-motion:reduce){body.mythos-design .mythos-ifugao-study *{scroll-behavior:auto!important}}
+
+/* MYTHOS — en-tête tactile accessible, 6 novembre 2026.
+   Agrandir les surfaces activables sans agrandir les pictogrammes ni la bannière. */
+body.mythos-design .mythos-header-tools{
+  flex:0 0 auto;
+  gap:clamp(6px,1.1vw,14px);
+}
+body.mythos-design .mythos-search-link{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  box-sizing:border-box;
+  width:44px;
+  height:44px;
+  min-width:44px;
+  min-height:44px;
+  flex:0 0 44px;
+  border-radius:4px;
+}
+body.mythos-design .mythos-search-link>svg{
+  display:block;
+  width:23px;
+  height:23px;
+  flex:0 0 23px;
+}
+body.mythos-design .mythos-menu>summary{
+  box-sizing:border-box;
+  display:flex!important;
+  align-items:center;
+  justify-content:center;
+  width:44px;
+  height:44px;
+  min-width:44px;
+  min-height:44px;
+  border-radius:4px;
+}
+body.mythos-design .mythos-menu[open]>summary,
+body.mythos-design .mythos-menu>summary:hover,
+body.mythos-design .mythos-search-link:hover{
+  background:#1d2728!important;
+}
+body.mythos-design .mythos-search-link:focus-visible,
+body.mythos-design .mythos-menu>summary:focus-visible{
+  outline:3px solid #f1ce8b!important;
+  outline-offset:2px!important;
+}
+@media(max-width:420px){
+  body.mythos-design .mythos-masthead{gap:8px!important}
+  body.mythos-design .mythos-header-tools{gap:6px!important}
+  body.mythos-design .mythos-brand{
+    gap:8px!important;
+    font-size:clamp(22px,6vw,26px)!important;
+  }
+}
