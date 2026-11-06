@@ -65,6 +65,31 @@ class EneideSourcesTest(unittest.TestCase):
         self.assertEqual(one, (self.out / STUDY).read_bytes())
         self.assertEqual(second, (self.out / NARRATIVE).read_bytes())
 
+    def test_public_museum_banner_keeps_h1_outside_article(self):
+        """Le récit réel place son h1 dans la bannière et débute par un h2."""
+        path = self.out / NARRATIVE
+        page = BeautifulSoup(path.read_text(encoding="utf-8"), "html.parser")
+        article = page.select_one("main article.content")
+        title = article.find("h1").extract()
+        header = page.new_tag("header")
+        header.append(title)
+        page.body.insert(0, header)
+        heading = page.new_tag("h2")
+        heading.string = "1. Le poème et le pouvoir d'Auguste"
+        article.insert(0, heading)
+        path.write_text(str(page), encoding="utf-8")
+        self.assertEqual(install(self.root, self.out), 18)
+        rendered = BeautifulSoup(path.read_text(encoding="utf-8"), "html.parser")
+        aside = rendered.select_one('main article.content aside[data-mythos-eneide-sources="narrative"]')
+        self.assertIsNotNone(aside)
+        self.assertEqual(aside.find_next_sibling().name, "h2")
+        self.assertEqual(len(rendered.select("header h1")), 1)
+        self.assertEqual(len(rendered.select('aside[data-mythos-eneide-sources="narrative"]')), 1)
+        # Le rendu doit être stable lors des reconstructions horaires.
+        first = path.read_bytes()
+        self.assertEqual(install(self.root, self.out), 18)
+        self.assertEqual(path.read_bytes(), first)
+
     def test_refuse_missing_original_without_writing(self):
         (self.root / SOURCE_DIR / NAMES[5]).unlink()
         before = (self.out / STUDY).read_bytes()
