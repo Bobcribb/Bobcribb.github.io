@@ -58,11 +58,14 @@ def url(member):
 
 
 def display_title(group, member):
-    return (f"Volume {member['roman']} ({member['number']}) — Sophocle, "
-            f"{'La Revendication d’Hélène' if member['role'] == 'primary' else 'La Réclamation d’Hélène'}"
-            f" · {'monographie de référence' if member['role'] == 'primary' else 'étude complémentaire'}"
-            " de Helenēs apaitēsis")
-
+    """Retain each study title while deriving author, work and role from data."""
+    study_title = member.get("study_title") or member["label"].partition(" — ")[2]
+    if not study_title:
+        study_title = group["title"]
+    role = "monographie de référence" if member["role"] == "primary" else "étude complémentaire"
+    relation = group.get("study_relation", "de " + group["transliteration"])
+    return (f"Volume {member['roman']} ({member['number']}) — "
+            f"{group['author']}, {study_title} · {role} {relation}")
 
 def git_blob_sha(content):
     """Git's SHA-1 content object, verifiable without depending on git commands."""
@@ -133,11 +136,13 @@ def roman(number):
 
 
 def fields(key, group, member):
+    primary = next(m for m in group["members"] if m["role"] == "primary")
+    status = ("Étude de référence." if member["role"] == "primary" else
+              f"Étude complémentaire du volume {primary['number']}.")
     return {
         "title": display_title(group, member),
-        "excerpt": (f"Sophocle, {group['transliteration']} ({group['greek_title']}) ; "
-                    f"{group['reference']}. {member['focus']}. "
-                    f"{'Étude de référence.' if member['role'] == 'primary' else 'Étude complémentaire du volume 233.'}"),
+        "excerpt": (f"{group['author']}, {group['transliteration']} ({group['greek_title']}) ; "
+                    f"{group['reference']}. {member['focus']}. {status}"),
         "work_id": key,
         "work_role": member["role"],
         "work_primary_url": group["primary_url"],
@@ -146,7 +151,6 @@ def fields(key, group, member):
         "work_source_reference": group["reference"],
         "ancient_work_count_contribution": int(member["role"] == "primary"),
     }
-
 
 def annotate(root, collections, chapters):
     """Status flows to numbered tables, generic portals and reading metadata."""
@@ -185,23 +189,39 @@ def _apply_json_index(root, path):
 
 
 def _note(key, group, members):
-    links = "".join("<li><a href=\"" + escape(url(m), quote=True) + "\">"
-                    + escape(m["label"] + f" — volume {m['roman']} ({m['number']})")
-                    + "</a> — " + escape(m["focus"]) + "</li>" for m in members)
-    return (
-        f'<aside class="editorial-note" data-tragedy-work="{escape(key)}" '
-        'aria-label="Concordance de cette tragédie perdue">'
-        '<p><strong>Sophocle — ' + escape(group["transliteration"]) + ' (' +
-        escape(group["greek_title"]) + ') : une œuvre antique, deux monographies.</strong></p>'
-        '<p>Les titres « La Revendication d’Hélène » et « La Réclamation d’Hélène » '
-        'traduisent une seule tragédie perdue. Référence : ' + escape(group["reference"]) +
-        '. Le volume 233 constitue la référence éditoriale ; le volume 234 en est '
-        'une étude critique complémentaire. Les deux travaux, leurs numéros et '
-        'leurs références scientifiques restent conservés intégralement.</p>'
-        '<ul>' + links + '</ul><p><a href="' + escape(group["guide_url"], quote=True) +
-        '">Consulter la concordance philologique et les variantes de titre</a></p></aside>'
+    """Generic visible concordance for any author, work, or study count."""
+    primary = next(m for m in members if m["role"] == "primary")
+    count = {2: "deux", 3: "trois"}.get(len(members), str(len(members)))
+    links = "".join(
+        '<li><a href="' + escape(url(m), quote=True) + '">'
+        + escape(m["label"] + f" — volume {m['roman']} ({m['number']})")
+        + "</a> — " + escape(m["focus"]) + "</li>"
+        for m in members
     )
-
+    historical_status = group.get("administrative_notice", "")
+    administrative = (
+        '<p><strong>Rectification administrative.</strong> '
+        + escape(historical_status) + "</p>"
+        if historical_status else ""
+    )
+    return (
+        '<aside class="editorial-note" data-tragedy-work="' + escape(key, quote=True)
+        + '" aria-label="Concordance de cette œuvre dramatique perdue">'
+        + '<p><strong>' + escape(group["author"]) + " — "
+        + escape(group["transliteration"]) + " ("
+        + escape(group["greek_title"]) + ") : une œuvre antique, "
+        + count + " monographies.</strong></p>"
+        + "<p>Référence de l’œuvre : " + escape(group["reference"])
+        + f". Le volume {primary['number']} constitue la référence éditoriale ; "
+        + "les autres volumes sont des études autonomes complémentaires. "
+        + "Aucun numéro, manuscrit, reçu ou texte scientifique n’est supprimé "
+        + "ou fusionné ; les études ne doivent pas être comptées comme des œuvres "
+        + "antiques distinctes.</p>"
+        + administrative
+        + "<ul>" + links + '</ul><p><a href="'
+        + escape(group["guide_url"], quote=True)
+        + '">Consulter la concordance scientifique et les références</a></p></aside>'
+    )
 
 def install(root, out):
     """Enrich only generated HTML/index files, preserving source bytes and routes."""
@@ -233,10 +253,12 @@ def install(root, out):
             page.write_text(str(doc), encoding="utf-8")
         guide = out / group["guide_url"].strip("/") / "index.html"
         guide.parent.mkdir(parents=True, exist_ok=True)
-        guide.write_text(render("Sophocle — " + group["transliteration"] +
-                                " : concordance des volumes 233 et 234",
-                                markdown((root / group["notice_source"]).read_text(encoding="utf-8"))),
-                         encoding="utf-8")
+        volume_list = ", ".join(str(m["number"]) for m in members)
+        guide.write_text(
+            render(f"{group['author']} — {group['transliteration']} : concordance des volumes {volume_list}",
+                   markdown((root / group["notice_source"]).read_text(encoding="utf-8"))),
+            encoding="utf-8")
+
         # Only append to existing portals; preserve the black-and-gold design.
         for portal in ("theatre", "collections-numerotees"):
             page = out / portal / "index.html"
@@ -248,12 +270,16 @@ def install(root, out):
             for old in doc.select("#" + selector):
                 old.decompose()
             section = BeautifulSoup(
-                '<section class="portal-section" id="' + escape(selector) +
-                '"><h2>Une œuvre de Sophocle — deux monographies (233 et 234)</h2>'
-                '<p><em>Helenēs apaitēsis</em> (Ἑλένης ἀπαίτησις), F 176–180a Radt : '
-                'une seule tragédie perdue. Deux études intégrales conservées, '
-                'dont une monographie principale et un complément critique.</p>'
-                + note + '</section>', "html.parser")
+                '<section class="portal-section" id="' + escape(selector, quote=True)
+                + '"><h2>Une œuvre antique — ' + escape(group["author"]) + " : "
+                + escape(group["title"]) + '</h2><p><em>'
+                + escape(group["transliteration"]) + "</em> ("
+                + escape(group["greek_title"]) + "), "
+                + escape(group["reference"]) + ". Une seule œuvre antique identifiée, "
+                + str(len(members)) + " monographies intégrales conservées, "
+                + "dont une étude de référence et des compléments.</p>"
+                + note + "</section>", "html.parser")
+
             article.insert(1, section)
             page.write_text(str(doc), encoding="utf-8")
     # The reading catalogue is created later by improve_reading.enhance().
@@ -308,6 +334,9 @@ def verify(root, out):
                 assert entries[address]["work_role"] == member["role"], address
                 assert entries[address]["title"] == display_title(group, member), address
                 assert entries[address]["work_primary_url"] == group["primary_url"], address
+                assert entries[address]["work_source_reference"] == group["reference"], address
+                assert entries[address]["work_aliases"] == group["aliases"], address
+                assert entries[address]["ancient_work_count_contribution"] == int(member["role"] == "primary"), address
                 assert entries[address]["work_guide_url"] == group["guide_url"], address
             assert numbers[address]["number"] == member["number"], address
             page = BeautifulSoup((out / address.strip("/") / "index.html").read_text(encoding="utf-8"), "html.parser")
