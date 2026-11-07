@@ -1,0 +1,324 @@
+# MYTHOS — Les Origines du sacré — Chapitre 803
+
+# Shaka Point, Mida Creek : mosquée, tombes, habitats du XVe siècle et archéologie du sacré sur une rive de mangrove
+
+*Monographie universitaire originale — archéologie du littoral swahili, histoire des pratiques islamiques, géomorphologie, critique des sources, anthropologie et philosophie comparée.*
+
+**Aire d'étude.** Shaka Point, partie occidentale ou sud-occidentale de Mida Creek, comté de Kilifi, Kenya. **Période étudiée.** Principalement le XVe siècle, avec réévaluation d'une proposition de datation au XVIe siècle et examen de l'évolution postérieure des vestiges. **Distinction éditoriale.** Ce dossier porte sur Shaka, non sur Kilepwa et ses gravures de navires, ni sur Chafisi et son éventuelle fonction d'avant-port de Gedi.
+
+**Échelle de certitude.** Les objets MC19-31, les sites d'habitat MC19-63, l'existence signalée d'une mosquée et de tombes, et la mise en évidence d'une occupation du XVe siècle reposent principalement sur Bita et Forsythe (2023), qui renvoient aux premières observations de Kirkman (1952) et à une vérification de terrain menée par Edward Pollard et Caesar Bita. Les objets, les traditions religieuses et les interprétations évoqués pour les villes voisines ne sont pas indûment attribués à Shaka.
+
+## Résumé scientifique
+
+Shaka Point permet de sortir d'une histoire des cités swahilies fondée exclusivement sur les grandes villes murées. La prospection de Mida Creek menée dans le cadre du projet MUCH to Discover in Mida Creek a reconnu, dans le secteur de Shaka, des céramiques et coquillages s'érodant depuis l'arrière-plage (MC19-31), ainsi que des sites de maisons sur une hauteur près de passages étroits dans la mangrove (MC19-63). Les auteurs rappellent que Kirkman associait au site une mosquée et des tombes et proposait une datation au XVIe siècle. Les investigations plus récentes de Pollard et Bita sur une coupe en érosion ont toutefois mis en évidence un horizon d'occupation au XVe siècle, contemporain de la grande activité de Kilepwa et Gedi. Ces données ne démontrent ni l'année de fondation de la mosquée, ni l'origine des occupants, ni le statut exact des personnes inhumées. Elles invitent plutôt à étudier une communauté à l'articulation des routes terrestres, du rivage et de la prière, et à comprendre pourquoi l'érosion menace à la fois les vestiges et la possibilité de les interpréter. L'importance du dossier est méthodologique : le sacré se documente par des relations contextualisées entre architecture, objets et pratiques, non par l'attribution automatique de sens religieux à tout dépôt de coquillages.
+
+## I. Une petite implantation dans un grand paysage
+
+L'historiographie de l'océan Indien s'est longtemps attachée aux villes de corail, aux palais et aux mosquées imposantes. Un tel regard laisse dans l'ombre les sites qui occupent de petites anses, des îles basses ou les bordures de mangroves. Shaka Point est précisément l'un de ces établissements dont la documentation est moins développée que celle de Gedi et de Kilepwa. Son intérêt ne réside donc pas dans la grandeur des ruines, mais dans la possibilité de comprendre un paysage de peuplement différencié.
+
+Le site appartient à un réseau de chemins, de chenaux, d'activités alimentaires et de lieux bâtis. La mosquée et les tombes signalées par Kirkman lui confèrent une pertinence particulière pour l'histoire religieuse. Mais la présence de ces monuments ne suffit pas à définir une cité indépendante, ni à attribuer un statut politique précis à ses occupants. Une enquête prudente sépare d'emblée implantation, institution cultuelle et souveraineté.
+
+## II. La place de Shaka dans Mida Creek
+
+Mida Creek est un estuaire à marée au sud de la ville historique de Gedi. Selon Bita et Forsythe (2023, section 2), il couvre environ 32 km² et possède de larges zones intertidales qui s'assèchent en grande partie à marée basse. Aucun grand cours d'eau n'y déverse continuellement ses eaux. L'apport de sédiments, le jeu des marées et la croissance des mangroves structurent les possibilités de navigation.
+
+Shaka se situe près d'une rive où des passages étroits traversent les zones de mangrove vers le chenal principal. Il faut distinguer la géographie générale de Mida de l'état exact des passages au XVe siècle : les sondages ne constituent pas une restitution paléoenvironnementale complète. La ville pouvait tirer avantage des accès à l'eau tout en étant confrontée aux difficultés de chargement, aux hauts-fonds et à des voies navigables irrégulières.
+
+## III. Une enquête de paysage plutôt qu'une fouille monumentale
+
+Le programme MUCH to Discover in Mida Creek a associé les National Museums of Kenya, Ulster University et le British Institute in Eastern Africa. La prospection conduite principalement en août et septembre 2019 a combiné marches de reconnaissance, descriptions mesurées, photographies, positions GPS, cartes et information fournie par les habitants. Les chercheurs ont parcouru environ trente kilomètres de rivage, tout en reconnaissant qu'une partie des mangroves demeure difficile d'accès.
+
+Le dispositif méthodologique est décisif. Une reconnaissance de surface n'est pas une fouille exhaustive ; les objets visibles dépendent de l'érosion, de la végétation et des travaux récents. La carte des découvertes ne correspond pas automatiquement à la carte complète de l'habitat médiéval. Dans une étude du sacré, cette limite interdit d'affirmer l'absence de pratiques seulement parce qu'aucun monument n'est apparu sur un tronçon peu prospectable.
+
+## IV. Les céramiques et coquillages de MC19-31
+
+Bita et Forsythe (2023, section 4) signalent près de Shaka Point des céramiques et coquillages s'érodant à partir de l'arrière-plage, dans la zone identifiée MC19-31. Cette désignation est un numéro de locus de prospection moderne, non un numéro de tombe ni un identifiant ancien. Le dépôt renseigne une présence humaine et une activité matérielle, mais son interprétation dépend de la disposition des objets et de la conservation des couches.
+
+Un coquillage peut représenter un reste de repas, un matériau utilisé dans le travail du corail, un élément déplacé par les marées ou, dans certains contextes attestés ailleurs, un objet de dépôt symbolique. Rien dans la mention succincte de MC19-31 ne suffit à choisir cette dernière possibilité. La présence d'une mosquée à proximité ne transforme pas un assemblage de rebuts en offrande. Cette retenue est constitutive d'une bonne archéologie religieuse.
+
+## V. MC19-63 : habitats sur une hauteur
+
+Le même article identifie des sites de maisons déjà reconnus, enregistrés sous la référence MC19-63, sur un promontoire ou une hauteur dominant un chenal à travers la mangrove. Cette position donne une relation topographique spécifique entre habitat et circulation locale. Les auteurs estiment que les passages étroits n'étaient probablement accessibles qu'aux plus petites embarcations, mais cette proposition tient compte de la topographie observée et non d'un relevé nautique du XVe siècle.
+
+La maison surplombant le passage ne devient pas nécessairement un poste de douane, une résidence de chef ou une école religieuse. Ces fonctions seraient possibles dans une société urbaine, mais aucune ne résulte automatiquement de la hauteur du sol. Il faut d'abord déterminer la dimension des structures, leur chronologie, les activités qui s'y déroulaient et la distribution des objets.
+
+## VI. La mosquée de Shaka : attestation et lacunes
+
+Bita et Forsythe rappellent que Kirkman (1952) reconnaissait à Shaka un établissement comprenant une mosquée et des tombes. Cette présence est une donnée historiographique fondée sur des observations archéologiques plus anciennes, mais l'article de 2023 ne fournit pas un nouveau plan détaillé de la salle ni une séquence de construction de ses murs. Il serait donc abusif d'inventer les dimensions, le nombre de piliers, les inscriptions ou la décoration de son mihrab.
+
+La désignation de mosquée suggère un lieu de prière islamique identifiable par son plan et son orientation dans la documentation ancienne. Il reste nécessaire de confronter l'attribution de Kirkman à ses relevés originaux, puis de mesurer l'état actuel des fondations. La différence entre « mosquée attestée dans la littérature » et « mosquée entièrement relevée aujourd'hui » doit demeurer explicite.
+
+## VII. Les tombes : localisation d'une mémoire, identités inconnues
+
+Les tombes associées au site indiquent une dimension funéraire de l'établissement. Leur seule mention ne suffit cependant pas à dénombrer les défunts, préciser leur âge ou identifier une famille régnante. Il faut éviter de transférer à Shaka les descriptions des tombeaux à pilier de Kilepwa ou des monuments de Gedi. Le même estuaire contient des traditions architecturales liées, mais chaque monument requiert un dossier individuel.
+
+L'histoire des morts intéresse l'histoire du sacré à plusieurs titres. Elle renseigne le choix des lieux d'inhumation et leur rapport à la vie collective. Elle permet également de questionner la persistance du souvenir après l'abandon des maisons. Mais l'identité d'un défunt et les pratiques exactes accomplies auprès de sa sépulture ne se déduisent pas d'une formule générale sur les villes swahilies.
+
+## VIII. Kirkman et la datation au XVIe siècle
+
+Le texte de 2023 précise que Kirkman supposait une datation du XVIe siècle pour Shaka. Il faut lire ce repère comme une hypothèse publiée à un stade précoce des enquêtes, plutôt que comme la transcription d'une date gravée sur place. Les recherches du milieu du XXe siècle dépendaient souvent de typologies de céramiques importées et de comparaisons architecturales, sans disposer des méthodes de prospection systématique d'aujourd'hui.
+
+Une datation tardive pouvait correspondre à une phase visible de la mosquée et non nécessairement à l'ensemble de l'occupation. On ne doit pas non plus conclure que toute l'hypothèse de Kirkman est fausse parce qu'un niveau antérieur a été reconnu. Il est possible qu'une communauté ait commencé à habiter le site avant l'édification ou la dernière reconstruction d'un bâtiment monumental.
+
+## IX. L'indice du XVe siècle : Pollard et Bita
+
+Les travaux plus récents d'Edward Pollard et Caesar Bita ont consisté notamment à tester une coupe en érosion sur la hauteur. Selon Bita et Forsythe (2023), cette investigation a livré une preuve d'occupation du XVe siècle. La formule est importante : elle situe une activité sur le site plus tôt que la datation générale supposée par Kirkman, mais ne donne pas pour autant un terminus absolu pour chaque tombe ou la construction de la mosquée.
+
+Le XVe siècle est un moment de forte activité régionale à Gedi et Kilepwa. La concordance ouvre la possibilité de relations contemporaines, sans établir une dépendance. Il faut distinguer synchronisme chronologique et lien institutionnel. Des établissements peuvent partager une période d'essor tout en exerçant des fonctions locales différentes.
+
+## X. Datation d'un niveau et datation d'un bâtiment
+
+Une céramique trouvée dans une coupe peut contribuer à dater le dépôt où elle se situe ; la date du vase n'est pas nécessairement celle du mur le plus proche. Les niveaux de remblai, les surfaces d'habitat et les fosses peuvent réemployer des objets plus anciens. Ce point est particulièrement important sur une rive où l'érosion expose et mélange des éléments. Sans description complète de l'unité fouillée, il serait abusif de transformer le « XVe siècle » en année exacte de fondation.
+
+La nouvelle datation rend cependant improbable le récit d'un site apparu entièrement pour la première fois au XVIe siècle si l'horizon antérieur est correctement contextualisé. L'enquête doit confronter l'échantillon daté, la nature de son dépôt et les phases architecturales dans leur ordre de formation. C'est ainsi que l'on passe d'une information chronologique à une histoire des constructions.
+
+## XI. Le rivage qui détruit les archives
+
+Une coupe en érosion offre une fenêtre sur des couches auparavant invisibles, mais l'événement qui les met à nu peut aussi les détruire. Les vagues et les pluies déplacent objets et fragments de sols ; les interventions humaines peuvent accélérer la perte des contextes. L'archéologue doit donc relever les profils, la position des pièces et les limites entre dépôts avant que la coupe ne s'effondre.
+
+Ce problème a une portée historiographique. Le patrimoine religieux n'est pas seulement ce qui reste de la mosquée ; ce sont également les relations entre les murs et les niveaux de fréquentation. Lorsque ces relations disparaissent, un fragment peut demeurer intact alors que sa signification historique devient irrécupérable. La sauvegarde scientifique concerne donc les strates autant que les monuments.
+
+## XII. La végétation de mangrove et le biais de prospection
+
+Les mangroves rendent l'accès difficile et masquent certaines structures. Elles préservent néanmoins des milieux de pêche, de collecte et de transport importants pour les communautés historiques. Leur présence actuelle ne garantit pas qu'elles occupaient exactement le même espace aux XVe–XVIe siècles. Les sédiments et chenaux peuvent varier, modifiant l'emplacement de certains débarcadères.
+
+Une prospection qui suit principalement les arrières-plages détectera davantage d'objets sur les pentes exposées que dans les zones sous végétation dense. Ce biais doit figurer dans toute carte de densité des sites. L'absence de tombes à un endroit non visité ne constitue pas une preuve de choix funéraire ; elle peut simplement refléter une lacune d'observation.
+
+## XIII. Les chemins d'eau : petites embarcations et transbordement
+
+Bita et Forsythe distinguent les chenaux profonds du bassin et les passages étroits desservant les établissements périphériques. À Shaka, les voies mentionnées ne sont accessibles, dans les conditions observées, qu'aux embarcations de petite taille. Cela suggère des activités liées à la circulation locale et éventuellement au transbordement, sans permettre de reconnaître un port de haute mer.
+
+Un petit bateau peut transporter des personnes, des poissons, des matériaux ou des messages. Les différentes fonctions se cumulent sans que l'archéologue puisse déterminer la cargaison de chaque voyage. L'histoire du sacré gagne à replacer la mosquée dans cette économie du déplacement, mais elle ne doit pas transformer chaque traversée en pèlerinage.
+
+## XIV. Mida Creek comme réseau de ressources
+
+L'estuaire offre poissons, coquillages, bois de mangrove et voies de circulation. Les travaux de Bita et Forsythe soulignent que l'économie de ces ressources fut importante pour les habitants des sites du littoral et de l'arrière-pays. La vie de Shaka pouvait être liée à cette diversité sans dépendre uniquement des échanges lointains.
+
+Une lecture exclusivement commerciale des villes swahilies serait aussi réductrice qu'une histoire seulement monumentale. L'économie domestique et l'organisation des pratiques religieuses entretiennent des relations : une mosquée a besoin de bâtisseurs, d'entretien et de ressources, tandis que les familles ont besoin de nourriture et d'habitat. Il n'est pas nécessaire de supposer un contrôle religieux direct sur chaque activité.
+
+## XV. La pêche comme archive matérielle, non preuve de rite
+
+Les restes de poissons et coquillages peuvent documenter les milieux exploités, les techniques de capture et les choix alimentaires. L'étude de l'environnement de Mida permet de proposer que les eaux peu profondes fournissaient des ressources utiles aux établissements. Néanmoins, aucune quantification détaillée d'espèces attribuée spécifiquement à MC19-31 n'est inventée ici.
+
+Les prescriptions alimentaires islamiques ne se lisent pas automatiquement dans un fragment d'arête. Une interdiction ou une pratique de repas collectif exigerait des séries suffisamment importantes et des contextes contrôlés. Le fait que des habitants musulmans aient pu consommer des ressources marines ne révèle pas la dimension spirituelle de chacun de leurs repas.
+
+## XVI. Les mangroves et l'architecture
+
+Le bois de mangrove a servi sur la côte swahilie à la construction des toitures et à différentes activités artisanales. Les recherches régionales discutent aussi des exportations de bois vers des régions de l'océan Indien moins abondamment pourvues en matériaux de construction. Shaka se trouvait près de milieux susceptibles de fournir cette ressource, mais aucune comptabilité de chantier ne permet de déterminer le nombre de pièces utilisées pour sa mosquée.
+
+Il serait erroné de dire que le bois issu de la mangrove serait « sacré » du seul fait qu'il pouvait soutenir une toiture religieuse. Sa valeur cultuelle, lorsqu'elle existe, tient à son intégration dans l'infrastructure et les pratiques de la communauté. Les matériaux possèdent une histoire écologique avant de recevoir une destination architecturale.
+
+## XVII. Le rapport à Gedi : contemporanéité sans administration prouvée
+
+Gedi était une ville prospère située à plusieurs kilomètres de la mer ouverte et à une distance moindre de Mida Creek. L'histoire de ses accès maritimes demeure discutée, car une partie des échanges devait emprunter des itinéraires terrestres et côtiers. La présence d'un horizon du XVe siècle à Shaka rend ce site contemporain d'une période majeure de Gedi.
+
+La contemporanéité ne suffit pas à en faire un port de Gedi. La position de Shaka, desservie par des passages étroits et difficiles pour de grands navires, demande de réfléchir à des fonctions locales et à la diversité des réseaux. Bita et Forsythe mettent en garde contre une définition trop strictement nautique du paysage. Certains établissements pouvaient exploiter les ressources sans être de grands centres de transbordement.
+
+## XVIII. Kilepwa : un voisin connu et néanmoins distinct
+
+Kilepwa est un autre établissement de Mida Creek, situé sur une île et mieux documenté par les fouilles et les gravures de navires. Sa chronologie recoupe celle de Shaka. Il existe donc de bonnes raisons de comparer les objets et formes architecturales des deux sites. Mais les gravures de navires publiées par Pollard et Bita (2017) proviennent de Kilepwa, non de Shaka.
+
+Ce rappel prévient une erreur fréquente des synthèses : attribuer à toute la région une découverte effectuée dans une maison identifiée ailleurs. Une histoire scientifique de la navigation peut employer les gravures comme preuve régionale de savoirs nautiques, sans prétendre qu'elles décorent la mosquée de Shaka.
+
+## XIX. Chafisi : un autre régime d'accessibilité
+
+Chafisi se trouve sur un secteur oriental plus proche de Gedi et a fait l'objet d'un inventaire de maisons, d'une mosquée ruinée et d'objets de surface. Bita et Forsythe envisagent qu'il ait pu servir d'avant-port pour Gedi. Shaka présente une autre situation : des passages étroits dans la mangrove, accessibles plutôt aux petites embarcations.
+
+La comparaison n'implique pas une hiérarchie absolue. Une zone peu favorable aux grands navires peut être très utile pour la collecte de coquillages, la pêche ou le ravitaillement local. Les fonctions d'un site sont multiples et changent dans le temps. Ce chapitre ne reproduit pas les tableaux céramiques de Chafisi qui appartiennent à un autre dossier.
+
+## XX. Les habitants ordinaires derrière les ruines
+
+Les maisons sur promontoire sont des signes d'activité domestique, mais les termes « maison », « quartier » et « ville » n'ont pas une échelle identique. Une structure conservée peut correspondre à un ménage ou à une partie d'un ensemble plus large. Les habitats de terre et de bois laissent souvent moins de traces visibles que les édifices de corail.
+
+L'histoire du sacré doit tenir compte de ce biais de conservation. Le monument religieux est visible parce qu'il fut construit durablement, non nécessairement parce qu'il résumait toute la vie collective. Les gestes de soins, d'enseignement et de mémoire dans des maisons peuvent demeurer invisibles. Il faut reconnaître cette possibilité sans les reconstituer fictivement.
+
+## XXI. Philologie : le nom Shaka et ses limites
+
+Les documents archéologiques modernes emploient le toponyme Shaka Point. Une étymologie rattachant ce nom à un personnage, une langue ou un épisode du XVIe siècle demanderait des attestations et des comparaisons linguistiques. Rien dans les données centrales de 2023 ne permet de produire avec assurance une origine religieuse du nom.
+
+Il serait donc erroné de faire du toponyme un indice de présence d'un saint ou d'un chef historique dont aucune inscription n'est conservée. Les noms contemporains servent à localiser les fouilles ; ils ne restituent pas automatiquement le vocabulaire employé par les habitants il y a cinq siècles.
+
+## XXII. Les termes arabes et swahilis de la mosquée
+
+Le swahili *msikiti* renvoie à l'arabe *masjid*, associé à la racine s-j-d et à l'idée de prosternation. L'histoire de ce mot illustre une circulation religieuse et linguistique. Elle ne démontre pas que les habitants de Shaka parlaient tous arabe, ni qu'un migrant étranger fonda nécessairement la mosquée.
+
+La philologie doit distinguer la langue du Coran, les langues utilisées dans les échanges, les noms de lieux et les usages domestiques. Les emprunts lexicaux participent à des histoires de contact qui ne peuvent pas être réduites à une origine ethnique unique.
+
+## XXIII. La qibla et les textes normatifs
+
+Le Coran 2:144 concerne l'orientation vers la Mosquée sacrée. Dans l'étude d'une mosquée swahilie, ce passage permet d'expliquer la signification religieuse de la direction de prière. Mais sans relevé complet du mur de Shaka, on ne peut attribuer à ses bâtisseurs une mesure précise de l'azimut ou une technique de calcul particulière.
+
+L'orientation de l'édifice peut être comparée à d'autres mosquées régionales sous réserve de disposer de plans datés. Elle ne permet pas à elle seule de reconstituer les gestes des fidèles, la composition des sermons ou la hiérarchie des personnes présentes.
+
+## XXIV. L'ablution et le problème de l'eau
+
+Le Coran 5:6 définit une partie des exigences de purification dans la pratique musulmane. La présence d'une mosquée à Shaka invite donc à rechercher des bassins, puits et accès à l'eau douce. L'inventaire de 2023 ne fournit cependant pas de description détaillée d'un bassin d'ablution propre à Shaka. Aucun équipement ne sera inventé pour illustrer le texte.
+
+Le rapport entre eau de mer et eau de consommation doit aussi être examiné selon les conditions locales. Une communauté littorale peut utiliser plusieurs ressources en eau selon les besoins. La question religieuse gagne à devenir une question de terrain : quels ouvrages existaient, où se situaient-ils et quelles traces ont-ils laissées ?
+
+## XXV. Mosquée et assemblée du vendredi
+
+Le Coran 62:9 évoque le rassemblement du vendredi. Une mosquée de congrégation fournit un lieu susceptible d'accueillir une communauté plus large qu'un ménage. Pour Shaka, toutefois, aucun registre de fréquentation ni aucun texte de sermon n'est connu dans les sources examinées. Le caractère congregational exact de l'édifice doit donc rester une qualification à établir par ses dimensions et son plan.
+
+Une lecture sociologique peut examiner comment les réunions religieuses favorisent la circulation d'informations et le maintien des relations de voisinage. Elle ne doit pas effacer les conflits de pouvoir ou les différences d'accès qui ont pu exister.
+
+## XXVI. Les tombes et le droit à la mémoire
+
+Les monuments funéraires ne sont pas seulement des repères d'inhumation ; ils peuvent contribuer à la mémoire des familles et à la distribution des espaces de la ville. Mais la seule mention de tombes à Shaka ne suffit pas à déterminer leur typologie exacte. Il serait abusif de les qualifier toutes de tombes à pilier ou de leur attribuer des inscriptions arabes inventées.
+
+La comparaison avec les tombeaux de Kilepwa, Gedi ou Songo Mnara demeure utile à titre méthodologique. Elle aide à définir des questions sur la visibilité, le prestige et les relations entre vivants et morts. Elle ne fournit pas les biographies manquantes des défunts de Shaka.
+
+## XXVII. Le religieux comme pratique située
+
+Un lieu de prière n'est pas seulement le produit matériel d'une croyance. Il est entretenu par des personnes qui se déplacent, nettoient les sols et organisent des moments communs. Les approches de l'« assemblage » soulignent les relations entre matériaux, corps, normes et topographie. Pour Shaka, ce cadre reste une proposition interprétative soumise à la faiblesse du dossier architectural conservé.
+
+Le langage théorique ne doit pas donner l'illusion de posséder les détails absents. On peut dire que la mosquée était insérée dans une économie de rivage et d'habitat ; on ne peut énumérer les fonctions de ses différentes salles ou le programme d'un imam inconnu.
+
+## XXVIII. Un espace traversé par les variations de marée
+
+Les marées ont un rôle direct sur les déplacements dans Mida Creek. Elles rendent certaines zones navigables à certains moments et découvrent de grandes surfaces à d'autres. Pour une ville proche de chemins de mangrove, les horaires d'accès ont pu structurer le travail et les rencontres. Ils ne fournissent pourtant pas un calendrier liturgique connu.
+
+La distinction entre temporalités écologiques et religieuses est importante. Une prière musulmane suit des repères normatifs indépendants de l'ouverture d'un passage nautique, même si les contraintes de transport peuvent influer sur la présence effective des personnes. Une monographie doit étudier les deux rythmes sans les confondre.
+
+## XXIX. L'archéologie environnementale encore nécessaire
+
+Bita et Forsythe soulignent le manque de documentation complète sur l'histoire sédimentaire de Mida. Les formes des chenaux peuvent changer, et la position actuelle d'un site ne suffit pas à expliquer les décisions médiévales. Pour Shaka, une cartographie géomorphologique des berges et des dépôts de marée aiderait à reconstruire l'accessibilité des passages au XVe siècle.
+
+Une telle enquête pourrait préciser si les petits chenaux étaient plus profonds, si la mangrove était moins dense et comment les voies vers les autres établissements étaient organisées. Sans ces résultats, les reconstitutions de débarcadères doivent être présentées comme des hypothèses.
+
+## XXX. Les structures à faible visibilité
+
+Les travaux de prospection s'intéressent désormais aux amas de coquillages, aux épandages céramiques, aux tertres de maisons et aux installations de rivage. Ce changement de méthode corrige l'ancienne focalisation sur les grands édifices de pierre. Il élargit le champ de l'histoire du sacré en révélant la vie sociale qui entourait les monuments.
+
+Mais élargir le regard ne signifie pas baptiser les dépotoirs « sanctuaires ». La fonction religieuse d'un espace exige des indices particuliers. Une archéologie de la totalité sociale doit commencer par la classification rigoureuse des usages connus.
+
+## XXXI. La problématique des objets importés
+
+Les céramiques étrangères trouvées ailleurs dans Mida Creek attestent des relations avec le monde de l'océan Indien. Leur présence peut soutenir la chronologie comparative de Shaka, mais il serait erroné de lui attribuer les celadons et fragments monochromes précisément inventoriés à Chafisi en 2019. Les corpus matériels doivent rester séparés.
+
+Les échanges ne produisent pas nécessairement les mêmes pratiques religieuses partout. Un objet fabriqué en Chine, en Inde ou dans le golfe Persique peut être utilisé par une famille africaine musulmane sans que son origine déterminât la croyance de son propriétaire.
+
+## XXXII. Les circulations africaines et la critique de l'origine exogène
+
+La société swahilie s'est constituée dans des interactions locales et transocéaniques. Les travaux de Wynne-Jones et d'autres chercheurs montrent la continuité des communautés africaines et l'importance de leurs initiatives dans l'urbanisation côtière. Une mosquée en pierre ne prouve donc pas que tous les constructeurs étaient des migrants arabes ou persans.
+
+L'archéologie des maisons et ressources marines permet de sortir d'un modèle où l'Afrique n'existerait que comme lieu d'accueil passif de commerçants extérieurs. Les populations locales participaient à la création de réseaux, à la mise au point de techniques et à l'organisation des lieux religieux.
+
+## XXXIII. Les maisons comme lieux d'hospitalité
+
+Les recherches régionales, notamment Fleisher et collaborateurs (2015), associent l'essor de la maison en pierre à des pratiques de réception et à des échanges. Toutefois, aucune pièce de Shaka ne peut être désignée avec certitude comme salle d'hospitalité à partir de la mention générale de MC19-63. Une telle désignation nécessiterait un plan complet, des objets pertinents et une comparaison critique.
+
+Les maisons peuvent être à la fois des espaces privés et des lieux de rencontre. Cette dimension sociale compte pour l'histoire religieuse car les enseignements, les relations d'entraide et certaines pratiques de mémoire peuvent dépasser les murs des mosquées. Les traces disponibles ne permettent pas ici d'en dresser une liste factuelle.
+
+## XXXIV. Comparaison avec l'Égypte et la Mésopotamie : un problème d'archives
+
+Les sanctuaires de l'Égypte et de la Mésopotamie ont parfois laissé des textes de fondation, de personnel et de gestion. À Shaka, les sources sont surtout architecturales et archéologiques, et beaucoup plus lacunaires. Il serait infondé de transférer les structures des temples du Nil ou de l'Euphrate à la mosquée d'un petit établissement swahili.
+
+La comparaison peut néanmoins éclairer une question générale : comment les dépenses d'entretien, l'approvisionnement et la mémoire institutionnelle deviennent-ils visibles ? Dans les grands sanctuaires, la comptabilité constitue une archive ; dans les petites villes côtières, les fondations et matériaux peuvent être les principaux témoins. La dissymétrie des preuves doit être conservée.
+
+## XXXV. Monde iranien et Inde : réseaux sans généalogie automatique
+
+Les côtes de l'océan Indien ont été reliées à des régions de l'Arabie, de l'Iran et de l'Inde. Les biens et techniques circulent, parfois avec des personnes et des savoirs religieux. Mais une possibilité de contact ne prouve pas que chaque établissement possédait une dynastie shirazie, un maître indien ou une tradition doctrinale importée.
+
+La philologie des chroniques, l'analyse des objets et la stratigraphie sont nécessaires pour établir des rapports historiques précis. Une histoire comparée du sacré ne peut transformer le mot « islamique » en preuve de migration unique ou de souveraineté étrangère.
+
+## XXXVI. La Chine et le transfert des objets
+
+Les céramiques chinoises de plusieurs villes swahilies illustrent la portée des échanges. Elles ont parfois été exposées dans des maisons et tombeaux, où leur valeur pouvait être transformée par le contexte local. Mais le dossier propre à Shaka est trop limité pour identifier de telles pièces par origine et quantification sans faire appel à des observations non publiées.
+
+Le comparatisme souligne donc une règle : la provenance d'un objet n'est pas l'origine de son usage symbolique. Une coupe peut circuler entre plusieurs communautés de croyances différentes ; son rôle final se comprend dans le lieu où elle est employée ou déposée.
+
+## XXXVII. L'archéologie des Amériques : comparaison de méthode seulement
+
+Dans les sociétés anciennes des Amériques, des établissements proches de rivages ou de cours d'eau présentent également des relations complexes entre habitats, espaces cérémoniels et circulations. Une comparaison des techniques d'inventaire peut aider à réfléchir à la détection de dépôts, à la conservation des niveaux en érosion et à la distinction entre activité domestique et cérémonie.
+
+Aucune filiation religieuse ou navigation transocéanique entre Shaka et les Amériques n'est attestée. Les parallèles sont donc méthodologiques, non historiques. Leur utilité consiste à éprouver les critères d'interprétation, pas à inventer un sacré universel de l'eau.
+
+## XXXVIII. Vernant et Detienne : comparer les lieux du collectif
+
+Jean-Pierre Vernant et Marcel Detienne ont étudié les relations entre les pratiques religieuses et les institutions de la cité grecque. Leur démarche incite à considérer les formes d'accès, les repas et les places dans leur contexte social. Toutefois, la mosquée de Shaka n'est pas un autel sacrificiel grec et la prière musulmane ne correspond pas à la *thysia*.
+
+La comparaison n'est féconde que lorsqu'elle porte sur une question clairement délimitée : comment des pratiques collectives contribuent-elles à instituer un lieu partagé ? Elle ne peut établir une parenté de rites sans preuves de transmission, de vocabulaire ou de structure religieuse.
+
+## XXXIX. Durkheim : rassemblement et mémoire
+
+La réflexion de Durkheim dans *Les Formes élémentaires de la vie religieuse* (1912) permet de poser la question du rôle social des lieux de prière. Une mosquée peut participer à la production d'une communauté de fréquentation ; une tombe peut inscrire un souvenir dans le paysage. Les vestiges ne prouvent cependant pas l'effervescence collective de moments précis ni l'existence d'une société sans divisions.
+
+La théorie sert à questionner le rapport entre monuments et solidarités, non à déduire les pensées d'habitants dont aucun journal personnel n'a été retrouvé. Le caractère partiel du dossier de Shaka impose une retenue accrue.
+
+## XL. Eliade : le refus d'une mangrove nécessairement sacrée
+
+Les théories de Mircea Eliade sur l'espace sacré peuvent rendre séduisante l'image d'un chenal séparant le profane du consacré. Mais aucun indice ne permet de déclarer le bras d'eau de Shaka « hiérophanie » ou l'île voisine centre cosmique. La mangrove est d'abord un milieu de ressources, de contraintes et de déplacement, susceptible de recevoir des valeurs historiques diverses.
+
+L'orientation religieuse de la mosquée et la topographie côtière appartiennent à des systèmes de repères différents. Les comparer exige de préciser qui les utilisait, à quel moment et pour quelle activité. Sans cela, le concept devient une image littéraire plutôt qu'une explication.
+
+## XLI. Dumézil et la limite des structures importées
+
+Georges Dumézil a développé un comparatisme spécifique de traditions indo-européennes. Aucun vestige de Shaka ne justifie d'y projeter une idéologie trifonctionnelle, ni de classer automatiquement ses habitants entre prêtres, guerriers et producteurs selon une grille universelle. L'existence d'une mosquée et de maisons ne constitue pas une preuve de cette structure.
+
+La discipline comparative implique de savoir reconnaître un modèle inapplicable. Cette reconnaissance n'est pas un échec ; elle évite de transformer chaque société en illustration d'une théorie pensée pour d'autres corpus.
+
+## XLII. Hegel et Nietzsche : contre l'histoire sans Africains
+
+Les grandes philosophies de l'histoire ont parfois alimenté des récits hiérarchiques qui sous-estimaient les sociétés africaines. L'archéologie de Shaka, même modeste, témoigne d'habitants capables de construire, de pêcher, de circuler et d'entretenir des institutions religieuses. Leur histoire ne commence pas à l'arrivée d'un observateur colonial.
+
+Les pensées de Hegel et Nietzsche peuvent être discutées pour critiquer les catégories de progrès et de valeur, mais elles ne remplacent pas des sources locales. Il serait tout aussi trompeur d'inventer une spiritualité propre à Shaka que de lui dénier une histoire parce qu'elle n'a pas laissé un grand palais.
+
+## XLIII. Girard : aucune victime fondatrice attestée
+
+La théorie de René Girard sur la violence et le sacré ne peut être appliquée comme preuve de mise à mort ou d'expulsion collective à Shaka. Une tombe n'est pas une scène sacrificielle, et l'érosion d'une rive n'est pas une trace de violence rituelle. Rien dans les données discutées ne permet de désigner un bouc émissaire ou une crise politique précise.
+
+L'usage critique de Girard pourrait porter sur la manière dont des traditions racontent les conflits, si de telles traditions étaient recueillies et datées. En leur absence, la théorie demeure extérieure à la reconstruction factuelle.
+
+## XLIV. Patrimoine vivant et partenaires de recherche
+
+Le projet MUCH a travaillé avec des partenaires des communautés de Mida Creek. Cet engagement rappelle que les sites archéologiques se situent dans des territoires où l'on pêche, cultive, extrait des ressources et transmet des mémoires. La recherche ne doit pas traiter les habitants actuels comme de simples auxiliaires des inventaires. Leurs connaissances des chemins et des changements environnementaux peuvent orienter les observations.
+
+Un témoignage contemporain sur un ancien nom ou un lieu abandonné n'est pas automatiquement une preuve du XVe siècle. Son intérêt historique exige date, contexte et attribution. La coopération scientifique gagne à rendre visibles ces différentes couches de savoir.
+
+## XLV. L'éthique de l'enregistrement archéologique
+
+Les profils en érosion de Shaka appellent une documentation rapide, mais une fouille préventive doit préserver les objets et leurs relations stratigraphiques. Les notes, photographies et géoréférencements doivent être conservés dans des archives consultables selon les règles de protection du patrimoine kenyan. Les campagnes futures devraient discuter leurs résultats avec les communautés concernées.
+
+Une reconstitution 3D doit distinguer les murs attestés de la mosquée, les volumes comparatifs et les parties inconnues. Il serait contraire à l'éthique scientifique de produire une image spectaculaire d'un sanctuaire entièrement inventé et de la présenter comme un vestige de Shaka.
+
+## XLVI. Programme de recherche proposé
+
+Les priorités sont les suivantes : relever les structures associées à la mosquée et aux tombes, documenter précisément la coupe MC19-31, localiser les habitats MC19-63, comparer les céramiques de leurs contextes, analyser les restes fauniques et réaliser une étude géomorphologique des accès. Les prélèvements devraient être associés à des unités stratigraphiques explicites et à des datations indépendantes si leurs matériaux le permettent.
+
+L'étude de la dimension religieuse supposerait des plans mesurés, la reconnaissance d'un mihrab et d'équipements de purification, ainsi qu'une documentation épigraphique si elle existe. L'inventaire de 2023 ne fournit pas assez d'informations pour imposer une interprétation détaillée. Les hypothèses doivent pouvoir être infirmées.
+
+## XLVII. Faits, controverses et hypothèses
+
+**Faits attestés dans la littérature consultée.** Shaka Point comprend une implantation reconnue avec mosquée et tombes dans l'inventaire historique ; les prospections modernes ont enregistré des céramiques et coquillages en érosion à MC19-31 et des sites de maisons sur la hauteur à MC19-63 ; Pollard et Bita ont identifié un horizon du XVe siècle dans une coupe du site ; ces observations sont résumées dans Bita et Forsythe (2023).
+
+**Propositions révisables.** La datation initiale de Kirkman au XVIe siècle, l'articulation des maisons et de la mosquée, les fonctions des passages étroits, la possibilité de liens avec Gedi et Kilepwa, l'ampleur de l'occupation médiévale.
+
+**Hypothèses non établies.** Nom d'un fondateur, école juridique locale, fonction précise de toutes les sépultures, richesse des habitants, identité ethnique de chaque constructeur, statut du site comme avant-port principal, caractère sacrificiel des amas de coquillages, tradition religieuse continue depuis le XVe siècle.
+
+## XLVIII. Conclusion générale
+
+Shaka Point montre qu'une histoire universitaire du sacré doit commencer par une géographie concrète et des données fragmentaires. Les mosquées et les tombes désignent des institutions religieuses et mémorielles ; les maisons, céramiques et coquillages attestent une vie sociale plus large. Les investigations récentes corrigent la chronologie de l'établissement en reconnaissant des activités du XVe siècle, mais ne restituent pas la date de chaque monument.
+
+Le site enseigne surtout les limites des rapprochements : contemporanéité avec Gedi n'est pas dépendance politique, coquillage n'est pas offrande, tombe n'est pas culte de saint prouvé, canal n'est pas port de haute mer. L'archéologie progresse en reconnaissant ces distinctions, et la conservation devient urgente lorsque l'érosion menace les couches mêmes qui pourraient permettre de les tester.
+
+## Sources primaires, relevés et corpus
+
+1. **Bita, Caesar, et Wes Forsythe (2023)**, « An Outport for Gedi?—Archaeological Survey in Mida Creek, Kenya », *Heritage*, 6(12), p. 7366–7380, DOI 10.3390/heritage6120386 : prospection de 2019, identification MC19-31 et MC19-63, synthèse des datations relatives à Shaka. Texte intégral de l'éditeur : https://doi.org/10.3390/heritage6120386. L'article est une publication de données primaires de terrain et d'analyse, non un texte médiéval.
+2. **Kirkman, James S. (1952)**, « The Excavations at Kilepwa: An Introduction to the Medieval Archaeology of the Kenya Coast », *The Antiquaries Journal*, 32(3–4), p. 168–184, DOI 10.1017/S0003581500076812. Source archéologique ancienne concernant Mida Creek et les identifications initiales de sites voisins. https://doi.org/10.1017/S0003581500076812.
+3. **Coran**, 2:144 (direction de prière), 5:6 (ablutions), 9:18 (entretien des mosquées), 62:9 (rassemblement du vendredi). Sources primaires normatives pour la tradition musulmane, non chroniques de Shaka. Références par sourate et verset : https://quran.com/2/144 ; https://quran.com/5/6 ; https://quran.com/9/18 ; https://quran.com/62/9.
+4. **Notations de terrain modernes** : MC19-31 et MC19-63 sont les références de prospection rapportées en 2023, non des identifiants de monuments consacrés. Leur interprétation doit rester subordonnée aux données du terrain d'origine.
+
+## Bibliographie universitaire
+
+- Bita, Caesar, et Wes Forsythe (2023), « An Outport for Gedi?—Archaeological Survey in Mida Creek, Kenya », *Heritage*, 6(12), p. 7366–7380. https://doi.org/10.3390/heritage6120386.
+- Kirkman, James S. (1952), « The Excavations at Kilepwa: An Introduction to the Medieval Archaeology of the Kenya Coast », *The Antiquaries Journal*, 32(3–4), p. 168–184. https://doi.org/10.1017/S0003581500076812.
+- Pollard, Edward, et Caesar Bita (2017), « Ship engravings at Kilepwa, Mida Creek, Kenya », *Azania*, 52(2), p. 173–191. https://doi.org/10.1080/0067270X.2017.1283096. Référence comparative sur Kilepwa, non découverte de gravures à Shaka.
+- Fleisher, Jeffrey B., et al. (2015), « When Did the Swahili Become Maritime? », *American Anthropologist*, 117(1), p. 100–115. https://doi.org/10.1111/aman.12171.
+- Wynne-Jones, Stephanie (2020), « The Archaeology of the Swahili World », *Oxford Research Encyclopedia of African History*. https://doi.org/10.1093/acrefore/9780190277734.013.257.
+- Wynne-Jones, Stephanie, et Jeffrey Fleisher (2016), « The multiple territories of Swahili urban landscapes », *World Archaeology*, 48(3), p. 349–362. https://doi.org/10.1080/00438243.2016.1179128. Comparaison avec Songo Mnara, non fouille de Shaka.
+- Wynne-Jones, Stephanie, et Adria LaViolette (dir.) (2018), *The Swahili World*, Routledge, pour le cadre historiographique général.
+- Pradines, Stéphane (2003), « Le mihrâb swahili : l'évolution d'une architecture islamique en Afrique subsaharienne », *Annales islamologiques*, 37, p. 355–381. https://doi.org/10.3406/anisl.2003.1332. Comparaison architecturale, aucune mesure propre à Shaka n'en est extrapolée.
+- Detienne, Marcel, et Jean-Pierre Vernant (dir.) (1979), *La Cuisine du sacrifice en pays grec*, Gallimard ; Durkheim, Émile (1912), *Les Formes élémentaires de la vie religieuse* ; Eliade, Mircea (1957), *Le Sacré et le Profane* ; Dumézil, Georges (1968–1973), *Mythe et épopée* ; Nietzsche, Friedrich (1872), *La Naissance de la tragédie* ; Girard, René (1972), *La Violence et le sacré* ; Hegel, G. W. F., cours sur la philosophie de l'histoire (publications posthumes). Cadres critiques uniquement, et non témoignages sur Shaka.
+
+**Note éditoriale.** Manuscrit original prêt pour la file publique MYTHOS. Le numéro propre de cette étude demeure 803 jusqu'à attribution atomique. Aucun manuscrit numéroté, registre, planification ou archive antérieure ne doit être modifié directement.

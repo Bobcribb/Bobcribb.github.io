@@ -1,0 +1,504 @@
+# MYTHOS — Encyclopédie des tragédies grecques — Volume CCXCIV (294)
+
+# Ion de Chios, *Les Gardiens* (Φρουροί) : Ulysse infiltré dans Troie, Hélène entre deux fidélités et la politique du secret
+
+**Monographie universitaire intégrale.** Philologie des fragments, littérature grecque du Ve siècle avant notre ère, épopée cyclique, dramaturgie, théories de la reconnaissance, philosophie politique, réception et iconographie critique. Texte public destiné au circuit transactionnel MYTHOS. Les marques CCXCIV et 294 désignent uniquement le numéro éditorial à attribuer par GitHub Actions ; elles ne préjugent ni reçu, ni commit de publication, ni URL publique.
+
+**Auteur antique :** Ion de Chios (Ἴων ὁ Χῖος).  
+**Œuvre :** Φρουροί, *Les Gardiens*, *Les Sentinelles* ou *The Watchmen*.  
+**État du texte :** tragédie perdue, sans texte continu, ni liste certaine de personnages ou d'acteurs, ni didascalie scénique connue.  
+**Témoins principaux :** palimpseste d'Hérodien, scholie aux *Grenouilles* d'Aristophane, Athénée, Hésychios et lexicographes ; la liste exacte varie selon les unités fragmentaires.  
+**Concordance contrôlée :** FragTrag.1, Ion, frr. **51–59**, correspondant à TrGF I, Ion, **F 43b, F 43c, F 44, F 45, F 46, F 47, F 48, F 49, F 49a**.  
+**Cadre mythique plausible :** une expédition secrète d'Ulysse dans la ville de Troie, suivie de sa reconnaissance par Hélène. L'identification repose sur la convergence du titre, des fragments qui nomment Hélène et Ulysse, et des traditions épiques ; le déroulement de l'action reste inconnu.  
+**Statut scientifique :** un titre et des citations [A] ; des interprétations argumentées [B] ; des modèles de reconstruction non narratifs [C] ; des parallèles anciens et modernes [D]. Aucun épisode, vers grec, dialogue ou personnage n'est ajouté au texte antique par invention.
+
+---
+
+## I. L'objet : une tragédie perdue qui parle encore de la surveillance
+
+*Les Gardiens* présente un avantage rare parmi les œuvres dramatiques très lacunaires : plusieurs vestiges se laissent rapprocher d'une même tradition mythologique, celle d'Ulysse entrant secrètement dans Troie pour recueillir des informations. Le titre paraît offrir une atmosphère de surveillance ; un passage interroge l'entrée d'un étranger dans la chambre nuptiale ; un autre met en présence les noms d'Ulysse et d'Hélène ; un témoignage postérieur atteste un énoncé d'Hélène à Ulysse ; un fragment évoque un coq ou une flûte de l'Ida, et quelques mots relèvent du poste de guet, des messagers et de gestes sociaux.
+
+Cette convergence est substantielle. Elle ne doit pourtant pas être transformée en spectacle retrouvé. Nos sources ont été conservées parce que des grammairiens, lexicographes et érudits s'intéressaient à la langue ; elles n'ont pas été choisies pour fournir un résumé dramatique. Les endroits où elles se rejoignent peuvent être éclairants, mais les intervalles ne sont pas disponibles. Le travail universitaire consiste à décrire comment une hypothèse devient plus ou moins plausible et où elle cesse d'être démontrable.
+
+Le problème dramaturgique est concret. Comment un ennemi entre-t-il dans une ville dont les portes sont gardées ? Comment une personne peut-elle reconnaître un adversaire qu'elle devrait dénoncer ? Que devient la loyauté d'Hélène, unie à Pâris au sein de la cité troyenne et liée à son ancienne patrie par le passé ? À qui la surveillance donne-t-elle réellement le pouvoir : à celui qui regarde, à celui qui cache sa véritable identité, ou à celle qui choisit de révéler le secret ?
+
+Les fragments peuvent nourrir toutes ces questions. En revanche, ils ne prouvent ni une entrée de nuit, ni un costume de mendiant sur la scène d'Ion, ni la présence d'Hécube, ni le vol du Palladion, ni une fuite après le chant du coq. Ces épisodes appartiennent, à des degrés variés, aux traditions littéraires et aux reconstructions modernes. Le titre lui-même demande une analyse avant de devenir un argument.
+
+## II. Méthode et échelles de certitude
+
+La présente étude maintient quatre niveaux de preuve : **[A] attesté**, pour les informations lisibles dans les sources antiques ou dans la concordance savante et explicitement attribuées ; **[B] inféré**, pour une interprétation étayée mais révisable ; **[C] conjecturé**, pour une possibilité dramaturgique compatible avec les documents, sans statut de scène reconstituée ; **[D] comparé**, pour une version du mythe, une réception ou un instrument philosophique qui ne documente pas directement Ion.
+
+Il est notamment nécessaire de distinguer cinq objets : le **titre** transmis, le **fragment** d'Ion, le **contexte de citation** chez un auteur postérieur, l'**épisode mythologique** connu par d'autres poètes et le **modèle dramaturgique** proposé aujourd'hui. L'un ne se substitue jamais à l'autre. Une scholie peut dire qu'Hélène parle à Ulysse ; elle ne livre pas pour autant le décor, la position du chœur, l'acte de reconnaissance ni la réaction des gardes.
+
+Les citations grecques originales sont limitées à de courtes unités contrôlées dans les transcriptions secondaires et, quand possible, dans la discussion critique moderne. Pour les leçons délicates, nous signalons les alternatives sans prétendre avoir collationné des manuscrits auxquels nous n'avons pas eu accès. L'accentuation et la ponctuation de travail ne sont pas présentées comme le dernier mot d'une édition critique. La présence d'une restitution entre chevrons ou d'un point d'interrogation éditorial demeure visible.
+
+Ce choix est fondamental pour l'histoire des textes perdus. Les découvertes futures ne récompenseront pas l'assurance de nos reconstructions ; elles permettront d'éprouver la fidélité avec laquelle les sources ont été délimitées et commentées.
+
+## III. Ion de Chios et la culture théâtrale athénienne
+
+Ion de Chios appartient à la génération intellectuelle du milieu du Ve siècle avant notre ère. Écrivain de prose, poète lyrique, auteur de pièces tragiques et satyriques, il ne peut être réduit à l'image d'un imitateur mineur des trois grands tragiques athéniens. Son œuvre aujourd'hui éparse témoigne de la circulation des genres, des savoirs et des traditions à travers les cités grecques.
+
+L'*Oxford Classical Dictionary* situe sa naissance probablement dans les années 480 et signale sa présence à Athènes vers 466 ; il meurt avant les *Paix* d'Aristophane, où il reçoit un hommage en 421. Le témoignage de la *Souda* sur le nombre de ses pièces transmet plusieurs chiffres : leur variation impose de ne pas fabriquer un inventaire exhaustif ni une chronologie intégrale de ses représentations. La diversité de sa production est mieux documentée que l'ordre exact de ses tragédies.
+
+Ses *Épidémies*, fragments de souvenirs et de scènes sociales, sont citées par Plutarque pour des rencontres avec les grands personnages de son temps. Ce genre de prose n'est pas la source de l'intrigue des *Gardiens*. Il éclaire cependant une pratique de l'observation : Ion sait représenter les prises de parole, les gestes, les rivalités et les attitudes dans un monde politique concurrentiel.
+
+Le volume collectif *The World of Ion of Chios*, dirigé par Victoria Jennings et Andrea Katsaros (Brill, 2007), replace cet auteur au cœur du dialogue panhellénique. Alexander Stevens y étudie le rapport des tragédies aux traditions homériques en accordant une attention particulière aux *Phrouroi*. Michael Clarke examine les images de la langue poétique d'Ion, notamment la manière dont une expression insolite peut bousculer les attentes du lecteur. Ces travaux autorisent une lecture littéraire exigeante ; ils n'autorisent pas la reconstruction factice des scènes disparues.
+
+## IV. Continuité MYTHOS : singularité de l'œuvre et frontières du dossier
+
+Le sujet de la présente monographie est *Les Gardiens* d'Ion de Chios, non une étude générale de la guerre de Troie ou de la ruse d'Ulysse. La progression de l'encyclopédie doit tenir compte des titres distincts du même poète, notamment *Agamemnon*, *Alcmène*, *Les Argiens*, *Les Eurytides*, *Laërte*, *Le Grand Drame*, *Omphale satyrique*, *Teucros*, *Phénix ou Cénée* et *Second Phénix*. Ces mentions servent d'orientation historique et n'attribuent aucun nouveau numéro.
+
+La concordance de l'Université de Patras place *Φρουροί* après le *Second Phénix*, et avant la rubrique des fragments issus de drames non identifiés. L'œuvre possède donc une entrée documentaire autonome. Elle ne se confond ni avec les *Gardiens* mentionnés comme personnages possibles dans d'autres textes, ni avec les *Laconiennes* de Sophocle, ni avec les représentations d'Ulysse dans l'*Hécube* d'Euripide.
+
+Les demandes déjà archivées dans la file GitHub restent identifiées par leur propre UUID et attendent éventuellement un reçu. L'antériorité d'une conversation, d'un sommaire ou de l'ordre affiché des fichiers n'autorise pas la réservation d'un numéro. La présente étude doit seulement occuper une nouvelle demande, sans réémettre les précédentes.
+
+## V. Le titre Φρουροί : garder quoi, surveiller qui ?
+
+Le substantif grec *φρουρός* désigne une personne chargée de la garde : sentinelle, gardien, surveillant, occupant d'un poste défensif. Le pluriel *Φρουροί* est un titre collectif. Le choisir est déjà un geste dramatique : le nom ne désigne ni le héros dont nous croyons reconnaître les exploits, ni une reine célèbre, ni la ville assiégée, mais un groupe défini par sa fonction.
+
+Le titre pourrait faire référence aux gardes troyens de la ville, au personnel chargé de protéger Hélène, à des sentinelles proches des portes ou des remparts, ou à un collectif dramatique dont la présence importe au chœur. **[B]** Le sens ordinaire du mot suffit à évoquer un dispositif de surveillance, mais pas à identifier définitivement les gardiens. Dire « les gardiens d'Hélène » est une possibilité mythographique, non une traduction littérale du titre.
+
+La difficulté n'est pas purement lexicale. Dans un récit d'infiltration, le surveillant est celui qui doit reconnaître l'ennemi avant qu'il ne nuise. Le héros ingénieux renverse ce système : sa force consiste à devenir visible sans être reconnu, à traverser un ordre construit pour exclure. Le titre pourrait donc fonctionner ironiquement, en désignant la puissance apparente des gardes dont le dispositif est contourné.
+
+**[C]** Il serait tentant d'imaginer le chœur composé de soldats troyens ; l'emploi d'un titre pluriel pourrait soutenir l'idée. Mais aucun fragment ne confirme explicitement sa composition, son nombre, son costume ou l'identité des choreutes. La comparaison avec les *Laconiennes* de Sophocle, autre titre collectif susceptible d'évoquer l'entourage féminin d'Hélène, renseigne sur des possibilités du théâtre grec, non sur un fait certain chez Ion.
+
+## VI. Corpus philologique : neuf références, sans ordre scénique
+
+La concordance universitaire FragTrag.1 donne pour *Les Gardiens* les correspondances suivantes :
+
+| FragTrag.1, Ion | TrGF I, Ion | Contenu ou enjeu principal |
+|---|---|---|
+| **fr. 51** | **F 43b** | Question sur un étranger et la chambre nuptiale ; leçon ξένος / ξένον discutée |
+| **fr. 52** | **F 43c** | Énoncé de peur et de retournement ; identification du locuteur et leçon ἅβρα / αὔρα incertaines |
+| **fr. 53** | **F 44** | Parole attribuée à Hélène adressée à Ulysse par une scholie des *Grenouilles* |
+| **fr. 54** | **F 45** | Image du coq de l'Ida et de la syrinx ; référence d'Athénée IV 185a |
+| **fr. 55** | **F 46** | Épithète poétique d'Hélène, « neigeuse » ou « blanche comme la neige » |
+| **fr. 56** | **F 47** | Expression relative à un poste d'observation sur une tour |
+| **fr. 57** | **F 48** | Mots liés aux couronnes et aux mains, contexte perdu |
+| **fr. 58** | **F 49** | Terme désignant un appelant ou un messager, contexte perdu |
+| **fr. 59** | **F 49a** | Expression adjectivale brève ; situation perdue |
+
+**[A]** Cette table identifie le corpus de neuf unités, pas une succession chronologique de neuf scènes. Les deux premières, F 43b et F 43c, sont des apports éditoriaux distingués du F 43 du *Second Phénix*. La proximité des lettres **43, 43b, 43c** ne signifie donc ni continuité de dialogue, ni appartenance à une unique œuvre. Le titre assigné par la concordance reste indispensable.
+
+La série suivante de FragTrag commence à **fr. 60** dans la rubrique des drames non identifiés. Il serait incorrect de prolonger les *Gardiens* en ajoutant à la monographie ces fragments anonymes ou incertains. Des spécialistes ont proposé de rattacher certains morceaux non attribués aux *Gardiens*, mais ces arguments doivent être exposés comme conjectures, sans modification de la frontière documentaire.
+
+Les différentes traditions d'édition sont à distinguer. Nauck, *Tragicorum Graecorum Fragmenta*, seconde édition (1889), fournit une étape historique ; TrGF I sert de repère critique moderne ; FragTrag.1 rend leur correspondance accessible ; Leurini, *Ionis Chii Testimonia et Fragmenta*, propose encore un autre contexte de rassemblement des œuvres de l'auteur.
+
+## VII. Témoins de la transmission : Hérodien, Athénée, scholies et lexicographes
+
+L'archive des *Gardiens* nous parvient par des voies discontinues. Deux passages, F 43b et F 43c, proviennent d'un palimpseste du grammairien Hérodien. D'autres sont connus par une scholie aux *Grenouilles* d'Aristophane, par Athénée et par la transmission lexicographique. Ces documents n'ont pas pour objet de conserver l'intrigue pour les lecteurs modernes.
+
+Un palimpseste témoigne d'une histoire complexe de conservation : un texte réutilisé peut receler des passages de grammaire qui eux-mêmes transmettaient des phrases poétiques plus anciennes. Le fragment de tragédie est ainsi une citation à l'intérieur d'un document technique, non une page de manuscrit dramatique directement copiée de la représentation.
+
+La scholie à Aristophane possède une autre valeur. Le commentateur explique une allusion comique en se référant à une réplique tragique : ici la relation entre un fragment d'Ion et une œuvre conservée peut être relativement forte. Mais le commentaire reste tardif par rapport à Ion et peut refléter des traditions d'attribution parfois discutées.
+
+Athénée, quant à lui, s'intéresse aux usages sociaux, aux objets, aux mots et aux particularités littéraires. Quand il cite un coq ou un instrument, il n'entend pas faire un récit de la nuit d'espionnage. Un détail qui paraît mineur pour la pièce peut devenir central dans son livre, tandis que la reconnaissance entre Hélène et Ulysse nous échappe presque entièrement.
+
+**[B]** L'historien des fragments doit donc tenir compte du « biais de conservation » : la taille relative d'un élément transmis ne reflète pas nécessairement son importance dans le spectacle. Les détails lexicaux ont souvent mieux survécu que les grands débats dramatiques.
+
+## VIII. F 43b : l'étranger dans la chambre nuptiale
+
+Le fragment correspondant à FragTrag **fr. 51** et TrGF **F 43b** contient une interrogation sur la manière dont un étranger a pu pénétrer ou passer auprès de la chambre conjugale. La discussion de Daniel Dooley, fondée notamment sur les travaux de M. L. West, signale une difficulté textuelle essentielle : l'édition conjecture **ξένος**, là où le manuscrit donne **ξένον**. Le cas et la fonction syntaxique ne peuvent être décidés par intuition narrative.
+
+Cette distinction ouvre plusieurs possibilités. Le syntagme peut porter sur un homme entré dans une demeure dont il n'avait pas droit d'approcher le lit ; il peut viser une violation de l'hospitalité ou de la fidélité matrimoniale ; il peut encore servir à évoquer un épisode connu, celui de Pâris à Sparte, ou une infiltration dont l'interlocuteur demande les circonstances.
+
+**[B]** West a proposé de relier l'interrogation à un récit d'Hélène concernant Pâris et la chambre de Ménélas. L'idée s'accorde avec un entretien d'Hélène et d'Ulysse, mais demeure une hypothèse. Les noms propres et le lieu exact ne sont pas conservés dans le bref segment. L'expression *θάλαμος εὐναῖος* a une portée matrimoniale évidente, mais son référent peut être passé, présent ou allusif.
+
+Plusieurs significations du verbe sont discutées : passer, dépasser, esquiver, entrer. L'écart change sensiblement l'action supposée. Une reconstruction qui choisirait automatiquement « entrer » pour créer une scène de séduction aurait déjà pris une décision philologique masquée sous la forme d'une traduction.
+
+**[C]** On peut imaginer que le récit de l'ancien enlèvement d'Hélène servait de levier dans une négociation avec Ulysse. On ne peut affirmer que cette négociation a eu lieu dans la chambre ni que Pâris est entré en scène. Le fragment interroge une transgression ; il n'en révèle ni l'auteur certain ni le dénouement.
+
+## IX. F 43c : peur, brise et lecture d'un palimpseste
+
+Le second apport du palimpseste d'Hérodien, **FragTrag fr. 52 = F 43c**, est particulièrement difficile parce que sa lecture détermine la situation dramatique. Les transcriptions accessibles incluent une indication de locuteur conjecturale, parfois Ulysse avec point d'interrogation, et un terme que les commentateurs ont rapproché soit d'une **servante**, soit d'une **brise**.
+
+**[A]** Il faut distinguer la leçon écrite de la correction de West : **ἅβρα**, « femme de chambre » ou servante raffinée selon le contexte, et **αὔρα**, « brise ». Choisir la seconde ouvre la possibilité d'une personne effrayée par un souffle, puis rassurée ; choisir la première peut suggérer une interlocutrice humaine ou un rôle domestique. Les conséquences dramaturgiques sont majeures, mais l'origine du dilemme est philologique.
+
+**[B]** Snell a envisagé qu'Ulysse prononce ce passage en évoquant sa progression furtive à travers Troie. West propose un autre contexte : Hélène raconterait les circonstances anxieuses de sa sortie de Sparte avec Pâris. Dooley juge cette seconde lecture défendable, sans qu'elle puisse devenir une certitude. Nous conservons les deux positions et la dépendance de chacune à des corrections.
+
+Aucune scène de peur provoquée par le vent n'est donc donnée comme une image ancienne entièrement assurée. Le seul fait qu'une lecture produise un épisode vraisemblable ne suffit pas à lui donner le statut de fragment intact.
+
+Ce cas illustre une règle générale : une leçon incertaine peut transformer le rôle, l'espace et la signification d'une tragédie perdue. L'édition critique doit avoir priorité sur l'imagination narrative.
+
+## X. F 44 : Hélène et Ulysse, la parole de l'ambivalence
+
+La tradition liée au **fr. 53 FragTrag = F 44 TrGF** est la plus précieuse pour la recherche d'un dialogue antique. Une scholie aux *Grenouilles* **1425** affirme que le passage d'Ion était prononcé par **Hélène à Ulysse**. Elle lie une réplique de tragédie à la parodie d'Aristophane au sujet de la relation tumultueuse de la cité athénienne avec Alcibiade.
+
+Une courte forme grecque donnée dans la discussion critique est : **« σιγᾷ μὲν, ἐχθαίρει δέ, βούλεται γε μήν »**. Paraphrase prudente : « cela garde le silence, éprouve de la haine, et pourtant le désire ou le veut ». Le sujet et le complément ne sont pas explicitement fixés par cette formule isolée. Les verbes expriment une contradiction affective ou politique ; l'enchaînement exact dans la pièce perdue échappe.
+
+Dans les *Grenouilles*, Aristophane reprend une structure antithétique proche pour parler de la cité et d'Alcibiade : elle le désire, le déteste, mais veut le garder. Ce passage comique ne peut être réinterprété comme s'il citait mot pour mot tout l'énoncé tragique d'Ion. Il atteste une relation de mémoire littéraire et un dispositif de parodie.
+
+**[B]** Dooley propose comme sujet implicite de la réplique d'Ion la **cité de Troie**, entretenant envers Hélène une relation contradictoire. C'est une hypothèse intelligible : Hélène habite la communauté troyenne sans y être nécessairement pleinement intégrée ; elle reste un personnage autour duquel se concentrent désir, haine et discorde. Mais la proposition inverse, selon laquelle la phrase concernerait Pâris, ou l'idée plus ancienne d'un propos sur Hécube, ont été discutées. L'absence du sujet dans le fragment ne permet pas de trancher.
+
+**[B]** L'ambivalence peut aussi s'étudier philosophiquement. Vouloir conserver celle qu'on accuse de causer la guerre signifierait que la communauté ne coïncide pas avec ses propres intérêts proclamés. Une telle interprétation est solide en tant que modèle, mais elle ne doit pas être attribuée explicitement à Ion.
+
+## XI. La scholie des *Grenouilles* : témoignage et distance chronologique
+
+La comédie d'Aristophane est conservée, tandis que la tragédie d'Ion a disparu. La citation indirecte offre donc une forme de triangulation : nous connaissons le contexte comique où l'énoncé semble être rappelé, mais le contexte d'origine ne nous est parvenu que par une scholie.
+
+La date de représentation des *Grenouilles* (405 av. J.-C.) est postérieure à l'activité tragique d'Ion, mort avant 421. Cette différence permet de concevoir la réutilisation parodique d'un motif poétique déjà connu. Elle ne prouve pas que les Athéniens identifiaient tous la source ni que la phrase jouissait d'une célébrité uniforme.
+
+La démarche est méthodiquement différente de celle d'un commentaire de théâtre conservé. Dans un texte intégral, un sujet implicite peut souvent être retrouvé dans la réplique précédente ; ici cette réplique a disparu. La scholie peut identifier des interlocuteurs tout en laissant inconnue la question qu'Hélène posait, la personne qu'elle jugeait et le motif immédiat de son ambivalence.
+
+**[B]** Une lecture politique du fragment devient particulièrement intéressante lorsque l'on se souvient qu'Alcibiade incarne, dans la comédie, les difficultés de la cité face à un personnage puissant, suspect et nécessaire. Il ne serait pourtant pas exact de convertir cette réception comique en allégorie athénienne contenue dans la tragédie d'Ion. La parodie actualise l'ancien énoncé ; elle ne révèle pas l'intention de son auteur.
+
+## XII. F 45 : le coq de l'Ida et la syrinx, une image contestée
+
+**[A]** Athénée, *Deipnosophistes* **IV 185a**, cite une expression de la pièce désignant un **coq de l'Ida** et une **syrinx**. Le texte a donné lieu à une controverse : faut-il interpréter le coq comme un instrument sonore métaphorique, ou une flûte pastorale comparée à un coq ? La construction grecque et les interventions éditoriales de Kaibel, Nauck et d'autres spécialistes conduisent à des solutions différentes.
+
+Le fragment est **FragTrag fr. 54 = TrGF I F 45**. Une transcription secondaire affiche une forme commençant par des signes de correction éditoriale, dont le début ne doit pas être imprimé comme un texte parfaitement certain. Pour éviter d'inventer une leçon stabilisée, le commentaire décrit les enjeux plutôt qu'il ne reproduit un hexamètre reconstruit.
+
+**[B]** L'interprétation courante d'un chant de coq annonçant l'aurore est compatible avec une fuite clandestine d'Ulysse : plus la lumière gagne la ville, plus le risque de reconnaissance augmente. Mais un autre scénario, défendu dans les discussions savantes, situe une musique ou un signal dans la soirée. La métaphore seule ne détermine pas l'heure dramatique.
+
+Le mot **Ἰδαῖος** renvoie au mont Ida et au paysage troyen, mais il n'implique pas nécessairement que le public voyait cette montagne au fond de la scène. La poésie tragique peut convoquer un lieu absent par la parole. La référence à la syrinx peut évoquer le monde pastoral sans démontrer la présence d'un aulète qui reproduisait précisément le bruit de l'animal.
+
+**[C]** Une reconstruction voudrait faire de ce signal sonore un arrêt brutal de la conversation entre Hélène et Ulysse. Elle serait théâtralement séduisante, mais n'est pas attestée. La fonction dramatique précise du fragment demeure inconnue.
+
+## XIII. Le temps du risque : nuit, aube et reconnaissance
+
+La tradition de l'espionnage d'Ulysse favorise un cadre nocturne, mais il faut distinguer les sources. L'infiltration secrète peut être nocturne dans une adaptation ; le fragment du coq peut désigner l'approche du jour ; toutefois le théâtre d'Ion n'a pas livré de didascalie décrivant les heures de l'action.
+
+La question du temps est philosophiquement importante : une information recueillie trop tard perd sa valeur, une identité découverte trop tôt met l'espion en danger, une décision différée risque de rendre la négociation impossible. Le temps est donc un élément de la prudence politique. Il est également un paramètre dramaturgique classique, mais dont la fonction ne peut ici être reconstituée.
+
+**[B]** Si Hélène retient ou relâche Ulysse, sa décision doit être située dans un horizon d'incertitude. Elle ne connaît pas nécessairement tous les résultats de la guerre à venir ; le lecteur du mythe, lui, sait déjà que Troie sera prise. Cette asymétrie produit une ironie tragique possible : le public possède une connaissance de la catastrophe que les personnages n'ont pas de la même manière.
+
+Il ne faut pas pour autant affirmer que le coq annonce le dernier épisode ni que le lever du jour coïncide avec une péripétie aristotélicienne. Ces choix supposeraient une architecture dramatique non conservée.
+
+## XIV. F 46 : « Hélène neigeuse » et la singularité de l'épithète
+
+**[A]** Le **fr. 55 FragTrag = TrGF I F 46** donne une très courte désignation d'Hélène comme **« neigeuse »** ou **« blanche comme neige »**, notée sous la forme **νιφόεσσ' Ἑλένη** dans certaines transcriptions. Hésychios, sous une entrée lexicale repérée **ν 601**, est cité dans les commentaires comme un témoin de l'emploi d'un adjectif inhabituel pour la blancheur.
+
+L'image est précieuse parce qu'elle rattache clairement au dossier une figure mythique nommée. Elle n'indique cependant ni qui prononce la formule, ni si le personnage est visible au moment où on la dit. Les spécialistes ont envisagé un passage d'annonce d'entrée, notamment en raison de la métrique anapestique que l'on peut reconnaître ; c'est une hypothèse, pas un emplacement scénique établi.
+
+Michael Clarke, dans « Snowy Helen and Bull-Faced Wine: Ion and the Logic of Poetic Language » (*The World of Ion of Chios*, 2007, p. 206–216), étudie les métaphores insolites d'Ion. Cette approche invite à dépasser une lecture photographique de l'adjectif : « neigeuse » ne fournit pas une mesure réelle de couleur, de costume ou de maquillage. L'épithète peut fonctionner comme une déformation frappante du langage héroïque.
+
+**[B]** La blancheur neigeuse contraste avec le monde de la guerre, des blessures et des portes fortifiées. On peut y lire une beauté exceptionnelle, une distance, une froideur ou une menace pour celui qui entre dans Troie. Aucun de ces sens n'est imposé par les deux mots conservés.
+
+Il serait impropre de générer une image « fidèle » d'Hélène à partir de cet adjectif isolé. L'iconographie antique présente des traitements variés du personnage ; aucune correspondance avec ce fragment d'Ion n'est prouvée.
+
+## XV. F 47 : le guet sur la tour
+
+**[A]** Le **fr. 56 = F 47** est une expression relative à une **observation depuis une tour** ou à un poste de surveillance élevé. La transcription **πυργείαν 〈σ〉κοπήν** montre qu'une correction est proposée entre chevrons. Un commentaire précis doit signaler cette intervention plutôt que de donner un texte grec régularisé sans avertissement.
+
+Le motif paraît convenir particulièrement au titre *Les Gardiens*. Il offre une cohérence topographique entre le nom collectif des sentinelles et un acte de guet. Toutefois le fragment ne décrit ni l'enceinte de Priam, ni la porte Scée, ni une vigie identifiée, ni un emplacement précis sur la scène.
+
+**[B]** En termes de dramaturgie, la tour construit un contraste entre l'avantage visuel du surveillant et sa vulnérabilité à la tromperie. Voir de loin n'est pas reconnaître ; contrôler l'espace ne signifie pas comprendre les intentions. Cette distinction pourrait être centrale dans un drame où Ulysse adopte une apparence trompeuse. Mais l'association de la tour à Ulysse est une inférence, non le contenu explicite du fragment.
+
+Les ruines matérielles de Troie ne permettent pas davantage de retrouver le poste de guet de la pièce. Le théâtre du Ve siècle est une création littéraire et civique, pas une restitution technique des murailles de l'âge du Bronze.
+
+## XVI. F 48 : couronnes, mains et signes équivoques
+
+**[A]** Le **fr. 57 = F 48** conserve de brefs mots liés aux **couronnes** et aux **mains** dans les transcriptions disponibles. Ils peuvent susciter des réflexions sur des gestes de supplication, d'honneur, de victoire, de contact ou de cérémonie. Mais la plupart de ces usages sont compatibles avec bien des scènes tragiques sans aucun lien particulier avec la mission d'Ulysse.
+
+**[B]** Une couronne peut accompagner un rite, une reconnaissance ou une célébration ; une main peut montrer l'accord, la contrainte, la demande de protection. Associer ces deux éléments pour créer un serment entre Hélène et Ulysse serait déjà une opération narrative. Nous ne le faisons pas.
+
+Le problème est typique de la philologie fragmentaire : la présence d'un objet ne garantit ni une action ni un décor. Une interprétation cohérente doit connaître le verbe, les interlocuteurs et le contexte, autant d'éléments perdus.
+
+## XVII. F 49 et F 49a : l'appel et la venue
+
+**[A]** **FragTrag fr. 58 = TrGF I F 49** conserve un terme de l'univers de l'appel ou de l'invitation, **κλητῆρα** dans la transcription secondaire consultée. **FragTrag fr. 59 = TrGF I F 49a** transmet un adjectif ou qualificatif proche de **προσφοραῖος**, difficile à assigner à une situation scénique précise.
+
+Il serait facile, mais injustifiable, de relier les deux mots à une convocation des sentinelles et à l'arrivée d'un secours. Aucune réplique intacte ne vient les ordonner. La distance entre « mot signifiant appel » et « scène de gardes appelés » est considérable.
+
+**[B]** Les deux vestiges offrent toutefois un terrain d'analyse linguistique. Ils montrent que le dossier contient, à côté de plusieurs expressions d'allure épique, du vocabulaire social et pratique. Un dramaturge peut employer ces termes pour des événements intimes autant que pour des événements militaires. Le titre *Les Gardiens* ne transforme pas tous ses mots en accessoires d'espionnage.
+
+Nous arrêtons la série sur F 49a. Il ne s'agit pas d'un fragment inaugural d'une autre pièce, ni de l'autorisation de continuer arbitrairement avec tous les morceaux anonymes d'Ion.
+
+## XVIII. De l'*Odyssée* au Cycle épique : deux traditions qu'il faut séparer
+
+Dans l'*Odyssée*, livre **IV, 240–264** environ, Hélène rappelle la capacité d'Ulysse à modifier son apparence et à entrer dans Troie. Ce récit préserve déjà plusieurs éléments d'une culture de l'espionnage héroïque : costume transformé, pénétration dans une ville ennemie, reconnaissance possible, compétence pour cacher sa véritable identité.
+
+L'**argument de la *Petite Iliade*** transmis par **Proclus, *Chrestomathie***, raconte à son tour qu'Ulysse se défigure pour entrer comme espion dans Ilion ; il est reconnu par Hélène, établit avec elle un accord concernant la chute de la ville, tue plusieurs Troyens et revient aux navires. Le récit décrit ailleurs l'épisode du Palladion. Il faut éviter de fondre automatiquement les deux opérations ; les sources varient sur leur enchaînement et leur relation.
+
+**[A/D]** Ces récits sont des comparaisons primaires indispensables. Ils montrent qu'une intrigue mettant Ulysse et Hélène en présence avait une place dans l'univers épique. Ils ne fournissent pas le texte de la pièce d'Ion ni la preuve que chaque détail y figurait.
+
+La reconstruction savante privilégie souvent la tradition de la *Petite Iliade* pour éclairer les *Gardiens*, parce qu'elle rassemble précisément l'infiltration et la rencontre avec Hélène. Mais le poète tragique pouvait déplacer le point de vue, accorder plus de temps à la discussion ou donner au chœur une fonction originale. Il pouvait également sélectionner un tout autre moment du récit, sans que nous sachions lequel.
+
+L'intérêt comparatif réside dans la variation : l'épopée résume rapidement un acte efficace ; la tragédie, si elle traitait ce même acte, pouvait en problématiser les motivations et la valeur morale.
+
+## XIX. Euripide, *Hécube* 239–257 : une variante dramatique et son danger
+
+Dans l'*Hécube* d'Euripide, une confrontation rappelle l'entrée clandestine d'Ulysse dans Troie. Hécube lui reproche sa conduite présente et rappelle le moment où Hélène l'avait reconnu puis dénoncé à la reine. Ulysse aurait alors imploré d'être épargné, avant de devenir, plus tard, un acteur de la catastrophe pour les Troyennes.
+
+La fonction rhétorique du souvenir est claire dans la pièce conservée : Hécube cherche à transformer une ancienne dette de reconnaissance en obligation morale. La scène met en cause la gratitude, le pouvoir du plus fort et l'asymétrie entre le vainqueur et la captive.
+
+**[A/D]** Euripide atteste une version tragique particulière du mythe ; il ne confirme pas que la même Hécube se trouvait parmi les personnages d'Ion. Daniel Dooley souligne qu'il est possible qu'Euripide ait accentué ou innové cette implication de la reine dans la découverte de l'espion. Le résumé de Proclus met plutôt l'accent sur l'accord d'Hélène avec Ulysse.
+
+**[B]** La comparaison reste essentielle : chez Ion, le silence ambigu d'Hélène pourrait être un élément de négociation ; chez Euripide, l'ancienne reconnaissance sert à faire éclater la contradiction morale d'Ulysse. La tension ne prouve pas une rivalité directe des deux auteurs. Des traditions parallèles et des adaptations indépendantes peuvent expliquer les divergences.
+
+Confondre les deux pièces créerait de faux rôles et des faux épisodes. Le présent dossier conserve donc *Hécube* comme parallèle autonome.
+
+## XX. Ulysse et le Palladion : un enchaînement non assuré
+
+Le Palladion est une image sacrée d'Athéna liée à la protection de Troie dans diverses traditions. Les récits de sa capture par les Grecs attribuent souvent l'exploit à Ulysse et Diomède. Certains résumés de cycle épique séparent cette opération de la première pénétration d'Ulysse à Troie ; d'autres versions tardives associent reconnaissance d'Hélène et vol de l'objet.
+
+**[B]** La mission du Palladion constitue un parallèle structurel : même infiltration, même incertitude sur les portes, même renversement d'un dispositif de protection. Pourtant les neuf fragments de la présente pièce ne nomment pas le Palladion. En faire l'objet recherché par Ulysse serait indémontrable.
+
+Il en va de même pour Diomède. Dans d'autres versions de la mission, le héros accompagne Ulysse, mais le seul fait de connaître ce compagnonnage mythologique n'autorise pas à ajouter Diomède à la distribution des *Gardiens*. Une monographie sans acte scénique inventé doit conserver cette lacune.
+
+La présence d'un guet sur la tour (F 47) ne suffit pas non plus à identifier l'idole sacrée que les gardes protégeraient. On peut poser l'hypothèse d'une surveillance religieuse, mais il faut la distinguer de la surveillance militaire suggérée par le titre.
+
+## XXI. Qui surveille Hélène ? Entre captivité, statut et appartenance
+
+Les traditions sur Hélène ne réduisent pas son statut à une formule unique. Elle peut apparaître comme complice, victime des dieux, épouse contestée, femme à récupérer, figure de beauté et enjeu de propagande. Son appartenance à Troie est toujours traversée par sa provenance grecque et par la cause supposée de la guerre.
+
+**[B]** Dans un récit où elle reconnaît Ulysse, Hélène peut être simultanément une cible de surveillance et une agente capable de modifier le résultat de l'opération. La sentinelle protège un ordre ; elle détient le pouvoir de dénoncer l'intrus ; elle peut aussi choisir de se taire. Une décision individuelle devient ainsi un facteur de sécurité collective.
+
+La phrase attribuée à Hélène (F 44) se prête à une lecture de cette ambivalence. Mais aucune preuve ne permet de l'entendre comme une confession d'appartenance à la cité troyenne ou comme une proclamation de soutien aux Grecs. Il manque le sujet grammatical de sa contradiction.
+
+Les lectures contemporaines du déplacement forcé, du contrôle des femmes et des loyautés contraintes peuvent éclairer cette situation. Il faut cependant éviter de traduire directement les catégories sociales modernes en institutions attestées sur la scène d'Ion.
+
+Le titre *Les Gardiens* permet surtout de poser une question : quand la société définit une personne comme l'objet à protéger ou à retenir, la protection est-elle encore un service rendu à cette personne ou devient-elle une forme de captivité ? La pièce perdue ne nous donne pas sa réponse, mais sa documentation autorise cette question critique.
+
+## XXII. Trois reconstructions dramatiques ouvertes, sans répliques inventées
+
+**[C1] Hypothèse de la reconnaissance.** Ulysse entre secrètement à Troie ; un personnage ou le chœur évoque la surveillance ; Hélène identifie l'étranger et échange avec lui des paroles de défiance ou de négociation. Ce modèle est compatible avec la scholie du F 44 et avec la tradition de la *Petite Iliade*. Il demeure impossible d'affirmer que la reconnaissance avait lieu sur scène, ni à quel moment.
+
+**[C2] Hypothèse du récit rétrospectif.** La discussion entre Hélène et Ulysse pourrait inclure le souvenir de l'enlèvement par Pâris ; les fragments du palimpseste (F 43b–c) auraient alors une valeur autobiographique ou accusatrice. Ce modèle dépend de corrections de West et d'une identification conjecturale de la locutrice ; il n'a pas le statut d'une intrigue connue.
+
+**[C3] Hypothèse des sentinelles et de la décision collective.** Le titre désignerait un groupe placé devant le risque de laisser partir un ennemi. Les mots du poste de guet et du signal sonore prendraient une valeur d'urgence ; les gardes pourraient être informés ou trompés. Le chœur pourrait appartenir à ce collectif, mais rien ne le prouve. Cette reconstruction explique le titre sans obliger à préciser le nombre, les costumes ou les déplacements.
+
+Une quatrième possibilité, **modèle de la trahison et du secret**, consisterait à considérer la décision d'Hélène comme l'axe éthique de l'œuvre. Elle est philosophiquement utile mais dépend du sujet reconstruit du F 44 et des traditions épiques ; elle ne justifie pas l'invention d'une scène de serment.
+
+Ces modèles ne sont pas des scripts ni des synopsis d'Ion. Ils sont des ensembles d'hypothèses falsifiables. Leurs versions incompatibles doivent rester côte à côte tant que la documentation ne les départage pas.
+
+## XXIII. Une matrice des possibilités et de leurs limites
+
+| Élément proposé | Appui réel | Ce qui reste inconnu |
+|---|---|---|
+| Un titre collectif : *Les Gardiens* | Concordance FragTrag.1 | Identité, fonction et composition exacte du groupe |
+| Ulysse apparaît ou est nommé | Fragments F 43c et F 44 et scholie | Étendue de son rôle et ordre d'apparition |
+| Hélène intervient | Fragments F 44 et F 46 | Sa stratégie, ses mobiles, son statut scénique |
+| Un étranger et une chambre nuptiale | F 43b, lecture discutée | Référent de l'étranger, temps du récit |
+| Un bruit de coq ou de syrinx | F 45, Athénée IV 185a | Heure exacte et fonction dramaturgique |
+| Une observation depuis une tour | F 47 | Nom de la tour, présence effective d'une vigie |
+| Une reconnaissance d'espion | Épopée cyclique et convergences | Scène exacte et moment dans la tragédie |
+| Hécube comme interlocutrice | Euripide, *Hécube* | Présence chez Ion non attestée |
+| Vol du Palladion | Autres versions du cycle | Aucun fragment propre ne nomme l'objet |
+| Chœur de soldats troyens | Plausibilité du titre | Aucun témoignage direct |
+| Numéro du nouveau volume | Aucun avant reçu | Attribution exclusive par le workflow |
+
+Cette matrice sépare les conclusions d'histoire littéraire des interpolations séduisantes. La rigueur de l'analyse ne consiste pas à refuser toute possibilité, mais à empêcher qu'une possibilité devienne une fausse donnée du corpus.
+
+## XXIV. Aristote : reconnaissance, retournement et unité d'action
+
+La *Poétique* d'Aristote, surtout **1450a**, **1452a** et **1459b**, permet d'interroger le rapport entre les fragments et l'organisation dramatique sans inventer celle-ci. La reconnaissance, *anagnôrisis*, est un passage de l'ignorance au savoir qui change les rapports entre personnages ; la péripétie renverse une situation selon la logique de l'action.
+
+La reconnaissance d'Ulysse par Hélène, attestée dans la tradition cyclique et plausible pour Ion, serait un candidat évident à une transition dramatique. Mais nous ne savons pas si elle s'effectuait en scène, avant le début de l'action, ou sous forme de récit. Il serait donc abusif d'affirmer que la pièce possédait une péripétie au moment précis de la reconnaissance.
+
+**[B]** Un fragment sur l'étranger dans la chambre et un autre sur la peur peuvent être compatibles avec une interrogation sur l'identité ; cette compatibilité ne livre ni la chaîne causale des événements ni le niveau de connaissance du public et du chœur. L'unité dramatique ne peut être mesurée sur neuf expressions fragmentaires.
+
+En **1459b**, Aristote cite les œuvres épiques susceptibles de donner matière à des tragédies ; parmi les transformations du cycle de Troie, plusieurs éléments concernent la ruse d'Ulysse. Cette observation éclaire la transmission des récits, sans prouver que la *Petite Iliade* a été suivie ligne à ligne par Ion.
+
+L'aristotélisme est ici une méthode de questionnement : quel événement fait basculer la situation ? Quel personnage acquiert un savoir ? Quel acte organise l'ensemble ? La réponse doit demeurer suspendue.
+
+## XXV. Platon : apparence, vérité et juste usage de la ruse
+
+La figure d'Ulysse place immédiatement l'interprétation au contact du problème de la vérité. Dans le dialogue platonicien *Hippias mineur*, la réputation d'Ulysse comme homme rusé se prête à une discussion sur le mensonge volontaire, la capacité d'agir et la relation entre savoir et tromperie. L'analyse du personnage n'est pas un témoignage sur les *Gardiens* d'Ion ; elle éclaire le problème moral auquel l'épisode se prête.
+
+Dans la *République*, les livres II–III interrogent les récits poétiques et les représentations des dieux et des héros ; le livre X met en question les effets de l'imitation poétique. Un héros dont l'excellence repose sur sa capacité à prendre une fausse apparence peut être admiré dans l'épopée et discuté philosophiquement. L'intelligence technique n'est pas par elle-même synonyme de justice.
+
+**[B]** Si le héros protège ses compagnons en mentant à l'ennemi, sa tromperie relève d'une finalité collective ; s'il manipule Hélène pour son intérêt, la même compétence devient moralement problématique. La distinction tient aux motifs et aux conséquences, précisément ce que les fragments ne donnent pas.
+
+Les gardiens posent une question inverse : faut-il croire ce que l'on voit ? Leur tâche suppose une confiance dans les signes extérieurs d'identité ; l'espion exploite cette confiance. Une lecture platonicienne met en crise la différence entre opinion fondée sur les apparences et connaissance effective.
+
+Nous ne faisons pas de Platon un commentaire historique d'Ion. Nous utilisons ses problèmes pour décrire les tensions que l'œuvre pourrait rendre pensables.
+
+## XXVI. Hegel : les appartenances contradictoires et la reconnaissance
+
+Dans ses *Leçons sur l'esthétique*, Hegel lit la tragédie grecque à partir de conflits entre forces éthiques qui peuvent chacune revendiquer une légitimité. La comparaison la plus célèbre concerne Antigone et Créon. Le présent dossier ne contient pas assez de texte pour en déduire une opposition comparable : il ne permet ni de constituer deux droits explicitement formulés ni de prouver leur nécessité tragique.
+
+**[B]** Un schéma hégélien peut cependant aider à interroger Hélène. Son existence pourrait être traversée par des obligations incompatibles : mémoire de sa famille grecque, vie à Troie, lien avec Pâris, dépendance envers Priam et responsabilité devant ceux qui souffrent de la guerre. La reconnaissance d'Ulysse peut révéler que ces appartenances ne se superposent pas.
+
+La formule fragmentaire d'ambivalence, attribuée à Hélène dans les scholies, est particulièrement suggestive : haïr, vouloir et se taire ne définissent pas une volonté unifiée. Mais l'absence du sujet grammatical interdit d'en faire une dialectique explicitement prononcée par Ion sur la cité de Troie.
+
+Le thème de la **reconnaissance** présente en outre deux niveaux distincts. Au premier, Hélène reconnaît un individu déguisé ; au second, une communauté reconnaît ou refuse l'appartenance d'une personne. Les deux sont intellectuellement liés, mais seul le premier possède un ancrage mythologique assuré, et encore ne savons-nous pas exactement comment Ion le présentait.
+
+Hegel donne ici un vocabulaire pour l'analyse critique, non un texte retrouvé ni une preuve de construction philosophique du dramaturge.
+
+## XXVII. Nietzsche : masque, apparence et choc des paroles
+
+*La Naissance de la tragédie* (1872) de Nietzsche propose des catégories modernes pour penser le rapport entre forme, musique, mythe et expérience tragique. Son opposition de l'apollinien et du dionysiaque ne saurait être prise comme un manuel ancien de mise en scène. Aucune description intégrale du chœur ni de la musique des *Gardiens* n'est conservée.
+
+**[B]** Le motif de l'espion déguisé invite pourtant à réfléchir sur le masque : Ulysse se dissimule dans une apparence fabriquée, tandis que le théâtre lui-même repose sur l'incarnation visible de figures dont l'identité est conventionnelle. L'effet dramatique possible consiste à faire reconnaître par le public un personnage que les gardiens devraient méconnaître.
+
+Le jeu de la parole et du silence, perceptible dans F 44, peut aussi ouvrir une réflexion sur la fragmentation de la volonté : l'Hélène qui reconnaît Ulysse pourrait taire son savoir, négocier ou dénoncer. Mais cette lecture ne doit pas conduire à imaginer un dialogue où Nietzsche aurait anticipé une théorie de la duplicité.
+
+Enfin, la métaphore sonore du coq de l'Ida et de la syrinx n'atteste aucune intervention de chœur dionysiaque. L'absence de partition, de métrique complète et de disposition scénographique interdit tout commentaire musical affirmatif. L'outil nietzschéen aide à mesurer l'importance possible d'un changement d'apparence ; il ne comble pas les lacunes documentaires.
+
+## XXVIII. Le savoir des gardes : politique de l'information
+
+L'espionnage met en jeu une répartition asymétrique du savoir. L'espion connaît son identité et cache sa mission. Les gardiens possèdent le pouvoir de contrôler les portes mais ne disposent pas nécessairement de l'information qui permettrait de distinguer un homme hostile d'un visiteur sans danger. Hélène, si elle reconnaît Ulysse, peut posséder une information supérieure aux deux camps.
+
+**[B]** Cette structure peut se lire comme une politique de l'information. La souveraineté d'une cité assiégée dépend de son système de surveillance, mais le passage d'un seul homme à travers ce système révèle que le contrôle des signes ne garantit pas la connaissance des intentions.
+
+La phrase de F 44 suggère, si l'on accepte une reconstruction sur la communauté troyenne, qu'un groupe peut rester indécis entre désir et haine. Elle rendrait visible la fragilité de l'accord politique : la cité est peut-être capable de contraindre ses habitants, mais incapable d'unifier leurs fidélités.
+
+Une telle analyse concerne le fonctionnement du mythe et du titre. Elle ne veut pas attribuer au Ve siècle une théorie moderne de la sécurité ou des services secrets. Les procédures de surveillance antique doivent être comprises à partir des contextes militaires et civiques dont nous disposons, pas projetées depuis les institutions contemporaines.
+
+## XXIX. L'hospitalité et le devoir envers l'étranger
+
+Le fragment F 43b interroge un **étranger** auprès d'une chambre nuptiale. Le terme invite à revenir au statut de *xenos* dans la littérature grecque : l'étranger peut être l'hôte reçu, mais aussi celui dont la présence transgresse un ordre domestique ou politique. L'épisode de Pâris à Sparte, si cette lecture du fragment était correcte, mettrait en crise l'hospitalité en faisant du visiteur un agent de rupture.
+
+La relation entre hospitalité et ruse est complexe : le même homme peut se présenter comme mendiant inoffensif pour entrer dans une ville ennemie ; une femme qui l'accueille peut lui devoir une aide ou le considérer comme une menace. Les traditions odysséennes exploitent largement l'incertitude du statut de l'arrivant.
+
+**[B]** La chambre nuptiale peut alors symboliser une limite plus profonde que les murailles. Les gardiens défendent l'espace public ; le lit matrimonial marque une frontière intime. L'intrigue possible ferait ainsi jouer deux formes de protection et deux types d'intrusion. Toutefois aucune donnée conservée ne prouve que le drame opposait explicitement ces deux espaces.
+
+Cet usage de l'image du seuil et de la porte doit rester celui d'une interprétation, non une description de décor.
+
+## XXX. Femmes et pouvoir de décider dans le cycle troyen
+
+Le récit traditionnel place Hélène au centre d'un ensemble de décisions masculines — duel, guerre, négociations, récupérations. Pourtant sa capacité de reconnaître Ulysse et de choisir ce qu'elle fait de ce savoir lui confère un rôle stratégique. La tradition de la *Petite Iliade* permet même d'envisager un accord sur la future prise de Troie.
+
+**[B]** Il serait réducteur de décrire Hélène comme simple récompense de guerre ou objet de garde. Dans la constellation mythologique retenue, elle peut aussi être celle dont le jugement détermine le sort de l'espion. Mais nous devons préserver les variantes : Euripide, dans *Hécube*, lui attribue une dénonciation à la reine, tandis que Proclus met l'accent sur un accord avec Ulysse.
+
+Les théories contemporaines du consentement, de la contrainte et de l'agentivité peuvent guider des questions pertinentes sans fournir une psychologie antique complète. Les catégories modernes ont une utilité critique lorsqu'elles rendent visible une asymétrie ; elles deviennent abusives lorsqu'elles sont présentées comme les paroles ou les convictions attestées de la tragédie d'Ion.
+
+Une monographie de pièces perdues doit résister à la tentation d'attribuer aux personnages la cohérence d'un roman moderne.
+
+## XXXI. Sophocle, les *Laconiennes* et les autres récits dramatiques de l'espion
+
+Le dossier des *Laconiennes* de Sophocle est souvent rapproché d'une tradition mettant en jeu Hélène et Ulysse. Le titre suggère un groupe féminin originaire de Laconie. Il ne prouve pas une identité de sujet avec les *Gardiens*. De même, des hypothèses anciennes ont rapproché *Ptocheia* (« La Mendicité ») de la scène de l'espion déguisé ; ces attributions ont été discutées et ne peuvent être utilisées pour fusionner des tragédies distinctes.
+
+Une autre comparaison, plus sensible historiquement, concerne la pièce *Rhésos*, transmise sous le nom d'Euripide, dont l'attribution est discutée. Vers **501–507**, un épisode d'Ulysse infiltré dans Troie est évoqué. Ce texte montre une circulation dramatique de la tradition de l'espionnage, non une scène identique chez Ion.
+
+Enfin, la comédie d'Épicharme *Ulysse déserteur* (*Odysseus Automolos*) a été rapprochée de cette matière mythique. Le changement de genre modifie les effets : l'infiltration peut devenir un prétexte à des situations de nourriture, d'hospitalité ou de tromperie comique. Il ne serait pas méthodiquement juste d'importer ces accessoires dans les *Gardiens* sans témoignage.
+
+Cette constellation de textes atteste la richesse de l'épisode mythologique. Elle confirme surtout que « même mythe » ne signifie ni « même œuvre » ni « même structure dramaturgique ».
+
+## XXXII. L'image du héros : ruse, courage et faiblesse
+
+La tradition grecque accorde à Ulysse la valeur de la *mêtis*, intelligence souple capable d'anticiper des réactions et de retourner des situations. Cette capacité peut être louée lorsqu'elle protège un groupe ; elle peut devenir suspecte lorsqu'elle détruit la confiance ou inverse les obligations morales. Les versions du cycle épique et du théâtre utilisent ces deux aspects.
+
+**[B]** Les *Gardiens* pourraient représenter un Ulysse vulnérable, exposé au danger de découverte, plutôt qu'un stratège contrôlant absolument l'action. Le masque du pauvre, la fausse identité et la nécessité de demander grâce peuvent révéler la fragilité du héros. Mais la version de son humiliation devant Hécube est propre au témoignage euripidéen et ne peut être transférée sans preuve à Ion.
+
+La reconnaissance par Hélène formerait, dans ce schéma, un moment où la ruse cesse de fonctionner comme simple camouflage : le secret ne subsiste plus grâce au déguisement, mais grâce à la décision de celle qui l'a découvert. Une compétence personnelle devient dépendance à autrui.
+
+Cette distinction permet d'interpréter le tragique éventuel de l'espion, sans présumer qu'Ion condamnait ou glorifiait son héros.
+
+## XXXIII. Le paradoxe du chœur : ceux qui voient mal
+
+Un titre pluriel est susceptible de désigner le chœur, comme dans de nombreuses œuvres grecques ; la correspondance n'est pourtant pas obligatoire. Si les gardiens composaient le chœur, le public pourrait les voir surveiller une action dont ils ignorent les véritables enjeux. Le chœur se trouverait alors entre le pouvoir de garder et l'impuissance à déchiffrer les ruses.
+
+**[C]** C'est une hypothèse dramatique très suggestive. Elle ne peut devenir une affirmation matérielle. Nous ignorons les paroles chorales, le nombre de choristes, leur origine troyenne éventuelle, leurs costumes, leur emplacement et leurs gestes. Le fragment du coq ne fournit pas une partition ; celui du poste de guet ne prouve pas que le chœur soit situé sur les remparts.
+
+Un chœur de sentinelles pourrait, en principe, hésiter entre l'obéissance à son supérieur, le respect de l'étranger et la peur d'être puni. Mais ce dilemme n'a pas été conservé. Nous le présentons comme un outil de comparaison dramaturgique, pas comme le mouvement moral de l'œuvre.
+
+La véritable valeur du titre tient à ce qu'il place le collectif dans le champ d'attention du lecteur, même lorsque la mémoire épique a choisi de retenir essentiellement le héros Ulysse.
+
+## XXXIV. Temporalité politique : qui a le temps de juger ?
+
+La reconnaissance et le secret sont des événements dépendants du moment. Une information vaut différemment avant ou après l'aube ; une décision prend une autre signification avant ou après l'arrivée des soldats. Le signal sonore du F 45 peut donc être étudié comme un marqueur de temporalité, même si sa fonction exacte est discutée.
+
+**[B]** Une lecture politique pourrait opposer la précipitation imposée par la guerre à l'exigence d'un jugement juste. Hélène n'a peut-être pas le luxe de comparer toutes les conséquences ; les gardiens doivent parfois choisir à partir d'apparences. Dans ces conditions, la ruse d'Ulysse exploite moins leur stupidité qu'une faiblesse générale de la décision sous contrainte de temps.
+
+Il serait cependant excessif d'en faire un « message » de l'auteur. Le fragment ne nomme ni le *kairos* ni une théorie du jugement. Ce raisonnement sert à mettre en relation les motifs disponibles.
+
+## XXXV. Lecture comparée prudente : espionnage et reconnaissance ailleurs
+
+Les récits de déguisement et de reconnaissance existent dans de nombreuses traditions. Dans l'*Odyssée*, Ulysse revient incognito à Ithaque et doit être reconnu par différents personnages ; dans certaines traditions tragiques, les signes corporels et les objets servent à révéler l'identité. La comparaison avec les *Choéphores* d'Eschyle est utile pour les processus de reconnaissance, mais les objectifs et les situations sont différents.
+
+**[D]** Les ruses d'infiltration figurent également dans des traditions proche-orientales et dans des récits historiques de sièges. Il serait pourtant infondé de proposer, sans voie de transmission démontrée, une influence précise de textes mésopotamiens, égyptiens ou perses sur la scène d'Ion. La présence générale de déguisements ne suffit pas à établir une dépendance littéraire.
+
+Les comparaisons les plus solides sont internes au monde grec et documentées chronologiquement : *Odyssée*, Cycle épique, *Hécube*, *Rhésos*, scholies aristophaniennes. Une lecture mythologique n'est prudente que si elle conserve les écarts entre ces traditions.
+
+## XXXVI. Iconographie sourcée : Hélène et Ménélas, non Ulysse chez Ion
+
+Les images antiques de la guerre de Troie sont nombreuses, mais aucun objet examiné n'atteste une scène précise des *Gardiens*. Pour illustrer l'environnement mythique d'Hélène sans inventer une représentation de la pièce, on peut prendre pour document **l'amphore attique à figures rouges du British Museum**, **numéro 1867,0508.1051**, montrant Ménélas poursuivant Hélène. L'objet est catalogué par le musée à l'adresse https://www.britishmuseum.org/collection/object/G_1867-0508-1051.
+
+Le vase est un **document iconographique du cycle d'Hélène**, non un témoin de la conversation d'Hélène et d'Ulysse dans la tragédie d'Ion. Il ne faut ni en tirer un costume de scène ni le traiter comme un reflet photographique d'une représentation du Ve siècle. La différence d'épisode — rencontre avec Ménélas plutôt qu'avec Ulysse — est expressément conservée.
+
+Une autre référence, **cratère à figures rouges du peintre de Ménélas**, Louvre **G 424**, représente également une scène liée au retour d'Hélène vers Ménélas. L'identification des figures et la datation de l'objet doivent être contrôlées dans le catalogue muséal pour toute insertion d'image dans la galerie ; aucun fichier de reproduction n'est ajouté sans ce contrôle. Même si une image porte les noms des héros, elle ne suffit pas à attester un décor d'Ion.
+
+Le principe éditorial est celui d'Oliver Taplin, *Pots & Plays* (Getty Museum, 2007) : la relation d'un vase à un spectacle demande des arguments positifs, elle ne découle pas de la simple présence des mêmes personnages.
+
+## XXXVII. Réception et hypothèses savantes : Stevens, Clarke, West, Dooley
+
+Alexander Stevens, « Ion of Chios: Tragedy as Commodity at the Athenian Exchange », dans *The World of Ion of Chios* (2007), p. **243–265**, replace les fragments tragiques dans une culture de compétition et d'appropriation de l'héritage homérique. La documentation des *Gardiens* lui sert à décrire l'originalité du langage d'Ion et sa participation à une poésie panhellénique.
+
+Michael Clarke, « Snowy Helen and Bull-Faced Wine: Ion and the Logic of Poetic Language », même volume, p. **206–216**, étudie les formules surprenantes de l'auteur. Il aide à comprendre pourquoi l'épithète neigeuse du F 46 n'est pas un simple adjectif décoratif ni un indice iconographique immédiat.
+
+Daniel Dooley, *Greek Tragedy and the Epic Cycle: Narrative Tradition, Texts, Fragments*, dissertation, Johns Hopkins University, **2017**, chapitre **3.5**, p. **218–229**, examine en détail la mission d'Ulysse à Troie et les reconstitutions possibles de *Phrouroi*. Son commentaire traite les leçons alternatives des fragments F 43b–c, la phrase d'Hélène, le coq de l'Ida et les divergences entre Proclus et Euripide. Ses propositions sont explicitement discutables ; l'ouvrage ne prétend pas avoir retrouvé la pièce.
+
+M. L. West intervient à plusieurs niveaux : comme éditeur et interprète de traditions épiques, comme auteur d'une étude sur Ion (1985), et comme auteur de corrections textuelles discutées pour les deux fragments du palimpseste. Une correction ingénieuse n'est pas la lecture primitive assurée ; sa valeur réside dans la capacité de rendre compte à la fois de la langue et du contexte sans supprimer les données contraires.
+
+Les études anciennes de Nauck, Snell, Blumenthal et Wilamowitz ne forment pas une autorité unique. Elles constituent une histoire des problèmes. Leurs différences doivent être maintenues : Hécube est-elle le sujet sous-entendu de la réplique d'Hélène ? L'instrument représente-t-il le coq ou l'inverse ? Le passage de la chambre parle-t-il de Pâris, d'Ulysse ou d'un autre étranger ? Les réponses sont discutées et demeurent révisables.
+
+## XXXVIII. Appareil critique : notes sur les témoins primaires
+
+**Note 1 — Concordance des neuf fragments.** *FragTrag.1*, Université de Patras, Ion, entrée « 11. Φρουροί », frr. 51–59 ; colonnes de concordance avec TrGF I, F 43b, F 43c, F 44, F 45, F 46, F 47, F 48, F 49, F 49a. URL : https://fragtrag1.upatras.gr/exist/apps/fragtrag/indexc.html. L'outil fournit une correspondance de numérotation, non un ordre dramatique.
+
+**Note 2 — Palimpseste d'Hérodien.** Les frr. 43b et 43c sont discutés par Dooley (2017), p. 220–222 ; ils remontent à des citations du grammairien Hérodien. Pour F 43b, la variante ξένον / ξένος doit rester visible ; pour F 43c, l'opposition ἅβρα / αὔρα et l'attribution du locuteur demeurent des questions ouvertes.
+
+**Note 3 — Scholie à Aristophane.** Scholie aux *Grenouilles* **1425** : attribution à Ion d'une parole d'Hélène à Ulysse, parallèle à la phrase comique sur Alcibiade et la cité athénienne. Ne pas confondre le vers parodié et sa reformulation chez Aristophane.
+
+**Note 4 — Athénée.** *Deipnosophistes* **IV 185a**, citation de F 45 et commentaire sur le « coq de l'Ida » et la syrinx. La ponctuation et le rôle du sujet figurent parmi les problèmes de l'édition. Dooley discute Kaibel, Nauck, Wilamowitz et une autre lecture possible.
+
+**Note 5 — Hésychios.** Entrée **ν 601**, à rapprocher de l'épithète νιφόεσσα' Ἑλένη, F 46 : élément de lexicographie, non didascalie décrivant une arrivée sur scène.
+
+**Note 6 — Homère.** *Odyssée* IV, **240–264**, récit d'Hélène sur Ulysse déguisé ; *Iliade* X pour le monde de la reconnaissance et de la mission nocturne ; citations à contrôler dans une édition d'Homère. Ces passages ne sont pas des vers d'Ion.
+
+**Note 7 — Cycle épique.** Proclus, résumé de la ***Petite Iliade*** dans la *Chrestomathie* : entrée clandestine d'Ulysse à Troie, reconnaissance par Hélène et accord sur la prise de la ville. Le statut de ce résumé tardif interdit d'en faire un livret exact de la tragédie.
+
+**Note 8 — Euripide.** *Hécube* **239–257**, évocation d'Ulysse en espion et de sa reconnaissance par Hélène, puis de la supplique à Hécube. Version distincte de la tradition ; l'apparition de cette reine dans *Phrouroi* n'est pas attestée.
+
+**Note 9 — Œuvres théâtrales en comparaison.** *Rhésos* **501–507** (attribution euripidéenne discutée) et *Laconiennes* de Sophocle (pièce perdue). Les rapprochements ne prouvent ni identité d'intrigue ni représentation commune.
+
+**Note 10 — Fragments non assignés.** Certains poèmes d'Ion sans titre conservé évoquent un oiseau blessé, l'aube ou le combat ; Dooley suggère que quelques-uns pourraient convenir au contexte des *Gardiens*. Leur localisation sous la rubrique des pièces non identifiées reste la référence canonique tant qu'une attribution n'est pas démontrée.
+
+## XXXIX. Bibliographie scientifique, éditions et ressources vérifiées
+
+### A. Éditions, concordances et corpus
+
+1. **Bruno Snell** (éd.), *Tragicorum Graecorum Fragmenta*, vol. I, *Didascaliae tragicae, Catalogi tragicorum et tragoediarum, Testimonia et fragmenta tragicorum minorum*, Göttingen, Vandenhoeck & Ruprecht, édition de référence pour le corpus des tragiques mineurs ; voir l'auteur **Ion** et les références **F 43b–49a**. Ne pas confondre les numéros du corpus TrGF avec ceux de FragTrag.
+2. **August Nauck** (éd.), *Tragicorum Graecorum Fragmenta*, 2e éd., Leipzig, Teubner, **1889**, pour Ion **p. 732–746**, particulièrement *Phrouroi*, **p. 741–742**. Notice Perseus Catalog : https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0308.tlg001.opp-grc1.
+3. **Luigi Leurini** (éd.), *Ionis Chii Testimonia et Fragmenta*, 2e éd., Amsterdam, **2000**, collection *Classical and Byzantine Monographs*, no 23 ; édition générale des témoignages d'Ion, avec un classement distinct de celui de TrGF.
+4. **FragTrag.1**, Université de Patras, « Ion — 11. Φρουροί », frr. 51–59, concordance en ligne : https://fragtrag1.upatras.gr/exist/apps/fragtrag/indexc.html.
+5. **Eulogikon**, *Ion of Chios Fragments on Heracles and Omphale in Greek* : https://eulogikon.org/works/ion-chios-heracles-omphale-ccg-ac. **Attention critique** : malgré le titre de la page, la transcription contient les séries de plusieurs œuvres et d'autres fragments d'Ion ; la rubrique F 43b–49a ne doit pas être reclassée comme *Omphale*. Cette compilation ne remplace pas TrGF et ne constitue pas l'apparat manuscrit.
+
+### B. Études directement utiles aux *Gardiens*
+
+6. **Victoria Jennings et Andrea Katsaros** (dir.), *The World of Ion of Chios*, Leiden/Boston, Brill, **2007**, *Mnemosyne Supplements* **288**. Études et concordances, particulièrement p. 206–216, 243–265 et 383–389. Compte rendu critique de Hakan Tell, *Bryn Mawr Classical Review* **2008.10.13** : https://bmcr.brynmawr.edu/2008/2008.10.13/.
+7. **Alexander Stevens**, « Ion of Chios: Tragedy as Commodity at the Athenian Exchange », dans Jennings et Katsaros (dir.), *The World of Ion of Chios*, **2007**, p. **243–265**. Analyse notamment l'usage des traditions homériques dans *Phrouroi* ; lecture contextualisée et non restitution intégrale du texte perdu.
+8. **Michael Clarke**, « Snowy Helen and Bull-Faced Wine: Ion and the Logic of Poetic Language », même ouvrage, **2007**, p. **206–216**, pour les épithètes et le langage non conventionnel.
+9. **Daniel Dooley**, *Greek Tragedy and the Epic Cycle: Narrative Tradition, Texts, Fragments*, dissertation de doctorat, **Johns Hopkins University**, Baltimore, **octobre 2017**, § 3.5 « Odysseus in Troy », p. **218–229**. Texte institutionnel : https://jscholarship.library.jhu.edu/server/api/core/bitstreams/bc073c2e-54d8-41b9-8df1-ece0deb82aa7/content. Discussion de la tradition cyclique, des leçons de F 43b–c, de F 44, F 45 et de l'*Hécube* d'Euripide.
+10. **M. L. West**, « Ion of Chios », *Bulletin of the Institute of Classical Studies*, **32** (**1985**), p. **71–78**. Étude philologique générale à ne pas assimiler à une restitution définitive des *Gardiens*.
+11. **Felix Jacoby**, « Some Remarks on Ion of Chios », *The Classical Quarterly* **41** (**1947**), p. **1–17**. Article sur l'auteur et les problèmes de la tradition.
+12. **Albrecht von Blumenthal**, *Ion von Chios. Die Reste seiner Werke*, Stuttgart, **1939**, travail ancien de rassemblement des témoignages et fragments.
+13. **Hakan Tell**, compte rendu du recueil Jennings–Katsaros, *Bryn Mawr Classical Review*, **2008.10.13**, https://bmcr.brynmawr.edu/2008/2008.10.13/ ; utile pour la cartographie des débats et la distinction entre genres.
+
+### C. Textes antiques comparatifs
+
+14. **Homère**, *Odyssée*, chant IV, épisode d'Hélène reconnaissant Ulysse déguisé ; *Iliade*, chant X, tradition de l'expédition nocturne. Toute comparaison est distincte de l'attribution des mots à Ion.
+15. **Proclus**, *Chrestomathie*, résumé de la *Petite Iliade*, sous les fragments du Cycle épique ; comparaisons avec *Greek Epic Fragments* de **M. L. West**, Cambridge (Mass.), Harvard University Press, **2003**.
+16. **Aristophane**, *Les Grenouilles*, **1423–1432**, et scholie au v. **1425** ; contrôler le texte et la distribution des répliques dans les éditions critiques modernes.
+17. **Euripide**, *Hécube*, **239–257**, scène d'Hécube et d'Ulysse ; comparaison d'une version tragique distincte.
+18. **Athénée**, *Deipnosophistes* **IV 185a**, pour le passage de l'Ida, du coq et de la syrinx.
+19. **Aristote**, *Poétique* **1450a**, **1452a**, **1459b**, pour la structure de la tragédie, la reconnaissance et les sources cycliques.
+20. **Platon**, *Hippias mineur* et *République* II–III et X, pour le problème du mensonge et de la représentation.
+21. **Euripide [?]**, *Rhésos*, **501–507**, avec réserve explicite sur l'attribution à Euripide.
+
+### D. Philosophie moderne et méthodes
+
+22. **G. W. F. Hegel**, *Leçons sur l'esthétique*, développements sur la tragédie antique et les puissances éthiques : commentaire philosophique moderne, non source de l'intrigue d'Ion.
+23. **Friedrich Nietzsche**, *La Naissance de la tragédie* (**1872**) : interprétation moderne du tragique, de la musique et de l'apparence ; aucune partition d'Ion n'en découle.
+24. **Jean-Pierre Vernant et Pierre Vidal-Naquet**, *Mythe et tragédie en Grèce ancienne*, Paris, Maspero/La Découverte, **1972**, puis travaux et volumes ultérieurs : étude des catégories civiques et symboliques, à employer sans projeter un argument perdu dans une pièce conservée par fragments.
+25. **Oliver Taplin**, *Pots & Plays: Interactions between Tragedy and Greek Vase-Painting of the Fourth Century B.C.*, Los Angeles, J. Paul Getty Museum, **2007** : précautions quant aux liens entre iconographie et spectacle.
+
+### E. Catalogue iconographique
+
+26. **British Museum**, amphore attique à figures rouges, inv. **1867,0508.1051**, scène de Ménélas et Hélène : https://www.britishmuseum.org/collection/object/G_1867-0508-1051. L'objet documente une tradition figurée relative à Hélène, **pas** la représentation des *Gardiens*.
+
+## XL. Conclusion : à qui appartient le secret ?
+
+*Les Gardiens* conserve une identité littéraire plus nette que la plupart des tragédies extrêmement lacunaires. Nous disposons d'un titre collectif, de neuf références fragmentaires concordantes, d'un indice explicite sur Hélène parlant à Ulysse, de questions sur un étranger près de la chambre nuptiale, d'un guet et d'une métaphore sonore. La tradition cyclique et les parallèles de l'*Odyssée* ou de l'*Hécube* permettent d'esquisser la constellation dans laquelle ces vestiges sont intelligibles.
+
+L'enjeu intellectuel central peut être décrit ainsi : les gardiens possèdent le pouvoir de contrôler l'accès, Ulysse possède le savoir qui rend possible la dissimulation, Hélène pourrait détenir la capacité de révéler ou de préserver le secret. La tragédie, si elle mettait en scène ce triangle, interrogerait le rapport instable entre force, connaissance, reconnaissance et loyauté. **Mais cette construction est notre modèle critique ; elle n'est pas le texte retrouvé d'Ion.**
+
+Les rapprochements avec Platon, Hegel et Nietzsche révèlent des problèmes généraux : vérité des apparences, appartenance contradictoire et puissance du masque. Ils ne permettent ni d'assigner à Ion une doctrine philosophique ni de disposer ses fragments dans une chronologie d'actes. Les neuf fragments résistent à ce genre de totalisation.
+
+La contribution durable de la monographie réside donc dans la clarification des sources et des limites : une table de concordance scientifiquement contrôlée, l'examen critique des leçons du palimpseste, le repérage de la scholie aristophanienne, le problème musical d'Athénée, la séparation des traditions d'infiltration et les degrés de certitude exposés pour chaque reconstruction.
+
+Le seul numéro valable de cette étude sera celui que la file transactionnelle GitHub lui attribuera en même temps que son reçu. Aucun manuscrit antérieur, aucun numéro, aucune archive historique, aucun article WordPress et aucune planification n'est modifié par la présente demande.
+
+**Fin de la monographie.**

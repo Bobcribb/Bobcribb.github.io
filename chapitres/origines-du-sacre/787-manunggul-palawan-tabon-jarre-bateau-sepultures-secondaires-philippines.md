@@ -1,0 +1,317 @@
+# MYTHOS — Les Origines du sacré — Chapitre 787
+
+## Manunggul et les grottes de Tabon : jarre funéraire au bateau, dépôts secondaires et images de l'au-delà à Palawan
+
+*Monographie universitaire originale — 7 novembre 2026. Archéologie philippine, chronométrie des grottes, techniques céramiques, iconographie des morts, critique muséale, réseaux maritimes et comparaisons philosophiques. Soumission publique non numérotée à la file éditoriale MYTHOS.*
+
+### Résumé analytique
+
+Une grande jarre de terre cuite, dont le couvercle porte deux personnages installés dans une embarcation, est devenue l'un des emblèmes les plus célèbres du patrimoine archéologique philippin. Découverte dans la grotte de Manunggul, à Lipuun Point, sur l'île de Palawan, cette pièce appartient à un horizon funéraire de la fin du Néolithique. Elle est souvent décrite comme l'image d'un transport des âmes vers l'autre monde. La lecture est suggestive : deux figures, une embarcation, un dépôt de restes humains et une tradition de sépultures secondaires se trouvent réunis. Mais la représentation ne livre pas la parole du potier ni le nom d'une divinité ; elle doit être traitée comme un témoignage iconographique à interpréter et non comme un récit funéraire écrit.
+
+Cette étude replace la jarre dans le complexe des grottes de Tabon, dont la documentation fut constituée principalement par les équipes du Musée national des Philippines sous la direction de Robert B. Fox, à partir de 1962. La publication de Fox en 1970 reste une source fondamentale pour les ensembles de Manunggul, Duyong, Uyaw, Pagayona et Tadyaw. Les analyses plus récentes de David Bulbeck montrent que les traditions d'inhumation en jarre de l'archipel ne se réduisent pas à un même système d'idées. Elles comprennent des dépôts primaires et secondaires, des poteries très variées et plusieurs horizons chronologiques.
+
+Deux ensembles de Manunggul sont particulièrement importants. La chambre A a livré des jarres ornées et des dépôts secondaires associés à des dates radiocarbone conventionnelles autour de 890 et 710 avant notre ère, avec des intervalles calibrés plus étendus. La chambre B appartient à une phase plus récente, dont une date sur charbon se situe autour de 190 avant notre ère, et fournit des ensembles comprenant fer, verre et cornaline. La différence interdit de transformer toutes les trouvailles de la grotte en un seul instant de l'histoire sacrée.
+
+**Thèse :** l'importance du couvercle de Manunggul ne tient pas à la découverte certaine d'un mythe identifiable, mais à la convergence de pratiques mortuaires et d'une image qui semble inviter à concevoir la mort comme passage. Sa signification demeure partiellement ouverte. La discipline historique doit conserver ensemble l'objet, le contexte de dépôt, les traditions de comparaison et les limites des sources.
+
+### I. L'île de Palawan : géographie d'un corridor maritime
+
+Palawan est une longue île située entre la mer de Chine méridionale et les mers intérieures philippines. Son relief karstique et ses zones côtières comprennent des cavités utilisées à différentes périodes pour l'habitat, les activités quotidiennes et l'inhumation. La circulation maritime rend plausible la présence d'échanges et de déplacements, sans qu'il soit possible de reconstituer toutes les routes anciennes à partir d'un objet isolé.
+
+Le complexe de Lipuun Point se trouve près de Quezon, dans le sud-ouest de l'île. Les grottes sont des espaces distincts, bien que souvent regroupés sous l'appellation « Tabon Caves ». La célèbre jarre provient de Manunggul Cave, qui ne doit pas être confondue avec la grotte de Tabon ayant livré d'importants restes humains pléistocènes.
+
+La topographie actuelle intègre des aménagements de conservation et de visite. Elle ne doit pas être utilisée comme photographie directe des paysages des Ier et IIe millénaires avant notre ère, lorsque niveaux marins, ressources et circulations pouvaient différer.
+
+### II. Une réserve archéologique, et non un site unique
+
+Le Musée national des Philippines présente Lipuun Point comme un complexe de grottes ayant servi à l'habitat et à la mort. Les prospections et fouilles menées entre 1962 et 1965 ont identifié des ensembles de mobilier de périodes distinctes ; d'autres campagnes ont prolongé la recherche. La réserve fut protégée au moyen d'un acte officiel en 1972.
+
+Un nom de musée peut regrouper des sites différents. Il n'est donc pas scientifiquement suffisant d'écrire « découverte à Tabon » sans préciser la cavité, la chambre et l'assemblage. La confusion entre une tombe néolithique, un foyer paléolithique et une jarre de l'âge des métaux produit une chronologie incohérente.
+
+La conservation actuelle permet l'étude des objets mais ne remplace pas le registre stratigraphique de leur extraction. Une jarre restaurée constitue un objet à la fois archéologique et muséal, traversé par des interventions modernes.
+
+### III. Premières investigations, connaissances locales et fouilles
+
+La recherche de Robert B. Fox fut organisée par le Musée national des Philippines et mobilisa des équipes de prospection, de fouille et de classement. Le Musée a rappelé en 2022 que des informations communiquées par des habitants pala'wan contribuèrent aux recherches conduisant à l'exploration des cavités de Lipuun Point. L'histoire d'une découverte institutionnelle ne doit pas effacer les savoirs locaux sur les lieux.
+
+La période 1962-1965 constitua un moment décisif pour l'identification des assemblages funéraires et des restes humains. Le catalogue actuel du Musée national répertorie l'ouvrage de Fox, *The Tabon Caves: Archaeological Explorations and Excavations on Palawan Island, Philippines* (1970), comme une monographie fondamentale.
+
+Les notices de musée et les synthèses ultérieures peuvent donner des résumés fiables de cette recherche, mais elles ne doivent pas être comptées comme autant de fouilles indépendantes. Pour toute attribution précise, on doit revenir aux planches, tableaux et numéros d'échantillons du rapport originel.
+
+### IV. Deux histoires humaines différentes dans le même massif
+
+La grotte de Tabon a livré des traces humaines et industrielles beaucoup plus anciennes que les jarres funéraires. Les restes paléolithiques, les outils de pierre et les foyers ne prouvent pas que la représentation du bateau sur le couvercle de Manunggul appartenait aux croyances des premiers occupants du massif.
+
+Le principe méthodologique est important : le voisinage géographique n'est pas une continuité culturelle de dizaines de millénaires. Des groupes successifs ont pu connaître les mêmes abris sans partager les mêmes langues, techniques et pratiques de mort.
+
+Le thème des « origines du sacré » ne doit pas conduire à chercher une religion unique traversant toutes les occupations de Palawan. Il faut traiter séparément chacune des séquences datées avant d'envisager des rapprochements.
+
+### V. Manunggul A : un horizon néolithique funéraire
+
+La chambre A de Manunggul est associée dans la publication de Fox à des jarres funéraires ornées et à des dépôts de restes humains secondaires. Des récipients plus petits et des parures de pierre, de coquillage ou d'autres matériaux constituent une part du mobilier des ensembles étudiés.
+
+David Bulbeck rappelle que les dates radiocarbone conventionnelles produites sur charbons de la chambre A sont 891 ± 80 et 711 ± 80 avant notre ère. Leur calibration donne des intervalles plus larges, qui doivent être conservés au lieu d'inventer une année précise de fabrication.
+
+Un charbon associé à un ensemble funéraire date l'échantillon et non directement la cuisson du vase ou l'exécution de son décor. La publication doit donc décrire une chronologie probable des dépôts et non un « anniversaire » de la jarre au bateau.
+
+### VI. Manunggul B : d'autres usages, d'autres matériaux
+
+La chambre B livre une autre série, avec des pots moins ornés selon la classification utilisée et des objets de fer, de verre et de cornaline. Une date conventionnelle autour de 191 ± 100 avant notre ère y a été rapportée sur charbon. Les intervalles calibrés chevauchent les derniers siècles avant et les débuts possibles de notre ère.
+
+L'écart de mobilier montre la transformation des réseaux et des techniques dans les phases tardives des grottes. Il ne prouve pas qu'une « religion néolithique » fut remplacée par une religion métallurgique, ni que les habitants se succédèrent sans aucun lien.
+
+La comparaison entre les chambres A et B exige la prise en compte de la stratigraphie, de la perturbation des couches et des différences d'assemblage. Le terme « Manunggul » ne désigne pas un seul type de rite à toutes les époques.
+
+### VII. Une chronologie par association, avec ses limites
+
+Robert Fox et ses collaborateurs ont employé des comparaisons de formes céramiques, des associations avec des objets de pierre ou de métal et des datations radiocarbone. Ces méthodes étaient appropriées à l'époque mais leur précision varie d'un ensemble à l'autre.
+
+Bulbeck rappelle que beaucoup de dépôts en grotte sont relativement superficiels et que les séquences stratifiées sont souvent moins nettes que dans des habitats de plein air. Une jarre déposée sur un ancien sol peut être plus récente que les charbons contenus dans une couche plus profonde.
+
+La qualité d'une chronologie dépend de l'intégrité du contexte et de la possibilité de relier un échantillon au geste étudié. Une date associée au sol d'une grotte ne suffit pas à dater toutes ses sépultures.
+
+### VIII. L'objet majeur : corps, couvercle et décor
+
+La jarre funéraire de Manunggul est un récipient céramique richement orné. Le Cultural Center of the Philippines précise des dimensions d'environ 66,5 cm de hauteur et 51,5 cm de largeur pour l'objet présenté par le Musée national. Le corps comporte des motifs curvilignes travaillés et des accents colorés, tandis que le couvercle porte un petit groupe sculpté.
+
+Il faut distinguer la partie fonctionnelle du récipient, son décor et le traitement des corps qu'il contenait. Le pot représente une solution technique d'enfouissement ou de dépôt ; le couvercle introduit une scène figurée dont les relations au rite doivent être inférées.
+
+Une restauration peut rendre l'objet lisible en réunissant des fragments. La description scientifique devrait préciser les parties originales, les éventuelles reconstitutions, les techniques de fixation et les conditions de prise de vue. L'image muséale ne remplace pas le plan de la fouille.
+
+### IX. Deux figures dans une embarcation : la description première
+
+Le couvercle porte deux petites figures humaines installées dans un bateau. L'une est souvent décrite avec les bras repliés sur la poitrine, tandis que l'autre tient une pagaie ou paraît conduire l'embarcation. La proue comporte une forme interprétée comme un visage. Ces observations morphologiques constituent le premier niveau de lecture.
+
+L'interprétation populaire et muséale les identifie à des âmes transportées vers l'au-delà. Elle trouve un appui vraisemblable dans le contexte funéraire. Mais les deux figures ne sont pas accompagnées d'une inscription qui nommerait le mort, le passeur ou la destination.
+
+Une analyse rigoureuse sépare donc description (« deux figures dans un bateau »), hypothèse fonctionnelle (« scène de passage associée à la mort ») et attribution doctrinale (« croyance spécifique en un fleuve d'outre-tombe »). La dernière n'est pas démontrée par la seule image.
+
+### X. La figure aux bras croisés : gestes et conventions
+
+La posture d'une figure aux bras ramenés sur le torse est fréquemment expliquée comme celle d'un défunt, opposée au personnage qui dirige l'embarcation. Cette lecture est plausible par l'association au contenant funéraire. Elle n'est toutefois pas la seule imaginable : la posture peut appartenir à une convention de représentation dont le sens exact échappe au spectateur moderne.
+
+Il faut éviter d'attribuer un sexe, un âge, un rang ou une identité divine sans indices morphologiques suffisants. Les proportions stylisées ne fournissent pas un portrait biologique fidèle.
+
+La description devrait également conserver les éventuelles altérations de surface et les interventions de restauration. La scène semble narrative, mais aucun récit oral contemporain du dépôt n'a été conservé.
+
+### XI. La figure à la pagaie : un passeur sans nom
+
+L'autre personnage est généralement décrit comme celui qui conduit le bateau. Dans bien des traditions historiques, un passage aquatique peut symboliser le franchissement d'une frontière entre les vivants et les morts. Les comparaisons avec Charon en Grèce ancienne sont tentantes, mais elles doivent rester typologiques.
+
+À Manunggul, aucun texte ne permet de nommer un passeur, une rivière ou un prix du passage. Il serait donc erroné d'utiliser les traditions grecques pour compléter l'iconographie philippine et prétendre restituer une doctrine perdue.
+
+L'image a cependant un pouvoir d'interrogation : elle associe un geste de direction à une figure plus immobile et à un contexte mortuaire. Ces relations suffisent à soutenir une analyse du voyage figuré sans inventer un panthéon.
+
+### XII. Le visage de proue : image protectrice ou solution plastique ?
+
+La proue porte un visage ou une forme anthropomorphe selon les notices de l'objet. On pourrait y voir une image de protection, une personnification du bateau ou un motif décoratif. Aucune de ces lectures n'est certaine sans série comparative pertinente.
+
+Le danger est de transformer toute figure inhabituelle en « esprit ». Les artistes peuvent modeler des formes complexes sans vouloir représenter une divinité. L'interprétation gagne à examiner les autres représentations d'embarcations et les types de sculpture contemporains dans la région.
+
+Ce point est essentiel pour la philosophie du sacré : les images peuvent servir à fabriquer des relations symboliques, mais elles ne se laissent pas immédiatement traduire en concepts religieux familiers.
+
+### XIII. Le décor curviligne : technique et sens
+
+Le corps du vase comporte des motifs incisés et imprimés, certains rehaussés d'un pigment rouge. Le Cultural Center of the Philippines décrit l'emploi d'hématite dans le traitement coloré. Les techniques de tracé doivent être examinées à la lumière des chaînes opératoires céramiques documentées à Palawan.
+
+Il est tentant de voir dans chaque spirale un symbole de l'océan, du souffle ou du mouvement des âmes. Cette lecture n'est pas contenue dans le décor. Il faudrait démontrer que ces formes possèdent un sens stable dans un corpus contemporain comparable, idéalement avec des associations répétées dans des contextes funéraires.
+
+Le prestige esthétique de la jarre ne suffit pas à affirmer qu'elle était réservée aux membres d'une élite sacerdotale. Les savoir-faire d'un potier et le statut du défunt sont deux problèmes distincts.
+
+### XIV. La couleur rouge : hématite, corps et comparaison
+
+L'hématite peut servir à produire des pigments rouges sur la céramique et, dans plusieurs traditions anciennes, sur des os ou des sols. Les synthèses de Fox mentionnent des restes humains parfois traités avec de l'hématite dans des contextes de sépultures en jarres du complexe de Tabon.
+
+La signification doit pourtant être déterminée dans chaque situation. Un pigment peut rehausser un décor, marquer un os, colorer un textile disparu ou participer à une préparation rituelle. Aucun de ces usages n'établit automatiquement l'existence d'une doctrine du sang ou de la renaissance.
+
+La comparaison avec les sépultures à ocre de l'Europe préhistorique et de l'Afrique du Nord ne doit pas effacer les différences de période, de matière et de contexte. Il n'existe pas une religion universelle de la couleur rouge attestée par ces seules associations.
+
+### XV. La sépulture secondaire : plusieurs temps pour un mort
+
+Le Musée national des Philippines définit les sépultures secondaires en jarres comme des dépôts d'ossements réunis après un premier traitement du corps. Cette forme est fréquente dans les ensembles de l'âge des métaux de l'archipel et elle est attestée à Manunggul.
+
+Un tel dispositif suppose parfois une succession d'étapes. Le corps peut avoir été placé ailleurs pendant la décomposition, puis certains os recueillis et redéposés. Les processus exacts doivent être établis par la taphonomie : présence et position des os, traces de découpe, fragmentation et choix anatomiques.
+
+La notion d'« entrée définitive dans l'au-delà » n'est pas donnée par les os. Les rituels secondaires peuvent avoir des significations très diverses ; leur chronologie matérielle demeure plus accessible que leurs justifications théologiques.
+
+### XVI. Les jarres ne contiennent pas toujours un groupe collectif
+
+Le terme de « jarre funéraire » ne doit pas être associé automatiquement à un dépôt de plusieurs individus. D'après les comparaisons de Fox et les analyses rapportées par Bulbeck, de nombreux vases funéraires du complexe de Tabon semblent avoir contenu les restes d'une seule personne, même si des exceptions sont documentées.
+
+L'identification du nombre minimal d'individus dépend de la répétition des éléments osseux et de la qualité des collections conservées. La présence d'un seul crâne ne prouve pas l'absence de dépôts successifs, mais elle ne suffit pas non plus à en inventer.
+
+À Manunggul, il faut distinguer la fonction de la jarre au bateau comme objet de présentation et les formes exactes d'ossements observées dans sa chambre. Une étude de la mémoire exige des données à l'échelle de chaque dépôt, pas des généralités sur les tombes collectives.
+
+### XVII. Duyong, Uyaw et les autres grottes : un corpus comparatif
+
+Les ensembles de Duyong, Uyaw, Pagayona, Tadyaw et d'autres cavités de Palawan ont livré des jarres, des parures et des matériaux très variés. Les recherches anciennes distinguent plusieurs horizons et des modalités de dépôt différentes. Ces sites permettent de comprendre Manunggul comme un cas remarquable dans une tradition régionale plus vaste.
+
+La seule présence d'un décor proche ne suffit pas à établir une contemporanéité. Les importations de verre et de métal signalent des phases de circulation et des usages de biens qui ont pu changer en quelques siècles.
+
+L'histoire du sacré doit demander quelles pratiques sont réellement partagées, quelles formes sont singulières et quelles comparaisons reposent seulement sur des objets de musée séparés de leurs sols d'origine.
+
+### XVIII. Les parures funéraires : coquillage, agate, néphrite
+
+Les ensembles de Palawan comportent diverses parures de coquillage, d'agate et de pierre, auxquelles s'ajoutent du métal et du verre dans certains horizons. Ces objets ont pu être utilisés pendant la vie, puis déposés avec les restes, ou acquis spécialement pour le contexte funéraire.
+
+Les boucles dites *lingling-o* constituent un dossier comparatif majeur entre Philippines, Vietnam et autres régions d'Asie du Sud-Est. Leurs styles, matériaux et chronologies doivent être distingués. Une identité de forme ne prouve pas que les porteurs appartenaient au même groupe linguistique.
+
+La présence d'une parure dans une jarre rend possible une histoire de circulation des objets. Elle ne donne pas, à elle seule, le rang social du mort ni le destin religieux auquel il était destiné.
+
+### XIX. Perles de verre et apparition du fer : dates relatives
+
+L'apparition de fer ou de verre dans un ensemble aide à établir un terminus chronologique probable lorsque les séries régionales sont bien étudiées. Elle ne permet pas d'attribuer la même date à toutes les jarres de la grotte.
+
+Les matériaux peuvent avoir circulé longtemps avant leur dépôt et les objets peuvent être transmis. Une perle de verre n'est pas nécessairement fabriquée dans le lieu où elle est enfouie. Les analyses chimiques et techniques peuvent aider à préciser les chaînes de circulation.
+
+Les évolutions du mobilier ne représentent pas non plus une « conversion religieuse » automatique. Elles traduisent d'abord des transformations économiques et techniques, susceptibles d'être intégrées dans des gestes mortuaires préexistants ou renouvelés.
+
+### XX. Le Manunggul Jar comme trésor culturel national
+
+Le Musée national classe la jarre de Manunggul parmi les *National Cultural Treasures*. Le statut patrimonial reconnaît son importance pour l'art ancien et la mémoire culturelle des Philippines. Il appartient à une histoire institutionnelle moderne et ne constitue pas une qualification religieuse donnée par les potiers anciens.
+
+Le choix d'en faire une image emblématique est compréhensible : l'objet réunit une réalisation technique exceptionnelle et une scène figurative facile à reconnaître. Mais la notoriété d'une pièce peut déséquilibrer le récit si elle efface la diversité des autres jarres et la longue histoire des fouilles.
+
+L'approche MYTHOS doit faire apparaître la jarre célèbre dans une galerie légendée, tout en réservant une place aux objets moins spectaculaires et aux informations de terrain qui en rendent l'interprétation possible.
+
+### XXI. Le récit muséal : âme, bateau et passage
+
+L'Encyclopedia of Philippine Art publiée par le Cultural Center of the Philippines présente les deux figures comme des âmes voyageant vers un monde après la mort. Il faut citer cette lecture comme une interprétation patrimoniale et iconographique, non comme une traduction d'une inscription antique.
+
+Un contexte funéraire donne à ce scénario une forte plausibilité. Mais d'autres significations restent concevables : représentation d'un transport réel transposé dans la tombe, récit d'origine, image d'un accompagnement ou d'une relation entre le défunt et un proche. Les sources ne permettent pas de départager définitivement ces propositions.
+
+La discipline consiste à conserver la richesse de l'image tout en indiquant précisément ce qu'elle ne démontre pas. L'absence d'un texte ne transforme pas l'image en simple décoration, mais interdit de prétendre lire toutes ses paroles.
+
+### XXII. Le problème du « premier art philippin » : éviter la téléologie
+
+La jarre est parfois célébrée comme une des plus impressionnantes réalisations de la poterie ancienne des Philippines. Cette appréciation patrimoniale ne doit pas conduire à établir une histoire linéaire où les objets antérieurs seraient « primitifs » et les arts historiques accomplis. La qualité technique peut exister dans des sociétés qui ne produisent ni ville monumentale ni écriture.
+
+L'histoire de l'art ancien doit étudier les choix de matériaux, les procédés de modelage, le décor et le contexte d'usage sans classer les sociétés selon une échelle implicite de civilisation.
+
+La valeur de Manunggul pour la philosophie de l'image réside dans sa capacité à condenser, en une scène réduite, une relation entre corps et déplacement ; la conclusion ne suppose aucune histoire universelle du progrès artistique.
+
+### XXIII. Comparaison avec Sa Huỳnh au Vietnam
+
+Les nécropoles de Sa Huỳnh présentent, comme les grottes de Palawan, des jarres funéraires et des parures caractéristiques, avec des échanges et des différences techniques. Les chercheurs ont étudié des ressemblances de poteries et de boucles d'oreilles afin de préciser les relations entre les rives de la mer de Chine méridionale.
+
+Le rapprochement doit rester chronologiquement précis. Les horizons pré-Sa Huỳnh, la phase classique de l'âge du fer, les assemblages de Hòa Diêm et les chambres A et B de Manunggul n'appartiennent pas tous à un seul moment. Des formes proches peuvent résulter d'emprunts répétés et non d'une migration collective.
+
+Aucun bateau sur une jarre philippine ne permet de conclure que les habitants de Sa Huỳnh possédaient le même récit de passage des morts. La comparaison concerne les pratiques et objets, pas un mythe démontré commun.
+
+### XXIV. Comparaison avec Niah à Bornéo
+
+Les grottes de Niah constituent un point de comparaison utile par leurs sépultures de différentes périodes et l'existence de jarres funéraires dans des contextes néolithiques. David Bulbeck rappelle que l'emploi de récipients comme contenants mortuaires y reste minoritaire au sein d'une variété de traitements des morts.
+
+La chronologie de Niah et celle de Manunggul se chevauchent partiellement, mais les formes céramiques, les dépôts et les relations aux espaces sont distincts. Aucune filiation directe ne découle de leur ressemblance générale.
+
+La question comparative est plus intéressante que l'identification immédiate : pourquoi certaines communautés choisissent-elles un vase pour accueillir le mort, tandis que d'autres privilégient une fosse sans récipient ou un autre dispositif ?
+
+### XXV. Comparaison avec la plaine des Jarres au Laos
+
+Les énormes récipients monolithiques du Laos diffèrent radicalement, par leurs techniques et leurs paysages, des jarres céramiques de Palawan. Les nouvelles données du site 75 ont montré une utilisation de l'intérieur d'une grande jarre de pierre pour des dépôts humains secondaires. La convergence du geste est intéressante mais ne démontre ni un peuple constructeur commun ni une diffusion directe.
+
+Les méthodes de datation produisent des échelles différentes : la taille et l'installation d'un mégalithe, l'inhumation des os et l'utilisation d'un vase de terre cuite ne sont pas un événement unique. Une histoire régionale doit comparer les phases réelles et les possibles circulations.
+
+Le motif du réceptacle est trop général pour constituer à lui seul une preuve de transmission rituelle. Les ressemblances gagnent leur valeur scientifique lorsqu'elles sont liées à d'autres indices indépendants.
+
+### XXVI. Comparaison avec Charon : homologie d'image, non filiation
+
+La tradition grecque de Charon est connue par des sources littéraires, des monnaies, des images et des pratiques funéraires de l'époque historique. Le rapprochement iconographique avec Manunggul peut être proposé de manière prudente : un bateau et une figure guidant un passage figurent dans des dossiers très éloignés.
+
+Cependant, l'analogie ne prouve ni le passage de l'image grecque vers Palawan, ni une religion universelle des passeurs, ni l'existence d'un tarif funéraire dans les communautés philippines. Les différences de langue, de chronologie et de source sont fondamentales.
+
+Une comparaison philosophique rigoureuse montre justement que des récits matériellement distincts peuvent employer des formes analogues sans être issus d'une même tradition.
+
+### XXVII. Durkheim : le mort et l'objet séparé du quotidien
+
+Durkheim invite à examiner la différence entre objets ordinaires et choses reconnues comme sacrées par un collectif. Une jarre peut avoir été fabriquée dans une technique apparentée aux récipients domestiques, puis être soustraite à la circulation par son usage funéraire.
+
+Mais le passage de l'objet au sacré n'est pas lisible automatiquement dans la céramique. La relation au mort est attestée ; les prescriptions, interdits et représentations collectives qui pourraient l'accompagner demeurent partiellement inconnus.
+
+La théorie sert à formuler des questions sur la valeur sociale du dépôt, pas à donner une définition indigène d'un sanctuaire ou d'une âme.
+
+### XXVIII. Marcel Mauss : transformer un bien par son enfouissement
+
+Le vase funéraire et les parures déposées avec lui peuvent être étudiés comme des objets dont la circulation est transformée par le rite. Le don, l'échange et le retrait définitif sont des opérations différentes dont Marcel Mauss a permis de penser les dimensions relationnelles.
+
+Il serait incorrect de réduire la sépulture à un paiement à un passeur de l'au-delà parce que l'image comporte une embarcation. Les objets peuvent avoir été portés pendant la vie, sélectionnés par des proches ou produits pour l'inhumation.
+
+La contribution du comparatisme est donc d'interroger ce que les vivants font des choses lorsqu'ils enterrent les morts, et non d'inventer le système économique des puissances invisibles.
+
+### XXIX. Nietzsche : le devenir d'une forme funéraire
+
+Dans la pensée généalogique, les pratiques peuvent conserver des formes tout en changeant de fonction. À Manunggul, les chambres A et B offrent des différences d'équipement et de datation qui rappellent la difficulté de postuler une religion identique sur plusieurs siècles.
+
+Le vase peut rester un moyen d'inhumation tout en intégrant du métal, du verre et des formes céramiques nouvelles. Il n'en résulte pas que toutes ses significations aient été conservées intactes. Les choix de leurs utilisateurs ont pu évoluer.
+
+La lecture de Nietzsche est conceptuelle, non documentaire : elle ne permet pas de déduire la psychologie du potier ni une doctrine secrète de la mort.
+
+### XXX. Hegel et la critique des récits de civilisation
+
+La précision du modelage et la force iconographique de la jarre apparaissent dans une société qui n'a laissé ni traité de théologie ni temple monumental comparable aux centres de l'Égypte ou de la Mésopotamie. Cela impose de distinguer complexité artistique, écriture, architecture et organisation sociale.
+
+Un récit de progrès qui lierait obligatoirement l'intelligence symbolique à l'État centralisé serait inadéquat. L'art de Manunggul témoigne de capacités de représentation indépendamment d'un corpus doctrinal écrit.
+
+La comparaison avec Hegel sert ici à critiquer des typologies trop étroites, non à lui attribuer une théorie d'un site qu'il ne connaissait pas.
+
+### XXXI. Déterminer les niveaux de preuve
+
+**Constats matériels :** existence de la jarre de Manunggul, scène de deux figures sur un bateau, contexte funéraire secondaire, décor incisé et coloré, phases distinctes des chambres A et B, ensembles de mobilier documentés par les fouilles de Palawan.
+
+**Inférences raisonnables :** l'image semble associée au traitement des morts et peut représenter une transition, un transport ou un accompagnement ; les récipients funéraires signalent des choix différenciés de dépôt.
+
+**Hypothèses ouvertes :** identification des personnages, sens exact de la proue, valeur de la couleur rouge, statut des défunts et existence d'un récit oral de voyage vers l'au-delà.
+
+**Non démontré :** nom d'un dieu ou d'un passeur, paroles rituelles, cosmographie exacte, croyance identique dans toutes les îles de la région ou continuité parfaite de l'art de Manunggul aux traditions ethnographiques contemporaines.
+
+Cette grille doit accompagner chaque légende d'image et être conservée lors de la génération HTML.
+
+### XXXII. Patrimoine, musées et droits des images
+
+Le Musée national des Philippines conserve la jarre et les collections du complexe de Tabon. Les photographies professionnelles, les relevés de fouille et les planches des publications ne sont pas libres de reproduction du seul fait qu'ils sont disponibles en ligne. Toute illustration locale exige vérification des licences et crédit à l'institution ou au photographe.
+
+L'intervention graphique pertinente pour MYTHOS serait une planche documentaire séparant le vase, le couvercle et un schéma contextuel du dépôt. Une scène photoréaliste du passeur traversant une mer mythique serait une interprétation artistique et ne pourrait figurer comme « reconstitution archéologique certaine ».
+
+Le traitement respectueux des restes humains interdit de transformer les os en accessoires de spectacle. La conservation et le récit public doivent reconnaître la dignité des personnes inhumées et le travail des institutions philippines.
+
+### XXXIII. Iconographie et tableaux scientifiques recommandés
+
+**Figure A — Carte de Lipuun Point :** localisation des grottes de Tabon, Manunggul, Duyong, Uyaw, Pagayona et Tadyaw, avec mention des campagnes de fouille. Source : Musée national des Philippines, https://www.nationalmuseum.gov.ph/our-museums/regional-area-and-site-museums/tabon-cave-complex/ .
+
+**Figure B — Jarre de Manunggul :** image autorisée avec dimensions de l'objet, matériau, techniques de décor et position muséale. Source descriptive : Cultural Center of the Philippines, https://epa.culturalcenter.gov.ph/3/82/2227/ .
+
+**Figure C — Couvercle au bateau :** détail des deux figures et de la proue, accompagné de deux colonnes distinctes : observations et interprétations. Ne pas écrire « Charon philippin » comme identification scientifique.
+
+**Figure D — Deux phases de Manunggul :** tableau des déterminations UCLA-992A, UCLA-992B et UCLA-992C, avec années conventionnelles, intervalles calibrés et association de contexte ; références Fox 1970 et Bulbeck.
+
+**Figure E — Types funéraires de Palawan :** sépultures primaires en jarres, dépôts secondaires, inhumations sans vase et différences des mobiliers. Relever les cas exacts sans réunir dans une même vignette des périodes différentes.
+
+**Figure F — Comparaison régionale :** Manunggul, Niah, Sa Huỳnh et plaine des Jarres. Quatre images contextualisées peuvent illustrer des dispositifs de contenant distincts, mais pas une religion unique.
+
+Aucune nouvelle image n'est copiée dans le dépôt par cette soumission et aucune illustration 2,5D n'est autorisée.
+
+### XXXIV. Bibliographie universitaire et muséale vérifiable
+
+1. **Fox, Robert B.**, *The Tabon Caves: Archaeological Explorations and Excavations on Palawan Island, Philippines*, National Museum of the Philippines, monographie no 1, Manille, 1970, 197 pages. Catalogue de la bibliothèque du Musée : https://library.nationalmuseum.gov.ph/cgi-bin/koha/opac-detail.pl?biblionumber=12 .
+2. **Bulbeck, David**, « Traditions of Jars as Mortuary Containers in the Indo-Malaysian Archipelago », dans *New Perspectives in Southeast Asian and Pacific Prehistory*, ANU Press, chapitre 8. Texte intégral : https://press-files.anu.edu.au/downloads/press/n2320/html/ch08.xhtml . Table 8.3, dates et objets de Manunggul A et B ; réflexion sur la diversité des traditions.
+3. **National Museum of the Philippines**, « Burial Jars », catalogue d'archéologie : https://www.nationalmuseum.gov.ph/our-collections/archaeology/burial-jars/ . Distinction entre inhumations primaires et secondaires ; Manunggul, Maitum et autres ensembles.
+4. **National Museum of the Philippines**, « Tabon Cave Complex », notice de musée et de site : https://www.nationalmuseum.gov.ph/our-museums/regional-area-and-site-museums/tabon-cave-complex/ .
+5. **National Museum of the Philippines**, « 60th Anniversary of the Tabon Caves Archaeological Research and Opening of the Stories of Origins Exhibit », 28 octobre 2022 : https://www.nationalmuseum.gov.ph/2022/10/28/60th-anniversary-of-the-tabon-caves-archaeological-research-and-opening-of-the-stories-of-origins-exhibit/ .
+6. **Guillermo, Alice G.**, « Manunggul Jar », *Encyclopedia of Philippine Art*, Cultural Center of the Philippines, édition numérique 2020. Description muséale de l'objet et interprétation de l'image ; cette interprétation est distinguée des observations : https://epa.culturalcenter.gov.ph/3/82/2227/ .
+7. **UNESCO World Heritage Centre**, « The Tabon Cave Complex and all of Lipuun », Liste indicative no 1860, dépôt historique de 2006 ; ce statut indicatif ne doit pas être confondu avec une inscription effective au patrimoine mondial : https://whc.unesco.org/en/tentativelists/1860/ .
+8. **Yamagata, Mariko et Matsumura, Hirofumi**, « Austronesian Migration to Central Vietnam: Crossing over the Iron Age Southeast Asian Sea », dans *New Perspectives in Southeast Asian and Pacific Prehistory*, ANU Press, chapitre 19 : https://press-files.anu.edu.au/downloads/press/n2320/html/ch19.xhtml .
+9. **Nguyễn Kim Dung**, « The Sa Huynh Culture in Ancient Regional Trade Networks: A Comparative Study of Ornaments », même ouvrage, chapitre 18 : https://press-files.anu.edu.au/downloads/press/n2320/html/ch18.xhtml .
+10. **Durkheim, Émile**, *Les Formes élémentaires de la vie religieuse*, 1912 ; outil théorique, non source directe pour Palawan.
+11. **Mauss, Marcel**, *Essai sur le don*, 1925 ; cadre comparatif des objets et relations.
+12. **Nietzsche, Friedrich**, *Zur Genealogie der Moral*, 1887 ; question généalogique et changements de fonction.
+13. **Hegel, G. W. F.**, leçons posthumes sur la philosophie de l'histoire ; discussion des modèles de civilisation, non témoignage philippin.
+
+### XXXV. Concordance et conclusion de la monographie
+
+La jarre de Manunggul est un objet exceptionnel dans un ensemble régional qui ne doit pas être réduit à elle. Sa scène sculptée est compatible avec une interprétation du transport des morts, mais les mots qui l'accompagnaient et les destinataires du geste demeurent inconnus. Sa valeur pour l'histoire des religions tient précisément à la possibilité de travailler avec des images puissantes sans leur attribuer des textes inventés.
+
+L'étude contribue à la collection MYTHOS aux côtés des chapitres consacrés à Sa Huỳnh, aux grottes de Niah et à la plaine des Jarres. Les rapprochements portent sur les gestes mortuaires, la pluralité des périodes et les problèmes de circulation de formes, non sur une généalogie démontrée des croyances.
+
+Le passage d'une mort à un dépôt secondaire implique une transformation du corps et de sa place dans le monde des vivants. L'embarcation de Manunggul donne une image particulière à ce passage possible, sans en fixer toutes les implications. Un programme de recherches futures devrait confronter les archives de Fox aux collections et à de nouvelles analyses non destructives des matériaux et des traces d'usage.
+
+**Principe éditorial :** aucune nouvelle cote canonique n'est choisie dans cette étude. L'attribution est exclusivement effectuée par GitHub Actions selon le registre et les demandes concurrentes. Le dépôt du texte dans \`editorial/inbox\` ne vaut ni numéro attribué ni preuve d'accessibilité sur \`bobmythos.fr\`. Les autres archives, articles, numéros et horaires sont préservés.
