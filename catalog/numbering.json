@@ -2358,6 +2358,12 @@
         "url": "/chapitres/tragedies/volume-ccxcix-iophon-bakchai-bacchantes-penthee-stobee-fragment-2-connaissance-divin-tragedie-perdue/",
         "title": "Volume CCXCIX (299) — Iophon, Les Bacchantes (Βάκχαι) : les limites du savoir divin, la parole féminine et l'énigme de Penthée",
         "source": "chapitres/tragedies/volume-ccxcix-iophon-bakchai-bacchantes-penthee-stobee-fragment-2-connaissance-divin-tragedie-perdue.md"
+      },
+      {
+        "number": 300,
+        "url": "/chapitres/tragedies/volume-ccc-iophon-dexamenos-olene-heracles-eurytion-mnesimache-violence-mariage-tragedie-perdue/",
+        "title": "Volume CCC (300) — Iophon, Dexaménos (Δεξάμενος) — Accueillir, contraindre, protéger : le roi d’Olénos, la fille menacée, le centaure et les contradictions de l’héroïsme",
+        "source": "chapitres/tragedies/volume-ccc-iophon-dexamenos-olene-heracles-eurytion-mnesimache-violence-mariage-tragedie-perdue.md"
       }
     ],
     "comparatif": [
@@ -4175,6 +4181,12 @@
         "url": "/chapitres/comparatif/volume-cccliv-mc-126-tirage-sort-oracles-goral-kin-kleroterion-fortuna-yijing/",
         "title": "Volume CCCLIV (354) — MC-126 — Tirer au sort l'invisible : oracle, justice, pouvoir et hasard, de l'Anatolie hittite à Israël, à la Grèce, à Rome et à la Chine",
         "source": "chapitres/comparatif/volume-cccliv-mc-126-tirage-sort-oracles-goral-kin-kleroterion-fortuna-yijing.md"
+      },
+      {
+        "number": 355,
+        "url": "/chapitres/comparatif/volume-ccclv-mc-128-peaux-marquees-gebelein-deir-el-medina-herodote-pazyryk-otzi/",
+        "title": "Volume CCCLV (355) — MC-128 — Les peaux marquées : tatouage, appartenance, protection et souveraineté du corps, de l'Égypte et de la Thrace à la Syrie et à l'Altaï",
+        "source": "chapitres/comparatif/volume-ccclv-mc-128-peaux-marquees-gebelein-deir-el-medina-herodote-pazyryk-otzi.md"
       }
     ],
     "comedies": [
@@ -5095,6 +5107,12 @@
         "url": "/chapitres/comedies/volume-153-euboulos-ankylion-kottabos-charisios-dekate-prix-navets-fete/",
         "title": "Volume CLIII (153) — Euboulos, Ankylion (Ἀγκυλίων) — Le lancer courbe et les prix de la fête : kottabos, navet rôti, gâteaux, naissance et mémoire d’une comédie moyenne perdue",
         "source": "chapitres/comedies/volume-153-euboulos-ankylion-kottabos-charisios-dekate-prix-navets-fete.md"
+      },
+      {
+        "number": 154,
+        "url": "/chapitres/comedies/volume-154-euboulos-amaltheia-heracles-cuisine-askolia-corne-abondance/",
+        "title": "Volume CLIV (154) — Euboulos, Amaltheia (Ἀμάλθεια) : Héraclès à table, l'outre de Dionysos et les limites de l'abondance",
+        "source": "chapitres/comedies/volume-154-euboulos-amaltheia-heracles-cuisine-askolia-corne-abondance.md"
       }
     ],
     "origines-du-sacre": [
@@ -7305,6 +7323,24 @@
         "url": "/chapitres/origines-du-sacre/818-domboshava-zimbabwe-pluie-ancetres-peintures-patrimoine-vivant/",
         "title": "Chapitre 818 — Domboshava : peintures rupestres, pluie des ancêtres, vandalisme et droit au patrimoine vivant au Zimbabwe",
         "source": "chapitres/origines-du-sacre/818-domboshava-zimbabwe-pluie-ancetres-peintures-patrimoine-vivant.md"
+      },
+      {
+        "number": 819,
+        "url": "/chapitres/origines-du-sacre/819-kotosh-mito-mains-croisees-foyers-renovation-rituelle-chronologie/",
+        "title": "Chapitre 819 — Kotosh : les mains croisées, les foyers cérémoniels et la fabrication d'une durée sacrée",
+        "source": "chapitres/origines-du-sacre/819-kotosh-mito-mains-croisees-foyers-renovation-rituelle-chronologie.md"
+      },
+      {
+        "number": 820,
+        "url": "/chapitres/origines-du-sacre/820-chavin-huantar-galeries-pututus-acoustique-images-autorite-ceremonielle/",
+        "title": "Chapitre 820 — Chavín de Huántar : galeries, trompes marines et gouvernement des perceptions",
+        "source": "chapitres/origines-du-sacre/820-chavin-huantar-galeries-pututus-acoustique-images-autorite-ceremonielle.md"
+      },
+      {
+        "number": 821,
+        "url": "/chapitres/origines-du-sacre/821-pacopampa-cajamarca-tombes-elitaires-corps-pigments-pouvoir-rituel/",
+        "title": "Chapitre 821 — Pacopampa : tombeaux d'élite, pigments et autorité dans les Andes formatives",
+        "source": "chapitres/origines-du-sacre/821-pacopampa-cajamarca-tombes-elitaires-corps-pigments-pouvoir-rituel.md"
       }
     ]
   },

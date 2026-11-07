@@ -1479,6 +1479,24 @@
           "path": "chapitres/origines-du-sacre/818-domboshava-zimbabwe-pluie-ancetres-peintures-patrimoine-vivant.md",
           "request_sha256": "fb7594a8cea792f11f40138733bb907bcb8e5f4c81ac4fc5eb79269be0763408",
           "initial_source_sha256": "6f292d0a2c48c63691988cbc3c117d8532e6041226626642c5f463da501cdb48"
+        },
+        "53b727c5-aa7f-477a-9a9a-202611071515": {
+          "number": 819,
+          "path": "chapitres/origines-du-sacre/819-kotosh-mito-mains-croisees-foyers-renovation-rituelle-chronologie.md",
+          "request_sha256": "bf1004377684f3b5ad7f95f08303ed4b6f3c80037498d6322edea2933cc097c4",
+          "initial_source_sha256": "a934a105a879f22136118219b3fa5aa3cead12cc4992d14fd08c0b37dcb1a881"
+        },
+        "6dc5b2ef-9de7-43d4-bb3f-202611071517": {
+          "number": 820,
+          "path": "chapitres/origines-du-sacre/820-chavin-huantar-galeries-pututus-acoustique-images-autorite-ceremonielle.md",
+          "request_sha256": "fa9f5479d74a765d180222d76d5271bd9e2a52d5054dfc8bc3e621f025df2cf0",
+          "initial_source_sha256": "6124d677de1b8b3c3b5b4f3586e19db8749857a61c3cc5e07163078cc393cb8e"
+        },
+        "b6be4b2b-42c9-4f4f-aab5-202611071516": {
+          "number": 821,
+          "path": "chapitres/origines-du-sacre/821-pacopampa-cajamarca-tombes-elitaires-corps-pigments-pouvoir-rituel.md",
+          "request_sha256": "afdc5917394904955aadb549059225229f429c866d218ad4bc8446b99afdb259",
+          "initial_source_sha256": "aa89851dbcceed7713de31de7f2ceb97aa117adfc26f3c76f64f7516fd5c2176"
         }
       }
     },
@@ -2968,6 +2986,12 @@
           "path": "chapitres/comedies/volume-153-euboulos-ankylion-kottabos-charisios-dekate-prix-navets-fete.md",
           "request_sha256": "c6ae5917933269e18ac0e6f37ba1d046cd99c11d34c3c91d1b155beb61cd1dc5",
           "initial_source_sha256": "ecc700ce7b97a1f9bf1631ba07532a625d92891cf78f59f099f87d991a43e85b"
+        },
+        "7f4a2c91-8b63-4d0f-a6e2-c9b5102e34aa": {
+          "number": 154,
+          "path": "chapitres/comedies/volume-154-euboulos-amaltheia-heracles-cuisine-askolia-corne-abondance.md",
+          "request_sha256": "c7d5fb89aeb4880f95a17efb8b6e2b663302a823ddd4d9274cc40086c542b45e",
+          "initial_source_sha256": "f5dd2b55e796fe0278cbdc14ee235f6a56badac62f1b8dea57766888212ca162"
         }
       }
     },
@@ -3664,6 +3688,12 @@
           "path": "chapitres/tragedies/volume-ccxcix-iophon-bakchai-bacchantes-penthee-stobee-fragment-2-connaissance-divin-tragedie-perdue.md",
           "request_sha256": "c6ca2991ab88c0348f496a5bc9623455497565349d060034a1596867d9249aba",
           "initial_source_sha256": "46f2f365ff4f69b268b299ca66bc8a6b123e0c6f494877c521c07d23827f4da9"
+        },
+        "f6e9ac02-5b49-4b28-a4ed-dc6fc3cf9740": {
+          "number": 300,
+          "path": "chapitres/tragedies/volume-ccc-iophon-dexamenos-olene-heracles-eurytion-mnesimache-violence-mariage-tragedie-perdue.md",
+          "request_sha256": "4e126ad7bb63819b9df3face8a5c00662feb37d0b3c3f49d606b22e0a0d0f9f3",
+          "initial_source_sha256": "7150030fb0b60fbd7e4e546b2daa2a9f39da4a5b6a442f118eb1e1d95286ac65"
         }
       }
     },
@@ -4945,6 +4975,12 @@
           "path": "chapitres/comparatif/volume-cccliv-mc-126-tirage-sort-oracles-goral-kin-kleroterion-fortuna-yijing.md",
           "request_sha256": "ec4dcae456404344082a14eb316db20fc514339e999c5f83d83cf0d251ded10c",
           "initial_source_sha256": "19648e9b49182f3cc7e8716939447af9da47373884c754c2c0cd13314beced4e"
+        },
+        "5b3e8c42-a72d-42f9-9698-202611071458": {
+          "number": 355,
+          "path": "chapitres/comparatif/volume-ccclv-mc-128-peaux-marquees-gebelein-deir-el-medina-herodote-pazyryk-otzi.md",
+          "request_sha256": "587c5662f57da2701a4a0d00e7b55d5eb8e53c30c7837db19f8095be8083272f",
+          "initial_source_sha256": "12a007090a530de66a5d4b979cb92f44f2f0306f2fafd665013286114c5d3947"
         }
       }
     }
