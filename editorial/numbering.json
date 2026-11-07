@@ -1155,6 +1155,18 @@
           "path": "chapitres/origines-du-sacre/764-bandiagara-falaise-tellem-toloy-dogon-sepultures-masques-griaule-critique.md",
           "request_sha256": "1c5d3c0e85df269850a480d72d99f10ef8c9434ae32327cd69620ffe0d276eb8",
           "initial_source_sha256": "8bc2e57ef94c3608cec327ae0fb8284754dd69abe15f40d34601d5c74936773e"
+        },
+        "4cf81a0d-3ed9-4da1-a2d5-f2a8bb1d91e7": {
+          "number": 765,
+          "path": "chapitres/origines-du-sacre/765-unguja-ukuu-zanzibar-port-ancien-mosquee-probable-verre-paysage.md",
+          "request_sha256": "57c3e499b8572e343da3bb32f5822248066a67a7e4415da42a34b607253216e8",
+          "initial_source_sha256": "d2ffbdef27d8ee15d75e1061a3a9af05d33ece9983c5f77ee48f59388219dea6"
+        },
+        "817f5a0d-d8a4-44ef-995a-63d5e75c9c7b": {
+          "number": 766,
+          "path": "chapitres/origines-du-sacre/766-kizimkazi-dimbani-mosquee-inscription-coufique-500h-conservation.md",
+          "request_sha256": "6f32d6001d4bf324fae9ff9f4ee320c66afb5ff7ccf0252fed1bda0367baee09",
+          "initial_source_sha256": "eda5c636590197daf8fcaf9c81cd43fb3e2b3bb55e679bf2294b7fb189a7bc63"
         }
       }
     },
@@ -1894,6 +1906,12 @@
           "path": "chapitres/encyclopedie/chapitre-470-apollon-epikourios-bassae-phigalie-epikouroi-frise-architecture-rituel.md",
           "request_sha256": "48b3ecff0a6df2fcbd934f054e3196f6fc30b08259192c9ed66fed650ed13c37",
           "initial_source_sha256": "89ac98514acd5b2c0dc5d94d0671a5c9d39acc782b2810ccd443b7a0cc761c4f"
+        },
+        "ce2d2196-7583-4a02-9dd7-309de23285f4": {
+          "number": 471,
+          "path": "chapitres/encyclopedie/chapitre-471-apollon-triopios-cnide-hexapole-dorienne-triopion-trepieds-emecik.md",
+          "request_sha256": "15a19747c160446f101580ec7a3b2969ef34ad7926d2c9ad0f913e733466082f",
+          "initial_source_sha256": "912e89239797080bf5a2f8d91879d9052d1381c32cfc78dfba5e75458d01f616"
         }
       }
     },
@@ -2422,6 +2440,12 @@
           "path": "chapitres/comedies/volume-136-euphronios-victoire-dionysies-458-fastis-choregie-oresteia-comedie-perdue.md",
           "request_sha256": "a2f3ced88e5c48d10d57449a8623b5a27bf0b9ba188f094f05e32a93cf8af290",
           "initial_source_sha256": "2e41ac0b6fd88add81f8d5b5b8af16254ca7a2a167646d57404d58c9f7d30907"
+        },
+        "8f643d91-28a7-4c64-b570-131ea7654af1": {
+          "number": 137,
+          "path": "chapitres/comedies/volume-137-antiphanes-poiesis-tragedie-comedie-mythe-invention-machine.md",
+          "request_sha256": "a2dfe2ed9086d970ec8f2648e1e411762c41ef302f4ac50cafe230403e0eac12",
+          "initial_source_sha256": "3ac87557fb85fa2ec69cc5af236e06d81f86bd1c7547fd773b4b3c444ba89dda"
         }
       }
     },
@@ -3022,6 +3046,12 @@
           "path": "chapitres/tragedies/volume-cclxxxiii-acheos-eretrie-oedipe-oedipous-hesychius-impurete-epanouissement-fragments-30-31.md",
           "request_sha256": "b6d3c180944885e824a14145e85e5dcb997523fd2b810fa1f617ef7764f15ff2",
           "initial_source_sha256": "3964740ce75b61e36169e73ab85e86e4ba3bbece79a33d6dac85b14bc66fcb67"
+        },
+        "c91f2a74-628b-47a9-9d7e-7fd34e06cb26": {
+          "number": 284,
+          "path": "chapitres/tragedies/volume-cclxxxiv-ion-de-chios-agamemnon-athenee-coupe-fragments-1-5-trgf.md",
+          "request_sha256": "ce0f1c4491a2a7dfc06c183e85d4fa5da1670f6284684f5a4f1773f78f0f95f4",
+          "initial_source_sha256": "569cc6c6a4961bd469b03e9be62031996b013dca2e3df5fff1861315327dccc6"
         }
       }
     },

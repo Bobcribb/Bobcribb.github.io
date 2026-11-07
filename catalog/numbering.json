@@ -1008,6 +1008,12 @@
         "url": "/chapitres/encyclopedie/chapitre-470-apollon-epikourios-bassae-phigalie-epikouroi-frise-architecture-rituel/",
         "title": "Chapitre 470 — Apollon Épikourios à Bassae : secours divin, guerre, épidémie et invention de l'espace sacré en Arcadie",
         "source": "chapitres/encyclopedie/chapitre-470-apollon-epikourios-bassae-phigalie-epikouroi-frise-architecture-rituel.md"
+      },
+      {
+        "number": 471,
+        "url": "/chapitres/encyclopedie/chapitre-471-apollon-triopios-cnide-hexapole-dorienne-triopion-trepieds-emecik/",
+        "title": "Chapitre 471 — Apollon Triopios : Cnide, l'Hexapole dorienne, les trépieds votifs et la géographie disputée du Triopion",
+        "source": "chapitres/encyclopedie/chapitre-471-apollon-triopios-cnide-hexapole-dorienne-triopion-trepieds-emecik.md"
       }
     ],
     "tragedies": [
@@ -2142,6 +2148,12 @@
         "url": "/chapitres/tragedies/volume-cclxxxiii-acheos-eretrie-oedipe-oedipous-hesychius-impurete-epanouissement-fragments-30-31/",
         "title": "Volume CCLXXXIII (283) — Achéos d’Érétrie, Œdipe (Οἰδίπους) : l’impureté, l’épanouissement et les limites du savoir tragique",
         "source": "chapitres/tragedies/volume-cclxxxiii-acheos-eretrie-oedipe-oedipous-hesychius-impurete-epanouissement-fragments-30-31.md"
+      },
+      {
+        "number": 284,
+        "url": "/chapitres/tragedies/volume-cclxxxiv-ion-de-chios-agamemnon-athenee-coupe-fragments-1-5-trgf/",
+        "title": "Volume CCLXXXIV (284) — Ion de Chios, Agamemnon (Ἀγαμέμνων) : la coupe des concours, la souveraineté fragile et la mémoire d’une tragédie perdue",
+        "source": "chapitres/tragedies/volume-cclxxxiv-ion-de-chios-agamemnon-athenee-coupe-fragments-1-5-trgf.md"
       }
     ],
     "comparatif": [
@@ -4645,6 +4657,12 @@
         "url": "/chapitres/comedies/volume-136-euphronios-victoire-dionysies-458-fastis-choregie-oresteia-comedie-perdue/",
         "title": "Volume CXXXVI (136) — Euphronios (Εὐφρόνιος), vainqueur aux Grandes Dionysies de 458 av. J.-C. : les fastes, la chorégie et la comédie dont le texte a disparu",
         "source": "chapitres/comedies/volume-136-euphronios-victoire-dionysies-458-fastis-choregie-oresteia-comedie-perdue.md"
+      },
+      {
+        "number": 137,
+        "url": "/chapitres/comedies/volume-137-antiphanes-poiesis-tragedie-comedie-mythe-invention-machine/",
+        "title": "Volume CXXXVII (137) — Antiphane, Poiēsis (Ποίησις) : inventer la comédie quand la tragédie hérite du mythe",
+        "source": "chapitres/comedies/volume-137-antiphanes-poiesis-tragedie-comedie-mythe-invention-machine.md"
       }
     ],
     "origines-du-sacre": [
@@ -6531,6 +6549,18 @@
         "url": "/chapitres/origines-du-sacre/764-bandiagara-falaise-tellem-toloy-dogon-sepultures-masques-griaule-critique/",
         "title": "Chapitre 764 — Bandiagara : les grottes des morts, les constructions Tellem, les masques dogon et la critique des cosmologies reconstruites",
         "source": "chapitres/origines-du-sacre/764-bandiagara-falaise-tellem-toloy-dogon-sepultures-masques-griaule-critique.md"
+      },
+      {
+        "number": 765,
+        "url": "/chapitres/origines-du-sacre/765-unguja-ukuu-zanzibar-port-ancien-mosquee-probable-verre-paysage/",
+        "title": "Chapitre 765 — Unguja Ukuu : un port swahili ancien, ses paysages littoraux et l'hypothèse des premières mosquées",
+        "source": "chapitres/origines-du-sacre/765-unguja-ukuu-zanzibar-port-ancien-mosquee-probable-verre-paysage.md"
+      },
+      {
+        "number": 766,
+        "url": "/chapitres/origines-du-sacre/766-kizimkazi-dimbani-mosquee-inscription-coufique-500h-conservation/",
+        "title": "Chapitre 766 — Kizimkazi Dimbani : inscription de 500 H., mosquée de corail, restaurations et mémoire religieuse vivante",
+        "source": "chapitres/origines-du-sacre/766-kizimkazi-dimbani-mosquee-inscription-coufique-500h-conservation.md"
       }
     ]
   },
