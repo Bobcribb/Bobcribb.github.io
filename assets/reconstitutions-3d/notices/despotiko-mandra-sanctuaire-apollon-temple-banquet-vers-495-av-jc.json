@@ -1,0 +1,47 @@
+{
+  "id": "DES-APO-001",
+  "slug": "despotiko-mandra-sanctuaire-apollon-temple-banquet-vers-495-av-jc",
+  "title": "Despotiko (Cyclades) — sanctuaire d’Apollon, temple et salle de banquet, vers 495–490 av. J.-C.",
+  "period": "Fin de l’époque archaïque, vers 495–490 av. J.-C. ; temple fondé au milieu du VIe siècle, salle de banquet vers 540–530, réaménagement monumental de façade vers 490.",
+  "caption": "Vue numérique 3D photoréaliste interprétative du téménos de Mandra, sur Despotiko : bâtiment A à colonnades doriques, salle de banquet, portiques, offrandes votives et baie abritée. Restitution non métrique.",
+  "commentary": "L’îlot aujourd’hui inhabité de Despotiko, au sud-ouest de Paros et à proximité d’Antiparos, abrite au lieu-dit Mandra un important sanctuaire extra-urbain grec, probablement fondé et administré par la cité de Paros. Le secteur occupe une péninsule exposée à une baie abritée. Les traces d’activité cultuelle remontent à l’époque géométrique (IXe–VIIIe siècles av. J.-C.) ; la grande monumentalisation du sanctuaire appartient surtout à la seconde moitié du VIe siècle. Des inscriptions sur des fragments de céramique attestent Apollon comme divinité principale ; la présence éventuelle d’Artémis aux côtés du dieu, fondée sur la typologie des ex-voto, demeure une hypothèse. Le noyau sacré, ou téménos, était délimité par un mur d’enceinte et occupait environ 1 600 m². Deux passages, au nord et au sud, donnaient accès à l’espace cultuel. Le bâtiment A comprend une partie septentrionale interprétée comme temple, créée au milieu du VIe siècle, et une partie méridionale destinée aux repas rituels ou banquets, ajoutée vers 540–530 av. J.-C. Les portiques nord, sud et est, avec d’autres bâtiments, appartiennent à l’agrandissement de la fin du VIe siècle. Une façade monumentale de colonnes en marbre est signalée vers 490 av. J.-C., soit au début du Ve siècle. La restitution illustre conventionnellement les environs de 495–490 av. J.-C. : elle juxtapose le temple et la salle de banquet, leurs colonnades doriques en façade, des annexes, une cour et un horizon maritime. Il ne s’agit surtout PAS d’un temple périptère indépendant à six colonnes en façade et douze sur les côtés : le bâtiment A est composé de deux espaces associés à portiques frontaux. La lecture des comptes rendus de restauration indique sept supports pour le secteur temple et huit pour le secteur de banquet ; la composition générative n’est pas assez exacte pour servir à dénombrer ou mesurer ces éléments. Plus de soixante-dix fragments de sculptures archaïques en marbre, plusieurs têtes de kouroi et des bases de statues documentent le prestige du sanctuaire. Près de 650 objets de provenance égéenne et orientale étaient protégés sous le sol d’une pièce du temple. Le rendu ajoute, à titre d’évocation, des statues votives complètes, un autel, des fidèles, des céramiques et un bateau ; la position, l’échelle et le nombre précis de ces éléments ne sont pas archéologiquement démontrés. De même, la couverture de tuiles, les enduits, les teintes, la hauteur des portiques, les accès, l’aspect des bâtiments annexes et la côte figurée sont conjecturaux. L’Éphorie des Antiquités des Cyclades signale un possible épisode de destruction vers 490/489 av. J.-C., parfois associé à l’expédition athénienne de Miltiade contre Paros : cette interprétation historique reste discutée ; la scène ne prétend donc pas reproduire un instant exactement daté. Cette image est une création numérique photoréaliste à apparence 3D, non un modèle tridimensionnel métrique, une restitution photogrammétrique ou une reconstitution validée par une institution.",
+  "certainty": "ÉLEVÉ — présence du sanctuaire d’Apollon à Mandra ; implantation sur le littoral de Despotiko ; mur d’enceinte du téménos, bâtiments associés et phases archaïques ; temple au nord, salle de banquet au sud ; restes de façades doriques en marbre, nombreuses offrandes sculptées ; fouilles et restaurations documentées. MOYEN — chronologie détaillée de chaque phase et apparition de la colonnade monumentale vers 490 ; raccordement architectural des corps de bâtiment, silhouette générale des portiques et division de la cour ; rôle exact de la cité de Paros dans la fondation. FAIBLE — détails métriques des colonnes représentées, restitution complète des élévations et toitures, motifs et polychromie, statues debout, autel en activité, personnages, bateau, végétation et paysage ; hypothèse de destruction liée à Miltiade vers 490/489 av. J.-C.",
+  "source_url": "https://cyclades.culture.gov.gr/en/location/despotiko/",
+  "secondary_sources": [
+    "https://antiparos.gr/en/despotiko/",
+    "https://www.culture.gov.gr/el/Information/SitePages/view.aspx?nID=1979",
+    "https://www.leventisfoundation.org/heritage-conservation/excavations-in-despotikon-cyclades"
+  ],
+  "src": "/assets/reconstitutions-3d/despotiko-mandra-sanctuaire-apollon-temple-banquet-vers-495-av-jc.webp",
+  "image": "/assets/reconstitutions-3d/despotiko-mandra-sanctuaire-apollon-temple-banquet-vers-495-av-jc.webp",
+  "width": 1672,
+  "height": 941,
+  "created_at": "2026-11-07",
+  "type": "reconstitution visuelle numérique photoréaliste à apparence 3D, non métrique",
+  "provenance": "Création originale assistée par génération d’image pour MYTHOS. Aucun menu, titre, schéma 2,5D, logo ni légende intégrés aux pixels. Sources archéologiques indépendantes ; absence de validation institutionnelle du rendu.",
+  "sha256": "2c32fe8bb2500c1d74d87911c81179d4722f90c65f03d5eb4d544f8888ee74d5",
+  "scientific_notice": "/assets/reconstitutions-3d/notices/despotiko-mandra-sanctuaire-apollon-temple-banquet-vers-495-av-jc.json",
+  "scientific_sources": [
+    {
+      "label": "Éphorie des Antiquités des Cyclades — Despotiko (histoire des fouilles, sanctuaire et temple A)",
+      "url": "https://cyclades.culture.gov.gr/en/location/despotiko/"
+    },
+    {
+      "label": "Municipalité d’Antiparos — Despotiko, site archéologique et sanctuaire d’Apollon",
+      "url": "https://antiparos.gr/en/despotiko/"
+    },
+    {
+      "label": "Ministère grec de la Culture — Despotiko, nouveau complexe de bâtiments découvert en 2017",
+      "url": "https://www.culture.gov.gr/el/Information/SitePages/view.aspx?nID=1979"
+    },
+    {
+      "label": "Fondation A. G. Leventis — fouilles archéologiques à Despotiko, Cyclades",
+      "url": "https://www.leventisfoundation.org/heritage-conservation/excavations-in-despotikon-cyclades"
+    }
+  ],
+  "primary_texts": [
+    "Pas de témoignage antique directement identifié du sanctuaire de Despotiko dans les corpus classiques ; les phases et dédicaces reposent principalement sur le matériel archéologique et les inscriptions. Ne pas inventer de citation antique."
+  ],
+  "methodology": "Image 2D photoréaliste à apparence 3D, artistique, non mesurable et non géoréférencée ; voir notice pour les degrés d’incertitude. La documentation institutionnelle décrit les vestiges, pas les détails produits par génération.",
+  "publication_status": "fichier_prepare_non_publie_verification_https_requise"
+}
