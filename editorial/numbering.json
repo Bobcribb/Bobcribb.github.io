@@ -5071,6 +5071,12 @@
           "path": "chapitres/comparatif/volume-ccclviii-mc-131-grenades-sacre-persephone-rimmon-nimrud-egypte-chypre.md",
           "request_sha256": "ce90bfab19c8919da3a3dd5681eb5346c53b37013c12a5cb2622e512bd14faf1",
           "initial_source_sha256": "ec45bbf6c09dfa718bb31ce682b23da551445313b152d4fa493fa5739ee436b3"
+        },
+        "0b132c57-d3d0-4491-963d-202611071731": {
+          "number": 359,
+          "path": "chapitres/comparatif/volume-ccclix-mc-132-cheval-sacre-sacrifice-souverainete-serment-grece-rome-inde-scythes-chine.md",
+          "request_sha256": "697564f314cb0a6621e1ba154ff3cd57d135b85265dd04c34537cf58a779f3ca",
+          "initial_source_sha256": "9d992f6c159f5d2ab8491328fa10662541d78631dd2d55eb64bff605f7018f9a"
         }
       }
     }
