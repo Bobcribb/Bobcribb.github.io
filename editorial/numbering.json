@@ -1503,6 +1503,18 @@
           "path": "chapitres/origines-du-sacre/822-kuntur-wasi-or-funeraire-reptiles-aquatiques-refondation-temple.md",
           "request_sha256": "97b9956e92574e5bf2f8ccd7216e09aea38782426d67695679a0ad76bb47e865",
           "initial_source_sha256": "c39c80ec21dba2d12a42d49433d81842ee13f2f9aa16bdc71a742429070d7d13"
+        },
+        "a6d4231c-5ed4-448b-90cb-202611071621": {
+          "number": 823,
+          "path": "chapitres/origines-du-sacre/823-sechin-bajo-places-circulaires-reliefs-graffiti-fermeture-rituelle.md",
+          "request_sha256": "b54bdbd87e15368d9bc298019384f7c7df115aa82a637fad3eb1bf7ba7bcf5c0",
+          "initial_source_sha256": "268fdc849c017383038245052d57de87ac1b1ee4c603e378a64a3ae3c830c9a4"
+        },
+        "d72b18a5-0ac4-4719-9ecf-202611071622": {
+          "number": 824,
+          "path": "chapitres/origines-du-sacre/824-ventarron-cerf-peint-pigments-archeometrie-incendie-patrimoine.md",
+          "request_sha256": "5caa32cb78dcd06e6635b26f28020ea7498a47719d7aeb96ebe616d7d0dbf917",
+          "initial_source_sha256": "bfe88d67c7e93d97361592b69182e8037705463bf8b54c6a0bbb9bf8382a07d4"
         }
       }
     },
@@ -3004,6 +3016,12 @@
           "path": "chapitres/comedies/volume-154-euboulos-amaltheia-heracles-cuisine-askolia-corne-abondance.md",
           "request_sha256": "c7d5fb89aeb4880f95a17efb8b6e2b663302a823ddd4d9274cc40086c542b45e",
           "initial_source_sha256": "f5dd2b55e796fe0278cbdc14ee235f6a56badac62f1b8dea57766888212ca162"
+        },
+        "7af8d07c-2c81-49be-94ce-7251fe6a9b03": {
+          "number": 155,
+          "path": "chapitres/comedies/volume-155-euboulos-stephanopolides-vendeuses-couronnes-fleurs-parfums-cosmetiques-chant.md",
+          "request_sha256": "d415fcb3cc73cedca70245ac11c0c768f0b02fad2feebc23fdb697556aed2f42",
+          "initial_source_sha256": "c1f6a6770c6e142232717a8b024a3cce89fcef0d3148c5cff6487a65975dadeb"
         }
       }
     },
@@ -3706,6 +3724,12 @@
           "path": "chapitres/tragedies/volume-ccc-iophon-dexamenos-olene-heracles-eurytion-mnesimache-violence-mariage-tragedie-perdue.md",
           "request_sha256": "4e126ad7bb63819b9df3face8a5c00662feb37d0b3c3f49d606b22e0a0d0f9f3",
           "initial_source_sha256": "7150030fb0b60fbd7e4e546b2daa2a9f39da4a5b6a442f118eb1e1d95286ac65"
+        },
+        "d3c9824a-3e4f-4eb4-ae52-f64dc07f1b90": {
+          "number": 301,
+          "path": "chapitres/tragedies/volume-ccci-iophon-iliou-persis-prise-troie-cheval-priam-cassandre-astyanax-tragedie-perdue.md",
+          "request_sha256": "a11aca17b4afdd66040fc01c74f2d2f3dff5726fc53b162bf656239675d5c84f",
+          "initial_source_sha256": "6544adac09a892ef20f6bb7f7642ef811db118f9218efba398f6d252bd0072d8"
         }
       }
     },

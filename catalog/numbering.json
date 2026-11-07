@@ -2370,6 +2370,12 @@
         "url": "/chapitres/tragedies/volume-ccc-iophon-dexamenos-olene-heracles-eurytion-mnesimache-violence-mariage-tragedie-perdue/",
         "title": "Volume CCC (300) — Iophon, Dexaménos (Δεξάμενος) — Accueillir, contraindre, protéger : le roi d’Olénos, la fille menacée, le centaure et les contradictions de l’héroïsme",
         "source": "chapitres/tragedies/volume-ccc-iophon-dexamenos-olene-heracles-eurytion-mnesimache-violence-mariage-tragedie-perdue.md"
+      },
+      {
+        "number": 301,
+        "url": "/chapitres/tragedies/volume-ccci-iophon-iliou-persis-prise-troie-cheval-priam-cassandre-astyanax-tragedie-perdue/",
+        "title": "Volume CCCI (301) — Iophon, La Prise d’Ilion (Ἰλίου Πέρσις) — L’effondrement de Troie, la violence du vainqueur et le droit des vaincus",
+        "source": "chapitres/tragedies/volume-ccci-iophon-iliou-persis-prise-troie-cheval-priam-cassandre-astyanax-tragedie-perdue.md"
       }
     ],
     "comparatif": [
@@ -5131,6 +5137,12 @@
         "url": "/chapitres/comedies/volume-154-euboulos-amaltheia-heracles-cuisine-askolia-corne-abondance/",
         "title": "Volume CLIV (154) — Euboulos, Amaltheia (Ἀμάλθεια) : Héraclès à table, l'outre de Dionysos et les limites de l'abondance",
         "source": "chapitres/comedies/volume-154-euboulos-amaltheia-heracles-cuisine-askolia-corne-abondance.md"
+      },
+      {
+        "number": 155,
+        "url": "/chapitres/comedies/volume-155-euboulos-stephanopolides-vendeuses-couronnes-fleurs-parfums-cosmetiques-chant/",
+        "title": "Volume CLV (155) — Euboulos, Stephanopōlides (Στεφανοπώλιδες) — Les vendeuses de couronnes : fleurs, travail féminin, cosmétique, commerce et voix chorales dans une comédie moyenne perdue",
+        "source": "chapitres/comedies/volume-155-euboulos-stephanopolides-vendeuses-couronnes-fleurs-parfums-cosmetiques-chant.md"
       }
     ],
     "origines-du-sacre": [
@@ -7365,6 +7377,18 @@
         "url": "/chapitres/origines-du-sacre/822-kuntur-wasi-or-funeraire-reptiles-aquatiques-refondation-temple/",
         "title": "Chapitre 822 — Kuntur Wasi : or funéraire, reptiles aquatiques et refondation d'un temple andin",
         "source": "chapitres/origines-du-sacre/822-kuntur-wasi-or-funeraire-reptiles-aquatiques-refondation-temple.md"
+      },
+      {
+        "number": 823,
+        "url": "/chapitres/origines-du-sacre/823-sechin-bajo-places-circulaires-reliefs-graffiti-fermeture-rituelle/",
+        "title": "Chapitre 823 — Sechín Bajo : places circulaires, reliefs et graffiti, deux millénaires de transformations cérémonielles",
+        "source": "chapitres/origines-du-sacre/823-sechin-bajo-places-circulaires-reliefs-graffiti-fermeture-rituelle.md"
+      },
+      {
+        "number": 824,
+        "url": "/chapitres/origines-du-sacre/824-ventarron-cerf-peint-pigments-archeometrie-incendie-patrimoine/",
+        "title": "Chapitre 824 — Ventarrón : le cerf capturé, les temples peints et l'archéométrie des origines du sacré",
+        "source": "chapitres/origines-du-sacre/824-ventarron-cerf-peint-pigments-archeometrie-incendie-patrimoine.md"
       }
     ]
   },
