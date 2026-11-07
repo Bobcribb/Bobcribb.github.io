@@ -1191,6 +1191,18 @@
           "path": "chapitres/origines-du-sacre/770-kaole-bagamoyo-mosquees-tombes-piliers-inscriptions-rivage-memoire.md",
           "request_sha256": "81fdc177265af692d92ce3245489a801a8f5b5153462761dcc940fe14ae2296f",
           "initial_source_sha256": "6d84c385f88f5a69674b1b5efd990e067056f0c6f16e050575b57a70b547c825"
+        },
+        "35a68dd9-9907-4b0c-960b-1cb7db5e3042": {
+          "number": 771,
+          "path": "chapitres/origines-du-sacre/771-tumbatu-mkokotoni-zanzibar-jongowe-mosquees-perles-travail-identites.md",
+          "request_sha256": "d2f2f046e1362d39b456193d2552d746f89a6467102613146acf7172b14d8809",
+          "initial_source_sha256": "c26bb56d31046b366f48a7578884341397a19e12c39f2ace29cd7f9136787c3b"
+        },
+        "4b1ac970-cf89-42bf-9be6-e87fc5bd2a11": {
+          "number": 772,
+          "path": "chapitres/origines-du-sacre/772-nunge-bagamoyo-sel-plain-ware-echanges-interieur-pouvoir-sacre-limites.md",
+          "request_sha256": "0912ce0d8045f70aee055b86201635bd1f593f046a74a02be6222850add7cac8",
+          "initial_source_sha256": "6758c323df945e4bbd8e8e9ae831adcd0c33ce16dc4f71fddaa741aaa95d1bee"
         }
       }
     },
@@ -2500,6 +2512,12 @@
           "path": "chapitres/comedies/volume-139-anaxandrides-protesilaos-iphicrate-cotys-parfum-banquet-politique.md",
           "request_sha256": "8e172acd2253ce22778e0ff1546fcfb1e646b3362209402e882e3eee234acbcd",
           "initial_source_sha256": "484a8d9364393d48b5fc1eb61fdc59936406bba091f45b68340a1afba80df529"
+        },
+        "f47c3b29-8141-4a56-a250-4e9f9287fd33": {
+          "number": 140,
+          "path": "chapitres/comedies/volume-140-timokles-dionysiazousai-tragedie-consolation-athenee-stobee.md",
+          "request_sha256": "6f0d578a7c49b132b84e7820328d0f4e61fb51a778945493bfa68ac0d838cd38",
+          "initial_source_sha256": "1c93ccd59776d078b18bf5ad2d373bbfad8174320e6b77d28651f8afc5174429"
         }
       }
     },
@@ -3118,6 +3136,12 @@
           "path": "chapitres/tragedies/volume-cclxxxvi-ion-de-chios-argeioi-argiens-identite-collective-fragments-10-12.md",
           "request_sha256": "1c263d23270022bae2b1410c47ad592194380f5a141618d9e8fdc7f54972f0b4",
           "initial_source_sha256": "57d2c2618b1168e4d0606ebacd4514943da187cce14f5754142d0c429119686c"
+        },
+        "9b1b2300-1cf1-48df-8ed0-202611070520": {
+          "number": 287,
+          "path": "chapitres/tragedies/volume-cclxxxvii-ion-de-chios-eurytidai-fils-eurytos-iphitos-iole-oechalie.md",
+          "request_sha256": "482263011ac7bcf71e0931722d0e97cee777d0c9c7290eed3f3291e881573907",
+          "initial_source_sha256": "eaeff9582dcf36cc31dc697c98278ff41d21b9cd2595c14df2238b3bcef0c7a6"
         }
       }
     },
@@ -4285,6 +4309,12 @@
           "path": "chapitres/comparatif/volume-cccxxxv-paix-mortier-guerre-pilons-absents-cleon-brasidas-cites-421.md",
           "request_sha256": "cafeb325c4b19949aa0f2a064875a1235d5d96dbd70c157d40652ee0d7e6a007",
           "initial_source_sha256": "b7f7c2de9835cbb071bef4f7cd318dbcf32f6525ff792a51d1bd01100b1d3cd2"
+        },
+        "b3c7f54a-6c18-4cab-b5fe-202611070501": {
+          "number": 336,
+          "path": "chapitres/comparatif/volume-cccxxxvi-paix-theoria-boule-prytanes-fete-corps-rite-421.md",
+          "request_sha256": "4958f4742644e9fd27ae5b371496fdabf1c521ebc12cd9190dfc9638086a64fa",
+          "initial_source_sha256": "ba544426c61a2be3cf54e435abd2cc415dd151a703fdd04c3f68bba3ef34427b"
         }
       }
     }
