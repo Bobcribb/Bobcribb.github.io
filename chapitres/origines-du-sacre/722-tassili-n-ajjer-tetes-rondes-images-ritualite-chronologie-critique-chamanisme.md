@@ -197,3 +197,15 @@ Le Tassili n'Ajjer invite à refuser la fausse alternative entre certitude relig
 ### Notices iconographiques proposées
 
 **Notice A — Têtes rondes du Tassili.** Reproduction de panneau original autorisée, localisation générale, style, incertitude chronologique, photographie non retouchée et crédits ; ne pas intituler « divinité » une figure non identifiée. **Notice B — Chronologie comparative.** Frise Têtes rondes/Bovidien/Iheren/Caballin/Camélin, distinguant dates proposées et datations de contextes. **Notice C — Méthode stratigraphique.** Schéma pédagogique original séparant pigment, dépôt associé et date radiocarbone ou OSL. **Notice D — Histoire des reproductions.** Fac-similé d'un relevé historique et photographie actuelle, avec avertissement sur les écarts de tracé. Aucune photographie tierce n'est reproduite dans la présente livraison faute de licence confirmée.
+
+---
+
+### Note éditoriale scientifique — Jean-Loïc Le Quellec et Frédérique Duquesnoy (7 novembre 2026)
+
+**Travaux français supplémentaires.** Frédérique Duquesnoy et Jean-Loïc Le Quellec, « Les images rupestres du Sahara central. Nouvelles approches, nouveaux outils », *Les Nouvelles de l'archéologie*, n° 154 (décembre 2018), p. **51–56**, DOI [10.4000/nda.5341](https://doi.org/10.4000/nda.5341). La [présentation de l'éditeur, Éditions de la Maison des sciences de l'homme](https://www.editions-msh.fr/livre/les-nouvelles-de-larcheologie-n-154-decembre-2018/) et le [résumé bibliographique DOAJ](https://doaj.org/article/5c44437f45614718979162055e785d52) identifient cet article. Les auteurs discutent la reconstitution des chronologies et le remplacement des lectures symboliques insuffisamment contrôlées par une démarche archéologique documentée.
+
+**Ouvrage de cadrage :** Jean-Loïc Le Quellec, *Arts rupestres et mythologies en Afrique*, Paris, Flammarion, **2004**, 212 p., [notice de la Bibliothèque nationale de France](https://catalogue.bnf.fr/ark:/12148/cb392521807). Ce livre élargit le champ comparatif aux différentes zones africaines ; cette échelle ne saurait être convertie en interprétation certaine de chaque panneau du Tassili.
+
+**Institution patrimoniale :** la [fiche du patrimoine mondial de l'UNESCO sur le Tassili n'Ajjer](https://whc.unesco.org/en/list/179/) distingue différentes périodes iconographiques et présente l'existence de possibles activités magico-religieuses associées à certaines images. Ce langage demeure **prudent** : l'inscription au patrimoine mondial ne certifie ni l'identification d'une divinité représentée ni un rite chamanique spécifique.
+
+**Contrôle de preuve.** Conserver séparément l'observation des images, la position des peintures sur leurs supports, les superpositions, les arguments chronologiques indirects et les hypothèses d'interprétation. La date d'un niveau d'occupation voisin ne constitue pas nécessairement la date exacte du pigment. L'article de Duquesnoy et Le Quellec est ici utilisé au niveau de ses références et de son résumé éditorial consultés, **sans prétendre à une collation intégrale de toutes ses pages**. Aucune appréciation de MYTHOS n'est imputée aux chercheurs ou à l'UNESCO.

@@ -344,3 +344,13 @@ La connaissance la plus solide associe trois exigences : ne pas nier la souverai
 - **Comparaison topographique**, carte non anachronique de la Basse-Nubie et des sites d'Abydos/Hiérakonpolis : « Réseau fluvial et non frontières nationales actuelles. »
 
 Aucune reconstitution de palais, d'encensement ou de couronnement ne doit être présentée comme un document photographique de Qustul. Les photographies et modèles officiels restent soumis à leurs droits et conditions d'emploi.
+
+---
+
+### Note éditoriale scientifique — Dominique Valbelle et l'ISAC Museum (7 novembre 2026)
+
+**Référence d'égyptologie française :** Dominique Valbelle, *Les Neuf Arcs. L'Égyptien et les étrangers, de la préhistoire à la conquête d'Alexandre*, Paris, Armand Colin, **1990**, 316 p. ([notice de bibliothèque](https://bm-grenoble.fr/detailstatic.aspx?RSC_BASE=SYRACUSE&RSC_DOCID=1063610&TITLE=les-neuf-arcs-l-egyptien-et-les-etrangers-de-la-prehistoire-a-la-conquete-d-alexandre-dominique-valb) ; [bibliographie du laboratoire Orient & Méditerranée](https://www.orient-mediterranee.com/member/valbelle-dominique/)). Cet ouvrage porte sur la manière dont l'Égypte ancienne représente ses voisins et les populations étrangères. Il constitue un **contrepoint historiographique** pertinent pour comprendre les dangers d'une lecture exclusivement égyptocentrée des signes de souveraineté nubiens ; il n'est pas présenté comme une étude spécifique de l'encensoir de Qustul.
+
+**Objet matériel vérifié :** l'Institute for the Study of Ancient Cultures (Université de Chicago) conserve l'encensoir de Qustul sous l'inventaire **E24069**, provenant du **cimetière L, tombe L24**, fouillé en **1964**. Son catalogue *100 Highlights of the Collections of the Oriental Institute Museum* (2019), [section Nubian Collection, p. 116](https://isac-idb-static.uchicago.edu/multimedia/326167/MISC_100museumhighlights.pdf), le date approximativement de **3200–3000 av. J.-C.**, signale une **restauration moderne**, et décrit une frise de bateaux, une figure couronnée, un faucon, une rosette et un prisonnier. Les motifs sont identifiés sur le décor, mais leur interprétation politique et religieuse nécessite la confrontation aux ensembles contemporains.
+
+**Réserve scientifique :** la ressemblance avec une iconographie royale égyptienne ne prouve pas, à elle seule, la direction de tous les transferts culturels ni l'existence d'un « premier pharaon nubien » historiquement nommé. Ne pas traiter les dessins complétant les parties lacunaires comme des tracés antiques entièrement conservés. L'ouvrage de Valbelle fournit une méthode de contextualisation, **non un avis sur MYTHOS**, et la notice muséale identifie l'objet, sans trancher l'ensemble du débat historiographique.
