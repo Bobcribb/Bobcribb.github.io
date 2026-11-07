@@ -1110,6 +1110,36 @@
         "url": "/chapitres/encyclopedie/chapitre-487-telchines-rhodes-magie-metallurgie-poseidon-lindos-callimaque-autochtonie/",
         "title": "Chapitre 487 — Les Telchines de Rhodes : artisans primordiaux, magie des métaux, dieux nourriciers et mémoire de l'autochtonie égéenne",
         "source": "chapitres/encyclopedie/chapitre-487-telchines-rhodes-magie-metallurgie-poseidon-lindos-callimaque-autochtonie.md"
+      },
+      {
+        "number": 488,
+        "url": "/chapitres/encyclopedie/chapitre-488-aloadai-otos-ephialtes-iphimedeia-naxos-helicon-muses-ares-gigantisme/",
+        "title": "Chapitre 488 — Les Aloades, Otos et Éphialtès : géants contre l'Olympe, captifs d'Arès et fondateurs des Muses sur l'Hélicon",
+        "source": "chapitres/encyclopedie/chapitre-488-aloadai-otos-ephialtes-iphimedeia-naxos-helicon-muses-ares-gigantisme.md"
+      },
+      {
+        "number": 489,
+        "url": "/chapitres/encyclopedie/chapitre-489-polybotes-poseidon-nisyros-gigantomachie-vases-geologie/",
+        "title": "Chapitre 489 — Polybotès, Poséidon et Nisyros : Gigantomachie, naissance d'une île, images attiques et paysage volcanique",
+        "source": "chapitres/encyclopedie/chapitre-489-polybotes-poseidon-nisyros-gigantomachie-vases-geologie.md"
+      },
+      {
+        "number": 490,
+        "url": "/chapitres/encyclopedie/chapitre-490-thamyris-thamyras-muses-cithare-hybris-dorion-philammon-polygnotos/",
+        "title": "Chapitre 490 — Thamyris contre les Muses : le chant perdu, la cithare brisée et les frontières de l'inspiration poétique",
+        "source": "chapitres/encyclopedie/chapitre-490-thamyris-thamyras-muses-cithare-hybris-dorion-philammon-polygnotos.md"
+      },
+      {
+        "number": 491,
+        "url": "/chapitres/encyclopedie/chapitre-491-hylas-nymphes-mysie-heracles-argonautes-kios-echo-cultes-poetique/",
+        "title": "Chapitre 491 — Hylas, les Nymphes de Mysie et la disparition du compagnon d'Héraclès : sources, rites de Kios, écho, images et poétique du deuil",
+        "source": "chapitres/encyclopedie/chapitre-491-hylas-nymphes-mysie-heracles-argonautes-kios-echo-cultes-poetique.md"
+      },
+      {
+        "number": 492,
+        "url": "/chapitres/encyclopedie/chapitre-492-harpyes-thaumas-electre-phinee-boreades-strophades-pandareos-virgile-iconographie/",
+        "title": "Chapitre 492 — Les Harpyes, du vent ravisseur à la nourriture interdite : Thaumas, Pandaréos, Phinée, les Boréades et les Strophades",
+        "source": "chapitres/encyclopedie/chapitre-492-harpyes-thaumas-electre-phinee-boreades-strophades-pandareos-virgile-iconographie.md"
       }
     ],
     "tragedies": [
@@ -2334,6 +2364,30 @@
         "url": "/chapitres/tragedies/volume-ccxcviii-iophon-achille-achilleus-colere-patrocle-mort-gloire-souda-tragedie-perdue/",
         "title": "Volume CCXCVIII (298) — Iophon, Achille (Ἀχιλλεύς) : la colère, le deuil, le choix de mourir et les limites d'une tragédie perdue",
         "source": "chapitres/tragedies/volume-ccxcviii-iophon-achille-achilleus-colere-patrocle-mort-gloire-souda-tragedie-perdue.md"
+      },
+      {
+        "number": 299,
+        "url": "/chapitres/tragedies/volume-ccxcix-iophon-bakchai-bacchantes-penthee-stobee-fragment-2-connaissance-divin-tragedie-perdue/",
+        "title": "Volume CCXCIX (299) — Iophon, Les Bacchantes (Βάκχαι) : les limites du savoir divin, la parole féminine et l'énigme de Penthée",
+        "source": "chapitres/tragedies/volume-ccxcix-iophon-bakchai-bacchantes-penthee-stobee-fragment-2-connaissance-divin-tragedie-perdue.md"
+      },
+      {
+        "number": 300,
+        "url": "/chapitres/tragedies/volume-ccc-iophon-dexamenos-olene-heracles-eurytion-mnesimache-violence-mariage-tragedie-perdue/",
+        "title": "Volume CCC (300) — Iophon, Dexaménos (Δεξάμενος) — Accueillir, contraindre, protéger : le roi d’Olénos, la fille menacée, le centaure et les contradictions de l’héroïsme",
+        "source": "chapitres/tragedies/volume-ccc-iophon-dexamenos-olene-heracles-eurytion-mnesimache-violence-mariage-tragedie-perdue.md"
+      },
+      {
+        "number": 301,
+        "url": "/chapitres/tragedies/volume-ccci-iophon-iliou-persis-prise-troie-cheval-priam-cassandre-astyanax-tragedie-perdue/",
+        "title": "Volume CCCI (301) — Iophon, La Prise d’Ilion (Ἰλίου Πέρσις) — L’effondrement de Troie, la violence du vainqueur et le droit des vaincus",
+        "source": "chapitres/tragedies/volume-ccci-iophon-iliou-persis-prise-troie-cheval-priam-cassandre-astyanax-tragedie-perdue.md"
+      },
+      {
+        "number": 302,
+        "url": "/chapitres/tragedies/volume-cccii-iophon-telephe-telephos-auge-mysie-achille-guerison-oracle-tragedie-perdue/",
+        "title": "Volume CCCII (302) — Iophon, Télèphe (Τήλεφος) — La blessure, l'ennemi guérisseur et les frontières de la communauté",
+        "source": "chapitres/tragedies/volume-cccii-iophon-telephe-telephos-auge-mysie-achille-guerison-oracle-tragedie-perdue.md"
       }
     ],
     "comparatif": [
@@ -4127,6 +4181,60 @@
         "url": "/chapitres/comparatif/volume-cccl-grenouilles-melopoiia-parodies-musicales-monodie-glyke-405/",
         "title": "Volume CCCL (350) — Qui peut juger ce qu’il n’entend plus ? Les deux poètes comme compositeurs : refrains, innovation musicale, monodie de Glykè et autorité du goût dans les Grenouilles d’Aristophane (405 av. n. è.)",
         "source": "chapitres/comparatif/volume-cccl-grenouilles-melopoiia-parodies-musicales-monodie-glyke-405.md"
+      },
+      {
+        "number": 351,
+        "url": "/chapitres/comparatif/volume-cccli-mc-125-gemmes-sacre-lapis-turquoise-jade-egypte-sumer-maya/",
+        "title": "Volume CCCLI (351) — MC-125 — Gemmes du sacré : lapis-lazuli, turquoise, pierres du jugement, jade et souverainetés matérielles de Sumer à la Mésoamérique",
+        "source": "chapitres/comparatif/volume-cccli-mc-125-gemmes-sacre-lapis-turquoise-jade-egypte-sumer-maya.md"
+      },
+      {
+        "number": 352,
+        "url": "/chapitres/comparatif/volume-ccclii-mc-124-cornes-du-sacre-mesopotamie-egypte-autels-shofar-delos-achelous/",
+        "title": "Volume CCCLII (352) — MC-124 — Les cornes du sacré : puissance divine, autels, souveraineté, voix rituelle et abondance, de la Mésopotamie à l’Égypte, au Levant et au monde gréco-romain",
+        "source": "chapitres/comparatif/volume-ccclii-mc-124-cornes-du-sacre-mesopotamie-egypte-autels-shofar-delos-achelous.md"
+      },
+      {
+        "number": 353,
+        "url": "/chapitres/comparatif/volume-cccliii-mc-127-serpents-sacre-ningishzida-wadjet-illuyanka-asclepios-nehushtan-naga/",
+        "title": "Volume CCCLIII (353) — MC-127 — Les serpents du sacré : protection, guérison, combat cosmique et souveraineté, de Girsu à l’Égypte, à l’Anatolie, à la Grèce, à l’Iran et aux traditions de l’Inde",
+        "source": "chapitres/comparatif/volume-cccliii-mc-127-serpents-sacre-ningishzida-wadjet-illuyanka-asclepios-nehushtan-naga.md"
+      },
+      {
+        "number": 354,
+        "url": "/chapitres/comparatif/volume-cccliv-mc-126-tirage-sort-oracles-goral-kin-kleroterion-fortuna-yijing/",
+        "title": "Volume CCCLIV (354) — MC-126 — Tirer au sort l'invisible : oracle, justice, pouvoir et hasard, de l'Anatolie hittite à Israël, à la Grèce, à Rome et à la Chine",
+        "source": "chapitres/comparatif/volume-cccliv-mc-126-tirage-sort-oracles-goral-kin-kleroterion-fortuna-yijing.md"
+      },
+      {
+        "number": 355,
+        "url": "/chapitres/comparatif/volume-ccclv-mc-128-peaux-marquees-gebelein-deir-el-medina-herodote-pazyryk-otzi/",
+        "title": "Volume CCCLV (355) — MC-128 — Les peaux marquées : tatouage, appartenance, protection et souveraineté du corps, de l'Égypte et de la Thrace à la Syrie et à l'Altaï",
+        "source": "chapitres/comparatif/volume-ccclv-mc-128-peaux-marquees-gebelein-deir-el-medina-herodote-pazyryk-otzi.md"
+      },
+      {
+        "number": 356,
+        "url": "/chapitres/comparatif/volume-ccclvi-mc-129-baiser-sacre-proskynesis-baal-heracles-paix-rituelle/",
+        "title": "Volume CCCLVI (356) — MC-129 — Le baiser du sacré : bouche, main, statue, souveraineté et paix rituelle, du Levant ancien à la Perse, à la Grèce et au christianisme primitif",
+        "source": "chapitres/comparatif/volume-ccclvi-mc-129-baiser-sacre-proskynesis-baal-heracles-paix-rituelle.md"
+      },
+      {
+        "number": 357,
+        "url": "/chapitres/comparatif/volume-ccclvii-mc-130-ailes-sacre-disque-soleil-genies-cherubins-nike-ahuramazda-garuda/",
+        "title": "Volume CCCLVII (357) — MC-130 — Les ailes du sacré : protection, souveraineté, médiation et victoire dans les images de l’Égypte, de la Mésopotamie, du Levant, de la Perse, de la Grèce et de l’Inde",
+        "source": "chapitres/comparatif/volume-ccclvii-mc-130-ailes-sacre-disque-soleil-genies-cherubins-nike-ahuramazda-garuda.md"
+      },
+      {
+        "number": 358,
+        "url": "/chapitres/comparatif/volume-ccclviii-mc-131-grenades-sacre-persephone-rimmon-nimrud-egypte-chypre/",
+        "title": "Volume CCCLVIII (358) — MC-131 — Les grenades du sacré : graine des Enfers, parure royale, fruit du jardin et architecture sacerdotale, de l'Égypte à la Mésopotamie, au Levant et à la Grèce",
+        "source": "chapitres/comparatif/volume-ccclviii-mc-131-grenades-sacre-persephone-rimmon-nimrud-egypte-chypre.md"
+      },
+      {
+        "number": 359,
+        "url": "/chapitres/comparatif/volume-ccclix-mc-132-cheval-sacre-sacrifice-souverainete-serment-grece-rome-inde-scythes-chine/",
+        "title": "Volume CCCLIX (359) — MC-132 — Le cheval du sacré : offrande, souveraineté, serment, guerre et voyage des morts de l’Inde védique à Rome, de la Grèce aux steppes et à la Chine ancienne",
+        "source": "chapitres/comparatif/volume-ccclix-mc-132-cheval-sacre-sacrifice-souverainete-serment-grece-rome-inde-scythes-chine.md"
       }
     ],
     "comedies": [
@@ -5035,6 +5143,36 @@
         "url": "/chapitres/comedies/volume-151-timokles-orestautokleides-eumenides-hetaires-parabyston-paratragedie/",
         "title": "Volume CLI (151) — Timoclès, Orestautokleidès (Ὀρεσταυτοκλείδης) : les Érinyes, les hétaïres, la justice et la politique des identités sur la scène comique",
         "source": "chapitres/comedies/volume-151-timokles-orestautokleides-eumenides-hetaires-parabyston-paratragedie.md"
+      },
+      {
+        "number": 152,
+        "url": "/chapitres/comedies/volume-152-epicharme-hebas-gamos-noces-hebe-heracles-banquet-poetique-nourriture-mousai/",
+        "title": "Volume CLII (152) — Épicharme, Hēbas gamos (Ἥβας γάμος) — Les Noces d'Hébé : Héraclès, le banquet des dieux et la poétique de l'abondance dans une comédie sicéliote perdue",
+        "source": "chapitres/comedies/volume-152-epicharme-hebas-gamos-noces-hebe-heracles-banquet-poetique-nourriture-mousai.md"
+      },
+      {
+        "number": 153,
+        "url": "/chapitres/comedies/volume-153-euboulos-ankylion-kottabos-charisios-dekate-prix-navets-fete/",
+        "title": "Volume CLIII (153) — Euboulos, Ankylion (Ἀγκυλίων) — Le lancer courbe et les prix de la fête : kottabos, navet rôti, gâteaux, naissance et mémoire d’une comédie moyenne perdue",
+        "source": "chapitres/comedies/volume-153-euboulos-ankylion-kottabos-charisios-dekate-prix-navets-fete.md"
+      },
+      {
+        "number": 154,
+        "url": "/chapitres/comedies/volume-154-euboulos-amaltheia-heracles-cuisine-askolia-corne-abondance/",
+        "title": "Volume CLIV (154) — Euboulos, Amaltheia (Ἀμάλθεια) : Héraclès à table, l'outre de Dionysos et les limites de l'abondance",
+        "source": "chapitres/comedies/volume-154-euboulos-amaltheia-heracles-cuisine-askolia-corne-abondance.md"
+      },
+      {
+        "number": 155,
+        "url": "/chapitres/comedies/volume-155-euboulos-stephanopolides-vendeuses-couronnes-fleurs-parfums-cosmetiques-chant/",
+        "title": "Volume CLV (155) — Euboulos, Stephanopōlides (Στεφανοπώλιδες) — Les vendeuses de couronnes : fleurs, travail féminin, cosmétique, commerce et voix chorales dans une comédie moyenne perdue",
+        "source": "chapitres/comedies/volume-155-euboulos-stephanopolides-vendeuses-couronnes-fleurs-parfums-cosmetiques-chant.md"
+      },
+      {
+        "number": 156,
+        "url": "/chapitres/comedies/volume-156-callias-grammatike-tragodia-tragedie-lettres-alphabet-choros/",
+        "title": "Volume CLVI (156) — Callias (Καλλίας), la « Tragédie des lettres » ou Grammatikē tragōidia (γραμματικὴ τραγῳδία) : alphabet, chœur, énigme et concurrence des genres dramatiques",
+        "source": "chapitres/comedies/volume-156-callias-grammatike-tragodia-tragedie-lettres-alphabet-choros.md"
       }
     ],
     "origines-du-sacre": [
@@ -7197,6 +7335,108 @@
         "url": "/chapitres/origines-du-sacre/810-apollo-11-huns-namibie-plaquettes-peintes-30000-ans-pigments-images/",
         "title": "Chapitre 810 — Apollo 11, monts Huns (Namibie) : sept plaquettes peintes vers 30 000 ans, les techniques du pigment et les limites d'une archéologie du religieux",
         "source": "chapitres/origines-du-sacre/810-apollo-11-huns-namibie-plaquettes-peintes-30000-ans-pigments-images.md"
+      },
+      {
+        "number": 811,
+        "url": "/chapitres/origines-du-sacre/811-wonderwerk-kuruman-afrique-sud-gravures-holocene-feu-pleistocene-stratigraphie/",
+        "title": "Chapitre 811 — Wonderwerk Cave (Afrique du Sud) : du feu pléistocène aux pierres gravées holocènes — les seuils de preuve d'une histoire du sacré",
+        "source": "chapitres/origines-du-sacre/811-wonderwerk-kuruman-afrique-sud-gravures-holocene-feu-pleistocene-stratigraphie.md"
+      },
+      {
+        "number": 812,
+        "url": "/chapitres/origines-du-sacre/812-sanxingdui-sichuan-fosses-k1-k8-soie-ivoire-bronze-sacrifice-2026/",
+        "title": "Chapitre 812 — Sanxingdui : masques de bronze, fosses K1–K8, ivoire et soies rituelles dans le Sichuan ancien — bilan scientifique de 2026",
+        "source": "chapitres/origines-du-sacre/812-sanxingdui-sichuan-fosses-k1-k8-soie-ivoire-bronze-sacrifice-2026.md"
+      },
+      {
+        "number": 813,
+        "url": "/chapitres/origines-du-sacre/813-makgabeng-limpopo-koma-initiation-maleboho-camel-archives-orales/",
+        "title": "Chapitre 813 — Makgabeng, Limpopo : peintures d’initiation, mémoire de la guerre de Maleboho et politique de l’image",
+        "source": "chapitres/origines-du-sacre/813-makgabeng-limpopo-koma-initiation-maleboho-camel-archives-orales.md"
+      },
+      {
+        "number": 814,
+        "url": "/chapitres/origines-du-sacre/814-kakapel-kenya-peintures-kansyore-perles-ocre-agriculture-holocene/",
+        "title": "Chapitre 814 — Kakapel (Kenya occidental) : peintures d’abri, sépultures à l’ocre et neuf millénaires de transformations sociales",
+        "source": "chapitres/origines-du-sacre/814-kakapel-kenya-peintures-kansyore-perles-ocre-agriculture-holocene.md"
+      },
+      {
+        "number": 815,
+        "url": "/chapitres/origines-du-sacre/815-makgabeng-initiation-koma-memoire-hananwa-peintures/",
+        "title": "Chapitre 815 — Makgabeng : peintures d’initiation, koma, corps sociaux et mémoire de la guerre ḥananwa",
+        "source": "chapitres/origines-du-sacre/815-makgabeng-initiation-koma-memoire-hananwa-peintures.md"
+      },
+      {
+        "number": 816,
+        "url": "/chapitres/origines-du-sacre/816-kakapel-kenya-peintures-palimpseste-bovins-adn-ancien/",
+        "title": "Chapitre 816 — Kakapel : palimpseste rupestre, bovins, ADN ancien et transformations du sacré au Kenya occidental",
+        "source": "chapitres/origines-du-sacre/816-kakapel-kenya-peintures-palimpseste-bovins-adn-ancien.md"
+      },
+      {
+        "number": 817,
+        "url": "/chapitres/origines-du-sacre/817-jinsha-chengdu-meiyuan-offrandes-ivoire-oiseaux-soleil-or-shu/",
+        "title": "Chapitre 817 — Jinsha : ornement d'or aux oiseaux, ivoire des berges, jade et transformation des rites de l'ancien Shu à Chengdu",
+        "source": "chapitres/origines-du-sacre/817-jinsha-chengdu-meiyuan-offrandes-ivoire-oiseaux-soleil-or-shu.md"
+      },
+      {
+        "number": 818,
+        "url": "/chapitres/origines-du-sacre/818-domboshava-zimbabwe-pluie-ancetres-peintures-patrimoine-vivant/",
+        "title": "Chapitre 818 — Domboshava : peintures rupestres, pluie des ancêtres, vandalisme et droit au patrimoine vivant au Zimbabwe",
+        "source": "chapitres/origines-du-sacre/818-domboshava-zimbabwe-pluie-ancetres-peintures-patrimoine-vivant.md"
+      },
+      {
+        "number": 819,
+        "url": "/chapitres/origines-du-sacre/819-kotosh-mito-mains-croisees-foyers-renovation-rituelle-chronologie/",
+        "title": "Chapitre 819 — Kotosh : les mains croisées, les foyers cérémoniels et la fabrication d'une durée sacrée",
+        "source": "chapitres/origines-du-sacre/819-kotosh-mito-mains-croisees-foyers-renovation-rituelle-chronologie.md"
+      },
+      {
+        "number": 820,
+        "url": "/chapitres/origines-du-sacre/820-chavin-huantar-galeries-pututus-acoustique-images-autorite-ceremonielle/",
+        "title": "Chapitre 820 — Chavín de Huántar : galeries, trompes marines et gouvernement des perceptions",
+        "source": "chapitres/origines-du-sacre/820-chavin-huantar-galeries-pututus-acoustique-images-autorite-ceremonielle.md"
+      },
+      {
+        "number": 821,
+        "url": "/chapitres/origines-du-sacre/821-pacopampa-cajamarca-tombes-elitaires-corps-pigments-pouvoir-rituel/",
+        "title": "Chapitre 821 — Pacopampa : tombeaux d'élite, pigments et autorité dans les Andes formatives",
+        "source": "chapitres/origines-du-sacre/821-pacopampa-cajamarca-tombes-elitaires-corps-pigments-pouvoir-rituel.md"
+      },
+      {
+        "number": 822,
+        "url": "/chapitres/origines-du-sacre/822-kuntur-wasi-or-funeraire-reptiles-aquatiques-refondation-temple/",
+        "title": "Chapitre 822 — Kuntur Wasi : or funéraire, reptiles aquatiques et refondation d'un temple andin",
+        "source": "chapitres/origines-du-sacre/822-kuntur-wasi-or-funeraire-reptiles-aquatiques-refondation-temple.md"
+      },
+      {
+        "number": 823,
+        "url": "/chapitres/origines-du-sacre/823-sechin-bajo-places-circulaires-reliefs-graffiti-fermeture-rituelle/",
+        "title": "Chapitre 823 — Sechín Bajo : places circulaires, reliefs et graffiti, deux millénaires de transformations cérémonielles",
+        "source": "chapitres/origines-du-sacre/823-sechin-bajo-places-circulaires-reliefs-graffiti-fermeture-rituelle.md"
+      },
+      {
+        "number": 824,
+        "url": "/chapitres/origines-du-sacre/824-ventarron-cerf-peint-pigments-archeometrie-incendie-patrimoine/",
+        "title": "Chapitre 824 — Ventarrón : le cerf capturé, les temples peints et l'archéométrie des origines du sacré",
+        "source": "chapitres/origines-du-sacre/824-ventarron-cerf-peint-pigments-archeometrie-incendie-patrimoine.md"
+      },
+      {
+        "number": 825,
+        "url": "/chapitres/origines-du-sacre/825-garagay-temples-en-u-reliefs-polychromes-espaces-rituels/",
+        "title": "Chapitre 825 — Garagay : temples en U, reliefs polychromes et construction des présences rituelles",
+        "source": "chapitres/origines-du-sacre/825-garagay-temples-en-u-reliefs-polychromes-espaces-rituels.md"
+      },
+      {
+        "number": 826,
+        "url": "/chapitres/origines-du-sacre/826-huaca-de-los-reyes-caballo-muerto-reliefs-argile-pouvoir-ceremoniel/",
+        "title": "Chapitre 826 — Huaca de los Reyes et Caballo Muerto : visages d'argile, architecture collective et pouvoir cérémoniel",
+        "source": "chapitres/origines-du-sacre/826-huaca-de-los-reyes-caballo-muerto-reliefs-argile-pouvoir-ceremoniel.md"
+      },
+      {
+        "number": 827,
+        "url": "/chapitres/origines-du-sacre/827-la-galgada-chambres-niches-foyers-tombes-textiles-memoire/",
+        "title": "Chapitre 827 — La Galgada : foyers, chambres à niches, tombes et mémoire dans les Andes précéramiques",
+        "source": "chapitres/origines-du-sacre/827-la-galgada-chambres-niches-foyers-tombes-textiles-memoire.md"
       }
     ]
   },

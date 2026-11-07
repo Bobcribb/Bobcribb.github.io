@@ -1,0 +1,610 @@
+# MYTHOS — Cycle universitaire de MYTHOLOGIE COMPARÉE — Volume CCCLIV (354)
+
+## MC-126 — Tirer au sort l'invisible : oracle, justice, pouvoir et hasard, de l'Anatolie hittite à Israël, à la Grèce, à Rome et à la Chine
+
+*Monographie universitaire originale en français — 7 novembre 2026. Histoire des religions antiques, philologie hittite, hébraïque, grecque, latine et chinoise, archéologie des objets, critique historique, philosophie de la décision et du pouvoir.*
+
+**Statut et numérotation.** MC-126 désigne l'identité historique du présent dossier. Le numéro canonique en chiffres arabes 354 et le volume romain CCCLIV ne peuvent être attribués que par la transaction de publication contrôlée du dépôt MYTHOS. La rédaction de cette monographie ne constitue ni son attribution, ni une preuve de sa publication HTTPS.
+
+**Résumé universitaire.** Les textes anciens documentent des pratiques diversement appelées tirage au sort : le roi hittite sollicite des réponses par des séries symboliques KIN ; les livres de la Bible hébraïque emploient le *gôrāl* pour répartir des parts, désigner des responsables ou déterminer le rôle de deux animaux dans un rite ; le chant VII de l'*Iliade* désigne un champion par un lot tiré d'un casque, tandis que le chant XV imagine le partage du cosmos entre Zeus, Poséidon et Hadès ; Athènes organise une procédure civique de sélection avec des *pinakia* et des *klērōtēria* ; Cicéron dénonce la consultation des *sortes* de Préneste ; des polyèdres gréco-romains suscitent des hypothèses de divination ; dans le *Zhouyi*, l'interprétation des figures est associée à la méthode des tiges d'achillée.
+
+**Hypothèse directrice.** Ces procédures ne constituent pas les manifestations d'une « religion universelle du hasard ». Leur comparaison est néanmoins légitime si elle décompose chaque dispositif en quatre moments : *définition des options*, *production du résultat*, *interprétation de son sens*, *exécution d'une action*. L'autorité d'une procédure peut être rituelle, monarchique, civique, interprétative ou philosophique ; la similitude de l'opération matérielle ne démontre pas une diffusion historique commune.
+
+**Convention épistémique.** [A] attestation textuelle, archéologique ou bibliographique située ; [H] hypothèse de restitution ou d'interprétation historique, contrôlable mais non établie directement ; [P] argument philosophique ou analyse comparatiste contemporaine. La présence d'une source ancienne atteste l'existence d'un récit ou d'une prescription, non l'exécution historique de tous les gestes qu'elle raconte. Les détails de certains instruments demeurent incertains.
+
+# I. CADRE PHILOLOGIQUE ET COMPARATIF
+
+### 1. La pluralité des opérations [P]
+
+La langue française regroupe sous l'expression « tirer au sort » au moins cinq procédures non identiques : allouer une propriété, désigner une personne, distribuer une fonction, identifier un coupable présumé, sélectionner un signe dont une réponse sera inférée. À ces opérations s'ajoute le tirage littéraire qui donne forme à un récit. Dans un cas, un résultat opère comme décision exécutoire ; dans un autre, il ouvre une enquête ; dans un troisième, une méditation morale.
+
+Le protocole comparatif ne partira donc pas d'une essence du hasard. Chaque source sera interrogée sur ses agents, ses objets, ses règles d'admissibilité, l'autorité qu'elle attribue au résultat et le genre littéraire dans lequel l'événement apparaît.
+
+### 2. Le « hasard » n'est pas un mot ancien unique [A/P]
+
+Le français contemporain suggère parfois l'absence de cause, parfois l'imprévisibilité pour un observateur, parfois une sélection sans préférences personnelles. Ces trois acceptions diffèrent. Une issue imprévisible peut être pensée comme décision de YHWH dans un texte sapientiel, comme procédure d'égalité relative dans une constitution, comme résultat soumis à un interprète dans un sanctuaire ou comme signe d'une configuration dans une tradition chinoise.
+
+**[P]** L'historien doit refuser aussi bien l'étiquette anachronique de « probabilité statistique consciente » que le présupposé selon lequel tout tirage antique aurait automatiquement produit un oracle. Les descriptions et leurs justifications doivent être examinées séparément.
+
+### 3. Le grec κλῆρος (*klēros*) [A]
+
+Le grec **κλῆρος** désigne un lot, une part ou ce qui échoit à quelqu'un selon les contextes. Les verbes **κληρόω** et **λαγχάνω** se rapportent à l'attribution par tirage ou au fait de recevoir une part. Le substantif **κληρωτήριον** sera associé à un instrument civique d'allotement connu notamment par les trouvailles archéologiques athéniennes.
+
+Une concordance lexicale ne dispense pas de lire les phrases. Le *klēros* du combat homérique, la part cosmique des dieux et le dispositif administratif de l'Athènes du IVe siècle ne représentent pas la même institution. Leur parenté dans la langue ne démontre pas leur continuité technique.
+
+### 4. L'hébreu גּוֹרָל (*gôrāl*) [A]
+
+Le mot **גּוֹרָל**, pluriel **גּוֹרָלוֹת** (*gôrālôt*), peut désigner un lot matériel, une part assignée ou, dans des métaphores, une condition échue. Le nom ne dit pas à lui seul si l'objet était une pierre, une baguette ou un dé. Les diverses traditions de traduction peuvent ajouter des précisions qui ne sont pas directement contenues dans le mot hébreu.
+
+La racine verbale **נפל** (*n-p-l*, « tomber ») intervient dans plusieurs récits : « le lot tomba » sur une personne. L'historien cherchera d'abord à savoir ce que l'issue produit dans la séquence narrative.
+
+### 5. Le latin *sors* et le piège du « sortilège » [A]
+
+Le latin **sors**, génitif *sortis*, désigne selon les cas l'objet tiré, la part, le destin ou une réponse obtenue par consultation. **Sortitio** peut renvoyer à une distribution administrative ; **sortes** à des lots utilisés à titre oraculaire. Le français « sortilège » constitue une catégorie tardive qui serait impropre pour chaque usage de la *sors* antique.
+
+L'usage du lot dans une répartition de charges n'implique ni une prédiction, ni une intervention divine explicitement affirmée. À Rome, comme dans le monde grec, le contexte pratique détermine le sens religieux ou politique.
+
+### 6. En Chine, les signes avant les analogies [A]
+
+Le **周易** (*Zhōuyì*, « Changements des Zhou ») et les parties interprétatives du *Yijing* appartiennent à un univers philologique distinct. Le mot **筮** (*shì*) désigne notamment la consultation par tiges ; **占** (*zhān*) concerne la divination ou l'interprétation ; **象** (*xiàng*) désigne des images ou configurations suivant le contexte. Aucun de ces termes ne traduit exactement le grec *klēros*.
+
+Le rapprochement sera formel : un résultat obtenu par une procédure réglée ouvre l'accès à un ensemble de réponses ou de représentations. Cela ne prouve pas que la Chine ait importé un dispositif biblique ou gréco-romain.
+
+### 7. Sources et limites de preuve [A]
+
+Le niveau de preuve varie. Le *klērōtērion* athénien est documenté par des textes explicites et des objets archéologiques ; les opérations oraculaires hittites sont principalement saisies par des tablettes et leurs interprétations savantes ; les récits bibliques ne décrivent pas toujours les instruments ; les dés polyédriques sont matériellement réels, mais leur usage demeure parfois débattu ; les textes du *Yijing* sont transmis dans plusieurs états manuscrits.
+
+La distinction entre **présence d'un objet**, **règle formulée dans un texte** et **performance historique reconstituée** sera maintenue tout au long de l'étude.
+
+### 8. Circulation culturelle et impossibilité d'une généalogie simple [H]
+
+Les sociétés de l'Anatolie, du Levant, du monde égéen et de l'Italie ont entretenu de nombreux contacts ; des techniques religieuses ont pu voyager. Mais le seul fait de tirer un objet d'un récipient ne constitue aucune preuve suffisante d'un emprunt. Il faudrait identifier des médiateurs, des dates compatibles, une parenté lexicale ou des détails techniques assez spécifiques pour exclure de simples analogies.
+
+Le cas chinois est encore plus éloigné : aucune chaîne directe de transmission des *klērōtēria* athéniens aux méthodes de consultation du *Zhouyi* n'est établie. La comparaison demeure fonctionnelle et philosophique, non généalogique.
+
+# II. ANATOLIE HITTITE — DEMANDER, VÉRIFIER, INTERPRÉTER
+
+### 9. Le catalogue CTH et les familles d'oracles [A]
+
+Le Catalogue des textes hittites distingue les consultations portant sur le foie (**CTH 570–571**), les oracles par « lots » ou symboles KIN (**CTH 572**), les consultations d'oiseaux (**CTH 573–574**), de serpents (**CTH 575**) et des enquêtes combinant plusieurs techniques (**CTH 577–580**). Cette nomenclature est celle d'un outil de recherche contemporain, non un tableau de classement antique transmis dans sa forme moderne.
+
+Source institutionnelle : *Hethitologie-Portal Mainz*, https://hethport.net/CTH/index.php?l=Orakel&lang=EN. La distinction entre les séries interdit de réduire toute la mantique hittite à l'emploi de lots.
+
+### 10. Qu'est-ce que l'oracle KIN ? [A/H]
+
+**KIN** désigne un ensemble de procédures oraculaires symboliques dans les transcriptions et éditions de textes hittites. Les récits de consultations présentent des agents et des transferts d'objets ou de valeurs symboliques : les signes se combinent selon des règles liées à la situation posée. Leur lecture ne se ramène pas à « oui = face blanche ; non = face noire ».
+
+L'expression anglaise *lot oracle*, fréquente dans les catalogues, aide à classer les sources mais ne fournit pas une description sûre de la totalité des manipulations physiques. Les règles de chaque témoin doivent être reconstituées à partir de son texte et des études spécialisées.
+
+### 11. KUB 5.1 + KUB 52.65 : l'action royale soumise à un signe [A]
+
+Richard H. Beal a publié « Seeking Divine Approval for Campaign Strategy KUB 5.1 + KUB 52.65 », *Ktèma* **24 (1999), p. 41–54**, https://doi.org/10.3406/ktema.1999.2207. Le dossier concerne des consultations relatives à des projets de campagne militaire. Les réponses favorables et défavorables, les termes symboliques et la succession des questions documentent une recherche d'approbation avant décision.
+
+Le document n'est pas un procès-verbal d'un tirage simple à deux issues. L'historien doit distinguer le texte de consultation, la traduction des signes et les hypothèses matérielles relatives à leur production.
+
+### 12. La possibilité du refus divin [A/P]
+
+Une question sur une action de campagne peut être suivie d'une issue jugée défavorable dans les oracles hittites. La consultation n'est pas seulement un rituel qui célèbre une décision déjà irrévocable. Elle peut maintenir la possibilité d'un obstacle et appeler une reformulation de la question.
+
+**[P]** Le souverain ne renonce pourtant pas entièrement à décider : il choisit la question, les spécialistes sollicités, les options soumises et les suites du résultat. La délégation d'un moment de la décision ne transfère pas nécessairement toute la responsabilité à l'oracle.
+
+### 13. La vérification d'un signe par d'autres signes [A]
+
+Livio Warbinek, « Hittites and their oracles: they believed in them, although they did not trust them », *Archiv für Religionsgeschichte* **23 (2022), p. 13–25**, met en évidence les incertitudes pratiques et le recours à des consultations complémentaires pour éviter des interprétations dangereuses. L'histoire des religions doit prendre au sérieux cette réflexivité au lieu de supposer une croyance mécanique et universelle en la première réponse.
+
+La coexistence d'oracles de foie, de KIN, d'oiseaux et de méthodes combinées dans les classifications textuelles illustre la pluralité des circuits de validation.
+
+### 14. Les dépenses de temps et de ressources [A/H]
+
+Dans « An “Economical” Oracular Procedure: Evidence from the Hittite KIN Oracle », p. 153–168, Livio Warbinek examine les aspects pratiques et économiques de la consultation. La durée, le personnel ou les ressources peuvent influencer la sélection d'une méthode.
+
+**[H]** Il serait excessif de transformer ce constat en théorie selon laquelle toutes les décisions religieuses étaient exclusivement gouvernées par une optimisation des coûts. Le prestige d'une méthode et la situation cultuelle constituent des variables distinctes.
+
+### 15. Les « Vieilles Femmes » et la médiation spécialisée [A/H]
+
+La désignation logographique **MUNUS ŠU.GI**, conventionnellement traduite « Vieille Femme », apparaît dans l'étude des spécialistes rituelles hittites. La thèse universitaire *"Word of the Old Woman": Studies in Female Ritual Practice in Hittite Anatolia* analyse notamment les systèmes symboliques des oracles KIN et la place de spécialistes auprès des milieux royaux.
+
+**[H]** Il faut se garder de déduire du titre un âge biologique précis pour chaque pratiquante ou d'assimiler ces personnes à une catégorie religieuse moderne uniforme. L'appellation relève d'un lexique technique.
+
+### 16. Les séries mixtes CTH 577–580 [A]
+
+Les notices **CTH 577**, **CTH 578** et **CTH 580** rassemblent des consultations mêlant plusieurs systèmes. Cette combinaison offre une différence importante avec le tirage athénien de jurés : l'enjeu hittite est de produire puis de vérifier une connaissance sur une question, non de répartir des places dans un corps de citoyens.
+
+**[P]** Une question qui requiert une seconde consultation n'est pas encore considérée comme close. La décision oraculaire peut être un processus et non un instant.
+
+### 17. Interdiction de la reconstitution gratuite [P]
+
+La présence de textes KIN ne permet pas de construire une « boîte d'oracle hittite » prétendument authentique avec des dés ou bâtons inventés. Les tablettes gardent la trace d'une procédure symbolique dont certains mécanismes demeurent discutés. Toute illustration de ces dossiers devra identifier l'exemplaire exact, l'édition et le statut des compléments reconstruits.
+
+Les témoins **KUB 6.7 + KUB 18.58**, associés à la tradition des oracles KIN, doivent être collationnés avant toute citation de lignes précises. L'absence de collation intégrale est signalée et non masquée.
+
+# III. TEXTES BIBLIQUES — PARTAGE, EXPULSION, ACCUSATION
+
+### 18. Lévitique 16,8–10 : deux lots, deux destinations [A]
+
+Dans **Lévitique 16,8–10**, les deux boucs du rite d'expiation reçoivent des assignations distinctes : un lot pour YHWH et un autre pour Azazel. L'animal correspondant à YHWH reçoit un traitement sacrificiel, l'autre reste vivant avant son envoi au désert. Le résultat établit une répartition rituelle, non la découverte d'une faute individuelle chez un animal.
+
+Le texte hébreu et diverses traductions sont accessibles sur https://www.sefaria.org/Leviticus.16.8. L'identification d'Azazel reste historiographiquement débattue ; elle ne doit pas être déclarée résolue par le seul mot « lot ».
+
+### 19. Le sens de l'assignation « pour » [A/H]
+
+La syntaxe hébraïque des destinations du lot exprime une affectation. La différence entre un objet portant une inscription et un tirage où une marque est placée après coup doit être reconstruite avec prudence ; les interprétations anciennes et modernes divergent sur le détail matériel.
+
+Jacob Milgrom, *Leviticus 1–16* (1991), et Baruch Levine, *Leviticus* (1989), fournissent des discussions philologiques spécialisées. Une photographie d'un dé contemporain ne saurait illustrer le rite comme s'il s'agissait d'un objet effectivement retrouvé dans un sanctuaire de l'âge du Fer.
+
+### 20. Josué 7,14–18 : de la tribu à la personne [A]
+
+Dans **Josué 7,14–18**, une procédure narrative de sélection réduit un groupe initial jusqu'à un individu, Akân. Le problème posé porte sur une faute supposée avoir mis en danger la communauté. Le tirage n'attribue pas une récompense ni une terre, mais concentre une accusation sur une personne.
+
+Le dispositif est décrit dans un texte à visée historique et théologique ; son caractère narratif ne prouve pas la répétition régulière d'une procédure pénale uniforme. La finalité accusatoire le distingue du *klērōtērion* civique athénien.
+
+### 21. Josué 18,6–10 et Nombres 26,55–56 : assigner la terre [A]
+
+Dans **Josué 18,6–10**, le tirage se place dans un récit de distribution des territoires devant YHWH. **Nombres 26,55–56** associe la répartition par lots à des règles relatives aux groupes et aux noms. Ces textes mettent en forme une légitimité territoriale plutôt qu'une révélation oraculaire sur l'avenir d'une personne.
+
+**[H]** Leurs formulations peuvent contribuer à légitimer rétrospectivement une distribution. Il serait pourtant infondé de prendre chaque frontière narrative pour une description topographique contrôlée par un registre administratif indépendant.
+
+### 22. Jonas 1,7 : « le lot tomba » [A]
+
+Dans **Jonas 1,7**, les marins décident de tirer au sort pour savoir à qui attribuer une tempête qui menace leur navire. L'issue « tombe » sur Jonas. Le verbe hébreu **נפל** (*n-p-l*) structure la narration : le résultat désigne celui que les marins doivent interroger. Ceux-ci ne comprennent pas encore tous les éléments de la crise avant que Jonas explique sa conduite.
+
+La scène ne prouve pas l'identité exacte des objets employés par des marins historiques ; elle représente une enquête sous menace collective et non une expertise météorologique.
+
+### 23. La crise et la désignation d'un responsable [P]
+
+Le tirage de Jonas transforme une catastrophe indéterminée en problème d'imputabilité. Cette structure n'est pas équivalente au rite du Lévitique : deux animaux reçoivent des rôles définis dans une prescription, tandis qu'un voyageur est sélectionné au cours d'un récit de crise.
+
+**[P]** La possibilité d'accuser peut naître d'une procédure présentée comme impartiale. Cette observation invite à distinguer la neutralité du mécanisme et la justice de ses conséquences, qui ne sont pas une seule et même chose.
+
+### 24. 1 Samuel 10,20–24 : rendre visible une royauté [A]
+
+Dans **1 Samuel 10,20–24**, la sélection par groupes aboutit à la désignation de Saül. Le récit fait interagir le peuple, le prophète et la royauté en formation. La procédure sert une reconnaissance collective, mais la légitimité monarchique est aussi discutée ailleurs dans les livres de Samuel.
+
+**[H]** Il est possible d'y voir une modalité de sanction divine d'une autorité politique, à condition de ne pas réduire toutes les tensions sur la royauté à une seule affirmation théologique.
+
+### 25. 1 Samuel 14,41–42 : la critique textuelle est indispensable [A]
+
+**1 Samuel 14,41** présente une variation significative entre la formulation brève massorétique et les témoins grecs / la Vulgate, dans lesquels la prière du roi peut être plus développée et mentionner Urim et Thummim. La désignation de Jonathan intervient dans la suite du passage. Une traduction qui reproduit les éléments supplémentaires doit préciser leur état textuel.
+
+L'histoire de l'oracle n'autorise donc pas à décrire comme un fait unique et transparent la disposition de deux objets matériels. Le texte reçu diffère selon la tradition manuscrite.
+
+### 26. Urim et Thummim : inconnues matérielles [A/H]
+
+**Exode 28,30**, **Lévitique 8,8** et **1 Samuel 28,6** situent Urim et Thummim parmi les objets ou moyens de consultation associés au sacerdoce. La nature physique, la forme et le fonctionnement exact de la procédure demeurent discutés. Les propositions d'étymologie ne sont pas des photographies de l'instrument.
+
+**[H]** Une lecture qui y verrait des outils de décision alternative peut être envisagée, mais elle ne doit pas être donnée comme certitude et n'autorise pas une identité avec des dés polyédriques de l'époque romaine.
+
+### 27. Proverbes 16,33 : jeter et décider [A]
+
+**Proverbes 16,33** oppose l'acte humain de jeter un lot dans le pli du vêtement à la décision que le proverbe attribue à YHWH. Le parallélisme met deux niveaux de causalité et d'interprétation en rapport. Il ne prescrit pas que tous les différends doivent être tranchés par un lot, ni que l'objet utilisé possédait une forme universelle.
+
+**[P]** L'énoncé est une représentation théologique du rapport entre action et résultat. Son étude n'oblige pas l'historien à transformer une assertion sur la providence en constat physique vérifiable.
+
+### 28. 1 Chroniques 24,5–19 : ordonner des services [A]
+
+Le texte de **1 Chroniques 24,5–19** décrit une répartition de services sacerdotaux par tirage. Les personnes et lignages susceptibles d'être désignés sont définis avant la procédure. Le lot s'intègre à une organisation de rôles cultuels et de successions plutôt qu'à une loterie publique ouverte à tous les habitants.
+
+La comparaison avec Athènes devient possible sur la forme de distribution, non sur l'identité des institutions ou sur l'existence d'une égalité politique sans restriction.
+
+### 29. Esther 3,7 : le *pûr* [A/H]
+
+Dans **Esther 3,7**, le *pûr*, relié à la notion de lot, sert à fixer un moment dans le projet d'Haman. Le récit explique plus loin le nom de Pourim (**Esther 9,24–26**). Le mot est généralement rapproché d'un arrière-plan lexical mésopotamien ; l'itinéraire linguistique précis et la portée historique de la scène exigent l'étude des versions anciennes.
+
+Une étiologie littéraire d'une fête n'est pas une preuve directe que chaque détail de l'histoire racontée correspond à un rituel de cour attesté par une source indépendante.
+
+### 30. Actes 1,23–26 : prier et tirer [A]
+
+Dans **Actes 1,23–26**, deux candidats sont présentés, la communauté prie puis un tirage désigne Matthias. L'acte combine le choix préalable des candidats, l'invocation d'une instance divine et une issue reconnue collectivement. Le texte grec ne donne pas à lui seul un inventaire des objets manipulés.
+
+Le passage est un contrepoint utile aux textes de la Bible hébraïque : la désignation d'un titulaire d'office et la croyance à une orientation divine peuvent cohabiter. Il ne démontre pas que l'organisation chrétienne primitive serait identique à la démocratie athénienne.
+
+### 31. Conclusion biblique : quatre fonctions du *gôrāl* [P]
+
+Attribuer des animaux à un rite, distribuer la terre, désigner un responsable et choisir un officier relèvent de fonctions différentes. Ces textes rendent possible une comparaison structurale sans autoriser une « origine biblique » de toutes les procédures ultérieures. Chaque passage associe le tirage à une institution et à un langage de légitimité spécifiques.
+
+**[P]** Définir les options, recevoir le résultat et en imposer la suite restent des actes humains, même lorsqu'un récit attribue la décision finale à Dieu.
+
+# IV. GRÈCE : DU CASQUE D'AJAX À LA MACHINE CIVIQUE
+
+### 32. *Iliade* VII, 161–199 : les volontaires [A]
+
+Hector appelle un champion achéen à l'affronter. Neuf héros se portent volontaires ; Nestor propose un tirage. Les héros marquent leurs lots et les placent dans le casque d'Agamemnon ; le lot d'Ajax est tiré et reconnu. Source primaire : **Homère, *Iliade* VII, 161–199**, spécialement **171–189** ; traduction et passage vérifiables sur https://beta.perseus.tufts.edu/urn:cts:greekLit:tlg0012.tlg001.newman1856-eng2:7/.
+
+Une description aussi précise atteste les moyens littéraires par lesquels le choix devient public. Le récit épique n'est pas un manuel sur les armes ou une preuve d'une coutume guerrière identique dans toutes les armées de l'âge du Bronze.
+
+### 33. Le signe personnel et sa reconnaissance [A/P]
+
+Le lot est associé à la marque du héros. Le héraut présente l'issue aux candidats et Ajax reconnaît son signe. L'objet ne produit pas tout le sens sans cette reconnaissance ; la procédure implique un contrôle collectif. Le casque sert de contenant, non d'autel ni d'instrument sacré universel.
+
+**[P]** L'action présente un mécanisme de confiance : l'incertitude de la désignation est compatible avec la vérification de l'identité du résultat.
+
+### 34. La prière à Zeus [A]
+
+Les combattants souhaitent que le lot revienne à certains héros, et adressent une prière à Zeus (*Iliade* VII, 176–180). Le résultat accordé à Ajax se trouve donc représenté dans un horizon religieux. Cette relation littéraire n'implique pas que tout tirage grec réel ait été une consultation oraculaire, ni que la scène rapporte une intervention matérielle observable de Zeus.
+
+On peut mettre en évidence l'articulation d'une prière et d'un choix ; on ne peut pas conclure à partir du poème à la vérité empirique de la causalité divine.
+
+### 35. *Iliade* XV, 184–193 : le partage du cosmos [A]
+
+Poséidon déclare à Iris que trois frères issus de Cronos et Rhéa — Zeus, Hadès et lui-même — ont reçu par tirage des parts différentes : ciel, monde souterrain et mer. La terre et l'Olympe demeurent communs. Le récit sert l'argument de Poséidon dans un conflit de souveraineté. Source primaire : **Homère, *Iliade* XV, 184–193**, https://beta.perseus.tufts.edu/urn:cts:greekLit:tlg0012.tlg001.butlernagy2020-eng2:15.184/.
+
+La distribution n'est ni un calendrier cultuel ni le portrait exclusif des fonctions des trois dieux dans toutes les cités grecques.
+
+### 36. Hésiode, *Théogonie* 881–885 : une variante majeure [A]
+
+À la fin de la succession divine chez Hésiode, les immortels invitent Zeus à gouverner et il répartit leurs **τιμαί** (*timaí*, parts d'honneur ou prérogatives), *Théogonie* **881–885**. Le récit de la répartition ne se superpose pas à celui de l'*Iliade* XV, dans lequel trois frères reçoivent chacun un domaine par tirage.
+
+**[P]** Les traditions mythiques organisent différemment la relation entre ordre, pouvoir et part. Une comparaison ne doit pas forcer leur harmonie pour fabriquer un « droit constitutionnel de l'Olympe ».
+
+### 37. Tirage et démocratie : une institution située [A]
+
+Dans **Aristote, *Politique* IV, 9, 1294b7–9**, l'attribution des charges par le sort est présentée comme caractéristique démocratique, tandis que l'élection est rapprochée du principe oligarchique. Ce jugement typologique ne signifie pas que le lot serait le seul critère d'une constitution, ni que l'accès aux charges serait ouvert à tous les habitants.
+
+Le tirage se comprend avec les conditions de citoyenneté, les vérifications d'éligibilité, la rotation des charges et les contrôles de l'exercice du pouvoir.
+
+### 38. *Constitution d'Athènes* 63 : les candidats admissibles [A]
+
+Dans la **Constitution d'Athènes 63**, la sélection des jurés est organisée par tribus et sous la responsabilité de magistrats. Les jurés doivent notamment être citoyens, avoir plus de trente ans et ne pas être privés de leurs droits. Les esclaves, les métèques, les femmes et plusieurs catégories de citoyens exclus ne forment pas un ensemble d'éligibles universel.
+
+**[P]** L'impartialité de l'extraction est relative à une frontière préalable. Le sort peut égaliser les chances parmi les admissibles tout en maintenant les exclusions de l'ordre civique.
+
+### 39. *Pinakia* : les plaques d'identification [A]
+
+La **Constitution d'Athènes 63–64** décrit des plaques portant l'identité des personnes admissibles et leur répartition en groupes indiqués par des lettres. Des plaques de jurés en bronze ont été trouvées dans l'Agora. Elles donnent au tirage une matérialité politique contrôlable : un nom, une filiation, un dème et une section permettent d'identifier le citoyen.
+
+Une photographie de *pinakion* ne prouve pas que tout tirage athénien utilisait partout la même matière et la même disposition. Les objets conservés doivent être datés et attribués individuellement.
+
+### 40. Le *klērōtērion* : une technique anti-fraude [A]
+
+Le **κληρωτήριον** est reconnu comme appareil de sélection à rainures après l'identification des découvertes archéologiques, notamment grâce aux travaux de Sterling Dow. Paul Demont étudie l'histoire de cette reconstitution dans « Le κληρωτήριον ('machine' à tirer au sort) et la démocratie athénienne », *Bulletin de l'Association Guillaume Budé*, 2003/1, p. 26–52, DOI 10.3406/bude.2003.2095.
+
+Les reconstructions fonctionnelles doivent être signalées comme telles. L'image d'une machine reconstituée ne doit pas être légendée comme une machine antique intacte.
+
+### 41. Les cubes de bronze noirs et blancs [A]
+
+Dans la **Constitution d'Athènes 64,3**, des cubes colorés en noir et blanc entrent dans le mécanisme de sélection des rangées de candidats. Des objets supplémentaires servent à l'affectation des jurés à leurs tribunaux. Les paramètres répondent au nombre de places à pourvoir et à l'organisation des tribus.
+
+Cette procédure n'a pas pour fonction de demander quel dieu souhaite la désignation du juré. Le texte la présente dans le cadre du fonctionnement des institutions civiques.
+
+### 42. Tirer aussi le nom de l'afficheur [A/P]
+
+L'officier chargé d'insérer les plaques peut être lui-même désigné par le sort afin que la même personne ne puisse pas toujours contrôler le dispositif et éventuellement fausser le résultat (**Constitution d'Athènes 64,2**). Ce détail établit de manière particulièrement claire un rapport entre tirage et prévention de la fraude.
+
+**[P]** Une procédure peut produire de la confiance précisément en limitant le pouvoir d'un agent humain. C'est une légitimation politique et administrative, non une révélation surnaturelle nécessaire.
+
+### 43. Les *balanoi* et l'affectation [A]
+
+La **Constitution d'Athènes 63–65** mentionne des objets de tirage appelés **βάλανοι** (*balanoi*), comparés à des glands, portant des caractères permettant l'affectation des jurés à des tribunaux. Le système fonctionne en plusieurs étapes. Le lot ne sélectionne pas seulement une personne ; il attribue aussi un lieu d'exercice.
+
+Une reconstitution moderne de ces étapes doit distinguer les parties textuellement attestées des mécanismes complétés par l'archéologie expérimentale.
+
+### 44. Un espace religieux ne suffit pas à produire un oracle [A/P]
+
+Paul Demont rappelle que des tirages athéniens pouvaient être effectués dans des lieux sacrés, notamment dans des associations au sanctuaire de Thésée évoquées dans les discussions d'Eschine (*Contre Ctésiphon* III, 13). Le fait que des pratiques publiques se déroulent dans un sanctuaire ne transforme pas automatiquement leur résultat en prédiction divine.
+
+**[P]** Les religions anciennes ne se séparent pas des institutions selon les frontières modernes, mais cela n'abolit pas la spécificité des finalités civiques et administratives.
+
+### 45. Platon, *République* X, 617d–620d [A]
+
+Dans le **mythe d'Er**, les âmes tirent un **ordre de choix** des vies futures. La procédure ne leur assigne pas mécaniquement une vie déterminée. Lachésis annonce la responsabilité de celui qui choisit ; un mauvais choix ne peut être imputé simplement au dieu. Source primaire : **Platon, *République* X, 617d–620d**, particulièrement **617d–618b**, édition et traduction consultables à https://www.plato-dialogues.org/fr/tetra_4/republic/er.htm.
+
+Il s'agit d'un récit philosophique, non de la preuve d'une cérémonie funéraire de tirage de vies dans les cités grecques.
+
+### 46. Le choix ne disparaît pas derrière la chance [P]
+
+L'âme d'Ulysse, appelée tardivement, préfère une existence discrète et la reconnaît comme conforme à ses aspirations. La place reçue ne vaut pas condamnation. Platon met en scène une articulation du contingent et de la responsabilité : l'ordre de passage est tiré, mais la manière de choisir demeure déterminante.
+
+**[P]** Ce modèle permet de poser une objection à une vision fataliste du sort. L'agent peut ne pas choisir sa place initiale tout en restant responsable de son action.
+
+### 47. La diversité grecque comme problème historiographique [A/H]
+
+Paul Demont, « Lots héroïques : remarques sur le tirage au sort de l'Iliade aux *Sept contre Thèbes* », *Revue des Études Grecques* 113 (2000), 299–325, montre l'importance de reconstituer la diversité des emplois littéraires. Son article de 2003 et « Tirage au sort et démocratie en Grèce ancienne » (2010) replacent les institutions dans leur contexte.
+
+**[H]** Il serait injustifié de construire une généalogie technique directe, sans témoins intermédiaires, entre le casque d'Agamemnon et le *klērōtērion* à rainures de l'Athènes classique.
+
+# V. ITALIE ROMAINE — FORTUNA ET LA CRITIQUE DES *SORTES*
+
+### 48. Cicéron, *De divinatione* II, 85–87 [A]
+
+Cicéron critique les **sortes de Préneste** dans *De divinatione* **II, 85–87**. Il rapporte un récit selon lequel Numerius Suffustius aurait reçu des songes récurrents lui enjoignant de fendre un rocher. Des lots de bois ancien seraient apparus. Une tradition associe en outre du miel issu d'un olivier à la fabrication du récipient des lots.
+
+Cette histoire est une narration étiologique transmise dans une œuvre sceptique ; elle ne démontre pas que les lots sont effectivement issus d'un rocher. Texte et traduction : https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cicero/de_Divinatione/2%2A.html.
+
+### 49. L'enfant, l'urne et le résultat [A]
+
+Au **§86**, Cicéron évoque le geste par lequel un enfant tire les lots sous l'autorité présumée de Fortuna. Son argument demande pourquoi un tel mécanisme matériel aléatoire devrait donner une connaissance fiable. La description atteste la réputation de la consultation et sa critique dans la culture intellectuelle républicaine.
+
+**[P]** Le geste de l'enfant peut sembler limiter les préférences d'un adulte, mais sa neutralité supposée ne fournit pas une démonstration de la vérité de l'oracle.
+
+### 50. Un témoin polémique plutôt qu'un manuel neutre [A]
+
+Le *De divinatione* est un dialogue argumentatif : le premier livre développe des arguments en faveur de la divination, puis le second met en œuvre une critique. Les formules de mépris de Cicéron à l'égard des consultations populaires doivent donc être situées dans sa stratégie rhétorique. Son témoignage ne prouve pas l'absence de telles pratiques dans les milieux qu'il juge moins estimables.
+
+**[P]** Une enquête historique doit tenir ensemble la valeur informative d'une polémique et les déformations auxquelles elle expose.
+
+### 51. Fortuna Primigenia, sanctuaire de Préneste [A]
+
+Les terrasses monumentales de l'antique Préneste, aujourd'hui Palestrina, sont une réalité archéologique du culte de **Fortuna Primigenia**. Le Museo Archeologico Nazionale Prenestino est installé au-dessus des structures du sanctuaire dans le palais Colonna-Barberini. La documentation officielle du ministère italien et des musées de Préneste permet de situer le lieu : https://gabiipraeneste.cultura.gov.it/.
+
+Le monument n'atteste pas, par sa seule architecture, l'authenticité du mythe des lots apparus dans une roche ni la permanence de chaque geste rapporté par Cicéron.
+
+### 52. Jacqueline Champeaux et la critique de Fortuna [A]
+
+Jacqueline Champeaux, *Fortuna. Le culte de la Fortune à Rome et dans le monde romain*, I, *Fortuna dans la religion archaïque*, École française de Rome, **1982**, apporte des éléments décisifs pour replacer Préneste, les traditions anciennes et leurs interprétations dans l'histoire religieuse italique. Référence : https://www.persee.fr/doc/efr_0000-0000_1982_ths_64_1.
+
+Le vocabulaire de Fortuna ne doit pas être confondu dans chaque emploi avec une entité divine agissant personnellement sur tous les événements fortuits.
+
+### 53. Tirage administratif et tirage oraculaire [A/P]
+
+Dans le monde romain, **sortitio** peut servir à distribuer des fonctions ou des ressorts à des magistrats. Les **sortes** d'un sanctuaire visent à fournir une réponse à une consultation. La différence des contextes demeure plus importante qu'une ressemblance de matériau ou de nom.
+
+**[P]** Un tirage institutionnel peut être légitimé par la procédure elle-même, sans que chaque issue apparaisse comme une prédiction. La religion et le droit peuvent coexister sans se dissoudre l'un dans l'autre.
+
+# VI. OBJETS GRÉCO-ROMAINS ET ORACLES PAR RÉPERTOIRES
+
+### 54. Met 10.130.1158 : le polyèdre inscrit [A]
+
+Le Metropolitan Museum conserve un **icosaèdre de serpentinite portant des lettres grecques**, inv. **10.130.1158**, daté largement entre l'époque ptolémaïque et la période romaine. Sa notice insiste sur l'incertitude de l'utilisation de plusieurs objets polyédriques comparables. Le jeu et la consultation oraculaire peuvent être envisagés, sans être démontrés pour chaque pièce. Source : https://www.metmuseum.org/art/collection/search/551072.
+
+Le fait que l'objet possède vingt faces ne suffit pas à prouver qu'il répondait à vingt questions religieuses.
+
+### 55. Met 37.11.3 : la faïence et l'oracle alphabétique [A/H]
+
+Le Met conserve le polyèdre de faïence **37.11.3**, daté du IIe–IIIe siècle de notre ère. Sa notice propose une fonction possible : produire une lettre à partir d'un lancer afin de consulter une table d'oracles. Source : https://www.metmuseum.org/art/collection/search/253530.
+
+**[H]** Cette possibilité ne doit pas être décrite comme un fait démontré par une association archéologique directe de l'objet avec un tableau particulier. Le musée distingue l'objet attesté des hypothèses sur son emploi.
+
+### 56. Une pièce différente : les noms divins démotiques [A/H]
+
+La notice du Met sur les polyèdres évoque un exemple découvert dans l'oasis de Dakhla, portant des noms divins inscrits en démotique. La fonction divinatoire est considérée comme plausible. Ce témoin **n'est pas** le même objet que le polyèdre alphabétique 10.130.1158 et ne doit pas être représenté par sa photographie sans avertissement.
+
+La rigueur iconographique impose de distinguer le référent décrit par une notice et l'image de la pièce effectivement présentée.
+
+### 57. Les *Sortes Astrampsychi* [A/H]
+
+Les **Sortes Astrampsychi**, recueils oraculaires grecs transmis dans des versions de l'époque impériale et tardive, organisent des questions et des réponses selon des sélections et transformations numériques. Leur transmission ne se confond ni avec la légende de Préneste ni avec la pratique du *Zhouyi*. Les éditions critiques, leurs témoins et leurs recensions doivent être identifiés avant de citer une phrase précise.
+
+**[P]** Un répertoire de réponses prépare le contenu de ce qui pourra être dit ; le tirage sélectionne la voie d'accès à une réponse, plutôt qu'il ne compose la phrase elle-même.
+
+# VII. CHINE — LES CHANGEMENTS ET L'INTERPRÉTATION DES SIGNES
+
+### 58. Le *Zhōuyì* comme objet historique [A]
+
+Le **周易**, *Zhōuyì*, transmet des figures de six lignes, des noms d'hexagrammes et des énoncés associés. Le corpus a connu plusieurs états de transmission et de commentaire. Son usage dans la divination ne se réduit pas aux lectures philosophiques ultérieures, mais celles-ci appartiennent elles aussi à son histoire.
+
+Comparer les hexagrammes à une urne grecque ne signifie pas qu'ils sélectionnent le même objet : ici une figure et un corpus interprétatif, là un nom ou une place civique.
+
+### 59. Le texte du « Grand Déploiement » [A]
+
+Une section des **繫辭** (*Xìcí*, Grandes Annexes) présente la formule **大衍之數五十，其用四十有九**, c'est-à-dire un ensemble de cinquante dont quarante-neuf sont employés, avant de décrire des manipulations et groupements de tiges. La numérotation éditoriale varie selon les éditions, souvent *Xici* I, 9.
+
+Le texte et les commentaires traditionnels sont accessibles sur https://deltoi.com/zh/kong-yingda/zhouyi-zhengyi/chapter-78. La datation de la composition du commentaire ne doit pas être confondue avec celle de tous les usages du *Zhōuyì*.
+
+### 60. Les quarante-neuf tiges et la place vide [A/P]
+
+Le passage des tiges a suscité des exégèses portant sur la totalité, les nombres et ce qui demeure non utilisé. Les lectures liées à **Wang Bi** et leurs transmissions ultérieures interprètent philosophiquement la tige écartée. Référence secondaire : *Stanford Encyclopedia of Philosophy*, « Chinese Philosophy of Change (Yijing) », https://plato.stanford.edu/archives/fall2020/entries/chinese-change/.
+
+**[P]** Une lecture de l'absence comme principe métaphysique n'est pas la preuve de l'intention de tous les spécialistes anciens. La distinction entre procédure et commentaire doit être préservée.
+
+### 61. Shanghai et Mawangdui : des témoins non identiques [A]
+
+Des manuscrits du *Zhōuyì* sur bambou, associés au musée de Shanghai et datés autour de **300 avant notre ère**, et un manuscrit sur soie provenant de **Mawangdui**, découvert en **1973** et copié au IIe siècle avant notre ère, fournissent des témoins textuels distincts de l'édition transmise. Ils conservent des variantes graphiques et des arrangements qui empêchent de supposer un original unique intact.
+
+Edward L. Shaughnessy, *Unearthing the Changes: Recently Discovered Manuscripts of the Yi Jing (I Ching) and Related Texts* (Columbia University Press, 2014), présente ces découvertes, leurs débats et leurs implications pour l'histoire de la divination chinoise.
+
+### 62. Tirage et interprétation ne sont pas identiques [P]
+
+Un dispositif qui sélectionne une figure appelle ensuite une lecture de cette figure. Le résultat ne dicte pas directement une charge politique, contrairement à la désignation athénienne d'un juré. Le sens est médié par un texte, un commentaire ou un interprète, dont le statut social et la formation influencent la pratique.
+
+**[P]** Un même niveau d'imprévisibilité matérielle peut donc soutenir des institutions de connaissance profondément différentes.
+
+# VIII. HISTORIOGRAPHIE CRITIQUE ET LECTURES PHILOSOPHIQUES
+
+### 63. Paul Demont : le tirage n'est pas une catégorie unifiée [A]
+
+Paul Demont, dans ses travaux de **2000, 2003 et 2010**, a étudié les fonctions littéraires, religieuses, politiques et civiques du tirage au sort. Son analyse de l'histoire du *klērōtērion* montre que l'archéologie a permis de corriger des traductions autrefois admises de la *Constitution d'Athènes*. La connaissance d'une institution dépend elle-même de la confrontation des textes et des objets.
+
+La monographie présente ne traite donc pas toute référence au sort comme une preuve de démocratie et ne confond pas un jeu de dés avec un oracle de sanctuaire.
+
+### 64. Le défi de la critique des sources [P]
+
+Cicéron argumente contre la divination ; Homère compose une épopée ; la Bible transmet des prescriptions et des récits théologiques ; le *Xici* appartient à une histoire des commentaires ; les tablettes hittites enregistrent des consultations selon les catégories de scribes. La vérité historique de chaque proposition dépend du genre auquel elle appartient.
+
+**[P]** La multiplication de sources qui emploient une procédure comparable ne dispense jamais de la critique de l'énonciation. Une analogie fonctionnelle n'est pas un témoin supplémentaire de la réalité d'une scène.
+
+### 65. Vernant : la relation entre rite et représentation [P]
+
+Les travaux de **Jean-Pierre Vernant** sur la pensée religieuse grecque invitent à replacer les figures divines, les rituels et les récits dans des configurations sociales déterminées. Une scène mythique de partage des domaines n'est ni une liste administrative des cultes ni une preuve matérielle d'un tirage historique.
+
+Cette lecture vise à contrôler l'écart entre narration, institution et langage religieux, non à faire parler Vernant à la place des devins hittites.
+
+### 66. Hegel : hasard et nécessité [P]
+
+Les philosophies de Hegel abordent les rapports entre contingent, nécessaire et intelligibilité de l'ordre politique. On peut employer ce cadre pour penser la transformation d'un résultat initialement imprévisible en décision instituée. Mais il faut récuser une reconstruction téléologique qui disposerait les civilisations sur une échelle allant de la « superstition » à la « raison ».
+
+**[P]** Le modèle philosophique n'est pas une preuve que les Athéniens ou les Hittites partageaient les présupposés de la pensée hégélienne.
+
+### 67. Nietzsche : la fonction actuelle n'est pas l'origine [P]
+
+Dans la deuxième dissertation de la **Généalogie de la morale**, §12, Nietzsche dissocie origine et réinterprétations successives d'une pratique. Le tirage au sort illustre la pertinence de cette vigilance : un geste matériel semblable peut prendre des fonctions de sélection guerrière, de répartition territoriale, d'oracle et d'organisation politique.
+
+Il serait pourtant abusif de prétendre que l'une de ces fonctions est historiquement à l'origine de toutes les autres. La référence nietzschéenne fournit une règle critique, non un dossier de preuve antique.
+
+### 68. Castoriadis, autonomie et institutions [P]
+
+Cornelius **Castoriadis** associe l'autonomie à la capacité d'une communauté de réfléchir ses propres lois. La démocratie athénienne fait du tirage un instrument parmi d'autres de distribution et de rotation des charges, mais la collectivité décide aussi des conditions d'éligibilité et des contrôles. L'autonomie ne se réduit donc pas à la passivité devant un résultat aléatoire.
+
+**[P]** Une procédure peut limiter la domination personnelle sans produire mécaniquement une société juste. Sa valeur dépend des règles qui précèdent et suivent son exécution.
+
+### 69. Nicole Loraux et les conflits que le partage n'abolit pas [P]
+
+Les analyses de **Nicole Loraux** sur la cité, les conflits et leurs mémoires incitent à ne pas idéaliser le partage comme résolution magique de la discorde. Le lot peut distribuer une place tout en laissant subsister des rapports de force, des exclusions et des rivalités politiques.
+
+Cette perspective vaut comme lecture critique contemporaine, non comme preuve qu'une source antique particulière exprimerait la même théorie du conflit.
+
+### 70. Paulin Ismard : désigner une personne ne dispense pas d'expertise [P]
+
+Dans *La Démocratie contre les experts. Les esclaves publics à Athènes* (Seuil, 2015), **Paulin Ismard** examine l'organisation des compétences dans le fonctionnement de la cité. Le tirage au sort de magistrats et de jurés ne signifie pas que la démocratie fonctionne sans spécialistes, personnel technique, archives ni savoirs.
+
+**[P]** La procédure distribue une autorité politique à l'intérieur d'un ordre collectif ; elle ne fait pas de toute personne désignée un expert de tous les problèmes auxquels elle se trouve confrontée.
+
+### 71. Responsabilité et délégation [P]
+
+Le résultat d'un tirage se situe souvent entre plusieurs décisions humaines : choisir les candidats ou les objets admissibles, fixer le rituel ou les règles de manipulation, demander une réponse, sélectionner l'interprète, appliquer ou contester l'issue. L'apparente neutralité de la sélection n'efface pas ces étapes.
+
+Le mythe d'Er de Platon donne à cette distinction une portée morale : l'âme ne choisit pas sa place dans l'ordre des sélections, mais elle conserve la responsabilité de la vie choisie. Un tirage ne supprime donc pas nécessairement le jugement.
+
+### 72. Tableau comparatif des usages [P]
+
+| Tradition | Acte | Autorité invoquée ou organisée | Limite de la preuve |
+|---|---|---|---|
+| Hittite, CTH 572 | Produire des signes symboliques KIN | Cour, officiants, interprètes | Matériel exact parfois incertain |
+| Lévitique 16 | Attribuer deux rôles rituels | Prescription et sanctuaire | Objet non identifié matériellement |
+| Josué 7 | Désigner un responsable | Récit d'enquête et sanction | Événement narré, non registre |
+| Josué 18 | Distribuer des parts | Terre et légitimation religieuse | Topographie à discuter |
+| Jonas 1 | Identifier un interlocuteur | Marins, prière, enquête | Récit littéraire |
+| *Iliade* VII | Désigner un champion | Honneur guerrier et prière | Épopée |
+| *Iliade* XV | Distribuer les domaines cosmiques | Argument de Poséidon | Récit mythique |
+| Athènes, *Constitution* 63–65 | Désigner jurés et affectations | Règles et contrôle anti-fraude | Égalité limitée aux admissibles |
+| Préneste, Cicéron | Obtenir une réponse | Fortuna et interprétation | Témoignage critique |
+| Polyèdres gréco-romains | Produire lettre ou valeur éventuelle | Fonction selon contexte | Usage souvent hypothétique |
+| *Yijing* | Produire une configuration | Corpus et traditions d'exégèse | Histoire textuelle plurielle |
+
+Ce tableau est une synthèse moderne. Il ne présente aucune de ces traditions comme la source nécessaire de toutes les autres.
+
+### 73. Quatre propositions comparatives contrôlables [P]
+
+**Première proposition :** l'acte du tirage ne crée pas tout seul son ensemble d'options. Il suppose un travail préalable de classement et d'admission.
+
+**Deuxième proposition :** la publicité de l'opération et la possibilité de reconnaître le résultat peuvent favoriser sa recevabilité. Ce mécanisme n'est pas une preuve de justice parfaite.
+
+**Troisième proposition :** le résultat peut clore la sélection d'un titulaire ou ouvrir un travail supplémentaire d'interprétation. La distinction entre décision et réponse oraculaire est centrale.
+
+**Quatrième proposition :** toute justification religieuse du lot est historiquement située. L'historien doit décrire les croyances sans prétendre prouver expérimentalement l'intervention surnaturelle à partir de la seule attestation textuelle.
+
+# IX. BIBLIOGRAPHIE ET SOURCES PRIMAIRES
+
+### 74. Corpus primaire — Anatolie et monde biblique [A]
+
+1. Catalogue Hittitologie-Portal Mainz : **CTH 570–580**, en particulier **CTH 572** (oracles KIN) et **CTH 577–580** (oracles combinés), https://hethport.net/CTH/index.php?l=Orakel&lang=EN.
+2. **KUB 5.1 + KUB 52.65**, éditions et traduction de Beal (1999), *Ktèma* 24, 41–54, https://doi.org/10.3406/ktema.1999.2207.
+3. **KUB 6.7 + KUB 18.58**, témoin du dossier oraculaire KIN ; collation de lignes requise avant toute traduction directe.
+4. **Lévitique 16,8–10, 21–26**, texte et variantes de traduction : https://www.sefaria.org/Leviticus.16.8.
+5. **Josué 7,14–18** ; **Josué 18,6–10** ; **Nombres 26,55–56**.
+6. **Jonas 1,4–16**, particulièrement 1,7–10.
+7. **1 Samuel 10,20–24 ; 14,41–42 ; 28,6**, avec contrôle des variantes anciennes.
+8. **Exode 28,30 ; Lévitique 8,8**, Urim et Thummim.
+9. **Proverbes 16,33** ; **1 Chroniques 24,5–19** ; **Esther 3,7 et 9,24–26**.
+10. **Actes 1,23–26**, vocabulaire grec des lots.
+
+### 75. Corpus primaire — monde grec, Rome et Chine [A]
+
+11. Homère, **Iliade VII, 161–199**, spécialement 171–189 : https://beta.perseus.tufts.edu/urn:cts:greekLit:tlg0012.tlg001.newman1856-eng2:7/.
+12. Homère, **Iliade XV, 184–193** : https://beta.perseus.tufts.edu/urn:cts:greekLit:tlg0012.tlg001.butlernagy2020-eng2:15.184/.
+13. Hésiode, **Théogonie 881–885**, répartition des *timaí* par Zeus.
+14. Aristote, **Politique IV, 9, 1294b7–9**.
+15. Pseudo-Aristote / école d'Aristote, **Constitution d'Athènes 63–65**, traduction et notes : https://fr.wikisource.org/wiki/Constitution_d%E2%80%99Ath%C3%A8nes_%28Aristote%2C_trad._Haussoullier_et_Mathieu%29/Constitution_d%E2%80%99Ath%C3%A8nes.
+16. Platon, **République X, 617d–620d**, mythe d'Er : https://www.plato-dialogues.org/fr/tetra_4/republic/er.htm.
+17. Cicéron, **De divinatione II, 85–87**, sorts de Préneste : https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cicero/de_Divinatione/2%2A.html.
+18. Les **Sortes Astrampsychi**, recueils grecs oraculaires transmis à l'époque impériale et tardive ; édition des témoins et recensions à contrôler.
+19. **周易 (*Zhōuyì*)** et **繫辭上 (*Xìcí shàng*)**, passage du Grand Déploiement **大衍之數五十，其用四十有九**, https://deltoi.com/zh/kong-yingda/zhouyi-zhengyi/chapter-78.
+20. Manuscrits du *Zhōuyì* du **musée de Shanghai** et de **Mawangdui**, à consulter dans les publications savantes de Shaughnessy (2014).
+
+### 76. Bibliographie scientifique spécialisée [A]
+
+1. **Beal, Richard H.**, « Seeking Divine Approval for Campaign Strategy KUB 5.1 + KUB 52.65 », *Ktèma* 24 (1999), 41–54, https://doi.org/10.3406/ktema.1999.2207.
+2. **Warbinek, Livio**, « An “Economical” Oracular Procedure: Evidence from the Hittite KIN Oracle », dans *Economy of Religions in Anatolia and Northern Syria*, 153–168, https://www.jstor.org/stable/j.ctv1t4m1xv.17.
+3. **Warbinek, Livio**, « Hittites and their oracles: they believed in them, although they did not trust them », *Archiv für Religionsgeschichte* 23 (2022), 13–25.
+4. **Milgrom, Jacob**, *Leviticus 1–16*, Anchor Bible, 1991, pour les lectures du rite du Lévitique 16.
+5. **Levine, Baruch A.**, *Leviticus*, Jewish Publication Society, 1989.
+6. **Demont, Paul**, « Lots héroïques : remarques sur le tirage au sort de l'Iliade aux *Sept contre Thèbes* », *Revue des Études Grecques* 113 (2000), 299–325.
+7. **Demont, Paul**, « Le κληρωτήριον ("machine" à tirer au sort) et la démocratie athénienne », *Bulletin de l'Association Guillaume Budé* 2003/1, 26–52, https://doi.org/10.3406/bude.2003.2095.
+8. **Demont, Paul**, « Tirage au sort et démocratie en Grèce ancienne », *La Vie des idées*, 22 juin 2010, https://laviedesidees.fr/Tirage-au-sort-et-democratie-en-Grece-ancienne.
+9. **Hansen, Mogens H.**, *La Démocratie athénienne à l'époque de Démosthène*, traduction française, Paris, Les Belles Lettres, 1993.
+10. **Kroll, John H.**, *Athenian Bronze Allotment Plates*, American School of Classical Studies at Athens, 1972.
+11. **Champeaux, Jacqueline**, *Fortuna. Le culte de la Fortune à Rome et dans le monde romain*, I, *Fortuna dans la religion archaïque*, École française de Rome, 1982, https://www.persee.fr/doc/efr_0000-0000_1982_ths_64_1.
+12. **Rüpke, Jörg**, *Religion of the Romans*, Polity, 2007.
+13. **Shaughnessy, Edward L.**, *Unearthing the Changes: Recently Discovered Manuscripts of the Yi Jing (I Ching) and Related Texts*, Columbia University Press, 2014.
+14. **Nylan, Michael**, *The Five "Confucian" Classics*, Yale University Press, 2001.
+15. **Vernant, Jean-Pierre**, *Mythe et religion en Grèce ancienne*, Paris, Seuil, 1990.
+16. **Loraux, Nicole**, *La Cité divisée*, Paris, Payot, 1997.
+17. **Ismard, Paulin**, *La Démocratie contre les experts. Les esclaves publics à Athènes*, Paris, Seuil, 2015.
+18. **Castoriadis, Cornelius**, *La Cité et les lois. Ce qui fait la Grèce 2*, Paris, Seuil, 2008.
+19. **Nietzsche, Friedrich**, *La Généalogie de la morale*, deuxième dissertation, §12.
+20. **Hegel, G. W. F.**, *Principes de la philosophie du droit*, éditions critiques selon le passage philosophique mobilisé.
+
+# X. ICONOGRAPHIE SCIENTIFIQUE SOURCÉE
+
+### 77. Appareil athénien : image et degré de certitude [A]
+
+Illustration proposée : **fragment de *klērōtērion*** au musée de l'Agora antique d'Athènes, dans la Stoa d'Attale. La présence des instruments de la démocratie athénienne est documentée par la Foundation of the Hellenic World : https://www.athens-agora.gr/project/index.php?lang_id=en&sid=14&view=page.
+
+Légende : « Plaque à rainures servant aux procédures de tirage civique ; l'instrument constitue une preuve matérielle des institutions de sélection, sans établir une fonction oraculaire. » Exiger le crédit et le droit de reproduction de la photographie choisie.
+
+### 78. *Pinakia* des jurés [A]
+
+Illustration proposée : plaques d'identité de jurés en bronze exposées au musée de l'Agora, rapprochées des descriptions de la **Constitution d'Athènes 63–64** et des inventaires publiés par John H. Kroll (1972). Une photographie documentaire est repérable sur https://commons.wikimedia.org/wiki/File:Bronze_pinakia,_AGMA,_225284.jpg ; sa licence et les attributions devront être contrôlées avant reprise.
+
+Légende : « Une identification préalable est nécessaire pour que le tirage sélectionne une personne dans un ensemble juridiquement constitué. » Ne pas attribuer à chaque plaque la même date ou le même objet d'inventaire.
+
+### 79. Le sanctuaire de Fortuna Primigenia [A]
+
+Illustration proposée : vue institutionnelle des terrasses du **sanctuaire de Fortuna Primigenia**, Palestrina / Préneste, d'après les fonds du musée national : https://gabiipraeneste.cultura.gov.it/.
+
+Légende : « Architecture cultuelle où la tradition romaine situait un célèbre oracle par lots. Le monument ne prouve pas la réalité littérale de leur apparition miraculeuse décrite par Cicéron. » Vérifier autorisations du musée et du photographe.
+
+### 80. Polyèdre alphabétique de serpentinite [A/H]
+
+Illustration proposée : Metropolitan Museum, **10.130.1158**, icosaèdre en serpentinite avec lettres grecques ; https://www.metmuseum.org/art/collection/search/551072.
+
+Légende : « Polyèdre de l'époque ptolémaïque à romaine, dont l'usage exact reste incertain. La divination constitue une hypothèse, non l'unique fonction démontrée. » Réutilisation uniquement selon les conditions de licence de l'image muséale.
+
+### 81. Polyèdre de faïence [A/H]
+
+Illustration proposée : Metropolitan Museum, **37.11.3**, polyèdre de faïence à lettres grecques, IIe–IIIe siècle de notre ère ; https://www.metmuseum.org/art/collection/search/253530.
+
+Légende : « L'objet pourrait servir à sélectionner une lettre renvoyant à une table oraculaire. La relation avec une table précise n'est pas matériellement attestée dans le dossier de l'objet. »
+
+### 82. Les tablettes hittites [A]
+
+Illustration documentaire à identifier : fac-similé institutionnel du dossier **KUB 5.1 + KUB 52.65**, publié par Beal (1999), https://doi.org/10.3406/ktema.1999.2207. Le crédit de l'édition et des photographies doit être obtenu avant publication ; ne pas substituer une tablette sans relation directe avec le dossier.
+
+Légende : « Une série de consultations précédant des décisions de campagne hittites. Le document atteste le langage et les résultats oraculaires, sans révéler tous les détails du maniement des signes. »
+
+### 83. Les manuscrits du *Zhōuyì* [A]
+
+Illustration suggérée : témoin sur soie de Mawangdui ou bandelette sur bambou du *Zhōuyì* de Shanghai, **seulement si une reproduction institutionnelle licenciée et correctement identifiée est disponible**. Références aux éditions de Shaughnessy (2014). Ne pas remplacer le témoin ancien par une photographie d'un jeu contemporain de tiges en déclarant qu'il s'agit d'un rituel Zhou.
+
+Légende : « Un manuscrit du corpus des Changements, distinct des interprétations et procédés tardifs qui s'y sont attachés. »
+
+### 84. Infographie originale [P]
+
+Schéma MYTHOS noir, anthracite, ivoire et or, créé comme **outil moderne de comparaison**, sans image 2,5D ni reconstitution archaïsante. Quatre étapes reliées par des flèches : **définir les options** — **produire le résultat** — **interpréter ou vérifier** — **appliquer**. Sous chaque étape, mentionner la différence entre attribution civique, distribution rituelle, recherche de la cause d'une crise et consultation par textes de réponses.
+
+Une légende indiquera clairement : « Synthèse analytique contemporaine, aucun lien de transmission historique entre les cinq corpus n'est ici démontré. »
+
+# XI. PRÉCAUTIONS FINALES ET CONCLUSION
+
+### 85. Dossiers qui demandent une collation supplémentaire [H]
+
+La priorité de relecture concerne : la lecture des différentes valeurs symboliques KIN dans un témoin KUB précis ; l'édition critique de **1 Samuel 14,41** ; la portée syntaxique du nom Azazel dans Lévitique 16 ; les variantes textuelles des récits d'assignation territoriale ; la traduction grecque de **Constitution d'Athènes 64** ; les recensions des **Sortes Astrampsychi** ; l'histoire du passage de cinquante à quarante-neuf tiges dans le *Xici* ; les conditions de licence des photographies de polyèdres, de tablettes et de manuscrits.
+
+Aucune étude ne doit prétendre que ces vérifications sont déjà achevées lorsqu'elles ne le sont pas. Les hypothèses de fonction ou de restitution doivent rester signalées comme telles.
+
+### 86. Hypothèses rejetées faute de preuves [H]
+
+Il n'est pas établi que tous les oracles antiques fonctionnaient par dés, que la matière des objets de *gôrāl* était unique, que le casque d'Agamemnon constitue l'ancêtre archéologique direct du *klērōtērion*, que chaque nomination athénienne procédait d'une instruction prophétique, que la légende des lots de Préneste retrace un événement vérifiable, ni que les polyèdres retrouvés en Égypte aient tous été des instruments divinatoires.
+
+Aucune chaîne documentaire directe n'est ici démontrée entre les consultations KIN et la tradition chinoise du *Yijing*. Une similitude dans la forme générale « sélection par résultat imprévisible » n'établit ni emprunt ni identité théologique.
+
+### 87. Conclusion philosophique [P]
+
+Comparer les tirages au sort anciens ne revient pas à choisir entre une croyance au « miracle permanent » et une représentation des sociétés antiques comme irrationnelles. Les sources montrent des acteurs qui élaborent des procédures, en discutent les résultats, sollicitent des interprètes, organisent des contrôles, établissent des règles d'accès et attribuent au résultat une autorité particulière.
+
+Dans un royaume hittite, un oracle peut participer à l'examen d'une campagne. Dans le Lévitique, un lot répartit deux fonctions du rite d'expiation. Dans Jonas, il permet une désignation accusatoire suivie d'une enquête. Dans l'épopée grecque, il peut préserver l'honneur de combattants ou répartir des domaines mythiques. Dans la cité athénienne, il peut limiter la manipulation et permettre une rotation des charges. À Préneste, il devient l'objet d'une consultation contestée par Cicéron ; dans le monde gréco-romain tardif, les objets et livres oraculaires peuvent former des techniques de sélection textuelle ; dans la tradition des Changements, une procédure numérique ouvre l'interprétation de configurations.
+
+Le constat commun est restreint mais décisif : **la décision s'organise en laissant une partie du résultat échapper au choix immédiat de celui qui demande**. Le sens, la justice et l'autorité de cette opération ne sont pas universels. Chaque culture construit ses règles et ses médiations.
+
+**[P]** L'homme ne cesse pas de décider lorsqu'il accepte un tirage : il a choisi de formuler une question, de limiter les candidats, d'organiser un protocole, d'accorder un statut au résultat et d'exécuter ses conséquences. Le tirage peut déplacer la responsabilité sans la faire disparaître. C'est dans cette tension entre délégation et jugement que réside la portée philosophique de l'enquête.
+
+**Statut éditorial.** Ce texte est soumis sous l'identifiant historique **MC-126** en tant que dossier distinct des autres monographies MYTHOS. Sa présence dans une file GitHub ne vaut ni attribution canonique ni preuve de publication publique. Le contrôle des reçus GitHub Actions et des pages HTTPS demeure nécessaire. Aucune autre série, planification, archive ou attribution ne doit être modifiée par cette soumission.
